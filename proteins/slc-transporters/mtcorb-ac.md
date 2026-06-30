@@ -161,12 +161,13 @@ MtCorB Delta-C is a CNNM/CorB family magnesium transporter from the thermophilic
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MVVI</span><span class="topo-outside">DLL</span><span class="topo-membrane">IVEVVLFIAALLFSG</span><span class="topo-inside">FFSSSEVALISITRAKVHALQSQGRKGAKALDTLKRST</span></span>
-<span class="topo-line"><span class="topo-inside">DAIQITTLI</span><span class="topo-membrane">GSTIANVAVASLATAIG</span><span class="topo-outside">ITLYGNLG</span><span class="topo-membrane">IAVGLVVAAVLVLVFGE</span><span class="topo-inside">IGPKMYASR</span></span>
-<span class="topo-line"><span class="topo-inside">Y</span><span class="topo-unknown">TEELALRVSRPILFFSKL</span><span class="topo-inside">L</span><span class="topo-unknown">YPVLWVT</span><span class="topo-inside">DRIEQQFAFRPGVTEPVVTEEEIKEWIDVGEEE</span></span>
-<span class="topo-line"><span class="topo-inside">GTIEEEERDMLYSVLRFGDTTAREVMTPRVDVVMIEDTATLESALAIFNETGFSRIPVYH</span></span>
-<span class="topo-line"><span class="topo-inside">ERIDNIVGLLNVKDVFSAQTSATIRDLMYEPYFIPESKKIDELLKELQVKKQHMAVVLDE</span></span>
-<span class="topo-line"><span class="topo-inside">YGSFAGIVTVEDMLEELVLEHHHHH</span><span class="topo-unknown">H</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MVVI</span><span class="topo-outside">DLL</span><span class="topo-membrane">IVEVVLFIAALLFSG</span><span class="topo-inside">FFSSSEVALISITRAKVHALQSQGRKGAKALDTLKRSTDAIQITTLI</span><span class="topo-membrane">GSTIANVAVASLATAIG</span><span class="topo-outside">ITLYGNLG</span><span class="topo-membrane">IAVGLVVAAVLVLVFGE</span><span class="topo-inside">IGPKMYASR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">Y</span><span class="topo-unknown">TEELALRVSRPILFFSKL</span><span class="topo-inside">L</span><span class="topo-unknown">YPVLWVT</span><span class="topo-inside">DRIEQQFAFRPGVTEPVVTEEEIKEWIDVGEEEGTIEEEERDMLYSVLRFGDTTAREVMTPRVDVVMIEDTATLESALAIFNETGFSRIPVYH</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320      </span>
+<span class="topo-line"><span class="topo-inside">ERIDNIVGLLNVKDVFSAQTSATIRDLMYEPYFIPESKKIDELLKELQVKKQHMAVVLDEYGSFAGIVTVEDMLEELVLEHHHHH</span><span class="topo-unknown">H</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -255,6 +256,7 @@ MtCorB Delta-C is a CNNM/CorB family magnesium transporter from the thermophilic
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -270,12 +272,13 @@ MtCorB Delta-C is a CNNM/CorB family magnesium transporter from the thermophilic
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MVV</span><span class="topo-outside">IDLLI</span><span class="topo-membrane">VEVVLFIAALLFSGF</span><span class="topo-inside">FSSSEVALISITRAKVHALQSQGRKGAKALDTLKRST</span></span>
-<span class="topo-line"><span class="topo-inside">DAIQITTLI</span><span class="topo-membrane">GSTIANVAVASLATAIG</span><span class="topo-outside">ITLYGNL</span><span class="topo-membrane">GIAVGLVVAAVLVLVFGE</span><span class="topo-inside">IGPKMYASR</span></span>
-<span class="topo-line"><span class="topo-inside">YTEELALRV</span><span class="topo-unknown">SRPILFFSKL</span><span class="topo-inside">LYPVLWVTDRIEQQF</span><span class="topo-unknown">AFRPG</span><span class="topo-inside">VTEPVVTEEEIKEWIDVGEEE</span></span>
-<span class="topo-line"><span class="topo-inside">GTIEEEERDMLYSVLRFGDTTAREVMTPRVDVVMIEDTATLESALAIFNETGFSRIPVYH</span></span>
-<span class="topo-line"><span class="topo-inside">ERIDNIVGLLNVKDVFSAQTSATIRDLMYEPYFIPESKKIDELLKELQVKKQHMAVVLDE</span></span>
-<span class="topo-line"><span class="topo-inside">YGSFAGIVTVEDMLEELVLEHHHH</span><span class="topo-unknown">HH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MVV</span><span class="topo-outside">IDLLI</span><span class="topo-membrane">VEVVLFIAALLFSGF</span><span class="topo-inside">FSSSEVALISITRAKVHALQSQGRKGAKALDTLKRSTDAIQITTLI</span><span class="topo-membrane">GSTIANVAVASLATAIG</span><span class="topo-outside">ITLYGNL</span><span class="topo-membrane">GIAVGLVVAAVLVLVFGE</span><span class="topo-inside">IGPKMYASR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">YTEELALRV</span><span class="topo-unknown">SRPILFFSKL</span><span class="topo-inside">LYPVLWVTDRIEQQF</span><span class="topo-unknown">AFRPG</span><span class="topo-inside">VTEPVVTEEEIKEWIDVGEEEGTIEEEERDMLYSVLRFGDTTAREVMTPRVDVVMIEDTATLESALAIFNETGFSRIPVYH</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320      </span>
+<span class="topo-line"><span class="topo-inside">ERIDNIVGLLNVKDVFSAQTSATIRDLMYEPYFIPESKKIDELLKELQVKKQHMAVVLDEYGSFAGIVTVEDMLEELVLEHHHH</span><span class="topo-unknown">HH</span></span>
+<details class="topo-details"><summary>Topology coordinates (10 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -357,6 +360,7 @@ MtCorB Delta-C is a CNNM/CorB family magnesium transporter from the thermophilic
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -372,12 +376,13 @@ MtCorB Delta-C is a CNNM/CorB family magnesium transporter from the thermophilic
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">VVIDLL</span><span class="topo-membrane">IVEVVLFIAALLFSGF</span><span class="topo-outside">FSSSEVALISITRAKVHALQSQGRKGAKALDTLKRST</span></span>
-<span class="topo-line"><span class="topo-outside">DAIQITTLI</span><span class="topo-membrane">GSTIANVAVASLATAIGI</span><span class="topo-inside">TLYGNL</span><span class="topo-membrane">GIAVGLVVAAVLVLVFGE</span><span class="topo-outside">IGPKMYASR</span></span>
-<span class="topo-line"><span class="topo-outside">YTEELALRVS</span><span class="topo-unknown">RPILFFSKL</span><span class="topo-outside">LYPVLWVTDRIE</span><span class="topo-unknown">QQFAFRPGVTEP</span><span class="topo-outside">VVTEEEIKEWIDVGEEE</span></span>
-<span class="topo-line"><span class="topo-outside">GTIEEEERDMLYSVLRFGDTTAREVMTPRVDVVMIEDTATLESALAIFNETGFSLIPVYH</span></span>
-<span class="topo-line"><span class="topo-outside">ERIDNIVGLLNVKDVFSAVFRQQTSATIRDLMYEPYFIPESKKIDELLKELQVKKQHMAV</span></span>
-<span class="topo-line"><span class="topo-outside">VLDEYGSFAGIVTVEDMLEELVHH</span><span class="topo-unknown">HHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">VVIDLL</span><span class="topo-membrane">IVEVVLFIAALLFSGF</span><span class="topo-outside">FSSSEVALISITRAKVHALQSQGRKGAKALDTLKRSTDAIQITTLI</span><span class="topo-membrane">GSTIANVAVASLATAIGI</span><span class="topo-inside">TLYGNL</span><span class="topo-membrane">GIAVGLVVAAVLVLVFGE</span><span class="topo-outside">IGPKMYASR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">YTEELALRVS</span><span class="topo-unknown">RPILFFSKL</span><span class="topo-outside">LYPVLWVTDRIE</span><span class="topo-unknown">QQFAFRPGVTEP</span><span class="topo-outside">VVTEEEIKEWIDVGEEEGTIEEEERDMLYSVLRFGDTTAREVMTPRVDVVMIEDTATLESALAIFNETGFSLIPVYH</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320        </span>
+<span class="topo-line"><span class="topo-outside">ERIDNIVGLLNVKDVFSAVFRQQTSATIRDLMYEPYFIPESKKIDELLKELQVKKQHMAVVLDEYGSFAGIVTVEDMLEELVHH</span><span class="topo-unknown">HHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (10 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -459,6 +464,7 @@ MtCorB Delta-C is a CNNM/CorB family magnesium transporter from the thermophilic
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -474,12 +480,13 @@ MtCorB Delta-C is a CNNM/CorB family magnesium transporter from the thermophilic
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MVVIDL</span><span class="topo-membrane">LIVEVVLFIAALLFSG</span><span class="topo-outside">FFSSSEVALISITRAKVHALQSQ</span><span class="topo-unknown">GRKG</span><span class="topo-outside">AKALDTLKRST</span></span>
-<span class="topo-line"><span class="topo-outside">DAIQITTLI</span><span class="topo-membrane">GSTIANVAVASLATAIGI</span><span class="topo-inside">TLYGNL</span><span class="topo-membrane">GIAVGLVVAAVLVLVFG</span><span class="topo-outside">EIGPKMYASR</span></span>
-<span class="topo-line"><span class="topo-outside">YTEELALRVSRPILFFSKLL</span><span class="topo-unknown">YPVLWVT</span><span class="topo-outside">D</span><span class="topo-unknown">RIEQQFAFRPGVTEPVVTEE</span><span class="topo-outside">EIKEWIDVGEEE</span></span>
-<span class="topo-line"><span class="topo-outside">GTIEEEERDMLYSVLRFGDTTAREVMTPRVDVVMIEDTATLESALAIFNETGFSLIPVYH</span></span>
-<span class="topo-line"><span class="topo-outside">ERIDNIVGLLNVKDVFSAVFRQQTSATIRDLMYEPYFIPESKKIDELLKELQVKKQHMAV</span></span>
-<span class="topo-line"><span class="topo-outside">VLDEYGSFAGIVTVEDMLEELVHH</span><span class="topo-unknown">HHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">MVVIDL</span><span class="topo-membrane">LIVEVVLFIAALLFSG</span><span class="topo-outside">FFSSSEVALISITRAKVHALQSQ</span><span class="topo-unknown">GRKG</span><span class="topo-outside">AKALDTLKRSTDAIQITTLI</span><span class="topo-membrane">GSTIANVAVASLATAIGI</span><span class="topo-inside">TLYGNL</span><span class="topo-membrane">GIAVGLVVAAVLVLVFG</span><span class="topo-outside">EIGPKMYASR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">YTEELALRVSRPILFFSKLL</span><span class="topo-unknown">YPVLWVT</span><span class="topo-outside">D</span><span class="topo-unknown">RIEQQFAFRPGVTEPVVTEE</span><span class="topo-outside">EIKEWIDVGEEEGTIEEEERDMLYSVLRFGDTTAREVMTPRVDVVMIEDTATLESALAIFNETGFSLIPVYH</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320        </span>
+<span class="topo-line"><span class="topo-outside">ERIDNIVGLLNVKDVFSAVFRQQTSATIRDLMYEPYFIPESKKIDELLKELQVKKQHMAVVLDEYGSFAGIVTVEDMLEELVHH</span><span class="topo-unknown">HHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -568,6 +575,7 @@ MtCorB Delta-C is a CNNM/CorB family magnesium transporter from the thermophilic
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

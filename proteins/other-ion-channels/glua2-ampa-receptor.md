@@ -63,20 +63,21 @@ GluA2 (also known as GluR2) is an AMPA-subtype ionotropic glutamate receptor (iG
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">NSIQIGGLFPRGADQEYSAFRVGMVQFSTSEFRLTPHIDNLEVANSFAVTNAFCSQFSRG</span></span>
-<span class="topo-line"><span class="topo-outside">VYAIFGFYDKKSVNTITSFCGTLHVSFITPSFPTDGTHPFVIQMRPDLKGALLSLIEYYQ</span></span>
-<span class="topo-line"><span class="topo-outside">WDKFAYLYDSDRGLSTLQAVLDSAAEKKWQVTAINVGNINNDKKDETYRSLFQDLELKKE</span></span>
-<span class="topo-line"><span class="topo-outside">RRVILDCERDKVNDIVDQVITIGKHVKGYHYIIANLGFTDGDLLKIQFGGAEVSGFQIVD</span></span>
-<span class="topo-line"><span class="topo-outside">YDDSLVSKFIERWSTLEEKEYPGAHTATIKYTSALTYDAVQVMTEAFRNLRKQRIEISRR</span></span>
-<span class="topo-line"><span class="topo-outside">GNAGDCLANPAVPWGQGVEIERALKQVQVEGLSGNIKFDQNGKRINYTINIMELKTNGPR</span></span>
-<span class="topo-line"><span class="topo-outside">KIGYWSEVDKMVLTEDDTSGLEQKTVVVTTILESPYVMMKANHAALAGNERYEGYCVDLA</span></span>
-<span class="topo-line"><span class="topo-outside">AEIAKHCGFKYKLTIVGDGKYGARDADTKIWNGMVGELVYGKADIAIAPLTITLVREEVI</span></span>
-<span class="topo-line"><span class="topo-outside">DFSKPFMSLGISIMIKKPQKSKPGVFSFLDPLAY</span><span class="topo-membrane">EIWMCIVFAYIGVSVVLFLV</span><span class="topo-unknown">SRFSPY</span></span>
-<span class="topo-line"><span class="topo-unknown">EWHTEEFEDGRETQSSES</span><span class="topo-inside">TNEFGIFNS</span><span class="topo-unknown">LWFSLGAFMQQGADIS</span><span class="topo-inside">PR</span><span class="topo-membrane">SLSGRIVGGVWWFFT</span></span>
-<span class="topo-line"><span class="topo-membrane">LIIISSY</span><span class="topo-outside">TANLAAFLTVERMVSPIESAEDLSKQTEIAYGTLDSGSTKEFFRRSKIAVFDK</span></span>
-<span class="topo-line"><span class="topo-outside">MWTYMRSAEPSVFVRTTAEGVARVRKSKGKYAYLLESTMNEYIEQRKPCDTMKVGGNLDS</span></span>
-<span class="topo-line"><span class="topo-outside">KGYGIATPKGSSLGTPVNLAVLKLSEQGLLDKLKNKWWYDKGECGAKDSGSKEKTSALSL</span></span>
-<span class="topo-line"><span class="topo-outside">SNV</span><span class="topo-membrane">AGVFYILVGGLGLAMLVALI</span><span class="topo-inside">EFCYK</span><span class="topo-unknown">SRAEAKRMKGLVPRG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">NSIQIGGLFPRGADQEYSAFRVGMVQFSTSEFRLTPHIDNLEVANSFAVTNAFCSQFSRGVYAIFGFYDKKSVNTITSFCGTLHVSFITPSFPTDGTHPFVIQMRPDLKGALLSLIEYYQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">WDKFAYLYDSDRGLSTLQAVLDSAAEKKWQVTAINVGNINNDKKDETYRSLFQDLELKKERRVILDCERDKVNDIVDQVITIGKHVKGYHYIIANLGFTDGDLLKIQFGGAEVSGFQIVD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">YDDSLVSKFIERWSTLEEKEYPGAHTATIKYTSALTYDAVQVMTEAFRNLRKQRIEISRRGNAGDCLANPAVPWGQGVEIERALKQVQVEGLSGNIKFDQNGKRINYTINIMELKTNGPR</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">KIGYWSEVDKMVLTEDDTSGLEQKTVVVTTILESPYVMMKANHAALAGNERYEGYCVDLAAEIAKHCGFKYKLTIVGDGKYGARDADTKIWNGMVGELVYGKADIAIAPLTITLVREEVI</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">DFSKPFMSLGISIMIKKPQKSKPGVFSFLDPLAY</span><span class="topo-membrane">EIWMCIVFAYIGVSVVLFLV</span><span class="topo-unknown">SRFSPYEWHTEEFEDGRETQSSES</span><span class="topo-inside">TNEFGIFNS</span><span class="topo-unknown">LWFSLGAFMQQGADIS</span><span class="topo-inside">PR</span><span class="topo-membrane">SLSGRIVGGVWWFFT</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-membrane">LIIISSY</span><span class="topo-outside">TANLAAFLTVERMVSPIESAEDLSKQTEIAYGTLDSGSTKEFFRRSKIAVFDKMWTYMRSAEPSVFVRTTAEGVARVRKSKGKYAYLLESTMNEYIEQRKPCDTMKVGGNLDS</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820   </span>
+<span class="topo-line"><span class="topo-outside">KGYGIATPKGSSLGTPVNLAVLKLSEQGLLDKLKNKWWYDKGECGAKDSGSKEKTSALSLSNV</span><span class="topo-membrane">AGVFYILVGGLGLAMLVALI</span><span class="topo-inside">EFCYK</span><span class="topo-unknown">SRAEAKRMKGLVPRG</span></span>
+<details class="topo-details"><summary>Topology coordinates (12 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -172,6 +173,7 @@ GluA2 (also known as GluR2) is an AMPA-subtype ionotropic glutamate receptor (iG
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -187,20 +189,21 @@ GluA2 (also known as GluR2) is an AMPA-subtype ionotropic glutamate receptor (iG
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">NSIQIGGLFPRGADQEYSAFRVGMVQFSTSEFRLTPHIDNLEVANSFAVTNAFCSQFSRG</span></span>
-<span class="topo-line"><span class="topo-outside">VYAIFGFYDKKSVNTITSFCGTLHVSFITPSFPTDGTHPFVIQMRPDLKGALLSLIEYYQ</span></span>
-<span class="topo-line"><span class="topo-outside">WDKFAYLYDSDRGLSTLQAVLDSAAEKKWQVTAINVGNINNDKKDETYRSLFQDLELKKE</span></span>
-<span class="topo-line"><span class="topo-outside">RRVILDCERDKVNDIVDQVITIGKHVKGYHYIIANLGFTDGDLLKIQFGGAEVSGFQIVD</span></span>
-<span class="topo-line"><span class="topo-outside">YDDSLVSKFIERWSTLEEKEYPGAHTATIKYTSALTYDAVQVMTEAFRNLRKQRIEISRR</span></span>
-<span class="topo-line"><span class="topo-outside">GNAGDCLANPAVPWGQGVEIERALKQVQVEGLSGNIKFDQNGKRINYTINIMELKTNGPR</span></span>
-<span class="topo-line"><span class="topo-outside">KIGYWSEVDKMVLTEDDTSGLEQKTVVVTTILESPYVMMKANHAALAGNERYEGYCVDLA</span></span>
-<span class="topo-line"><span class="topo-outside">AEIAKHCGFKYKLTIVGDGKYGARDADTKIWNGMVGELVYGKADIAIAPLTITLVREEVI</span></span>
-<span class="topo-line"><span class="topo-outside">DFSKPFMSLGISIMIKKPQKSKPGVFSFLDPLAY</span><span class="topo-membrane">EIWMCIVFAYIGVSVVLFLV</span><span class="topo-unknown">SRFSPY</span></span>
-<span class="topo-line"><span class="topo-unknown">EWHTEEFEDGRETQSSES</span><span class="topo-inside">TNEFGIFN</span><span class="topo-unknown">SLWFSLGAFMQQGADISP</span><span class="topo-membrane">RSLSGRIVGGVWWFFT</span></span>
-<span class="topo-line"><span class="topo-membrane">LIIIS</span><span class="topo-outside">SYTANLAAFLTVERMVSPIESAEDLSKQTEIAYGTLDSGSTKEFFRRSKIAVFDK</span></span>
-<span class="topo-line"><span class="topo-outside">MWTYMRSAEPSVFVRTTAEGVARVRKSKGKYAYLLESTMNEYIEQRKPCDTMKVGGNLDS</span></span>
-<span class="topo-line"><span class="topo-outside">KGYGIATPKGSSLGTPVNLAVLKLSEQGLLDKLKNKWWYDKGECGAKDSGSKEKTSALSL</span></span>
-<span class="topo-line"><span class="topo-outside">SNV</span><span class="topo-membrane">AGVFYILVGGLGLAMLVAL</span><span class="topo-inside">IEFCYK</span><span class="topo-unknown">SRAEAKRMKGLVPRG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">NSIQIGGLFPRGADQEYSAFRVGMVQFSTSEFRLTPHIDNLEVANSFAVTNAFCSQFSRGVYAIFGFYDKKSVNTITSFCGTLHVSFITPSFPTDGTHPFVIQMRPDLKGALLSLIEYYQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">WDKFAYLYDSDRGLSTLQAVLDSAAEKKWQVTAINVGNINNDKKDETYRSLFQDLELKKERRVILDCERDKVNDIVDQVITIGKHVKGYHYIIANLGFTDGDLLKIQFGGAEVSGFQIVD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">YDDSLVSKFIERWSTLEEKEYPGAHTATIKYTSALTYDAVQVMTEAFRNLRKQRIEISRRGNAGDCLANPAVPWGQGVEIERALKQVQVEGLSGNIKFDQNGKRINYTINIMELKTNGPR</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">KIGYWSEVDKMVLTEDDTSGLEQKTVVVTTILESPYVMMKANHAALAGNERYEGYCVDLAAEIAKHCGFKYKLTIVGDGKYGARDADTKIWNGMVGELVYGKADIAIAPLTITLVREEVI</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">DFSKPFMSLGISIMIKKPQKSKPGVFSFLDPLAY</span><span class="topo-membrane">EIWMCIVFAYIGVSVVLFLV</span><span class="topo-unknown">SRFSPYEWHTEEFEDGRETQSSES</span><span class="topo-inside">TNEFGIFN</span><span class="topo-unknown">SLWFSLGAFMQQGADISP</span><span class="topo-membrane">RSLSGRIVGGVWWFFT</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-membrane">LIIIS</span><span class="topo-outside">SYTANLAAFLTVERMVSPIESAEDLSKQTEIAYGTLDSGSTKEFFRRSKIAVFDKMWTYMRSAEPSVFVRTTAEGVARVRKSKGKYAYLLESTMNEYIEQRKPCDTMKVGGNLDS</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820   </span>
+<span class="topo-line"><span class="topo-outside">KGYGIATPKGSSLGTPVNLAVLKLSEQGLLDKLKNKWWYDKGECGAKDSGSKEKTSALSLSNV</span><span class="topo-membrane">AGVFYILVGGLGLAMLVAL</span><span class="topo-inside">IEFCYK</span><span class="topo-unknown">SRAEAKRMKGLVPRG</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -289,6 +292,7 @@ GluA2 (also known as GluR2) is an AMPA-subtype ionotropic glutamate receptor (iG
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -304,20 +308,21 @@ GluA2 (also known as GluR2) is an AMPA-subtype ionotropic glutamate receptor (iG
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">NSIQIGGLFPRGADQEYSAFRVGMVQFSTSEFRLTPHIDNLEVANSFAVTNAFCSQFSRG</span></span>
-<span class="topo-line"><span class="topo-outside">VYAIFGFYDKKSVNTITSFCGTLHVSFITPSFPTDGTHPFVIQMRPDLKGALLSLIEYYQ</span></span>
-<span class="topo-line"><span class="topo-outside">WDKFAYLYDSDRGLSTLQAVLDSAAEKKWQVTAINVGNINNDKKDETYRSLFQDLELKKE</span></span>
-<span class="topo-line"><span class="topo-outside">RRVILDCERDKVNDIVDQVITIGKHVKGYHYIIANLGFTDGDLLKIQFGGAEVSGFQIVD</span></span>
-<span class="topo-line"><span class="topo-outside">YDDSLVSKFIERWSTLEEKEYPGAHTATIKYTSALTYDAVQVMTEAFRNLRKQRIEISRR</span></span>
-<span class="topo-line"><span class="topo-outside">GNAGDCLANPAVPWGQGVEIERALKQVQVEGLSGNIKFDQNGKRINYTINIMELKTNGPR</span></span>
-<span class="topo-line"><span class="topo-outside">KIGYWSEVDKMVLTEDDTSGLEQKTVVVTTILESPYVMMKANHAALAGNERYEGYCVDLA</span></span>
-<span class="topo-line"><span class="topo-outside">AEIAKHCGFKYKLTIVGDGKYGARDADTKIWNGMVGELVYGKADIAIAPLTITLVREEVI</span></span>
-<span class="topo-line"><span class="topo-outside">DFSKPFMSLGISIMIKKPQKSKPGVFSFLDPLAYEI</span><span class="topo-membrane">WMCIVFAYIGVSVVLFLVS</span><span class="topo-unknown">RFSPY</span></span>
-<span class="topo-line"><span class="topo-unknown">EWHTEEFEDGRETQSSES</span><span class="topo-inside">TNEFG</span><span class="topo-unknown">IFNSLWFSLGAFMQQGADISP</span><span class="topo-membrane">RSLSGRIVGGVWWFFT</span></span>
-<span class="topo-line"><span class="topo-membrane">LIIIS</span><span class="topo-outside">SYTANLAAFLTVERMVSPIESAEDLSKQTEIAYGTLDSGSTKEFFRRSKIAVFDK</span></span>
-<span class="topo-line"><span class="topo-outside">MWTYMRSAEPSVFVRTTAEGVARVRKSKGKYAYLLESTMNEYIEQRKPCDTMKVGGNLDS</span></span>
-<span class="topo-line"><span class="topo-outside">KGYGIATPKGSSLGTPVNLAVLKLSEQGLLDKLKNKWWYDKGECGAKDSGSKEKTSALSL</span></span>
-<span class="topo-line"><span class="topo-outside">SNV</span><span class="topo-membrane">AGVFYILVGGLGLAMLVALIE</span><span class="topo-inside">FCYK</span><span class="topo-unknown">SRAEAKRMKGLVPRG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">NSIQIGGLFPRGADQEYSAFRVGMVQFSTSEFRLTPHIDNLEVANSFAVTNAFCSQFSRGVYAIFGFYDKKSVNTITSFCGTLHVSFITPSFPTDGTHPFVIQMRPDLKGALLSLIEYYQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">WDKFAYLYDSDRGLSTLQAVLDSAAEKKWQVTAINVGNINNDKKDETYRSLFQDLELKKERRVILDCERDKVNDIVDQVITIGKHVKGYHYIIANLGFTDGDLLKIQFGGAEVSGFQIVD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">YDDSLVSKFIERWSTLEEKEYPGAHTATIKYTSALTYDAVQVMTEAFRNLRKQRIEISRRGNAGDCLANPAVPWGQGVEIERALKQVQVEGLSGNIKFDQNGKRINYTINIMELKTNGPR</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">KIGYWSEVDKMVLTEDDTSGLEQKTVVVTTILESPYVMMKANHAALAGNERYEGYCVDLAAEIAKHCGFKYKLTIVGDGKYGARDADTKIWNGMVGELVYGKADIAIAPLTITLVREEVI</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">DFSKPFMSLGISIMIKKPQKSKPGVFSFLDPLAYEI</span><span class="topo-membrane">WMCIVFAYIGVSVVLFLVS</span><span class="topo-unknown">RFSPYEWHTEEFEDGRETQSSES</span><span class="topo-inside">TNEFG</span><span class="topo-unknown">IFNSLWFSLGAFMQQGADISP</span><span class="topo-membrane">RSLSGRIVGGVWWFFT</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-membrane">LIIIS</span><span class="topo-outside">SYTANLAAFLTVERMVSPIESAEDLSKQTEIAYGTLDSGSTKEFFRRSKIAVFDKMWTYMRSAEPSVFVRTTAEGVARVRKSKGKYAYLLESTMNEYIEQRKPCDTMKVGGNLDS</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820   </span>
+<span class="topo-line"><span class="topo-outside">KGYGIATPKGSSLGTPVNLAVLKLSEQGLLDKLKNKWWYDKGECGAKDSGSKEKTSALSLSNV</span><span class="topo-membrane">AGVFYILVGGLGLAMLVALIE</span><span class="topo-inside">FCYK</span><span class="topo-unknown">SRAEAKRMKGLVPRG</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -406,6 +411,7 @@ GluA2 (also known as GluR2) is an AMPA-subtype ionotropic glutamate receptor (iG
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -421,20 +427,21 @@ GluA2 (also known as GluR2) is an AMPA-subtype ionotropic glutamate receptor (iG
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">NSIQIGGLFPRGADQEYSAFRVGMVQFSTSEFRLTPHIDNLEVANSFAVTNAFCSQFSRG</span></span>
-<span class="topo-line"><span class="topo-outside">VYAIFGFYDKKSVNTITSFCGTLHVSFITPSFPTDGTHPFVIQMRPDLKGALLSLIEYYQ</span></span>
-<span class="topo-line"><span class="topo-outside">WDKFAYLYDSDRGLSTLQAVLDSAAEKKWQVTAINVGNINNDKKDETYRSLFQDLELKKE</span></span>
-<span class="topo-line"><span class="topo-outside">RRVILDCERDKVNDIVDQVITIGKHVKGYHYIIANLGFTDGDLLKIQFGGAEVSGFQIVD</span></span>
-<span class="topo-line"><span class="topo-outside">YDDSLVSKFIERWSTLEEKEYPGAHTATIKYTSALTYDAVQVMTEAFRNLRKQRIEISRR</span></span>
-<span class="topo-line"><span class="topo-outside">GNAGDCLANPAVPWGQGVEIERALKQVQVEGLSGNIKFDQNGKRINYTINIMELKTNGPR</span></span>
-<span class="topo-line"><span class="topo-outside">KIGYWSEVDKMVLTEDDTSGLEQKTVVVTTILESPYVMMKANHAALAGNERYEGYCVDLA</span></span>
-<span class="topo-line"><span class="topo-outside">AEIAKHCGFKYKLTIVGDGKYGARDADTKIWNGMVGELVYGKADIAIAPLTITLVREEVI</span></span>
-<span class="topo-line"><span class="topo-outside">DFSKPFMSLGISIMIKKPQKSKPGVFSFLDPLAYEI</span><span class="topo-membrane">WMCIVFAYIGVSVVLFLV</span><span class="topo-unknown">SRFSPY</span></span>
-<span class="topo-line"><span class="topo-unknown">EWHTEEFEDGRETQSSES</span><span class="topo-inside">TNEFG</span><span class="topo-unknown">IFNSLWFSLGAFMQQGADIS</span><span class="topo-inside">PR</span><span class="topo-membrane">SLSGRIVGGVWWFFT</span></span>
-<span class="topo-line"><span class="topo-membrane">LIIIS</span><span class="topo-outside">SYTANLAAFLTVERMVSPIESAEDLSKQTEIAYGTLDSGSTKEFFRRSKIAVFDK</span></span>
-<span class="topo-line"><span class="topo-outside">MWTYMRSAEPSVFVRTTAEGVARVRKSKGKYAYLLESTMNEYIEQRKPCDTMKVGGNLDS</span></span>
-<span class="topo-line"><span class="topo-outside">KGYGIATPKGSSLGTPVNLAVLKLSEQGLLDKLKNKWWYDKGECGAKDSGSKEKTSALSL</span></span>
-<span class="topo-line"><span class="topo-outside">SNVAGV</span><span class="topo-membrane">FYILVGGLGLAMLVALIEFC</span><span class="topo-inside">YK</span><span class="topo-unknown">SRAEAKRMKGLVPRG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">NSIQIGGLFPRGADQEYSAFRVGMVQFSTSEFRLTPHIDNLEVANSFAVTNAFCSQFSRGVYAIFGFYDKKSVNTITSFCGTLHVSFITPSFPTDGTHPFVIQMRPDLKGALLSLIEYYQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">WDKFAYLYDSDRGLSTLQAVLDSAAEKKWQVTAINVGNINNDKKDETYRSLFQDLELKKERRVILDCERDKVNDIVDQVITIGKHVKGYHYIIANLGFTDGDLLKIQFGGAEVSGFQIVD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">YDDSLVSKFIERWSTLEEKEYPGAHTATIKYTSALTYDAVQVMTEAFRNLRKQRIEISRRGNAGDCLANPAVPWGQGVEIERALKQVQVEGLSGNIKFDQNGKRINYTINIMELKTNGPR</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">KIGYWSEVDKMVLTEDDTSGLEQKTVVVTTILESPYVMMKANHAALAGNERYEGYCVDLAAEIAKHCGFKYKLTIVGDGKYGARDADTKIWNGMVGELVYGKADIAIAPLTITLVREEVI</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">DFSKPFMSLGISIMIKKPQKSKPGVFSFLDPLAYEI</span><span class="topo-membrane">WMCIVFAYIGVSVVLFLV</span><span class="topo-unknown">SRFSPYEWHTEEFEDGRETQSSES</span><span class="topo-inside">TNEFG</span><span class="topo-unknown">IFNSLWFSLGAFMQQGADIS</span><span class="topo-inside">PR</span><span class="topo-membrane">SLSGRIVGGVWWFFT</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-membrane">LIIIS</span><span class="topo-outside">SYTANLAAFLTVERMVSPIESAEDLSKQTEIAYGTLDSGSTKEFFRRSKIAVFDKMWTYMRSAEPSVFVRTTAEGVARVRKSKGKYAYLLESTMNEYIEQRKPCDTMKVGGNLDS</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820   </span>
+<span class="topo-line"><span class="topo-outside">KGYGIATPKGSSLGTPVNLAVLKLSEQGLLDKLKNKWWYDKGECGAKDSGSKEKTSALSLSNVAGV</span><span class="topo-membrane">FYILVGGLGLAMLVALIEFC</span><span class="topo-inside">YK</span><span class="topo-unknown">SRAEAKRMKGLVPRG</span></span>
+<details class="topo-details"><summary>Topology coordinates (12 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -530,6 +537,7 @@ GluA2 (also known as GluR2) is an AMPA-subtype ionotropic glutamate receptor (iG
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -679,20 +687,21 @@ GluA2 (also known as GluR2) is an AMPA-subtype ionotropic glutamate receptor (iG
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">NSIQIGGLFPRGADQEYSAFRVGMVQFSTSEFRLTPHIDNLEVANSFAVTNAFCSQFSRG</span></span>
-<span class="topo-line"><span class="topo-outside">VYAIFGFYDKKSVNTITSFCGTLHVSFITPSFPTDGTHPFVIQMRPDLKGALLSLIEYYQ</span></span>
-<span class="topo-line"><span class="topo-outside">WDKFAYLYDSDRGLSTLQAVLDSAAEKKWQVTAINVGNINNDKKDETYRSLFQDLELKKE</span></span>
-<span class="topo-line"><span class="topo-outside">RRVILDCERDKVNDIVDQVITIGKHVKGYHYIIANLGFTDGDLLKIQFGGAEVSGFQIVD</span></span>
-<span class="topo-line"><span class="topo-outside">YDDSLVSKFIERWSTLEEKEYPGAHTATIKYTSALTYDAVQVMTEAFRNLRKQRIEISRR</span></span>
-<span class="topo-line"><span class="topo-outside">GNAGDCLANPAVPWGQGVEIERALKQVQVEGLSGNIKFDQNGKRINYTINIMELKTNGPR</span></span>
-<span class="topo-line"><span class="topo-outside">KIGYWSEVDKMVLTEDDTSGLEQKTVVVTTILESPYVMMKKNHEMLEGNERYEGYCVDLA</span></span>
-<span class="topo-line"><span class="topo-outside">AEIAKHCGFKYKLTIVGDGKYGARDADTKIWNGMVGELVYGKADIAIAPLTITLVREEVI</span></span>
-<span class="topo-line"><span class="topo-outside">DFSKPFMSLGISIMIKKPQKSKPGVFSFLDPLAYEI</span><span class="topo-membrane">WMCIVFAYIGVSVVLFLV</span><span class="topo-inside">S</span><span class="topo-unknown">RFSPY</span></span>
-<span class="topo-line"><span class="topo-unknown">EWHTEEFEDGRETQSSESTNEFG</span><span class="topo-inside">IFNSL</span><span class="topo-unknown">WFSLGAFMQQGCDISPRSL</span><span class="topo-inside">S</span><span class="topo-membrane">GRIVGGVWWFFT</span></span>
-<span class="topo-line"><span class="topo-membrane">LIIIS</span><span class="topo-outside">SYTANLAAFLTVERMVSPIESAEDLSKQTEIAYGTLDSGSTKEFFRRSKIAVFDK</span></span>
-<span class="topo-line"><span class="topo-outside">MWTYMRSAEPSVFVRTTAEGVARVRKSKGKYAYLLESTMNEYIEQRKPCDTMKVGGNLDS</span></span>
-<span class="topo-line"><span class="topo-outside">KGYGIATPKGSSLGTPVNLAVLKLSEQGVLDKLKNKWWYDKGECGAKDSGSKEKTSALSL</span></span>
-<span class="topo-line"><span class="topo-outside">SNV</span><span class="topo-membrane">AGVFYILVGGLGLAMLVAL</span><span class="topo-inside">IEFCY</span><span class="topo-unknown">K</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">NSIQIGGLFPRGADQEYSAFRVGMVQFSTSEFRLTPHIDNLEVANSFAVTNAFCSQFSRGVYAIFGFYDKKSVNTITSFCGTLHVSFITPSFPTDGTHPFVIQMRPDLKGALLSLIEYYQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">WDKFAYLYDSDRGLSTLQAVLDSAAEKKWQVTAINVGNINNDKKDETYRSLFQDLELKKERRVILDCERDKVNDIVDQVITIGKHVKGYHYIIANLGFTDGDLLKIQFGGAEVSGFQIVD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">YDDSLVSKFIERWSTLEEKEYPGAHTATIKYTSALTYDAVQVMTEAFRNLRKQRIEISRRGNAGDCLANPAVPWGQGVEIERALKQVQVEGLSGNIKFDQNGKRINYTINIMELKTNGPR</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">KIGYWSEVDKMVLTEDDTSGLEQKTVVVTTILESPYVMMKKNHEMLEGNERYEGYCVDLAAEIAKHCGFKYKLTIVGDGKYGARDADTKIWNGMVGELVYGKADIAIAPLTITLVREEVI</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">DFSKPFMSLGISIMIKKPQKSKPGVFSFLDPLAYEI</span><span class="topo-membrane">WMCIVFAYIGVSVVLFLV</span><span class="topo-inside">S</span><span class="topo-unknown">RFSPYEWHTEEFEDGRETQSSESTNEFG</span><span class="topo-inside">IFNSL</span><span class="topo-unknown">WFSLGAFMQQGCDISPRSL</span><span class="topo-inside">S</span><span class="topo-membrane">GRIVGGVWWFFT</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-membrane">LIIIS</span><span class="topo-outside">SYTANLAAFLTVERMVSPIESAEDLSKQTEIAYGTLDSGSTKEFFRRSKIAVFDKMWTYMRSAEPSVFVRTTAEGVARVRKSKGKYAYLLESTMNEYIEQRKPCDTMKVGGNLDS</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800        </span>
+<span class="topo-line"><span class="topo-outside">KGYGIATPKGSSLGTPVNLAVLKLSEQGVLDKLKNKWWYDKGECGAKDSGSKEKTSALSLSNV</span><span class="topo-membrane">AGVFYILVGGLGLAMLVAL</span><span class="topo-inside">IEFCY</span><span class="topo-unknown">K</span></span>
+<details class="topo-details"><summary>Topology coordinates (10 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -774,6 +783,7 @@ GluA2 (also known as GluR2) is an AMPA-subtype ionotropic glutamate receptor (iG
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -789,20 +799,21 @@ GluA2 (also known as GluR2) is an AMPA-subtype ionotropic glutamate receptor (iG
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">NSIQIGGLFPRGADQEYSAFRVGMVQFSTSEFRLTPHIDNLEVANSFAVTNAFCSQFSRG</span></span>
-<span class="topo-line"><span class="topo-outside">VYAIFGFYDKKSVNTITSFCGTLHVSFITPSFPTDGTHPFVIQMRPDLKGALLSLIEYYQ</span></span>
-<span class="topo-line"><span class="topo-outside">WDKFAYLYDSDRGLSTLQAVLDSAAEKKWQVTAINVGNINNDKKDETYRSLFQDLELKKE</span></span>
-<span class="topo-line"><span class="topo-outside">RRVILDCERDKVNDIVDQVITIGKHVKGYHYIIANLGFTDGDLLKIQFGGAEVSGFQIVD</span></span>
-<span class="topo-line"><span class="topo-outside">YDDSLVSKFIERWSTLEEKEYPGAHTATIKYTSALTYDAVQVMTEAFRNLRKQRIEISRR</span></span>
-<span class="topo-line"><span class="topo-outside">GNAGDCLANPAVPWGQGVEIERALKQVQVEGLSGNIKFDQNGKRINYTINIMELKTNGPR</span></span>
-<span class="topo-line"><span class="topo-outside">KIGYWSEVDKMVLTEDDTSGLEQKTVVVTTILESPYVMMKKNHEMLEGNERYEGYCVDLA</span></span>
-<span class="topo-line"><span class="topo-outside">AEIAKHCGFKYKLTIVGDGKYGARDADTKIWNGMVGELVYGKADIAIAPLTITLVREEVI</span></span>
-<span class="topo-line"><span class="topo-outside">DFSKPFMSLGISIMIKKPQKSKPG</span><span class="topo-unknown">VFSFLD</span><span class="topo-outside">PLAYE</span><span class="topo-membrane">IWMCIVFAYIGVSVVLFL</span><span class="topo-inside">VS</span><span class="topo-unknown">RFSPY</span></span>
-<span class="topo-line"><span class="topo-unknown">EWHTEEFEDGRETQSSESTNEFG</span><span class="topo-inside">IFNSL</span><span class="topo-unknown">WFSLGAFMQQGCDISPR</span><span class="topo-inside">SL</span><span class="topo-membrane">SGRIVGGVWWFFT</span></span>
-<span class="topo-line"><span class="topo-membrane">LIIISSY</span><span class="topo-outside">TANLAAFLTVERMVSPIESAEDLSKQTEIAYGTLDSGSTKEFFRRSKIAVFDK</span></span>
-<span class="topo-line"><span class="topo-outside">MWTYMRSAEPSVFVRTTAEGVARVRKSKGKYAYLLESTMNEYIEQRKPCDTMKVGGNLDS</span></span>
-<span class="topo-line"><span class="topo-outside">KGYGIATPKGSSLGTPVNLAVLKLSEQGVLDKLKNKWWYDKGECGAKDSGSKEKTSALSL</span></span>
-<span class="topo-line"><span class="topo-outside">SNVA</span><span class="topo-membrane">GVFYILVGGLGLAMLVAL</span><span class="topo-inside">IEFCY</span><span class="topo-unknown">K</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">NSIQIGGLFPRGADQEYSAFRVGMVQFSTSEFRLTPHIDNLEVANSFAVTNAFCSQFSRGVYAIFGFYDKKSVNTITSFCGTLHVSFITPSFPTDGTHPFVIQMRPDLKGALLSLIEYYQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">WDKFAYLYDSDRGLSTLQAVLDSAAEKKWQVTAINVGNINNDKKDETYRSLFQDLELKKERRVILDCERDKVNDIVDQVITIGKHVKGYHYIIANLGFTDGDLLKIQFGGAEVSGFQIVD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">YDDSLVSKFIERWSTLEEKEYPGAHTATIKYTSALTYDAVQVMTEAFRNLRKQRIEISRRGNAGDCLANPAVPWGQGVEIERALKQVQVEGLSGNIKFDQNGKRINYTINIMELKTNGPR</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">KIGYWSEVDKMVLTEDDTSGLEQKTVVVTTILESPYVMMKKNHEMLEGNERYEGYCVDLAAEIAKHCGFKYKLTIVGDGKYGARDADTKIWNGMVGELVYGKADIAIAPLTITLVREEVI</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">DFSKPFMSLGISIMIKKPQKSKPG</span><span class="topo-unknown">VFSFLD</span><span class="topo-outside">PLAYE</span><span class="topo-membrane">IWMCIVFAYIGVSVVLFL</span><span class="topo-inside">VS</span><span class="topo-unknown">RFSPYEWHTEEFEDGRETQSSESTNEFG</span><span class="topo-inside">IFNSL</span><span class="topo-unknown">WFSLGAFMQQGCDISPR</span><span class="topo-inside">SL</span><span class="topo-membrane">SGRIVGGVWWFFT</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-membrane">LIIISSY</span><span class="topo-outside">TANLAAFLTVERMVSPIESAEDLSKQTEIAYGTLDSGSTKEFFRRSKIAVFDKMWTYMRSAEPSVFVRTTAEGVARVRKSKGKYAYLLESTMNEYIEQRKPCDTMKVGGNLDS</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800        </span>
+<span class="topo-line"><span class="topo-outside">KGYGIATPKGSSLGTPVNLAVLKLSEQGVLDKLKNKWWYDKGECGAKDSGSKEKTSALSLSNVA</span><span class="topo-membrane">GVFYILVGGLGLAMLVAL</span><span class="topo-inside">IEFCY</span><span class="topo-unknown">K</span></span>
+<details class="topo-details"><summary>Topology coordinates (12 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -898,6 +909,7 @@ GluA2 (also known as GluR2) is an AMPA-subtype ionotropic glutamate receptor (iG
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -913,20 +925,21 @@ GluA2 (also known as GluR2) is an AMPA-subtype ionotropic glutamate receptor (iG
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">NSIQIGGLFPRGADQEYSAFRVGMVQFSTSEFRLTPHIDNLEVANSFAVTNAFCSQFSRG</span></span>
-<span class="topo-line"><span class="topo-outside">VYAIFGFYDKKSVNTITSFCGTLHVSFITPSFPTDGTHPFVIQMRPDLKGALLSLIEYYQ</span></span>
-<span class="topo-line"><span class="topo-outside">WDKFAYLYDSDRGLSTLQAVLDSAAEKKWQVTAINVGNINNDKKDETYRSLFQDLELKKE</span></span>
-<span class="topo-line"><span class="topo-outside">RRVILDCERDKVNDIVDQVITIGKHVKGYHYIIANLGFTDGDLLKIQFGGAEVSGFQIVD</span></span>
-<span class="topo-line"><span class="topo-outside">YDDSLVSKFIERWSTLEEKEYPGAHTATIKYTSALTYDAVQVMTEAFRNLRKQRIEISRR</span></span>
-<span class="topo-line"><span class="topo-outside">GNAGDCLANPAVPWGQGVEIERALKQVQVEGLSGNIKFDQNGKRINYTINIMELKTNGPR</span></span>
-<span class="topo-line"><span class="topo-outside">KIGYWSEVDKMVLTEDDTSGLEQKTVVVTTILESPYVMMKKNHEMLEGNERYEGYCVDLA</span></span>
-<span class="topo-line"><span class="topo-outside">AEIAKHCGFKYKLTIVGDGKYGARDADTKIWNGMVGELVYGKADIAIAPLTITLVREEVI</span></span>
-<span class="topo-line"><span class="topo-outside">DFSKPFMSLGISIMIKKPQKSKPGVFSFLDPLAYE</span><span class="topo-membrane">IWMCIVFAYIGVSVVLFLV</span><span class="topo-inside">S</span><span class="topo-unknown">RFSPY</span></span>
-<span class="topo-line"><span class="topo-unknown">EWHTEEFEDGRETQSSESTNEFG</span><span class="topo-inside">IFNS</span><span class="topo-unknown">LWFSLGAFMQQGCDISP</span><span class="topo-inside">RSL</span><span class="topo-membrane">SGRIVGGVWWFFT</span></span>
-<span class="topo-line"><span class="topo-membrane">LIIISSY</span><span class="topo-outside">TANLAAFLTVERMVSPIESAEDLSKQTEIAYGTLDSGSTKEFFRRSKIAVFDK</span></span>
-<span class="topo-line"><span class="topo-outside">MWTYMRSAEPSVFVRTTAEGVARVRKSKGKYAYLLESTMNEYIEQRKPCDTMKVGGNLDS</span></span>
-<span class="topo-line"><span class="topo-outside">KGYGIATPKGSSLGTPVNLAVLKLSEQGVLDKLKNKWWYDKGECGAKDSGSKEKTSALSL</span></span>
-<span class="topo-line"><span class="topo-outside">SNV</span><span class="topo-membrane">AGVFYILVGGLGLAMLVAL</span><span class="topo-inside">IEFCYK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">NSIQIGGLFPRGADQEYSAFRVGMVQFSTSEFRLTPHIDNLEVANSFAVTNAFCSQFSRGVYAIFGFYDKKSVNTITSFCGTLHVSFITPSFPTDGTHPFVIQMRPDLKGALLSLIEYYQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">WDKFAYLYDSDRGLSTLQAVLDSAAEKKWQVTAINVGNINNDKKDETYRSLFQDLELKKERRVILDCERDKVNDIVDQVITIGKHVKGYHYIIANLGFTDGDLLKIQFGGAEVSGFQIVD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">YDDSLVSKFIERWSTLEEKEYPGAHTATIKYTSALTYDAVQVMTEAFRNLRKQRIEISRRGNAGDCLANPAVPWGQGVEIERALKQVQVEGLSGNIKFDQNGKRINYTINIMELKTNGPR</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">KIGYWSEVDKMVLTEDDTSGLEQKTVVVTTILESPYVMMKKNHEMLEGNERYEGYCVDLAAEIAKHCGFKYKLTIVGDGKYGARDADTKIWNGMVGELVYGKADIAIAPLTITLVREEVI</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">DFSKPFMSLGISIMIKKPQKSKPGVFSFLDPLAYE</span><span class="topo-membrane">IWMCIVFAYIGVSVVLFLV</span><span class="topo-inside">S</span><span class="topo-unknown">RFSPYEWHTEEFEDGRETQSSESTNEFG</span><span class="topo-inside">IFNS</span><span class="topo-unknown">LWFSLGAFMQQGCDISP</span><span class="topo-inside">RSL</span><span class="topo-membrane">SGRIVGGVWWFFT</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-membrane">LIIISSY</span><span class="topo-outside">TANLAAFLTVERMVSPIESAEDLSKQTEIAYGTLDSGSTKEFFRRSKIAVFDKMWTYMRSAEPSVFVRTTAEGVARVRKSKGKYAYLLESTMNEYIEQRKPCDTMKVGGNLDS</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800        </span>
+<span class="topo-line"><span class="topo-outside">KGYGIATPKGSSLGTPVNLAVLKLSEQGVLDKLKNKWWYDKGECGAKDSGSKEKTSALSLSNV</span><span class="topo-membrane">AGVFYILVGGLGLAMLVAL</span><span class="topo-inside">IEFCYK</span></span>
+<details class="topo-details"><summary>Topology coordinates (10 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1008,6 +1021,7 @@ GluA2 (also known as GluR2) is an AMPA-subtype ionotropic glutamate receptor (iG
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1023,20 +1037,21 @@ GluA2 (also known as GluR2) is an AMPA-subtype ionotropic glutamate receptor (iG
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">NSIQIGGLFPRGADQEYSAFRVGMVQFSTSEFRLTPHIDNLEVANSFAVTNAFCSQFSRG</span></span>
-<span class="topo-line"><span class="topo-outside">VYAIFGFYDKKSVNTITSFCGTLHVSFITPSFPTDGTHPFVIQMRPDLKGALLSLIEYYQ</span></span>
-<span class="topo-line"><span class="topo-outside">WDKFAYLYDSDRGLSTLQAVLDSAAEKKWQVTAINVGNINNDKKDETYRSLFQDLELKKE</span></span>
-<span class="topo-line"><span class="topo-outside">RRVILDCERDKVNDIVDQVITIGKHVKGYHYIIANLGFTDGDLLKIQFGGAEVSGFQIVD</span></span>
-<span class="topo-line"><span class="topo-outside">YDDSLVSKFIERWSTLEEKEYPGAHTATIKYTSALTYDAVQVMTEAFRNLRKQRIEISRR</span></span>
-<span class="topo-line"><span class="topo-outside">GNAGDCLANPAVPWGQGVEIERALKQVQVEGLSGNIKFDQNGKRINYTINIMELKTNGPR</span></span>
-<span class="topo-line"><span class="topo-outside">KIGYWSEVDKMVLTEDDTSGLEQKTVVVTTILESPYVMMKKNHEMLEGNERYEGYCVDLA</span></span>
-<span class="topo-line"><span class="topo-outside">AEIAKHCGFKYKLTIVGDGKYGARDADTKIWNGMVGELVYGKADIAIAPLTITLVREEVI</span></span>
-<span class="topo-line"><span class="topo-outside">DFSKPFMSLGISIMIKKPQKSKPGVFSFLDPLAYE</span><span class="topo-membrane">IWMCIVFAYIGVSVVLFLV</span><span class="topo-inside">S</span><span class="topo-unknown">RFSPY</span></span>
-<span class="topo-line"><span class="topo-unknown">EWHTEEFEDGRETQSSESTNEFG</span><span class="topo-inside">IFNS</span><span class="topo-unknown">LWFSLGAFMQQGCDISPR</span><span class="topo-inside">SL</span><span class="topo-membrane">SGRIVGGVWWFFT</span></span>
-<span class="topo-line"><span class="topo-membrane">LIIIS</span><span class="topo-outside">SYTANLAAFLTVERMVSPIESAEDLSKQTEIAYGTLDSGSTKEFFRRSKIAVFDK</span></span>
-<span class="topo-line"><span class="topo-outside">MWTYMRSAEPSVFVRTTAEGVARVRKSKGKYAYLLESTMNEYIEQRKPCDTMKVGGNLDS</span></span>
-<span class="topo-line"><span class="topo-outside">KGYGIATPKGSSLGTPVNLAVLKLSEQGVLDKLKNKWWYDKGECGAKDSGSKEKTSALSL</span></span>
-<span class="topo-line"><span class="topo-outside">SNV</span><span class="topo-membrane">AGVFYILVGGLGLAMLV</span><span class="topo-inside">ALIEFCY</span><span class="topo-unknown">K</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">NSIQIGGLFPRGADQEYSAFRVGMVQFSTSEFRLTPHIDNLEVANSFAVTNAFCSQFSRGVYAIFGFYDKKSVNTITSFCGTLHVSFITPSFPTDGTHPFVIQMRPDLKGALLSLIEYYQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">WDKFAYLYDSDRGLSTLQAVLDSAAEKKWQVTAINVGNINNDKKDETYRSLFQDLELKKERRVILDCERDKVNDIVDQVITIGKHVKGYHYIIANLGFTDGDLLKIQFGGAEVSGFQIVD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">YDDSLVSKFIERWSTLEEKEYPGAHTATIKYTSALTYDAVQVMTEAFRNLRKQRIEISRRGNAGDCLANPAVPWGQGVEIERALKQVQVEGLSGNIKFDQNGKRINYTINIMELKTNGPR</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">KIGYWSEVDKMVLTEDDTSGLEQKTVVVTTILESPYVMMKKNHEMLEGNERYEGYCVDLAAEIAKHCGFKYKLTIVGDGKYGARDADTKIWNGMVGELVYGKADIAIAPLTITLVREEVI</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">DFSKPFMSLGISIMIKKPQKSKPGVFSFLDPLAYE</span><span class="topo-membrane">IWMCIVFAYIGVSVVLFLV</span><span class="topo-inside">S</span><span class="topo-unknown">RFSPYEWHTEEFEDGRETQSSESTNEFG</span><span class="topo-inside">IFNS</span><span class="topo-unknown">LWFSLGAFMQQGCDISPR</span><span class="topo-inside">SL</span><span class="topo-membrane">SGRIVGGVWWFFT</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-membrane">LIIIS</span><span class="topo-outside">SYTANLAAFLTVERMVSPIESAEDLSKQTEIAYGTLDSGSTKEFFRRSKIAVFDKMWTYMRSAEPSVFVRTTAEGVARVRKSKGKYAYLLESTMNEYIEQRKPCDTMKVGGNLDS</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800        </span>
+<span class="topo-line"><span class="topo-outside">KGYGIATPKGSSLGTPVNLAVLKLSEQGVLDKLKNKWWYDKGECGAKDSGSKEKTSALSLSNV</span><span class="topo-membrane">AGVFYILVGGLGLAMLV</span><span class="topo-inside">ALIEFCY</span><span class="topo-unknown">K</span></span>
+<details class="topo-details"><summary>Topology coordinates (10 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1118,6 +1133,7 @@ GluA2 (also known as GluR2) is an AMPA-subtype ionotropic glutamate receptor (iG
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1263,20 +1279,21 @@ GluA2 (also known as GluR2) is an AMPA-subtype ionotropic glutamate receptor (iG
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">NSIQIGGLFPRGADQEYSAFRVGMVQFSTSEFRLTPHIDNLEVANSFAVTNAFCSQFSRG</span></span>
-<span class="topo-line"><span class="topo-outside">VYAIFGFYDKKSVNTITSFCGTLHVSFITPSFPTDGTHPFVIQMRPDLKGALLSLIEYYQ</span></span>
-<span class="topo-line"><span class="topo-outside">WDKFAYLYDSDRGLSTLQAVLDSAAEKKWQVTAINVGNINNDKKDETYRSLFQDLELKKE</span></span>
-<span class="topo-line"><span class="topo-outside">RRVILDCERDKVNDIVDQVITIGKHVKGYHYIIANLGFTDGDLLKIQFGGAEVSGFQIVD</span></span>
-<span class="topo-line"><span class="topo-outside">YDDSLVSKFIERWSTLEEKEYPGAHTATIKYTSALTYDAVQVMTEAFRNLRKQRIEISRR</span></span>
-<span class="topo-line"><span class="topo-outside">GNAGDCLANPAVPWGQGVEIERALKQVQVEGLSGNIKFDQNGKRINYTINIMELKTNGPR</span></span>
-<span class="topo-line"><span class="topo-outside">KIGYWSEVDKMVLTEDDTSGLEQKTVVVTTILESPYVMMKANHAALAGNERYEGYCVDLA</span></span>
-<span class="topo-line"><span class="topo-outside">AEIAKHCGFKYKLTIVGDGKYGARDADTKIWNGMVGELVYGKADIAIAPLTITLVREEVI</span></span>
-<span class="topo-line"><span class="topo-outside">DFSKPFMSLGISIMIKKPQKSKPG</span><span class="topo-membrane">VFSFLDPLAYEIWMCIVFAYIGVSVVLFLVS</span><span class="topo-inside">RFS</span><span class="topo-unknown">PY</span></span>
-<span class="topo-line"><span class="topo-unknown">EWHTEEFEDGRETQSSESTNEF</span><span class="topo-inside">AI</span><span class="topo-unknown">FQSAWFSLGAFMQQGADIS</span><span class="topo-inside">PRS</span><span class="topo-membrane">LSGRIVGGVWWFFT</span></span>
-<span class="topo-line"><span class="topo-membrane">LIIISSYTA</span><span class="topo-outside">NLAAFLTVERMVSPIESAEDLSKQTEIAYGTLDSGSTKEFFRRSKIAVFDK</span></span>
-<span class="topo-line"><span class="topo-outside">MWTYMRSAEPSVFVRTTAEGVARVRKSKGKYAYLLESTMNEYIEQRKPCDTMKVGGNLDS</span></span>
-<span class="topo-line"><span class="topo-outside">KGYGIATPKGSSLGTPVNLAVLKLSEQGLLDKLKNKWWYDKGECGAKDSGSKEKTSALS</span><span class="topo-membrane">L</span></span>
-<span class="topo-line"><span class="topo-membrane">SNVAGVFYILVGGLGLAMLVALI</span><span class="topo-inside">EFCYK</span><span class="topo-unknown">SRAEAKRMKGLVPRG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">NSIQIGGLFPRGADQEYSAFRVGMVQFSTSEFRLTPHIDNLEVANSFAVTNAFCSQFSRGVYAIFGFYDKKSVNTITSFCGTLHVSFITPSFPTDGTHPFVIQMRPDLKGALLSLIEYYQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">WDKFAYLYDSDRGLSTLQAVLDSAAEKKWQVTAINVGNINNDKKDETYRSLFQDLELKKERRVILDCERDKVNDIVDQVITIGKHVKGYHYIIANLGFTDGDLLKIQFGGAEVSGFQIVD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">YDDSLVSKFIERWSTLEEKEYPGAHTATIKYTSALTYDAVQVMTEAFRNLRKQRIEISRRGNAGDCLANPAVPWGQGVEIERALKQVQVEGLSGNIKFDQNGKRINYTINIMELKTNGPR</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">KIGYWSEVDKMVLTEDDTSGLEQKTVVVTTILESPYVMMKANHAALAGNERYEGYCVDLAAEIAKHCGFKYKLTIVGDGKYGARDADTKIWNGMVGELVYGKADIAIAPLTITLVREEVI</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">DFSKPFMSLGISIMIKKPQKSKPG</span><span class="topo-membrane">VFSFLDPLAYEIWMCIVFAYIGVSVVLFLVS</span><span class="topo-inside">RFS</span><span class="topo-unknown">PYEWHTEEFEDGRETQSSESTNEF</span><span class="topo-inside">AI</span><span class="topo-unknown">FQSAWFSLGAFMQQGADIS</span><span class="topo-inside">PRS</span><span class="topo-membrane">LSGRIVGGVWWFFT</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-membrane">LIIISSYTA</span><span class="topo-outside">NLAAFLTVERMVSPIESAEDLSKQTEIAYGTLDSGSTKEFFRRSKIAVFDKMWTYMRSAEPSVFVRTTAEGVARVRKSKGKYAYLLESTMNEYIEQRKPCDTMKVGGNLDS</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820   </span>
+<span class="topo-line"><span class="topo-outside">KGYGIATPKGSSLGTPVNLAVLKLSEQGLLDKLKNKWWYDKGECGAKDSGSKEKTSALS</span><span class="topo-membrane">LSNVAGVFYILVGGLGLAMLVALI</span><span class="topo-inside">EFCYK</span><span class="topo-unknown">SRAEAKRMKGLVPRG</span></span>
+<details class="topo-details"><summary>Topology coordinates (12 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1372,6 +1389,7 @@ GluA2 (also known as GluR2) is an AMPA-subtype ionotropic glutamate receptor (iG
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1387,20 +1405,21 @@ GluA2 (also known as GluR2) is an AMPA-subtype ionotropic glutamate receptor (iG
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">NSIQIGGLFPRGADQEYSAFRVGMVQFSTSEFRLTPHIDNLEVANSFAVTNAFCSQFSRG</span></span>
-<span class="topo-line"><span class="topo-outside">VYAIFGFYDKKSVNTITSFCGTLHVSFITPSFPTDGTHPFVIQMRPDLKGALLSLIEYYQ</span></span>
-<span class="topo-line"><span class="topo-outside">WDKFAYLYDSDRGLSTLQAVLDSAAEKKWQVTAINVGNINNDKKDETYRSLFQDLELKKE</span></span>
-<span class="topo-line"><span class="topo-outside">RRVILDCERDKVNDIVDQVITIGKHVKGYHYIIANLGFTDGDLLKIQFGGAEVSGFQIVD</span></span>
-<span class="topo-line"><span class="topo-outside">YDDSLVSKFIERWSTLEEKEYPGAHTATIKYTSALTYDAVQVMTEAFRNLRKQRIEISRR</span></span>
-<span class="topo-line"><span class="topo-outside">GNAGDCLANPAVPWGQGVEIERALKQVQVEGLSGNIKFDQNGKRINYTINIMELKTNGPR</span></span>
-<span class="topo-line"><span class="topo-outside">KIGYWSEVDKMVLTEDDTSGLEQKTVVVTTILESPYVMMKANHAALAGNERYEGYCVDLA</span></span>
-<span class="topo-line"><span class="topo-outside">AEIAKHCGFKYKLTIVGDGKYGARDADTKIWNGMVGELVYGKADIAIAPLTITLVREEVI</span></span>
-<span class="topo-line"><span class="topo-outside">DFSKPFMSLGISIMIKKPQKSKPGVFSF</span><span class="topo-membrane">LDPLAYEIWMCIVFAYIGVSVVLFLV</span><span class="topo-inside">SR</span><span class="topo-unknown">FSPY</span></span>
-<span class="topo-line"><span class="topo-unknown">EWHTEEFEDGRETQSSESTNEF</span><span class="topo-inside">AIFQS</span><span class="topo-unknown">AWFSLGAFMQQGADI</span><span class="topo-inside">SPRS</span><span class="topo-membrane">LSGRIVGGVWWFFT</span></span>
-<span class="topo-line"><span class="topo-membrane">LIIISSYTANL</span><span class="topo-outside">AAFLTVERMVSPIESAEDLSKQTEIAYGTLDSGSTKEFFRRSKIAVFDK</span></span>
-<span class="topo-line"><span class="topo-outside">MWTYMRSAEPSVFVRTTAEGVARVRKSKGKYAYLLESTMNEYIEQRKPCDTMKVGGNLDS</span></span>
-<span class="topo-line"><span class="topo-outside">KGYGIATPKGSSLGTPVNLAVLKLSEQGLLDKLKNKWWYDKGECGAKDSGSKEKTSALSL</span></span>
-<span class="topo-line"><span class="topo-membrane">SNVAGVFYILVGGLGLAMLVALI</span><span class="topo-inside">EFCY</span><span class="topo-unknown">KSRAEAKRMKGLVPRG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">NSIQIGGLFPRGADQEYSAFRVGMVQFSTSEFRLTPHIDNLEVANSFAVTNAFCSQFSRGVYAIFGFYDKKSVNTITSFCGTLHVSFITPSFPTDGTHPFVIQMRPDLKGALLSLIEYYQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">WDKFAYLYDSDRGLSTLQAVLDSAAEKKWQVTAINVGNINNDKKDETYRSLFQDLELKKERRVILDCERDKVNDIVDQVITIGKHVKGYHYIIANLGFTDGDLLKIQFGGAEVSGFQIVD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">YDDSLVSKFIERWSTLEEKEYPGAHTATIKYTSALTYDAVQVMTEAFRNLRKQRIEISRRGNAGDCLANPAVPWGQGVEIERALKQVQVEGLSGNIKFDQNGKRINYTINIMELKTNGPR</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">KIGYWSEVDKMVLTEDDTSGLEQKTVVVTTILESPYVMMKANHAALAGNERYEGYCVDLAAEIAKHCGFKYKLTIVGDGKYGARDADTKIWNGMVGELVYGKADIAIAPLTITLVREEVI</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">DFSKPFMSLGISIMIKKPQKSKPGVFSF</span><span class="topo-membrane">LDPLAYEIWMCIVFAYIGVSVVLFLV</span><span class="topo-inside">SR</span><span class="topo-unknown">FSPYEWHTEEFEDGRETQSSESTNEF</span><span class="topo-inside">AIFQS</span><span class="topo-unknown">AWFSLGAFMQQGADI</span><span class="topo-inside">SPRS</span><span class="topo-membrane">LSGRIVGGVWWFFT</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-membrane">LIIISSYTANL</span><span class="topo-outside">AAFLTVERMVSPIESAEDLSKQTEIAYGTLDSGSTKEFFRRSKIAVFDKMWTYMRSAEPSVFVRTTAEGVARVRKSKGKYAYLLESTMNEYIEQRKPCDTMKVGGNLDS</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820   </span>
+<span class="topo-line"><span class="topo-outside">KGYGIATPKGSSLGTPVNLAVLKLSEQGLLDKLKNKWWYDKGECGAKDSGSKEKTSALSL</span><span class="topo-membrane">SNVAGVFYILVGGLGLAMLVALI</span><span class="topo-inside">EFCY</span><span class="topo-unknown">KSRAEAKRMKGLVPRG</span></span>
+<details class="topo-details"><summary>Topology coordinates (12 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1496,6 +1515,7 @@ GluA2 (also known as GluR2) is an AMPA-subtype ionotropic glutamate receptor (iG
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1511,20 +1531,21 @@ GluA2 (also known as GluR2) is an AMPA-subtype ionotropic glutamate receptor (iG
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">NSIQIGGLFPRGADQEYSAFRVGMVQFSTSEFRLTPHIDNLEVANSFAVTNAFCSQFSRG</span></span>
-<span class="topo-line"><span class="topo-outside">VYAIFGFYDKKSVNTITSFCGTLHVSFITPSFPTDGTHPFVIQMRPDLKGALLSLIEYYQ</span></span>
-<span class="topo-line"><span class="topo-outside">WDKFAYLYDSDRGLSTLQAVLDSAAEKKWQVTAINVGNINNDKKDETYRSLFQDLELKKE</span></span>
-<span class="topo-line"><span class="topo-outside">RRVILDCERDKVNDIVDQVITIGKHVKGYHYIIANLGFTDGDLLKIQFGGAEVSGFQIVD</span></span>
-<span class="topo-line"><span class="topo-outside">YDDSLVSKFIERWSTLEEKEYPGAHTATIKYTSALTYDAVQVMTEAFRNLRKQRIEISRR</span></span>
-<span class="topo-line"><span class="topo-outside">GNAGDCLANPAVPWGQGVEIERALKQVQVEGLSGNIKFDQNGKRINYTINIMELKTNGPR</span></span>
-<span class="topo-line"><span class="topo-outside">KIGYWSEVDKMVLTEDDTSGLEQKTVVVTTILESPYVMMKANHAALAGNERYEGYCVDLA</span></span>
-<span class="topo-line"><span class="topo-outside">AEIAKHCGFKYKLTIVGDGKYGARDADTKIWNGMVGELVYGKADIAIAPLTITLVREEVI</span></span>
-<span class="topo-line"><span class="topo-outside">DFSKPFMSLGISIMIKKPQKSKPG</span><span class="topo-membrane">VFSFLDPLAYEIWMCIVFAYIGVSVVLFLV</span><span class="topo-inside">SRFSPY</span></span>
-<span class="topo-line"><span class="topo-inside">E</span><span class="topo-unknown">WHTEEFEDGRETQSSES</span><span class="topo-inside">TNEFAIFQS</span><span class="topo-unknown">AWFSLGAFMQQGADI</span><span class="topo-inside">SPRS</span><span class="topo-membrane">LSGRIVGGVWWFFT</span></span>
-<span class="topo-line"><span class="topo-membrane">LIIISSYTANL</span><span class="topo-outside">AAFLTVERMVSPIESAEDLSKQTEIAYGTLDSGSTKEFFRRSKIAVFDK</span></span>
-<span class="topo-line"><span class="topo-outside">MWTYMRSAEPSVFVRTTAEGVARVRKSKGKYAYLLESTMNEYIEQRKPCDTMKVGGNLDS</span></span>
-<span class="topo-line"><span class="topo-outside">KGYGIATPKGSSLGTPVNLAVLKLSEQGLLDKLKNKWWYDKGECGAKDSGSKEKTSAL</span><span class="topo-membrane">SL</span></span>
-<span class="topo-line"><span class="topo-membrane">SNVAGVFYILVGGLGLAMLVAL</span><span class="topo-inside">IEFCYKSRAEA</span><span class="topo-unknown">KRMKGLVPRG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">NSIQIGGLFPRGADQEYSAFRVGMVQFSTSEFRLTPHIDNLEVANSFAVTNAFCSQFSRGVYAIFGFYDKKSVNTITSFCGTLHVSFITPSFPTDGTHPFVIQMRPDLKGALLSLIEYYQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">WDKFAYLYDSDRGLSTLQAVLDSAAEKKWQVTAINVGNINNDKKDETYRSLFQDLELKKERRVILDCERDKVNDIVDQVITIGKHVKGYHYIIANLGFTDGDLLKIQFGGAEVSGFQIVD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">YDDSLVSKFIERWSTLEEKEYPGAHTATIKYTSALTYDAVQVMTEAFRNLRKQRIEISRRGNAGDCLANPAVPWGQGVEIERALKQVQVEGLSGNIKFDQNGKRINYTINIMELKTNGPR</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">KIGYWSEVDKMVLTEDDTSGLEQKTVVVTTILESPYVMMKANHAALAGNERYEGYCVDLAAEIAKHCGFKYKLTIVGDGKYGARDADTKIWNGMVGELVYGKADIAIAPLTITLVREEVI</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">DFSKPFMSLGISIMIKKPQKSKPG</span><span class="topo-membrane">VFSFLDPLAYEIWMCIVFAYIGVSVVLFLV</span><span class="topo-inside">SRFSPYE</span><span class="topo-unknown">WHTEEFEDGRETQSSES</span><span class="topo-inside">TNEFAIFQS</span><span class="topo-unknown">AWFSLGAFMQQGADI</span><span class="topo-inside">SPRS</span><span class="topo-membrane">LSGRIVGGVWWFFT</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-membrane">LIIISSYTANL</span><span class="topo-outside">AAFLTVERMVSPIESAEDLSKQTEIAYGTLDSGSTKEFFRRSKIAVFDKMWTYMRSAEPSVFVRTTAEGVARVRKSKGKYAYLLESTMNEYIEQRKPCDTMKVGGNLDS</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820   </span>
+<span class="topo-line"><span class="topo-outside">KGYGIATPKGSSLGTPVNLAVLKLSEQGLLDKLKNKWWYDKGECGAKDSGSKEKTSAL</span><span class="topo-membrane">SLSNVAGVFYILVGGLGLAMLVAL</span><span class="topo-inside">IEFCYKSRAEA</span><span class="topo-unknown">KRMKGLVPRG</span></span>
+<details class="topo-details"><summary>Topology coordinates (12 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1620,6 +1641,7 @@ GluA2 (also known as GluR2) is an AMPA-subtype ionotropic glutamate receptor (iG
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1635,20 +1657,21 @@ GluA2 (also known as GluR2) is an AMPA-subtype ionotropic glutamate receptor (iG
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">NSIQIGGLFPRGADQEYSAFRVGMVQFSTSEFRLTPHIDNLEVANSFAVTNAFCSQFSRG</span></span>
-<span class="topo-line"><span class="topo-outside">VYAIFGFYDKKSVNTITSFCGTLHVSFITPSFPTDGTHPFVIQMRPDLKGALLSLIEYYQ</span></span>
-<span class="topo-line"><span class="topo-outside">WDKFAYLYDSDRGLSTLQAVLDSAAEKKWQVTAINVGNINNDKKDETYRSLFQDLELKKE</span></span>
-<span class="topo-line"><span class="topo-outside">RRVILDCERDKVNDIVDQVITIGKHVKGYHYIIANLGFTDGDLLKIQFGGAEVSGFQIVD</span></span>
-<span class="topo-line"><span class="topo-outside">YDDSLVSKFIERWSTLEEKEYPGAHTATIKYTSALTYDAVQVMTEAFRNLRKQRIEISRR</span></span>
-<span class="topo-line"><span class="topo-outside">GNAGDCLANPAVPWGQGVEIERALKQVQVEGLSGNIKFDQNGKRINYTINIMELKTNGPR</span></span>
-<span class="topo-line"><span class="topo-outside">KIGYWSEVDKMVLTEDDTSGLEQKTVVVTTILESPYVMMKANHAALAGNERYEGYCVDLA</span></span>
-<span class="topo-line"><span class="topo-outside">AEIAKHCGFKYKLTIVGDGKYGARDADTKIWNGMVGELVYGKADIAIAPLTITLVREEVI</span></span>
-<span class="topo-line"><span class="topo-outside">DFSKPFMSLGISIMIKKPQKSKPGVFSFL</span><span class="topo-membrane">DPLAYEIWMCIVFAYIGVSVVLFLV</span><span class="topo-inside">SRFSP</span><span class="topo-unknown">Y</span></span>
-<span class="topo-line"><span class="topo-unknown">EWHTEEFEDGRETQSSESTNEF</span><span class="topo-inside">AIFQSA</span><span class="topo-unknown">WFSLGAFMQQGADI</span><span class="topo-inside">SPRSL</span><span class="topo-membrane">SGRIVGGVWWFFT</span></span>
-<span class="topo-line"><span class="topo-membrane">LIIISSYTANL</span><span class="topo-outside">AAFLTVERMVSPIESAEDLSKQTEIAYGTLDSGSTKEFFRRSKIAVFDK</span></span>
-<span class="topo-line"><span class="topo-outside">MWTYMRSAEPSVFVRTTAEGVARVRKSKGKYAYLLESTMNEYIEQRKPCDTMKVGGNLDS</span></span>
-<span class="topo-line"><span class="topo-outside">KGYGIATPKGSSLGTPVNLAVLKLSEQGLLDKLKNKWWYDKGECGAKDSGSKEKTSALSL</span></span>
-<span class="topo-line"><span class="topo-membrane">SNVAGVFYILVGGLGLAMLVAL</span><span class="topo-inside">IEFCYKS</span><span class="topo-unknown">RAEAKRMKGLVPRG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">NSIQIGGLFPRGADQEYSAFRVGMVQFSTSEFRLTPHIDNLEVANSFAVTNAFCSQFSRGVYAIFGFYDKKSVNTITSFCGTLHVSFITPSFPTDGTHPFVIQMRPDLKGALLSLIEYYQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">WDKFAYLYDSDRGLSTLQAVLDSAAEKKWQVTAINVGNINNDKKDETYRSLFQDLELKKERRVILDCERDKVNDIVDQVITIGKHVKGYHYIIANLGFTDGDLLKIQFGGAEVSGFQIVD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">YDDSLVSKFIERWSTLEEKEYPGAHTATIKYTSALTYDAVQVMTEAFRNLRKQRIEISRRGNAGDCLANPAVPWGQGVEIERALKQVQVEGLSGNIKFDQNGKRINYTINIMELKTNGPR</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">KIGYWSEVDKMVLTEDDTSGLEQKTVVVTTILESPYVMMKANHAALAGNERYEGYCVDLAAEIAKHCGFKYKLTIVGDGKYGARDADTKIWNGMVGELVYGKADIAIAPLTITLVREEVI</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">DFSKPFMSLGISIMIKKPQKSKPGVFSFL</span><span class="topo-membrane">DPLAYEIWMCIVFAYIGVSVVLFLV</span><span class="topo-inside">SRFSP</span><span class="topo-unknown">YEWHTEEFEDGRETQSSESTNEF</span><span class="topo-inside">AIFQSA</span><span class="topo-unknown">WFSLGAFMQQGADI</span><span class="topo-inside">SPRSL</span><span class="topo-membrane">SGRIVGGVWWFFT</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-membrane">LIIISSYTANL</span><span class="topo-outside">AAFLTVERMVSPIESAEDLSKQTEIAYGTLDSGSTKEFFRRSKIAVFDKMWTYMRSAEPSVFVRTTAEGVARVRKSKGKYAYLLESTMNEYIEQRKPCDTMKVGGNLDS</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820   </span>
+<span class="topo-line"><span class="topo-outside">KGYGIATPKGSSLGTPVNLAVLKLSEQGLLDKLKNKWWYDKGECGAKDSGSKEKTSALSL</span><span class="topo-membrane">SNVAGVFYILVGGLGLAMLVAL</span><span class="topo-inside">IEFCYKS</span><span class="topo-unknown">RAEAKRMKGLVPRG</span></span>
+<details class="topo-details"><summary>Topology coordinates (12 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1744,6 +1767,7 @@ GluA2 (also known as GluR2) is an AMPA-subtype ionotropic glutamate receptor (iG
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1817,20 +1841,21 @@ GluA2 (also known as GluR2) is an AMPA-subtype ionotropic glutamate receptor (iG
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">NSIQIGGLFPRGADQEYSAFRVGMVQFSTSEFRLTPHIDNLEVANSFAVTNAFCSQFSRG</span></span>
-<span class="topo-line"><span class="topo-outside">VYAIFGFYDKKSVNTITSFCGTLHVSFITPSFPTDGTHPFVIQMRPDLKGALLSLIEYYQ</span></span>
-<span class="topo-line"><span class="topo-outside">WDKFAYLYDSDRGLSTLQAVLDSAAEKKWQVTAINVGNINNDKKDETYRSLFQDLELKKE</span></span>
-<span class="topo-line"><span class="topo-outside">RRVILDCERDKVNDIVDQVITIGKHVKGYHYIIANLGFTDGDLLKIQFGGAEVSGFQIVD</span></span>
-<span class="topo-line"><span class="topo-outside">YDDSLVSKFIERWSTLEEKEYPGAHTATIKYTSALTYDAVQVMTEAFRNLRKQRIEISRR</span></span>
-<span class="topo-line"><span class="topo-outside">GNAGDCLANPAVPWGQGVEIERALKQVQVEGLSGNIKFDQNGKRINYTINIMELKTNGPR</span></span>
-<span class="topo-line"><span class="topo-outside">KIGYWSEVDKMVLTEDDTSGLEQKTVVVTTILESPYVMMKKNHEMLEGNERYEGYCVDLA</span></span>
-<span class="topo-line"><span class="topo-outside">AEIAKHCGFKYKLTIVGDGKYGARDADTKIWNGMVGELVYGKADIAIAPLTITLVREEVI</span></span>
-<span class="topo-line"><span class="topo-outside">DFSKPFMSLGISIMIKKPQKSKPGVFSFLDP</span><span class="topo-membrane">LAYEIWMCIVFAYIGVSVVLFLV</span><span class="topo-unknown">SRFSPY</span></span>
-<span class="topo-line"><span class="topo-unknown">EWHTEEFEDGRETQSSES</span><span class="topo-inside">TNEFGIFNS</span><span class="topo-unknown">LWFSLGAFMQQGCDISP</span><span class="topo-membrane">RSLSGRIVGGVWWFFT</span></span>
-<span class="topo-line"><span class="topo-membrane">LIIISSYTA</span><span class="topo-outside">NLAAFLTVERMVSPIESAEDLSKQTEIAYGTLDSGSTKEFFRRSKIAVFDK</span></span>
-<span class="topo-line"><span class="topo-outside">MWTYMRSAEPSVFVRTTAEGVARVRKSKGKYAYLLESTMNEYIEQRKPCDTMKVGGNLDS</span></span>
-<span class="topo-line"><span class="topo-outside">KGYGIATPKGSSLGTPVNLAVLKLSEQGVLDKLKNKWWYDKGEC</span><span class="topo-unknown">GAKDSGSKEKT</span><span class="topo-outside">SALSL</span></span>
-<span class="topo-line"><span class="topo-membrane">SNVAGVFYILVGGLGLAMLVAL</span><span class="topo-inside">IEFCYK</span><span class="topo-unknown">SRAEAKRMKGLVPR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">NSIQIGGLFPRGADQEYSAFRVGMVQFSTSEFRLTPHIDNLEVANSFAVTNAFCSQFSRGVYAIFGFYDKKSVNTITSFCGTLHVSFITPSFPTDGTHPFVIQMRPDLKGALLSLIEYYQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">WDKFAYLYDSDRGLSTLQAVLDSAAEKKWQVTAINVGNINNDKKDETYRSLFQDLELKKERRVILDCERDKVNDIVDQVITIGKHVKGYHYIIANLGFTDGDLLKIQFGGAEVSGFQIVD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">YDDSLVSKFIERWSTLEEKEYPGAHTATIKYTSALTYDAVQVMTEAFRNLRKQRIEISRRGNAGDCLANPAVPWGQGVEIERALKQVQVEGLSGNIKFDQNGKRINYTINIMELKTNGPR</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">KIGYWSEVDKMVLTEDDTSGLEQKTVVVTTILESPYVMMKKNHEMLEGNERYEGYCVDLAAEIAKHCGFKYKLTIVGDGKYGARDADTKIWNGMVGELVYGKADIAIAPLTITLVREEVI</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">DFSKPFMSLGISIMIKKPQKSKPGVFSFLDP</span><span class="topo-membrane">LAYEIWMCIVFAYIGVSVVLFLV</span><span class="topo-unknown">SRFSPYEWHTEEFEDGRETQSSES</span><span class="topo-inside">TNEFGIFNS</span><span class="topo-unknown">LWFSLGAFMQQGCDISP</span><span class="topo-membrane">RSLSGRIVGGVWWFFT</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-membrane">LIIISSYTA</span><span class="topo-outside">NLAAFLTVERMVSPIESAEDLSKQTEIAYGTLDSGSTKEFFRRSKIAVFDKMWTYMRSAEPSVFVRTTAEGVARVRKSKGKYAYLLESTMNEYIEQRKPCDTMKVGGNLDS</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820  </span>
+<span class="topo-line"><span class="topo-outside">KGYGIATPKGSSLGTPVNLAVLKLSEQGVLDKLKNKWWYDKGEC</span><span class="topo-unknown">GAKDSGSKEKT</span><span class="topo-outside">SALSL</span><span class="topo-membrane">SNVAGVFYILVGGLGLAMLVAL</span><span class="topo-inside">IEFCYK</span><span class="topo-unknown">SRAEAKRMKGLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (13 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1933,6 +1958,7 @@ GluA2 (also known as GluR2) is an AMPA-subtype ionotropic glutamate receptor (iG
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1948,20 +1974,21 @@ GluA2 (also known as GluR2) is an AMPA-subtype ionotropic glutamate receptor (iG
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">NSIQIGGLFPRGADQEYSAFRVGMVQFSTSEFRLTPHIDNLEVANSFAVTNAFCSQFSRG</span></span>
-<span class="topo-line"><span class="topo-outside">VYAIFGFYDKKSVNTITSFCGTLHVSFITPSFPTDGTHPFVIQMRPDLKGALLSLIEYYQ</span></span>
-<span class="topo-line"><span class="topo-outside">WDKFAYLYDSDRGLSTLQAVLDSAAEKKWQVTAINVGNINNDKKDETYRSLFQDLELKKE</span></span>
-<span class="topo-line"><span class="topo-outside">RRVILDCERDKVNDIVDQVITIGKHVKGYHYIIANLGFTDGDLLKIQFGGAEVSGFQIVD</span></span>
-<span class="topo-line"><span class="topo-outside">YDDSLVSKFIERWSTLEEKEYPGAHTATIKYTSALTYDAVQVMTEAFRNLRKQRIEISRR</span></span>
-<span class="topo-line"><span class="topo-outside">GNAGDCLANPAVPWGQGVEIERALKQVQVEGLSGNIKFDQNGKRINYTINIMELKTNGPR</span></span>
-<span class="topo-line"><span class="topo-outside">KIGYWSEVDKMVLTEDDTSGLEQKTVVVTTILESPYVMMKKNHEMLEGNERYEGYCVDLA</span></span>
-<span class="topo-line"><span class="topo-outside">AEIAKHCGFKYKLTIVGDGKYGARDADTKIWNGMVGELVYGKADIAIAPLTITLVREEVI</span></span>
-<span class="topo-line"><span class="topo-outside">DFSKPFMSLGISIMIKKPQKSKPGVFSFLDP</span><span class="topo-membrane">LAYEIWMCIVFAYIGVSVVLFLV</span><span class="topo-unknown">SRFSPY</span></span>
-<span class="topo-line"><span class="topo-unknown">EWHTEEFEDGRETQSSES</span><span class="topo-inside">TNEFGIFN</span><span class="topo-unknown">SLWFSLGAFMQQGCDISP</span><span class="topo-membrane">RSLSGRIVGGVWWFFT</span></span>
-<span class="topo-line"><span class="topo-membrane">LIIISSYTA</span><span class="topo-outside">NLAAFLTVERMVSPIESAEDLSKQTEIAYGTLDSGSTKEFFRRSKIAVFDK</span></span>
-<span class="topo-line"><span class="topo-outside">MWTYMRSAEPSVFVRTTAEGVARVRKSKGKYAYLLESTMNEYIEQRKPCDTMKVGGNLDS</span></span>
-<span class="topo-line"><span class="topo-outside">KGYGIATPKGSSLGTPVNLAVLKLSEQGVLDKLKNKWWYDKGEC</span><span class="topo-unknown">GAKDSGSKEKT</span><span class="topo-outside">SALSL</span></span>
-<span class="topo-line"><span class="topo-membrane">SNVAGVFYILVGGLGLAMLVA</span><span class="topo-inside">LIEFCYK</span><span class="topo-unknown">SRAEAKRMKGLVPR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">NSIQIGGLFPRGADQEYSAFRVGMVQFSTSEFRLTPHIDNLEVANSFAVTNAFCSQFSRGVYAIFGFYDKKSVNTITSFCGTLHVSFITPSFPTDGTHPFVIQMRPDLKGALLSLIEYYQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">WDKFAYLYDSDRGLSTLQAVLDSAAEKKWQVTAINVGNINNDKKDETYRSLFQDLELKKERRVILDCERDKVNDIVDQVITIGKHVKGYHYIIANLGFTDGDLLKIQFGGAEVSGFQIVD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">YDDSLVSKFIERWSTLEEKEYPGAHTATIKYTSALTYDAVQVMTEAFRNLRKQRIEISRRGNAGDCLANPAVPWGQGVEIERALKQVQVEGLSGNIKFDQNGKRINYTINIMELKTNGPR</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">KIGYWSEVDKMVLTEDDTSGLEQKTVVVTTILESPYVMMKKNHEMLEGNERYEGYCVDLAAEIAKHCGFKYKLTIVGDGKYGARDADTKIWNGMVGELVYGKADIAIAPLTITLVREEVI</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">DFSKPFMSLGISIMIKKPQKSKPGVFSFLDP</span><span class="topo-membrane">LAYEIWMCIVFAYIGVSVVLFLV</span><span class="topo-unknown">SRFSPYEWHTEEFEDGRETQSSES</span><span class="topo-inside">TNEFGIFN</span><span class="topo-unknown">SLWFSLGAFMQQGCDISP</span><span class="topo-membrane">RSLSGRIVGGVWWFFT</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-membrane">LIIISSYTA</span><span class="topo-outside">NLAAFLTVERMVSPIESAEDLSKQTEIAYGTLDSGSTKEFFRRSKIAVFDKMWTYMRSAEPSVFVRTTAEGVARVRKSKGKYAYLLESTMNEYIEQRKPCDTMKVGGNLDS</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820  </span>
+<span class="topo-line"><span class="topo-outside">KGYGIATPKGSSLGTPVNLAVLKLSEQGVLDKLKNKWWYDKGEC</span><span class="topo-unknown">GAKDSGSKEKT</span><span class="topo-outside">SALSL</span><span class="topo-membrane">SNVAGVFYILVGGLGLAMLVA</span><span class="topo-inside">LIEFCYK</span><span class="topo-unknown">SRAEAKRMKGLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (13 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2064,6 +2091,7 @@ GluA2 (also known as GluR2) is an AMPA-subtype ionotropic glutamate receptor (iG
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2079,20 +2107,21 @@ GluA2 (also known as GluR2) is an AMPA-subtype ionotropic glutamate receptor (iG
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">NSIQIGGLFPRGADQEYSAFRVGMVQFSTSEFRLTPHIDNLEVANSFAVTNAFCSQFSRG</span></span>
-<span class="topo-line"><span class="topo-outside">VYAIFGFYDKKSVNTITSFCGTLHVSFITPSFPTDGTHPFVIQMRPDLKGALLSLIEYYQ</span></span>
-<span class="topo-line"><span class="topo-outside">WDKFAYLYDSDRGLSTLQAVLDSAAEKKWQVTAINVGNINNDKKDETYRSLFQDLELKKE</span></span>
-<span class="topo-line"><span class="topo-outside">RRVILDCERDKVNDIVDQVITIGKHVKGYHYIIANLGFTDGDLLKIQFGGAEVSGFQIVD</span></span>
-<span class="topo-line"><span class="topo-outside">YDDSLVSKFIERWSTLEEKEYPGAHTATIKYTSALTYDAVQVMTEAFRNLRKQRIEISRR</span></span>
-<span class="topo-line"><span class="topo-outside">GNAGDCLANPAVPWGQGVEIERALKQVQVEGLSGNIKFDQNGKRINYTINIMELKTNGPR</span></span>
-<span class="topo-line"><span class="topo-outside">KIGYWSEVDKMVLTEDDTSGLEQKTVVVTTILESPYVMMKKNHEMLEGNERYEGYCVDLA</span></span>
-<span class="topo-line"><span class="topo-outside">AEIAKHCGFKYKLTIVGDGKYGARDADTKIWNGMVGELVYGKADIAIAPLTITLVREEVI</span></span>
-<span class="topo-line"><span class="topo-outside">DFSKPFMSLGISIMIKKPQKSKPGVFSFLDPL</span><span class="topo-membrane">AYEIWMCIVFAYIGVSVVLFLVS</span><span class="topo-unknown">RFSPY</span></span>
-<span class="topo-line"><span class="topo-unknown">EWHTEEFEDGRETQSSES</span><span class="topo-inside">TNEFG</span><span class="topo-unknown">IFNSLWFSLGAFMQQGCDISP</span><span class="topo-membrane">RSLSGRIVGGVWWFFT</span></span>
-<span class="topo-line"><span class="topo-membrane">LIIISSYT</span><span class="topo-outside">ANLAAFLTVERMVSPIESAEDLSKQTEIAYGTLDSGSTKEFFRRSKIAVFDK</span></span>
-<span class="topo-line"><span class="topo-outside">MWTYMRSAEPSVFVRTTAEGVARVRKSKGKYAYLLESTMNEYIEQRKPCDTMKVGGNLDS</span></span>
-<span class="topo-line"><span class="topo-outside">KGYGIATPKGSSLGTPVNLAVLKLSEQGVLDKLKNKWWYDKGEC</span><span class="topo-unknown">GAKDSGSKEKT</span><span class="topo-outside">SALSL</span></span>
-<span class="topo-line"><span class="topo-outside">SN</span><span class="topo-membrane">VAGVFYILVGGLGLAMLVALIE</span><span class="topo-inside">FCYK</span><span class="topo-unknown">SRAEAKRMKGLVPR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">NSIQIGGLFPRGADQEYSAFRVGMVQFSTSEFRLTPHIDNLEVANSFAVTNAFCSQFSRGVYAIFGFYDKKSVNTITSFCGTLHVSFITPSFPTDGTHPFVIQMRPDLKGALLSLIEYYQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">WDKFAYLYDSDRGLSTLQAVLDSAAEKKWQVTAINVGNINNDKKDETYRSLFQDLELKKERRVILDCERDKVNDIVDQVITIGKHVKGYHYIIANLGFTDGDLLKIQFGGAEVSGFQIVD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">YDDSLVSKFIERWSTLEEKEYPGAHTATIKYTSALTYDAVQVMTEAFRNLRKQRIEISRRGNAGDCLANPAVPWGQGVEIERALKQVQVEGLSGNIKFDQNGKRINYTINIMELKTNGPR</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">KIGYWSEVDKMVLTEDDTSGLEQKTVVVTTILESPYVMMKKNHEMLEGNERYEGYCVDLAAEIAKHCGFKYKLTIVGDGKYGARDADTKIWNGMVGELVYGKADIAIAPLTITLVREEVI</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">DFSKPFMSLGISIMIKKPQKSKPGVFSFLDPL</span><span class="topo-membrane">AYEIWMCIVFAYIGVSVVLFLVS</span><span class="topo-unknown">RFSPYEWHTEEFEDGRETQSSES</span><span class="topo-inside">TNEFG</span><span class="topo-unknown">IFNSLWFSLGAFMQQGCDISP</span><span class="topo-membrane">RSLSGRIVGGVWWFFT</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-membrane">LIIISSYT</span><span class="topo-outside">ANLAAFLTVERMVSPIESAEDLSKQTEIAYGTLDSGSTKEFFRRSKIAVFDKMWTYMRSAEPSVFVRTTAEGVARVRKSKGKYAYLLESTMNEYIEQRKPCDTMKVGGNLDS</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820  </span>
+<span class="topo-line"><span class="topo-outside">KGYGIATPKGSSLGTPVNLAVLKLSEQGVLDKLKNKWWYDKGEC</span><span class="topo-unknown">GAKDSGSKEKT</span><span class="topo-outside">SALSLSN</span><span class="topo-membrane">VAGVFYILVGGLGLAMLVALIE</span><span class="topo-inside">FCYK</span><span class="topo-unknown">SRAEAKRMKGLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (13 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2195,6 +2224,7 @@ GluA2 (also known as GluR2) is an AMPA-subtype ionotropic glutamate receptor (iG
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2210,20 +2240,21 @@ GluA2 (also known as GluR2) is an AMPA-subtype ionotropic glutamate receptor (iG
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">NSIQIGGLFPRGADQEYSAFRVGMVQFSTSEFRLTPHIDNLEVANSFAVTNAFCSQFSRG</span></span>
-<span class="topo-line"><span class="topo-outside">VYAIFGFYDKKSVNTITSFCGTLHVSFITPSFPTDGTHPFVIQMRPDLKGALLSLIEYYQ</span></span>
-<span class="topo-line"><span class="topo-outside">WDKFAYLYDSDRGLSTLQAVLDSAAEKKWQVTAINVGNINNDKKDETYRSLFQDLELKKE</span></span>
-<span class="topo-line"><span class="topo-outside">RRVILDCERDKVNDIVDQVITIGKHVKGYHYIIANLGFTDGDLLKIQFGGAEVSGFQIVD</span></span>
-<span class="topo-line"><span class="topo-outside">YDDSLVSKFIERWSTLEEKEYPGAHTATIKYTSALTYDAVQVMTEAFRNLRKQRIEISRR</span></span>
-<span class="topo-line"><span class="topo-outside">GNAGDCLANPAVPWGQGVEIERALKQVQVEGLSGNIKFDQNGKRINYTINIMELKTNGPR</span></span>
-<span class="topo-line"><span class="topo-outside">KIGYWSEVDKMVLTEDDTSGLEQKTVVVTTILESPYVMMKKNHEMLEGNERYEGYCVDLA</span></span>
-<span class="topo-line"><span class="topo-outside">AEIAKHCGFKYKLTIVGDGKYGARDADTKIWNGMVGELVYGKADIAIAPLTITLVREEVI</span></span>
-<span class="topo-line"><span class="topo-outside">DFSKPFMSLGISIMIKKPQKSKPGVFSFLDPL</span><span class="topo-membrane">AYEIWMCIVFAYIGVSVVLFLV</span><span class="topo-unknown">SRFSPY</span></span>
-<span class="topo-line"><span class="topo-unknown">EWHTEEFEDGRETQSSES</span><span class="topo-inside">TNEFGI</span><span class="topo-unknown">FNSLWFSLGAFMQQGCDIS</span><span class="topo-inside">PR</span><span class="topo-membrane">SLSGRIVGGVWWFFT</span></span>
-<span class="topo-line"><span class="topo-membrane">LIIISSYT</span><span class="topo-outside">ANLAAFLTVERMVSPIESAEDLSKQTEIAYGTLDSGSTKEFFRRSKIAVFDK</span></span>
-<span class="topo-line"><span class="topo-outside">MWTYMRSAEPSVFVRTTAEGVARVRKSKGKYAYLLESTMNEYIEQRKPCDTMKVGGNLDS</span></span>
-<span class="topo-line"><span class="topo-outside">KGYGIATPKGSSLGTPVNLAVLKLSEQGVLDKLKNKWWYDKGEC</span><span class="topo-unknown">GAKDSGSKEKT</span><span class="topo-outside">SALSL</span></span>
-<span class="topo-line"><span class="topo-outside">SNV</span><span class="topo-membrane">AGVFYILVGGLGLAMLVALIE</span><span class="topo-inside">FCYK</span><span class="topo-unknown">SRAEAKRMKGLVPR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">NSIQIGGLFPRGADQEYSAFRVGMVQFSTSEFRLTPHIDNLEVANSFAVTNAFCSQFSRGVYAIFGFYDKKSVNTITSFCGTLHVSFITPSFPTDGTHPFVIQMRPDLKGALLSLIEYYQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">WDKFAYLYDSDRGLSTLQAVLDSAAEKKWQVTAINVGNINNDKKDETYRSLFQDLELKKERRVILDCERDKVNDIVDQVITIGKHVKGYHYIIANLGFTDGDLLKIQFGGAEVSGFQIVD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">YDDSLVSKFIERWSTLEEKEYPGAHTATIKYTSALTYDAVQVMTEAFRNLRKQRIEISRRGNAGDCLANPAVPWGQGVEIERALKQVQVEGLSGNIKFDQNGKRINYTINIMELKTNGPR</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">KIGYWSEVDKMVLTEDDTSGLEQKTVVVTTILESPYVMMKKNHEMLEGNERYEGYCVDLAAEIAKHCGFKYKLTIVGDGKYGARDADTKIWNGMVGELVYGKADIAIAPLTITLVREEVI</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">DFSKPFMSLGISIMIKKPQKSKPGVFSFLDPL</span><span class="topo-membrane">AYEIWMCIVFAYIGVSVVLFLV</span><span class="topo-unknown">SRFSPYEWHTEEFEDGRETQSSES</span><span class="topo-inside">TNEFGI</span><span class="topo-unknown">FNSLWFSLGAFMQQGCDIS</span><span class="topo-inside">PR</span><span class="topo-membrane">SLSGRIVGGVWWFFT</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-membrane">LIIISSYT</span><span class="topo-outside">ANLAAFLTVERMVSPIESAEDLSKQTEIAYGTLDSGSTKEFFRRSKIAVFDKMWTYMRSAEPSVFVRTTAEGVARVRKSKGKYAYLLESTMNEYIEQRKPCDTMKVGGNLDS</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820  </span>
+<span class="topo-line"><span class="topo-outside">KGYGIATPKGSSLGTPVNLAVLKLSEQGVLDKLKNKWWYDKGEC</span><span class="topo-unknown">GAKDSGSKEKT</span><span class="topo-outside">SALSLSNV</span><span class="topo-membrane">AGVFYILVGGLGLAMLVALIE</span><span class="topo-inside">FCYK</span><span class="topo-unknown">SRAEAKRMKGLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (14 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2333,6 +2364,7 @@ GluA2 (also known as GluR2) is an AMPA-subtype ionotropic glutamate receptor (iG
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2442,20 +2474,21 @@ GluA2 (also known as GluR2) is an AMPA-subtype ionotropic glutamate receptor (iG
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">NSIQIGGLFPRGADQEYSAFRVGMVQFSTSEFRLTPHIDNLEVANSFAVTNAFCSQFSRG</span></span>
-<span class="topo-line"><span class="topo-outside">VYAIFGFYDKKSVNTITSFCGTLHVSFITPSFPTDGTHPFVIQMRPDLKGALLSLIEYYQ</span></span>
-<span class="topo-line"><span class="topo-outside">WDKFAYLYDSDRGLSTLQAVLDSAAEKKWQVTAINVGNINNDKKDETYRSLFQDLELKKE</span></span>
-<span class="topo-line"><span class="topo-outside">RRVILDCERDKVNDIVDQVITIGKHVKGYHYIIANLGFTDGDLLKIQFGGAEVSGFQIVD</span></span>
-<span class="topo-line"><span class="topo-outside">YDDSLVSKFIERWSTLEEKEYPGAHTATIKYTSALTYDAVQVMTEAFRNLRKQRIEISRR</span></span>
-<span class="topo-line"><span class="topo-outside">GNAGDCLANPAVPWGQGVEIERALKQVQVEGLSGNIKFDQNGKRINYTINIMELKTNGPR</span></span>
-<span class="topo-line"><span class="topo-outside">KIGYWSEVDKMVLTEDDTSGLEQKTVVVTTILESPYVMMKANHAALAGNERYEGYCVDLA</span></span>
-<span class="topo-line"><span class="topo-outside">AEIAKHCGFKYKLTIVGDGKYGARDADTKIWNGMVGELVYGKADIAIAPLTITLVREEVI</span></span>
-<span class="topo-line"><span class="topo-outside">DFSKPFMSLGISIMIKKPQKSKPGVFSFLDPLAY</span><span class="topo-membrane">EIWMCIVFAYIGVSVVLFLV</span><span class="topo-unknown">SRFSPY</span></span>
-<span class="topo-line"><span class="topo-unknown">EWHTEEFEDGRETQSSES</span><span class="topo-inside">TNEFGIFNS</span><span class="topo-unknown">LWFSLGAFMQQGADIS</span><span class="topo-inside">PR</span><span class="topo-membrane">SLSGRIVGGVWWFFT</span></span>
-<span class="topo-line"><span class="topo-membrane">LIIISSY</span><span class="topo-outside">TANLAAFLTVERMVSPIESAEDLSKQTEIAYGTLDSGSTKEFFRRSKIAVFDK</span></span>
-<span class="topo-line"><span class="topo-outside">MWTYMRSAEPSVFVRTTAEGVARVRKSKGKYAYLLESTMNEYIEQRKPCDTMKVGGNLDS</span></span>
-<span class="topo-line"><span class="topo-outside">KGYGIATPKGSSLGTPVNLAVLKLSEQGLLDKLKNKWWYDKGECGAKDSGSKEKTSALSL</span></span>
-<span class="topo-line"><span class="topo-outside">SNV</span><span class="topo-membrane">AGVFYILVGGLGLAMLVALI</span><span class="topo-inside">EFCYK</span><span class="topo-unknown">SRAEAKRMKGLVPRG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">NSIQIGGLFPRGADQEYSAFRVGMVQFSTSEFRLTPHIDNLEVANSFAVTNAFCSQFSRGVYAIFGFYDKKSVNTITSFCGTLHVSFITPSFPTDGTHPFVIQMRPDLKGALLSLIEYYQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">WDKFAYLYDSDRGLSTLQAVLDSAAEKKWQVTAINVGNINNDKKDETYRSLFQDLELKKERRVILDCERDKVNDIVDQVITIGKHVKGYHYIIANLGFTDGDLLKIQFGGAEVSGFQIVD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">YDDSLVSKFIERWSTLEEKEYPGAHTATIKYTSALTYDAVQVMTEAFRNLRKQRIEISRRGNAGDCLANPAVPWGQGVEIERALKQVQVEGLSGNIKFDQNGKRINYTINIMELKTNGPR</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">KIGYWSEVDKMVLTEDDTSGLEQKTVVVTTILESPYVMMKANHAALAGNERYEGYCVDLAAEIAKHCGFKYKLTIVGDGKYGARDADTKIWNGMVGELVYGKADIAIAPLTITLVREEVI</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">DFSKPFMSLGISIMIKKPQKSKPGVFSFLDPLAY</span><span class="topo-membrane">EIWMCIVFAYIGVSVVLFLV</span><span class="topo-unknown">SRFSPYEWHTEEFEDGRETQSSES</span><span class="topo-inside">TNEFGIFNS</span><span class="topo-unknown">LWFSLGAFMQQGADIS</span><span class="topo-inside">PR</span><span class="topo-membrane">SLSGRIVGGVWWFFT</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-membrane">LIIISSY</span><span class="topo-outside">TANLAAFLTVERMVSPIESAEDLSKQTEIAYGTLDSGSTKEFFRRSKIAVFDKMWTYMRSAEPSVFVRTTAEGVARVRKSKGKYAYLLESTMNEYIEQRKPCDTMKVGGNLDS</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820   </span>
+<span class="topo-line"><span class="topo-outside">KGYGIATPKGSSLGTPVNLAVLKLSEQGLLDKLKNKWWYDKGECGAKDSGSKEKTSALSLSNV</span><span class="topo-membrane">AGVFYILVGGLGLAMLVALI</span><span class="topo-inside">EFCYK</span><span class="topo-unknown">SRAEAKRMKGLVPRG</span></span>
+<details class="topo-details"><summary>Topology coordinates (12 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2551,6 +2584,7 @@ GluA2 (also known as GluR2) is an AMPA-subtype ionotropic glutamate receptor (iG
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2566,20 +2600,21 @@ GluA2 (also known as GluR2) is an AMPA-subtype ionotropic glutamate receptor (iG
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">NSIQIGGLFPRGADQEYSAFRVGMVQFSTSEFRLTPHIDNLEVANSFAVTNAFCSQFSRG</span></span>
-<span class="topo-line"><span class="topo-outside">VYAIFGFYDKKSVNTITSFCGTLHVSFITPSFPTDGTHPFVIQMRPDLKGALLSLIEYYQ</span></span>
-<span class="topo-line"><span class="topo-outside">WDKFAYLYDSDRGLSTLQAVLDSAAEKKWQVTAINVGNINNDKKDETYRSLFQDLELKKE</span></span>
-<span class="topo-line"><span class="topo-outside">RRVILDCERDKVNDIVDQVITIGKHVKGYHYIIANLGFTDGDLLKIQFGGAEVSGFQIVD</span></span>
-<span class="topo-line"><span class="topo-outside">YDDSLVSKFIERWSTLEEKEYPGAHTATIKYTSALTYDAVQVMTEAFRNLRKQRIEISRR</span></span>
-<span class="topo-line"><span class="topo-outside">GNAGDCLANPAVPWGQGVEIERALKQVQVEGLSGNIKFDQNGKRINYTINIMELKTNGPR</span></span>
-<span class="topo-line"><span class="topo-outside">KIGYWSEVDKMVLTEDDTSGLEQKTVVVTTILESPYVMMKANHAALAGNERYEGYCVDLA</span></span>
-<span class="topo-line"><span class="topo-outside">AEIAKHCGFKYKLTIVGDGKYGARDADTKIWNGMVGELVYGKADIAIAPLTITLVREEVI</span></span>
-<span class="topo-line"><span class="topo-outside">DFSKPFMSLGISIMIKKPQKSKPGVFSFLDPLAY</span><span class="topo-membrane">EIWMCIVFAYIGVSVVLFLV</span><span class="topo-unknown">SRFSPY</span></span>
-<span class="topo-line"><span class="topo-unknown">EWHTEEFEDGRETQSSES</span><span class="topo-inside">TNEFGIFN</span><span class="topo-unknown">SLWFSLGAFMQQGADISP</span><span class="topo-membrane">RSLSGRIVGGVWWFFT</span></span>
-<span class="topo-line"><span class="topo-membrane">LIIIS</span><span class="topo-outside">SYTANLAAFLTVERMVSPIESAEDLSKQTEIAYGTLDSGSTKEFFRRSKIAVFDK</span></span>
-<span class="topo-line"><span class="topo-outside">MWTYMRSAEPSVFVRTTAEGVARVRKSKGKYAYLLESTMNEYIEQRKPCDTMKVGGNLDS</span></span>
-<span class="topo-line"><span class="topo-outside">KGYGIATPKGSSLGTPVNLAVLKLSEQGLLDKLKNKWWYDKGECGAKDSGSKEKTSALSL</span></span>
-<span class="topo-line"><span class="topo-outside">SNV</span><span class="topo-membrane">AGVFYILVGGLGLAMLVAL</span><span class="topo-inside">IEFCYK</span><span class="topo-unknown">SRAEAKRMKGLVPRG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">NSIQIGGLFPRGADQEYSAFRVGMVQFSTSEFRLTPHIDNLEVANSFAVTNAFCSQFSRGVYAIFGFYDKKSVNTITSFCGTLHVSFITPSFPTDGTHPFVIQMRPDLKGALLSLIEYYQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">WDKFAYLYDSDRGLSTLQAVLDSAAEKKWQVTAINVGNINNDKKDETYRSLFQDLELKKERRVILDCERDKVNDIVDQVITIGKHVKGYHYIIANLGFTDGDLLKIQFGGAEVSGFQIVD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">YDDSLVSKFIERWSTLEEKEYPGAHTATIKYTSALTYDAVQVMTEAFRNLRKQRIEISRRGNAGDCLANPAVPWGQGVEIERALKQVQVEGLSGNIKFDQNGKRINYTINIMELKTNGPR</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">KIGYWSEVDKMVLTEDDTSGLEQKTVVVTTILESPYVMMKANHAALAGNERYEGYCVDLAAEIAKHCGFKYKLTIVGDGKYGARDADTKIWNGMVGELVYGKADIAIAPLTITLVREEVI</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">DFSKPFMSLGISIMIKKPQKSKPGVFSFLDPLAY</span><span class="topo-membrane">EIWMCIVFAYIGVSVVLFLV</span><span class="topo-unknown">SRFSPYEWHTEEFEDGRETQSSES</span><span class="topo-inside">TNEFGIFN</span><span class="topo-unknown">SLWFSLGAFMQQGADISP</span><span class="topo-membrane">RSLSGRIVGGVWWFFT</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-membrane">LIIIS</span><span class="topo-outside">SYTANLAAFLTVERMVSPIESAEDLSKQTEIAYGTLDSGSTKEFFRRSKIAVFDKMWTYMRSAEPSVFVRTTAEGVARVRKSKGKYAYLLESTMNEYIEQRKPCDTMKVGGNLDS</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820   </span>
+<span class="topo-line"><span class="topo-outside">KGYGIATPKGSSLGTPVNLAVLKLSEQGLLDKLKNKWWYDKGECGAKDSGSKEKTSALSLSNV</span><span class="topo-membrane">AGVFYILVGGLGLAMLVAL</span><span class="topo-inside">IEFCYK</span><span class="topo-unknown">SRAEAKRMKGLVPRG</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2668,6 +2703,7 @@ GluA2 (also known as GluR2) is an AMPA-subtype ionotropic glutamate receptor (iG
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2683,20 +2719,21 @@ GluA2 (also known as GluR2) is an AMPA-subtype ionotropic glutamate receptor (iG
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">NSIQIGGLFPRGADQEYSAFRVGMVQFSTSEFRLTPHIDNLEVANSFAVTNAFCSQFSRG</span></span>
-<span class="topo-line"><span class="topo-outside">VYAIFGFYDKKSVNTITSFCGTLHVSFITPSFPTDGTHPFVIQMRPDLKGALLSLIEYYQ</span></span>
-<span class="topo-line"><span class="topo-outside">WDKFAYLYDSDRGLSTLQAVLDSAAEKKWQVTAINVGNINNDKKDETYRSLFQDLELKKE</span></span>
-<span class="topo-line"><span class="topo-outside">RRVILDCERDKVNDIVDQVITIGKHVKGYHYIIANLGFTDGDLLKIQFGGAEVSGFQIVD</span></span>
-<span class="topo-line"><span class="topo-outside">YDDSLVSKFIERWSTLEEKEYPGAHTATIKYTSALTYDAVQVMTEAFRNLRKQRIEISRR</span></span>
-<span class="topo-line"><span class="topo-outside">GNAGDCLANPAVPWGQGVEIERALKQVQVEGLSGNIKFDQNGKRINYTINIMELKTNGPR</span></span>
-<span class="topo-line"><span class="topo-outside">KIGYWSEVDKMVLTEDDTSGLEQKTVVVTTILESPYVMMKANHAALAGNERYEGYCVDLA</span></span>
-<span class="topo-line"><span class="topo-outside">AEIAKHCGFKYKLTIVGDGKYGARDADTKIWNGMVGELVYGKADIAIAPLTITLVREEVI</span></span>
-<span class="topo-line"><span class="topo-outside">DFSKPFMSLGISIMIKKPQKSKPGVFSFLDPLAYEI</span><span class="topo-membrane">WMCIVFAYIGVSVVLFLVS</span><span class="topo-unknown">RFSPY</span></span>
-<span class="topo-line"><span class="topo-unknown">EWHTEEFEDGRETQSSES</span><span class="topo-inside">TNEFG</span><span class="topo-unknown">IFNSLWFSLGAFMQQGADISP</span><span class="topo-membrane">RSLSGRIVGGVWWFFT</span></span>
-<span class="topo-line"><span class="topo-membrane">LIIIS</span><span class="topo-outside">SYTANLAAFLTVERMVSPIESAEDLSKQTEIAYGTLDSGSTKEFFRRSKIAVFDK</span></span>
-<span class="topo-line"><span class="topo-outside">MWTYMRSAEPSVFVRTTAEGVARVRKSKGKYAYLLESTMNEYIEQRKPCDTMKVGGNLDS</span></span>
-<span class="topo-line"><span class="topo-outside">KGYGIATPKGSSLGTPVNLAVLKLSEQGLLDKLKNKWWYDKGECGAKDSGSKEKTSALSL</span></span>
-<span class="topo-line"><span class="topo-outside">SNV</span><span class="topo-membrane">AGVFYILVGGLGLAMLVALIE</span><span class="topo-inside">FCYK</span><span class="topo-unknown">SRAEAKRMKGLVPRG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">NSIQIGGLFPRGADQEYSAFRVGMVQFSTSEFRLTPHIDNLEVANSFAVTNAFCSQFSRGVYAIFGFYDKKSVNTITSFCGTLHVSFITPSFPTDGTHPFVIQMRPDLKGALLSLIEYYQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">WDKFAYLYDSDRGLSTLQAVLDSAAEKKWQVTAINVGNINNDKKDETYRSLFQDLELKKERRVILDCERDKVNDIVDQVITIGKHVKGYHYIIANLGFTDGDLLKIQFGGAEVSGFQIVD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">YDDSLVSKFIERWSTLEEKEYPGAHTATIKYTSALTYDAVQVMTEAFRNLRKQRIEISRRGNAGDCLANPAVPWGQGVEIERALKQVQVEGLSGNIKFDQNGKRINYTINIMELKTNGPR</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">KIGYWSEVDKMVLTEDDTSGLEQKTVVVTTILESPYVMMKANHAALAGNERYEGYCVDLAAEIAKHCGFKYKLTIVGDGKYGARDADTKIWNGMVGELVYGKADIAIAPLTITLVREEVI</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">DFSKPFMSLGISIMIKKPQKSKPGVFSFLDPLAYEI</span><span class="topo-membrane">WMCIVFAYIGVSVVLFLVS</span><span class="topo-unknown">RFSPYEWHTEEFEDGRETQSSES</span><span class="topo-inside">TNEFG</span><span class="topo-unknown">IFNSLWFSLGAFMQQGADISP</span><span class="topo-membrane">RSLSGRIVGGVWWFFT</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-membrane">LIIIS</span><span class="topo-outside">SYTANLAAFLTVERMVSPIESAEDLSKQTEIAYGTLDSGSTKEFFRRSKIAVFDKMWTYMRSAEPSVFVRTTAEGVARVRKSKGKYAYLLESTMNEYIEQRKPCDTMKVGGNLDS</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820   </span>
+<span class="topo-line"><span class="topo-outside">KGYGIATPKGSSLGTPVNLAVLKLSEQGLLDKLKNKWWYDKGECGAKDSGSKEKTSALSLSNV</span><span class="topo-membrane">AGVFYILVGGLGLAMLVALIE</span><span class="topo-inside">FCYK</span><span class="topo-unknown">SRAEAKRMKGLVPRG</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2785,6 +2822,7 @@ GluA2 (also known as GluR2) is an AMPA-subtype ionotropic glutamate receptor (iG
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2800,20 +2838,21 @@ GluA2 (also known as GluR2) is an AMPA-subtype ionotropic glutamate receptor (iG
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">NSIQIGGLFPRGADQEYSAFRVGMVQFSTSEFRLTPHIDNLEVANSFAVTNAFCSQFSRG</span></span>
-<span class="topo-line"><span class="topo-outside">VYAIFGFYDKKSVNTITSFCGTLHVSFITPSFPTDGTHPFVIQMRPDLKGALLSLIEYYQ</span></span>
-<span class="topo-line"><span class="topo-outside">WDKFAYLYDSDRGLSTLQAVLDSAAEKKWQVTAINVGNINNDKKDETYRSLFQDLELKKE</span></span>
-<span class="topo-line"><span class="topo-outside">RRVILDCERDKVNDIVDQVITIGKHVKGYHYIIANLGFTDGDLLKIQFGGAEVSGFQIVD</span></span>
-<span class="topo-line"><span class="topo-outside">YDDSLVSKFIERWSTLEEKEYPGAHTATIKYTSALTYDAVQVMTEAFRNLRKQRIEISRR</span></span>
-<span class="topo-line"><span class="topo-outside">GNAGDCLANPAVPWGQGVEIERALKQVQVEGLSGNIKFDQNGKRINYTINIMELKTNGPR</span></span>
-<span class="topo-line"><span class="topo-outside">KIGYWSEVDKMVLTEDDTSGLEQKTVVVTTILESPYVMMKANHAALAGNERYEGYCVDLA</span></span>
-<span class="topo-line"><span class="topo-outside">AEIAKHCGFKYKLTIVGDGKYGARDADTKIWNGMVGELVYGKADIAIAPLTITLVREEVI</span></span>
-<span class="topo-line"><span class="topo-outside">DFSKPFMSLGISIMIKKPQKSKPGVFSFLDPLAYEI</span><span class="topo-membrane">WMCIVFAYIGVSVVLFLV</span><span class="topo-unknown">SRFSPY</span></span>
-<span class="topo-line"><span class="topo-unknown">EWHTEEFEDGRETQSSES</span><span class="topo-inside">TNEFG</span><span class="topo-unknown">IFNSLWFSLGAFMQQGADIS</span><span class="topo-inside">PR</span><span class="topo-membrane">SLSGRIVGGVWWFFT</span></span>
-<span class="topo-line"><span class="topo-membrane">LIIIS</span><span class="topo-outside">SYTANLAAFLTVERMVSPIESAEDLSKQTEIAYGTLDSGSTKEFFRRSKIAVFDK</span></span>
-<span class="topo-line"><span class="topo-outside">MWTYMRSAEPSVFVRTTAEGVARVRKSKGKYAYLLESTMNEYIEQRKPCDTMKVGGNLDS</span></span>
-<span class="topo-line"><span class="topo-outside">KGYGIATPKGSSLGTPVNLAVLKLSEQGLLDKLKNKWWYDKGECGAKDSGSKEKTSALSL</span></span>
-<span class="topo-line"><span class="topo-outside">SNVAGV</span><span class="topo-membrane">FYILVGGLGLAMLVALIEFC</span><span class="topo-inside">YK</span><span class="topo-unknown">SRAEAKRMKGLVPRG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">NSIQIGGLFPRGADQEYSAFRVGMVQFSTSEFRLTPHIDNLEVANSFAVTNAFCSQFSRGVYAIFGFYDKKSVNTITSFCGTLHVSFITPSFPTDGTHPFVIQMRPDLKGALLSLIEYYQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">WDKFAYLYDSDRGLSTLQAVLDSAAEKKWQVTAINVGNINNDKKDETYRSLFQDLELKKERRVILDCERDKVNDIVDQVITIGKHVKGYHYIIANLGFTDGDLLKIQFGGAEVSGFQIVD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">YDDSLVSKFIERWSTLEEKEYPGAHTATIKYTSALTYDAVQVMTEAFRNLRKQRIEISRRGNAGDCLANPAVPWGQGVEIERALKQVQVEGLSGNIKFDQNGKRINYTINIMELKTNGPR</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">KIGYWSEVDKMVLTEDDTSGLEQKTVVVTTILESPYVMMKANHAALAGNERYEGYCVDLAAEIAKHCGFKYKLTIVGDGKYGARDADTKIWNGMVGELVYGKADIAIAPLTITLVREEVI</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">DFSKPFMSLGISIMIKKPQKSKPGVFSFLDPLAYEI</span><span class="topo-membrane">WMCIVFAYIGVSVVLFLV</span><span class="topo-unknown">SRFSPYEWHTEEFEDGRETQSSES</span><span class="topo-inside">TNEFG</span><span class="topo-unknown">IFNSLWFSLGAFMQQGADIS</span><span class="topo-inside">PR</span><span class="topo-membrane">SLSGRIVGGVWWFFT</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-membrane">LIIIS</span><span class="topo-outside">SYTANLAAFLTVERMVSPIESAEDLSKQTEIAYGTLDSGSTKEFFRRSKIAVFDKMWTYMRSAEPSVFVRTTAEGVARVRKSKGKYAYLLESTMNEYIEQRKPCDTMKVGGNLDS</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820   </span>
+<span class="topo-line"><span class="topo-outside">KGYGIATPKGSSLGTPVNLAVLKLSEQGLLDKLKNKWWYDKGECGAKDSGSKEKTSALSLSNVAGV</span><span class="topo-membrane">FYILVGGLGLAMLVALIEFC</span><span class="topo-inside">YK</span><span class="topo-unknown">SRAEAKRMKGLVPRG</span></span>
+<details class="topo-details"><summary>Topology coordinates (12 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2909,6 +2948,7 @@ GluA2 (also known as GluR2) is an AMPA-subtype ionotropic glutamate receptor (iG
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2995,20 +3035,21 @@ GluA2 (also known as GluR2) is an AMPA-subtype ionotropic glutamate receptor (iG
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">NS</span><span class="topo-outside">IQIGGLFPRGADQEYSAFRVGMVQFSTSEFRLTPHIDNLEVANSFAVTNAFCSQFSRG</span></span>
-<span class="topo-line"><span class="topo-outside">VYAIFGFYDKKSVNTITSFCGTLHVSFITPSFPTDGTHPFVIQMRPDLKGALLSLIEYYQ</span></span>
-<span class="topo-line"><span class="topo-outside">WDKFAYLYDSDRGLSTLQAVLDSAAEKKWQVTAINVGNINNDKKDETYRSLFQDLELKKE</span></span>
-<span class="topo-line"><span class="topo-outside">RRVILDCERDKVNDIVDQVITIGKHVKGYHYIIANLGFTDGDLLKIQFGGAEVSGFQIVD</span></span>
-<span class="topo-line"><span class="topo-outside">YDDSLVSKFIERWSTLEEKEYPGAHTATIKYTSALTYDAVQVMTEAFRNLRKQRIEISRR</span></span>
-<span class="topo-line"><span class="topo-outside">GNAGDCLANPAVPWGQGVEIERALKQVQVEGLSGNIKFDQNGKRINYTINIMELKTNGPR</span></span>
-<span class="topo-line"><span class="topo-outside">KIGYWSEVDKMVVTLTEDDTSGLEQKTVVVTTILESPYVMMKKNHEMLEGNERYEGYCVD</span></span>
-<span class="topo-line"><span class="topo-outside">LAAEIAKHCGFKYKLTIVGDGKYGARDADTKIWNGMVGELVYGKADIAIAPLTITLVREE</span></span>
-<span class="topo-line"><span class="topo-outside">VIDFSKPFMSLGISIMIKKPQKSKPGVFSFLDPLAYEIW</span><span class="topo-membrane">MAIVFAYIGVSVVL</span><span class="topo-inside">FLVSR</span><span class="topo-unknown">FS</span></span>
-<span class="topo-line"><span class="topo-unknown">PYEWHTEEFEDGRETQSSESTNEFGIFNSLWFSLGAFFQQGADIS</span><span class="topo-inside">PRSL</span><span class="topo-membrane">SARIVAGVWWF</span></span>
-<span class="topo-line"><span class="topo-membrane">FTLIII</span><span class="topo-outside">SSYTANLAAFLTVERMVSPIESAEDLSKQTEIAYGTLDSGSTKEFFRRSKIAVF</span></span>
-<span class="topo-line"><span class="topo-outside">DKMWTYMRSAEPSVFVRTTAEGVARVRKSKGKYAYLLESTMNEYIEQRKPCDTMKVGGNL</span></span>
-<span class="topo-line"><span class="topo-outside">DSKGYGIATPKGSSLGTPVNLAVLKLSEQGVLDKLKNKWWYDKGECGAKDSGSKEKTSAL</span></span>
-<span class="topo-line"><span class="topo-outside">SLSNVAGV</span><span class="topo-membrane">FYILVGGLGLAML</span><span class="topo-inside">VAL</span><span class="topo-unknown">IEFAYKSRAEAKRMKGLVPR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">NS</span><span class="topo-outside">IQIGGLFPRGADQEYSAFRVGMVQFSTSEFRLTPHIDNLEVANSFAVTNAFCSQFSRGVYAIFGFYDKKSVNTITSFCGTLHVSFITPSFPTDGTHPFVIQMRPDLKGALLSLIEYYQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">WDKFAYLYDSDRGLSTLQAVLDSAAEKKWQVTAINVGNINNDKKDETYRSLFQDLELKKERRVILDCERDKVNDIVDQVITIGKHVKGYHYIIANLGFTDGDLLKIQFGGAEVSGFQIVD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">YDDSLVSKFIERWSTLEEKEYPGAHTATIKYTSALTYDAVQVMTEAFRNLRKQRIEISRRGNAGDCLANPAVPWGQGVEIERALKQVQVEGLSGNIKFDQNGKRINYTINIMELKTNGPR</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">KIGYWSEVDKMVVTLTEDDTSGLEQKTVVVTTILESPYVMMKKNHEMLEGNERYEGYCVDLAAEIAKHCGFKYKLTIVGDGKYGARDADTKIWNGMVGELVYGKADIAIAPLTITLVREE</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">VIDFSKPFMSLGISIMIKKPQKSKPGVFSFLDPLAYEIW</span><span class="topo-membrane">MAIVFAYIGVSVVL</span><span class="topo-inside">FLVSR</span><span class="topo-unknown">FSPYEWHTEEFEDGRETQSSESTNEFGIFNSLWFSLGAFFQQGADIS</span><span class="topo-inside">PRSL</span><span class="topo-membrane">SARIVAGVWWF</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-membrane">FTLIII</span><span class="topo-outside">SSYTANLAAFLTVERMVSPIESAEDLSKQTEIAYGTLDSGSTKEFFRRSKIAVFDKMWTYMRSAEPSVFVRTTAEGVARVRKSKGKYAYLLESTMNEYIEQRKPCDTMKVGGNL</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820    </span>
+<span class="topo-line"><span class="topo-outside">DSKGYGIATPKGSSLGTPVNLAVLKLSEQGVLDKLKNKWWYDKGECGAKDSGSKEKTSALSLSNVAGV</span><span class="topo-membrane">FYILVGGLGLAML</span><span class="topo-inside">VAL</span><span class="topo-unknown">IEFAYKSRAEAKRMKGLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3076,6 +3117,7 @@ GluA2 (also known as GluR2) is an AMPA-subtype ionotropic glutamate receptor (iG
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3091,20 +3133,21 @@ GluA2 (also known as GluR2) is an AMPA-subtype ionotropic glutamate receptor (iG
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">NSIQIGGLFPRGADQEYSAFRVGMVQFSTSEFRLTPHIDNLEVANSFAVTNAFCSQFSRG</span></span>
-<span class="topo-line"><span class="topo-outside">VYAIFGFYDKKSVNTITSFCGTLHVSFITPSFPTDGTHPFVIQMRPDLKGALLSLIEYYQ</span></span>
-<span class="topo-line"><span class="topo-outside">WDKFAYLYDSDRGLSTLQAVLDSAAEKKWQVTAINVGNINNDKKDETYRSLFQDLELKKE</span></span>
-<span class="topo-line"><span class="topo-outside">RRVILDCERDKVNDIVDQVITIGKHVKGYHYIIANLGFTDGDLLKIQFGGAEVSGFQIVD</span></span>
-<span class="topo-line"><span class="topo-outside">YDDSLVSKFIERWSTLEEKEYPGAHTATIKYTSALTYDAVQVMTEAFRNLRKQRIEISRR</span></span>
-<span class="topo-line"><span class="topo-outside">GNAGDCLANPAVPWGQGVEIERALKQVQVEGLSGNIKFDQNGKRINYTINIMELKTNGPR</span></span>
-<span class="topo-line"><span class="topo-outside">KIGYWSEVDKMVVTLTEDDTSGLEQKTVVVTTILESPYVMMKKNHEMLEGNERYEGYCVD</span></span>
-<span class="topo-line"><span class="topo-outside">LAAEIAKHCGFKYKLTIVGDGKYGARDADTKIWNGMVGELVYGKADIAIAPLTITLVREE</span></span>
-<span class="topo-line"><span class="topo-outside">VIDFSKPFMSLGISIMIKKPQKSKPGVFSFLDPLAYEIWM</span><span class="topo-membrane">AIVFAYIGVSVVLF</span><span class="topo-inside">LVS</span><span class="topo-unknown">RFS</span></span>
-<span class="topo-line"><span class="topo-unknown">PYEWHTEEFEDGRETQSSESTNEFGIFNSLWFSLGAFFQQGADIS</span><span class="topo-inside">PRSL</span><span class="topo-membrane">SARIVAGVWWF</span></span>
-<span class="topo-line"><span class="topo-membrane">FTLIII</span><span class="topo-outside">SSYTANLAAFLTVERMVSPIESAEDLSKQTEIAYGTLDSGSTKEFFRRSKIAVF</span></span>
-<span class="topo-line"><span class="topo-outside">DKMWTYMRSAEPSVFVRTTAEGVARVRKSKGKYAYLLESTMNEYIEQRKPCDTMKVGGNL</span></span>
-<span class="topo-line"><span class="topo-outside">DSKGYGIATPKGSSLGTPVNLAVLKLSEQGVLDKLKNKWWYDKGECGAKDSGSKEKTSAL</span></span>
-<span class="topo-line"><span class="topo-outside">SLSNVAGV</span><span class="topo-membrane">FYILVGGLGLAMLV</span><span class="topo-inside">ALIEFAY</span><span class="topo-unknown">KSRAEAKRMKGLVPR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">NSIQIGGLFPRGADQEYSAFRVGMVQFSTSEFRLTPHIDNLEVANSFAVTNAFCSQFSRGVYAIFGFYDKKSVNTITSFCGTLHVSFITPSFPTDGTHPFVIQMRPDLKGALLSLIEYYQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">WDKFAYLYDSDRGLSTLQAVLDSAAEKKWQVTAINVGNINNDKKDETYRSLFQDLELKKERRVILDCERDKVNDIVDQVITIGKHVKGYHYIIANLGFTDGDLLKIQFGGAEVSGFQIVD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">YDDSLVSKFIERWSTLEEKEYPGAHTATIKYTSALTYDAVQVMTEAFRNLRKQRIEISRRGNAGDCLANPAVPWGQGVEIERALKQVQVEGLSGNIKFDQNGKRINYTINIMELKTNGPR</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">KIGYWSEVDKMVVTLTEDDTSGLEQKTVVVTTILESPYVMMKKNHEMLEGNERYEGYCVDLAAEIAKHCGFKYKLTIVGDGKYGARDADTKIWNGMVGELVYGKADIAIAPLTITLVREE</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">VIDFSKPFMSLGISIMIKKPQKSKPGVFSFLDPLAYEIWM</span><span class="topo-membrane">AIVFAYIGVSVVLF</span><span class="topo-inside">LVS</span><span class="topo-unknown">RFSPYEWHTEEFEDGRETQSSESTNEFGIFNSLWFSLGAFFQQGADIS</span><span class="topo-inside">PRSL</span><span class="topo-membrane">SARIVAGVWWF</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-membrane">FTLIII</span><span class="topo-outside">SSYTANLAAFLTVERMVSPIESAEDLSKQTEIAYGTLDSGSTKEFFRRSKIAVFDKMWTYMRSAEPSVFVRTTAEGVARVRKSKGKYAYLLESTMNEYIEQRKPCDTMKVGGNL</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820    </span>
+<span class="topo-line"><span class="topo-outside">DSKGYGIATPKGSSLGTPVNLAVLKLSEQGVLDKLKNKWWYDKGECGAKDSGSKEKTSALSLSNVAGV</span><span class="topo-membrane">FYILVGGLGLAMLV</span><span class="topo-inside">ALIEFAY</span><span class="topo-unknown">KSRAEAKRMKGLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3172,6 +3215,7 @@ GluA2 (also known as GluR2) is an AMPA-subtype ionotropic glutamate receptor (iG
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3187,20 +3231,21 @@ GluA2 (also known as GluR2) is an AMPA-subtype ionotropic glutamate receptor (iG
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">NSIQIGGLFPRGADQEYSAFRVGMVQFSTSEFRLTPHIDNLEVANSFAVTNAFCSQFSRG</span></span>
-<span class="topo-line"><span class="topo-outside">VYAIFGFYDKKSVNTITSFCGTLHVSFITPSFPTDGTHPFVIQMRPDLKGALLSLIEYYQ</span></span>
-<span class="topo-line"><span class="topo-outside">WDKFAYLYDSDRGLSTLQAVLDSAAEKKWQVTAINVGNINNDKKDETYRSLFQDLELKKE</span></span>
-<span class="topo-line"><span class="topo-outside">RRVILDCERDKVNDIVDQVITIGKHVKGYHYIIANLGFTDGDLLKIQFGGAEVSGFQIVD</span></span>
-<span class="topo-line"><span class="topo-outside">YDDSLVSKFIERWSTLEEKEYPGAHTATIKYTSALTYDAVQVMTEAFRNLRKQRIEISRR</span></span>
-<span class="topo-line"><span class="topo-outside">GNAGDCLANPAVPWGQGVEIERALKQVQVEGLSGNIKFDQNGKRINYTINIMELKTNGPR</span></span>
-<span class="topo-line"><span class="topo-outside">KIGYWSEVDKMVVTLTEDDTSGLEQKTVVVTTILESPYVMMKKNHEMLEGNERYEGYCVD</span></span>
-<span class="topo-line"><span class="topo-outside">LAAEIAKHCGFKYKLTIVGDGKYGARDADTKIWNGMVGELVYGKADIAIAPLTITLVREE</span></span>
-<span class="topo-line"><span class="topo-outside">VIDFSKPFMSLGISIMIKKPQKSKPGVFSFLDPLAYEIW</span><span class="topo-membrane">MAIVFAYIGVSVVL</span><span class="topo-inside">FL</span><span class="topo-unknown">VSRFS</span></span>
-<span class="topo-line"><span class="topo-unknown">PYEWHTEEFEDGRETQSSESTNEFGIFNSLWFSLGAFFQQGADISPRS</span><span class="topo-inside">LS</span><span class="topo-membrane">ARIVAGVWWF</span></span>
-<span class="topo-line"><span class="topo-membrane">FTLIII</span><span class="topo-outside">SSYTANLAAFLTVERMVSPIESAEDLSKQTEIAYGTLDSGSTKEFFRRSKIAVF</span></span>
-<span class="topo-line"><span class="topo-outside">DKMWTYMRSAEPSVFVRTTAEGVARVRKSKGKYAYLLESTMNEYIEQRKPCDTMKVGGNL</span></span>
-<span class="topo-line"><span class="topo-outside">DSKGYGIATPKGSSLGTPVNLAVLKLSEQGVLDKLKNKWWYDKGECGAKDSGSKEKTSAL</span></span>
-<span class="topo-line"><span class="topo-outside">SLSNVAGV</span><span class="topo-membrane">FYILVGGLGLAMLV</span><span class="topo-inside">AL</span><span class="topo-unknown">IEFAYKSRAEAKRMKGLVPR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">NSIQIGGLFPRGADQEYSAFRVGMVQFSTSEFRLTPHIDNLEVANSFAVTNAFCSQFSRGVYAIFGFYDKKSVNTITSFCGTLHVSFITPSFPTDGTHPFVIQMRPDLKGALLSLIEYYQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">WDKFAYLYDSDRGLSTLQAVLDSAAEKKWQVTAINVGNINNDKKDETYRSLFQDLELKKERRVILDCERDKVNDIVDQVITIGKHVKGYHYIIANLGFTDGDLLKIQFGGAEVSGFQIVD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">YDDSLVSKFIERWSTLEEKEYPGAHTATIKYTSALTYDAVQVMTEAFRNLRKQRIEISRRGNAGDCLANPAVPWGQGVEIERALKQVQVEGLSGNIKFDQNGKRINYTINIMELKTNGPR</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">KIGYWSEVDKMVVTLTEDDTSGLEQKTVVVTTILESPYVMMKKNHEMLEGNERYEGYCVDLAAEIAKHCGFKYKLTIVGDGKYGARDADTKIWNGMVGELVYGKADIAIAPLTITLVREE</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">VIDFSKPFMSLGISIMIKKPQKSKPGVFSFLDPLAYEIW</span><span class="topo-membrane">MAIVFAYIGVSVVL</span><span class="topo-inside">FL</span><span class="topo-unknown">VSRFSPYEWHTEEFEDGRETQSSESTNEFGIFNSLWFSLGAFFQQGADISPRS</span><span class="topo-inside">LS</span><span class="topo-membrane">ARIVAGVWWF</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-membrane">FTLIII</span><span class="topo-outside">SSYTANLAAFLTVERMVSPIESAEDLSKQTEIAYGTLDSGSTKEFFRRSKIAVFDKMWTYMRSAEPSVFVRTTAEGVARVRKSKGKYAYLLESTMNEYIEQRKPCDTMKVGGNL</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820    </span>
+<span class="topo-line"><span class="topo-outside">DSKGYGIATPKGSSLGTPVNLAVLKLSEQGVLDKLKNKWWYDKGECGAKDSGSKEKTSALSLSNVAGV</span><span class="topo-membrane">FYILVGGLGLAMLV</span><span class="topo-inside">AL</span><span class="topo-unknown">IEFAYKSRAEAKRMKGLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3268,6 +3313,7 @@ GluA2 (also known as GluR2) is an AMPA-subtype ionotropic glutamate receptor (iG
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3283,20 +3329,21 @@ GluA2 (also known as GluR2) is an AMPA-subtype ionotropic glutamate receptor (iG
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">NSIQIGGLFPRGADQEYSAFRVGMVQFSTSEFRLTPHIDNLEVANSFAVTNAFCSQFSRG</span></span>
-<span class="topo-line"><span class="topo-outside">VYAIFGFYDKKSVNTITSFCGTLHVSFITPSFPTDGTHPFVIQMRPDLKGALLSLIEYYQ</span></span>
-<span class="topo-line"><span class="topo-outside">WDKFAYLYDSDRGLSTLQAVLDSAAEKKWQVTAINVGNINNDKKDETYRSLFQDLELKKE</span></span>
-<span class="topo-line"><span class="topo-outside">RRVILDCERDKVNDIVDQVITIGKHVKGYHYIIANLGFTDGDLLKIQFGGAEVSGFQIVD</span></span>
-<span class="topo-line"><span class="topo-outside">YDDSLVSKFIERWSTLEEKEYPGAHTATIKYTSALTYDAVQVMTEAFRNLRKQRIEISRR</span></span>
-<span class="topo-line"><span class="topo-outside">GNAGDCLANPAVPWGQGVEIERALKQVQVEGLSGNIKFDQNGKRINYTINIMELKTNGPR</span></span>
-<span class="topo-line"><span class="topo-outside">KIGYWSEVDKMVVTLTEDD</span><span class="topo-unknown">TSGL</span><span class="topo-outside">EQKTVVVTTILESPYVMMKKNHEMLEGNERYEGYCVD</span></span>
-<span class="topo-line"><span class="topo-outside">LAAEIAKHCGFKYKLTIVGDGKYGARDADTKIWNGMVGELVYGKADIAIAPLTITLVREE</span></span>
-<span class="topo-line"><span class="topo-outside">VIDFSKPFMSLGISIMIKKPQKSKPGVFSFLDPLAYEIWM</span><span class="topo-membrane">AIVFAYIGVSVVL</span><span class="topo-inside">FLV</span><span class="topo-unknown">SRFS</span></span>
-<span class="topo-line"><span class="topo-unknown">PYEWHTEEFEDGRETQSSESTNEFGIFNSLWFSLGAFFQQGADISP</span><span class="topo-inside">RSLS</span><span class="topo-membrane">ARIVAGVWWF</span></span>
-<span class="topo-line"><span class="topo-membrane">FTLIII</span><span class="topo-outside">SSYTANLAAFLTVERMVSPIESAEDLSKQTEIAYGTLDSGSTKEFFRRSKIAVF</span></span>
-<span class="topo-line"><span class="topo-outside">DKMWTYMRSAEPSVFVRTTAEGVARVRKSKGKYAYLLESTMNEYIEQRKPCDTMKVGGNL</span></span>
-<span class="topo-line"><span class="topo-outside">DSKGYGIATPKGSSLGTPVNLAVLKLSEQGVLDKLKNKWWYDKGECGAKDSGSKEKTSAL</span></span>
-<span class="topo-line"><span class="topo-outside">SLSNVAGVF</span><span class="topo-membrane">YILVGGLGLAMLV</span><span class="topo-inside">ALIEFAY</span><span class="topo-unknown">KSRAEAKRMKGLVPR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">NSIQIGGLFPRGADQEYSAFRVGMVQFSTSEFRLTPHIDNLEVANSFAVTNAFCSQFSRGVYAIFGFYDKKSVNTITSFCGTLHVSFITPSFPTDGTHPFVIQMRPDLKGALLSLIEYYQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">WDKFAYLYDSDRGLSTLQAVLDSAAEKKWQVTAINVGNINNDKKDETYRSLFQDLELKKERRVILDCERDKVNDIVDQVITIGKHVKGYHYIIANLGFTDGDLLKIQFGGAEVSGFQIVD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">YDDSLVSKFIERWSTLEEKEYPGAHTATIKYTSALTYDAVQVMTEAFRNLRKQRIEISRRGNAGDCLANPAVPWGQGVEIERALKQVQVEGLSGNIKFDQNGKRINYTINIMELKTNGPR</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">KIGYWSEVDKMVVTLTEDD</span><span class="topo-unknown">TSGL</span><span class="topo-outside">EQKTVVVTTILESPYVMMKKNHEMLEGNERYEGYCVDLAAEIAKHCGFKYKLTIVGDGKYGARDADTKIWNGMVGELVYGKADIAIAPLTITLVREE</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">VIDFSKPFMSLGISIMIKKPQKSKPGVFSFLDPLAYEIWM</span><span class="topo-membrane">AIVFAYIGVSVVL</span><span class="topo-inside">FLV</span><span class="topo-unknown">SRFSPYEWHTEEFEDGRETQSSESTNEFGIFNSLWFSLGAFFQQGADISP</span><span class="topo-inside">RSLS</span><span class="topo-membrane">ARIVAGVWWF</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-membrane">FTLIII</span><span class="topo-outside">SSYTANLAAFLTVERMVSPIESAEDLSKQTEIAYGTLDSGSTKEFFRRSKIAVFDKMWTYMRSAEPSVFVRTTAEGVARVRKSKGKYAYLLESTMNEYIEQRKPCDTMKVGGNL</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820    </span>
+<span class="topo-line"><span class="topo-outside">DSKGYGIATPKGSSLGTPVNLAVLKLSEQGVLDKLKNKWWYDKGECGAKDSGSKEKTSALSLSNVAGVF</span><span class="topo-membrane">YILVGGLGLAMLV</span><span class="topo-inside">ALIEFAY</span><span class="topo-unknown">KSRAEAKRMKGLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3371,6 +3418,7 @@ GluA2 (also known as GluR2) is an AMPA-subtype ionotropic glutamate receptor (iG
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3386,20 +3434,21 @@ GluA2 (also known as GluR2) is an AMPA-subtype ionotropic glutamate receptor (iG
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">NSIQIGGLFPRGADQEYSAFRVGMVQFSTSEFRLTPHIDNLEVANSFAVTNAFCSQFSRG</span></span>
-<span class="topo-line"><span class="topo-outside">VYAIFGFYDKKSVNTITSFCGTLHVSFITPSFPTDGTHPFVIQMRPDLKGALLSLIEYYQ</span></span>
-<span class="topo-line"><span class="topo-outside">WDKFAYLYDSDRGLSTLQAVLDSAAEKKWQVTAINVGN</span><span class="topo-unknown">INNDKKDETYRSLFQDLELK</span><span class="topo-outside">KE</span></span>
-<span class="topo-line"><span class="topo-outside">RRVILDCERDKVNDIVDQVITIGKHVKGYHYIIANLGFTDGDLLKIQFGGAEVSGFQIVD</span></span>
-<span class="topo-line"><span class="topo-outside">YDDSLVSKFIERWSTLEEKEYPGAHTATIKYTSALTYDAVQVMTEAFRNLRKQRIEISRR</span></span>
-<span class="topo-line"><span class="topo-outside">GNAGDCLANPAVPWGQGVEIERALKQVQVEGLSGNIKFDQNGKRINYTINIMELKTNGPR</span></span>
-<span class="topo-line"><span class="topo-outside">KIGYWSEVDKMVVTLTED</span><span class="topo-unknown">DTSGL</span><span class="topo-outside">EQKTVVVTTILESPYVMMKKNHEMLEGNERYEGYCVD</span></span>
-<span class="topo-line"><span class="topo-outside">LAAEIAKHCGFKYKLTIVGDGKYGARDADTKIWNGMVGELVYGKADIAIAPLTITLVREE</span></span>
-<span class="topo-line"><span class="topo-outside">VIDFSKPFMSLGISIMIKKPQKSKPGVFSFL</span><span class="topo-membrane">DPLAYEIWMAIVFAYIGVSVVLF</span><span class="topo-inside">LVS</span><span class="topo-unknown">RFS</span></span>
-<span class="topo-line"><span class="topo-unknown">PYEWHTEEFEDGRETQSSESTNEFGIFNSLWFSLGAFFQQGADISPR</span><span class="topo-inside">SL</span><span class="topo-membrane">SARIVAGVWWF</span></span>
-<span class="topo-line"><span class="topo-membrane">FTLIIISSYTANLA</span><span class="topo-outside">AFLTVERMVSPIESAEDLSKQTEIAYGTLDSGSTKEFFRRSKIAVF</span></span>
-<span class="topo-line"><span class="topo-outside">DKMWTYMRSAEPSVFVRTTAEGVARVRKSKGKYAYLLESTMNEYIEQRKPCDTMKVGGNL</span></span>
-<span class="topo-line"><span class="topo-outside">DSKGYGIATPKGSSLGTPVNLAVLKLSEQGVLDKLKNKWWYDKGECGAKDSGSKEKTSAL</span></span>
-<span class="topo-line"><span class="topo-membrane">SLSNVAGVFYILVGGLGLAMLVAL</span><span class="topo-inside">IE</span><span class="topo-unknown">FAYKSRAEAKRMKGLVPR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">NSIQIGGLFPRGADQEYSAFRVGMVQFSTSEFRLTPHIDNLEVANSFAVTNAFCSQFSRGVYAIFGFYDKKSVNTITSFCGTLHVSFITPSFPTDGTHPFVIQMRPDLKGALLSLIEYYQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">WDKFAYLYDSDRGLSTLQAVLDSAAEKKWQVTAINVGN</span><span class="topo-unknown">INNDKKDETYRSLFQDLELK</span><span class="topo-outside">KERRVILDCERDKVNDIVDQVITIGKHVKGYHYIIANLGFTDGDLLKIQFGGAEVSGFQIVD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">YDDSLVSKFIERWSTLEEKEYPGAHTATIKYTSALTYDAVQVMTEAFRNLRKQRIEISRRGNAGDCLANPAVPWGQGVEIERALKQVQVEGLSGNIKFDQNGKRINYTINIMELKTNGPR</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">KIGYWSEVDKMVVTLTED</span><span class="topo-unknown">DTSGL</span><span class="topo-outside">EQKTVVVTTILESPYVMMKKNHEMLEGNERYEGYCVDLAAEIAKHCGFKYKLTIVGDGKYGARDADTKIWNGMVGELVYGKADIAIAPLTITLVREE</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">VIDFSKPFMSLGISIMIKKPQKSKPGVFSFL</span><span class="topo-membrane">DPLAYEIWMAIVFAYIGVSVVLF</span><span class="topo-inside">LVS</span><span class="topo-unknown">RFSPYEWHTEEFEDGRETQSSESTNEFGIFNSLWFSLGAFFQQGADISPR</span><span class="topo-inside">SL</span><span class="topo-membrane">SARIVAGVWWF</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-membrane">FTLIIISSYTANLA</span><span class="topo-outside">AFLTVERMVSPIESAEDLSKQTEIAYGTLDSGSTKEFFRRSKIAVFDKMWTYMRSAEPSVFVRTTAEGVARVRKSKGKYAYLLESTMNEYIEQRKPCDTMKVGGNL</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820    </span>
+<span class="topo-line"><span class="topo-outside">DSKGYGIATPKGSSLGTPVNLAVLKLSEQGVLDKLKNKWWYDKGECGAKDSGSKEKTSAL</span><span class="topo-membrane">SLSNVAGVFYILVGGLGLAMLVAL</span><span class="topo-inside">IE</span><span class="topo-unknown">FAYKSRAEAKRMKGLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (14 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3509,6 +3558,7 @@ GluA2 (also known as GluR2) is an AMPA-subtype ionotropic glutamate receptor (iG
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3524,20 +3574,21 @@ GluA2 (also known as GluR2) is an AMPA-subtype ionotropic glutamate receptor (iG
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">N</span><span class="topo-outside">SIQIGGLFPRGADQEYSAFRVGMVQFSTSEFRLTPHIDNLEVANSFAVTNAFCSQFSRG</span></span>
-<span class="topo-line"><span class="topo-outside">VYAIFGFYDKKSVNTITSFCGTLHVSFITPSFPTDGTHPFVIQMRPDLKGALLSLIEYYQ</span></span>
-<span class="topo-line"><span class="topo-outside">WDKFAYLYDSDRGLSTLQAVLDSAAEKKWQVTAINVGNINNDKKDETYRSLFQDLELKKE</span></span>
-<span class="topo-line"><span class="topo-outside">RRVILDCERDKVNDIVDQVITIGKHVKGYHYIIANLGFTDGDLLKIQFGGAEVSGFQIVD</span></span>
-<span class="topo-line"><span class="topo-outside">YDDSLVSKFIERWSTLEEKEYPGAHTATIKYTSALTYDAVQVMTEAFRNLRKQRIEISRR</span></span>
-<span class="topo-line"><span class="topo-outside">GNAGDCLANPAVPWGQGVEIERALKQVQVEGLSGNIKFDQNGKRINYTINIMELKTNGPR</span></span>
-<span class="topo-line"><span class="topo-outside">KIGYWSEVDKMVVTLT</span><span class="topo-unknown">EDDTSGL</span><span class="topo-outside">EQKTVVVTTILESPYVMMKKNHEMLEGNERYEGYCVD</span></span>
-<span class="topo-line"><span class="topo-outside">LAAEIAKHCGFKYKLTIVGDGKYGARDADTKIWNGMVGELVYGKADIAIAPLTITLVREE</span></span>
-<span class="topo-line"><span class="topo-outside">VIDFSKPFMSLGISIMIKKPQKSKPGVFSFLDPLA</span><span class="topo-unknown">YE</span><span class="topo-outside">I</span><span class="topo-membrane">WMAIVFAYIGVSVVLFLV</span><span class="topo-inside">S</span><span class="topo-unknown">RFS</span></span>
-<span class="topo-line"><span class="topo-unknown">PYEWHTEEFEDGRETQSSESTNEFGIFNSLWFSLGAFFQQGADIS</span><span class="topo-inside">PRS</span><span class="topo-membrane">LSARIVAGVWWF</span></span>
-<span class="topo-line"><span class="topo-membrane">FTLIIISSYTANLA</span><span class="topo-outside">AFLTVERMVSPIESAEDLSKQTEIAYGTLDSGSTKEFFRRSKIAVF</span></span>
-<span class="topo-line"><span class="topo-outside">DKMWTYMRSAEPSVFVRTTAEGVARVRKSKGKYAYLLESTMNEYIEQRKPCDTMKVGGNL</span></span>
-<span class="topo-line"><span class="topo-outside">DSKGYGIATPKGSSLGTPVNLAVLKLSEQGVLDKLKNKWWYDKGECGAKDSGSKEKTSA</span><span class="topo-membrane">L</span></span>
-<span class="topo-line"><span class="topo-membrane">SLSNVAGVFYILVGGLGLAMLV</span><span class="topo-inside">ALIEFAYK</span><span class="topo-unknown">SRAEAKRMKGLVPR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">N</span><span class="topo-outside">SIQIGGLFPRGADQEYSAFRVGMVQFSTSEFRLTPHIDNLEVANSFAVTNAFCSQFSRGVYAIFGFYDKKSVNTITSFCGTLHVSFITPSFPTDGTHPFVIQMRPDLKGALLSLIEYYQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">WDKFAYLYDSDRGLSTLQAVLDSAAEKKWQVTAINVGNINNDKKDETYRSLFQDLELKKERRVILDCERDKVNDIVDQVITIGKHVKGYHYIIANLGFTDGDLLKIQFGGAEVSGFQIVD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">YDDSLVSKFIERWSTLEEKEYPGAHTATIKYTSALTYDAVQVMTEAFRNLRKQRIEISRRGNAGDCLANPAVPWGQGVEIERALKQVQVEGLSGNIKFDQNGKRINYTINIMELKTNGPR</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">KIGYWSEVDKMVVTLT</span><span class="topo-unknown">EDDTSGL</span><span class="topo-outside">EQKTVVVTTILESPYVMMKKNHEMLEGNERYEGYCVDLAAEIAKHCGFKYKLTIVGDGKYGARDADTKIWNGMVGELVYGKADIAIAPLTITLVREE</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">VIDFSKPFMSLGISIMIKKPQKSKPGVFSFLDPLA</span><span class="topo-unknown">YE</span><span class="topo-outside">I</span><span class="topo-membrane">WMAIVFAYIGVSVVLFLV</span><span class="topo-inside">S</span><span class="topo-unknown">RFSPYEWHTEEFEDGRETQSSESTNEFGIFNSLWFSLGAFFQQGADIS</span><span class="topo-inside">PRS</span><span class="topo-membrane">LSARIVAGVWWF</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-membrane">FTLIIISSYTANLA</span><span class="topo-outside">AFLTVERMVSPIESAEDLSKQTEIAYGTLDSGSTKEFFRRSKIAVFDKMWTYMRSAEPSVFVRTTAEGVARVRKSKGKYAYLLESTMNEYIEQRKPCDTMKVGGNL</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820    </span>
+<span class="topo-line"><span class="topo-outside">DSKGYGIATPKGSSLGTPVNLAVLKLSEQGVLDKLKNKWWYDKGECGAKDSGSKEKTSA</span><span class="topo-membrane">LSLSNVAGVFYILVGGLGLAMLV</span><span class="topo-inside">ALIEFAYK</span><span class="topo-unknown">SRAEAKRMKGLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3654,6 +3705,7 @@ GluA2 (also known as GluR2) is an AMPA-subtype ionotropic glutamate receptor (iG
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3669,20 +3721,21 @@ GluA2 (also known as GluR2) is an AMPA-subtype ionotropic glutamate receptor (iG
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">NSIQIGGLFPRGADQEYSAFRVGMVQFSTSEFRLTPHIDNLEVANSFAVTNAFCSQFSRG</span></span>
-<span class="topo-line"><span class="topo-outside">VYAIFGFYDKKSVNTITSFCGTLHVSFITPSFPTDGTHPFVIQMRPDLKGALLSLIEYYQ</span></span>
-<span class="topo-line"><span class="topo-outside">WDKFAYLYDSDRGLSTLQAVLDSAAEKKWQVTAINVGNINNDKKDETYRSLFQDLELKKE</span></span>
-<span class="topo-line"><span class="topo-outside">RRVILDCERDKVNDIVDQVITIGKHVKGYHYIIANLGFTDGDLLKIQFGGAEVSGFQIVD</span></span>
-<span class="topo-line"><span class="topo-outside">YDDSLVSKFIERWSTLEEKEYPGAHTATIKYTSALTYDAVQVMTEAFRNLRKQRIEISRR</span></span>
-<span class="topo-line"><span class="topo-outside">GNAGDCLANPAVPWGQGVEIERALKQVQVEGLSGNIKFDQNGKRINYTINIMELKTNGPR</span></span>
-<span class="topo-line"><span class="topo-outside">KIGYWSEVDKMVVTLTEDDTSGLEQKTVVVTTILESPYVMMKKNHEMLEGNERYEGYCVD</span></span>
-<span class="topo-line"><span class="topo-outside">LAAEIAKHCGFKYKLTIVGDGKYGARDADTKIWNGMVGELVYGKADIAIAPLTITLVREE</span></span>
-<span class="topo-line"><span class="topo-outside">VIDFSKPFMSLGISIMIKKPQK</span><span class="topo-unknown">SKPGV</span><span class="topo-outside">F</span><span class="topo-membrane">SFLDPLAYEIWMAIVFAYILVSVVLFL</span><span class="topo-inside">VS</span><span class="topo-unknown">RFS</span></span>
-<span class="topo-line"><span class="topo-unknown">PYEWHTEEFEDGRETQSSESTNEFGIFNSFWFALKLFFQQGADIS</span><span class="topo-inside">PRSL</span><span class="topo-membrane">SARIVAGVWWF</span></span>
-<span class="topo-line"><span class="topo-membrane">FTLIIISSYTANLA</span><span class="topo-outside">AFLTVERM</span><span class="topo-unknown">V</span><span class="topo-outside">SPIESAEDLSKQTEIAYGTLDSGSTKEFFRRSKIAVF</span></span>
-<span class="topo-line"><span class="topo-outside">DKMWTYMRSAEPSVFVRTTAEGVARVRKSKGKYAYLLESTMNEYIEQRKPCDTMKVGGNL</span></span>
-<span class="topo-line"><span class="topo-outside">DSKGYGIATPKGSSLGTPVNLAVLKLSEQGVLDKLKNKWWYDKGECGAK</span><span class="topo-unknown">DSGSKEKT</span><span class="topo-outside">SAL</span></span>
-<span class="topo-line"><span class="topo-membrane">SLSNVAGVFYILVGGLGLAMLVA</span><span class="topo-inside">LI</span><span class="topo-unknown">EFAYKSRAEAKRMKGLVPR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">NSIQIGGLFPRGADQEYSAFRVGMVQFSTSEFRLTPHIDNLEVANSFAVTNAFCSQFSRGVYAIFGFYDKKSVNTITSFCGTLHVSFITPSFPTDGTHPFVIQMRPDLKGALLSLIEYYQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">WDKFAYLYDSDRGLSTLQAVLDSAAEKKWQVTAINVGNINNDKKDETYRSLFQDLELKKERRVILDCERDKVNDIVDQVITIGKHVKGYHYIIANLGFTDGDLLKIQFGGAEVSGFQIVD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">YDDSLVSKFIERWSTLEEKEYPGAHTATIKYTSALTYDAVQVMTEAFRNLRKQRIEISRRGNAGDCLANPAVPWGQGVEIERALKQVQVEGLSGNIKFDQNGKRINYTINIMELKTNGPR</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">KIGYWSEVDKMVVTLTEDDTSGLEQKTVVVTTILESPYVMMKKNHEMLEGNERYEGYCVDLAAEIAKHCGFKYKLTIVGDGKYGARDADTKIWNGMVGELVYGKADIAIAPLTITLVREE</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">VIDFSKPFMSLGISIMIKKPQK</span><span class="topo-unknown">SKPGV</span><span class="topo-outside">F</span><span class="topo-membrane">SFLDPLAYEIWMAIVFAYILVSVVLFL</span><span class="topo-inside">VS</span><span class="topo-unknown">RFSPYEWHTEEFEDGRETQSSESTNEFGIFNSFWFALKLFFQQGADIS</span><span class="topo-inside">PRSL</span><span class="topo-membrane">SARIVAGVWWF</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-membrane">FTLIIISSYTANLA</span><span class="topo-outside">AFLTVERM</span><span class="topo-unknown">V</span><span class="topo-outside">SPIESAEDLSKQTEIAYGTLDSGSTKEFFRRSKIAVFDKMWTYMRSAEPSVFVRTTAEGVARVRKSKGKYAYLLESTMNEYIEQRKPCDTMKVGGNL</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820    </span>
+<span class="topo-line"><span class="topo-outside">DSKGYGIATPKGSSLGTPVNLAVLKLSEQGVLDKLKNKWWYDKGECGAK</span><span class="topo-unknown">DSGSKEKT</span><span class="topo-outside">SAL</span><span class="topo-membrane">SLSNVAGVFYILVGGLGLAMLVA</span><span class="topo-inside">LI</span><span class="topo-unknown">EFAYKSRAEAKRMKGLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3771,6 +3824,7 @@ GluA2 (also known as GluR2) is an AMPA-subtype ionotropic glutamate receptor (iG
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3786,20 +3840,21 @@ GluA2 (also known as GluR2) is an AMPA-subtype ionotropic glutamate receptor (iG
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">NSIQIGGLFPRGADQEYSAFRVGMVQFSTSEFRLTPHIDNLEVANSFAVTNAFCSQFSRG</span></span>
-<span class="topo-line"><span class="topo-outside">VYAIFGFYDKKSVNTITSFCGTLHVSFITPSFPTDGTHPFVIQMRPDLKGALLSLIEYYQ</span></span>
-<span class="topo-line"><span class="topo-outside">WDKFAYLYDSDRGLSTLQAVLDSAAEKKWQVTAINVGNINNDKKDETYRSLFQDLELKKE</span></span>
-<span class="topo-line"><span class="topo-outside">RRVILDCERDKVNDIVDQVITIGKHVKGYHYIIANLGFTDGDLLKIQFGGAEVSGFQIVD</span></span>
-<span class="topo-line"><span class="topo-outside">YDDSLVSKFIERWSTLEEKEYPGAHTATIKYTSALTYDAVQVMTEAFRNLRKQRIEISRR</span></span>
-<span class="topo-line"><span class="topo-outside">GNAGDCLANPAVPWGQGVEIERALKQVQVEGLSGNIKFDQNGKRINYTINIMELKTNGPR</span></span>
-<span class="topo-line"><span class="topo-outside">KIGYWSEVDKMVVTLTEDD</span><span class="topo-unknown">TSG</span><span class="topo-outside">LEQKTVVVTTILESPYVMMKKNHEMLEGNERYEGYCVD</span></span>
-<span class="topo-line"><span class="topo-outside">LAAEIAKHCGFKYKLTIVGDGKYGARDADTKIWNGMVGELVYGKADIAIAPLTITLVREE</span></span>
-<span class="topo-line"><span class="topo-outside">VIDFSKPFMSLGISIMIKKPQKSKPGV</span><span class="topo-unknown">FSFLD</span><span class="topo-outside">P</span><span class="topo-membrane">LAYEIWMAIVFAYILVSVVL</span><span class="topo-inside">FLV</span><span class="topo-unknown">SRFS</span></span>
-<span class="topo-line"><span class="topo-unknown">PYEWHTEEFEDGRETQSSESTNEFGIFNSFWFALKLFFQQGADISPRSLS</span><span class="topo-inside">A</span><span class="topo-membrane">RIVAGVWWF</span></span>
-<span class="topo-line"><span class="topo-membrane">FTLIIISSYTANLA</span><span class="topo-outside">AFLTVERMVSPIESAEDLSKQTEIAYGTLDSGSTKEFFRRSKIAVF</span></span>
-<span class="topo-line"><span class="topo-outside">DKMWTYMRSAEPSVFVRTTAEGVARVRKSKGKYAYLLESTMNEYIEQRKPCDTMKVGGNL</span></span>
-<span class="topo-line"><span class="topo-outside">DSKGYGIATPKGSSLGTPVNLAVLKLSEQGVLDKLKNKWWYDKGECGAK</span><span class="topo-unknown">DSGSKEKTS</span><span class="topo-outside">AL</span></span>
-<span class="topo-line"><span class="topo-membrane">SLSNVAGVFYILVGGLGLAMLV</span><span class="topo-inside">ALIEFAY</span><span class="topo-unknown">KSRAEAKRMKGLVPR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">NSIQIGGLFPRGADQEYSAFRVGMVQFSTSEFRLTPHIDNLEVANSFAVTNAFCSQFSRGVYAIFGFYDKKSVNTITSFCGTLHVSFITPSFPTDGTHPFVIQMRPDLKGALLSLIEYYQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">WDKFAYLYDSDRGLSTLQAVLDSAAEKKWQVTAINVGNINNDKKDETYRSLFQDLELKKERRVILDCERDKVNDIVDQVITIGKHVKGYHYIIANLGFTDGDLLKIQFGGAEVSGFQIVD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">YDDSLVSKFIERWSTLEEKEYPGAHTATIKYTSALTYDAVQVMTEAFRNLRKQRIEISRRGNAGDCLANPAVPWGQGVEIERALKQVQVEGLSGNIKFDQNGKRINYTINIMELKTNGPR</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">KIGYWSEVDKMVVTLTEDD</span><span class="topo-unknown">TSG</span><span class="topo-outside">LEQKTVVVTTILESPYVMMKKNHEMLEGNERYEGYCVDLAAEIAKHCGFKYKLTIVGDGKYGARDADTKIWNGMVGELVYGKADIAIAPLTITLVREE</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">VIDFSKPFMSLGISIMIKKPQKSKPGV</span><span class="topo-unknown">FSFLD</span><span class="topo-outside">P</span><span class="topo-membrane">LAYEIWMAIVFAYILVSVVL</span><span class="topo-inside">FLV</span><span class="topo-unknown">SRFSPYEWHTEEFEDGRETQSSESTNEFGIFNSFWFALKLFFQQGADISPRSLS</span><span class="topo-inside">A</span><span class="topo-membrane">RIVAGVWWF</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-membrane">FTLIIISSYTANLA</span><span class="topo-outside">AFLTVERMVSPIESAEDLSKQTEIAYGTLDSGSTKEFFRRSKIAVFDKMWTYMRSAEPSVFVRTTAEGVARVRKSKGKYAYLLESTMNEYIEQRKPCDTMKVGGNL</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820    </span>
+<span class="topo-line"><span class="topo-outside">DSKGYGIATPKGSSLGTPVNLAVLKLSEQGVLDKLKNKWWYDKGECGAK</span><span class="topo-unknown">DSGSKEKTS</span><span class="topo-outside">AL</span><span class="topo-membrane">SLSNVAGVFYILVGGLGLAMLV</span><span class="topo-inside">ALIEFAY</span><span class="topo-unknown">KSRAEAKRMKGLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3888,6 +3943,7 @@ GluA2 (also known as GluR2) is an AMPA-subtype ionotropic glutamate receptor (iG
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3903,20 +3959,21 @@ GluA2 (also known as GluR2) is an AMPA-subtype ionotropic glutamate receptor (iG
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">N</span><span class="topo-outside">SIQIGGLFPRGADQEYSAFRVGMVQFSTSEFRLTPHIDNLEVANSFAVTNAFCSQFSRG</span></span>
-<span class="topo-line"><span class="topo-outside">VYAIFGFYDKKSVNTITSFCGTLHVSFITPSFPTDGTHPFVIQMRPDLKGALLSLIEYYQ</span></span>
-<span class="topo-line"><span class="topo-outside">WDKFAYLYDSDRGLSTLQAVLDSAAEKKWQVTAINVGNINNDKKDETYRSLFQDLELKKE</span></span>
-<span class="topo-line"><span class="topo-outside">RRVILDCERDKVNDIVDQVITIGKHVKGYHYIIANLGFTDGDLLKIQFGGAEVSGFQIVD</span></span>
-<span class="topo-line"><span class="topo-outside">YDDSLVSKFIERWSTLEEKEYPGAHTATIKYTSALTYDAVQVMTEAFRNLRKQRIEISRR</span></span>
-<span class="topo-line"><span class="topo-outside">GNAGDCLANPAVPWGQGVEIERALKQVQVEGLSGNIKFDQNGKRINYTINIMELKTNGPR</span></span>
-<span class="topo-line"><span class="topo-outside">KIGYWSEVDKMVVTLTE</span><span class="topo-unknown">DDTSG</span><span class="topo-outside">LEQKTVVVTTILESPYVMMKKNHEMLEGNERYEGYCVD</span></span>
-<span class="topo-line"><span class="topo-outside">LAAEIAKHCGFKYKLTIVGDGKYGARDADTKIWNGMVGELVYGKADIAIAPLTITLVREE</span></span>
-<span class="topo-line"><span class="topo-outside">VIDFSKPFMSLGISIMIKKPQKSKPGVFSFL</span><span class="topo-membrane">DPLAYEIWMAIVFAYILVSVVLFL</span><span class="topo-inside">VSRF</span><span class="topo-unknown">S</span></span>
-<span class="topo-line"><span class="topo-unknown">PYEWHTEEFEDGRETQSSESTNEFGIFNSFWFALKLFFQQGADIS</span><span class="topo-inside">PRSL</span><span class="topo-membrane">SARIVAGVWWF</span></span>
-<span class="topo-line"><span class="topo-membrane">FTLIIISSYTANLA</span><span class="topo-outside">AFLTVERMVSPIESAEDLSKQTEIAYGTLDSGSTKEFFRRSKIAVF</span></span>
-<span class="topo-line"><span class="topo-outside">DKMWTYMRSAEPSVFVRTTAEGVARVRKSKGKYAYLLESTMNEYIEQRKPCDTMKVGGNL</span></span>
-<span class="topo-line"><span class="topo-outside">DSKGYGIATPKGSSLGTPVNLAVLKLSEQGVLDKLKNKWWYDKGECGAKDSGSKEKTSA</span><span class="topo-membrane">L</span></span>
-<span class="topo-line"><span class="topo-membrane">SLSNVAGVFYILVGGLGLAMLV</span><span class="topo-inside">ALIEF</span><span class="topo-unknown">AYKSRAEAKRMKGLVPR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">N</span><span class="topo-outside">SIQIGGLFPRGADQEYSAFRVGMVQFSTSEFRLTPHIDNLEVANSFAVTNAFCSQFSRGVYAIFGFYDKKSVNTITSFCGTLHVSFITPSFPTDGTHPFVIQMRPDLKGALLSLIEYYQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">WDKFAYLYDSDRGLSTLQAVLDSAAEKKWQVTAINVGNINNDKKDETYRSLFQDLELKKERRVILDCERDKVNDIVDQVITIGKHVKGYHYIIANLGFTDGDLLKIQFGGAEVSGFQIVD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">YDDSLVSKFIERWSTLEEKEYPGAHTATIKYTSALTYDAVQVMTEAFRNLRKQRIEISRRGNAGDCLANPAVPWGQGVEIERALKQVQVEGLSGNIKFDQNGKRINYTINIMELKTNGPR</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">KIGYWSEVDKMVVTLTE</span><span class="topo-unknown">DDTSG</span><span class="topo-outside">LEQKTVVVTTILESPYVMMKKNHEMLEGNERYEGYCVDLAAEIAKHCGFKYKLTIVGDGKYGARDADTKIWNGMVGELVYGKADIAIAPLTITLVREE</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">VIDFSKPFMSLGISIMIKKPQKSKPGVFSFL</span><span class="topo-membrane">DPLAYEIWMAIVFAYILVSVVLFL</span><span class="topo-inside">VSRF</span><span class="topo-unknown">SPYEWHTEEFEDGRETQSSESTNEFGIFNSFWFALKLFFQQGADIS</span><span class="topo-inside">PRSL</span><span class="topo-membrane">SARIVAGVWWF</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-membrane">FTLIIISSYTANLA</span><span class="topo-outside">AFLTVERMVSPIESAEDLSKQTEIAYGTLDSGSTKEFFRRSKIAVFDKMWTYMRSAEPSVFVRTTAEGVARVRKSKGKYAYLLESTMNEYIEQRKPCDTMKVGGNL</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820    </span>
+<span class="topo-line"><span class="topo-outside">DSKGYGIATPKGSSLGTPVNLAVLKLSEQGVLDKLKNKWWYDKGECGAKDSGSKEKTSA</span><span class="topo-membrane">LSLSNVAGVFYILVGGLGLAMLV</span><span class="topo-inside">ALIEF</span><span class="topo-unknown">AYKSRAEAKRMKGLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3991,6 +4048,7 @@ GluA2 (also known as GluR2) is an AMPA-subtype ionotropic glutamate receptor (iG
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4006,20 +4064,21 @@ GluA2 (also known as GluR2) is an AMPA-subtype ionotropic glutamate receptor (iG
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">NS</span><span class="topo-outside">IQIGGLFPRGADQEYSAFRVGMVQFSTSEFRLTPHIDNLEVANSFAVTNAFCSQFSRG</span></span>
-<span class="topo-line"><span class="topo-outside">VYAIFGFYDKKSVNTITSFCGTLHVSFITPSFPTDGTHPFVIQMRPDLKGALLSLIEYYQ</span></span>
-<span class="topo-line"><span class="topo-outside">WDKFAYLYDSDRGLSTLQAVLDSAAEKKWQVTAINVGNINNDKKDETYRSLFQDLELKKE</span></span>
-<span class="topo-line"><span class="topo-outside">RRVILDCERDKVNDIVDQVITIGKHVKGYHYIIANLGFTDGDLLKIQFGGAEVSGFQIVD</span></span>
-<span class="topo-line"><span class="topo-outside">YDDSLVSKFIERWSTLEEKEYPGAHTATIKYTSALTYDAVQVMTEAFRNLRKQRIEISRR</span></span>
-<span class="topo-line"><span class="topo-outside">GNAGDCLANPAVPWGQGVEIERALKQVQVEGLSGNIKFDQNGKRINYTINIMELKTNGPR</span></span>
-<span class="topo-line"><span class="topo-outside">KIGYWSEVDKMVVTLTE</span><span class="topo-unknown">DDTSG</span><span class="topo-outside">LEQKTVVVTTILESPYVMMKKNHEMLEGNERYEGYCVD</span></span>
-<span class="topo-line"><span class="topo-outside">LAAEIAKHCGFKYKLTIVGDGKYGARDADTKIWNGMVGELVYGKADIAIAPLTITLVREE</span></span>
-<span class="topo-line"><span class="topo-outside">VIDFSKPFMSLGISIMIKKPQKSKPGVFSFL</span><span class="topo-membrane">DPLAYEIWMAIVFAYILVSVVLFL</span><span class="topo-inside">VS</span><span class="topo-unknown">RFS</span></span>
-<span class="topo-line"><span class="topo-unknown">PYEWHTEEFEDGRETQSSESTNEFGIFNSFWFALKLFFQQGADIS</span><span class="topo-inside">PRSL</span><span class="topo-membrane">SARIVAGVWWF</span></span>
-<span class="topo-line"><span class="topo-membrane">FTLIIISSYTANLA</span><span class="topo-outside">AFLTV</span><span class="topo-unknown">ER</span><span class="topo-outside">MVSPIESAEDLSKQTEIAYGTLDSGSTKEFFRRSKIAVF</span></span>
-<span class="topo-line"><span class="topo-outside">DKMWTYMRSAEPSVFVRTTAEGVARVRKSKGKYAYLLESTMNEYIEQRKPCDTMKVGGNL</span></span>
-<span class="topo-line"><span class="topo-outside">DSKGYGIATPKGSSLGTPVNLAVLKLSEQGVLDKLKNKWWYDKGECG</span><span class="topo-unknown">AKDSGSK</span><span class="topo-outside">EKTSAL</span></span>
-<span class="topo-line"><span class="topo-membrane">SLSNVAGVFYILVGGLGLAMLVA</span><span class="topo-inside">LIEFA</span><span class="topo-unknown">YKSRAEAKRMKGLVPR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">NS</span><span class="topo-outside">IQIGGLFPRGADQEYSAFRVGMVQFSTSEFRLTPHIDNLEVANSFAVTNAFCSQFSRGVYAIFGFYDKKSVNTITSFCGTLHVSFITPSFPTDGTHPFVIQMRPDLKGALLSLIEYYQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">WDKFAYLYDSDRGLSTLQAVLDSAAEKKWQVTAINVGNINNDKKDETYRSLFQDLELKKERRVILDCERDKVNDIVDQVITIGKHVKGYHYIIANLGFTDGDLLKIQFGGAEVSGFQIVD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">YDDSLVSKFIERWSTLEEKEYPGAHTATIKYTSALTYDAVQVMTEAFRNLRKQRIEISRRGNAGDCLANPAVPWGQGVEIERALKQVQVEGLSGNIKFDQNGKRINYTINIMELKTNGPR</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">KIGYWSEVDKMVVTLTE</span><span class="topo-unknown">DDTSG</span><span class="topo-outside">LEQKTVVVTTILESPYVMMKKNHEMLEGNERYEGYCVDLAAEIAKHCGFKYKLTIVGDGKYGARDADTKIWNGMVGELVYGKADIAIAPLTITLVREE</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">VIDFSKPFMSLGISIMIKKPQKSKPGVFSFL</span><span class="topo-membrane">DPLAYEIWMAIVFAYILVSVVLFL</span><span class="topo-inside">VS</span><span class="topo-unknown">RFSPYEWHTEEFEDGRETQSSESTNEFGIFNSFWFALKLFFQQGADIS</span><span class="topo-inside">PRSL</span><span class="topo-membrane">SARIVAGVWWF</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-membrane">FTLIIISSYTANLA</span><span class="topo-outside">AFLTV</span><span class="topo-unknown">ER</span><span class="topo-outside">MVSPIESAEDLSKQTEIAYGTLDSGSTKEFFRRSKIAVFDKMWTYMRSAEPSVFVRTTAEGVARVRKSKGKYAYLLESTMNEYIEQRKPCDTMKVGGNL</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820    </span>
+<span class="topo-line"><span class="topo-outside">DSKGYGIATPKGSSLGTPVNLAVLKLSEQGVLDKLKNKWWYDKGECG</span><span class="topo-unknown">AKDSGSK</span><span class="topo-outside">EKTSAL</span><span class="topo-membrane">SLSNVAGVFYILVGGLGLAMLVA</span><span class="topo-inside">LIEFA</span><span class="topo-unknown">YKSRAEAKRMKGLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4108,6 +4167,7 @@ GluA2 (also known as GluR2) is an AMPA-subtype ionotropic glutamate receptor (iG
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4123,20 +4183,21 @@ GluA2 (also known as GluR2) is an AMPA-subtype ionotropic glutamate receptor (iG
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">NSIQIGGLFPRGADQEYSAFRVGMVQFSTSEFRLTPHIDNLEVANSFAVTNAFCSQFSRG</span></span>
-<span class="topo-line"><span class="topo-inside">VYAIFGFYDKKSVNTITSFCGTLHVSFITPSFPTDGTHPFVIQMRPDLKGALLSLIEYYQ</span></span>
-<span class="topo-line"><span class="topo-inside">WDKFAYLYDSDRGLSTLQAVLDSAAEKKWQVTAINV</span><span class="topo-unknown">GNINNDKKDETYRSLFQDLELK</span><span class="topo-inside">KE</span></span>
-<span class="topo-line"><span class="topo-inside">RRVILDCERDKVNDIVDQVITIGKHVKGYHYIIANLGFTDGDLLKIQFGGAEVSGFQIVD</span></span>
-<span class="topo-line"><span class="topo-inside">YDDSLVSKFIERWSTLEEKEYPGAHTATIKYTSALTYDAVQVMTEAFRNLRKQRIEISRR</span></span>
-<span class="topo-line"><span class="topo-inside">GNAGDCLANPAVPWGQGVEIERALKQVQVEGLSGNIKFDQNGKRINYTINIMELKTNGPR</span></span>
-<span class="topo-line"><span class="topo-inside">KIGYWSEVDKMVVTLTED</span><span class="topo-unknown">DTSGL</span><span class="topo-inside">EQKTVVVTTILESPYVMMKKNHEMLEGNERYEGYCVD</span></span>
-<span class="topo-line"><span class="topo-inside">LAAEIAKHCGFKYKLTIVGDGKYGARDADTKIWNGMVGELVYGKADIAIAPLTITLVREE</span></span>
-<span class="topo-line"><span class="topo-inside">VIDFSKPFMSLGISIMIKKPQK</span><span class="topo-unknown">SKPG</span><span class="topo-inside">VFSFLDPLAY</span><span class="topo-membrane">EIWMAIVFAYILVSVVLFLV</span><span class="topo-outside">S</span><span class="topo-unknown">RFS</span></span>
-<span class="topo-line"><span class="topo-unknown">PYEWHTEEFEDGEESTNEFGIFNSFWFALKLFFQQGADISP</span><span class="topo-outside">R</span><span class="topo-membrane">SLSARIVAGVWWFFTLII</span></span>
-<span class="topo-line"><span class="topo-membrane">ISSYT</span><span class="topo-inside">ANLAAFLTVERMVSPIESAEDLSKQTEIAYGTLDSGSTKEFFRRSKIAVFDKMWT</span></span>
-<span class="topo-line"><span class="topo-inside">YMRSAEPSVFVRTTAEGVARVRKSKGKYAYLLESTMNEYIEQRKPCDTMKVGGNLDSKGY</span></span>
-<span class="topo-line"><span class="topo-inside">GIATPKGSSLGTPVNLAVLKLSEQGVLDKLKNKWWYDKGECGAKD</span><span class="topo-unknown">SGSKEKT</span><span class="topo-inside">SALSLSN</span><span class="topo-membrane">V</span></span>
-<span class="topo-line"><span class="topo-membrane">AGVFYILVGGLGLAMLVA</span><span class="topo-outside">LIEF</span><span class="topo-unknown">AYKSRAEAKRMKGLVPR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">NSIQIGGLFPRGADQEYSAFRVGMVQFSTSEFRLTPHIDNLEVANSFAVTNAFCSQFSRGVYAIFGFYDKKSVNTITSFCGTLHVSFITPSFPTDGTHPFVIQMRPDLKGALLSLIEYYQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">WDKFAYLYDSDRGLSTLQAVLDSAAEKKWQVTAINV</span><span class="topo-unknown">GNINNDKKDETYRSLFQDLELK</span><span class="topo-inside">KERRVILDCERDKVNDIVDQVITIGKHVKGYHYIIANLGFTDGDLLKIQFGGAEVSGFQIVD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">YDDSLVSKFIERWSTLEEKEYPGAHTATIKYTSALTYDAVQVMTEAFRNLRKQRIEISRRGNAGDCLANPAVPWGQGVEIERALKQVQVEGLSGNIKFDQNGKRINYTINIMELKTNGPR</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">KIGYWSEVDKMVVTLTED</span><span class="topo-unknown">DTSGL</span><span class="topo-inside">EQKTVVVTTILESPYVMMKKNHEMLEGNERYEGYCVDLAAEIAKHCGFKYKLTIVGDGKYGARDADTKIWNGMVGELVYGKADIAIAPLTITLVREE</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-inside">VIDFSKPFMSLGISIMIKKPQK</span><span class="topo-unknown">SKPG</span><span class="topo-inside">VFSFLDPLAY</span><span class="topo-membrane">EIWMAIVFAYILVSVVLFLV</span><span class="topo-outside">S</span><span class="topo-unknown">RFSPYEWHTEEFEDGEESTNEFGIFNSFWFALKLFFQQGADISP</span><span class="topo-outside">R</span><span class="topo-membrane">SLSARIVAGVWWFFTLII</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-membrane">ISSYT</span><span class="topo-inside">ANLAAFLTVERMVSPIESAEDLSKQTEIAYGTLDSGSTKEFFRRSKIAVFDKMWTYMRSAEPSVFVRTTAEGVARVRKSKGKYAYLLESTMNEYIEQRKPCDTMKVGGNLDSKGY</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810         </span>
+<span class="topo-line"><span class="topo-inside">GIATPKGSSLGTPVNLAVLKLSEQGVLDKLKNKWWYDKGECGAKD</span><span class="topo-unknown">SGSKEKT</span><span class="topo-inside">SALSLSN</span><span class="topo-membrane">VAGVFYILVGGLGLAMLVA</span><span class="topo-outside">LIEF</span><span class="topo-unknown">AYKSRAEAKRMKGLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (12 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4232,6 +4293,7 @@ GluA2 (also known as GluR2) is an AMPA-subtype ionotropic glutamate receptor (iG
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4247,20 +4309,21 @@ GluA2 (also known as GluR2) is an AMPA-subtype ionotropic glutamate receptor (iG
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">NS</span><span class="topo-inside">IQIGGLFPRGADQEYSAFRVGMVQFSTSEFRLTPHIDNLEVANSFAVTNAFCSQFSRG</span></span>
-<span class="topo-line"><span class="topo-inside">VYAIFGFYDKKSVNTITSFCGTLHVSFITPSFPTDGTHPFVIQMRPDLKGALLSLIEYYQ</span></span>
-<span class="topo-line"><span class="topo-inside">WDKFAYLYDSDRGLSTLQAVLDSAAEKKWQVTAINVGNINNDKKDETYRSLFQDLELKKE</span></span>
-<span class="topo-line"><span class="topo-inside">RRVILDCERDKVNDIVDQVITIGKHVKGYHYIIANLGFTDGDLLKIQFGGAEVSGFQIVD</span></span>
-<span class="topo-line"><span class="topo-inside">YDDSLVSKFIERWSTLEEKEYPGAHTATIKYTSALTYDAVQVMTEAFRNLRKQRIEISR</span><span class="topo-unknown">R</span></span>
-<span class="topo-line"><span class="topo-unknown">GNAGD</span><span class="topo-inside">CLANPAVPWGQGVEIERALKQVQVEGLSGNIKFDQNGKRINYTINIMELKTNGPR</span></span>
-<span class="topo-line"><span class="topo-inside">KIGYWSEVDKMVVTLTEDDTSGLEQKTVVVTTILESPYVMMKKNHEMLEGNERYEGYCVD</span></span>
-<span class="topo-line"><span class="topo-inside">LAAEIAKHCGFKYKLTIVGDGKYGARDADTKIWNGMVGELVYGKADIAIAPLTITLVREE</span></span>
-<span class="topo-line"><span class="topo-inside">VIDFSKPFMSLGISIMIKKPQK</span><span class="topo-unknown">SKPGVFS</span><span class="topo-inside">FLDPLAYEI</span><span class="topo-membrane">WMAIVFAYILVSVVLFLVSRF</span><span class="topo-unknown">S</span></span>
-<span class="topo-line"><span class="topo-unknown">PYEWHTEEFEDGEESTNEFGIFNSFWFALKLFFQQGADISP</span><span class="topo-outside">R</span><span class="topo-membrane">SLSARIVAGVWWFFTLII</span></span>
-<span class="topo-line"><span class="topo-membrane">IS</span><span class="topo-inside">SYTANLAAFLTVERM</span><span class="topo-unknown">VSP</span><span class="topo-inside">IESAEDLSKQTEIAYGTLDSGSTKEFFRRSKIAVFDKMWT</span></span>
-<span class="topo-line"><span class="topo-inside">YMRSAEPSVFVRTTAEGVARVRKSKGKYAYLLESTMNEYIEQRKPCDTMKVGGNLDSKGY</span></span>
-<span class="topo-line"><span class="topo-inside">GIATPKGSSLGTPVNLAVLKLSEQGVLDKLKNKWWYDKGECG</span><span class="topo-unknown">AKDSGSKEKTSAL</span><span class="topo-inside">SLSNV</span></span>
-<span class="topo-line"><span class="topo-membrane">AGVFYILVGGLGLAMLVALI</span><span class="topo-outside">EFAY</span><span class="topo-unknown">KSRAEAKRMKGLVPR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">NS</span><span class="topo-inside">IQIGGLFPRGADQEYSAFRVGMVQFSTSEFRLTPHIDNLEVANSFAVTNAFCSQFSRGVYAIFGFYDKKSVNTITSFCGTLHVSFITPSFPTDGTHPFVIQMRPDLKGALLSLIEYYQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">WDKFAYLYDSDRGLSTLQAVLDSAAEKKWQVTAINVGNINNDKKDETYRSLFQDLELKKERRVILDCERDKVNDIVDQVITIGKHVKGYHYIIANLGFTDGDLLKIQFGGAEVSGFQIVD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">YDDSLVSKFIERWSTLEEKEYPGAHTATIKYTSALTYDAVQVMTEAFRNLRKQRIEISR</span><span class="topo-unknown">RGNAGD</span><span class="topo-inside">CLANPAVPWGQGVEIERALKQVQVEGLSGNIKFDQNGKRINYTINIMELKTNGPR</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">KIGYWSEVDKMVVTLTEDDTSGLEQKTVVVTTILESPYVMMKKNHEMLEGNERYEGYCVDLAAEIAKHCGFKYKLTIVGDGKYGARDADTKIWNGMVGELVYGKADIAIAPLTITLVREE</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-inside">VIDFSKPFMSLGISIMIKKPQK</span><span class="topo-unknown">SKPGVFS</span><span class="topo-inside">FLDPLAYEI</span><span class="topo-membrane">WMAIVFAYILVSVVLFLVSRF</span><span class="topo-unknown">SPYEWHTEEFEDGEESTNEFGIFNSFWFALKLFFQQGADISP</span><span class="topo-outside">R</span><span class="topo-membrane">SLSARIVAGVWWFFTLII</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-membrane">IS</span><span class="topo-inside">SYTANLAAFLTVERM</span><span class="topo-unknown">VSP</span><span class="topo-inside">IESAEDLSKQTEIAYGTLDSGSTKEFFRRSKIAVFDKMWTYMRSAEPSVFVRTTAEGVARVRKSKGKYAYLLESTMNEYIEQRKPCDTMKVGGNLDSKGY</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810         </span>
+<span class="topo-line"><span class="topo-inside">GIATPKGSSLGTPVNLAVLKLSEQGVLDKLKNKWWYDKGECG</span><span class="topo-unknown">AKDSGSKEKTSAL</span><span class="topo-inside">SLSNV</span><span class="topo-membrane">AGVFYILVGGLGLAMLVALI</span><span class="topo-outside">EFAY</span><span class="topo-unknown">KSRAEAKRMKGLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4349,6 +4412,7 @@ GluA2 (also known as GluR2) is an AMPA-subtype ionotropic glutamate receptor (iG
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4364,20 +4428,21 @@ GluA2 (also known as GluR2) is an AMPA-subtype ionotropic glutamate receptor (iG
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">NSI</span><span class="topo-inside">QIGGLFPRGADQEYSAFRVGMVQFSTSEFRLTPHIDNLEVANSFAVTNAFCSQFSRG</span></span>
-<span class="topo-line"><span class="topo-inside">VYAIFGFYDKKSVNTITSFCGTLHVSFITPSFPTDGTHPFVIQMRPDLKGALLSLIEYYQ</span></span>
-<span class="topo-line"><span class="topo-inside">WDKFAYLYDSDRGLSTLQAVLDSAAEKKWQVTAINVGNI</span><span class="topo-unknown">NNDKK</span><span class="topo-inside">DETYRSLFQDLELKKE</span></span>
-<span class="topo-line"><span class="topo-inside">RRVILDCERDKVNDIVDQVITIGKHVKGYHYIIANLGFTDGDLLKIQFGGAEVSGFQIVD</span></span>
-<span class="topo-line"><span class="topo-inside">YDDSLVSKFIERWSTLEEKEYPGAHTATIKYTSALTYDAVQVMTEAFRNLRKQRIEISRR</span></span>
-<span class="topo-line"><span class="topo-inside">GNAGDCLANPAVPWGQGVEIERALKQVQVEGLSGNIKFDQNGKRINYTINIMELKTNGPR</span></span>
-<span class="topo-line"><span class="topo-inside">KIGYWSEVDKMVVTLTE</span><span class="topo-unknown">DDTSGLE</span><span class="topo-inside">QKTVVVTTILESPYVMMKKNHEMLEGNERYEGYCVD</span></span>
-<span class="topo-line"><span class="topo-inside">LAAEIAKHCGFKYKLTIVGDGKYGARDADTKIWNGMVGELVYGKADIAIAPLTITLVREE</span></span>
-<span class="topo-line"><span class="topo-inside">VIDFSKPFMSLGISIMIKKP</span><span class="topo-unknown">QKSKPGVFS</span><span class="topo-inside">FLDPLAYEI</span><span class="topo-membrane">WMAIVFAYILVSVVLFLVS</span><span class="topo-unknown">RFS</span></span>
-<span class="topo-line"><span class="topo-unknown">PYEWHTEEFEDGEESTNEFGIFNSFWFALKLFFQQGADIS</span><span class="topo-outside">PRSL</span><span class="topo-membrane">SARIVAGVWWFFTLII</span></span>
-<span class="topo-line"><span class="topo-membrane">ISS</span><span class="topo-inside">YTANLAAFLTVERMVSPIESAEDLSKQTEIAYGTLDSGSTKEFFRRSKIAVFDKMWT</span></span>
-<span class="topo-line"><span class="topo-inside">YMRSAEPSVFVRTTAEGVARVRKSKGKYAYLLESTMNEYIEQRKPCDTMKVGGNLDSKGY</span></span>
-<span class="topo-line"><span class="topo-inside">GIATPKGSSLGTPVNLAVLKLSEQGVLDKLKNKWWYDKGEC</span><span class="topo-unknown">GAKDS</span><span class="topo-inside">GSKEKTSALSLSNV</span></span>
-<span class="topo-line"><span class="topo-membrane">AGVFYILVGGLGLAMLVALI</span><span class="topo-outside">EF</span><span class="topo-unknown">AYKSRAEAKRMKGLVPR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">NSI</span><span class="topo-inside">QIGGLFPRGADQEYSAFRVGMVQFSTSEFRLTPHIDNLEVANSFAVTNAFCSQFSRGVYAIFGFYDKKSVNTITSFCGTLHVSFITPSFPTDGTHPFVIQMRPDLKGALLSLIEYYQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">WDKFAYLYDSDRGLSTLQAVLDSAAEKKWQVTAINVGNI</span><span class="topo-unknown">NNDKK</span><span class="topo-inside">DETYRSLFQDLELKKERRVILDCERDKVNDIVDQVITIGKHVKGYHYIIANLGFTDGDLLKIQFGGAEVSGFQIVD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">YDDSLVSKFIERWSTLEEKEYPGAHTATIKYTSALTYDAVQVMTEAFRNLRKQRIEISRRGNAGDCLANPAVPWGQGVEIERALKQVQVEGLSGNIKFDQNGKRINYTINIMELKTNGPR</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">KIGYWSEVDKMVVTLTE</span><span class="topo-unknown">DDTSGLE</span><span class="topo-inside">QKTVVVTTILESPYVMMKKNHEMLEGNERYEGYCVDLAAEIAKHCGFKYKLTIVGDGKYGARDADTKIWNGMVGELVYGKADIAIAPLTITLVREE</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-inside">VIDFSKPFMSLGISIMIKKP</span><span class="topo-unknown">QKSKPGVFS</span><span class="topo-inside">FLDPLAYEI</span><span class="topo-membrane">WMAIVFAYILVSVVLFLVS</span><span class="topo-unknown">RFSPYEWHTEEFEDGEESTNEFGIFNSFWFALKLFFQQGADIS</span><span class="topo-outside">PRSL</span><span class="topo-membrane">SARIVAGVWWFFTLII</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-membrane">ISS</span><span class="topo-inside">YTANLAAFLTVERMVSPIESAEDLSKQTEIAYGTLDSGSTKEFFRRSKIAVFDKMWTYMRSAEPSVFVRTTAEGVARVRKSKGKYAYLLESTMNEYIEQRKPCDTMKVGGNLDSKGY</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810         </span>
+<span class="topo-line"><span class="topo-inside">GIATPKGSSLGTPVNLAVLKLSEQGVLDKLKNKWWYDKGEC</span><span class="topo-unknown">GAKDS</span><span class="topo-inside">GSKEKTSALSLSNV</span><span class="topo-membrane">AGVFYILVGGLGLAMLVALI</span><span class="topo-outside">EF</span><span class="topo-unknown">AYKSRAEAKRMKGLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4466,6 +4531,7 @@ GluA2 (also known as GluR2) is an AMPA-subtype ionotropic glutamate receptor (iG
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4481,20 +4547,21 @@ GluA2 (also known as GluR2) is an AMPA-subtype ionotropic glutamate receptor (iG
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">NSI</span><span class="topo-inside">QIGGLFPRGADQEYSAFRVGMVQF</span><span class="topo-unknown">STSEFRL</span><span class="topo-inside">TPHIDNLEVANSFAVTNAFCSQFSRG</span></span>
-<span class="topo-line"><span class="topo-inside">VYAIFGFYDKKSVNTITSFCGTLHVSFITPSFPTDGTHPFVIQMRPDLKGALLSLIEYYQ</span></span>
-<span class="topo-line"><span class="topo-inside">WDKFAYLYDSDRGLSTLQAVLDSAAEKKWQVTAINVGNINNDKKDETYRSLFQDLELKKE</span></span>
-<span class="topo-line"><span class="topo-inside">RRVILDCERDKVNDIVDQVITIGKHVKGYHYIIANLGFTDGDLLKIQFGGAEVSGFQIVD</span></span>
-<span class="topo-line"><span class="topo-inside">YDDSLVSKFIERWSTLEEKEYPGAHTATIKYTSALTYDAVQVMTEAFRNLRKQRIEISRR</span></span>
-<span class="topo-line"><span class="topo-inside">GNAGDCLANPAVPWGQGVEIERALKQVQVEGLSGNIKFDQNGKRINYTINIMELKTNGPR</span></span>
-<span class="topo-line"><span class="topo-inside">KIGYWSEVDKMVVT</span><span class="topo-unknown">LTEDDTSGLE</span><span class="topo-inside">QKTVVVTTILESPYVMMKKNHEMLEGNERYEGYCVD</span></span>
-<span class="topo-line"><span class="topo-inside">LAAEIAKHCGFKYKLTIVGDGKYGARDADTKIWNGMVGELVYGKADIAIAPLTITLVREE</span></span>
-<span class="topo-line"><span class="topo-inside">VIDFSKPFMSLGISIMIKKPQKS</span><span class="topo-unknown">KP</span><span class="topo-inside">GVFSFLDPLAY</span><span class="topo-membrane">EIWMAIVFAYILVSVVLFL</span><span class="topo-outside">V</span><span class="topo-unknown">SRFS</span></span>
-<span class="topo-line"><span class="topo-unknown">PYEWHTEEFEDGEESTNEFGIFNSFWFALKLFFQQGADISPRS</span><span class="topo-outside">L</span><span class="topo-membrane">SARIVAGVWWFFTLII</span></span>
-<span class="topo-line"><span class="topo-membrane">ISSYT</span><span class="topo-inside">ANLAAFLTVERMVSPIESAEDLSKQTEIAYGTLDSGSTKEFFRRSKIAVFDKMWT</span></span>
-<span class="topo-line"><span class="topo-inside">YMRSAEPSVFVRTTAEGVARVRKSKGKYAYLLESTMNEYIEQRKPCDTMKVGGNLDSKGY</span></span>
-<span class="topo-line"><span class="topo-inside">GIATPKGSSLGTPVNLAVLKLSEQGVLDKLKNKWWYDKGECGA</span><span class="topo-unknown">KDSGSKEKT</span><span class="topo-inside">SALSLSNV</span></span>
-<span class="topo-line"><span class="topo-membrane">AGVFYILVGGLGLAMLVALI</span><span class="topo-outside">EFAYK</span><span class="topo-unknown">SRAEAKRMKGLVPR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">NSI</span><span class="topo-inside">QIGGLFPRGADQEYSAFRVGMVQF</span><span class="topo-unknown">STSEFRL</span><span class="topo-inside">TPHIDNLEVANSFAVTNAFCSQFSRGVYAIFGFYDKKSVNTITSFCGTLHVSFITPSFPTDGTHPFVIQMRPDLKGALLSLIEYYQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">WDKFAYLYDSDRGLSTLQAVLDSAAEKKWQVTAINVGNINNDKKDETYRSLFQDLELKKERRVILDCERDKVNDIVDQVITIGKHVKGYHYIIANLGFTDGDLLKIQFGGAEVSGFQIVD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">YDDSLVSKFIERWSTLEEKEYPGAHTATIKYTSALTYDAVQVMTEAFRNLRKQRIEISRRGNAGDCLANPAVPWGQGVEIERALKQVQVEGLSGNIKFDQNGKRINYTINIMELKTNGPR</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">KIGYWSEVDKMVVT</span><span class="topo-unknown">LTEDDTSGLE</span><span class="topo-inside">QKTVVVTTILESPYVMMKKNHEMLEGNERYEGYCVDLAAEIAKHCGFKYKLTIVGDGKYGARDADTKIWNGMVGELVYGKADIAIAPLTITLVREE</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-inside">VIDFSKPFMSLGISIMIKKPQKS</span><span class="topo-unknown">KP</span><span class="topo-inside">GVFSFLDPLAY</span><span class="topo-membrane">EIWMAIVFAYILVSVVLFL</span><span class="topo-outside">V</span><span class="topo-unknown">SRFSPYEWHTEEFEDGEESTNEFGIFNSFWFALKLFFQQGADISPRS</span><span class="topo-outside">L</span><span class="topo-membrane">SARIVAGVWWFFTLII</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-membrane">ISSYT</span><span class="topo-inside">ANLAAFLTVERMVSPIESAEDLSKQTEIAYGTLDSGSTKEFFRRSKIAVFDKMWTYMRSAEPSVFVRTTAEGVARVRKSKGKYAYLLESTMNEYIEQRKPCDTMKVGGNLDSKGY</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810         </span>
+<span class="topo-line"><span class="topo-inside">GIATPKGSSLGTPVNLAVLKLSEQGVLDKLKNKWWYDKGECGA</span><span class="topo-unknown">KDSGSKEKT</span><span class="topo-inside">SALSLSNV</span><span class="topo-membrane">AGVFYILVGGLGLAMLVALI</span><span class="topo-outside">EFAYK</span><span class="topo-unknown">SRAEAKRMKGLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (12 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4590,6 +4657,7 @@ GluA2 (also known as GluR2) is an AMPA-subtype ionotropic glutamate receptor (iG
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4605,20 +4673,21 @@ GluA2 (also known as GluR2) is an AMPA-subtype ionotropic glutamate receptor (iG
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">NSIQIGGLFPRGADQEYSAFRVGMVQFSTSEFRLTPHIDNLEVANSFAVTNAFCSQFSRG</span></span>
-<span class="topo-line"><span class="topo-inside">VYAIFGFYDKKSVNTITSFCGTLHVSFITPSFPTDGTHPFVIQMRPDLKGALLSLIEYYQ</span></span>
-<span class="topo-line"><span class="topo-inside">WDKFAYLYDSDRGLSTLQAVLDSAAEKKWQVTAINVG</span><span class="topo-unknown">NINNDKKDETYRSLFQDLEL</span><span class="topo-inside">KKE</span></span>
-<span class="topo-line"><span class="topo-inside">RRVILDCERDKVNDIVDQVITIGKHVKGYHYIIANLGFTDGDLLKIQFGGAEVSGFQIVD</span></span>
-<span class="topo-line"><span class="topo-inside">YDDSLVSKFIERWSTLEEKEYPGAHTATIKYTSALTYDAVQVMTEAFRNLRKQRIEISRR</span></span>
-<span class="topo-line"><span class="topo-inside">GNAGDCLANPAVPWGQGVEIERALKQVQVEGLSGNIKFDQNGKRINYTINIMELKTNGPR</span></span>
-<span class="topo-line"><span class="topo-inside">KIGYWSEVDKMVVTLTED</span><span class="topo-unknown">DTSG</span><span class="topo-inside">LEQKTVVVTTILESPYVMMKKNHEMLEGNERYEGYCVD</span></span>
-<span class="topo-line"><span class="topo-inside">LAAEIAKHCGFKYKLTIVGDGKYGARDADTKIWNGMVGELVYGKADIAIAPLTITLVREE</span></span>
-<span class="topo-line"><span class="topo-inside">VIDFSKPFMSLGISIMIKK</span><span class="topo-unknown">PQK</span><span class="topo-inside">S</span><span class="topo-unknown">K</span><span class="topo-inside">PGVFSFLDPLAYEI</span><span class="topo-membrane">WMAIVFAYIGVSVVLFLV</span><span class="topo-outside">S</span><span class="topo-unknown">RFS</span></span>
-<span class="topo-line"><span class="topo-unknown">PYEWHTEEFEDGRETQSSESTNEFGIFNSLWFSLGAFFQQGADIS</span><span class="topo-outside">P</span><span class="topo-membrane">RSLSARIVAGVWWF</span></span>
-<span class="topo-line"><span class="topo-membrane">FTLIII</span><span class="topo-inside">SSYTANLAAFLTVERMVSPIESAEDLSKQTEIAYGTLDSGSTKEFFRRSKIAVF</span></span>
-<span class="topo-line"><span class="topo-inside">DKMWTYMRSAEPSVFVRTTAEGVARVRKSKGKYAYLLESTMNEYIEQRKPCDTMKVGGNL</span></span>
-<span class="topo-line"><span class="topo-inside">DSKGYGIATPKGSSLGTPVNLAVLKLSEQGVLDKLKNKWWYDKGEC</span><span class="topo-unknown">GAKDSGSKEKT</span><span class="topo-inside">SAL</span></span>
-<span class="topo-line"><span class="topo-inside">SLSNVAGV</span><span class="topo-membrane">FYILVGGLGLAMLVALIE</span><span class="topo-outside">FA</span><span class="topo-unknown">YKSRAEAKRMKGLVPR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">NSIQIGGLFPRGADQEYSAFRVGMVQFSTSEFRLTPHIDNLEVANSFAVTNAFCSQFSRGVYAIFGFYDKKSVNTITSFCGTLHVSFITPSFPTDGTHPFVIQMRPDLKGALLSLIEYYQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">WDKFAYLYDSDRGLSTLQAVLDSAAEKKWQVTAINVG</span><span class="topo-unknown">NINNDKKDETYRSLFQDLEL</span><span class="topo-inside">KKERRVILDCERDKVNDIVDQVITIGKHVKGYHYIIANLGFTDGDLLKIQFGGAEVSGFQIVD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">YDDSLVSKFIERWSTLEEKEYPGAHTATIKYTSALTYDAVQVMTEAFRNLRKQRIEISRRGNAGDCLANPAVPWGQGVEIERALKQVQVEGLSGNIKFDQNGKRINYTINIMELKTNGPR</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">KIGYWSEVDKMVVTLTED</span><span class="topo-unknown">DTSG</span><span class="topo-inside">LEQKTVVVTTILESPYVMMKKNHEMLEGNERYEGYCVDLAAEIAKHCGFKYKLTIVGDGKYGARDADTKIWNGMVGELVYGKADIAIAPLTITLVREE</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-inside">VIDFSKPFMSLGISIMIKK</span><span class="topo-unknown">PQK</span><span class="topo-inside">S</span><span class="topo-unknown">K</span><span class="topo-inside">PGVFSFLDPLAYEI</span><span class="topo-membrane">WMAIVFAYIGVSVVLFLV</span><span class="topo-outside">S</span><span class="topo-unknown">RFSPYEWHTEEFEDGRETQSSESTNEFGIFNSLWFSLGAFFQQGADIS</span><span class="topo-outside">P</span><span class="topo-membrane">RSLSARIVAGVWWF</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-membrane">FTLIII</span><span class="topo-inside">SSYTANLAAFLTVERMVSPIESAEDLSKQTEIAYGTLDSGSTKEFFRRSKIAVFDKMWTYMRSAEPSVFVRTTAEGVARVRKSKGKYAYLLESTMNEYIEQRKPCDTMKVGGNL</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820    </span>
+<span class="topo-line"><span class="topo-inside">DSKGYGIATPKGSSLGTPVNLAVLKLSEQGVLDKLKNKWWYDKGEC</span><span class="topo-unknown">GAKDSGSKEKT</span><span class="topo-inside">SALSLSNVAGV</span><span class="topo-membrane">FYILVGGLGLAMLVALIE</span><span class="topo-outside">FA</span><span class="topo-unknown">YKSRAEAKRMKGLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (13 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4721,6 +4790,7 @@ GluA2 (also known as GluR2) is an AMPA-subtype ionotropic glutamate receptor (iG
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4736,20 +4806,21 @@ GluA2 (also known as GluR2) is an AMPA-subtype ionotropic glutamate receptor (iG
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">N</span><span class="topo-inside">SIQIGGLFPRGADQEYSAFRVGMVQFSTSEFRLTPHIDNLEVANSFAVTNAFCSQFSRG</span></span>
-<span class="topo-line"><span class="topo-inside">VYAIFGFYDKKSVNTITSFCGTLHVSFITPSFPTDGTHPFVIQMRPDLKGALLSLIEYYQ</span></span>
-<span class="topo-line"><span class="topo-inside">WDKFAYLYDSDRGLSTLQAVLDSAAEKKWQVTAINVGNINNDKKDETYRSLFQDLELKKE</span></span>
-<span class="topo-line"><span class="topo-inside">RRVILDCERDKVNDIVDQVITIGKHVKGYHYIIANLGFTDGDLLKIQFGGAEVSGFQIVD</span></span>
-<span class="topo-line"><span class="topo-inside">YDDSLVSKFIERWSTLEEKEYPGAHTATIKYTSALTYDAVQVMTEAFRNLRKQRIEISRR</span></span>
-<span class="topo-line"><span class="topo-inside">GNAGDCLANPAVPWGQGVEIERALKQVQVEGLSGNIKFDQNGKRINYTINIMELKTNGPR</span></span>
-<span class="topo-line"><span class="topo-inside">KIGYWSEVDKMVVTL</span><span class="topo-unknown">TEDDTSG</span><span class="topo-inside">LEQKTVVVTTILESPYVMMKKNHEMLEGNERYEGYCVD</span></span>
-<span class="topo-line"><span class="topo-inside">LAAEIAKHCGFKYKLTIVGDGKYGARDADTKIWNGMVGELVYGKADIAIAPLTITLVREE</span></span>
-<span class="topo-line"><span class="topo-inside">VIDFSKPFMSLGISIMIKKPQKSKPGVFSFLDPLAYEI</span><span class="topo-membrane">WMAIVFAYIGVSVVLFLV</span><span class="topo-outside">S</span><span class="topo-unknown">RFS</span></span>
-<span class="topo-line"><span class="topo-unknown">PYEWHTEEFEDGRETQSSESTNEFGIFNSLWFSLGAFFQQGADIS</span><span class="topo-outside">PR</span><span class="topo-membrane">SLSARIVAGVWWF</span></span>
-<span class="topo-line"><span class="topo-membrane">FTLIII</span><span class="topo-inside">SSYTANLAAFLTVERMVSPIESAEDLSKQTEIAYGTLDSGSTKEFFRRSKIAVF</span></span>
-<span class="topo-line"><span class="topo-inside">DKMWTYMRSAEPSVFVRTTAEGVARVRKSKGKYAYLLESTMNEYIEQRKPCDTMKVGGNL</span></span>
-<span class="topo-line"><span class="topo-inside">DSKGYGIATPKGSSLGTPVNLAVLKLSEQGVLDKLKNKWWYDKGECGAK</span><span class="topo-unknown">DSGSKE</span><span class="topo-inside">KTSAL</span></span>
-<span class="topo-line"><span class="topo-inside">SLSNVAGV</span><span class="topo-membrane">FYILVGGLGLAMLVALI</span><span class="topo-outside">EFA</span><span class="topo-unknown">YKSRAEAKRMKGLVPR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">N</span><span class="topo-inside">SIQIGGLFPRGADQEYSAFRVGMVQFSTSEFRLTPHIDNLEVANSFAVTNAFCSQFSRGVYAIFGFYDKKSVNTITSFCGTLHVSFITPSFPTDGTHPFVIQMRPDLKGALLSLIEYYQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">WDKFAYLYDSDRGLSTLQAVLDSAAEKKWQVTAINVGNINNDKKDETYRSLFQDLELKKERRVILDCERDKVNDIVDQVITIGKHVKGYHYIIANLGFTDGDLLKIQFGGAEVSGFQIVD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">YDDSLVSKFIERWSTLEEKEYPGAHTATIKYTSALTYDAVQVMTEAFRNLRKQRIEISRRGNAGDCLANPAVPWGQGVEIERALKQVQVEGLSGNIKFDQNGKRINYTINIMELKTNGPR</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">KIGYWSEVDKMVVTL</span><span class="topo-unknown">TEDDTSG</span><span class="topo-inside">LEQKTVVVTTILESPYVMMKKNHEMLEGNERYEGYCVDLAAEIAKHCGFKYKLTIVGDGKYGARDADTKIWNGMVGELVYGKADIAIAPLTITLVREE</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-inside">VIDFSKPFMSLGISIMIKKPQKSKPGVFSFLDPLAYEI</span><span class="topo-membrane">WMAIVFAYIGVSVVLFLV</span><span class="topo-outside">S</span><span class="topo-unknown">RFSPYEWHTEEFEDGRETQSSESTNEFGIFNSLWFSLGAFFQQGADIS</span><span class="topo-outside">PR</span><span class="topo-membrane">SLSARIVAGVWWF</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-membrane">FTLIII</span><span class="topo-inside">SSYTANLAAFLTVERMVSPIESAEDLSKQTEIAYGTLDSGSTKEFFRRSKIAVFDKMWTYMRSAEPSVFVRTTAEGVARVRKSKGKYAYLLESTMNEYIEQRKPCDTMKVGGNL</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820    </span>
+<span class="topo-line"><span class="topo-inside">DSKGYGIATPKGSSLGTPVNLAVLKLSEQGVLDKLKNKWWYDKGECGAK</span><span class="topo-unknown">DSGSKE</span><span class="topo-inside">KTSALSLSNVAGV</span><span class="topo-membrane">FYILVGGLGLAMLVALI</span><span class="topo-outside">EFA</span><span class="topo-unknown">YKSRAEAKRMKGLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (10 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4831,6 +4902,7 @@ GluA2 (also known as GluR2) is an AMPA-subtype ionotropic glutamate receptor (iG
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4846,20 +4918,21 @@ GluA2 (also known as GluR2) is an AMPA-subtype ionotropic glutamate receptor (iG
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">NSIQIGGLFPRGADQEYSAFRVGMVQFSTSEFRLTPHIDNLEVANSFAVTNAFCSQFSRG</span></span>
-<span class="topo-line"><span class="topo-inside">VYAIFGFYDKKSVNTITSFCGTLHVSFITPSFPTDGTHPFVIQMRPDLKGALLSLIEYYQ</span></span>
-<span class="topo-line"><span class="topo-inside">WDKFAYLYDSDRGLSTLQAVLDSAAEKKWQVTAINVGNINNDKKDETYRSLFQDLELKKE</span></span>
-<span class="topo-line"><span class="topo-inside">RRVILDCERDKVNDIVDQVITIGKHVKGYHYIIANLGFTDGDLLKIQFGGAEVSGFQIVD</span></span>
-<span class="topo-line"><span class="topo-inside">YDDSLVSKFIERWSTLEEKEYPGAHTATIKYTSALTYDAVQVMTEAFRNLRKQRIEISRR</span></span>
-<span class="topo-line"><span class="topo-inside">GNAGDCLANPAVPWGQGVEIERALKQVQVEGLSGNIKFDQNGKRINYTINIMELKTNGPR</span></span>
-<span class="topo-line"><span class="topo-inside">KIGYWSEVDKMVVTLTEDD</span><span class="topo-unknown">TS</span><span class="topo-inside">GLEQKTVVVTTILESPYVMMKKNHEMLEGNERYEGYCVD</span></span>
-<span class="topo-line"><span class="topo-inside">LAAEIAKHCGFKYKLTIVGDGKYGARDADTKIWNGMVGELVYGKADIAIAPLTITLVREE</span></span>
-<span class="topo-line"><span class="topo-inside">VIDFSKPFMSLGISIMIKKPQKS</span><span class="topo-unknown">KP</span><span class="topo-inside">G</span><span class="topo-unknown">VFSFLD</span><span class="topo-inside">PLAYE</span><span class="topo-membrane">IWMAIVFAYIGVSVVLFLV</span><span class="topo-outside">S</span><span class="topo-unknown">RFS</span></span>
-<span class="topo-line"><span class="topo-unknown">PYEWHTEEFEDGRETQSSESTNEFGIFNSLWFSLGAFFQQGADISPRS</span><span class="topo-outside">L</span><span class="topo-membrane">SARIVAGVWWF</span></span>
-<span class="topo-line"><span class="topo-membrane">FTLIIIS</span><span class="topo-inside">SYTANLAAFLTVERMVS</span><span class="topo-unknown">PI</span><span class="topo-inside">ESAEDLSKQTEIAYGTLDSGSTKEFFRRSKIAVF</span></span>
-<span class="topo-line"><span class="topo-inside">DKMWTYMRSAEPSVFVRTTAEGVARVRKSKGKYAYLLESTMNEYIEQRKPCDTMKVGGNL</span></span>
-<span class="topo-line"><span class="topo-inside">DSKGYGIATPKGSSLGTPVNLAVLKLSEQGVLDKLKNKWWYDKGECGA</span><span class="topo-unknown">KDSGSKE</span><span class="topo-inside">KTSAL</span></span>
-<span class="topo-line"><span class="topo-inside">SLSNVA</span><span class="topo-membrane">GVFYILVGGLGLAMLVALI</span><span class="topo-outside">EFA</span><span class="topo-unknown">YKSRAEAKRMKGLVPR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">NSIQIGGLFPRGADQEYSAFRVGMVQFSTSEFRLTPHIDNLEVANSFAVTNAFCSQFSRGVYAIFGFYDKKSVNTITSFCGTLHVSFITPSFPTDGTHPFVIQMRPDLKGALLSLIEYYQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">WDKFAYLYDSDRGLSTLQAVLDSAAEKKWQVTAINVGNINNDKKDETYRSLFQDLELKKERRVILDCERDKVNDIVDQVITIGKHVKGYHYIIANLGFTDGDLLKIQFGGAEVSGFQIVD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">YDDSLVSKFIERWSTLEEKEYPGAHTATIKYTSALTYDAVQVMTEAFRNLRKQRIEISRRGNAGDCLANPAVPWGQGVEIERALKQVQVEGLSGNIKFDQNGKRINYTINIMELKTNGPR</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">KIGYWSEVDKMVVTLTEDD</span><span class="topo-unknown">TS</span><span class="topo-inside">GLEQKTVVVTTILESPYVMMKKNHEMLEGNERYEGYCVDLAAEIAKHCGFKYKLTIVGDGKYGARDADTKIWNGMVGELVYGKADIAIAPLTITLVREE</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-inside">VIDFSKPFMSLGISIMIKKPQKS</span><span class="topo-unknown">KP</span><span class="topo-inside">G</span><span class="topo-unknown">VFSFLD</span><span class="topo-inside">PLAYE</span><span class="topo-membrane">IWMAIVFAYIGVSVVLFLV</span><span class="topo-outside">S</span><span class="topo-unknown">RFSPYEWHTEEFEDGRETQSSESTNEFGIFNSLWFSLGAFFQQGADISPRS</span><span class="topo-outside">L</span><span class="topo-membrane">SARIVAGVWWF</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-membrane">FTLIIIS</span><span class="topo-inside">SYTANLAAFLTVERMVS</span><span class="topo-unknown">PI</span><span class="topo-inside">ESAEDLSKQTEIAYGTLDSGSTKEFFRRSKIAVFDKMWTYMRSAEPSVFVRTTAEGVARVRKSKGKYAYLLESTMNEYIEQRKPCDTMKVGGNL</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820    </span>
+<span class="topo-line"><span class="topo-inside">DSKGYGIATPKGSSLGTPVNLAVLKLSEQGVLDKLKNKWWYDKGECGA</span><span class="topo-unknown">KDSGSKE</span><span class="topo-inside">KTSALSLSNVA</span><span class="topo-membrane">GVFYILVGGLGLAMLVALI</span><span class="topo-outside">EFA</span><span class="topo-unknown">YKSRAEAKRMKGLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (14 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4969,6 +5042,7 @@ GluA2 (also known as GluR2) is an AMPA-subtype ionotropic glutamate receptor (iG
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4984,20 +5058,21 @@ GluA2 (also known as GluR2) is an AMPA-subtype ionotropic glutamate receptor (iG
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">NSIQIGGLFPRGADQEYSAFRVGMVQFSTSEFRLTPHIDNLEVANSFAVTNAFCSQFSRG</span></span>
-<span class="topo-line"><span class="topo-inside">VYAIFGFYDKKSVNTITSFCGTLHVSFITPSFPTDGTHPFVIQMRPDLKGALLSLIEYYQ</span></span>
-<span class="topo-line"><span class="topo-inside">WDKFAYLYDSDRGLSTLQAVLDSAAEKKWQVTAINVGNINNDKKDETYRSLFQDLELKKE</span></span>
-<span class="topo-line"><span class="topo-inside">RRVILDCERDKVNDIVDQVITIGKHVKGYHYIIANLGFTDGDLLKIQFGGAEVSGFQIVD</span></span>
-<span class="topo-line"><span class="topo-inside">YDDSLVSKFIERWSTLEEKEYPGAHTATIKYTSALTYDAVQVMTEAFRNLRKQRIEISRR</span></span>
-<span class="topo-line"><span class="topo-inside">GNAGDCLANPAVPWGQGVEIERALKQVQVEGLSGNIKFDQNGKRINYTINIMELKTNGPR</span></span>
-<span class="topo-line"><span class="topo-inside">KIGYWSEVDKMVVTLTEDDTS</span><span class="topo-unknown">GLE</span><span class="topo-inside">QKTVVVTTILESPYVMMKKNHEMLEGNERYEGYCVD</span></span>
-<span class="topo-line"><span class="topo-inside">LAAEIAKHCGFKYKLTIVGDGKYGARDADTKIWNGMVGELVYGKADIAIAPLTITLVREE</span></span>
-<span class="topo-line"><span class="topo-inside">VIDFSKPFMSLGISIMIKKPQKSKPGVFSFLDPLAYEI</span><span class="topo-membrane">WMAIVFAYIGVSVVLFLV</span><span class="topo-outside">S</span><span class="topo-unknown">RFS</span></span>
-<span class="topo-line"><span class="topo-unknown">PYEWHTEEFEDGRETQSSESTNEFGIFNSLWFSLGAFFQQGADIS</span><span class="topo-outside">PR</span><span class="topo-membrane">SLSARIVAGVWWF</span></span>
-<span class="topo-line"><span class="topo-membrane">FTLIIIS</span><span class="topo-inside">SYTANLAAFLTVERM</span><span class="topo-unknown">VSP</span><span class="topo-inside">IESAEDLSKQTEIAYGTLDSGSTKEFFRRSKIAVF</span></span>
-<span class="topo-line"><span class="topo-inside">DKMWTYMRSAEPSVFVRTTAEGVARVRKSKGKYAYLLESTMNEYIEQRKPCDTMKVGGNL</span></span>
-<span class="topo-line"><span class="topo-inside">DSKGYGIATPKGSSLGTPVNLAVLKLSEQGVLDKLKNKWWYDKGECGAKD</span><span class="topo-unknown">SGSK</span><span class="topo-inside">EKTSAL</span></span>
-<span class="topo-line"><span class="topo-inside">SLSNV</span><span class="topo-membrane">AGVFYILVGGLGLAMLVALI</span><span class="topo-outside">EF</span><span class="topo-unknown">AYKSRAEAKRMKGLVPR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">NSIQIGGLFPRGADQEYSAFRVGMVQFSTSEFRLTPHIDNLEVANSFAVTNAFCSQFSRGVYAIFGFYDKKSVNTITSFCGTLHVSFITPSFPTDGTHPFVIQMRPDLKGALLSLIEYYQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">WDKFAYLYDSDRGLSTLQAVLDSAAEKKWQVTAINVGNINNDKKDETYRSLFQDLELKKERRVILDCERDKVNDIVDQVITIGKHVKGYHYIIANLGFTDGDLLKIQFGGAEVSGFQIVD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">YDDSLVSKFIERWSTLEEKEYPGAHTATIKYTSALTYDAVQVMTEAFRNLRKQRIEISRRGNAGDCLANPAVPWGQGVEIERALKQVQVEGLSGNIKFDQNGKRINYTINIMELKTNGPR</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">KIGYWSEVDKMVVTLTEDDTS</span><span class="topo-unknown">GLE</span><span class="topo-inside">QKTVVVTTILESPYVMMKKNHEMLEGNERYEGYCVDLAAEIAKHCGFKYKLTIVGDGKYGARDADTKIWNGMVGELVYGKADIAIAPLTITLVREE</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-inside">VIDFSKPFMSLGISIMIKKPQKSKPGVFSFLDPLAYEI</span><span class="topo-membrane">WMAIVFAYIGVSVVLFLV</span><span class="topo-outside">S</span><span class="topo-unknown">RFSPYEWHTEEFEDGRETQSSESTNEFGIFNSLWFSLGAFFQQGADIS</span><span class="topo-outside">PR</span><span class="topo-membrane">SLSARIVAGVWWF</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-membrane">FTLIIIS</span><span class="topo-inside">SYTANLAAFLTVERM</span><span class="topo-unknown">VSP</span><span class="topo-inside">IESAEDLSKQTEIAYGTLDSGSTKEFFRRSKIAVFDKMWTYMRSAEPSVFVRTTAEGVARVRKSKGKYAYLLESTMNEYIEQRKPCDTMKVGGNL</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820    </span>
+<span class="topo-line"><span class="topo-inside">DSKGYGIATPKGSSLGTPVNLAVLKLSEQGVLDKLKNKWWYDKGECGAKD</span><span class="topo-unknown">SGSK</span><span class="topo-inside">EKTSALSLSNV</span><span class="topo-membrane">AGVFYILVGGLGLAMLVALI</span><span class="topo-outside">EF</span><span class="topo-unknown">AYKSRAEAKRMKGLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -5086,6 +5161,7 @@ GluA2 (also known as GluR2) is an AMPA-subtype ionotropic glutamate receptor (iG
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -5101,20 +5177,21 @@ GluA2 (also known as GluR2) is an AMPA-subtype ionotropic glutamate receptor (iG
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">NS</span><span class="topo-outside">IQIGGLFPRGADQEYSAFRVGMVQFSTSEFRLTPHIDNLEVANSFAVTNAFCSQFSRG</span></span>
-<span class="topo-line"><span class="topo-outside">VYAIFGFYDKKSVNTITSFCGTLHVSFITPSFPTDGTHPFVIQMRPDLKGALLSLIEYYQ</span></span>
-<span class="topo-line"><span class="topo-outside">WDKFAYLYDSDRGLSTLQAVLDSAAEKKWQVTAINVGNINNDKKDETYRSLFQDLELKKE</span></span>
-<span class="topo-line"><span class="topo-outside">RRVILDCERDKVNDIVDQVITIGKHVKGYHYIIANLGFTDGDLLKIQFGGAEVSGFQIVD</span></span>
-<span class="topo-line"><span class="topo-outside">YDDSLVSKFIERWSTLEEKEYPGAHTATIKYTSALTYDAVQVMTEAFRNLRKQRIEISRR</span></span>
-<span class="topo-line"><span class="topo-outside">GNAGDCLANPAVPWGQGVEIERALKQVQVEGLSGNIKFDQNGKRINYTINIMELKTNGPR</span></span>
-<span class="topo-line"><span class="topo-outside">KIGYWSEVDKMVVTLTEDDTSGLEQKTVVVTTILESPYVMMKKNHEMLEGNERYEGYCVD</span></span>
-<span class="topo-line"><span class="topo-outside">LAAEIAKHCGFKYKLTIVGDGKYGARDADTKIWNGMVGELVYGKADIAIAPLTITLVREE</span></span>
-<span class="topo-line"><span class="topo-outside">VIDFSKPFMSLGISIMIKKPQKSKPGVFSFLDPLAYEIW</span><span class="topo-membrane">MAIVFAYIGVSVVL</span><span class="topo-inside">FLVSR</span><span class="topo-unknown">FS</span></span>
-<span class="topo-line"><span class="topo-unknown">PYEWHTEEFEDGRETQSSESTNEFGIFNSLWFSLGAFFQQGADIS</span><span class="topo-inside">PRSL</span><span class="topo-membrane">SARIVAGVWWF</span></span>
-<span class="topo-line"><span class="topo-membrane">FTLIII</span><span class="topo-outside">SSYTANLAAFLTVERMVSPIESAEDLSKQTEIAYGTLDSGSTKEFFRRSKIAVF</span></span>
-<span class="topo-line"><span class="topo-outside">DKMWTYMRSAEPSVFVRTTAEGVARVRKSKGKYAYLLESTMNEYIEQRKPCDTMKVGGNL</span></span>
-<span class="topo-line"><span class="topo-outside">DSKGYGIATPKGSSLGTPVNLAVLKLSEQGVLDKLKNKWWYDKGECGAKDSGSKEKTSAL</span></span>
-<span class="topo-line"><span class="topo-outside">SLSNVAGV</span><span class="topo-membrane">FYILVGGLGLAML</span><span class="topo-inside">VAL</span><span class="topo-unknown">IEFAYKSRAEAKRMKGLVPR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">NS</span><span class="topo-outside">IQIGGLFPRGADQEYSAFRVGMVQFSTSEFRLTPHIDNLEVANSFAVTNAFCSQFSRGVYAIFGFYDKKSVNTITSFCGTLHVSFITPSFPTDGTHPFVIQMRPDLKGALLSLIEYYQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">WDKFAYLYDSDRGLSTLQAVLDSAAEKKWQVTAINVGNINNDKKDETYRSLFQDLELKKERRVILDCERDKVNDIVDQVITIGKHVKGYHYIIANLGFTDGDLLKIQFGGAEVSGFQIVD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">YDDSLVSKFIERWSTLEEKEYPGAHTATIKYTSALTYDAVQVMTEAFRNLRKQRIEISRRGNAGDCLANPAVPWGQGVEIERALKQVQVEGLSGNIKFDQNGKRINYTINIMELKTNGPR</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">KIGYWSEVDKMVVTLTEDDTSGLEQKTVVVTTILESPYVMMKKNHEMLEGNERYEGYCVDLAAEIAKHCGFKYKLTIVGDGKYGARDADTKIWNGMVGELVYGKADIAIAPLTITLVREE</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">VIDFSKPFMSLGISIMIKKPQKSKPGVFSFLDPLAYEIW</span><span class="topo-membrane">MAIVFAYIGVSVVL</span><span class="topo-inside">FLVSR</span><span class="topo-unknown">FSPYEWHTEEFEDGRETQSSESTNEFGIFNSLWFSLGAFFQQGADIS</span><span class="topo-inside">PRSL</span><span class="topo-membrane">SARIVAGVWWF</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-membrane">FTLIII</span><span class="topo-outside">SSYTANLAAFLTVERMVSPIESAEDLSKQTEIAYGTLDSGSTKEFFRRSKIAVFDKMWTYMRSAEPSVFVRTTAEGVARVRKSKGKYAYLLESTMNEYIEQRKPCDTMKVGGNL</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820    </span>
+<span class="topo-line"><span class="topo-outside">DSKGYGIATPKGSSLGTPVNLAVLKLSEQGVLDKLKNKWWYDKGECGAKDSGSKEKTSALSLSNVAGV</span><span class="topo-membrane">FYILVGGLGLAML</span><span class="topo-inside">VAL</span><span class="topo-unknown">IEFAYKSRAEAKRMKGLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -5182,6 +5259,7 @@ GluA2 (also known as GluR2) is an AMPA-subtype ionotropic glutamate receptor (iG
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -5197,20 +5275,21 @@ GluA2 (also known as GluR2) is an AMPA-subtype ionotropic glutamate receptor (iG
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">NSIQIGGLFPRGADQEYSAFRVGMVQFSTSEFRLTPHIDNLEVANSFAVTNAFCSQFSRG</span></span>
-<span class="topo-line"><span class="topo-outside">VYAIFGFYDKKSVNTITSFCGTLHVSFITPSFPTDGTHPFVIQMRPDLKGALLSLIEYYQ</span></span>
-<span class="topo-line"><span class="topo-outside">WDKFAYLYDSDRGLSTLQAVLDSAAEKKWQVTAINVGNINNDKKDETYRSLFQDLELKKE</span></span>
-<span class="topo-line"><span class="topo-outside">RRVILDCERDKVNDIVDQVITIGKHVKGYHYIIANLGFTDGDLLKIQFGGAEVSGFQIVD</span></span>
-<span class="topo-line"><span class="topo-outside">YDDSLVSKFIERWSTLEEKEYPGAHTATIKYTSALTYDAVQVMTEAFRNLRKQRIEISRR</span></span>
-<span class="topo-line"><span class="topo-outside">GNAGDCLANPAVPWGQGVEIERALKQVQVEGLSGNIKFDQNGKRINYTINIMELKTNGPR</span></span>
-<span class="topo-line"><span class="topo-outside">KIGYWSEVDKMVVTLTEDDTSGLEQKTVVVTTILESPYVMMKKNHEMLEGNERYEGYCVD</span></span>
-<span class="topo-line"><span class="topo-outside">LAAEIAKHCGFKYKLTIVGDGKYGARDADTKIWNGMVGELVYGKADIAIAPLTITLVREE</span></span>
-<span class="topo-line"><span class="topo-outside">VIDFSKPFMSLGISIMIKKPQKSKPGVFSFLDPLAYEIWM</span><span class="topo-membrane">AIVFAYIGVSVVLF</span><span class="topo-inside">LVS</span><span class="topo-unknown">RFS</span></span>
-<span class="topo-line"><span class="topo-unknown">PYEWHTEEFEDGRETQSSESTNEFGIFNSLWFSLGAFFQQGADIS</span><span class="topo-inside">PRSL</span><span class="topo-membrane">SARIVAGVWWF</span></span>
-<span class="topo-line"><span class="topo-membrane">FTLIII</span><span class="topo-outside">SSYTANLAAFLTVERMVSPIESAEDLSKQTEIAYGTLDSGSTKEFFRRSKIAVF</span></span>
-<span class="topo-line"><span class="topo-outside">DKMWTYMRSAEPSVFVRTTAEGVARVRKSKGKYAYLLESTMNEYIEQRKPCDTMKVGGNL</span></span>
-<span class="topo-line"><span class="topo-outside">DSKGYGIATPKGSSLGTPVNLAVLKLSEQGVLDKLKNKWWYDKGECGAKDSGSKEKTSAL</span></span>
-<span class="topo-line"><span class="topo-outside">SLSNVAGV</span><span class="topo-membrane">FYILVGGLGLAMLV</span><span class="topo-inside">ALIEFAY</span><span class="topo-unknown">KSRAEAKRMKGLVPR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">NSIQIGGLFPRGADQEYSAFRVGMVQFSTSEFRLTPHIDNLEVANSFAVTNAFCSQFSRGVYAIFGFYDKKSVNTITSFCGTLHVSFITPSFPTDGTHPFVIQMRPDLKGALLSLIEYYQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">WDKFAYLYDSDRGLSTLQAVLDSAAEKKWQVTAINVGNINNDKKDETYRSLFQDLELKKERRVILDCERDKVNDIVDQVITIGKHVKGYHYIIANLGFTDGDLLKIQFGGAEVSGFQIVD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">YDDSLVSKFIERWSTLEEKEYPGAHTATIKYTSALTYDAVQVMTEAFRNLRKQRIEISRRGNAGDCLANPAVPWGQGVEIERALKQVQVEGLSGNIKFDQNGKRINYTINIMELKTNGPR</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">KIGYWSEVDKMVVTLTEDDTSGLEQKTVVVTTILESPYVMMKKNHEMLEGNERYEGYCVDLAAEIAKHCGFKYKLTIVGDGKYGARDADTKIWNGMVGELVYGKADIAIAPLTITLVREE</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">VIDFSKPFMSLGISIMIKKPQKSKPGVFSFLDPLAYEIWM</span><span class="topo-membrane">AIVFAYIGVSVVLF</span><span class="topo-inside">LVS</span><span class="topo-unknown">RFSPYEWHTEEFEDGRETQSSESTNEFGIFNSLWFSLGAFFQQGADIS</span><span class="topo-inside">PRSL</span><span class="topo-membrane">SARIVAGVWWF</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-membrane">FTLIII</span><span class="topo-outside">SSYTANLAAFLTVERMVSPIESAEDLSKQTEIAYGTLDSGSTKEFFRRSKIAVFDKMWTYMRSAEPSVFVRTTAEGVARVRKSKGKYAYLLESTMNEYIEQRKPCDTMKVGGNL</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820    </span>
+<span class="topo-line"><span class="topo-outside">DSKGYGIATPKGSSLGTPVNLAVLKLSEQGVLDKLKNKWWYDKGECGAKDSGSKEKTSALSLSNVAGV</span><span class="topo-membrane">FYILVGGLGLAMLV</span><span class="topo-inside">ALIEFAY</span><span class="topo-unknown">KSRAEAKRMKGLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -5278,6 +5357,7 @@ GluA2 (also known as GluR2) is an AMPA-subtype ionotropic glutamate receptor (iG
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -5293,20 +5373,21 @@ GluA2 (also known as GluR2) is an AMPA-subtype ionotropic glutamate receptor (iG
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">NSIQIGGLFPRGADQEYSAFRVGMVQFSTSEFRLTPHIDNLEVANSFAVTNAFCSQFSRG</span></span>
-<span class="topo-line"><span class="topo-outside">VYAIFGFYDKKSVNTITSFCGTLHVSFITPSFPTDGTHPFVIQMRPDLKGALLSLIEYYQ</span></span>
-<span class="topo-line"><span class="topo-outside">WDKFAYLYDSDRGLSTLQAVLDSAAEKKWQVTAINVGNINNDKKDETYRSLFQDLELKKE</span></span>
-<span class="topo-line"><span class="topo-outside">RRVILDCERDKVNDIVDQVITIGKHVKGYHYIIANLGFTDGDLLKIQFGGAEVSGFQIVD</span></span>
-<span class="topo-line"><span class="topo-outside">YDDSLVSKFIERWSTLEEKEYPGAHTATIKYTSALTYDAVQVMTEAFRNLRKQRIEISRR</span></span>
-<span class="topo-line"><span class="topo-outside">GNAGDCLANPAVPWGQGVEIERALKQVQVEGLSGNIKFDQNGKRINYTINIMELKTNGPR</span></span>
-<span class="topo-line"><span class="topo-outside">KIGYWSEVDKMVVTLTEDDTSGLEQKTVVVTTILESPYVMMKKNHEMLEGNERYEGYCVD</span></span>
-<span class="topo-line"><span class="topo-outside">LAAEIAKHCGFKYKLTIVGDGKYGARDADTKIWNGMVGELVYGKADIAIAPLTITLVREE</span></span>
-<span class="topo-line"><span class="topo-outside">VIDFSKPFMSLGISIMIKKPQKSKPGVFSFLDPLAYEIW</span><span class="topo-membrane">MAIVFAYIGVSVVL</span><span class="topo-inside">FL</span><span class="topo-unknown">VSRFS</span></span>
-<span class="topo-line"><span class="topo-unknown">PYEWHTEEFEDGRETQSSESTNEFGIFNSLWFSLGAFFQQGADISPRS</span><span class="topo-inside">LS</span><span class="topo-membrane">ARIVAGVWWF</span></span>
-<span class="topo-line"><span class="topo-membrane">FTLIII</span><span class="topo-outside">SSYTANLAAFLTVERMVSPIESAEDLSKQTEIAYGTLDSGSTKEFFRRSKIAVF</span></span>
-<span class="topo-line"><span class="topo-outside">DKMWTYMRSAEPSVFVRTTAEGVARVRKSKGKYAYLLESTMNEYIEQRKPCDTMKVGGNL</span></span>
-<span class="topo-line"><span class="topo-outside">DSKGYGIATPKGSSLGTPVNLAVLKLSEQGVLDKLKNKWWYDKGECGAKDSGSKEKTSAL</span></span>
-<span class="topo-line"><span class="topo-outside">SLSNVAGV</span><span class="topo-membrane">FYILVGGLGLAMLV</span><span class="topo-inside">AL</span><span class="topo-unknown">IEFAYKSRAEAKRMKGLVPR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">NSIQIGGLFPRGADQEYSAFRVGMVQFSTSEFRLTPHIDNLEVANSFAVTNAFCSQFSRGVYAIFGFYDKKSVNTITSFCGTLHVSFITPSFPTDGTHPFVIQMRPDLKGALLSLIEYYQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">WDKFAYLYDSDRGLSTLQAVLDSAAEKKWQVTAINVGNINNDKKDETYRSLFQDLELKKERRVILDCERDKVNDIVDQVITIGKHVKGYHYIIANLGFTDGDLLKIQFGGAEVSGFQIVD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">YDDSLVSKFIERWSTLEEKEYPGAHTATIKYTSALTYDAVQVMTEAFRNLRKQRIEISRRGNAGDCLANPAVPWGQGVEIERALKQVQVEGLSGNIKFDQNGKRINYTINIMELKTNGPR</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">KIGYWSEVDKMVVTLTEDDTSGLEQKTVVVTTILESPYVMMKKNHEMLEGNERYEGYCVDLAAEIAKHCGFKYKLTIVGDGKYGARDADTKIWNGMVGELVYGKADIAIAPLTITLVREE</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">VIDFSKPFMSLGISIMIKKPQKSKPGVFSFLDPLAYEIW</span><span class="topo-membrane">MAIVFAYIGVSVVL</span><span class="topo-inside">FL</span><span class="topo-unknown">VSRFSPYEWHTEEFEDGRETQSSESTNEFGIFNSLWFSLGAFFQQGADISPRS</span><span class="topo-inside">LS</span><span class="topo-membrane">ARIVAGVWWF</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-membrane">FTLIII</span><span class="topo-outside">SSYTANLAAFLTVERMVSPIESAEDLSKQTEIAYGTLDSGSTKEFFRRSKIAVFDKMWTYMRSAEPSVFVRTTAEGVARVRKSKGKYAYLLESTMNEYIEQRKPCDTMKVGGNL</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820    </span>
+<span class="topo-line"><span class="topo-outside">DSKGYGIATPKGSSLGTPVNLAVLKLSEQGVLDKLKNKWWYDKGECGAKDSGSKEKTSALSLSNVAGV</span><span class="topo-membrane">FYILVGGLGLAMLV</span><span class="topo-inside">AL</span><span class="topo-unknown">IEFAYKSRAEAKRMKGLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -5374,6 +5455,7 @@ GluA2 (also known as GluR2) is an AMPA-subtype ionotropic glutamate receptor (iG
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -5389,20 +5471,21 @@ GluA2 (also known as GluR2) is an AMPA-subtype ionotropic glutamate receptor (iG
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">NSIQIGGLFPRGADQEYSAFRVGMVQFSTSEFRLTPHIDNLEVANSFAVTNAFCSQFSRG</span></span>
-<span class="topo-line"><span class="topo-outside">VYAIFGFYDKKSVNTITSFCGTLHVSFITPSFPTDGTHPFVIQMRPDLKGALLSLIEYYQ</span></span>
-<span class="topo-line"><span class="topo-outside">WDKFAYLYDSDRGLSTLQAVLDSAAEKKWQVTAINVGNINNDKKDETYRSLFQDLELKKE</span></span>
-<span class="topo-line"><span class="topo-outside">RRVILDCERDKVNDIVDQVITIGKHVKGYHYIIANLGFTDGDLLKIQFGGAEVSGFQIVD</span></span>
-<span class="topo-line"><span class="topo-outside">YDDSLVSKFIERWSTLEEKEYPGAHTATIKYTSALTYDAVQVMTEAFRNLRKQRIEISRR</span></span>
-<span class="topo-line"><span class="topo-outside">GNAGDCLANPAVPWGQGVEIERALKQVQVEGLSGNIKFDQNGKRINYTINIMELKTNGPR</span></span>
-<span class="topo-line"><span class="topo-outside">KIGYWSEVDKMVVTLTEDD</span><span class="topo-unknown">TSGL</span><span class="topo-outside">EQKTVVVTTILESPYVMMKKNHEMLEGNERYEGYCVD</span></span>
-<span class="topo-line"><span class="topo-outside">LAAEIAKHCGFKYKLTIVGDGKYGARDADTKIWNGMVGELVYGKADIAIAPLTITLVREE</span></span>
-<span class="topo-line"><span class="topo-outside">VIDFSKPFMSLGISIMIKKPQKSKPGVFSFLDPLAYEIWM</span><span class="topo-membrane">AIVFAYIGVSVVL</span><span class="topo-inside">FLV</span><span class="topo-unknown">SRFS</span></span>
-<span class="topo-line"><span class="topo-unknown">PYEWHTEEFEDGRETQSSESTNEFGIFNSLWFSLGAFFQQGADISP</span><span class="topo-inside">RSLS</span><span class="topo-membrane">ARIVAGVWWF</span></span>
-<span class="topo-line"><span class="topo-membrane">FTLIII</span><span class="topo-outside">SSYTANLAAFLTVERMVSPIESAEDLSKQTEIAYGTLDSGSTKEFFRRSKIAVF</span></span>
-<span class="topo-line"><span class="topo-outside">DKMWTYMRSAEPSVFVRTTAEGVARVRKSKGKYAYLLESTMNEYIEQRKPCDTMKVGGNL</span></span>
-<span class="topo-line"><span class="topo-outside">DSKGYGIATPKGSSLGTPVNLAVLKLSEQGVLDKLKNKWWYDKGECGAKDSGSKEKTSAL</span></span>
-<span class="topo-line"><span class="topo-outside">SLSNVAGVF</span><span class="topo-membrane">YILVGGLGLAMLV</span><span class="topo-inside">ALIEFAY</span><span class="topo-unknown">KSRAEAKRMKGLVPR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">NSIQIGGLFPRGADQEYSAFRVGMVQFSTSEFRLTPHIDNLEVANSFAVTNAFCSQFSRGVYAIFGFYDKKSVNTITSFCGTLHVSFITPSFPTDGTHPFVIQMRPDLKGALLSLIEYYQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">WDKFAYLYDSDRGLSTLQAVLDSAAEKKWQVTAINVGNINNDKKDETYRSLFQDLELKKERRVILDCERDKVNDIVDQVITIGKHVKGYHYIIANLGFTDGDLLKIQFGGAEVSGFQIVD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">YDDSLVSKFIERWSTLEEKEYPGAHTATIKYTSALTYDAVQVMTEAFRNLRKQRIEISRRGNAGDCLANPAVPWGQGVEIERALKQVQVEGLSGNIKFDQNGKRINYTINIMELKTNGPR</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">KIGYWSEVDKMVVTLTEDD</span><span class="topo-unknown">TSGL</span><span class="topo-outside">EQKTVVVTTILESPYVMMKKNHEMLEGNERYEGYCVDLAAEIAKHCGFKYKLTIVGDGKYGARDADTKIWNGMVGELVYGKADIAIAPLTITLVREE</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">VIDFSKPFMSLGISIMIKKPQKSKPGVFSFLDPLAYEIWM</span><span class="topo-membrane">AIVFAYIGVSVVL</span><span class="topo-inside">FLV</span><span class="topo-unknown">SRFSPYEWHTEEFEDGRETQSSESTNEFGIFNSLWFSLGAFFQQGADISP</span><span class="topo-inside">RSLS</span><span class="topo-membrane">ARIVAGVWWF</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-membrane">FTLIII</span><span class="topo-outside">SSYTANLAAFLTVERMVSPIESAEDLSKQTEIAYGTLDSGSTKEFFRRSKIAVFDKMWTYMRSAEPSVFVRTTAEGVARVRKSKGKYAYLLESTMNEYIEQRKPCDTMKVGGNL</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820    </span>
+<span class="topo-line"><span class="topo-outside">DSKGYGIATPKGSSLGTPVNLAVLKLSEQGVLDKLKNKWWYDKGECGAKDSGSKEKTSALSLSNVAGVF</span><span class="topo-membrane">YILVGGLGLAMLV</span><span class="topo-inside">ALIEFAY</span><span class="topo-unknown">KSRAEAKRMKGLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -5477,6 +5560,7 @@ GluA2 (also known as GluR2) is an AMPA-subtype ionotropic glutamate receptor (iG
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

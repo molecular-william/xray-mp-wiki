@@ -226,14 +226,15 @@ and transport. WzxE shows high structural similarity to [NorM-VC (Vibrio cholera
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">VSL</span><span class="topo-membrane">AKASLWTAASTLVKIGAGLLVG</span><span class="topo-outside">KLLAVSFGPAGLGLAAN</span><span class="topo-membrane">FRQLITVLGVLAGAGIF</span></span>
-<span class="topo-line"><span class="topo-membrane">NGVT</span><span class="topo-inside">KYVAQYHDNPQQLRRVVGTS</span><span class="topo-membrane">SAMVLGFSTLMALVFVLAAAPIS</span><span class="topo-outside">QGLFGNTDYQ</span><span class="topo-membrane">GLV</span></span>
-<span class="topo-line"><span class="topo-membrane">RLVALVQMGIAWGNLLLALMK</span><span class="topo-inside">GFRDA</span><span class="topo-membrane">AGNALSLIVGSLIGVLAYYVSY</span><span class="topo-outside">RLGGYEG</span><span class="topo-membrane">ALLGL</span></span>
-<span class="topo-line"><span class="topo-membrane">ALIPALVVIPAAIML</span><span class="topo-inside">IKRGVIPLSYLKPSWDNGLAGQL</span><span class="topo-membrane">SKFTLMALITSVTLPVAYIMM</span><span class="topo-outside">R</span></span>
-<span class="topo-line"><span class="topo-outside">KLLAAQYSWDEVGIWQ</span><span class="topo-membrane">GVSSISDAYLQFITASFSVYLL</span><span class="topo-inside">PTLSRLTEKRDITREVVKS</span><span class="topo-membrane">LKF</span></span>
-<span class="topo-line"><span class="topo-membrane">VLPAVAAASFTVWLLR</span><span class="topo-outside">DFAIWLLLSNKFTAMRDL</span><span class="topo-membrane">FAWQLVGDVLKVGAYVFGYLVI</span><span class="topo-inside">AKA</span><span class="topo-membrane">S</span></span>
-<span class="topo-line"><span class="topo-membrane">LRFYILAEVSQFTLLMVFAHWL</span><span class="topo-outside">IPAHGALG</span><span class="topo-membrane">AAQAYMATYIVYFSLCCGVF</span><span class="topo-inside">LLWRRRALE</span><span class="topo-unknown">E</span></span>
-<span class="topo-line"><span class="topo-unknown">NLYFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">VSL</span><span class="topo-membrane">AKASLWTAASTLVKIGAGLLVG</span><span class="topo-outside">KLLAVSFGPAGLGLAAN</span><span class="topo-membrane">FRQLITVLGVLAGAGIFNGVT</span><span class="topo-inside">KYVAQYHDNPQQLRRVVGTS</span><span class="topo-membrane">SAMVLGFSTLMALVFVLAAAPIS</span><span class="topo-outside">QGLFGNTDYQ</span><span class="topo-membrane">GLV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">RLVALVQMGIAWGNLLLALMK</span><span class="topo-inside">GFRDA</span><span class="topo-membrane">AGNALSLIVGSLIGVLAYYVSY</span><span class="topo-outside">RLGGYEG</span><span class="topo-membrane">ALLGLALIPALVVIPAAIML</span><span class="topo-inside">IKRGVIPLSYLKPSWDNGLAGQL</span><span class="topo-membrane">SKFTLMALITSVTLPVAYIMM</span><span class="topo-outside">R</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">KLLAAQYSWDEVGIWQ</span><span class="topo-membrane">GVSSISDAYLQFITASFSVYLL</span><span class="topo-inside">PTLSRLTEKRDITREVVKS</span><span class="topo-membrane">LKFVLPAVAAASFTVWLLR</span><span class="topo-outside">DFAIWLLLSNKFTAMRDL</span><span class="topo-membrane">FAWQLVGDVLKVGAYVFGYLVI</span><span class="topo-inside">AKA</span><span class="topo-membrane">S</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420     </span>
+<span class="topo-line"><span class="topo-membrane">LRFYILAEVSQFTLLMVFAHWL</span><span class="topo-outside">IPAHGALG</span><span class="topo-membrane">AAQAYMATYIVYFSLCCGVF</span><span class="topo-inside">LLWRRRALE</span><span class="topo-unknown">ENLYFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (26 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -427,6 +428,7 @@ and transport. WzxE shows high structural similarity to [NorM-VC (Vibrio cholera
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -442,14 +444,15 @@ and transport. WzxE shows high structural similarity to [NorM-VC (Vibrio cholera
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">VSLAKA</span><span class="topo-membrane">SLWTAASTLVKIGAGLLVGKL</span><span class="topo-outside">LAVSFGPAGLGLAAN</span><span class="topo-membrane">FRQLITVLGVLAGAGIF</span></span>
-<span class="topo-line"><span class="topo-membrane">NGVT</span><span class="topo-inside">KYVAQYHDNPQQLRRVVGTS</span><span class="topo-membrane">SAMVLGFSTLMALVFVLAA</span><span class="topo-outside">APISQGLFGNTDYQG</span><span class="topo-membrane">LV</span></span>
-<span class="topo-line"><span class="topo-membrane">RLVALVQMGIAWGNLLLAL</span><span class="topo-inside">MKGFRDA</span><span class="topo-membrane">AGNALSLIVGSLIGVLAYYVSYRL</span><span class="topo-outside">GGYEG</span><span class="topo-membrane">ALLGL</span></span>
-<span class="topo-line"><span class="topo-membrane">ALIPALVVIPAAIM</span><span class="topo-inside">LIKRGVIPLSYLKPSWDNGLA</span><span class="topo-membrane">GQLSKFTLMALITSVTLPVAYIMM</span><span class="topo-outside">R</span></span>
-<span class="topo-line"><span class="topo-outside">KLLAAQYSWDEVGIW</span><span class="topo-membrane">QGVSSISDAYLQFITASFSV</span><span class="topo-inside">YLLPTLSRLTEKRDITREVVKSLKF</span></span>
-<span class="topo-line"><span class="topo-membrane">VLPAVAAASFTVWLLRDFAIWLLL</span><span class="topo-outside">SNKFTAM</span><span class="topo-membrane">RDLFAWQLVGDVLKVGAYVFGYLVI</span><span class="topo-inside">AKA</span><span class="topo-membrane">S</span></span>
-<span class="topo-line"><span class="topo-membrane">LRFYILAEVSQFTLLMVFAHWLI</span><span class="topo-outside">PAHGAL</span><span class="topo-membrane">GAAQAYMATYIVYFSLCCGV</span><span class="topo-inside">FLLWRRRALE</span><span class="topo-unknown">E</span></span>
-<span class="topo-line"><span class="topo-unknown">NLYFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">VSLAKA</span><span class="topo-membrane">SLWTAASTLVKIGAGLLVGKL</span><span class="topo-outside">LAVSFGPAGLGLAAN</span><span class="topo-membrane">FRQLITVLGVLAGAGIFNGVT</span><span class="topo-inside">KYVAQYHDNPQQLRRVVGTS</span><span class="topo-membrane">SAMVLGFSTLMALVFVLAA</span><span class="topo-outside">APISQGLFGNTDYQG</span><span class="topo-membrane">LV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">RLVALVQMGIAWGNLLLAL</span><span class="topo-inside">MKGFRDA</span><span class="topo-membrane">AGNALSLIVGSLIGVLAYYVSYRL</span><span class="topo-outside">GGYEG</span><span class="topo-membrane">ALLGLALIPALVVIPAAIM</span><span class="topo-inside">LIKRGVIPLSYLKPSWDNGLA</span><span class="topo-membrane">GQLSKFTLMALITSVTLPVAYIMM</span><span class="topo-outside">R</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">KLLAAQYSWDEVGIW</span><span class="topo-membrane">QGVSSISDAYLQFITASFSV</span><span class="topo-inside">YLLPTLSRLTEKRDITREVVKSLKF</span><span class="topo-membrane">VLPAVAAASFTVWLLRDFAIWLLL</span><span class="topo-outside">SNKFTAM</span><span class="topo-membrane">RDLFAWQLVGDVLKVGAYVFGYLVI</span><span class="topo-inside">AKA</span><span class="topo-membrane">S</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420     </span>
+<span class="topo-line"><span class="topo-membrane">LRFYILAEVSQFTLLMVFAHWLI</span><span class="topo-outside">PAHGAL</span><span class="topo-membrane">GAAQAYMATYIVYFSLCCGV</span><span class="topo-inside">FLLWRRRALE</span><span class="topo-unknown">ENLYFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (26 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -643,6 +646,7 @@ and transport. WzxE shows high structural similarity to [NorM-VC (Vibrio cholera
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -658,14 +662,15 @@ and transport. WzxE shows high structural similarity to [NorM-VC (Vibrio cholera
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">VSL</span><span class="topo-membrane">AKASLWTAASTLVKIGAGLLVG</span><span class="topo-outside">KLLAVSFGPAGLGLAA</span><span class="topo-membrane">NFRQLITVLGVLAGAGIF</span></span>
-<span class="topo-line"><span class="topo-membrane">NGVT</span><span class="topo-inside">KYVAQYHDNPQQLRRVVGTS</span><span class="topo-membrane">SAMVLGFSTLMALVFVLAAAPIS</span><span class="topo-outside">QGLFGNTDY</span><span class="topo-membrane">QGLV</span></span>
-<span class="topo-line"><span class="topo-membrane">RLVALVQMGIAWGNLLLALMK</span><span class="topo-inside">GFRD</span><span class="topo-membrane">AAGNALSLIVGSLIGVLAYYVSY</span><span class="topo-outside">RLGGYEG</span><span class="topo-membrane">ALLGL</span></span>
-<span class="topo-line"><span class="topo-membrane">ALIPALVVIPAAIMLIK</span><span class="topo-inside">RGVIPLSYLKPSWDNGLAGQL</span><span class="topo-membrane">SKFTLMALITSVTLPVAYIMMR</span></span>
-<span class="topo-line"><span class="topo-membrane">KL</span><span class="topo-outside">LAAQYSWDEVGIW</span><span class="topo-membrane">QGVSSISDAYLQFITASFSVYLL</span><span class="topo-inside">PTLSRLTEKRDITREV</span><span class="topo-membrane">VKSLKF</span></span>
-<span class="topo-line"><span class="topo-membrane">VLPAVAAASFTVWLLR</span><span class="topo-outside">DFAIWLLLSNKFTAMRD</span><span class="topo-membrane">LFAWQLVGDVLKVGAYVFGYLVI</span><span class="topo-inside">AKAS</span></span>
-<span class="topo-line"><span class="topo-membrane">LRFYILAEVSQFTLLMVFAHWLI</span><span class="topo-outside">PAHGAL</span><span class="topo-membrane">GAAQAYMATYIVYFSLCCGVF</span><span class="topo-inside">LLWRRR</span><span class="topo-unknown">ALEE</span></span>
-<span class="topo-line"><span class="topo-unknown">NLYFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">VSL</span><span class="topo-membrane">AKASLWTAASTLVKIGAGLLVG</span><span class="topo-outside">KLLAVSFGPAGLGLAA</span><span class="topo-membrane">NFRQLITVLGVLAGAGIFNGVT</span><span class="topo-inside">KYVAQYHDNPQQLRRVVGTS</span><span class="topo-membrane">SAMVLGFSTLMALVFVLAAAPIS</span><span class="topo-outside">QGLFGNTDY</span><span class="topo-membrane">QGLV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">RLVALVQMGIAWGNLLLALMK</span><span class="topo-inside">GFRD</span><span class="topo-membrane">AAGNALSLIVGSLIGVLAYYVSY</span><span class="topo-outside">RLGGYEG</span><span class="topo-membrane">ALLGLALIPALVVIPAAIMLIK</span><span class="topo-inside">RGVIPLSYLKPSWDNGLAGQL</span><span class="topo-membrane">SKFTLMALITSVTLPVAYIMMR</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">KL</span><span class="topo-outside">LAAQYSWDEVGIW</span><span class="topo-membrane">QGVSSISDAYLQFITASFSVYLL</span><span class="topo-inside">PTLSRLTEKRDITREV</span><span class="topo-membrane">VKSLKFVLPAVAAASFTVWLLR</span><span class="topo-outside">DFAIWLLLSNKFTAMRD</span><span class="topo-membrane">LFAWQLVGDVLKVGAYVFGYLVI</span><span class="topo-inside">AKAS</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420     </span>
+<span class="topo-line"><span class="topo-membrane">LRFYILAEVSQFTLLMVFAHWLI</span><span class="topo-outside">PAHGAL</span><span class="topo-membrane">GAAQAYMATYIVYFSLCCGVF</span><span class="topo-inside">LLWRRR</span><span class="topo-unknown">ALEENLYFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (26 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -859,6 +864,7 @@ and transport. WzxE shows high structural similarity to [NorM-VC (Vibrio cholera
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -874,14 +880,15 @@ and transport. WzxE shows high structural similarity to [NorM-VC (Vibrio cholera
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MVSLAK</span><span class="topo-outside">ASL</span><span class="topo-membrane">WTAASTLVKIGAGLLVGKLL</span><span class="topo-inside">AVSFGPAGLGLA</span><span class="topo-membrane">ANFRQLITVLGVLAGAGIF</span></span>
-<span class="topo-line"><span class="topo-membrane">N</span><span class="topo-outside">GVTKYVAQYHDNPQQLRRVVGTS</span><span class="topo-membrane">SAMVLGFSTLMALVFVLAAAPIS</span><span class="topo-inside">QGLFGNTDYQ</span><span class="topo-membrane">GLV</span></span>
-<span class="topo-line"><span class="topo-membrane">RLVALVQMGIAWGNLLLA</span><span class="topo-outside">LMKGFRDAA</span><span class="topo-membrane">GNALSLIVGSLIGVLAYYVSY</span><span class="topo-inside">RLGGYEG</span><span class="topo-membrane">ALLGL</span></span>
-<span class="topo-line"><span class="topo-membrane">ALIPALVVIPAAIML</span><span class="topo-outside">IKRGVIPLSYLKPSWDNGLAGQLS</span><span class="topo-membrane">KFTLMALITSVTLPVAYIMMR</span></span>
-<span class="topo-line"><span class="topo-inside">KLLAAQYSWDEVGIW</span><span class="topo-membrane">QGVSSISDAYLQFITASFSV</span><span class="topo-outside">YLLPTLSRLTEKRDITREV</span><span class="topo-membrane">VKSLKF</span></span>
-<span class="topo-line"><span class="topo-membrane">VLPAVAAASFTVWLLR</span><span class="topo-inside">DFAIWLLLSNKFTAMRDL</span><span class="topo-membrane">FAWQLVGDVLKVGAYVFGYLVI</span><span class="topo-outside">AKAS</span></span>
-<span class="topo-line"><span class="topo-membrane">LRFYILAEVSQFTLLMVFAH</span><span class="topo-inside">WLIPAHGALGA</span><span class="topo-membrane">AQAYMATYIVYFSLCCGVFLLW</span><span class="topo-outside">RRRA</span><span class="topo-unknown">LEE</span></span>
-<span class="topo-line"><span class="topo-unknown">NLYFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MVSLAK</span><span class="topo-outside">ASL</span><span class="topo-membrane">WTAASTLVKIGAGLLVGKLL</span><span class="topo-inside">AVSFGPAGLGLA</span><span class="topo-membrane">ANFRQLITVLGVLAGAGIFN</span><span class="topo-outside">GVTKYVAQYHDNPQQLRRVVGTS</span><span class="topo-membrane">SAMVLGFSTLMALVFVLAAAPIS</span><span class="topo-inside">QGLFGNTDYQ</span><span class="topo-membrane">GLV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">RLVALVQMGIAWGNLLLA</span><span class="topo-outside">LMKGFRDAA</span><span class="topo-membrane">GNALSLIVGSLIGVLAYYVSY</span><span class="topo-inside">RLGGYEG</span><span class="topo-membrane">ALLGLALIPALVVIPAAIML</span><span class="topo-outside">IKRGVIPLSYLKPSWDNGLAGQLS</span><span class="topo-membrane">KFTLMALITSVTLPVAYIMMR</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">KLLAAQYSWDEVGIW</span><span class="topo-membrane">QGVSSISDAYLQFITASFSV</span><span class="topo-outside">YLLPTLSRLTEKRDITREV</span><span class="topo-membrane">VKSLKFVLPAVAAASFTVWLLR</span><span class="topo-inside">DFAIWLLLSNKFTAMRDL</span><span class="topo-membrane">FAWQLVGDVLKVGAYVFGYLVI</span><span class="topo-outside">AKAS</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420     </span>
+<span class="topo-line"><span class="topo-membrane">LRFYILAEVSQFTLLMVFAH</span><span class="topo-inside">WLIPAHGALGA</span><span class="topo-membrane">AQAYMATYIVYFSLCCGVFLLW</span><span class="topo-outside">RRRA</span><span class="topo-unknown">LEENLYFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (27 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1082,6 +1089,7 @@ and transport. WzxE shows high structural similarity to [NorM-VC (Vibrio cholera
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1097,14 +1105,15 @@ and transport. WzxE shows high structural similarity to [NorM-VC (Vibrio cholera
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MVSLAK</span><span class="topo-inside">ASL</span><span class="topo-membrane">WTAASTLVKIGAGLLVGKLLA</span><span class="topo-outside">VSFGPAGLGLA</span><span class="topo-membrane">ANFRQLITVLGVLAGAGIF</span></span>
-<span class="topo-line"><span class="topo-membrane">N</span><span class="topo-inside">GVTKYVAQYHDNPQQLRRVVGTS</span><span class="topo-membrane">SAMVLGFSTLMALVFVLAAAPIS</span><span class="topo-outside">QGLFGNTDYQ</span><span class="topo-membrane">GLV</span></span>
-<span class="topo-line"><span class="topo-membrane">RLVALVQMGIAWGNLLLA</span><span class="topo-inside">LMKGFRDAAG</span><span class="topo-membrane">NALSLIVGSLIGVLAYYVSY</span><span class="topo-outside">RLGGYEG</span><span class="topo-membrane">ALLGL</span></span>
-<span class="topo-line"><span class="topo-membrane">ALIPALVVIPAAIMLI</span><span class="topo-inside">KRGVIPLSYLKPSWDNGLAGQLS</span><span class="topo-membrane">KFTLMALITSVTLPVAYIMMR</span></span>
-<span class="topo-line"><span class="topo-membrane">K</span><span class="topo-outside">LLAAQYSWDEVGIW</span><span class="topo-membrane">QGVSSISDAYLQFITASFS</span><span class="topo-inside">VYLLPTLSRLTEKRDITREVVKSL</span><span class="topo-membrane">KF</span></span>
-<span class="topo-line"><span class="topo-membrane">VLPAVAAASFTVWLLRDFAI</span><span class="topo-outside">WLLLSNKFTAM</span><span class="topo-membrane">RDLFAWQLVGDVLKVGAYVFGY</span><span class="topo-inside">LVIAKAS</span></span>
-<span class="topo-line"><span class="topo-inside">L</span><span class="topo-membrane">RFYILAEVSQFTLLMVFAHWL</span><span class="topo-outside">IPAHGAL</span><span class="topo-membrane">GAAQAYMATYIVYFSLCCGVF</span><span class="topo-inside">LLWRR</span><span class="topo-unknown">RALEE</span></span>
-<span class="topo-line"><span class="topo-unknown">NLYFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MVSLAK</span><span class="topo-inside">ASL</span><span class="topo-membrane">WTAASTLVKIGAGLLVGKLLA</span><span class="topo-outside">VSFGPAGLGLA</span><span class="topo-membrane">ANFRQLITVLGVLAGAGIFN</span><span class="topo-inside">GVTKYVAQYHDNPQQLRRVVGTS</span><span class="topo-membrane">SAMVLGFSTLMALVFVLAAAPIS</span><span class="topo-outside">QGLFGNTDYQ</span><span class="topo-membrane">GLV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">RLVALVQMGIAWGNLLLA</span><span class="topo-inside">LMKGFRDAAG</span><span class="topo-membrane">NALSLIVGSLIGVLAYYVSY</span><span class="topo-outside">RLGGYEG</span><span class="topo-membrane">ALLGLALIPALVVIPAAIMLI</span><span class="topo-inside">KRGVIPLSYLKPSWDNGLAGQLS</span><span class="topo-membrane">KFTLMALITSVTLPVAYIMMR</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">K</span><span class="topo-outside">LLAAQYSWDEVGIW</span><span class="topo-membrane">QGVSSISDAYLQFITASFS</span><span class="topo-inside">VYLLPTLSRLTEKRDITREVVKSL</span><span class="topo-membrane">KFVLPAVAAASFTVWLLRDFAI</span><span class="topo-outside">WLLLSNKFTAM</span><span class="topo-membrane">RDLFAWQLVGDVLKVGAYVFGY</span><span class="topo-inside">LVIAKAS</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420     </span>
+<span class="topo-line"><span class="topo-inside">L</span><span class="topo-membrane">RFYILAEVSQFTLLMVFAHWL</span><span class="topo-outside">IPAHGAL</span><span class="topo-membrane">GAAQAYMATYIVYFSLCCGVF</span><span class="topo-inside">LLWRR</span><span class="topo-unknown">RALEENLYFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (27 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1305,6 +1314,7 @@ and transport. WzxE shows high structural similarity to [NorM-VC (Vibrio cholera
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

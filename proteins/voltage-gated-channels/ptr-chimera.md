@@ -129,15 +129,17 @@ The Paddle-Chimera (PTR) is an engineered voltage-gated potassium channel create
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAHHHHHHHHHHGLVPRGSMTVATGDPVDEAAALPGHPQDTYDPEADHES</span><span class="topo-inside">SERVVINISG</span></span>
-<span class="topo-line"><span class="topo-inside">LRFETQLKTLAQFPETLLGDPKKRMRYFDPLRNEYFFDRNRPSFDAILYYYQSGGRLRRP</span></span>
-<span class="topo-line"><span class="topo-inside">VNVPLDIFSEEIRFYELGEEAMEMFREDEGYIKEEERPLPENEFQRQVWLLFEYPESSGP</span></span>
-<span class="topo-line"><span class="topo-inside">AR</span><span class="topo-membrane">IIAIVSVMVILISIVSFCL</span><span class="topo-outside">ETLPIFRDENEDMHGGGVTFHTYSQSTIGYQQSTSFTDP</span></span>
-<span class="topo-line"><span class="topo-outside">F</span><span class="topo-membrane">FIVETLCIIWFSFEFLVRFF</span><span class="topo-inside">ACPSKAGFF</span><span class="topo-membrane">TNIMNIIDIVAIIPYYVTIFL</span><span class="topo-outside">TESNKSVLQ</span></span>
-<span class="topo-line"><span class="topo-outside">FQNVRRV</span><span class="topo-membrane">VQIFRIMRILRIFKLSRHS</span><span class="topo-unknown">KGLQILGQTLKA</span><span class="topo-inside">SM</span><span class="topo-membrane">RELGLLIFFLFIGVILFSSA</span></span>
-<span class="topo-line"><span class="topo-membrane">VYFA</span><span class="topo-outside">EADERDSQFPSI</span><span class="topo-unknown">PDAFWWAVVSMTTVGY</span><span class="topo-outside">GDMVPTTI</span><span class="topo-membrane">GGKIVGSLCAIAGVLTIALP</span></span>
-<span class="topo-line"><span class="topo-membrane">V</span><span class="topo-unknown">PVIVSNFNYFYHRE</span><span class="topo-inside">T</span><span class="topo-unknown">EGEEQAQYLQVTSSPKIPSSPDLKKSRSASTISKSDYMEIQEGV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAHHHHHHHHHHGLVPRGSMTVATGDPVDEAAALPGHPQDTYDPEADHES</span><span class="topo-inside">SERVVINISGLRFETQLKTLAQFPETLLGDPKKRMRYFDPLRNEYFFDRNRPSFDAILYYYQSGGRLRRP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">VNVPLDIFSEEIRFYELGEEAMEMFREDEGYIKEEERPLPENEFQRQVWLLFEYPESSGPAR</span><span class="topo-membrane">IIAIVSVMVILISIVSFCL</span><span class="topo-outside">ETLPIFRDENEDMHGGGVTFHTYSQSTIGYQQSTSFTDP</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">F</span><span class="topo-membrane">FIVETLCIIWFSFEFLVRFF</span><span class="topo-inside">ACPSKAGFF</span><span class="topo-membrane">TNIMNIIDIVAIIPYYVTIFL</span><span class="topo-outside">TESNKSVLQFQNVRRV</span><span class="topo-membrane">VQIFRIMRILRIFKLSRHS</span><span class="topo-unknown">KGLQILGQTLKA</span><span class="topo-inside">SM</span><span class="topo-membrane">RELGLLIFFLFIGVILFSSA</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">VYFA</span><span class="topo-outside">EADERDSQFPSI</span><span class="topo-unknown">PDAFWWAVVSMTTVGY</span><span class="topo-outside">GDMVPTTI</span><span class="topo-membrane">GGKIVGSLCAIAGVLTIALPV</span><span class="topo-unknown">PVIVSNFNYFYHRE</span><span class="topo-inside">T</span><span class="topo-unknown">EGEEQAQYLQVTSSPKIPSSPDLKKSRSASTISKSDYMEIQEGV</span></span>
+<span class="topo-ruler">       490       500       510    </span>
 <span class="topo-line"><span class="topo-unknown">NNSNEDFREENLKTANSTLANTNYVNITKMLTDV</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -282,6 +284,7 @@ The Paddle-Chimera (PTR) is an engineered voltage-gated potassium channel create
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -297,15 +300,17 @@ The Paddle-Chimera (PTR) is an engineered voltage-gated potassium channel create
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAHHHHHHHHHHGLVPRGSMTVATGDPVDEAAALPGHPQDTYDPEADHES</span><span class="topo-inside">SERVVINISG</span></span>
-<span class="topo-line"><span class="topo-inside">LRFETQLKTLAQFPETLLGDPKKRMRYFDPLRNEYFFDRNRPSFDAILYYYQSGGRLRRP</span></span>
-<span class="topo-line"><span class="topo-inside">VNVPLDIFSEEIRFYELGEEAMEMFREDEGYIKEEERPLPENEFQRQVWLLFEYPESSGP</span></span>
-<span class="topo-line"><span class="topo-inside">AR</span><span class="topo-membrane">IIAIVSVMVILISIVSFCL</span><span class="topo-outside">ETLPIFRDENEDMHGGGVTFHTYSQSTIGYQQSTSFTDP</span></span>
-<span class="topo-line"><span class="topo-outside">F</span><span class="topo-membrane">FIVETLCIIWFSFEFLVRFF</span><span class="topo-inside">ACPSKAGFF</span><span class="topo-membrane">TNIMNIIDIVAIIPYYVTIFL</span><span class="topo-outside">TESNKSVLQ</span></span>
-<span class="topo-line"><span class="topo-outside">FQNVRRV</span><span class="topo-membrane">VQIFRIMRILRIFKLSRHS</span><span class="topo-unknown">KGLQILGQTLKA</span><span class="topo-inside">SM</span><span class="topo-membrane">RELGLLIFFLFIGVILFSSA</span></span>
-<span class="topo-line"><span class="topo-membrane">VYFA</span><span class="topo-outside">EADERDSQFPSI</span><span class="topo-unknown">PDAFWWAVVSMTTVGY</span><span class="topo-outside">GDMVPTTI</span><span class="topo-membrane">GGKIVGSLCAIAGVLTIALP</span></span>
-<span class="topo-line"><span class="topo-membrane">V</span><span class="topo-unknown">PVIVSNFNYFYHRE</span><span class="topo-inside">T</span><span class="topo-unknown">EGEEQAQYLQVTSSPKIPSSPDLKKSRSASTISKSDYMEIQEGV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAHHHHHHHHHHGLVPRGSMTVATGDPVDEAAALPGHPQDTYDPEADHES</span><span class="topo-inside">SERVVINISGLRFETQLKTLAQFPETLLGDPKKRMRYFDPLRNEYFFDRNRPSFDAILYYYQSGGRLRRP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">VNVPLDIFSEEIRFYELGEEAMEMFREDEGYIKEEERPLPENEFQRQVWLLFEYPESSGPAR</span><span class="topo-membrane">IIAIVSVMVILISIVSFCL</span><span class="topo-outside">ETLPIFRDENEDMHGGGVTFHTYSQSTIGYQQSTSFTDP</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">F</span><span class="topo-membrane">FIVETLCIIWFSFEFLVRFF</span><span class="topo-inside">ACPSKAGFF</span><span class="topo-membrane">TNIMNIIDIVAIIPYYVTIFL</span><span class="topo-outside">TESNKSVLQFQNVRRV</span><span class="topo-membrane">VQIFRIMRILRIFKLSRHS</span><span class="topo-unknown">KGLQILGQTLKA</span><span class="topo-inside">SM</span><span class="topo-membrane">RELGLLIFFLFIGVILFSSA</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">VYFA</span><span class="topo-outside">EADERDSQFPSI</span><span class="topo-unknown">PDAFWWAVVSMTTVGY</span><span class="topo-outside">GDMVPTTI</span><span class="topo-membrane">GGKIVGSLCAIAGVLTIALPV</span><span class="topo-unknown">PVIVSNFNYFYHRE</span><span class="topo-inside">T</span><span class="topo-unknown">EGEEQAQYLQVTSSPKIPSSPDLKKSRSASTISKSDYMEIQEGV</span></span>
+<span class="topo-ruler">       490       500       510    </span>
 <span class="topo-line"><span class="topo-unknown">NNSNEDFREENLKTANSTLANTNYVNITKMLTDV</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -450,6 +455,7 @@ The Paddle-Chimera (PTR) is an engineered voltage-gated potassium channel create
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -465,15 +471,17 @@ The Paddle-Chimera (PTR) is an engineered voltage-gated potassium channel create
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAHHHHHHHHHHGLVPRGSMTVATGDPVDEAAALPGHPQDTYDPEADHES</span><span class="topo-inside">SERVVINISG</span></span>
-<span class="topo-line"><span class="topo-inside">LRFETQLKTLAQFPETLLGDPKKRMRYFDPLRNEYFFDRNRPSFDAILYYYQSGGRLRRP</span></span>
-<span class="topo-line"><span class="topo-inside">VNVPLDIFSEEIRFYELGEEAMEMFREDEGYIKEEERPLPENEFQRQVWLLFEYPESSGP</span></span>
-<span class="topo-line"><span class="topo-inside">AR</span><span class="topo-membrane">IIAIVSVMVILISIVSFCL</span><span class="topo-outside">ETLPIFRDENEDMHGGGVTFHTYSQSTIGYQQSTSFTDP</span></span>
-<span class="topo-line"><span class="topo-outside">F</span><span class="topo-membrane">FIVETLCIIWFSFEFLVRFF</span><span class="topo-inside">ACPSKAGFF</span><span class="topo-membrane">TNIMNIIDIVAIIPYYVTIFL</span><span class="topo-outside">TESNKSVLQ</span></span>
-<span class="topo-line"><span class="topo-outside">FQNVRRV</span><span class="topo-membrane">VQIFRIMRILRIFKLSRHS</span><span class="topo-unknown">KGLQILGQTLKA</span><span class="topo-inside">SM</span><span class="topo-membrane">RELGLLIFFLFIGVILFSSA</span></span>
-<span class="topo-line"><span class="topo-membrane">VYFA</span><span class="topo-outside">EADERDSQFPSI</span><span class="topo-unknown">PDAFWWAVVSMTTVGY</span><span class="topo-outside">GDMVPTTI</span><span class="topo-membrane">GGKIVGSLCAIAGVLTIALP</span></span>
-<span class="topo-line"><span class="topo-membrane">V</span><span class="topo-unknown">PVIVSNFNYFYHRE</span><span class="topo-inside">T</span><span class="topo-unknown">EGEEQAQYLQVTSSPKIPSSPDLKKSRSASTISKSDYMEIQEGV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAHHHHHHHHHHGLVPRGSMTVATGDPVDEAAALPGHPQDTYDPEADHES</span><span class="topo-inside">SERVVINISGLRFETQLKTLAQFPETLLGDPKKRMRYFDPLRNEYFFDRNRPSFDAILYYYQSGGRLRRP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">VNVPLDIFSEEIRFYELGEEAMEMFREDEGYIKEEERPLPENEFQRQVWLLFEYPESSGPAR</span><span class="topo-membrane">IIAIVSVMVILISIVSFCL</span><span class="topo-outside">ETLPIFRDENEDMHGGGVTFHTYSQSTIGYQQSTSFTDP</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">F</span><span class="topo-membrane">FIVETLCIIWFSFEFLVRFF</span><span class="topo-inside">ACPSKAGFF</span><span class="topo-membrane">TNIMNIIDIVAIIPYYVTIFL</span><span class="topo-outside">TESNKSVLQFQNVRRV</span><span class="topo-membrane">VQIFRIMRILRIFKLSRHS</span><span class="topo-unknown">KGLQILGQTLKA</span><span class="topo-inside">SM</span><span class="topo-membrane">RELGLLIFFLFIGVILFSSA</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">VYFA</span><span class="topo-outside">EADERDSQFPSI</span><span class="topo-unknown">PDAFWWAVVSMTTVGY</span><span class="topo-outside">GDMVPTTI</span><span class="topo-membrane">GGKIVGSLCAIAGVLTIALPV</span><span class="topo-unknown">PVIVSNFNYFYHRE</span><span class="topo-inside">T</span><span class="topo-unknown">EGEEQAQYLQVTSSPKIPSSPDLKKSRSASTISKSDYMEIQEGV</span></span>
+<span class="topo-ruler">       490       500       510    </span>
 <span class="topo-line"><span class="topo-unknown">NNSNEDFREENLKTANSTLANTNYVNITKMLTDV</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -618,6 +626,7 @@ The Paddle-Chimera (PTR) is an engineered voltage-gated potassium channel create
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -633,15 +642,17 @@ The Paddle-Chimera (PTR) is an engineered voltage-gated potassium channel create
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAHHHHHHHHHHGLVPRGSMTVATGDPVDEAAALPGHPQDTYDPEADHES</span><span class="topo-inside">SERVVINISG</span></span>
-<span class="topo-line"><span class="topo-inside">LRFETQLKTLAQFPETLLGDPKKRMRYFDPLRNEYFFDRNRPSFDAILYYYQSGGRLRRP</span></span>
-<span class="topo-line"><span class="topo-inside">VNVPLDIFSEEIRFYELGEEAMEMFREDEGYIKEEERPLPENEFQRQVWLLFEYPESSGP</span></span>
-<span class="topo-line"><span class="topo-inside">AR</span><span class="topo-membrane">IIAIVSVMVILISIVSFCL</span><span class="topo-outside">ETLPIFRDENEDMHGGGVTFHTYSQSTIGYQQSTSFTDP</span></span>
-<span class="topo-line"><span class="topo-outside">F</span><span class="topo-membrane">FIVETLCIIWFSFEFLVRFF</span><span class="topo-inside">ACPSKAGFF</span><span class="topo-membrane">TNIMNIIDIVAIIPYYVTIFL</span><span class="topo-outside">TESNKSVLQ</span></span>
-<span class="topo-line"><span class="topo-outside">FQNVRRV</span><span class="topo-membrane">VQIFRIMRILRIFKLSRHS</span><span class="topo-unknown">KGLQILGQTLKA</span><span class="topo-inside">SM</span><span class="topo-membrane">RELGLLIFFLFIGVILFSSA</span></span>
-<span class="topo-line"><span class="topo-membrane">VYFA</span><span class="topo-outside">EADERDSQFPSI</span><span class="topo-unknown">PDAFWWAVVSMTTVGY</span><span class="topo-outside">GDMVPTTI</span><span class="topo-membrane">GGKIVGSLCAIAGVLTIALP</span></span>
-<span class="topo-line"><span class="topo-membrane">V</span><span class="topo-unknown">PVIVSNFNYFYHRE</span><span class="topo-inside">T</span><span class="topo-unknown">EGEEQAQYLQVTSSPKIPSSPDLKKSRSASTISKSDYMEIQEGV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAHHHHHHHHHHGLVPRGSMTVATGDPVDEAAALPGHPQDTYDPEADHES</span><span class="topo-inside">SERVVINISGLRFETQLKTLAQFPETLLGDPKKRMRYFDPLRNEYFFDRNRPSFDAILYYYQSGGRLRRP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">VNVPLDIFSEEIRFYELGEEAMEMFREDEGYIKEEERPLPENEFQRQVWLLFEYPESSGPAR</span><span class="topo-membrane">IIAIVSVMVILISIVSFCL</span><span class="topo-outside">ETLPIFRDENEDMHGGGVTFHTYSQSTIGYQQSTSFTDP</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">F</span><span class="topo-membrane">FIVETLCIIWFSFEFLVRFF</span><span class="topo-inside">ACPSKAGFF</span><span class="topo-membrane">TNIMNIIDIVAIIPYYVTIFL</span><span class="topo-outside">TESNKSVLQFQNVRRV</span><span class="topo-membrane">VQIFRIMRILRIFKLSRHS</span><span class="topo-unknown">KGLQILGQTLKA</span><span class="topo-inside">SM</span><span class="topo-membrane">RELGLLIFFLFIGVILFSSA</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">VYFA</span><span class="topo-outside">EADERDSQFPSI</span><span class="topo-unknown">PDAFWWAVVSMTTVGY</span><span class="topo-outside">GDMVPTTI</span><span class="topo-membrane">GGKIVGSLCAIAGVLTIALPV</span><span class="topo-unknown">PVIVSNFNYFYHRE</span><span class="topo-inside">T</span><span class="topo-unknown">EGEEQAQYLQVTSSPKIPSSPDLKKSRSASTISKSDYMEIQEGV</span></span>
+<span class="topo-ruler">       490       500       510    </span>
 <span class="topo-line"><span class="topo-unknown">NNSNEDFREENLKTANSTLANTNYVNITKMLTDV</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -786,6 +797,7 @@ The Paddle-Chimera (PTR) is an engineered voltage-gated potassium channel create
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

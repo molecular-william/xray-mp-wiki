@@ -125,18 +125,19 @@ MacB is an ABC transporter from Aggregatibacter actinomycetemcomitans that forms
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGSSHHHHHHSSGLVPRGSH</span><span class="topo-outside">MNIIEIKQLNRYFGEGENRVHVLKDISLSIERGDFVAIMG</span></span>
-<span class="topo-line"><span class="topo-outside">QSGSGKSTLMNIIGCLDTATGGSSKIDGKETIELTNDQLSDLRSQKFGFIFQRYNLLSSL</span></span>
-<span class="topo-line"><span class="topo-outside">TAAENVALPAIYAGMPQSQRLERAKQLLEKLGLGDKWQNKPNQLSGGQQQRVSIARALMN</span></span>
-<span class="topo-line"><span class="topo-outside">GGEIILADQPTGALDSHSGENVMEILRQLHEEGHTIIMVTHDKHIAASANRIIEIKDGEI</span></span>
-<span class="topo-line"><span class="topo-outside">ISDTQKRQVKSAVKNPSVF</span><span class="topo-unknown">KGRFGF</span><span class="topo-outside">S</span><span class="topo-unknown">KDQLMEAFRMS</span><span class="topo-membrane">VSAIVAHKMRSLLTMLGIIIGIT</span></span>
-<span class="topo-line"><span class="topo-membrane">SVVSVV</span><span class="topo-inside">ALGNGSQQKILENIRGIGTNTMTIF</span><span class="topo-unknown">NGNGFGDRRSRHI</span><span class="topo-inside">QNLKISDANTLSKQSY</span></span>
-<span class="topo-line"><span class="topo-inside">IQSVTPNTSSSGILVVGNKSFTSANLYGIGEQYFDVEGLKLKQGRLLTEDDVDQSNQVVV</span></span>
-<span class="topo-line"><span class="topo-inside">LDESAKKAIFANENPLGKTVIFNKRPFRVIGVVSDQ</span><span class="topo-unknown">QLGGFPGN</span><span class="topo-inside">SLNLYSPYSTVLNKIT</span></span>
-<span class="topo-line"><span class="topo-inside">GGSRIGSITVKISDDVNSTVAEKSLTELLKSLHGKKDFFIMNSDTIKQTIENTTGTMKLL</span></span>
-<span class="topo-line"><span class="topo-inside">ISS</span><span class="topo-membrane">IAFISLIVGGIGVMNIMLVSVTE</span><span class="topo-outside">RTKEIGVRMAIGARQINI</span><span class="topo-membrane">LQQFLIEAVLICLIGG</span></span>
-<span class="topo-line"><span class="topo-membrane">VAGILLSVLIGVL</span><span class="topo-inside">FNSFITDFSMDFST</span><span class="topo-membrane">ASIVTAVLFSTLIGVLFGYMPAKK</span><span class="topo-outside">AAELNPITA</span></span>
-<span class="topo-line"><span class="topo-outside">LA</span><span class="topo-unknown">QE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGSSHHHHHHSSGLVPRGSH</span><span class="topo-outside">MNIIEIKQLNRYFGEGENRVHVLKDISLSIERGDFVAIMGQSGSGKSTLMNIIGCLDTATGGSSKIDGKETIELTNDQLSDLRSQKFGFIFQRYNLLSSL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">TAAENVALPAIYAGMPQSQRLERAKQLLEKLGLGDKWQNKPNQLSGGQQQRVSIARALMNGGEIILADQPTGALDSHSGENVMEILRQLHEEGHTIIMVTHDKHIAASANRIIEIKDGEI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">ISDTQKRQVKSAVKNPSVF</span><span class="topo-unknown">KGRFGF</span><span class="topo-outside">S</span><span class="topo-unknown">KDQLMEAFRMS</span><span class="topo-membrane">VSAIVAHKMRSLLTMLGIIIGITSVVSVV</span><span class="topo-inside">ALGNGSQQKILENIRGIGTNTMTIF</span><span class="topo-unknown">NGNGFGDRRSRHI</span><span class="topo-inside">QNLKISDANTLSKQSY</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">IQSVTPNTSSSGILVVGNKSFTSANLYGIGEQYFDVEGLKLKQGRLLTEDDVDQSNQVVVLDESAKKAIFANENPLGKTVIFNKRPFRVIGVVSDQ</span><span class="topo-unknown">QLGGFPGN</span><span class="topo-inside">SLNLYSPYSTVLNKIT</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-inside">GGSRIGSITVKISDDVNSTVAEKSLTELLKSLHGKKDFFIMNSDTIKQTIENTTGTMKLLISS</span><span class="topo-membrane">IAFISLIVGGIGVMNIMLVSVTE</span><span class="topo-outside">RTKEIGVRMAIGARQINI</span><span class="topo-membrane">LQQFLIEAVLICLIGG</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660    </span>
+<span class="topo-line"><span class="topo-membrane">VAGILLSVLIGVL</span><span class="topo-inside">FNSFITDFSMDFST</span><span class="topo-membrane">ASIVTAVLFSTLIGVLFGYMPAKK</span><span class="topo-outside">AAELNPITALA</span><span class="topo-unknown">QE</span></span>
+<details class="topo-details"><summary>Topology coordinates (13 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -239,6 +240,7 @@ MacB is an ABC transporter from Aggregatibacter actinomycetemcomitans that forms
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -254,18 +256,19 @@ MacB is an ABC transporter from Aggregatibacter actinomycetemcomitans that forms
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGSSHHHHHHSSGLVPRGSH</span><span class="topo-outside">MNIIEIKQLNRYFGEGENRVHVLKDISLSIERGDFVAIMG</span></span>
-<span class="topo-line"><span class="topo-outside">QSGSGKSTLMNIIGCLDTATGGSSKIDGKETIELTNDQLSDLRSQKFGFIFQRYNLLSSL</span></span>
-<span class="topo-line"><span class="topo-outside">TAAENVALPAIYAGMPQSQRLERAKQLLEKLGLGDKWQNKPNQLSGGQQQRVSIARALMN</span></span>
-<span class="topo-line"><span class="topo-outside">GGEIILADQPTGALDSHSGENVMEILRQLHEEGHTIIMVTHDKHIAASANRIIEIKDGEI</span></span>
-<span class="topo-line"><span class="topo-outside">ISDTQKRQVKSAVKNPSVFKG</span><span class="topo-unknown">RFGFS</span><span class="topo-outside">K</span><span class="topo-unknown">DQLMEAFRMS</span><span class="topo-membrane">VSAIVAHKMRSLLTMLGIIIGIT</span></span>
-<span class="topo-line"><span class="topo-membrane">SVVSVV</span><span class="topo-inside">ALGNGSQQKILENIRGIGTNTMTI</span><span class="topo-unknown">FNGNGFGDRRSRHIQ</span><span class="topo-inside">NLKISDANTLSKQSY</span></span>
-<span class="topo-line"><span class="topo-inside">IQSVTPNTSSSGILVVGNKSFTSANLYGIGEQYFDVEGLKLKQGRLLTEDDVDQSNQVVV</span></span>
-<span class="topo-line"><span class="topo-inside">LDESAKKAIFANENPLGKTVIFNKRPFRVIGVVSDQ</span><span class="topo-unknown">QLGGFPGNS</span><span class="topo-inside">LNLYSPYSTVLNKIT</span></span>
-<span class="topo-line"><span class="topo-inside">GGSRIGSITVKISDDVNSTVAEKSLTELLKS</span><span class="topo-unknown">LHGKKDFFI</span><span class="topo-inside">MNSDTIKQTIENTTGTMKLL</span></span>
-<span class="topo-line"><span class="topo-inside">ISS</span><span class="topo-membrane">IAFISLIVGGIGVMNIMLVSVTE</span><span class="topo-outside">RTKEIGVRMAIGARQINIL</span><span class="topo-membrane">QQFLIEAVLICLIGG</span></span>
-<span class="topo-line"><span class="topo-membrane">VAGILLSVLIGVL</span><span class="topo-inside">FNSFITDFSMDFST</span><span class="topo-membrane">ASIVTAVLFSTLIGVLFGYMPAKK</span><span class="topo-outside">AAELNPITA</span></span>
-<span class="topo-line"><span class="topo-outside">LA</span><span class="topo-unknown">QE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGSSHHHHHHSSGLVPRGSH</span><span class="topo-outside">MNIIEIKQLNRYFGEGENRVHVLKDISLSIERGDFVAIMGQSGSGKSTLMNIIGCLDTATGGSSKIDGKETIELTNDQLSDLRSQKFGFIFQRYNLLSSL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">TAAENVALPAIYAGMPQSQRLERAKQLLEKLGLGDKWQNKPNQLSGGQQQRVSIARALMNGGEIILADQPTGALDSHSGENVMEILRQLHEEGHTIIMVTHDKHIAASANRIIEIKDGEI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">ISDTQKRQVKSAVKNPSVFKG</span><span class="topo-unknown">RFGFS</span><span class="topo-outside">K</span><span class="topo-unknown">DQLMEAFRMS</span><span class="topo-membrane">VSAIVAHKMRSLLTMLGIIIGITSVVSVV</span><span class="topo-inside">ALGNGSQQKILENIRGIGTNTMTI</span><span class="topo-unknown">FNGNGFGDRRSRHIQ</span><span class="topo-inside">NLKISDANTLSKQSY</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">IQSVTPNTSSSGILVVGNKSFTSANLYGIGEQYFDVEGLKLKQGRLLTEDDVDQSNQVVVLDESAKKAIFANENPLGKTVIFNKRPFRVIGVVSDQ</span><span class="topo-unknown">QLGGFPGNS</span><span class="topo-inside">LNLYSPYSTVLNKIT</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-inside">GGSRIGSITVKISDDVNSTVAEKSLTELLKS</span><span class="topo-unknown">LHGKKDFFI</span><span class="topo-inside">MNSDTIKQTIENTTGTMKLLISS</span><span class="topo-membrane">IAFISLIVGGIGVMNIMLVSVTE</span><span class="topo-outside">RTKEIGVRMAIGARQINIL</span><span class="topo-membrane">QQFLIEAVLICLIGG</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660    </span>
+<span class="topo-line"><span class="topo-membrane">VAGILLSVLIGVL</span><span class="topo-inside">FNSFITDFSMDFST</span><span class="topo-membrane">ASIVTAVLFSTLIGVLFGYMPAKK</span><span class="topo-outside">AAELNPITALA</span><span class="topo-unknown">QE</span></span>
+<details class="topo-details"><summary>Topology coordinates (14 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -375,6 +378,7 @@ MacB is an ABC transporter from Aggregatibacter actinomycetemcomitans that forms
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -390,18 +394,19 @@ MacB is an ABC transporter from Aggregatibacter actinomycetemcomitans that forms
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGSSHHHHHHSSGLVPRGSH</span><span class="topo-outside">MNIIEIKQLNRYFGEGENRVHVLKDISLSIERGDFVAIMG</span></span>
-<span class="topo-line"><span class="topo-outside">QSGSGKSTLMNIIGCLDTATGGSSKIDGKETIELTNDQLSDLRSQKFGFIFQRYNLLSSL</span></span>
-<span class="topo-line"><span class="topo-outside">TAAENVALPAIYAGMPQSQRLERAKQLLEKLGLGDKWQNKPNQLSGGQQQRVSIARALMN</span></span>
-<span class="topo-line"><span class="topo-outside">GGEIILADQPTGALDSHSGENVMEILRQLHEEGHTIIMVTHDKHIAASANRIIEIKDGEI</span></span>
-<span class="topo-line"><span class="topo-outside">ISDTQKRQVKSAVKNPSVF</span><span class="topo-unknown">KGRFGF</span><span class="topo-outside">S</span><span class="topo-unknown">KDQLMEAFRMS</span><span class="topo-membrane">VSAIVAHKMRSLLTMLGIIIGIT</span></span>
-<span class="topo-line"><span class="topo-membrane">SVVSVV</span><span class="topo-inside">ALGNGSQQKILENIRGIGTNTMTIF</span><span class="topo-unknown">NGNGFGDRRSRHI</span><span class="topo-inside">QNLKISDANTLSKQSY</span></span>
-<span class="topo-line"><span class="topo-inside">IQSVTPNTSSSGILVVGNKSFTSANLYGIGEQYFDVEGLKLKQGRLLTEDDVDQSNQVVV</span></span>
-<span class="topo-line"><span class="topo-inside">LDESAKKAIFANENPLGKTVIFNKRPFRVIGVVSDQ</span><span class="topo-unknown">QLGGFPGN</span><span class="topo-inside">SLNLYSPYSTVLNKIT</span></span>
-<span class="topo-line"><span class="topo-inside">GGSRIGSITVKISDDVNSTVAEKSLTELLKSLHGKKDFFIMNSDTIKQTIENTTGTMKLL</span></span>
-<span class="topo-line"><span class="topo-inside">ISS</span><span class="topo-membrane">IAFISLIVGGIGVMNIMLVSVTE</span><span class="topo-outside">RTKEIGVRMAIGARQINI</span><span class="topo-membrane">LQQFLIEAVLICLIGG</span></span>
-<span class="topo-line"><span class="topo-membrane">VAGILLSVLIGVL</span><span class="topo-inside">FNSFITDFSMDFST</span><span class="topo-membrane">ASIVTAVLFSTLIGVLFGYMPAKK</span><span class="topo-outside">AAELNPITA</span></span>
-<span class="topo-line"><span class="topo-outside">LA</span><span class="topo-unknown">QE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGSSHHHHHHSSGLVPRGSH</span><span class="topo-outside">MNIIEIKQLNRYFGEGENRVHVLKDISLSIERGDFVAIMGQSGSGKSTLMNIIGCLDTATGGSSKIDGKETIELTNDQLSDLRSQKFGFIFQRYNLLSSL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">TAAENVALPAIYAGMPQSQRLERAKQLLEKLGLGDKWQNKPNQLSGGQQQRVSIARALMNGGEIILADQPTGALDSHSGENVMEILRQLHEEGHTIIMVTHDKHIAASANRIIEIKDGEI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">ISDTQKRQVKSAVKNPSVF</span><span class="topo-unknown">KGRFGF</span><span class="topo-outside">S</span><span class="topo-unknown">KDQLMEAFRMS</span><span class="topo-membrane">VSAIVAHKMRSLLTMLGIIIGITSVVSVV</span><span class="topo-inside">ALGNGSQQKILENIRGIGTNTMTIF</span><span class="topo-unknown">NGNGFGDRRSRHI</span><span class="topo-inside">QNLKISDANTLSKQSY</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">IQSVTPNTSSSGILVVGNKSFTSANLYGIGEQYFDVEGLKLKQGRLLTEDDVDQSNQVVVLDESAKKAIFANENPLGKTVIFNKRPFRVIGVVSDQ</span><span class="topo-unknown">QLGGFPGN</span><span class="topo-inside">SLNLYSPYSTVLNKIT</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-inside">GGSRIGSITVKISDDVNSTVAEKSLTELLKSLHGKKDFFIMNSDTIKQTIENTTGTMKLLISS</span><span class="topo-membrane">IAFISLIVGGIGVMNIMLVSVTE</span><span class="topo-outside">RTKEIGVRMAIGARQINI</span><span class="topo-membrane">LQQFLIEAVLICLIGG</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660    </span>
+<span class="topo-line"><span class="topo-membrane">VAGILLSVLIGVL</span><span class="topo-inside">FNSFITDFSMDFST</span><span class="topo-membrane">ASIVTAVLFSTLIGVLFGYMPAKK</span><span class="topo-outside">AAELNPITALA</span><span class="topo-unknown">QE</span></span>
+<details class="topo-details"><summary>Topology coordinates (13 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -504,6 +509,7 @@ MacB is an ABC transporter from Aggregatibacter actinomycetemcomitans that forms
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -519,18 +525,19 @@ MacB is an ABC transporter from Aggregatibacter actinomycetemcomitans that forms
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGSSHHHHHHSSGLVPRGSH</span><span class="topo-outside">MNIIEIKQLNRYFGEGENRVHVLKDISLSIERGDFVAIMG</span></span>
-<span class="topo-line"><span class="topo-outside">QSGSGKSTLMNIIGCLDTATGGSSKIDGKETIELTNDQLSDLRSQKFGFIFQRYNLLSSL</span></span>
-<span class="topo-line"><span class="topo-outside">TAAENVALPAIYAGMPQSQRLERAKQLLEKLGLGDKWQNKPNQLSGGQQQRVSIARALMN</span></span>
-<span class="topo-line"><span class="topo-outside">GGEIILADQPTGALDSHSGENVMEILRQLHEEGHTIIMVTHDKHIAASANRIIEIKDGEI</span></span>
-<span class="topo-line"><span class="topo-outside">ISDTQKRQVKSAVKNPSVFKG</span><span class="topo-unknown">RFGFS</span><span class="topo-outside">K</span><span class="topo-unknown">DQLMEAFRMS</span><span class="topo-membrane">VSAIVAHKMRSLLTMLGIIIGIT</span></span>
-<span class="topo-line"><span class="topo-membrane">SVVSVV</span><span class="topo-inside">ALGNGSQQKILENIRGIGTNTMTI</span><span class="topo-unknown">FNGNGFGDRRSRHIQ</span><span class="topo-inside">NLKISDANTLSKQSY</span></span>
-<span class="topo-line"><span class="topo-inside">IQSVTPNTSSSGILVVGNKSFTSANLYGIGEQYFDVEGLKLKQGRLLTEDDVDQSNQVVV</span></span>
-<span class="topo-line"><span class="topo-inside">LDESAKKAIFANENPLGKTVIFNKRPFRVIGVVSDQ</span><span class="topo-unknown">QLGGFPGNS</span><span class="topo-inside">LNLYSPYSTVLNKIT</span></span>
-<span class="topo-line"><span class="topo-inside">GGSRIGSITVKISDDVNSTVAEKSLTELLKS</span><span class="topo-unknown">LHGKKDFFI</span><span class="topo-inside">MNSDTIKQTIENTTGTMKLL</span></span>
-<span class="topo-line"><span class="topo-inside">ISS</span><span class="topo-membrane">IAFISLIVGGIGVMNIMLVSVTE</span><span class="topo-outside">RTKEIGVRMAIGARQINIL</span><span class="topo-membrane">QQFLIEAVLICLIGG</span></span>
-<span class="topo-line"><span class="topo-membrane">VAGILLSVLIGVL</span><span class="topo-inside">FNSFITDFSMDFST</span><span class="topo-membrane">ASIVTAVLFSTLIGVLFGYMPAKK</span><span class="topo-outside">AAELNPITA</span></span>
-<span class="topo-line"><span class="topo-outside">LA</span><span class="topo-unknown">QE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGSSHHHHHHSSGLVPRGSH</span><span class="topo-outside">MNIIEIKQLNRYFGEGENRVHVLKDISLSIERGDFVAIMGQSGSGKSTLMNIIGCLDTATGGSSKIDGKETIELTNDQLSDLRSQKFGFIFQRYNLLSSL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">TAAENVALPAIYAGMPQSQRLERAKQLLEKLGLGDKWQNKPNQLSGGQQQRVSIARALMNGGEIILADQPTGALDSHSGENVMEILRQLHEEGHTIIMVTHDKHIAASANRIIEIKDGEI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">ISDTQKRQVKSAVKNPSVFKG</span><span class="topo-unknown">RFGFS</span><span class="topo-outside">K</span><span class="topo-unknown">DQLMEAFRMS</span><span class="topo-membrane">VSAIVAHKMRSLLTMLGIIIGITSVVSVV</span><span class="topo-inside">ALGNGSQQKILENIRGIGTNTMTI</span><span class="topo-unknown">FNGNGFGDRRSRHIQ</span><span class="topo-inside">NLKISDANTLSKQSY</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">IQSVTPNTSSSGILVVGNKSFTSANLYGIGEQYFDVEGLKLKQGRLLTEDDVDQSNQVVVLDESAKKAIFANENPLGKTVIFNKRPFRVIGVVSDQ</span><span class="topo-unknown">QLGGFPGNS</span><span class="topo-inside">LNLYSPYSTVLNKIT</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-inside">GGSRIGSITVKISDDVNSTVAEKSLTELLKS</span><span class="topo-unknown">LHGKKDFFI</span><span class="topo-inside">MNSDTIKQTIENTTGTMKLLISS</span><span class="topo-membrane">IAFISLIVGGIGVMNIMLVSVTE</span><span class="topo-outside">RTKEIGVRMAIGARQINIL</span><span class="topo-membrane">QQFLIEAVLICLIGG</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660    </span>
+<span class="topo-line"><span class="topo-membrane">VAGILLSVLIGVL</span><span class="topo-inside">FNSFITDFSMDFST</span><span class="topo-membrane">ASIVTAVLFSTLIGVLFGYMPAKK</span><span class="topo-outside">AAELNPITALA</span><span class="topo-unknown">QE</span></span>
+<details class="topo-details"><summary>Topology coordinates (14 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -640,6 +647,7 @@ MacB is an ABC transporter from Aggregatibacter actinomycetemcomitans that forms
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

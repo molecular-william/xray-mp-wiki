@@ -155,14 +155,15 @@ MjNhaP1 is an electroneutral Na+/H+ antiporter from the archaeon *Methanocaldoco
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MELM</span><span class="topo-membrane">MAIGYLGLALVLGSLVAKIA</span><span class="topo-inside">EKLKI</span><span class="topo-membrane">PDIPLLLLLGLIIGPFL</span><span class="topo-outside">QIIP</span><span class="topo-unknown">SDSAMEI</span><span class="topo-membrane">FEY</span></span>
-<span class="topo-line"><span class="topo-membrane">AGPIGLIFILLGGA</span><span class="topo-inside">FTMRISLLKRVIKTV</span><span class="topo-membrane">VRLDTITFLITLLISGFIF</span><span class="topo-outside">NMVLNLPYTSPV</span></span>
-<span class="topo-line"><span class="topo-outside">G</span><span class="topo-membrane">YLFGAITAATDPAT</span><span class="topo-inside">LIPVFSRVRTNPEVAITLEA</span><span class="topo-membrane">ESIFNDPLGIVSTSV</span><span class="topo-outside">ILGLFGLFSS</span></span>
-<span class="topo-line"><span class="topo-outside">SNPL</span><span class="topo-membrane">IDLITLAGGAIVVGLLLAKIY</span><span class="topo-inside">EKIIIHCDFHEY</span><span class="topo-membrane">VAPLVLGGAMLLLYVGD</span><span class="topo-outside">DLLPSI</span></span>
-<span class="topo-line"><span class="topo-outside">CGYG</span><span class="topo-membrane">FSGYMAVAIMGLYL</span><span class="topo-inside">GDALFRADDIDYKYIVSF</span><span class="topo-membrane">CDDLSLLARVFIFVFLGACI</span><span class="topo-outside">K</span><span class="topo-unknown">LSM</span></span>
-<span class="topo-line"><span class="topo-unknown">LENYF</span><span class="topo-membrane">IPGLLVALGSIFLARPLGVFLGLIG</span><span class="topo-inside">SKHSFKEKLYF</span><span class="topo-membrane">ALEGPRGVVPAALAVT</span><span class="topo-outside">VGI</span></span>
-<span class="topo-line"><span class="topo-outside">EILKNADKIPASITKYITPTDIAGTI</span><span class="topo-membrane">IIGTFMTILLSVILEAS</span><span class="topo-inside">WAGMLALKLLGE</span><span class="topo-unknown">YKPKY</span></span>
-<span class="topo-line"><span class="topo-unknown">KEESHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MELM</span><span class="topo-membrane">MAIGYLGLALVLGSLVAKIA</span><span class="topo-inside">EKLKI</span><span class="topo-membrane">PDIPLLLLLGLIIGPFL</span><span class="topo-outside">QIIP</span><span class="topo-unknown">SDSAMEI</span><span class="topo-membrane">FEYAGPIGLIFILLGGA</span><span class="topo-inside">FTMRISLLKRVIKTV</span><span class="topo-membrane">VRLDTITFLITLLISGFIF</span><span class="topo-outside">NMVLNLPYTSPV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">G</span><span class="topo-membrane">YLFGAITAATDPAT</span><span class="topo-inside">LIPVFSRVRTNPEVAITLEA</span><span class="topo-membrane">ESIFNDPLGIVSTSV</span><span class="topo-outside">ILGLFGLFSSSNPL</span><span class="topo-membrane">IDLITLAGGAIVVGLLLAKIY</span><span class="topo-inside">EKIIIHCDFHEY</span><span class="topo-membrane">VAPLVLGGAMLLLYVGD</span><span class="topo-outside">DLLPSI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">CGYG</span><span class="topo-membrane">FSGYMAVAIMGLYL</span><span class="topo-inside">GDALFRADDIDYKYIVSF</span><span class="topo-membrane">CDDLSLLARVFIFVFLGACI</span><span class="topo-outside">K</span><span class="topo-unknown">LSMLENYF</span><span class="topo-membrane">IPGLLVALGSIFLARPLGVFLGLIG</span><span class="topo-inside">SKHSFKEKLYF</span><span class="topo-membrane">ALEGPRGVVPAALAVT</span><span class="topo-outside">VGI</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420      </span>
+<span class="topo-line"><span class="topo-outside">EILKNADKIPASITKYITPTDIAGTI</span><span class="topo-membrane">IIGTFMTILLSVILEAS</span><span class="topo-inside">WAGMLALKLLGE</span><span class="topo-unknown">YKPKYKEESHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (29 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -377,6 +378,7 @@ MjNhaP1 is an electroneutral Na+/H+ antiporter from the archaeon *Methanocaldoco
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -392,14 +394,15 @@ MjNhaP1 is an electroneutral Na+/H+ antiporter from the archaeon *Methanocaldoco
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MEL</span><span class="topo-membrane">MMAIGYLGLALVLGSLVAKIA</span><span class="topo-inside">EKLKI</span><span class="topo-membrane">PDIPLLLLLGLIIGPFL</span><span class="topo-outside">QIIP</span><span class="topo-unknown">SDSAMEI</span><span class="topo-membrane">FEY</span></span>
-<span class="topo-line"><span class="topo-membrane">AGPIGLIFILLGGA</span><span class="topo-inside">FTMRISLLKRVIKTV</span><span class="topo-membrane">VRLDTITFLITLLISGFIF</span><span class="topo-outside">NMVLNLPYTSPV</span></span>
-<span class="topo-line"><span class="topo-outside">G</span><span class="topo-membrane">YLFGAITAATDPAT</span><span class="topo-inside">LIPVFSRVRTNPEVAITLEA</span><span class="topo-membrane">ESIFNDPLGIVSTSVI</span><span class="topo-outside">LGLFGLFSS</span></span>
-<span class="topo-line"><span class="topo-outside">SNP</span><span class="topo-membrane">LIDLITLAGGAIVVGLLLAKIYE</span><span class="topo-inside">KIIIHCDFHEY</span><span class="topo-membrane">VAPLVLGGAMLLLYVGD</span><span class="topo-outside">DLLPSI</span></span>
-<span class="topo-line"><span class="topo-outside">CGYG</span><span class="topo-membrane">FSGYMAVAIMGLYL</span><span class="topo-inside">GDALFRADDIDYKYIVSF</span><span class="topo-membrane">CDDLSLLARVFIFVFLGACI</span><span class="topo-outside">K</span><span class="topo-unknown">LSM</span></span>
-<span class="topo-line"><span class="topo-unknown">LEN</span><span class="topo-outside">YF</span><span class="topo-membrane">IPGLLVALGSIFLARPLGVFLGLIG</span><span class="topo-inside">SKHSFKEKLYF</span><span class="topo-membrane">ALEGPRGVVPAALAVTV</span><span class="topo-outside">GI</span></span>
-<span class="topo-line"><span class="topo-outside">EILKNADKIPASITKYITPTDIAGTI</span><span class="topo-membrane">IIGTFMTILLSVILEAS</span><span class="topo-inside">WAGMLALKLLGEYKPK</span><span class="topo-unknown">Y</span></span>
-<span class="topo-line"><span class="topo-unknown">KEESHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MEL</span><span class="topo-membrane">MMAIGYLGLALVLGSLVAKIA</span><span class="topo-inside">EKLKI</span><span class="topo-membrane">PDIPLLLLLGLIIGPFL</span><span class="topo-outside">QIIP</span><span class="topo-unknown">SDSAMEI</span><span class="topo-membrane">FEYAGPIGLIFILLGGA</span><span class="topo-inside">FTMRISLLKRVIKTV</span><span class="topo-membrane">VRLDTITFLITLLISGFIF</span><span class="topo-outside">NMVLNLPYTSPV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">G</span><span class="topo-membrane">YLFGAITAATDPAT</span><span class="topo-inside">LIPVFSRVRTNPEVAITLEA</span><span class="topo-membrane">ESIFNDPLGIVSTSVI</span><span class="topo-outside">LGLFGLFSSSNP</span><span class="topo-membrane">LIDLITLAGGAIVVGLLLAKIYE</span><span class="topo-inside">KIIIHCDFHEY</span><span class="topo-membrane">VAPLVLGGAMLLLYVGD</span><span class="topo-outside">DLLPSI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">CGYG</span><span class="topo-membrane">FSGYMAVAIMGLYL</span><span class="topo-inside">GDALFRADDIDYKYIVSF</span><span class="topo-membrane">CDDLSLLARVFIFVFLGACI</span><span class="topo-outside">K</span><span class="topo-unknown">LSMLEN</span><span class="topo-outside">YF</span><span class="topo-membrane">IPGLLVALGSIFLARPLGVFLGLIG</span><span class="topo-inside">SKHSFKEKLYF</span><span class="topo-membrane">ALEGPRGVVPAALAVTV</span><span class="topo-outside">GI</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420      </span>
+<span class="topo-line"><span class="topo-outside">EILKNADKIPASITKYITPTDIAGTI</span><span class="topo-membrane">IIGTFMTILLSVILEAS</span><span class="topo-inside">WAGMLALKLLGEYKPK</span><span class="topo-unknown">YKEESHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (30 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -621,6 +624,7 @@ MjNhaP1 is an electroneutral Na+/H+ antiporter from the archaeon *Methanocaldoco
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

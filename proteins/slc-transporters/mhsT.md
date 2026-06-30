@@ -171,14 +171,15 @@ MhsT is a multi-hydrophobic amino acid transporter from Bacillus halodurans belo
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">SMASLKQQT</span><span class="topo-outside">GREQWASRLGF</span><span class="topo-membrane">ILAAMGSAVGLGNIWRFSYVT</span><span class="topo-inside">GENGG</span><span class="topo-membrane">AAFLLVYLGFIALI</span></span>
-<span class="topo-line"><span class="topo-membrane">GIPIVLAEF</span><span class="topo-outside">TIGRRAQSDAVGSFEKLAPGKP</span><span class="topo-membrane">WKVAGLMGVAAGFLILSFYGVIAGWILFY</span></span>
-<span class="topo-line"><span class="topo-membrane">LFNYIT</span><span class="topo-inside">GQLWSAPAEGFGGFFEGFIANP</span><span class="topo-membrane">TLPLFWQALFMIATIWIVAI</span><span class="topo-outside">GVKKG</span><span class="topo-membrane">IERSNKI</span></span>
-<span class="topo-line"><span class="topo-membrane">LMPLLGVLLIALAI</span><span class="topo-inside">YSLTLGGAKEGLAFLFSPDWSALKD</span><span class="topo-membrane">PGVYLAAISQAFFTLSLGMGA</span></span>
-<span class="topo-line"><span class="topo-membrane">LITY</span><span class="topo-outside">GSYVSKDSRLP</span><span class="topo-membrane">GAAVSVAGLDTAFAIIAGIMI</span><span class="topo-inside">FPAVFALGLSPSGGPG</span><span class="topo-unknown">LVFVVLPD</span></span>
-<span class="topo-line"><span class="topo-unknown">IFD</span><span class="topo-inside">SIRLGP</span><span class="topo-membrane">IVGIAFFILLGAAALSSAVSLLEVPVAYF</span><span class="topo-outside">MRKFDWSRK</span><span class="topo-membrane">QAAITLGVIITLL</span></span>
-<span class="topo-line"><span class="topo-membrane">GIPSSLS</span><span class="topo-inside">FGVLGEVTIIPGL</span><span class="topo-membrane">NIFDSVDFIASSVFLPLGGMIIALF</span><span class="topo-outside">IGWGWK</span><span class="topo-unknown">TSDALA</span><span class="topo-outside">ESD</span></span>
-<span class="topo-line"><span class="topo-outside">LTDSVWGK</span><span class="topo-membrane">LWILSLRFIAPIAILIVFLSAF</span><span class="topo-unknown">QIFFN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">SMASLKQQT</span><span class="topo-outside">GREQWASRLGF</span><span class="topo-membrane">ILAAMGSAVGLGNIWRFSYVT</span><span class="topo-inside">GENGG</span><span class="topo-membrane">AAFLLVYLGFIALIGIPIVLAEF</span><span class="topo-outside">TIGRRAQSDAVGSFEKLAPGKP</span><span class="topo-membrane">WKVAGLMGVAAGFLILSFYGVIAGWILFY</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">LFNYIT</span><span class="topo-inside">GQLWSAPAEGFGGFFEGFIANP</span><span class="topo-membrane">TLPLFWQALFMIATIWIVAI</span><span class="topo-outside">GVKKG</span><span class="topo-membrane">IERSNKILMPLLGVLLIALAI</span><span class="topo-inside">YSLTLGGAKEGLAFLFSPDWSALKD</span><span class="topo-membrane">PGVYLAAISQAFFTLSLGMGA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">LITY</span><span class="topo-outside">GSYVSKDSRLP</span><span class="topo-membrane">GAAVSVAGLDTAFAIIAGIMI</span><span class="topo-inside">FPAVFALGLSPSGGPG</span><span class="topo-unknown">LVFVVLPDIFD</span><span class="topo-inside">SIRLGP</span><span class="topo-membrane">IVGIAFFILLGAAALSSAVSLLEVPVAYF</span><span class="topo-outside">MRKFDWSRK</span><span class="topo-membrane">QAAITLGVIITLL</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450     </span>
+<span class="topo-line"><span class="topo-membrane">GIPSSLS</span><span class="topo-inside">FGVLGEVTIIPGL</span><span class="topo-membrane">NIFDSVDFIASSVFLPLGGMIIALF</span><span class="topo-outside">IGWGWK</span><span class="topo-unknown">TSDALA</span><span class="topo-outside">ESDLTDSVWGK</span><span class="topo-membrane">LWILSLRFIAPIAILIVFLSAF</span><span class="topo-unknown">QIFFN</span></span>
+<details class="topo-details"><summary>Topology coordinates (26 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -372,6 +373,7 @@ MhsT is a multi-hydrophobic amino acid transporter from Bacillus halodurans belo
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -387,14 +389,15 @@ MhsT is a multi-hydrophobic amino acid transporter from Bacillus halodurans belo
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">SMASLKQQT</span><span class="topo-outside">GREQWASRLGF</span><span class="topo-membrane">ILAAMGSAVGLGNIWRFSYVT</span><span class="topo-inside">GENGG</span><span class="topo-membrane">AAFLLVYLGFIALI</span></span>
-<span class="topo-line"><span class="topo-membrane">GIPIVLAEF</span><span class="topo-outside">TIGRRAQSDAVGSFEKLAPGKP</span><span class="topo-membrane">WKVAGLMGVAAGFLILSFYGVIAGWILFY</span></span>
-<span class="topo-line"><span class="topo-membrane">LFNYIT</span><span class="topo-inside">GQLWSAPAEGFGGFFEGFIANP</span><span class="topo-membrane">TLPLFWQALFMIATIWIVAI</span><span class="topo-outside">GVKKG</span><span class="topo-membrane">IERSNKI</span></span>
-<span class="topo-line"><span class="topo-membrane">LMPLLGVLLIALAI</span><span class="topo-inside">YSLTLGGAKEGLAFLFSPDWSALKD</span><span class="topo-membrane">PGVYLAAISQAFFTLSLGMGA</span></span>
-<span class="topo-line"><span class="topo-membrane">LITY</span><span class="topo-outside">GSYVSKDSRLP</span><span class="topo-membrane">GAAVSVAGLDTAFAIIAGIMI</span><span class="topo-inside">FPAVFALGLSPSGGPG</span><span class="topo-unknown">LVFVVLPD</span></span>
-<span class="topo-line"><span class="topo-unknown">IFD</span><span class="topo-inside">SIRLGP</span><span class="topo-membrane">IVGIAFFILLGAAALSSAVSLLEVPVAYF</span><span class="topo-outside">MRKFDWSRK</span><span class="topo-membrane">QAAITLGVIITLL</span></span>
-<span class="topo-line"><span class="topo-membrane">GIPSSLS</span><span class="topo-inside">FGVLGEVTIIPGL</span><span class="topo-membrane">NIFDSVDFIASSVFLPLGGMIIALF</span><span class="topo-outside">IGWGWK</span><span class="topo-unknown">TSDALA</span><span class="topo-outside">ESD</span></span>
-<span class="topo-line"><span class="topo-outside">LTDSVWGK</span><span class="topo-membrane">LWILSLRFIAPIAILIVFLSAF</span><span class="topo-unknown">QIFFN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">SMASLKQQT</span><span class="topo-outside">GREQWASRLGF</span><span class="topo-membrane">ILAAMGSAVGLGNIWRFSYVT</span><span class="topo-inside">GENGG</span><span class="topo-membrane">AAFLLVYLGFIALIGIPIVLAEF</span><span class="topo-outside">TIGRRAQSDAVGSFEKLAPGKP</span><span class="topo-membrane">WKVAGLMGVAAGFLILSFYGVIAGWILFY</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">LFNYIT</span><span class="topo-inside">GQLWSAPAEGFGGFFEGFIANP</span><span class="topo-membrane">TLPLFWQALFMIATIWIVAI</span><span class="topo-outside">GVKKG</span><span class="topo-membrane">IERSNKILMPLLGVLLIALAI</span><span class="topo-inside">YSLTLGGAKEGLAFLFSPDWSALKD</span><span class="topo-membrane">PGVYLAAISQAFFTLSLGMGA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">LITY</span><span class="topo-outside">GSYVSKDSRLP</span><span class="topo-membrane">GAAVSVAGLDTAFAIIAGIMI</span><span class="topo-inside">FPAVFALGLSPSGGPG</span><span class="topo-unknown">LVFVVLPDIFD</span><span class="topo-inside">SIRLGP</span><span class="topo-membrane">IVGIAFFILLGAAALSSAVSLLEVPVAYF</span><span class="topo-outside">MRKFDWSRK</span><span class="topo-membrane">QAAITLGVIITLL</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450     </span>
+<span class="topo-line"><span class="topo-membrane">GIPSSLS</span><span class="topo-inside">FGVLGEVTIIPGL</span><span class="topo-membrane">NIFDSVDFIASSVFLPLGGMIIALF</span><span class="topo-outside">IGWGWK</span><span class="topo-unknown">TSDALA</span><span class="topo-outside">ESDLTDSVWGK</span><span class="topo-membrane">LWILSLRFIAPIAILIVFLSAF</span><span class="topo-unknown">QIFFN</span></span>
+<details class="topo-details"><summary>Topology coordinates (26 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -588,6 +591,7 @@ MhsT is a multi-hydrophobic amino acid transporter from Bacillus halodurans belo
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -700,14 +704,15 @@ MhsT is a multi-hydrophobic amino acid transporter from Bacillus halodurans belo
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">SMASLKQQT</span><span class="topo-outside">GREQWASRLG</span><span class="topo-membrane">FILAAMGSAVGLGNIWRFSYVT</span><span class="topo-inside">GENGG</span><span class="topo-membrane">AAFLLVYLGFIALI</span></span>
-<span class="topo-line"><span class="topo-membrane">GIPIVLAEF</span><span class="topo-outside">TIGRRAQSDAVGSFEKLAPGKP</span><span class="topo-membrane">WKVAGLMGVAAGFLILSFYGVIAGWILFY</span></span>
-<span class="topo-line"><span class="topo-membrane">LFNYITG</span><span class="topo-inside">QLWSAPAEGFGGFFEGFIANP</span><span class="topo-membrane">TLPLFWQALFMIATIWIVAI</span><span class="topo-outside">GVKKG</span><span class="topo-membrane">IERSNKI</span></span>
-<span class="topo-line"><span class="topo-membrane">LMPLLGVLLIALAI</span><span class="topo-inside">YSLTLGGAKEGLAFLFSPDWSALKD</span><span class="topo-membrane">PGVYLAAISQAFFTLSLGMGA</span></span>
-<span class="topo-line"><span class="topo-membrane">LITY</span><span class="topo-outside">GSYVSKDSRLP</span><span class="topo-membrane">GAAVSVAGLDTAFAIIAGIMI</span><span class="topo-inside">FPAVFALGLSPSGGPG</span><span class="topo-unknown">LVFVVLPD</span></span>
-<span class="topo-line"><span class="topo-unknown">IFD</span><span class="topo-inside">SIRLGP</span><span class="topo-membrane">IVGIAFFILLGAAALSSAVSLLEVPVAYF</span><span class="topo-outside">MRKFDWSRK</span><span class="topo-membrane">QAAITLGVIITLL</span></span>
-<span class="topo-line"><span class="topo-membrane">GIPSSLSF</span><span class="topo-inside">GVLGEVTIIPGL</span><span class="topo-membrane">NIFDSVDFIASSVFLPLGGMIIALFIGW</span><span class="topo-outside">GWK</span><span class="topo-unknown">TSDALAE</span><span class="topo-outside">SD</span></span>
-<span class="topo-line"><span class="topo-outside">LTDSV</span><span class="topo-membrane">WGKLWILSLRFIAPIAILIVFLSAFQ</span><span class="topo-unknown">IFFN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">SMASLKQQT</span><span class="topo-outside">GREQWASRLG</span><span class="topo-membrane">FILAAMGSAVGLGNIWRFSYVT</span><span class="topo-inside">GENGG</span><span class="topo-membrane">AAFLLVYLGFIALIGIPIVLAEF</span><span class="topo-outside">TIGRRAQSDAVGSFEKLAPGKP</span><span class="topo-membrane">WKVAGLMGVAAGFLILSFYGVIAGWILFY</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">LFNYITG</span><span class="topo-inside">QLWSAPAEGFGGFFEGFIANP</span><span class="topo-membrane">TLPLFWQALFMIATIWIVAI</span><span class="topo-outside">GVKKG</span><span class="topo-membrane">IERSNKILMPLLGVLLIALAI</span><span class="topo-inside">YSLTLGGAKEGLAFLFSPDWSALKD</span><span class="topo-membrane">PGVYLAAISQAFFTLSLGMGA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">LITY</span><span class="topo-outside">GSYVSKDSRLP</span><span class="topo-membrane">GAAVSVAGLDTAFAIIAGIMI</span><span class="topo-inside">FPAVFALGLSPSGGPG</span><span class="topo-unknown">LVFVVLPDIFD</span><span class="topo-inside">SIRLGP</span><span class="topo-membrane">IVGIAFFILLGAAALSSAVSLLEVPVAYF</span><span class="topo-outside">MRKFDWSRK</span><span class="topo-membrane">QAAITLGVIITLL</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450     </span>
+<span class="topo-line"><span class="topo-membrane">GIPSSLSF</span><span class="topo-inside">GVLGEVTIIPGL</span><span class="topo-membrane">NIFDSVDFIASSVFLPLGGMIIALFIGW</span><span class="topo-outside">GWK</span><span class="topo-unknown">TSDALAE</span><span class="topo-outside">SDLTDSV</span><span class="topo-membrane">WGKLWILSLRFIAPIAILIVFLSAFQ</span><span class="topo-unknown">IFFN</span></span>
+<details class="topo-details"><summary>Topology coordinates (26 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -901,6 +906,7 @@ MhsT is a multi-hydrophobic amino acid transporter from Bacillus halodurans belo
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -916,14 +922,15 @@ MhsT is a multi-hydrophobic amino acid transporter from Bacillus halodurans belo
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">SMASLKQQT</span><span class="topo-outside">GREQWASRLGFI</span><span class="topo-membrane">LAAMGSAVGLGNIWRFSYVT</span><span class="topo-inside">GENGG</span><span class="topo-membrane">AAFLLVYLGFIALI</span></span>
-<span class="topo-line"><span class="topo-membrane">GIPIVL</span><span class="topo-outside">AEFTIGRRAQSDAVGSFEKLAPGKPWKV</span><span class="topo-membrane">AGLMGVAAGFLILSFYGVIAGWILFY</span></span>
-<span class="topo-line"><span class="topo-membrane">LF</span><span class="topo-inside">NYITGQLWSAPAE</span><span class="topo-unknown">GFGGFFEGFIA</span><span class="topo-inside">NPTLP</span><span class="topo-membrane">LFWQALFMIATIWIVAIG</span><span class="topo-outside">VKKG</span><span class="topo-membrane">IERSNKI</span></span>
-<span class="topo-line"><span class="topo-membrane">LMPLLGVLLIALAI</span><span class="topo-inside">YSLTLGGAKEGLAFLFSPDWSAL</span><span class="topo-membrane">KDPGVYLAAISQAFFTLSLGMGA</span></span>
-<span class="topo-line"><span class="topo-membrane">LITY</span><span class="topo-outside">GSYVSKDSRLPGA</span><span class="topo-membrane">AVSVAGLDTAFAIIAGIM</span><span class="topo-inside">IFPAVFALGLSPSGGPG</span><span class="topo-unknown">LVFVVLPD</span></span>
-<span class="topo-line"><span class="topo-unknown">IFD</span><span class="topo-inside">SIRLGPI</span><span class="topo-membrane">VGIAFFILLGAAALSSAVSLLEVPVAYF</span><span class="topo-outside">MRKFDWSR</span><span class="topo-membrane">KQAAITLGVIITLL</span></span>
-<span class="topo-line"><span class="topo-membrane">GIPSS</span><span class="topo-inside">LSFGVLGEVTIIPGLNI</span><span class="topo-membrane">FDSVDFIASSVFLPLGGMIIAL</span><span class="topo-outside">FIGWGWKTSDALAESD</span></span>
-<span class="topo-line"><span class="topo-outside">LTDS</span><span class="topo-unknown">VWGKLWIL</span><span class="topo-membrane">SLRFIAPIAILIVFLSAFQ</span><span class="topo-unknown">IFFN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">SMASLKQQT</span><span class="topo-outside">GREQWASRLGFI</span><span class="topo-membrane">LAAMGSAVGLGNIWRFSYVT</span><span class="topo-inside">GENGG</span><span class="topo-membrane">AAFLLVYLGFIALIGIPIVL</span><span class="topo-outside">AEFTIGRRAQSDAVGSFEKLAPGKPWKV</span><span class="topo-membrane">AGLMGVAAGFLILSFYGVIAGWILFY</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">LF</span><span class="topo-inside">NYITGQLWSAPAE</span><span class="topo-unknown">GFGGFFEGFIA</span><span class="topo-inside">NPTLP</span><span class="topo-membrane">LFWQALFMIATIWIVAIG</span><span class="topo-outside">VKKG</span><span class="topo-membrane">IERSNKILMPLLGVLLIALAI</span><span class="topo-inside">YSLTLGGAKEGLAFLFSPDWSAL</span><span class="topo-membrane">KDPGVYLAAISQAFFTLSLGMGA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">LITY</span><span class="topo-outside">GSYVSKDSRLPGA</span><span class="topo-membrane">AVSVAGLDTAFAIIAGIM</span><span class="topo-inside">IFPAVFALGLSPSGGPG</span><span class="topo-unknown">LVFVVLPDIFD</span><span class="topo-inside">SIRLGPI</span><span class="topo-membrane">VGIAFFILLGAAALSSAVSLLEVPVAYF</span><span class="topo-outside">MRKFDWSR</span><span class="topo-membrane">KQAAITLGVIITLL</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450     </span>
+<span class="topo-line"><span class="topo-membrane">GIPSS</span><span class="topo-inside">LSFGVLGEVTIIPGLNI</span><span class="topo-membrane">FDSVDFIASSVFLPLGGMIIAL</span><span class="topo-outside">FIGWGWKTSDALAESDLTDS</span><span class="topo-unknown">VWGKLWIL</span><span class="topo-membrane">SLRFIAPIAILIVFLSAFQ</span><span class="topo-unknown">IFFN</span></span>
+<details class="topo-details"><summary>Topology coordinates (27 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1124,6 +1131,7 @@ MhsT is a multi-hydrophobic amino acid transporter from Bacillus halodurans belo
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1139,14 +1147,15 @@ MhsT is a multi-hydrophobic amino acid transporter from Bacillus halodurans belo
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">SMASLKQQT</span><span class="topo-outside">GREQWASRLGFI</span><span class="topo-membrane">LAAMGSAVGLGNIWRFSYVT</span><span class="topo-inside">GENGG</span><span class="topo-membrane">AAFLLVYLGFIALI</span></span>
-<span class="topo-line"><span class="topo-membrane">GIPIVLAEF</span><span class="topo-outside">TIGRRAQSDAVGSFEKLAPGKP</span><span class="topo-membrane">WKVAGLMGVAAGFLILSFYGVIAGWILFY</span></span>
-<span class="topo-line"><span class="topo-membrane">LF</span><span class="topo-inside">NYITGQLWSAPAE</span><span class="topo-unknown">GFGGFFEGFIA</span><span class="topo-inside">NPTLP</span><span class="topo-membrane">LFWQALFMIATIWIVAIGV</span><span class="topo-outside">KKG</span><span class="topo-membrane">IERSNKI</span></span>
-<span class="topo-line"><span class="topo-membrane">LMPLLGVLLIALAIY</span><span class="topo-inside">SLTLGGAKEGLAFLFSPDWSALKDP</span><span class="topo-membrane">GVYLAAISQAFFTLSLGMGA</span></span>
-<span class="topo-line"><span class="topo-membrane">LITY</span><span class="topo-outside">GSYVSKDSRLPG</span><span class="topo-membrane">AAVSVAGLDTAFAIIAGIMI</span><span class="topo-inside">FPAVFALGLSPSGGPG</span><span class="topo-unknown">LVFVVLPD</span></span>
-<span class="topo-line"><span class="topo-unknown">IFDS</span><span class="topo-inside">IRLGP</span><span class="topo-membrane">IVGIAFFILLGAAALSSAVSLLEVPVAYFM</span><span class="topo-outside">RKFDWSR</span><span class="topo-membrane">KQAAITLGVIITLL</span></span>
-<span class="topo-line"><span class="topo-membrane">GIPSS</span><span class="topo-inside">LSFGVLGEVTIIPGLNI</span><span class="topo-membrane">FDSVDFIASSVFLPLGGMIIALF</span><span class="topo-outside">IGWGWK</span><span class="topo-unknown">TSDALAE</span><span class="topo-outside">SD</span></span>
-<span class="topo-line"><span class="topo-outside">LTDSVWGKL</span><span class="topo-membrane">WILSLRFIAPIAILIVFLSAF</span><span class="topo-unknown">QIFFN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">SMASLKQQT</span><span class="topo-outside">GREQWASRLGFI</span><span class="topo-membrane">LAAMGSAVGLGNIWRFSYVT</span><span class="topo-inside">GENGG</span><span class="topo-membrane">AAFLLVYLGFIALIGIPIVLAEF</span><span class="topo-outside">TIGRRAQSDAVGSFEKLAPGKP</span><span class="topo-membrane">WKVAGLMGVAAGFLILSFYGVIAGWILFY</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">LF</span><span class="topo-inside">NYITGQLWSAPAE</span><span class="topo-unknown">GFGGFFEGFIA</span><span class="topo-inside">NPTLP</span><span class="topo-membrane">LFWQALFMIATIWIVAIGV</span><span class="topo-outside">KKG</span><span class="topo-membrane">IERSNKILMPLLGVLLIALAIY</span><span class="topo-inside">SLTLGGAKEGLAFLFSPDWSALKDP</span><span class="topo-membrane">GVYLAAISQAFFTLSLGMGA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">LITY</span><span class="topo-outside">GSYVSKDSRLPG</span><span class="topo-membrane">AAVSVAGLDTAFAIIAGIMI</span><span class="topo-inside">FPAVFALGLSPSGGPG</span><span class="topo-unknown">LVFVVLPDIFDS</span><span class="topo-inside">IRLGP</span><span class="topo-membrane">IVGIAFFILLGAAALSSAVSLLEVPVAYFM</span><span class="topo-outside">RKFDWSR</span><span class="topo-membrane">KQAAITLGVIITLL</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450     </span>
+<span class="topo-line"><span class="topo-membrane">GIPSS</span><span class="topo-inside">LSFGVLGEVTIIPGLNI</span><span class="topo-membrane">FDSVDFIASSVFLPLGGMIIALF</span><span class="topo-outside">IGWGWK</span><span class="topo-unknown">TSDALAE</span><span class="topo-outside">SDLTDSVWGKL</span><span class="topo-membrane">WILSLRFIAPIAILIVFLSAF</span><span class="topo-unknown">QIFFN</span></span>
+<details class="topo-details"><summary>Topology coordinates (28 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1354,6 +1363,7 @@ MhsT is a multi-hydrophobic amino acid transporter from Bacillus halodurans belo
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1369,14 +1379,15 @@ MhsT is a multi-hydrophobic amino acid transporter from Bacillus halodurans belo
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">SMASLKQQT</span><span class="topo-inside">GREQWASRLGFI</span><span class="topo-membrane">LAAMGSAVGLGNIWRFS</span><span class="topo-outside">YVTGENGGAAFL</span><span class="topo-membrane">LVYLGFIALI</span></span>
-<span class="topo-line"><span class="topo-membrane">GIPIVLAEF</span><span class="topo-inside">TIGRRAQSDAVGSFEKLAPGK</span><span class="topo-membrane">PWKVAGLMGVAAGFLILSFYGVIAGWILFY</span></span>
-<span class="topo-line"><span class="topo-membrane">LFNYITG</span><span class="topo-outside">QLWSAPAE</span><span class="topo-unknown">GFGGFFEGFI</span><span class="topo-outside">ANPT</span><span class="topo-membrane">LPLFWQALFMIATIWIVA</span><span class="topo-inside">IGVKKGIERS</span><span class="topo-membrane">NKI</span></span>
-<span class="topo-line"><span class="topo-membrane">LMPLLGVLLIALAIY</span><span class="topo-outside">SLTLGG</span><span class="topo-unknown">AKEGLAFLF</span><span class="topo-outside">SPDWSALKDPGVY</span><span class="topo-membrane">LAAISQAFFTLSLGMGA</span></span>
-<span class="topo-line"><span class="topo-membrane">LITY</span><span class="topo-inside">GSYVSKDSRLP</span><span class="topo-membrane">GAAVSVAGLDTAFAIIAGIM</span><span class="topo-outside">IFPAVFALGLSPSGGPGL</span><span class="topo-unknown">VFVVLPD</span></span>
-<span class="topo-line"><span class="topo-unknown">IF</span><span class="topo-outside">DSIRL</span><span class="topo-membrane">GPIVGIAFFILLGAAALSSAVSLLEVPV</span><span class="topo-inside">AYFMRKFDWSRKQA</span><span class="topo-membrane">AITLGVIITLL</span></span>
-<span class="topo-line"><span class="topo-membrane">GIPSS</span><span class="topo-outside">LSFGVLGEVTIIPGLNIFDS</span><span class="topo-membrane">VDFIASSVFLPLGGMIIALFIGWG</span><span class="topo-inside">WK</span><span class="topo-unknown">TSDALAE</span><span class="topo-inside">SD</span></span>
-<span class="topo-line"><span class="topo-inside">LTDSV</span><span class="topo-membrane">WGKLWILSLRFIAPIAILIVFL</span><span class="topo-outside">SAF</span><span class="topo-unknown">QIFFN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">SMASLKQQT</span><span class="topo-inside">GREQWASRLGFI</span><span class="topo-membrane">LAAMGSAVGLGNIWRFS</span><span class="topo-outside">YVTGENGGAAFL</span><span class="topo-membrane">LVYLGFIALIGIPIVLAEF</span><span class="topo-inside">TIGRRAQSDAVGSFEKLAPGK</span><span class="topo-membrane">PWKVAGLMGVAAGFLILSFYGVIAGWILFY</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">LFNYITG</span><span class="topo-outside">QLWSAPAE</span><span class="topo-unknown">GFGGFFEGFI</span><span class="topo-outside">ANPT</span><span class="topo-membrane">LPLFWQALFMIATIWIVA</span><span class="topo-inside">IGVKKGIERS</span><span class="topo-membrane">NKILMPLLGVLLIALAIY</span><span class="topo-outside">SLTLGG</span><span class="topo-unknown">AKEGLAFLF</span><span class="topo-outside">SPDWSALKDPGVY</span><span class="topo-membrane">LAAISQAFFTLSLGMGA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">LITY</span><span class="topo-inside">GSYVSKDSRLP</span><span class="topo-membrane">GAAVSVAGLDTAFAIIAGIM</span><span class="topo-outside">IFPAVFALGLSPSGGPGL</span><span class="topo-unknown">VFVVLPDIF</span><span class="topo-outside">DSIRL</span><span class="topo-membrane">GPIVGIAFFILLGAAALSSAVSLLEVPV</span><span class="topo-inside">AYFMRKFDWSRKQA</span><span class="topo-membrane">AITLGVIITLL</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450     </span>
+<span class="topo-line"><span class="topo-membrane">GIPSS</span><span class="topo-outside">LSFGVLGEVTIIPGLNIFDS</span><span class="topo-membrane">VDFIASSVFLPLGGMIIALFIGWG</span><span class="topo-inside">WK</span><span class="topo-unknown">TSDALAE</span><span class="topo-inside">SDLTDSV</span><span class="topo-membrane">WGKLWILSLRFIAPIAILIVFL</span><span class="topo-outside">SAF</span><span class="topo-unknown">QIFFN</span></span>
+<details class="topo-details"><summary>Topology coordinates (31 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1605,6 +1616,7 @@ MhsT is a multi-hydrophobic amino acid transporter from Bacillus halodurans belo
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1620,14 +1632,15 @@ MhsT is a multi-hydrophobic amino acid transporter from Bacillus halodurans belo
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">SMASLKQQT</span><span class="topo-inside">GREQWASRLGFI</span><span class="topo-membrane">LAAMGSAVGLGNIWRFS</span><span class="topo-outside">YVTGENGGAAFL</span><span class="topo-membrane">LVYLGFIALI</span></span>
-<span class="topo-line"><span class="topo-membrane">GIPIVLAEF</span><span class="topo-inside">TIGRRAQSDAVGSFEKLAPGK</span><span class="topo-membrane">PWKVAGLMGVAAGFLILSFYGVIAGWILFY</span></span>
-<span class="topo-line"><span class="topo-membrane">LFNYITG</span><span class="topo-outside">QLWSAPAE</span><span class="topo-unknown">GFGGFFEGFIA</span><span class="topo-outside">NPT</span><span class="topo-membrane">LPLFWQALFMIATIWIVA</span><span class="topo-inside">IGVKKGIERS</span><span class="topo-membrane">NKI</span></span>
-<span class="topo-line"><span class="topo-membrane">LMPLLGVLLIALAIY</span><span class="topo-outside">SLTLGG</span><span class="topo-unknown">AKEGLAFLF</span><span class="topo-outside">SPDWSALKDPGVY</span><span class="topo-membrane">LAAISQAFFTLSLGMGA</span></span>
-<span class="topo-line"><span class="topo-membrane">LITY</span><span class="topo-inside">GSYVSKDSRLP</span><span class="topo-membrane">GAAVSVAGLDTAFAIIAGIM</span><span class="topo-outside">IFPAVFALGLSPSGGPG</span><span class="topo-unknown">LVFVVLPD</span></span>
-<span class="topo-line"><span class="topo-unknown">IFDS</span><span class="topo-outside">IRL</span><span class="topo-membrane">GPIVGIAFFILLGAAALSSAVSLLEVPV</span><span class="topo-inside">AYFMRKFDWSRKQA</span><span class="topo-membrane">AITLGVIITLL</span></span>
-<span class="topo-line"><span class="topo-membrane">GIPSS</span><span class="topo-outside">LSFGVLGEVTIIPGLNIFDS</span><span class="topo-membrane">VDFIASSVFLPLGGMIIALFIGWG</span><span class="topo-inside">WK</span><span class="topo-unknown">TSDALA</span><span class="topo-inside">ESD</span></span>
-<span class="topo-line"><span class="topo-inside">LTDSV</span><span class="topo-membrane">WGKLWILSLRFIAPIAILIVFL</span><span class="topo-outside">SAF</span><span class="topo-unknown">QIFFN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">SMASLKQQT</span><span class="topo-inside">GREQWASRLGFI</span><span class="topo-membrane">LAAMGSAVGLGNIWRFS</span><span class="topo-outside">YVTGENGGAAFL</span><span class="topo-membrane">LVYLGFIALIGIPIVLAEF</span><span class="topo-inside">TIGRRAQSDAVGSFEKLAPGK</span><span class="topo-membrane">PWKVAGLMGVAAGFLILSFYGVIAGWILFY</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">LFNYITG</span><span class="topo-outside">QLWSAPAE</span><span class="topo-unknown">GFGGFFEGFIA</span><span class="topo-outside">NPT</span><span class="topo-membrane">LPLFWQALFMIATIWIVA</span><span class="topo-inside">IGVKKGIERS</span><span class="topo-membrane">NKILMPLLGVLLIALAIY</span><span class="topo-outside">SLTLGG</span><span class="topo-unknown">AKEGLAFLF</span><span class="topo-outside">SPDWSALKDPGVY</span><span class="topo-membrane">LAAISQAFFTLSLGMGA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">LITY</span><span class="topo-inside">GSYVSKDSRLP</span><span class="topo-membrane">GAAVSVAGLDTAFAIIAGIM</span><span class="topo-outside">IFPAVFALGLSPSGGPG</span><span class="topo-unknown">LVFVVLPDIFDS</span><span class="topo-outside">IRL</span><span class="topo-membrane">GPIVGIAFFILLGAAALSSAVSLLEVPV</span><span class="topo-inside">AYFMRKFDWSRKQA</span><span class="topo-membrane">AITLGVIITLL</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450     </span>
+<span class="topo-line"><span class="topo-membrane">GIPSS</span><span class="topo-outside">LSFGVLGEVTIIPGLNIFDS</span><span class="topo-membrane">VDFIASSVFLPLGGMIIALFIGWG</span><span class="topo-inside">WK</span><span class="topo-unknown">TSDALA</span><span class="topo-inside">ESDLTDSV</span><span class="topo-membrane">WGKLWILSLRFIAPIAILIVFL</span><span class="topo-outside">SAF</span><span class="topo-unknown">QIFFN</span></span>
+<details class="topo-details"><summary>Topology coordinates (31 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1856,6 +1869,7 @@ MhsT is a multi-hydrophobic amino acid transporter from Bacillus halodurans belo
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1871,14 +1885,15 @@ MhsT is a multi-hydrophobic amino acid transporter from Bacillus halodurans belo
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">SMASLKQQT</span><span class="topo-outside">GREQWASRLGFIL</span><span class="topo-membrane">AAMGSAVGLGNIWRFS</span><span class="topo-inside">YVTGENGGA</span><span class="topo-membrane">AFLLVYLGFIALI</span></span>
-<span class="topo-line"><span class="topo-membrane">GIPIV</span><span class="topo-outside">LAEFTIGRRAQSDAVGSFEKLAPGKP</span><span class="topo-membrane">WKVAGLMGVAAGFLILSFYGVIAG</span><span class="topo-unknown">WILFY</span></span>
-<span class="topo-line"><span class="topo-unknown">LFNYI</span><span class="topo-inside">TGQLWSAPAEGFGGFFEGFIANPTLPLF</span><span class="topo-membrane">WQALFMIATIWIVAIG</span><span class="topo-outside">VKKGIER</span><span class="topo-membrane">SNKI</span></span>
-<span class="topo-line"><span class="topo-membrane">LMPLLGVLLIALAIY</span><span class="topo-inside">SLTLGGAKEGLAFLFSPDWSALKDP</span><span class="topo-membrane">GVYLAAISQAFFTLSLGMGA</span></span>
-<span class="topo-line"><span class="topo-membrane">LITY</span><span class="topo-outside">GSYVSKDSRLPGAA</span><span class="topo-membrane">VSVAGLDTAFAIIAGIM</span><span class="topo-inside">IFPAVFALGLSPSGGPG</span><span class="topo-unknown">LVFVVLPD</span></span>
-<span class="topo-line"><span class="topo-unknown">IFDS</span><span class="topo-inside">IRLGPI</span><span class="topo-membrane">VGIAFFILLGAAALSSAVSLLEVPVAYFM</span><span class="topo-outside">RKFDW</span><span class="topo-membrane">SRKQAAITLGVIITLL</span></span>
-<span class="topo-line"><span class="topo-membrane">GI</span><span class="topo-inside">PSSLSFGVLGEVTIIPGLNIFDS</span><span class="topo-membrane">VDFIASSVFLPLGGMIIAL</span><span class="topo-outside">FIGWGWKTSDALAESD</span></span>
-<span class="topo-line"><span class="topo-outside">LTDSVWGKLWILS</span><span class="topo-membrane">LRFIAPIAILIVFLSAF</span><span class="topo-unknown">QIFFN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">SMASLKQQT</span><span class="topo-outside">GREQWASRLGFIL</span><span class="topo-membrane">AAMGSAVGLGNIWRFS</span><span class="topo-inside">YVTGENGGA</span><span class="topo-membrane">AFLLVYLGFIALIGIPIV</span><span class="topo-outside">LAEFTIGRRAQSDAVGSFEKLAPGKP</span><span class="topo-membrane">WKVAGLMGVAAGFLILSFYGVIAG</span><span class="topo-unknown">WILFY</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-unknown">LFNYI</span><span class="topo-inside">TGQLWSAPAEGFGGFFEGFIANPTLPLF</span><span class="topo-membrane">WQALFMIATIWIVAIG</span><span class="topo-outside">VKKGIER</span><span class="topo-membrane">SNKILMPLLGVLLIALAIY</span><span class="topo-inside">SLTLGGAKEGLAFLFSPDWSALKDP</span><span class="topo-membrane">GVYLAAISQAFFTLSLGMGA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">LITY</span><span class="topo-outside">GSYVSKDSRLPGAA</span><span class="topo-membrane">VSVAGLDTAFAIIAGIM</span><span class="topo-inside">IFPAVFALGLSPSGGPG</span><span class="topo-unknown">LVFVVLPDIFDS</span><span class="topo-inside">IRLGPI</span><span class="topo-membrane">VGIAFFILLGAAALSSAVSLLEVPVAYFM</span><span class="topo-outside">RKFDW</span><span class="topo-membrane">SRKQAAITLGVIITLL</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450     </span>
+<span class="topo-line"><span class="topo-membrane">GI</span><span class="topo-inside">PSSLSFGVLGEVTIIPGLNIFDS</span><span class="topo-membrane">VDFIASSVFLPLGGMIIAL</span><span class="topo-outside">FIGWGWKTSDALAESDLTDSVWGKLWILS</span><span class="topo-membrane">LRFIAPIAILIVFLSAF</span><span class="topo-unknown">QIFFN</span></span>
+<details class="topo-details"><summary>Topology coordinates (25 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2065,6 +2080,7 @@ MhsT is a multi-hydrophobic amino acid transporter from Bacillus halodurans belo
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2080,14 +2096,15 @@ MhsT is a multi-hydrophobic amino acid transporter from Bacillus halodurans belo
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">SMASLKQQT</span><span class="topo-inside">GREQWASRLGF</span><span class="topo-membrane">ILAAMGSAVGLGNIWRFSYVT</span><span class="topo-outside">GENGG</span><span class="topo-membrane">AAFLLVYLGFIALI</span></span>
-<span class="topo-line"><span class="topo-membrane">GIPIVLAEF</span><span class="topo-inside">TIGRRAQSDAVGSFEKLAPGKPW</span><span class="topo-membrane">KVAGLMGVAAGFLILSFYGVIAGWILFY</span></span>
-<span class="topo-line"><span class="topo-membrane">LFNYIT</span><span class="topo-outside">GQLWSAPAEGFGGFFEGFIANPT</span><span class="topo-membrane">LPLFWQALFMIATIWIVAI</span><span class="topo-inside">GVKKG</span><span class="topo-membrane">IERSNKI</span></span>
-<span class="topo-line"><span class="topo-membrane">LMPLLGVLLIALAI</span><span class="topo-outside">YSLTLGGAKEGLAFLFSPDWSAL</span><span class="topo-membrane">KDPGVYLAAISQAFFTLSLGMGA</span></span>
-<span class="topo-line"><span class="topo-membrane">LITY</span><span class="topo-inside">GSYVSKDSRLP</span><span class="topo-membrane">GAAVSVAGLDTAFAIIAGIM</span><span class="topo-outside">IFPAVFALGLSPSGGPG</span><span class="topo-unknown">LVFVVLPD</span></span>
-<span class="topo-line"><span class="topo-unknown">IFD</span><span class="topo-outside">SIRLGPI</span><span class="topo-membrane">VGIAFFILLGAAALSSAVSLLEVPVAYF</span><span class="topo-inside">MRKFDWSRK</span><span class="topo-membrane">QAAITLGVIITLL</span></span>
-<span class="topo-line"><span class="topo-membrane">GIPSSL</span><span class="topo-outside">SFGVLGEVTIIPGL</span><span class="topo-membrane">NIFDSVDFIASSVFLPLGGMIIALF</span><span class="topo-inside">IGWGWK</span><span class="topo-unknown">TSDALAE</span><span class="topo-inside">SD</span></span>
-<span class="topo-line"><span class="topo-inside">LTDSVWGKL</span><span class="topo-membrane">WILSLRFIAPIAILIVFLSAF</span><span class="topo-unknown">QIFFN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">SMASLKQQT</span><span class="topo-inside">GREQWASRLGF</span><span class="topo-membrane">ILAAMGSAVGLGNIWRFSYVT</span><span class="topo-outside">GENGG</span><span class="topo-membrane">AAFLLVYLGFIALIGIPIVLAEF</span><span class="topo-inside">TIGRRAQSDAVGSFEKLAPGKPW</span><span class="topo-membrane">KVAGLMGVAAGFLILSFYGVIAGWILFY</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">LFNYIT</span><span class="topo-outside">GQLWSAPAEGFGGFFEGFIANPT</span><span class="topo-membrane">LPLFWQALFMIATIWIVAI</span><span class="topo-inside">GVKKG</span><span class="topo-membrane">IERSNKILMPLLGVLLIALAI</span><span class="topo-outside">YSLTLGGAKEGLAFLFSPDWSAL</span><span class="topo-membrane">KDPGVYLAAISQAFFTLSLGMGA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">LITY</span><span class="topo-inside">GSYVSKDSRLP</span><span class="topo-membrane">GAAVSVAGLDTAFAIIAGIM</span><span class="topo-outside">IFPAVFALGLSPSGGPG</span><span class="topo-unknown">LVFVVLPDIFD</span><span class="topo-outside">SIRLGPI</span><span class="topo-membrane">VGIAFFILLGAAALSSAVSLLEVPVAYF</span><span class="topo-inside">MRKFDWSRK</span><span class="topo-membrane">QAAITLGVIITLL</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450     </span>
+<span class="topo-line"><span class="topo-membrane">GIPSSL</span><span class="topo-outside">SFGVLGEVTIIPGL</span><span class="topo-membrane">NIFDSVDFIASSVFLPLGGMIIALF</span><span class="topo-inside">IGWGWK</span><span class="topo-unknown">TSDALAE</span><span class="topo-inside">SDLTDSVWGKL</span><span class="topo-membrane">WILSLRFIAPIAILIVFLSAF</span><span class="topo-unknown">QIFFN</span></span>
+<details class="topo-details"><summary>Topology coordinates (26 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2281,6 +2298,7 @@ MhsT is a multi-hydrophobic amino acid transporter from Bacillus halodurans belo
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

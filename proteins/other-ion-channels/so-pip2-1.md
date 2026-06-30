@@ -162,11 +162,13 @@ SoPIP2;1 is a plasma membrane intrinsic protein (PIP) from spinach (Spinacia ole
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSKEVSEEAQAHQHGKDYVDPPP</span><span class="topo-outside">APFFDLGELKLWSFWRA</span><span class="topo-membrane">AIAEFIATLLFLYITVAT</span><span class="topo-inside">VI</span></span>
-<span class="topo-line"><span class="topo-inside">GHSKETVVCGSVGLL</span><span class="topo-membrane">GIAWAFGGMIFVLVYCTA</span><span class="topo-outside">GIS</span><span class="topo-unknown">GGHINPAVTFGLFL</span><span class="topo-outside">ARKVSLLR</span><span class="topo-membrane">AL</span></span>
-<span class="topo-line"><span class="topo-membrane">VYMIAQCLGAICGVGLV</span><span class="topo-inside">KAFM</span><span class="topo-unknown">KGPYNQ</span><span class="topo-inside">FGGGANSVALGYNKG</span><span class="topo-membrane">TALGAEIIGTFVLVYTVF</span></span>
-<span class="topo-line"><span class="topo-membrane">SA</span><span class="topo-outside">TDPKRSARDSHVPIL</span><span class="topo-membrane">APLPIGFAVFMVHLATI</span><span class="topo-inside">PIT</span><span class="topo-unknown">GTGINPARSFGAAVI</span><span class="topo-inside">FNSNKVWD</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSKEVSEEAQAHQHGKDYVDPPP</span><span class="topo-outside">APFFDLGELKLWSFWRA</span><span class="topo-membrane">AIAEFIATLLFLYITVAT</span><span class="topo-inside">VIGHSKETVVCGSVGLL</span><span class="topo-membrane">GIAWAFGGMIFVLVYCTA</span><span class="topo-outside">GIS</span><span class="topo-unknown">GGHINPAVTFGLFL</span><span class="topo-outside">ARKVSLLR</span><span class="topo-membrane">AL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">VYMIAQCLGAICGVGLV</span><span class="topo-inside">KAFM</span><span class="topo-unknown">KGPYNQ</span><span class="topo-inside">FGGGANSVALGYNKG</span><span class="topo-membrane">TALGAEIIGTFVLVYTVFSA</span><span class="topo-outside">TDPKRSARDSHVPIL</span><span class="topo-membrane">APLPIGFAVFMVHLATI</span><span class="topo-inside">PIT</span><span class="topo-unknown">GTGINPARSFGAAVI</span><span class="topo-inside">FNSNKVWD</span></span>
+<span class="topo-ruler">       250       260       270       280 </span>
 <span class="topo-line"><span class="topo-inside">DQ</span><span class="topo-membrane">WIFWVGPFIGAAVAAAYH</span><span class="topo-outside">QYVLRAAAIKALGS</span><span class="topo-unknown">FRSNPTN</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -325,6 +327,7 @@ SoPIP2;1 is a plasma membrane intrinsic protein (PIP) from spinach (Spinacia ole
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -340,11 +343,13 @@ SoPIP2;1 is a plasma membrane intrinsic protein (PIP) from spinach (Spinacia ole
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSKEVSEEAQAHQHGKDYVDPPP</span><span class="topo-outside">APFFDLGELKLWSFWRA</span><span class="topo-membrane">AIAEFIATLLFLYITVAT</span><span class="topo-inside">VI</span></span>
-<span class="topo-line"><span class="topo-inside">GHSKETVVCGSVGLL</span><span class="topo-membrane">GIAWAFGGMIFVLVYCTA</span><span class="topo-outside">GIS</span><span class="topo-unknown">GGHINPAVTFGLFL</span><span class="topo-outside">ARKVSLLR</span><span class="topo-membrane">AL</span></span>
-<span class="topo-line"><span class="topo-membrane">VYMIAQCLGAICGVGLV</span><span class="topo-inside">KAFM</span><span class="topo-unknown">KGPYNQ</span><span class="topo-inside">FGGGANSVALGYNKG</span><span class="topo-membrane">TALGAEIIGTFVLVYTVF</span></span>
-<span class="topo-line"><span class="topo-membrane">SA</span><span class="topo-outside">TDPKRSARDSHVPIL</span><span class="topo-membrane">APLPIGFAVFMVHLATI</span><span class="topo-inside">PIT</span><span class="topo-unknown">GTGINPARSFGAAVI</span><span class="topo-inside">FNSNKVWD</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSKEVSEEAQAHQHGKDYVDPPP</span><span class="topo-outside">APFFDLGELKLWSFWRA</span><span class="topo-membrane">AIAEFIATLLFLYITVAT</span><span class="topo-inside">VIGHSKETVVCGSVGLL</span><span class="topo-membrane">GIAWAFGGMIFVLVYCTA</span><span class="topo-outside">GIS</span><span class="topo-unknown">GGHINPAVTFGLFL</span><span class="topo-outside">ARKVSLLR</span><span class="topo-membrane">AL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">VYMIAQCLGAICGVGLV</span><span class="topo-inside">KAFM</span><span class="topo-unknown">KGPYNQ</span><span class="topo-inside">FGGGANSVALGYNKG</span><span class="topo-membrane">TALGAEIIGTFVLVYTVFSA</span><span class="topo-outside">TDPKRSARDSHVPIL</span><span class="topo-membrane">APLPIGFAVFMVHLATI</span><span class="topo-inside">PIT</span><span class="topo-unknown">GTGINPARSFGAAVI</span><span class="topo-inside">FNSNKVWD</span></span>
+<span class="topo-ruler">       250       260       270       280 </span>
 <span class="topo-line"><span class="topo-inside">DQ</span><span class="topo-membrane">WIFWVGPFIGAAVAAAYH</span><span class="topo-outside">QYVLRAAAIKALGS</span><span class="topo-unknown">FRSNPTN</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -503,6 +508,7 @@ SoPIP2;1 is a plasma membrane intrinsic protein (PIP) from spinach (Spinacia ole
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -518,11 +524,13 @@ SoPIP2;1 is a plasma membrane intrinsic protein (PIP) from spinach (Spinacia ole
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSKEVSEEAQAHQHGKDYVDPPP</span><span class="topo-outside">APFFDLGELKLWSFWRA</span><span class="topo-membrane">AIAEFIATLLFLYITVAT</span><span class="topo-inside">VI</span></span>
-<span class="topo-line"><span class="topo-inside">GHSKETVVCGSVGLL</span><span class="topo-membrane">GIAWAFGGMIFVLVYCTA</span><span class="topo-outside">GIS</span><span class="topo-unknown">GGHINPAVTFGLFL</span><span class="topo-outside">ARKVSLLR</span><span class="topo-membrane">AL</span></span>
-<span class="topo-line"><span class="topo-membrane">VYMIAQCLGAICGVGLV</span><span class="topo-inside">KAFM</span><span class="topo-unknown">KGPYNQ</span><span class="topo-inside">FGGGANSVALGYNKG</span><span class="topo-membrane">TALGAEIIGTFVLVYTVF</span></span>
-<span class="topo-line"><span class="topo-membrane">SA</span><span class="topo-outside">TDPKRSARDSHVPIL</span><span class="topo-membrane">APLPIGFAVFMVHLATI</span><span class="topo-inside">PIT</span><span class="topo-unknown">GTGINPARSFGAAVI</span><span class="topo-inside">FNSNKVWD</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSKEVSEEAQAHQHGKDYVDPPP</span><span class="topo-outside">APFFDLGELKLWSFWRA</span><span class="topo-membrane">AIAEFIATLLFLYITVAT</span><span class="topo-inside">VIGHSKETVVCGSVGLL</span><span class="topo-membrane">GIAWAFGGMIFVLVYCTA</span><span class="topo-outside">GIS</span><span class="topo-unknown">GGHINPAVTFGLFL</span><span class="topo-outside">ARKVSLLR</span><span class="topo-membrane">AL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">VYMIAQCLGAICGVGLV</span><span class="topo-inside">KAFM</span><span class="topo-unknown">KGPYNQ</span><span class="topo-inside">FGGGANSVALGYNKG</span><span class="topo-membrane">TALGAEIIGTFVLVYTVFSA</span><span class="topo-outside">TDPKRSARDSHVPIL</span><span class="topo-membrane">APLPIGFAVFMVHLATI</span><span class="topo-inside">PIT</span><span class="topo-unknown">GTGINPARSFGAAVI</span><span class="topo-inside">FNSNKVWD</span></span>
+<span class="topo-ruler">       250       260       270       280 </span>
 <span class="topo-line"><span class="topo-inside">DQ</span><span class="topo-membrane">WIFWVGPFIGAAVAAAYH</span><span class="topo-outside">QYVLRAAAIKALGS</span><span class="topo-unknown">FRSNPTN</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -681,6 +689,7 @@ SoPIP2;1 is a plasma membrane intrinsic protein (PIP) from spinach (Spinacia ole
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -696,11 +705,13 @@ SoPIP2;1 is a plasma membrane intrinsic protein (PIP) from spinach (Spinacia ole
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSKEVSEEAQAHQHGKDYVDPPP</span><span class="topo-outside">APFFDLGELKLWSFWRA</span><span class="topo-membrane">AIAEFIATLLFLYITVAT</span><span class="topo-inside">VI</span></span>
-<span class="topo-line"><span class="topo-inside">GHSKETVVCGSVGLL</span><span class="topo-membrane">GIAWAFGGMIFVLVYCTA</span><span class="topo-outside">GIS</span><span class="topo-unknown">GGHINPAVTFGLFL</span><span class="topo-outside">ARKVSLLR</span><span class="topo-membrane">AL</span></span>
-<span class="topo-line"><span class="topo-membrane">VYMIAQCLGAICGVGLV</span><span class="topo-inside">KAFM</span><span class="topo-unknown">KGPYNQ</span><span class="topo-inside">FGGGANSVALGYNKG</span><span class="topo-membrane">TALGAEIIGTFVLVYTVF</span></span>
-<span class="topo-line"><span class="topo-membrane">SA</span><span class="topo-outside">TDPKRSARDSHVPIL</span><span class="topo-membrane">APLPIGFAVFMVHLATI</span><span class="topo-inside">PIT</span><span class="topo-unknown">GTGINPARSFGAAVI</span><span class="topo-inside">FNSNKVWD</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSKEVSEEAQAHQHGKDYVDPPP</span><span class="topo-outside">APFFDLGELKLWSFWRA</span><span class="topo-membrane">AIAEFIATLLFLYITVAT</span><span class="topo-inside">VIGHSKETVVCGSVGLL</span><span class="topo-membrane">GIAWAFGGMIFVLVYCTA</span><span class="topo-outside">GIS</span><span class="topo-unknown">GGHINPAVTFGLFL</span><span class="topo-outside">ARKVSLLR</span><span class="topo-membrane">AL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">VYMIAQCLGAICGVGLV</span><span class="topo-inside">KAFM</span><span class="topo-unknown">KGPYNQ</span><span class="topo-inside">FGGGANSVALGYNKG</span><span class="topo-membrane">TALGAEIIGTFVLVYTVFSA</span><span class="topo-outside">TDPKRSARDSHVPIL</span><span class="topo-membrane">APLPIGFAVFMVHLATI</span><span class="topo-inside">PIT</span><span class="topo-unknown">GTGINPARSFGAAVI</span><span class="topo-inside">FNSNKVWD</span></span>
+<span class="topo-ruler">       250       260       270       280 </span>
 <span class="topo-line"><span class="topo-inside">DQ</span><span class="topo-membrane">WIFWVGPFIGAAVAAAYH</span><span class="topo-outside">QYVLRAAAIKALGS</span><span class="topo-unknown">FRSNPTN</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -859,6 +870,7 @@ SoPIP2;1 is a plasma membrane intrinsic protein (PIP) from spinach (Spinacia ole
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -874,12 +886,13 @@ SoPIP2;1 is a plasma membrane intrinsic protein (PIP) from spinach (Spinacia ole
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSKEVSEEAQAHQHGKDYVDPPPAPFF</span><span class="topo-inside">DLGELKLWSFW</span><span class="topo-membrane">RAAIAEFIATLLFLYITVATV</span><span class="topo-outside">I</span></span>
-<span class="topo-line"><span class="topo-outside">GHSKETVVCGSVGL</span><span class="topo-membrane">LGIAWAFGGMIFVLVYCTA</span><span class="topo-inside">GIS</span><span class="topo-unknown">GGHINPAVTFGLFLA</span><span class="topo-inside">RKVSL</span><span class="topo-membrane">LRAL</span></span>
-<span class="topo-line"><span class="topo-membrane">VYMIAQCLGAICGVGLVKAF</span><span class="topo-outside">M</span><span class="topo-unknown">KGPYNQ</span><span class="topo-outside">FGGGANSVALGYNK</span><span class="topo-membrane">GTALGAEIIGTFVLVYTVF</span></span>
-<span class="topo-line"><span class="topo-membrane">SA</span><span class="topo-inside">TDPKRSARDSHVPI</span><span class="topo-membrane">LAPLPIGFAVFMVHLATI</span><span class="topo-outside">PI</span><span class="topo-unknown">TGTGINPARSFGAAVI</span><span class="topo-outside">FNSNKVWD</span></span>
-<span class="topo-line"><span class="topo-outside">D</span><span class="topo-membrane">QWIFWVGPFIGAAVAAAYHQYV</span><span class="topo-unknown">LRAAAIKALGSFRSNPTNLEQKLISEEDLNSAVDHHH</span></span>
-<span class="topo-line"><span class="topo-unknown">HHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSKEVSEEAQAHQHGKDYVDPPPAPFF</span><span class="topo-inside">DLGELKLWSFW</span><span class="topo-membrane">RAAIAEFIATLLFLYITVATV</span><span class="topo-outside">IGHSKETVVCGSVGL</span><span class="topo-membrane">LGIAWAFGGMIFVLVYCTA</span><span class="topo-inside">GIS</span><span class="topo-unknown">GGHINPAVTFGLFLA</span><span class="topo-inside">RKVSL</span><span class="topo-membrane">LRAL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">VYMIAQCLGAICGVGLVKAF</span><span class="topo-outside">M</span><span class="topo-unknown">KGPYNQ</span><span class="topo-outside">FGGGANSVALGYNK</span><span class="topo-membrane">GTALGAEIIGTFVLVYTVFSA</span><span class="topo-inside">TDPKRSARDSHVPI</span><span class="topo-membrane">LAPLPIGFAVFMVHLATI</span><span class="topo-outside">PI</span><span class="topo-unknown">TGTGINPARSFGAAVI</span><span class="topo-outside">FNSNKVWD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300   </span>
+<span class="topo-line"><span class="topo-outside">D</span><span class="topo-membrane">QWIFWVGPFIGAAVAAAYHQYV</span><span class="topo-unknown">LRAAAIKALGSFRSNPTNLEQKLISEEDLNSAVDHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (20 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1031,6 +1044,7 @@ SoPIP2;1 is a plasma membrane intrinsic protein (PIP) from spinach (Spinacia ole
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1046,12 +1060,13 @@ SoPIP2;1 is a plasma membrane intrinsic protein (PIP) from spinach (Spinacia ole
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSKEVSEEAQAHQHGKDYVDPPPAPFF</span><span class="topo-inside">DLGELKLWSFW</span><span class="topo-membrane">RAAIAEFIATLLFLYITVATV</span><span class="topo-outside">I</span></span>
-<span class="topo-line"><span class="topo-outside">GHSKETVVCGSVGL</span><span class="topo-membrane">LGIAWAFGGMIFVLVYCTA</span><span class="topo-inside">GIS</span><span class="topo-unknown">GGHINPAVTFGLFLA</span><span class="topo-inside">RKVSL</span><span class="topo-membrane">LRAL</span></span>
-<span class="topo-line"><span class="topo-membrane">VYMIAQCLGAICGVGLVKAF</span><span class="topo-outside">M</span><span class="topo-unknown">KGPYNQF</span><span class="topo-outside">GGGANSVALGYNK</span><span class="topo-membrane">GTALGAEIIGTFVLVYTVF</span></span>
-<span class="topo-line"><span class="topo-membrane">SA</span><span class="topo-inside">TDP</span><span class="topo-unknown">KRSARDSHVPIL</span><span class="topo-inside">A</span><span class="topo-membrane">PLPIGFAVFMVHLATI</span><span class="topo-outside">PI</span><span class="topo-unknown">TGTGINPARSFGAAVI</span><span class="topo-outside">FNSNKVWD</span></span>
-<span class="topo-line"><span class="topo-outside">D</span><span class="topo-membrane">QWIFWVGPFIGAAVAAAYHQY</span><span class="topo-inside">V</span><span class="topo-unknown">LRAAAIKALGSFRSNPTNLEQKLISEEDLNSAVDHHH</span></span>
-<span class="topo-line"><span class="topo-unknown">HHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSKEVSEEAQAHQHGKDYVDPPPAPFF</span><span class="topo-inside">DLGELKLWSFW</span><span class="topo-membrane">RAAIAEFIATLLFLYITVATV</span><span class="topo-outside">IGHSKETVVCGSVGL</span><span class="topo-membrane">LGIAWAFGGMIFVLVYCTA</span><span class="topo-inside">GIS</span><span class="topo-unknown">GGHINPAVTFGLFLA</span><span class="topo-inside">RKVSL</span><span class="topo-membrane">LRAL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">VYMIAQCLGAICGVGLVKAF</span><span class="topo-outside">M</span><span class="topo-unknown">KGPYNQF</span><span class="topo-outside">GGGANSVALGYNK</span><span class="topo-membrane">GTALGAEIIGTFVLVYTVFSA</span><span class="topo-inside">TDP</span><span class="topo-unknown">KRSARDSHVPIL</span><span class="topo-inside">A</span><span class="topo-membrane">PLPIGFAVFMVHLATI</span><span class="topo-outside">PI</span><span class="topo-unknown">TGTGINPARSFGAAVI</span><span class="topo-outside">FNSNKVWD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300   </span>
+<span class="topo-line"><span class="topo-outside">D</span><span class="topo-membrane">QWIFWVGPFIGAAVAAAYHQY</span><span class="topo-inside">V</span><span class="topo-unknown">LRAAAIKALGSFRSNPTNLEQKLISEEDLNSAVDHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (23 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1224,6 +1239,7 @@ SoPIP2;1 is a plasma membrane intrinsic protein (PIP) from spinach (Spinacia ole
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1239,12 +1255,13 @@ SoPIP2;1 is a plasma membrane intrinsic protein (PIP) from spinach (Spinacia ole
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSKEVSEEAQAHQHGKDYVDPPPAPFF</span><span class="topo-inside">DLGELKLWSFW</span><span class="topo-membrane">RAAIAEFIATLLFLYITVATV</span><span class="topo-outside">I</span></span>
-<span class="topo-line"><span class="topo-outside">GHSKETVVCGSVGL</span><span class="topo-membrane">LGIAWAFGGMIFVLVYCTA</span><span class="topo-inside">GIS</span><span class="topo-unknown">GGHINPAVTFGLFLA</span><span class="topo-inside">RKVSL</span><span class="topo-membrane">LRAL</span></span>
-<span class="topo-line"><span class="topo-membrane">VYMIAQCLGAICGVGLVKAF</span><span class="topo-unknown">MKGPYNQ</span><span class="topo-outside">FGGGANSVALGYNK</span><span class="topo-membrane">GTALGAEIIGTFVLVYTVF</span></span>
-<span class="topo-line"><span class="topo-membrane">SA</span><span class="topo-inside">TDPK</span><span class="topo-unknown">RSARDSHVP</span><span class="topo-inside">IL</span><span class="topo-membrane">APLPIGFAVFMVHLATI</span><span class="topo-outside">PI</span><span class="topo-unknown">TGTGINPARSFGAAVIF</span><span class="topo-outside">NSNKVWD</span></span>
-<span class="topo-line"><span class="topo-outside">D</span><span class="topo-membrane">QWIFWVGPFIGAAVAAAYHQYV</span><span class="topo-unknown">LRAAAIKALGSFRSNPTNLEQKLISEEDLNSAVDHHH</span></span>
-<span class="topo-line"><span class="topo-unknown">HHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSKEVSEEAQAHQHGKDYVDPPPAPFF</span><span class="topo-inside">DLGELKLWSFW</span><span class="topo-membrane">RAAIAEFIATLLFLYITVATV</span><span class="topo-outside">IGHSKETVVCGSVGL</span><span class="topo-membrane">LGIAWAFGGMIFVLVYCTA</span><span class="topo-inside">GIS</span><span class="topo-unknown">GGHINPAVTFGLFLA</span><span class="topo-inside">RKVSL</span><span class="topo-membrane">LRAL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">VYMIAQCLGAICGVGLVKAF</span><span class="topo-unknown">MKGPYNQ</span><span class="topo-outside">FGGGANSVALGYNK</span><span class="topo-membrane">GTALGAEIIGTFVLVYTVFSA</span><span class="topo-inside">TDPK</span><span class="topo-unknown">RSARDSHVP</span><span class="topo-inside">IL</span><span class="topo-membrane">APLPIGFAVFMVHLATI</span><span class="topo-outside">PI</span><span class="topo-unknown">TGTGINPARSFGAAVIF</span><span class="topo-outside">NSNKVWD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300   </span>
+<span class="topo-line"><span class="topo-outside">D</span><span class="topo-membrane">QWIFWVGPFIGAAVAAAYHQYV</span><span class="topo-unknown">LRAAAIKALGSFRSNPTNLEQKLISEEDLNSAVDHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1403,6 +1420,7 @@ SoPIP2;1 is a plasma membrane intrinsic protein (PIP) from spinach (Spinacia ole
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1418,12 +1436,13 @@ SoPIP2;1 is a plasma membrane intrinsic protein (PIP) from spinach (Spinacia ole
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSKEVSEEAQAHQHGKDYVDPPPAPFF</span><span class="topo-inside">DLGELKLWSFW</span><span class="topo-membrane">RAAIAEFIATLLFLYITVATV</span><span class="topo-outside">I</span></span>
-<span class="topo-line"><span class="topo-outside">GHSKETVVCGSVGL</span><span class="topo-membrane">LGIAWAFGGMIFVLVYCTA</span><span class="topo-inside">GIS</span><span class="topo-unknown">GGHINPAVTFGLFL</span><span class="topo-inside">ARKVSL</span><span class="topo-membrane">LRAL</span></span>
-<span class="topo-line"><span class="topo-membrane">VYMIAQCLGAICGVGLVKAF</span><span class="topo-outside">MKGPYNQFGGGANSVALGYNK</span><span class="topo-membrane">GTALGAEIIGTFVLVYTVF</span></span>
-<span class="topo-line"><span class="topo-membrane">SA</span><span class="topo-inside">TDPK</span><span class="topo-unknown">RSARDS</span><span class="topo-inside">HVPIL</span><span class="topo-membrane">APLPIGFAVFMVHLATI</span><span class="topo-outside">PI</span><span class="topo-unknown">TGTGINPARSFGAAVIF</span><span class="topo-outside">NSNKVW</span><span class="topo-membrane">D</span></span>
-<span class="topo-line"><span class="topo-membrane">DQWIFWVGPFIGAAVAAAYHQY</span><span class="topo-inside">V</span><span class="topo-unknown">LRAAAIKALGSFRSNPTNLEQKLISEEDLNSAVDHHH</span></span>
-<span class="topo-line"><span class="topo-unknown">HHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSKEVSEEAQAHQHGKDYVDPPPAPFF</span><span class="topo-inside">DLGELKLWSFW</span><span class="topo-membrane">RAAIAEFIATLLFLYITVATV</span><span class="topo-outside">IGHSKETVVCGSVGL</span><span class="topo-membrane">LGIAWAFGGMIFVLVYCTA</span><span class="topo-inside">GIS</span><span class="topo-unknown">GGHINPAVTFGLFL</span><span class="topo-inside">ARKVSL</span><span class="topo-membrane">LRAL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">VYMIAQCLGAICGVGLVKAF</span><span class="topo-outside">MKGPYNQFGGGANSVALGYNK</span><span class="topo-membrane">GTALGAEIIGTFVLVYTVFSA</span><span class="topo-inside">TDPK</span><span class="topo-unknown">RSARDS</span><span class="topo-inside">HVPIL</span><span class="topo-membrane">APLPIGFAVFMVHLATI</span><span class="topo-outside">PI</span><span class="topo-unknown">TGTGINPARSFGAAVIF</span><span class="topo-outside">NSNKVW</span><span class="topo-membrane">D</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300   </span>
+<span class="topo-line"><span class="topo-membrane">DQWIFWVGPFIGAAVAAAYHQY</span><span class="topo-inside">V</span><span class="topo-unknown">LRAAAIKALGSFRSNPTNLEQKLISEEDLNSAVDHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1582,6 +1601,7 @@ SoPIP2;1 is a plasma membrane intrinsic protein (PIP) from spinach (Spinacia ole
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1712,11 +1732,13 @@ SoPIP2;1 is a plasma membrane intrinsic protein (PIP) from spinach (Spinacia ole
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSHHHHHHSSGLVPRGSHMMSKEVSEEAQAHQHGKDYVDPPPAPF</span><span class="topo-outside">FDLGELKLWSFWRA</span><span class="topo-membrane">A</span></span>
-<span class="topo-line"><span class="topo-membrane">IAEFIATLLFLYITVAT</span><span class="topo-inside">VIGHSKETVVCGSVGLL</span><span class="topo-membrane">GIAWAFGGMIFVLVYCTA</span><span class="topo-outside">GIS</span><span class="topo-unknown">GGHIN</span></span>
-<span class="topo-line"><span class="topo-unknown">PAVTFGLFL</span><span class="topo-outside">ARKVELLR</span><span class="topo-membrane">ALVYMIAQCLGAICGVGLV</span><span class="topo-inside">KAFM</span><span class="topo-unknown">KGPYNQ</span><span class="topo-inside">FGGGANSVALGYNK</span></span>
-<span class="topo-line"><span class="topo-inside">G</span><span class="topo-membrane">TALGAEIIGTFVLVYTVFSA</span><span class="topo-outside">TDPKRSARDSHVPIL</span><span class="topo-membrane">APLPIGFAVFMVHLATI</span><span class="topo-inside">PITG</span><span class="topo-unknown">TGI</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSHHHHHHSSGLVPRGSHMMSKEVSEEAQAHQHGKDYVDPPPAPF</span><span class="topo-outside">FDLGELKLWSFWRA</span><span class="topo-membrane">AIAEFIATLLFLYITVAT</span><span class="topo-inside">VIGHSKETVVCGSVGLL</span><span class="topo-membrane">GIAWAFGGMIFVLVYCTA</span><span class="topo-outside">GIS</span><span class="topo-unknown">GGHIN</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-unknown">PAVTFGLFL</span><span class="topo-outside">ARKVELLR</span><span class="topo-membrane">ALVYMIAQCLGAICGVGLV</span><span class="topo-inside">KAFM</span><span class="topo-unknown">KGPYNQ</span><span class="topo-inside">FGGGANSVALGYNKG</span><span class="topo-membrane">TALGAEIIGTFVLVYTVFSA</span><span class="topo-outside">TDPKRSARDSHVPIL</span><span class="topo-membrane">APLPIGFAVFMVHLATI</span><span class="topo-inside">PITG</span><span class="topo-unknown">TGI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300</span>
 <span class="topo-line"><span class="topo-unknown">NPARSFGAAVI</span><span class="topo-inside">FNSNKVWDDQ</span><span class="topo-membrane">WIFWVGPFIGAAVAAAYH</span><span class="topo-outside">QYVLRAA</span><span class="topo-unknown">AIKALGSFRSNPTN</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1875,6 +1897,7 @@ SoPIP2;1 is a plasma membrane intrinsic protein (PIP) from spinach (Spinacia ole
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1890,11 +1913,13 @@ SoPIP2;1 is a plasma membrane intrinsic protein (PIP) from spinach (Spinacia ole
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSHHHHHHSSGLVPRGSHMMSKEVSEEAQAHQHGKDYVDPPPAPF</span><span class="topo-outside">FDLGELKLWSFWRA</span><span class="topo-membrane">A</span></span>
-<span class="topo-line"><span class="topo-membrane">IAEFIATLLFLYITVAT</span><span class="topo-inside">VIGHSKETVVCGSVGLL</span><span class="topo-membrane">GIAWAFGGMIFVLVYCTA</span><span class="topo-outside">GIS</span><span class="topo-unknown">GGHIN</span></span>
-<span class="topo-line"><span class="topo-unknown">PAVTFGLFL</span><span class="topo-outside">ARKVELLR</span><span class="topo-membrane">ALVYMIAQCLGAICGVGLV</span><span class="topo-inside">KAFM</span><span class="topo-unknown">KGPYNQ</span><span class="topo-inside">FGGGANSVALGYNK</span></span>
-<span class="topo-line"><span class="topo-inside">G</span><span class="topo-membrane">TALGAEIIGTFVLVYTVFSA</span><span class="topo-outside">TDPKRSARDSHVPIL</span><span class="topo-membrane">APLPIGFAVFMVHLATI</span><span class="topo-inside">PITG</span><span class="topo-unknown">TGI</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSHHHHHHSSGLVPRGSHMMSKEVSEEAQAHQHGKDYVDPPPAPF</span><span class="topo-outside">FDLGELKLWSFWRA</span><span class="topo-membrane">AIAEFIATLLFLYITVAT</span><span class="topo-inside">VIGHSKETVVCGSVGLL</span><span class="topo-membrane">GIAWAFGGMIFVLVYCTA</span><span class="topo-outside">GIS</span><span class="topo-unknown">GGHIN</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-unknown">PAVTFGLFL</span><span class="topo-outside">ARKVELLR</span><span class="topo-membrane">ALVYMIAQCLGAICGVGLV</span><span class="topo-inside">KAFM</span><span class="topo-unknown">KGPYNQ</span><span class="topo-inside">FGGGANSVALGYNKG</span><span class="topo-membrane">TALGAEIIGTFVLVYTVFSA</span><span class="topo-outside">TDPKRSARDSHVPIL</span><span class="topo-membrane">APLPIGFAVFMVHLATI</span><span class="topo-inside">PITG</span><span class="topo-unknown">TGI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300</span>
 <span class="topo-line"><span class="topo-unknown">NPARSFGAAVI</span><span class="topo-inside">FNSNKVWDDQ</span><span class="topo-membrane">WIFWVGPFIGAAVAAAYH</span><span class="topo-outside">QYVLRAA</span><span class="topo-unknown">AIKALGSFRSNPTN</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2053,6 +2078,7 @@ SoPIP2;1 is a plasma membrane intrinsic protein (PIP) from spinach (Spinacia ole
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2068,11 +2094,13 @@ SoPIP2;1 is a plasma membrane intrinsic protein (PIP) from spinach (Spinacia ole
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSHHHHHHSSGLVPRGSHMMSKEVSEEAQAHQHGKDYVDPPPAPF</span><span class="topo-outside">FDLGELKLWSFWRA</span><span class="topo-membrane">A</span></span>
-<span class="topo-line"><span class="topo-membrane">IAEFIATLLFLYITVAT</span><span class="topo-inside">VIGHSKETVVCGSVGLL</span><span class="topo-membrane">GIAWAFGGMIFVLVYCTA</span><span class="topo-outside">GIS</span><span class="topo-unknown">GGHIN</span></span>
-<span class="topo-line"><span class="topo-unknown">PAVTFGLFL</span><span class="topo-outside">ARKVELLR</span><span class="topo-membrane">ALVYMIAQCLGAICGVGLV</span><span class="topo-inside">KAFM</span><span class="topo-unknown">KGPYNQ</span><span class="topo-inside">FGGGANSVALGYNK</span></span>
-<span class="topo-line"><span class="topo-inside">G</span><span class="topo-membrane">TALGAEIIGTFVLVYTVFSA</span><span class="topo-outside">TDPKRSARDSHVPIL</span><span class="topo-membrane">APLPIGFAVFMVHLATI</span><span class="topo-inside">PITG</span><span class="topo-unknown">TGI</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSHHHHHHSSGLVPRGSHMMSKEVSEEAQAHQHGKDYVDPPPAPF</span><span class="topo-outside">FDLGELKLWSFWRA</span><span class="topo-membrane">AIAEFIATLLFLYITVAT</span><span class="topo-inside">VIGHSKETVVCGSVGLL</span><span class="topo-membrane">GIAWAFGGMIFVLVYCTA</span><span class="topo-outside">GIS</span><span class="topo-unknown">GGHIN</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-unknown">PAVTFGLFL</span><span class="topo-outside">ARKVELLR</span><span class="topo-membrane">ALVYMIAQCLGAICGVGLV</span><span class="topo-inside">KAFM</span><span class="topo-unknown">KGPYNQ</span><span class="topo-inside">FGGGANSVALGYNKG</span><span class="topo-membrane">TALGAEIIGTFVLVYTVFSA</span><span class="topo-outside">TDPKRSARDSHVPIL</span><span class="topo-membrane">APLPIGFAVFMVHLATI</span><span class="topo-inside">PITG</span><span class="topo-unknown">TGI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300</span>
 <span class="topo-line"><span class="topo-unknown">NPARSFGAAVI</span><span class="topo-inside">FNSNKVWDDQ</span><span class="topo-membrane">WIFWVGPFIGAAVAAAYH</span><span class="topo-outside">QYVLRAA</span><span class="topo-unknown">AIKALGSFRSNPTN</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2231,6 +2259,7 @@ SoPIP2;1 is a plasma membrane intrinsic protein (PIP) from spinach (Spinacia ole
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2246,11 +2275,13 @@ SoPIP2;1 is a plasma membrane intrinsic protein (PIP) from spinach (Spinacia ole
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSHHHHHHSSGLVPRGSHMMSKEVSEEAQAHQHGKDYVDPPPAPF</span><span class="topo-outside">FDLGELKLWSFWRA</span><span class="topo-membrane">A</span></span>
-<span class="topo-line"><span class="topo-membrane">IAEFIATLLFLYITVAT</span><span class="topo-inside">VIGHSKETVVCGSVGLL</span><span class="topo-membrane">GIAWAFGGMIFVLVYCTA</span><span class="topo-outside">GIS</span><span class="topo-unknown">GGHIN</span></span>
-<span class="topo-line"><span class="topo-unknown">PAVTFGLFL</span><span class="topo-outside">ARKVELLR</span><span class="topo-membrane">ALVYMIAQCLGAICGVGLV</span><span class="topo-inside">KAFM</span><span class="topo-unknown">KGPYNQ</span><span class="topo-inside">FGGGANSVALGYNK</span></span>
-<span class="topo-line"><span class="topo-inside">G</span><span class="topo-membrane">TALGAEIIGTFVLVYTVFSA</span><span class="topo-outside">TDPKRSARDSHVPIL</span><span class="topo-membrane">APLPIGFAVFMVHLATI</span><span class="topo-inside">PITG</span><span class="topo-unknown">TGI</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSHHHHHHSSGLVPRGSHMMSKEVSEEAQAHQHGKDYVDPPPAPF</span><span class="topo-outside">FDLGELKLWSFWRA</span><span class="topo-membrane">AIAEFIATLLFLYITVAT</span><span class="topo-inside">VIGHSKETVVCGSVGLL</span><span class="topo-membrane">GIAWAFGGMIFVLVYCTA</span><span class="topo-outside">GIS</span><span class="topo-unknown">GGHIN</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-unknown">PAVTFGLFL</span><span class="topo-outside">ARKVELLR</span><span class="topo-membrane">ALVYMIAQCLGAICGVGLV</span><span class="topo-inside">KAFM</span><span class="topo-unknown">KGPYNQ</span><span class="topo-inside">FGGGANSVALGYNKG</span><span class="topo-membrane">TALGAEIIGTFVLVYTVFSA</span><span class="topo-outside">TDPKRSARDSHVPIL</span><span class="topo-membrane">APLPIGFAVFMVHLATI</span><span class="topo-inside">PITG</span><span class="topo-unknown">TGI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300</span>
 <span class="topo-line"><span class="topo-unknown">NPARSFGAAVI</span><span class="topo-inside">FNSNKVWDDQ</span><span class="topo-membrane">WIFWVGPFIGAAVAAAYH</span><span class="topo-outside">QYVLRAA</span><span class="topo-unknown">AIKALGSFRSNPTN</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2409,6 +2440,7 @@ SoPIP2;1 is a plasma membrane intrinsic protein (PIP) from spinach (Spinacia ole
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2424,12 +2456,13 @@ SoPIP2;1 is a plasma membrane intrinsic protein (PIP) from spinach (Spinacia ole
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSHHHHHHSSGLVPRGSHMLEDLMSKEVSEEAQAHQHGKDYVDPPPAPFFDLGE</span><span class="topo-outside">LKLWSF</span></span>
-<span class="topo-line"><span class="topo-outside">WRA</span><span class="topo-membrane">AIAEFIATLLFLYITVAT</span><span class="topo-inside">VIGHSKETVVCGSVGLL</span><span class="topo-membrane">GIAWAFGGMIFVLVYCTA</span><span class="topo-outside">GIS</span><span class="topo-unknown">G</span></span>
-<span class="topo-line"><span class="topo-unknown">GHINPAVTFGLFL</span><span class="topo-outside">ARKVELLR</span><span class="topo-membrane">ALVYMIAQCLGAICGVGLV</span><span class="topo-inside">KAFM</span><span class="topo-unknown">KGPYNQ</span><span class="topo-inside">FGGGANSVAL</span></span>
-<span class="topo-line"><span class="topo-inside">GYNKG</span><span class="topo-membrane">TALGAEIIGTFVLVYTVFSA</span><span class="topo-outside">TDPKRSARDSHVPIL</span><span class="topo-membrane">APLPIGFAVFMVHLATI</span><span class="topo-inside">PIT</span></span>
-<span class="topo-line"><span class="topo-unknown">GTGINPARSFGAAVI</span><span class="topo-inside">FNSNKVWDDQ</span><span class="topo-membrane">WIFWVGPFIGAAVAAAYH</span><span class="topo-outside">QYVLRAAA</span><span class="topo-unknown">IKALGEFRS</span></span>
-<span class="topo-line"><span class="topo-unknown">NPTN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSHHHHHHSSGLVPRGSHMLEDLMSKEVSEEAQAHQHGKDYVDPPPAPFFDLGE</span><span class="topo-outside">LKLWSFWRA</span><span class="topo-membrane">AIAEFIATLLFLYITVAT</span><span class="topo-inside">VIGHSKETVVCGSVGLL</span><span class="topo-membrane">GIAWAFGGMIFVLVYCTA</span><span class="topo-outside">GIS</span><span class="topo-unknown">G</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-unknown">GHINPAVTFGLFL</span><span class="topo-outside">ARKVELLR</span><span class="topo-membrane">ALVYMIAQCLGAICGVGLV</span><span class="topo-inside">KAFM</span><span class="topo-unknown">KGPYNQ</span><span class="topo-inside">FGGGANSVALGYNKG</span><span class="topo-membrane">TALGAEIIGTFVLVYTVFSA</span><span class="topo-outside">TDPKRSARDSHVPIL</span><span class="topo-membrane">APLPIGFAVFMVHLATI</span><span class="topo-inside">PIT</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300    </span>
+<span class="topo-line"><span class="topo-unknown">GTGINPARSFGAAVI</span><span class="topo-inside">FNSNKVWDDQ</span><span class="topo-membrane">WIFWVGPFIGAAVAAAYH</span><span class="topo-outside">QYVLRAAA</span><span class="topo-unknown">IKALGEFRSNPTN</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2588,6 +2621,7 @@ SoPIP2;1 is a plasma membrane intrinsic protein (PIP) from spinach (Spinacia ole
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2603,12 +2637,13 @@ SoPIP2;1 is a plasma membrane intrinsic protein (PIP) from spinach (Spinacia ole
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSHHHHHHSSGLVPRGSHMLEDLMSKEVSEEAQAHQHGKDYVDPPPAPFFDLGE</span><span class="topo-outside">LKLWSF</span></span>
-<span class="topo-line"><span class="topo-outside">WRA</span><span class="topo-membrane">AIAEFIATLLFLYITVAT</span><span class="topo-inside">VIGHSKETVVCGSVGLL</span><span class="topo-membrane">GIAWAFGGMIFVLVYCTA</span><span class="topo-outside">GIS</span><span class="topo-unknown">G</span></span>
-<span class="topo-line"><span class="topo-unknown">GHINPAVTFGLFL</span><span class="topo-outside">ARKVELLR</span><span class="topo-membrane">ALVYMIAQCLGAICGVGLV</span><span class="topo-inside">KAFM</span><span class="topo-unknown">KGPYNQ</span><span class="topo-inside">FGGGANSVAL</span></span>
-<span class="topo-line"><span class="topo-inside">GYNKG</span><span class="topo-membrane">TALGAEIIGTFVLVYTVFSA</span><span class="topo-outside">TDPKRSARDSHVPIL</span><span class="topo-membrane">APLPIGFAVFMVHLATI</span><span class="topo-inside">PIT</span></span>
-<span class="topo-line"><span class="topo-unknown">GTGINPARSFGAAVI</span><span class="topo-inside">FNSNKVWDDQ</span><span class="topo-membrane">WIFWVGPFIGAAVAAAYH</span><span class="topo-outside">QYVLRAAA</span><span class="topo-unknown">IKALGEFRS</span></span>
-<span class="topo-line"><span class="topo-unknown">NPTN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSHHHHHHSSGLVPRGSHMLEDLMSKEVSEEAQAHQHGKDYVDPPPAPFFDLGE</span><span class="topo-outside">LKLWSFWRA</span><span class="topo-membrane">AIAEFIATLLFLYITVAT</span><span class="topo-inside">VIGHSKETVVCGSVGLL</span><span class="topo-membrane">GIAWAFGGMIFVLVYCTA</span><span class="topo-outside">GIS</span><span class="topo-unknown">G</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-unknown">GHINPAVTFGLFL</span><span class="topo-outside">ARKVELLR</span><span class="topo-membrane">ALVYMIAQCLGAICGVGLV</span><span class="topo-inside">KAFM</span><span class="topo-unknown">KGPYNQ</span><span class="topo-inside">FGGGANSVALGYNKG</span><span class="topo-membrane">TALGAEIIGTFVLVYTVFSA</span><span class="topo-outside">TDPKRSARDSHVPIL</span><span class="topo-membrane">APLPIGFAVFMVHLATI</span><span class="topo-inside">PIT</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300    </span>
+<span class="topo-line"><span class="topo-unknown">GTGINPARSFGAAVI</span><span class="topo-inside">FNSNKVWDDQ</span><span class="topo-membrane">WIFWVGPFIGAAVAAAYH</span><span class="topo-outside">QYVLRAAA</span><span class="topo-unknown">IKALGEFRSNPTN</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2767,6 +2802,7 @@ SoPIP2;1 is a plasma membrane intrinsic protein (PIP) from spinach (Spinacia ole
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2782,12 +2818,13 @@ SoPIP2;1 is a plasma membrane intrinsic protein (PIP) from spinach (Spinacia ole
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSHHHHHHSSGLVPRGSHMLEDLMSKEVSEEAQAHQHGKDYVDPPPAPFFDLGE</span><span class="topo-outside">LKLWSF</span></span>
-<span class="topo-line"><span class="topo-outside">WRA</span><span class="topo-membrane">AIAEFIATLLFLYITVAT</span><span class="topo-inside">VIGHSKETVVCGSVGLL</span><span class="topo-membrane">GIAWAFGGMIFVLVYCTA</span><span class="topo-outside">GIS</span><span class="topo-unknown">G</span></span>
-<span class="topo-line"><span class="topo-unknown">GHINPAVTFGLFL</span><span class="topo-outside">ARKVELLR</span><span class="topo-membrane">ALVYMIAQCLGAICGVGLV</span><span class="topo-inside">KAFM</span><span class="topo-unknown">KGPYNQ</span><span class="topo-inside">FGGGANSVAL</span></span>
-<span class="topo-line"><span class="topo-inside">GYNKG</span><span class="topo-membrane">TALGAEIIGTFVLVYTVFSA</span><span class="topo-outside">TDPKRSARDSHVPIL</span><span class="topo-membrane">APLPIGFAVFMVHLATI</span><span class="topo-inside">PIT</span></span>
-<span class="topo-line"><span class="topo-unknown">GTGINPARSFGAAVI</span><span class="topo-inside">FNSNKVWDDQ</span><span class="topo-membrane">WIFWVGPFIGAAVAAAYH</span><span class="topo-outside">QYVLRAAA</span><span class="topo-unknown">IKALGEFRS</span></span>
-<span class="topo-line"><span class="topo-unknown">NPTN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSHHHHHHSSGLVPRGSHMLEDLMSKEVSEEAQAHQHGKDYVDPPPAPFFDLGE</span><span class="topo-outside">LKLWSFWRA</span><span class="topo-membrane">AIAEFIATLLFLYITVAT</span><span class="topo-inside">VIGHSKETVVCGSVGLL</span><span class="topo-membrane">GIAWAFGGMIFVLVYCTA</span><span class="topo-outside">GIS</span><span class="topo-unknown">G</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-unknown">GHINPAVTFGLFL</span><span class="topo-outside">ARKVELLR</span><span class="topo-membrane">ALVYMIAQCLGAICGVGLV</span><span class="topo-inside">KAFM</span><span class="topo-unknown">KGPYNQ</span><span class="topo-inside">FGGGANSVALGYNKG</span><span class="topo-membrane">TALGAEIIGTFVLVYTVFSA</span><span class="topo-outside">TDPKRSARDSHVPIL</span><span class="topo-membrane">APLPIGFAVFMVHLATI</span><span class="topo-inside">PIT</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300    </span>
+<span class="topo-line"><span class="topo-unknown">GTGINPARSFGAAVI</span><span class="topo-inside">FNSNKVWDDQ</span><span class="topo-membrane">WIFWVGPFIGAAVAAAYH</span><span class="topo-outside">QYVLRAAA</span><span class="topo-unknown">IKALGEFRSNPTN</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2946,6 +2983,7 @@ SoPIP2;1 is a plasma membrane intrinsic protein (PIP) from spinach (Spinacia ole
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2961,12 +2999,13 @@ SoPIP2;1 is a plasma membrane intrinsic protein (PIP) from spinach (Spinacia ole
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSHHHHHHSSGLVPRGSHMLEDLMSKEVSEEAQAHQHGKDYVDPPPAPFFDLGE</span><span class="topo-outside">LKLWSF</span></span>
-<span class="topo-line"><span class="topo-outside">WRA</span><span class="topo-membrane">AIAEFIATLLFLYITVAT</span><span class="topo-inside">VIGHSKETVVCGSVGLL</span><span class="topo-membrane">GIAWAFGGMIFVLVYCTA</span><span class="topo-outside">GIS</span><span class="topo-unknown">G</span></span>
-<span class="topo-line"><span class="topo-unknown">GHINPAVTFGLFL</span><span class="topo-outside">ARKVELLR</span><span class="topo-membrane">ALVYMIAQCLGAICGVGLV</span><span class="topo-inside">KAFM</span><span class="topo-unknown">KGPYNQ</span><span class="topo-inside">FGGGANSVAL</span></span>
-<span class="topo-line"><span class="topo-inside">GYNKG</span><span class="topo-membrane">TALGAEIIGTFVLVYTVFSA</span><span class="topo-outside">TDPKRSARDSHVPIL</span><span class="topo-membrane">APLPIGFAVFMVHLATI</span><span class="topo-inside">PIT</span></span>
-<span class="topo-line"><span class="topo-unknown">GTGINPARSFGAAVI</span><span class="topo-inside">FNSNKVWDDQ</span><span class="topo-membrane">WIFWVGPFIGAAVAAAYH</span><span class="topo-outside">QYVLRAAA</span><span class="topo-unknown">IKALGEFRS</span></span>
-<span class="topo-line"><span class="topo-unknown">NPTN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSHHHHHHSSGLVPRGSHMLEDLMSKEVSEEAQAHQHGKDYVDPPPAPFFDLGE</span><span class="topo-outside">LKLWSFWRA</span><span class="topo-membrane">AIAEFIATLLFLYITVAT</span><span class="topo-inside">VIGHSKETVVCGSVGLL</span><span class="topo-membrane">GIAWAFGGMIFVLVYCTA</span><span class="topo-outside">GIS</span><span class="topo-unknown">G</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-unknown">GHINPAVTFGLFL</span><span class="topo-outside">ARKVELLR</span><span class="topo-membrane">ALVYMIAQCLGAICGVGLV</span><span class="topo-inside">KAFM</span><span class="topo-unknown">KGPYNQ</span><span class="topo-inside">FGGGANSVALGYNKG</span><span class="topo-membrane">TALGAEIIGTFVLVYTVFSA</span><span class="topo-outside">TDPKRSARDSHVPIL</span><span class="topo-membrane">APLPIGFAVFMVHLATI</span><span class="topo-inside">PIT</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300    </span>
+<span class="topo-line"><span class="topo-unknown">GTGINPARSFGAAVI</span><span class="topo-inside">FNSNKVWDDQ</span><span class="topo-membrane">WIFWVGPFIGAAVAAAYH</span><span class="topo-outside">QYVLRAAA</span><span class="topo-unknown">IKALGEFRSNPTN</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3125,6 +3164,7 @@ SoPIP2;1 is a plasma membrane intrinsic protein (PIP) from spinach (Spinacia ole
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3140,12 +3180,13 @@ SoPIP2;1 is a plasma membrane intrinsic protein (PIP) from spinach (Spinacia ole
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSHHHHHHSSGLVPRGSHMLEDLMSKEVSEEAQAHQHGKDYVDPPP</span><span class="topo-outside">APFFDLGELKLWSF</span></span>
-<span class="topo-line"><span class="topo-outside">WRA</span><span class="topo-membrane">AIAEFIATLLFLYITVAT</span><span class="topo-inside">VIGHSKETVVCGSVGLL</span><span class="topo-membrane">GIAWAFGGMIFVLVYCTA</span><span class="topo-outside">GIS</span><span class="topo-unknown">G</span></span>
-<span class="topo-line"><span class="topo-unknown">GHINPAVTFGLFL</span><span class="topo-outside">ARKVSLLR</span><span class="topo-membrane">ALVYMIAQCLGAICGVGLV</span><span class="topo-inside">KAFM</span><span class="topo-unknown">KGPYNQ</span><span class="topo-inside">FGGGANSVAL</span></span>
-<span class="topo-line"><span class="topo-inside">GYNKG</span><span class="topo-membrane">TALGAEIIGTFVLVYTVFSA</span><span class="topo-outside">TDPKRSARDSHVPIL</span><span class="topo-membrane">APLPIGFAVFMVHLATI</span><span class="topo-inside">PIT</span></span>
-<span class="topo-line"><span class="topo-inside">G</span><span class="topo-unknown">TGINPARSFGAAVI</span><span class="topo-inside">FNSNKVWDDQ</span><span class="topo-membrane">WIFWVGPFIGAAVAAAYH</span><span class="topo-outside">QYVLRA</span><span class="topo-unknown">AAIKALGEFRS</span></span>
-<span class="topo-line"><span class="topo-unknown">NPTN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSHHHHHHSSGLVPRGSHMLEDLMSKEVSEEAQAHQHGKDYVDPPP</span><span class="topo-outside">APFFDLGELKLWSFWRA</span><span class="topo-membrane">AIAEFIATLLFLYITVAT</span><span class="topo-inside">VIGHSKETVVCGSVGLL</span><span class="topo-membrane">GIAWAFGGMIFVLVYCTA</span><span class="topo-outside">GIS</span><span class="topo-unknown">G</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-unknown">GHINPAVTFGLFL</span><span class="topo-outside">ARKVSLLR</span><span class="topo-membrane">ALVYMIAQCLGAICGVGLV</span><span class="topo-inside">KAFM</span><span class="topo-unknown">KGPYNQ</span><span class="topo-inside">FGGGANSVALGYNKG</span><span class="topo-membrane">TALGAEIIGTFVLVYTVFSA</span><span class="topo-outside">TDPKRSARDSHVPIL</span><span class="topo-membrane">APLPIGFAVFMVHLATI</span><span class="topo-inside">PIT</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300    </span>
+<span class="topo-line"><span class="topo-inside">G</span><span class="topo-unknown">TGINPARSFGAAVI</span><span class="topo-inside">FNSNKVWDDQ</span><span class="topo-membrane">WIFWVGPFIGAAVAAAYH</span><span class="topo-outside">QYVLRA</span><span class="topo-unknown">AAIKALGEFRSNPTN</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3304,6 +3345,7 @@ SoPIP2;1 is a plasma membrane intrinsic protein (PIP) from spinach (Spinacia ole
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3319,12 +3361,13 @@ SoPIP2;1 is a plasma membrane intrinsic protein (PIP) from spinach (Spinacia ole
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSHHHHHHSSGLVPRGSHMLEDLMSKEVSEEAQAHQHGKDYVDPPP</span><span class="topo-outside">APFFDLGELKLWSF</span></span>
-<span class="topo-line"><span class="topo-outside">WRA</span><span class="topo-membrane">AIAEFIATLLFLYITVAT</span><span class="topo-inside">VIGHSKETVVCGSVGLL</span><span class="topo-membrane">GIAWAFGGMIFVLVYCTA</span><span class="topo-outside">GIS</span><span class="topo-unknown">G</span></span>
-<span class="topo-line"><span class="topo-unknown">GHINPAVTFGLFL</span><span class="topo-outside">ARKVSLLR</span><span class="topo-membrane">ALVYMIAQCLGAICGVGLV</span><span class="topo-inside">KAFM</span><span class="topo-unknown">KGPYNQ</span><span class="topo-inside">FGGGANSVAL</span></span>
-<span class="topo-line"><span class="topo-inside">GYNKG</span><span class="topo-membrane">TALGAEIIGTFVLVYTVFSA</span><span class="topo-outside">TDPKRSARDSHVPIL</span><span class="topo-membrane">APLPIGFAVFMVHLATI</span><span class="topo-inside">PIT</span></span>
-<span class="topo-line"><span class="topo-inside">G</span><span class="topo-unknown">TGINPARSFGAAVI</span><span class="topo-inside">FNSNKVWDDQ</span><span class="topo-membrane">WIFWVGPFIGAAVAAAYH</span><span class="topo-outside">QYVLRA</span><span class="topo-unknown">AAIKALGEFRS</span></span>
-<span class="topo-line"><span class="topo-unknown">NPTN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSHHHHHHSSGLVPRGSHMLEDLMSKEVSEEAQAHQHGKDYVDPPP</span><span class="topo-outside">APFFDLGELKLWSFWRA</span><span class="topo-membrane">AIAEFIATLLFLYITVAT</span><span class="topo-inside">VIGHSKETVVCGSVGLL</span><span class="topo-membrane">GIAWAFGGMIFVLVYCTA</span><span class="topo-outside">GIS</span><span class="topo-unknown">G</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-unknown">GHINPAVTFGLFL</span><span class="topo-outside">ARKVSLLR</span><span class="topo-membrane">ALVYMIAQCLGAICGVGLV</span><span class="topo-inside">KAFM</span><span class="topo-unknown">KGPYNQ</span><span class="topo-inside">FGGGANSVALGYNKG</span><span class="topo-membrane">TALGAEIIGTFVLVYTVFSA</span><span class="topo-outside">TDPKRSARDSHVPIL</span><span class="topo-membrane">APLPIGFAVFMVHLATI</span><span class="topo-inside">PIT</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300    </span>
+<span class="topo-line"><span class="topo-inside">G</span><span class="topo-unknown">TGINPARSFGAAVI</span><span class="topo-inside">FNSNKVWDDQ</span><span class="topo-membrane">WIFWVGPFIGAAVAAAYH</span><span class="topo-outside">QYVLRA</span><span class="topo-unknown">AAIKALGEFRSNPTN</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3483,6 +3526,7 @@ SoPIP2;1 is a plasma membrane intrinsic protein (PIP) from spinach (Spinacia ole
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3498,12 +3542,13 @@ SoPIP2;1 is a plasma membrane intrinsic protein (PIP) from spinach (Spinacia ole
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSHHHHHHSSGLVPRGSHMLEDLMSKEVSEEAQAHQHGKDYVDPPP</span><span class="topo-outside">APFFDLGELKLWSF</span></span>
-<span class="topo-line"><span class="topo-outside">WRA</span><span class="topo-membrane">AIAEFIATLLFLYITVAT</span><span class="topo-inside">VIGHSKETVVCGSVGLL</span><span class="topo-membrane">GIAWAFGGMIFVLVYCTA</span><span class="topo-outside">GIS</span><span class="topo-unknown">G</span></span>
-<span class="topo-line"><span class="topo-unknown">GHINPAVTFGLFL</span><span class="topo-outside">ARKVSLLR</span><span class="topo-membrane">ALVYMIAQCLGAICGVGLV</span><span class="topo-inside">KAFM</span><span class="topo-unknown">KGPYNQ</span><span class="topo-inside">FGGGANSVAL</span></span>
-<span class="topo-line"><span class="topo-inside">GYNKG</span><span class="topo-membrane">TALGAEIIGTFVLVYTVFSA</span><span class="topo-outside">TDPKRSARDSHVPIL</span><span class="topo-membrane">APLPIGFAVFMVHLATI</span><span class="topo-inside">PIT</span></span>
-<span class="topo-line"><span class="topo-inside">G</span><span class="topo-unknown">TGINPARSFGAAVI</span><span class="topo-inside">FNSNKVWDDQ</span><span class="topo-membrane">WIFWVGPFIGAAVAAAYH</span><span class="topo-outside">QYVLRA</span><span class="topo-unknown">AAIKALGEFRS</span></span>
-<span class="topo-line"><span class="topo-unknown">NPTN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSHHHHHHSSGLVPRGSHMLEDLMSKEVSEEAQAHQHGKDYVDPPP</span><span class="topo-outside">APFFDLGELKLWSFWRA</span><span class="topo-membrane">AIAEFIATLLFLYITVAT</span><span class="topo-inside">VIGHSKETVVCGSVGLL</span><span class="topo-membrane">GIAWAFGGMIFVLVYCTA</span><span class="topo-outside">GIS</span><span class="topo-unknown">G</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-unknown">GHINPAVTFGLFL</span><span class="topo-outside">ARKVSLLR</span><span class="topo-membrane">ALVYMIAQCLGAICGVGLV</span><span class="topo-inside">KAFM</span><span class="topo-unknown">KGPYNQ</span><span class="topo-inside">FGGGANSVALGYNKG</span><span class="topo-membrane">TALGAEIIGTFVLVYTVFSA</span><span class="topo-outside">TDPKRSARDSHVPIL</span><span class="topo-membrane">APLPIGFAVFMVHLATI</span><span class="topo-inside">PIT</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300    </span>
+<span class="topo-line"><span class="topo-inside">G</span><span class="topo-unknown">TGINPARSFGAAVI</span><span class="topo-inside">FNSNKVWDDQ</span><span class="topo-membrane">WIFWVGPFIGAAVAAAYH</span><span class="topo-outside">QYVLRA</span><span class="topo-unknown">AAIKALGEFRSNPTN</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3662,6 +3707,7 @@ SoPIP2;1 is a plasma membrane intrinsic protein (PIP) from spinach (Spinacia ole
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3677,12 +3723,13 @@ SoPIP2;1 is a plasma membrane intrinsic protein (PIP) from spinach (Spinacia ole
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSHHHHHHSSGLVPRGSHMLEDLMSKEVSEEAQAHQHGKDYVDPPP</span><span class="topo-outside">APFFDLGELKLWSF</span></span>
-<span class="topo-line"><span class="topo-outside">WRA</span><span class="topo-membrane">AIAEFIATLLFLYITVAT</span><span class="topo-inside">VIGHSKETVVCGSVGLL</span><span class="topo-membrane">GIAWAFGGMIFVLVYCTA</span><span class="topo-outside">GIS</span><span class="topo-unknown">G</span></span>
-<span class="topo-line"><span class="topo-unknown">GHINPAVTFGLFL</span><span class="topo-outside">ARKVSLLR</span><span class="topo-membrane">ALVYMIAQCLGAICGVGLV</span><span class="topo-inside">KAFM</span><span class="topo-unknown">KGPYNQ</span><span class="topo-inside">FGGGANSVAL</span></span>
-<span class="topo-line"><span class="topo-inside">GYNKG</span><span class="topo-membrane">TALGAEIIGTFVLVYTVFSA</span><span class="topo-outside">TDPKRSARDSHVPIL</span><span class="topo-membrane">APLPIGFAVFMVHLATI</span><span class="topo-inside">PIT</span></span>
-<span class="topo-line"><span class="topo-inside">G</span><span class="topo-unknown">TGINPARSFGAAVI</span><span class="topo-inside">FNSNKVWDDQ</span><span class="topo-membrane">WIFWVGPFIGAAVAAAYH</span><span class="topo-outside">QYVLRA</span><span class="topo-unknown">AAIKALGEFRS</span></span>
-<span class="topo-line"><span class="topo-unknown">NPTN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSHHHHHHSSGLVPRGSHMLEDLMSKEVSEEAQAHQHGKDYVDPPP</span><span class="topo-outside">APFFDLGELKLWSFWRA</span><span class="topo-membrane">AIAEFIATLLFLYITVAT</span><span class="topo-inside">VIGHSKETVVCGSVGLL</span><span class="topo-membrane">GIAWAFGGMIFVLVYCTA</span><span class="topo-outside">GIS</span><span class="topo-unknown">G</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-unknown">GHINPAVTFGLFL</span><span class="topo-outside">ARKVSLLR</span><span class="topo-membrane">ALVYMIAQCLGAICGVGLV</span><span class="topo-inside">KAFM</span><span class="topo-unknown">KGPYNQ</span><span class="topo-inside">FGGGANSVALGYNKG</span><span class="topo-membrane">TALGAEIIGTFVLVYTVFSA</span><span class="topo-outside">TDPKRSARDSHVPIL</span><span class="topo-membrane">APLPIGFAVFMVHLATI</span><span class="topo-inside">PIT</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300    </span>
+<span class="topo-line"><span class="topo-inside">G</span><span class="topo-unknown">TGINPARSFGAAVI</span><span class="topo-inside">FNSNKVWDDQ</span><span class="topo-membrane">WIFWVGPFIGAAVAAAYH</span><span class="topo-outside">QYVLRA</span><span class="topo-unknown">AAIKALGEFRSNPTN</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3841,6 +3888,7 @@ SoPIP2;1 is a plasma membrane intrinsic protein (PIP) from spinach (Spinacia ole
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

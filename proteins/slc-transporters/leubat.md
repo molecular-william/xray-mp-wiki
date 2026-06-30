@@ -114,15 +114,17 @@ LeuBAT is an engineered mutant of the bacterial leucine transporter [LEUT](/xray
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MEVK</span><span class="topo-outside">REHWATRLG</span><span class="topo-membrane">LILAMAGYAVDLGNFLRFP</span><span class="topo-inside">VQAAENGGGAF</span><span class="topo-membrane">MIPYIIAFLLVGIPLMW</span></span>
-<span class="topo-line"><span class="topo-membrane">IEW</span><span class="topo-outside">AMGRYGGAQGHGTTPAIFYLLWRNRF</span><span class="topo-membrane">AKILGVFGLWIPLVVASYYVYIESWTLG</span><span class="topo-inside">FAI</span></span>
-<span class="topo-line"><span class="topo-inside">KFLVGLVPEPP</span><span class="topo-unknown">PNA</span><span class="topo-inside">TDPDSILRPFKEFLYSYIGVPKGDEPILKPSLF</span><span class="topo-membrane">AYIVFLITMFINV</span></span>
-<span class="topo-line"><span class="topo-membrane">SILI</span><span class="topo-outside">RGISKG</span><span class="topo-membrane">IERFAKIAMPTLFILAVFLVI</span><span class="topo-inside">RVFLLETPNGT</span><span class="topo-unknown">AADGLNFLW</span><span class="topo-inside">TPDFEKLKD</span></span>
-<span class="topo-line"><span class="topo-inside">PGVW</span><span class="topo-membrane">IAAVGQIFFSLGLGFGVLITF</span><span class="topo-outside">ASYVRKDQDIVLS</span><span class="topo-membrane">GLTAATLNEKASVILGGSI</span><span class="topo-inside">SIP</span></span>
-<span class="topo-line"><span class="topo-inside">AAVAFFGVANAVAIAKA</span><span class="topo-unknown">GAFNLGF</span><span class="topo-inside">I</span><span class="topo-unknown">TLPAIF</span><span class="topo-inside">SQTAGGTFLGF</span><span class="topo-membrane">LWFFLLFFAGLTSSIAGM</span></span>
-<span class="topo-line"><span class="topo-membrane">QGMIAFL</span><span class="topo-outside">EDELKLSRKH</span><span class="topo-membrane">AVLWTAAIVFFSAHLVM</span><span class="topo-inside">FLNKSLDE</span><span class="topo-membrane">MDFWATGIGVVFFGLTEL</span></span>
-<span class="topo-line"><span class="topo-membrane">IIFFW</span><span class="topo-outside">IFG</span><span class="topo-unknown">ADKAWEEIN</span><span class="topo-outside">RGGIIKVPRI</span><span class="topo-membrane">YYYVMRYITPAFLAVLLVVWA</span><span class="topo-inside">REY</span><span class="topo-unknown">IPKIMEE</span><span class="topo-inside">TH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MEVK</span><span class="topo-outside">REHWATRLG</span><span class="topo-membrane">LILAMAGYAVDLGNFLRFP</span><span class="topo-inside">VQAAENGGGAF</span><span class="topo-membrane">MIPYIIAFLLVGIPLMWIEW</span><span class="topo-outside">AMGRYGGAQGHGTTPAIFYLLWRNRF</span><span class="topo-membrane">AKILGVFGLWIPLVVASYYVYIESWTLG</span><span class="topo-inside">FAI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">KFLVGLVPEPP</span><span class="topo-unknown">PNA</span><span class="topo-inside">TDPDSILRPFKEFLYSYIGVPKGDEPILKPSLF</span><span class="topo-membrane">AYIVFLITMFINVSILI</span><span class="topo-outside">RGISKG</span><span class="topo-membrane">IERFAKIAMPTLFILAVFLVI</span><span class="topo-inside">RVFLLETPNGT</span><span class="topo-unknown">AADGLNFLW</span><span class="topo-inside">TPDFEKLKD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">PGVW</span><span class="topo-membrane">IAAVGQIFFSLGLGFGVLITF</span><span class="topo-outside">ASYVRKDQDIVLS</span><span class="topo-membrane">GLTAATLNEKASVILGGSI</span><span class="topo-inside">SIPAAVAFFGVANAVAIAKA</span><span class="topo-unknown">GAFNLGF</span><span class="topo-inside">I</span><span class="topo-unknown">TLPAIF</span><span class="topo-inside">SQTAGGTFLGF</span><span class="topo-membrane">LWFFLLFFAGLTSSIAGM</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">QGMIAFL</span><span class="topo-outside">EDELKLSRKH</span><span class="topo-membrane">AVLWTAAIVFFSAHLVM</span><span class="topo-inside">FLNKSLDE</span><span class="topo-membrane">MDFWATGIGVVFFGLTELIIFFW</span><span class="topo-outside">IFG</span><span class="topo-unknown">ADKAWEEIN</span><span class="topo-outside">RGGIIKVPRI</span><span class="topo-membrane">YYYVMRYITPAFLAVLLVVWA</span><span class="topo-inside">REY</span><span class="topo-unknown">IPKIMEE</span><span class="topo-inside">TH</span></span>
+<span class="topo-ruler">       490       500       510         </span>
 <span class="topo-line"><span class="topo-inside">WTVWI</span><span class="topo-membrane">TRFYIIGLFLFLTFLVF</span><span class="topo-outside">LAERRRNHE</span><span class="topo-unknown">SAGTLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (39 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -407,6 +409,7 @@ LeuBAT is an engineered mutant of the bacterial leucine transporter [LEUT](/xray
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -422,15 +425,17 @@ LeuBAT is an engineered mutant of the bacterial leucine transporter [LEUT](/xray
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MEVK</span><span class="topo-outside">REHWATRLG</span><span class="topo-membrane">LILAMAGYAVDLGNFLRFP</span><span class="topo-inside">VQAAENGGGAF</span><span class="topo-membrane">MIPYIIAFLLVGIPLMW</span></span>
-<span class="topo-line"><span class="topo-membrane">IEW</span><span class="topo-outside">AMGRYGGAQGHGTTPAIFYLLWRNRF</span><span class="topo-membrane">AKILGVFGLWIPLVVASYYVYIESWTLG</span><span class="topo-inside">FAI</span></span>
-<span class="topo-line"><span class="topo-inside">KFLVGLVPEPP</span><span class="topo-unknown">PNA</span><span class="topo-inside">TDPDSILRPFKEFLYSYIGVPKGDEPILKPSLFA</span><span class="topo-membrane">YIVFLITMFINV</span></span>
-<span class="topo-line"><span class="topo-membrane">SILIR</span><span class="topo-outside">GISKG</span><span class="topo-membrane">IERFAKIAMPTLFILAVFLVI</span><span class="topo-inside">RVFLLETPNGT</span><span class="topo-unknown">AADGLNFLW</span><span class="topo-inside">TPDFEKLKD</span></span>
-<span class="topo-line"><span class="topo-inside">PGVW</span><span class="topo-membrane">IAAVGQIFFSLGLGFGVLITF</span><span class="topo-outside">ASYVRKDQDIVLS</span><span class="topo-membrane">GLTAATLNEKASVILGGSI</span><span class="topo-inside">SIP</span></span>
-<span class="topo-line"><span class="topo-inside">AAVAFFGVANAVAIAKA</span><span class="topo-unknown">GAFNLGF</span><span class="topo-inside">I</span><span class="topo-unknown">TLPAIF</span><span class="topo-inside">SQTAGGTFLGF</span><span class="topo-membrane">LWFFLLFFAGLTSSIAGM</span></span>
-<span class="topo-line"><span class="topo-membrane">QGMIAFL</span><span class="topo-outside">EDELKLSRKH</span><span class="topo-membrane">AVLWTAAIVFFSAHLVM</span><span class="topo-inside">FLNKSLDE</span><span class="topo-membrane">MDFWATGIGVVFFGLTEL</span></span>
-<span class="topo-line"><span class="topo-membrane">IIFFW</span><span class="topo-outside">IFG</span><span class="topo-unknown">ADKAWEEIN</span><span class="topo-outside">RGGIIKVPRI</span><span class="topo-membrane">YYYVMRYITPAFLAVLLVVWA</span><span class="topo-inside">REYIP</span><span class="topo-unknown">KIMEE</span><span class="topo-inside">TH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MEVK</span><span class="topo-outside">REHWATRLG</span><span class="topo-membrane">LILAMAGYAVDLGNFLRFP</span><span class="topo-inside">VQAAENGGGAF</span><span class="topo-membrane">MIPYIIAFLLVGIPLMWIEW</span><span class="topo-outside">AMGRYGGAQGHGTTPAIFYLLWRNRF</span><span class="topo-membrane">AKILGVFGLWIPLVVASYYVYIESWTLG</span><span class="topo-inside">FAI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">KFLVGLVPEPP</span><span class="topo-unknown">PNA</span><span class="topo-inside">TDPDSILRPFKEFLYSYIGVPKGDEPILKPSLFA</span><span class="topo-membrane">YIVFLITMFINVSILIR</span><span class="topo-outside">GISKG</span><span class="topo-membrane">IERFAKIAMPTLFILAVFLVI</span><span class="topo-inside">RVFLLETPNGT</span><span class="topo-unknown">AADGLNFLW</span><span class="topo-inside">TPDFEKLKD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">PGVW</span><span class="topo-membrane">IAAVGQIFFSLGLGFGVLITF</span><span class="topo-outside">ASYVRKDQDIVLS</span><span class="topo-membrane">GLTAATLNEKASVILGGSI</span><span class="topo-inside">SIPAAVAFFGVANAVAIAKA</span><span class="topo-unknown">GAFNLGF</span><span class="topo-inside">I</span><span class="topo-unknown">TLPAIF</span><span class="topo-inside">SQTAGGTFLGF</span><span class="topo-membrane">LWFFLLFFAGLTSSIAGM</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">QGMIAFL</span><span class="topo-outside">EDELKLSRKH</span><span class="topo-membrane">AVLWTAAIVFFSAHLVM</span><span class="topo-inside">FLNKSLDE</span><span class="topo-membrane">MDFWATGIGVVFFGLTELIIFFW</span><span class="topo-outside">IFG</span><span class="topo-unknown">ADKAWEEIN</span><span class="topo-outside">RGGIIKVPRI</span><span class="topo-membrane">YYYVMRYITPAFLAVLLVVWA</span><span class="topo-inside">REYIP</span><span class="topo-unknown">KIMEE</span><span class="topo-inside">TH</span></span>
+<span class="topo-ruler">       490       500       510         </span>
 <span class="topo-line"><span class="topo-inside">WTVWI</span><span class="topo-membrane">TRFYIIGLFLFLTFLVF</span><span class="topo-outside">LAERRRNHE</span><span class="topo-unknown">SAGTLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (39 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -715,6 +720,7 @@ LeuBAT is an engineered mutant of the bacterial leucine transporter [LEUT](/xray
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

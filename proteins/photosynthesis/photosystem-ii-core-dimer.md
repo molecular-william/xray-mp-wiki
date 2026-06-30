@@ -80,12 +80,13 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MTTTLQRRESA</span><span class="topo-membrane">NLWERFCNWVT</span><span class="topo-inside">ST</span><span class="topo-membrane">DNRLYVGWFGVIMIPTLLAATICFVIAFI</span><span class="topo-outside">AAPPVDI</span></span>
-<span class="topo-line"><span class="topo-outside">DGIREPVSGSLLYGNNIITGAVVPSSNAIGLHFYPIWEAASLDEWLYNGG</span><span class="topo-membrane">PYQLIIFHFL</span></span>
-<span class="topo-line"><span class="topo-membrane">LGASCYMGRQWELSY</span><span class="topo-inside">RLGMR</span><span class="topo-membrane">PWICVAYSAPLASAFAVFLIYPIG</span><span class="topo-outside">QGSFSDGMPLGISGTF</span></span>
-<span class="topo-line"><span class="topo-outside">NFMIVFQAEHN</span><span class="topo-membrane">ILMHPFHQLGVAGVFGGALFCAMHGSL</span><span class="topo-inside">VTSSLIRETTETESANYGYKFG</span></span>
-<span class="topo-line"><span class="topo-inside">QEEETYNIVAAHGYFGRLIFQYASFNNSR</span><span class="topo-membrane">SLHFFLAAWPVVGVWFTALGISTMAF</span><span class="topo-outside">NLNGF</span></span>
-<span class="topo-line"><span class="topo-outside">NFNHSVIDAKGNVINTWADIINRANLGMEVMHERNAHNFPLDLA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MTTTLQRRESA</span><span class="topo-membrane">NLWERFCNWVT</span><span class="topo-inside">ST</span><span class="topo-membrane">DNRLYVGWFGVIMIPTLLAATICFVIAFI</span><span class="topo-outside">AAPPVDIDGIREPVSGSLLYGNNIITGAVVPSSNAIGLHFYPIWEAASLDEWLYNGG</span><span class="topo-membrane">PYQLIIFHFL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">LGASCYMGRQWELSY</span><span class="topo-inside">RLGMR</span><span class="topo-membrane">PWICVAYSAPLASAFAVFLIYPIG</span><span class="topo-outside">QGSFSDGMPLGISGTFNFMIVFQAEHN</span><span class="topo-membrane">ILMHPFHQLGVAGVFGGALFCAMHGSL</span><span class="topo-inside">VTSSLIRETTETESANYGYKFG</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340    </span>
+<span class="topo-line"><span class="topo-inside">QEEETYNIVAAHGYFGRLIFQYASFNNSR</span><span class="topo-membrane">SLHFFLAAWPVVGVWFTALGISTMAF</span><span class="topo-outside">NLNGFNFNHSVIDAKGNVINTWADIINRANLGMEVMHERNAHNFPLDLA</span></span>
+<details class="topo-details"><summary>Topology coordinates (13 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -188,6 +189,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -203,15 +205,17 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGLPW</span><span class="topo-inside">YRVHTVLINDPG</span><span class="topo-membrane">RLIAAHLMHTALVAGWAGSMALYE</span><span class="topo-outside">LATFDPSDPVLNPMWRQGM</span></span>
-<span class="topo-line"><span class="topo-outside">FVLPFMARLGVTGSWSGWSITGETGIDPG</span><span class="topo-membrane">FWSFEGVALAHIVLSGLLFLAACWHW</span><span class="topo-inside">VYWDL</span></span>
-<span class="topo-line"><span class="topo-inside">ELFRDPRTGEPALDL</span><span class="topo-membrane">PKMFGIHLFLAGLLCFGFGAFHLTGLFGPGM</span><span class="topo-outside">WVSDPYGLTGSVQ</span><span class="topo-membrane">P</span></span>
-<span class="topo-line"><span class="topo-membrane">VAPEWGPDGFNPYNPGGVVAHHIAAGIVGIIAGLFHI</span><span class="topo-inside">LVRPPQRLYKALRMGN</span><span class="topo-membrane">IETVLSS</span></span>
-<span class="topo-line"><span class="topo-membrane">SIAAVFFAAFVVAGTMWYGSATT</span><span class="topo-outside">PIELFGPTRYQWDSSYFQQEINRRVQASLASGATLEE</span></span>
-<span class="topo-line"><span class="topo-outside">AWSAIPEKLAFYDYIGNNPAKGGLFRTGPMNKGDGIAQAWKGHAVFRNKEGEELFVRRMP</span></span>
-<span class="topo-line"><span class="topo-outside">AFFESFPVILTDKNGVVKADIPFRRAESKYSFEQQGVTVSFYGGELNGQTFTDPPTVKSY</span></span>
-<span class="topo-line"><span class="topo-outside">ARKAIFGEIFEFDTETLNSDGIFRTSP</span><span class="topo-membrane">RGWFTFAHAVFALLFFFGHIWHGAR</span><span class="topo-inside">TLFRDVFS</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGLPW</span><span class="topo-inside">YRVHTVLINDPG</span><span class="topo-membrane">RLIAAHLMHTALVAGWAGSMALYE</span><span class="topo-outside">LATFDPSDPVLNPMWRQGMFVLPFMARLGVTGSWSGWSITGETGIDPG</span><span class="topo-membrane">FWSFEGVALAHIVLSGLLFLAACWHW</span><span class="topo-inside">VYWDL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">ELFRDPRTGEPALDL</span><span class="topo-membrane">PKMFGIHLFLAGLLCFGFGAFHLTGLFGPGM</span><span class="topo-outside">WVSDPYGLTGSVQ</span><span class="topo-membrane">PVAPEWGPDGFNPYNPGGVVAHHIAAGIVGIIAGLFHI</span><span class="topo-inside">LVRPPQRLYKALRMGN</span><span class="topo-membrane">IETVLSS</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">SIAAVFFAAFVVAGTMWYGSATT</span><span class="topo-outside">PIELFGPTRYQWDSSYFQQEINRRVQASLASGATLEEAWSAIPEKLAFYDYIGNNPAKGGLFRTGPMNKGDGIAQAWKGHAVFRNKEGEELFVRRMP</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">AFFESFPVILTDKNGVVKADIPFRRAESKYSFEQQGVTVSFYGGELNGQTFTDPPTVKSYARKAIFGEIFEFDTETLNSDGIFRTSP</span><span class="topo-membrane">RGWFTFAHAVFALLFFFGHIWHGAR</span><span class="topo-inside">TLFRDVFS</span></span>
+<span class="topo-ruler">       490       500       510</span>
 <span class="topo-line"><span class="topo-inside">G</span><span class="topo-unknown">IDPELSPEQVEWGFYQKVGDVTTRRKEAV</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -328,6 +332,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -343,14 +348,15 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MKTLSSQKRYSPVVTLSSNSIFATNRDQESSGFAW</span><span class="topo-inside">WAGNARLINLSG</span><span class="topo-membrane">KLLGAHVAHAGLI</span></span>
-<span class="topo-line"><span class="topo-membrane">VFWAGAMTLFELA</span><span class="topo-outside">HFIPEKPMYEQGLILIPHIATLGWGVGPGGEVVDTF</span><span class="topo-membrane">PFFVVGVVHLI</span></span>
-<span class="topo-line"><span class="topo-membrane">SSAVLGFGGVYHA</span><span class="topo-inside">IRGPETLEEYSSFFGYDWKD</span><span class="topo-membrane">KNKMTTILGFHLIVLGIGALLLVAK</span><span class="topo-outside">AM</span></span>
-<span class="topo-line"><span class="topo-outside">FFGGLYDTWAPGGGDVRVITNPTLDPRVIFGYLLKSPFGGEGWIVSVNNLED</span><span class="topo-membrane">VVGGHIWI</span></span>
-<span class="topo-line"><span class="topo-membrane">GLICIAGGIWHILTTPFGWARRAFIW</span><span class="topo-unknown">S</span><span class="topo-membrane">GEAYLSYSLGALSMMGFIATCFV</span><span class="topo-outside">WFNNTVYPSE</span></span>
-<span class="topo-line"><span class="topo-outside">FYGPTGPEASQAQAMTFLIRDQKLGANVGSAQGPTGLGKYLMRSPTGEIIFGGETMRFWD</span></span>
-<span class="topo-line"><span class="topo-outside">FRGPWLEPLRGPNGLDLNKIKNDIQPWQERRAAEYMTHAPLGSLNSVGGVATEINSVNFV</span></span>
-<span class="topo-line"><span class="topo-outside">SPR</span><span class="topo-membrane">SWLATSHFVLAFFFLVGHLWHAGRAR</span><span class="topo-inside">AAAAGFE</span><span class="topo-unknown">KGIDRESEPVLSMPSLD</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MKTLSSQKRYSPVVTLSSNSIFATNRDQESSGFAW</span><span class="topo-inside">WAGNARLINLSG</span><span class="topo-membrane">KLLGAHVAHAGLIVFWAGAMTLFELA</span><span class="topo-outside">HFIPEKPMYEQGLILIPHIATLGWGVGPGGEVVDTF</span><span class="topo-membrane">PFFVVGVVHLI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">SSAVLGFGGVYHA</span><span class="topo-inside">IRGPETLEEYSSFFGYDWKD</span><span class="topo-membrane">KNKMTTILGFHLIVLGIGALLLVAK</span><span class="topo-outside">AMFFGGLYDTWAPGGGDVRVITNPTLDPRVIFGYLLKSPFGGEGWIVSVNNLED</span><span class="topo-membrane">VVGGHIWI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">GLICIAGGIWHILTTPFGWARRAFIW</span><span class="topo-unknown">S</span><span class="topo-membrane">GEAYLSYSLGALSMMGFIATCFV</span><span class="topo-outside">WFNNTVYPSEFYGPTGPEASQAQAMTFLIRDQKLGANVGSAQGPTGLGKYLMRSPTGEIIFGGETMRFWD</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470   </span>
+<span class="topo-line"><span class="topo-outside">FRGPWLEPLRGPNGLDLNKIKNDIQPWQERRAAEYMTHAPLGSLNSVGGVATEINSVNFVSPR</span><span class="topo-membrane">SWLATSHFVLAFFFLVGHLWHAGRAR</span><span class="topo-inside">AAAAGFE</span><span class="topo-unknown">KGIDRESEPVLSMPSLD</span></span>
+<details class="topo-details"><summary>Topology coordinates (14 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -460,6 +466,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -475,12 +482,13 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MTIAIGRAPAERG</span><span class="topo-inside">WFDILDDWLKRDRF</span><span class="topo-membrane">VFVGWSGILLFPCAYLALGGWLTGTTFV</span><span class="topo-outside">TSWYT</span></span>
-<span class="topo-line"><span class="topo-outside">HGLASSYLEGCNFLTVAVSTPANSMGHSLLLLWGPEAQGDFTRWCQL</span><span class="topo-membrane">GGLWTFIALHGAF</span></span>
-<span class="topo-line"><span class="topo-membrane">GLIGFMLRQFE</span><span class="topo-inside">IARLVGVR</span><span class="topo-membrane">PYNAIAFSAPIAVFVSVFLIYPLG</span><span class="topo-outside">QSSWFFAPSFGVAAIFR</span></span>
-<span class="topo-line"><span class="topo-outside">FLLFFQGFHN</span><span class="topo-membrane">WTLNPFHMMGVAGVLGGALLCAIHGATVEN</span><span class="topo-inside">TLFQDGEGASTFRAFNPTQA</span></span>
-<span class="topo-line"><span class="topo-inside">EETYSMVTANRFWSQIFGIAFSNKR</span><span class="topo-membrane">WLHFFMLFVPVTGLWMSAIGVVGLAL</span><span class="topo-outside">NLRSYDFIS</span></span>
-<span class="topo-line"><span class="topo-outside">QEIRAAEDPEFETFYTKNLLLNEGIRAWMAPQDQPHENFVFPEEVLPRGNAL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MTIAIGRAPAERG</span><span class="topo-inside">WFDILDDWLKRDRF</span><span class="topo-membrane">VFVGWSGILLFPCAYLALGGWLTGTTFV</span><span class="topo-outside">TSWYTHGLASSYLEGCNFLTVAVSTPANSMGHSLLLLWGPEAQGDFTRWCQL</span><span class="topo-membrane">GGLWTFIALHGAF</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GLIGFMLRQFE</span><span class="topo-inside">IARLVGVR</span><span class="topo-membrane">PYNAIAFSAPIAVFVSVFLIYPLG</span><span class="topo-outside">QSSWFFAPSFGVAAIFRFLLFFQGFHN</span><span class="topo-membrane">WTLNPFHMMGVAGVLGGALLCAIHGATVEN</span><span class="topo-inside">TLFQDGEGASTFRAFNPTQA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350  </span>
+<span class="topo-line"><span class="topo-inside">EETYSMVTANRFWSQIFGIAFSNKR</span><span class="topo-membrane">WLHFFMLFVPVTGLWMSAIGVVGLAL</span><span class="topo-outside">NLRSYDFISQEIRAAEDPEFETFYTKNLLLNEGIRAWMAPQDQPHENFVFPEEVLPRGNAL</span></span>
+<details class="topo-details"><summary>Topology coordinates (12 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -576,6 +584,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -591,8 +600,9 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAGTTGER</span><span class="topo-inside">PFSDIITSV</span><span class="topo-membrane">RYWVIHSITIPALFIAGWLFVSTGLAYDVF</span><span class="topo-outside">GTPRPDSYYAQEQ</span></span>
-<span class="topo-line"><span class="topo-outside">RSIPLVTDRFEAKQQVETFLEQLK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80    </span>
+<span class="topo-line"><span class="topo-unknown">MAGTTGER</span><span class="topo-inside">PFSDIITSV</span><span class="topo-membrane">RYWVIHSITIPALFIAGWLFVSTGLAYDVF</span><span class="topo-outside">GTPRPDSYYAQEQRSIPLVTDRFEAKQQVETFLEQLK</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -632,6 +642,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -647,7 +658,9 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40     </span>
 <span class="topo-line"><span class="topo-unknown">MTSNTPNQEPVS</span><span class="topo-inside">YPIF</span><span class="topo-membrane">TVRWVAVHTLAVPTIFFLGAIAAMQFI</span><span class="topo-outside">QR</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -687,6 +700,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -702,8 +716,9 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MARRTWLGDILRP</span><span class="topo-inside">LNSEYGKVAPGWGT</span><span class="topo-membrane">TPLMAVFMGLFLVFLLIILEIYNSTLIL</span><span class="topo-outside">DGVNV</span></span>
-<span class="topo-line"><span class="topo-outside">SWKALG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60      </span>
+<span class="topo-line"><span class="topo-unknown">MARRTWLGDILRP</span><span class="topo-inside">LNSEYGKVAPGWGT</span><span class="topo-membrane">TPLMAVFMGLFLVFLLIILEIYNSTLIL</span><span class="topo-outside">DGVNVSWKALG</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -743,6 +758,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -758,7 +774,9 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        </span>
 <span class="topo-line"><span class="topo-outside">ME</span><span class="topo-membrane">TLKITVYIVVTFFVLLFVFGFLSGDPAR</span><span class="topo-inside">NPKRKDLE</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -791,6 +809,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -806,7 +825,9 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40</span>
 <span class="topo-line"><span class="topo-unknown">MM</span><span class="topo-inside">SEGGRIP</span><span class="topo-membrane">LWIVATVAGMGVIVIVGLFFYGAY</span><span class="topo-outside">AGLGSSL</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -846,6 +867,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -861,7 +883,9 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30       </span>
 <span class="topo-line"><span class="topo-outside">KLPE</span><span class="topo-membrane">AYAIFDPLVDVLPVIPVLFLALAFVWQA</span><span class="topo-inside">AVGFR</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -894,6 +918,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -909,7 +934,9 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30       </span>
 <span class="topo-line"><span class="topo-inside">MEPNPNRQPVE</span><span class="topo-membrane">LNRTSLYLGLLLILVLALLFSSYFF</span><span class="topo-unknown">N</span></span>
+<details class="topo-details"><summary>Topology coordinates (2 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -935,6 +962,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -950,7 +978,9 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30      </span>
 <span class="topo-line"><span class="topo-outside">MEVN</span><span class="topo-membrane">QLGLIATALFVLVPSVFLIILYVQ</span><span class="topo-inside">TE</span><span class="topo-unknown">SQQKSS</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -990,6 +1020,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1005,11 +1036,13 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">AKQTLTYDDIVGTGLANKCPTLDDTARGAYPIDSSQTYRIARLCLQPTTFLVKEEPKNKR</span></span>
-<span class="topo-line"><span class="topo-outside">QEAEFVPTKLVTRETTSLDQIQGELKVNSDGSLTFVEEDGIDFQPVTVQMAGGERIPLLF</span></span>
-<span class="topo-line"><span class="topo-outside">TVKNLVASTQPNVTSITTSTDFKGEFNVPSYRTANFLDPKGRGLASGYDSAIALPQAKEE</span></span>
-<span class="topo-line"><span class="topo-outside">ELARANVKRFSLTKGQISLNVAKVDGRTGEIAGTFESEQLSDDDMGAHEPHEVKIQGVFY</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">AKQTLTYDDIVGTGLANKCPTLDDTARGAYPIDSSQTYRIARLCLQPTTFLVKEEPKNKRQEAEFVPTKLVTRETTSLDQIQGELKVNSDGSLTFVEEDGIDFQPVTVQMAGGERIPLLF</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">TVKNLVASTQPNVTSITTSTDFKGEFNVPSYRTANFLDPKGRGLASGYDSAIALPQAKEEELARANVKRFSLTKGQISLNVAKVDGRTGEIAGTFESEQLSDDDMGAHEPHEVKIQGVFY</span></span>
+<span class="topo-ruler">      </span>
 <span class="topo-line"><span class="topo-outside">ASIEPA</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1028,6 +1061,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1043,7 +1077,9 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30  </span>
 <span class="topo-line"><span class="topo-membrane">METITYVFIFACIIALFFFAIFFR</span><span class="topo-inside">EPPRITK</span><span class="topo-unknown">K</span></span>
+<details class="topo-details"><summary>Topology coordinates (2 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1069,6 +1105,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1084,9 +1121,11 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MQRLGRWLALAYFVGVSLLGWINWSAPTL</span><span class="topo-outside">AATASTEEELVNVVDEKLGTAYGEKIDLNNT</span></span>
-<span class="topo-line"><span class="topo-outside">NIAAFIQYRGLYPTLAKLIVKNAPYESVEDVLNIPGLTERQKQILRENLEHFTVTEVETA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MQRLGRWLALAYFVGVSLLGWINWSAPTL</span><span class="topo-outside">AATASTEEELVNVVDEKLGTAYGEKIDLNNTNIAAFIQYRGLYPTLAKLIVKNAPYESVEDVLNIPGLTERQKQILRENLEHFTVTEVETA</span></span>
+<span class="topo-ruler">       130    </span>
 <span class="topo-line"><span class="topo-outside">LVEGGDRYNNGLYK</span></span>
+<details class="topo-details"><summary>Topology coordinates (2 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1112,6 +1151,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1127,9 +1167,11 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">AELTPEVLTVPLNSEGKTITLTEKQYLEGKRLFQYACASCHVGGITKTNPSLDLRTETLA</span></span>
-<span class="topo-line"><span class="topo-outside">LATPPRDNIEGLVDYMKNPTTYDGEQEIAEVHPSLRSADIFPKMRNLTEKDLVAIAGHIL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">AELTPEVLTVPLNSEGKTITLTEKQYLEGKRLFQYACASCHVGGITKTNPSLDLRTETLALATPPRDNIEGLVDYMKNPTTYDGEQEIAEVHPSLRSADIFPKMRNLTEKDLVAIAGHIL</span></span>
+<span class="topo-ruler">       130       </span>
 <span class="topo-line"><span class="topo-outside">VEPKILGDKWGGGKVYY</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1148,6 +1190,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1163,7 +1206,9 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40        50</span>
 <span class="topo-line"><span class="topo-unknown">MIQSASSLLL</span><span class="topo-membrane">TITPSLKGFFIGLLSGAVVLGLTFAVL</span><span class="topo-inside">IAISQIDKVQRSL</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1196,6 +1241,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1211,7 +1257,9 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30       </span>
 <span class="topo-line"><span class="topo-membrane">UUUUUUUUUUUUUUUUUUUUUUUUUU</span><span class="topo-inside">UUUUUUUUUUU</span></span>
+<details class="topo-details"><summary>Topology coordinates (2 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1237,6 +1285,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1252,8 +1301,9 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-membrane">MTILFQLALAALVILSFVMVIGVPVA</span><span class="topo-inside">YASPQDWDR</span><span class="topo-membrane">SKQLIFLGSGLWIALVLVVGVLN</span><span class="topo-unknown">FF</span></span>
-<span class="topo-line"><span class="topo-unknown">VV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60  </span>
+<span class="topo-line"><span class="topo-membrane">MTILFQLALAALVILSFVMVIGVPVA</span><span class="topo-inside">YASPQDWDR</span><span class="topo-membrane">SKQLIFLGSGLWIALVLVVGVLN</span><span class="topo-unknown">FFVV</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1293,6 +1343,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1308,12 +1359,13 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MTTTLQRRESA</span><span class="topo-inside">NLWERFCNWVTSTDN</span><span class="topo-membrane">RLYVGWFGVIMIPTLLAATICFVIAFIA</span><span class="topo-outside">APPVDI</span></span>
-<span class="topo-line"><span class="topo-outside">DGIREPVSGSLLYGNNIITGAVVPSSNAIGLHFYPIWEAASLDEWLYNG</span><span class="topo-membrane">GPYQLIIFHFL</span></span>
-<span class="topo-line"><span class="topo-membrane">LGASCYMGRQWELS</span><span class="topo-inside">YRLGMR</span><span class="topo-membrane">PWICVAYSAPLASAFAVFLIYPIG</span><span class="topo-outside">QGSFSDGMPLGISGTF</span></span>
-<span class="topo-line"><span class="topo-outside">NFMIVFQAEHN</span><span class="topo-membrane">ILMHPFHQLGVAGVFGGALFCAMHGSLVTS</span><span class="topo-inside">SLIRETTETESANYGYKFG</span></span>
-<span class="topo-line"><span class="topo-inside">QEEETYNIVAAHGYFGRLIFQYASFNNSR</span><span class="topo-membrane">SLHFFLAAWPVVGVWFTALGISTMAF</span><span class="topo-outside">NLNGF</span></span>
-<span class="topo-line"><span class="topo-outside">NFNHSVIDAKGNVINTWADIINRANLGMEVMHERNAHNFPLDLA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MTTTLQRRESA</span><span class="topo-inside">NLWERFCNWVTSTDN</span><span class="topo-membrane">RLYVGWFGVIMIPTLLAATICFVIAFIA</span><span class="topo-outside">APPVDIDGIREPVSGSLLYGNNIITGAVVPSSNAIGLHFYPIWEAASLDEWLYNG</span><span class="topo-membrane">GPYQLIIFHFL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">LGASCYMGRQWELS</span><span class="topo-inside">YRLGMR</span><span class="topo-membrane">PWICVAYSAPLASAFAVFLIYPIG</span><span class="topo-outside">QGSFSDGMPLGISGTFNFMIVFQAEHN</span><span class="topo-membrane">ILMHPFHQLGVAGVFGGALFCAMHGSLVTS</span><span class="topo-inside">SLIRETTETESANYGYKFG</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340    </span>
+<span class="topo-line"><span class="topo-inside">QEEETYNIVAAHGYFGRLIFQYASFNNSR</span><span class="topo-membrane">SLHFFLAAWPVVGVWFTALGISTMAF</span><span class="topo-outside">NLNGFNFNHSVIDAKGNVINTWADIINRANLGMEVMHERNAHNFPLDLA</span></span>
+<details class="topo-details"><summary>Topology coordinates (12 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1409,6 +1461,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1424,15 +1477,17 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGLPW</span><span class="topo-inside">YRVHTVLIND</span><span class="topo-membrane">PGRLIAAHLMHTALVAGWAGSMALY</span><span class="topo-outside">ELATFDPSDPVLNPMWRQGM</span></span>
-<span class="topo-line"><span class="topo-outside">FVLPFMARLGVTGSWSGWSITGETGIDPGFWS</span><span class="topo-membrane">FEGVALAHIVLSGLLFLAACWHWV</span><span class="topo-inside">YWDL</span></span>
-<span class="topo-line"><span class="topo-inside">ELFRDPRTGEPALD</span><span class="topo-membrane">LPKMFGIHLFLAGLLCFGFGAFHLT</span><span class="topo-outside">GLFGPGMWVSDPYGLTGSVQP</span></span>
-<span class="topo-line"><span class="topo-outside">VAPEWGPDGFNPYNPG</span><span class="topo-membrane">GVVAHHIAAGIVGIIAGLFHILVRP</span><span class="topo-inside">PQRLYKALRMGN</span><span class="topo-membrane">IETVLSS</span></span>
-<span class="topo-line"><span class="topo-membrane">SIAAVFFAAFVVAGTM</span><span class="topo-outside">WYGSATTPIELFGPTRYQWDSSYFQQEINRRVQASLASGATLEE</span></span>
-<span class="topo-line"><span class="topo-outside">AWSAIPEKLAFYDYIGNNPAKGGLFRTGPMNKGDGIAQAWKGHAVFRNKEGEELFVRRMP</span></span>
-<span class="topo-line"><span class="topo-outside">AFFESFPVILTDKNGVVKADIPFRRAESKYSFEQQGVTVSFYGGELNGQTFTDPPTVKSY</span></span>
-<span class="topo-line"><span class="topo-outside">ARKAIFGEIFEFDTETLNSDGIFRTSPRG</span><span class="topo-membrane">WFTFAHAVFALLFFFGHIWHGARTL</span><span class="topo-inside">FRDVFS</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGLPW</span><span class="topo-inside">YRVHTVLIND</span><span class="topo-membrane">PGRLIAAHLMHTALVAGWAGSMALY</span><span class="topo-outside">ELATFDPSDPVLNPMWRQGMFVLPFMARLGVTGSWSGWSITGETGIDPGFWS</span><span class="topo-membrane">FEGVALAHIVLSGLLFLAACWHWV</span><span class="topo-inside">YWDL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">ELFRDPRTGEPALD</span><span class="topo-membrane">LPKMFGIHLFLAGLLCFGFGAFHLT</span><span class="topo-outside">GLFGPGMWVSDPYGLTGSVQPVAPEWGPDGFNPYNPG</span><span class="topo-membrane">GVVAHHIAAGIVGIIAGLFHILVRP</span><span class="topo-inside">PQRLYKALRMGN</span><span class="topo-membrane">IETVLSS</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">SIAAVFFAAFVVAGTM</span><span class="topo-outside">WYGSATTPIELFGPTRYQWDSSYFQQEINRRVQASLASGATLEEAWSAIPEKLAFYDYIGNNPAKGGLFRTGPMNKGDGIAQAWKGHAVFRNKEGEELFVRRMP</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">AFFESFPVILTDKNGVVKADIPFRRAESKYSFEQQGVTVSFYGGELNGQTFTDPPTVKSYARKAIFGEIFEFDTETLNSDGIFRTSPRG</span><span class="topo-membrane">WFTFAHAVFALLFFFGHIWHGARTL</span><span class="topo-inside">FRDVFS</span></span>
+<span class="topo-ruler">       490       500       510</span>
 <span class="topo-line"><span class="topo-inside">G</span><span class="topo-unknown">IDPELSPEQVEWGFYQKVGDVTTRRKEAV</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1549,6 +1604,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1564,14 +1620,15 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MKTLSSQKRYSPVVTLSSNSIFATNRDQESSGFAW</span><span class="topo-inside">WAGNARLINLSG</span><span class="topo-membrane">KLLGAHVAHAGLI</span></span>
-<span class="topo-line"><span class="topo-membrane">VFWAGAMTLFE</span><span class="topo-outside">LAHFIPEKPMYEQGLILIPHIATLGWGVGPGGEVVDTF</span><span class="topo-membrane">PFFVVGVVHLI</span></span>
-<span class="topo-line"><span class="topo-membrane">SSAVLGFGGVYHAI</span><span class="topo-inside">RGPETLEEYSSFFGYDWKDKNK</span><span class="topo-membrane">MTTILGFHLIVLGIGALLLVAKAM</span></span>
-<span class="topo-line"><span class="topo-membrane">FF</span><span class="topo-outside">GGLYDTWAPGGGDVRVITNPTLDPRVIFGYLLKSPFGGEGWIVSVNNLE</span><span class="topo-membrane">DVVGGHIWI</span></span>
-<span class="topo-line"><span class="topo-membrane">GLICIAGGIWHILTTPF</span><span class="topo-inside">GWARRAFIWS</span><span class="topo-membrane">GEAYLSYSLGALSMMGFIATCFVW</span><span class="topo-outside">FNNTVYPSE</span></span>
-<span class="topo-line"><span class="topo-outside">FYGPTGPEASQAQAMTFLIRDQKLGANVGSAQGPTGLGKYLMRSPTGEIIFGGETMRFWD</span></span>
-<span class="topo-line"><span class="topo-outside">FRGPWLEPLRGPNGLDLNKIKNDIQPWQERRAAEYMTHAPLGSLNSVGGVATEINSVNFV</span></span>
-<span class="topo-line"><span class="topo-outside">SP</span><span class="topo-membrane">RSWLATSHFVLAFFFLVGHLWHAGRA</span><span class="topo-inside">RAAAAGFE</span><span class="topo-unknown">KGIDRESEPVLSMPSLD</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MKTLSSQKRYSPVVTLSSNSIFATNRDQESSGFAW</span><span class="topo-inside">WAGNARLINLSG</span><span class="topo-membrane">KLLGAHVAHAGLIVFWAGAMTLFE</span><span class="topo-outside">LAHFIPEKPMYEQGLILIPHIATLGWGVGPGGEVVDTF</span><span class="topo-membrane">PFFVVGVVHLI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">SSAVLGFGGVYHAI</span><span class="topo-inside">RGPETLEEYSSFFGYDWKDKNK</span><span class="topo-membrane">MTTILGFHLIVLGIGALLLVAKAMFF</span><span class="topo-outside">GGLYDTWAPGGGDVRVITNPTLDPRVIFGYLLKSPFGGEGWIVSVNNLE</span><span class="topo-membrane">DVVGGHIWI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">GLICIAGGIWHILTTPF</span><span class="topo-inside">GWARRAFIWS</span><span class="topo-membrane">GEAYLSYSLGALSMMGFIATCFVW</span><span class="topo-outside">FNNTVYPSEFYGPTGPEASQAQAMTFLIRDQKLGANVGSAQGPTGLGKYLMRSPTGEIIFGGETMRFWD</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470   </span>
+<span class="topo-line"><span class="topo-outside">FRGPWLEPLRGPNGLDLNKIKNDIQPWQERRAAEYMTHAPLGSLNSVGGVATEINSVNFVSP</span><span class="topo-membrane">RSWLATSHFVLAFFFLVGHLWHAGRA</span><span class="topo-inside">RAAAAGFE</span><span class="topo-unknown">KGIDRESEPVLSMPSLD</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1688,6 +1745,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1703,12 +1761,13 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MTIAIGRAPAERG</span><span class="topo-inside">WFDILDDWLKRDR</span><span class="topo-membrane">FVFVGWSGILLFPCAYLALGGWLTGTTF</span><span class="topo-outside">VTSWYT</span></span>
-<span class="topo-line"><span class="topo-outside">HGLASSYLEGCNFLTVAVSTPANSMGHSLLLLWGPEAQGDFTRWCQLG</span><span class="topo-membrane">GLWTFIALHGAF</span></span>
-<span class="topo-line"><span class="topo-membrane">GLIGFMLRQFEIA</span><span class="topo-inside">RLVGV</span><span class="topo-membrane">RPYNAIAFSAPIAVFVSVFLIYPL</span><span class="topo-outside">GQSSWFFAPSFGVAAIFR</span></span>
-<span class="topo-line"><span class="topo-outside">FLLFFQGFHN</span><span class="topo-membrane">WTLNPFHMMGVAGVLGGALLCAIHGATVEN</span><span class="topo-inside">TLFQDGEGASTFRAFNPTQA</span></span>
-<span class="topo-line"><span class="topo-inside">EETYSMVTANRFWSQIFGIAFSNKR</span><span class="topo-membrane">WLHFFMLFVPVTGLWMSAIGVVGLA</span><span class="topo-outside">LNLRSYDFIS</span></span>
-<span class="topo-line"><span class="topo-outside">QEIRAAEDPEFETFYTKNLLLNEGIRAWMAPQDQPHENFVFPEEVLPRGNAL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MTIAIGRAPAERG</span><span class="topo-inside">WFDILDDWLKRDR</span><span class="topo-membrane">FVFVGWSGILLFPCAYLALGGWLTGTTF</span><span class="topo-outside">VTSWYTHGLASSYLEGCNFLTVAVSTPANSMGHSLLLLWGPEAQGDFTRWCQLG</span><span class="topo-membrane">GLWTFIALHGAF</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GLIGFMLRQFEIA</span><span class="topo-inside">RLVGV</span><span class="topo-membrane">RPYNAIAFSAPIAVFVSVFLIYPL</span><span class="topo-outside">GQSSWFFAPSFGVAAIFRFLLFFQGFHN</span><span class="topo-membrane">WTLNPFHMMGVAGVLGGALLCAIHGATVEN</span><span class="topo-inside">TLFQDGEGASTFRAFNPTQA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350  </span>
+<span class="topo-line"><span class="topo-inside">EETYSMVTANRFWSQIFGIAFSNKR</span><span class="topo-membrane">WLHFFMLFVPVTGLWMSAIGVVGLA</span><span class="topo-outside">LNLRSYDFISQEIRAAEDPEFETFYTKNLLLNEGIRAWMAPQDQPHENFVFPEEVLPRGNAL</span></span>
+<details class="topo-details"><summary>Topology coordinates (12 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1804,6 +1863,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1819,8 +1879,9 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAGTTGER</span><span class="topo-inside">PF</span><span class="topo-membrane">SDIITSVRYWVIHSITIPALFIAGWLFVS</span><span class="topo-outside">TGLAYDVFGTPRPDSYYAQEQ</span></span>
-<span class="topo-line"><span class="topo-outside">RSIPLVTDRFEAKQQVETFLEQLK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80    </span>
+<span class="topo-line"><span class="topo-unknown">MAGTTGER</span><span class="topo-inside">PF</span><span class="topo-membrane">SDIITSVRYWVIHSITIPALFIAGWLFVS</span><span class="topo-outside">TGLAYDVFGTPRPDSYYAQEQRSIPLVTDRFEAKQQVETFLEQLK</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1860,6 +1921,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1875,7 +1937,9 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40     </span>
 <span class="topo-line"><span class="topo-unknown">MTSNTPNQEPVS</span><span class="topo-inside">YP</span><span class="topo-membrane">IFTVRWVAVHTLAVPTIFFLGAIAAMQ</span><span class="topo-outside">FIQR</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1915,6 +1979,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1930,8 +1995,9 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MARRTWLGDILRP</span><span class="topo-inside">LNSEYGKVAPGW</span><span class="topo-membrane">GTTPLMAVFMGLFLVFLLIILEIYN</span><span class="topo-outside">STLILDGVNV</span></span>
-<span class="topo-line"><span class="topo-outside">SWKALG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60      </span>
+<span class="topo-line"><span class="topo-unknown">MARRTWLGDILRP</span><span class="topo-inside">LNSEYGKVAPGW</span><span class="topo-membrane">GTTPLMAVFMGLFLVFLLIILEIYN</span><span class="topo-outside">STLILDGVNVSWKALG</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1971,6 +2037,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1986,7 +2053,9 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        </span>
 <span class="topo-line"><span class="topo-membrane">METLKITVYIVVTFFVLLFVFGFLS</span><span class="topo-inside">GDPARNPKRKDLE</span></span>
+<details class="topo-details"><summary>Topology coordinates (2 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2012,6 +2081,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2027,7 +2097,9 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40</span>
 <span class="topo-line"><span class="topo-unknown">MM</span><span class="topo-inside">SEGGRI</span><span class="topo-membrane">PLWIVATVAGMGVIVIVGLFFYGA</span><span class="topo-outside">YAGLGSSL</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2067,6 +2139,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2082,7 +2155,9 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30       </span>
 <span class="topo-line"><span class="topo-outside">KLPEAYA</span><span class="topo-membrane">IFDPLVDVLPVIPVLFLALAFVWQAA</span><span class="topo-inside">VGFR</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2115,6 +2190,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2130,7 +2206,9 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30       </span>
 <span class="topo-line"><span class="topo-inside">MEPNPNRQPVE</span><span class="topo-membrane">LNRTSLYLGLLLILVLALLFSSYFF</span><span class="topo-unknown">N</span></span>
+<details class="topo-details"><summary>Topology coordinates (2 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2156,6 +2234,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2171,7 +2250,9 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30      </span>
 <span class="topo-line"><span class="topo-outside">MEVN</span><span class="topo-membrane">QLGLIATALFVLVPSVFLIILYVQ</span><span class="topo-inside">TE</span><span class="topo-unknown">SQQKSS</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2211,6 +2292,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2226,11 +2308,13 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">AKQTLTYDDIVGTGLANKCPTLDDTARGAYPIDSSQTYRIARLCLQPTTFLVKEEPKNKR</span></span>
-<span class="topo-line"><span class="topo-outside">QEAEFVPTKLVTRETTSLDQIQGELKVNSDGSLTFVEEDGIDFQPVTVQMAGGERIPLLF</span></span>
-<span class="topo-line"><span class="topo-outside">TVKNLVASTQPNVTSITTSTDFKGEFNVPSYRTANFLDPKGRGLASGYDSAIALPQAKEE</span></span>
-<span class="topo-line"><span class="topo-outside">ELARANVKRFSLTKGQISLNVAKVDGRTGEIAGTFESEQLSDDDMGAHEPHEVKIQGVFY</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">AKQTLTYDDIVGTGLANKCPTLDDTARGAYPIDSSQTYRIARLCLQPTTFLVKEEPKNKRQEAEFVPTKLVTRETTSLDQIQGELKVNSDGSLTFVEEDGIDFQPVTVQMAGGERIPLLF</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">TVKNLVASTQPNVTSITTSTDFKGEFNVPSYRTANFLDPKGRGLASGYDSAIALPQAKEEELARANVKRFSLTKGQISLNVAKVDGRTGEIAGTFESEQLSDDDMGAHEPHEVKIQGVFY</span></span>
+<span class="topo-ruler">      </span>
 <span class="topo-line"><span class="topo-outside">ASIEPA</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2249,6 +2333,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2264,7 +2349,9 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30  </span>
 <span class="topo-line"><span class="topo-membrane">METITYVFIFACIIALFFFAIFFR</span><span class="topo-inside">EPPRITK</span><span class="topo-unknown">K</span></span>
+<details class="topo-details"><summary>Topology coordinates (2 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2290,6 +2377,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2305,9 +2393,11 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MQRLGRWLALAYFVGVSLLGWINWSAPTL</span><span class="topo-outside">AATASTEEELVNVVDEKLGTAYGEKIDLNNT</span></span>
-<span class="topo-line"><span class="topo-outside">NIAAFIQYRGLYPTLAKLIVKNAPYESVEDVLNIPGLTERQKQILRENLEHFTVTEVETA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MQRLGRWLALAYFVGVSLLGWINWSAPTL</span><span class="topo-outside">AATASTEEELVNVVDEKLGTAYGEKIDLNNTNIAAFIQYRGLYPTLAKLIVKNAPYESVEDVLNIPGLTERQKQILRENLEHFTVTEVETA</span></span>
+<span class="topo-ruler">       130    </span>
 <span class="topo-line"><span class="topo-outside">LVEGGDRYNNGLYK</span></span>
+<details class="topo-details"><summary>Topology coordinates (2 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2333,6 +2423,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2348,9 +2439,11 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">AELTPEVLTVPLNSEGKTITLTEKQYLEGKRLFQYACASCHVGGITKTNPSLDLRTETLA</span></span>
-<span class="topo-line"><span class="topo-outside">LATPPRDNIEGLVDYMKNPTTYDGEQEIAEVHPSLRSADIFPKMRNLTEKDLVAIAGHIL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">AELTPEVLTVPLNSEGKTITLTEKQYLEGKRLFQYACASCHVGGITKTNPSLDLRTETLALATPPRDNIEGLVDYMKNPTTYDGEQEIAEVHPSLRSADIFPKMRNLTEKDLVAIAGHIL</span></span>
+<span class="topo-ruler">       130       </span>
 <span class="topo-line"><span class="topo-outside">VEPKILGDKWGGGKVYY</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2369,6 +2462,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2384,7 +2478,9 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40        50</span>
 <span class="topo-line"><span class="topo-unknown">MIQSASSLLL</span><span class="topo-outside">TITPS</span><span class="topo-membrane">LKGFFIGLLSGAVVLGLTFAVLIAIS</span><span class="topo-inside">QIDKVQRSL</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2424,6 +2520,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2439,7 +2536,9 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30       </span>
 <span class="topo-line"><span class="topo-outside">UUU</span><span class="topo-membrane">UUUUUUUUUUUUUUUUUUUUUUUU</span><span class="topo-inside">UUUUUUUUUU</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2472,6 +2571,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2487,8 +2587,9 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-membrane">MTILFQLALAALVILSFVMVIGVPVAY</span><span class="topo-inside">ASPQDWDR</span><span class="topo-membrane">SKQLIFLGSGLWIALVLVVGVLN</span><span class="topo-unknown">FF</span></span>
-<span class="topo-line"><span class="topo-unknown">VV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60  </span>
+<span class="topo-line"><span class="topo-membrane">MTILFQLALAALVILSFVMVIGVPVAY</span><span class="topo-inside">ASPQDWDR</span><span class="topo-membrane">SKQLIFLGSGLWIALVLVVGVLN</span><span class="topo-unknown">FFVV</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2528,6 +2629,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2612,12 +2714,13 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">AN</span><span class="topo-unknown">LWERFCNWV</span><span class="topo-inside">TSTDNRL</span><span class="topo-membrane">YVGWFGVIMIPTLLAATI</span><span class="topo-outside">CFVIAFIAAPPVDIDGIREPVSGS</span></span>
-<span class="topo-line"><span class="topo-outside">LLYGNNIITGAVVPSSNAIGLHFYPIWEAASLDEWLYNGGPYQLIIF</span><span class="topo-membrane">HFLLGASCYMGRQ</span></span>
-<span class="topo-line"><span class="topo-membrane">WE</span><span class="topo-inside">LSYRLGMRPW</span><span class="topo-membrane">ICVAYSAPLASAF</span><span class="topo-outside">AVFLIYPIGQGSFSDGMPLGISGTFNFMIVFQAEH</span></span>
-<span class="topo-line"><span class="topo-outside">NILMHP</span><span class="topo-membrane">FHQLGVAGVFGGALFCAMHGS</span><span class="topo-inside">LVTSSLIRETTETESANYGYKFGQEEETYNIVA</span></span>
-<span class="topo-line"><span class="topo-inside">AHGYFGRLIFQYASFNNSRSLHF</span><span class="topo-membrane">FLAAWPVVGVWFAAL</span><span class="topo-outside">GISTMAFNLNGFNFNHSVIDAK</span></span>
-<span class="topo-line"><span class="topo-outside">GNVINTWADIINRANLGMEVMHERNAHNFPLDLA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">AN</span><span class="topo-unknown">LWERFCNWV</span><span class="topo-inside">TSTDNRL</span><span class="topo-membrane">YVGWFGVIMIPTLLAATI</span><span class="topo-outside">CFVIAFIAAPPVDIDGIREPVSGSLLYGNNIITGAVVPSSNAIGLHFYPIWEAASLDEWLYNGGPYQLIIF</span><span class="topo-membrane">HFLLGASCYMGRQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">WE</span><span class="topo-inside">LSYRLGMRPW</span><span class="topo-membrane">ICVAYSAPLASAF</span><span class="topo-outside">AVFLIYPIGQGSFSDGMPLGISGTFNFMIVFQAEHNILMHP</span><span class="topo-membrane">FHQLGVAGVFGGALFCAMHGS</span><span class="topo-inside">LVTSSLIRETTETESANYGYKFGQEEETYNIVA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330    </span>
+<span class="topo-line"><span class="topo-inside">AHGYFGRLIFQYASFNNSRSLHF</span><span class="topo-membrane">FLAAWPVVGVWFAAL</span><span class="topo-outside">GISTMAFNLNGFNFNHSVIDAKGNVINTWADIINRANLGMEVMHERNAHNFPLDLA</span></span>
+<details class="topo-details"><summary>Topology coordinates (13 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2720,6 +2823,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2735,15 +2839,17 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">GLPWYRVHTVLINDPGRL</span><span class="topo-membrane">IAAHLMHTALVAGWAG</span><span class="topo-outside">SMALYELATFDPSDPVLNPMWRQGMF</span></span>
-<span class="topo-line"><span class="topo-outside">V</span><span class="topo-unknown">LPFMAR</span><span class="topo-outside">LGVTGSWSGWSITGETGIDPGFWSFEGVALA</span><span class="topo-membrane">HIVLSGLLFLAACW</span><span class="topo-inside">HWVYWDLE</span></span>
-<span class="topo-line"><span class="topo-inside">LFRDPRTGEPALDLPKM</span><span class="topo-membrane">FGIHLFLAGLLCFGFGA</span><span class="topo-outside">FHLTGLFGPGMWVSDPYGLTGSVQPV</span></span>
-<span class="topo-line"><span class="topo-outside">APEWGPDGFNPYNPGGVVAH</span><span class="topo-membrane">HIAAGIVGIIAGLFHI</span><span class="topo-inside">LVRPP</span><span class="topo-unknown">QRLYKA</span><span class="topo-inside">LRMGNIET</span><span class="topo-membrane">VLSSS</span></span>
-<span class="topo-line"><span class="topo-membrane">IAAVFFAAFV</span><span class="topo-outside">VAGTMWYGSATTPIELFGPTRYQWDSSYFQQEINRRVQASLASGATLEEA</span></span>
-<span class="topo-line"><span class="topo-outside">WSAIPEKLAFYDYIGNNPAKGGLFRTGPMNKGDGIAQAWKGHAVFRNKEGEELFVRRMPA</span></span>
-<span class="topo-line"><span class="topo-outside">FFESFPVILTDKNGVVKADIPFRRAESKYSFEQQGVTVSFYGGELNGQTFTDPPTVKSYA</span></span>
-<span class="topo-line"><span class="topo-outside">RKAIFGEIFEFDTETLNSDGIFRTSPRGWFTFAH</span><span class="topo-membrane">AVFALLFFFGHIWHGA</span><span class="topo-inside">RTLFRDVFSG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">GLPWYRVHTVLINDPGRL</span><span class="topo-membrane">IAAHLMHTALVAGWAG</span><span class="topo-outside">SMALYELATFDPSDPVLNPMWRQGMFV</span><span class="topo-unknown">LPFMAR</span><span class="topo-outside">LGVTGSWSGWSITGETGIDPGFWSFEGVALA</span><span class="topo-membrane">HIVLSGLLFLAACW</span><span class="topo-inside">HWVYWDLE</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">LFRDPRTGEPALDLPKM</span><span class="topo-membrane">FGIHLFLAGLLCFGFGA</span><span class="topo-outside">FHLTGLFGPGMWVSDPYGLTGSVQPVAPEWGPDGFNPYNPGGVVAH</span><span class="topo-membrane">HIAAGIVGIIAGLFHI</span><span class="topo-inside">LVRPP</span><span class="topo-unknown">QRLYKA</span><span class="topo-inside">LRMGNIET</span><span class="topo-membrane">VLSSS</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">IAAVFFAAFV</span><span class="topo-outside">VAGTMWYGSATTPIELFGPTRYQWDSSYFQQEINRRVQASLASGATLEEAWSAIPEKLAFYDYIGNNPAKGGLFRTGPMNKGDGIAQAWKGHAVFRNKEGEELFVRRMPA</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">FFESFPVILTDKNGVVKADIPFRRAESKYSFEQQGVTVSFYGGELNGQTFTDPPTVKSYARKAIFGEIFEFDTETLNSDGIFRTSPRGWFTFAH</span><span class="topo-membrane">AVFALLFFFGHIWHGA</span><span class="topo-inside">RTLFRDVFSG</span></span>
+<span class="topo-ruler">       490       500    </span>
 <span class="topo-line"><span class="topo-inside">IDPELSPEQVEWGFYQKVGDVTTR</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2874,6 +2980,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2889,14 +2996,15 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">NSIF</span><span class="topo-inside">ATNRDQESSGFAWWAGNARLINLSGKLL</span><span class="topo-membrane">GAHVAHAGLIVFWAGA</span><span class="topo-outside">MTLFELAHFIPE</span></span>
-<span class="topo-line"><span class="topo-outside">KPMYEQGLI</span><span class="topo-unknown">LIPHIAT</span><span class="topo-outside">LGWGVGPGGEVVDTFPFFVVGV</span><span class="topo-membrane">VHLISSAVLGFGGVY</span><span class="topo-inside">HAIRGPE</span></span>
-<span class="topo-line"><span class="topo-inside">TLEEYSSFFGYDWKDKNKMT</span><span class="topo-membrane">TILGFHLIVLGIGALL</span><span class="topo-outside">LVAKAMFFGGLYDTWAPGGGDVRV</span></span>
-<span class="topo-line"><span class="topo-outside">ITNPTLD</span><span class="topo-unknown">PRVIFGYL</span><span class="topo-outside">LKSPFGGEGWIVSVNNLEDVVGGHIW</span><span class="topo-membrane">IGLICIAGGIWHILT</span><span class="topo-inside">TPF</span><span class="topo-unknown">G</span></span>
-<span class="topo-line"><span class="topo-unknown">WARRA</span><span class="topo-inside">FIWSGEA</span><span class="topo-membrane">YLSYSLGALSMMGFI</span><span class="topo-outside">ATCFVWFNNTVYPSEFYGPTGPEASQAQAMTFL</span></span>
-<span class="topo-line"><span class="topo-outside">IRDQKLGANVGSAQGPTGLGKYLMRSPTGEIIFGGETMRFWDFRGPWLEPLRGPNGLDLN</span></span>
-<span class="topo-line"><span class="topo-outside">KIKNDIQPWQERRAAEYMTHAPLGSLNSVGGVATEINSVNFVSPRSWLATS</span><span class="topo-membrane">HFVLAFFFL</span></span>
-<span class="topo-line"><span class="topo-membrane">VGHLWHAG</span><span class="topo-inside">RARAAAAGFEKGIDRESEPVLSMPSLD</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">NSIF</span><span class="topo-inside">ATNRDQESSGFAWWAGNARLINLSGKLL</span><span class="topo-membrane">GAHVAHAGLIVFWAGA</span><span class="topo-outside">MTLFELAHFIPEKPMYEQGLI</span><span class="topo-unknown">LIPHIAT</span><span class="topo-outside">LGWGVGPGGEVVDTFPFFVVGV</span><span class="topo-membrane">VHLISSAVLGFGGVY</span><span class="topo-inside">HAIRGPE</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">TLEEYSSFFGYDWKDKNKMT</span><span class="topo-membrane">TILGFHLIVLGIGALL</span><span class="topo-outside">LVAKAMFFGGLYDTWAPGGGDVRVITNPTLD</span><span class="topo-unknown">PRVIFGYL</span><span class="topo-outside">LKSPFGGEGWIVSVNNLEDVVGGHIW</span><span class="topo-membrane">IGLICIAGGIWHILT</span><span class="topo-inside">TPF</span><span class="topo-unknown">G</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-unknown">WARRA</span><span class="topo-inside">FIWSGEA</span><span class="topo-membrane">YLSYSLGALSMMGFI</span><span class="topo-outside">ATCFVWFNNTVYPSEFYGPTGPEASQAQAMTFLIRDQKLGANVGSAQGPTGLGKYLMRSPTGEIIFGGETMRFWDFRGPWLEPLRGPNGLDLN</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450     </span>
+<span class="topo-line"><span class="topo-outside">KIKNDIQPWQERRAAEYMTHAPLGSLNSVGGVATEINSVNFVSPRSWLATS</span><span class="topo-membrane">HFVLAFFFLVGHLWHAG</span><span class="topo-inside">RARAAAAGFEKGIDRESEPVLSMPSLD</span></span>
+<details class="topo-details"><summary>Topology coordinates (20 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3048,6 +3156,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3063,12 +3172,13 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">ERG</span><span class="topo-unknown">WFDILDDWL</span><span class="topo-inside">KRDRFVFVGW</span><span class="topo-membrane">SGILLFPCAYLALGGWLT</span><span class="topo-outside">GTTFVTSWYTHGLASSYLEG</span></span>
-<span class="topo-line"><span class="topo-outside">CNFLTVAVSTPANSMGHSLLLLWGPEAQGD</span><span class="topo-unknown">FTRWCQ</span><span class="topo-outside">LGGLWTF</span><span class="topo-membrane">IALHGAFGLIGFMLRQF</span></span>
-<span class="topo-line"><span class="topo-inside">EIARLVGVRPY</span><span class="topo-membrane">NAIAFSAPIAVFVS</span><span class="topo-outside">VFLIYPLGQSSWFFAPSFG</span><span class="topo-unknown">VAAIFRFLLFFQGFH</span><span class="topo-outside">N</span></span>
-<span class="topo-line"><span class="topo-outside">WTLNPF</span><span class="topo-membrane">HMMGVAGVLGGALLCAIHGA</span><span class="topo-inside">TVENTLFQDGEGASTFRAFNPTQAEETYSMVTAN</span></span>
-<span class="topo-line"><span class="topo-inside">RFWSQIFGIAFSNKRWLHF</span><span class="topo-membrane">FMLFVPVTGLWMSAI</span><span class="topo-outside">GVVGLALNLRSYDFISQEIRAAEDPE</span></span>
-<span class="topo-line"><span class="topo-outside">FETFYTKNLLLNEGIRAWMAPQDQPHENFVFPEEVLPRGNAL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">ERG</span><span class="topo-unknown">WFDILDDWL</span><span class="topo-inside">KRDRFVFVGW</span><span class="topo-membrane">SGILLFPCAYLALGGWLT</span><span class="topo-outside">GTTFVTSWYTHGLASSYLEGCNFLTVAVSTPANSMGHSLLLLWGPEAQGD</span><span class="topo-unknown">FTRWCQ</span><span class="topo-outside">LGGLWTF</span><span class="topo-membrane">IALHGAFGLIGFMLRQF</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">EIARLVGVRPY</span><span class="topo-membrane">NAIAFSAPIAVFVS</span><span class="topo-outside">VFLIYPLGQSSWFFAPSFG</span><span class="topo-unknown">VAAIFRFLLFFQGFH</span><span class="topo-outside">NWTLNPF</span><span class="topo-membrane">HMMGVAGVLGGALLCAIHGA</span><span class="topo-inside">TVENTLFQDGEGASTFRAFNPTQAEETYSMVTAN</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340  </span>
+<span class="topo-line"><span class="topo-inside">RFWSQIFGIAFSNKRWLHF</span><span class="topo-membrane">FMLFVPVTGLWMSAI</span><span class="topo-outside">GVVGLALNLRSYDFISQEIRAAEDPEFETFYTKNLLLNEGIRAWMAPQDQPHENFVFPEEVLPRGNAL</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3199,6 +3309,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3214,8 +3325,9 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">TTGERPFSDIITSVRY</span><span class="topo-membrane">WVIHSITIPALFIAGW</span><span class="topo-outside">LFVSTG</span><span class="topo-unknown">LAYDVF</span><span class="topo-outside">GTPRPDSYYAQEQRSI</span></span>
-<span class="topo-line"><span class="topo-outside">PLVTDRFEAKQQVETFLEQLK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80 </span>
+<span class="topo-line"><span class="topo-inside">TTGERPFSDIITSVRY</span><span class="topo-membrane">WVIHSITIPALFIAGW</span><span class="topo-outside">LFVSTG</span><span class="topo-unknown">LAYDVF</span><span class="topo-outside">GTPRPDSYYAQEQRSIPLVTDRFEAKQQVETFLEQLK</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3262,6 +3374,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3277,7 +3390,9 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30    </span>
 <span class="topo-line"><span class="topo-inside">SYPIFTVR</span><span class="topo-membrane">WVAVHTLAVPTIFFLGA</span><span class="topo-outside">IAAMQFIQR</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3310,6 +3425,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3325,8 +3441,9 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">ARRT</span><span class="topo-unknown">WLGDIL</span><span class="topo-inside">RPLNSEYGKVAPGWGTTP</span><span class="topo-membrane">LMAVFMGLFLVFLLI</span><span class="topo-outside">ILEIYNSTLILDGVNVS</span></span>
-<span class="topo-line"><span class="topo-outside">WKALG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60     </span>
+<span class="topo-line"><span class="topo-inside">ARRT</span><span class="topo-unknown">WLGDIL</span><span class="topo-inside">RPLNSEYGKVAPGWGTTP</span><span class="topo-membrane">LMAVFMGLFLVFLLI</span><span class="topo-outside">ILEIYNSTLILDGVNVSWKALG</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3373,6 +3490,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3388,7 +3506,9 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        </span>
 <span class="topo-line"><span class="topo-outside">METLKIT</span><span class="topo-membrane">VYIVVTFFVLLFVFGFL</span><span class="topo-inside">SGDPARNPKRKDLE</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3421,6 +3541,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3436,7 +3557,9 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40</span>
 <span class="topo-line"><span class="topo-unknown">MM</span><span class="topo-inside">SEGGRIPLWI</span><span class="topo-membrane">VATVAGMGVIVIVGL</span><span class="topo-outside">FFYGAYAGLGSSL</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3476,6 +3599,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3491,7 +3615,9 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30       </span>
 <span class="topo-line"><span class="topo-outside">KLPEAYAIFDPLVDV</span><span class="topo-membrane">LPVIPVLFLALAFVW</span><span class="topo-inside">QAAVGFR</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3524,6 +3650,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3539,7 +3666,9 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30       </span>
 <span class="topo-line"><span class="topo-inside">MEPNPNRQPVELNRT</span><span class="topo-membrane">SLYLGLLLILVLALL</span><span class="topo-outside">FSSYFFN</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3572,6 +3701,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3587,7 +3717,9 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30    </span>
 <span class="topo-line"><span class="topo-outside">MEVNQLGLIAT</span><span class="topo-membrane">ALFVLVPSVFLIILY</span><span class="topo-inside">VQTESQQK</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3620,6 +3752,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3635,11 +3768,13 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">TLTYDDIVGTGLANKCPTLDDTARGAYPIDSSQTYRIARLCLQPTTFLVKEEPKNKRQEA</span></span>
-<span class="topo-line"><span class="topo-outside">EFVPTKLVTRETTSLDQIQGELKVNSDGSLTFVEEDGIDFQPVTVQMAGGERIPLLFTVK</span></span>
-<span class="topo-line"><span class="topo-outside">NLVASTQPNVTSITTSTDFKGEFNVPSYRTANFLDPKGRGLASGYDSAIALPQAKEEELA</span></span>
-<span class="topo-line"><span class="topo-outside">RANVKRFSLTKGQISLNVAKVDGRTGEIAGTFESEQLSDDDMGAHEPHEVKIQGVFYASI</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">TLTYDDIVGTGLANKCPTLDDTARGAYPIDSSQTYRIARLCLQPTTFLVKEEPKNKRQEAEFVPTKLVTRETTSLDQIQGELKVNSDGSLTFVEEDGIDFQPVTVQMAGGERIPLLFTVK</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">NLVASTQPNVTSITTSTDFKGEFNVPSYRTANFLDPKGRGLASGYDSAIALPQAKEEELARANVKRFSLTKGQISLNVAKVDGRTGEIAGTFESEQLSDDDMGAHEPHEVKIQGVFYASI</span></span>
+<span class="topo-ruler">   </span>
 <span class="topo-line"><span class="topo-outside">EPA</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3658,6 +3793,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3673,7 +3809,9 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30</span>
 <span class="topo-line"><span class="topo-outside">METITYVF</span><span class="topo-membrane">IFACIIALFFFAIFF</span><span class="topo-inside">REPPRIT</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3706,6 +3844,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3721,8 +3860,9 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">ELVNVVDEKLGTAYGEKIDLNNTNIAAFIQYRGLYPTLAKLIVKNAPYESVEDVLNIPGL</span></span>
-<span class="topo-line"><span class="topo-outside">TERQKQILRENLEHFTVTEVETALVEGGDRYNNGLYK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       </span>
+<span class="topo-line"><span class="topo-outside">ELVNVVDEKLGTAYGEKIDLNNTNIAAFIQYRGLYPTLAKLIVKNAPYESVEDVLNIPGLTERQKQILRENLEHFTVTEVETALVEGGDRYNNGLYK</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3741,6 +3881,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3756,9 +3897,11 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">AELTPEVLTVPLNSEGKTITLTEKQYLEGKRLFQYACASCHVGGITKTNPSLDLRTETLA</span></span>
-<span class="topo-line"><span class="topo-outside">LATPPRDNIEGLVDYMKNPTTYDGEQEIAEVHPSLRSADIFPKMRNLTEKDLVAIAGHIL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">AELTPEVLTVPLNSEGKTITLTEKQYLEGKRLFQYACASCHVGGITKTNPSLDLRTETLALATPPRDNIEGLVDYMKNPTTYDGEQEIAEVHPSLRSADIFPKMRNLTEKDLVAIAGHIL</span></span>
+<span class="topo-ruler">       130       </span>
 <span class="topo-line"><span class="topo-outside">VEPKILGDKWGGGKVYY</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3777,6 +3920,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3792,7 +3936,9 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20         </span>
 <span class="topo-line"><span class="topo-outside">VIAQL</span><span class="topo-membrane">TMIAMIGIAGPMIIF</span><span class="topo-inside">LLAVRRGNL</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3825,6 +3971,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3840,7 +3987,9 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30         </span>
 <span class="topo-line"><span class="topo-outside">TITPSLKGFF</span><span class="topo-membrane">IGLLSGAVVLGLTFAVL</span><span class="topo-inside">IAISQIDKVQRS</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3873,6 +4022,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3888,8 +4038,9 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MTILFQL</span><span class="topo-membrane">ALAALVILSFVMVIGVP</span><span class="topo-inside">VAYASPQDWDRSKQL</span><span class="topo-membrane">IFLGSGLWIALVLVVG</span><span class="topo-outside">VLNFF</span></span>
-<span class="topo-line"><span class="topo-outside">VV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60  </span>
+<span class="topo-line"><span class="topo-outside">MTILFQL</span><span class="topo-membrane">ALAALVILSFVMVIGVP</span><span class="topo-inside">VAYASPQDWDRSKQL</span><span class="topo-membrane">IFLGSGLWIALVLVVG</span><span class="topo-outside">VLNFFVV</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3936,6 +4087,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3951,12 +4103,13 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">AN</span><span class="topo-unknown">LWERFCNWV</span><span class="topo-inside">TSTDNRL</span><span class="topo-membrane">YVGWFGVIMIPTLLAATI</span><span class="topo-outside">CFVIAFIAAPPVDIDGIREPVSGS</span></span>
-<span class="topo-line"><span class="topo-outside">LLYGNNIITGAVVPSSNAIGLHFYPIWEAASLDEWLYNGGPYQLIIF</span><span class="topo-membrane">HFLLGASCYMGRQ</span></span>
-<span class="topo-line"><span class="topo-membrane">WE</span><span class="topo-inside">LSYRLGMRPW</span><span class="topo-membrane">ICVAYSAPLASAF</span><span class="topo-outside">AVFLIYPIGQGSFSDGMPLGISGTFNFMIVFQAEH</span></span>
-<span class="topo-line"><span class="topo-outside">NILMHPF</span><span class="topo-membrane">HQLGVAGVFGGALFCAMHGS</span><span class="topo-inside">LVTSSLIRETTETESANYGYKFGQEEETYNIVA</span></span>
-<span class="topo-line"><span class="topo-inside">AHGYFGRLIFQYASFNNSRSLHF</span><span class="topo-membrane">FLAAWPVVGVWFAAL</span><span class="topo-outside">GISTMAFNLNGFNFNHSVIDAK</span></span>
-<span class="topo-line"><span class="topo-outside">GNVINTWADIINRANLGMEVMHERNAHNFPLDLA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">AN</span><span class="topo-unknown">LWERFCNWV</span><span class="topo-inside">TSTDNRL</span><span class="topo-membrane">YVGWFGVIMIPTLLAATI</span><span class="topo-outside">CFVIAFIAAPPVDIDGIREPVSGSLLYGNNIITGAVVPSSNAIGLHFYPIWEAASLDEWLYNGGPYQLIIF</span><span class="topo-membrane">HFLLGASCYMGRQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">WE</span><span class="topo-inside">LSYRLGMRPW</span><span class="topo-membrane">ICVAYSAPLASAF</span><span class="topo-outside">AVFLIYPIGQGSFSDGMPLGISGTFNFMIVFQAEHNILMHPF</span><span class="topo-membrane">HQLGVAGVFGGALFCAMHGS</span><span class="topo-inside">LVTSSLIRETTETESANYGYKFGQEEETYNIVA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330    </span>
+<span class="topo-line"><span class="topo-inside">AHGYFGRLIFQYASFNNSRSLHF</span><span class="topo-membrane">FLAAWPVVGVWFAAL</span><span class="topo-outside">GISTMAFNLNGFNFNHSVIDAKGNVINTWADIINRANLGMEVMHERNAHNFPLDLA</span></span>
+<details class="topo-details"><summary>Topology coordinates (13 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4059,6 +4212,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4074,15 +4228,17 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">GLPWYRVHTVLINDPGRL</span><span class="topo-membrane">IAAHLMHTALVAGWAG</span><span class="topo-outside">SMALYELATFDPSDPVLNPMWRQGMF</span></span>
-<span class="topo-line"><span class="topo-outside">V</span><span class="topo-unknown">LPFMAR</span><span class="topo-outside">LGVTGSWSGWSITGETGIDPGFWSFEGVALA</span><span class="topo-membrane">HIVLSGLLFLAACWH</span><span class="topo-inside">WVYWDLE</span></span>
-<span class="topo-line"><span class="topo-inside">LFRDPRTGEPALDLPKM</span><span class="topo-membrane">FGIHLFLAGLLCFGF</span><span class="topo-outside">GAFHLTGLFGPGMWVSDPYGLTGSVQPV</span></span>
-<span class="topo-line"><span class="topo-outside">APEWGPDGFNPYNPGGVVAH</span><span class="topo-membrane">HIAAGIVGIIAGLFHI</span><span class="topo-inside">LVRPP</span><span class="topo-unknown">QRLYKA</span><span class="topo-inside">LRMGNIET</span><span class="topo-membrane">VLSSS</span></span>
-<span class="topo-line"><span class="topo-membrane">IAAVFFAAFV</span><span class="topo-outside">VAGTMWYGSATTPIELFGPTRYQWDSSYFQQEINRRVQASLASGATLEEA</span></span>
-<span class="topo-line"><span class="topo-outside">WSAIPEKLAFYDYIGNNPAKGGLFRTGPMNKGDGIAQAWKGHAVFRNKEGEELFVRRMPA</span></span>
-<span class="topo-line"><span class="topo-outside">FFESFPVILTDKNGVVKADIPFRRAESKYSFEQQGVTVSFYGGELNGQTFTDPPTVKSYA</span></span>
-<span class="topo-line"><span class="topo-outside">RKAIFGEIFEFDTETLNSDGIFRTSPRGWFTFAH</span><span class="topo-membrane">AVFALLFFFGHIWHGA</span><span class="topo-inside">RTLFRDVFSG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">GLPWYRVHTVLINDPGRL</span><span class="topo-membrane">IAAHLMHTALVAGWAG</span><span class="topo-outside">SMALYELATFDPSDPVLNPMWRQGMFV</span><span class="topo-unknown">LPFMAR</span><span class="topo-outside">LGVTGSWSGWSITGETGIDPGFWSFEGVALA</span><span class="topo-membrane">HIVLSGLLFLAACWH</span><span class="topo-inside">WVYWDLE</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">LFRDPRTGEPALDLPKM</span><span class="topo-membrane">FGIHLFLAGLLCFGF</span><span class="topo-outside">GAFHLTGLFGPGMWVSDPYGLTGSVQPVAPEWGPDGFNPYNPGGVVAH</span><span class="topo-membrane">HIAAGIVGIIAGLFHI</span><span class="topo-inside">LVRPP</span><span class="topo-unknown">QRLYKA</span><span class="topo-inside">LRMGNIET</span><span class="topo-membrane">VLSSS</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">IAAVFFAAFV</span><span class="topo-outside">VAGTMWYGSATTPIELFGPTRYQWDSSYFQQEINRRVQASLASGATLEEAWSAIPEKLAFYDYIGNNPAKGGLFRTGPMNKGDGIAQAWKGHAVFRNKEGEELFVRRMPA</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">FFESFPVILTDKNGVVKADIPFRRAESKYSFEQQGVTVSFYGGELNGQTFTDPPTVKSYARKAIFGEIFEFDTETLNSDGIFRTSPRGWFTFAH</span><span class="topo-membrane">AVFALLFFFGHIWHGA</span><span class="topo-inside">RTLFRDVFSG</span></span>
+<span class="topo-ruler">       490       500    </span>
 <span class="topo-line"><span class="topo-inside">IDPELSPEQVEWGFYQKVGDVTTR</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4213,6 +4369,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4228,14 +4385,15 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">NSIFATNRDQESSGFAWWAGNARLINLSGKLL</span><span class="topo-membrane">GAHVAHAGLIVFWAGA</span><span class="topo-outside">MTLFELAHFIPE</span></span>
-<span class="topo-line"><span class="topo-outside">KPMYEQGLI</span><span class="topo-unknown">LIPHIAT</span><span class="topo-outside">LGWGVGPGGEVVDTFPFFVVGV</span><span class="topo-membrane">VHLISSAVLGFGGVY</span><span class="topo-inside">HAIRGPE</span></span>
-<span class="topo-line"><span class="topo-inside">TLEEYSSFFGYDWKDKNKMT</span><span class="topo-membrane">TILGFHLIVLGIGALL</span><span class="topo-outside">LVAKAMFFGGLYDTWAPGGGDVRV</span></span>
-<span class="topo-line"><span class="topo-outside">ITNPTLD</span><span class="topo-unknown">PRVIFGYL</span><span class="topo-outside">LKSPFGGEGWIVSVNNLEDVVGGHIW</span><span class="topo-membrane">IGLICIAGGIWHILT</span><span class="topo-inside">TPF</span><span class="topo-unknown">G</span></span>
-<span class="topo-line"><span class="topo-unknown">WARRA</span><span class="topo-inside">FIWSGEA</span><span class="topo-membrane">YLSYSLGALSMMGFI</span><span class="topo-outside">ATCFVWFNNTVYPSEFYGPTGPEASQAQAMTFL</span></span>
-<span class="topo-line"><span class="topo-outside">IRDQKLGANVGSAQGPTGLGKYLMRSPTGEIIFGGETMRFWDFRGPWLEPLRGPNGLDLN</span></span>
-<span class="topo-line"><span class="topo-outside">KIKNDIQPWQERRAAEYMTHAPLGSLNSVGGVATEINSVNFVSPRSWLATS</span><span class="topo-membrane">HFVLAFFFL</span></span>
-<span class="topo-line"><span class="topo-membrane">VGHLWHAG</span><span class="topo-inside">RARAAAAGFEKGIDRESEPVLSMPSLD</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">NSIFATNRDQESSGFAWWAGNARLINLSGKLL</span><span class="topo-membrane">GAHVAHAGLIVFWAGA</span><span class="topo-outside">MTLFELAHFIPEKPMYEQGLI</span><span class="topo-unknown">LIPHIAT</span><span class="topo-outside">LGWGVGPGGEVVDTFPFFVVGV</span><span class="topo-membrane">VHLISSAVLGFGGVY</span><span class="topo-inside">HAIRGPE</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">TLEEYSSFFGYDWKDKNKMT</span><span class="topo-membrane">TILGFHLIVLGIGALL</span><span class="topo-outside">LVAKAMFFGGLYDTWAPGGGDVRVITNPTLD</span><span class="topo-unknown">PRVIFGYL</span><span class="topo-outside">LKSPFGGEGWIVSVNNLEDVVGGHIW</span><span class="topo-membrane">IGLICIAGGIWHILT</span><span class="topo-inside">TPF</span><span class="topo-unknown">G</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-unknown">WARRA</span><span class="topo-inside">FIWSGEA</span><span class="topo-membrane">YLSYSLGALSMMGFI</span><span class="topo-outside">ATCFVWFNNTVYPSEFYGPTGPEASQAQAMTFLIRDQKLGANVGSAQGPTGLGKYLMRSPTGEIIFGGETMRFWDFRGPWLEPLRGPNGLDLN</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450     </span>
+<span class="topo-line"><span class="topo-outside">KIKNDIQPWQERRAAEYMTHAPLGSLNSVGGVATEINSVNFVSPRSWLATS</span><span class="topo-membrane">HFVLAFFFLVGHLWHAG</span><span class="topo-inside">RARAAAAGFEKGIDRESEPVLSMPSLD</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4380,6 +4538,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4395,12 +4554,13 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">E</span><span class="topo-inside">RG</span><span class="topo-unknown">WFDILDDWL</span><span class="topo-inside">KRDRFVFVGW</span><span class="topo-membrane">SGILLFPCAYLALGGWLT</span><span class="topo-outside">GTTFVTSWYTHGLASSYLEG</span></span>
-<span class="topo-line"><span class="topo-outside">CNFLTVAVSTPANSMGHSLLLLWGPEAQGD</span><span class="topo-unknown">FTRWCQ</span><span class="topo-outside">LGGLWTF</span><span class="topo-membrane">IALHGAFGLIGFMLRQF</span></span>
-<span class="topo-line"><span class="topo-inside">EIARLVGVRPY</span><span class="topo-membrane">NAIAFSAPIAVFVS</span><span class="topo-outside">VFLIYPLGQSSWFFAPSFGVAAIFRFLLFFQGFHN</span></span>
-<span class="topo-line"><span class="topo-outside">WTLNPFHM</span><span class="topo-membrane">MGVAGVLGGALLCAIHGAT</span><span class="topo-inside">VENTLFQDGEGASTFRAFNPTQAEETYSMVTAN</span></span>
-<span class="topo-line"><span class="topo-inside">RFWSQIFGIAFSNKRWLH</span><span class="topo-membrane">FFMLFVPVTGLWMSAI</span><span class="topo-outside">GVVGLALNLRSYDFISQEIRAAEDPE</span></span>
-<span class="topo-line"><span class="topo-outside">FETFYTKNLLLNEGIRAWMAPQDQPHENFVFPEEVLPRGNAL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">E</span><span class="topo-inside">RG</span><span class="topo-unknown">WFDILDDWL</span><span class="topo-inside">KRDRFVFVGW</span><span class="topo-membrane">SGILLFPCAYLALGGWLT</span><span class="topo-outside">GTTFVTSWYTHGLASSYLEGCNFLTVAVSTPANSMGHSLLLLWGPEAQGD</span><span class="topo-unknown">FTRWCQ</span><span class="topo-outside">LGGLWTF</span><span class="topo-membrane">IALHGAFGLIGFMLRQF</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">EIARLVGVRPY</span><span class="topo-membrane">NAIAFSAPIAVFVS</span><span class="topo-outside">VFLIYPLGQSSWFFAPSFGVAAIFRFLLFFQGFHNWTLNPFHM</span><span class="topo-membrane">MGVAGVLGGALLCAIHGAT</span><span class="topo-inside">VENTLFQDGEGASTFRAFNPTQAEETYSMVTAN</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340  </span>
+<span class="topo-line"><span class="topo-inside">RFWSQIFGIAFSNKRWLH</span><span class="topo-membrane">FFMLFVPVTGLWMSAI</span><span class="topo-outside">GVVGLALNLRSYDFISQEIRAAEDPEFETFYTKNLLLNEGIRAWMAPQDQPHENFVFPEEVLPRGNAL</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4524,6 +4684,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4539,8 +4700,9 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">TTGERPFSDIITSVRY</span><span class="topo-membrane">WVIHSITIPALFIAG</span><span class="topo-outside">WLFVSTG</span><span class="topo-unknown">LAYDVF</span><span class="topo-outside">GTPRPDSYYAQEQRSI</span></span>
-<span class="topo-line"><span class="topo-outside">PLVTDRFEAKQQVETFLEQLK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80 </span>
+<span class="topo-line"><span class="topo-inside">TTGERPFSDIITSVRY</span><span class="topo-membrane">WVIHSITIPALFIAG</span><span class="topo-outside">WLFVSTG</span><span class="topo-unknown">LAYDVF</span><span class="topo-outside">GTPRPDSYYAQEQRSIPLVTDRFEAKQQVETFLEQLK</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4587,6 +4749,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4602,7 +4765,9 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30    </span>
 <span class="topo-line"><span class="topo-unknown">SY</span><span class="topo-inside">PIFTV</span><span class="topo-membrane">RWVAVHTLAVPTIFFLG</span><span class="topo-outside">AIAAMQFIQR</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4642,6 +4807,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4657,8 +4823,9 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">ARRT</span><span class="topo-unknown">WLGDIL</span><span class="topo-inside">RPLNSEYGKVAPGWGTT</span><span class="topo-membrane">PLMAVFMGLFLVFLL</span><span class="topo-outside">IILEIYNSTLILDGVNVS</span></span>
-<span class="topo-line"><span class="topo-outside">WKALG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60     </span>
+<span class="topo-line"><span class="topo-inside">ARRT</span><span class="topo-unknown">WLGDIL</span><span class="topo-inside">RPLNSEYGKVAPGWGTT</span><span class="topo-membrane">PLMAVFMGLFLVFLL</span><span class="topo-outside">IILEIYNSTLILDGVNVSWKALG</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4705,6 +4872,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4720,7 +4888,9 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        </span>
 <span class="topo-line"><span class="topo-outside">METLKIT</span><span class="topo-membrane">VYIVVTFFVLLFVFGFL</span><span class="topo-inside">SGDPARNPKRKDLE</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4753,6 +4923,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4768,7 +4939,9 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40</span>
 <span class="topo-line"><span class="topo-inside">MMSEGGRIPLW</span><span class="topo-membrane">IVATVAGMGVIVIVG</span><span class="topo-outside">LFFYGAYAGLGSSL</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4801,6 +4974,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4816,7 +4990,9 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30       </span>
 <span class="topo-line"><span class="topo-outside">KLPEAYAIFDPLVDV</span><span class="topo-membrane">LPVIPVLFLALAFVW</span><span class="topo-inside">QAAVGFR</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4849,6 +5025,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4864,7 +5041,9 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30       </span>
 <span class="topo-line"><span class="topo-inside">MEPNPNRQPVELNRT</span><span class="topo-membrane">SLYLGLLLILVLALL</span><span class="topo-outside">FSSYFFN</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4897,6 +5076,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4912,7 +5092,9 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30    </span>
 <span class="topo-line"><span class="topo-outside">MEVNQLGLIAT</span><span class="topo-membrane">ALFVLVPSVFLIILY</span><span class="topo-inside">VQTESQQK</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4945,6 +5127,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4960,11 +5143,13 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">TLTYDDIVGTGLANKCPTLDDTARGAYPIDSSQTYRIARLCLQPTTFLVKEEPKNKRQEA</span></span>
-<span class="topo-line"><span class="topo-outside">EFVPTKLVTRETTSLDQIQGELKVNSDGSLTFVEEDGIDFQPVTVQMAGGERIPLLFTVK</span></span>
-<span class="topo-line"><span class="topo-outside">NLVASTQPNVTSITTSTDFKGEFNVPSYRTANFLDPKGRGLASGYDSAIALPQAKEEELA</span></span>
-<span class="topo-line"><span class="topo-outside">RANVKRFSLTKGQISLNVAKVDGRTGEIAGTFESEQLSDDDMGAHEPHEVKIQGVFYASI</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">TLTYDDIVGTGLANKCPTLDDTARGAYPIDSSQTYRIARLCLQPTTFLVKEEPKNKRQEAEFVPTKLVTRETTSLDQIQGELKVNSDGSLTFVEEDGIDFQPVTVQMAGGERIPLLFTVK</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">NLVASTQPNVTSITTSTDFKGEFNVPSYRTANFLDPKGRGLASGYDSAIALPQAKEEELARANVKRFSLTKGQISLNVAKVDGRTGEIAGTFESEQLSDDDMGAHEPHEVKIQGVFYASI</span></span>
+<span class="topo-ruler">   </span>
 <span class="topo-line"><span class="topo-outside">EPA</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4983,6 +5168,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4998,7 +5184,9 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30</span>
 <span class="topo-line"><span class="topo-outside">METITYV</span><span class="topo-membrane">FIFACIIALFFFAIFF</span><span class="topo-inside">REPPRIT</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -5031,6 +5219,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -5046,8 +5235,9 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">ELVNVVDEKLGTAYGEKIDLNNTNIAAFIQYRGLYPTLAKLIVKNAPYESVEDVLNIPGL</span></span>
-<span class="topo-line"><span class="topo-outside">TERQKQILRENLEHFTVTEVETALVEGGDRYNNGLYK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       </span>
+<span class="topo-line"><span class="topo-outside">ELVNVVDEKLGTAYGEKIDLNNTNIAAFIQYRGLYPTLAKLIVKNAPYESVEDVLNIPGLTERQKQILRENLEHFTVTEVETALVEGGDRYNNGLYK</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -5066,6 +5256,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -5081,9 +5272,11 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">AELTPEVLTVPLNSEGKTITLTEKQYLEGKRLFQYACASCHVGGITKTNPSLDLRTETLA</span></span>
-<span class="topo-line"><span class="topo-outside">LATPPRDNIEGLVDYMKNPTTYDGEQEIAEVHPSLRSADIFPKMRNLTEKDLVAIAGHIL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">AELTPEVLTVPLNSEGKTITLTEKQYLEGKRLFQYACASCHVGGITKTNPSLDLRTETLALATPPRDNIEGLVDYMKNPTTYDGEQEIAEVHPSLRSADIFPKMRNLTEKDLVAIAGHIL</span></span>
+<span class="topo-ruler">       130       </span>
 <span class="topo-line"><span class="topo-outside">VEPKILGDKWGGGKVYY</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -5102,6 +5295,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -5117,7 +5311,9 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20         </span>
 <span class="topo-line"><span class="topo-outside">VIAQL</span><span class="topo-membrane">TMIAMIGIAGPMIIF</span><span class="topo-inside">LLAVRRGNL</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -5150,6 +5346,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -5165,7 +5362,9 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30         </span>
 <span class="topo-line"><span class="topo-outside">TITPSLKGFF</span><span class="topo-membrane">IGLLSGAVVLGLTFAVL</span><span class="topo-inside">IAISQIDKVQRS</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -5198,6 +5397,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -5213,8 +5413,9 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MTILFQL</span><span class="topo-membrane">ALAALVILSFVMVIGVP</span><span class="topo-inside">VAYASPQDWDRSKQL</span><span class="topo-membrane">IFLGSGLWIALVLVVG</span><span class="topo-outside">VLNFF</span></span>
-<span class="topo-line"><span class="topo-outside">VV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60  </span>
+<span class="topo-line"><span class="topo-outside">MTILFQL</span><span class="topo-membrane">ALAALVILSFVMVIGVP</span><span class="topo-inside">VAYASPQDWDRSKQL</span><span class="topo-membrane">IFLGSGLWIALVLVVG</span><span class="topo-outside">VLNFFVV</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -5261,6 +5462,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -5352,12 +5554,13 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MTTTLQRRES</span><span class="topo-outside">ANLWERFCNWVTSTDNRLYVGW</span><span class="topo-membrane">FGVIMIPTLLAATI</span><span class="topo-inside">CFVIAFIAAPPVDI</span></span>
-<span class="topo-line"><span class="topo-inside">DGIREPVSGSLLYGNNIITGAVVPSSNAIGLHFYPIWEAASLDEWLYNGGPYQLIIF</span><span class="topo-membrane">HFL</span></span>
-<span class="topo-line"><span class="topo-membrane">LGASCYMGRQ</span><span class="topo-outside">WELSYRLGMRPWI</span><span class="topo-membrane">CVAYSAPLASAFA</span><span class="topo-inside">VFLIYPIGQGSFSDGMPLGISGTF</span></span>
-<span class="topo-line"><span class="topo-inside">NFMIVFQAEHNILMHP</span><span class="topo-membrane">FHQLGVAGVFGGALFCAM</span><span class="topo-outside">HGSLVTSSLIRETTETESANYGYKFG</span></span>
-<span class="topo-line"><span class="topo-outside">QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFL</span><span class="topo-membrane">AAWPVVGVWFAAL</span><span class="topo-inside">GISTMAFNLNGF</span></span>
-<span class="topo-line"><span class="topo-inside">NFNHSVIDAKGNVINTWADIINRANLGMEVMHERNAHNFPLDLA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MTTTLQRRES</span><span class="topo-outside">ANLWERFCNWVTSTDNRLYVGW</span><span class="topo-membrane">FGVIMIPTLLAATI</span><span class="topo-inside">CFVIAFIAAPPVDIDGIREPVSGSLLYGNNIITGAVVPSSNAIGLHFYPIWEAASLDEWLYNGGPYQLIIF</span><span class="topo-membrane">HFL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">LGASCYMGRQ</span><span class="topo-outside">WELSYRLGMRPWI</span><span class="topo-membrane">CVAYSAPLASAFA</span><span class="topo-inside">VFLIYPIGQGSFSDGMPLGISGTFNFMIVFQAEHNILMHP</span><span class="topo-membrane">FHQLGVAGVFGGALFCAM</span><span class="topo-outside">HGSLVTSSLIRETTETESANYGYKFG</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340    </span>
+<span class="topo-line"><span class="topo-outside">QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFL</span><span class="topo-membrane">AAWPVVGVWFAAL</span><span class="topo-inside">GISTMAFNLNGFNFNHSVIDAKGNVINTWADIINRANLGMEVMHERNAHNFPLDLA</span></span>
+<details class="topo-details"><summary>Topology coordinates (12 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -5453,6 +5656,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -5468,15 +5672,17 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">GLPWYRVHTVLINDPGRLIAA</span><span class="topo-membrane">HLMHTALVAGWAG</span><span class="topo-inside">SMALYELATFDPSDPVLNPMWRQGMF</span></span>
-<span class="topo-line"><span class="topo-inside">VLPFMARLGVTGSWSGWSITGETGIDPGFWSFEGVAL</span><span class="topo-membrane">AHIVLSGLLFLAA</span><span class="topo-outside">CWHWVYWDLE</span></span>
-<span class="topo-line"><span class="topo-outside">LFRDPRTGEPALDLPKMFG</span><span class="topo-membrane">IHLFLAGLLCFGFGA</span><span class="topo-inside">FHLTGLFGPGMWVSDPYGLTGSVQPV</span></span>
-<span class="topo-line"><span class="topo-inside">APEWGPDGFNPYNPGGVVAH</span><span class="topo-membrane">HIAAGIVGIIAGL</span><span class="topo-outside">FHILVRPPQRLYKALRMGNIETVL</span><span class="topo-membrane">SSS</span></span>
-<span class="topo-line"><span class="topo-membrane">IAAVFFAAFV</span><span class="topo-inside">VAGTMWYGSATTPIELFGPTRYQWDSSYFQQEINRRVQASLASGATLEEA</span></span>
-<span class="topo-line"><span class="topo-inside">WSAIPEKLAFYDYIGNNPAKGGLFRTGPMNKGDGIAQAWKGHAVFRNKEGEELFVRRMPA</span></span>
-<span class="topo-line"><span class="topo-inside">FFESFPVILTDKNGVVKADIPFRRAESKYSFEQQGVTVSFYGGELNGQTFTDPPTVKSYA</span></span>
-<span class="topo-line"><span class="topo-inside">RKAIFGEIFEFDTETLNSDGIFRTSPRGWFTFAH</span><span class="topo-membrane">AVFALLFFFGHIW</span><span class="topo-outside">HGARTLFRDVFSG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">GLPWYRVHTVLINDPGRLIAA</span><span class="topo-membrane">HLMHTALVAGWAG</span><span class="topo-inside">SMALYELATFDPSDPVLNPMWRQGMFVLPFMARLGVTGSWSGWSITGETGIDPGFWSFEGVAL</span><span class="topo-membrane">AHIVLSGLLFLAA</span><span class="topo-outside">CWHWVYWDLE</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">LFRDPRTGEPALDLPKMFG</span><span class="topo-membrane">IHLFLAGLLCFGFGA</span><span class="topo-inside">FHLTGLFGPGMWVSDPYGLTGSVQPVAPEWGPDGFNPYNPGGVVAH</span><span class="topo-membrane">HIAAGIVGIIAGL</span><span class="topo-outside">FHILVRPPQRLYKALRMGNIETVL</span><span class="topo-membrane">SSS</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">IAAVFFAAFV</span><span class="topo-inside">VAGTMWYGSATTPIELFGPTRYQWDSSYFQQEINRRVQASLASGATLEEAWSAIPEKLAFYDYIGNNPAKGGLFRTGPMNKGDGIAQAWKGHAVFRNKEGEELFVRRMPA</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">FFESFPVILTDKNGVVKADIPFRRAESKYSFEQQGVTVSFYGGELNGQTFTDPPTVKSYARKAIFGEIFEFDTETLNSDGIFRTSPRGWFTFAH</span><span class="topo-membrane">AVFALLFFFGHIW</span><span class="topo-outside">HGARTLFRDVFSG</span></span>
+<span class="topo-ruler">       490       500     </span>
 <span class="topo-line"><span class="topo-outside">IDPELSPEQVEWGFYQKVGDVTTR</span><span class="topo-unknown">K</span></span>
+<details class="topo-details"><summary>Topology coordinates (13 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -5579,6 +5785,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -5594,14 +5801,15 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">NSIF</span><span class="topo-outside">ATNRDQESSGFAWWAGNARLINLSGKLLGA</span><span class="topo-membrane">HVAHAGLIVFWAGA</span><span class="topo-inside">MTLFELAHFIPE</span></span>
-<span class="topo-line"><span class="topo-inside">KPMYEQGLILIPHIATLGWGVGPGGEVVDTFPFFVVGV</span><span class="topo-membrane">VHLISSAVLGFGG</span><span class="topo-outside">VYHAIRGPE</span></span>
-<span class="topo-line"><span class="topo-outside">TLEEYSSFFGYDWKDKNKMTTIL</span><span class="topo-membrane">GFHLIVLGIGALL</span><span class="topo-inside">LVAKAMFFGGLYDTWAPGGGDVRV</span></span>
-<span class="topo-line"><span class="topo-inside">ITNPTLDPRVIFGYLLKSPFGGEGWIVSVNNLEDVVGGHIW</span><span class="topo-membrane">IGLICIAGGIWHI</span><span class="topo-outside">LTTPFG</span></span>
-<span class="topo-line"><span class="topo-outside">WARRAFIWSGEAYL</span><span class="topo-membrane">SYSLGALSMMGFI</span><span class="topo-inside">ATCFVWFNNTVYPSEFYGPTGPEASQAQAMTFL</span></span>
-<span class="topo-line"><span class="topo-inside">IRDQKLGANVGSAQGPTGLGKYLMRSPTGEIIFGGETMRFWDFRGPWLEPLRGPNGLDLN</span></span>
-<span class="topo-line"><span class="topo-inside">KIKNDIQPWQERRAAEYMTHAPLGSLNSVGGVATEINSVNFVSPRSWLATS</span><span class="topo-membrane">HFVLAFFFL</span></span>
-<span class="topo-line"><span class="topo-membrane">VGHLW</span><span class="topo-outside">HAGRARAAAAGFEKGIDRESEPVLSMPSLD</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">NSIF</span><span class="topo-outside">ATNRDQESSGFAWWAGNARLINLSGKLLGA</span><span class="topo-membrane">HVAHAGLIVFWAGA</span><span class="topo-inside">MTLFELAHFIPEKPMYEQGLILIPHIATLGWGVGPGGEVVDTFPFFVVGV</span><span class="topo-membrane">VHLISSAVLGFGG</span><span class="topo-outside">VYHAIRGPE</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">TLEEYSSFFGYDWKDKNKMTTIL</span><span class="topo-membrane">GFHLIVLGIGALL</span><span class="topo-inside">LVAKAMFFGGLYDTWAPGGGDVRVITNPTLDPRVIFGYLLKSPFGGEGWIVSVNNLEDVVGGHIW</span><span class="topo-membrane">IGLICIAGGIWHI</span><span class="topo-outside">LTTPFG</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">WARRAFIWSGEAYL</span><span class="topo-membrane">SYSLGALSMMGFI</span><span class="topo-inside">ATCFVWFNNTVYPSEFYGPTGPEASQAQAMTFLIRDQKLGANVGSAQGPTGLGKYLMRSPTGEIIFGGETMRFWDFRGPWLEPLRGPNGLDLN</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450     </span>
+<span class="topo-line"><span class="topo-inside">KIKNDIQPWQERRAAEYMTHAPLGSLNSVGGVATEINSVNFVSPRSWLATS</span><span class="topo-membrane">HFVLAFFFLVGHLW</span><span class="topo-outside">HAGRARAAAAGFEKGIDRESEPVLSMPSLD</span></span>
+<details class="topo-details"><summary>Topology coordinates (14 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -5711,6 +5919,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -5726,12 +5935,13 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">ERGWFDILDDWLKRDRFVFVGWS</span><span class="topo-membrane">GILLFPCAYLALGGWLT</span><span class="topo-inside">GTTFVTSWYTHGLASSYLEG</span></span>
-<span class="topo-line"><span class="topo-inside">CNFLTVAVSTPANSMGHSLLLLWGPEAQGDFTRWCQLGGLWTF</span><span class="topo-membrane">IALHGAFGLIGFML</span><span class="topo-outside">RQF</span></span>
-<span class="topo-line"><span class="topo-outside">EIARLVGVRPYNA</span><span class="topo-membrane">IAFSAPIAVFVS</span><span class="topo-inside">VFLIYPLGQSSWFFAPSFGVAAIFRFLLFFQGFHN</span></span>
-<span class="topo-line"><span class="topo-inside">WTLNPF</span><span class="topo-membrane">HMMGVAGVLGGALLCAI</span><span class="topo-outside">HGATVENTLFQDGEGASTFRAFNPTQAEETYSMVTAN</span></span>
-<span class="topo-line"><span class="topo-outside">RFWSQIFGIAFSNKRWLHFF</span><span class="topo-membrane">MLFVPVTGLWMSAI</span><span class="topo-inside">GVVGLALNLRSYDFISQEIRAAEDPE</span></span>
-<span class="topo-line"><span class="topo-inside">FETFYTKNLLLNEGIRAWMAPQDQPHENFVFPEEVLPRGNAL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">ERGWFDILDDWLKRDRFVFVGWS</span><span class="topo-membrane">GILLFPCAYLALGGWLT</span><span class="topo-inside">GTTFVTSWYTHGLASSYLEGCNFLTVAVSTPANSMGHSLLLLWGPEAQGDFTRWCQLGGLWTF</span><span class="topo-membrane">IALHGAFGLIGFML</span><span class="topo-outside">RQF</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">EIARLVGVRPYNA</span><span class="topo-membrane">IAFSAPIAVFVS</span><span class="topo-inside">VFLIYPLGQSSWFFAPSFGVAAIFRFLLFFQGFHNWTLNPF</span><span class="topo-membrane">HMMGVAGVLGGALLCAI</span><span class="topo-outside">HGATVENTLFQDGEGASTFRAFNPTQAEETYSMVTAN</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340  </span>
+<span class="topo-line"><span class="topo-outside">RFWSQIFGIAFSNKRWLHFF</span><span class="topo-membrane">MLFVPVTGLWMSAI</span><span class="topo-inside">GVVGLALNLRSYDFISQEIRAAEDPEFETFYTKNLLLNEGIRAWMAPQDQPHENFVFPEEVLPRGNAL</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -5820,6 +6030,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -5835,8 +6046,9 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAG</span><span class="topo-outside">TTGERPFSDIITSVRYWVI</span><span class="topo-membrane">HSITIPALFIAGW</span><span class="topo-inside">LFVSTGLAYDVFGTPRPDSYYAQEQ</span></span>
-<span class="topo-line"><span class="topo-inside">RSIPLVTDRFEAKQQVETFLEQLK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80    </span>
+<span class="topo-line"><span class="topo-unknown">MAG</span><span class="topo-outside">TTGERPFSDIITSVRYWVI</span><span class="topo-membrane">HSITIPALFIAGW</span><span class="topo-inside">LFVSTGLAYDVFGTPRPDSYYAQEQRSIPLVTDRFEAKQQVETFLEQLK</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -5876,6 +6088,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -5891,7 +6104,9 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40    </span>
 <span class="topo-line"><span class="topo-unknown">TSNTPNQEPV</span><span class="topo-outside">SYPIFTVRWV</span><span class="topo-membrane">AVHTLAVPTIFFLGA</span><span class="topo-inside">IAAMQFIQR</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -5931,6 +6146,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -5946,8 +6162,9 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">ARRTWLGDILRPLNSEYGKVAPGWGTTPL</span><span class="topo-membrane">MAVFMGLFLVFLLI</span><span class="topo-inside">ILEIYNSTLILDGVNVS</span></span>
-<span class="topo-line"><span class="topo-inside">WKAL</span><span class="topo-unknown">G</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60     </span>
+<span class="topo-line"><span class="topo-outside">ARRTWLGDILRPLNSEYGKVAPGWGTTPL</span><span class="topo-membrane">MAVFMGLFLVFLLI</span><span class="topo-inside">ILEIYNSTLILDGVNVSWKAL</span><span class="topo-unknown">G</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -5980,6 +6197,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -5995,7 +6213,9 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        </span>
 <span class="topo-line"><span class="topo-inside">METLKIT</span><span class="topo-membrane">VYIVVTFFVLLFVFGF</span><span class="topo-outside">LSGDPARNPKRKDLE</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -6028,6 +6248,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -6043,7 +6264,9 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30         </span>
 <span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">SEGGRIPLWIVA</span><span class="topo-membrane">TVAGMGVIVIVGL</span><span class="topo-inside">FFYGAYAGLGSSL</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -6076,6 +6299,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -6091,7 +6315,9 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30       </span>
 <span class="topo-line"><span class="topo-inside">KLPEAYAIFDPLVDV</span><span class="topo-membrane">LPVIPVLFLALAF</span><span class="topo-outside">VWQAAVGFR</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -6124,6 +6350,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -6139,7 +6366,9 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30       </span>
 <span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">EPNPNRQPVELNRTSL</span><span class="topo-membrane">YLGLLLILVLALL</span><span class="topo-inside">FSSYFFN</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -6172,6 +6401,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -6187,7 +6417,9 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30      </span>
 <span class="topo-line"><span class="topo-inside">MEVNQLGLIAT</span><span class="topo-membrane">ALFVLVPSVFLII</span><span class="topo-outside">LYVQTESQQ</span><span class="topo-unknown">KSS</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -6227,6 +6459,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -6242,11 +6475,13 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">Q</span><span class="topo-inside">TLTYDDIVGTGLANKCPTLDDTARGAYPIDSSQTYRIARLCLQPTTFLVKEEPKNKRQE</span></span>
-<span class="topo-line"><span class="topo-inside">AEFVPTKLVTRETTSLDQIQGELKVNSDGSLTFVEEDGIDFQPVTVQMAGGERIPLLFTV</span></span>
-<span class="topo-line"><span class="topo-inside">KNLVASTQPNVTSITTSTDFKGEFNVPSYRTANFLDPKGRGLASGYDSAIALPQAKEEEL</span></span>
-<span class="topo-line"><span class="topo-inside">ARANVKRFSLTKGQISLNVAKVDGRTGEIAGTFESEQLSDDDMGAHEPHEVKIQGVFYAS</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">Q</span><span class="topo-inside">TLTYDDIVGTGLANKCPTLDDTARGAYPIDSSQTYRIARLCLQPTTFLVKEEPKNKRQEAEFVPTKLVTRETTSLDQIQGELKVNSDGSLTFVEEDGIDFQPVTVQMAGGERIPLLFTV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">KNLVASTQPNVTSITTSTDFKGEFNVPSYRTANFLDPKGRGLASGYDSAIALPQAKEEELARANVKRFSLTKGQISLNVAKVDGRTGEIAGTFESEQLSDDDMGAHEPHEVKIQGVFYAS</span></span>
+<span class="topo-ruler">    </span>
 <span class="topo-line"><span class="topo-inside">IEPA</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -6265,6 +6500,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -6280,7 +6516,9 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30  </span>
 <span class="topo-line"><span class="topo-inside">METITYV</span><span class="topo-membrane">FIFACIIALFFFAI</span><span class="topo-outside">FFREPPRIT</span><span class="topo-unknown">KK</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -6320,6 +6558,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -6335,8 +6574,9 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">ATASTEEE</span><span class="topo-inside">LVNVVDEKLGTAYGEKIDLNNTNIAAFIQYRGLYPTLAKLIVKNAPYESVED</span></span>
-<span class="topo-line"><span class="topo-inside">VLNIPGLTERQKQILRENLEHFTVTEVETALVEGGDRYNNGLYK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100    </span>
+<span class="topo-line"><span class="topo-unknown">ATASTEEE</span><span class="topo-inside">LVNVVDEKLGTAYGEKIDLNNTNIAAFIQYRGLYPTLAKLIVKNAPYESVEDVLNIPGLTERQKQILRENLEHFTVTEVETALVEGGDRYNNGLYK</span></span>
+<details class="topo-details"><summary>Topology coordinates (2 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -6362,6 +6602,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -6377,9 +6618,11 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">AELTPEVLTVPLNSEGKTITLTEKQYLEGKRLFQYACASCHVGGITKTNPSLDLRTETLA</span></span>
-<span class="topo-line"><span class="topo-inside">LATPPRDNIEGLVDYMKNPTTYDGEQEIAEVHPSLRSADIFPKMRNLTEKDLVAIAGHIL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">AELTPEVLTVPLNSEGKTITLTEKQYLEGKRLFQYACASCHVGGITKTNPSLDLRTETLALATPPRDNIEGLVDYMKNPTTYDGEQEIAEVHPSLRSADIFPKMRNLTEKDLVAIAGHIL</span></span>
+<span class="topo-ruler">       130       </span>
 <span class="topo-line"><span class="topo-inside">VEPKILGDKWGGGKVYY</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -6398,6 +6641,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -6413,7 +6657,9 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40</span>
 <span class="topo-line"><span class="topo-inside">TITPSLKGFF</span><span class="topo-membrane">IGLLSGAVVLGLTF</span><span class="topo-outside">AVLIAISQIDKVQR</span><span class="topo-unknown">SL</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -6453,6 +6699,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -6468,7 +6715,9 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30</span>
 <span class="topo-line"><span class="topo-unknown">E</span><span class="topo-inside">VIAQL</span><span class="topo-membrane">TMIAMIGIAGPM</span><span class="topo-outside">IIFLLAVRRGNL</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -6501,6 +6750,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -6516,8 +6766,9 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MTILFQL</span><span class="topo-membrane">ALAALVILSFVMVIG</span><span class="topo-outside">VPVAYASPQDWDRSKQLIFL</span><span class="topo-membrane">GSGLWIALVLVVG</span><span class="topo-inside">VLNFF</span></span>
-<span class="topo-line"><span class="topo-inside">VV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60  </span>
+<span class="topo-line"><span class="topo-inside">MTILFQL</span><span class="topo-membrane">ALAALVILSFVMVIG</span><span class="topo-outside">VPVAYASPQDWDRSKQLIFL</span><span class="topo-membrane">GSGLWIALVLVVG</span><span class="topo-inside">VLNFFVV</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -6564,6 +6815,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -6579,7 +6831,9 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30    </span>
 <span class="topo-line"><span class="topo-inside">DWRVLVV</span><span class="topo-membrane">LLPVLLAAGWAV</span><span class="topo-outside">RNILPYAVKQVQKLL</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -6612,6 +6866,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -6627,12 +6882,13 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MTTTLQRRES</span><span class="topo-outside">ANLWERFCNWVTSTDNRLYVGW</span><span class="topo-membrane">FGVIMIPTLLAATI</span><span class="topo-inside">CFVIAFIAAPPVDI</span></span>
-<span class="topo-line"><span class="topo-inside">DGIREPVSGSLLYGNNIITGAVVPSSNAIGLHFYPIWEAASLDEWLYNGGPYQLIIF</span><span class="topo-membrane">HFL</span></span>
-<span class="topo-line"><span class="topo-membrane">LGASCYMGRQ</span><span class="topo-outside">WELSYRLGMRPWI</span><span class="topo-membrane">CVAYSAPLASAFA</span><span class="topo-inside">VFLIYPIGQGSFSDGMPLGISGTF</span></span>
-<span class="topo-line"><span class="topo-inside">NFMIVFQAEHNILMHP</span><span class="topo-membrane">FHQLGVAGVFGGALFCAM</span><span class="topo-outside">HGSLVTSSLIRETTETESANYGYKFG</span></span>
-<span class="topo-line"><span class="topo-outside">QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFL</span><span class="topo-membrane">AAWPVVGVWFAAL</span><span class="topo-inside">GISTMAFNLNGF</span></span>
-<span class="topo-line"><span class="topo-inside">NFNHSVIDAKGNVINTWADIINRANLGMEVMHERNAHNFPLDLA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MTTTLQRRES</span><span class="topo-outside">ANLWERFCNWVTSTDNRLYVGW</span><span class="topo-membrane">FGVIMIPTLLAATI</span><span class="topo-inside">CFVIAFIAAPPVDIDGIREPVSGSLLYGNNIITGAVVPSSNAIGLHFYPIWEAASLDEWLYNGGPYQLIIF</span><span class="topo-membrane">HFL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">LGASCYMGRQ</span><span class="topo-outside">WELSYRLGMRPWI</span><span class="topo-membrane">CVAYSAPLASAFA</span><span class="topo-inside">VFLIYPIGQGSFSDGMPLGISGTFNFMIVFQAEHNILMHP</span><span class="topo-membrane">FHQLGVAGVFGGALFCAM</span><span class="topo-outside">HGSLVTSSLIRETTETESANYGYKFG</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340    </span>
+<span class="topo-line"><span class="topo-outside">QEEETYNIVAAHGYFGRLIFQYASFNNSRSLHFFL</span><span class="topo-membrane">AAWPVVGVWFAAL</span><span class="topo-inside">GISTMAFNLNGFNFNHSVIDAKGNVINTWADIINRANLGMEVMHERNAHNFPLDLA</span></span>
+<details class="topo-details"><summary>Topology coordinates (12 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -6728,6 +6984,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -6743,15 +7000,17 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">GLPWYRVHTVLINDPGRLIAA</span><span class="topo-membrane">HLMHTALVAGWAG</span><span class="topo-inside">SMALYELATFDPSDPVLNPMWRQGMF</span></span>
-<span class="topo-line"><span class="topo-inside">VLPFMARLGVTGSWSGWSITGETGIDPGFWSFEGVALA</span><span class="topo-membrane">HIVLSGLLFLAA</span><span class="topo-outside">CWHWVYWDLE</span></span>
-<span class="topo-line"><span class="topo-outside">LFRDPRTGEPALDLPKMF</span><span class="topo-membrane">GIHLFLAGLLCFGFGA</span><span class="topo-inside">FHLTGLFGPGMWVSDPYGLTGSVQPV</span></span>
-<span class="topo-line"><span class="topo-inside">APEWGPDGFNPYNPGGVVAH</span><span class="topo-membrane">HIAAGIVGIIAGLF</span><span class="topo-outside">HILVRPPQRLYKALRMGNIETVL</span><span class="topo-membrane">SSS</span></span>
-<span class="topo-line"><span class="topo-membrane">IAAVFFAAFV</span><span class="topo-inside">VAGTMWYGSATTPIELFGPTRYQWDSSYFQQEINRRVQASLASGATLEEA</span></span>
-<span class="topo-line"><span class="topo-inside">WSAIPEKLAFYDYIGNNPAKGGLFRTGPMNKGDGIAQAWKGHAVFRNKEGEELFVRRMPA</span></span>
-<span class="topo-line"><span class="topo-inside">FFESFPVILTDKNGVVKADIPFRRAESKYSFEQQGVTVSFYGGELNGQTFTDPPTVKSYA</span></span>
-<span class="topo-line"><span class="topo-inside">RKAIFGEIFEFDTETLNSDGIFRTSPRGWFTFAH</span><span class="topo-membrane">AVFALLFFFGHIW</span><span class="topo-outside">HGARTLFRDVFSG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">GLPWYRVHTVLINDPGRLIAA</span><span class="topo-membrane">HLMHTALVAGWAG</span><span class="topo-inside">SMALYELATFDPSDPVLNPMWRQGMFVLPFMARLGVTGSWSGWSITGETGIDPGFWSFEGVALA</span><span class="topo-membrane">HIVLSGLLFLAA</span><span class="topo-outside">CWHWVYWDLE</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">LFRDPRTGEPALDLPKMF</span><span class="topo-membrane">GIHLFLAGLLCFGFGA</span><span class="topo-inside">FHLTGLFGPGMWVSDPYGLTGSVQPVAPEWGPDGFNPYNPGGVVAH</span><span class="topo-membrane">HIAAGIVGIIAGLF</span><span class="topo-outside">HILVRPPQRLYKALRMGNIETVL</span><span class="topo-membrane">SSS</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">IAAVFFAAFV</span><span class="topo-inside">VAGTMWYGSATTPIELFGPTRYQWDSSYFQQEINRRVQASLASGATLEEAWSAIPEKLAFYDYIGNNPAKGGLFRTGPMNKGDGIAQAWKGHAVFRNKEGEELFVRRMPA</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">FFESFPVILTDKNGVVKADIPFRRAESKYSFEQQGVTVSFYGGELNGQTFTDPPTVKSYARKAIFGEIFEFDTETLNSDGIFRTSPRGWFTFAH</span><span class="topo-membrane">AVFALLFFFGHIW</span><span class="topo-outside">HGARTLFRDVFSG</span></span>
+<span class="topo-ruler">       490       500     </span>
 <span class="topo-line"><span class="topo-outside">IDPELSPEQVEWGFYQKVGDVTTR</span><span class="topo-unknown">K</span></span>
+<details class="topo-details"><summary>Topology coordinates (13 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -6854,6 +7113,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -6869,14 +7129,15 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">NSIFATNRDQESSGFAWWAGNARLINLSGKLLGA</span><span class="topo-membrane">HVAHAGLIVFWAGA</span><span class="topo-inside">MTLFELAHFIPE</span></span>
-<span class="topo-line"><span class="topo-inside">KPMYEQGLILIPHIATLGWGVGPGGEVVDTFPFFVVGV</span><span class="topo-membrane">VHLISSAVLGFGG</span><span class="topo-outside">VYHAIRGPE</span></span>
-<span class="topo-line"><span class="topo-outside">TLEEYSSFFGYDWKDKNKMTTIL</span><span class="topo-membrane">GFHLIVLGIGALL</span><span class="topo-inside">LVAKAMFFGGLYDTWAPGGGDVRV</span></span>
-<span class="topo-line"><span class="topo-inside">ITNPTLDPRVIFGYLLKSPFGGEGWIVSVNNLEDVVGGHIW</span><span class="topo-membrane">IGLICIAGGIWHI</span><span class="topo-outside">LTTPFG</span></span>
-<span class="topo-line"><span class="topo-outside">WARRAFIWSGEAYL</span><span class="topo-membrane">SYSLGALSMMGFI</span><span class="topo-inside">ATCFVWFNNTVYPSEFYGPTGPEASQAQAMTFL</span></span>
-<span class="topo-line"><span class="topo-inside">IRDQKLGANVGSAQGPTGLGKYLMRSPTGEIIFGGETMRFWDFRGPWLEPLRGPNGLDLN</span></span>
-<span class="topo-line"><span class="topo-inside">KIKNDIQPWQERRAAEYMTHAPLGSLNSVGGVATEINSVNFVSPRSWLATS</span><span class="topo-membrane">HFVLAFFFL</span></span>
-<span class="topo-line"><span class="topo-membrane">VGHLW</span><span class="topo-outside">HAGRARAAAAGFEKGIDRESEPVLSMPSLD</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">NSIFATNRDQESSGFAWWAGNARLINLSGKLLGA</span><span class="topo-membrane">HVAHAGLIVFWAGA</span><span class="topo-inside">MTLFELAHFIPEKPMYEQGLILIPHIATLGWGVGPGGEVVDTFPFFVVGV</span><span class="topo-membrane">VHLISSAVLGFGG</span><span class="topo-outside">VYHAIRGPE</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">TLEEYSSFFGYDWKDKNKMTTIL</span><span class="topo-membrane">GFHLIVLGIGALL</span><span class="topo-inside">LVAKAMFFGGLYDTWAPGGGDVRVITNPTLDPRVIFGYLLKSPFGGEGWIVSVNNLEDVVGGHIW</span><span class="topo-membrane">IGLICIAGGIWHI</span><span class="topo-outside">LTTPFG</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">WARRAFIWSGEAYL</span><span class="topo-membrane">SYSLGALSMMGFI</span><span class="topo-inside">ATCFVWFNNTVYPSEFYGPTGPEASQAQAMTFLIRDQKLGANVGSAQGPTGLGKYLMRSPTGEIIFGGETMRFWDFRGPWLEPLRGPNGLDLN</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450     </span>
+<span class="topo-line"><span class="topo-inside">KIKNDIQPWQERRAAEYMTHAPLGSLNSVGGVATEINSVNFVSPRSWLATS</span><span class="topo-membrane">HFVLAFFFLVGHLW</span><span class="topo-outside">HAGRARAAAAGFEKGIDRESEPVLSMPSLD</span></span>
+<details class="topo-details"><summary>Topology coordinates (13 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -6979,6 +7240,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -6994,12 +7256,13 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">E</span><span class="topo-outside">RGWFDILDDWLKRDRFVFVGWS</span><span class="topo-membrane">GILLFPCAYLALGGWLT</span><span class="topo-inside">GTTFVTSWYTHGLASSYLEG</span></span>
-<span class="topo-line"><span class="topo-inside">CNFLTVAVSTPANSMGHSLLLLWGPEAQGDFTRWCQLGGLWTF</span><span class="topo-membrane">IALHGAFGLIGFML</span><span class="topo-outside">RQF</span></span>
-<span class="topo-line"><span class="topo-outside">EIARLVGVRPYNA</span><span class="topo-membrane">IAFSAPIAVFVS</span><span class="topo-inside">VFLIYPLGQSSWFFAPSFGVAAIFRFLLFFQGFHN</span></span>
-<span class="topo-line"><span class="topo-inside">WTLNPF</span><span class="topo-membrane">HMMGVAGVLGGALLCAI</span><span class="topo-outside">HGATVENTLFQDGEGASTFRAFNPTQAEETYSMVTAN</span></span>
-<span class="topo-line"><span class="topo-outside">RFWSQIFGIAFSNKRWLHFF</span><span class="topo-membrane">MLFVPVTGLWMSAI</span><span class="topo-inside">GVVGLALNLRSYDFISQEIRAAEDPE</span></span>
-<span class="topo-line"><span class="topo-inside">FETFYTKNLLLNEGIRAWMAPQDQPHENFVFPEEVLPRGNAL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">E</span><span class="topo-outside">RGWFDILDDWLKRDRFVFVGWS</span><span class="topo-membrane">GILLFPCAYLALGGWLT</span><span class="topo-inside">GTTFVTSWYTHGLASSYLEGCNFLTVAVSTPANSMGHSLLLLWGPEAQGDFTRWCQLGGLWTF</span><span class="topo-membrane">IALHGAFGLIGFML</span><span class="topo-outside">RQF</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">EIARLVGVRPYNA</span><span class="topo-membrane">IAFSAPIAVFVS</span><span class="topo-inside">VFLIYPLGQSSWFFAPSFGVAAIFRFLLFFQGFHNWTLNPF</span><span class="topo-membrane">HMMGVAGVLGGALLCAI</span><span class="topo-outside">HGATVENTLFQDGEGASTFRAFNPTQAEETYSMVTAN</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340  </span>
+<span class="topo-line"><span class="topo-outside">RFWSQIFGIAFSNKRWLHFF</span><span class="topo-membrane">MLFVPVTGLWMSAI</span><span class="topo-inside">GVVGLALNLRSYDFISQEIRAAEDPEFETFYTKNLLLNEGIRAWMAPQDQPHENFVFPEEVLPRGNAL</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -7088,6 +7351,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -7103,8 +7367,9 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAGTT</span><span class="topo-outside">GERPFSDIITSVRYWVI</span><span class="topo-membrane">HSITIPALFIAGW</span><span class="topo-inside">LFVSTGLAYDVFGTPRPDSYYAQEQ</span></span>
-<span class="topo-line"><span class="topo-inside">RSIPLVTDRFEAKQQVETFLEQLK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80    </span>
+<span class="topo-line"><span class="topo-unknown">MAGTT</span><span class="topo-outside">GERPFSDIITSVRYWVI</span><span class="topo-membrane">HSITIPALFIAGW</span><span class="topo-inside">LFVSTGLAYDVFGTPRPDSYYAQEQRSIPLVTDRFEAKQQVETFLEQLK</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -7144,6 +7409,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -7159,7 +7425,9 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40    </span>
 <span class="topo-line"><span class="topo-unknown">TSNTPNQEPVSYP</span><span class="topo-outside">IFTVRWV</span><span class="topo-membrane">AVHTLAVPTIFFLG</span><span class="topo-inside">AIAAMQFIQR</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -7199,6 +7467,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -7214,8 +7483,9 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">ARRTWLGDILRPLNSEYGKVAPGWGTTPL</span><span class="topo-membrane">MAVFMGLFLVFLLI</span><span class="topo-inside">ILEIYNSTLILDGVNVS</span></span>
-<span class="topo-line"><span class="topo-inside">WKALG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60     </span>
+<span class="topo-line"><span class="topo-outside">ARRTWLGDILRPLNSEYGKVAPGWGTTPL</span><span class="topo-membrane">MAVFMGLFLVFLLI</span><span class="topo-inside">ILEIYNSTLILDGVNVSWKALG</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -7248,6 +7518,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -7263,7 +7534,9 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        </span>
 <span class="topo-line"><span class="topo-inside">METLKIT</span><span class="topo-membrane">VYIVVTFFVLLFVFGF</span><span class="topo-outside">LSGDPARNPKRKDLE</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -7296,6 +7569,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -7311,7 +7585,9 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30         </span>
 <span class="topo-line"><span class="topo-outside">MSEGGRIPLWIVA</span><span class="topo-membrane">TVAGMGVIVIVGL</span><span class="topo-inside">FFYGAYAGLGSSL</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -7344,6 +7620,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -7359,7 +7636,9 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30       </span>
 <span class="topo-line"><span class="topo-inside">KLPEAYAIFDPLVDV</span><span class="topo-membrane">LPVIPVLFLALAFV</span><span class="topo-outside">WQAAVGFR</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -7392,6 +7671,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -7407,7 +7687,9 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30       </span>
 <span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">EPNPNRQPVELNRTSL</span><span class="topo-membrane">YLGLLLILVLALL</span><span class="topo-inside">FSSYFFN</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -7440,6 +7722,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -7455,7 +7738,9 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30      </span>
 <span class="topo-line"><span class="topo-inside">MEVNQLGLIAT</span><span class="topo-membrane">ALFVLVPSVFLII</span><span class="topo-outside">LYVQTESQQK</span><span class="topo-unknown">SS</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -7495,6 +7780,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -7510,11 +7796,13 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">Q</span><span class="topo-inside">TLTYDDIVGTGLANKCPTLDDTARGAYPIDSSQTYRIARLCLQPTTFLVKEEPKNKRQE</span></span>
-<span class="topo-line"><span class="topo-inside">AEFVPTKLVTRETTSLDQIQGELKVNSDGSLTFVEEDGIDFQPVTVQMAGGERIPLLFTV</span></span>
-<span class="topo-line"><span class="topo-inside">KNLVASTQPNVTSITTSTDFKGEFNVPSYRTANFLDPKGRGLASGYDSAIALPQAKEEEL</span></span>
-<span class="topo-line"><span class="topo-inside">ARANVKRFSLTKGQISLNVAKVDGRTGEIAGTFESEQLSDDDMGAHEPHEVKIQGVFYAS</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">Q</span><span class="topo-inside">TLTYDDIVGTGLANKCPTLDDTARGAYPIDSSQTYRIARLCLQPTTFLVKEEPKNKRQEAEFVPTKLVTRETTSLDQIQGELKVNSDGSLTFVEEDGIDFQPVTVQMAGGERIPLLFTV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">KNLVASTQPNVTSITTSTDFKGEFNVPSYRTANFLDPKGRGLASGYDSAIALPQAKEEELARANVKRFSLTKGQISLNVAKVDGRTGEIAGTFESEQLSDDDMGAHEPHEVKIQGVFYAS</span></span>
+<span class="topo-ruler">    </span>
 <span class="topo-line"><span class="topo-inside">IEPA</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -7533,6 +7821,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -7548,7 +7837,9 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30  </span>
 <span class="topo-line"><span class="topo-inside">METITYV</span><span class="topo-membrane">FIFACIIALFFFAI</span><span class="topo-outside">FFREPPRIT</span><span class="topo-unknown">KK</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -7588,6 +7879,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -7603,8 +7895,9 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">ATASTEE</span><span class="topo-inside">ELVNVVDEKLGTAYGEKIDLNNTNIAAFIQYRGLYPTLAKLIVKNAPYESVED</span></span>
-<span class="topo-line"><span class="topo-inside">VLNIPGLTERQKQILRENLEHFTVTEVETALVEGGDRYNNGLYK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100    </span>
+<span class="topo-line"><span class="topo-unknown">ATASTEE</span><span class="topo-inside">ELVNVVDEKLGTAYGEKIDLNNTNIAAFIQYRGLYPTLAKLIVKNAPYESVEDVLNIPGLTERQKQILRENLEHFTVTEVETALVEGGDRYNNGLYK</span></span>
+<details class="topo-details"><summary>Topology coordinates (2 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -7630,6 +7923,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -7645,9 +7939,11 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">AELTPEVLTVPLNSEGKTITLTEKQYLEGKRLFQYACASCHVGGITKTNPSLDLRTETLA</span></span>
-<span class="topo-line"><span class="topo-inside">LATPPRDNIEGLVDYMKNPTTYDGEQEIAEVHPSLRSADIFPKMRNLTEKDLVAIAGHIL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">AELTPEVLTVPLNSEGKTITLTEKQYLEGKRLFQYACASCHVGGITKTNPSLDLRTETLALATPPRDNIEGLVDYMKNPTTYDGEQEIAEVHPSLRSADIFPKMRNLTEKDLVAIAGHIL</span></span>
+<span class="topo-ruler">       130       </span>
 <span class="topo-line"><span class="topo-inside">VEPKILGDKWGGGKVYY</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -7666,6 +7962,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -7681,7 +7978,9 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40</span>
 <span class="topo-line"><span class="topo-inside">TITPSLKGFF</span><span class="topo-membrane">IGLLSGAVVLGLTFA</span><span class="topo-outside">VLIAISQIDKVQR</span><span class="topo-unknown">SL</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -7721,6 +8020,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -7736,7 +8036,9 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30</span>
 <span class="topo-line"><span class="topo-unknown">E</span><span class="topo-inside">VIAQL</span><span class="topo-membrane">TMIAMIGIAGPMI</span><span class="topo-outside">IFLLAVRRGNL</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -7769,6 +8071,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -7784,8 +8087,9 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MTILFQL</span><span class="topo-membrane">ALAALVILSFVMVIG</span><span class="topo-outside">VPVAYASPQDWDRSKQLIFL</span><span class="topo-membrane">GSGLWIALVLVVG</span><span class="topo-inside">VLNFF</span></span>
-<span class="topo-line"><span class="topo-inside">VV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60  </span>
+<span class="topo-line"><span class="topo-inside">MTILFQL</span><span class="topo-membrane">ALAALVILSFVMVIG</span><span class="topo-outside">VPVAYASPQDWDRSKQLIFL</span><span class="topo-membrane">GSGLWIALVLVVG</span><span class="topo-inside">VLNFFVV</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -7832,6 +8136,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -7847,12 +8152,13 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MTTTLQRRES</span><span class="topo-outside">ANLWERFCNWVTSTDNR</span><span class="topo-membrane">LYVGWFGVIMIPTLLAATI</span><span class="topo-inside">CFVIAFIAAPPVDI</span></span>
-<span class="topo-line"><span class="topo-inside">DGIREPVSGSLLYGNNIITGAVVPSSNAIGLHFYPIWEAASLDEWLYNGGPYQLIIF</span><span class="topo-membrane">HFL</span></span>
-<span class="topo-line"><span class="topo-membrane">LGASCYMGRQWEL</span><span class="topo-outside">SYRLGMRP</span><span class="topo-membrane">WICVAYSAPLASAFA</span><span class="topo-inside">VFLIYPIGQGSFSDGMPLGISGTF</span></span>
-<span class="topo-line"><span class="topo-inside">NFMIVFQAEHNILMHP</span><span class="topo-membrane">FHQLGVAGVFGGALFCAMHGSL</span><span class="topo-outside">VTSSLIRETTETESANYGYKFG</span></span>
-<span class="topo-line"><span class="topo-outside">QEEETYNIVAAHGYFGRLIFQYASFNNSRSL</span><span class="topo-membrane">HFFLAAWPVVGVWFAAL</span><span class="topo-inside">GISTMAFNLNGF</span></span>
-<span class="topo-line"><span class="topo-inside">NFNHSVIDAKGNVINTWADIINRANLGMEVMHERNAHNFPLDLA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MTTTLQRRES</span><span class="topo-outside">ANLWERFCNWVTSTDNR</span><span class="topo-membrane">LYVGWFGVIMIPTLLAATI</span><span class="topo-inside">CFVIAFIAAPPVDIDGIREPVSGSLLYGNNIITGAVVPSSNAIGLHFYPIWEAASLDEWLYNGGPYQLIIF</span><span class="topo-membrane">HFL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">LGASCYMGRQWEL</span><span class="topo-outside">SYRLGMRP</span><span class="topo-membrane">WICVAYSAPLASAFA</span><span class="topo-inside">VFLIYPIGQGSFSDGMPLGISGTFNFMIVFQAEHNILMHP</span><span class="topo-membrane">FHQLGVAGVFGGALFCAMHGSL</span><span class="topo-outside">VTSSLIRETTETESANYGYKFG</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340    </span>
+<span class="topo-line"><span class="topo-outside">QEEETYNIVAAHGYFGRLIFQYASFNNSRSL</span><span class="topo-membrane">HFFLAAWPVVGVWFAAL</span><span class="topo-inside">GISTMAFNLNGFNFNHSVIDAKGNVINTWADIINRANLGMEVMHERNAHNFPLDLA</span></span>
+<details class="topo-details"><summary>Topology coordinates (12 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -7948,6 +8254,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -7963,15 +8270,17 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">GLPWYRVHTVLINDPGR</span><span class="topo-membrane">LIAAHLMHTALVAGWAGS</span><span class="topo-inside">MALYELATFDPSDPVLNPMWRQGMF</span></span>
-<span class="topo-line"><span class="topo-inside">VLPFMARLGVTGSWSGWSITGETGIDPGFWSFEGVAL</span><span class="topo-membrane">AHIVLSGLLFLAACWHW</span><span class="topo-outside">VYWDLE</span></span>
-<span class="topo-line"><span class="topo-outside">LFRDPRTGEPALDLP</span><span class="topo-membrane">KMFGIHLFLAGLLCFGFGA</span><span class="topo-inside">FHLTGLFGPGMWVSDPYGLTGSVQPV</span></span>
-<span class="topo-line"><span class="topo-inside">APEWGPDGFNPYNPGGVVAH</span><span class="topo-membrane">HIAAGIVGIIAGLFHIL</span><span class="topo-outside">VRPPQRLYKALRMGNIE</span><span class="topo-membrane">TVLSSS</span></span>
-<span class="topo-line"><span class="topo-membrane">IAAVFFAAFV</span><span class="topo-inside">VAGTMWYGSATTPIELFGPTRYQWDSSYFQQEINRRVQASLASGATLEEA</span></span>
-<span class="topo-line"><span class="topo-inside">WSAIPEKLAFYDYIGNNPAKGGLFRTGPMNKGDGIAQAWKGHAVFRNKEGEELFVRRMPA</span></span>
-<span class="topo-line"><span class="topo-inside">FFESFPVILTDKNGVVKADIPFRRAESKYSFEQQGVTVSFYGGELNGQTFTDPPTVKSYA</span></span>
-<span class="topo-line"><span class="topo-inside">RKAIFGEIFEFDTETLNSDGIFRTSPRGWFTFAH</span><span class="topo-membrane">AVFALLFFFGHIWHGAR</span><span class="topo-outside">TLFRDVFSG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">GLPWYRVHTVLINDPGR</span><span class="topo-membrane">LIAAHLMHTALVAGWAGS</span><span class="topo-inside">MALYELATFDPSDPVLNPMWRQGMFVLPFMARLGVTGSWSGWSITGETGIDPGFWSFEGVAL</span><span class="topo-membrane">AHIVLSGLLFLAACWHW</span><span class="topo-outside">VYWDLE</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">LFRDPRTGEPALDLP</span><span class="topo-membrane">KMFGIHLFLAGLLCFGFGA</span><span class="topo-inside">FHLTGLFGPGMWVSDPYGLTGSVQPVAPEWGPDGFNPYNPGGVVAH</span><span class="topo-membrane">HIAAGIVGIIAGLFHIL</span><span class="topo-outside">VRPPQRLYKALRMGNIE</span><span class="topo-membrane">TVLSSS</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">IAAVFFAAFV</span><span class="topo-inside">VAGTMWYGSATTPIELFGPTRYQWDSSYFQQEINRRVQASLASGATLEEAWSAIPEKLAFYDYIGNNPAKGGLFRTGPMNKGDGIAQAWKGHAVFRNKEGEELFVRRMPA</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">FFESFPVILTDKNGVVKADIPFRRAESKYSFEQQGVTVSFYGGELNGQTFTDPPTVKSYARKAIFGEIFEFDTETLNSDGIFRTSPRGWFTFAH</span><span class="topo-membrane">AVFALLFFFGHIWHGAR</span><span class="topo-outside">TLFRDVFSG</span></span>
+<span class="topo-ruler">       490       500     </span>
 <span class="topo-line"><span class="topo-outside">IDPELSPEQVEWGFYQKVGDVTTR</span><span class="topo-unknown">K</span></span>
+<details class="topo-details"><summary>Topology coordinates (13 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -8074,6 +8383,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -8089,14 +8399,15 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">NSIF</span><span class="topo-outside">ATNRDQESSGFAWWAGNARLINLSGKL</span><span class="topo-membrane">LGAHVAHAGLIVFWAGA</span><span class="topo-inside">MTLFELAHFIPE</span></span>
-<span class="topo-line"><span class="topo-inside">KPMYEQGLILIPHIATLGWGVGPGGEVVDTFPFFVVGV</span><span class="topo-membrane">VHLISSAVLGFGGVYHA</span><span class="topo-outside">IRGPE</span></span>
-<span class="topo-line"><span class="topo-outside">TLEEYSSFFGYDWKDKNKM</span><span class="topo-membrane">TTILGFHLIVLGIGALL</span><span class="topo-inside">LVAKAMFFGGLYDTWAPGGGDVRV</span></span>
-<span class="topo-line"><span class="topo-inside">ITNPTLDPRVIFGYLLKSPFGGEGWIVSVNNLEDVVGGHIW</span><span class="topo-membrane">IGLICIAGGIWHILTTPF</span><span class="topo-outside">G</span></span>
-<span class="topo-line"><span class="topo-outside">WARRAFIWSG</span><span class="topo-membrane">EAYLSYSLGALSMMGFI</span><span class="topo-inside">ATCFVWFNNTVYPSEFYGPTGPEASQAQAMTFL</span></span>
-<span class="topo-line"><span class="topo-inside">IRDQKLGANVGSAQGPTGLGKYLMRSPTGEIIFGGETMRFWDFRGPWLEPLRGPNGLDLN</span></span>
-<span class="topo-line"><span class="topo-inside">KIKNDIQPWQERRAAEYMTHAPLGSLNSVGGVATEINSVNFVSPRSWLATS</span><span class="topo-membrane">HFVLAFFFL</span></span>
-<span class="topo-line"><span class="topo-membrane">VGHLWHAGR</span><span class="topo-outside">ARAAAAGFEKGIDRESEPVLSMPSLD</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">NSIF</span><span class="topo-outside">ATNRDQESSGFAWWAGNARLINLSGKL</span><span class="topo-membrane">LGAHVAHAGLIVFWAGA</span><span class="topo-inside">MTLFELAHFIPEKPMYEQGLILIPHIATLGWGVGPGGEVVDTFPFFVVGV</span><span class="topo-membrane">VHLISSAVLGFGGVYHA</span><span class="topo-outside">IRGPE</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">TLEEYSSFFGYDWKDKNKM</span><span class="topo-membrane">TTILGFHLIVLGIGALL</span><span class="topo-inside">LVAKAMFFGGLYDTWAPGGGDVRVITNPTLDPRVIFGYLLKSPFGGEGWIVSVNNLEDVVGGHIW</span><span class="topo-membrane">IGLICIAGGIWHILTTPF</span><span class="topo-outside">G</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">WARRAFIWSG</span><span class="topo-membrane">EAYLSYSLGALSMMGFI</span><span class="topo-inside">ATCFVWFNNTVYPSEFYGPTGPEASQAQAMTFLIRDQKLGANVGSAQGPTGLGKYLMRSPTGEIIFGGETMRFWDFRGPWLEPLRGPNGLDLN</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450     </span>
+<span class="topo-line"><span class="topo-inside">KIKNDIQPWQERRAAEYMTHAPLGSLNSVGGVATEINSVNFVSPRSWLATS</span><span class="topo-membrane">HFVLAFFFLVGHLWHAGR</span><span class="topo-outside">ARAAAAGFEKGIDRESEPVLSMPSLD</span></span>
+<details class="topo-details"><summary>Topology coordinates (14 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -8206,6 +8517,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -8221,12 +8533,13 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">ERGWFDILDDWLKRDRFV</span><span class="topo-membrane">FVGWSGILLFPCAYLALGGWLT</span><span class="topo-inside">GTTFVTSWYTHGLASSYLEG</span></span>
-<span class="topo-line"><span class="topo-inside">CNFLTVAVSTPANSMGHSLLLLWGPEAQGDFTRWCQLGGLWTF</span><span class="topo-membrane">IALHGAFGLIGFMLRQF</span></span>
-<span class="topo-line"><span class="topo-membrane">E</span><span class="topo-outside">IARLVGVRP</span><span class="topo-membrane">YNAIAFSAPIAVFVS</span><span class="topo-inside">VFLIYPLGQSSWFFAPSFGVAAIFRFLLFFQGFHN</span></span>
-<span class="topo-line"><span class="topo-inside">WTLNPF</span><span class="topo-membrane">HMMGVAGVLGGALLCAIHGAT</span><span class="topo-outside">VENTLFQDGEGASTFRAFNPTQAEETYSMVTAN</span></span>
-<span class="topo-line"><span class="topo-outside">RFWSQIFGIAFSNKRWL</span><span class="topo-membrane">HFFMLFVPVTGLWMSAI</span><span class="topo-inside">GVVGLALNLRSYDFISQEIRAAEDPE</span></span>
-<span class="topo-line"><span class="topo-inside">FETFYTKNLLLNEGIRAWMAPQDQPHENFVFPEEVLPRGNAL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">ERGWFDILDDWLKRDRFV</span><span class="topo-membrane">FVGWSGILLFPCAYLALGGWLT</span><span class="topo-inside">GTTFVTSWYTHGLASSYLEGCNFLTVAVSTPANSMGHSLLLLWGPEAQGDFTRWCQLGGLWTF</span><span class="topo-membrane">IALHGAFGLIGFMLRQF</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">E</span><span class="topo-outside">IARLVGVRP</span><span class="topo-membrane">YNAIAFSAPIAVFVS</span><span class="topo-inside">VFLIYPLGQSSWFFAPSFGVAAIFRFLLFFQGFHNWTLNPF</span><span class="topo-membrane">HMMGVAGVLGGALLCAIHGAT</span><span class="topo-outside">VENTLFQDGEGASTFRAFNPTQAEETYSMVTAN</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340  </span>
+<span class="topo-line"><span class="topo-outside">RFWSQIFGIAFSNKRWL</span><span class="topo-membrane">HFFMLFVPVTGLWMSAI</span><span class="topo-inside">GVVGLALNLRSYDFISQEIRAAEDPEFETFYTKNLLLNEGIRAWMAPQDQPHENFVFPEEVLPRGNAL</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -8315,6 +8628,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -8330,8 +8644,9 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAG</span><span class="topo-outside">TTGERPFSDIITSV</span><span class="topo-membrane">RYWVIHSITIPALFIAG</span><span class="topo-inside">WLFVSTGLAYDVFGTPRPDSYYAQEQ</span></span>
-<span class="topo-line"><span class="topo-inside">RSIPLVTDRFEAKQQVETFLEQLK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80    </span>
+<span class="topo-line"><span class="topo-unknown">MAG</span><span class="topo-outside">TTGERPFSDIITSV</span><span class="topo-membrane">RYWVIHSITIPALFIAG</span><span class="topo-inside">WLFVSTGLAYDVFGTPRPDSYYAQEQRSIPLVTDRFEAKQQVETFLEQLK</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -8371,6 +8686,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -8386,7 +8702,9 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40    </span>
 <span class="topo-line"><span class="topo-unknown">TSNTPNQEPV</span><span class="topo-outside">SYPIFTV</span><span class="topo-membrane">RWVAVHTLAVPTIFFLG</span><span class="topo-inside">AIAAMQFIQR</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -8426,6 +8744,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -8441,8 +8760,9 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">ARRTWLGDILRPLNSEYGKVAPGWGT</span><span class="topo-membrane">TPLMAVFMGLFLVFLLI</span><span class="topo-inside">ILEIYNSTLILDGVNVS</span></span>
-<span class="topo-line"><span class="topo-inside">WKAL</span><span class="topo-unknown">G</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60     </span>
+<span class="topo-line"><span class="topo-outside">ARRTWLGDILRPLNSEYGKVAPGWGT</span><span class="topo-membrane">TPLMAVFMGLFLVFLLI</span><span class="topo-inside">ILEIYNSTLILDGVNVSWKAL</span><span class="topo-unknown">G</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -8475,6 +8795,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -8490,7 +8811,9 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        </span>
 <span class="topo-line"><span class="topo-inside">METLKIT</span><span class="topo-membrane">VYIVVTFFVLLFVFGFLS</span><span class="topo-outside">GDPARNPKRKDLE</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -8523,6 +8846,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -8538,7 +8862,9 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30         </span>
 <span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">SEGGRIPL</span><span class="topo-membrane">WIVATVAGMGVIVIVG</span><span class="topo-inside">LFFYGAYAGLGSSL</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -8571,6 +8897,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -8586,7 +8913,9 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30       </span>
 <span class="topo-line"><span class="topo-inside">KLPEAYAIFDPLVDV</span><span class="topo-membrane">LPVIPVLFLALAFVWQA</span><span class="topo-outside">AVGFR</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -8619,6 +8948,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -8634,7 +8964,9 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30       </span>
 <span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">EPNPNRQPVELNR</span><span class="topo-membrane">TSLYLGLLLILVLALLF</span><span class="topo-inside">SSYFFN</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -8667,6 +8999,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -8682,7 +9015,9 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30      </span>
 <span class="topo-line"><span class="topo-inside">MEVNQLGLIAT</span><span class="topo-membrane">ALFVLVPSVFLIILYV</span><span class="topo-outside">QTESQQ</span><span class="topo-unknown">KSS</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -8722,6 +9057,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -8737,11 +9073,13 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">Q</span><span class="topo-inside">TLTYDDIVGTGLANKCPTLDDTARGAYPIDSSQTYRIARLCLQPTTFLVKEEPKNKRQE</span></span>
-<span class="topo-line"><span class="topo-inside">AEFVPTKLVTRETTSLDQIQGELKVNSDGSLTFVEEDGIDFQPVTVQMAGGERIPLLFTV</span></span>
-<span class="topo-line"><span class="topo-inside">KNLVASTQPNVTSITTSTDFKGEFNVPSYRTANFLDPKGRGLASGYDSAIALPQAKEEEL</span></span>
-<span class="topo-line"><span class="topo-inside">ARANVKRFSLTKGQISLNVAKVDGRTGEIAGTFESEQLSDDDMGAHEPHEVKIQGVFYAS</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">Q</span><span class="topo-inside">TLTYDDIVGTGLANKCPTLDDTARGAYPIDSSQTYRIARLCLQPTTFLVKEEPKNKRQEAEFVPTKLVTRETTSLDQIQGELKVNSDGSLTFVEEDGIDFQPVTVQMAGGERIPLLFTV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">KNLVASTQPNVTSITTSTDFKGEFNVPSYRTANFLDPKGRGLASGYDSAIALPQAKEEELARANVKRFSLTKGQISLNVAKVDGRTGEIAGTFESEQLSDDDMGAHEPHEVKIQGVFYAS</span></span>
+<span class="topo-ruler">    </span>
 <span class="topo-line"><span class="topo-inside">IEPA</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -8760,6 +9098,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -8775,7 +9114,9 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30  </span>
 <span class="topo-line"><span class="topo-inside">METITYV</span><span class="topo-membrane">FIFACIIALFFFAIFFR</span><span class="topo-outside">EPPRIT</span><span class="topo-unknown">KK</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -8815,6 +9156,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -8830,8 +9172,9 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">ATASTEEE</span><span class="topo-inside">LVNVVDEKLGTAYGEKIDLNNTNIAAFIQYRGLYPTLAKLIVKNAPYESVED</span></span>
-<span class="topo-line"><span class="topo-inside">VLNIPGLTERQKQILRENLEHFTVTEVETALVEGGDRYNNGLYK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100    </span>
+<span class="topo-line"><span class="topo-unknown">ATASTEEE</span><span class="topo-inside">LVNVVDEKLGTAYGEKIDLNNTNIAAFIQYRGLYPTLAKLIVKNAPYESVEDVLNIPGLTERQKQILRENLEHFTVTEVETALVEGGDRYNNGLYK</span></span>
+<details class="topo-details"><summary>Topology coordinates (2 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -8857,6 +9200,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -8872,9 +9216,11 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">AELTPEVLTVPLNSEGKTITLTEKQYLEGKRLFQYACASCHVGGITKTNPSLDLRTETLA</span></span>
-<span class="topo-line"><span class="topo-inside">LATPPRDNIEGLVDYMKNPTTYDGEQEIAEVHPSLRSADIFPKMRNLTEKDLVAIAGHIL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">AELTPEVLTVPLNSEGKTITLTEKQYLEGKRLFQYACASCHVGGITKTNPSLDLRTETLALATPPRDNIEGLVDYMKNPTTYDGEQEIAEVHPSLRSADIFPKMRNLTEKDLVAIAGHIL</span></span>
+<span class="topo-ruler">       130       </span>
 <span class="topo-line"><span class="topo-inside">VEPKILGDKWGGGKVYY</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -8893,6 +9239,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -8908,7 +9255,9 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40</span>
 <span class="topo-line"><span class="topo-inside">TITPSLKGFF</span><span class="topo-membrane">IGLLSGAVVLGLTFAVLI</span><span class="topo-outside">AISQIDKVQR</span><span class="topo-unknown">SL</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -8948,6 +9297,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -8963,7 +9313,9 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30</span>
 <span class="topo-line"><span class="topo-unknown">E</span><span class="topo-inside">VIAQL</span><span class="topo-membrane">TMIAMIGIAGPMIIFL</span><span class="topo-outside">LAVRRGNL</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -8996,6 +9348,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -9011,8 +9364,9 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MTILFQL</span><span class="topo-membrane">ALAALVILSFVMVIGVPVA</span><span class="topo-outside">YASPQDWDRSKQ</span><span class="topo-membrane">LIFLGSGLWIALVLVVG</span><span class="topo-inside">VLNFF</span></span>
-<span class="topo-line"><span class="topo-inside">VV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60  </span>
+<span class="topo-line"><span class="topo-inside">MTILFQL</span><span class="topo-membrane">ALAALVILSFVMVIGVPVA</span><span class="topo-outside">YASPQDWDRSKQ</span><span class="topo-membrane">LIFLGSGLWIALVLVVG</span><span class="topo-inside">VLNFFVV</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -9059,6 +9413,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -9074,7 +9429,9 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30    </span>
 <span class="topo-line"><span class="topo-inside">DWRVLVV</span><span class="topo-membrane">LLPVLLAAGWAVRNIL</span><span class="topo-outside">PYAVKQVQKLL</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -9107,6 +9464,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -9122,12 +9480,13 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MTTTLQRRES</span><span class="topo-outside">ANLWERFCNWVTSTDNR</span><span class="topo-membrane">LYVGWFGVIMIPTLLAATI</span><span class="topo-inside">CFVIAFIAAPPVDI</span></span>
-<span class="topo-line"><span class="topo-inside">DGIREPVSGSLLYGNNIITGAVVPSSNAIGLHFYPIWEAASLDEWLYNGGPYQLIIF</span><span class="topo-membrane">HFL</span></span>
-<span class="topo-line"><span class="topo-membrane">LGASCYMGRQWEL</span><span class="topo-outside">SYRLGMRP</span><span class="topo-membrane">WICVAYSAPLASAFA</span><span class="topo-inside">VFLIYPIGQGSFSDGMPLGISGTF</span></span>
-<span class="topo-line"><span class="topo-inside">NFMIVFQAEHNILMHP</span><span class="topo-membrane">FHQLGVAGVFGGALFCAMHGS</span><span class="topo-outside">LVTSSLIRETTETESANYGYKFG</span></span>
-<span class="topo-line"><span class="topo-outside">QEEETYNIVAAHGYFGRLIFQYASFNNSRSLH</span><span class="topo-membrane">FFLAAWPVVGVWFAALG</span><span class="topo-inside">ISTMAFNLNGF</span></span>
-<span class="topo-line"><span class="topo-inside">NFNHSVIDAKGNVINTWADIINRANLGMEVMHERNAHNFPLDLA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MTTTLQRRES</span><span class="topo-outside">ANLWERFCNWVTSTDNR</span><span class="topo-membrane">LYVGWFGVIMIPTLLAATI</span><span class="topo-inside">CFVIAFIAAPPVDIDGIREPVSGSLLYGNNIITGAVVPSSNAIGLHFYPIWEAASLDEWLYNGGPYQLIIF</span><span class="topo-membrane">HFL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">LGASCYMGRQWEL</span><span class="topo-outside">SYRLGMRP</span><span class="topo-membrane">WICVAYSAPLASAFA</span><span class="topo-inside">VFLIYPIGQGSFSDGMPLGISGTFNFMIVFQAEHNILMHP</span><span class="topo-membrane">FHQLGVAGVFGGALFCAMHGS</span><span class="topo-outside">LVTSSLIRETTETESANYGYKFG</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340    </span>
+<span class="topo-line"><span class="topo-outside">QEEETYNIVAAHGYFGRLIFQYASFNNSRSLH</span><span class="topo-membrane">FFLAAWPVVGVWFAALG</span><span class="topo-inside">ISTMAFNLNGFNFNHSVIDAKGNVINTWADIINRANLGMEVMHERNAHNFPLDLA</span></span>
+<details class="topo-details"><summary>Topology coordinates (12 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -9223,6 +9582,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -9238,15 +9598,17 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">GLPWYRVHTVLINDPGRL</span><span class="topo-membrane">IAAHLMHTALVAGWAGS</span><span class="topo-inside">MALYELATFDPSDPVLNPMWRQGMF</span></span>
-<span class="topo-line"><span class="topo-inside">VLPFMARLGVTGSWSGWSITGETGIDPGFWSFEGVAL</span><span class="topo-membrane">AHIVLSGLLFLAACWHW</span><span class="topo-outside">VYWDLE</span></span>
-<span class="topo-line"><span class="topo-outside">LFRDPRTGEPALDLPKM</span><span class="topo-membrane">FGIHLFLAGLLCFGFGA</span><span class="topo-inside">FHLTGLFGPGMWVSDPYGLTGSVQPV</span></span>
-<span class="topo-line"><span class="topo-inside">APEWGPDGFNPYNPGGVVAH</span><span class="topo-membrane">HIAAGIVGIIAGLFHI</span><span class="topo-outside">LVRPPQRLYKALRMGNIE</span><span class="topo-membrane">TVLSSS</span></span>
-<span class="topo-line"><span class="topo-membrane">IAAVFFAAFV</span><span class="topo-inside">VAGTMWYGSATTPIELFGPTRYQWDSSYFQQEINRRVQASLASGATLEEA</span></span>
-<span class="topo-line"><span class="topo-inside">WSAIPEKLAFYDYIGNNPAKGGLFRTGPMNKGDGIAQAWKGHAVFRNKEGEELFVRRMPA</span></span>
-<span class="topo-line"><span class="topo-inside">FFESFPVILTDKNGVVKADIPFRRAESKYSFEQQGVTVSFYGGELNGQTFTDPPTVKSYA</span></span>
-<span class="topo-line"><span class="topo-inside">RKAIFGEIFEFDTETLNSDGIFRTSPRGWFTFA</span><span class="topo-membrane">HAVFALLFFFGHIWHGA</span><span class="topo-outside">RTLFRDVFSG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">GLPWYRVHTVLINDPGRL</span><span class="topo-membrane">IAAHLMHTALVAGWAGS</span><span class="topo-inside">MALYELATFDPSDPVLNPMWRQGMFVLPFMARLGVTGSWSGWSITGETGIDPGFWSFEGVAL</span><span class="topo-membrane">AHIVLSGLLFLAACWHW</span><span class="topo-outside">VYWDLE</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">LFRDPRTGEPALDLPKM</span><span class="topo-membrane">FGIHLFLAGLLCFGFGA</span><span class="topo-inside">FHLTGLFGPGMWVSDPYGLTGSVQPVAPEWGPDGFNPYNPGGVVAH</span><span class="topo-membrane">HIAAGIVGIIAGLFHI</span><span class="topo-outside">LVRPPQRLYKALRMGNIE</span><span class="topo-membrane">TVLSSS</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">IAAVFFAAFV</span><span class="topo-inside">VAGTMWYGSATTPIELFGPTRYQWDSSYFQQEINRRVQASLASGATLEEAWSAIPEKLAFYDYIGNNPAKGGLFRTGPMNKGDGIAQAWKGHAVFRNKEGEELFVRRMPA</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">FFESFPVILTDKNGVVKADIPFRRAESKYSFEQQGVTVSFYGGELNGQTFTDPPTVKSYARKAIFGEIFEFDTETLNSDGIFRTSPRGWFTFA</span><span class="topo-membrane">HAVFALLFFFGHIWHGA</span><span class="topo-outside">RTLFRDVFSG</span></span>
+<span class="topo-ruler">       490       500     </span>
 <span class="topo-line"><span class="topo-outside">IDPELSPEQVEWGFYQKVGDVTTR</span><span class="topo-unknown">K</span></span>
+<details class="topo-details"><summary>Topology coordinates (13 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -9349,6 +9711,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -9364,14 +9727,15 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">NSIFATNRDQESSGFAWWAGNARLINLSGKL</span><span class="topo-membrane">LGAHVAHAGLIVFWAGAM</span><span class="topo-inside">TLFELAHFIPE</span></span>
-<span class="topo-line"><span class="topo-inside">KPMYEQGLILIPHIATLGWGVGPGGEVVDTFPFFVVGV</span><span class="topo-membrane">VHLISSAVLGFGGVYHA</span><span class="topo-outside">IRGPE</span></span>
-<span class="topo-line"><span class="topo-outside">TLEEYSSFFGYDWKDKNKM</span><span class="topo-membrane">TTILGFHLIVLGIGALL</span><span class="topo-inside">LVAKAMFFGGLYDTWAPGGGDVRV</span></span>
-<span class="topo-line"><span class="topo-inside">ITNPTLDPRVIFGYLLKSPFGGEGWIVSVNNLEDVVGGHI</span><span class="topo-membrane">WIGLICIAGGIWHILTTPF</span><span class="topo-outside">G</span></span>
-<span class="topo-line"><span class="topo-outside">WARRAFIWSGE</span><span class="topo-membrane">AYLSYSLGALSMMGFI</span><span class="topo-inside">ATCFVWFNNTVYPSEFYGPTGPEASQAQAMTFL</span></span>
-<span class="topo-line"><span class="topo-inside">IRDQKLGANVGSAQGPTGLGKYLMRSPTGEIIFGGETMRFWDFRGPWLEPLRGPNGLDLN</span></span>
-<span class="topo-line"><span class="topo-inside">KIKNDIQPWQERRAAEYMTHAPLGSLNSVGGVATEINSVNFVSPRSWLATS</span><span class="topo-membrane">HFVLAFFFL</span></span>
-<span class="topo-line"><span class="topo-membrane">VGHLWHAGR</span><span class="topo-outside">ARAAAAGFEKGIDRESEPVLSMPSLD</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">NSIFATNRDQESSGFAWWAGNARLINLSGKL</span><span class="topo-membrane">LGAHVAHAGLIVFWAGAM</span><span class="topo-inside">TLFELAHFIPEKPMYEQGLILIPHIATLGWGVGPGGEVVDTFPFFVVGV</span><span class="topo-membrane">VHLISSAVLGFGGVYHA</span><span class="topo-outside">IRGPE</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">TLEEYSSFFGYDWKDKNKM</span><span class="topo-membrane">TTILGFHLIVLGIGALL</span><span class="topo-inside">LVAKAMFFGGLYDTWAPGGGDVRVITNPTLDPRVIFGYLLKSPFGGEGWIVSVNNLEDVVGGHI</span><span class="topo-membrane">WIGLICIAGGIWHILTTPF</span><span class="topo-outside">G</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">WARRAFIWSGE</span><span class="topo-membrane">AYLSYSLGALSMMGFI</span><span class="topo-inside">ATCFVWFNNTVYPSEFYGPTGPEASQAQAMTFLIRDQKLGANVGSAQGPTGLGKYLMRSPTGEIIFGGETMRFWDFRGPWLEPLRGPNGLDLN</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450     </span>
+<span class="topo-line"><span class="topo-inside">KIKNDIQPWQERRAAEYMTHAPLGSLNSVGGVATEINSVNFVSPRSWLATS</span><span class="topo-membrane">HFVLAFFFLVGHLWHAGR</span><span class="topo-outside">ARAAAAGFEKGIDRESEPVLSMPSLD</span></span>
+<details class="topo-details"><summary>Topology coordinates (13 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -9474,6 +9838,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -9489,12 +9854,13 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">E</span><span class="topo-outside">RGWFDILDDWLKRDRFVFV</span><span class="topo-membrane">GWSGILLFPCAYLALGGWLT</span><span class="topo-inside">GTTFVTSWYTHGLASSYLEG</span></span>
-<span class="topo-line"><span class="topo-inside">CNFLTVAVSTPANSMGHSLLLLWGPEAQGDFTRWCQLGGLWTF</span><span class="topo-membrane">IALHGAFGLIGFMLRQF</span></span>
-<span class="topo-line"><span class="topo-outside">EIARLVGVRP</span><span class="topo-membrane">YNAIAFSAPIAVFVSVFL</span><span class="topo-inside">IYPLGQSSWFFAPSFGVAAIFRFLLFFQGFHN</span></span>
-<span class="topo-line"><span class="topo-inside">WTLNPF</span><span class="topo-membrane">HMMGVAGVLGGALLCAIHGAT</span><span class="topo-outside">VENTLFQDGEGASTFRAFNPTQAEETYSMVTAN</span></span>
-<span class="topo-line"><span class="topo-outside">RFWSQIFGIAFSNKRWL</span><span class="topo-membrane">HFFMLFVPVTGLWMSAI</span><span class="topo-inside">GVVGLALNLRSYDFISQEIRAAEDPE</span></span>
-<span class="topo-line"><span class="topo-inside">FETFYTKNLLLNEGIRAWMAPQDQPHENFVFPEEVLPRGNAL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">E</span><span class="topo-outside">RGWFDILDDWLKRDRFVFV</span><span class="topo-membrane">GWSGILLFPCAYLALGGWLT</span><span class="topo-inside">GTTFVTSWYTHGLASSYLEGCNFLTVAVSTPANSMGHSLLLLWGPEAQGDFTRWCQLGGLWTF</span><span class="topo-membrane">IALHGAFGLIGFMLRQF</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">EIARLVGVRP</span><span class="topo-membrane">YNAIAFSAPIAVFVSVFL</span><span class="topo-inside">IYPLGQSSWFFAPSFGVAAIFRFLLFFQGFHNWTLNPF</span><span class="topo-membrane">HMMGVAGVLGGALLCAIHGAT</span><span class="topo-outside">VENTLFQDGEGASTFRAFNPTQAEETYSMVTAN</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340  </span>
+<span class="topo-line"><span class="topo-outside">RFWSQIFGIAFSNKRWL</span><span class="topo-membrane">HFFMLFVPVTGLWMSAI</span><span class="topo-inside">GVVGLALNLRSYDFISQEIRAAEDPEFETFYTKNLLLNEGIRAWMAPQDQPHENFVFPEEVLPRGNAL</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -9583,6 +9949,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -9598,8 +9965,9 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAGTT</span><span class="topo-outside">GERPFSDIITSVRY</span><span class="topo-membrane">WVIHSITIPALFIAGW</span><span class="topo-inside">LFVSTGLAYDVFGTPRPDSYYAQEQ</span></span>
-<span class="topo-line"><span class="topo-inside">RSIPLVTDRFEAKQQVETFLEQLK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80    </span>
+<span class="topo-line"><span class="topo-unknown">MAGTT</span><span class="topo-outside">GERPFSDIITSVRY</span><span class="topo-membrane">WVIHSITIPALFIAGW</span><span class="topo-inside">LFVSTGLAYDVFGTPRPDSYYAQEQRSIPLVTDRFEAKQQVETFLEQLK</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -9639,6 +10007,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -9654,7 +10023,9 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40    </span>
 <span class="topo-line"><span class="topo-unknown">TSNTPNQEPVSYP</span><span class="topo-outside">IFTV</span><span class="topo-membrane">RWVAVHTLAVPTIFFLGAIA</span><span class="topo-inside">AMQFIQR</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -9694,6 +10065,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -9709,8 +10081,9 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">ARRTWLGDILRPLNSEYGKVAPGWGTT</span><span class="topo-membrane">PLMAVFMGLFLVFLLI</span><span class="topo-inside">ILEIYNSTLILDGVNVS</span></span>
-<span class="topo-line"><span class="topo-inside">WKALG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60     </span>
+<span class="topo-line"><span class="topo-outside">ARRTWLGDILRPLNSEYGKVAPGWGTT</span><span class="topo-membrane">PLMAVFMGLFLVFLLI</span><span class="topo-inside">ILEIYNSTLILDGVNVSWKALG</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -9743,6 +10116,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -9758,7 +10132,9 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        </span>
 <span class="topo-line"><span class="topo-inside">METLKIT</span><span class="topo-membrane">VYIVVTFFVLLFVFGFLS</span><span class="topo-outside">GDPARNPKRKDLE</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -9791,6 +10167,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -9806,7 +10183,9 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30         </span>
 <span class="topo-line"><span class="topo-outside">MSEGGRIPLW</span><span class="topo-membrane">IVATVAGMGVIVIVGL</span><span class="topo-inside">FFYGAYAGLGSSL</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -9839,6 +10218,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -9854,7 +10234,9 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30       </span>
 <span class="topo-line"><span class="topo-inside">KLPEAYAIFDPLVDV</span><span class="topo-membrane">LPVIPVLFLALAFVWQA</span><span class="topo-outside">AVGFR</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -9887,6 +10269,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -9902,7 +10285,9 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30       </span>
 <span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">EPNPNRQPVELNR</span><span class="topo-membrane">TSLYLGLLLILVLALLF</span><span class="topo-inside">SSYFFN</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -9935,6 +10320,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -9950,7 +10336,9 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30      </span>
 <span class="topo-line"><span class="topo-inside">MEVNQLGLIAT</span><span class="topo-membrane">ALFVLVPSVFLIILYV</span><span class="topo-outside">QTESQQK</span><span class="topo-unknown">SS</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -9990,6 +10378,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -10005,11 +10394,13 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">Q</span><span class="topo-inside">TLTYDDIVGTGLANKCPTLDDTARGAYPIDSSQTYRIARLCLQPTTFLVKEEPKNKRQE</span></span>
-<span class="topo-line"><span class="topo-inside">AEFVPTKLVTRETTSLDQIQGELKVNSDGSLTFVEEDGIDFQPVTVQMAGGERIPLLFTV</span></span>
-<span class="topo-line"><span class="topo-inside">KNLVASTQPNVTSITTSTDFKGEFNVPSYRTANFLDPKGRGLASGYDSAIALPQAKEEEL</span></span>
-<span class="topo-line"><span class="topo-inside">ARANVKRFSLTKGQISLNVAKVDGRTGEIAGTFESEQLSDDDMGAHEPHEVKIQGVFYAS</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">Q</span><span class="topo-inside">TLTYDDIVGTGLANKCPTLDDTARGAYPIDSSQTYRIARLCLQPTTFLVKEEPKNKRQEAEFVPTKLVTRETTSLDQIQGELKVNSDGSLTFVEEDGIDFQPVTVQMAGGERIPLLFTV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">KNLVASTQPNVTSITTSTDFKGEFNVPSYRTANFLDPKGRGLASGYDSAIALPQAKEEELARANVKRFSLTKGQISLNVAKVDGRTGEIAGTFESEQLSDDDMGAHEPHEVKIQGVFYAS</span></span>
+<span class="topo-ruler">    </span>
 <span class="topo-line"><span class="topo-inside">IEPA</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -10028,6 +10419,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -10043,7 +10435,9 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30  </span>
 <span class="topo-line"><span class="topo-inside">METITYV</span><span class="topo-membrane">FIFACIIALFFFAIFFR</span><span class="topo-outside">EPPRIT</span><span class="topo-unknown">KK</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -10083,6 +10477,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -10098,8 +10493,9 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">ATASTEE</span><span class="topo-inside">ELVNVVDEKLGTAYGEKIDLNNTNIAAFIQYRGLYPTLAKLIVKNAPYESVED</span></span>
-<span class="topo-line"><span class="topo-inside">VLNIPGLTERQKQILRENLEHFTVTEVETALVEGGDRYNNGLYK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100    </span>
+<span class="topo-line"><span class="topo-unknown">ATASTEE</span><span class="topo-inside">ELVNVVDEKLGTAYGEKIDLNNTNIAAFIQYRGLYPTLAKLIVKNAPYESVEDVLNIPGLTERQKQILRENLEHFTVTEVETALVEGGDRYNNGLYK</span></span>
+<details class="topo-details"><summary>Topology coordinates (2 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -10125,6 +10521,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -10140,9 +10537,11 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">AELTPEVLTVPLNSEGKTITLTEKQYLEGKRLFQYACASCHVGGITKTNPSLDLRTETLA</span></span>
-<span class="topo-line"><span class="topo-inside">LATPPRDNIEGLVDYMKNPTTYDGEQEIAEVHPSLRSADIFPKMRNLTEKDLVAIAGHIL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">AELTPEVLTVPLNSEGKTITLTEKQYLEGKRLFQYACASCHVGGITKTNPSLDLRTETLALATPPRDNIEGLVDYMKNPTTYDGEQEIAEVHPSLRSADIFPKMRNLTEKDLVAIAGHIL</span></span>
+<span class="topo-ruler">       130       </span>
 <span class="topo-line"><span class="topo-inside">VEPKILGDKWGGGKVYY</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -10161,6 +10560,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -10176,7 +10576,9 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40</span>
 <span class="topo-line"><span class="topo-inside">TITPSLKGFF</span><span class="topo-membrane">IGLLSGAVVLGLTFAVL</span><span class="topo-outside">IAISQIDKVQR</span><span class="topo-unknown">SL</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -10216,6 +10618,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -10231,7 +10634,9 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30</span>
 <span class="topo-line"><span class="topo-unknown">E</span><span class="topo-inside">VIAQ</span><span class="topo-membrane">LTMIAMIGIAGPMIIFL</span><span class="topo-outside">LAVRRGNL</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -10264,6 +10669,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -10279,8 +10685,9 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MTILFQL</span><span class="topo-membrane">ALAALVILSFVMVIGVPV</span><span class="topo-outside">AYASPQDWDRSKQL</span><span class="topo-membrane">IFLGSGLWIALVLVVG</span><span class="topo-inside">VLNFF</span></span>
-<span class="topo-line"><span class="topo-inside">VV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60  </span>
+<span class="topo-line"><span class="topo-inside">MTILFQL</span><span class="topo-membrane">ALAALVILSFVMVIGVPV</span><span class="topo-outside">AYASPQDWDRSKQL</span><span class="topo-membrane">IFLGSGLWIALVLVVG</span><span class="topo-inside">VLNFFVV</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -10327,6 +10734,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

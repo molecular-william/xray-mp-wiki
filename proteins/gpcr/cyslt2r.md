@@ -165,13 +165,15 @@ Cysteinyl leukotriene receptor type 2 (CysLT2R) is a class A G protein-coupled r
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MEPNGTFSNNNS</span><span class="topo-inside">RNCTIENFKREF</span><span class="topo-membrane">FPIVYLIIFFVGVLGNGLSIYVFLQ</span><span class="topo-outside">PYKKSTS</span><span class="topo-membrane">VNVF</span></span>
-<span class="topo-line"><span class="topo-membrane">MLNLAISNLLFISTLPFRAD</span><span class="topo-inside">YYLRGSNWIFGDL</span><span class="topo-membrane">ACRIMSYSLYVNMYSSIYFLTVLSVVR</span></span>
-<span class="topo-line"><span class="topo-membrane">Y</span><span class="topo-outside">LAMVHPFR</span><span class="topo-unknown">LLH</span><span class="topo-outside">VTSI</span><span class="topo-membrane">RSAWILCGIIWILIMASSIMLLD</span><span class="topo-inside">S</span><span class="topo-unknown">GS</span><span class="topo-inside">EQNGSVTSCLELNLYKIA</span></span>
-<span class="topo-line"><span class="topo-inside">KLQT</span><span class="topo-membrane">MNYIALVVGCLLPFFTLSICYLLII</span><span class="topo-outside">RVLLKVEADLEDNWETLNDNLKVIEKA</span><span class="topo-unknown">DN</span><span class="topo-outside">AA</span></span>
-<span class="topo-line"><span class="topo-outside">QVKDALTKMRAAALDAQ</span><span class="topo-unknown">KATPPKLEDKSPDSPE</span><span class="topo-outside">MKDFRHGFDILVGQIDDALKL</span><span class="topo-unknown">ANEGK</span><span class="topo-outside">V</span></span>
-<span class="topo-line"><span class="topo-outside">KEAQAAAEQLKTTRNAYIQKYLVSHRKA</span><span class="topo-membrane">LTTIIITLIIFFLCFLPYHTLRTV</span><span class="topo-inside">HLTTWKVG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MEPNGTFSNNNS</span><span class="topo-inside">RNCTIENFKREF</span><span class="topo-membrane">FPIVYLIIFFVGVLGNGLSIYVFLQ</span><span class="topo-outside">PYKKSTS</span><span class="topo-membrane">VNVFMLNLAISNLLFISTLPFRAD</span><span class="topo-inside">YYLRGSNWIFGDL</span><span class="topo-membrane">ACRIMSYSLYVNMYSSIYFLTVLSVVR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">Y</span><span class="topo-outside">LAMVHPFR</span><span class="topo-unknown">LLH</span><span class="topo-outside">VTSI</span><span class="topo-membrane">RSAWILCGIIWILIMASSIMLLD</span><span class="topo-inside">S</span><span class="topo-unknown">GS</span><span class="topo-inside">EQNGSVTSCLELNLYKIAKLQT</span><span class="topo-membrane">MNYIALVVGCLLPFFTLSICYLLII</span><span class="topo-outside">RVLLKVEADLEDNWETLNDNLKVIEKA</span><span class="topo-unknown">DN</span><span class="topo-outside">AA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">QVKDALTKMRAAALDAQ</span><span class="topo-unknown">KATPPKLEDKSPDSPE</span><span class="topo-outside">MKDFRHGFDILVGQIDDALKL</span><span class="topo-unknown">ANEGK</span><span class="topo-outside">VKEAQAAAEQLKTTRNAYIQKYLVSHRKA</span><span class="topo-membrane">LTTIIITLIIFFLCFLPYHTLRTV</span><span class="topo-inside">HLTTWKVG</span></span>
+<span class="topo-ruler">       370       380       390       400     </span>
 <span class="topo-line"><span class="topo-inside">LCKDRLHKA</span><span class="topo-membrane">LVITLALAAANACFNPLLYYFAG</span><span class="topo-outside">ENFKDRLKSALRK</span></span>
+<details class="topo-details"><summary>Topology coordinates (28 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -379,6 +381,7 @@ Cysteinyl leukotriene receptor type 2 (CysLT2R) is a class A G protein-coupled r
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -394,13 +397,15 @@ Cysteinyl leukotriene receptor type 2 (CysLT2R) is a class A G protein-coupled r
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MEPNGTFSNNNSRN</span><span class="topo-inside">CTIENFKREF</span><span class="topo-membrane">FPIVYLIIFFVGVLGNGLSIYVFLQ</span><span class="topo-outside">PYKKSTS</span><span class="topo-membrane">VNVF</span></span>
-<span class="topo-line"><span class="topo-membrane">MLNLAISNLLFISTLPFRAD</span><span class="topo-inside">YYLRGSNWIFGDL</span><span class="topo-membrane">ACRIMSYSLYVNMYSSIYFLTVLSVVR</span></span>
-<span class="topo-line"><span class="topo-membrane">Y</span><span class="topo-outside">LAMVHP</span><span class="topo-unknown">FRLLH</span><span class="topo-outside">VTSIR</span><span class="topo-membrane">SAWILCGIIWILIMASSIMLLD</span><span class="topo-inside">S</span><span class="topo-unknown">GSEQNG</span><span class="topo-inside">SVTSCLELNLYKIA</span></span>
-<span class="topo-line"><span class="topo-inside">KL</span><span class="topo-membrane">QTMNYIALVVGCLLPFFTLSICYLLII</span><span class="topo-outside">RVLLKVEADLEDNWETLNDNLKVIEKADNAA</span></span>
-<span class="topo-line"><span class="topo-outside">QVKDALTKMRAAALD</span><span class="topo-unknown">AQKATPPKLEDKSPDSPEMK</span><span class="topo-outside">DFRHGFDILVGQIDDALKLANEGKV</span></span>
-<span class="topo-line"><span class="topo-outside">KEAQAAAEQLKTTRNAYIQKYLVSHRKA</span><span class="topo-membrane">LTTIIITLIIFFLCFLPYHTLRTV</span><span class="topo-inside">HLTTWKVG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MEPNGTFSNNNSRN</span><span class="topo-inside">CTIENFKREF</span><span class="topo-membrane">FPIVYLIIFFVGVLGNGLSIYVFLQ</span><span class="topo-outside">PYKKSTS</span><span class="topo-membrane">VNVFMLNLAISNLLFISTLPFRAD</span><span class="topo-inside">YYLRGSNWIFGDL</span><span class="topo-membrane">ACRIMSYSLYVNMYSSIYFLTVLSVVR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">Y</span><span class="topo-outside">LAMVHP</span><span class="topo-unknown">FRLLH</span><span class="topo-outside">VTSIR</span><span class="topo-membrane">SAWILCGIIWILIMASSIMLLD</span><span class="topo-inside">S</span><span class="topo-unknown">GSEQNG</span><span class="topo-inside">SVTSCLELNLYKIAKL</span><span class="topo-membrane">QTMNYIALVVGCLLPFFTLSICYLLII</span><span class="topo-outside">RVLLKVEADLEDNWETLNDNLKVIEKADNAA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">QVKDALTKMRAAALD</span><span class="topo-unknown">AQKATPPKLEDKSPDSPEMK</span><span class="topo-outside">DFRHGFDILVGQIDDALKLANEGKVKEAQAAAEQLKTTRNAYIQKYLVSHRKA</span><span class="topo-membrane">LTTIIITLIIFFLCFLPYHTLRTV</span><span class="topo-inside">HLTTWKVG</span></span>
+<span class="topo-ruler">       370       380       390       400     </span>
 <span class="topo-line"><span class="topo-inside">LCKDRLHK</span><span class="topo-membrane">ALVITLALAAANACFNPLLYYFAG</span><span class="topo-outside">ENFKDRLKSALRK</span></span>
+<details class="topo-details"><summary>Topology coordinates (24 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -580,6 +585,7 @@ Cysteinyl leukotriene receptor type 2 (CysLT2R) is a class A G protein-coupled r
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -595,13 +601,15 @@ Cysteinyl leukotriene receptor type 2 (CysLT2R) is a class A G protein-coupled r
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MEPNGTFSNNNSRN</span><span class="topo-inside">CTIENFKREF</span><span class="topo-membrane">FPIVYLIIFFVGVLGNGLSIYVFLQP</span><span class="topo-outside">YKKS</span><span class="topo-membrane">TSVNVF</span></span>
-<span class="topo-line"><span class="topo-membrane">MLNLAISNLLFISTLPFRA</span><span class="topo-inside">DYYLRGSNWIFGDLACR</span><span class="topo-membrane">IMSYSLYVNMYSSIYFLTVLSVVR</span></span>
-<span class="topo-line"><span class="topo-membrane">Y</span><span class="topo-outside">LAMVH</span><span class="topo-unknown">PFRLLHV</span><span class="topo-outside">TS</span><span class="topo-membrane">IRSAWILCGIIWILIMASSIMLL</span><span class="topo-inside">DSGSEQNGSVTSCLELNLYKIA</span></span>
-<span class="topo-line"><span class="topo-inside">KL</span><span class="topo-membrane">QTMNYIALVVGCLLPFFTLSICYLL</span><span class="topo-outside">IIRVLLKVEADLEDNWETLNDNLKVIEKADNAA</span></span>
-<span class="topo-line"><span class="topo-outside">QVKDALTKMRAAALDAQKATP</span><span class="topo-unknown">PKLEDKSPD</span><span class="topo-outside">SPEMKDFRHGFDILVGQIDDALKLANEGKV</span></span>
-<span class="topo-line"><span class="topo-outside">KEAQAAAEQLKTTRNAYIQKYLVSHRKAL</span><span class="topo-membrane">TTIIITLIIFFLCFLPYHTLRTVH</span><span class="topo-inside">LTTWKVG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MEPNGTFSNNNSRN</span><span class="topo-inside">CTIENFKREF</span><span class="topo-membrane">FPIVYLIIFFVGVLGNGLSIYVFLQP</span><span class="topo-outside">YKKS</span><span class="topo-membrane">TSVNVFMLNLAISNLLFISTLPFRA</span><span class="topo-inside">DYYLRGSNWIFGDLACR</span><span class="topo-membrane">IMSYSLYVNMYSSIYFLTVLSVVR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">Y</span><span class="topo-outside">LAMVH</span><span class="topo-unknown">PFRLLHV</span><span class="topo-outside">TS</span><span class="topo-membrane">IRSAWILCGIIWILIMASSIMLL</span><span class="topo-inside">DSGSEQNGSVTSCLELNLYKIAKL</span><span class="topo-membrane">QTMNYIALVVGCLLPFFTLSICYLL</span><span class="topo-outside">IIRVLLKVEADLEDNWETLNDNLKVIEKADNAA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">QVKDALTKMRAAALDAQKATP</span><span class="topo-unknown">PKLEDKSPD</span><span class="topo-outside">SPEMKDFRHGFDILVGQIDDALKLANEGKVKEAQAAAEQLKTTRNAYIQKYLVSHRKAL</span><span class="topo-membrane">TTIIITLIIFFLCFLPYHTLRTVH</span><span class="topo-inside">LTTWKVG</span></span>
+<span class="topo-ruler">       370       380       390       400     </span>
 <span class="topo-line"><span class="topo-inside">LCKDRLHK</span><span class="topo-membrane">ALVITLALAAANACFNPLLYYFAGE</span><span class="topo-outside">NFK</span><span class="topo-unknown">DRLKSALRK</span></span>
+<details class="topo-details"><summary>Topology coordinates (23 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -774,6 +782,7 @@ Cysteinyl leukotriene receptor type 2 (CysLT2R) is a class A G protein-coupled r
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -789,13 +798,15 @@ Cysteinyl leukotriene receptor type 2 (CysLT2R) is a class A G protein-coupled r
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MEPNGTFSNNNSRN</span><span class="topo-inside">CTIENFKREF</span><span class="topo-membrane">FPIVYLIIFFVGVLGNGLSIYVFLQ</span><span class="topo-outside">PYKKST</span><span class="topo-membrane">SVNVF</span></span>
-<span class="topo-line"><span class="topo-membrane">MLNLAISNLLFISTLPFRA</span><span class="topo-inside">DYYLRGSNWIFGDLACRI</span><span class="topo-membrane">MSYSLYVNMYSSIYFLTVLSVVR</span></span>
-<span class="topo-line"><span class="topo-membrane">YL</span><span class="topo-outside">AMVHPFR</span><span class="topo-unknown">LL</span><span class="topo-outside">HVTS</span><span class="topo-membrane">IRSAWILCGIIWILIMASSIMLL</span><span class="topo-inside">DS</span><span class="topo-unknown">GS</span><span class="topo-inside">EQNGSVTSCLELNLYKIA</span></span>
-<span class="topo-line"><span class="topo-inside">KLQTM</span><span class="topo-membrane">NYIALVVGCLLPFFTLSICYLLIIR</span><span class="topo-outside">VLLKVEADLEDNWETLNDNLKVIEKA</span><span class="topo-unknown">DN</span><span class="topo-outside">AA</span></span>
-<span class="topo-line"><span class="topo-outside">QVKDALTKMRAAALDAQ</span><span class="topo-unknown">KATPPKLEDKSPDSPE</span><span class="topo-outside">MKDFRHGFDILVGQIDDALKL</span><span class="topo-unknown">ANEGK</span><span class="topo-outside">V</span></span>
-<span class="topo-line"><span class="topo-outside">KEAQAAAEQLKTTRNAYIQKYLVSHRK</span><span class="topo-membrane">ALTTIIITLIIFFLCFLPYHTLRT</span><span class="topo-inside">VHLTTWKVG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MEPNGTFSNNNSRN</span><span class="topo-inside">CTIENFKREF</span><span class="topo-membrane">FPIVYLIIFFVGVLGNGLSIYVFLQ</span><span class="topo-outside">PYKKST</span><span class="topo-membrane">SVNVFMLNLAISNLLFISTLPFRA</span><span class="topo-inside">DYYLRGSNWIFGDLACRI</span><span class="topo-membrane">MSYSLYVNMYSSIYFLTVLSVVR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">YL</span><span class="topo-outside">AMVHPFR</span><span class="topo-unknown">LL</span><span class="topo-outside">HVTS</span><span class="topo-membrane">IRSAWILCGIIWILIMASSIMLL</span><span class="topo-inside">DS</span><span class="topo-unknown">GS</span><span class="topo-inside">EQNGSVTSCLELNLYKIAKLQTM</span><span class="topo-membrane">NYIALVVGCLLPFFTLSICYLLIIR</span><span class="topo-outside">VLLKVEADLEDNWETLNDNLKVIEKA</span><span class="topo-unknown">DN</span><span class="topo-outside">AA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">QVKDALTKMRAAALDAQ</span><span class="topo-unknown">KATPPKLEDKSPDSPE</span><span class="topo-outside">MKDFRHGFDILVGQIDDALKL</span><span class="topo-unknown">ANEGK</span><span class="topo-outside">VKEAQAAAEQLKTTRNAYIQKYLVSHRK</span><span class="topo-membrane">ALTTIIITLIIFFLCFLPYHTLRT</span><span class="topo-inside">VHLTTWKVG</span></span>
+<span class="topo-ruler">       370       380       390       400     </span>
 <span class="topo-line"><span class="topo-inside">LCKDRLHKA</span><span class="topo-membrane">LVITLALAAANACFNPLLYYFAGE</span><span class="topo-outside">NFKDRLKSALR</span><span class="topo-unknown">K</span></span>
+<details class="topo-details"><summary>Topology coordinates (29 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1010,6 +1021,7 @@ Cysteinyl leukotriene receptor type 2 (CysLT2R) is a class A G protein-coupled r
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

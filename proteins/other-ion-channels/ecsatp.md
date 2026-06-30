@@ -144,10 +144,11 @@ shown to be critical for  translocation activity.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">AHMGNT</span><span class="topo-inside">KLAN</span><span class="topo-membrane">PAPLGLMGFGMTTILLNL</span><span class="topo-outside">HNVGYFALDGIIL</span><span class="topo-membrane">AMGIFYGGIAQIFAGLL</span><span class="topo-inside">EY</span></span>
-<span class="topo-line"><span class="topo-inside">KKGNTF</span><span class="topo-membrane">GLTAFTSYGSFWLTL</span><span class="topo-outside">VAILLMPKLGLTDAPNAQFL</span><span class="topo-membrane">GVYLGLWGVFTLFMF</span><span class="topo-inside">FGTL</span></span>
-<span class="topo-line"><span class="topo-inside">KGAR</span><span class="topo-membrane">VLQFVFFSLTVLFALLAI</span><span class="topo-outside">GNIAGNAAIIH</span><span class="topo-membrane">FAGWIGLICGASAIYLAM</span><span class="topo-inside">GEVLNEQFG</span></span>
-<span class="topo-line"><span class="topo-inside">RTVLPIGE</span><span class="topo-unknown">SH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">AHMGNT</span><span class="topo-inside">KLAN</span><span class="topo-membrane">PAPLGLMGFGMTTILLNL</span><span class="topo-outside">HNVGYFALDGIIL</span><span class="topo-membrane">AMGIFYGGIAQIFAGLL</span><span class="topo-inside">EYKKGNTF</span><span class="topo-membrane">GLTAFTSYGSFWLTL</span><span class="topo-outside">VAILLMPKLGLTDAPNAQFL</span><span class="topo-membrane">GVYLGLWGVFTLFMF</span><span class="topo-inside">FGTL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190</span>
+<span class="topo-line"><span class="topo-inside">KGAR</span><span class="topo-membrane">VLQFVFFSLTVLFALLAI</span><span class="topo-outside">GNIAGNAAIIH</span><span class="topo-membrane">FAGWIGLICGASAIYLAM</span><span class="topo-inside">GEVLNEQFGRTVLPIGE</span><span class="topo-unknown">SH</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -264,6 +265,7 @@ shown to be critical for  translocation activity.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -279,10 +281,11 @@ shown to be critical for  translocation activity.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">AHMGNT</span><span class="topo-inside">KLAN</span><span class="topo-membrane">PAPLGLMGFGMTTIL</span><span class="topo-outside">LNLHNVGYFALDGIILA</span><span class="topo-membrane">MGIFYGGIAQIFAGLL</span><span class="topo-inside">EY</span></span>
-<span class="topo-line"><span class="topo-inside">KKGNT</span><span class="topo-membrane">FGLTAFTSYGSFWLTL</span><span class="topo-outside">VAILLMPKLGLTDAPNAQFLG</span><span class="topo-membrane">VYLGLWGVFTLFMFF</span><span class="topo-inside">GTL</span></span>
-<span class="topo-line"><span class="topo-inside">KGA</span><span class="topo-membrane">RVLQFVFFSLTVLFALLA</span><span class="topo-outside">IGNIAGNAAIIHF</span><span class="topo-membrane">AGWIGLICGASAIYLAMG</span><span class="topo-inside">EVLNEQFG</span></span>
-<span class="topo-line"><span class="topo-inside">RTVLPIGE</span><span class="topo-unknown">SH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">AHMGNT</span><span class="topo-inside">KLAN</span><span class="topo-membrane">PAPLGLMGFGMTTIL</span><span class="topo-outside">LNLHNVGYFALDGIILA</span><span class="topo-membrane">MGIFYGGIAQIFAGLL</span><span class="topo-inside">EYKKGNT</span><span class="topo-membrane">FGLTAFTSYGSFWLTL</span><span class="topo-outside">VAILLMPKLGLTDAPNAQFLG</span><span class="topo-membrane">VYLGLWGVFTLFMFF</span><span class="topo-inside">GTL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190</span>
+<span class="topo-line"><span class="topo-inside">KGA</span><span class="topo-membrane">RVLQFVFFSLTVLFALLA</span><span class="topo-outside">IGNIAGNAAIIHF</span><span class="topo-membrane">AGWIGLICGASAIYLAMG</span><span class="topo-inside">EVLNEQFGRTVLPIGE</span><span class="topo-unknown">SH</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -399,6 +402,7 @@ shown to be critical for  translocation activity.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -414,10 +418,11 @@ shown to be critical for  translocation activity.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">AHMGNT</span><span class="topo-inside">KLANP</span><span class="topo-membrane">APLGLMGFGMTTILLNL</span><span class="topo-outside">HNVGYFALDGIIL</span><span class="topo-membrane">AMGIFYGGIAQIFAGLL</span><span class="topo-inside">EY</span></span>
-<span class="topo-line"><span class="topo-inside">KKGNTF</span><span class="topo-membrane">GLTAFTSYGSFWLTLV</span><span class="topo-outside">AILLMPKLGLTDAPNAQFL</span><span class="topo-membrane">GVYLGLWGVFTLFMF</span><span class="topo-inside">FGTL</span></span>
-<span class="topo-line"><span class="topo-inside">KGARVLQ</span><span class="topo-membrane">FVFFSLTVLFALLAI</span><span class="topo-outside">GNIAGNAAIIH</span><span class="topo-membrane">FAGWIGLICGASAIYLAM</span><span class="topo-inside">GEVLNEQFG</span></span>
-<span class="topo-line"><span class="topo-inside">RTVLPIG</span><span class="topo-unknown">ESH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">AHMGNT</span><span class="topo-inside">KLANP</span><span class="topo-membrane">APLGLMGFGMTTILLNL</span><span class="topo-outside">HNVGYFALDGIIL</span><span class="topo-membrane">AMGIFYGGIAQIFAGLL</span><span class="topo-inside">EYKKGNTF</span><span class="topo-membrane">GLTAFTSYGSFWLTLV</span><span class="topo-outside">AILLMPKLGLTDAPNAQFL</span><span class="topo-membrane">GVYLGLWGVFTLFMF</span><span class="topo-inside">FGTL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190</span>
+<span class="topo-line"><span class="topo-inside">KGARVLQ</span><span class="topo-membrane">FVFFSLTVLFALLAI</span><span class="topo-outside">GNIAGNAAIIH</span><span class="topo-membrane">FAGWIGLICGASAIYLAM</span><span class="topo-inside">GEVLNEQFGRTVLPIG</span><span class="topo-unknown">ESH</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -534,6 +539,7 @@ shown to be critical for  translocation activity.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -549,10 +555,11 @@ shown to be critical for  translocation activity.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">AHMGNT</span><span class="topo-inside">KLAN</span><span class="topo-membrane">PAPLGLMGFGMTTIL</span><span class="topo-outside">LNLHNVGYFALDGIILA</span><span class="topo-membrane">MGIFYGGIAQIFAGLLE</span><span class="topo-inside">Y</span></span>
-<span class="topo-line"><span class="topo-inside">KKGNT</span><span class="topo-membrane">FGLTAFTSYGSFWLT</span><span class="topo-outside">LVAILLMPKLGLTDAPNAQFLGVY</span><span class="topo-membrane">LGLWGVFTLFMFFGT</span><span class="topo-inside">L</span></span>
-<span class="topo-line"><span class="topo-inside">KGA</span><span class="topo-membrane">RVLQFVFFSLTVLFAL</span><span class="topo-outside">LAIGNIAGNAAIIHFAG</span><span class="topo-membrane">WIGLICGASAIYLAMG</span><span class="topo-inside">EVLNEQFG</span></span>
-<span class="topo-line"><span class="topo-inside">RTVLPIGE</span><span class="topo-unknown">SH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">AHMGNT</span><span class="topo-inside">KLAN</span><span class="topo-membrane">PAPLGLMGFGMTTIL</span><span class="topo-outside">LNLHNVGYFALDGIILA</span><span class="topo-membrane">MGIFYGGIAQIFAGLLE</span><span class="topo-inside">YKKGNT</span><span class="topo-membrane">FGLTAFTSYGSFWLT</span><span class="topo-outside">LVAILLMPKLGLTDAPNAQFLGVY</span><span class="topo-membrane">LGLWGVFTLFMFFGT</span><span class="topo-inside">L</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190</span>
+<span class="topo-line"><span class="topo-inside">KGA</span><span class="topo-membrane">RVLQFVFFSLTVLFAL</span><span class="topo-outside">LAIGNIAGNAAIIHFAG</span><span class="topo-membrane">WIGLICGASAIYLAMG</span><span class="topo-inside">EVLNEQFGRTVLPIGE</span><span class="topo-unknown">SH</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -669,6 +676,7 @@ shown to be critical for  translocation activity.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -684,10 +692,11 @@ shown to be critical for  translocation activity.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">AHMGNT</span><span class="topo-inside">KLAN</span><span class="topo-membrane">PAPLGLMGFGMTTI</span><span class="topo-outside">LLNLHNVGYFALDGIILA</span><span class="topo-membrane">MGIFYGGIAQIFAGLLE</span><span class="topo-inside">Y</span></span>
-<span class="topo-line"><span class="topo-inside">KKGNT</span><span class="topo-membrane">FGLTAFTSYGSFWLT</span><span class="topo-outside">LVAILLMPKLGLTDAPNAQFLGV</span><span class="topo-membrane">YLGLWGVFTLFMFFGT</span><span class="topo-inside">L</span></span>
-<span class="topo-line"><span class="topo-inside">KGA</span><span class="topo-membrane">RVLQFVFFSLTVLFAL</span><span class="topo-outside">LAIGNIAGNAAIIHFAG</span><span class="topo-membrane">WIGLICGASAIYLAMGEVL</span><span class="topo-inside">NEQFG</span></span>
-<span class="topo-line"><span class="topo-inside">RTVLPIGE</span><span class="topo-unknown">SH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">AHMGNT</span><span class="topo-inside">KLAN</span><span class="topo-membrane">PAPLGLMGFGMTTI</span><span class="topo-outside">LLNLHNVGYFALDGIILA</span><span class="topo-membrane">MGIFYGGIAQIFAGLLE</span><span class="topo-inside">YKKGNT</span><span class="topo-membrane">FGLTAFTSYGSFWLT</span><span class="topo-outside">LVAILLMPKLGLTDAPNAQFLGV</span><span class="topo-membrane">YLGLWGVFTLFMFFGT</span><span class="topo-inside">L</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190</span>
+<span class="topo-line"><span class="topo-inside">KGA</span><span class="topo-membrane">RVLQFVFFSLTVLFAL</span><span class="topo-outside">LAIGNIAGNAAIIHFAG</span><span class="topo-membrane">WIGLICGASAIYLAMGEVL</span><span class="topo-inside">NEQFGRTVLPIGE</span><span class="topo-unknown">SH</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -804,6 +813,7 @@ shown to be critical for  translocation activity.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -819,10 +829,11 @@ shown to be critical for  translocation activity.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">AHMGNT</span><span class="topo-inside">KLAN</span><span class="topo-membrane">PAPLGLMGFGMTTILLNL</span><span class="topo-outside">HNVGYFALDGIIL</span><span class="topo-membrane">AMGIFYGGIAQIFAGLL</span><span class="topo-inside">EY</span></span>
-<span class="topo-line"><span class="topo-inside">KKGNT</span><span class="topo-membrane">FGLTAFTSYGSFWLTL</span><span class="topo-outside">VAILLMPKLGLTDAPNAQFLG</span><span class="topo-membrane">VYLGLWGVFTLFMFF</span><span class="topo-inside">GTL</span></span>
-<span class="topo-line"><span class="topo-inside">KGAR</span><span class="topo-membrane">VLQFVFFSLTVLFALLA</span><span class="topo-outside">IGNIAGNAAIIH</span><span class="topo-membrane">FAGWIGLICGASAIYLAM</span><span class="topo-inside">GEVLNEQFG</span></span>
-<span class="topo-line"><span class="topo-inside">RTVLPIG</span><span class="topo-unknown">ESH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">AHMGNT</span><span class="topo-inside">KLAN</span><span class="topo-membrane">PAPLGLMGFGMTTILLNL</span><span class="topo-outside">HNVGYFALDGIIL</span><span class="topo-membrane">AMGIFYGGIAQIFAGLL</span><span class="topo-inside">EYKKGNT</span><span class="topo-membrane">FGLTAFTSYGSFWLTL</span><span class="topo-outside">VAILLMPKLGLTDAPNAQFLG</span><span class="topo-membrane">VYLGLWGVFTLFMFF</span><span class="topo-inside">GTL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190</span>
+<span class="topo-line"><span class="topo-inside">KGAR</span><span class="topo-membrane">VLQFVFFSLTVLFALLA</span><span class="topo-outside">IGNIAGNAAIIH</span><span class="topo-membrane">FAGWIGLICGASAIYLAM</span><span class="topo-inside">GEVLNEQFGRTVLPIG</span><span class="topo-unknown">ESH</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -939,6 +950,7 @@ shown to be critical for  translocation activity.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

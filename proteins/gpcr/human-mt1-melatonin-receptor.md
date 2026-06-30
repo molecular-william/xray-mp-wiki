@@ -167,15 +167,17 @@ The MT1 melatonin receptor (type 1A) is a class A G-protein-coupled receptor tha
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GTSQPVLRGDGA</span><span class="topo-outside">RPSWLAS</span><span class="topo-membrane">ALACVLIFTIVVDILGNLLVIL</span><span class="topo-inside">SVYRNKKLRNAGNI</span><span class="topo-membrane">FVVSL</span></span>
-<span class="topo-line"><span class="topo-membrane">AVANLVVAIYPYPLVLM</span><span class="topo-outside">SIFNNGWNFGYLHCQV</span><span class="topo-membrane">SAFLMGLSVIGSIWNITGIAID</span><span class="topo-inside">RYLYI</span></span>
-<span class="topo-line"><span class="topo-inside">CHSLKYDKLYSSKNS</span><span class="topo-membrane">LCYVLLIWLLTLAAVLPNL</span><span class="topo-outside">RAGTLQYDPRIYSCTFAQSVSSAY</span><span class="topo-membrane">TI</span></span>
-<span class="topo-line"><span class="topo-membrane">AVVVFHFLVPMIIVIFCYLR</span><span class="topo-inside">IWILVLQVRGIDCSFWNESYLTGSRDERKKSLLSKFGMDE</span></span>
-<span class="topo-line"><span class="topo-inside">GVTFMFIGRFDRGQKG</span><span class="topo-unknown">VDVLLKAIEILS</span><span class="topo-inside">SKKEFQEMRFIIIGKGDPELEGWARSLEEKHG</span></span>
-<span class="topo-line"><span class="topo-inside">NVKVITEMLSREFVRELYGSVDFVIIPSYFEPFGLVALEAMCLGAIPIASAVGGLRDIIT</span></span>
-<span class="topo-line"><span class="topo-inside">NETGILVKAGDPGELANAILKALELSRSDLSKFRENCKKRAMSFSKLKPQDFRNFVT</span><span class="topo-membrane">MFV</span></span>
-<span class="topo-line"><span class="topo-membrane">VFVLFAICFAPLNFIGL</span><span class="topo-outside">AVASDPASMVPRIPEWL</span><span class="topo-membrane">FVASYYMAYFNSCLNPIIYGL</span><span class="topo-inside">LD</span><span class="topo-unknown">QNF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GTSQPVLRGDGA</span><span class="topo-outside">RPSWLAS</span><span class="topo-membrane">ALACVLIFTIVVDILGNLLVIL</span><span class="topo-inside">SVYRNKKLRNAGNI</span><span class="topo-membrane">FVVSLAVANLVVAIYPYPLVLM</span><span class="topo-outside">SIFNNGWNFGYLHCQV</span><span class="topo-membrane">SAFLMGLSVIGSIWNITGIAID</span><span class="topo-inside">RYLYI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">CHSLKYDKLYSSKNS</span><span class="topo-membrane">LCYVLLIWLLTLAAVLPNL</span><span class="topo-outside">RAGTLQYDPRIYSCTFAQSVSSAY</span><span class="topo-membrane">TIAVVVFHFLVPMIIVIFCYLR</span><span class="topo-inside">IWILVLQVRGIDCSFWNESYLTGSRDERKKSLLSKFGMDE</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">GVTFMFIGRFDRGQKG</span><span class="topo-unknown">VDVLLKAIEILS</span><span class="topo-inside">SKKEFQEMRFIIIGKGDPELEGWARSLEEKHGNVKVITEMLSREFVRELYGSVDFVIIPSYFEPFGLVALEAMCLGAIPIASAVGGLRDIIT</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">NETGILVKAGDPGELANAILKALELSRSDLSKFRENCKKRAMSFSKLKPQDFRNFVT</span><span class="topo-membrane">MFVVFVLFAICFAPLNFIGL</span><span class="topo-outside">AVASDPASMVPRIPEWL</span><span class="topo-membrane">FVASYYMAYFNSCLNPIIYGL</span><span class="topo-inside">LD</span><span class="topo-unknown">QNF</span></span>
+<span class="topo-ruler">       490       500   </span>
 <span class="topo-line"><span class="topo-unknown">RKEYRRIIVS</span><span class="topo-inside">LCTARVFF</span><span class="topo-unknown">VDSSN</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -334,6 +336,7 @@ The MT1 melatonin receptor (type 1A) is a class A G-protein-coupled receptor tha
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -349,15 +352,17 @@ The MT1 melatonin receptor (type 1A) is a class A G-protein-coupled receptor tha
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GTSQPVLRGDGAR</span><span class="topo-outside">PSWLAS</span><span class="topo-membrane">ALACVLIFTIVVDILGNLLVILS</span><span class="topo-inside">VYRNKKLRNAGN</span><span class="topo-membrane">IFVVSL</span></span>
-<span class="topo-line"><span class="topo-membrane">AVANLVVAIYPYPLVLM</span><span class="topo-outside">SIFNNGWNFGYLHCQV</span><span class="topo-membrane">SAFLMGLSVIGSIWNITGIAID</span><span class="topo-inside">RYLYI</span></span>
-<span class="topo-line"><span class="topo-inside">CHSLKYDKLYSSKN</span><span class="topo-membrane">SLCYVLLIWLLTLAAVLPN</span><span class="topo-outside">LRAGTLQYDPRIYSCTFAQSVSSAY</span><span class="topo-membrane">TI</span></span>
-<span class="topo-line"><span class="topo-membrane">AVVVFHFLVPMIIVIFCYL</span><span class="topo-inside">RIWILVLQVRGIDCSFWNESYLTGSRDERKKSLLSKFGMDE</span></span>
-<span class="topo-line"><span class="topo-inside">GVTFMFIGRFDRGQKGVDVLLKAIEILSSKKEFQEMRFIIIGKGDPELEGWARSLEEKHG</span></span>
-<span class="topo-line"><span class="topo-inside">NVKVITEMLSREFVRELYGSVDFVIIPSYFEPFGLVALEAMCLGAIPIASAVGGLRDIIT</span></span>
-<span class="topo-line"><span class="topo-inside">NETGILVKAGDPGELANAILKALELSRSDLSKFRENCKKRAMSFSKLKPQDFRNFV</span><span class="topo-membrane">TMFV</span></span>
-<span class="topo-line"><span class="topo-membrane">VFVLFAICFAPLNFIGLA</span><span class="topo-outside">VASDPASMVPRIPEW</span><span class="topo-membrane">LFVASYYMAYFNSCLNPIIYGL</span><span class="topo-inside">LDQNF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GTSQPVLRGDGAR</span><span class="topo-outside">PSWLAS</span><span class="topo-membrane">ALACVLIFTIVVDILGNLLVILS</span><span class="topo-inside">VYRNKKLRNAGN</span><span class="topo-membrane">IFVVSLAVANLVVAIYPYPLVLM</span><span class="topo-outside">SIFNNGWNFGYLHCQV</span><span class="topo-membrane">SAFLMGLSVIGSIWNITGIAID</span><span class="topo-inside">RYLYI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">CHSLKYDKLYSSKN</span><span class="topo-membrane">SLCYVLLIWLLTLAAVLPN</span><span class="topo-outside">LRAGTLQYDPRIYSCTFAQSVSSAY</span><span class="topo-membrane">TIAVVVFHFLVPMIIVIFCYL</span><span class="topo-inside">RIWILVLQVRGIDCSFWNESYLTGSRDERKKSLLSKFGMDE</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">GVTFMFIGRFDRGQKGVDVLLKAIEILSSKKEFQEMRFIIIGKGDPELEGWARSLEEKHGNVKVITEMLSREFVRELYGSVDFVIIPSYFEPFGLVALEAMCLGAIPIASAVGGLRDIIT</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">NETGILVKAGDPGELANAILKALELSRSDLSKFRENCKKRAMSFSKLKPQDFRNFV</span><span class="topo-membrane">TMFVVFVLFAICFAPLNFIGLA</span><span class="topo-outside">VASDPASMVPRIPEW</span><span class="topo-membrane">LFVASYYMAYFNSCLNPIIYGL</span><span class="topo-inside">LDQNF</span></span>
+<span class="topo-ruler">       490       500   </span>
 <span class="topo-line"><span class="topo-inside">RKEYRRIIVSLCTARV</span><span class="topo-unknown">FFVDSSN</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -502,6 +507,7 @@ The MT1 melatonin receptor (type 1A) is a class A G-protein-coupled receptor tha
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -517,15 +523,17 @@ The MT1 melatonin receptor (type 1A) is a class A G-protein-coupled receptor tha
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GTSQPVLRGDGAR</span><span class="topo-outside">PSWLAS</span><span class="topo-membrane">ALACVLIFTIVVDILGNLLVIL</span><span class="topo-inside">SVYRNKKLRNAGN</span><span class="topo-membrane">IFVVSL</span></span>
-<span class="topo-line"><span class="topo-membrane">AVANLVVAIYPYPLVLM</span><span class="topo-outside">SIFNNGWNFGYLHCQV</span><span class="topo-membrane">SAFLMGLSVIGSIWNITGIAID</span><span class="topo-inside">RYLYI</span></span>
-<span class="topo-line"><span class="topo-inside">CHSLKYDKLYSSKN</span><span class="topo-membrane">SLCYVLLIWLLTLAAVLPN</span><span class="topo-outside">LRAGTLQYDPRIYSCTFAQSVSSAY</span><span class="topo-membrane">TI</span></span>
-<span class="topo-line"><span class="topo-membrane">AVVVFHFLVPMIIVIFCYL</span><span class="topo-inside">RIWILVLQVRGIDCSFWNESYLTGSRDERKKSLLSKFGMDE</span></span>
-<span class="topo-line"><span class="topo-inside">GVTFMFIGRFDRGQKGVDVLLKAIEILSSKKEFQEMRFIIIGKGDPELEGWARSLEEKHG</span></span>
-<span class="topo-line"><span class="topo-inside">NVKVITEMLSREFVRELYGSVDFVIIPSYFEPFGLVALEAMCLGAIPIASAVGGLRDIIT</span></span>
-<span class="topo-line"><span class="topo-inside">NETGILVKAGDPGELANAILKALELSRSDLSKFRENCKKRAMSFSKLKPQDFRNFVT</span><span class="topo-membrane">MFV</span></span>
-<span class="topo-line"><span class="topo-membrane">VFVLFAICFAPLNFIGLA</span><span class="topo-outside">VASDPASMVPRIPEW</span><span class="topo-membrane">LFVASYYMAYFNSCLNPIIYGL</span><span class="topo-inside">LDQNF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GTSQPVLRGDGAR</span><span class="topo-outside">PSWLAS</span><span class="topo-membrane">ALACVLIFTIVVDILGNLLVIL</span><span class="topo-inside">SVYRNKKLRNAGN</span><span class="topo-membrane">IFVVSLAVANLVVAIYPYPLVLM</span><span class="topo-outside">SIFNNGWNFGYLHCQV</span><span class="topo-membrane">SAFLMGLSVIGSIWNITGIAID</span><span class="topo-inside">RYLYI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">CHSLKYDKLYSSKN</span><span class="topo-membrane">SLCYVLLIWLLTLAAVLPN</span><span class="topo-outside">LRAGTLQYDPRIYSCTFAQSVSSAY</span><span class="topo-membrane">TIAVVVFHFLVPMIIVIFCYL</span><span class="topo-inside">RIWILVLQVRGIDCSFWNESYLTGSRDERKKSLLSKFGMDE</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">GVTFMFIGRFDRGQKGVDVLLKAIEILSSKKEFQEMRFIIIGKGDPELEGWARSLEEKHGNVKVITEMLSREFVRELYGSVDFVIIPSYFEPFGLVALEAMCLGAIPIASAVGGLRDIIT</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">NETGILVKAGDPGELANAILKALELSRSDLSKFRENCKKRAMSFSKLKPQDFRNFVT</span><span class="topo-membrane">MFVVFVLFAICFAPLNFIGLA</span><span class="topo-outside">VASDPASMVPRIPEW</span><span class="topo-membrane">LFVASYYMAYFNSCLNPIIYGL</span><span class="topo-inside">LDQNF</span></span>
+<span class="topo-ruler">       490       500   </span>
 <span class="topo-line"><span class="topo-inside">RKEYRRIIVSLCTARVFF</span><span class="topo-unknown">VDSSN</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -670,6 +678,7 @@ The MT1 melatonin receptor (type 1A) is a class A G-protein-coupled receptor tha
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -685,15 +694,17 @@ The MT1 melatonin receptor (type 1A) is a class A G-protein-coupled receptor tha
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GTSQPVLRGDGAR</span><span class="topo-outside">PSWLAS</span><span class="topo-membrane">ALACVLIFTIVVDILGNLLVIL</span><span class="topo-inside">SVYRNKKLRNAGNI</span><span class="topo-membrane">FVVSL</span></span>
-<span class="topo-line"><span class="topo-membrane">AVANLVVAIYPYPLVLM</span><span class="topo-outside">SIFNNGWNFGYLHCQ</span><span class="topo-membrane">VSAFLMGLSVIGSIWNITGIAI</span><span class="topo-inside">DRYLYI</span></span>
-<span class="topo-line"><span class="topo-inside">CHSLKYDKLYSSKNS</span><span class="topo-membrane">LCYVLLIWLLTLAAVLPNL</span><span class="topo-outside">RAGTLQYDPRIYSCTFAQSVSSAY</span><span class="topo-membrane">TI</span></span>
-<span class="topo-line"><span class="topo-membrane">AVVVFHFLVPMIIVIFCYLR</span><span class="topo-inside">IWILVLQVRGIDCSFWNESYLTGSRDERKKSLLSKFGMDE</span></span>
-<span class="topo-line"><span class="topo-inside">GVTFMFIGRFDRGQKGVDVLLKAIEILSSKKEFQEMRFIIIGKGDPELEGWARSLEEKHG</span></span>
-<span class="topo-line"><span class="topo-inside">NVKVITEMLSREFVRELYGSVDFVIIPSYFEPFGLVALEAMCLGAIPIASAVGGLRDIIT</span></span>
-<span class="topo-line"><span class="topo-inside">NETGILVKAGDPGELANAILKALELSRSDLSKFRENCKKRAMSFSKLKPQDFRNFVT</span><span class="topo-membrane">MFV</span></span>
-<span class="topo-line"><span class="topo-membrane">VFVLFAICFAPLNFIGL</span><span class="topo-outside">AVASDPASMVPRIPEWL</span><span class="topo-membrane">FVASYYMAYFNSCLNPIIYGL</span><span class="topo-inside">LDQNF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GTSQPVLRGDGAR</span><span class="topo-outside">PSWLAS</span><span class="topo-membrane">ALACVLIFTIVVDILGNLLVIL</span><span class="topo-inside">SVYRNKKLRNAGNI</span><span class="topo-membrane">FVVSLAVANLVVAIYPYPLVLM</span><span class="topo-outside">SIFNNGWNFGYLHCQ</span><span class="topo-membrane">VSAFLMGLSVIGSIWNITGIAI</span><span class="topo-inside">DRYLYI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">CHSLKYDKLYSSKNS</span><span class="topo-membrane">LCYVLLIWLLTLAAVLPNL</span><span class="topo-outside">RAGTLQYDPRIYSCTFAQSVSSAY</span><span class="topo-membrane">TIAVVVFHFLVPMIIVIFCYLR</span><span class="topo-inside">IWILVLQVRGIDCSFWNESYLTGSRDERKKSLLSKFGMDE</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">GVTFMFIGRFDRGQKGVDVLLKAIEILSSKKEFQEMRFIIIGKGDPELEGWARSLEEKHGNVKVITEMLSREFVRELYGSVDFVIIPSYFEPFGLVALEAMCLGAIPIASAVGGLRDIIT</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">NETGILVKAGDPGELANAILKALELSRSDLSKFRENCKKRAMSFSKLKPQDFRNFVT</span><span class="topo-membrane">MFVVFVLFAICFAPLNFIGL</span><span class="topo-outside">AVASDPASMVPRIPEWL</span><span class="topo-membrane">FVASYYMAYFNSCLNPIIYGL</span><span class="topo-inside">LDQNF</span></span>
+<span class="topo-ruler">       490       500   </span>
 <span class="topo-line"><span class="topo-inside">RKEYRRIIVSLCTARVFF</span><span class="topo-unknown">VDSSN</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -838,6 +849,7 @@ The MT1 melatonin receptor (type 1A) is a class A G-protein-coupled receptor tha
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

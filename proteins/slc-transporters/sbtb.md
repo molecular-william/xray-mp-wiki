@@ -91,13 +91,15 @@ SbtB is a PII-like signal transduction protein from the cyanobacterium Synechocy
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">DF</span><span class="topo-unknown">LSNFLTDFVGQ</span><span class="topo-outside">LQSP</span><span class="topo-membrane">TLAFLIGGMVIAALGT</span><span class="topo-inside">Q</span><span class="topo-membrane">LVIPEAISTIIVFMLLTKIGL</span><span class="topo-outside">TGGM</span></span>
-<span class="topo-line"><span class="topo-outside">AIRNSNLTEML</span><span class="topo-membrane">LPVAFSVILGILIVFIARFTLA</span><span class="topo-inside">KLPNVRTVDA</span><span class="topo-membrane">LATGGLFGAVSGSTMAA</span></span>
-<span class="topo-line"><span class="topo-membrane">A</span><span class="topo-outside">LTTLEESKISYEAWA</span><span class="topo-membrane">GALYPFMDIPALVTAIVV</span><span class="topo-inside">ANIYLNKRKRKSAAA</span><span class="topo-unknown">SIEESFSKQPV</span></span>
-<span class="topo-line"><span class="topo-unknown">AAGDYGDQTDYPRTRQEYLSQQEPEDN</span><span class="topo-inside">RVKI</span><span class="topo-membrane">WPIIEESLQGPALSAMLLGLAL</span><span class="topo-outside">GIFTKP</span><span class="topo-unknown">E</span></span>
-<span class="topo-line"><span class="topo-unknown">SVYEG</span><span class="topo-outside">FYDPL</span><span class="topo-membrane">FRGLLSILMLIMGMEAWSRIG</span><span class="topo-inside">ELRKVAQ</span><span class="topo-membrane">WYVVYSLIAPIVHGFIAFGLG</span><span class="topo-outside">M</span></span>
-<span class="topo-line"><span class="topo-outside">IAHYATGFSLGGVVV</span><span class="topo-membrane">LAVIAASSSDISGPPTL</span><span class="topo-inside">RAGIPSANPSAY</span><span class="topo-membrane">IGSSTAIGTPIAIGVC</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">DF</span><span class="topo-unknown">LSNFLTDFVGQ</span><span class="topo-outside">LQSP</span><span class="topo-membrane">TLAFLIGGMVIAALGT</span><span class="topo-inside">Q</span><span class="topo-membrane">LVIPEAISTIIVFMLLTKIGL</span><span class="topo-outside">TGGMAIRNSNLTEML</span><span class="topo-membrane">LPVAFSVILGILIVFIARFTLA</span><span class="topo-inside">KLPNVRTVDA</span><span class="topo-membrane">LATGGLFGAVSGSTMAA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">A</span><span class="topo-outside">LTTLEESKISYEAWA</span><span class="topo-membrane">GALYPFMDIPALVTAIVV</span><span class="topo-inside">ANIYLNKRKRKSAAA</span><span class="topo-unknown">SIEESFSKQPVAAGDYGDQTDYPRTRQEYLSQQEPEDN</span><span class="topo-inside">RVKI</span><span class="topo-membrane">WPIIEESLQGPALSAMLLGLAL</span><span class="topo-outside">GIFTKP</span><span class="topo-unknown">E</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-unknown">SVYEG</span><span class="topo-outside">FYDPL</span><span class="topo-membrane">FRGLLSILMLIMGMEAWSRIG</span><span class="topo-inside">ELRKVAQ</span><span class="topo-membrane">WYVVYSLIAPIVHGFIAFGLG</span><span class="topo-outside">MIAHYATGFSLGGVVV</span><span class="topo-membrane">LAVIAASSSDISGPPTL</span><span class="topo-inside">RAGIPSANPSAY</span><span class="topo-membrane">IGSSTAIGTPIAIGVC</span></span>
+<span class="topo-ruler">       370    </span>
 <span class="topo-line"><span class="topo-membrane">IPL</span><span class="topo-outside">FIGLAQTLGAG</span></span>
+<details class="topo-details"><summary>Topology coordinates (26 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -291,6 +293,7 @@ SbtB is a PII-like signal transduction protein from the cyanobacterium Synechocy
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -306,8 +309,9 @@ SbtB is a PII-like signal transduction protein from the cyanobacterium Synechocy
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">AKPANKLVIVTEKILLKKIAKIIDESGAKGYTVMNTGGKG</span><span class="topo-unknown">SRNVRSSGQPNTSDIE</span><span class="topo-inside">ANI</span></span>
-<span class="topo-line"><span class="topo-inside">KFEILTETREMAEEIADRVAVKYFNDYAGIIYICSAEVLYGHTFCGPEGC</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">AKPANKLVIVTEKILLKKIAKIIDESGAKGYTVMNTGGKG</span><span class="topo-unknown">SRNVRSSGQPNTSDIE</span><span class="topo-inside">ANIKFEILTETREMAEEIADRVAVKYFNDYAGIIYICSAEVLYGHTFCGPEGC</span></span>
+<details class="topo-details"><summary>Topology coordinates (2 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -333,6 +337,7 @@ SbtB is a PII-like signal transduction protein from the cyanobacterium Synechocy
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -348,13 +353,15 @@ SbtB is a PII-like signal transduction protein from the cyanobacterium Synechocy
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">DF</span><span class="topo-unknown">LSNFLTDFVGQ</span><span class="topo-outside">LQSP</span><span class="topo-membrane">TLAFLIGGMVIAALGT</span><span class="topo-inside">Q</span><span class="topo-membrane">LVIPEAISTIIVFMLLTKIGL</span><span class="topo-outside">TGGM</span></span>
-<span class="topo-line"><span class="topo-outside">AIRNSNLTEML</span><span class="topo-membrane">LPVAFSVILGILIVFIARFTLA</span><span class="topo-inside">KLPNVRTVDA</span><span class="topo-membrane">LATGGLFGAVSGSTMAA</span></span>
-<span class="topo-line"><span class="topo-membrane">A</span><span class="topo-outside">LTTLEESKISYEAWA</span><span class="topo-membrane">GALYPFMDIPALVTAIVV</span><span class="topo-inside">ANIYLNKRKRKSAAA</span><span class="topo-unknown">SIEESFSKQPV</span></span>
-<span class="topo-line"><span class="topo-unknown">AAGDYGDQTDYPRTRQEYLSQQEPEDN</span><span class="topo-inside">RVKI</span><span class="topo-membrane">WPIIEESLQGPALSAMLLGLAL</span><span class="topo-outside">GIFTKP</span><span class="topo-unknown">E</span></span>
-<span class="topo-line"><span class="topo-unknown">SVYEG</span><span class="topo-outside">FYDPL</span><span class="topo-membrane">FRGLLSILMLIMGMEAWSRIG</span><span class="topo-inside">ELRKVAQ</span><span class="topo-membrane">WYVVYSLIAPIVHGFIAFGLG</span><span class="topo-outside">M</span></span>
-<span class="topo-line"><span class="topo-outside">IAHYATGFSLGGVVV</span><span class="topo-membrane">LAVIAASSSDISGPPTL</span><span class="topo-inside">RAGIPSANPSAY</span><span class="topo-membrane">IGSSTAIGTPIAIGVC</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">DF</span><span class="topo-unknown">LSNFLTDFVGQ</span><span class="topo-outside">LQSP</span><span class="topo-membrane">TLAFLIGGMVIAALGT</span><span class="topo-inside">Q</span><span class="topo-membrane">LVIPEAISTIIVFMLLTKIGL</span><span class="topo-outside">TGGMAIRNSNLTEML</span><span class="topo-membrane">LPVAFSVILGILIVFIARFTLA</span><span class="topo-inside">KLPNVRTVDA</span><span class="topo-membrane">LATGGLFGAVSGSTMAA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">A</span><span class="topo-outside">LTTLEESKISYEAWA</span><span class="topo-membrane">GALYPFMDIPALVTAIVV</span><span class="topo-inside">ANIYLNKRKRKSAAA</span><span class="topo-unknown">SIEESFSKQPVAAGDYGDQTDYPRTRQEYLSQQEPEDN</span><span class="topo-inside">RVKI</span><span class="topo-membrane">WPIIEESLQGPALSAMLLGLAL</span><span class="topo-outside">GIFTKP</span><span class="topo-unknown">E</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-unknown">SVYEG</span><span class="topo-outside">FYDPL</span><span class="topo-membrane">FRGLLSILMLIMGMEAWSRIG</span><span class="topo-inside">ELRKVAQ</span><span class="topo-membrane">WYVVYSLIAPIVHGFIAFGLG</span><span class="topo-outside">MIAHYATGFSLGGVVV</span><span class="topo-membrane">LAVIAASSSDISGPPTL</span><span class="topo-inside">RAGIPSANPSAY</span><span class="topo-membrane">IGSSTAIGTPIAIGVC</span></span>
+<span class="topo-ruler">       370    </span>
 <span class="topo-line"><span class="topo-membrane">IPL</span><span class="topo-outside">FIGLAQTLGAG</span></span>
+<details class="topo-details"><summary>Topology coordinates (26 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -548,6 +555,7 @@ SbtB is a PII-like signal transduction protein from the cyanobacterium Synechocy
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -563,8 +571,9 @@ SbtB is a PII-like signal transduction protein from the cyanobacterium Synechocy
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">AKPANKLVIVTEKILLKKIAKIIDESGAKGYTVMNTGGKG</span><span class="topo-unknown">SRNVRSSGQPNTSDIE</span><span class="topo-inside">ANI</span></span>
-<span class="topo-line"><span class="topo-inside">KFEILTETREMAEEIADRVAVKYFNDYAGIIYICSAEVLYGHTFCGPEGC</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">AKPANKLVIVTEKILLKKIAKIIDESGAKGYTVMNTGGKG</span><span class="topo-unknown">SRNVRSSGQPNTSDIE</span><span class="topo-inside">ANIKFEILTETREMAEEIADRVAVKYFNDYAGIIYICSAEVLYGHTFCGPEGC</span></span>
+<details class="topo-details"><summary>Topology coordinates (2 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -590,6 +599,7 @@ SbtB is a PII-like signal transduction protein from the cyanobacterium Synechocy
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -605,13 +615,15 @@ SbtB is a PII-like signal transduction protein from the cyanobacterium Synechocy
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">DF</span><span class="topo-unknown">LSNFLTDFVGQ</span><span class="topo-outside">LQSP</span><span class="topo-membrane">TLAFLIGGMVIAALGT</span><span class="topo-inside">Q</span><span class="topo-membrane">LVIPEAISTIIVFMLLTKIGL</span><span class="topo-outside">TGGM</span></span>
-<span class="topo-line"><span class="topo-outside">AIRNSNLTEML</span><span class="topo-membrane">LPVAFSVILGILIVFIARFTLA</span><span class="topo-inside">KLPNVRTVDA</span><span class="topo-membrane">LATGGLFGAVSGSTMAA</span></span>
-<span class="topo-line"><span class="topo-membrane">A</span><span class="topo-outside">LTTLEESKISYEAWA</span><span class="topo-membrane">GALYPFMDIPALVTAIVV</span><span class="topo-inside">ANIYLNKRKRKSAAA</span><span class="topo-unknown">SIEESFSKQPV</span></span>
-<span class="topo-line"><span class="topo-unknown">AAGDYGDQTDYPRTRQEYLSQQEPEDN</span><span class="topo-inside">RVKI</span><span class="topo-membrane">WPIIEESLQGPALSAMLLGLAL</span><span class="topo-outside">GIFTKP</span><span class="topo-unknown">E</span></span>
-<span class="topo-line"><span class="topo-unknown">SVYEG</span><span class="topo-outside">FYDPL</span><span class="topo-membrane">FRGLLSILMLIMGMEAWSRIG</span><span class="topo-inside">ELRKVAQ</span><span class="topo-membrane">WYVVYSLIAPIVHGFIAFGLG</span><span class="topo-outside">M</span></span>
-<span class="topo-line"><span class="topo-outside">IAHYATGFSLGGVVV</span><span class="topo-membrane">LAVIAASSSDISGPPTL</span><span class="topo-inside">RAGIPSANPSAY</span><span class="topo-membrane">IGSSTAIGTPIAIGVC</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">DF</span><span class="topo-unknown">LSNFLTDFVGQ</span><span class="topo-outside">LQSP</span><span class="topo-membrane">TLAFLIGGMVIAALGT</span><span class="topo-inside">Q</span><span class="topo-membrane">LVIPEAISTIIVFMLLTKIGL</span><span class="topo-outside">TGGMAIRNSNLTEML</span><span class="topo-membrane">LPVAFSVILGILIVFIARFTLA</span><span class="topo-inside">KLPNVRTVDA</span><span class="topo-membrane">LATGGLFGAVSGSTMAA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">A</span><span class="topo-outside">LTTLEESKISYEAWA</span><span class="topo-membrane">GALYPFMDIPALVTAIVV</span><span class="topo-inside">ANIYLNKRKRKSAAA</span><span class="topo-unknown">SIEESFSKQPVAAGDYGDQTDYPRTRQEYLSQQEPEDN</span><span class="topo-inside">RVKI</span><span class="topo-membrane">WPIIEESLQGPALSAMLLGLAL</span><span class="topo-outside">GIFTKP</span><span class="topo-unknown">E</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-unknown">SVYEG</span><span class="topo-outside">FYDPL</span><span class="topo-membrane">FRGLLSILMLIMGMEAWSRIG</span><span class="topo-inside">ELRKVAQ</span><span class="topo-membrane">WYVVYSLIAPIVHGFIAFGLG</span><span class="topo-outside">MIAHYATGFSLGGVVV</span><span class="topo-membrane">LAVIAASSSDISGPPTL</span><span class="topo-inside">RAGIPSANPSAY</span><span class="topo-membrane">IGSSTAIGTPIAIGVC</span></span>
+<span class="topo-ruler">       370    </span>
 <span class="topo-line"><span class="topo-membrane">IPL</span><span class="topo-outside">FIGLAQTLGAG</span></span>
+<details class="topo-details"><summary>Topology coordinates (26 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -805,6 +817,7 @@ SbtB is a PII-like signal transduction protein from the cyanobacterium Synechocy
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -820,8 +833,9 @@ SbtB is a PII-like signal transduction protein from the cyanobacterium Synechocy
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">AKPANKLVIVTEKILLKKIAKIIDESGAKGYTVMNTGGKG</span><span class="topo-unknown">SRNVRSSGQPNTSDIE</span><span class="topo-inside">ANI</span></span>
-<span class="topo-line"><span class="topo-inside">KFEILTETREMAEEIADRVAVKYFNDYAGIIYICSAEVLYGHTFCGPEGC</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">AKPANKLVIVTEKILLKKIAKIIDESGAKGYTVMNTGGKG</span><span class="topo-unknown">SRNVRSSGQPNTSDIE</span><span class="topo-inside">ANIKFEILTETREMAEEIADRVAVKYFNDYAGIIYICSAEVLYGHTFCGPEGC</span></span>
+<details class="topo-details"><summary>Topology coordinates (2 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -847,6 +861,7 @@ SbtB is a PII-like signal transduction protein from the cyanobacterium Synechocy
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -862,13 +877,15 @@ SbtB is a PII-like signal transduction protein from the cyanobacterium Synechocy
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">DF</span><span class="topo-unknown">LSNFLTDFVGQ</span><span class="topo-outside">LQSP</span><span class="topo-membrane">TLAFLIGGMVIAALGT</span><span class="topo-inside">Q</span><span class="topo-membrane">LVIPEAISTIIVFMLLTKIGL</span><span class="topo-outside">TGGM</span></span>
-<span class="topo-line"><span class="topo-outside">AIRNSNLTEML</span><span class="topo-membrane">LPVAFSVILGILIVFIARFTLA</span><span class="topo-inside">KLPNVRTVDA</span><span class="topo-membrane">LATGGLFGAVSGSTMAA</span></span>
-<span class="topo-line"><span class="topo-membrane">A</span><span class="topo-outside">LTTLEESKISYEAWA</span><span class="topo-membrane">GALYPFMDIPALVTAIVV</span><span class="topo-inside">ANIYLNKRKRKSAAA</span><span class="topo-unknown">SIEESFSKQPV</span></span>
-<span class="topo-line"><span class="topo-unknown">AAGDYGDQTDYPRTRQEYLSQQEPEDN</span><span class="topo-inside">RVKI</span><span class="topo-membrane">WPIIEESLQGPALSAMLLGLAL</span><span class="topo-outside">GIFTKP</span><span class="topo-unknown">E</span></span>
-<span class="topo-line"><span class="topo-unknown">SVYEG</span><span class="topo-outside">FYDPL</span><span class="topo-membrane">FRGLLSILMLIMGMEAWSRIG</span><span class="topo-inside">ELRKVAQ</span><span class="topo-membrane">WYVVYSLIAPIVHGFIAFGLG</span><span class="topo-outside">M</span></span>
-<span class="topo-line"><span class="topo-outside">IAHYATGFSLGGVVV</span><span class="topo-membrane">LAVIAASSSDISGPPTL</span><span class="topo-inside">RAGIPSANPSAY</span><span class="topo-membrane">IGSSTAIGTPIAIGVC</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">DF</span><span class="topo-unknown">LSNFLTDFVGQ</span><span class="topo-outside">LQSP</span><span class="topo-membrane">TLAFLIGGMVIAALGT</span><span class="topo-inside">Q</span><span class="topo-membrane">LVIPEAISTIIVFMLLTKIGL</span><span class="topo-outside">TGGMAIRNSNLTEML</span><span class="topo-membrane">LPVAFSVILGILIVFIARFTLA</span><span class="topo-inside">KLPNVRTVDA</span><span class="topo-membrane">LATGGLFGAVSGSTMAA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">A</span><span class="topo-outside">LTTLEESKISYEAWA</span><span class="topo-membrane">GALYPFMDIPALVTAIVV</span><span class="topo-inside">ANIYLNKRKRKSAAA</span><span class="topo-unknown">SIEESFSKQPVAAGDYGDQTDYPRTRQEYLSQQEPEDN</span><span class="topo-inside">RVKI</span><span class="topo-membrane">WPIIEESLQGPALSAMLLGLAL</span><span class="topo-outside">GIFTKP</span><span class="topo-unknown">E</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-unknown">SVYEG</span><span class="topo-outside">FYDPL</span><span class="topo-membrane">FRGLLSILMLIMGMEAWSRIG</span><span class="topo-inside">ELRKVAQ</span><span class="topo-membrane">WYVVYSLIAPIVHGFIAFGLG</span><span class="topo-outside">MIAHYATGFSLGGVVV</span><span class="topo-membrane">LAVIAASSSDISGPPTL</span><span class="topo-inside">RAGIPSANPSAY</span><span class="topo-membrane">IGSSTAIGTPIAIGVC</span></span>
+<span class="topo-ruler">       370    </span>
 <span class="topo-line"><span class="topo-membrane">IPL</span><span class="topo-outside">FIGLAQTLGAG</span></span>
+<details class="topo-details"><summary>Topology coordinates (26 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1062,6 +1079,7 @@ SbtB is a PII-like signal transduction protein from the cyanobacterium Synechocy
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1077,8 +1095,9 @@ SbtB is a PII-like signal transduction protein from the cyanobacterium Synechocy
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">AKPANKLVIVTEKILLKKIAKIIDESGAKGYTVMNTGGKG</span><span class="topo-unknown">SRNVRSSGQPNTSDIE</span><span class="topo-inside">ANI</span></span>
-<span class="topo-line"><span class="topo-inside">KFEILTETREMAEEIADRVAVKYFNDYAGIIYICSAEVLYGHTFCGPEGC</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">AKPANKLVIVTEKILLKKIAKIIDESGAKGYTVMNTGGKG</span><span class="topo-unknown">SRNVRSSGQPNTSDIE</span><span class="topo-inside">ANIKFEILTETREMAEEIADRVAVKYFNDYAGIIYICSAEVLYGHTFCGPEGC</span></span>
+<details class="topo-details"><summary>Topology coordinates (2 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1104,6 +1123,7 @@ SbtB is a PII-like signal transduction protein from the cyanobacterium Synechocy
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1119,13 +1139,15 @@ SbtB is a PII-like signal transduction protein from the cyanobacterium Synechocy
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">DF</span><span class="topo-unknown">LSNFLTDFVGQ</span><span class="topo-outside">LQSP</span><span class="topo-membrane">TLAFLIGGMVIAALGT</span><span class="topo-inside">Q</span><span class="topo-membrane">LVIPEAISTIIVFMLLTKIGL</span><span class="topo-outside">TGGM</span></span>
-<span class="topo-line"><span class="topo-outside">AIRNSNLTEML</span><span class="topo-membrane">LPVAFSVILGILIVFIARFTLA</span><span class="topo-inside">KLPNVRTVDA</span><span class="topo-membrane">LATGGLFGAVSGSTMAA</span></span>
-<span class="topo-line"><span class="topo-membrane">A</span><span class="topo-outside">LTTLEESKISYEAWA</span><span class="topo-membrane">GALYPFMDIPALVTAIVV</span><span class="topo-inside">ANIYLNKRKRKSAAA</span><span class="topo-unknown">SIEESFSKQPV</span></span>
-<span class="topo-line"><span class="topo-unknown">AAGDYGDQTDYPRTRQEYLSQQEPEDN</span><span class="topo-inside">RVKI</span><span class="topo-membrane">WPIIEESLQGPALSAMLLGLAL</span><span class="topo-outside">GIFTKP</span><span class="topo-unknown">E</span></span>
-<span class="topo-line"><span class="topo-unknown">SVYEG</span><span class="topo-outside">FYDPL</span><span class="topo-membrane">FRGLLSILMLIMGMEAWSRIG</span><span class="topo-inside">ELRKVAQ</span><span class="topo-membrane">WYVVYSLIAPIVHGFIAFGLG</span><span class="topo-outside">M</span></span>
-<span class="topo-line"><span class="topo-outside">IAHYATGFSLGGVVV</span><span class="topo-membrane">LAVIAASSSDISGPPTL</span><span class="topo-inside">RAGIPSANPSAY</span><span class="topo-membrane">IGSSTAIGTPIAIGVC</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">DF</span><span class="topo-unknown">LSNFLTDFVGQ</span><span class="topo-outside">LQSP</span><span class="topo-membrane">TLAFLIGGMVIAALGT</span><span class="topo-inside">Q</span><span class="topo-membrane">LVIPEAISTIIVFMLLTKIGL</span><span class="topo-outside">TGGMAIRNSNLTEML</span><span class="topo-membrane">LPVAFSVILGILIVFIARFTLA</span><span class="topo-inside">KLPNVRTVDA</span><span class="topo-membrane">LATGGLFGAVSGSTMAA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">A</span><span class="topo-outside">LTTLEESKISYEAWA</span><span class="topo-membrane">GALYPFMDIPALVTAIVV</span><span class="topo-inside">ANIYLNKRKRKSAAA</span><span class="topo-unknown">SIEESFSKQPVAAGDYGDQTDYPRTRQEYLSQQEPEDN</span><span class="topo-inside">RVKI</span><span class="topo-membrane">WPIIEESLQGPALSAMLLGLAL</span><span class="topo-outside">GIFTKP</span><span class="topo-unknown">E</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-unknown">SVYEG</span><span class="topo-outside">FYDPL</span><span class="topo-membrane">FRGLLSILMLIMGMEAWSRIG</span><span class="topo-inside">ELRKVAQ</span><span class="topo-membrane">WYVVYSLIAPIVHGFIAFGLG</span><span class="topo-outside">MIAHYATGFSLGGVVV</span><span class="topo-membrane">LAVIAASSSDISGPPTL</span><span class="topo-inside">RAGIPSANPSAY</span><span class="topo-membrane">IGSSTAIGTPIAIGVC</span></span>
+<span class="topo-ruler">       370    </span>
 <span class="topo-line"><span class="topo-membrane">IPL</span><span class="topo-outside">FIGLAQTLGAG</span></span>
+<details class="topo-details"><summary>Topology coordinates (26 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1319,6 +1341,7 @@ SbtB is a PII-like signal transduction protein from the cyanobacterium Synechocy
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1334,8 +1357,9 @@ SbtB is a PII-like signal transduction protein from the cyanobacterium Synechocy
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">AKPANKLVIVTEKILLKKIAKIIDESGAKGYTVMNTGGKG</span><span class="topo-unknown">SRNVRSSGQPNTSDIE</span><span class="topo-inside">ANI</span></span>
-<span class="topo-line"><span class="topo-inside">KFEILTETREMAEEIADRVAVKYFNDYAGIIYICSAEVLYGHTFCGPEGC</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">AKPANKLVIVTEKILLKKIAKIIDESGAKGYTVMNTGGKG</span><span class="topo-unknown">SRNVRSSGQPNTSDIE</span><span class="topo-inside">ANIKFEILTETREMAEEIADRVAVKYFNDYAGIIYICSAEVLYGHTFCGPEGC</span></span>
+<details class="topo-details"><summary>Topology coordinates (2 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1361,6 +1385,7 @@ SbtB is a PII-like signal transduction protein from the cyanobacterium Synechocy
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1376,13 +1401,15 @@ SbtB is a PII-like signal transduction protein from the cyanobacterium Synechocy
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">DF</span><span class="topo-unknown">LSNFLTDFVGQ</span><span class="topo-outside">LQSP</span><span class="topo-membrane">TLAFLIGGMVIAALGT</span><span class="topo-inside">Q</span><span class="topo-membrane">LVIPEAISTIIVFMLLTKIGL</span><span class="topo-outside">TGGM</span></span>
-<span class="topo-line"><span class="topo-outside">AIRNSNLTEML</span><span class="topo-membrane">LPVAFSVILGILIVFIARFTLA</span><span class="topo-inside">KLPNVRTVDA</span><span class="topo-membrane">LATGGLFGAVSGSTMAA</span></span>
-<span class="topo-line"><span class="topo-membrane">A</span><span class="topo-outside">LTTLEESKISYEAWA</span><span class="topo-membrane">GALYPFMDIPALVTAIVV</span><span class="topo-inside">ANIYLNKRKRKSAAA</span><span class="topo-unknown">SIEESFSKQPV</span></span>
-<span class="topo-line"><span class="topo-unknown">AAGDYGDQTDYPRTRQEYLSQQEPEDN</span><span class="topo-inside">RVKI</span><span class="topo-membrane">WPIIEESLQGPALSAMLLGLAL</span><span class="topo-outside">GIFTKP</span><span class="topo-unknown">E</span></span>
-<span class="topo-line"><span class="topo-unknown">SVYEG</span><span class="topo-outside">FYDPL</span><span class="topo-membrane">FRGLLSILMLIMGMEAWSRIG</span><span class="topo-inside">ELRKVAQ</span><span class="topo-membrane">WYVVYSLIAPIVHGFIAFGLG</span><span class="topo-outside">M</span></span>
-<span class="topo-line"><span class="topo-outside">IAHYATGFSLGGVVV</span><span class="topo-membrane">LAVIAASSSDISGPPTL</span><span class="topo-inside">RAGIPSANPSAY</span><span class="topo-membrane">IGSSTAIGTPIAIGVC</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">DF</span><span class="topo-unknown">LSNFLTDFVGQ</span><span class="topo-outside">LQSP</span><span class="topo-membrane">TLAFLIGGMVIAALGT</span><span class="topo-inside">Q</span><span class="topo-membrane">LVIPEAISTIIVFMLLTKIGL</span><span class="topo-outside">TGGMAIRNSNLTEML</span><span class="topo-membrane">LPVAFSVILGILIVFIARFTLA</span><span class="topo-inside">KLPNVRTVDA</span><span class="topo-membrane">LATGGLFGAVSGSTMAA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">A</span><span class="topo-outside">LTTLEESKISYEAWA</span><span class="topo-membrane">GALYPFMDIPALVTAIVV</span><span class="topo-inside">ANIYLNKRKRKSAAA</span><span class="topo-unknown">SIEESFSKQPVAAGDYGDQTDYPRTRQEYLSQQEPEDN</span><span class="topo-inside">RVKI</span><span class="topo-membrane">WPIIEESLQGPALSAMLLGLAL</span><span class="topo-outside">GIFTKP</span><span class="topo-unknown">E</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-unknown">SVYEG</span><span class="topo-outside">FYDPL</span><span class="topo-membrane">FRGLLSILMLIMGMEAWSRIG</span><span class="topo-inside">ELRKVAQ</span><span class="topo-membrane">WYVVYSLIAPIVHGFIAFGLG</span><span class="topo-outside">MIAHYATGFSLGGVVV</span><span class="topo-membrane">LAVIAASSSDISGPPTL</span><span class="topo-inside">RAGIPSANPSAY</span><span class="topo-membrane">IGSSTAIGTPIAIGVC</span></span>
+<span class="topo-ruler">       370    </span>
 <span class="topo-line"><span class="topo-membrane">IPL</span><span class="topo-outside">FIGLAQTLGAG</span></span>
+<details class="topo-details"><summary>Topology coordinates (26 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1576,6 +1603,7 @@ SbtB is a PII-like signal transduction protein from the cyanobacterium Synechocy
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1591,8 +1619,9 @@ SbtB is a PII-like signal transduction protein from the cyanobacterium Synechocy
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">AKPANKLVIVTEKILLKKIAKIIDESGAKGYTVMNTGGKG</span><span class="topo-unknown">SRNVRSSGQPNTSDIE</span><span class="topo-inside">ANI</span></span>
-<span class="topo-line"><span class="topo-inside">KFEILTETREMAEEIADRVAVKYFNDYAGIIYICSAEVLYGHTFCGPEGC</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">AKPANKLVIVTEKILLKKIAKIIDESGAKGYTVMNTGGKG</span><span class="topo-unknown">SRNVRSSGQPNTSDIE</span><span class="topo-inside">ANIKFEILTETREMAEEIADRVAVKYFNDYAGIIYICSAEVLYGHTFCGPEGC</span></span>
+<details class="topo-details"><summary>Topology coordinates (2 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1618,6 +1647,7 @@ SbtB is a PII-like signal transduction protein from the cyanobacterium Synechocy
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

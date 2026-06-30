@@ -172,13 +172,15 @@ GPR52 is a class-A orphan G-protein-coupled receptor (GPCR) highly expressed in 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GGIVNVS</span><span class="topo-inside">ERHSCPLGFGHYSVVDVCI</span><span class="topo-membrane">FETVVIVLLTFLIIAGNLTVIF</span><span class="topo-outside">VFHC</span><span class="topo-unknown">APL</span><span class="topo-outside">LHHYT</span></span>
-<span class="topo-line"><span class="topo-outside">TSY</span><span class="topo-membrane">FIQTMAYADLFVGVSCLVPTLSLL</span><span class="topo-inside">HYSTGVHESLTCQV</span><span class="topo-membrane">FGYIISVLKSVSMWCLACI</span></span>
-<span class="topo-line"><span class="topo-membrane">SVDRYL</span><span class="topo-outside">AITKPLSYNQLVTPC</span><span class="topo-membrane">RLRICIILIWIYSCLIFL</span><span class="topo-inside">PSFFGWGKPGYHGDIFEWCAT</span></span>
-<span class="topo-line"><span class="topo-inside">SWLTSAYFTG</span><span class="topo-membrane">FIVCLLYAPAAFVVCFTYFHIFK</span><span class="topo-outside">ICRQHTKMKKYTCTVCGYIYNPEDGDP</span></span>
-<span class="topo-line"><span class="topo-outside">DNGVNPGTDFKDIPDDWVCPLCGVGKDQFEEVEEYLM</span><span class="topo-membrane">VLFRITSVFYMLQLPYIIYF</span><span class="topo-inside">LLE</span></span>
-<span class="topo-line"><span class="topo-inside">SSRVLDNPTLSF</span><span class="topo-membrane">LTTWLAISNSFCNPVIYAL</span><span class="topo-outside">SD</span><span class="topo-unknown">STFRLGLRRLSETMCTSCMEF</span><span class="topo-outside">LEV</span><span class="topo-unknown">LFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GGIVNVS</span><span class="topo-inside">ERHSCPLGFGHYSVVDVCI</span><span class="topo-membrane">FETVVIVLLTFLIIAGNLTVIF</span><span class="topo-outside">VFHC</span><span class="topo-unknown">APL</span><span class="topo-outside">LHHYTTSY</span><span class="topo-membrane">FIQTMAYADLFVGVSCLVPTLSLL</span><span class="topo-inside">HYSTGVHESLTCQV</span><span class="topo-membrane">FGYIISVLKSVSMWCLACI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">SVDRYL</span><span class="topo-outside">AITKPLSYNQLVTPC</span><span class="topo-membrane">RLRICIILIWIYSCLIFL</span><span class="topo-inside">PSFFGWGKPGYHGDIFEWCATSWLTSAYFTG</span><span class="topo-membrane">FIVCLLYAPAAFVVCFTYFHIFK</span><span class="topo-outside">ICRQHTKMKKYTCTVCGYIYNPEDGDP</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">DNGVNPGTDFKDIPDDWVCPLCGVGKDQFEEVEEYLM</span><span class="topo-membrane">VLFRITSVFYMLQLPYIIYF</span><span class="topo-inside">LLESSRVLDNPTLSF</span><span class="topo-membrane">LTTWLAISNSFCNPVIYAL</span><span class="topo-outside">SD</span><span class="topo-unknown">STFRLGLRRLSETMCTSCMEF</span><span class="topo-outside">LEV</span><span class="topo-unknown">LFQ</span></span>
+<span class="topo-ruler">       370  </span>
 <span class="topo-line"><span class="topo-unknown">GPHHHHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -316,6 +318,7 @@ GPR52 is a class-A orphan G-protein-coupled receptor (GPCR) highly expressed in 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -331,14 +334,15 @@ GPR52 is a class-A orphan G-protein-coupled receptor (GPCR) highly expressed in 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GGIVN</span><span class="topo-inside">VSERHSCPLGFGHYSVVDVC</span><span class="topo-membrane">IFETVVIVLLTFLIIAGNLTVI</span><span class="topo-outside">FVFHCAPLLHHYT</span></span>
-<span class="topo-line"><span class="topo-outside">TSYF</span><span class="topo-membrane">IQTMAYADLFVGVSCLVPTLSLLHY</span><span class="topo-inside">STGVHE</span><span class="topo-membrane">SLTCQVFGYIISVLKSVSMWCLACI</span></span>
-<span class="topo-line"><span class="topo-membrane">SV</span><span class="topo-outside">DRYLAITKPLSYNQLVTPCRLR</span><span class="topo-membrane">ICIILIWIYSCLIFLPSFFGWG</span><span class="topo-inside">KPGYHGDIF</span><span class="topo-unknown">EWCAT</span></span>
-<span class="topo-line"><span class="topo-unknown">S</span><span class="topo-inside">WLT</span><span class="topo-membrane">SAYFTGFIVCLLYAPAAFVVCFTYF</span><span class="topo-outside">HIFKICRQHTKEAKALIVYGSTTGNTEYTAE</span></span>
-<span class="topo-line"><span class="topo-outside">TIARELADAGYEVDSRDAASVEAGGLFEGFDLVLLGCSTWGDDSIELQDDFIPLFDSLEE</span></span>
-<span class="topo-line"><span class="topo-outside">TGAQGRKVACFGCGDSSWEYFCGAVDAIEEKLKNLGAEIVQDGLRIDGDPRAARDDIVGW</span></span>
-<span class="topo-line"><span class="topo-outside">AHDVRGAIRRYLMVL</span><span class="topo-membrane">FRITSVFYMLQLPYIIYFLLESS</span><span class="topo-inside">RVLDNP</span><span class="topo-membrane">TLSFLTTWLAISNSFC</span></span>
-<span class="topo-line"><span class="topo-membrane">NPVIYA</span><span class="topo-outside">LSD</span><span class="topo-unknown">STFRLGLRRLSETMCT</span><span class="topo-outside">S</span><span class="topo-unknown">CMEFLEVLFQGPHHHHHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GGIVN</span><span class="topo-inside">VSERHSCPLGFGHYSVVDVC</span><span class="topo-membrane">IFETVVIVLLTFLIIAGNLTVI</span><span class="topo-outside">FVFHCAPLLHHYTTSYF</span><span class="topo-membrane">IQTMAYADLFVGVSCLVPTLSLLHY</span><span class="topo-inside">STGVHE</span><span class="topo-membrane">SLTCQVFGYIISVLKSVSMWCLACI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">SV</span><span class="topo-outside">DRYLAITKPLSYNQLVTPCRLR</span><span class="topo-membrane">ICIILIWIYSCLIFLPSFFGWG</span><span class="topo-inside">KPGYHGDIF</span><span class="topo-unknown">EWCATS</span><span class="topo-inside">WLT</span><span class="topo-membrane">SAYFTGFIVCLLYAPAAFVVCFTYF</span><span class="topo-outside">HIFKICRQHTKEAKALIVYGSTTGNTEYTAE</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">TIARELADAGYEVDSRDAASVEAGGLFEGFDLVLLGCSTWGDDSIELQDDFIPLFDSLEETGAQGRKVACFGCGDSSWEYFCGAVDAIEEKLKNLGAEIVQDGLRIDGDPRAARDDIVGW</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460        </span>
+<span class="topo-line"><span class="topo-outside">AHDVRGAIRRYLMVL</span><span class="topo-membrane">FRITSVFYMLQLPYIIYFLLESS</span><span class="topo-inside">RVLDNP</span><span class="topo-membrane">TLSFLTTWLAISNSFCNPVIYA</span><span class="topo-outside">LSD</span><span class="topo-unknown">STFRLGLRRLSETMCT</span><span class="topo-outside">S</span><span class="topo-unknown">CMEFLEVLFQGPHHHHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -483,6 +487,7 @@ GPR52 is a class-A orphan G-protein-coupled receptor (GPCR) highly expressed in 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -498,12 +503,13 @@ GPR52 is a class-A orphan G-protein-coupled receptor (GPCR) highly expressed in 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MNESRWTEWRILNMSSGIVNVSERHSCPLGFGHYSV</span><span class="topo-outside">VDVCI</span><span class="topo-membrane">FETVVIVLLTFLIIAGNLT</span></span>
-<span class="topo-line"><span class="topo-membrane">VIF</span><span class="topo-inside">VFHCAPLLHHYTTSYF</span><span class="topo-membrane">IQTMAYADLFVGVSCLVPTLS</span><span class="topo-outside">LLHYSTGVHESL</span><span class="topo-membrane">TCQVFGYI</span></span>
-<span class="topo-line"><span class="topo-membrane">ISVLKSVSMWCLAC</span><span class="topo-inside">ISVDRYLAITKPLSYNQLVTPCRLRI</span><span class="topo-membrane">CIILIWIYSCLIFLPSFFGW</span></span>
-<span class="topo-line"><span class="topo-membrane">G</span><span class="topo-outside">KPGYHGDIFEWCATSWLT</span><span class="topo-membrane">SAYFTGFIVCLLYAPAAFVVC</span><span class="topo-inside">FTYFHIFKICRQHTKEINDR</span></span>
-<span class="topo-line"><span class="topo-inside">RARFPSH</span><span class="topo-unknown">EVDSSRETGHSPDRRYA</span><span class="topo-inside">MVLF</span><span class="topo-membrane">RITSVFYMLWLPYIIYFLLESS</span><span class="topo-outside">RVLDNP</span><span class="topo-membrane">TLSF</span></span>
-<span class="topo-line"><span class="topo-membrane">LTTWLAISNSFCNPVIY</span><span class="topo-inside">SLSN</span><span class="topo-unknown">SVFRLGLRRLSETMC</span><span class="topo-inside">T</span><span class="topo-unknown">SCM</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MNESRWTEWRILNMSSGIVNVSERHSCPLGFGHYSV</span><span class="topo-outside">VDVCI</span><span class="topo-membrane">FETVVIVLLTFLIIAGNLTVIF</span><span class="topo-inside">VFHCAPLLHHYTTSYF</span><span class="topo-membrane">IQTMAYADLFVGVSCLVPTLS</span><span class="topo-outside">LLHYSTGVHESL</span><span class="topo-membrane">TCQVFGYI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">ISVLKSVSMWCLAC</span><span class="topo-inside">ISVDRYLAITKPLSYNQLVTPCRLRI</span><span class="topo-membrane">CIILIWIYSCLIFLPSFFGWG</span><span class="topo-outside">KPGYHGDIFEWCATSWLT</span><span class="topo-membrane">SAYFTGFIVCLLYAPAAFVVC</span><span class="topo-inside">FTYFHIFKICRQHTKEINDR</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340</span>
+<span class="topo-line"><span class="topo-inside">RARFPSH</span><span class="topo-unknown">EVDSSRETGHSPDRRYA</span><span class="topo-inside">MVLF</span><span class="topo-membrane">RITSVFYMLWLPYIIYFLLESS</span><span class="topo-outside">RVLDNP</span><span class="topo-membrane">TLSFLTTWLAISNSFCNPVIY</span><span class="topo-inside">SLSN</span><span class="topo-unknown">SVFRLGLRRLSETMC</span><span class="topo-inside">T</span><span class="topo-unknown">SCM</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -641,6 +647,7 @@ GPR52 is a class-A orphan G-protein-coupled receptor (GPCR) highly expressed in 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -656,11 +663,13 @@ GPR52 is a class-A orphan G-protein-coupled receptor (GPCR) highly expressed in 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">NSK</span><span class="topo-inside">TEDQRNEEKAQREANKKIEKQLQKDKQVYRATHRLLLLGADNSGKSTIVKQMRILH</span><span class="topo-unknown">G</span></span>
-<span class="topo-line"><span class="topo-unknown">GSGG</span><span class="topo-inside">SGGTSGIFETKFQVDKVNFHMFDVGGQRDERRKWIQCFNDVTAIIFVVDSSDYNRL</span></span>
-<span class="topo-line"><span class="topo-inside">QEALNLFKSIWNNRWLRTISVILFLNKQDLLAEKVLAGKSKIEDYFPEFARYTTPEDATP</span></span>
-<span class="topo-line"><span class="topo-inside">EPGEDPRVTRAKYFIRDEFLRISTASGDGRHYCYPHFTCAVDTENARRIFNDCRDIIQRM</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">NSK</span><span class="topo-inside">TEDQRNEEKAQREANKKIEKQLQKDKQVYRATHRLLLLGADNSGKSTIVKQMRILH</span><span class="topo-unknown">GGSGG</span><span class="topo-inside">SGGTSGIFETKFQVDKVNFHMFDVGGQRDERRKWIQCFNDVTAIIFVVDSSDYNRL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">QEALNLFKSIWNNRWLRTISVILFLNKQDLLAEKVLAGKSKIEDYFPEFARYTTPEDATPEPGEDPRVTRAKYFIRDEFLRISTASGDGRHYCYPHFTCAVDTENARRIFNDCRDIIQRM</span></span>
+<span class="topo-ruler">        </span>
 <span class="topo-line"><span class="topo-inside">HLRQYELL</span></span>
+<details class="topo-details"><summary>Topology coordinates (2 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -686,6 +695,7 @@ GPR52 is a class-A orphan G-protein-coupled receptor (GPCR) highly expressed in 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -701,12 +711,13 @@ GPR52 is a class-A orphan G-protein-coupled receptor (GPCR) highly expressed in 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MS</span><span class="topo-inside">ELDQLRQEAEQLKNQIRDARKACADATLSQITNNIDPVGRIQMRTRRTLRGHLAKIYA</span></span>
-<span class="topo-line"><span class="topo-inside">MHWGTDSRLLVSASQDGKLIIWDSYTTNKVHAIPLRSSWVMTCAYAPSGNYVACGGLDNI</span></span>
-<span class="topo-line"><span class="topo-inside">CSIYNLKTREGNVRVSRELAGHTGYLSCCRFLDDNQIVTSSGDTTCALWDIETGQQTTTF</span></span>
-<span class="topo-line"><span class="topo-inside">TGHTGDVMSLSLAPDTRLFVSGACDASAKLWDVREGMCRQTFTGHESDINAICFFPNGNA</span></span>
-<span class="topo-line"><span class="topo-inside">FATGSDDATCRLFDLRADQELMTYSHDNIICGITSVSFSKSGRLLLAGYDDFNCNVWDAL</span></span>
-<span class="topo-line"><span class="topo-inside">KADRAGVLAGHDNRVSCLGVTDDGMAVATGSWDSFLKIWN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MS</span><span class="topo-inside">ELDQLRQEAEQLKNQIRDARKACADATLSQITNNIDPVGRIQMRTRRTLRGHLAKIYAMHWGTDSRLLVSASQDGKLIIWDSYTTNKVHAIPLRSSWVMTCAYAPSGNYVACGGLDNI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">CSIYNLKTREGNVRVSRELAGHTGYLSCCRFLDDNQIVTSSGDTTCALWDIETGQQTTTFTGHTGDVMSLSLAPDTRLFVSGACDASAKLWDVREGMCRQTFTGHESDINAICFFPNGNA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340</span>
+<span class="topo-line"><span class="topo-inside">FATGSDDATCRLFDLRADQELMTYSHDNIICGITSVSFSKSGRLLLAGYDDFNCNVWDALKADRAGVLAGHDNRVSCLGVTDDGMAVATGSWDSFLKIWN</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -725,6 +736,7 @@ GPR52 is a class-A orphan G-protein-coupled receptor (GPCR) highly expressed in 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -740,8 +752,9 @@ GPR52 is a class-A orphan G-protein-coupled receptor (GPCR) highly expressed in 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MASNN</span><span class="topo-inside">TASIAQARKLVEQLKMEANIDRIKVSKAAADLMAYCEAHAKEDPLLTPVPASENP</span></span>
-<span class="topo-line"><span class="topo-inside">FR</span><span class="topo-unknown">EKKFFSAIL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70 </span>
+<span class="topo-line"><span class="topo-unknown">MASNN</span><span class="topo-inside">TASIAQARKLVEQLKMEANIDRIKVSKAAADLMAYCEAHAKEDPLLTPVPASENPFR</span><span class="topo-unknown">EKKFFSAIL</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -760,6 +773,7 @@ GPR52 is a class-A orphan G-protein-coupled receptor (GPCR) highly expressed in 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

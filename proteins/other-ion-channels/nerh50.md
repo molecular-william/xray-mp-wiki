@@ -128,13 +128,15 @@ NeRh50 is a bacterial homologue of the human Rhesus (Rh) 50 glycoprotein from Ni
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">SAVAPAE</span><span class="topo-outside">INEARLVAQYN</span><span class="topo-membrane">YSINILAMLLVGFGFLMV</span><span class="topo-inside">FVRRYGFS</span><span class="topo-membrane">ATTGTYLVVATGLPLY</span></span>
-<span class="topo-line"><span class="topo-membrane">ILL</span><span class="topo-outside">RANGIFGHALTPHSVDAV</span><span class="topo-membrane">IYAEFAVATGLIAMGAVL</span><span class="topo-inside">GRLRV</span><span class="topo-membrane">FQYALLALFIVPVYLL</span></span>
-<span class="topo-line"><span class="topo-membrane">NE</span><span class="topo-outside">WLVLDNASGLTEGFQDSA</span><span class="topo-membrane">GSIAIHAFGAYFGLGVSIA</span><span class="topo-inside">LTTAAQRAQPIESDATSDR</span><span class="topo-membrane">FS</span></span>
-<span class="topo-line"><span class="topo-membrane">MLGSMVLWLFWPSFA</span><span class="topo-outside">TAIVPFEQMPQTI</span><span class="topo-membrane">VNTLLALCGATLATYFLSAL</span><span class="topo-inside">FHKGKASI</span><span class="topo-membrane">VDMA</span></span>
-<span class="topo-line"><span class="topo-membrane">NAALAGGVAIGSVC</span><span class="topo-outside">NIVGP</span><span class="topo-membrane">VGAFVIGLLGGAISVVGF</span><span class="topo-inside">VFIQPMLESKAKTID</span><span class="topo-membrane">TCGVHNLH</span></span>
-<span class="topo-line"><span class="topo-membrane">GLPGLLGGFSAIL</span><span class="topo-outside">IVPGIAVAQ</span><span class="topo-membrane">LTGIGITLALALIGGVIAGALIKLT</span><span class="topo-inside">GTTKQAYEDSHEF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">SAVAPAE</span><span class="topo-outside">INEARLVAQYN</span><span class="topo-membrane">YSINILAMLLVGFGFLMV</span><span class="topo-inside">FVRRYGFS</span><span class="topo-membrane">ATTGTYLVVATGLPLYILL</span><span class="topo-outside">RANGIFGHALTPHSVDAV</span><span class="topo-membrane">IYAEFAVATGLIAMGAVL</span><span class="topo-inside">GRLRV</span><span class="topo-membrane">FQYALLALFIVPVYLL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">NE</span><span class="topo-outside">WLVLDNASGLTEGFQDSA</span><span class="topo-membrane">GSIAIHAFGAYFGLGVSIA</span><span class="topo-inside">LTTAAQRAQPIESDATSDR</span><span class="topo-membrane">FSMLGSMVLWLFWPSFA</span><span class="topo-outside">TAIVPFEQMPQTI</span><span class="topo-membrane">VNTLLALCGATLATYFLSAL</span><span class="topo-inside">FHKGKASI</span><span class="topo-membrane">VDMA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">NAALAGGVAIGSVC</span><span class="topo-outside">NIVGP</span><span class="topo-membrane">VGAFVIGLLGGAISVVGF</span><span class="topo-inside">VFIQPMLESKAKTID</span><span class="topo-membrane">TCGVHNLHGLPGLLGGFSAIL</span><span class="topo-outside">IVPGIAVAQ</span><span class="topo-membrane">LTGIGITLALALIGGVIAGALIKLT</span><span class="topo-inside">GTTKQAYEDSHEF</span></span>
+<span class="topo-ruler">       370       380       390       400       </span>
 <span class="topo-line"><span class="topo-inside">IHLAGPEDE</span><span class="topo-unknown">HKAERLVLEAKTEIQGLKNRIDAAVLSAKSEGHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (25 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -321,6 +323,7 @@ NeRh50 is a bacterial homologue of the human Rhesus (Rh) 50 glycoprotein from Ni
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -336,13 +339,15 @@ NeRh50 is a bacterial homologue of the human Rhesus (Rh) 50 glycoprotein from Ni
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">SAVAPAE</span><span class="topo-outside">INEARLVAQYN</span><span class="topo-membrane">YSINILAMLLVGFGFLMV</span><span class="topo-inside">FVRRYGFS</span><span class="topo-membrane">ATTGTYLVVATGLPLY</span></span>
-<span class="topo-line"><span class="topo-membrane">ILL</span><span class="topo-outside">RANGIFGHALTPHSVDAV</span><span class="topo-membrane">IYAEFAVATGLIAMGAVL</span><span class="topo-inside">GRLRV</span><span class="topo-membrane">FQYALLALFIVPVYLL</span></span>
-<span class="topo-line"><span class="topo-membrane">NE</span><span class="topo-outside">WLVLDNASGLTEGFQDSA</span><span class="topo-membrane">GSIAIHAFGAYFGLGVSIA</span><span class="topo-inside">LTTAAQRAQPIESDATSDR</span><span class="topo-membrane">FS</span></span>
-<span class="topo-line"><span class="topo-membrane">MLGSMVLWLFWPSFA</span><span class="topo-outside">TAIVPFEQMPQTI</span><span class="topo-membrane">VNTLLALCGATLATYFLSAL</span><span class="topo-inside">FHKGKASI</span><span class="topo-membrane">VDMA</span></span>
-<span class="topo-line"><span class="topo-membrane">NAALAGGVAIGSVC</span><span class="topo-outside">NIVGP</span><span class="topo-membrane">VGAFVIGLLGGAISVVGF</span><span class="topo-inside">VFIQPMLESKAKTID</span><span class="topo-membrane">TCGVHNLH</span></span>
-<span class="topo-line"><span class="topo-membrane">GLPGLLGGFSAIL</span><span class="topo-outside">IVPGIAVAQ</span><span class="topo-membrane">LTGIGITLALALIGGVIAGALIKLT</span><span class="topo-inside">GTTKQAYEDSHEF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">SAVAPAE</span><span class="topo-outside">INEARLVAQYN</span><span class="topo-membrane">YSINILAMLLVGFGFLMV</span><span class="topo-inside">FVRRYGFS</span><span class="topo-membrane">ATTGTYLVVATGLPLYILL</span><span class="topo-outside">RANGIFGHALTPHSVDAV</span><span class="topo-membrane">IYAEFAVATGLIAMGAVL</span><span class="topo-inside">GRLRV</span><span class="topo-membrane">FQYALLALFIVPVYLL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">NE</span><span class="topo-outside">WLVLDNASGLTEGFQDSA</span><span class="topo-membrane">GSIAIHAFGAYFGLGVSIA</span><span class="topo-inside">LTTAAQRAQPIESDATSDR</span><span class="topo-membrane">FSMLGSMVLWLFWPSFA</span><span class="topo-outside">TAIVPFEQMPQTI</span><span class="topo-membrane">VNTLLALCGATLATYFLSAL</span><span class="topo-inside">FHKGKASI</span><span class="topo-membrane">VDMA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">NAALAGGVAIGSVC</span><span class="topo-outside">NIVGP</span><span class="topo-membrane">VGAFVIGLLGGAISVVGF</span><span class="topo-inside">VFIQPMLESKAKTID</span><span class="topo-membrane">TCGVHNLHGLPGLLGGFSAIL</span><span class="topo-outside">IVPGIAVAQ</span><span class="topo-membrane">LTGIGITLALALIGGVIAGALIKLT</span><span class="topo-inside">GTTKQAYEDSHEF</span></span>
+<span class="topo-ruler">       370       380       390       400       </span>
 <span class="topo-line"><span class="topo-inside">IHLAGPEDE</span><span class="topo-unknown">HKAERLVLEAKTEIQGLKNRIDAAVLSAKSEGHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (25 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -529,6 +534,7 @@ NeRh50 is a bacterial homologue of the human Rhesus (Rh) 50 glycoprotein from Ni
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -544,13 +550,15 @@ NeRh50 is a bacterial homologue of the human Rhesus (Rh) 50 glycoprotein from Ni
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">SAVAPAE</span><span class="topo-outside">INEARLVAQYN</span><span class="topo-membrane">YSINILAMLLVGFGFLMV</span><span class="topo-inside">FVRRYGFS</span><span class="topo-membrane">ATTGTYLVVATGLPLY</span></span>
-<span class="topo-line"><span class="topo-membrane">ILL</span><span class="topo-outside">RANGIFGHALTPHSVDAV</span><span class="topo-membrane">IYAEFAVATGLIAMGAVL</span><span class="topo-inside">GRLRV</span><span class="topo-membrane">FQYALLALFIVPVYLL</span></span>
-<span class="topo-line"><span class="topo-membrane">NE</span><span class="topo-outside">WLVLDNASGLTEGFQDSA</span><span class="topo-membrane">GSIAIHAFGAYFGLGVSIA</span><span class="topo-inside">LTTAAQRAQPIESDATSDR</span><span class="topo-membrane">FS</span></span>
-<span class="topo-line"><span class="topo-membrane">MLGSMVLWLFWPSFA</span><span class="topo-outside">TAIVPFEQMPQTI</span><span class="topo-membrane">VNTLLALCGATLATYFLSAL</span><span class="topo-inside">FHKGKASI</span><span class="topo-membrane">VDMA</span></span>
-<span class="topo-line"><span class="topo-membrane">NAALAGGVAIGSVC</span><span class="topo-outside">NIVGP</span><span class="topo-membrane">VGAFVIGLLGGAISVVGF</span><span class="topo-inside">VFIQPMLESKAKTID</span><span class="topo-membrane">TCGVHNLH</span></span>
-<span class="topo-line"><span class="topo-membrane">GLPGLLGGFSAIL</span><span class="topo-outside">IVPGIAVAQ</span><span class="topo-membrane">LTGIGITLALALIGGVIAGALIKLT</span><span class="topo-inside">GTTKQAYEDSHEF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">SAVAPAE</span><span class="topo-outside">INEARLVAQYN</span><span class="topo-membrane">YSINILAMLLVGFGFLMV</span><span class="topo-inside">FVRRYGFS</span><span class="topo-membrane">ATTGTYLVVATGLPLYILL</span><span class="topo-outside">RANGIFGHALTPHSVDAV</span><span class="topo-membrane">IYAEFAVATGLIAMGAVL</span><span class="topo-inside">GRLRV</span><span class="topo-membrane">FQYALLALFIVPVYLL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">NE</span><span class="topo-outside">WLVLDNASGLTEGFQDSA</span><span class="topo-membrane">GSIAIHAFGAYFGLGVSIA</span><span class="topo-inside">LTTAAQRAQPIESDATSDR</span><span class="topo-membrane">FSMLGSMVLWLFWPSFA</span><span class="topo-outside">TAIVPFEQMPQTI</span><span class="topo-membrane">VNTLLALCGATLATYFLSAL</span><span class="topo-inside">FHKGKASI</span><span class="topo-membrane">VDMA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">NAALAGGVAIGSVC</span><span class="topo-outside">NIVGP</span><span class="topo-membrane">VGAFVIGLLGGAISVVGF</span><span class="topo-inside">VFIQPMLESKAKTID</span><span class="topo-membrane">TCGVHNLHGLPGLLGGFSAIL</span><span class="topo-outside">IVPGIAVAQ</span><span class="topo-membrane">LTGIGITLALALIGGVIAGALIKLT</span><span class="topo-inside">GTTKQAYEDSHEF</span></span>
+<span class="topo-ruler">       370       380       390       400       </span>
 <span class="topo-line"><span class="topo-inside">IHLAGPEDE</span><span class="topo-unknown">HKAERLVLEAKTEIQGLKNRIDAAVLSAKSEGHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (25 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -737,6 +745,7 @@ NeRh50 is a bacterial homologue of the human Rhesus (Rh) 50 glycoprotein from Ni
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

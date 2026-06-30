@@ -63,12 +63,13 @@ GtrB is a polyisoprenyl-phosphate glycosyltransferase (PI-GT) from the cyanobact
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MHHHHHHSSGVDLGTENLY</span><span class="topo-inside">FQSNATIELSIVIPMYNEEDNLEHLFARLLEVLTPLKITYE</span></span>
-<span class="topo-line"><span class="topo-inside">IICVNDGSKDKTLKQLIDCYQSNRQIKIVNLSRNFGKEIALSAGIDYAQGNAVIPIDADL</span></span>
-<span class="topo-line"><span class="topo-inside">QDPPELIHELVDKWREGYDIVYATRRSRQGETWVKQFTAKMFYKVIGRMTEIKIPPNTGD</span></span>
-<span class="topo-line"><span class="topo-inside">FRLMDRKVVNAIKQLPERTRFMKGLFAWVGYRQTFVLFDR</span><span class="topo-unknown">EPRFQGQTKW</span><span class="topo-inside">NY</span><span class="topo-unknown">WKLWNFAL</span></span>
-<span class="topo-line"><span class="topo-unknown">DGIFS</span><span class="topo-inside">FSLLPLKV</span><span class="topo-membrane">WTYLGSIISLLSLAYASFLILKTI</span><span class="topo-outside">TL</span><span class="topo-unknown">G</span><span class="topo-outside">VD</span><span class="topo-membrane">VPGYASLMVAILFLGGVQ</span></span>
-<span class="topo-line"><span class="topo-membrane">LISLGV</span><span class="topo-inside">IGEYLGRVYEEVKARPLYLVSDLWGLEYLPL</span><span class="topo-unknown">EKLN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MHHHHHHSSGVDLGTENLY</span><span class="topo-inside">FQSNATIELSIVIPMYNEEDNLEHLFARLLEVLTPLKITYEIICVNDGSKDKTLKQLIDCYQSNRQIKIVNLSRNFGKEIALSAGIDYAQGNAVIPIDADL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">QDPPELIHELVDKWREGYDIVYATRRSRQGETWVKQFTAKMFYKVIGRMTEIKIPPNTGDFRLMDRKVVNAIKQLPERTRFMKGLFAWVGYRQTFVLFDR</span><span class="topo-unknown">EPRFQGQTKW</span><span class="topo-inside">NY</span><span class="topo-unknown">WKLWNFAL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340 </span>
+<span class="topo-line"><span class="topo-unknown">DGIFS</span><span class="topo-inside">FSLLPLKV</span><span class="topo-membrane">WTYLGSIISLLSLAYASFLILKTI</span><span class="topo-outside">TL</span><span class="topo-unknown">G</span><span class="topo-outside">VD</span><span class="topo-membrane">VPGYASLMVAILFLGGVQLISLGV</span><span class="topo-inside">IGEYLGRVYEEVKARPLYLVSDLWGLEYLPL</span><span class="topo-unknown">EKLN</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -143,6 +144,7 @@ GtrB is a polyisoprenyl-phosphate glycosyltransferase (PI-GT) from the cyanobact
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -158,12 +160,13 @@ GtrB is a polyisoprenyl-phosphate glycosyltransferase (PI-GT) from the cyanobact
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MHHHHHHSSGVDLGTENLY</span><span class="topo-inside">FQSNATIELSIVIPMYNEEDNLEHLFARLLEVLTPLKITYE</span></span>
-<span class="topo-line"><span class="topo-inside">IICVNDGSKDKTLKQLIDCYQSNRQIKIVNLSRNFGKEIALSAGIDYAQGNAVIPIDADL</span></span>
-<span class="topo-line"><span class="topo-inside">QDPPELIHELVDKWREGYDIVYATRRSRQG</span><span class="topo-unknown">ETWVKQFTAKMFYKVIGR</span><span class="topo-inside">MTEIKIPPNTGD</span></span>
-<span class="topo-line"><span class="topo-inside">FRLMDRKVVNAIKQLPERTRFMKGLFAWVGYRQTFVLFDR</span><span class="topo-unknown">EPRFQGQTKW</span><span class="topo-inside">NY</span><span class="topo-unknown">WKLWNFAL</span></span>
-<span class="topo-line"><span class="topo-unknown">DGIFS</span><span class="topo-inside">FSLLPLKV</span><span class="topo-membrane">WTYLGSIISLLSLAYASFLILKTITL</span><span class="topo-outside">G</span><span class="topo-unknown">V</span><span class="topo-outside">D</span><span class="topo-membrane">VPGYASLMVAILFLGGVQ</span></span>
-<span class="topo-line"><span class="topo-membrane">LISLGV</span><span class="topo-inside">IGEYLGRVYEEVKARPLYLVSDLWGLEYLP</span><span class="topo-unknown">LEKLN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MHHHHHHSSGVDLGTENLY</span><span class="topo-inside">FQSNATIELSIVIPMYNEEDNLEHLFARLLEVLTPLKITYEIICVNDGSKDKTLKQLIDCYQSNRQIKIVNLSRNFGKEIALSAGIDYAQGNAVIPIDADL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">QDPPELIHELVDKWREGYDIVYATRRSRQG</span><span class="topo-unknown">ETWVKQFTAKMFYKVIGR</span><span class="topo-inside">MTEIKIPPNTGDFRLMDRKVVNAIKQLPERTRFMKGLFAWVGYRQTFVLFDR</span><span class="topo-unknown">EPRFQGQTKW</span><span class="topo-inside">NY</span><span class="topo-unknown">WKLWNFAL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340 </span>
+<span class="topo-line"><span class="topo-unknown">DGIFS</span><span class="topo-inside">FSLLPLKV</span><span class="topo-membrane">WTYLGSIISLLSLAYASFLILKTITL</span><span class="topo-outside">G</span><span class="topo-unknown">V</span><span class="topo-outside">D</span><span class="topo-membrane">VPGYASLMVAILFLGGVQLISLGV</span><span class="topo-inside">IGEYLGRVYEEVKARPLYLVSDLWGLEYLP</span><span class="topo-unknown">LEKLN</span></span>
+<details class="topo-details"><summary>Topology coordinates (10 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -245,6 +248,7 @@ GtrB is a polyisoprenyl-phosphate glycosyltransferase (PI-GT) from the cyanobact
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -260,12 +264,13 @@ GtrB is a polyisoprenyl-phosphate glycosyltransferase (PI-GT) from the cyanobact
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MHHHHHHSSGVDLGTENLY</span><span class="topo-inside">FQSNATIELSIVIPMYNEEDNLEHLFARLLEVLTPLKITYE</span></span>
-<span class="topo-line"><span class="topo-inside">IICVNDGSKDKTLKQLIDCYQSNRQIKIVNLSRNFGKEIALSAGIDYAQGNAVIPIDADL</span></span>
-<span class="topo-line"><span class="topo-inside">QDPPELIHELVDKWREGYDIVYATRRS</span><span class="topo-unknown">RQGETWVK</span><span class="topo-inside">QFTAKMFYKVIGRMTEIKIPPNTGD</span></span>
-<span class="topo-line"><span class="topo-inside">FRLMDRKVVNAIKQLPERTRFMKGLFAWVGYRQTFVLFDR</span><span class="topo-unknown">EPRFQGQ</span><span class="topo-inside">TKWN</span><span class="topo-unknown">YWKLWNFAL</span></span>
-<span class="topo-line"><span class="topo-unknown">DGIFS</span><span class="topo-inside">FSLLPLKV</span><span class="topo-membrane">WTYLGSIISLLSLAYASFLIL</span><span class="topo-unknown">KTITLG</span><span class="topo-outside">V</span><span class="topo-membrane">DVPGYASLMVAILFLGGVQ</span></span>
-<span class="topo-line"><span class="topo-membrane">LISLGV</span><span class="topo-inside">IGEYLGRVYEEVKARPLYLVSDLWGLEYLPLEK</span><span class="topo-unknown">LN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MHHHHHHSSGVDLGTENLY</span><span class="topo-inside">FQSNATIELSIVIPMYNEEDNLEHLFARLLEVLTPLKITYEIICVNDGSKDKTLKQLIDCYQSNRQIKIVNLSRNFGKEIALSAGIDYAQGNAVIPIDADL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">QDPPELIHELVDKWREGYDIVYATRRS</span><span class="topo-unknown">RQGETWVK</span><span class="topo-inside">QFTAKMFYKVIGRMTEIKIPPNTGDFRLMDRKVVNAIKQLPERTRFMKGLFAWVGYRQTFVLFDR</span><span class="topo-unknown">EPRFQGQ</span><span class="topo-inside">TKWN</span><span class="topo-unknown">YWKLWNFAL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340 </span>
+<span class="topo-line"><span class="topo-unknown">DGIFS</span><span class="topo-inside">FSLLPLKV</span><span class="topo-membrane">WTYLGSIISLLSLAYASFLIL</span><span class="topo-unknown">KTITLG</span><span class="topo-outside">V</span><span class="topo-membrane">DVPGYASLMVAILFLGGVQLISLGV</span><span class="topo-inside">IGEYLGRVYEEVKARPLYLVSDLWGLEYLPLEK</span><span class="topo-unknown">LN</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -340,6 +345,7 @@ GtrB is a polyisoprenyl-phosphate glycosyltransferase (PI-GT) from the cyanobact
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -355,12 +361,13 @@ GtrB is a polyisoprenyl-phosphate glycosyltransferase (PI-GT) from the cyanobact
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MHHHHHHSSGVDLGTENLY</span><span class="topo-inside">FQSNATIELSIVIPMYNEEDNLEHLFARLLEVLTPLKITYE</span></span>
-<span class="topo-line"><span class="topo-inside">IICVNDGSKDKTLKQLIDCYQSNRQIKIVNLSRNFGKEIALSAGIDYAQGNAVIPIDADL</span></span>
-<span class="topo-line"><span class="topo-inside">QDPPELIHELVDKWREGYDIVYATRR</span><span class="topo-unknown">SRQGE</span><span class="topo-inside">TWVKQFTAKMFYKVIGRMTEIKIPPNTGD</span></span>
-<span class="topo-line"><span class="topo-inside">FRLMDRKVVNAIKQLPERTRFMKGLFAWVGYRQTFVLF</span><span class="topo-unknown">DREPRFQGQTK</span><span class="topo-inside">WN</span><span class="topo-unknown">YWKLWNFAL</span></span>
-<span class="topo-line"><span class="topo-unknown">DGIFSF</span><span class="topo-inside">SLLPLKV</span><span class="topo-membrane">WTYLGSIISLLSLAYASFLILK</span><span class="topo-unknown">TITLGV</span><span class="topo-outside">D</span><span class="topo-membrane">VPGYASLMVAILFLGGVQ</span></span>
-<span class="topo-line"><span class="topo-membrane">LISLGV</span><span class="topo-inside">IGEYLGRVYEEVKARPLYLVSDLWGLEYLPL</span><span class="topo-unknown">EKLN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MHHHHHHSSGVDLGTENLY</span><span class="topo-inside">FQSNATIELSIVIPMYNEEDNLEHLFARLLEVLTPLKITYEIICVNDGSKDKTLKQLIDCYQSNRQIKIVNLSRNFGKEIALSAGIDYAQGNAVIPIDADL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">QDPPELIHELVDKWREGYDIVYATRR</span><span class="topo-unknown">SRQGE</span><span class="topo-inside">TWVKQFTAKMFYKVIGRMTEIKIPPNTGDFRLMDRKVVNAIKQLPERTRFMKGLFAWVGYRQTFVLF</span><span class="topo-unknown">DREPRFQGQTK</span><span class="topo-inside">WN</span><span class="topo-unknown">YWKLWNFAL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340 </span>
+<span class="topo-line"><span class="topo-unknown">DGIFSF</span><span class="topo-inside">SLLPLKV</span><span class="topo-membrane">WTYLGSIISLLSLAYASFLILK</span><span class="topo-unknown">TITLGV</span><span class="topo-outside">D</span><span class="topo-membrane">VPGYASLMVAILFLGGVQLISLGV</span><span class="topo-inside">IGEYLGRVYEEVKARPLYLVSDLWGLEYLPL</span><span class="topo-unknown">EKLN</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -435,6 +442,7 @@ GtrB is a polyisoprenyl-phosphate glycosyltransferase (PI-GT) from the cyanobact
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -450,12 +458,13 @@ GtrB is a polyisoprenyl-phosphate glycosyltransferase (PI-GT) from the cyanobact
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MHHHHHHSSGVDLGTENLY</span><span class="topo-inside">FQSNATIELSIVIPMYNEEDNLEHLFARLLEVLTPLKITYE</span></span>
-<span class="topo-line"><span class="topo-inside">IICVNDGSKDKTLKQLIDCYQSNRQIKIVNLSRNFGKEIALSAGIDYAQGNAVIPIDADL</span></span>
-<span class="topo-line"><span class="topo-inside">QDPPELIHELVDKWREGYDIVYATRRSRQGETWVKQFTAKMFYKVIGRMTEIKIPPNTGD</span></span>
-<span class="topo-line"><span class="topo-inside">FRLMDRKVVNAIKQLPERTRFMKGLFAWVGYRQTFVLFDR</span><span class="topo-unknown">EPRFQGQTKW</span><span class="topo-inside">NY</span><span class="topo-unknown">WKLWNFAL</span></span>
-<span class="topo-line"><span class="topo-unknown">DGIFS</span><span class="topo-inside">FSLLPLKV</span><span class="topo-membrane">WTYLGSIISLLSLAYASFLILKTI</span><span class="topo-outside">TL</span><span class="topo-unknown">G</span><span class="topo-outside">VD</span><span class="topo-membrane">VPGYASLMVAILFLGGVQ</span></span>
-<span class="topo-line"><span class="topo-membrane">LISLGV</span><span class="topo-inside">IGEYLGRVYEEVKARPLYLVSDLWGLEYLPL</span><span class="topo-unknown">EKLN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MHHHHHHSSGVDLGTENLY</span><span class="topo-inside">FQSNATIELSIVIPMYNEEDNLEHLFARLLEVLTPLKITYEIICVNDGSKDKTLKQLIDCYQSNRQIKIVNLSRNFGKEIALSAGIDYAQGNAVIPIDADL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">QDPPELIHELVDKWREGYDIVYATRRSRQGETWVKQFTAKMFYKVIGRMTEIKIPPNTGDFRLMDRKVVNAIKQLPERTRFMKGLFAWVGYRQTFVLFDR</span><span class="topo-unknown">EPRFQGQTKW</span><span class="topo-inside">NY</span><span class="topo-unknown">WKLWNFAL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340 </span>
+<span class="topo-line"><span class="topo-unknown">DGIFS</span><span class="topo-inside">FSLLPLKV</span><span class="topo-membrane">WTYLGSIISLLSLAYASFLILKTI</span><span class="topo-outside">TL</span><span class="topo-unknown">G</span><span class="topo-outside">VD</span><span class="topo-membrane">VPGYASLMVAILFLGGVQLISLGV</span><span class="topo-inside">IGEYLGRVYEEVKARPLYLVSDLWGLEYLPL</span><span class="topo-unknown">EKLN</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -530,6 +539,7 @@ GtrB is a polyisoprenyl-phosphate glycosyltransferase (PI-GT) from the cyanobact
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -545,12 +555,13 @@ GtrB is a polyisoprenyl-phosphate glycosyltransferase (PI-GT) from the cyanobact
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MHHHHHHSSGVDLGTENLY</span><span class="topo-inside">FQSNATIELSIVIPMYNEEDNLEHLFARLLEVLTPLKITYE</span></span>
-<span class="topo-line"><span class="topo-inside">IICVNDGSKDKTLKQLIDCYQSNRQIKIVNLSRNFGKEIALSAGIDYAQGNAVIPIDADL</span></span>
-<span class="topo-line"><span class="topo-inside">QDPPELIHELVDKWREGYDIVYATRRSRQG</span><span class="topo-unknown">ETWVKQFTAKMFYKVIGR</span><span class="topo-inside">MTEIKIPPNTGD</span></span>
-<span class="topo-line"><span class="topo-inside">FRLMDRKVVNAIKQLPERTRFMKGLFAWVGYRQTFVLFDR</span><span class="topo-unknown">EPRFQGQTKW</span><span class="topo-inside">NY</span><span class="topo-unknown">WKLWNFAL</span></span>
-<span class="topo-line"><span class="topo-unknown">DGIFS</span><span class="topo-inside">FSLLPLKV</span><span class="topo-membrane">WTYLGSIISLLSLAYASFLILKTITL</span><span class="topo-outside">G</span><span class="topo-unknown">V</span><span class="topo-outside">D</span><span class="topo-membrane">VPGYASLMVAILFLGGVQ</span></span>
-<span class="topo-line"><span class="topo-membrane">LISLGV</span><span class="topo-inside">IGEYLGRVYEEVKARPLYLVSDLWGLEYLP</span><span class="topo-unknown">LEKLN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MHHHHHHSSGVDLGTENLY</span><span class="topo-inside">FQSNATIELSIVIPMYNEEDNLEHLFARLLEVLTPLKITYEIICVNDGSKDKTLKQLIDCYQSNRQIKIVNLSRNFGKEIALSAGIDYAQGNAVIPIDADL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">QDPPELIHELVDKWREGYDIVYATRRSRQG</span><span class="topo-unknown">ETWVKQFTAKMFYKVIGR</span><span class="topo-inside">MTEIKIPPNTGDFRLMDRKVVNAIKQLPERTRFMKGLFAWVGYRQTFVLFDR</span><span class="topo-unknown">EPRFQGQTKW</span><span class="topo-inside">NY</span><span class="topo-unknown">WKLWNFAL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340 </span>
+<span class="topo-line"><span class="topo-unknown">DGIFS</span><span class="topo-inside">FSLLPLKV</span><span class="topo-membrane">WTYLGSIISLLSLAYASFLILKTITL</span><span class="topo-outside">G</span><span class="topo-unknown">V</span><span class="topo-outside">D</span><span class="topo-membrane">VPGYASLMVAILFLGGVQLISLGV</span><span class="topo-inside">IGEYLGRVYEEVKARPLYLVSDLWGLEYLP</span><span class="topo-unknown">LEKLN</span></span>
+<details class="topo-details"><summary>Topology coordinates (10 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -632,6 +643,7 @@ GtrB is a polyisoprenyl-phosphate glycosyltransferase (PI-GT) from the cyanobact
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -647,12 +659,13 @@ GtrB is a polyisoprenyl-phosphate glycosyltransferase (PI-GT) from the cyanobact
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MHHHHHHSSGVDLGTENLY</span><span class="topo-inside">FQSNATIELSIVIPMYNEEDNLEHLFARLLEVLTPLKITYE</span></span>
-<span class="topo-line"><span class="topo-inside">IICVNDGSKDKTLKQLIDCYQSNRQIKIVNLSRNFGKEIALSAGIDYAQGNAVIPIDADL</span></span>
-<span class="topo-line"><span class="topo-inside">QDPPELIHELVDKWREGYDIVYATRRS</span><span class="topo-unknown">RQGETWVK</span><span class="topo-inside">QFTAKMFYKVIGRMTEIKIPPNTGD</span></span>
-<span class="topo-line"><span class="topo-inside">FRLMDRKVVNAIKQLPERTRFMKGLFAWVGYRQTFVLFDR</span><span class="topo-unknown">EPRFQGQ</span><span class="topo-inside">TKWN</span><span class="topo-unknown">YWKLWNFAL</span></span>
-<span class="topo-line"><span class="topo-unknown">DGIFS</span><span class="topo-inside">FSLLPLKV</span><span class="topo-membrane">WTYLGSIISLLSLAYASFLIL</span><span class="topo-unknown">KTITLG</span><span class="topo-outside">V</span><span class="topo-membrane">DVPGYASLMVAILFLGGVQ</span></span>
-<span class="topo-line"><span class="topo-membrane">LISLGV</span><span class="topo-inside">IGEYLGRVYEEVKARPLYLVSDLWGLEYLPLEK</span><span class="topo-unknown">LN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MHHHHHHSSGVDLGTENLY</span><span class="topo-inside">FQSNATIELSIVIPMYNEEDNLEHLFARLLEVLTPLKITYEIICVNDGSKDKTLKQLIDCYQSNRQIKIVNLSRNFGKEIALSAGIDYAQGNAVIPIDADL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">QDPPELIHELVDKWREGYDIVYATRRS</span><span class="topo-unknown">RQGETWVK</span><span class="topo-inside">QFTAKMFYKVIGRMTEIKIPPNTGDFRLMDRKVVNAIKQLPERTRFMKGLFAWVGYRQTFVLFDR</span><span class="topo-unknown">EPRFQGQ</span><span class="topo-inside">TKWN</span><span class="topo-unknown">YWKLWNFAL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340 </span>
+<span class="topo-line"><span class="topo-unknown">DGIFS</span><span class="topo-inside">FSLLPLKV</span><span class="topo-membrane">WTYLGSIISLLSLAYASFLIL</span><span class="topo-unknown">KTITLG</span><span class="topo-outside">V</span><span class="topo-membrane">DVPGYASLMVAILFLGGVQLISLGV</span><span class="topo-inside">IGEYLGRVYEEVKARPLYLVSDLWGLEYLPLEK</span><span class="topo-unknown">LN</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -727,6 +740,7 @@ GtrB is a polyisoprenyl-phosphate glycosyltransferase (PI-GT) from the cyanobact
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -742,12 +756,13 @@ GtrB is a polyisoprenyl-phosphate glycosyltransferase (PI-GT) from the cyanobact
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MHHHHHHSSGVDLGTENLY</span><span class="topo-inside">FQSNATIELSIVIPMYNEEDNLEHLFARLLEVLTPLKITYE</span></span>
-<span class="topo-line"><span class="topo-inside">IICVNDGSKDKTLKQLIDCYQSNRQIKIVNLSRNFGKEIALSAGIDYAQGNAVIPIDADL</span></span>
-<span class="topo-line"><span class="topo-inside">QDPPELIHELVDKWREGYDIVYATRR</span><span class="topo-unknown">SRQGE</span><span class="topo-inside">TWVKQFTAKMFYKVIGRMTEIKIPPNTGD</span></span>
-<span class="topo-line"><span class="topo-inside">FRLMDRKVVNAIKQLPERTRFMKGLFAWVGYRQTFVLF</span><span class="topo-unknown">DREPRFQGQTK</span><span class="topo-inside">WN</span><span class="topo-unknown">YWKLWNFAL</span></span>
-<span class="topo-line"><span class="topo-unknown">DGIFSF</span><span class="topo-inside">SLLPLKV</span><span class="topo-membrane">WTYLGSIISLLSLAYASFLILK</span><span class="topo-unknown">TITLGV</span><span class="topo-outside">D</span><span class="topo-membrane">VPGYASLMVAILFLGGVQ</span></span>
-<span class="topo-line"><span class="topo-membrane">LISLGV</span><span class="topo-inside">IGEYLGRVYEEVKARPLYLVSDLWGLEYLPL</span><span class="topo-unknown">EKLN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MHHHHHHSSGVDLGTENLY</span><span class="topo-inside">FQSNATIELSIVIPMYNEEDNLEHLFARLLEVLTPLKITYEIICVNDGSKDKTLKQLIDCYQSNRQIKIVNLSRNFGKEIALSAGIDYAQGNAVIPIDADL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">QDPPELIHELVDKWREGYDIVYATRR</span><span class="topo-unknown">SRQGE</span><span class="topo-inside">TWVKQFTAKMFYKVIGRMTEIKIPPNTGDFRLMDRKVVNAIKQLPERTRFMKGLFAWVGYRQTFVLF</span><span class="topo-unknown">DREPRFQGQTK</span><span class="topo-inside">WN</span><span class="topo-unknown">YWKLWNFAL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340 </span>
+<span class="topo-line"><span class="topo-unknown">DGIFSF</span><span class="topo-inside">SLLPLKV</span><span class="topo-membrane">WTYLGSIISLLSLAYASFLILK</span><span class="topo-unknown">TITLGV</span><span class="topo-outside">D</span><span class="topo-membrane">VPGYASLMVAILFLGGVQLISLGV</span><span class="topo-inside">IGEYLGRVYEEVKARPLYLVSDLWGLEYLPL</span><span class="topo-unknown">EKLN</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -822,6 +837,7 @@ GtrB is a polyisoprenyl-phosphate glycosyltransferase (PI-GT) from the cyanobact
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

@@ -108,11 +108,13 @@ The structure serves as a prototype for eukaryotic PAP2 enzymes including human 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">GRSI</span><span class="topo-membrane">ARRTAVGAALLLVMPVAVWIS</span><span class="topo-outside">GWRWQPG</span><span class="topo-unknown">EQ</span><span class="topo-outside">SWLLK</span><span class="topo-membrane">AAFWVTETVTQPWGVITHLIL</span></span>
-<span class="topo-line"><span class="topo-membrane">FGWFL</span><span class="topo-inside">WCLRFRIKAA</span><span class="topo-membrane">FVLFAILAAAILVGQGVKSWIK</span><span class="topo-outside">DKVQEPRPFVIWLEKTHHMPVDK</span></span>
-<span class="topo-line"><span class="topo-outside">FYTLKRAERGNLVKEQLAE</span><span class="topo-unknown">EKNI</span><span class="topo-outside">P</span><span class="topo-unknown">QYLRSHWQKE</span><span class="topo-outside">TGFA</span><span class="topo-membrane">FPSGHTMFAASWALLAVGLLW</span><span class="topo-inside">P</span></span>
-<span class="topo-line"><span class="topo-inside">RRR</span><span class="topo-membrane">TLTIAILLVWATGVMGSRLL</span><span class="topo-outside">LGM</span><span class="topo-membrane">HWPRDLVVATLISWALVAVATWLA</span><span class="topo-inside">QRICGPLTPP</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">GRSI</span><span class="topo-membrane">ARRTAVGAALLLVMPVAVWIS</span><span class="topo-outside">GWRWQPG</span><span class="topo-unknown">EQ</span><span class="topo-outside">SWLLK</span><span class="topo-membrane">AAFWVTETVTQPWGVITHLILFGWFL</span><span class="topo-inside">WCLRFRIKAA</span><span class="topo-membrane">FVLFAILAAAILVGQGVKSWIK</span><span class="topo-outside">DKVQEPRPFVIWLEKTHHMPVDK</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">FYTLKRAERGNLVKEQLAE</span><span class="topo-unknown">EKNI</span><span class="topo-outside">P</span><span class="topo-unknown">QYLRSHWQKE</span><span class="topo-outside">TGFA</span><span class="topo-membrane">FPSGHTMFAASWALLAVGLLW</span><span class="topo-inside">PRRR</span><span class="topo-membrane">TLTIAILLVWATGVMGSRLL</span><span class="topo-outside">LGM</span><span class="topo-membrane">HWPRDLVVATLISWALVAVATWLA</span><span class="topo-inside">QRICGPLTPP</span></span>
+<span class="topo-ruler">       250       260  </span>
 <span class="topo-line"><span class="topo-unknown">A</span><span class="topo-inside">EENREIAQREQESLEHH</span><span class="topo-unknown">HHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (22 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -278,6 +280,7 @@ The structure serves as a prototype for eukaryotic PAP2 enzymes including human 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

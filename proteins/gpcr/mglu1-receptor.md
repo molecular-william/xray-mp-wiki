@@ -116,13 +116,15 @@ The human mGlu1 (metabotropic glutamate receptor 1) is a class C G protein-coupl
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GGTA</span><span class="topo-inside">DLEDNWETLNDNLKVIEKADNAAQVKDALTKMRAAALDAQKATPPKLEDKSPDSPE</span></span>
-<span class="topo-line"><span class="topo-inside">MKDFRHGFDILVGQIDDALKLANEGKVKEAQAAAEQLKTTRNAYIQKYLIPVRYLEWSNI</span></span>
-<span class="topo-line"><span class="topo-inside">E</span><span class="topo-membrane">SIIAIAFSCLGILVTLFVTLIFVLYR</span><span class="topo-outside">DTPVVKSS</span><span class="topo-membrane">SRELCYIILAGIFLGYVCPFTL</span><span class="topo-inside">IAK</span></span>
-<span class="topo-line"><span class="topo-inside">PTTTSCY</span><span class="topo-membrane">LQRLLVGLSSAMCYSALVTKTNRIAR</span><span class="topo-outside">ILA</span><span class="topo-unknown">GSKKKICT</span><span class="topo-outside">RKPRF</span><span class="topo-membrane">MSAWAQVIIAS</span></span>
-<span class="topo-line"><span class="topo-membrane">ILISVQLTLVVTLII</span><span class="topo-inside">MEPPMPILSYPSIKEVYLICNTSNLG</span><span class="topo-membrane">VVAPLGYNGLLIMSCTYYA</span></span>
-<span class="topo-line"><span class="topo-membrane">FKTRNV</span><span class="topo-outside">PANFN</span><span class="topo-membrane">EAKYIAFTMYTTCIIWLAFVPIY</span><span class="topo-inside">FGSNYKII</span><span class="topo-membrane">TTCFAVSLSVTVALGCMF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GGTA</span><span class="topo-inside">DLEDNWETLNDNLKVIEKADNAAQVKDALTKMRAAALDAQKATPPKLEDKSPDSPEMKDFRHGFDILVGQIDDALKLANEGKVKEAQAAAEQLKTTRNAYIQKYLIPVRYLEWSNI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">E</span><span class="topo-membrane">SIIAIAFSCLGILVTLFVTLIFVLYR</span><span class="topo-outside">DTPVVKSS</span><span class="topo-membrane">SRELCYIILAGIFLGYVCPFTL</span><span class="topo-inside">IAKPTTTSCY</span><span class="topo-membrane">LQRLLVGLSSAMCYSALVTKTNRIAR</span><span class="topo-outside">ILA</span><span class="topo-unknown">GSKKKICT</span><span class="topo-outside">RKPRF</span><span class="topo-membrane">MSAWAQVIIAS</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">ILISVQLTLVVTLII</span><span class="topo-inside">MEPPMPILSYPSIKEVYLICNTSNLG</span><span class="topo-membrane">VVAPLGYNGLLIMSCTYYAFKTRNV</span><span class="topo-outside">PANFN</span><span class="topo-membrane">EAKYIAFTMYTTCIIWLAFVPIY</span><span class="topo-inside">FGSNYKII</span><span class="topo-membrane">TTCFAVSLSVTVALGCMF</span></span>
+<span class="topo-ruler">       370       380         </span>
 <span class="topo-line"><span class="topo-membrane">TPKMYIIIA</span><span class="topo-outside">KPE</span><span class="topo-unknown">RNVRSAFTTSDVVRMHV</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -267,6 +269,7 @@ The human mGlu1 (metabotropic glutamate receptor 1) is a class C G protein-coupl
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -282,13 +285,15 @@ The human mGlu1 (metabotropic glutamate receptor 1) is a class C G protein-coupl
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GGTA</span><span class="topo-inside">DLEDNWETLNDNLKVIEKADNAAQVKDALTKMRAAALDAQKATPPKLEDKSPDSPE</span></span>
-<span class="topo-line"><span class="topo-inside">MKDFRHGFDILVGQIDDALKLANEGKVKEAQAAAEQLKTTRNAYIQKYLIPVRYLEWSNI</span></span>
-<span class="topo-line"><span class="topo-inside">E</span><span class="topo-membrane">SIIAIAFSCLGILVTLFVTLIFVLYR</span><span class="topo-outside">DTPVVKSS</span><span class="topo-membrane">SRELCYIILAGIFLGYVCPFTL</span><span class="topo-inside">IAK</span></span>
-<span class="topo-line"><span class="topo-inside">PTTTSCY</span><span class="topo-membrane">LQRLLVGLSSAMCYSALVTKTNRIAR</span><span class="topo-outside">ILAG</span><span class="topo-unknown">SKKKI</span><span class="topo-outside">CTRKPRF</span><span class="topo-membrane">MSAWAQVIIAS</span></span>
-<span class="topo-line"><span class="topo-membrane">ILISVQLTLVVTLI</span><span class="topo-inside">IMEPPMPILSYPSIKEVYLICNTSNLG</span><span class="topo-membrane">VVAPLGYNGLLIMSCTYYA</span></span>
-<span class="topo-line"><span class="topo-membrane">FKTRN</span><span class="topo-outside">VPANFN</span><span class="topo-membrane">EAKYIAFTMYTTCIIWLAFVPIY</span><span class="topo-inside">FGSNYKII</span><span class="topo-membrane">TTCFAVSLSVTVALGCMF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GGTA</span><span class="topo-inside">DLEDNWETLNDNLKVIEKADNAAQVKDALTKMRAAALDAQKATPPKLEDKSPDSPEMKDFRHGFDILVGQIDDALKLANEGKVKEAQAAAEQLKTTRNAYIQKYLIPVRYLEWSNI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">E</span><span class="topo-membrane">SIIAIAFSCLGILVTLFVTLIFVLYR</span><span class="topo-outside">DTPVVKSS</span><span class="topo-membrane">SRELCYIILAGIFLGYVCPFTL</span><span class="topo-inside">IAKPTTTSCY</span><span class="topo-membrane">LQRLLVGLSSAMCYSALVTKTNRIAR</span><span class="topo-outside">ILAG</span><span class="topo-unknown">SKKKI</span><span class="topo-outside">CTRKPRF</span><span class="topo-membrane">MSAWAQVIIAS</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">ILISVQLTLVVTLI</span><span class="topo-inside">IMEPPMPILSYPSIKEVYLICNTSNLG</span><span class="topo-membrane">VVAPLGYNGLLIMSCTYYAFKTRN</span><span class="topo-outside">VPANFN</span><span class="topo-membrane">EAKYIAFTMYTTCIIWLAFVPIY</span><span class="topo-inside">FGSNYKII</span><span class="topo-membrane">TTCFAVSLSVTVALGCMF</span></span>
+<span class="topo-ruler">       370       380         </span>
 <span class="topo-line"><span class="topo-membrane">TPKMYIIIA</span><span class="topo-outside">KPERNV</span><span class="topo-unknown">RSAFTTSDVVRMHV</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -433,6 +438,7 @@ The human mGlu1 (metabotropic glutamate receptor 1) is a class C G protein-coupl
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

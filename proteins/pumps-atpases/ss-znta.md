@@ -147,23 +147,25 @@ purified by Ni2+-NTA and gel filtration, crystallized with AlF4- inhibitor</td>
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MEAAHSKSTEECLAYFGVSETTGLTPDQVKRHLEKYGHNELPAEEGKSLWELVI</span><span class="topo-membrane">EQFEDL</span></span>
-<span class="topo-line"><span class="topo-membrane">LVRILLLAACISFVLAWF</span><span class="topo-outside">EEGEETI</span><span class="topo-membrane">TAFVEPFVILLILIANAIVG</span><span class="topo-inside">VWQERNAENAIEALK</span></span>
-<span class="topo-line"><span class="topo-inside">EYEPEMGKVYRADRKSVQRIKARDIVPGDIVEVAVGDKVPADIRILSIKSTTLRVDQSIL</span></span>
-<span class="topo-line"><span class="topo-inside">TGESVSVIKHTEPVPDPRAVNQDKKNMLFSGTNIAAGKALGIVATTGVSTEIGKIRDQMA</span></span>
-<span class="topo-line"><span class="topo-inside">ATEQDKTPLQQKLDEF</span><span class="topo-membrane">GEQLSKVISLICVAVWLINI</span><span class="topo-outside">GHFNDPVHGGSWIRGA</span><span class="topo-membrane">IYYFKIAV</span></span>
-<span class="topo-line"><span class="topo-membrane">ALAVAAIPEGLPA</span><span class="topo-inside">VITTCLALGTRRMAKKNAIVRSLPSVETLGCTSVICSDKTGTLTTNQ</span></span>
-<span class="topo-line"><span class="topo-inside">MSVCKMFIIDKVDGDFCSLNEFSITGSTYAPEGEVLKNDKPIRSGQFDGLVELATICALC</span></span>
-<span class="topo-line"><span class="topo-inside">NDSSLDFNETKGVYEKVGEATETALTTLVEKMNVFNTEVRNLSKVERANACNSVIRQLMK</span></span>
-<span class="topo-line"><span class="topo-inside">KEFTLEFSRDRKSMSVYCSPAKSSRAAVGNKMFVKGAPEGVIDRCNYVRVGTTRVPMTGP</span></span>
-<span class="topo-line"><span class="topo-inside">VKEKILSVIKEWGTGRDTLRCLALATRDTPPKREEMVLDDSSRFMEYETDLTFVGVVGML</span></span>
-<span class="topo-line"><span class="topo-inside">DPPRKEVMGSIQLCRDAGIRVIMITGDNKGTAIAICRRIGIFGENEEVADRAYTGREFDD</span></span>
-<span class="topo-line"><span class="topo-inside">LPLAEQREACRRACCFARVEPSHKSKIVEYLQSYDEITAMTGDGVNDAPALKKAEIGIAM</span></span>
-<span class="topo-line"><span class="topo-inside">GSGTAVAKTASEMVLADDNFSTIVAAVEEGRAIYNNMKQ</span><span class="topo-membrane">FIRYLISSNVGEVVCIFLTAA</span></span>
-<span class="topo-line"><span class="topo-membrane">L</span><span class="topo-outside">GLPE</span><span class="topo-membrane">ALIPVQLLWVNLVTDGLPATAL</span><span class="topo-inside">GFNPPDLDIMDRPPRSPKEPLISGW</span><span class="topo-membrane">LFFRYMAI</span></span>
-<span class="topo-line"><span class="topo-membrane">GGYVGAATVGAA</span><span class="topo-outside">AWWFMYAEDGPGVTYHQLTHFMQCTEDHPHFEGLDCEIFEAPEPM</span><span class="topo-membrane">TMA</span></span>
-<span class="topo-line"><span class="topo-membrane">LSVLVTIEMCNALNSL</span><span class="topo-inside">SENQSLMRMPPWVN</span><span class="topo-membrane">IWLLGSICLSMSLHFLILYV</span><span class="topo-outside">D</span><span class="topo-unknown">PLPMIF</span><span class="topo-outside">KLK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">MEAAHSKSTEECLAYFGVSETTGLTPDQVKRHLEKYGHNELPAEEGKSLWELVI</span><span class="topo-membrane">EQFEDLLVRILLLAACISFVLAWF</span><span class="topo-outside">EEGEETI</span><span class="topo-membrane">TAFVEPFVILLILIANAIVG</span><span class="topo-inside">VWQERNAENAIEALK</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">EYEPEMGKVYRADRKSVQRIKARDIVPGDIVEVAVGDKVPADIRILSIKSTTLRVDQSILTGESVSVIKHTEPVPDPRAVNQDKKNMLFSGTNIAAGKALGIVATTGVSTEIGKIRDQMA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">ATEQDKTPLQQKLDEF</span><span class="topo-membrane">GEQLSKVISLICVAVWLINI</span><span class="topo-outside">GHFNDPVHGGSWIRGA</span><span class="topo-membrane">IYYFKIAVALAVAAIPEGLPA</span><span class="topo-inside">VITTCLALGTRRMAKKNAIVRSLPSVETLGCTSVICSDKTGTLTTNQ</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">MSVCKMFIIDKVDGDFCSLNEFSITGSTYAPEGEVLKNDKPIRSGQFDGLVELATICALCNDSSLDFNETKGVYEKVGEATETALTTLVEKMNVFNTEVRNLSKVERANACNSVIRQLMK</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-inside">KEFTLEFSRDRKSMSVYCSPAKSSRAAVGNKMFVKGAPEGVIDRCNYVRVGTTRVPMTGPVKEKILSVIKEWGTGRDTLRCLALATRDTPPKREEMVLDDSSRFMEYETDLTFVGVVGML</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-inside">DPPRKEVMGSIQLCRDAGIRVIMITGDNKGTAIAICRRIGIFGENEEVADRAYTGREFDDLPLAEQREACRRACCFARVEPSHKSKIVEYLQSYDEITAMTGDGVNDAPALKKAEIGIAM</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820       830       840</span>
+<span class="topo-line"><span class="topo-inside">GSGTAVAKTASEMVLADDNFSTIVAAVEEGRAIYNNMKQ</span><span class="topo-membrane">FIRYLISSNVGEVVCIFLTAAL</span><span class="topo-outside">GLPE</span><span class="topo-membrane">ALIPVQLLWVNLVTDGLPATAL</span><span class="topo-inside">GFNPPDLDIMDRPPRSPKEPLISGW</span><span class="topo-membrane">LFFRYMAI</span></span>
+<span class="topo-ruler">       850       860       870       880       890       900       910       920       930       940       950       960</span>
+<span class="topo-line"><span class="topo-membrane">GGYVGAATVGAA</span><span class="topo-outside">AWWFMYAEDGPGVTYHQLTHFMQCTEDHPHFEGLDCEIFEAPEPM</span><span class="topo-membrane">TMALSVLVTIEMCNALNSL</span><span class="topo-inside">SENQSLMRMPPWVN</span><span class="topo-membrane">IWLLGSICLSMSLHFLILYV</span><span class="topo-outside">D</span><span class="topo-unknown">PLPMIF</span><span class="topo-outside">KLK</span></span>
+<span class="topo-ruler">       970       980       990    </span>
 <span class="topo-line"><span class="topo-outside">ALD</span><span class="topo-membrane">LTQWLMVLKISLPVIGLDEILKFI</span><span class="topo-inside">ARNYLEG</span></span>
+<details class="topo-details"><summary>Topology coordinates (23 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -336,6 +338,7 @@ purified by Ni2+-NTA and gel filtration, crystallized with AlF4- inhibitor</td>
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

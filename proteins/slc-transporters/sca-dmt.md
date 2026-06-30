@@ -110,13 +110,15 @@ ScaDMT is a divalent metal-ion transporter from Staphylococcus capitis belonging
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAVA</span><span class="topo-outside">VGYMDPGNWITSMQGGAQYGYTLLF</span><span class="topo-membrane">VILISSLAAMLLQSMTV</span><span class="topo-inside">RLGIATGKDLAQMT</span></span>
-<span class="topo-line"><span class="topo-inside">RHFLSKPVAI</span><span class="topo-membrane">IFWIIAELAIIATDIAE</span><span class="topo-outside">VIGSAIALDLIFGIPLIVGALITVFDVFLLLFI</span></span>
-<span class="topo-line"><span class="topo-outside">MRFGFRKIEAIVGTLIFTVLAIFVFEVFISSPQLTDILNGFVPHKEIVTNQGILYIA</span><span class="topo-membrane">LGI</span></span>
-<span class="topo-line"><span class="topo-membrane">IGATIMPHNLYLHSSIV</span><span class="topo-inside">QSRKYDRHDNEEKAQAI</span><span class="topo-membrane">KYATIDSNLQLSIAFV</span><span class="topo-outside">VNCLLLTLGA</span></span>
-<span class="topo-line"><span class="topo-outside">ALFFGTKTNDLGGFYDLYHALKTEPVLGATLGGVMSTLFAVALLASGQ</span><span class="topo-membrane">NSTITGTLAGQI</span></span>
-<span class="topo-line"><span class="topo-membrane">VME</span><span class="topo-inside">GFLRL</span><span class="topo-membrane">SIPNWLRRLITRSLAVIP</span><span class="topo-outside">VIICLIIFKGNSEKIEQLLVF</span><span class="topo-membrane">SQVFLSIALPFSL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAVA</span><span class="topo-outside">VGYMDPGNWITSMQGGAQYGYTLLF</span><span class="topo-membrane">VILISSLAAMLLQSMTV</span><span class="topo-inside">RLGIATGKDLAQMTRHFLSKPVAI</span><span class="topo-membrane">IFWIIAELAIIATDIAE</span><span class="topo-outside">VIGSAIALDLIFGIPLIVGALITVFDVFLLLFI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">MRFGFRKIEAIVGTLIFTVLAIFVFEVFISSPQLTDILNGFVPHKEIVTNQGILYIA</span><span class="topo-membrane">LGIIGATIMPHNLYLHSSIV</span><span class="topo-inside">QSRKYDRHDNEEKAQAI</span><span class="topo-membrane">KYATIDSNLQLSIAFV</span><span class="topo-outside">VNCLLLTLGA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">ALFFGTKTNDLGGFYDLYHALKTEPVLGATLGGVMSTLFAVALLASGQ</span><span class="topo-membrane">NSTITGTLAGQIVME</span><span class="topo-inside">GFLRL</span><span class="topo-membrane">SIPNWLRRLITRSLAVIP</span><span class="topo-outside">VIICLIIFKGNSEKIEQLLVF</span><span class="topo-membrane">SQVFLSIALPFSL</span></span>
+<span class="topo-ruler">       370       380       390       400       410     </span>
 <span class="topo-line"><span class="topo-membrane">IPLQ</span><span class="topo-inside">LATSNKKLMGPFINKTW</span><span class="topo-membrane">VNIISWTLIVILSGLNVYLIIQTF</span><span class="topo-unknown">QELALEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -254,6 +256,7 @@ ScaDMT is a divalent metal-ion transporter from Staphylococcus capitis belonging
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -269,13 +272,15 @@ ScaDMT is a divalent metal-ion transporter from Staphylococcus capitis belonging
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAVA</span><span class="topo-outside">VGYMDPGNWITSMQGGAQYGYTLLF</span><span class="topo-membrane">VILISSLAAMLLQSMTV</span><span class="topo-inside">RLGIATGKDLAQMT</span></span>
-<span class="topo-line"><span class="topo-inside">RHFLSKPVAI</span><span class="topo-membrane">IFWIIAELAIIATDIAE</span><span class="topo-outside">VIGSAIALDLIFGIPLIVGALITVFDVFLLLFI</span></span>
-<span class="topo-line"><span class="topo-outside">MRFGFRKIEAIVGTLIFTVLAIFVFEVFISSPQLTDILNGFVPHKEIVTNQGILYIA</span><span class="topo-membrane">LGI</span></span>
-<span class="topo-line"><span class="topo-membrane">IGATIMPHNLYLHSSIV</span><span class="topo-inside">QSRKYDRHDNEEKAQAI</span><span class="topo-membrane">KYATIDSNLQLSIAFV</span><span class="topo-outside">VNCLLLTLGA</span></span>
-<span class="topo-line"><span class="topo-outside">ALFFGTKTNDLGGFYDLYHALKTEPVLGATLGGVMSTLFAVALLASG</span><span class="topo-membrane">QNSTITGTLAGQI</span></span>
-<span class="topo-line"><span class="topo-membrane">VME</span><span class="topo-inside">GFLRLS</span><span class="topo-membrane">IPNWLRRLITRSLAVIP</span><span class="topo-outside">VIICLIIFKGNSEKIEQLLVF</span><span class="topo-membrane">SQVFLSIALPFSL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAVA</span><span class="topo-outside">VGYMDPGNWITSMQGGAQYGYTLLF</span><span class="topo-membrane">VILISSLAAMLLQSMTV</span><span class="topo-inside">RLGIATGKDLAQMTRHFLSKPVAI</span><span class="topo-membrane">IFWIIAELAIIATDIAE</span><span class="topo-outside">VIGSAIALDLIFGIPLIVGALITVFDVFLLLFI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">MRFGFRKIEAIVGTLIFTVLAIFVFEVFISSPQLTDILNGFVPHKEIVTNQGILYIA</span><span class="topo-membrane">LGIIGATIMPHNLYLHSSIV</span><span class="topo-inside">QSRKYDRHDNEEKAQAI</span><span class="topo-membrane">KYATIDSNLQLSIAFV</span><span class="topo-outside">VNCLLLTLGA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">ALFFGTKTNDLGGFYDLYHALKTEPVLGATLGGVMSTLFAVALLASG</span><span class="topo-membrane">QNSTITGTLAGQIVME</span><span class="topo-inside">GFLRLS</span><span class="topo-membrane">IPNWLRRLITRSLAVIP</span><span class="topo-outside">VIICLIIFKGNSEKIEQLLVF</span><span class="topo-membrane">SQVFLSIALPFSL</span></span>
+<span class="topo-ruler">       370       380       390       400       410     </span>
 <span class="topo-line"><span class="topo-membrane">IPLQ</span><span class="topo-inside">LATSNKKLMGPFINKTW</span><span class="topo-membrane">VNIISWTLIVILSGLNVYLIIQTF</span><span class="topo-unknown">QELALEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -413,6 +418,7 @@ ScaDMT is a divalent metal-ion transporter from Staphylococcus capitis belonging
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

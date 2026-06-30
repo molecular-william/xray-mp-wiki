@@ -132,13 +132,15 @@ Human [Glycine](/xray-mp-wiki/reagents/buffers/glycine/) receptor alpha 3 (GlyRÎ
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">ARSRSAP</span><span class="topo-outside">MSPSDFLDKLMGRTSGYDARIRPNFKGPPVNVTCNIFINSFGSIAETTMDYRV</span></span>
-<span class="topo-line"><span class="topo-outside">NIFLRQKWNDPRLAYSEYPDDSLDLDPSMLDSIWKPDLFFANEKGANFHEVTTDNKLLRI</span></span>
-<span class="topo-line"><span class="topo-outside">FKNGNVLYSIRLTLTLSCPMDLKNFPMDVQTCIMQLESFGYTMNDLIFEWQDEAPVQVAE</span></span>
-<span class="topo-line"><span class="topo-outside">GLTLPQFLLKEEKDLRYCTKHYNTGKFTCIEVRFHLERQMGYYLIQM</span><span class="topo-membrane">YIPSLLIVILSWV</span></span>
-<span class="topo-line"><span class="topo-membrane">SFWI</span><span class="topo-inside">NMDA</span><span class="topo-membrane">APARVALGITTVLTMTTQSS</span><span class="topo-outside">GSRASLPKVSYVKAID</span><span class="topo-membrane">IWMAVCLLFVFSALLE</span></span>
-<span class="topo-line"><span class="topo-membrane">YAAVN</span><span class="topo-inside">FVSRAGTKVFIDRAKKI</span><span class="topo-membrane">DTISRACFPLAFLIFNIFYWVI</span><span class="topo-outside">Y</span><span class="topo-unknown">KILRHEDIHWSHPQF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">ARSRSAP</span><span class="topo-outside">MSPSDFLDKLMGRTSGYDARIRPNFKGPPVNVTCNIFINSFGSIAETTMDYRVNIFLRQKWNDPRLAYSEYPDDSLDLDPSMLDSIWKPDLFFANEKGANFHEVTTDNKLLRI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">FKNGNVLYSIRLTLTLSCPMDLKNFPMDVQTCIMQLESFGYTMNDLIFEWQDEAPVQVAEGLTLPQFLLKEEKDLRYCTKHYNTGKFTCIEVRFHLERQMGYYLIQM</span><span class="topo-membrane">YIPSLLIVILSWV</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">SFWI</span><span class="topo-inside">NMDA</span><span class="topo-membrane">APARVALGITTVLTMTTQSS</span><span class="topo-outside">GSRASLPKVSYVKAID</span><span class="topo-membrane">IWMAVCLLFVFSALLEYAAVN</span><span class="topo-inside">FVSRAGTKVFIDRAKKI</span><span class="topo-membrane">DTISRACFPLAFLIFNIFYWVI</span><span class="topo-outside">Y</span><span class="topo-unknown">KILRHEDIHWSHPQF</span></span>
+<span class="topo-ruler">  </span>
 <span class="topo-line"><span class="topo-unknown">EK</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -213,6 +215,7 @@ Human [Glycine](/xray-mp-wiki/reagents/buffers/glycine/) receptor alpha 3 (GlyRÎ
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -228,13 +231,15 @@ Human [Glycine](/xray-mp-wiki/reagents/buffers/glycine/) receptor alpha 3 (GlyRÎ
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">ARSRS</span><span class="topo-outside">APMSPSDFLDKLMGRTSGYDARIRPNFKGPPVNVTCNIFINSFGSIAETTMDYRV</span></span>
-<span class="topo-line"><span class="topo-outside">NIFLRQKWNDPRLAYSEYPDDSLDLDPSMLDSIWKPDLFFANEKGANFHEVTTDNKLLRI</span></span>
-<span class="topo-line"><span class="topo-outside">FKNGNVLYSIRLTLTLSCPMDLKNFPMDVQTCIMQLESFGYTMNDLIFEWQDEAPVQVAE</span></span>
-<span class="topo-line"><span class="topo-outside">GLTLPQFLLKEEKDLRYCTKHYNTGKFTCIEVRFHLERQMGYYLIQM</span><span class="topo-membrane">YIPSLLIVILSWV</span></span>
-<span class="topo-line"><span class="topo-membrane">SFWI</span><span class="topo-inside">NMDA</span><span class="topo-membrane">APARVALGITTVLTMTTQSS</span><span class="topo-outside">GSRASLPKVSYVKAID</span><span class="topo-membrane">IWMAVCLLFVFSALLE</span></span>
-<span class="topo-line"><span class="topo-membrane">YAAVN</span><span class="topo-inside">FVSRAGTKVFIDRAKKI</span><span class="topo-membrane">DTISRACFPLAFLIFNIFYWVI</span><span class="topo-outside">YKIL</span><span class="topo-unknown">RHEDIHWSHPQF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">ARSRS</span><span class="topo-outside">APMSPSDFLDKLMGRTSGYDARIRPNFKGPPVNVTCNIFINSFGSIAETTMDYRVNIFLRQKWNDPRLAYSEYPDDSLDLDPSMLDSIWKPDLFFANEKGANFHEVTTDNKLLRI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">FKNGNVLYSIRLTLTLSCPMDLKNFPMDVQTCIMQLESFGYTMNDLIFEWQDEAPVQVAEGLTLPQFLLKEEKDLRYCTKHYNTGKFTCIEVRFHLERQMGYYLIQM</span><span class="topo-membrane">YIPSLLIVILSWV</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">SFWI</span><span class="topo-inside">NMDA</span><span class="topo-membrane">APARVALGITTVLTMTTQSS</span><span class="topo-outside">GSRASLPKVSYVKAID</span><span class="topo-membrane">IWMAVCLLFVFSALLEYAAVN</span><span class="topo-inside">FVSRAGTKVFIDRAKKI</span><span class="topo-membrane">DTISRACFPLAFLIFNIFYWVI</span><span class="topo-outside">YKIL</span><span class="topo-unknown">RHEDIHWSHPQF</span></span>
+<span class="topo-ruler">  </span>
 <span class="topo-line"><span class="topo-unknown">EK</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -309,6 +314,7 @@ Human [Glycine](/xray-mp-wiki/reagents/buffers/glycine/) receptor alpha 3 (GlyRÎ
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -324,13 +330,15 @@ Human [Glycine](/xray-mp-wiki/reagents/buffers/glycine/) receptor alpha 3 (GlyRÎ
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">ARSRSAP</span><span class="topo-outside">MSPSDFLDKLMGRTSGYDARIRPNFKGPPVNVTCNIFINSFGSIAETTMDYRV</span></span>
-<span class="topo-line"><span class="topo-outside">NIFLRQKWNDPRLAYSEYPDDSLDLDPSMLDSIWKPDLFFANEKGANFHEVTTDNKLLRI</span></span>
-<span class="topo-line"><span class="topo-outside">FKNGNVLYSIRLTLTLSCPMDLKNFPMDVQTCIMQLESFGYTMNDLIFEWQDEAPVQVAE</span></span>
-<span class="topo-line"><span class="topo-outside">GLTLPQFLLKEEKDLRYCTKHYNTGKFTCIEVRFHLERQMGYYLIQM</span><span class="topo-membrane">YIPSLLIVILSWV</span></span>
-<span class="topo-line"><span class="topo-membrane">SFWI</span><span class="topo-inside">NMDA</span><span class="topo-membrane">APARVALGITTVLTMTTQSS</span><span class="topo-outside">GSRASLPKVSYVKAID</span><span class="topo-membrane">IWMAVCLLFVFSALLE</span></span>
-<span class="topo-line"><span class="topo-membrane">YAAVN</span><span class="topo-inside">FVSRAGTKVFIDRAKKI</span><span class="topo-membrane">DTISRACFPLAFLIFNIFYWVI</span><span class="topo-outside">Y</span><span class="topo-unknown">KILRHEDIHWSHPQF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">ARSRSAP</span><span class="topo-outside">MSPSDFLDKLMGRTSGYDARIRPNFKGPPVNVTCNIFINSFGSIAETTMDYRVNIFLRQKWNDPRLAYSEYPDDSLDLDPSMLDSIWKPDLFFANEKGANFHEVTTDNKLLRI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">FKNGNVLYSIRLTLTLSCPMDLKNFPMDVQTCIMQLESFGYTMNDLIFEWQDEAPVQVAEGLTLPQFLLKEEKDLRYCTKHYNTGKFTCIEVRFHLERQMGYYLIQM</span><span class="topo-membrane">YIPSLLIVILSWV</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">SFWI</span><span class="topo-inside">NMDA</span><span class="topo-membrane">APARVALGITTVLTMTTQSS</span><span class="topo-outside">GSRASLPKVSYVKAID</span><span class="topo-membrane">IWMAVCLLFVFSALLEYAAVN</span><span class="topo-inside">FVSRAGTKVFIDRAKKI</span><span class="topo-membrane">DTISRACFPLAFLIFNIFYWVI</span><span class="topo-outside">Y</span><span class="topo-unknown">KILRHEDIHWSHPQF</span></span>
+<span class="topo-ruler">  </span>
 <span class="topo-line"><span class="topo-unknown">EK</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -405,6 +413,7 @@ Human [Glycine](/xray-mp-wiki/reagents/buffers/glycine/) receptor alpha 3 (GlyRÎ
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -420,13 +429,15 @@ Human [Glycine](/xray-mp-wiki/reagents/buffers/glycine/) receptor alpha 3 (GlyRÎ
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">AR</span><span class="topo-outside">SRSAPMSPSDFLDKLMGRTSGYDARIRPNFKGPPVNVTCNIFINSFGSIAETTMDYRV</span></span>
-<span class="topo-line"><span class="topo-outside">NIFLRQKWNDPRLAYSEYPDDSLDLDPSMLDSIWKPDLFFANEKGANFHEVTTDNKLLRI</span></span>
-<span class="topo-line"><span class="topo-outside">FKNGNVLYSIRLTLTLSCPMDLKNFPMDVQTCIMQLESFGYTMNDLIFEWQDEAPVQVAE</span></span>
-<span class="topo-line"><span class="topo-outside">GLTLPQFLLKEEKDLRYCTKHYNTGKFTCIEVRFHLERQMGYYLIQM</span><span class="topo-membrane">YIPSLLIVILSWV</span></span>
-<span class="topo-line"><span class="topo-membrane">SFWI</span><span class="topo-inside">NMDA</span><span class="topo-membrane">APARVALGITTVLTMTTQSS</span><span class="topo-outside">GSRASLPKVSYVKAID</span><span class="topo-membrane">IWMAVCLLFVFSALLE</span></span>
-<span class="topo-line"><span class="topo-membrane">YAAVN</span><span class="topo-inside">FVSRAGTKVFIDRAKKI</span><span class="topo-membrane">DTISRACFPLAFLIFNIFYWVI</span><span class="topo-outside">Y</span><span class="topo-unknown">KILRHEDIHWSHPQF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">AR</span><span class="topo-outside">SRSAPMSPSDFLDKLMGRTSGYDARIRPNFKGPPVNVTCNIFINSFGSIAETTMDYRVNIFLRQKWNDPRLAYSEYPDDSLDLDPSMLDSIWKPDLFFANEKGANFHEVTTDNKLLRI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">FKNGNVLYSIRLTLTLSCPMDLKNFPMDVQTCIMQLESFGYTMNDLIFEWQDEAPVQVAEGLTLPQFLLKEEKDLRYCTKHYNTGKFTCIEVRFHLERQMGYYLIQM</span><span class="topo-membrane">YIPSLLIVILSWV</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">SFWI</span><span class="topo-inside">NMDA</span><span class="topo-membrane">APARVALGITTVLTMTTQSS</span><span class="topo-outside">GSRASLPKVSYVKAID</span><span class="topo-membrane">IWMAVCLLFVFSALLEYAAVN</span><span class="topo-inside">FVSRAGTKVFIDRAKKI</span><span class="topo-membrane">DTISRACFPLAFLIFNIFYWVI</span><span class="topo-outside">Y</span><span class="topo-unknown">KILRHEDIHWSHPQF</span></span>
+<span class="topo-ruler">  </span>
 <span class="topo-line"><span class="topo-unknown">EK</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -501,6 +512,7 @@ Human [Glycine](/xray-mp-wiki/reagents/buffers/glycine/) receptor alpha 3 (GlyRÎ
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -516,13 +528,15 @@ Human [Glycine](/xray-mp-wiki/reagents/buffers/glycine/) receptor alpha 3 (GlyRÎ
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">ARSRSAP</span><span class="topo-outside">MSPSDFLDKLMGRTSGYDARIRPNFKGPPVNVTCNIFINSFGSIAETTMDYRV</span></span>
-<span class="topo-line"><span class="topo-outside">NIFLRQKWNDPRLAYSEYPDDSLDLDPSMLDSIWKPDLFFANEKGANFHEVTTDNKLLRI</span></span>
-<span class="topo-line"><span class="topo-outside">FKNGNVLYSIRLTLTLSCPMDLKNFPMDVQTCIMQLESFGYTMNDLIFEWQDEAPVQVAE</span></span>
-<span class="topo-line"><span class="topo-outside">GLTLPQFLLKEEKDLRYCTKHYNTGKFTCIEVRFHLERQMGYYLIQM</span><span class="topo-membrane">YIPSLLIVILSWV</span></span>
-<span class="topo-line"><span class="topo-membrane">SFWI</span><span class="topo-inside">NMDA</span><span class="topo-membrane">APARVALGITTVLTMTTQSS</span><span class="topo-outside">GSRASLPKVSYVKAID</span><span class="topo-membrane">IWMAVCLLFVFSALLE</span></span>
-<span class="topo-line"><span class="topo-membrane">YAAVN</span><span class="topo-inside">FVSRAGTKVFIDRAKKI</span><span class="topo-membrane">DTISRACFPLAFLIFNIFYWVI</span><span class="topo-outside">Y</span><span class="topo-unknown">KILRHEDIHWSHPQF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">ARSRSAP</span><span class="topo-outside">MSPSDFLDKLMGRTSGYDARIRPNFKGPPVNVTCNIFINSFGSIAETTMDYRVNIFLRQKWNDPRLAYSEYPDDSLDLDPSMLDSIWKPDLFFANEKGANFHEVTTDNKLLRI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">FKNGNVLYSIRLTLTLSCPMDLKNFPMDVQTCIMQLESFGYTMNDLIFEWQDEAPVQVAEGLTLPQFLLKEEKDLRYCTKHYNTGKFTCIEVRFHLERQMGYYLIQM</span><span class="topo-membrane">YIPSLLIVILSWV</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">SFWI</span><span class="topo-inside">NMDA</span><span class="topo-membrane">APARVALGITTVLTMTTQSS</span><span class="topo-outside">GSRASLPKVSYVKAID</span><span class="topo-membrane">IWMAVCLLFVFSALLEYAAVN</span><span class="topo-inside">FVSRAGTKVFIDRAKKI</span><span class="topo-membrane">DTISRACFPLAFLIFNIFYWVI</span><span class="topo-outside">Y</span><span class="topo-unknown">KILRHEDIHWSHPQF</span></span>
+<span class="topo-ruler">  </span>
 <span class="topo-line"><span class="topo-unknown">EK</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -597,6 +611,7 @@ Human [Glycine](/xray-mp-wiki/reagents/buffers/glycine/) receptor alpha 3 (GlyRÎ
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -612,13 +627,15 @@ Human [Glycine](/xray-mp-wiki/reagents/buffers/glycine/) receptor alpha 3 (GlyRÎ
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">ARSRSAP</span><span class="topo-inside">MSPSDFLDKLMGRTSGYDARIRPNFKGPPVQVTCNIFINSFGSIAETTMDYRV</span></span>
-<span class="topo-line"><span class="topo-inside">NIFLRQKWNDPRLAYSEYPDDSLDLDPSMLDSIWKPDLFFANEKGANFHEVTTDNKLLRI</span></span>
-<span class="topo-line"><span class="topo-inside">FKNGNVLYSIRLTLTLSCPMDLKNFPMDVQTCIMQLESFGYTMNDLIFEWQDEAPVQVAE</span></span>
-<span class="topo-line"><span class="topo-inside">GLTLPQFLLKEEKDLRYCTKHYNTGKFTCIEVRFHLERQMGYYL</span><span class="topo-membrane">IQMYIPSLLIVILSWV</span></span>
-<span class="topo-line"><span class="topo-membrane">SFWI</span><span class="topo-outside">NMDA</span><span class="topo-membrane">APARVALGITTVLTMTTQSSG</span><span class="topo-inside">SRASLPKVSYVKAI</span><span class="topo-membrane">DIWMAVCLLFVFSALLE</span></span>
-<span class="topo-line"><span class="topo-membrane">YAAVN</span><span class="topo-outside">FVSRAGTKVFIDRAKKI</span><span class="topo-membrane">DTISRACFPLAFLIFNIFYWVI</span><span class="topo-inside">Y</span><span class="topo-unknown">KILRHEDIHWSHPQF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">ARSRSAP</span><span class="topo-inside">MSPSDFLDKLMGRTSGYDARIRPNFKGPPVQVTCNIFINSFGSIAETTMDYRVNIFLRQKWNDPRLAYSEYPDDSLDLDPSMLDSIWKPDLFFANEKGANFHEVTTDNKLLRI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FKNGNVLYSIRLTLTLSCPMDLKNFPMDVQTCIMQLESFGYTMNDLIFEWQDEAPVQVAEGLTLPQFLLKEEKDLRYCTKHYNTGKFTCIEVRFHLERQMGYYL</span><span class="topo-membrane">IQMYIPSLLIVILSWV</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">SFWI</span><span class="topo-outside">NMDA</span><span class="topo-membrane">APARVALGITTVLTMTTQSSG</span><span class="topo-inside">SRASLPKVSYVKAI</span><span class="topo-membrane">DIWMAVCLLFVFSALLEYAAVN</span><span class="topo-outside">FVSRAGTKVFIDRAKKI</span><span class="topo-membrane">DTISRACFPLAFLIFNIFYWVI</span><span class="topo-inside">Y</span><span class="topo-unknown">KILRHEDIHWSHPQF</span></span>
+<span class="topo-ruler">  </span>
 <span class="topo-line"><span class="topo-unknown">EK</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -693,6 +710,7 @@ Human [Glycine](/xray-mp-wiki/reagents/buffers/glycine/) receptor alpha 3 (GlyRÎ
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -708,13 +726,15 @@ Human [Glycine](/xray-mp-wiki/reagents/buffers/glycine/) receptor alpha 3 (GlyRÎ
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">ARSRS</span><span class="topo-inside">APMSPSDFLDKLMGRTSGYDARIRPNFKGPPVQVTCNIFINSFGSIAETTMDYRV</span></span>
-<span class="topo-line"><span class="topo-inside">NIFLRQKWNDPRLAYSEYPDDSLDLDPSMLDSIWKPDLFFANEKGANFHEVTTDNKLLRI</span></span>
-<span class="topo-line"><span class="topo-inside">FKNGNVLYSIRLTLTLSCPMDLKNFPMDVQTCIMQLESFGYTMNDLIFEWQDEAPVQVAE</span></span>
-<span class="topo-line"><span class="topo-inside">GLTLPQFLLKEEKDLRYCTKHYNTGKFTCIEVRFHLERQMGYYL</span><span class="topo-membrane">IQMYIPSLLIVILSWV</span></span>
-<span class="topo-line"><span class="topo-membrane">SFWI</span><span class="topo-outside">NMDA</span><span class="topo-membrane">APARVALGITTVLTMTTQSSG</span><span class="topo-inside">SRASLPKVSYVKAI</span><span class="topo-membrane">DIWMAVCLLFVFSALLE</span></span>
-<span class="topo-line"><span class="topo-membrane">YAAVN</span><span class="topo-outside">FVSRAGTKVFIDRAKKI</span><span class="topo-membrane">DTISRACFPLAFLIFNIFYWVI</span><span class="topo-inside">YKIL</span><span class="topo-unknown">RHEDIHWSHPQF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">ARSRS</span><span class="topo-inside">APMSPSDFLDKLMGRTSGYDARIRPNFKGPPVQVTCNIFINSFGSIAETTMDYRVNIFLRQKWNDPRLAYSEYPDDSLDLDPSMLDSIWKPDLFFANEKGANFHEVTTDNKLLRI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FKNGNVLYSIRLTLTLSCPMDLKNFPMDVQTCIMQLESFGYTMNDLIFEWQDEAPVQVAEGLTLPQFLLKEEKDLRYCTKHYNTGKFTCIEVRFHLERQMGYYL</span><span class="topo-membrane">IQMYIPSLLIVILSWV</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">SFWI</span><span class="topo-outside">NMDA</span><span class="topo-membrane">APARVALGITTVLTMTTQSSG</span><span class="topo-inside">SRASLPKVSYVKAI</span><span class="topo-membrane">DIWMAVCLLFVFSALLEYAAVN</span><span class="topo-outside">FVSRAGTKVFIDRAKKI</span><span class="topo-membrane">DTISRACFPLAFLIFNIFYWVI</span><span class="topo-inside">YKIL</span><span class="topo-unknown">RHEDIHWSHPQF</span></span>
+<span class="topo-ruler">  </span>
 <span class="topo-line"><span class="topo-unknown">EK</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -789,6 +809,7 @@ Human [Glycine](/xray-mp-wiki/reagents/buffers/glycine/) receptor alpha 3 (GlyRÎ
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -804,13 +825,15 @@ Human [Glycine](/xray-mp-wiki/reagents/buffers/glycine/) receptor alpha 3 (GlyRÎ
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">ARSRSAP</span><span class="topo-inside">MSPSDFLDKLMGRTSGYDARIRPNFKGPPVQVTCNIFINSFGSIAETTMDYRV</span></span>
-<span class="topo-line"><span class="topo-inside">NIFLRQKWNDPRLAYSEYPDDSLDLDPSMLDSIWKPDLFFANEKGANFHEVTTDNKLLRI</span></span>
-<span class="topo-line"><span class="topo-inside">FKNGNVLYSIRLTLTLSCPMDLKNFPMDVQTCIMQLESFGYTMNDLIFEWQDEAPVQVAE</span></span>
-<span class="topo-line"><span class="topo-inside">GLTLPQFLLKEEKDLRYCTKHYNTGKFTCIEVRFHLERQMGYYL</span><span class="topo-membrane">IQMYIPSLLIVILSWV</span></span>
-<span class="topo-line"><span class="topo-membrane">SFWI</span><span class="topo-outside">NMDA</span><span class="topo-membrane">APARVALGITTVLTMTTQSSG</span><span class="topo-inside">SRASLPKVSYVKAI</span><span class="topo-membrane">DIWMAVCLLFVFSALLE</span></span>
-<span class="topo-line"><span class="topo-membrane">YAAVN</span><span class="topo-outside">FVSRAGTKVFIDRAKKI</span><span class="topo-membrane">DTISRACFPLAFLIFNIFYWVI</span><span class="topo-inside">Y</span><span class="topo-unknown">KILRHEDIHWSHPQF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">ARSRSAP</span><span class="topo-inside">MSPSDFLDKLMGRTSGYDARIRPNFKGPPVQVTCNIFINSFGSIAETTMDYRVNIFLRQKWNDPRLAYSEYPDDSLDLDPSMLDSIWKPDLFFANEKGANFHEVTTDNKLLRI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FKNGNVLYSIRLTLTLSCPMDLKNFPMDVQTCIMQLESFGYTMNDLIFEWQDEAPVQVAEGLTLPQFLLKEEKDLRYCTKHYNTGKFTCIEVRFHLERQMGYYL</span><span class="topo-membrane">IQMYIPSLLIVILSWV</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">SFWI</span><span class="topo-outside">NMDA</span><span class="topo-membrane">APARVALGITTVLTMTTQSSG</span><span class="topo-inside">SRASLPKVSYVKAI</span><span class="topo-membrane">DIWMAVCLLFVFSALLEYAAVN</span><span class="topo-outside">FVSRAGTKVFIDRAKKI</span><span class="topo-membrane">DTISRACFPLAFLIFNIFYWVI</span><span class="topo-inside">Y</span><span class="topo-unknown">KILRHEDIHWSHPQF</span></span>
+<span class="topo-ruler">  </span>
 <span class="topo-line"><span class="topo-unknown">EK</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -885,6 +908,7 @@ Human [Glycine](/xray-mp-wiki/reagents/buffers/glycine/) receptor alpha 3 (GlyRÎ
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -900,13 +924,15 @@ Human [Glycine](/xray-mp-wiki/reagents/buffers/glycine/) receptor alpha 3 (GlyRÎ
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">ARSRSA</span><span class="topo-inside">PMSPSDFLDKLMGRTSGYDARIRPNFKGPPVQVTCNIFINSFGSIAETTMDYRV</span></span>
-<span class="topo-line"><span class="topo-inside">NIFLRQKWNDPRLAYSEYPDDSLDLDPSMLDSIWKPDLFFANEKGANFHEVTTDNKLLRI</span></span>
-<span class="topo-line"><span class="topo-inside">FKNGNVLYSIRLTLTLSCPMDLKNFPMDVQTCIMQLESFGYTMNDLIFEWQDEAPVQVAE</span></span>
-<span class="topo-line"><span class="topo-inside">GLTLPQFLLKEEKDLRYCTKHYNTGKFTCIEVRFHLERQMGYYL</span><span class="topo-membrane">IQMYIPSLLIVILSWV</span></span>
-<span class="topo-line"><span class="topo-membrane">SFWI</span><span class="topo-outside">NMDA</span><span class="topo-membrane">APARVALGITTVLTMTTQSSG</span><span class="topo-inside">SRASLPKVSYVKAI</span><span class="topo-membrane">DIWMAVCLLFVFSALLE</span></span>
-<span class="topo-line"><span class="topo-membrane">YAAVN</span><span class="topo-outside">FVSRAGTKVFIDRAKKI</span><span class="topo-membrane">DTISRACFPLAFLIFNIFYWVI</span><span class="topo-inside">YKI</span><span class="topo-unknown">LRHEDIHWSHPQF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">ARSRSA</span><span class="topo-inside">PMSPSDFLDKLMGRTSGYDARIRPNFKGPPVQVTCNIFINSFGSIAETTMDYRVNIFLRQKWNDPRLAYSEYPDDSLDLDPSMLDSIWKPDLFFANEKGANFHEVTTDNKLLRI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FKNGNVLYSIRLTLTLSCPMDLKNFPMDVQTCIMQLESFGYTMNDLIFEWQDEAPVQVAEGLTLPQFLLKEEKDLRYCTKHYNTGKFTCIEVRFHLERQMGYYL</span><span class="topo-membrane">IQMYIPSLLIVILSWV</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">SFWI</span><span class="topo-outside">NMDA</span><span class="topo-membrane">APARVALGITTVLTMTTQSSG</span><span class="topo-inside">SRASLPKVSYVKAI</span><span class="topo-membrane">DIWMAVCLLFVFSALLEYAAVN</span><span class="topo-outside">FVSRAGTKVFIDRAKKI</span><span class="topo-membrane">DTISRACFPLAFLIFNIFYWVI</span><span class="topo-inside">YKI</span><span class="topo-unknown">LRHEDIHWSHPQF</span></span>
+<span class="topo-ruler">  </span>
 <span class="topo-line"><span class="topo-unknown">EK</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -981,6 +1007,7 @@ Human [Glycine](/xray-mp-wiki/reagents/buffers/glycine/) receptor alpha 3 (GlyRÎ
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -996,13 +1023,15 @@ Human [Glycine](/xray-mp-wiki/reagents/buffers/glycine/) receptor alpha 3 (GlyRÎ
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">ARSRSAP</span><span class="topo-inside">MSPSDFLDKLMGRTSGYDARIRPNFKGPPVQVTCNIFINSFGSIAETTMDYRV</span></span>
-<span class="topo-line"><span class="topo-inside">NIFLRQKWNDPRLAYSEYPDDSLDLDPSMLDSIWKPDLFFANEKGANFHEVTTDNKLLRI</span></span>
-<span class="topo-line"><span class="topo-inside">FKNGNVLYSIRLTLTLSCPMDLKNFPMDVQTCIMQLESFGYTMNDLIFEWQDEAPVQVAE</span></span>
-<span class="topo-line"><span class="topo-inside">GLTLPQFLLKEEKDLRYCTKHYNTGKFTCIEVRFHLERQMGYYL</span><span class="topo-membrane">IQMYIPSLLIVILSWV</span></span>
-<span class="topo-line"><span class="topo-membrane">SFWI</span><span class="topo-outside">NMDA</span><span class="topo-membrane">APARVALGITTVLTMTTQSSG</span><span class="topo-inside">SRASLPKVSYVKAI</span><span class="topo-membrane">DIWMAVCLLFVFSALLE</span></span>
-<span class="topo-line"><span class="topo-membrane">YAAVN</span><span class="topo-outside">FVSRAGTKVFIDRAKKI</span><span class="topo-membrane">DTISRACFPLAFLIFNIFYWVI</span><span class="topo-inside">Y</span><span class="topo-unknown">KILRHEDIHWSHPQF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">ARSRSAP</span><span class="topo-inside">MSPSDFLDKLMGRTSGYDARIRPNFKGPPVQVTCNIFINSFGSIAETTMDYRVNIFLRQKWNDPRLAYSEYPDDSLDLDPSMLDSIWKPDLFFANEKGANFHEVTTDNKLLRI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FKNGNVLYSIRLTLTLSCPMDLKNFPMDVQTCIMQLESFGYTMNDLIFEWQDEAPVQVAEGLTLPQFLLKEEKDLRYCTKHYNTGKFTCIEVRFHLERQMGYYL</span><span class="topo-membrane">IQMYIPSLLIVILSWV</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">SFWI</span><span class="topo-outside">NMDA</span><span class="topo-membrane">APARVALGITTVLTMTTQSSG</span><span class="topo-inside">SRASLPKVSYVKAI</span><span class="topo-membrane">DIWMAVCLLFVFSALLEYAAVN</span><span class="topo-outside">FVSRAGTKVFIDRAKKI</span><span class="topo-membrane">DTISRACFPLAFLIFNIFYWVI</span><span class="topo-inside">Y</span><span class="topo-unknown">KILRHEDIHWSHPQF</span></span>
+<span class="topo-ruler">  </span>
 <span class="topo-line"><span class="topo-unknown">EK</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1077,6 +1106,7 @@ Human [Glycine](/xray-mp-wiki/reagents/buffers/glycine/) receptor alpha 3 (GlyRÎ
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

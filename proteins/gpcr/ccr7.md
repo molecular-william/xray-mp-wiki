@@ -148,20 +148,21 @@ chemotypes with selectivity across chemokine receptor subtypes.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GPGSSLCSKK</span><span class="topo-outside">DVRNFKAWF</span><span class="topo-membrane">LPIMYSIICFVGLLGNGLVVLTYIY</span><span class="topo-inside">FKRLKTMT</span><span class="topo-membrane">DTYLLNLA</span></span>
-<span class="topo-line"><span class="topo-membrane">VADILFLLTLPFWAY</span><span class="topo-outside">SAAKSWVFGVH</span><span class="topo-membrane">FCKLIFAIYKMSFFSGMWLLLCIS</span><span class="topo-inside">IDRYVAIV</span><span class="topo-unknown">QA</span></span>
-<span class="topo-line"><span class="topo-unknown">VSA</span><span class="topo-inside">HRHRARVLLISK</span><span class="topo-membrane">LSCVGIWILATVLSIPELLYS</span><span class="topo-outside">DLQRSSSEQAMRCSLITEHVE</span><span class="topo-membrane">AFI</span></span>
-<span class="topo-line"><span class="topo-membrane">TIQVAQMVIGFLVPLLAMSF</span><span class="topo-inside">CYLVIISKLHALTEKTDIFESGRNGNPNKDGIKSYRIPAL</span></span>
-<span class="topo-line"><span class="topo-inside">LKTDKGTLIAGADERRLHSSDWGDIGMVIRRSEDNGKTWGDRVTITNLRDNPKASDPSIG</span></span>
-<span class="topo-line"><span class="topo-inside">SPVNIDMVLVQDPETKRIFSIYDMFPEGKGIFGMSSQKEEAYKKIDGKTYQILYREGEKG</span></span>
-<span class="topo-line"><span class="topo-inside">AYTIRENGTVYTPDGKATDYRVVVDPVKPAYSDKGDLYKGDQLLGNIYFTTNKTSPFRIA</span></span>
-<span class="topo-line"><span class="topo-inside">KDSYLWMSYSDDDGKTWSAPQDITPMVKADWMKFLGVGPGTGIVLRNGPHKGRILIPVYT</span></span>
-<span class="topo-line"><span class="topo-inside">TNNVSHLDGSQSSRVIYSDDHGKTWHAGEAVNDNRQVDGQKIHSSTMNNRRAQNTESTVV</span></span>
-<span class="topo-line"><span class="topo-inside">QLNNGDVKLFMRGLTGDLQVATSKDGGVTWEKDIKRYPQVKDVYVQMSAIHTMHEGKEYI</span></span>
-<span class="topo-line"><span class="topo-inside">ILSNAGGPKRENGMVHLARVEENGELTWLKHNPIQKGEFAYNSLQELGNGEYGILYEHTE</span></span>
-<span class="topo-line"><span class="topo-inside">KGQNAYTLSFRKFNWEFLSKSKGHERN</span><span class="topo-unknown">KA</span><span class="topo-inside">IKV</span><span class="topo-membrane">IIAVVVVFIVFQLPYNGVVLAQTV</span><span class="topo-unknown">ANFN</span></span>
-<span class="topo-line"><span class="topo-unknown">ITSS</span><span class="topo-outside">TCELSKQ</span><span class="topo-membrane">LNIAYDVTYSLACVRCCVNPFLYAFIG</span><span class="topo-inside">VKFRNDLFKLF</span><span class="topo-unknown">KDLGCLSGGRL</span></span>
-<span class="topo-line"><span class="topo-unknown">EVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GPGSSLCSKK</span><span class="topo-outside">DVRNFKAWF</span><span class="topo-membrane">LPIMYSIICFVGLLGNGLVVLTYIY</span><span class="topo-inside">FKRLKTMT</span><span class="topo-membrane">DTYLLNLAVADILFLLTLPFWAY</span><span class="topo-outside">SAAKSWVFGVH</span><span class="topo-membrane">FCKLIFAIYKMSFFSGMWLLLCIS</span><span class="topo-inside">IDRYVAIV</span><span class="topo-unknown">QA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-unknown">VSA</span><span class="topo-inside">HRHRARVLLISK</span><span class="topo-membrane">LSCVGIWILATVLSIPELLYS</span><span class="topo-outside">DLQRSSSEQAMRCSLITEHVE</span><span class="topo-membrane">AFITIQVAQMVIGFLVPLLAMSF</span><span class="topo-inside">CYLVIISKLHALTEKTDIFESGRNGNPNKDGIKSYRIPAL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">LKTDKGTLIAGADERRLHSSDWGDIGMVIRRSEDNGKTWGDRVTITNLRDNPKASDPSIGSPVNIDMVLVQDPETKRIFSIYDMFPEGKGIFGMSSQKEEAYKKIDGKTYQILYREGEKG</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">AYTIRENGTVYTPDGKATDYRVVVDPVKPAYSDKGDLYKGDQLLGNIYFTTNKTSPFRIAKDSYLWMSYSDDDGKTWSAPQDITPMVKADWMKFLGVGPGTGIVLRNGPHKGRILIPVYT</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-inside">TNNVSHLDGSQSSRVIYSDDHGKTWHAGEAVNDNRQVDGQKIHSSTMNNRRAQNTESTVVQLNNGDVKLFMRGLTGDLQVATSKDGGVTWEKDIKRYPQVKDVYVQMSAIHTMHEGKEYI</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-inside">ILSNAGGPKRENGMVHLARVEENGELTWLKHNPIQKGEFAYNSLQELGNGEYGILYEHTEKGQNAYTLSFRKFNWEFLSKSKGHERN</span><span class="topo-unknown">KA</span><span class="topo-inside">IKV</span><span class="topo-membrane">IIAVVVVFIVFQLPYNGVVLAQTV</span><span class="topo-unknown">ANFN</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780     </span>
+<span class="topo-line"><span class="topo-unknown">ITSS</span><span class="topo-outside">TCELSKQ</span><span class="topo-membrane">LNIAYDVTYSLACVRCCVNPFLYAFIG</span><span class="topo-inside">VKFRNDLFKLF</span><span class="topo-unknown">KDLGCLSGGRLEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (24 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -341,6 +342,7 @@ chemotypes with selectivity across chemokine receptor subtypes.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

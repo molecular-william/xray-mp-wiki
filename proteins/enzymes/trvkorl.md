@@ -172,13 +172,15 @@ TrVKORL is a [Vitamin K](/xray-mp-wiki/reagents/cofactors/vitamin-k/) epoxide re
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MSKGEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATNGKLTLKFICTTGKLPVPWPTL</span></span>
-<span class="topo-line"><span class="topo-inside">VTTL</span><span class="topo-unknown">G</span><span class="topo-inside">VQCFSRYPDHMKRHDFFKSAMPEGYVQERTISFKDDGTYKTRAEVKFEGDTLVNR</span></span>
-<span class="topo-line"><span class="topo-inside">IELKGIDFKEDGNILGHKLEYNLRVSTPRWERI</span><span class="topo-membrane">ARVLVCLLGILLSLYAFHVE</span><span class="topo-outside">REHARDP</span></span>
-<span class="topo-line"><span class="topo-outside">SYKALCDVSSSISCSKVFGSRWGRGFGLL</span><span class="topo-membrane">GSIFGNDSALNQPNSVYGIVFYAFQLLLG</span><span class="topo-inside">MT</span></span>
-<span class="topo-line"><span class="topo-inside">VSAMAALI</span><span class="topo-membrane">LMTTSIMSVVGSLYLGYILYFV</span><span class="topo-outside">LKDL</span><span class="topo-membrane">CVICVTTYALNFILFVLN</span><span class="topo-inside">YKRLVYLN</span></span>
-<span class="topo-line"><span class="topo-inside">EAWKQKL</span><span class="topo-unknown">QA</span><span class="topo-inside">KQDNSHNVYITADKQKNGIKANFKIRHNVEDGSVQLADHYQQNTPIGDGPV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">MSKGEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATNGKLTLKFICTTGKLPVPWPTLVTTL</span><span class="topo-unknown">G</span><span class="topo-inside">VQCFSRYPDHMKRHDFFKSAMPEGYVQERTISFKDDGTYKTRAEVKFEGDTLVNR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">IELKGIDFKEDGNILGHKLEYNLRVSTPRWERI</span><span class="topo-membrane">ARVLVCLLGILLSLYAFHVE</span><span class="topo-outside">REHARDPSYKALCDVSSSISCSKVFGSRWGRGFGLL</span><span class="topo-membrane">GSIFGNDSALNQPNSVYGIVFYAFQLLLG</span><span class="topo-inside">MT</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">VSAMAALI</span><span class="topo-membrane">LMTTSIMSVVGSLYLGYILYFV</span><span class="topo-outside">LKDL</span><span class="topo-membrane">CVICVTTYALNFILFVLN</span><span class="topo-inside">YKRLVYLNEAWKQKL</span><span class="topo-unknown">QA</span><span class="topo-inside">KQDNSHNVYITADKQKNGIKANFKIRHNVEDGSVQLADHYQQNTPIGDGPV</span></span>
+<span class="topo-ruler">       370       380       390       400       410    </span>
 <span class="topo-line"><span class="topo-inside">LLPDNHYLSTQSVLSKDPNEKRDHMVLLEFVTAAGITHGMDELYKSNSLEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (13 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -281,6 +283,7 @@ TrVKORL is a [Vitamin K](/xray-mp-wiki/reagents/cofactors/vitamin-k/) epoxide re
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -296,13 +299,15 @@ TrVKORL is a [Vitamin K](/xray-mp-wiki/reagents/cofactors/vitamin-k/) epoxide re
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MS</span><span class="topo-inside">KGEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATNGKLTLKFICTTGKLPVPWPTL</span></span>
-<span class="topo-line"><span class="topo-inside">VTTL</span><span class="topo-unknown">G</span><span class="topo-inside">VQCFSRYPDHMKRHDFFKSAMPEGYVQERTISFKDDGTYKTRAEVKFEGDTLVNR</span></span>
-<span class="topo-line"><span class="topo-inside">IELKGIDFKEDGNILGHKLEYNLRVSTPRWERI</span><span class="topo-membrane">ARVLVCLLGILLSLYAF</span><span class="topo-outside">HVEREHARDP</span></span>
-<span class="topo-line"><span class="topo-outside">SYKALCDVSSSISCSKVFGSRWGRGFGLLGSIFGNDSALNQPN</span><span class="topo-membrane">SVYGIVFYAFQLLLG</span><span class="topo-inside">MT</span></span>
-<span class="topo-line"><span class="topo-inside">VSAMAAL</span><span class="topo-membrane">ILMTTSIMSVVGSLYLGY</span><span class="topo-outside">ILYFVLKDLC</span><span class="topo-membrane">VICVTTYALNFILFVLN</span><span class="topo-inside">YKRLVYLN</span></span>
-<span class="topo-line"><span class="topo-inside">EAWKQKLQAKQDNSHNVYITADKQKNGIKANFKIRHNVEDGSVQLADHYQQNTPIGDGPV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MS</span><span class="topo-inside">KGEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATNGKLTLKFICTTGKLPVPWPTLVTTL</span><span class="topo-unknown">G</span><span class="topo-inside">VQCFSRYPDHMKRHDFFKSAMPEGYVQERTISFKDDGTYKTRAEVKFEGDTLVNR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">IELKGIDFKEDGNILGHKLEYNLRVSTPRWERI</span><span class="topo-membrane">ARVLVCLLGILLSLYAF</span><span class="topo-outside">HVEREHARDPSYKALCDVSSSISCSKVFGSRWGRGFGLLGSIFGNDSALNQPN</span><span class="topo-membrane">SVYGIVFYAFQLLLG</span><span class="topo-inside">MT</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">VSAMAAL</span><span class="topo-membrane">ILMTTSIMSVVGSLYLGY</span><span class="topo-outside">ILYFVLKDLC</span><span class="topo-membrane">VICVTTYALNFILFVLN</span><span class="topo-inside">YKRLVYLNEAWKQKLQAKQDNSHNVYITADKQKNGIKANFKIRHNVEDGSVQLADHYQQNTPIGDGPV</span></span>
+<span class="topo-ruler">       370       380       390       400       410    </span>
 <span class="topo-line"><span class="topo-inside">LLPDNHYLSTQSVLSKDPNEKRDHMVLLEFVTAAGITH</span><span class="topo-unknown">GMD</span><span class="topo-inside">ELYKSNSLEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (14 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -412,6 +417,7 @@ TrVKORL is a [Vitamin K](/xray-mp-wiki/reagents/cofactors/vitamin-k/) epoxide re
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -427,13 +433,15 @@ TrVKORL is a [Vitamin K](/xray-mp-wiki/reagents/cofactors/vitamin-k/) epoxide re
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MSKGEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATNGKLTLKFICTTGKLPVPWPTL</span></span>
-<span class="topo-line"><span class="topo-inside">VTTL</span><span class="topo-unknown">G</span><span class="topo-inside">VQCFSRYPDHMKRHDFFKSAMPEGYVQERTISFKDDGTYKTRAEVKFEGDTLVNR</span></span>
-<span class="topo-line"><span class="topo-inside">IELKGIDFKEDGNILGHKLEYNLRVSTPRWERI</span><span class="topo-membrane">ARVLVCLLGILLSLYAF</span><span class="topo-outside">HVEREHARDP</span></span>
-<span class="topo-line"><span class="topo-outside">SYKALCDVSSSISCSKVFGSRWGRGFGLLGSIFGNDS</span><span class="topo-membrane">ALNQPNSVYGIVFYAFQLLL</span><span class="topo-inside">GMT</span></span>
-<span class="topo-line"><span class="topo-inside">VSAMAALI</span><span class="topo-membrane">LMTTSIMSVVGSLYLGYILY</span><span class="topo-outside">FVLKDLC</span><span class="topo-membrane">VICVTTYALNFILFVL</span><span class="topo-inside">NYKRLVYLN</span></span>
-<span class="topo-line"><span class="topo-inside">EAWKQKL</span><span class="topo-unknown">QA</span><span class="topo-inside">KQDNSHNVYITADKQKNGIKANFKIRHNVEDGSVQLADHYQQNTPIGDGPV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">MSKGEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATNGKLTLKFICTTGKLPVPWPTLVTTL</span><span class="topo-unknown">G</span><span class="topo-inside">VQCFSRYPDHMKRHDFFKSAMPEGYVQERTISFKDDGTYKTRAEVKFEGDTLVNR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">IELKGIDFKEDGNILGHKLEYNLRVSTPRWERI</span><span class="topo-membrane">ARVLVCLLGILLSLYAF</span><span class="topo-outside">HVEREHARDPSYKALCDVSSSISCSKVFGSRWGRGFGLLGSIFGNDS</span><span class="topo-membrane">ALNQPNSVYGIVFYAFQLLL</span><span class="topo-inside">GMT</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">VSAMAALI</span><span class="topo-membrane">LMTTSIMSVVGSLYLGYILY</span><span class="topo-outside">FVLKDLC</span><span class="topo-membrane">VICVTTYALNFILFVL</span><span class="topo-inside">NYKRLVYLNEAWKQKL</span><span class="topo-unknown">QA</span><span class="topo-inside">KQDNSHNVYITADKQKNGIKANFKIRHNVEDGSVQLADHYQQNTPIGDGPV</span></span>
+<span class="topo-ruler">       370       380       390       400       410    </span>
 <span class="topo-line"><span class="topo-inside">LLPDNHYLSTQSVLSKDPNEKRDHMVLLEFVTAAGITHGMDELYKSNSLEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -522,6 +530,7 @@ TrVKORL is a [Vitamin K](/xray-mp-wiki/reagents/cofactors/vitamin-k/) epoxide re
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -537,13 +546,15 @@ TrVKORL is a [Vitamin K](/xray-mp-wiki/reagents/cofactors/vitamin-k/) epoxide re
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MSKGEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATNGKLTLKFICTTGKLPVPWPTL</span></span>
-<span class="topo-line"><span class="topo-inside">VTTL</span><span class="topo-unknown">G</span><span class="topo-inside">VQCFSRYPDHMKRHDFFKSAMPEGYVQERTISFKDDGTYKTRAEVKFEGDTLVNR</span></span>
-<span class="topo-line"><span class="topo-inside">IELKGIDFKEDGNILGHKLEYNLRVSTPRWERI</span><span class="topo-membrane">ARVLVCLLGILLSLYAFH</span><span class="topo-outside">VEREHARDP</span></span>
-<span class="topo-line"><span class="topo-outside">SYKALCDVSSSISCSKVFGSRWGRGFGLLGSIFGNDS</span><span class="topo-membrane">ALNQPNSVYGIVFYAFQLLL</span><span class="topo-inside">GMT</span></span>
-<span class="topo-line"><span class="topo-inside">VSAMAALIL</span><span class="topo-membrane">MTTSIMSVVGSLYLGYILYFV</span><span class="topo-outside">LKDL</span><span class="topo-membrane">CVICVTTYALNFILFV</span><span class="topo-inside">LNYKRLVYLN</span></span>
-<span class="topo-line"><span class="topo-inside">EAWKQKL</span><span class="topo-unknown">QA</span><span class="topo-inside">KQDNSHNVYITADKQKNGIKANFKIRHNVEDGSVQLADHYQQNTPIGDGPV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">MSKGEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATNGKLTLKFICTTGKLPVPWPTLVTTL</span><span class="topo-unknown">G</span><span class="topo-inside">VQCFSRYPDHMKRHDFFKSAMPEGYVQERTISFKDDGTYKTRAEVKFEGDTLVNR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">IELKGIDFKEDGNILGHKLEYNLRVSTPRWERI</span><span class="topo-membrane">ARVLVCLLGILLSLYAFH</span><span class="topo-outside">VEREHARDPSYKALCDVSSSISCSKVFGSRWGRGFGLLGSIFGNDS</span><span class="topo-membrane">ALNQPNSVYGIVFYAFQLLL</span><span class="topo-inside">GMT</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">VSAMAALIL</span><span class="topo-membrane">MTTSIMSVVGSLYLGYILYFV</span><span class="topo-outside">LKDL</span><span class="topo-membrane">CVICVTTYALNFILFV</span><span class="topo-inside">LNYKRLVYLNEAWKQKL</span><span class="topo-unknown">QA</span><span class="topo-inside">KQDNSHNVYITADKQKNGIKANFKIRHNVEDGSVQLADHYQQNTPIGDGPV</span></span>
+<span class="topo-ruler">       370       380       390       400       410    </span>
 <span class="topo-line"><span class="topo-inside">LLPDNHYLSTQSVLSKDPNEKRDHMVLLEFVTAAGITHGMDELYKSNSLEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -632,6 +643,7 @@ TrVKORL is a [Vitamin K](/xray-mp-wiki/reagents/cofactors/vitamin-k/) epoxide re
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

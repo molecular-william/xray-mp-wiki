@@ -265,11 +265,13 @@ HSC (hydrosulfide channel) is a pentameric membrane channel from Clostridium dif
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MG</span><span class="topo-inside">RA</span><span class="topo-unknown">HKETLDKLTNAAINKINLLNT</span><span class="topo-inside">SKVKY</span><span class="topo-membrane">LVSSAFAGLYVGIGILLIF</span><span class="topo-outside">TIGGLLTDAGS</span></span>
-<span class="topo-line"><span class="topo-outside">PMTKI</span><span class="topo-membrane">VMGLSFAIALSLVIMTG</span><span class="topo-inside">T</span><span class="topo-unknown">ELFTGNNMVMS</span><span class="topo-inside">AGMLNKGVSIKDT</span><span class="topo-membrane">SKIWAYSWVGNLI</span></span>
-<span class="topo-line"><span class="topo-membrane">GALVLGIIFVGT</span><span class="topo-outside">GLVDKG</span><span class="topo-unknown">PVAEFFANTAASKAS</span><span class="topo-outside">MPF</span><span class="topo-membrane">TALFFRGILCNILVCVSVLCS</span><span class="topo-inside">FRT</span></span>
-<span class="topo-line"><span class="topo-inside">NS</span><span class="topo-membrane">DTAKIIMIFLCLFAFITS</span><span class="topo-outside">G</span><span class="topo-unknown">FEHSVANMTIYSV</span><span class="topo-outside">SLFSPTISTVTIGGA</span><span class="topo-membrane">IYNLVAVTLGN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MG</span><span class="topo-inside">RA</span><span class="topo-unknown">HKETLDKLTNAAINKINLLNT</span><span class="topo-inside">SKVKY</span><span class="topo-membrane">LVSSAFAGLYVGIGILLIF</span><span class="topo-outside">TIGGLLTDAGSPMTKI</span><span class="topo-membrane">VMGLSFAIALSLVIMTG</span><span class="topo-inside">T</span><span class="topo-unknown">ELFTGNNMVMS</span><span class="topo-inside">AGMLNKGVSIKDT</span><span class="topo-membrane">SKIWAYSWVGNLI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GALVLGIIFVGT</span><span class="topo-outside">GLVDKG</span><span class="topo-unknown">PVAEFFANTAASKAS</span><span class="topo-outside">MPF</span><span class="topo-membrane">TALFFRGILCNILVCVSVLCS</span><span class="topo-inside">FRTNS</span><span class="topo-membrane">DTAKIIMIFLCLFAFITS</span><span class="topo-outside">G</span><span class="topo-unknown">FEHSVANMTIYSV</span><span class="topo-outside">SLFSPTISTVTIGGA</span><span class="topo-membrane">IYNLVAVTLGN</span></span>
+<span class="topo-ruler">       250       260        </span>
 <span class="topo-line"><span class="topo-membrane">IVGGALFMGLGT</span><span class="topo-inside">YILGKEK</span><span class="topo-unknown">LNAAAENLY</span></span>
+<details class="topo-details"><summary>Topology coordinates (23 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -442,6 +444,7 @@ HSC (hydrosulfide channel) is a pentameric membrane channel from Clostridium dif
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -457,11 +460,13 @@ HSC (hydrosulfide channel) is a pentameric membrane channel from Clostridium dif
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MG</span><span class="topo-inside">RA</span><span class="topo-unknown">HKETLDKLTNAAINKINLLNT</span><span class="topo-inside">SKVKY</span><span class="topo-membrane">LVSSAFAGLYVGIGILLIF</span><span class="topo-outside">TIGGLLTDAGS</span></span>
-<span class="topo-line"><span class="topo-outside">PMTKI</span><span class="topo-membrane">VMGLSFAIALSLVIMTG</span><span class="topo-inside">T</span><span class="topo-unknown">ELFTGNNMVMS</span><span class="topo-inside">AGMLNKGVSIKDT</span><span class="topo-membrane">SKIWAYSWVGNLI</span></span>
-<span class="topo-line"><span class="topo-membrane">GALVLGIIFVGT</span><span class="topo-outside">GLVDKG</span><span class="topo-unknown">PVAEFFANTAASKAS</span><span class="topo-outside">MPF</span><span class="topo-membrane">TALFFRGILCNILVCVSVLCS</span><span class="topo-inside">FRT</span></span>
-<span class="topo-line"><span class="topo-inside">NS</span><span class="topo-membrane">DTAKIIMIFLCLFAFITS</span><span class="topo-outside">G</span><span class="topo-unknown">FEHSVANMTIYSV</span><span class="topo-outside">SLFSPTISTVTIGGA</span><span class="topo-membrane">IYNLVAVTLGN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MG</span><span class="topo-inside">RA</span><span class="topo-unknown">HKETLDKLTNAAINKINLLNT</span><span class="topo-inside">SKVKY</span><span class="topo-membrane">LVSSAFAGLYVGIGILLIF</span><span class="topo-outside">TIGGLLTDAGSPMTKI</span><span class="topo-membrane">VMGLSFAIALSLVIMTG</span><span class="topo-inside">T</span><span class="topo-unknown">ELFTGNNMVMS</span><span class="topo-inside">AGMLNKGVSIKDT</span><span class="topo-membrane">SKIWAYSWVGNLI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GALVLGIIFVGT</span><span class="topo-outside">GLVDKG</span><span class="topo-unknown">PVAEFFANTAASKAS</span><span class="topo-outside">MPF</span><span class="topo-membrane">TALFFRGILCNILVCVSVLCS</span><span class="topo-inside">FRTNS</span><span class="topo-membrane">DTAKIIMIFLCLFAFITS</span><span class="topo-outside">G</span><span class="topo-unknown">FEHSVANMTIYSV</span><span class="topo-outside">SLFSPTISTVTIGGA</span><span class="topo-membrane">IYNLVAVTLGN</span></span>
+<span class="topo-ruler">       250       260        </span>
 <span class="topo-line"><span class="topo-membrane">IVGGALFMGLGT</span><span class="topo-inside">YILGKEK</span><span class="topo-unknown">LNAAAENLY</span></span>
+<details class="topo-details"><summary>Topology coordinates (23 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -634,6 +639,7 @@ HSC (hydrosulfide channel) is a pentameric membrane channel from Clostridium dif
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -649,11 +655,13 @@ HSC (hydrosulfide channel) is a pentameric membrane channel from Clostridium dif
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MG</span><span class="topo-inside">RA</span><span class="topo-unknown">HKETLDKLTNAAINKINLLNT</span><span class="topo-inside">SKVKY</span><span class="topo-membrane">LVSSAFAGLYVGIGILLIF</span><span class="topo-outside">TIGGLLTDAGS</span></span>
-<span class="topo-line"><span class="topo-outside">PMTKI</span><span class="topo-membrane">VMGLSFAIALSLVIMTG</span><span class="topo-inside">T</span><span class="topo-unknown">ELFTGNNMVMS</span><span class="topo-inside">AGMLNKGVSIKDT</span><span class="topo-membrane">SKIWAYSWVGNLI</span></span>
-<span class="topo-line"><span class="topo-membrane">GALVLGIIFVGT</span><span class="topo-outside">GLVDKG</span><span class="topo-unknown">PVAEFFANTAASKA</span><span class="topo-outside">SMPF</span><span class="topo-membrane">TALFFRGILCNILVCVSVLCS</span><span class="topo-inside">FRT</span></span>
-<span class="topo-line"><span class="topo-inside">NS</span><span class="topo-membrane">DTAKIIMIFLCLFAFITSG</span><span class="topo-outside">F</span><span class="topo-unknown">EHSVANMTIYSV</span><span class="topo-outside">SLFSPTISTVTIGGA</span><span class="topo-membrane">IYNLVAVTLGN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MG</span><span class="topo-inside">RA</span><span class="topo-unknown">HKETLDKLTNAAINKINLLNT</span><span class="topo-inside">SKVKY</span><span class="topo-membrane">LVSSAFAGLYVGIGILLIF</span><span class="topo-outside">TIGGLLTDAGSPMTKI</span><span class="topo-membrane">VMGLSFAIALSLVIMTG</span><span class="topo-inside">T</span><span class="topo-unknown">ELFTGNNMVMS</span><span class="topo-inside">AGMLNKGVSIKDT</span><span class="topo-membrane">SKIWAYSWVGNLI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GALVLGIIFVGT</span><span class="topo-outside">GLVDKG</span><span class="topo-unknown">PVAEFFANTAASKA</span><span class="topo-outside">SMPF</span><span class="topo-membrane">TALFFRGILCNILVCVSVLCS</span><span class="topo-inside">FRTNS</span><span class="topo-membrane">DTAKIIMIFLCLFAFITSG</span><span class="topo-outside">F</span><span class="topo-unknown">EHSVANMTIYSV</span><span class="topo-outside">SLFSPTISTVTIGGA</span><span class="topo-membrane">IYNLVAVTLGN</span></span>
+<span class="topo-ruler">       250       260        </span>
 <span class="topo-line"><span class="topo-membrane">IVGGALFMGLGT</span><span class="topo-inside">YILGKEKLNAAAENLY</span></span>
+<details class="topo-details"><summary>Topology coordinates (22 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -819,6 +827,7 @@ HSC (hydrosulfide channel) is a pentameric membrane channel from Clostridium dif
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -834,11 +843,13 @@ HSC (hydrosulfide channel) is a pentameric membrane channel from Clostridium dif
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MG</span><span class="topo-inside">RA</span><span class="topo-unknown">HKETLDKLTNAAINKINLLNT</span><span class="topo-inside">SKVKY</span><span class="topo-membrane">LVSSAFAGLYVGIGILLIF</span><span class="topo-outside">TIGGLLTDAGS</span></span>
-<span class="topo-line"><span class="topo-outside">PMTKI</span><span class="topo-membrane">VMGLSFAIALSLVIMTG</span><span class="topo-inside">T</span><span class="topo-unknown">ELFTGNNMVMS</span><span class="topo-inside">AGMLNKGVSIKDT</span><span class="topo-membrane">SKIWAYSWVGNLI</span></span>
-<span class="topo-line"><span class="topo-membrane">GALVLGIIFVGT</span><span class="topo-outside">GLVDKG</span><span class="topo-unknown">PVAEFFANTAASKAS</span><span class="topo-outside">MPF</span><span class="topo-membrane">TALFFRGILCNILVCVSVLCS</span><span class="topo-inside">FRT</span></span>
-<span class="topo-line"><span class="topo-inside">NS</span><span class="topo-membrane">DTAKIIMIFLCLFAFITS</span><span class="topo-outside">G</span><span class="topo-unknown">FEHSVANMTIYSV</span><span class="topo-outside">SLFSPTISTVTIGGA</span><span class="topo-membrane">IYNLVAVTLGN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MG</span><span class="topo-inside">RA</span><span class="topo-unknown">HKETLDKLTNAAINKINLLNT</span><span class="topo-inside">SKVKY</span><span class="topo-membrane">LVSSAFAGLYVGIGILLIF</span><span class="topo-outside">TIGGLLTDAGSPMTKI</span><span class="topo-membrane">VMGLSFAIALSLVIMTG</span><span class="topo-inside">T</span><span class="topo-unknown">ELFTGNNMVMS</span><span class="topo-inside">AGMLNKGVSIKDT</span><span class="topo-membrane">SKIWAYSWVGNLI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GALVLGIIFVGT</span><span class="topo-outside">GLVDKG</span><span class="topo-unknown">PVAEFFANTAASKAS</span><span class="topo-outside">MPF</span><span class="topo-membrane">TALFFRGILCNILVCVSVLCS</span><span class="topo-inside">FRTNS</span><span class="topo-membrane">DTAKIIMIFLCLFAFITS</span><span class="topo-outside">G</span><span class="topo-unknown">FEHSVANMTIYSV</span><span class="topo-outside">SLFSPTISTVTIGGA</span><span class="topo-membrane">IYNLVAVTLGN</span></span>
+<span class="topo-ruler">       250       260        </span>
 <span class="topo-line"><span class="topo-membrane">IVGGALFMGLGT</span><span class="topo-inside">YILGKEK</span><span class="topo-unknown">LNAAAENLY</span></span>
+<details class="topo-details"><summary>Topology coordinates (23 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1011,6 +1022,7 @@ HSC (hydrosulfide channel) is a pentameric membrane channel from Clostridium dif
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1026,11 +1038,13 @@ HSC (hydrosulfide channel) is a pentameric membrane channel from Clostridium dif
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MG</span><span class="topo-inside">RA</span><span class="topo-unknown">HKETLDKLTNAAINKINLLNT</span><span class="topo-inside">SKVKY</span><span class="topo-membrane">LVSSAFAGLYVGIGILLIF</span><span class="topo-outside">TIGGLLTDAGS</span></span>
-<span class="topo-line"><span class="topo-outside">PMTKI</span><span class="topo-membrane">VMGLSFAIALSLVIMTG</span><span class="topo-inside">T</span><span class="topo-unknown">ELFTGNNMVMS</span><span class="topo-inside">AGMLNKGVSIKDT</span><span class="topo-membrane">SKIWAYSWVGNLI</span></span>
-<span class="topo-line"><span class="topo-membrane">GALVLGIIFVGT</span><span class="topo-outside">GLVDKG</span><span class="topo-unknown">PVAEFFANTAASKAS</span><span class="topo-outside">MPF</span><span class="topo-membrane">TALFFRGILCNILVCVSVLCS</span><span class="topo-inside">FRT</span></span>
-<span class="topo-line"><span class="topo-inside">NS</span><span class="topo-membrane">DTAKIIMIFLCLFAFITS</span><span class="topo-outside">G</span><span class="topo-unknown">FEHSVANMTIYSV</span><span class="topo-outside">SLFSPTISTVTIGGA</span><span class="topo-membrane">IYNLVAVTLGN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MG</span><span class="topo-inside">RA</span><span class="topo-unknown">HKETLDKLTNAAINKINLLNT</span><span class="topo-inside">SKVKY</span><span class="topo-membrane">LVSSAFAGLYVGIGILLIF</span><span class="topo-outside">TIGGLLTDAGSPMTKI</span><span class="topo-membrane">VMGLSFAIALSLVIMTG</span><span class="topo-inside">T</span><span class="topo-unknown">ELFTGNNMVMS</span><span class="topo-inside">AGMLNKGVSIKDT</span><span class="topo-membrane">SKIWAYSWVGNLI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GALVLGIIFVGT</span><span class="topo-outside">GLVDKG</span><span class="topo-unknown">PVAEFFANTAASKAS</span><span class="topo-outside">MPF</span><span class="topo-membrane">TALFFRGILCNILVCVSVLCS</span><span class="topo-inside">FRTNS</span><span class="topo-membrane">DTAKIIMIFLCLFAFITS</span><span class="topo-outside">G</span><span class="topo-unknown">FEHSVANMTIYSV</span><span class="topo-outside">SLFSPTISTVTIGGA</span><span class="topo-membrane">IYNLVAVTLGN</span></span>
+<span class="topo-ruler">       250       260        </span>
 <span class="topo-line"><span class="topo-membrane">IVGGALFMGLGT</span><span class="topo-inside">YILGKEK</span><span class="topo-unknown">LNAAAENLY</span></span>
+<details class="topo-details"><summary>Topology coordinates (23 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1203,6 +1217,7 @@ HSC (hydrosulfide channel) is a pentameric membrane channel from Clostridium dif
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1218,11 +1233,13 @@ HSC (hydrosulfide channel) is a pentameric membrane channel from Clostridium dif
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MG</span><span class="topo-inside">RA</span><span class="topo-unknown">HKETLDKLTNAAINKINLLNT</span><span class="topo-inside">SKVKY</span><span class="topo-membrane">LVSSAFAGLYVGIGILLIF</span><span class="topo-outside">TIGGLLTDAGS</span></span>
-<span class="topo-line"><span class="topo-outside">PMTKI</span><span class="topo-membrane">VMGLSFAIALSLVIMTG</span><span class="topo-inside">T</span><span class="topo-unknown">ELFTGNNMVMS</span><span class="topo-inside">AGMLNKGVSIKDT</span><span class="topo-membrane">SKIWAYSWVGNLI</span></span>
-<span class="topo-line"><span class="topo-membrane">GALVLGIIFVGT</span><span class="topo-outside">GLVDKG</span><span class="topo-unknown">PVAEFFANTAASKAS</span><span class="topo-outside">MPF</span><span class="topo-membrane">TALFFRGILCNILVCVSVLCS</span><span class="topo-inside">FRT</span></span>
-<span class="topo-line"><span class="topo-inside">NS</span><span class="topo-membrane">DTAKIIMIFLCLFAFITS</span><span class="topo-outside">G</span><span class="topo-unknown">FEHSVANMTIYSV</span><span class="topo-outside">SLFSPTISTVTIGGA</span><span class="topo-membrane">IYNLVAVTLGN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MG</span><span class="topo-inside">RA</span><span class="topo-unknown">HKETLDKLTNAAINKINLLNT</span><span class="topo-inside">SKVKY</span><span class="topo-membrane">LVSSAFAGLYVGIGILLIF</span><span class="topo-outside">TIGGLLTDAGSPMTKI</span><span class="topo-membrane">VMGLSFAIALSLVIMTG</span><span class="topo-inside">T</span><span class="topo-unknown">ELFTGNNMVMS</span><span class="topo-inside">AGMLNKGVSIKDT</span><span class="topo-membrane">SKIWAYSWVGNLI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GALVLGIIFVGT</span><span class="topo-outside">GLVDKG</span><span class="topo-unknown">PVAEFFANTAASKAS</span><span class="topo-outside">MPF</span><span class="topo-membrane">TALFFRGILCNILVCVSVLCS</span><span class="topo-inside">FRTNS</span><span class="topo-membrane">DTAKIIMIFLCLFAFITS</span><span class="topo-outside">G</span><span class="topo-unknown">FEHSVANMTIYSV</span><span class="topo-outside">SLFSPTISTVTIGGA</span><span class="topo-membrane">IYNLVAVTLGN</span></span>
+<span class="topo-ruler">       250       260        </span>
 <span class="topo-line"><span class="topo-membrane">IVGGALFMGLGT</span><span class="topo-inside">YILGKEK</span><span class="topo-unknown">LNAAAENLY</span></span>
+<details class="topo-details"><summary>Topology coordinates (23 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1395,6 +1412,7 @@ HSC (hydrosulfide channel) is a pentameric membrane channel from Clostridium dif
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1410,11 +1428,13 @@ HSC (hydrosulfide channel) is a pentameric membrane channel from Clostridium dif
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MG</span><span class="topo-inside">RA</span><span class="topo-unknown">HKETLDKLTNAAINKINLLNT</span><span class="topo-inside">SKVKY</span><span class="topo-membrane">LVSSAFAGLYVGIGILLIF</span><span class="topo-outside">TIGGLLTDAGS</span></span>
-<span class="topo-line"><span class="topo-outside">PMTKI</span><span class="topo-membrane">VMGLSFAIALSLVIMTG</span><span class="topo-inside">T</span><span class="topo-unknown">ELFTGNNMVMS</span><span class="topo-inside">AGMLNKGVSIKDT</span><span class="topo-membrane">SKIWAYSWVGNLI</span></span>
-<span class="topo-line"><span class="topo-membrane">GALVLGIIFVGT</span><span class="topo-outside">GLVDKG</span><span class="topo-unknown">PVAEFFANTAASKAS</span><span class="topo-outside">MPF</span><span class="topo-membrane">TALFFRGILCNILVCVSVLCS</span><span class="topo-inside">FRT</span></span>
-<span class="topo-line"><span class="topo-inside">NS</span><span class="topo-membrane">DTAKIIMIFLCLFAFITS</span><span class="topo-outside">G</span><span class="topo-unknown">FEHSVANMTIYSV</span><span class="topo-outside">SLFSPTISTVTIGGA</span><span class="topo-membrane">IYNLVAVTLGN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MG</span><span class="topo-inside">RA</span><span class="topo-unknown">HKETLDKLTNAAINKINLLNT</span><span class="topo-inside">SKVKY</span><span class="topo-membrane">LVSSAFAGLYVGIGILLIF</span><span class="topo-outside">TIGGLLTDAGSPMTKI</span><span class="topo-membrane">VMGLSFAIALSLVIMTG</span><span class="topo-inside">T</span><span class="topo-unknown">ELFTGNNMVMS</span><span class="topo-inside">AGMLNKGVSIKDT</span><span class="topo-membrane">SKIWAYSWVGNLI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GALVLGIIFVGT</span><span class="topo-outside">GLVDKG</span><span class="topo-unknown">PVAEFFANTAASKAS</span><span class="topo-outside">MPF</span><span class="topo-membrane">TALFFRGILCNILVCVSVLCS</span><span class="topo-inside">FRTNS</span><span class="topo-membrane">DTAKIIMIFLCLFAFITS</span><span class="topo-outside">G</span><span class="topo-unknown">FEHSVANMTIYSV</span><span class="topo-outside">SLFSPTISTVTIGGA</span><span class="topo-membrane">IYNLVAVTLGN</span></span>
+<span class="topo-ruler">       250       260        </span>
 <span class="topo-line"><span class="topo-membrane">IVGGALFMGLGT</span><span class="topo-inside">YILGKEK</span><span class="topo-unknown">LNAAAENLY</span></span>
+<details class="topo-details"><summary>Topology coordinates (23 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1587,6 +1607,7 @@ HSC (hydrosulfide channel) is a pentameric membrane channel from Clostridium dif
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1602,11 +1623,13 @@ HSC (hydrosulfide channel) is a pentameric membrane channel from Clostridium dif
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MG</span><span class="topo-inside">RA</span><span class="topo-unknown">HKETLDKLTNAAINKINLLNT</span><span class="topo-inside">SKVKY</span><span class="topo-membrane">LVSSAFAGLYVGIGILLIF</span><span class="topo-outside">TIGGLLTDAGS</span></span>
-<span class="topo-line"><span class="topo-outside">PMTKI</span><span class="topo-membrane">VMGLSFAIALSLVIMTG</span><span class="topo-inside">T</span><span class="topo-unknown">ELFTGNNMVMS</span><span class="topo-inside">AGMLNKGVSIKDT</span><span class="topo-membrane">SKIWAYSWVGNLI</span></span>
-<span class="topo-line"><span class="topo-membrane">GALVLGIIFVGT</span><span class="topo-outside">GLVDKG</span><span class="topo-unknown">PVAEFFANTAASKA</span><span class="topo-outside">SMPF</span><span class="topo-membrane">TALFFRGILCNILVCVSVLCS</span><span class="topo-inside">FRT</span></span>
-<span class="topo-line"><span class="topo-inside">NS</span><span class="topo-membrane">DTAKIIMIFLCLFAFITSG</span><span class="topo-outside">F</span><span class="topo-unknown">EHSVANMTIYSV</span><span class="topo-outside">SLFSPTISTVTIGGA</span><span class="topo-membrane">IYNLVAVTLGN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MG</span><span class="topo-inside">RA</span><span class="topo-unknown">HKETLDKLTNAAINKINLLNT</span><span class="topo-inside">SKVKY</span><span class="topo-membrane">LVSSAFAGLYVGIGILLIF</span><span class="topo-outside">TIGGLLTDAGSPMTKI</span><span class="topo-membrane">VMGLSFAIALSLVIMTG</span><span class="topo-inside">T</span><span class="topo-unknown">ELFTGNNMVMS</span><span class="topo-inside">AGMLNKGVSIKDT</span><span class="topo-membrane">SKIWAYSWVGNLI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GALVLGIIFVGT</span><span class="topo-outside">GLVDKG</span><span class="topo-unknown">PVAEFFANTAASKA</span><span class="topo-outside">SMPF</span><span class="topo-membrane">TALFFRGILCNILVCVSVLCS</span><span class="topo-inside">FRTNS</span><span class="topo-membrane">DTAKIIMIFLCLFAFITSG</span><span class="topo-outside">F</span><span class="topo-unknown">EHSVANMTIYSV</span><span class="topo-outside">SLFSPTISTVTIGGA</span><span class="topo-membrane">IYNLVAVTLGN</span></span>
+<span class="topo-ruler">       250       260        </span>
 <span class="topo-line"><span class="topo-membrane">IVGGALFMGLGT</span><span class="topo-inside">YILGKEKLNAAAENLY</span></span>
+<details class="topo-details"><summary>Topology coordinates (22 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1772,6 +1795,7 @@ HSC (hydrosulfide channel) is a pentameric membrane channel from Clostridium dif
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1787,11 +1811,13 @@ HSC (hydrosulfide channel) is a pentameric membrane channel from Clostridium dif
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MG</span><span class="topo-inside">RA</span><span class="topo-unknown">HKETLDKLTNAAINKINLLNT</span><span class="topo-inside">SKVKY</span><span class="topo-membrane">LVSSAFAGLYVGIGILLIF</span><span class="topo-outside">TIGGLLTDAGS</span></span>
-<span class="topo-line"><span class="topo-outside">PMTKI</span><span class="topo-membrane">VMGLSFAIALSLVIMTG</span><span class="topo-inside">T</span><span class="topo-unknown">ELFTGNNMVMS</span><span class="topo-inside">AGMLNKGVSIKDT</span><span class="topo-membrane">SKIWAYSWVGNLI</span></span>
-<span class="topo-line"><span class="topo-membrane">GALVLGIIFVGT</span><span class="topo-outside">GLVDKG</span><span class="topo-unknown">PVAEFFANTAASKAS</span><span class="topo-outside">MPF</span><span class="topo-membrane">TALFFRGILCNILVCVSVLCS</span><span class="topo-inside">FRT</span></span>
-<span class="topo-line"><span class="topo-inside">NS</span><span class="topo-membrane">DTAKIIMIFLCLFAFITS</span><span class="topo-outside">G</span><span class="topo-unknown">FEHSVANMTIYSV</span><span class="topo-outside">SLFSPTISTVTIGGA</span><span class="topo-membrane">IYNLVAVTLGN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MG</span><span class="topo-inside">RA</span><span class="topo-unknown">HKETLDKLTNAAINKINLLNT</span><span class="topo-inside">SKVKY</span><span class="topo-membrane">LVSSAFAGLYVGIGILLIF</span><span class="topo-outside">TIGGLLTDAGSPMTKI</span><span class="topo-membrane">VMGLSFAIALSLVIMTG</span><span class="topo-inside">T</span><span class="topo-unknown">ELFTGNNMVMS</span><span class="topo-inside">AGMLNKGVSIKDT</span><span class="topo-membrane">SKIWAYSWVGNLI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GALVLGIIFVGT</span><span class="topo-outside">GLVDKG</span><span class="topo-unknown">PVAEFFANTAASKAS</span><span class="topo-outside">MPF</span><span class="topo-membrane">TALFFRGILCNILVCVSVLCS</span><span class="topo-inside">FRTNS</span><span class="topo-membrane">DTAKIIMIFLCLFAFITS</span><span class="topo-outside">G</span><span class="topo-unknown">FEHSVANMTIYSV</span><span class="topo-outside">SLFSPTISTVTIGGA</span><span class="topo-membrane">IYNLVAVTLGN</span></span>
+<span class="topo-ruler">       250       260        </span>
 <span class="topo-line"><span class="topo-membrane">IVGGALFMGLGT</span><span class="topo-inside">YILGKEK</span><span class="topo-unknown">LNAAAENLY</span></span>
+<details class="topo-details"><summary>Topology coordinates (23 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1964,6 +1990,7 @@ HSC (hydrosulfide channel) is a pentameric membrane channel from Clostridium dif
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1979,11 +2006,13 @@ HSC (hydrosulfide channel) is a pentameric membrane channel from Clostridium dif
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MG</span><span class="topo-inside">RA</span><span class="topo-unknown">HKETLDKLTNAAINKINLLNT</span><span class="topo-inside">SKVKY</span><span class="topo-membrane">LVSSAFAGLYVGIGILLIF</span><span class="topo-outside">TIGGLLTDAGS</span></span>
-<span class="topo-line"><span class="topo-outside">PMTKI</span><span class="topo-membrane">VMGLSFAIALSLVIMTG</span><span class="topo-inside">T</span><span class="topo-unknown">ELFTGNNMVMS</span><span class="topo-inside">AGMLNKGVSIKDT</span><span class="topo-membrane">SKIWAYSWVGNLI</span></span>
-<span class="topo-line"><span class="topo-membrane">GALVLGIIFVGT</span><span class="topo-outside">GLVDKG</span><span class="topo-unknown">PVAEFFANTAASKAS</span><span class="topo-outside">MPF</span><span class="topo-membrane">TALFFRGILCNILVCVSVLCS</span><span class="topo-inside">FRT</span></span>
-<span class="topo-line"><span class="topo-inside">NS</span><span class="topo-membrane">DTAKIIMIFLCLFAFITS</span><span class="topo-outside">G</span><span class="topo-unknown">FEHSVANMTIYSV</span><span class="topo-outside">SLFSPTISTVTIGGA</span><span class="topo-membrane">IYNLVAVTLGN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MG</span><span class="topo-inside">RA</span><span class="topo-unknown">HKETLDKLTNAAINKINLLNT</span><span class="topo-inside">SKVKY</span><span class="topo-membrane">LVSSAFAGLYVGIGILLIF</span><span class="topo-outside">TIGGLLTDAGSPMTKI</span><span class="topo-membrane">VMGLSFAIALSLVIMTG</span><span class="topo-inside">T</span><span class="topo-unknown">ELFTGNNMVMS</span><span class="topo-inside">AGMLNKGVSIKDT</span><span class="topo-membrane">SKIWAYSWVGNLI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GALVLGIIFVGT</span><span class="topo-outside">GLVDKG</span><span class="topo-unknown">PVAEFFANTAASKAS</span><span class="topo-outside">MPF</span><span class="topo-membrane">TALFFRGILCNILVCVSVLCS</span><span class="topo-inside">FRTNS</span><span class="topo-membrane">DTAKIIMIFLCLFAFITS</span><span class="topo-outside">G</span><span class="topo-unknown">FEHSVANMTIYSV</span><span class="topo-outside">SLFSPTISTVTIGGA</span><span class="topo-membrane">IYNLVAVTLGN</span></span>
+<span class="topo-ruler">       250       260        </span>
 <span class="topo-line"><span class="topo-membrane">IVGGALFMGLGT</span><span class="topo-inside">YILGKEK</span><span class="topo-unknown">LNAAAENLY</span></span>
+<details class="topo-details"><summary>Topology coordinates (23 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2156,6 +2185,7 @@ HSC (hydrosulfide channel) is a pentameric membrane channel from Clostridium dif
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2171,11 +2201,13 @@ HSC (hydrosulfide channel) is a pentameric membrane channel from Clostridium dif
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MG</span><span class="topo-inside">RA</span><span class="topo-unknown">HKETLDKLTNAAINKINLLNT</span><span class="topo-inside">SKVKY</span><span class="topo-membrane">LVSSAFAGLYVGIGILLIF</span><span class="topo-outside">TIGGLLTDAGS</span></span>
-<span class="topo-line"><span class="topo-outside">PMTKI</span><span class="topo-membrane">VMGLSFAIALSLVIMTG</span><span class="topo-inside">T</span><span class="topo-unknown">ELFTGNNMVMS</span><span class="topo-inside">AGMLNKGVSIKDT</span><span class="topo-membrane">SKIWAYSWVGNLI</span></span>
-<span class="topo-line"><span class="topo-membrane">GALVLGIIFVGT</span><span class="topo-outside">GLVDKG</span><span class="topo-unknown">PVAEFFANTAASKAS</span><span class="topo-outside">MPF</span><span class="topo-membrane">TALFFRGILCNILVCVSVLCS</span><span class="topo-inside">FRT</span></span>
-<span class="topo-line"><span class="topo-inside">NS</span><span class="topo-membrane">DTAKIIMIFLCLFAFITS</span><span class="topo-outside">G</span><span class="topo-unknown">FEHSVANMTIYSV</span><span class="topo-outside">SLFSPTISTVTIGGA</span><span class="topo-membrane">IYNLVAVTLGN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MG</span><span class="topo-inside">RA</span><span class="topo-unknown">HKETLDKLTNAAINKINLLNT</span><span class="topo-inside">SKVKY</span><span class="topo-membrane">LVSSAFAGLYVGIGILLIF</span><span class="topo-outside">TIGGLLTDAGSPMTKI</span><span class="topo-membrane">VMGLSFAIALSLVIMTG</span><span class="topo-inside">T</span><span class="topo-unknown">ELFTGNNMVMS</span><span class="topo-inside">AGMLNKGVSIKDT</span><span class="topo-membrane">SKIWAYSWVGNLI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GALVLGIIFVGT</span><span class="topo-outside">GLVDKG</span><span class="topo-unknown">PVAEFFANTAASKAS</span><span class="topo-outside">MPF</span><span class="topo-membrane">TALFFRGILCNILVCVSVLCS</span><span class="topo-inside">FRTNS</span><span class="topo-membrane">DTAKIIMIFLCLFAFITS</span><span class="topo-outside">G</span><span class="topo-unknown">FEHSVANMTIYSV</span><span class="topo-outside">SLFSPTISTVTIGGA</span><span class="topo-membrane">IYNLVAVTLGN</span></span>
+<span class="topo-ruler">       250       260        </span>
 <span class="topo-line"><span class="topo-membrane">IVGGALFMGLGT</span><span class="topo-inside">YILGKEK</span><span class="topo-unknown">LNAAAENLY</span></span>
+<details class="topo-details"><summary>Topology coordinates (23 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2348,6 +2380,7 @@ HSC (hydrosulfide channel) is a pentameric membrane channel from Clostridium dif
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2363,11 +2396,13 @@ HSC (hydrosulfide channel) is a pentameric membrane channel from Clostridium dif
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MG</span><span class="topo-inside">RA</span><span class="topo-unknown">HKETLDKLTNAAINKINLLNT</span><span class="topo-inside">SKVKY</span><span class="topo-membrane">LVSSAFAGLYVGIGILLIF</span><span class="topo-outside">TIGGLLTDAGS</span></span>
-<span class="topo-line"><span class="topo-outside">PMTKI</span><span class="topo-membrane">VMGLSFAIALSLVIMTG</span><span class="topo-inside">T</span><span class="topo-unknown">ELFTGNNMVMS</span><span class="topo-inside">AGMLNKGVSIKDT</span><span class="topo-membrane">SKIWAYSWVGNLI</span></span>
-<span class="topo-line"><span class="topo-membrane">GALVLGIIFVGT</span><span class="topo-outside">GLVDKG</span><span class="topo-unknown">PVAEFFANTAASKAS</span><span class="topo-outside">MPF</span><span class="topo-membrane">TALFFRGILCNILVCVSVLCS</span><span class="topo-inside">FRT</span></span>
-<span class="topo-line"><span class="topo-inside">NS</span><span class="topo-membrane">DTAKIIMIFLCLFAFITS</span><span class="topo-outside">G</span><span class="topo-unknown">FEHSVANMTIYSV</span><span class="topo-outside">SLFSPTISTVTIGGA</span><span class="topo-membrane">IYNLVAVTLGN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MG</span><span class="topo-inside">RA</span><span class="topo-unknown">HKETLDKLTNAAINKINLLNT</span><span class="topo-inside">SKVKY</span><span class="topo-membrane">LVSSAFAGLYVGIGILLIF</span><span class="topo-outside">TIGGLLTDAGSPMTKI</span><span class="topo-membrane">VMGLSFAIALSLVIMTG</span><span class="topo-inside">T</span><span class="topo-unknown">ELFTGNNMVMS</span><span class="topo-inside">AGMLNKGVSIKDT</span><span class="topo-membrane">SKIWAYSWVGNLI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GALVLGIIFVGT</span><span class="topo-outside">GLVDKG</span><span class="topo-unknown">PVAEFFANTAASKAS</span><span class="topo-outside">MPF</span><span class="topo-membrane">TALFFRGILCNILVCVSVLCS</span><span class="topo-inside">FRTNS</span><span class="topo-membrane">DTAKIIMIFLCLFAFITS</span><span class="topo-outside">G</span><span class="topo-unknown">FEHSVANMTIYSV</span><span class="topo-outside">SLFSPTISTVTIGGA</span><span class="topo-membrane">IYNLVAVTLGN</span></span>
+<span class="topo-ruler">       250       260        </span>
 <span class="topo-line"><span class="topo-membrane">IVGGALFMGLGT</span><span class="topo-inside">YILGKEK</span><span class="topo-unknown">LNAAAENLY</span></span>
+<details class="topo-details"><summary>Topology coordinates (23 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2540,6 +2575,7 @@ HSC (hydrosulfide channel) is a pentameric membrane channel from Clostridium dif
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2555,11 +2591,13 @@ HSC (hydrosulfide channel) is a pentameric membrane channel from Clostridium dif
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MG</span><span class="topo-inside">RA</span><span class="topo-unknown">HKETLDKLTNAAINKINLLNT</span><span class="topo-inside">SKVKY</span><span class="topo-membrane">LVSSAFAGLYVGIGILLIF</span><span class="topo-outside">TIGGLLTDAGS</span></span>
-<span class="topo-line"><span class="topo-outside">PMTKI</span><span class="topo-membrane">VMGLSFAIALSLVIMTG</span><span class="topo-inside">T</span><span class="topo-unknown">ELFTGNNMVMS</span><span class="topo-inside">AGMLNKGVSIKDT</span><span class="topo-membrane">SKIWAYSWVGNLI</span></span>
-<span class="topo-line"><span class="topo-membrane">GALVLGIIFVGT</span><span class="topo-outside">GLVDKG</span><span class="topo-unknown">PVAEFFANTAASKA</span><span class="topo-outside">SMPF</span><span class="topo-membrane">TALFFRGILCNILVCVSVLCS</span><span class="topo-inside">FRT</span></span>
-<span class="topo-line"><span class="topo-inside">NS</span><span class="topo-membrane">DTAKIIMIFLCLFAFITSG</span><span class="topo-outside">F</span><span class="topo-unknown">EHSVANMTIYSV</span><span class="topo-outside">SLFSPTISTVTIGGA</span><span class="topo-membrane">IYNLVAVTLGN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MG</span><span class="topo-inside">RA</span><span class="topo-unknown">HKETLDKLTNAAINKINLLNT</span><span class="topo-inside">SKVKY</span><span class="topo-membrane">LVSSAFAGLYVGIGILLIF</span><span class="topo-outside">TIGGLLTDAGSPMTKI</span><span class="topo-membrane">VMGLSFAIALSLVIMTG</span><span class="topo-inside">T</span><span class="topo-unknown">ELFTGNNMVMS</span><span class="topo-inside">AGMLNKGVSIKDT</span><span class="topo-membrane">SKIWAYSWVGNLI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GALVLGIIFVGT</span><span class="topo-outside">GLVDKG</span><span class="topo-unknown">PVAEFFANTAASKA</span><span class="topo-outside">SMPF</span><span class="topo-membrane">TALFFRGILCNILVCVSVLCS</span><span class="topo-inside">FRTNS</span><span class="topo-membrane">DTAKIIMIFLCLFAFITSG</span><span class="topo-outside">F</span><span class="topo-unknown">EHSVANMTIYSV</span><span class="topo-outside">SLFSPTISTVTIGGA</span><span class="topo-membrane">IYNLVAVTLGN</span></span>
+<span class="topo-ruler">       250       260        </span>
 <span class="topo-line"><span class="topo-membrane">IVGGALFMGLGT</span><span class="topo-inside">YILGKEKLNAAAENLY</span></span>
+<details class="topo-details"><summary>Topology coordinates (22 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2725,6 +2763,7 @@ HSC (hydrosulfide channel) is a pentameric membrane channel from Clostridium dif
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2740,11 +2779,13 @@ HSC (hydrosulfide channel) is a pentameric membrane channel from Clostridium dif
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MG</span><span class="topo-inside">RA</span><span class="topo-unknown">HKETLDKLTNAAINKINLLNT</span><span class="topo-inside">SKVKY</span><span class="topo-membrane">LVSSAFAGLYVGIGILLIF</span><span class="topo-outside">TIGGLLTDAGS</span></span>
-<span class="topo-line"><span class="topo-outside">PMTKI</span><span class="topo-membrane">VMGLSFAIALSLVIMTG</span><span class="topo-inside">T</span><span class="topo-unknown">ELFTGNNMVMS</span><span class="topo-inside">AGMLNKGVSIKDT</span><span class="topo-membrane">SKIWAYSWVGNLI</span></span>
-<span class="topo-line"><span class="topo-membrane">GALVLGIIFVGT</span><span class="topo-outside">GLVDKG</span><span class="topo-unknown">PVAEFFANTAASKAS</span><span class="topo-outside">MPF</span><span class="topo-membrane">TALFFRGILCNILVCVSVLCS</span><span class="topo-inside">FRT</span></span>
-<span class="topo-line"><span class="topo-inside">NS</span><span class="topo-membrane">DTAKIIMIFLCLFAFITS</span><span class="topo-outside">G</span><span class="topo-unknown">FEHSVANMTIYSV</span><span class="topo-outside">SLFSPTISTVTIGGA</span><span class="topo-membrane">IYNLVAVTLGN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MG</span><span class="topo-inside">RA</span><span class="topo-unknown">HKETLDKLTNAAINKINLLNT</span><span class="topo-inside">SKVKY</span><span class="topo-membrane">LVSSAFAGLYVGIGILLIF</span><span class="topo-outside">TIGGLLTDAGSPMTKI</span><span class="topo-membrane">VMGLSFAIALSLVIMTG</span><span class="topo-inside">T</span><span class="topo-unknown">ELFTGNNMVMS</span><span class="topo-inside">AGMLNKGVSIKDT</span><span class="topo-membrane">SKIWAYSWVGNLI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GALVLGIIFVGT</span><span class="topo-outside">GLVDKG</span><span class="topo-unknown">PVAEFFANTAASKAS</span><span class="topo-outside">MPF</span><span class="topo-membrane">TALFFRGILCNILVCVSVLCS</span><span class="topo-inside">FRTNS</span><span class="topo-membrane">DTAKIIMIFLCLFAFITS</span><span class="topo-outside">G</span><span class="topo-unknown">FEHSVANMTIYSV</span><span class="topo-outside">SLFSPTISTVTIGGA</span><span class="topo-membrane">IYNLVAVTLGN</span></span>
+<span class="topo-ruler">       250       260        </span>
 <span class="topo-line"><span class="topo-membrane">IVGGALFMGLGT</span><span class="topo-inside">YILGKEK</span><span class="topo-unknown">LNAAAENLY</span></span>
+<details class="topo-details"><summary>Topology coordinates (23 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2917,6 +2958,7 @@ HSC (hydrosulfide channel) is a pentameric membrane channel from Clostridium dif
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2932,11 +2974,13 @@ HSC (hydrosulfide channel) is a pentameric membrane channel from Clostridium dif
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MG</span><span class="topo-inside">RA</span><span class="topo-unknown">HKETLDKLTNAAINKINLLNT</span><span class="topo-inside">SKVKY</span><span class="topo-membrane">LVSSAFAGLYVGIGILLIF</span><span class="topo-outside">TIGGLLTDAGS</span></span>
-<span class="topo-line"><span class="topo-outside">PMTKI</span><span class="topo-membrane">VMGLSFAIALSLVIMTG</span><span class="topo-inside">T</span><span class="topo-unknown">ELFTGNNMVMS</span><span class="topo-inside">AGMLNKGVSIKDT</span><span class="topo-membrane">SKIWAYSWVGNLI</span></span>
-<span class="topo-line"><span class="topo-membrane">GALVLGIIFVGT</span><span class="topo-outside">GLVDKG</span><span class="topo-unknown">PVAEFFANTAASKAS</span><span class="topo-outside">MPF</span><span class="topo-membrane">TALFFRGILCNILVCVSVLCS</span><span class="topo-inside">FRT</span></span>
-<span class="topo-line"><span class="topo-inside">NS</span><span class="topo-membrane">DTAKIIMIFLCLFAFITS</span><span class="topo-outside">G</span><span class="topo-unknown">FEHSVANMTIYSV</span><span class="topo-outside">SLFSPTISTVTIGGA</span><span class="topo-membrane">IYNLVAVTLGN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MG</span><span class="topo-inside">RA</span><span class="topo-unknown">HKETLDKLTNAAINKINLLNT</span><span class="topo-inside">SKVKY</span><span class="topo-membrane">LVSSAFAGLYVGIGILLIF</span><span class="topo-outside">TIGGLLTDAGSPMTKI</span><span class="topo-membrane">VMGLSFAIALSLVIMTG</span><span class="topo-inside">T</span><span class="topo-unknown">ELFTGNNMVMS</span><span class="topo-inside">AGMLNKGVSIKDT</span><span class="topo-membrane">SKIWAYSWVGNLI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GALVLGIIFVGT</span><span class="topo-outside">GLVDKG</span><span class="topo-unknown">PVAEFFANTAASKAS</span><span class="topo-outside">MPF</span><span class="topo-membrane">TALFFRGILCNILVCVSVLCS</span><span class="topo-inside">FRTNS</span><span class="topo-membrane">DTAKIIMIFLCLFAFITS</span><span class="topo-outside">G</span><span class="topo-unknown">FEHSVANMTIYSV</span><span class="topo-outside">SLFSPTISTVTIGGA</span><span class="topo-membrane">IYNLVAVTLGN</span></span>
+<span class="topo-ruler">       250       260        </span>
 <span class="topo-line"><span class="topo-membrane">IVGGALFMGLGT</span><span class="topo-inside">YILGKEK</span><span class="topo-unknown">LNAAAENLY</span></span>
+<details class="topo-details"><summary>Topology coordinates (23 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3109,6 +3153,7 @@ HSC (hydrosulfide channel) is a pentameric membrane channel from Clostridium dif
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3124,11 +3169,13 @@ HSC (hydrosulfide channel) is a pentameric membrane channel from Clostridium dif
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MG</span><span class="topo-inside">RA</span><span class="topo-unknown">HKETLDKLTNAAINKINLLNT</span><span class="topo-inside">SKVKY</span><span class="topo-membrane">LVSSAFAGLYVGIGILLIF</span><span class="topo-outside">TIGGLLTDAGS</span></span>
-<span class="topo-line"><span class="topo-outside">PMTKI</span><span class="topo-membrane">VMGLSFAIALSLVIMTG</span><span class="topo-inside">T</span><span class="topo-unknown">ELFTGNNMVMS</span><span class="topo-inside">AGMLNKGVSIKDT</span><span class="topo-membrane">SKIWAYSWVGNLI</span></span>
-<span class="topo-line"><span class="topo-membrane">GALVLGIIFVGT</span><span class="topo-outside">GLVDKG</span><span class="topo-unknown">PVAEFFANTAASKAS</span><span class="topo-outside">MPF</span><span class="topo-membrane">TALFFRGILCNILVCVSVLCS</span><span class="topo-inside">FRT</span></span>
-<span class="topo-line"><span class="topo-inside">NS</span><span class="topo-membrane">DTAKIIMIFLCLFAFITS</span><span class="topo-outside">G</span><span class="topo-unknown">FEHSVANMTIYSV</span><span class="topo-outside">SLFSPTISTVTIGGA</span><span class="topo-membrane">IYNLVAVTLGN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MG</span><span class="topo-inside">RA</span><span class="topo-unknown">HKETLDKLTNAAINKINLLNT</span><span class="topo-inside">SKVKY</span><span class="topo-membrane">LVSSAFAGLYVGIGILLIF</span><span class="topo-outside">TIGGLLTDAGSPMTKI</span><span class="topo-membrane">VMGLSFAIALSLVIMTG</span><span class="topo-inside">T</span><span class="topo-unknown">ELFTGNNMVMS</span><span class="topo-inside">AGMLNKGVSIKDT</span><span class="topo-membrane">SKIWAYSWVGNLI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GALVLGIIFVGT</span><span class="topo-outside">GLVDKG</span><span class="topo-unknown">PVAEFFANTAASKAS</span><span class="topo-outside">MPF</span><span class="topo-membrane">TALFFRGILCNILVCVSVLCS</span><span class="topo-inside">FRTNS</span><span class="topo-membrane">DTAKIIMIFLCLFAFITS</span><span class="topo-outside">G</span><span class="topo-unknown">FEHSVANMTIYSV</span><span class="topo-outside">SLFSPTISTVTIGGA</span><span class="topo-membrane">IYNLVAVTLGN</span></span>
+<span class="topo-ruler">       250       260        </span>
 <span class="topo-line"><span class="topo-membrane">IVGGALFMGLGT</span><span class="topo-inside">YILGKEK</span><span class="topo-unknown">LNAAAENLY</span></span>
+<details class="topo-details"><summary>Topology coordinates (23 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3301,6 +3348,7 @@ HSC (hydrosulfide channel) is a pentameric membrane channel from Clostridium dif
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3316,11 +3364,13 @@ HSC (hydrosulfide channel) is a pentameric membrane channel from Clostridium dif
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MG</span><span class="topo-inside">RA</span><span class="topo-unknown">HKETLDKLTNAAINKINLLNT</span><span class="topo-inside">SKVKY</span><span class="topo-membrane">LVSSAFAGLYVGIGILLIF</span><span class="topo-outside">TIGGLLTDAGS</span></span>
-<span class="topo-line"><span class="topo-outside">PMTKI</span><span class="topo-membrane">VMGLSFAIALSLVIMTG</span><span class="topo-inside">T</span><span class="topo-unknown">ELFTGNNMVMS</span><span class="topo-inside">AGMLNKGVSIKDT</span><span class="topo-membrane">SKIWAYSWVGNLI</span></span>
-<span class="topo-line"><span class="topo-membrane">GALVLGIIFVGT</span><span class="topo-outside">GLVDKG</span><span class="topo-unknown">PVAEFFANTAASKAS</span><span class="topo-outside">MPF</span><span class="topo-membrane">TALFFRGILCNILVCVSVLCS</span><span class="topo-inside">FRT</span></span>
-<span class="topo-line"><span class="topo-inside">NS</span><span class="topo-membrane">DTAKIIMIFLCLFAFITS</span><span class="topo-outside">G</span><span class="topo-unknown">FEHSVANMTIYSV</span><span class="topo-outside">SLFSPTISTVTIGGA</span><span class="topo-membrane">IYNLVAVTLGN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MG</span><span class="topo-inside">RA</span><span class="topo-unknown">HKETLDKLTNAAINKINLLNT</span><span class="topo-inside">SKVKY</span><span class="topo-membrane">LVSSAFAGLYVGIGILLIF</span><span class="topo-outside">TIGGLLTDAGSPMTKI</span><span class="topo-membrane">VMGLSFAIALSLVIMTG</span><span class="topo-inside">T</span><span class="topo-unknown">ELFTGNNMVMS</span><span class="topo-inside">AGMLNKGVSIKDT</span><span class="topo-membrane">SKIWAYSWVGNLI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GALVLGIIFVGT</span><span class="topo-outside">GLVDKG</span><span class="topo-unknown">PVAEFFANTAASKAS</span><span class="topo-outside">MPF</span><span class="topo-membrane">TALFFRGILCNILVCVSVLCS</span><span class="topo-inside">FRTNS</span><span class="topo-membrane">DTAKIIMIFLCLFAFITS</span><span class="topo-outside">G</span><span class="topo-unknown">FEHSVANMTIYSV</span><span class="topo-outside">SLFSPTISTVTIGGA</span><span class="topo-membrane">IYNLVAVTLGN</span></span>
+<span class="topo-ruler">       250       260        </span>
 <span class="topo-line"><span class="topo-membrane">IVGGALFMGLGT</span><span class="topo-inside">YILGKEK</span><span class="topo-unknown">LNAAAENLY</span></span>
+<details class="topo-details"><summary>Topology coordinates (23 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3493,6 +3543,7 @@ HSC (hydrosulfide channel) is a pentameric membrane channel from Clostridium dif
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3508,11 +3559,13 @@ HSC (hydrosulfide channel) is a pentameric membrane channel from Clostridium dif
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MG</span><span class="topo-inside">RA</span><span class="topo-unknown">HKETLDKLTNAAINKINLLNT</span><span class="topo-inside">SKVKY</span><span class="topo-membrane">LVSSAFAGLYVGIGILLIF</span><span class="topo-outside">TIGGLLTDAGS</span></span>
-<span class="topo-line"><span class="topo-outside">PMTKI</span><span class="topo-membrane">VMGLSFAIALSLVIMTG</span><span class="topo-inside">T</span><span class="topo-unknown">ELFTGNNMVMS</span><span class="topo-inside">AGMLNKGVSIKDT</span><span class="topo-membrane">SKIWAYSWVGNLI</span></span>
-<span class="topo-line"><span class="topo-membrane">GALVLGIIFVGT</span><span class="topo-outside">GLVDKG</span><span class="topo-unknown">PVAEFFANTAASKA</span><span class="topo-outside">SMPF</span><span class="topo-membrane">TALFFRGILCNILVCVSVLCS</span><span class="topo-inside">FRT</span></span>
-<span class="topo-line"><span class="topo-inside">NS</span><span class="topo-membrane">DTAKIIMIFLCLFAFITSG</span><span class="topo-outside">F</span><span class="topo-unknown">EHSVANMTIYSV</span><span class="topo-outside">SLFSPTISTVTIGGA</span><span class="topo-membrane">IYNLVAVTLGN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MG</span><span class="topo-inside">RA</span><span class="topo-unknown">HKETLDKLTNAAINKINLLNT</span><span class="topo-inside">SKVKY</span><span class="topo-membrane">LVSSAFAGLYVGIGILLIF</span><span class="topo-outside">TIGGLLTDAGSPMTKI</span><span class="topo-membrane">VMGLSFAIALSLVIMTG</span><span class="topo-inside">T</span><span class="topo-unknown">ELFTGNNMVMS</span><span class="topo-inside">AGMLNKGVSIKDT</span><span class="topo-membrane">SKIWAYSWVGNLI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GALVLGIIFVGT</span><span class="topo-outside">GLVDKG</span><span class="topo-unknown">PVAEFFANTAASKA</span><span class="topo-outside">SMPF</span><span class="topo-membrane">TALFFRGILCNILVCVSVLCS</span><span class="topo-inside">FRTNS</span><span class="topo-membrane">DTAKIIMIFLCLFAFITSG</span><span class="topo-outside">F</span><span class="topo-unknown">EHSVANMTIYSV</span><span class="topo-outside">SLFSPTISTVTIGGA</span><span class="topo-membrane">IYNLVAVTLGN</span></span>
+<span class="topo-ruler">       250       260        </span>
 <span class="topo-line"><span class="topo-membrane">IVGGALFMGLGT</span><span class="topo-inside">YILGKEKLNAAAENLY</span></span>
+<details class="topo-details"><summary>Topology coordinates (22 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3678,6 +3731,7 @@ HSC (hydrosulfide channel) is a pentameric membrane channel from Clostridium dif
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3693,11 +3747,13 @@ HSC (hydrosulfide channel) is a pentameric membrane channel from Clostridium dif
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MG</span><span class="topo-inside">RA</span><span class="topo-unknown">HKETLDKLTNAAINKINLLNT</span><span class="topo-inside">SKVKY</span><span class="topo-membrane">LVSSAFAGLYVGIGILLIF</span><span class="topo-outside">TIGGLLTDAGS</span></span>
-<span class="topo-line"><span class="topo-outside">PMTKI</span><span class="topo-membrane">VMGLSFAIALSLVIMTG</span><span class="topo-inside">T</span><span class="topo-unknown">ELFTGNNMVMS</span><span class="topo-inside">AGMLNKGVSIKDT</span><span class="topo-membrane">SKIWAYSWVGNLI</span></span>
-<span class="topo-line"><span class="topo-membrane">GALVLGIIFVGT</span><span class="topo-outside">GLVDKG</span><span class="topo-unknown">PVAEFFANTAASKAS</span><span class="topo-outside">MPF</span><span class="topo-membrane">TALFFRGILCNILVCVSVLCS</span><span class="topo-inside">FRT</span></span>
-<span class="topo-line"><span class="topo-inside">NS</span><span class="topo-membrane">DTAKIIMIFLCLFAFITS</span><span class="topo-outside">G</span><span class="topo-unknown">FEHSVANMTIYSV</span><span class="topo-outside">SLFSPTISTVTIGGA</span><span class="topo-membrane">IYNLVAVTLGN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MG</span><span class="topo-inside">RA</span><span class="topo-unknown">HKETLDKLTNAAINKINLLNT</span><span class="topo-inside">SKVKY</span><span class="topo-membrane">LVSSAFAGLYVGIGILLIF</span><span class="topo-outside">TIGGLLTDAGSPMTKI</span><span class="topo-membrane">VMGLSFAIALSLVIMTG</span><span class="topo-inside">T</span><span class="topo-unknown">ELFTGNNMVMS</span><span class="topo-inside">AGMLNKGVSIKDT</span><span class="topo-membrane">SKIWAYSWVGNLI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GALVLGIIFVGT</span><span class="topo-outside">GLVDKG</span><span class="topo-unknown">PVAEFFANTAASKAS</span><span class="topo-outside">MPF</span><span class="topo-membrane">TALFFRGILCNILVCVSVLCS</span><span class="topo-inside">FRTNS</span><span class="topo-membrane">DTAKIIMIFLCLFAFITS</span><span class="topo-outside">G</span><span class="topo-unknown">FEHSVANMTIYSV</span><span class="topo-outside">SLFSPTISTVTIGGA</span><span class="topo-membrane">IYNLVAVTLGN</span></span>
+<span class="topo-ruler">       250       260        </span>
 <span class="topo-line"><span class="topo-membrane">IVGGALFMGLGT</span><span class="topo-inside">YILGKEK</span><span class="topo-unknown">LNAAAENLY</span></span>
+<details class="topo-details"><summary>Topology coordinates (23 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3870,6 +3926,7 @@ HSC (hydrosulfide channel) is a pentameric membrane channel from Clostridium dif
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3885,11 +3942,13 @@ HSC (hydrosulfide channel) is a pentameric membrane channel from Clostridium dif
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MG</span><span class="topo-inside">RA</span><span class="topo-unknown">HKETLDKLTNAAINKINLLNT</span><span class="topo-inside">SKVKY</span><span class="topo-membrane">LVSSAFAGLYVGIGILLIF</span><span class="topo-outside">TIGGLLTDAGS</span></span>
-<span class="topo-line"><span class="topo-outside">PMTKI</span><span class="topo-membrane">VMGLSFAIALSLVIMTG</span><span class="topo-inside">T</span><span class="topo-unknown">ELFTGNNMVMS</span><span class="topo-inside">AGMLNKGVSIKDT</span><span class="topo-membrane">SKIWAYSWVGNLI</span></span>
-<span class="topo-line"><span class="topo-membrane">GALVLGIIFVGT</span><span class="topo-outside">GLVDKG</span><span class="topo-unknown">PVAEFFANTAASKAS</span><span class="topo-outside">MPF</span><span class="topo-membrane">TALFFRGILCNILVCVSVLCS</span><span class="topo-inside">FRT</span></span>
-<span class="topo-line"><span class="topo-inside">NS</span><span class="topo-membrane">DTAKIIMIFLCLFAFITS</span><span class="topo-outside">G</span><span class="topo-unknown">FEHSVANMTIYSV</span><span class="topo-outside">SLFSPTISTVTIGGA</span><span class="topo-membrane">IYNLVAVTLGN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MG</span><span class="topo-inside">RA</span><span class="topo-unknown">HKETLDKLTNAAINKINLLNT</span><span class="topo-inside">SKVKY</span><span class="topo-membrane">LVSSAFAGLYVGIGILLIF</span><span class="topo-outside">TIGGLLTDAGSPMTKI</span><span class="topo-membrane">VMGLSFAIALSLVIMTG</span><span class="topo-inside">T</span><span class="topo-unknown">ELFTGNNMVMS</span><span class="topo-inside">AGMLNKGVSIKDT</span><span class="topo-membrane">SKIWAYSWVGNLI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GALVLGIIFVGT</span><span class="topo-outside">GLVDKG</span><span class="topo-unknown">PVAEFFANTAASKAS</span><span class="topo-outside">MPF</span><span class="topo-membrane">TALFFRGILCNILVCVSVLCS</span><span class="topo-inside">FRTNS</span><span class="topo-membrane">DTAKIIMIFLCLFAFITS</span><span class="topo-outside">G</span><span class="topo-unknown">FEHSVANMTIYSV</span><span class="topo-outside">SLFSPTISTVTIGGA</span><span class="topo-membrane">IYNLVAVTLGN</span></span>
+<span class="topo-ruler">       250       260        </span>
 <span class="topo-line"><span class="topo-membrane">IVGGALFMGLGT</span><span class="topo-inside">YILGKEK</span><span class="topo-unknown">LNAAAENLY</span></span>
+<details class="topo-details"><summary>Topology coordinates (23 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4062,6 +4121,7 @@ HSC (hydrosulfide channel) is a pentameric membrane channel from Clostridium dif
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4077,11 +4137,13 @@ HSC (hydrosulfide channel) is a pentameric membrane channel from Clostridium dif
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MG</span><span class="topo-inside">RA</span><span class="topo-unknown">HKETLDKLTNAAINKINLLNT</span><span class="topo-inside">SKVKY</span><span class="topo-membrane">LVSSAFAGLYVGIGILLIF</span><span class="topo-outside">TIGGLLTDAGS</span></span>
-<span class="topo-line"><span class="topo-outside">PMTKI</span><span class="topo-membrane">VMGLSFAIALSLVIMTG</span><span class="topo-inside">T</span><span class="topo-unknown">ELFTGNNMVMS</span><span class="topo-inside">AGMLNKGVSIKDT</span><span class="topo-membrane">SKIWAYSWVGNLI</span></span>
-<span class="topo-line"><span class="topo-membrane">GALVLGIIFVGT</span><span class="topo-outside">GLVDKG</span><span class="topo-unknown">PVAEFFANTAASKAS</span><span class="topo-outside">MPF</span><span class="topo-membrane">TALFFRGILCNILVCVSVLCS</span><span class="topo-inside">FRT</span></span>
-<span class="topo-line"><span class="topo-inside">NS</span><span class="topo-membrane">DTAKIIMIFLCLFAFITS</span><span class="topo-outside">G</span><span class="topo-unknown">FEHSVANMTIYSV</span><span class="topo-outside">SLFSPTISTVTIGGA</span><span class="topo-membrane">IYNLVAVTLGN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MG</span><span class="topo-inside">RA</span><span class="topo-unknown">HKETLDKLTNAAINKINLLNT</span><span class="topo-inside">SKVKY</span><span class="topo-membrane">LVSSAFAGLYVGIGILLIF</span><span class="topo-outside">TIGGLLTDAGSPMTKI</span><span class="topo-membrane">VMGLSFAIALSLVIMTG</span><span class="topo-inside">T</span><span class="topo-unknown">ELFTGNNMVMS</span><span class="topo-inside">AGMLNKGVSIKDT</span><span class="topo-membrane">SKIWAYSWVGNLI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GALVLGIIFVGT</span><span class="topo-outside">GLVDKG</span><span class="topo-unknown">PVAEFFANTAASKAS</span><span class="topo-outside">MPF</span><span class="topo-membrane">TALFFRGILCNILVCVSVLCS</span><span class="topo-inside">FRTNS</span><span class="topo-membrane">DTAKIIMIFLCLFAFITS</span><span class="topo-outside">G</span><span class="topo-unknown">FEHSVANMTIYSV</span><span class="topo-outside">SLFSPTISTVTIGGA</span><span class="topo-membrane">IYNLVAVTLGN</span></span>
+<span class="topo-ruler">       250       260        </span>
 <span class="topo-line"><span class="topo-membrane">IVGGALFMGLGT</span><span class="topo-inside">YILGKEK</span><span class="topo-unknown">LNAAAENLY</span></span>
+<details class="topo-details"><summary>Topology coordinates (23 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4254,6 +4316,7 @@ HSC (hydrosulfide channel) is a pentameric membrane channel from Clostridium dif
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4269,11 +4332,13 @@ HSC (hydrosulfide channel) is a pentameric membrane channel from Clostridium dif
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MG</span><span class="topo-inside">RA</span><span class="topo-unknown">HKETLDKLTNAAINKINLLNT</span><span class="topo-inside">SKVKY</span><span class="topo-membrane">LVSSAFAGLYVGIGILLIF</span><span class="topo-outside">TIGGLLTDAGS</span></span>
-<span class="topo-line"><span class="topo-outside">PMTKI</span><span class="topo-membrane">VMGLSFAIALSLVIMTG</span><span class="topo-inside">T</span><span class="topo-unknown">ELFTGNNMVMS</span><span class="topo-inside">AGMLNKGVSIKDT</span><span class="topo-membrane">SKIWAYSWVGNLI</span></span>
-<span class="topo-line"><span class="topo-membrane">GALVLGIIFVGT</span><span class="topo-outside">GLVDKG</span><span class="topo-unknown">PVAEFFANTAASKAS</span><span class="topo-outside">MPF</span><span class="topo-membrane">TALFFRGILCNILVCVSVLCS</span><span class="topo-inside">FRT</span></span>
-<span class="topo-line"><span class="topo-inside">NS</span><span class="topo-membrane">DTAKIIMIFLCLFAFITS</span><span class="topo-outside">G</span><span class="topo-unknown">FEHSVANMTIYSV</span><span class="topo-outside">SLFSPTISTVTIGGA</span><span class="topo-membrane">IYNLVAVTLGN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MG</span><span class="topo-inside">RA</span><span class="topo-unknown">HKETLDKLTNAAINKINLLNT</span><span class="topo-inside">SKVKY</span><span class="topo-membrane">LVSSAFAGLYVGIGILLIF</span><span class="topo-outside">TIGGLLTDAGSPMTKI</span><span class="topo-membrane">VMGLSFAIALSLVIMTG</span><span class="topo-inside">T</span><span class="topo-unknown">ELFTGNNMVMS</span><span class="topo-inside">AGMLNKGVSIKDT</span><span class="topo-membrane">SKIWAYSWVGNLI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GALVLGIIFVGT</span><span class="topo-outside">GLVDKG</span><span class="topo-unknown">PVAEFFANTAASKAS</span><span class="topo-outside">MPF</span><span class="topo-membrane">TALFFRGILCNILVCVSVLCS</span><span class="topo-inside">FRTNS</span><span class="topo-membrane">DTAKIIMIFLCLFAFITS</span><span class="topo-outside">G</span><span class="topo-unknown">FEHSVANMTIYSV</span><span class="topo-outside">SLFSPTISTVTIGGA</span><span class="topo-membrane">IYNLVAVTLGN</span></span>
+<span class="topo-ruler">       250       260        </span>
 <span class="topo-line"><span class="topo-membrane">IVGGALFMGLGT</span><span class="topo-inside">YILGKEK</span><span class="topo-unknown">LNAAAENLY</span></span>
+<details class="topo-details"><summary>Topology coordinates (23 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4446,6 +4511,7 @@ HSC (hydrosulfide channel) is a pentameric membrane channel from Clostridium dif
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4461,11 +4527,13 @@ HSC (hydrosulfide channel) is a pentameric membrane channel from Clostridium dif
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MG</span><span class="topo-inside">RA</span><span class="topo-unknown">HKETLDKLTNAAINKINLLNT</span><span class="topo-inside">SKVKY</span><span class="topo-membrane">LVSSAFAGLYVGIGILLIF</span><span class="topo-outside">TIGGLLTDAGS</span></span>
-<span class="topo-line"><span class="topo-outside">PMTKI</span><span class="topo-membrane">VMGLSFAIALSLVIMTG</span><span class="topo-inside">T</span><span class="topo-unknown">ELFTGNNMVMS</span><span class="topo-inside">AGMLNKGVSIKDT</span><span class="topo-membrane">SKIWAYSWVGNLI</span></span>
-<span class="topo-line"><span class="topo-membrane">GALVLGIIFVGT</span><span class="topo-outside">GLVDKG</span><span class="topo-unknown">PVAEFFANTAASKA</span><span class="topo-outside">SMPF</span><span class="topo-membrane">TALFFRGILCNILVCVSVLCS</span><span class="topo-inside">FRT</span></span>
-<span class="topo-line"><span class="topo-inside">NS</span><span class="topo-membrane">DTAKIIMIFLCLFAFITSG</span><span class="topo-outside">F</span><span class="topo-unknown">EHSVANMTIYSV</span><span class="topo-outside">SLFSPTISTVTIGGA</span><span class="topo-membrane">IYNLVAVTLGN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MG</span><span class="topo-inside">RA</span><span class="topo-unknown">HKETLDKLTNAAINKINLLNT</span><span class="topo-inside">SKVKY</span><span class="topo-membrane">LVSSAFAGLYVGIGILLIF</span><span class="topo-outside">TIGGLLTDAGSPMTKI</span><span class="topo-membrane">VMGLSFAIALSLVIMTG</span><span class="topo-inside">T</span><span class="topo-unknown">ELFTGNNMVMS</span><span class="topo-inside">AGMLNKGVSIKDT</span><span class="topo-membrane">SKIWAYSWVGNLI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GALVLGIIFVGT</span><span class="topo-outside">GLVDKG</span><span class="topo-unknown">PVAEFFANTAASKA</span><span class="topo-outside">SMPF</span><span class="topo-membrane">TALFFRGILCNILVCVSVLCS</span><span class="topo-inside">FRTNS</span><span class="topo-membrane">DTAKIIMIFLCLFAFITSG</span><span class="topo-outside">F</span><span class="topo-unknown">EHSVANMTIYSV</span><span class="topo-outside">SLFSPTISTVTIGGA</span><span class="topo-membrane">IYNLVAVTLGN</span></span>
+<span class="topo-ruler">       250       260        </span>
 <span class="topo-line"><span class="topo-membrane">IVGGALFMGLGT</span><span class="topo-inside">YILGKEKLNAAAENLY</span></span>
+<details class="topo-details"><summary>Topology coordinates (22 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4631,6 +4699,7 @@ HSC (hydrosulfide channel) is a pentameric membrane channel from Clostridium dif
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4646,11 +4715,13 @@ HSC (hydrosulfide channel) is a pentameric membrane channel from Clostridium dif
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MG</span><span class="topo-inside">RA</span><span class="topo-unknown">HKETLDKLTNAAINKINLLNT</span><span class="topo-inside">SKVKY</span><span class="topo-membrane">LVSSAFAGLYVGIGILLIF</span><span class="topo-outside">TIGGLLTDAGS</span></span>
-<span class="topo-line"><span class="topo-outside">PMTKI</span><span class="topo-membrane">VMGLSFAIALSLVIMTG</span><span class="topo-inside">T</span><span class="topo-unknown">ELFTGNNMVMS</span><span class="topo-inside">AGMLNKGVSIKDT</span><span class="topo-membrane">SKIWAYSWVGNLI</span></span>
-<span class="topo-line"><span class="topo-membrane">GALVLGIIFVGT</span><span class="topo-outside">GLVDKG</span><span class="topo-unknown">PVAEFFANTAASKAS</span><span class="topo-outside">MPF</span><span class="topo-membrane">TALFFRGILCNILVCVSVLCS</span><span class="topo-inside">FRT</span></span>
-<span class="topo-line"><span class="topo-inside">NS</span><span class="topo-membrane">DTAKIIMIFLCLFAFITS</span><span class="topo-outside">G</span><span class="topo-unknown">FEHSVANMTIYSV</span><span class="topo-outside">SLFSPTISTVTIGGA</span><span class="topo-membrane">IYNLVAVTLGN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MG</span><span class="topo-inside">RA</span><span class="topo-unknown">HKETLDKLTNAAINKINLLNT</span><span class="topo-inside">SKVKY</span><span class="topo-membrane">LVSSAFAGLYVGIGILLIF</span><span class="topo-outside">TIGGLLTDAGSPMTKI</span><span class="topo-membrane">VMGLSFAIALSLVIMTG</span><span class="topo-inside">T</span><span class="topo-unknown">ELFTGNNMVMS</span><span class="topo-inside">AGMLNKGVSIKDT</span><span class="topo-membrane">SKIWAYSWVGNLI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GALVLGIIFVGT</span><span class="topo-outside">GLVDKG</span><span class="topo-unknown">PVAEFFANTAASKAS</span><span class="topo-outside">MPF</span><span class="topo-membrane">TALFFRGILCNILVCVSVLCS</span><span class="topo-inside">FRTNS</span><span class="topo-membrane">DTAKIIMIFLCLFAFITS</span><span class="topo-outside">G</span><span class="topo-unknown">FEHSVANMTIYSV</span><span class="topo-outside">SLFSPTISTVTIGGA</span><span class="topo-membrane">IYNLVAVTLGN</span></span>
+<span class="topo-ruler">       250       260        </span>
 <span class="topo-line"><span class="topo-membrane">IVGGALFMGLGT</span><span class="topo-inside">YILGKEK</span><span class="topo-unknown">LNAAAENLY</span></span>
+<details class="topo-details"><summary>Topology coordinates (23 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4823,6 +4894,7 @@ HSC (hydrosulfide channel) is a pentameric membrane channel from Clostridium dif
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4838,11 +4910,13 @@ HSC (hydrosulfide channel) is a pentameric membrane channel from Clostridium dif
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MG</span><span class="topo-inside">RA</span><span class="topo-unknown">HKETLDKLTNAAINKINLLNT</span><span class="topo-inside">SKVKY</span><span class="topo-membrane">LVSSAFAGLYVGIGILLIF</span><span class="topo-outside">TIGGLLTDAGS</span></span>
-<span class="topo-line"><span class="topo-outside">PMTKI</span><span class="topo-membrane">VMGLSFAIALSLVIMTG</span><span class="topo-inside">T</span><span class="topo-unknown">ELFTGNNMVMS</span><span class="topo-inside">AGMLNKGVSIKDT</span><span class="topo-membrane">SKIWAYSWVGNLI</span></span>
-<span class="topo-line"><span class="topo-membrane">GALVLGIIFVGT</span><span class="topo-outside">GLVDKG</span><span class="topo-unknown">PVAEFFANTAASKAS</span><span class="topo-outside">MPF</span><span class="topo-membrane">TALFFRGILCNILVCVSVLCS</span><span class="topo-inside">FRT</span></span>
-<span class="topo-line"><span class="topo-inside">NS</span><span class="topo-membrane">DTAKIIMIFLCLFAFITS</span><span class="topo-outside">G</span><span class="topo-unknown">FEHSVANMTIYSV</span><span class="topo-outside">SLFSPTISTVTIGGA</span><span class="topo-membrane">IYNLVAVTLGN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MG</span><span class="topo-inside">RA</span><span class="topo-unknown">HKETLDKLTNAAINKINLLNT</span><span class="topo-inside">SKVKY</span><span class="topo-membrane">LVSSAFAGLYVGIGILLIF</span><span class="topo-outside">TIGGLLTDAGSPMTKI</span><span class="topo-membrane">VMGLSFAIALSLVIMTG</span><span class="topo-inside">T</span><span class="topo-unknown">ELFTGNNMVMS</span><span class="topo-inside">AGMLNKGVSIKDT</span><span class="topo-membrane">SKIWAYSWVGNLI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GALVLGIIFVGT</span><span class="topo-outside">GLVDKG</span><span class="topo-unknown">PVAEFFANTAASKAS</span><span class="topo-outside">MPF</span><span class="topo-membrane">TALFFRGILCNILVCVSVLCS</span><span class="topo-inside">FRTNS</span><span class="topo-membrane">DTAKIIMIFLCLFAFITS</span><span class="topo-outside">G</span><span class="topo-unknown">FEHSVANMTIYSV</span><span class="topo-outside">SLFSPTISTVTIGGA</span><span class="topo-membrane">IYNLVAVTLGN</span></span>
+<span class="topo-ruler">       250       260        </span>
 <span class="topo-line"><span class="topo-membrane">IVGGALFMGLGT</span><span class="topo-inside">YILGKEK</span><span class="topo-unknown">LNAAAENLY</span></span>
+<details class="topo-details"><summary>Topology coordinates (23 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -5015,6 +5089,7 @@ HSC (hydrosulfide channel) is a pentameric membrane channel from Clostridium dif
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -5030,11 +5105,13 @@ HSC (hydrosulfide channel) is a pentameric membrane channel from Clostridium dif
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MG</span><span class="topo-inside">RA</span><span class="topo-unknown">HKETLDKLTNAAINKINLLNT</span><span class="topo-inside">SKVKY</span><span class="topo-membrane">LVSSAFAGLYVGIGILLIF</span><span class="topo-outside">TIGGLLTDAGS</span></span>
-<span class="topo-line"><span class="topo-outside">PMTKI</span><span class="topo-membrane">VMGLSFAIALSLVIMTG</span><span class="topo-inside">T</span><span class="topo-unknown">ELFTGNNMVMS</span><span class="topo-inside">AGMLNKGVSIKDT</span><span class="topo-membrane">SKIWAYSWVGNLI</span></span>
-<span class="topo-line"><span class="topo-membrane">GALVLGIIFVGT</span><span class="topo-outside">GLVDKG</span><span class="topo-unknown">PVAEFFANTAASKAS</span><span class="topo-outside">MPF</span><span class="topo-membrane">TALFFRGILCNILVCVSVLCS</span><span class="topo-inside">FRT</span></span>
-<span class="topo-line"><span class="topo-inside">NS</span><span class="topo-membrane">DTAKIIMIFLCLFAFITS</span><span class="topo-outside">G</span><span class="topo-unknown">FEHSVANMTIYSV</span><span class="topo-outside">SLFSPTISTVTIGGA</span><span class="topo-membrane">IYNLVAVTLGN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MG</span><span class="topo-inside">RA</span><span class="topo-unknown">HKETLDKLTNAAINKINLLNT</span><span class="topo-inside">SKVKY</span><span class="topo-membrane">LVSSAFAGLYVGIGILLIF</span><span class="topo-outside">TIGGLLTDAGSPMTKI</span><span class="topo-membrane">VMGLSFAIALSLVIMTG</span><span class="topo-inside">T</span><span class="topo-unknown">ELFTGNNMVMS</span><span class="topo-inside">AGMLNKGVSIKDT</span><span class="topo-membrane">SKIWAYSWVGNLI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GALVLGIIFVGT</span><span class="topo-outside">GLVDKG</span><span class="topo-unknown">PVAEFFANTAASKAS</span><span class="topo-outside">MPF</span><span class="topo-membrane">TALFFRGILCNILVCVSVLCS</span><span class="topo-inside">FRTNS</span><span class="topo-membrane">DTAKIIMIFLCLFAFITS</span><span class="topo-outside">G</span><span class="topo-unknown">FEHSVANMTIYSV</span><span class="topo-outside">SLFSPTISTVTIGGA</span><span class="topo-membrane">IYNLVAVTLGN</span></span>
+<span class="topo-ruler">       250       260        </span>
 <span class="topo-line"><span class="topo-membrane">IVGGALFMGLGT</span><span class="topo-inside">YILGKEK</span><span class="topo-unknown">LNAAAENLY</span></span>
+<details class="topo-details"><summary>Topology coordinates (23 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -5207,6 +5284,7 @@ HSC (hydrosulfide channel) is a pentameric membrane channel from Clostridium dif
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -5222,11 +5300,13 @@ HSC (hydrosulfide channel) is a pentameric membrane channel from Clostridium dif
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MG</span><span class="topo-inside">RA</span><span class="topo-unknown">HKETLDKLTNAAINKINLLNT</span><span class="topo-inside">SKVKY</span><span class="topo-membrane">LVSSAFAGLYVGIGILLIF</span><span class="topo-outside">TIGGLLTDAGS</span></span>
-<span class="topo-line"><span class="topo-outside">PMTKI</span><span class="topo-membrane">VMGLSFAIALSLVIMTG</span><span class="topo-inside">T</span><span class="topo-unknown">ELFTGNNMVMS</span><span class="topo-inside">AGMLNKGVSIKDT</span><span class="topo-membrane">SKIWAYSWVGNLI</span></span>
-<span class="topo-line"><span class="topo-membrane">GALVLGIIFVGT</span><span class="topo-outside">GLVDKG</span><span class="topo-unknown">PVAEFFANTAASKAS</span><span class="topo-outside">MPF</span><span class="topo-membrane">TALFFRGILCNILVCVSVLCS</span><span class="topo-inside">FRT</span></span>
-<span class="topo-line"><span class="topo-inside">NS</span><span class="topo-membrane">DTAKIIMIFLCLFAFITS</span><span class="topo-outside">G</span><span class="topo-unknown">FEHSVANMTIYSV</span><span class="topo-outside">SLFSPTISTVTIGGA</span><span class="topo-membrane">IYNLVAVTLGN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MG</span><span class="topo-inside">RA</span><span class="topo-unknown">HKETLDKLTNAAINKINLLNT</span><span class="topo-inside">SKVKY</span><span class="topo-membrane">LVSSAFAGLYVGIGILLIF</span><span class="topo-outside">TIGGLLTDAGSPMTKI</span><span class="topo-membrane">VMGLSFAIALSLVIMTG</span><span class="topo-inside">T</span><span class="topo-unknown">ELFTGNNMVMS</span><span class="topo-inside">AGMLNKGVSIKDT</span><span class="topo-membrane">SKIWAYSWVGNLI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GALVLGIIFVGT</span><span class="topo-outside">GLVDKG</span><span class="topo-unknown">PVAEFFANTAASKAS</span><span class="topo-outside">MPF</span><span class="topo-membrane">TALFFRGILCNILVCVSVLCS</span><span class="topo-inside">FRTNS</span><span class="topo-membrane">DTAKIIMIFLCLFAFITS</span><span class="topo-outside">G</span><span class="topo-unknown">FEHSVANMTIYSV</span><span class="topo-outside">SLFSPTISTVTIGGA</span><span class="topo-membrane">IYNLVAVTLGN</span></span>
+<span class="topo-ruler">       250       260        </span>
 <span class="topo-line"><span class="topo-membrane">IVGGALFMGLGT</span><span class="topo-inside">YILGKEK</span><span class="topo-unknown">LNAAAENLY</span></span>
+<details class="topo-details"><summary>Topology coordinates (23 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -5399,6 +5479,7 @@ HSC (hydrosulfide channel) is a pentameric membrane channel from Clostridium dif
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -5414,11 +5495,13 @@ HSC (hydrosulfide channel) is a pentameric membrane channel from Clostridium dif
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MG</span><span class="topo-inside">RA</span><span class="topo-unknown">HKETLDKLTNAAINKINLLNT</span><span class="topo-inside">SKVKY</span><span class="topo-membrane">LVSSAFAGLYVGIGILLIF</span><span class="topo-outside">TIGGLLTDAGS</span></span>
-<span class="topo-line"><span class="topo-outside">PMTKI</span><span class="topo-membrane">VMGLSFAIALSLVIMTG</span><span class="topo-inside">T</span><span class="topo-unknown">ELFTGNNMVMS</span><span class="topo-inside">AGMLNKGVSIKDT</span><span class="topo-membrane">SKIWAYSWVGNLI</span></span>
-<span class="topo-line"><span class="topo-membrane">GALVLGIIFVGT</span><span class="topo-outside">GLVDKG</span><span class="topo-unknown">PVAEFFANTAASKA</span><span class="topo-outside">SMPF</span><span class="topo-membrane">TALFFRGILCNILVCVSVLCS</span><span class="topo-inside">FRT</span></span>
-<span class="topo-line"><span class="topo-inside">NS</span><span class="topo-membrane">DTAKIIMIFLCLFAFITSG</span><span class="topo-outside">F</span><span class="topo-unknown">EHSVANMTIYSV</span><span class="topo-outside">SLFSPTISTVTIGGA</span><span class="topo-membrane">IYNLVAVTLGN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MG</span><span class="topo-inside">RA</span><span class="topo-unknown">HKETLDKLTNAAINKINLLNT</span><span class="topo-inside">SKVKY</span><span class="topo-membrane">LVSSAFAGLYVGIGILLIF</span><span class="topo-outside">TIGGLLTDAGSPMTKI</span><span class="topo-membrane">VMGLSFAIALSLVIMTG</span><span class="topo-inside">T</span><span class="topo-unknown">ELFTGNNMVMS</span><span class="topo-inside">AGMLNKGVSIKDT</span><span class="topo-membrane">SKIWAYSWVGNLI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GALVLGIIFVGT</span><span class="topo-outside">GLVDKG</span><span class="topo-unknown">PVAEFFANTAASKA</span><span class="topo-outside">SMPF</span><span class="topo-membrane">TALFFRGILCNILVCVSVLCS</span><span class="topo-inside">FRTNS</span><span class="topo-membrane">DTAKIIMIFLCLFAFITSG</span><span class="topo-outside">F</span><span class="topo-unknown">EHSVANMTIYSV</span><span class="topo-outside">SLFSPTISTVTIGGA</span><span class="topo-membrane">IYNLVAVTLGN</span></span>
+<span class="topo-ruler">       250       260        </span>
 <span class="topo-line"><span class="topo-membrane">IVGGALFMGLGT</span><span class="topo-inside">YILGKEKLNAAAENLY</span></span>
+<details class="topo-details"><summary>Topology coordinates (22 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -5584,6 +5667,7 @@ HSC (hydrosulfide channel) is a pentameric membrane channel from Clostridium dif
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -5599,11 +5683,13 @@ HSC (hydrosulfide channel) is a pentameric membrane channel from Clostridium dif
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MG</span><span class="topo-inside">RA</span><span class="topo-unknown">HKETLDKLTNAAINKINLLNT</span><span class="topo-inside">SKVKY</span><span class="topo-membrane">LVSSAFAGLYVGIGILLIF</span><span class="topo-outside">TIGGLLTDAGS</span></span>
-<span class="topo-line"><span class="topo-outside">PMTKI</span><span class="topo-membrane">VMGLSFAIALSLVIMTG</span><span class="topo-inside">T</span><span class="topo-unknown">ELFTGNNMVMS</span><span class="topo-inside">AGMLNKGVSIKDT</span><span class="topo-membrane">SKIWAYSWVGNLI</span></span>
-<span class="topo-line"><span class="topo-membrane">GALVLGIIFVGT</span><span class="topo-outside">GLVDKG</span><span class="topo-unknown">PVAEFFANTAASKAS</span><span class="topo-outside">MPF</span><span class="topo-membrane">TALFFRGILCNILVCVSVLCS</span><span class="topo-inside">FRT</span></span>
-<span class="topo-line"><span class="topo-inside">NS</span><span class="topo-membrane">DTAKIIMIFLCLFAFITS</span><span class="topo-outside">G</span><span class="topo-unknown">FEHSVANMTIYSV</span><span class="topo-outside">SLFSPTISTVTIGGA</span><span class="topo-membrane">IYNLVAVTLGN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MG</span><span class="topo-inside">RA</span><span class="topo-unknown">HKETLDKLTNAAINKINLLNT</span><span class="topo-inside">SKVKY</span><span class="topo-membrane">LVSSAFAGLYVGIGILLIF</span><span class="topo-outside">TIGGLLTDAGSPMTKI</span><span class="topo-membrane">VMGLSFAIALSLVIMTG</span><span class="topo-inside">T</span><span class="topo-unknown">ELFTGNNMVMS</span><span class="topo-inside">AGMLNKGVSIKDT</span><span class="topo-membrane">SKIWAYSWVGNLI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GALVLGIIFVGT</span><span class="topo-outside">GLVDKG</span><span class="topo-unknown">PVAEFFANTAASKAS</span><span class="topo-outside">MPF</span><span class="topo-membrane">TALFFRGILCNILVCVSVLCS</span><span class="topo-inside">FRTNS</span><span class="topo-membrane">DTAKIIMIFLCLFAFITS</span><span class="topo-outside">G</span><span class="topo-unknown">FEHSVANMTIYSV</span><span class="topo-outside">SLFSPTISTVTIGGA</span><span class="topo-membrane">IYNLVAVTLGN</span></span>
+<span class="topo-ruler">       250       260        </span>
 <span class="topo-line"><span class="topo-membrane">IVGGALFMGLGT</span><span class="topo-inside">YILGKEK</span><span class="topo-unknown">LNAAAENLY</span></span>
+<details class="topo-details"><summary>Topology coordinates (23 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -5776,6 +5862,7 @@ HSC (hydrosulfide channel) is a pentameric membrane channel from Clostridium dif
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -5791,11 +5878,13 @@ HSC (hydrosulfide channel) is a pentameric membrane channel from Clostridium dif
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MG</span><span class="topo-inside">RA</span><span class="topo-unknown">HKETLDKLTNAAINKINLLNT</span><span class="topo-inside">SKVKY</span><span class="topo-membrane">LVSSAFAGLYVGIGILLIF</span><span class="topo-outside">TIGGLLTDAGS</span></span>
-<span class="topo-line"><span class="topo-outside">PMTKI</span><span class="topo-membrane">VMGLSFAIALSLVIMTG</span><span class="topo-inside">T</span><span class="topo-unknown">ELFTGNNMVMS</span><span class="topo-inside">AGMLNKGVSIKDT</span><span class="topo-membrane">SKIWAYSWVGNLI</span></span>
-<span class="topo-line"><span class="topo-membrane">GALVLGIIFVGT</span><span class="topo-outside">GLVDKG</span><span class="topo-unknown">PVAEFFANTAASKAS</span><span class="topo-outside">MPF</span><span class="topo-membrane">TALFFRGILCNILVCVSVLCS</span><span class="topo-inside">FRT</span></span>
-<span class="topo-line"><span class="topo-inside">NS</span><span class="topo-membrane">DTAKIIMIFLCLFAFITS</span><span class="topo-outside">G</span><span class="topo-unknown">FEHSVANMTIYSV</span><span class="topo-outside">SLFSPTISTVTIGGA</span><span class="topo-membrane">IYNLVAVTLGN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MG</span><span class="topo-inside">RA</span><span class="topo-unknown">HKETLDKLTNAAINKINLLNT</span><span class="topo-inside">SKVKY</span><span class="topo-membrane">LVSSAFAGLYVGIGILLIF</span><span class="topo-outside">TIGGLLTDAGSPMTKI</span><span class="topo-membrane">VMGLSFAIALSLVIMTG</span><span class="topo-inside">T</span><span class="topo-unknown">ELFTGNNMVMS</span><span class="topo-inside">AGMLNKGVSIKDT</span><span class="topo-membrane">SKIWAYSWVGNLI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GALVLGIIFVGT</span><span class="topo-outside">GLVDKG</span><span class="topo-unknown">PVAEFFANTAASKAS</span><span class="topo-outside">MPF</span><span class="topo-membrane">TALFFRGILCNILVCVSVLCS</span><span class="topo-inside">FRTNS</span><span class="topo-membrane">DTAKIIMIFLCLFAFITS</span><span class="topo-outside">G</span><span class="topo-unknown">FEHSVANMTIYSV</span><span class="topo-outside">SLFSPTISTVTIGGA</span><span class="topo-membrane">IYNLVAVTLGN</span></span>
+<span class="topo-ruler">       250       260        </span>
 <span class="topo-line"><span class="topo-membrane">IVGGALFMGLGT</span><span class="topo-inside">YILGKEK</span><span class="topo-unknown">LNAAAENLY</span></span>
+<details class="topo-details"><summary>Topology coordinates (23 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -5968,6 +6057,7 @@ HSC (hydrosulfide channel) is a pentameric membrane channel from Clostridium dif
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -5983,11 +6073,13 @@ HSC (hydrosulfide channel) is a pentameric membrane channel from Clostridium dif
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MG</span><span class="topo-inside">RA</span><span class="topo-unknown">HKETLDKLTNAAINKINLLNT</span><span class="topo-inside">SKVKY</span><span class="topo-membrane">LVSSAFAGLYVGIGILLIF</span><span class="topo-outside">TIGGLLTDAGS</span></span>
-<span class="topo-line"><span class="topo-outside">PMTKI</span><span class="topo-membrane">VMGLSFAIALSLVIMTG</span><span class="topo-inside">T</span><span class="topo-unknown">ELFTGNNMVMS</span><span class="topo-inside">AGMLNKGVSIKDT</span><span class="topo-membrane">SKIWAYSWVGNLI</span></span>
-<span class="topo-line"><span class="topo-membrane">GALVLGIIFVGT</span><span class="topo-outside">GLVDKG</span><span class="topo-unknown">PVAEFFANTAASKAS</span><span class="topo-outside">MPF</span><span class="topo-membrane">TALFFRGILCNILVCVSVLCS</span><span class="topo-inside">FRT</span></span>
-<span class="topo-line"><span class="topo-inside">NS</span><span class="topo-membrane">DTAKIIMIFLCLFAFITS</span><span class="topo-outside">G</span><span class="topo-unknown">FEHSVANMTIYSV</span><span class="topo-outside">SLFSPTISTVTIGGA</span><span class="topo-membrane">IYNLVAVTLGN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MG</span><span class="topo-inside">RA</span><span class="topo-unknown">HKETLDKLTNAAINKINLLNT</span><span class="topo-inside">SKVKY</span><span class="topo-membrane">LVSSAFAGLYVGIGILLIF</span><span class="topo-outside">TIGGLLTDAGSPMTKI</span><span class="topo-membrane">VMGLSFAIALSLVIMTG</span><span class="topo-inside">T</span><span class="topo-unknown">ELFTGNNMVMS</span><span class="topo-inside">AGMLNKGVSIKDT</span><span class="topo-membrane">SKIWAYSWVGNLI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GALVLGIIFVGT</span><span class="topo-outside">GLVDKG</span><span class="topo-unknown">PVAEFFANTAASKAS</span><span class="topo-outside">MPF</span><span class="topo-membrane">TALFFRGILCNILVCVSVLCS</span><span class="topo-inside">FRTNS</span><span class="topo-membrane">DTAKIIMIFLCLFAFITS</span><span class="topo-outside">G</span><span class="topo-unknown">FEHSVANMTIYSV</span><span class="topo-outside">SLFSPTISTVTIGGA</span><span class="topo-membrane">IYNLVAVTLGN</span></span>
+<span class="topo-ruler">       250       260        </span>
 <span class="topo-line"><span class="topo-membrane">IVGGALFMGLGT</span><span class="topo-inside">YILGKEK</span><span class="topo-unknown">LNAAAENLY</span></span>
+<details class="topo-details"><summary>Topology coordinates (23 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -6160,6 +6252,7 @@ HSC (hydrosulfide channel) is a pentameric membrane channel from Clostridium dif
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -6175,11 +6268,13 @@ HSC (hydrosulfide channel) is a pentameric membrane channel from Clostridium dif
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MG</span><span class="topo-inside">RA</span><span class="topo-unknown">HKETLDKLTNAAINKINLLNT</span><span class="topo-inside">SKVKY</span><span class="topo-membrane">LVSSAFAGLYVGIGILLIF</span><span class="topo-outside">TIGGLLTDAGS</span></span>
-<span class="topo-line"><span class="topo-outside">PMTKI</span><span class="topo-membrane">VMGLSFAIALSLVIMTG</span><span class="topo-inside">T</span><span class="topo-unknown">ELFTGNNMVMS</span><span class="topo-inside">AGMLNKGVSIKDT</span><span class="topo-membrane">SKIWAYSWVGNLI</span></span>
-<span class="topo-line"><span class="topo-membrane">GALVLGIIFVGT</span><span class="topo-outside">GLVDKG</span><span class="topo-unknown">PVAEFFANTAASKAS</span><span class="topo-outside">MPF</span><span class="topo-membrane">TALFFRGILCNILVCVSVLCS</span><span class="topo-inside">FRT</span></span>
-<span class="topo-line"><span class="topo-inside">NS</span><span class="topo-membrane">DTAKIIMIFLCLFAFITS</span><span class="topo-outside">G</span><span class="topo-unknown">FEHSVANMTIYSV</span><span class="topo-outside">SLFSPTISTVTIGGA</span><span class="topo-membrane">IYNLVAVTLGN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MG</span><span class="topo-inside">RA</span><span class="topo-unknown">HKETLDKLTNAAINKINLLNT</span><span class="topo-inside">SKVKY</span><span class="topo-membrane">LVSSAFAGLYVGIGILLIF</span><span class="topo-outside">TIGGLLTDAGSPMTKI</span><span class="topo-membrane">VMGLSFAIALSLVIMTG</span><span class="topo-inside">T</span><span class="topo-unknown">ELFTGNNMVMS</span><span class="topo-inside">AGMLNKGVSIKDT</span><span class="topo-membrane">SKIWAYSWVGNLI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GALVLGIIFVGT</span><span class="topo-outside">GLVDKG</span><span class="topo-unknown">PVAEFFANTAASKAS</span><span class="topo-outside">MPF</span><span class="topo-membrane">TALFFRGILCNILVCVSVLCS</span><span class="topo-inside">FRTNS</span><span class="topo-membrane">DTAKIIMIFLCLFAFITS</span><span class="topo-outside">G</span><span class="topo-unknown">FEHSVANMTIYSV</span><span class="topo-outside">SLFSPTISTVTIGGA</span><span class="topo-membrane">IYNLVAVTLGN</span></span>
+<span class="topo-ruler">       250       260        </span>
 <span class="topo-line"><span class="topo-membrane">IVGGALFMGLGT</span><span class="topo-inside">YILGKEK</span><span class="topo-unknown">LNAAAENLY</span></span>
+<details class="topo-details"><summary>Topology coordinates (23 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -6352,6 +6447,7 @@ HSC (hydrosulfide channel) is a pentameric membrane channel from Clostridium dif
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -6367,11 +6463,13 @@ HSC (hydrosulfide channel) is a pentameric membrane channel from Clostridium dif
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MG</span><span class="topo-inside">RA</span><span class="topo-unknown">HKETLDKLTNAAINKINLLNT</span><span class="topo-inside">SKVKY</span><span class="topo-membrane">LVSSAFAGLYVGIGILLIF</span><span class="topo-outside">TIGGLLTDAGS</span></span>
-<span class="topo-line"><span class="topo-outside">PMTKI</span><span class="topo-membrane">VMGLSFAIALSLVIMTG</span><span class="topo-inside">T</span><span class="topo-unknown">ELFTGNNMVMS</span><span class="topo-inside">AGMLNKGVSIKDT</span><span class="topo-membrane">SKIWAYSWVGNLI</span></span>
-<span class="topo-line"><span class="topo-membrane">GALVLGIIFVGT</span><span class="topo-outside">GLVDKG</span><span class="topo-unknown">PVAEFFANTAASKA</span><span class="topo-outside">SMPF</span><span class="topo-membrane">TALFFRGILCNILVCVSVLCS</span><span class="topo-inside">FRT</span></span>
-<span class="topo-line"><span class="topo-inside">NS</span><span class="topo-membrane">DTAKIIMIFLCLFAFITSG</span><span class="topo-outside">F</span><span class="topo-unknown">EHSVANMTIYSV</span><span class="topo-outside">SLFSPTISTVTIGGA</span><span class="topo-membrane">IYNLVAVTLGN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MG</span><span class="topo-inside">RA</span><span class="topo-unknown">HKETLDKLTNAAINKINLLNT</span><span class="topo-inside">SKVKY</span><span class="topo-membrane">LVSSAFAGLYVGIGILLIF</span><span class="topo-outside">TIGGLLTDAGSPMTKI</span><span class="topo-membrane">VMGLSFAIALSLVIMTG</span><span class="topo-inside">T</span><span class="topo-unknown">ELFTGNNMVMS</span><span class="topo-inside">AGMLNKGVSIKDT</span><span class="topo-membrane">SKIWAYSWVGNLI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GALVLGIIFVGT</span><span class="topo-outside">GLVDKG</span><span class="topo-unknown">PVAEFFANTAASKA</span><span class="topo-outside">SMPF</span><span class="topo-membrane">TALFFRGILCNILVCVSVLCS</span><span class="topo-inside">FRTNS</span><span class="topo-membrane">DTAKIIMIFLCLFAFITSG</span><span class="topo-outside">F</span><span class="topo-unknown">EHSVANMTIYSV</span><span class="topo-outside">SLFSPTISTVTIGGA</span><span class="topo-membrane">IYNLVAVTLGN</span></span>
+<span class="topo-ruler">       250       260        </span>
 <span class="topo-line"><span class="topo-membrane">IVGGALFMGLGT</span><span class="topo-inside">YILGKEKLNAAAENLY</span></span>
+<details class="topo-details"><summary>Topology coordinates (22 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -6537,6 +6635,7 @@ HSC (hydrosulfide channel) is a pentameric membrane channel from Clostridium dif
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -6552,11 +6651,13 @@ HSC (hydrosulfide channel) is a pentameric membrane channel from Clostridium dif
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MG</span><span class="topo-inside">RA</span><span class="topo-unknown">HKETLDKLTNAAINKINLLNT</span><span class="topo-inside">SKVKY</span><span class="topo-membrane">LVSSAFAGLYVGIGILLIF</span><span class="topo-outside">TIGGLLTDAGS</span></span>
-<span class="topo-line"><span class="topo-outside">PMTKI</span><span class="topo-membrane">VMGLSFAIALSLVIMTG</span><span class="topo-inside">T</span><span class="topo-unknown">ELFTGNNMVMS</span><span class="topo-inside">AGMLNKGVSIKDT</span><span class="topo-membrane">SKIWAYSWVGNLI</span></span>
-<span class="topo-line"><span class="topo-membrane">GALVLGIIFVGT</span><span class="topo-outside">GLVDKG</span><span class="topo-unknown">PVAEFFANTAASKAS</span><span class="topo-outside">MPF</span><span class="topo-membrane">TALFFRGILCNILVCVSVLCS</span><span class="topo-inside">FRT</span></span>
-<span class="topo-line"><span class="topo-inside">NS</span><span class="topo-membrane">DTAKIIMIFLCLFAFITS</span><span class="topo-outside">G</span><span class="topo-unknown">FEHSVANMTIYSV</span><span class="topo-outside">SLFSPTISTVTIGGA</span><span class="topo-membrane">IYNLVAVTLGN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MG</span><span class="topo-inside">RA</span><span class="topo-unknown">HKETLDKLTNAAINKINLLNT</span><span class="topo-inside">SKVKY</span><span class="topo-membrane">LVSSAFAGLYVGIGILLIF</span><span class="topo-outside">TIGGLLTDAGSPMTKI</span><span class="topo-membrane">VMGLSFAIALSLVIMTG</span><span class="topo-inside">T</span><span class="topo-unknown">ELFTGNNMVMS</span><span class="topo-inside">AGMLNKGVSIKDT</span><span class="topo-membrane">SKIWAYSWVGNLI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GALVLGIIFVGT</span><span class="topo-outside">GLVDKG</span><span class="topo-unknown">PVAEFFANTAASKAS</span><span class="topo-outside">MPF</span><span class="topo-membrane">TALFFRGILCNILVCVSVLCS</span><span class="topo-inside">FRTNS</span><span class="topo-membrane">DTAKIIMIFLCLFAFITS</span><span class="topo-outside">G</span><span class="topo-unknown">FEHSVANMTIYSV</span><span class="topo-outside">SLFSPTISTVTIGGA</span><span class="topo-membrane">IYNLVAVTLGN</span></span>
+<span class="topo-ruler">       250       260        </span>
 <span class="topo-line"><span class="topo-membrane">IVGGALFMGLGT</span><span class="topo-inside">YILGKEK</span><span class="topo-unknown">LNAAAENLY</span></span>
+<details class="topo-details"><summary>Topology coordinates (23 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -6729,6 +6830,7 @@ HSC (hydrosulfide channel) is a pentameric membrane channel from Clostridium dif
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -6744,11 +6846,13 @@ HSC (hydrosulfide channel) is a pentameric membrane channel from Clostridium dif
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MG</span><span class="topo-inside">RA</span><span class="topo-unknown">HKETLDKLTNAAINKINLLNT</span><span class="topo-inside">SKVKY</span><span class="topo-membrane">LVSSAFAGLYVGIGILLIF</span><span class="topo-outside">TIGGLLTDAGS</span></span>
-<span class="topo-line"><span class="topo-outside">PMTKI</span><span class="topo-membrane">VMGLSFAIALSLVIMTG</span><span class="topo-inside">T</span><span class="topo-unknown">ELFTGNNMVMS</span><span class="topo-inside">AGMLNKGVSIKDT</span><span class="topo-membrane">SKIWAYSWVGNLI</span></span>
-<span class="topo-line"><span class="topo-membrane">GALVLGIIFVGT</span><span class="topo-outside">GLVDKG</span><span class="topo-unknown">PVAEFFANTAASKAS</span><span class="topo-outside">MPF</span><span class="topo-membrane">TALFFRGILCNILVCVSVLCS</span><span class="topo-inside">FRT</span></span>
-<span class="topo-line"><span class="topo-inside">NS</span><span class="topo-membrane">DTAKIIMIFLCLFAFITS</span><span class="topo-outside">G</span><span class="topo-unknown">FEHSVANMTIYSV</span><span class="topo-outside">SLFSPTISTVTIGGA</span><span class="topo-membrane">IYNLVAVTLGN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MG</span><span class="topo-inside">RA</span><span class="topo-unknown">HKETLDKLTNAAINKINLLNT</span><span class="topo-inside">SKVKY</span><span class="topo-membrane">LVSSAFAGLYVGIGILLIF</span><span class="topo-outside">TIGGLLTDAGSPMTKI</span><span class="topo-membrane">VMGLSFAIALSLVIMTG</span><span class="topo-inside">T</span><span class="topo-unknown">ELFTGNNMVMS</span><span class="topo-inside">AGMLNKGVSIKDT</span><span class="topo-membrane">SKIWAYSWVGNLI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GALVLGIIFVGT</span><span class="topo-outside">GLVDKG</span><span class="topo-unknown">PVAEFFANTAASKAS</span><span class="topo-outside">MPF</span><span class="topo-membrane">TALFFRGILCNILVCVSVLCS</span><span class="topo-inside">FRTNS</span><span class="topo-membrane">DTAKIIMIFLCLFAFITS</span><span class="topo-outside">G</span><span class="topo-unknown">FEHSVANMTIYSV</span><span class="topo-outside">SLFSPTISTVTIGGA</span><span class="topo-membrane">IYNLVAVTLGN</span></span>
+<span class="topo-ruler">       250       260        </span>
 <span class="topo-line"><span class="topo-membrane">IVGGALFMGLGT</span><span class="topo-inside">YILGKEK</span><span class="topo-unknown">LNAAAENLY</span></span>
+<details class="topo-details"><summary>Topology coordinates (23 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -6921,6 +7025,7 @@ HSC (hydrosulfide channel) is a pentameric membrane channel from Clostridium dif
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -6936,11 +7041,13 @@ HSC (hydrosulfide channel) is a pentameric membrane channel from Clostridium dif
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MG</span><span class="topo-inside">RA</span><span class="topo-unknown">HKETLDKLTNAAINKINLLNT</span><span class="topo-inside">SKVKY</span><span class="topo-membrane">LVSSAFAGLYVGIGILLIF</span><span class="topo-outside">TIGGLLTDAGS</span></span>
-<span class="topo-line"><span class="topo-outside">PMTKI</span><span class="topo-membrane">VMGLSFAIALSLVIMTG</span><span class="topo-inside">T</span><span class="topo-unknown">ELFTGNNMVMS</span><span class="topo-inside">AGMLNKGVSIKDT</span><span class="topo-membrane">SKIWAYSWVGNLI</span></span>
-<span class="topo-line"><span class="topo-membrane">GALVLGIIFVGT</span><span class="topo-outside">GLVDKG</span><span class="topo-unknown">PVAEFFANTAASKAS</span><span class="topo-outside">MPF</span><span class="topo-membrane">TALFFRGILCNILVCVSVLCS</span><span class="topo-inside">FRT</span></span>
-<span class="topo-line"><span class="topo-inside">NS</span><span class="topo-membrane">DTAKIIMIFLCLFAFITS</span><span class="topo-outside">G</span><span class="topo-unknown">FEHSVANMTIYSV</span><span class="topo-outside">SLFSPTISTVTIGGA</span><span class="topo-membrane">IYNLVAVTLGN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MG</span><span class="topo-inside">RA</span><span class="topo-unknown">HKETLDKLTNAAINKINLLNT</span><span class="topo-inside">SKVKY</span><span class="topo-membrane">LVSSAFAGLYVGIGILLIF</span><span class="topo-outside">TIGGLLTDAGSPMTKI</span><span class="topo-membrane">VMGLSFAIALSLVIMTG</span><span class="topo-inside">T</span><span class="topo-unknown">ELFTGNNMVMS</span><span class="topo-inside">AGMLNKGVSIKDT</span><span class="topo-membrane">SKIWAYSWVGNLI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GALVLGIIFVGT</span><span class="topo-outside">GLVDKG</span><span class="topo-unknown">PVAEFFANTAASKAS</span><span class="topo-outside">MPF</span><span class="topo-membrane">TALFFRGILCNILVCVSVLCS</span><span class="topo-inside">FRTNS</span><span class="topo-membrane">DTAKIIMIFLCLFAFITS</span><span class="topo-outside">G</span><span class="topo-unknown">FEHSVANMTIYSV</span><span class="topo-outside">SLFSPTISTVTIGGA</span><span class="topo-membrane">IYNLVAVTLGN</span></span>
+<span class="topo-ruler">       250       260        </span>
 <span class="topo-line"><span class="topo-membrane">IVGGALFMGLGT</span><span class="topo-inside">YILGKEK</span><span class="topo-unknown">LNAAAENLY</span></span>
+<details class="topo-details"><summary>Topology coordinates (23 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -7113,6 +7220,7 @@ HSC (hydrosulfide channel) is a pentameric membrane channel from Clostridium dif
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -7128,11 +7236,13 @@ HSC (hydrosulfide channel) is a pentameric membrane channel from Clostridium dif
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MG</span><span class="topo-inside">RA</span><span class="topo-unknown">HKETLDKLTNAAINKINLLNT</span><span class="topo-inside">SKVKY</span><span class="topo-membrane">LVSSAFAGLYVGIGILLIF</span><span class="topo-outside">TIGGLLTDAGS</span></span>
-<span class="topo-line"><span class="topo-outside">PMTKI</span><span class="topo-membrane">VMGLSFAIALSLVIMTG</span><span class="topo-inside">T</span><span class="topo-unknown">ELFTGNNMVMS</span><span class="topo-inside">AGMLNKGVSIKDT</span><span class="topo-membrane">SKIWAYSWVGNLI</span></span>
-<span class="topo-line"><span class="topo-membrane">GALVLGIIFVGT</span><span class="topo-outside">GLVDKG</span><span class="topo-unknown">PVAEFFANTAASKAS</span><span class="topo-outside">MPF</span><span class="topo-membrane">TALFFRGILCNILVCVSVLCS</span><span class="topo-inside">FRT</span></span>
-<span class="topo-line"><span class="topo-inside">NS</span><span class="topo-membrane">DTAKIIMIFLCLFAFITS</span><span class="topo-outside">G</span><span class="topo-unknown">FEHSVANMTIYSV</span><span class="topo-outside">SLFSPTISTVTIGGA</span><span class="topo-membrane">IYNLVAVTLGN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MG</span><span class="topo-inside">RA</span><span class="topo-unknown">HKETLDKLTNAAINKINLLNT</span><span class="topo-inside">SKVKY</span><span class="topo-membrane">LVSSAFAGLYVGIGILLIF</span><span class="topo-outside">TIGGLLTDAGSPMTKI</span><span class="topo-membrane">VMGLSFAIALSLVIMTG</span><span class="topo-inside">T</span><span class="topo-unknown">ELFTGNNMVMS</span><span class="topo-inside">AGMLNKGVSIKDT</span><span class="topo-membrane">SKIWAYSWVGNLI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GALVLGIIFVGT</span><span class="topo-outside">GLVDKG</span><span class="topo-unknown">PVAEFFANTAASKAS</span><span class="topo-outside">MPF</span><span class="topo-membrane">TALFFRGILCNILVCVSVLCS</span><span class="topo-inside">FRTNS</span><span class="topo-membrane">DTAKIIMIFLCLFAFITS</span><span class="topo-outside">G</span><span class="topo-unknown">FEHSVANMTIYSV</span><span class="topo-outside">SLFSPTISTVTIGGA</span><span class="topo-membrane">IYNLVAVTLGN</span></span>
+<span class="topo-ruler">       250       260        </span>
 <span class="topo-line"><span class="topo-membrane">IVGGALFMGLGT</span><span class="topo-inside">YILGKEK</span><span class="topo-unknown">LNAAAENLY</span></span>
+<details class="topo-details"><summary>Topology coordinates (23 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -7305,6 +7415,7 @@ HSC (hydrosulfide channel) is a pentameric membrane channel from Clostridium dif
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -7320,11 +7431,13 @@ HSC (hydrosulfide channel) is a pentameric membrane channel from Clostridium dif
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MG</span><span class="topo-inside">RA</span><span class="topo-unknown">HKETLDKLTNAAINKINLLNT</span><span class="topo-inside">SKVKY</span><span class="topo-membrane">LVSSAFAGLYVGIGILLIF</span><span class="topo-outside">TIGGLLTDAGS</span></span>
-<span class="topo-line"><span class="topo-outside">PMTKI</span><span class="topo-membrane">VMGLSFAIALSLVIMTG</span><span class="topo-inside">T</span><span class="topo-unknown">ELFTGNNMVMS</span><span class="topo-inside">AGMLNKGVSIKDT</span><span class="topo-membrane">SKIWAYSWVGNLI</span></span>
-<span class="topo-line"><span class="topo-membrane">GALVLGIIFVGT</span><span class="topo-outside">GLVDKG</span><span class="topo-unknown">PVAEFFANTAASKA</span><span class="topo-outside">SMPF</span><span class="topo-membrane">TALFFRGILCNILVCVSVLCS</span><span class="topo-inside">FRT</span></span>
-<span class="topo-line"><span class="topo-inside">NS</span><span class="topo-membrane">DTAKIIMIFLCLFAFITSG</span><span class="topo-outside">F</span><span class="topo-unknown">EHSVANMTIYSV</span><span class="topo-outside">SLFSPTISTVTIGGA</span><span class="topo-membrane">IYNLVAVTLGN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MG</span><span class="topo-inside">RA</span><span class="topo-unknown">HKETLDKLTNAAINKINLLNT</span><span class="topo-inside">SKVKY</span><span class="topo-membrane">LVSSAFAGLYVGIGILLIF</span><span class="topo-outside">TIGGLLTDAGSPMTKI</span><span class="topo-membrane">VMGLSFAIALSLVIMTG</span><span class="topo-inside">T</span><span class="topo-unknown">ELFTGNNMVMS</span><span class="topo-inside">AGMLNKGVSIKDT</span><span class="topo-membrane">SKIWAYSWVGNLI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GALVLGIIFVGT</span><span class="topo-outside">GLVDKG</span><span class="topo-unknown">PVAEFFANTAASKA</span><span class="topo-outside">SMPF</span><span class="topo-membrane">TALFFRGILCNILVCVSVLCS</span><span class="topo-inside">FRTNS</span><span class="topo-membrane">DTAKIIMIFLCLFAFITSG</span><span class="topo-outside">F</span><span class="topo-unknown">EHSVANMTIYSV</span><span class="topo-outside">SLFSPTISTVTIGGA</span><span class="topo-membrane">IYNLVAVTLGN</span></span>
+<span class="topo-ruler">       250       260        </span>
 <span class="topo-line"><span class="topo-membrane">IVGGALFMGLGT</span><span class="topo-inside">YILGKEKLNAAAENLY</span></span>
+<details class="topo-details"><summary>Topology coordinates (22 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -7490,6 +7603,7 @@ HSC (hydrosulfide channel) is a pentameric membrane channel from Clostridium dif
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -7505,11 +7619,13 @@ HSC (hydrosulfide channel) is a pentameric membrane channel from Clostridium dif
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MG</span><span class="topo-inside">RA</span><span class="topo-unknown">HKETLDKLTNAAINKINLLNT</span><span class="topo-inside">SKVKY</span><span class="topo-membrane">LVSSAFAGLYVGIGILLIF</span><span class="topo-outside">TIGGLLTDAGS</span></span>
-<span class="topo-line"><span class="topo-outside">PMTKI</span><span class="topo-membrane">VMGLSFAIALSLVIMTG</span><span class="topo-inside">T</span><span class="topo-unknown">ELFTGNNMVMS</span><span class="topo-inside">AGMLNKGVSIKDT</span><span class="topo-membrane">SKIWAYSWVGNLI</span></span>
-<span class="topo-line"><span class="topo-membrane">GALVLGIIFVGT</span><span class="topo-outside">GLVDKG</span><span class="topo-unknown">PVAEFFANTAASKAS</span><span class="topo-outside">MPF</span><span class="topo-membrane">TALFFRGILCNILVCVSVLCS</span><span class="topo-inside">FRT</span></span>
-<span class="topo-line"><span class="topo-inside">NS</span><span class="topo-membrane">DTAKIIMIFLCLFAFITS</span><span class="topo-outside">G</span><span class="topo-unknown">FEHSVANMTIYSV</span><span class="topo-outside">SLFSPTISTVTIGGA</span><span class="topo-membrane">IYNLVAVTLGN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MG</span><span class="topo-inside">RA</span><span class="topo-unknown">HKETLDKLTNAAINKINLLNT</span><span class="topo-inside">SKVKY</span><span class="topo-membrane">LVSSAFAGLYVGIGILLIF</span><span class="topo-outside">TIGGLLTDAGSPMTKI</span><span class="topo-membrane">VMGLSFAIALSLVIMTG</span><span class="topo-inside">T</span><span class="topo-unknown">ELFTGNNMVMS</span><span class="topo-inside">AGMLNKGVSIKDT</span><span class="topo-membrane">SKIWAYSWVGNLI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GALVLGIIFVGT</span><span class="topo-outside">GLVDKG</span><span class="topo-unknown">PVAEFFANTAASKAS</span><span class="topo-outside">MPF</span><span class="topo-membrane">TALFFRGILCNILVCVSVLCS</span><span class="topo-inside">FRTNS</span><span class="topo-membrane">DTAKIIMIFLCLFAFITS</span><span class="topo-outside">G</span><span class="topo-unknown">FEHSVANMTIYSV</span><span class="topo-outside">SLFSPTISTVTIGGA</span><span class="topo-membrane">IYNLVAVTLGN</span></span>
+<span class="topo-ruler">       250       260        </span>
 <span class="topo-line"><span class="topo-membrane">IVGGALFMGLGT</span><span class="topo-inside">YILGKEK</span><span class="topo-unknown">LNAAAENLY</span></span>
+<details class="topo-details"><summary>Topology coordinates (23 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -7682,6 +7798,7 @@ HSC (hydrosulfide channel) is a pentameric membrane channel from Clostridium dif
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -7697,11 +7814,13 @@ HSC (hydrosulfide channel) is a pentameric membrane channel from Clostridium dif
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MG</span><span class="topo-inside">RA</span><span class="topo-unknown">HKETLDKLTNAAINKINLLNT</span><span class="topo-inside">SKVKY</span><span class="topo-membrane">LVSSAFAGLYVGIGILLIF</span><span class="topo-outside">TIGGLLTDAGS</span></span>
-<span class="topo-line"><span class="topo-outside">PMTKI</span><span class="topo-membrane">VMGLSFAIALSLVIMTG</span><span class="topo-inside">T</span><span class="topo-unknown">ELFTGNNMVMS</span><span class="topo-inside">AGMLNKGVSIKDT</span><span class="topo-membrane">SKIWAYSWVGNLI</span></span>
-<span class="topo-line"><span class="topo-membrane">GALVLGIIFVGT</span><span class="topo-outside">GLVDKG</span><span class="topo-unknown">PVAEFFANTAASKAS</span><span class="topo-outside">MPF</span><span class="topo-membrane">TALFFRGILCNILVCVSVLCS</span><span class="topo-inside">FRT</span></span>
-<span class="topo-line"><span class="topo-inside">NS</span><span class="topo-membrane">DTAKIIMIFLCLFAFITS</span><span class="topo-outside">G</span><span class="topo-unknown">FEHSVANMTIYSV</span><span class="topo-outside">SLFSPTISTVTIGGA</span><span class="topo-membrane">IYNLVAVTLGN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MG</span><span class="topo-inside">RA</span><span class="topo-unknown">HKETLDKLTNAAINKINLLNT</span><span class="topo-inside">SKVKY</span><span class="topo-membrane">LVSSAFAGLYVGIGILLIF</span><span class="topo-outside">TIGGLLTDAGSPMTKI</span><span class="topo-membrane">VMGLSFAIALSLVIMTG</span><span class="topo-inside">T</span><span class="topo-unknown">ELFTGNNMVMS</span><span class="topo-inside">AGMLNKGVSIKDT</span><span class="topo-membrane">SKIWAYSWVGNLI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GALVLGIIFVGT</span><span class="topo-outside">GLVDKG</span><span class="topo-unknown">PVAEFFANTAASKAS</span><span class="topo-outside">MPF</span><span class="topo-membrane">TALFFRGILCNILVCVSVLCS</span><span class="topo-inside">FRTNS</span><span class="topo-membrane">DTAKIIMIFLCLFAFITS</span><span class="topo-outside">G</span><span class="topo-unknown">FEHSVANMTIYSV</span><span class="topo-outside">SLFSPTISTVTIGGA</span><span class="topo-membrane">IYNLVAVTLGN</span></span>
+<span class="topo-ruler">       250       260        </span>
 <span class="topo-line"><span class="topo-membrane">IVGGALFMGLGT</span><span class="topo-inside">YILGKEK</span><span class="topo-unknown">LNAAAENLY</span></span>
+<details class="topo-details"><summary>Topology coordinates (23 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -7874,6 +7993,7 @@ HSC (hydrosulfide channel) is a pentameric membrane channel from Clostridium dif
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

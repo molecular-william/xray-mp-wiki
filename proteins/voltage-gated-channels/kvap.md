@@ -140,10 +140,11 @@ KvAP is a voltage-dependent potassium channel from the thermophilic archaebacter
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">IGD</span><span class="topo-membrane">VMEHPLVELGVSYAALLSVIVVVVECTMQLSG</span><span class="topo-inside">EYLVRLYLVDLILVIILWADYAYRA</span></span>
-<span class="topo-line"><span class="topo-inside">YKSGDPAGYVKKTLYEIP</span><span class="topo-unknown">ALVPAGLLALIEGHLA</span><span class="topo-inside">GLGLFRLVRLLRFLRILLIISRGSKF</span></span>
-<span class="topo-line"><span class="topo-inside">LSAIADAADKIRF</span><span class="topo-membrane">YHLFGAVMLTVLYGAFAIYIV</span><span class="topo-outside">EYPDPNSSIKSV</span><span class="topo-unknown">FDALWWAVVTATTV</span></span>
-<span class="topo-line"><span class="topo-unknown">GYG</span><span class="topo-outside">DVVPATPI</span><span class="topo-membrane">GKVIGIAVMLTGISALTLLIGTVSNMFQ</span><span class="topo-inside">KILV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">IGD</span><span class="topo-membrane">VMEHPLVELGVSYAALLSVIVVVVECTMQLSG</span><span class="topo-inside">EYLVRLYLVDLILVIILWADYAYRAYKSGDPAGYVKKTLYEIP</span><span class="topo-unknown">ALVPAGLLALIEGHLA</span><span class="topo-inside">GLGLFRLVRLLRFLRILLIISRGSKF</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220   </span>
+<span class="topo-line"><span class="topo-inside">LSAIADAADKIRF</span><span class="topo-membrane">YHLFGAVMLTVLYGAFAIYIV</span><span class="topo-outside">EYPDPNSSIKSV</span><span class="topo-unknown">FDALWWAVVTATTVGYG</span><span class="topo-outside">DVVPATPI</span><span class="topo-membrane">GKVIGIAVMLTGISALTLLIGTVSNMFQ</span><span class="topo-inside">KILV</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -232,6 +233,7 @@ KvAP is a voltage-dependent potassium channel from the thermophilic archaebacter
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -247,10 +249,11 @@ KvAP is a voltage-dependent potassium channel from the thermophilic archaebacter
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">IGD</span><span class="topo-membrane">VMEHPLVELGVSYAALLSVIVVVVECTMQLSG</span><span class="topo-inside">EYLVRLYLVDLILVIILWADYAYRA</span></span>
-<span class="topo-line"><span class="topo-inside">YKSGDPAGYVKKTLYEIP</span><span class="topo-unknown">ALVPAGLLALIEGHLA</span><span class="topo-inside">GLGLFRLVRLLRFLRILLIISRGSKF</span></span>
-<span class="topo-line"><span class="topo-inside">LSAIADAADKIRF</span><span class="topo-membrane">YHLFGAVMLTVLYGAFAIYIV</span><span class="topo-outside">EYPDPNSSIKSV</span><span class="topo-unknown">FDALWWAVVTATTV</span></span>
-<span class="topo-line"><span class="topo-unknown">GYG</span><span class="topo-outside">DVVPATPI</span><span class="topo-membrane">GKVIGIAVMLTGISALTLLIGTVSNMFQ</span><span class="topo-inside">KILV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">IGD</span><span class="topo-membrane">VMEHPLVELGVSYAALLSVIVVVVECTMQLSG</span><span class="topo-inside">EYLVRLYLVDLILVIILWADYAYRAYKSGDPAGYVKKTLYEIP</span><span class="topo-unknown">ALVPAGLLALIEGHLA</span><span class="topo-inside">GLGLFRLVRLLRFLRILLIISRGSKF</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220   </span>
+<span class="topo-line"><span class="topo-inside">LSAIADAADKIRF</span><span class="topo-membrane">YHLFGAVMLTVLYGAFAIYIV</span><span class="topo-outside">EYPDPNSSIKSV</span><span class="topo-unknown">FDALWWAVVTATTVGYG</span><span class="topo-outside">DVVPATPI</span><span class="topo-membrane">GKVIGIAVMLTGISALTLLIGTVSNMFQ</span><span class="topo-inside">KILV</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -339,6 +342,7 @@ KvAP is a voltage-dependent potassium channel from the thermophilic archaebacter
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -354,10 +358,11 @@ KvAP is a voltage-dependent potassium channel from the thermophilic archaebacter
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">IGD</span><span class="topo-membrane">VMEHPLVELGVSYAALLSVIVVVVECTMQLSG</span><span class="topo-inside">EYLVRLYLVDLILVIILWADYAYRA</span></span>
-<span class="topo-line"><span class="topo-inside">YKSGDPAGYVKKTLYEIP</span><span class="topo-unknown">ALVPAGLLALIEGHLA</span><span class="topo-inside">GLGLFRLVRLLRFLRILLIISRGSKF</span></span>
-<span class="topo-line"><span class="topo-inside">LSAIADAADKIRF</span><span class="topo-membrane">YHLFGAVMLTVLYGAFAIYIV</span><span class="topo-outside">EYPDPNSSIKSV</span><span class="topo-unknown">FDALWWAVVTATTV</span></span>
-<span class="topo-line"><span class="topo-unknown">GYG</span><span class="topo-outside">DVVPATPI</span><span class="topo-membrane">GKVIGIAVMLTGISALTLLIGTVSNMFQ</span><span class="topo-inside">KILV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">IGD</span><span class="topo-membrane">VMEHPLVELGVSYAALLSVIVVVVECTMQLSG</span><span class="topo-inside">EYLVRLYLVDLILVIILWADYAYRAYKSGDPAGYVKKTLYEIP</span><span class="topo-unknown">ALVPAGLLALIEGHLA</span><span class="topo-inside">GLGLFRLVRLLRFLRILLIISRGSKF</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220   </span>
+<span class="topo-line"><span class="topo-inside">LSAIADAADKIRF</span><span class="topo-membrane">YHLFGAVMLTVLYGAFAIYIV</span><span class="topo-outside">EYPDPNSSIKSV</span><span class="topo-unknown">FDALWWAVVTATTVGYG</span><span class="topo-outside">DVVPATPI</span><span class="topo-membrane">GKVIGIAVMLTGISALTLLIGTVSNMFQ</span><span class="topo-inside">KILV</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -446,6 +451,7 @@ KvAP is a voltage-dependent potassium channel from the thermophilic archaebacter
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -461,10 +467,11 @@ KvAP is a voltage-dependent potassium channel from the thermophilic archaebacter
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">IGD</span><span class="topo-membrane">VMEHPLVELGVSYAALLSVIVVVVECTMQLSG</span><span class="topo-inside">EYLVRLYLVDLILVIILWADYAYRA</span></span>
-<span class="topo-line"><span class="topo-inside">YKSGDPAGYVKKTLYEIP</span><span class="topo-unknown">ALVPAGLLALIEGHLA</span><span class="topo-inside">GLGLFRLVRLLRFLRILLIISRGSKF</span></span>
-<span class="topo-line"><span class="topo-inside">LSAIADAADKIRF</span><span class="topo-membrane">YHLFGAVMLTVLYGAFAIYIV</span><span class="topo-outside">EYPDPNSSIKSV</span><span class="topo-unknown">FDALWWAVVTATTV</span></span>
-<span class="topo-line"><span class="topo-unknown">GYG</span><span class="topo-outside">DVVPATPI</span><span class="topo-membrane">GKVIGIAVMLTGISALTLLIGTVSNMFQ</span><span class="topo-inside">KILV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">IGD</span><span class="topo-membrane">VMEHPLVELGVSYAALLSVIVVVVECTMQLSG</span><span class="topo-inside">EYLVRLYLVDLILVIILWADYAYRAYKSGDPAGYVKKTLYEIP</span><span class="topo-unknown">ALVPAGLLALIEGHLA</span><span class="topo-inside">GLGLFRLVRLLRFLRILLIISRGSKF</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220   </span>
+<span class="topo-line"><span class="topo-inside">LSAIADAADKIRF</span><span class="topo-membrane">YHLFGAVMLTVLYGAFAIYIV</span><span class="topo-outside">EYPDPNSSIKSV</span><span class="topo-unknown">FDALWWAVVTATTVGYG</span><span class="topo-outside">DVVPATPI</span><span class="topo-membrane">GKVIGIAVMLTGISALTLLIGTVSNMFQ</span><span class="topo-inside">KILV</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -553,6 +560,7 @@ KvAP is a voltage-dependent potassium channel from the thermophilic archaebacter
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -568,10 +576,11 @@ KvAP is a voltage-dependent potassium channel from the thermophilic archaebacter
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">IGD</span><span class="topo-membrane">VMEHPLVELGVSYAALLSVIVVVVECTMQLSG</span><span class="topo-inside">EYLVRLYLVDLILVIILWADYAYRA</span></span>
-<span class="topo-line"><span class="topo-inside">YKSGDPAGYVKKTLYEIP</span><span class="topo-unknown">ALVPAGLLALIEGHLA</span><span class="topo-inside">GLGLFRLVRLLRFLRILLIISRGSKF</span></span>
-<span class="topo-line"><span class="topo-inside">LSAIADAADKIRF</span><span class="topo-membrane">YHLFGAVMLTVLYGAFAIYIV</span><span class="topo-outside">EYPDPNSSIKSV</span><span class="topo-unknown">FDALWWAVVTATTV</span></span>
-<span class="topo-line"><span class="topo-unknown">GYG</span><span class="topo-outside">DVVPATPI</span><span class="topo-membrane">GKVIGIAVMLTGISALTLLIGTVSNMFQ</span><span class="topo-inside">KILV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">IGD</span><span class="topo-membrane">VMEHPLVELGVSYAALLSVIVVVVECTMQLSG</span><span class="topo-inside">EYLVRLYLVDLILVIILWADYAYRAYKSGDPAGYVKKTLYEIP</span><span class="topo-unknown">ALVPAGLLALIEGHLA</span><span class="topo-inside">GLGLFRLVRLLRFLRILLIISRGSKF</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220   </span>
+<span class="topo-line"><span class="topo-inside">LSAIADAADKIRF</span><span class="topo-membrane">YHLFGAVMLTVLYGAFAIYIV</span><span class="topo-outside">EYPDPNSSIKSV</span><span class="topo-unknown">FDALWWAVVTATTVGYG</span><span class="topo-outside">DVVPATPI</span><span class="topo-membrane">GKVIGIAVMLTGISALTLLIGTVSNMFQ</span><span class="topo-inside">KILV</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -660,6 +669,7 @@ KvAP is a voltage-dependent potassium channel from the thermophilic archaebacter
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -675,10 +685,11 @@ KvAP is a voltage-dependent potassium channel from the thermophilic archaebacter
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">IGD</span><span class="topo-membrane">VMEHPLVELGVSYAALLSVIVVVVECTMQLSG</span><span class="topo-inside">EYLVRLYLVDLILVIILWADYAYRA</span></span>
-<span class="topo-line"><span class="topo-inside">YKSGDPAGYVKKTLYEIP</span><span class="topo-unknown">ALVPAGLLALIEGHLA</span><span class="topo-inside">GLGLFRLVRLLRFLRILLIISRGSKF</span></span>
-<span class="topo-line"><span class="topo-inside">LSAIADAADKIRF</span><span class="topo-membrane">YHLFGAVMLTVLYGAFAIYIV</span><span class="topo-outside">EYPDPNSSIKSV</span><span class="topo-unknown">FDALWWAVVTATTV</span></span>
-<span class="topo-line"><span class="topo-unknown">GYG</span><span class="topo-outside">DVVPATPI</span><span class="topo-membrane">GKVIGIAVMLTGISALTLLIGTVSNMFQ</span><span class="topo-inside">KILV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">IGD</span><span class="topo-membrane">VMEHPLVELGVSYAALLSVIVVVVECTMQLSG</span><span class="topo-inside">EYLVRLYLVDLILVIILWADYAYRAYKSGDPAGYVKKTLYEIP</span><span class="topo-unknown">ALVPAGLLALIEGHLA</span><span class="topo-inside">GLGLFRLVRLLRFLRILLIISRGSKF</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220   </span>
+<span class="topo-line"><span class="topo-inside">LSAIADAADKIRF</span><span class="topo-membrane">YHLFGAVMLTVLYGAFAIYIV</span><span class="topo-outside">EYPDPNSSIKSV</span><span class="topo-unknown">FDALWWAVVTATTVGYG</span><span class="topo-outside">DVVPATPI</span><span class="topo-membrane">GKVIGIAVMLTGISALTLLIGTVSNMFQ</span><span class="topo-inside">KILV</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -767,6 +778,7 @@ KvAP is a voltage-dependent potassium channel from the thermophilic archaebacter
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -782,10 +794,11 @@ KvAP is a voltage-dependent potassium channel from the thermophilic archaebacter
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">IGD</span><span class="topo-membrane">VMEHPLVELGVSYAALLSVIVVVVECTMQLSG</span><span class="topo-inside">EYLVRLYLVDLILVIILWADYAYRA</span></span>
-<span class="topo-line"><span class="topo-inside">YKSGDPAGYVKKTLYEIP</span><span class="topo-unknown">ALVPAGLLALIEGHLA</span><span class="topo-inside">GLGLFRLVRLLRFLRILLIISRGSKF</span></span>
-<span class="topo-line"><span class="topo-inside">LSAIADAADKIRF</span><span class="topo-membrane">YHLFGAVMLTVLYGAFAIYIV</span><span class="topo-outside">EYPDPNSSIKSV</span><span class="topo-unknown">FDALWWAVVTATTV</span></span>
-<span class="topo-line"><span class="topo-unknown">GYG</span><span class="topo-outside">DVVPATPI</span><span class="topo-membrane">GKVIGIAVMLTGISALTLLIGTVSNMFQ</span><span class="topo-inside">KILV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">IGD</span><span class="topo-membrane">VMEHPLVELGVSYAALLSVIVVVVECTMQLSG</span><span class="topo-inside">EYLVRLYLVDLILVIILWADYAYRAYKSGDPAGYVKKTLYEIP</span><span class="topo-unknown">ALVPAGLLALIEGHLA</span><span class="topo-inside">GLGLFRLVRLLRFLRILLIISRGSKF</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220   </span>
+<span class="topo-line"><span class="topo-inside">LSAIADAADKIRF</span><span class="topo-membrane">YHLFGAVMLTVLYGAFAIYIV</span><span class="topo-outside">EYPDPNSSIKSV</span><span class="topo-unknown">FDALWWAVVTATTVGYG</span><span class="topo-outside">DVVPATPI</span><span class="topo-membrane">GKVIGIAVMLTGISALTLLIGTVSNMFQ</span><span class="topo-inside">KILV</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -874,6 +887,7 @@ KvAP is a voltage-dependent potassium channel from the thermophilic archaebacter
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -889,10 +903,11 @@ KvAP is a voltage-dependent potassium channel from the thermophilic archaebacter
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">IGD</span><span class="topo-membrane">VMEHPLVELGVSYAALLSVIVVVVECTMQLSG</span><span class="topo-inside">EYLVRLYLVDLILVIILWADYAYRA</span></span>
-<span class="topo-line"><span class="topo-inside">YKSGDPAGYVKKTLYEIP</span><span class="topo-unknown">ALVPAGLLALIEGHLA</span><span class="topo-inside">GLGLFRLVRLLRFLRILLIISRGSKF</span></span>
-<span class="topo-line"><span class="topo-inside">LSAIADAADKIRF</span><span class="topo-membrane">YHLFGAVMLTVLYGAFAIYIV</span><span class="topo-outside">EYPDPNSSIKSV</span><span class="topo-unknown">FDALWWAVVTATTV</span></span>
-<span class="topo-line"><span class="topo-unknown">GYG</span><span class="topo-outside">DVVPATPI</span><span class="topo-membrane">GKVIGIAVMLTGISALTLLIGTVSNMFQ</span><span class="topo-inside">KILV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">IGD</span><span class="topo-membrane">VMEHPLVELGVSYAALLSVIVVVVECTMQLSG</span><span class="topo-inside">EYLVRLYLVDLILVIILWADYAYRAYKSGDPAGYVKKTLYEIP</span><span class="topo-unknown">ALVPAGLLALIEGHLA</span><span class="topo-inside">GLGLFRLVRLLRFLRILLIISRGSKF</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220   </span>
+<span class="topo-line"><span class="topo-inside">LSAIADAADKIRF</span><span class="topo-membrane">YHLFGAVMLTVLYGAFAIYIV</span><span class="topo-outside">EYPDPNSSIKSV</span><span class="topo-unknown">FDALWWAVVTATTVGYG</span><span class="topo-outside">DVVPATPI</span><span class="topo-membrane">GKVIGIAVMLTGISALTLLIGTVSNMFQ</span><span class="topo-inside">KILV</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -981,6 +996,7 @@ KvAP is a voltage-dependent potassium channel from the thermophilic archaebacter
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

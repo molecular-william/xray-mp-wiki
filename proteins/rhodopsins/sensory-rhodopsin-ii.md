@@ -72,10 +72,11 @@ and proton pumping mechanisms.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MVGL</span><span class="topo-membrane">TTLFWLGAIGMLVGTLAFA</span><span class="topo-inside">WAGRDAGSGERRYYV</span><span class="topo-membrane">TLVGISGIAAVAYVVMAL</span><span class="topo-outside">GVGW</span></span>
-<span class="topo-line"><span class="topo-outside">VPVAERTVF</span><span class="topo-membrane">APRYIDWILTTPLIVY</span><span class="topo-inside">FLGLLAGLDSREFG</span><span class="topo-membrane">IVITLNTVVMLAGFAGA</span><span class="topo-outside">MVPG</span></span>
-<span class="topo-line"><span class="topo-outside">IER</span><span class="topo-membrane">YALFGMGAVAFLGLVYY</span><span class="topo-inside">LVGPMTESASQRSSGIKSLYVRLRN</span><span class="topo-membrane">LTVILWAIYPFIWLL</span></span>
-<span class="topo-line"><span class="topo-membrane">G</span><span class="topo-outside">PPGVALLTPT</span><span class="topo-membrane">VDVALIVYLDLVTKVGFGF</span><span class="topo-inside">IALDAAATLRAEHGE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MVGL</span><span class="topo-membrane">TTLFWLGAIGMLVGTLAFA</span><span class="topo-inside">WAGRDAGSGERRYYV</span><span class="topo-membrane">TLVGISGIAAVAYVVMAL</span><span class="topo-outside">GVGWVPVAERTVF</span><span class="topo-membrane">APRYIDWILTTPLIVY</span><span class="topo-inside">FLGLLAGLDSREFG</span><span class="topo-membrane">IVITLNTVVMLAGFAGA</span><span class="topo-outside">MVPG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220     </span>
+<span class="topo-line"><span class="topo-outside">IER</span><span class="topo-membrane">YALFGMGAVAFLGLVYY</span><span class="topo-inside">LVGPMTESASQRSSGIKSLYVRLRN</span><span class="topo-membrane">LTVILWAIYPFIWLLG</span><span class="topo-outside">PPGVALLTPT</span><span class="topo-membrane">VDVALIVYLDLVTKVGFGF</span><span class="topo-inside">IALDAAATLRAEHGE</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -192,6 +193,7 @@ and proton pumping mechanisms.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -207,7 +209,9 @@ and proton pumping mechanisms.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40        50        60</span>
 <span class="topo-line"><span class="topo-inside">G</span><span class="topo-membrane">AVFIFVGALTVLFGAIA</span><span class="topo-outside">YGEVTAAAATGDAAAVQEAAVS</span><span class="topo-membrane">AILGLIILLGINLGLVAA</span><span class="topo-inside">TL</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -254,6 +258,7 @@ and proton pumping mechanisms.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -269,10 +274,11 @@ and proton pumping mechanisms.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MVGL</span><span class="topo-membrane">TTLFWLGAIGMLVGTLAFA</span><span class="topo-inside">WAGRDAGSGERRYYV</span><span class="topo-membrane">TLVGISGIAAVAYVVMAL</span><span class="topo-outside">GVGW</span></span>
-<span class="topo-line"><span class="topo-outside">VPVAERTVF</span><span class="topo-membrane">APRYIDWILTTPLIVY</span><span class="topo-inside">FLGLLAGLDSREFG</span><span class="topo-membrane">IVITLNTVVMLAGFAGA</span><span class="topo-outside">MVPG</span></span>
-<span class="topo-line"><span class="topo-outside">IER</span><span class="topo-membrane">YALFGMGAVAFLGLVYY</span><span class="topo-inside">LVGPMTESASQRSSGIKSLYVRLRN</span><span class="topo-membrane">LTVILWAIYPFIWLL</span></span>
-<span class="topo-line"><span class="topo-membrane">G</span><span class="topo-outside">PPGVALLTPT</span><span class="topo-membrane">VDVALIVYLDLVTKVGFGF</span><span class="topo-inside">IALDAAATLRAEHGE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MVGL</span><span class="topo-membrane">TTLFWLGAIGMLVGTLAFA</span><span class="topo-inside">WAGRDAGSGERRYYV</span><span class="topo-membrane">TLVGISGIAAVAYVVMAL</span><span class="topo-outside">GVGWVPVAERTVF</span><span class="topo-membrane">APRYIDWILTTPLIVY</span><span class="topo-inside">FLGLLAGLDSREFG</span><span class="topo-membrane">IVITLNTVVMLAGFAGA</span><span class="topo-outside">MVPG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220     </span>
+<span class="topo-line"><span class="topo-outside">IER</span><span class="topo-membrane">YALFGMGAVAFLGLVYY</span><span class="topo-inside">LVGPMTESASQRSSGIKSLYVRLRN</span><span class="topo-membrane">LTVILWAIYPFIWLLG</span><span class="topo-outside">PPGVALLTPT</span><span class="topo-membrane">VDVALIVYLDLVTKVGFGF</span><span class="topo-inside">IALDAAATLRAEHGE</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -389,6 +395,7 @@ and proton pumping mechanisms.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -404,7 +411,9 @@ and proton pumping mechanisms.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40        50        60</span>
 <span class="topo-line"><span class="topo-inside">G</span><span class="topo-membrane">AVFIFVGALTVLFGAIA</span><span class="topo-outside">YGEVTAAAATGDAAAVQEAAVS</span><span class="topo-membrane">AILGLIILLGINLGLVAA</span><span class="topo-inside">TL</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -451,6 +460,7 @@ and proton pumping mechanisms.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -562,10 +572,11 @@ and proton pumping mechanisms.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MVGL</span><span class="topo-membrane">TTLFWLGAIGMLVGTLAFAWAGR</span><span class="topo-outside">DAGSGERR</span><span class="topo-membrane">YYVTLVGISGIAAVAYVVMALGVGW</span></span>
-<span class="topo-line"><span class="topo-inside">VPVAERTV</span><span class="topo-membrane">FAPRYIDWILTTPLIVYFLGL</span><span class="topo-outside">LAGLDSR</span><span class="topo-membrane">EFGIVITLNTVVMLAGFAGAMV</span><span class="topo-inside">PG</span></span>
-<span class="topo-line"><span class="topo-inside">IE</span><span class="topo-membrane">RYALFGMGAVAFLGLVYYLVGPMT</span><span class="topo-outside">ESASQRSSGIKSL</span><span class="topo-membrane">YVRLRNLTVILWAIYPFIWLL</span></span>
-<span class="topo-line"><span class="topo-membrane">GPPG</span><span class="topo-inside">VALLTPT</span><span class="topo-membrane">VDVALIVYLDLVTKVGFGFIALDA</span><span class="topo-outside">AATL</span><span class="topo-unknown">RAEHGESLAGVDTDAPAVAD</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">MVGL</span><span class="topo-membrane">TTLFWLGAIGMLVGTLAFAWAGR</span><span class="topo-outside">DAGSGERR</span><span class="topo-membrane">YYVTLVGISGIAAVAYVVMALGVGW</span><span class="topo-inside">VPVAERTV</span><span class="topo-membrane">FAPRYIDWILTTPLIVYFLGL</span><span class="topo-outside">LAGLDSR</span><span class="topo-membrane">EFGIVITLNTVVMLAGFAGAMV</span><span class="topo-inside">PG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230         </span>
+<span class="topo-line"><span class="topo-inside">IE</span><span class="topo-membrane">RYALFGMGAVAFLGLVYYLVGPMT</span><span class="topo-outside">ESASQRSSGIKSL</span><span class="topo-membrane">YVRLRNLTVILWAIYPFIWLLGPPG</span><span class="topo-inside">VALLTPT</span><span class="topo-membrane">VDVALIVYLDLVTKVGFGFIALDA</span><span class="topo-outside">AATL</span><span class="topo-unknown">RAEHGESLAGVDTDAPAVAD</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -689,6 +700,7 @@ and proton pumping mechanisms.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -704,10 +716,11 @@ and proton pumping mechanisms.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MVGL</span><span class="topo-membrane">TTLFWLGAIGMLVGTLAFAWAGR</span><span class="topo-outside">DAGSGER</span><span class="topo-membrane">RYYVTLVGISGIAAVAYVVMALGVGW</span></span>
-<span class="topo-line"><span class="topo-inside">VPVAERTV</span><span class="topo-membrane">FAPRYIDWILTTPLIVYFLGLLA</span><span class="topo-outside">GLDS</span><span class="topo-membrane">REFGIVITLNTVVMLAGFAGAMV</span><span class="topo-inside">PG</span></span>
-<span class="topo-line"><span class="topo-inside">IE</span><span class="topo-membrane">RYALFGMGAVAFLGLVYYLVGPMT</span><span class="topo-outside">ESASQRSSGIKSL</span><span class="topo-membrane">YVRLRNLTVILWAIYPFIWLL</span></span>
-<span class="topo-line"><span class="topo-membrane">GPPG</span><span class="topo-inside">VALLTPT</span><span class="topo-membrane">VDVALIVYLDLVTKVGFGFIALDA</span><span class="topo-outside">AATL</span><span class="topo-unknown">RAEHGESLAGVDTDAPAVAD</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">MVGL</span><span class="topo-membrane">TTLFWLGAIGMLVGTLAFAWAGR</span><span class="topo-outside">DAGSGER</span><span class="topo-membrane">RYYVTLVGISGIAAVAYVVMALGVGW</span><span class="topo-inside">VPVAERTV</span><span class="topo-membrane">FAPRYIDWILTTPLIVYFLGLLA</span><span class="topo-outside">GLDS</span><span class="topo-membrane">REFGIVITLNTVVMLAGFAGAMV</span><span class="topo-inside">PG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230         </span>
+<span class="topo-line"><span class="topo-inside">IE</span><span class="topo-membrane">RYALFGMGAVAFLGLVYYLVGPMT</span><span class="topo-outside">ESASQRSSGIKSL</span><span class="topo-membrane">YVRLRNLTVILWAIYPFIWLLGPPG</span><span class="topo-inside">VALLTPT</span><span class="topo-membrane">VDVALIVYLDLVTKVGFGFIALDA</span><span class="topo-outside">AATL</span><span class="topo-unknown">RAEHGESLAGVDTDAPAVAD</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -831,6 +844,7 @@ and proton pumping mechanisms.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

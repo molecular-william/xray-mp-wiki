@@ -56,12 +56,13 @@ SLAC1 (SLOW ANION CHANNEL 1) is a plant anion channel from Arabidopsis thaliana 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MNITK</span><span class="topo-inside">PFPLPT</span><span class="topo-membrane">GYFGIPLGLAALSLAW</span><span class="topo-outside">FHLENLFPAARMV</span><span class="topo-membrane">SDVLGIVASAVWILFILMYA</span></span>
-<span class="topo-line"><span class="topo-membrane">Y</span><span class="topo-inside">KLRYY</span><span class="topo-unknown">FEEVRAEYH</span><span class="topo-inside">SPVRFS</span><span class="topo-membrane">FIALIPITTMLVGDIL</span><span class="topo-outside">YRWNPLI</span><span class="topo-membrane">AEVLIWIGTIGQLLFS</span></span>
-<span class="topo-line"><span class="topo-membrane">TLRVS</span><span class="topo-inside">ELWQGGVFEQKSTHP</span><span class="topo-membrane">SFYLPAVAANFTSA</span><span class="topo-unknown">S</span><span class="topo-outside">SLALLGYHD</span><span class="topo-unknown">L</span><span class="topo-outside">G</span><span class="topo-membrane">YLFFGAGMIAWIIF</span></span>
-<span class="topo-line"><span class="topo-membrane">EPVLL</span><span class="topo-inside">QHLRISSLEPQFRAT</span><span class="topo-membrane">MGIVLAPAFVCVSAY</span><span class="topo-outside">LSINHGEVDTL</span><span class="topo-membrane">AKILWGYGFLQLFF</span></span>
-<span class="topo-line"><span class="topo-membrane">LLRLF</span><span class="topo-inside">PWIVEKGLNI</span><span class="topo-membrane">GLWAFSFGLASMANSA</span><span class="topo-outside">TAFYHGNVLQGV</span><span class="topo-membrane">SIFAFVFSNVMIGLLVL</span></span>
-<span class="topo-line"><span class="topo-membrane">MTIYKLT</span><span class="topo-inside">KGQFFL</span><span class="topo-unknown">K</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MNITK</span><span class="topo-inside">PFPLPT</span><span class="topo-membrane">GYFGIPLGLAALSLAW</span><span class="topo-outside">FHLENLFPAARMV</span><span class="topo-membrane">SDVLGIVASAVWILFILMYAY</span><span class="topo-inside">KLRYY</span><span class="topo-unknown">FEEVRAEYH</span><span class="topo-inside">SPVRFS</span><span class="topo-membrane">FIALIPITTMLVGDIL</span><span class="topo-outside">YRWNPLI</span><span class="topo-membrane">AEVLIWIGTIGQLLFS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">TLRVS</span><span class="topo-inside">ELWQGGVFEQKSTHP</span><span class="topo-membrane">SFYLPAVAANFTSA</span><span class="topo-unknown">S</span><span class="topo-outside">SLALLGYHD</span><span class="topo-unknown">L</span><span class="topo-outside">G</span><span class="topo-membrane">YLFFGAGMIAWIIFEPVLL</span><span class="topo-inside">QHLRISSLEPQFRAT</span><span class="topo-membrane">MGIVLAPAFVCVSAY</span><span class="topo-outside">LSINHGEVDTL</span><span class="topo-membrane">AKILWGYGFLQLFF</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310    </span>
+<span class="topo-line"><span class="topo-membrane">LLRLF</span><span class="topo-inside">PWIVEKGLNI</span><span class="topo-membrane">GLWAFSFGLASMANSA</span><span class="topo-outside">TAFYHGNVLQGV</span><span class="topo-membrane">SIFAFVFSNVMIGLLVLMTIYKLT</span><span class="topo-inside">KGQFFL</span><span class="topo-unknown">K</span></span>
+<details class="topo-details"><summary>Topology coordinates (28 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -269,6 +270,7 @@ SLAC1 (SLOW ANION CHANNEL 1) is a plant anion channel from Arabidopsis thaliana 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -284,12 +286,13 @@ SLAC1 (SLOW ANION CHANNEL 1) is a plant anion channel from Arabidopsis thaliana 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MNITK</span><span class="topo-inside">PFPLPT</span><span class="topo-membrane">GYFGIPLGLAALSLAW</span><span class="topo-outside">FHLENLFPAARMV</span><span class="topo-membrane">SDVLGIVASAVWILFILMYA</span></span>
-<span class="topo-line"><span class="topo-membrane">Y</span><span class="topo-inside">KLRYY</span><span class="topo-unknown">FEEVRAEYH</span><span class="topo-inside">SPVRFS</span><span class="topo-membrane">FIALIPITTMLVGDIL</span><span class="topo-outside">YRWNPLI</span><span class="topo-membrane">AEVLIWIGTIGQLLFS</span></span>
-<span class="topo-line"><span class="topo-membrane">TLRVS</span><span class="topo-inside">ELWQGGVFEQKSTHP</span><span class="topo-membrane">SFYLPAVAANFTSA</span><span class="topo-unknown">S</span><span class="topo-outside">SLALLGYHD</span><span class="topo-unknown">L</span><span class="topo-outside">G</span><span class="topo-membrane">YLFFGAGMIAWIIF</span></span>
-<span class="topo-line"><span class="topo-membrane">EPVLL</span><span class="topo-inside">QHLRISSLEPQFRAT</span><span class="topo-membrane">MGIVLAPAFVCVSAY</span><span class="topo-outside">LSINHGEVDTL</span><span class="topo-membrane">AKILWGYGFLQLFF</span></span>
-<span class="topo-line"><span class="topo-membrane">LLRLF</span><span class="topo-inside">PWIVEKGLNI</span><span class="topo-membrane">GLWAFSFGLASMANSA</span><span class="topo-outside">TAFYHGNVLQGV</span><span class="topo-membrane">SIFAFVFSNVMIGLLVL</span></span>
-<span class="topo-line"><span class="topo-membrane">MTIYKLT</span><span class="topo-inside">KGQFFL</span><span class="topo-unknown">K</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MNITK</span><span class="topo-inside">PFPLPT</span><span class="topo-membrane">GYFGIPLGLAALSLAW</span><span class="topo-outside">FHLENLFPAARMV</span><span class="topo-membrane">SDVLGIVASAVWILFILMYAY</span><span class="topo-inside">KLRYY</span><span class="topo-unknown">FEEVRAEYH</span><span class="topo-inside">SPVRFS</span><span class="topo-membrane">FIALIPITTMLVGDIL</span><span class="topo-outside">YRWNPLI</span><span class="topo-membrane">AEVLIWIGTIGQLLFS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">TLRVS</span><span class="topo-inside">ELWQGGVFEQKSTHP</span><span class="topo-membrane">SFYLPAVAANFTSA</span><span class="topo-unknown">S</span><span class="topo-outside">SLALLGYHD</span><span class="topo-unknown">L</span><span class="topo-outside">G</span><span class="topo-membrane">YLFFGAGMIAWIIFEPVLL</span><span class="topo-inside">QHLRISSLEPQFRAT</span><span class="topo-membrane">MGIVLAPAFVCVSAY</span><span class="topo-outside">LSINHGEVDTL</span><span class="topo-membrane">AKILWGYGFLQLFF</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310    </span>
+<span class="topo-line"><span class="topo-membrane">LLRLF</span><span class="topo-inside">PWIVEKGLNI</span><span class="topo-membrane">GLWAFSFGLASMANSA</span><span class="topo-outside">TAFYHGNVLQGV</span><span class="topo-membrane">SIFAFVFSNVMIGLLVLMTIYKLT</span><span class="topo-inside">KGQFFL</span><span class="topo-unknown">K</span></span>
+<details class="topo-details"><summary>Topology coordinates (28 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -497,6 +500,7 @@ SLAC1 (SLOW ANION CHANNEL 1) is a plant anion channel from Arabidopsis thaliana 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -512,12 +516,13 @@ SLAC1 (SLOW ANION CHANNEL 1) is a plant anion channel from Arabidopsis thaliana 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MNITK</span><span class="topo-inside">PFPLPT</span><span class="topo-membrane">GYFGIPLGLAALSLAW</span><span class="topo-outside">FHLENLFPAARMV</span><span class="topo-membrane">SDVLGIVASAVWILFILMYA</span></span>
-<span class="topo-line"><span class="topo-membrane">Y</span><span class="topo-inside">KLRYY</span><span class="topo-unknown">FEEVRAEYH</span><span class="topo-inside">SPVRFS</span><span class="topo-membrane">FIALIPITTMLVGDIL</span><span class="topo-outside">YRWNPLI</span><span class="topo-membrane">AEVLIWIGTIGQLLFS</span></span>
-<span class="topo-line"><span class="topo-membrane">TLRVS</span><span class="topo-inside">ELWQGGVFEQKSTHP</span><span class="topo-membrane">SFYLPAVAANFTSA</span><span class="topo-unknown">S</span><span class="topo-outside">SLALLGYHD</span><span class="topo-unknown">L</span><span class="topo-outside">G</span><span class="topo-membrane">YLFFGAGMIAWIIF</span></span>
-<span class="topo-line"><span class="topo-membrane">EPVLL</span><span class="topo-inside">QHLRISSLEPQFRAT</span><span class="topo-membrane">MGIVLAPAFVCVSAY</span><span class="topo-outside">LSINHGEVDTL</span><span class="topo-membrane">AKILWGYGFLQLFF</span></span>
-<span class="topo-line"><span class="topo-membrane">LLRLF</span><span class="topo-inside">PWIVEKGLNI</span><span class="topo-membrane">GLWAFSFGLASMANSA</span><span class="topo-outside">TAFYHGNVLQGV</span><span class="topo-membrane">SIFAFVFSNVMIGLLVL</span></span>
-<span class="topo-line"><span class="topo-membrane">MTIYKLT</span><span class="topo-inside">KGQFFL</span><span class="topo-unknown">K</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MNITK</span><span class="topo-inside">PFPLPT</span><span class="topo-membrane">GYFGIPLGLAALSLAW</span><span class="topo-outside">FHLENLFPAARMV</span><span class="topo-membrane">SDVLGIVASAVWILFILMYAY</span><span class="topo-inside">KLRYY</span><span class="topo-unknown">FEEVRAEYH</span><span class="topo-inside">SPVRFS</span><span class="topo-membrane">FIALIPITTMLVGDIL</span><span class="topo-outside">YRWNPLI</span><span class="topo-membrane">AEVLIWIGTIGQLLFS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">TLRVS</span><span class="topo-inside">ELWQGGVFEQKSTHP</span><span class="topo-membrane">SFYLPAVAANFTSA</span><span class="topo-unknown">S</span><span class="topo-outside">SLALLGYHD</span><span class="topo-unknown">L</span><span class="topo-outside">G</span><span class="topo-membrane">YLFFGAGMIAWIIFEPVLL</span><span class="topo-inside">QHLRISSLEPQFRAT</span><span class="topo-membrane">MGIVLAPAFVCVSAY</span><span class="topo-outside">LSINHGEVDTL</span><span class="topo-membrane">AKILWGYGFLQLFF</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310    </span>
+<span class="topo-line"><span class="topo-membrane">LLRLF</span><span class="topo-inside">PWIVEKGLNI</span><span class="topo-membrane">GLWAFSFGLASMANSA</span><span class="topo-outside">TAFYHGNVLQGV</span><span class="topo-membrane">SIFAFVFSNVMIGLLVLMTIYKLT</span><span class="topo-inside">KGQFFL</span><span class="topo-unknown">K</span></span>
+<details class="topo-details"><summary>Topology coordinates (28 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -725,6 +730,7 @@ SLAC1 (SLOW ANION CHANNEL 1) is a plant anion channel from Arabidopsis thaliana 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

@@ -116,7 +116,9 @@ The B800-850 light-harvesting complex II (LH2) from Rhodospirillum molischianum 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40        50      </span>
 <span class="topo-line"><span class="topo-outside">SNPKDD</span><span class="topo-unknown">YKIWLV</span><span class="topo-outside">INPSTWL</span><span class="topo-membrane">PVIWIVATVVAIAVHAAVL</span><span class="topo-inside">AAPGFNWIALGAAKSAAK</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -163,6 +165,7 @@ The B800-850 light-harvesting complex II (LH2) from Rhodospirillum molischianum 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -178,7 +181,9 @@ The B800-850 light-harvesting complex II (LH2) from Rhodospirillum molischianum 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40     </span>
 <span class="topo-line"><span class="topo-unknown">AE</span><span class="topo-outside">RSLSGLTEEEAIAVHDQF</span><span class="topo-membrane">KTTFSAFIILAAVAHVLVWV</span><span class="topo-inside">WKPWF</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -218,6 +223,7 @@ The B800-850 light-harvesting complex II (LH2) from Rhodospirillum molischianum 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -233,7 +239,9 @@ The B800-850 light-harvesting complex II (LH2) from Rhodospirillum molischianum 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40        50      </span>
 <span class="topo-line"><span class="topo-outside">SNPKDD</span><span class="topo-unknown">YKIWLV</span><span class="topo-outside">INPSTWL</span><span class="topo-membrane">PVIWIVATVVAIAVHAAVL</span><span class="topo-inside">AAPGFNWIALGAAKSAAK</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -280,6 +288,7 @@ The B800-850 light-harvesting complex II (LH2) from Rhodospirillum molischianum 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -295,7 +304,9 @@ The B800-850 light-harvesting complex II (LH2) from Rhodospirillum molischianum 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40     </span>
 <span class="topo-line"><span class="topo-unknown">AE</span><span class="topo-outside">RSLSGLTEEEAIAVHDQF</span><span class="topo-membrane">KTTFSAFIILAAVAHVLVWV</span><span class="topo-inside">WKPWF</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -335,6 +346,7 @@ The B800-850 light-harvesting complex II (LH2) from Rhodospirillum molischianum 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -350,7 +362,9 @@ The B800-850 light-harvesting complex II (LH2) from Rhodospirillum molischianum 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40        50      </span>
 <span class="topo-line"><span class="topo-outside">SNPKDD</span><span class="topo-unknown">YKIWLV</span><span class="topo-outside">INPSTWL</span><span class="topo-membrane">PVIWIVATVVAIAVHAAVL</span><span class="topo-inside">AAPGFNWIALGAAKSAAK</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -397,6 +411,7 @@ The B800-850 light-harvesting complex II (LH2) from Rhodospirillum molischianum 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -412,7 +427,9 @@ The B800-850 light-harvesting complex II (LH2) from Rhodospirillum molischianum 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40     </span>
 <span class="topo-line"><span class="topo-unknown">AE</span><span class="topo-outside">RSLSGLTEEEAIAVHDQF</span><span class="topo-membrane">KTTFSAFIILAAVAHVLVWV</span><span class="topo-inside">WKPWF</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -452,6 +469,7 @@ The B800-850 light-harvesting complex II (LH2) from Rhodospirillum molischianum 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -467,7 +485,9 @@ The B800-850 light-harvesting complex II (LH2) from Rhodospirillum molischianum 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40        50      </span>
 <span class="topo-line"><span class="topo-outside">SNPKDD</span><span class="topo-unknown">YKIWLV</span><span class="topo-outside">INPSTWL</span><span class="topo-membrane">PVIWIVATVVAIAVHAAVL</span><span class="topo-inside">AAPGFNWIALGAAKSAAK</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -514,6 +534,7 @@ The B800-850 light-harvesting complex II (LH2) from Rhodospirillum molischianum 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -529,7 +550,9 @@ The B800-850 light-harvesting complex II (LH2) from Rhodospirillum molischianum 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40     </span>
 <span class="topo-line"><span class="topo-unknown">AE</span><span class="topo-outside">RSLSGLTEEEAIAVHDQF</span><span class="topo-membrane">KTTFSAFIILAAVAHVLVWV</span><span class="topo-inside">WKPWF</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -569,6 +592,7 @@ The B800-850 light-harvesting complex II (LH2) from Rhodospirillum molischianum 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -584,7 +608,9 @@ The B800-850 light-harvesting complex II (LH2) from Rhodospirillum molischianum 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40        50      </span>
 <span class="topo-line"><span class="topo-outside">SNPKDD</span><span class="topo-unknown">YKIWLV</span><span class="topo-outside">INPSTWL</span><span class="topo-membrane">PVIWIVATVVAIAVHAAVL</span><span class="topo-inside">AAPGFNWIALGAAKSAAK</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -631,6 +657,7 @@ The B800-850 light-harvesting complex II (LH2) from Rhodospirillum molischianum 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -646,7 +673,9 @@ The B800-850 light-harvesting complex II (LH2) from Rhodospirillum molischianum 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40     </span>
 <span class="topo-line"><span class="topo-unknown">AE</span><span class="topo-outside">RSLSGLTEEEAIAVHDQF</span><span class="topo-membrane">KTTFSAFIILAAVAHVLVWV</span><span class="topo-inside">WKPWF</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -686,6 +715,7 @@ The B800-850 light-harvesting complex II (LH2) from Rhodospirillum molischianum 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -701,7 +731,9 @@ The B800-850 light-harvesting complex II (LH2) from Rhodospirillum molischianum 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40        50      </span>
 <span class="topo-line"><span class="topo-outside">SNPKDD</span><span class="topo-unknown">YKIWLV</span><span class="topo-outside">INPSTWL</span><span class="topo-membrane">PVIWIVATVVAIAVHAAVL</span><span class="topo-inside">AAPGFNWIALGAAKSAAK</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -748,6 +780,7 @@ The B800-850 light-harvesting complex II (LH2) from Rhodospirillum molischianum 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -763,7 +796,9 @@ The B800-850 light-harvesting complex II (LH2) from Rhodospirillum molischianum 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40     </span>
 <span class="topo-line"><span class="topo-unknown">AE</span><span class="topo-outside">RSLSGLTEEEAIAVHDQF</span><span class="topo-membrane">KTTFSAFIILAAVAHVLVWV</span><span class="topo-inside">WKPWF</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -803,6 +838,7 @@ The B800-850 light-harvesting complex II (LH2) from Rhodospirillum molischianum 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -818,7 +854,9 @@ The B800-850 light-harvesting complex II (LH2) from Rhodospirillum molischianum 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40        50      </span>
 <span class="topo-line"><span class="topo-outside">SNPKDD</span><span class="topo-unknown">YKIWLV</span><span class="topo-outside">INPSTWL</span><span class="topo-membrane">PVIWIVATVVAIAVHAAVL</span><span class="topo-inside">AAPGFNWIALGAAKSAAK</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -865,6 +903,7 @@ The B800-850 light-harvesting complex II (LH2) from Rhodospirillum molischianum 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -880,7 +919,9 @@ The B800-850 light-harvesting complex II (LH2) from Rhodospirillum molischianum 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40     </span>
 <span class="topo-line"><span class="topo-unknown">AE</span><span class="topo-outside">RSLSGLTEEEAIAVHDQF</span><span class="topo-membrane">KTTFSAFIILAAVAHVLVWV</span><span class="topo-inside">WKPWF</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -920,6 +961,7 @@ The B800-850 light-harvesting complex II (LH2) from Rhodospirillum molischianum 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -935,7 +977,9 @@ The B800-850 light-harvesting complex II (LH2) from Rhodospirillum molischianum 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40        50      </span>
 <span class="topo-line"><span class="topo-outside">SNPKDD</span><span class="topo-unknown">YKIWLV</span><span class="topo-outside">INPSTWL</span><span class="topo-membrane">PVIWIVATVVAIAVHAAVL</span><span class="topo-inside">AAPGFNWIALGAAKSAAK</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -982,6 +1026,7 @@ The B800-850 light-harvesting complex II (LH2) from Rhodospirillum molischianum 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -997,7 +1042,9 @@ The B800-850 light-harvesting complex II (LH2) from Rhodospirillum molischianum 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40     </span>
 <span class="topo-line"><span class="topo-unknown">AE</span><span class="topo-outside">RSLSGLTEEEAIAVHDQF</span><span class="topo-membrane">KTTFSAFIILAAVAHVLVWV</span><span class="topo-inside">WKPWF</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1037,6 +1084,7 @@ The B800-850 light-harvesting complex II (LH2) from Rhodospirillum molischianum 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

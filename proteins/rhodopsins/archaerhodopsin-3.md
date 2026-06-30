@@ -125,11 +125,13 @@ Archaerhodopsin-3 (AR3) is a light-driven proton pump from the archaebacterium H
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">?AGYDLLGDGRPE</span><span class="topo-membrane">TLWLGIGTLLMLIGTFYFLV</span><span class="topo-inside">RGWGVTDKDAREYY</span><span class="topo-membrane">AVTILVPGIASAA</span></span>
-<span class="topo-line"><span class="topo-membrane">YLSMFFGIGL</span><span class="topo-outside">TEVTVGGEMLDI</span><span class="topo-membrane">YYARYADWLFTTPLLLLDLA</span><span class="topo-inside">LLAKVDRV</span><span class="topo-membrane">TIGTLVGVDA</span></span>
-<span class="topo-line"><span class="topo-membrane">LMIVTGLIGAL</span><span class="topo-outside">SHTAIAR</span><span class="topo-membrane">YSWWLFSTICMIVVLYFLATS</span><span class="topo-inside">LRSAAKERGPEVASTFNT</span><span class="topo-membrane">LTA</span></span>
-<span class="topo-line"><span class="topo-membrane">LVLVLWTAYPILWIIG</span><span class="topo-outside">TEGAGVVGL</span><span class="topo-membrane">GIETLLFMVLDVTAKVGFGFIL</span><span class="topo-inside">LRSRAILGDTEAP</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">?AGYDLLGDGRPE</span><span class="topo-membrane">TLWLGIGTLLMLIGTFYFLV</span><span class="topo-inside">RGWGVTDKDAREYY</span><span class="topo-membrane">AVTILVPGIASAAYLSMFFGIGL</span><span class="topo-outside">TEVTVGGEMLDI</span><span class="topo-membrane">YYARYADWLFTTPLLLLDLA</span><span class="topo-inside">LLAKVDRV</span><span class="topo-membrane">TIGTLVGVDA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">LMIVTGLIGAL</span><span class="topo-outside">SHTAIAR</span><span class="topo-membrane">YSWWLFSTICMIVVLYFLATS</span><span class="topo-inside">LRSAAKERGPEVASTFNT</span><span class="topo-membrane">LTALVLVLWTAYPILWIIG</span><span class="topo-outside">TEGAGVVGL</span><span class="topo-membrane">GIETLLFMVLDVTAKVGFGFIL</span><span class="topo-inside">LRSRAILGDTEAP</span></span>
+<span class="topo-ruler"> </span>
 <span class="topo-line"><span class="topo-inside">E</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -246,6 +248,7 @@ Archaerhodopsin-3 (AR3) is a light-driven proton pump from the archaebacterium H
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -261,11 +264,13 @@ Archaerhodopsin-3 (AR3) is a light-driven proton pump from the archaebacterium H
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">QAGYDLLGDGRPE</span><span class="topo-membrane">TLWLGIGTLLMLIGTFYFLV</span><span class="topo-inside">RGWGVTDKDAREYY</span><span class="topo-membrane">AVTILVPGIASAA</span></span>
-<span class="topo-line"><span class="topo-membrane">YLSMFF</span><span class="topo-outside">GIGLTEVTVGGEMLDIY</span><span class="topo-membrane">YARYADWLFTTPLLLLDL</span><span class="topo-inside">ALLAKVDRV</span><span class="topo-membrane">TIGTLVGVDA</span></span>
-<span class="topo-line"><span class="topo-membrane">LMIVTGLIGA</span><span class="topo-outside">LSHTAIAR</span><span class="topo-membrane">YSWWLFSTICMIVVLYFLA</span><span class="topo-inside">TSLRSAAKERGPEVASTFNTL</span><span class="topo-membrane">TA</span></span>
-<span class="topo-line"><span class="topo-membrane">LVLVLWTAYPILWIIG</span><span class="topo-outside">TEGAGVVGLG</span><span class="topo-membrane">IETLLFMVLDVTAKVGFGFI</span><span class="topo-inside">LLRSRAILGDTEAP</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">QAGYDLLGDGRPE</span><span class="topo-membrane">TLWLGIGTLLMLIGTFYFLV</span><span class="topo-inside">RGWGVTDKDAREYY</span><span class="topo-membrane">AVTILVPGIASAAYLSMFF</span><span class="topo-outside">GIGLTEVTVGGEMLDIY</span><span class="topo-membrane">YARYADWLFTTPLLLLDL</span><span class="topo-inside">ALLAKVDRV</span><span class="topo-membrane">TIGTLVGVDA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">LMIVTGLIGA</span><span class="topo-outside">LSHTAIAR</span><span class="topo-membrane">YSWWLFSTICMIVVLYFLA</span><span class="topo-inside">TSLRSAAKERGPEVASTFNTL</span><span class="topo-membrane">TALVLVLWTAYPILWIIG</span><span class="topo-outside">TEGAGVVGLG</span><span class="topo-membrane">IETLLFMVLDVTAKVGFGFI</span><span class="topo-inside">LLRSRAILGDTEAP</span></span>
+<span class="topo-ruler"> </span>
 <span class="topo-line"><span class="topo-inside">E</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -382,6 +387,7 @@ Archaerhodopsin-3 (AR3) is a light-driven proton pump from the archaebacterium H
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

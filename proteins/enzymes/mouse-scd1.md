@@ -147,12 +147,13 @@ Mouse [Stearoyl-CoA](/xray-mp-wiki/reagents/ligands/stearoyl-coa/) desaturase 1 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSGNEREKVKTVPLHLEE</span><span class="topo-inside">DIRPEMKEDIHDPTYQDEEGPPPKLEY</span><span class="topo-membrane">VWRNIILMVLLHLGG</span></span>
-<span class="topo-line"><span class="topo-membrane">LYGIILVP</span><span class="topo-outside">SCKL</span><span class="topo-membrane">YTCLFGIFYYMTSALG</span><span class="topo-inside">ITAGAHRLWSHRTYKARLPLRIFLIIANTMAF</span></span>
-<span class="topo-line"><span class="topo-inside">QNDVYEWARDHRAHHKFSETHADPHNSRRGFFFSHVGWLLVRKHPAVKEKGGKLDMSDLK</span></span>
-<span class="topo-line"><span class="topo-inside">AEKLVMF</span><span class="topo-membrane">QRRYYKPGLLLMCFILPT</span><span class="topo-outside">LVPWYCWGETFVNS</span><span class="topo-membrane">LFVSTFLRYTLVLNA</span><span class="topo-inside">TWLVNS</span></span>
-<span class="topo-line"><span class="topo-inside">AAHLYGYRPYDKNIQSRENILVSLGAVGEGFHNYHHTFPFDYSASEYRWHINFTTFFIDC</span></span>
-<span class="topo-line"><span class="topo-inside">MAALGLAYDRKKVSKATVLARIKRTGDGSHKSSENLYFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSGNEREKVKTVPLHLEE</span><span class="topo-inside">DIRPEMKEDIHDPTYQDEEGPPPKLEY</span><span class="topo-membrane">VWRNIILMVLLHLGGLYGIILVP</span><span class="topo-outside">SCKL</span><span class="topo-membrane">YTCLFGIFYYMTSALG</span><span class="topo-inside">ITAGAHRLWSHRTYKARLPLRIFLIIANTMAF</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">QNDVYEWARDHRAHHKFSETHADPHNSRRGFFFSHVGWLLVRKHPAVKEKGGKLDMSDLKAEKLVMF</span><span class="topo-membrane">QRRYYKPGLLLMCFILPT</span><span class="topo-outside">LVPWYCWGETFVNS</span><span class="topo-membrane">LFVSTFLRYTLVLNA</span><span class="topo-inside">TWLVNS</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330         </span>
+<span class="topo-line"><span class="topo-inside">AAHLYGYRPYDKNIQSRENILVSLGAVGEGFHNYHHTFPFDYSASEYRWHINFTTFFIDCMAALGLAYDRKKVSKATVLARIKRTGDGSHKSSENLYFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (10 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -234,6 +235,7 @@ Mouse [Stearoyl-CoA](/xray-mp-wiki/reagents/ligands/stearoyl-coa/) desaturase 1 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -281,12 +283,13 @@ Mouse [Stearoyl-CoA](/xray-mp-wiki/reagents/ligands/stearoyl-coa/) desaturase 1 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSGNEREKVKTVPLHLE</span><span class="topo-inside">EDIRPEMKEDIHDPTYQDEEGPPPKLE</span><span class="topo-membrane">YVWRNIILMVLLHLGG</span></span>
-<span class="topo-line"><span class="topo-membrane">LYGII</span><span class="topo-outside">LVPSCKL</span><span class="topo-membrane">YTCLFGIFYYMTSALGI</span><span class="topo-inside">TAGAHRLWSHRTYKARLPLRIFLIIANTMAF</span></span>
-<span class="topo-line"><span class="topo-inside">QNDVYEWARDHRAHHKFSETHADPHNSRRGFFFSHVGWLLVRKHPAVKEKGGKLDMSDLK</span></span>
-<span class="topo-line"><span class="topo-inside">AEKL</span><span class="topo-membrane">VMFQRRYYKPGLLLMCFILPT</span><span class="topo-outside">LVPWYCWGETFVNSL</span><span class="topo-membrane">FVSTFLRYTLVLNATW</span><span class="topo-inside">LVNS</span></span>
-<span class="topo-line"><span class="topo-inside">AAHLYGYRPYDKNIQSRENILVSLGAVGEGFHNYHHTFPFDYSASEYRWHINFTTFFIDC</span></span>
-<span class="topo-line"><span class="topo-inside">MAALGLAYDRKKVSKATVLARIKRTGDGSHKSSENLYFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSGNEREKVKTVPLHLE</span><span class="topo-inside">EDIRPEMKEDIHDPTYQDEEGPPPKLE</span><span class="topo-membrane">YVWRNIILMVLLHLGGLYGII</span><span class="topo-outside">LVPSCKL</span><span class="topo-membrane">YTCLFGIFYYMTSALGI</span><span class="topo-inside">TAGAHRLWSHRTYKARLPLRIFLIIANTMAF</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">QNDVYEWARDHRAHHKFSETHADPHNSRRGFFFSHVGWLLVRKHPAVKEKGGKLDMSDLKAEKL</span><span class="topo-membrane">VMFQRRYYKPGLLLMCFILPT</span><span class="topo-outside">LVPWYCWGETFVNSL</span><span class="topo-membrane">FVSTFLRYTLVLNATW</span><span class="topo-inside">LVNS</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330         </span>
+<span class="topo-line"><span class="topo-inside">AAHLYGYRPYDKNIQSRENILVSLGAVGEGFHNYHHTFPFDYSASEYRWHINFTTFFIDCMAALGLAYDRKKVSKATVLARIKRTGDGSHKSSENLYFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -361,6 +364,7 @@ Mouse [Stearoyl-CoA](/xray-mp-wiki/reagents/ligands/stearoyl-coa/) desaturase 1 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -376,12 +380,13 @@ Mouse [Stearoyl-CoA](/xray-mp-wiki/reagents/ligands/stearoyl-coa/) desaturase 1 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSGNEREKVKTVPLHLEE</span><span class="topo-inside">DIRPEMKEDIHDPTYQDEEGPPPKLEYVW</span><span class="topo-membrane">RNIILMVLLHLGG</span></span>
-<span class="topo-line"><span class="topo-membrane">LYGIILVPSC</span><span class="topo-outside">K</span><span class="topo-membrane">LYTCLFGIFYYMTS</span><span class="topo-inside">ALGITAGAHRLWSHRTYKAR</span><span class="topo-unknown">LPLRIFLIIANTMA</span><span class="topo-inside">F</span></span>
-<span class="topo-line"><span class="topo-inside">QNDVYEWARDHRAHHKFSETHADPHNSRRGFFFSHVGWLLVRKHPAVKEKGGKLDMSDLK</span></span>
-<span class="topo-line"><span class="topo-inside">AEKLVMFQRRY</span><span class="topo-membrane">YKPGLLLMCFILPTLVPW</span><span class="topo-outside">YCWGETF</span><span class="topo-membrane">VNSLFVSTFLRYTLV</span><span class="topo-inside">LNATWLVNS</span></span>
-<span class="topo-line"><span class="topo-inside">AAHLYGYRPYDKNIQSRENILVSLGAVGEGFHNYHHTFPFDYSASEYRWHIN</span><span class="topo-unknown">FTTFFIDC</span></span>
-<span class="topo-line"><span class="topo-unknown">MAA</span><span class="topo-inside">LGLAYDRKKVSKATVLARIKRTGDGSH</span><span class="topo-unknown">KSSENLYFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSGNEREKVKTVPLHLEE</span><span class="topo-inside">DIRPEMKEDIHDPTYQDEEGPPPKLEYVW</span><span class="topo-membrane">RNIILMVLLHLGGLYGIILVPSC</span><span class="topo-outside">K</span><span class="topo-membrane">LYTCLFGIFYYMTS</span><span class="topo-inside">ALGITAGAHRLWSHRTYKAR</span><span class="topo-unknown">LPLRIFLIIANTMA</span><span class="topo-inside">F</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">QNDVYEWARDHRAHHKFSETHADPHNSRRGFFFSHVGWLLVRKHPAVKEKGGKLDMSDLKAEKLVMFQRRY</span><span class="topo-membrane">YKPGLLLMCFILPTLVPW</span><span class="topo-outside">YCWGETF</span><span class="topo-membrane">VNSLFVSTFLRYTLV</span><span class="topo-inside">LNATWLVNS</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330         </span>
+<span class="topo-line"><span class="topo-inside">AAHLYGYRPYDKNIQSRENILVSLGAVGEGFHNYHHTFPFDYSASEYRWHIN</span><span class="topo-unknown">FTTFFIDCMAA</span><span class="topo-inside">LGLAYDRKKVSKATVLARIKRTGDGSH</span><span class="topo-unknown">KSSENLYFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (13 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -484,6 +489,7 @@ Mouse [Stearoyl-CoA](/xray-mp-wiki/reagents/ligands/stearoyl-coa/) desaturase 1 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

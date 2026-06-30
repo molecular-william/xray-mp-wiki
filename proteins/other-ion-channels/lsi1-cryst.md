@@ -123,11 +123,13 @@ Lsi1 is the Low silicon rice 1 channel, a silicon (Si) uptake transporter from r
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">ALLKRV</span><span class="topo-membrane">VSEVVATFLLVFMTAGA</span><span class="topo-inside">AGISGSDLSRISQLG</span><span class="topo-membrane">QSIAGGLIVVVMIYAVG</span><span class="topo-outside">HISG</span></span>
-<span class="topo-line"><span class="topo-unknown">AHMNPAVTLAF</span><span class="topo-outside">AVFRHFPWIQV</span><span class="topo-membrane">PFYWAAQFTGAIAASFVL</span><span class="topo-inside">KAVIHPVDVIGTTTPVGPHW</span></span>
-<span class="topo-line"><span class="topo-inside">HSL</span><span class="topo-membrane">VVEVIVTFNMMFVTLAV</span><span class="topo-outside">ATDTRAVGEL</span><span class="topo-membrane">AGLAVGSAVCITSIFA</span><span class="topo-inside">GAISGG</span><span class="topo-unknown">SMNPARTL</span></span>
-<span class="topo-line"><span class="topo-unknown">GP</span><span class="topo-inside">ALASNRFDGL</span><span class="topo-membrane">WIYFLGPVMGTLSGAWVY</span><span class="topo-outside">TFIR</span><span class="topo-unknown">FEDTPREGSSQKLSSFKLRRLRSQQS</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">ALLKRV</span><span class="topo-membrane">VSEVVATFLLVFMTAGA</span><span class="topo-inside">AGISGSDLSRISQLG</span><span class="topo-membrane">QSIAGGLIVVVMIYAVG</span><span class="topo-outside">HISG</span><span class="topo-unknown">AHMNPAVTLAF</span><span class="topo-outside">AVFRHFPWIQV</span><span class="topo-membrane">PFYWAAQFTGAIAASFVL</span><span class="topo-inside">KAVIHPVDVIGTTTPVGPHW</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">HSL</span><span class="topo-membrane">VVEVIVTFNMMFVTLAV</span><span class="topo-outside">ATDTRAVGEL</span><span class="topo-membrane">AGLAVGSAVCITSIFA</span><span class="topo-inside">GAISGG</span><span class="topo-unknown">SMNPARTLGP</span><span class="topo-inside">ALASNRFDGL</span><span class="topo-membrane">WIYFLGPVMGTLSGAWVY</span><span class="topo-outside">TFIR</span><span class="topo-unknown">FEDTPREGSSQKLSSFKLRRLRSQQS</span></span>
+<span class="topo-ruler">       250    </span>
 <span class="topo-line"><span class="topo-unknown">IAADDVDEMENIQV</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -258,6 +260,7 @@ Lsi1 is the Low silicon rice 1 channel, a silicon (Si) uptake transporter from r
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -273,11 +276,13 @@ Lsi1 is the Low silicon rice 1 channel, a silicon (Si) uptake transporter from r
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">ALLKRV</span><span class="topo-membrane">VSEVVATFLLVFMTAGA</span><span class="topo-inside">AGISGSDLSRISQLG</span><span class="topo-membrane">QSIAGGLIVVVMIYAVG</span><span class="topo-outside">HISG</span></span>
-<span class="topo-line"><span class="topo-unknown">AHMNPAVTLAF</span><span class="topo-outside">AVFRHFPWIQV</span><span class="topo-membrane">PFYWAAQFTGAIAASFVL</span><span class="topo-inside">KAVIHPVDVIGTTTPVGPHW</span></span>
-<span class="topo-line"><span class="topo-inside">HSL</span><span class="topo-membrane">VVEVIVTFNMMFVTLAV</span><span class="topo-outside">ATDTRAVGEL</span><span class="topo-membrane">AGLAVGSAVCITSIFA</span><span class="topo-inside">GAISGG</span><span class="topo-unknown">SMNPARTL</span></span>
-<span class="topo-line"><span class="topo-unknown">GP</span><span class="topo-inside">ALASNRFDGL</span><span class="topo-membrane">WIYFLGPVMGTLSGAWVY</span><span class="topo-outside">TFIRFEDTPR</span><span class="topo-unknown">EGSSQKLSSFKLRRLRSQQS</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">ALLKRV</span><span class="topo-membrane">VSEVVATFLLVFMTAGA</span><span class="topo-inside">AGISGSDLSRISQLG</span><span class="topo-membrane">QSIAGGLIVVVMIYAVG</span><span class="topo-outside">HISG</span><span class="topo-unknown">AHMNPAVTLAF</span><span class="topo-outside">AVFRHFPWIQV</span><span class="topo-membrane">PFYWAAQFTGAIAASFVL</span><span class="topo-inside">KAVIHPVDVIGTTTPVGPHW</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">HSL</span><span class="topo-membrane">VVEVIVTFNMMFVTLAV</span><span class="topo-outside">ATDTRAVGEL</span><span class="topo-membrane">AGLAVGSAVCITSIFA</span><span class="topo-inside">GAISGG</span><span class="topo-unknown">SMNPARTLGP</span><span class="topo-inside">ALASNRFDGL</span><span class="topo-membrane">WIYFLGPVMGTLSGAWVY</span><span class="topo-outside">TFIRFEDTPR</span><span class="topo-unknown">EGSSQKLSSFKLRRLRSQQS</span></span>
+<span class="topo-ruler">       250    </span>
 <span class="topo-line"><span class="topo-unknown">IAADDVDEMENIQV</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -408,6 +413,7 @@ Lsi1 is the Low silicon rice 1 channel, a silicon (Si) uptake transporter from r
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -423,11 +429,13 @@ Lsi1 is the Low silicon rice 1 channel, a silicon (Si) uptake transporter from r
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">ALLKRV</span><span class="topo-membrane">VSEVVATFLLVFMTAGA</span><span class="topo-inside">AGISGSDLSRISQLG</span><span class="topo-membrane">QSIAGGLIVVVMIYAVG</span><span class="topo-outside">HISG</span></span>
-<span class="topo-line"><span class="topo-unknown">AHMNPAVTLAF</span><span class="topo-outside">AVFRHFPWIQV</span><span class="topo-membrane">PFYWAAQFTGAIAASFVL</span><span class="topo-inside">KAVIHPVDVIGTTTPVGPHW</span></span>
-<span class="topo-line"><span class="topo-inside">HSL</span><span class="topo-membrane">VVEVIVTFNMMFVTL</span><span class="topo-outside">AVATDTRAVGEL</span><span class="topo-membrane">AGLAVGSAVCITSIFA</span><span class="topo-inside">GAISGG</span><span class="topo-unknown">SMNPARTL</span></span>
-<span class="topo-line"><span class="topo-unknown">GP</span><span class="topo-inside">ALASNRFDGL</span><span class="topo-membrane">WIYFLGPVMGTLSGAWVY</span><span class="topo-outside">TFIRF</span><span class="topo-unknown">EDTPREGSSQKLSSFKLRRLRSQQS</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">ALLKRV</span><span class="topo-membrane">VSEVVATFLLVFMTAGA</span><span class="topo-inside">AGISGSDLSRISQLG</span><span class="topo-membrane">QSIAGGLIVVVMIYAVG</span><span class="topo-outside">HISG</span><span class="topo-unknown">AHMNPAVTLAF</span><span class="topo-outside">AVFRHFPWIQV</span><span class="topo-membrane">PFYWAAQFTGAIAASFVL</span><span class="topo-inside">KAVIHPVDVIGTTTPVGPHW</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">HSL</span><span class="topo-membrane">VVEVIVTFNMMFVTL</span><span class="topo-outside">AVATDTRAVGEL</span><span class="topo-membrane">AGLAVGSAVCITSIFA</span><span class="topo-inside">GAISGG</span><span class="topo-unknown">SMNPARTLGP</span><span class="topo-inside">ALASNRFDGL</span><span class="topo-membrane">WIYFLGPVMGTLSGAWVY</span><span class="topo-outside">TFIRF</span><span class="topo-unknown">EDTPREGSSQKLSSFKLRRLRSQQS</span></span>
+<span class="topo-ruler">       250    </span>
 <span class="topo-line"><span class="topo-unknown">IAADDVDEMENIQV</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -558,6 +566,7 @@ Lsi1 is the Low silicon rice 1 channel, a silicon (Si) uptake transporter from r
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -573,11 +582,13 @@ Lsi1 is the Low silicon rice 1 channel, a silicon (Si) uptake transporter from r
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">ALLKRV</span><span class="topo-membrane">VSEVVATFLLVFMTAGA</span><span class="topo-inside">AGISGSDLSRISQLG</span><span class="topo-membrane">QSIAGGLIVVVMIYAVG</span><span class="topo-outside">HISG</span></span>
-<span class="topo-line"><span class="topo-unknown">AHMNPAVTLAF</span><span class="topo-outside">AVFRHFPWIQV</span><span class="topo-membrane">PFYWAAQFTGAIAASFVL</span><span class="topo-inside">KAVIHPVDVIGTTTPVGPHW</span></span>
-<span class="topo-line"><span class="topo-inside">HSL</span><span class="topo-membrane">VVEVIVTFNMMFVTLAV</span><span class="topo-outside">ATDTRAVGEL</span><span class="topo-membrane">AGLAVGSAVCITSIFA</span><span class="topo-inside">GAISGG</span><span class="topo-unknown">SMNPARTL</span></span>
-<span class="topo-line"><span class="topo-unknown">GP</span><span class="topo-inside">ALASNRFDGL</span><span class="topo-membrane">WIYFLGPVMGTLSGAWVY</span><span class="topo-outside">TFIRFEDTPR</span><span class="topo-unknown">EGSSQKLSSFKLRRLRSQQS</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">ALLKRV</span><span class="topo-membrane">VSEVVATFLLVFMTAGA</span><span class="topo-inside">AGISGSDLSRISQLG</span><span class="topo-membrane">QSIAGGLIVVVMIYAVG</span><span class="topo-outside">HISG</span><span class="topo-unknown">AHMNPAVTLAF</span><span class="topo-outside">AVFRHFPWIQV</span><span class="topo-membrane">PFYWAAQFTGAIAASFVL</span><span class="topo-inside">KAVIHPVDVIGTTTPVGPHW</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">HSL</span><span class="topo-membrane">VVEVIVTFNMMFVTLAV</span><span class="topo-outside">ATDTRAVGEL</span><span class="topo-membrane">AGLAVGSAVCITSIFA</span><span class="topo-inside">GAISGG</span><span class="topo-unknown">SMNPARTLGP</span><span class="topo-inside">ALASNRFDGL</span><span class="topo-membrane">WIYFLGPVMGTLSGAWVY</span><span class="topo-outside">TFIRFEDTPR</span><span class="topo-unknown">EGSSQKLSSFKLRRLRSQQS</span></span>
+<span class="topo-ruler">       250    </span>
 <span class="topo-line"><span class="topo-unknown">IAADDVDEMENIQV</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -708,6 +719,7 @@ Lsi1 is the Low silicon rice 1 channel, a silicon (Si) uptake transporter from r
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

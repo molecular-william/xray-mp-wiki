@@ -210,11 +210,13 @@ cancers resistant to EGFR-targeted therapy.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">TLWRCCQRVVGWV</span><span class="topo-membrane">PVLFITFVVVWSYYAYVVELCVFTIF</span><span class="topo-outside">GNEEN</span><span class="topo-membrane">GKTVVYLVAFHLFFVM</span></span>
-<span class="topo-line"><span class="topo-membrane">FVWSYW</span><span class="topo-inside">MTIFTSPASPSKEFYLSNSEKERYEKEFSQERQQEILRRAARALPIYTTSASKT</span></span>
-<span class="topo-line"><span class="topo-inside">IRYCEKCQLIKPDRAHHCSACDSCILKMDHHCPWVNNCVGFSNYKFFLL</span><span class="topo-membrane">FLLYSLLYCLF</span></span>
-<span class="topo-line"><span class="topo-membrane">VAATVLEYFIKFWT</span><span class="topo-outside">NELTD</span><span class="topo-membrane">TRAKFHVLFLFFVSAMFFISVLS</span><span class="topo-inside">LFSYHCWLVGKNRTTIES</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">TLWRCCQRVVGWV</span><span class="topo-membrane">PVLFITFVVVWSYYAYVVELCVFTIF</span><span class="topo-outside">GNEEN</span><span class="topo-membrane">GKTVVYLVAFHLFFVMFVWSYW</span><span class="topo-inside">MTIFTSPASPSKEFYLSNSEKERYEKEFSQERQQEILRRAARALPIYTTSASKT</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">IRYCEKCQLIKPDRAHHCSACDSCILKMDHHCPWVNNCVGFSNYKFFLL</span><span class="topo-membrane">FLLYSLLYCLFVAATVLEYFIKFWT</span><span class="topo-outside">NELTD</span><span class="topo-membrane">TRAKFHVLFLFFVSAMFFISVLS</span><span class="topo-inside">LFSYHCWLVGKNRTTIES</span></span>
+<span class="topo-ruler">       250       260       270       280       290     </span>
 <span class="topo-line"><span class="topo-inside">FRAPTFSYGPDGNGFSLGASKNWRQVFGDEKKYWLLPIFSSLGDGCSFPTRL</span><span class="topo-unknown">VGM</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -289,6 +291,7 @@ cancers resistant to EGFR-targeted therapy.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -304,11 +307,13 @@ cancers resistant to EGFR-targeted therapy.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">TLWRCCQRVVGWV</span><span class="topo-membrane">PVLFITFVVVWSYYAYVVELCVFTIF</span><span class="topo-outside">GNEEN</span><span class="topo-membrane">GKTVVYLVAFHLFFVM</span></span>
-<span class="topo-line"><span class="topo-membrane">FVWSYW</span><span class="topo-inside">MTIFTSPASPSKEFYLSNSEKERYEKEFSQERQQEILRRAARALPIYTTSASKT</span></span>
-<span class="topo-line"><span class="topo-inside">IRYCEKCQLIKPDRAHHCSACDSCILKMDHHCPWVNNCVGFSNYKFFLL</span><span class="topo-membrane">FLLYSLLYCLF</span></span>
-<span class="topo-line"><span class="topo-membrane">VAATVLEYFIKFWT</span><span class="topo-outside">NELTD</span><span class="topo-membrane">TRAKFHVLFLFFVSAMFFISVLS</span><span class="topo-inside">LFSYHCWLVGKNRTTIES</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">TLWRCCQRVVGWV</span><span class="topo-membrane">PVLFITFVVVWSYYAYVVELCVFTIF</span><span class="topo-outside">GNEEN</span><span class="topo-membrane">GKTVVYLVAFHLFFVMFVWSYW</span><span class="topo-inside">MTIFTSPASPSKEFYLSNSEKERYEKEFSQERQQEILRRAARALPIYTTSASKT</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">IRYCEKCQLIKPDRAHHCSACDSCILKMDHHCPWVNNCVGFSNYKFFLL</span><span class="topo-membrane">FLLYSLLYCLFVAATVLEYFIKFWT</span><span class="topo-outside">NELTD</span><span class="topo-membrane">TRAKFHVLFLFFVSAMFFISVLS</span><span class="topo-inside">LFSYHCWLVGKNRTTIES</span></span>
+<span class="topo-ruler">       250       260       270       280       290     </span>
 <span class="topo-line"><span class="topo-inside">FRAPTFSYGPDGNGFSLGASKNWRQVFGDEKKYWLLPIFSSLGDGCSFPTRL</span><span class="topo-unknown">VGM</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -383,6 +388,7 @@ cancers resistant to EGFR-targeted therapy.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

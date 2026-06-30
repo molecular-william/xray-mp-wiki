@@ -153,15 +153,17 @@ to [PfHT1 (Plasmodium falciparum Hexose Transporter 1)](/xray-mp-wiki/proteins/m
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MHHHHHHHHHHSGDEVDAGSGH</span><span class="topo-inside">MGTQKVTPALIF</span><span class="topo-membrane">AITVATIGSFQFGYNTGVINA</span><span class="topo-outside">P</span><span class="topo-unknown">EKII</span></span>
-<span class="topo-line"><span class="topo-unknown">KEFITKTLTD</span><span class="topo-outside">KGNAPPSEVLLTSLWS</span><span class="topo-membrane">LSVAIFSVGGMIGSFSVGLFV</span><span class="topo-inside">NRFGRR</span><span class="topo-membrane">NSMLIVN</span></span>
-<span class="topo-line"><span class="topo-membrane">LLAVTGGCFMGL</span><span class="topo-outside">CKVAKSVE</span><span class="topo-membrane">MLILGRLVIGLFCGLCTGFVPM</span><span class="topo-inside">YIGEISPTALRGA</span><span class="topo-membrane">FGTLN</span></span>
-<span class="topo-line"><span class="topo-membrane">QLGIVVGILVAQIFGL</span><span class="topo-outside">EFILGSEELWP</span><span class="topo-membrane">LLLGFTILPAILQSAALP</span><span class="topo-inside">FCPESPRFLLINRKE</span></span>
-<span class="topo-line"><span class="topo-inside">EENAKQILQRLWGTQDVSQDIQEMKDESARMSQEKQVTVLELFRVSSYRQPI</span><span class="topo-membrane">IISIVLQL</span></span>
-<span class="topo-line"><span class="topo-membrane">SQQLSGINAVFYYS</span><span class="topo-outside">TGIFKDAGVQEPIY</span><span class="topo-membrane">ATIGAGVVNTIFTVVSLFLV</span><span class="topo-inside">ERAGR</span><span class="topo-membrane">RTLHMIG</span></span>
-<span class="topo-line"><span class="topo-membrane">LGGMAFCSTLMTVS</span><span class="topo-outside">LLLKDNYNGMSF</span><span class="topo-membrane">VCIGAILVFVAFFEIGPGPIPWFIV</span><span class="topo-inside">AELFSQGPR</span></span>
-<span class="topo-line"><span class="topo-inside">PA</span><span class="topo-membrane">AMAVAGCSNWTSNFLVGLLFPSAA</span><span class="topo-outside">HYLGA</span><span class="topo-membrane">YVFIIFTGFLITFLAFTFF</span><span class="topo-inside">KVPETRGRTF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MHHHHHHHHHHSGDEVDAGSGH</span><span class="topo-inside">MGTQKVTPALIF</span><span class="topo-membrane">AITVATIGSFQFGYNTGVINA</span><span class="topo-outside">P</span><span class="topo-unknown">EKIIKEFITKTLTD</span><span class="topo-outside">KGNAPPSEVLLTSLWS</span><span class="topo-membrane">LSVAIFSVGGMIGSFSVGLFV</span><span class="topo-inside">NRFGRR</span><span class="topo-membrane">NSMLIVN</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">LLAVTGGCFMGL</span><span class="topo-outside">CKVAKSVE</span><span class="topo-membrane">MLILGRLVIGLFCGLCTGFVPM</span><span class="topo-inside">YIGEISPTALRGA</span><span class="topo-membrane">FGTLNQLGIVVGILVAQIFGL</span><span class="topo-outside">EFILGSEELWP</span><span class="topo-membrane">LLLGFTILPAILQSAALP</span><span class="topo-inside">FCPESPRFLLINRKE</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">EENAKQILQRLWGTQDVSQDIQEMKDESARMSQEKQVTVLELFRVSSYRQPI</span><span class="topo-membrane">IISIVLQLSQQLSGINAVFYYS</span><span class="topo-outside">TGIFKDAGVQEPIY</span><span class="topo-membrane">ATIGAGVVNTIFTVVSLFLV</span><span class="topo-inside">ERAGR</span><span class="topo-membrane">RTLHMIG</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">LGGMAFCSTLMTVS</span><span class="topo-outside">LLLKDNYNGMSF</span><span class="topo-membrane">VCIGAILVFVAFFEIGPGPIPWFIV</span><span class="topo-inside">AELFSQGPRPA</span><span class="topo-membrane">AMAVAGCSNWTSNFLVGLLFPSAA</span><span class="topo-outside">HYLGA</span><span class="topo-membrane">YVFIIFTGFLITFLAFTFF</span><span class="topo-inside">KVPETRGRTF</span></span>
+<span class="topo-ruler">       490       500       510        </span>
 <span class="topo-line"><span class="topo-inside">EDITRAFEGQAH</span><span class="topo-unknown">GADRSGKDGVMEMNSIEPAKETTTNV</span></span>
+<details class="topo-details"><summary>Topology coordinates (27 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -362,6 +364,7 @@ to [PfHT1 (Plasmodium falciparum Hexose Transporter 1)](/xray-mp-wiki/proteins/m
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -377,15 +380,17 @@ to [PfHT1 (Plasmodium falciparum Hexose Transporter 1)](/xray-mp-wiki/proteins/m
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MHHHHHHHHHHSGDEVDAGSGHMG</span><span class="topo-inside">TQKVTPALI</span><span class="topo-membrane">FAITVATIGSFQFGYNTGVINA</span><span class="topo-outside">P</span><span class="topo-unknown">EKII</span></span>
-<span class="topo-line"><span class="topo-unknown">KEFITKTLTD</span><span class="topo-outside">KGNAPPSEVLLTSLWS</span><span class="topo-membrane">LSVAIFSVGGMIGSFSVGLFV</span><span class="topo-inside">NRFGRR</span><span class="topo-membrane">NSMLIVN</span></span>
-<span class="topo-line"><span class="topo-membrane">LLAVTGGCFMGLC</span><span class="topo-outside">KVAKSVE</span><span class="topo-membrane">MLILGRLVIGLFCGLCTGFVPMYI</span><span class="topo-inside">GEISPTALRGA</span><span class="topo-membrane">FGTLN</span></span>
-<span class="topo-line"><span class="topo-membrane">QLGIVVGILVAQIFGL</span><span class="topo-outside">EFILGSEELWP</span><span class="topo-membrane">LLLGFTILPAILQSAALP</span><span class="topo-inside">FCPESPRFLLINRKE</span></span>
-<span class="topo-line"><span class="topo-inside">EENAKQILQRLWGTQDVSQDIQEMKDESARMSQEKQVT</span><span class="topo-unknown">VLELFR</span><span class="topo-inside">VSSYRQPI</span><span class="topo-membrane">IISIVLQL</span></span>
-<span class="topo-line"><span class="topo-membrane">SQQLSGINAVFYYS</span><span class="topo-outside">TGIFKDAGVQEPIY</span><span class="topo-membrane">ATIGAGVVNTIFTVVSLFLV</span><span class="topo-inside">ERAGR</span><span class="topo-membrane">RTLHMIG</span></span>
-<span class="topo-line"><span class="topo-membrane">LGGMAFCSTLMTVS</span><span class="topo-outside">LLLKDNYNGMSF</span><span class="topo-membrane">VCIGAILVFVAFFEIGPGPIPWFIV</span><span class="topo-inside">AELFSQGPR</span></span>
-<span class="topo-line"><span class="topo-inside">PA</span><span class="topo-membrane">AMAVAGCSNWTSNFLVGLLFPSAA</span><span class="topo-outside">HYLGA</span><span class="topo-membrane">YVFIIFTGFLITFLAFTFF</span><span class="topo-inside">KVPETRGRTF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MHHHHHHHHHHSGDEVDAGSGHMG</span><span class="topo-inside">TQKVTPALI</span><span class="topo-membrane">FAITVATIGSFQFGYNTGVINA</span><span class="topo-outside">P</span><span class="topo-unknown">EKIIKEFITKTLTD</span><span class="topo-outside">KGNAPPSEVLLTSLWS</span><span class="topo-membrane">LSVAIFSVGGMIGSFSVGLFV</span><span class="topo-inside">NRFGRR</span><span class="topo-membrane">NSMLIVN</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">LLAVTGGCFMGLC</span><span class="topo-outside">KVAKSVE</span><span class="topo-membrane">MLILGRLVIGLFCGLCTGFVPMYI</span><span class="topo-inside">GEISPTALRGA</span><span class="topo-membrane">FGTLNQLGIVVGILVAQIFGL</span><span class="topo-outside">EFILGSEELWP</span><span class="topo-membrane">LLLGFTILPAILQSAALP</span><span class="topo-inside">FCPESPRFLLINRKE</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">EENAKQILQRLWGTQDVSQDIQEMKDESARMSQEKQVT</span><span class="topo-unknown">VLELFR</span><span class="topo-inside">VSSYRQPI</span><span class="topo-membrane">IISIVLQLSQQLSGINAVFYYS</span><span class="topo-outside">TGIFKDAGVQEPIY</span><span class="topo-membrane">ATIGAGVVNTIFTVVSLFLV</span><span class="topo-inside">ERAGR</span><span class="topo-membrane">RTLHMIG</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">LGGMAFCSTLMTVS</span><span class="topo-outside">LLLKDNYNGMSF</span><span class="topo-membrane">VCIGAILVFVAFFEIGPGPIPWFIV</span><span class="topo-inside">AELFSQGPRPA</span><span class="topo-membrane">AMAVAGCSNWTSNFLVGLLFPSAA</span><span class="topo-outside">HYLGA</span><span class="topo-membrane">YVFIIFTGFLITFLAFTFF</span><span class="topo-inside">KVPETRGRTF</span></span>
+<span class="topo-ruler">       490       500       510        </span>
 <span class="topo-line"><span class="topo-inside">EDITRAFEGQAH</span><span class="topo-unknown">GADRSGKDGVMEMNSIEPAKETTTNV</span></span>
+<details class="topo-details"><summary>Topology coordinates (29 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -600,6 +605,7 @@ to [PfHT1 (Plasmodium falciparum Hexose Transporter 1)](/xray-mp-wiki/proteins/m
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -615,15 +621,17 @@ to [PfHT1 (Plasmodium falciparum Hexose Transporter 1)](/xray-mp-wiki/proteins/m
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MHHHHHHHHHHSGDEVDAGSGHMG</span><span class="topo-outside">TQKVTPALIFAI</span><span class="topo-membrane">TVATIGSFQFGYNTGVIN</span><span class="topo-inside">AP</span><span class="topo-unknown">EKII</span></span>
-<span class="topo-line"><span class="topo-unknown">KEFITKTLTD</span><span class="topo-inside">KGNAPPSEVLLTSLWS</span><span class="topo-membrane">LSVAIFSVGGMIGSFSVGL</span><span class="topo-outside">FVNRFGRRNS</span><span class="topo-membrane">MLIVN</span></span>
-<span class="topo-line"><span class="topo-membrane">LLAVTGGCFMGLC</span><span class="topo-inside">KVAKSVE</span><span class="topo-membrane">MLILGRLVIGLFCGLCTGFVP</span><span class="topo-outside">MYIGEISPTALRGA</span><span class="topo-membrane">FGTLN</span></span>
-<span class="topo-line"><span class="topo-membrane">QLGIVVGILVAQIFG</span><span class="topo-inside">LEFILGSEELW</span><span class="topo-membrane">PLLLGFTILPAILQSAAL</span><span class="topo-outside">PFCPESPRFLLINRKE</span></span>
-<span class="topo-line"><span class="topo-outside">EENAKQILQRLWGTQDVSQDIQEMKDESARMSQEKQVT</span><span class="topo-unknown">VLELFR</span><span class="topo-outside">VSSYRQPI</span><span class="topo-membrane">IISIVLQL</span></span>
-<span class="topo-line"><span class="topo-membrane">SQQLSGINAVFY</span><span class="topo-inside">YSTGIFKDAGVQEPIYA</span><span class="topo-membrane">TIGAGVVNTIFTVVSLFLV</span><span class="topo-outside">ERAGR</span><span class="topo-membrane">RTLHMIG</span></span>
-<span class="topo-line"><span class="topo-membrane">LGGMAFCSTLMT</span><span class="topo-inside">VSLLLKDNYNGMSFVC</span><span class="topo-membrane">IGAILVFVAFFEIGPGPIPWFIV</span><span class="topo-outside">AELFSQGPR</span></span>
-<span class="topo-line"><span class="topo-outside">PAAM</span><span class="topo-membrane">AVAGCSNWTSNFLVGLLF</span><span class="topo-inside">PSAAHYLGAY</span><span class="topo-membrane">VFIIFTGFLITFLAFTFFKV</span><span class="topo-outside">PETRGRTF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MHHHHHHHHHHSGDEVDAGSGHMG</span><span class="topo-outside">TQKVTPALIFAI</span><span class="topo-membrane">TVATIGSFQFGYNTGVIN</span><span class="topo-inside">AP</span><span class="topo-unknown">EKIIKEFITKTLTD</span><span class="topo-inside">KGNAPPSEVLLTSLWS</span><span class="topo-membrane">LSVAIFSVGGMIGSFSVGL</span><span class="topo-outside">FVNRFGRRNS</span><span class="topo-membrane">MLIVN</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">LLAVTGGCFMGLC</span><span class="topo-inside">KVAKSVE</span><span class="topo-membrane">MLILGRLVIGLFCGLCTGFVP</span><span class="topo-outside">MYIGEISPTALRGA</span><span class="topo-membrane">FGTLNQLGIVVGILVAQIFG</span><span class="topo-inside">LEFILGSEELW</span><span class="topo-membrane">PLLLGFTILPAILQSAAL</span><span class="topo-outside">PFCPESPRFLLINRKE</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">EENAKQILQRLWGTQDVSQDIQEMKDESARMSQEKQVT</span><span class="topo-unknown">VLELFR</span><span class="topo-outside">VSSYRQPI</span><span class="topo-membrane">IISIVLQLSQQLSGINAVFY</span><span class="topo-inside">YSTGIFKDAGVQEPIYA</span><span class="topo-membrane">TIGAGVVNTIFTVVSLFLV</span><span class="topo-outside">ERAGR</span><span class="topo-membrane">RTLHMIG</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">LGGMAFCSTLMT</span><span class="topo-inside">VSLLLKDNYNGMSFVC</span><span class="topo-membrane">IGAILVFVAFFEIGPGPIPWFIV</span><span class="topo-outside">AELFSQGPRPAAM</span><span class="topo-membrane">AVAGCSNWTSNFLVGLLF</span><span class="topo-inside">PSAAHYLGAY</span><span class="topo-membrane">VFIIFTGFLITFLAFTFFKV</span><span class="topo-outside">PETRGRTF</span></span>
+<span class="topo-ruler">       490       500       510        </span>
 <span class="topo-line"><span class="topo-outside">EDITRAFEGQAH</span><span class="topo-unknown">GADRSGKDGVMEMNSIEPAKETTTNV</span></span>
+<details class="topo-details"><summary>Topology coordinates (29 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -838,6 +846,7 @@ to [PfHT1 (Plasmodium falciparum Hexose Transporter 1)](/xray-mp-wiki/proteins/m
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -895,15 +904,17 @@ to [PfHT1 (Plasmodium falciparum Hexose Transporter 1)](/xray-mp-wiki/proteins/m
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MHHHHHHHHHHSGDEVDAGSGHMG</span><span class="topo-inside">TQKVTPALIFAIT</span><span class="topo-membrane">VATIGSFQFGYNTGVINA</span><span class="topo-outside">P</span><span class="topo-unknown">EKII</span></span>
-<span class="topo-line"><span class="topo-unknown">KEFITKTLTD</span><span class="topo-outside">KGNAPPSEVLLTSLWS</span><span class="topo-membrane">LSVAIFSVGGMIGSFSVGLF</span><span class="topo-inside">VNRFGRRNS</span><span class="topo-membrane">MLIVN</span></span>
-<span class="topo-line"><span class="topo-membrane">LLAVTGGCFMGLC</span><span class="topo-outside">KVAKSVE</span><span class="topo-membrane">MLILGRLVIGLFCGLCTGFVP</span><span class="topo-inside">MYIGEISPTALRGAFG</span><span class="topo-membrane">TLN</span></span>
-<span class="topo-line"><span class="topo-membrane">QLGIVVGILVAQIFGL</span><span class="topo-outside">EFILGSEEL</span><span class="topo-membrane">WPLLLGFTILPAILQSAAL</span><span class="topo-inside">PFCPESPRFLLINRKE</span></span>
-<span class="topo-line"><span class="topo-inside">EENAKQILQRLWGTQDVSQDIQEMKDESARMSQEKQVTVLELFRVSSYRQPI</span><span class="topo-membrane">IISIVLQL</span></span>
-<span class="topo-line"><span class="topo-membrane">SQQLSGINAVFYYS</span><span class="topo-outside">TGIFKDAGVQEPIY</span><span class="topo-membrane">ATIGAGVVNTIFTVVSLFLV</span><span class="topo-inside">ERAGR</span><span class="topo-membrane">RTLHMIG</span></span>
-<span class="topo-line"><span class="topo-membrane">LGGMAFCSTLMTV</span><span class="topo-outside">SLLLKDNYNGMSFV</span><span class="topo-membrane">CIGAILVFVAFFEIGPGPIPWFIV</span><span class="topo-inside">AELFSQGPR</span></span>
-<span class="topo-line"><span class="topo-inside">PAA</span><span class="topo-membrane">MAVAGCSNWTSNFLVGLLF</span><span class="topo-outside">PSAAHYLGAY</span><span class="topo-membrane">VFIIFTGFLITFLAFTFFKV</span><span class="topo-inside">PETRGRTF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MHHHHHHHHHHSGDEVDAGSGHMG</span><span class="topo-inside">TQKVTPALIFAIT</span><span class="topo-membrane">VATIGSFQFGYNTGVINA</span><span class="topo-outside">P</span><span class="topo-unknown">EKIIKEFITKTLTD</span><span class="topo-outside">KGNAPPSEVLLTSLWS</span><span class="topo-membrane">LSVAIFSVGGMIGSFSVGLF</span><span class="topo-inside">VNRFGRRNS</span><span class="topo-membrane">MLIVN</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">LLAVTGGCFMGLC</span><span class="topo-outside">KVAKSVE</span><span class="topo-membrane">MLILGRLVIGLFCGLCTGFVP</span><span class="topo-inside">MYIGEISPTALRGAFG</span><span class="topo-membrane">TLNQLGIVVGILVAQIFGL</span><span class="topo-outside">EFILGSEEL</span><span class="topo-membrane">WPLLLGFTILPAILQSAAL</span><span class="topo-inside">PFCPESPRFLLINRKE</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">EENAKQILQRLWGTQDVSQDIQEMKDESARMSQEKQVTVLELFRVSSYRQPI</span><span class="topo-membrane">IISIVLQLSQQLSGINAVFYYS</span><span class="topo-outside">TGIFKDAGVQEPIY</span><span class="topo-membrane">ATIGAGVVNTIFTVVSLFLV</span><span class="topo-inside">ERAGR</span><span class="topo-membrane">RTLHMIG</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">LGGMAFCSTLMTV</span><span class="topo-outside">SLLLKDNYNGMSFV</span><span class="topo-membrane">CIGAILVFVAFFEIGPGPIPWFIV</span><span class="topo-inside">AELFSQGPRPAA</span><span class="topo-membrane">MAVAGCSNWTSNFLVGLLF</span><span class="topo-outside">PSAAHYLGAY</span><span class="topo-membrane">VFIIFTGFLITFLAFTFFKV</span><span class="topo-inside">PETRGRTF</span></span>
+<span class="topo-ruler">       490       500       510        </span>
 <span class="topo-line"><span class="topo-inside">EDITRAFEGQAHG</span><span class="topo-unknown">ADRSGKDGVMEMNSIEPAKETTTNV</span></span>
+<details class="topo-details"><summary>Topology coordinates (27 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1104,6 +1115,7 @@ to [PfHT1 (Plasmodium falciparum Hexose Transporter 1)](/xray-mp-wiki/proteins/m
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

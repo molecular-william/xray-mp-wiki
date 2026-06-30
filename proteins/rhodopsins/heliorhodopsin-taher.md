@@ -142,11 +142,13 @@ Heliorhodopsin (HeR) from an uncultured Thermoplasmatales archaeon SG8-52-1 (TaH
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MHHHHHHTE</span><span class="topo-outside">NEEINFRKF</span><span class="topo-membrane">RIFNGIMGVIHLIQVFLVLYLS</span><span class="topo-inside">NNFSLPITVNKPVYNEITNS</span></span>
-<span class="topo-line"><span class="topo-inside">ISPVAETLFSI</span><span class="topo-membrane">EIGPLVAMFLFISATAHILIATVLY</span><span class="topo-unknown">YRYVQNLK</span><span class="topo-outside">NHM</span><span class="topo-membrane">NPYRWFEYSISAS</span></span>
-<span class="topo-line"><span class="topo-membrane">FMIVIIAMLT</span><span class="topo-inside">TIYD</span><span class="topo-membrane">LGTLLALFTLTAVMNLMGLMMEL</span><span class="topo-outside">HNQTTQNTNW</span><span class="topo-membrane">TSYIIGCIAGFVP</span></span>
-<span class="topo-line"><span class="topo-membrane">WIVIFI</span><span class="topo-inside">PLISAESVPDF</span><span class="topo-membrane">VIYIFISIAIFFNCFAINMYLQ</span><span class="topo-outside">YKKIGKWKNYLH</span><span class="topo-membrane">GEKVYIILS</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MHHHHHHTE</span><span class="topo-outside">NEEINFRKF</span><span class="topo-membrane">RIFNGIMGVIHLIQVFLVLYLS</span><span class="topo-inside">NNFSLPITVNKPVYNEITNSISPVAETLFSI</span><span class="topo-membrane">EIGPLVAMFLFISATAHILIATVLY</span><span class="topo-unknown">YRYVQNLK</span><span class="topo-outside">NHM</span><span class="topo-membrane">NPYRWFEYSISAS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">FMIVIIAMLT</span><span class="topo-inside">TIYD</span><span class="topo-membrane">LGTLLALFTLTAVMNLMGLMMEL</span><span class="topo-outside">HNQTTQNTNW</span><span class="topo-membrane">TSYIIGCIAGFVPWIVIFI</span><span class="topo-inside">PLISAESVPDF</span><span class="topo-membrane">VIYIFISIAIFFNCFAINMYLQ</span><span class="topo-outside">YKKIGKWKNYLH</span><span class="topo-membrane">GEKVYIILS</span></span>
+<span class="topo-ruler">       250         </span>
 <span class="topo-line"><span class="topo-membrane">LVAKSALAWQVFA</span><span class="topo-inside">GTLRPM</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -270,6 +272,7 @@ Heliorhodopsin (HeR) from an uncultured Thermoplasmatales archaeon SG8-52-1 (TaH
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -285,11 +288,13 @@ Heliorhodopsin (HeR) from an uncultured Thermoplasmatales archaeon SG8-52-1 (TaH
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MHHHHHHTE</span><span class="topo-outside">NEEINFRKF</span><span class="topo-membrane">RIFNGIMGVIHLIQVFLVLYLS</span><span class="topo-inside">NNFSLPITVNKPVYNEITNS</span></span>
-<span class="topo-line"><span class="topo-inside">ISPVAETLFSI</span><span class="topo-membrane">EIGPLVAMFLFISATAHILIATVLY</span><span class="topo-unknown">YRYVQNLK</span><span class="topo-outside">NHM</span><span class="topo-membrane">NPYRWFEYSISAS</span></span>
-<span class="topo-line"><span class="topo-membrane">FMIVIIAMLT</span><span class="topo-inside">TIYD</span><span class="topo-membrane">LGTLLALFTLTAVMNLMGLMMEL</span><span class="topo-outside">HNQTTQNTNW</span><span class="topo-membrane">TSYIIGCIAGFVP</span></span>
-<span class="topo-line"><span class="topo-membrane">WIVIFI</span><span class="topo-inside">PLISAESVPDF</span><span class="topo-membrane">VIYIFISIAIFFNCFAINMYLQ</span><span class="topo-outside">YKKIGKWKNYLH</span><span class="topo-membrane">GEKVYIILS</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MHHHHHHTE</span><span class="topo-outside">NEEINFRKF</span><span class="topo-membrane">RIFNGIMGVIHLIQVFLVLYLS</span><span class="topo-inside">NNFSLPITVNKPVYNEITNSISPVAETLFSI</span><span class="topo-membrane">EIGPLVAMFLFISATAHILIATVLY</span><span class="topo-unknown">YRYVQNLK</span><span class="topo-outside">NHM</span><span class="topo-membrane">NPYRWFEYSISAS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">FMIVIIAMLT</span><span class="topo-inside">TIYD</span><span class="topo-membrane">LGTLLALFTLTAVMNLMGLMMEL</span><span class="topo-outside">HNQTTQNTNW</span><span class="topo-membrane">TSYIIGCIAGFVPWIVIFI</span><span class="topo-inside">PLISAESVPDF</span><span class="topo-membrane">VIYIFISIAIFFNCFAINMYLQ</span><span class="topo-outside">YKKIGKWKNYLH</span><span class="topo-membrane">GEKVYIILS</span></span>
+<span class="topo-ruler">       250         </span>
 <span class="topo-line"><span class="topo-membrane">LVAKSALAWQVFA</span><span class="topo-inside">GTLRPM</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -413,6 +418,7 @@ Heliorhodopsin (HeR) from an uncultured Thermoplasmatales archaeon SG8-52-1 (TaH
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -539,11 +545,13 @@ Heliorhodopsin (HeR) from an uncultured Thermoplasmatales archaeon SG8-52-1 (TaH
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MHHHHHHTENEEI</span><span class="topo-outside">NFRK</span><span class="topo-membrane">FRIFNGIMGVIHLIQVFLVLYLS</span><span class="topo-inside">NNFSLPITVNKPVYNEITNS</span></span>
-<span class="topo-line"><span class="topo-inside">ISPVAETLFSIEI</span><span class="topo-membrane">GPLVAMFLFISATAHILIATVLY</span><span class="topo-outside">YRYVQNLKNHM</span><span class="topo-membrane">NPYRWFEYSISAS</span></span>
-<span class="topo-line"><span class="topo-membrane">FMIVIIAML</span><span class="topo-inside">TTIYDL</span><span class="topo-membrane">GTLLALFTLTAVMNLMGLMMELH</span><span class="topo-outside">NQTTQNTN</span><span class="topo-membrane">WTSYIIGCIAGFVP</span></span>
-<span class="topo-line"><span class="topo-membrane">WIVIFI</span><span class="topo-inside">PLISAESVPDF</span><span class="topo-membrane">VIYIFISIAIFFNCFAINMYLQYK</span><span class="topo-outside">KIGKWKNYLH</span><span class="topo-membrane">GEKVYIILS</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MHHHHHHTENEEI</span><span class="topo-outside">NFRK</span><span class="topo-membrane">FRIFNGIMGVIHLIQVFLVLYLS</span><span class="topo-inside">NNFSLPITVNKPVYNEITNSISPVAETLFSIEI</span><span class="topo-membrane">GPLVAMFLFISATAHILIATVLY</span><span class="topo-outside">YRYVQNLKNHM</span><span class="topo-membrane">NPYRWFEYSISAS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">FMIVIIAML</span><span class="topo-inside">TTIYDL</span><span class="topo-membrane">GTLLALFTLTAVMNLMGLMMELH</span><span class="topo-outside">NQTTQNTN</span><span class="topo-membrane">WTSYIIGCIAGFVPWIVIFI</span><span class="topo-inside">PLISAESVPDF</span><span class="topo-membrane">VIYIFISIAIFFNCFAINMYLQYK</span><span class="topo-outside">KIGKWKNYLH</span><span class="topo-membrane">GEKVYIILS</span></span>
+<span class="topo-ruler">       250         </span>
 <span class="topo-line"><span class="topo-membrane">LVAKSALAWQVFA</span><span class="topo-inside">GTLRP</span><span class="topo-unknown">M</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -674,6 +682,7 @@ Heliorhodopsin (HeR) from an uncultured Thermoplasmatales archaeon SG8-52-1 (TaH
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -689,11 +698,13 @@ Heliorhodopsin (HeR) from an uncultured Thermoplasmatales archaeon SG8-52-1 (TaH
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MHHHHHHTENEEI</span><span class="topo-outside">NFRK</span><span class="topo-membrane">FRIFNGIMGVIHLIQVFLVLYLS</span><span class="topo-inside">NNFSLPITVNKPVYNEITNS</span></span>
-<span class="topo-line"><span class="topo-inside">ISPVAETLFSIEI</span><span class="topo-membrane">GPLVAMFLFISATAHILIATVLY</span><span class="topo-outside">YRYVQNLKNHM</span><span class="topo-membrane">NPYRWFEYSISAS</span></span>
-<span class="topo-line"><span class="topo-membrane">FMIVIIAML</span><span class="topo-inside">TTIYDL</span><span class="topo-membrane">GTLLALFTLTAVMNLMGLMMELH</span><span class="topo-outside">NQTTQNTN</span><span class="topo-membrane">WTSYIIGCIAGFVP</span></span>
-<span class="topo-line"><span class="topo-membrane">WIVIFI</span><span class="topo-inside">PLISAESVPDF</span><span class="topo-membrane">VIYIFISIAIFFNCFAINMYLQYK</span><span class="topo-outside">KIGKWKNYLH</span><span class="topo-membrane">GEKVYIILS</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MHHHHHHTENEEI</span><span class="topo-outside">NFRK</span><span class="topo-membrane">FRIFNGIMGVIHLIQVFLVLYLS</span><span class="topo-inside">NNFSLPITVNKPVYNEITNSISPVAETLFSIEI</span><span class="topo-membrane">GPLVAMFLFISATAHILIATVLY</span><span class="topo-outside">YRYVQNLKNHM</span><span class="topo-membrane">NPYRWFEYSISAS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">FMIVIIAML</span><span class="topo-inside">TTIYDL</span><span class="topo-membrane">GTLLALFTLTAVMNLMGLMMELH</span><span class="topo-outside">NQTTQNTN</span><span class="topo-membrane">WTSYIIGCIAGFVPWIVIFI</span><span class="topo-inside">PLISAESVPDF</span><span class="topo-membrane">VIYIFISIAIFFNCFAINMYLQYK</span><span class="topo-outside">KIGKWKNYLH</span><span class="topo-membrane">GEKVYIILS</span></span>
+<span class="topo-ruler">       250         </span>
 <span class="topo-line"><span class="topo-membrane">LVAKSALAWQVFA</span><span class="topo-inside">GTLRP</span><span class="topo-unknown">M</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -824,6 +835,7 @@ Heliorhodopsin (HeR) from an uncultured Thermoplasmatales archaeon SG8-52-1 (TaH
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

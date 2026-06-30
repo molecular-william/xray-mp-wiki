@@ -143,12 +143,13 @@ of aquaporin regulation important for controlling body fat mass.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MVFTQAPAEIMGHLRIR</span><span class="topo-inside">SLLARQ</span><span class="topo-membrane">CLAEFLGVFVLMLLTQGAV</span><span class="topo-outside">AQAVTSGETKGNFF</span><span class="topo-membrane">TMFL</span></span>
-<span class="topo-line"><span class="topo-membrane">AGSLAVTIAIYVGGNV</span><span class="topo-inside">SG</span><span class="topo-unknown">AHLNPAFSLAMCI</span><span class="topo-inside">VGRLPW</span><span class="topo-membrane">VKLPIYILVQLLSAFCASGATYV</span></span>
-<span class="topo-line"><span class="topo-membrane">LY</span><span class="topo-outside">HDALQNYTGGNLTVTGPKETASIFATYPAPYLSLNNG</span><span class="topo-membrane">FLDQVLGTGMLIVGLLAI</span><span class="topo-inside">LDR</span></span>
-<span class="topo-line"><span class="topo-inside">RNKGVPAGL</span><span class="topo-membrane">EPVVVGMLILALGLSMG</span><span class="topo-outside">ANC</span><span class="topo-unknown">GIPLNPARDLGPRLF</span><span class="topo-outside">TYVAGWGPEVFSAGNG</span></span>
-<span class="topo-line"><span class="topo-outside">WW</span><span class="topo-membrane">WVPVVAPLVGATVGTATYQLL</span><span class="topo-inside">VALHH</span><span class="topo-unknown">PEGPEPAQDLVSAQHKASELETPASAQMLECK</span></span>
-<span class="topo-line"><span class="topo-unknown">L</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MVFTQAPAEIMGHLRIR</span><span class="topo-inside">SLLARQ</span><span class="topo-membrane">CLAEFLGVFVLMLLTQGAV</span><span class="topo-outside">AQAVTSGETKGNFF</span><span class="topo-membrane">TMFLAGSLAVTIAIYVGGNV</span><span class="topo-inside">SG</span><span class="topo-unknown">AHLNPAFSLAMCI</span><span class="topo-inside">VGRLPW</span><span class="topo-membrane">VKLPIYILVQLLSAFCASGATYV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">LY</span><span class="topo-outside">HDALQNYTGGNLTVTGPKETASIFATYPAPYLSLNNG</span><span class="topo-membrane">FLDQVLGTGMLIVGLLAI</span><span class="topo-inside">LDRRNKGVPAGL</span><span class="topo-membrane">EPVVVGMLILALGLSMG</span><span class="topo-outside">ANC</span><span class="topo-unknown">GIPLNPARDLGPRLF</span><span class="topo-outside">TYVAGWGPEVFSAGNG</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300 </span>
+<span class="topo-line"><span class="topo-outside">WW</span><span class="topo-membrane">WVPVVAPLVGATVGTATYQLL</span><span class="topo-inside">VALHH</span><span class="topo-unknown">PEGPEPAQDLVSAQHKASELETPASAQMLECKL</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -293,6 +294,7 @@ of aquaporin regulation important for controlling body fat mass.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -308,12 +310,13 @@ of aquaporin regulation important for controlling body fat mass.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MVFTQAPAEIMGHLRIR</span><span class="topo-inside">SLLARQC</span><span class="topo-membrane">LAEFLGVFVLMLLTQGAV</span><span class="topo-outside">AQAVTSGETKGNFF</span><span class="topo-membrane">TMFL</span></span>
-<span class="topo-line"><span class="topo-membrane">AGSLAVTIAIYVGGNV</span><span class="topo-inside">SGA</span><span class="topo-unknown">HLNPAFSLAMCI</span><span class="topo-inside">VGRLPWVK</span><span class="topo-membrane">LPIYILVQLLSAFCASGATYV</span></span>
-<span class="topo-line"><span class="topo-membrane">L</span><span class="topo-outside">YHDALQNYTGGNLTVTGPKETASIFATYPAPYLSLN</span><span class="topo-membrane">NGFLDQVLGTGMLIVGLLAI</span><span class="topo-inside">LDR</span></span>
-<span class="topo-line"><span class="topo-inside">RNKGVPAGL</span><span class="topo-membrane">EPVVVGMLILALGLSMG</span><span class="topo-outside">AN</span><span class="topo-unknown">CGIPLNPARDLGPRLFT</span><span class="topo-outside">YVAGWGPEVFSAGNG</span></span>
-<span class="topo-line"><span class="topo-outside">WW</span><span class="topo-membrane">WVPVVAPLVGATVGTATY</span><span class="topo-inside">QLLVALHHP</span><span class="topo-unknown">EGPEPAQDLVSAQHKASELETPASAQMLECK</span></span>
-<span class="topo-line"><span class="topo-unknown">L</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MVFTQAPAEIMGHLRIR</span><span class="topo-inside">SLLARQC</span><span class="topo-membrane">LAEFLGVFVLMLLTQGAV</span><span class="topo-outside">AQAVTSGETKGNFF</span><span class="topo-membrane">TMFLAGSLAVTIAIYVGGNV</span><span class="topo-inside">SGA</span><span class="topo-unknown">HLNPAFSLAMCI</span><span class="topo-inside">VGRLPWVK</span><span class="topo-membrane">LPIYILVQLLSAFCASGATYV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">L</span><span class="topo-outside">YHDALQNYTGGNLTVTGPKETASIFATYPAPYLSLN</span><span class="topo-membrane">NGFLDQVLGTGMLIVGLLAI</span><span class="topo-inside">LDRRNKGVPAGL</span><span class="topo-membrane">EPVVVGMLILALGLSMG</span><span class="topo-outside">AN</span><span class="topo-unknown">CGIPLNPARDLGPRLFT</span><span class="topo-outside">YVAGWGPEVFSAGNG</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300 </span>
+<span class="topo-line"><span class="topo-outside">WW</span><span class="topo-membrane">WVPVVAPLVGATVGTATY</span><span class="topo-inside">QLLVALHHP</span><span class="topo-unknown">EGPEPAQDLVSAQHKASELETPASAQMLECKL</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -458,6 +461,7 @@ of aquaporin regulation important for controlling body fat mass.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -473,12 +477,13 @@ of aquaporin regulation important for controlling body fat mass.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MVFTQAPAEIMGHLR</span><span class="topo-inside">IRSLL</span><span class="topo-membrane">ARQCLAEFLGVFVLMLLTQGA</span><span class="topo-outside">VAQAVTSGETKGNFF</span><span class="topo-membrane">TMFL</span></span>
-<span class="topo-line"><span class="topo-membrane">AGSLAVTIAIYVGGNVS</span><span class="topo-inside">G</span><span class="topo-unknown">AHLNPAFSLAMCI</span><span class="topo-inside">VGRLPW</span><span class="topo-membrane">VKLPIYILVQLLSAFCASGAT</span><span class="topo-outside">YV</span></span>
-<span class="topo-line"><span class="topo-outside">LYHDALQNYTGGNLTVTGPKETASIFATYPAPYLSLNNG</span><span class="topo-membrane">FLDQVLGTGMLIVGLLAI</span><span class="topo-inside">LDR</span></span>
-<span class="topo-line"><span class="topo-inside">RNKGVPAGL</span><span class="topo-membrane">EPVVVGMLILALGLSMG</span><span class="topo-outside">ANCG</span><span class="topo-unknown">IPLNPARDLGPRLF</span><span class="topo-outside">TYVAGWGPEVFSAGNG</span></span>
-<span class="topo-line"><span class="topo-outside">WWW</span><span class="topo-membrane">VPVVAPLVGATVGTATYQLL</span><span class="topo-inside">VALHH</span><span class="topo-unknown">PEGPEPAQDLVSAQHKASELETPASAQMLECK</span></span>
-<span class="topo-line"><span class="topo-unknown">L</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MVFTQAPAEIMGHLR</span><span class="topo-inside">IRSLL</span><span class="topo-membrane">ARQCLAEFLGVFVLMLLTQGA</span><span class="topo-outside">VAQAVTSGETKGNFF</span><span class="topo-membrane">TMFLAGSLAVTIAIYVGGNVS</span><span class="topo-inside">G</span><span class="topo-unknown">AHLNPAFSLAMCI</span><span class="topo-inside">VGRLPW</span><span class="topo-membrane">VKLPIYILVQLLSAFCASGAT</span><span class="topo-outside">YV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">LYHDALQNYTGGNLTVTGPKETASIFATYPAPYLSLNNG</span><span class="topo-membrane">FLDQVLGTGMLIVGLLAI</span><span class="topo-inside">LDRRNKGVPAGL</span><span class="topo-membrane">EPVVVGMLILALGLSMG</span><span class="topo-outside">ANCG</span><span class="topo-unknown">IPLNPARDLGPRLF</span><span class="topo-outside">TYVAGWGPEVFSAGNG</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300 </span>
+<span class="topo-line"><span class="topo-outside">WWW</span><span class="topo-membrane">VPVVAPLVGATVGTATYQLL</span><span class="topo-inside">VALHH</span><span class="topo-unknown">PEGPEPAQDLVSAQHKASELETPASAQMLECKL</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -623,6 +628,7 @@ of aquaporin regulation important for controlling body fat mass.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -638,12 +644,13 @@ of aquaporin regulation important for controlling body fat mass.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MVFTQAPAEIMG</span><span class="topo-inside">HLRIRSLLARQ</span><span class="topo-membrane">CLAEFLGVFVLMLLTQGA</span><span class="topo-outside">VAQAVTSGETKGNFF</span><span class="topo-membrane">TMFL</span></span>
-<span class="topo-line"><span class="topo-membrane">AGSLAVTIAIYVGGNV</span><span class="topo-inside">SG</span><span class="topo-unknown">AHLNPAFSLAMCIV</span><span class="topo-inside">GRLPW</span><span class="topo-membrane">VKLPIYILVQLLSAFCASGATYV</span></span>
-<span class="topo-line"><span class="topo-membrane">L</span><span class="topo-outside">YHDALQNYTGGNLTVTGPKETASIFATYPAPYLSLNNGF</span><span class="topo-membrane">LDQVLGTGMLIVGLLAIL</span><span class="topo-inside">DR</span></span>
-<span class="topo-line"><span class="topo-inside">RNKGVPAGL</span><span class="topo-membrane">EPVVVGMLILALGLSMG</span><span class="topo-outside">ANCG</span><span class="topo-unknown">IPLNPARDLGPRLF</span><span class="topo-outside">TYVAGWGPEVFSAGNG</span></span>
-<span class="topo-line"><span class="topo-outside">WWW</span><span class="topo-membrane">VPVVAPLVGATVGTATYQLL</span><span class="topo-inside">VALHH</span><span class="topo-unknown">PEGPEPAQDLVSAQHKASELETPASAQMLECK</span></span>
-<span class="topo-line"><span class="topo-unknown">L</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MVFTQAPAEIMG</span><span class="topo-inside">HLRIRSLLARQ</span><span class="topo-membrane">CLAEFLGVFVLMLLTQGA</span><span class="topo-outside">VAQAVTSGETKGNFF</span><span class="topo-membrane">TMFLAGSLAVTIAIYVGGNV</span><span class="topo-inside">SG</span><span class="topo-unknown">AHLNPAFSLAMCIV</span><span class="topo-inside">GRLPW</span><span class="topo-membrane">VKLPIYILVQLLSAFCASGATYV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">L</span><span class="topo-outside">YHDALQNYTGGNLTVTGPKETASIFATYPAPYLSLNNGF</span><span class="topo-membrane">LDQVLGTGMLIVGLLAIL</span><span class="topo-inside">DRRNKGVPAGL</span><span class="topo-membrane">EPVVVGMLILALGLSMG</span><span class="topo-outside">ANCG</span><span class="topo-unknown">IPLNPARDLGPRLF</span><span class="topo-outside">TYVAGWGPEVFSAGNG</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300 </span>
+<span class="topo-line"><span class="topo-outside">WWW</span><span class="topo-membrane">VPVVAPLVGATVGTATYQLL</span><span class="topo-inside">VALHH</span><span class="topo-unknown">PEGPEPAQDLVSAQHKASELETPASAQMLECKL</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -788,6 +795,7 @@ of aquaporin regulation important for controlling body fat mass.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

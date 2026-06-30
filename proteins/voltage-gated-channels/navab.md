@@ -109,11 +109,13 @@ gating pore currents in the voltage sensor domain.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRGSH</span><span class="topo-inside">M</span><span class="topo-unknown">YLRITNIV</span><span class="topo-inside">ESSFFT</span><span class="topo-membrane">KFIIYLIVLNGITMGLET</span><span class="topo-outside">SKTFMQSFG</span></span>
-<span class="topo-line"><span class="topo-outside">VY</span><span class="topo-membrane">TTLFNQIVITIFTIEIILRI</span><span class="topo-inside">YVHRISFFKDP</span><span class="topo-membrane">WSLFDFFVVAISLVPT</span><span class="topo-outside">SSGFEI</span><span class="topo-membrane">LRVLR</span></span>
-<span class="topo-line"><span class="topo-membrane">VLRLFRLVTAV</span><span class="topo-unknown">PQMRKIVSALI</span><span class="topo-inside">SVIPGM</span><span class="topo-membrane">LSVIALMTLFFYIFAIMAT</span><span class="topo-outside">QLFGERFPEWFGT</span></span>
-<span class="topo-line"><span class="topo-outside">L</span><span class="topo-unknown">GESFYTLFQVMTLESWSMGIVRPLMEV</span><span class="topo-outside">YPY</span><span class="topo-membrane">AWVFFIPFIFVVTFVMINLV</span><span class="topo-inside">VAIIVD</span><span class="topo-unknown">AMA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRGSH</span><span class="topo-inside">M</span><span class="topo-unknown">YLRITNIV</span><span class="topo-inside">ESSFFT</span><span class="topo-membrane">KFIIYLIVLNGITMGLET</span><span class="topo-outside">SKTFMQSFGVY</span><span class="topo-membrane">TTLFNQIVITIFTIEIILRI</span><span class="topo-inside">YVHRISFFKDP</span><span class="topo-membrane">WSLFDFFVVAISLVPT</span><span class="topo-outside">SSGFEI</span><span class="topo-membrane">LRVLR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">VLRLFRLVTAV</span><span class="topo-unknown">PQMRKIVSALI</span><span class="topo-inside">SVIPGM</span><span class="topo-membrane">LSVIALMTLFFYIFAIMAT</span><span class="topo-outside">QLFGERFPEWFGTL</span><span class="topo-unknown">GESFYTLFQVMTLESWSMGIVRPLMEV</span><span class="topo-outside">YPY</span><span class="topo-membrane">AWVFFIPFIFVVTFVMINLV</span><span class="topo-inside">VAIIVD</span><span class="topo-unknown">AMA</span></span>
+<span class="topo-ruler">       250       260       270       280     </span>
 <span class="topo-line"><span class="topo-unknown">ILNQKEEQHIIDEVQSHEDNINNEIIKLREEIVELKELIKTSLKN</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -272,6 +274,7 @@ gating pore currents in the voltage sensor domain.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -287,11 +290,13 @@ gating pore currents in the voltage sensor domain.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRGSH</span><span class="topo-inside">MYL</span><span class="topo-unknown">RITNIV</span><span class="topo-inside">ESSFFTKF</span><span class="topo-membrane">IIYLIVLNGITMGLETS</span><span class="topo-outside">KTFMQSF</span><span class="topo-membrane">G</span></span>
-<span class="topo-line"><span class="topo-membrane">VYTTLFNQIVITIFTIEII</span><span class="topo-inside">LRIYVHRISFFKDPWSL</span><span class="topo-membrane">FDFFVVAISLVPTSSG</span><span class="topo-outside">F</span><span class="topo-membrane">EILRVLR</span></span>
-<span class="topo-line"><span class="topo-membrane">VLRLFRLVT</span><span class="topo-inside">AV</span><span class="topo-unknown">PQMRKIVSALI</span><span class="topo-inside">SVIPGMLSV</span><span class="topo-membrane">IALMTLFFYIFAIMATQL</span><span class="topo-outside">FGERFPEWFGT</span></span>
-<span class="topo-line"><span class="topo-unknown">LGESFYTLFQVMTLESWS</span><span class="topo-outside">MGIVRPLMEVYPY</span><span class="topo-membrane">AWVFFIPFIFVVTFVMINLV</span><span class="topo-inside">VAIIVD</span><span class="topo-unknown">AMA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRGSH</span><span class="topo-inside">MYL</span><span class="topo-unknown">RITNIV</span><span class="topo-inside">ESSFFTKF</span><span class="topo-membrane">IIYLIVLNGITMGLETS</span><span class="topo-outside">KTFMQSF</span><span class="topo-membrane">GVYTTLFNQIVITIFTIEII</span><span class="topo-inside">LRIYVHRISFFKDPWSL</span><span class="topo-membrane">FDFFVVAISLVPTSSG</span><span class="topo-outside">F</span><span class="topo-membrane">EILRVLR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">VLRLFRLVT</span><span class="topo-inside">AV</span><span class="topo-unknown">PQMRKIVSALI</span><span class="topo-inside">SVIPGMLSV</span><span class="topo-membrane">IALMTLFFYIFAIMATQL</span><span class="topo-outside">FGERFPEWFGT</span><span class="topo-unknown">LGESFYTLFQVMTLESWS</span><span class="topo-outside">MGIVRPLMEVYPY</span><span class="topo-membrane">AWVFFIPFIFVVTFVMINLV</span><span class="topo-inside">VAIIVD</span><span class="topo-unknown">AMA</span></span>
+<span class="topo-ruler">       250       260       270       280     </span>
 <span class="topo-line"><span class="topo-unknown">ILNQKEEQHIIDEVQSHEDNINNEIIKLREEIVELKELIKTSLKN</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -450,6 +455,7 @@ gating pore currents in the voltage sensor domain.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -465,11 +471,13 @@ gating pore currents in the voltage sensor domain.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRGSH</span><span class="topo-inside">M</span><span class="topo-unknown">YLRITNIV</span><span class="topo-inside">ESSFFT</span><span class="topo-membrane">KFIIYLIVLNGITMGLET</span><span class="topo-outside">SKTFMQSFG</span></span>
-<span class="topo-line"><span class="topo-outside">VY</span><span class="topo-membrane">TTLFNQIVITIFTIEIILRI</span><span class="topo-inside">YVHRISFFKDP</span><span class="topo-membrane">WSLFDFFVVAISLVPT</span><span class="topo-outside">SSGFEI</span><span class="topo-membrane">LRVLR</span></span>
-<span class="topo-line"><span class="topo-membrane">VLRLFRLVTAV</span><span class="topo-unknown">PQMRKIVSALI</span><span class="topo-inside">SVIPGM</span><span class="topo-membrane">LSVIALMTLFFYIFAIMAT</span><span class="topo-outside">QLFGERFPEWFGT</span></span>
-<span class="topo-line"><span class="topo-outside">L</span><span class="topo-unknown">GESFYTLFQVMTLESWSMGIVRPLMEV</span><span class="topo-outside">YPY</span><span class="topo-membrane">AWVFFIPFIFVVTFVMINLV</span><span class="topo-inside">VAIIVD</span><span class="topo-unknown">AMA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRGSH</span><span class="topo-inside">M</span><span class="topo-unknown">YLRITNIV</span><span class="topo-inside">ESSFFT</span><span class="topo-membrane">KFIIYLIVLNGITMGLET</span><span class="topo-outside">SKTFMQSFGVY</span><span class="topo-membrane">TTLFNQIVITIFTIEIILRI</span><span class="topo-inside">YVHRISFFKDP</span><span class="topo-membrane">WSLFDFFVVAISLVPT</span><span class="topo-outside">SSGFEI</span><span class="topo-membrane">LRVLR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">VLRLFRLVTAV</span><span class="topo-unknown">PQMRKIVSALI</span><span class="topo-inside">SVIPGM</span><span class="topo-membrane">LSVIALMTLFFYIFAIMAT</span><span class="topo-outside">QLFGERFPEWFGTL</span><span class="topo-unknown">GESFYTLFQVMTLESWSMGIVRPLMEV</span><span class="topo-outside">YPY</span><span class="topo-membrane">AWVFFIPFIFVVTFVMINLV</span><span class="topo-inside">VAIIVD</span><span class="topo-unknown">AMA</span></span>
+<span class="topo-ruler">       250       260       270       280     </span>
 <span class="topo-line"><span class="topo-unknown">ILNQKEEQHIIDEVQSHEDNINNEIIKLREEIVELKELIKTSLKN</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -628,6 +636,7 @@ gating pore currents in the voltage sensor domain.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -643,11 +652,13 @@ gating pore currents in the voltage sensor domain.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRGSH</span><span class="topo-inside">MYL</span><span class="topo-unknown">RITNIV</span><span class="topo-inside">ESSFFTKF</span><span class="topo-membrane">IIYLIVLNGITMGLETS</span><span class="topo-outside">KTFMQSF</span><span class="topo-membrane">G</span></span>
-<span class="topo-line"><span class="topo-membrane">VYTTLFNQIVITIFTIEII</span><span class="topo-inside">LRIYVHRISFFKDPWSL</span><span class="topo-membrane">FDFFVVAISLVPTSSG</span><span class="topo-outside">F</span><span class="topo-membrane">EILRVLR</span></span>
-<span class="topo-line"><span class="topo-membrane">VLRLFRLVT</span><span class="topo-inside">AV</span><span class="topo-unknown">PQMRKIVSALI</span><span class="topo-inside">SVIPGMLSV</span><span class="topo-membrane">IALMTLFFYIFAIMATQL</span><span class="topo-outside">FGERFPEWFGT</span></span>
-<span class="topo-line"><span class="topo-unknown">LGESFYTLFQVMTLESWS</span><span class="topo-outside">MGIVRPLMEVYPY</span><span class="topo-membrane">AWVFFIPFIFVVTFVMINLV</span><span class="topo-inside">VAIIVD</span><span class="topo-unknown">AMA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRGSH</span><span class="topo-inside">MYL</span><span class="topo-unknown">RITNIV</span><span class="topo-inside">ESSFFTKF</span><span class="topo-membrane">IIYLIVLNGITMGLETS</span><span class="topo-outside">KTFMQSF</span><span class="topo-membrane">GVYTTLFNQIVITIFTIEII</span><span class="topo-inside">LRIYVHRISFFKDPWSL</span><span class="topo-membrane">FDFFVVAISLVPTSSG</span><span class="topo-outside">F</span><span class="topo-membrane">EILRVLR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">VLRLFRLVT</span><span class="topo-inside">AV</span><span class="topo-unknown">PQMRKIVSALI</span><span class="topo-inside">SVIPGMLSV</span><span class="topo-membrane">IALMTLFFYIFAIMATQL</span><span class="topo-outside">FGERFPEWFGT</span><span class="topo-unknown">LGESFYTLFQVMTLESWS</span><span class="topo-outside">MGIVRPLMEVYPY</span><span class="topo-membrane">AWVFFIPFIFVVTFVMINLV</span><span class="topo-inside">VAIIVD</span><span class="topo-unknown">AMA</span></span>
+<span class="topo-ruler">       250       260       270       280     </span>
 <span class="topo-line"><span class="topo-unknown">ILNQKEEQHIIDEVQSHEDNINNEIIKLREEIVELKELIKTSLKN</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -806,6 +817,7 @@ gating pore currents in the voltage sensor domain.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -930,11 +942,13 @@ gating pore currents in the voltage sensor domain.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRGS</span><span class="topo-outside">HMYLRITNIVESSFF</span><span class="topo-membrane">TKFIIYLIVLNGITMGLET</span><span class="topo-inside">SKTFMQSFG</span></span>
-<span class="topo-line"><span class="topo-inside">V</span><span class="topo-membrane">YTTLFNQIVITIFTIEIILRI</span><span class="topo-outside">YVHRISFFKDP</span><span class="topo-membrane">WSLFDFFVVAISLVPT</span><span class="topo-unknown">SSGF</span><span class="topo-inside">E</span><span class="topo-membrane">ILRVLR</span></span>
-<span class="topo-line"><span class="topo-membrane">VLRLFRLVTAV</span><span class="topo-outside">PQMRKIVSALISVIPGM</span><span class="topo-membrane">LSVIALMTLFFYIFAIMATQ</span><span class="topo-inside">LFGERFPEWFGT</span></span>
-<span class="topo-line"><span class="topo-inside">L</span><span class="topo-unknown">GESFYTLFQVMTLESWS</span><span class="topo-inside">MGIVRPLMEVYPY</span><span class="topo-membrane">AWVFFIPFIFVVFFVMINLY</span><span class="topo-outside">VAIIVDAMA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRGS</span><span class="topo-outside">HMYLRITNIVESSFF</span><span class="topo-membrane">TKFIIYLIVLNGITMGLET</span><span class="topo-inside">SKTFMQSFGV</span><span class="topo-membrane">YTTLFNQIVITIFTIEIILRI</span><span class="topo-outside">YVHRISFFKDP</span><span class="topo-membrane">WSLFDFFVVAISLVPT</span><span class="topo-unknown">SSGF</span><span class="topo-inside">E</span><span class="topo-membrane">ILRVLR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">VLRLFRLVTAV</span><span class="topo-outside">PQMRKIVSALISVIPGM</span><span class="topo-membrane">LSVIALMTLFFYIFAIMATQ</span><span class="topo-inside">LFGERFPEWFGTL</span><span class="topo-unknown">GESFYTLFQVMTLESWS</span><span class="topo-inside">MGIVRPLMEVYPY</span><span class="topo-membrane">AWVFFIPFIFVVFFVMINLY</span><span class="topo-outside">VAIIVDAMA</span></span>
+<span class="topo-ruler">       250       260       270       280     </span>
 <span class="topo-line"><span class="topo-outside">ILNQKEEQHIIDEVQSHEDNINNEIIKLREEIVELKELIKTSL</span><span class="topo-unknown">KN</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1072,6 +1086,7 @@ gating pore currents in the voltage sensor domain.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1087,11 +1102,13 @@ gating pore currents in the voltage sensor domain.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRGSH</span><span class="topo-outside">MYLRITNIVESSFFT</span><span class="topo-membrane">KFIIYLIVLNGITMGLET</span><span class="topo-inside">SKTFMQSFG</span></span>
-<span class="topo-line"><span class="topo-inside">V</span><span class="topo-membrane">YTTLFNQIVITIFTIEIILRI</span><span class="topo-outside">YVHRISFFKDP</span><span class="topo-membrane">WSLFDFFVVAISLVPT</span><span class="topo-inside">SS</span><span class="topo-unknown">G</span><span class="topo-inside">F</span><span class="topo-membrane">EILRVLR</span></span>
-<span class="topo-line"><span class="topo-membrane">VLRLFRLVTAV</span><span class="topo-outside">PQMRKIVSALISVIPGM</span><span class="topo-membrane">LSVIALMTLFFYIFAIMATQ</span><span class="topo-inside">LFGERFPEWFGT</span></span>
-<span class="topo-line"><span class="topo-inside">L</span><span class="topo-unknown">GESFYTLFQVMTLESWS</span><span class="topo-inside">MGIVRPLMEVYPY</span><span class="topo-membrane">AWVFFIPFIFVVFFVMINLY</span><span class="topo-outside">VAIIVDAMA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRGSH</span><span class="topo-outside">MYLRITNIVESSFFT</span><span class="topo-membrane">KFIIYLIVLNGITMGLET</span><span class="topo-inside">SKTFMQSFGV</span><span class="topo-membrane">YTTLFNQIVITIFTIEIILRI</span><span class="topo-outside">YVHRISFFKDP</span><span class="topo-membrane">WSLFDFFVVAISLVPT</span><span class="topo-inside">SS</span><span class="topo-unknown">G</span><span class="topo-inside">F</span><span class="topo-membrane">EILRVLR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">VLRLFRLVTAV</span><span class="topo-outside">PQMRKIVSALISVIPGM</span><span class="topo-membrane">LSVIALMTLFFYIFAIMATQ</span><span class="topo-inside">LFGERFPEWFGTL</span><span class="topo-unknown">GESFYTLFQVMTLESWS</span><span class="topo-inside">MGIVRPLMEVYPY</span><span class="topo-membrane">AWVFFIPFIFVVFFVMINLY</span><span class="topo-outside">VAIIVDAMA</span></span>
+<span class="topo-ruler">       250       260       270       280     </span>
 <span class="topo-line"><span class="topo-outside">ILNQKEEQHIIDEVQSHEDNINNEIIKLREEIVELKEL</span><span class="topo-unknown">IKTSLKN</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1236,6 +1253,7 @@ gating pore currents in the voltage sensor domain.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1251,11 +1269,13 @@ gating pore currents in the voltage sensor domain.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRGSHM</span><span class="topo-outside">YLRITNIVESSFF</span><span class="topo-membrane">TKFIIYLIVLNGITMGLET</span><span class="topo-inside">SKTFMQSFG</span></span>
-<span class="topo-line"><span class="topo-inside">V</span><span class="topo-membrane">YTTLFNQIVITIFTIEIILRI</span><span class="topo-outside">YVHRISFFKDP</span><span class="topo-membrane">WSLFDFFVVAISLVPTS</span><span class="topo-unknown">SG</span><span class="topo-inside">FE</span><span class="topo-membrane">ILRVLR</span></span>
-<span class="topo-line"><span class="topo-membrane">VLRLFRLVTAV</span><span class="topo-outside">PQMRKIVSALISVIPGM</span><span class="topo-membrane">LSVIALMTLFFYIFAIMATQL</span><span class="topo-inside">FGERFPEWFGT</span></span>
-<span class="topo-line"><span class="topo-inside">L</span><span class="topo-unknown">GESFYTLFQVMTLESWS</span><span class="topo-inside">MGIVRPLMEVYPY</span><span class="topo-membrane">AWVFFIPFIFVVFFVMINLY</span><span class="topo-outside">VAIIVDAMA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRGSHM</span><span class="topo-outside">YLRITNIVESSFF</span><span class="topo-membrane">TKFIIYLIVLNGITMGLET</span><span class="topo-inside">SKTFMQSFGV</span><span class="topo-membrane">YTTLFNQIVITIFTIEIILRI</span><span class="topo-outside">YVHRISFFKDP</span><span class="topo-membrane">WSLFDFFVVAISLVPTS</span><span class="topo-unknown">SG</span><span class="topo-inside">FE</span><span class="topo-membrane">ILRVLR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">VLRLFRLVTAV</span><span class="topo-outside">PQMRKIVSALISVIPGM</span><span class="topo-membrane">LSVIALMTLFFYIFAIMATQL</span><span class="topo-inside">FGERFPEWFGTL</span><span class="topo-unknown">GESFYTLFQVMTLESWS</span><span class="topo-inside">MGIVRPLMEVYPY</span><span class="topo-membrane">AWVFFIPFIFVVFFVMINLY</span><span class="topo-outside">VAIIVDAMA</span></span>
+<span class="topo-ruler">       250       260       270       280     </span>
 <span class="topo-line"><span class="topo-outside">ILNQKEEQHIIDEVQSHEDNINNEIIKLREEIVELKELIKTS</span><span class="topo-unknown">LKN</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1393,6 +1413,7 @@ gating pore currents in the voltage sensor domain.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1408,11 +1429,13 @@ gating pore currents in the voltage sensor domain.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSL</span><span class="topo-outside">VPRGSHMYLRITNIVESSFF</span><span class="topo-membrane">TKFIIYLIVLNGITMGLET</span><span class="topo-inside">SKTFMQSFG</span></span>
-<span class="topo-line"><span class="topo-inside">VY</span><span class="topo-membrane">TTLFNQIVITIFTIEIILRI</span><span class="topo-outside">YVHRISFFKDP</span><span class="topo-membrane">WSLFDFFVVAISLVPT</span><span class="topo-inside">SSGF</span><span class="topo-membrane">EILRVLR</span></span>
-<span class="topo-line"><span class="topo-membrane">VLRLFRLVTAV</span><span class="topo-outside">PQMRKIVSALISVIPGM</span><span class="topo-membrane">LSVIALMTLFFYIFAIMATQL</span><span class="topo-inside">FGERFPEWFGT</span></span>
-<span class="topo-line"><span class="topo-inside">L</span><span class="topo-unknown">GESFYTLFQVMTLESWS</span><span class="topo-inside">MGIVRPLMEVYPY</span><span class="topo-membrane">AWVFFIPFIFVVFFVMINLY</span><span class="topo-outside">VAIIVDAMA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSL</span><span class="topo-outside">VPRGSHMYLRITNIVESSFF</span><span class="topo-membrane">TKFIIYLIVLNGITMGLET</span><span class="topo-inside">SKTFMQSFGVY</span><span class="topo-membrane">TTLFNQIVITIFTIEIILRI</span><span class="topo-outside">YVHRISFFKDP</span><span class="topo-membrane">WSLFDFFVVAISLVPT</span><span class="topo-inside">SSGF</span><span class="topo-membrane">EILRVLR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">VLRLFRLVTAV</span><span class="topo-outside">PQMRKIVSALISVIPGM</span><span class="topo-membrane">LSVIALMTLFFYIFAIMATQL</span><span class="topo-inside">FGERFPEWFGTL</span><span class="topo-unknown">GESFYTLFQVMTLESWS</span><span class="topo-inside">MGIVRPLMEVYPY</span><span class="topo-membrane">AWVFFIPFIFVVFFVMINLY</span><span class="topo-outside">VAIIVDAMA</span></span>
+<span class="topo-ruler">       250       260       270       280     </span>
 <span class="topo-line"><span class="topo-outside">ILNQKEEQHIIDEVQSHEDNINNEIIKLREEIVELKELIK</span><span class="topo-unknown">TSLKN</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1543,6 +1566,7 @@ gating pore currents in the voltage sensor domain.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1558,11 +1582,13 @@ gating pore currents in the voltage sensor domain.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRGS</span><span class="topo-outside">HMYLRITNIVESSFF</span><span class="topo-membrane">TKFIIYLIVLNGITMGLET</span><span class="topo-inside">SKTFMQSFG</span></span>
-<span class="topo-line"><span class="topo-inside">V</span><span class="topo-membrane">YTTLFNQIVITIFTIEIILRI</span><span class="topo-outside">YVHRISFFKDP</span><span class="topo-membrane">WSLFDFFVVAISLVPT</span><span class="topo-unknown">SSGF</span><span class="topo-inside">E</span><span class="topo-membrane">ILRVLR</span></span>
-<span class="topo-line"><span class="topo-membrane">VLRLFRLVTAV</span><span class="topo-outside">PQMRKIVSALISVIPGM</span><span class="topo-membrane">LSVIALMTLFFYIFAIMATQ</span><span class="topo-inside">LFGERFPEWFGT</span></span>
-<span class="topo-line"><span class="topo-inside">L</span><span class="topo-unknown">GESFYTLFQVMTLESWS</span><span class="topo-inside">MGIVRPLMEVYPY</span><span class="topo-membrane">AWVFFIPFIFVVFFVMINLY</span><span class="topo-outside">VAIIVDAMA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRGS</span><span class="topo-outside">HMYLRITNIVESSFF</span><span class="topo-membrane">TKFIIYLIVLNGITMGLET</span><span class="topo-inside">SKTFMQSFGV</span><span class="topo-membrane">YTTLFNQIVITIFTIEIILRI</span><span class="topo-outside">YVHRISFFKDP</span><span class="topo-membrane">WSLFDFFVVAISLVPT</span><span class="topo-unknown">SSGF</span><span class="topo-inside">E</span><span class="topo-membrane">ILRVLR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">VLRLFRLVTAV</span><span class="topo-outside">PQMRKIVSALISVIPGM</span><span class="topo-membrane">LSVIALMTLFFYIFAIMATQ</span><span class="topo-inside">LFGERFPEWFGTL</span><span class="topo-unknown">GESFYTLFQVMTLESWS</span><span class="topo-inside">MGIVRPLMEVYPY</span><span class="topo-membrane">AWVFFIPFIFVVFFVMINLY</span><span class="topo-outside">VAIIVDAMA</span></span>
+<span class="topo-ruler">       250       260       270       280     </span>
 <span class="topo-line"><span class="topo-outside">ILNQKEEQHIIDEVQSHEDNINNEIIKLREEIVELKELIKTSL</span><span class="topo-unknown">KN</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1700,6 +1726,7 @@ gating pore currents in the voltage sensor domain.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1715,11 +1742,13 @@ gating pore currents in the voltage sensor domain.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRGSH</span><span class="topo-outside">MYLRITNIVESSFFT</span><span class="topo-membrane">KFIIYLIVLNGITMGLET</span><span class="topo-inside">SKTFMQSFG</span></span>
-<span class="topo-line"><span class="topo-inside">V</span><span class="topo-membrane">YTTLFNQIVITIFTIEIILRI</span><span class="topo-outside">YVHRISFFKDP</span><span class="topo-membrane">WSLFDFFVVAISLVPT</span><span class="topo-inside">SS</span><span class="topo-unknown">G</span><span class="topo-inside">F</span><span class="topo-membrane">EILRVLR</span></span>
-<span class="topo-line"><span class="topo-membrane">VLRLFRLVTAV</span><span class="topo-outside">PQMRKIVSALISVIPGM</span><span class="topo-membrane">LSVIALMTLFFYIFAIMATQ</span><span class="topo-inside">LFGERFPEWFGT</span></span>
-<span class="topo-line"><span class="topo-inside">L</span><span class="topo-unknown">GESFYTLFQVMTLESWS</span><span class="topo-inside">MGIVRPLMEVYPY</span><span class="topo-membrane">AWVFFIPFIFVVFFVMINLY</span><span class="topo-outside">VAIIVDAMA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRGSH</span><span class="topo-outside">MYLRITNIVESSFFT</span><span class="topo-membrane">KFIIYLIVLNGITMGLET</span><span class="topo-inside">SKTFMQSFGV</span><span class="topo-membrane">YTTLFNQIVITIFTIEIILRI</span><span class="topo-outside">YVHRISFFKDP</span><span class="topo-membrane">WSLFDFFVVAISLVPT</span><span class="topo-inside">SS</span><span class="topo-unknown">G</span><span class="topo-inside">F</span><span class="topo-membrane">EILRVLR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">VLRLFRLVTAV</span><span class="topo-outside">PQMRKIVSALISVIPGM</span><span class="topo-membrane">LSVIALMTLFFYIFAIMATQ</span><span class="topo-inside">LFGERFPEWFGTL</span><span class="topo-unknown">GESFYTLFQVMTLESWS</span><span class="topo-inside">MGIVRPLMEVYPY</span><span class="topo-membrane">AWVFFIPFIFVVFFVMINLY</span><span class="topo-outside">VAIIVDAMA</span></span>
+<span class="topo-ruler">       250       260       270       280     </span>
 <span class="topo-line"><span class="topo-outside">ILNQKEEQHIIDEVQSHEDNINNEIIKLREEIVELKEL</span><span class="topo-unknown">IKTSLKN</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1864,6 +1893,7 @@ gating pore currents in the voltage sensor domain.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1879,11 +1909,13 @@ gating pore currents in the voltage sensor domain.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRGSHM</span><span class="topo-outside">YLRITNIVESSFF</span><span class="topo-membrane">TKFIIYLIVLNGITMGLET</span><span class="topo-inside">SKTFMQSFG</span></span>
-<span class="topo-line"><span class="topo-inside">V</span><span class="topo-membrane">YTTLFNQIVITIFTIEIILRI</span><span class="topo-outside">YVHRISFFKDP</span><span class="topo-membrane">WSLFDFFVVAISLVPTS</span><span class="topo-unknown">SG</span><span class="topo-inside">FE</span><span class="topo-membrane">ILRVLR</span></span>
-<span class="topo-line"><span class="topo-membrane">VLRLFRLVTAV</span><span class="topo-outside">PQMRKIVSALISVIPGM</span><span class="topo-membrane">LSVIALMTLFFYIFAIMATQL</span><span class="topo-inside">FGERFPEWFGT</span></span>
-<span class="topo-line"><span class="topo-inside">L</span><span class="topo-unknown">GESFYTLFQVMTLESWS</span><span class="topo-inside">MGIVRPLMEVYPY</span><span class="topo-membrane">AWVFFIPFIFVVFFVMINLY</span><span class="topo-outside">VAIIVDAMA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRGSHM</span><span class="topo-outside">YLRITNIVESSFF</span><span class="topo-membrane">TKFIIYLIVLNGITMGLET</span><span class="topo-inside">SKTFMQSFGV</span><span class="topo-membrane">YTTLFNQIVITIFTIEIILRI</span><span class="topo-outside">YVHRISFFKDP</span><span class="topo-membrane">WSLFDFFVVAISLVPTS</span><span class="topo-unknown">SG</span><span class="topo-inside">FE</span><span class="topo-membrane">ILRVLR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">VLRLFRLVTAV</span><span class="topo-outside">PQMRKIVSALISVIPGM</span><span class="topo-membrane">LSVIALMTLFFYIFAIMATQL</span><span class="topo-inside">FGERFPEWFGTL</span><span class="topo-unknown">GESFYTLFQVMTLESWS</span><span class="topo-inside">MGIVRPLMEVYPY</span><span class="topo-membrane">AWVFFIPFIFVVFFVMINLY</span><span class="topo-outside">VAIIVDAMA</span></span>
+<span class="topo-ruler">       250       260       270       280     </span>
 <span class="topo-line"><span class="topo-outside">ILNQKEEQHIIDEVQSHEDNINNEIIKLREEIVELKELIKTS</span><span class="topo-unknown">LKN</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2021,6 +2053,7 @@ gating pore currents in the voltage sensor domain.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2036,11 +2069,13 @@ gating pore currents in the voltage sensor domain.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSL</span><span class="topo-outside">VPRGSHMYLRITNIVESSFF</span><span class="topo-membrane">TKFIIYLIVLNGITMGLET</span><span class="topo-inside">SKTFMQSFG</span></span>
-<span class="topo-line"><span class="topo-inside">VY</span><span class="topo-membrane">TTLFNQIVITIFTIEIILRI</span><span class="topo-outside">YVHRISFFKDP</span><span class="topo-membrane">WSLFDFFVVAISLVPT</span><span class="topo-inside">SSGF</span><span class="topo-membrane">EILRVLR</span></span>
-<span class="topo-line"><span class="topo-membrane">VLRLFRLVTAV</span><span class="topo-outside">PQMRKIVSALISVIPGM</span><span class="topo-membrane">LSVIALMTLFFYIFAIMATQL</span><span class="topo-inside">FGERFPEWFGT</span></span>
-<span class="topo-line"><span class="topo-inside">L</span><span class="topo-unknown">GESFYTLFQVMTLESWS</span><span class="topo-inside">MGIVRPLMEVYPY</span><span class="topo-membrane">AWVFFIPFIFVVFFVMINLY</span><span class="topo-outside">VAIIVDAMA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSL</span><span class="topo-outside">VPRGSHMYLRITNIVESSFF</span><span class="topo-membrane">TKFIIYLIVLNGITMGLET</span><span class="topo-inside">SKTFMQSFGVY</span><span class="topo-membrane">TTLFNQIVITIFTIEIILRI</span><span class="topo-outside">YVHRISFFKDP</span><span class="topo-membrane">WSLFDFFVVAISLVPT</span><span class="topo-inside">SSGF</span><span class="topo-membrane">EILRVLR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">VLRLFRLVTAV</span><span class="topo-outside">PQMRKIVSALISVIPGM</span><span class="topo-membrane">LSVIALMTLFFYIFAIMATQL</span><span class="topo-inside">FGERFPEWFGTL</span><span class="topo-unknown">GESFYTLFQVMTLESWS</span><span class="topo-inside">MGIVRPLMEVYPY</span><span class="topo-membrane">AWVFFIPFIFVVFFVMINLY</span><span class="topo-outside">VAIIVDAMA</span></span>
+<span class="topo-ruler">       250       260       270       280     </span>
 <span class="topo-line"><span class="topo-outside">ILNQKEEQHIIDEVQSHEDNINNEIIKLREEIVELKELIK</span><span class="topo-unknown">TSLKN</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2171,6 +2206,7 @@ gating pore currents in the voltage sensor domain.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2226,11 +2262,13 @@ gating pore currents in the voltage sensor domain.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRGSH</span><span class="topo-outside">MYLRITNIVESSF</span><span class="topo-membrane">FTKFIIYLIVLNGITMGL</span><span class="topo-inside">ETSKTFMQSFG</span></span>
-<span class="topo-line"><span class="topo-inside">VY</span><span class="topo-membrane">TTLFNQIVITIFTIEIILRI</span><span class="topo-outside">YVHRISFFKD</span><span class="topo-membrane">PWSLFDFFVVAISLVPT</span><span class="topo-inside">SSGFE</span><span class="topo-membrane">ILRVLR</span></span>
-<span class="topo-line"><span class="topo-membrane">VLRLFRLVTAV</span><span class="topo-outside">PQMRKIVSALISVIPG</span><span class="topo-membrane">MLSVIALMTLFFYIFAIMAT</span><span class="topo-inside">QLFGERFPEWFGT</span></span>
-<span class="topo-line"><span class="topo-inside">LGE</span><span class="topo-unknown">SFYTLFQVMTLESWS</span><span class="topo-inside">MGIVRPLMEVYP</span><span class="topo-membrane">YAWVFFIPFIAVVTFVMINLV</span><span class="topo-outside">VAICVDAMA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRGSH</span><span class="topo-outside">MYLRITNIVESSF</span><span class="topo-membrane">FTKFIIYLIVLNGITMGL</span><span class="topo-inside">ETSKTFMQSFGVY</span><span class="topo-membrane">TTLFNQIVITIFTIEIILRI</span><span class="topo-outside">YVHRISFFKD</span><span class="topo-membrane">PWSLFDFFVVAISLVPT</span><span class="topo-inside">SSGFE</span><span class="topo-membrane">ILRVLR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">VLRLFRLVTAV</span><span class="topo-outside">PQMRKIVSALISVIPG</span><span class="topo-membrane">MLSVIALMTLFFYIFAIMAT</span><span class="topo-inside">QLFGERFPEWFGTLGE</span><span class="topo-unknown">SFYTLFQVMTLESWS</span><span class="topo-inside">MGIVRPLMEVYP</span><span class="topo-membrane">YAWVFFIPFIAVVTFVMINLV</span><span class="topo-outside">VAICVDAMA</span></span>
+<span class="topo-ruler">       250       260       270       280     </span>
 <span class="topo-line"><span class="topo-unknown">ILNQKEEQHIIDEVQSHEDNINNEIIKLREEIVELKELIKTSLKN</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2361,6 +2399,7 @@ gating pore currents in the voltage sensor domain.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2376,11 +2415,13 @@ gating pore currents in the voltage sensor domain.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRGSHM</span><span class="topo-outside">YLRITNIVESSFFT</span><span class="topo-membrane">KFIIYLIVLNGITMGLE</span><span class="topo-inside">TSKTFMQSFG</span></span>
-<span class="topo-line"><span class="topo-inside">V</span><span class="topo-membrane">YTTLFNQIVITIFTIEIILRI</span><span class="topo-outside">YVHRISFFKD</span><span class="topo-membrane">PWSLFDFFVVAISLVP</span><span class="topo-inside">TSSGFE</span><span class="topo-membrane">ILRVLR</span></span>
-<span class="topo-line"><span class="topo-membrane">VLRLFRLVTAV</span><span class="topo-outside">PQMRKIVSALISVIPG</span><span class="topo-membrane">MLSVIALMTLFFYIFAIMA</span><span class="topo-inside">TQLFGERFPEWFGT</span></span>
-<span class="topo-line"><span class="topo-inside">LGE</span><span class="topo-unknown">SFYTLFQVMTLESWS</span><span class="topo-inside">MGIVRPLMEVYPYA</span><span class="topo-membrane">WVFFIPFIAVVTFVMINLV</span><span class="topo-outside">VAICVDAMA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRGSHM</span><span class="topo-outside">YLRITNIVESSFFT</span><span class="topo-membrane">KFIIYLIVLNGITMGLE</span><span class="topo-inside">TSKTFMQSFGV</span><span class="topo-membrane">YTTLFNQIVITIFTIEIILRI</span><span class="topo-outside">YVHRISFFKD</span><span class="topo-membrane">PWSLFDFFVVAISLVP</span><span class="topo-inside">TSSGFE</span><span class="topo-membrane">ILRVLR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">VLRLFRLVTAV</span><span class="topo-outside">PQMRKIVSALISVIPG</span><span class="topo-membrane">MLSVIALMTLFFYIFAIMA</span><span class="topo-inside">TQLFGERFPEWFGTLGE</span><span class="topo-unknown">SFYTLFQVMTLESWS</span><span class="topo-inside">MGIVRPLMEVYPYA</span><span class="topo-membrane">WVFFIPFIAVVTFVMINLV</span><span class="topo-outside">VAICVDAMA</span></span>
+<span class="topo-ruler">       250       260       270       280     </span>
 <span class="topo-line"><span class="topo-outside">ILNQKEE</span><span class="topo-unknown">QHIIDEVQSHEDNINNEIIKLREEIVELKELIKTSLKN</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2511,6 +2552,7 @@ gating pore currents in the voltage sensor domain.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2526,11 +2568,13 @@ gating pore currents in the voltage sensor domain.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRGSHM</span><span class="topo-outside">YLRITNIVESSFFTK</span><span class="topo-membrane">FIIYLIVLNGITMGLET</span><span class="topo-inside">SKTFMQSFG</span></span>
-<span class="topo-line"><span class="topo-membrane">VYTTLFNQIVITIFTIEII</span><span class="topo-outside">LRIYVHRISFFKDP</span><span class="topo-membrane">WSLFDFFVVAISLVPT</span><span class="topo-inside">SS</span><span class="topo-membrane">GFEILRVLR</span></span>
-<span class="topo-line"><span class="topo-membrane">VLRLFRLVT</span><span class="topo-outside">AVPQMRKIVSALISVIPG</span><span class="topo-membrane">MLSVIALMTLFFYIFAIMA</span><span class="topo-inside">TQLFGERFPEWFGT</span></span>
-<span class="topo-line"><span class="topo-inside">LGE</span><span class="topo-unknown">SFYTLFQVMTLESWS</span><span class="topo-inside">MGIVRPLMEVYPYA</span><span class="topo-membrane">WVFFIPFIAVVTFVMINLV</span><span class="topo-outside">VAICV</span><span class="topo-unknown">DAMA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRGSHM</span><span class="topo-outside">YLRITNIVESSFFTK</span><span class="topo-membrane">FIIYLIVLNGITMGLET</span><span class="topo-inside">SKTFMQSFG</span><span class="topo-membrane">VYTTLFNQIVITIFTIEII</span><span class="topo-outside">LRIYVHRISFFKDP</span><span class="topo-membrane">WSLFDFFVVAISLVPT</span><span class="topo-inside">SS</span><span class="topo-membrane">GFEILRVLR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">VLRLFRLVT</span><span class="topo-outside">AVPQMRKIVSALISVIPG</span><span class="topo-membrane">MLSVIALMTLFFYIFAIMA</span><span class="topo-inside">TQLFGERFPEWFGTLGE</span><span class="topo-unknown">SFYTLFQVMTLESWS</span><span class="topo-inside">MGIVRPLMEVYPYA</span><span class="topo-membrane">WVFFIPFIAVVTFVMINLV</span><span class="topo-outside">VAICV</span><span class="topo-unknown">DAMA</span></span>
+<span class="topo-ruler">       250       260       270       280     </span>
 <span class="topo-line"><span class="topo-unknown">ILNQKEEQHIIDEVQSHEDNINNEIIKLREEIVELKELIKTSLKN</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2661,6 +2705,7 @@ gating pore currents in the voltage sensor domain.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2676,11 +2721,13 @@ gating pore currents in the voltage sensor domain.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRGSH</span><span class="topo-outside">MYLRITNIVESSFFTK</span><span class="topo-membrane">FIIYLIVLNGITMGLET</span><span class="topo-inside">SKTFMQSFG</span></span>
-<span class="topo-line"><span class="topo-inside">V</span><span class="topo-membrane">YTTLFNQIVITIFTIEII</span><span class="topo-outside">LRIYVHRISFFKDPW</span><span class="topo-membrane">SLFDFFVVAISLVPT</span><span class="topo-inside">SSGFE</span><span class="topo-membrane">ILRVLR</span></span>
-<span class="topo-line"><span class="topo-membrane">VLRLFRLVTA</span><span class="topo-outside">VPQMRKIVSALISVIPGMLS</span><span class="topo-membrane">VIALMTLFFYIFAIMAT</span><span class="topo-inside">QLFGERFPEWFGT</span></span>
-<span class="topo-line"><span class="topo-unknown">LGESFYTLFQVMTLESWS</span><span class="topo-inside">MGIVRPLMEVYP</span><span class="topo-membrane">YAWVFFIPFIAVVTFVMINLV</span><span class="topo-outside">VAICVDAMA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRGSH</span><span class="topo-outside">MYLRITNIVESSFFTK</span><span class="topo-membrane">FIIYLIVLNGITMGLET</span><span class="topo-inside">SKTFMQSFGV</span><span class="topo-membrane">YTTLFNQIVITIFTIEII</span><span class="topo-outside">LRIYVHRISFFKDPW</span><span class="topo-membrane">SLFDFFVVAISLVPT</span><span class="topo-inside">SSGFE</span><span class="topo-membrane">ILRVLR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">VLRLFRLVTA</span><span class="topo-outside">VPQMRKIVSALISVIPGMLS</span><span class="topo-membrane">VIALMTLFFYIFAIMAT</span><span class="topo-inside">QLFGERFPEWFGT</span><span class="topo-unknown">LGESFYTLFQVMTLESWS</span><span class="topo-inside">MGIVRPLMEVYP</span><span class="topo-membrane">YAWVFFIPFIAVVTFVMINLV</span><span class="topo-outside">VAICVDAMA</span></span>
+<span class="topo-ruler">       250       260       270       280     </span>
 <span class="topo-line"><span class="topo-unknown">ILNQKEEQHIIDEVQSHEDNINNEIIKLREEIVELKELIKTSLKN</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2811,6 +2858,7 @@ gating pore currents in the voltage sensor domain.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2826,11 +2874,13 @@ gating pore currents in the voltage sensor domain.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRGSH</span><span class="topo-outside">MYLRITNIVESSF</span><span class="topo-membrane">FTKFIIYLIVLNGITMGL</span><span class="topo-inside">ETSKTFMQSFG</span></span>
-<span class="topo-line"><span class="topo-inside">VY</span><span class="topo-membrane">TTLFNQIVITIFTIEIILRI</span><span class="topo-outside">YVHRISFFKD</span><span class="topo-membrane">PWSLFDFFVVAISLVPT</span><span class="topo-inside">SSGFE</span><span class="topo-membrane">ILRVLR</span></span>
-<span class="topo-line"><span class="topo-membrane">VLRLFRLVTAV</span><span class="topo-outside">PQMRKIVSALISVIPG</span><span class="topo-membrane">MLSVIALMTLFFYIFAIMAT</span><span class="topo-inside">QLFGERFPEWFGT</span></span>
-<span class="topo-line"><span class="topo-inside">LGE</span><span class="topo-unknown">SFYTLFQVMTLESWS</span><span class="topo-inside">MGIVRPLMEVYP</span><span class="topo-membrane">YAWVFFIPFIAVVTFVMINLV</span><span class="topo-outside">VAICVDAMA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRGSH</span><span class="topo-outside">MYLRITNIVESSF</span><span class="topo-membrane">FTKFIIYLIVLNGITMGL</span><span class="topo-inside">ETSKTFMQSFGVY</span><span class="topo-membrane">TTLFNQIVITIFTIEIILRI</span><span class="topo-outside">YVHRISFFKD</span><span class="topo-membrane">PWSLFDFFVVAISLVPT</span><span class="topo-inside">SSGFE</span><span class="topo-membrane">ILRVLR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">VLRLFRLVTAV</span><span class="topo-outside">PQMRKIVSALISVIPG</span><span class="topo-membrane">MLSVIALMTLFFYIFAIMAT</span><span class="topo-inside">QLFGERFPEWFGTLGE</span><span class="topo-unknown">SFYTLFQVMTLESWS</span><span class="topo-inside">MGIVRPLMEVYP</span><span class="topo-membrane">YAWVFFIPFIAVVTFVMINLV</span><span class="topo-outside">VAICVDAMA</span></span>
+<span class="topo-ruler">       250       260       270       280     </span>
 <span class="topo-line"><span class="topo-unknown">ILNQKEEQHIIDEVQSHEDNINNEIIKLREEIVELKELIKTSLKN</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2961,6 +3011,7 @@ gating pore currents in the voltage sensor domain.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2976,11 +3027,13 @@ gating pore currents in the voltage sensor domain.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRGSHM</span><span class="topo-outside">YLRITNIVESSFFT</span><span class="topo-membrane">KFIIYLIVLNGITMGLE</span><span class="topo-inside">TSKTFMQSFG</span></span>
-<span class="topo-line"><span class="topo-inside">V</span><span class="topo-membrane">YTTLFNQIVITIFTIEIILRI</span><span class="topo-outside">YVHRISFFKD</span><span class="topo-membrane">PWSLFDFFVVAISLVP</span><span class="topo-inside">TSSGFE</span><span class="topo-membrane">ILRVLR</span></span>
-<span class="topo-line"><span class="topo-membrane">VLRLFRLVTAV</span><span class="topo-outside">PQMRKIVSALISVIPG</span><span class="topo-membrane">MLSVIALMTLFFYIFAIMA</span><span class="topo-inside">TQLFGERFPEWFGT</span></span>
-<span class="topo-line"><span class="topo-inside">LGE</span><span class="topo-unknown">SFYTLFQVMTLESWS</span><span class="topo-inside">MGIVRPLMEVYPYA</span><span class="topo-membrane">WVFFIPFIAVVTFVMINLV</span><span class="topo-outside">VAICVDAMA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRGSHM</span><span class="topo-outside">YLRITNIVESSFFT</span><span class="topo-membrane">KFIIYLIVLNGITMGLE</span><span class="topo-inside">TSKTFMQSFGV</span><span class="topo-membrane">YTTLFNQIVITIFTIEIILRI</span><span class="topo-outside">YVHRISFFKD</span><span class="topo-membrane">PWSLFDFFVVAISLVP</span><span class="topo-inside">TSSGFE</span><span class="topo-membrane">ILRVLR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">VLRLFRLVTAV</span><span class="topo-outside">PQMRKIVSALISVIPG</span><span class="topo-membrane">MLSVIALMTLFFYIFAIMA</span><span class="topo-inside">TQLFGERFPEWFGTLGE</span><span class="topo-unknown">SFYTLFQVMTLESWS</span><span class="topo-inside">MGIVRPLMEVYPYA</span><span class="topo-membrane">WVFFIPFIAVVTFVMINLV</span><span class="topo-outside">VAICVDAMA</span></span>
+<span class="topo-ruler">       250       260       270       280     </span>
 <span class="topo-line"><span class="topo-outside">ILNQKEE</span><span class="topo-unknown">QHIIDEVQSHEDNINNEIIKLREEIVELKELIKTSLKN</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3111,6 +3164,7 @@ gating pore currents in the voltage sensor domain.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3126,11 +3180,13 @@ gating pore currents in the voltage sensor domain.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRGSHM</span><span class="topo-outside">YLRITNIVESSFFTK</span><span class="topo-membrane">FIIYLIVLNGITMGLET</span><span class="topo-inside">SKTFMQSFG</span></span>
-<span class="topo-line"><span class="topo-membrane">VYTTLFNQIVITIFTIEII</span><span class="topo-outside">LRIYVHRISFFKDP</span><span class="topo-membrane">WSLFDFFVVAISLVPT</span><span class="topo-inside">SS</span><span class="topo-membrane">GFEILRVLR</span></span>
-<span class="topo-line"><span class="topo-membrane">VLRLFRLVT</span><span class="topo-outside">AVPQMRKIVSALISVIPG</span><span class="topo-membrane">MLSVIALMTLFFYIFAIMA</span><span class="topo-inside">TQLFGERFPEWFGT</span></span>
-<span class="topo-line"><span class="topo-inside">LGE</span><span class="topo-unknown">SFYTLFQVMTLESWS</span><span class="topo-inside">MGIVRPLMEVYPYA</span><span class="topo-membrane">WVFFIPFIAVVTFVMINLV</span><span class="topo-outside">VAICV</span><span class="topo-unknown">DAMA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRGSHM</span><span class="topo-outside">YLRITNIVESSFFTK</span><span class="topo-membrane">FIIYLIVLNGITMGLET</span><span class="topo-inside">SKTFMQSFG</span><span class="topo-membrane">VYTTLFNQIVITIFTIEII</span><span class="topo-outside">LRIYVHRISFFKDP</span><span class="topo-membrane">WSLFDFFVVAISLVPT</span><span class="topo-inside">SS</span><span class="topo-membrane">GFEILRVLR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">VLRLFRLVT</span><span class="topo-outside">AVPQMRKIVSALISVIPG</span><span class="topo-membrane">MLSVIALMTLFFYIFAIMA</span><span class="topo-inside">TQLFGERFPEWFGTLGE</span><span class="topo-unknown">SFYTLFQVMTLESWS</span><span class="topo-inside">MGIVRPLMEVYPYA</span><span class="topo-membrane">WVFFIPFIAVVTFVMINLV</span><span class="topo-outside">VAICV</span><span class="topo-unknown">DAMA</span></span>
+<span class="topo-ruler">       250       260       270       280     </span>
 <span class="topo-line"><span class="topo-unknown">ILNQKEEQHIIDEVQSHEDNINNEIIKLREEIVELKELIKTSLKN</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3261,6 +3317,7 @@ gating pore currents in the voltage sensor domain.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3276,11 +3333,13 @@ gating pore currents in the voltage sensor domain.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRGSH</span><span class="topo-outside">MYLRITNIVESSFFTK</span><span class="topo-membrane">FIIYLIVLNGITMGLET</span><span class="topo-inside">SKTFMQSFG</span></span>
-<span class="topo-line"><span class="topo-inside">V</span><span class="topo-membrane">YTTLFNQIVITIFTIEII</span><span class="topo-outside">LRIYVHRISFFKDPW</span><span class="topo-membrane">SLFDFFVVAISLVPT</span><span class="topo-inside">SSGFE</span><span class="topo-membrane">ILRVLR</span></span>
-<span class="topo-line"><span class="topo-membrane">VLRLFRLVTA</span><span class="topo-outside">VPQMRKIVSALISVIPGMLS</span><span class="topo-membrane">VIALMTLFFYIFAIMAT</span><span class="topo-inside">QLFGERFPEWFGT</span></span>
-<span class="topo-line"><span class="topo-unknown">LGESFYTLFQVMTLESWS</span><span class="topo-inside">MGIVRPLMEVYP</span><span class="topo-membrane">YAWVFFIPFIAVVTFVMINLV</span><span class="topo-outside">VAICVDAMA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRGSH</span><span class="topo-outside">MYLRITNIVESSFFTK</span><span class="topo-membrane">FIIYLIVLNGITMGLET</span><span class="topo-inside">SKTFMQSFGV</span><span class="topo-membrane">YTTLFNQIVITIFTIEII</span><span class="topo-outside">LRIYVHRISFFKDPW</span><span class="topo-membrane">SLFDFFVVAISLVPT</span><span class="topo-inside">SSGFE</span><span class="topo-membrane">ILRVLR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">VLRLFRLVTA</span><span class="topo-outside">VPQMRKIVSALISVIPGMLS</span><span class="topo-membrane">VIALMTLFFYIFAIMAT</span><span class="topo-inside">QLFGERFPEWFGT</span><span class="topo-unknown">LGESFYTLFQVMTLESWS</span><span class="topo-inside">MGIVRPLMEVYP</span><span class="topo-membrane">YAWVFFIPFIAVVTFVMINLV</span><span class="topo-outside">VAICVDAMA</span></span>
+<span class="topo-ruler">       250       260       270       280     </span>
 <span class="topo-line"><span class="topo-unknown">ILNQKEEQHIIDEVQSHEDNINNEIIKLREEIVELKELIKTSLKN</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3411,6 +3470,7 @@ gating pore currents in the voltage sensor domain.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3466,11 +3526,13 @@ gating pore currents in the voltage sensor domain.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRGSH</span><span class="topo-outside">M</span><span class="topo-unknown">YLRITNIV</span><span class="topo-outside">ESSFF</span><span class="topo-membrane">TKFIIYLIVLNGITMGLE</span><span class="topo-inside">TS</span><span class="topo-unknown">KTFMQS</span><span class="topo-inside">FG</span></span>
-<span class="topo-line"><span class="topo-inside">VY</span><span class="topo-membrane">TTLFNQIVITIFTIEIILRI</span><span class="topo-outside">YVHRISFFKDP</span><span class="topo-membrane">WSLFDFFVVAISLVPT</span><span class="topo-inside">SSGFEI</span><span class="topo-membrane">LRVLR</span></span>
-<span class="topo-line"><span class="topo-membrane">VLGLFRLVTAV</span><span class="topo-unknown">PQMRKIVSALI</span><span class="topo-outside">SVIPGM</span><span class="topo-membrane">LSVIALMTLFFYIFAIMA</span><span class="topo-inside">TQLFGERFPEWFGT</span></span>
-<span class="topo-line"><span class="topo-inside">LGES</span><span class="topo-unknown">FYTLFQVMTLE</span><span class="topo-inside">SWSMGIVRPLMEVYPYAW</span><span class="topo-membrane">VFFIPFIFVVTFVMINLVV</span><span class="topo-outside">AICVDAM</span><span class="topo-unknown">A</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRGSH</span><span class="topo-outside">M</span><span class="topo-unknown">YLRITNIV</span><span class="topo-outside">ESSFF</span><span class="topo-membrane">TKFIIYLIVLNGITMGLE</span><span class="topo-inside">TS</span><span class="topo-unknown">KTFMQS</span><span class="topo-inside">FGVY</span><span class="topo-membrane">TTLFNQIVITIFTIEIILRI</span><span class="topo-outside">YVHRISFFKDP</span><span class="topo-membrane">WSLFDFFVVAISLVPT</span><span class="topo-inside">SSGFEI</span><span class="topo-membrane">LRVLR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">VLGLFRLVTAV</span><span class="topo-unknown">PQMRKIVSALI</span><span class="topo-outside">SVIPGM</span><span class="topo-membrane">LSVIALMTLFFYIFAIMA</span><span class="topo-inside">TQLFGERFPEWFGTLGES</span><span class="topo-unknown">FYTLFQVMTLE</span><span class="topo-inside">SWSMGIVRPLMEVYPYAW</span><span class="topo-membrane">VFFIPFIFVVTFVMINLVV</span><span class="topo-outside">AICVDAM</span><span class="topo-unknown">A</span></span>
+<span class="topo-ruler">       250       260       270       280     </span>
 <span class="topo-line"><span class="topo-unknown">ILNQKEEQHIIDEVQSHEDNINNEIIKLREEIVELKELIKTSLKN</span></span>
+<details class="topo-details"><summary>Topology coordinates (20 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3622,6 +3684,7 @@ gating pore currents in the voltage sensor domain.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3637,11 +3700,13 @@ gating pore currents in the voltage sensor domain.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRGSH</span><span class="topo-outside">M</span><span class="topo-unknown">YLRITNIV</span><span class="topo-outside">ESSFF</span><span class="topo-membrane">TKFIIYLIVLNGITMGLE</span><span class="topo-inside">TS</span><span class="topo-unknown">KTFMQS</span><span class="topo-inside">FG</span></span>
-<span class="topo-line"><span class="topo-inside">VY</span><span class="topo-membrane">TTLFNQIVITIFTIEIILRI</span><span class="topo-outside">YVHRISFFKDP</span><span class="topo-membrane">WSLFDFFVVAISLVPT</span><span class="topo-inside">SSGFEI</span><span class="topo-membrane">LRVLR</span></span>
-<span class="topo-line"><span class="topo-membrane">VLGLFRLVTAV</span><span class="topo-unknown">PQMRKIVSALI</span><span class="topo-outside">SVIPGM</span><span class="topo-membrane">LSVIALMTLFFYIFAIMA</span><span class="topo-inside">TQLFGERFPEWFGT</span></span>
-<span class="topo-line"><span class="topo-inside">LGES</span><span class="topo-unknown">FYTLFQVMTLE</span><span class="topo-inside">SWSMGIVRPLMEVYPYAW</span><span class="topo-membrane">VFFIPFIFVVTFVMINLVV</span><span class="topo-outside">AICVDAM</span><span class="topo-unknown">A</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRGSH</span><span class="topo-outside">M</span><span class="topo-unknown">YLRITNIV</span><span class="topo-outside">ESSFF</span><span class="topo-membrane">TKFIIYLIVLNGITMGLE</span><span class="topo-inside">TS</span><span class="topo-unknown">KTFMQS</span><span class="topo-inside">FGVY</span><span class="topo-membrane">TTLFNQIVITIFTIEIILRI</span><span class="topo-outside">YVHRISFFKDP</span><span class="topo-membrane">WSLFDFFVVAISLVPT</span><span class="topo-inside">SSGFEI</span><span class="topo-membrane">LRVLR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">VLGLFRLVTAV</span><span class="topo-unknown">PQMRKIVSALI</span><span class="topo-outside">SVIPGM</span><span class="topo-membrane">LSVIALMTLFFYIFAIMA</span><span class="topo-inside">TQLFGERFPEWFGTLGES</span><span class="topo-unknown">FYTLFQVMTLE</span><span class="topo-inside">SWSMGIVRPLMEVYPYAW</span><span class="topo-membrane">VFFIPFIFVVTFVMINLVV</span><span class="topo-outside">AICVDAM</span><span class="topo-unknown">A</span></span>
+<span class="topo-ruler">       250       260       270       280     </span>
 <span class="topo-line"><span class="topo-unknown">ILNQKEEQHIIDEVQSHEDNINNEIIKLREEIVELKELIKTSLKN</span></span>
+<details class="topo-details"><summary>Topology coordinates (20 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3793,6 +3858,7 @@ gating pore currents in the voltage sensor domain.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3808,11 +3874,13 @@ gating pore currents in the voltage sensor domain.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRGSH</span><span class="topo-outside">M</span><span class="topo-unknown">YLRITNIV</span><span class="topo-outside">ESSFF</span><span class="topo-membrane">TKFIIYLIVLNGITMGLE</span><span class="topo-inside">TS</span><span class="topo-unknown">KTFMQS</span><span class="topo-inside">FG</span></span>
-<span class="topo-line"><span class="topo-inside">VY</span><span class="topo-membrane">TTLFNQIVITIFTIEIILRI</span><span class="topo-outside">YVHRISFFKDP</span><span class="topo-membrane">WSLFDFFVVAISLVPT</span><span class="topo-inside">SSGFEI</span><span class="topo-membrane">LRVLR</span></span>
-<span class="topo-line"><span class="topo-membrane">VLGLFRLVTAV</span><span class="topo-unknown">PQMRKIVSALI</span><span class="topo-outside">SVIPGM</span><span class="topo-membrane">LSVIALMTLFFYIFAIMA</span><span class="topo-inside">TQLFGERFPEWFGT</span></span>
-<span class="topo-line"><span class="topo-inside">LGES</span><span class="topo-unknown">FYTLFQVMTLE</span><span class="topo-inside">SWSMGIVRPLMEVYPYAW</span><span class="topo-membrane">VFFIPFIFVVTFVMINLVV</span><span class="topo-outside">AICVDAM</span><span class="topo-unknown">A</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRGSH</span><span class="topo-outside">M</span><span class="topo-unknown">YLRITNIV</span><span class="topo-outside">ESSFF</span><span class="topo-membrane">TKFIIYLIVLNGITMGLE</span><span class="topo-inside">TS</span><span class="topo-unknown">KTFMQS</span><span class="topo-inside">FGVY</span><span class="topo-membrane">TTLFNQIVITIFTIEIILRI</span><span class="topo-outside">YVHRISFFKDP</span><span class="topo-membrane">WSLFDFFVVAISLVPT</span><span class="topo-inside">SSGFEI</span><span class="topo-membrane">LRVLR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">VLGLFRLVTAV</span><span class="topo-unknown">PQMRKIVSALI</span><span class="topo-outside">SVIPGM</span><span class="topo-membrane">LSVIALMTLFFYIFAIMA</span><span class="topo-inside">TQLFGERFPEWFGTLGES</span><span class="topo-unknown">FYTLFQVMTLE</span><span class="topo-inside">SWSMGIVRPLMEVYPYAW</span><span class="topo-membrane">VFFIPFIFVVTFVMINLVV</span><span class="topo-outside">AICVDAM</span><span class="topo-unknown">A</span></span>
+<span class="topo-ruler">       250       260       270       280     </span>
 <span class="topo-line"><span class="topo-unknown">ILNQKEEQHIIDEVQSHEDNINNEIIKLREEIVELKELIKTSLKN</span></span>
+<details class="topo-details"><summary>Topology coordinates (20 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3964,6 +4032,7 @@ gating pore currents in the voltage sensor domain.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3979,11 +4048,13 @@ gating pore currents in the voltage sensor domain.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRGSH</span><span class="topo-outside">M</span><span class="topo-unknown">YLRITNIV</span><span class="topo-outside">ESSFF</span><span class="topo-membrane">TKFIIYLIVLNGITMGLE</span><span class="topo-inside">TS</span><span class="topo-unknown">KTFMQS</span><span class="topo-inside">FG</span></span>
-<span class="topo-line"><span class="topo-inside">VY</span><span class="topo-membrane">TTLFNQIVITIFTIEIILRI</span><span class="topo-outside">YVHRISFFKDP</span><span class="topo-membrane">WSLFDFFVVAISLVPT</span><span class="topo-inside">SSGFEI</span><span class="topo-membrane">LRVLR</span></span>
-<span class="topo-line"><span class="topo-membrane">VLGLFRLVTAV</span><span class="topo-unknown">PQMRKIVSALI</span><span class="topo-outside">SVIPGM</span><span class="topo-membrane">LSVIALMTLFFYIFAIMA</span><span class="topo-inside">TQLFGERFPEWFGT</span></span>
-<span class="topo-line"><span class="topo-inside">LGES</span><span class="topo-unknown">FYTLFQVMTLE</span><span class="topo-inside">SWSMGIVRPLMEVYPYAW</span><span class="topo-membrane">VFFIPFIFVVTFVMINLVV</span><span class="topo-outside">AICVDAM</span><span class="topo-unknown">A</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRGSH</span><span class="topo-outside">M</span><span class="topo-unknown">YLRITNIV</span><span class="topo-outside">ESSFF</span><span class="topo-membrane">TKFIIYLIVLNGITMGLE</span><span class="topo-inside">TS</span><span class="topo-unknown">KTFMQS</span><span class="topo-inside">FGVY</span><span class="topo-membrane">TTLFNQIVITIFTIEIILRI</span><span class="topo-outside">YVHRISFFKDP</span><span class="topo-membrane">WSLFDFFVVAISLVPT</span><span class="topo-inside">SSGFEI</span><span class="topo-membrane">LRVLR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">VLGLFRLVTAV</span><span class="topo-unknown">PQMRKIVSALI</span><span class="topo-outside">SVIPGM</span><span class="topo-membrane">LSVIALMTLFFYIFAIMA</span><span class="topo-inside">TQLFGERFPEWFGTLGES</span><span class="topo-unknown">FYTLFQVMTLE</span><span class="topo-inside">SWSMGIVRPLMEVYPYAW</span><span class="topo-membrane">VFFIPFIFVVTFVMINLVV</span><span class="topo-outside">AICVDAM</span><span class="topo-unknown">A</span></span>
+<span class="topo-ruler">       250       260       270       280     </span>
 <span class="topo-line"><span class="topo-unknown">ILNQKEEQHIIDEVQSHEDNINNEIIKLREEIVELKELIKTSLKN</span></span>
+<details class="topo-details"><summary>Topology coordinates (20 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4135,6 +4206,7 @@ gating pore currents in the voltage sensor domain.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4150,11 +4222,13 @@ gating pore currents in the voltage sensor domain.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRGSH</span><span class="topo-outside">M</span><span class="topo-unknown">YLRITNIV</span><span class="topo-outside">ESSFF</span><span class="topo-membrane">TKFIIYLIVLNGITMGLE</span><span class="topo-inside">TS</span><span class="topo-unknown">KTFMQS</span><span class="topo-inside">FG</span></span>
-<span class="topo-line"><span class="topo-inside">VY</span><span class="topo-membrane">TTLFNQIVITIFTIEIILRI</span><span class="topo-outside">YVHRISFFKDP</span><span class="topo-membrane">WSLFDFFVVAISLVPT</span><span class="topo-inside">SSGFEI</span><span class="topo-membrane">LRVLR</span></span>
-<span class="topo-line"><span class="topo-membrane">VLGLFRLVTAV</span><span class="topo-unknown">PQMRKIVSALI</span><span class="topo-outside">SVIPGM</span><span class="topo-membrane">LSVIALMTLFFYIFAIMA</span><span class="topo-inside">TQLFGERFPEWFGT</span></span>
-<span class="topo-line"><span class="topo-inside">LGES</span><span class="topo-unknown">FYTLFQVMTLE</span><span class="topo-inside">SWSMGIVRPLMEVYPYAW</span><span class="topo-membrane">VFFIPFIFVVTFVMINLVV</span><span class="topo-outside">AICVDAM</span><span class="topo-unknown">A</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRGSH</span><span class="topo-outside">M</span><span class="topo-unknown">YLRITNIV</span><span class="topo-outside">ESSFF</span><span class="topo-membrane">TKFIIYLIVLNGITMGLE</span><span class="topo-inside">TS</span><span class="topo-unknown">KTFMQS</span><span class="topo-inside">FGVY</span><span class="topo-membrane">TTLFNQIVITIFTIEIILRI</span><span class="topo-outside">YVHRISFFKDP</span><span class="topo-membrane">WSLFDFFVVAISLVPT</span><span class="topo-inside">SSGFEI</span><span class="topo-membrane">LRVLR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">VLGLFRLVTAV</span><span class="topo-unknown">PQMRKIVSALI</span><span class="topo-outside">SVIPGM</span><span class="topo-membrane">LSVIALMTLFFYIFAIMA</span><span class="topo-inside">TQLFGERFPEWFGTLGES</span><span class="topo-unknown">FYTLFQVMTLE</span><span class="topo-inside">SWSMGIVRPLMEVYPYAW</span><span class="topo-membrane">VFFIPFIFVVTFVMINLVV</span><span class="topo-outside">AICVDAM</span><span class="topo-unknown">A</span></span>
+<span class="topo-ruler">       250       260       270       280     </span>
 <span class="topo-line"><span class="topo-unknown">ILNQKEEQHIIDEVQSHEDNINNEIIKLREEIVELKELIKTSLKN</span></span>
+<details class="topo-details"><summary>Topology coordinates (20 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4306,6 +4380,7 @@ gating pore currents in the voltage sensor domain.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4321,11 +4396,13 @@ gating pore currents in the voltage sensor domain.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRGSH</span><span class="topo-outside">M</span><span class="topo-unknown">YLRITNIV</span><span class="topo-outside">ESSFF</span><span class="topo-membrane">TKFIIYLIVLNGITMGLE</span><span class="topo-inside">TS</span><span class="topo-unknown">KTFMQS</span><span class="topo-inside">FG</span></span>
-<span class="topo-line"><span class="topo-inside">VY</span><span class="topo-membrane">TTLFNQIVITIFTIEIILRI</span><span class="topo-outside">YVHRISFFKDP</span><span class="topo-membrane">WSLFDFFVVAISLVPT</span><span class="topo-inside">SSGFEI</span><span class="topo-membrane">LRVLR</span></span>
-<span class="topo-line"><span class="topo-membrane">VLGLFRLVTAV</span><span class="topo-unknown">PQMRKIVSALI</span><span class="topo-outside">SVIPGM</span><span class="topo-membrane">LSVIALMTLFFYIFAIMA</span><span class="topo-inside">TQLFGERFPEWFGT</span></span>
-<span class="topo-line"><span class="topo-inside">LGES</span><span class="topo-unknown">FYTLFQVMTLE</span><span class="topo-inside">SWSMGIVRPLMEVYPYAW</span><span class="topo-membrane">VFFIPFIFVVTFVMINLVV</span><span class="topo-outside">AICVDAM</span><span class="topo-unknown">A</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRGSH</span><span class="topo-outside">M</span><span class="topo-unknown">YLRITNIV</span><span class="topo-outside">ESSFF</span><span class="topo-membrane">TKFIIYLIVLNGITMGLE</span><span class="topo-inside">TS</span><span class="topo-unknown">KTFMQS</span><span class="topo-inside">FGVY</span><span class="topo-membrane">TTLFNQIVITIFTIEIILRI</span><span class="topo-outside">YVHRISFFKDP</span><span class="topo-membrane">WSLFDFFVVAISLVPT</span><span class="topo-inside">SSGFEI</span><span class="topo-membrane">LRVLR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">VLGLFRLVTAV</span><span class="topo-unknown">PQMRKIVSALI</span><span class="topo-outside">SVIPGM</span><span class="topo-membrane">LSVIALMTLFFYIFAIMA</span><span class="topo-inside">TQLFGERFPEWFGTLGES</span><span class="topo-unknown">FYTLFQVMTLE</span><span class="topo-inside">SWSMGIVRPLMEVYPYAW</span><span class="topo-membrane">VFFIPFIFVVTFVMINLVV</span><span class="topo-outside">AICVDAM</span><span class="topo-unknown">A</span></span>
+<span class="topo-ruler">       250       260       270       280     </span>
 <span class="topo-line"><span class="topo-unknown">ILNQKEEQHIIDEVQSHEDNINNEIIKLREEIVELKELIKTSLKN</span></span>
+<details class="topo-details"><summary>Topology coordinates (20 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4477,6 +4554,7 @@ gating pore currents in the voltage sensor domain.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4492,11 +4570,13 @@ gating pore currents in the voltage sensor domain.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRGSH</span><span class="topo-outside">M</span><span class="topo-unknown">YLRITNIV</span><span class="topo-outside">ESSFF</span><span class="topo-membrane">TKFIIYLIVLNGITMGLE</span><span class="topo-inside">TS</span><span class="topo-unknown">KTFMQS</span><span class="topo-inside">FG</span></span>
-<span class="topo-line"><span class="topo-inside">VY</span><span class="topo-membrane">TTLFNQIVITIFTIEIILRI</span><span class="topo-outside">YVHRISFFKDP</span><span class="topo-membrane">WSLFDFFVVAISLVPT</span><span class="topo-inside">SSGFEI</span><span class="topo-membrane">LRVLR</span></span>
-<span class="topo-line"><span class="topo-membrane">VLGLFRLVTAV</span><span class="topo-unknown">PQMRKIVSALI</span><span class="topo-outside">SVIPGM</span><span class="topo-membrane">LSVIALMTLFFYIFAIMA</span><span class="topo-inside">TQLFGERFPEWFGT</span></span>
-<span class="topo-line"><span class="topo-inside">LGES</span><span class="topo-unknown">FYTLFQVMTLE</span><span class="topo-inside">SWSMGIVRPLMEVYPYAW</span><span class="topo-membrane">VFFIPFIFVVTFVMINLVV</span><span class="topo-outside">AICVDAM</span><span class="topo-unknown">A</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRGSH</span><span class="topo-outside">M</span><span class="topo-unknown">YLRITNIV</span><span class="topo-outside">ESSFF</span><span class="topo-membrane">TKFIIYLIVLNGITMGLE</span><span class="topo-inside">TS</span><span class="topo-unknown">KTFMQS</span><span class="topo-inside">FGVY</span><span class="topo-membrane">TTLFNQIVITIFTIEIILRI</span><span class="topo-outside">YVHRISFFKDP</span><span class="topo-membrane">WSLFDFFVVAISLVPT</span><span class="topo-inside">SSGFEI</span><span class="topo-membrane">LRVLR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">VLGLFRLVTAV</span><span class="topo-unknown">PQMRKIVSALI</span><span class="topo-outside">SVIPGM</span><span class="topo-membrane">LSVIALMTLFFYIFAIMA</span><span class="topo-inside">TQLFGERFPEWFGTLGES</span><span class="topo-unknown">FYTLFQVMTLE</span><span class="topo-inside">SWSMGIVRPLMEVYPYAW</span><span class="topo-membrane">VFFIPFIFVVTFVMINLVV</span><span class="topo-outside">AICVDAM</span><span class="topo-unknown">A</span></span>
+<span class="topo-ruler">       250       260       270       280     </span>
 <span class="topo-line"><span class="topo-unknown">ILNQKEEQHIIDEVQSHEDNINNEIIKLREEIVELKELIKTSLKN</span></span>
+<details class="topo-details"><summary>Topology coordinates (20 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4648,6 +4728,7 @@ gating pore currents in the voltage sensor domain.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4663,11 +4744,13 @@ gating pore currents in the voltage sensor domain.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRGSH</span><span class="topo-outside">M</span><span class="topo-unknown">YLRITNIV</span><span class="topo-outside">ESSFF</span><span class="topo-membrane">TKFIIYLIVLNGITMGLE</span><span class="topo-inside">TS</span><span class="topo-unknown">KTFMQS</span><span class="topo-inside">FG</span></span>
-<span class="topo-line"><span class="topo-inside">VY</span><span class="topo-membrane">TTLFNQIVITIFTIEIILRI</span><span class="topo-outside">YVHRISFFKDP</span><span class="topo-membrane">WSLFDFFVVAISLVPT</span><span class="topo-inside">SSGFEI</span><span class="topo-membrane">LRVLR</span></span>
-<span class="topo-line"><span class="topo-membrane">VLGLFRLVTAV</span><span class="topo-unknown">PQMRKIVSALI</span><span class="topo-outside">SVIPGM</span><span class="topo-membrane">LSVIALMTLFFYIFAIMA</span><span class="topo-inside">TQLFGERFPEWFGT</span></span>
-<span class="topo-line"><span class="topo-inside">LGES</span><span class="topo-unknown">FYTLFQVMTLE</span><span class="topo-inside">SWSMGIVRPLMEVYPYAW</span><span class="topo-membrane">VFFIPFIFVVTFVMINLVV</span><span class="topo-outside">AICVDAM</span><span class="topo-unknown">A</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRGSH</span><span class="topo-outside">M</span><span class="topo-unknown">YLRITNIV</span><span class="topo-outside">ESSFF</span><span class="topo-membrane">TKFIIYLIVLNGITMGLE</span><span class="topo-inside">TS</span><span class="topo-unknown">KTFMQS</span><span class="topo-inside">FGVY</span><span class="topo-membrane">TTLFNQIVITIFTIEIILRI</span><span class="topo-outside">YVHRISFFKDP</span><span class="topo-membrane">WSLFDFFVVAISLVPT</span><span class="topo-inside">SSGFEI</span><span class="topo-membrane">LRVLR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">VLGLFRLVTAV</span><span class="topo-unknown">PQMRKIVSALI</span><span class="topo-outside">SVIPGM</span><span class="topo-membrane">LSVIALMTLFFYIFAIMA</span><span class="topo-inside">TQLFGERFPEWFGTLGES</span><span class="topo-unknown">FYTLFQVMTLE</span><span class="topo-inside">SWSMGIVRPLMEVYPYAW</span><span class="topo-membrane">VFFIPFIFVVTFVMINLVV</span><span class="topo-outside">AICVDAM</span><span class="topo-unknown">A</span></span>
+<span class="topo-ruler">       250       260       270       280     </span>
 <span class="topo-line"><span class="topo-unknown">ILNQKEEQHIIDEVQSHEDNINNEIIKLREEIVELKELIKTSLKN</span></span>
+<details class="topo-details"><summary>Topology coordinates (20 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4819,6 +4902,7 @@ gating pore currents in the voltage sensor domain.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4888,11 +4972,13 @@ gating pore currents in the voltage sensor domain.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRG</span><span class="topo-outside">S</span><span class="topo-unknown">HMYLRITNIV</span><span class="topo-outside">ESSFF</span><span class="topo-membrane">TKFIIYLIVLNGITMGL</span><span class="topo-inside">ETS</span><span class="topo-unknown">KTFMQSF</span><span class="topo-inside">G</span></span>
-<span class="topo-line"><span class="topo-inside">VY</span><span class="topo-membrane">TTLFNQIVITIFTIEIILRI</span><span class="topo-outside">YVHRISFFKDP</span><span class="topo-membrane">WSLFDFFVVAISLVP</span><span class="topo-inside">TS</span><span class="topo-unknown">SGF</span><span class="topo-inside">EIL</span><span class="topo-membrane">RVLR</span></span>
-<span class="topo-line"><span class="topo-membrane">VLRLFRLVTAV</span><span class="topo-unknown">PQMRKIVSALIS</span><span class="topo-outside">VIPGM</span><span class="topo-membrane">LSVIALMTLFFYIFAIMA</span><span class="topo-inside">TQLFGERFPEWFGT</span></span>
-<span class="topo-line"><span class="topo-inside">LGES</span><span class="topo-unknown">FYTLFQVMTLE</span><span class="topo-inside">SWSMGIVRPLMEVYPYAW</span><span class="topo-membrane">VFFIPFIFVVTFVMINLV</span><span class="topo-outside">VAIIVDAMA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRG</span><span class="topo-outside">S</span><span class="topo-unknown">HMYLRITNIV</span><span class="topo-outside">ESSFF</span><span class="topo-membrane">TKFIIYLIVLNGITMGL</span><span class="topo-inside">ETS</span><span class="topo-unknown">KTFMQSF</span><span class="topo-inside">GVY</span><span class="topo-membrane">TTLFNQIVITIFTIEIILRI</span><span class="topo-outside">YVHRISFFKDP</span><span class="topo-membrane">WSLFDFFVVAISLVP</span><span class="topo-inside">TS</span><span class="topo-unknown">SGF</span><span class="topo-inside">EIL</span><span class="topo-membrane">RVLR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">VLRLFRLVTAV</span><span class="topo-unknown">PQMRKIVSALIS</span><span class="topo-outside">VIPGM</span><span class="topo-membrane">LSVIALMTLFFYIFAIMA</span><span class="topo-inside">TQLFGERFPEWFGTLGES</span><span class="topo-unknown">FYTLFQVMTLE</span><span class="topo-inside">SWSMGIVRPLMEVYPYAW</span><span class="topo-membrane">VFFIPFIFVVTFVMINLV</span><span class="topo-outside">VAIIVDAMA</span></span>
+<span class="topo-ruler">       250       </span>
 <span class="topo-line"><span class="topo-outside">ILNQKEEQHIIDEVQSH</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -5051,6 +5137,7 @@ gating pore currents in the voltage sensor domain.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -5066,11 +5153,13 @@ gating pore currents in the voltage sensor domain.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRG</span><span class="topo-outside">S</span><span class="topo-unknown">HMYLRITNIV</span><span class="topo-outside">ESSFF</span><span class="topo-membrane">TKFIIYLIVLNGITMGL</span><span class="topo-inside">ETS</span><span class="topo-unknown">KTFMQSF</span><span class="topo-inside">G</span></span>
-<span class="topo-line"><span class="topo-inside">VY</span><span class="topo-membrane">TTLFNQIVITIFTIEIILRI</span><span class="topo-outside">YVHRISFFKDP</span><span class="topo-membrane">WSLFDFFVVAISLVP</span><span class="topo-inside">TS</span><span class="topo-unknown">SGF</span><span class="topo-inside">EIL</span><span class="topo-membrane">RVLR</span></span>
-<span class="topo-line"><span class="topo-membrane">VLRLFRLVTAV</span><span class="topo-unknown">PQMRKIVSALIS</span><span class="topo-outside">VIPGM</span><span class="topo-membrane">LSVIALMTLFFYIFAIMA</span><span class="topo-inside">TQLFGERFPEWFGT</span></span>
-<span class="topo-line"><span class="topo-inside">LGES</span><span class="topo-unknown">FYTLFQVMTLE</span><span class="topo-inside">SWSMGIVRPLMEVYPYAW</span><span class="topo-membrane">VFFIPFIFVVTFVMINLV</span><span class="topo-outside">VAIIVDAMA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRG</span><span class="topo-outside">S</span><span class="topo-unknown">HMYLRITNIV</span><span class="topo-outside">ESSFF</span><span class="topo-membrane">TKFIIYLIVLNGITMGL</span><span class="topo-inside">ETS</span><span class="topo-unknown">KTFMQSF</span><span class="topo-inside">GVY</span><span class="topo-membrane">TTLFNQIVITIFTIEIILRI</span><span class="topo-outside">YVHRISFFKDP</span><span class="topo-membrane">WSLFDFFVVAISLVP</span><span class="topo-inside">TS</span><span class="topo-unknown">SGF</span><span class="topo-inside">EIL</span><span class="topo-membrane">RVLR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">VLRLFRLVTAV</span><span class="topo-unknown">PQMRKIVSALIS</span><span class="topo-outside">VIPGM</span><span class="topo-membrane">LSVIALMTLFFYIFAIMA</span><span class="topo-inside">TQLFGERFPEWFGTLGES</span><span class="topo-unknown">FYTLFQVMTLE</span><span class="topo-inside">SWSMGIVRPLMEVYPYAW</span><span class="topo-membrane">VFFIPFIFVVTFVMINLV</span><span class="topo-outside">VAIIVDAMA</span></span>
+<span class="topo-ruler">       250       </span>
 <span class="topo-line"><span class="topo-outside">ILNQKEEQHIIDEVQSH</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -5229,6 +5318,7 @@ gating pore currents in the voltage sensor domain.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -5244,11 +5334,13 @@ gating pore currents in the voltage sensor domain.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRG</span><span class="topo-outside">S</span><span class="topo-unknown">HMYLRITNIV</span><span class="topo-outside">ESSFF</span><span class="topo-membrane">TKFIIYLIVLNGITMGL</span><span class="topo-inside">ETS</span><span class="topo-unknown">KTFMQSF</span><span class="topo-inside">G</span></span>
-<span class="topo-line"><span class="topo-inside">VY</span><span class="topo-membrane">TTLFNQIVITIFTIEIILRI</span><span class="topo-outside">YVHRISFFKDP</span><span class="topo-membrane">WSLFDFFVVAISLVP</span><span class="topo-inside">TS</span><span class="topo-unknown">SGF</span><span class="topo-inside">EIL</span><span class="topo-membrane">RVLR</span></span>
-<span class="topo-line"><span class="topo-membrane">VLRLFRLVTAV</span><span class="topo-unknown">PQMRKIVSALIS</span><span class="topo-outside">VIPGM</span><span class="topo-membrane">LSVIALMTLFFYIFAIMA</span><span class="topo-inside">TQLFGERFPEWFGT</span></span>
-<span class="topo-line"><span class="topo-inside">LGES</span><span class="topo-unknown">FYTLFQVMTLE</span><span class="topo-inside">SWSMGIVRPLMEVYPYAW</span><span class="topo-membrane">VFFIPFIFVVTFVMINLV</span><span class="topo-outside">VAIIVDAMA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRG</span><span class="topo-outside">S</span><span class="topo-unknown">HMYLRITNIV</span><span class="topo-outside">ESSFF</span><span class="topo-membrane">TKFIIYLIVLNGITMGL</span><span class="topo-inside">ETS</span><span class="topo-unknown">KTFMQSF</span><span class="topo-inside">GVY</span><span class="topo-membrane">TTLFNQIVITIFTIEIILRI</span><span class="topo-outside">YVHRISFFKDP</span><span class="topo-membrane">WSLFDFFVVAISLVP</span><span class="topo-inside">TS</span><span class="topo-unknown">SGF</span><span class="topo-inside">EIL</span><span class="topo-membrane">RVLR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">VLRLFRLVTAV</span><span class="topo-unknown">PQMRKIVSALIS</span><span class="topo-outside">VIPGM</span><span class="topo-membrane">LSVIALMTLFFYIFAIMA</span><span class="topo-inside">TQLFGERFPEWFGTLGES</span><span class="topo-unknown">FYTLFQVMTLE</span><span class="topo-inside">SWSMGIVRPLMEVYPYAW</span><span class="topo-membrane">VFFIPFIFVVTFVMINLV</span><span class="topo-outside">VAIIVDAMA</span></span>
+<span class="topo-ruler">       250       </span>
 <span class="topo-line"><span class="topo-outside">ILNQKEEQHIIDEVQSH</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -5407,6 +5499,7 @@ gating pore currents in the voltage sensor domain.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -5422,11 +5515,13 @@ gating pore currents in the voltage sensor domain.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRG</span><span class="topo-outside">S</span><span class="topo-unknown">HMYLRITNIV</span><span class="topo-outside">ESSFF</span><span class="topo-membrane">TKFIIYLIVLNGITMGL</span><span class="topo-inside">ETS</span><span class="topo-unknown">KTFMQSF</span><span class="topo-inside">G</span></span>
-<span class="topo-line"><span class="topo-inside">VY</span><span class="topo-membrane">TTLFNQIVITIFTIEIILRI</span><span class="topo-outside">YVHRISFFKDP</span><span class="topo-membrane">WSLFDFFVVAISLVP</span><span class="topo-inside">TS</span><span class="topo-unknown">SGF</span><span class="topo-inside">EIL</span><span class="topo-membrane">RVLR</span></span>
-<span class="topo-line"><span class="topo-membrane">VLRLFRLVTAV</span><span class="topo-unknown">PQMRKIVSALIS</span><span class="topo-outside">VIPGM</span><span class="topo-membrane">LSVIALMTLFFYIFAIMA</span><span class="topo-inside">TQLFGERFPEWFGT</span></span>
-<span class="topo-line"><span class="topo-inside">LGES</span><span class="topo-unknown">FYTLFQVMTLE</span><span class="topo-inside">SWSMGIVRPLMEVYPYAW</span><span class="topo-membrane">VFFIPFIFVVTFVMINLV</span><span class="topo-outside">VAIIVDAMA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRG</span><span class="topo-outside">S</span><span class="topo-unknown">HMYLRITNIV</span><span class="topo-outside">ESSFF</span><span class="topo-membrane">TKFIIYLIVLNGITMGL</span><span class="topo-inside">ETS</span><span class="topo-unknown">KTFMQSF</span><span class="topo-inside">GVY</span><span class="topo-membrane">TTLFNQIVITIFTIEIILRI</span><span class="topo-outside">YVHRISFFKDP</span><span class="topo-membrane">WSLFDFFVVAISLVP</span><span class="topo-inside">TS</span><span class="topo-unknown">SGF</span><span class="topo-inside">EIL</span><span class="topo-membrane">RVLR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">VLRLFRLVTAV</span><span class="topo-unknown">PQMRKIVSALIS</span><span class="topo-outside">VIPGM</span><span class="topo-membrane">LSVIALMTLFFYIFAIMA</span><span class="topo-inside">TQLFGERFPEWFGTLGES</span><span class="topo-unknown">FYTLFQVMTLE</span><span class="topo-inside">SWSMGIVRPLMEVYPYAW</span><span class="topo-membrane">VFFIPFIFVVTFVMINLV</span><span class="topo-outside">VAIIVDAMA</span></span>
+<span class="topo-ruler">       250       </span>
 <span class="topo-line"><span class="topo-outside">ILNQKEEQHIIDEVQSH</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -5585,6 +5680,7 @@ gating pore currents in the voltage sensor domain.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -5600,11 +5696,13 @@ gating pore currents in the voltage sensor domain.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRG</span><span class="topo-outside">S</span><span class="topo-unknown">HMYLRITNIV</span><span class="topo-outside">ESSFF</span><span class="topo-membrane">TKFIIYLIVLNGITMGL</span><span class="topo-inside">ETS</span><span class="topo-unknown">KTFMQSF</span><span class="topo-inside">G</span></span>
-<span class="topo-line"><span class="topo-inside">VY</span><span class="topo-membrane">TTLFNQIVITIFTIEIILRI</span><span class="topo-outside">YVHRISFFKDP</span><span class="topo-membrane">WSLFDFFVVAISLVP</span><span class="topo-inside">TS</span><span class="topo-unknown">SGF</span><span class="topo-inside">EIL</span><span class="topo-membrane">RVLR</span></span>
-<span class="topo-line"><span class="topo-membrane">VLRLFRLVTAV</span><span class="topo-unknown">PQMRKIVSALIS</span><span class="topo-outside">VIPGM</span><span class="topo-membrane">LSVIALMTLFFYIFAIMA</span><span class="topo-inside">TQLFGERFPEWFGT</span></span>
-<span class="topo-line"><span class="topo-inside">LGES</span><span class="topo-unknown">FYTLFQVMTLE</span><span class="topo-inside">SWSMGIVRPLMEVYPYAW</span><span class="topo-membrane">VFFIPFIFVVTFVMINLV</span><span class="topo-outside">VAIIVDAMA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRG</span><span class="topo-outside">S</span><span class="topo-unknown">HMYLRITNIV</span><span class="topo-outside">ESSFF</span><span class="topo-membrane">TKFIIYLIVLNGITMGL</span><span class="topo-inside">ETS</span><span class="topo-unknown">KTFMQSF</span><span class="topo-inside">GVY</span><span class="topo-membrane">TTLFNQIVITIFTIEIILRI</span><span class="topo-outside">YVHRISFFKDP</span><span class="topo-membrane">WSLFDFFVVAISLVP</span><span class="topo-inside">TS</span><span class="topo-unknown">SGF</span><span class="topo-inside">EIL</span><span class="topo-membrane">RVLR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">VLRLFRLVTAV</span><span class="topo-unknown">PQMRKIVSALIS</span><span class="topo-outside">VIPGM</span><span class="topo-membrane">LSVIALMTLFFYIFAIMA</span><span class="topo-inside">TQLFGERFPEWFGTLGES</span><span class="topo-unknown">FYTLFQVMTLE</span><span class="topo-inside">SWSMGIVRPLMEVYPYAW</span><span class="topo-membrane">VFFIPFIFVVTFVMINLV</span><span class="topo-outside">VAIIVDAMA</span></span>
+<span class="topo-ruler">       250       </span>
 <span class="topo-line"><span class="topo-outside">ILNQKEEQHIIDEVQSH</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -5763,6 +5861,7 @@ gating pore currents in the voltage sensor domain.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -5778,11 +5877,13 @@ gating pore currents in the voltage sensor domain.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRG</span><span class="topo-outside">S</span><span class="topo-unknown">HMYLRITNIV</span><span class="topo-outside">ESSFF</span><span class="topo-membrane">TKFIIYLIVLNGITMGL</span><span class="topo-inside">ETS</span><span class="topo-unknown">KTFMQSF</span><span class="topo-inside">G</span></span>
-<span class="topo-line"><span class="topo-inside">VY</span><span class="topo-membrane">TTLFNQIVITIFTIEIILRI</span><span class="topo-outside">YVHRISFFKDP</span><span class="topo-membrane">WSLFDFFVVAISLVP</span><span class="topo-inside">TS</span><span class="topo-unknown">SGF</span><span class="topo-inside">EIL</span><span class="topo-membrane">RVLR</span></span>
-<span class="topo-line"><span class="topo-membrane">VLRLFRLVTAV</span><span class="topo-unknown">PQMRKIVSALIS</span><span class="topo-outside">VIPGM</span><span class="topo-membrane">LSVIALMTLFFYIFAIMA</span><span class="topo-inside">TQLFGERFPEWFGT</span></span>
-<span class="topo-line"><span class="topo-inside">LGES</span><span class="topo-unknown">FYTLFQVMTLE</span><span class="topo-inside">SWSMGIVRPLMEVYPYAW</span><span class="topo-membrane">VFFIPFIFVVTFVMINLV</span><span class="topo-outside">VAIIVDAMA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRG</span><span class="topo-outside">S</span><span class="topo-unknown">HMYLRITNIV</span><span class="topo-outside">ESSFF</span><span class="topo-membrane">TKFIIYLIVLNGITMGL</span><span class="topo-inside">ETS</span><span class="topo-unknown">KTFMQSF</span><span class="topo-inside">GVY</span><span class="topo-membrane">TTLFNQIVITIFTIEIILRI</span><span class="topo-outside">YVHRISFFKDP</span><span class="topo-membrane">WSLFDFFVVAISLVP</span><span class="topo-inside">TS</span><span class="topo-unknown">SGF</span><span class="topo-inside">EIL</span><span class="topo-membrane">RVLR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">VLRLFRLVTAV</span><span class="topo-unknown">PQMRKIVSALIS</span><span class="topo-outside">VIPGM</span><span class="topo-membrane">LSVIALMTLFFYIFAIMA</span><span class="topo-inside">TQLFGERFPEWFGTLGES</span><span class="topo-unknown">FYTLFQVMTLE</span><span class="topo-inside">SWSMGIVRPLMEVYPYAW</span><span class="topo-membrane">VFFIPFIFVVTFVMINLV</span><span class="topo-outside">VAIIVDAMA</span></span>
+<span class="topo-ruler">       250       </span>
 <span class="topo-line"><span class="topo-outside">ILNQKEEQHIIDEVQSH</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -5941,6 +6042,7 @@ gating pore currents in the voltage sensor domain.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -5956,11 +6058,13 @@ gating pore currents in the voltage sensor domain.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRG</span><span class="topo-outside">S</span><span class="topo-unknown">HMYLRITNIV</span><span class="topo-outside">ESSFF</span><span class="topo-membrane">TKFIIYLIVLNGITMGL</span><span class="topo-inside">ETS</span><span class="topo-unknown">KTFMQSF</span><span class="topo-inside">G</span></span>
-<span class="topo-line"><span class="topo-inside">VY</span><span class="topo-membrane">TTLFNQIVITIFTIEIILRI</span><span class="topo-outside">YVHRISFFKDP</span><span class="topo-membrane">WSLFDFFVVAISLVP</span><span class="topo-inside">TS</span><span class="topo-unknown">SGF</span><span class="topo-inside">EIL</span><span class="topo-membrane">RVLR</span></span>
-<span class="topo-line"><span class="topo-membrane">VLRLFRLVTAV</span><span class="topo-unknown">PQMRKIVSALIS</span><span class="topo-outside">VIPGM</span><span class="topo-membrane">LSVIALMTLFFYIFAIMA</span><span class="topo-inside">TQLFGERFPEWFGT</span></span>
-<span class="topo-line"><span class="topo-inside">LGES</span><span class="topo-unknown">FYTLFQVMTLE</span><span class="topo-inside">SWSMGIVRPLMEVYPYAW</span><span class="topo-membrane">VFFIPFIFVVTFVMINLV</span><span class="topo-outside">VAIIVDAMA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRG</span><span class="topo-outside">S</span><span class="topo-unknown">HMYLRITNIV</span><span class="topo-outside">ESSFF</span><span class="topo-membrane">TKFIIYLIVLNGITMGL</span><span class="topo-inside">ETS</span><span class="topo-unknown">KTFMQSF</span><span class="topo-inside">GVY</span><span class="topo-membrane">TTLFNQIVITIFTIEIILRI</span><span class="topo-outside">YVHRISFFKDP</span><span class="topo-membrane">WSLFDFFVVAISLVP</span><span class="topo-inside">TS</span><span class="topo-unknown">SGF</span><span class="topo-inside">EIL</span><span class="topo-membrane">RVLR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">VLRLFRLVTAV</span><span class="topo-unknown">PQMRKIVSALIS</span><span class="topo-outside">VIPGM</span><span class="topo-membrane">LSVIALMTLFFYIFAIMA</span><span class="topo-inside">TQLFGERFPEWFGTLGES</span><span class="topo-unknown">FYTLFQVMTLE</span><span class="topo-inside">SWSMGIVRPLMEVYPYAW</span><span class="topo-membrane">VFFIPFIFVVTFVMINLV</span><span class="topo-outside">VAIIVDAMA</span></span>
+<span class="topo-ruler">       250       </span>
 <span class="topo-line"><span class="topo-outside">ILNQKEEQHIIDEVQSH</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -6119,6 +6223,7 @@ gating pore currents in the voltage sensor domain.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -6134,11 +6239,13 @@ gating pore currents in the voltage sensor domain.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRG</span><span class="topo-outside">S</span><span class="topo-unknown">HMYLRITNIV</span><span class="topo-outside">ESSFF</span><span class="topo-membrane">TKFIIYLIVLNGITMGL</span><span class="topo-inside">ETS</span><span class="topo-unknown">KTFMQSF</span><span class="topo-inside">G</span></span>
-<span class="topo-line"><span class="topo-inside">VY</span><span class="topo-membrane">TTLFNQIVITIFTIEIILRI</span><span class="topo-outside">YVHRISFFKDP</span><span class="topo-membrane">WSLFDFFVVAISLVP</span><span class="topo-inside">TS</span><span class="topo-unknown">SGF</span><span class="topo-inside">EIL</span><span class="topo-membrane">RVLR</span></span>
-<span class="topo-line"><span class="topo-membrane">VLRLFRLVTAV</span><span class="topo-unknown">PQMRKIVSALIS</span><span class="topo-outside">VIPGM</span><span class="topo-membrane">LSVIALMTLFFYIFAIMA</span><span class="topo-inside">TQLFGERFPEWFGT</span></span>
-<span class="topo-line"><span class="topo-inside">LGES</span><span class="topo-unknown">FYTLFQVMTLE</span><span class="topo-inside">SWSMGIVRPLMEVYPYAW</span><span class="topo-membrane">VFFIPFIFVVTFVMINLV</span><span class="topo-outside">VAIIVDAMA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRG</span><span class="topo-outside">S</span><span class="topo-unknown">HMYLRITNIV</span><span class="topo-outside">ESSFF</span><span class="topo-membrane">TKFIIYLIVLNGITMGL</span><span class="topo-inside">ETS</span><span class="topo-unknown">KTFMQSF</span><span class="topo-inside">GVY</span><span class="topo-membrane">TTLFNQIVITIFTIEIILRI</span><span class="topo-outside">YVHRISFFKDP</span><span class="topo-membrane">WSLFDFFVVAISLVP</span><span class="topo-inside">TS</span><span class="topo-unknown">SGF</span><span class="topo-inside">EIL</span><span class="topo-membrane">RVLR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">VLRLFRLVTAV</span><span class="topo-unknown">PQMRKIVSALIS</span><span class="topo-outside">VIPGM</span><span class="topo-membrane">LSVIALMTLFFYIFAIMA</span><span class="topo-inside">TQLFGERFPEWFGTLGES</span><span class="topo-unknown">FYTLFQVMTLE</span><span class="topo-inside">SWSMGIVRPLMEVYPYAW</span><span class="topo-membrane">VFFIPFIFVVTFVMINLV</span><span class="topo-outside">VAIIVDAMA</span></span>
+<span class="topo-ruler">       250       </span>
 <span class="topo-line"><span class="topo-outside">ILNQKEEQHIIDEVQSH</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -6297,6 +6404,7 @@ gating pore currents in the voltage sensor domain.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -6312,11 +6420,13 @@ gating pore currents in the voltage sensor domain.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRG</span><span class="topo-outside">S</span><span class="topo-unknown">HMYLRITNIV</span><span class="topo-outside">ESSFF</span><span class="topo-membrane">TKFIIYLIVLNGITMGL</span><span class="topo-inside">ETS</span><span class="topo-unknown">KTFMQSF</span><span class="topo-inside">G</span></span>
-<span class="topo-line"><span class="topo-inside">VY</span><span class="topo-membrane">TTLFNQIVITIFTIEIILRI</span><span class="topo-outside">YVHRISFFKDP</span><span class="topo-membrane">WSLFDFFVVAISLVP</span><span class="topo-inside">TS</span><span class="topo-unknown">SGF</span><span class="topo-inside">EIL</span><span class="topo-membrane">RVLR</span></span>
-<span class="topo-line"><span class="topo-membrane">VLRLFRLVTAV</span><span class="topo-unknown">PQMRKIVSALIS</span><span class="topo-outside">VIPGM</span><span class="topo-membrane">LSVIALMTLFFYIFAIMA</span><span class="topo-inside">TQLFGERFPEWFGT</span></span>
-<span class="topo-line"><span class="topo-inside">LGES</span><span class="topo-unknown">FYTLFQVMTLE</span><span class="topo-inside">SWSMGIVRPLMEVYPYAW</span><span class="topo-membrane">VFFIPFIFVVTFVMINLV</span><span class="topo-outside">VAIIVDAMA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRG</span><span class="topo-outside">S</span><span class="topo-unknown">HMYLRITNIV</span><span class="topo-outside">ESSFF</span><span class="topo-membrane">TKFIIYLIVLNGITMGL</span><span class="topo-inside">ETS</span><span class="topo-unknown">KTFMQSF</span><span class="topo-inside">GVY</span><span class="topo-membrane">TTLFNQIVITIFTIEIILRI</span><span class="topo-outside">YVHRISFFKDP</span><span class="topo-membrane">WSLFDFFVVAISLVP</span><span class="topo-inside">TS</span><span class="topo-unknown">SGF</span><span class="topo-inside">EIL</span><span class="topo-membrane">RVLR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">VLRLFRLVTAV</span><span class="topo-unknown">PQMRKIVSALIS</span><span class="topo-outside">VIPGM</span><span class="topo-membrane">LSVIALMTLFFYIFAIMA</span><span class="topo-inside">TQLFGERFPEWFGTLGES</span><span class="topo-unknown">FYTLFQVMTLE</span><span class="topo-inside">SWSMGIVRPLMEVYPYAW</span><span class="topo-membrane">VFFIPFIFVVTFVMINLV</span><span class="topo-outside">VAIIVDAMA</span></span>
+<span class="topo-ruler">       250       </span>
 <span class="topo-line"><span class="topo-outside">ILNQKEEQHIIDEVQSH</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -6475,6 +6585,7 @@ gating pore currents in the voltage sensor domain.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -6490,11 +6601,13 @@ gating pore currents in the voltage sensor domain.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRG</span><span class="topo-outside">S</span><span class="topo-unknown">HMYLRITNIV</span><span class="topo-outside">ESSFF</span><span class="topo-membrane">TKFIIYLIVLNGITMGL</span><span class="topo-inside">ETS</span><span class="topo-unknown">KTFMQSF</span><span class="topo-inside">G</span></span>
-<span class="topo-line"><span class="topo-inside">VY</span><span class="topo-membrane">TTLFNQIVITIFTIEIILRI</span><span class="topo-outside">YVHRISFFKDP</span><span class="topo-membrane">WSLFDFFVVAISLVP</span><span class="topo-inside">TS</span><span class="topo-unknown">SGF</span><span class="topo-inside">EIL</span><span class="topo-membrane">RVLR</span></span>
-<span class="topo-line"><span class="topo-membrane">VLRLFRLVTAV</span><span class="topo-unknown">PQMRKIVSALIS</span><span class="topo-outside">VIPGM</span><span class="topo-membrane">LSVIALMTLFFYIFAIMA</span><span class="topo-inside">TQLFGERFPEWFGT</span></span>
-<span class="topo-line"><span class="topo-inside">LGES</span><span class="topo-unknown">FYTLFQVMTLE</span><span class="topo-inside">SWSMGIVRPLMEVYPYAW</span><span class="topo-membrane">VFFIPFIFVVTFVMINLV</span><span class="topo-outside">VAIIVDAMA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRG</span><span class="topo-outside">S</span><span class="topo-unknown">HMYLRITNIV</span><span class="topo-outside">ESSFF</span><span class="topo-membrane">TKFIIYLIVLNGITMGL</span><span class="topo-inside">ETS</span><span class="topo-unknown">KTFMQSF</span><span class="topo-inside">GVY</span><span class="topo-membrane">TTLFNQIVITIFTIEIILRI</span><span class="topo-outside">YVHRISFFKDP</span><span class="topo-membrane">WSLFDFFVVAISLVP</span><span class="topo-inside">TS</span><span class="topo-unknown">SGF</span><span class="topo-inside">EIL</span><span class="topo-membrane">RVLR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">VLRLFRLVTAV</span><span class="topo-unknown">PQMRKIVSALIS</span><span class="topo-outside">VIPGM</span><span class="topo-membrane">LSVIALMTLFFYIFAIMA</span><span class="topo-inside">TQLFGERFPEWFGTLGES</span><span class="topo-unknown">FYTLFQVMTLE</span><span class="topo-inside">SWSMGIVRPLMEVYPYAW</span><span class="topo-membrane">VFFIPFIFVVTFVMINLV</span><span class="topo-outside">VAIIVDAMA</span></span>
+<span class="topo-ruler">       250       </span>
 <span class="topo-line"><span class="topo-outside">ILNQKEEQHIIDEVQSH</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -6653,6 +6766,7 @@ gating pore currents in the voltage sensor domain.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -6668,11 +6782,13 @@ gating pore currents in the voltage sensor domain.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRG</span><span class="topo-outside">S</span><span class="topo-unknown">HMYLRITNIV</span><span class="topo-outside">ESSFF</span><span class="topo-membrane">TKFIIYLIVLNGITMGL</span><span class="topo-inside">ETS</span><span class="topo-unknown">KTFMQSF</span><span class="topo-inside">G</span></span>
-<span class="topo-line"><span class="topo-inside">VY</span><span class="topo-membrane">TTLFNQIVITIFTIEIILRI</span><span class="topo-outside">YVHRISFFKDP</span><span class="topo-membrane">WSLFDFFVVAISLVP</span><span class="topo-inside">TS</span><span class="topo-unknown">SGF</span><span class="topo-inside">EIL</span><span class="topo-membrane">RVLR</span></span>
-<span class="topo-line"><span class="topo-membrane">VLRLFRLVTAV</span><span class="topo-unknown">PQMRKIVSALIS</span><span class="topo-outside">VIPGM</span><span class="topo-membrane">LSVIALMTLFFYIFAIMA</span><span class="topo-inside">TQLFGERFPEWFGT</span></span>
-<span class="topo-line"><span class="topo-inside">LGES</span><span class="topo-unknown">FYTLFQVMTLE</span><span class="topo-inside">SWSMGIVRPLMEVYPYAW</span><span class="topo-membrane">VFFIPFIFVVTFVMINLV</span><span class="topo-outside">VAIIVDAMA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRG</span><span class="topo-outside">S</span><span class="topo-unknown">HMYLRITNIV</span><span class="topo-outside">ESSFF</span><span class="topo-membrane">TKFIIYLIVLNGITMGL</span><span class="topo-inside">ETS</span><span class="topo-unknown">KTFMQSF</span><span class="topo-inside">GVY</span><span class="topo-membrane">TTLFNQIVITIFTIEIILRI</span><span class="topo-outside">YVHRISFFKDP</span><span class="topo-membrane">WSLFDFFVVAISLVP</span><span class="topo-inside">TS</span><span class="topo-unknown">SGF</span><span class="topo-inside">EIL</span><span class="topo-membrane">RVLR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">VLRLFRLVTAV</span><span class="topo-unknown">PQMRKIVSALIS</span><span class="topo-outside">VIPGM</span><span class="topo-membrane">LSVIALMTLFFYIFAIMA</span><span class="topo-inside">TQLFGERFPEWFGTLGES</span><span class="topo-unknown">FYTLFQVMTLE</span><span class="topo-inside">SWSMGIVRPLMEVYPYAW</span><span class="topo-membrane">VFFIPFIFVVTFVMINLV</span><span class="topo-outside">VAIIVDAMA</span></span>
+<span class="topo-ruler">       250       </span>
 <span class="topo-line"><span class="topo-outside">ILNQKEEQHIIDEVQSH</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -6831,6 +6947,7 @@ gating pore currents in the voltage sensor domain.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -6846,11 +6963,13 @@ gating pore currents in the voltage sensor domain.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRG</span><span class="topo-outside">S</span><span class="topo-unknown">HMYLRITNIV</span><span class="topo-outside">ESSFF</span><span class="topo-membrane">TKFIIYLIVLNGITMGL</span><span class="topo-inside">ETS</span><span class="topo-unknown">KTFMQSF</span><span class="topo-inside">G</span></span>
-<span class="topo-line"><span class="topo-inside">VY</span><span class="topo-membrane">TTLFNQIVITIFTIEIILRI</span><span class="topo-outside">YVHRISFFKDP</span><span class="topo-membrane">WSLFDFFVVAISLVP</span><span class="topo-inside">TS</span><span class="topo-unknown">SGF</span><span class="topo-inside">EIL</span><span class="topo-membrane">RVLR</span></span>
-<span class="topo-line"><span class="topo-membrane">VLRLFRLVTAV</span><span class="topo-unknown">PQMRKIVSALIS</span><span class="topo-outside">VIPGM</span><span class="topo-membrane">LSVIALMTLFFYIFAIMA</span><span class="topo-inside">TQLFGERFPEWFGT</span></span>
-<span class="topo-line"><span class="topo-inside">LGES</span><span class="topo-unknown">FYTLFQVMTLE</span><span class="topo-inside">SWSMGIVRPLMEVYPYAW</span><span class="topo-membrane">VFFIPFIFVVTFVMINLV</span><span class="topo-outside">VAIIVDAMA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRG</span><span class="topo-outside">S</span><span class="topo-unknown">HMYLRITNIV</span><span class="topo-outside">ESSFF</span><span class="topo-membrane">TKFIIYLIVLNGITMGL</span><span class="topo-inside">ETS</span><span class="topo-unknown">KTFMQSF</span><span class="topo-inside">GVY</span><span class="topo-membrane">TTLFNQIVITIFTIEIILRI</span><span class="topo-outside">YVHRISFFKDP</span><span class="topo-membrane">WSLFDFFVVAISLVP</span><span class="topo-inside">TS</span><span class="topo-unknown">SGF</span><span class="topo-inside">EIL</span><span class="topo-membrane">RVLR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">VLRLFRLVTAV</span><span class="topo-unknown">PQMRKIVSALIS</span><span class="topo-outside">VIPGM</span><span class="topo-membrane">LSVIALMTLFFYIFAIMA</span><span class="topo-inside">TQLFGERFPEWFGTLGES</span><span class="topo-unknown">FYTLFQVMTLE</span><span class="topo-inside">SWSMGIVRPLMEVYPYAW</span><span class="topo-membrane">VFFIPFIFVVTFVMINLV</span><span class="topo-outside">VAIIVDAMA</span></span>
+<span class="topo-ruler">       250       </span>
 <span class="topo-line"><span class="topo-outside">ILNQKEEQHIIDEVQSH</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -7009,6 +7128,7 @@ gating pore currents in the voltage sensor domain.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -7024,11 +7144,13 @@ gating pore currents in the voltage sensor domain.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRG</span><span class="topo-outside">S</span><span class="topo-unknown">HMYLRITNIV</span><span class="topo-outside">ESSFF</span><span class="topo-membrane">TKFIIYLIVLNGITMGL</span><span class="topo-inside">ETS</span><span class="topo-unknown">KTFMQSF</span><span class="topo-inside">G</span></span>
-<span class="topo-line"><span class="topo-inside">VY</span><span class="topo-membrane">TTLFNQIVITIFTIEIILRI</span><span class="topo-outside">YVHRISFFKDP</span><span class="topo-membrane">WSLFDFFVVAISLVP</span><span class="topo-inside">TS</span><span class="topo-unknown">SGF</span><span class="topo-inside">EIL</span><span class="topo-membrane">RVLR</span></span>
-<span class="topo-line"><span class="topo-membrane">VLRLFRLVTAV</span><span class="topo-unknown">PQMRKIVSALIS</span><span class="topo-outside">VIPGM</span><span class="topo-membrane">LSVIALMTLFFYIFAIMA</span><span class="topo-inside">TQLFGERFPEWFGT</span></span>
-<span class="topo-line"><span class="topo-inside">LGES</span><span class="topo-unknown">FYTLFQVMTLE</span><span class="topo-inside">SWSMGIVRPLMEVYPYAW</span><span class="topo-membrane">VFFIPFIFVVTFVMINLV</span><span class="topo-outside">VAIIVDAMA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRG</span><span class="topo-outside">S</span><span class="topo-unknown">HMYLRITNIV</span><span class="topo-outside">ESSFF</span><span class="topo-membrane">TKFIIYLIVLNGITMGL</span><span class="topo-inside">ETS</span><span class="topo-unknown">KTFMQSF</span><span class="topo-inside">GVY</span><span class="topo-membrane">TTLFNQIVITIFTIEIILRI</span><span class="topo-outside">YVHRISFFKDP</span><span class="topo-membrane">WSLFDFFVVAISLVP</span><span class="topo-inside">TS</span><span class="topo-unknown">SGF</span><span class="topo-inside">EIL</span><span class="topo-membrane">RVLR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">VLRLFRLVTAV</span><span class="topo-unknown">PQMRKIVSALIS</span><span class="topo-outside">VIPGM</span><span class="topo-membrane">LSVIALMTLFFYIFAIMA</span><span class="topo-inside">TQLFGERFPEWFGTLGES</span><span class="topo-unknown">FYTLFQVMTLE</span><span class="topo-inside">SWSMGIVRPLMEVYPYAW</span><span class="topo-membrane">VFFIPFIFVVTFVMINLV</span><span class="topo-outside">VAIIVDAMA</span></span>
+<span class="topo-ruler">       250       </span>
 <span class="topo-line"><span class="topo-outside">ILNQKEEQHIIDEVQSH</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -7187,6 +7309,7 @@ gating pore currents in the voltage sensor domain.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -7202,11 +7325,13 @@ gating pore currents in the voltage sensor domain.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRG</span><span class="topo-outside">S</span><span class="topo-unknown">HMYLRITNIV</span><span class="topo-outside">ESSFF</span><span class="topo-membrane">TKFIIYLIVLNGITMGL</span><span class="topo-inside">ETS</span><span class="topo-unknown">KTFMQSF</span><span class="topo-inside">G</span></span>
-<span class="topo-line"><span class="topo-inside">VY</span><span class="topo-membrane">TTLFNQIVITIFTIEIILRI</span><span class="topo-outside">YVHRISFFKDP</span><span class="topo-membrane">WSLFDFFVVAISLVP</span><span class="topo-inside">TS</span><span class="topo-unknown">SGF</span><span class="topo-inside">EIL</span><span class="topo-membrane">RVLR</span></span>
-<span class="topo-line"><span class="topo-membrane">VLRLFRLVTAV</span><span class="topo-unknown">PQMRKIVSALIS</span><span class="topo-outside">VIPGM</span><span class="topo-membrane">LSVIALMTLFFYIFAIMA</span><span class="topo-inside">TQLFGERFPEWFGT</span></span>
-<span class="topo-line"><span class="topo-inside">LGES</span><span class="topo-unknown">FYTLFQVMTLE</span><span class="topo-inside">SWSMGIVRPLMEVYPYAW</span><span class="topo-membrane">VFFIPFIFVVTFVMINLV</span><span class="topo-outside">VAIIVDAMA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRG</span><span class="topo-outside">S</span><span class="topo-unknown">HMYLRITNIV</span><span class="topo-outside">ESSFF</span><span class="topo-membrane">TKFIIYLIVLNGITMGL</span><span class="topo-inside">ETS</span><span class="topo-unknown">KTFMQSF</span><span class="topo-inside">GVY</span><span class="topo-membrane">TTLFNQIVITIFTIEIILRI</span><span class="topo-outside">YVHRISFFKDP</span><span class="topo-membrane">WSLFDFFVVAISLVP</span><span class="topo-inside">TS</span><span class="topo-unknown">SGF</span><span class="topo-inside">EIL</span><span class="topo-membrane">RVLR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">VLRLFRLVTAV</span><span class="topo-unknown">PQMRKIVSALIS</span><span class="topo-outside">VIPGM</span><span class="topo-membrane">LSVIALMTLFFYIFAIMA</span><span class="topo-inside">TQLFGERFPEWFGTLGES</span><span class="topo-unknown">FYTLFQVMTLE</span><span class="topo-inside">SWSMGIVRPLMEVYPYAW</span><span class="topo-membrane">VFFIPFIFVVTFVMINLV</span><span class="topo-outside">VAIIVDAMA</span></span>
+<span class="topo-ruler">       250       </span>
 <span class="topo-line"><span class="topo-outside">ILNQKEEQHIIDEVQSH</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -7365,6 +7490,7 @@ gating pore currents in the voltage sensor domain.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -7380,11 +7506,13 @@ gating pore currents in the voltage sensor domain.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRG</span><span class="topo-outside">S</span><span class="topo-unknown">HMYLRITNIV</span><span class="topo-outside">ESSFF</span><span class="topo-membrane">TKFIIYLIVLNGITMGL</span><span class="topo-inside">ETS</span><span class="topo-unknown">KTFMQSF</span><span class="topo-inside">G</span></span>
-<span class="topo-line"><span class="topo-inside">VY</span><span class="topo-membrane">TTLFNQIVITIFTIEIILRI</span><span class="topo-outside">YVHRISFFKDP</span><span class="topo-membrane">WSLFDFFVVAISLVP</span><span class="topo-inside">TS</span><span class="topo-unknown">SGF</span><span class="topo-inside">EIL</span><span class="topo-membrane">RVLR</span></span>
-<span class="topo-line"><span class="topo-membrane">VLRLFRLVTAV</span><span class="topo-unknown">PQMRKIVSALIS</span><span class="topo-outside">VIPGM</span><span class="topo-membrane">LSVIALMTLFFYIFAIMA</span><span class="topo-inside">TQLFGERFPEWFGT</span></span>
-<span class="topo-line"><span class="topo-inside">LGES</span><span class="topo-unknown">FYTLFQVMTLE</span><span class="topo-inside">SWSMGIVRPLMEVYPYAW</span><span class="topo-membrane">VFFIPFIFVVTFVMINLV</span><span class="topo-outside">VAIIVDAMA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRG</span><span class="topo-outside">S</span><span class="topo-unknown">HMYLRITNIV</span><span class="topo-outside">ESSFF</span><span class="topo-membrane">TKFIIYLIVLNGITMGL</span><span class="topo-inside">ETS</span><span class="topo-unknown">KTFMQSF</span><span class="topo-inside">GVY</span><span class="topo-membrane">TTLFNQIVITIFTIEIILRI</span><span class="topo-outside">YVHRISFFKDP</span><span class="topo-membrane">WSLFDFFVVAISLVP</span><span class="topo-inside">TS</span><span class="topo-unknown">SGF</span><span class="topo-inside">EIL</span><span class="topo-membrane">RVLR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">VLRLFRLVTAV</span><span class="topo-unknown">PQMRKIVSALIS</span><span class="topo-outside">VIPGM</span><span class="topo-membrane">LSVIALMTLFFYIFAIMA</span><span class="topo-inside">TQLFGERFPEWFGTLGES</span><span class="topo-unknown">FYTLFQVMTLE</span><span class="topo-inside">SWSMGIVRPLMEVYPYAW</span><span class="topo-membrane">VFFIPFIFVVTFVMINLV</span><span class="topo-outside">VAIIVDAMA</span></span>
+<span class="topo-ruler">       250       </span>
 <span class="topo-line"><span class="topo-outside">ILNQKEEQHIIDEVQSH</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -7543,6 +7671,7 @@ gating pore currents in the voltage sensor domain.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -7558,11 +7687,13 @@ gating pore currents in the voltage sensor domain.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRG</span><span class="topo-outside">S</span><span class="topo-unknown">HMYLRITNIV</span><span class="topo-outside">ESSFF</span><span class="topo-membrane">TKFIIYLIVLNGITMGL</span><span class="topo-inside">ETS</span><span class="topo-unknown">KTFMQSF</span><span class="topo-inside">G</span></span>
-<span class="topo-line"><span class="topo-inside">VY</span><span class="topo-membrane">TTLFNQIVITIFTIEIILRI</span><span class="topo-outside">YVHRISFFKDP</span><span class="topo-membrane">WSLFDFFVVAISLVP</span><span class="topo-inside">TS</span><span class="topo-unknown">SGF</span><span class="topo-inside">EIL</span><span class="topo-membrane">RVLR</span></span>
-<span class="topo-line"><span class="topo-membrane">VLRLFRLVTAV</span><span class="topo-unknown">PQMRKIVSALIS</span><span class="topo-outside">VIPGM</span><span class="topo-membrane">LSVIALMTLFFYIFAIMA</span><span class="topo-inside">TQLFGERFPEWFGT</span></span>
-<span class="topo-line"><span class="topo-inside">LGES</span><span class="topo-unknown">FYTLFQVMTLE</span><span class="topo-inside">SWSMGIVRPLMEVYPYAW</span><span class="topo-membrane">VFFIPFIFVVTFVMINLV</span><span class="topo-outside">VAIIVDAMA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRG</span><span class="topo-outside">S</span><span class="topo-unknown">HMYLRITNIV</span><span class="topo-outside">ESSFF</span><span class="topo-membrane">TKFIIYLIVLNGITMGL</span><span class="topo-inside">ETS</span><span class="topo-unknown">KTFMQSF</span><span class="topo-inside">GVY</span><span class="topo-membrane">TTLFNQIVITIFTIEIILRI</span><span class="topo-outside">YVHRISFFKDP</span><span class="topo-membrane">WSLFDFFVVAISLVP</span><span class="topo-inside">TS</span><span class="topo-unknown">SGF</span><span class="topo-inside">EIL</span><span class="topo-membrane">RVLR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">VLRLFRLVTAV</span><span class="topo-unknown">PQMRKIVSALIS</span><span class="topo-outside">VIPGM</span><span class="topo-membrane">LSVIALMTLFFYIFAIMA</span><span class="topo-inside">TQLFGERFPEWFGTLGES</span><span class="topo-unknown">FYTLFQVMTLE</span><span class="topo-inside">SWSMGIVRPLMEVYPYAW</span><span class="topo-membrane">VFFIPFIFVVTFVMINLV</span><span class="topo-outside">VAIIVDAMA</span></span>
+<span class="topo-ruler">       250       </span>
 <span class="topo-line"><span class="topo-outside">ILNQKEEQHIIDEVQSH</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -7721,6 +7852,7 @@ gating pore currents in the voltage sensor domain.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

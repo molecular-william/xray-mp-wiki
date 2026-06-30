@@ -136,19 +136,21 @@ AtTPC1 is a vacuolar two-pore channel (TPC) from Arabidopsis thaliana that
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MEDPLIGRDSLGGGGTDRVRRSEAITHGTPF</span><span class="topo-outside">QKAAALVDLAEDGIGLPVEILD</span><span class="topo-unknown">QSSFGES</span></span>
-<span class="topo-line"><span class="topo-unknown">A</span><span class="topo-outside">RYYFIFTRLDLI</span><span class="topo-membrane">WSLNYFALLFLNFFEQPLW</span><span class="topo-inside">CEKNPKPSCKDRDYYYLGELPYLTNAE</span><span class="topo-membrane">S</span></span>
-<span class="topo-line"><span class="topo-membrane">IIYEVITLAILLVHTF</span><span class="topo-outside">FPISYEGSRIFWTSRLNL</span><span class="topo-membrane">VKVACVVILFVDVLVDFL</span><span class="topo-inside">Y</span><span class="topo-unknown">LSPLAFD</span></span>
-<span class="topo-line"><span class="topo-unknown">FLP</span><span class="topo-inside">F</span><span class="topo-membrane">RIAPYVRVIIFILSI</span><span class="topo-outside">RELRDTLVLLSGMLGTY</span><span class="topo-membrane">LNILALWMLFLLFASWIAFVMF</span><span class="topo-inside">ED</span></span>
-<span class="topo-line"><span class="topo-inside">TQQGLTVFTSY</span><span class="topo-unknown">GATLYQMFILFTTSNNP</span><span class="topo-inside">DVWIPAYKSSR</span><span class="topo-membrane">WSSVFFVLYVLIGVYFVTNLI</span></span>
-<span class="topo-line"><span class="topo-membrane">LA</span><span class="topo-outside">VVYDSFKEQLAKQVSGMDQMKRRMLEKAFGLIDSDKNGEIDKNQCIKLFEQLTNYRTL</span></span>
-<span class="topo-line"><span class="topo-outside">PKISKEEFGLIFDELDDTRDFKINKDEFADLCQAIALRFQKE</span><span class="topo-unknown">EVPSLFEHFPQI</span><span class="topo-outside">YHSALS</span></span>
-<span class="topo-line"><span class="topo-outside">QQLRAFVRSPNFGY</span><span class="topo-membrane">AISFILIINFIAVVVETT</span><span class="topo-inside">LDIEESSAQKP</span><span class="topo-membrane">WQVAEFVFGWIYVLEMA</span></span>
-<span class="topo-line"><span class="topo-membrane">LKI</span><span class="topo-outside">YTYGFENYWREG</span><span class="topo-membrane">ANRFDFLVTWVIVIGETATFI</span><span class="topo-inside">TP</span><span class="topo-unknown">DENTF</span><span class="topo-inside">FSNG</span><span class="topo-membrane">EWIRYLLLARMLR</span></span>
-<span class="topo-line"><span class="topo-membrane">LIRLL</span><span class="topo-outside">MNVQRYRAFIATFITL</span><span class="topo-membrane">IPSLMPYLGTIFCVLCIYCSIGVQ</span><span class="topo-inside">VFGGL</span><span class="topo-unknown">VNAG</span><span class="topo-inside">NKKLFE</span></span>
-<span class="topo-line"><span class="topo-inside">TELAEDDYLLFNFNDYPNG</span><span class="topo-unknown">MVTLFNLLVMGNWQ</span><span class="topo-inside">VWMESYKDLTGTWW</span><span class="topo-membrane">SITYFVSFYVITI</span></span>
-<span class="topo-line"><span class="topo-membrane">LLLLNLVVAFV</span><span class="topo-outside">LEAFFTELDLEEEEK</span><span class="topo-unknown">CQGQDSQEKRNRRRSAGSKSRSQRVDTLLHHMLG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MEDPLIGRDSLGGGGTDRVRRSEAITHGTPF</span><span class="topo-outside">QKAAALVDLAEDGIGLPVEILD</span><span class="topo-unknown">QSSFGESA</span><span class="topo-outside">RYYFIFTRLDLI</span><span class="topo-membrane">WSLNYFALLFLNFFEQPLW</span><span class="topo-inside">CEKNPKPSCKDRDYYYLGELPYLTNAE</span><span class="topo-membrane">S</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">IIYEVITLAILLVHTF</span><span class="topo-outside">FPISYEGSRIFWTSRLNL</span><span class="topo-membrane">VKVACVVILFVDVLVDFL</span><span class="topo-inside">Y</span><span class="topo-unknown">LSPLAFDFLP</span><span class="topo-inside">F</span><span class="topo-membrane">RIAPYVRVIIFILSI</span><span class="topo-outside">RELRDTLVLLSGMLGTY</span><span class="topo-membrane">LNILALWMLFLLFASWIAFVMF</span><span class="topo-inside">ED</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">TQQGLTVFTSY</span><span class="topo-unknown">GATLYQMFILFTTSNNP</span><span class="topo-inside">DVWIPAYKSSR</span><span class="topo-membrane">WSSVFFVLYVLIGVYFVTNLILA</span><span class="topo-outside">VVYDSFKEQLAKQVSGMDQMKRRMLEKAFGLIDSDKNGEIDKNQCIKLFEQLTNYRTL</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">PKISKEEFGLIFDELDDTRDFKINKDEFADLCQAIALRFQKE</span><span class="topo-unknown">EVPSLFEHFPQI</span><span class="topo-outside">YHSALSQQLRAFVRSPNFGY</span><span class="topo-membrane">AISFILIINFIAVVVETT</span><span class="topo-inside">LDIEESSAQKP</span><span class="topo-membrane">WQVAEFVFGWIYVLEMA</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-membrane">LKI</span><span class="topo-outside">YTYGFENYWREG</span><span class="topo-membrane">ANRFDFLVTWVIVIGETATFI</span><span class="topo-inside">TP</span><span class="topo-unknown">DENTF</span><span class="topo-inside">FSNG</span><span class="topo-membrane">EWIRYLLLARMLRLIRLL</span><span class="topo-outside">MNVQRYRAFIATFITL</span><span class="topo-membrane">IPSLMPYLGTIFCVLCIYCSIGVQ</span><span class="topo-inside">VFGGL</span><span class="topo-unknown">VNAG</span><span class="topo-inside">NKKLFE</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-inside">TELAEDDYLLFNFNDYPNG</span><span class="topo-unknown">MVTLFNLLVMGNWQ</span><span class="topo-inside">VWMESYKDLTGTWW</span><span class="topo-membrane">SITYFVSFYVITILLLLNLVVAFV</span><span class="topo-outside">LEAFFTELDLEEEEK</span><span class="topo-unknown">CQGQDSQEKRNRRRSAGSKSRSQRVDTLLHHMLG</span></span>
+<span class="topo-ruler">       730       740 </span>
 <span class="topo-line"><span class="topo-unknown">DELSKPECSTSDTSTAGLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (41 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -447,6 +449,7 @@ AtTPC1 is a vacuolar two-pore channel (TPC) from Arabidopsis thaliana that
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -462,19 +465,21 @@ AtTPC1 is a vacuolar two-pore channel (TPC) from Arabidopsis thaliana that
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MEDPLIGRDSLGGGGTDRVRRSEAITHGTPF</span><span class="topo-outside">QKAAALVDLAEDGIGLPVEILD</span><span class="topo-unknown">QSSFGES</span></span>
-<span class="topo-line"><span class="topo-unknown">A</span><span class="topo-outside">RYYFIFTRLDLIWSLN</span><span class="topo-membrane">YFALLFLNFFEQPLWCE</span><span class="topo-inside">KNPKPSCKDRDYYYLGELP</span><span class="topo-membrane">YLTNAES</span></span>
-<span class="topo-line"><span class="topo-membrane">IIYEVITLAILLVH</span><span class="topo-outside">TFFPISYEGSRIFWTSRLNLV</span><span class="topo-membrane">KVACVVILFVDVLVDFLY</span><span class="topo-unknown">LSPLAFD</span></span>
-<span class="topo-line"><span class="topo-unknown">FLP</span><span class="topo-inside">F</span><span class="topo-membrane">RIAPYVRVIIFILSI</span><span class="topo-outside">RELRDTLVLLSGML</span><span class="topo-membrane">GTYLNILALWMLFLLFASWIAFVM</span><span class="topo-inside">FED</span></span>
-<span class="topo-line"><span class="topo-inside">TQQGLTVFTSYGAT</span><span class="topo-unknown">LYQMFILFTTSNNP</span><span class="topo-inside">DVWIPAYKSSRW</span><span class="topo-membrane">SSVFFVLYVLIGVYFVTNLI</span></span>
-<span class="topo-line"><span class="topo-membrane">LAVV</span><span class="topo-outside">YDSFKEQLAKQVSGMDQMKRRMLEKAFGLIDSDKNGEIDKNQCIKLFEQLTNYRTL</span></span>
-<span class="topo-line"><span class="topo-outside">PKISKEEFGLIFDELDDTRDFKINKDEFADLCQAIALRFQKE</span><span class="topo-unknown">EVPSLFEHFPQI</span><span class="topo-outside">YHSALS</span></span>
-<span class="topo-line"><span class="topo-outside">QQLRAFVRSPNFGYAI</span><span class="topo-membrane">SFILIINFIAVVVETTLD</span><span class="topo-inside">IEESSA</span><span class="topo-membrane">QKPWQVAEFVFGWIYVLEM</span><span class="topo-outside">A</span></span>
-<span class="topo-line"><span class="topo-outside">LKIYTYGFENYWREGANRF</span><span class="topo-membrane">DFLVTWVIVIGETATFITP</span><span class="topo-unknown">DENTF</span><span class="topo-inside">F</span><span class="topo-membrane">SNGEWIRYLLLARMLR</span></span>
-<span class="topo-line"><span class="topo-membrane">LI</span><span class="topo-outside">RLLMNVQRYRAFIATFITLIPSL</span><span class="topo-membrane">MPYLGTIFCVLCIYCSIGVQV</span><span class="topo-inside">FGGL</span><span class="topo-unknown">VNAG</span><span class="topo-inside">NKKLFE</span></span>
-<span class="topo-line"><span class="topo-inside">TELAEDDYLLFNFNDY</span><span class="topo-unknown">PNGMVTLFNLLVMGNWQ</span><span class="topo-inside">VWMESYKDLTGTWW</span><span class="topo-membrane">SITYFVSFYVITI</span></span>
-<span class="topo-line"><span class="topo-membrane">LLLLNLVVA</span><span class="topo-outside">FVLEAFFTELDLEEEEK</span><span class="topo-unknown">CQGQDSQEKRNRRRSAGSKSRSQRVDTLLHHMLG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MEDPLIGRDSLGGGGTDRVRRSEAITHGTPF</span><span class="topo-outside">QKAAALVDLAEDGIGLPVEILD</span><span class="topo-unknown">QSSFGESA</span><span class="topo-outside">RYYFIFTRLDLIWSLN</span><span class="topo-membrane">YFALLFLNFFEQPLWCE</span><span class="topo-inside">KNPKPSCKDRDYYYLGELP</span><span class="topo-membrane">YLTNAES</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">IIYEVITLAILLVH</span><span class="topo-outside">TFFPISYEGSRIFWTSRLNLV</span><span class="topo-membrane">KVACVVILFVDVLVDFLY</span><span class="topo-unknown">LSPLAFDFLP</span><span class="topo-inside">F</span><span class="topo-membrane">RIAPYVRVIIFILSI</span><span class="topo-outside">RELRDTLVLLSGML</span><span class="topo-membrane">GTYLNILALWMLFLLFASWIAFVM</span><span class="topo-inside">FED</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">TQQGLTVFTSYGAT</span><span class="topo-unknown">LYQMFILFTTSNNP</span><span class="topo-inside">DVWIPAYKSSRW</span><span class="topo-membrane">SSVFFVLYVLIGVYFVTNLILAVV</span><span class="topo-outside">YDSFKEQLAKQVSGMDQMKRRMLEKAFGLIDSDKNGEIDKNQCIKLFEQLTNYRTL</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">PKISKEEFGLIFDELDDTRDFKINKDEFADLCQAIALRFQKE</span><span class="topo-unknown">EVPSLFEHFPQI</span><span class="topo-outside">YHSALSQQLRAFVRSPNFGYAI</span><span class="topo-membrane">SFILIINFIAVVVETTLD</span><span class="topo-inside">IEESSA</span><span class="topo-membrane">QKPWQVAEFVFGWIYVLEM</span><span class="topo-outside">A</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">LKIYTYGFENYWREGANRF</span><span class="topo-membrane">DFLVTWVIVIGETATFITP</span><span class="topo-unknown">DENTF</span><span class="topo-inside">F</span><span class="topo-membrane">SNGEWIRYLLLARMLRLI</span><span class="topo-outside">RLLMNVQRYRAFIATFITLIPSL</span><span class="topo-membrane">MPYLGTIFCVLCIYCSIGVQV</span><span class="topo-inside">FGGL</span><span class="topo-unknown">VNAG</span><span class="topo-inside">NKKLFE</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-inside">TELAEDDYLLFNFNDY</span><span class="topo-unknown">PNGMVTLFNLLVMGNWQ</span><span class="topo-inside">VWMESYKDLTGTWW</span><span class="topo-membrane">SITYFVSFYVITILLLLNLVVA</span><span class="topo-outside">FVLEAFFTELDLEEEEK</span><span class="topo-unknown">CQGQDSQEKRNRRRSAGSKSRSQRVDTLLHHMLG</span></span>
+<span class="topo-ruler">       730       740 </span>
 <span class="topo-line"><span class="topo-unknown">DELSKPECSTSDTSTAGLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (39 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -759,6 +764,7 @@ AtTPC1 is a vacuolar two-pore channel (TPC) from Arabidopsis thaliana that
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

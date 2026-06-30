@@ -147,15 +147,17 @@ CaiT is an [L-Carnitine](/xray-mp-wiki/reagents/ligands/l-carnitine/)/[Gamma-But
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MKNEKRKTGIE</span><span class="topo-outside">PKVF</span><span class="topo-membrane">FPPLIIVGILCWL</span><span class="topo-inside">TVRD</span><span class="topo-unknown">LDAANVVINAVFSY</span><span class="topo-membrane">VTNVWGWAFEWYMV</span></span>
-<span class="topo-line"><span class="topo-membrane">VML</span><span class="topo-outside">FGWFWLVFGPYAKKRLGNEPPEFSTASWIFMMF</span><span class="topo-membrane">ASCTSAAVLFWGS</span><span class="topo-inside">IEIYYYISTPP</span></span>
-<span class="topo-line"><span class="topo-inside">FGLEPNSTGAKEL</span><span class="topo-membrane">GLAYSLFHWGPLPWAT</span><span class="topo-outside">YSFLSVAFAYFFFVRKMEVIRPSSTLVPLVG</span></span>
-<span class="topo-line"><span class="topo-outside">EKHAKGLFGTIVDN</span><span class="topo-membrane">FYLVALIFAMGTSLGLATPLV</span><span class="topo-inside">TECMQWLFGIPHTLQLD</span><span class="topo-membrane">AIIITCWI</span></span>
-<span class="topo-line"><span class="topo-membrane">ILNAIC</span><span class="topo-outside">VACGLQKGVRI</span><span class="topo-membrane">ASDVRSYLSFLMLGWVFIVSG</span><span class="topo-inside">A</span><span class="topo-unknown">SFIMNYFTDSVGML</span><span class="topo-inside">L</span><span class="topo-unknown">MYLPRM</span></span>
-<span class="topo-line"><span class="topo-unknown">LFYTD</span><span class="topo-inside">PIAKGGFP</span><span class="topo-membrane">QGWTVFYWAWWVIYA</span><span class="topo-outside">IQMSIFLARISRGRTVRELCFGMVLGL</span><span class="topo-membrane">TASTW</span></span>
-<span class="topo-line"><span class="topo-membrane">ILWTVLGSN</span><span class="topo-inside">TLLLIDKNIINIPNLIEQYG</span><span class="topo-unknown">VARAIIETWA</span><span class="topo-inside">ALPLSTA</span><span class="topo-membrane">TMWGFFILCFIATV</span></span>
-<span class="topo-line"><span class="topo-membrane">TLVNACS</span><span class="topo-outside">YTLAMSTCREVRDGEEPPLL</span><span class="topo-membrane">VRIGWSILVGIIGIVL</span><span class="topo-inside">LALGGLKP</span><span class="topo-membrane">IQTAIIAGG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MKNEKRKTGIE</span><span class="topo-outside">PKVF</span><span class="topo-membrane">FPPLIIVGILCWL</span><span class="topo-inside">TVRD</span><span class="topo-unknown">LDAANVVINAVFSY</span><span class="topo-membrane">VTNVWGWAFEWYMVVML</span><span class="topo-outside">FGWFWLVFGPYAKKRLGNEPPEFSTASWIFMMF</span><span class="topo-membrane">ASCTSAAVLFWGS</span><span class="topo-inside">IEIYYYISTPP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FGLEPNSTGAKEL</span><span class="topo-membrane">GLAYSLFHWGPLPWAT</span><span class="topo-outside">YSFLSVAFAYFFFVRKMEVIRPSSTLVPLVGEKHAKGLFGTIVDN</span><span class="topo-membrane">FYLVALIFAMGTSLGLATPLV</span><span class="topo-inside">TECMQWLFGIPHTLQLD</span><span class="topo-membrane">AIIITCWI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">ILNAIC</span><span class="topo-outside">VACGLQKGVRI</span><span class="topo-membrane">ASDVRSYLSFLMLGWVFIVSG</span><span class="topo-inside">A</span><span class="topo-unknown">SFIMNYFTDSVGML</span><span class="topo-inside">L</span><span class="topo-unknown">MYLPRMLFYTD</span><span class="topo-inside">PIAKGGFP</span><span class="topo-membrane">QGWTVFYWAWWVIYA</span><span class="topo-outside">IQMSIFLARISRGRTVRELCFGMVLGL</span><span class="topo-membrane">TASTW</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">ILWTVLGSN</span><span class="topo-inside">TLLLIDKNIINIPNLIEQYG</span><span class="topo-unknown">VARAIIETWA</span><span class="topo-inside">ALPLSTA</span><span class="topo-membrane">TMWGFFILCFIATVTLVNACS</span><span class="topo-outside">YTLAMSTCREVRDGEEPPLL</span><span class="topo-membrane">VRIGWSILVGIIGIVL</span><span class="topo-inside">LALGGLKP</span><span class="topo-membrane">IQTAIIAGG</span></span>
+<span class="topo-ruler">       490       500    </span>
 <span class="topo-line"><span class="topo-membrane">CPLFFV</span><span class="topo-outside">NIMVTLSFIKDAKQNWKD</span></span>
+<details class="topo-details"><summary>Topology coordinates (33 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -398,6 +400,7 @@ CaiT is an [L-Carnitine](/xray-mp-wiki/reagents/ligands/l-carnitine/)/[Gamma-But
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -413,15 +416,17 @@ CaiT is an [L-Carnitine](/xray-mp-wiki/reagents/ligands/l-carnitine/)/[Gamma-But
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MKNEKRKTGIE</span><span class="topo-outside">PKVF</span><span class="topo-membrane">FPPLIIVGILCWL</span><span class="topo-inside">TVRD</span><span class="topo-unknown">LDAANVVINAVFSY</span><span class="topo-membrane">VTNVWGWAFEWYMV</span></span>
-<span class="topo-line"><span class="topo-membrane">VML</span><span class="topo-outside">FGWFWLVFGPYAKKRLGNEPPEFSTASWIFMMF</span><span class="topo-membrane">ASCTSAAVLFWGS</span><span class="topo-inside">IEIYYYISTPP</span></span>
-<span class="topo-line"><span class="topo-inside">FGLEPNSTGAKEL</span><span class="topo-membrane">GLAYSLFHWGPLPWAT</span><span class="topo-outside">YSFLSVAFAYFFFVRKMEVIRPSSTLVPLVG</span></span>
-<span class="topo-line"><span class="topo-outside">EKHAKGLFGTIVDN</span><span class="topo-membrane">FYLVALIFAMGTSLGLATPLV</span><span class="topo-inside">TECMQWLFGIPHTLQLD</span><span class="topo-membrane">AIIITCWI</span></span>
-<span class="topo-line"><span class="topo-membrane">ILNAIC</span><span class="topo-outside">VACGLQKGVRI</span><span class="topo-membrane">ASDVRSYLSFLMLGWVFIVSG</span><span class="topo-inside">A</span><span class="topo-unknown">SFIMNYFTDSVGML</span><span class="topo-inside">L</span><span class="topo-unknown">MYLPRM</span></span>
-<span class="topo-line"><span class="topo-unknown">LFYTD</span><span class="topo-inside">PIAKGGFP</span><span class="topo-membrane">QGWTVFYWAWWVIYA</span><span class="topo-outside">IQMSIFLARISRGRTVRELCFGMVLGL</span><span class="topo-membrane">TASTW</span></span>
-<span class="topo-line"><span class="topo-membrane">ILWTVLGSN</span><span class="topo-inside">TLLLIDKNIINIPNLIEQYG</span><span class="topo-unknown">VARAIIETWA</span><span class="topo-inside">ALPLSTA</span><span class="topo-membrane">TMWGFFILCFIATV</span></span>
-<span class="topo-line"><span class="topo-membrane">TLVNACS</span><span class="topo-outside">YTLAMSTCREVRDGEEPPLL</span><span class="topo-membrane">VRIGWSILVGIIGIVL</span><span class="topo-inside">LALGGLKP</span><span class="topo-membrane">IQTAIIAGG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MKNEKRKTGIE</span><span class="topo-outside">PKVF</span><span class="topo-membrane">FPPLIIVGILCWL</span><span class="topo-inside">TVRD</span><span class="topo-unknown">LDAANVVINAVFSY</span><span class="topo-membrane">VTNVWGWAFEWYMVVML</span><span class="topo-outside">FGWFWLVFGPYAKKRLGNEPPEFSTASWIFMMF</span><span class="topo-membrane">ASCTSAAVLFWGS</span><span class="topo-inside">IEIYYYISTPP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FGLEPNSTGAKEL</span><span class="topo-membrane">GLAYSLFHWGPLPWAT</span><span class="topo-outside">YSFLSVAFAYFFFVRKMEVIRPSSTLVPLVGEKHAKGLFGTIVDN</span><span class="topo-membrane">FYLVALIFAMGTSLGLATPLV</span><span class="topo-inside">TECMQWLFGIPHTLQLD</span><span class="topo-membrane">AIIITCWI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">ILNAIC</span><span class="topo-outside">VACGLQKGVRI</span><span class="topo-membrane">ASDVRSYLSFLMLGWVFIVSG</span><span class="topo-inside">A</span><span class="topo-unknown">SFIMNYFTDSVGML</span><span class="topo-inside">L</span><span class="topo-unknown">MYLPRMLFYTD</span><span class="topo-inside">PIAKGGFP</span><span class="topo-membrane">QGWTVFYWAWWVIYA</span><span class="topo-outside">IQMSIFLARISRGRTVRELCFGMVLGL</span><span class="topo-membrane">TASTW</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">ILWTVLGSN</span><span class="topo-inside">TLLLIDKNIINIPNLIEQYG</span><span class="topo-unknown">VARAIIETWA</span><span class="topo-inside">ALPLSTA</span><span class="topo-membrane">TMWGFFILCFIATVTLVNACS</span><span class="topo-outside">YTLAMSTCREVRDGEEPPLL</span><span class="topo-membrane">VRIGWSILVGIIGIVL</span><span class="topo-inside">LALGGLKP</span><span class="topo-membrane">IQTAIIAGG</span></span>
+<span class="topo-ruler">       490       500    </span>
 <span class="topo-line"><span class="topo-membrane">CPLFFV</span><span class="topo-outside">NIMVTLSFIKDAKQNWKD</span></span>
+<details class="topo-details"><summary>Topology coordinates (33 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -664,6 +669,7 @@ CaiT is an [L-Carnitine](/xray-mp-wiki/reagents/ligands/l-carnitine/)/[Gamma-But
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -679,15 +685,17 @@ CaiT is an [L-Carnitine](/xray-mp-wiki/reagents/ligands/l-carnitine/)/[Gamma-But
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MKNEKRKTGIE</span><span class="topo-outside">PKVF</span><span class="topo-membrane">FPPLIIVGILCWL</span><span class="topo-inside">TVRD</span><span class="topo-unknown">LDAANVVINAVFSY</span><span class="topo-membrane">VTNVWGWAFEWYMV</span></span>
-<span class="topo-line"><span class="topo-membrane">VML</span><span class="topo-outside">FGWFWLVFGPYAKKRLGNEPPEFSTASWIFMMF</span><span class="topo-membrane">ASCTSAAVLFWGS</span><span class="topo-inside">IEIYYYISTPP</span></span>
-<span class="topo-line"><span class="topo-inside">FGLEPNSTGAKEL</span><span class="topo-membrane">GLAYSLFHWGPLPWAT</span><span class="topo-outside">YSFLSVAFAYFFFVRKMEVIRPSSTLVPLVG</span></span>
-<span class="topo-line"><span class="topo-outside">EKHAKGLFGTIVDN</span><span class="topo-membrane">FYLVALIFAMGTSLGLATPLV</span><span class="topo-inside">TECMQWLFGIPHTLQLD</span><span class="topo-membrane">AIIITCWI</span></span>
-<span class="topo-line"><span class="topo-membrane">ILNAIC</span><span class="topo-outside">VACGLQKGVRI</span><span class="topo-membrane">ASDVRSYLSFLMLGWVFIVSG</span><span class="topo-inside">A</span><span class="topo-unknown">SFIMNYFTDSVGML</span><span class="topo-inside">L</span><span class="topo-unknown">MYLPRM</span></span>
-<span class="topo-line"><span class="topo-unknown">LFYTD</span><span class="topo-inside">PIAKGGFP</span><span class="topo-membrane">QGWTVFYWAWWVIYA</span><span class="topo-outside">IQMSIFLARISRGRTVRELCFGMVLGL</span><span class="topo-membrane">TASTW</span></span>
-<span class="topo-line"><span class="topo-membrane">ILWTVLGSN</span><span class="topo-inside">TLLLIDKNIINIPNLIEQYG</span><span class="topo-unknown">VARAIIETWA</span><span class="topo-inside">ALPLSTA</span><span class="topo-membrane">TMWGFFILCFIATV</span></span>
-<span class="topo-line"><span class="topo-membrane">TLVNACS</span><span class="topo-outside">YTLAMSTCREVRDGEEPPLL</span><span class="topo-membrane">VRIGWSILVGIIGIVL</span><span class="topo-inside">LALGGLKP</span><span class="topo-membrane">IQTAIIAGG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MKNEKRKTGIE</span><span class="topo-outside">PKVF</span><span class="topo-membrane">FPPLIIVGILCWL</span><span class="topo-inside">TVRD</span><span class="topo-unknown">LDAANVVINAVFSY</span><span class="topo-membrane">VTNVWGWAFEWYMVVML</span><span class="topo-outside">FGWFWLVFGPYAKKRLGNEPPEFSTASWIFMMF</span><span class="topo-membrane">ASCTSAAVLFWGS</span><span class="topo-inside">IEIYYYISTPP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FGLEPNSTGAKEL</span><span class="topo-membrane">GLAYSLFHWGPLPWAT</span><span class="topo-outside">YSFLSVAFAYFFFVRKMEVIRPSSTLVPLVGEKHAKGLFGTIVDN</span><span class="topo-membrane">FYLVALIFAMGTSLGLATPLV</span><span class="topo-inside">TECMQWLFGIPHTLQLD</span><span class="topo-membrane">AIIITCWI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">ILNAIC</span><span class="topo-outside">VACGLQKGVRI</span><span class="topo-membrane">ASDVRSYLSFLMLGWVFIVSG</span><span class="topo-inside">A</span><span class="topo-unknown">SFIMNYFTDSVGML</span><span class="topo-inside">L</span><span class="topo-unknown">MYLPRMLFYTD</span><span class="topo-inside">PIAKGGFP</span><span class="topo-membrane">QGWTVFYWAWWVIYA</span><span class="topo-outside">IQMSIFLARISRGRTVRELCFGMVLGL</span><span class="topo-membrane">TASTW</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">ILWTVLGSN</span><span class="topo-inside">TLLLIDKNIINIPNLIEQYG</span><span class="topo-unknown">VARAIIETWA</span><span class="topo-inside">ALPLSTA</span><span class="topo-membrane">TMWGFFILCFIATVTLVNACS</span><span class="topo-outside">YTLAMSTCREVRDGEEPPLL</span><span class="topo-membrane">VRIGWSILVGIIGIVL</span><span class="topo-inside">LALGGLKP</span><span class="topo-membrane">IQTAIIAGG</span></span>
+<span class="topo-ruler">       490       500    </span>
 <span class="topo-line"><span class="topo-membrane">CPLFFV</span><span class="topo-outside">NIMVTLSFIKDAKQNWKD</span></span>
+<details class="topo-details"><summary>Topology coordinates (33 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -930,6 +938,7 @@ CaiT is an [L-Carnitine](/xray-mp-wiki/reagents/ligands/l-carnitine/)/[Gamma-But
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1012,15 +1021,17 @@ CaiT is an [L-Carnitine](/xray-mp-wiki/reagents/ligands/l-carnitine/)/[Gamma-But
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSKDNKKA</span><span class="topo-outside">GIEPKVF</span><span class="topo-membrane">FPPLIIVGILCWLT</span><span class="topo-inside">VRDLDA</span><span class="topo-unknown">SNEVINAVFSY</span><span class="topo-membrane">VTNVWGWAFEWYMV</span></span>
-<span class="topo-line"><span class="topo-membrane">IMFG</span><span class="topo-outside">GWFWLVFGRYAKKRLGDEKPEFSTASWIFMMF</span><span class="topo-membrane">ASCTSAAVLFWGS</span><span class="topo-inside">IEIYYYISSPP</span></span>
-<span class="topo-line"><span class="topo-inside">FGMEGYSAPAKEI</span><span class="topo-membrane">GLAYSLFHWGPLPWATY</span><span class="topo-outside">SFLSVAFAYFFFVRKMEVIRPSSTLVPLVG</span></span>
-<span class="topo-line"><span class="topo-outside">EKHVNGLFGTVVDN</span><span class="topo-membrane">FYLVALILAMGTSLGLATPLVT</span><span class="topo-inside">ECIQYLFGIPHTLQLD</span><span class="topo-membrane">AIIISCWI</span></span>
-<span class="topo-line"><span class="topo-membrane">LLNAIC</span><span class="topo-outside">VAFGLQKGVKIA</span><span class="topo-membrane">SDVETYLSFLMLGWVFIVGG</span><span class="topo-inside">ASFIVNYFTDSVGTLLMYMPRM</span></span>
-<span class="topo-line"><span class="topo-inside">LFYTDPIGKGGFP</span><span class="topo-membrane">QAWTVFYWAWWVIYA</span><span class="topo-outside">IQMSIFLARISKGRTVRELCLGMV</span><span class="topo-membrane">SGLTAGTW</span></span>
-<span class="topo-line"><span class="topo-membrane">LIWTILGGN</span><span class="topo-inside">TLQLIDQNILNIPQLIDQYG</span><span class="topo-unknown">VPRAIIETWA</span><span class="topo-inside">ALPLSTA</span><span class="topo-membrane">TMWGFFILCFIATV</span></span>
-<span class="topo-line"><span class="topo-membrane">TLINACS</span><span class="topo-outside">YTLAMSTCRSMKEGADPPLL</span><span class="topo-membrane">VRIGWSVLVGIIGIILL</span><span class="topo-inside">ALGGLKP</span><span class="topo-membrane">IQTAIIAGG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSKDNKKA</span><span class="topo-outside">GIEPKVF</span><span class="topo-membrane">FPPLIIVGILCWLT</span><span class="topo-inside">VRDLDA</span><span class="topo-unknown">SNEVINAVFSY</span><span class="topo-membrane">VTNVWGWAFEWYMVIMFG</span><span class="topo-outside">GWFWLVFGRYAKKRLGDEKPEFSTASWIFMMF</span><span class="topo-membrane">ASCTSAAVLFWGS</span><span class="topo-inside">IEIYYYISSPP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FGMEGYSAPAKEI</span><span class="topo-membrane">GLAYSLFHWGPLPWATY</span><span class="topo-outside">SFLSVAFAYFFFVRKMEVIRPSSTLVPLVGEKHVNGLFGTVVDN</span><span class="topo-membrane">FYLVALILAMGTSLGLATPLVT</span><span class="topo-inside">ECIQYLFGIPHTLQLD</span><span class="topo-membrane">AIIISCWI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">LLNAIC</span><span class="topo-outside">VAFGLQKGVKIA</span><span class="topo-membrane">SDVETYLSFLMLGWVFIVGG</span><span class="topo-inside">ASFIVNYFTDSVGTLLMYMPRMLFYTDPIGKGGFP</span><span class="topo-membrane">QAWTVFYWAWWVIYA</span><span class="topo-outside">IQMSIFLARISKGRTVRELCLGMV</span><span class="topo-membrane">SGLTAGTW</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">LIWTILGGN</span><span class="topo-inside">TLQLIDQNILNIPQLIDQYG</span><span class="topo-unknown">VPRAIIETWA</span><span class="topo-inside">ALPLSTA</span><span class="topo-membrane">TMWGFFILCFIATVTLINACS</span><span class="topo-outside">YTLAMSTCRSMKEGADPPLL</span><span class="topo-membrane">VRIGWSVLVGIIGIILL</span><span class="topo-inside">ALGGLKP</span><span class="topo-membrane">IQTAIIAGG</span></span>
+<span class="topo-ruler">       490       500    </span>
 <span class="topo-line"><span class="topo-membrane">CPLFFVN</span><span class="topo-outside">IMVTLSFIKDAKVHWK</span><span class="topo-unknown">D</span></span>
+<details class="topo-details"><summary>Topology coordinates (30 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1242,6 +1253,7 @@ CaiT is an [L-Carnitine](/xray-mp-wiki/reagents/ligands/l-carnitine/)/[Gamma-But
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1257,15 +1269,17 @@ CaiT is an [L-Carnitine](/xray-mp-wiki/reagents/ligands/l-carnitine/)/[Gamma-But
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSKDNKKA</span><span class="topo-outside">GIEPKVF</span><span class="topo-membrane">FPPLIIVGILCWLT</span><span class="topo-inside">VRDLDA</span><span class="topo-unknown">SNEVINAVFSY</span><span class="topo-membrane">VTNVWGWAFEWYMV</span></span>
-<span class="topo-line"><span class="topo-membrane">IMFG</span><span class="topo-outside">GWFWLVFGRYAKKRLGDEKPEFSTASWIFMMF</span><span class="topo-membrane">ASCTSAAVLFWGS</span><span class="topo-inside">IEIYYYISSPP</span></span>
-<span class="topo-line"><span class="topo-inside">FGMEGYSAPAKEI</span><span class="topo-membrane">GLAYSLFHWGPLPWATY</span><span class="topo-outside">SFLSVAFAYFFFVRKMEVIRPSSTLVPLVG</span></span>
-<span class="topo-line"><span class="topo-outside">EKHVNGLFGTVVDN</span><span class="topo-membrane">FYLVALILAMGTSLGLATPLVT</span><span class="topo-inside">ECIQYLFGIPHTLQLD</span><span class="topo-membrane">AIIISCWI</span></span>
-<span class="topo-line"><span class="topo-membrane">LLNAIC</span><span class="topo-outside">VAFGLQKGVKIA</span><span class="topo-membrane">SDVETYLSFLMLGWVFIVGG</span><span class="topo-inside">ASFIVNYFTDSVGTLLMYMPRM</span></span>
-<span class="topo-line"><span class="topo-inside">LFYTDPIGKGGFP</span><span class="topo-membrane">QAWTVFYWAWWVIYA</span><span class="topo-outside">IQMSIFLARISKGRTVRELCLGMV</span><span class="topo-membrane">SGLTAGTW</span></span>
-<span class="topo-line"><span class="topo-membrane">LIWTILGGN</span><span class="topo-inside">TLQLIDQNILNIPQLIDQYG</span><span class="topo-unknown">VPRAIIETWA</span><span class="topo-inside">ALPLSTA</span><span class="topo-membrane">TMWGFFILCFIATV</span></span>
-<span class="topo-line"><span class="topo-membrane">TLINACS</span><span class="topo-outside">YTLAMSTCRSMKEGADPPLL</span><span class="topo-membrane">VRIGWSVLVGIIGIILL</span><span class="topo-inside">ALGGLKP</span><span class="topo-membrane">IQTAIIAGG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSKDNKKA</span><span class="topo-outside">GIEPKVF</span><span class="topo-membrane">FPPLIIVGILCWLT</span><span class="topo-inside">VRDLDA</span><span class="topo-unknown">SNEVINAVFSY</span><span class="topo-membrane">VTNVWGWAFEWYMVIMFG</span><span class="topo-outside">GWFWLVFGRYAKKRLGDEKPEFSTASWIFMMF</span><span class="topo-membrane">ASCTSAAVLFWGS</span><span class="topo-inside">IEIYYYISSPP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FGMEGYSAPAKEI</span><span class="topo-membrane">GLAYSLFHWGPLPWATY</span><span class="topo-outside">SFLSVAFAYFFFVRKMEVIRPSSTLVPLVGEKHVNGLFGTVVDN</span><span class="topo-membrane">FYLVALILAMGTSLGLATPLVT</span><span class="topo-inside">ECIQYLFGIPHTLQLD</span><span class="topo-membrane">AIIISCWI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">LLNAIC</span><span class="topo-outside">VAFGLQKGVKIA</span><span class="topo-membrane">SDVETYLSFLMLGWVFIVGG</span><span class="topo-inside">ASFIVNYFTDSVGTLLMYMPRMLFYTDPIGKGGFP</span><span class="topo-membrane">QAWTVFYWAWWVIYA</span><span class="topo-outside">IQMSIFLARISKGRTVRELCLGMV</span><span class="topo-membrane">SGLTAGTW</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">LIWTILGGN</span><span class="topo-inside">TLQLIDQNILNIPQLIDQYG</span><span class="topo-unknown">VPRAIIETWA</span><span class="topo-inside">ALPLSTA</span><span class="topo-membrane">TMWGFFILCFIATVTLINACS</span><span class="topo-outside">YTLAMSTCRSMKEGADPPLL</span><span class="topo-membrane">VRIGWSVLVGIIGIILL</span><span class="topo-inside">ALGGLKP</span><span class="topo-membrane">IQTAIIAGG</span></span>
+<span class="topo-ruler">       490       500    </span>
 <span class="topo-line"><span class="topo-membrane">CPLFFVN</span><span class="topo-outside">IMVTLSFIKDAKVHWK</span><span class="topo-unknown">D</span></span>
+<details class="topo-details"><summary>Topology coordinates (30 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1487,6 +1501,7 @@ CaiT is an [L-Carnitine](/xray-mp-wiki/reagents/ligands/l-carnitine/)/[Gamma-But
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1502,15 +1517,17 @@ CaiT is an [L-Carnitine](/xray-mp-wiki/reagents/ligands/l-carnitine/)/[Gamma-But
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSKDNKKA</span><span class="topo-outside">GIEPKVF</span><span class="topo-membrane">FPPLIIVGILCWLT</span><span class="topo-inside">VRDLDA</span><span class="topo-unknown">SNEVINAVFSY</span><span class="topo-membrane">VTNVWGWAFEWYMV</span></span>
-<span class="topo-line"><span class="topo-membrane">IMFG</span><span class="topo-outside">GWFWLVFGRYAKKRLGDEKPEFSTASWIFMMF</span><span class="topo-membrane">ASCTSAAVLFWGS</span><span class="topo-inside">IEIYYYISSPP</span></span>
-<span class="topo-line"><span class="topo-inside">FGMEGYSAPAKEI</span><span class="topo-membrane">GLAYSLFHWGPLPWATY</span><span class="topo-outside">SFLSVAFAYFFFVRKMEVIRPSSTLVPLVG</span></span>
-<span class="topo-line"><span class="topo-outside">EKHVNGLFGTVVDN</span><span class="topo-membrane">FYLVALILAMGTSLGLATPLVT</span><span class="topo-inside">ECIQYLFGIPHTLQLD</span><span class="topo-membrane">AIIISCWI</span></span>
-<span class="topo-line"><span class="topo-membrane">LLNAIC</span><span class="topo-outside">VAFGLQKGVKIA</span><span class="topo-membrane">SDVETYLSFLMLGWVFIVGG</span><span class="topo-inside">ASFIVNYFTDSVGTLLMYMPRM</span></span>
-<span class="topo-line"><span class="topo-inside">LFYTDPIGKGGFP</span><span class="topo-membrane">QAWTVFYWAWWVIYA</span><span class="topo-outside">IQMSIFLARISKGRTVRELCLGMV</span><span class="topo-membrane">SGLTAGTW</span></span>
-<span class="topo-line"><span class="topo-membrane">LIWTILGGN</span><span class="topo-inside">TLQLIDQNILNIPQLIDQYG</span><span class="topo-unknown">VPRAIIETWA</span><span class="topo-inside">ALPLSTA</span><span class="topo-membrane">TMWGFFILCFIATV</span></span>
-<span class="topo-line"><span class="topo-membrane">TLINACS</span><span class="topo-outside">YTLAMSTCRSMKEGADPPLL</span><span class="topo-membrane">VRIGWSVLVGIIGIILL</span><span class="topo-inside">ALGGLKP</span><span class="topo-membrane">IQTAIIAGG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSKDNKKA</span><span class="topo-outside">GIEPKVF</span><span class="topo-membrane">FPPLIIVGILCWLT</span><span class="topo-inside">VRDLDA</span><span class="topo-unknown">SNEVINAVFSY</span><span class="topo-membrane">VTNVWGWAFEWYMVIMFG</span><span class="topo-outside">GWFWLVFGRYAKKRLGDEKPEFSTASWIFMMF</span><span class="topo-membrane">ASCTSAAVLFWGS</span><span class="topo-inside">IEIYYYISSPP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FGMEGYSAPAKEI</span><span class="topo-membrane">GLAYSLFHWGPLPWATY</span><span class="topo-outside">SFLSVAFAYFFFVRKMEVIRPSSTLVPLVGEKHVNGLFGTVVDN</span><span class="topo-membrane">FYLVALILAMGTSLGLATPLVT</span><span class="topo-inside">ECIQYLFGIPHTLQLD</span><span class="topo-membrane">AIIISCWI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">LLNAIC</span><span class="topo-outside">VAFGLQKGVKIA</span><span class="topo-membrane">SDVETYLSFLMLGWVFIVGG</span><span class="topo-inside">ASFIVNYFTDSVGTLLMYMPRMLFYTDPIGKGGFP</span><span class="topo-membrane">QAWTVFYWAWWVIYA</span><span class="topo-outside">IQMSIFLARISKGRTVRELCLGMV</span><span class="topo-membrane">SGLTAGTW</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">LIWTILGGN</span><span class="topo-inside">TLQLIDQNILNIPQLIDQYG</span><span class="topo-unknown">VPRAIIETWA</span><span class="topo-inside">ALPLSTA</span><span class="topo-membrane">TMWGFFILCFIATVTLINACS</span><span class="topo-outside">YTLAMSTCRSMKEGADPPLL</span><span class="topo-membrane">VRIGWSVLVGIIGIILL</span><span class="topo-inside">ALGGLKP</span><span class="topo-membrane">IQTAIIAGG</span></span>
+<span class="topo-ruler">       490       500    </span>
 <span class="topo-line"><span class="topo-membrane">CPLFFVN</span><span class="topo-outside">IMVTLSFIKDAKVHWK</span><span class="topo-unknown">D</span></span>
+<details class="topo-details"><summary>Topology coordinates (30 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1732,6 +1749,7 @@ CaiT is an [L-Carnitine](/xray-mp-wiki/reagents/ligands/l-carnitine/)/[Gamma-But
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

@@ -117,17 +117,19 @@ ABCG2 (breast cancer resistance protein, BCRP) is the sole multidrug transporter
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSSSNVEVFIPVSQGNTNGFPATASNDLKAFTEG</span><span class="topo-inside">AVLSFHNICYRV</span><span class="topo-unknown">KLKSGFLPCRKPVE</span></span>
-<span class="topo-line"><span class="topo-inside">KEILSNINGIMKPGLNAILGPTGGGKSSLLDVLAARKDPSGLSGDVLINGAPRPANFKCN</span></span>
-<span class="topo-line"><span class="topo-inside">SGYVVQDDVVMGTLTVRENLQFSAALRLATTMTNHEKNERINRVIQELGLDKVADSKVGT</span></span>
-<span class="topo-line"><span class="topo-inside">QFIRGVSGGERKRTSIGMELITDPSILFLDEPTTGLDSSTANAVLLLLKRMSKQGRTIIF</span></span>
-<span class="topo-line"><span class="topo-inside">SIHQPRYSIFKLFDSLTLLASGRLMFHGPAQEALGYFESAGYHCEAYNNPADFFLDIING</span></span>
-<span class="topo-line"><span class="topo-inside">D</span><span class="topo-unknown">STAVALNREEDFKATEIIEPSKQDKP</span><span class="topo-inside">LIEKLAEIYVNSSFYKETKAELHQLSG</span><span class="topo-unknown">GEKKKK</span></span>
-<span class="topo-line"><span class="topo-unknown">ITVFKEIS</span><span class="topo-inside">YTTS</span><span class="topo-unknown">FCHQLRWVSKRSFKNLLG</span><span class="topo-inside">NP</span><span class="topo-membrane">QASIAQIIVTVVLGLVIGAIYF</span><span class="topo-outside">GLKNDS</span></span>
-<span class="topo-line"><span class="topo-outside">TGIQNRA</span><span class="topo-membrane">GVLFFLTTNQCFSSVSAVELF</span><span class="topo-inside">VVE</span><span class="topo-unknown">KKLFIHEYI</span><span class="topo-inside">SGYYRVSSYF</span><span class="topo-membrane">LGKLLSDLLP</span></span>
-<span class="topo-line"><span class="topo-membrane">MRMLPSIIFTCIVYFML</span><span class="topo-outside">GLKPKA</span><span class="topo-membrane">DAFFVMMFTLMMVAYSASSMALAIAA</span><span class="topo-inside">GQSVV</span><span class="topo-membrane">SVATLL</span></span>
-<span class="topo-line"><span class="topo-membrane">MTICFVFMMIFSGLLV</span><span class="topo-outside">NLTTI</span><span class="topo-unknown">ASWLSWLQYFSIPRYGFTALQ</span><span class="topo-outside">HNEFLGQNFCPGLNATGN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSSSNVEVFIPVSQGNTNGFPATASNDLKAFTEG</span><span class="topo-inside">AVLSFHNICYRV</span><span class="topo-unknown">KLKSGFLPCRKPVE</span><span class="topo-inside">KEILSNINGIMKPGLNAILGPTGGGKSSLLDVLAARKDPSGLSGDVLINGAPRPANFKCN</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">SGYVVQDDVVMGTLTVRENLQFSAALRLATTMTNHEKNERINRVIQELGLDKVADSKVGTQFIRGVSGGERKRTSIGMELITDPSILFLDEPTTGLDSSTANAVLLLLKRMSKQGRTIIF</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">SIHQPRYSIFKLFDSLTLLASGRLMFHGPAQEALGYFESAGYHCEAYNNPADFFLDIINGD</span><span class="topo-unknown">STAVALNREEDFKATEIIEPSKQDKP</span><span class="topo-inside">LIEKLAEIYVNSSFYKETKAELHQLSG</span><span class="topo-unknown">GEKKKK</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-unknown">ITVFKEIS</span><span class="topo-inside">YTTS</span><span class="topo-unknown">FCHQLRWVSKRSFKNLLG</span><span class="topo-inside">NP</span><span class="topo-membrane">QASIAQIIVTVVLGLVIGAIYF</span><span class="topo-outside">GLKNDSTGIQNRA</span><span class="topo-membrane">GVLFFLTTNQCFSSVSAVELF</span><span class="topo-inside">VVE</span><span class="topo-unknown">KKLFIHEYI</span><span class="topo-inside">SGYYRVSSYF</span><span class="topo-membrane">LGKLLSDLLP</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-membrane">MRMLPSIIFTCIVYFML</span><span class="topo-outside">GLKPKA</span><span class="topo-membrane">DAFFVMMFTLMMVAYSASSMALAIAA</span><span class="topo-inside">GQSVV</span><span class="topo-membrane">SVATLLMTICFVFMMIFSGLLV</span><span class="topo-outside">NLTTI</span><span class="topo-unknown">ASWLSWLQYFSIPRYGFTALQ</span><span class="topo-outside">HNEFLGQNFCPGLNATGN</span></span>
+<span class="topo-ruler">       610       620       630       640       650     </span>
 <span class="topo-line"><span class="topo-outside">NPCNYATCT</span><span class="topo-unknown">GEEYLVKQ</span><span class="topo-outside">GIDLSPWGL</span><span class="topo-membrane">WKNHVALACMIVIFLTIAYLKL</span><span class="topo-inside">LFLKKY</span><span class="topo-unknown">S</span></span>
+<details class="topo-details"><summary>Topology coordinates (24 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -307,6 +309,7 @@ ABCG2 (breast cancer resistance protein, BCRP) is the sole multidrug transporter
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -322,17 +325,19 @@ ABCG2 (breast cancer resistance protein, BCRP) is the sole multidrug transporter
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSSSNVEVFIPVSQGNTNGFPATASNDLKAFTEG</span><span class="topo-inside">AVLSFHNICYRV</span><span class="topo-unknown">KLKSGFLPCRKPVE</span></span>
-<span class="topo-line"><span class="topo-inside">KEILSNINGIMKPGLNAILGPTGGGKSSLLDVLAARKDPSGLSGDVLINGAPRPANFKCN</span></span>
-<span class="topo-line"><span class="topo-inside">SGYVVQDDVVMGTLTVRENLQFSAALRLATTMTNHEKNERINRVIQELGLDKVADSKVGT</span></span>
-<span class="topo-line"><span class="topo-inside">QFIRGVSGGERKRTSIGMELITDPSILFLDEPTTGLDSSTANAVLLLLKRMSKQGRTIIF</span></span>
-<span class="topo-line"><span class="topo-inside">SIHQPRYSIFKLFDSLTLLASGRLMFHGPAQEALGYFESAGYHCEAYNNPADFFLDIING</span></span>
-<span class="topo-line"><span class="topo-inside">D</span><span class="topo-unknown">STAVALNREEDFKATEIIEPSKQDKP</span><span class="topo-inside">LIEKLAEIYVNSSFYKETKAELHQLSG</span><span class="topo-unknown">GEKKKK</span></span>
-<span class="topo-line"><span class="topo-unknown">ITVFKEIS</span><span class="topo-inside">YTTS</span><span class="topo-unknown">FCHQLRWVSKRSFKNLLG</span><span class="topo-inside">NP</span><span class="topo-membrane">QASIAQIIVTVVLGLVIGAIYF</span><span class="topo-outside">GLKNDS</span></span>
-<span class="topo-line"><span class="topo-outside">TGIQNRA</span><span class="topo-membrane">GVLFFLTTNQCFSSVSAVELF</span><span class="topo-inside">VVE</span><span class="topo-unknown">KKLFIHEYI</span><span class="topo-inside">SGYYRVSSYF</span><span class="topo-membrane">LGKLLSDLLP</span></span>
-<span class="topo-line"><span class="topo-membrane">MRMLPSIIFTCIVYFML</span><span class="topo-outside">GLKPKA</span><span class="topo-membrane">DAFFVMMFTLMMVAYSASSMALAIAA</span><span class="topo-inside">GQSVV</span><span class="topo-membrane">SVATLL</span></span>
-<span class="topo-line"><span class="topo-membrane">MTICFVFMMIFSGLLV</span><span class="topo-outside">NLTTI</span><span class="topo-unknown">ASWLSWLQYFSIPRYGFTALQ</span><span class="topo-outside">HNEFLGQNFCPGLNATGN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSSSNVEVFIPVSQGNTNGFPATASNDLKAFTEG</span><span class="topo-inside">AVLSFHNICYRV</span><span class="topo-unknown">KLKSGFLPCRKPVE</span><span class="topo-inside">KEILSNINGIMKPGLNAILGPTGGGKSSLLDVLAARKDPSGLSGDVLINGAPRPANFKCN</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">SGYVVQDDVVMGTLTVRENLQFSAALRLATTMTNHEKNERINRVIQELGLDKVADSKVGTQFIRGVSGGERKRTSIGMELITDPSILFLDEPTTGLDSSTANAVLLLLKRMSKQGRTIIF</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">SIHQPRYSIFKLFDSLTLLASGRLMFHGPAQEALGYFESAGYHCEAYNNPADFFLDIINGD</span><span class="topo-unknown">STAVALNREEDFKATEIIEPSKQDKP</span><span class="topo-inside">LIEKLAEIYVNSSFYKETKAELHQLSG</span><span class="topo-unknown">GEKKKK</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-unknown">ITVFKEIS</span><span class="topo-inside">YTTS</span><span class="topo-unknown">FCHQLRWVSKRSFKNLLG</span><span class="topo-inside">NP</span><span class="topo-membrane">QASIAQIIVTVVLGLVIGAIYF</span><span class="topo-outside">GLKNDSTGIQNRA</span><span class="topo-membrane">GVLFFLTTNQCFSSVSAVELF</span><span class="topo-inside">VVE</span><span class="topo-unknown">KKLFIHEYI</span><span class="topo-inside">SGYYRVSSYF</span><span class="topo-membrane">LGKLLSDLLP</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-membrane">MRMLPSIIFTCIVYFML</span><span class="topo-outside">GLKPKA</span><span class="topo-membrane">DAFFVMMFTLMMVAYSASSMALAIAA</span><span class="topo-inside">GQSVV</span><span class="topo-membrane">SVATLLMTICFVFMMIFSGLLV</span><span class="topo-outside">NLTTI</span><span class="topo-unknown">ASWLSWLQYFSIPRYGFTALQ</span><span class="topo-outside">HNEFLGQNFCPGLNATGN</span></span>
+<span class="topo-ruler">       610       620       630       640       650     </span>
 <span class="topo-line"><span class="topo-outside">NPCNYATCT</span><span class="topo-unknown">GEEYLVKQ</span><span class="topo-outside">GIDLSPWGL</span><span class="topo-membrane">WKNHVALACMIVIFLTIAYLKL</span><span class="topo-inside">LFLKKY</span><span class="topo-unknown">S</span></span>
+<details class="topo-details"><summary>Topology coordinates (24 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -512,6 +517,7 @@ ABCG2 (breast cancer resistance protein, BCRP) is the sole multidrug transporter
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -527,17 +533,19 @@ ABCG2 (breast cancer resistance protein, BCRP) is the sole multidrug transporter
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSSSNVEVFIPVSQGNTNGFPATASNDLKAFTEG</span><span class="topo-outside">AVLSFHNICYRV</span><span class="topo-unknown">KLKSGFLPCRKPVE</span></span>
-<span class="topo-line"><span class="topo-outside">KEILSNINGIMKPGLNAILGPTGGGKSSLLDVLAARKDPSGLSGDVLINGAPRPANFKCN</span></span>
-<span class="topo-line"><span class="topo-outside">SGYVVQDDVVMGTLTVRENLQFSAALRLATTMTNHEKNERINRVIQELGLDKVADSKVGT</span></span>
-<span class="topo-line"><span class="topo-outside">QFIRGVSGGERKRTSIGMELITDPSILFLDEPTTGLDSSTANAVLLLLKRMSKQGRTIIF</span></span>
-<span class="topo-line"><span class="topo-outside">SIHQPRYSIFKLFDSLTLLASGRLMFHGPAQEALGYFESAGYHCEAYNNPADFFLDIING</span></span>
-<span class="topo-line"><span class="topo-outside">D</span><span class="topo-unknown">STAVALNREEDFKATEIIEPSKQDKP</span><span class="topo-outside">LIEKLAEIYVNSSFYKETKAELHQLSG</span><span class="topo-unknown">GEKKKK</span></span>
-<span class="topo-line"><span class="topo-unknown">ITVFKEISY</span><span class="topo-outside">TTS</span><span class="topo-unknown">FCHQLRWVSKRSFKNLLG</span><span class="topo-outside">NPQA</span><span class="topo-membrane">SIAQIIVTVVLGLVIGAIYF</span><span class="topo-inside">GLKNDS</span></span>
-<span class="topo-line"><span class="topo-inside">TGIQNRAG</span><span class="topo-membrane">VLFFLTTNQCFSSVSAV</span><span class="topo-outside">ELFVVEKKLFIHEYISGYYR</span><span class="topo-unknown">VSSYFLGKL</span><span class="topo-membrane">LSDLLP</span></span>
-<span class="topo-line"><span class="topo-membrane">MRMLPSIIFTCIVYFML</span><span class="topo-inside">GLKPKA</span><span class="topo-membrane">DAFFVMMFTLMMVAYSASSMALAIAA</span><span class="topo-outside">GQSVV</span><span class="topo-membrane">SVATLL</span></span>
-<span class="topo-line"><span class="topo-membrane">MTICFVFMMIFSGLLV</span><span class="topo-inside">NLTTI</span><span class="topo-unknown">ASWLSWLQYFSIPRYGFTALQ</span><span class="topo-inside">HNEFLGQNFCPGLNATGN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSSSNVEVFIPVSQGNTNGFPATASNDLKAFTEG</span><span class="topo-outside">AVLSFHNICYRV</span><span class="topo-unknown">KLKSGFLPCRKPVE</span><span class="topo-outside">KEILSNINGIMKPGLNAILGPTGGGKSSLLDVLAARKDPSGLSGDVLINGAPRPANFKCN</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">SGYVVQDDVVMGTLTVRENLQFSAALRLATTMTNHEKNERINRVIQELGLDKVADSKVGTQFIRGVSGGERKRTSIGMELITDPSILFLDEPTTGLDSSTANAVLLLLKRMSKQGRTIIF</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">SIHQPRYSIFKLFDSLTLLASGRLMFHGPAQEALGYFESAGYHCEAYNNPADFFLDIINGD</span><span class="topo-unknown">STAVALNREEDFKATEIIEPSKQDKP</span><span class="topo-outside">LIEKLAEIYVNSSFYKETKAELHQLSG</span><span class="topo-unknown">GEKKKK</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-unknown">ITVFKEISY</span><span class="topo-outside">TTS</span><span class="topo-unknown">FCHQLRWVSKRSFKNLLG</span><span class="topo-outside">NPQA</span><span class="topo-membrane">SIAQIIVTVVLGLVIGAIYF</span><span class="topo-inside">GLKNDSTGIQNRAG</span><span class="topo-membrane">VLFFLTTNQCFSSVSAV</span><span class="topo-outside">ELFVVEKKLFIHEYISGYYR</span><span class="topo-unknown">VSSYFLGKL</span><span class="topo-membrane">LSDLLP</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-membrane">MRMLPSIIFTCIVYFML</span><span class="topo-inside">GLKPKA</span><span class="topo-membrane">DAFFVMMFTLMMVAYSASSMALAIAA</span><span class="topo-outside">GQSVV</span><span class="topo-membrane">SVATLLMTICFVFMMIFSGLLV</span><span class="topo-inside">NLTTI</span><span class="topo-unknown">ASWLSWLQYFSIPRYGFTALQ</span><span class="topo-inside">HNEFLGQNFCPGLNATGN</span></span>
+<span class="topo-ruler">       610       620       630       640       650     </span>
 <span class="topo-line"><span class="topo-inside">NPCNYATCTGEEYLVKQGIDLSPW</span><span class="topo-membrane">GLWKNHVALACMIVIFLTIAYL</span><span class="topo-outside">KLLFLKKY</span><span class="topo-unknown">S</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -696,6 +704,7 @@ ABCG2 (breast cancer resistance protein, BCRP) is the sole multidrug transporter
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -711,17 +720,19 @@ ABCG2 (breast cancer resistance protein, BCRP) is the sole multidrug transporter
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSSSNVEVFIPVSQGNTNGFPATASNDLKAFTEG</span><span class="topo-outside">AVLSFHNICYRV</span><span class="topo-unknown">KLKSGFLPCRKPVE</span></span>
-<span class="topo-line"><span class="topo-outside">KEILSNINGIMKPGLNAILGPTGGGKSSLLDVLAARKDPSGLSGDVLINGAPRPANFKCN</span></span>
-<span class="topo-line"><span class="topo-outside">SGYVVQDDVVMGTLTVRENLQFSAALRLATTMTNHEKNERINRVIQELGLDKVADSKVGT</span></span>
-<span class="topo-line"><span class="topo-outside">QFIRGVSGGERKRTSIGMELITDPSILFLDEPTTGLDSSTANAVLLLLKRMSKQGRTIIF</span></span>
-<span class="topo-line"><span class="topo-outside">SIHQPRYSIFKLFDSLTLLASGRLMFHGPAQEALGYFESAGYHCEAYNNPADFFLDIING</span></span>
-<span class="topo-line"><span class="topo-outside">D</span><span class="topo-unknown">STAVALNREEDFKATEIIEPSKQDKP</span><span class="topo-outside">LIEKLAEIYVNSSFYKETKAELHQLSG</span><span class="topo-unknown">GEKKKK</span></span>
-<span class="topo-line"><span class="topo-unknown">ITVFKEISY</span><span class="topo-outside">TTS</span><span class="topo-unknown">FCHQLRWVSKRSFKNLLG</span><span class="topo-outside">NPQ</span><span class="topo-membrane">ASIAQIIVTVVLGLVIGAIYF</span><span class="topo-inside">GLKNDS</span></span>
-<span class="topo-line"><span class="topo-inside">TGIQNRAG</span><span class="topo-membrane">VLFFLTTNQCFSSVSAV</span><span class="topo-outside">ELFVVEKKLFIHEYISGYYR</span><span class="topo-unknown">VSSYFLGKL</span><span class="topo-membrane">LSDLLP</span></span>
-<span class="topo-line"><span class="topo-membrane">MRMLPSIIFTCIVYFML</span><span class="topo-inside">GLKPKA</span><span class="topo-membrane">DAFFVMMFTLMMVAYSASSMALAIAA</span><span class="topo-outside">GQSVV</span><span class="topo-membrane">SVATLL</span></span>
-<span class="topo-line"><span class="topo-membrane">MTICFVFMMIFSGLLV</span><span class="topo-inside">NLTTI</span><span class="topo-unknown">ASWLSWLQYFSIPRYGFTALQ</span><span class="topo-inside">HNEFLGQNFCPGLNATGN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSSSNVEVFIPVSQGNTNGFPATASNDLKAFTEG</span><span class="topo-outside">AVLSFHNICYRV</span><span class="topo-unknown">KLKSGFLPCRKPVE</span><span class="topo-outside">KEILSNINGIMKPGLNAILGPTGGGKSSLLDVLAARKDPSGLSGDVLINGAPRPANFKCN</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">SGYVVQDDVVMGTLTVRENLQFSAALRLATTMTNHEKNERINRVIQELGLDKVADSKVGTQFIRGVSGGERKRTSIGMELITDPSILFLDEPTTGLDSSTANAVLLLLKRMSKQGRTIIF</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">SIHQPRYSIFKLFDSLTLLASGRLMFHGPAQEALGYFESAGYHCEAYNNPADFFLDIINGD</span><span class="topo-unknown">STAVALNREEDFKATEIIEPSKQDKP</span><span class="topo-outside">LIEKLAEIYVNSSFYKETKAELHQLSG</span><span class="topo-unknown">GEKKKK</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-unknown">ITVFKEISY</span><span class="topo-outside">TTS</span><span class="topo-unknown">FCHQLRWVSKRSFKNLLG</span><span class="topo-outside">NPQ</span><span class="topo-membrane">ASIAQIIVTVVLGLVIGAIYF</span><span class="topo-inside">GLKNDSTGIQNRAG</span><span class="topo-membrane">VLFFLTTNQCFSSVSAV</span><span class="topo-outside">ELFVVEKKLFIHEYISGYYR</span><span class="topo-unknown">VSSYFLGKL</span><span class="topo-membrane">LSDLLP</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-membrane">MRMLPSIIFTCIVYFML</span><span class="topo-inside">GLKPKA</span><span class="topo-membrane">DAFFVMMFTLMMVAYSASSMALAIAA</span><span class="topo-outside">GQSVV</span><span class="topo-membrane">SVATLLMTICFVFMMIFSGLLV</span><span class="topo-inside">NLTTI</span><span class="topo-unknown">ASWLSWLQYFSIPRYGFTALQ</span><span class="topo-inside">HNEFLGQNFCPGLNATGN</span></span>
+<span class="topo-ruler">       610       620       630       640       650     </span>
 <span class="topo-line"><span class="topo-inside">NPCNYATCTGEEYLVKQGIDLSPW</span><span class="topo-membrane">GLWKNHVALACMIVIFLTIAYL</span><span class="topo-outside">KLLFLKKY</span><span class="topo-unknown">S</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -880,6 +891,7 @@ ABCG2 (breast cancer resistance protein, BCRP) is the sole multidrug transporter
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -895,17 +907,19 @@ ABCG2 (breast cancer resistance protein, BCRP) is the sole multidrug transporter
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSSSNVEVFIPVSQGNTNGFPATASNDLKAFTEG</span><span class="topo-inside">AVLSFHNICYRV</span><span class="topo-unknown">KLKSGFLPCRKPVE</span></span>
-<span class="topo-line"><span class="topo-inside">KEILSNINGIMKPGLNAILGPTGGGKSSLLDVLAARKDPSGLSGDVLINGAPRPANFKCN</span></span>
-<span class="topo-line"><span class="topo-inside">SGYVVQDDVVMGTLTVRENLQFSAALRLATTMTNHEKNERINRVIQELGLDKVADSKVGT</span></span>
-<span class="topo-line"><span class="topo-inside">QFIRGVSGGERKRTSIGMELITDPSILFLDEPTTGLDSSTANAVLLLLKRMSKQGRTIIF</span></span>
-<span class="topo-line"><span class="topo-inside">SIHQPRYSIFKLFDSLTLLASGRLMFHGPAQEALGYFESAGYHCEAYNNPADFFLDIING</span></span>
-<span class="topo-line"><span class="topo-inside">D</span><span class="topo-unknown">STAVALNREEDFKATEIIEPSKQDKP</span><span class="topo-inside">LIEKLAEIYVNSSFYKETKAELHQLSG</span><span class="topo-unknown">GEKKKK</span></span>
-<span class="topo-line"><span class="topo-unknown">ITVFKEIS</span><span class="topo-inside">YTTS</span><span class="topo-unknown">FCHQLRWVSKRSFKNL</span><span class="topo-inside">LGNP</span><span class="topo-membrane">QASIAQIIVTVVLGLVIGAIYF</span><span class="topo-outside">GLKNDS</span></span>
-<span class="topo-line"><span class="topo-outside">TGIQNR</span><span class="topo-membrane">AGVLFFLTTNQCFSSVSAVELF</span><span class="topo-inside">VVEK</span><span class="topo-unknown">KLFIHEYI</span><span class="topo-inside">SGYYRVS</span><span class="topo-membrane">SYFLGKLLSDLLP</span></span>
-<span class="topo-line"><span class="topo-membrane">MRMLPSIIFTCIVYFML</span><span class="topo-outside">GLKPKA</span><span class="topo-membrane">DAFFVMMFTLMMVAYSASSMALAIAAG</span><span class="topo-inside">QSVV</span><span class="topo-membrane">SVATLL</span></span>
-<span class="topo-line"><span class="topo-membrane">MTICFVFMMIFSGLLV</span><span class="topo-outside">NLTTI</span><span class="topo-unknown">ASWLSWLQYFSIPRYGFTALQ</span><span class="topo-outside">HNEFLGQNFCPGLNATGN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSSSNVEVFIPVSQGNTNGFPATASNDLKAFTEG</span><span class="topo-inside">AVLSFHNICYRV</span><span class="topo-unknown">KLKSGFLPCRKPVE</span><span class="topo-inside">KEILSNINGIMKPGLNAILGPTGGGKSSLLDVLAARKDPSGLSGDVLINGAPRPANFKCN</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">SGYVVQDDVVMGTLTVRENLQFSAALRLATTMTNHEKNERINRVIQELGLDKVADSKVGTQFIRGVSGGERKRTSIGMELITDPSILFLDEPTTGLDSSTANAVLLLLKRMSKQGRTIIF</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">SIHQPRYSIFKLFDSLTLLASGRLMFHGPAQEALGYFESAGYHCEAYNNPADFFLDIINGD</span><span class="topo-unknown">STAVALNREEDFKATEIIEPSKQDKP</span><span class="topo-inside">LIEKLAEIYVNSSFYKETKAELHQLSG</span><span class="topo-unknown">GEKKKK</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-unknown">ITVFKEIS</span><span class="topo-inside">YTTS</span><span class="topo-unknown">FCHQLRWVSKRSFKNL</span><span class="topo-inside">LGNP</span><span class="topo-membrane">QASIAQIIVTVVLGLVIGAIYF</span><span class="topo-outside">GLKNDSTGIQNR</span><span class="topo-membrane">AGVLFFLTTNQCFSSVSAVELF</span><span class="topo-inside">VVEK</span><span class="topo-unknown">KLFIHEYI</span><span class="topo-inside">SGYYRVS</span><span class="topo-membrane">SYFLGKLLSDLLP</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-membrane">MRMLPSIIFTCIVYFML</span><span class="topo-outside">GLKPKA</span><span class="topo-membrane">DAFFVMMFTLMMVAYSASSMALAIAAG</span><span class="topo-inside">QSVV</span><span class="topo-membrane">SVATLLMTICFVFMMIFSGLLV</span><span class="topo-outside">NLTTI</span><span class="topo-unknown">ASWLSWLQYFSIPRYGFTALQ</span><span class="topo-outside">HNEFLGQNFCPGLNATGN</span></span>
+<span class="topo-ruler">       610       620       630       640       650     </span>
 <span class="topo-line"><span class="topo-outside">NPCNYATCT</span><span class="topo-unknown">GEEYLVK</span><span class="topo-outside">QGIDLSPWGL</span><span class="topo-membrane">WKNHVALACMIVIFLTIAYLKLL</span><span class="topo-inside">FLKKY</span><span class="topo-unknown">S</span></span>
+<details class="topo-details"><summary>Topology coordinates (24 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1085,6 +1099,7 @@ ABCG2 (breast cancer resistance protein, BCRP) is the sole multidrug transporter
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1100,17 +1115,19 @@ ABCG2 (breast cancer resistance protein, BCRP) is the sole multidrug transporter
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSSSNVEVFIPVSQGNTNGFPATASNDLKAFTEG</span><span class="topo-inside">AVLSFHNICYRV</span><span class="topo-unknown">KLKSGFLPCRKPVE</span></span>
-<span class="topo-line"><span class="topo-inside">KEILSNINGIMKPGLNAILGPTGGGKSSLLDVLAARKDPSGLSGDVLINGAPRPANFKCN</span></span>
-<span class="topo-line"><span class="topo-inside">SGYVVQDDVVMGTLTVRENLQFSAALRLATTMTNHEKNERINRVIQELGLDKVADSKVGT</span></span>
-<span class="topo-line"><span class="topo-inside">QFIRGVSGGERKRTSIGMELITDPSILFLDEPTTGLDSSTANAVLLLLKRMSKQGRTIIF</span></span>
-<span class="topo-line"><span class="topo-inside">SIHQPRYSIFKLFDSLTLLASGRLMFHGPAQEALGYFESAGYHCEAYNNPADFFLDIING</span></span>
-<span class="topo-line"><span class="topo-inside">D</span><span class="topo-unknown">STAVALNREEDFKATEIIEPSKQDKP</span><span class="topo-inside">LIEKLAEIYVNSSFYKETKAELHQLSG</span><span class="topo-unknown">GEKKKK</span></span>
-<span class="topo-line"><span class="topo-unknown">ITVFKEIS</span><span class="topo-inside">YTTS</span><span class="topo-unknown">FCHQLRWVSKRSFKNL</span><span class="topo-inside">LGNP</span><span class="topo-membrane">QASIAQIIVTVVLGLVIGAIYF</span><span class="topo-outside">GLKNDS</span></span>
-<span class="topo-line"><span class="topo-outside">TGIQNRA</span><span class="topo-membrane">GVLFFLTTNQCFSSVSAVELF</span><span class="topo-inside">VVEK</span><span class="topo-unknown">KLFIHEYI</span><span class="topo-inside">SGYYRVS</span><span class="topo-membrane">SYFLGKLLSDLLP</span></span>
-<span class="topo-line"><span class="topo-membrane">MRMLPSIIFTCIVYFML</span><span class="topo-outside">GLKPKA</span><span class="topo-membrane">DAFFVMMFTLMMVAYSASSMALAIAAGQ</span><span class="topo-inside">SVV</span><span class="topo-membrane">SVATLL</span></span>
-<span class="topo-line"><span class="topo-membrane">MTICFVFMMIFSGLLV</span><span class="topo-outside">NLTTI</span><span class="topo-unknown">ASWLSWLQYFSIPRYGFTALQ</span><span class="topo-outside">HNEFLGQNFCPGLNATGN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSSSNVEVFIPVSQGNTNGFPATASNDLKAFTEG</span><span class="topo-inside">AVLSFHNICYRV</span><span class="topo-unknown">KLKSGFLPCRKPVE</span><span class="topo-inside">KEILSNINGIMKPGLNAILGPTGGGKSSLLDVLAARKDPSGLSGDVLINGAPRPANFKCN</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">SGYVVQDDVVMGTLTVRENLQFSAALRLATTMTNHEKNERINRVIQELGLDKVADSKVGTQFIRGVSGGERKRTSIGMELITDPSILFLDEPTTGLDSSTANAVLLLLKRMSKQGRTIIF</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">SIHQPRYSIFKLFDSLTLLASGRLMFHGPAQEALGYFESAGYHCEAYNNPADFFLDIINGD</span><span class="topo-unknown">STAVALNREEDFKATEIIEPSKQDKP</span><span class="topo-inside">LIEKLAEIYVNSSFYKETKAELHQLSG</span><span class="topo-unknown">GEKKKK</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-unknown">ITVFKEIS</span><span class="topo-inside">YTTS</span><span class="topo-unknown">FCHQLRWVSKRSFKNL</span><span class="topo-inside">LGNP</span><span class="topo-membrane">QASIAQIIVTVVLGLVIGAIYF</span><span class="topo-outside">GLKNDSTGIQNRA</span><span class="topo-membrane">GVLFFLTTNQCFSSVSAVELF</span><span class="topo-inside">VVEK</span><span class="topo-unknown">KLFIHEYI</span><span class="topo-inside">SGYYRVS</span><span class="topo-membrane">SYFLGKLLSDLLP</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-membrane">MRMLPSIIFTCIVYFML</span><span class="topo-outside">GLKPKA</span><span class="topo-membrane">DAFFVMMFTLMMVAYSASSMALAIAAGQ</span><span class="topo-inside">SVV</span><span class="topo-membrane">SVATLLMTICFVFMMIFSGLLV</span><span class="topo-outside">NLTTI</span><span class="topo-unknown">ASWLSWLQYFSIPRYGFTALQ</span><span class="topo-outside">HNEFLGQNFCPGLNATGN</span></span>
+<span class="topo-ruler">       610       620       630       640       650     </span>
 <span class="topo-line"><span class="topo-outside">NPCNYATCT</span><span class="topo-unknown">GEEYLVK</span><span class="topo-outside">QGIDLSPWGL</span><span class="topo-membrane">WKNHVALACMIVIFLTIAYLKLL</span><span class="topo-inside">FLKKY</span><span class="topo-unknown">S</span></span>
+<details class="topo-details"><summary>Topology coordinates (24 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1290,6 +1307,7 @@ ABCG2 (breast cancer resistance protein, BCRP) is the sole multidrug transporter
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1305,18 +1323,19 @@ ABCG2 (breast cancer resistance protein, BCRP) is the sole multidrug transporter
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">DYKDDDDKGSSSSNVEVFIPVSQGNTNGFPATASNDLKAFTE</span><span class="topo-inside">GAVLSFHNICYRVKL</span><span class="topo-unknown">KSG</span></span>
-<span class="topo-line"><span class="topo-unknown">FLPCRK</span><span class="topo-inside">PVEKEILSNINGIMKPGLNAILGPTGGGKSSLLDVLAARKDPSGLSGDVLINGA</span></span>
-<span class="topo-line"><span class="topo-inside">PRPANFKCNSGYVVQDDVVMGTLTVRENLQFSAALRLATTMTNHEKNERINRVIQELGLD</span></span>
-<span class="topo-line"><span class="topo-inside">KVADSKVGTQFIRGVSGGERKRTSIGMELITDPSILFLDEPTTGLDSSTANAVLLLLKRM</span></span>
-<span class="topo-line"><span class="topo-inside">SKQGRTIIFSIHQPRYSIFKLFDSLTLLASGRLMFHGPAQEALGYFESAGYHCEAYNNPA</span></span>
-<span class="topo-line"><span class="topo-inside">DFFLDIINGD</span><span class="topo-unknown">STAVALNREEDFKATEIIEPSKQDKP</span><span class="topo-inside">LIEKLAEIYVNSSFYKETKAELHQ</span></span>
-<span class="topo-line"><span class="topo-inside">LSG</span><span class="topo-unknown">GEKKKKITVFKEIS</span><span class="topo-inside">YTTS</span><span class="topo-unknown">FCHQLRWVSKRSFKNLLG</span><span class="topo-inside">N</span><span class="topo-membrane">PQASIAQIIVTVVLGLVIGA</span></span>
-<span class="topo-line"><span class="topo-membrane">IYF</span><span class="topo-outside">GLKNDSTGIQNRA</span><span class="topo-membrane">GVLFFLTTNQCFSSVSAVELFV</span><span class="topo-inside">VE</span><span class="topo-unknown">KKLFIHEYI</span><span class="topo-inside">SGYYRVS</span><span class="topo-membrane">SYFL</span></span>
-<span class="topo-line"><span class="topo-membrane">GKLLSDLLPMRMLPSIIFTCIVYFML</span><span class="topo-outside">GLKPKA</span><span class="topo-membrane">DAFFVMMFTLMMVAYSASSMALAIAAGQ</span></span>
-<span class="topo-line"><span class="topo-inside">SVV</span><span class="topo-membrane">SVATLLMTICFVFMMIFSGLLV</span><span class="topo-outside">NLTTI</span><span class="topo-unknown">ASWLSWLQYFSIPRYGFTALQ</span><span class="topo-outside">HNEFLGQNF</span></span>
-<span class="topo-line"><span class="topo-outside">CPGLNATGNNPCNYATCTGEEYLVKQGIDLSPWGL</span><span class="topo-membrane">WKNHVALACMIVIFLTIAYLKLL</span><span class="topo-inside">FL</span></span>
-<span class="topo-line"><span class="topo-inside">KKY</span><span class="topo-unknown">S</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">DYKDDDDKGSSSSNVEVFIPVSQGNTNGFPATASNDLKAFTE</span><span class="topo-inside">GAVLSFHNICYRVKL</span><span class="topo-unknown">KSGFLPCRK</span><span class="topo-inside">PVEKEILSNINGIMKPGLNAILGPTGGGKSSLLDVLAARKDPSGLSGDVLINGA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">PRPANFKCNSGYVVQDDVVMGTLTVRENLQFSAALRLATTMTNHEKNERINRVIQELGLDKVADSKVGTQFIRGVSGGERKRTSIGMELITDPSILFLDEPTTGLDSSTANAVLLLLKRM</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">SKQGRTIIFSIHQPRYSIFKLFDSLTLLASGRLMFHGPAQEALGYFESAGYHCEAYNNPADFFLDIINGD</span><span class="topo-unknown">STAVALNREEDFKATEIIEPSKQDKP</span><span class="topo-inside">LIEKLAEIYVNSSFYKETKAELHQ</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">LSG</span><span class="topo-unknown">GEKKKKITVFKEIS</span><span class="topo-inside">YTTS</span><span class="topo-unknown">FCHQLRWVSKRSFKNLLG</span><span class="topo-inside">N</span><span class="topo-membrane">PQASIAQIIVTVVLGLVIGAIYF</span><span class="topo-outside">GLKNDSTGIQNRA</span><span class="topo-membrane">GVLFFLTTNQCFSSVSAVELFV</span><span class="topo-inside">VE</span><span class="topo-unknown">KKLFIHEYI</span><span class="topo-inside">SGYYRVS</span><span class="topo-membrane">SYFL</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-membrane">GKLLSDLLPMRMLPSIIFTCIVYFML</span><span class="topo-outside">GLKPKA</span><span class="topo-membrane">DAFFVMMFTLMMVAYSASSMALAIAAGQ</span><span class="topo-inside">SVV</span><span class="topo-membrane">SVATLLMTICFVFMMIFSGLLV</span><span class="topo-outside">NLTTI</span><span class="topo-unknown">ASWLSWLQYFSIPRYGFTALQ</span><span class="topo-outside">HNEFLGQNF</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660    </span>
+<span class="topo-line"><span class="topo-outside">CPGLNATGNNPCNYATCTGEEYLVKQGIDLSPWGL</span><span class="topo-membrane">WKNHVALACMIVIFLTIAYLKLL</span><span class="topo-inside">FLKKY</span><span class="topo-unknown">S</span></span>
+<details class="topo-details"><summary>Topology coordinates (22 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1482,6 +1501,7 @@ ABCG2 (breast cancer resistance protein, BCRP) is the sole multidrug transporter
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1497,18 +1517,19 @@ ABCG2 (breast cancer resistance protein, BCRP) is the sole multidrug transporter
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">DYKDDDDKGSSSSNVEVFIPVSQGNTNGFPATASNDLKAFTE</span><span class="topo-inside">GAVLSFHNICYRVKL</span><span class="topo-unknown">KSG</span></span>
-<span class="topo-line"><span class="topo-unknown">FLPCRK</span><span class="topo-inside">PVEKEILSNINGIMKPGLNAILGPTGGGKSSLLDVLAARKDPSGLSGDVLINGA</span></span>
-<span class="topo-line"><span class="topo-inside">PRPANFKCNSGYVVQDDVVMGTLTVRENLQFSAALRLATTMTNHEKNERINRVIQELGLD</span></span>
-<span class="topo-line"><span class="topo-inside">KVADSKVGTQFIRGVSGGERKRTSIGMELITDPSILFLDEPTTGLDSSTANAVLLLLKRM</span></span>
-<span class="topo-line"><span class="topo-inside">SKQGRTIIFSIHQPRYSIFKLFDSLTLLASGRLMFHGPAQEALGYFESAGYHCEAYNNPA</span></span>
-<span class="topo-line"><span class="topo-inside">DFFLDIINGD</span><span class="topo-unknown">STAVALNREEDFKATEIIEPSKQDKP</span><span class="topo-inside">LIEKLAEIYVNSSFYKETKAELHQ</span></span>
-<span class="topo-line"><span class="topo-inside">LSG</span><span class="topo-unknown">GEKKKKITVFKEIS</span><span class="topo-inside">YTTS</span><span class="topo-unknown">FCHQLRWVSKRSFKNLLG</span><span class="topo-inside">N</span><span class="topo-membrane">PQASIAQIIVTVVLGLVIGA</span></span>
-<span class="topo-line"><span class="topo-membrane">IYF</span><span class="topo-outside">GLKNDSTGIQNRA</span><span class="topo-membrane">GVLFFLTTNQCFSSVSAVELFV</span><span class="topo-inside">VE</span><span class="topo-unknown">KKLFIHEYI</span><span class="topo-inside">SGYYRVS</span><span class="topo-membrane">SYFL</span></span>
-<span class="topo-line"><span class="topo-membrane">GKLLSDLLPMRMLPSIIFTCIVYFML</span><span class="topo-outside">GLKPKA</span><span class="topo-membrane">DAFFVMMFTLMMVAYSASSMALAIAAGQ</span></span>
-<span class="topo-line"><span class="topo-inside">SVV</span><span class="topo-membrane">SVATLLMTICFVFMMIFSGLLV</span><span class="topo-outside">NLTTI</span><span class="topo-unknown">ASWLSWLQYFSIPRYGFTALQ</span><span class="topo-outside">HNEFLGQNF</span></span>
-<span class="topo-line"><span class="topo-outside">CPGLNATGNNPCNYATCTGEEYLVKQGIDLSPWGL</span><span class="topo-membrane">WKNHVALACMIVIFLTIAYLKLLF</span><span class="topo-inside">L</span></span>
-<span class="topo-line"><span class="topo-inside">KKY</span><span class="topo-unknown">S</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">DYKDDDDKGSSSSNVEVFIPVSQGNTNGFPATASNDLKAFTE</span><span class="topo-inside">GAVLSFHNICYRVKL</span><span class="topo-unknown">KSGFLPCRK</span><span class="topo-inside">PVEKEILSNINGIMKPGLNAILGPTGGGKSSLLDVLAARKDPSGLSGDVLINGA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">PRPANFKCNSGYVVQDDVVMGTLTVRENLQFSAALRLATTMTNHEKNERINRVIQELGLDKVADSKVGTQFIRGVSGGERKRTSIGMELITDPSILFLDEPTTGLDSSTANAVLLLLKRM</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">SKQGRTIIFSIHQPRYSIFKLFDSLTLLASGRLMFHGPAQEALGYFESAGYHCEAYNNPADFFLDIINGD</span><span class="topo-unknown">STAVALNREEDFKATEIIEPSKQDKP</span><span class="topo-inside">LIEKLAEIYVNSSFYKETKAELHQ</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">LSG</span><span class="topo-unknown">GEKKKKITVFKEIS</span><span class="topo-inside">YTTS</span><span class="topo-unknown">FCHQLRWVSKRSFKNLLG</span><span class="topo-inside">N</span><span class="topo-membrane">PQASIAQIIVTVVLGLVIGAIYF</span><span class="topo-outside">GLKNDSTGIQNRA</span><span class="topo-membrane">GVLFFLTTNQCFSSVSAVELFV</span><span class="topo-inside">VE</span><span class="topo-unknown">KKLFIHEYI</span><span class="topo-inside">SGYYRVS</span><span class="topo-membrane">SYFL</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-membrane">GKLLSDLLPMRMLPSIIFTCIVYFML</span><span class="topo-outside">GLKPKA</span><span class="topo-membrane">DAFFVMMFTLMMVAYSASSMALAIAAGQ</span><span class="topo-inside">SVV</span><span class="topo-membrane">SVATLLMTICFVFMMIFSGLLV</span><span class="topo-outside">NLTTI</span><span class="topo-unknown">ASWLSWLQYFSIPRYGFTALQ</span><span class="topo-outside">HNEFLGQNF</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660    </span>
+<span class="topo-line"><span class="topo-outside">CPGLNATGNNPCNYATCTGEEYLVKQGIDLSPWGL</span><span class="topo-membrane">WKNHVALACMIVIFLTIAYLKLLF</span><span class="topo-inside">LKKY</span><span class="topo-unknown">S</span></span>
+<details class="topo-details"><summary>Topology coordinates (22 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1674,6 +1695,7 @@ ABCG2 (breast cancer resistance protein, BCRP) is the sole multidrug transporter
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1689,17 +1711,19 @@ ABCG2 (breast cancer resistance protein, BCRP) is the sole multidrug transporter
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSSSNVEVFIPVSQGNTNGFPATASNDLKAFTEG</span><span class="topo-outside">AVLSFHNICYRV</span><span class="topo-unknown">KLKSGFLPCRKPVE</span></span>
-<span class="topo-line"><span class="topo-outside">KEILSNINGIMKPGLNAILGPTGGGKSSLLDVLAARKDPSGLSGDVLINGAPRPANFKCN</span></span>
-<span class="topo-line"><span class="topo-outside">SGYVVQDDVVMGTLTVRENLQFSAALRLATTMTNHEKNERINRVIQELGLDKVADSKVGT</span></span>
-<span class="topo-line"><span class="topo-outside">QFIRGVSGGERKRTSIGMELITDPSILFLDEPTTGLDSSTANAVLLLLKRMSKQGRTIIF</span></span>
-<span class="topo-line"><span class="topo-outside">SIHQPRYSIFKLFDSLTLLASGRLMFHGPAQEALGYFESAGYHCEAYNNPADFFLDIING</span></span>
-<span class="topo-line"><span class="topo-outside">D</span><span class="topo-unknown">STAVALNREEDFKATEIIEPSKQDKP</span><span class="topo-outside">LIEKLAEIYVNSSFYKETKAELHQLSG</span><span class="topo-unknown">GEKKKK</span></span>
-<span class="topo-line"><span class="topo-unknown">ITVFKEISY</span><span class="topo-outside">TTS</span><span class="topo-unknown">FCHQLRWVSKRSFKNLLG</span><span class="topo-outside">N</span><span class="topo-membrane">PQASIAQIIVTVVLGLVIGAIYF</span><span class="topo-inside">GLKNDS</span></span>
-<span class="topo-line"><span class="topo-inside">TGIQNRA</span><span class="topo-membrane">GVLFFLTTNQCFSSVSAVELFV</span><span class="topo-outside">VE</span><span class="topo-unknown">KKLFIHEYI</span><span class="topo-outside">SGYYRVS</span><span class="topo-membrane">SYFLGKLLSDLLP</span></span>
-<span class="topo-line"><span class="topo-membrane">MRMLPSIIFTCIVYFML</span><span class="topo-inside">GLKPKA</span><span class="topo-membrane">DAFFVMMFTLMMVAYSASSMALAIAAG</span><span class="topo-outside">QSVV</span><span class="topo-membrane">SVATLL</span></span>
-<span class="topo-line"><span class="topo-membrane">MTICFVFMMIFSGLLV</span><span class="topo-inside">NLTTIAS</span><span class="topo-unknown">WLSWLQYFSIPRYGFTAL</span><span class="topo-inside">QHNEFLGQNFCPGLNATGN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSSSNVEVFIPVSQGNTNGFPATASNDLKAFTEG</span><span class="topo-outside">AVLSFHNICYRV</span><span class="topo-unknown">KLKSGFLPCRKPVE</span><span class="topo-outside">KEILSNINGIMKPGLNAILGPTGGGKSSLLDVLAARKDPSGLSGDVLINGAPRPANFKCN</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">SGYVVQDDVVMGTLTVRENLQFSAALRLATTMTNHEKNERINRVIQELGLDKVADSKVGTQFIRGVSGGERKRTSIGMELITDPSILFLDEPTTGLDSSTANAVLLLLKRMSKQGRTIIF</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">SIHQPRYSIFKLFDSLTLLASGRLMFHGPAQEALGYFESAGYHCEAYNNPADFFLDIINGD</span><span class="topo-unknown">STAVALNREEDFKATEIIEPSKQDKP</span><span class="topo-outside">LIEKLAEIYVNSSFYKETKAELHQLSG</span><span class="topo-unknown">GEKKKK</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-unknown">ITVFKEISY</span><span class="topo-outside">TTS</span><span class="topo-unknown">FCHQLRWVSKRSFKNLLG</span><span class="topo-outside">N</span><span class="topo-membrane">PQASIAQIIVTVVLGLVIGAIYF</span><span class="topo-inside">GLKNDSTGIQNRA</span><span class="topo-membrane">GVLFFLTTNQCFSSVSAVELFV</span><span class="topo-outside">VE</span><span class="topo-unknown">KKLFIHEYI</span><span class="topo-outside">SGYYRVS</span><span class="topo-membrane">SYFLGKLLSDLLP</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-membrane">MRMLPSIIFTCIVYFML</span><span class="topo-inside">GLKPKA</span><span class="topo-membrane">DAFFVMMFTLMMVAYSASSMALAIAAG</span><span class="topo-outside">QSVV</span><span class="topo-membrane">SVATLLMTICFVFMMIFSGLLV</span><span class="topo-inside">NLTTIAS</span><span class="topo-unknown">WLSWLQYFSIPRYGFTAL</span><span class="topo-inside">QHNEFLGQNFCPGLNATGN</span></span>
+<span class="topo-ruler">       610       620       630       640       650     </span>
 <span class="topo-line"><span class="topo-inside">NPCNYATCTGEEYLVKQGIDLSPWGL</span><span class="topo-membrane">WKNHVALACMIVIFLTIAYLKLL</span><span class="topo-outside">FLKKY</span><span class="topo-unknown">S</span></span>
+<details class="topo-details"><summary>Topology coordinates (22 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1865,6 +1889,7 @@ ABCG2 (breast cancer resistance protein, BCRP) is the sole multidrug transporter
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1880,17 +1905,19 @@ ABCG2 (breast cancer resistance protein, BCRP) is the sole multidrug transporter
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSSSNVEVFIPVSQGNTNGFPATASNDLKAFTEG</span><span class="topo-outside">AVLSFHNICYRV</span><span class="topo-unknown">KLKSGFLPCRKPVE</span></span>
-<span class="topo-line"><span class="topo-outside">KEILSNINGIMKPGLNAILGPTGGGKSSLLDVLAARKDPSGLSGDVLINGAPRPANFKCN</span></span>
-<span class="topo-line"><span class="topo-outside">SGYVVQDDVVMGTLTVRENLQFSAALRLATTMTNHEKNERINRVIQELGLDKVADSKVGT</span></span>
-<span class="topo-line"><span class="topo-outside">QFIRGVSGGERKRTSIGMELITDPSILFLDEPTTGLDSSTANAVLLLLKRMSKQGRTIIF</span></span>
-<span class="topo-line"><span class="topo-outside">SIHQPRYSIFKLFDSLTLLASGRLMFHGPAQEALGYFESAGYHCEAYNNPADFFLDIING</span></span>
-<span class="topo-line"><span class="topo-outside">D</span><span class="topo-unknown">STAVALNREEDFKATEIIEPSKQDKP</span><span class="topo-outside">LIEKLAEIYVNSSFYKETKAELHQLSG</span><span class="topo-unknown">GEKKKK</span></span>
-<span class="topo-line"><span class="topo-unknown">ITVFKEISY</span><span class="topo-outside">TTS</span><span class="topo-unknown">FCHQLRWVSKRSFKNLL</span><span class="topo-outside">GN</span><span class="topo-membrane">PQASIAQIIVTVVLGLVIGAIYF</span><span class="topo-inside">GLKNDS</span></span>
-<span class="topo-line"><span class="topo-inside">TGIQNRA</span><span class="topo-membrane">GVLFFLTTNQCFSSVSAVELFV</span><span class="topo-outside">VEK</span><span class="topo-unknown">KLFIHEYI</span><span class="topo-outside">SGYYRVS</span><span class="topo-membrane">SYFLGKLLSDLLP</span></span>
-<span class="topo-line"><span class="topo-membrane">MRMLPSIIFTCIVYFML</span><span class="topo-inside">GLKPKAD</span><span class="topo-membrane">AFFVMMFTLMMVAYSASSMALAIAAG</span><span class="topo-outside">QSVV</span><span class="topo-membrane">SVATLL</span></span>
-<span class="topo-line"><span class="topo-membrane">MTICFVFMMIFSGLLV</span><span class="topo-inside">NLTTIAS</span><span class="topo-unknown">WLSWLQYFSIPRYGFTALQ</span><span class="topo-inside">HNEFLGQNFCPGLNATGN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSSSNVEVFIPVSQGNTNGFPATASNDLKAFTEG</span><span class="topo-outside">AVLSFHNICYRV</span><span class="topo-unknown">KLKSGFLPCRKPVE</span><span class="topo-outside">KEILSNINGIMKPGLNAILGPTGGGKSSLLDVLAARKDPSGLSGDVLINGAPRPANFKCN</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">SGYVVQDDVVMGTLTVRENLQFSAALRLATTMTNHEKNERINRVIQELGLDKVADSKVGTQFIRGVSGGERKRTSIGMELITDPSILFLDEPTTGLDSSTANAVLLLLKRMSKQGRTIIF</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">SIHQPRYSIFKLFDSLTLLASGRLMFHGPAQEALGYFESAGYHCEAYNNPADFFLDIINGD</span><span class="topo-unknown">STAVALNREEDFKATEIIEPSKQDKP</span><span class="topo-outside">LIEKLAEIYVNSSFYKETKAELHQLSG</span><span class="topo-unknown">GEKKKK</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-unknown">ITVFKEISY</span><span class="topo-outside">TTS</span><span class="topo-unknown">FCHQLRWVSKRSFKNLL</span><span class="topo-outside">GN</span><span class="topo-membrane">PQASIAQIIVTVVLGLVIGAIYF</span><span class="topo-inside">GLKNDSTGIQNRA</span><span class="topo-membrane">GVLFFLTTNQCFSSVSAVELFV</span><span class="topo-outside">VEK</span><span class="topo-unknown">KLFIHEYI</span><span class="topo-outside">SGYYRVS</span><span class="topo-membrane">SYFLGKLLSDLLP</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-membrane">MRMLPSIIFTCIVYFML</span><span class="topo-inside">GLKPKAD</span><span class="topo-membrane">AFFVMMFTLMMVAYSASSMALAIAAG</span><span class="topo-outside">QSVV</span><span class="topo-membrane">SVATLLMTICFVFMMIFSGLLV</span><span class="topo-inside">NLTTIAS</span><span class="topo-unknown">WLSWLQYFSIPRYGFTALQ</span><span class="topo-inside">HNEFLGQNFCPGLNATGN</span></span>
+<span class="topo-ruler">       610       620       630       640       650     </span>
 <span class="topo-line"><span class="topo-inside">NPCNYATCTGEEYLVKQGIDLSPWGL</span><span class="topo-membrane">WKNHVALACMIVIFLTIAYLKLL</span><span class="topo-outside">FLKKY</span><span class="topo-unknown">S</span></span>
+<details class="topo-details"><summary>Topology coordinates (22 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2056,6 +2083,7 @@ ABCG2 (breast cancer resistance protein, BCRP) is the sole multidrug transporter
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2071,17 +2099,19 @@ ABCG2 (breast cancer resistance protein, BCRP) is the sole multidrug transporter
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSSSNVEVFIPVSQGNTNGFPATASNDLKAFTE</span><span class="topo-outside">GAVLSFHNICYRVKL</span><span class="topo-unknown">KSGFLPCRK</span><span class="topo-outside">PVE</span></span>
-<span class="topo-line"><span class="topo-outside">KEILSNINGIMKPGLNAILGPTGGGKSSLLDVLAARKDPSGLSGDVLINGAPRPANFKCN</span></span>
-<span class="topo-line"><span class="topo-outside">SGYVVQDDVVMGTLTVRENLQFSAALRLATTMTNHEKNERINRVIQELGLDKVADSKVGT</span></span>
-<span class="topo-line"><span class="topo-outside">QFIRGVSGGERKRTSIGMELITDPSILFLDQPTTGLDSSTANAVLLLLKRMSKQGRTIIF</span></span>
-<span class="topo-line"><span class="topo-outside">SIHQPRYSIFKLFDSLTLLASGRLMFHGPAQEALGYFESAGYHCEAYNNPADFFLDIING</span></span>
-<span class="topo-line"><span class="topo-outside">DSTAVALNRE</span><span class="topo-unknown">EDFKATEIIEPSKQD</span><span class="topo-outside">KPLIEKLAEIYVNSSFYKETKAELHQLS</span><span class="topo-unknown">GGEKKKK</span></span>
-<span class="topo-line"><span class="topo-unknown">ITVFKE</span><span class="topo-outside">ISYTTS</span><span class="topo-unknown">FCHQLRWVSKRSFKNLLG</span><span class="topo-outside">NPQA</span><span class="topo-membrane">SIAQIIVTVVLGLVIGAI</span><span class="topo-inside">YFGLKNDS</span></span>
-<span class="topo-line"><span class="topo-inside">TGIQNRAGV</span><span class="topo-membrane">LFFLTTNQCFSSVSAV</span><span class="topo-outside">ELFVVEKKLFIHEYISGYYRVSSYFLGKLLSD</span><span class="topo-membrane">LLP</span></span>
-<span class="topo-line"><span class="topo-membrane">MRMLPSIIFTCIVYFML</span><span class="topo-inside">GLKPKA</span><span class="topo-membrane">DAFFVMMFTLMMVAYSASSMALAIA</span><span class="topo-outside">AGQSVVS</span><span class="topo-membrane">VATLL</span></span>
-<span class="topo-line"><span class="topo-membrane">MTICFVFMMIFSG</span><span class="topo-inside">LLVNLTTIASW</span><span class="topo-unknown">LSWLQYFSIPRYGFTAL</span><span class="topo-inside">QHNEFLGQNFCPGLNATGN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSSSNVEVFIPVSQGNTNGFPATASNDLKAFTE</span><span class="topo-outside">GAVLSFHNICYRVKL</span><span class="topo-unknown">KSGFLPCRK</span><span class="topo-outside">PVEKEILSNINGIMKPGLNAILGPTGGGKSSLLDVLAARKDPSGLSGDVLINGAPRPANFKCN</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">SGYVVQDDVVMGTLTVRENLQFSAALRLATTMTNHEKNERINRVIQELGLDKVADSKVGTQFIRGVSGGERKRTSIGMELITDPSILFLDQPTTGLDSSTANAVLLLLKRMSKQGRTIIF</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">SIHQPRYSIFKLFDSLTLLASGRLMFHGPAQEALGYFESAGYHCEAYNNPADFFLDIINGDSTAVALNRE</span><span class="topo-unknown">EDFKATEIIEPSKQD</span><span class="topo-outside">KPLIEKLAEIYVNSSFYKETKAELHQLS</span><span class="topo-unknown">GGEKKKK</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-unknown">ITVFKE</span><span class="topo-outside">ISYTTS</span><span class="topo-unknown">FCHQLRWVSKRSFKNLLG</span><span class="topo-outside">NPQA</span><span class="topo-membrane">SIAQIIVTVVLGLVIGAI</span><span class="topo-inside">YFGLKNDSTGIQNRAGV</span><span class="topo-membrane">LFFLTTNQCFSSVSAV</span><span class="topo-outside">ELFVVEKKLFIHEYISGYYRVSSYFLGKLLSD</span><span class="topo-membrane">LLP</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-membrane">MRMLPSIIFTCIVYFML</span><span class="topo-inside">GLKPKA</span><span class="topo-membrane">DAFFVMMFTLMMVAYSASSMALAIA</span><span class="topo-outside">AGQSVVS</span><span class="topo-membrane">VATLLMTICFVFMMIFSG</span><span class="topo-inside">LLVNLTTIASW</span><span class="topo-unknown">LSWLQYFSIPRYGFTAL</span><span class="topo-inside">QHNEFLGQNFCPGLNATGN</span></span>
+<span class="topo-ruler">       610       620       630       640       650     </span>
 <span class="topo-line"><span class="topo-inside">NPCNYATCTGEEYLVKQGIDLSPWGL</span><span class="topo-membrane">WKNHVALACMIVIFLTIA</span><span class="topo-outside">YLKLLFLKKY</span><span class="topo-unknown">S</span></span>
+<details class="topo-details"><summary>Topology coordinates (20 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2233,6 +2263,7 @@ ABCG2 (breast cancer resistance protein, BCRP) is the sole multidrug transporter
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2248,17 +2279,19 @@ ABCG2 (breast cancer resistance protein, BCRP) is the sole multidrug transporter
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSSSNVEVFIPVSQGNTNGFPATASNDLKAFTE</span><span class="topo-outside">GAVLSFHNICYRVKL</span><span class="topo-unknown">KSGFLPCRK</span><span class="topo-outside">PVE</span></span>
-<span class="topo-line"><span class="topo-outside">KEILSNINGIMKPGLNAILGPTGGGKSSLLDVLAARKDPSGLSGDVLINGAPRPANFKCN</span></span>
-<span class="topo-line"><span class="topo-outside">SGYVVQDDVVMGTLTVRENLQFSAALRLATTMTNHEKNERINRVIQELGLDKVADSKVGT</span></span>
-<span class="topo-line"><span class="topo-outside">QFIRGVSGGERKRTSIGMELITDPSILFLDQPTTGLDSSTANAVLLLLKRMSKQGRTIIF</span></span>
-<span class="topo-line"><span class="topo-outside">SIHQPRYSIFKLFDSLTLLASGRLMFHGPAQEALGYFESAGYHCEAYNNPADFFLDIING</span></span>
-<span class="topo-line"><span class="topo-outside">DSTAVALNRE</span><span class="topo-unknown">EDFKATEIIEPSKQD</span><span class="topo-outside">KPLIEKLAEIYVNSSFYKETKAELHQLS</span><span class="topo-unknown">GGEKKKK</span></span>
-<span class="topo-line"><span class="topo-unknown">ITVFKE</span><span class="topo-outside">ISYTTS</span><span class="topo-unknown">FCHQLRWVSKRSFKNLLG</span><span class="topo-outside">NPQA</span><span class="topo-membrane">SIAQIIVTVVLGLVIGAI</span><span class="topo-inside">YFGLKNDS</span></span>
-<span class="topo-line"><span class="topo-inside">TGIQNRAGV</span><span class="topo-membrane">LFFLTTNQCFSSVSAV</span><span class="topo-outside">ELFVVEKKLFIHEYISGYYRVSSYFLGKLLSD</span><span class="topo-membrane">LLP</span></span>
-<span class="topo-line"><span class="topo-membrane">MRMLPSIIFTCIVYFML</span><span class="topo-inside">GLKPKA</span><span class="topo-membrane">DAFFVMMFTLMMVAYSASSMALAIA</span><span class="topo-outside">AGQSVVS</span><span class="topo-membrane">VATLL</span></span>
-<span class="topo-line"><span class="topo-membrane">MTICFVFMMIFSG</span><span class="topo-inside">LLVNLTTIASW</span><span class="topo-unknown">LSWLQYFSIPRYGFTAL</span><span class="topo-inside">QHNEFLGQNFCPGLNATGN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSSSNVEVFIPVSQGNTNGFPATASNDLKAFTE</span><span class="topo-outside">GAVLSFHNICYRVKL</span><span class="topo-unknown">KSGFLPCRK</span><span class="topo-outside">PVEKEILSNINGIMKPGLNAILGPTGGGKSSLLDVLAARKDPSGLSGDVLINGAPRPANFKCN</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">SGYVVQDDVVMGTLTVRENLQFSAALRLATTMTNHEKNERINRVIQELGLDKVADSKVGTQFIRGVSGGERKRTSIGMELITDPSILFLDQPTTGLDSSTANAVLLLLKRMSKQGRTIIF</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">SIHQPRYSIFKLFDSLTLLASGRLMFHGPAQEALGYFESAGYHCEAYNNPADFFLDIINGDSTAVALNRE</span><span class="topo-unknown">EDFKATEIIEPSKQD</span><span class="topo-outside">KPLIEKLAEIYVNSSFYKETKAELHQLS</span><span class="topo-unknown">GGEKKKK</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-unknown">ITVFKE</span><span class="topo-outside">ISYTTS</span><span class="topo-unknown">FCHQLRWVSKRSFKNLLG</span><span class="topo-outside">NPQA</span><span class="topo-membrane">SIAQIIVTVVLGLVIGAI</span><span class="topo-inside">YFGLKNDSTGIQNRAGV</span><span class="topo-membrane">LFFLTTNQCFSSVSAV</span><span class="topo-outside">ELFVVEKKLFIHEYISGYYRVSSYFLGKLLSD</span><span class="topo-membrane">LLP</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-membrane">MRMLPSIIFTCIVYFML</span><span class="topo-inside">GLKPKA</span><span class="topo-membrane">DAFFVMMFTLMMVAYSASSMALAIA</span><span class="topo-outside">AGQSVVS</span><span class="topo-membrane">VATLLMTICFVFMMIFSG</span><span class="topo-inside">LLVNLTTIASW</span><span class="topo-unknown">LSWLQYFSIPRYGFTAL</span><span class="topo-inside">QHNEFLGQNFCPGLNATGN</span></span>
+<span class="topo-ruler">       610       620       630       640       650     </span>
 <span class="topo-line"><span class="topo-inside">NPCNYATCTGEEYLVKQGIDLSPWGL</span><span class="topo-membrane">WKNHVALACMIVIFLTIA</span><span class="topo-outside">YLKLLFLKKY</span><span class="topo-unknown">S</span></span>
+<details class="topo-details"><summary>Topology coordinates (20 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2410,6 +2443,7 @@ ABCG2 (breast cancer resistance protein, BCRP) is the sole multidrug transporter
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

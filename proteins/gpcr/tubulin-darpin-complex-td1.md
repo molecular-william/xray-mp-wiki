@@ -120,14 +120,15 @@ The Tubulin-DARPin complex (TD1) is a model system for studying ligand binding t
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">DYKDDDD</span><span class="topo-outside">GAPPIM</span><span class="topo-membrane">GSSVYITVELAIAVLAILGNVLVCW</span><span class="topo-inside">AVWLNSNLQNVTNY</span><span class="topo-membrane">FVVSLAAA</span></span>
-<span class="topo-line"><span class="topo-membrane">DILVGVLAIPFAITIST</span><span class="topo-outside">GFCAACH</span><span class="topo-membrane">GCLFIACFVLVLAQSSIFSLLAIAI</span><span class="topo-inside">DRYIAIAIPLR</span></span>
-<span class="topo-line"><span class="topo-inside">YNGLVTGTRAA</span><span class="topo-membrane">GIIAICWVLSFAIGLTPMLGWN</span><span class="topo-outside">NCGQPKEGKAHSQGCGEGQVACLFEDV</span></span>
-<span class="topo-line"><span class="topo-membrane">VPMNYMVYFNFFACVLVPLLLMLGVYLR</span><span class="topo-inside">IFAAARRQLADLEDNWETLNDNLKVIEKADNA</span></span>
-<span class="topo-line"><span class="topo-inside">AQVKDALTKMRAAALDAQK</span><span class="topo-unknown">ATPPKLEDKSPDSPE</span><span class="topo-inside">MKDFRHGFDILVGQIDDALKLANEGK</span></span>
-<span class="topo-line"><span class="topo-inside">VKEAQAAAEQLKTTRNAYIQKYLERARSTLQKEVHAAK</span><span class="topo-membrane">SAAIIAGLFALCWLPLHIINCF</span></span>
-<span class="topo-line"><span class="topo-membrane">TFF</span><span class="topo-outside">CPDCSHA</span><span class="topo-membrane">PLWLMYLAIVLAHTNSVVNPFIYA</span><span class="topo-inside">YRIREFRQTFRKIIRS</span><span class="topo-unknown">HVLRQQEPFK</span></span>
-<span class="topo-line"><span class="topo-unknown">AAAHHHHHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">DYKDDDD</span><span class="topo-outside">GAPPIM</span><span class="topo-membrane">GSSVYITVELAIAVLAILGNVLVCW</span><span class="topo-inside">AVWLNSNLQNVTNY</span><span class="topo-membrane">FVVSLAAADILVGVLAIPFAITIST</span><span class="topo-outside">GFCAACH</span><span class="topo-membrane">GCLFIACFVLVLAQSSIFSLLAIAI</span><span class="topo-inside">DRYIAIAIPLR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">YNGLVTGTRAA</span><span class="topo-membrane">GIIAICWVLSFAIGLTPMLGWN</span><span class="topo-outside">NCGQPKEGKAHSQGCGEGQVACLFEDV</span><span class="topo-membrane">VPMNYMVYFNFFACVLVPLLLMLGVYLR</span><span class="topo-inside">IFAAARRQLADLEDNWETLNDNLKVIEKADNA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">AQVKDALTKMRAAALDAQK</span><span class="topo-unknown">ATPPKLEDKSPDSPE</span><span class="topo-inside">MKDFRHGFDILVGQIDDALKLANEGKVKEAQAAAEQLKTTRNAYIQKYLERARSTLQKEVHAAK</span><span class="topo-membrane">SAAIIAGLFALCWLPLHIINCF</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430   </span>
+<span class="topo-line"><span class="topo-membrane">TFF</span><span class="topo-outside">CPDCSHA</span><span class="topo-membrane">PLWLMYLAIVLAHTNSVVNPFIYA</span><span class="topo-inside">YRIREFRQTFRKIIRS</span><span class="topo-unknown">HVLRQQEPFKAAAHHHHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -286,6 +287,7 @@ The Tubulin-DARPin complex (TD1) is a model system for studying ligand binding t
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -301,14 +303,15 @@ The Tubulin-DARPin complex (TD1) is a model system for studying ligand binding t
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">DYKDDDDG</span><span class="topo-inside">APPIMG</span><span class="topo-membrane">SSVYITVELAIAVLAILGNVLVCW</span><span class="topo-outside">AVWLNSNLQNVTNY</span><span class="topo-membrane">FVVSLAAA</span></span>
-<span class="topo-line"><span class="topo-membrane">DILVGVLAIPFAITIS</span><span class="topo-inside">TGFCAACH</span><span class="topo-membrane">GCLFIACFVLVLAQSSIFSLLAIAI</span><span class="topo-outside">DRYIAIAIPLR</span></span>
-<span class="topo-line"><span class="topo-outside">YNGLVTGTRA</span><span class="topo-membrane">AGIIAICWVLSFAIGLTPMLGWN</span><span class="topo-inside">NCGQPKEGKAHSQGCGEGQVACLFEDV</span></span>
-<span class="topo-line"><span class="topo-inside">V</span><span class="topo-membrane">PMNYMVYFNFFACVLVPLLLMLGVYL</span><span class="topo-outside">RIFAAARRQLADLEDNWETLNDNLKVIEKADNA</span></span>
-<span class="topo-line"><span class="topo-outside">AQVKDALTKMRAAALDAQKA</span><span class="topo-unknown">TPPKLEDKSPDSPEMKDFR</span><span class="topo-outside">HGFDILVGQIDDALKLANEGK</span></span>
-<span class="topo-line"><span class="topo-outside">VKEAQAAAEQLKTTRNAYIQKYLERARSTLQKEVHAAKSA</span><span class="topo-membrane">AIIAGLFALCWLPLHIINCF</span></span>
-<span class="topo-line"><span class="topo-membrane">TFFC</span><span class="topo-inside">PDCSHA</span><span class="topo-membrane">PLWLMYLAIVLAHTNSVVNPFIY</span><span class="topo-outside">AYRI</span><span class="topo-unknown">REFRQTFRKII</span><span class="topo-outside">R</span><span class="topo-unknown">SHVLRQQEPFK</span></span>
-<span class="topo-line"><span class="topo-unknown">AAAHHHHHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">DYKDDDDG</span><span class="topo-inside">APPIMG</span><span class="topo-membrane">SSVYITVELAIAVLAILGNVLVCW</span><span class="topo-outside">AVWLNSNLQNVTNY</span><span class="topo-membrane">FVVSLAAADILVGVLAIPFAITIS</span><span class="topo-inside">TGFCAACH</span><span class="topo-membrane">GCLFIACFVLVLAQSSIFSLLAIAI</span><span class="topo-outside">DRYIAIAIPLR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">YNGLVTGTRA</span><span class="topo-membrane">AGIIAICWVLSFAIGLTPMLGWN</span><span class="topo-inside">NCGQPKEGKAHSQGCGEGQVACLFEDVV</span><span class="topo-membrane">PMNYMVYFNFFACVLVPLLLMLGVYL</span><span class="topo-outside">RIFAAARRQLADLEDNWETLNDNLKVIEKADNA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">AQVKDALTKMRAAALDAQKA</span><span class="topo-unknown">TPPKLEDKSPDSPEMKDFR</span><span class="topo-outside">HGFDILVGQIDDALKLANEGKVKEAQAAAEQLKTTRNAYIQKYLERARSTLQKEVHAAKSA</span><span class="topo-membrane">AIIAGLFALCWLPLHIINCF</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430   </span>
+<span class="topo-line"><span class="topo-membrane">TFFC</span><span class="topo-inside">PDCSHA</span><span class="topo-membrane">PLWLMYLAIVLAHTNSVVNPFIY</span><span class="topo-outside">AYRI</span><span class="topo-unknown">REFRQTFRKII</span><span class="topo-outside">R</span><span class="topo-unknown">SHVLRQQEPFKAAAHHHHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -446,6 +449,7 @@ The Tubulin-DARPin complex (TD1) is a model system for studying ligand binding t
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

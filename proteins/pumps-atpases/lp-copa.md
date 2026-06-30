@@ -61,19 +61,21 @@ LpCopA is a copper-transporting P_IB-type ATPase from the bacterium Legionella p
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MKHDHHQGHTHSGKGHACHHEHNSPKTQQASSKMEGPIVYTCPMHPEIRQSAPGHCPLCG</span></span>
-<span class="topo-line"><span class="topo-unknown">MALEPETVTVSEV</span><span class="topo-outside">VSPEYLDMRRR</span><span class="topo-membrane">FWIALMLTIPVVILEMGGHG</span><span class="topo-inside">LKHFISGNG</span><span class="topo-membrane">SSWIQLL</span></span>
-<span class="topo-line"><span class="topo-membrane">LATPVVLWGGWP</span><span class="topo-unknown">FFKRGWQSL</span><span class="topo-outside">KTGQLNM</span><span class="topo-membrane">FTLIAMGIGVAWIYSMVAVL</span><span class="topo-inside">WPGVFPHAFRSQ</span></span>
-<span class="topo-line"><span class="topo-inside">EGVVA</span><span class="topo-membrane">VYFEAAAVITTLVL</span><span class="topo-outside">LGQVLELKAREQTGSAIRALLKLVPESAHRIKEDGSEEEVS</span></span>
-<span class="topo-line"><span class="topo-outside">LDNVAVGDLLRVRPGEKIPVDGEVQEGRSFVDESMVTGEPIPVAKEASAKVIGATINQTG</span></span>
-<span class="topo-line"><span class="topo-outside">SFVMKALHVGSDTMLARIVQMVSDAQRSRAPIQRLADTVS</span><span class="topo-membrane">GWFVPAVILVAVLSFIVWA</span><span class="topo-inside">L</span></span>
-<span class="topo-line"><span class="topo-inside">LGPQPALSYG</span><span class="topo-membrane">LIAAVSVLIIACPCAL</span><span class="topo-outside">GLATPMSIMVGVGKGAQSGVLIKNAEALERMEKV</span></span>
-<span class="topo-line"><span class="topo-outside">NTLVVDKTGTLTEGHPKLTRIVTDDFVEDNALALAAALEHQSEHPLANAIVHAAKEKGLS</span></span>
-<span class="topo-line"><span class="topo-outside">LGSVEAFEAPTGKGVVGQVDGHHVAIGNARLMQEHGGDNAPLFEKADELRGKGASVMFMA</span></span>
-<span class="topo-line"><span class="topo-outside">VDGKTVALLVVEDPIKSSTPETILELQQSGIEIVMLTGDSKRTAEAVAGTLGIKKVVAEI</span></span>
-<span class="topo-line"><span class="topo-outside">MPEDKSRIVSELKDKGLIVAMAGDGVNDAPALAKADIGIAMGTGTDVAIESAGVTLLHGD</span></span>
-<span class="topo-line"><span class="topo-outside">LRGIAKARRLSESTMSNIRQNLF</span><span class="topo-membrane">FAFIYNVLGVPLAAGVLY</span><span class="topo-inside">PLTGL</span><span class="topo-membrane">LLSPMIAAAAMALS</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MKHDHHQGHTHSGKGHACHHEHNSPKTQQASSKMEGPIVYTCPMHPEIRQSAPGHCPLCGMALEPETVTVSEV</span><span class="topo-outside">VSPEYLDMRRR</span><span class="topo-membrane">FWIALMLTIPVVILEMGGHG</span><span class="topo-inside">LKHFISGNG</span><span class="topo-membrane">SSWIQLL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">LATPVVLWGGWP</span><span class="topo-unknown">FFKRGWQSL</span><span class="topo-outside">KTGQLNM</span><span class="topo-membrane">FTLIAMGIGVAWIYSMVAVL</span><span class="topo-inside">WPGVFPHAFRSQEGVVA</span><span class="topo-membrane">VYFEAAAVITTLVL</span><span class="topo-outside">LGQVLELKAREQTGSAIRALLKLVPESAHRIKEDGSEEEVS</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">LDNVAVGDLLRVRPGEKIPVDGEVQEGRSFVDESMVTGEPIPVAKEASAKVIGATINQTGSFVMKALHVGSDTMLARIVQMVSDAQRSRAPIQRLADTVS</span><span class="topo-membrane">GWFVPAVILVAVLSFIVWA</span><span class="topo-inside">L</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">LGPQPALSYG</span><span class="topo-membrane">LIAAVSVLIIACPCAL</span><span class="topo-outside">GLATPMSIMVGVGKGAQSGVLIKNAEALERMEKVNTLVVDKTGTLTEGHPKLTRIVTDDFVEDNALALAAALEHQSEHPLANAIVHAAKEKGLS</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">LGSVEAFEAPTGKGVVGQVDGHHVAIGNARLMQEHGGDNAPLFEKADELRGKGASVMFMAVDGKTVALLVVEDPIKSSTPETILELQQSGIEIVMLTGDSKRTAEAVAGTLGIKKVVAEI</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-outside">MPEDKSRIVSELKDKGLIVAMAGDGVNDAPALAKADIGIAMGTGTDVAIESAGVTLLHGDLRGIAKARRLSESTMSNIRQNLF</span><span class="topo-membrane">FAFIYNVLGVPLAAGVLY</span><span class="topo-inside">PLTGL</span><span class="topo-membrane">LLSPMIAAAAMALS</span></span>
+<span class="topo-ruler">       730      </span>
 <span class="topo-line"><span class="topo-membrane">SVS</span><span class="topo-outside">VIINALRLKRVTL</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -218,6 +220,7 @@ LpCopA is a copper-transporting P_IB-type ATPase from the bacterium Legionella p
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -328,19 +331,21 @@ LpCopA is a copper-transporting P_IB-type ATPase from the bacterium Legionella p
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MKHDHHQGHTHSGKGHACHHEHNSPKTQQASSKMEGPIVYTCPMHPEIRQSAPGHCPLCG</span></span>
-<span class="topo-line"><span class="topo-unknown">MALEPETVTVSEV</span><span class="topo-outside">VSPEYLDMRRR</span><span class="topo-membrane">FWIALMLTIPVVILEMGGHG</span><span class="topo-inside">LKHFISGNG</span><span class="topo-membrane">SSWIQLL</span></span>
-<span class="topo-line"><span class="topo-membrane">LATPVVLWGGWP</span><span class="topo-unknown">FFKRGWQSL</span><span class="topo-outside">KTGQLNM</span><span class="topo-membrane">FTLIAMGIGVAWIYSMVAVL</span><span class="topo-inside">WPGVFPHAFRSQ</span></span>
-<span class="topo-line"><span class="topo-inside">EGVVA</span><span class="topo-membrane">VYFEAAAVITTLVL</span><span class="topo-outside">LGQVLELKAREQTGSAIRALLKLVPESAHRIKEDGSEEEVS</span></span>
-<span class="topo-line"><span class="topo-outside">LDNVAVGDLLRVRPGEKIPVDGEVQEGRSFVDESMVTGEPIPVAKEASAKVIGATINQTG</span></span>
-<span class="topo-line"><span class="topo-outside">SFVMKALHVGSDTMLARIVQMVSDAQRSRAPIQRLADTVS</span><span class="topo-membrane">GWFVPAVILVAVLSFIVWA</span><span class="topo-inside">L</span></span>
-<span class="topo-line"><span class="topo-inside">LGPQPALSYG</span><span class="topo-membrane">LIAAVSVLIIACPCAL</span><span class="topo-outside">GLATPMSIMVGVGKGAQSGVLIKNAEALERMEKV</span></span>
-<span class="topo-line"><span class="topo-outside">NTLVVDKTGTLTEGHPKLTRIVTDDFVEDNALALAAALEHQSEHPLANAIVHAAKEKGLS</span></span>
-<span class="topo-line"><span class="topo-outside">LGSVEAFEAPTGKGVVGQVDGHHVAIGNARLMQEHGGDNAPLFEKADELRGKGASVMFMA</span></span>
-<span class="topo-line"><span class="topo-outside">VDGKTVALLVVEDPIKSSTPETILELQQSGIEIVMLTGDSKRTAEAVAGTLGIKKVVAEI</span></span>
-<span class="topo-line"><span class="topo-outside">MPEDKSRIVSELKDKGLIVAMAGDGVNDAPALAKADIGIAMGTGTDVAIESAGVTLLHGD</span></span>
-<span class="topo-line"><span class="topo-outside">LRGIAKARRLSESTMSNIRQNLF</span><span class="topo-membrane">FAFIYNVLGVPLAAGVLY</span><span class="topo-inside">PLTGL</span><span class="topo-membrane">LLSPMIAAAAMALS</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MKHDHHQGHTHSGKGHACHHEHNSPKTQQASSKMEGPIVYTCPMHPEIRQSAPGHCPLCGMALEPETVTVSEV</span><span class="topo-outside">VSPEYLDMRRR</span><span class="topo-membrane">FWIALMLTIPVVILEMGGHG</span><span class="topo-inside">LKHFISGNG</span><span class="topo-membrane">SSWIQLL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">LATPVVLWGGWP</span><span class="topo-unknown">FFKRGWQSL</span><span class="topo-outside">KTGQLNM</span><span class="topo-membrane">FTLIAMGIGVAWIYSMVAVL</span><span class="topo-inside">WPGVFPHAFRSQEGVVA</span><span class="topo-membrane">VYFEAAAVITTLVL</span><span class="topo-outside">LGQVLELKAREQTGSAIRALLKLVPESAHRIKEDGSEEEVS</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">LDNVAVGDLLRVRPGEKIPVDGEVQEGRSFVDESMVTGEPIPVAKEASAKVIGATINQTGSFVMKALHVGSDTMLARIVQMVSDAQRSRAPIQRLADTVS</span><span class="topo-membrane">GWFVPAVILVAVLSFIVWA</span><span class="topo-inside">L</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">LGPQPALSYG</span><span class="topo-membrane">LIAAVSVLIIACPCAL</span><span class="topo-outside">GLATPMSIMVGVGKGAQSGVLIKNAEALERMEKVNTLVVDKTGTLTEGHPKLTRIVTDDFVEDNALALAAALEHQSEHPLANAIVHAAKEKGLS</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">LGSVEAFEAPTGKGVVGQVDGHHVAIGNARLMQEHGGDNAPLFEKADELRGKGASVMFMAVDGKTVALLVVEDPIKSSTPETILELQQSGIEIVMLTGDSKRTAEAVAGTLGIKKVVAEI</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-outside">MPEDKSRIVSELKDKGLIVAMAGDGVNDAPALAKADIGIAMGTGTDVAIESAGVTLLHGDLRGIAKARRLSESTMSNIRQNLF</span><span class="topo-membrane">FAFIYNVLGVPLAAGVLY</span><span class="topo-inside">PLTGL</span><span class="topo-membrane">LLSPMIAAAAMALS</span></span>
+<span class="topo-ruler">       730      </span>
 <span class="topo-line"><span class="topo-membrane">SVS</span><span class="topo-outside">VIINALRLKRVTL</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -485,6 +490,7 @@ LpCopA is a copper-transporting P_IB-type ATPase from the bacterium Legionella p
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -500,23 +506,25 @@ LpCopA is a copper-transporting P_IB-type ATPase from the bacterium Legionella p
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MEAAHSKSTEECLAYFGVSETTGLTPDQVKRHLEKYGHNELPAEEGKSLWELVIEQFED</span><span class="topo-membrane">L</span></span>
-<span class="topo-line"><span class="topo-membrane">LVRILLLAACISFVLAWFE</span><span class="topo-outside">EGEETI</span><span class="topo-membrane">TAFVEPFVILLILIANAIV</span><span class="topo-inside">GVWQERNAENAIEALK</span></span>
-<span class="topo-line"><span class="topo-inside">EYEPEMGKVYRADRKSVQRIKARDIVPGDIVEVAVGDKVPADIRILSIKSTTLRVDQSIL</span></span>
-<span class="topo-line"><span class="topo-inside">TGESVSVIKHTEPVPDPRAVNQDKKNMLFSGTNIAAGKALGIVATTGVSTEIGKIRDQMA</span></span>
-<span class="topo-line"><span class="topo-inside">ATEQDKTPLQQKLDEF</span><span class="topo-membrane">GEQLSKVISLICVAVWLINIG</span><span class="topo-outside">HFNDPVHGGSWIRGA</span><span class="topo-membrane">IYYFKIAV</span></span>
-<span class="topo-line"><span class="topo-membrane">ALAVAAIPEGLPAVI</span><span class="topo-inside">TTCLALGTRRMAKKNAIVRSLPSVETLGCTSVICSDKTGTLTTNQ</span></span>
-<span class="topo-line"><span class="topo-inside">MSVCKMFIIDKVDGDFCSLNEFSITGSTYAPEGEVLKNDKPIRSGQFDGLVELATICALC</span></span>
-<span class="topo-line"><span class="topo-inside">NDSSLDFNETKGVYEKVGEATETALTTLVEKMNVFNTEVRNLSKVERANACNSVIRQLMK</span></span>
-<span class="topo-line"><span class="topo-inside">KEFTLEFSRDRKSMSVYCSPAKSSRAAVGNKMFVKGAPEGVIDRCNYVRVGTTRVPMTGP</span></span>
-<span class="topo-line"><span class="topo-inside">VKEKILSVIKEWGTGRDTLRCLALATRDTPPKREEMVLDDSSRFMEYETDLTFVGVVGML</span></span>
-<span class="topo-line"><span class="topo-inside">DPPRKEVMGSIQLCRDAGIRVIMITGDNKGTAIAICRRIGIFGENEEVADRAYTGREFDD</span></span>
-<span class="topo-line"><span class="topo-inside">LPLAEQREACRRACCFARVEPSHKSKIVEYLQSYDEITAMTGDGVNDAPALKKAEIGIAM</span></span>
-<span class="topo-line"><span class="topo-inside">GSGTAVAKTASEMVLADDNFSTIVAAVEEGRAIYNNMKQ</span><span class="topo-membrane">FIRYLISSNVGEVVCIFLTAA</span></span>
-<span class="topo-line"><span class="topo-outside">LGLPEA</span><span class="topo-membrane">LIPVQLLWVNLVTDGLPATAL</span><span class="topo-inside">GFNPPDLDIMDRPPRSPKEPLISG</span><span class="topo-membrane">WLFFRYMAI</span></span>
-<span class="topo-line"><span class="topo-membrane">GGYVGAATVGAA</span><span class="topo-outside">AWWFMYAEDGPGVTYHQLTHFMQCTEDHPHFEGLDCEIFEAPEPM</span><span class="topo-membrane">TMA</span></span>
-<span class="topo-line"><span class="topo-membrane">LSVLVTIEMCNALNSL</span><span class="topo-inside">SENQSLMRMPPWVNI</span><span class="topo-membrane">WLLGSICLSMSLHFLILYV</span><span class="topo-outside">DPLPMIFKLK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">MEAAHSKSTEECLAYFGVSETTGLTPDQVKRHLEKYGHNELPAEEGKSLWELVIEQFED</span><span class="topo-membrane">LLVRILLLAACISFVLAWFE</span><span class="topo-outside">EGEETI</span><span class="topo-membrane">TAFVEPFVILLILIANAIV</span><span class="topo-inside">GVWQERNAENAIEALK</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">EYEPEMGKVYRADRKSVQRIKARDIVPGDIVEVAVGDKVPADIRILSIKSTTLRVDQSILTGESVSVIKHTEPVPDPRAVNQDKKNMLFSGTNIAAGKALGIVATTGVSTEIGKIRDQMA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">ATEQDKTPLQQKLDEF</span><span class="topo-membrane">GEQLSKVISLICVAVWLINIG</span><span class="topo-outside">HFNDPVHGGSWIRGA</span><span class="topo-membrane">IYYFKIAVALAVAAIPEGLPAVI</span><span class="topo-inside">TTCLALGTRRMAKKNAIVRSLPSVETLGCTSVICSDKTGTLTTNQ</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">MSVCKMFIIDKVDGDFCSLNEFSITGSTYAPEGEVLKNDKPIRSGQFDGLVELATICALCNDSSLDFNETKGVYEKVGEATETALTTLVEKMNVFNTEVRNLSKVERANACNSVIRQLMK</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-inside">KEFTLEFSRDRKSMSVYCSPAKSSRAAVGNKMFVKGAPEGVIDRCNYVRVGTTRVPMTGPVKEKILSVIKEWGTGRDTLRCLALATRDTPPKREEMVLDDSSRFMEYETDLTFVGVVGML</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-inside">DPPRKEVMGSIQLCRDAGIRVIMITGDNKGTAIAICRRIGIFGENEEVADRAYTGREFDDLPLAEQREACRRACCFARVEPSHKSKIVEYLQSYDEITAMTGDGVNDAPALKKAEIGIAM</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820       830       840</span>
+<span class="topo-line"><span class="topo-inside">GSGTAVAKTASEMVLADDNFSTIVAAVEEGRAIYNNMKQ</span><span class="topo-membrane">FIRYLISSNVGEVVCIFLTAA</span><span class="topo-outside">LGLPEA</span><span class="topo-membrane">LIPVQLLWVNLVTDGLPATAL</span><span class="topo-inside">GFNPPDLDIMDRPPRSPKEPLISG</span><span class="topo-membrane">WLFFRYMAI</span></span>
+<span class="topo-ruler">       850       860       870       880       890       900       910       920       930       940       950       960</span>
+<span class="topo-line"><span class="topo-membrane">GGYVGAATVGAA</span><span class="topo-outside">AWWFMYAEDGPGVTYHQLTHFMQCTEDHPHFEGLDCEIFEAPEPM</span><span class="topo-membrane">TMALSVLVTIEMCNALNSL</span><span class="topo-inside">SENQSLMRMPPWVNI</span><span class="topo-membrane">WLLGSICLSMSLHFLILYV</span><span class="topo-outside">DPLPMIFKLK</span></span>
+<span class="topo-ruler">       970       980       990    </span>
 <span class="topo-line"><span class="topo-outside">A</span><span class="topo-membrane">LDLTQWLMVLKISLPVIGLDEILKFI</span><span class="topo-inside">ARNYLEG</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -675,6 +683,7 @@ LpCopA is a copper-transporting P_IB-type ATPase from the bacterium Legionella p
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

@@ -129,13 +129,15 @@ Ks-Amt5 (gene locus kust_3690) from the anammox bacterium "Candidatus Kuenenia s
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MENIQININHLWVI</span><span class="topo-membrane">MAACMVFLMQLGFTSYE</span><span class="topo-inside">TGFSQSKNAISIA</span><span class="topo-membrane">LRNLVDTLISSLVFFS</span></span>
-<span class="topo-line"><span class="topo-membrane">VGFGFM</span><span class="topo-outside">FGKSYMGLIGIDLFFANDLALHPNTLSYSFF</span><span class="topo-membrane">FFQMVFASTAATILTGA</span><span class="topo-inside">IAERSG</span></span>
-<span class="topo-line"><span class="topo-inside">FIP</span><span class="topo-membrane">NIAGTAFIVAIIYPIFGHWA</span><span class="topo-outside">WGNLFSPDQTGWLKELGFI</span><span class="topo-membrane">DFAGATVVHSIGGWFAMA</span></span>
-<span class="topo-line"><span class="topo-membrane">A</span><span class="topo-inside">AIMVGPRIDKYNPDGSSNRIGLHNVPLA</span><span class="topo-membrane">TLGTFFLWFGWFGFNGGS</span><span class="topo-outside">LLRVSVNIGLV</span><span class="topo-membrane">IL</span></span>
-<span class="topo-line"><span class="topo-membrane">NTNMAAASAGVSALIFI</span><span class="topo-inside">YATRKRIEAGS</span><span class="topo-membrane">LFTAILAGLVAITASS</span><span class="topo-outside">NMVTP</span><span class="topo-membrane">VSAVAIGLITG</span></span>
-<span class="topo-line"><span class="topo-membrane">ILAIIAE</span><span class="topo-inside">GFIEKTLKIDDPV</span><span class="topo-membrane">SAIAVHGVGGVIGTLCVAIF</span><span class="topo-outside">AQKSYLLAENGSRMHQL</span><span class="topo-membrane">GIQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MENIQININHLWVI</span><span class="topo-membrane">MAACMVFLMQLGFTSYE</span><span class="topo-inside">TGFSQSKNAISIA</span><span class="topo-membrane">LRNLVDTLISSLVFFSVGFGFM</span><span class="topo-outside">FGKSYMGLIGIDLFFANDLALHPNTLSYSFF</span><span class="topo-membrane">FFQMVFASTAATILTGA</span><span class="topo-inside">IAERSG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FIP</span><span class="topo-membrane">NIAGTAFIVAIIYPIFGHWA</span><span class="topo-outside">WGNLFSPDQTGWLKELGFI</span><span class="topo-membrane">DFAGATVVHSIGGWFAMAA</span><span class="topo-inside">AIMVGPRIDKYNPDGSSNRIGLHNVPLA</span><span class="topo-membrane">TLGTFFLWFGWFGFNGGS</span><span class="topo-outside">LLRVSVNIGLV</span><span class="topo-membrane">IL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">NTNMAAASAGVSALIFI</span><span class="topo-inside">YATRKRIEAGS</span><span class="topo-membrane">LFTAILAGLVAITASS</span><span class="topo-outside">NMVTP</span><span class="topo-membrane">VSAVAIGLITGILAIIAE</span><span class="topo-inside">GFIEKTLKIDDPV</span><span class="topo-membrane">SAIAVHGVGGVIGTLCVAIF</span><span class="topo-outside">AQKSYLLAENGSRMHQL</span><span class="topo-membrane">GIQ</span></span>
+<span class="topo-ruler">       370       380       390       400     </span>
 <span class="topo-line"><span class="topo-membrane">ALGVIVAFSWSFGLGMLFFLCL</span><span class="topo-inside">KKVKRLRVTPEEEKRGLNVAEAA</span></span>
+<details class="topo-details"><summary>Topology coordinates (23 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -308,6 +310,7 @@ Ks-Amt5 (gene locus kust_3690) from the anammox bacterium "Candidatus Kuenenia s
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -323,13 +326,15 @@ Ks-Amt5 (gene locus kust_3690) from the anammox bacterium "Candidatus Kuenenia s
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MENIQININHLWVI</span><span class="topo-membrane">MAACMVFLMQLGFTSYE</span><span class="topo-inside">TGFSQSKNAISIA</span><span class="topo-membrane">LRNLVDTLISSLVFFS</span></span>
-<span class="topo-line"><span class="topo-membrane">VGFGFM</span><span class="topo-outside">FGKSYMGLIGIDLFFANDLALHPNTLSYSFF</span><span class="topo-membrane">FFQMVFASTAATILTGA</span><span class="topo-inside">IAERSG</span></span>
-<span class="topo-line"><span class="topo-inside">FIP</span><span class="topo-membrane">NIAGTAFIVAIIYPIFGHWA</span><span class="topo-outside">WGNLFSPDQTGWLKELGFI</span><span class="topo-membrane">DFAGATVVHSIGGWFAMA</span></span>
-<span class="topo-line"><span class="topo-membrane">A</span><span class="topo-inside">AIMVGPRIDKYNPDGSSNRIGLHNVPLA</span><span class="topo-membrane">TLGTFFLWFGWFGFNGGS</span><span class="topo-outside">LLRVSVNIGLV</span><span class="topo-membrane">IL</span></span>
-<span class="topo-line"><span class="topo-membrane">NTNMAAASAGVSALIFI</span><span class="topo-inside">YATRKRIEAGS</span><span class="topo-membrane">LFTAILAGLVAITASS</span><span class="topo-outside">NMVTP</span><span class="topo-membrane">VSAVAIGLITG</span></span>
-<span class="topo-line"><span class="topo-membrane">ILAIIAE</span><span class="topo-inside">GFIEKTLKIDDPV</span><span class="topo-membrane">SAIAVHGVGGVIGTLCVAIF</span><span class="topo-outside">AQKSYLLAENGSRMHQL</span><span class="topo-membrane">GIQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MENIQININHLWVI</span><span class="topo-membrane">MAACMVFLMQLGFTSYE</span><span class="topo-inside">TGFSQSKNAISIA</span><span class="topo-membrane">LRNLVDTLISSLVFFSVGFGFM</span><span class="topo-outside">FGKSYMGLIGIDLFFANDLALHPNTLSYSFF</span><span class="topo-membrane">FFQMVFASTAATILTGA</span><span class="topo-inside">IAERSG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FIP</span><span class="topo-membrane">NIAGTAFIVAIIYPIFGHWA</span><span class="topo-outside">WGNLFSPDQTGWLKELGFI</span><span class="topo-membrane">DFAGATVVHSIGGWFAMAA</span><span class="topo-inside">AIMVGPRIDKYNPDGSSNRIGLHNVPLA</span><span class="topo-membrane">TLGTFFLWFGWFGFNGGS</span><span class="topo-outside">LLRVSVNIGLV</span><span class="topo-membrane">IL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">NTNMAAASAGVSALIFI</span><span class="topo-inside">YATRKRIEAGS</span><span class="topo-membrane">LFTAILAGLVAITASS</span><span class="topo-outside">NMVTP</span><span class="topo-membrane">VSAVAIGLITGILAIIAE</span><span class="topo-inside">GFIEKTLKIDDPV</span><span class="topo-membrane">SAIAVHGVGGVIGTLCVAIF</span><span class="topo-outside">AQKSYLLAENGSRMHQL</span><span class="topo-membrane">GIQ</span></span>
+<span class="topo-ruler">       370       380       390       400     </span>
 <span class="topo-line"><span class="topo-membrane">ALGVIVAFSWSFGLGMLFFLCL</span><span class="topo-inside">KKVKRLRVTPEEEKRGLNVAEAA</span></span>
+<details class="topo-details"><summary>Topology coordinates (23 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -502,6 +507,7 @@ Ks-Amt5 (gene locus kust_3690) from the anammox bacterium "Candidatus Kuenenia s
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -517,13 +523,15 @@ Ks-Amt5 (gene locus kust_3690) from the anammox bacterium "Candidatus Kuenenia s
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MENIQININHLWVI</span><span class="topo-membrane">MAACMVFLMQLGFTSYE</span><span class="topo-inside">TGFSQSKNAISIA</span><span class="topo-membrane">LRNLVDTLISSLVFFS</span></span>
-<span class="topo-line"><span class="topo-membrane">VGFGFM</span><span class="topo-outside">FGKSYMGLIGIDLFFANDLALHPNTLSYSFF</span><span class="topo-membrane">FFQMVFASTAATILTGA</span><span class="topo-inside">IAERSG</span></span>
-<span class="topo-line"><span class="topo-inside">FIP</span><span class="topo-membrane">NIAGTAFIVAIIYPIFGHWA</span><span class="topo-outside">WGNLFSPDQTGWLKELGFI</span><span class="topo-membrane">DFAGATVVHSIGGWFAMA</span></span>
-<span class="topo-line"><span class="topo-membrane">A</span><span class="topo-inside">AIMVGPRIDKYNPDGSSNRIGLHNVPLA</span><span class="topo-membrane">TLGTFFLWFGWFGFNGGS</span><span class="topo-outside">LLRVSVNIGLV</span><span class="topo-membrane">IL</span></span>
-<span class="topo-line"><span class="topo-membrane">NTNMAAASAGVSALIFI</span><span class="topo-inside">YATRKRIEAGS</span><span class="topo-membrane">LFTAILAGLVAITASS</span><span class="topo-outside">NMVTP</span><span class="topo-membrane">VSAVAIGLITG</span></span>
-<span class="topo-line"><span class="topo-membrane">ILAIIAE</span><span class="topo-inside">GFIEKTLKIDDPV</span><span class="topo-membrane">SAIAVHGVGGVIGTLCVAIF</span><span class="topo-outside">AQKSYLLAENGSRMHQL</span><span class="topo-membrane">GIQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MENIQININHLWVI</span><span class="topo-membrane">MAACMVFLMQLGFTSYE</span><span class="topo-inside">TGFSQSKNAISIA</span><span class="topo-membrane">LRNLVDTLISSLVFFSVGFGFM</span><span class="topo-outside">FGKSYMGLIGIDLFFANDLALHPNTLSYSFF</span><span class="topo-membrane">FFQMVFASTAATILTGA</span><span class="topo-inside">IAERSG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FIP</span><span class="topo-membrane">NIAGTAFIVAIIYPIFGHWA</span><span class="topo-outside">WGNLFSPDQTGWLKELGFI</span><span class="topo-membrane">DFAGATVVHSIGGWFAMAA</span><span class="topo-inside">AIMVGPRIDKYNPDGSSNRIGLHNVPLA</span><span class="topo-membrane">TLGTFFLWFGWFGFNGGS</span><span class="topo-outside">LLRVSVNIGLV</span><span class="topo-membrane">IL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">NTNMAAASAGVSALIFI</span><span class="topo-inside">YATRKRIEAGS</span><span class="topo-membrane">LFTAILAGLVAITASS</span><span class="topo-outside">NMVTP</span><span class="topo-membrane">VSAVAIGLITGILAIIAE</span><span class="topo-inside">GFIEKTLKIDDPV</span><span class="topo-membrane">SAIAVHGVGGVIGTLCVAIF</span><span class="topo-outside">AQKSYLLAENGSRMHQL</span><span class="topo-membrane">GIQ</span></span>
+<span class="topo-ruler">       370       380       390       400     </span>
 <span class="topo-line"><span class="topo-membrane">ALGVIVAFSWSFGLGMLFFLCL</span><span class="topo-inside">KKVKRLRVTPEEEKRGLNVAEAA</span></span>
+<details class="topo-details"><summary>Topology coordinates (23 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -696,6 +704,7 @@ Ks-Amt5 (gene locus kust_3690) from the anammox bacterium "Candidatus Kuenenia s
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

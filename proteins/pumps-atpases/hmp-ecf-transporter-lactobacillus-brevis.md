@@ -150,11 +150,13 @@ rigid-body rotation of the S component.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">AIAFEHVTYTYQAGTPMAHTALTDVSLTVPDRGYLAIIGHTGSGKSTLIQQLNALLKPT</span></span>
-<span class="topo-line"><span class="topo-inside">SGTIKIDEFTITPETTNAALKPLRQHVGMVFQFPENQLFEETVRQDIAFGPKNFGMADAD</span></span>
-<span class="topo-line"><span class="topo-inside">ALALADEMLTTVGLDQSYAERSPFELSGGQMRRVAIAGVLAMQPKVLVLDEPTAGLDPQG</span></span>
-<span class="topo-line"><span class="topo-inside">RQEMMRLFARLHQEQGLTIVLVTHQMEDVAQYAEQVAVMHEGRLMKFGTPADVFSNREWL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">AIAFEHVTYTYQAGTPMAHTALTDVSLTVPDRGYLAIIGHTGSGKSTLIQQLNALLKPTSGTIKIDEFTITPETTNAALKPLRQHVGMVFQFPENQLFEETVRQDIAFGPKNFGMADAD</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">ALALADEMLTTVGLDQSYAERSPFELSGGQMRRVAIAGVLAMQPKVLVLDEPTAGLDPQGRQEMMRLFARLHQEQGLTIVLVTHQMEDVAQYAEQVAVMHEGRLMKFGTPADVFSNREWL</span></span>
+<span class="topo-ruler">       250       260       270       280       290</span>
 <span class="topo-line"><span class="topo-inside">QDHQLDVPQAAQFARRLRDRGLTFPKQPLTADQLADYLAQQWAQR</span><span class="topo-unknown">GADHV</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -187,6 +189,7 @@ rigid-body rotation of the S component.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -202,11 +205,13 @@ rigid-body rotation of the S component.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">TENIISVDHLTYQY</span><span class="topo-unknown">DEN</span><span class="topo-inside">QAPALTDVSFTVHAGEWLAIVGHNGSGKSTLAKSLDGLLPFT</span></span>
-<span class="topo-line"><span class="topo-inside">QGSVTVGGITLTPETVWQVREQIGMIFQNPDNQFVGATVEDDVAFGLENRQISRDEMVPR</span></span>
-<span class="topo-line"><span class="topo-inside">VQAALAQVGMTSFAQREPSSLSGGQKQRVALAGIVAIAPKILILDEATSMLDPQGRIEML</span></span>
-<span class="topo-line"><span class="topo-inside">AIVRQLRQQQNLTVISITHDIDEAASADRVLVIDDGRLVDEAVPSQIFERGTQLVEMGLD</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">TENIISVDHLTYQY</span><span class="topo-unknown">DEN</span><span class="topo-inside">QAPALTDVSFTVHAGEWLAIVGHNGSGKSTLAKSLDGLLPFTQGSVTVGGITLTPETVWQVREQIGMIFQNPDNQFVGATVEDDVAFGLENRQISRDEMVPR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">VQAALAQVGMTSFAQREPSSLSGGQKQRVALAGIVAIAPKILILDEATSMLDPQGRIEMLAIVRQLRQQQNLTVISITHDIDEAASADRVLVIDDGRLVDEAVPSQIFERGTQLVEMGLD</span></span>
+<span class="topo-ruler">       250       260       270         </span>
 <span class="topo-line"><span class="topo-inside">LPFTEKLKAALRQRGITPPTTYQTAAEMEEWLWQSLS</span><span class="topo-unknown">NT</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -253,6 +258,7 @@ rigid-body rotation of the S component.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -268,11 +274,13 @@ rigid-body rotation of the S component.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSNFIFGRYLPLDSVV</span><span class="topo-inside">HRLDPRAKLM</span><span class="topo-membrane">LSFCYIIVVFLANNI</span><span class="topo-outside">W</span><span class="topo-membrane">SYAILIAFTVGAILSSKI</span></span>
-<span class="topo-line"><span class="topo-inside">S</span><span class="topo-membrane">LGFFLKGIRPLLWLIVFTVVLQLLFSPAGG</span><span class="topo-outside">HTYFHWA</span><span class="topo-unknown">FINV</span><span class="topo-outside">T</span><span class="topo-membrane">QDGLINAGYIFVRFLLI</span></span>
-<span class="topo-line"><span class="topo-membrane">IMMSTLL</span><span class="topo-inside">TLSTQPLD</span><span class="topo-unknown">IATGLASL</span><span class="topo-inside">MKPLRWVKVPVDTLAMMLSIALRFVPTLMDEATKIMN</span></span>
-<span class="topo-line"><span class="topo-inside">AQRARGVDFGEGGLFKQAKSLIPLMVPLFMSAFNRAEDLSTAMEARGYQDSEHRSQY</span><span class="topo-unknown">RIL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSNFIFGRYLPLDSVV</span><span class="topo-inside">HRLDPRAKLM</span><span class="topo-membrane">LSFCYIIVVFLANNI</span><span class="topo-outside">W</span><span class="topo-membrane">SYAILIAFTVGAILSSKI</span><span class="topo-inside">S</span><span class="topo-membrane">LGFFLKGIRPLLWLIVFTVVLQLLFSPAGG</span><span class="topo-outside">HTYFHWA</span><span class="topo-unknown">FINV</span><span class="topo-outside">T</span><span class="topo-membrane">QDGLINAGYIFVRFLLI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">IMMSTLL</span><span class="topo-inside">TLSTQPLD</span><span class="topo-unknown">IATGLASL</span><span class="topo-inside">MKPLRWVKVPVDTLAMMLSIALRFVPTLMDEATKIMNAQRARGVDFGEGGLFKQAKSLIPLMVPLFMSAFNRAEDLSTAMEARGYQDSEHRSQY</span><span class="topo-unknown">RIL</span></span>
+<span class="topo-ruler">       250       260      </span>
 <span class="topo-line"><span class="topo-unknown">TWQ</span><span class="topo-inside">RR</span><span class="topo-membrane">DTVTWLLFLLGFVAILIFRHW</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -403,6 +411,7 @@ rigid-body rotation of the S component.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -418,9 +427,11 @@ rigid-body rotation of the S component.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MTKGSLKENTIAAVLIAMTVALSILVVIPIPATKGIVTLCEVGIYTSAILYGRRM</span><span class="topo-unknown">GLLVG</span></span>
-<span class="topo-line"><span class="topo-unknown">GASGFLIDIL</span><span class="topo-inside">TGYPVWC</span><span class="topo-unknown">LFSLVIHGTQGLVVGWLL</span><span class="topo-inside">PRHHKGIRSMLLPLLVGS</span><span class="topo-unknown">LVMVIGY</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">MTKGSLKENTIAAVLIAMTVALSILVVIPIPATKGIVTLCEVGIYTSAILYGRRM</span><span class="topo-unknown">GLLVGGASGFLIDIL</span><span class="topo-inside">TGYPVWC</span><span class="topo-unknown">LFSLVIHGTQGLVVGWLL</span><span class="topo-inside">PRHHKGIRSMLLPLLVGS</span><span class="topo-unknown">LVMVIGY</span></span>
+<span class="topo-ruler">       130       140       150       160      </span>
 <span class="topo-line"><span class="topo-unknown">CLATTLLFGWPAGLASIFGNVV</span><span class="topo-inside">QVGFGAGVTLSIVGPLTRLKPD</span><span class="topo-unknown">LV</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -488,6 +499,7 @@ rigid-body rotation of the S component.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

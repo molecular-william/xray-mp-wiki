@@ -167,14 +167,15 @@ Lysophosphatidic acid receptor 1 (LPA1, also known as LPAR1 or EDG2) is a class 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MKTIIALSYIFCLVFAGAPAAISTSIPVISQPQFTAM</span><span class="topo-outside">NEPQCFYNESIAFFYNRSGKHLA</span></span>
-<span class="topo-line"><span class="topo-outside">TEWNTV</span><span class="topo-membrane">SKLVMGLGITVCIFIMLANLLVMV</span><span class="topo-inside">AIYVNRRFHFPIYYL</span><span class="topo-membrane">MANLAAADFFAGLAY</span></span>
-<span class="topo-line"><span class="topo-membrane">FYLMFNT</span><span class="topo-outside">GPNTRRLTV</span><span class="topo-membrane">STWLLRQGLIDTSLTASVANLLAIA</span><span class="topo-inside">IERHITVFRMQLHTRMSNR</span></span>
-<span class="topo-line"><span class="topo-inside">RVV</span><span class="topo-membrane">VVIVVIWTMAIVMGAIPSVGWNC</span><span class="topo-outside">ICDIENCSNMAPL</span><span class="topo-membrane">YSDSYLVFWAIFNLVTFVVMV</span></span>
-<span class="topo-line"><span class="topo-membrane">VLYA</span><span class="topo-inside">HIFGYVADLEDNWETLNDNLKVIEKADNAAQVKDALTKMRAAALDAQKA</span><span class="topo-unknown">TPPKLED</span></span>
-<span class="topo-line"><span class="topo-unknown">KSPDSPE</span><span class="topo-inside">MKDFRHGFDILVGQIDDALKLANEGKVKEAQAAAEQLKTTRNAYIQKYLRNRD</span></span>
-<span class="topo-line"><span class="topo-inside">TMMSLLKT</span><span class="topo-membrane">VVIVLGAFIICWTPGLVLLLLDVCC</span><span class="topo-outside">PQCDVL</span><span class="topo-membrane">AYEKFFLLLAEFNSAMNPIIY</span></span>
-<span class="topo-line"><span class="topo-membrane">SY</span><span class="topo-inside">RDKEMSATFRQILG</span><span class="topo-unknown">RPLEVLFQGPHHHHHHHHHHDYKDDDDK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MKTIIALSYIFCLVFAGAPAAISTSIPVISQPQFTAM</span><span class="topo-outside">NEPQCFYNESIAFFYNRSGKHLATEWNTV</span><span class="topo-membrane">SKLVMGLGITVCIFIMLANLLVMV</span><span class="topo-inside">AIYVNRRFHFPIYYL</span><span class="topo-membrane">MANLAAADFFAGLAY</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">FYLMFNT</span><span class="topo-outside">GPNTRRLTV</span><span class="topo-membrane">STWLLRQGLIDTSLTASVANLLAIA</span><span class="topo-inside">IERHITVFRMQLHTRMSNRRVV</span><span class="topo-membrane">VVIVVIWTMAIVMGAIPSVGWNC</span><span class="topo-outside">ICDIENCSNMAPL</span><span class="topo-membrane">YSDSYLVFWAIFNLVTFVVMV</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">VLYA</span><span class="topo-inside">HIFGYVADLEDNWETLNDNLKVIEKADNAAQVKDALTKMRAAALDAQKA</span><span class="topo-unknown">TPPKLEDKSPDSPE</span><span class="topo-inside">MKDFRHGFDILVGQIDDALKLANEGKVKEAQAAAEQLKTTRNAYIQKYLRNRD</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460    </span>
+<span class="topo-line"><span class="topo-inside">TMMSLLKT</span><span class="topo-membrane">VVIVLGAFIICWTPGLVLLLLDVCC</span><span class="topo-outside">PQCDVL</span><span class="topo-membrane">AYEKFFLLLAEFNSAMNPIIYSY</span><span class="topo-inside">RDKEMSATFRQILG</span><span class="topo-unknown">RPLEVLFQGPHHHHHHHHHHDYKDDDDK</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -333,6 +334,7 @@ Lysophosphatidic acid receptor 1 (LPA1, also known as LPAR1 or EDG2) is a class 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -348,14 +350,15 @@ Lysophosphatidic acid receptor 1 (LPA1, also known as LPAR1 or EDG2) is a class 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MKTIIALSYIFCLVFAGAPAAISTSIPVISQPQFTAMNEP</span><span class="topo-outside">QCFYNESIAFFYNRSGKHLA</span></span>
-<span class="topo-line"><span class="topo-outside">TEWNTVSK</span><span class="topo-membrane">LVMGLGITVCIFIMLANLLVMVAIY</span><span class="topo-inside">VNRRFHFPIY</span><span class="topo-membrane">YLMANLAAADFFAGLAY</span></span>
-<span class="topo-line"><span class="topo-membrane">FYLMFNT</span><span class="topo-outside">GPNTRRLTVST</span><span class="topo-membrane">WLLRQGLIDTSLTASVANLLAIAI</span><span class="topo-inside">ERHITVFRMQLHTRMSNR</span></span>
-<span class="topo-line"><span class="topo-inside">R</span><span class="topo-membrane">VVVVIVVIWTMAIVMGAIPSVGWN</span><span class="topo-outside">CICDIENCSNMAPLY</span><span class="topo-membrane">SDSYLVFWAIFNLVTFVVMV</span></span>
-<span class="topo-line"><span class="topo-membrane">VLYA</span><span class="topo-inside">HIFGYVADLEDNWETLNDNLKVIEKADNAAQVKDALTKMRAAALDAQKA</span><span class="topo-unknown">TPPKLED</span></span>
-<span class="topo-line"><span class="topo-unknown">KSPDSPE</span><span class="topo-inside">MKDFRHGFDILVGQIDDALKLANEGKVKEAQAAAEQLKTTRNAYIQKYLRNRD</span></span>
-<span class="topo-line"><span class="topo-inside">TMMSLLKT</span><span class="topo-membrane">VVIVLGAFIICWTPGLVLLLLDVCC</span><span class="topo-outside">PQC</span><span class="topo-membrane">DVLAYEKFFLLLAEFNSAMNPIIY</span></span>
-<span class="topo-line"><span class="topo-membrane">SYR</span><span class="topo-inside">DKEMSATFRQILG</span><span class="topo-unknown">RPLEVLFQGPHHHHHHHHHHDYKDDDDK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MKTIIALSYIFCLVFAGAPAAISTSIPVISQPQFTAMNEP</span><span class="topo-outside">QCFYNESIAFFYNRSGKHLATEWNTVSK</span><span class="topo-membrane">LVMGLGITVCIFIMLANLLVMVAIY</span><span class="topo-inside">VNRRFHFPIY</span><span class="topo-membrane">YLMANLAAADFFAGLAY</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">FYLMFNT</span><span class="topo-outside">GPNTRRLTVST</span><span class="topo-membrane">WLLRQGLIDTSLTASVANLLAIAI</span><span class="topo-inside">ERHITVFRMQLHTRMSNRR</span><span class="topo-membrane">VVVVIVVIWTMAIVMGAIPSVGWN</span><span class="topo-outside">CICDIENCSNMAPLY</span><span class="topo-membrane">SDSYLVFWAIFNLVTFVVMV</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">VLYA</span><span class="topo-inside">HIFGYVADLEDNWETLNDNLKVIEKADNAAQVKDALTKMRAAALDAQKA</span><span class="topo-unknown">TPPKLEDKSPDSPE</span><span class="topo-inside">MKDFRHGFDILVGQIDDALKLANEGKVKEAQAAAEQLKTTRNAYIQKYLRNRD</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460    </span>
+<span class="topo-line"><span class="topo-inside">TMMSLLKT</span><span class="topo-membrane">VVIVLGAFIICWTPGLVLLLLDVCC</span><span class="topo-outside">PQC</span><span class="topo-membrane">DVLAYEKFFLLLAEFNSAMNPIIYSYR</span><span class="topo-inside">DKEMSATFRQILG</span><span class="topo-unknown">RPLEVLFQGPHHHHHHHHHHDYKDDDDK</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -514,6 +517,7 @@ Lysophosphatidic acid receptor 1 (LPA1, also known as LPAR1 or EDG2) is a class 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -529,14 +533,15 @@ Lysophosphatidic acid receptor 1 (LPA1, also known as LPAR1 or EDG2) is a class 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MKTIIALSYIFCLVFAGAPAAISTSIPVISQPQFTAMNEP</span><span class="topo-outside">QCFYNESIAFFYNRSGKHLA</span></span>
-<span class="topo-line"><span class="topo-outside">TEWNTV</span><span class="topo-membrane">SKLVMGLGITVCIFIMLANLLVMVAIY</span><span class="topo-inside">VNRRFHFPIYY</span><span class="topo-membrane">LMANLAAADFFAGLAY</span></span>
-<span class="topo-line"><span class="topo-membrane">FYLMFNT</span><span class="topo-outside">GPNTRRLTVS</span><span class="topo-membrane">TWLLRQGLIDTSLTASVANLLAIAI</span><span class="topo-inside">ERHITVFRMQLHTRMSNR</span></span>
-<span class="topo-line"><span class="topo-inside">RV</span><span class="topo-membrane">VVVIVVIWTMAIVMGAIPSVGWN</span><span class="topo-outside">CICDIENCSNMAPLY</span><span class="topo-membrane">SCSYLVFWAIFNLVTFVVMV</span></span>
-<span class="topo-line"><span class="topo-membrane">VLYA</span><span class="topo-inside">HIFGYVADLEDNWETLNDNLKVIEKADNAAQVKDALTKMRAAALDAQKG</span><span class="topo-unknown">GSGGSDS</span></span>
-<span class="topo-line"><span class="topo-unknown">PE</span><span class="topo-inside">MKDFRHGFDILVGQIDDALKLANEGKVKEAQAAAEQLKTTRNAYIQKYLRNRDTMMSL</span></span>
-<span class="topo-line"><span class="topo-inside">LKT</span><span class="topo-membrane">VVIVLGAFIICWTPGLVLLLLDCCC</span><span class="topo-outside">PQC</span><span class="topo-membrane">DVLAYEKFFLLLAEFNSAMNPIIYSY</span><span class="topo-inside">RDK</span></span>
-<span class="topo-line"><span class="topo-inside">EMSATFRQILG</span><span class="topo-unknown">RPLEVLFQGPHHHHHHHHHHDYKDDDDK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MKTIIALSYIFCLVFAGAPAAISTSIPVISQPQFTAMNEP</span><span class="topo-outside">QCFYNESIAFFYNRSGKHLATEWNTV</span><span class="topo-membrane">SKLVMGLGITVCIFIMLANLLVMVAIY</span><span class="topo-inside">VNRRFHFPIYY</span><span class="topo-membrane">LMANLAAADFFAGLAY</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">FYLMFNT</span><span class="topo-outside">GPNTRRLTVS</span><span class="topo-membrane">TWLLRQGLIDTSLTASVANLLAIAI</span><span class="topo-inside">ERHITVFRMQLHTRMSNRRV</span><span class="topo-membrane">VVVIVVIWTMAIVMGAIPSVGWN</span><span class="topo-outside">CICDIENCSNMAPLY</span><span class="topo-membrane">SCSYLVFWAIFNLVTFVVMV</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">VLYA</span><span class="topo-inside">HIFGYVADLEDNWETLNDNLKVIEKADNAAQVKDALTKMRAAALDAQKG</span><span class="topo-unknown">GSGGSDSPE</span><span class="topo-inside">MKDFRHGFDILVGQIDDALKLANEGKVKEAQAAAEQLKTTRNAYIQKYLRNRDTMMSL</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450         </span>
+<span class="topo-line"><span class="topo-inside">LKT</span><span class="topo-membrane">VVIVLGAFIICWTPGLVLLLLDCCC</span><span class="topo-outside">PQC</span><span class="topo-membrane">DVLAYEKFFLLLAEFNSAMNPIIYSY</span><span class="topo-inside">RDKEMSATFRQILG</span><span class="topo-unknown">RPLEVLFQGPHHHHHHHHHHDYKDDDDK</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -695,6 +700,7 @@ Lysophosphatidic acid receptor 1 (LPA1, also known as LPAR1 or EDG2) is a class 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

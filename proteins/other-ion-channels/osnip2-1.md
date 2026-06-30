@@ -137,10 +137,11 @@ OsNIP2;1 (Nodulin26-like Intrinsic Protein 2;1) is a silicon transporter from th
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">AIADFFP</span><span class="topo-inside">PHLLKK</span><span class="topo-membrane">VVSEVVATFLLVFMTCGA</span><span class="topo-outside">AGISGSDLSRISQL</span><span class="topo-membrane">GQSIAGGLIVTVMIY</span></span>
-<span class="topo-line"><span class="topo-membrane">AVG</span><span class="topo-inside">HIS</span><span class="topo-unknown">GAHMNPAVTLAFAV</span><span class="topo-inside">FRHFPWIQV</span><span class="topo-membrane">PFYWAAQFTGAICASFVL</span><span class="topo-outside">KAVIHPVDVIGTT</span></span>
-<span class="topo-line"><span class="topo-outside">TPVGPHWHS</span><span class="topo-membrane">LVVEVIVTFNMMFVTLAV</span><span class="topo-inside">ATDTRAVGE</span><span class="topo-membrane">LAGLAVGSAVCITSIFAG</span><span class="topo-outside">AISGG</span><span class="topo-unknown">S</span></span>
-<span class="topo-line"><span class="topo-unknown">MNPARTLGP</span><span class="topo-outside">ALASNKFDGL</span><span class="topo-membrane">WIYFLGPVMGTLSGAWTY</span><span class="topo-inside">TFIRFE</span><span class="topo-unknown">DTPK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">AIADFFP</span><span class="topo-inside">PHLLKK</span><span class="topo-membrane">VVSEVVATFLLVFMTCGA</span><span class="topo-outside">AGISGSDLSRISQL</span><span class="topo-membrane">GQSIAGGLIVTVMIYAVG</span><span class="topo-inside">HIS</span><span class="topo-unknown">GAHMNPAVTLAFAV</span><span class="topo-inside">FRHFPWIQV</span><span class="topo-membrane">PFYWAAQFTGAICASFVL</span><span class="topo-outside">KAVIHPVDVIGTT</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       </span>
+<span class="topo-line"><span class="topo-outside">TPVGPHWHS</span><span class="topo-membrane">LVVEVIVTFNMMFVTLAV</span><span class="topo-inside">ATDTRAVGE</span><span class="topo-membrane">LAGLAVGSAVCITSIFAG</span><span class="topo-outside">AISGG</span><span class="topo-unknown">SMNPARTLGP</span><span class="topo-outside">ALASNKFDGL</span><span class="topo-membrane">WIYFLGPVMGTLSGAWTY</span><span class="topo-inside">TFIRFE</span><span class="topo-unknown">DTPK</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -271,6 +272,7 @@ OsNIP2;1 (Nodulin26-like Intrinsic Protein 2;1) is a silicon transporter from th
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -286,10 +288,11 @@ OsNIP2;1 (Nodulin26-like Intrinsic Protein 2;1) is a silicon transporter from th
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">AIADFFP</span><span class="topo-inside">PHLLKK</span><span class="topo-membrane">VVSEVVATFLLVFMTCGA</span><span class="topo-outside">AGISGSDLSRISQL</span><span class="topo-membrane">GQSIAGGLIVTVMIY</span></span>
-<span class="topo-line"><span class="topo-membrane">AVG</span><span class="topo-inside">HIS</span><span class="topo-unknown">GAHMNPAVTLAFAV</span><span class="topo-inside">FRHFPWIQV</span><span class="topo-membrane">PFYWAAQFTGAICASFVL</span><span class="topo-outside">KAVIHPVDVIGTT</span></span>
-<span class="topo-line"><span class="topo-outside">TPVGPHWHS</span><span class="topo-membrane">LVVEVIVTFNMMFVTLAV</span><span class="topo-inside">ATDTRAVGE</span><span class="topo-membrane">LAGLAVGSAVCITSIFAG</span><span class="topo-outside">AISGG</span><span class="topo-unknown">S</span></span>
-<span class="topo-line"><span class="topo-unknown">MNPARTLGP</span><span class="topo-outside">ALASNKFDGL</span><span class="topo-membrane">WIYFLGPVMGTLSGAWTY</span><span class="topo-inside">TFIRFE</span><span class="topo-unknown">DTPK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">AIADFFP</span><span class="topo-inside">PHLLKK</span><span class="topo-membrane">VVSEVVATFLLVFMTCGA</span><span class="topo-outside">AGISGSDLSRISQL</span><span class="topo-membrane">GQSIAGGLIVTVMIYAVG</span><span class="topo-inside">HIS</span><span class="topo-unknown">GAHMNPAVTLAFAV</span><span class="topo-inside">FRHFPWIQV</span><span class="topo-membrane">PFYWAAQFTGAICASFVL</span><span class="topo-outside">KAVIHPVDVIGTT</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       </span>
+<span class="topo-line"><span class="topo-outside">TPVGPHWHS</span><span class="topo-membrane">LVVEVIVTFNMMFVTLAV</span><span class="topo-inside">ATDTRAVGE</span><span class="topo-membrane">LAGLAVGSAVCITSIFAG</span><span class="topo-outside">AISGG</span><span class="topo-unknown">SMNPARTLGP</span><span class="topo-outside">ALASNKFDGL</span><span class="topo-membrane">WIYFLGPVMGTLSGAWTY</span><span class="topo-inside">TFIRFE</span><span class="topo-unknown">DTPK</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -420,6 +423,7 @@ OsNIP2;1 (Nodulin26-like Intrinsic Protein 2;1) is a silicon transporter from th
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -435,10 +439,11 @@ OsNIP2;1 (Nodulin26-like Intrinsic Protein 2;1) is a silicon transporter from th
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">AIADFFP</span><span class="topo-inside">PHLLKK</span><span class="topo-membrane">VVSEVVATFLLVFMTCGA</span><span class="topo-outside">AGISGSDLSRISQL</span><span class="topo-membrane">GQSIAGGLIVTVMIY</span></span>
-<span class="topo-line"><span class="topo-membrane">AVG</span><span class="topo-inside">HIS</span><span class="topo-unknown">GAHMNPAVTLAFAV</span><span class="topo-inside">FRHFPWIQ</span><span class="topo-membrane">VPFYWAAQFTGAICASFVL</span><span class="topo-outside">KAVIHPVDVIGTT</span></span>
-<span class="topo-line"><span class="topo-outside">TPVGPHWHS</span><span class="topo-membrane">LVVEVIVTFNMMFVTLAV</span><span class="topo-inside">ATDTRAVGE</span><span class="topo-membrane">LAGLAVGSAVCITSIFAG</span><span class="topo-outside">AIS</span><span class="topo-unknown">GGS</span></span>
-<span class="topo-line"><span class="topo-unknown">MNPARTLGP</span><span class="topo-outside">ALASNKFDGL</span><span class="topo-membrane">WIYFLGPVMGTLSGAWTY</span><span class="topo-inside">TFIR</span><span class="topo-unknown">FEDTPK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">AIADFFP</span><span class="topo-inside">PHLLKK</span><span class="topo-membrane">VVSEVVATFLLVFMTCGA</span><span class="topo-outside">AGISGSDLSRISQL</span><span class="topo-membrane">GQSIAGGLIVTVMIYAVG</span><span class="topo-inside">HIS</span><span class="topo-unknown">GAHMNPAVTLAFAV</span><span class="topo-inside">FRHFPWIQ</span><span class="topo-membrane">VPFYWAAQFTGAICASFVL</span><span class="topo-outside">KAVIHPVDVIGTT</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       </span>
+<span class="topo-line"><span class="topo-outside">TPVGPHWHS</span><span class="topo-membrane">LVVEVIVTFNMMFVTLAV</span><span class="topo-inside">ATDTRAVGE</span><span class="topo-membrane">LAGLAVGSAVCITSIFAG</span><span class="topo-outside">AIS</span><span class="topo-unknown">GGSMNPARTLGP</span><span class="topo-outside">ALASNKFDGL</span><span class="topo-membrane">WIYFLGPVMGTLSGAWTY</span><span class="topo-inside">TFIR</span><span class="topo-unknown">FEDTPK</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -569,6 +574,7 @@ OsNIP2;1 (Nodulin26-like Intrinsic Protein 2;1) is a silicon transporter from th
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -584,10 +590,11 @@ OsNIP2;1 (Nodulin26-like Intrinsic Protein 2;1) is a silicon transporter from th
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">AIADFFP</span><span class="topo-inside">PHLLKKV</span><span class="topo-membrane">VSEVVATFLLVFMTCGA</span><span class="topo-outside">AGISGSDLSRISQL</span><span class="topo-membrane">GQSIAGGLIVTVMIY</span></span>
-<span class="topo-line"><span class="topo-membrane">AVG</span><span class="topo-inside">HIS</span><span class="topo-unknown">GAHMNPAVTLAFAV</span><span class="topo-inside">FRHFPWIQ</span><span class="topo-membrane">VPFYWAAQFTGAICASFVL</span><span class="topo-outside">KAVIHPVDVIGTT</span></span>
-<span class="topo-line"><span class="topo-outside">TPVGPHWHS</span><span class="topo-membrane">LVVEVIVTFNMMFVTLAV</span><span class="topo-inside">ATDTRAVGE</span><span class="topo-membrane">LAGLAVGSAVCITSIFAG</span><span class="topo-outside">AIS</span><span class="topo-unknown">GGS</span></span>
-<span class="topo-line"><span class="topo-unknown">MNPARTLGPAL</span><span class="topo-outside">ASNKFDGL</span><span class="topo-membrane">WIYFLGPVMGTLSGAWTY</span><span class="topo-inside">TFIRFE</span><span class="topo-unknown">DTPK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">AIADFFP</span><span class="topo-inside">PHLLKKV</span><span class="topo-membrane">VSEVVATFLLVFMTCGA</span><span class="topo-outside">AGISGSDLSRISQL</span><span class="topo-membrane">GQSIAGGLIVTVMIYAVG</span><span class="topo-inside">HIS</span><span class="topo-unknown">GAHMNPAVTLAFAV</span><span class="topo-inside">FRHFPWIQ</span><span class="topo-membrane">VPFYWAAQFTGAICASFVL</span><span class="topo-outside">KAVIHPVDVIGTT</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       </span>
+<span class="topo-line"><span class="topo-outside">TPVGPHWHS</span><span class="topo-membrane">LVVEVIVTFNMMFVTLAV</span><span class="topo-inside">ATDTRAVGE</span><span class="topo-membrane">LAGLAVGSAVCITSIFAG</span><span class="topo-outside">AIS</span><span class="topo-unknown">GGSMNPARTLGPAL</span><span class="topo-outside">ASNKFDGL</span><span class="topo-membrane">WIYFLGPVMGTLSGAWTY</span><span class="topo-inside">TFIRFE</span><span class="topo-unknown">DTPK</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -718,6 +725,7 @@ OsNIP2;1 (Nodulin26-like Intrinsic Protein 2;1) is a silicon transporter from th
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -733,10 +741,11 @@ OsNIP2;1 (Nodulin26-like Intrinsic Protein 2;1) is a silicon transporter from th
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">AIADFFP</span><span class="topo-inside">PHLLKK</span><span class="topo-membrane">VVSEVVATFLLVFMTCGA</span><span class="topo-outside">AGISGSDLSRISQL</span><span class="topo-membrane">GQSIAGGLIVTVMIY</span></span>
-<span class="topo-line"><span class="topo-membrane">AVG</span><span class="topo-inside">HIS</span><span class="topo-unknown">GAHMNPAVTLAFAV</span><span class="topo-inside">FRHFPWIQV</span><span class="topo-membrane">PFYWAAQFTGAICASFVL</span><span class="topo-outside">KAVIHPVDVIGTT</span></span>
-<span class="topo-line"><span class="topo-outside">TPVGPHWHS</span><span class="topo-membrane">LVVEVIVTFNMMFVTLAV</span><span class="topo-inside">ATDTRAVGE</span><span class="topo-membrane">LAGLAVGSAVCITSIFAG</span><span class="topo-outside">AISGG</span><span class="topo-unknown">S</span></span>
-<span class="topo-line"><span class="topo-unknown">MNPARTLGP</span><span class="topo-outside">ALASNKFDGL</span><span class="topo-membrane">WIYFLGPVMGTLSGAWTY</span><span class="topo-inside">TFIRFE</span><span class="topo-unknown">DTPK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">AIADFFP</span><span class="topo-inside">PHLLKK</span><span class="topo-membrane">VVSEVVATFLLVFMTCGA</span><span class="topo-outside">AGISGSDLSRISQL</span><span class="topo-membrane">GQSIAGGLIVTVMIYAVG</span><span class="topo-inside">HIS</span><span class="topo-unknown">GAHMNPAVTLAFAV</span><span class="topo-inside">FRHFPWIQV</span><span class="topo-membrane">PFYWAAQFTGAICASFVL</span><span class="topo-outside">KAVIHPVDVIGTT</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       </span>
+<span class="topo-line"><span class="topo-outside">TPVGPHWHS</span><span class="topo-membrane">LVVEVIVTFNMMFVTLAV</span><span class="topo-inside">ATDTRAVGE</span><span class="topo-membrane">LAGLAVGSAVCITSIFAG</span><span class="topo-outside">AISGG</span><span class="topo-unknown">SMNPARTLGP</span><span class="topo-outside">ALASNKFDGL</span><span class="topo-membrane">WIYFLGPVMGTLSGAWTY</span><span class="topo-inside">TFIRFE</span><span class="topo-unknown">DTPK</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -867,6 +876,7 @@ OsNIP2;1 (Nodulin26-like Intrinsic Protein 2;1) is a silicon transporter from th
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -882,10 +892,11 @@ OsNIP2;1 (Nodulin26-like Intrinsic Protein 2;1) is a silicon transporter from th
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">AIADFFP</span><span class="topo-inside">PHLLKK</span><span class="topo-membrane">VVSEVVATFLLVFMTCGA</span><span class="topo-outside">AGISGSDLSRISQL</span><span class="topo-membrane">GQSIAGGLIVTVMIY</span></span>
-<span class="topo-line"><span class="topo-membrane">AVG</span><span class="topo-inside">HIS</span><span class="topo-unknown">GAHMNPAVTLAFAV</span><span class="topo-inside">FRHFPWIQV</span><span class="topo-membrane">PFYWAAQFTGAICASFVL</span><span class="topo-outside">KAVIHPVDVIGTT</span></span>
-<span class="topo-line"><span class="topo-outside">TPVGPHWHS</span><span class="topo-membrane">LVVEVIVTFNMMFVTLAV</span><span class="topo-inside">ATDTRAVGE</span><span class="topo-membrane">LAGLAVGSAVCITSIFAG</span><span class="topo-outside">AISGG</span><span class="topo-unknown">S</span></span>
-<span class="topo-line"><span class="topo-unknown">MNPARTLGP</span><span class="topo-outside">ALASNKFDGL</span><span class="topo-membrane">WIYFLGPVMGTLSGAWTY</span><span class="topo-inside">TFIRFE</span><span class="topo-unknown">DTPK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">AIADFFP</span><span class="topo-inside">PHLLKK</span><span class="topo-membrane">VVSEVVATFLLVFMTCGA</span><span class="topo-outside">AGISGSDLSRISQL</span><span class="topo-membrane">GQSIAGGLIVTVMIYAVG</span><span class="topo-inside">HIS</span><span class="topo-unknown">GAHMNPAVTLAFAV</span><span class="topo-inside">FRHFPWIQV</span><span class="topo-membrane">PFYWAAQFTGAICASFVL</span><span class="topo-outside">KAVIHPVDVIGTT</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       </span>
+<span class="topo-line"><span class="topo-outside">TPVGPHWHS</span><span class="topo-membrane">LVVEVIVTFNMMFVTLAV</span><span class="topo-inside">ATDTRAVGE</span><span class="topo-membrane">LAGLAVGSAVCITSIFAG</span><span class="topo-outside">AISGG</span><span class="topo-unknown">SMNPARTLGP</span><span class="topo-outside">ALASNKFDGL</span><span class="topo-membrane">WIYFLGPVMGTLSGAWTY</span><span class="topo-inside">TFIRFE</span><span class="topo-unknown">DTPK</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1016,6 +1027,7 @@ OsNIP2;1 (Nodulin26-like Intrinsic Protein 2;1) is a silicon transporter from th
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1031,10 +1043,11 @@ OsNIP2;1 (Nodulin26-like Intrinsic Protein 2;1) is a silicon transporter from th
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">AIADFFP</span><span class="topo-inside">PHLLKK</span><span class="topo-membrane">VVSEVVATFLLVFMTCGA</span><span class="topo-outside">AGISGSDLSRISQL</span><span class="topo-membrane">GQSIAGGLIVTVMIY</span></span>
-<span class="topo-line"><span class="topo-membrane">AVG</span><span class="topo-inside">HIS</span><span class="topo-unknown">GAHMNPAVTLAFAV</span><span class="topo-inside">FRHFPWIQ</span><span class="topo-membrane">VPFYWAAQFTGAICASFVL</span><span class="topo-outside">KAVIHPVDVIGTT</span></span>
-<span class="topo-line"><span class="topo-outside">TPVGPHWHS</span><span class="topo-membrane">LVVEVIVTFNMMFVTLAV</span><span class="topo-inside">ATDTRAVGE</span><span class="topo-membrane">LAGLAVGSAVCITSIFAG</span><span class="topo-outside">AIS</span><span class="topo-unknown">GGS</span></span>
-<span class="topo-line"><span class="topo-unknown">MNPARTLGP</span><span class="topo-outside">ALASNKFDGL</span><span class="topo-membrane">WIYFLGPVMGTLSGAWTY</span><span class="topo-inside">TFIR</span><span class="topo-unknown">FEDTPK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">AIADFFP</span><span class="topo-inside">PHLLKK</span><span class="topo-membrane">VVSEVVATFLLVFMTCGA</span><span class="topo-outside">AGISGSDLSRISQL</span><span class="topo-membrane">GQSIAGGLIVTVMIYAVG</span><span class="topo-inside">HIS</span><span class="topo-unknown">GAHMNPAVTLAFAV</span><span class="topo-inside">FRHFPWIQ</span><span class="topo-membrane">VPFYWAAQFTGAICASFVL</span><span class="topo-outside">KAVIHPVDVIGTT</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       </span>
+<span class="topo-line"><span class="topo-outside">TPVGPHWHS</span><span class="topo-membrane">LVVEVIVTFNMMFVTLAV</span><span class="topo-inside">ATDTRAVGE</span><span class="topo-membrane">LAGLAVGSAVCITSIFAG</span><span class="topo-outside">AIS</span><span class="topo-unknown">GGSMNPARTLGP</span><span class="topo-outside">ALASNKFDGL</span><span class="topo-membrane">WIYFLGPVMGTLSGAWTY</span><span class="topo-inside">TFIR</span><span class="topo-unknown">FEDTPK</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1165,6 +1178,7 @@ OsNIP2;1 (Nodulin26-like Intrinsic Protein 2;1) is a silicon transporter from th
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1180,10 +1194,11 @@ OsNIP2;1 (Nodulin26-like Intrinsic Protein 2;1) is a silicon transporter from th
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">AIADFFP</span><span class="topo-inside">PHLLKKV</span><span class="topo-membrane">VSEVVATFLLVFMTCGA</span><span class="topo-outside">AGISGSDLSRISQL</span><span class="topo-membrane">GQSIAGGLIVTVMIY</span></span>
-<span class="topo-line"><span class="topo-membrane">AVG</span><span class="topo-inside">HIS</span><span class="topo-unknown">GAHMNPAVTLAFAV</span><span class="topo-inside">FRHFPWIQ</span><span class="topo-membrane">VPFYWAAQFTGAICASFVL</span><span class="topo-outside">KAVIHPVDVIGTT</span></span>
-<span class="topo-line"><span class="topo-outside">TPVGPHWHS</span><span class="topo-membrane">LVVEVIVTFNMMFVTLAV</span><span class="topo-inside">ATDTRAVGE</span><span class="topo-membrane">LAGLAVGSAVCITSIFAG</span><span class="topo-outside">AIS</span><span class="topo-unknown">GGS</span></span>
-<span class="topo-line"><span class="topo-unknown">MNPARTLGPAL</span><span class="topo-outside">ASNKFDGL</span><span class="topo-membrane">WIYFLGPVMGTLSGAWTY</span><span class="topo-inside">TFIRFE</span><span class="topo-unknown">DTPK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">AIADFFP</span><span class="topo-inside">PHLLKKV</span><span class="topo-membrane">VSEVVATFLLVFMTCGA</span><span class="topo-outside">AGISGSDLSRISQL</span><span class="topo-membrane">GQSIAGGLIVTVMIYAVG</span><span class="topo-inside">HIS</span><span class="topo-unknown">GAHMNPAVTLAFAV</span><span class="topo-inside">FRHFPWIQ</span><span class="topo-membrane">VPFYWAAQFTGAICASFVL</span><span class="topo-outside">KAVIHPVDVIGTT</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       </span>
+<span class="topo-line"><span class="topo-outside">TPVGPHWHS</span><span class="topo-membrane">LVVEVIVTFNMMFVTLAV</span><span class="topo-inside">ATDTRAVGE</span><span class="topo-membrane">LAGLAVGSAVCITSIFAG</span><span class="topo-outside">AIS</span><span class="topo-unknown">GGSMNPARTLGPAL</span><span class="topo-outside">ASNKFDGL</span><span class="topo-membrane">WIYFLGPVMGTLSGAWTY</span><span class="topo-inside">TFIRFE</span><span class="topo-unknown">DTPK</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1314,6 +1329,7 @@ OsNIP2;1 (Nodulin26-like Intrinsic Protein 2;1) is a silicon transporter from th
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

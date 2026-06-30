@@ -139,12 +139,13 @@ The photosynthetic reaction center from Blastochloris viridis (RC_vir, formerly 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">CFEPPPATTTQTGFRGLSMGEVLHPATVKAKKERDAQYPPALAAVKAEGPPVSQVYKNVK</span></span>
-<span class="topo-line"><span class="topo-outside">VLGNLTEAEFLRTMTAITEWVSPQEGCTYCHDENNLASEAKYPYVVARRMLEMTRAINTN</span></span>
-<span class="topo-line"><span class="topo-outside">WTQHVAQTGVTCYTCHRGTPLPPYVRYLEPTLPLNNRETPTHVERVETRSGYVVRLAKYT</span></span>
-<span class="topo-line"><span class="topo-outside">AYSALNYDPFTMFLANDKRQVRVVPQTALPLVGVSRGKERRPLSDAYATFALMMSISDSL</span></span>
-<span class="topo-line"><span class="topo-outside">GTNCTFCHNAQTFESWGKKSTPQRAIAWWGIRMVRDLNMNYLAPLNASLPASRLGRQGEA</span></span>
-<span class="topo-line"><span class="topo-outside">PQADCRTCHQGVTKPLFGASRLKDYPELGPIK</span><span class="topo-unknown">AAAK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">CFEPPPATTTQTGFRGLSMGEVLHPATVKAKKERDAQYPPALAAVKAEGPPVSQVYKNVKVLGNLTEAEFLRTMTAITEWVSPQEGCTYCHDENNLASEAKYPYVVARRMLEMTRAINTN</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">WTQHVAQTGVTCYTCHRGTPLPPYVRYLEPTLPLNNRETPTHVERVETRSGYVVRLAKYTAYSALNYDPFTMFLANDKRQVRVVPQTALPLVGVSRGKERRPLSDAYATFALMMSISDSL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330      </span>
+<span class="topo-line"><span class="topo-outside">GTNCTFCHNAQTFESWGKKSTPQRAIAWWGIRMVRDLNMNYLAPLNASLPASRLGRQGEAPQADCRTCHQGVTKPLFGASRLKDYPELGPIK</span><span class="topo-unknown">AAAK</span></span>
+<details class="topo-details"><summary>Topology coordinates (2 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -170,6 +171,7 @@ The photosynthetic reaction center from Blastochloris viridis (RC_vir, formerly 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -185,11 +187,13 @@ The photosynthetic reaction center from Blastochloris viridis (RC_vir, formerly 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MYHGALAQHLDIAQL</span><span class="topo-membrane">VWYAQWLVIWTVVLLYLR</span><span class="topo-inside">REDRREGYPLVE</span><span class="topo-unknown">PLGLVKLAPEDGQVY</span></span>
-<span class="topo-line"><span class="topo-inside">ELPYPKTFVLPHGGTVTVPRRRPETRELKLAQTDGFEGAPLQPTGNPLVDAVGPASYAER</span></span>
-<span class="topo-line"><span class="topo-inside">AEVVDATVDGKAKIVPLRVATDFSIAEGDVDPRGLPVVAADGVEAGTVTDLWVDRSEHYF</span></span>
-<span class="topo-line"><span class="topo-inside">RYLELSVAGSARTALIPLGFCDVKKDKIVVTSILSEQFANVPRLQSRDQITLREEDKVSA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MYHGALAQHLDIAQL</span><span class="topo-membrane">VWYAQWLVIWTVVLLYLR</span><span class="topo-inside">REDRREGYPLVE</span><span class="topo-unknown">PLGLVKLAPEDGQVY</span><span class="topo-inside">ELPYPKTFVLPHGGTVTVPRRRPETRELKLAQTDGFEGAPLQPTGNPLVDAVGPASYAER</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">AEVVDATVDGKAKIVPLRVATDFSIAEGDVDPRGLPVVAADGVEAGTVTDLWVDRSEHYFRYLELSVAGSARTALIPLGFCDVKKDKIVVTSILSEQFANVPRLQSRDQITLREEDKVSA</span></span>
+<span class="topo-ruler">       250        </span>
 <span class="topo-line"><span class="topo-inside">YYAGGLLYATPERAESLL</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -236,6 +240,7 @@ The photosynthetic reaction center from Blastochloris viridis (RC_vir, formerly 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -251,11 +256,13 @@ The photosynthetic reaction center from Blastochloris viridis (RC_vir, formerly 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">ALLSFERKYRVRGGTLIGGDLFDFWVGPYFVGF</span><span class="topo-membrane">FGVSAIFFIFLGVSLIGY</span><span class="topo-outside">AASQGPTW</span></span>
-<span class="topo-line"><span class="topo-outside">DPFAISINPPDLKYGLGAAPLLEGGFW</span><span class="topo-membrane">QAITVCALGAFISWMLRE</span><span class="topo-inside">VEISRKLGIGWHV</span><span class="topo-membrane">PL</span></span>
-<span class="topo-line"><span class="topo-membrane">AFCVPIFMFCVLQVFR</span><span class="topo-outside">PLLLGSWGHAFPYGILSHLDWVNNFGYQYLNWHYNP</span><span class="topo-membrane">GHMSSVSF</span></span>
-<span class="topo-line"><span class="topo-membrane">LFVNAMALGLHGG</span><span class="topo-inside">LILSVANPGDGDKVKTAEHENQYFRDVVGYSIGALSIHR</span><span class="topo-membrane">LGLFLASN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">ALLSFERKYRVRGGTLIGGDLFDFWVGPYFVGF</span><span class="topo-membrane">FGVSAIFFIFLGVSLIGY</span><span class="topo-outside">AASQGPTWDPFAISINPPDLKYGLGAAPLLEGGFW</span><span class="topo-membrane">QAITVCALGAFISWMLRE</span><span class="topo-inside">VEISRKLGIGWHV</span><span class="topo-membrane">PL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">AFCVPIFMFCVLQVFR</span><span class="topo-outside">PLLLGSWGHAFPYGILSHLDWVNNFGYQYLNWHYNP</span><span class="topo-membrane">GHMSSVSFLFVNAMALGLHGG</span><span class="topo-inside">LILSVANPGDGDKVKTAEHENQYFRDVVGYSIGALSIHR</span><span class="topo-membrane">LGLFLASN</span></span>
+<span class="topo-ruler">       250       260       270    </span>
 <span class="topo-line"><span class="topo-membrane">IFLTGAFGTI</span><span class="topo-outside">ASGPFWTRGWPEWWGWWLDIPFWS</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -344,6 +351,7 @@ The photosynthetic reaction center from Blastochloris viridis (RC_vir, formerly 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -359,12 +367,13 @@ The photosynthetic reaction center from Blastochloris viridis (RC_vir, formerly 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">ADYQTIYTQIQARGPHITVSGEWGDNDRVGKPFYSYWLGKIGDAQIGPIYL</span><span class="topo-membrane">GASGIAAF</span></span>
-<span class="topo-line"><span class="topo-membrane">AFGSTAILIIL</span><span class="topo-outside">FNMAAEVHFDPLQFFRQFFWLGLYPPKAQYGMGIPPLHDGGWWLM</span><span class="topo-membrane">AGLF</span></span>
-<span class="topo-line"><span class="topo-membrane">MTLSLGSWWIRVYS</span><span class="topo-inside">RARALGLGT</span><span class="topo-membrane">HIAWNFAAAIFFVLCIGCI</span><span class="topo-outside">HPTLVGSWSEGVPFGIWP</span></span>
-<span class="topo-line"><span class="topo-outside">HIDWLTAFSIRYGNFYYCP</span><span class="topo-membrane">WHGFSIGFAYGCGLLFAAHG</span><span class="topo-inside">ATILAVARFGGDREIEQITDR</span></span>
-<span class="topo-line"><span class="topo-inside">GTAVERAALFWRWTIGFNATIESVHR</span><span class="topo-membrane">WGWFFSLMVMVSASVGIL</span><span class="topo-outside">LTGTFVDNWYLWCVKH</span></span>
-<span class="topo-line"><span class="topo-outside">GAAPDYPAYLPATPDPASLPGAPK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">ADYQTIYTQIQARGPHITVSGEWGDNDRVGKPFYSYWLGKIGDAQIGPIYL</span><span class="topo-membrane">GASGIAAFAFGSTAILIIL</span><span class="topo-outside">FNMAAEVHFDPLQFFRQFFWLGLYPPKAQYGMGIPPLHDGGWWLM</span><span class="topo-membrane">AGLF</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">MTLSLGSWWIRVYS</span><span class="topo-inside">RARALGLGT</span><span class="topo-membrane">HIAWNFAAAIFFVLCIGCI</span><span class="topo-outside">HPTLVGSWSEGVPFGIWPHIDWLTAFSIRYGNFYYCP</span><span class="topo-membrane">WHGFSIGFAYGCGLLFAAHG</span><span class="topo-inside">ATILAVARFGGDREIEQITDR</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320    </span>
+<span class="topo-line"><span class="topo-inside">GTAVERAALFWRWTIGFNATIESVHR</span><span class="topo-membrane">WGWFFSLMVMVSASVGIL</span><span class="topo-outside">LTGTFVDNWYLWCVKHGAAPDYPAYLPATPDPASLPGAPK</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -453,6 +462,7 @@ The photosynthetic reaction center from Blastochloris viridis (RC_vir, formerly 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -468,12 +478,13 @@ The photosynthetic reaction center from Blastochloris viridis (RC_vir, formerly 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">CFEPPPATTTQTGFRGLSMGEVLHPATVKAKKERDAQYPPALAAVKAEGPPVSQVYKNVK</span></span>
-<span class="topo-line"><span class="topo-outside">VLGNLTEAEFLRTMTAITEWVSPQEGCTYCHDENNLASEAKYPYVVARRMLEMTRAINTN</span></span>
-<span class="topo-line"><span class="topo-outside">WTQHVAQTGVTCYTCHRGTPLPPYVRYLEPTLPLNNRETPTHVERVETRSGYVVRLAKYT</span></span>
-<span class="topo-line"><span class="topo-outside">AYSALNYDPFTMFLANDKRQVRVVPQTALPLVGVSRGKERRPLSDAYATFALMMSISDSL</span></span>
-<span class="topo-line"><span class="topo-outside">GTNCTFCHNAQTFESWGKKSTPQRAIAWWGIRMVRDLNMNYLAPLNASLPASRLGRQGEA</span></span>
-<span class="topo-line"><span class="topo-outside">PQADCRTCHQGVTKPLFGASRLKDYPELGPIK</span><span class="topo-unknown">AAAK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">CFEPPPATTTQTGFRGLSMGEVLHPATVKAKKERDAQYPPALAAVKAEGPPVSQVYKNVKVLGNLTEAEFLRTMTAITEWVSPQEGCTYCHDENNLASEAKYPYVVARRMLEMTRAINTN</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">WTQHVAQTGVTCYTCHRGTPLPPYVRYLEPTLPLNNRETPTHVERVETRSGYVVRLAKYTAYSALNYDPFTMFLANDKRQVRVVPQTALPLVGVSRGKERRPLSDAYATFALMMSISDSL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330      </span>
+<span class="topo-line"><span class="topo-outside">GTNCTFCHNAQTFESWGKKSTPQRAIAWWGIRMVRDLNMNYLAPLNASLPASRLGRQGEAPQADCRTCHQGVTKPLFGASRLKDYPELGPIK</span><span class="topo-unknown">AAAK</span></span>
+<details class="topo-details"><summary>Topology coordinates (2 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -499,6 +510,7 @@ The photosynthetic reaction center from Blastochloris viridis (RC_vir, formerly 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -514,11 +526,13 @@ The photosynthetic reaction center from Blastochloris viridis (RC_vir, formerly 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MYHGALAQHLDIAQL</span><span class="topo-membrane">VWYAQWLVIWTVVLLYLR</span><span class="topo-inside">REDRREGYPLVE</span><span class="topo-unknown">PLGLVKLAPEDGQVY</span></span>
-<span class="topo-line"><span class="topo-inside">ELPYPKTFVLPHGGTVTVPRRRPETRELKLAQTDGFEGAPLQPTGNPLVDAVGPASYAER</span></span>
-<span class="topo-line"><span class="topo-inside">AEVVDATVDGKAKIVPLRVATDFSIAEGDVDPRGLPVVAADGVEAGTVTDLWVDRSEHYF</span></span>
-<span class="topo-line"><span class="topo-inside">RYLELSVAGSARTALIPLGFCDVKKDKIVVTSILSEQFANVPRLQSRDQITLREEDKVSA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MYHGALAQHLDIAQL</span><span class="topo-membrane">VWYAQWLVIWTVVLLYLR</span><span class="topo-inside">REDRREGYPLVE</span><span class="topo-unknown">PLGLVKLAPEDGQVY</span><span class="topo-inside">ELPYPKTFVLPHGGTVTVPRRRPETRELKLAQTDGFEGAPLQPTGNPLVDAVGPASYAER</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">AEVVDATVDGKAKIVPLRVATDFSIAEGDVDPRGLPVVAADGVEAGTVTDLWVDRSEHYFRYLELSVAGSARTALIPLGFCDVKKDKIVVTSILSEQFANVPRLQSRDQITLREEDKVSA</span></span>
+<span class="topo-ruler">       250        </span>
 <span class="topo-line"><span class="topo-inside">YYAGGLLYATPERAESLL</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -565,6 +579,7 @@ The photosynthetic reaction center from Blastochloris viridis (RC_vir, formerly 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -580,11 +595,13 @@ The photosynthetic reaction center from Blastochloris viridis (RC_vir, formerly 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">ALLSFERKYRVRGGTLIGGDLFDFWVGPYFVGF</span><span class="topo-membrane">FGVSAIFFIFLGVSLIGY</span><span class="topo-outside">AASQGPTW</span></span>
-<span class="topo-line"><span class="topo-outside">DPFAISINPPDLKYGLGAAPLLEGGFWQA</span><span class="topo-membrane">ITVCALGAFISWMLREV</span><span class="topo-inside">EISRKLGIGWH</span><span class="topo-membrane">VPL</span></span>
-<span class="topo-line"><span class="topo-membrane">AFCVPIFMFCVLQVF</span><span class="topo-outside">RPLLLGSWGHAFPYGILSHLDWVNNFGYQYLNWHYNPG</span><span class="topo-membrane">HMSSVSF</span></span>
-<span class="topo-line"><span class="topo-membrane">LFVNAMALGLHGGL</span><span class="topo-inside">ILSVANPGDGDKVKTAEHENQYFRDVVGYSIGALSI</span><span class="topo-membrane">HRLGLFLASN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">ALLSFERKYRVRGGTLIGGDLFDFWVGPYFVGF</span><span class="topo-membrane">FGVSAIFFIFLGVSLIGY</span><span class="topo-outside">AASQGPTWDPFAISINPPDLKYGLGAAPLLEGGFWQA</span><span class="topo-membrane">ITVCALGAFISWMLREV</span><span class="topo-inside">EISRKLGIGWH</span><span class="topo-membrane">VPL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">AFCVPIFMFCVLQVF</span><span class="topo-outside">RPLLLGSWGHAFPYGILSHLDWVNNFGYQYLNWHYNPG</span><span class="topo-membrane">HMSSVSFLFVNAMALGLHGGL</span><span class="topo-inside">ILSVANPGDGDKVKTAEHENQYFRDVVGYSIGALSI</span><span class="topo-membrane">HRLGLFLASN</span></span>
+<span class="topo-ruler">       250       260       270    </span>
 <span class="topo-line"><span class="topo-membrane">IFLTGAF</span><span class="topo-outside">GTIASGPFWTRGWPEWWGWWLDIPFWS</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -673,6 +690,7 @@ The photosynthetic reaction center from Blastochloris viridis (RC_vir, formerly 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -688,12 +706,13 @@ The photosynthetic reaction center from Blastochloris viridis (RC_vir, formerly 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">ADYQTIYTQIQARGPHITVSGEWGDNDRVGKPFYSYWLGKIGDAQIGPI</span><span class="topo-membrane">YLGASGIAAF</span></span>
-<span class="topo-line"><span class="topo-membrane">AFGSTAI</span><span class="topo-outside">LIILFNMAAEVHFDPLQFFRQFFWLGLYPPKAQYGMGIPPLHDGGWWLMAGL</span><span class="topo-membrane">F</span></span>
-<span class="topo-line"><span class="topo-membrane">MTLSLGSWWIRVYSR</span><span class="topo-inside">ARALGLGT</span><span class="topo-membrane">HIAWNFAAAIFFVLC</span><span class="topo-outside">IGCIHPTLVGSWSEGVPFGIWP</span></span>
-<span class="topo-line"><span class="topo-outside">HIDWLTAFSIRYGNFYYCP</span><span class="topo-membrane">WHGFSIGFAYGCGLLFAAHGA</span><span class="topo-inside">TILAVARFGGDREIEQITDR</span></span>
-<span class="topo-line"><span class="topo-inside">GTAVERAALFWRWTIGFNATIESV</span><span class="topo-membrane">HRWGWFFSLMVMVSASVG</span><span class="topo-outside">ILLTGTFVDNWYLWCVKH</span></span>
-<span class="topo-line"><span class="topo-outside">GAAPDYPAYLPATPDPASLPGAPK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">ADYQTIYTQIQARGPHITVSGEWGDNDRVGKPFYSYWLGKIGDAQIGPI</span><span class="topo-membrane">YLGASGIAAFAFGSTAI</span><span class="topo-outside">LIILFNMAAEVHFDPLQFFRQFFWLGLYPPKAQYGMGIPPLHDGGWWLMAGL</span><span class="topo-membrane">F</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">MTLSLGSWWIRVYSR</span><span class="topo-inside">ARALGLGT</span><span class="topo-membrane">HIAWNFAAAIFFVLC</span><span class="topo-outside">IGCIHPTLVGSWSEGVPFGIWPHIDWLTAFSIRYGNFYYCP</span><span class="topo-membrane">WHGFSIGFAYGCGLLFAAHGA</span><span class="topo-inside">TILAVARFGGDREIEQITDR</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320    </span>
+<span class="topo-line"><span class="topo-inside">GTAVERAALFWRWTIGFNATIESV</span><span class="topo-membrane">HRWGWFFSLMVMVSASVG</span><span class="topo-outside">ILLTGTFVDNWYLWCVKHGAAPDYPAYLPATPDPASLPGAPK</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -782,6 +801,7 @@ The photosynthetic reaction center from Blastochloris viridis (RC_vir, formerly 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

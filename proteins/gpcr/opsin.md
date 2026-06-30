@@ -115,12 +115,13 @@ Opsin is the apoprotein form of rhodopsin, the G-protein-coupled receptor respon
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MNGTEGPNFYVPFSNKTGVVRSPFEAPQYYLAEPWQFSM</span><span class="topo-membrane">LAAYMFLLIMLGFPINFLTLY</span></span>
-<span class="topo-line"><span class="topo-membrane">VTV</span><span class="topo-inside">QHKKLRTPLNY</span><span class="topo-membrane">ILLNLAVADLFMVFGGFTTTL</span><span class="topo-outside">YTSLHGYFVFGPTGCNL</span><span class="topo-membrane">EGFFATLG</span></span>
-<span class="topo-line"><span class="topo-membrane">GEIALWSLVVLAI</span><span class="topo-inside">ERYVVVCKPMSNFRFGENHAI</span><span class="topo-membrane">MGVAFTWVMALACAAPPL</span><span class="topo-outside">VGWSRYIP</span></span>
-<span class="topo-line"><span class="topo-outside">EGMQCSCGIDYYTPHEETNNE</span><span class="topo-membrane">SFVIYMFVVHFIIPLIVIFF</span><span class="topo-inside">CYGQLVFTVKEAAAQQQES</span></span>
-<span class="topo-line"><span class="topo-inside">ATTQKAEKEVTRMVI</span><span class="topo-membrane">IMVIAFLICWLPYAGVAFYIFT</span><span class="topo-outside">HQGSDFGPIFMT</span><span class="topo-membrane">IPAFFAKTSAV</span></span>
-<span class="topo-line"><span class="topo-membrane">YNPVIYIMM</span><span class="topo-inside">NKQFRNCMVTTLCCGKN</span><span class="topo-unknown">PLGDDEASTTVSKTETSQVAPA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MNGTEGPNFYVPFSNKTGVVRSPFEAPQYYLAEPWQFSM</span><span class="topo-membrane">LAAYMFLLIMLGFPINFLTLYVTV</span><span class="topo-inside">QHKKLRTPLNY</span><span class="topo-membrane">ILLNLAVADLFMVFGGFTTTL</span><span class="topo-outside">YTSLHGYFVFGPTGCNL</span><span class="topo-membrane">EGFFATLG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GEIALWSLVVLAI</span><span class="topo-inside">ERYVVVCKPMSNFRFGENHAI</span><span class="topo-membrane">MGVAFTWVMALACAAPPL</span><span class="topo-outside">VGWSRYIPEGMQCSCGIDYYTPHEETNNE</span><span class="topo-membrane">SFVIYMFVVHFIIPLIVIFF</span><span class="topo-inside">CYGQLVFTVKEAAAQQQES</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340        </span>
+<span class="topo-line"><span class="topo-inside">ATTQKAEKEVTRMVI</span><span class="topo-membrane">IMVIAFLICWLPYAGVAFYIFT</span><span class="topo-outside">HQGSDFGPIFMT</span><span class="topo-membrane">IPAFFAKTSAVYNPVIYIMM</span><span class="topo-inside">NKQFRNCMVTTLCCGKN</span><span class="topo-unknown">PLGDDEASTTVSKTETSQVAPA</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -244,6 +245,7 @@ Opsin is the apoprotein form of rhodopsin, the G-protein-coupled receptor respon
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -259,12 +261,13 @@ Opsin is the apoprotein form of rhodopsin, the G-protein-coupled receptor respon
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MNGTEGPNFYVPFSNKTGVVRSPFEAPQYYLAEPWQFSM</span><span class="topo-membrane">LAAYMFLLIMLGFPINFLTLY</span></span>
-<span class="topo-line"><span class="topo-membrane">VTV</span><span class="topo-inside">QHKKLRTPLNY</span><span class="topo-membrane">ILLNLAVADLFMVFGGFTTTL</span><span class="topo-outside">YTSLHGYFVFGPTGCNL</span><span class="topo-membrane">EGFFATLG</span></span>
-<span class="topo-line"><span class="topo-membrane">GEIALWSLVVLAI</span><span class="topo-inside">ERYVVVCKPMSNFRFGENHAI</span><span class="topo-membrane">MGVAFTWVMALACAAPPL</span><span class="topo-outside">VGWSRYIP</span></span>
-<span class="topo-line"><span class="topo-outside">EGMQCSCGIDYYTPHEETNNE</span><span class="topo-membrane">SFVIYMFVVHFIIPLIVIFF</span><span class="topo-inside">CYGQLVFTVKEAAAQQQES</span></span>
-<span class="topo-line"><span class="topo-inside">ATTQKAEKEVTRMVI</span><span class="topo-membrane">IMVIAFLICWLPYAGVAFYIFT</span><span class="topo-outside">HQGSDFGPIFM</span><span class="topo-membrane">TIPAFFAKTSAV</span></span>
-<span class="topo-line"><span class="topo-membrane">YNPVIYIMM</span><span class="topo-inside">NKQFRNCMVTTLCCGKN</span><span class="topo-unknown">PLGDDEASTTVSKTETSQVAPA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MNGTEGPNFYVPFSNKTGVVRSPFEAPQYYLAEPWQFSM</span><span class="topo-membrane">LAAYMFLLIMLGFPINFLTLYVTV</span><span class="topo-inside">QHKKLRTPLNY</span><span class="topo-membrane">ILLNLAVADLFMVFGGFTTTL</span><span class="topo-outside">YTSLHGYFVFGPTGCNL</span><span class="topo-membrane">EGFFATLG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GEIALWSLVVLAI</span><span class="topo-inside">ERYVVVCKPMSNFRFGENHAI</span><span class="topo-membrane">MGVAFTWVMALACAAPPL</span><span class="topo-outside">VGWSRYIPEGMQCSCGIDYYTPHEETNNE</span><span class="topo-membrane">SFVIYMFVVHFIIPLIVIFF</span><span class="topo-inside">CYGQLVFTVKEAAAQQQES</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340        </span>
+<span class="topo-line"><span class="topo-inside">ATTQKAEKEVTRMVI</span><span class="topo-membrane">IMVIAFLICWLPYAGVAFYIFT</span><span class="topo-outside">HQGSDFGPIFM</span><span class="topo-membrane">TIPAFFAKTSAVYNPVIYIMM</span><span class="topo-inside">NKQFRNCMVTTLCCGKN</span><span class="topo-unknown">PLGDDEASTTVSKTETSQVAPA</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -388,6 +391,7 @@ Opsin is the apoprotein form of rhodopsin, the G-protein-coupled receptor respon
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -435,12 +439,13 @@ Opsin is the apoprotein form of rhodopsin, the G-protein-coupled receptor respon
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MNGTEGPNFYVPFSNKTGVVRSPFEAPQYYLAEPWQF</span><span class="topo-membrane">SMLAAYMFLLIMLGFPINFLTLY</span></span>
-<span class="topo-line"><span class="topo-membrane">VTV</span><span class="topo-inside">QHKKLRTPLN</span><span class="topo-membrane">YILLNLAVADLFMVFGGFTTTLYTSL</span><span class="topo-outside">HGYFVFGPT</span><span class="topo-membrane">GCNLEGFFATLG</span></span>
-<span class="topo-line"><span class="topo-membrane">GEIALWSLVVLAIE</span><span class="topo-inside">RYVVVCKPMSNFRFGENHA</span><span class="topo-membrane">IMGVAFTWVMALACAAPPLVGWS</span><span class="topo-outside">RYIP</span></span>
-<span class="topo-line"><span class="topo-outside">EGMQCSCGIDYYTPHEET</span><span class="topo-membrane">NNESFVIYMFVVHFIIPLIVIFFCYG</span><span class="topo-inside">QLVFTVKEAAAQQQES</span></span>
-<span class="topo-line"><span class="topo-inside">ATTQKAEKEVT</span><span class="topo-membrane">RMVIIMVIAFLICWLPYAGVAFYIFT</span><span class="topo-outside">HQGSDFGPI</span><span class="topo-membrane">FMTIPAFFAKTSAV</span></span>
-<span class="topo-line"><span class="topo-membrane">YNPVIYIMMN</span><span class="topo-inside">KQFRNCMVTTLCCGKN</span><span class="topo-unknown">PLGDDEASTTVSKTETSQVAPA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MNGTEGPNFYVPFSNKTGVVRSPFEAPQYYLAEPWQF</span><span class="topo-membrane">SMLAAYMFLLIMLGFPINFLTLYVTV</span><span class="topo-inside">QHKKLRTPLN</span><span class="topo-membrane">YILLNLAVADLFMVFGGFTTTLYTSL</span><span class="topo-outside">HGYFVFGPT</span><span class="topo-membrane">GCNLEGFFATLG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GEIALWSLVVLAIE</span><span class="topo-inside">RYVVVCKPMSNFRFGENHA</span><span class="topo-membrane">IMGVAFTWVMALACAAPPLVGWS</span><span class="topo-outside">RYIPEGMQCSCGIDYYTPHEET</span><span class="topo-membrane">NNESFVIYMFVVHFIIPLIVIFFCYG</span><span class="topo-inside">QLVFTVKEAAAQQQES</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340        </span>
+<span class="topo-line"><span class="topo-inside">ATTQKAEKEVT</span><span class="topo-membrane">RMVIIMVIAFLICWLPYAGVAFYIFT</span><span class="topo-outside">HQGSDFGPI</span><span class="topo-membrane">FMTIPAFFAKTSAVYNPVIYIMMN</span><span class="topo-inside">KQFRNCMVTTLCCGKN</span><span class="topo-unknown">PLGDDEASTTVSKTETSQVAPA</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -564,6 +569,7 @@ Opsin is the apoprotein form of rhodopsin, the G-protein-coupled receptor respon
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -728,12 +734,13 @@ Opsin is the apoprotein form of rhodopsin, the G-protein-coupled receptor respon
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MNGTEGPNFYVPFSNKTGVVRSPFEAPQYYLAEPWQFSM</span><span class="topo-membrane">LAAYMFLLIMLGFPINFLTLY</span></span>
-<span class="topo-line"><span class="topo-membrane">VTVQH</span><span class="topo-outside">KKL</span><span class="topo-membrane">RTPLNYILLNLAVADLFMVFGGFTTTLY</span><span class="topo-inside">TSLHGYFVFGPTGCNL</span><span class="topo-membrane">EGFFATLG</span></span>
-<span class="topo-line"><span class="topo-membrane">GEIALWSLVVLAIERYV</span><span class="topo-outside">VVCKPMSNFRFGE</span><span class="topo-membrane">NHAIMGVAFTWVMALACAAPPL</span><span class="topo-inside">VGWSRYIP</span></span>
-<span class="topo-line"><span class="topo-inside">EGMQCSCGIDYYTPHEETNNES</span><span class="topo-membrane">FVIYMFVVHFIIPLIVIFFCYGQLV</span><span class="topo-outside">FTVKEAAAQQQES</span></span>
-<span class="topo-line"><span class="topo-outside">ATTQKAEKEVT</span><span class="topo-membrane">RMVIIMVIAFLICWLPYAGVAFY</span><span class="topo-inside">IFTHQGSDFGPIFM</span><span class="topo-membrane">TIPAFFAKTSAV</span></span>
-<span class="topo-line"><span class="topo-membrane">YNPVIYIMMN</span><span class="topo-outside">KQFRNCMVTTLCCGKN</span><span class="topo-unknown">PLGDDEASTTVSKTETSQVAPA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">MNGTEGPNFYVPFSNKTGVVRSPFEAPQYYLAEPWQFSM</span><span class="topo-membrane">LAAYMFLLIMLGFPINFLTLYVTVQH</span><span class="topo-outside">KKL</span><span class="topo-membrane">RTPLNYILLNLAVADLFMVFGGFTTTLY</span><span class="topo-inside">TSLHGYFVFGPTGCNL</span><span class="topo-membrane">EGFFATLG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GEIALWSLVVLAIERYV</span><span class="topo-outside">VVCKPMSNFRFGE</span><span class="topo-membrane">NHAIMGVAFTWVMALACAAPPL</span><span class="topo-inside">VGWSRYIPEGMQCSCGIDYYTPHEETNNES</span><span class="topo-membrane">FVIYMFVVHFIIPLIVIFFCYGQLV</span><span class="topo-outside">FTVKEAAAQQQES</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340        </span>
+<span class="topo-line"><span class="topo-outside">ATTQKAEKEVT</span><span class="topo-membrane">RMVIIMVIAFLICWLPYAGVAFY</span><span class="topo-inside">IFTHQGSDFGPIFM</span><span class="topo-membrane">TIPAFFAKTSAVYNPVIYIMMN</span><span class="topo-outside">KQFRNCMVTTLCCGKN</span><span class="topo-unknown">PLGDDEASTTVSKTETSQVAPA</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -857,6 +864,7 @@ Opsin is the apoprotein form of rhodopsin, the G-protein-coupled receptor respon
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -938,12 +946,13 @@ Opsin is the apoprotein form of rhodopsin, the G-protein-coupled receptor respon
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">NGTEGPNFYVPFSNKTGVVRSPFEAPQYYLAEPWQFSM</span><span class="topo-membrane">LAAYMFLLIMLGFPINFLTLY</span></span>
-<span class="topo-line"><span class="topo-membrane">VTV</span><span class="topo-outside">QHKKLRTPLNY</span><span class="topo-membrane">ILLNLAVADLFMVFGGFTTTL</span><span class="topo-inside">YTSLHGYFVFGPTGCNL</span><span class="topo-membrane">EGFFATLG</span></span>
-<span class="topo-line"><span class="topo-membrane">GEIALWSLVVLAI</span><span class="topo-outside">ERYVVVCKPMSNFRFGENHAI</span><span class="topo-membrane">MGVAFTWVMALACAAPPL</span><span class="topo-inside">VGWSRYIP</span></span>
-<span class="topo-line"><span class="topo-inside">EGMQCSCGIDYYTPHEETNNE</span><span class="topo-membrane">SFVIYMFVVHFIIPLIVIFF</span><span class="topo-outside">CYGQLVFTVKEAAAQQQES</span></span>
-<span class="topo-line"><span class="topo-outside">ATTQKAEKEVTRMVI</span><span class="topo-membrane">IMVIAFLICWLPYAGVAFYIFT</span><span class="topo-inside">HQGSDFGPIFM</span><span class="topo-membrane">TIPAFFAKTSAV</span></span>
-<span class="topo-line"><span class="topo-membrane">YNPVIYIMM</span><span class="topo-outside">NKQFRNCMVTTLCCGKN</span><span class="topo-unknown">PLGDDEASTTVSKTETSQVAPA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">NGTEGPNFYVPFSNKTGVVRSPFEAPQYYLAEPWQFSM</span><span class="topo-membrane">LAAYMFLLIMLGFPINFLTLYVTV</span><span class="topo-outside">QHKKLRTPLNY</span><span class="topo-membrane">ILLNLAVADLFMVFGGFTTTL</span><span class="topo-inside">YTSLHGYFVFGPTGCNL</span><span class="topo-membrane">EGFFATLG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GEIALWSLVVLAI</span><span class="topo-outside">ERYVVVCKPMSNFRFGENHAI</span><span class="topo-membrane">MGVAFTWVMALACAAPPL</span><span class="topo-inside">VGWSRYIPEGMQCSCGIDYYTPHEETNNE</span><span class="topo-membrane">SFVIYMFVVHFIIPLIVIFF</span><span class="topo-outside">CYGQLVFTVKEAAAQQQES</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340        </span>
+<span class="topo-line"><span class="topo-outside">ATTQKAEKEVTRMVI</span><span class="topo-membrane">IMVIAFLICWLPYAGVAFYIFT</span><span class="topo-inside">HQGSDFGPIFM</span><span class="topo-membrane">TIPAFFAKTSAVYNPVIYIMM</span><span class="topo-outside">NKQFRNCMVTTLCCGKN</span><span class="topo-unknown">PLGDDEASTTVSKTETSQVAPA</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1067,6 +1076,7 @@ Opsin is the apoprotein form of rhodopsin, the G-protein-coupled receptor respon
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1082,12 +1092,13 @@ Opsin is the apoprotein form of rhodopsin, the G-protein-coupled receptor respon
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">NGTEGPNFYVPFSNKTGVVRSPFEAPQYYLAEPWQFSM</span><span class="topo-membrane">LAAYMFLLIMLGFPINFLTLY</span></span>
-<span class="topo-line"><span class="topo-membrane">VTV</span><span class="topo-outside">QHKKLRTPLNY</span><span class="topo-membrane">ILLNLAVADLFMVFGGFTTTL</span><span class="topo-inside">YTSLHGYFVFGPTGCNL</span><span class="topo-membrane">EGFFATLG</span></span>
-<span class="topo-line"><span class="topo-membrane">GEIALWSLVVLAI</span><span class="topo-outside">ERYVVVCKPMSNFRFGENHAI</span><span class="topo-membrane">MGVAFTWVMALACAAPPL</span><span class="topo-inside">VGWSRYIP</span></span>
-<span class="topo-line"><span class="topo-inside">EGMQCSCGIDYYTPHEETNNE</span><span class="topo-membrane">SFVIYMFVVHFIIPLIVIFF</span><span class="topo-outside">CYGQLVFTVKEAAAQQQES</span></span>
-<span class="topo-line"><span class="topo-outside">ATTQKAEKEVTRMVI</span><span class="topo-membrane">IMVIAFLICWLPYAGVAFYIFT</span><span class="topo-inside">HQGSDFGPIFM</span><span class="topo-membrane">TIPAFFAKTSAV</span></span>
-<span class="topo-line"><span class="topo-membrane">YNPVIYIMM</span><span class="topo-outside">NKQFRNCMVTTLCCGKN</span><span class="topo-unknown">PLGDDEASTTVSKTETSQVAPA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">NGTEGPNFYVPFSNKTGVVRSPFEAPQYYLAEPWQFSM</span><span class="topo-membrane">LAAYMFLLIMLGFPINFLTLYVTV</span><span class="topo-outside">QHKKLRTPLNY</span><span class="topo-membrane">ILLNLAVADLFMVFGGFTTTL</span><span class="topo-inside">YTSLHGYFVFGPTGCNL</span><span class="topo-membrane">EGFFATLG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GEIALWSLVVLAI</span><span class="topo-outside">ERYVVVCKPMSNFRFGENHAI</span><span class="topo-membrane">MGVAFTWVMALACAAPPL</span><span class="topo-inside">VGWSRYIPEGMQCSCGIDYYTPHEETNNE</span><span class="topo-membrane">SFVIYMFVVHFIIPLIVIFF</span><span class="topo-outside">CYGQLVFTVKEAAAQQQES</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340        </span>
+<span class="topo-line"><span class="topo-outside">ATTQKAEKEVTRMVI</span><span class="topo-membrane">IMVIAFLICWLPYAGVAFYIFT</span><span class="topo-inside">HQGSDFGPIFM</span><span class="topo-membrane">TIPAFFAKTSAVYNPVIYIMM</span><span class="topo-outside">NKQFRNCMVTTLCCGKN</span><span class="topo-unknown">PLGDDEASTTVSKTETSQVAPA</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1211,6 +1222,7 @@ Opsin is the apoprotein form of rhodopsin, the G-protein-coupled receptor respon
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

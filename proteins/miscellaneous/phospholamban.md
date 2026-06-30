@@ -123,23 +123,25 @@ Phospholamban (PLB, also known as PLN) is a small (~52 amino acid) membrane prot
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MEAAHSKSTEECLAYFGVSETTGLTPDQVKRHLEKYGHNELPAEE</span><span class="topo-unknown">GK</span><span class="topo-outside">SLWELVIEQFED</span><span class="topo-membrane">L</span></span>
-<span class="topo-line"><span class="topo-membrane">LVRILLLAACISF</span><span class="topo-inside">VLAWFE</span><span class="topo-unknown">EGEETI</span><span class="topo-inside">TAFV</span><span class="topo-membrane">EPFVILLILIANAI</span><span class="topo-outside">VGVWQERNAENAIEALK</span></span>
-<span class="topo-line"><span class="topo-outside">EYEPEMGKVYRADRKSVQRIKARDIVPGDIVEVAVGDKVPADIRILSIKSTTLRVDQSIL</span></span>
-<span class="topo-line"><span class="topo-outside">TGESVSVIKHTEPVPDPRAVNQDKKNMLFSGTNIAAGKALGIVATTGVSTEIGKIRDQMA</span></span>
-<span class="topo-line"><span class="topo-outside">A</span><span class="topo-unknown">TEQ</span><span class="topo-outside">DKTPLQQKLDEFGEQLSKV</span><span class="topo-membrane">ISLICVAVWLINI</span><span class="topo-inside">GHFNDP</span><span class="topo-unknown">VHGGSW</span><span class="topo-inside">IRGA</span><span class="topo-membrane">IYYFKIAV</span></span>
-<span class="topo-line"><span class="topo-membrane">ALAVAAI</span><span class="topo-outside">PEGLPAVITTCLALGTRRMAKKNAIVRSLPSVETLGCTSVICSDKTGTLTTNQ</span></span>
-<span class="topo-line"><span class="topo-outside">MSVCKMFIIDKVDGDFCSLNEFSITGSTYAPEGEVLKNDKPIRSGQFDGLVELATICALC</span></span>
-<span class="topo-line"><span class="topo-outside">NDSSLDFNETKGVYEKVGEATETALTTLVEKMNVFNTEVRNLSKVERANACNSVIRQLMK</span></span>
-<span class="topo-line"><span class="topo-outside">KEFTLEFSRDRKSMSVYCSPAKSSRAAVGNKMFVKGAPEGVIDRCNYVRVGTTRVPMTGP</span></span>
-<span class="topo-line"><span class="topo-outside">VKEKILSVIKEWGTGRDTLRCLALATRDTPPKREEMVLDDSSRFMEYETDLTFVGVVGML</span></span>
-<span class="topo-line"><span class="topo-outside">DPPRKEVMGSIQLCRDAGIRVIMITGDNKGTAIAICRRIGIFGENEEVADRAYTGREFDD</span></span>
-<span class="topo-line"><span class="topo-outside">LPLAEQREACRRACCFARVEPSHKSKIVEYLQSYDEITAMTGDGVNDAPALKKAEIGIAM</span></span>
-<span class="topo-line"><span class="topo-outside">GSGTAVAKTASEMVLADDNFSTIVAAVEEGRAIYNNMKQFIRYLIS</span><span class="topo-membrane">SNVGEVVCIFLTAA</span></span>
-<span class="topo-line"><span class="topo-membrane">L</span><span class="topo-inside">GLPE</span><span class="topo-membrane">ALIPVQLLWVNLVTDGLP</span><span class="topo-outside">ATALGFNPPDLDIMDRPPRSPKEPLISGWLFFRYM</span><span class="topo-membrane">AI</span></span>
-<span class="topo-line"><span class="topo-membrane">GGYVGAATVGAA</span><span class="topo-inside">AWWFMYAEDGPGVTYHQLTHFMQCTEDHPHFEGLDCEIFEAPEPM</span><span class="topo-membrane">TMA</span></span>
-<span class="topo-line"><span class="topo-membrane">LSVLVTIEMCNA</span><span class="topo-outside">LNSLSENQSLMRMPPWVNIWLL</span><span class="topo-membrane">GSICLSMSLHFLIL</span><span class="topo-inside">YVDPLPMIFKLK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MEAAHSKSTEECLAYFGVSETTGLTPDQVKRHLEKYGHNELPAEE</span><span class="topo-unknown">GK</span><span class="topo-outside">SLWELVIEQFED</span><span class="topo-membrane">LLVRILLLAACISF</span><span class="topo-inside">VLAWFE</span><span class="topo-unknown">EGEETI</span><span class="topo-inside">TAFV</span><span class="topo-membrane">EPFVILLILIANAI</span><span class="topo-outside">VGVWQERNAENAIEALK</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">EYEPEMGKVYRADRKSVQRIKARDIVPGDIVEVAVGDKVPADIRILSIKSTTLRVDQSILTGESVSVIKHTEPVPDPRAVNQDKKNMLFSGTNIAAGKALGIVATTGVSTEIGKIRDQMA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">A</span><span class="topo-unknown">TEQ</span><span class="topo-outside">DKTPLQQKLDEFGEQLSKV</span><span class="topo-membrane">ISLICVAVWLINI</span><span class="topo-inside">GHFNDP</span><span class="topo-unknown">VHGGSW</span><span class="topo-inside">IRGA</span><span class="topo-membrane">IYYFKIAVALAVAAI</span><span class="topo-outside">PEGLPAVITTCLALGTRRMAKKNAIVRSLPSVETLGCTSVICSDKTGTLTTNQ</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">MSVCKMFIIDKVDGDFCSLNEFSITGSTYAPEGEVLKNDKPIRSGQFDGLVELATICALCNDSSLDFNETKGVYEKVGEATETALTTLVEKMNVFNTEVRNLSKVERANACNSVIRQLMK</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">KEFTLEFSRDRKSMSVYCSPAKSSRAAVGNKMFVKGAPEGVIDRCNYVRVGTTRVPMTGPVKEKILSVIKEWGTGRDTLRCLALATRDTPPKREEMVLDDSSRFMEYETDLTFVGVVGML</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-outside">DPPRKEVMGSIQLCRDAGIRVIMITGDNKGTAIAICRRIGIFGENEEVADRAYTGREFDDLPLAEQREACRRACCFARVEPSHKSKIVEYLQSYDEITAMTGDGVNDAPALKKAEIGIAM</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820       830       840</span>
+<span class="topo-line"><span class="topo-outside">GSGTAVAKTASEMVLADDNFSTIVAAVEEGRAIYNNMKQFIRYLIS</span><span class="topo-membrane">SNVGEVVCIFLTAAL</span><span class="topo-inside">GLPE</span><span class="topo-membrane">ALIPVQLLWVNLVTDGLP</span><span class="topo-outside">ATALGFNPPDLDIMDRPPRSPKEPLISGWLFFRYM</span><span class="topo-membrane">AI</span></span>
+<span class="topo-ruler">       850       860       870       880       890       900       910       920       930       940       950       960</span>
+<span class="topo-line"><span class="topo-membrane">GGYVGAATVGAA</span><span class="topo-inside">AWWFMYAEDGPGVTYHQLTHFMQCTEDHPHFEGLDCEIFEAPEPM</span><span class="topo-membrane">TMALSVLVTIEMCNA</span><span class="topo-outside">LNSLSENQSLMRMPPWVNIWLL</span><span class="topo-membrane">GSICLSMSLHFLIL</span><span class="topo-inside">YVDPLPMIFKLK</span></span>
+<span class="topo-ruler">       970       980       990    </span>
 <span class="topo-line"><span class="topo-inside">ALDLTQW</span><span class="topo-membrane">LMVLKISLPVIGLD</span><span class="topo-outside">EILKFIARNYL</span><span class="topo-unknown">EG</span></span>
+<details class="topo-details"><summary>Topology coordinates (30 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -361,6 +363,7 @@ Phospholamban (PLB, also known as PLN) is a small (~52 amino acid) membrane prot
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -376,7 +379,9 @@ Phospholamban (PLB, also known as PLN) is a small (~52 amino acid) membrane prot
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40        50  </span>
 <span class="topo-line"><span class="topo-unknown">MDKVQYLTRSAIRRASTIEM</span><span class="topo-outside">PQQARQALQCLFIN</span><span class="topo-membrane">FCAILICLLLICII</span><span class="topo-unknown">GMLL</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -416,6 +421,7 @@ Phospholamban (PLB, also known as PLN) is a small (~52 amino acid) membrane prot
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -431,23 +437,25 @@ Phospholamban (PLB, also known as PLN) is a small (~52 amino acid) membrane prot
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MEAAHSKSTEECLAYFGVSETTGLTPDQVKRHLEKYGHNELPAEE</span><span class="topo-unknown">GK</span><span class="topo-membrane">SLWELVIEQFEDL</span></span>
-<span class="topo-line"><span class="topo-membrane">LVRIL</span><span class="topo-inside">LLAACISFVLAWF</span><span class="topo-unknown">EEGEETI</span><span class="topo-inside">TAFVEPFV</span><span class="topo-membrane">ILLILIANAIVGVW</span><span class="topo-outside">QERNAENAIEALK</span></span>
-<span class="topo-line"><span class="topo-outside">EYEPEMGKVYRADRKSVQRIKARDIVPGDIVEVAVGDKVPADIRILSIKSTTLRVDQSIL</span></span>
-<span class="topo-line"><span class="topo-outside">TGESVSVIKHTEPVPDPRAVNQDKKNMLFSGTNIAAGKALGIVATTGVSTEIGKIRDQMA</span></span>
-<span class="topo-line"><span class="topo-unknown">ATE</span><span class="topo-outside">QDKTPLQQKLDEF</span><span class="topo-membrane">GEQLSKVISLICVA</span><span class="topo-inside">VWLINIGHFNDP</span><span class="topo-unknown">VHGGSWI</span><span class="topo-inside">RGAIYYFKIA</span><span class="topo-membrane">V</span></span>
-<span class="topo-line"><span class="topo-membrane">ALAVAAIPEG</span><span class="topo-outside">LPAVITTCLALGTRRMAKKNAIVRSLPSVETLGCTSVICSDKTGTLTTNQ</span></span>
-<span class="topo-line"><span class="topo-outside">MSVCKMFIIDKVDGDFCSLNEFSITGSTYAPEGEVLKNDKPIRSGQFDGLVELATICALC</span></span>
-<span class="topo-line"><span class="topo-outside">NDSSLDFNETKGVYEKVGEATETALTTLVEKMNVFNTEVRNLSKVERANACNSVIRQLMK</span></span>
-<span class="topo-line"><span class="topo-outside">KEFTLEFSRDRKSMSVYCSPAKS</span><span class="topo-unknown">SRA</span><span class="topo-outside">AVGNKMFVKGAPEGVIDRCNYVRVGTTRVPMTGP</span></span>
-<span class="topo-line"><span class="topo-outside">VKEKILSVIKEWGTGRDTLRCLALATRDTPPKREEMVLDDSSRFMEYETDLTFVGVVGML</span></span>
-<span class="topo-line"><span class="topo-outside">DPPRKEVMGSIQLCRDAGIRVIMITGDNKGTAIAICRRIGIFGENEEVADRAYTGREFDD</span></span>
-<span class="topo-line"><span class="topo-outside">LPLAEQREACRRACCFARVEPSHKSKIVEYLQSYDEITAMTGDGVNDAPALKKAEIGIAM</span></span>
-<span class="topo-line"><span class="topo-outside">GSGTAVAKTASEMVLADDNFSTIVAAVEEGRAIYNNMKQFIR</span><span class="topo-membrane">YLISSNVGEVVCIFL</span><span class="topo-inside">TAA</span></span>
-<span class="topo-line"><span class="topo-inside">LGLPEALIPV</span><span class="topo-membrane">QLLWVNLVTDGLPAT</span><span class="topo-outside">ALGFNPPDLDIMDRPPRSPKEPLISGWL</span><span class="topo-membrane">FFRYMAI</span></span>
-<span class="topo-line"><span class="topo-membrane">GGYVGAATVG</span><span class="topo-inside">AAAWWFMYAEDGPGVTYHQLTHFMQCTEDHPHFEGLDCEIFEAPEPMTM</span><span class="topo-membrane">A</span></span>
-<span class="topo-line"><span class="topo-membrane">LSVLVTIEMCNALN</span><span class="topo-outside">SLSENQSLMRMPPWVNIW</span><span class="topo-membrane">LLGSICLSMSLHFL</span><span class="topo-inside">ILYVDPLPMIFKLK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MEAAHSKSTEECLAYFGVSETTGLTPDQVKRHLEKYGHNELPAEE</span><span class="topo-unknown">GK</span><span class="topo-membrane">SLWELVIEQFEDLLVRIL</span><span class="topo-inside">LLAACISFVLAWF</span><span class="topo-unknown">EEGEETI</span><span class="topo-inside">TAFVEPFV</span><span class="topo-membrane">ILLILIANAIVGVW</span><span class="topo-outside">QERNAENAIEALK</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">EYEPEMGKVYRADRKSVQRIKARDIVPGDIVEVAVGDKVPADIRILSIKSTTLRVDQSILTGESVSVIKHTEPVPDPRAVNQDKKNMLFSGTNIAAGKALGIVATTGVSTEIGKIRDQMA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-unknown">ATE</span><span class="topo-outside">QDKTPLQQKLDEF</span><span class="topo-membrane">GEQLSKVISLICVA</span><span class="topo-inside">VWLINIGHFNDP</span><span class="topo-unknown">VHGGSWI</span><span class="topo-inside">RGAIYYFKIA</span><span class="topo-membrane">VALAVAAIPEG</span><span class="topo-outside">LPAVITTCLALGTRRMAKKNAIVRSLPSVETLGCTSVICSDKTGTLTTNQ</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">MSVCKMFIIDKVDGDFCSLNEFSITGSTYAPEGEVLKNDKPIRSGQFDGLVELATICALCNDSSLDFNETKGVYEKVGEATETALTTLVEKMNVFNTEVRNLSKVERANACNSVIRQLMK</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">KEFTLEFSRDRKSMSVYCSPAKS</span><span class="topo-unknown">SRA</span><span class="topo-outside">AVGNKMFVKGAPEGVIDRCNYVRVGTTRVPMTGPVKEKILSVIKEWGTGRDTLRCLALATRDTPPKREEMVLDDSSRFMEYETDLTFVGVVGML</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-outside">DPPRKEVMGSIQLCRDAGIRVIMITGDNKGTAIAICRRIGIFGENEEVADRAYTGREFDDLPLAEQREACRRACCFARVEPSHKSKIVEYLQSYDEITAMTGDGVNDAPALKKAEIGIAM</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820       830       840</span>
+<span class="topo-line"><span class="topo-outside">GSGTAVAKTASEMVLADDNFSTIVAAVEEGRAIYNNMKQFIR</span><span class="topo-membrane">YLISSNVGEVVCIFL</span><span class="topo-inside">TAALGLPEALIPV</span><span class="topo-membrane">QLLWVNLVTDGLPAT</span><span class="topo-outside">ALGFNPPDLDIMDRPPRSPKEPLISGWL</span><span class="topo-membrane">FFRYMAI</span></span>
+<span class="topo-ruler">       850       860       870       880       890       900       910       920       930       940       950       960</span>
+<span class="topo-line"><span class="topo-membrane">GGYVGAATVG</span><span class="topo-inside">AAAWWFMYAEDGPGVTYHQLTHFMQCTEDHPHFEGLDCEIFEAPEPMTM</span><span class="topo-membrane">ALSVLVTIEMCNALN</span><span class="topo-outside">SLSENQSLMRMPPWVNIW</span><span class="topo-membrane">LLGSICLSMSLHFL</span><span class="topo-inside">ILYVDPLPMIFKLK</span></span>
+<span class="topo-ruler">       970       980       990    </span>
 <span class="topo-line"><span class="topo-inside">ALDLTQ</span><span class="topo-membrane">WLMVLKISLPVIGLD</span><span class="topo-outside">EILKFIARNYL</span><span class="topo-unknown">EG</span></span>
+<details class="topo-details"><summary>Topology coordinates (31 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -676,6 +684,7 @@ Phospholamban (PLB, also known as PLN) is a small (~52 amino acid) membrane prot
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -691,7 +700,9 @@ Phospholamban (PLB, also known as PLN) is a small (~52 amino acid) membrane prot
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40        50</span>
 <span class="topo-line"><span class="topo-unknown">MDKVQYLTRSAIRRASTIEM</span><span class="topo-outside">PQQARQNLQN</span><span class="topo-membrane">LFINFCLILICLLL</span><span class="topo-inside">ICIIVM</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -731,6 +742,7 @@ Phospholamban (PLB, also known as PLN) is a small (~52 amino acid) membrane prot
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -746,7 +758,9 @@ Phospholamban (PLB, also known as PLN) is a small (~52 amino acid) membrane prot
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20   </span>
 <span class="topo-line"><span class="topo-unknown">UUUUUUU</span><span class="topo-membrane">UUUUUUUUUUU</span><span class="topo-inside">UUUUU</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -779,6 +793,7 @@ Phospholamban (PLB, also known as PLN) is a small (~52 amino acid) membrane prot
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -826,23 +841,25 @@ Phospholamban (PLB, also known as PLN) is a small (~52 amino acid) membrane prot
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MEAAHSKSTEECLAYFGVSETTGLTPDQVKRHLEKYGHNELPAEEG</span><span class="topo-membrane">KSLWELVIEQFEDL</span></span>
-<span class="topo-line"><span class="topo-membrane">LVRILLLA</span><span class="topo-inside">ACISFVLAWFE</span><span class="topo-unknown">EGEETI</span><span class="topo-inside">TAFVEP</span><span class="topo-membrane">FVILLILIANAIVGVWQERN</span><span class="topo-outside">AENAIEALK</span></span>
-<span class="topo-line"><span class="topo-outside">EYEPEMGKVYRADRKSVQRIKARDIVPGDIVEVAVGDKVPADIRILSIKSTTLRVDQSIL</span></span>
-<span class="topo-line"><span class="topo-outside">TGESVSVIKHTEPVPDPRAVNQDKKNMLFSGTNIAAGKALGIVATTGVSTEIGKIRDQMA</span></span>
-<span class="topo-line"><span class="topo-outside">ATEQDKTPLQQKLD</span><span class="topo-membrane">EFGEQLSKVISLICVAVWLI</span><span class="topo-inside">NIGHFNDPVHGGSWIRGAIYYF</span><span class="topo-membrane">KIAV</span></span>
-<span class="topo-line"><span class="topo-membrane">ALAVAAIPEGLPAV</span><span class="topo-outside">ITTCLALGTRRMAKKNAIVRSLPSVETLGCTSVICSDKTGTLTTNQ</span></span>
-<span class="topo-line"><span class="topo-outside">MSVCKMFIIDKVDGDFCSLNEFSITGSTYAPEGEVLKNDKPIRSGQFDGLVELATICALC</span></span>
-<span class="topo-line"><span class="topo-outside">NDSSLDFNETKGVYEKVGEATETALTTLVEKMNVFNTEVRNLSKVERANACNSVIRQLMK</span></span>
-<span class="topo-line"><span class="topo-outside">KEFTLEFSRDRKSMSVYCSPAKSSRAAVGNKMFVKGAPEGVIDRCNYVRVGTTRVPMTGP</span></span>
-<span class="topo-line"><span class="topo-outside">VKEKILSVIKEWGTGRDTLRCLALATRDTPPKREEMVLDDSSRFMEYETDLTFVGVVGML</span></span>
-<span class="topo-line"><span class="topo-outside">DPPRKEVMGSIQLCRDAGIRVIMITGDNKGTAIAICRRIGIFGENEEVADRAYTGREFDD</span></span>
-<span class="topo-line"><span class="topo-outside">LPLAEQREACRRACCFARVEPSHKSKIVEYLQSYDEITAMTGDGVNDAPALKKAEIGIAM</span></span>
-<span class="topo-line"><span class="topo-outside">GSGTAVAKTASEMVLADDNFSTIVAAVEEGRAIYNNMKQ</span><span class="topo-membrane">FIRYLISSNVGEVVCIFLTAA</span></span>
-<span class="topo-line"><span class="topo-membrane">L</span><span class="topo-inside">GLPEA</span><span class="topo-membrane">LIPVQLLWVNLVTDGLPATALGF</span><span class="topo-outside">NPPDLDIMDRPPRSPKEPLISGW</span><span class="topo-membrane">LFFRYMAI</span></span>
-<span class="topo-line"><span class="topo-membrane">GGYVGAATVGAAAW</span><span class="topo-inside">WFMYAEDGPGVTYHQLTHFMQCTEDHPHF</span><span class="topo-unknown">EGL</span><span class="topo-inside">DCEIFEAPEPM</span><span class="topo-membrane">TMA</span></span>
-<span class="topo-line"><span class="topo-membrane">LSVLVTIEMCNALNSL</span><span class="topo-outside">SENQSLMRMP</span><span class="topo-membrane">PWVNIWLLGSICLSMSLHFLIL</span><span class="topo-inside">YVDPLPMIFKLK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MEAAHSKSTEECLAYFGVSETTGLTPDQVKRHLEKYGHNELPAEEG</span><span class="topo-membrane">KSLWELVIEQFEDLLVRILLLA</span><span class="topo-inside">ACISFVLAWFE</span><span class="topo-unknown">EGEETI</span><span class="topo-inside">TAFVEP</span><span class="topo-membrane">FVILLILIANAIVGVWQERN</span><span class="topo-outside">AENAIEALK</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">EYEPEMGKVYRADRKSVQRIKARDIVPGDIVEVAVGDKVPADIRILSIKSTTLRVDQSILTGESVSVIKHTEPVPDPRAVNQDKKNMLFSGTNIAAGKALGIVATTGVSTEIGKIRDQMA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">ATEQDKTPLQQKLD</span><span class="topo-membrane">EFGEQLSKVISLICVAVWLI</span><span class="topo-inside">NIGHFNDPVHGGSWIRGAIYYF</span><span class="topo-membrane">KIAVALAVAAIPEGLPAV</span><span class="topo-outside">ITTCLALGTRRMAKKNAIVRSLPSVETLGCTSVICSDKTGTLTTNQ</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">MSVCKMFIIDKVDGDFCSLNEFSITGSTYAPEGEVLKNDKPIRSGQFDGLVELATICALCNDSSLDFNETKGVYEKVGEATETALTTLVEKMNVFNTEVRNLSKVERANACNSVIRQLMK</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">KEFTLEFSRDRKSMSVYCSPAKSSRAAVGNKMFVKGAPEGVIDRCNYVRVGTTRVPMTGPVKEKILSVIKEWGTGRDTLRCLALATRDTPPKREEMVLDDSSRFMEYETDLTFVGVVGML</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-outside">DPPRKEVMGSIQLCRDAGIRVIMITGDNKGTAIAICRRIGIFGENEEVADRAYTGREFDDLPLAEQREACRRACCFARVEPSHKSKIVEYLQSYDEITAMTGDGVNDAPALKKAEIGIAM</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820       830       840</span>
+<span class="topo-line"><span class="topo-outside">GSGTAVAKTASEMVLADDNFSTIVAAVEEGRAIYNNMKQ</span><span class="topo-membrane">FIRYLISSNVGEVVCIFLTAAL</span><span class="topo-inside">GLPEA</span><span class="topo-membrane">LIPVQLLWVNLVTDGLPATALGF</span><span class="topo-outside">NPPDLDIMDRPPRSPKEPLISGW</span><span class="topo-membrane">LFFRYMAI</span></span>
+<span class="topo-ruler">       850       860       870       880       890       900       910       920       930       940       950       960</span>
+<span class="topo-line"><span class="topo-membrane">GGYVGAATVGAAAW</span><span class="topo-inside">WFMYAEDGPGVTYHQLTHFMQCTEDHPHF</span><span class="topo-unknown">EGL</span><span class="topo-inside">DCEIFEAPEPM</span><span class="topo-membrane">TMALSVLVTIEMCNALNSL</span><span class="topo-outside">SENQSLMRMP</span><span class="topo-membrane">PWVNIWLLGSICLSMSLHFLIL</span><span class="topo-inside">YVDPLPMIFKLK</span></span>
+<span class="topo-ruler">       970       980       990    </span>
 <span class="topo-line"><span class="topo-inside">ALDL</span><span class="topo-membrane">TQWLMVLKISLPVIGLDEILKFI</span><span class="topo-outside">ARNYLEG</span></span>
+<details class="topo-details"><summary>Topology coordinates (25 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1029,6 +1046,7 @@ Phospholamban (PLB, also known as PLN) is a small (~52 amino acid) membrane prot
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1044,7 +1062,9 @@ Phospholamban (PLB, also known as PLN) is a small (~52 amino acid) membrane prot
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30 </span>
 <span class="topo-line"><span class="topo-outside">MER</span><span class="topo-membrane">STRELCLNFTVVLITVILI</span><span class="topo-inside">WLLVRSYQY</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1077,6 +1097,7 @@ Phospholamban (PLB, also known as PLN) is a small (~52 amino acid) membrane prot
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

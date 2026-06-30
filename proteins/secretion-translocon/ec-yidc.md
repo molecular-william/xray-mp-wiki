@@ -89,16 +89,17 @@ YidC is an essential bacterial membrane protein insertase and chaperone that med
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MDSQRNLLVIALLFVSFMIWQAWEQDKNPQPQAQQTTQTTTTAAGSAA</span><span class="topo-outside">DQGVPASGQGKL</span></span>
-<span class="topo-line"><span class="topo-outside">ISVKTDVLDLTINTRGGDVEQALLPAYPKELNSTQPFQLLETSPQFIYQAQSGLTGRDGP</span></span>
-<span class="topo-line"><span class="topo-outside">DNPANGPRPLYNVEKDAYVLAEGQNELQVPMTYTDAAGNTFTKTFVLKRGDYAVNVNYNV</span></span>
-<span class="topo-line"><span class="topo-outside">QNAGEKPLEISTFGQLKQSITLPPHLDTGSSNFALHTFRGAAYSTPDEKYEKYKFDTIAD</span></span>
-<span class="topo-line"><span class="topo-outside">NENLNISSKGGWVAMLQQYFATAWIPHNDGTNNFYTANLGNGIAAIGYKSQPVLVQPGQT</span></span>
-<span class="topo-line"><span class="topo-outside">GAMNSTLWVGPEIQDKMAAVAPHLDLTVDYGWLW</span><span class="topo-unknown">FISQPLFKLLKWIHSFV</span><span class="topo-outside">GNWGF</span><span class="topo-membrane">SIII</span></span>
-<span class="topo-line"><span class="topo-membrane">ITFIVRGIMYPLTKAQY</span><span class="topo-inside">TSMAKMRMLQPKIQAMRERLGDD</span><span class="topo-unknown">KQRISQEMMALYKA</span><span class="topo-inside">EKVNPL</span></span>
-<span class="topo-line"><span class="topo-membrane">GGCFPLLIQMPIFLALY</span><span class="topo-outside">YMLMGSVELRQAPFALWIHDLSAQDPY</span><span class="topo-membrane">YILPILMGVTMFFIQK</span></span>
-<span class="topo-line"><span class="topo-membrane">MS</span><span class="topo-inside">PTTVTDPMQQK</span><span class="topo-membrane">IMTFMPVIFTVFFLWFPS</span><span class="topo-outside">G</span><span class="topo-membrane">LVLYYIVSNLVTIIQQQL</span><span class="topo-inside">IY</span><span class="topo-unknown">RGLEKRGL</span></span>
-<span class="topo-line"><span class="topo-unknown">LESSGENLYFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MDSQRNLLVIALLFVSFMIWQAWEQDKNPQPQAQQTTQTTTTAAGSAA</span><span class="topo-outside">DQGVPASGQGKLISVKTDVLDLTINTRGGDVEQALLPAYPKELNSTQPFQLLETSPQFIYQAQSGLTGRDGP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">DNPANGPRPLYNVEKDAYVLAEGQNELQVPMTYTDAAGNTFTKTFVLKRGDYAVNVNYNVQNAGEKPLEISTFGQLKQSITLPPHLDTGSSNFALHTFRGAAYSTPDEKYEKYKFDTIAD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">NENLNISSKGGWVAMLQQYFATAWIPHNDGTNNFYTANLGNGIAAIGYKSQPVLVQPGQTGAMNSTLWVGPEIQDKMAAVAPHLDLTVDYGWLW</span><span class="topo-unknown">FISQPLFKLLKWIHSFV</span><span class="topo-outside">GNWGF</span><span class="topo-membrane">SIII</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">ITFIVRGIMYPLTKAQY</span><span class="topo-inside">TSMAKMRMLQPKIQAMRERLGDD</span><span class="topo-unknown">KQRISQEMMALYKA</span><span class="topo-inside">EKVNPL</span><span class="topo-membrane">GGCFPLLIQMPIFLALY</span><span class="topo-outside">YMLMGSVELRQAPFALWIHDLSAQDPY</span><span class="topo-membrane">YILPILMGVTMFFIQK</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550 </span>
+<span class="topo-line"><span class="topo-membrane">MS</span><span class="topo-inside">PTTVTDPMQQK</span><span class="topo-membrane">IMTFMPVIFTVFFLWFPS</span><span class="topo-outside">G</span><span class="topo-membrane">LVLYYIVSNLVTIIQQQL</span><span class="topo-inside">IY</span><span class="topo-unknown">RGLEKRGLLESSGENLYFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -215,6 +216,7 @@ YidC is an essential bacterial membrane protein insertase and chaperone that med
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -329,16 +331,17 @@ YidC is an essential bacterial membrane protein insertase and chaperone that med
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MDSQRNLLVIALLFVSFMIWQAWEQDKNPQPQAQQTTQTTTTAAGSAADQGVPAS</span><span class="topo-outside">GQGKL</span></span>
-<span class="topo-line"><span class="topo-outside">ISVKTDVLDLTINTRGGDVEQALLPAYPKELNSTQPFQLLETSPQFIYQAQSGLTGRDGP</span></span>
-<span class="topo-line"><span class="topo-outside">DNPANGPRPLYNVEKDAYVLAEGQNELQVPMTYTDAAGNTFTKTFVLKRGDYAVNVNYNV</span></span>
-<span class="topo-line"><span class="topo-outside">QNAGEKPLEISTFGQLKQSITLP</span><span class="topo-unknown">PHLDTGSSNFAL</span><span class="topo-outside">HTFRGAAYSTPDEKYEKYKFDTIAD</span></span>
-<span class="topo-line"><span class="topo-outside">NENLNISSKGGWVAMLQQYFATAWIPHNDGTNNFYTANLGNGIAAIGYKSQPVLVQPGQT</span></span>
-<span class="topo-line"><span class="topo-outside">GAMNSTLWVGPEIQDKMAAVAPHLDLTVDYGWL</span><span class="topo-unknown">WFISQPLFKLLKWIHSFV</span><span class="topo-outside">GNWG</span><span class="topo-membrane">FSIII</span></span>
-<span class="topo-line"><span class="topo-membrane">ITFIVRGIMYPLT</span><span class="topo-inside">KAQYTSMAKMRMLQPKIQAMRERLGDDKQRISQEMMALYKAEKVNPL</span></span>
-<span class="topo-line"><span class="topo-inside">GGC</span><span class="topo-membrane">FPLLIQMPIFLALYY</span><span class="topo-outside">MLMGSVELRQAPFALWIHDLSAQDPY</span><span class="topo-membrane">YILPILMGVTMFF</span><span class="topo-inside">IQ</span><span class="topo-unknown">K</span></span>
-<span class="topo-line"><span class="topo-unknown">MSPTTVTDPMQQ</span><span class="topo-inside">KIMTF</span><span class="topo-membrane">MPVIFTVFFLWFP</span><span class="topo-outside">S</span><span class="topo-membrane">GLVLYYIVSNLVTII</span><span class="topo-inside">QQ</span><span class="topo-unknown">QLIYRGLEKRGL</span></span>
-<span class="topo-line"><span class="topo-unknown">LESSGENLYFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MDSQRNLLVIALLFVSFMIWQAWEQDKNPQPQAQQTTQTTTTAAGSAADQGVPAS</span><span class="topo-outside">GQGKLISVKTDVLDLTINTRGGDVEQALLPAYPKELNSTQPFQLLETSPQFIYQAQSGLTGRDGP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">DNPANGPRPLYNVEKDAYVLAEGQNELQVPMTYTDAAGNTFTKTFVLKRGDYAVNVNYNVQNAGEKPLEISTFGQLKQSITLP</span><span class="topo-unknown">PHLDTGSSNFAL</span><span class="topo-outside">HTFRGAAYSTPDEKYEKYKFDTIAD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">NENLNISSKGGWVAMLQQYFATAWIPHNDGTNNFYTANLGNGIAAIGYKSQPVLVQPGQTGAMNSTLWVGPEIQDKMAAVAPHLDLTVDYGWL</span><span class="topo-unknown">WFISQPLFKLLKWIHSFV</span><span class="topo-outside">GNWG</span><span class="topo-membrane">FSIII</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">ITFIVRGIMYPLT</span><span class="topo-inside">KAQYTSMAKMRMLQPKIQAMRERLGDDKQRISQEMMALYKAEKVNPLGGC</span><span class="topo-membrane">FPLLIQMPIFLALYY</span><span class="topo-outside">MLMGSVELRQAPFALWIHDLSAQDPY</span><span class="topo-membrane">YILPILMGVTMFF</span><span class="topo-inside">IQ</span><span class="topo-unknown">K</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550 </span>
+<span class="topo-line"><span class="topo-unknown">MSPTTVTDPMQQ</span><span class="topo-inside">KIMTF</span><span class="topo-membrane">MPVIFTVFFLWFP</span><span class="topo-outside">S</span><span class="topo-membrane">GLVLYYIVSNLVTII</span><span class="topo-inside">QQ</span><span class="topo-unknown">QLIYRGLEKRGLLESSGENLYFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -455,6 +458,7 @@ YidC is an essential bacterial membrane protein insertase and chaperone that med
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

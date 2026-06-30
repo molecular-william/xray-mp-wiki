@@ -142,21 +142,23 @@ AfAglB is the catalytic subunit of the oligosaccharyltransferase (OST) from the 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MQNAE</span><span class="topo-inside">SWFKKYW</span><span class="topo-membrane">HLSVLVIAALISVKL</span><span class="topo-outside">RILNPWNSVFTWTVRLGGNDPWYYYRLIENTIH</span></span>
-<span class="topo-line"><span class="topo-outside">NFPHRIWFDPFTYYPYGSYTHFG</span><span class="topo-unknown">PFLVYLGSIAGII</span><span class="topo-outside">FSATSGESLRAVLAFIPAI</span><span class="topo-membrane">GGVLA</span></span>
-<span class="topo-line"><span class="topo-membrane">ILPVYLLTREV</span><span class="topo-inside">FDKRA</span><span class="topo-membrane">AVIAAFLIAIVP</span><span class="topo-outside">GQFLQRSILGFNDHHI</span><span class="topo-membrane">WEAFWQVSALGTFLLA</span></span>
-<span class="topo-line"><span class="topo-inside">YNRWKGHDLSHNLTARQM</span><span class="topo-membrane">AYPVIAGITIGLYVL</span><span class="topo-outside">SWGAG</span><span class="topo-membrane">FIIAPIILAFMFFA</span><span class="topo-inside">FVLAGFVN</span></span>
-<span class="topo-line"><span class="topo-inside">ADRKNLS</span><span class="topo-membrane">LVAVVTFAVSALIYLP</span><span class="topo-outside">FAFNYPGFSTIFYSPFQ</span><span class="topo-membrane">LLVLLGSAVIAAAF</span><span class="topo-inside">YQIEKW</span></span>
-<span class="topo-line"><span class="topo-inside">NDVGFFERVGLGRKGMPL</span><span class="topo-membrane">AVIVLTALIMGLFFV</span><span class="topo-outside">I</span><span class="topo-unknown">SPDFARNLLSVV</span><span class="topo-outside">RVVQPKGGALTIAE</span></span>
-<span class="topo-line"><span class="topo-outside">VYPFFFTHNGEFTL</span><span class="topo-unknown">TNAVLH</span><span class="topo-membrane">FGALFFFGMAGILYSA</span><span class="topo-inside">YRFLKRRSFP</span><span class="topo-membrane">EMALLIWAIAMFIA</span></span>
-<span class="topo-line"><span class="topo-membrane">LW</span><span class="topo-outside">GQNRFA</span><span class="topo-membrane">YYFAAVSAVYSALALS</span><span class="topo-inside">VVFDKLH</span><span class="topo-unknown">LYRALEN</span><span class="topo-inside">AIGARNKLSYFRVA</span><span class="topo-membrane">FALLIALA</span></span>
-<span class="topo-line"><span class="topo-membrane">AIYPTYILA</span><span class="topo-outside">DAQSSYAGGPNKQWYDALTWMRENTPDGEKYDEYYLQLYPTPQSNKEPFSY</span></span>
-<span class="topo-line"><span class="topo-outside">PFETYGVISWWDYGHWIEAVAHRMPIANPFQAGIGNKYNNVPGASSFFTAENESYAEFVA</span></span>
-<span class="topo-line"><span class="topo-outside">EKLNVKYVVSDIEMETCKYYAMAVWAEGDLPLAEKYYGGYFYYSPTGTFGYANSQWDIPL</span></span>
-<span class="topo-line"><span class="topo-outside">NSIIIPLRIPSELYYSTMEAKLHLFDGSGLSHYRMIYESDYPAEWKSYSSQVNLNNESQV</span></span>
-<span class="topo-line"><span class="topo-outside">LQTALYEAVMRARYGVSPTMGTQEVLYKYAYTQLYEKKMGIPVKIAPSGYVKIFERVKGA</span></span>
-<span class="topo-line"><span class="topo-outside">VVTGKVSANVTEVSVNATIKTNQNRTFEYWQTVEVKNGTYTVVLPYSHNSDYPVKPITPY</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MQNAE</span><span class="topo-inside">SWFKKYW</span><span class="topo-membrane">HLSVLVIAALISVKL</span><span class="topo-outside">RILNPWNSVFTWTVRLGGNDPWYYYRLIENTIHNFPHRIWFDPFTYYPYGSYTHFG</span><span class="topo-unknown">PFLVYLGSIAGII</span><span class="topo-outside">FSATSGESLRAVLAFIPAI</span><span class="topo-membrane">GGVLA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">ILPVYLLTREV</span><span class="topo-inside">FDKRA</span><span class="topo-membrane">AVIAAFLIAIVP</span><span class="topo-outside">GQFLQRSILGFNDHHI</span><span class="topo-membrane">WEAFWQVSALGTFLLA</span><span class="topo-inside">YNRWKGHDLSHNLTARQM</span><span class="topo-membrane">AYPVIAGITIGLYVL</span><span class="topo-outside">SWGAG</span><span class="topo-membrane">FIIAPIILAFMFFA</span><span class="topo-inside">FVLAGFVN</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">ADRKNLS</span><span class="topo-membrane">LVAVVTFAVSALIYLP</span><span class="topo-outside">FAFNYPGFSTIFYSPFQ</span><span class="topo-membrane">LLVLLGSAVIAAAF</span><span class="topo-inside">YQIEKWNDVGFFERVGLGRKGMPL</span><span class="topo-membrane">AVIVLTALIMGLFFV</span><span class="topo-outside">I</span><span class="topo-unknown">SPDFARNLLSVV</span><span class="topo-outside">RVVQPKGGALTIAE</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">VYPFFFTHNGEFTL</span><span class="topo-unknown">TNAVLH</span><span class="topo-membrane">FGALFFFGMAGILYSA</span><span class="topo-inside">YRFLKRRSFP</span><span class="topo-membrane">EMALLIWAIAMFIALW</span><span class="topo-outside">GQNRFA</span><span class="topo-membrane">YYFAAVSAVYSALALS</span><span class="topo-inside">VVFDKLH</span><span class="topo-unknown">LYRALEN</span><span class="topo-inside">AIGARNKLSYFRVA</span><span class="topo-membrane">FALLIALA</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-membrane">AIYPTYILA</span><span class="topo-outside">DAQSSYAGGPNKQWYDALTWMRENTPDGEKYDEYYLQLYPTPQSNKEPFSYPFETYGVISWWDYGHWIEAVAHRMPIANPFQAGIGNKYNNVPGASSFFTAENESYAEFVA</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-outside">EKLNVKYVVSDIEMETCKYYAMAVWAEGDLPLAEKYYGGYFYYSPTGTFGYANSQWDIPLNSIIIPLRIPSELYYSTMEAKLHLFDGSGLSHYRMIYESDYPAEWKSYSSQVNLNNESQV</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820       830       840</span>
+<span class="topo-line"><span class="topo-outside">LQTALYEAVMRARYGVSPTMGTQEVLYKYAYTQLYEKKMGIPVKIAPSGYVKIFERVKGAVVTGKVSANVTEVSVNATIKTNQNRTFEYWQTVEVKNGTYTVVLPYSHNSDYPVKPITPY</span></span>
+<span class="topo-ruler">       850       860       870     </span>
 <span class="topo-line"><span class="topo-outside">HIKAGNVVKEITIYESQVQNGEIIQLDLELAL</span><span class="topo-unknown">VPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (34 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -406,6 +408,7 @@ AfAglB is the catalytic subunit of the oligosaccharyltransferase (OST) from the 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

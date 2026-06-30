@@ -63,15 +63,17 @@ Cannabinoid receptor 1 (CNR1, commonly known as CB1) is a class A G protein-coup
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MKTIIALSYIFCLVFAG</span><span class="topo-inside">APPMKDYMILSGPQKTA</span><span class="topo-membrane">VAVLCTLLGLLSALENVAVLYLILS</span><span class="topo-outside">S</span></span>
-<span class="topo-line"><span class="topo-outside">HQLRRKP</span><span class="topo-membrane">SYLFIGSLALADFLASVVFACSFV</span><span class="topo-inside">NFHVFHGVDSKAVFL</span><span class="topo-membrane">LKIGSVTMTFTASV</span></span>
-<span class="topo-line"><span class="topo-membrane">GSLLLAAIDRY</span><span class="topo-outside">LCLRYPPSYKALLTR</span><span class="topo-membrane">GRALVLLGIMWVLSALVSYLPLM</span><span class="topo-inside">GWTCCPRPCSE</span></span>
-<span class="topo-line"><span class="topo-inside">LFPLIPND</span><span class="topo-membrane">YLLSWLLFIAFLFSGIIYTYGHVL</span><span class="topo-outside">WKAHQHVASNIFEMLRIDEGLRLKIYKD</span></span>
-<span class="topo-line"><span class="topo-outside">TEGYYTIGIGHLLTKSPSLNAAKSELDKAIGRNTNGVITKDEAEKLFNQDVDAAVRGILR</span></span>
-<span class="topo-line"><span class="topo-outside">NAKLKPVYDSLDAVRRAALINMVFQMGETGVAGFTNSLRMLQQKRWDEAAVNLAKSRWYN</span></span>
-<span class="topo-line"><span class="topo-outside">QTPNRAKRVITTFRTGTWDAYARMRLDVEL</span><span class="topo-membrane">AKTLGLVLAVLLICWFPVLALMAH</span><span class="topo-inside">SLATTL</span></span>
-<span class="topo-line"><span class="topo-inside">SDQVKKA</span><span class="topo-membrane">FAFCSMLCLINSMVNPVIYALRS</span><span class="topo-outside">EEIRSSAHHCLAHWKK</span><span class="topo-unknown">CVRGLGEFLEVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MKTIIALSYIFCLVFAG</span><span class="topo-inside">APPMKDYMILSGPQKTA</span><span class="topo-membrane">VAVLCTLLGLLSALENVAVLYLILS</span><span class="topo-outside">SHQLRRKP</span><span class="topo-membrane">SYLFIGSLALADFLASVVFACSFV</span><span class="topo-inside">NFHVFHGVDSKAVFL</span><span class="topo-membrane">LKIGSVTMTFTASV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GSLLLAAIDRY</span><span class="topo-outside">LCLRYPPSYKALLTR</span><span class="topo-membrane">GRALVLLGIMWVLSALVSYLPLM</span><span class="topo-inside">GWTCCPRPCSELFPLIPND</span><span class="topo-membrane">YLLSWLLFIAFLFSGIIYTYGHVL</span><span class="topo-outside">WKAHQHVASNIFEMLRIDEGLRLKIYKD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">TEGYYTIGIGHLLTKSPSLNAAKSELDKAIGRNTNGVITKDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVFQMGETGVAGFTNSLRMLQQKRWDEAAVNLAKSRWYN</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">QTPNRAKRVITTFRTGTWDAYARMRLDVEL</span><span class="topo-membrane">AKTLGLVLAVLLICWFPVLALMAH</span><span class="topo-inside">SLATTLSDQVKKA</span><span class="topo-membrane">FAFCSMLCLINSMVNPVIYALRS</span><span class="topo-outside">EEIRSSAHHCLAHWKK</span><span class="topo-unknown">CVRGLGEFLEVLFQ</span></span>
+<span class="topo-ruler">       490       500</span>
 <span class="topo-line"><span class="topo-unknown">GPHHHHHHHHHHDYKDDDDK</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -216,6 +218,7 @@ Cannabinoid receptor 1 (CNR1, commonly known as CB1) is a class A G protein-coup
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -259,7 +262,6 @@ Cannabinoid receptor 1 (CNR1, commonly known as CB1) is a class A G protein-coup
 - **Expression construct**: CB1 purified from recombinant expression
 - **Tag info**: Not specified
 
-<<<<<<< HEAD
 <table class="wiki-table">
   <thead><tr>
     <th>Step</th>
@@ -285,15 +287,6 @@ Cannabinoid receptor 1 (CNR1, commonly known as CB1) is a class A G protein-coup
     </tr>
   </tbody>
 </table>
-=======
-##### Steps
-
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Complex formation | In vitro reconstitution |  |  | CB1-Gi-[SCFV16](/xray-mp-wiki/reagents/antibodies/scfv16) complex constituted in vitro from purified CB1, Gi heterotrimer, and scFv16 |
-| SEC | [SEC](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) | [Superdex 200](/xray-mp-wiki/reagents/additives/superdex-200/) 10/300 GL | 20 mM [HEPES](/xray-mp-wiki/reagents/buffers/hepes) pH 7.5, 100 mM NaCl, 0.00075% [LMNG](/xray-mp-wiki/reagents/detergents/lmng/), 0.00025% GDN, 0.0001% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 100 uM TCEP, 5 uM AM841 + 0.00075% [LMNG](/xray-mp-wiki/reagents/detergents/lmng) + 0.00025% GDN + 0.0001% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | Monomeric CB1-Gi-scFv16 complex isolated; concentrated to 1 mg/mL for [Cryo em](/xray-mp-wiki/methods/structure-determination/cryo-em) |
-
->>>>>>> d0e2c437136bdf2885afc6a99e0a9d4117821696
 **Final sample**: 1 mg/mL
 **Purity**: Peak fractions concentrated for [Cryo em](/xray-mp-wiki/methods/structure-determination/cryo-em) studies
 
@@ -325,7 +318,6 @@ Cannabinoid receptor 1 (CNR1, commonly known as CB1) is a class A G protein-coup
 <div class="sequence-entry" markdown="1">
 **PDB <a class="pdb-link" href="https://www.rcsb.org/structure/6kpg">6KPG</a> — Chain A (0 TMs, non_tm)**
 
-<<<<<<< HEAD
 <div class="sequence-display">
 <div class="topo-legend">
 <span class="topo-membrane-legend">&#9608; TM Helix</span>
@@ -334,12 +326,13 @@ Cannabinoid receptor 1 (CNR1, commonly known as CB1) is a class A G protein-coup
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">G</span><span class="topo-inside">CTLSAEDKAAVERSKMIDRNLREDGEKAAREVKLLLLGAGESGKSTIVKQMK</span><span class="topo-unknown">IIHEAGY</span></span>
-<span class="topo-line"><span class="topo-unknown">SEEECKQYKAVVYSNTIQSIIAIIRAMGRLKIDFGDSARADDARQLFVLAGAAEEGFMTA</span></span>
-<span class="topo-line"><span class="topo-unknown">ELAGVIKRLWKDSGVQACFNRSREYQLNDSAAYYLNDLDRIAQPNYIPTQQDVLRTRVKT</span></span>
-<span class="topo-line"><span class="topo-inside">TGIVETHFTFKDLHFKMFDVGGQRSERKKWIHCFEGVTAIIFCVALSDYDLVLAEDEEMN</span></span>
-<span class="topo-line"><span class="topo-inside">RMHESMKLFDSICNNKWFTDTSIILFLNKKDLFEEKIKKSPLTICYPEYAGSNTYEEAAA</span></span>
-<span class="topo-line"><span class="topo-inside">YIQCQFEDLNKRKDTKEIYTHFTCATDTKNVQFVFDAVTDVIIKNNLKDCGLF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">G</span><span class="topo-inside">CTLSAEDKAAVERSKMIDRNLREDGEKAAREVKLLLLGAGESGKSTIVKQMK</span><span class="topo-unknown">IIHEAGYSEEECKQYKAVVYSNTIQSIIAIIRAMGRLKIDFGDSARADDARQLFVLAGAAEEGFMTA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-unknown">ELAGVIKRLWKDSGVQACFNRSREYQLNDSAAYYLNDLDRIAQPNYIPTQQDVLRTRVKT</span><span class="topo-inside">TGIVETHFTFKDLHFKMFDVGGQRSERKKWIHCFEGVTAIIFCVALSDYDLVLAEDEEMN</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350   </span>
+<span class="topo-line"><span class="topo-inside">RMHESMKLFDSICNNKWFTDTSIILFLNKKDLFEEKIKKSPLTICYPEYAGSNTYEEAAAYIQCQFEDLNKRKDTKEIYTHFTCATDTKNVQFVFDAVTDVIIKNNLKDCGLF</span></span>
+<details class="topo-details"><summary>Topology coordinates (2 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -365,24 +358,13 @@ Cannabinoid receptor 1 (CNR1, commonly known as CB1) is a class A G protein-coup
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
 
 <div class="sequence-entry" markdown="1">
 **PDB <a class="pdb-link" href="https://www.rcsb.org/structure/6kpg">6KPG</a> — Chain B (0 TMs, non_tm)**
-=======
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Membrane solubilization | Detergent solubilization |  | 50 mM HEPES pH 7.5, 500 mM NaCl, 10% glycerol, 160 ug/mL benzamidine, 100 ug/mL leupeptin, 2 mg/mL [Iodoacetamide](/xray-mp-wiki/reagents/additives/iodoacetamide) + 1% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.2% sodium cholate, 0.2% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 10 uM [Taranabant](/xray-mp-wiki/reagents/ligands/taranabant) | Sf9 cell membranes solubilized 1 hr at 4C; ultracentrifugation 30 min at 100,000g |
-| Ni-NTA affinity chromatography | [Ni-NTA](/xray-mp-wiki/reagents/additives/nickel-nta/) [affinity chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | [Ni-NTA](/xray-mp-wiki/reagents/additives/nickel-nta/) agarose (GE Healthcare) | 50 mM HEPES pH 7.5, 500 mM NaCl, 0.05% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.01% sodium cholate, 0.01% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 10% glycerol, 50 mM imidazole, 160 ug/mL [Benzamidine](/xray-mp-wiki/reagents/ligands/benzamidine), 100 ug/mL leupeptin, 1 uM taranabant + 0.05% [DDM](/xray-mp-wiki/reagents/detergents/ddm) + 0.01% sodium cholate + 0.01% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | Batch incubation 3 hr at 4C; washed with 15 column volumes; eluted with 200 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole) and 2 mM calcium |
-| Anti-Flag affinity chromatography | Anti-[FLAG](/xray-mp-wiki/reagents/protein-tags/flag-tag/) M1 [affinity chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | Anti-[FLAG](/xray-mp-wiki/reagents/protein-tags/flag-tag/) M1 affinity resin | 0.05% [LMNG](/xray-mp-wiki/reagents/detergents/lmng) (detergent exchanged from [DDM](/xray-mp-wiki/reagents/detergents/ddm/) on M1 resin) + 0.05% [LMNG](/xray-mp-wiki/reagents/detergents/lmng) | Detergent exchanged from 0.05% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) to 0.05% [LMNG](/xray-mp-wiki/reagents/detergents/lmng) on resin |
-| Tag cleavage | Enzymatic cleavage |  | 0.05% [LMNG](/xray-mp-wiki/reagents/detergents/lmng) | [TEV](/xray-mp-wiki/reagents/enzymes/tev-protease/) protease (1:10 w/w) and PNGase F added to remove [FLAG](/xray-mp-wiki/reagents/protein-tags/flag-tag/) tag and deglycosylate; receptor eluted with 0.2 mg/mL [FLAG](/xray-mp-wiki/reagents/protein-tags/flag-tag/) peptide and 5 mM [EDTA](/xray-mp-wiki/reagents/additives/edta) |
-| SEC | [SEC](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) | [Superdex 200](/xray-mp-wiki/reagents/additives/superdex-200/) | 20 mM HEPES pH 7.5, 150 mM NaCl, 0.05% [LMNG](/xray-mp-wiki/reagents/detergents/lmng/), 0.005% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 1 uM [Taranabant](/xray-mp-wiki/reagents/ligands/taranabant) + 0.05% [LMNG](/xray-mp-wiki/reagents/detergents/lmng) + 0.005% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | Final polishing step; [LCP](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) microcrystals obtained from purified sample |
-
-**Final sample**: Purified CB1(T210A)-PGS in 20 mM HEPES pH 7.5, 150 mM NaCl, 0.05% [LMNG](/xray-mp-wiki/reagents/detergents/lmng/), 0.005% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 1 uM [Taranabant](/xray-mp-wiki/reagents/ligands/taranabant)
-**Purity**: Monodisperse peak by [SEC](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/); SDS-PAGE verified
->>>>>>> d0e2c437136bdf2885afc6a99e0a9d4117821696
 
 <div class="sequence-display">
 <div class="topo-legend">
@@ -392,12 +374,13 @@ Cannabinoid receptor 1 (CNR1, commonly known as CB1) is a class A G protein-coup
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">IGRARGFS</span><span class="topo-inside">ELDQLRQEAEQLKNQIRDARKACADATLSQITNNIDPVGRIQMRTRRTLRGH</span></span>
-<span class="topo-line"><span class="topo-inside">LAKIYAMHWGTDSRLLVSASQDGKLIIWDSYTTNKVHAIPLRSSWVMTCAYAPSGNYVAC</span></span>
-<span class="topo-line"><span class="topo-inside">GGLDNICSIYNLKTREGNVRVSRELAGHTGYLSCCRFLDDNQIVTSSGDTTCALWDIETG</span></span>
-<span class="topo-line"><span class="topo-inside">QQTTTFTGHTGDVMSLSLAPDTRLFVSGACDASAKLWDVREGMCRQTFTGHESDINAICF</span></span>
-<span class="topo-line"><span class="topo-inside">FPNGNAFATGSDDATCRLFDLRADQELMTYSHDNIICGITSVSFSKSGRLLLAGYDDFNC</span></span>
-<span class="topo-line"><span class="topo-inside">NVWDALKADRAGVLAGHDNRVSCLGVTDDGMAVATGSWDSFLKIWN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">IGRARGFS</span><span class="topo-inside">ELDQLRQEAEQLKNQIRDARKACADATLSQITNNIDPVGRIQMRTRRTLRGHLAKIYAMHWGTDSRLLVSASQDGKLIIWDSYTTNKVHAIPLRSSWVMTCAYAPSGNYVAC</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">GGLDNICSIYNLKTREGNVRVSRELAGHTGYLSCCRFLDDNQIVTSSGDTTCALWDIETGQQTTTFTGHTGDVMSLSLAPDTRLFVSGACDASAKLWDVREGMCRQTFTGHESDINAICF</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340      </span>
+<span class="topo-line"><span class="topo-inside">FPNGNAFATGSDDATCRLFDLRADQELMTYSHDNIICGITSVSFSKSGRLLLAGYDDFNCNVWDALKADRAGVLAGHDNRVSCLGVTDDGMAVATGSWDSFLKIWN</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -416,6 +399,7 @@ Cannabinoid receptor 1 (CNR1, commonly known as CB1) is a class A G protein-coup
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -431,8 +415,9 @@ Cannabinoid receptor 1 (CNR1, commonly known as CB1) is a class A G protein-coup
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MASNNTA</span><span class="topo-inside">SIAQARKLVEQLKMEANIDRIKVSKAAADLMAYCEAHAKEDPLLTPVPASENP</span></span>
-<span class="topo-line"><span class="topo-inside">FRE</span><span class="topo-unknown">KKFFCAIL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70 </span>
+<span class="topo-line"><span class="topo-unknown">MASNNTA</span><span class="topo-inside">SIAQARKLVEQLKMEANIDRIKVSKAAADLMAYCEAHAKEDPLLTPVPASENPFRE</span><span class="topo-unknown">KKFFCAIL</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -451,6 +436,7 @@ Cannabinoid receptor 1 (CNR1, commonly known as CB1) is a class A G protein-coup
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -466,14 +452,15 @@ Cannabinoid receptor 1 (CNR1, commonly known as CB1) is a class A G protein-coup
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">ADLEDNWETLNDNLKVIEKADNAAQVKDALTKMRAAALDAQKATPPKLEDKSPDSPEMKD</span></span>
-<span class="topo-line"><span class="topo-unknown">FRHGFDILVGQIDDALKLANEGKVKEAQAAAEQLKTTRNAYIQKYLLEVLFQGPVPADQV</span></span>
-<span class="topo-line"><span class="topo-unknown">NITEFYNKSLSSFKENEENIQCGENFMDI</span><span class="topo-outside">ECFMVLNPS</span><span class="topo-membrane">QQLAIAVLSLTLGTFTVLENLL</span></span>
-<span class="topo-line"><span class="topo-membrane">VLC</span><span class="topo-inside">VILHSRSLRCRPSYH</span><span class="topo-membrane">FIGSLAVADLLGSVIFVYSFIDFHV</span><span class="topo-outside">FHRKDSRN</span><span class="topo-membrane">VFLFKLGGV</span></span>
-<span class="topo-line"><span class="topo-membrane">TASFTASVGSLFLTAI</span><span class="topo-inside">DRYISIHRPLAYKRIVTRPKAV</span><span class="topo-membrane">VAFCLMWTIAIVIAVLPLLGW</span><span class="topo-outside">N</span></span>
-<span class="topo-line"><span class="topo-outside">CEKLQSVCSDIFPHI</span><span class="topo-membrane">DKTYLMFWIGVVSVLLLFIVYAYM</span><span class="topo-inside">YILWKAHSHAVRMIQRGT</span><span class="topo-unknown">QKS</span></span>
-<span class="topo-line"><span class="topo-unknown">IIIHTSEDGKVQVTRPDQ</span><span class="topo-inside">ARMDIELAKTLV</span><span class="topo-membrane">LILVVLIICWGPLLAIMVYDVF</span><span class="topo-outside">GKMNKLI</span><span class="topo-membrane">K</span></span>
-<span class="topo-line"><span class="topo-membrane">TVFAFCSMLCLLNSTVNPIIY</span><span class="topo-inside">ALRS</span><span class="topo-unknown">KDLRHAFRS</span><span class="topo-inside">M</span><span class="topo-unknown">FPSCEGTAQPLDNS</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">ADLEDNWETLNDNLKVIEKADNAAQVKDALTKMRAAALDAQKATPPKLEDKSPDSPEMKDFRHGFDILVGQIDDALKLANEGKVKEAQAAAEQLKTTRNAYIQKYLLEVLFQGPVPADQV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-unknown">NITEFYNKSLSSFKENEENIQCGENFMDI</span><span class="topo-outside">ECFMVLNPS</span><span class="topo-membrane">QQLAIAVLSLTLGTFTVLENLLVLC</span><span class="topo-inside">VILHSRSLRCRPSYH</span><span class="topo-membrane">FIGSLAVADLLGSVIFVYSFIDFHV</span><span class="topo-outside">FHRKDSRN</span><span class="topo-membrane">VFLFKLGGV</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">TASFTASVGSLFLTAI</span><span class="topo-inside">DRYISIHRPLAYKRIVTRPKAV</span><span class="topo-membrane">VAFCLMWTIAIVIAVLPLLGW</span><span class="topo-outside">NCEKLQSVCSDIFPHI</span><span class="topo-membrane">DKTYLMFWIGVVSVLLLFIVYAYM</span><span class="topo-inside">YILWKAHSHAVRMIQRGT</span><span class="topo-unknown">QKS</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460         </span>
+<span class="topo-line"><span class="topo-unknown">IIIHTSEDGKVQVTRPDQ</span><span class="topo-inside">ARMDIELAKTLV</span><span class="topo-membrane">LILVVLIICWGPLLAIMVYDVF</span><span class="topo-outside">GKMNKLI</span><span class="topo-membrane">KTVFAFCSMLCLLNSTVNPIIY</span><span class="topo-inside">ALRS</span><span class="topo-unknown">KDLRHAFRS</span><span class="topo-inside">M</span><span class="topo-unknown">FPSCEGTAQPLDNS</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -611,6 +598,7 @@ Cannabinoid receptor 1 (CNR1, commonly known as CB1) is a class A G protein-coup
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -626,11 +614,13 @@ Cannabinoid receptor 1 (CNR1, commonly known as CB1) is a class A G protein-coup
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">D</span><span class="topo-inside">VQLVESGGGLVQPGGSRKLSCSASGFAFSSFGMHWVRQAPEKGLEWVAYISSGSGTIYY</span></span>
-<span class="topo-line"><span class="topo-inside">ADTVKGRFTISRDDPKNTLFLQMTSLRSEDTAMYYCVRSIYYYGSSPFDFWGQGTTLTVS</span></span>
-<span class="topo-line"><span class="topo-unknown">SGGGGSGGGGSGGGGS</span><span class="topo-inside">DIVMTQATSSVPVTPGESVSISCRSSKSLLHSNGNTYLYWFLQR</span></span>
-<span class="topo-line"><span class="topo-inside">PGQSPQLLIYRMSNLASGVPDRFSGSGSGTAFTLTISRLSAEDVGVYYCMQHLEYPLTFG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">D</span><span class="topo-inside">VQLVESGGGLVQPGGSRKLSCSASGFAFSSFGMHWVRQAPEKGLEWVAYISSGSGTIYYADTVKGRFTISRDDPKNTLFLQMTSLRSEDTAMYYCVRSIYYYGSSPFDFWGQGTTLTVS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-unknown">SGGGGSGGGGSGGGGS</span><span class="topo-inside">DIVMTQATSSVPVTPGESVSISCRSSKSLLHSNGNTYLYWFLQRPGQSPQLLIYRMSNLASGVPDRFSGSGSGTAFTLTISRLSAEDVGVYYCMQHLEYPLTFG</span></span>
+<span class="topo-ruler">       250         </span>
 <span class="topo-line"><span class="topo-inside">AGTKLEL</span><span class="topo-unknown">KAAAHHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -663,6 +653,7 @@ Cannabinoid receptor 1 (CNR1, commonly known as CB1) is a class A G protein-coup
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -865,7 +856,6 @@ Cannabinoid receptor 1 (CNR1, commonly known as CB1) is a class A G protein-coup
 **Final sample**: Purified CB1-[Flavodoxin](/xray-mp-wiki/reagents/protein-tags/flavodoxin/) in 20 mM [HEPES](/xray-mp-wiki/reagents/buffers/hepes/) pH 7.5, 150 mM [NaCl](/xray-mp-wiki/reagents/additives/sodium-chloride/), 0.05% [LMNG](/xray-mp-wiki/reagents/detergents/lmng/), 0.005% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 1 uM [AM6538](/xray-mp-wiki/reagents/ligands/am6538/)
 **Purity**: Monodisperse by analytical [SEC](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/); SDS-PAGE verified
 
-<<<<<<< HEAD
 **Crystallization:**
 
 <table class="wiki-kv-table">
@@ -902,17 +892,6 @@ Cannabinoid receptor 1 (CNR1, commonly known as CB1) is a class A G protein-coup
 </table>
 <div class="sequences" markdown="1">
 **Sequences (PDBTM):**
-=======
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Membrane solubilization | Detergent solubilization |  | 50 mM HEPES pH 7.5, 500 mM NaCl, 10% glycerol, protease inhibitors + 1% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.2% sodium cholate, 0.2% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 10 uM AM6538 | Membranes solubilized for 1 hr at 4C; ultracentrifugation at 100,000g |
-| TALON IMAC affinity chromatography | Immobilized metal [affinity chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | [TALON](/xray-mp-wiki/reagents/additives/talon/) IMAC resin | 50 mM HEPES pH 7.5, 500 mM NaCl, 0.05% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.01% sodium cholate, 0.01% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 10% glycerol, 50 mM imidazole + 0.05% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.01% sodium cholate, 0.01% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | Batch incubation for 3 hr at 4C; washed with 15 column volumes; eluted with 200 mM imidazole and 2 mM calcium |
-| Anti-Flag M1 affinity chromatography | Anti-[FLAG](/xray-mp-wiki/reagents/protein-tags/flag-tag/) M1 [affinity chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | Anti-[FLAG](/xray-mp-wiki/reagents/protein-tags/flag-tag/) M1 affinity resin | 0.05% [LMNG](/xray-mp-wiki/reagents/detergents/lmng/) (detergent exchanged from [DDM](/xray-mp-wiki/reagents/detergents/ddm/) on M1 resin) + 0.05% [LMNG](/xray-mp-wiki/reagents/detergents/lmng/) | Detergent exchanged from 0.05% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) to 0.05% [LMNG](/xray-mp-wiki/reagents/detergents/lmng/) on resin |
-| SEC | [SEC](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) | [Superdex 200](/xray-mp-wiki/reagents/additives/superdex-200/) | 20 mM HEPES pH 7.5, 150 mM NaCl, 0.05% [LMNG](/xray-mp-wiki/reagents/detergents/lmng/), 0.005% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 1 uM AM6538 + 0.05% [LMNG](/xray-mp-wiki/reagents/detergents/lmng/), 0.005% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | Final polishing step; concentrated to ~50 mg/mL for [LCP](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) crystallization |
-
-**Final sample**: Purified CB1-Flavodoxin in 20 mM HEPES pH 7.5, 150 mM NaCl, 0.05% [LMNG](/xray-mp-wiki/reagents/detergents/lmng/), 0.005% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 1 uM AM6538
-**Purity**: Monodisperse by analytical [SEC](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/); SDS-PAGE verified
->>>>>>> d0e2c437136bdf2885afc6a99e0a9d4117821696
 
 <div class="sequence-entry" markdown="1">
 **PDB <a class="pdb-link" href="https://www.rcsb.org/structure/5tgz">5TGZ</a> — Chain A (7 TMs, alpha)**
@@ -925,14 +904,15 @@ Cannabinoid receptor 1 (CNR1, commonly known as CB1) is a class A G protein-coup
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">G</span><span class="topo-outside">GGRGENFMDIECFMVLNPSQQLA</span><span class="topo-membrane">IAVLSLTLGTFTVLENLLVLCVILH</span><span class="topo-inside">SRSLRCRPSY</span><span class="topo-membrane">H</span></span>
-<span class="topo-line"><span class="topo-membrane">FIGSLAVADLLGSVIFVYSFID</span><span class="topo-outside">FHVFHRKDSRN</span><span class="topo-membrane">VFLFKLGGVTASFTASVGSLFLAAI</span><span class="topo-inside">DR</span></span>
-<span class="topo-line"><span class="topo-inside">YISIHRPLAYKRIVTRPKAV</span><span class="topo-membrane">VAFCLMWTIAIVIAVLPLLGWN</span><span class="topo-outside">CEKLQSVCSDIFPH</span><span class="topo-membrane">IDKT</span></span>
-<span class="topo-line"><span class="topo-membrane">YLMFWIGVVSVLLLFIVYAYM</span><span class="topo-inside">YILWKAHSHAVAKALIVYGSTTGNTEYTAETIARELADA</span></span>
-<span class="topo-line"><span class="topo-inside">GYEVDSRDAASVEAGGLFEGFDLVLLGCSTWGDDSIELQDDFIPLFDSLEETGAQGRKVA</span></span>
-<span class="topo-line"><span class="topo-inside">CFGCGDSSWEYFCGAVDAIEEKLKNLGAEIVQDGLRIDGDPRAARDDIVGWAHDVRGAIP</span></span>
-<span class="topo-line"><span class="topo-inside">DQARMDIELAK</span><span class="topo-membrane">TLVLILVVLIICWGPLLAIMVYDVFG</span><span class="topo-outside">KMNKLIKTV</span><span class="topo-membrane">FAFCSMLCLLNSTV</span></span>
-<span class="topo-line"><span class="topo-membrane">NPIIYALRS</span><span class="topo-inside">KDLRHAFRSMF</span><span class="topo-unknown">PSHHHHHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">G</span><span class="topo-outside">GGRGENFMDIECFMVLNPSQQLA</span><span class="topo-membrane">IAVLSLTLGTFTVLENLLVLCVILH</span><span class="topo-inside">SRSLRCRPSY</span><span class="topo-membrane">HFIGSLAVADLLGSVIFVYSFID</span><span class="topo-outside">FHVFHRKDSRN</span><span class="topo-membrane">VFLFKLGGVTASFTASVGSLFLAAI</span><span class="topo-inside">DR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">YISIHRPLAYKRIVTRPKAV</span><span class="topo-membrane">VAFCLMWTIAIVIAVLPLLGWN</span><span class="topo-outside">CEKLQSVCSDIFPH</span><span class="topo-membrane">IDKTYLMFWIGVVSVLLLFIVYAYM</span><span class="topo-inside">YILWKAHSHAVAKALIVYGSTTGNTEYTAETIARELADA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">GYEVDSRDAASVEAGGLFEGFDLVLLGCSTWGDDSIELQDDFIPLFDSLEETGAQGRKVACFGCGDSSWEYFCGAVDAIEEKLKNLGAEIVQDGLRIDGDPRAARDDIVGWAHDVRGAIP</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450  </span>
+<span class="topo-line"><span class="topo-inside">DQARMDIELAK</span><span class="topo-membrane">TLVLILVVLIICWGPLLAIMVYDVFG</span><span class="topo-outside">KMNKLIKTV</span><span class="topo-membrane">FAFCSMLCLLNSTVNPIIYALRS</span><span class="topo-inside">KDLRHAFRSMF</span><span class="topo-unknown">PSHHHHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (20 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1084,6 +1064,7 @@ Cannabinoid receptor 1 (CNR1, commonly known as CB1) is a class A G protein-coup
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1096,7 +1077,6 @@ Cannabinoid receptor 1 (CNR1, commonly known as CB1) is a class A G protein-coup
 
 **Structures:**
 
-<<<<<<< HEAD
 <table class="wiki-table">
   <thead><tr>
     <th>PDB ID</th>
@@ -1115,39 +1095,16 @@ Cannabinoid receptor 1 (CNR1, commonly known as CB1) is a class A G protein-coup
     </tr>
   </tbody>
 </table>
-=======
-| Parameter | Value |
-|---|---|
-| Method | [LCP](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) ([LCP](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/)) crystallization |
-| Protein sample | CB1(T210A)-PGS at 15 mg/mL with 1 uM [Taranabant](/xray-mp-wiki/reagents/ligands/taranabant) |
-| Lipid | [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein) |
-| Protein-to-lipid ratio | 2:1 (protein:lipid) |
-| Temperature | 20 C |
-| Notes | [LCP](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) microcrystals diffracted to 2.6 A resolution; 42 crystals merged into single dataset; molecular replacement solved structure; Rwork/Rfree = 0.19/0.23 |
->>>>>>> d0e2c437136bdf2885afc6a99e0a9d4117821696
 
 **Expression:**
 
-<<<<<<< HEAD
 - **Expression system**: [Sf9 Insect Cells](/xray-mp-wiki/expression-systems/sf9-expression-system/) ([Bac-to-Bac](/xray-mp-wiki/methods/expression/bac-to-bac-system/) [Baculovirus Expression System](/xray-mp-wiki/methods/expression/baculovirus-expression-system/))
 - **Construct**: CB1 expressed in central nervous system and peripheral tissues; structural studies use recombinant expression in insect cells
 - **Notes**: CB1-Gi-[SCFV16](/xray-mp-wiki/reagents/antibodies/scfv16) complex constituted in vitro from purified CB1, Gi heterotrimer, and [scFv16](/xray-mp-wiki/reagents/antibodies/scfv16/) antibody fragment; CB1(T210A)-[PGS](/xray-mp-wiki/reagents/protein-tags/pgs/) construct expressed via [Bac-to-Bac](/xray-mp-wiki/methods/expression/bac-to-bac-system/) system in [Sf9](/xray-mp-wiki/expression-systems/sf9-expression-system/) cells; CB1-[Flavodoxin](/xray-mp-wiki/reagents/protein-tags/flavodoxin/) construct expressed in HEK293T cells using PEI transfection
-=======
-| Parameter | Value |
-|---|---|
-| Method | [LCP](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) ([LCP](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/)) crystallization |
-| Protein sample | Purified CB1-Flavodoxin at ~35 mg/mL with 20 uM AM11542 or AM841 |
-| Lipid | [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein) (90% w/w) + [Cholesterol](/xray-mp-wiki/reagents/lipids/cholesterol) (10% w/w) |
-| Protein-to-lipid ratio | 2:3 (protein:lipid) |
-| Temperature | 20 C |
-| Growth time | 1 wk |
-| Notes | AM11542 crystals grew to full size in 1 week. AM841 crystals appeared after 2 days, full size after 1 week. 16 crystals (AM11542) and 10 crystals (AM841) merged for final datasets. Data collected at APS GM/CA-CAT 23ID-B and SLS X06SA. |
->>>>>>> d0e2c437136bdf2885afc6a99e0a9d4117821696
 
 <div class="sequences" markdown="1">
 **Sequences (PDBTM):**
 
-<<<<<<< HEAD
 <div class="sequence-entry" markdown="1">
 **PDB <a class="pdb-link" href="https://www.rcsb.org/structure/6kqi">6KQI</a> — Chain A (7 TMs, alpha)**
 
@@ -1159,15 +1116,17 @@ Cannabinoid receptor 1 (CNR1, commonly known as CB1) is a class A G protein-coup
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GENIQCGE</span><span class="topo-inside">NFMDIECFMVLNPSQQLA</span><span class="topo-membrane">IAVLSLTLGTFTVLENLLVLCVIL</span><span class="topo-outside">HSRSLRCRPS</span></span>
-<span class="topo-line"><span class="topo-outside">Y</span><span class="topo-membrane">HFIGSLAVADLLGSVIFVYSFID</span><span class="topo-inside">FHVFHRKDSRN</span><span class="topo-membrane">VFLFKLGGVTASFTAKVGSLFLAAI</span></span>
-<span class="topo-line"><span class="topo-membrane">DRY</span><span class="topo-outside">ISIHRPLAYKRIVTRPK</span><span class="topo-membrane">AVVAFCLMWTIAIVIAVLPLLGWN</span><span class="topo-inside">CEKLQSVCSDIFPHID</span></span>
-<span class="topo-line"><span class="topo-inside">K</span><span class="topo-membrane">TYLMFWIGVVSVLLLFIVYAYMYILW</span><span class="topo-outside">KAGI</span><span class="topo-unknown">DCSFW</span><span class="topo-outside">NESYLTGSRDERKKSLLSKFGMDE</span></span>
-<span class="topo-line"><span class="topo-outside">GVTFMFIGRFDRGQKGVDVLLKAIEILSSKKEFQEMRFIIIGKGDPELEGWARSLEEKHG</span></span>
-<span class="topo-line"><span class="topo-outside">NVKVITEMLSREFVRELYGSVDFVIIPSYFEPFGLVALEAMCLGAIPIASAVGGLRDIIT</span></span>
-<span class="topo-line"><span class="topo-outside">NETGILVKAGDPGELANAILKALELSRSDLSKFRENCKKRAMSFSDQARMDIEL</span><span class="topo-membrane">AKTLVL</span></span>
-<span class="topo-line"><span class="topo-membrane">ILVVLIICWGPLLAIMVY</span><span class="topo-inside">DVFGKMNKLIKTVF</span><span class="topo-membrane">AFCSMLCLLNSTVNPIIYALRS</span><span class="topo-unknown">KDLRHA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GENIQCGE</span><span class="topo-inside">NFMDIECFMVLNPSQQLA</span><span class="topo-membrane">IAVLSLTLGTFTVLENLLVLCVIL</span><span class="topo-outside">HSRSLRCRPSY</span><span class="topo-membrane">HFIGSLAVADLLGSVIFVYSFID</span><span class="topo-inside">FHVFHRKDSRN</span><span class="topo-membrane">VFLFKLGGVTASFTAKVGSLFLAAI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">DRY</span><span class="topo-outside">ISIHRPLAYKRIVTRPK</span><span class="topo-membrane">AVVAFCLMWTIAIVIAVLPLLGWN</span><span class="topo-inside">CEKLQSVCSDIFPHIDK</span><span class="topo-membrane">TYLMFWIGVVSVLLLFIVYAYMYILW</span><span class="topo-outside">KAGI</span><span class="topo-unknown">DCSFW</span><span class="topo-outside">NESYLTGSRDERKKSLLSKFGMDE</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">GVTFMFIGRFDRGQKGVDVLLKAIEILSSKKEFQEMRFIIIGKGDPELEGWARSLEEKHGNVKVITEMLSREFVRELYGSVDFVIIPSYFEPFGLVALEAMCLGAIPIASAVGGLRDIIT</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">NETGILVKAGDPGELANAILKALELSRSDLSKFRENCKKRAMSFSDQARMDIEL</span><span class="topo-membrane">AKTLVLILVVLIICWGPLLAIMVY</span><span class="topo-inside">DVFGKMNKLIKTVF</span><span class="topo-membrane">AFCSMLCLLNSTVNPIIYALRS</span><span class="topo-unknown">KDLRHA</span></span>
+<span class="topo-ruler">       490  </span>
 <span class="topo-line"><span class="topo-unknown">FRSM</span><span class="topo-outside">FP</span><span class="topo-unknown">ENLYFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1312,6 +1271,7 @@ Cannabinoid receptor 1 (CNR1, commonly known as CB1) is a class A G protein-coup
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1370,16 +1330,17 @@ Cannabinoid receptor 1 (CNR1, commonly known as CB1) is a class A G protein-coup
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MKTIIALSYIFCLVFADYKDDDDAMDQVNITEFYNKSLSSFENLYFQGKENEENI</span><span class="topo-inside">QCGEN</span></span>
-<span class="topo-line"><span class="topo-inside">FMDIECFMVLNPSQQLA</span><span class="topo-membrane">IAVLSLTLGTFTVLENLLVLCVILHS</span><span class="topo-outside">RSLRCRP</span><span class="topo-membrane">SYHFIGSLAV</span></span>
-<span class="topo-line"><span class="topo-membrane">ADLLGSVIFVYSFI</span><span class="topo-inside">DFHVFHRKDSRNVFL</span><span class="topo-membrane">FKLGGVTASFTAKVGSLFLAAIDRY</span><span class="topo-outside">ISIHRP</span></span>
-<span class="topo-line"><span class="topo-outside">LAYKRIVTRP</span><span class="topo-membrane">KAVVAFCLMWTIAIVIAVLPLL</span><span class="topo-inside">GWNCEKLQSVCSDIFPHIDKT</span><span class="topo-membrane">YLMFWIG</span></span>
-<span class="topo-line"><span class="topo-membrane">VVSVLLLFIVYAYMYILW</span><span class="topo-outside">KAHSHAGIDCSFWNESYLTGSRDERKKSLLSKFGMDEGVTFM</span></span>
-<span class="topo-line"><span class="topo-outside">FIGRFDRGQKGVDVLLKAIEILSSKKEFQEMRFIIIGKGDPELEGWARSLEEKHGNVKVI</span></span>
-<span class="topo-line"><span class="topo-outside">TEMLSREFVRELYGSVDFVIIPSYFEPFGLVALEAMCLGAIPIASAVGGLRDIITNETGI</span></span>
-<span class="topo-line"><span class="topo-outside">LVKAGDPGELANAILKALELSRSDLSKFRENCKKRAMSFSDQARMDIEL</span><span class="topo-membrane">AKTLVLILVVL</span></span>
-<span class="topo-line"><span class="topo-membrane">IICWGPLLAIMVY</span><span class="topo-inside">DVFGKMNKLIKTV</span><span class="topo-membrane">FAFCSMLCLLNSTVDPIIYALRS</span><span class="topo-outside">KDLRHAFRSMF</span></span>
-<span class="topo-line"><span class="topo-outside">P</span><span class="topo-unknown">SENLYFQGHHHHHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MKTIIALSYIFCLVFADYKDDDDAMDQVNITEFYNKSLSSFENLYFQGKENEENI</span><span class="topo-inside">QCGENFMDIECFMVLNPSQQLA</span><span class="topo-membrane">IAVLSLTLGTFTVLENLLVLCVILHS</span><span class="topo-outside">RSLRCRP</span><span class="topo-membrane">SYHFIGSLAV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">ADLLGSVIFVYSFI</span><span class="topo-inside">DFHVFHRKDSRNVFL</span><span class="topo-membrane">FKLGGVTASFTAKVGSLFLAAIDRY</span><span class="topo-outside">ISIHRPLAYKRIVTRP</span><span class="topo-membrane">KAVVAFCLMWTIAIVIAVLPLL</span><span class="topo-inside">GWNCEKLQSVCSDIFPHIDKT</span><span class="topo-membrane">YLMFWIG</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">VVSVLLLFIVYAYMYILW</span><span class="topo-outside">KAHSHAGIDCSFWNESYLTGSRDERKKSLLSKFGMDEGVTFMFIGRFDRGQKGVDVLLKAIEILSSKKEFQEMRFIIIGKGDPELEGWARSLEEKHGNVKVI</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">TEMLSREFVRELYGSVDFVIIPSYFEPFGLVALEAMCLGAIPIASAVGGLRDIITNETGILVKAGDPGELANAILKALELSRSDLSKFRENCKKRAMSFSDQARMDIEL</span><span class="topo-membrane">AKTLVLILVVL</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550         </span>
+<span class="topo-line"><span class="topo-membrane">IICWGPLLAIMVY</span><span class="topo-inside">DVFGKMNKLIKTV</span><span class="topo-membrane">FAFCSMLCLLNSTVDPIIYALRS</span><span class="topo-outside">KDLRHAFRSMFP</span><span class="topo-unknown">SENLYFQGHHHHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1510,6 +1471,7 @@ Cannabinoid receptor 1 (CNR1, commonly known as CB1) is a class A G protein-coup
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1525,12 +1487,13 @@ Cannabinoid receptor 1 (CNR1, commonly known as CB1) is a class A G protein-coup
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGC</span><span class="topo-outside">TVSAEDKAAAERSKMIDKNLREDGEKAAREVKLLLLGAGESGKNTIVKQMK</span><span class="topo-unknown">IIHEDG</span></span>
-<span class="topo-line"><span class="topo-unknown">YSEEECRQYRAVVYSNTIQSIMAIVKAMGNLQIDFADPSRADDARQLFALSCTAEEQGVL</span></span>
-<span class="topo-line"><span class="topo-unknown">PDDLSGVIRRLWADHGVQACFGRSREYQLNDSAAYYLNDLERIAQSDYIPTQQDVLRTRV</span></span>
-<span class="topo-line"><span class="topo-unknown">KT</span><span class="topo-outside">TGIVETHFTFKDLHFKMFDVGAQRSERKKWIHCFEGVTAIIFCVALSAYDLVLAEDEE</span></span>
-<span class="topo-line"><span class="topo-outside">MNRMHASMKLFDSICNNKWFTDTSIILFLNKKDLFEEKITHSPLTICFPEYTGANKYDEA</span></span>
-<span class="topo-line"><span class="topo-outside">ASYIQSKFEDLNKRKDTKEIYTHFTCSTDTKNVQFVFDAVTDVIIKNNLKDCGLF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGC</span><span class="topo-outside">TVSAEDKAAAERSKMIDKNLREDGEKAAREVKLLLLGAGESGKNTIVKQMK</span><span class="topo-unknown">IIHEDGYSEEECRQYRAVVYSNTIQSIMAIVKAMGNLQIDFADPSRADDARQLFALSCTAEEQGVL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-unknown">PDDLSGVIRRLWADHGVQACFGRSREYQLNDSAAYYLNDLERIAQSDYIPTQQDVLRTRVKT</span><span class="topo-outside">TGIVETHFTFKDLHFKMFDVGAQRSERKKWIHCFEGVTAIIFCVALSAYDLVLAEDEE</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350     </span>
+<span class="topo-line"><span class="topo-outside">MNRMHASMKLFDSICNNKWFTDTSIILFLNKKDLFEEKITHSPLTICFPEYTGANKYDEAASYIQSKFEDLNKRKDTKEIYTHFTCSTDTKNVQFVFDAVTDVIIKNNLKDCGLF</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1570,6 +1533,7 @@ Cannabinoid receptor 1 (CNR1, commonly known as CB1) is a class A G protein-coup
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1585,12 +1549,13 @@ Cannabinoid receptor 1 (CNR1, commonly known as CB1) is a class A G protein-coup
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MHHHHHHHENLYFQGGSLLQS</span><span class="topo-outside">ELDQLRQEAEQLKNQIRDARKACADATLSQITNNIDPVG</span></span>
-<span class="topo-line"><span class="topo-outside">RIQMRTRRTLRGHLAKIYAMHWGTDSRLLVSASQDGKLIIWDSYTTNKVHAIPLRSSWVM</span></span>
-<span class="topo-line"><span class="topo-outside">TCAYAPSGNYVACGGLDNICSIYNLKTREGNVRVSRELAGHTGYLSCCRFLDDNQIVTSS</span></span>
-<span class="topo-line"><span class="topo-outside">GDTTCALWDIETGQQTTTFTGHTGDVMSLSLAPDTRLFVSGACDASAKLWDVREGMCRQT</span></span>
-<span class="topo-line"><span class="topo-outside">FTGHESDINAICFFPNGNAFATGSDDATCRLFDLRADQELMTYSHDNIICGITSVSFSKS</span></span>
-<span class="topo-line"><span class="topo-outside">GRLLLAGYDDFNCNVWDALKADRAGVLAGHDNRVSCLGVTDDGMAVATGSWDSFLKIWN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MHHHHHHHENLYFQGGSLLQS</span><span class="topo-outside">ELDQLRQEAEQLKNQIRDARKACADATLSQITNNIDPVGRIQMRTRRTLRGHLAKIYAMHWGTDSRLLVSASQDGKLIIWDSYTTNKVHAIPLRSSWVM</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">TCAYAPSGNYVACGGLDNICSIYNLKTREGNVRVSRELAGHTGYLSCCRFLDDNQIVTSSGDTTCALWDIETGQQTTTFTGHTGDVMSLSLAPDTRLFVSGACDASAKLWDVREGMCRQT</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350         </span>
+<span class="topo-line"><span class="topo-outside">FTGHESDINAICFFPNGNAFATGSDDATCRLFDLRADQELMTYSHDNIICGITSVSFSKSGRLLLAGYDDFNCNVWDALKADRAGVLAGHDNRVSCLGVTDDGMAVATGSWDSFLKIWN</span></span>
+<details class="topo-details"><summary>Topology coordinates (2 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1616,6 +1581,7 @@ Cannabinoid receptor 1 (CNR1, commonly known as CB1) is a class A G protein-coup
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1631,8 +1597,9 @@ Cannabinoid receptor 1 (CNR1, commonly known as CB1) is a class A G protein-coup
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MASNNT</span><span class="topo-outside">ASIAQARKLVEQLKMEANIDRIKVSKAAADLMAYCEAHAKEDPLLTPVPASENP</span></span>
-<span class="topo-line"><span class="topo-outside">FRE</span><span class="topo-unknown">KKFFCAIL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70 </span>
+<span class="topo-line"><span class="topo-unknown">MASNNT</span><span class="topo-outside">ASIAQARKLVEQLKMEANIDRIKVSKAAADLMAYCEAHAKEDPLLTPVPASENPFRE</span><span class="topo-unknown">KKFFCAIL</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1665,6 +1632,7 @@ Cannabinoid receptor 1 (CNR1, commonly known as CB1) is a class A G protein-coup
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1680,14 +1648,15 @@ Cannabinoid receptor 1 (CNR1, commonly known as CB1) is a class A G protein-coup
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MKSILDGLADTTFRTITTDLLYVGSNDIQYEDIKGDMASKLGYFPQKFPLTSFRGSPFQE</span></span>
-<span class="topo-line"><span class="topo-unknown">KMTAGDNPQLVPADQVNITEFYNKSLSSFKENEENIQCGENFMDI</span><span class="topo-inside">ECFMVLNPSQQL</span><span class="topo-membrane">AIA</span></span>
-<span class="topo-line"><span class="topo-membrane">VLSLTLGTFTVLENLLVLCVILH</span><span class="topo-outside">SRSLRCRPS</span><span class="topo-membrane">YHFIGSLAVADLLGSVIFVYSFID</span><span class="topo-inside">FHVF</span></span>
-<span class="topo-line"><span class="topo-inside">HRKDSRNV</span><span class="topo-membrane">FLFKLGGVTASFTASVGSLFLTAID</span><span class="topo-outside">RYISIHRPLAYKRIVTRPK</span><span class="topo-membrane">AVVAFCLM</span></span>
-<span class="topo-line"><span class="topo-membrane">WTIAIVIAVLPLLGW</span><span class="topo-inside">NCEKLQSVCSDIFPHI</span><span class="topo-membrane">DETYLMFWIGVTSVLLLFIVYAYMY</span><span class="topo-outside">ILWK</span></span>
-<span class="topo-line"><span class="topo-outside">AHSHAVRMIQRGTQK</span><span class="topo-unknown">SIIIHTSEDGKVQVTR</span><span class="topo-outside">PDQARMDIRLA</span><span class="topo-membrane">KTLVLILVVLIICWGPLL</span></span>
-<span class="topo-line"><span class="topo-membrane">AIMVYDV</span><span class="topo-inside">FGKMNKLIKTV</span><span class="topo-membrane">FAFCSMLCLLNSTVNPIIYALR</span><span class="topo-outside">SKDLRHAFRSM</span><span class="topo-unknown">FPSCEGTAQ</span></span>
-<span class="topo-line"><span class="topo-unknown">PLDNSMGDSDCLHKHANNAASVHRAAESCIKSTVKIAKVTMSVSTDTSAEAL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MKSILDGLADTTFRTITTDLLYVGSNDIQYEDIKGDMASKLGYFPQKFPLTSFRGSPFQEKMTAGDNPQLVPADQVNITEFYNKSLSSFKENEENIQCGENFMDI</span><span class="topo-inside">ECFMVLNPSQQL</span><span class="topo-membrane">AIA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">VLSLTLGTFTVLENLLVLCVILH</span><span class="topo-outside">SRSLRCRPS</span><span class="topo-membrane">YHFIGSLAVADLLGSVIFVYSFID</span><span class="topo-inside">FHVFHRKDSRNV</span><span class="topo-membrane">FLFKLGGVTASFTASVGSLFLTAID</span><span class="topo-outside">RYISIHRPLAYKRIVTRPK</span><span class="topo-membrane">AVVAFCLM</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">WTIAIVIAVLPLLGW</span><span class="topo-inside">NCEKLQSVCSDIFPHI</span><span class="topo-membrane">DETYLMFWIGVTSVLLLFIVYAYMY</span><span class="topo-outside">ILWKAHSHAVRMIQRGTQK</span><span class="topo-unknown">SIIIHTSEDGKVQVTR</span><span class="topo-outside">PDQARMDIRLA</span><span class="topo-membrane">KTLVLILVVLIICWGPLL</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470  </span>
+<span class="topo-line"><span class="topo-membrane">AIMVYDV</span><span class="topo-inside">FGKMNKLIKTV</span><span class="topo-membrane">FAFCSMLCLLNSTVNPIIYALR</span><span class="topo-outside">SKDLRHAFRSM</span><span class="topo-unknown">FPSCEGTAQPLDNSMGDSDCLHKHANNAASVHRAAESCIKSTVKIAKVTMSVSTDTSAEAL</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1832,6 +1801,7 @@ Cannabinoid receptor 1 (CNR1, commonly known as CB1) is a class A G protein-coup
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1847,11 +1817,13 @@ Cannabinoid receptor 1 (CNR1, commonly known as CB1) is a class A G protein-coup
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">D</span><span class="topo-outside">VQLVESGGGLVQPGGSRKLSCSASGFAFSSFGMHWVRQAPEKGLEWVAYISSGSGTIYY</span></span>
-<span class="topo-line"><span class="topo-outside">ADTVKGRFTISRDDPKNTLFLQMTSLRSEDTAMYYCVRSIYYYGSSPFDFWGQGTTLTVS</span></span>
-<span class="topo-line"><span class="topo-outside">S</span><span class="topo-unknown">GGGGSGGGGSGGGG</span><span class="topo-outside">SDIVMTQATSSVPVTPGESVSISCRSSKSLLHSNGNTYLYWFLQR</span></span>
-<span class="topo-line"><span class="topo-outside">PGQSPQLLIYRMSNLASGVPDRFSGSGSGTAFTLTISRLEAEDVGVYYCMQHLEYPLTFG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">D</span><span class="topo-outside">VQLVESGGGLVQPGGSRKLSCSASGFAFSSFGMHWVRQAPEKGLEWVAYISSGSGTIYYADTVKGRFTISRDDPKNTLFLQMTSLRSEDTAMYYCVRSIYYYGSSPFDFWGQGTTLTVS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">S</span><span class="topo-unknown">GGGGSGGGGSGGGG</span><span class="topo-outside">SDIVMTQATSSVPVTPGESVSISCRSSKSLLHSNGNTYLYWFLQRPGQSPQLLIYRMSNLASGVPDRFSGSGSGTAFTLTISRLEAEDVGVYYCMQHLEYPLTFG</span></span>
+<span class="topo-ruler">       250       260      </span>
 <span class="topo-line"><span class="topo-outside">AGTKLEL</span><span class="topo-unknown">KAAAENLYFQGHHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1898,6 +1870,7 @@ Cannabinoid receptor 1 (CNR1, commonly known as CB1) is a class A G protein-coup
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1990,14 +1963,15 @@ Cannabinoid receptor 1 (CNR1, commonly known as CB1) is a class A G protein-coup
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GENFM</span><span class="topo-outside">DIECFMVLNPSQQLA</span><span class="topo-membrane">IAVLSLTLGTFTVLENLLVLCVILH</span><span class="topo-inside">SRSLRCRPSY</span><span class="topo-membrane">HFIGS</span></span>
-<span class="topo-line"><span class="topo-membrane">LAVADLLGSVIFVYSFID</span><span class="topo-outside">FHVFHRKDSRN</span><span class="topo-membrane">VFLFKLGGVTASFTASVGSLFLAAI</span><span class="topo-inside">DRYISI</span></span>
-<span class="topo-line"><span class="topo-inside">HRPLAYKRIVTRPKA</span><span class="topo-membrane">VVAFCLMWTIAIVIAVLPLLGWN</span><span class="topo-outside">CEKLQSVCSDIFPHI</span><span class="topo-membrane">DKTYLMF</span></span>
-<span class="topo-line"><span class="topo-membrane">WIGVVSVLLLFIVYAYMYILW</span><span class="topo-inside">KAHSHAVAKALIVYGSTTGNTEYTAETIARELADAGYEV</span></span>
-<span class="topo-line"><span class="topo-inside">DSRDAASVEAGGLFEGFDLVLLGCSTWGDDSIELQDDFIPLFDSLEETGAQGRKVACFGC</span></span>
-<span class="topo-line"><span class="topo-inside">GDSSWEYFCGAVDAIEEKLKNLGAEIVQDGLRIDGDPRAARDDIVGWAHDVRGAI</span><span class="topo-unknown">PDQAR</span></span>
-<span class="topo-line"><span class="topo-inside">MDIELA</span><span class="topo-membrane">KTLVLILVVLIICWGPLLAIMVYDVF</span><span class="topo-outside">GKMNKLIKTV</span><span class="topo-membrane">FAFCSMLCLLNSTVNPII</span></span>
-<span class="topo-line"><span class="topo-membrane">YALR</span><span class="topo-inside">SKDLRHAFRSMFPS</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GENFM</span><span class="topo-outside">DIECFMVLNPSQQLA</span><span class="topo-membrane">IAVLSLTLGTFTVLENLLVLCVILH</span><span class="topo-inside">SRSLRCRPSY</span><span class="topo-membrane">HFIGSLAVADLLGSVIFVYSFID</span><span class="topo-outside">FHVFHRKDSRN</span><span class="topo-membrane">VFLFKLGGVTASFTASVGSLFLAAI</span><span class="topo-inside">DRYISI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">HRPLAYKRIVTRPKA</span><span class="topo-membrane">VVAFCLMWTIAIVIAVLPLLGWN</span><span class="topo-outside">CEKLQSVCSDIFPHI</span><span class="topo-membrane">DKTYLMFWIGVVSVLLLFIVYAYMYILW</span><span class="topo-inside">KAHSHAVAKALIVYGSTTGNTEYTAETIARELADAGYEV</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">DSRDAASVEAGGLFEGFDLVLLGCSTWGDDSIELQDDFIPLFDSLEETGAQGRKVACFGCGDSSWEYFCGAVDAIEEKLKNLGAEIVQDGLRIDGDPRAARDDIVGWAHDVRGAI</span><span class="topo-unknown">PDQAR</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430        </span>
+<span class="topo-line"><span class="topo-inside">MDIELA</span><span class="topo-membrane">KTLVLILVVLIICWGPLLAIMVYDVF</span><span class="topo-outside">GKMNKLIKTV</span><span class="topo-membrane">FAFCSMLCLLNSTVNPIIYALR</span><span class="topo-inside">SKDLRHAFRSMFPS</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2135,6 +2109,7 @@ Cannabinoid receptor 1 (CNR1, commonly known as CB1) is a class A G protein-coup
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2150,14 +2125,15 @@ Cannabinoid receptor 1 (CNR1, commonly known as CB1) is a class A G protein-coup
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GEN</span><span class="topo-outside">FMDIECFMVLNPSQ</span><span class="topo-membrane">QLAIAVLSLTLGTFTVLENLLVLCVIL</span><span class="topo-inside">HSRSLRCRPSYH</span><span class="topo-membrane">FIGS</span></span>
-<span class="topo-line"><span class="topo-membrane">LAVADLLGSVIFVYSFIDFHV</span><span class="topo-outside">FHRKDSR</span><span class="topo-membrane">NVFLFKLGGVTASFTASVGSLFLAAI</span><span class="topo-inside">DRYISI</span></span>
-<span class="topo-line"><span class="topo-inside">HRPLAYKRIVTRPKAV</span><span class="topo-membrane">VAFCLMWTIAIVIAVLPLLGWNC</span><span class="topo-outside">EKLQSVC</span><span class="topo-membrane">SDIFPHIDKTYLMF</span></span>
-<span class="topo-line"><span class="topo-membrane">WIGVVSVLLLFIVYAYMY</span><span class="topo-inside">ILWKAHSHAVAKALIVYGSTTGNTEYTAETIARELADAGYEV</span></span>
-<span class="topo-line"><span class="topo-inside">DSRDAASVEAGGLFEGFDLVLLGCSTWGDDSIELQDDFIPLFDSLEETGAQGRKVACFGC</span></span>
-<span class="topo-line"><span class="topo-inside">GDSSWEYFCGAVDAIEEKLKNLGAEIVQDGLRIDGDPRAARDDIVGWAHDVRGAI</span><span class="topo-unknown">PDQA</span><span class="topo-inside">R</span></span>
-<span class="topo-line"><span class="topo-inside">MDIELAK</span><span class="topo-membrane">TLVLILVVLIICWGPLLAIMVYDVFG</span><span class="topo-outside">KMNKLI</span><span class="topo-membrane">KTVFAFCSMLCLLNSTVNPII</span></span>
-<span class="topo-line"><span class="topo-membrane">YAL</span><span class="topo-inside">RSKDLRHAFRSMFPS</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GEN</span><span class="topo-outside">FMDIECFMVLNPSQ</span><span class="topo-membrane">QLAIAVLSLTLGTFTVLENLLVLCVIL</span><span class="topo-inside">HSRSLRCRPSYH</span><span class="topo-membrane">FIGSLAVADLLGSVIFVYSFIDFHV</span><span class="topo-outside">FHRKDSR</span><span class="topo-membrane">NVFLFKLGGVTASFTASVGSLFLAAI</span><span class="topo-inside">DRYISI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">HRPLAYKRIVTRPKAV</span><span class="topo-membrane">VAFCLMWTIAIVIAVLPLLGWNC</span><span class="topo-outside">EKLQSVC</span><span class="topo-membrane">SDIFPHIDKTYLMFWIGVVSVLLLFIVYAYMY</span><span class="topo-inside">ILWKAHSHAVAKALIVYGSTTGNTEYTAETIARELADAGYEV</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">DSRDAASVEAGGLFEGFDLVLLGCSTWGDDSIELQDDFIPLFDSLEETGAQGRKVACFGCGDSSWEYFCGAVDAIEEKLKNLGAEIVQDGLRIDGDPRAARDDIVGWAHDVRGAI</span><span class="topo-unknown">PDQA</span><span class="topo-inside">R</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430        </span>
+<span class="topo-line"><span class="topo-inside">MDIELAK</span><span class="topo-membrane">TLVLILVVLIICWGPLLAIMVYDVFG</span><span class="topo-outside">KMNKLI</span><span class="topo-membrane">KTVFAFCSMLCLLNSTVNPIIYAL</span><span class="topo-inside">RSKDLRHAFRSMFPS</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2295,23 +2271,13 @@ Cannabinoid receptor 1 (CNR1, commonly known as CB1) is a class A G protein-coup
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
 
 </div>
 </details>
-=======
-| Parameter | Value |
-|---|---|
-| Method | [LCP](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) ([LCP](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/)) crystallization |
-| Protein sample | CB1-Flavodoxin at ~50 mg/mL with 10 uM AM6538 |
-| Lipid | [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein) (90% w/w) + [Cholesterol](/xray-mp-wiki/reagents/lipids/cholesterol) (10% w/w) |
-| Protein-to-lipid ratio | 2:3 (protein:lipid) |
-| Temperature | 20 C |
-| Growth time | 2 wk |
-| Notes | 29 crystals merged into single dataset; molecular replacement with LPA1 (PDB 4Z34) and Flavodoxin (PDB 1I1O) as search models; Rwork/Rfree = not specified; data collected at Spring-8 BL41XU |
->>>>>>> d0e2c437136bdf2885afc6a99e0a9d4117821696
 
 
 ## Biological / Functional Insights

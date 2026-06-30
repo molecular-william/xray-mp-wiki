@@ -69,7 +69,9 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20     </span>
 <span class="topo-line"><span class="topo-inside">SS</span><span class="topo-membrane">DPLVVAASIIAILHLILWILD</span><span class="topo-unknown">RL</span></span>
+<details class="topo-details"><summary>Topology coordinates (2 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -95,6 +97,7 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -110,7 +113,9 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20     </span>
 <span class="topo-line"><span class="topo-inside">SS</span><span class="topo-membrane">DPLVVAASIIAILHLILWI</span><span class="topo-outside">LDRL</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -143,6 +148,7 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -158,7 +164,9 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20     </span>
 <span class="topo-line"><span class="topo-inside">SS</span><span class="topo-membrane">DPLVVAASIIAILHLILWI</span><span class="topo-outside">LDRL</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -191,6 +199,7 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -206,7 +215,9 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20     </span>
 <span class="topo-line"><span class="topo-inside">SS</span><span class="topo-membrane">DPLVVAASIIAILHLILWIL</span><span class="topo-outside">DRL</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -239,6 +250,7 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -310,7 +322,9 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20       </span>
 <span class="topo-line"><span class="topo-unknown">-</span><span class="topo-inside">SS</span><span class="topo-membrane">DPLVVAASIIGILHLILWI</span><span class="topo-outside">LDRL</span><span class="topo-unknown">?</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -357,6 +371,7 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -372,7 +387,9 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20       </span>
 <span class="topo-line"><span class="topo-unknown">-</span><span class="topo-inside">SS</span><span class="topo-membrane">DPLVVAASIIGILHLILWIL</span><span class="topo-outside">DRL</span><span class="topo-unknown">?</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -419,6 +436,7 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -434,7 +452,9 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20       </span>
 <span class="topo-line"><span class="topo-unknown">-</span><span class="topo-inside">SSD</span><span class="topo-membrane">PLVVAASIIGILHLILWIL</span><span class="topo-outside">DRL</span><span class="topo-unknown">?</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -481,6 +501,7 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -496,7 +517,9 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20       </span>
 <span class="topo-line"><span class="topo-unknown">-</span><span class="topo-inside">SS</span><span class="topo-membrane">DPLVVAASIIGILHLILWIL</span><span class="topo-outside">DRL</span><span class="topo-unknown">?</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -543,6 +566,7 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -558,7 +582,9 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20       </span>
 <span class="topo-line"><span class="topo-unknown">-S</span><span class="topo-inside">SDP</span><span class="topo-membrane">LVVAASIIGILHLILWI</span><span class="topo-outside">LDRL</span><span class="topo-unknown">?</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -605,6 +631,7 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -620,7 +647,9 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20       </span>
 <span class="topo-line"><span class="topo-unknown">-SS</span><span class="topo-inside">DPL</span><span class="topo-membrane">VVAASIIGILHLILWI</span><span class="topo-outside">LDRL</span><span class="topo-unknown">?</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -667,6 +696,7 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -682,7 +712,9 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20       </span>
 <span class="topo-line"><span class="topo-unknown">-SS</span><span class="topo-inside">DPLVVA</span><span class="topo-membrane">ASIIGILHLILWIL</span><span class="topo-outside">DRL</span><span class="topo-unknown">?</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -729,6 +761,7 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -744,7 +777,9 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20       </span>
 <span class="topo-line"><span class="topo-unknown">-SS</span><span class="topo-inside">DPL</span><span class="topo-membrane">VVAASIIGILHLILWIL</span><span class="topo-outside">DRL</span><span class="topo-unknown">?</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -791,6 +826,7 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -806,7 +842,9 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20       </span>
 <span class="topo-line"><span class="topo-unknown">-S</span><span class="topo-inside">SDPL</span><span class="topo-membrane">VVAASIIGILHLILWILDRL</span><span class="topo-unknown">?</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -846,6 +884,7 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -861,7 +900,9 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20       </span>
 <span class="topo-line"><span class="topo-unknown">-SS</span><span class="topo-inside">DP</span><span class="topo-membrane">LVVAASIIGILHLILWILD</span><span class="topo-outside">RL</span><span class="topo-unknown">?</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -908,6 +949,7 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -923,7 +965,9 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20       </span>
 <span class="topo-line"><span class="topo-unknown">-S</span><span class="topo-inside">SDP</span><span class="topo-membrane">LVVAASIIGILHLILWI</span><span class="topo-outside">LDRL</span><span class="topo-unknown">?</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -970,6 +1014,7 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -985,7 +1030,9 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20       </span>
 <span class="topo-line"><span class="topo-unknown">-SS</span><span class="topo-inside">DPL</span><span class="topo-membrane">VVAASIIGILHLILWIL</span><span class="topo-outside">DRL</span><span class="topo-unknown">?</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1032,6 +1079,7 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1082,7 +1130,9 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20       </span>
 <span class="topo-line"><span class="topo-unknown">-</span><span class="topo-outside">S</span><span class="topo-membrane">SDPLVVAANIIGILHLILWIL</span><span class="topo-inside">DRL</span><span class="topo-unknown">?</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1129,6 +1179,7 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1144,7 +1195,9 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20       </span>
 <span class="topo-line"><span class="topo-unknown">-</span><span class="topo-outside">SS</span><span class="topo-membrane">DPLVVAANIIGILHLILWILD</span><span class="topo-inside">RL</span><span class="topo-unknown">?</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1191,6 +1244,7 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1206,7 +1260,9 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20       </span>
 <span class="topo-line"><span class="topo-unknown">-</span><span class="topo-outside">SS</span><span class="topo-membrane">DPLVVAANIIGILHLILWILDRL</span><span class="topo-unknown">?</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1246,6 +1302,7 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1261,7 +1318,9 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20       </span>
 <span class="topo-line"><span class="topo-unknown">-</span><span class="topo-outside">SS</span><span class="topo-membrane">DPLVVAANIIGILHLILWILDRL</span><span class="topo-unknown">?</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1301,6 +1360,7 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1402,7 +1462,9 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20   </span>
 <span class="topo-line"><span class="topo-outside">PLVVA</span><span class="topo-membrane">ASIIAILHLILWIL</span><span class="topo-inside">DRL</span><span class="topo-unknown">?</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1435,6 +1497,7 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1450,7 +1513,9 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20   </span>
 <span class="topo-line"><span class="topo-outside">PLVVA</span><span class="topo-membrane">ASIIAILHLILWILDR</span><span class="topo-unknown">L?</span></span>
+<details class="topo-details"><summary>Topology coordinates (2 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1476,6 +1541,7 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1491,7 +1557,9 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20   </span>
 <span class="topo-line"><span class="topo-outside">PL</span><span class="topo-membrane">VVAASIIAILHLILWILDRL</span><span class="topo-unknown">?</span></span>
+<details class="topo-details"><summary>Topology coordinates (2 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1517,6 +1585,7 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1532,7 +1601,9 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20   </span>
 <span class="topo-line"><span class="topo-outside">PL</span><span class="topo-membrane">VVAASIIAILHLILWIL</span><span class="topo-inside">DRL</span><span class="topo-unknown">?</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1565,6 +1636,7 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1708,7 +1780,9 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20       </span>
 <span class="topo-line"><span class="topo-unknown">-</span><span class="topo-outside">SS</span><span class="topo-membrane">DPLVVAASIIGILHLILWILD</span><span class="topo-inside">RL</span><span class="topo-unknown">?</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1755,6 +1829,7 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1770,7 +1845,9 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20       </span>
 <span class="topo-line"><span class="topo-unknown">-</span><span class="topo-outside">SS</span><span class="topo-membrane">DPLVVAASIIGILHLILWIL</span><span class="topo-inside">DRL</span><span class="topo-unknown">?</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1817,6 +1894,7 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1832,7 +1910,9 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20       </span>
 <span class="topo-line"><span class="topo-unknown">-</span><span class="topo-outside">SS</span><span class="topo-membrane">DPLVVAASIIGILHLILWI</span><span class="topo-inside">LDRL</span><span class="topo-unknown">?</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1879,6 +1959,7 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1894,7 +1975,9 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20       </span>
 <span class="topo-line"><span class="topo-unknown">-</span><span class="topo-outside">SS</span><span class="topo-membrane">DPLVVAASIIGILHLILWILD</span><span class="topo-inside">RL</span><span class="topo-unknown">?</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1941,6 +2024,7 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1956,7 +2040,9 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20       </span>
 <span class="topo-line"><span class="topo-unknown">-</span><span class="topo-inside">SS</span><span class="topo-membrane">DPLVVAASIIGILHLILWIL</span><span class="topo-outside">DRL</span><span class="topo-unknown">?</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2003,6 +2089,7 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2018,7 +2105,9 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20       </span>
 <span class="topo-line"><span class="topo-unknown">-</span><span class="topo-inside">SS</span><span class="topo-membrane">DPLVVAASIIGILHLILWIL</span><span class="topo-outside">DRL</span><span class="topo-unknown">?</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2065,6 +2154,7 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2080,7 +2170,9 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20       </span>
 <span class="topo-line"><span class="topo-unknown">-</span><span class="topo-inside">SS</span><span class="topo-membrane">DPLVVAASIIGILHLILWI</span><span class="topo-outside">LDRL</span><span class="topo-unknown">?</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2127,6 +2219,7 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2142,7 +2235,9 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20       </span>
 <span class="topo-line"><span class="topo-unknown">-</span><span class="topo-inside">SSD</span><span class="topo-membrane">PLVVAASIIGILHLILWILD</span><span class="topo-outside">RL</span><span class="topo-unknown">?</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2189,6 +2284,7 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2204,7 +2300,9 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20       </span>
 <span class="topo-line"><span class="topo-unknown">-</span><span class="topo-outside">SSDPL</span><span class="topo-membrane">VVAASIIGILHLIL</span><span class="topo-inside">WILDRL</span><span class="topo-unknown">?</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2251,6 +2349,7 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2266,7 +2365,9 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20       </span>
 <span class="topo-line"><span class="topo-unknown">-</span><span class="topo-outside">SSD</span><span class="topo-membrane">PLVVAASIIGILHLILWIL</span><span class="topo-inside">DRL</span><span class="topo-unknown">?</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2313,6 +2414,7 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2328,7 +2430,9 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20       </span>
 <span class="topo-line"><span class="topo-unknown">-</span><span class="topo-outside">SSDP</span><span class="topo-membrane">LVVAASIIGILHLI</span><span class="topo-inside">LWILDRL</span><span class="topo-unknown">?</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2375,6 +2479,7 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2390,7 +2495,9 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20       </span>
 <span class="topo-line"><span class="topo-unknown">-</span><span class="topo-outside">SSDPL</span><span class="topo-membrane">VVAASIIGILHLILWILD</span><span class="topo-inside">RL</span><span class="topo-unknown">?</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2437,6 +2544,7 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2452,7 +2560,9 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20       </span>
 <span class="topo-line"><span class="topo-unknown">-</span><span class="topo-outside">SS</span><span class="topo-membrane">DPLVVAASIIGILHLILWIL</span><span class="topo-inside">DRL</span><span class="topo-unknown">?</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2499,6 +2609,7 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2514,7 +2625,9 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20       </span>
 <span class="topo-line"><span class="topo-unknown">-</span><span class="topo-outside">SS</span><span class="topo-membrane">DPLVVAASIIGILHLILWIL</span><span class="topo-inside">DRL</span><span class="topo-unknown">?</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2561,6 +2674,7 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2576,7 +2690,9 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20       </span>
 <span class="topo-line"><span class="topo-unknown">-</span><span class="topo-outside">SS</span><span class="topo-membrane">DPLVVAASIIGILHLILWILD</span><span class="topo-inside">RL</span><span class="topo-unknown">?</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2623,6 +2739,7 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2638,7 +2755,9 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20       </span>
 <span class="topo-line"><span class="topo-unknown">-</span><span class="topo-outside">SS</span><span class="topo-membrane">DPLVVAASIIGILHLILWI</span><span class="topo-inside">LDRL</span><span class="topo-unknown">?</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2685,6 +2804,7 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2749,7 +2869,9 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20       </span>
 <span class="topo-line"><span class="topo-unknown">-</span><span class="topo-inside">SS</span><span class="topo-membrane">DPLVVAASIIGILHLILWILD</span><span class="topo-outside">RL</span><span class="topo-unknown">?</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2796,6 +2918,7 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2811,7 +2934,9 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20       </span>
 <span class="topo-line"><span class="topo-unknown">-</span><span class="topo-inside">SS</span><span class="topo-membrane">DPLVVAASIIGILHLILWIL</span><span class="topo-outside">DRL</span><span class="topo-unknown">?</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2858,6 +2983,7 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2873,7 +2999,9 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20       </span>
 <span class="topo-line"><span class="topo-unknown">-</span><span class="topo-inside">SS</span><span class="topo-membrane">DPLVVAASIIGILHLILWIL</span><span class="topo-outside">DRL</span><span class="topo-unknown">?</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2920,6 +3048,7 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2935,7 +3064,9 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20       </span>
 <span class="topo-line"><span class="topo-unknown">-</span><span class="topo-inside">SS</span><span class="topo-membrane">DPLVVAASIIGILHLILWIL</span><span class="topo-outside">DRL</span><span class="topo-unknown">?</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2982,6 +3113,7 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2997,7 +3129,9 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20       </span>
 <span class="topo-line"><span class="topo-unknown">-</span><span class="topo-outside">SS</span><span class="topo-membrane">DPLVVAASIIGILHLILWI</span><span class="topo-inside">LDRL</span><span class="topo-unknown">?</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3044,6 +3178,7 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3059,7 +3194,9 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20       </span>
 <span class="topo-line"><span class="topo-unknown">-</span><span class="topo-outside">SS</span><span class="topo-membrane">DPLVVAASIIGILHLILWILD</span><span class="topo-inside">RL</span><span class="topo-unknown">?</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3106,6 +3243,7 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3121,7 +3259,9 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20       </span>
 <span class="topo-line"><span class="topo-unknown">-</span><span class="topo-outside">SS</span><span class="topo-membrane">DPLVVAASIIGILHLILWIL</span><span class="topo-inside">DRL</span><span class="topo-unknown">?</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3168,6 +3308,7 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3183,7 +3324,9 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20       </span>
 <span class="topo-line"><span class="topo-unknown">-</span><span class="topo-outside">SSD</span><span class="topo-membrane">PLVVAASIIGILHLILWIL</span><span class="topo-inside">DRL</span><span class="topo-unknown">?</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3230,6 +3373,7 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3245,7 +3389,9 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20       </span>
 <span class="topo-line"><span class="topo-unknown">-</span><span class="topo-inside">SS</span><span class="topo-membrane">DPLVVAASIIGILHLILWILD</span><span class="topo-outside">RL</span><span class="topo-unknown">?</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3292,6 +3438,7 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3307,7 +3454,9 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20       </span>
 <span class="topo-line"><span class="topo-unknown">-</span><span class="topo-inside">SS</span><span class="topo-membrane">DPLVVAASIIGILHLILWIL</span><span class="topo-outside">DRL</span><span class="topo-unknown">?</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3354,6 +3503,7 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3369,7 +3519,9 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20       </span>
 <span class="topo-line"><span class="topo-unknown">-</span><span class="topo-inside">SS</span><span class="topo-membrane">DPLVVAASIIGILHLILWIL</span><span class="topo-outside">DRL</span><span class="topo-unknown">?</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3416,6 +3568,7 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3431,7 +3584,9 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20       </span>
 <span class="topo-line"><span class="topo-unknown">-</span><span class="topo-inside">SS</span><span class="topo-membrane">DPLVVAASIIGILHLILWILD</span><span class="topo-outside">RL</span><span class="topo-unknown">?</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3478,6 +3633,7 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3561,7 +3717,9 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20       </span>
 <span class="topo-line"><span class="topo-unknown">-SS</span><span class="topo-inside">DPLA</span><span class="topo-membrane">VAASIIGILHLILWIL</span><span class="topo-outside">DRL</span><span class="topo-unknown">?</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3608,6 +3766,7 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3623,7 +3782,9 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20       </span>
 <span class="topo-line"><span class="topo-unknown">-SS</span><span class="topo-inside">DPLAVA</span><span class="topo-membrane">ASIIGILHLILWILD</span><span class="topo-outside">RL</span><span class="topo-unknown">?</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3670,6 +3831,7 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3685,7 +3847,9 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20       </span>
 <span class="topo-line"><span class="topo-unknown">-SS</span><span class="topo-inside">DPL</span><span class="topo-membrane">AVAASIIGILHLILWILD</span><span class="topo-outside">RL</span><span class="topo-unknown">?</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3732,6 +3896,7 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3747,7 +3912,9 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20       </span>
 <span class="topo-line"><span class="topo-unknown">-SS</span><span class="topo-inside">DPL</span><span class="topo-membrane">AVAASIIGILHLILWIL</span><span class="topo-outside">DRL</span><span class="topo-unknown">?</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3794,6 +3961,7 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3809,7 +3977,9 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40 </span>
 <span class="topo-line"><span class="topo-unknown">D</span><span class="topo-inside">SSDPLAVA</span><span class="topo-membrane">ASIIGILHLILWILDRLFFKSIYR</span><span class="topo-outside">FFE</span><span class="topo-unknown">HGLKR</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3856,6 +4026,7 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3871,7 +4042,9 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40 </span>
 <span class="topo-line"><span class="topo-unknown">DSS</span><span class="topo-inside">DPL</span><span class="topo-membrane">AVAASIIGILHLILWILDRLFFKSIYR</span><span class="topo-outside">FFE</span><span class="topo-unknown">HGLKR</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3918,6 +4091,7 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3933,7 +4107,9 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40 </span>
 <span class="topo-line"><span class="topo-unknown">DS</span><span class="topo-inside">SDPL</span><span class="topo-membrane">AVAASIIGILHLILWILDRLFFKS</span><span class="topo-outside">IYRFFE</span><span class="topo-unknown">HGLKR</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3980,6 +4156,7 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3995,7 +4172,9 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40 </span>
 <span class="topo-line"><span class="topo-unknown">DS</span><span class="topo-inside">SDPLAVA</span><span class="topo-membrane">ASIIGILHLILWILDRLFFKS</span><span class="topo-outside">IYRFFE</span><span class="topo-unknown">HGLKR</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4042,6 +4221,7 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

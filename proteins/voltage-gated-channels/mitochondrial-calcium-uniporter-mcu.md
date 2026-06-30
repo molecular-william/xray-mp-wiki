@@ -155,9 +155,11 @@ The mitochondrial calcium uniporter (MCU) is the pore-forming subunit of the mit
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MAALSVDEYKLSREKKLLLQLENAETLLAPLHDAKRKIEQEAEAHTDRV</span><span class="topo-membrane">AWAGFAASGVQ</span></span>
-<span class="topo-line"><span class="topo-membrane">TGLFARLTW</span><span class="topo-inside">WEYSW</span><span class="topo-membrane">DIVEPVTYFATYSTVAA</span><span class="topo-outside">TFGYYLYTQQSFEYPSARERVYTKQFYRR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MAALSVDEYKLSREKKLLLQLENAETLLAPLHDAKRKIEQEAEAHTDRV</span><span class="topo-membrane">AWAGFAASGVQTGLFARLTW</span><span class="topo-inside">WEYSW</span><span class="topo-membrane">DIVEPVTYFATYSTVAA</span><span class="topo-outside">TFGYYLYTQQSFEYPSARERVYTKQFYRR</span></span>
+<span class="topo-ruler">       130       140       150         </span>
 <span class="topo-line"><span class="topo-outside">AQKQNFDIEKYNRLVTEVDELRNQLKRLRDPLE</span><span class="topo-unknown">HHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -204,6 +206,7 @@ The mitochondrial calcium uniporter (MCU) is the pore-forming subunit of the mit
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -219,9 +222,11 @@ The mitochondrial calcium uniporter (MCU) is the pore-forming subunit of the mit
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MAALSVDEYKLSREKKLLLQLENAETLLAPLHDAKRKIEQEAEAHT</span><span class="topo-membrane">DRVAWAGFAASGVQ</span></span>
-<span class="topo-line"><span class="topo-membrane">TGLFARL</span><span class="topo-inside">TWWEYSW</span><span class="topo-membrane">DIVEPVTYFATYSTVAAT</span><span class="topo-outside">FGYYLYTQQSFEYPSARERVYTKQFYRR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MAALSVDEYKLSREKKLLLQLENAETLLAPLHDAKRKIEQEAEAHT</span><span class="topo-membrane">DRVAWAGFAASGVQTGLFARL</span><span class="topo-inside">TWWEYSW</span><span class="topo-membrane">DIVEPVTYFATYSTVAAT</span><span class="topo-outside">FGYYLYTQQSFEYPSARERVYTKQFYRR</span></span>
+<span class="topo-ruler">       130       140       150         </span>
 <span class="topo-line"><span class="topo-outside">AQKQNFDIEKYNRLVTEVDELRNQLKRLRDPLE</span><span class="topo-unknown">HHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -268,6 +273,7 @@ The mitochondrial calcium uniporter (MCU) is the pore-forming subunit of the mit
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -283,9 +289,11 @@ The mitochondrial calcium uniporter (MCU) is the pore-forming subunit of the mit
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MAALSVDEYKLSREKKLLLQLENAETLLAPLHDAKRKIEQEAEAHT</span><span class="topo-membrane">DRVAWAGFAASGVQ</span></span>
-<span class="topo-line"><span class="topo-membrane">TGLFARL</span><span class="topo-inside">TWWEYSW</span><span class="topo-membrane">DIVEPVTYFATYSTVAATF</span><span class="topo-outside">GYYLYTQQSFEYPSARERVYTKQFYRR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MAALSVDEYKLSREKKLLLQLENAETLLAPLHDAKRKIEQEAEAHT</span><span class="topo-membrane">DRVAWAGFAASGVQTGLFARL</span><span class="topo-inside">TWWEYSW</span><span class="topo-membrane">DIVEPVTYFATYSTVAATF</span><span class="topo-outside">GYYLYTQQSFEYPSARERVYTKQFYRR</span></span>
+<span class="topo-ruler">       130       140       150         </span>
 <span class="topo-line"><span class="topo-outside">AQKQNFDIEKYNRLVTEVDELRNQLKRLRDPLE</span><span class="topo-unknown">HHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -332,6 +340,7 @@ The mitochondrial calcium uniporter (MCU) is the pore-forming subunit of the mit
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -347,9 +356,11 @@ The mitochondrial calcium uniporter (MCU) is the pore-forming subunit of the mit
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MAALSVDEYKLSREKKLLLQLENAETLLAPLHDAKRKIEQEAEAHTDRV</span><span class="topo-membrane">AWAGFAASGVQ</span></span>
-<span class="topo-line"><span class="topo-membrane">TGLFARLT</span><span class="topo-inside">WWEYSW</span><span class="topo-membrane">DIVEPVTYFATYSTVAAT</span><span class="topo-outside">FGYYLYTQQSFEYPSARERVYTKQFYRR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MAALSVDEYKLSREKKLLLQLENAETLLAPLHDAKRKIEQEAEAHTDRV</span><span class="topo-membrane">AWAGFAASGVQTGLFARLT</span><span class="topo-inside">WWEYSW</span><span class="topo-membrane">DIVEPVTYFATYSTVAAT</span><span class="topo-outside">FGYYLYTQQSFEYPSARERVYTKQFYRR</span></span>
+<span class="topo-ruler">       130       140       150         </span>
 <span class="topo-line"><span class="topo-outside">AQKQNFDIEKYNRLVTEVDELRNQLKRLRDPLE</span><span class="topo-unknown">HHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -396,6 +407,7 @@ The mitochondrial calcium uniporter (MCU) is the pore-forming subunit of the mit
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -411,9 +423,11 @@ The mitochondrial calcium uniporter (MCU) is the pore-forming subunit of the mit
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MAALSVDEYKLSREKKLLLQLENAETLLAPLHDAKRKIEQEAEAHTDRVA</span><span class="topo-membrane">WAGFAASGVQ</span></span>
-<span class="topo-line"><span class="topo-membrane">TGLFARLTWW</span><span class="topo-inside">EYSW</span><span class="topo-membrane">DIVEPVTYFATYSTVAAT</span><span class="topo-outside">FGYYLYTQQSFEYPSARERVYTKQFYRR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MAALSVDEYKLSREKKLLLQLENAETLLAPLHDAKRKIEQEAEAHTDRVA</span><span class="topo-membrane">WAGFAASGVQTGLFARLTWW</span><span class="topo-inside">EYSW</span><span class="topo-membrane">DIVEPVTYFATYSTVAAT</span><span class="topo-outside">FGYYLYTQQSFEYPSARERVYTKQFYRR</span></span>
+<span class="topo-ruler">       130       140       150         </span>
 <span class="topo-line"><span class="topo-outside">AQKQNFDIEKYNRLVTEVDELRNQLKRLRDPLE</span><span class="topo-unknown">HHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -460,6 +474,7 @@ The mitochondrial calcium uniporter (MCU) is the pore-forming subunit of the mit
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

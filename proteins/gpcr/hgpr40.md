@@ -64,15 +64,17 @@ Human GPR40 (Free Fatty Acid Receptor 1, FFAR1) is a G-protein-coupled receptor 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSAT</span><span class="topo-outside">MDLPPQ</span><span class="topo-membrane">LSFGLYVAAFALGFPLNVLAIR</span><span class="topo-inside">GATAHARLRLTPSAV</span><span class="topo-membrane">YALN</span></span>
-<span class="topo-line"><span class="topo-membrane">LGCSDLLLTVSLPLKAVEA</span><span class="topo-outside">LASGAWPLPAS</span><span class="topo-membrane">LCPVFAVAHFAPLYAGGGFLAALSA</span><span class="topo-inside">ARYLG</span></span>
-<span class="topo-line"><span class="topo-inside">AAFP</span><span class="topo-unknown">LGYQAFRR</span><span class="topo-inside">PCYSW</span><span class="topo-membrane">GVCAAIWALVLCHLGLVFGLEA</span><span class="topo-outside">PGGWLDHSNTSLGINTPVNGS</span></span>
-<span class="topo-line"><span class="topo-outside">PVCLEAWDPAS</span><span class="topo-membrane">AGPARFSLSLLLFFLPLAITAFCFV</span><span class="topo-inside">GCLRALARGSNIFEMLRIDEGLRL</span></span>
-<span class="topo-line"><span class="topo-inside">KIYKDTEGYYTIGIGHLLTKSPSLNAAKSELDKAIGRNTNGVITKDEAEKLFNQDVDAAV</span></span>
-<span class="topo-line"><span class="topo-inside">RGILRNAKLKPVYDSLDAVRRAALINMVFQMGETGVAGFTNSLRMLQQKRWDEAAVNLAK</span></span>
-<span class="topo-line"><span class="topo-inside">SRWYNQTPNRAKRVITTFRTGTWDAYGSLTHRRKLRAAW</span><span class="topo-membrane">VAGGALLTLLLCVGPYNASNV</span></span>
-<span class="topo-line"><span class="topo-membrane">ASFL</span><span class="topo-outside">YPNLGGSW</span><span class="topo-membrane">RKLGLITGAWSVVLNPLVTG</span><span class="topo-inside">YLG</span><span class="topo-unknown">RGPGLKTVCAARTQGGKSQKAENLY</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSAT</span><span class="topo-outside">MDLPPQ</span><span class="topo-membrane">LSFGLYVAAFALGFPLNVLAIR</span><span class="topo-inside">GATAHARLRLTPSAV</span><span class="topo-membrane">YALNLGCSDLLLTVSLPLKAVEA</span><span class="topo-outside">LASGAWPLPAS</span><span class="topo-membrane">LCPVFAVAHFAPLYAGGGFLAALSA</span><span class="topo-inside">ARYLG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">AAFP</span><span class="topo-unknown">LGYQAFRR</span><span class="topo-inside">PCYSW</span><span class="topo-membrane">GVCAAIWALVLCHLGLVFGLEA</span><span class="topo-outside">PGGWLDHSNTSLGINTPVNGSPVCLEAWDPAS</span><span class="topo-membrane">AGPARFSLSLLLFFLPLAITAFCFV</span><span class="topo-inside">GCLRALARGSNIFEMLRIDEGLRL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">KIYKDTEGYYTIGIGHLLTKSPSLNAAKSELDKAIGRNTNGVITKDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVFQMGETGVAGFTNSLRMLQQKRWDEAAVNLAK</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">SRWYNQTPNRAKRVITTFRTGTWDAYGSLTHRRKLRAAW</span><span class="topo-membrane">VAGGALLTLLLCVGPYNASNVASFL</span><span class="topo-outside">YPNLGGSW</span><span class="topo-membrane">RKLGLITGAWSVVLNPLVTG</span><span class="topo-inside">YLG</span><span class="topo-unknown">RGPGLKTVCAARTQGGKSQKAENLY</span></span>
+<span class="topo-ruler">       490 </span>
 <span class="topo-line"><span class="topo-unknown">FQGHHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -217,6 +219,7 @@ Human GPR40 (Free Fatty Acid Receptor 1, FFAR1) is a G-protein-coupled receptor 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -338,15 +341,17 @@ Human GPR40 (Free Fatty Acid Receptor 1, FFAR1) is a G-protein-coupled receptor 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSATM</span><span class="topo-outside">DLPPQL</span><span class="topo-membrane">SFGLYVAAFALGFPLNVLAIRGATA</span><span class="topo-inside">HARLRLTPS</span><span class="topo-membrane">AVYALN</span></span>
-<span class="topo-line"><span class="topo-membrane">LGCSDLLLTVSLPLKAVE</span><span class="topo-outside">ALASGAWPLPAS</span><span class="topo-membrane">LCPVFAVAHFFPLYAGGGFLAALSA</span><span class="topo-inside">ARYLG</span></span>
-<span class="topo-line"><span class="topo-inside">AAFPLGYQAFRRPCYS</span><span class="topo-membrane">WGVCAAIWALVLCHLGLVFGLEAPGG</span><span class="topo-outside">WLDHSNTSLGINTP</span><span class="topo-unknown">V</span><span class="topo-outside">NGS</span></span>
-<span class="topo-line"><span class="topo-outside">PVCLEAWDPAS</span><span class="topo-membrane">AGPARFSLSLLLFFLPLAITAFCFV</span><span class="topo-inside">GCLRALARGSNIFEMLRIDEG</span><span class="topo-unknown">LRL</span></span>
-<span class="topo-line"><span class="topo-unknown">KIYKDT</span><span class="topo-inside">EGYYTIGIGHLLTKSP</span><span class="topo-unknown">S</span><span class="topo-inside">LNAAKSELDKAIGRNT</span><span class="topo-unknown">NGVITKD</span><span class="topo-inside">EAEKLFNQDVDAAV</span></span>
-<span class="topo-line"><span class="topo-inside">RGILRNAKLKPVYDSLDAVRRAALINMVFQMGETGVAGFTNSLRMLQQKRWDEAAVNLAK</span></span>
-<span class="topo-line"><span class="topo-inside">SRWYNQTPNRAKRVITTFRT</span><span class="topo-unknown">GT</span><span class="topo-inside">WDAYG</span><span class="topo-unknown">S</span><span class="topo-inside">LTHRRKLRAA</span><span class="topo-membrane">WVAGGALLTLLLCVGPYNASNV</span></span>
-<span class="topo-line"><span class="topo-membrane">ASFLY</span><span class="topo-outside">PNLGGSW</span><span class="topo-membrane">RKLGLITGAWSVVLNPLVTGY</span><span class="topo-unknown">LGRGPGLKTVCAARTQGGKSQKAENLY</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSATM</span><span class="topo-outside">DLPPQL</span><span class="topo-membrane">SFGLYVAAFALGFPLNVLAIRGATA</span><span class="topo-inside">HARLRLTPS</span><span class="topo-membrane">AVYALNLGCSDLLLTVSLPLKAVE</span><span class="topo-outside">ALASGAWPLPAS</span><span class="topo-membrane">LCPVFAVAHFFPLYAGGGFLAALSA</span><span class="topo-inside">ARYLG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">AAFPLGYQAFRRPCYS</span><span class="topo-membrane">WGVCAAIWALVLCHLGLVFGLEAPGG</span><span class="topo-outside">WLDHSNTSLGINTP</span><span class="topo-unknown">V</span><span class="topo-outside">NGSPVCLEAWDPAS</span><span class="topo-membrane">AGPARFSLSLLLFFLPLAITAFCFV</span><span class="topo-inside">GCLRALARGSNIFEMLRIDEG</span><span class="topo-unknown">LRL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-unknown">KIYKDT</span><span class="topo-inside">EGYYTIGIGHLLTKSP</span><span class="topo-unknown">S</span><span class="topo-inside">LNAAKSELDKAIGRNT</span><span class="topo-unknown">NGVITKD</span><span class="topo-inside">EAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVFQMGETGVAGFTNSLRMLQQKRWDEAAVNLAK</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">SRWYNQTPNRAKRVITTFRT</span><span class="topo-unknown">GT</span><span class="topo-inside">WDAYG</span><span class="topo-unknown">S</span><span class="topo-inside">LTHRRKLRAA</span><span class="topo-membrane">WVAGGALLTLLLCVGPYNASNVASFLY</span><span class="topo-outside">PNLGGSW</span><span class="topo-membrane">RKLGLITGAWSVVLNPLVTGY</span><span class="topo-unknown">LGRGPGLKTVCAARTQGGKSQKAENLY</span></span>
+<span class="topo-ruler">       490 </span>
 <span class="topo-line"><span class="topo-unknown">FQGHHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (20 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -498,6 +503,7 @@ Human GPR40 (Free Fatty Acid Receptor 1, FFAR1) is a G-protein-coupled receptor 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -513,15 +519,17 @@ Human GPR40 (Free Fatty Acid Receptor 1, FFAR1) is a G-protein-coupled receptor 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSATM</span><span class="topo-outside">DLPP</span><span class="topo-membrane">QLSFGLYVAAFALGFPLNVLAIRGAT</span><span class="topo-inside">AHARLRLTPS</span><span class="topo-membrane">AVYALN</span></span>
-<span class="topo-line"><span class="topo-membrane">LGCSDLLLTVSLPLKAVEAL</span><span class="topo-outside">ASGAWPL</span><span class="topo-membrane">PASLCPVFAVAHFAPLYAGGGFLAALSAA</span><span class="topo-inside">RYLG</span></span>
-<span class="topo-line"><span class="topo-inside">AAFP</span><span class="topo-unknown">LGYQAFRR</span><span class="topo-inside">PCY</span><span class="topo-membrane">SWGVCAAIWALVLCHLGLVFGLEA</span><span class="topo-outside">PGGWLDHSNTSLGINTPVNGS</span></span>
-<span class="topo-line"><span class="topo-outside">PVCLEAWDPAS</span><span class="topo-membrane">AGPARFSLSLLLFFLPLAITAFCFVG</span><span class="topo-inside">CLRALARGSNIFEMLRIDEGLRL</span></span>
-<span class="topo-line"><span class="topo-inside">KIYKDTEGYYTIGIGHLLTKSPSLNAAKSELDKAIGRNTNGVITKDEAEKLFNQDVDAAV</span></span>
-<span class="topo-line"><span class="topo-inside">RGILRNAKLKPVYDSLDAVRRAALINMVFQMGETGVAGFTNSLRMLQQKRWDEAAVNLAK</span></span>
-<span class="topo-line"><span class="topo-inside">SRWYNQTPNRAKRVITTFRTGTWDAYGSLTHRRKLRAA</span><span class="topo-membrane">WVAGGALLTLLLCVGPYNASNV</span></span>
-<span class="topo-line"><span class="topo-membrane">ASFLY</span><span class="topo-outside">PNLGGS</span><span class="topo-membrane">WRKLGLITGAWSVVLNPLVTGYLG</span><span class="topo-inside">RGPG</span><span class="topo-unknown">LKTVCAARTQGGKSQKAENLY</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSATM</span><span class="topo-outside">DLPP</span><span class="topo-membrane">QLSFGLYVAAFALGFPLNVLAIRGAT</span><span class="topo-inside">AHARLRLTPS</span><span class="topo-membrane">AVYALNLGCSDLLLTVSLPLKAVEAL</span><span class="topo-outside">ASGAWPL</span><span class="topo-membrane">PASLCPVFAVAHFAPLYAGGGFLAALSAA</span><span class="topo-inside">RYLG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">AAFP</span><span class="topo-unknown">LGYQAFRR</span><span class="topo-inside">PCY</span><span class="topo-membrane">SWGVCAAIWALVLCHLGLVFGLEA</span><span class="topo-outside">PGGWLDHSNTSLGINTPVNGSPVCLEAWDPAS</span><span class="topo-membrane">AGPARFSLSLLLFFLPLAITAFCFVG</span><span class="topo-inside">CLRALARGSNIFEMLRIDEGLRL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">KIYKDTEGYYTIGIGHLLTKSPSLNAAKSELDKAIGRNTNGVITKDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVFQMGETGVAGFTNSLRMLQQKRWDEAAVNLAK</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">SRWYNQTPNRAKRVITTFRTGTWDAYGSLTHRRKLRAA</span><span class="topo-membrane">WVAGGALLTLLLCVGPYNASNVASFLY</span><span class="topo-outside">PNLGGS</span><span class="topo-membrane">WRKLGLITGAWSVVLNPLVTGYLG</span><span class="topo-inside">RGPG</span><span class="topo-unknown">LKTVCAARTQGGKSQKAENLY</span></span>
+<span class="topo-ruler">       490 </span>
 <span class="topo-line"><span class="topo-unknown">FQGHHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -645,6 +653,7 @@ Human GPR40 (Free Fatty Acid Receptor 1, FFAR1) is a G-protein-coupled receptor 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -695,15 +704,17 @@ Human GPR40 (Free Fatty Acid Receptor 1, FFAR1) is a G-protein-coupled receptor 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSATMD</span><span class="topo-outside">LPPQLSF</span><span class="topo-membrane">GLYVAAFALGFP</span><span class="topo-inside">LNVLAIRGATA</span><span class="topo-unknown">HARLRL</span><span class="topo-inside">TPSAVYALN</span></span>
-<span class="topo-line"><span class="topo-inside">LG</span><span class="topo-membrane">CSDLLLTVSLP</span><span class="topo-outside">LKAVEALASGAWPLPASLCPV</span><span class="topo-membrane">FAVAHFAPLYAGG</span><span class="topo-inside">GFLAALSAARYLG</span></span>
-<span class="topo-line"><span class="topo-inside">AAFPLGYQAFRRPCYSWGVCAAI</span><span class="topo-membrane">WALVLCHLGLVF</span><span class="topo-outside">GLEA</span><span class="topo-unknown">PGGWLDHSNTSLGINTPVNGS</span></span>
-<span class="topo-line"><span class="topo-outside">PVCLEAWDPASAG</span><span class="topo-membrane">PARFSLSLLLFFL</span><span class="topo-inside">PLAITAFCFVGCLRALARGSNIFEMLRIDEGLRL</span></span>
-<span class="topo-line"><span class="topo-inside">KIYKDTEGYYTIGIGHLLTKSPSLNAAKSELDKAIGRNTNGVITKDEAEKLFNQDVDAAV</span></span>
-<span class="topo-line"><span class="topo-inside">RGILRNAKLKPVYDSLDAVRRAALINMVFQMGETGVAGFTNSLRMLQQKRWDEAAVNLAK</span></span>
-<span class="topo-line"><span class="topo-inside">SRWYNQTPNRAKRVITTFRTGTWDAYGSLTHRRKLRAAWVAGGALLT</span><span class="topo-membrane">LLLCVGPYNASNV</span></span>
-<span class="topo-line"><span class="topo-membrane">A</span><span class="topo-outside">SFLYPNLGGSWRK</span><span class="topo-membrane">LGLITGAWSVVL</span><span class="topo-inside">NPLVTGY</span><span class="topo-unknown">LGRGPGLKTVCAARTQGGKSQKAENLY</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSATMD</span><span class="topo-outside">LPPQLSF</span><span class="topo-membrane">GLYVAAFALGFP</span><span class="topo-inside">LNVLAIRGATA</span><span class="topo-unknown">HARLRL</span><span class="topo-inside">TPSAVYALNLG</span><span class="topo-membrane">CSDLLLTVSLP</span><span class="topo-outside">LKAVEALASGAWPLPASLCPV</span><span class="topo-membrane">FAVAHFAPLYAGG</span><span class="topo-inside">GFLAALSAARYLG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">AAFPLGYQAFRRPCYSWGVCAAI</span><span class="topo-membrane">WALVLCHLGLVF</span><span class="topo-outside">GLEA</span><span class="topo-unknown">PGGWLDHSNTSLGINTPVNGS</span><span class="topo-outside">PVCLEAWDPASAG</span><span class="topo-membrane">PARFSLSLLLFFL</span><span class="topo-inside">PLAITAFCFVGCLRALARGSNIFEMLRIDEGLRL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">KIYKDTEGYYTIGIGHLLTKSPSLNAAKSELDKAIGRNTNGVITKDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVFQMGETGVAGFTNSLRMLQQKRWDEAAVNLAK</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">SRWYNQTPNRAKRVITTFRTGTWDAYGSLTHRRKLRAAWVAGGALLT</span><span class="topo-membrane">LLLCVGPYNASNVA</span><span class="topo-outside">SFLYPNLGGSWRK</span><span class="topo-membrane">LGLITGAWSVVL</span><span class="topo-inside">NPLVTGY</span><span class="topo-unknown">LGRGPGLKTVCAARTQGGKSQKAENLY</span></span>
+<span class="topo-ruler">       490 </span>
 <span class="topo-line"><span class="topo-unknown">FQGHHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -862,6 +873,7 @@ Human GPR40 (Free Fatty Acid Receptor 1, FFAR1) is a G-protein-coupled receptor 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

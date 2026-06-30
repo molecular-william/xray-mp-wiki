@@ -139,15 +139,17 @@ The [Prostaglandin E2 (PGE2, Dinoprostone)](/xray-mp-wiki/reagents/ligands/prost
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">VFADYKDDDDGAPKETRGYGGDAPFCTRLNHSYTGMWAPERSAEARGNLTRPPGSGE</span><span class="topo-outside">DCG</span></span>
-<span class="topo-line"><span class="topo-outside">SVSVA</span><span class="topo-membrane">FPITMLLTGFVGNALAMLLVS</span><span class="topo-inside">RSYRRRESKRKKSFLL</span><span class="topo-membrane">CIGWLALTDLVGQLLTTP</span></span>
-<span class="topo-line"><span class="topo-membrane">VVI</span><span class="topo-outside">VVYLSKQRWEHIDPSGRLCT</span><span class="topo-membrane">FFGLTMTVFGLSSLFIASAMAV</span><span class="topo-inside">ERALAIRAPHWYASH</span></span>
-<span class="topo-line"><span class="topo-inside">MKTRATR</span><span class="topo-membrane">AVLLGVWLAVLAFALLPVL</span><span class="topo-outside">GVGQYTVQWPGTWCFIST</span><span class="topo-unknown">GRGGNGTSSSH</span><span class="topo-outside">NW</span><span class="topo-membrane">GNL</span></span>
-<span class="topo-line"><span class="topo-membrane">FFASAFAFLGLLALTVTFSCNL</span><span class="topo-inside">ATIKALVSRGSNIFEMLRIDEGLRLKIYKDTEGYYTIG</span></span>
-<span class="topo-line"><span class="topo-inside">IGHLLTKSPSLNAAKSELDKAIGRNTNGVITKDEAEKLFNQDVDATVRGILRNAKLKPVY</span></span>
-<span class="topo-line"><span class="topo-inside">DSLDAVRRAALINMVFQMGETGVAGFTNSLRMLQQKRWDEAAVNLAKSRWYNQTPNRAKR</span></span>
-<span class="topo-line"><span class="topo-inside">VITTFRTGTWDAYGSWGRITTETAI</span><span class="topo-membrane">QLMAIMCVLSVCWSPLLIMMLKMIF</span><span class="topo-outside">N</span><span class="topo-unknown">QTSVEHCKT</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">VFADYKDDDDGAPKETRGYGGDAPFCTRLNHSYTGMWAPERSAEARGNLTRPPGSGE</span><span class="topo-outside">DCGSVSVA</span><span class="topo-membrane">FPITMLLTGFVGNALAMLLVS</span><span class="topo-inside">RSYRRRESKRKKSFLL</span><span class="topo-membrane">CIGWLALTDLVGQLLTTP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">VVI</span><span class="topo-outside">VVYLSKQRWEHIDPSGRLCT</span><span class="topo-membrane">FFGLTMTVFGLSSLFIASAMAV</span><span class="topo-inside">ERALAIRAPHWYASHMKTRATR</span><span class="topo-membrane">AVLLGVWLAVLAFALLPVL</span><span class="topo-outside">GVGQYTVQWPGTWCFIST</span><span class="topo-unknown">GRGGNGTSSSH</span><span class="topo-outside">NW</span><span class="topo-membrane">GNL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">FFASAFAFLGLLALTVTFSCNL</span><span class="topo-inside">ATIKALVSRGSNIFEMLRIDEGLRLKIYKDTEGYYTIGIGHLLTKSPSLNAAKSELDKAIGRNTNGVITKDEAEKLFNQDVDATVRGILRNAKLKPVY</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">DSLDAVRRAALINMVFQMGETGVAGFTNSLRMLQQKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWDAYGSWGRITTETAI</span><span class="topo-membrane">QLMAIMCVLSVCWSPLLIMMLKMIF</span><span class="topo-outside">N</span><span class="topo-unknown">QTSVEHCKT</span></span>
+<span class="topo-ruler">       490       500       510       520       530       </span>
 <span class="topo-line"><span class="topo-unknown">HT</span><span class="topo-outside">EKQKECNF</span><span class="topo-membrane">FLIAVRLASLNQILDPWVYLLLRKIL</span><span class="topo-inside">GRPLEVL</span><span class="topo-unknown">FQGPHHHHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -278,6 +280,7 @@ The [Prostaglandin E2 (PGE2, Dinoprostone)](/xray-mp-wiki/reagents/ligands/prost
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -347,13 +350,15 @@ The [Prostaglandin E2 (PGE2, Dinoprostone)](/xray-mp-wiki/reagents/ligands/prost
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GPTSSGED</span><span class="topo-outside">CGS</span><span class="topo-membrane">VSVAFPITMLLTGFVGNALAML</span><span class="topo-inside">LVSRSYR</span><span class="topo-unknown">RRESKRK</span><span class="topo-inside">KSFLLC</span><span class="topo-membrane">IGWLALT</span></span>
-<span class="topo-line"><span class="topo-membrane">DLVGQLLTTPVVIVVYL</span><span class="topo-outside">SK</span><span class="topo-unknown">Q</span><span class="topo-outside">RWEHIDPSG</span><span class="topo-membrane">RLCTFFGLTMTVFGLSSLFIASAMAV</span><span class="topo-inside">ERALA</span></span>
-<span class="topo-line"><span class="topo-inside">IRAPHWYASHMKTRITR</span><span class="topo-membrane">AVLLGVWLASLAFALLPVLGVGQYT</span><span class="topo-outside">VQWPGTWCFISTG</span><span class="topo-unknown">RGGQG</span></span>
-<span class="topo-line"><span class="topo-unknown">TSSSHNW</span><span class="topo-outside">G</span><span class="topo-membrane">NLFFASAFAFLGLLALTVTFSCNLATI</span><span class="topo-inside">KALVDRCRAKA</span><span class="topo-unknown">TASQSS</span><span class="topo-inside">AQWGRITT</span></span>
-<span class="topo-line"><span class="topo-inside">ETA</span><span class="topo-membrane">IQLMGIMLVLSVCWSPLLIMMLKMI</span><span class="topo-outside">F</span><span class="topo-unknown">QQTSVEHCKTHTEKQ</span><span class="topo-outside">KECNF</span><span class="topo-membrane">FLIAVRLASLN</span></span>
-<span class="topo-line"><span class="topo-membrane">QILDPWVYLLL</span><span class="topo-inside">RKILLRAKYG</span><span class="topo-unknown">QLELEVLFQADLEDNWETLNDNLKVIEKADNAAQVKDAL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GPTSSGED</span><span class="topo-outside">CGS</span><span class="topo-membrane">VSVAFPITMLLTGFVGNALAML</span><span class="topo-inside">LVSRSYR</span><span class="topo-unknown">RRESKRK</span><span class="topo-inside">KSFLLC</span><span class="topo-membrane">IGWLALTDLVGQLLTTPVVIVVYL</span><span class="topo-outside">SK</span><span class="topo-unknown">Q</span><span class="topo-outside">RWEHIDPSG</span><span class="topo-membrane">RLCTFFGLTMTVFGLSSLFIASAMAV</span><span class="topo-inside">ERALA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">IRAPHWYASHMKTRITR</span><span class="topo-membrane">AVLLGVWLASLAFALLPVLGVGQYT</span><span class="topo-outside">VQWPGTWCFISTG</span><span class="topo-unknown">RGGQGTSSSHNW</span><span class="topo-outside">G</span><span class="topo-membrane">NLFFASAFAFLGLLALTVTFSCNLATI</span><span class="topo-inside">KALVDRCRAKA</span><span class="topo-unknown">TASQSS</span><span class="topo-inside">AQWGRITT</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">ETA</span><span class="topo-membrane">IQLMGIMLVLSVCWSPLLIMMLKMI</span><span class="topo-outside">F</span><span class="topo-unknown">QQTSVEHCKTHTEKQ</span><span class="topo-outside">KECNF</span><span class="topo-membrane">FLIAVRLASLNQILDPWVYLLL</span><span class="topo-inside">RKILLRAKYG</span><span class="topo-unknown">QLELEVLFQADLEDNWETLNDNLKVIEKADNAAQVKDAL</span></span>
+<span class="topo-ruler">       370       380       390       400       410         </span>
 <span class="topo-line"><span class="topo-unknown">TKMRAAALDAGSGSGHGFDILVGQIDDALKLANEGKVKEAQAAAEQLKTTINAYIQKYG</span></span>
+<details class="topo-details"><summary>Topology coordinates (20 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -505,6 +510,7 @@ The [Prostaglandin E2 (PGE2, Dinoprostone)](/xray-mp-wiki/reagents/ligands/prost
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -520,13 +526,15 @@ The [Prostaglandin E2 (PGE2, Dinoprostone)](/xray-mp-wiki/reagents/ligands/prost
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GPTSSGED</span><span class="topo-outside">CGS</span><span class="topo-membrane">VSVAFPITMLLTGFVGNALAML</span><span class="topo-inside">LVSRS</span><span class="topo-unknown">Y</span><span class="topo-inside">R</span><span class="topo-unknown">RRESKRK</span><span class="topo-inside">KSFLLC</span><span class="topo-membrane">IGWLALT</span></span>
-<span class="topo-line"><span class="topo-membrane">DLVGQLLTTPVVIVVYL</span><span class="topo-outside">SK</span><span class="topo-unknown">Q</span><span class="topo-outside">RWEHIDP</span><span class="topo-unknown">S</span><span class="topo-outside">G</span><span class="topo-membrane">RLCTFFGLTMTVFGLSSLFIASAMAV</span><span class="topo-inside">ERALA</span></span>
-<span class="topo-line"><span class="topo-inside">IRAPHWYASHMKTRITR</span><span class="topo-membrane">AVLLGVWLASLAFALLPVLGVGQYT</span><span class="topo-outside">VQWPGTWCFISTG</span><span class="topo-unknown">RGGQG</span></span>
-<span class="topo-line"><span class="topo-unknown">TSSSHNW</span><span class="topo-outside">G</span><span class="topo-membrane">NLFFASAFAFLGLLALTVTFSCNLATI</span><span class="topo-inside">KALVDRCRAKA</span><span class="topo-unknown">TASQSS</span><span class="topo-inside">AQWGRITT</span></span>
-<span class="topo-line"><span class="topo-inside">ETA</span><span class="topo-membrane">IQLMGIMLVLSVCWSPLLIMMLKMI</span><span class="topo-outside">F</span><span class="topo-unknown">QQTSVEHCKTHTEKQ</span><span class="topo-outside">KECNF</span><span class="topo-membrane">FLIAVRLASLN</span></span>
-<span class="topo-line"><span class="topo-membrane">QILDPWVYLLL</span><span class="topo-inside">RKILLR</span><span class="topo-unknown">KFCQLELEVLFQADLEDNWETLNDNLKVIEKADNAAQVKDALT</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GPTSSGED</span><span class="topo-outside">CGS</span><span class="topo-membrane">VSVAFPITMLLTGFVGNALAML</span><span class="topo-inside">LVSRS</span><span class="topo-unknown">Y</span><span class="topo-inside">R</span><span class="topo-unknown">RRESKRK</span><span class="topo-inside">KSFLLC</span><span class="topo-membrane">IGWLALTDLVGQLLTTPVVIVVYL</span><span class="topo-outside">SK</span><span class="topo-unknown">Q</span><span class="topo-outside">RWEHIDP</span><span class="topo-unknown">S</span><span class="topo-outside">G</span><span class="topo-membrane">RLCTFFGLTMTVFGLSSLFIASAMAV</span><span class="topo-inside">ERALA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">IRAPHWYASHMKTRITR</span><span class="topo-membrane">AVLLGVWLASLAFALLPVLGVGQYT</span><span class="topo-outside">VQWPGTWCFISTG</span><span class="topo-unknown">RGGQGTSSSHNW</span><span class="topo-outside">G</span><span class="topo-membrane">NLFFASAFAFLGLLALTVTFSCNLATI</span><span class="topo-inside">KALVDRCRAKA</span><span class="topo-unknown">TASQSS</span><span class="topo-inside">AQWGRITT</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">ETA</span><span class="topo-membrane">IQLMGIMLVLSVCWSPLLIMMLKMI</span><span class="topo-outside">F</span><span class="topo-unknown">QQTSVEHCKTHTEKQ</span><span class="topo-outside">KECNF</span><span class="topo-membrane">FLIAVRLASLNQILDPWVYLLL</span><span class="topo-inside">RKILLR</span><span class="topo-unknown">KFCQLELEVLFQADLEDNWETLNDNLKVIEKADNAAQVKDALT</span></span>
+<span class="topo-ruler">       370       380       390       400       410        </span>
 <span class="topo-line"><span class="topo-unknown">KMRAAALDAGSGSGHGFDILVGQIDDALKLANEGKVKEAQAAAEQLKTTIN</span><span class="topo-inside">ADL</span><span class="topo-unknown">Q</span><span class="topo-inside">KYG</span></span>
+<details class="topo-details"><summary>Topology coordinates (24 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -706,6 +714,7 @@ The [Prostaglandin E2 (PGE2, Dinoprostone)](/xray-mp-wiki/reagents/ligands/prost
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

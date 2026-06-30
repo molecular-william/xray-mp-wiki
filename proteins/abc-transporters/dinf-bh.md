@@ -195,14 +195,15 @@ DinF-BH is a multidrug and toxic compound extrusion (MATE) family transporter fr
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">ME</span><span class="topo-outside">QKQQSERLGTEAIPKLL</span><span class="topo-membrane">RSLSIPAMIGMFVMALYNVVNTIF</span><span class="topo-inside">ISYAVGIEGVAGV</span><span class="topo-membrane">TIAF</span></span>
-<span class="topo-line"><span class="topo-membrane">PIMMIMMSMAGALGIGGA</span><span class="topo-outside">SVISRRLGERRGEEANQVFGNI</span><span class="topo-membrane">LTVILVLSVIGFISAFTLLG</span></span>
-<span class="topo-line"><span class="topo-membrane">PAL</span><span class="topo-inside">QLFGATSVTQGYA</span><span class="topo-membrane">TDYLFPILLGSIFFFFAFAANNIIRS</span><span class="topo-outside">EGN</span><span class="topo-membrane">ATFAMVTMIVPAVLN</span></span>
-<span class="topo-line"><span class="topo-membrane">ILLDVLFI</span><span class="topo-inside">FGLNMGV</span><span class="topo-membrane">LGASIATVIAQASVTGLVLRY</span><span class="topo-outside">FLTGKSTLSLHWSDLRMKGSVIKE</span></span>
-<span class="topo-line"><span class="topo-outside">V</span><span class="topo-membrane">CLVGLPAFVQQSSASLMMIAIN</span><span class="topo-inside">SMLLRFGSDFYVGVF</span><span class="topo-membrane">GLVQRIMMFVMMPMMGIMQAMQ</span></span>
-<span class="topo-line"><span class="topo-outside">PIVGYNYGAKQYSRLRETVMLG</span><span class="topo-membrane">FKVATIFSIGIFALLMLFPEALL</span><span class="topo-inside">RVFTADREVIQAGV</span><span class="topo-membrane">S</span></span>
-<span class="topo-line"><span class="topo-membrane">AMHILFCVTFLIGAQIVAGGLYQS</span><span class="topo-outside">LGKP</span><span class="topo-membrane">KQALILSLSRQIIFLIPLVLIL</span><span class="topo-inside">PHIFGLS</span><span class="topo-membrane">GVW</span></span>
-<span class="topo-line"><span class="topo-membrane">WAFPIADVLSFILTVVLL</span><span class="topo-outside">YRDRNVFFLK</span><span class="topo-unknown">TKEERELDLVKTASS</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">ME</span><span class="topo-outside">QKQQSERLGTEAIPKLL</span><span class="topo-membrane">RSLSIPAMIGMFVMALYNVVNTIF</span><span class="topo-inside">ISYAVGIEGVAGV</span><span class="topo-membrane">TIAFPIMMIMMSMAGALGIGGA</span><span class="topo-outside">SVISRRLGERRGEEANQVFGNI</span><span class="topo-membrane">LTVILVLSVIGFISAFTLLG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">PAL</span><span class="topo-inside">QLFGATSVTQGYA</span><span class="topo-membrane">TDYLFPILLGSIFFFFAFAANNIIRS</span><span class="topo-outside">EGN</span><span class="topo-membrane">ATFAMVTMIVPAVLNILLDVLFI</span><span class="topo-inside">FGLNMGV</span><span class="topo-membrane">LGASIATVIAQASVTGLVLRY</span><span class="topo-outside">FLTGKSTLSLHWSDLRMKGSVIKE</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">V</span><span class="topo-membrane">CLVGLPAFVQQSSASLMMIAIN</span><span class="topo-inside">SMLLRFGSDFYVGVF</span><span class="topo-membrane">GLVQRIMMFVMMPMMGIMQAMQ</span><span class="topo-outside">PIVGYNYGAKQYSRLRETVMLG</span><span class="topo-membrane">FKVATIFSIGIFALLMLFPEALL</span><span class="topo-inside">RVFTADREVIQAGV</span><span class="topo-membrane">S</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460   </span>
+<span class="topo-line"><span class="topo-membrane">AMHILFCVTFLIGAQIVAGGLYQS</span><span class="topo-outside">LGKP</span><span class="topo-membrane">KQALILSLSRQIIFLIPLVLIL</span><span class="topo-inside">PHIFGLS</span><span class="topo-membrane">GVWWAFPIADVLSFILTVVLL</span><span class="topo-outside">YRDRNVFFLK</span><span class="topo-unknown">TKEERELDLVKTASS</span></span>
+<details class="topo-details"><summary>Topology coordinates (25 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -389,6 +390,7 @@ DinF-BH is a multidrug and toxic compound extrusion (MATE) family transporter fr
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -404,14 +406,15 @@ DinF-BH is a multidrug and toxic compound extrusion (MATE) family transporter fr
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">ME</span><span class="topo-outside">QKQQSERLGTEAIPKLLRSLS</span><span class="topo-membrane">IPAMIGMFVMALYNVVDTIFI</span><span class="topo-inside">SYAVGIEGVAGV</span><span class="topo-membrane">TIAF</span></span>
-<span class="topo-line"><span class="topo-membrane">PIMMIMMSMAGALGIGGA</span><span class="topo-outside">SVISRRLGERRGEEANQVFGN</span><span class="topo-membrane">ILTVILVLSVIGFISAFTLL</span><span class="topo-inside">G</span></span>
-<span class="topo-line"><span class="topo-inside">PALQLFGATSVTQGYATD</span><span class="topo-membrane">YLFPILLGSIFFFFAFAANNIIR</span><span class="topo-outside">SEGNA</span><span class="topo-membrane">TFAMVTMIVPAVLN</span></span>
-<span class="topo-line"><span class="topo-membrane">ILLDVLFIFGL</span><span class="topo-inside">NMGV</span><span class="topo-membrane">LGASIATVIAQASVTGLVLR</span><span class="topo-outside">YFLTGKSTLSLHWSDLRMKGSVIKE</span></span>
-<span class="topo-line"><span class="topo-outside">V</span><span class="topo-membrane">CLVGLPAFVQQSSASLMMIAIN</span><span class="topo-inside">SMLLRFGSDFYVGVF</span><span class="topo-membrane">GLVQRIMMFVMMPMMGIMQA</span><span class="topo-outside">MQ</span></span>
-<span class="topo-line"><span class="topo-outside">PIVGYNYGAKQYSRLRETVMLG</span><span class="topo-membrane">FKVATIFSIGIFALLMLFPEALL</span><span class="topo-inside">RVFTADREVIQAGV</span><span class="topo-membrane">S</span></span>
-<span class="topo-line"><span class="topo-membrane">AMHILFCVTFLIGAQIVAGGLYQ</span><span class="topo-outside">SLGKP</span><span class="topo-membrane">KQALILSLSRQIIFLIPLVLIL</span><span class="topo-inside">PHIFGLSG</span><span class="topo-membrane">VW</span></span>
-<span class="topo-line"><span class="topo-membrane">WAFPIADVLSFILTVVLL</span><span class="topo-outside">YRDRNVFFLK</span><span class="topo-unknown">TKEERELDLVKTASST</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">ME</span><span class="topo-outside">QKQQSERLGTEAIPKLLRSLS</span><span class="topo-membrane">IPAMIGMFVMALYNVVDTIFI</span><span class="topo-inside">SYAVGIEGVAGV</span><span class="topo-membrane">TIAFPIMMIMMSMAGALGIGGA</span><span class="topo-outside">SVISRRLGERRGEEANQVFGN</span><span class="topo-membrane">ILTVILVLSVIGFISAFTLL</span><span class="topo-inside">G</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">PALQLFGATSVTQGYATD</span><span class="topo-membrane">YLFPILLGSIFFFFAFAANNIIR</span><span class="topo-outside">SEGNA</span><span class="topo-membrane">TFAMVTMIVPAVLNILLDVLFIFGL</span><span class="topo-inside">NMGV</span><span class="topo-membrane">LGASIATVIAQASVTGLVLR</span><span class="topo-outside">YFLTGKSTLSLHWSDLRMKGSVIKE</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">V</span><span class="topo-membrane">CLVGLPAFVQQSSASLMMIAIN</span><span class="topo-inside">SMLLRFGSDFYVGVF</span><span class="topo-membrane">GLVQRIMMFVMMPMMGIMQA</span><span class="topo-outside">MQPIVGYNYGAKQYSRLRETVMLG</span><span class="topo-membrane">FKVATIFSIGIFALLMLFPEALL</span><span class="topo-inside">RVFTADREVIQAGV</span><span class="topo-membrane">S</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460    </span>
+<span class="topo-line"><span class="topo-membrane">AMHILFCVTFLIGAQIVAGGLYQ</span><span class="topo-outside">SLGKP</span><span class="topo-membrane">KQALILSLSRQIIFLIPLVLIL</span><span class="topo-inside">PHIFGLSG</span><span class="topo-membrane">VWWAFPIADVLSFILTVVLL</span><span class="topo-outside">YRDRNVFFLK</span><span class="topo-unknown">TKEERELDLVKTASST</span></span>
+<details class="topo-details"><summary>Topology coordinates (25 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -598,6 +601,7 @@ DinF-BH is a multidrug and toxic compound extrusion (MATE) family transporter fr
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -842,14 +846,15 @@ DinF-BH is a multidrug and toxic compound extrusion (MATE) family transporter fr
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">QKQQSERLGTEAIPKLLR</span><span class="topo-membrane">SLSIPAMIGMFVMALYNVVDT</span><span class="topo-inside">IFISYAVGIEGVAGV</span><span class="topo-membrane">TIAFPI</span></span>
-<span class="topo-line"><span class="topo-membrane">MMIMMSMAGALGIGGA</span><span class="topo-outside">SVISRRLGERRGEEANQVF</span><span class="topo-membrane">GNILTVILVLSVIGFISAFTLL</span><span class="topo-inside">GPA</span></span>
-<span class="topo-line"><span class="topo-inside">LQLFGATSVTQGYATDY</span><span class="topo-membrane">LFPILLGSIFFFFAFAANNIIRS</span><span class="topo-outside">EGN</span><span class="topo-membrane">ATFAMVTMIVPAVLNIL</span></span>
-<span class="topo-line"><span class="topo-membrane">LDVLF</span><span class="topo-inside">IFGLNMGVLG</span><span class="topo-membrane">ASIATVIAQASVTGLVLRYF</span><span class="topo-outside">LTGKSTLSLHWSDLRMKGSVIKEV</span><span class="topo-membrane">C</span></span>
-<span class="topo-line"><span class="topo-membrane">LVGLPAFVQQSSASLMMIAI</span><span class="topo-inside">NSMLLRFGSDFYVGVF</span><span class="topo-membrane">GLVQRIMMFVMMPMMGIMQAMQ</span><span class="topo-outside">PI</span></span>
-<span class="topo-line"><span class="topo-outside">VGYNYGAKQYSRLRETVMLG</span><span class="topo-membrane">FKVATIFSIGIFALLMLFPEAL</span><span class="topo-inside">LRVFTADREVIQAGVS</span><span class="topo-membrane">AM</span></span>
-<span class="topo-line"><span class="topo-membrane">HILFCVTFLIGAQIVAGGLYQ</span><span class="topo-outside">SLGKP</span><span class="topo-membrane">KQALILSLSRQIIFLIPLVLIL</span><span class="topo-inside">PHIFGLS</span><span class="topo-membrane">GVWWA</span></span>
-<span class="topo-line"><span class="topo-membrane">FPIADVLSFILTVVLL</span><span class="topo-outside">YRDRNVFFLK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">QKQQSERLGTEAIPKLLR</span><span class="topo-membrane">SLSIPAMIGMFVMALYNVVDT</span><span class="topo-inside">IFISYAVGIEGVAGV</span><span class="topo-membrane">TIAFPIMMIMMSMAGALGIGGA</span><span class="topo-outside">SVISRRLGERRGEEANQVF</span><span class="topo-membrane">GNILTVILVLSVIGFISAFTLL</span><span class="topo-inside">GPA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">LQLFGATSVTQGYATDY</span><span class="topo-membrane">LFPILLGSIFFFFAFAANNIIRS</span><span class="topo-outside">EGN</span><span class="topo-membrane">ATFAMVTMIVPAVLNILLDVLF</span><span class="topo-inside">IFGLNMGVLG</span><span class="topo-membrane">ASIATVIAQASVTGLVLRYF</span><span class="topo-outside">LTGKSTLSLHWSDLRMKGSVIKEV</span><span class="topo-membrane">C</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">LVGLPAFVQQSSASLMMIAI</span><span class="topo-inside">NSMLLRFGSDFYVGVF</span><span class="topo-membrane">GLVQRIMMFVMMPMMGIMQAMQ</span><span class="topo-outside">PIVGYNYGAKQYSRLRETVMLG</span><span class="topo-membrane">FKVATIFSIGIFALLMLFPEAL</span><span class="topo-inside">LRVFTADREVIQAGVS</span><span class="topo-membrane">AM</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440      </span>
+<span class="topo-line"><span class="topo-membrane">HILFCVTFLIGAQIVAGGLYQ</span><span class="topo-outside">SLGKP</span><span class="topo-membrane">KQALILSLSRQIIFLIPLVLIL</span><span class="topo-inside">PHIFGLS</span><span class="topo-membrane">GVWWAFPIADVLSFILTVVLL</span><span class="topo-outside">YRDRNVFFLK</span></span>
+<details class="topo-details"><summary>Topology coordinates (25 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1036,6 +1041,7 @@ DinF-BH is a multidrug and toxic compound extrusion (MATE) family transporter fr
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1051,14 +1057,15 @@ DinF-BH is a multidrug and toxic compound extrusion (MATE) family transporter fr
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">QKQQSERLGTEAIPKLLRSLSI</span><span class="topo-membrane">PAMIGMFVMALYNVV</span><span class="topo-inside">DTIFISYAVGIEGVAGVTIA</span><span class="topo-membrane">FPI</span></span>
-<span class="topo-line"><span class="topo-membrane">MMIMMSMAGALG</span><span class="topo-outside">IGGASVISRRLGERRGEEANQVFGNILT</span><span class="topo-membrane">VILVLSVIGFISAFT</span><span class="topo-inside">LLGPA</span></span>
-<span class="topo-line"><span class="topo-inside">LQLFGATSVTQGYATDYLF</span><span class="topo-membrane">PILLGSIFFFFAFAAN</span><span class="topo-outside">NIIRSEGNATF</span><span class="topo-membrane">AMVTMIVPAVLNIL</span></span>
-<span class="topo-line"><span class="topo-membrane">L</span><span class="topo-inside">DVLFIFGLNMGVLGAS</span><span class="topo-membrane">IATVIAQASVTGLV</span><span class="topo-outside">LRYFLTGKSTLSLHWSDLRMKGSVIKEVC</span></span>
-<span class="topo-line"><span class="topo-outside">LVG</span><span class="topo-membrane">LPAFVQQSSASLMM</span><span class="topo-inside">IAINSMLLRFGSDFYVGVFGLV</span><span class="topo-membrane">QRIMMFVMMPMMG</span><span class="topo-outside">IMQAMQPI</span></span>
-<span class="topo-line"><span class="topo-outside">VGYNYGAKQYSRLRETVMLGFKV</span><span class="topo-membrane">ATIFSIGIFALLMLFP</span><span class="topo-inside">EALLRVFTADREVIQAGVSAM</span></span>
-<span class="topo-line"><span class="topo-membrane">HILFCVTFLIGAQI</span><span class="topo-outside">VAGGLYQSLGKPKQA</span><span class="topo-membrane">LILSLSRQIIFLIPLVLI</span><span class="topo-inside">LPHIFGLSGV</span><span class="topo-membrane">WWA</span></span>
-<span class="topo-line"><span class="topo-membrane">FPIADVLSFIL</span><span class="topo-outside">TVVLLYRDRNVFFLK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">QKQQSERLGTEAIPKLLRSLSI</span><span class="topo-membrane">PAMIGMFVMALYNVV</span><span class="topo-inside">DTIFISYAVGIEGVAGVTIA</span><span class="topo-membrane">FPIMMIMMSMAGALG</span><span class="topo-outside">IGGASVISRRLGERRGEEANQVFGNILT</span><span class="topo-membrane">VILVLSVIGFISAFT</span><span class="topo-inside">LLGPA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">LQLFGATSVTQGYATDYLF</span><span class="topo-membrane">PILLGSIFFFFAFAAN</span><span class="topo-outside">NIIRSEGNATF</span><span class="topo-membrane">AMVTMIVPAVLNILL</span><span class="topo-inside">DVLFIFGLNMGVLGAS</span><span class="topo-membrane">IATVIAQASVTGLV</span><span class="topo-outside">LRYFLTGKSTLSLHWSDLRMKGSVIKEVC</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">LVG</span><span class="topo-membrane">LPAFVQQSSASLMM</span><span class="topo-inside">IAINSMLLRFGSDFYVGVFGLV</span><span class="topo-membrane">QRIMMFVMMPMMG</span><span class="topo-outside">IMQAMQPIVGYNYGAKQYSRLRETVMLGFKV</span><span class="topo-membrane">ATIFSIGIFALLMLFP</span><span class="topo-inside">EALLRVFTADREVIQAGVSAM</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440      </span>
+<span class="topo-line"><span class="topo-membrane">HILFCVTFLIGAQI</span><span class="topo-outside">VAGGLYQSLGKPKQA</span><span class="topo-membrane">LILSLSRQIIFLIPLVLI</span><span class="topo-inside">LPHIFGLSGV</span><span class="topo-membrane">WWAFPIADVLSFIL</span><span class="topo-outside">TVVLLYRDRNVFFLK</span></span>
+<details class="topo-details"><summary>Topology coordinates (25 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1245,6 +1252,7 @@ DinF-BH is a multidrug and toxic compound extrusion (MATE) family transporter fr
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

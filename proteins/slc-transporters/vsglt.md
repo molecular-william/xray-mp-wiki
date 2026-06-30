@@ -119,15 +119,17 @@ V. parahaemolyticus Sodium-Galactose Transporter (vSGLT) is a secondary active t
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">UUUUU</span><span class="topo-membrane">UUUUUUUUUUUU</span><span class="topo-outside">AGKSLPWW</span><span class="topo-membrane">AVGASLIAANISAEQFIGM</span><span class="topo-inside">SGSGYSIGLAI</span><span class="topo-membrane">ASYEW</span></span>
-<span class="topo-line"><span class="topo-membrane">MSAITLIIV</span><span class="topo-outside">GKYFLPIFIEKGIYTIPEFVEKRFNKKLKTI</span><span class="topo-membrane">LAVFWISLYIFVNLTSVLYL</span></span>
-<span class="topo-line"><span class="topo-membrane">G</span><span class="topo-inside">GLALETILGIPLMYSI</span><span class="topo-membrane">LGLALFALVYSI</span><span class="topo-unknown">YGGLSA</span><span class="topo-outside">V</span><span class="topo-membrane">VWTDVIQVFFLVLGGF</span><span class="topo-inside">MTTYMAVS</span></span>
-<span class="topo-line"><span class="topo-inside">FIGGTDGWFAGVSKMVDAAPGHFEMILDQSNPQYMNLPGI</span><span class="topo-membrane">AVLIGGLWVANLYYWGFNQ</span><span class="topo-outside">Y</span></span>
-<span class="topo-line"><span class="topo-outside">IIQRTLAAKSVSEAQKG</span><span class="topo-membrane">IVFAAFLKLIVPFLV</span><span class="topo-inside">VLPGIAAYVITSDPQLMASLGDIAATNL</span></span>
-<span class="topo-line"><span class="topo-inside">PSAANADKAYPWLTQFLPVGVKG</span><span class="topo-membrane">VVFAALAAAIVSSLASMLNSTATIF</span><span class="topo-outside">TMDIYKEYISPD</span></span>
-<span class="topo-line"><span class="topo-outside">SGDHKLVNVG</span><span class="topo-membrane">RTAAVVALIIACLIA</span><span class="topo-inside">PMLGGIGQAF</span><span class="topo-membrane">QYIQEYTGLVSPGILAV</span><span class="topo-outside">FLLGLFWK</span></span>
-<span class="topo-line"><span class="topo-outside">KTTSKGAII</span><span class="topo-membrane">GVVASIPFALFLKF</span><span class="topo-inside">MPLSMP</span><span class="topo-membrane">FMDQMLYTLLFTMVVI</span><span class="topo-outside">AFTSLSTSINDDDPK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">UUUUU</span><span class="topo-membrane">UUUUUUUUUUUU</span><span class="topo-outside">AGKSLPWW</span><span class="topo-membrane">AVGASLIAANISAEQFIGM</span><span class="topo-inside">SGSGYSIGLAI</span><span class="topo-membrane">ASYEWMSAITLIIV</span><span class="topo-outside">GKYFLPIFIEKGIYTIPEFVEKRFNKKLKTI</span><span class="topo-membrane">LAVFWISLYIFVNLTSVLYL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">G</span><span class="topo-inside">GLALETILGIPLMYSI</span><span class="topo-membrane">LGLALFALVYSI</span><span class="topo-unknown">YGGLSA</span><span class="topo-outside">V</span><span class="topo-membrane">VWTDVIQVFFLVLGGF</span><span class="topo-inside">MTTYMAVSFIGGTDGWFAGVSKMVDAAPGHFEMILDQSNPQYMNLPGI</span><span class="topo-membrane">AVLIGGLWVANLYYWGFNQ</span><span class="topo-outside">Y</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">IIQRTLAAKSVSEAQKG</span><span class="topo-membrane">IVFAAFLKLIVPFLV</span><span class="topo-inside">VLPGIAAYVITSDPQLMASLGDIAATNLPSAANADKAYPWLTQFLPVGVKG</span><span class="topo-membrane">VVFAALAAAIVSSLASMLNSTATIF</span><span class="topo-outside">TMDIYKEYISPD</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">SGDHKLVNVG</span><span class="topo-membrane">RTAAVVALIIACLIA</span><span class="topo-inside">PMLGGIGQAF</span><span class="topo-membrane">QYIQEYTGLVSPGILAV</span><span class="topo-outside">FLLGLFWKKTTSKGAII</span><span class="topo-membrane">GVVASIPFALFLKF</span><span class="topo-inside">MPLSMP</span><span class="topo-membrane">FMDQMLYTLLFTMVVI</span><span class="topo-outside">AFTSLSTSINDDDPK</span></span>
+<span class="topo-ruler">       490       500       510       520       530</span>
 <span class="topo-line"><span class="topo-outside">GISVTSSMFVTDRSFNI</span><span class="topo-membrane">AAYGIMIVLAVLYTL</span><span class="topo-inside">FWVLYK</span><span class="topo-unknown">SGGSPGHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (31 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -356,6 +358,7 @@ V. parahaemolyticus Sodium-Galactose Transporter (vSGLT) is a secondary active t
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -371,15 +374,17 @@ V. parahaemolyticus Sodium-Galactose Transporter (vSGLT) is a secondary active t
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">UUUUU</span><span class="topo-membrane">UUUUUUUUUUUU</span><span class="topo-outside">AGKSLPWWAVG</span><span class="topo-membrane">ASLIAANISAEQFIGM</span><span class="topo-inside">SGSGYSIGLAI</span><span class="topo-membrane">ASYEW</span></span>
-<span class="topo-line"><span class="topo-membrane">MSAITLIIV</span><span class="topo-outside">GKYFLPIFIEKGIYTIPEFVEKRFNKKLKTI</span><span class="topo-membrane">LAVFWISLYIFVNLTSVLYL</span></span>
-<span class="topo-line"><span class="topo-membrane">G</span><span class="topo-inside">GLALETILGIPLMYSI</span><span class="topo-membrane">LGLALFALVYSI</span><span class="topo-unknown">YGGLSA</span><span class="topo-outside">V</span><span class="topo-membrane">VWTDVIQVFFLVLGGF</span><span class="topo-inside">MTTYMAVS</span></span>
-<span class="topo-line"><span class="topo-inside">FIGGTDGWFAGVSKMVDAAPGHFEMILDQSNPQYMNLPGI</span><span class="topo-membrane">AVLIGGLWVANLYYWGFNQ</span><span class="topo-outside">Y</span></span>
-<span class="topo-line"><span class="topo-outside">IIQRTLAAKSVSEAQKG</span><span class="topo-membrane">IVFAAFLKLIVPFLV</span><span class="topo-inside">VLPGIAAYVITSDPQLMASLGDIAATNL</span></span>
-<span class="topo-line"><span class="topo-inside">PSAANAD</span><span class="topo-unknown">KAYPWLT</span><span class="topo-inside">QFLPVGVKG</span><span class="topo-membrane">VVFAALAAAIVSSLASMLNSTATIF</span><span class="topo-outside">TMDIYKEYISPD</span></span>
-<span class="topo-line"><span class="topo-outside">SGDHKLVNVG</span><span class="topo-membrane">RTAAVVALIIACLIA</span><span class="topo-inside">PMLGGIGQAF</span><span class="topo-membrane">QYIQEYTGLVSPGILAV</span><span class="topo-outside">FLLGLFWK</span></span>
-<span class="topo-line"><span class="topo-outside">KTTSKGAII</span><span class="topo-membrane">GVVASIPFALFLKF</span><span class="topo-inside">MPLSMP</span><span class="topo-membrane">FMDQMLYTLLFTMVVI</span><span class="topo-outside">AFTSLSTSINDDDPK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">UUUUU</span><span class="topo-membrane">UUUUUUUUUUUU</span><span class="topo-outside">AGKSLPWWAVG</span><span class="topo-membrane">ASLIAANISAEQFIGM</span><span class="topo-inside">SGSGYSIGLAI</span><span class="topo-membrane">ASYEWMSAITLIIV</span><span class="topo-outside">GKYFLPIFIEKGIYTIPEFVEKRFNKKLKTI</span><span class="topo-membrane">LAVFWISLYIFVNLTSVLYL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">G</span><span class="topo-inside">GLALETILGIPLMYSI</span><span class="topo-membrane">LGLALFALVYSI</span><span class="topo-unknown">YGGLSA</span><span class="topo-outside">V</span><span class="topo-membrane">VWTDVIQVFFLVLGGF</span><span class="topo-inside">MTTYMAVSFIGGTDGWFAGVSKMVDAAPGHFEMILDQSNPQYMNLPGI</span><span class="topo-membrane">AVLIGGLWVANLYYWGFNQ</span><span class="topo-outside">Y</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">IIQRTLAAKSVSEAQKG</span><span class="topo-membrane">IVFAAFLKLIVPFLV</span><span class="topo-inside">VLPGIAAYVITSDPQLMASLGDIAATNLPSAANAD</span><span class="topo-unknown">KAYPWLT</span><span class="topo-inside">QFLPVGVKG</span><span class="topo-membrane">VVFAALAAAIVSSLASMLNSTATIF</span><span class="topo-outside">TMDIYKEYISPD</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">SGDHKLVNVG</span><span class="topo-membrane">RTAAVVALIIACLIA</span><span class="topo-inside">PMLGGIGQAF</span><span class="topo-membrane">QYIQEYTGLVSPGILAV</span><span class="topo-outside">FLLGLFWKKTTSKGAII</span><span class="topo-membrane">GVVASIPFALFLKF</span><span class="topo-inside">MPLSMP</span><span class="topo-membrane">FMDQMLYTLLFTMVVI</span><span class="topo-outside">AFTSLSTSINDDDPK</span></span>
+<span class="topo-ruler">       490       500       510       520       530</span>
 <span class="topo-line"><span class="topo-outside">GISVTSSMFVTDRSFNI</span><span class="topo-membrane">AAYGIMIVLAVLYTL</span><span class="topo-inside">FWVLYK</span><span class="topo-unknown">SGGSPGHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (33 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -622,6 +627,7 @@ V. parahaemolyticus Sodium-Galactose Transporter (vSGLT) is a secondary active t
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

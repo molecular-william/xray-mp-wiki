@@ -146,10 +146,11 @@ verified: false
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGSSHHHHHHSSGLVPRGSH</span><span class="topo-outside">MNI</span><span class="topo-membrane">PNQITVFRVVLIPVFILFAL</span><span class="topo-inside">VDFGFGNVSFLGGYEIR</span></span>
-<span class="topo-line"><span class="topo-inside">IELLI</span><span class="topo-membrane">SGFIFILASLSDFVDGYL</span><span class="topo-outside">ARKWNLVTNMGKFL</span><span class="topo-membrane">DPLADKLLVASALIVLVQ</span><span class="topo-inside">LGLT</span><span class="topo-membrane">N</span></span>
-<span class="topo-line"><span class="topo-membrane">SVVAIIIIAREFAVTG</span><span class="topo-outside">LRLLQIEQGFVSAA</span><span class="topo-membrane">GQLGKIKTAVTMVAITWLLL</span><span class="topo-inside">GDPLATLIGL</span></span>
-<span class="topo-line"><span class="topo-inside">SL</span><span class="topo-membrane">GQILLYIGVIFTILSGIEYF</span><span class="topo-outside">YKGRDVFK</span><span class="topo-unknown">QK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGSSHHHHHHSSGLVPRGSH</span><span class="topo-outside">MNI</span><span class="topo-membrane">PNQITVFRVVLIPVFILFAL</span><span class="topo-inside">VDFGFGNVSFLGGYEIRIELLI</span><span class="topo-membrane">SGFIFILASLSDFVDGYL</span><span class="topo-outside">ARKWNLVTNMGKFL</span><span class="topo-membrane">DPLADKLLVASALIVLVQ</span><span class="topo-inside">LGLT</span><span class="topo-membrane">N</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210  </span>
+<span class="topo-line"><span class="topo-membrane">SVVAIIIIAREFAVTG</span><span class="topo-outside">LRLLQIEQGFVSAA</span><span class="topo-membrane">GQLGKIKTAVTMVAITWLLL</span><span class="topo-inside">GDPLATLIGLSL</span><span class="topo-membrane">GQILLYIGVIFTILSGIEYF</span><span class="topo-outside">YKGRDVFK</span><span class="topo-unknown">QK</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -266,6 +267,7 @@ verified: false
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -281,10 +283,11 @@ verified: false
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGSSHHHHHHSSGLVPRGSH</span><span class="topo-outside">MNI</span><span class="topo-membrane">PNQITVFRVVLIPVFILFAL</span><span class="topo-inside">VDFGFGNVSFLGGYEIR</span></span>
-<span class="topo-line"><span class="topo-inside">IELLI</span><span class="topo-membrane">SGFIFILASLSDFVDGYL</span><span class="topo-outside">ARKWNLVTNMGKFL</span><span class="topo-membrane">DPLADKLLVASALIVLVQ</span><span class="topo-inside">LGLT</span><span class="topo-membrane">N</span></span>
-<span class="topo-line"><span class="topo-membrane">SVVAIIIIAREFAVTGL</span><span class="topo-outside">RLLQIEQGFVSAA</span><span class="topo-membrane">GQLGKIKTAVTMVAITWLLL</span><span class="topo-inside">GDPLATLIGL</span></span>
-<span class="topo-line"><span class="topo-inside">SL</span><span class="topo-membrane">GQILLYIGVIFTILSGIEYF</span><span class="topo-outside">YKGR</span><span class="topo-unknown">DVFKQK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGSSHHHHHHSSGLVPRGSH</span><span class="topo-outside">MNI</span><span class="topo-membrane">PNQITVFRVVLIPVFILFAL</span><span class="topo-inside">VDFGFGNVSFLGGYEIRIELLI</span><span class="topo-membrane">SGFIFILASLSDFVDGYL</span><span class="topo-outside">ARKWNLVTNMGKFL</span><span class="topo-membrane">DPLADKLLVASALIVLVQ</span><span class="topo-inside">LGLT</span><span class="topo-membrane">N</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210  </span>
+<span class="topo-line"><span class="topo-membrane">SVVAIIIIAREFAVTGL</span><span class="topo-outside">RLLQIEQGFVSAA</span><span class="topo-membrane">GQLGKIKTAVTMVAITWLLL</span><span class="topo-inside">GDPLATLIGLSL</span><span class="topo-membrane">GQILLYIGVIFTILSGIEYF</span><span class="topo-outside">YKGR</span><span class="topo-unknown">DVFKQK</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -401,6 +404,7 @@ verified: false
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -416,10 +420,11 @@ verified: false
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGSSHHHHHHSSGLVPRGSHM</span><span class="topo-outside">NIPNQ</span><span class="topo-membrane">ITVFRVVLIPVFILFAL</span><span class="topo-inside">VDFGFGNVSFLGGYEIR</span></span>
-<span class="topo-line"><span class="topo-inside">IELL</span><span class="topo-membrane">ISGFIFILASLSDFVDGYL</span><span class="topo-outside">ARKWNLVTNMGKFL</span><span class="topo-membrane">DPLADKLLVASALIVLVQ</span><span class="topo-inside">LGLT</span><span class="topo-membrane">N</span></span>
-<span class="topo-line"><span class="topo-membrane">SVVAIIIIAREFAVT</span><span class="topo-outside">GLRLLQIEQGFVSAAGQ</span><span class="topo-membrane">LGKIKTAVTMVAITWLLL</span><span class="topo-inside">GDPLATLIGL</span></span>
-<span class="topo-line"><span class="topo-inside">SL</span><span class="topo-membrane">GQILLYIGVIFTILSGIE</span><span class="topo-outside">YFYKG</span><span class="topo-unknown">RDVFKQK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGSSHHHHHHSSGLVPRGSHM</span><span class="topo-outside">NIPNQ</span><span class="topo-membrane">ITVFRVVLIPVFILFAL</span><span class="topo-inside">VDFGFGNVSFLGGYEIRIELL</span><span class="topo-membrane">ISGFIFILASLSDFVDGYL</span><span class="topo-outside">ARKWNLVTNMGKFL</span><span class="topo-membrane">DPLADKLLVASALIVLVQ</span><span class="topo-inside">LGLT</span><span class="topo-membrane">N</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210  </span>
+<span class="topo-line"><span class="topo-membrane">SVVAIIIIAREFAVT</span><span class="topo-outside">GLRLLQIEQGFVSAAGQ</span><span class="topo-membrane">LGKIKTAVTMVAITWLLL</span><span class="topo-inside">GDPLATLIGLSL</span><span class="topo-membrane">GQILLYIGVIFTILSGIE</span><span class="topo-outside">YFYKG</span><span class="topo-unknown">RDVFKQK</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -536,6 +541,7 @@ verified: false
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -551,10 +557,11 @@ verified: false
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGSSHHHHHHSSGLVPRGSH</span><span class="topo-outside">MNIPNQ</span><span class="topo-membrane">ITVFRVVLIPVFILFAL</span><span class="topo-inside">VDFGFGNVSFLGGYEIR</span></span>
-<span class="topo-line"><span class="topo-inside">IELL</span><span class="topo-membrane">ISGFIFILASLSDFVDGYL</span><span class="topo-outside">ARKWNLVTNMGKFL</span><span class="topo-membrane">DPLADKLLVASALIVLVQ</span><span class="topo-inside">LGLT</span><span class="topo-membrane">N</span></span>
-<span class="topo-line"><span class="topo-membrane">SVVAIIIIAREFAVT</span><span class="topo-outside">GLRLLQIEQGFVSAAGQ</span><span class="topo-membrane">LGKIKTAVTMVAITWLLL</span><span class="topo-inside">GDPLATLIGL</span></span>
-<span class="topo-line"><span class="topo-inside">SL</span><span class="topo-membrane">GQILLYIGVIFTILSGIE</span><span class="topo-outside">YFYKG</span><span class="topo-unknown">RDVFKQK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGSSHHHHHHSSGLVPRGSH</span><span class="topo-outside">MNIPNQ</span><span class="topo-membrane">ITVFRVVLIPVFILFAL</span><span class="topo-inside">VDFGFGNVSFLGGYEIRIELL</span><span class="topo-membrane">ISGFIFILASLSDFVDGYL</span><span class="topo-outside">ARKWNLVTNMGKFL</span><span class="topo-membrane">DPLADKLLVASALIVLVQ</span><span class="topo-inside">LGLT</span><span class="topo-membrane">N</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210  </span>
+<span class="topo-line"><span class="topo-membrane">SVVAIIIIAREFAVT</span><span class="topo-outside">GLRLLQIEQGFVSAAGQ</span><span class="topo-membrane">LGKIKTAVTMVAITWLLL</span><span class="topo-inside">GDPLATLIGLSL</span><span class="topo-membrane">GQILLYIGVIFTILSGIE</span><span class="topo-outside">YFYKG</span><span class="topo-unknown">RDVFKQK</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -671,6 +678,7 @@ verified: false
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

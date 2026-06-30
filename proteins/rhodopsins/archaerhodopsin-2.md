@@ -85,11 +85,13 @@ Archaerhodopsin-2 (aR2) is a light-driven proton pump found in the claret
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">QAGF</span><span class="topo-outside">DLLNDGRPET</span><span class="topo-membrane">LWLGIGTLLMLIGTFYFIARGWG</span><span class="topo-inside">VTDKEAR</span><span class="topo-membrane">EYYAITILVPGIASAA</span></span>
-<span class="topo-line"><span class="topo-membrane">YLAMFF</span><span class="topo-outside">GIGVTEVELASGTVLDI</span><span class="topo-membrane">YYARYADWLFTTPLLLLDLALL</span><span class="topo-inside">AKVDR</span><span class="topo-membrane">VTIGTLIGVD</span></span>
-<span class="topo-line"><span class="topo-membrane">ALMIVTGLIGAL</span><span class="topo-outside">SKTPLA</span><span class="topo-membrane">RYTWWLFSTIAFLFVLYYLLTSLR</span><span class="topo-inside">SAAAKRSEEVRST</span><span class="topo-membrane">FNTLT</span></span>
-<span class="topo-line"><span class="topo-membrane">ALVAVLWTAYPILWIVG</span><span class="topo-outside">TEGAGVVGLGI</span><span class="topo-membrane">ETLAFMVLDVTAKVGFGFVLLRS</span><span class="topo-inside">RAILGE</span><span class="topo-unknown">TEA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">QAGF</span><span class="topo-outside">DLLNDGRPET</span><span class="topo-membrane">LWLGIGTLLMLIGTFYFIARGWG</span><span class="topo-inside">VTDKEAR</span><span class="topo-membrane">EYYAITILVPGIASAAYLAMFF</span><span class="topo-outside">GIGVTEVELASGTVLDI</span><span class="topo-membrane">YYARYADWLFTTPLLLLDLALL</span><span class="topo-inside">AKVDR</span><span class="topo-membrane">VTIGTLIGVD</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">ALMIVTGLIGAL</span><span class="topo-outside">SKTPLA</span><span class="topo-membrane">RYTWWLFSTIAFLFVLYYLLTSLR</span><span class="topo-inside">SAAAKRSEEVRST</span><span class="topo-membrane">FNTLTALVAVLWTAYPILWIVG</span><span class="topo-outside">TEGAGVVGLGI</span><span class="topo-membrane">ETLAFMVLDVTAKVGFGFVLLRS</span><span class="topo-inside">RAILGE</span><span class="topo-unknown">TEA</span></span>
+<span class="topo-ruler">       250   </span>
 <span class="topo-line"><span class="topo-unknown">PEPSAGADASAAD</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -220,6 +222,7 @@ Archaerhodopsin-2 (aR2) is a light-driven proton pump found in the claret
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -235,11 +238,13 @@ Archaerhodopsin-2 (aR2) is a light-driven proton pump found in the claret
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">QAGF</span><span class="topo-outside">DLLNDGRPET</span><span class="topo-membrane">LWLGIGTLLMLIGTFYFIARGWG</span><span class="topo-inside">VTDKEAR</span><span class="topo-membrane">EYYAITILVPGIASAA</span></span>
-<span class="topo-line"><span class="topo-membrane">YLAMFF</span><span class="topo-outside">GIGVTEVELASGTVLDI</span><span class="topo-membrane">YYARYADWLFTTPLLLLDLALL</span><span class="topo-inside">AKVDR</span><span class="topo-membrane">VTIGTLIGVD</span></span>
-<span class="topo-line"><span class="topo-membrane">ALMIVTGLIGAL</span><span class="topo-outside">SKTPLA</span><span class="topo-membrane">RYTWWLFSTIAFLFVLYYLLTSLR</span><span class="topo-inside">SAAAKRSEEVRST</span><span class="topo-membrane">FNTLT</span></span>
-<span class="topo-line"><span class="topo-membrane">ALVAVLWTAYPILWIVG</span><span class="topo-outside">TEGAGVVGLGI</span><span class="topo-membrane">ETLAFMVLDVTAKVGFGFVLLRS</span><span class="topo-inside">RAILGE</span><span class="topo-unknown">TEA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">QAGF</span><span class="topo-outside">DLLNDGRPET</span><span class="topo-membrane">LWLGIGTLLMLIGTFYFIARGWG</span><span class="topo-inside">VTDKEAR</span><span class="topo-membrane">EYYAITILVPGIASAAYLAMFF</span><span class="topo-outside">GIGVTEVELASGTVLDI</span><span class="topo-membrane">YYARYADWLFTTPLLLLDLALL</span><span class="topo-inside">AKVDR</span><span class="topo-membrane">VTIGTLIGVD</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">ALMIVTGLIGAL</span><span class="topo-outside">SKTPLA</span><span class="topo-membrane">RYTWWLFSTIAFLFVLYYLLTSLR</span><span class="topo-inside">SAAAKRSEEVRST</span><span class="topo-membrane">FNTLTALVAVLWTAYPILWIVG</span><span class="topo-outside">TEGAGVVGLGI</span><span class="topo-membrane">ETLAFMVLDVTAKVGFGFVLLRS</span><span class="topo-inside">RAILGE</span><span class="topo-unknown">TEA</span></span>
+<span class="topo-ruler">       250   </span>
 <span class="topo-line"><span class="topo-unknown">PEPSAGADASAAD</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -370,6 +375,7 @@ Archaerhodopsin-2 (aR2) is a light-driven proton pump found in the claret
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -385,11 +391,13 @@ Archaerhodopsin-2 (aR2) is a light-driven proton pump found in the claret
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">QAGF</span><span class="topo-outside">DLLNDGRPET</span><span class="topo-membrane">LWLGIGTLLMLIGTFYFIARGWG</span><span class="topo-inside">VTDKEAR</span><span class="topo-membrane">EYYAITILVPGIASAA</span></span>
-<span class="topo-line"><span class="topo-membrane">YLAMFF</span><span class="topo-outside">GIGVTEVELASGTVLDI</span><span class="topo-membrane">YYARYADWLFTTPLLLLDLALL</span><span class="topo-inside">AKVDR</span><span class="topo-membrane">VTIGTLIGVD</span></span>
-<span class="topo-line"><span class="topo-membrane">ALMIVTGLIGAL</span><span class="topo-outside">SKTPLA</span><span class="topo-membrane">RYTWWLFSTIAFLFVLYYLLTSLR</span><span class="topo-inside">SAAAKRSEEVRST</span><span class="topo-membrane">FNTLT</span></span>
-<span class="topo-line"><span class="topo-membrane">ALVAVLWTAYPILWIVG</span><span class="topo-outside">TEGAGVVGLGI</span><span class="topo-membrane">ETLAFMVLDVTAKVGFGFVLLRS</span><span class="topo-inside">RAILGE</span><span class="topo-unknown">TEA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">QAGF</span><span class="topo-outside">DLLNDGRPET</span><span class="topo-membrane">LWLGIGTLLMLIGTFYFIARGWG</span><span class="topo-inside">VTDKEAR</span><span class="topo-membrane">EYYAITILVPGIASAAYLAMFF</span><span class="topo-outside">GIGVTEVELASGTVLDI</span><span class="topo-membrane">YYARYADWLFTTPLLLLDLALL</span><span class="topo-inside">AKVDR</span><span class="topo-membrane">VTIGTLIGVD</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">ALMIVTGLIGAL</span><span class="topo-outside">SKTPLA</span><span class="topo-membrane">RYTWWLFSTIAFLFVLYYLLTSLR</span><span class="topo-inside">SAAAKRSEEVRST</span><span class="topo-membrane">FNTLTALVAVLWTAYPILWIVG</span><span class="topo-outside">TEGAGVVGLGI</span><span class="topo-membrane">ETLAFMVLDVTAKVGFGFVLLRS</span><span class="topo-inside">RAILGE</span><span class="topo-unknown">TEA</span></span>
+<span class="topo-ruler">       250   </span>
 <span class="topo-line"><span class="topo-unknown">PEPSAGADASAAD</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -520,6 +528,7 @@ Archaerhodopsin-2 (aR2) is a light-driven proton pump found in the claret
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -562,11 +571,13 @@ Archaerhodopsin-2 (aR2) is a light-driven proton pump found in the claret
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MDPIAL</span><span class="topo-outside">QAGFDLLNDGRPET</span><span class="topo-membrane">LWLGIGTLLMLIGTFYFI</span><span class="topo-inside">ARGWGVTDKEAREYYAIT</span><span class="topo-membrane">ILVP</span></span>
-<span class="topo-line"><span class="topo-membrane">GIASAAYLAMFF</span><span class="topo-outside">GIGVTEVELASGTVLDI</span><span class="topo-membrane">YYARYADWLFTTPLLL</span><span class="topo-inside">LDLALLAKVDRVTIG</span></span>
-<span class="topo-line"><span class="topo-inside">TL</span><span class="topo-membrane">IGVDALMIVTGLIGALS</span><span class="topo-outside">KTPL</span><span class="topo-membrane">ARYTWWLFSTIAFLFVLY</span><span class="topo-inside">YLLTSLRSAAAKRSEEVRS</span></span>
-<span class="topo-line"><span class="topo-inside">TFNTLTA</span><span class="topo-membrane">LVAVLWTAYPILWIVG</span><span class="topo-outside">TEGAGVVGLGI</span><span class="topo-membrane">ETLAFMVLDVTAKVGFGF</span><span class="topo-inside">VLLRSRAI</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MDPIAL</span><span class="topo-outside">QAGFDLLNDGRPET</span><span class="topo-membrane">LWLGIGTLLMLIGTFYFI</span><span class="topo-inside">ARGWGVTDKEAREYYAIT</span><span class="topo-membrane">ILVPGIASAAYLAMFF</span><span class="topo-outside">GIGVTEVELASGTVLDI</span><span class="topo-membrane">YYARYADWLFTTPLLL</span><span class="topo-inside">LDLALLAKVDRVTIG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">TL</span><span class="topo-membrane">IGVDALMIVTGLIGALS</span><span class="topo-outside">KTPL</span><span class="topo-membrane">ARYTWWLFSTIAFLFVLY</span><span class="topo-inside">YLLTSLRSAAAKRSEEVRSTFNTLTA</span><span class="topo-membrane">LVAVLWTAYPILWIVG</span><span class="topo-outside">TEGAGVVGLGI</span><span class="topo-membrane">ETLAFMVLDVTAKVGFGF</span><span class="topo-inside">VLLRSRAI</span></span>
+<span class="topo-ruler">       250         </span>
 <span class="topo-line"><span class="topo-unknown">LGETEAPEPSAGADASAAD</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -683,6 +694,7 @@ Archaerhodopsin-2 (aR2) is a light-driven proton pump found in the claret
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -698,11 +710,13 @@ Archaerhodopsin-2 (aR2) is a light-driven proton pump found in the claret
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MDPIAL</span><span class="topo-outside">QAGFDLLNDGRPET</span><span class="topo-membrane">LWLGIGTLLMLIGTFYFI</span><span class="topo-inside">ARGWGVTDKEAREYYAIT</span><span class="topo-membrane">ILVP</span></span>
-<span class="topo-line"><span class="topo-membrane">GIASAAYLAMFF</span><span class="topo-outside">GIGVTEVELASGTVLDI</span><span class="topo-membrane">YYARYADWLFTTPLLL</span><span class="topo-inside">LDLALLAKVDRVTIG</span></span>
-<span class="topo-line"><span class="topo-inside">TL</span><span class="topo-membrane">IGVDALMIVTGLIGALS</span><span class="topo-outside">KTPL</span><span class="topo-membrane">ARYTWWLFSTIAFLFVLY</span><span class="topo-inside">YLLTSLRSAAAKRSEEVRS</span></span>
-<span class="topo-line"><span class="topo-inside">TFNTLTA</span><span class="topo-membrane">LVAVLWTAYPILWIVG</span><span class="topo-outside">TEGAGVVGLGI</span><span class="topo-membrane">ETLAFMVLDVTAKVGFGF</span><span class="topo-inside">VLLRSRAI</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MDPIAL</span><span class="topo-outside">QAGFDLLNDGRPET</span><span class="topo-membrane">LWLGIGTLLMLIGTFYFI</span><span class="topo-inside">ARGWGVTDKEAREYYAIT</span><span class="topo-membrane">ILVPGIASAAYLAMFF</span><span class="topo-outside">GIGVTEVELASGTVLDI</span><span class="topo-membrane">YYARYADWLFTTPLLL</span><span class="topo-inside">LDLALLAKVDRVTIG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">TL</span><span class="topo-membrane">IGVDALMIVTGLIGALS</span><span class="topo-outside">KTPL</span><span class="topo-membrane">ARYTWWLFSTIAFLFVLY</span><span class="topo-inside">YLLTSLRSAAAKRSEEVRSTFNTLTA</span><span class="topo-membrane">LVAVLWTAYPILWIVG</span><span class="topo-outside">TEGAGVVGLGI</span><span class="topo-membrane">ETLAFMVLDVTAKVGFGF</span><span class="topo-inside">VLLRSRAI</span></span>
+<span class="topo-ruler">       250         </span>
 <span class="topo-line"><span class="topo-unknown">LGETEAPEPSAGADASAAD</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -819,6 +833,7 @@ Archaerhodopsin-2 (aR2) is a light-driven proton pump found in the claret
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -834,11 +849,13 @@ Archaerhodopsin-2 (aR2) is a light-driven proton pump found in the claret
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MDPIAL</span><span class="topo-outside">QAGFDLLNDGRPET</span><span class="topo-membrane">LWLGIGTLLMLIGTFYFI</span><span class="topo-inside">ARGWGVTDKEAREYYAIT</span><span class="topo-membrane">ILVP</span></span>
-<span class="topo-line"><span class="topo-membrane">GIASAAYLAMFF</span><span class="topo-outside">GIGVTEVELASGTVLDI</span><span class="topo-membrane">YYARYADWLFTTPLLL</span><span class="topo-inside">LDLALLAKVDRVTIG</span></span>
-<span class="topo-line"><span class="topo-inside">TL</span><span class="topo-membrane">IGVDALMIVTGLIGALS</span><span class="topo-outside">KTPL</span><span class="topo-membrane">ARYTWWLFSTIAFLFVLY</span><span class="topo-inside">YLLTSLRSAAAKRSEEVRS</span></span>
-<span class="topo-line"><span class="topo-inside">TFNTLTA</span><span class="topo-membrane">LVAVLWTAYPILWIVG</span><span class="topo-outside">TEGAGVVGLGI</span><span class="topo-membrane">ETLAFMVLDVTAKVGFGF</span><span class="topo-inside">VLLRSRAI</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MDPIAL</span><span class="topo-outside">QAGFDLLNDGRPET</span><span class="topo-membrane">LWLGIGTLLMLIGTFYFI</span><span class="topo-inside">ARGWGVTDKEAREYYAIT</span><span class="topo-membrane">ILVPGIASAAYLAMFF</span><span class="topo-outside">GIGVTEVELASGTVLDI</span><span class="topo-membrane">YYARYADWLFTTPLLL</span><span class="topo-inside">LDLALLAKVDRVTIG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">TL</span><span class="topo-membrane">IGVDALMIVTGLIGALS</span><span class="topo-outside">KTPL</span><span class="topo-membrane">ARYTWWLFSTIAFLFVLY</span><span class="topo-inside">YLLTSLRSAAAKRSEEVRSTFNTLTA</span><span class="topo-membrane">LVAVLWTAYPILWIVG</span><span class="topo-outside">TEGAGVVGLGI</span><span class="topo-membrane">ETLAFMVLDVTAKVGFGF</span><span class="topo-inside">VLLRSRAI</span></span>
+<span class="topo-ruler">       250         </span>
 <span class="topo-line"><span class="topo-unknown">LGETEAPEPSAGADASAAD</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -955,6 +972,7 @@ Archaerhodopsin-2 (aR2) is a light-driven proton pump found in the claret
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

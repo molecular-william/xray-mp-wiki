@@ -56,8 +56,9 @@ NavMs is a prokaryotic voltage-gated sodium channel (NaV) from Magnetococcus mar
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GSHMGVG</span><span class="topo-inside">SV</span><span class="topo-membrane">AALLTVVFYIAAVMATNLY</span><span class="topo-outside">GATFPEWFGD</span><span class="topo-unknown">LSKSLYTLFQVMTLESWSMGIV</span></span>
-<span class="topo-line"><span class="topo-unknown">R</span><span class="topo-outside">PVMNVHP</span><span class="topo-membrane">NAWVFFIPFIMLTTFTVLNLF</span><span class="topo-inside">IGII</span><span class="topo-unknown">VDAMAITKEQEEEAKTGHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110  </span>
+<span class="topo-line"><span class="topo-unknown">GSHMGVG</span><span class="topo-inside">SV</span><span class="topo-membrane">AALLTVVFYIAAVMATNLY</span><span class="topo-outside">GATFPEWFGD</span><span class="topo-unknown">LSKSLYTLFQVMTLESWSMGIVR</span><span class="topo-outside">PVMNVHP</span><span class="topo-membrane">NAWVFFIPFIMLTTFTVLNLF</span><span class="topo-inside">IGII</span><span class="topo-unknown">VDAMAITKEQEEEAKTGHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -132,6 +133,7 @@ NavMs is a prokaryotic voltage-gated sodium channel (NaV) from Magnetococcus mar
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -147,8 +149,9 @@ NavMs is a prokaryotic voltage-gated sodium channel (NaV) from Magnetococcus mar
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GSHMGVG</span><span class="topo-inside">SV</span><span class="topo-membrane">AALLTVVFYIAAVMATNL</span><span class="topo-outside">YGATFPEWFGD</span><span class="topo-unknown">LSKSLYTLFQVMTLESWSM</span><span class="topo-outside">GIV</span></span>
-<span class="topo-line"><span class="topo-outside">RPVMNVHPN</span><span class="topo-membrane">AWVFFIPFIMLTTFTVLNLF</span><span class="topo-inside">IGIIVDA</span><span class="topo-unknown">MAITKEQEEEAKTGHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110  </span>
+<span class="topo-line"><span class="topo-unknown">GSHMGVG</span><span class="topo-inside">SV</span><span class="topo-membrane">AALLTVVFYIAAVMATNL</span><span class="topo-outside">YGATFPEWFGD</span><span class="topo-unknown">LSKSLYTLFQVMTLESWSM</span><span class="topo-outside">GIVRPVMNVHPN</span><span class="topo-membrane">AWVFFIPFIMLTTFTVLNLF</span><span class="topo-inside">IGIIVDA</span><span class="topo-unknown">MAITKEQEEEAKTGHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -223,6 +226,7 @@ NavMs is a prokaryotic voltage-gated sodium channel (NaV) from Magnetococcus mar
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -238,8 +242,9 @@ NavMs is a prokaryotic voltage-gated sodium channel (NaV) from Magnetococcus mar
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GSH</span><span class="topo-inside">MGVGSV</span><span class="topo-membrane">AALLTVVFYIAAVMATNLY</span><span class="topo-outside">GATFPEWFGD</span><span class="topo-unknown">LSKSLYTLFQVMTLESWSMGIV</span></span>
-<span class="topo-line"><span class="topo-unknown">R</span><span class="topo-outside">PVMNVHP</span><span class="topo-membrane">NAWVFFIPFIMLTTFTVLNLF</span><span class="topo-inside">IGIIVDA</span><span class="topo-unknown">MAITKEQEEEAKTGHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110  </span>
+<span class="topo-line"><span class="topo-unknown">GSH</span><span class="topo-inside">MGVGSV</span><span class="topo-membrane">AALLTVVFYIAAVMATNLY</span><span class="topo-outside">GATFPEWFGD</span><span class="topo-unknown">LSKSLYTLFQVMTLESWSMGIVR</span><span class="topo-outside">PVMNVHP</span><span class="topo-membrane">NAWVFFIPFIMLTTFTVLNLF</span><span class="topo-inside">IGIIVDA</span><span class="topo-unknown">MAITKEQEEEAKTGHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -314,6 +319,7 @@ NavMs is a prokaryotic voltage-gated sodium channel (NaV) from Magnetococcus mar
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -329,8 +335,9 @@ NavMs is a prokaryotic voltage-gated sodium channel (NaV) from Magnetococcus mar
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GSHMGVG</span><span class="topo-inside">SV</span><span class="topo-membrane">AALLTVVFYIAAVMATNLY</span><span class="topo-outside">GATFPEWFGD</span><span class="topo-unknown">LSKSLYTLFQVMTLESWSM</span><span class="topo-outside">GIV</span></span>
-<span class="topo-line"><span class="topo-outside">RPVMNVHPN</span><span class="topo-membrane">AWVFFIPFIMLTTFTVLNLF</span><span class="topo-inside">IGIIVDAMA</span><span class="topo-unknown">ITKEQEEEAKTGHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110  </span>
+<span class="topo-line"><span class="topo-unknown">GSHMGVG</span><span class="topo-inside">SV</span><span class="topo-membrane">AALLTVVFYIAAVMATNLY</span><span class="topo-outside">GATFPEWFGD</span><span class="topo-unknown">LSKSLYTLFQVMTLESWSM</span><span class="topo-outside">GIVRPVMNVHPN</span><span class="topo-membrane">AWVFFIPFIMLTTFTVLNLF</span><span class="topo-inside">IGIIVDAMA</span><span class="topo-unknown">ITKEQEEEAKTGHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -405,6 +412,7 @@ NavMs is a prokaryotic voltage-gated sodium channel (NaV) from Magnetococcus mar
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -447,9 +455,11 @@ NavMs is a prokaryotic voltage-gated sodium channel (NaV) from Magnetococcus mar
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GSHMG</span><span class="topo-outside">V</span><span class="topo-membrane">GSVAALLTVVFYIAAVMATNL</span><span class="topo-inside">YGATFPEWFGDL</span><span class="topo-unknown">SKSLYTLFQVMTLESWS</span><span class="topo-inside">MGIV</span></span>
-<span class="topo-line"><span class="topo-inside">RPVMNVHPN</span><span class="topo-membrane">AWVFFIPFIMLTTFTVLNLFIGII</span><span class="topo-outside">VDAM</span><span class="topo-unknown">AITKEQEEEAKTGHHQEPISQTL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GSHMG</span><span class="topo-outside">V</span><span class="topo-membrane">GSVAALLTVVFYIAAVMATNL</span><span class="topo-inside">YGATFPEWFGDL</span><span class="topo-unknown">SKSLYTLFQVMTLESWS</span><span class="topo-inside">MGIVRPVMNVHPN</span><span class="topo-membrane">AWVFFIPFIMLTTFTVLNLFIGII</span><span class="topo-outside">VDAM</span><span class="topo-unknown">AITKEQEEEAKTGHHQEPISQTL</span></span>
+<span class="topo-ruler">       130       140         </span>
 <span class="topo-line"><span class="topo-unknown">LHLGDRLDRIEKQLAQNNELLQRQQPQKK</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -524,6 +534,7 @@ NavMs is a prokaryotic voltage-gated sodium channel (NaV) from Magnetococcus mar
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -539,9 +550,11 @@ NavMs is a prokaryotic voltage-gated sodium channel (NaV) from Magnetococcus mar
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GSHMG</span><span class="topo-outside">V</span><span class="topo-membrane">GSVAALLTVVFYIAAVMATNL</span><span class="topo-inside">YGATFPEWFGDL</span><span class="topo-unknown">SKSLYTLFQVMTLESWS</span><span class="topo-inside">MGIV</span></span>
-<span class="topo-line"><span class="topo-inside">RPVMNVHPN</span><span class="topo-membrane">AWVFFIPFIMLTTFTVLNLFIGII</span><span class="topo-outside">VDAM</span><span class="topo-unknown">AITKEQEEEAKTGHHQEPISQTL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GSHMG</span><span class="topo-outside">V</span><span class="topo-membrane">GSVAALLTVVFYIAAVMATNL</span><span class="topo-inside">YGATFPEWFGDL</span><span class="topo-unknown">SKSLYTLFQVMTLESWS</span><span class="topo-inside">MGIVRPVMNVHPN</span><span class="topo-membrane">AWVFFIPFIMLTTFTVLNLFIGII</span><span class="topo-outside">VDAM</span><span class="topo-unknown">AITKEQEEEAKTGHHQEPISQTL</span></span>
+<span class="topo-ruler">       130       140         </span>
 <span class="topo-line"><span class="topo-unknown">LHLGDRLDRIEKQLAQNNELLQRQQPQKK</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -616,6 +629,7 @@ NavMs is a prokaryotic voltage-gated sodium channel (NaV) from Magnetococcus mar
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -631,9 +645,11 @@ NavMs is a prokaryotic voltage-gated sodium channel (NaV) from Magnetococcus mar
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GSHMG</span><span class="topo-outside">V</span><span class="topo-membrane">GSVAALLTVVFYIAAVMATNL</span><span class="topo-inside">YGATFPEWFGDL</span><span class="topo-unknown">SKSLYTLFQVMTLESWS</span><span class="topo-inside">MGIV</span></span>
-<span class="topo-line"><span class="topo-inside">RPVMNVHPN</span><span class="topo-membrane">AWVFFIPFIMLTTFTVLNLFIGII</span><span class="topo-outside">VDAM</span><span class="topo-unknown">AITKEQEEEAKTGHHQEPISQTL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GSHMG</span><span class="topo-outside">V</span><span class="topo-membrane">GSVAALLTVVFYIAAVMATNL</span><span class="topo-inside">YGATFPEWFGDL</span><span class="topo-unknown">SKSLYTLFQVMTLESWS</span><span class="topo-inside">MGIVRPVMNVHPN</span><span class="topo-membrane">AWVFFIPFIMLTTFTVLNLFIGII</span><span class="topo-outside">VDAM</span><span class="topo-unknown">AITKEQEEEAKTGHHQEPISQTL</span></span>
+<span class="topo-ruler">       130       140         </span>
 <span class="topo-line"><span class="topo-unknown">LHLGDRLDRIEKQLAQNNELLQRQQPQKK</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -708,6 +724,7 @@ NavMs is a prokaryotic voltage-gated sodium channel (NaV) from Magnetococcus mar
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -723,9 +740,11 @@ NavMs is a prokaryotic voltage-gated sodium channel (NaV) from Magnetococcus mar
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GSHMG</span><span class="topo-outside">V</span><span class="topo-membrane">GSVAALLTVVFYIAAVMATNL</span><span class="topo-inside">YGATFPEWFGDL</span><span class="topo-unknown">SKSLYTLFQVMTLESWS</span><span class="topo-inside">MGIV</span></span>
-<span class="topo-line"><span class="topo-inside">RPVMNVHPN</span><span class="topo-membrane">AWVFFIPFIMLTTFTVLNLFIGII</span><span class="topo-outside">VDAM</span><span class="topo-unknown">AITKEQEEEAKTGHHQEPISQTL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GSHMG</span><span class="topo-outside">V</span><span class="topo-membrane">GSVAALLTVVFYIAAVMATNL</span><span class="topo-inside">YGATFPEWFGDL</span><span class="topo-unknown">SKSLYTLFQVMTLESWS</span><span class="topo-inside">MGIVRPVMNVHPN</span><span class="topo-membrane">AWVFFIPFIMLTTFTVLNLFIGII</span><span class="topo-outside">VDAM</span><span class="topo-unknown">AITKEQEEEAKTGHHQEPISQTL</span></span>
+<span class="topo-ruler">       130       140         </span>
 <span class="topo-line"><span class="topo-unknown">LHLGDRLDRIEKQLAQNNELLQRQQPQKK</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -800,6 +819,7 @@ NavMs is a prokaryotic voltage-gated sodium channel (NaV) from Magnetococcus mar
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -884,11 +904,13 @@ NavMs is a prokaryotic voltage-gated sodium channel (NaV) from Magnetococcus mar
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">G</span><span class="topo-outside">SHMSRKIRDLIESKRF</span><span class="topo-membrane">QNVITAIIVLNGAVLGLLT</span><span class="topo-inside">DTTLSASSQN</span><span class="topo-membrane">LLERVDQLCLTIFI</span></span>
-<span class="topo-line"><span class="topo-membrane">VEISLKI</span><span class="topo-outside">YAYGVRGFFRSG</span><span class="topo-membrane">WNLFDFVIVAIALMPAQ</span><span class="topo-inside">G</span><span class="topo-membrane">SLSVLRTFRIFRVMRLVSVI</span><span class="topo-outside">PTM</span></span>
-<span class="topo-line"><span class="topo-outside">RRVVQGMLLALPGV</span><span class="topo-membrane">GSVAALLTVVFYIAAVMATN</span><span class="topo-inside">LYGATFPEWFGDL</span><span class="topo-unknown">SKSLYTLFQVMTL</span></span>
-<span class="topo-line"><span class="topo-unknown">ESWS</span><span class="topo-inside">MGIVRPVMNVHPN</span><span class="topo-membrane">AWVFFIPFIMLTTLTVLNLFIGII</span><span class="topo-outside">VDAMAITKEQEEEAKTGHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">G</span><span class="topo-outside">SHMSRKIRDLIESKRF</span><span class="topo-membrane">QNVITAIIVLNGAVLGLLT</span><span class="topo-inside">DTTLSASSQN</span><span class="topo-membrane">LLERVDQLCLTIFIVEISLKI</span><span class="topo-outside">YAYGVRGFFRSG</span><span class="topo-membrane">WNLFDFVIVAIALMPAQ</span><span class="topo-inside">G</span><span class="topo-membrane">SLSVLRTFRIFRVMRLVSVI</span><span class="topo-outside">PTM</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">RRVVQGMLLALPGV</span><span class="topo-membrane">GSVAALLTVVFYIAAVMATN</span><span class="topo-inside">LYGATFPEWFGDL</span><span class="topo-unknown">SKSLYTLFQVMTLESWS</span><span class="topo-inside">MGIVRPVMNVHPN</span><span class="topo-membrane">AWVFFIPFIMLTTLTVLNLFIGII</span><span class="topo-outside">VDAMAITKEQEEEAKTGHH</span></span>
+<span class="topo-ruler">       250       260       270       </span>
 <span class="topo-line"><span class="topo-outside">QEPISQTLLHLGDRLDRIEKQLAQNNEL</span><span class="topo-unknown">LQRQQPQKK</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1019,6 +1041,7 @@ NavMs is a prokaryotic voltage-gated sodium channel (NaV) from Magnetococcus mar
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1034,11 +1057,13 @@ NavMs is a prokaryotic voltage-gated sodium channel (NaV) from Magnetococcus mar
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">G</span><span class="topo-outside">SHMSRKIRDLIESKRF</span><span class="topo-membrane">QNVITAIIVLNGAVLGLLT</span><span class="topo-inside">DTTLSASSQN</span><span class="topo-membrane">LLERVDQLCLTIFI</span></span>
-<span class="topo-line"><span class="topo-membrane">VEISLKI</span><span class="topo-outside">YAYGVRGFFRSG</span><span class="topo-membrane">WNLFDFVIVAIALMPAQ</span><span class="topo-inside">G</span><span class="topo-membrane">SLSVLRTFRIFRVMRLVSVI</span><span class="topo-outside">PTM</span></span>
-<span class="topo-line"><span class="topo-outside">RRVVQGMLLALPGV</span><span class="topo-membrane">GSVAALLTVVFYIAAVMATN</span><span class="topo-inside">LYGATFPEWFGDL</span><span class="topo-unknown">SKSLYTLFQVMTL</span></span>
-<span class="topo-line"><span class="topo-unknown">ESWS</span><span class="topo-inside">MGIVRPVMNVHPN</span><span class="topo-membrane">AWVFFIPFIMLTTLTVLNLFIGII</span><span class="topo-outside">VDAMAITKEQEEEAKTGHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">G</span><span class="topo-outside">SHMSRKIRDLIESKRF</span><span class="topo-membrane">QNVITAIIVLNGAVLGLLT</span><span class="topo-inside">DTTLSASSQN</span><span class="topo-membrane">LLERVDQLCLTIFIVEISLKI</span><span class="topo-outside">YAYGVRGFFRSG</span><span class="topo-membrane">WNLFDFVIVAIALMPAQ</span><span class="topo-inside">G</span><span class="topo-membrane">SLSVLRTFRIFRVMRLVSVI</span><span class="topo-outside">PTM</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">RRVVQGMLLALPGV</span><span class="topo-membrane">GSVAALLTVVFYIAAVMATN</span><span class="topo-inside">LYGATFPEWFGDL</span><span class="topo-unknown">SKSLYTLFQVMTLESWS</span><span class="topo-inside">MGIVRPVMNVHPN</span><span class="topo-membrane">AWVFFIPFIMLTTLTVLNLFIGII</span><span class="topo-outside">VDAMAITKEQEEEAKTGHH</span></span>
+<span class="topo-ruler">       250       260       270       </span>
 <span class="topo-line"><span class="topo-outside">QEPISQTLLHLGDRLDRIEKQLAQNNEL</span><span class="topo-unknown">LQRQQPQKK</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1169,6 +1194,7 @@ NavMs is a prokaryotic voltage-gated sodium channel (NaV) from Magnetococcus mar
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1184,11 +1210,13 @@ NavMs is a prokaryotic voltage-gated sodium channel (NaV) from Magnetococcus mar
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">G</span><span class="topo-outside">SHMSRKIRDLIESKRF</span><span class="topo-membrane">QNVITAIIVLNGAVLGLLT</span><span class="topo-inside">DTTLSASSQN</span><span class="topo-membrane">LLERVDQLCLTIFI</span></span>
-<span class="topo-line"><span class="topo-membrane">VEISLKI</span><span class="topo-outside">YAYGVRGFFRSG</span><span class="topo-membrane">WNLFDFVIVAIALMPAQ</span><span class="topo-inside">G</span><span class="topo-membrane">SLSVLRTFRIFRVMRLVSVI</span><span class="topo-outside">PTM</span></span>
-<span class="topo-line"><span class="topo-outside">RRVVQGMLLALPGV</span><span class="topo-membrane">GSVAALLTVVFYIAAVMATN</span><span class="topo-inside">LYGATFPEWFGDL</span><span class="topo-unknown">SKSLYTLFQVMTL</span></span>
-<span class="topo-line"><span class="topo-unknown">ESWS</span><span class="topo-inside">MGIVRPVMNVHPN</span><span class="topo-membrane">AWVFFIPFIMLTTLTVLNLFIGII</span><span class="topo-outside">VDAMAITKEQEEEAKTGHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">G</span><span class="topo-outside">SHMSRKIRDLIESKRF</span><span class="topo-membrane">QNVITAIIVLNGAVLGLLT</span><span class="topo-inside">DTTLSASSQN</span><span class="topo-membrane">LLERVDQLCLTIFIVEISLKI</span><span class="topo-outside">YAYGVRGFFRSG</span><span class="topo-membrane">WNLFDFVIVAIALMPAQ</span><span class="topo-inside">G</span><span class="topo-membrane">SLSVLRTFRIFRVMRLVSVI</span><span class="topo-outside">PTM</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">RRVVQGMLLALPGV</span><span class="topo-membrane">GSVAALLTVVFYIAAVMATN</span><span class="topo-inside">LYGATFPEWFGDL</span><span class="topo-unknown">SKSLYTLFQVMTLESWS</span><span class="topo-inside">MGIVRPVMNVHPN</span><span class="topo-membrane">AWVFFIPFIMLTTLTVLNLFIGII</span><span class="topo-outside">VDAMAITKEQEEEAKTGHH</span></span>
+<span class="topo-ruler">       250       260       270       </span>
 <span class="topo-line"><span class="topo-outside">QEPISQTLLHLGDRLDRIEKQLAQNNEL</span><span class="topo-unknown">LQRQQPQKK</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1319,6 +1347,7 @@ NavMs is a prokaryotic voltage-gated sodium channel (NaV) from Magnetococcus mar
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1334,11 +1363,13 @@ NavMs is a prokaryotic voltage-gated sodium channel (NaV) from Magnetococcus mar
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">G</span><span class="topo-outside">SHMSRKIRDLIESKRF</span><span class="topo-membrane">QNVITAIIVLNGAVLGLLT</span><span class="topo-inside">DTTLSASSQN</span><span class="topo-membrane">LLERVDQLCLTIFI</span></span>
-<span class="topo-line"><span class="topo-membrane">VEISLKI</span><span class="topo-outside">YAYGVRGFFRSG</span><span class="topo-membrane">WNLFDFVIVAIALMPAQ</span><span class="topo-inside">G</span><span class="topo-membrane">SLSVLRTFRIFRVMRLVSVI</span><span class="topo-outside">PTM</span></span>
-<span class="topo-line"><span class="topo-outside">RRVVQGMLLALPGV</span><span class="topo-membrane">GSVAALLTVVFYIAAVMATN</span><span class="topo-inside">LYGATFPEWFGDL</span><span class="topo-unknown">SKSLYTLFQVMTL</span></span>
-<span class="topo-line"><span class="topo-unknown">ESWS</span><span class="topo-inside">MGIVRPVMNVHPN</span><span class="topo-membrane">AWVFFIPFIMLTTLTVLNLFIGII</span><span class="topo-outside">VDAMAITKEQEEEAKTGHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">G</span><span class="topo-outside">SHMSRKIRDLIESKRF</span><span class="topo-membrane">QNVITAIIVLNGAVLGLLT</span><span class="topo-inside">DTTLSASSQN</span><span class="topo-membrane">LLERVDQLCLTIFIVEISLKI</span><span class="topo-outside">YAYGVRGFFRSG</span><span class="topo-membrane">WNLFDFVIVAIALMPAQ</span><span class="topo-inside">G</span><span class="topo-membrane">SLSVLRTFRIFRVMRLVSVI</span><span class="topo-outside">PTM</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">RRVVQGMLLALPGV</span><span class="topo-membrane">GSVAALLTVVFYIAAVMATN</span><span class="topo-inside">LYGATFPEWFGDL</span><span class="topo-unknown">SKSLYTLFQVMTLESWS</span><span class="topo-inside">MGIVRPVMNVHPN</span><span class="topo-membrane">AWVFFIPFIMLTTLTVLNLFIGII</span><span class="topo-outside">VDAMAITKEQEEEAKTGHH</span></span>
+<span class="topo-ruler">       250       260       270       </span>
 <span class="topo-line"><span class="topo-outside">QEPISQTLLHLGDRLDRIEKQLAQNNEL</span><span class="topo-unknown">LQRQQPQKK</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1469,6 +1500,7 @@ NavMs is a prokaryotic voltage-gated sodium channel (NaV) from Magnetococcus mar
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1484,11 +1516,13 @@ NavMs is a prokaryotic voltage-gated sodium channel (NaV) from Magnetococcus mar
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">G</span><span class="topo-outside">SHMSRKIRDLIESKR</span><span class="topo-membrane">FQNVITAIIVLNGAVLGLLT</span><span class="topo-inside">DTTLSASSQN</span><span class="topo-membrane">LLERVDQLCLTIFI</span></span>
-<span class="topo-line"><span class="topo-membrane">VEISLKI</span><span class="topo-outside">YAYGVRGFFRSG</span><span class="topo-membrane">WNLFDFVIVAIALMP</span><span class="topo-unknown">AQGSLSVL</span><span class="topo-inside">R</span><span class="topo-membrane">TFRIFRVMRLVSVIPTM</span></span>
-<span class="topo-line"><span class="topo-membrane">R</span><span class="topo-outside">R</span><span class="topo-membrane">VVQGMLLALPGVGSVAALLTVVFYIAAVMA</span><span class="topo-inside">TNLYGATFPEWFGDLSKS</span><span class="topo-unknown">LYTLFQVMTL</span></span>
-<span class="topo-line"><span class="topo-unknown">E</span><span class="topo-inside">SWSMGIVRPVMNVHPNA</span><span class="topo-membrane">WVFFIPFIMLTTLTVLNLFIGIIV</span><span class="topo-outside">DAMAITKEQEEEAKTGHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">G</span><span class="topo-outside">SHMSRKIRDLIESKR</span><span class="topo-membrane">FQNVITAIIVLNGAVLGLLT</span><span class="topo-inside">DTTLSASSQN</span><span class="topo-membrane">LLERVDQLCLTIFIVEISLKI</span><span class="topo-outside">YAYGVRGFFRSG</span><span class="topo-membrane">WNLFDFVIVAIALMP</span><span class="topo-unknown">AQGSLSVL</span><span class="topo-inside">R</span><span class="topo-membrane">TFRIFRVMRLVSVIPTM</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">R</span><span class="topo-outside">R</span><span class="topo-membrane">VVQGMLLALPGVGSVAALLTVVFYIAAVMA</span><span class="topo-inside">TNLYGATFPEWFGDLSKS</span><span class="topo-unknown">LYTLFQVMTLE</span><span class="topo-inside">SWSMGIVRPVMNVHPNA</span><span class="topo-membrane">WVFFIPFIMLTTLTVLNLFIGIIV</span><span class="topo-outside">DAMAITKEQEEEAKTGHH</span></span>
+<span class="topo-ruler">       250       260       270       </span>
 <span class="topo-line"><span class="topo-outside">QEPISQTLLHLGDRLDRIEKQLAQNNELLQRQ</span><span class="topo-unknown">QPQKK</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1626,6 +1660,7 @@ NavMs is a prokaryotic voltage-gated sodium channel (NaV) from Magnetococcus mar
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1641,11 +1676,13 @@ NavMs is a prokaryotic voltage-gated sodium channel (NaV) from Magnetococcus mar
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">G</span><span class="topo-outside">SHMSRKIRDLIESKR</span><span class="topo-membrane">FQNVITAIIVLNGAVLGLLT</span><span class="topo-inside">DTTLSASSQN</span><span class="topo-membrane">LLERVDQLCLTIFI</span></span>
-<span class="topo-line"><span class="topo-membrane">VEISLKI</span><span class="topo-outside">YAYGVRGFFRSG</span><span class="topo-membrane">WNLFDFVIVAIALMP</span><span class="topo-unknown">AQGSLSVL</span><span class="topo-inside">R</span><span class="topo-membrane">TFRIFRVMRLVSVIPTM</span></span>
-<span class="topo-line"><span class="topo-membrane">R</span><span class="topo-outside">R</span><span class="topo-membrane">VVQGMLLALPGVGSVAALLTVVFYIAAVMA</span><span class="topo-inside">TNLYGATFPEWFGDLSKS</span><span class="topo-unknown">LYTLFQVMTL</span></span>
-<span class="topo-line"><span class="topo-unknown">E</span><span class="topo-inside">SWSMGIVRPVMNVHPNA</span><span class="topo-membrane">WVFFIPFIMLTTLTVLNLFIGIIV</span><span class="topo-outside">DAMAITKEQEEEAKTGHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">G</span><span class="topo-outside">SHMSRKIRDLIESKR</span><span class="topo-membrane">FQNVITAIIVLNGAVLGLLT</span><span class="topo-inside">DTTLSASSQN</span><span class="topo-membrane">LLERVDQLCLTIFIVEISLKI</span><span class="topo-outside">YAYGVRGFFRSG</span><span class="topo-membrane">WNLFDFVIVAIALMP</span><span class="topo-unknown">AQGSLSVL</span><span class="topo-inside">R</span><span class="topo-membrane">TFRIFRVMRLVSVIPTM</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">R</span><span class="topo-outside">R</span><span class="topo-membrane">VVQGMLLALPGVGSVAALLTVVFYIAAVMA</span><span class="topo-inside">TNLYGATFPEWFGDLSKS</span><span class="topo-unknown">LYTLFQVMTLE</span><span class="topo-inside">SWSMGIVRPVMNVHPNA</span><span class="topo-membrane">WVFFIPFIMLTTLTVLNLFIGIIV</span><span class="topo-outside">DAMAITKEQEEEAKTGHH</span></span>
+<span class="topo-ruler">       250       260       270       </span>
 <span class="topo-line"><span class="topo-outside">QEPISQTLLHLGDRLDRIEKQLAQNNELLQRQ</span><span class="topo-unknown">QPQKK</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1783,6 +1820,7 @@ NavMs is a prokaryotic voltage-gated sodium channel (NaV) from Magnetococcus mar
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1798,11 +1836,13 @@ NavMs is a prokaryotic voltage-gated sodium channel (NaV) from Magnetococcus mar
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">G</span><span class="topo-outside">SHMSRKIRDLIESKR</span><span class="topo-membrane">FQNVITAIIVLNGAVLGLLT</span><span class="topo-inside">DTTLSASSQN</span><span class="topo-membrane">LLERVDQLCLTIFI</span></span>
-<span class="topo-line"><span class="topo-membrane">VEISLKI</span><span class="topo-outside">YAYGVRGFFRSG</span><span class="topo-membrane">WNLFDFVIVAIALMP</span><span class="topo-unknown">AQGSLSVL</span><span class="topo-inside">R</span><span class="topo-membrane">TFRIFRVMRLVSVIPTM</span></span>
-<span class="topo-line"><span class="topo-membrane">R</span><span class="topo-outside">R</span><span class="topo-membrane">VVQGMLLALPGVGSVAALLTVVFYIAAVMA</span><span class="topo-inside">TNLYGATFPEWFGDLSKS</span><span class="topo-unknown">LYTLFQVMTL</span></span>
-<span class="topo-line"><span class="topo-unknown">E</span><span class="topo-inside">SWSMGIVRPVMNVHPNA</span><span class="topo-membrane">WVFFIPFIMLTTLTVLNLFIGIIV</span><span class="topo-outside">DAMAITKEQEEEAKTGHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">G</span><span class="topo-outside">SHMSRKIRDLIESKR</span><span class="topo-membrane">FQNVITAIIVLNGAVLGLLT</span><span class="topo-inside">DTTLSASSQN</span><span class="topo-membrane">LLERVDQLCLTIFIVEISLKI</span><span class="topo-outside">YAYGVRGFFRSG</span><span class="topo-membrane">WNLFDFVIVAIALMP</span><span class="topo-unknown">AQGSLSVL</span><span class="topo-inside">R</span><span class="topo-membrane">TFRIFRVMRLVSVIPTM</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">R</span><span class="topo-outside">R</span><span class="topo-membrane">VVQGMLLALPGVGSVAALLTVVFYIAAVMA</span><span class="topo-inside">TNLYGATFPEWFGDLSKS</span><span class="topo-unknown">LYTLFQVMTLE</span><span class="topo-inside">SWSMGIVRPVMNVHPNA</span><span class="topo-membrane">WVFFIPFIMLTTLTVLNLFIGIIV</span><span class="topo-outside">DAMAITKEQEEEAKTGHH</span></span>
+<span class="topo-ruler">       250       260       270       </span>
 <span class="topo-line"><span class="topo-outside">QEPISQTLLHLGDRLDRIEKQLAQNNELLQRQ</span><span class="topo-unknown">QPQKK</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1940,6 +1980,7 @@ NavMs is a prokaryotic voltage-gated sodium channel (NaV) from Magnetococcus mar
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1955,11 +1996,13 @@ NavMs is a prokaryotic voltage-gated sodium channel (NaV) from Magnetococcus mar
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">G</span><span class="topo-outside">SHMSRKIRDLIESKR</span><span class="topo-membrane">FQNVITAIIVLNGAVLGLLT</span><span class="topo-inside">DTTLSASSQN</span><span class="topo-membrane">LLERVDQLCLTIFI</span></span>
-<span class="topo-line"><span class="topo-membrane">VEISLKI</span><span class="topo-outside">YAYGVRGFFRSG</span><span class="topo-membrane">WNLFDFVIVAIALMP</span><span class="topo-unknown">AQGSLSVL</span><span class="topo-inside">R</span><span class="topo-membrane">TFRIFRVMRLVSVIPTM</span></span>
-<span class="topo-line"><span class="topo-membrane">R</span><span class="topo-outside">R</span><span class="topo-membrane">VVQGMLLALPGVGSVAALLTVVFYIAAVMA</span><span class="topo-inside">TNLYGATFPEWFGDLSKS</span><span class="topo-unknown">LYTLFQVMTL</span></span>
-<span class="topo-line"><span class="topo-unknown">E</span><span class="topo-inside">SWSMGIVRPVMNVHPNA</span><span class="topo-membrane">WVFFIPFIMLTTLTVLNLFIGIIV</span><span class="topo-outside">DAMAITKEQEEEAKTGHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">G</span><span class="topo-outside">SHMSRKIRDLIESKR</span><span class="topo-membrane">FQNVITAIIVLNGAVLGLLT</span><span class="topo-inside">DTTLSASSQN</span><span class="topo-membrane">LLERVDQLCLTIFIVEISLKI</span><span class="topo-outside">YAYGVRGFFRSG</span><span class="topo-membrane">WNLFDFVIVAIALMP</span><span class="topo-unknown">AQGSLSVL</span><span class="topo-inside">R</span><span class="topo-membrane">TFRIFRVMRLVSVIPTM</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">R</span><span class="topo-outside">R</span><span class="topo-membrane">VVQGMLLALPGVGSVAALLTVVFYIAAVMA</span><span class="topo-inside">TNLYGATFPEWFGDLSKS</span><span class="topo-unknown">LYTLFQVMTLE</span><span class="topo-inside">SWSMGIVRPVMNVHPNA</span><span class="topo-membrane">WVFFIPFIMLTTLTVLNLFIGIIV</span><span class="topo-outside">DAMAITKEQEEEAKTGHH</span></span>
+<span class="topo-ruler">       250       260       270       </span>
 <span class="topo-line"><span class="topo-outside">QEPISQTLLHLGDRLDRIEKQLAQNNELLQRQ</span><span class="topo-unknown">QPQKK</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2097,6 +2140,7 @@ NavMs is a prokaryotic voltage-gated sodium channel (NaV) from Magnetococcus mar
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2112,11 +2156,13 @@ NavMs is a prokaryotic voltage-gated sodium channel (NaV) from Magnetococcus mar
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">G</span><span class="topo-outside">SHMSRKIRDLIESKR</span><span class="topo-membrane">FQNVITAIIVLNGAVLGLLT</span><span class="topo-inside">DTTLSASSQN</span><span class="topo-membrane">LLERVDQLCLTIFI</span></span>
-<span class="topo-line"><span class="topo-membrane">VEISLKI</span><span class="topo-outside">YAYGVRGFFRSG</span><span class="topo-membrane">WNLFDFVIVAIALMPAQ</span><span class="topo-inside">G</span><span class="topo-membrane">SLSVLRTFRIFRVMRLVSVI</span><span class="topo-outside">PTM</span></span>
-<span class="topo-line"><span class="topo-outside">RRVVQGMLLA</span><span class="topo-membrane">LPGVGSVAALLTVVFYIAAVMAT</span><span class="topo-inside">NLYGATFPEWFGDLSKS</span><span class="topo-unknown">LYTLFQVMTL</span></span>
-<span class="topo-line"><span class="topo-unknown">ESWS</span><span class="topo-inside">MGIVRPVMNVHPN</span><span class="topo-membrane">AWVFFIPFIMLTTFTVLNLFIGII</span><span class="topo-outside">VDAMAITKEQEEEAKTGHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">G</span><span class="topo-outside">SHMSRKIRDLIESKR</span><span class="topo-membrane">FQNVITAIIVLNGAVLGLLT</span><span class="topo-inside">DTTLSASSQN</span><span class="topo-membrane">LLERVDQLCLTIFIVEISLKI</span><span class="topo-outside">YAYGVRGFFRSG</span><span class="topo-membrane">WNLFDFVIVAIALMPAQ</span><span class="topo-inside">G</span><span class="topo-membrane">SLSVLRTFRIFRVMRLVSVI</span><span class="topo-outside">PTM</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">RRVVQGMLLA</span><span class="topo-membrane">LPGVGSVAALLTVVFYIAAVMAT</span><span class="topo-inside">NLYGATFPEWFGDLSKS</span><span class="topo-unknown">LYTLFQVMTLESWS</span><span class="topo-inside">MGIVRPVMNVHPN</span><span class="topo-membrane">AWVFFIPFIMLTTFTVLNLFIGII</span><span class="topo-outside">VDAMAITKEQEEEAKTGHH</span></span>
+<span class="topo-ruler">       250       260       270       </span>
 <span class="topo-line"><span class="topo-outside">QEPISQTLLHLGDRLDRIEKQLAQNNELLQRQ</span><span class="topo-unknown">QPQKK</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2247,6 +2293,7 @@ NavMs is a prokaryotic voltage-gated sodium channel (NaV) from Magnetococcus mar
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2262,11 +2309,13 @@ NavMs is a prokaryotic voltage-gated sodium channel (NaV) from Magnetococcus mar
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">G</span><span class="topo-outside">SHMSRKIRDLIESKR</span><span class="topo-membrane">FQNVITAIIVLNGAVLGLLT</span><span class="topo-inside">DTTLSASSQN</span><span class="topo-membrane">LLERVDQLCLTIFI</span></span>
-<span class="topo-line"><span class="topo-membrane">VEISLKI</span><span class="topo-outside">YAYGVRGFFRSG</span><span class="topo-membrane">WNLFDFVIVAIALMPAQ</span><span class="topo-inside">G</span><span class="topo-membrane">SLSVLRTFRIFRVMRLVSVI</span><span class="topo-outside">PTM</span></span>
-<span class="topo-line"><span class="topo-outside">RRVVQGMLLA</span><span class="topo-membrane">LPGVGSVAALLTVVFYIAAVMAT</span><span class="topo-inside">NLYGATFPEWFGDLSKS</span><span class="topo-unknown">LYTLFQVMTL</span></span>
-<span class="topo-line"><span class="topo-unknown">ESWS</span><span class="topo-inside">MGIVRPVMNVHPN</span><span class="topo-membrane">AWVFFIPFIMLTTFTVLNLFIGII</span><span class="topo-outside">VDAMAITKEQEEEAKTGHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">G</span><span class="topo-outside">SHMSRKIRDLIESKR</span><span class="topo-membrane">FQNVITAIIVLNGAVLGLLT</span><span class="topo-inside">DTTLSASSQN</span><span class="topo-membrane">LLERVDQLCLTIFIVEISLKI</span><span class="topo-outside">YAYGVRGFFRSG</span><span class="topo-membrane">WNLFDFVIVAIALMPAQ</span><span class="topo-inside">G</span><span class="topo-membrane">SLSVLRTFRIFRVMRLVSVI</span><span class="topo-outside">PTM</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">RRVVQGMLLA</span><span class="topo-membrane">LPGVGSVAALLTVVFYIAAVMAT</span><span class="topo-inside">NLYGATFPEWFGDLSKS</span><span class="topo-unknown">LYTLFQVMTLESWS</span><span class="topo-inside">MGIVRPVMNVHPN</span><span class="topo-membrane">AWVFFIPFIMLTTFTVLNLFIGII</span><span class="topo-outside">VDAMAITKEQEEEAKTGHH</span></span>
+<span class="topo-ruler">       250       260       270       </span>
 <span class="topo-line"><span class="topo-outside">QEPISQTLLHLGDRLDRIEKQLAQNNELLQRQ</span><span class="topo-unknown">QPQKK</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2397,6 +2446,7 @@ NavMs is a prokaryotic voltage-gated sodium channel (NaV) from Magnetococcus mar
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2412,11 +2462,13 @@ NavMs is a prokaryotic voltage-gated sodium channel (NaV) from Magnetococcus mar
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">G</span><span class="topo-outside">SHMSRKIRDLIESKR</span><span class="topo-membrane">FQNVITAIIVLNGAVLGLLT</span><span class="topo-inside">DTTLSASSQN</span><span class="topo-membrane">LLERVDQLCLTIFI</span></span>
-<span class="topo-line"><span class="topo-membrane">VEISLKI</span><span class="topo-outside">YAYGVRGFFRSG</span><span class="topo-membrane">WNLFDFVIVAIALMPAQ</span><span class="topo-inside">G</span><span class="topo-membrane">SLSVLRTFRIFRVMRLVSVI</span><span class="topo-outside">PTM</span></span>
-<span class="topo-line"><span class="topo-outside">RRVVQGMLLA</span><span class="topo-membrane">LPGVGSVAALLTVVFYIAAVMAT</span><span class="topo-inside">NLYGATFPEWFGDLSKS</span><span class="topo-unknown">LYTLFQVMTL</span></span>
-<span class="topo-line"><span class="topo-unknown">ESWS</span><span class="topo-inside">MGIVRPVMNVHPN</span><span class="topo-membrane">AWVFFIPFIMLTTFTVLNLFIGII</span><span class="topo-outside">VDAMAITKEQEEEAKTGHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">G</span><span class="topo-outside">SHMSRKIRDLIESKR</span><span class="topo-membrane">FQNVITAIIVLNGAVLGLLT</span><span class="topo-inside">DTTLSASSQN</span><span class="topo-membrane">LLERVDQLCLTIFIVEISLKI</span><span class="topo-outside">YAYGVRGFFRSG</span><span class="topo-membrane">WNLFDFVIVAIALMPAQ</span><span class="topo-inside">G</span><span class="topo-membrane">SLSVLRTFRIFRVMRLVSVI</span><span class="topo-outside">PTM</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">RRVVQGMLLA</span><span class="topo-membrane">LPGVGSVAALLTVVFYIAAVMAT</span><span class="topo-inside">NLYGATFPEWFGDLSKS</span><span class="topo-unknown">LYTLFQVMTLESWS</span><span class="topo-inside">MGIVRPVMNVHPN</span><span class="topo-membrane">AWVFFIPFIMLTTFTVLNLFIGII</span><span class="topo-outside">VDAMAITKEQEEEAKTGHH</span></span>
+<span class="topo-ruler">       250       260       270       </span>
 <span class="topo-line"><span class="topo-outside">QEPISQTLLHLGDRLDRIEKQLAQNNELLQRQ</span><span class="topo-unknown">QPQKK</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2547,6 +2599,7 @@ NavMs is a prokaryotic voltage-gated sodium channel (NaV) from Magnetococcus mar
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2562,11 +2615,13 @@ NavMs is a prokaryotic voltage-gated sodium channel (NaV) from Magnetococcus mar
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">G</span><span class="topo-outside">SHMSRKIRDLIESKR</span><span class="topo-membrane">FQNVITAIIVLNGAVLGLLT</span><span class="topo-inside">DTTLSASSQN</span><span class="topo-membrane">LLERVDQLCLTIFI</span></span>
-<span class="topo-line"><span class="topo-membrane">VEISLKI</span><span class="topo-outside">YAYGVRGFFRSG</span><span class="topo-membrane">WNLFDFVIVAIALMPAQ</span><span class="topo-inside">G</span><span class="topo-membrane">SLSVLRTFRIFRVMRLVSVI</span><span class="topo-outside">PTM</span></span>
-<span class="topo-line"><span class="topo-outside">RRVVQGMLLA</span><span class="topo-membrane">LPGVGSVAALLTVVFYIAAVMAT</span><span class="topo-inside">NLYGATFPEWFGDLSKS</span><span class="topo-unknown">LYTLFQVMTL</span></span>
-<span class="topo-line"><span class="topo-unknown">ESWS</span><span class="topo-inside">MGIVRPVMNVHPN</span><span class="topo-membrane">AWVFFIPFIMLTTFTVLNLFIGII</span><span class="topo-outside">VDAMAITKEQEEEAKTGHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">G</span><span class="topo-outside">SHMSRKIRDLIESKR</span><span class="topo-membrane">FQNVITAIIVLNGAVLGLLT</span><span class="topo-inside">DTTLSASSQN</span><span class="topo-membrane">LLERVDQLCLTIFIVEISLKI</span><span class="topo-outside">YAYGVRGFFRSG</span><span class="topo-membrane">WNLFDFVIVAIALMPAQ</span><span class="topo-inside">G</span><span class="topo-membrane">SLSVLRTFRIFRVMRLVSVI</span><span class="topo-outside">PTM</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">RRVVQGMLLA</span><span class="topo-membrane">LPGVGSVAALLTVVFYIAAVMAT</span><span class="topo-inside">NLYGATFPEWFGDLSKS</span><span class="topo-unknown">LYTLFQVMTLESWS</span><span class="topo-inside">MGIVRPVMNVHPN</span><span class="topo-membrane">AWVFFIPFIMLTTFTVLNLFIGII</span><span class="topo-outside">VDAMAITKEQEEEAKTGHH</span></span>
+<span class="topo-ruler">       250       260       270       </span>
 <span class="topo-line"><span class="topo-outside">QEPISQTLLHLGDRLDRIEKQLAQNNELLQRQ</span><span class="topo-unknown">QPQKK</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2697,6 +2752,7 @@ NavMs is a prokaryotic voltage-gated sodium channel (NaV) from Magnetococcus mar
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2712,11 +2768,13 @@ NavMs is a prokaryotic voltage-gated sodium channel (NaV) from Magnetococcus mar
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">G</span><span class="topo-outside">SHMSRKIRDLIESKR</span><span class="topo-membrane">FQNVITAIIVLNGAVLGLLT</span><span class="topo-inside">DTTLSASSQN</span><span class="topo-membrane">LLERVDQLCLTIFI</span></span>
-<span class="topo-line"><span class="topo-membrane">VEISLKI</span><span class="topo-outside">YAYGVRGFFRSG</span><span class="topo-membrane">WNLFDFVIVAIALMPAQ</span><span class="topo-inside">G</span><span class="topo-membrane">SLSVLRTFRIFRVMRLVSVI</span><span class="topo-outside">PTM</span></span>
-<span class="topo-line"><span class="topo-outside">RRVVQGMLLA</span><span class="topo-membrane">LPGVGSVAALLTVVFYIAAVMATN</span><span class="topo-inside">LYGATFPEWFGDL</span><span class="topo-unknown">SKSLYTLFQVMTL</span></span>
-<span class="topo-line"><span class="topo-unknown">ESWS</span><span class="topo-inside">MGIVRPVMNVHPN</span><span class="topo-membrane">AWVFFIPFIMLTTLTVLNLFIGII</span><span class="topo-outside">VDAMAITKEQEEEAKTGHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">G</span><span class="topo-outside">SHMSRKIRDLIESKR</span><span class="topo-membrane">FQNVITAIIVLNGAVLGLLT</span><span class="topo-inside">DTTLSASSQN</span><span class="topo-membrane">LLERVDQLCLTIFIVEISLKI</span><span class="topo-outside">YAYGVRGFFRSG</span><span class="topo-membrane">WNLFDFVIVAIALMPAQ</span><span class="topo-inside">G</span><span class="topo-membrane">SLSVLRTFRIFRVMRLVSVI</span><span class="topo-outside">PTM</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">RRVVQGMLLA</span><span class="topo-membrane">LPGVGSVAALLTVVFYIAAVMATN</span><span class="topo-inside">LYGATFPEWFGDL</span><span class="topo-unknown">SKSLYTLFQVMTLESWS</span><span class="topo-inside">MGIVRPVMNVHPN</span><span class="topo-membrane">AWVFFIPFIMLTTLTVLNLFIGII</span><span class="topo-outside">VDAMAITKEQEEEAKTGHH</span></span>
+<span class="topo-ruler">       250       260       270       </span>
 <span class="topo-line"><span class="topo-outside">QEPISQTLLHLGDRLDRIEKQLAQNNELLQRQ</span><span class="topo-unknown">QPQKK</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2847,6 +2905,7 @@ NavMs is a prokaryotic voltage-gated sodium channel (NaV) from Magnetococcus mar
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2862,11 +2921,13 @@ NavMs is a prokaryotic voltage-gated sodium channel (NaV) from Magnetococcus mar
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">G</span><span class="topo-outside">SHMSRKIRDLIESKR</span><span class="topo-membrane">FQNVITAIIVLNGAVLGLLT</span><span class="topo-inside">DTTLSASSQN</span><span class="topo-membrane">LLERVDQLCLTIFI</span></span>
-<span class="topo-line"><span class="topo-membrane">VEISLKI</span><span class="topo-outside">YAYGVRGFFRSG</span><span class="topo-membrane">WNLFDFVIVAIALMPAQ</span><span class="topo-inside">G</span><span class="topo-membrane">SLSVLRTFRIFRVMRLVSVI</span><span class="topo-outside">PTM</span></span>
-<span class="topo-line"><span class="topo-outside">RRVVQGMLLA</span><span class="topo-membrane">LPGVGSVAALLTVVFYIAAVMATN</span><span class="topo-inside">LYGATFPEWFGDL</span><span class="topo-unknown">SKSLYTLFQVMTL</span></span>
-<span class="topo-line"><span class="topo-unknown">ESWS</span><span class="topo-inside">MGIVRPVMNVHPN</span><span class="topo-membrane">AWVFFIPFIMLTTLTVLNLFIGII</span><span class="topo-outside">VDAMAITKEQEEEAKTGHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">G</span><span class="topo-outside">SHMSRKIRDLIESKR</span><span class="topo-membrane">FQNVITAIIVLNGAVLGLLT</span><span class="topo-inside">DTTLSASSQN</span><span class="topo-membrane">LLERVDQLCLTIFIVEISLKI</span><span class="topo-outside">YAYGVRGFFRSG</span><span class="topo-membrane">WNLFDFVIVAIALMPAQ</span><span class="topo-inside">G</span><span class="topo-membrane">SLSVLRTFRIFRVMRLVSVI</span><span class="topo-outside">PTM</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">RRVVQGMLLA</span><span class="topo-membrane">LPGVGSVAALLTVVFYIAAVMATN</span><span class="topo-inside">LYGATFPEWFGDL</span><span class="topo-unknown">SKSLYTLFQVMTLESWS</span><span class="topo-inside">MGIVRPVMNVHPN</span><span class="topo-membrane">AWVFFIPFIMLTTLTVLNLFIGII</span><span class="topo-outside">VDAMAITKEQEEEAKTGHH</span></span>
+<span class="topo-ruler">       250       260       270       </span>
 <span class="topo-line"><span class="topo-outside">QEPISQTLLHLGDRLDRIEKQLAQNNELLQRQ</span><span class="topo-unknown">QPQKK</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2997,6 +3058,7 @@ NavMs is a prokaryotic voltage-gated sodium channel (NaV) from Magnetococcus mar
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3012,11 +3074,13 @@ NavMs is a prokaryotic voltage-gated sodium channel (NaV) from Magnetococcus mar
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">G</span><span class="topo-outside">SHMSRKIRDLIESKR</span><span class="topo-membrane">FQNVITAIIVLNGAVLGLLT</span><span class="topo-inside">DTTLSASSQN</span><span class="topo-membrane">LLERVDQLCLTIFI</span></span>
-<span class="topo-line"><span class="topo-membrane">VEISLKI</span><span class="topo-outside">YAYGVRGFFRSG</span><span class="topo-membrane">WNLFDFVIVAIALMPAQ</span><span class="topo-inside">G</span><span class="topo-membrane">SLSVLRTFRIFRVMRLVSVI</span><span class="topo-outside">PTM</span></span>
-<span class="topo-line"><span class="topo-outside">RRVVQGMLLA</span><span class="topo-membrane">LPGVGSVAALLTVVFYIAAVMATN</span><span class="topo-inside">LYGATFPEWFGDL</span><span class="topo-unknown">SKSLYTLFQVMTL</span></span>
-<span class="topo-line"><span class="topo-unknown">ESWS</span><span class="topo-inside">MGIVRPVMNVHPN</span><span class="topo-membrane">AWVFFIPFIMLTTLTVLNLFIGII</span><span class="topo-outside">VDAMAITKEQEEEAKTGHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">G</span><span class="topo-outside">SHMSRKIRDLIESKR</span><span class="topo-membrane">FQNVITAIIVLNGAVLGLLT</span><span class="topo-inside">DTTLSASSQN</span><span class="topo-membrane">LLERVDQLCLTIFIVEISLKI</span><span class="topo-outside">YAYGVRGFFRSG</span><span class="topo-membrane">WNLFDFVIVAIALMPAQ</span><span class="topo-inside">G</span><span class="topo-membrane">SLSVLRTFRIFRVMRLVSVI</span><span class="topo-outside">PTM</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">RRVVQGMLLA</span><span class="topo-membrane">LPGVGSVAALLTVVFYIAAVMATN</span><span class="topo-inside">LYGATFPEWFGDL</span><span class="topo-unknown">SKSLYTLFQVMTLESWS</span><span class="topo-inside">MGIVRPVMNVHPN</span><span class="topo-membrane">AWVFFIPFIMLTTLTVLNLFIGII</span><span class="topo-outside">VDAMAITKEQEEEAKTGHH</span></span>
+<span class="topo-ruler">       250       260       270       </span>
 <span class="topo-line"><span class="topo-outside">QEPISQTLLHLGDRLDRIEKQLAQNNELLQRQ</span><span class="topo-unknown">QPQKK</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3147,6 +3211,7 @@ NavMs is a prokaryotic voltage-gated sodium channel (NaV) from Magnetococcus mar
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3162,11 +3227,13 @@ NavMs is a prokaryotic voltage-gated sodium channel (NaV) from Magnetococcus mar
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">G</span><span class="topo-outside">SHMSRKIRDLIESKR</span><span class="topo-membrane">FQNVITAIIVLNGAVLGLLT</span><span class="topo-inside">DTTLSASSQN</span><span class="topo-membrane">LLERVDQLCLTIFI</span></span>
-<span class="topo-line"><span class="topo-membrane">VEISLKI</span><span class="topo-outside">YAYGVRGFFRSG</span><span class="topo-membrane">WNLFDFVIVAIALMPAQ</span><span class="topo-inside">G</span><span class="topo-membrane">SLSVLRTFRIFRVMRLVSVI</span><span class="topo-outside">PTM</span></span>
-<span class="topo-line"><span class="topo-outside">RRVVQGMLLA</span><span class="topo-membrane">LPGVGSVAALLTVVFYIAAVMATN</span><span class="topo-inside">LYGATFPEWFGDL</span><span class="topo-unknown">SKSLYTLFQVMTL</span></span>
-<span class="topo-line"><span class="topo-unknown">ESWS</span><span class="topo-inside">MGIVRPVMNVHPN</span><span class="topo-membrane">AWVFFIPFIMLTTLTVLNLFIGII</span><span class="topo-outside">VDAMAITKEQEEEAKTGHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">G</span><span class="topo-outside">SHMSRKIRDLIESKR</span><span class="topo-membrane">FQNVITAIIVLNGAVLGLLT</span><span class="topo-inside">DTTLSASSQN</span><span class="topo-membrane">LLERVDQLCLTIFIVEISLKI</span><span class="topo-outside">YAYGVRGFFRSG</span><span class="topo-membrane">WNLFDFVIVAIALMPAQ</span><span class="topo-inside">G</span><span class="topo-membrane">SLSVLRTFRIFRVMRLVSVI</span><span class="topo-outside">PTM</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">RRVVQGMLLA</span><span class="topo-membrane">LPGVGSVAALLTVVFYIAAVMATN</span><span class="topo-inside">LYGATFPEWFGDL</span><span class="topo-unknown">SKSLYTLFQVMTLESWS</span><span class="topo-inside">MGIVRPVMNVHPN</span><span class="topo-membrane">AWVFFIPFIMLTTLTVLNLFIGII</span><span class="topo-outside">VDAMAITKEQEEEAKTGHH</span></span>
+<span class="topo-ruler">       250       260       270       </span>
 <span class="topo-line"><span class="topo-outside">QEPISQTLLHLGDRLDRIEKQLAQNNELLQRQ</span><span class="topo-unknown">QPQKK</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3297,6 +3364,7 @@ NavMs is a prokaryotic voltage-gated sodium channel (NaV) from Magnetococcus mar
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3312,11 +3380,13 @@ NavMs is a prokaryotic voltage-gated sodium channel (NaV) from Magnetococcus mar
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">G</span><span class="topo-outside">SHMSRKIRDLIESKR</span><span class="topo-membrane">FQNVITAIIVLNGAVLGLLT</span><span class="topo-inside">DTTLSASSQN</span><span class="topo-membrane">LLERVDQLCLTIFI</span></span>
-<span class="topo-line"><span class="topo-membrane">VEISLKI</span><span class="topo-outside">YAYGVRGFFRSG</span><span class="topo-membrane">WNLFDFVIVAIALMPAQ</span><span class="topo-inside">G</span><span class="topo-membrane">SLSVLRTFRIFRVMRLVSVI</span><span class="topo-outside">PTM</span></span>
-<span class="topo-line"><span class="topo-outside">RRVVQGMLLALPGV</span><span class="topo-membrane">GSVAALLTVVFYIAAVMATN</span><span class="topo-inside">LYGATFPEWFGDL</span><span class="topo-unknown">SKSLYTLFQVMTL</span></span>
-<span class="topo-line"><span class="topo-unknown">ESWS</span><span class="topo-inside">MGIVRPVMNVHPN</span><span class="topo-membrane">AWVFFIPFIMLTTLTVLNLFIGII</span><span class="topo-outside">VDAMAITKEQEEEAKTGHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">G</span><span class="topo-outside">SHMSRKIRDLIESKR</span><span class="topo-membrane">FQNVITAIIVLNGAVLGLLT</span><span class="topo-inside">DTTLSASSQN</span><span class="topo-membrane">LLERVDQLCLTIFIVEISLKI</span><span class="topo-outside">YAYGVRGFFRSG</span><span class="topo-membrane">WNLFDFVIVAIALMPAQ</span><span class="topo-inside">G</span><span class="topo-membrane">SLSVLRTFRIFRVMRLVSVI</span><span class="topo-outside">PTM</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">RRVVQGMLLALPGV</span><span class="topo-membrane">GSVAALLTVVFYIAAVMATN</span><span class="topo-inside">LYGATFPEWFGDL</span><span class="topo-unknown">SKSLYTLFQVMTLESWS</span><span class="topo-inside">MGIVRPVMNVHPN</span><span class="topo-membrane">AWVFFIPFIMLTTLTVLNLFIGII</span><span class="topo-outside">VDAMAITKEQEEEAKTGHH</span></span>
+<span class="topo-ruler">       250       260       270       </span>
 <span class="topo-line"><span class="topo-outside">QEPISQTLLHLGDRLDRIEKQLAQNNELLQRQ</span><span class="topo-unknown">QPQKK</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3447,6 +3517,7 @@ NavMs is a prokaryotic voltage-gated sodium channel (NaV) from Magnetococcus mar
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3462,11 +3533,13 @@ NavMs is a prokaryotic voltage-gated sodium channel (NaV) from Magnetococcus mar
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">G</span><span class="topo-outside">SHMSRKIRDLIESKR</span><span class="topo-membrane">FQNVITAIIVLNGAVLGLLT</span><span class="topo-inside">DTTLSASSQN</span><span class="topo-membrane">LLERVDQLCLTIFI</span></span>
-<span class="topo-line"><span class="topo-membrane">VEISLKI</span><span class="topo-outside">YAYGVRGFFRSG</span><span class="topo-membrane">WNLFDFVIVAIALMPAQ</span><span class="topo-inside">G</span><span class="topo-membrane">SLSVLRTFRIFRVMRLVSVI</span><span class="topo-outside">PTM</span></span>
-<span class="topo-line"><span class="topo-outside">RRVVQGMLLALPGV</span><span class="topo-membrane">GSVAALLTVVFYIAAVMATN</span><span class="topo-inside">LYGATFPEWFGDL</span><span class="topo-unknown">SKSLYTLFQVMTL</span></span>
-<span class="topo-line"><span class="topo-unknown">ESWS</span><span class="topo-inside">MGIVRPVMNVHPN</span><span class="topo-membrane">AWVFFIPFIMLTTLTVLNLFIGII</span><span class="topo-outside">VDAMAITKEQEEEAKTGHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">G</span><span class="topo-outside">SHMSRKIRDLIESKR</span><span class="topo-membrane">FQNVITAIIVLNGAVLGLLT</span><span class="topo-inside">DTTLSASSQN</span><span class="topo-membrane">LLERVDQLCLTIFIVEISLKI</span><span class="topo-outside">YAYGVRGFFRSG</span><span class="topo-membrane">WNLFDFVIVAIALMPAQ</span><span class="topo-inside">G</span><span class="topo-membrane">SLSVLRTFRIFRVMRLVSVI</span><span class="topo-outside">PTM</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">RRVVQGMLLALPGV</span><span class="topo-membrane">GSVAALLTVVFYIAAVMATN</span><span class="topo-inside">LYGATFPEWFGDL</span><span class="topo-unknown">SKSLYTLFQVMTLESWS</span><span class="topo-inside">MGIVRPVMNVHPN</span><span class="topo-membrane">AWVFFIPFIMLTTLTVLNLFIGII</span><span class="topo-outside">VDAMAITKEQEEEAKTGHH</span></span>
+<span class="topo-ruler">       250       260       270       </span>
 <span class="topo-line"><span class="topo-outside">QEPISQTLLHLGDRLDRIEKQLAQNNELLQRQ</span><span class="topo-unknown">QPQKK</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3597,6 +3670,7 @@ NavMs is a prokaryotic voltage-gated sodium channel (NaV) from Magnetococcus mar
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3612,11 +3686,13 @@ NavMs is a prokaryotic voltage-gated sodium channel (NaV) from Magnetococcus mar
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">G</span><span class="topo-outside">SHMSRKIRDLIESKR</span><span class="topo-membrane">FQNVITAIIVLNGAVLGLLT</span><span class="topo-inside">DTTLSASSQN</span><span class="topo-membrane">LLERVDQLCLTIFI</span></span>
-<span class="topo-line"><span class="topo-membrane">VEISLKI</span><span class="topo-outside">YAYGVRGFFRSG</span><span class="topo-membrane">WNLFDFVIVAIALMPAQ</span><span class="topo-inside">G</span><span class="topo-membrane">SLSVLRTFRIFRVMRLVSVI</span><span class="topo-outside">PTM</span></span>
-<span class="topo-line"><span class="topo-outside">RRVVQGMLLALPGV</span><span class="topo-membrane">GSVAALLTVVFYIAAVMATN</span><span class="topo-inside">LYGATFPEWFGDL</span><span class="topo-unknown">SKSLYTLFQVMTL</span></span>
-<span class="topo-line"><span class="topo-unknown">ESWS</span><span class="topo-inside">MGIVRPVMNVHPN</span><span class="topo-membrane">AWVFFIPFIMLTTLTVLNLFIGII</span><span class="topo-outside">VDAMAITKEQEEEAKTGHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">G</span><span class="topo-outside">SHMSRKIRDLIESKR</span><span class="topo-membrane">FQNVITAIIVLNGAVLGLLT</span><span class="topo-inside">DTTLSASSQN</span><span class="topo-membrane">LLERVDQLCLTIFIVEISLKI</span><span class="topo-outside">YAYGVRGFFRSG</span><span class="topo-membrane">WNLFDFVIVAIALMPAQ</span><span class="topo-inside">G</span><span class="topo-membrane">SLSVLRTFRIFRVMRLVSVI</span><span class="topo-outside">PTM</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">RRVVQGMLLALPGV</span><span class="topo-membrane">GSVAALLTVVFYIAAVMATN</span><span class="topo-inside">LYGATFPEWFGDL</span><span class="topo-unknown">SKSLYTLFQVMTLESWS</span><span class="topo-inside">MGIVRPVMNVHPN</span><span class="topo-membrane">AWVFFIPFIMLTTLTVLNLFIGII</span><span class="topo-outside">VDAMAITKEQEEEAKTGHH</span></span>
+<span class="topo-ruler">       250       260       270       </span>
 <span class="topo-line"><span class="topo-outside">QEPISQTLLHLGDRLDRIEKQLAQNNELLQRQ</span><span class="topo-unknown">QPQKK</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3747,6 +3823,7 @@ NavMs is a prokaryotic voltage-gated sodium channel (NaV) from Magnetococcus mar
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3762,11 +3839,13 @@ NavMs is a prokaryotic voltage-gated sodium channel (NaV) from Magnetococcus mar
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">G</span><span class="topo-outside">SHMSRKIRDLIESKR</span><span class="topo-membrane">FQNVITAIIVLNGAVLGLLT</span><span class="topo-inside">DTTLSASSQN</span><span class="topo-membrane">LLERVDQLCLTIFI</span></span>
-<span class="topo-line"><span class="topo-membrane">VEISLKI</span><span class="topo-outside">YAYGVRGFFRSG</span><span class="topo-membrane">WNLFDFVIVAIALMPAQ</span><span class="topo-inside">G</span><span class="topo-membrane">SLSVLRTFRIFRVMRLVSVI</span><span class="topo-outside">PTM</span></span>
-<span class="topo-line"><span class="topo-outside">RRVVQGMLLALPGV</span><span class="topo-membrane">GSVAALLTVVFYIAAVMATN</span><span class="topo-inside">LYGATFPEWFGDL</span><span class="topo-unknown">SKSLYTLFQVMTL</span></span>
-<span class="topo-line"><span class="topo-unknown">ESWS</span><span class="topo-inside">MGIVRPVMNVHPN</span><span class="topo-membrane">AWVFFIPFIMLTTLTVLNLFIGII</span><span class="topo-outside">VDAMAITKEQEEEAKTGHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">G</span><span class="topo-outside">SHMSRKIRDLIESKR</span><span class="topo-membrane">FQNVITAIIVLNGAVLGLLT</span><span class="topo-inside">DTTLSASSQN</span><span class="topo-membrane">LLERVDQLCLTIFIVEISLKI</span><span class="topo-outside">YAYGVRGFFRSG</span><span class="topo-membrane">WNLFDFVIVAIALMPAQ</span><span class="topo-inside">G</span><span class="topo-membrane">SLSVLRTFRIFRVMRLVSVI</span><span class="topo-outside">PTM</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">RRVVQGMLLALPGV</span><span class="topo-membrane">GSVAALLTVVFYIAAVMATN</span><span class="topo-inside">LYGATFPEWFGDL</span><span class="topo-unknown">SKSLYTLFQVMTLESWS</span><span class="topo-inside">MGIVRPVMNVHPN</span><span class="topo-membrane">AWVFFIPFIMLTTLTVLNLFIGII</span><span class="topo-outside">VDAMAITKEQEEEAKTGHH</span></span>
+<span class="topo-ruler">       250       260       270       </span>
 <span class="topo-line"><span class="topo-outside">QEPISQTLLHLGDRLDRIEKQLAQNNELLQRQ</span><span class="topo-unknown">QPQKK</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3897,6 +3976,7 @@ NavMs is a prokaryotic voltage-gated sodium channel (NaV) from Magnetococcus mar
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3912,11 +3992,13 @@ NavMs is a prokaryotic voltage-gated sodium channel (NaV) from Magnetococcus mar
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">G</span><span class="topo-outside">SHMSRKIRDLIESKR</span><span class="topo-membrane">FQNVITAIIVLNGAVLGLLT</span><span class="topo-inside">DTTLSASSQN</span><span class="topo-membrane">LLERVDQLCLTIFI</span></span>
-<span class="topo-line"><span class="topo-membrane">VEISL</span><span class="topo-outside">KIYAYGVRGFFRSG</span><span class="topo-membrane">WNLFDFVIVAIALMPAQ</span><span class="topo-inside">G</span><span class="topo-membrane">SLSVLRTFRIFRVMRLVSVI</span><span class="topo-outside">PTM</span></span>
-<span class="topo-line"><span class="topo-outside">RRVVQGMLLALPGV</span><span class="topo-membrane">GSVAALLTVVFYIAAVMATN</span><span class="topo-inside">LYGATFPEWFGDL</span><span class="topo-unknown">SKSLYTLFQVMTL</span></span>
-<span class="topo-line"><span class="topo-unknown">ESWS</span><span class="topo-inside">MGIVRPVMNVHPN</span><span class="topo-membrane">AWVFFIPFIMLTTLTVLNLFIGII</span><span class="topo-outside">VDAMAITKEQEEEAKTGHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">G</span><span class="topo-outside">SHMSRKIRDLIESKR</span><span class="topo-membrane">FQNVITAIIVLNGAVLGLLT</span><span class="topo-inside">DTTLSASSQN</span><span class="topo-membrane">LLERVDQLCLTIFIVEISL</span><span class="topo-outside">KIYAYGVRGFFRSG</span><span class="topo-membrane">WNLFDFVIVAIALMPAQ</span><span class="topo-inside">G</span><span class="topo-membrane">SLSVLRTFRIFRVMRLVSVI</span><span class="topo-outside">PTM</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">RRVVQGMLLALPGV</span><span class="topo-membrane">GSVAALLTVVFYIAAVMATN</span><span class="topo-inside">LYGATFPEWFGDL</span><span class="topo-unknown">SKSLYTLFQVMTLESWS</span><span class="topo-inside">MGIVRPVMNVHPN</span><span class="topo-membrane">AWVFFIPFIMLTTLTVLNLFIGII</span><span class="topo-outside">VDAMAITKEQEEEAKTGHH</span></span>
+<span class="topo-ruler">       250       260       270       </span>
 <span class="topo-line"><span class="topo-outside">QEPISQTLLHLGDRLDRIEKQLAQNNELLQRQ</span><span class="topo-unknown">QPQKK</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4047,6 +4129,7 @@ NavMs is a prokaryotic voltage-gated sodium channel (NaV) from Magnetococcus mar
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4062,11 +4145,13 @@ NavMs is a prokaryotic voltage-gated sodium channel (NaV) from Magnetococcus mar
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">G</span><span class="topo-outside">SHMSRKIRDLIESKR</span><span class="topo-membrane">FQNVITAIIVLNGAVLGLLT</span><span class="topo-inside">DTTLSASSQN</span><span class="topo-membrane">LLERVDQLCLTIFI</span></span>
-<span class="topo-line"><span class="topo-membrane">VEISL</span><span class="topo-outside">KIYAYGVRGFFRSG</span><span class="topo-membrane">WNLFDFVIVAIALMPAQ</span><span class="topo-inside">G</span><span class="topo-membrane">SLSVLRTFRIFRVMRLVSVI</span><span class="topo-outside">PTM</span></span>
-<span class="topo-line"><span class="topo-outside">RRVVQGMLLALPGV</span><span class="topo-membrane">GSVAALLTVVFYIAAVMATN</span><span class="topo-inside">LYGATFPEWFGDL</span><span class="topo-unknown">SKSLYTLFQVMTL</span></span>
-<span class="topo-line"><span class="topo-unknown">ESWS</span><span class="topo-inside">MGIVRPVMNVHPN</span><span class="topo-membrane">AWVFFIPFIMLTTLTVLNLFIGII</span><span class="topo-outside">VDAMAITKEQEEEAKTGHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">G</span><span class="topo-outside">SHMSRKIRDLIESKR</span><span class="topo-membrane">FQNVITAIIVLNGAVLGLLT</span><span class="topo-inside">DTTLSASSQN</span><span class="topo-membrane">LLERVDQLCLTIFIVEISL</span><span class="topo-outside">KIYAYGVRGFFRSG</span><span class="topo-membrane">WNLFDFVIVAIALMPAQ</span><span class="topo-inside">G</span><span class="topo-membrane">SLSVLRTFRIFRVMRLVSVI</span><span class="topo-outside">PTM</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">RRVVQGMLLALPGV</span><span class="topo-membrane">GSVAALLTVVFYIAAVMATN</span><span class="topo-inside">LYGATFPEWFGDL</span><span class="topo-unknown">SKSLYTLFQVMTLESWS</span><span class="topo-inside">MGIVRPVMNVHPN</span><span class="topo-membrane">AWVFFIPFIMLTTLTVLNLFIGII</span><span class="topo-outside">VDAMAITKEQEEEAKTGHH</span></span>
+<span class="topo-ruler">       250       260       270       </span>
 <span class="topo-line"><span class="topo-outside">QEPISQTLLHLGDRLDRIEKQLAQNNELLQRQ</span><span class="topo-unknown">QPQKK</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4197,6 +4282,7 @@ NavMs is a prokaryotic voltage-gated sodium channel (NaV) from Magnetococcus mar
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4212,11 +4298,13 @@ NavMs is a prokaryotic voltage-gated sodium channel (NaV) from Magnetococcus mar
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">G</span><span class="topo-outside">SHMSRKIRDLIESKR</span><span class="topo-membrane">FQNVITAIIVLNGAVLGLLT</span><span class="topo-inside">DTTLSASSQN</span><span class="topo-membrane">LLERVDQLCLTIFI</span></span>
-<span class="topo-line"><span class="topo-membrane">VEISL</span><span class="topo-outside">KIYAYGVRGFFRSG</span><span class="topo-membrane">WNLFDFVIVAIALMPAQ</span><span class="topo-inside">G</span><span class="topo-membrane">SLSVLRTFRIFRVMRLVSVI</span><span class="topo-outside">PTM</span></span>
-<span class="topo-line"><span class="topo-outside">RRVVQGMLLALPGV</span><span class="topo-membrane">GSVAALLTVVFYIAAVMATN</span><span class="topo-inside">LYGATFPEWFGDL</span><span class="topo-unknown">SKSLYTLFQVMTL</span></span>
-<span class="topo-line"><span class="topo-unknown">ESWS</span><span class="topo-inside">MGIVRPVMNVHPN</span><span class="topo-membrane">AWVFFIPFIMLTTLTVLNLFIGII</span><span class="topo-outside">VDAMAITKEQEEEAKTGHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">G</span><span class="topo-outside">SHMSRKIRDLIESKR</span><span class="topo-membrane">FQNVITAIIVLNGAVLGLLT</span><span class="topo-inside">DTTLSASSQN</span><span class="topo-membrane">LLERVDQLCLTIFIVEISL</span><span class="topo-outside">KIYAYGVRGFFRSG</span><span class="topo-membrane">WNLFDFVIVAIALMPAQ</span><span class="topo-inside">G</span><span class="topo-membrane">SLSVLRTFRIFRVMRLVSVI</span><span class="topo-outside">PTM</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">RRVVQGMLLALPGV</span><span class="topo-membrane">GSVAALLTVVFYIAAVMATN</span><span class="topo-inside">LYGATFPEWFGDL</span><span class="topo-unknown">SKSLYTLFQVMTLESWS</span><span class="topo-inside">MGIVRPVMNVHPN</span><span class="topo-membrane">AWVFFIPFIMLTTLTVLNLFIGII</span><span class="topo-outside">VDAMAITKEQEEEAKTGHH</span></span>
+<span class="topo-ruler">       250       260       270       </span>
 <span class="topo-line"><span class="topo-outside">QEPISQTLLHLGDRLDRIEKQLAQNNELLQRQ</span><span class="topo-unknown">QPQKK</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4347,6 +4435,7 @@ NavMs is a prokaryotic voltage-gated sodium channel (NaV) from Magnetococcus mar
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4362,11 +4451,13 @@ NavMs is a prokaryotic voltage-gated sodium channel (NaV) from Magnetococcus mar
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">G</span><span class="topo-outside">SHMSRKIRDLIESKR</span><span class="topo-membrane">FQNVITAIIVLNGAVLGLLT</span><span class="topo-inside">DTTLSASSQN</span><span class="topo-membrane">LLERVDQLCLTIFI</span></span>
-<span class="topo-line"><span class="topo-membrane">VEISL</span><span class="topo-outside">KIYAYGVRGFFRSG</span><span class="topo-membrane">WNLFDFVIVAIALMPAQ</span><span class="topo-inside">G</span><span class="topo-membrane">SLSVLRTFRIFRVMRLVSVI</span><span class="topo-outside">PTM</span></span>
-<span class="topo-line"><span class="topo-outside">RRVVQGMLLALPGV</span><span class="topo-membrane">GSVAALLTVVFYIAAVMATN</span><span class="topo-inside">LYGATFPEWFGDL</span><span class="topo-unknown">SKSLYTLFQVMTL</span></span>
-<span class="topo-line"><span class="topo-unknown">ESWS</span><span class="topo-inside">MGIVRPVMNVHPN</span><span class="topo-membrane">AWVFFIPFIMLTTLTVLNLFIGII</span><span class="topo-outside">VDAMAITKEQEEEAKTGHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">G</span><span class="topo-outside">SHMSRKIRDLIESKR</span><span class="topo-membrane">FQNVITAIIVLNGAVLGLLT</span><span class="topo-inside">DTTLSASSQN</span><span class="topo-membrane">LLERVDQLCLTIFIVEISL</span><span class="topo-outside">KIYAYGVRGFFRSG</span><span class="topo-membrane">WNLFDFVIVAIALMPAQ</span><span class="topo-inside">G</span><span class="topo-membrane">SLSVLRTFRIFRVMRLVSVI</span><span class="topo-outside">PTM</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">RRVVQGMLLALPGV</span><span class="topo-membrane">GSVAALLTVVFYIAAVMATN</span><span class="topo-inside">LYGATFPEWFGDL</span><span class="topo-unknown">SKSLYTLFQVMTLESWS</span><span class="topo-inside">MGIVRPVMNVHPN</span><span class="topo-membrane">AWVFFIPFIMLTTLTVLNLFIGII</span><span class="topo-outside">VDAMAITKEQEEEAKTGHH</span></span>
+<span class="topo-ruler">       250       260       270       </span>
 <span class="topo-line"><span class="topo-outside">QEPISQTLLHLGDRLDRIEKQLAQNNELLQRQ</span><span class="topo-unknown">QPQKK</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4497,6 +4588,7 @@ NavMs is a prokaryotic voltage-gated sodium channel (NaV) from Magnetococcus mar
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4512,11 +4604,13 @@ NavMs is a prokaryotic voltage-gated sodium channel (NaV) from Magnetococcus mar
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GS</span><span class="topo-outside">HMSRKIRDLIESKR</span><span class="topo-membrane">FQNVITAIIVLNGAVLGLLT</span><span class="topo-inside">DTTLSASSQN</span><span class="topo-membrane">LLERVDQLCLTIFI</span></span>
-<span class="topo-line"><span class="topo-membrane">VEISLKI</span><span class="topo-outside">YAYGVRGFFRSG</span><span class="topo-membrane">WNLFDFVIVAIALMPAQ</span><span class="topo-inside">G</span><span class="topo-membrane">SLSVLRTFRIFRVMRLVSVIPTM</span></span>
-<span class="topo-line"><span class="topo-outside">R</span><span class="topo-membrane">RVVQGMLLALPGVGSVAALLTVVFYIAAVMATN</span><span class="topo-inside">LYGATFPEWFGDLSKS</span><span class="topo-unknown">LYTLFQVMTL</span></span>
-<span class="topo-line"><span class="topo-unknown">ESWS</span><span class="topo-inside">MGIVRPVMNVHPN</span><span class="topo-membrane">AWVFFIPFIMLTTLTVLNLFIGIIV</span><span class="topo-outside">DAMAITKEQEEEAKTGHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GS</span><span class="topo-outside">HMSRKIRDLIESKR</span><span class="topo-membrane">FQNVITAIIVLNGAVLGLLT</span><span class="topo-inside">DTTLSASSQN</span><span class="topo-membrane">LLERVDQLCLTIFIVEISLKI</span><span class="topo-outside">YAYGVRGFFRSG</span><span class="topo-membrane">WNLFDFVIVAIALMPAQ</span><span class="topo-inside">G</span><span class="topo-membrane">SLSVLRTFRIFRVMRLVSVIPTM</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">R</span><span class="topo-membrane">RVVQGMLLALPGVGSVAALLTVVFYIAAVMATN</span><span class="topo-inside">LYGATFPEWFGDLSKS</span><span class="topo-unknown">LYTLFQVMTLESWS</span><span class="topo-inside">MGIVRPVMNVHPN</span><span class="topo-membrane">AWVFFIPFIMLTTLTVLNLFIGIIV</span><span class="topo-outside">DAMAITKEQEEEAKTGHH</span></span>
+<span class="topo-ruler">       250       260       270       </span>
 <span class="topo-line"><span class="topo-outside">QEPISQTLLHLGDRLDRIEKQLAQNN</span><span class="topo-unknown">ELLQRQQPQKK</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4647,6 +4741,7 @@ NavMs is a prokaryotic voltage-gated sodium channel (NaV) from Magnetococcus mar
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4662,11 +4757,13 @@ NavMs is a prokaryotic voltage-gated sodium channel (NaV) from Magnetococcus mar
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GS</span><span class="topo-outside">HMSRKIRDLIESKR</span><span class="topo-membrane">FQNVITAIIVLNGAVLGLLT</span><span class="topo-inside">DTTLSASSQN</span><span class="topo-membrane">LLERVDQLCLTIFI</span></span>
-<span class="topo-line"><span class="topo-membrane">VEISLKI</span><span class="topo-outside">YAYGVRGFFRSG</span><span class="topo-membrane">WNLFDFVIVAIALMPAQ</span><span class="topo-inside">G</span><span class="topo-membrane">SLSVLRTFRIFRVMRLVSVIPTM</span></span>
-<span class="topo-line"><span class="topo-outside">R</span><span class="topo-membrane">RVVQGMLLALPGVGSVAALLTVVFYIAAVMATN</span><span class="topo-inside">LYGATFPEWFGDLSKS</span><span class="topo-unknown">LYTLFQVMTL</span></span>
-<span class="topo-line"><span class="topo-unknown">ESWS</span><span class="topo-inside">MGIVRPVMNVHPN</span><span class="topo-membrane">AWVFFIPFIMLTTLTVLNLFIGIIV</span><span class="topo-outside">DAMAITKEQEEEAKTGHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GS</span><span class="topo-outside">HMSRKIRDLIESKR</span><span class="topo-membrane">FQNVITAIIVLNGAVLGLLT</span><span class="topo-inside">DTTLSASSQN</span><span class="topo-membrane">LLERVDQLCLTIFIVEISLKI</span><span class="topo-outside">YAYGVRGFFRSG</span><span class="topo-membrane">WNLFDFVIVAIALMPAQ</span><span class="topo-inside">G</span><span class="topo-membrane">SLSVLRTFRIFRVMRLVSVIPTM</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">R</span><span class="topo-membrane">RVVQGMLLALPGVGSVAALLTVVFYIAAVMATN</span><span class="topo-inside">LYGATFPEWFGDLSKS</span><span class="topo-unknown">LYTLFQVMTLESWS</span><span class="topo-inside">MGIVRPVMNVHPN</span><span class="topo-membrane">AWVFFIPFIMLTTLTVLNLFIGIIV</span><span class="topo-outside">DAMAITKEQEEEAKTGHH</span></span>
+<span class="topo-ruler">       250       260       270       </span>
 <span class="topo-line"><span class="topo-outside">QEPISQTLLHLGDRLDRIEKQLAQNN</span><span class="topo-unknown">ELLQRQQPQKK</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4797,6 +4894,7 @@ NavMs is a prokaryotic voltage-gated sodium channel (NaV) from Magnetococcus mar
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4812,11 +4910,13 @@ NavMs is a prokaryotic voltage-gated sodium channel (NaV) from Magnetococcus mar
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GS</span><span class="topo-outside">HMSRKIRDLIESKR</span><span class="topo-membrane">FQNVITAIIVLNGAVLGLLT</span><span class="topo-inside">DTTLSASSQN</span><span class="topo-membrane">LLERVDQLCLTIFI</span></span>
-<span class="topo-line"><span class="topo-membrane">VEISLKI</span><span class="topo-outside">YAYGVRGFFRSG</span><span class="topo-membrane">WNLFDFVIVAIALMPAQ</span><span class="topo-inside">G</span><span class="topo-membrane">SLSVLRTFRIFRVMRLVSVIPTM</span></span>
-<span class="topo-line"><span class="topo-outside">R</span><span class="topo-membrane">RVVQGMLLALPGVGSVAALLTVVFYIAAVMATN</span><span class="topo-inside">LYGATFPEWFGDLSKS</span><span class="topo-unknown">LYTLFQVMTL</span></span>
-<span class="topo-line"><span class="topo-unknown">ESWS</span><span class="topo-inside">MGIVRPVMNVHPN</span><span class="topo-membrane">AWVFFIPFIMLTTLTVLNLFIGIIV</span><span class="topo-outside">DAMAITKEQEEEAKTGHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GS</span><span class="topo-outside">HMSRKIRDLIESKR</span><span class="topo-membrane">FQNVITAIIVLNGAVLGLLT</span><span class="topo-inside">DTTLSASSQN</span><span class="topo-membrane">LLERVDQLCLTIFIVEISLKI</span><span class="topo-outside">YAYGVRGFFRSG</span><span class="topo-membrane">WNLFDFVIVAIALMPAQ</span><span class="topo-inside">G</span><span class="topo-membrane">SLSVLRTFRIFRVMRLVSVIPTM</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">R</span><span class="topo-membrane">RVVQGMLLALPGVGSVAALLTVVFYIAAVMATN</span><span class="topo-inside">LYGATFPEWFGDLSKS</span><span class="topo-unknown">LYTLFQVMTLESWS</span><span class="topo-inside">MGIVRPVMNVHPN</span><span class="topo-membrane">AWVFFIPFIMLTTLTVLNLFIGIIV</span><span class="topo-outside">DAMAITKEQEEEAKTGHH</span></span>
+<span class="topo-ruler">       250       260       270       </span>
 <span class="topo-line"><span class="topo-outside">QEPISQTLLHLGDRLDRIEKQLAQNN</span><span class="topo-unknown">ELLQRQQPQKK</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4947,6 +5047,7 @@ NavMs is a prokaryotic voltage-gated sodium channel (NaV) from Magnetococcus mar
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4962,11 +5063,13 @@ NavMs is a prokaryotic voltage-gated sodium channel (NaV) from Magnetococcus mar
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GS</span><span class="topo-outside">HMSRKIRDLIESKR</span><span class="topo-membrane">FQNVITAIIVLNGAVLGLLT</span><span class="topo-inside">DTTLSASSQN</span><span class="topo-membrane">LLERVDQLCLTIFI</span></span>
-<span class="topo-line"><span class="topo-membrane">VEISLKI</span><span class="topo-outside">YAYGVRGFFRSG</span><span class="topo-membrane">WNLFDFVIVAIALMPAQ</span><span class="topo-inside">G</span><span class="topo-membrane">SLSVLRTFRIFRVMRLVSVIPTM</span></span>
-<span class="topo-line"><span class="topo-outside">R</span><span class="topo-membrane">RVVQGMLLALPGVGSVAALLTVVFYIAAVMATN</span><span class="topo-inside">LYGATFPEWFGDLSKS</span><span class="topo-unknown">LYTLFQVMTL</span></span>
-<span class="topo-line"><span class="topo-unknown">ESWS</span><span class="topo-inside">MGIVRPVMNVHPN</span><span class="topo-membrane">AWVFFIPFIMLTTLTVLNLFIGIIV</span><span class="topo-outside">DAMAITKEQEEEAKTGHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GS</span><span class="topo-outside">HMSRKIRDLIESKR</span><span class="topo-membrane">FQNVITAIIVLNGAVLGLLT</span><span class="topo-inside">DTTLSASSQN</span><span class="topo-membrane">LLERVDQLCLTIFIVEISLKI</span><span class="topo-outside">YAYGVRGFFRSG</span><span class="topo-membrane">WNLFDFVIVAIALMPAQ</span><span class="topo-inside">G</span><span class="topo-membrane">SLSVLRTFRIFRVMRLVSVIPTM</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">R</span><span class="topo-membrane">RVVQGMLLALPGVGSVAALLTVVFYIAAVMATN</span><span class="topo-inside">LYGATFPEWFGDLSKS</span><span class="topo-unknown">LYTLFQVMTLESWS</span><span class="topo-inside">MGIVRPVMNVHPN</span><span class="topo-membrane">AWVFFIPFIMLTTLTVLNLFIGIIV</span><span class="topo-outside">DAMAITKEQEEEAKTGHH</span></span>
+<span class="topo-ruler">       250       260       270       </span>
 <span class="topo-line"><span class="topo-outside">QEPISQTLLHLGDRLDRIEKQLAQNN</span><span class="topo-unknown">ELLQRQQPQKK</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -5097,6 +5200,7 @@ NavMs is a prokaryotic voltage-gated sodium channel (NaV) from Magnetococcus mar
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -5146,11 +5250,13 @@ NavMs is a prokaryotic voltage-gated sodium channel (NaV) from Magnetococcus mar
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">G</span><span class="topo-outside">SHMSRKIRDLIESK</span><span class="topo-membrane">RFQNVITAIIVLNGAVLGLL</span><span class="topo-inside">TDTTLSASSQNL</span><span class="topo-membrane">LERVDQLCLTIFI</span></span>
-<span class="topo-line"><span class="topo-membrane">VEISLKIY</span><span class="topo-outside">AYGVRGF</span><span class="topo-membrane">FRSGWNLFDFVIVAIALMP</span><span class="topo-unknown">AQGSLSVL</span><span class="topo-inside">R</span><span class="topo-membrane">TFRIFRVMRLVSVIPTM</span></span>
-<span class="topo-line"><span class="topo-membrane">R</span><span class="topo-outside">R</span><span class="topo-membrane">VVQGMLLALPGVGSVAALLTVVFYIAAVMA</span><span class="topo-inside">TNLYGATFPEWFGDLSKS</span><span class="topo-unknown">LYTLFQVMTL</span></span>
-<span class="topo-line"><span class="topo-unknown">E</span><span class="topo-inside">SWSMGIVRPVMNVHPNAW</span><span class="topo-membrane">VFFIPFIMLTTFTVLNLFIGIIVDAM</span><span class="topo-outside">AITKEQEEEAKTGHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">G</span><span class="topo-outside">SHMSRKIRDLIESK</span><span class="topo-membrane">RFQNVITAIIVLNGAVLGLL</span><span class="topo-inside">TDTTLSASSQNL</span><span class="topo-membrane">LERVDQLCLTIFIVEISLKIY</span><span class="topo-outside">AYGVRGF</span><span class="topo-membrane">FRSGWNLFDFVIVAIALMP</span><span class="topo-unknown">AQGSLSVL</span><span class="topo-inside">R</span><span class="topo-membrane">TFRIFRVMRLVSVIPTM</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">R</span><span class="topo-outside">R</span><span class="topo-membrane">VVQGMLLALPGVGSVAALLTVVFYIAAVMA</span><span class="topo-inside">TNLYGATFPEWFGDLSKS</span><span class="topo-unknown">LYTLFQVMTLE</span><span class="topo-inside">SWSMGIVRPVMNVHPNAW</span><span class="topo-membrane">VFFIPFIMLTTFTVLNLFIGIIVDAM</span><span class="topo-outside">AITKEQEEEAKTGHH</span></span>
+<span class="topo-ruler">       250       260       270       </span>
 <span class="topo-line"><span class="topo-outside">QEPISQTLLHLGDRLDRIEKQLAQN</span><span class="topo-unknown">NELLQRQQPQKK</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -5288,6 +5394,7 @@ NavMs is a prokaryotic voltage-gated sodium channel (NaV) from Magnetococcus mar
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -5303,11 +5410,13 @@ NavMs is a prokaryotic voltage-gated sodium channel (NaV) from Magnetococcus mar
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">G</span><span class="topo-outside">SHMSRKIRDLIESK</span><span class="topo-membrane">RFQNVITAIIVLNGAVLGLL</span><span class="topo-inside">TDTTLSASSQNL</span><span class="topo-membrane">LERVDQLCLTIFI</span></span>
-<span class="topo-line"><span class="topo-membrane">VEISLKIY</span><span class="topo-outside">AYGVRGF</span><span class="topo-membrane">FRSGWNLFDFVIVAIALMP</span><span class="topo-unknown">AQGSLSVL</span><span class="topo-inside">R</span><span class="topo-membrane">TFRIFRVMRLVSVIPTM</span></span>
-<span class="topo-line"><span class="topo-membrane">R</span><span class="topo-outside">R</span><span class="topo-membrane">VVQGMLLALPGVGSVAALLTVVFYIAAVMA</span><span class="topo-inside">TNLYGATFPEWFGDLSKS</span><span class="topo-unknown">LYTLFQVMTL</span></span>
-<span class="topo-line"><span class="topo-unknown">E</span><span class="topo-inside">SWSMGIVRPVMNVHPNAW</span><span class="topo-membrane">VFFIPFIMLTTFTVLNLFIGIIVDAM</span><span class="topo-outside">AITKEQEEEAKTGHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">G</span><span class="topo-outside">SHMSRKIRDLIESK</span><span class="topo-membrane">RFQNVITAIIVLNGAVLGLL</span><span class="topo-inside">TDTTLSASSQNL</span><span class="topo-membrane">LERVDQLCLTIFIVEISLKIY</span><span class="topo-outside">AYGVRGF</span><span class="topo-membrane">FRSGWNLFDFVIVAIALMP</span><span class="topo-unknown">AQGSLSVL</span><span class="topo-inside">R</span><span class="topo-membrane">TFRIFRVMRLVSVIPTM</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">R</span><span class="topo-outside">R</span><span class="topo-membrane">VVQGMLLALPGVGSVAALLTVVFYIAAVMA</span><span class="topo-inside">TNLYGATFPEWFGDLSKS</span><span class="topo-unknown">LYTLFQVMTLE</span><span class="topo-inside">SWSMGIVRPVMNVHPNAW</span><span class="topo-membrane">VFFIPFIMLTTFTVLNLFIGIIVDAM</span><span class="topo-outside">AITKEQEEEAKTGHH</span></span>
+<span class="topo-ruler">       250       260       270       </span>
 <span class="topo-line"><span class="topo-outside">QEPISQTLLHLGDRLDRIEKQLAQN</span><span class="topo-unknown">NELLQRQQPQKK</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -5445,6 +5554,7 @@ NavMs is a prokaryotic voltage-gated sodium channel (NaV) from Magnetococcus mar
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -5460,11 +5570,13 @@ NavMs is a prokaryotic voltage-gated sodium channel (NaV) from Magnetococcus mar
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">G</span><span class="topo-outside">SHMSRKIRDLIESK</span><span class="topo-membrane">RFQNVITAIIVLNGAVLGLL</span><span class="topo-inside">TDTTLSASSQNL</span><span class="topo-membrane">LERVDQLCLTIFI</span></span>
-<span class="topo-line"><span class="topo-membrane">VEISLKIY</span><span class="topo-outside">AYGVRGF</span><span class="topo-membrane">FRSGWNLFDFVIVAIALMP</span><span class="topo-unknown">AQGSLSVL</span><span class="topo-inside">R</span><span class="topo-membrane">TFRIFRVMRLVSVIPTM</span></span>
-<span class="topo-line"><span class="topo-membrane">R</span><span class="topo-outside">R</span><span class="topo-membrane">VVQGMLLALPGVGSVAALLTVVFYIAAVMA</span><span class="topo-inside">TNLYGATFPEWFGDLSKS</span><span class="topo-unknown">LYTLFQVMTL</span></span>
-<span class="topo-line"><span class="topo-unknown">E</span><span class="topo-inside">SWSMGIVRPVMNVHPNAW</span><span class="topo-membrane">VFFIPFIMLTTFTVLNLFIGIIVDAM</span><span class="topo-outside">AITKEQEEEAKTGHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">G</span><span class="topo-outside">SHMSRKIRDLIESK</span><span class="topo-membrane">RFQNVITAIIVLNGAVLGLL</span><span class="topo-inside">TDTTLSASSQNL</span><span class="topo-membrane">LERVDQLCLTIFIVEISLKIY</span><span class="topo-outside">AYGVRGF</span><span class="topo-membrane">FRSGWNLFDFVIVAIALMP</span><span class="topo-unknown">AQGSLSVL</span><span class="topo-inside">R</span><span class="topo-membrane">TFRIFRVMRLVSVIPTM</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">R</span><span class="topo-outside">R</span><span class="topo-membrane">VVQGMLLALPGVGSVAALLTVVFYIAAVMA</span><span class="topo-inside">TNLYGATFPEWFGDLSKS</span><span class="topo-unknown">LYTLFQVMTLE</span><span class="topo-inside">SWSMGIVRPVMNVHPNAW</span><span class="topo-membrane">VFFIPFIMLTTFTVLNLFIGIIVDAM</span><span class="topo-outside">AITKEQEEEAKTGHH</span></span>
+<span class="topo-ruler">       250       260       270       </span>
 <span class="topo-line"><span class="topo-outside">QEPISQTLLHLGDRLDRIEKQLAQN</span><span class="topo-unknown">NELLQRQQPQKK</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -5602,6 +5714,7 @@ NavMs is a prokaryotic voltage-gated sodium channel (NaV) from Magnetococcus mar
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -5617,11 +5730,13 @@ NavMs is a prokaryotic voltage-gated sodium channel (NaV) from Magnetococcus mar
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">G</span><span class="topo-outside">SHMSRKIRDLIESK</span><span class="topo-membrane">RFQNVITAIIVLNGAVLGLL</span><span class="topo-inside">TDTTLSASSQNL</span><span class="topo-membrane">LERVDQLCLTIFI</span></span>
-<span class="topo-line"><span class="topo-membrane">VEISLKIY</span><span class="topo-outside">AYGVRGF</span><span class="topo-membrane">FRSGWNLFDFVIVAIALMP</span><span class="topo-unknown">AQGSLSVL</span><span class="topo-inside">R</span><span class="topo-membrane">TFRIFRVMRLVSVIPTM</span></span>
-<span class="topo-line"><span class="topo-membrane">R</span><span class="topo-outside">R</span><span class="topo-membrane">VVQGMLLALPGVGSVAALLTVVFYIAAVMA</span><span class="topo-inside">TNLYGATFPEWFGDLSKS</span><span class="topo-unknown">LYTLFQVMTL</span></span>
-<span class="topo-line"><span class="topo-unknown">E</span><span class="topo-inside">SWSMGIVRPVMNVHPNAW</span><span class="topo-membrane">VFFIPFIMLTTFTVLNLFIGIIVDAM</span><span class="topo-outside">AITKEQEEEAKTGHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">G</span><span class="topo-outside">SHMSRKIRDLIESK</span><span class="topo-membrane">RFQNVITAIIVLNGAVLGLL</span><span class="topo-inside">TDTTLSASSQNL</span><span class="topo-membrane">LERVDQLCLTIFIVEISLKIY</span><span class="topo-outside">AYGVRGF</span><span class="topo-membrane">FRSGWNLFDFVIVAIALMP</span><span class="topo-unknown">AQGSLSVL</span><span class="topo-inside">R</span><span class="topo-membrane">TFRIFRVMRLVSVIPTM</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">R</span><span class="topo-outside">R</span><span class="topo-membrane">VVQGMLLALPGVGSVAALLTVVFYIAAVMA</span><span class="topo-inside">TNLYGATFPEWFGDLSKS</span><span class="topo-unknown">LYTLFQVMTLE</span><span class="topo-inside">SWSMGIVRPVMNVHPNAW</span><span class="topo-membrane">VFFIPFIMLTTFTVLNLFIGIIVDAM</span><span class="topo-outside">AITKEQEEEAKTGHH</span></span>
+<span class="topo-ruler">       250       260       270       </span>
 <span class="topo-line"><span class="topo-outside">QEPISQTLLHLGDRLDRIEKQLAQN</span><span class="topo-unknown">NELLQRQQPQKK</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -5759,6 +5874,7 @@ NavMs is a prokaryotic voltage-gated sodium channel (NaV) from Magnetococcus mar
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -5774,11 +5890,13 @@ NavMs is a prokaryotic voltage-gated sodium channel (NaV) from Magnetococcus mar
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">G</span><span class="topo-outside">S</span><span class="topo-unknown">HMSRKIRDLI</span><span class="topo-outside">ESK</span><span class="topo-membrane">RFQNVITAIIVLNGAVLGLLTD</span><span class="topo-inside">TTLSAS</span><span class="topo-membrane">SQNLLERVDQLCLTIFI</span></span>
-<span class="topo-line"><span class="topo-membrane">VEISLKIY</span><span class="topo-outside">AYGVRGF</span><span class="topo-membrane">FRSGWNLFDFVIVAIALMP</span><span class="topo-unknown">AQGSLSVL</span><span class="topo-inside">R</span><span class="topo-membrane">TFRIFRVMRLVSVIPTM</span></span>
-<span class="topo-line"><span class="topo-membrane">R</span><span class="topo-outside">R</span><span class="topo-membrane">VVQGMLLALPGVGSVAALLTVVFYIAAVMATNLY</span><span class="topo-inside">GATFPEWFGD</span><span class="topo-unknown">LSKSLYTLFQVMTL</span></span>
-<span class="topo-line"><span class="topo-unknown">ESWSMGIVRPVMNV</span><span class="topo-inside">HPN</span><span class="topo-membrane">AWVFFIPFIMLTTFTVLNLFIGICVDAM</span><span class="topo-outside">AITKEQEEEAKTGHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">G</span><span class="topo-outside">S</span><span class="topo-unknown">HMSRKIRDLI</span><span class="topo-outside">ESK</span><span class="topo-membrane">RFQNVITAIIVLNGAVLGLLTD</span><span class="topo-inside">TTLSAS</span><span class="topo-membrane">SQNLLERVDQLCLTIFIVEISLKIY</span><span class="topo-outside">AYGVRGF</span><span class="topo-membrane">FRSGWNLFDFVIVAIALMP</span><span class="topo-unknown">AQGSLSVL</span><span class="topo-inside">R</span><span class="topo-membrane">TFRIFRVMRLVSVIPTM</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">R</span><span class="topo-outside">R</span><span class="topo-membrane">VVQGMLLALPGVGSVAALLTVVFYIAAVMATNLY</span><span class="topo-inside">GATFPEWFGD</span><span class="topo-unknown">LSKSLYTLFQVMTLESWSMGIVRPVMNV</span><span class="topo-inside">HPN</span><span class="topo-membrane">AWVFFIPFIMLTTFTVLNLFIGICVDAM</span><span class="topo-outside">AITKEQEEEAKTGHH</span></span>
+<span class="topo-ruler">       250       260       270       </span>
 <span class="topo-line"><span class="topo-outside">QEPISQTLLHLGDRLDRIEKQLAQ</span><span class="topo-unknown">NNELLQRQQPQKK</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -5916,6 +6034,7 @@ NavMs is a prokaryotic voltage-gated sodium channel (NaV) from Magnetococcus mar
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -5931,11 +6050,13 @@ NavMs is a prokaryotic voltage-gated sodium channel (NaV) from Magnetococcus mar
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">G</span><span class="topo-outside">S</span><span class="topo-unknown">HMSRKIRDLI</span><span class="topo-outside">ESK</span><span class="topo-membrane">RFQNVITAIIVLNGAVLGLLTD</span><span class="topo-inside">TTLSAS</span><span class="topo-membrane">SQNLLERVDQLCLTIFI</span></span>
-<span class="topo-line"><span class="topo-membrane">VEISLKIY</span><span class="topo-outside">AYGVRGF</span><span class="topo-membrane">FRSGWNLFDFVIVAIALMP</span><span class="topo-unknown">AQGSLSVL</span><span class="topo-inside">R</span><span class="topo-membrane">TFRIFRVMRLVSVIPTM</span></span>
-<span class="topo-line"><span class="topo-membrane">R</span><span class="topo-outside">R</span><span class="topo-membrane">VVQGMLLALPGVGSVAALLTVVFYIAAVMATNLY</span><span class="topo-inside">GATFPEWFGD</span><span class="topo-unknown">LSKSLYTLFQVMTL</span></span>
-<span class="topo-line"><span class="topo-unknown">ESWSMGIVRPVMNV</span><span class="topo-inside">HPN</span><span class="topo-membrane">AWVFFIPFIMLTTFTVLNLFIGICVDAM</span><span class="topo-outside">AITKEQEEEAKTGHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">G</span><span class="topo-outside">S</span><span class="topo-unknown">HMSRKIRDLI</span><span class="topo-outside">ESK</span><span class="topo-membrane">RFQNVITAIIVLNGAVLGLLTD</span><span class="topo-inside">TTLSAS</span><span class="topo-membrane">SQNLLERVDQLCLTIFIVEISLKIY</span><span class="topo-outside">AYGVRGF</span><span class="topo-membrane">FRSGWNLFDFVIVAIALMP</span><span class="topo-unknown">AQGSLSVL</span><span class="topo-inside">R</span><span class="topo-membrane">TFRIFRVMRLVSVIPTM</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">R</span><span class="topo-outside">R</span><span class="topo-membrane">VVQGMLLALPGVGSVAALLTVVFYIAAVMATNLY</span><span class="topo-inside">GATFPEWFGD</span><span class="topo-unknown">LSKSLYTLFQVMTLESWSMGIVRPVMNV</span><span class="topo-inside">HPN</span><span class="topo-membrane">AWVFFIPFIMLTTFTVLNLFIGICVDAM</span><span class="topo-outside">AITKEQEEEAKTGHH</span></span>
+<span class="topo-ruler">       250       260       270       </span>
 <span class="topo-line"><span class="topo-outside">QEPISQTLLHLGDRLDRIEKQLAQ</span><span class="topo-unknown">NNELLQRQQPQKK</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -6073,6 +6194,7 @@ NavMs is a prokaryotic voltage-gated sodium channel (NaV) from Magnetococcus mar
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -6088,11 +6210,13 @@ NavMs is a prokaryotic voltage-gated sodium channel (NaV) from Magnetococcus mar
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">G</span><span class="topo-outside">S</span><span class="topo-unknown">HMSRKIRDLI</span><span class="topo-outside">ESK</span><span class="topo-membrane">RFQNVITAIIVLNGAVLGLLTD</span><span class="topo-inside">TTLSAS</span><span class="topo-membrane">SQNLLERVDQLCLTIFI</span></span>
-<span class="topo-line"><span class="topo-membrane">VEISLKIY</span><span class="topo-outside">AYGVRGF</span><span class="topo-membrane">FRSGWNLFDFVIVAIALMP</span><span class="topo-unknown">AQGSLSVL</span><span class="topo-inside">R</span><span class="topo-membrane">TFRIFRVMRLVSVIPTM</span></span>
-<span class="topo-line"><span class="topo-membrane">R</span><span class="topo-outside">R</span><span class="topo-membrane">VVQGMLLALPGVGSVAALLTVVFYIAAVMATNLY</span><span class="topo-inside">GATFPEWFGD</span><span class="topo-unknown">LSKSLYTLFQVMTL</span></span>
-<span class="topo-line"><span class="topo-unknown">ESWSMGIVRPVMNV</span><span class="topo-inside">HPN</span><span class="topo-membrane">AWVFFIPFIMLTTFTVLNLFIGICVDAM</span><span class="topo-outside">AITKEQEEEAKTGHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">G</span><span class="topo-outside">S</span><span class="topo-unknown">HMSRKIRDLI</span><span class="topo-outside">ESK</span><span class="topo-membrane">RFQNVITAIIVLNGAVLGLLTD</span><span class="topo-inside">TTLSAS</span><span class="topo-membrane">SQNLLERVDQLCLTIFIVEISLKIY</span><span class="topo-outside">AYGVRGF</span><span class="topo-membrane">FRSGWNLFDFVIVAIALMP</span><span class="topo-unknown">AQGSLSVL</span><span class="topo-inside">R</span><span class="topo-membrane">TFRIFRVMRLVSVIPTM</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">R</span><span class="topo-outside">R</span><span class="topo-membrane">VVQGMLLALPGVGSVAALLTVVFYIAAVMATNLY</span><span class="topo-inside">GATFPEWFGD</span><span class="topo-unknown">LSKSLYTLFQVMTLESWSMGIVRPVMNV</span><span class="topo-inside">HPN</span><span class="topo-membrane">AWVFFIPFIMLTTFTVLNLFIGICVDAM</span><span class="topo-outside">AITKEQEEEAKTGHH</span></span>
+<span class="topo-ruler">       250       260       270       </span>
 <span class="topo-line"><span class="topo-outside">QEPISQTLLHLGDRLDRIEKQLAQ</span><span class="topo-unknown">NNELLQRQQPQKK</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -6230,6 +6354,7 @@ NavMs is a prokaryotic voltage-gated sodium channel (NaV) from Magnetococcus mar
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -6245,11 +6370,13 @@ NavMs is a prokaryotic voltage-gated sodium channel (NaV) from Magnetococcus mar
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">G</span><span class="topo-outside">S</span><span class="topo-unknown">HMSRKIRDLI</span><span class="topo-outside">ESK</span><span class="topo-membrane">RFQNVITAIIVLNGAVLGLLTD</span><span class="topo-inside">TTLSAS</span><span class="topo-membrane">SQNLLERVDQLCLTIFI</span></span>
-<span class="topo-line"><span class="topo-membrane">VEISLKIY</span><span class="topo-outside">AYGVRGF</span><span class="topo-membrane">FRSGWNLFDFVIVAIALMP</span><span class="topo-unknown">AQGSLSVL</span><span class="topo-inside">R</span><span class="topo-membrane">TFRIFRVMRLVSVIPTM</span></span>
-<span class="topo-line"><span class="topo-membrane">R</span><span class="topo-outside">R</span><span class="topo-membrane">VVQGMLLALPGVGSVAALLTVVFYIAAVMATNLY</span><span class="topo-inside">GATFPEWFGD</span><span class="topo-unknown">LSKSLYTLFQVMTL</span></span>
-<span class="topo-line"><span class="topo-unknown">ESWSMGIVRPVMNV</span><span class="topo-inside">HPN</span><span class="topo-membrane">AWVFFIPFIMLTTFTVLNLFIGICVDAM</span><span class="topo-outside">AITKEQEEEAKTGHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">G</span><span class="topo-outside">S</span><span class="topo-unknown">HMSRKIRDLI</span><span class="topo-outside">ESK</span><span class="topo-membrane">RFQNVITAIIVLNGAVLGLLTD</span><span class="topo-inside">TTLSAS</span><span class="topo-membrane">SQNLLERVDQLCLTIFIVEISLKIY</span><span class="topo-outside">AYGVRGF</span><span class="topo-membrane">FRSGWNLFDFVIVAIALMP</span><span class="topo-unknown">AQGSLSVL</span><span class="topo-inside">R</span><span class="topo-membrane">TFRIFRVMRLVSVIPTM</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">R</span><span class="topo-outside">R</span><span class="topo-membrane">VVQGMLLALPGVGSVAALLTVVFYIAAVMATNLY</span><span class="topo-inside">GATFPEWFGD</span><span class="topo-unknown">LSKSLYTLFQVMTLESWSMGIVRPVMNV</span><span class="topo-inside">HPN</span><span class="topo-membrane">AWVFFIPFIMLTTFTVLNLFIGICVDAM</span><span class="topo-outside">AITKEQEEEAKTGHH</span></span>
+<span class="topo-ruler">       250       260       270       </span>
 <span class="topo-line"><span class="topo-outside">QEPISQTLLHLGDRLDRIEKQLAQ</span><span class="topo-unknown">NNELLQRQQPQKK</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -6387,6 +6514,7 @@ NavMs is a prokaryotic voltage-gated sodium channel (NaV) from Magnetococcus mar
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

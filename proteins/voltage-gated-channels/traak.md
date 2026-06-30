@@ -176,11 +176,13 @@ TRAAK (tandem pore domain potassium channel 4, KCNK4) is a mechanosensitive two-
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MTTAPQEPPARPLQAGSGAGPAPGRAM</span><span class="topo-inside">RSTTLL</span><span class="topo-membrane">ALLALVLLYLVSGALVFRAL</span><span class="topo-outside">EQPHEQQ</span></span>
-<span class="topo-line"><span class="topo-outside">AQRELGEVREKFLRAHPCVSDQELGLLIKEVADALGGGADPET</span><span class="topo-unknown">QSTSQS</span><span class="topo-outside">SHSAWDL</span><span class="topo-unknown">GSAF</span></span>
-<span class="topo-line"><span class="topo-unknown">FFSGTIITTIGYG</span><span class="topo-outside">NVALRTD</span><span class="topo-membrane">AGRLFCIFYALVGIPLFGILLAGVG</span><span class="topo-unknown">DRLGSSLRHGIGHIE</span></span>
-<span class="topo-line"><span class="topo-unknown">AIFL</span><span class="topo-inside">KWHVPPELVRVLSEM</span><span class="topo-membrane">LFLLIGCLLFVLTPTFVFC</span><span class="topo-outside">YMEDWSK</span><span class="topo-unknown">LEAIYFVIVTLTTVG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MTTAPQEPPARPLQAGSGAGPAPGRAM</span><span class="topo-inside">RSTTLL</span><span class="topo-membrane">ALLALVLLYLVSGALVFRAL</span><span class="topo-outside">EQPHEQQAQRELGEVREKFLRAHPCVSDQELGLLIKEVADALGGGADPET</span><span class="topo-unknown">QSTSQS</span><span class="topo-outside">SHSAWDL</span><span class="topo-unknown">GSAF</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-unknown">FFSGTIITTIGYG</span><span class="topo-outside">NVALRTD</span><span class="topo-membrane">AGRLFCIFYALVGIPLFGILLAGVG</span><span class="topo-unknown">DRLGSSLRHGIGHIEAIFL</span><span class="topo-inside">KWHVPPELVRVLSEM</span><span class="topo-membrane">LFLLIGCLLFVLTPTFVFC</span><span class="topo-outside">YMEDWSK</span><span class="topo-unknown">LEAIYFVIVTLTTVG</span></span>
+<span class="topo-ruler">       250       260       270       280       290         </span>
 <span class="topo-line"><span class="topo-unknown">FG</span><span class="topo-outside">DYVAGADPRQDS</span><span class="topo-membrane">PAYQPLVWFWILLGLAYFASVLTTIG</span><span class="topo-inside">NWLRVV</span><span class="topo-unknown">SRRTSNSLEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -297,6 +299,7 @@ TRAAK (tandem pore domain potassium channel 4, KCNK4) is a mechanosensitive two-
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -312,11 +315,13 @@ TRAAK (tandem pore domain potassium channel 4, KCNK4) is a mechanosensitive two-
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MTTAPQEPPARPLQAGSGAGPAPGRAM</span><span class="topo-inside">RSTTL</span><span class="topo-membrane">LALLALVLLYLVSGALVF</span><span class="topo-outside">RALEQPHEQQ</span></span>
-<span class="topo-line"><span class="topo-outside">AQRELGEVREKFLRAHPCVSDQELGLLIKEVADALGGGADPETQST</span><span class="topo-unknown">SQSSH</span><span class="topo-outside">SAWDL</span><span class="topo-unknown">GSAF</span></span>
-<span class="topo-line"><span class="topo-unknown">FFSGTIITTIGYG</span><span class="topo-outside">NVALRTD</span><span class="topo-membrane">AGRLFCIFYALVGIPLFGILLA</span><span class="topo-unknown">GVGDRLGSSLRHGIGHIE</span></span>
-<span class="topo-line"><span class="topo-unknown">AIFLK</span><span class="topo-inside">WHVPPELVRVLSEMLFL</span><span class="topo-membrane">LIGCLLFVLTPTFVFCYM</span><span class="topo-outside">EDWS</span><span class="topo-unknown">KLEAIYFVIVTLTTVG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MTTAPQEPPARPLQAGSGAGPAPGRAM</span><span class="topo-inside">RSTTL</span><span class="topo-membrane">LALLALVLLYLVSGALVF</span><span class="topo-outside">RALEQPHEQQAQRELGEVREKFLRAHPCVSDQELGLLIKEVADALGGGADPETQST</span><span class="topo-unknown">SQSSH</span><span class="topo-outside">SAWDL</span><span class="topo-unknown">GSAF</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-unknown">FFSGTIITTIGYG</span><span class="topo-outside">NVALRTD</span><span class="topo-membrane">AGRLFCIFYALVGIPLFGILLA</span><span class="topo-unknown">GVGDRLGSSLRHGIGHIEAIFLK</span><span class="topo-inside">WHVPPELVRVLSEMLFL</span><span class="topo-membrane">LIGCLLFVLTPTFVFCYM</span><span class="topo-outside">EDWS</span><span class="topo-unknown">KLEAIYFVIVTLTTVG</span></span>
+<span class="topo-ruler">       250       260       270       280       290         </span>
 <span class="topo-line"><span class="topo-unknown">FG</span><span class="topo-outside">DYVAGADPRQDS</span><span class="topo-membrane">PAYQPLVWFWILLGLAYFASVLTTIG</span><span class="topo-unknown">NWLRVV</span><span class="topo-inside">S</span><span class="topo-unknown">RRTSNSLEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -440,6 +445,7 @@ TRAAK (tandem pore domain potassium channel 4, KCNK4) is a mechanosensitive two-
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -586,11 +592,13 @@ TRAAK (tandem pore domain potassium channel 4, KCNK4) is a mechanosensitive two-
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MTTAPQEPPARPLQAGSGAGPAPGRAM</span><span class="topo-inside">RSTTLL</span><span class="topo-membrane">ALLALVLLYLVSGALVFRAL</span><span class="topo-outside">EQPHEQQ</span></span>
-<span class="topo-line"><span class="topo-outside">AQRELGEVREKFLRAHPCVSDQELGLLIKEVADALGGGADPET</span><span class="topo-unknown">QSTSQS</span><span class="topo-outside">SHSAWDL</span><span class="topo-unknown">GSAF</span></span>
-<span class="topo-line"><span class="topo-unknown">FFSGTIITTIGYG</span><span class="topo-outside">NVALRTD</span><span class="topo-membrane">AGRLFCIFYALVGIPLFGILLAGVG</span><span class="topo-unknown">DRLGSSLRHGIGHIE</span></span>
-<span class="topo-line"><span class="topo-unknown">AIFLK</span><span class="topo-inside">WHVPPELVRVLSAM</span><span class="topo-membrane">LFLLIGCLLFVLTPTFVFCY</span><span class="topo-outside">MEDWSK</span><span class="topo-unknown">LEAIYFVIVTLTTVG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MTTAPQEPPARPLQAGSGAGPAPGRAM</span><span class="topo-inside">RSTTLL</span><span class="topo-membrane">ALLALVLLYLVSGALVFRAL</span><span class="topo-outside">EQPHEQQAQRELGEVREKFLRAHPCVSDQELGLLIKEVADALGGGADPET</span><span class="topo-unknown">QSTSQS</span><span class="topo-outside">SHSAWDL</span><span class="topo-unknown">GSAF</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-unknown">FFSGTIITTIGYG</span><span class="topo-outside">NVALRTD</span><span class="topo-membrane">AGRLFCIFYALVGIPLFGILLAGVG</span><span class="topo-unknown">DRLGSSLRHGIGHIEAIFLK</span><span class="topo-inside">WHVPPELVRVLSAM</span><span class="topo-membrane">LFLLIGCLLFVLTPTFVFCY</span><span class="topo-outside">MEDWSK</span><span class="topo-unknown">LEAIYFVIVTLTTVG</span></span>
+<span class="topo-ruler">       250       260       270       280       290         </span>
 <span class="topo-line"><span class="topo-unknown">FG</span><span class="topo-outside">DYVAGADPRQDS</span><span class="topo-membrane">PAYQPLVWFWILLGLAYFASVLT</span><span class="topo-inside">TIGNWLRVV</span><span class="topo-unknown">SRRTSNSLEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -707,6 +715,7 @@ TRAAK (tandem pore domain potassium channel 4, KCNK4) is a mechanosensitive two-
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -722,11 +731,13 @@ TRAAK (tandem pore domain potassium channel 4, KCNK4) is a mechanosensitive two-
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MTTAPQEPPARPLQAGSGAGPAPGRAM</span><span class="topo-inside">RSTTL</span><span class="topo-membrane">LALLALVLLYLVSGALVFR</span><span class="topo-outside">ALEQPHEQQ</span></span>
-<span class="topo-line"><span class="topo-outside">AQRELGEVREKFLRAHPCVSDQELGLLIKEVADALGGGADPETQS</span><span class="topo-unknown">TSQS</span><span class="topo-outside">SHSAWDL</span><span class="topo-unknown">GSAF</span></span>
-<span class="topo-line"><span class="topo-unknown">FFSGTIITTIGYG</span><span class="topo-outside">NVALRTD</span><span class="topo-membrane">AGRLFCIFYALVGIPLFGILLA</span><span class="topo-unknown">GVGDRLGSSLRHGIGHIE</span></span>
-<span class="topo-line"><span class="topo-unknown">AIFLK</span><span class="topo-inside">WHVPPELVRVLSAMLFL</span><span class="topo-membrane">LIGCLLFVLTPTFVFCYME</span><span class="topo-outside">DWS</span><span class="topo-unknown">KLEAIYFVIVTLT</span><span class="topo-outside">TVG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MTTAPQEPPARPLQAGSGAGPAPGRAM</span><span class="topo-inside">RSTTL</span><span class="topo-membrane">LALLALVLLYLVSGALVFR</span><span class="topo-outside">ALEQPHEQQAQRELGEVREKFLRAHPCVSDQELGLLIKEVADALGGGADPETQS</span><span class="topo-unknown">TSQS</span><span class="topo-outside">SHSAWDL</span><span class="topo-unknown">GSAF</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-unknown">FFSGTIITTIGYG</span><span class="topo-outside">NVALRTD</span><span class="topo-membrane">AGRLFCIFYALVGIPLFGILLA</span><span class="topo-unknown">GVGDRLGSSLRHGIGHIEAIFLK</span><span class="topo-inside">WHVPPELVRVLSAMLFL</span><span class="topo-membrane">LIGCLLFVLTPTFVFCYME</span><span class="topo-outside">DWS</span><span class="topo-unknown">KLEAIYFVIVTLT</span><span class="topo-outside">TVG</span></span>
+<span class="topo-ruler">       250       260       270       280       290         </span>
 <span class="topo-line"><span class="topo-outside">FGDYVAGADPRQDS</span><span class="topo-membrane">PAYQPLVWFWILLGLAYFASVLTTIG</span><span class="topo-inside">NWLRVV</span><span class="topo-unknown">SRRTSNSLEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -843,6 +854,7 @@ TRAAK (tandem pore domain potassium channel 4, KCNK4) is a mechanosensitive two-
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -858,11 +870,13 @@ TRAAK (tandem pore domain potassium channel 4, KCNK4) is a mechanosensitive two-
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MTTAPQEPPARPLQAGSGAGPAPGRAM</span><span class="topo-inside">RSTTLL</span><span class="topo-membrane">ALLALVLLYLVSGALVFRA</span><span class="topo-outside">LEQPHEQQ</span></span>
-<span class="topo-line"><span class="topo-outside">AQRELGEVREKFLRAHPCVSDQELGLLIKEVADALGGGADPET</span><span class="topo-unknown">QSTSQS</span><span class="topo-outside">SHSAWDL</span><span class="topo-unknown">GSAF</span></span>
-<span class="topo-line"><span class="topo-unknown">FFSGTIITTIGYG</span><span class="topo-outside">NVALRTDA</span><span class="topo-membrane">GRLFCIFYALVGIPLFGILLAGVG</span><span class="topo-unknown">DRLGSSLRHGIGHIE</span></span>
-<span class="topo-line"><span class="topo-unknown">AIFLK</span><span class="topo-inside">WHVPPELVRVLSAM</span><span class="topo-membrane">LFLLIGCLLFVLTPTFVFC</span><span class="topo-outside">YMEDWSK</span><span class="topo-unknown">LEAIYFVIVTLTTVG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MTTAPQEPPARPLQAGSGAGPAPGRAM</span><span class="topo-inside">RSTTLL</span><span class="topo-membrane">ALLALVLLYLVSGALVFRA</span><span class="topo-outside">LEQPHEQQAQRELGEVREKFLRAHPCVSDQELGLLIKEVADALGGGADPET</span><span class="topo-unknown">QSTSQS</span><span class="topo-outside">SHSAWDL</span><span class="topo-unknown">GSAF</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-unknown">FFSGTIITTIGYG</span><span class="topo-outside">NVALRTDA</span><span class="topo-membrane">GRLFCIFYALVGIPLFGILLAGVG</span><span class="topo-unknown">DRLGSSLRHGIGHIEAIFLK</span><span class="topo-inside">WHVPPELVRVLSAM</span><span class="topo-membrane">LFLLIGCLLFVLTPTFVFC</span><span class="topo-outside">YMEDWSK</span><span class="topo-unknown">LEAIYFVIVTLTTVG</span></span>
+<span class="topo-ruler">       250       260       270       280       290         </span>
 <span class="topo-line"><span class="topo-unknown">FG</span><span class="topo-outside">DYVAGADPRQDSP</span><span class="topo-membrane">AYQPLVWFWILLGLAYFASVLT</span><span class="topo-inside">TIGNWLRVV</span><span class="topo-unknown">SRRTSNSLEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -979,6 +993,7 @@ TRAAK (tandem pore domain potassium channel 4, KCNK4) is a mechanosensitive two-
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -994,11 +1009,13 @@ TRAAK (tandem pore domain potassium channel 4, KCNK4) is a mechanosensitive two-
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MTTAPQEPPARPLQAGSGAGPAPGRAM</span><span class="topo-inside">RSTTL</span><span class="topo-membrane">LALLALVLLYLVSGALVF</span><span class="topo-outside">RALEQPHEQQ</span></span>
-<span class="topo-line"><span class="topo-outside">AQRELGEVREKFLRAHPCVSDQELGLLIKEVADALGGGADPETQS</span><span class="topo-unknown">TSQS</span><span class="topo-outside">SHSAWDL</span><span class="topo-unknown">GSAF</span></span>
-<span class="topo-line"><span class="topo-unknown">FFSGTIITTIGYG</span><span class="topo-outside">NVALRTDA</span><span class="topo-membrane">GRLFCIFYALVGIPLFGILLA</span><span class="topo-unknown">GVGDRLGSSLRHGIGHIE</span></span>
-<span class="topo-line"><span class="topo-unknown">AIFLK</span><span class="topo-inside">WHVPPELVRVLSAMLFL</span><span class="topo-membrane">LIGCLLFVLTPTFVFCYM</span><span class="topo-outside">EDWS</span><span class="topo-unknown">KLEAIYFVIVTLTTVG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MTTAPQEPPARPLQAGSGAGPAPGRAM</span><span class="topo-inside">RSTTL</span><span class="topo-membrane">LALLALVLLYLVSGALVF</span><span class="topo-outside">RALEQPHEQQAQRELGEVREKFLRAHPCVSDQELGLLIKEVADALGGGADPETQS</span><span class="topo-unknown">TSQS</span><span class="topo-outside">SHSAWDL</span><span class="topo-unknown">GSAF</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-unknown">FFSGTIITTIGYG</span><span class="topo-outside">NVALRTDA</span><span class="topo-membrane">GRLFCIFYALVGIPLFGILLA</span><span class="topo-unknown">GVGDRLGSSLRHGIGHIEAIFLK</span><span class="topo-inside">WHVPPELVRVLSAMLFL</span><span class="topo-membrane">LIGCLLFVLTPTFVFCYM</span><span class="topo-outside">EDWS</span><span class="topo-unknown">KLEAIYFVIVTLTTVG</span></span>
+<span class="topo-ruler">       250       260       270       280       290         </span>
 <span class="topo-line"><span class="topo-unknown">FG</span><span class="topo-outside">DYVAGADPRQDS</span><span class="topo-membrane">PAYQPLVWFWILLGLAYFASVLT</span><span class="topo-unknown">TIGNWLRV</span><span class="topo-inside">V</span><span class="topo-unknown">SRRTSNSLEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1122,6 +1139,7 @@ TRAAK (tandem pore domain potassium channel 4, KCNK4) is a mechanosensitive two-
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1137,11 +1155,13 @@ TRAAK (tandem pore domain potassium channel 4, KCNK4) is a mechanosensitive two-
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MTTAPQEPPARPLQAGSGAGPAPGRAM</span><span class="topo-inside">RSTTL</span><span class="topo-membrane">LALLALVLLYLVSGALVFRA</span><span class="topo-outside">LEQPHEQQ</span></span>
-<span class="topo-line"><span class="topo-outside">AQRELGEVREKFLRAHPCVSDQELGLLIKEVADALGGGADPET</span><span class="topo-unknown">QSTSQS</span><span class="topo-outside">SHSAWDL</span><span class="topo-unknown">GSAF</span></span>
-<span class="topo-line"><span class="topo-unknown">FFSGTIITTIGYG</span><span class="topo-outside">NVALRTD</span><span class="topo-membrane">AGRLFCIFYALVGIPLFGILLAGVG</span><span class="topo-unknown">DRLGSSLRHGIGHIE</span></span>
-<span class="topo-line"><span class="topo-unknown">AIFLK</span><span class="topo-inside">WHVPPELVRVLSAM</span><span class="topo-membrane">LFLLIGCLLFVLTPTFVFC</span><span class="topo-outside">YMEDWSK</span><span class="topo-unknown">LEAIYFVIVTLTTVG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MTTAPQEPPARPLQAGSGAGPAPGRAM</span><span class="topo-inside">RSTTL</span><span class="topo-membrane">LALLALVLLYLVSGALVFRA</span><span class="topo-outside">LEQPHEQQAQRELGEVREKFLRAHPCVSDQELGLLIKEVADALGGGADPET</span><span class="topo-unknown">QSTSQS</span><span class="topo-outside">SHSAWDL</span><span class="topo-unknown">GSAF</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-unknown">FFSGTIITTIGYG</span><span class="topo-outside">NVALRTD</span><span class="topo-membrane">AGRLFCIFYALVGIPLFGILLAGVG</span><span class="topo-unknown">DRLGSSLRHGIGHIEAIFLK</span><span class="topo-inside">WHVPPELVRVLSAM</span><span class="topo-membrane">LFLLIGCLLFVLTPTFVFC</span><span class="topo-outside">YMEDWSK</span><span class="topo-unknown">LEAIYFVIVTLTTVG</span></span>
+<span class="topo-ruler">       250       260       270       280       290         </span>
 <span class="topo-line"><span class="topo-unknown">FG</span><span class="topo-outside">DYVAGADPRQDSP</span><span class="topo-membrane">AYQPLVWFWILLGLAYFASVLT</span><span class="topo-inside">TIGNWLRVV</span><span class="topo-unknown">SRRTSNSLEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1258,6 +1278,7 @@ TRAAK (tandem pore domain potassium channel 4, KCNK4) is a mechanosensitive two-
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1273,11 +1294,13 @@ TRAAK (tandem pore domain potassium channel 4, KCNK4) is a mechanosensitive two-
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MTTAPQEPPARPLQAGSGAGPAPGRAM</span><span class="topo-inside">RSTT</span><span class="topo-membrane">LLALLALVLLYLVSGALVF</span><span class="topo-outside">RALEQPHEQQ</span></span>
-<span class="topo-line"><span class="topo-outside">AQRELGEVREKFLRAHPCVSDQELGLLIKEVADALGGGADPETQS</span><span class="topo-unknown">TSQS</span><span class="topo-outside">SHSAWDL</span><span class="topo-unknown">GSAF</span></span>
-<span class="topo-line"><span class="topo-unknown">FFSGTIITTIGYG</span><span class="topo-outside">NVALRTD</span><span class="topo-membrane">AGRLFCIFYALVGIPLFGILLA</span><span class="topo-unknown">GVGDRLGSSLRHGIGHIE</span></span>
-<span class="topo-line"><span class="topo-unknown">AIFLK</span><span class="topo-inside">WHVPPELVRVLSAM</span><span class="topo-membrane">LFLLIGCLLFVLTPTFVFCYM</span><span class="topo-outside">EDWS</span><span class="topo-unknown">KLEAIYFVIVTLTTVG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MTTAPQEPPARPLQAGSGAGPAPGRAM</span><span class="topo-inside">RSTT</span><span class="topo-membrane">LLALLALVLLYLVSGALVF</span><span class="topo-outside">RALEQPHEQQAQRELGEVREKFLRAHPCVSDQELGLLIKEVADALGGGADPETQS</span><span class="topo-unknown">TSQS</span><span class="topo-outside">SHSAWDL</span><span class="topo-unknown">GSAF</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-unknown">FFSGTIITTIGYG</span><span class="topo-outside">NVALRTD</span><span class="topo-membrane">AGRLFCIFYALVGIPLFGILLA</span><span class="topo-unknown">GVGDRLGSSLRHGIGHIEAIFLK</span><span class="topo-inside">WHVPPELVRVLSAM</span><span class="topo-membrane">LFLLIGCLLFVLTPTFVFCYM</span><span class="topo-outside">EDWS</span><span class="topo-unknown">KLEAIYFVIVTLTTVG</span></span>
+<span class="topo-ruler">       250       260       270       280       290         </span>
 <span class="topo-line"><span class="topo-unknown">FG</span><span class="topo-outside">DYVAGADPRQDS</span><span class="topo-membrane">PAYQPLVWFWILLGLAYFASVL</span><span class="topo-inside">TTIGNWLR</span><span class="topo-unknown">VVSRRTSNSLEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1394,6 +1417,7 @@ TRAAK (tandem pore domain potassium channel 4, KCNK4) is a mechanosensitive two-
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1409,11 +1433,13 @@ TRAAK (tandem pore domain potassium channel 4, KCNK4) is a mechanosensitive two-
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MTTAPQEPPARPLQAGSGAGPAPGRAM</span><span class="topo-inside">RSTTL</span><span class="topo-membrane">LALLALVLLYLVSGALVFRAL</span><span class="topo-outside">EQPHEQQ</span></span>
-<span class="topo-line"><span class="topo-outside">AQRELGEVREKFLRAHPCVSDQELGLLIKEVADALGGGADPET</span><span class="topo-unknown">QSTSQS</span><span class="topo-outside">SHSAWDL</span><span class="topo-unknown">GSAF</span></span>
-<span class="topo-line"><span class="topo-unknown">FFSGTIITTIGYG</span><span class="topo-outside">NVALRTD</span><span class="topo-membrane">AGRLFCIFYALVGIPLFGILLAGVG</span><span class="topo-unknown">DRLGSSLRHGIGHIE</span></span>
-<span class="topo-line"><span class="topo-unknown">AIFLK</span><span class="topo-inside">WHVPPELVRVLSAM</span><span class="topo-membrane">LFLLIGCLLFVLTPTFVFC</span><span class="topo-outside">YMEDWSK</span><span class="topo-unknown">LEAIYFVIVTLTTVG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MTTAPQEPPARPLQAGSGAGPAPGRAM</span><span class="topo-inside">RSTTL</span><span class="topo-membrane">LALLALVLLYLVSGALVFRAL</span><span class="topo-outside">EQPHEQQAQRELGEVREKFLRAHPCVSDQELGLLIKEVADALGGGADPET</span><span class="topo-unknown">QSTSQS</span><span class="topo-outside">SHSAWDL</span><span class="topo-unknown">GSAF</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-unknown">FFSGTIITTIGYG</span><span class="topo-outside">NVALRTD</span><span class="topo-membrane">AGRLFCIFYALVGIPLFGILLAGVG</span><span class="topo-unknown">DRLGSSLRHGIGHIEAIFLK</span><span class="topo-inside">WHVPPELVRVLSAM</span><span class="topo-membrane">LFLLIGCLLFVLTPTFVFC</span><span class="topo-outside">YMEDWSK</span><span class="topo-unknown">LEAIYFVIVTLTTVG</span></span>
+<span class="topo-ruler">       250       260       270       280       290         </span>
 <span class="topo-line"><span class="topo-unknown">FG</span><span class="topo-outside">DYVAGADPRQDSP</span><span class="topo-membrane">AYQPLVWFWILLGLAYFASVLT</span><span class="topo-inside">TIGNWLRVV</span><span class="topo-unknown">SRRTSNSLEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1530,6 +1556,7 @@ TRAAK (tandem pore domain potassium channel 4, KCNK4) is a mechanosensitive two-
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1545,11 +1572,13 @@ TRAAK (tandem pore domain potassium channel 4, KCNK4) is a mechanosensitive two-
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MTTAPQEPPARPLQAGSGAGPAPGRAM</span><span class="topo-inside">RSTT</span><span class="topo-membrane">LLALLALVLLYLVSGALVFR</span><span class="topo-outside">ALEQPHEQQ</span></span>
-<span class="topo-line"><span class="topo-outside">AQRELGEVREKFLRAHPCVSDQELGLLIKEVADALGGGADPETQS</span><span class="topo-unknown">TSQS</span><span class="topo-outside">SHSAWDL</span><span class="topo-unknown">GSAF</span></span>
-<span class="topo-line"><span class="topo-unknown">FFSGTIITTIGYG</span><span class="topo-outside">NVALRTD</span><span class="topo-membrane">AGRLFCIFYALVGIPLFGILLAGVG</span><span class="topo-unknown">DRLGSSLRHGIGHIE</span></span>
-<span class="topo-line"><span class="topo-unknown">AIFLK</span><span class="topo-inside">WHVPPELVRVLSAM</span><span class="topo-membrane">LFLLIGCLLFVLTPTFVFCYM</span><span class="topo-outside">EDWS</span><span class="topo-unknown">KLEAIYFVIVTLT</span><span class="topo-outside">TVG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MTTAPQEPPARPLQAGSGAGPAPGRAM</span><span class="topo-inside">RSTT</span><span class="topo-membrane">LLALLALVLLYLVSGALVFR</span><span class="topo-outside">ALEQPHEQQAQRELGEVREKFLRAHPCVSDQELGLLIKEVADALGGGADPETQS</span><span class="topo-unknown">TSQS</span><span class="topo-outside">SHSAWDL</span><span class="topo-unknown">GSAF</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-unknown">FFSGTIITTIGYG</span><span class="topo-outside">NVALRTD</span><span class="topo-membrane">AGRLFCIFYALVGIPLFGILLAGVG</span><span class="topo-unknown">DRLGSSLRHGIGHIEAIFLK</span><span class="topo-inside">WHVPPELVRVLSAM</span><span class="topo-membrane">LFLLIGCLLFVLTPTFVFCYM</span><span class="topo-outside">EDWS</span><span class="topo-unknown">KLEAIYFVIVTLT</span><span class="topo-outside">TVG</span></span>
+<span class="topo-ruler">       250       260       270       280       290         </span>
 <span class="topo-line"><span class="topo-outside">FGDYVAGADPRQDS</span><span class="topo-membrane">PAYQPLVWFWILLGLAYFAS</span><span class="topo-unknown">VLTTIGNWLRVVSRRTSNSLEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (14 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1659,6 +1688,7 @@ TRAAK (tandem pore domain potassium channel 4, KCNK4) is a mechanosensitive two-
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1766,12 +1796,13 @@ TRAAK (tandem pore domain potassium channel 4, KCNK4) is a mechanosensitive two-
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MTTAPQEPPARPLQAGSGAGPAPGRAM</span><span class="topo-inside">RSTTL</span><span class="topo-membrane">LALLALVLLYLVSGALV</span><span class="topo-outside">FQALEQPHEQQ</span></span>
-<span class="topo-line"><span class="topo-outside">AQKKMDHGRDQFLRDHPCVSQKSLEDFIKLLVEALGGGANP</span><span class="topo-unknown">ETSWTQSSQHS</span><span class="topo-outside">SAWNLGSA</span></span>
-<span class="topo-line"><span class="topo-outside">F</span><span class="topo-unknown">FFSGTIITTIGY</span><span class="topo-outside">GNIVLHTDAGR</span><span class="topo-membrane">LFCIFYALVGIPLFGMLLAGVG</span><span class="topo-unknown">DRLGSSLRRGIGHI</span></span>
-<span class="topo-line"><span class="topo-unknown">EAIFLK</span><span class="topo-inside">WHVPPGLVRSLSAV</span><span class="topo-membrane">LFLLIGCLLFVLTPTFV</span><span class="topo-outside">FSYMESWSKLEA</span><span class="topo-unknown">IYFVIVTLTTV</span></span>
-<span class="topo-line"><span class="topo-unknown">GF</span><span class="topo-outside">GDYVP</span><span class="topo-unknown">GDGTGQNSPAY</span><span class="topo-outside">Q</span><span class="topo-membrane">PLVWFWILFGLAYFASVLTTIG</span><span class="topo-inside">NWL</span><span class="topo-unknown">RAVSRRTRAEMGGLTA</span></span>
-<span class="topo-line"><span class="topo-unknown">QSNSLEVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MTTAPQEPPARPLQAGSGAGPAPGRAM</span><span class="topo-inside">RSTTL</span><span class="topo-membrane">LALLALVLLYLVSGALV</span><span class="topo-outside">FQALEQPHEQQAQKKMDHGRDQFLRDHPCVSQKSLEDFIKLLVEALGGGANP</span><span class="topo-unknown">ETSWTQSSQHS</span><span class="topo-outside">SAWNLGSA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">F</span><span class="topo-unknown">FFSGTIITTIGY</span><span class="topo-outside">GNIVLHTDAGR</span><span class="topo-membrane">LFCIFYALVGIPLFGMLLAGVG</span><span class="topo-unknown">DRLGSSLRRGIGHIEAIFLK</span><span class="topo-inside">WHVPPGLVRSLSAV</span><span class="topo-membrane">LFLLIGCLLFVLTPTFV</span><span class="topo-outside">FSYMESWSKLEA</span><span class="topo-unknown">IYFVIVTLTTV</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310</span>
+<span class="topo-line"><span class="topo-unknown">GF</span><span class="topo-outside">GDYVP</span><span class="topo-unknown">GDGTGQNSPAY</span><span class="topo-outside">Q</span><span class="topo-membrane">PLVWFWILFGLAYFASVLTTIG</span><span class="topo-inside">NWL</span><span class="topo-unknown">RAVSRRTRAEMGGLTAQSNSLEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1895,6 +1926,7 @@ TRAAK (tandem pore domain potassium channel 4, KCNK4) is a mechanosensitive two-
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1910,12 +1942,13 @@ TRAAK (tandem pore domain potassium channel 4, KCNK4) is a mechanosensitive two-
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MTTAPQEPPARPLQAGSGAGPAPGRAM</span><span class="topo-inside">RST</span><span class="topo-membrane">TLLALLALVLLYLVSGALV</span><span class="topo-outside">FQALEQPHEQQ</span></span>
-<span class="topo-line"><span class="topo-outside">AQKKMDHGRDQFLRDHPCVSQKSLEDFIKLLVEALGGGANP</span><span class="topo-unknown">ETSWTQSSQH</span><span class="topo-outside">SSAWNLGSA</span></span>
-<span class="topo-line"><span class="topo-outside">F</span><span class="topo-unknown">FFSGTIITTIGY</span><span class="topo-outside">GNIVLHTDAGRL</span><span class="topo-membrane">FCIFYALVGIPLFGMLLAGVG</span><span class="topo-unknown">DRLGSSLRRGIGHI</span></span>
-<span class="topo-line"><span class="topo-unknown">EAIFLK</span><span class="topo-inside">WHVPPGLVRSLSAV</span><span class="topo-membrane">LFLLIGCLLFVLTPTFVF</span><span class="topo-outside">SYMESWSKLEA</span><span class="topo-unknown">IYFVIVTLTTV</span></span>
-<span class="topo-line"><span class="topo-unknown">GF</span><span class="topo-outside">GDYVP</span><span class="topo-unknown">GDGTGQNS</span><span class="topo-outside">PA</span><span class="topo-membrane">YQPLVWFWILFGLAYFASVLTTIG</span><span class="topo-inside">NWL</span><span class="topo-unknown">RAVSRRTRAEMGGLTA</span></span>
-<span class="topo-line"><span class="topo-unknown">QSNSLEVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MTTAPQEPPARPLQAGSGAGPAPGRAM</span><span class="topo-inside">RST</span><span class="topo-membrane">TLLALLALVLLYLVSGALV</span><span class="topo-outside">FQALEQPHEQQAQKKMDHGRDQFLRDHPCVSQKSLEDFIKLLVEALGGGANP</span><span class="topo-unknown">ETSWTQSSQH</span><span class="topo-outside">SSAWNLGSA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">F</span><span class="topo-unknown">FFSGTIITTIGY</span><span class="topo-outside">GNIVLHTDAGRL</span><span class="topo-membrane">FCIFYALVGIPLFGMLLAGVG</span><span class="topo-unknown">DRLGSSLRRGIGHIEAIFLK</span><span class="topo-inside">WHVPPGLVRSLSAV</span><span class="topo-membrane">LFLLIGCLLFVLTPTFVF</span><span class="topo-outside">SYMESWSKLEA</span><span class="topo-unknown">IYFVIVTLTTV</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310</span>
+<span class="topo-line"><span class="topo-unknown">GF</span><span class="topo-outside">GDYVP</span><span class="topo-unknown">GDGTGQNS</span><span class="topo-outside">PA</span><span class="topo-membrane">YQPLVWFWILFGLAYFASVLTTIG</span><span class="topo-inside">NWL</span><span class="topo-unknown">RAVSRRTRAEMGGLTAQSNSLEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2039,6 +2072,7 @@ TRAAK (tandem pore domain potassium channel 4, KCNK4) is a mechanosensitive two-
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2144,12 +2178,13 @@ TRAAK (tandem pore domain potassium channel 4, KCNK4) is a mechanosensitive two-
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MTTAPQEPPARPLQAGSGAGPAPG</span><span class="topo-outside">RAMRST</span><span class="topo-membrane">TLLALLALVLLYLVSGALVFRAL</span><span class="topo-inside">EQPHEQQ</span></span>
-<span class="topo-line"><span class="topo-inside">AQRELGEVREKFLRAHPCVSDQELGLLIKEVADALGGGADPETQST</span><span class="topo-unknown">SQSSH</span><span class="topo-inside">SAWDL</span><span class="topo-unknown">GSAF</span></span>
-<span class="topo-line"><span class="topo-unknown">FFSGTIITTIGYG</span><span class="topo-inside">NVALRTD</span><span class="topo-membrane">AGRLFCIFYALVGIPLFGILLAGVGDRLGSSLR</span><span class="topo-outside">HGIGHIE</span></span>
-<span class="topo-line"><span class="topo-outside">AIFLKWH</span><span class="topo-unknown">VP</span><span class="topo-outside">PELVRVL</span><span class="topo-membrane">SAMLFLLIGCLLFVLTPTFVFCYM</span><span class="topo-inside">EDWSK</span><span class="topo-unknown">LEAIYFVIVTLTTVG</span></span>
-<span class="topo-line"><span class="topo-unknown">FG</span><span class="topo-inside">DYVAGADPRQDS</span><span class="topo-membrane">PAYQPLVWFWILLGLAYFASVLTTIG</span><span class="topo-outside">NWLRVVSRRT</span><span class="topo-unknown">RAEMGGLTAQ</span></span>
-<span class="topo-line"><span class="topo-unknown">SNSLEVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MTTAPQEPPARPLQAGSGAGPAPG</span><span class="topo-outside">RAMRST</span><span class="topo-membrane">TLLALLALVLLYLVSGALVFRAL</span><span class="topo-inside">EQPHEQQAQRELGEVREKFLRAHPCVSDQELGLLIKEVADALGGGADPETQST</span><span class="topo-unknown">SQSSH</span><span class="topo-inside">SAWDL</span><span class="topo-unknown">GSAF</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-unknown">FFSGTIITTIGYG</span><span class="topo-inside">NVALRTD</span><span class="topo-membrane">AGRLFCIFYALVGIPLFGILLAGVGDRLGSSLR</span><span class="topo-outside">HGIGHIEAIFLKWH</span><span class="topo-unknown">VP</span><span class="topo-outside">PELVRVL</span><span class="topo-membrane">SAMLFLLIGCLLFVLTPTFVFCYM</span><span class="topo-inside">EDWSK</span><span class="topo-unknown">LEAIYFVIVTLTTVG</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300         </span>
+<span class="topo-line"><span class="topo-unknown">FG</span><span class="topo-inside">DYVAGADPRQDS</span><span class="topo-membrane">PAYQPLVWFWILLGLAYFASVLTTIG</span><span class="topo-outside">NWLRVVSRRT</span><span class="topo-unknown">RAEMGGLTAQSNSLEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2294,6 +2329,7 @@ TRAAK (tandem pore domain potassium channel 4, KCNK4) is a mechanosensitive two-
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2309,12 +2345,13 @@ TRAAK (tandem pore domain potassium channel 4, KCNK4) is a mechanosensitive two-
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MTTAPQEPPARPLQAGSGAGPAPGRA</span><span class="topo-outside">MRS</span><span class="topo-membrane">TTLLALLALVLLYLVSGALVFR</span><span class="topo-inside">ALEQPHEQQ</span></span>
-<span class="topo-line"><span class="topo-inside">AQRELGEVREKFLRAHPCVSDQELGLLIKEVADALGGGADPETQ</span><span class="topo-unknown">STSQSSH</span><span class="topo-inside">SAWDL</span><span class="topo-unknown">GSAF</span></span>
-<span class="topo-line"><span class="topo-unknown">FFSGTIITTIGYG</span><span class="topo-inside">NVALRTDA</span><span class="topo-membrane">GRLFCIFYALVGIPLFGILLAGVGDRLG</span><span class="topo-outside">S</span><span class="topo-unknown">SLRHGI</span><span class="topo-outside">GHI</span><span class="topo-unknown">E</span></span>
-<span class="topo-line"><span class="topo-unknown">AIFLKWHVPPEL</span><span class="topo-outside">VRVLSA</span><span class="topo-membrane">MLFLLIGCLLFVLTPTFVFCYM</span><span class="topo-inside">EDWS</span><span class="topo-unknown">KLEAIYFVIVTLTTVG</span></span>
-<span class="topo-line"><span class="topo-unknown">FG</span><span class="topo-inside">DYVAGADPRQDSP</span><span class="topo-membrane">AYQPLVWFWILLGLAYFASVLTTIG</span><span class="topo-outside">NWLRVVSRRT</span><span class="topo-unknown">RAEMGGLTAQ</span></span>
-<span class="topo-line"><span class="topo-unknown">SNSLEVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MTTAPQEPPARPLQAGSGAGPAPGRA</span><span class="topo-outside">MRS</span><span class="topo-membrane">TTLLALLALVLLYLVSGALVFR</span><span class="topo-inside">ALEQPHEQQAQRELGEVREKFLRAHPCVSDQELGLLIKEVADALGGGADPETQ</span><span class="topo-unknown">STSQSSH</span><span class="topo-inside">SAWDL</span><span class="topo-unknown">GSAF</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-unknown">FFSGTIITTIGYG</span><span class="topo-inside">NVALRTDA</span><span class="topo-membrane">GRLFCIFYALVGIPLFGILLAGVGDRLG</span><span class="topo-outside">S</span><span class="topo-unknown">SLRHGI</span><span class="topo-outside">GHI</span><span class="topo-unknown">EAIFLKWHVPPEL</span><span class="topo-outside">VRVLSA</span><span class="topo-membrane">MLFLLIGCLLFVLTPTFVFCYM</span><span class="topo-inside">EDWS</span><span class="topo-unknown">KLEAIYFVIVTLTTVG</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300         </span>
+<span class="topo-line"><span class="topo-unknown">FG</span><span class="topo-inside">DYVAGADPRQDSP</span><span class="topo-membrane">AYQPLVWFWILLGLAYFASVLTTIG</span><span class="topo-outside">NWLRVVSRRT</span><span class="topo-unknown">RAEMGGLTAQSNSLEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2473,6 +2510,7 @@ TRAAK (tandem pore domain potassium channel 4, KCNK4) is a mechanosensitive two-
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

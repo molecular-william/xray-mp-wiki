@@ -131,11 +131,13 @@ LptB2FG is an ATP-binding cassette (ABC) transporter complex responsible for ext
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">ATLKAQHLAKSYKGRQVVRDVSMSIDSGQIVGLLGPNGAGKTTCFYMIVGLVQADQGVV</span></span>
-<span class="topo-line"><span class="topo-outside">RIDEQNVTHLPMHGRARAGIGYLPQEASIFRKLSVSDNIMAILETRSDLDRNGRKEALEG</span></span>
-<span class="topo-line"><span class="topo-outside">LLQEFHIHHIRDNLGMSLSGGERRRVEIARALASAPKFILLDEPFAGVDPISVGDIKQII</span></span>
-<span class="topo-line"><span class="topo-outside">HHLKAKGIGILITDHNVRETLDICETAYIVNDGQLIAEGDAESILANDLVKEVYLGHEFR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">ATLKAQHLAKSYKGRQVVRDVSMSIDSGQIVGLLGPNGAGKTTCFYMIVGLVQADQGVVRIDEQNVTHLPMHGRARAGIGYLPQEASIFRKLSVSDNIMAILETRSDLDRNGRKEALEG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">LLQEFHIHHIRDNLGMSLSGGERRRVEIARALASAPKFILLDEPFAGVDPISVGDIKQIIHHLKAKGIGILITDHNVRETLDICETAYIVNDGQLIAEGDAESILANDLVKEVYLGHEFR</span></span>
+<span class="topo-ruler">       </span>
 <span class="topo-line"><span class="topo-unknown">LHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -154,6 +156,7 @@ LptB2FG is an ATP-binding cassette (ABC) transporter complex responsible for ext
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -169,11 +172,13 @@ LptB2FG is an ATP-binding cassette (ABC) transporter complex responsible for ext
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">ATLKAQHLAKSYKGRQVVRDVSMSIDSGQIVGLLGPNGAGKTTCFYMIVGLVQADQGVV</span></span>
-<span class="topo-line"><span class="topo-outside">RIDEQNVTHLPMHGRARAGIGYLPQEASIFRKLSVSDNIMAILETRSDLDRNGRKEALEG</span></span>
-<span class="topo-line"><span class="topo-outside">LLQEFHIHHIRDNLGMSLSGGERRRVEIARALASAPKFILLDEPFAGVDPISVGDIKQII</span></span>
-<span class="topo-line"><span class="topo-outside">HHLKAKGIGILITDHNVRETLDICETAYIVNDGQLIAEGDAESILANDLVKEVYLGHEFR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">ATLKAQHLAKSYKGRQVVRDVSMSIDSGQIVGLLGPNGAGKTTCFYMIVGLVQADQGVVRIDEQNVTHLPMHGRARAGIGYLPQEASIFRKLSVSDNIMAILETRSDLDRNGRKEALEG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">LLQEFHIHHIRDNLGMSLSGGERRRVEIARALASAPKFILLDEPFAGVDPISVGDIKQIIHHLKAKGIGILITDHNVRETLDICETAYIVNDGQLIAEGDAESILANDLVKEVYLGHEFR</span></span>
+<span class="topo-ruler">       </span>
 <span class="topo-line"><span class="topo-unknown">LHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -192,6 +197,7 @@ LptB2FG is an ATP-binding cassette (ABC) transporter complex responsible for ext
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -207,12 +213,13 @@ LptB2FG is an ATP-binding cassette (ABC) transporter complex responsible for ext
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MVKLDRYI</span><span class="topo-membrane">GVTVFVAILAVLGVILGLALLFAFIDEL</span><span class="topo-inside">NDISASYGIGDA</span><span class="topo-membrane">LRFIFLTAPRRA</span></span>
-<span class="topo-line"><span class="topo-membrane">YDMLPMAALIGCLVGLG</span><span class="topo-outside">TLASNS</span><span class="topo-unknown">ELTIMR</span><span class="topo-outside">AAGVSLS</span><span class="topo-membrane">RIVWAVMKPMLVLMLAGILVGEYV</span></span>
-<span class="topo-line"><span class="topo-membrane">AP</span><span class="topo-inside">WTENIAQSGRALAQGGGDSQSSKRGLWHRQGREYIHINAVQPNGVLYGVTRYRFDEQR</span></span>
-<span class="topo-line"><span class="topo-inside">GLESASFAKRARFETDHWQLEEVTTTLLHP</span><span class="topo-unknown">REK</span><span class="topo-inside">RSEVVKLPTERWDAQLSPQLLNTVVME</span></span>
-<span class="topo-line"><span class="topo-inside">PEALSISGLWQYIHYLADQGLNNNRYWL</span><span class="topo-membrane">AFWTKVLQPLVTAALVLMAISFIF</span><span class="topo-outside">GPLRSVTL</span></span>
-<span class="topo-line"><span class="topo-membrane">GQRIFTGVLVGFVFRIAQDLLGPSS</span><span class="topo-inside">LVFDF</span><span class="topo-membrane">PPLLAVVIPASICALAGVWLLR</span><span class="topo-outside">RA</span><span class="topo-unknown">G</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MVKLDRYI</span><span class="topo-membrane">GVTVFVAILAVLGVILGLALLFAFIDEL</span><span class="topo-inside">NDISASYGIGDA</span><span class="topo-membrane">LRFIFLTAPRRAYDMLPMAALIGCLVGLG</span><span class="topo-outside">TLASNS</span><span class="topo-unknown">ELTIMR</span><span class="topo-outside">AAGVSLS</span><span class="topo-membrane">RIVWAVMKPMLVLMLAGILVGEYV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">AP</span><span class="topo-inside">WTENIAQSGRALAQGGGDSQSSKRGLWHRQGREYIHINAVQPNGVLYGVTRYRFDEQRGLESASFAKRARFETDHWQLEEVTTTLLHP</span><span class="topo-unknown">REK</span><span class="topo-inside">RSEVVKLPTERWDAQLSPQLLNTVVME</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350     </span>
+<span class="topo-line"><span class="topo-inside">PEALSISGLWQYIHYLADQGLNNNRYWL</span><span class="topo-membrane">AFWTKVLQPLVTAALVLMAISFIF</span><span class="topo-outside">GPLRSVTL</span><span class="topo-membrane">GQRIFTGVLVGFVFRIAQDLLGPSS</span><span class="topo-inside">LVFDF</span><span class="topo-membrane">PPLLAVVIPASICALAGVWLLR</span><span class="topo-outside">RA</span><span class="topo-unknown">G</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -336,6 +343,7 @@ LptB2FG is an ATP-binding cassette (ABC) transporter complex responsible for ext
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -351,13 +359,15 @@ LptB2FG is an ATP-binding cassette (ABC) transporter complex responsible for ext
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MIVFRYL</span><span class="topo-membrane">SREVLVTMSAVSAVLLVIIMSGRFIK</span><span class="topo-inside">YLAQAAQGLLDPGSLFLIM</span><span class="topo-membrane">AFRIPGFL</span></span>
-<span class="topo-line"><span class="topo-membrane">QLILPLGLFLGILLAYG</span><span class="topo-outside">RLYLES</span><span class="topo-unknown">EMTVLS</span><span class="topo-outside">ATGMSQK</span><span class="topo-membrane">RLLGYTMAPALLVAILVAWLSLFL</span></span>
-<span class="topo-line"><span class="topo-membrane">A</span><span class="topo-inside">PQGINQFALLLNKQDTLTEFDTLVPGRFQAMRDGTRVTYTEELSKDRGELAGIFISQKD</span></span>
-<span class="topo-line"><span class="topo-inside">L</span><span class="topo-unknown">NS</span><span class="topo-inside">SNQERGISILVAEKGTQNIQADGSRYLILHNGYRYDGNPGQANYRAIQYDTYGVMLP</span></span>
-<span class="topo-line"><span class="topo-inside">KP</span><span class="topo-unknown">EASSEVSER</span><span class="topo-inside">DAVPTADLFGSDNPRYQAEL</span><span class="topo-membrane">QWRLSTPLLVFVVTLLAVPLSR</span><span class="topo-outside">VNPRQG</span><span class="topo-membrane">R</span></span>
-<span class="topo-line"><span class="topo-membrane">FLKLLPAILLYMGYLALLIAVR</span><span class="topo-inside">GQLDKGKIPM</span><span class="topo-membrane">AIGLWWVHGLFLAIGLLLFYW</span><span class="topo-unknown">EPLRLKL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MIVFRYL</span><span class="topo-membrane">SREVLVTMSAVSAVLLVIIMSGRFIK</span><span class="topo-inside">YLAQAAQGLLDPGSLFLIM</span><span class="topo-membrane">AFRIPGFLQLILPLGLFLGILLAYG</span><span class="topo-outside">RLYLES</span><span class="topo-unknown">EMTVLS</span><span class="topo-outside">ATGMSQK</span><span class="topo-membrane">RLLGYTMAPALLVAILVAWLSLFL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">A</span><span class="topo-inside">PQGINQFALLLNKQDTLTEFDTLVPGRFQAMRDGTRVTYTEELSKDRGELAGIFISQKDL</span><span class="topo-unknown">NS</span><span class="topo-inside">SNQERGISILVAEKGTQNIQADGSRYLILHNGYRYDGNPGQANYRAIQYDTYGVMLP</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">KP</span><span class="topo-unknown">EASSEVSER</span><span class="topo-inside">DAVPTADLFGSDNPRYQAEL</span><span class="topo-membrane">QWRLSTPLLVFVVTLLAVPLSR</span><span class="topo-outside">VNPRQG</span><span class="topo-membrane">RFLKLLPAILLYMGYLALLIAVR</span><span class="topo-inside">GQLDKGKIPM</span><span class="topo-membrane">AIGLWWVHGLFLAIGLLLFYW</span><span class="topo-unknown">EPLRLKL</span></span>
+<span class="topo-ruler">  </span>
 <span class="topo-line"><span class="topo-unknown">A</span><span class="topo-outside">S</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -495,6 +505,7 @@ LptB2FG is an ATP-binding cassette (ABC) transporter complex responsible for ext
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

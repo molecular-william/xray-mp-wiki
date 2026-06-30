@@ -78,16 +78,17 @@ NTSR1-LF is a thermostabilized mutant of the [Neurotensin](/xray-mp-wiki/reagent
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">DYKDDDDATSTSESDTA</span><span class="topo-inside">GPNSDLDVNTD</span><span class="topo-membrane">IYSKVLVTAIYLALFVVGTVGNSVTL</span><span class="topo-outside">FTLARK</span></span>
-<span class="topo-line"><span class="topo-unknown">KSLQSLQ</span><span class="topo-outside">STVHYH</span><span class="topo-membrane">LGSLALSDLLILLLAMPVELYNFIWV</span><span class="topo-inside">HHPW</span><span class="topo-membrane">AFGDAGCRGYYFLRDAC</span></span>
-<span class="topo-line"><span class="topo-membrane">TYATALNVASLSV</span><span class="topo-outside">ERYLAICHPFKAKTLMSRSRTKK</span><span class="topo-membrane">FISAIWLASALLAIPMLFTMG</span><span class="topo-inside">LQN</span></span>
-<span class="topo-line"><span class="topo-inside">RSADGTHPGGLVCTPIVDTAT</span><span class="topo-membrane">VKVVIQVNTFMSFLFPMLVISILNTV</span><span class="topo-outside">IANKLTVMV</span><span class="topo-unknown">HQAA</span></span>
-<span class="topo-line"><span class="topo-unknown">EQGRVCTVGTHNGLEHSTFNMTIE</span><span class="topo-outside">PGRVQALRHGVL</span><span class="topo-membrane">VLRAVVIAFVVCWLPYHVRRLMFC</span></span>
-<span class="topo-line"><span class="topo-membrane">Y</span><span class="topo-inside">ISDEQWTTFLFDFY</span><span class="topo-membrane">HYFYMLTNALFYASSAINPILYN</span><span class="topo-outside">LVSANFRQVFLSTL</span><span class="topo-unknown">ACLCPGWR</span></span>
-<span class="topo-line"><span class="topo-unknown">HRRKAHHHHHHHHHHGG</span><span class="topo-outside">NIFEMLRIDEGLRLKIYKDTEGYYTIGIGHLLTKSPSLNAAKS</span></span>
-<span class="topo-line"><span class="topo-outside">ELDKAIGRNTNGVITKDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVF</span></span>
-<span class="topo-line"><span class="topo-outside">QMGETGVAGFTNSLRMLNNKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWDAYGSG</span></span>
-<span class="topo-line"><span class="topo-outside">S</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">DYKDDDDATSTSESDTA</span><span class="topo-inside">GPNSDLDVNTD</span><span class="topo-membrane">IYSKVLVTAIYLALFVVGTVGNSVTL</span><span class="topo-outside">FTLARK</span><span class="topo-unknown">KSLQSLQ</span><span class="topo-outside">STVHYH</span><span class="topo-membrane">LGSLALSDLLILLLAMPVELYNFIWV</span><span class="topo-inside">HHPW</span><span class="topo-membrane">AFGDAGCRGYYFLRDAC</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">TYATALNVASLSV</span><span class="topo-outside">ERYLAICHPFKAKTLMSRSRTKK</span><span class="topo-membrane">FISAIWLASALLAIPMLFTMG</span><span class="topo-inside">LQNRSADGTHPGGLVCTPIVDTAT</span><span class="topo-membrane">VKVVIQVNTFMSFLFPMLVISILNTV</span><span class="topo-outside">IANKLTVMV</span><span class="topo-unknown">HQAA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-unknown">EQGRVCTVGTHNGLEHSTFNMTIE</span><span class="topo-outside">PGRVQALRHGVL</span><span class="topo-membrane">VLRAVVIAFVVCWLPYHVRRLMFCY</span><span class="topo-inside">ISDEQWTTFLFDFY</span><span class="topo-membrane">HYFYMLTNALFYASSAINPILYN</span><span class="topo-outside">LVSANFRQVFLSTL</span><span class="topo-unknown">ACLCPGWR</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-unknown">HRRKAHHHHHHHHHHGG</span><span class="topo-outside">NIFEMLRIDEGLRLKIYKDTEGYYTIGIGHLLTKSPSLNAAKSELDKAIGRNTNGVITKDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVF</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540 </span>
+<span class="topo-line"><span class="topo-outside">QMGETGVAGFTNSLRMLNNKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWDAYGSGS</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -225,6 +226,7 @@ NTSR1-LF is a thermostabilized mutant of the [Neurotensin](/xray-mp-wiki/reagent
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

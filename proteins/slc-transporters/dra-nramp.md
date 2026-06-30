@@ -143,13 +143,15 @@ DraNramp is a divalent metal transporter from Deinococcus radiodurans belonging 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MHHHHHHHHATLRGTAGPRGVRRILP</span><span class="topo-outside">F</span><span class="topo-membrane">LGPAVIASIAYMDPGNFATN</span><span class="topo-inside">IEGGARYGYSLL</span><span class="topo-membrane">W</span></span>
-<span class="topo-line"><span class="topo-membrane">VILAANLMAMVIQNLS</span><span class="topo-outside">ANLGIASGRNLPELIRERWP</span><span class="topo-membrane">RPLVWFYWIQAELVAMATDLAEFL</span></span>
-<span class="topo-line"><span class="topo-membrane">GAALAI</span><span class="topo-inside">QLLTGLPM</span><span class="topo-membrane">FWGAVVTGVVTFWLL</span><span class="topo-unknown">NLHHRGTRPL</span><span class="topo-outside">E</span><span class="topo-membrane">LAVGAFVLMIGVAYLV</span><span class="topo-inside">QVVL</span></span>
-<span class="topo-line"><span class="topo-inside">ARPDLAAVGAGFVPRLQGPGSAYLA</span><span class="topo-membrane">VGIIGATVMPHVIYL</span><span class="topo-unknown">HSALTQGRIQTDTTYYYRRL</span></span>
-<span class="topo-line"><span class="topo-unknown">VR</span><span class="topo-outside">LNR</span><span class="topo-membrane">VDVIAAMGLAGLINMSM</span><span class="topo-inside">LAVAAATFHGKNVENAGDLTTAYQTL</span><span class="topo-unknown">TPLLG</span><span class="topo-inside">PAASV</span><span class="topo-membrane">LF</span></span>
-<span class="topo-line"><span class="topo-membrane">AVALLASGLSSSAVGTMAGDVIM</span><span class="topo-outside">QG</span><span class="topo-unknown">FMGFHIPLWLR</span><span class="topo-outside">R</span><span class="topo-membrane">LITMLPAFIV</span><span class="topo-inside">ILLGMDPSSVL</span><span class="topo-membrane">IL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MHHHHHHHHATLRGTAGPRGVRRILP</span><span class="topo-outside">F</span><span class="topo-membrane">LGPAVIASIAYMDPGNFATN</span><span class="topo-inside">IEGGARYGYSLL</span><span class="topo-membrane">WVILAANLMAMVIQNLS</span><span class="topo-outside">ANLGIASGRNLPELIRERWP</span><span class="topo-membrane">RPLVWFYWIQAELVAMATDLAEFL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GAALAI</span><span class="topo-inside">QLLTGLPM</span><span class="topo-membrane">FWGAVVTGVVTFWLL</span><span class="topo-unknown">NLHHRGTRPL</span><span class="topo-outside">E</span><span class="topo-membrane">LAVGAFVLMIGVAYLV</span><span class="topo-inside">QVVLARPDLAAVGAGFVPRLQGPGSAYLA</span><span class="topo-membrane">VGIIGATVMPHVIYL</span><span class="topo-unknown">HSALTQGRIQTDTTYYYRRL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-unknown">VR</span><span class="topo-outside">LNR</span><span class="topo-membrane">VDVIAAMGLAGLINMSM</span><span class="topo-inside">LAVAAATFHGKNVENAGDLTTAYQTL</span><span class="topo-unknown">TPLLG</span><span class="topo-inside">PAASV</span><span class="topo-membrane">LFAVALLASGLSSSAVGTMAGDVIM</span><span class="topo-outside">QG</span><span class="topo-unknown">FMGFHIPLWLR</span><span class="topo-outside">R</span><span class="topo-membrane">LITMLPAFIV</span><span class="topo-inside">ILLGMDPSSVL</span><span class="topo-membrane">IL</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420</span>
 <span class="topo-line"><span class="topo-membrane">SQVILCFGVPFALVPLLL</span><span class="topo-outside">FTAHHDVMGAL</span><span class="topo-membrane">VTRRSFTVIGWVIAVI</span><span class="topo-inside">IIALNGY</span><span class="topo-unknown">LLWELLGG</span></span>
+<details class="topo-details"><summary>Topology coordinates (31 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -378,6 +380,7 @@ DraNramp is a divalent metal transporter from Deinococcus radiodurans belonging 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -511,13 +514,15 @@ DraNramp is a divalent metal transporter from Deinococcus radiodurans belonging 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MHHHHHHHHAGPRGVRRILPFL</span><span class="topo-inside">G</span><span class="topo-membrane">PAVIASIAYMDPGNFATN</span><span class="topo-outside">IEGGARYGYSLL</span><span class="topo-membrane">WVILAAN</span></span>
-<span class="topo-line"><span class="topo-membrane">LMAMVIQNLS</span><span class="topo-inside">ANLGIASGRNLPELIRERWPRPLVW</span><span class="topo-membrane">FYWIQAELVAMATDLAEFLGAA</span><span class="topo-outside">LAI</span></span>
-<span class="topo-line"><span class="topo-outside">QLLTGLPMFWG</span><span class="topo-membrane">AVVTGVVTFWLLNLQK</span><span class="topo-inside">R</span><span class="topo-membrane">GTRPLELAVGAFVLMIGVAYL</span><span class="topo-outside">VQVVLARPDLA</span></span>
-<span class="topo-line"><span class="topo-outside">AVGAGFVPRLQGPGSA</span><span class="topo-membrane">YLAVGIIGATVMPHVIYLH</span><span class="topo-inside">SALTQGRIQTDTTEEKRRLVRLN</span><span class="topo-membrane">RV</span></span>
-<span class="topo-line"><span class="topo-membrane">DVIAAMGLAGLINMS</span><span class="topo-outside">MLAVAAATFHGKNVENAGDLTTAYQTLTPLLGPAASVLFAV</span><span class="topo-membrane">ALLA</span></span>
-<span class="topo-line"><span class="topo-membrane">SGLSSSAVGTMAGDVIM</span><span class="topo-inside">QGFMGFHI</span><span class="topo-membrane">PLWLRRLITMLPAFIV</span><span class="topo-outside">ILLGMDPSSV</span><span class="topo-membrane">LILSQVILC</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MHHHHHHHHAGPRGVRRILPFL</span><span class="topo-inside">G</span><span class="topo-membrane">PAVIASIAYMDPGNFATN</span><span class="topo-outside">IEGGARYGYSLL</span><span class="topo-membrane">WVILAANLMAMVIQNLS</span><span class="topo-inside">ANLGIASGRNLPELIRERWPRPLVW</span><span class="topo-membrane">FYWIQAELVAMATDLAEFLGAA</span><span class="topo-outside">LAI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">QLLTGLPMFWG</span><span class="topo-membrane">AVVTGVVTFWLLNLQK</span><span class="topo-inside">R</span><span class="topo-membrane">GTRPLELAVGAFVLMIGVAYL</span><span class="topo-outside">VQVVLARPDLAAVGAGFVPRLQGPGSA</span><span class="topo-membrane">YLAVGIIGATVMPHVIYLH</span><span class="topo-inside">SALTQGRIQTDTTEEKRRLVRLN</span><span class="topo-membrane">RV</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">DVIAAMGLAGLINMS</span><span class="topo-outside">MLAVAAATFHGKNVENAGDLTTAYQTLTPLLGPAASVLFAV</span><span class="topo-membrane">ALLASGLSSSAVGTMAGDVIM</span><span class="topo-inside">QGFMGFHI</span><span class="topo-membrane">PLWLRRLITMLPAFIV</span><span class="topo-outside">ILLGMDPSSV</span><span class="topo-membrane">LILSQVILC</span></span>
+<span class="topo-ruler">       370       380       390       400       410    </span>
 <span class="topo-line"><span class="topo-membrane">FGVPFALV</span><span class="topo-inside">PLLLFTARRDVMGALVTRRS</span><span class="topo-membrane">FTVIGWVIAVIIIALNGYLLW</span><span class="topo-outside">ELLGG</span></span>
+<details class="topo-details"><summary>Topology coordinates (24 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -697,6 +702,7 @@ DraNramp is a divalent metal transporter from Deinococcus radiodurans belonging 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -712,13 +718,15 @@ DraNramp is a divalent metal transporter from Deinococcus radiodurans belonging 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MHHHHHHHHAGPRGVRRILPFL</span><span class="topo-inside">G</span><span class="topo-membrane">PAVIASIAYMDPGNFATNI</span><span class="topo-outside">EGGARYGYSL</span><span class="topo-membrane">LWVILAAN</span></span>
-<span class="topo-line"><span class="topo-membrane">LMAMVIQNLS</span><span class="topo-inside">ANLGIASGRNLPELIRERWPRP</span><span class="topo-membrane">LVWFYWIQAELVAMATDLAEFLGAALAI</span></span>
-<span class="topo-line"><span class="topo-membrane">QLLT</span><span class="topo-outside">G</span><span class="topo-membrane">LPMFWGAVVTGVVTFWLLNL</span><span class="topo-inside">QKRGT</span><span class="topo-membrane">RPLELAVGAFVLMIGVAYLVQVV</span><span class="topo-outside">LARPDLA</span></span>
-<span class="topo-line"><span class="topo-outside">AVGAGFVPRLQGPGSA</span><span class="topo-membrane">YLAVGIIGATVAPHVIYLH</span><span class="topo-inside">SALTQGRIQTDTTEEKRRLVRLNR</span><span class="topo-membrane">V</span></span>
-<span class="topo-line"><span class="topo-membrane">DVIAAMGLAGLINMSML</span><span class="topo-outside">AVAAATFHGKNVENAGDLTTAYQTLTPLLGPA</span><span class="topo-membrane">ASVLFAVALLA</span></span>
-<span class="topo-line"><span class="topo-membrane">SGLSSSAVGTMAGD</span><span class="topo-inside">VIMQGFMGFHI</span><span class="topo-membrane">PLWLRRLITMLPAFIVIL</span><span class="topo-outside">LGMDP</span><span class="topo-membrane">SSVLILSQVILC</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MHHHHHHHHAGPRGVRRILPFL</span><span class="topo-inside">G</span><span class="topo-membrane">PAVIASIAYMDPGNFATNI</span><span class="topo-outside">EGGARYGYSL</span><span class="topo-membrane">LWVILAANLMAMVIQNLS</span><span class="topo-inside">ANLGIASGRNLPELIRERWPRP</span><span class="topo-membrane">LVWFYWIQAELVAMATDLAEFLGAALAI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">QLLT</span><span class="topo-outside">G</span><span class="topo-membrane">LPMFWGAVVTGVVTFWLLNL</span><span class="topo-inside">QKRGT</span><span class="topo-membrane">RPLELAVGAFVLMIGVAYLVQVV</span><span class="topo-outside">LARPDLAAVGAGFVPRLQGPGSA</span><span class="topo-membrane">YLAVGIIGATVAPHVIYLH</span><span class="topo-inside">SALTQGRIQTDTTEEKRRLVRLNR</span><span class="topo-membrane">V</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">DVIAAMGLAGLINMSML</span><span class="topo-outside">AVAAATFHGKNVENAGDLTTAYQTLTPLLGPA</span><span class="topo-membrane">ASVLFAVALLASGLSSSAVGTMAGD</span><span class="topo-inside">VIMQGFMGFHI</span><span class="topo-membrane">PLWLRRLITMLPAFIVIL</span><span class="topo-outside">LGMDP</span><span class="topo-membrane">SSVLILSQVILC</span></span>
+<span class="topo-ruler">       370       380       390       400       410    </span>
 <span class="topo-line"><span class="topo-membrane">FGVPFALVPLLL</span><span class="topo-inside">FTARRDVMGALVTRR</span><span class="topo-membrane">SFTVIGWVIAVIIIALNGYLLW</span><span class="topo-outside">ELLGG</span></span>
+<details class="topo-details"><summary>Topology coordinates (24 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -898,6 +906,7 @@ DraNramp is a divalent metal transporter from Deinococcus radiodurans belonging 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -913,13 +922,15 @@ DraNramp is a divalent metal transporter from Deinococcus radiodurans belonging 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MHHHHHHHHAGPRGVRRI</span><span class="topo-inside">LP</span><span class="topo-membrane">FLGPAVIASIAYMDPGNFATN</span><span class="topo-outside">IEGGARYGYSLLW</span><span class="topo-membrane">VILAAN</span></span>
-<span class="topo-line"><span class="topo-membrane">LMAMVIQNLS</span><span class="topo-inside">ANLGIASGRNLPELIRERWPRPLVW</span><span class="topo-membrane">FYWIQAELVAMATDLAEFLGAALAI</span></span>
-<span class="topo-line"><span class="topo-membrane">Q</span><span class="topo-outside">LLTGLPM</span><span class="topo-membrane">FWGAVVTGVVTFWLLN</span><span class="topo-inside">LQKRGT</span><span class="topo-membrane">RPLELAVGAFVLMIGVAYLV</span><span class="topo-outside">QVVLARPDLA</span></span>
-<span class="topo-line"><span class="topo-outside">AVGAGFVPRLQGPGSAYLA</span><span class="topo-membrane">VGIIGATVMPHVIYLH</span><span class="topo-inside">SA</span><span class="topo-unknown">LTQGRIQT</span><span class="topo-inside">DTTEEKRRLVRLNR</span><span class="topo-membrane">V</span></span>
-<span class="topo-line"><span class="topo-membrane">DVIAAMGLAGLINMSM</span><span class="topo-outside">LAVAAATFHGKNVENAGDLTTAYQTLTPLLGPAASV</span><span class="topo-membrane">LFAVALLA</span></span>
-<span class="topo-line"><span class="topo-membrane">SGLSSSAVGTMAGD</span><span class="topo-inside">VIMQGFMGFHIPL</span><span class="topo-membrane">WLRRLITMLPAFIVI</span><span class="topo-outside">LLGMDPSSV</span><span class="topo-membrane">LILSQVILC</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MHHHHHHHHAGPRGVRRI</span><span class="topo-inside">LP</span><span class="topo-membrane">FLGPAVIASIAYMDPGNFATN</span><span class="topo-outside">IEGGARYGYSLLW</span><span class="topo-membrane">VILAANLMAMVIQNLS</span><span class="topo-inside">ANLGIASGRNLPELIRERWPRPLVW</span><span class="topo-membrane">FYWIQAELVAMATDLAEFLGAALAI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">Q</span><span class="topo-outside">LLTGLPM</span><span class="topo-membrane">FWGAVVTGVVTFWLLN</span><span class="topo-inside">LQKRGT</span><span class="topo-membrane">RPLELAVGAFVLMIGVAYLV</span><span class="topo-outside">QVVLARPDLAAVGAGFVPRLQGPGSAYLA</span><span class="topo-membrane">VGIIGATVMPHVIYLH</span><span class="topo-inside">SA</span><span class="topo-unknown">LTQGRIQT</span><span class="topo-inside">DTTEEKRRLVRLNR</span><span class="topo-membrane">V</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">DVIAAMGLAGLINMSM</span><span class="topo-outside">LAVAAATFHGKNVENAGDLTTAYQTLTPLLGPAASV</span><span class="topo-membrane">LFAVALLASGLSSSAVGTMAGD</span><span class="topo-inside">VIMQGFMGFHIPL</span><span class="topo-membrane">WLRRLITMLPAFIVI</span><span class="topo-outside">LLGMDPSSV</span><span class="topo-membrane">LILSQVILC</span></span>
+<span class="topo-ruler">       370       380       390       400       410    </span>
 <span class="topo-line"><span class="topo-membrane">FGVPFALVPLL</span><span class="topo-inside">LFTARRDVMGALVTRR</span><span class="topo-membrane">SFTVIGWVIAVIIIALNGY</span><span class="topo-outside">LLWELLGG</span></span>
+<details class="topo-details"><summary>Topology coordinates (26 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1113,6 +1124,7 @@ DraNramp is a divalent metal transporter from Deinococcus radiodurans belonging 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

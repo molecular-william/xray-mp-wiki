@@ -90,12 +90,13 @@ Chicken Kir2.2 (cKir2.2) is a classical inward rectifier potassium channel whose
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MARRKCR</span><span class="topo-inside">NRFVKKNGQCNVEFTNMD</span><span class="topo-unknown">DKPQRYIAD</span><span class="topo-inside">MFTTCVDI</span><span class="topo-membrane">RWRYMLLLFSLAFLVSWL</span></span>
-<span class="topo-line"><span class="topo-membrane">LFGLIFWLI</span><span class="topo-outside">ALIHGDLENPGGDDTFKPCVLQVNGF</span><span class="topo-unknown">VAAFLFSIETQTTIGYG</span><span class="topo-outside">FRCVTEEC</span></span>
-<span class="topo-line"><span class="topo-membrane">PLAVFMVVVQSIVGCIIDSFMIGAIM</span><span class="topo-inside">AKMARPKKRAQTLLFSHNAVVAMRDGKLCLMWRV</span></span>
-<span class="topo-line"><span class="topo-inside">GNLRKSHIVEAHVRAQLIKPRITEEGEYIPLDQIDIDVGFDKGLDRIFLVSPITILHEIN</span></span>
-<span class="topo-line"><span class="topo-inside">EDSPLFGISRQDLETDDFEIVVILEGMVEATAMTTQARSSYLASEILWGHRFEPVLFEEK</span></span>
-<span class="topo-line"><span class="topo-inside">NQYKVDYSHFHKTYEVPSTPRCSAKDLVENKFLLSNS</span><span class="topo-unknown">LEVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MARRKCR</span><span class="topo-inside">NRFVKKNGQCNVEFTNMD</span><span class="topo-unknown">DKPQRYIAD</span><span class="topo-inside">MFTTCVDI</span><span class="topo-membrane">RWRYMLLLFSLAFLVSWLLFGLIFWLI</span><span class="topo-outside">ALIHGDLENPGGDDTFKPCVLQVNGF</span><span class="topo-unknown">VAAFLFSIETQTTIGYG</span><span class="topo-outside">FRCVTEEC</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">PLAVFMVVVQSIVGCIIDSFMIGAIM</span><span class="topo-inside">AKMARPKKRAQTLLFSHNAVVAMRDGKLCLMWRVGNLRKSHIVEAHVRAQLIKPRITEEGEYIPLDQIDIDVGFDKGLDRIFLVSPITILHEIN</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340   </span>
+<span class="topo-line"><span class="topo-inside">EDSPLFGISRQDLETDDFEIVVILEGMVEATAMTTQARSSYLASEILWGHRFEPVLFEEKNQYKVDYSHFHKTYEVPSTPRCSAKDLVENKFLLSNS</span><span class="topo-unknown">LEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -184,6 +185,7 @@ Chicken Kir2.2 (cKir2.2) is a classical inward rectifier potassium channel whose
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -199,12 +201,13 @@ Chicken Kir2.2 (cKir2.2) is a classical inward rectifier potassium channel whose
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MARRKCR</span><span class="topo-inside">NRFVKKNGQCNVEFTNMD</span><span class="topo-unknown">DKPQRYIAD</span><span class="topo-inside">MFTTCVDI</span><span class="topo-membrane">RWRYMLLLFSLAFLVSWL</span></span>
-<span class="topo-line"><span class="topo-membrane">LFGLIFWLI</span><span class="topo-outside">ALIHGDLENPGGDDTFKPCVLQVNGF</span><span class="topo-unknown">VAAFLFSIETQTTIGYG</span><span class="topo-outside">FRCVTEEC</span></span>
-<span class="topo-line"><span class="topo-membrane">PLAVFMVVVQSIVGCIIDSFMIGAIM</span><span class="topo-inside">AKMARPKKRAQTLLFSHNAVVAMRDGKLCLMWRV</span></span>
-<span class="topo-line"><span class="topo-inside">GNLRKSHIVEAHVRAQLIKPRITEEGEYIPLDQIDIDVGFDKGLDRIFLVSPITILHEIN</span></span>
-<span class="topo-line"><span class="topo-inside">EDSPLFGISRQDLETDDFEIVVILEGMVEATAMTTQARSSYLASEILWGHRFEPVLFEEK</span></span>
-<span class="topo-line"><span class="topo-inside">NQYKVDYSHFHKTYEVPSTPRCSAKDLVENKFLLSNS</span><span class="topo-unknown">LEVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MARRKCR</span><span class="topo-inside">NRFVKKNGQCNVEFTNMD</span><span class="topo-unknown">DKPQRYIAD</span><span class="topo-inside">MFTTCVDI</span><span class="topo-membrane">RWRYMLLLFSLAFLVSWLLFGLIFWLI</span><span class="topo-outside">ALIHGDLENPGGDDTFKPCVLQVNGF</span><span class="topo-unknown">VAAFLFSIETQTTIGYG</span><span class="topo-outside">FRCVTEEC</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">PLAVFMVVVQSIVGCIIDSFMIGAIM</span><span class="topo-inside">AKMARPKKRAQTLLFSHNAVVAMRDGKLCLMWRVGNLRKSHIVEAHVRAQLIKPRITEEGEYIPLDQIDIDVGFDKGLDRIFLVSPITILHEIN</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340   </span>
+<span class="topo-line"><span class="topo-inside">EDSPLFGISRQDLETDDFEIVVILEGMVEATAMTTQARSSYLASEILWGHRFEPVLFEEKNQYKVDYSHFHKTYEVPSTPRCSAKDLVENKFLLSNS</span><span class="topo-unknown">LEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -293,6 +296,7 @@ Chicken Kir2.2 (cKir2.2) is a classical inward rectifier potassium channel whose
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -308,12 +312,13 @@ Chicken Kir2.2 (cKir2.2) is a classical inward rectifier potassium channel whose
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MARRKCR</span><span class="topo-inside">NRFVKKNGQCNVEFTNMD</span><span class="topo-unknown">DKPQRYIAD</span><span class="topo-inside">MFTTCVDI</span><span class="topo-membrane">RWRYMLLLFSLAFLVSWL</span></span>
-<span class="topo-line"><span class="topo-membrane">LFGLIFWLI</span><span class="topo-outside">ALIHGDLENPGGDDTFKPCVLQVNGF</span><span class="topo-unknown">VAAFLFSIETQTTIGYG</span><span class="topo-outside">FRCVTEEC</span></span>
-<span class="topo-line"><span class="topo-membrane">PLAVFMVVVQSIVGCIIDSFMIGAIM</span><span class="topo-inside">AKMARPKKRAQTLLFSHNAVVAMRDGKLCLMWRV</span></span>
-<span class="topo-line"><span class="topo-inside">GNLRKSHIVEAHVRAQLIKPRITEEGEYIPLDQIDIDVGFDKGLDRIFLVSPITILHEIN</span></span>
-<span class="topo-line"><span class="topo-inside">EDSPLFGISRQDLETDDFEIVVILEGMVEATAMTTQARSSYLASEILWGHRFEPVLFEEK</span></span>
-<span class="topo-line"><span class="topo-inside">NQYKVDYSHFHKTYEVPSTPRCSAKDLVENKFLLSNS</span><span class="topo-unknown">LEVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MARRKCR</span><span class="topo-inside">NRFVKKNGQCNVEFTNMD</span><span class="topo-unknown">DKPQRYIAD</span><span class="topo-inside">MFTTCVDI</span><span class="topo-membrane">RWRYMLLLFSLAFLVSWLLFGLIFWLI</span><span class="topo-outside">ALIHGDLENPGGDDTFKPCVLQVNGF</span><span class="topo-unknown">VAAFLFSIETQTTIGYG</span><span class="topo-outside">FRCVTEEC</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">PLAVFMVVVQSIVGCIIDSFMIGAIM</span><span class="topo-inside">AKMARPKKRAQTLLFSHNAVVAMRDGKLCLMWRVGNLRKSHIVEAHVRAQLIKPRITEEGEYIPLDQIDIDVGFDKGLDRIFLVSPITILHEIN</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340   </span>
+<span class="topo-line"><span class="topo-inside">EDSPLFGISRQDLETDDFEIVVILEGMVEATAMTTQARSSYLASEILWGHRFEPVLFEEKNQYKVDYSHFHKTYEVPSTPRCSAKDLVENKFLLSNS</span><span class="topo-unknown">LEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -402,6 +407,7 @@ Chicken Kir2.2 (cKir2.2) is a classical inward rectifier potassium channel whose
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -417,12 +423,13 @@ Chicken Kir2.2 (cKir2.2) is a classical inward rectifier potassium channel whose
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MARRKCR</span><span class="topo-inside">NRFVKKNGQCNVEFTNMD</span><span class="topo-unknown">DKPQRYIAD</span><span class="topo-inside">MFTTCVDI</span><span class="topo-membrane">RWRYMLLLFSLAFLVSWL</span></span>
-<span class="topo-line"><span class="topo-membrane">LFGLIFWLI</span><span class="topo-outside">ALIHGDLENPGGDDTFKPCVLQVNGF</span><span class="topo-unknown">VAAFLFSIETQTTIGYG</span><span class="topo-outside">FRCVTEEC</span></span>
-<span class="topo-line"><span class="topo-membrane">PLAVFMVVVQSIVGCIIDSFMIGAIM</span><span class="topo-inside">AKMARPKKRAQTLLFSHNAVVAMRDGKLCLMWRV</span></span>
-<span class="topo-line"><span class="topo-inside">GNLRKSHIVEAHVRAQLIKPRITEEGEYIPLDQIDIDVGFDKGLDRIFLVSPITILHEIN</span></span>
-<span class="topo-line"><span class="topo-inside">EDSPLFGISRQDLETDDFEIVVILEGMVEATAMTTQARSSYLASEILWGHRFEPVLFEEK</span></span>
-<span class="topo-line"><span class="topo-inside">NQYKVDYSHFHKTYEVPSTPRCSAKDLVENKFLLSNS</span><span class="topo-unknown">LEVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MARRKCR</span><span class="topo-inside">NRFVKKNGQCNVEFTNMD</span><span class="topo-unknown">DKPQRYIAD</span><span class="topo-inside">MFTTCVDI</span><span class="topo-membrane">RWRYMLLLFSLAFLVSWLLFGLIFWLI</span><span class="topo-outside">ALIHGDLENPGGDDTFKPCVLQVNGF</span><span class="topo-unknown">VAAFLFSIETQTTIGYG</span><span class="topo-outside">FRCVTEEC</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">PLAVFMVVVQSIVGCIIDSFMIGAIM</span><span class="topo-inside">AKMARPKKRAQTLLFSHNAVVAMRDGKLCLMWRVGNLRKSHIVEAHVRAQLIKPRITEEGEYIPLDQIDIDVGFDKGLDRIFLVSPITILHEIN</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340   </span>
+<span class="topo-line"><span class="topo-inside">EDSPLFGISRQDLETDDFEIVVILEGMVEATAMTTQARSSYLASEILWGHRFEPVLFEEKNQYKVDYSHFHKTYEVPSTPRCSAKDLVENKFLLSNS</span><span class="topo-unknown">LEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -511,6 +518,7 @@ Chicken Kir2.2 (cKir2.2) is a classical inward rectifier potassium channel whose
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -644,12 +652,13 @@ Chicken Kir2.2 (cKir2.2) is a classical inward rectifier potassium channel whose
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MARRK</span><span class="topo-inside">CRNRFVKKNGQCNVEFTNMDD</span><span class="topo-unknown">KPQRYIA</span><span class="topo-inside">D</span><span class="topo-unknown">MFTTCVD</span><span class="topo-inside">I</span><span class="topo-membrane">RWRYMLLLFSLAFLVSWL</span></span>
-<span class="topo-line"><span class="topo-membrane">LFGLIFWLI</span><span class="topo-outside">ALIHGDLENPGGDDTFKPCVLQVNGF</span><span class="topo-unknown">VAAFLFSIETQTTIGYG</span><span class="topo-outside">FRCVTEEC</span></span>
-<span class="topo-line"><span class="topo-membrane">PLAVFMVVVQSIVGCIIDSFMIGAIMAKM</span><span class="topo-inside">AR</span><span class="topo-unknown">PKKRAQ</span><span class="topo-inside">TLLFSHNAVVAMRDGKLCLMWRV</span></span>
-<span class="topo-line"><span class="topo-inside">GNLRKSHIVEAHVRAQLIKPRITEEGEYIPLDQIDIDVGFDKGLDRIFLVSPITILHEIN</span></span>
-<span class="topo-line"><span class="topo-inside">EDSPLFGISRQDLETDDFEIVVILEGMVEATAMTTQARSSYLASEILWGHRFEPVLFEEK</span></span>
-<span class="topo-line"><span class="topo-inside">NQYKVDYSHFHKTYEVPSTPRCSAKDLVENKFLLSNS</span><span class="topo-unknown">LEVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MARRK</span><span class="topo-inside">CRNRFVKKNGQCNVEFTNMDD</span><span class="topo-unknown">KPQRYIA</span><span class="topo-inside">D</span><span class="topo-unknown">MFTTCVD</span><span class="topo-inside">I</span><span class="topo-membrane">RWRYMLLLFSLAFLVSWLLFGLIFWLI</span><span class="topo-outside">ALIHGDLENPGGDDTFKPCVLQVNGF</span><span class="topo-unknown">VAAFLFSIETQTTIGYG</span><span class="topo-outside">FRCVTEEC</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">PLAVFMVVVQSIVGCIIDSFMIGAIMAKM</span><span class="topo-inside">AR</span><span class="topo-unknown">PKKRAQ</span><span class="topo-inside">TLLFSHNAVVAMRDGKLCLMWRVGNLRKSHIVEAHVRAQLIKPRITEEGEYIPLDQIDIDVGFDKGLDRIFLVSPITILHEIN</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340   </span>
+<span class="topo-line"><span class="topo-inside">EDSPLFGISRQDLETDDFEIVVILEGMVEATAMTTQARSSYLASEILWGHRFEPVLFEEKNQYKVDYSHFHKTYEVPSTPRCSAKDLVENKFLLSNS</span><span class="topo-unknown">LEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -766,6 +775,7 @@ Chicken Kir2.2 (cKir2.2) is a classical inward rectifier potassium channel whose
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -781,12 +791,13 @@ Chicken Kir2.2 (cKir2.2) is a classical inward rectifier potassium channel whose
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MARRK</span><span class="topo-inside">CRNRFVKKNGQCNVEFTNMDD</span><span class="topo-unknown">KPQRYIA</span><span class="topo-inside">D</span><span class="topo-unknown">MFTTCVD</span><span class="topo-inside">I</span><span class="topo-membrane">RWRYMLLLFSLAFLVSWL</span></span>
-<span class="topo-line"><span class="topo-membrane">LFGLIFWLI</span><span class="topo-outside">ALIHGDLENPGGDDTFKPCVLQVNGF</span><span class="topo-unknown">VAAFLFSIETQTTIGYG</span><span class="topo-outside">FRCVTEEC</span></span>
-<span class="topo-line"><span class="topo-membrane">PLAVFMVVVQSIVGCIIDSFMIGAIMAKM</span><span class="topo-inside">AR</span><span class="topo-unknown">PKKRAQ</span><span class="topo-inside">TLLFSHNAVVAMRDGKLCLMWRV</span></span>
-<span class="topo-line"><span class="topo-inside">GNLRKSHIVEAHVRAQLIKPRITEEGEYIPLDQIDIDVGFDKGLDRIFLVSPITILHEIN</span></span>
-<span class="topo-line"><span class="topo-inside">EDSPLFGISRQDLETDDFEIVVILEGMVEATAMTTQARSSYLASEILWGHRFEPVLFEEK</span></span>
-<span class="topo-line"><span class="topo-inside">NQYKVDYSHFHKTYEVPSTPRCSAKDLVENKFLLSNS</span><span class="topo-unknown">LEVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MARRK</span><span class="topo-inside">CRNRFVKKNGQCNVEFTNMDD</span><span class="topo-unknown">KPQRYIA</span><span class="topo-inside">D</span><span class="topo-unknown">MFTTCVD</span><span class="topo-inside">I</span><span class="topo-membrane">RWRYMLLLFSLAFLVSWLLFGLIFWLI</span><span class="topo-outside">ALIHGDLENPGGDDTFKPCVLQVNGF</span><span class="topo-unknown">VAAFLFSIETQTTIGYG</span><span class="topo-outside">FRCVTEEC</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">PLAVFMVVVQSIVGCIIDSFMIGAIMAKM</span><span class="topo-inside">AR</span><span class="topo-unknown">PKKRAQ</span><span class="topo-inside">TLLFSHNAVVAMRDGKLCLMWRVGNLRKSHIVEAHVRAQLIKPRITEEGEYIPLDQIDIDVGFDKGLDRIFLVSPITILHEIN</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340   </span>
+<span class="topo-line"><span class="topo-inside">EDSPLFGISRQDLETDDFEIVVILEGMVEATAMTTQARSSYLASEILWGHRFEPVLFEEKNQYKVDYSHFHKTYEVPSTPRCSAKDLVENKFLLSNS</span><span class="topo-unknown">LEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -903,6 +914,7 @@ Chicken Kir2.2 (cKir2.2) is a classical inward rectifier potassium channel whose
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -918,12 +930,13 @@ Chicken Kir2.2 (cKir2.2) is a classical inward rectifier potassium channel whose
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MARRK</span><span class="topo-inside">CRNRFVKKNGQCNVEFTNMDD</span><span class="topo-unknown">KPQRYIA</span><span class="topo-inside">D</span><span class="topo-unknown">MFTTCVD</span><span class="topo-inside">I</span><span class="topo-membrane">RWRYMLLLFSLAFLVSWL</span></span>
-<span class="topo-line"><span class="topo-membrane">LFGLIFWLI</span><span class="topo-outside">ALIHGDLENPGGDDTFKPCVLQVNGF</span><span class="topo-unknown">VAAFLFSIETQTTIGYG</span><span class="topo-outside">FRCVTEEC</span></span>
-<span class="topo-line"><span class="topo-membrane">PLAVFMVVVQSIVGCIIDSFMIGAIMAKM</span><span class="topo-inside">AR</span><span class="topo-unknown">PKKRAQ</span><span class="topo-inside">TLLFSHNAVVAMRDGKLCLMWRV</span></span>
-<span class="topo-line"><span class="topo-inside">GNLRKSHIVEAHVRAQLIKPRITEEGEYIPLDQIDIDVGFDKGLDRIFLVSPITILHEIN</span></span>
-<span class="topo-line"><span class="topo-inside">EDSPLFGISRQDLETDDFEIVVILEGMVEATAMTTQARSSYLASEILWGHRFEPVLFEEK</span></span>
-<span class="topo-line"><span class="topo-inside">NQYKVDYSHFHKTYEVPSTPRCSAKDLVENKFLLSNS</span><span class="topo-unknown">LEVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MARRK</span><span class="topo-inside">CRNRFVKKNGQCNVEFTNMDD</span><span class="topo-unknown">KPQRYIA</span><span class="topo-inside">D</span><span class="topo-unknown">MFTTCVD</span><span class="topo-inside">I</span><span class="topo-membrane">RWRYMLLLFSLAFLVSWLLFGLIFWLI</span><span class="topo-outside">ALIHGDLENPGGDDTFKPCVLQVNGF</span><span class="topo-unknown">VAAFLFSIETQTTIGYG</span><span class="topo-outside">FRCVTEEC</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">PLAVFMVVVQSIVGCIIDSFMIGAIMAKM</span><span class="topo-inside">AR</span><span class="topo-unknown">PKKRAQ</span><span class="topo-inside">TLLFSHNAVVAMRDGKLCLMWRVGNLRKSHIVEAHVRAQLIKPRITEEGEYIPLDQIDIDVGFDKGLDRIFLVSPITILHEIN</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340   </span>
+<span class="topo-line"><span class="topo-inside">EDSPLFGISRQDLETDDFEIVVILEGMVEATAMTTQARSSYLASEILWGHRFEPVLFEEKNQYKVDYSHFHKTYEVPSTPRCSAKDLVENKFLLSNS</span><span class="topo-unknown">LEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1040,6 +1053,7 @@ Chicken Kir2.2 (cKir2.2) is a classical inward rectifier potassium channel whose
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1055,12 +1069,13 @@ Chicken Kir2.2 (cKir2.2) is a classical inward rectifier potassium channel whose
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MARRK</span><span class="topo-inside">CRNRFVKKNGQCNVEFTNMDD</span><span class="topo-unknown">KPQRYIA</span><span class="topo-inside">D</span><span class="topo-unknown">MFTTCVD</span><span class="topo-inside">I</span><span class="topo-membrane">RWRYMLLLFSLAFLVSWL</span></span>
-<span class="topo-line"><span class="topo-membrane">LFGLIFWLI</span><span class="topo-outside">ALIHGDLENPGGDDTFKPCVLQVNGF</span><span class="topo-unknown">VAAFLFSIETQTTIGYG</span><span class="topo-outside">FRCVTEEC</span></span>
-<span class="topo-line"><span class="topo-membrane">PLAVFMVVVQSIVGCIIDSFMIGAIMAKM</span><span class="topo-inside">AR</span><span class="topo-unknown">PKKRAQ</span><span class="topo-inside">TLLFSHNAVVAMRDGKLCLMWRV</span></span>
-<span class="topo-line"><span class="topo-inside">GNLRKSHIVEAHVRAQLIKPRITEEGEYIPLDQIDIDVGFDKGLDRIFLVSPITILHEIN</span></span>
-<span class="topo-line"><span class="topo-inside">EDSPLFGISRQDLETDDFEIVVILEGMVEATAMTTQARSSYLASEILWGHRFEPVLFEEK</span></span>
-<span class="topo-line"><span class="topo-inside">NQYKVDYSHFHKTYEVPSTPRCSAKDLVENKFLLSNS</span><span class="topo-unknown">LEVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MARRK</span><span class="topo-inside">CRNRFVKKNGQCNVEFTNMDD</span><span class="topo-unknown">KPQRYIA</span><span class="topo-inside">D</span><span class="topo-unknown">MFTTCVD</span><span class="topo-inside">I</span><span class="topo-membrane">RWRYMLLLFSLAFLVSWLLFGLIFWLI</span><span class="topo-outside">ALIHGDLENPGGDDTFKPCVLQVNGF</span><span class="topo-unknown">VAAFLFSIETQTTIGYG</span><span class="topo-outside">FRCVTEEC</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">PLAVFMVVVQSIVGCIIDSFMIGAIMAKM</span><span class="topo-inside">AR</span><span class="topo-unknown">PKKRAQ</span><span class="topo-inside">TLLFSHNAVVAMRDGKLCLMWRVGNLRKSHIVEAHVRAQLIKPRITEEGEYIPLDQIDIDVGFDKGLDRIFLVSPITILHEIN</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340   </span>
+<span class="topo-line"><span class="topo-inside">EDSPLFGISRQDLETDDFEIVVILEGMVEATAMTTQARSSYLASEILWGHRFEPVLFEEKNQYKVDYSHFHKTYEVPSTPRCSAKDLVENKFLLSNS</span><span class="topo-unknown">LEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1177,6 +1192,7 @@ Chicken Kir2.2 (cKir2.2) is a classical inward rectifier potassium channel whose
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1192,12 +1208,13 @@ Chicken Kir2.2 (cKir2.2) is a classical inward rectifier potassium channel whose
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MARRK</span><span class="topo-outside">CRNRFVKKNGQCNVEFTNMDDKP</span><span class="topo-unknown">QRYIA</span><span class="topo-outside">D</span><span class="topo-unknown">MFTTCVD</span><span class="topo-outside">I</span><span class="topo-membrane">RWRYMLLLFSLAFLVSWL</span></span>
-<span class="topo-line"><span class="topo-membrane">LFGLIFWLI</span><span class="topo-inside">ALIHGDLENPGGDDTFKPCVLQVNGF</span><span class="topo-unknown">VAAFLFSIETQTTIGYG</span><span class="topo-inside">FRCVTEEC</span></span>
-<span class="topo-line"><span class="topo-membrane">PLAVFMVVVQSIVGCIIDSFMIGAIMAKM</span><span class="topo-outside">ARPKKRAQTLLFSHNAVVAMRDGKLCLMWRV</span></span>
-<span class="topo-line"><span class="topo-outside">GNLRKSHIVEAHVRAQLIKPRITEEGEYIPLDQIDIDVGFDKGLDRIFLVSPITILHEIN</span></span>
-<span class="topo-line"><span class="topo-outside">EDSPLFGISRQDLETDDFEIVVILEGMVEATAMTTQARSSYLASEILWGHRFEPVLFEEK</span></span>
-<span class="topo-line"><span class="topo-outside">NQYKVDYSHFHKTYEVPSTPRCSAKDLVENKFLLSNS</span><span class="topo-unknown">LEVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MARRK</span><span class="topo-outside">CRNRFVKKNGQCNVEFTNMDDKP</span><span class="topo-unknown">QRYIA</span><span class="topo-outside">D</span><span class="topo-unknown">MFTTCVD</span><span class="topo-outside">I</span><span class="topo-membrane">RWRYMLLLFSLAFLVSWLLFGLIFWLI</span><span class="topo-inside">ALIHGDLENPGGDDTFKPCVLQVNGF</span><span class="topo-unknown">VAAFLFSIETQTTIGYG</span><span class="topo-inside">FRCVTEEC</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">PLAVFMVVVQSIVGCIIDSFMIGAIMAKM</span><span class="topo-outside">ARPKKRAQTLLFSHNAVVAMRDGKLCLMWRVGNLRKSHIVEAHVRAQLIKPRITEEGEYIPLDQIDIDVGFDKGLDRIFLVSPITILHEIN</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340   </span>
+<span class="topo-line"><span class="topo-outside">EDSPLFGISRQDLETDDFEIVVILEGMVEATAMTTQARSSYLASEILWGHRFEPVLFEEKNQYKVDYSHFHKTYEVPSTPRCSAKDLVENKFLLSNS</span><span class="topo-unknown">LEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (13 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1300,6 +1317,7 @@ Chicken Kir2.2 (cKir2.2) is a classical inward rectifier potassium channel whose
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1315,12 +1333,13 @@ Chicken Kir2.2 (cKir2.2) is a classical inward rectifier potassium channel whose
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MARRK</span><span class="topo-outside">CRNRFVKKNGQCNVEFTNMDDKP</span><span class="topo-unknown">QRYIA</span><span class="topo-outside">D</span><span class="topo-unknown">MFTTCVD</span><span class="topo-outside">I</span><span class="topo-membrane">RWRYMLLLFSLAFLVSWL</span></span>
-<span class="topo-line"><span class="topo-membrane">LFGLIFWLI</span><span class="topo-inside">ALIHGDLENPGGDDTFKPCVLQVNGF</span><span class="topo-unknown">VAAFLFSIETQTTIGYG</span><span class="topo-inside">FRCVTEEC</span></span>
-<span class="topo-line"><span class="topo-membrane">PLAVFMVVVQSIVGCIIDSFMIGAIMAKM</span><span class="topo-outside">ARPKKRAQTLLFSHNAVVAMRDGKLCLMWRV</span></span>
-<span class="topo-line"><span class="topo-outside">GNLRKSHIVEAHVRAQLIKPRITEEGEYIPLDQIDIDVGFDKGLDRIFLVSPITILHEIN</span></span>
-<span class="topo-line"><span class="topo-outside">EDSPLFGISRQDLETDDFEIVVILEGMVEATAMTTQARSSYLASEILWGHRFEPVLFEEK</span></span>
-<span class="topo-line"><span class="topo-outside">NQYKVDYSHFHKTYEVPSTPRCSAKDLVENKFLLSNS</span><span class="topo-unknown">LEVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MARRK</span><span class="topo-outside">CRNRFVKKNGQCNVEFTNMDDKP</span><span class="topo-unknown">QRYIA</span><span class="topo-outside">D</span><span class="topo-unknown">MFTTCVD</span><span class="topo-outside">I</span><span class="topo-membrane">RWRYMLLLFSLAFLVSWLLFGLIFWLI</span><span class="topo-inside">ALIHGDLENPGGDDTFKPCVLQVNGF</span><span class="topo-unknown">VAAFLFSIETQTTIGYG</span><span class="topo-inside">FRCVTEEC</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">PLAVFMVVVQSIVGCIIDSFMIGAIMAKM</span><span class="topo-outside">ARPKKRAQTLLFSHNAVVAMRDGKLCLMWRVGNLRKSHIVEAHVRAQLIKPRITEEGEYIPLDQIDIDVGFDKGLDRIFLVSPITILHEIN</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340   </span>
+<span class="topo-line"><span class="topo-outside">EDSPLFGISRQDLETDDFEIVVILEGMVEATAMTTQARSSYLASEILWGHRFEPVLFEEKNQYKVDYSHFHKTYEVPSTPRCSAKDLVENKFLLSNS</span><span class="topo-unknown">LEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (13 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1423,6 +1442,7 @@ Chicken Kir2.2 (cKir2.2) is a classical inward rectifier potassium channel whose
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1438,12 +1458,13 @@ Chicken Kir2.2 (cKir2.2) is a classical inward rectifier potassium channel whose
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MARRK</span><span class="topo-outside">CRNRFVKKNGQCNVEFTNMDDKP</span><span class="topo-unknown">QRYIA</span><span class="topo-outside">D</span><span class="topo-unknown">MFTTCVD</span><span class="topo-outside">I</span><span class="topo-membrane">RWRYMLLLFSLAFLVSWL</span></span>
-<span class="topo-line"><span class="topo-membrane">LFGLIFWLI</span><span class="topo-inside">ALIHGDLENPGGDDTFKPCVLQVNGF</span><span class="topo-unknown">VAAFLFSIETQTTIGYG</span><span class="topo-inside">FRCVTEEC</span></span>
-<span class="topo-line"><span class="topo-membrane">PLAVFMVVVQSIVGCIIDSFMIGAIMAKM</span><span class="topo-outside">ARPKKRAQTLLFSHNAVVAMRDGKLCLMWRV</span></span>
-<span class="topo-line"><span class="topo-outside">GNLRKSHIVEAHVRAQLIKPRITEEGEYIPLDQIDIDVGFDKGLDRIFLVSPITILHEIN</span></span>
-<span class="topo-line"><span class="topo-outside">EDSPLFGISRQDLETDDFEIVVILEGMVEATAMTTQARSSYLASEILWGHRFEPVLFEEK</span></span>
-<span class="topo-line"><span class="topo-outside">NQYKVDYSHFHKTYEVPSTPRCSAKDLVENKFLLSNS</span><span class="topo-unknown">LEVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MARRK</span><span class="topo-outside">CRNRFVKKNGQCNVEFTNMDDKP</span><span class="topo-unknown">QRYIA</span><span class="topo-outside">D</span><span class="topo-unknown">MFTTCVD</span><span class="topo-outside">I</span><span class="topo-membrane">RWRYMLLLFSLAFLVSWLLFGLIFWLI</span><span class="topo-inside">ALIHGDLENPGGDDTFKPCVLQVNGF</span><span class="topo-unknown">VAAFLFSIETQTTIGYG</span><span class="topo-inside">FRCVTEEC</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">PLAVFMVVVQSIVGCIIDSFMIGAIMAKM</span><span class="topo-outside">ARPKKRAQTLLFSHNAVVAMRDGKLCLMWRVGNLRKSHIVEAHVRAQLIKPRITEEGEYIPLDQIDIDVGFDKGLDRIFLVSPITILHEIN</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340   </span>
+<span class="topo-line"><span class="topo-outside">EDSPLFGISRQDLETDDFEIVVILEGMVEATAMTTQARSSYLASEILWGHRFEPVLFEEKNQYKVDYSHFHKTYEVPSTPRCSAKDLVENKFLLSNS</span><span class="topo-unknown">LEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (13 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1546,6 +1567,7 @@ Chicken Kir2.2 (cKir2.2) is a classical inward rectifier potassium channel whose
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1561,12 +1583,13 @@ Chicken Kir2.2 (cKir2.2) is a classical inward rectifier potassium channel whose
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MARRK</span><span class="topo-outside">CRNRFVKKNGQCNVEFTNMDDKP</span><span class="topo-unknown">QRYIA</span><span class="topo-outside">D</span><span class="topo-unknown">MFTTCVD</span><span class="topo-outside">I</span><span class="topo-membrane">RWRYMLLLFSLAFLVSWL</span></span>
-<span class="topo-line"><span class="topo-membrane">LFGLIFWLI</span><span class="topo-inside">ALIHGDLENPGGDDTFKPCVLQVNGF</span><span class="topo-unknown">VAAFLFSIETQTTIGYG</span><span class="topo-inside">FRCVTEEC</span></span>
-<span class="topo-line"><span class="topo-membrane">PLAVFMVVVQSIVGCIIDSFMIGAIMAKM</span><span class="topo-outside">ARPKKRAQTLLFSHNAVVAMRDGKLCLMWRV</span></span>
-<span class="topo-line"><span class="topo-outside">GNLRKSHIVEAHVRAQLIKPRITEEGEYIPLDQIDIDVGFDKGLDRIFLVSPITILHEIN</span></span>
-<span class="topo-line"><span class="topo-outside">EDSPLFGISRQDLETDDFEIVVILEGMVEATAMTTQARSSYLASEILWGHRFEPVLFEEK</span></span>
-<span class="topo-line"><span class="topo-outside">NQYKVDYSHFHKTYEVPSTPRCSAKDLVENKFLLSNS</span><span class="topo-unknown">LEVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MARRK</span><span class="topo-outside">CRNRFVKKNGQCNVEFTNMDDKP</span><span class="topo-unknown">QRYIA</span><span class="topo-outside">D</span><span class="topo-unknown">MFTTCVD</span><span class="topo-outside">I</span><span class="topo-membrane">RWRYMLLLFSLAFLVSWLLFGLIFWLI</span><span class="topo-inside">ALIHGDLENPGGDDTFKPCVLQVNGF</span><span class="topo-unknown">VAAFLFSIETQTTIGYG</span><span class="topo-inside">FRCVTEEC</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">PLAVFMVVVQSIVGCIIDSFMIGAIMAKM</span><span class="topo-outside">ARPKKRAQTLLFSHNAVVAMRDGKLCLMWRVGNLRKSHIVEAHVRAQLIKPRITEEGEYIPLDQIDIDVGFDKGLDRIFLVSPITILHEIN</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340   </span>
+<span class="topo-line"><span class="topo-outside">EDSPLFGISRQDLETDDFEIVVILEGMVEATAMTTQARSSYLASEILWGHRFEPVLFEEKNQYKVDYSHFHKTYEVPSTPRCSAKDLVENKFLLSNS</span><span class="topo-unknown">LEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (13 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1669,6 +1692,7 @@ Chicken Kir2.2 (cKir2.2) is a classical inward rectifier potassium channel whose
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1684,12 +1708,13 @@ Chicken Kir2.2 (cKir2.2) is a classical inward rectifier potassium channel whose
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MARRK</span><span class="topo-inside">CRNRFVKKNGQCNVEFTNMDD</span><span class="topo-unknown">KPQRYIA</span><span class="topo-inside">D</span><span class="topo-unknown">MFTTCVD</span><span class="topo-inside">I</span><span class="topo-membrane">RWRYMLLLFSLAFLVSWL</span></span>
-<span class="topo-line"><span class="topo-membrane">LFGLIFWLI</span><span class="topo-outside">ALIHGDLENPGGDDTFKPCVLQVNGF</span><span class="topo-unknown">VAAFLFSIETQTTIGYG</span><span class="topo-outside">FRCVTEEC</span></span>
-<span class="topo-line"><span class="topo-membrane">PLAVFMVVVQSIVGCIIDSFMIGAIMAKM</span><span class="topo-inside">AA</span><span class="topo-unknown">PKKRAQ</span><span class="topo-inside">TLLFSHNAVVAMRDGKLCLMWRV</span></span>
-<span class="topo-line"><span class="topo-inside">GNLRKSHIVEAHVRAQLIKPRITEEGEYIPLDQIDIDVGFDKGLDRIFLVSPITILHEIN</span></span>
-<span class="topo-line"><span class="topo-inside">EDSPLFGISRQDLETDDFEIVVILEGMVEATAMTTQARSSYLASEILWGHRFEPVLFEEK</span></span>
-<span class="topo-line"><span class="topo-inside">NQYKVDYSHFHKTYEVPSTPRCSAKDLVENKFLLSNS</span><span class="topo-unknown">LEVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MARRK</span><span class="topo-inside">CRNRFVKKNGQCNVEFTNMDD</span><span class="topo-unknown">KPQRYIA</span><span class="topo-inside">D</span><span class="topo-unknown">MFTTCVD</span><span class="topo-inside">I</span><span class="topo-membrane">RWRYMLLLFSLAFLVSWLLFGLIFWLI</span><span class="topo-outside">ALIHGDLENPGGDDTFKPCVLQVNGF</span><span class="topo-unknown">VAAFLFSIETQTTIGYG</span><span class="topo-outside">FRCVTEEC</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">PLAVFMVVVQSIVGCIIDSFMIGAIMAKM</span><span class="topo-inside">AA</span><span class="topo-unknown">PKKRAQ</span><span class="topo-inside">TLLFSHNAVVAMRDGKLCLMWRVGNLRKSHIVEAHVRAQLIKPRITEEGEYIPLDQIDIDVGFDKGLDRIFLVSPITILHEIN</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340   </span>
+<span class="topo-line"><span class="topo-inside">EDSPLFGISRQDLETDDFEIVVILEGMVEATAMTTQARSSYLASEILWGHRFEPVLFEEKNQYKVDYSHFHKTYEVPSTPRCSAKDLVENKFLLSNS</span><span class="topo-unknown">LEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1806,6 +1831,7 @@ Chicken Kir2.2 (cKir2.2) is a classical inward rectifier potassium channel whose
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1821,12 +1847,13 @@ Chicken Kir2.2 (cKir2.2) is a classical inward rectifier potassium channel whose
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MARRK</span><span class="topo-inside">CRNRFVKKNGQCNVEFTNMDD</span><span class="topo-unknown">KPQRYIA</span><span class="topo-inside">D</span><span class="topo-unknown">MFTTCVD</span><span class="topo-inside">I</span><span class="topo-membrane">RWRYMLLLFSLAFLVSWL</span></span>
-<span class="topo-line"><span class="topo-membrane">LFGLIFWLI</span><span class="topo-outside">ALIHGDLENPGGDDTFKPCVLQVNGF</span><span class="topo-unknown">VAAFLFSIETQTTIGYG</span><span class="topo-outside">FRCVTEEC</span></span>
-<span class="topo-line"><span class="topo-membrane">PLAVFMVVVQSIVGCIIDSFMIGAIMAKM</span><span class="topo-inside">AA</span><span class="topo-unknown">PKKRAQ</span><span class="topo-inside">TLLFSHNAVVAMRDGKLCLMWRV</span></span>
-<span class="topo-line"><span class="topo-inside">GNLRKSHIVEAHVRAQLIKPRITEEGEYIPLDQIDIDVGFDKGLDRIFLVSPITILHEIN</span></span>
-<span class="topo-line"><span class="topo-inside">EDSPLFGISRQDLETDDFEIVVILEGMVEATAMTTQARSSYLASEILWGHRFEPVLFEEK</span></span>
-<span class="topo-line"><span class="topo-inside">NQYKVDYSHFHKTYEVPSTPRCSAKDLVENKFLLSNS</span><span class="topo-unknown">LEVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MARRK</span><span class="topo-inside">CRNRFVKKNGQCNVEFTNMDD</span><span class="topo-unknown">KPQRYIA</span><span class="topo-inside">D</span><span class="topo-unknown">MFTTCVD</span><span class="topo-inside">I</span><span class="topo-membrane">RWRYMLLLFSLAFLVSWLLFGLIFWLI</span><span class="topo-outside">ALIHGDLENPGGDDTFKPCVLQVNGF</span><span class="topo-unknown">VAAFLFSIETQTTIGYG</span><span class="topo-outside">FRCVTEEC</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">PLAVFMVVVQSIVGCIIDSFMIGAIMAKM</span><span class="topo-inside">AA</span><span class="topo-unknown">PKKRAQ</span><span class="topo-inside">TLLFSHNAVVAMRDGKLCLMWRVGNLRKSHIVEAHVRAQLIKPRITEEGEYIPLDQIDIDVGFDKGLDRIFLVSPITILHEIN</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340   </span>
+<span class="topo-line"><span class="topo-inside">EDSPLFGISRQDLETDDFEIVVILEGMVEATAMTTQARSSYLASEILWGHRFEPVLFEEKNQYKVDYSHFHKTYEVPSTPRCSAKDLVENKFLLSNS</span><span class="topo-unknown">LEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1943,6 +1970,7 @@ Chicken Kir2.2 (cKir2.2) is a classical inward rectifier potassium channel whose
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1958,12 +1986,13 @@ Chicken Kir2.2 (cKir2.2) is a classical inward rectifier potassium channel whose
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MARRK</span><span class="topo-inside">CRNRFVKKNGQCNVEFTNMDD</span><span class="topo-unknown">KPQRYIA</span><span class="topo-inside">D</span><span class="topo-unknown">MFTTCVD</span><span class="topo-inside">I</span><span class="topo-membrane">RWRYMLLLFSLAFLVSWL</span></span>
-<span class="topo-line"><span class="topo-membrane">LFGLIFWLI</span><span class="topo-outside">ALIHGDLENPGGDDTFKPCVLQVNGF</span><span class="topo-unknown">VAAFLFSIETQTTIGYG</span><span class="topo-outside">FRCVTEEC</span></span>
-<span class="topo-line"><span class="topo-membrane">PLAVFMVVVQSIVGCIIDSFMIGAIMAKM</span><span class="topo-inside">AA</span><span class="topo-unknown">PKKRAQ</span><span class="topo-inside">TLLFSHNAVVAMRDGKLCLMWRV</span></span>
-<span class="topo-line"><span class="topo-inside">GNLRKSHIVEAHVRAQLIKPRITEEGEYIPLDQIDIDVGFDKGLDRIFLVSPITILHEIN</span></span>
-<span class="topo-line"><span class="topo-inside">EDSPLFGISRQDLETDDFEIVVILEGMVEATAMTTQARSSYLASEILWGHRFEPVLFEEK</span></span>
-<span class="topo-line"><span class="topo-inside">NQYKVDYSHFHKTYEVPSTPRCSAKDLVENKFLLSNS</span><span class="topo-unknown">LEVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MARRK</span><span class="topo-inside">CRNRFVKKNGQCNVEFTNMDD</span><span class="topo-unknown">KPQRYIA</span><span class="topo-inside">D</span><span class="topo-unknown">MFTTCVD</span><span class="topo-inside">I</span><span class="topo-membrane">RWRYMLLLFSLAFLVSWLLFGLIFWLI</span><span class="topo-outside">ALIHGDLENPGGDDTFKPCVLQVNGF</span><span class="topo-unknown">VAAFLFSIETQTTIGYG</span><span class="topo-outside">FRCVTEEC</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">PLAVFMVVVQSIVGCIIDSFMIGAIMAKM</span><span class="topo-inside">AA</span><span class="topo-unknown">PKKRAQ</span><span class="topo-inside">TLLFSHNAVVAMRDGKLCLMWRVGNLRKSHIVEAHVRAQLIKPRITEEGEYIPLDQIDIDVGFDKGLDRIFLVSPITILHEIN</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340   </span>
+<span class="topo-line"><span class="topo-inside">EDSPLFGISRQDLETDDFEIVVILEGMVEATAMTTQARSSYLASEILWGHRFEPVLFEEKNQYKVDYSHFHKTYEVPSTPRCSAKDLVENKFLLSNS</span><span class="topo-unknown">LEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2080,6 +2109,7 @@ Chicken Kir2.2 (cKir2.2) is a classical inward rectifier potassium channel whose
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2095,12 +2125,13 @@ Chicken Kir2.2 (cKir2.2) is a classical inward rectifier potassium channel whose
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MARRK</span><span class="topo-inside">CRNRFVKKNGQCNVEFTNMDD</span><span class="topo-unknown">KPQRYIA</span><span class="topo-inside">D</span><span class="topo-unknown">MFTTCVD</span><span class="topo-inside">I</span><span class="topo-membrane">RWRYMLLLFSLAFLVSWL</span></span>
-<span class="topo-line"><span class="topo-membrane">LFGLIFWLI</span><span class="topo-outside">ALIHGDLENPGGDDTFKPCVLQVNGF</span><span class="topo-unknown">VAAFLFSIETQTTIGYG</span><span class="topo-outside">FRCVTEEC</span></span>
-<span class="topo-line"><span class="topo-membrane">PLAVFMVVVQSIVGCIIDSFMIGAIMAKM</span><span class="topo-inside">AA</span><span class="topo-unknown">PKKRAQ</span><span class="topo-inside">TLLFSHNAVVAMRDGKLCLMWRV</span></span>
-<span class="topo-line"><span class="topo-inside">GNLRKSHIVEAHVRAQLIKPRITEEGEYIPLDQIDIDVGFDKGLDRIFLVSPITILHEIN</span></span>
-<span class="topo-line"><span class="topo-inside">EDSPLFGISRQDLETDDFEIVVILEGMVEATAMTTQARSSYLASEILWGHRFEPVLFEEK</span></span>
-<span class="topo-line"><span class="topo-inside">NQYKVDYSHFHKTYEVPSTPRCSAKDLVENKFLLSNS</span><span class="topo-unknown">LEVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MARRK</span><span class="topo-inside">CRNRFVKKNGQCNVEFTNMDD</span><span class="topo-unknown">KPQRYIA</span><span class="topo-inside">D</span><span class="topo-unknown">MFTTCVD</span><span class="topo-inside">I</span><span class="topo-membrane">RWRYMLLLFSLAFLVSWLLFGLIFWLI</span><span class="topo-outside">ALIHGDLENPGGDDTFKPCVLQVNGF</span><span class="topo-unknown">VAAFLFSIETQTTIGYG</span><span class="topo-outside">FRCVTEEC</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">PLAVFMVVVQSIVGCIIDSFMIGAIMAKM</span><span class="topo-inside">AA</span><span class="topo-unknown">PKKRAQ</span><span class="topo-inside">TLLFSHNAVVAMRDGKLCLMWRVGNLRKSHIVEAHVRAQLIKPRITEEGEYIPLDQIDIDVGFDKGLDRIFLVSPITILHEIN</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340   </span>
+<span class="topo-line"><span class="topo-inside">EDSPLFGISRQDLETDDFEIVVILEGMVEATAMTTQARSSYLASEILWGHRFEPVLFEEKNQYKVDYSHFHKTYEVPSTPRCSAKDLVENKFLLSNS</span><span class="topo-unknown">LEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2217,6 +2248,7 @@ Chicken Kir2.2 (cKir2.2) is a classical inward rectifier potassium channel whose
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2232,12 +2264,13 @@ Chicken Kir2.2 (cKir2.2) is a classical inward rectifier potassium channel whose
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MARRKCR</span><span class="topo-outside">NRFVKKNGQCNVEFTNMD</span><span class="topo-unknown">DKPQRYIAD</span><span class="topo-outside">MFTTCVDI</span><span class="topo-membrane">RWRYMLLLFSLAFLVSWL</span></span>
-<span class="topo-line"><span class="topo-membrane">LFGLIFWLI</span><span class="topo-inside">ALIHGDLENPGGDDTFKPCVLQVNGF</span><span class="topo-unknown">VAAFLFSIETQTTIGYG</span><span class="topo-inside">FRCVTEEC</span></span>
-<span class="topo-line"><span class="topo-membrane">PLAVFMVVVQSIVGCIIDSFMIGAIM</span><span class="topo-outside">AKMARPKKRAQTLLFSHNAVVAMRDGKLCLMWRV</span></span>
-<span class="topo-line"><span class="topo-outside">GNLRKSHLVEAHVRAQLIKPRITEEGEYIPLDQIDIDVGFDKGLDRIFLVSPITILHEIN</span></span>
-<span class="topo-line"><span class="topo-outside">EDSPLFGISRQDLETDDFEIVVILEGMVEATAMTTQARSSYLASEILWGHRFEPVLFEEK</span></span>
-<span class="topo-line"><span class="topo-outside">NQYKVDYSHFHKTYEVPSTPRCSAKDLVENKFLLSNS</span><span class="topo-unknown">LEVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MARRKCR</span><span class="topo-outside">NRFVKKNGQCNVEFTNMD</span><span class="topo-unknown">DKPQRYIAD</span><span class="topo-outside">MFTTCVDI</span><span class="topo-membrane">RWRYMLLLFSLAFLVSWLLFGLIFWLI</span><span class="topo-inside">ALIHGDLENPGGDDTFKPCVLQVNGF</span><span class="topo-unknown">VAAFLFSIETQTTIGYG</span><span class="topo-inside">FRCVTEEC</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">PLAVFMVVVQSIVGCIIDSFMIGAIM</span><span class="topo-outside">AKMARPKKRAQTLLFSHNAVVAMRDGKLCLMWRVGNLRKSHLVEAHVRAQLIKPRITEEGEYIPLDQIDIDVGFDKGLDRIFLVSPITILHEIN</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340   </span>
+<span class="topo-line"><span class="topo-outside">EDSPLFGISRQDLETDDFEIVVILEGMVEATAMTTQARSSYLASEILWGHRFEPVLFEEKNQYKVDYSHFHKTYEVPSTPRCSAKDLVENKFLLSNS</span><span class="topo-unknown">LEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2326,6 +2359,7 @@ Chicken Kir2.2 (cKir2.2) is a classical inward rectifier potassium channel whose
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2341,12 +2375,13 @@ Chicken Kir2.2 (cKir2.2) is a classical inward rectifier potassium channel whose
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MARRKCR</span><span class="topo-outside">NRFVKKNGQCNVEFTNMD</span><span class="topo-unknown">DKPQRYIAD</span><span class="topo-outside">MFTTCVDI</span><span class="topo-membrane">RWRYMLLLFSLAFLVSWL</span></span>
-<span class="topo-line"><span class="topo-membrane">LFGLIFWLI</span><span class="topo-inside">ALIHGDLENPGGDDTFKPCVLQVNGF</span><span class="topo-unknown">VAAFLFSIETQTTIGYG</span><span class="topo-inside">FRCVTEEC</span></span>
-<span class="topo-line"><span class="topo-membrane">PLAVFMVVVQSIVGCIIDSFMIGAIM</span><span class="topo-outside">AKMARPKKRAQTLLFSHNAVVAMRDGKLCLMWRV</span></span>
-<span class="topo-line"><span class="topo-outside">GNLRKSHLVEAHVRAQLIKPRITEEGEYIPLDQIDIDVGFDKGLDRIFLVSPITILHEIN</span></span>
-<span class="topo-line"><span class="topo-outside">EDSPLFGISRQDLETDDFEIVVILEGMVEATAMTTQARSSYLASEILWGHRFEPVLFEEK</span></span>
-<span class="topo-line"><span class="topo-outside">NQYKVDYSHFHKTYEVPSTPRCSAKDLVENKFLLSNS</span><span class="topo-unknown">LEVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MARRKCR</span><span class="topo-outside">NRFVKKNGQCNVEFTNMD</span><span class="topo-unknown">DKPQRYIAD</span><span class="topo-outside">MFTTCVDI</span><span class="topo-membrane">RWRYMLLLFSLAFLVSWLLFGLIFWLI</span><span class="topo-inside">ALIHGDLENPGGDDTFKPCVLQVNGF</span><span class="topo-unknown">VAAFLFSIETQTTIGYG</span><span class="topo-inside">FRCVTEEC</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">PLAVFMVVVQSIVGCIIDSFMIGAIM</span><span class="topo-outside">AKMARPKKRAQTLLFSHNAVVAMRDGKLCLMWRVGNLRKSHLVEAHVRAQLIKPRITEEGEYIPLDQIDIDVGFDKGLDRIFLVSPITILHEIN</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340   </span>
+<span class="topo-line"><span class="topo-outside">EDSPLFGISRQDLETDDFEIVVILEGMVEATAMTTQARSSYLASEILWGHRFEPVLFEEKNQYKVDYSHFHKTYEVPSTPRCSAKDLVENKFLLSNS</span><span class="topo-unknown">LEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2435,6 +2470,7 @@ Chicken Kir2.2 (cKir2.2) is a classical inward rectifier potassium channel whose
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2450,12 +2486,13 @@ Chicken Kir2.2 (cKir2.2) is a classical inward rectifier potassium channel whose
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MARRKCR</span><span class="topo-outside">NRFVKKNGQCNVEFTNMD</span><span class="topo-unknown">DKPQRYIAD</span><span class="topo-outside">MFTTCVDI</span><span class="topo-membrane">RWRYMLLLFSLAFLVSWL</span></span>
-<span class="topo-line"><span class="topo-membrane">LFGLIFWLI</span><span class="topo-inside">ALIHGDLENPGGDDTFKPCVLQVNGF</span><span class="topo-unknown">VAAFLFSIETQTTIGYG</span><span class="topo-inside">FRCVTEEC</span></span>
-<span class="topo-line"><span class="topo-membrane">PLAVFMVVVQSIVGCIIDSFMIGAIM</span><span class="topo-outside">AKMARPKKRAQTLLFSHNAVVAMRDGKLCLMWRV</span></span>
-<span class="topo-line"><span class="topo-outside">GNLRKSHLVEAHVRAQLIKPRITEEGEYIPLDQIDIDVGFDKGLDRIFLVSPITILHEIN</span></span>
-<span class="topo-line"><span class="topo-outside">EDSPLFGISRQDLETDDFEIVVILEGMVEATAMTTQARSSYLASEILWGHRFEPVLFEEK</span></span>
-<span class="topo-line"><span class="topo-outside">NQYKVDYSHFHKTYEVPSTPRCSAKDLVENKFLLSNS</span><span class="topo-unknown">LEVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MARRKCR</span><span class="topo-outside">NRFVKKNGQCNVEFTNMD</span><span class="topo-unknown">DKPQRYIAD</span><span class="topo-outside">MFTTCVDI</span><span class="topo-membrane">RWRYMLLLFSLAFLVSWLLFGLIFWLI</span><span class="topo-inside">ALIHGDLENPGGDDTFKPCVLQVNGF</span><span class="topo-unknown">VAAFLFSIETQTTIGYG</span><span class="topo-inside">FRCVTEEC</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">PLAVFMVVVQSIVGCIIDSFMIGAIM</span><span class="topo-outside">AKMARPKKRAQTLLFSHNAVVAMRDGKLCLMWRVGNLRKSHLVEAHVRAQLIKPRITEEGEYIPLDQIDIDVGFDKGLDRIFLVSPITILHEIN</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340   </span>
+<span class="topo-line"><span class="topo-outside">EDSPLFGISRQDLETDDFEIVVILEGMVEATAMTTQARSSYLASEILWGHRFEPVLFEEKNQYKVDYSHFHKTYEVPSTPRCSAKDLVENKFLLSNS</span><span class="topo-unknown">LEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2544,6 +2581,7 @@ Chicken Kir2.2 (cKir2.2) is a classical inward rectifier potassium channel whose
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2559,12 +2597,13 @@ Chicken Kir2.2 (cKir2.2) is a classical inward rectifier potassium channel whose
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MARRKCR</span><span class="topo-outside">NRFVKKNGQCNVEFTNMD</span><span class="topo-unknown">DKPQRYIAD</span><span class="topo-outside">MFTTCVDI</span><span class="topo-membrane">RWRYMLLLFSLAFLVSWL</span></span>
-<span class="topo-line"><span class="topo-membrane">LFGLIFWLI</span><span class="topo-inside">ALIHGDLENPGGDDTFKPCVLQVNGF</span><span class="topo-unknown">VAAFLFSIETQTTIGYG</span><span class="topo-inside">FRCVTEEC</span></span>
-<span class="topo-line"><span class="topo-membrane">PLAVFMVVVQSIVGCIIDSFMIGAIM</span><span class="topo-outside">AKMARPKKRAQTLLFSHNAVVAMRDGKLCLMWRV</span></span>
-<span class="topo-line"><span class="topo-outside">GNLRKSHLVEAHVRAQLIKPRITEEGEYIPLDQIDIDVGFDKGLDRIFLVSPITILHEIN</span></span>
-<span class="topo-line"><span class="topo-outside">EDSPLFGISRQDLETDDFEIVVILEGMVEATAMTTQARSSYLASEILWGHRFEPVLFEEK</span></span>
-<span class="topo-line"><span class="topo-outside">NQYKVDYSHFHKTYEVPSTPRCSAKDLVENKFLLSNS</span><span class="topo-unknown">LEVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MARRKCR</span><span class="topo-outside">NRFVKKNGQCNVEFTNMD</span><span class="topo-unknown">DKPQRYIAD</span><span class="topo-outside">MFTTCVDI</span><span class="topo-membrane">RWRYMLLLFSLAFLVSWLLFGLIFWLI</span><span class="topo-inside">ALIHGDLENPGGDDTFKPCVLQVNGF</span><span class="topo-unknown">VAAFLFSIETQTTIGYG</span><span class="topo-inside">FRCVTEEC</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">PLAVFMVVVQSIVGCIIDSFMIGAIM</span><span class="topo-outside">AKMARPKKRAQTLLFSHNAVVAMRDGKLCLMWRVGNLRKSHLVEAHVRAQLIKPRITEEGEYIPLDQIDIDVGFDKGLDRIFLVSPITILHEIN</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340   </span>
+<span class="topo-line"><span class="topo-outside">EDSPLFGISRQDLETDDFEIVVILEGMVEATAMTTQARSSYLASEILWGHRFEPVLFEEKNQYKVDYSHFHKTYEVPSTPRCSAKDLVENKFLLSNS</span><span class="topo-unknown">LEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2653,6 +2692,7 @@ Chicken Kir2.2 (cKir2.2) is a classical inward rectifier potassium channel whose
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2768,12 +2808,13 @@ Chicken Kir2.2 (cKir2.2) is a classical inward rectifier potassium channel whose
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MARRK</span><span class="topo-outside">CRNRFVKKNGQCNVEFTNMDD</span><span class="topo-unknown">WPQRYIA</span><span class="topo-outside">D</span><span class="topo-unknown">MFTTCVD</span><span class="topo-outside">I</span><span class="topo-membrane">RWRYMLLLFSLAFLVSWL</span></span>
-<span class="topo-line"><span class="topo-membrane">LFGLIFWLI</span><span class="topo-inside">ALIHGDLENPGGDDTFKPCVLQVNGF</span><span class="topo-unknown">VAAFLFSIETQTTIGYG</span><span class="topo-inside">FRCVTEEC</span></span>
-<span class="topo-line"><span class="topo-membrane">PLAVFMVVVQSIVGCIIDSFMIGAIMAKM</span><span class="topo-outside">ARPKKRAQTLLFSHNAVVAMRDGKLCLMWRV</span></span>
-<span class="topo-line"><span class="topo-outside">GNLRKSHIVEAHVRAQLIKPRITEEGEYIPLDQIDIDVGFDKGLDRIFLVSPITILHEIN</span></span>
-<span class="topo-line"><span class="topo-outside">EDSPLFGISRQDLETDDFEIVVILEGMVEATAMTTQARSSYLASEILWGHRFEPVLFEEK</span></span>
-<span class="topo-line"><span class="topo-outside">NQYKVDYSHFHKTYEVPSTPRCSAKDLVENK</span><span class="topo-unknown">FLLSNSLEVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MARRK</span><span class="topo-outside">CRNRFVKKNGQCNVEFTNMDD</span><span class="topo-unknown">WPQRYIA</span><span class="topo-outside">D</span><span class="topo-unknown">MFTTCVD</span><span class="topo-outside">I</span><span class="topo-membrane">RWRYMLLLFSLAFLVSWLLFGLIFWLI</span><span class="topo-inside">ALIHGDLENPGGDDTFKPCVLQVNGF</span><span class="topo-unknown">VAAFLFSIETQTTIGYG</span><span class="topo-inside">FRCVTEEC</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">PLAVFMVVVQSIVGCIIDSFMIGAIMAKM</span><span class="topo-outside">ARPKKRAQTLLFSHNAVVAMRDGKLCLMWRVGNLRKSHIVEAHVRAQLIKPRITEEGEYIPLDQIDIDVGFDKGLDRIFLVSPITILHEIN</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340   </span>
+<span class="topo-line"><span class="topo-outside">EDSPLFGISRQDLETDDFEIVVILEGMVEATAMTTQARSSYLASEILWGHRFEPVLFEEKNQYKVDYSHFHKTYEVPSTPRCSAKDLVENK</span><span class="topo-unknown">FLLSNSLEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2862,6 +2903,7 @@ Chicken Kir2.2 (cKir2.2) is a classical inward rectifier potassium channel whose
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2877,12 +2919,13 @@ Chicken Kir2.2 (cKir2.2) is a classical inward rectifier potassium channel whose
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MARRK</span><span class="topo-outside">CRNRFVKKNGQCNVEFTNMDD</span><span class="topo-unknown">WPQRYIA</span><span class="topo-outside">D</span><span class="topo-unknown">MFTTCVD</span><span class="topo-outside">I</span><span class="topo-membrane">RWRYMLLLFSLAFLVSWL</span></span>
-<span class="topo-line"><span class="topo-membrane">LFGLIFWLI</span><span class="topo-inside">ALIHGDLENPGGDDTFKPCVLQVNGF</span><span class="topo-unknown">VAAFLFSIETQTTIGYG</span><span class="topo-inside">FRCVTEEC</span></span>
-<span class="topo-line"><span class="topo-membrane">PLAVFMVVVQSIVGCIIDSFMIGAIMAKM</span><span class="topo-outside">ARPKKRAQTLLFSHNAVVAMRDGKLCLMWRV</span></span>
-<span class="topo-line"><span class="topo-outside">GNLRKSHIVEAHVRAQLIKPRITEEGEYIPLDQIDIDVGFDKGLDRIFLVSPITILHEIN</span></span>
-<span class="topo-line"><span class="topo-outside">EDSPLFGISRQDLETDDFEIVVILEGMVEATAMTTQARSSYLASEILWGHRFEPVLFEEK</span></span>
-<span class="topo-line"><span class="topo-outside">NQYKVDYSHFHKTYEVPSTPRCSAKDLVENK</span><span class="topo-unknown">FLLSNSLEVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MARRK</span><span class="topo-outside">CRNRFVKKNGQCNVEFTNMDD</span><span class="topo-unknown">WPQRYIA</span><span class="topo-outside">D</span><span class="topo-unknown">MFTTCVD</span><span class="topo-outside">I</span><span class="topo-membrane">RWRYMLLLFSLAFLVSWLLFGLIFWLI</span><span class="topo-inside">ALIHGDLENPGGDDTFKPCVLQVNGF</span><span class="topo-unknown">VAAFLFSIETQTTIGYG</span><span class="topo-inside">FRCVTEEC</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">PLAVFMVVVQSIVGCIIDSFMIGAIMAKM</span><span class="topo-outside">ARPKKRAQTLLFSHNAVVAMRDGKLCLMWRVGNLRKSHIVEAHVRAQLIKPRITEEGEYIPLDQIDIDVGFDKGLDRIFLVSPITILHEIN</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340   </span>
+<span class="topo-line"><span class="topo-outside">EDSPLFGISRQDLETDDFEIVVILEGMVEATAMTTQARSSYLASEILWGHRFEPVLFEEKNQYKVDYSHFHKTYEVPSTPRCSAKDLVENK</span><span class="topo-unknown">FLLSNSLEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2971,6 +3014,7 @@ Chicken Kir2.2 (cKir2.2) is a classical inward rectifier potassium channel whose
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2986,12 +3030,13 @@ Chicken Kir2.2 (cKir2.2) is a classical inward rectifier potassium channel whose
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MARRK</span><span class="topo-outside">CRNRFVKKNGQCNVEFTNMDD</span><span class="topo-unknown">WPQRYIA</span><span class="topo-outside">D</span><span class="topo-unknown">MFTTCVD</span><span class="topo-outside">I</span><span class="topo-membrane">RWRYMLLLFSLAFLVSWL</span></span>
-<span class="topo-line"><span class="topo-membrane">LFGLIFWLI</span><span class="topo-inside">ALIHGDLENPGGDDTFKPCVLQVNGF</span><span class="topo-unknown">VAAFLFSIETQTTIGYG</span><span class="topo-inside">FRCVTEEC</span></span>
-<span class="topo-line"><span class="topo-membrane">PLAVFMVVVQSIVGCIIDSFMIGAIMAKM</span><span class="topo-outside">ARPKKRAQTLLFSHNAVVAMRDGKLCLMWRV</span></span>
-<span class="topo-line"><span class="topo-outside">GNLRKSHIVEAHVRAQLIKPRITEEGEYIPLDQIDIDVGFDKGLDRIFLVSPITILHEIN</span></span>
-<span class="topo-line"><span class="topo-outside">EDSPLFGISRQDLETDDFEIVVILEGMVEATAMTTQARSSYLASEILWGHRFEPVLFEEK</span></span>
-<span class="topo-line"><span class="topo-outside">NQYKVDYSHFHKTYEVPSTPRCSAKDLVENK</span><span class="topo-unknown">FLLSNSLEVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MARRK</span><span class="topo-outside">CRNRFVKKNGQCNVEFTNMDD</span><span class="topo-unknown">WPQRYIA</span><span class="topo-outside">D</span><span class="topo-unknown">MFTTCVD</span><span class="topo-outside">I</span><span class="topo-membrane">RWRYMLLLFSLAFLVSWLLFGLIFWLI</span><span class="topo-inside">ALIHGDLENPGGDDTFKPCVLQVNGF</span><span class="topo-unknown">VAAFLFSIETQTTIGYG</span><span class="topo-inside">FRCVTEEC</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">PLAVFMVVVQSIVGCIIDSFMIGAIMAKM</span><span class="topo-outside">ARPKKRAQTLLFSHNAVVAMRDGKLCLMWRVGNLRKSHIVEAHVRAQLIKPRITEEGEYIPLDQIDIDVGFDKGLDRIFLVSPITILHEIN</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340   </span>
+<span class="topo-line"><span class="topo-outside">EDSPLFGISRQDLETDDFEIVVILEGMVEATAMTTQARSSYLASEILWGHRFEPVLFEEKNQYKVDYSHFHKTYEVPSTPRCSAKDLVENK</span><span class="topo-unknown">FLLSNSLEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3080,6 +3125,7 @@ Chicken Kir2.2 (cKir2.2) is a classical inward rectifier potassium channel whose
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3095,12 +3141,13 @@ Chicken Kir2.2 (cKir2.2) is a classical inward rectifier potassium channel whose
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MARRK</span><span class="topo-outside">CRNRFVKKNGQCNVEFTNMDD</span><span class="topo-unknown">WPQRYIA</span><span class="topo-outside">D</span><span class="topo-unknown">MFTTCVD</span><span class="topo-outside">I</span><span class="topo-membrane">RWRYMLLLFSLAFLVSWL</span></span>
-<span class="topo-line"><span class="topo-membrane">LFGLIFWLI</span><span class="topo-inside">ALIHGDLENPGGDDTFKPCVLQVNGF</span><span class="topo-unknown">VAAFLFSIETQTTIGYG</span><span class="topo-inside">FRCVTEEC</span></span>
-<span class="topo-line"><span class="topo-membrane">PLAVFMVVVQSIVGCIIDSFMIGAIMAKM</span><span class="topo-outside">ARPKKRAQTLLFSHNAVVAMRDGKLCLMWRV</span></span>
-<span class="topo-line"><span class="topo-outside">GNLRKSHIVEAHVRAQLIKPRITEEGEYIPLDQIDIDVGFDKGLDRIFLVSPITILHEIN</span></span>
-<span class="topo-line"><span class="topo-outside">EDSPLFGISRQDLETDDFEIVVILEGMVEATAMTTQARSSYLASEILWGHRFEPVLFEEK</span></span>
-<span class="topo-line"><span class="topo-outside">NQYKVDYSHFHKTYEVPSTPRCSAKDLVENK</span><span class="topo-unknown">FLLSNSLEVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MARRK</span><span class="topo-outside">CRNRFVKKNGQCNVEFTNMDD</span><span class="topo-unknown">WPQRYIA</span><span class="topo-outside">D</span><span class="topo-unknown">MFTTCVD</span><span class="topo-outside">I</span><span class="topo-membrane">RWRYMLLLFSLAFLVSWLLFGLIFWLI</span><span class="topo-inside">ALIHGDLENPGGDDTFKPCVLQVNGF</span><span class="topo-unknown">VAAFLFSIETQTTIGYG</span><span class="topo-inside">FRCVTEEC</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">PLAVFMVVVQSIVGCIIDSFMIGAIMAKM</span><span class="topo-outside">ARPKKRAQTLLFSHNAVVAMRDGKLCLMWRVGNLRKSHIVEAHVRAQLIKPRITEEGEYIPLDQIDIDVGFDKGLDRIFLVSPITILHEIN</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340   </span>
+<span class="topo-line"><span class="topo-outside">EDSPLFGISRQDLETDDFEIVVILEGMVEATAMTTQARSSYLASEILWGHRFEPVLFEEKNQYKVDYSHFHKTYEVPSTPRCSAKDLVENK</span><span class="topo-unknown">FLLSNSLEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3189,6 +3236,7 @@ Chicken Kir2.2 (cKir2.2) is a classical inward rectifier potassium channel whose
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3204,12 +3252,13 @@ Chicken Kir2.2 (cKir2.2) is a classical inward rectifier potassium channel whose
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MARRK</span><span class="topo-outside">CRNRFVKKNGQCNVEFTNMDD</span><span class="topo-unknown">WPQRYIA</span><span class="topo-outside">D</span><span class="topo-unknown">MFTTCVD</span><span class="topo-outside">I</span><span class="topo-membrane">RWRYMLLLFSLAFLVSWL</span></span>
-<span class="topo-line"><span class="topo-membrane">LFGLIFWLI</span><span class="topo-inside">ALIHGDLENPGGDDTFKPCVLQVNGF</span><span class="topo-unknown">VAAFLFSIETQTTIGYG</span><span class="topo-inside">FRCVTEEC</span></span>
-<span class="topo-line"><span class="topo-membrane">PLAVFMVVVQSIVGCIIDSFMIGAIMAKM</span><span class="topo-outside">ARPKKRAQTLLFSHNAVVAMRDGKLCLMWRV</span></span>
-<span class="topo-line"><span class="topo-outside">GNLRKSHIVEAHVRAQLIKPRITEEGEYIPLDQIDIDVGFDKGLDRIFLVSPITILHEIN</span></span>
-<span class="topo-line"><span class="topo-outside">EDSPLFGISRQDLETDDFEIVVILEGMVEATAMTTQARSSYLASEILWGHRFEPVLFEEK</span></span>
-<span class="topo-line"><span class="topo-outside">NQYKVDYSHFHKTYEVPSTPRCSAKDLVENK</span><span class="topo-unknown">FLLSNSLEVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MARRK</span><span class="topo-outside">CRNRFVKKNGQCNVEFTNMDD</span><span class="topo-unknown">WPQRYIA</span><span class="topo-outside">D</span><span class="topo-unknown">MFTTCVD</span><span class="topo-outside">I</span><span class="topo-membrane">RWRYMLLLFSLAFLVSWLLFGLIFWLI</span><span class="topo-inside">ALIHGDLENPGGDDTFKPCVLQVNGF</span><span class="topo-unknown">VAAFLFSIETQTTIGYG</span><span class="topo-inside">FRCVTEEC</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">PLAVFMVVVQSIVGCIIDSFMIGAIMAKM</span><span class="topo-outside">ARPKKRAQTLLFSHNAVVAMRDGKLCLMWRVGNLRKSHIVEAHVRAQLIKPRITEEGEYIPLDQIDIDVGFDKGLDRIFLVSPITILHEIN</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340   </span>
+<span class="topo-line"><span class="topo-outside">EDSPLFGISRQDLETDDFEIVVILEGMVEATAMTTQARSSYLASEILWGHRFEPVLFEEKNQYKVDYSHFHKTYEVPSTPRCSAKDLVENK</span><span class="topo-unknown">FLLSNSLEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3298,6 +3347,7 @@ Chicken Kir2.2 (cKir2.2) is a classical inward rectifier potassium channel whose
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3313,12 +3363,13 @@ Chicken Kir2.2 (cKir2.2) is a classical inward rectifier potassium channel whose
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MARRK</span><span class="topo-outside">CRNRFVKKNGQCNVEFTNMDD</span><span class="topo-unknown">WPQRYIA</span><span class="topo-outside">D</span><span class="topo-unknown">MFTTCVD</span><span class="topo-outside">I</span><span class="topo-membrane">RWRYMLLLFSLAFLVSWL</span></span>
-<span class="topo-line"><span class="topo-membrane">LFGLIFWLI</span><span class="topo-inside">ALIHGDLENPGGDDTFKPCVLQVNGF</span><span class="topo-unknown">VAAFLFSIETQTTIGYG</span><span class="topo-inside">FRCVTEEC</span></span>
-<span class="topo-line"><span class="topo-membrane">PLAVFMVVVQSIVGCIIDSFMIGAIMAKM</span><span class="topo-outside">ARPKKRAQTLLFSHNAVVAMRDGKLCLMWRV</span></span>
-<span class="topo-line"><span class="topo-outside">GNLRKSHIVEAHVRAQLIKPRITEEGEYIPLDQIDIDVGFDKGLDRIFLVSPITILHEIN</span></span>
-<span class="topo-line"><span class="topo-outside">EDSPLFGISRQDLETDDFEIVVILEGMVEATAMTTQARSSYLASEILWGHRFEPVLFEEK</span></span>
-<span class="topo-line"><span class="topo-outside">NQYKVDYSHFHKTYEVPSTPRCSAKDLVENK</span><span class="topo-unknown">FLLSNSLEVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MARRK</span><span class="topo-outside">CRNRFVKKNGQCNVEFTNMDD</span><span class="topo-unknown">WPQRYIA</span><span class="topo-outside">D</span><span class="topo-unknown">MFTTCVD</span><span class="topo-outside">I</span><span class="topo-membrane">RWRYMLLLFSLAFLVSWLLFGLIFWLI</span><span class="topo-inside">ALIHGDLENPGGDDTFKPCVLQVNGF</span><span class="topo-unknown">VAAFLFSIETQTTIGYG</span><span class="topo-inside">FRCVTEEC</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">PLAVFMVVVQSIVGCIIDSFMIGAIMAKM</span><span class="topo-outside">ARPKKRAQTLLFSHNAVVAMRDGKLCLMWRVGNLRKSHIVEAHVRAQLIKPRITEEGEYIPLDQIDIDVGFDKGLDRIFLVSPITILHEIN</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340   </span>
+<span class="topo-line"><span class="topo-outside">EDSPLFGISRQDLETDDFEIVVILEGMVEATAMTTQARSSYLASEILWGHRFEPVLFEEKNQYKVDYSHFHKTYEVPSTPRCSAKDLVENK</span><span class="topo-unknown">FLLSNSLEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3407,6 +3458,7 @@ Chicken Kir2.2 (cKir2.2) is a classical inward rectifier potassium channel whose
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3422,12 +3474,13 @@ Chicken Kir2.2 (cKir2.2) is a classical inward rectifier potassium channel whose
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MARRK</span><span class="topo-outside">CRNRFVKKNGQCNVEFTNMDD</span><span class="topo-unknown">WPQRYIA</span><span class="topo-outside">D</span><span class="topo-unknown">MFTTCVD</span><span class="topo-outside">I</span><span class="topo-membrane">RWRYMLLLFSLAFLVSWL</span></span>
-<span class="topo-line"><span class="topo-membrane">LFGLIFWLI</span><span class="topo-inside">ALIHGDLENPGGDDTFKPCVLQVNGF</span><span class="topo-unknown">VAAFLFSIETQTTIGYG</span><span class="topo-inside">FRCVTEEC</span></span>
-<span class="topo-line"><span class="topo-membrane">PLAVFMVVVQSIVGCIIDSFMIGAIMAKM</span><span class="topo-outside">ARPKKRAQTLLFSHNAVVAMRDGKLCLMWRV</span></span>
-<span class="topo-line"><span class="topo-outside">GNLRKSHIVEAHVRAQLIKPRITEEGEYIPLDQIDIDVGFDKGLDRIFLVSPITILHEIN</span></span>
-<span class="topo-line"><span class="topo-outside">EDSPLFGISRQDLETDDFEIVVILEGMVEATAMTTQARSSYLASEILWGHRFEPVLFEEK</span></span>
-<span class="topo-line"><span class="topo-outside">NQYKVDYSHFHKTYEVPSTPRCSAKDLVENK</span><span class="topo-unknown">FLLSNSLEVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MARRK</span><span class="topo-outside">CRNRFVKKNGQCNVEFTNMDD</span><span class="topo-unknown">WPQRYIA</span><span class="topo-outside">D</span><span class="topo-unknown">MFTTCVD</span><span class="topo-outside">I</span><span class="topo-membrane">RWRYMLLLFSLAFLVSWLLFGLIFWLI</span><span class="topo-inside">ALIHGDLENPGGDDTFKPCVLQVNGF</span><span class="topo-unknown">VAAFLFSIETQTTIGYG</span><span class="topo-inside">FRCVTEEC</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">PLAVFMVVVQSIVGCIIDSFMIGAIMAKM</span><span class="topo-outside">ARPKKRAQTLLFSHNAVVAMRDGKLCLMWRVGNLRKSHIVEAHVRAQLIKPRITEEGEYIPLDQIDIDVGFDKGLDRIFLVSPITILHEIN</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340   </span>
+<span class="topo-line"><span class="topo-outside">EDSPLFGISRQDLETDDFEIVVILEGMVEATAMTTQARSSYLASEILWGHRFEPVLFEEKNQYKVDYSHFHKTYEVPSTPRCSAKDLVENK</span><span class="topo-unknown">FLLSNSLEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3516,6 +3569,7 @@ Chicken Kir2.2 (cKir2.2) is a classical inward rectifier potassium channel whose
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3531,12 +3585,13 @@ Chicken Kir2.2 (cKir2.2) is a classical inward rectifier potassium channel whose
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MARRK</span><span class="topo-outside">CRNRFVKKNGQCNVEFTNMDD</span><span class="topo-unknown">WPQRYIA</span><span class="topo-outside">D</span><span class="topo-unknown">MFTTCVD</span><span class="topo-outside">I</span><span class="topo-membrane">RWRYMLLLFSLAFLVSWL</span></span>
-<span class="topo-line"><span class="topo-membrane">LFGLIFWLI</span><span class="topo-inside">ALIHGDLENPGGDDTFKPCVLQVNGF</span><span class="topo-unknown">VAAFLFSIETQTTIGYG</span><span class="topo-inside">FRCVTEEC</span></span>
-<span class="topo-line"><span class="topo-membrane">PLAVFMVVVQSIVGCIIDSFMIGAIMAKM</span><span class="topo-outside">ARPKKRAQTLLFSHNAVVAMRDGKLCLMWRV</span></span>
-<span class="topo-line"><span class="topo-outside">GNLRKSHIVEAHVRAQLIKPRITEEGEYIPLDQIDIDVGFDKGLDRIFLVSPITILHEIN</span></span>
-<span class="topo-line"><span class="topo-outside">EDSPLFGISRQDLETDDFEIVVILEGMVEATAMTTQARSSYLASEILWGHRFEPVLFEEK</span></span>
-<span class="topo-line"><span class="topo-outside">NQYKVDYSHFHKTYEVPSTPRCSAKDLVENK</span><span class="topo-unknown">FLLSNSLEVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MARRK</span><span class="topo-outside">CRNRFVKKNGQCNVEFTNMDD</span><span class="topo-unknown">WPQRYIA</span><span class="topo-outside">D</span><span class="topo-unknown">MFTTCVD</span><span class="topo-outside">I</span><span class="topo-membrane">RWRYMLLLFSLAFLVSWLLFGLIFWLI</span><span class="topo-inside">ALIHGDLENPGGDDTFKPCVLQVNGF</span><span class="topo-unknown">VAAFLFSIETQTTIGYG</span><span class="topo-inside">FRCVTEEC</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">PLAVFMVVVQSIVGCIIDSFMIGAIMAKM</span><span class="topo-outside">ARPKKRAQTLLFSHNAVVAMRDGKLCLMWRVGNLRKSHIVEAHVRAQLIKPRITEEGEYIPLDQIDIDVGFDKGLDRIFLVSPITILHEIN</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340   </span>
+<span class="topo-line"><span class="topo-outside">EDSPLFGISRQDLETDDFEIVVILEGMVEATAMTTQARSSYLASEILWGHRFEPVLFEEKNQYKVDYSHFHKTYEVPSTPRCSAKDLVENK</span><span class="topo-unknown">FLLSNSLEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3625,6 +3680,7 @@ Chicken Kir2.2 (cKir2.2) is a classical inward rectifier potassium channel whose
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

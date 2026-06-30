@@ -103,10 +103,11 @@ Ci-VSD is the isolated voltage-sensing domain from the Ciona intestinalis voltag
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MRGSHHHHHHGVDDGRMEIPTT</span><span class="topo-outside">GVGR</span><span class="topo-unknown">VQFRVRAVI</span><span class="topo-outside">DHLGMRV</span><span class="topo-membrane">FGVFLIFLDIILMIIDLS</span></span>
-<span class="topo-line"><span class="topo-inside">LPGKSESSQS</span><span class="topo-membrane">FYDGMALALSCYFMLDLGL</span><span class="topo-outside">RIFAYGPKNFFTNPW</span><span class="topo-membrane">EVADGLIIVVTFVVTI</span></span>
-<span class="topo-line"><span class="topo-membrane">FYTVLD</span><span class="topo-inside">EYVQE</span><span class="topo-membrane">TGADGLGELVVLARLLRVVRLARIF</span><span class="topo-outside">YS</span><span class="topo-unknown">HQQMKASSRRTISQNKRRYRKD</span></span>
-<span class="topo-line"><span class="topo-unknown">GFKLN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MRGSHHHHHHGVDDGRMEIPTT</span><span class="topo-outside">GVGR</span><span class="topo-unknown">VQFRVRAVI</span><span class="topo-outside">DHLGMRV</span><span class="topo-membrane">FGVFLIFLDIILMIIDLS</span><span class="topo-inside">LPGKSESSQS</span><span class="topo-membrane">FYDGMALALSCYFMLDLGL</span><span class="topo-outside">RIFAYGPKNFFTNPW</span><span class="topo-membrane">EVADGLIIVVTFVVTI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180     </span>
+<span class="topo-line"><span class="topo-membrane">FYTVLD</span><span class="topo-inside">EYVQE</span><span class="topo-membrane">TGADGLGELVVLARLLRVVRLARIF</span><span class="topo-outside">YS</span><span class="topo-unknown">HQQMKASSRRTISQNKRRYRKDGFKLN</span></span>
+<details class="topo-details"><summary>Topology coordinates (13 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -209,6 +210,7 @@ Ci-VSD is the isolated voltage-sensing domain from the Ciona intestinalis voltag
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -224,10 +226,11 @@ Ci-VSD is the isolated voltage-sensing domain from the Ciona intestinalis voltag
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MRGSHHHHHHGVDDGRMEIPTT</span><span class="topo-outside">GVGR</span><span class="topo-unknown">VQFRVRAVI</span><span class="topo-outside">DHLGMRV</span><span class="topo-membrane">FGVFLIFLDIILMIIDLS</span></span>
-<span class="topo-line"><span class="topo-inside">LPGKSESSQS</span><span class="topo-membrane">FYDGMALALSCYFMLDLGL</span><span class="topo-outside">RIFAYGPKNFFTNPW</span><span class="topo-membrane">EVADGLIIVVTFVVTI</span></span>
-<span class="topo-line"><span class="topo-membrane">FYTVLD</span><span class="topo-inside">EYVQE</span><span class="topo-membrane">TGADGLGELVVLARLLRVVRLARIF</span><span class="topo-outside">YS</span><span class="topo-unknown">HQQMKASSRRTISQNKRRYRKD</span></span>
-<span class="topo-line"><span class="topo-unknown">GFKLN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MRGSHHHHHHGVDDGRMEIPTT</span><span class="topo-outside">GVGR</span><span class="topo-unknown">VQFRVRAVI</span><span class="topo-outside">DHLGMRV</span><span class="topo-membrane">FGVFLIFLDIILMIIDLS</span><span class="topo-inside">LPGKSESSQS</span><span class="topo-membrane">FYDGMALALSCYFMLDLGL</span><span class="topo-outside">RIFAYGPKNFFTNPW</span><span class="topo-membrane">EVADGLIIVVTFVVTI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180     </span>
+<span class="topo-line"><span class="topo-membrane">FYTVLD</span><span class="topo-inside">EYVQE</span><span class="topo-membrane">TGADGLGELVVLARLLRVVRLARIF</span><span class="topo-outside">YS</span><span class="topo-unknown">HQQMKASSRRTISQNKRRYRKDGFKLN</span></span>
+<details class="topo-details"><summary>Topology coordinates (13 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -330,6 +333,7 @@ Ci-VSD is the isolated voltage-sensing domain from the Ciona intestinalis voltag
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

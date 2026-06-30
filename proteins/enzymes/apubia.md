@@ -124,12 +124,13 @@ ApUbiA is an intramembrane prenyltransferase from the hyperthermophilic archaeon
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGSSHHHHHHSSGLVPAGSM</span><span class="topo-outside">RLV</span><span class="topo-membrane">RIEHTIFSLPFAYVGALL</span><span class="topo-inside">SRYPFTLA</span><span class="topo-membrane">DAILMAAAVVG</span></span>
-<span class="topo-line"><span class="topo-membrane">LRMAGMA</span><span class="topo-outside">YNNIADLDIDRLNPRTAKRPLVVGAVSLREAWA</span><span class="topo-membrane">LVAAGSAIYFASAALLNT</span><span class="topo-inside">Y</span><span class="topo-membrane">A</span></span>
-<span class="topo-line"><span class="topo-membrane">LLLSPLVLAIALTY</span><span class="topo-outside">PHAKRLHPL</span><span class="topo-membrane">PHLHLGIVLGSVVFGGAVAA</span><span class="topo-inside">SGDEASSLGEVLRSV</span><span class="topo-membrane">PW</span></span>
-<span class="topo-line"><span class="topo-membrane">LYVAAVSLWVAGFDT</span><span class="topo-outside">IYSIMDIDFDRSHGLGSIPALLGPKGALA</span><span class="topo-membrane">ASLAMHAAAVALFIAG</span></span>
-<span class="topo-line"><span class="topo-membrane">V</span><span class="topo-inside">EAYGLGAI</span><span class="topo-membrane">ATVSTALTALVIILVQAM</span><span class="topo-outside">AWLGRVKES</span><span class="topo-membrane">FNLNLAVPIIIGAGIIV</span><span class="topo-inside">D</span><span class="topo-unknown">MLHHMI</span></span>
-<span class="topo-line"><span class="topo-unknown">RLL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGSSHHHHHHSSGLVPAGSM</span><span class="topo-outside">RLV</span><span class="topo-membrane">RIEHTIFSLPFAYVGALL</span><span class="topo-inside">SRYPFTLA</span><span class="topo-membrane">DAILMAAAVVGLRMAGMA</span><span class="topo-outside">YNNIADLDIDRLNPRTAKRPLVVGAVSLREAWA</span><span class="topo-membrane">LVAAGSAIYFASAALLNT</span><span class="topo-inside">Y</span><span class="topo-membrane">A</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">LLLSPLVLAIALTY</span><span class="topo-outside">PHAKRLHPL</span><span class="topo-membrane">PHLHLGIVLGSVVFGGAVAA</span><span class="topo-inside">SGDEASSLGEVLRSV</span><span class="topo-membrane">PWLYVAAVSLWVAGFDT</span><span class="topo-outside">IYSIMDIDFDRSHGLGSIPALLGPKGALA</span><span class="topo-membrane">ASLAMHAAAVALFIAG</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300   </span>
+<span class="topo-line"><span class="topo-membrane">V</span><span class="topo-inside">EAYGLGAI</span><span class="topo-membrane">ATVSTALTALVIILVQAM</span><span class="topo-outside">AWLGRVKES</span><span class="topo-membrane">FNLNLAVPIIIGAGIIV</span><span class="topo-inside">D</span><span class="topo-unknown">MLHHMIRLL</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -288,6 +289,7 @@ ApUbiA is an intramembrane prenyltransferase from the hyperthermophilic archaeon
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -303,12 +305,13 @@ ApUbiA is an intramembrane prenyltransferase from the hyperthermophilic archaeon
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGSSHHHHHHSSGLVPAGSM</span><span class="topo-outside">RLV</span><span class="topo-membrane">RIEHTIFSLPFAYVGALL</span><span class="topo-inside">SRYPFTLA</span><span class="topo-membrane">DAILMAAAVVG</span></span>
-<span class="topo-line"><span class="topo-membrane">LRMAGMA</span><span class="topo-outside">YNNIADLDIDRLNPRTAKRPLVVGAVSLREAWA</span><span class="topo-membrane">LVAAGSAIYFASAALLNT</span><span class="topo-inside">Y</span><span class="topo-membrane">A</span></span>
-<span class="topo-line"><span class="topo-membrane">LLLSPLVLAIALTY</span><span class="topo-outside">PHAKRLHPL</span><span class="topo-membrane">PHLHLGIVLGSVVFGGAVAA</span><span class="topo-inside">SGDEASSLGEVLRSV</span><span class="topo-membrane">PW</span></span>
-<span class="topo-line"><span class="topo-membrane">LYVAAVSLWVAGFDT</span><span class="topo-outside">IYSIMDIDFDRSHGLGSIPALLGPKGALA</span><span class="topo-membrane">ASLAMHAAAVALFIAG</span></span>
-<span class="topo-line"><span class="topo-membrane">V</span><span class="topo-inside">EAYGLGAI</span><span class="topo-membrane">ATVSTALTALVIILVQAM</span><span class="topo-outside">AWLGRVKES</span><span class="topo-membrane">FNLNLAVPIIIGAGIIV</span><span class="topo-inside">D</span><span class="topo-unknown">MLHHMI</span></span>
-<span class="topo-line"><span class="topo-unknown">RLL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGSSHHHHHHSSGLVPAGSM</span><span class="topo-outside">RLV</span><span class="topo-membrane">RIEHTIFSLPFAYVGALL</span><span class="topo-inside">SRYPFTLA</span><span class="topo-membrane">DAILMAAAVVGLRMAGMA</span><span class="topo-outside">YNNIADLDIDRLNPRTAKRPLVVGAVSLREAWA</span><span class="topo-membrane">LVAAGSAIYFASAALLNT</span><span class="topo-inside">Y</span><span class="topo-membrane">A</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">LLLSPLVLAIALTY</span><span class="topo-outside">PHAKRLHPL</span><span class="topo-membrane">PHLHLGIVLGSVVFGGAVAA</span><span class="topo-inside">SGDEASSLGEVLRSV</span><span class="topo-membrane">PWLYVAAVSLWVAGFDT</span><span class="topo-outside">IYSIMDIDFDRSHGLGSIPALLGPKGALA</span><span class="topo-membrane">ASLAMHAAAVALFIAG</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300   </span>
+<span class="topo-line"><span class="topo-membrane">V</span><span class="topo-inside">EAYGLGAI</span><span class="topo-membrane">ATVSTALTALVIILVQAM</span><span class="topo-outside">AWLGRVKES</span><span class="topo-membrane">FNLNLAVPIIIGAGIIV</span><span class="topo-inside">D</span><span class="topo-unknown">MLHHMIRLL</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -467,6 +470,7 @@ ApUbiA is an intramembrane prenyltransferase from the hyperthermophilic archaeon
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

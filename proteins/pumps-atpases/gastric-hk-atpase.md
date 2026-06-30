@@ -155,23 +155,25 @@ The gastric H+,K+-[F1-ATPase from Trypanosoma brucei](/xray-mp-wiki/proteins/pum
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">AMEINDHQLSVAELEQKYQTSATKGLSASLAAELLLRDGPNALRPPRGTPEYVKFARQL</span><span class="topo-membrane">A</span></span>
-<span class="topo-line"><span class="topo-membrane">GGLQCLMWVAAAICLIAFAI</span><span class="topo-inside">QASEGDLTTDD</span><span class="topo-membrane">NLYLALALIAVVVVTGCF</span><span class="topo-outside">GYYQEFKSTNI</span></span>
-<span class="topo-line"><span class="topo-outside">IASFKNLVPQQATVIRDGDKFQINADQLVVGDLVEMKGGDRVPADIRILQAQGCKVDNSS</span></span>
-<span class="topo-line"><span class="topo-outside">LTGESEPQTRSPECTHESPLETRNIAFFSTMCLEGTAQGLVVNTGDRTIIGRIASLASGV</span></span>
-<span class="topo-line"><span class="topo-outside">ENEKTPIAIEIEHF</span><span class="topo-membrane">VDIIAGLAILFGATFFIVAMC</span><span class="topo-inside">IGYTF</span><span class="topo-membrane">LRAMVFFMAIVVAYVPEGLL</span></span>
-<span class="topo-line"><span class="topo-membrane">ATV</span><span class="topo-outside">TVCLSLTAKRLASKNCVVKNLEAVETLGSTSVICSDKTGTLTQNRMTVSHLWFDNHI</span></span>
-<span class="topo-line"><span class="topo-outside">HSADTTEDQSGQTFDQSSETWRALCRVLTLCNRAAFKSGQDAVPVPKRIVIGDASETALL</span></span>
-<span class="topo-line"><span class="topo-outside">KFSELTLGNAMGYRERFPKVCEIPFNSTNKFQLSIHTLEDPRDPRHVLVMKGAPERVLER</span></span>
-<span class="topo-line"><span class="topo-outside">CSSILIKGQELPLDEQWREAFQTAYLSLGGLGERVLGFCQLYLSEKDYPPGYAFDVEAMN</span></span>
-<span class="topo-line"><span class="topo-outside">FPTSGLCFAGLVSMIDPPRATVPDAVLKCRTAGIRVIMVTGDHPITAKAIAASVGIISEG</span></span>
-<span class="topo-line"><span class="topo-outside">SETVEDIAARLRVPVDQVNRKDARACVINGMQLKDMDPSELVEALRTHPEMVFARTSPQQ</span></span>
-<span class="topo-line"><span class="topo-outside">KLVIVESCQRLGAIVAVTGDGVNDSPALKKADIGVAMGIAGSDAAKNAADMILLDDNFAS</span></span>
-<span class="topo-line"><span class="topo-outside">IVTGVEQGRLIFDNLKK</span><span class="topo-membrane">SIAYTLTKNIPELTPWLIYIT</span><span class="topo-inside">VSVPLPL</span><span class="topo-membrane">GCITILFIELCTDIF</span></span>
-<span class="topo-line"><span class="topo-membrane">PSVSL</span><span class="topo-outside">AYEKAESDIMHLRPRNPKRDRLVNE</span><span class="topo-membrane">PLAAYSYFQIGAIQSFAGFT</span><span class="topo-inside">DYFTAMAQEG</span></span>
-<span class="topo-line"><span class="topo-inside">WFPLLCVGLRPQWENHHLQDLQDSYGQEWTFGQRLYQQYTCY</span><span class="topo-membrane">TVFFISIEMCQIADVLIR</span></span>
-<span class="topo-line"><span class="topo-membrane">KT</span><span class="topo-outside">RRLSAFQQG</span><span class="topo-membrane">FFRNRILVIAIVFQVCIGCFLC</span><span class="topo-inside">YCPGMPNIFNFMPIRFQWW</span><span class="topo-membrane">LVPMPFSL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">AMEINDHQLSVAELEQKYQTSATKGLSASLAAELLLRDGPNALRPPRGTPEYVKFARQL</span><span class="topo-membrane">AGGLQCLMWVAAAICLIAFAI</span><span class="topo-inside">QASEGDLTTDD</span><span class="topo-membrane">NLYLALALIAVVVVTGCF</span><span class="topo-outside">GYYQEFKSTNI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">IASFKNLVPQQATVIRDGDKFQINADQLVVGDLVEMKGGDRVPADIRILQAQGCKVDNSSLTGESEPQTRSPECTHESPLETRNIAFFSTMCLEGTAQGLVVNTGDRTIIGRIASLASGV</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">ENEKTPIAIEIEHF</span><span class="topo-membrane">VDIIAGLAILFGATFFIVAMC</span><span class="topo-inside">IGYTF</span><span class="topo-membrane">LRAMVFFMAIVVAYVPEGLLATV</span><span class="topo-outside">TVCLSLTAKRLASKNCVVKNLEAVETLGSTSVICSDKTGTLTQNRMTVSHLWFDNHI</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">HSADTTEDQSGQTFDQSSETWRALCRVLTLCNRAAFKSGQDAVPVPKRIVIGDASETALLKFSELTLGNAMGYRERFPKVCEIPFNSTNKFQLSIHTLEDPRDPRHVLVMKGAPERVLER</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">CSSILIKGQELPLDEQWREAFQTAYLSLGGLGERVLGFCQLYLSEKDYPPGYAFDVEAMNFPTSGLCFAGLVSMIDPPRATVPDAVLKCRTAGIRVIMVTGDHPITAKAIAASVGIISEG</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-outside">SETVEDIAARLRVPVDQVNRKDARACVINGMQLKDMDPSELVEALRTHPEMVFARTSPQQKLVIVESCQRLGAIVAVTGDGVNDSPALKKADIGVAMGIAGSDAAKNAADMILLDDNFAS</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820       830       840</span>
+<span class="topo-line"><span class="topo-outside">IVTGVEQGRLIFDNLKK</span><span class="topo-membrane">SIAYTLTKNIPELTPWLIYIT</span><span class="topo-inside">VSVPLPL</span><span class="topo-membrane">GCITILFIELCTDIFPSVSL</span><span class="topo-outside">AYEKAESDIMHLRPRNPKRDRLVNE</span><span class="topo-membrane">PLAAYSYFQIGAIQSFAGFT</span><span class="topo-inside">DYFTAMAQEG</span></span>
+<span class="topo-ruler">       850       860       870       880       890       900       910       920       930       940       950       960</span>
+<span class="topo-line"><span class="topo-inside">WFPLLCVGLRPQWENHHLQDLQDSYGQEWTFGQRLYQQYTCY</span><span class="topo-membrane">TVFFISIEMCQIADVLIRKT</span><span class="topo-outside">RRLSAFQQG</span><span class="topo-membrane">FFRNRILVIAIVFQVCIGCFLC</span><span class="topo-inside">YCPGMPNIFNFMPIRFQWW</span><span class="topo-membrane">LVPMPFSL</span></span>
+<span class="topo-ruler">       970       980       </span>
 <span class="topo-line"><span class="topo-membrane">LIFVYDEIRKLG</span><span class="topo-outside">VRCCPGS</span><span class="topo-unknown">WWDQEL</span><span class="topo-outside">YY</span></span>
+<details class="topo-details"><summary>Topology coordinates (23 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -344,6 +346,7 @@ The gastric H+,K+-[F1-ATPase from Trypanosoma brucei](/xray-mp-wiki/proteins/pum
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -359,11 +362,13 @@ The gastric H+,K+-[F1-ATPase from Trypanosoma brucei](/xray-mp-wiki/proteins/pum
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">AALQEKKSCSQRMEEFQRYCWNPDTGQ</span><span class="topo-outside">MLGRTL</span><span class="topo-membrane">SRWVWISLYYVAFYVVMSGIF</span><span class="topo-inside">ALCIYV</span></span>
-<span class="topo-line"><span class="topo-inside">LMRTIDPYTPDYQDQLKSPGVTLRPDVYGEKGLDISYNVSDSTTWAGLAHTLHRFLAGYS</span></span>
-<span class="topo-line"><span class="topo-inside">PAAQEGSINCTSEKYFFQESFLAPNHTKFSCKFTADMLQNCSGRPDPTFGFAEGKPCFII</span></span>
-<span class="topo-line"><span class="topo-inside">KMNRIVKFLPGNSTAPRVDCAFLDQPRDGPPLQVEYFPANGTYSLHYFPYYGKKAQPHYS</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">AALQEKKSCSQRMEEFQRYCWNPDTGQ</span><span class="topo-outside">MLGRTL</span><span class="topo-membrane">SRWVWISLYYVAFYVVMSGIF</span><span class="topo-inside">ALCIYVLMRTIDPYTPDYQDQLKSPGVTLRPDVYGEKGLDISYNVSDSTTWAGLAHTLHRFLAGYS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">PAAQEGSINCTSEKYFFQESFLAPNHTKFSCKFTADMLQNCSGRPDPTFGFAEGKPCFIIKMNRIVKFLPGNSTAPRVDCAFLDQPRDGPPLQVEYFPANGTYSLHYFPYYGKKAQPHYS</span></span>
+<span class="topo-ruler">       250       260       270       280         </span>
 <span class="topo-line"><span class="topo-inside">NPLVAAKLLNVPRNRDVVIVCKILAEHVSFDNPHDPYEGKVEFKLKIQK</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -396,6 +401,7 @@ The gastric H+,K+-[F1-ATPase from Trypanosoma brucei](/xray-mp-wiki/proteins/pum
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -411,23 +417,25 @@ The gastric H+,K+-[F1-ATPase from Trypanosoma brucei](/xray-mp-wiki/proteins/pum
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">GMEINDHQLSVAELEQKYQTSATKGLSASLAAELLLRDGPNALRPPRGTPE</span><span class="topo-membrane">YVKFARQLA</span></span>
-<span class="topo-line"><span class="topo-membrane">GGLQCLMWVAAAICLIA</span><span class="topo-inside">FAIQASEGDLTTDDN</span><span class="topo-membrane">LYLALALIAVVVVTGCFGYY</span><span class="topo-outside">QEFKSTNI</span></span>
-<span class="topo-line"><span class="topo-outside">IASFKNLVPQQATVIRDGDKFQINADQLVVGDLVEMKGGDRVPADIRILQAQGCKVDNSS</span></span>
-<span class="topo-line"><span class="topo-outside">LTGESEPQTRSPECTHESPLETRNIAFFSTMCLEGTAQGLVVNTGDRTIIGRIASLASGV</span></span>
-<span class="topo-line"><span class="topo-outside">ENEKTPIAIEIEHF</span><span class="topo-membrane">VDIIAGLAILFGATFFIVAMCI</span><span class="topo-inside">GYTF</span><span class="topo-membrane">LRAMVFFMAIVVAYVPEGLL</span></span>
-<span class="topo-line"><span class="topo-membrane">ATVTVC</span><span class="topo-outside">LSLTAKRLASKNCVVKNLEAVETLGSTSVICSDKTGTLTQNRMTVSHLWFDNHI</span></span>
-<span class="topo-line"><span class="topo-outside">HSADTTEDQSGQTFDQSSETWRALCRVLTLCNRAAFKSGQDAVPVPKRIVIGDASETALL</span></span>
-<span class="topo-line"><span class="topo-outside">KFSELTLGNAMGYRERFPKVCEIPFNSTNKFQLSIHTLEDPRDPRHVLVMKGAPERVLER</span></span>
-<span class="topo-line"><span class="topo-outside">CSSILIKGQELPLDEQWREAFQTAYLSLGGLGERVLGFCQLYLSEKDYPPGYAFDVEAMN</span></span>
-<span class="topo-line"><span class="topo-outside">FPTSGLCFAGLVSMIDPPRATVPDAVLKCRTAGIRVIMVTGDHPITAKAIAASVGIISEG</span></span>
-<span class="topo-line"><span class="topo-outside">SETVEDIAARLRVPVDQVNRKDARACVINGMQLKDMDPSELVEALRTHPEMVFARTSPQQ</span></span>
-<span class="topo-line"><span class="topo-outside">KLVIVESCQRLGAIVAVTGDGVNDSPALKKADIGVAMGIAGSDAAKNAADMILLDDNFAS</span></span>
-<span class="topo-line"><span class="topo-outside">IVTGVEQGRLIFDNL</span><span class="topo-membrane">KKSIAYTLTKNIPELTPWLIYIT</span><span class="topo-inside">VSVPLP</span><span class="topo-membrane">LGCITILFIELCTDIF</span></span>
-<span class="topo-line"><span class="topo-membrane">PSVSLAY</span><span class="topo-outside">EKAESDIMHLRPRNPKRDRLVNE</span><span class="topo-membrane">PLAAYSYFQIGAIQSFAGFTD</span><span class="topo-inside">YFTAMAQEG</span></span>
-<span class="topo-line"><span class="topo-inside">WFPLLCVGLRPQWENHHLQDLQDSYGQEWTFGQRLYQQYTCY</span><span class="topo-membrane">TVFFISIEMCQIADVLIR</span></span>
-<span class="topo-line"><span class="topo-membrane">KT</span><span class="topo-outside">RRLSAFQQG</span><span class="topo-membrane">FFRNRILVIAIVFQVCIGCFLC</span><span class="topo-inside">YCPGMPNIFNFMPIRFQW</span><span class="topo-membrane">WLVPMPFSL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">GMEINDHQLSVAELEQKYQTSATKGLSASLAAELLLRDGPNALRPPRGTPE</span><span class="topo-membrane">YVKFARQLAGGLQCLMWVAAAICLIA</span><span class="topo-inside">FAIQASEGDLTTDDN</span><span class="topo-membrane">LYLALALIAVVVVTGCFGYY</span><span class="topo-outside">QEFKSTNI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">IASFKNLVPQQATVIRDGDKFQINADQLVVGDLVEMKGGDRVPADIRILQAQGCKVDNSSLTGESEPQTRSPECTHESPLETRNIAFFSTMCLEGTAQGLVVNTGDRTIIGRIASLASGV</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">ENEKTPIAIEIEHF</span><span class="topo-membrane">VDIIAGLAILFGATFFIVAMCI</span><span class="topo-inside">GYTF</span><span class="topo-membrane">LRAMVFFMAIVVAYVPEGLLATVTVC</span><span class="topo-outside">LSLTAKRLASKNCVVKNLEAVETLGSTSVICSDKTGTLTQNRMTVSHLWFDNHI</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">HSADTTEDQSGQTFDQSSETWRALCRVLTLCNRAAFKSGQDAVPVPKRIVIGDASETALLKFSELTLGNAMGYRERFPKVCEIPFNSTNKFQLSIHTLEDPRDPRHVLVMKGAPERVLER</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">CSSILIKGQELPLDEQWREAFQTAYLSLGGLGERVLGFCQLYLSEKDYPPGYAFDVEAMNFPTSGLCFAGLVSMIDPPRATVPDAVLKCRTAGIRVIMVTGDHPITAKAIAASVGIISEG</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-outside">SETVEDIAARLRVPVDQVNRKDARACVINGMQLKDMDPSELVEALRTHPEMVFARTSPQQKLVIVESCQRLGAIVAVTGDGVNDSPALKKADIGVAMGIAGSDAAKNAADMILLDDNFAS</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820       830       840</span>
+<span class="topo-line"><span class="topo-outside">IVTGVEQGRLIFDNL</span><span class="topo-membrane">KKSIAYTLTKNIPELTPWLIYIT</span><span class="topo-inside">VSVPLP</span><span class="topo-membrane">LGCITILFIELCTDIFPSVSLAY</span><span class="topo-outside">EKAESDIMHLRPRNPKRDRLVNE</span><span class="topo-membrane">PLAAYSYFQIGAIQSFAGFTD</span><span class="topo-inside">YFTAMAQEG</span></span>
+<span class="topo-ruler">       850       860       870       880       890       900       910       920       930       940       950       960</span>
+<span class="topo-line"><span class="topo-inside">WFPLLCVGLRPQWENHHLQDLQDSYGQEWTFGQRLYQQYTCY</span><span class="topo-membrane">TVFFISIEMCQIADVLIRKT</span><span class="topo-outside">RRLSAFQQG</span><span class="topo-membrane">FFRNRILVIAIVFQVCIGCFLC</span><span class="topo-inside">YCPGMPNIFNFMPIRFQW</span><span class="topo-membrane">WLVPMPFSL</span></span>
+<span class="topo-ruler">       970       980       </span>
 <span class="topo-line"><span class="topo-membrane">LIFVYDEIRKLG</span><span class="topo-outside">VRCCPGS</span><span class="topo-unknown">WWDQEL</span><span class="topo-outside">YY</span></span>
+<details class="topo-details"><summary>Topology coordinates (23 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -600,6 +608,7 @@ The gastric H+,K+-[F1-ATPase from Trypanosoma brucei](/xray-mp-wiki/proteins/pum
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -615,11 +624,13 @@ The gastric H+,K+-[F1-ATPase from Trypanosoma brucei](/xray-mp-wiki/proteins/pum
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">AALQEKKSCSQRMEEFQRYCWNPDTGQ</span><span class="topo-outside">MLGRTL</span><span class="topo-membrane">SRWVWISLYYVAFYVVMSGIFALC</span><span class="topo-inside">IYV</span></span>
-<span class="topo-line"><span class="topo-inside">LMRTIDPYTPDYQDQLKSPGVTLRPDVYGEKGLDISYNVSDSTTWAGLAHTLHRFLAGYS</span></span>
-<span class="topo-line"><span class="topo-inside">PAAQEGSINCTSEKYFFQESFLAPNHTKFSCKFTADMLQNCSGRPDPTFGFAEGKPCFII</span></span>
-<span class="topo-line"><span class="topo-inside">KMNRIVKFLPGNSTAPRVDCAFLDQPRDGPPLQVEYFPANGTYSLHYFPYYGKKAQPHYS</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">AALQEKKSCSQRMEEFQRYCWNPDTGQ</span><span class="topo-outside">MLGRTL</span><span class="topo-membrane">SRWVWISLYYVAFYVVMSGIFALC</span><span class="topo-inside">IYVLMRTIDPYTPDYQDQLKSPGVTLRPDVYGEKGLDISYNVSDSTTWAGLAHTLHRFLAGYS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">PAAQEGSINCTSEKYFFQESFLAPNHTKFSCKFTADMLQNCSGRPDPTFGFAEGKPCFIIKMNRIVKFLPGNSTAPRVDCAFLDQPRDGPPLQVEYFPANGTYSLHYFPYYGKKAQPHYS</span></span>
+<span class="topo-ruler">       250       260       270       280         </span>
 <span class="topo-line"><span class="topo-inside">NPLVAAKLLNVPRNRDVVIVCKILAEHVSFDNPHDPYEGKVEFKLKIQK</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -652,6 +663,7 @@ The gastric H+,K+-[F1-ATPase from Trypanosoma brucei](/xray-mp-wiki/proteins/pum
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -667,23 +679,25 @@ The gastric H+,K+-[F1-ATPase from Trypanosoma brucei](/xray-mp-wiki/proteins/pum
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">GMEINDHQLSVAELEQKYQTSATKGLSASLAAELLLRDGPNALRPPRGTPEYVKFARQL</span><span class="topo-membrane">A</span></span>
-<span class="topo-line"><span class="topo-membrane">GGLQCLMWVAAAICLIAFAIQA</span><span class="topo-inside">SEGDLTTD</span><span class="topo-membrane">DNLYLALALIAVVVVTGCF</span><span class="topo-outside">GYYQEFKSTNI</span></span>
-<span class="topo-line"><span class="topo-outside">IASFKNLVPQQATVIRDGDKFQINADQLVVGDLVEMKGGDRVPADIRILQAQGCKVDNSS</span></span>
-<span class="topo-line"><span class="topo-outside">LTGESEPQTRSPECTHESPLETRNIAFFSTMCLEGTAQGLVVNTGDRTIIGRIASLASGV</span></span>
-<span class="topo-line"><span class="topo-outside">ENEKTPIAIEIEHFV</span><span class="topo-membrane">DIIAGLAILFGATFFIVAMCIGY</span><span class="topo-inside">T</span><span class="topo-membrane">FLRAMVFFMAIVVAYVPEGLL</span></span>
-<span class="topo-line"><span class="topo-membrane">ATV</span><span class="topo-outside">TVCLSLTAKRLASKNCVVKNLEAVETLGSTSVICSDKTGTLTQNRMTVSHLWFDNHI</span></span>
-<span class="topo-line"><span class="topo-outside">HSADTTEDQSGQTFDQSSETWRALCRVLTLCNRAAFKSGQDAVPVPKRIVIGDASETALL</span></span>
-<span class="topo-line"><span class="topo-outside">KFSELTLGNAMGYRERFPKVCEIPFNSTNKFQLSIHTLEDPRDPRHVLVMKGAPERVLER</span></span>
-<span class="topo-line"><span class="topo-outside">CSSILIKGQELPLDEQWREAFQTAYLSLGGLGERVLGFCQLYLSEKDYPPGYAFDVEAMN</span></span>
-<span class="topo-line"><span class="topo-outside">FPTSGLCFAGLVSMIDPPRATVPDAVLKCRTAGIRVIMVTGDHPITAKAIAASVGIISEG</span></span>
-<span class="topo-line"><span class="topo-outside">SETVEDIAARLRVPVDQVNRKDARACVINGMQLKDMDPSELVEALRTHPEMVFARTSPQQ</span></span>
-<span class="topo-line"><span class="topo-outside">KLVIVESCQRLGAIVAVTGDGVNDSPALKKADIGVAMGIAGSDAAKNAADMILLDDNFAS</span></span>
-<span class="topo-line"><span class="topo-outside">IVTGVEQGRLIFDNLKK</span><span class="topo-membrane">SIAYTLTKNIPELTPWLIYITV</span><span class="topo-inside">SVPL</span><span class="topo-membrane">PLGCITILFIELCTDIF</span></span>
-<span class="topo-line"><span class="topo-membrane">PSVSL</span><span class="topo-outside">AYEKAESDIMHLRPRNPKRDRLVNE</span><span class="topo-membrane">PLAAYSYFQIGAIQSFAGFTDY</span><span class="topo-inside">FTAMAQEG</span></span>
-<span class="topo-line"><span class="topo-inside">WFPLLCVGLRPQWENHHLQDLQDSYGQEWTFGQRLYQQYTCY</span><span class="topo-membrane">TVFFISIEMCQIADVLIR</span></span>
-<span class="topo-line"><span class="topo-membrane">KT</span><span class="topo-outside">RRLSAFQQG</span><span class="topo-membrane">FFRNRILVIAIVFQVCIGCFLCYC</span><span class="topo-inside">PGMPNIFNFMPIRFQW</span><span class="topo-membrane">WLVPMPFSL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">GMEINDHQLSVAELEQKYQTSATKGLSASLAAELLLRDGPNALRPPRGTPEYVKFARQL</span><span class="topo-membrane">AGGLQCLMWVAAAICLIAFAIQA</span><span class="topo-inside">SEGDLTTD</span><span class="topo-membrane">DNLYLALALIAVVVVTGCF</span><span class="topo-outside">GYYQEFKSTNI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">IASFKNLVPQQATVIRDGDKFQINADQLVVGDLVEMKGGDRVPADIRILQAQGCKVDNSSLTGESEPQTRSPECTHESPLETRNIAFFSTMCLEGTAQGLVVNTGDRTIIGRIASLASGV</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">ENEKTPIAIEIEHFV</span><span class="topo-membrane">DIIAGLAILFGATFFIVAMCIGY</span><span class="topo-inside">T</span><span class="topo-membrane">FLRAMVFFMAIVVAYVPEGLLATV</span><span class="topo-outside">TVCLSLTAKRLASKNCVVKNLEAVETLGSTSVICSDKTGTLTQNRMTVSHLWFDNHI</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">HSADTTEDQSGQTFDQSSETWRALCRVLTLCNRAAFKSGQDAVPVPKRIVIGDASETALLKFSELTLGNAMGYRERFPKVCEIPFNSTNKFQLSIHTLEDPRDPRHVLVMKGAPERVLER</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">CSSILIKGQELPLDEQWREAFQTAYLSLGGLGERVLGFCQLYLSEKDYPPGYAFDVEAMNFPTSGLCFAGLVSMIDPPRATVPDAVLKCRTAGIRVIMVTGDHPITAKAIAASVGIISEG</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-outside">SETVEDIAARLRVPVDQVNRKDARACVINGMQLKDMDPSELVEALRTHPEMVFARTSPQQKLVIVESCQRLGAIVAVTGDGVNDSPALKKADIGVAMGIAGSDAAKNAADMILLDDNFAS</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820       830       840</span>
+<span class="topo-line"><span class="topo-outside">IVTGVEQGRLIFDNLKK</span><span class="topo-membrane">SIAYTLTKNIPELTPWLIYITV</span><span class="topo-inside">SVPL</span><span class="topo-membrane">PLGCITILFIELCTDIFPSVSL</span><span class="topo-outside">AYEKAESDIMHLRPRNPKRDRLVNE</span><span class="topo-membrane">PLAAYSYFQIGAIQSFAGFTDY</span><span class="topo-inside">FTAMAQEG</span></span>
+<span class="topo-ruler">       850       860       870       880       890       900       910       920       930       940       950       960</span>
+<span class="topo-line"><span class="topo-inside">WFPLLCVGLRPQWENHHLQDLQDSYGQEWTFGQRLYQQYTCY</span><span class="topo-membrane">TVFFISIEMCQIADVLIRKT</span><span class="topo-outside">RRLSAFQQG</span><span class="topo-membrane">FFRNRILVIAIVFQVCIGCFLCYC</span><span class="topo-inside">PGMPNIFNFMPIRFQW</span><span class="topo-membrane">WLVPMPFSL</span></span>
+<span class="topo-ruler">       970       980       </span>
 <span class="topo-line"><span class="topo-membrane">LIFVYDEIRKLG</span><span class="topo-outside">VRCCPGS</span><span class="topo-unknown">WWDQEL</span><span class="topo-outside">YY</span></span>
+<details class="topo-details"><summary>Topology coordinates (23 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -856,6 +870,7 @@ The gastric H+,K+-[F1-ATPase from Trypanosoma brucei](/xray-mp-wiki/proteins/pum
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -871,11 +886,13 @@ The gastric H+,K+-[F1-ATPase from Trypanosoma brucei](/xray-mp-wiki/proteins/pum
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">AALQEKKSCSQRMEEFQRYCWNPDTGQ</span><span class="topo-outside">MLGRTL</span><span class="topo-membrane">SRWVWISLYYVAFYVVMSGIFALC</span><span class="topo-inside">IYV</span></span>
-<span class="topo-line"><span class="topo-inside">LMRTIDPYTPDYQDQLKSPGVTLRPDVYGEKGLDISYNVSDSTTWAGLAHTLHRFLAGYS</span></span>
-<span class="topo-line"><span class="topo-inside">PAAQEGSINCTSEKYFFQESFLAPNHTKFSCKFTADMLQNCSGRPDPTFGFAEGKPCFII</span></span>
-<span class="topo-line"><span class="topo-inside">KMNRIVKFLPGNSTAPRVDCAFLDQPRDGPPLQVEYFPANGTYSLHYFPYYGKKAQPHYS</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">AALQEKKSCSQRMEEFQRYCWNPDTGQ</span><span class="topo-outside">MLGRTL</span><span class="topo-membrane">SRWVWISLYYVAFYVVMSGIFALC</span><span class="topo-inside">IYVLMRTIDPYTPDYQDQLKSPGVTLRPDVYGEKGLDISYNVSDSTTWAGLAHTLHRFLAGYS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">PAAQEGSINCTSEKYFFQESFLAPNHTKFSCKFTADMLQNCSGRPDPTFGFAEGKPCFIIKMNRIVKFLPGNSTAPRVDCAFLDQPRDGPPLQVEYFPANGTYSLHYFPYYGKKAQPHYS</span></span>
+<span class="topo-ruler">       250       260       270       280         </span>
 <span class="topo-line"><span class="topo-inside">NPLVAAKLLNVPRNRDVVIVCKILAEHVSFDNPHDPYEGKVEFKLKIQK</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -908,6 +925,7 @@ The gastric H+,K+-[F1-ATPase from Trypanosoma brucei](/xray-mp-wiki/proteins/pum
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -923,23 +941,25 @@ The gastric H+,K+-[F1-ATPase from Trypanosoma brucei](/xray-mp-wiki/proteins/pum
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">GMEINDHQLSVAELEQKYQTSATKGLSASLAAELLLRDGPNALRPPRGTPEYVKF</span><span class="topo-membrane">ARQLA</span></span>
-<span class="topo-line"><span class="topo-membrane">GGLQCLMWVAAAICLIAFA</span><span class="topo-inside">IQASEGDLTTDD</span><span class="topo-membrane">NLYLALALIAVVVVTGCFG</span><span class="topo-outside">YYQEFKSTNI</span></span>
-<span class="topo-line"><span class="topo-outside">IASFKNLVPQQATVIRDGDKFQINADQLVVGDLVEMKGGDRVPADIRILQAQGCKVDNSS</span></span>
-<span class="topo-line"><span class="topo-outside">LTGESEPQTRSPECTHESPLETRNIAFFSTMCLEGTAQGLVVNTGDRTIIGRIASLASGV</span></span>
-<span class="topo-line"><span class="topo-outside">ENEKTPIAIEIEHF</span><span class="topo-membrane">VDIIAGLAILFGATFFIVAMC</span><span class="topo-inside">IGYTF</span><span class="topo-membrane">LRAMVFFMAIVVAYVPEGLL</span></span>
-<span class="topo-line"><span class="topo-membrane">ATVTVC</span><span class="topo-outside">LSLTAKRLASKNCVVKNLEAVETLGSTSVICSDKTGTLTQNRMTVSHLWFDNHI</span></span>
-<span class="topo-line"><span class="topo-outside">HSADTTEDQSGQTFDQSSETWRALCRVLTLCNRAAFKSGQDAVPVPKRIVIGDASETALL</span></span>
-<span class="topo-line"><span class="topo-outside">KFSELTLGNAMGYRERFPKVCEIPFNSTNKFQLSIHTLEDPRDPRHVLVMKGAPERVLER</span></span>
-<span class="topo-line"><span class="topo-outside">CSSILIKGQELPLDEQWREAFQTAYLSLGGLGERVLGFCQLYLSEKDYPPGYAFDVEAMN</span></span>
-<span class="topo-line"><span class="topo-outside">FPTSGLCFAGLVSMIDPPRATVPDAVLKCRTAGIRVIMVTGDHPITAKAIAASVGIISEG</span></span>
-<span class="topo-line"><span class="topo-outside">SETVEDIAARLRVPVDQVNRKDARACVINGMQLKDMDPSELVEALRTHPEMVFARTSPQQ</span></span>
-<span class="topo-line"><span class="topo-outside">KLVIVESCQRLGAIVAVTGDGVNDSPALKKADIGVAMGIAGSDAAKNAADMILLDDNFAS</span></span>
-<span class="topo-line"><span class="topo-outside">IVTGVEQGRLIFDNLK</span><span class="topo-membrane">KSIAYTLTKNIPELTPYLIYIT</span><span class="topo-inside">VSVPLP</span><span class="topo-membrane">LGCITILFIELCTDIF</span></span>
-<span class="topo-line"><span class="topo-membrane">PSVSLAY</span><span class="topo-outside">EKAESDIMHLRPRNPKRDRLVNE</span><span class="topo-membrane">PLAAYSYFQIGAIQSFAGFTD</span><span class="topo-inside">YFTAMAQEG</span></span>
-<span class="topo-line"><span class="topo-inside">WFPLLCVGLRPQWENHHLQDLQDSYGQEWTFGQRLYQQYTCY</span><span class="topo-membrane">TVFFISIEMCQIADVLIR</span></span>
-<span class="topo-line"><span class="topo-membrane">KTR</span><span class="topo-outside">RLS</span><span class="topo-membrane">AFQQGFFRNRILVIAIVFQVCIGCFLC</span><span class="topo-inside">YCPGMPNIFNFMPIRFQWW</span><span class="topo-membrane">LVPMPFSL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">GMEINDHQLSVAELEQKYQTSATKGLSASLAAELLLRDGPNALRPPRGTPEYVKF</span><span class="topo-membrane">ARQLAGGLQCLMWVAAAICLIAFA</span><span class="topo-inside">IQASEGDLTTDD</span><span class="topo-membrane">NLYLALALIAVVVVTGCFG</span><span class="topo-outside">YYQEFKSTNI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">IASFKNLVPQQATVIRDGDKFQINADQLVVGDLVEMKGGDRVPADIRILQAQGCKVDNSSLTGESEPQTRSPECTHESPLETRNIAFFSTMCLEGTAQGLVVNTGDRTIIGRIASLASGV</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">ENEKTPIAIEIEHF</span><span class="topo-membrane">VDIIAGLAILFGATFFIVAMC</span><span class="topo-inside">IGYTF</span><span class="topo-membrane">LRAMVFFMAIVVAYVPEGLLATVTVC</span><span class="topo-outside">LSLTAKRLASKNCVVKNLEAVETLGSTSVICSDKTGTLTQNRMTVSHLWFDNHI</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">HSADTTEDQSGQTFDQSSETWRALCRVLTLCNRAAFKSGQDAVPVPKRIVIGDASETALLKFSELTLGNAMGYRERFPKVCEIPFNSTNKFQLSIHTLEDPRDPRHVLVMKGAPERVLER</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">CSSILIKGQELPLDEQWREAFQTAYLSLGGLGERVLGFCQLYLSEKDYPPGYAFDVEAMNFPTSGLCFAGLVSMIDPPRATVPDAVLKCRTAGIRVIMVTGDHPITAKAIAASVGIISEG</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-outside">SETVEDIAARLRVPVDQVNRKDARACVINGMQLKDMDPSELVEALRTHPEMVFARTSPQQKLVIVESCQRLGAIVAVTGDGVNDSPALKKADIGVAMGIAGSDAAKNAADMILLDDNFAS</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820       830       840</span>
+<span class="topo-line"><span class="topo-outside">IVTGVEQGRLIFDNLK</span><span class="topo-membrane">KSIAYTLTKNIPELTPYLIYIT</span><span class="topo-inside">VSVPLP</span><span class="topo-membrane">LGCITILFIELCTDIFPSVSLAY</span><span class="topo-outside">EKAESDIMHLRPRNPKRDRLVNE</span><span class="topo-membrane">PLAAYSYFQIGAIQSFAGFTD</span><span class="topo-inside">YFTAMAQEG</span></span>
+<span class="topo-ruler">       850       860       870       880       890       900       910       920       930       940       950       960</span>
+<span class="topo-line"><span class="topo-inside">WFPLLCVGLRPQWENHHLQDLQDSYGQEWTFGQRLYQQYTCY</span><span class="topo-membrane">TVFFISIEMCQIADVLIRKTR</span><span class="topo-outside">RLS</span><span class="topo-membrane">AFQQGFFRNRILVIAIVFQVCIGCFLC</span><span class="topo-inside">YCPGMPNIFNFMPIRFQWW</span><span class="topo-membrane">LVPMPFSL</span></span>
+<span class="topo-ruler">       970       980       </span>
 <span class="topo-line"><span class="topo-membrane">LIFVYDEIRKLG</span><span class="topo-outside">VRCCPGSWWDQ</span><span class="topo-unknown">ELYY</span></span>
+<details class="topo-details"><summary>Topology coordinates (22 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1105,6 +1125,7 @@ The gastric H+,K+-[F1-ATPase from Trypanosoma brucei](/xray-mp-wiki/proteins/pum
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1120,11 +1141,13 @@ The gastric H+,K+-[F1-ATPase from Trypanosoma brucei](/xray-mp-wiki/proteins/pum
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">AALQEKKSCSQRMEEFQR</span><span class="topo-outside">YCWNPDTGQMLGRTL</span><span class="topo-membrane">SRWVWISLYYVAFYVVMSGIFAL</span><span class="topo-inside">CIYV</span></span>
-<span class="topo-line"><span class="topo-inside">LMRTIDPYTPDYQDQLKSPGVTLRPDVYGEKGLDISYNVSDSTTWAGLAHTLHRFLAGYS</span></span>
-<span class="topo-line"><span class="topo-inside">PAAQEGSINCTSEKYFFQESFLAPNHTKFSCKFTADMLQNCSGRPDPTFGFAEGKPCFII</span></span>
-<span class="topo-line"><span class="topo-inside">KMNRIVKFLPGNSTAPRVDCAFLDQPRDGPPLQVEYFPANGTYSLHYFPYYGKKAQPHYS</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">AALQEKKSCSQRMEEFQR</span><span class="topo-outside">YCWNPDTGQMLGRTL</span><span class="topo-membrane">SRWVWISLYYVAFYVVMSGIFAL</span><span class="topo-inside">CIYVLMRTIDPYTPDYQDQLKSPGVTLRPDVYGEKGLDISYNVSDSTTWAGLAHTLHRFLAGYS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">PAAQEGSINCTSEKYFFQESFLAPNHTKFSCKFTADMLQNCSGRPDPTFGFAEGKPCFIIKMNRIVKFLPGNSTAPRVDCAFLDQPRDGPPLQVEYFPANGTYSLHYFPYYGKKAQPHYS</span></span>
+<span class="topo-ruler">       250       260       270       280         </span>
 <span class="topo-line"><span class="topo-inside">NPLVAAKLLNVPRNRDVVIVCKILAEHVSFDNPHDPYEGKVEFKLKIQK</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1157,6 +1180,7 @@ The gastric H+,K+-[F1-ATPase from Trypanosoma brucei](/xray-mp-wiki/proteins/pum
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1285,24 +1309,25 @@ The gastric H+,K+-[F1-ATPase from Trypanosoma brucei](/xray-mp-wiki/proteins/pum
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGKAENYELYQVELGPGPSGDMAAKMSKKKAGRGGGKRKEKLENMKKE</span><span class="topo-outside">MEINDHQLSVAE</span></span>
-<span class="topo-line"><span class="topo-outside">LEQKYQTSATKGLSASLAAELLLRDGPNALRPPRGTP</span><span class="topo-unknown">EYVKFARQL</span><span class="topo-outside">AGGL</span><span class="topo-membrane">QCLMWVAAAI</span></span>
-<span class="topo-line"><span class="topo-membrane">CLIAFAIQ</span><span class="topo-inside">ASEGDLTTD</span><span class="topo-membrane">DNLYLALALIAVVVVTGC</span><span class="topo-outside">FGYYQEFKSTNIIASFKNLVPQQAT</span></span>
-<span class="topo-line"><span class="topo-outside">VIRDGDKFQINADQLVVGDLVEMKGGDRVPADIRILQAQGCKVDNSSLTGESEPQTRSPE</span></span>
-<span class="topo-line"><span class="topo-outside">CTHESPLETRNIAFFSTMCLEGTAQGLVVNTGDRTIIGRIASLASGVENEKTPIAIEIEH</span></span>
-<span class="topo-line"><span class="topo-outside">FV</span><span class="topo-membrane">DIIAGLAILFGATFFIVAMC</span><span class="topo-inside">IGYTF</span><span class="topo-membrane">LRAMVFFMAIVVAYVPEGLLAT</span><span class="topo-outside">VTVCLSLTAKR</span></span>
-<span class="topo-line"><span class="topo-outside">LASKNCVVKNLEAVETLGSTSVICSDKTGTLTQNRMTVSHLWFDNHIHSADTTEDQSGQT</span></span>
-<span class="topo-line"><span class="topo-outside">FDQSSETWRALCRVLTLCNRAAFKSGQDAVPVPKRIVIGDASETALLKFSELTLGNAMGY</span></span>
-<span class="topo-line"><span class="topo-outside">RERFPKVCEIPFNSTNKFQLSIHTLEDPRDPRHVLVMKGAPERVLERCSSILIKGQELPL</span></span>
-<span class="topo-line"><span class="topo-outside">DEQWREAFQTAYLSLGGLGERVLGFCQLYLSEKDYPPGYAFDVEAMNFPTSGLCFAGLVS</span></span>
-<span class="topo-line"><span class="topo-outside">MIDPPRATVPDAVLKCRTAGIRVIMVTGDHPITAKAIAASVGIISEGSETVEDIAARLRV</span></span>
-<span class="topo-line"><span class="topo-outside">PVDQVNRKDARACVINGMQLKDMDPSELVEALRTHPEMVFARTSPQQKLVIVESCQRLGA</span></span>
-<span class="topo-line"><span class="topo-outside">IVAVTGDGVNDSPALKKADIGVAMGIAGSDAAKNAADMILLDDNFASIVTGVEQGRLIFD</span></span>
-<span class="topo-line"><span class="topo-outside">NLKKSI</span><span class="topo-membrane">AYTLTKNIPELTPYLIYIT</span><span class="topo-inside">VSVPLP</span><span class="topo-membrane">LGCITILFIELCTDIFPSV</span><span class="topo-outside">SLAYEKAESD</span></span>
-<span class="topo-line"><span class="topo-outside">IMHLRPRNPKRDRLVNEPLA</span><span class="topo-membrane">AYSYFQIGAIQSFAGFTDY</span><span class="topo-inside">FTAMAQEGWFPLLCVGLRPQW</span></span>
-<span class="topo-line"><span class="topo-inside">ENHHLQDLQDSYGQEWTFGQRLYQQYTC</span><span class="topo-membrane">YTVFFISIEMCQIADVLI</span><span class="topo-outside">RKTRRLSAFQQGFF</span></span>
-<span class="topo-line"><span class="topo-outside">RNRIL</span><span class="topo-membrane">VIAIVFQVCIGCFLCYC</span><span class="topo-inside">PGMPNIFNFMP</span><span class="topo-membrane">IRFQWWLVPMPFSLLIFVYDEI</span><span class="topo-outside">RKLGV</span></span>
-<span class="topo-line"><span class="topo-outside">RCCPG</span><span class="topo-unknown">SWWDQELYY</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGKAENYELYQVELGPGPSGDMAAKMSKKKAGRGGGKRKEKLENMKKE</span><span class="topo-outside">MEINDHQLSVAELEQKYQTSATKGLSASLAAELLLRDGPNALRPPRGTP</span><span class="topo-unknown">EYVKFARQL</span><span class="topo-outside">AGGL</span><span class="topo-membrane">QCLMWVAAAI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">CLIAFAIQ</span><span class="topo-inside">ASEGDLTTD</span><span class="topo-membrane">DNLYLALALIAVVVVTGC</span><span class="topo-outside">FGYYQEFKSTNIIASFKNLVPQQATVIRDGDKFQINADQLVVGDLVEMKGGDRVPADIRILQAQGCKVDNSSLTGESEPQTRSPE</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">CTHESPLETRNIAFFSTMCLEGTAQGLVVNTGDRTIIGRIASLASGVENEKTPIAIEIEHFV</span><span class="topo-membrane">DIIAGLAILFGATFFIVAMC</span><span class="topo-inside">IGYTF</span><span class="topo-membrane">LRAMVFFMAIVVAYVPEGLLAT</span><span class="topo-outside">VTVCLSLTAKR</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">LASKNCVVKNLEAVETLGSTSVICSDKTGTLTQNRMTVSHLWFDNHIHSADTTEDQSGQTFDQSSETWRALCRVLTLCNRAAFKSGQDAVPVPKRIVIGDASETALLKFSELTLGNAMGY</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">RERFPKVCEIPFNSTNKFQLSIHTLEDPRDPRHVLVMKGAPERVLERCSSILIKGQELPLDEQWREAFQTAYLSLGGLGERVLGFCQLYLSEKDYPPGYAFDVEAMNFPTSGLCFAGLVS</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-outside">MIDPPRATVPDAVLKCRTAGIRVIMVTGDHPITAKAIAASVGIISEGSETVEDIAARLRVPVDQVNRKDARACVINGMQLKDMDPSELVEALRTHPEMVFARTSPQQKLVIVESCQRLGA</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820       830       840</span>
+<span class="topo-line"><span class="topo-outside">IVAVTGDGVNDSPALKKADIGVAMGIAGSDAAKNAADMILLDDNFASIVTGVEQGRLIFDNLKKSI</span><span class="topo-membrane">AYTLTKNIPELTPYLIYIT</span><span class="topo-inside">VSVPLP</span><span class="topo-membrane">LGCITILFIELCTDIFPSV</span><span class="topo-outside">SLAYEKAESD</span></span>
+<span class="topo-ruler">       850       860       870       880       890       900       910       920       930       940       950       960</span>
+<span class="topo-line"><span class="topo-outside">IMHLRPRNPKRDRLVNEPLA</span><span class="topo-membrane">AYSYFQIGAIQSFAGFTDY</span><span class="topo-inside">FTAMAQEGWFPLLCVGLRPQWENHHLQDLQDSYGQEWTFGQRLYQQYTC</span><span class="topo-membrane">YTVFFISIEMCQIADVLI</span><span class="topo-outside">RKTRRLSAFQQGFF</span></span>
+<span class="topo-ruler">       970       980       990      1000      1010      1020      1030    </span>
+<span class="topo-line"><span class="topo-outside">RNRIL</span><span class="topo-membrane">VIAIVFQVCIGCFLCYC</span><span class="topo-inside">PGMPNIFNFMP</span><span class="topo-membrane">IRFQWWLVPMPFSLLIFVYDEI</span><span class="topo-outside">RKLGVRCCPG</span><span class="topo-unknown">SWWDQELYY</span></span>
+<details class="topo-details"><summary>Topology coordinates (23 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1475,6 +1500,7 @@ The gastric H+,K+-[F1-ATPase from Trypanosoma brucei](/xray-mp-wiki/proteins/pum
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1490,11 +1516,13 @@ The gastric H+,K+-[F1-ATPase from Trypanosoma brucei](/xray-mp-wiki/proteins/pum
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">AALQEKKSCSQRMEEFQRYCWNPDTGQMLGRT</span><span class="topo-outside">LSRW</span><span class="topo-membrane">VWISLYYVAFYVVMSGIFALCI</span><span class="topo-inside">YV</span></span>
-<span class="topo-line"><span class="topo-inside">LMRTIDPYTPDYQDQLKSPGVTLRPDVYGEKGLDISYNVSDSTTWAGLAHTLHRFLAGYS</span></span>
-<span class="topo-line"><span class="topo-inside">PAAQEGSINCTSEKYFFQESFLAPNHTKFSCKFTADMLQNCSGRPDPTFGFAEGKPCFII</span></span>
-<span class="topo-line"><span class="topo-inside">KMNRIVKFLPGNSTAPRVDCAFLDQPRDGPPLQVEYFPANGTYSLHYFPYYGKKAQPHYS</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">AALQEKKSCSQRMEEFQRYCWNPDTGQMLGRT</span><span class="topo-outside">LSRW</span><span class="topo-membrane">VWISLYYVAFYVVMSGIFALCI</span><span class="topo-inside">YVLMRTIDPYTPDYQDQLKSPGVTLRPDVYGEKGLDISYNVSDSTTWAGLAHTLHRFLAGYS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">PAAQEGSINCTSEKYFFQESFLAPNHTKFSCKFTADMLQNCSGRPDPTFGFAEGKPCFIIKMNRIVKFLPGNSTAPRVDCAFLDQPRDGPPLQVEYFPANGTYSLHYFPYYGKKAQPHYS</span></span>
+<span class="topo-ruler">       250       260       270       280         </span>
 <span class="topo-line"><span class="topo-inside">NPLVAAKLLNVPRNRDVVIVCKILAEHVSFDNPHDPYEGKVEFKLKIQK</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1527,6 +1555,7 @@ The gastric H+,K+-[F1-ATPase from Trypanosoma brucei](/xray-mp-wiki/proteins/pum
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1542,24 +1571,25 @@ The gastric H+,K+-[F1-ATPase from Trypanosoma brucei](/xray-mp-wiki/proteins/pum
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGKAENYELYQVELGPGPSGDMAAKMSKKKAGRGGGKRKEKLENMKK</span><span class="topo-outside">EMEINDHQLSVAE</span></span>
-<span class="topo-line"><span class="topo-outside">LEQKYQTSATKGLSASLAAELLLRDGPNALRPPRGTP</span><span class="topo-unknown">EYVKFARQ</span><span class="topo-outside">LAGGLQ</span><span class="topo-membrane">CLMWVAAAI</span></span>
-<span class="topo-line"><span class="topo-membrane">CLIAFAIQAS</span><span class="topo-inside">EGDLTT</span><span class="topo-membrane">DDNLYLALALIAVVVVT</span><span class="topo-outside">GCFGYYQEFKSTNIIASFKNLVPQQAT</span></span>
-<span class="topo-line"><span class="topo-outside">VIRDGDKFQINADQLVVGDLVEMKGGDRVPADIRILQAQGCKVDNSSLTGESEPQTRSPE</span></span>
-<span class="topo-line"><span class="topo-outside">CTHESPLETRNIAFFSTMCLEGTAQGLVVNTGDRTIIGRIASLASGVENEKTPIAIEIEH</span></span>
-<span class="topo-line"><span class="topo-outside">FVDI</span><span class="topo-membrane">IAGLAILFGATFFIVAMC</span><span class="topo-inside">IGYTF</span><span class="topo-membrane">LRAMVFFMAIVVAYVPEGLLAT</span><span class="topo-outside">VTVCLSLTAKR</span></span>
-<span class="topo-line"><span class="topo-outside">LASKNCVVKNLEAVETLGSTSVICSDKTGTLTQNRMTVSHLWFDNHIHSADTTEDQSGQT</span></span>
-<span class="topo-line"><span class="topo-outside">FDQSSETWRALCRVLTLCNRAAFKSGQDAVPVPKRIVIGDASETALLKFSELTLGNAMGY</span></span>
-<span class="topo-line"><span class="topo-outside">RERFPKVCEIPFNSTNKFQLSIHTLEDPRDPRHVLVMKGAPERVLERCSSILIKGQELPL</span></span>
-<span class="topo-line"><span class="topo-outside">DEQWREAFQTAYLSLGGLGERVLGFCQLYLSEKDYPPGYAFDVEAMNFPTSGLCFAGLVS</span></span>
-<span class="topo-line"><span class="topo-outside">MIDPPRATVPDAVLKCRTAGIRVIMVTGDHPITAKAIAASVGIISEGSETVEDIAARLRV</span></span>
-<span class="topo-line"><span class="topo-outside">PVDQVNRKDARACVINGMQLKDMDPSELVEALRTHPEMVFARTSPQQKLVIVESCQRLGA</span></span>
-<span class="topo-line"><span class="topo-outside">IVAVTGDGVNDSPALKKADIGVAMGIAGSDAAKNAADMILLDDNFASIVTGVEQGRLIFD</span></span>
-<span class="topo-line"><span class="topo-outside">NLKKSI</span><span class="topo-membrane">AYTLTKNIPELTPYLIYIT</span><span class="topo-inside">VSVPLP</span><span class="topo-membrane">LGCITILFIELCTDIFPSVS</span><span class="topo-outside">LAYEKAESD</span></span>
-<span class="topo-line"><span class="topo-outside">IMHLRPRNPKRDRLVNEPLA</span><span class="topo-membrane">AYSYFQIGAIQSFAGFTD</span><span class="topo-inside">YFTAMAQEGWFPLLCVGLRPQW</span></span>
-<span class="topo-line"><span class="topo-inside">ENHHLQDLQDSYGQEWTFGQRLYQQYTCY</span><span class="topo-membrane">TVFFISIEMCQIADVLIR</span><span class="topo-outside">KTRRLSAFQQGFF</span></span>
-<span class="topo-line"><span class="topo-outside">RNR</span><span class="topo-membrane">ILVIAIVFQVCIGCFLCYC</span><span class="topo-inside">PGMPNIFNFMPIRFQW</span><span class="topo-membrane">WLVPMPFSLLIFVYDEIR</span><span class="topo-outside">KLGV</span></span>
-<span class="topo-line"><span class="topo-outside">RCCPGS</span><span class="topo-unknown">WWDQEL</span><span class="topo-outside">YY</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGKAENYELYQVELGPGPSGDMAAKMSKKKAGRGGGKRKEKLENMKK</span><span class="topo-outside">EMEINDHQLSVAELEQKYQTSATKGLSASLAAELLLRDGPNALRPPRGTP</span><span class="topo-unknown">EYVKFARQ</span><span class="topo-outside">LAGGLQ</span><span class="topo-membrane">CLMWVAAAI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">CLIAFAIQAS</span><span class="topo-inside">EGDLTT</span><span class="topo-membrane">DDNLYLALALIAVVVVT</span><span class="topo-outside">GCFGYYQEFKSTNIIASFKNLVPQQATVIRDGDKFQINADQLVVGDLVEMKGGDRVPADIRILQAQGCKVDNSSLTGESEPQTRSPE</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">CTHESPLETRNIAFFSTMCLEGTAQGLVVNTGDRTIIGRIASLASGVENEKTPIAIEIEHFVDI</span><span class="topo-membrane">IAGLAILFGATFFIVAMC</span><span class="topo-inside">IGYTF</span><span class="topo-membrane">LRAMVFFMAIVVAYVPEGLLAT</span><span class="topo-outside">VTVCLSLTAKR</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">LASKNCVVKNLEAVETLGSTSVICSDKTGTLTQNRMTVSHLWFDNHIHSADTTEDQSGQTFDQSSETWRALCRVLTLCNRAAFKSGQDAVPVPKRIVIGDASETALLKFSELTLGNAMGY</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">RERFPKVCEIPFNSTNKFQLSIHTLEDPRDPRHVLVMKGAPERVLERCSSILIKGQELPLDEQWREAFQTAYLSLGGLGERVLGFCQLYLSEKDYPPGYAFDVEAMNFPTSGLCFAGLVS</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-outside">MIDPPRATVPDAVLKCRTAGIRVIMVTGDHPITAKAIAASVGIISEGSETVEDIAARLRVPVDQVNRKDARACVINGMQLKDMDPSELVEALRTHPEMVFARTSPQQKLVIVESCQRLGA</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820       830       840</span>
+<span class="topo-line"><span class="topo-outside">IVAVTGDGVNDSPALKKADIGVAMGIAGSDAAKNAADMILLDDNFASIVTGVEQGRLIFDNLKKSI</span><span class="topo-membrane">AYTLTKNIPELTPYLIYIT</span><span class="topo-inside">VSVPLP</span><span class="topo-membrane">LGCITILFIELCTDIFPSVS</span><span class="topo-outside">LAYEKAESD</span></span>
+<span class="topo-ruler">       850       860       870       880       890       900       910       920       930       940       950       960</span>
+<span class="topo-line"><span class="topo-outside">IMHLRPRNPKRDRLVNEPLA</span><span class="topo-membrane">AYSYFQIGAIQSFAGFTD</span><span class="topo-inside">YFTAMAQEGWFPLLCVGLRPQWENHHLQDLQDSYGQEWTFGQRLYQQYTCY</span><span class="topo-membrane">TVFFISIEMCQIADVLIR</span><span class="topo-outside">KTRRLSAFQQGFF</span></span>
+<span class="topo-ruler">       970       980       990      1000      1010      1020      1030    </span>
+<span class="topo-line"><span class="topo-outside">RNR</span><span class="topo-membrane">ILVIAIVFQVCIGCFLCYC</span><span class="topo-inside">PGMPNIFNFMPIRFQW</span><span class="topo-membrane">WLVPMPFSLLIFVYDEIR</span><span class="topo-outside">KLGVRCCPGS</span><span class="topo-unknown">WWDQEL</span><span class="topo-outside">YY</span></span>
+<details class="topo-details"><summary>Topology coordinates (25 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1746,6 +1776,7 @@ The gastric H+,K+-[F1-ATPase from Trypanosoma brucei](/xray-mp-wiki/proteins/pum
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1761,11 +1792,13 @@ The gastric H+,K+-[F1-ATPase from Trypanosoma brucei](/xray-mp-wiki/proteins/pum
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">AALQEKKSCSQRMEEFQRYCWNPDTGQM</span><span class="topo-outside">LGRTLSRW</span><span class="topo-membrane">VWISLYYVAFYVVMSGIFALC</span><span class="topo-inside">IYV</span></span>
-<span class="topo-line"><span class="topo-inside">LMRTIDPYTPDYQDQLKSPGVTLRPDVYGEKGLDISYNVSDSTTWAGLAHTLHRFLAGYS</span></span>
-<span class="topo-line"><span class="topo-inside">PAAQEGSINCTSEKYFFQESFLAPNHTKFSCKFTADMLQNCSGRPDPTFGFAEGKPCFII</span></span>
-<span class="topo-line"><span class="topo-inside">KMNRIVKFLPGNSTAPRVDCAFLDQPRDGPPLQVEYFPANGTYSLHYFPYYGKKAQPHYS</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">AALQEKKSCSQRMEEFQRYCWNPDTGQM</span><span class="topo-outside">LGRTLSRW</span><span class="topo-membrane">VWISLYYVAFYVVMSGIFALC</span><span class="topo-inside">IYVLMRTIDPYTPDYQDQLKSPGVTLRPDVYGEKGLDISYNVSDSTTWAGLAHTLHRFLAGYS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">PAAQEGSINCTSEKYFFQESFLAPNHTKFSCKFTADMLQNCSGRPDPTFGFAEGKPCFIIKMNRIVKFLPGNSTAPRVDCAFLDQPRDGPPLQVEYFPANGTYSLHYFPYYGKKAQPHYS</span></span>
+<span class="topo-ruler">       250       260       270       280         </span>
 <span class="topo-line"><span class="topo-inside">NPLVAAKLLNVPRNRDVVIVCKILAEHVSFDNPHDPYEGKVEFKLKIQK</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1798,6 +1831,7 @@ The gastric H+,K+-[F1-ATPase from Trypanosoma brucei](/xray-mp-wiki/proteins/pum
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1866,24 +1900,25 @@ The gastric H+,K+-[F1-ATPase from Trypanosoma brucei](/xray-mp-wiki/proteins/pum
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGKAENYELYQVELGPGPSGDMAAKMSKKKAGRGGGKRKEKLENMKK</span><span class="topo-outside">EMEINDHQLSVAE</span></span>
-<span class="topo-line"><span class="topo-outside">LEQKYQTSATKGLSASLAAELLLRDGPNALRPPRGTPEYVKFARQLAGGL</span><span class="topo-membrane">QCLMWVAAAI</span></span>
-<span class="topo-line"><span class="topo-membrane">CLIAFAIQAS</span><span class="topo-inside">EGDLTT</span><span class="topo-membrane">DDNLYLALALIAVVVVTGC</span><span class="topo-outside">FGYYQEFKSTNIIASFKNLVPQQAT</span></span>
-<span class="topo-line"><span class="topo-outside">VIRDGDKFQINADQLVVGDLVEMKGGDRVPADIRILQAQGCKVDNSSLTGESEPQTRSPE</span></span>
-<span class="topo-line"><span class="topo-outside">CTHESPLETRNIAFFSTMCLEGTAQGLVVNTGDRTIIGRIASLASGVENEKTPIAIEIEH</span></span>
-<span class="topo-line"><span class="topo-outside">FV</span><span class="topo-membrane">DIIAGLAILFGATFFIVAMC</span><span class="topo-inside">IGYT</span><span class="topo-membrane">FLRAMVFFMAIVVAYVPEGLLAT</span><span class="topo-outside">VTVCLSLTAKR</span></span>
-<span class="topo-line"><span class="topo-outside">LASKNCVVKNLEAVETLGSTSVICSDKTGTLTQNRMTVSHLWFDNHIHSADTTEDQSGQT</span></span>
-<span class="topo-line"><span class="topo-outside">FDQSSETWRALCRVLTLCNRAAFKSGQDAVPVPKRIVIGDASETALLKFSELTLGNAMGY</span></span>
-<span class="topo-line"><span class="topo-outside">RERFPKVCEIPFNSTNKFQLSIHTLEDPRDPRHVLVMKGAPERVLERCSSILIKGQELPL</span></span>
-<span class="topo-line"><span class="topo-outside">DEQWREAFQTAYLSLGGLGERVLGFCQLYLSEKDYPPGYAFDVEAMNFPTSGLCFAGLVS</span></span>
-<span class="topo-line"><span class="topo-outside">MIDPPRATVPDAVLKCRTAGIRVIMVTGDHPITAKAIAASVGIISEGSETVEDIAARLRV</span></span>
-<span class="topo-line"><span class="topo-outside">PVDQVNRKDARACVINGMQLKDMDPSELVEALRTHPEMVFARTSPQQKLVIVESCQRLGA</span></span>
-<span class="topo-line"><span class="topo-outside">IVAVTGDGVNDSPALKKADIGVAMGIAGSDAAKNAADMILLDDNFASIVTGVEQGRLIFD</span></span>
-<span class="topo-line"><span class="topo-outside">NLKK</span><span class="topo-membrane">SIAYTLTKNIPELTPYLIYIT</span><span class="topo-inside">VSVPLP</span><span class="topo-membrane">LGCITILFIELCTDIFPSVSL</span><span class="topo-outside">AYEKAESD</span></span>
-<span class="topo-line"><span class="topo-outside">IMHLRPRNPKRDRLVNE</span><span class="topo-membrane">PLAAYSYFQIGAIQSFAGFTD</span><span class="topo-inside">YFTAMAQEGWFPLLCVGLRPQW</span></span>
-<span class="topo-line"><span class="topo-inside">ENHHLQDLQDSYGQEWTFGQRLYQQYTCY</span><span class="topo-membrane">TVFFISIEMCQIADVLIRK</span><span class="topo-outside">TRRLSAFQQGFF</span></span>
-<span class="topo-line"><span class="topo-outside">RN</span><span class="topo-membrane">RILVIAIVFQVCIGCFLCYC</span><span class="topo-inside">PGMPNIFNFMPIRFQW</span><span class="topo-membrane">WLVPMPFSLLIFVYDEIRKLG</span><span class="topo-outside">V</span></span>
-<span class="topo-line"><span class="topo-outside">RCCPGSWWDQELYY</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGKAENYELYQVELGPGPSGDMAAKMSKKKAGRGGGKRKEKLENMKK</span><span class="topo-outside">EMEINDHQLSVAELEQKYQTSATKGLSASLAAELLLRDGPNALRPPRGTPEYVKFARQLAGGL</span><span class="topo-membrane">QCLMWVAAAI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">CLIAFAIQAS</span><span class="topo-inside">EGDLTT</span><span class="topo-membrane">DDNLYLALALIAVVVVTGC</span><span class="topo-outside">FGYYQEFKSTNIIASFKNLVPQQATVIRDGDKFQINADQLVVGDLVEMKGGDRVPADIRILQAQGCKVDNSSLTGESEPQTRSPE</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">CTHESPLETRNIAFFSTMCLEGTAQGLVVNTGDRTIIGRIASLASGVENEKTPIAIEIEHFV</span><span class="topo-membrane">DIIAGLAILFGATFFIVAMC</span><span class="topo-inside">IGYT</span><span class="topo-membrane">FLRAMVFFMAIVVAYVPEGLLAT</span><span class="topo-outside">VTVCLSLTAKR</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">LASKNCVVKNLEAVETLGSTSVICSDKTGTLTQNRMTVSHLWFDNHIHSADTTEDQSGQTFDQSSETWRALCRVLTLCNRAAFKSGQDAVPVPKRIVIGDASETALLKFSELTLGNAMGY</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">RERFPKVCEIPFNSTNKFQLSIHTLEDPRDPRHVLVMKGAPERVLERCSSILIKGQELPLDEQWREAFQTAYLSLGGLGERVLGFCQLYLSEKDYPPGYAFDVEAMNFPTSGLCFAGLVS</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-outside">MIDPPRATVPDAVLKCRTAGIRVIMVTGDHPITAKAIAASVGIISEGSETVEDIAARLRVPVDQVNRKDARACVINGMQLKDMDPSELVEALRTHPEMVFARTSPQQKLVIVESCQRLGA</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820       830       840</span>
+<span class="topo-line"><span class="topo-outside">IVAVTGDGVNDSPALKKADIGVAMGIAGSDAAKNAADMILLDDNFASIVTGVEQGRLIFDNLKK</span><span class="topo-membrane">SIAYTLTKNIPELTPYLIYIT</span><span class="topo-inside">VSVPLP</span><span class="topo-membrane">LGCITILFIELCTDIFPSVSL</span><span class="topo-outside">AYEKAESD</span></span>
+<span class="topo-ruler">       850       860       870       880       890       900       910       920       930       940       950       960</span>
+<span class="topo-line"><span class="topo-outside">IMHLRPRNPKRDRLVNE</span><span class="topo-membrane">PLAAYSYFQIGAIQSFAGFTD</span><span class="topo-inside">YFTAMAQEGWFPLLCVGLRPQWENHHLQDLQDSYGQEWTFGQRLYQQYTCY</span><span class="topo-membrane">TVFFISIEMCQIADVLIRK</span><span class="topo-outside">TRRLSAFQQGFF</span></span>
+<span class="topo-ruler">       970       980       990      1000      1010      1020      1030    </span>
+<span class="topo-line"><span class="topo-outside">RN</span><span class="topo-membrane">RILVIAIVFQVCIGCFLCYC</span><span class="topo-inside">PGMPNIFNFMPIRFQW</span><span class="topo-membrane">WLVPMPFSLLIFVYDEIRKLG</span><span class="topo-outside">VRCCPGSWWDQELYY</span></span>
+<details class="topo-details"><summary>Topology coordinates (22 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2049,6 +2084,7 @@ The gastric H+,K+-[F1-ATPase from Trypanosoma brucei](/xray-mp-wiki/proteins/pum
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2064,11 +2100,13 @@ The gastric H+,K+-[F1-ATPase from Trypanosoma brucei](/xray-mp-wiki/proteins/pum
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAALQEKKSCSQRMEEFQRYCWNPDTGQML</span><span class="topo-outside">GRTL</span><span class="topo-membrane">SRWVWISLYYVAFYVVMSGIFALC</span><span class="topo-inside">IY</span></span>
-<span class="topo-line"><span class="topo-inside">VLMRTIDPYTPDYQDQLKSPGVTLRPDVYGEKGLDISYNVSDSTTWAGLAHTLHRFLAGY</span></span>
-<span class="topo-line"><span class="topo-inside">SPAAQEGSINCTSEKYFFQESFLAPNHTKFSCKFTADMLQNCSGRPDPTFGFAEGKPCFI</span></span>
-<span class="topo-line"><span class="topo-inside">IKMNRIVKFLPGNSTAPRVDCAFLDQPRDGPPLQVEYFPANGTYSLHYFPYYGKKAQPHY</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAALQEKKSCSQRMEEFQRYCWNPDTGQML</span><span class="topo-outside">GRTL</span><span class="topo-membrane">SRWVWISLYYVAFYVVMSGIFALC</span><span class="topo-inside">IYVLMRTIDPYTPDYQDQLKSPGVTLRPDVYGEKGLDISYNVSDSTTWAGLAHTLHRFLAGY</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">SPAAQEGSINCTSEKYFFQESFLAPNHTKFSCKFTADMLQNCSGRPDPTFGFAEGKPCFIIKMNRIVKFLPGNSTAPRVDCAFLDQPRDGPPLQVEYFPANGTYSLHYFPYYGKKAQPHY</span></span>
+<span class="topo-ruler">       250       260       270       280       290</span>
 <span class="topo-line"><span class="topo-inside">SNPLVAAKLLNVPRNRDVVIVCKILAEHVSFDNPHDPYEGKVEFKLKIQK</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2108,6 +2146,7 @@ The gastric H+,K+-[F1-ATPase from Trypanosoma brucei](/xray-mp-wiki/proteins/pum
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2123,24 +2162,25 @@ The gastric H+,K+-[F1-ATPase from Trypanosoma brucei](/xray-mp-wiki/proteins/pum
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGKAENYELYQVELGPGPSGDMAAKMSKKKAGRGGGKRKEKLENMKK</span><span class="topo-outside">EMEINDHQLSVAE</span></span>
-<span class="topo-line"><span class="topo-outside">LEQKYQTSATKGLSASLAAELLLRDGPNALRPPRGTPEYVKFARQLAGGL</span><span class="topo-membrane">QCLMWVAAAI</span></span>
-<span class="topo-line"><span class="topo-membrane">CLIAFAIQAS</span><span class="topo-inside">EGDLTT</span><span class="topo-membrane">DDNLYLALALIAVVVVT</span><span class="topo-outside">GCFGYYQEFKSTNIIASFKNLVPQQAT</span></span>
-<span class="topo-line"><span class="topo-outside">VIRDGDKFQINADQLVVGDLVEMKGGDRVPADIRILQAQGCKVDNSSLTGESEPQTRSPE</span></span>
-<span class="topo-line"><span class="topo-outside">CTHESPLETRNIAFFSTMCLEGTAQGLVVNTGDRTIIGRIASLASGVENEKTPIAIEIEH</span></span>
-<span class="topo-line"><span class="topo-outside">FV</span><span class="topo-membrane">DIIAGLAILFGATFFIVAMC</span><span class="topo-inside">IGYTF</span><span class="topo-membrane">LRAMVFFMAIVVAYVPEGLLAT</span><span class="topo-outside">VTVCLSLTAKR</span></span>
-<span class="topo-line"><span class="topo-outside">LASKNCVVKNLEAVETLGSTSVICSDKTGTLTQNRMTVSHLWFDNHIHSADTTEDQSGQT</span></span>
-<span class="topo-line"><span class="topo-outside">FDQSSETWRALCRVLTLCNRAAFKSGQDAVPVPKRIVIGDASETALLKFSELTLGNAMGY</span></span>
-<span class="topo-line"><span class="topo-outside">RERFPKVCEIPFNSTNKFQLSIHTLEDPRDPRHVLVMKGAPERVLERCSSILIKGQELPL</span></span>
-<span class="topo-line"><span class="topo-outside">DEQWREAFQTAYLSLGGLGERVLGFCQLYLSEKDYPPGYAFDVEAMNFPTSGLCFAGLVS</span></span>
-<span class="topo-line"><span class="topo-outside">MIDPPRATVPDAVLKCRTAGIRVIMVTGDHPITAKAIAASVGIISEGSETVEDIAARLRV</span></span>
-<span class="topo-line"><span class="topo-outside">PVDQVNRKDARACVINGMQLKDMDPSELVEALRTHPEMVFARTSPQQKLVIVESCQRLGA</span></span>
-<span class="topo-line"><span class="topo-outside">IVAVTGDGVNDSPALKKADIGVAMGIAGSDAAKNAADMILLDDNFASIVTGVEQGRLIFD</span></span>
-<span class="topo-line"><span class="topo-outside">NLKKS</span><span class="topo-membrane">IAYTLTKNIPELTPYLIYIT</span><span class="topo-inside">VSVPLP</span><span class="topo-membrane">LGCITILFIELCTDIFPSVS</span><span class="topo-outside">LAYEKAESD</span></span>
-<span class="topo-line"><span class="topo-outside">IMHLRPRNPKRDRLVNE</span><span class="topo-membrane">PLAAYSYFQIGAIQSFAGFTD</span><span class="topo-inside">YFTAMAQEGWFPLLCVGLRPQW</span></span>
-<span class="topo-line"><span class="topo-inside">ENHHLQDLQDSYGQEWTFGQRLYQQYTCY</span><span class="topo-membrane">TVFFISIEMCQIADVLIRK</span><span class="topo-outside">TRRLSAFQQGFF</span></span>
-<span class="topo-line"><span class="topo-outside">RNR</span><span class="topo-membrane">ILVIAIVFQVCIGCFLCYC</span><span class="topo-inside">PGMPNIFNFMPIRFQW</span><span class="topo-membrane">WLVPMPFSLLIFVYDEIRKL</span><span class="topo-outside">GV</span></span>
-<span class="topo-line"><span class="topo-outside">RCCPGSWWDQELYY</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGKAENYELYQVELGPGPSGDMAAKMSKKKAGRGGGKRKEKLENMKK</span><span class="topo-outside">EMEINDHQLSVAELEQKYQTSATKGLSASLAAELLLRDGPNALRPPRGTPEYVKFARQLAGGL</span><span class="topo-membrane">QCLMWVAAAI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">CLIAFAIQAS</span><span class="topo-inside">EGDLTT</span><span class="topo-membrane">DDNLYLALALIAVVVVT</span><span class="topo-outside">GCFGYYQEFKSTNIIASFKNLVPQQATVIRDGDKFQINADQLVVGDLVEMKGGDRVPADIRILQAQGCKVDNSSLTGESEPQTRSPE</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">CTHESPLETRNIAFFSTMCLEGTAQGLVVNTGDRTIIGRIASLASGVENEKTPIAIEIEHFV</span><span class="topo-membrane">DIIAGLAILFGATFFIVAMC</span><span class="topo-inside">IGYTF</span><span class="topo-membrane">LRAMVFFMAIVVAYVPEGLLAT</span><span class="topo-outside">VTVCLSLTAKR</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">LASKNCVVKNLEAVETLGSTSVICSDKTGTLTQNRMTVSHLWFDNHIHSADTTEDQSGQTFDQSSETWRALCRVLTLCNRAAFKSGQDAVPVPKRIVIGDASETALLKFSELTLGNAMGY</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">RERFPKVCEIPFNSTNKFQLSIHTLEDPRDPRHVLVMKGAPERVLERCSSILIKGQELPLDEQWREAFQTAYLSLGGLGERVLGFCQLYLSEKDYPPGYAFDVEAMNFPTSGLCFAGLVS</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-outside">MIDPPRATVPDAVLKCRTAGIRVIMVTGDHPITAKAIAASVGIISEGSETVEDIAARLRVPVDQVNRKDARACVINGMQLKDMDPSELVEALRTHPEMVFARTSPQQKLVIVESCQRLGA</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820       830       840</span>
+<span class="topo-line"><span class="topo-outside">IVAVTGDGVNDSPALKKADIGVAMGIAGSDAAKNAADMILLDDNFASIVTGVEQGRLIFDNLKKS</span><span class="topo-membrane">IAYTLTKNIPELTPYLIYIT</span><span class="topo-inside">VSVPLP</span><span class="topo-membrane">LGCITILFIELCTDIFPSVS</span><span class="topo-outside">LAYEKAESD</span></span>
+<span class="topo-ruler">       850       860       870       880       890       900       910       920       930       940       950       960</span>
+<span class="topo-line"><span class="topo-outside">IMHLRPRNPKRDRLVNE</span><span class="topo-membrane">PLAAYSYFQIGAIQSFAGFTD</span><span class="topo-inside">YFTAMAQEGWFPLLCVGLRPQWENHHLQDLQDSYGQEWTFGQRLYQQYTCY</span><span class="topo-membrane">TVFFISIEMCQIADVLIRK</span><span class="topo-outside">TRRLSAFQQGFF</span></span>
+<span class="topo-ruler">       970       980       990      1000      1010      1020      1030    </span>
+<span class="topo-line"><span class="topo-outside">RNR</span><span class="topo-membrane">ILVIAIVFQVCIGCFLCYC</span><span class="topo-inside">PGMPNIFNFMPIRFQW</span><span class="topo-membrane">WLVPMPFSLLIFVYDEIRKL</span><span class="topo-outside">GVRCCPGSWWDQELYY</span></span>
+<details class="topo-details"><summary>Topology coordinates (22 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2306,6 +2346,7 @@ The gastric H+,K+-[F1-ATPase from Trypanosoma brucei](/xray-mp-wiki/proteins/pum
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2321,11 +2362,13 @@ The gastric H+,K+-[F1-ATPase from Trypanosoma brucei](/xray-mp-wiki/proteins/pum
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAALQEKKSCSQRMEEFQRYCWNPDTGQML</span><span class="topo-outside">GRTL</span><span class="topo-membrane">SRWVWISLYYVAFYVVMSGIFALC</span><span class="topo-inside">IY</span></span>
-<span class="topo-line"><span class="topo-inside">VLMRTIDPYTPDYQDQLKSPGVTLRPDVYGEKGLDISYNVSDSTTWAGLAHTLHRFLAGY</span></span>
-<span class="topo-line"><span class="topo-inside">SPAAQEGSINCTSEKYFFQESFLAPNHTKFSCKFTADMLQNCSGRPDPTFGFAEGKPCFI</span></span>
-<span class="topo-line"><span class="topo-inside">IKMNRIVKFLPGNSTAPRVDCAFLDQPRDGPPLQVEYFPANGTYSLHYFPYYGKKAQPHY</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAALQEKKSCSQRMEEFQRYCWNPDTGQML</span><span class="topo-outside">GRTL</span><span class="topo-membrane">SRWVWISLYYVAFYVVMSGIFALC</span><span class="topo-inside">IYVLMRTIDPYTPDYQDQLKSPGVTLRPDVYGEKGLDISYNVSDSTTWAGLAHTLHRFLAGY</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">SPAAQEGSINCTSEKYFFQESFLAPNHTKFSCKFTADMLQNCSGRPDPTFGFAEGKPCFIIKMNRIVKFLPGNSTAPRVDCAFLDQPRDGPPLQVEYFPANGTYSLHYFPYYGKKAQPHY</span></span>
+<span class="topo-ruler">       250       260       270       280       290</span>
 <span class="topo-line"><span class="topo-inside">SNPLVAAKLLNVPRNRDVVIVCKILAEHVSFDNPHDPYEGKVEFKLKIQK</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2365,6 +2408,7 @@ The gastric H+,K+-[F1-ATPase from Trypanosoma brucei](/xray-mp-wiki/proteins/pum
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2380,24 +2424,25 @@ The gastric H+,K+-[F1-ATPase from Trypanosoma brucei](/xray-mp-wiki/proteins/pum
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGKAENYELYQVELGPGPSGDMAAKMSKKKAGRGGGKRKEKLENMKK</span><span class="topo-outside">EMEINDHQLSVAE</span></span>
-<span class="topo-line"><span class="topo-outside">LEQKYQTSATKGLSASLAAELLLRDGPNALRPPRGTPEYVKFARQLAGGLQCL</span><span class="topo-membrane">MWVAAAI</span></span>
-<span class="topo-line"><span class="topo-membrane">CLIAFAIQAS</span><span class="topo-inside">EGDLTT</span><span class="topo-membrane">DDNLYLALALIAVVVV</span><span class="topo-outside">TGCFGYYQEFKSTNIIASFKNLVPQQAT</span></span>
-<span class="topo-line"><span class="topo-outside">VIRDGDKFQINADQLVVGDLVEMKGGDRVPADIRILQAQGCKVDNSSLTGESEPQTRSPE</span></span>
-<span class="topo-line"><span class="topo-outside">CTHESPLETRNIAFFSTMCLEGTAQGLVVNTGDRTIIGRIASLASGVENEKTPIAIEIEH</span></span>
-<span class="topo-line"><span class="topo-outside">FVDI</span><span class="topo-membrane">IAGLAILFGATFFIVAMC</span><span class="topo-inside">IGYT</span><span class="topo-membrane">FLRAMVFFMAIVVAYVPEGLLAT</span><span class="topo-outside">VTVCLSLTAKR</span></span>
-<span class="topo-line"><span class="topo-outside">LASKNCVVKNLEAVETLGSTSVICSDKTGTLTQNRMTVSHLWFDNHIHSADTTEDQSGQT</span></span>
-<span class="topo-line"><span class="topo-outside">FDQSSETWRALCRVLTLCNRAAFKSGQDAVPVPKRIVIGDASETALLKFSELTLGNAMGY</span></span>
-<span class="topo-line"><span class="topo-outside">RERFPKVCEIPFNSTNKFQLSIHTLEDPRDPRHVLVMKGAPERVLERCSSILIKGQELPL</span></span>
-<span class="topo-line"><span class="topo-outside">DEQWREAFQTAYLSLGGLGERVLGFCQLYLSEKDYPPGYAFDVEAMNFPTSGLCFAGLVS</span></span>
-<span class="topo-line"><span class="topo-outside">MIDPPRATVPDAVLKCRTAGIRVIMVTGDHPITAKAIAASVGIISEGSETVEDIAARLRV</span></span>
-<span class="topo-line"><span class="topo-outside">PVDQVNRKDARACVINGMQLKDMDPSELVEALRTHPEMVFARTSPQQKLVIVESCQRLGA</span></span>
-<span class="topo-line"><span class="topo-outside">IVAVTGDGVNDSPALKKADIGVAMGIAGSDAAKNAADMILLDDNFASIVTGVEQGRLIFD</span></span>
-<span class="topo-line"><span class="topo-outside">NLKKS</span><span class="topo-membrane">IAYTLTKNIPELTPYLI</span><span class="topo-inside">YITVSVPLPL</span><span class="topo-membrane">GCITILFIELCTDIFPSVS</span><span class="topo-outside">LAYEKAESD</span></span>
-<span class="topo-line"><span class="topo-outside">IMHLRPRNPKRDRLVNEP</span><span class="topo-membrane">LAAYSYFQIGAIQSFAGF</span><span class="topo-inside">TDYFTAMAQEGWFPLLCVGLRPQW</span></span>
-<span class="topo-line"><span class="topo-inside">ENHHLQDLQDSYGQEWTFGQRLYQQYTCYTVF</span><span class="topo-membrane">FISIEMCQIADVLIRK</span><span class="topo-outside">TRRLSAFQQGFF</span></span>
-<span class="topo-line"><span class="topo-outside">RNR</span><span class="topo-membrane">ILVIAIVFQVCIGCFLC</span><span class="topo-inside">YCPGMPNIFNFMPIRFQWWLVP</span><span class="topo-membrane">MPFSLLIFVYDEIRKLG</span><span class="topo-outside">V</span></span>
-<span class="topo-line"><span class="topo-outside">RCCPGSWWDQELYY</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGKAENYELYQVELGPGPSGDMAAKMSKKKAGRGGGKRKEKLENMKK</span><span class="topo-outside">EMEINDHQLSVAELEQKYQTSATKGLSASLAAELLLRDGPNALRPPRGTPEYVKFARQLAGGLQCL</span><span class="topo-membrane">MWVAAAI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">CLIAFAIQAS</span><span class="topo-inside">EGDLTT</span><span class="topo-membrane">DDNLYLALALIAVVVV</span><span class="topo-outside">TGCFGYYQEFKSTNIIASFKNLVPQQATVIRDGDKFQINADQLVVGDLVEMKGGDRVPADIRILQAQGCKVDNSSLTGESEPQTRSPE</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">CTHESPLETRNIAFFSTMCLEGTAQGLVVNTGDRTIIGRIASLASGVENEKTPIAIEIEHFVDI</span><span class="topo-membrane">IAGLAILFGATFFIVAMC</span><span class="topo-inside">IGYT</span><span class="topo-membrane">FLRAMVFFMAIVVAYVPEGLLAT</span><span class="topo-outside">VTVCLSLTAKR</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">LASKNCVVKNLEAVETLGSTSVICSDKTGTLTQNRMTVSHLWFDNHIHSADTTEDQSGQTFDQSSETWRALCRVLTLCNRAAFKSGQDAVPVPKRIVIGDASETALLKFSELTLGNAMGY</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">RERFPKVCEIPFNSTNKFQLSIHTLEDPRDPRHVLVMKGAPERVLERCSSILIKGQELPLDEQWREAFQTAYLSLGGLGERVLGFCQLYLSEKDYPPGYAFDVEAMNFPTSGLCFAGLVS</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-outside">MIDPPRATVPDAVLKCRTAGIRVIMVTGDHPITAKAIAASVGIISEGSETVEDIAARLRVPVDQVNRKDARACVINGMQLKDMDPSELVEALRTHPEMVFARTSPQQKLVIVESCQRLGA</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820       830       840</span>
+<span class="topo-line"><span class="topo-outside">IVAVTGDGVNDSPALKKADIGVAMGIAGSDAAKNAADMILLDDNFASIVTGVEQGRLIFDNLKKS</span><span class="topo-membrane">IAYTLTKNIPELTPYLI</span><span class="topo-inside">YITVSVPLPL</span><span class="topo-membrane">GCITILFIELCTDIFPSVS</span><span class="topo-outside">LAYEKAESD</span></span>
+<span class="topo-ruler">       850       860       870       880       890       900       910       920       930       940       950       960</span>
+<span class="topo-line"><span class="topo-outside">IMHLRPRNPKRDRLVNEP</span><span class="topo-membrane">LAAYSYFQIGAIQSFAGF</span><span class="topo-inside">TDYFTAMAQEGWFPLLCVGLRPQWENHHLQDLQDSYGQEWTFGQRLYQQYTCYTVF</span><span class="topo-membrane">FISIEMCQIADVLIRK</span><span class="topo-outside">TRRLSAFQQGFF</span></span>
+<span class="topo-ruler">       970       980       990      1000      1010      1020      1030    </span>
+<span class="topo-line"><span class="topo-outside">RNR</span><span class="topo-membrane">ILVIAIVFQVCIGCFLC</span><span class="topo-inside">YCPGMPNIFNFMPIRFQWWLVP</span><span class="topo-membrane">MPFSLLIFVYDEIRKLG</span><span class="topo-outside">VRCCPGSWWDQELYY</span></span>
+<details class="topo-details"><summary>Topology coordinates (22 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2563,6 +2608,7 @@ The gastric H+,K+-[F1-ATPase from Trypanosoma brucei](/xray-mp-wiki/proteins/pum
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2578,11 +2624,13 @@ The gastric H+,K+-[F1-ATPase from Trypanosoma brucei](/xray-mp-wiki/proteins/pum
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAALQEKKSCSQRMEEFQRYCWNPDTGQM</span><span class="topo-outside">LGRTL</span><span class="topo-membrane">SRWVWISLYYVAFYVVMSGIF</span><span class="topo-inside">ALCIY</span></span>
-<span class="topo-line"><span class="topo-inside">VLMRTIDPYTPDYQDQLKSPGVTLRPDVYGEKGLDISYNVSDSTTWAGLAHTLHRFLAGY</span></span>
-<span class="topo-line"><span class="topo-inside">SPAAQEGSINCTSEKYFFQESFLAPNHTKFSCKFTADMLQNCSGRPDPTFGFAEGKPCFI</span></span>
-<span class="topo-line"><span class="topo-inside">IKMNRIVKFLPGNSTAPRVDCAFLDQPRDGPPLQVEYFPANGTYSLHYFPYYGKKAQPHY</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAALQEKKSCSQRMEEFQRYCWNPDTGQM</span><span class="topo-outside">LGRTL</span><span class="topo-membrane">SRWVWISLYYVAFYVVMSGIF</span><span class="topo-inside">ALCIYVLMRTIDPYTPDYQDQLKSPGVTLRPDVYGEKGLDISYNVSDSTTWAGLAHTLHRFLAGY</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">SPAAQEGSINCTSEKYFFQESFLAPNHTKFSCKFTADMLQNCSGRPDPTFGFAEGKPCFIIKMNRIVKFLPGNSTAPRVDCAFLDQPRDGPPLQVEYFPANGTYSLHYFPYYGKKAQPHY</span></span>
+<span class="topo-ruler">       250       260       270       280       290</span>
 <span class="topo-line"><span class="topo-inside">SNPLVAAKLLNVPRNRDVVIVCKILAEHVSFDNPHDPYEGKVEFKLKIQK</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2622,6 +2670,7 @@ The gastric H+,K+-[F1-ATPase from Trypanosoma brucei](/xray-mp-wiki/proteins/pum
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2637,24 +2686,25 @@ The gastric H+,K+-[F1-ATPase from Trypanosoma brucei](/xray-mp-wiki/proteins/pum
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGKAENYELYQVELGPGPSGDMAAKMSKKKAGRGGGKRKEKLENMKKEME</span><span class="topo-outside">INDHQLSVAE</span></span>
-<span class="topo-line"><span class="topo-outside">LEQKYQTSATKGLSASLAAELLLRDGPNALRPPRGTPEYVKFARQLAGGL</span><span class="topo-membrane">QCLMWVAAAI</span></span>
-<span class="topo-line"><span class="topo-membrane">CLIAFAI</span><span class="topo-inside">QASEGDLTT</span><span class="topo-membrane">DDNLYLALALIAVVVVT</span><span class="topo-outside">GCFGYYQEFKSTNIIASFKNLVPQQAT</span></span>
-<span class="topo-line"><span class="topo-outside">VIRDGDKFQINADQLVVGDLVEMKGGDRVPADIRILQAQGCKVDNSSLTGESEPQTRSPE</span></span>
-<span class="topo-line"><span class="topo-outside">CTHESPLETRNIAFFSTMCLEGTAQGLVVNTGDRTIIGRIASLASGVENEKTPIAIEIEH</span></span>
-<span class="topo-line"><span class="topo-outside">FV</span><span class="topo-membrane">DIIAGLAILFGATFFIVA</span><span class="topo-inside">MCIGYTFLRA</span><span class="topo-membrane">MVFFMAIVVAYVPEGLLAT</span><span class="topo-outside">VTVCLSLTAKR</span></span>
-<span class="topo-line"><span class="topo-outside">LASKNCVVKNLEAVETLGSTSVICSDKTGTLTQNRMTVSHLWFDNHIHSADTTEDQSGQT</span></span>
-<span class="topo-line"><span class="topo-outside">FDQSSETWRALCRVLTLCNRAAFKSGQDAVPVPKRIVIGDASETALLKFSELTLGNAMGY</span></span>
-<span class="topo-line"><span class="topo-outside">RERFPKVCEIPFNSTNKFQLSIHTLEDPRDPRHVLVMKGAPERVLERCSSILIKGQELPL</span></span>
-<span class="topo-line"><span class="topo-outside">DEQWREAFQTAYLSLGGLGERVLGFCQLYLSEKDYPPGYAFDVEAMNFPTSGLCFAGLVS</span></span>
-<span class="topo-line"><span class="topo-outside">MIDPPRATVPDAVLKCRTAGIRVIMVTGDHPITAKAIAASVGIISEGSETVEDIAARLRV</span></span>
-<span class="topo-line"><span class="topo-outside">PVDQVNRKDARACVINGMQLKDMDPSELVEALRTHPEMVFARTSPQQKLVIVESCQRLGA</span></span>
-<span class="topo-line"><span class="topo-outside">IVAVTGDGVNDSPALKKADIGVAMGIAGSDAAKNAADMILLDDNFASIVTGVEQGRLIFD</span></span>
-<span class="topo-line"><span class="topo-outside">NLKKSI</span><span class="topo-membrane">AYTLTKNIPELTPYLI</span><span class="topo-inside">YITVSVPLP</span><span class="topo-membrane">LGCITILFIELCTDIFPS</span><span class="topo-outside">VSLAYEKAESD</span></span>
-<span class="topo-line"><span class="topo-outside">IMHLRPRNPKRDRLVNE</span><span class="topo-membrane">PLAAYSYFQIGAIQSFAGFTDY</span><span class="topo-inside">FTAMAQEGWFPLLCVGLRPQW</span></span>
-<span class="topo-line"><span class="topo-inside">ENHHLQDLQDSYGQEWTFGQRLYQQYTCY</span><span class="topo-membrane">TVFFISIEMCQIADVLIR</span><span class="topo-outside">KTRRLSAFQQGFF</span></span>
-<span class="topo-line"><span class="topo-outside">RNRIL</span><span class="topo-membrane">VIAIVFQVCIGCFLCYCP</span><span class="topo-inside">GMPNIFNFMPIRF</span><span class="topo-membrane">QWWLVPMPFSLLIFVYDEIR</span><span class="topo-outside">KLGV</span></span>
-<span class="topo-line"><span class="topo-outside">RCCPGSWWDQELYY</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGKAENYELYQVELGPGPSGDMAAKMSKKKAGRGGGKRKEKLENMKKEME</span><span class="topo-outside">INDHQLSVAELEQKYQTSATKGLSASLAAELLLRDGPNALRPPRGTPEYVKFARQLAGGL</span><span class="topo-membrane">QCLMWVAAAI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">CLIAFAI</span><span class="topo-inside">QASEGDLTT</span><span class="topo-membrane">DDNLYLALALIAVVVVT</span><span class="topo-outside">GCFGYYQEFKSTNIIASFKNLVPQQATVIRDGDKFQINADQLVVGDLVEMKGGDRVPADIRILQAQGCKVDNSSLTGESEPQTRSPE</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">CTHESPLETRNIAFFSTMCLEGTAQGLVVNTGDRTIIGRIASLASGVENEKTPIAIEIEHFV</span><span class="topo-membrane">DIIAGLAILFGATFFIVA</span><span class="topo-inside">MCIGYTFLRA</span><span class="topo-membrane">MVFFMAIVVAYVPEGLLAT</span><span class="topo-outside">VTVCLSLTAKR</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">LASKNCVVKNLEAVETLGSTSVICSDKTGTLTQNRMTVSHLWFDNHIHSADTTEDQSGQTFDQSSETWRALCRVLTLCNRAAFKSGQDAVPVPKRIVIGDASETALLKFSELTLGNAMGY</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">RERFPKVCEIPFNSTNKFQLSIHTLEDPRDPRHVLVMKGAPERVLERCSSILIKGQELPLDEQWREAFQTAYLSLGGLGERVLGFCQLYLSEKDYPPGYAFDVEAMNFPTSGLCFAGLVS</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-outside">MIDPPRATVPDAVLKCRTAGIRVIMVTGDHPITAKAIAASVGIISEGSETVEDIAARLRVPVDQVNRKDARACVINGMQLKDMDPSELVEALRTHPEMVFARTSPQQKLVIVESCQRLGA</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820       830       840</span>
+<span class="topo-line"><span class="topo-outside">IVAVTGDGVNDSPALKKADIGVAMGIAGSDAAKNAADMILLDDNFASIVTGVEQGRLIFDNLKKSI</span><span class="topo-membrane">AYTLTKNIPELTPYLI</span><span class="topo-inside">YITVSVPLP</span><span class="topo-membrane">LGCITILFIELCTDIFPS</span><span class="topo-outside">VSLAYEKAESD</span></span>
+<span class="topo-ruler">       850       860       870       880       890       900       910       920       930       940       950       960</span>
+<span class="topo-line"><span class="topo-outside">IMHLRPRNPKRDRLVNE</span><span class="topo-membrane">PLAAYSYFQIGAIQSFAGFTDY</span><span class="topo-inside">FTAMAQEGWFPLLCVGLRPQWENHHLQDLQDSYGQEWTFGQRLYQQYTCY</span><span class="topo-membrane">TVFFISIEMCQIADVLIR</span><span class="topo-outside">KTRRLSAFQQGFF</span></span>
+<span class="topo-ruler">       970       980       990      1000      1010      1020      1030    </span>
+<span class="topo-line"><span class="topo-outside">RNRIL</span><span class="topo-membrane">VIAIVFQVCIGCFLCYCP</span><span class="topo-inside">GMPNIFNFMPIRF</span><span class="topo-membrane">QWWLVPMPFSLLIFVYDEIR</span><span class="topo-outside">KLGVRCCPGSWWDQELYY</span></span>
+<details class="topo-details"><summary>Topology coordinates (22 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2820,6 +2870,7 @@ The gastric H+,K+-[F1-ATPase from Trypanosoma brucei](/xray-mp-wiki/proteins/pum
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2835,11 +2886,13 @@ The gastric H+,K+-[F1-ATPase from Trypanosoma brucei](/xray-mp-wiki/proteins/pum
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAALQEKKSCSQRMEEFQRYCWNPDTGQM</span><span class="topo-outside">LGRTL</span><span class="topo-membrane">SRWVWISLYYVAFYVVMSGIFALC</span><span class="topo-inside">IY</span></span>
-<span class="topo-line"><span class="topo-inside">VLMRTIDPYTPDYQDQLKSPGVTLRPDVYGEKGLDISYNVSDSTTWAGLAHTLHRFLAGY</span></span>
-<span class="topo-line"><span class="topo-inside">SPAAQEGSINCTSEKYFFQESFLAPNHTKFSCKFTADMLQNCSGRPDPTFGFAEGKPCFI</span></span>
-<span class="topo-line"><span class="topo-inside">IKMNRIVKFLPGNSTAPRVDCAFLDQPRDGPPLQVEYFPANGTYSLHYFPYYGKKAQPHY</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAALQEKKSCSQRMEEFQRYCWNPDTGQM</span><span class="topo-outside">LGRTL</span><span class="topo-membrane">SRWVWISLYYVAFYVVMSGIFALC</span><span class="topo-inside">IYVLMRTIDPYTPDYQDQLKSPGVTLRPDVYGEKGLDISYNVSDSTTWAGLAHTLHRFLAGY</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">SPAAQEGSINCTSEKYFFQESFLAPNHTKFSCKFTADMLQNCSGRPDPTFGFAEGKPCFIIKMNRIVKFLPGNSTAPRVDCAFLDQPRDGPPLQVEYFPANGTYSLHYFPYYGKKAQPHY</span></span>
+<span class="topo-ruler">       250       260       270       280       290</span>
 <span class="topo-line"><span class="topo-inside">SNPLVAAKLLNVPRNRDVVIVCKILAEHVSFDNPHDPYEGKVEFKLKIQK</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2879,6 +2932,7 @@ The gastric H+,K+-[F1-ATPase from Trypanosoma brucei](/xray-mp-wiki/proteins/pum
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

@@ -134,14 +134,15 @@ Lysophosphatidic acid receptor 6 (LPA6, also known as P2Y5 or LPAR6) is a class 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GMYNTSLEMEMLNVSNVTHCPKN</span><span class="topo-inside">DNFKYPLYS</span><span class="topo-membrane">MVFSIVFMVGLITNVAAMYIFMCS</span><span class="topo-outside">LKLR</span></span>
-<span class="topo-line"><span class="topo-outside">N</span><span class="topo-membrane">ETTTYMMNLVVSDLLFVLTLP</span><span class="topo-inside">LRVFYFVQQNWPFGSLLCKLSV</span><span class="topo-membrane">SLFYTNMYGSILFLTC</span></span>
-<span class="topo-line"><span class="topo-membrane">ISVDRF</span><span class="topo-outside">LAIVYPFRSRGL</span><span class="topo-membrane">RTKRNAKIVCAAVWVLVLSGSLP</span><span class="topo-inside">TGFMLNSTNKLENNSISCF</span></span>
-<span class="topo-line"><span class="topo-unknown">ENFSSK</span><span class="topo-inside">EWKSHLSK</span><span class="topo-membrane">VVIFIETVGFLIPLMLNVVCSAM</span><span class="topo-outside">VLQTLRRPNTVNIFEMLRIDNGL</span></span>
-<span class="topo-line"><span class="topo-outside">RLKIYKNTEGYYTIGIGHLLTKSPSLNAAKSELDKAIGRNTNGVITKDEAEKLFNQDVDA</span></span>
-<span class="topo-line"><span class="topo-outside">AVRGILRNAKLKPVYDSLDAVRRAALINMVFQMGETGVAGFTNSLRMLQQKRWDEAAVNL</span></span>
-<span class="topo-line"><span class="topo-outside">AKSRWYNQTPNRAKRVITTFRTGTWDAYLNKKKIL</span><span class="topo-membrane">RMIIVHLFIFCFCFIPYNVNLVF</span><span class="topo-inside">YS</span></span>
-<span class="topo-line"><span class="topo-inside">LVRTNTLKGCAAESVVRT</span><span class="topo-membrane">IYPIALCIAVSNCCFDPIVYYFTS</span><span class="topo-outside">ETIQNSASSEDLYFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GMYNTSLEMEMLNVSNVTHCPKN</span><span class="topo-inside">DNFKYPLYS</span><span class="topo-membrane">MVFSIVFMVGLITNVAAMYIFMCS</span><span class="topo-outside">LKLRN</span><span class="topo-membrane">ETTTYMMNLVVSDLLFVLTLP</span><span class="topo-inside">LRVFYFVQQNWPFGSLLCKLSV</span><span class="topo-membrane">SLFYTNMYGSILFLTC</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">ISVDRF</span><span class="topo-outside">LAIVYPFRSRGL</span><span class="topo-membrane">RTKRNAKIVCAAVWVLVLSGSLP</span><span class="topo-inside">TGFMLNSTNKLENNSISCF</span><span class="topo-unknown">ENFSSK</span><span class="topo-inside">EWKSHLSK</span><span class="topo-membrane">VVIFIETVGFLIPLMLNVVCSAM</span><span class="topo-outside">VLQTLRRPNTVNIFEMLRIDNGL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">RLKIYKNTEGYYTIGIGHLLTKSPSLNAAKSELDKAIGRNTNGVITKDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVFQMGETGVAGFTNSLRMLQQKRWDEAAVNL</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       </span>
+<span class="topo-line"><span class="topo-outside">AKSRWYNQTPNRAKRVITTFRTGTWDAYLNKKKIL</span><span class="topo-membrane">RMIIVHLFIFCFCFIPYNVNLVF</span><span class="topo-inside">YSLVRTNTLKGCAAESVVRT</span><span class="topo-membrane">IYPIALCIAVSNCCFDPIVYYFTS</span><span class="topo-outside">ETIQNSASSEDLYFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -279,6 +280,7 @@ Lysophosphatidic acid receptor 6 (LPA6, also known as P2Y5 or LPAR6) is a class 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

@@ -113,12 +113,13 @@ The zebrafish P2X4 receptor (zfP2X4) is a ligand-gated ion channel from Danio re
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GSSKKV</span><span class="topo-outside">GTL</span><span class="topo-membrane">NRFTQALVIAYVIGYVFVYNK</span><span class="topo-inside">GYQDTDTVLSSVTTKVKGIALTKTSELGER</span></span>
-<span class="topo-line"><span class="topo-inside">IWDVADYIIPPQEDGSFFVLTNMIITTNQTQSKCAENPTPASTCTSHRDCK</span><span class="topo-unknown">R</span><span class="topo-inside">GFNDARGD</span></span>
-<span class="topo-line"><span class="topo-inside">GVRTGRCVSYSASVKTCEVLSWCPLEKIVDPPNPPLLADAERFTVLIKNNIRYPKFNFNK</span></span>
-<span class="topo-line"><span class="topo-inside">RNILPNINSSYLTHCVFSRKTDPDCPIFRLGDIVGEAEEDFQIMAVRGGVMGVQIRWDCD</span></span>
-<span class="topo-line"><span class="topo-inside">LDMPQSWCVPRYTFRRLDNKDPDNNVAPGYNFRFAKYYKNSDGTETRTLIKGYGIRFDVM</span></span>
-<span class="topo-line"><span class="topo-inside">VFGQAG</span><span class="topo-membrane">KFNIIPTLLNIGAGLALLGLVNVICDWIV</span><span class="topo-unknown">LTFMKRKQHYKEQKYTYVDDF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GSSKKV</span><span class="topo-outside">GTL</span><span class="topo-membrane">NRFTQALVIAYVIGYVFVYNK</span><span class="topo-inside">GYQDTDTVLSSVTTKVKGIALTKTSELGERIWDVADYIIPPQEDGSFFVLTNMIITTNQTQSKCAENPTPASTCTSHRDCK</span><span class="topo-unknown">R</span><span class="topo-inside">GFNDARGD</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">GVRTGRCVSYSASVKTCEVLSWCPLEKIVDPPNPPLLADAERFTVLIKNNIRYPKFNFNKRNILPNINSSYLTHCVFSRKTDPDCPIFRLGDIVGEAEEDFQIMAVRGGVMGVQIRWDCD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350      </span>
+<span class="topo-line"><span class="topo-inside">LDMPQSWCVPRYTFRRLDNKDPDNNVAPGYNFRFAKYYKNSDGTETRTLIKGYGIRFDVMVFGQAG</span><span class="topo-membrane">KFNIIPTLLNIGAGLALLGLVNVICDWIV</span><span class="topo-unknown">LTFMKRKQHYKEQKYTYVDDF</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -179,6 +180,7 @@ The zebrafish P2X4 receptor (zfP2X4) is a ligand-gated ion channel from Danio re
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -194,12 +196,13 @@ The zebrafish P2X4 receptor (zfP2X4) is a ligand-gated ion channel from Danio re
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GSSKKV</span><span class="topo-outside">GTL</span><span class="topo-membrane">NRFTQALVIAYVIGYVFVYNK</span><span class="topo-inside">GYQDTDTVLSSVTTKVKGIALTKTSELGER</span></span>
-<span class="topo-line"><span class="topo-inside">IWDVADYIIPPQEDGSFFVLTNMIITTNQTQSKCAENPTPASTCTSHRDCK</span><span class="topo-unknown">R</span><span class="topo-inside">GFNDARGD</span></span>
-<span class="topo-line"><span class="topo-inside">GVRTGRCVSYSASVKTCEVLSWCPLEKIVDPPNPPLLADAERFTVLIKNNIRYPKFNFNK</span></span>
-<span class="topo-line"><span class="topo-inside">RNILPNINSSYLTHCVFSRKTDPDCPIFRLGDIVGEAEEDFQIMAVRGGVMGVQIRWDCD</span></span>
-<span class="topo-line"><span class="topo-inside">LDMPQSWCVPRYTFRRLDNKDPDNNVAPGYNFRFAKYYKNSDGTETRTLIKGYGIRFDVM</span></span>
-<span class="topo-line"><span class="topo-inside">VFGQAG</span><span class="topo-membrane">KFNIIPTLLNIGAGLALLGLVNVICDWIV</span><span class="topo-unknown">LTFMKRKQHYKEQKYTYVDDF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GSSKKV</span><span class="topo-outside">GTL</span><span class="topo-membrane">NRFTQALVIAYVIGYVFVYNK</span><span class="topo-inside">GYQDTDTVLSSVTTKVKGIALTKTSELGERIWDVADYIIPPQEDGSFFVLTNMIITTNQTQSKCAENPTPASTCTSHRDCK</span><span class="topo-unknown">R</span><span class="topo-inside">GFNDARGD</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">GVRTGRCVSYSASVKTCEVLSWCPLEKIVDPPNPPLLADAERFTVLIKNNIRYPKFNFNKRNILPNINSSYLTHCVFSRKTDPDCPIFRLGDIVGEAEEDFQIMAVRGGVMGVQIRWDCD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350      </span>
+<span class="topo-line"><span class="topo-inside">LDMPQSWCVPRYTFRRLDNKDPDNNVAPGYNFRFAKYYKNSDGTETRTLIKGYGIRFDVMVFGQAG</span><span class="topo-membrane">KFNIIPTLLNIGAGLALLGLVNVICDWIV</span><span class="topo-unknown">LTFMKRKQHYKEQKYTYVDDF</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -260,6 +263,7 @@ The zebrafish P2X4 receptor (zfP2X4) is a ligand-gated ion channel from Danio re
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -275,12 +279,13 @@ The zebrafish P2X4 receptor (zfP2X4) is a ligand-gated ion channel from Danio re
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GSSKKV</span><span class="topo-outside">GTL</span><span class="topo-membrane">NRFTQALVIAYVIGYVFVYNK</span><span class="topo-inside">GYQDTDTVLSSVTTKVKGIALTKTSELGER</span></span>
-<span class="topo-line"><span class="topo-inside">IWDVADYIIPPQEDGSFFVLTNMIITTNQTQSKCAENPTPASTCTSHRDCK</span><span class="topo-unknown">R</span><span class="topo-inside">GFNDARGD</span></span>
-<span class="topo-line"><span class="topo-inside">GVRTGRCVSYSASVKTCEVLSWCPLEKIVDPPNPPLLADAERFTVLIKNNIRYPKFNFNK</span></span>
-<span class="topo-line"><span class="topo-inside">RNILPNINSSYLTHCVFSRKTDPDCPIFRLGDIVGEAEEDFQIMAVRGGVMGVQIRWDCD</span></span>
-<span class="topo-line"><span class="topo-inside">LDMPQSWCVPRYTFRRLDNKDPDNNVAPGYNFRFAKYYKNSDGTETRTLIKGYGIRFDVM</span></span>
-<span class="topo-line"><span class="topo-inside">VFGQAG</span><span class="topo-membrane">KFNIIPTLLNIGAGLALLGLVNVICDWIV</span><span class="topo-unknown">LTFMKRKQHYKEQKYTYVDDF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GSSKKV</span><span class="topo-outside">GTL</span><span class="topo-membrane">NRFTQALVIAYVIGYVFVYNK</span><span class="topo-inside">GYQDTDTVLSSVTTKVKGIALTKTSELGERIWDVADYIIPPQEDGSFFVLTNMIITTNQTQSKCAENPTPASTCTSHRDCK</span><span class="topo-unknown">R</span><span class="topo-inside">GFNDARGD</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">GVRTGRCVSYSASVKTCEVLSWCPLEKIVDPPNPPLLADAERFTVLIKNNIRYPKFNFNKRNILPNINSSYLTHCVFSRKTDPDCPIFRLGDIVGEAEEDFQIMAVRGGVMGVQIRWDCD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350      </span>
+<span class="topo-line"><span class="topo-inside">LDMPQSWCVPRYTFRRLDNKDPDNNVAPGYNFRFAKYYKNSDGTETRTLIKGYGIRFDVMVFGQAG</span><span class="topo-membrane">KFNIIPTLLNIGAGLALLGLVNVICDWIV</span><span class="topo-unknown">LTFMKRKQHYKEQKYTYVDDF</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -341,6 +346,7 @@ The zebrafish P2X4 receptor (zfP2X4) is a ligand-gated ion channel from Danio re
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -356,12 +362,13 @@ The zebrafish P2X4 receptor (zfP2X4) is a ligand-gated ion channel from Danio re
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GSSKKV</span><span class="topo-outside">GTL</span><span class="topo-membrane">NRFTQALVIAYVIGYVFVYNK</span><span class="topo-inside">GYQDTDTVLSSVTTKVKGIALTKTSELGER</span></span>
-<span class="topo-line"><span class="topo-inside">IWDVADYIIPPQEDGSFFVLTNMIITTNQTQSKCAENPTPASTCTSHRDCK</span><span class="topo-unknown">R</span><span class="topo-inside">GFNDARGD</span></span>
-<span class="topo-line"><span class="topo-inside">GVRTGRCVSYSASVKTCEVLSWCPLEKIVDPPNPPLLADAERFTVLIKNNIRYPKFNFNK</span></span>
-<span class="topo-line"><span class="topo-inside">RNILPNINSSYLTHCVFSRKTDPDCPIFRLGDIVGEAEEDFQIMAVRGGVMGVQIRWDCD</span></span>
-<span class="topo-line"><span class="topo-inside">LDMPQSWCVPRYTFRRLDNKDPDNNVAPGYNFRFAKYYKNSDGTETRTLIKGYGIRFDVM</span></span>
-<span class="topo-line"><span class="topo-inside">VFGQAG</span><span class="topo-membrane">KFNIIPTLLNIGAGLALLGLVNVICDWIV</span><span class="topo-unknown">LTFMKRKQHYKEQKYTYVDDF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GSSKKV</span><span class="topo-outside">GTL</span><span class="topo-membrane">NRFTQALVIAYVIGYVFVYNK</span><span class="topo-inside">GYQDTDTVLSSVTTKVKGIALTKTSELGERIWDVADYIIPPQEDGSFFVLTNMIITTNQTQSKCAENPTPASTCTSHRDCK</span><span class="topo-unknown">R</span><span class="topo-inside">GFNDARGD</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">GVRTGRCVSYSASVKTCEVLSWCPLEKIVDPPNPPLLADAERFTVLIKNNIRYPKFNFNKRNILPNINSSYLTHCVFSRKTDPDCPIFRLGDIVGEAEEDFQIMAVRGGVMGVQIRWDCD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350      </span>
+<span class="topo-line"><span class="topo-inside">LDMPQSWCVPRYTFRRLDNKDPDNNVAPGYNFRFAKYYKNSDGTETRTLIKGYGIRFDVMVFGQAG</span><span class="topo-membrane">KFNIIPTLLNIGAGLALLGLVNVICDWIV</span><span class="topo-unknown">LTFMKRKQHYKEQKYTYVDDF</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -422,6 +429,7 @@ The zebrafish P2X4 receptor (zfP2X4) is a ligand-gated ion channel from Danio re
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -437,12 +445,13 @@ The zebrafish P2X4 receptor (zfP2X4) is a ligand-gated ion channel from Danio re
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GSSKKV</span><span class="topo-outside">GTL</span><span class="topo-membrane">NRFTQALVIAYVIGYVFVYNK</span><span class="topo-inside">GYQDTDTVLSSVTTKVKGIALTKTSELGER</span></span>
-<span class="topo-line"><span class="topo-inside">IWDVADYIIPPQEDGSFFVLTNMIITTNQTQSKCAENPTPASTCTSHRDCK</span><span class="topo-unknown">R</span><span class="topo-inside">GFNDARGD</span></span>
-<span class="topo-line"><span class="topo-inside">GVRTGRCVSYSASVKTCEVLSWCPLEKIVDPPNPPLLADAERFTVLIKNNIRYPKFNFNK</span></span>
-<span class="topo-line"><span class="topo-inside">RNILPNINSSYLTHCVFSRKTDPDCPIFRLGDIVGEAEEDFQIMAVRGGVMGVQIRWDCD</span></span>
-<span class="topo-line"><span class="topo-inside">LDMPQSWCVPRYTFRRLDNKDPDNNVAPGYNFRFAKYYKNSDGTETRTLIKGYGIRFDVM</span></span>
-<span class="topo-line"><span class="topo-inside">VFGQAG</span><span class="topo-membrane">KFNIIPTLLNIGAGLALLGLVNVICDWIV</span><span class="topo-unknown">LTFMKRKQHYKEQKYTYVDDF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GSSKKV</span><span class="topo-outside">GTL</span><span class="topo-membrane">NRFTQALVIAYVIGYVFVYNK</span><span class="topo-inside">GYQDTDTVLSSVTTKVKGIALTKTSELGERIWDVADYIIPPQEDGSFFVLTNMIITTNQTQSKCAENPTPASTCTSHRDCK</span><span class="topo-unknown">R</span><span class="topo-inside">GFNDARGD</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">GVRTGRCVSYSASVKTCEVLSWCPLEKIVDPPNPPLLADAERFTVLIKNNIRYPKFNFNKRNILPNINSSYLTHCVFSRKTDPDCPIFRLGDIVGEAEEDFQIMAVRGGVMGVQIRWDCD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350      </span>
+<span class="topo-line"><span class="topo-inside">LDMPQSWCVPRYTFRRLDNKDPDNNVAPGYNFRFAKYYKNSDGTETRTLIKGYGIRFDVMVFGQAG</span><span class="topo-membrane">KFNIIPTLLNIGAGLALLGLVNVICDWIV</span><span class="topo-unknown">LTFMKRKQHYKEQKYTYVDDF</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -503,6 +512,7 @@ The zebrafish P2X4 receptor (zfP2X4) is a ligand-gated ion channel from Danio re
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -518,12 +528,13 @@ The zebrafish P2X4 receptor (zfP2X4) is a ligand-gated ion channel from Danio re
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GSSKKV</span><span class="topo-outside">GTL</span><span class="topo-membrane">NRFTQALVIAYVIGYVFVYNK</span><span class="topo-inside">GYQDTDTVLSSVTTKVKGIALTKTSELGER</span></span>
-<span class="topo-line"><span class="topo-inside">IWDVADYIIPPQEDGSFFVLTNMIITTNQTQSKCAENPTPASTCTSHRDCK</span><span class="topo-unknown">R</span><span class="topo-inside">GFNDARGD</span></span>
-<span class="topo-line"><span class="topo-inside">GVRTGRCVSYSASVKTCEVLSWCPLEKIVDPPNPPLLADAERFTVLIKNNIRYPKFNFNK</span></span>
-<span class="topo-line"><span class="topo-inside">RNILPNINSSYLTHCVFSRKTDPDCPIFRLGDIVGEAEEDFQIMAVRGGVMGVQIRWDCD</span></span>
-<span class="topo-line"><span class="topo-inside">LDMPQSWCVPRYTFRRLDNKDPDNNVAPGYNFRFAKYYKNSDGTETRTLIKGYGIRFDVM</span></span>
-<span class="topo-line"><span class="topo-inside">VFGQAG</span><span class="topo-membrane">KFNIIPTLLNIGAGLALLGLVNVICDWIV</span><span class="topo-unknown">LTFMKRKQHYKEQKYTYVDDF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GSSKKV</span><span class="topo-outside">GTL</span><span class="topo-membrane">NRFTQALVIAYVIGYVFVYNK</span><span class="topo-inside">GYQDTDTVLSSVTTKVKGIALTKTSELGERIWDVADYIIPPQEDGSFFVLTNMIITTNQTQSKCAENPTPASTCTSHRDCK</span><span class="topo-unknown">R</span><span class="topo-inside">GFNDARGD</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">GVRTGRCVSYSASVKTCEVLSWCPLEKIVDPPNPPLLADAERFTVLIKNNIRYPKFNFNKRNILPNINSSYLTHCVFSRKTDPDCPIFRLGDIVGEAEEDFQIMAVRGGVMGVQIRWDCD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350      </span>
+<span class="topo-line"><span class="topo-inside">LDMPQSWCVPRYTFRRLDNKDPDNNVAPGYNFRFAKYYKNSDGTETRTLIKGYGIRFDVMVFGQAG</span><span class="topo-membrane">KFNIIPTLLNIGAGLALLGLVNVICDWIV</span><span class="topo-unknown">LTFMKRKQHYKEQKYTYVDDF</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -584,6 +595,7 @@ The zebrafish P2X4 receptor (zfP2X4) is a ligand-gated ion channel from Danio re
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

@@ -86,10 +86,11 @@ The human sigma-1 receptor (SIGMAR1) is an ER-resident single-pass transmembrane
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GPGSMQWAVGR</span><span class="topo-outside">RWAW</span><span class="topo-membrane">AALLLAVAAVLTQVVWLWLGTQ</span><span class="topo-inside">SFVFQREEIAQLARQYAGLDHEL</span></span>
-<span class="topo-line"><span class="topo-inside">AFSRLIVELRRLHPGHVLPDEELQWVFVNAGGWMGAMCLLHASLSEYVLLFGTALGSRGH</span></span>
-<span class="topo-line"><span class="topo-inside">SGRYWAEISDTIISGTFHQWREGTTKSEVFYPGETVVHGPGEATAVEWGPNTWMVEYGRG</span></span>
-<span class="topo-line"><span class="topo-inside">VIPSTLAFALADTVFSTQD</span><span class="topo-unknown">FLTLFYTLRSYARGLRLELTTYL</span><span class="topo-inside">F</span><span class="topo-unknown">GQDP</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GPGSMQWAVGR</span><span class="topo-outside">RWAW</span><span class="topo-membrane">AALLLAVAAVLTQVVWLWLGTQ</span><span class="topo-inside">SFVFQREEIAQLARQYAGLDHELAFSRLIVELRRLHPGHVLPDEELQWVFVNAGGWMGAMCLLHASLSEYVLLFGTALGSRGH</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       </span>
+<span class="topo-line"><span class="topo-inside">SGRYWAEISDTIISGTFHQWREGTTKSEVFYPGETVVHGPGEATAVEWGPNTWMVEYGRGVIPSTLAFALADTVFSTQD</span><span class="topo-unknown">FLTLFYTLRSYARGLRLELTTYL</span><span class="topo-inside">F</span><span class="topo-unknown">GQDP</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -136,6 +137,7 @@ The human sigma-1 receptor (SIGMAR1) is an ER-resident single-pass transmembrane
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -151,10 +153,11 @@ The human sigma-1 receptor (SIGMAR1) is an ER-resident single-pass transmembrane
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GPGSM</span><span class="topo-outside">QWAVGRRW</span><span class="topo-membrane">AWAALLLAVAAVLTQVVWLWLG</span><span class="topo-inside">TQSFVFQREEIAQLARQYAGLDHEL</span></span>
-<span class="topo-line"><span class="topo-inside">AFSRLIVELRRLHPGHVLPDEELQWVFVNAGGWMGAMCLLHASLSEYVLLFGTALGSRGH</span></span>
-<span class="topo-line"><span class="topo-inside">SGRYWAEISDTIISGTFHQWREGTTKSEVFYPGETVVHGPGEATAVEWGPNTWMVEYGRG</span></span>
-<span class="topo-line"><span class="topo-inside">VIPSTLAFALADTVFSTQDFLTLFYTLRSYARGLRLELTTYL</span><span class="topo-unknown">FGQDP</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GPGSM</span><span class="topo-outside">QWAVGRRW</span><span class="topo-membrane">AWAALLLAVAAVLTQVVWLWLG</span><span class="topo-inside">TQSFVFQREEIAQLARQYAGLDHELAFSRLIVELRRLHPGHVLPDEELQWVFVNAGGWMGAMCLLHASLSEYVLLFGTALGSRGH</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       </span>
+<span class="topo-line"><span class="topo-inside">SGRYWAEISDTIISGTFHQWREGTTKSEVFYPGETVVHGPGEATAVEWGPNTWMVEYGRGVIPSTLAFALADTVFSTQDFLTLFYTLRSYARGLRLELTTYL</span><span class="topo-unknown">FGQDP</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -187,6 +190,7 @@ The human sigma-1 receptor (SIGMAR1) is an ER-resident single-pass transmembrane
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

@@ -165,14 +165,15 @@ Acid-sensing ion channel 1a (ASIC1a) is a proton-gated, sodium-selective ion cha
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GQPVSIQAFASSSTLHGISHIFSYERLSLKR</span><span class="topo-outside">VVWALC</span><span class="topo-membrane">FMGSLALLALVCTNRIQYYFLYP</span></span>
-<span class="topo-line"><span class="topo-inside">HVTKLDEVAATRLTFPAVTFCNLNEFRFSRVTKNDLYHAGELLALLNNRYEIPDTQTADE</span></span>
-<span class="topo-line"><span class="topo-inside">KQLEILQDKANFRNFKPKPFNMLEFYDRAGHDIREMLLSCFFRGEQCSPEDFKVVFTRYG</span></span>
-<span class="topo-line"><span class="topo-inside">KCYTFNAGQDGKPRLITMKGGTGNGLEIMLDIQQDEYLPVWGETDETSFEAGIKVQIHSQ</span></span>
-<span class="topo-line"><span class="topo-inside">DEPPLIDQLGFGVAPGFQTFVSCQEQRLIYLPPPWGDCKATTG</span><span class="topo-unknown">DS</span><span class="topo-inside">EFYDTYSITACRIDC</span></span>
-<span class="topo-line"><span class="topo-inside">ETRYLVENCNCRMVHMPGDAPYCTPEQYKECADPALDFLVEKDNEYCVCEMPCNVTRYGK</span></span>
-<span class="topo-line"><span class="topo-inside">ELSMVKIPSKASAKYLAKKYNKSEQYIGENILVLDIFFEALNYETIEQKKA</span><span class="topo-membrane">YEVAGLLGD</span></span>
-<span class="topo-line"><span class="topo-membrane">IGGQMGLFIGA</span><span class="topo-outside">SILTVLELFDYA</span><span class="topo-unknown">YEVIKHR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GQPVSIQAFASSSTLHGISHIFSYERLSLKR</span><span class="topo-outside">VVWALC</span><span class="topo-membrane">FMGSLALLALVCTNRIQYYFLYP</span><span class="topo-inside">HVTKLDEVAATRLTFPAVTFCNLNEFRFSRVTKNDLYHAGELLALLNNRYEIPDTQTADE</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">KQLEILQDKANFRNFKPKPFNMLEFYDRAGHDIREMLLSCFFRGEQCSPEDFKVVFTRYGKCYTFNAGQDGKPRLITMKGGTGNGLEIMLDIQQDEYLPVWGETDETSFEAGIKVQIHSQ</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">DEPPLIDQLGFGVAPGFQTFVSCQEQRLIYLPPPWGDCKATTG</span><span class="topo-unknown">DS</span><span class="topo-inside">EFYDTYSITACRIDCETRYLVENCNCRMVHMPGDAPYCTPEQYKECADPALDFLVEKDNEYCVCEMPCNVTRYGK</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450</span>
+<span class="topo-line"><span class="topo-inside">ELSMVKIPSKASAKYLAKKYNKSEQYIGENILVLDIFFEALNYETIEQKKA</span><span class="topo-membrane">YEVAGLLGDIGGQMGLFIGA</span><span class="topo-outside">SILTVLELFDYA</span><span class="topo-unknown">YEVIKHR</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -247,6 +248,7 @@ Acid-sensing ion channel 1a (ASIC1a) is a proton-gated, sodium-selective ion cha
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -262,7 +264,9 @@ Acid-sensing ion channel 1a (ASIC1a) is a proton-gated, sodium-selective ion cha
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40        50        60</span>
 <span class="topo-line"><span class="topo-inside">EIRPAFCYEDPPFFQKCGAFVDSYYFNRSRITCVHFFYGQCDVNQNHFTTMSECNRVCHG</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -281,6 +285,7 @@ Acid-sensing ion channel 1a (ASIC1a) is a proton-gated, sodium-selective ion cha
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -296,8 +301,9 @@ Acid-sensing ion channel 1a (ASIC1a) is a proton-gated, sodium-selective ion cha
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">NLNQFRLMIKCTNDRVWADFVDYGCYCVARDSNTPVDDLDRCCQAQKQCYDEAVKVHGCK</span></span>
-<span class="topo-line"><span class="topo-inside">PLVMFYSFECRYLASDLDCSGNNTKCRNFVCNCDRTATLCILTATYNRNNHKIDPSRC</span><span class="topo-unknown">Q</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110         </span>
+<span class="topo-line"><span class="topo-inside">NLNQFRLMIKCTNDRVWADFVDYGCYCVARDSNTPVDDLDRCCQAQKQCYDEAVKVHGCKPLVMFYSFECRYLASDLDCSGNNTKCRNFVCNCDRTATLCILTATYNRNNHKIDPSRC</span><span class="topo-unknown">Q</span></span>
+<details class="topo-details"><summary>Topology coordinates (2 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -323,6 +329,7 @@ Acid-sensing ion channel 1a (ASIC1a) is a proton-gated, sodium-selective ion cha
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -338,14 +345,15 @@ Acid-sensing ion channel 1a (ASIC1a) is a proton-gated, sodium-selective ion cha
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GQPVSIQAFASSSTLHGISHIFSYERLSLKR</span><span class="topo-outside">VVWALC</span><span class="topo-membrane">FMGSLALLALVCTNRIQYYFLYP</span></span>
-<span class="topo-line"><span class="topo-inside">HVTKLDEVAATRLTFPAVTFCNLNEFRFSRVTKNDLYHAGELLALLNNRYEIPDTQTADE</span></span>
-<span class="topo-line"><span class="topo-inside">KQLEILQDKANFRNFKPKPFNMLEFYDRAGHDIREMLLSCFFRGEQCSPEDFKVVFTRYG</span></span>
-<span class="topo-line"><span class="topo-inside">KCYTFNAGQDGKPRLITMKGGTGNGLEIMLDIQQDEYLPVWGETDETSFEAGIKVQIHSQ</span></span>
-<span class="topo-line"><span class="topo-inside">DEPPLIDQLGFGVAPGFQTFVSCQEQRLIYLPPPWGDCKATTG</span><span class="topo-unknown">DS</span><span class="topo-inside">EFYDTYSITACRIDC</span></span>
-<span class="topo-line"><span class="topo-inside">ETRYLVENCNCRMVHMPGDAPYCTPEQYKECADPALDFLVEKDNEYCVCEMPCNVTRYGK</span></span>
-<span class="topo-line"><span class="topo-inside">ELSMVKIPSKASAKYLAKKYNKSEQYIGENILVLDIFFEALNYETIEQKKA</span><span class="topo-membrane">YEVAGLLGD</span></span>
-<span class="topo-line"><span class="topo-membrane">IGGQMGLFIGA</span><span class="topo-outside">SILTVLELFDYA</span><span class="topo-unknown">YEVIKHR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GQPVSIQAFASSSTLHGISHIFSYERLSLKR</span><span class="topo-outside">VVWALC</span><span class="topo-membrane">FMGSLALLALVCTNRIQYYFLYP</span><span class="topo-inside">HVTKLDEVAATRLTFPAVTFCNLNEFRFSRVTKNDLYHAGELLALLNNRYEIPDTQTADE</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">KQLEILQDKANFRNFKPKPFNMLEFYDRAGHDIREMLLSCFFRGEQCSPEDFKVVFTRYGKCYTFNAGQDGKPRLITMKGGTGNGLEIMLDIQQDEYLPVWGETDETSFEAGIKVQIHSQ</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">DEPPLIDQLGFGVAPGFQTFVSCQEQRLIYLPPPWGDCKATTG</span><span class="topo-unknown">DS</span><span class="topo-inside">EFYDTYSITACRIDCETRYLVENCNCRMVHMPGDAPYCTPEQYKECADPALDFLVEKDNEYCVCEMPCNVTRYGK</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450</span>
+<span class="topo-line"><span class="topo-inside">ELSMVKIPSKASAKYLAKKYNKSEQYIGENILVLDIFFEALNYETIEQKKA</span><span class="topo-membrane">YEVAGLLGDIGGQMGLFIGA</span><span class="topo-outside">SILTVLELFDYA</span><span class="topo-unknown">YEVIKHR</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -420,6 +428,7 @@ Acid-sensing ion channel 1a (ASIC1a) is a proton-gated, sodium-selective ion cha
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -435,7 +444,9 @@ Acid-sensing ion channel 1a (ASIC1a) is a proton-gated, sodium-selective ion cha
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40        50        60</span>
 <span class="topo-line"><span class="topo-inside">EIRPAFCYEDPPFFQKCGAFVDSYYFNRSRITCVHFFYGQCDVNQNHFTTMSECNRVCHG</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -454,6 +465,7 @@ Acid-sensing ion channel 1a (ASIC1a) is a proton-gated, sodium-selective ion cha
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -469,8 +481,9 @@ Acid-sensing ion channel 1a (ASIC1a) is a proton-gated, sodium-selective ion cha
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">NLNQFRLMIKCTNDRVWADFVDYGCYCVARDSNTPVDDLDRCCQAQKQCYDEAVKVHGCK</span></span>
-<span class="topo-line"><span class="topo-inside">PLVMFYSFECRYLASDLDCSGNNTKCRNFVCNCDRTATLCILTATYNRNNHKIDPSRC</span><span class="topo-unknown">Q</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110         </span>
+<span class="topo-line"><span class="topo-inside">NLNQFRLMIKCTNDRVWADFVDYGCYCVARDSNTPVDDLDRCCQAQKQCYDEAVKVHGCKPLVMFYSFECRYLASDLDCSGNNTKCRNFVCNCDRTATLCILTATYNRNNHKIDPSRC</span><span class="topo-unknown">Q</span></span>
+<details class="topo-details"><summary>Topology coordinates (2 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -496,6 +509,7 @@ Acid-sensing ion channel 1a (ASIC1a) is a proton-gated, sodium-selective ion cha
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -511,14 +525,15 @@ Acid-sensing ion channel 1a (ASIC1a) is a proton-gated, sodium-selective ion cha
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GQPVSIQAFASSSTLHGISHIFSYERLSLKR</span><span class="topo-outside">VVWALC</span><span class="topo-membrane">FMGSLALLALVCTNRIQYYFLYP</span></span>
-<span class="topo-line"><span class="topo-inside">HVTKLDEVAATRLTFPAVTFCNLNEFRFSRVTKNDLYHAGELLALLNNRYEIPDTQTADE</span></span>
-<span class="topo-line"><span class="topo-inside">KQLEILQDKANFRNFKPKPFNMLEFYDRAGHDIREMLLSCFFRGEQCSPEDFKVVFTRYG</span></span>
-<span class="topo-line"><span class="topo-inside">KCYTFNAGQDGKPRLITMKGGTGNGLEIMLDIQQDEYLPVWGETDETSFEAGIKVQIHSQ</span></span>
-<span class="topo-line"><span class="topo-inside">DEPPLIDQLGFGVAPGFQTFVSCQEQRLIYLPPPWGDCKATTG</span><span class="topo-unknown">DS</span><span class="topo-inside">EFYDTYSITACRIDC</span></span>
-<span class="topo-line"><span class="topo-inside">ETRYLVENCNCRMVHMPGDAPYCTPEQYKECADPALDFLVEKDNEYCVCEMPCNVTRYGK</span></span>
-<span class="topo-line"><span class="topo-inside">ELSMVKIPSKASAKYLAKKYNKSEQYIGENILVLDIFFEALNYETIEQKKA</span><span class="topo-membrane">YEVAGLLGD</span></span>
-<span class="topo-line"><span class="topo-membrane">IGGQMGLFIGA</span><span class="topo-outside">SILTVLELFDYA</span><span class="topo-unknown">YEVIKHR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GQPVSIQAFASSSTLHGISHIFSYERLSLKR</span><span class="topo-outside">VVWALC</span><span class="topo-membrane">FMGSLALLALVCTNRIQYYFLYP</span><span class="topo-inside">HVTKLDEVAATRLTFPAVTFCNLNEFRFSRVTKNDLYHAGELLALLNNRYEIPDTQTADE</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">KQLEILQDKANFRNFKPKPFNMLEFYDRAGHDIREMLLSCFFRGEQCSPEDFKVVFTRYGKCYTFNAGQDGKPRLITMKGGTGNGLEIMLDIQQDEYLPVWGETDETSFEAGIKVQIHSQ</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">DEPPLIDQLGFGVAPGFQTFVSCQEQRLIYLPPPWGDCKATTG</span><span class="topo-unknown">DS</span><span class="topo-inside">EFYDTYSITACRIDCETRYLVENCNCRMVHMPGDAPYCTPEQYKECADPALDFLVEKDNEYCVCEMPCNVTRYGK</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450</span>
+<span class="topo-line"><span class="topo-inside">ELSMVKIPSKASAKYLAKKYNKSEQYIGENILVLDIFFEALNYETIEQKKA</span><span class="topo-membrane">YEVAGLLGDIGGQMGLFIGA</span><span class="topo-outside">SILTVLELFDYA</span><span class="topo-unknown">YEVIKHR</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -593,6 +608,7 @@ Acid-sensing ion channel 1a (ASIC1a) is a proton-gated, sodium-selective ion cha
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -608,7 +624,9 @@ Acid-sensing ion channel 1a (ASIC1a) is a proton-gated, sodium-selective ion cha
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40        50        60</span>
 <span class="topo-line"><span class="topo-inside">EIRPAFCYEDPPFFQKCGAFVDSYYFNRSRITCVHFFYGQCDVNQNHFTTMSECNRVCHG</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -627,6 +645,7 @@ Acid-sensing ion channel 1a (ASIC1a) is a proton-gated, sodium-selective ion cha
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -642,8 +661,9 @@ Acid-sensing ion channel 1a (ASIC1a) is a proton-gated, sodium-selective ion cha
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">NLNQFRLMIKCTNDRVWADFVDYGCYCVARDSNTPVDDLDRCCQAQKQCYDEAVKVHGCK</span></span>
-<span class="topo-line"><span class="topo-inside">PLVMFYSFECRYLASDLDCSGNNTKCRNFVCNCDRTATLCILTATYNRNNHKIDPSRC</span><span class="topo-unknown">Q</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110         </span>
+<span class="topo-line"><span class="topo-inside">NLNQFRLMIKCTNDRVWADFVDYGCYCVARDSNTPVDDLDRCCQAQKQCYDEAVKVHGCKPLVMFYSFECRYLASDLDCSGNNTKCRNFVCNCDRTATLCILTATYNRNNHKIDPSRC</span><span class="topo-unknown">Q</span></span>
+<details class="topo-details"><summary>Topology coordinates (2 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -669,6 +689,7 @@ Acid-sensing ion channel 1a (ASIC1a) is a proton-gated, sodium-selective ion cha
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -684,14 +705,15 @@ Acid-sensing ion channel 1a (ASIC1a) is a proton-gated, sodium-selective ion cha
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GQPVSIQAFASSSTLHGISHIFSYERLSLKR</span><span class="topo-outside">VVWAL</span><span class="topo-membrane">CFMGSLALLALVCTNRIQYYFLYP</span></span>
-<span class="topo-line"><span class="topo-inside">HVTKLDEVAATRLTFPAVTFCNLNEFRFSRVTKNDLYHAGELLALLNNRYEIPDTQTADE</span></span>
-<span class="topo-line"><span class="topo-inside">KQLEILQDKANFRNFKPKPFNMLEFYDRAGHDIREMLLSCFFRGEQCSPEDFKVVFTRYG</span></span>
-<span class="topo-line"><span class="topo-inside">KCYTFNAGQDGKPRLITMKGGTGNGLEIMLDIQQDEYLPVWGETDETSFEAGIKVQIHSQ</span></span>
-<span class="topo-line"><span class="topo-inside">DEPPLIDQLGFGVAPGFQTFVSCQEQRLIYLPPPWGDCKATTG</span><span class="topo-unknown">DS</span><span class="topo-inside">EFYDTYSITACRIDC</span></span>
-<span class="topo-line"><span class="topo-inside">ETRYLVENCNCRMVHMPGDAPYCTPEQYKECADPALDFLVEKDNEYCVCEMPCNVTRYGK</span></span>
-<span class="topo-line"><span class="topo-inside">ELSMVKIPSKASAKYLAKKYNKSEQYIGENILVLDIFFEALNYETIEQKKA</span><span class="topo-membrane">YEVAGLLGD</span></span>
-<span class="topo-line"><span class="topo-membrane">IGGQMGLFIGA</span><span class="topo-outside">SILTVLELFDYA</span><span class="topo-unknown">YEVIKHR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GQPVSIQAFASSSTLHGISHIFSYERLSLKR</span><span class="topo-outside">VVWAL</span><span class="topo-membrane">CFMGSLALLALVCTNRIQYYFLYP</span><span class="topo-inside">HVTKLDEVAATRLTFPAVTFCNLNEFRFSRVTKNDLYHAGELLALLNNRYEIPDTQTADE</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">KQLEILQDKANFRNFKPKPFNMLEFYDRAGHDIREMLLSCFFRGEQCSPEDFKVVFTRYGKCYTFNAGQDGKPRLITMKGGTGNGLEIMLDIQQDEYLPVWGETDETSFEAGIKVQIHSQ</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">DEPPLIDQLGFGVAPGFQTFVSCQEQRLIYLPPPWGDCKATTG</span><span class="topo-unknown">DS</span><span class="topo-inside">EFYDTYSITACRIDCETRYLVENCNCRMVHMPGDAPYCTPEQYKECADPALDFLVEKDNEYCVCEMPCNVTRYGK</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450</span>
+<span class="topo-line"><span class="topo-inside">ELSMVKIPSKASAKYLAKKYNKSEQYIGENILVLDIFFEALNYETIEQKKA</span><span class="topo-membrane">YEVAGLLGDIGGQMGLFIGA</span><span class="topo-outside">SILTVLELFDYA</span><span class="topo-unknown">YEVIKHR</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -766,6 +788,7 @@ Acid-sensing ion channel 1a (ASIC1a) is a proton-gated, sodium-selective ion cha
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -781,7 +804,9 @@ Acid-sensing ion channel 1a (ASIC1a) is a proton-gated, sodium-selective ion cha
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40        50        60</span>
 <span class="topo-line"><span class="topo-inside">EIRPAFCYEDPPFFQKCGAFVDSYYFNRSRITCVHFFYGQCDVNQNHFTTMSECNRVCHG</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -800,6 +825,7 @@ Acid-sensing ion channel 1a (ASIC1a) is a proton-gated, sodium-selective ion cha
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -815,8 +841,9 @@ Acid-sensing ion channel 1a (ASIC1a) is a proton-gated, sodium-selective ion cha
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">NLNQFRLMIKCTNDRVWADFVDYGCYCVARDSNTPVDDLDRCCQAQKQCYDEAVKVHGCK</span></span>
-<span class="topo-line"><span class="topo-inside">PLVMFYSFECRYLASDLDCSGNNTKCRNFVCNCDRTATLCILTATYNRNNHKIDPSRC</span><span class="topo-unknown">Q</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110         </span>
+<span class="topo-line"><span class="topo-inside">NLNQFRLMIKCTNDRVWADFVDYGCYCVARDSNTPVDDLDRCCQAQKQCYDEAVKVHGCKPLVMFYSFECRYLASDLDCSGNNTKCRNFVCNCDRTATLCILTATYNRNNHKIDPSRC</span><span class="topo-unknown">Q</span></span>
+<details class="topo-details"><summary>Topology coordinates (2 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -842,6 +869,7 @@ Acid-sensing ion channel 1a (ASIC1a) is a proton-gated, sodium-selective ion cha
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -857,14 +885,15 @@ Acid-sensing ion channel 1a (ASIC1a) is a proton-gated, sodium-selective ion cha
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GQPVSIQAFASSSTLHGISHIFSYERLSLKR</span><span class="topo-outside">VVWAL</span><span class="topo-membrane">CFMGSLALLALVCTNRIQYYFLYP</span></span>
-<span class="topo-line"><span class="topo-inside">HVTKLDEVAATRLTFPAVTFCNLNEFRFSRVTKNDLYHAGELLALLNNRYEIPDTQTADE</span></span>
-<span class="topo-line"><span class="topo-inside">KQLEILQDKANFRNFKPKPFNMLEFYDRAGHDIREMLLSCFFRGEQCSPEDFKVVFTRYG</span></span>
-<span class="topo-line"><span class="topo-inside">KCYTFNAGQDGKPRLITMKGGTGNGLEIMLDIQQDEYLPVWGETDETSFEAGIKVQIHSQ</span></span>
-<span class="topo-line"><span class="topo-inside">DEPPLIDQLGFGVAPGFQTFVSCQEQRLIYLPPPWGDCKATTG</span><span class="topo-unknown">DS</span><span class="topo-inside">EFYDTYSITACRIDC</span></span>
-<span class="topo-line"><span class="topo-inside">ETRYLVENCNCRMVHMPGDAPYCTPEQYKECADPALDFLVEKDNEYCVCEMPCNVTRYGK</span></span>
-<span class="topo-line"><span class="topo-inside">ELSMVKIPSKASAKYLAKKYNKSEQYIGENILVLDIFFEALNYETIEQKKA</span><span class="topo-membrane">YEVAGLLGD</span></span>
-<span class="topo-line"><span class="topo-membrane">IGGQMGLFIGA</span><span class="topo-outside">SILTVLELFDYA</span><span class="topo-unknown">YEVIKHR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GQPVSIQAFASSSTLHGISHIFSYERLSLKR</span><span class="topo-outside">VVWAL</span><span class="topo-membrane">CFMGSLALLALVCTNRIQYYFLYP</span><span class="topo-inside">HVTKLDEVAATRLTFPAVTFCNLNEFRFSRVTKNDLYHAGELLALLNNRYEIPDTQTADE</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">KQLEILQDKANFRNFKPKPFNMLEFYDRAGHDIREMLLSCFFRGEQCSPEDFKVVFTRYGKCYTFNAGQDGKPRLITMKGGTGNGLEIMLDIQQDEYLPVWGETDETSFEAGIKVQIHSQ</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">DEPPLIDQLGFGVAPGFQTFVSCQEQRLIYLPPPWGDCKATTG</span><span class="topo-unknown">DS</span><span class="topo-inside">EFYDTYSITACRIDCETRYLVENCNCRMVHMPGDAPYCTPEQYKECADPALDFLVEKDNEYCVCEMPCNVTRYGK</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450</span>
+<span class="topo-line"><span class="topo-inside">ELSMVKIPSKASAKYLAKKYNKSEQYIGENILVLDIFFEALNYETIEQKKA</span><span class="topo-membrane">YEVAGLLGDIGGQMGLFIGA</span><span class="topo-outside">SILTVLELFDYA</span><span class="topo-unknown">YEVIKHR</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -939,6 +968,7 @@ Acid-sensing ion channel 1a (ASIC1a) is a proton-gated, sodium-selective ion cha
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -954,7 +984,9 @@ Acid-sensing ion channel 1a (ASIC1a) is a proton-gated, sodium-selective ion cha
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40        50        60</span>
 <span class="topo-line"><span class="topo-inside">EIRPAFCYEDPPFFQKCGAFVDSYYFNRSRITCVHFFYGQCDVNQNHFTTMSECNRVCHG</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -973,6 +1005,7 @@ Acid-sensing ion channel 1a (ASIC1a) is a proton-gated, sodium-selective ion cha
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -988,8 +1021,9 @@ Acid-sensing ion channel 1a (ASIC1a) is a proton-gated, sodium-selective ion cha
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">NLNQFRLMIKCTNDRVWADFVDYGCYCVARDSNTPVDDLDRCCQAQKQCYDEAVKVHGCK</span></span>
-<span class="topo-line"><span class="topo-inside">PLVMFYSFECRYLASDLDCSGNNTKCRNFVCNCDRTATLCILTATYNRNNHKIDPSRC</span><span class="topo-unknown">Q</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110         </span>
+<span class="topo-line"><span class="topo-inside">NLNQFRLMIKCTNDRVWADFVDYGCYCVARDSNTPVDDLDRCCQAQKQCYDEAVKVHGCKPLVMFYSFECRYLASDLDCSGNNTKCRNFVCNCDRTATLCILTATYNRNNHKIDPSRC</span><span class="topo-unknown">Q</span></span>
+<details class="topo-details"><summary>Topology coordinates (2 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1015,6 +1049,7 @@ Acid-sensing ion channel 1a (ASIC1a) is a proton-gated, sodium-selective ion cha
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1030,14 +1065,15 @@ Acid-sensing ion channel 1a (ASIC1a) is a proton-gated, sodium-selective ion cha
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GQPVSIQAFASSSTLHGISHIFSYERLSLKR</span><span class="topo-outside">VVWAL</span><span class="topo-membrane">CFMGSLALLALVCTNRIQYYFLYP</span></span>
-<span class="topo-line"><span class="topo-inside">HVTKLDEVAATRLTFPAVTFCNLNEFRFSRVTKNDLYHAGELLALLNNRYEIPDTQTADE</span></span>
-<span class="topo-line"><span class="topo-inside">KQLEILQDKANFRNFKPKPFNMLEFYDRAGHDIREMLLSCFFRGEQCSPEDFKVVFTRYG</span></span>
-<span class="topo-line"><span class="topo-inside">KCYTFNAGQDGKPRLITMKGGTGNGLEIMLDIQQDEYLPVWGETDETSFEAGIKVQIHSQ</span></span>
-<span class="topo-line"><span class="topo-inside">DEPPLIDQLGFGVAPGFQTFVSCQEQRLIYLPPPWGDCKATTG</span><span class="topo-unknown">DS</span><span class="topo-inside">EFYDTYSITACRIDC</span></span>
-<span class="topo-line"><span class="topo-inside">ETRYLVENCNCRMVHMPGDAPYCTPEQYKECADPALDFLVEKDNEYCVCEMPCNVTRYGK</span></span>
-<span class="topo-line"><span class="topo-inside">ELSMVKIPSKASAKYLAKKYNKSEQYIGENILVLDIFFEALNYETIEQKKA</span><span class="topo-membrane">YEVAGLLGD</span></span>
-<span class="topo-line"><span class="topo-membrane">IGGQMGLFIGA</span><span class="topo-outside">SILTVLELFDYA</span><span class="topo-unknown">YEVIKHR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GQPVSIQAFASSSTLHGISHIFSYERLSLKR</span><span class="topo-outside">VVWAL</span><span class="topo-membrane">CFMGSLALLALVCTNRIQYYFLYP</span><span class="topo-inside">HVTKLDEVAATRLTFPAVTFCNLNEFRFSRVTKNDLYHAGELLALLNNRYEIPDTQTADE</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">KQLEILQDKANFRNFKPKPFNMLEFYDRAGHDIREMLLSCFFRGEQCSPEDFKVVFTRYGKCYTFNAGQDGKPRLITMKGGTGNGLEIMLDIQQDEYLPVWGETDETSFEAGIKVQIHSQ</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">DEPPLIDQLGFGVAPGFQTFVSCQEQRLIYLPPPWGDCKATTG</span><span class="topo-unknown">DS</span><span class="topo-inside">EFYDTYSITACRIDCETRYLVENCNCRMVHMPGDAPYCTPEQYKECADPALDFLVEKDNEYCVCEMPCNVTRYGK</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450</span>
+<span class="topo-line"><span class="topo-inside">ELSMVKIPSKASAKYLAKKYNKSEQYIGENILVLDIFFEALNYETIEQKKA</span><span class="topo-membrane">YEVAGLLGDIGGQMGLFIGA</span><span class="topo-outside">SILTVLELFDYA</span><span class="topo-unknown">YEVIKHR</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1112,6 +1148,7 @@ Acid-sensing ion channel 1a (ASIC1a) is a proton-gated, sodium-selective ion cha
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1127,7 +1164,9 @@ Acid-sensing ion channel 1a (ASIC1a) is a proton-gated, sodium-selective ion cha
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40        50        60</span>
 <span class="topo-line"><span class="topo-inside">EIRPAFCYEDPPFFQKCGAFVDSYYFNRSRITCVHFFYGQCDVNQNHFTTMSECNRVCHG</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1146,6 +1185,7 @@ Acid-sensing ion channel 1a (ASIC1a) is a proton-gated, sodium-selective ion cha
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1161,8 +1201,9 @@ Acid-sensing ion channel 1a (ASIC1a) is a proton-gated, sodium-selective ion cha
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">NLNQFRLMIKCTNDRVWADFVDYGCYCVARDSNTPVDDLDRCCQAQKQCYDEAVKVHGCK</span></span>
-<span class="topo-line"><span class="topo-inside">PLVMFYSFECRYLASDLDCSGNNTKCRNFVCNCDRTATLCILTATYNRNNHKIDPSRC</span><span class="topo-unknown">Q</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110         </span>
+<span class="topo-line"><span class="topo-inside">NLNQFRLMIKCTNDRVWADFVDYGCYCVARDSNTPVDDLDRCCQAQKQCYDEAVKVHGCKPLVMFYSFECRYLASDLDCSGNNTKCRNFVCNCDRTATLCILTATYNRNNHKIDPSRC</span><span class="topo-unknown">Q</span></span>
+<details class="topo-details"><summary>Topology coordinates (2 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1188,6 +1229,7 @@ Acid-sensing ion channel 1a (ASIC1a) is a proton-gated, sodium-selective ion cha
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1203,14 +1245,15 @@ Acid-sensing ion channel 1a (ASIC1a) is a proton-gated, sodium-selective ion cha
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GQPVSIQAFASSSTLHGISHIFSYERLSLKRV</span><span class="topo-inside">VWALC</span><span class="topo-membrane">FMGSLALLALVCTNRIQYYFLYP</span></span>
-<span class="topo-line"><span class="topo-membrane">HV</span><span class="topo-outside">TKLDEVAATRLTFPAVTFCNLNEFRFSRVTKNDLYHAGELLALLNNRYEIPDTQTADE</span></span>
-<span class="topo-line"><span class="topo-outside">KQLEILQDKANFRNFKPKPFNMLEFYDRAGHDIREMLLSCFFRGEQCSPEDFKVVFTRYG</span></span>
-<span class="topo-line"><span class="topo-outside">KCYTFNAGQDGKPRLITMKGGTGNGLEIMLDIQQDEYLPVWGETDETSFEAGIKVQIHSQ</span></span>
-<span class="topo-line"><span class="topo-outside">DEPPLIDQLGFGVAPGFQTFVSCQEQRLIYLPPPWGDCKATTG</span><span class="topo-unknown">DS</span><span class="topo-outside">EFYDTYSITACRIDC</span></span>
-<span class="topo-line"><span class="topo-outside">ETRYLVENCNCRMVHMPGDAPYCTPEQYKECADPALDFLVEKDNEYCVCEMPCNVTRYGK</span></span>
-<span class="topo-line"><span class="topo-outside">ELSMVKIPSKASAKYLAKKYNKSEQYIGENILVLDIFFEALNYETIEQK</span><span class="topo-membrane">KAYEVAGLLGD</span></span>
-<span class="topo-line"><span class="topo-membrane">IGGQMGLFIGA</span><span class="topo-inside">SILTVLELF</span><span class="topo-unknown">DYAYEVIKHR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GQPVSIQAFASSSTLHGISHIFSYERLSLKRV</span><span class="topo-inside">VWALC</span><span class="topo-membrane">FMGSLALLALVCTNRIQYYFLYPHV</span><span class="topo-outside">TKLDEVAATRLTFPAVTFCNLNEFRFSRVTKNDLYHAGELLALLNNRYEIPDTQTADE</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">KQLEILQDKANFRNFKPKPFNMLEFYDRAGHDIREMLLSCFFRGEQCSPEDFKVVFTRYGKCYTFNAGQDGKPRLITMKGGTGNGLEIMLDIQQDEYLPVWGETDETSFEAGIKVQIHSQ</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">DEPPLIDQLGFGVAPGFQTFVSCQEQRLIYLPPPWGDCKATTG</span><span class="topo-unknown">DS</span><span class="topo-outside">EFYDTYSITACRIDCETRYLVENCNCRMVHMPGDAPYCTPEQYKECADPALDFLVEKDNEYCVCEMPCNVTRYGK</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450</span>
+<span class="topo-line"><span class="topo-outside">ELSMVKIPSKASAKYLAKKYNKSEQYIGENILVLDIFFEALNYETIEQK</span><span class="topo-membrane">KAYEVAGLLGDIGGQMGLFIGA</span><span class="topo-inside">SILTVLELF</span><span class="topo-unknown">DYAYEVIKHR</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1285,6 +1328,7 @@ Acid-sensing ion channel 1a (ASIC1a) is a proton-gated, sodium-selective ion cha
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1300,7 +1344,9 @@ Acid-sensing ion channel 1a (ASIC1a) is a proton-gated, sodium-selective ion cha
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40        50        60</span>
 <span class="topo-line"><span class="topo-outside">EIRPAFCYEDPPFFQKCGAFVDSYYFNRSRITCVHFFYGQCDVNQNHFTT</span><span class="topo-unknown">MSECNRV</span><span class="topo-outside">CHG</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1333,6 +1379,7 @@ Acid-sensing ion channel 1a (ASIC1a) is a proton-gated, sodium-selective ion cha
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1348,8 +1395,9 @@ Acid-sensing ion channel 1a (ASIC1a) is a proton-gated, sodium-selective ion cha
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">NLNQFRLMIKCTNDRVWADFVDYGCYCVARDSNTPVDDLDRCCQAQKQCYDEAVKVHGCK</span></span>
-<span class="topo-line"><span class="topo-outside">PLVMFYSFECRYLASDLDCSGNNTKCRNFVCNCDRTATLCILTATYNRNNHKIDPSRC</span><span class="topo-unknown">Q</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110         </span>
+<span class="topo-line"><span class="topo-outside">NLNQFRLMIKCTNDRVWADFVDYGCYCVARDSNTPVDDLDRCCQAQKQCYDEAVKVHGCKPLVMFYSFECRYLASDLDCSGNNTKCRNFVCNCDRTATLCILTATYNRNNHKIDPSRC</span><span class="topo-unknown">Q</span></span>
+<details class="topo-details"><summary>Topology coordinates (2 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1375,6 +1423,7 @@ Acid-sensing ion channel 1a (ASIC1a) is a proton-gated, sodium-selective ion cha
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1390,14 +1439,15 @@ Acid-sensing ion channel 1a (ASIC1a) is a proton-gated, sodium-selective ion cha
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GQPVSIQAFASSSTLHGISHIFSYERLSLKRV</span><span class="topo-inside">VWALC</span><span class="topo-membrane">FMGSLALLALVCTNRIQYYFLYP</span></span>
-<span class="topo-line"><span class="topo-membrane">HV</span><span class="topo-outside">TKLDEVAATRLTFPAVTFCNLNEFRFSRVTKNDLYHAGELLALLNNRYEIPDTQTADE</span></span>
-<span class="topo-line"><span class="topo-outside">KQLEILQDKANFRNFKPKPFNMLEFYDRAGHDIREMLLSCFFRGEQCSPEDFKVVFTRYG</span></span>
-<span class="topo-line"><span class="topo-outside">KCYTFNAGQDGKPRLITMKGGTGNGLEIMLDIQQDEYLPVWGETDETSFEAGIKVQIHSQ</span></span>
-<span class="topo-line"><span class="topo-outside">DEPPLIDQLGFGVAPGFQTFVSCQEQRLIYLPPPWGDCKATTG</span><span class="topo-unknown">DS</span><span class="topo-outside">EFYDTYSITACRIDC</span></span>
-<span class="topo-line"><span class="topo-outside">ETRYLVENCNCRMVHMPGDAPYCTPEQYKECADPALDFLVEKDNEYCVCEMPCNVTRYGK</span></span>
-<span class="topo-line"><span class="topo-outside">ELSMVKIPSKASAKYLAKKYNKSEQYIGENILVLDIFFEALNYETIEQK</span><span class="topo-membrane">KAYEVAGLLGD</span></span>
-<span class="topo-line"><span class="topo-membrane">IGGQMGLFIGA</span><span class="topo-inside">SILTVLELF</span><span class="topo-unknown">DYAYEVIKHR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GQPVSIQAFASSSTLHGISHIFSYERLSLKRV</span><span class="topo-inside">VWALC</span><span class="topo-membrane">FMGSLALLALVCTNRIQYYFLYPHV</span><span class="topo-outside">TKLDEVAATRLTFPAVTFCNLNEFRFSRVTKNDLYHAGELLALLNNRYEIPDTQTADE</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">KQLEILQDKANFRNFKPKPFNMLEFYDRAGHDIREMLLSCFFRGEQCSPEDFKVVFTRYGKCYTFNAGQDGKPRLITMKGGTGNGLEIMLDIQQDEYLPVWGETDETSFEAGIKVQIHSQ</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">DEPPLIDQLGFGVAPGFQTFVSCQEQRLIYLPPPWGDCKATTG</span><span class="topo-unknown">DS</span><span class="topo-outside">EFYDTYSITACRIDCETRYLVENCNCRMVHMPGDAPYCTPEQYKECADPALDFLVEKDNEYCVCEMPCNVTRYGK</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450</span>
+<span class="topo-line"><span class="topo-outside">ELSMVKIPSKASAKYLAKKYNKSEQYIGENILVLDIFFEALNYETIEQK</span><span class="topo-membrane">KAYEVAGLLGDIGGQMGLFIGA</span><span class="topo-inside">SILTVLELF</span><span class="topo-unknown">DYAYEVIKHR</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1472,6 +1522,7 @@ Acid-sensing ion channel 1a (ASIC1a) is a proton-gated, sodium-selective ion cha
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1487,7 +1538,9 @@ Acid-sensing ion channel 1a (ASIC1a) is a proton-gated, sodium-selective ion cha
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40        50        60</span>
 <span class="topo-line"><span class="topo-outside">EIRPAFCYEDPPFFQKCGAFVDSYYFNRSRITCVHFFYGQCDVNQNHFTT</span><span class="topo-unknown">MSECNRV</span><span class="topo-outside">CHG</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1520,6 +1573,7 @@ Acid-sensing ion channel 1a (ASIC1a) is a proton-gated, sodium-selective ion cha
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1535,8 +1589,9 @@ Acid-sensing ion channel 1a (ASIC1a) is a proton-gated, sodium-selective ion cha
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">NLNQFRLMIKCTNDRVWADFVDYGCYCVARDSNTPVDDLDRCCQAQKQCYDEAVKVHGCK</span></span>
-<span class="topo-line"><span class="topo-outside">PLVMFYSFECRYLASDLDCSGNNTKCRNFVCNCDRTATLCILTATYNRNNHKIDPSRC</span><span class="topo-unknown">Q</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110         </span>
+<span class="topo-line"><span class="topo-outside">NLNQFRLMIKCTNDRVWADFVDYGCYCVARDSNTPVDDLDRCCQAQKQCYDEAVKVHGCKPLVMFYSFECRYLASDLDCSGNNTKCRNFVCNCDRTATLCILTATYNRNNHKIDPSRC</span><span class="topo-unknown">Q</span></span>
+<details class="topo-details"><summary>Topology coordinates (2 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1562,6 +1617,7 @@ Acid-sensing ion channel 1a (ASIC1a) is a proton-gated, sodium-selective ion cha
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1577,14 +1633,15 @@ Acid-sensing ion channel 1a (ASIC1a) is a proton-gated, sodium-selective ion cha
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GQPVSIQAFASSSTLHGISHIFSYERLSLKRV</span><span class="topo-inside">VWALC</span><span class="topo-membrane">FMGSLALLALVCTNRIQYYFLYP</span></span>
-<span class="topo-line"><span class="topo-membrane">HV</span><span class="topo-outside">TKLDEVAATRLTFPAVTFCNLNEFRFSRVTKNDLYHAGELLALLNNRYEIPDTQTADE</span></span>
-<span class="topo-line"><span class="topo-outside">KQLEILQDKANFRNFKPKPFNMLEFYDRAGHDIREMLLSCFFRGEQCSPEDFKVVFTRYG</span></span>
-<span class="topo-line"><span class="topo-outside">KCYTFNAGQDGKPRLITMKGGTGNGLEIMLDIQQDEYLPVWGETDETSFEAGIKVQIHSQ</span></span>
-<span class="topo-line"><span class="topo-outside">DEPPLIDQLGFGVAPGFQTFVSCQEQRLIYLPPPWGDCKATTG</span><span class="topo-unknown">DS</span><span class="topo-outside">EFYDTYSITACRIDC</span></span>
-<span class="topo-line"><span class="topo-outside">ETRYLVENCNCRMVHMPGDAPYCTPEQYKECADPALDFLVEKDNEYCVCEMPCNVTRYGK</span></span>
-<span class="topo-line"><span class="topo-outside">ELSMVKIPSKASAKYLAKKYNKSEQYIGENILVLDIFFEALNYETIEQK</span><span class="topo-membrane">KAYEVAGLLGD</span></span>
-<span class="topo-line"><span class="topo-membrane">IGGQMGLFIGA</span><span class="topo-inside">SILTVLELF</span><span class="topo-unknown">DYAYEVIKHR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GQPVSIQAFASSSTLHGISHIFSYERLSLKRV</span><span class="topo-inside">VWALC</span><span class="topo-membrane">FMGSLALLALVCTNRIQYYFLYPHV</span><span class="topo-outside">TKLDEVAATRLTFPAVTFCNLNEFRFSRVTKNDLYHAGELLALLNNRYEIPDTQTADE</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">KQLEILQDKANFRNFKPKPFNMLEFYDRAGHDIREMLLSCFFRGEQCSPEDFKVVFTRYGKCYTFNAGQDGKPRLITMKGGTGNGLEIMLDIQQDEYLPVWGETDETSFEAGIKVQIHSQ</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">DEPPLIDQLGFGVAPGFQTFVSCQEQRLIYLPPPWGDCKATTG</span><span class="topo-unknown">DS</span><span class="topo-outside">EFYDTYSITACRIDCETRYLVENCNCRMVHMPGDAPYCTPEQYKECADPALDFLVEKDNEYCVCEMPCNVTRYGK</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450</span>
+<span class="topo-line"><span class="topo-outside">ELSMVKIPSKASAKYLAKKYNKSEQYIGENILVLDIFFEALNYETIEQK</span><span class="topo-membrane">KAYEVAGLLGDIGGQMGLFIGA</span><span class="topo-inside">SILTVLELF</span><span class="topo-unknown">DYAYEVIKHR</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1659,6 +1716,7 @@ Acid-sensing ion channel 1a (ASIC1a) is a proton-gated, sodium-selective ion cha
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1674,7 +1732,9 @@ Acid-sensing ion channel 1a (ASIC1a) is a proton-gated, sodium-selective ion cha
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40        50        60</span>
 <span class="topo-line"><span class="topo-outside">EIRPAFCYEDPPFFQKCGAFVDSYYFNRSRITCVHFFYGQCDVNQNHFTT</span><span class="topo-unknown">MSECNRV</span><span class="topo-outside">CHG</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1707,6 +1767,7 @@ Acid-sensing ion channel 1a (ASIC1a) is a proton-gated, sodium-selective ion cha
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1722,8 +1783,9 @@ Acid-sensing ion channel 1a (ASIC1a) is a proton-gated, sodium-selective ion cha
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">NLNQFRLMIKCTNDRVWADFVDYGCYCVARDSNTPVDDLDRCCQAQKQCYDEAVKVHGCK</span></span>
-<span class="topo-line"><span class="topo-outside">PLVMFYSFECRYLASDLDCSGNNTKCRNFVCNCDRTATLCILTATYNRNNHKIDPSRC</span><span class="topo-unknown">Q</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110         </span>
+<span class="topo-line"><span class="topo-outside">NLNQFRLMIKCTNDRVWADFVDYGCYCVARDSNTPVDDLDRCCQAQKQCYDEAVKVHGCKPLVMFYSFECRYLASDLDCSGNNTKCRNFVCNCDRTATLCILTATYNRNNHKIDPSRC</span><span class="topo-unknown">Q</span></span>
+<details class="topo-details"><summary>Topology coordinates (2 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1749,6 +1811,7 @@ Acid-sensing ion channel 1a (ASIC1a) is a proton-gated, sodium-selective ion cha
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1925,14 +1988,15 @@ Acid-sensing ion channel 1a (ASIC1a) is a proton-gated, sodium-selective ion cha
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSYYHHHHHHGASLVPRGSHMSTLHGISHIFSYERLSLKRVVW</span><span class="topo-outside">ALCF</span><span class="topo-membrane">MGSLALLALVCTN</span></span>
-<span class="topo-line"><span class="topo-membrane">RIQYYFL</span><span class="topo-inside">YPHVTKLDEVAATRLTFPAVTFCNLNEFRFSRVTKNDLYHAGELLALLNNRYE</span></span>
-<span class="topo-line"><span class="topo-inside">IPDTQTADEKQLEILQDKANFRNFKPKPFNMLEFYDRAGHDIREMLLSCFFRGEQCSPED</span></span>
-<span class="topo-line"><span class="topo-inside">FKVVFTRYGKCYTFNAGQDGKPRLITMKGGTGNGLEIMLDIQQDEYLPVWGETDETSFEA</span></span>
-<span class="topo-line"><span class="topo-inside">GIKVQIHSQDEPPLIDQLGFGVAPGFQTFVSCQEQRLIYLPPPWGDCKAT</span><span class="topo-unknown">TGDSEF</span><span class="topo-inside">YDTY</span></span>
-<span class="topo-line"><span class="topo-inside">SITACRIDCETRYLVENCNCRMVHMPGDAPYCTPEQYKECADPALDFLVEKDNEYCVCEM</span></span>
-<span class="topo-line"><span class="topo-inside">PCNVTRYGKELSMVKIPSKASAKYLAKKYNKSEQYIGENILVLDIFFEALNYETIEQKKA</span></span>
-<span class="topo-line"><span class="topo-inside">Y</span><span class="topo-membrane">EVAGLLGDIGGQMGLFIGAS</span><span class="topo-outside">ILTV</span><span class="topo-unknown">LELFDYAYEVIKHR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSYYHHHHHHGASLVPRGSHMSTLHGISHIFSYERLSLKRVVW</span><span class="topo-outside">ALCF</span><span class="topo-membrane">MGSLALLALVCTNRIQYYFL</span><span class="topo-inside">YPHVTKLDEVAATRLTFPAVTFCNLNEFRFSRVTKNDLYHAGELLALLNNRYE</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">IPDTQTADEKQLEILQDKANFRNFKPKPFNMLEFYDRAGHDIREMLLSCFFRGEQCSPEDFKVVFTRYGKCYTFNAGQDGKPRLITMKGGTGNGLEIMLDIQQDEYLPVWGETDETSFEA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">GIKVQIHSQDEPPLIDQLGFGVAPGFQTFVSCQEQRLIYLPPPWGDCKAT</span><span class="topo-unknown">TGDSEF</span><span class="topo-inside">YDTYSITACRIDCETRYLVENCNCRMVHMPGDAPYCTPEQYKECADPALDFLVEKDNEYCVCEM</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450         </span>
+<span class="topo-line"><span class="topo-inside">PCNVTRYGKELSMVKIPSKASAKYLAKKYNKSEQYIGENILVLDIFFEALNYETIEQKKAY</span><span class="topo-membrane">EVAGLLGDIGGQMGLFIGAS</span><span class="topo-outside">ILTV</span><span class="topo-unknown">LELFDYAYEVIKHR</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2007,6 +2071,7 @@ Acid-sensing ion channel 1a (ASIC1a) is a proton-gated, sodium-selective ion cha
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2022,14 +2087,15 @@ Acid-sensing ion channel 1a (ASIC1a) is a proton-gated, sodium-selective ion cha
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSYYHHHHHHGASLVPRGSHMSTLHGISHIFSYERLSLKRVVWALCFM</span><span class="topo-membrane">GSLALLALVCTN</span></span>
-<span class="topo-line"><span class="topo-membrane">RIQYYFL</span><span class="topo-inside">YPHVTKLDEVAATRLTFPAVTFCNLNEFRFSRVTKNDLYHAGELLALLNNRYE</span></span>
-<span class="topo-line"><span class="topo-inside">IPDTQTADEKQLEILQDKANFRNFKPKPFNMLEFYDRAGHDIREMLLSCFFRGEQCSPED</span></span>
-<span class="topo-line"><span class="topo-inside">FKVVFTRYGKCYTFNAGQDGKPRLITMKGGTGNGLEIMLDIQQDEYLPVWGETDETSFEA</span></span>
-<span class="topo-line"><span class="topo-inside">GIKVQIHSQDEPPLIDQLGFGVAPGFQTFVSCQEQRLIYLPPPWGDCKAT</span><span class="topo-unknown">TGDS</span><span class="topo-inside">EFYDTY</span></span>
-<span class="topo-line"><span class="topo-inside">SITACRIDCETRYLVENCNCRMVHMPGDAPYCTPEQYKECADPALDFLVEKDNEYCVCEM</span></span>
-<span class="topo-line"><span class="topo-inside">PCNVTRYGKELSMVKIPSKASAKYLAKKYNKSEQYIGENILVLDIFFEALNYETIEQKKA</span></span>
-<span class="topo-line"><span class="topo-inside">Y</span><span class="topo-membrane">EVAGLLGDIGGQMGLFIGASILT</span><span class="topo-outside">VLEL</span><span class="topo-unknown">FDYAYEVIKHR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSYYHHHHHHGASLVPRGSHMSTLHGISHIFSYERLSLKRVVWALCFM</span><span class="topo-membrane">GSLALLALVCTNRIQYYFL</span><span class="topo-inside">YPHVTKLDEVAATRLTFPAVTFCNLNEFRFSRVTKNDLYHAGELLALLNNRYE</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">IPDTQTADEKQLEILQDKANFRNFKPKPFNMLEFYDRAGHDIREMLLSCFFRGEQCSPEDFKVVFTRYGKCYTFNAGQDGKPRLITMKGGTGNGLEIMLDIQQDEYLPVWGETDETSFEA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">GIKVQIHSQDEPPLIDQLGFGVAPGFQTFVSCQEQRLIYLPPPWGDCKAT</span><span class="topo-unknown">TGDS</span><span class="topo-inside">EFYDTYSITACRIDCETRYLVENCNCRMVHMPGDAPYCTPEQYKECADPALDFLVEKDNEYCVCEM</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450         </span>
+<span class="topo-line"><span class="topo-inside">PCNVTRYGKELSMVKIPSKASAKYLAKKYNKSEQYIGENILVLDIFFEALNYETIEQKKAY</span><span class="topo-membrane">EVAGLLGDIGGQMGLFIGASILT</span><span class="topo-outside">VLEL</span><span class="topo-unknown">FDYAYEVIKHR</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2097,6 +2163,7 @@ Acid-sensing ion channel 1a (ASIC1a) is a proton-gated, sodium-selective ion cha
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2112,14 +2179,15 @@ Acid-sensing ion channel 1a (ASIC1a) is a proton-gated, sodium-selective ion cha
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSYYHHHHHHGASLVPRGSHMSTLHGISHIFSYERLSLKR</span><span class="topo-outside">VVWAL</span><span class="topo-membrane">CFMGSLALLALVCTN</span></span>
-<span class="topo-line"><span class="topo-membrane">RIQYYFL</span><span class="topo-inside">YPHVTKLDEVAATRLTFPAVTFCNLNEFRFSRVTKNDLYHAGELLALLNNRYE</span></span>
-<span class="topo-line"><span class="topo-inside">IPDTQTADEKQLEILQDKANFRNFKPKPFNMLEFYDRAGHDIREMLLSCFFRGEQCSPED</span></span>
-<span class="topo-line"><span class="topo-inside">FKVVFTRYGKCYTFNAGQDGKPRLITMKGGTGNGLEIMLDIQQDEYLPVWGETDETSFEA</span></span>
-<span class="topo-line"><span class="topo-inside">GIKVQIHSQDEPPLIDQLGFGVAPGFQTFVSCQEQRLIYLPPPWGDCKAT</span><span class="topo-unknown">TGDSE</span><span class="topo-inside">FYDTY</span></span>
-<span class="topo-line"><span class="topo-inside">SITACRIDCETRYLVENCNCRMVHMPGDAPYCTPEQYKECADPALDFLVEKDNEYCVCEM</span></span>
-<span class="topo-line"><span class="topo-inside">PCNVTRYGKELSMVKIPSKASAKYLAKKYNKSEQYIGENILVLDIFFEALNYETIEQKKA</span></span>
-<span class="topo-line"><span class="topo-inside">Y</span><span class="topo-membrane">EVAGLLGDIGGQMGLFIGASIL</span><span class="topo-outside">TVL</span><span class="topo-unknown">ELFDYAYEVIKHR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSYYHHHHHHGASLVPRGSHMSTLHGISHIFSYERLSLKR</span><span class="topo-outside">VVWAL</span><span class="topo-membrane">CFMGSLALLALVCTNRIQYYFL</span><span class="topo-inside">YPHVTKLDEVAATRLTFPAVTFCNLNEFRFSRVTKNDLYHAGELLALLNNRYE</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">IPDTQTADEKQLEILQDKANFRNFKPKPFNMLEFYDRAGHDIREMLLSCFFRGEQCSPEDFKVVFTRYGKCYTFNAGQDGKPRLITMKGGTGNGLEIMLDIQQDEYLPVWGETDETSFEA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">GIKVQIHSQDEPPLIDQLGFGVAPGFQTFVSCQEQRLIYLPPPWGDCKAT</span><span class="topo-unknown">TGDSE</span><span class="topo-inside">FYDTYSITACRIDCETRYLVENCNCRMVHMPGDAPYCTPEQYKECADPALDFLVEKDNEYCVCEM</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450         </span>
+<span class="topo-line"><span class="topo-inside">PCNVTRYGKELSMVKIPSKASAKYLAKKYNKSEQYIGENILVLDIFFEALNYETIEQKKAY</span><span class="topo-membrane">EVAGLLGDIGGQMGLFIGASIL</span><span class="topo-outside">TVL</span><span class="topo-unknown">ELFDYAYEVIKHR</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2194,6 +2262,7 @@ Acid-sensing ion channel 1a (ASIC1a) is a proton-gated, sodium-selective ion cha
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2209,14 +2278,15 @@ Acid-sensing ion channel 1a (ASIC1a) is a proton-gated, sodium-selective ion cha
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSYYHHHHHHGASLVPRGSHMSTLHGISHIFSYERLSLKR</span><span class="topo-outside">VVWALCFMGSLA</span><span class="topo-membrane">LLALVCTN</span></span>
-<span class="topo-line"><span class="topo-membrane">RIQYYFLYPHV</span><span class="topo-inside">TKLDEVAATRLTFPAVTFCNLNEFRFSRVTKNDLYHAGELLALLNNRYE</span></span>
-<span class="topo-line"><span class="topo-inside">IPDTQTADEKQLEILQDKANFRNFKPKPFNMLEFYDRAGHDIREMLLSCFFRGEQCSPED</span></span>
-<span class="topo-line"><span class="topo-inside">FKVVFTRYGKCYTFNAGQDGKPRLITMKGGTGNGLEIMLDIQQDEYLPVWGETDETSFEA</span></span>
-<span class="topo-line"><span class="topo-inside">GIKVQIHSQDEPPLIDQLGFGVAPGFQTFVSCQEQRLIYLPPPWGDCK</span><span class="topo-unknown">ATT</span><span class="topo-inside">GDSEFYDTY</span></span>
-<span class="topo-line"><span class="topo-inside">SITACRIDCETRYLVENCNCRMVHMPGDAPYCTPEQYKECADPALDFLVEKDNEYCVCEM</span></span>
-<span class="topo-line"><span class="topo-inside">PCNVTRYGKELSMVKIPSKASAKYLAKKYNKSEQYIGENILVLDIFFEALNYETIEQK</span><span class="topo-membrane">KA</span></span>
-<span class="topo-line"><span class="topo-membrane">YEVAGLLGDIGGQMG</span><span class="topo-outside">LFIGASILT</span><span class="topo-unknown">VLELFDYAYEVIKHR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSYYHHHHHHGASLVPRGSHMSTLHGISHIFSYERLSLKR</span><span class="topo-outside">VVWALCFMGSLA</span><span class="topo-membrane">LLALVCTNRIQYYFLYPHV</span><span class="topo-inside">TKLDEVAATRLTFPAVTFCNLNEFRFSRVTKNDLYHAGELLALLNNRYE</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">IPDTQTADEKQLEILQDKANFRNFKPKPFNMLEFYDRAGHDIREMLLSCFFRGEQCSPEDFKVVFTRYGKCYTFNAGQDGKPRLITMKGGTGNGLEIMLDIQQDEYLPVWGETDETSFEA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">GIKVQIHSQDEPPLIDQLGFGVAPGFQTFVSCQEQRLIYLPPPWGDCK</span><span class="topo-unknown">ATT</span><span class="topo-inside">GDSEFYDTYSITACRIDCETRYLVENCNCRMVHMPGDAPYCTPEQYKECADPALDFLVEKDNEYCVCEM</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450         </span>
+<span class="topo-line"><span class="topo-inside">PCNVTRYGKELSMVKIPSKASAKYLAKKYNKSEQYIGENILVLDIFFEALNYETIEQK</span><span class="topo-membrane">KAYEVAGLLGDIGGQMG</span><span class="topo-outside">LFIGASILT</span><span class="topo-unknown">VLELFDYAYEVIKHR</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2291,6 +2361,7 @@ Acid-sensing ion channel 1a (ASIC1a) is a proton-gated, sodium-selective ion cha
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2306,14 +2377,15 @@ Acid-sensing ion channel 1a (ASIC1a) is a proton-gated, sodium-selective ion cha
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSYYHHHHHHGASLVPRGSHMSTLHGISHIFSYERLSLKRVVWA</span><span class="topo-outside">LCFMGS</span><span class="topo-membrane">LALLALVCTN</span></span>
-<span class="topo-line"><span class="topo-membrane">RIQYYFLYPHV</span><span class="topo-inside">TKLDEVAATRLTFPAVTFCNLNEFRFSRVTKNDLYHAGELLALLNNRYE</span></span>
-<span class="topo-line"><span class="topo-inside">IPDTQTADEKQLEILQDKANFRNFKPKPFNMLEFYDRAGHDIREMLLSCFFRGEQCSPED</span></span>
-<span class="topo-line"><span class="topo-inside">FKVVFTRYGKCYTFNAGQDGKPRLITMKGGTGNGLEIMLDIQQDEYLPVWGETDETSFEA</span></span>
-<span class="topo-line"><span class="topo-inside">GIKVQIHSQDEPPLIDQLGFGVAPGFQTFVSCQEQRLIYLPPPWGDCKATT</span><span class="topo-unknown">GDS</span><span class="topo-inside">EFYDTY</span></span>
-<span class="topo-line"><span class="topo-inside">SITACRIDCETRYLVENCNCRMVHMPGDAPYCTPEQYKECADPALDFLVEKDNEYCVCEM</span></span>
-<span class="topo-line"><span class="topo-inside">PCNVTRYGKELSMVKIPSKASAKYLAKKYNKSEQYIGENILVLDIFFEALNYETIEQK</span><span class="topo-membrane">KA</span></span>
-<span class="topo-line"><span class="topo-membrane">YEVAGLLGDIGGQMGLF</span><span class="topo-outside">I</span><span class="topo-unknown">GASILTVLELFDYAYEVIKHR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSYYHHHHHHGASLVPRGSHMSTLHGISHIFSYERLSLKRVVWA</span><span class="topo-outside">LCFMGS</span><span class="topo-membrane">LALLALVCTNRIQYYFLYPHV</span><span class="topo-inside">TKLDEVAATRLTFPAVTFCNLNEFRFSRVTKNDLYHAGELLALLNNRYE</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">IPDTQTADEKQLEILQDKANFRNFKPKPFNMLEFYDRAGHDIREMLLSCFFRGEQCSPEDFKVVFTRYGKCYTFNAGQDGKPRLITMKGGTGNGLEIMLDIQQDEYLPVWGETDETSFEA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">GIKVQIHSQDEPPLIDQLGFGVAPGFQTFVSCQEQRLIYLPPPWGDCKATT</span><span class="topo-unknown">GDS</span><span class="topo-inside">EFYDTYSITACRIDCETRYLVENCNCRMVHMPGDAPYCTPEQYKECADPALDFLVEKDNEYCVCEM</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450         </span>
+<span class="topo-line"><span class="topo-inside">PCNVTRYGKELSMVKIPSKASAKYLAKKYNKSEQYIGENILVLDIFFEALNYETIEQK</span><span class="topo-membrane">KAYEVAGLLGDIGGQMGLF</span><span class="topo-outside">I</span><span class="topo-unknown">GASILTVLELFDYAYEVIKHR</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2388,6 +2460,7 @@ Acid-sensing ion channel 1a (ASIC1a) is a proton-gated, sodium-selective ion cha
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2403,14 +2476,15 @@ Acid-sensing ion channel 1a (ASIC1a) is a proton-gated, sodium-selective ion cha
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSYYHHHHHHGASLVPRGSHMSTLHGISHIFSYERLSLKRVVWAL</span><span class="topo-outside">CFMGS</span><span class="topo-membrane">LALLALVCTN</span></span>
-<span class="topo-line"><span class="topo-membrane">RIQYYFLYPHV</span><span class="topo-inside">TKLDEVAATRLTFPAVTFCNLNEFRFSRVTKNDLYHAGELLALLNNRYE</span></span>
-<span class="topo-line"><span class="topo-inside">IPDTQTADEKQLEILQDKANFRNFKPKPFNMLEFYDRAGHDIREMLLSCFFRGEQCSPED</span></span>
-<span class="topo-line"><span class="topo-inside">FKVVFTRYGKCYTFNAGQDGKPRLITMKGGTGNGLEIMLDIQQDEYLPVWGETDETSFEA</span></span>
-<span class="topo-line"><span class="topo-inside">GIKVQIHSQDEPPLIDQLGFGVAPGFQTFVSCQEQRLIYLPPPWGDCKA</span><span class="topo-unknown">TTGD</span><span class="topo-inside">SEFYDTY</span></span>
-<span class="topo-line"><span class="topo-inside">SITACRIDCETRYLVENCNCRMVHMPGDAPYCTPEQYKECADPALDFLVEKDNEYCVCEM</span></span>
-<span class="topo-line"><span class="topo-inside">PCNVTRYGKELSMVKIPSKASAKYLAKKYNKSEQYIGENILVLDIFFEALNYETIEQK</span><span class="topo-membrane">KA</span></span>
-<span class="topo-line"><span class="topo-membrane">YEVAGLLGDIGGQMGLF</span><span class="topo-outside">IGASILTV</span><span class="topo-unknown">LELFDYAYEVIKHR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSYYHHHHHHGASLVPRGSHMSTLHGISHIFSYERLSLKRVVWAL</span><span class="topo-outside">CFMGS</span><span class="topo-membrane">LALLALVCTNRIQYYFLYPHV</span><span class="topo-inside">TKLDEVAATRLTFPAVTFCNLNEFRFSRVTKNDLYHAGELLALLNNRYE</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">IPDTQTADEKQLEILQDKANFRNFKPKPFNMLEFYDRAGHDIREMLLSCFFRGEQCSPEDFKVVFTRYGKCYTFNAGQDGKPRLITMKGGTGNGLEIMLDIQQDEYLPVWGETDETSFEA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">GIKVQIHSQDEPPLIDQLGFGVAPGFQTFVSCQEQRLIYLPPPWGDCKA</span><span class="topo-unknown">TTGD</span><span class="topo-inside">SEFYDTYSITACRIDCETRYLVENCNCRMVHMPGDAPYCTPEQYKECADPALDFLVEKDNEYCVCEM</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450         </span>
+<span class="topo-line"><span class="topo-inside">PCNVTRYGKELSMVKIPSKASAKYLAKKYNKSEQYIGENILVLDIFFEALNYETIEQK</span><span class="topo-membrane">KAYEVAGLLGDIGGQMGLF</span><span class="topo-outside">IGASILTV</span><span class="topo-unknown">LELFDYAYEVIKHR</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2485,6 +2559,7 @@ Acid-sensing ion channel 1a (ASIC1a) is a proton-gated, sodium-selective ion cha
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2500,7 +2575,9 @@ Acid-sensing ion channel 1a (ASIC1a) is a proton-gated, sodium-selective ion cha
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30       </span>
 <span class="topo-line"><span class="topo-inside">DCIPKWKGCVNRHGDCCEGLECWKRRRSFEVCVPKTP</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2519,6 +2596,7 @@ Acid-sensing ion channel 1a (ASIC1a) is a proton-gated, sodium-selective ion cha
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2534,7 +2612,9 @@ Acid-sensing ion channel 1a (ASIC1a) is a proton-gated, sodium-selective ion cha
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30       </span>
 <span class="topo-line"><span class="topo-inside">DCIPKWKGCVNRHGDCCEGLECWKRRRSFEVCVPKTP</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2553,6 +2633,7 @@ Acid-sensing ion channel 1a (ASIC1a) is a proton-gated, sodium-selective ion cha
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2568,7 +2649,9 @@ Acid-sensing ion channel 1a (ASIC1a) is a proton-gated, sodium-selective ion cha
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30       </span>
 <span class="topo-line"><span class="topo-inside">DCIPKWKGCVNRHGDCCEGLECWKRRRSFEVCVPKTP</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2587,6 +2670,7 @@ Acid-sensing ion channel 1a (ASIC1a) is a proton-gated, sodium-selective ion cha
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2710,15 +2794,17 @@ Acid-sensing ion channel 1a (ASIC1a) is a proton-gated, sodium-selective ion cha
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MMDLKVDEEEVDSGQPVSIQAFASSSTLHGISHIFSYERL</span><span class="topo-outside">SLK</span><span class="topo-membrane">RVVWALCFMGSLALLAL</span></span>
-<span class="topo-line"><span class="topo-membrane">VCTNRIQYYF</span><span class="topo-inside">LYPHVTKLDEVAATRLTFPAVTFCNLNEFRFSRVTKNDLYHAGELLALLN</span></span>
-<span class="topo-line"><span class="topo-inside">NRYEIPDTQTADEKQLEILQDKANFRNFKPKPFNMLEFYDRAGHDIREMLLSCFFRGEQC</span></span>
-<span class="topo-line"><span class="topo-inside">SPEDFKVVFTRYGKCYTFNAGQDGKPRLITMKGGTGNGLEIMLDIQQDEYLPVWGETDET</span></span>
-<span class="topo-line"><span class="topo-inside">SFEAGIKVQIHSQDEPPLIDQLGFGVAPGFQTFVSCQEQRLIYLPPPWGDCKATTGDSEF</span></span>
-<span class="topo-line"><span class="topo-inside">YDTYSITACRIDCETRYLVENCNCRMVHMPGDAPYCTPEQYKECADPALDFLVEKDNEYC</span></span>
-<span class="topo-line"><span class="topo-inside">VCEMPCNVTRYGKELSMVKIPSKASAKYLAKKYNKSEQYIGENILVLDIFFEALNYETIE</span></span>
-<span class="topo-line"><span class="topo-inside">QKKAY</span><span class="topo-membrane">EVAGLLGDIGGQMGLFIGASILTVLELFDYA</span><span class="topo-unknown">YEVIKHR</span><span class="topo-outside">L</span><span class="topo-unknown">CRRGKCRKNHKRNNTD</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MMDLKVDEEEVDSGQPVSIQAFASSSTLHGISHIFSYERL</span><span class="topo-outside">SLK</span><span class="topo-membrane">RVVWALCFMGSLALLALVCTNRIQYYF</span><span class="topo-inside">LYPHVTKLDEVAATRLTFPAVTFCNLNEFRFSRVTKNDLYHAGELLALLN</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">NRYEIPDTQTADEKQLEILQDKANFRNFKPKPFNMLEFYDRAGHDIREMLLSCFFRGEQCSPEDFKVVFTRYGKCYTFNAGQDGKPRLITMKGGTGNGLEIMLDIQQDEYLPVWGETDET</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">SFEAGIKVQIHSQDEPPLIDQLGFGVAPGFQTFVSCQEQRLIYLPPPWGDCKATTGDSEFYDTYSITACRIDCETRYLVENCNCRMVHMPGDAPYCTPEQYKECADPALDFLVEKDNEYC</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">VCEMPCNVTRYGKELSMVKIPSKASAKYLAKKYNKSEQYIGENILVLDIFFEALNYETIEQKKAY</span><span class="topo-membrane">EVAGLLGDIGGQMGLFIGASILTVLELFDYA</span><span class="topo-unknown">YEVIKHR</span><span class="topo-outside">L</span><span class="topo-unknown">CRRGKCRKNHKRNNTD</span></span>
+<span class="topo-ruler">       490       500       510       520       </span>
 <span class="topo-line"><span class="topo-unknown">KGVALSMDDVKRHNPCESLRGHPAGMTYAANILPHHPARGTFEDFTC</span></span>
+<details class="topo-details"><summary>Topology coordinates (6 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2772,6 +2858,7 @@ Acid-sensing ion channel 1a (ASIC1a) is a proton-gated, sodium-selective ion cha
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2787,15 +2874,17 @@ Acid-sensing ion channel 1a (ASIC1a) is a proton-gated, sodium-selective ion cha
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MMDLKVDEEEVDSGQPVSIQAFASSSTLHGISHIFSYERL</span><span class="topo-outside">SLK</span><span class="topo-membrane">RVVWALCFMGSLALLAL</span></span>
-<span class="topo-line"><span class="topo-membrane">VCTNRIQYYF</span><span class="topo-inside">LYPHVTKLDEVAATRLTFPAVTFCNLNEFRFSRVTKNDLYHAGELLALLN</span></span>
-<span class="topo-line"><span class="topo-inside">NRYEIPDTQTADEKQLEILQDKANFRNFKPKPFNMLEFYDRAGHDIREMLLSCFFRGEQC</span></span>
-<span class="topo-line"><span class="topo-inside">SPEDFKVVFTRYGKCYTFNAGQDGKPRLITMKGGTGNGLEIMLDIQQDEYLPVWGETDET</span></span>
-<span class="topo-line"><span class="topo-inside">SFEAGIKVQIHSQDEPPLIDQLGFGVAPGFQTFVSCQEQRLIYLPPPWGDCKATTGDSEF</span></span>
-<span class="topo-line"><span class="topo-inside">YDTYSITACRIDCETRYLVENCNCRMVHMPGDAPYCTPEQYKECADPALDFLVEKDNEYC</span></span>
-<span class="topo-line"><span class="topo-inside">VCEMPCNVTRYGKELSMVKIPSKASAKYLAKKYNKSEQYIGENILVLDIFFEALNYETIE</span></span>
-<span class="topo-line"><span class="topo-inside">QKKAY</span><span class="topo-membrane">EVAGLLGDIGGQMGLFIGASILTVLELFDYA</span><span class="topo-unknown">YEVIKHR</span><span class="topo-outside">L</span><span class="topo-unknown">CRRGKCRKNHKRNNTD</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MMDLKVDEEEVDSGQPVSIQAFASSSTLHGISHIFSYERL</span><span class="topo-outside">SLK</span><span class="topo-membrane">RVVWALCFMGSLALLALVCTNRIQYYF</span><span class="topo-inside">LYPHVTKLDEVAATRLTFPAVTFCNLNEFRFSRVTKNDLYHAGELLALLN</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">NRYEIPDTQTADEKQLEILQDKANFRNFKPKPFNMLEFYDRAGHDIREMLLSCFFRGEQCSPEDFKVVFTRYGKCYTFNAGQDGKPRLITMKGGTGNGLEIMLDIQQDEYLPVWGETDET</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">SFEAGIKVQIHSQDEPPLIDQLGFGVAPGFQTFVSCQEQRLIYLPPPWGDCKATTGDSEFYDTYSITACRIDCETRYLVENCNCRMVHMPGDAPYCTPEQYKECADPALDFLVEKDNEYC</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">VCEMPCNVTRYGKELSMVKIPSKASAKYLAKKYNKSEQYIGENILVLDIFFEALNYETIEQKKAY</span><span class="topo-membrane">EVAGLLGDIGGQMGLFIGASILTVLELFDYA</span><span class="topo-unknown">YEVIKHR</span><span class="topo-outside">L</span><span class="topo-unknown">CRRGKCRKNHKRNNTD</span></span>
+<span class="topo-ruler">       490       500       510       520       </span>
 <span class="topo-line"><span class="topo-unknown">KGVALSMDDVKRHNPCESLRGHPAGMTYAANILPHHPARGTFEDFTC</span></span>
+<details class="topo-details"><summary>Topology coordinates (6 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2849,6 +2938,7 @@ Acid-sensing ion channel 1a (ASIC1a) is a proton-gated, sodium-selective ion cha
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2864,15 +2954,17 @@ Acid-sensing ion channel 1a (ASIC1a) is a proton-gated, sodium-selective ion cha
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MMDLKVDEEEVDSGQPVSIQAFASSSTLHGISHIFSYERL</span><span class="topo-outside">SLK</span><span class="topo-membrane">RVVWALCFMGSLALLAL</span></span>
-<span class="topo-line"><span class="topo-membrane">VCTNRIQYYF</span><span class="topo-inside">LYPHVTKLDEVAATRLTFPAVTFCNLNEFRFSRVTKNDLYHAGELLALLN</span></span>
-<span class="topo-line"><span class="topo-inside">NRYEIPDTQTADEKQLEILQDKANFRNFKPKPFNMLEFYDRAGHDIREMLLSCFFRGEQC</span></span>
-<span class="topo-line"><span class="topo-inside">SPEDFKVVFTRYGKCYTFNAGQDGKPRLITMKGGTGNGLEIMLDIQQDEYLPVWGETDET</span></span>
-<span class="topo-line"><span class="topo-inside">SFEAGIKVQIHSQDEPPLIDQLGFGVAPGFQTFVSCQEQRLIYLPPPWGDCKATTGDSEF</span></span>
-<span class="topo-line"><span class="topo-inside">YDTYSITACRIDCETRYLVENCNCRMVHMPGDAPYCTPEQYKECADPALDFLVEKDNEYC</span></span>
-<span class="topo-line"><span class="topo-inside">VCEMPCNVTRYGKELSMVKIPSKASAKYLAKKYNKSEQYIGENILVLDIFFEALNYETIE</span></span>
-<span class="topo-line"><span class="topo-inside">QKKAY</span><span class="topo-membrane">EVAGLLGDIGGQMGLFIGASILTVLELFDYA</span><span class="topo-unknown">YEVIKHR</span><span class="topo-outside">L</span><span class="topo-unknown">CRRGKCRKNHKRNNTD</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MMDLKVDEEEVDSGQPVSIQAFASSSTLHGISHIFSYERL</span><span class="topo-outside">SLK</span><span class="topo-membrane">RVVWALCFMGSLALLALVCTNRIQYYF</span><span class="topo-inside">LYPHVTKLDEVAATRLTFPAVTFCNLNEFRFSRVTKNDLYHAGELLALLN</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">NRYEIPDTQTADEKQLEILQDKANFRNFKPKPFNMLEFYDRAGHDIREMLLSCFFRGEQCSPEDFKVVFTRYGKCYTFNAGQDGKPRLITMKGGTGNGLEIMLDIQQDEYLPVWGETDET</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">SFEAGIKVQIHSQDEPPLIDQLGFGVAPGFQTFVSCQEQRLIYLPPPWGDCKATTGDSEFYDTYSITACRIDCETRYLVENCNCRMVHMPGDAPYCTPEQYKECADPALDFLVEKDNEYC</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">VCEMPCNVTRYGKELSMVKIPSKASAKYLAKKYNKSEQYIGENILVLDIFFEALNYETIEQKKAY</span><span class="topo-membrane">EVAGLLGDIGGQMGLFIGASILTVLELFDYA</span><span class="topo-unknown">YEVIKHR</span><span class="topo-outside">L</span><span class="topo-unknown">CRRGKCRKNHKRNNTD</span></span>
+<span class="topo-ruler">       490       500       510       520       </span>
 <span class="topo-line"><span class="topo-unknown">KGVALSMDDVKRHNPCESLRGHPAGMTYAANILPHHPARGTFEDFTC</span></span>
+<details class="topo-details"><summary>Topology coordinates (6 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2926,6 +3018,7 @@ Acid-sensing ion channel 1a (ASIC1a) is a proton-gated, sodium-selective ion cha
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2941,14 +3034,15 @@ Acid-sensing ion channel 1a (ASIC1a) is a proton-gated, sodium-selective ion cha
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">SSTLHGISHIFSYERLS</span><span class="topo-outside">LKRVV</span><span class="topo-membrane">WALCFMGSLALLALVCTNRIQYYFLY</span><span class="topo-inside">PHVTKLDEVAAT</span></span>
-<span class="topo-line"><span class="topo-inside">RLTFPAVTFCNLNEFRFSRVTKNDLYHAGELLALLNNRYEIPDTQTADEKQLEILQDKAN</span></span>
-<span class="topo-line"><span class="topo-inside">FRNFKPKPFNMLEFYDRAGHDIREMLLSCFFRGEQCSPEDFKVVFTRYGKCYTFNAGQDG</span></span>
-<span class="topo-line"><span class="topo-inside">KPRLITMKGGTGNGLEIMLDIQQDEYLPVWGETDETSFEAGIKVQIHSQDEPPLIDQLGF</span></span>
-<span class="topo-line"><span class="topo-inside">GVAPGFQTFVSCQEQRLIYLPPPWGDCKATTGDSEFYDTYSITACRIDCETRYLVENCNC</span></span>
-<span class="topo-line"><span class="topo-inside">RMVHMPGDAPYCTPEQYKECADPALDFLVEKDNEYCVCEMPCNVTRYGKELSMVKIPSKA</span></span>
-<span class="topo-line"><span class="topo-inside">SAKYLAKKYNKSEQYIGENILVLDIFFEALNYETIEQKK</span><span class="topo-membrane">AYEVAGLLGDIGGQMGLFIGA</span></span>
-<span class="topo-line"><span class="topo-outside">SILTVLELFDYAYE</span><span class="topo-unknown">VIKHR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">SSTLHGISHIFSYERLS</span><span class="topo-outside">LKRVV</span><span class="topo-membrane">WALCFMGSLALLALVCTNRIQYYFLY</span><span class="topo-inside">PHVTKLDEVAATRLTFPAVTFCNLNEFRFSRVTKNDLYHAGELLALLNNRYEIPDTQTADEKQLEILQDKAN</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FRNFKPKPFNMLEFYDRAGHDIREMLLSCFFRGEQCSPEDFKVVFTRYGKCYTFNAGQDGKPRLITMKGGTGNGLEIMLDIQQDEYLPVWGETDETSFEAGIKVQIHSQDEPPLIDQLGF</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">GVAPGFQTFVSCQEQRLIYLPPPWGDCKATTGDSEFYDTYSITACRIDCETRYLVENCNCRMVHMPGDAPYCTPEQYKECADPALDFLVEKDNEYCVCEMPCNVTRYGKELSMVKIPSKA</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430         </span>
+<span class="topo-line"><span class="topo-inside">SAKYLAKKYNKSEQYIGENILVLDIFFEALNYETIEQKK</span><span class="topo-membrane">AYEVAGLLGDIGGQMGLFIGA</span><span class="topo-outside">SILTVLELFDYAYE</span><span class="topo-unknown">VIKHR</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3009,6 +3103,7 @@ Acid-sensing ion channel 1a (ASIC1a) is a proton-gated, sodium-selective ion cha
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3024,14 +3119,15 @@ Acid-sensing ion channel 1a (ASIC1a) is a proton-gated, sodium-selective ion cha
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">SSTLHGISHIFSYERLS</span><span class="topo-outside">LKRVV</span><span class="topo-membrane">WALCFMGSLALLALVCTNRIQYYFLYP</span><span class="topo-inside">HVTKLDEVAAT</span></span>
-<span class="topo-line"><span class="topo-inside">RLTFPAVTFCNLNEFRFSRVTKNDLYHAGELLALLNNRYEIPDTQTADEKQLEILQDKAN</span></span>
-<span class="topo-line"><span class="topo-inside">FRNF</span><span class="topo-unknown">KPKP</span><span class="topo-inside">FNMLEFYDRAGHDIREMLLSCFFRGEQCSPEDFKVVFTRYGKCYTFNAGQDG</span></span>
-<span class="topo-line"><span class="topo-inside">KPRLITMKGGTGNGLEIMLDIQQDEYLPVWGETDETSFEAGIKVQIHSQDEPPLIDQLGF</span></span>
-<span class="topo-line"><span class="topo-inside">GVAPGFQTFVSCQEQRLIYLPPPWGDCKATTGDSEFYDTYSITACRIDCETRYLVENCNC</span></span>
-<span class="topo-line"><span class="topo-inside">RMVHMPGDAPYCTPEQYKECADPALDFLVEKDNEYCVCEMPCNVTRYGKELSMVKIPSKA</span></span>
-<span class="topo-line"><span class="topo-inside">SAKYLAKKYNKSEQYIGENILVLDIFFEALNYETIEQKK</span><span class="topo-membrane">AYEVAGLLGDIGGQMGLFIGA</span></span>
-<span class="topo-line"><span class="topo-outside">SILTVLELFDYAYEV</span><span class="topo-unknown">IKHR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">SSTLHGISHIFSYERLS</span><span class="topo-outside">LKRVV</span><span class="topo-membrane">WALCFMGSLALLALVCTNRIQYYFLYP</span><span class="topo-inside">HVTKLDEVAATRLTFPAVTFCNLNEFRFSRVTKNDLYHAGELLALLNNRYEIPDTQTADEKQLEILQDKAN</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FRNF</span><span class="topo-unknown">KPKP</span><span class="topo-inside">FNMLEFYDRAGHDIREMLLSCFFRGEQCSPEDFKVVFTRYGKCYTFNAGQDGKPRLITMKGGTGNGLEIMLDIQQDEYLPVWGETDETSFEAGIKVQIHSQDEPPLIDQLGF</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">GVAPGFQTFVSCQEQRLIYLPPPWGDCKATTGDSEFYDTYSITACRIDCETRYLVENCNCRMVHMPGDAPYCTPEQYKECADPALDFLVEKDNEYCVCEMPCNVTRYGKELSMVKIPSKA</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430         </span>
+<span class="topo-line"><span class="topo-inside">SAKYLAKKYNKSEQYIGENILVLDIFFEALNYETIEQKK</span><span class="topo-membrane">AYEVAGLLGDIGGQMGLFIGA</span><span class="topo-outside">SILTVLELFDYAYEV</span><span class="topo-unknown">IKHR</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3106,6 +3202,7 @@ Acid-sensing ion channel 1a (ASIC1a) is a proton-gated, sodium-selective ion cha
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3121,14 +3218,15 @@ Acid-sensing ion channel 1a (ASIC1a) is a proton-gated, sodium-selective ion cha
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">SSTLHGISHIFSYERLS</span><span class="topo-outside">LKRV</span><span class="topo-membrane">VWALCFMGSLALLALVCTNRIQYYFLYP</span><span class="topo-inside">HVTKLDEVAAT</span></span>
-<span class="topo-line"><span class="topo-inside">RLTFPAVTFCNLNEFRFSRVTKNDLYHAGELLALLNNRYEIPDTQTADEKQLEILQDKAN</span></span>
-<span class="topo-line"><span class="topo-inside">FRNFKPKPFNMLEFYDRAGHDIREMLLSCFFRGEQCSPEDFKVVFTRYGKCYTFNAGQDG</span></span>
-<span class="topo-line"><span class="topo-inside">KPRLITMKGGTGNGLEIMLDIQQDEYLPVWGETDETSFEAGIKVQIHSQDEPPLIDQLGF</span></span>
-<span class="topo-line"><span class="topo-inside">GVAPGFQTFVSCQEQRLIYLPPPWGDCKATTGDSEFYDTYSITACRIDCETRYLVENCNC</span></span>
-<span class="topo-line"><span class="topo-inside">RMVHMPGDAPYCTPEQYKECADPALDFLVEKDNEYCVCEMPCNVTRYGKELSMVKIPSKA</span></span>
-<span class="topo-line"><span class="topo-inside">SAKYLAKKYNKSEQYIGENILVLDIFFEALNYETIEQKK</span><span class="topo-membrane">AYEVAGLLGDIGGQMGLFIGA</span></span>
-<span class="topo-line"><span class="topo-outside">SILTVLELFDYAYEV</span><span class="topo-unknown">IKHR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">SSTLHGISHIFSYERLS</span><span class="topo-outside">LKRV</span><span class="topo-membrane">VWALCFMGSLALLALVCTNRIQYYFLYP</span><span class="topo-inside">HVTKLDEVAATRLTFPAVTFCNLNEFRFSRVTKNDLYHAGELLALLNNRYEIPDTQTADEKQLEILQDKAN</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FRNFKPKPFNMLEFYDRAGHDIREMLLSCFFRGEQCSPEDFKVVFTRYGKCYTFNAGQDGKPRLITMKGGTGNGLEIMLDIQQDEYLPVWGETDETSFEAGIKVQIHSQDEPPLIDQLGF</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">GVAPGFQTFVSCQEQRLIYLPPPWGDCKATTGDSEFYDTYSITACRIDCETRYLVENCNCRMVHMPGDAPYCTPEQYKECADPALDFLVEKDNEYCVCEMPCNVTRYGKELSMVKIPSKA</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430         </span>
+<span class="topo-line"><span class="topo-inside">SAKYLAKKYNKSEQYIGENILVLDIFFEALNYETIEQKK</span><span class="topo-membrane">AYEVAGLLGDIGGQMGLFIGA</span><span class="topo-outside">SILTVLELFDYAYEV</span><span class="topo-unknown">IKHR</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3189,6 +3287,7 @@ Acid-sensing ion channel 1a (ASIC1a) is a proton-gated, sodium-selective ion cha
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3204,14 +3303,15 @@ Acid-sensing ion channel 1a (ASIC1a) is a proton-gated, sodium-selective ion cha
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">SSTLHGISHIFSYERLS</span><span class="topo-outside">LKRVV</span><span class="topo-membrane">WALCFMGSLALLALVCTNRIQYYFLY</span><span class="topo-inside">PHVTKLDEVAAT</span></span>
-<span class="topo-line"><span class="topo-inside">RLTFPAVTFCNLNEFRFSRVTKNDLYHAGELLALLNNRYEIPDTQTADEKQLEILQDKAN</span></span>
-<span class="topo-line"><span class="topo-inside">FRNFKPKPFNMLEFYDRAGHDIREMLLSCFFRGEQCSPEDFKVVFTRYGKCYTFNAGQDG</span></span>
-<span class="topo-line"><span class="topo-inside">KPRLITMKGGTGNGLEIMLDIQQDEYLPVWGETDETSFEAGIKVQIHSQDEPPLIDQLGF</span></span>
-<span class="topo-line"><span class="topo-inside">GVAPGFQTFVSCQEQRLIYLPPPWGDCKATTGDSEFYDTYSITACRIDCETRYLVENCNC</span></span>
-<span class="topo-line"><span class="topo-inside">RMVHMPGDAPYCTPEQYKECADPALDFLVEKDNEYCVCEMPCNVTRYGKELSMVKIPSKA</span></span>
-<span class="topo-line"><span class="topo-inside">SAKYLAKKYNKSEQYIGENILVLDIFFEALNYETIEQKK</span><span class="topo-membrane">AYEVAGLLGDIGGQMGLFIGA</span></span>
-<span class="topo-line"><span class="topo-outside">SILTVLELFDYAYE</span><span class="topo-unknown">VIKHR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">SSTLHGISHIFSYERLS</span><span class="topo-outside">LKRVV</span><span class="topo-membrane">WALCFMGSLALLALVCTNRIQYYFLY</span><span class="topo-inside">PHVTKLDEVAATRLTFPAVTFCNLNEFRFSRVTKNDLYHAGELLALLNNRYEIPDTQTADEKQLEILQDKAN</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FRNFKPKPFNMLEFYDRAGHDIREMLLSCFFRGEQCSPEDFKVVFTRYGKCYTFNAGQDGKPRLITMKGGTGNGLEIMLDIQQDEYLPVWGETDETSFEAGIKVQIHSQDEPPLIDQLGF</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">GVAPGFQTFVSCQEQRLIYLPPPWGDCKATTGDSEFYDTYSITACRIDCETRYLVENCNCRMVHMPGDAPYCTPEQYKECADPALDFLVEKDNEYCVCEMPCNVTRYGKELSMVKIPSKA</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430         </span>
+<span class="topo-line"><span class="topo-inside">SAKYLAKKYNKSEQYIGENILVLDIFFEALNYETIEQKK</span><span class="topo-membrane">AYEVAGLLGDIGGQMGLFIGA</span><span class="topo-outside">SILTVLELFDYAYE</span><span class="topo-unknown">VIKHR</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3272,6 +3372,7 @@ Acid-sensing ion channel 1a (ASIC1a) is a proton-gated, sodium-selective ion cha
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3287,14 +3388,15 @@ Acid-sensing ion channel 1a (ASIC1a) is a proton-gated, sodium-selective ion cha
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">SSTLHGISHIFSYERLS</span><span class="topo-outside">LKRVV</span><span class="topo-membrane">WALCFMGSLALLALVCTNRIQYYFLYP</span><span class="topo-inside">HVTKLDEVAAT</span></span>
-<span class="topo-line"><span class="topo-inside">RLTFPAVTFCNLNEFRFSRVTKNDLYHAGELLALLNNRYEIPDTQTADEKQLEILQDKAN</span></span>
-<span class="topo-line"><span class="topo-inside">FRNF</span><span class="topo-unknown">KPKP</span><span class="topo-inside">FNMLEFYDRAGHDIREMLLSCFFRGEQCSPEDFKVVFTRYGKCYTFNAGQDG</span></span>
-<span class="topo-line"><span class="topo-inside">KPRLITMKGGTGNGLEIMLDIQQDEYLPVWGETDETSFEAGIKVQIHSQDEPPLIDQLGF</span></span>
-<span class="topo-line"><span class="topo-inside">GVAPGFQTFVSCQEQRLIYLPPPWGDCKATTGDSEFYDTYSITACRIDCETRYLVENCNC</span></span>
-<span class="topo-line"><span class="topo-inside">RMVHMPGDAPYCTPEQYKECADPALDFLVEKDNEYCVCEMPCNVTRYGKELSMVKIPSKA</span></span>
-<span class="topo-line"><span class="topo-inside">SAKYLAKKYNKSEQYIGENILVLDIFFEALNYETIEQKK</span><span class="topo-membrane">AYEVAGLLGDIGGQMGLFIGA</span></span>
-<span class="topo-line"><span class="topo-outside">SILTVLELFDYAYEV</span><span class="topo-unknown">IKHR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">SSTLHGISHIFSYERLS</span><span class="topo-outside">LKRVV</span><span class="topo-membrane">WALCFMGSLALLALVCTNRIQYYFLYP</span><span class="topo-inside">HVTKLDEVAATRLTFPAVTFCNLNEFRFSRVTKNDLYHAGELLALLNNRYEIPDTQTADEKQLEILQDKAN</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FRNF</span><span class="topo-unknown">KPKP</span><span class="topo-inside">FNMLEFYDRAGHDIREMLLSCFFRGEQCSPEDFKVVFTRYGKCYTFNAGQDGKPRLITMKGGTGNGLEIMLDIQQDEYLPVWGETDETSFEAGIKVQIHSQDEPPLIDQLGF</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">GVAPGFQTFVSCQEQRLIYLPPPWGDCKATTGDSEFYDTYSITACRIDCETRYLVENCNCRMVHMPGDAPYCTPEQYKECADPALDFLVEKDNEYCVCEMPCNVTRYGKELSMVKIPSKA</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430         </span>
+<span class="topo-line"><span class="topo-inside">SAKYLAKKYNKSEQYIGENILVLDIFFEALNYETIEQKK</span><span class="topo-membrane">AYEVAGLLGDIGGQMGLFIGA</span><span class="topo-outside">SILTVLELFDYAYEV</span><span class="topo-unknown">IKHR</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3369,6 +3471,7 @@ Acid-sensing ion channel 1a (ASIC1a) is a proton-gated, sodium-selective ion cha
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3384,14 +3487,15 @@ Acid-sensing ion channel 1a (ASIC1a) is a proton-gated, sodium-selective ion cha
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">SSTLHGISHIFSYERLS</span><span class="topo-outside">LKRV</span><span class="topo-membrane">VWALCFMGSLALLALVCTNRIQYYFLYP</span><span class="topo-inside">HVTKLDEVAAT</span></span>
-<span class="topo-line"><span class="topo-inside">RLTFPAVTFCNLNEFRFSRVTKNDLYHAGELLALLNNRYEIPDTQTADEKQLEILQDKAN</span></span>
-<span class="topo-line"><span class="topo-inside">FRNFKPKPFNMLEFYDRAGHDIREMLLSCFFRGEQCSPEDFKVVFTRYGKCYTFNAGQDG</span></span>
-<span class="topo-line"><span class="topo-inside">KPRLITMKGGTGNGLEIMLDIQQDEYLPVWGETDETSFEAGIKVQIHSQDEPPLIDQLGF</span></span>
-<span class="topo-line"><span class="topo-inside">GVAPGFQTFVSCQEQRLIYLPPPWGDCKATTGDSEFYDTYSITACRIDCETRYLVENCNC</span></span>
-<span class="topo-line"><span class="topo-inside">RMVHMPGDAPYCTPEQYKECADPALDFLVEKDNEYCVCEMPCNVTRYGKELSMVKIPSKA</span></span>
-<span class="topo-line"><span class="topo-inside">SAKYLAKKYNKSEQYIGENILVLDIFFEALNYETIEQKK</span><span class="topo-membrane">AYEVAGLLGDIGGQMGLFIGA</span></span>
-<span class="topo-line"><span class="topo-outside">SILTVLELFDYAYEV</span><span class="topo-unknown">IKHR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">SSTLHGISHIFSYERLS</span><span class="topo-outside">LKRV</span><span class="topo-membrane">VWALCFMGSLALLALVCTNRIQYYFLYP</span><span class="topo-inside">HVTKLDEVAATRLTFPAVTFCNLNEFRFSRVTKNDLYHAGELLALLNNRYEIPDTQTADEKQLEILQDKAN</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FRNFKPKPFNMLEFYDRAGHDIREMLLSCFFRGEQCSPEDFKVVFTRYGKCYTFNAGQDGKPRLITMKGGTGNGLEIMLDIQQDEYLPVWGETDETSFEAGIKVQIHSQDEPPLIDQLGF</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">GVAPGFQTFVSCQEQRLIYLPPPWGDCKATTGDSEFYDTYSITACRIDCETRYLVENCNCRMVHMPGDAPYCTPEQYKECADPALDFLVEKDNEYCVCEMPCNVTRYGKELSMVKIPSKA</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430         </span>
+<span class="topo-line"><span class="topo-inside">SAKYLAKKYNKSEQYIGENILVLDIFFEALNYETIEQKK</span><span class="topo-membrane">AYEVAGLLGDIGGQMGLFIGA</span><span class="topo-outside">SILTVLELFDYAYEV</span><span class="topo-unknown">IKHR</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3452,6 +3556,7 @@ Acid-sensing ion channel 1a (ASIC1a) is a proton-gated, sodium-selective ion cha
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

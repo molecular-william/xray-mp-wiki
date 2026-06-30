@@ -199,10 +199,11 @@ Art(QN)2 is a homodimeric type I ABC importer from the thermophilic bacterium Th
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MIFVNDVYKNFGSLEVLKGVTLKVNKGEVVVIIGPSGSGKSTLLRCINLLEEPTKGEVFI</span></span>
-<span class="topo-line"><span class="topo-inside">DGVKINNGKVNINKVRQKVGMVFQHFNLFPHLTAIENITLAPVKVKKMNKKEAEELAVDL</span></span>
-<span class="topo-line"><span class="topo-inside">LAKVGLLDKKDQYPIKLSGGQKQRLAIARALAMQPEVMLFDEPTSALDPEMVKEVLNVMK</span></span>
-<span class="topo-line"><span class="topo-inside">QLANEGMTMVVVTHEMGFAREVGDRVIFMDDGVIVEEGTPEEIFYRAKNERTREFLSKIL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">MIFVNDVYKNFGSLEVLKGVTLKVNKGEVVVIIGPSGSGKSTLLRCINLLEEPTKGEVFIDGVKINNGKVNINKVRQKVGMVFQHFNLFPHLTAIENITLAPVKVKKMNKKEAEELAVDL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">LAKVGLLDKKDQYPIKLSGGQKQRLAIARALAMQPEVMLFDEPTSALDPEMVKEVLNVMKQLANEGMTMVVVTHEMGFAREVGDRVIFMDDGVIVEEGTPEEIFYRAKNERTREFLSKIL</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -221,6 +222,7 @@ Art(QN)2 is a homodimeric type I ABC importer from the thermophilic bacterium Th
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -236,10 +238,11 @@ Art(QN)2 is a homodimeric type I ABC importer from the thermophilic bacterium Th
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MIFVNDVYKNFGSLEVLKGVTLKVNKGEVVVIIGPSGSGKSTLLRCINLLEEPTKGEVFI</span></span>
-<span class="topo-line"><span class="topo-inside">DGVKINNGKVNINKVRQKVGMVFQHFNLFPHLTAIENITLAPVKVKKMNKKEAEELAVDL</span></span>
-<span class="topo-line"><span class="topo-inside">LAKVGLLDKKDQYPIKLSGGQKQRLAIARALAMQPEVMLFDEPTSALDPEMVKEVLNVMK</span></span>
-<span class="topo-line"><span class="topo-inside">QLANEGMTMVVVTHEMGFAREVGDRVIFMDDGVIVEEGTPEEIFYRAKNERTREFLSKIL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">MIFVNDVYKNFGSLEVLKGVTLKVNKGEVVVIIGPSGSGKSTLLRCINLLEEPTKGEVFIDGVKINNGKVNINKVRQKVGMVFQHFNLFPHLTAIENITLAPVKVKKMNKKEAEELAVDL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">LAKVGLLDKKDQYPIKLSGGQKQRLAIARALAMQPEVMLFDEPTSALDPEMVKEVLNVMKQLANEGMTMVVVTHEMGFAREVGDRVIFMDDGVIVEEGTPEEIFYRAKNERTREFLSKIL</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -258,6 +261,7 @@ Art(QN)2 is a homodimeric type I ABC importer from the thermophilic bacterium Th
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -273,10 +277,11 @@ Art(QN)2 is a homodimeric type I ABC importer from the thermophilic bacterium Th
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MTV</span><span class="topo-membrane">DFLSMVKYTPLFISGLIMTLKLTFLAVTIGVLMGLFIALMK</span><span class="topo-inside">MSSI</span><span class="topo-membrane">KPIKLVASSYIE</span></span>
-<span class="topo-line"><span class="topo-membrane">VIRGTPLLVQLLLIYNGL</span><span class="topo-outside">MQFGMNI</span><span class="topo-membrane">PAFTAGVSALAINSSAYVAEII</span><span class="topo-inside">RAGIQAVDPGQNE</span></span>
-<span class="topo-line"><span class="topo-inside">AARSLGMTHAMAMRYVIIPQAIKNIL</span><span class="topo-membrane">PALGNEFIVMLKESAIVSVIGF</span><span class="topo-outside">ADLTRQADIIQS</span></span>
-<span class="topo-line"><span class="topo-outside">VTYRY</span><span class="topo-membrane">FEPYIIIAAIYFVMTLTFSKLL</span><span class="topo-inside">SLFERRLR</span><span class="topo-unknown">AGDIR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MTV</span><span class="topo-membrane">DFLSMVKYTPLFISGLIMTLKLTFLAVTIGVLMGLFIALMK</span><span class="topo-inside">MSSI</span><span class="topo-membrane">KPIKLVASSYIEVIRGTPLLVQLLLIYNGL</span><span class="topo-outside">MQFGMNI</span><span class="topo-membrane">PAFTAGVSALAINSSAYVAEII</span><span class="topo-inside">RAGIQAVDPGQNE</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220</span>
+<span class="topo-line"><span class="topo-inside">AARSLGMTHAMAMRYVIIPQAIKNIL</span><span class="topo-membrane">PALGNEFIVMLKESAIVSVIGF</span><span class="topo-outside">ADLTRQADIIQSVTYRY</span><span class="topo-membrane">FEPYIIIAAIYFVMTLTFSKLL</span><span class="topo-inside">SLFERRLR</span><span class="topo-unknown">AGDIR</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -365,6 +370,7 @@ Art(QN)2 is a homodimeric type I ABC importer from the thermophilic bacterium Th
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -380,10 +386,11 @@ Art(QN)2 is a homodimeric type I ABC importer from the thermophilic bacterium Th
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MTV</span><span class="topo-membrane">DFLSMVKYTPLFISGLIMTLKLTFLAVTIGVLMGLFIALMK</span><span class="topo-inside">MSSI</span><span class="topo-membrane">KPIKLVASSYIE</span></span>
-<span class="topo-line"><span class="topo-membrane">VIRGTPLLVQLLLIYNGL</span><span class="topo-outside">MQFGMNI</span><span class="topo-membrane">PAFTAGVSALAINSSAYVAEII</span><span class="topo-inside">RAGIQAVDPGQNE</span></span>
-<span class="topo-line"><span class="topo-inside">AARSLGMTHAMAMRYVIIPQAIKNIL</span><span class="topo-membrane">PALGNEFIVMLKESAIVSVIGF</span><span class="topo-outside">ADLTRQADIIQS</span></span>
-<span class="topo-line"><span class="topo-outside">VTYRY</span><span class="topo-membrane">FEPYIIIAAIYFVMTLTFSKLL</span><span class="topo-inside">SLFERRL</span><span class="topo-unknown">RAGDIR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MTV</span><span class="topo-membrane">DFLSMVKYTPLFISGLIMTLKLTFLAVTIGVLMGLFIALMK</span><span class="topo-inside">MSSI</span><span class="topo-membrane">KPIKLVASSYIEVIRGTPLLVQLLLIYNGL</span><span class="topo-outside">MQFGMNI</span><span class="topo-membrane">PAFTAGVSALAINSSAYVAEII</span><span class="topo-inside">RAGIQAVDPGQNE</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220</span>
+<span class="topo-line"><span class="topo-inside">AARSLGMTHAMAMRYVIIPQAIKNIL</span><span class="topo-membrane">PALGNEFIVMLKESAIVSVIGF</span><span class="topo-outside">ADLTRQADIIQSVTYRY</span><span class="topo-membrane">FEPYIIIAAIYFVMTLTFSKLL</span><span class="topo-inside">SLFERRL</span><span class="topo-unknown">RAGDIR</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -472,6 +479,7 @@ Art(QN)2 is a homodimeric type I ABC importer from the thermophilic bacterium Th
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -487,10 +495,11 @@ Art(QN)2 is a homodimeric type I ABC importer from the thermophilic bacterium Th
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MIFVNDVYKNFGSLEVLKGVTLKVNKGEVVVIIGPSGSGKSTLLRCINLLEEPTKGEVFI</span></span>
-<span class="topo-line"><span class="topo-inside">DGVKINNGKVNINKVRQKVGMVFQHFNLFPHLTAIENITLAPVKVKKMNKKEAEELAVDL</span></span>
-<span class="topo-line"><span class="topo-inside">LAKVGLLDKKDQYPIKLSGGQKQRLAIARALAMQPEVMLFDEPTSALDPEMVKEVLNVMK</span></span>
-<span class="topo-line"><span class="topo-inside">QLANEGMTMVVVTHEMGFAREVGDRVIFMDDGVIVEEGTPEEIFYRAKNERTREFLSKIL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">MIFVNDVYKNFGSLEVLKGVTLKVNKGEVVVIIGPSGSGKSTLLRCINLLEEPTKGEVFIDGVKINNGKVNINKVRQKVGMVFQHFNLFPHLTAIENITLAPVKVKKMNKKEAEELAVDL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">LAKVGLLDKKDQYPIKLSGGQKQRLAIARALAMQPEVMLFDEPTSALDPEMVKEVLNVMKQLANEGMTMVVVTHEMGFAREVGDRVIFMDDGVIVEEGTPEEIFYRAKNERTREFLSKIL</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -509,6 +518,7 @@ Art(QN)2 is a homodimeric type I ABC importer from the thermophilic bacterium Th
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -524,10 +534,11 @@ Art(QN)2 is a homodimeric type I ABC importer from the thermophilic bacterium Th
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MIFVNDVYKNFGSLEVLKGVTLKVNKGEVVVIIGPSGSGKSTLLRCINLLEEPTKGEVFI</span></span>
-<span class="topo-line"><span class="topo-inside">DGVKINNGKVNINKVRQKVGMVFQHFNLFPHLTAIENITLAPVKVKKMNKKEAEELAVDL</span></span>
-<span class="topo-line"><span class="topo-inside">LAKVGLLDKKDQYPIKLSGGQKQRLAIARALAMQPEVMLFDEPTSALDPEMVKEVLNVMK</span></span>
-<span class="topo-line"><span class="topo-inside">QLANEGMTMVVVTHEMGFAREVGDRVIFMDDGVIVEEGTPEEIFYRAKNERTREFLSKIL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">MIFVNDVYKNFGSLEVLKGVTLKVNKGEVVVIIGPSGSGKSTLLRCINLLEEPTKGEVFIDGVKINNGKVNINKVRQKVGMVFQHFNLFPHLTAIENITLAPVKVKKMNKKEAEELAVDL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">LAKVGLLDKKDQYPIKLSGGQKQRLAIARALAMQPEVMLFDEPTSALDPEMVKEVLNVMKQLANEGMTMVVVTHEMGFAREVGDRVIFMDDGVIVEEGTPEEIFYRAKNERTREFLSKIL</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -546,6 +557,7 @@ Art(QN)2 is a homodimeric type I ABC importer from the thermophilic bacterium Th
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -561,10 +573,11 @@ Art(QN)2 is a homodimeric type I ABC importer from the thermophilic bacterium Th
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MTV</span><span class="topo-membrane">DFLSMVKYTPLFISGLIMTLKLTFLAVTIGVLMGLFIALMK</span><span class="topo-inside">MSSI</span><span class="topo-membrane">KPIKLVASSYIE</span></span>
-<span class="topo-line"><span class="topo-membrane">VIRGTPLLVQLLLIYNGL</span><span class="topo-outside">MQFGMNI</span><span class="topo-membrane">PAFTAGVSALAINSSAYVAEII</span><span class="topo-inside">RAGIQAVDPGQNE</span></span>
-<span class="topo-line"><span class="topo-inside">AARSLGMTHAMAMRYVIIPQAIKNIL</span><span class="topo-membrane">PALGNEFIVMLKESAIVSVIGF</span><span class="topo-outside">ADLTRQADIIQS</span></span>
-<span class="topo-line"><span class="topo-outside">VTYRY</span><span class="topo-membrane">FEPYIIIAAIYFVMTLTFSKLL</span><span class="topo-inside">SLFERRLR</span><span class="topo-unknown">AGDIR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MTV</span><span class="topo-membrane">DFLSMVKYTPLFISGLIMTLKLTFLAVTIGVLMGLFIALMK</span><span class="topo-inside">MSSI</span><span class="topo-membrane">KPIKLVASSYIEVIRGTPLLVQLLLIYNGL</span><span class="topo-outside">MQFGMNI</span><span class="topo-membrane">PAFTAGVSALAINSSAYVAEII</span><span class="topo-inside">RAGIQAVDPGQNE</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220</span>
+<span class="topo-line"><span class="topo-inside">AARSLGMTHAMAMRYVIIPQAIKNIL</span><span class="topo-membrane">PALGNEFIVMLKESAIVSVIGF</span><span class="topo-outside">ADLTRQADIIQSVTYRY</span><span class="topo-membrane">FEPYIIIAAIYFVMTLTFSKLL</span><span class="topo-inside">SLFERRLR</span><span class="topo-unknown">AGDIR</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -653,6 +666,7 @@ Art(QN)2 is a homodimeric type I ABC importer from the thermophilic bacterium Th
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -668,10 +682,11 @@ Art(QN)2 is a homodimeric type I ABC importer from the thermophilic bacterium Th
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MTV</span><span class="topo-membrane">DFLSMVKYTPLFISGLIMTLKLTFLAVTIGVLMGLFIALMK</span><span class="topo-inside">MSSI</span><span class="topo-membrane">KPIKLVASSYIE</span></span>
-<span class="topo-line"><span class="topo-membrane">VIRGTPLLVQLLLIYNGL</span><span class="topo-outside">MQFGMNI</span><span class="topo-membrane">PAFTAGVSALAINSSAYVAEII</span><span class="topo-inside">RAGIQAVDPGQNE</span></span>
-<span class="topo-line"><span class="topo-inside">AARSLGMTHAMAMRYVIIPQAIKNIL</span><span class="topo-membrane">PALGNEFIVMLKESAIVSVIGF</span><span class="topo-outside">ADLTRQADIIQS</span></span>
-<span class="topo-line"><span class="topo-outside">VTYRY</span><span class="topo-membrane">FEPYIIIAAIYFVMTLTFSKLL</span><span class="topo-inside">SLFERRL</span><span class="topo-unknown">RAGDIR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MTV</span><span class="topo-membrane">DFLSMVKYTPLFISGLIMTLKLTFLAVTIGVLMGLFIALMK</span><span class="topo-inside">MSSI</span><span class="topo-membrane">KPIKLVASSYIEVIRGTPLLVQLLLIYNGL</span><span class="topo-outside">MQFGMNI</span><span class="topo-membrane">PAFTAGVSALAINSSAYVAEII</span><span class="topo-inside">RAGIQAVDPGQNE</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220</span>
+<span class="topo-line"><span class="topo-inside">AARSLGMTHAMAMRYVIIPQAIKNIL</span><span class="topo-membrane">PALGNEFIVMLKESAIVSVIGF</span><span class="topo-outside">ADLTRQADIIQSVTYRY</span><span class="topo-membrane">FEPYIIIAAIYFVMTLTFSKLL</span><span class="topo-inside">SLFERRL</span><span class="topo-unknown">RAGDIR</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -760,6 +775,7 @@ Art(QN)2 is a homodimeric type I ABC importer from the thermophilic bacterium Th
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -775,10 +791,11 @@ Art(QN)2 is a homodimeric type I ABC importer from the thermophilic bacterium Th
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MIFVNDVYKNFGSLEVLKGVTLKVNKGEVVVIIGPSGSGKSTLLRCINLLEEPTKGEVFI</span></span>
-<span class="topo-line"><span class="topo-inside">DGVKINNGKVNINKVRQKVGMVFQHFNLFPHLTAIENITLAPVKVKKMNKKEAEELAVDL</span></span>
-<span class="topo-line"><span class="topo-inside">LAKVGLLDKKDQYPIKLSGGQKQRLAIARALAMQPEVMLFDEPTSALDPEMVKEVLNVMK</span></span>
-<span class="topo-line"><span class="topo-inside">QLANEGMTMVVVTHEMGFAREVGDRVIFMDDGVIVEEGTPEEIFYRAKNERTREFLSKIL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">MIFVNDVYKNFGSLEVLKGVTLKVNKGEVVVIIGPSGSGKSTLLRCINLLEEPTKGEVFIDGVKINNGKVNINKVRQKVGMVFQHFNLFPHLTAIENITLAPVKVKKMNKKEAEELAVDL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">LAKVGLLDKKDQYPIKLSGGQKQRLAIARALAMQPEVMLFDEPTSALDPEMVKEVLNVMKQLANEGMTMVVVTHEMGFAREVGDRVIFMDDGVIVEEGTPEEIFYRAKNERTREFLSKIL</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -797,6 +814,7 @@ Art(QN)2 is a homodimeric type I ABC importer from the thermophilic bacterium Th
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -812,10 +830,11 @@ Art(QN)2 is a homodimeric type I ABC importer from the thermophilic bacterium Th
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MIFVNDVYKNFGSLEVLKGVTLKVNKGEVVVIIGPSGSGKSTLLRCINLLEEPTKGEVFI</span></span>
-<span class="topo-line"><span class="topo-inside">DGVKINNGKVNINKVRQKVGMVFQHFNLFPHLTAIENITLAPVKVKKMNKKEAEELAVDL</span></span>
-<span class="topo-line"><span class="topo-inside">LAKVGLLDKKDQYPIKLSGGQKQRLAIARALAMQPEVMLFDEPTSALDPEMVKEVLNVMK</span></span>
-<span class="topo-line"><span class="topo-inside">QLANEGMTMVVVTHEMGFAREVGDRVIFMDDGVIVEEGTPEEIFYRAKNERTREFLSKIL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">MIFVNDVYKNFGSLEVLKGVTLKVNKGEVVVIIGPSGSGKSTLLRCINLLEEPTKGEVFIDGVKINNGKVNINKVRQKVGMVFQHFNLFPHLTAIENITLAPVKVKKMNKKEAEELAVDL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">LAKVGLLDKKDQYPIKLSGGQKQRLAIARALAMQPEVMLFDEPTSALDPEMVKEVLNVMKQLANEGMTMVVVTHEMGFAREVGDRVIFMDDGVIVEEGTPEEIFYRAKNERTREFLSKIL</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -834,6 +853,7 @@ Art(QN)2 is a homodimeric type I ABC importer from the thermophilic bacterium Th
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -849,10 +869,11 @@ Art(QN)2 is a homodimeric type I ABC importer from the thermophilic bacterium Th
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MTV</span><span class="topo-membrane">DFLSMVKYTPLFISGLIMTLKLTFLAVTIGVLMGLFIALMK</span><span class="topo-inside">MSSI</span><span class="topo-membrane">KPIKLVASSYIE</span></span>
-<span class="topo-line"><span class="topo-membrane">VIRGTPLLVQLLLIYNGL</span><span class="topo-outside">MQFGMNI</span><span class="topo-membrane">PAFTAGVSALAINSSAYVAEII</span><span class="topo-inside">RAGIQAVDPGQNE</span></span>
-<span class="topo-line"><span class="topo-inside">AARSLGMTHAMAMRYVIIPQAIKNIL</span><span class="topo-membrane">PALGNEFIVMLKESAIVSVIGF</span><span class="topo-outside">ADLTRQADIIQS</span></span>
-<span class="topo-line"><span class="topo-outside">VTYRY</span><span class="topo-membrane">FEPYIIIAAIYFVMTLTFSKLL</span><span class="topo-inside">SLFERRLR</span><span class="topo-unknown">AGDIR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MTV</span><span class="topo-membrane">DFLSMVKYTPLFISGLIMTLKLTFLAVTIGVLMGLFIALMK</span><span class="topo-inside">MSSI</span><span class="topo-membrane">KPIKLVASSYIEVIRGTPLLVQLLLIYNGL</span><span class="topo-outside">MQFGMNI</span><span class="topo-membrane">PAFTAGVSALAINSSAYVAEII</span><span class="topo-inside">RAGIQAVDPGQNE</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220</span>
+<span class="topo-line"><span class="topo-inside">AARSLGMTHAMAMRYVIIPQAIKNIL</span><span class="topo-membrane">PALGNEFIVMLKESAIVSVIGF</span><span class="topo-outside">ADLTRQADIIQSVTYRY</span><span class="topo-membrane">FEPYIIIAAIYFVMTLTFSKLL</span><span class="topo-inside">SLFERRLR</span><span class="topo-unknown">AGDIR</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -941,6 +962,7 @@ Art(QN)2 is a homodimeric type I ABC importer from the thermophilic bacterium Th
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -956,10 +978,11 @@ Art(QN)2 is a homodimeric type I ABC importer from the thermophilic bacterium Th
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MTV</span><span class="topo-membrane">DFLSMVKYTPLFISGLIMTLKLTFLAVTIGVLMGLFIALMK</span><span class="topo-inside">MSSI</span><span class="topo-membrane">KPIKLVASSYIE</span></span>
-<span class="topo-line"><span class="topo-membrane">VIRGTPLLVQLLLIYNGL</span><span class="topo-outside">MQFGMNI</span><span class="topo-membrane">PAFTAGVSALAINSSAYVAEII</span><span class="topo-inside">RAGIQAVDPGQNE</span></span>
-<span class="topo-line"><span class="topo-inside">AARSLGMTHAMAMRYVIIPQAIKNIL</span><span class="topo-membrane">PALGNEFIVMLKESAIVSVIGF</span><span class="topo-outside">ADLTRQADIIQS</span></span>
-<span class="topo-line"><span class="topo-outside">VTYRY</span><span class="topo-membrane">FEPYIIIAAIYFVMTLTFSKLL</span><span class="topo-inside">SLFERRL</span><span class="topo-unknown">RAGDIR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MTV</span><span class="topo-membrane">DFLSMVKYTPLFISGLIMTLKLTFLAVTIGVLMGLFIALMK</span><span class="topo-inside">MSSI</span><span class="topo-membrane">KPIKLVASSYIEVIRGTPLLVQLLLIYNGL</span><span class="topo-outside">MQFGMNI</span><span class="topo-membrane">PAFTAGVSALAINSSAYVAEII</span><span class="topo-inside">RAGIQAVDPGQNE</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220</span>
+<span class="topo-line"><span class="topo-inside">AARSLGMTHAMAMRYVIIPQAIKNIL</span><span class="topo-membrane">PALGNEFIVMLKESAIVSVIGF</span><span class="topo-outside">ADLTRQADIIQSVTYRY</span><span class="topo-membrane">FEPYIIIAAIYFVMTLTFSKLL</span><span class="topo-inside">SLFERRL</span><span class="topo-unknown">RAGDIR</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1048,6 +1071,7 @@ Art(QN)2 is a homodimeric type I ABC importer from the thermophilic bacterium Th
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1063,10 +1087,11 @@ Art(QN)2 is a homodimeric type I ABC importer from the thermophilic bacterium Th
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MIFVNDVYKNFGSLEVLKGVTLKVNKGEVVVIIGPSGSGKSTLLRCINLLEEPTKGEVFI</span></span>
-<span class="topo-line"><span class="topo-inside">DGVKINNGKVNINKVRQKVGMVFQHFNLFPHLTAIENITLAPVKVKKMNKKEAEELAVDL</span></span>
-<span class="topo-line"><span class="topo-inside">LAKVGLLDKKDQYPIKLSGGQKQRLAIARALAMQPEVMLFDEPTSALDPEMVKEVLNVMK</span></span>
-<span class="topo-line"><span class="topo-inside">QLANEGMTMVVVTHEMGFAREVGDRVIFMDDGVIVEEGTPEEIFYRAKNERTREFLSKIL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">MIFVNDVYKNFGSLEVLKGVTLKVNKGEVVVIIGPSGSGKSTLLRCINLLEEPTKGEVFIDGVKINNGKVNINKVRQKVGMVFQHFNLFPHLTAIENITLAPVKVKKMNKKEAEELAVDL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">LAKVGLLDKKDQYPIKLSGGQKQRLAIARALAMQPEVMLFDEPTSALDPEMVKEVLNVMKQLANEGMTMVVVTHEMGFAREVGDRVIFMDDGVIVEEGTPEEIFYRAKNERTREFLSKIL</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1085,6 +1110,7 @@ Art(QN)2 is a homodimeric type I ABC importer from the thermophilic bacterium Th
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1100,10 +1126,11 @@ Art(QN)2 is a homodimeric type I ABC importer from the thermophilic bacterium Th
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MIFVNDVYKNFGSLEVLKGVTLKVNKGEVVVIIGPSGSGKSTLLRCINLLEEPTKGEVFI</span></span>
-<span class="topo-line"><span class="topo-inside">DGVKINNGKVNINKVRQKVGMVFQHFNLFPHLTAIENITLAPVKVKKMNKKEAEELAVDL</span></span>
-<span class="topo-line"><span class="topo-inside">LAKVGLLDKKDQYPIKLSGGQKQRLAIARALAMQPEVMLFDEPTSALDPEMVKEVLNVMK</span></span>
-<span class="topo-line"><span class="topo-inside">QLANEGMTMVVVTHEMGFAREVGDRVIFMDDGVIVEEGTPEEIFYRAKNERTREFLSKIL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">MIFVNDVYKNFGSLEVLKGVTLKVNKGEVVVIIGPSGSGKSTLLRCINLLEEPTKGEVFIDGVKINNGKVNINKVRQKVGMVFQHFNLFPHLTAIENITLAPVKVKKMNKKEAEELAVDL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">LAKVGLLDKKDQYPIKLSGGQKQRLAIARALAMQPEVMLFDEPTSALDPEMVKEVLNVMKQLANEGMTMVVVTHEMGFAREVGDRVIFMDDGVIVEEGTPEEIFYRAKNERTREFLSKIL</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1122,6 +1149,7 @@ Art(QN)2 is a homodimeric type I ABC importer from the thermophilic bacterium Th
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1137,10 +1165,11 @@ Art(QN)2 is a homodimeric type I ABC importer from the thermophilic bacterium Th
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MTV</span><span class="topo-membrane">DFLSMVKYTPLFISGLIMTLKLTFLAVTIGVLMGLFIALMK</span><span class="topo-inside">MSSI</span><span class="topo-membrane">KPIKLVASSYIE</span></span>
-<span class="topo-line"><span class="topo-membrane">VIRGTPLLVQLLLIYNGL</span><span class="topo-outside">MQFGMNI</span><span class="topo-membrane">PAFTAGVSALAINSSAYVAEII</span><span class="topo-inside">RAGIQAVDPGQNE</span></span>
-<span class="topo-line"><span class="topo-inside">AARSLGMTHAMAMRYVIIPQAIKNIL</span><span class="topo-membrane">PALGNEFIVMLKESAIVSVIGF</span><span class="topo-outside">ADLTRQADIIQS</span></span>
-<span class="topo-line"><span class="topo-outside">VTYRY</span><span class="topo-membrane">FEPYIIIAAIYFVMTLTFSKLL</span><span class="topo-inside">SLFERRLR</span><span class="topo-unknown">AGDIR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MTV</span><span class="topo-membrane">DFLSMVKYTPLFISGLIMTLKLTFLAVTIGVLMGLFIALMK</span><span class="topo-inside">MSSI</span><span class="topo-membrane">KPIKLVASSYIEVIRGTPLLVQLLLIYNGL</span><span class="topo-outside">MQFGMNI</span><span class="topo-membrane">PAFTAGVSALAINSSAYVAEII</span><span class="topo-inside">RAGIQAVDPGQNE</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220</span>
+<span class="topo-line"><span class="topo-inside">AARSLGMTHAMAMRYVIIPQAIKNIL</span><span class="topo-membrane">PALGNEFIVMLKESAIVSVIGF</span><span class="topo-outside">ADLTRQADIIQSVTYRY</span><span class="topo-membrane">FEPYIIIAAIYFVMTLTFSKLL</span><span class="topo-inside">SLFERRLR</span><span class="topo-unknown">AGDIR</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1229,6 +1258,7 @@ Art(QN)2 is a homodimeric type I ABC importer from the thermophilic bacterium Th
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1244,10 +1274,11 @@ Art(QN)2 is a homodimeric type I ABC importer from the thermophilic bacterium Th
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MTV</span><span class="topo-membrane">DFLSMVKYTPLFISGLIMTLKLTFLAVTIGVLMGLFIALMK</span><span class="topo-inside">MSSI</span><span class="topo-membrane">KPIKLVASSYIE</span></span>
-<span class="topo-line"><span class="topo-membrane">VIRGTPLLVQLLLIYNGL</span><span class="topo-outside">MQFGMNI</span><span class="topo-membrane">PAFTAGVSALAINSSAYVAEII</span><span class="topo-inside">RAGIQAVDPGQNE</span></span>
-<span class="topo-line"><span class="topo-inside">AARSLGMTHAMAMRYVIIPQAIKNIL</span><span class="topo-membrane">PALGNEFIVMLKESAIVSVIGF</span><span class="topo-outside">ADLTRQADIIQS</span></span>
-<span class="topo-line"><span class="topo-outside">VTYRY</span><span class="topo-membrane">FEPYIIIAAIYFVMTLTFSKLL</span><span class="topo-inside">SLFERRL</span><span class="topo-unknown">RAGDIR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MTV</span><span class="topo-membrane">DFLSMVKYTPLFISGLIMTLKLTFLAVTIGVLMGLFIALMK</span><span class="topo-inside">MSSI</span><span class="topo-membrane">KPIKLVASSYIEVIRGTPLLVQLLLIYNGL</span><span class="topo-outside">MQFGMNI</span><span class="topo-membrane">PAFTAGVSALAINSSAYVAEII</span><span class="topo-inside">RAGIQAVDPGQNE</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220</span>
+<span class="topo-line"><span class="topo-inside">AARSLGMTHAMAMRYVIIPQAIKNIL</span><span class="topo-membrane">PALGNEFIVMLKESAIVSVIGF</span><span class="topo-outside">ADLTRQADIIQSVTYRY</span><span class="topo-membrane">FEPYIIIAAIYFVMTLTFSKLL</span><span class="topo-inside">SLFERRL</span><span class="topo-unknown">RAGDIR</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1336,6 +1367,7 @@ Art(QN)2 is a homodimeric type I ABC importer from the thermophilic bacterium Th
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1351,10 +1383,11 @@ Art(QN)2 is a homodimeric type I ABC importer from the thermophilic bacterium Th
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MIFVNDVYKNFGSLEVLKGVTLKVNKGEVVVIIGPSGSGKSTLLRCINLLEEPTKGEVFI</span></span>
-<span class="topo-line"><span class="topo-inside">DGVKINNGKVNINKVRQKVGMVFQHFNLFPHLTAIENITLAPVKVKKMNKKEAEELAVDL</span></span>
-<span class="topo-line"><span class="topo-inside">LAKVGLLDKKDQYPIKLSGGQKQRLAIARALAMQPEVMLFDEPTSALDPEMVKEVLNVMK</span></span>
-<span class="topo-line"><span class="topo-inside">QLANEGMTMVVVTHEMGFAREVGDRVIFMDDGVIVEEGTPEEIFYRAKNERTREFLSKIL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">MIFVNDVYKNFGSLEVLKGVTLKVNKGEVVVIIGPSGSGKSTLLRCINLLEEPTKGEVFIDGVKINNGKVNINKVRQKVGMVFQHFNLFPHLTAIENITLAPVKVKKMNKKEAEELAVDL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">LAKVGLLDKKDQYPIKLSGGQKQRLAIARALAMQPEVMLFDEPTSALDPEMVKEVLNVMKQLANEGMTMVVVTHEMGFAREVGDRVIFMDDGVIVEEGTPEEIFYRAKNERTREFLSKIL</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1373,6 +1406,7 @@ Art(QN)2 is a homodimeric type I ABC importer from the thermophilic bacterium Th
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1388,10 +1422,11 @@ Art(QN)2 is a homodimeric type I ABC importer from the thermophilic bacterium Th
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MIFVNDVYKNFGSLEVLKGVTLKVNKGEVVVIIGPSGSGKSTLLRCINLLEEPTKGEVFI</span></span>
-<span class="topo-line"><span class="topo-inside">DGVKINNGKVNINKVRQKVGMVFQHFNLFPHLTAIENITLAPVKVKKMNKKEAEELAVDL</span></span>
-<span class="topo-line"><span class="topo-inside">LAKVGLLDKKDQYPIKLSGGQKQRLAIARALAMQPEVMLFDEPTSALDPEMVKEVLNVMK</span></span>
-<span class="topo-line"><span class="topo-inside">QLANEGMTMVVVTHEMGFAREVGDRVIFMDDGVIVEEGTPEEIFYRAKNERTREFLSKIL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">MIFVNDVYKNFGSLEVLKGVTLKVNKGEVVVIIGPSGSGKSTLLRCINLLEEPTKGEVFIDGVKINNGKVNINKVRQKVGMVFQHFNLFPHLTAIENITLAPVKVKKMNKKEAEELAVDL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">LAKVGLLDKKDQYPIKLSGGQKQRLAIARALAMQPEVMLFDEPTSALDPEMVKEVLNVMKQLANEGMTMVVVTHEMGFAREVGDRVIFMDDGVIVEEGTPEEIFYRAKNERTREFLSKIL</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1410,6 +1445,7 @@ Art(QN)2 is a homodimeric type I ABC importer from the thermophilic bacterium Th
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1425,10 +1461,11 @@ Art(QN)2 is a homodimeric type I ABC importer from the thermophilic bacterium Th
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MTV</span><span class="topo-membrane">DFLSMVKYTPLFISGLIMTLKLTFLAVTIGVLMGLFIALMK</span><span class="topo-inside">MSSI</span><span class="topo-membrane">KPIKLVASSYIE</span></span>
-<span class="topo-line"><span class="topo-membrane">VIRGTPLLVQLLLIYNGL</span><span class="topo-outside">MQFGMNI</span><span class="topo-membrane">PAFTAGVSALAINSSAYVAEII</span><span class="topo-inside">RAGIQAVDPGQNE</span></span>
-<span class="topo-line"><span class="topo-inside">AARSLGMTHAMAMRYVIIPQAIKNIL</span><span class="topo-membrane">PALGNEFIVMLKESAIVSVIGF</span><span class="topo-outside">ADLTRQADIIQS</span></span>
-<span class="topo-line"><span class="topo-outside">VTYRY</span><span class="topo-membrane">FEPYIIIAAIYFVMTLTFSKLL</span><span class="topo-inside">SLFERRLR</span><span class="topo-unknown">AGDIR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MTV</span><span class="topo-membrane">DFLSMVKYTPLFISGLIMTLKLTFLAVTIGVLMGLFIALMK</span><span class="topo-inside">MSSI</span><span class="topo-membrane">KPIKLVASSYIEVIRGTPLLVQLLLIYNGL</span><span class="topo-outside">MQFGMNI</span><span class="topo-membrane">PAFTAGVSALAINSSAYVAEII</span><span class="topo-inside">RAGIQAVDPGQNE</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220</span>
+<span class="topo-line"><span class="topo-inside">AARSLGMTHAMAMRYVIIPQAIKNIL</span><span class="topo-membrane">PALGNEFIVMLKESAIVSVIGF</span><span class="topo-outside">ADLTRQADIIQSVTYRY</span><span class="topo-membrane">FEPYIIIAAIYFVMTLTFSKLL</span><span class="topo-inside">SLFERRLR</span><span class="topo-unknown">AGDIR</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1517,6 +1554,7 @@ Art(QN)2 is a homodimeric type I ABC importer from the thermophilic bacterium Th
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1532,10 +1570,11 @@ Art(QN)2 is a homodimeric type I ABC importer from the thermophilic bacterium Th
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MTV</span><span class="topo-membrane">DFLSMVKYTPLFISGLIMTLKLTFLAVTIGVLMGLFIALMK</span><span class="topo-inside">MSSI</span><span class="topo-membrane">KPIKLVASSYIE</span></span>
-<span class="topo-line"><span class="topo-membrane">VIRGTPLLVQLLLIYNGL</span><span class="topo-outside">MQFGMNI</span><span class="topo-membrane">PAFTAGVSALAINSSAYVAEII</span><span class="topo-inside">RAGIQAVDPGQNE</span></span>
-<span class="topo-line"><span class="topo-inside">AARSLGMTHAMAMRYVIIPQAIKNIL</span><span class="topo-membrane">PALGNEFIVMLKESAIVSVIGF</span><span class="topo-outside">ADLTRQADIIQS</span></span>
-<span class="topo-line"><span class="topo-outside">VTYRY</span><span class="topo-membrane">FEPYIIIAAIYFVMTLTFSKLL</span><span class="topo-inside">SLFERRL</span><span class="topo-unknown">RAGDIR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MTV</span><span class="topo-membrane">DFLSMVKYTPLFISGLIMTLKLTFLAVTIGVLMGLFIALMK</span><span class="topo-inside">MSSI</span><span class="topo-membrane">KPIKLVASSYIEVIRGTPLLVQLLLIYNGL</span><span class="topo-outside">MQFGMNI</span><span class="topo-membrane">PAFTAGVSALAINSSAYVAEII</span><span class="topo-inside">RAGIQAVDPGQNE</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220</span>
+<span class="topo-line"><span class="topo-inside">AARSLGMTHAMAMRYVIIPQAIKNIL</span><span class="topo-membrane">PALGNEFIVMLKESAIVSVIGF</span><span class="topo-outside">ADLTRQADIIQSVTYRY</span><span class="topo-membrane">FEPYIIIAAIYFVMTLTFSKLL</span><span class="topo-inside">SLFERRL</span><span class="topo-unknown">RAGDIR</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1624,6 +1663,7 @@ Art(QN)2 is a homodimeric type I ABC importer from the thermophilic bacterium Th
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1639,10 +1679,11 @@ Art(QN)2 is a homodimeric type I ABC importer from the thermophilic bacterium Th
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MIFVNDVYKNFGSLEVLKGVTLKVNKGEVVVIIGPSGSGKSTLLRCINLLEEPTKGEVFI</span></span>
-<span class="topo-line"><span class="topo-inside">DGVKINNGKVNINKVRQKVGMVFQHFNLFPHLTAIENITLAPVKVKKMNKKEAEELAVDL</span></span>
-<span class="topo-line"><span class="topo-inside">LAKVGLLDKKDQYPIKLSGGQKQRLAIARALAMQPEVMLFDEPTSALDPEMVKEVLNVMK</span></span>
-<span class="topo-line"><span class="topo-inside">QLANEGMTMVVVTHEMGFAREVGDRVIFMDDGVIVEEGTPEEIFYRAKNERTREFLSKIL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">MIFVNDVYKNFGSLEVLKGVTLKVNKGEVVVIIGPSGSGKSTLLRCINLLEEPTKGEVFIDGVKINNGKVNINKVRQKVGMVFQHFNLFPHLTAIENITLAPVKVKKMNKKEAEELAVDL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">LAKVGLLDKKDQYPIKLSGGQKQRLAIARALAMQPEVMLFDEPTSALDPEMVKEVLNVMKQLANEGMTMVVVTHEMGFAREVGDRVIFMDDGVIVEEGTPEEIFYRAKNERTREFLSKIL</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1661,6 +1702,7 @@ Art(QN)2 is a homodimeric type I ABC importer from the thermophilic bacterium Th
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1676,10 +1718,11 @@ Art(QN)2 is a homodimeric type I ABC importer from the thermophilic bacterium Th
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MIFVNDVYKNFGSLEVLKGVTLKVNKGEVVVIIGPSGSGKSTLLRCINLLEEPTKGEVFI</span></span>
-<span class="topo-line"><span class="topo-inside">DGVKINNGKVNINKVRQKVGMVFQHFNLFPHLTAIENITLAPVKVKKMNKKEAEELAVDL</span></span>
-<span class="topo-line"><span class="topo-inside">LAKVGLLDKKDQYPIKLSGGQKQRLAIARALAMQPEVMLFDEPTSALDPEMVKEVLNVMK</span></span>
-<span class="topo-line"><span class="topo-inside">QLANEGMTMVVVTHEMGFAREVGDRVIFMDDGVIVEEGTPEEIFYRAKNERTREFLSKIL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">MIFVNDVYKNFGSLEVLKGVTLKVNKGEVVVIIGPSGSGKSTLLRCINLLEEPTKGEVFIDGVKINNGKVNINKVRQKVGMVFQHFNLFPHLTAIENITLAPVKVKKMNKKEAEELAVDL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">LAKVGLLDKKDQYPIKLSGGQKQRLAIARALAMQPEVMLFDEPTSALDPEMVKEVLNVMKQLANEGMTMVVVTHEMGFAREVGDRVIFMDDGVIVEEGTPEEIFYRAKNERTREFLSKIL</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1698,6 +1741,7 @@ Art(QN)2 is a homodimeric type I ABC importer from the thermophilic bacterium Th
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1713,10 +1757,11 @@ Art(QN)2 is a homodimeric type I ABC importer from the thermophilic bacterium Th
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MTV</span><span class="topo-membrane">DFLSMVKYTPLFISGLIMTLKLTFLAVTIGVLMGLFIALMK</span><span class="topo-inside">MSSI</span><span class="topo-membrane">KPIKLVASSYIE</span></span>
-<span class="topo-line"><span class="topo-membrane">VIRGTPLLVQLLLIYNGL</span><span class="topo-outside">MQFGMNI</span><span class="topo-membrane">PAFTAGVSALAINSSAYVAEII</span><span class="topo-inside">RAGIQAVDPGQNE</span></span>
-<span class="topo-line"><span class="topo-inside">AARSLGMTHAMAMRYVIIPQAIKNIL</span><span class="topo-membrane">PALGNEFIVMLKESAIVSVIGF</span><span class="topo-outside">ADLTRQADIIQS</span></span>
-<span class="topo-line"><span class="topo-outside">VTYRY</span><span class="topo-membrane">FEPYIIIAAIYFVMTLTFSKLL</span><span class="topo-inside">SLFERRLR</span><span class="topo-unknown">AGDIR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MTV</span><span class="topo-membrane">DFLSMVKYTPLFISGLIMTLKLTFLAVTIGVLMGLFIALMK</span><span class="topo-inside">MSSI</span><span class="topo-membrane">KPIKLVASSYIEVIRGTPLLVQLLLIYNGL</span><span class="topo-outside">MQFGMNI</span><span class="topo-membrane">PAFTAGVSALAINSSAYVAEII</span><span class="topo-inside">RAGIQAVDPGQNE</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220</span>
+<span class="topo-line"><span class="topo-inside">AARSLGMTHAMAMRYVIIPQAIKNIL</span><span class="topo-membrane">PALGNEFIVMLKESAIVSVIGF</span><span class="topo-outside">ADLTRQADIIQSVTYRY</span><span class="topo-membrane">FEPYIIIAAIYFVMTLTFSKLL</span><span class="topo-inside">SLFERRLR</span><span class="topo-unknown">AGDIR</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1805,6 +1850,7 @@ Art(QN)2 is a homodimeric type I ABC importer from the thermophilic bacterium Th
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1820,10 +1866,11 @@ Art(QN)2 is a homodimeric type I ABC importer from the thermophilic bacterium Th
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MTV</span><span class="topo-membrane">DFLSMVKYTPLFISGLIMTLKLTFLAVTIGVLMGLFIALMK</span><span class="topo-inside">MSSI</span><span class="topo-membrane">KPIKLVASSYIE</span></span>
-<span class="topo-line"><span class="topo-membrane">VIRGTPLLVQLLLIYNGL</span><span class="topo-outside">MQFGMNI</span><span class="topo-membrane">PAFTAGVSALAINSSAYVAEII</span><span class="topo-inside">RAGIQAVDPGQNE</span></span>
-<span class="topo-line"><span class="topo-inside">AARSLGMTHAMAMRYVIIPQAIKNIL</span><span class="topo-membrane">PALGNEFIVMLKESAIVSVIGF</span><span class="topo-outside">ADLTRQADIIQS</span></span>
-<span class="topo-line"><span class="topo-outside">VTYRY</span><span class="topo-membrane">FEPYIIIAAIYFVMTLTFSKLL</span><span class="topo-inside">SLFERRL</span><span class="topo-unknown">RAGDIR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MTV</span><span class="topo-membrane">DFLSMVKYTPLFISGLIMTLKLTFLAVTIGVLMGLFIALMK</span><span class="topo-inside">MSSI</span><span class="topo-membrane">KPIKLVASSYIEVIRGTPLLVQLLLIYNGL</span><span class="topo-outside">MQFGMNI</span><span class="topo-membrane">PAFTAGVSALAINSSAYVAEII</span><span class="topo-inside">RAGIQAVDPGQNE</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220</span>
+<span class="topo-line"><span class="topo-inside">AARSLGMTHAMAMRYVIIPQAIKNIL</span><span class="topo-membrane">PALGNEFIVMLKESAIVSVIGF</span><span class="topo-outside">ADLTRQADIIQSVTYRY</span><span class="topo-membrane">FEPYIIIAAIYFVMTLTFSKLL</span><span class="topo-inside">SLFERRL</span><span class="topo-unknown">RAGDIR</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1912,6 +1959,7 @@ Art(QN)2 is a homodimeric type I ABC importer from the thermophilic bacterium Th
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

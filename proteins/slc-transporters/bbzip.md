@@ -146,12 +146,13 @@ BbZIP (ZIPB) is a prokaryotic ZIP family divalent metal transporter from Bordete
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MNQPSSLAADLRGAWHAQAQSHPLITLGLAASAAGVVLLLVAGIVNALTGENRVH</span><span class="topo-inside">V</span><span class="topo-membrane">GYAV</span></span>
-<span class="topo-line"><span class="topo-membrane">LGGAAGFAATALGALM</span><span class="topo-outside">ALGLRAISARTQ</span><span class="topo-membrane">DAMLGFAAGMMLAASAFSLILPGL</span><span class="topo-inside">DAAGTIVG</span></span>
-<span class="topo-line"><span class="topo-inside">PGPAAA</span><span class="topo-membrane">AVVALGLGLGVLLMLGLDY</span><span class="topo-unknown">FTPHEHERTGHQGPEAAR</span><span class="topo-outside">VNRVWL</span><span class="topo-membrane">FVLTIILHNLP</span></span>
-<span class="topo-line"><span class="topo-membrane">EGMAIGVSFA</span><span class="topo-inside">TGDL</span><span class="topo-membrane">RIGLPLTSAIAIQDVPEGLAVA</span><span class="topo-outside">LALRAVGLPIGRAV</span><span class="topo-membrane">LVAVASGLME</span></span>
-<span class="topo-line"><span class="topo-membrane">PLGALVGVGIS</span><span class="topo-inside">SGFALA</span><span class="topo-membrane">YPISMGLAAGAMIFVVSHEV</span><span class="topo-unknown">IPETHRNGHET</span><span class="topo-outside">T</span><span class="topo-membrane">ATVGLMAGFAL</span></span>
-<span class="topo-line"><span class="topo-membrane">MMFLDTAL</span><span class="topo-unknown">G</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MNQPSSLAADLRGAWHAQAQSHPLITLGLAASAAGVVLLLVAGIVNALTGENRVH</span><span class="topo-inside">V</span><span class="topo-membrane">GYAVLGGAAGFAATALGALM</span><span class="topo-outside">ALGLRAISARTQ</span><span class="topo-membrane">DAMLGFAAGMMLAASAFSLILPGL</span><span class="topo-inside">DAAGTIVG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">PGPAAA</span><span class="topo-membrane">AVVALGLGLGVLLMLGLDY</span><span class="topo-unknown">FTPHEHERTGHQGPEAAR</span><span class="topo-outside">VNRVWL</span><span class="topo-membrane">FVLTIILHNLPEGMAIGVSFA</span><span class="topo-inside">TGDL</span><span class="topo-membrane">RIGLPLTSAIAIQDVPEGLAVA</span><span class="topo-outside">LALRAVGLPIGRAV</span><span class="topo-membrane">LVAVASGLME</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300         </span>
+<span class="topo-line"><span class="topo-membrane">PLGALVGVGIS</span><span class="topo-inside">SGFALA</span><span class="topo-membrane">YPISMGLAAGAMIFVVSHEV</span><span class="topo-unknown">IPETHRNGHET</span><span class="topo-outside">T</span><span class="topo-membrane">ATVGLMAGFALMMFLDTAL</span><span class="topo-unknown">G</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -275,6 +276,7 @@ BbZIP (ZIPB) is a prokaryotic ZIP family divalent metal transporter from Bordete
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -290,12 +292,13 @@ BbZIP (ZIPB) is a prokaryotic ZIP family divalent metal transporter from Bordete
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MNQP</span><span class="topo-outside">SSLAADLRGAWHAQAQSH</span><span class="topo-membrane">PLITLGLAASAAGVVLLLVAGIVNAL</span><span class="topo-inside">TGENRVHV</span><span class="topo-membrane">GYAV</span></span>
-<span class="topo-line"><span class="topo-membrane">LGGAAGFAATALGALM</span><span class="topo-outside">ALGLRAISAR</span><span class="topo-membrane">TQDAMLGFAAGMMLAASAFSLIL</span><span class="topo-inside">PGLDAAGTIVG</span></span>
-<span class="topo-line"><span class="topo-inside">PGPAAA</span><span class="topo-membrane">AVVALGLGLGVLLMLGLDYFT</span><span class="topo-outside">P</span><span class="topo-unknown">HEHERTGHQG</span><span class="topo-outside">PEAARVNRVWLFVL</span><span class="topo-membrane">TIILHNLP</span></span>
-<span class="topo-line"><span class="topo-membrane">EGMAIGVSFA</span><span class="topo-inside">TGDLRI</span><span class="topo-membrane">GLPLTSAIAIQDVPEGLAV</span><span class="topo-outside">ALALRAVGLPIGRAV</span><span class="topo-membrane">LVAVASGLME</span></span>
-<span class="topo-line"><span class="topo-membrane">PLGALVGVGISSG</span><span class="topo-inside">FALA</span><span class="topo-membrane">YPISMGLAAGAMIFVVSHEVIPETH</span><span class="topo-outside">RNGH</span><span class="topo-membrane">ETTATVGLMAGFAL</span></span>
-<span class="topo-line"><span class="topo-membrane">MMFLD</span><span class="topo-inside">TALG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MNQP</span><span class="topo-outside">SSLAADLRGAWHAQAQSH</span><span class="topo-membrane">PLITLGLAASAAGVVLLLVAGIVNAL</span><span class="topo-inside">TGENRVHV</span><span class="topo-membrane">GYAVLGGAAGFAATALGALM</span><span class="topo-outside">ALGLRAISAR</span><span class="topo-membrane">TQDAMLGFAAGMMLAASAFSLIL</span><span class="topo-inside">PGLDAAGTIVG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">PGPAAA</span><span class="topo-membrane">AVVALGLGLGVLLMLGLDYFT</span><span class="topo-outside">P</span><span class="topo-unknown">HEHERTGHQG</span><span class="topo-outside">PEAARVNRVWLFVL</span><span class="topo-membrane">TIILHNLPEGMAIGVSFA</span><span class="topo-inside">TGDLRI</span><span class="topo-membrane">GLPLTSAIAIQDVPEGLAV</span><span class="topo-outside">ALALRAVGLPIGRAV</span><span class="topo-membrane">LVAVASGLME</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300         </span>
+<span class="topo-line"><span class="topo-membrane">PLGALVGVGISSG</span><span class="topo-inside">FALA</span><span class="topo-membrane">YPISMGLAAGAMIFVVSHEVIPETH</span><span class="topo-outside">RNGH</span><span class="topo-membrane">ETTATVGLMAGFALMMFLD</span><span class="topo-inside">TALG</span></span>
+<details class="topo-details"><summary>Topology coordinates (22 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -461,6 +464,7 @@ BbZIP (ZIPB) is a prokaryotic ZIP family divalent metal transporter from Bordete
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -476,12 +480,13 @@ BbZIP (ZIPB) is a prokaryotic ZIP family divalent metal transporter from Bordete
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MNQP</span><span class="topo-outside">SSLAADLRGAWHAQAQSH</span><span class="topo-membrane">PLITLGLAASAAGVVLLLVAGIVNAL</span><span class="topo-inside">TGENRVHV</span><span class="topo-membrane">GYAV</span></span>
-<span class="topo-line"><span class="topo-membrane">LGGAAGFAATALGALM</span><span class="topo-outside">ALGLRAISAR</span><span class="topo-membrane">TQDAMLGFAAGMMLAASAFSLIL</span><span class="topo-inside">PGLDAAGTIVG</span></span>
-<span class="topo-line"><span class="topo-inside">PGPAAA</span><span class="topo-membrane">AVVALGLGLGVLLMLGLDYFT</span><span class="topo-outside">PH</span><span class="topo-unknown">EHERTGHQG</span><span class="topo-outside">PEAARVNRVWLFVL</span><span class="topo-membrane">TIILHNLP</span></span>
-<span class="topo-line"><span class="topo-membrane">EGMAIGVSFA</span><span class="topo-inside">TGDLRI</span><span class="topo-membrane">GLPLTSAIAIQDVPEGLAV</span><span class="topo-outside">ALALRAVGLPIGRAV</span><span class="topo-membrane">LVAVASGLME</span></span>
-<span class="topo-line"><span class="topo-membrane">PLGALVGVGISSG</span><span class="topo-inside">FALA</span><span class="topo-membrane">YPISMGLAAGAMIFVVSHEVIPETH</span><span class="topo-outside">RNGH</span><span class="topo-membrane">ETTATVGLMAGFAL</span></span>
-<span class="topo-line"><span class="topo-membrane">MMFLD</span><span class="topo-inside">TALG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MNQP</span><span class="topo-outside">SSLAADLRGAWHAQAQSH</span><span class="topo-membrane">PLITLGLAASAAGVVLLLVAGIVNAL</span><span class="topo-inside">TGENRVHV</span><span class="topo-membrane">GYAVLGGAAGFAATALGALM</span><span class="topo-outside">ALGLRAISAR</span><span class="topo-membrane">TQDAMLGFAAGMMLAASAFSLIL</span><span class="topo-inside">PGLDAAGTIVG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">PGPAAA</span><span class="topo-membrane">AVVALGLGLGVLLMLGLDYFT</span><span class="topo-outside">PH</span><span class="topo-unknown">EHERTGHQG</span><span class="topo-outside">PEAARVNRVWLFVL</span><span class="topo-membrane">TIILHNLPEGMAIGVSFA</span><span class="topo-inside">TGDLRI</span><span class="topo-membrane">GLPLTSAIAIQDVPEGLAV</span><span class="topo-outside">ALALRAVGLPIGRAV</span><span class="topo-membrane">LVAVASGLME</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300         </span>
+<span class="topo-line"><span class="topo-membrane">PLGALVGVGISSG</span><span class="topo-inside">FALA</span><span class="topo-membrane">YPISMGLAAGAMIFVVSHEVIPETH</span><span class="topo-outside">RNGH</span><span class="topo-membrane">ETTATVGLMAGFALMMFLD</span><span class="topo-inside">TALG</span></span>
+<details class="topo-details"><summary>Topology coordinates (22 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -647,6 +652,7 @@ BbZIP (ZIPB) is a prokaryotic ZIP family divalent metal transporter from Bordete
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

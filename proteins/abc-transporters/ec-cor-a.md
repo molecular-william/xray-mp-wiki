@@ -145,24 +145,25 @@ CorA from Escherichia coli is the family prototype of the CorA Mg2+ transporter 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">M</span><span class="topo-unknown">PNFFID</span><span class="topo-inside">RPI</span><span class="topo-membrane">FAWVIAIIIMLAGGLAI</span><span class="topo-outside">LKLPVAQYPTIAPPAVTISASYPGADAKTVQDT</span></span>
-<span class="topo-line"><span class="topo-outside">VTQVIEQNMNGIDNLMYMSSNSDSTGTVQITLTFESGTDADIAQVQVQNKLQLAMPLLPQ</span></span>
-<span class="topo-line"><span class="topo-outside">EVQQQGVSVEKSSSSFLMVVGVINTDGTMTQEDISDYVAANMKDAISRTSGVGDVQLFGS</span></span>
-<span class="topo-line"><span class="topo-outside">QYAMRIWMNPNELNKFQLTPVDVITAIKAQNAQVAAGQLGGTPPVKGQQLNASIIAQTRL</span></span>
-<span class="topo-line"><span class="topo-outside">TSTEEFGKILLKVNQDGSRVLLRDVAKIELGGENYDIIAEFNGQPASGLGIKLATGANAL</span></span>
-<span class="topo-line"><span class="topo-outside">DTAAAIRAELAKMEPFFPSGLKIVYPYDTTPFVKISIHEV</span><span class="topo-membrane">VKTLVEAIILVFLVMYL</span><span class="topo-inside">FLQ</span></span>
-<span class="topo-line"><span class="topo-inside">NFRAT</span><span class="topo-membrane">LIPTIAVPVVLLGTFAVLAAF</span><span class="topo-outside">GFSINTLT</span><span class="topo-membrane">MFGMVLAIGLLVDDAI</span><span class="topo-inside">VVVENVERVM</span></span>
-<span class="topo-line"><span class="topo-inside">AEEGLPPKEATRKSMGQIQGAL</span><span class="topo-membrane">VGIAMVLSAVFVPMAF</span><span class="topo-outside">FGGSTGAIYR</span><span class="topo-membrane">QFSITIVSAMAL</span></span>
-<span class="topo-line"><span class="topo-membrane">SVLVALILT</span><span class="topo-inside">PALCATMLKPIAKGDHGEGKKG</span><span class="topo-unknown">FFGWFNRMFEKSTHHYTDSVGGILRS</span><span class="topo-inside">TGR</span></span>
-<span class="topo-line"><span class="topo-inside">YL</span><span class="topo-membrane">VLYLIIVVGMAYLFVRL</span><span class="topo-outside">PSSFLPDEDQGVFMTMVQLPAGATQERTQKVLNEVTHYYLT</span></span>
-<span class="topo-line"><span class="topo-outside">KEKNNVESVFAVNGFGFAGRGQNTGIAFVSLKDWADRPGEENKVEAIT</span><span class="topo-unknown">M</span><span class="topo-outside">RATRAFSQIKD</span></span>
-<span class="topo-line"><span class="topo-outside">AMVFAFNLPAIVELGTATGFDFELIDQAGLGHEKLTQARNQLLAEAAKHPDMLTSVRPNG</span></span>
-<span class="topo-line"><span class="topo-outside">LEDTPQFKIDIDQEKAQALGVSINDINTTLGAAWGGSYVNDFIDRGRVKKVYVMSEAKYR</span></span>
-<span class="topo-line"><span class="topo-outside">MLPDDIGDWYVRAADGQMVPFSAFSSSRWEYGSPRLERYNGLPSMEILGQAAPGKSTGEA</span></span>
-<span class="topo-line"><span class="topo-outside">MELMEQLASKLPTGVGYDWTGMSYQERLSGNQA</span><span class="topo-membrane">PSLYAISLIVVFLCLAA</span><span class="topo-inside">LYESWSIPFS</span></span>
-<span class="topo-line"><span class="topo-inside">V</span><span class="topo-membrane">MLVVPLGVIGALLAATFR</span><span class="topo-outside">GLTNDVY</span><span class="topo-membrane">FQVGLLTTIGLSAKNAI</span><span class="topo-inside">LIVEFAKDLMDKEGKGL</span></span>
-<span class="topo-line"><span class="topo-inside">IEATLDAVRMRLRPI</span><span class="topo-membrane">LMTSLAFILGVMPLVIS</span><span class="topo-outside">TGAGSGAQ</span><span class="topo-membrane">NAVGTGVMGGMVTATVLA</span><span class="topo-unknown">IF</span></span>
-<span class="topo-line"><span class="topo-unknown">FVPVFFVVVRRR</span><span class="topo-inside">FS</span><span class="topo-unknown">RKNEDIEHSHTVDHHLEHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">M</span><span class="topo-unknown">PNFFID</span><span class="topo-inside">RPI</span><span class="topo-membrane">FAWVIAIIIMLAGGLAI</span><span class="topo-outside">LKLPVAQYPTIAPPAVTISASYPGADAKTVQDTVTQVIEQNMNGIDNLMYMSSNSDSTGTVQITLTFESGTDADIAQVQVQNKLQLAMPLLPQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">EVQQQGVSVEKSSSSFLMVVGVINTDGTMTQEDISDYVAANMKDAISRTSGVGDVQLFGSQYAMRIWMNPNELNKFQLTPVDVITAIKAQNAQVAAGQLGGTPPVKGQQLNASIIAQTRL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">TSTEEFGKILLKVNQDGSRVLLRDVAKIELGGENYDIIAEFNGQPASGLGIKLATGANALDTAAAIRAELAKMEPFFPSGLKIVYPYDTTPFVKISIHEV</span><span class="topo-membrane">VKTLVEAIILVFLVMYL</span><span class="topo-inside">FLQ</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">NFRAT</span><span class="topo-membrane">LIPTIAVPVVLLGTFAVLAAF</span><span class="topo-outside">GFSINTLT</span><span class="topo-membrane">MFGMVLAIGLLVDDAI</span><span class="topo-inside">VVVENVERVMAEEGLPPKEATRKSMGQIQGAL</span><span class="topo-membrane">VGIAMVLSAVFVPMAF</span><span class="topo-outside">FGGSTGAIYR</span><span class="topo-membrane">QFSITIVSAMAL</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-membrane">SVLVALILT</span><span class="topo-inside">PALCATMLKPIAKGDHGEGKKG</span><span class="topo-unknown">FFGWFNRMFEKSTHHYTDSVGGILRS</span><span class="topo-inside">TGRYL</span><span class="topo-membrane">VLYLIIVVGMAYLFVRL</span><span class="topo-outside">PSSFLPDEDQGVFMTMVQLPAGATQERTQKVLNEVTHYYLT</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-outside">KEKNNVESVFAVNGFGFAGRGQNTGIAFVSLKDWADRPGEENKVEAIT</span><span class="topo-unknown">M</span><span class="topo-outside">RATRAFSQIKDAMVFAFNLPAIVELGTATGFDFELIDQAGLGHEKLTQARNQLLAEAAKHPDMLTSVRPNG</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820       830       840</span>
+<span class="topo-line"><span class="topo-outside">LEDTPQFKIDIDQEKAQALGVSINDINTTLGAAWGGSYVNDFIDRGRVKKVYVMSEAKYRMLPDDIGDWYVRAADGQMVPFSAFSSSRWEYGSPRLERYNGLPSMEILGQAAPGKSTGEA</span></span>
+<span class="topo-ruler">       850       860       870       880       890       900       910       920       930       940       950       960</span>
+<span class="topo-line"><span class="topo-outside">MELMEQLASKLPTGVGYDWTGMSYQERLSGNQA</span><span class="topo-membrane">PSLYAISLIVVFLCLAA</span><span class="topo-inside">LYESWSIPFSV</span><span class="topo-membrane">MLVVPLGVIGALLAATFR</span><span class="topo-outside">GLTNDVY</span><span class="topo-membrane">FQVGLLTTIGLSAKNAI</span><span class="topo-inside">LIVEFAKDLMDKEGKGL</span></span>
+<span class="topo-ruler">       970       980       990      1000      1010      1020      1030      1040      1050       </span>
+<span class="topo-line"><span class="topo-inside">IEATLDAVRMRLRPI</span><span class="topo-membrane">LMTSLAFILGVMPLVIS</span><span class="topo-outside">TGAGSGAQ</span><span class="topo-membrane">NAVGTGVMGGMVTATVLA</span><span class="topo-unknown">IFFVPVFFVVVRRR</span><span class="topo-inside">FS</span><span class="topo-unknown">RKNEDIEHSHTVDHHLEHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (32 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -398,6 +399,7 @@ CorA from Escherichia coli is the family prototype of the CorA Mg2+ transporter 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -413,24 +415,25 @@ CorA from Escherichia coli is the family prototype of the CorA Mg2+ transporter 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">M</span><span class="topo-unknown">PNFFID</span><span class="topo-inside">RPI</span><span class="topo-membrane">FAWVIAIIIMLAGGLAI</span><span class="topo-outside">LKLPVAQYPTIAPPAVTISASYPGADAKTVQDT</span></span>
-<span class="topo-line"><span class="topo-outside">VTQVIEQNMNGIDNLMYMSSNSDSTGTVQITLTFESGTDADIAQVQVQNKLQLAMPLLPQ</span></span>
-<span class="topo-line"><span class="topo-outside">EVQQQGVSVEKSSSSFLMVVGVINTDGTMTQEDISDYVAANMKDAISRTSGVGDVQLFGS</span></span>
-<span class="topo-line"><span class="topo-outside">QYAMRIWMNPNELNKFQLTPVDVITAIKAQNAQVAAGQLGGTPPVKGQQLNASIIAQTRL</span></span>
-<span class="topo-line"><span class="topo-outside">TSTEEFGKILLKVNQDGSRVLLRDVAKIELGGENYDIIAEFNGQPASGLGIKLATGANAL</span></span>
-<span class="topo-line"><span class="topo-outside">DTAAAIRAELAKMEPFFPSGLKIVYPYDTTPFVKISIHEV</span><span class="topo-membrane">VKTLVEAIILVFLVMYL</span><span class="topo-inside">FLQ</span></span>
-<span class="topo-line"><span class="topo-inside">NFRAT</span><span class="topo-membrane">LIPTIAVPVVLLGTFAVL</span><span class="topo-outside">AAFGFSINTLTMF</span><span class="topo-membrane">GMVLAIGLLVDDAIVV</span><span class="topo-inside">VENVERVM</span></span>
-<span class="topo-line"><span class="topo-inside">AEEGLPPKEATRKSMGQIQGA</span><span class="topo-membrane">LVGIAMVLSAVFVPM</span><span class="topo-outside">AFFGGSTGAIYRQF</span><span class="topo-membrane">SITIVSAMAL</span></span>
-<span class="topo-line"><span class="topo-membrane">SVLVALILT</span><span class="topo-inside">PALCATMLKPIAKGDHGEGKK</span><span class="topo-unknown">GFFGWFNRMFEKSTHHYTDSVGGILR</span><span class="topo-inside">STGR</span></span>
-<span class="topo-line"><span class="topo-membrane">YLVLYLIIVVGMAYLF</span><span class="topo-outside">VRLPSSFLPDEDQGVFMTMVQLPAGATQERTQKVLNEVTHYYLT</span></span>
-<span class="topo-line"><span class="topo-outside">KEKNNVESVFAVNGFGFAGRGQNTGIAFVSLKDWADRPGEENKVEAITMRATRAFSQIKD</span></span>
-<span class="topo-line"><span class="topo-outside">AMVFAFNLPAIVELGTATGFDFELIDQAGLGHEKLTQARNQLLAEAAKHPDMLTSVRPNG</span></span>
-<span class="topo-line"><span class="topo-outside">LEDTPQFKIDIDQEKAQALGVSINDINTTLGAAWGGSYVNDFIDRGRVKKVYVMSEAKYR</span></span>
-<span class="topo-line"><span class="topo-outside">MLPDDIGDWYVRAADGQMVPFSAFSSSRWEYGSPRLERYNGLPSMEILGQAAPGKSTGEA</span></span>
-<span class="topo-line"><span class="topo-outside">MELMEQLASKLPTGVGYDWTGMSYQERLSGNQAP</span><span class="topo-membrane">SLYAISLIVVFLCLAAL</span><span class="topo-inside">YESW</span><span class="topo-membrane">SIPFS</span></span>
-<span class="topo-line"><span class="topo-membrane">VMLVVPLGVIGALLAATF</span><span class="topo-outside">RGLTNDVYF</span><span class="topo-membrane">QVGLLTTIGLSAKNAIL</span><span class="topo-inside">IVEFAKDLMDKEGKGL</span></span>
-<span class="topo-line"><span class="topo-inside">IEATLDAVRMRLRP</span><span class="topo-membrane">ILMTSLAFILGVMPLVI</span><span class="topo-outside">STGAGSGAQNAV</span><span class="topo-membrane">GTGVMGGMVTATVLAIF</span></span>
-<span class="topo-line"><span class="topo-membrane">FV</span><span class="topo-unknown">PVFFVVVRRR</span><span class="topo-inside">FS</span><span class="topo-unknown">RKNEDIEHSHTVDHHLEHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">M</span><span class="topo-unknown">PNFFID</span><span class="topo-inside">RPI</span><span class="topo-membrane">FAWVIAIIIMLAGGLAI</span><span class="topo-outside">LKLPVAQYPTIAPPAVTISASYPGADAKTVQDTVTQVIEQNMNGIDNLMYMSSNSDSTGTVQITLTFESGTDADIAQVQVQNKLQLAMPLLPQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">EVQQQGVSVEKSSSSFLMVVGVINTDGTMTQEDISDYVAANMKDAISRTSGVGDVQLFGSQYAMRIWMNPNELNKFQLTPVDVITAIKAQNAQVAAGQLGGTPPVKGQQLNASIIAQTRL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">TSTEEFGKILLKVNQDGSRVLLRDVAKIELGGENYDIIAEFNGQPASGLGIKLATGANALDTAAAIRAELAKMEPFFPSGLKIVYPYDTTPFVKISIHEV</span><span class="topo-membrane">VKTLVEAIILVFLVMYL</span><span class="topo-inside">FLQ</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">NFRAT</span><span class="topo-membrane">LIPTIAVPVVLLGTFAVL</span><span class="topo-outside">AAFGFSINTLTMF</span><span class="topo-membrane">GMVLAIGLLVDDAIVV</span><span class="topo-inside">VENVERVMAEEGLPPKEATRKSMGQIQGA</span><span class="topo-membrane">LVGIAMVLSAVFVPM</span><span class="topo-outside">AFFGGSTGAIYRQF</span><span class="topo-membrane">SITIVSAMAL</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-membrane">SVLVALILT</span><span class="topo-inside">PALCATMLKPIAKGDHGEGKK</span><span class="topo-unknown">GFFGWFNRMFEKSTHHYTDSVGGILR</span><span class="topo-inside">STGR</span><span class="topo-membrane">YLVLYLIIVVGMAYLF</span><span class="topo-outside">VRLPSSFLPDEDQGVFMTMVQLPAGATQERTQKVLNEVTHYYLT</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-outside">KEKNNVESVFAVNGFGFAGRGQNTGIAFVSLKDWADRPGEENKVEAITMRATRAFSQIKDAMVFAFNLPAIVELGTATGFDFELIDQAGLGHEKLTQARNQLLAEAAKHPDMLTSVRPNG</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820       830       840</span>
+<span class="topo-line"><span class="topo-outside">LEDTPQFKIDIDQEKAQALGVSINDINTTLGAAWGGSYVNDFIDRGRVKKVYVMSEAKYRMLPDDIGDWYVRAADGQMVPFSAFSSSRWEYGSPRLERYNGLPSMEILGQAAPGKSTGEA</span></span>
+<span class="topo-ruler">       850       860       870       880       890       900       910       920       930       940       950       960</span>
+<span class="topo-line"><span class="topo-outside">MELMEQLASKLPTGVGYDWTGMSYQERLSGNQAP</span><span class="topo-membrane">SLYAISLIVVFLCLAAL</span><span class="topo-inside">YESW</span><span class="topo-membrane">SIPFSVMLVVPLGVIGALLAATF</span><span class="topo-outside">RGLTNDVYF</span><span class="topo-membrane">QVGLLTTIGLSAKNAIL</span><span class="topo-inside">IVEFAKDLMDKEGKGL</span></span>
+<span class="topo-ruler">       970       980       990      1000      1010      1020      1030      1040      1050       </span>
+<span class="topo-line"><span class="topo-inside">IEATLDAVRMRLRP</span><span class="topo-membrane">ILMTSLAFILGVMPLVI</span><span class="topo-outside">STGAGSGAQNAV</span><span class="topo-membrane">GTGVMGGMVTATVLAIFFV</span><span class="topo-unknown">PVFFVVVRRR</span><span class="topo-inside">FS</span><span class="topo-unknown">RKNEDIEHSHTVDHHLEHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (30 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -652,6 +655,7 @@ CorA from Escherichia coli is the family prototype of the CorA Mg2+ transporter 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -667,24 +671,25 @@ CorA from Escherichia coli is the family prototype of the CorA Mg2+ transporter 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">M</span><span class="topo-unknown">PNFFID</span><span class="topo-inside">RPIFA</span><span class="topo-membrane">WVIAIIIMLAGGLAIL</span><span class="topo-outside">KLPVAQYPTIAPPAVTISASYPGADAKTVQDT</span></span>
-<span class="topo-line"><span class="topo-outside">VTQVIEQNMNGIDNLMYMSSNSDSTGTVQITLTFESGTDADIAQVQVQNKLQLAMPLLPQ</span></span>
-<span class="topo-line"><span class="topo-outside">EVQQQGVSVEKSSSSFLMVVGVINTDGTMTQEDISDYVAANMKDAISRTSGVGDVQLFGS</span></span>
-<span class="topo-line"><span class="topo-outside">QYAMRIWMNPNELNKFQLTPVDVITAIKAQNAQVAAGQLGGTPPVKGQQLNASIIAQTRL</span></span>
-<span class="topo-line"><span class="topo-outside">TSTEEFGKILLKVNQDGSRVLLRDVAKIELGGENYDIIAEFNGQPASGLGIKLATGANAL</span></span>
-<span class="topo-line"><span class="topo-outside">DTAAAIRAELAKMEPFFPSGLKIVYPYDTTPFVKISIHEV</span><span class="topo-membrane">VKTLVEAIILVFLVMYL</span><span class="topo-inside">FLQ</span></span>
-<span class="topo-line"><span class="topo-inside">NFRAT</span><span class="topo-membrane">LIPTIAVPVVLLGTFAVLAAF</span><span class="topo-outside">GFSINTLT</span><span class="topo-membrane">MFGMVLAIGLLVDDAI</span><span class="topo-inside">VVVENVERVM</span></span>
-<span class="topo-line"><span class="topo-inside">AEEGLPPKEATRKSMGQIQGAL</span><span class="topo-membrane">VGIAMVLSAVFVPMAF</span><span class="topo-outside">FGGSTGAIY</span><span class="topo-membrane">RQFSITIVSAMAL</span></span>
-<span class="topo-line"><span class="topo-membrane">SVLVA</span><span class="topo-inside">LILTPALCATMLKPIAKGDHGEGKKG</span><span class="topo-unknown">FFGWFNRMFEKSTHHYTDSVGGILR</span><span class="topo-inside">STGR</span></span>
-<span class="topo-line"><span class="topo-inside">Y</span><span class="topo-membrane">LVLYLIIVVGMAYLFVR</span><span class="topo-outside">LPSSFLPDEDQGVFMTMVQLPAGATQERTQKVLNEVTHYYLT</span></span>
-<span class="topo-line"><span class="topo-outside">KEKNNVESVFAVNGFGFAGRGQNTGIAFVSLKDWADRPGEENKVEAITMRATRAFSQIKD</span></span>
-<span class="topo-line"><span class="topo-outside">AMVFAFNLPAIVELGTATGFDFELIDQAGLGHEKLTQARNQLLAEAAKHPDMLTSVRPNG</span></span>
-<span class="topo-line"><span class="topo-outside">LEDTPQFKIDIDQEKAQALGVSINDINTTLGAAWGGSYVNDFIDRGRVKKVYVMSEAKYR</span></span>
-<span class="topo-line"><span class="topo-outside">MLPDDIGDWYVRAADGQMVPFSAFSSSRWEYGSPRLERYNGLPSMEILGQAAPGKSTGEA</span></span>
-<span class="topo-line"><span class="topo-outside">MELMEQLASKLPTGVGYDWTGMSYQERLSGNQA</span><span class="topo-membrane">PSLYAISLIVVFLCLAAL</span><span class="topo-inside">YESWSIP</span><span class="topo-membrane">FS</span></span>
-<span class="topo-line"><span class="topo-membrane">VMLVVPLGVIGALLAATFR</span><span class="topo-outside">GLTNDVYF</span><span class="topo-membrane">QVGLLTTIGLSAKNAI</span><span class="topo-inside">LIVEFAKDLMDKEGKGL</span></span>
-<span class="topo-line"><span class="topo-inside">IEATLDAVRMRLRPI</span><span class="topo-membrane">LMTSLAFILGVMPLVIS</span><span class="topo-outside">TGAGSGAQNAV</span><span class="topo-membrane">GTGVMGGMVTATVLA</span><span class="topo-unknown">IF</span></span>
-<span class="topo-line"><span class="topo-unknown">FVPVFFVVVRRR</span><span class="topo-inside">F</span><span class="topo-unknown">SRKNEDIEHSHTVDHHLEHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">M</span><span class="topo-unknown">PNFFID</span><span class="topo-inside">RPIFA</span><span class="topo-membrane">WVIAIIIMLAGGLAIL</span><span class="topo-outside">KLPVAQYPTIAPPAVTISASYPGADAKTVQDTVTQVIEQNMNGIDNLMYMSSNSDSTGTVQITLTFESGTDADIAQVQVQNKLQLAMPLLPQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">EVQQQGVSVEKSSSSFLMVVGVINTDGTMTQEDISDYVAANMKDAISRTSGVGDVQLFGSQYAMRIWMNPNELNKFQLTPVDVITAIKAQNAQVAAGQLGGTPPVKGQQLNASIIAQTRL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">TSTEEFGKILLKVNQDGSRVLLRDVAKIELGGENYDIIAEFNGQPASGLGIKLATGANALDTAAAIRAELAKMEPFFPSGLKIVYPYDTTPFVKISIHEV</span><span class="topo-membrane">VKTLVEAIILVFLVMYL</span><span class="topo-inside">FLQ</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">NFRAT</span><span class="topo-membrane">LIPTIAVPVVLLGTFAVLAAF</span><span class="topo-outside">GFSINTLT</span><span class="topo-membrane">MFGMVLAIGLLVDDAI</span><span class="topo-inside">VVVENVERVMAEEGLPPKEATRKSMGQIQGAL</span><span class="topo-membrane">VGIAMVLSAVFVPMAF</span><span class="topo-outside">FGGSTGAIY</span><span class="topo-membrane">RQFSITIVSAMAL</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-membrane">SVLVA</span><span class="topo-inside">LILTPALCATMLKPIAKGDHGEGKKG</span><span class="topo-unknown">FFGWFNRMFEKSTHHYTDSVGGILR</span><span class="topo-inside">STGRY</span><span class="topo-membrane">LVLYLIIVVGMAYLFVR</span><span class="topo-outside">LPSSFLPDEDQGVFMTMVQLPAGATQERTQKVLNEVTHYYLT</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-outside">KEKNNVESVFAVNGFGFAGRGQNTGIAFVSLKDWADRPGEENKVEAITMRATRAFSQIKDAMVFAFNLPAIVELGTATGFDFELIDQAGLGHEKLTQARNQLLAEAAKHPDMLTSVRPNG</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820       830       840</span>
+<span class="topo-line"><span class="topo-outside">LEDTPQFKIDIDQEKAQALGVSINDINTTLGAAWGGSYVNDFIDRGRVKKVYVMSEAKYRMLPDDIGDWYVRAADGQMVPFSAFSSSRWEYGSPRLERYNGLPSMEILGQAAPGKSTGEA</span></span>
+<span class="topo-ruler">       850       860       870       880       890       900       910       920       930       940       950       960</span>
+<span class="topo-line"><span class="topo-outside">MELMEQLASKLPTGVGYDWTGMSYQERLSGNQA</span><span class="topo-membrane">PSLYAISLIVVFLCLAAL</span><span class="topo-inside">YESWSIP</span><span class="topo-membrane">FSVMLVVPLGVIGALLAATFR</span><span class="topo-outside">GLTNDVYF</span><span class="topo-membrane">QVGLLTTIGLSAKNAI</span><span class="topo-inside">LIVEFAKDLMDKEGKGL</span></span>
+<span class="topo-ruler">       970       980       990      1000      1010      1020      1030      1040      1050       </span>
+<span class="topo-line"><span class="topo-inside">IEATLDAVRMRLRPI</span><span class="topo-membrane">LMTSLAFILGVMPLVIS</span><span class="topo-outside">TGAGSGAQNAV</span><span class="topo-membrane">GTGVMGGMVTATVLA</span><span class="topo-unknown">IFFVPVFFVVVRRR</span><span class="topo-inside">F</span><span class="topo-unknown">SRKNEDIEHSHTVDHHLEHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (30 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -906,6 +911,7 @@ CorA from Escherichia coli is the family prototype of the CorA Mg2+ transporter 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -921,9 +927,11 @@ CorA from Escherichia coli is the family prototype of the CorA Mg2+ transporter 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MRGSHHHHHH</span><span class="topo-outside">GSDLGKKLLEAARAGRDDEVRILMANGADVNAADVVGWTPLHLAAYWGHL</span></span>
-<span class="topo-line"><span class="topo-outside">EIVEVLLKNGADVNAYDTLGSTPLHLAAHFGHLEIVEVLLKNGADVNAKDDNGITPLHLA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MRGSHHHHHH</span><span class="topo-outside">GSDLGKKLLEAARAGRDDEVRILMANGADVNAADVVGWTPLHLAAYWGHLEIVEVLLKNGADVNAYDTLGSTPLHLAAHFGHLEIVEVLLKNGADVNAKDDNGITPLHLA</span></span>
+<span class="topo-ruler">       130       140       150       160         </span>
 <span class="topo-line"><span class="topo-outside">ANRGHLEIVEVLLKYGADVNAQDKFGKTAFDISINNGNEDLAEILQKL</span><span class="topo-unknown">N</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -942,6 +950,7 @@ CorA from Escherichia coli is the family prototype of the CorA Mg2+ transporter 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -957,9 +966,11 @@ CorA from Escherichia coli is the family prototype of the CorA Mg2+ transporter 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MRGSHHHHHHGS</span><span class="topo-outside">DLGKKLLEAARAGRDDEVRILMANGADVNAADVVGWTPLHLAAYWGHL</span></span>
-<span class="topo-line"><span class="topo-outside">EIVEVLLKNGADVNAYDTLGSTPLHLAAHFGHLEIVEVLLKNGADVNAKDDNGITPLHLA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MRGSHHHHHHGS</span><span class="topo-outside">DLGKKLLEAARAGRDDEVRILMANGADVNAADVVGWTPLHLAAYWGHLEIVEVLLKNGADVNAYDTLGSTPLHLAAHFGHLEIVEVLLKNGADVNAKDDNGITPLHLA</span></span>
+<span class="topo-ruler">       130       140       150       160         </span>
 <span class="topo-line"><span class="topo-outside">ANRGHLEIVEVLLKYGADVNAQDKFGKTAFDISINNGNEDLAEILQ</span><span class="topo-unknown">KLN</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -978,6 +989,7 @@ CorA from Escherichia coli is the family prototype of the CorA Mg2+ transporter 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

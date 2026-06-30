@@ -95,18 +95,19 @@ The first X-ray crystal structure of human ABCG5/G8 was determined at 3.9 Å res
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MEDLSSLTPGGSMGLQVNRGSQSSLEGAPATAP</span><span class="topo-inside">EPHSLGILHASYS</span><span class="topo-unknown">VSHRVRPWWDITSC</span></span>
-<span class="topo-line"><span class="topo-unknown">RQQWT</span><span class="topo-inside">RQILKDVSLYVESGQIMCILGSSGSGKTTLLDAMSGRLGRAGTFLGEVYVNGRAL</span></span>
-<span class="topo-line"><span class="topo-inside">RREQFQDCFSYVLQSDTLLSSLTVRETLHYTALLAIRRGNPGSFQKKVEAVMAELSLSHV</span></span>
-<span class="topo-line"><span class="topo-inside">ADRLIGNYSLGGISTGERRRVSIAAQLLQDPKVMLFDEPTTGLDCMTANQIVVLLVELAR</span></span>
-<span class="topo-line"><span class="topo-inside">RNRIVVLTIHQPRSELFQLFDKIAILSFGELIFCGTPAEMLDFFNDCGYPCPEHSNPFDF</span></span>
-<span class="topo-line"><span class="topo-inside">YMDLTSVDTQSKEREIETSKRVQMIESAYKKSAICHKTLKNIERMKHLKTLPMVPFKTKD</span></span>
-<span class="topo-line"><span class="topo-inside">SPGVFSKLGVLLRRVTRNLVRNKLAVIT</span><span class="topo-membrane">RLLQNLIMGLFLLFFVLR</span><span class="topo-outside">VRSNVLKGAIQDRV</span></span>
-<span class="topo-line"><span class="topo-outside">G</span><span class="topo-membrane">LLYQFVGATPYTGMLN</span><span class="topo-inside">AVNLFPVLRAVSDQESQDGLYQKWQMMLAYALHV</span><span class="topo-membrane">LPFSVVATM</span></span>
-<span class="topo-line"><span class="topo-membrane">IFSSVCYWTLG</span><span class="topo-outside">LHPEV</span><span class="topo-membrane">ARFGYFSAALLAPHLIGEFLTLVL</span><span class="topo-inside">LGIVQNPNIV</span><span class="topo-membrane">NSVVALLSIA</span></span>
-<span class="topo-line"><span class="topo-membrane">GVLVGS</span><span class="topo-outside">GFLRNIQEMPIPFKI</span><span class="topo-unknown">ISYFTFQKYCS</span><span class="topo-outside">EILVVNEFYGLNFTC</span><span class="topo-unknown">GSSNVSVTTNPMC</span></span>
-<span class="topo-line"><span class="topo-outside">AFTQGIQFIEKTCPGATSRFTMN</span><span class="topo-membrane">FLILYSFIPALVILGIVV</span><span class="topo-inside">FKIRDHLIS</span><span class="topo-unknown">RGSHHHHHHG</span></span>
-<span class="topo-line"><span class="topo-unknown">HHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MEDLSSLTPGGSMGLQVNRGSQSSLEGAPATAP</span><span class="topo-inside">EPHSLGILHASYS</span><span class="topo-unknown">VSHRVRPWWDITSCRQQWT</span><span class="topo-inside">RQILKDVSLYVESGQIMCILGSSGSGKTTLLDAMSGRLGRAGTFLGEVYVNGRAL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">RREQFQDCFSYVLQSDTLLSSLTVRETLHYTALLAIRRGNPGSFQKKVEAVMAELSLSHVADRLIGNYSLGGISTGERRRVSIAAQLLQDPKVMLFDEPTTGLDCMTANQIVVLLVELAR</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">RNRIVVLTIHQPRSELFQLFDKIAILSFGELIFCGTPAEMLDFFNDCGYPCPEHSNPFDFYMDLTSVDTQSKEREIETSKRVQMIESAYKKSAICHKTLKNIERMKHLKTLPMVPFKTKD</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">SPGVFSKLGVLLRRVTRNLVRNKLAVIT</span><span class="topo-membrane">RLLQNLIMGLFLLFFVLR</span><span class="topo-outside">VRSNVLKGAIQDRVG</span><span class="topo-membrane">LLYQFVGATPYTGMLN</span><span class="topo-inside">AVNLFPVLRAVSDQESQDGLYQKWQMMLAYALHV</span><span class="topo-membrane">LPFSVVATM</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-membrane">IFSSVCYWTLG</span><span class="topo-outside">LHPEV</span><span class="topo-membrane">ARFGYFSAALLAPHLIGEFLTLVL</span><span class="topo-inside">LGIVQNPNIV</span><span class="topo-membrane">NSVVALLSIAGVLVGS</span><span class="topo-outside">GFLRNIQEMPIPFKI</span><span class="topo-unknown">ISYFTFQKYCS</span><span class="topo-outside">EILVVNEFYGLNFTC</span><span class="topo-unknown">GSSNVSVTTNPMC</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660      </span>
+<span class="topo-line"><span class="topo-outside">AFTQGIQFIEKTCPGATSRFTMN</span><span class="topo-membrane">FLILYSFIPALVILGIVV</span><span class="topo-inside">FKIRDHLIS</span><span class="topo-unknown">RGSHHHHHHGHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -265,6 +266,7 @@ The first X-ray crystal structure of human ABCG5/G8 was determined at 3.9 Å res
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -280,18 +282,19 @@ The first X-ray crystal structure of human ABCG5/G8 was determined at 3.9 Å res
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGSAGKAAEERGLPKGATPQDTSG</span><span class="topo-inside">LQDRLFSSESDNSLYFTYSGQP</span><span class="topo-unknown">NTLEVRDLNYQVDL</span></span>
-<span class="topo-line"><span class="topo-unknown">ASQVPWFEQLAQFKMPWTSPSCQNSCEL</span><span class="topo-inside">GIQNLSFKVRSGQMLAIIGSSGCGRASLLDVI</span></span>
-<span class="topo-line"><span class="topo-inside">TGRGHGGKIKSGQIWINGQPSSPQLVRKCVAHVRQHNQLLPNLTVRETLAFIAQMRLPRT</span></span>
-<span class="topo-line"><span class="topo-inside">FSQAQRDKRVEDVIAELRLRQCADTRVGNMYVRGLSGGERRRVSIGVQLLWNPGILILDE</span></span>
-<span class="topo-line"><span class="topo-inside">PTSGLDSFTAHNLVKTLSRLAKGNRLVLISLHQPRSDIFRLFDLVLLMTSGTPIYLGAAQ</span></span>
-<span class="topo-line"><span class="topo-inside">HMVQYFTAIGYPCPRYSNPADFY</span><span class="topo-unknown">VDLTSIDRRSREQELATREK</span><span class="topo-inside">AQSLAALFLEKVRDLDD</span></span>
-<span class="topo-line"><span class="topo-inside">FLWKAETK</span><span class="topo-unknown">DLDEDTCVESSVTPLDTNCLPSPTKMP</span><span class="topo-inside">GAVQQFTTLIRRQISNDFRDLPTL</span><span class="topo-membrane">L</span></span>
-<span class="topo-line"><span class="topo-membrane">IHGAEACLMSMTIGFL</span><span class="topo-outside">YFGHGSIQLSFMDTAAL</span><span class="topo-membrane">LFMIGALIPFNVILDV</span><span class="topo-inside">ISKCYSERAML</span></span>
-<span class="topo-line"><span class="topo-inside">YYELEDGLYTTGPYFFAKILGE</span><span class="topo-membrane">LPEHCAYIIIYGMPTY</span><span class="topo-outside">WLANLRPGLQPFL</span><span class="topo-membrane">LHFLLVWLV</span></span>
-<span class="topo-line"><span class="topo-membrane">VFCCRIMA</span><span class="topo-inside">LAAAALLPTFHMASF</span><span class="topo-membrane">FSNALYNSFYLAGGFMI</span><span class="topo-outside">NLSSL</span><span class="topo-unknown">WTVPAWISKVSFLRW</span></span>
-<span class="topo-line"><span class="topo-unknown">CFEGL</span><span class="topo-outside">MKIQFSRRTYKMPLGNLTIAVSGDKILSVMELDSYPLY</span><span class="topo-membrane">AIYLIVIGLSGGFMV</span><span class="topo-inside">LY</span></span>
-<span class="topo-line"><span class="topo-inside">YVSLRFIKQKPSQDW</span><span class="topo-unknown">ASNSLEVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGSAGKAAEERGLPKGATPQDTSG</span><span class="topo-inside">LQDRLFSSESDNSLYFTYSGQP</span><span class="topo-unknown">NTLEVRDLNYQVDLASQVPWFEQLAQFKMPWTSPSCQNSCEL</span><span class="topo-inside">GIQNLSFKVRSGQMLAIIGSSGCGRASLLDVI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">TGRGHGGKIKSGQIWINGQPSSPQLVRKCVAHVRQHNQLLPNLTVRETLAFIAQMRLPRTFSQAQRDKRVEDVIAELRLRQCADTRVGNMYVRGLSGGERRRVSIGVQLLWNPGILILDE</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">PTSGLDSFTAHNLVKTLSRLAKGNRLVLISLHQPRSDIFRLFDLVLLMTSGTPIYLGAAQHMVQYFTAIGYPCPRYSNPADFY</span><span class="topo-unknown">VDLTSIDRRSREQELATREK</span><span class="topo-inside">AQSLAALFLEKVRDLDD</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">FLWKAETK</span><span class="topo-unknown">DLDEDTCVESSVTPLDTNCLPSPTKMP</span><span class="topo-inside">GAVQQFTTLIRRQISNDFRDLPTL</span><span class="topo-membrane">LIHGAEACLMSMTIGFL</span><span class="topo-outside">YFGHGSIQLSFMDTAAL</span><span class="topo-membrane">LFMIGALIPFNVILDV</span><span class="topo-inside">ISKCYSERAML</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-inside">YYELEDGLYTTGPYFFAKILGE</span><span class="topo-membrane">LPEHCAYIIIYGMPTY</span><span class="topo-outside">WLANLRPGLQPFL</span><span class="topo-membrane">LHFLLVWLVVFCCRIMA</span><span class="topo-inside">LAAAALLPTFHMASF</span><span class="topo-membrane">FSNALYNSFYLAGGFMI</span><span class="topo-outside">NLSSL</span><span class="topo-unknown">WTVPAWISKVSFLRW</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680     </span>
+<span class="topo-line"><span class="topo-unknown">CFEGL</span><span class="topo-outside">MKIQFSRRTYKMPLGNLTIAVSGDKILSVMELDSYPLY</span><span class="topo-membrane">AIYLIVIGLSGGFMV</span><span class="topo-inside">LYYVSLRFIKQKPSQDW</span><span class="topo-unknown">ASNSLEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (23 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -464,6 +467,7 @@ The first X-ray crystal structure of human ABCG5/G8 was determined at 3.9 Å res
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -636,18 +640,19 @@ The first X-ray crystal structure of human ABCG5/G8 was determined at 3.9 Å res
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">DLSSLTPGGSMGLQVNRGSQSSLEGAPATAP</span><span class="topo-outside">EPHSLGILHASYSVS</span><span class="topo-unknown">HRVRPWWDITSCRQ</span></span>
-<span class="topo-line"><span class="topo-unknown">QW</span><span class="topo-outside">TRQILKDVSLYVESGQIMCILGSSGSGKTTLLDAMSGRLGRAGTFLGEVYVNGRALRR</span></span>
-<span class="topo-line"><span class="topo-outside">EQFQDCFSYVLQSDTLLSSLTVRETLHYTALLAIRRGNPGSFQKKVEAVMAELSLSHVAD</span></span>
-<span class="topo-line"><span class="topo-outside">RLIGNYSLGGISTGERRRVSIAAQLLQDPKVMLFDEPTTGLDCMTANQIVVLLVELARRN</span></span>
-<span class="topo-line"><span class="topo-outside">RIVVLTIHQPRSELFQLFDKIAILSFGELIFCGTPAEMLDFFNDCGYPCPEHSNPFDFYM</span></span>
-<span class="topo-line"><span class="topo-outside">DLTSVDTQSKEREIETSKRVQMIESAYKKSAICHKTLKNIERMKHLKTLPMVPFKTKDSP</span></span>
-<span class="topo-line"><span class="topo-outside">GVFSKLGVLLRRVTRNLVRNKLAV</span><span class="topo-membrane">ITRLLQNLIMGLFLLFFVLR</span><span class="topo-inside">VRSNVLKGAIQDRVG</span><span class="topo-membrane">L</span></span>
-<span class="topo-line"><span class="topo-membrane">LYQFVGATPYTGMLNAVN</span><span class="topo-outside">LFPVLRAVSDQESQDGLYQKWQMMLAY</span><span class="topo-membrane">ALHVLPFSVVATMIF</span></span>
-<span class="topo-line"><span class="topo-membrane">SSVCYWTLG</span><span class="topo-inside">LHPEV</span><span class="topo-membrane">ARFGYFSAALLAPHLIGEFLTLVLLGIV</span><span class="topo-outside">QNP</span><span class="topo-membrane">NIVNSVVALLSIAGV</span></span>
-<span class="topo-line"><span class="topo-membrane">LVGS</span><span class="topo-inside">GFLRNIQEMPIP</span><span class="topo-unknown">FKIISYFTFQKYCSEIL</span><span class="topo-inside">VVNEFYGLNFTC</span><span class="topo-unknown">GSSNVSVTTNP</span><span class="topo-inside">MCAF</span></span>
-<span class="topo-line"><span class="topo-inside">TQGIQFIEKTCPGATSRFT</span><span class="topo-membrane">MNFLILYSFIPALVILGIVV</span><span class="topo-outside">FKIRDHL</span><span class="topo-unknown">ISRGSHHHHHHGHH</span></span>
-<span class="topo-line"><span class="topo-unknown">HHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">DLSSLTPGGSMGLQVNRGSQSSLEGAPATAP</span><span class="topo-outside">EPHSLGILHASYSVS</span><span class="topo-unknown">HRVRPWWDITSCRQQW</span><span class="topo-outside">TRQILKDVSLYVESGQIMCILGSSGSGKTTLLDAMSGRLGRAGTFLGEVYVNGRALRR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">EQFQDCFSYVLQSDTLLSSLTVRETLHYTALLAIRRGNPGSFQKKVEAVMAELSLSHVADRLIGNYSLGGISTGERRRVSIAAQLLQDPKVMLFDEPTTGLDCMTANQIVVLLVELARRN</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">RIVVLTIHQPRSELFQLFDKIAILSFGELIFCGTPAEMLDFFNDCGYPCPEHSNPFDFYMDLTSVDTQSKEREIETSKRVQMIESAYKKSAICHKTLKNIERMKHLKTLPMVPFKTKDSP</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">GVFSKLGVLLRRVTRNLVRNKLAV</span><span class="topo-membrane">ITRLLQNLIMGLFLLFFVLR</span><span class="topo-inside">VRSNVLKGAIQDRVG</span><span class="topo-membrane">LLYQFVGATPYTGMLNAVN</span><span class="topo-outside">LFPVLRAVSDQESQDGLYQKWQMMLAY</span><span class="topo-membrane">ALHVLPFSVVATMIF</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-membrane">SSVCYWTLG</span><span class="topo-inside">LHPEV</span><span class="topo-membrane">ARFGYFSAALLAPHLIGEFLTLVLLGIV</span><span class="topo-outside">QNP</span><span class="topo-membrane">NIVNSVVALLSIAGVLVGS</span><span class="topo-inside">GFLRNIQEMPIP</span><span class="topo-unknown">FKIISYFTFQKYCSEIL</span><span class="topo-inside">VVNEFYGLNFTC</span><span class="topo-unknown">GSSNVSVTTNP</span><span class="topo-inside">MCAF</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660    </span>
+<span class="topo-line"><span class="topo-inside">TQGIQFIEKTCPGATSRFT</span><span class="topo-membrane">MNFLILYSFIPALVILGIVV</span><span class="topo-outside">FKIRDHL</span><span class="topo-unknown">ISRGSHHHHHHGHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -806,6 +811,7 @@ The first X-ray crystal structure of human ABCG5/G8 was determined at 3.9 Å res
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -821,18 +827,19 @@ The first X-ray crystal structure of human ABCG5/G8 was determined at 3.9 Å res
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGSAGKAAEERGLPKGATPQDTSGLQDRL</span><span class="topo-outside">FSSESDNSLYFTYSGQPNTLEVRDLNYQV</span><span class="topo-unknown">DL</span></span>
-<span class="topo-line"><span class="topo-unknown">ASQVPWFEQLAQFKMPWTSPSCQNSCEL</span><span class="topo-outside">GIQNLSFKVRSGQMLAIIGSSGCGRASLLDVI</span></span>
-<span class="topo-line"><span class="topo-outside">TGRGHGGKIKSGQIWINGQPSSPQLVRKCVAHVRQHNQLLPNLTVRETLAFIAQMRLPRT</span></span>
-<span class="topo-line"><span class="topo-outside">FSQAQRDKRVEDVIAELRLRQCADTRVGNMYVRGLSGGERRRVSIGVQLLWNPGILILDE</span></span>
-<span class="topo-line"><span class="topo-outside">PTSGLDSFTAHNLVKTLSRLAKGNRLVLISLHQPRSDIFRLFDLVLLMTSGTPIYLGAAQ</span></span>
-<span class="topo-line"><span class="topo-outside">HMVQYFTAIGYPCPRYSNPADFYVDLTSIDRRSREQELATREKAQSLAALFLEKVRDLDD</span></span>
-<span class="topo-line"><span class="topo-outside">FLWK</span><span class="topo-unknown">AETKDLDEDTCVESSVTPLDTNCLPSP</span><span class="topo-outside">TKMPGAVQQFTTLIRRQISNDFRD</span><span class="topo-membrane">LPTLL</span></span>
-<span class="topo-line"><span class="topo-membrane">IHGAEACLMSMTIGFL</span><span class="topo-inside">YFGHGSIQLSFMDTAAL</span><span class="topo-membrane">LFMIGALIPFNVILDVISK</span><span class="topo-outside">CYSERAML</span></span>
-<span class="topo-line"><span class="topo-outside">YYELEDGLYTTGPYF</span><span class="topo-membrane">FAKILGELPEHCAYIIIYGMPTY</span><span class="topo-inside">WLANLRPGLQPFL</span><span class="topo-membrane">LHFLLVWLV</span></span>
-<span class="topo-line"><span class="topo-membrane">VFCCRIMALAAAALL</span><span class="topo-outside">PTFH</span><span class="topo-membrane">MASFFSNALYNSFYLAGGFMI</span><span class="topo-inside">NLSSL</span><span class="topo-unknown">WTVPAWISKVSFLRW</span></span>
-<span class="topo-line"><span class="topo-unknown">CF</span><span class="topo-inside">EGLMKIQFSRRTYKM</span><span class="topo-unknown">PLGNLTI</span><span class="topo-inside">AVSGDKILSVMELDSYPLYA</span><span class="topo-membrane">IYLIVIGLSGGFMVLY</span></span>
-<span class="topo-line"><span class="topo-membrane">YVS</span><span class="topo-outside">LRFIKQKPS</span><span class="topo-unknown">QDWASNSLEVLFQME</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGSAGKAAEERGLPKGATPQDTSGLQDRL</span><span class="topo-outside">FSSESDNSLYFTYSGQPNTLEVRDLNYQV</span><span class="topo-unknown">DLASQVPWFEQLAQFKMPWTSPSCQNSCEL</span><span class="topo-outside">GIQNLSFKVRSGQMLAIIGSSGCGRASLLDVI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">TGRGHGGKIKSGQIWINGQPSSPQLVRKCVAHVRQHNQLLPNLTVRETLAFIAQMRLPRTFSQAQRDKRVEDVIAELRLRQCADTRVGNMYVRGLSGGERRRVSIGVQLLWNPGILILDE</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">PTSGLDSFTAHNLVKTLSRLAKGNRLVLISLHQPRSDIFRLFDLVLLMTSGTPIYLGAAQHMVQYFTAIGYPCPRYSNPADFYVDLTSIDRRSREQELATREKAQSLAALFLEKVRDLDD</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">FLWK</span><span class="topo-unknown">AETKDLDEDTCVESSVTPLDTNCLPSP</span><span class="topo-outside">TKMPGAVQQFTTLIRRQISNDFRD</span><span class="topo-membrane">LPTLLIHGAEACLMSMTIGFL</span><span class="topo-inside">YFGHGSIQLSFMDTAAL</span><span class="topo-membrane">LFMIGALIPFNVILDVISK</span><span class="topo-outside">CYSERAML</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">YYELEDGLYTTGPYF</span><span class="topo-membrane">FAKILGELPEHCAYIIIYGMPTY</span><span class="topo-inside">WLANLRPGLQPFL</span><span class="topo-membrane">LHFLLVWLVVFCCRIMALAAAALL</span><span class="topo-outside">PTFH</span><span class="topo-membrane">MASFFSNALYNSFYLAGGFMI</span><span class="topo-inside">NLSSL</span><span class="topo-unknown">WTVPAWISKVSFLRW</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       </span>
+<span class="topo-line"><span class="topo-unknown">CF</span><span class="topo-inside">EGLMKIQFSRRTYKM</span><span class="topo-unknown">PLGNLTI</span><span class="topo-inside">AVSGDKILSVMELDSYPLYA</span><span class="topo-membrane">IYLIVIGLSGGFMVLYYVS</span><span class="topo-outside">LRFIKQKPS</span><span class="topo-unknown">QDWASNSLEVLFQME</span></span>
+<details class="topo-details"><summary>Topology coordinates (23 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1005,6 +1012,7 @@ The first X-ray crystal structure of human ABCG5/G8 was determined at 3.9 Å res
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1020,17 +1028,19 @@ The first X-ray crystal structure of human ABCG5/G8 was determined at 3.9 Å res
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGDLSSLTPGGSMGLQVNRGSQSSLEGAPATAP</span><span class="topo-inside">EPHSLGILHASYSVS</span><span class="topo-unknown">HRVRPWWDITSC</span></span>
-<span class="topo-line"><span class="topo-unknown">RQQW</span><span class="topo-inside">TRQILKDVSLYVESGQIMCILGSSGSGKTTLLDAMSGRLGRAGTFLGEVYVNGRAL</span></span>
-<span class="topo-line"><span class="topo-inside">RREQFQDCFSYVLQSDTLLSSLTVRETLHYTALLAIRRGNPGSFQKKVEAVMAELSLSHV</span></span>
-<span class="topo-line"><span class="topo-inside">ADRLIGNYSLGGISTGERRRVSIAAQLLQDPKVMLFDEPTTGLDCMTANQIVVLLVELAR</span></span>
-<span class="topo-line"><span class="topo-inside">RNRIVVLTIHQPRSELFQLFDKIAILSFGELIFCGTPAEMLDFFNDCGYPCPEHSNPFDF</span></span>
-<span class="topo-line"><span class="topo-inside">YMDLTSVDTQSKEREIETSKRVQMIESAYKKSAICHKTLKNIERMKHLKTLPMVPFKTKD</span></span>
-<span class="topo-line"><span class="topo-inside">SPG</span><span class="topo-unknown">VFSKLGVLLRRVTRNL</span><span class="topo-membrane">VRNKLAVITRLLQNLIMGLFLLFF</span><span class="topo-outside">VLRVRSNVLKGAIQDRV</span></span>
-<span class="topo-line"><span class="topo-outside">GLLY</span><span class="topo-membrane">QFVGATPYTGMLNAVNLF</span><span class="topo-inside">PVLRAVSDQESQDGLYQKWQMM</span><span class="topo-membrane">LAYALHVLPFSVVATM</span></span>
-<span class="topo-line"><span class="topo-membrane">IFSSVC</span><span class="topo-outside">YWTLGLHPEVARFGYFS</span><span class="topo-membrane">AALLAPHLIGEFLTLVLL</span><span class="topo-inside">GIVQNPN</span><span class="topo-membrane">IVNSVVALLSIA</span></span>
-<span class="topo-line"><span class="topo-membrane">GVLVGS</span><span class="topo-outside">GFLRNIQEMP</span><span class="topo-unknown">IPFKIISYFTFQKYC</span><span class="topo-outside">SEILVVNEFYGLNFTC</span><span class="topo-unknown">GSSNVSVTTNP</span><span class="topo-outside">MC</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGDLSSLTPGGSMGLQVNRGSQSSLEGAPATAP</span><span class="topo-inside">EPHSLGILHASYSVS</span><span class="topo-unknown">HRVRPWWDITSCRQQW</span><span class="topo-inside">TRQILKDVSLYVESGQIMCILGSSGSGKTTLLDAMSGRLGRAGTFLGEVYVNGRAL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">RREQFQDCFSYVLQSDTLLSSLTVRETLHYTALLAIRRGNPGSFQKKVEAVMAELSLSHVADRLIGNYSLGGISTGERRRVSIAAQLLQDPKVMLFDEPTTGLDCMTANQIVVLLVELAR</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">RNRIVVLTIHQPRSELFQLFDKIAILSFGELIFCGTPAEMLDFFNDCGYPCPEHSNPFDFYMDLTSVDTQSKEREIETSKRVQMIESAYKKSAICHKTLKNIERMKHLKTLPMVPFKTKD</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">SPG</span><span class="topo-unknown">VFSKLGVLLRRVTRNL</span><span class="topo-membrane">VRNKLAVITRLLQNLIMGLFLLFF</span><span class="topo-outside">VLRVRSNVLKGAIQDRVGLLY</span><span class="topo-membrane">QFVGATPYTGMLNAVNLF</span><span class="topo-inside">PVLRAVSDQESQDGLYQKWQMM</span><span class="topo-membrane">LAYALHVLPFSVVATM</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-membrane">IFSSVC</span><span class="topo-outside">YWTLGLHPEVARFGYFS</span><span class="topo-membrane">AALLAPHLIGEFLTLVLL</span><span class="topo-inside">GIVQNPN</span><span class="topo-membrane">IVNSVVALLSIAGVLVGS</span><span class="topo-outside">GFLRNIQEMP</span><span class="topo-unknown">IPFKIISYFTFQKYC</span><span class="topo-outside">SEILVVNEFYGLNFTC</span><span class="topo-unknown">GSSNVSVTTNP</span><span class="topo-outside">MC</span></span>
+<span class="topo-ruler">       610       620       630       640       650 </span>
 <span class="topo-line"><span class="topo-outside">AFTQGIQFIEKTCPGATSRFTMNF</span><span class="topo-membrane">LILYSFIPALVILGIVV</span><span class="topo-inside">FKIRDHL</span><span class="topo-unknown">ISR</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1168,6 +1178,7 @@ The first X-ray crystal structure of human ABCG5/G8 was determined at 3.9 Å res
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1183,18 +1194,19 @@ The first X-ray crystal structure of human ABCG5/G8 was determined at 3.9 Å res
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAGKAAEERGLPKGATPQDTSGLQDRL</span><span class="topo-inside">FSSESDNSLYFTYSGQPNTLEVRDLNYQV</span><span class="topo-unknown">DLAS</span></span>
-<span class="topo-line"><span class="topo-unknown">QVPWFEQLAQFKMPWTSPSCQNSCEL</span><span class="topo-inside">GIQNLSFKVRSGQMLAIIGSSGCGRASLLDVITG</span></span>
-<span class="topo-line"><span class="topo-inside">RGHGGKIKSGQIWINGQPSSPQLVRKCVAHVRQHNQLLPNLTVRETLAFIAQMRLPRTFS</span></span>
-<span class="topo-line"><span class="topo-inside">QAQRDKRVEDVIAELRLRQCADTRVGNMYVRGLSGGERRRVSIGVQLLWNPGILILDEPT</span></span>
-<span class="topo-line"><span class="topo-inside">SGLDSFTAHNLVKTLSRLAKGNRLVLISLHQPRSDIFRLFDLVLLMTSGTPIYLGAAQHM</span></span>
-<span class="topo-line"><span class="topo-inside">VQYFTAIGYPCPRYSNPADFYVDLTSIDRRSREQELATREKAQSLAALFLEKVRDLDDFL</span></span>
-<span class="topo-line"><span class="topo-inside">WK</span><span class="topo-unknown">AETKDLDEDTCVESSVTPLDTNCLPSP</span><span class="topo-inside">TKMPG</span><span class="topo-unknown">AVQQFTTLIRRQISND</span><span class="topo-inside">FRDLPTLL</span><span class="topo-membrane">IH</span></span>
-<span class="topo-line"><span class="topo-membrane">GAEACLMSMTIGFLYF</span><span class="topo-outside">GHGSIQLSFMDTAAL</span><span class="topo-membrane">LFMIGALIPFNVILDVI</span><span class="topo-inside">SKCYSERAMLYY</span></span>
-<span class="topo-line"><span class="topo-inside">ELEDGLYTTGPYFFAKILGE</span><span class="topo-membrane">LPEHCAYIIIYGMPTYWLA</span><span class="topo-outside">NLRPG</span><span class="topo-membrane">LQPFLLHFLLVWLVVF</span></span>
-<span class="topo-line"><span class="topo-membrane">CCRIMALAAA</span><span class="topo-inside">ALLPTFH</span><span class="topo-membrane">MASFFSNALYNSFYLAG</span><span class="topo-outside">GFMINLSSLWTV</span><span class="topo-unknown">PAWISKVSFLRWCF</span></span>
-<span class="topo-line"><span class="topo-outside">EGLMKIQFSRRTYKM</span><span class="topo-unknown">PLGNLTI</span><span class="topo-outside">AVSGDKILSVMELDSYPLY</span><span class="topo-membrane">AIYLIVIGLSGGFMVLYYV</span></span>
-<span class="topo-line"><span class="topo-membrane">S</span><span class="topo-inside">LRFIKQKPS</span><span class="topo-unknown">QDW</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAGKAAEERGLPKGATPQDTSGLQDRL</span><span class="topo-inside">FSSESDNSLYFTYSGQPNTLEVRDLNYQV</span><span class="topo-unknown">DLASQVPWFEQLAQFKMPWTSPSCQNSCEL</span><span class="topo-inside">GIQNLSFKVRSGQMLAIIGSSGCGRASLLDVITG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">RGHGGKIKSGQIWINGQPSSPQLVRKCVAHVRQHNQLLPNLTVRETLAFIAQMRLPRTFSQAQRDKRVEDVIAELRLRQCADTRVGNMYVRGLSGGERRRVSIGVQLLWNPGILILDEPT</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">SGLDSFTAHNLVKTLSRLAKGNRLVLISLHQPRSDIFRLFDLVLLMTSGTPIYLGAAQHMVQYFTAIGYPCPRYSNPADFYVDLTSIDRRSREQELATREKAQSLAALFLEKVRDLDDFL</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">WK</span><span class="topo-unknown">AETKDLDEDTCVESSVTPLDTNCLPSP</span><span class="topo-inside">TKMPG</span><span class="topo-unknown">AVQQFTTLIRRQISND</span><span class="topo-inside">FRDLPTLL</span><span class="topo-membrane">IHGAEACLMSMTIGFLYF</span><span class="topo-outside">GHGSIQLSFMDTAAL</span><span class="topo-membrane">LFMIGALIPFNVILDVI</span><span class="topo-inside">SKCYSERAMLYY</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-inside">ELEDGLYTTGPYFFAKILGE</span><span class="topo-membrane">LPEHCAYIIIYGMPTYWLA</span><span class="topo-outside">NLRPG</span><span class="topo-membrane">LQPFLLHFLLVWLVVFCCRIMALAAA</span><span class="topo-inside">ALLPTFH</span><span class="topo-membrane">MASFFSNALYNSFYLAG</span><span class="topo-outside">GFMINLSSLWTV</span><span class="topo-unknown">PAWISKVSFLRWCF</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670   </span>
+<span class="topo-line"><span class="topo-outside">EGLMKIQFSRRTYKM</span><span class="topo-unknown">PLGNLTI</span><span class="topo-outside">AVSGDKILSVMELDSYPLY</span><span class="topo-membrane">AIYLIVIGLSGGFMVLYYVS</span><span class="topo-inside">LRFIKQKPS</span><span class="topo-unknown">QDW</span></span>
+<details class="topo-details"><summary>Topology coordinates (20 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1346,6 +1358,7 @@ The first X-ray crystal structure of human ABCG5/G8 was determined at 3.9 Å res
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

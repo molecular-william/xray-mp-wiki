@@ -190,13 +190,15 @@ Bovine UT-B is a mammalian urea transporter encoded by the SLC14A1 gene. It is a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MDDNPTAVKLDQGGNQAPQGRGRRCLPKAL</span><span class="topo-inside">GYITGDM</span><span class="topo-unknown">KEFANWLK</span><span class="topo-inside">DKP</span><span class="topo-unknown">QALQFVDWVLRG</span></span>
-<span class="topo-line"><span class="topo-unknown">ISQVVFV</span><span class="topo-inside">S</span><span class="topo-membrane">NPISGILILVGLLVQ</span><span class="topo-outside">NPWC</span><span class="topo-membrane">ALNGCVGTVVSTLTALLL</span><span class="topo-inside">SQDRSAITAG</span><span class="topo-membrane">LQGYN</span></span>
-<span class="topo-line"><span class="topo-membrane">ATLVGILM</span><span class="topo-outside">AIYSDKGNYFWWLL</span><span class="topo-membrane">FPVSAMSMTCPVFSSALN</span><span class="topo-inside">SVLSKWDLP</span><span class="topo-membrane">VFTLPFNMALS</span></span>
-<span class="topo-line"><span class="topo-membrane">MY</span><span class="topo-outside">LSATGHYNPFFPSTLITPVTSVPNVTWPDLSALQLLKSL</span><span class="topo-unknown">PVGVGQIYGC</span><span class="topo-outside">DNPW</span><span class="topo-membrane">TGGIF</span></span>
-<span class="topo-line"><span class="topo-membrane">LGAILLSSP</span><span class="topo-inside">L</span><span class="topo-membrane">MCLHAAIGSLLGIIA</span><span class="topo-outside">GLSLSAPFEDIYAGLW</span><span class="topo-membrane">GFNSSLACIAIGGT</span><span class="topo-inside">FMALT</span></span>
-<span class="topo-line"><span class="topo-inside">WQT</span><span class="topo-membrane">HLLALACALFTAYLG</span><span class="topo-unknown">ASMSHVMA</span><span class="topo-outside">VVGLPS</span><span class="topo-membrane">GTWPFCLATLLFLLL</span><span class="topo-inside">TTKNPNIYKMPIS</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MDDNPTAVKLDQGGNQAPQGRGRRCLPKAL</span><span class="topo-inside">GYITGDM</span><span class="topo-unknown">KEFANWLK</span><span class="topo-inside">DKP</span><span class="topo-unknown">QALQFVDWVLRGISQVVFV</span><span class="topo-inside">S</span><span class="topo-membrane">NPISGILILVGLLVQ</span><span class="topo-outside">NPWC</span><span class="topo-membrane">ALNGCVGTVVSTLTALLL</span><span class="topo-inside">SQDRSAITAG</span><span class="topo-membrane">LQGYN</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">ATLVGILM</span><span class="topo-outside">AIYSDKGNYFWWLL</span><span class="topo-membrane">FPVSAMSMTCPVFSSALN</span><span class="topo-inside">SVLSKWDLP</span><span class="topo-membrane">VFTLPFNMALSMY</span><span class="topo-outside">LSATGHYNPFFPSTLITPVTSVPNVTWPDLSALQLLKSL</span><span class="topo-unknown">PVGVGQIYGC</span><span class="topo-outside">DNPW</span><span class="topo-membrane">TGGIF</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">LGAILLSSP</span><span class="topo-inside">L</span><span class="topo-membrane">MCLHAAIGSLLGIIA</span><span class="topo-outside">GLSLSAPFEDIYAGLW</span><span class="topo-membrane">GFNSSLACIAIGGT</span><span class="topo-inside">FMALTWQT</span><span class="topo-membrane">HLLALACALFTAYLG</span><span class="topo-unknown">ASMSHVMA</span><span class="topo-outside">VVGLPS</span><span class="topo-membrane">GTWPFCLATLLFLLL</span><span class="topo-inside">TTKNPNIYKMPIS</span></span>
+<span class="topo-ruler">       370       380    </span>
 <span class="topo-line"><span class="topo-inside">KVTYPEENRIFYLQS</span><span class="topo-unknown">RKRTVQGPL</span></span>
+<details class="topo-details"><summary>Topology coordinates (30 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -418,6 +420,7 @@ Bovine UT-B is a mammalian urea transporter encoded by the SLC14A1 gene. It is a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -433,13 +436,15 @@ Bovine UT-B is a mammalian urea transporter encoded by the SLC14A1 gene. It is a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MDDNPTAVKLDQGGNQAPQGRGRRCLPKAL</span><span class="topo-inside">GYITGDM</span><span class="topo-unknown">KEFANWL</span><span class="topo-inside">KDKP</span><span class="topo-unknown">QALQFVDWVLRG</span></span>
-<span class="topo-line"><span class="topo-unknown">ISQVVFV</span><span class="topo-inside">S</span><span class="topo-membrane">NPISGILILVGLLVQ</span><span class="topo-outside">NPWC</span><span class="topo-membrane">ALNGCVGTVVSTLTALLL</span><span class="topo-inside">SQDRSAITAG</span><span class="topo-membrane">LQGYN</span></span>
-<span class="topo-line"><span class="topo-membrane">ATLVGILM</span><span class="topo-outside">AIYSDKGNYFWWLL</span><span class="topo-membrane">FPVSAMSMTCPVFSSAL</span><span class="topo-inside">NSVLSKWDLP</span><span class="topo-membrane">VFTLPFNMALS</span></span>
-<span class="topo-line"><span class="topo-membrane">MY</span><span class="topo-outside">LSATGHYNPFFPSTLITPVTSVPNVTWPDLSALQLLKSL</span><span class="topo-unknown">PVGVGQIYGC</span><span class="topo-outside">DNPW</span><span class="topo-membrane">TGGIF</span></span>
-<span class="topo-line"><span class="topo-membrane">LGAILLSSP</span><span class="topo-inside">L</span><span class="topo-membrane">MCLHAAIGSLLGIIA</span><span class="topo-outside">GLSLSAPFEDIYAGLW</span><span class="topo-membrane">GFNSSLACIAIGGT</span><span class="topo-inside">FMALT</span></span>
-<span class="topo-line"><span class="topo-inside">W</span><span class="topo-membrane">QTHLLALACALFTAYLGASM</span><span class="topo-unknown">SHVMAV</span><span class="topo-outside">VGLPS</span><span class="topo-membrane">GTWPFCLATLLFLLL</span><span class="topo-inside">TTKNPNIYKMPIS</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MDDNPTAVKLDQGGNQAPQGRGRRCLPKAL</span><span class="topo-inside">GYITGDM</span><span class="topo-unknown">KEFANWL</span><span class="topo-inside">KDKP</span><span class="topo-unknown">QALQFVDWVLRGISQVVFV</span><span class="topo-inside">S</span><span class="topo-membrane">NPISGILILVGLLVQ</span><span class="topo-outside">NPWC</span><span class="topo-membrane">ALNGCVGTVVSTLTALLL</span><span class="topo-inside">SQDRSAITAG</span><span class="topo-membrane">LQGYN</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">ATLVGILM</span><span class="topo-outside">AIYSDKGNYFWWLL</span><span class="topo-membrane">FPVSAMSMTCPVFSSAL</span><span class="topo-inside">NSVLSKWDLP</span><span class="topo-membrane">VFTLPFNMALSMY</span><span class="topo-outside">LSATGHYNPFFPSTLITPVTSVPNVTWPDLSALQLLKSL</span><span class="topo-unknown">PVGVGQIYGC</span><span class="topo-outside">DNPW</span><span class="topo-membrane">TGGIF</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">LGAILLSSP</span><span class="topo-inside">L</span><span class="topo-membrane">MCLHAAIGSLLGIIA</span><span class="topo-outside">GLSLSAPFEDIYAGLW</span><span class="topo-membrane">GFNSSLACIAIGGT</span><span class="topo-inside">FMALTW</span><span class="topo-membrane">QTHLLALACALFTAYLGASM</span><span class="topo-unknown">SHVMAV</span><span class="topo-outside">VGLPS</span><span class="topo-membrane">GTWPFCLATLLFLLL</span><span class="topo-inside">TTKNPNIYKMPIS</span></span>
+<span class="topo-ruler">       370       380    </span>
 <span class="topo-line"><span class="topo-inside">KVTYPEENRIFYLQSR</span><span class="topo-unknown">KRTVQGPL</span></span>
+<details class="topo-details"><summary>Topology coordinates (30 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -661,6 +666,7 @@ Bovine UT-B is a mammalian urea transporter encoded by the SLC14A1 gene. It is a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -676,13 +682,15 @@ Bovine UT-B is a mammalian urea transporter encoded by the SLC14A1 gene. It is a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MDDNPTAVKLDQGGNQAPQGRGRRCLPKAL</span><span class="topo-inside">GYITGDM</span><span class="topo-unknown">KEFANWL</span><span class="topo-inside">KDKP</span><span class="topo-unknown">QALQFVDWVLRG</span></span>
-<span class="topo-line"><span class="topo-unknown">ISQVVFV</span><span class="topo-inside">S</span><span class="topo-membrane">NPISGILILVGLLVQ</span><span class="topo-outside">NPWC</span><span class="topo-membrane">ALNGCVGTVVSTLTALLL</span><span class="topo-inside">SQDRSAITAG</span><span class="topo-membrane">LQGYN</span></span>
-<span class="topo-line"><span class="topo-membrane">ATLVGILM</span><span class="topo-outside">AIYSDKGNYFWWLL</span><span class="topo-membrane">FPVSAMSMTCPVFSSAL</span><span class="topo-inside">NSVLSKWDLP</span><span class="topo-membrane">VFTLPFNMALS</span></span>
-<span class="topo-line"><span class="topo-membrane">MY</span><span class="topo-outside">LSATGHYNPFFPSTLITPVTSVPNVTWPDLSALQLLKSL</span><span class="topo-unknown">PVGVGQIYGC</span><span class="topo-outside">DNPW</span><span class="topo-membrane">TGGIF</span></span>
-<span class="topo-line"><span class="topo-membrane">LGAILLSSP</span><span class="topo-inside">L</span><span class="topo-membrane">MCLHAAIGSLLGIIA</span><span class="topo-outside">GLSLSAPFEDIYAGLW</span><span class="topo-membrane">GFNSSLACIAIGGT</span><span class="topo-inside">FMALT</span></span>
-<span class="topo-line"><span class="topo-inside">WQT</span><span class="topo-membrane">HLLALACALFTAYLG</span><span class="topo-outside">ASMSHVMAVVGLPS</span><span class="topo-membrane">GTWPFCLATLLFLLL</span><span class="topo-inside">TTKNPNIYKMPIS</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MDDNPTAVKLDQGGNQAPQGRGRRCLPKAL</span><span class="topo-inside">GYITGDM</span><span class="topo-unknown">KEFANWL</span><span class="topo-inside">KDKP</span><span class="topo-unknown">QALQFVDWVLRGISQVVFV</span><span class="topo-inside">S</span><span class="topo-membrane">NPISGILILVGLLVQ</span><span class="topo-outside">NPWC</span><span class="topo-membrane">ALNGCVGTVVSTLTALLL</span><span class="topo-inside">SQDRSAITAG</span><span class="topo-membrane">LQGYN</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">ATLVGILM</span><span class="topo-outside">AIYSDKGNYFWWLL</span><span class="topo-membrane">FPVSAMSMTCPVFSSAL</span><span class="topo-inside">NSVLSKWDLP</span><span class="topo-membrane">VFTLPFNMALSMY</span><span class="topo-outside">LSATGHYNPFFPSTLITPVTSVPNVTWPDLSALQLLKSL</span><span class="topo-unknown">PVGVGQIYGC</span><span class="topo-outside">DNPW</span><span class="topo-membrane">TGGIF</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">LGAILLSSP</span><span class="topo-inside">L</span><span class="topo-membrane">MCLHAAIGSLLGIIA</span><span class="topo-outside">GLSLSAPFEDIYAGLW</span><span class="topo-membrane">GFNSSLACIAIGGT</span><span class="topo-inside">FMALTWQT</span><span class="topo-membrane">HLLALACALFTAYLG</span><span class="topo-outside">ASMSHVMAVVGLPS</span><span class="topo-membrane">GTWPFCLATLLFLLL</span><span class="topo-inside">TTKNPNIYKMPIS</span></span>
+<span class="topo-ruler">       370       380    </span>
 <span class="topo-line"><span class="topo-inside">KVTYPEENRIFYLQSR</span><span class="topo-unknown">KRTVQGPL</span></span>
+<details class="topo-details"><summary>Topology coordinates (29 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -897,6 +905,7 @@ Bovine UT-B is a mammalian urea transporter encoded by the SLC14A1 gene. It is a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -912,13 +921,15 @@ Bovine UT-B is a mammalian urea transporter encoded by the SLC14A1 gene. It is a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MDDNPTAVKLDQGGNQAPQGRGRRCLPKAL</span><span class="topo-inside">GYITGDM</span><span class="topo-unknown">KEFANWL</span><span class="topo-inside">KDKP</span><span class="topo-unknown">QALQFVDWVLRG</span></span>
-<span class="topo-line"><span class="topo-unknown">ISQVVFV</span><span class="topo-inside">S</span><span class="topo-membrane">NPISGILILVGLLVQ</span><span class="topo-outside">NPWC</span><span class="topo-membrane">ALNGCVGTVVSTLTALLL</span><span class="topo-inside">SQDRSAITAG</span><span class="topo-membrane">LQGYN</span></span>
-<span class="topo-line"><span class="topo-membrane">ATLVGILM</span><span class="topo-outside">AIYSDKGNYFWWLL</span><span class="topo-membrane">FPVSAMSMTCPVFSSALN</span><span class="topo-inside">SVLSKWDLP</span><span class="topo-membrane">VFTLPFNMALS</span></span>
-<span class="topo-line"><span class="topo-membrane">MY</span><span class="topo-outside">LSATGHYNPFFPSTLITPVTSVPNVTWPDLSALQLLKSL</span><span class="topo-unknown">PVGVGQIYGC</span><span class="topo-outside">DNPW</span><span class="topo-membrane">TGGIF</span></span>
-<span class="topo-line"><span class="topo-membrane">LGAILLSSP</span><span class="topo-inside">L</span><span class="topo-membrane">MCLHAAIGSLLGIIA</span><span class="topo-outside">GLSLSAPFEDIYAGLW</span><span class="topo-membrane">GFNSSLACIAIGGT</span><span class="topo-inside">FMALT</span></span>
-<span class="topo-line"><span class="topo-inside">W</span><span class="topo-membrane">QTHLLALACALFTAYLGASM</span><span class="topo-outside">SHVMAVVGLPS</span><span class="topo-membrane">GTWPFCLATLLFLLL</span><span class="topo-inside">TTKNPNIYKMPIS</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MDDNPTAVKLDQGGNQAPQGRGRRCLPKAL</span><span class="topo-inside">GYITGDM</span><span class="topo-unknown">KEFANWL</span><span class="topo-inside">KDKP</span><span class="topo-unknown">QALQFVDWVLRGISQVVFV</span><span class="topo-inside">S</span><span class="topo-membrane">NPISGILILVGLLVQ</span><span class="topo-outside">NPWC</span><span class="topo-membrane">ALNGCVGTVVSTLTALLL</span><span class="topo-inside">SQDRSAITAG</span><span class="topo-membrane">LQGYN</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">ATLVGILM</span><span class="topo-outside">AIYSDKGNYFWWLL</span><span class="topo-membrane">FPVSAMSMTCPVFSSALN</span><span class="topo-inside">SVLSKWDLP</span><span class="topo-membrane">VFTLPFNMALSMY</span><span class="topo-outside">LSATGHYNPFFPSTLITPVTSVPNVTWPDLSALQLLKSL</span><span class="topo-unknown">PVGVGQIYGC</span><span class="topo-outside">DNPW</span><span class="topo-membrane">TGGIF</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">LGAILLSSP</span><span class="topo-inside">L</span><span class="topo-membrane">MCLHAAIGSLLGIIA</span><span class="topo-outside">GLSLSAPFEDIYAGLW</span><span class="topo-membrane">GFNSSLACIAIGGT</span><span class="topo-inside">FMALTW</span><span class="topo-membrane">QTHLLALACALFTAYLGASM</span><span class="topo-outside">SHVMAVVGLPS</span><span class="topo-membrane">GTWPFCLATLLFLLL</span><span class="topo-inside">TTKNPNIYKMPIS</span></span>
+<span class="topo-ruler">       370       380    </span>
 <span class="topo-line"><span class="topo-inside">KVTYPEENRIFYLQS</span><span class="topo-unknown">RKRTVQGPL</span></span>
+<details class="topo-details"><summary>Topology coordinates (29 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1133,6 +1144,7 @@ Bovine UT-B is a mammalian urea transporter encoded by the SLC14A1 gene. It is a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1148,13 +1160,15 @@ Bovine UT-B is a mammalian urea transporter encoded by the SLC14A1 gene. It is a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MDDNPTAVKLDQGGNQAPQGRGRRCLPKAL</span><span class="topo-inside">GYITGDM</span><span class="topo-unknown">KEFANWL</span><span class="topo-inside">KDKP</span><span class="topo-unknown">QALQFVDWVLRG</span></span>
-<span class="topo-line"><span class="topo-unknown">ISQVVFV</span><span class="topo-inside">S</span><span class="topo-membrane">NPISGILILVGLLVQ</span><span class="topo-outside">NPWC</span><span class="topo-membrane">ALNGCVGTVVSTLTALLL</span><span class="topo-inside">SQDRSAITAG</span><span class="topo-membrane">LQGYN</span></span>
-<span class="topo-line"><span class="topo-membrane">ATLVGILM</span><span class="topo-outside">AIYSDKGNYFWWLL</span><span class="topo-membrane">FPVSAMSMTCPVFSSALN</span><span class="topo-inside">SVLSKWDLP</span><span class="topo-membrane">VFTLPFNMALS</span></span>
-<span class="topo-line"><span class="topo-membrane">MY</span><span class="topo-outside">LSATGHYNPFFPSTLITPVTSVPNVTWPDLSALQLLKSL</span><span class="topo-unknown">PVGVGQIYGC</span><span class="topo-outside">DNPW</span><span class="topo-membrane">TGGIF</span></span>
-<span class="topo-line"><span class="topo-membrane">LGAILLSSP</span><span class="topo-inside">L</span><span class="topo-membrane">MCLHAAIGSLLGIIA</span><span class="topo-outside">GLSLSAPFEDIYAGLW</span><span class="topo-membrane">GFNSSLACIAIGGT</span><span class="topo-inside">FMALT</span></span>
-<span class="topo-line"><span class="topo-inside">W</span><span class="topo-membrane">QTHLLALACALFTAYLGASM</span><span class="topo-outside">SHVMAVVGLPS</span><span class="topo-membrane">GTWPFCLATLLFLLL</span><span class="topo-inside">TTKNPNIYKMPIS</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MDDNPTAVKLDQGGNQAPQGRGRRCLPKAL</span><span class="topo-inside">GYITGDM</span><span class="topo-unknown">KEFANWL</span><span class="topo-inside">KDKP</span><span class="topo-unknown">QALQFVDWVLRGISQVVFV</span><span class="topo-inside">S</span><span class="topo-membrane">NPISGILILVGLLVQ</span><span class="topo-outside">NPWC</span><span class="topo-membrane">ALNGCVGTVVSTLTALLL</span><span class="topo-inside">SQDRSAITAG</span><span class="topo-membrane">LQGYN</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">ATLVGILM</span><span class="topo-outside">AIYSDKGNYFWWLL</span><span class="topo-membrane">FPVSAMSMTCPVFSSALN</span><span class="topo-inside">SVLSKWDLP</span><span class="topo-membrane">VFTLPFNMALSMY</span><span class="topo-outside">LSATGHYNPFFPSTLITPVTSVPNVTWPDLSALQLLKSL</span><span class="topo-unknown">PVGVGQIYGC</span><span class="topo-outside">DNPW</span><span class="topo-membrane">TGGIF</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">LGAILLSSP</span><span class="topo-inside">L</span><span class="topo-membrane">MCLHAAIGSLLGIIA</span><span class="topo-outside">GLSLSAPFEDIYAGLW</span><span class="topo-membrane">GFNSSLACIAIGGT</span><span class="topo-inside">FMALTW</span><span class="topo-membrane">QTHLLALACALFTAYLGASM</span><span class="topo-outside">SHVMAVVGLPS</span><span class="topo-membrane">GTWPFCLATLLFLLL</span><span class="topo-inside">TTKNPNIYKMPIS</span></span>
+<span class="topo-ruler">       370       380    </span>
 <span class="topo-line"><span class="topo-inside">KVTYPEENRIFYLQSR</span><span class="topo-unknown">KRTVQGPL</span></span>
+<details class="topo-details"><summary>Topology coordinates (29 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1369,6 +1383,7 @@ Bovine UT-B is a mammalian urea transporter encoded by the SLC14A1 gene. It is a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1384,13 +1399,15 @@ Bovine UT-B is a mammalian urea transporter encoded by the SLC14A1 gene. It is a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MDDNPTAVKLDQGGNQAPQGRGRRCLPKAL</span><span class="topo-inside">GYITGDM</span><span class="topo-unknown">KEFANWL</span><span class="topo-inside">KDKP</span><span class="topo-unknown">QALQFVDWVLRG</span></span>
-<span class="topo-line"><span class="topo-unknown">ISQVVFV</span><span class="topo-inside">S</span><span class="topo-membrane">NPISGILILVGLLVQ</span><span class="topo-outside">NPWC</span><span class="topo-membrane">ALNGCVGTVVSTLTALLL</span><span class="topo-inside">SQDRSAITAG</span><span class="topo-membrane">LQGYN</span></span>
-<span class="topo-line"><span class="topo-membrane">ATLVGILM</span><span class="topo-outside">AIYSDKGNYFWWLL</span><span class="topo-membrane">FPVSAMSMTCPVFSSALN</span><span class="topo-inside">SVLSKWDLP</span><span class="topo-membrane">VFTLPFNMALS</span></span>
-<span class="topo-line"><span class="topo-membrane">MY</span><span class="topo-outside">LSATGHYNPFFPSTLITPVTSVPNVTWPDLSALQLLKSL</span><span class="topo-unknown">PVGVGQIYGC</span><span class="topo-outside">DNPW</span><span class="topo-membrane">TGGIF</span></span>
-<span class="topo-line"><span class="topo-membrane">LGAILLSSP</span><span class="topo-inside">L</span><span class="topo-membrane">MCLHAAIGSLLGIIA</span><span class="topo-outside">GLSLSAPFEDIYAGLW</span><span class="topo-membrane">GFNSSLACIAIGGT</span><span class="topo-inside">FMALT</span></span>
-<span class="topo-line"><span class="topo-inside">W</span><span class="topo-membrane">QTHLLALACALFTAYLGASM</span><span class="topo-outside">SHVMAVVGLPS</span><span class="topo-membrane">GTWPFCLATLLFLLL</span><span class="topo-inside">TTKNPNIYKMPIS</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MDDNPTAVKLDQGGNQAPQGRGRRCLPKAL</span><span class="topo-inside">GYITGDM</span><span class="topo-unknown">KEFANWL</span><span class="topo-inside">KDKP</span><span class="topo-unknown">QALQFVDWVLRGISQVVFV</span><span class="topo-inside">S</span><span class="topo-membrane">NPISGILILVGLLVQ</span><span class="topo-outside">NPWC</span><span class="topo-membrane">ALNGCVGTVVSTLTALLL</span><span class="topo-inside">SQDRSAITAG</span><span class="topo-membrane">LQGYN</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">ATLVGILM</span><span class="topo-outside">AIYSDKGNYFWWLL</span><span class="topo-membrane">FPVSAMSMTCPVFSSALN</span><span class="topo-inside">SVLSKWDLP</span><span class="topo-membrane">VFTLPFNMALSMY</span><span class="topo-outside">LSATGHYNPFFPSTLITPVTSVPNVTWPDLSALQLLKSL</span><span class="topo-unknown">PVGVGQIYGC</span><span class="topo-outside">DNPW</span><span class="topo-membrane">TGGIF</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">LGAILLSSP</span><span class="topo-inside">L</span><span class="topo-membrane">MCLHAAIGSLLGIIA</span><span class="topo-outside">GLSLSAPFEDIYAGLW</span><span class="topo-membrane">GFNSSLACIAIGGT</span><span class="topo-inside">FMALTW</span><span class="topo-membrane">QTHLLALACALFTAYLGASM</span><span class="topo-outside">SHVMAVVGLPS</span><span class="topo-membrane">GTWPFCLATLLFLLL</span><span class="topo-inside">TTKNPNIYKMPIS</span></span>
+<span class="topo-ruler">       370       380    </span>
 <span class="topo-line"><span class="topo-inside">KVTYPEENRIFYLQSR</span><span class="topo-unknown">KRTVQGPL</span></span>
+<details class="topo-details"><summary>Topology coordinates (29 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1605,6 +1622,7 @@ Bovine UT-B is a mammalian urea transporter encoded by the SLC14A1 gene. It is a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

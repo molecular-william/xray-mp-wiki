@@ -137,12 +137,13 @@ The turkey beta1-adrenergic receptor (beta1AR) thermostabilized mutant M23 was c
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGAELLSQQ</span><span class="topo-inside">W</span><span class="topo-membrane">EAGMSLLMALVVLLIVAGNVLVI</span><span class="topo-outside">AAIGSTQRLQTLTNLFIT</span><span class="topo-membrane">SLACADLVV</span></span>
-<span class="topo-line"><span class="topo-membrane">GLLVVPFGATLVV</span><span class="topo-inside">RGTW</span><span class="topo-membrane">LWGSFLCELWTSLDVLCVTASIETLC</span><span class="topo-outside">VIAIDRYLAITSPFRYQ</span></span>
-<span class="topo-line"><span class="topo-outside">SLMTRARAKVII</span><span class="topo-membrane">CTVWAISALVSFLPIMMHWWRD</span><span class="topo-inside">ED</span><span class="topo-unknown">PQALKCYQ</span><span class="topo-inside">DPGCC</span><span class="topo-membrane">DFVTNRAYAIA</span></span>
-<span class="topo-line"><span class="topo-membrane">SSIISFYIPLLIMIF</span><span class="topo-outside">VALRVYREAKEQI</span><span class="topo-unknown">RKIDRASKRKRVMLM</span><span class="topo-outside">REHKALKTLG</span><span class="topo-membrane">IIMGVFT</span></span>
-<span class="topo-line"><span class="topo-membrane">LCWLPFFLVNIVNVFN</span><span class="topo-inside">RDLVPD</span><span class="topo-membrane">WLFVAFNWLGYANSAMNPII</span><span class="topo-outside">YCRS</span><span class="topo-unknown">PDFRKAFKRL</span><span class="topo-outside">LA</span><span class="topo-unknown">FP</span></span>
-<span class="topo-line"><span class="topo-unknown">RKADRRLHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGAELLSQQ</span><span class="topo-inside">W</span><span class="topo-membrane">EAGMSLLMALVVLLIVAGNVLVI</span><span class="topo-outside">AAIGSTQRLQTLTNLFIT</span><span class="topo-membrane">SLACADLVVGLLVVPFGATLVV</span><span class="topo-inside">RGTW</span><span class="topo-membrane">LWGSFLCELWTSLDVLCVTASIETLC</span><span class="topo-outside">VIAIDRYLAITSPFRYQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">SLMTRARAKVII</span><span class="topo-membrane">CTVWAISALVSFLPIMMHWWRD</span><span class="topo-inside">ED</span><span class="topo-unknown">PQALKCYQ</span><span class="topo-inside">DPGCC</span><span class="topo-membrane">DFVTNRAYAIASSIISFYIPLLIMIF</span><span class="topo-outside">VALRVYREAKEQI</span><span class="topo-unknown">RKIDRASKRKRVMLM</span><span class="topo-outside">REHKALKTLG</span><span class="topo-membrane">IIMGVFT</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310   </span>
+<span class="topo-line"><span class="topo-membrane">LCWLPFFLVNIVNVFN</span><span class="topo-inside">RDLVPD</span><span class="topo-membrane">WLFVAFNWLGYANSAMNPII</span><span class="topo-outside">YCRS</span><span class="topo-unknown">PDFRKAFKRL</span><span class="topo-outside">LA</span><span class="topo-unknown">FPRKADRRLHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (23 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -315,6 +316,7 @@ The turkey beta1-adrenergic receptor (beta1AR) thermostabilized mutant M23 was c
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

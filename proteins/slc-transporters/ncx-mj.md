@@ -138,12 +138,13 @@ NCX_Mj is a sodium/calcium exchanger (NCX) from the archaeon Methanococcus janna
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MVI</span><span class="topo-membrane">LGVGYFLLGLILLYYGSDWFV</span><span class="topo-inside">LGSERIARHFNVSNFVI</span><span class="topo-membrane">GATVMAIGTSLPEILTSA</span><span class="topo-outside">Y</span></span>
-<span class="topo-line"><span class="topo-outside">ASYMHAPGISI</span><span class="topo-membrane">GNAIGSCICNIGLVLGLSAII</span><span class="topo-inside">SPIIVDKNLQK</span><span class="topo-membrane">NILVYLLFVIFAAVIGI</span></span>
-<span class="topo-line"><span class="topo-outside">DGFSW</span><span class="topo-membrane">IDGVVLLILFIIYLRWT</span><span class="topo-inside">VKNGSA</span><span class="topo-unknown">EIEENND</span><span class="topo-inside">KNNPSVVFSLV</span><span class="topo-membrane">LLIIGLIGVLVGAE</span></span>
-<span class="topo-line"><span class="topo-membrane">LFVDGA</span><span class="topo-outside">KKIALALDISDKVIGFTL</span><span class="topo-membrane">VAFGTSLPELMVSLAAA</span><span class="topo-inside">KRNLGGM</span><span class="topo-membrane">VLGNVIGSNIAD</span></span>
-<span class="topo-line"><span class="topo-membrane">IGGALAVGSL</span><span class="topo-outside">FMHLPAEN</span><span class="topo-membrane">VQMAVLVIMSLLLYLFA</span><span class="topo-inside">KYSKI</span><span class="topo-membrane">GRWQGILFLALYIIAIAS</span><span class="topo-outside">LR</span></span>
-<span class="topo-line"><span class="topo-outside">MGGG</span><span class="topo-unknown">SLVPRGSRSHHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MVI</span><span class="topo-membrane">LGVGYFLLGLILLYYGSDWFV</span><span class="topo-inside">LGSERIARHFNVSNFVI</span><span class="topo-membrane">GATVMAIGTSLPEILTSA</span><span class="topo-outside">YASYMHAPGISI</span><span class="topo-membrane">GNAIGSCICNIGLVLGLSAII</span><span class="topo-inside">SPIIVDKNLQK</span><span class="topo-membrane">NILVYLLFVIFAAVIGI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">DGFSW</span><span class="topo-membrane">IDGVVLLILFIIYLRWT</span><span class="topo-inside">VKNGSA</span><span class="topo-unknown">EIEENND</span><span class="topo-inside">KNNPSVVFSLV</span><span class="topo-membrane">LLIIGLIGVLVGAELFVDGA</span><span class="topo-outside">KKIALALDISDKVIGFTL</span><span class="topo-membrane">VAFGTSLPELMVSLAAA</span><span class="topo-inside">KRNLGGM</span><span class="topo-membrane">VLGNVIGSNIAD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320</span>
+<span class="topo-line"><span class="topo-membrane">IGGALAVGSL</span><span class="topo-outside">FMHLPAEN</span><span class="topo-membrane">VQMAVLVIMSLLLYLFA</span><span class="topo-inside">KYSKI</span><span class="topo-membrane">GRWQGILFLALYIIAIAS</span><span class="topo-outside">LRMGGG</span><span class="topo-unknown">SLVPRGSRSHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (24 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -323,6 +324,7 @@ NCX_Mj is a sodium/calcium exchanger (NCX) from the archaeon Methanococcus janna
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -338,12 +340,13 @@ NCX_Mj is a sodium/calcium exchanger (NCX) from the archaeon Methanococcus janna
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MVI</span><span class="topo-membrane">LGVGYFLLGLILLYYGSDWFV</span><span class="topo-inside">LGSERIARHFNVSNFVI</span><span class="topo-membrane">GATVMAIGTSLPEILTSA</span><span class="topo-outside">Y</span></span>
-<span class="topo-line"><span class="topo-outside">ASYMHAPGISI</span><span class="topo-membrane">GNAIGSCICNIGLVLGLSAII</span><span class="topo-inside">SPIIVDKNLQK</span><span class="topo-membrane">NILVYLLFVIFAAVIGI</span></span>
-<span class="topo-line"><span class="topo-outside">DGFSW</span><span class="topo-membrane">IDGVVLLILFIIYLRWT</span><span class="topo-inside">VKNGSA</span><span class="topo-unknown">EIEENND</span><span class="topo-inside">KNNPSVVFSLV</span><span class="topo-membrane">LLIIGLIGVLVGAE</span></span>
-<span class="topo-line"><span class="topo-membrane">LFVDGA</span><span class="topo-outside">KKIALALDISDKVIGFTL</span><span class="topo-membrane">VAFGTSLPELMVSLAAA</span><span class="topo-inside">KRNLGGM</span><span class="topo-membrane">VLGNVIGSNIAD</span></span>
-<span class="topo-line"><span class="topo-membrane">IGGALAVGSL</span><span class="topo-outside">FMHLPAEN</span><span class="topo-membrane">VQMAVLVIMSLLLYLFA</span><span class="topo-inside">KYSKI</span><span class="topo-membrane">GRWQGILFLALYIIAIAS</span><span class="topo-outside">LR</span></span>
-<span class="topo-line"><span class="topo-outside">MGGG</span><span class="topo-unknown">SLVPRGSRSHHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MVI</span><span class="topo-membrane">LGVGYFLLGLILLYYGSDWFV</span><span class="topo-inside">LGSERIARHFNVSNFVI</span><span class="topo-membrane">GATVMAIGTSLPEILTSA</span><span class="topo-outside">YASYMHAPGISI</span><span class="topo-membrane">GNAIGSCICNIGLVLGLSAII</span><span class="topo-inside">SPIIVDKNLQK</span><span class="topo-membrane">NILVYLLFVIFAAVIGI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">DGFSW</span><span class="topo-membrane">IDGVVLLILFIIYLRWT</span><span class="topo-inside">VKNGSA</span><span class="topo-unknown">EIEENND</span><span class="topo-inside">KNNPSVVFSLV</span><span class="topo-membrane">LLIIGLIGVLVGAELFVDGA</span><span class="topo-outside">KKIALALDISDKVIGFTL</span><span class="topo-membrane">VAFGTSLPELMVSLAAA</span><span class="topo-inside">KRNLGGM</span><span class="topo-membrane">VLGNVIGSNIAD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320</span>
+<span class="topo-line"><span class="topo-membrane">IGGALAVGSL</span><span class="topo-outside">FMHLPAEN</span><span class="topo-membrane">VQMAVLVIMSLLLYLFA</span><span class="topo-inside">KYSKI</span><span class="topo-membrane">GRWQGILFLALYIIAIAS</span><span class="topo-outside">LRMGGG</span><span class="topo-unknown">SLVPRGSRSHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (24 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -523,6 +526,7 @@ NCX_Mj is a sodium/calcium exchanger (NCX) from the archaeon Methanococcus janna
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

@@ -151,12 +151,13 @@ YeeE is a bacterial membrane protein that mediates thiosulfate uptake for use as
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MIW</span><span class="topo-membrane">TGLLVGFLFGIVLQRG</span><span class="topo-outside">R</span><span class="topo-unknown">ICFNSAFR</span><span class="topo-outside">DVLLFKDN</span><span class="topo-membrane">YLFKLAVFTLALEMILFVL</span><span class="topo-inside">LSQVG</span></span>
-<span class="topo-line"><span class="topo-inside">LMQMNPKPLN</span><span class="topo-membrane">LVGNIIGGFVFGLGMVLA</span><span class="topo-outside">G</span><span class="topo-unknown">GCASGVTYRVGEGLT</span><span class="topo-outside">T</span><span class="topo-membrane">AWFAALFYGLGAYAT</span></span>
-<span class="topo-line"><span class="topo-membrane">KSG</span><span class="topo-inside">AFSWWLSWVGQFKSPLSVEESAYYVKGAGPTISSVLGLNPW</span><span class="topo-membrane">IPALVIAALFILWAFG</span></span>
-<span class="topo-line"><span class="topo-membrane">TK</span><span class="topo-outside">TTSRETK</span><span class="topo-membrane">FNWKIASVCLALVAGLGF</span><span class="topo-inside">ITSTLSGRKY</span><span class="topo-unknown">GLGITGGWINLFQGFL</span><span class="topo-inside">TNSPLNW</span></span>
-<span class="topo-line"><span class="topo-membrane">EGLEIVGIILGAGVAAAVA</span><span class="topo-outside">GEFKLRMPKNPVTY</span><span class="topo-membrane">LQVGIGGLLMGIGAVTA</span><span class="topo-inside">G</span><span class="topo-unknown">GCNIGHFLT</span></span>
-<span class="topo-line"><span class="topo-unknown">GVPQLA</span><span class="topo-inside">L</span><span class="topo-membrane">SSWLASIFFILGNWTMAWI</span><span class="topo-outside">LF</span><span class="topo-unknown">LESSGENLYFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">MIW</span><span class="topo-membrane">TGLLVGFLFGIVLQRG</span><span class="topo-outside">R</span><span class="topo-unknown">ICFNSAFR</span><span class="topo-outside">DVLLFKDN</span><span class="topo-membrane">YLFKLAVFTLALEMILFVL</span><span class="topo-inside">LSQVGLMQMNPKPLN</span><span class="topo-membrane">LVGNIIGGFVFGLGMVLA</span><span class="topo-outside">G</span><span class="topo-unknown">GCASGVTYRVGEGLT</span><span class="topo-outside">T</span><span class="topo-membrane">AWFAALFYGLGAYAT</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">KSG</span><span class="topo-inside">AFSWWLSWVGQFKSPLSVEESAYYVKGAGPTISSVLGLNPW</span><span class="topo-membrane">IPALVIAALFILWAFGTK</span><span class="topo-outside">TTSRETK</span><span class="topo-membrane">FNWKIASVCLALVAGLGF</span><span class="topo-inside">ITSTLSGRKY</span><span class="topo-unknown">GLGITGGWINLFQGFL</span><span class="topo-inside">TNSPLNW</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330         </span>
+<span class="topo-line"><span class="topo-membrane">EGLEIVGIILGAGVAAAVA</span><span class="topo-outside">GEFKLRMPKNPVTY</span><span class="topo-membrane">LQVGIGGLLMGIGAVTA</span><span class="topo-inside">G</span><span class="topo-unknown">GCNIGHFLTGVPQLA</span><span class="topo-inside">L</span><span class="topo-membrane">SSWLASIFFILGNWTMAWI</span><span class="topo-outside">LF</span><span class="topo-unknown">LESSGENLYFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (28 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -364,6 +365,7 @@ YeeE is a bacterial membrane protein that mediates thiosulfate uptake for use as
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -379,12 +381,13 @@ YeeE is a bacterial membrane protein that mediates thiosulfate uptake for use as
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MIW</span><span class="topo-membrane">TGLLVGFLFGIVLQRG</span><span class="topo-outside">R</span><span class="topo-unknown">ICFNSAFR</span><span class="topo-outside">DVL</span><span class="topo-unknown">LFKDN</span><span class="topo-outside">YL</span><span class="topo-membrane">FKLAVFTLALEMILFVL</span><span class="topo-inside">LSQVG</span></span>
-<span class="topo-line"><span class="topo-inside">LMQMNPKPLN</span><span class="topo-membrane">LVGNIIGGFVFGLGMVLA</span><span class="topo-outside">G</span><span class="topo-unknown">GAASGVTYRVGEG</span><span class="topo-outside">LT</span><span class="topo-membrane">TAWFAALFYGLGAYAT</span></span>
-<span class="topo-line"><span class="topo-membrane">K</span><span class="topo-inside">SGAFSWWLSWVGQFKSPLSVEESAYYVKGAGPTISSVLGLNPW</span><span class="topo-membrane">IPALVIAALFILWAFG</span></span>
-<span class="topo-line"><span class="topo-outside">T</span><span class="topo-unknown">KTTSR</span><span class="topo-outside">ETKFNW</span><span class="topo-membrane">KIASVCLALVAGLGF</span><span class="topo-inside">ITSTLSGRKYG</span><span class="topo-unknown">LGITGGWINLFQGFL</span><span class="topo-inside">TNSPLNW</span></span>
-<span class="topo-line"><span class="topo-membrane">EGLEIVGIILGAGVAA</span><span class="topo-outside">AVAGEFKLRMPKNPVTYL</span><span class="topo-membrane">QVGIGGLLMGIGAVTA</span><span class="topo-inside">G</span><span class="topo-unknown">GCNIGHFLT</span></span>
-<span class="topo-line"><span class="topo-unknown">GVPQLA</span><span class="topo-inside">L</span><span class="topo-membrane">SSWLASIFFILGNWTM</span><span class="topo-outside">AWILF</span><span class="topo-unknown">LESSGENLYFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">MIW</span><span class="topo-membrane">TGLLVGFLFGIVLQRG</span><span class="topo-outside">R</span><span class="topo-unknown">ICFNSAFR</span><span class="topo-outside">DVL</span><span class="topo-unknown">LFKDN</span><span class="topo-outside">YL</span><span class="topo-membrane">FKLAVFTLALEMILFVL</span><span class="topo-inside">LSQVGLMQMNPKPLN</span><span class="topo-membrane">LVGNIIGGFVFGLGMVLA</span><span class="topo-outside">G</span><span class="topo-unknown">GAASGVTYRVGEG</span><span class="topo-outside">LT</span><span class="topo-membrane">TAWFAALFYGLGAYAT</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">K</span><span class="topo-inside">SGAFSWWLSWVGQFKSPLSVEESAYYVKGAGPTISSVLGLNPW</span><span class="topo-membrane">IPALVIAALFILWAFG</span><span class="topo-outside">T</span><span class="topo-unknown">KTTSR</span><span class="topo-outside">ETKFNW</span><span class="topo-membrane">KIASVCLALVAGLGF</span><span class="topo-inside">ITSTLSGRKYG</span><span class="topo-unknown">LGITGGWINLFQGFL</span><span class="topo-inside">TNSPLNW</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330         </span>
+<span class="topo-line"><span class="topo-membrane">EGLEIVGIILGAGVAA</span><span class="topo-outside">AVAGEFKLRMPKNPVTYL</span><span class="topo-membrane">QVGIGGLLMGIGAVTA</span><span class="topo-inside">G</span><span class="topo-unknown">GCNIGHFLTGVPQLA</span><span class="topo-inside">L</span><span class="topo-membrane">SSWLASIFFILGNWTM</span><span class="topo-outside">AWILF</span><span class="topo-unknown">LESSGENLYFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (32 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -620,6 +623,7 @@ YeeE is a bacterial membrane protein that mediates thiosulfate uptake for use as
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

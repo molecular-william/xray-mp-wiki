@@ -142,12 +142,13 @@ The [CorA Magnesium Transporter from Thermotoga maritima](/xray-mp-wiki/proteins
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GSHMEEKRLSA</span><span class="topo-inside">KKGLPPGTLVYTGKYREDFEIEVMNYSIEEFREFKTTDVESVLPFRDSS</span></span>
-<span class="topo-line"><span class="topo-inside">TPTWINITGIHRTDVVQRVGEFFGIHPLVLEDILNVHQRPKVEFFENYVFIVLKMFTYDK</span></span>
-<span class="topo-line"><span class="topo-inside">NLHELESEQVSLILTKNCVLMFQEKIGDVFDPVRERIRYNRGIIRKKRADYLLYSLIDAL</span></span>
-<span class="topo-line"><span class="topo-inside">VDDYFVLLEKIDDEIDVLEEEVLERPEKETVQRTHQLKRNLVELRKTIWPLREVLSSLYR</span></span>
-<span class="topo-line"><span class="topo-inside">DVPPLIEKETVPYFRDVYDHTIQIADTVETFRDIVSGLLDVYLSSVSNKTNEVM</span><span class="topo-membrane">KVLTII</span></span>
-<span class="topo-line"><span class="topo-membrane">ATIFMPLTFIAGIYGM</span><span class="topo-outside">NF</span><span class="topo-unknown">EYMPELR</span><span class="topo-outside">WKWG</span><span class="topo-membrane">YPVVLAVMGVIAVIMVVYFKK</span><span class="topo-inside">KK</span><span class="topo-unknown">WL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GSHMEEKRLSA</span><span class="topo-inside">KKGLPPGTLVYTGKYREDFEIEVMNYSIEEFREFKTTDVESVLPFRDSSTPTWINITGIHRTDVVQRVGEFFGIHPLVLEDILNVHQRPKVEFFENYVFIVLKMFTYDK</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">NLHELESEQVSLILTKNCVLMFQEKIGDVFDPVRERIRYNRGIIRKKRADYLLYSLIDALVDDYFVLLEKIDDEIDVLEEEVLERPEKETVQRTHQLKRNLVELRKTIWPLREVLSSLYR</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350    </span>
+<span class="topo-line"><span class="topo-inside">DVPPLIEKETVPYFRDVYDHTIQIADTVETFRDIVSGLLDVYLSSVSNKTNEVM</span><span class="topo-membrane">KVLTIIATIFMPLTFIAGIYGM</span><span class="topo-outside">NF</span><span class="topo-unknown">EYMPELR</span><span class="topo-outside">WKWG</span><span class="topo-membrane">YPVVLAVMGVIAVIMVVYFKK</span><span class="topo-inside">KK</span><span class="topo-unknown">WL</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -222,6 +223,7 @@ The [CorA Magnesium Transporter from Thermotoga maritima](/xray-mp-wiki/proteins
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -237,12 +239,13 @@ The [CorA Magnesium Transporter from Thermotoga maritima](/xray-mp-wiki/proteins
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GSHMEEKRLSA</span><span class="topo-inside">KKGLPPGTLVYTGKYREDFEIEVMNYSIEEFREFKTTDVESVLPFRDSS</span></span>
-<span class="topo-line"><span class="topo-inside">TPTWINITGIHRTDVVQRVGEFFGIHPLVLEDILNVHQRPKVEFFENYVFIVLKMFTYDK</span></span>
-<span class="topo-line"><span class="topo-inside">NLHELESEQVSLILTKNCVLMFQEKIGDVFDPVRERIRYNRGIIRKKRADYLLYSLIDAL</span></span>
-<span class="topo-line"><span class="topo-inside">VDDYFVLLEKIDDEIDVLEEEVLERPEKETVQRTHQLKRNLVELRKTIWPLREVLSSLYR</span></span>
-<span class="topo-line"><span class="topo-inside">DVPPLIEKETVPYFRDVYDHTIQIADTVETFRDIVSGLLDVYLSSVSNKTNEVMK</span><span class="topo-membrane">VLTII</span></span>
-<span class="topo-line"><span class="topo-membrane">ATIFMPLTFIAGIYGM</span><span class="topo-outside">NF</span><span class="topo-unknown">EYMPELR</span><span class="topo-outside">WKWG</span><span class="topo-membrane">YPVVLAVMGVIAVIMVVYFKK</span><span class="topo-inside">KK</span><span class="topo-unknown">WL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GSHMEEKRLSA</span><span class="topo-inside">KKGLPPGTLVYTGKYREDFEIEVMNYSIEEFREFKTTDVESVLPFRDSSTPTWINITGIHRTDVVQRVGEFFGIHPLVLEDILNVHQRPKVEFFENYVFIVLKMFTYDK</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">NLHELESEQVSLILTKNCVLMFQEKIGDVFDPVRERIRYNRGIIRKKRADYLLYSLIDALVDDYFVLLEKIDDEIDVLEEEVLERPEKETVQRTHQLKRNLVELRKTIWPLREVLSSLYR</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350    </span>
+<span class="topo-line"><span class="topo-inside">DVPPLIEKETVPYFRDVYDHTIQIADTVETFRDIVSGLLDVYLSSVSNKTNEVMK</span><span class="topo-membrane">VLTIIATIFMPLTFIAGIYGM</span><span class="topo-outside">NF</span><span class="topo-unknown">EYMPELR</span><span class="topo-outside">WKWG</span><span class="topo-membrane">YPVVLAVMGVIAVIMVVYFKK</span><span class="topo-inside">KK</span><span class="topo-unknown">WL</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -317,6 +320,7 @@ The [CorA Magnesium Transporter from Thermotoga maritima](/xray-mp-wiki/proteins
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -332,12 +336,13 @@ The [CorA Magnesium Transporter from Thermotoga maritima](/xray-mp-wiki/proteins
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GSHMEEKRLSA</span><span class="topo-inside">KKGLPPGTLVYTGKYREDFEIEVMNYSIEEFREFKTTDVESVLPFRDSS</span></span>
-<span class="topo-line"><span class="topo-inside">TPTWINITGIHRTDVVQRVGEFFGIHPLVLEDILNVHQRPKVEFFENYVFIVLKMFTYDK</span></span>
-<span class="topo-line"><span class="topo-inside">NLHELESEQVSLILTKNCVLMFQEKIGDVFDPVRERIRYNRGIIRKKRADYLLYSLIDAL</span></span>
-<span class="topo-line"><span class="topo-inside">VDDYFVLLEKIDDEIDVLEEEVLERPEKETVQRTHQLKRNLVELRKTIWPLREVLSSLYR</span></span>
-<span class="topo-line"><span class="topo-inside">DVPPLIEKETVPYFRDVYDHTIQIADTVETFRDIVSGLLDVYLSSVSNKTNEVM</span><span class="topo-membrane">KVLTII</span></span>
-<span class="topo-line"><span class="topo-membrane">ATIFMPLTFIAGIYGM</span><span class="topo-outside">NF</span><span class="topo-unknown">EYMPELR</span><span class="topo-outside">WKWG</span><span class="topo-membrane">YPVVLAVMGVIAVIMVVYFKK</span><span class="topo-inside">KK</span><span class="topo-unknown">WL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GSHMEEKRLSA</span><span class="topo-inside">KKGLPPGTLVYTGKYREDFEIEVMNYSIEEFREFKTTDVESVLPFRDSSTPTWINITGIHRTDVVQRVGEFFGIHPLVLEDILNVHQRPKVEFFENYVFIVLKMFTYDK</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">NLHELESEQVSLILTKNCVLMFQEKIGDVFDPVRERIRYNRGIIRKKRADYLLYSLIDALVDDYFVLLEKIDDEIDVLEEEVLERPEKETVQRTHQLKRNLVELRKTIWPLREVLSSLYR</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350    </span>
+<span class="topo-line"><span class="topo-inside">DVPPLIEKETVPYFRDVYDHTIQIADTVETFRDIVSGLLDVYLSSVSNKTNEVM</span><span class="topo-membrane">KVLTIIATIFMPLTFIAGIYGM</span><span class="topo-outside">NF</span><span class="topo-unknown">EYMPELR</span><span class="topo-outside">WKWG</span><span class="topo-membrane">YPVVLAVMGVIAVIMVVYFKK</span><span class="topo-inside">KK</span><span class="topo-unknown">WL</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -412,6 +417,7 @@ The [CorA Magnesium Transporter from Thermotoga maritima](/xray-mp-wiki/proteins
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -427,12 +433,13 @@ The [CorA Magnesium Transporter from Thermotoga maritima](/xray-mp-wiki/proteins
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GSHMEEKRLSA</span><span class="topo-inside">KKGLPPGTLVYTGKYREDFEIEVMNYSIEEFREFKTTDVESVLPFRDSS</span></span>
-<span class="topo-line"><span class="topo-inside">TPTWINITGIHRTDVVQRVGEFFGIHPLVLEDILNVHQRPKVEFFENYVFIVLKMFTYDK</span></span>
-<span class="topo-line"><span class="topo-inside">NLHELESEQVSLILTKNCVLMFQEKIGDVFDPVRERIRYNRGIIRKKRADYLLYSLIDAL</span></span>
-<span class="topo-line"><span class="topo-inside">VDDYFVLLEKIDDEIDVLEEEVLERPEKETVQRTHQLKRNLVELRKTIWPLREVLSSLYR</span></span>
-<span class="topo-line"><span class="topo-inside">DVPPLIEKETVPYFRDVYDHTIQIADTVETFRDIVSGLLDVYLSSVSNKTNEVM</span><span class="topo-membrane">KVLTII</span></span>
-<span class="topo-line"><span class="topo-membrane">ATIFMPLTFIAGIYGM</span><span class="topo-outside">NF</span><span class="topo-unknown">EYMPELR</span><span class="topo-outside">WKWG</span><span class="topo-membrane">YPVVLAVMGVIAVIMVVYFKK</span><span class="topo-inside">KK</span><span class="topo-unknown">WL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GSHMEEKRLSA</span><span class="topo-inside">KKGLPPGTLVYTGKYREDFEIEVMNYSIEEFREFKTTDVESVLPFRDSSTPTWINITGIHRTDVVQRVGEFFGIHPLVLEDILNVHQRPKVEFFENYVFIVLKMFTYDK</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">NLHELESEQVSLILTKNCVLMFQEKIGDVFDPVRERIRYNRGIIRKKRADYLLYSLIDALVDDYFVLLEKIDDEIDVLEEEVLERPEKETVQRTHQLKRNLVELRKTIWPLREVLSSLYR</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350    </span>
+<span class="topo-line"><span class="topo-inside">DVPPLIEKETVPYFRDVYDHTIQIADTVETFRDIVSGLLDVYLSSVSNKTNEVM</span><span class="topo-membrane">KVLTIIATIFMPLTFIAGIYGM</span><span class="topo-outside">NF</span><span class="topo-unknown">EYMPELR</span><span class="topo-outside">WKWG</span><span class="topo-membrane">YPVVLAVMGVIAVIMVVYFKK</span><span class="topo-inside">KK</span><span class="topo-unknown">WL</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -507,6 +514,7 @@ The [CorA Magnesium Transporter from Thermotoga maritima](/xray-mp-wiki/proteins
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -522,12 +530,13 @@ The [CorA Magnesium Transporter from Thermotoga maritima](/xray-mp-wiki/proteins
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GSHMEEKRLSA</span><span class="topo-inside">KKGLPPGTLVYTGKYREDFEIEVMNYSIEEFREFKTTDVESVLPFRDSS</span></span>
-<span class="topo-line"><span class="topo-inside">TPTWINITGIHRTDVVQRVGEFFGIHPLVLEDILNVHQRPKVEFFENYVFIVLKMFTYDK</span></span>
-<span class="topo-line"><span class="topo-inside">NLHELESEQVSLILTKNCVLMFQEKIGDVFDPVRERIRYNRGIIRKKRADYLLYSLIDAL</span></span>
-<span class="topo-line"><span class="topo-inside">VDDYFVLLEKIDDEIDVLEEEVLERPEKETVQRTHQLKRNLVELRKTIWPLREVLSSLYR</span></span>
-<span class="topo-line"><span class="topo-inside">DVPPLIEKETVPYFRDVYDHTIQIADTVETFRDIVSGLLDVYLSSVSNKTNEVMK</span><span class="topo-membrane">VLTII</span></span>
-<span class="topo-line"><span class="topo-membrane">ATIFMPLTFIAGIYGM</span><span class="topo-outside">NF</span><span class="topo-unknown">EYMPELR</span><span class="topo-outside">WKWG</span><span class="topo-membrane">YPVVLAVMGVIAVIMVVYFKK</span><span class="topo-inside">KK</span><span class="topo-unknown">WL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GSHMEEKRLSA</span><span class="topo-inside">KKGLPPGTLVYTGKYREDFEIEVMNYSIEEFREFKTTDVESVLPFRDSSTPTWINITGIHRTDVVQRVGEFFGIHPLVLEDILNVHQRPKVEFFENYVFIVLKMFTYDK</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">NLHELESEQVSLILTKNCVLMFQEKIGDVFDPVRERIRYNRGIIRKKRADYLLYSLIDALVDDYFVLLEKIDDEIDVLEEEVLERPEKETVQRTHQLKRNLVELRKTIWPLREVLSSLYR</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350    </span>
+<span class="topo-line"><span class="topo-inside">DVPPLIEKETVPYFRDVYDHTIQIADTVETFRDIVSGLLDVYLSSVSNKTNEVMK</span><span class="topo-membrane">VLTIIATIFMPLTFIAGIYGM</span><span class="topo-outside">NF</span><span class="topo-unknown">EYMPELR</span><span class="topo-outside">WKWG</span><span class="topo-membrane">YPVVLAVMGVIAVIMVVYFKK</span><span class="topo-inside">KK</span><span class="topo-unknown">WL</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -602,6 +611,7 @@ The [CorA Magnesium Transporter from Thermotoga maritima](/xray-mp-wiki/proteins
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -691,13 +701,15 @@ The [CorA Magnesium Transporter from Thermotoga maritima](/xray-mp-wiki/proteins
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGSDKIHHHHHHMEEK</span><span class="topo-outside">RLSAKKGLPPGTLVYTGKYREDFEIEVMNYSIEEFREFKTTDVE</span></span>
-<span class="topo-line"><span class="topo-outside">SVLPFRDSSTPTWINITGIHRTDVVQRVGEFFGIHPLVLEDILNVHQRPKVEFFENYVFI</span></span>
-<span class="topo-line"><span class="topo-outside">VLKMFTYDKNLHELESEQVSLILTKNCVLMFQEKIGDVFDPVRERIRYNRGIIRKKRADY</span></span>
-<span class="topo-line"><span class="topo-outside">LLYSLIDALVDDYFVLLEKIDDEIDVLEEEVLERPEKETVQRTHQLKRNLVELRKTIWPL</span></span>
-<span class="topo-line"><span class="topo-outside">REVLSSLYRDVPPLIEKETVPYFRDVYDHTIQIADTVETFRDIVSGLLDVYLSSVSNKTN</span></span>
-<span class="topo-line"><span class="topo-outside">EVMKV</span><span class="topo-membrane">LTIIATIFMPLTFIAGI</span><span class="topo-inside">YG</span><span class="topo-unknown">MNFEYMPELRWKWG</span><span class="topo-inside">YPVV</span><span class="topo-membrane">LAVMGVIAVIMVVYFK</span><span class="topo-outside">KK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGSDKIHHHHHHMEEK</span><span class="topo-outside">RLSAKKGLPPGTLVYTGKYREDFEIEVMNYSIEEFREFKTTDVESVLPFRDSSTPTWINITGIHRTDVVQRVGEFFGIHPLVLEDILNVHQRPKVEFFENYVFI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">VLKMFTYDKNLHELESEQVSLILTKNCVLMFQEKIGDVFDPVRERIRYNRGIIRKKRADYLLYSLIDALVDDYFVLLEKIDDEIDVLEEEVLERPEKETVQRTHQLKRNLVELRKTIWPL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">REVLSSLYRDVPPLIEKETVPYFRDVYDHTIQIADTVETFRDIVSGLLDVYLSSVSNKTNEVMKV</span><span class="topo-membrane">LTIIATIFMPLTFIAGI</span><span class="topo-inside">YG</span><span class="topo-unknown">MNFEYMPELRWKWG</span><span class="topo-inside">YPVV</span><span class="topo-membrane">LAVMGVIAVIMVVYFK</span><span class="topo-outside">KK</span></span>
+<span class="topo-ruler">   </span>
 <span class="topo-line"><span class="topo-outside">K</span><span class="topo-unknown">WL</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -772,6 +784,7 @@ The [CorA Magnesium Transporter from Thermotoga maritima](/xray-mp-wiki/proteins
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -787,13 +800,15 @@ The [CorA Magnesium Transporter from Thermotoga maritima](/xray-mp-wiki/proteins
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGSDKIHHHHHHMEEK</span><span class="topo-outside">RLSAKKGLPPGTLVYTGKYREDFEIEVMNYSIEEFREFKTTDVE</span></span>
-<span class="topo-line"><span class="topo-outside">SVLPFRDSSTPTWINITGIHRTDVVQRVGEFFGIHPLVLEDILNVHQRPKVEFFENYVFI</span></span>
-<span class="topo-line"><span class="topo-outside">VLKMFTYDKNLHELESEQVSLILTKNCVLMFQEKIGDVFDPVRERIRYNRGIIRKKRADY</span></span>
-<span class="topo-line"><span class="topo-outside">LLYSLIDALVDDYFVLLEKIDDEIDVLEEEVLERPEKETVQRTHQLKRNLVELRKTIWPL</span></span>
-<span class="topo-line"><span class="topo-outside">REVLSSLYRDVPPLIEKETVPYFRDVYDHTIQIADTVETFRDIVSGLLDVYLSSVSNKTN</span></span>
-<span class="topo-line"><span class="topo-outside">EVMKV</span><span class="topo-membrane">LTIIATIFMPLTFIAGI</span><span class="topo-inside">YG</span><span class="topo-unknown">MNFEYMPELRWKWG</span><span class="topo-inside">YPVV</span><span class="topo-membrane">LAVMGVIAVIMVVYFK</span><span class="topo-outside">KK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGSDKIHHHHHHMEEK</span><span class="topo-outside">RLSAKKGLPPGTLVYTGKYREDFEIEVMNYSIEEFREFKTTDVESVLPFRDSSTPTWINITGIHRTDVVQRVGEFFGIHPLVLEDILNVHQRPKVEFFENYVFI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">VLKMFTYDKNLHELESEQVSLILTKNCVLMFQEKIGDVFDPVRERIRYNRGIIRKKRADYLLYSLIDALVDDYFVLLEKIDDEIDVLEEEVLERPEKETVQRTHQLKRNLVELRKTIWPL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">REVLSSLYRDVPPLIEKETVPYFRDVYDHTIQIADTVETFRDIVSGLLDVYLSSVSNKTNEVMKV</span><span class="topo-membrane">LTIIATIFMPLTFIAGI</span><span class="topo-inside">YG</span><span class="topo-unknown">MNFEYMPELRWKWG</span><span class="topo-inside">YPVV</span><span class="topo-membrane">LAVMGVIAVIMVVYFK</span><span class="topo-outside">KK</span></span>
+<span class="topo-ruler">   </span>
 <span class="topo-line"><span class="topo-outside">K</span><span class="topo-unknown">WL</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -868,6 +883,7 @@ The [CorA Magnesium Transporter from Thermotoga maritima](/xray-mp-wiki/proteins
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -883,13 +899,15 @@ The [CorA Magnesium Transporter from Thermotoga maritima](/xray-mp-wiki/proteins
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGSDKIHHHHHHMEEKR</span><span class="topo-outside">LSAKKGLPPGTLVYTGKYREDFEIEVMNYSIEEFREFKTTDVE</span></span>
-<span class="topo-line"><span class="topo-outside">SVLPFRDSSTPTWINITGIHRTDVVQRVGEFFGIHPLVLEDILNVHQRPKVEFFENYVFI</span></span>
-<span class="topo-line"><span class="topo-outside">VLKMFTYDKNLHELESEQVSLILTKNCVLMFQEKIGDVFDPVRERIRYNRGIIRKKRADY</span></span>
-<span class="topo-line"><span class="topo-outside">LLYSLIDALVDDYFVLLEKIDDEIDVLEEEVLERPEKETVQRTHQLKRNLVELRKTIWPL</span></span>
-<span class="topo-line"><span class="topo-outside">REVLSSLYRDVPPLIEKETVPYFRDVYDHTIQIADTVETFRDIVSGLLDVYLSSVSNKTN</span></span>
-<span class="topo-line"><span class="topo-outside">EVMKV</span><span class="topo-membrane">LTIIATIFMPLTFIAGI</span><span class="topo-inside">YG</span><span class="topo-unknown">MNFEYMPELRWKW</span><span class="topo-inside">GYPVV</span><span class="topo-membrane">LAVMGVIAVIMVVYFK</span><span class="topo-outside">KK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGSDKIHHHHHHMEEKR</span><span class="topo-outside">LSAKKGLPPGTLVYTGKYREDFEIEVMNYSIEEFREFKTTDVESVLPFRDSSTPTWINITGIHRTDVVQRVGEFFGIHPLVLEDILNVHQRPKVEFFENYVFI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">VLKMFTYDKNLHELESEQVSLILTKNCVLMFQEKIGDVFDPVRERIRYNRGIIRKKRADYLLYSLIDALVDDYFVLLEKIDDEIDVLEEEVLERPEKETVQRTHQLKRNLVELRKTIWPL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">REVLSSLYRDVPPLIEKETVPYFRDVYDHTIQIADTVETFRDIVSGLLDVYLSSVSNKTNEVMKV</span><span class="topo-membrane">LTIIATIFMPLTFIAGI</span><span class="topo-inside">YG</span><span class="topo-unknown">MNFEYMPELRWKW</span><span class="topo-inside">GYPVV</span><span class="topo-membrane">LAVMGVIAVIMVVYFK</span><span class="topo-outside">KK</span></span>
+<span class="topo-ruler">   </span>
 <span class="topo-line"><span class="topo-outside">K</span><span class="topo-unknown">WL</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -964,6 +982,7 @@ The [CorA Magnesium Transporter from Thermotoga maritima](/xray-mp-wiki/proteins
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -979,13 +998,15 @@ The [CorA Magnesium Transporter from Thermotoga maritima](/xray-mp-wiki/proteins
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGSDKIHHHHHHMEEK</span><span class="topo-outside">RLSAKKGLPPGTLVYTGKYREDFEIEVMNYSIEEFREFKTTDVE</span></span>
-<span class="topo-line"><span class="topo-outside">SVLPFRDSSTPTWINITGIHRTDVVQRVGEFFGIHPLVLEDILNVHQRPKVEFFENYVFI</span></span>
-<span class="topo-line"><span class="topo-outside">VLKMFTYDKNLHELESEQVSLILTKNCVLMFQEKIGDVFDPVRERIRYNRGIIRKKRADY</span></span>
-<span class="topo-line"><span class="topo-outside">LLYSLIDALVDDYFVLLEKIDDEIDVLEEEVLERPEKETVQRTHQLKRNLVELRKTIWPL</span></span>
-<span class="topo-line"><span class="topo-outside">REVLSSLYRDVPPLIEKETVPYFRDVYDHTIQIADTVETFRDIVSGLLDVYLSSVSNKTN</span></span>
-<span class="topo-line"><span class="topo-outside">EVMKV</span><span class="topo-membrane">LTIIATIFMPLTFIAGI</span><span class="topo-inside">YG</span><span class="topo-unknown">MNFEYMPELRWKWG</span><span class="topo-inside">YPVVL</span><span class="topo-membrane">AVMGVIAVIMVVYFK</span><span class="topo-outside">KK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGSDKIHHHHHHMEEK</span><span class="topo-outside">RLSAKKGLPPGTLVYTGKYREDFEIEVMNYSIEEFREFKTTDVESVLPFRDSSTPTWINITGIHRTDVVQRVGEFFGIHPLVLEDILNVHQRPKVEFFENYVFI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">VLKMFTYDKNLHELESEQVSLILTKNCVLMFQEKIGDVFDPVRERIRYNRGIIRKKRADYLLYSLIDALVDDYFVLLEKIDDEIDVLEEEVLERPEKETVQRTHQLKRNLVELRKTIWPL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">REVLSSLYRDVPPLIEKETVPYFRDVYDHTIQIADTVETFRDIVSGLLDVYLSSVSNKTNEVMKV</span><span class="topo-membrane">LTIIATIFMPLTFIAGI</span><span class="topo-inside">YG</span><span class="topo-unknown">MNFEYMPELRWKWG</span><span class="topo-inside">YPVVL</span><span class="topo-membrane">AVMGVIAVIMVVYFK</span><span class="topo-outside">KK</span></span>
+<span class="topo-ruler">   </span>
 <span class="topo-line"><span class="topo-outside">K</span><span class="topo-unknown">WL</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1060,6 +1081,7 @@ The [CorA Magnesium Transporter from Thermotoga maritima](/xray-mp-wiki/proteins
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1075,13 +1097,15 @@ The [CorA Magnesium Transporter from Thermotoga maritima](/xray-mp-wiki/proteins
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGSDKIHHHHHHMEEK</span><span class="topo-outside">RLSAKKGLPPGTLVYTGKYREDFEIEVMNYSIEEFREFKTTDVE</span></span>
-<span class="topo-line"><span class="topo-outside">SVLPFRDSSTPTWINITGIHRTDVVQRVGEFFGIHPLVLEDILNVHQRPKVEFFENYVFI</span></span>
-<span class="topo-line"><span class="topo-outside">VLKMFTYDKNLHELESEQVSLILTKNCVLMFQEKIGDVFDPVRERIRYNRGIIRKKRADY</span></span>
-<span class="topo-line"><span class="topo-outside">LLYSLIDALVDDYFVLLEKIDDEIDVLEEEVLERPEKETVQRTHQLKRNLVELRKTIWPL</span></span>
-<span class="topo-line"><span class="topo-outside">REVLSSLYRDVPPLIEKETVPYFRDVYDHTIQIADTVETFRDIVSGLLDVYLSSVSNKTN</span></span>
-<span class="topo-line"><span class="topo-outside">EVMKV</span><span class="topo-membrane">LTIIATIFMPLTFIAGI</span><span class="topo-inside">YG</span><span class="topo-unknown">MNFEYMPELRWKWG</span><span class="topo-inside">YPVVL</span><span class="topo-membrane">AVMGVIAVIMVVYFKK</span><span class="topo-outside">K</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGSDKIHHHHHHMEEK</span><span class="topo-outside">RLSAKKGLPPGTLVYTGKYREDFEIEVMNYSIEEFREFKTTDVESVLPFRDSSTPTWINITGIHRTDVVQRVGEFFGIHPLVLEDILNVHQRPKVEFFENYVFI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">VLKMFTYDKNLHELESEQVSLILTKNCVLMFQEKIGDVFDPVRERIRYNRGIIRKKRADYLLYSLIDALVDDYFVLLEKIDDEIDVLEEEVLERPEKETVQRTHQLKRNLVELRKTIWPL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">REVLSSLYRDVPPLIEKETVPYFRDVYDHTIQIADTVETFRDIVSGLLDVYLSSVSNKTNEVMKV</span><span class="topo-membrane">LTIIATIFMPLTFIAGI</span><span class="topo-inside">YG</span><span class="topo-unknown">MNFEYMPELRWKWG</span><span class="topo-inside">YPVVL</span><span class="topo-membrane">AVMGVIAVIMVVYFKK</span><span class="topo-outside">K</span></span>
+<span class="topo-ruler">   </span>
 <span class="topo-line"><span class="topo-outside">K</span><span class="topo-unknown">WL</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1156,6 +1180,7 @@ The [CorA Magnesium Transporter from Thermotoga maritima](/xray-mp-wiki/proteins
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

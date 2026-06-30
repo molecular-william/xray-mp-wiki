@@ -90,11 +90,13 @@ The folate [Free Energy Perturbation](/xray-mp-wiki/methods/structure-determinat
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">AIAFEHVTYTYQAGTPMAHTALTDVSLTVPDRGYLAIIGHTGSGKSTLIQQLNALLKPT</span></span>
-<span class="topo-line"><span class="topo-inside">SGTIKIDEFTITPETTNAALKPLRQHVGMVFQFPENQLFEETVRQDIAFGPKNFGMADAD</span></span>
-<span class="topo-line"><span class="topo-inside">ALALADEMLTTVGLDQSYAERSPFELSGGQMRRVAIAGVLAMQPKVLVLDEPTAGLDPQG</span></span>
-<span class="topo-line"><span class="topo-inside">RQEMMRLFARLHQEQGLTIVLVTHQMEDVAQYAEQVAVMHEGRLMKFGTPADVFSNREWL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">AIAFEHVTYTYQAGTPMAHTALTDVSLTVPDRGYLAIIGHTGSGKSTLIQQLNALLKPTSGTIKIDEFTITPETTNAALKPLRQHVGMVFQFPENQLFEETVRQDIAFGPKNFGMADAD</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">ALALADEMLTTVGLDQSYAERSPFELSGGQMRRVAIAGVLAMQPKVLVLDEPTAGLDPQGRQEMMRLFARLHQEQGLTIVLVTHQMEDVAQYAEQVAVMHEGRLMKFGTPADVFSNREWL</span></span>
+<span class="topo-ruler">       250       260       270       280       290</span>
 <span class="topo-line"><span class="topo-inside">QDHQLDVPQAAQFARRLRDRGLTFPKQPLTADQLADYLAQQWAQR</span><span class="topo-unknown">GADHV</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -127,6 +129,7 @@ The folate [Free Energy Perturbation](/xray-mp-wiki/methods/structure-determinat
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -142,11 +145,13 @@ The folate [Free Energy Perturbation](/xray-mp-wiki/methods/structure-determinat
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MT</span><span class="topo-inside">ENIISVDHLTYQYDENQAPALTDVSFTVHAGEWLAIVGHNGSGKSTLAKSLDGLLPFT</span></span>
-<span class="topo-line"><span class="topo-inside">QGSVTVGGITLTPETVWQVREQIGMIFQNPDNQFVGATVEDDVAFGLENRQISRDEMVPR</span></span>
-<span class="topo-line"><span class="topo-inside">VQAALAQVGMTSFAQREPSSLSGGQKQRVALAGIVAIAPKILILDEATSMLDPQGRIEML</span></span>
-<span class="topo-line"><span class="topo-inside">AIVRQLRQQQNLTVISITHDIDEAASADRVLVIDDGRLVDEAVPSQIFERGTQLVEMGLD</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MT</span><span class="topo-inside">ENIISVDHLTYQYDENQAPALTDVSFTVHAGEWLAIVGHNGSGKSTLAKSLDGLLPFTQGSVTVGGITLTPETVWQVREQIGMIFQNPDNQFVGATVEDDVAFGLENRQISRDEMVPR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">VQAALAQVGMTSFAQREPSSLSGGQKQRVALAGIVAIAPKILILDEATSMLDPQGRIEMLAIVRQLRQQQNLTVISITHDIDEAASADRVLVIDDGRLVDEAVPSQIFERGTQLVEMGLD</span></span>
+<span class="topo-ruler">       250       260       270         </span>
 <span class="topo-line"><span class="topo-inside">LPFTEKLKAALRQRGITPPTTYQTAAEMEEWLWQSLS</span><span class="topo-unknown">NT</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -179,6 +184,7 @@ The folate [Free Energy Perturbation](/xray-mp-wiki/methods/structure-determinat
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -194,9 +200,11 @@ The folate [Free Energy Perturbation](/xray-mp-wiki/methods/structure-determinat
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAKTQLPKL</span><span class="topo-inside">DTLSMVTMGVLMALQLVISRFSVGNNFIKVSFTFLIVALIAKWF</span><span class="topo-unknown">GPWWGML</span></span>
-<span class="topo-line"><span class="topo-unknown">TAAVVDVIGTLMT</span><span class="topo-inside">GGPFFIGFTVSAVLGSLIYAVFLYRQPVSWWRVIGASV</span><span class="topo-membrane">LIALLVNTL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAKTQLPKL</span><span class="topo-inside">DTLSMVTMGVLMALQLVISRFSVGNNFIKVSFTFLIVALIAKWF</span><span class="topo-unknown">GPWWGMLTAAVVDVIGTLMT</span><span class="topo-inside">GGPFFIGFTVSAVLGSLIYAVFLYRQPVSWWRVIGASV</span><span class="topo-membrane">LIALLVNTL</span></span>
+<span class="topo-ruler">       130       140       150       160       170    </span>
 <span class="topo-line"><span class="topo-membrane">LNTLWVTI</span><span class="topo-outside">MYQTPF</span><span class="topo-membrane">WSLLPVRALKELI</span><span class="topo-inside">VTPVQIVLVYLLLKSQVIQMIQARLN</span><span class="topo-unknown">K</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -271,6 +279,7 @@ The folate [Free Energy Perturbation](/xray-mp-wiki/methods/structure-determinat
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -286,11 +295,13 @@ The folate [Free Energy Perturbation](/xray-mp-wiki/methods/structure-determinat
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGSSHHHHHHSQDPMSNFI</span><span class="topo-inside">FGRYLPLDSVVHRLDPRAKLM</span><span class="topo-membrane">LSFCYIIVVFLANNI</span><span class="topo-outside">W</span><span class="topo-membrane">SYAI</span></span>
-<span class="topo-line"><span class="topo-membrane">LIAFTVGAILSSKI</span><span class="topo-inside">S</span><span class="topo-membrane">LGFFLKGIRPLLWLIVFTVVLQLLFS</span><span class="topo-unknown">PAGGHTYFHWAF</span><span class="topo-outside">I</span><span class="topo-membrane">NVTQDG</span></span>
-<span class="topo-line"><span class="topo-membrane">LINAGYIFVRFLLIIMMSTLL</span><span class="topo-inside">TLSTQPLDIATGLASLMKPLRWVKVPVDTLAMMLSIALR</span></span>
-<span class="topo-line"><span class="topo-inside">FVPTLMDEATKIMNAQRARGVDFGEGGLFKQAKSLIPLMVPLFMSAFNRAEDLSTAMEAR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGSSHHHHHHSQDPMSNFI</span><span class="topo-inside">FGRYLPLDSVVHRLDPRAKLM</span><span class="topo-membrane">LSFCYIIVVFLANNI</span><span class="topo-outside">W</span><span class="topo-membrane">SYAILIAFTVGAILSSKI</span><span class="topo-inside">S</span><span class="topo-membrane">LGFFLKGIRPLLWLIVFTVVLQLLFS</span><span class="topo-unknown">PAGGHTYFHWAF</span><span class="topo-outside">I</span><span class="topo-membrane">NVTQDG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">LINAGYIFVRFLLIIMMSTLL</span><span class="topo-inside">TLSTQPLDIATGLASLMKPLRWVKVPVDTLAMMLSIALRFVPTLMDEATKIMNAQRARGVDFGEGGLFKQAKSLIPLMVPLFMSAFNRAEDLSTAMEAR</span></span>
+<span class="topo-ruler">       250       260       270       280</span>
 <span class="topo-line"><span class="topo-inside">GYQDSEHRSQYRILTWQRRDT</span><span class="topo-membrane">VTWLLFLLGFVAILI</span><span class="topo-unknown">FRHW</span></span>
+<details class="topo-details"><summary>Topology coordinates (13 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -393,6 +404,7 @@ The folate [Free Energy Perturbation](/xray-mp-wiki/methods/structure-determinat
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

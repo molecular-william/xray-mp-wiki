@@ -78,16 +78,17 @@ The Drosophila melanogaster [DOPAMINE](/xray-mp-wiki/reagents/ligands/dopamine) 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MNSIS</span><span class="topo-inside">DERETWSGKV</span><span class="topo-membrane">DFLLSVIGFAVDLANVWRFPYLC</span><span class="topo-outside">YKNGG</span><span class="topo-membrane">GAFLVPYGIMLAVGGIP</span></span>
-<span class="topo-line"><span class="topo-membrane">LFY</span><span class="topo-inside">MELALGQHNRKGAITCWGRLVPLFKGIGY</span><span class="topo-membrane">AVVLIAFYVDFYYNVIIAWSLR</span><span class="topo-outside">FFFASF</span></span>
-<span class="topo-line"><span class="topo-outside">TNSLPWTSCNNIWNTPNCRPFESQGFQSAASEYFNRYILELNRSEGIHDLGAIKW</span><span class="topo-membrane">DMALC</span></span>
-<span class="topo-line"><span class="topo-membrane">LLIVYLICYFSLW</span><span class="topo-inside">KGIST</span><span class="topo-membrane">SGKVVWFTALFPYAALLILLI</span><span class="topo-outside">RGLTLPGSFLGIQYYLTPNFS</span></span>
-<span class="topo-line"><span class="topo-outside">A</span><span class="topo-membrane">IYKAEVWADAATQVFFSLGPGFGVL</span><span class="topo-inside">LAYASYNKYHNNVYKD</span><span class="topo-membrane">ALLTSFINSATSFIAGFV</span></span>
-<span class="topo-line"><span class="topo-outside">IFSVLGYMAHTLGVRIEDVATEGPGLVFVVYPAAIATMPASTFWAL</span><span class="topo-membrane">IFFMMLATLGLDSS</span></span>
-<span class="topo-line"><span class="topo-membrane">FGGSEAI</span><span class="topo-inside">ITALSDEFPKIKRNRELF</span><span class="topo-membrane">VAGLFSLYFVVGLASCT</span><span class="topo-outside">QGG</span><span class="topo-membrane">FYFFHLLDRYAAGYS</span></span>
-<span class="topo-line"><span class="topo-membrane">ILVAVFFEA</span><span class="topo-inside">IAVSWIYGTNRFSEDIRDMIGFPPG</span><span class="topo-unknown">RYWQVCWR</span><span class="topo-inside">F</span><span class="topo-membrane">VAPIFLLFITVYLLIGY</span></span>
-<span class="topo-line"><span class="topo-membrane">EPL</span><span class="topo-outside">TYADYVYPS</span><span class="topo-membrane">WANALGWCIAGSSVVMIP</span><span class="topo-inside">AVAIFKLLSTPGSLRQRFTILTTPWRD</span><span class="topo-unknown">QQL</span></span>
-<span class="topo-line"><span class="topo-unknown">VPR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MNSIS</span><span class="topo-inside">DERETWSGKV</span><span class="topo-membrane">DFLLSVIGFAVDLANVWRFPYLC</span><span class="topo-outside">YKNGG</span><span class="topo-membrane">GAFLVPYGIMLAVGGIPLFY</span><span class="topo-inside">MELALGQHNRKGAITCWGRLVPLFKGIGY</span><span class="topo-membrane">AVVLIAFYVDFYYNVIIAWSLR</span><span class="topo-outside">FFFASF</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">TNSLPWTSCNNIWNTPNCRPFESQGFQSAASEYFNRYILELNRSEGIHDLGAIKW</span><span class="topo-membrane">DMALCLLIVYLICYFSLW</span><span class="topo-inside">KGIST</span><span class="topo-membrane">SGKVVWFTALFPYAALLILLI</span><span class="topo-outside">RGLTLPGSFLGIQYYLTPNFS</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">A</span><span class="topo-membrane">IYKAEVWADAATQVFFSLGPGFGVL</span><span class="topo-inside">LAYASYNKYHNNVYKD</span><span class="topo-membrane">ALLTSFINSATSFIAGFV</span><span class="topo-outside">IFSVLGYMAHTLGVRIEDVATEGPGLVFVVYPAAIATMPASTFWAL</span><span class="topo-membrane">IFFMMLATLGLDSS</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">FGGSEAI</span><span class="topo-inside">ITALSDEFPKIKRNRELF</span><span class="topo-membrane">VAGLFSLYFVVGLASCT</span><span class="topo-outside">QGG</span><span class="topo-membrane">FYFFHLLDRYAAGYSILVAVFFEA</span><span class="topo-inside">IAVSWIYGTNRFSEDIRDMIGFPPG</span><span class="topo-unknown">RYWQVCWR</span><span class="topo-inside">F</span><span class="topo-membrane">VAPIFLLFITVYLLIGY</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540   </span>
+<span class="topo-line"><span class="topo-membrane">EPL</span><span class="topo-outside">TYADYVYPS</span><span class="topo-membrane">WANALGWCIAGSSVVMIP</span><span class="topo-inside">AVAIFKLLSTPGSLRQRFTILTTPWRD</span><span class="topo-unknown">QQLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (29 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -302,6 +303,7 @@ The Drosophila melanogaster [DOPAMINE](/xray-mp-wiki/reagents/ligands/dopamine) 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -580,15 +582,17 @@ The Drosophila melanogaster [DOPAMINE](/xray-mp-wiki/reagents/ligands/dopamine) 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">DERETWSGKV</span><span class="topo-membrane">DFLLSVIGFAVDLANVWRFPYLC</span><span class="topo-outside">YKNGG</span><span class="topo-membrane">GAFLVPYGIMLAVGGIPLFYME</span></span>
-<span class="topo-line"><span class="topo-membrane">L</span><span class="topo-inside">ALGQHNRKGAITCWGRLVPLFKG</span><span class="topo-membrane">IGYAVVLIAFYVDFYYNVIIAWSLRFFF</span><span class="topo-outside">ASFTNSLP</span></span>
-<span class="topo-line"><span class="topo-outside">WTSCNNIWNTPNCRPFEGHVEGFQSAASEYFNRYILELNRSEGIHDLGAI</span><span class="topo-membrane">KWDMALCLLI</span></span>
-<span class="topo-line"><span class="topo-membrane">VYLICYFSLW</span><span class="topo-inside">KGIST</span><span class="topo-membrane">SGKVVWFTALFPYAVLLILLIR</span><span class="topo-outside">GLTLPGSFLGIQYYLTPNFSAI</span><span class="topo-membrane">Y</span></span>
-<span class="topo-line"><span class="topo-membrane">KAEVWVDAATQVFFSLGPGFGVLLAY</span><span class="topo-inside">ASYNKYHNNVYKD</span><span class="topo-membrane">ALLTSFINSATSFIAGFVI</span><span class="topo-outside">FS</span></span>
-<span class="topo-line"><span class="topo-outside">VLGYMAHTLGVRIEDVATEGPGLVFVVYPAAIATMPASTF</span><span class="topo-membrane">WALIFFMMLATLGLDSSFGG</span></span>
-<span class="topo-line"><span class="topo-membrane">SEAII</span><span class="topo-inside">TALSDEFPKIKRNRE</span><span class="topo-membrane">LFVAGLFSLYFVVGLASCT</span><span class="topo-outside">QGGFYF</span><span class="topo-membrane">FHLLDRYAAGYSILV</span></span>
-<span class="topo-line"><span class="topo-membrane">AVFFEAIA</span><span class="topo-inside">VSWIYGTNRFSEDIRDMIGFPPGRY</span><span class="topo-membrane">WQVCWRFVAPIFLLFITVYGLIGY</span><span class="topo-outside">EPL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">DERETWSGKV</span><span class="topo-membrane">DFLLSVIGFAVDLANVWRFPYLC</span><span class="topo-outside">YKNGG</span><span class="topo-membrane">GAFLVPYGIMLAVGGIPLFYMEL</span><span class="topo-inside">ALGQHNRKGAITCWGRLVPLFKG</span><span class="topo-membrane">IGYAVVLIAFYVDFYYNVIIAWSLRFFF</span><span class="topo-outside">ASFTNSLP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">WTSCNNIWNTPNCRPFEGHVEGFQSAASEYFNRYILELNRSEGIHDLGAI</span><span class="topo-membrane">KWDMALCLLIVYLICYFSLW</span><span class="topo-inside">KGIST</span><span class="topo-membrane">SGKVVWFTALFPYAVLLILLIR</span><span class="topo-outside">GLTLPGSFLGIQYYLTPNFSAI</span><span class="topo-membrane">Y</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">KAEVWVDAATQVFFSLGPGFGVLLAY</span><span class="topo-inside">ASYNKYHNNVYKD</span><span class="topo-membrane">ALLTSFINSATSFIAGFVI</span><span class="topo-outside">FSVLGYMAHTLGVRIEDVATEGPGLVFVVYPAAIATMPASTF</span><span class="topo-membrane">WALIFFMMLATLGLDSSFGG</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">SEAII</span><span class="topo-inside">TALSDEFPKIKRNRE</span><span class="topo-membrane">LFVAGLFSLYFVVGLASCT</span><span class="topo-outside">QGGFYF</span><span class="topo-membrane">FHLLDRYAAGYSILVAVFFEAIA</span><span class="topo-inside">VSWIYGTNRFSEDIRDMIGFPPGRY</span><span class="topo-membrane">WQVCWRFVAPIFLLFITVYGLIGY</span><span class="topo-outside">EPL</span></span>
+<span class="topo-ruler">       490       500       510       520       530     </span>
 <span class="topo-line"><span class="topo-outside">TYADYVYPSW</span><span class="topo-membrane">ANALGWCIAGSSVVMIPAV</span><span class="topo-inside">AIFKLLSTPGSLRQRFTILTTPWRDQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (26 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -782,6 +786,7 @@ The Drosophila melanogaster [DOPAMINE](/xray-mp-wiki/reagents/ligands/dopamine) 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -797,15 +802,17 @@ The Drosophila melanogaster [DOPAMINE](/xray-mp-wiki/reagents/ligands/dopamine) 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">DERETWSGKV</span><span class="topo-membrane">DFLLSVIGFAVDLANVWRFPYLC</span><span class="topo-outside">YKNGG</span><span class="topo-membrane">GAFLVPYGIMLAVGGIPLFYME</span></span>
-<span class="topo-line"><span class="topo-membrane">L</span><span class="topo-inside">ALGQHNRKGAITCWGRLVPLFKG</span><span class="topo-membrane">IGYAVVLIAFYVDFYYNVIIAWSLRFFF</span><span class="topo-outside">ASFTNSLP</span></span>
-<span class="topo-line"><span class="topo-outside">WTSCNNIWNTPNCRPFEGHVEGFQSAASEYFNRYILELNRSEGIHDLGAI</span><span class="topo-membrane">KWDMALCLLI</span></span>
-<span class="topo-line"><span class="topo-membrane">VYLICYFSLW</span><span class="topo-inside">KGIST</span><span class="topo-membrane">SGKVVWFTALFPYAVLLILLIR</span><span class="topo-outside">GLTLPGSFLGIQYYLTPNFSAI</span><span class="topo-membrane">Y</span></span>
-<span class="topo-line"><span class="topo-membrane">KAEVWVDAATQVFFSLGPGFGVLLAY</span><span class="topo-inside">ASYNKYHNNVYKD</span><span class="topo-membrane">ALLTSFINSATSFIAGFVI</span><span class="topo-outside">FS</span></span>
-<span class="topo-line"><span class="topo-outside">VLGYMAHTLGVRIEDVATEGPGLVFVVYPAAIATMPASTF</span><span class="topo-membrane">WALIFFMMLATLGLDSSFGG</span></span>
-<span class="topo-line"><span class="topo-membrane">SEAII</span><span class="topo-inside">TALSDEFPKIKRNRE</span><span class="topo-membrane">LFVAGLFSLYFVVGLASCT</span><span class="topo-outside">QGGFYF</span><span class="topo-membrane">FHLLDRYAAGYSILV</span></span>
-<span class="topo-line"><span class="topo-membrane">AVFFEAIA</span><span class="topo-inside">VSWIYGTNRFSEDIRDMIGFPPGRY</span><span class="topo-membrane">WQVCWRFVAPIFLLFITVYGLIGY</span><span class="topo-outside">EPL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">DERETWSGKV</span><span class="topo-membrane">DFLLSVIGFAVDLANVWRFPYLC</span><span class="topo-outside">YKNGG</span><span class="topo-membrane">GAFLVPYGIMLAVGGIPLFYMEL</span><span class="topo-inside">ALGQHNRKGAITCWGRLVPLFKG</span><span class="topo-membrane">IGYAVVLIAFYVDFYYNVIIAWSLRFFF</span><span class="topo-outside">ASFTNSLP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">WTSCNNIWNTPNCRPFEGHVEGFQSAASEYFNRYILELNRSEGIHDLGAI</span><span class="topo-membrane">KWDMALCLLIVYLICYFSLW</span><span class="topo-inside">KGIST</span><span class="topo-membrane">SGKVVWFTALFPYAVLLILLIR</span><span class="topo-outside">GLTLPGSFLGIQYYLTPNFSAI</span><span class="topo-membrane">Y</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">KAEVWVDAATQVFFSLGPGFGVLLAY</span><span class="topo-inside">ASYNKYHNNVYKD</span><span class="topo-membrane">ALLTSFINSATSFIAGFVI</span><span class="topo-outside">FSVLGYMAHTLGVRIEDVATEGPGLVFVVYPAAIATMPASTF</span><span class="topo-membrane">WALIFFMMLATLGLDSSFGG</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">SEAII</span><span class="topo-inside">TALSDEFPKIKRNRE</span><span class="topo-membrane">LFVAGLFSLYFVVGLASCT</span><span class="topo-outside">QGGFYF</span><span class="topo-membrane">FHLLDRYAAGYSILVAVFFEAIA</span><span class="topo-inside">VSWIYGTNRFSEDIRDMIGFPPGRY</span><span class="topo-membrane">WQVCWRFVAPIFLLFITVYGLIGY</span><span class="topo-outside">EPL</span></span>
+<span class="topo-ruler">       490       500       510       520       530     </span>
 <span class="topo-line"><span class="topo-outside">TYADYVYPSW</span><span class="topo-membrane">ANALGWCIAGSSVVMIPAV</span><span class="topo-inside">AIFKLLSTPGSLRQRFTILTTPWRDQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (26 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -999,6 +1006,7 @@ The Drosophila melanogaster [DOPAMINE](/xray-mp-wiki/reagents/ligands/dopamine) 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1014,15 +1022,17 @@ The Drosophila melanogaster [DOPAMINE](/xray-mp-wiki/reagents/ligands/dopamine) 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">DERETWSGKV</span><span class="topo-membrane">DFLLSVIGFAVDLANVWRFPYLC</span><span class="topo-outside">YKNGG</span><span class="topo-membrane">GAFLVPYGIMLAVGGIPLFYME</span></span>
-<span class="topo-line"><span class="topo-membrane">L</span><span class="topo-inside">ALGQHNRKGAITCWGRLVPLFKG</span><span class="topo-membrane">IGYAVVLIAFYVDFYYNVIIAWSLRFFF</span><span class="topo-outside">ASFTNSLP</span></span>
-<span class="topo-line"><span class="topo-outside">WTSCNNIWNTPNCRPFEGHVEGFQSAASEYFNRYILELNRSEGIHDLGAI</span><span class="topo-membrane">KWDMALCLLI</span></span>
-<span class="topo-line"><span class="topo-membrane">VYLICYFSLW</span><span class="topo-inside">KGIST</span><span class="topo-membrane">SGKVVWFTALFPYAVLLILLIR</span><span class="topo-outside">GLTLPGSFLGIQYYLTPNFSAI</span><span class="topo-membrane">Y</span></span>
-<span class="topo-line"><span class="topo-membrane">KAEVWVDAATQVFFSLGPGFGVLLAY</span><span class="topo-inside">ASYNKYHNNVYKD</span><span class="topo-membrane">ALLTSFINSATSFIAGFVI</span><span class="topo-outside">FS</span></span>
-<span class="topo-line"><span class="topo-outside">VLGYMAHTLGVRIEDVATEGPGLVFVVYPAAIATMPASTF</span><span class="topo-membrane">WALIFFMMLATLGLDSSFGG</span></span>
-<span class="topo-line"><span class="topo-membrane">SEAII</span><span class="topo-inside">TALSDEFPKIKRNRE</span><span class="topo-membrane">LFVAGLFSLYFVVGLASCT</span><span class="topo-outside">QGGFYF</span><span class="topo-membrane">FHLLDRYAAGYSILV</span></span>
-<span class="topo-line"><span class="topo-membrane">AVFFEAIA</span><span class="topo-inside">VSWIYGTNRFSEDIRDMIGFPPGRY</span><span class="topo-membrane">WQVCWRFVAPIFLLFITVYGLIGY</span><span class="topo-outside">EPL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">DERETWSGKV</span><span class="topo-membrane">DFLLSVIGFAVDLANVWRFPYLC</span><span class="topo-outside">YKNGG</span><span class="topo-membrane">GAFLVPYGIMLAVGGIPLFYMEL</span><span class="topo-inside">ALGQHNRKGAITCWGRLVPLFKG</span><span class="topo-membrane">IGYAVVLIAFYVDFYYNVIIAWSLRFFF</span><span class="topo-outside">ASFTNSLP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">WTSCNNIWNTPNCRPFEGHVEGFQSAASEYFNRYILELNRSEGIHDLGAI</span><span class="topo-membrane">KWDMALCLLIVYLICYFSLW</span><span class="topo-inside">KGIST</span><span class="topo-membrane">SGKVVWFTALFPYAVLLILLIR</span><span class="topo-outside">GLTLPGSFLGIQYYLTPNFSAI</span><span class="topo-membrane">Y</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">KAEVWVDAATQVFFSLGPGFGVLLAY</span><span class="topo-inside">ASYNKYHNNVYKD</span><span class="topo-membrane">ALLTSFINSATSFIAGFVI</span><span class="topo-outside">FSVLGYMAHTLGVRIEDVATEGPGLVFVVYPAAIATMPASTF</span><span class="topo-membrane">WALIFFMMLATLGLDSSFGG</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">SEAII</span><span class="topo-inside">TALSDEFPKIKRNRE</span><span class="topo-membrane">LFVAGLFSLYFVVGLASCT</span><span class="topo-outside">QGGFYF</span><span class="topo-membrane">FHLLDRYAAGYSILVAVFFEAIA</span><span class="topo-inside">VSWIYGTNRFSEDIRDMIGFPPGRY</span><span class="topo-membrane">WQVCWRFVAPIFLLFITVYGLIGY</span><span class="topo-outside">EPL</span></span>
+<span class="topo-ruler">       490       500       510       520       530     </span>
 <span class="topo-line"><span class="topo-outside">TYADYVYPSW</span><span class="topo-membrane">ANALGWCIAGSSVVMIPAV</span><span class="topo-inside">AIFKLLSTPGSLRQRFTILTTPWRDQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (26 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1216,6 +1226,7 @@ The Drosophila melanogaster [DOPAMINE](/xray-mp-wiki/reagents/ligands/dopamine) 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1231,15 +1242,17 @@ The Drosophila melanogaster [DOPAMINE](/xray-mp-wiki/reagents/ligands/dopamine) 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">DERETWSGKV</span><span class="topo-membrane">DFLLSVIGFAVDLANVWRFPYLC</span><span class="topo-outside">YKNGG</span><span class="topo-membrane">GAFLVPYGIMLAVGGIPLFYME</span></span>
-<span class="topo-line"><span class="topo-membrane">L</span><span class="topo-inside">ALGQHNRKGAITCWGRLVPLFKG</span><span class="topo-membrane">IGYAVVLIAFYVDFYYNVIIAWSLRFFF</span><span class="topo-outside">ASFTNSLP</span></span>
-<span class="topo-line"><span class="topo-outside">WTSCNNIWNTPNCRPFEGHVEGFQSAASEYFNRYILELNRSEGIHDLGAI</span><span class="topo-membrane">KWDMALCLLI</span></span>
-<span class="topo-line"><span class="topo-membrane">VYLICYFSLW</span><span class="topo-inside">KGIST</span><span class="topo-membrane">SGKVVWFTALFPYAVLLILLIR</span><span class="topo-outside">GLTLPGSFLGIQYYLTPNFSAI</span><span class="topo-membrane">Y</span></span>
-<span class="topo-line"><span class="topo-membrane">KAEVWVDAATQVFFSLGPGFGVLLAY</span><span class="topo-inside">ASYNKYHNNVYKD</span><span class="topo-membrane">ALLTSFINSATSFIAGFVI</span><span class="topo-outside">FS</span></span>
-<span class="topo-line"><span class="topo-outside">VLGYMAHTLGVRIEDVATEGPGLVFVVYPAAIATMPASTF</span><span class="topo-membrane">WALIFFMMLATLGLDSSFGG</span></span>
-<span class="topo-line"><span class="topo-membrane">SEAII</span><span class="topo-inside">TALSDEFPKIKRNRE</span><span class="topo-membrane">LFVAGLFSLYFVVGLASCT</span><span class="topo-outside">QGGFYF</span><span class="topo-membrane">FHLLDRYAAGYSILV</span></span>
-<span class="topo-line"><span class="topo-membrane">AVFFEAIA</span><span class="topo-inside">VSWIYGTNRFSEDIRDMIGFPPGRY</span><span class="topo-membrane">WQVCWRFVAPIFLLFITVYGLIGY</span><span class="topo-outside">EPL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">DERETWSGKV</span><span class="topo-membrane">DFLLSVIGFAVDLANVWRFPYLC</span><span class="topo-outside">YKNGG</span><span class="topo-membrane">GAFLVPYGIMLAVGGIPLFYMEL</span><span class="topo-inside">ALGQHNRKGAITCWGRLVPLFKG</span><span class="topo-membrane">IGYAVVLIAFYVDFYYNVIIAWSLRFFF</span><span class="topo-outside">ASFTNSLP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">WTSCNNIWNTPNCRPFEGHVEGFQSAASEYFNRYILELNRSEGIHDLGAI</span><span class="topo-membrane">KWDMALCLLIVYLICYFSLW</span><span class="topo-inside">KGIST</span><span class="topo-membrane">SGKVVWFTALFPYAVLLILLIR</span><span class="topo-outside">GLTLPGSFLGIQYYLTPNFSAI</span><span class="topo-membrane">Y</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">KAEVWVDAATQVFFSLGPGFGVLLAY</span><span class="topo-inside">ASYNKYHNNVYKD</span><span class="topo-membrane">ALLTSFINSATSFIAGFVI</span><span class="topo-outside">FSVLGYMAHTLGVRIEDVATEGPGLVFVVYPAAIATMPASTF</span><span class="topo-membrane">WALIFFMMLATLGLDSSFGG</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">SEAII</span><span class="topo-inside">TALSDEFPKIKRNRE</span><span class="topo-membrane">LFVAGLFSLYFVVGLASCT</span><span class="topo-outside">QGGFYF</span><span class="topo-membrane">FHLLDRYAAGYSILVAVFFEAIA</span><span class="topo-inside">VSWIYGTNRFSEDIRDMIGFPPGRY</span><span class="topo-membrane">WQVCWRFVAPIFLLFITVYGLIGY</span><span class="topo-outside">EPL</span></span>
+<span class="topo-ruler">       490       500       510       520       530     </span>
 <span class="topo-line"><span class="topo-outside">TYADYVYPSW</span><span class="topo-membrane">ANALGWCIAGSSVVMIPAV</span><span class="topo-inside">AIFKLLSTPGSLRQRFTILTTPWRDQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (26 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1433,6 +1446,7 @@ The Drosophila melanogaster [DOPAMINE](/xray-mp-wiki/reagents/ligands/dopamine) 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1448,15 +1462,17 @@ The Drosophila melanogaster [DOPAMINE](/xray-mp-wiki/reagents/ligands/dopamine) 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">DERETWSGKV</span><span class="topo-membrane">DFLLSVIGFAVDLANVWRFPYLC</span><span class="topo-outside">YKNGG</span><span class="topo-membrane">GAFLVPYGIMLAVGGIPLFYME</span></span>
-<span class="topo-line"><span class="topo-membrane">L</span><span class="topo-inside">ALGQHNRKGAITCWGRLVPLFKG</span><span class="topo-membrane">IGYAVVLIAFYVDFYYNVIIAWSLRFFF</span><span class="topo-outside">ASFTNSLP</span></span>
-<span class="topo-line"><span class="topo-outside">WTSCNNIWNTPNCRPFEGHVEGFQSAASEYFNRYILELNRSEGIHDLGAI</span><span class="topo-membrane">KWDMALCLLI</span></span>
-<span class="topo-line"><span class="topo-membrane">VYLICYFSLW</span><span class="topo-inside">KGIST</span><span class="topo-membrane">SGKVVWFTALFPYAVLLILLIR</span><span class="topo-outside">GLTLPGSFLGIQYYLTPNFSAI</span><span class="topo-membrane">Y</span></span>
-<span class="topo-line"><span class="topo-membrane">KAEVWVDAATQVFFSLGPGFGVLLAY</span><span class="topo-inside">ASYNKYHNNVYKD</span><span class="topo-membrane">ALLTSFINSATSFIAGFVI</span><span class="topo-outside">FS</span></span>
-<span class="topo-line"><span class="topo-outside">VLGYMAHTLGVRIEDVATEGPGLVFVVYPAAIATMPASTF</span><span class="topo-membrane">WALIFFMMLATLGLDSSFGG</span></span>
-<span class="topo-line"><span class="topo-membrane">SEAII</span><span class="topo-inside">TALSDEFPKIKRNRE</span><span class="topo-membrane">LFVAGLFSLYFVVGLASCT</span><span class="topo-outside">QGGFYF</span><span class="topo-membrane">FHLLDRYAAGYSILV</span></span>
-<span class="topo-line"><span class="topo-membrane">AVFFEAIA</span><span class="topo-inside">VSWIYGTNRFSEDIRDMIGFPPGRY</span><span class="topo-membrane">WQVCWRFVAPIFLLFITVYGLIGY</span><span class="topo-outside">EPL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">DERETWSGKV</span><span class="topo-membrane">DFLLSVIGFAVDLANVWRFPYLC</span><span class="topo-outside">YKNGG</span><span class="topo-membrane">GAFLVPYGIMLAVGGIPLFYMEL</span><span class="topo-inside">ALGQHNRKGAITCWGRLVPLFKG</span><span class="topo-membrane">IGYAVVLIAFYVDFYYNVIIAWSLRFFF</span><span class="topo-outside">ASFTNSLP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">WTSCNNIWNTPNCRPFEGHVEGFQSAASEYFNRYILELNRSEGIHDLGAI</span><span class="topo-membrane">KWDMALCLLIVYLICYFSLW</span><span class="topo-inside">KGIST</span><span class="topo-membrane">SGKVVWFTALFPYAVLLILLIR</span><span class="topo-outside">GLTLPGSFLGIQYYLTPNFSAI</span><span class="topo-membrane">Y</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">KAEVWVDAATQVFFSLGPGFGVLLAY</span><span class="topo-inside">ASYNKYHNNVYKD</span><span class="topo-membrane">ALLTSFINSATSFIAGFVI</span><span class="topo-outside">FSVLGYMAHTLGVRIEDVATEGPGLVFVVYPAAIATMPASTF</span><span class="topo-membrane">WALIFFMMLATLGLDSSFGG</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">SEAII</span><span class="topo-inside">TALSDEFPKIKRNRE</span><span class="topo-membrane">LFVAGLFSLYFVVGLASCT</span><span class="topo-outside">QGGFYF</span><span class="topo-membrane">FHLLDRYAAGYSILVAVFFEAIA</span><span class="topo-inside">VSWIYGTNRFSEDIRDMIGFPPGRY</span><span class="topo-membrane">WQVCWRFVAPIFLLFITVYGLIGY</span><span class="topo-outside">EPL</span></span>
+<span class="topo-ruler">       490       500       510       520       530     </span>
 <span class="topo-line"><span class="topo-outside">TYADYVYPSW</span><span class="topo-membrane">ANALGWCIAGSSVVMIPAV</span><span class="topo-inside">AIFKLLSTPGSLRQRFTILTTPWRDQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (26 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1650,6 +1666,7 @@ The Drosophila melanogaster [DOPAMINE](/xray-mp-wiki/reagents/ligands/dopamine) 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1665,15 +1682,17 @@ The Drosophila melanogaster [DOPAMINE](/xray-mp-wiki/reagents/ligands/dopamine) 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">DERETWSGKV</span><span class="topo-membrane">DFLLSVIGFAVDLANVWRFPYLC</span><span class="topo-outside">YKNGG</span><span class="topo-membrane">GAFLVPYGIMLAVGGIPLFYME</span></span>
-<span class="topo-line"><span class="topo-membrane">L</span><span class="topo-inside">ALGQHNRKGAITCWGRLVPLFKG</span><span class="topo-membrane">IGYAVVLIAFYVDFYYNVIIAWSLRFFF</span><span class="topo-outside">ASFTNSLP</span></span>
-<span class="topo-line"><span class="topo-outside">WTSCNNIWNTPNCRPFEGHVEGFQSAASEYFNRYILELNRSEGIHDLGAI</span><span class="topo-membrane">KWDMALCLLI</span></span>
-<span class="topo-line"><span class="topo-membrane">VYLICYFSLW</span><span class="topo-inside">KGIST</span><span class="topo-membrane">SGKVVWFTALFPYAVLLILLIR</span><span class="topo-outside">GLTLPGSFLGIQYYLTPNFSAI</span><span class="topo-membrane">Y</span></span>
-<span class="topo-line"><span class="topo-membrane">KAEVWVDAATQVFFSLGPGFGVLLAY</span><span class="topo-inside">ASYNKYHNNVYKD</span><span class="topo-membrane">ALLTSFINSATSFIAGFVI</span><span class="topo-outside">FS</span></span>
-<span class="topo-line"><span class="topo-outside">VLGYMAHTLGVRIEDVATEGPGLVFVVYPAAIATMPASTF</span><span class="topo-membrane">WALIFFMMLATLGLDSSFGG</span></span>
-<span class="topo-line"><span class="topo-membrane">SEAII</span><span class="topo-inside">TALSDEFPKIKRNRE</span><span class="topo-membrane">LFVAGLFSLYFVVGLASCT</span><span class="topo-outside">QGGFYF</span><span class="topo-membrane">FHLLDRYAAGYSILV</span></span>
-<span class="topo-line"><span class="topo-membrane">AVFFEAIA</span><span class="topo-inside">VSWIYGTNRFSEDIRDMIGFPPGRY</span><span class="topo-membrane">WQVCWRFVAPIFLLFITVYGLIGY</span><span class="topo-outside">EPL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">DERETWSGKV</span><span class="topo-membrane">DFLLSVIGFAVDLANVWRFPYLC</span><span class="topo-outside">YKNGG</span><span class="topo-membrane">GAFLVPYGIMLAVGGIPLFYMEL</span><span class="topo-inside">ALGQHNRKGAITCWGRLVPLFKG</span><span class="topo-membrane">IGYAVVLIAFYVDFYYNVIIAWSLRFFF</span><span class="topo-outside">ASFTNSLP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">WTSCNNIWNTPNCRPFEGHVEGFQSAASEYFNRYILELNRSEGIHDLGAI</span><span class="topo-membrane">KWDMALCLLIVYLICYFSLW</span><span class="topo-inside">KGIST</span><span class="topo-membrane">SGKVVWFTALFPYAVLLILLIR</span><span class="topo-outside">GLTLPGSFLGIQYYLTPNFSAI</span><span class="topo-membrane">Y</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">KAEVWVDAATQVFFSLGPGFGVLLAY</span><span class="topo-inside">ASYNKYHNNVYKD</span><span class="topo-membrane">ALLTSFINSATSFIAGFVI</span><span class="topo-outside">FSVLGYMAHTLGVRIEDVATEGPGLVFVVYPAAIATMPASTF</span><span class="topo-membrane">WALIFFMMLATLGLDSSFGG</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">SEAII</span><span class="topo-inside">TALSDEFPKIKRNRE</span><span class="topo-membrane">LFVAGLFSLYFVVGLASCT</span><span class="topo-outside">QGGFYF</span><span class="topo-membrane">FHLLDRYAAGYSILVAVFFEAIA</span><span class="topo-inside">VSWIYGTNRFSEDIRDMIGFPPGRY</span><span class="topo-membrane">WQVCWRFVAPIFLLFITVYGLIGY</span><span class="topo-outside">EPL</span></span>
+<span class="topo-ruler">       490       500       510       520       530     </span>
 <span class="topo-line"><span class="topo-outside">TYADYVYPSW</span><span class="topo-membrane">ANALGWCIAGSSVVMIPAV</span><span class="topo-inside">AIFKLLSTPGSLRQRFTILTTPWRDQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (26 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1867,6 +1886,7 @@ The Drosophila melanogaster [DOPAMINE](/xray-mp-wiki/reagents/ligands/dopamine) 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1882,15 +1902,17 @@ The Drosophila melanogaster [DOPAMINE](/xray-mp-wiki/reagents/ligands/dopamine) 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">DERETWSGKV</span><span class="topo-membrane">DFLLSVIGFAVDLANVWRFPYLC</span><span class="topo-outside">YKNGG</span><span class="topo-membrane">GAFLVPYGIMLAVGGIPLFYME</span></span>
-<span class="topo-line"><span class="topo-membrane">L</span><span class="topo-inside">ALGQHNRKGAITCWGRLVPLFKG</span><span class="topo-membrane">IGYAVVLIAFYVDFYYNVIIAWSLRFFF</span><span class="topo-outside">ASFTNSLP</span></span>
-<span class="topo-line"><span class="topo-outside">WTSCNNIWNTPNCRPFEGHVEGFQSAASEYFNRYILELNRSEGIHDLGAI</span><span class="topo-membrane">KWDMALCLLI</span></span>
-<span class="topo-line"><span class="topo-membrane">VYLICYFSLW</span><span class="topo-inside">KGIST</span><span class="topo-membrane">SGKVVWFTALFPYAVLLILLIR</span><span class="topo-outside">GLTLPGSFLGIQYYLTPNFSAI</span><span class="topo-membrane">Y</span></span>
-<span class="topo-line"><span class="topo-membrane">KAEVWVDAATQVFFSLGPGFGVLLAY</span><span class="topo-inside">ASYNKYHNNVYKD</span><span class="topo-membrane">ALLTSFINSATSFIAGFVI</span><span class="topo-outside">FS</span></span>
-<span class="topo-line"><span class="topo-outside">VLGYMAHTLGVRIEDVATEGPGLVFVVYPAAIATMPASTF</span><span class="topo-membrane">WALIFFMMLATLGLDSSFGG</span></span>
-<span class="topo-line"><span class="topo-membrane">SEAII</span><span class="topo-inside">TALSDEFPKIKRNRE</span><span class="topo-membrane">LFVAGLFSLYFVVGLASCT</span><span class="topo-outside">QGGFYF</span><span class="topo-membrane">FHLLDRYAAGYSILV</span></span>
-<span class="topo-line"><span class="topo-membrane">AVFFEAIA</span><span class="topo-inside">VSWIYGTNRFSEDIRDMIGFPPGRY</span><span class="topo-membrane">WQVCWRFVAPIFLLFITVYGLIGY</span><span class="topo-outside">EPL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">DERETWSGKV</span><span class="topo-membrane">DFLLSVIGFAVDLANVWRFPYLC</span><span class="topo-outside">YKNGG</span><span class="topo-membrane">GAFLVPYGIMLAVGGIPLFYMEL</span><span class="topo-inside">ALGQHNRKGAITCWGRLVPLFKG</span><span class="topo-membrane">IGYAVVLIAFYVDFYYNVIIAWSLRFFF</span><span class="topo-outside">ASFTNSLP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">WTSCNNIWNTPNCRPFEGHVEGFQSAASEYFNRYILELNRSEGIHDLGAI</span><span class="topo-membrane">KWDMALCLLIVYLICYFSLW</span><span class="topo-inside">KGIST</span><span class="topo-membrane">SGKVVWFTALFPYAVLLILLIR</span><span class="topo-outside">GLTLPGSFLGIQYYLTPNFSAI</span><span class="topo-membrane">Y</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">KAEVWVDAATQVFFSLGPGFGVLLAY</span><span class="topo-inside">ASYNKYHNNVYKD</span><span class="topo-membrane">ALLTSFINSATSFIAGFVI</span><span class="topo-outside">FSVLGYMAHTLGVRIEDVATEGPGLVFVVYPAAIATMPASTF</span><span class="topo-membrane">WALIFFMMLATLGLDSSFGG</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">SEAII</span><span class="topo-inside">TALSDEFPKIKRNRE</span><span class="topo-membrane">LFVAGLFSLYFVVGLASCT</span><span class="topo-outside">QGGFYF</span><span class="topo-membrane">FHLLDRYAAGYSILVAVFFEAIA</span><span class="topo-inside">VSWIYGTNRFSEDIRDMIGFPPGRY</span><span class="topo-membrane">WQVCWRFVAPIFLLFITVYGLIGY</span><span class="topo-outside">EPL</span></span>
+<span class="topo-ruler">       490       500       510       520       530     </span>
 <span class="topo-line"><span class="topo-outside">TYADYVYPSW</span><span class="topo-membrane">ANALGWCIAGSSVVMIPAV</span><span class="topo-inside">AIFKLLSTPGSLRQRFTILTTPWRDQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (26 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2084,6 +2106,7 @@ The Drosophila melanogaster [DOPAMINE](/xray-mp-wiki/reagents/ligands/dopamine) 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

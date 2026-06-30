@@ -140,11 +140,13 @@ ECF-PanT is a group II energy-coupling factor (ECF) transporter that mediates th
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MHHHHHHHHHHGENLYFQ</span><span class="topo-outside">GSDNIISFDHVTFTYPDSPRPALSDLSFAIERGSWTALIGHN</span></span>
-<span class="topo-line"><span class="topo-outside">GSGKSTVSKLINGLLAPDDLDKSSITVDGVKLGADTVWEVREKVGIVFQNPDNQFVGATV</span></span>
-<span class="topo-line"><span class="topo-outside">SDDVAFGLENRAVPRPEMLKIVAQAVADVGMADYADSEPSNLSGGQKQRVAIAGILAVKP</span></span>
-<span class="topo-line"><span class="topo-outside">QVIILDESTSMLDPEGKEQILDLVRKIKEDNNLTVISITHDLEEAAGADQVLVLDDGQLL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MHHHHHHHHHHGENLYFQ</span><span class="topo-outside">GSDNIISFDHVTFTYPDSPRPALSDLSFAIERGSWTALIGHNGSGKSTVSKLINGLLAPDDLDKSSITVDGVKLGADTVWEVREKVGIVFQNPDNQFVGATV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">SDDVAFGLENRAVPRPEMLKIVAQAVADVGMADYADSEPSNLSGGQKQRVAIAGILAVKPQVIILDESTSMLDPEGKEQILDLVRKIKEDNNLTVISITHDLEEAAGADQVLVLDDGQLL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300</span>
 <span class="topo-line"><span class="topo-outside">DQGKPEEIFPKVEMLKRIGLDIPFVYRLKQLLKERGIVLPDEIDDDEKLVQSLWQLNS</span><span class="topo-unknown">KM</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -163,6 +165,7 @@ ECF-PanT is a group II energy-coupling factor (ECF) transporter that mediates th
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -178,11 +181,13 @@ ECF-PanT is a group II energy-coupling factor (ECF) transporter that mediates th
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">AIKFENVSYVYSPGSPLEAIGLDQLNFSLEEGKFIALVGHTGSGKSTLMQHFNALLKPT</span></span>
-<span class="topo-line"><span class="topo-outside">SGKIEIAGYTITPETGNKGLKDLRRKVSLAFQFSEAQLFENTVLKDVEYGPRNFGFSEDE</span></span>
-<span class="topo-line"><span class="topo-outside">AREAALKWLKKVGLKDDLIEHSPFDLSGGQMRRVALAGVLAYEPEIICLDEPAAGLDPMG</span></span>
-<span class="topo-line"><span class="topo-outside">RLEMMQLFKDYQAAGHTVILVTHNMDDVADYADDVLALEHGRLIKHASPKEVFKDSEWLQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">AIKFENVSYVYSPGSPLEAIGLDQLNFSLEEGKFIALVGHTGSGKSTLMQHFNALLKPTSGKIEIAGYTITPETGNKGLKDLRRKVSLAFQFSEAQLFENTVLKDVEYGPRNFGFSEDE</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">AREAALKWLKKVGLKDDLIEHSPFDLSGGQMRRVALAGVLAYEPEIICLDEPAAGLDPMGRLEMMQLFKDYQAAGHTVILVTHNMDDVADYADDVLALEHGRLIKHASPKEVFKDSEWLQ</span></span>
+<span class="topo-ruler">       250       260       270       280       </span>
 <span class="topo-line"><span class="topo-outside">KHHLAEPRSARFAAKLEAAGLKLPGQPLTMPELADAIKQSLKG</span><span class="topo-unknown">GEHE</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -201,6 +206,7 @@ ECF-PanT is a group II energy-coupling factor (ECF) transporter that mediates th
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -216,10 +222,11 @@ ECF-PanT is a group II energy-coupling factor (ECF) transporter that mediates th
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MYDSEARQKTLNLTVSAVFVAILLLEAFIPNVGYITILPGLPAITTIPLTVAVFASLRGP</span></span>
-<span class="topo-line"><span class="topo-outside">KAGAAFGLVWGLTSLLRAYVAPNGLVTILLFQNPLIALLPRLAAGWAAGLAGQLADKWEK</span></span>
-<span class="topo-line"><span class="topo-outside">ESRKPLAYALSGLLASAVNTLIVILLSDLVYFIHPQKLALALGAKSGQSLLVILFTALAV</span></span>
-<span class="topo-line"><span class="topo-outside">NGILEAVFSGLITPLITAPLKKRLKRR</span><span class="topo-unknown">WSHPQFEK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MYDSEARQKTLNLTVSAVFVAILLLEAFIPNVGYITILPGLPAITTIPLTVAVFASLRGPKAGAAFGLVWGLTSLLRAYVAPNGLVTILLFQNPLIALLPRLAAGWAAGLAGQLADKWEK</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210     </span>
+<span class="topo-line"><span class="topo-outside">ESRKPLAYALSGLLASAVNTLIVILLSDLVYFIHPQKLALALGAKSGQSLLVILFTALAVNGILEAVFSGLITPLITAPLKKRLKRR</span><span class="topo-unknown">WSHPQFEK</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -238,6 +245,7 @@ ECF-PanT is a group II energy-coupling factor (ECF) transporter that mediates th
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -253,11 +261,13 @@ ECF-PanT is a group II energy-coupling factor (ECF) transporter that mediates th
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSKII</span><span class="topo-outside">IGRYLPGTTFVYRVDPRAKLLTTFYFIIMIFLANNWVSYLVISIFGLAYVFATGL</span></span>
-<span class="topo-line"><span class="topo-outside">KARVFWDGVKPMIWMIVFTSLLQTFFMAGGKVYWHWWIFTLSSEGLINGLYVFIRFAMII</span></span>
-<span class="topo-line"><span class="topo-outside">LVSTVMTVTTKPLEIADAMEWMLTPLKLFKVNVGMISLVISIALRFVPTLFDQTVKIMNA</span></span>
-<span class="topo-line"><span class="topo-outside">QRSRGADFNDGGLVKRAKSVVPMLVPLFIDSLEVALDLSTAMESRGYKGSEGRTRYRILE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSKII</span><span class="topo-outside">IGRYLPGTTFVYRVDPRAKLLTTFYFIIMIFLANNWVSYLVISIFGLAYVFATGLKARVFWDGVKPMIWMIVFTSLLQTFFMAGGKVYWHWWIFTLSSEGLINGLYVFIRFAMII</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">LVSTVMTVTTKPLEIADAMEWMLTPLKLFKVNVGMISLVISIALRFVPTLFDQTVKIMNAQRSRGADFNDGGLVKRAKSVVPMLVPLFIDSLEVALDLSTAMESRGYKGSEGRTRYRILE</span></span>
+<span class="topo-ruler">       250       260     </span>
 <span class="topo-line"><span class="topo-outside">WS</span><span class="topo-unknown">KVDLIPVAYCLLLTILMITTR</span><span class="topo-outside">KH</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -290,6 +300,7 @@ ECF-PanT is a group II energy-coupling factor (ECF) transporter that mediates th
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -305,11 +316,13 @@ ECF-PanT is a group II energy-coupling factor (ECF) transporter that mediates th
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MHHHHHHHHHHGENLYFQG</span><span class="topo-outside">SDNIISFDHVTFTYPDSPRPALSDLSFAIERGSWTALIGHN</span></span>
-<span class="topo-line"><span class="topo-outside">GSGKSTVSKLINGLLAPDDLDKSSITVDGVKLGADTVWEVREKVGIVFQNPDNQFVGATV</span></span>
-<span class="topo-line"><span class="topo-outside">SDDVAFGLENRAVPRPEMLKIVAQAVADVGMADYADSEPSNLSGGQKQRVAIAGILAVKP</span></span>
-<span class="topo-line"><span class="topo-outside">QVIILDESTSMLDPEGKEQILDLVRKIKEDNNLTVISITHDLEEAAGADQVLVLDDGQLL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MHHHHHHHHHHGENLYFQG</span><span class="topo-outside">SDNIISFDHVTFTYPDSPRPALSDLSFAIERGSWTALIGHNGSGKSTVSKLINGLLAPDDLDKSSITVDGVKLGADTVWEVREKVGIVFQNPDNQFVGATV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">SDDVAFGLENRAVPRPEMLKIVAQAVADVGMADYADSEPSNLSGGQKQRVAIAGILAVKPQVIILDESTSMLDPEGKEQILDLVRKIKEDNNLTVISITHDLEEAAGADQVLVLDDGQLL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300</span>
 <span class="topo-line"><span class="topo-outside">DQGKPEEIFPKVEMLKRIGLDIPFVYRLKQLLKERGIVLPDEIDDDEKLVQSLWQLNS</span><span class="topo-unknown">KM</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -328,6 +341,7 @@ ECF-PanT is a group II energy-coupling factor (ECF) transporter that mediates th
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -343,11 +357,13 @@ ECF-PanT is a group II energy-coupling factor (ECF) transporter that mediates th
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MAIKFENVSYVYSPGSPLEAIGLDQLNFSLEEGKFIALVGHTGSGKSTLMQHFNALLKPT</span></span>
-<span class="topo-line"><span class="topo-outside">SGKIEIAGYTITPETGNKGLKDLRRKVSLAFQFSEAQLFENTVLKDVEYGPRNFGFSEDE</span></span>
-<span class="topo-line"><span class="topo-outside">AREAALKWLKKVGLKDDLIEHSPFDLSGGQMRRVALAGVLAYEPEIICLDEPAAGLDPMG</span></span>
-<span class="topo-line"><span class="topo-outside">RLEMMQLFKDYQAAGHTVILVTHNMDDVADYADDVLALEHGRLIKHASPKEVFKDSEWLQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MAIKFENVSYVYSPGSPLEAIGLDQLNFSLEEGKFIALVGHTGSGKSTLMQHFNALLKPTSGKIEIAGYTITPETGNKGLKDLRRKVSLAFQFSEAQLFENTVLKDVEYGPRNFGFSEDE</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">AREAALKWLKKVGLKDDLIEHSPFDLSGGQMRRVALAGVLAYEPEIICLDEPAAGLDPMGRLEMMQLFKDYQAAGHTVILVTHNMDDVADYADDVLALEHGRLIKHASPKEVFKDSEWLQ</span></span>
+<span class="topo-ruler">       250       260       270       280       </span>
 <span class="topo-line"><span class="topo-outside">KHHLAEPRSARFAAKLEAAGLKLPGQPLTMPELADAIKQSLKG</span><span class="topo-unknown">GEHE</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -366,6 +382,7 @@ ECF-PanT is a group II energy-coupling factor (ECF) transporter that mediates th
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -381,10 +398,11 @@ ECF-PanT is a group II energy-coupling factor (ECF) transporter that mediates th
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MYDSEARQKTLNLTVSAVFVAILLLEAFIPNVGY</span><span class="topo-unknown">ITILPGLPAIT</span><span class="topo-outside">TIPLTVAVFASLRG</span><span class="topo-unknown">P</span></span>
-<span class="topo-line"><span class="topo-unknown">KAGAAFGLVWGLTSLLRAYV</span><span class="topo-outside">A</span><span class="topo-unknown">PNGLVTILLFQNPLIALLPRLAAGWAA</span><span class="topo-outside">GLAGQLADKWEK</span></span>
-<span class="topo-line"><span class="topo-outside">ESRKPLAYALSGL</span><span class="topo-membrane">LASAVNTLIVILLSDLVYFIHP</span><span class="topo-inside">QKLALALGAKSG</span><span class="topo-membrane">QSLLVILFTALAV</span></span>
-<span class="topo-line"><span class="topo-membrane">NGILEAVF</span><span class="topo-outside">SGLITPLITAPLKKRLKRR</span><span class="topo-unknown">WSHPQFEK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MYDSEARQKTLNLTVSAVFVAILLLEAFIPNVGY</span><span class="topo-unknown">ITILPGLPAIT</span><span class="topo-outside">TIPLTVAVFASLRG</span><span class="topo-unknown">PKAGAAFGLVWGLTSLLRAYV</span><span class="topo-outside">A</span><span class="topo-unknown">PNGLVTILLFQNPLIALLPRLAAGWAA</span><span class="topo-outside">GLAGQLADKWEK</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210     </span>
+<span class="topo-line"><span class="topo-outside">ESRKPLAYALSGL</span><span class="topo-membrane">LASAVNTLIVILLSDLVYFIHP</span><span class="topo-inside">QKLALALGAKSG</span><span class="topo-membrane">QSLLVILFTALAVNGILEAVF</span><span class="topo-outside">SGLITPLITAPLKKRLKRR</span><span class="topo-unknown">WSHPQFEK</span></span>
+<details class="topo-details"><summary>Topology coordinates (12 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -480,6 +498,7 @@ ECF-PanT is a group II energy-coupling factor (ECF) transporter that mediates th
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -495,11 +514,13 @@ ECF-PanT is a group II energy-coupling factor (ECF) transporter that mediates th
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSKII</span><span class="topo-outside">IGRYLPGTT</span><span class="topo-membrane">FVYRVDPRAKLLTTFYFIIMIFLAN</span><span class="topo-inside">NWVS</span><span class="topo-membrane">YLVISIFGLAYVFATGL</span></span>
-<span class="topo-line"><span class="topo-outside">K</span><span class="topo-membrane">ARVFWDGVKPMIWMIVFTSLLQTFFM</span><span class="topo-inside">AGGKVYWHWWIFTLSSEGL</span><span class="topo-membrane">INGLYVFIRFAMII</span></span>
-<span class="topo-line"><span class="topo-membrane">LVSTVMTVTT</span><span class="topo-outside">KPLEIADAMEWMLTPLKLFKVNVGMISLVISIALRFVPTLFDQTVKIMNA</span></span>
-<span class="topo-line"><span class="topo-outside">QRSRGADFNDGGLVKRAKSVVPMLVPLFIDSLEVALDLSTAMESRGYKGSEGRTRYRILE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSKII</span><span class="topo-outside">IGRYLPGTT</span><span class="topo-membrane">FVYRVDPRAKLLTTFYFIIMIFLAN</span><span class="topo-inside">NWVS</span><span class="topo-membrane">YLVISIFGLAYVFATGL</span><span class="topo-outside">K</span><span class="topo-membrane">ARVFWDGVKPMIWMIVFTSLLQTFFM</span><span class="topo-inside">AGGKVYWHWWIFTLSSEGL</span><span class="topo-membrane">INGLYVFIRFAMII</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">LVSTVMTVTT</span><span class="topo-outside">KPLEIADAMEWMLTPLKLFKVNVGMISLVISIALRFVPTLFDQTVKIMNAQRSRGADFNDGGLVKRAKSVVPMLVPLFIDSLEVALDLSTAMESRGYKGSEGRTRYRILE</span></span>
+<span class="topo-ruler">       250       260     </span>
 <span class="topo-line"><span class="topo-outside">W</span><span class="topo-membrane">SKVDLIPVAYCLLLTILMI</span><span class="topo-inside">TTRKH</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -588,6 +609,7 @@ ECF-PanT is a group II energy-coupling factor (ECF) transporter that mediates th
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -636,11 +658,13 @@ ECF-PanT is a group II energy-coupling factor (ECF) transporter that mediates th
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">AIAFEHVTYTYQAGTPMAHTALTDVSLTVPDRGYLAIIGHTGSGKSTLIQQLNALLKPT</span></span>
-<span class="topo-line"><span class="topo-inside">SGTIKIDEFTITPETTNAALKPLRQHVGMVFQFPENQLFEETVRQDIAFGPKNFGMADAD</span></span>
-<span class="topo-line"><span class="topo-inside">ALALADEMLTTVGLDQSYAERSPFELSGGQMRRVAIAGVLAMQPKVLVLDEPTAGLDPQG</span></span>
-<span class="topo-line"><span class="topo-inside">RQEMMRLFARLHQEQGLTIVLVTHQMEDVAQYAEQVAVMHEGRLMKFGTPADVFSNREWL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">AIAFEHVTYTYQAGTPMAHTALTDVSLTVPDRGYLAIIGHTGSGKSTLIQQLNALLKPTSGTIKIDEFTITPETTNAALKPLRQHVGMVFQFPENQLFEETVRQDIAFGPKNFGMADAD</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">ALALADEMLTTVGLDQSYAERSPFELSGGQMRRVAIAGVLAMQPKVLVLDEPTAGLDPQGRQEMMRLFARLHQEQGLTIVLVTHQMEDVAQYAEQVAVMHEGRLMKFGTPADVFSNREWL</span></span>
+<span class="topo-ruler">       250       260       270       280       290</span>
 <span class="topo-line"><span class="topo-inside">QDHQLDVPQAAQFARRLRDRGLTFPKQPLTADQLADYLAQQWAQR</span><span class="topo-unknown">GADHV</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -659,6 +683,7 @@ ECF-PanT is a group II energy-coupling factor (ECF) transporter that mediates th
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -674,11 +699,13 @@ ECF-PanT is a group II energy-coupling factor (ECF) transporter that mediates th
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MT</span><span class="topo-inside">ENIISVDHLTYQYDENQAPALTDVSFTVHAGEWLAIVGHNGSGKSTLAKSLDGLLPFT</span></span>
-<span class="topo-line"><span class="topo-inside">QGSVTVGGITLTPETVWQVREQIGMIFQNPDNQFVGATVEDDVAFGLENRQISRDEMVPR</span></span>
-<span class="topo-line"><span class="topo-inside">VQAALAQVGMTSFAQREPSSLSGGQKQRVALAGIVAIAPKILILDEATSMLDPQGRIEML</span></span>
-<span class="topo-line"><span class="topo-inside">AIVRQLRQQQNLTVISITHDIDEAASADRVLVIDDGRLVDEAVPSQIFERGTQLVEMGLD</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MT</span><span class="topo-inside">ENIISVDHLTYQYDENQAPALTDVSFTVHAGEWLAIVGHNGSGKSTLAKSLDGLLPFTQGSVTVGGITLTPETVWQVREQIGMIFQNPDNQFVGATVEDDVAFGLENRQISRDEMVPR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">VQAALAQVGMTSFAQREPSSLSGGQKQRVALAGIVAIAPKILILDEATSMLDPQGRIEMLAIVRQLRQQQNLTVISITHDIDEAASADRVLVIDDGRLVDEAVPSQIFERGTQLVEMGLD</span></span>
+<span class="topo-ruler">       250       260       270         </span>
 <span class="topo-line"><span class="topo-inside">LPFTEKLKAALRQRGITPPTTYQTAAEMEEWLWQSLS</span><span class="topo-unknown">NT</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -697,6 +724,7 @@ ECF-PanT is a group II energy-coupling factor (ECF) transporter that mediates th
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -712,10 +740,11 @@ ECF-PanT is a group II energy-coupling factor (ECF) transporter that mediates th
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MT</span><span class="topo-inside">RHKTFRLVVDALLMAIVLLQNLVPFLGYIPFGPFSMTLIGLTVIVAGSALGPRDGLLI</span></span>
-<span class="topo-line"><span class="topo-inside">GGFWGLITFVRAFTWPSSPVAPLIFTNPLISILPRLLMGLVAGSLYLWGRHRQWSMRQAM</span></span>
-<span class="topo-line"><span class="topo-inside">QVAAGCAAL</span><span class="topo-membrane">TNTVLVLGLVFLFYQTP</span><span class="topo-outside">AV</span><span class="topo-unknown">ATAFGATGNQT</span><span class="topo-outside">L</span><span class="topo-membrane">GYVLMISLFTNGIPEL</span><span class="topo-inside">ILDV</span></span>
-<span class="topo-line"><span class="topo-inside">LVAPLIAMPLRRQWERLKPQ</span><span class="topo-unknown">TTK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MT</span><span class="topo-inside">RHKTFRLVVDALLMAIVLLQNLVPFLGYIPFGPFSMTLIGLTVIVAGSALGPRDGLLIGGFWGLITFVRAFTWPSSPVAPLIFTNPLISILPRLLMGLVAGSLYLWGRHRQWSMRQAM</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200   </span>
+<span class="topo-line"><span class="topo-inside">QVAAGCAAL</span><span class="topo-membrane">TNTVLVLGLVFLFYQTP</span><span class="topo-outside">AV</span><span class="topo-unknown">ATAFGATGNQT</span><span class="topo-outside">L</span><span class="topo-membrane">GYVLMISLFTNGIPEL</span><span class="topo-inside">ILDVLVAPLIAMPLRRQWERLKPQ</span><span class="topo-unknown">TTK</span></span>
+<details class="topo-details"><summary>Topology coordinates (6 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -769,6 +798,7 @@ ECF-PanT is a group II energy-coupling factor (ECF) transporter that mediates th
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -784,11 +814,13 @@ ECF-PanT is a group II energy-coupling factor (ECF) transporter that mediates th
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGSSHHHHHHSQDPMSNFIFGRYLPLDSVV</span><span class="topo-inside">HRLDPRAKLM</span><span class="topo-membrane">LSFCYIIVVFLANNI</span><span class="topo-outside">W</span><span class="topo-membrane">SYAI</span></span>
-<span class="topo-line"><span class="topo-membrane">LIAFTVGAILS</span><span class="topo-inside">SKISLG</span><span class="topo-unknown">FFLKGI</span><span class="topo-membrane">RPLLWLIVFTVVLQLLFSPA</span><span class="topo-outside">GGHTYFHW</span><span class="topo-unknown">AFINV</span><span class="topo-outside">T</span><span class="topo-membrane">QDG</span></span>
-<span class="topo-line"><span class="topo-membrane">LINAGYIFVRFLLIIMMS</span><span class="topo-inside">TLLTLSTQPLDIATGLASLMKPLRWVKVPVDTLAMMLSIALR</span></span>
-<span class="topo-line"><span class="topo-inside">FVPTLMDEATKIMNAQRARGVDFGEGGLFKQAKSLIPLMVPLFMSAFNRAEDLSTAMEAR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGSSHHHHHHSQDPMSNFIFGRYLPLDSVV</span><span class="topo-inside">HRLDPRAKLM</span><span class="topo-membrane">LSFCYIIVVFLANNI</span><span class="topo-outside">W</span><span class="topo-membrane">SYAILIAFTVGAILS</span><span class="topo-inside">SKISLG</span><span class="topo-unknown">FFLKGI</span><span class="topo-membrane">RPLLWLIVFTVVLQLLFSPA</span><span class="topo-outside">GGHTYFHW</span><span class="topo-unknown">AFINV</span><span class="topo-outside">T</span><span class="topo-membrane">QDG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">LINAGYIFVRFLLIIMMS</span><span class="topo-inside">TLLTLSTQPLDIATGLASLMKPLRWVKVPVDTLAMMLSIALRFVPTLMDEATKIMNAQRARGVDFGEGGLFKQAKSLIPLMVPLFMSAFNRAEDLSTAMEAR</span></span>
+<span class="topo-ruler">       250       260       270       280</span>
 <span class="topo-line"><span class="topo-inside">GYQDSEHRSQYR</span><span class="topo-unknown">ILTWQR</span><span class="topo-inside">RDT</span><span class="topo-membrane">VTWLLFLLGFVAILIF</span><span class="topo-unknown">RHW</span></span>
+<details class="topo-details"><summary>Topology coordinates (13 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -891,6 +923,7 @@ ECF-PanT is a group II energy-coupling factor (ECF) transporter that mediates th
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

@@ -140,14 +140,15 @@ GkApcT is a proton-coupled amino acid transporter from Geobacillus kaustophilus 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MN</span><span class="topo-inside">LFRKKPIQLLMKESGAKGASLRKELGAF</span><span class="topo-membrane">DLTMLGIGAIIGTGIF</span><span class="topo-outside">VLTGVAAAEHAGPA</span></span>
-<span class="topo-line"><span class="topo-outside">LVL</span><span class="topo-membrane">SFILSGLACVFAALCYA</span><span class="topo-inside">EFASTVPVSGSAYTYSYATFGEL</span><span class="topo-membrane">IAWILGWDLILEYGVAS</span></span>
-<span class="topo-line"><span class="topo-membrane">SAVAVGW</span><span class="topo-outside">SGYFQGLLSG</span><span class="topo-unknown">FGI</span><span class="topo-outside">ELPKALTSAYDPAKGTFIDLPA</span><span class="topo-membrane">IIIVLFITFLLNLGAKKS</span></span>
-<span class="topo-line"><span class="topo-inside">A</span><span class="topo-membrane">RFNAVIVAIKVAVVLL</span><span class="topo-outside">FLAVGVWYVKPENWTPFMPYGFSGVATGA</span><span class="topo-membrane">ATVFFAYIGFDAVS</span></span>
-<span class="topo-line"><span class="topo-membrane">T</span><span class="topo-inside">AAEEVRNPQRDMP</span><span class="topo-membrane">IGIIVSLLVCTLLYIAV</span><span class="topo-outside">SLVLTGIVPYEQLNVKNPVAFALNYIHQD</span></span>
-<span class="topo-line"><span class="topo-outside">WVAGFISL</span><span class="topo-membrane">GAIAGITTVLLVMMYGQTRLF</span><span class="topo-inside">YAISRDGLLPKVFARISPTRQVPYV</span><span class="topo-membrane">NTWLTG</span></span>
-<span class="topo-line"><span class="topo-membrane">AAVAVFA</span><span class="topo-outside">GIIPLNKL</span><span class="topo-membrane">AELTNIGTLFAFITVSIG</span><span class="topo-inside">VLVLRKTQPDLKRAFRVPFVP</span><span class="topo-membrane">VVPILA</span></span>
-<span class="topo-line"><span class="topo-membrane">VLFCGYLVLQL</span><span class="topo-outside">PAMT</span><span class="topo-membrane">WIGFVSWLLIGLVIYFIY</span><span class="topo-inside">GRKHSELN</span><span class="topo-unknown">EMARTEEKAG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MN</span><span class="topo-inside">LFRKKPIQLLMKESGAKGASLRKELGAF</span><span class="topo-membrane">DLTMLGIGAIIGTGIF</span><span class="topo-outside">VLTGVAAAEHAGPALVL</span><span class="topo-membrane">SFILSGLACVFAALCYA</span><span class="topo-inside">EFASTVPVSGSAYTYSYATFGEL</span><span class="topo-membrane">IAWILGWDLILEYGVAS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">SAVAVGW</span><span class="topo-outside">SGYFQGLLSG</span><span class="topo-unknown">FGI</span><span class="topo-outside">ELPKALTSAYDPAKGTFIDLPA</span><span class="topo-membrane">IIIVLFITFLLNLGAKKS</span><span class="topo-inside">A</span><span class="topo-membrane">RFNAVIVAIKVAVVLL</span><span class="topo-outside">FLAVGVWYVKPENWTPFMPYGFSGVATGA</span><span class="topo-membrane">ATVFFAYIGFDAVS</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">T</span><span class="topo-inside">AAEEVRNPQRDMP</span><span class="topo-membrane">IGIIVSLLVCTLLYIAV</span><span class="topo-outside">SLVLTGIVPYEQLNVKNPVAFALNYIHQDWVAGFISL</span><span class="topo-membrane">GAIAGITTVLLVMMYGQTRLF</span><span class="topo-inside">YAISRDGLLPKVFARISPTRQVPYV</span><span class="topo-membrane">NTWLTG</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470 </span>
+<span class="topo-line"><span class="topo-membrane">AAVAVFA</span><span class="topo-outside">GIIPLNKL</span><span class="topo-membrane">AELTNIGTLFAFITVSIG</span><span class="topo-inside">VLVLRKTQPDLKRAFRVPFVP</span><span class="topo-membrane">VVPILAVLFCGYLVLQL</span><span class="topo-outside">PAMT</span><span class="topo-membrane">WIGFVSWLLIGLVIYFIY</span><span class="topo-inside">GRKHSELN</span><span class="topo-unknown">EMARTEEKAG</span></span>
+<details class="topo-details"><summary>Topology coordinates (26 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -341,6 +342,7 @@ GkApcT is a proton-coupled amino acid transporter from Geobacillus kaustophilus 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -356,7 +358,9 @@ GkApcT is a proton-coupled amino acid transporter from Geobacillus kaustophilus 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30 </span>
 <span class="topo-line"><span class="topo-inside">MLG</span><span class="topo-membrane">NMNVFMAVLGIILFSG</span><span class="topo-outside">FLAAYFSH</span><span class="topo-unknown">KWDD</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -389,6 +393,7 @@ GkApcT is a proton-coupled amino acid transporter from Geobacillus kaustophilus 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -404,14 +409,15 @@ GkApcT is a proton-coupled amino acid transporter from Geobacillus kaustophilus 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MNLFRKKPIQLLMKESGAKGASLRKELGAFDLT</span><span class="topo-membrane">MLGIGAIIGTGIFVLTG</span><span class="topo-outside">VAAAEHAGPA</span></span>
-<span class="topo-line"><span class="topo-membrane">LVLSFILSGLACVFAAL</span><span class="topo-inside">CYAEFASTVPVSGSAYTYSYATFGELIAWI</span><span class="topo-membrane">LGWDLILEYGVAS</span></span>
-<span class="topo-line"><span class="topo-membrane">SAVAVGWSGYFQ</span><span class="topo-outside">GLLSG</span><span class="topo-unknown">FGI</span><span class="topo-outside">ELPKALTSAYDPAKGTFI</span><span class="topo-membrane">DLPAIIIVLFITFLLNLGA</span><span class="topo-inside">KKS</span></span>
-<span class="topo-line"><span class="topo-inside">AR</span><span class="topo-membrane">FNAVIVAIKVAVVLLFLAVGV</span><span class="topo-outside">WYVKPENWTPFMPYGF</span><span class="topo-membrane">SGVATGAATVFFAYIGFDA</span><span class="topo-inside">VS</span></span>
-<span class="topo-line"><span class="topo-inside">TAAEEVRNPQRDMPIGI</span><span class="topo-membrane">IVSLLVCTLLYIAVSLVL</span><span class="topo-outside">TGIVPYEQLNVKNPVAFALNYIHQD</span></span>
-<span class="topo-line"><span class="topo-outside">WV</span><span class="topo-membrane">AGFISLGAIAGITTVLLVSMYGQT</span><span class="topo-inside">RLFYAISRDGLLPKVFARISPTRQVPYVN</span><span class="topo-membrane">TWLTG</span></span>
-<span class="topo-line"><span class="topo-membrane">AAVAVFAGIIPL</span><span class="topo-outside">N</span><span class="topo-membrane">KLAELTNIGTLFAFITVS</span><span class="topo-inside">IGVLVLRKTQPDLKRAFRVPFVPV</span><span class="topo-membrane">VPILA</span></span>
-<span class="topo-line"><span class="topo-membrane">VLFCGYLVLQLPA</span><span class="topo-outside">M</span><span class="topo-membrane">TWIGFVSWLLIGLVI</span><span class="topo-inside">YFIYGRKHSELN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">MNLFRKKPIQLLMKESGAKGASLRKELGAFDLT</span><span class="topo-membrane">MLGIGAIIGTGIFVLTG</span><span class="topo-outside">VAAAEHAGPA</span><span class="topo-membrane">LVLSFILSGLACVFAAL</span><span class="topo-inside">CYAEFASTVPVSGSAYTYSYATFGELIAWI</span><span class="topo-membrane">LGWDLILEYGVAS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">SAVAVGWSGYFQ</span><span class="topo-outside">GLLSG</span><span class="topo-unknown">FGI</span><span class="topo-outside">ELPKALTSAYDPAKGTFI</span><span class="topo-membrane">DLPAIIIVLFITFLLNLGA</span><span class="topo-inside">KKSAR</span><span class="topo-membrane">FNAVIVAIKVAVVLLFLAVGV</span><span class="topo-outside">WYVKPENWTPFMPYGF</span><span class="topo-membrane">SGVATGAATVFFAYIGFDA</span><span class="topo-inside">VS</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">TAAEEVRNPQRDMPIGI</span><span class="topo-membrane">IVSLLVCTLLYIAVSLVL</span><span class="topo-outside">TGIVPYEQLNVKNPVAFALNYIHQDWV</span><span class="topo-membrane">AGFISLGAIAGITTVLLVSMYGQT</span><span class="topo-inside">RLFYAISRDGLLPKVFARISPTRQVPYVN</span><span class="topo-membrane">TWLTG</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460 </span>
+<span class="topo-line"><span class="topo-membrane">AAVAVFAGIIPL</span><span class="topo-outside">N</span><span class="topo-membrane">KLAELTNIGTLFAFITVS</span><span class="topo-inside">IGVLVLRKTQPDLKRAFRVPFVPV</span><span class="topo-membrane">VPILAVLFCGYLVLQLPA</span><span class="topo-outside">M</span><span class="topo-membrane">TWIGFVSWLLIGLVI</span><span class="topo-inside">YFIYGRKHSELN</span></span>
+<details class="topo-details"><summary>Topology coordinates (26 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -605,6 +611,7 @@ GkApcT is a proton-coupled amino acid transporter from Geobacillus kaustophilus 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -620,7 +627,9 @@ GkApcT is a proton-coupled amino acid transporter from Geobacillus kaustophilus 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20       </span>
 <span class="topo-line"><span class="topo-inside">MLGNM</span><span class="topo-membrane">NVFMAVLGIILFSGFLAA</span><span class="topo-outside">YFSH</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -653,6 +662,7 @@ GkApcT is a proton-coupled amino acid transporter from Geobacillus kaustophilus 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

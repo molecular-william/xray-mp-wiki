@@ -178,10 +178,11 @@ versus size effects on water and glycerol conduction.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MFRKL</span><span class="topo-membrane">AAECFGTFWLVFGGCGS</span><span class="topo-inside">AVLAAGFPELGIGFA</span><span class="topo-membrane">GVALAFGLTVLTMAFAVG</span><span class="topo-outside">HISG</span><span class="topo-unknown">G</span></span>
-<span class="topo-line"><span class="topo-unknown">HFNPAVTIGLWAG</span><span class="topo-outside">GRFPAKEV</span><span class="topo-membrane">VGYVIAQVVGGIVAAALL</span><span class="topo-inside">YLIASGKTGFDAAASGFASNG</span></span>
-<span class="topo-line"><span class="topo-inside">YGEHSPGGYSMLSA</span><span class="topo-membrane">LVVELVLSAGFLLVIHGA</span><span class="topo-outside">TDKFAPAGF</span><span class="topo-membrane">APIAIGLALTLIHLISI</span><span class="topo-inside">PV</span></span>
-<span class="topo-line"><span class="topo-inside">TN</span><span class="topo-unknown">TSVNPARSTAVAI</span><span class="topo-inside">FQGGWALEQL</span><span class="topo-membrane">WFFWVVPIVGGIIGGLIY</span><span class="topo-outside">RTLLEKRD</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MFRKL</span><span class="topo-membrane">AAECFGTFWLVFGGCGS</span><span class="topo-inside">AVLAAGFPELGIGFA</span><span class="topo-membrane">GVALAFGLTVLTMAFAVG</span><span class="topo-outside">HISG</span><span class="topo-unknown">GHFNPAVTIGLWAG</span><span class="topo-outside">GRFPAKEV</span><span class="topo-membrane">VGYVIAQVVGGIVAAALL</span><span class="topo-inside">YLIASGKTGFDAAASGFASNG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230 </span>
+<span class="topo-line"><span class="topo-inside">YGEHSPGGYSMLSA</span><span class="topo-membrane">LVVELVLSAGFLLVIHGA</span><span class="topo-outside">TDKFAPAGF</span><span class="topo-membrane">APIAIGLALTLIHLISI</span><span class="topo-inside">PVTN</span><span class="topo-unknown">TSVNPARSTAVAI</span><span class="topo-inside">FQGGWALEQL</span><span class="topo-membrane">WFFWVVPIVGGIIGGLIY</span><span class="topo-outside">RTLLEKRD</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -312,6 +313,7 @@ versus size effects on water and glycerol conduction.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -446,10 +448,11 @@ versus size effects on water and glycerol conduction.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">A</span><span class="topo-inside">SAM</span><span class="topo-membrane">FRKLAAESFGTFWLVFGGSGSAVLAA</span><span class="topo-outside">GFPELGI</span><span class="topo-membrane">GFAGVALAFGLTVLTMAFAVGHI</span></span>
-<span class="topo-line"><span class="topo-membrane">S</span><span class="topo-inside">G</span><span class="topo-unknown">GHFNPAVTIGLWAGGRF</span><span class="topo-inside">P</span><span class="topo-membrane">AKEVVGYVIAQVVGGIVAAALLYLIA</span><span class="topo-outside">SGKTGFDAAASGFA</span></span>
-<span class="topo-line"><span class="topo-outside">SNGYGEHSPGGYSM</span><span class="topo-membrane">LSALVVELVLSAGFLLVIHGATD</span><span class="topo-inside">KFAPAG</span><span class="topo-membrane">FAPIAIGLALTLIHLIS</span></span>
-<span class="topo-line"><span class="topo-membrane">IPVT</span><span class="topo-outside">N</span><span class="topo-unknown">CSVNPARSTAVAIF</span><span class="topo-outside">QGGWA</span><span class="topo-membrane">LEQLWFFWVVPIVGGIIGGLIYRTLLE</span><span class="topo-inside">KR</span><span class="topo-unknown">D</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">A</span><span class="topo-inside">SAM</span><span class="topo-membrane">FRKLAAESFGTFWLVFGGSGSAVLAA</span><span class="topo-outside">GFPELGI</span><span class="topo-membrane">GFAGVALAFGLTVLTMAFAVGHIS</span><span class="topo-inside">G</span><span class="topo-unknown">GHFNPAVTIGLWAGGRF</span><span class="topo-inside">P</span><span class="topo-membrane">AKEVVGYVIAQVVGGIVAAALLYLIA</span><span class="topo-outside">SGKTGFDAAASGFA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230    </span>
+<span class="topo-line"><span class="topo-outside">SNGYGEHSPGGYSM</span><span class="topo-membrane">LSALVVELVLSAGFLLVIHGATD</span><span class="topo-inside">KFAPAG</span><span class="topo-membrane">FAPIAIGLALTLIHLISIPVT</span><span class="topo-outside">N</span><span class="topo-unknown">CSVNPARSTAVAIF</span><span class="topo-outside">QGGWA</span><span class="topo-membrane">LEQLWFFWVVPIVGGIIGGLIYRTLLE</span><span class="topo-inside">KR</span><span class="topo-unknown">D</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -594,6 +597,7 @@ versus size effects on water and glycerol conduction.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -609,10 +613,11 @@ versus size effects on water and glycerol conduction.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">A</span><span class="topo-inside">SAM</span><span class="topo-membrane">FRKLAAESFGTFWLVFGGSGSAVLAA</span><span class="topo-outside">GFPELGI</span><span class="topo-membrane">GFAGVALAFGLTVLTMAFAVGHI</span></span>
-<span class="topo-line"><span class="topo-membrane">S</span><span class="topo-inside">G</span><span class="topo-unknown">GHFNPAVTIGLWAGGRF</span><span class="topo-inside">P</span><span class="topo-membrane">AKEVVGYVIAQVVGGIVAAALLYLIA</span><span class="topo-outside">SGKTGFDAAASGFA</span></span>
-<span class="topo-line"><span class="topo-outside">SNGYGEHSPGGYSM</span><span class="topo-membrane">LSALVVELVLSAGFLLVIHGATD</span><span class="topo-inside">KFAPAG</span><span class="topo-membrane">FAPIAIGLALTLIHLIS</span></span>
-<span class="topo-line"><span class="topo-membrane">IPVT</span><span class="topo-outside">N</span><span class="topo-unknown">CSVNPARSTAVAIF</span><span class="topo-outside">QGGWA</span><span class="topo-membrane">LEQLWFFWVVPIVGGIIGGLIYRTLLE</span><span class="topo-inside">KR</span><span class="topo-unknown">D</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">A</span><span class="topo-inside">SAM</span><span class="topo-membrane">FRKLAAESFGTFWLVFGGSGSAVLAA</span><span class="topo-outside">GFPELGI</span><span class="topo-membrane">GFAGVALAFGLTVLTMAFAVGHIS</span><span class="topo-inside">G</span><span class="topo-unknown">GHFNPAVTIGLWAGGRF</span><span class="topo-inside">P</span><span class="topo-membrane">AKEVVGYVIAQVVGGIVAAALLYLIA</span><span class="topo-outside">SGKTGFDAAASGFA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230    </span>
+<span class="topo-line"><span class="topo-outside">SNGYGEHSPGGYSM</span><span class="topo-membrane">LSALVVELVLSAGFLLVIHGATD</span><span class="topo-inside">KFAPAG</span><span class="topo-membrane">FAPIAIGLALTLIHLISIPVT</span><span class="topo-outside">N</span><span class="topo-unknown">CSVNPARSTAVAIF</span><span class="topo-outside">QGGWA</span><span class="topo-membrane">LEQLWFFWVVPIVGGIIGGLIYRTLLE</span><span class="topo-inside">KR</span><span class="topo-unknown">D</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -757,6 +762,7 @@ versus size effects on water and glycerol conduction.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -772,10 +778,11 @@ versus size effects on water and glycerol conduction.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">A</span><span class="topo-inside">SAM</span><span class="topo-membrane">FRKLAAESFGTFWLVFGGSGSAVLAA</span><span class="topo-outside">GFPELGI</span><span class="topo-membrane">GFAGVALAFGLTVLTMAFAVGHI</span></span>
-<span class="topo-line"><span class="topo-membrane">S</span><span class="topo-inside">G</span><span class="topo-unknown">GHFNPAVTIGLWAGGRF</span><span class="topo-inside">P</span><span class="topo-membrane">AKEVVGYVIAQVVGGIVAAALLYLIA</span><span class="topo-outside">SGKTGFDAAASGFA</span></span>
-<span class="topo-line"><span class="topo-outside">SNGYGEHSPGGYSM</span><span class="topo-membrane">LSALVVELVLSAGFLLVIHGATD</span><span class="topo-inside">KFAPAG</span><span class="topo-membrane">FAPIAIGLALTLIHLIS</span></span>
-<span class="topo-line"><span class="topo-membrane">IPVT</span><span class="topo-outside">N</span><span class="topo-unknown">CSVNPARSTAVAIF</span><span class="topo-outside">QGGWA</span><span class="topo-membrane">LEQLWFFWVVPIVGGIIGGLIYRTLLE</span><span class="topo-inside">KR</span><span class="topo-unknown">D</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">A</span><span class="topo-inside">SAM</span><span class="topo-membrane">FRKLAAESFGTFWLVFGGSGSAVLAA</span><span class="topo-outside">GFPELGI</span><span class="topo-membrane">GFAGVALAFGLTVLTMAFAVGHIS</span><span class="topo-inside">G</span><span class="topo-unknown">GHFNPAVTIGLWAGGRF</span><span class="topo-inside">P</span><span class="topo-membrane">AKEVVGYVIAQVVGGIVAAALLYLIA</span><span class="topo-outside">SGKTGFDAAASGFA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230    </span>
+<span class="topo-line"><span class="topo-outside">SNGYGEHSPGGYSM</span><span class="topo-membrane">LSALVVELVLSAGFLLVIHGATD</span><span class="topo-inside">KFAPAG</span><span class="topo-membrane">FAPIAIGLALTLIHLISIPVT</span><span class="topo-outside">N</span><span class="topo-unknown">CSVNPARSTAVAIF</span><span class="topo-outside">QGGWA</span><span class="topo-membrane">LEQLWFFWVVPIVGGIIGGLIYRTLLE</span><span class="topo-inside">KR</span><span class="topo-unknown">D</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -920,6 +927,7 @@ versus size effects on water and glycerol conduction.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -935,10 +943,11 @@ versus size effects on water and glycerol conduction.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">A</span><span class="topo-inside">SAM</span><span class="topo-membrane">FRKLAAESFGTFWLVFGGSGSAVLAA</span><span class="topo-outside">GFPELGI</span><span class="topo-membrane">GFAGVALAFGLTVLTMAFAVGHI</span></span>
-<span class="topo-line"><span class="topo-membrane">S</span><span class="topo-inside">G</span><span class="topo-unknown">GHFNPAVTIGLWAGGRF</span><span class="topo-inside">P</span><span class="topo-membrane">AKEVVGYVIAQVVGGIVAAALLYLIA</span><span class="topo-outside">SGKTGFDAAASGFA</span></span>
-<span class="topo-line"><span class="topo-outside">SNGYGEHSPGGYSM</span><span class="topo-membrane">LSALVVELVLSAGFLLVIHGATD</span><span class="topo-inside">KFAPAG</span><span class="topo-membrane">FAPIAIGLALTLIHLIS</span></span>
-<span class="topo-line"><span class="topo-membrane">IPVT</span><span class="topo-outside">N</span><span class="topo-unknown">CSVNPARSTAVAIF</span><span class="topo-outside">QGGWA</span><span class="topo-membrane">LEQLWFFWVVPIVGGIIGGLIYRTLLE</span><span class="topo-inside">KR</span><span class="topo-unknown">D</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">A</span><span class="topo-inside">SAM</span><span class="topo-membrane">FRKLAAESFGTFWLVFGGSGSAVLAA</span><span class="topo-outside">GFPELGI</span><span class="topo-membrane">GFAGVALAFGLTVLTMAFAVGHIS</span><span class="topo-inside">G</span><span class="topo-unknown">GHFNPAVTIGLWAGGRF</span><span class="topo-inside">P</span><span class="topo-membrane">AKEVVGYVIAQVVGGIVAAALLYLIA</span><span class="topo-outside">SGKTGFDAAASGFA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230    </span>
+<span class="topo-line"><span class="topo-outside">SNGYGEHSPGGYSM</span><span class="topo-membrane">LSALVVELVLSAGFLLVIHGATD</span><span class="topo-inside">KFAPAG</span><span class="topo-membrane">FAPIAIGLALTLIHLISIPVT</span><span class="topo-outside">N</span><span class="topo-unknown">CSVNPARSTAVAIF</span><span class="topo-outside">QGGWA</span><span class="topo-membrane">LEQLWFFWVVPIVGGIIGGLIYRTLLE</span><span class="topo-inside">KR</span><span class="topo-unknown">D</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1083,6 +1092,7 @@ versus size effects on water and glycerol conduction.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1098,10 +1108,11 @@ versus size effects on water and glycerol conduction.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">A</span><span class="topo-outside">SHMFRK</span><span class="topo-membrane">LAAESFGTFWLVFGGSGSAVLAA</span><span class="topo-inside">GFPELGI</span><span class="topo-membrane">GFAGVALAFGLTVLTMAFAVG</span><span class="topo-outside">HI</span></span>
-<span class="topo-line"><span class="topo-outside">S</span><span class="topo-unknown">GGHFNPAVTIGLWAG</span><span class="topo-outside">GRFPAKE</span><span class="topo-membrane">VVGYVIAQVVGGIVAAALLYLIA</span><span class="topo-inside">SGKTGFDAAASGFA</span></span>
-<span class="topo-line"><span class="topo-inside">SNGYGEHSPGGYSM</span><span class="topo-membrane">LSALVVELVLSAGFLLVIHGA</span><span class="topo-outside">TDKFAPAGF</span><span class="topo-membrane">APIAIGLACTLIHLIS</span></span>
-<span class="topo-line"><span class="topo-membrane">IPVT</span><span class="topo-inside">N</span><span class="topo-unknown">TSVNPARSTAVAIF</span><span class="topo-inside">QGGWA</span><span class="topo-membrane">LEQLWFFWVVPIVGGIIGGLIY</span><span class="topo-outside">RTLLEKR</span><span class="topo-unknown">D</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">A</span><span class="topo-outside">SHMFRK</span><span class="topo-membrane">LAAESFGTFWLVFGGSGSAVLAA</span><span class="topo-inside">GFPELGI</span><span class="topo-membrane">GFAGVALAFGLTVLTMAFAVG</span><span class="topo-outside">HIS</span><span class="topo-unknown">GGHFNPAVTIGLWAG</span><span class="topo-outside">GRFPAKE</span><span class="topo-membrane">VVGYVIAQVVGGIVAAALLYLIA</span><span class="topo-inside">SGKTGFDAAASGFA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230    </span>
+<span class="topo-line"><span class="topo-inside">SNGYGEHSPGGYSM</span><span class="topo-membrane">LSALVVELVLSAGFLLVIHGA</span><span class="topo-outside">TDKFAPAGF</span><span class="topo-membrane">APIAIGLACTLIHLISIPVT</span><span class="topo-inside">N</span><span class="topo-unknown">TSVNPARSTAVAIF</span><span class="topo-inside">QGGWA</span><span class="topo-membrane">LEQLWFFWVVPIVGGIIGGLIY</span><span class="topo-outside">RTLLEKR</span><span class="topo-unknown">D</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1246,6 +1257,7 @@ versus size effects on water and glycerol conduction.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1261,10 +1273,11 @@ versus size effects on water and glycerol conduction.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">ASHMFRK</span><span class="topo-membrane">LAAESFGTFWLVFGGSGS</span><span class="topo-outside">AVLAAGFPELGIGFA</span><span class="topo-membrane">GVALAFGLTVLTMAFAVG</span><span class="topo-inside">HI</span></span>
-<span class="topo-line"><span class="topo-inside">S</span><span class="topo-unknown">GGHFNPAVTIGLWAG</span><span class="topo-inside">GRFPAKEV</span><span class="topo-membrane">VGYVIAQVVGGIVAAALL</span><span class="topo-outside">YLIASGKTGFDAAASGFA</span></span>
-<span class="topo-line"><span class="topo-outside">SNGYGEHSPGGYSMLSA</span><span class="topo-membrane">LVVELVLSAGFLLVIHGA</span><span class="topo-inside">TDKFAPAGF</span><span class="topo-membrane">APIAIGLACTLIHLIS</span></span>
-<span class="topo-line"><span class="topo-membrane">I</span><span class="topo-outside">PVT</span><span class="topo-unknown">NTSVNPARSTAVAI</span><span class="topo-outside">FQGGWALEQL</span><span class="topo-membrane">WFFWVVPIVGGIIGGLIY</span><span class="topo-inside">RTLLEKR</span><span class="topo-unknown">D</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">ASHMFRK</span><span class="topo-membrane">LAAESFGTFWLVFGGSGS</span><span class="topo-outside">AVLAAGFPELGIGFA</span><span class="topo-membrane">GVALAFGLTVLTMAFAVG</span><span class="topo-inside">HIS</span><span class="topo-unknown">GGHFNPAVTIGLWAG</span><span class="topo-inside">GRFPAKEV</span><span class="topo-membrane">VGYVIAQVVGGIVAAALL</span><span class="topo-outside">YLIASGKTGFDAAASGFA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230    </span>
+<span class="topo-line"><span class="topo-outside">SNGYGEHSPGGYSMLSA</span><span class="topo-membrane">LVVELVLSAGFLLVIHGA</span><span class="topo-inside">TDKFAPAGF</span><span class="topo-membrane">APIAIGLACTLIHLISI</span><span class="topo-outside">PVT</span><span class="topo-unknown">NTSVNPARSTAVAI</span><span class="topo-outside">FQGGWALEQL</span><span class="topo-membrane">WFFWVVPIVGGIIGGLIY</span><span class="topo-inside">RTLLEKR</span><span class="topo-unknown">D</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1402,6 +1415,7 @@ versus size effects on water and glycerol conduction.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1417,10 +1431,11 @@ versus size effects on water and glycerol conduction.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">ASHMFRK</span><span class="topo-membrane">LAAESFGTFWLVFGGSGS</span><span class="topo-outside">AVLAAGFPELGIGFA</span><span class="topo-membrane">GVALAFGLTVLTMAFAVG</span><span class="topo-inside">HI</span></span>
-<span class="topo-line"><span class="topo-inside">S</span><span class="topo-unknown">GGHFNPAVTIGLWAG</span><span class="topo-inside">GRFPAKEV</span><span class="topo-membrane">VGYVIAQVVGGIVAAALL</span><span class="topo-outside">YLIASGKTGFDAAASGFA</span></span>
-<span class="topo-line"><span class="topo-outside">SNGYGEHSPGGYSMLSA</span><span class="topo-membrane">LVVELVLSAGFLLVIHGA</span><span class="topo-inside">TDKFAPAGF</span><span class="topo-membrane">APIAIGLACTLIHLIS</span></span>
-<span class="topo-line"><span class="topo-membrane">I</span><span class="topo-outside">PVT</span><span class="topo-unknown">NTSVNPARSTAVAI</span><span class="topo-outside">FQGGWALEQL</span><span class="topo-membrane">WFFWVVPIVGGIIGGLIY</span><span class="topo-inside">RTLLEKR</span><span class="topo-unknown">D</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">ASHMFRK</span><span class="topo-membrane">LAAESFGTFWLVFGGSGS</span><span class="topo-outside">AVLAAGFPELGIGFA</span><span class="topo-membrane">GVALAFGLTVLTMAFAVG</span><span class="topo-inside">HIS</span><span class="topo-unknown">GGHFNPAVTIGLWAG</span><span class="topo-inside">GRFPAKEV</span><span class="topo-membrane">VGYVIAQVVGGIVAAALL</span><span class="topo-outside">YLIASGKTGFDAAASGFA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230    </span>
+<span class="topo-line"><span class="topo-outside">SNGYGEHSPGGYSMLSA</span><span class="topo-membrane">LVVELVLSAGFLLVIHGA</span><span class="topo-inside">TDKFAPAGF</span><span class="topo-membrane">APIAIGLACTLIHLISI</span><span class="topo-outside">PVT</span><span class="topo-unknown">NTSVNPARSTAVAI</span><span class="topo-outside">FQGGWALEQL</span><span class="topo-membrane">WFFWVVPIVGGIIGGLIY</span><span class="topo-inside">RTLLEKR</span><span class="topo-unknown">D</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1558,6 +1573,7 @@ versus size effects on water and glycerol conduction.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1573,10 +1589,11 @@ versus size effects on water and glycerol conduction.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">ASHMFRK</span><span class="topo-membrane">LAAESFGTFWLVFGGSGS</span><span class="topo-outside">AVLAAGFPELGIGFA</span><span class="topo-membrane">GVALAFGLTVLTMAFAVG</span><span class="topo-inside">HI</span></span>
-<span class="topo-line"><span class="topo-inside">S</span><span class="topo-unknown">GGHFNPAVTIGLWAG</span><span class="topo-inside">GRFPAKEV</span><span class="topo-membrane">VGYVIAQVVGGIVAAALL</span><span class="topo-outside">YLIASGKTGFDAAASGFA</span></span>
-<span class="topo-line"><span class="topo-outside">SNGYGEHSPGGYSMLSA</span><span class="topo-membrane">LVVELVLSAGFLLVIHGA</span><span class="topo-inside">TDKFAPAGF</span><span class="topo-membrane">APIAIGLACTLIHLIS</span></span>
-<span class="topo-line"><span class="topo-membrane">I</span><span class="topo-outside">PVT</span><span class="topo-unknown">NTSVNPARSTAVAI</span><span class="topo-outside">FQGGWALEQL</span><span class="topo-membrane">WFFWVVPIVGGIIGGLIY</span><span class="topo-inside">RTLLEKR</span><span class="topo-unknown">D</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">ASHMFRK</span><span class="topo-membrane">LAAESFGTFWLVFGGSGS</span><span class="topo-outside">AVLAAGFPELGIGFA</span><span class="topo-membrane">GVALAFGLTVLTMAFAVG</span><span class="topo-inside">HIS</span><span class="topo-unknown">GGHFNPAVTIGLWAG</span><span class="topo-inside">GRFPAKEV</span><span class="topo-membrane">VGYVIAQVVGGIVAAALL</span><span class="topo-outside">YLIASGKTGFDAAASGFA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230    </span>
+<span class="topo-line"><span class="topo-outside">SNGYGEHSPGGYSMLSA</span><span class="topo-membrane">LVVELVLSAGFLLVIHGA</span><span class="topo-inside">TDKFAPAGF</span><span class="topo-membrane">APIAIGLACTLIHLISI</span><span class="topo-outside">PVT</span><span class="topo-unknown">NTSVNPARSTAVAI</span><span class="topo-outside">FQGGWALEQL</span><span class="topo-membrane">WFFWVVPIVGGIIGGLIY</span><span class="topo-inside">RTLLEKR</span><span class="topo-unknown">D</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1714,6 +1731,7 @@ versus size effects on water and glycerol conduction.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1729,10 +1747,11 @@ versus size effects on water and glycerol conduction.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">ASHMFRK</span><span class="topo-membrane">LAAESFGTFWLVFGGSGS</span><span class="topo-outside">AVLAAGFPELGIGFA</span><span class="topo-membrane">GVALAFGLTVLTMAFAVG</span><span class="topo-inside">HI</span></span>
-<span class="topo-line"><span class="topo-inside">S</span><span class="topo-unknown">GGHFNPAVTIGLWAG</span><span class="topo-inside">GRFPAKEV</span><span class="topo-membrane">VGYVIAQVVGGIVAAALL</span><span class="topo-outside">YLIASGKTGFDAAASGFA</span></span>
-<span class="topo-line"><span class="topo-outside">SNGYGEHSPGGYSMLSA</span><span class="topo-membrane">LVVELVLSAGFLLVIHGA</span><span class="topo-inside">TDKFAPAGF</span><span class="topo-membrane">APIAIGLACTLIHLIS</span></span>
-<span class="topo-line"><span class="topo-membrane">I</span><span class="topo-outside">PVT</span><span class="topo-unknown">NTSVNPARSTAVAI</span><span class="topo-outside">FQGGWALEQL</span><span class="topo-membrane">WFFWVVPIVGGIIGGLIY</span><span class="topo-inside">RTLLEKR</span><span class="topo-unknown">D</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">ASHMFRK</span><span class="topo-membrane">LAAESFGTFWLVFGGSGS</span><span class="topo-outside">AVLAAGFPELGIGFA</span><span class="topo-membrane">GVALAFGLTVLTMAFAVG</span><span class="topo-inside">HIS</span><span class="topo-unknown">GGHFNPAVTIGLWAG</span><span class="topo-inside">GRFPAKEV</span><span class="topo-membrane">VGYVIAQVVGGIVAAALL</span><span class="topo-outside">YLIASGKTGFDAAASGFA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230    </span>
+<span class="topo-line"><span class="topo-outside">SNGYGEHSPGGYSMLSA</span><span class="topo-membrane">LVVELVLSAGFLLVIHGA</span><span class="topo-inside">TDKFAPAGF</span><span class="topo-membrane">APIAIGLACTLIHLISI</span><span class="topo-outside">PVT</span><span class="topo-unknown">NTSVNPARSTAVAI</span><span class="topo-outside">FQGGWALEQL</span><span class="topo-membrane">WFFWVVPIVGGIIGGLIY</span><span class="topo-inside">RTLLEKR</span><span class="topo-unknown">D</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1870,6 +1889,7 @@ versus size effects on water and glycerol conduction.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2018,10 +2038,11 @@ versus size effects on water and glycerol conduction.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">AS</span><span class="topo-inside">HMFRK</span><span class="topo-membrane">LAAECFGTFWLVFGGCGS</span><span class="topo-outside">AVLAAGFPALGIGFA</span><span class="topo-membrane">GVALAWGLTVLTMAFAVG</span><span class="topo-inside">HI</span></span>
-<span class="topo-line"><span class="topo-inside">S</span><span class="topo-unknown">GGHFNPAVTIGLWAG</span><span class="topo-inside">GRFPAKE</span><span class="topo-membrane">VVGYVIAQVVGGIVAAALL</span><span class="topo-outside">YLIASGKTGFDAAASGFA</span></span>
-<span class="topo-line"><span class="topo-outside">SNGYGEHSPGGYSMLSA</span><span class="topo-membrane">LVVELVLSAGFLLVIHGA</span><span class="topo-inside">TDKFAPAGF</span><span class="topo-membrane">APIAIGLALTLIHLIS</span></span>
-<span class="topo-line"><span class="topo-membrane">I</span><span class="topo-outside">PVTN</span><span class="topo-unknown">TSVNPARSTAVAI</span><span class="topo-outside">FQGGWALEQL</span><span class="topo-membrane">WFFWVVPIVGGIIGGLIY</span><span class="topo-inside">RTLLE</span><span class="topo-unknown">KRD</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">AS</span><span class="topo-inside">HMFRK</span><span class="topo-membrane">LAAECFGTFWLVFGGCGS</span><span class="topo-outside">AVLAAGFPALGIGFA</span><span class="topo-membrane">GVALAWGLTVLTMAFAVG</span><span class="topo-inside">HIS</span><span class="topo-unknown">GGHFNPAVTIGLWAG</span><span class="topo-inside">GRFPAKE</span><span class="topo-membrane">VVGYVIAQVVGGIVAAALL</span><span class="topo-outside">YLIASGKTGFDAAASGFA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230    </span>
+<span class="topo-line"><span class="topo-outside">SNGYGEHSPGGYSMLSA</span><span class="topo-membrane">LVVELVLSAGFLLVIHGA</span><span class="topo-inside">TDKFAPAGF</span><span class="topo-membrane">APIAIGLALTLIHLISI</span><span class="topo-outside">PVTN</span><span class="topo-unknown">TSVNPARSTAVAI</span><span class="topo-outside">FQGGWALEQL</span><span class="topo-membrane">WFFWVVPIVGGIIGGLIY</span><span class="topo-inside">RTLLE</span><span class="topo-unknown">KRD</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2166,6 +2187,7 @@ versus size effects on water and glycerol conduction.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2181,10 +2203,11 @@ versus size effects on water and glycerol conduction.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">AS</span><span class="topo-inside">HMFRK</span><span class="topo-membrane">LAAECFGTFWLVFGGCGS</span><span class="topo-outside">AVLAAGFPALGIGFA</span><span class="topo-membrane">GVALAWGLTVLTMAFAVG</span><span class="topo-inside">HI</span></span>
-<span class="topo-line"><span class="topo-inside">S</span><span class="topo-unknown">GGHFNPAVTIGLWAG</span><span class="topo-inside">GRFPAKE</span><span class="topo-membrane">VVGYVIAQVVGGIVAAALL</span><span class="topo-outside">YLIASGKTGFDAAASGFA</span></span>
-<span class="topo-line"><span class="topo-outside">SNGYGEHSPGGYSMLSA</span><span class="topo-membrane">LVVELVLSAGFLLVIHGA</span><span class="topo-inside">TDKFAPAGF</span><span class="topo-membrane">APIAIGLALTLIHLIS</span></span>
-<span class="topo-line"><span class="topo-membrane">I</span><span class="topo-outside">PVTN</span><span class="topo-unknown">TSVNPARSTAVAI</span><span class="topo-outside">FQGGWALEQL</span><span class="topo-membrane">WFFWVVPIVGGIIGGLIY</span><span class="topo-inside">RTLLE</span><span class="topo-unknown">KRD</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">AS</span><span class="topo-inside">HMFRK</span><span class="topo-membrane">LAAECFGTFWLVFGGCGS</span><span class="topo-outside">AVLAAGFPALGIGFA</span><span class="topo-membrane">GVALAWGLTVLTMAFAVG</span><span class="topo-inside">HIS</span><span class="topo-unknown">GGHFNPAVTIGLWAG</span><span class="topo-inside">GRFPAKE</span><span class="topo-membrane">VVGYVIAQVVGGIVAAALL</span><span class="topo-outside">YLIASGKTGFDAAASGFA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230    </span>
+<span class="topo-line"><span class="topo-outside">SNGYGEHSPGGYSMLSA</span><span class="topo-membrane">LVVELVLSAGFLLVIHGA</span><span class="topo-inside">TDKFAPAGF</span><span class="topo-membrane">APIAIGLALTLIHLISI</span><span class="topo-outside">PVTN</span><span class="topo-unknown">TSVNPARSTAVAI</span><span class="topo-outside">FQGGWALEQL</span><span class="topo-membrane">WFFWVVPIVGGIIGGLIY</span><span class="topo-inside">RTLLE</span><span class="topo-unknown">KRD</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2329,6 +2352,7 @@ versus size effects on water and glycerol conduction.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2344,10 +2368,11 @@ versus size effects on water and glycerol conduction.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">AS</span><span class="topo-inside">HMFRK</span><span class="topo-membrane">LAAECFGTFWLVFGGCGS</span><span class="topo-outside">AVLAAGFPALGIGFA</span><span class="topo-membrane">GVALAWGLTVLTMAFAVG</span><span class="topo-inside">HI</span></span>
-<span class="topo-line"><span class="topo-inside">S</span><span class="topo-unknown">GGHFNPAVTIGLWAG</span><span class="topo-inside">GRFPAKE</span><span class="topo-membrane">VVGYVIAQVVGGIVAAALL</span><span class="topo-outside">YLIASGKTGFDAAASGFA</span></span>
-<span class="topo-line"><span class="topo-outside">SNGYGEHSPGGYSMLSA</span><span class="topo-membrane">LVVELVLSAGFLLVIHGA</span><span class="topo-inside">TDKFAPAGF</span><span class="topo-membrane">APIAIGLALTLIHLIS</span></span>
-<span class="topo-line"><span class="topo-membrane">I</span><span class="topo-outside">PVTN</span><span class="topo-unknown">TSVNPARSTAVAI</span><span class="topo-outside">FQGGWALEQL</span><span class="topo-membrane">WFFWVVPIVGGIIGGLIY</span><span class="topo-inside">RTLLE</span><span class="topo-unknown">KRD</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">AS</span><span class="topo-inside">HMFRK</span><span class="topo-membrane">LAAECFGTFWLVFGGCGS</span><span class="topo-outside">AVLAAGFPALGIGFA</span><span class="topo-membrane">GVALAWGLTVLTMAFAVG</span><span class="topo-inside">HIS</span><span class="topo-unknown">GGHFNPAVTIGLWAG</span><span class="topo-inside">GRFPAKE</span><span class="topo-membrane">VVGYVIAQVVGGIVAAALL</span><span class="topo-outside">YLIASGKTGFDAAASGFA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230    </span>
+<span class="topo-line"><span class="topo-outside">SNGYGEHSPGGYSMLSA</span><span class="topo-membrane">LVVELVLSAGFLLVIHGA</span><span class="topo-inside">TDKFAPAGF</span><span class="topo-membrane">APIAIGLALTLIHLISI</span><span class="topo-outside">PVTN</span><span class="topo-unknown">TSVNPARSTAVAI</span><span class="topo-outside">FQGGWALEQL</span><span class="topo-membrane">WFFWVVPIVGGIIGGLIY</span><span class="topo-inside">RTLLE</span><span class="topo-unknown">KRD</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2492,6 +2517,7 @@ versus size effects on water and glycerol conduction.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2622,10 +2648,11 @@ versus size effects on water and glycerol conduction.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MFRKL</span><span class="topo-membrane">AAECFGTFWLVFGGCGSA</span><span class="topo-inside">VLAAGFPELGIGFA</span><span class="topo-membrane">GVALAFGLTVLTMAFAV</span><span class="topo-outside">GHISGG</span></span>
-<span class="topo-line"><span class="topo-unknown">HFNPAVTIGL</span><span class="topo-outside">WAGGRFPAKEV</span><span class="topo-membrane">VGYVIAQVVGGIVAAALL</span><span class="topo-inside">YLIASGKTGFDAAASGFASNG</span></span>
-<span class="topo-line"><span class="topo-inside">YGEHSPGGYSMLSA</span><span class="topo-membrane">LVVELVLSAGFLLVI</span><span class="topo-outside">HGATDKFAPAGFA</span><span class="topo-membrane">PIAIGLALTLIHLISI</span><span class="topo-inside">PV</span></span>
-<span class="topo-line"><span class="topo-inside">T</span><span class="topo-unknown">NTSVNPARSTAVAI</span><span class="topo-inside">FQGGWALEQL</span><span class="topo-membrane">WFFWVVPIVGGIIGGLI</span><span class="topo-outside">YRTLL</span><span class="topo-unknown">EKRD</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MFRKL</span><span class="topo-membrane">AAECFGTFWLVFGGCGSA</span><span class="topo-inside">VLAAGFPELGIGFA</span><span class="topo-membrane">GVALAFGLTVLTMAFAV</span><span class="topo-outside">GHISGG</span><span class="topo-unknown">HFNPAVTIGL</span><span class="topo-outside">WAGGRFPAKEV</span><span class="topo-membrane">VGYVIAQVVGGIVAAALL</span><span class="topo-inside">YLIASGKTGFDAAASGFASNG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230 </span>
+<span class="topo-line"><span class="topo-inside">YGEHSPGGYSMLSA</span><span class="topo-membrane">LVVELVLSAGFLLVI</span><span class="topo-outside">HGATDKFAPAGFA</span><span class="topo-membrane">PIAIGLALTLIHLISI</span><span class="topo-inside">PVT</span><span class="topo-unknown">NTSVNPARSTAVAI</span><span class="topo-inside">FQGGWALEQL</span><span class="topo-membrane">WFFWVVPIVGGIIGGLI</span><span class="topo-outside">YRTLL</span><span class="topo-unknown">EKRD</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2763,6 +2790,7 @@ versus size effects on water and glycerol conduction.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2778,10 +2806,11 @@ versus size effects on water and glycerol conduction.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MFRKL</span><span class="topo-membrane">AAECFGTFWLVFGGCGSA</span><span class="topo-inside">VLAAGFPELGIGFA</span><span class="topo-membrane">GVALAFGLTVLTMAFAV</span><span class="topo-outside">GHISGG</span></span>
-<span class="topo-line"><span class="topo-unknown">HFNPAVTIGL</span><span class="topo-outside">WAGGRFPAKEV</span><span class="topo-membrane">VGYVIAQVVGGIVAAALLYL</span><span class="topo-inside">IASGKTGFDAAASGFASNG</span></span>
-<span class="topo-line"><span class="topo-inside">YGEHSPGGYSMLSA</span><span class="topo-membrane">LVVELVLSAGFLLVI</span><span class="topo-outside">HGATDKFAPAGFA</span><span class="topo-membrane">PIAIGLALTLIHLISI</span><span class="topo-inside">PV</span></span>
-<span class="topo-line"><span class="topo-inside">T</span><span class="topo-unknown">NTSVNPARSTAVAI</span><span class="topo-inside">FQGGWALEQL</span><span class="topo-membrane">WFFWVVPIVGGIIGGLI</span><span class="topo-outside">YRTLL</span><span class="topo-unknown">EKRD</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MFRKL</span><span class="topo-membrane">AAECFGTFWLVFGGCGSA</span><span class="topo-inside">VLAAGFPELGIGFA</span><span class="topo-membrane">GVALAFGLTVLTMAFAV</span><span class="topo-outside">GHISGG</span><span class="topo-unknown">HFNPAVTIGL</span><span class="topo-outside">WAGGRFPAKEV</span><span class="topo-membrane">VGYVIAQVVGGIVAAALLYL</span><span class="topo-inside">IASGKTGFDAAASGFASNG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230 </span>
+<span class="topo-line"><span class="topo-inside">YGEHSPGGYSMLSA</span><span class="topo-membrane">LVVELVLSAGFLLVI</span><span class="topo-outside">HGATDKFAPAGFA</span><span class="topo-membrane">PIAIGLALTLIHLISI</span><span class="topo-inside">PVT</span><span class="topo-unknown">NTSVNPARSTAVAI</span><span class="topo-inside">FQGGWALEQL</span><span class="topo-membrane">WFFWVVPIVGGIIGGLI</span><span class="topo-outside">YRTLL</span><span class="topo-unknown">EKRD</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2919,6 +2948,7 @@ versus size effects on water and glycerol conduction.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2934,10 +2964,11 @@ versus size effects on water and glycerol conduction.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MFRKL</span><span class="topo-membrane">AAECFGTFWLVFGGCGSA</span><span class="topo-inside">VLAAGFPELGIGFA</span><span class="topo-membrane">GVALAFGLTVLTMAFAV</span><span class="topo-outside">GHISGG</span></span>
-<span class="topo-line"><span class="topo-unknown">HFNPAVTIGL</span><span class="topo-outside">WAGGRFPAKEV</span><span class="topo-membrane">VGYVIAQVVGGIVAAALLY</span><span class="topo-inside">LIASGKTGFDAAASGFASNG</span></span>
-<span class="topo-line"><span class="topo-inside">YGEHSPGGYSMLSA</span><span class="topo-membrane">LVVELVLSAGFLLVI</span><span class="topo-outside">HGATDKFAPAGFA</span><span class="topo-membrane">PIAIGLALTLIHLISI</span><span class="topo-inside">PV</span></span>
-<span class="topo-line"><span class="topo-inside">T</span><span class="topo-unknown">NTSVNPARSTAVAI</span><span class="topo-inside">FQGGWALEQL</span><span class="topo-membrane">WFFWVVPIVGGIIGGLIY</span><span class="topo-outside">RTLL</span><span class="topo-unknown">EKRD</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MFRKL</span><span class="topo-membrane">AAECFGTFWLVFGGCGSA</span><span class="topo-inside">VLAAGFPELGIGFA</span><span class="topo-membrane">GVALAFGLTVLTMAFAV</span><span class="topo-outside">GHISGG</span><span class="topo-unknown">HFNPAVTIGL</span><span class="topo-outside">WAGGRFPAKEV</span><span class="topo-membrane">VGYVIAQVVGGIVAAALLY</span><span class="topo-inside">LIASGKTGFDAAASGFASNG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230 </span>
+<span class="topo-line"><span class="topo-inside">YGEHSPGGYSMLSA</span><span class="topo-membrane">LVVELVLSAGFLLVI</span><span class="topo-outside">HGATDKFAPAGFA</span><span class="topo-membrane">PIAIGLALTLIHLISI</span><span class="topo-inside">PVT</span><span class="topo-unknown">NTSVNPARSTAVAI</span><span class="topo-inside">FQGGWALEQL</span><span class="topo-membrane">WFFWVVPIVGGIIGGLIY</span><span class="topo-outside">RTLL</span><span class="topo-unknown">EKRD</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3075,6 +3106,7 @@ versus size effects on water and glycerol conduction.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3090,10 +3122,11 @@ versus size effects on water and glycerol conduction.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MFRKL</span><span class="topo-membrane">AAECFGTFWLVFGGCGSA</span><span class="topo-inside">VLAAGFPELGIGFA</span><span class="topo-membrane">GVALAFGLTVLTMAFA</span><span class="topo-outside">VGHISGG</span></span>
-<span class="topo-line"><span class="topo-unknown">HFNPAVTIGL</span><span class="topo-outside">WAGGRFPAKEV</span><span class="topo-membrane">VGYVIAQVVGGIVAAALL</span><span class="topo-inside">YLIASGKTGFDAAASGFASNG</span></span>
-<span class="topo-line"><span class="topo-inside">YGEHSPGGYSMLSA</span><span class="topo-membrane">LVVELVLSAGFLLVI</span><span class="topo-outside">HGATDKFAPAGFA</span><span class="topo-membrane">PIAIGLALTLIHLISI</span><span class="topo-inside">PV</span></span>
-<span class="topo-line"><span class="topo-inside">TN</span><span class="topo-unknown">TSVNPARSTAVAI</span><span class="topo-inside">FQGGWALEQL</span><span class="topo-membrane">WFFWVVPIVGGIIGGLIY</span><span class="topo-outside">RTLL</span><span class="topo-unknown">EKRD</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MFRKL</span><span class="topo-membrane">AAECFGTFWLVFGGCGSA</span><span class="topo-inside">VLAAGFPELGIGFA</span><span class="topo-membrane">GVALAFGLTVLTMAFA</span><span class="topo-outside">VGHISGG</span><span class="topo-unknown">HFNPAVTIGL</span><span class="topo-outside">WAGGRFPAKEV</span><span class="topo-membrane">VGYVIAQVVGGIVAAALL</span><span class="topo-inside">YLIASGKTGFDAAASGFASNG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230 </span>
+<span class="topo-line"><span class="topo-inside">YGEHSPGGYSMLSA</span><span class="topo-membrane">LVVELVLSAGFLLVI</span><span class="topo-outside">HGATDKFAPAGFA</span><span class="topo-membrane">PIAIGLALTLIHLISI</span><span class="topo-inside">PVTN</span><span class="topo-unknown">TSVNPARSTAVAI</span><span class="topo-inside">FQGGWALEQL</span><span class="topo-membrane">WFFWVVPIVGGIIGGLIY</span><span class="topo-outside">RTLL</span><span class="topo-unknown">EKRD</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3231,6 +3264,7 @@ versus size effects on water and glycerol conduction.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

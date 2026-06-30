@@ -194,14 +194,15 @@ SeCitS is a [Citrate Buffer (Sodium Citrate)](/xray-mp-wiki/reagents/buffers/cit
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MTNMTQASATERKGA</span><span class="topo-inside">SDLLRFKIFGMPL</span><span class="topo-membrane">PLYAFALITLLLSH</span><span class="topo-outside">FYNAIPTD</span><span class="topo-membrane">LVGGFALMFV</span></span>
-<span class="topo-line"><span class="topo-membrane">MGAIFGEIGKRL</span><span class="topo-inside">P</span><span class="topo-membrane">IFNKYIGGAPVMIFLVAAYF</span><span class="topo-outside">VYAGIFT</span><span class="topo-unknown">QKEIDAISNVM</span><span class="topo-outside">DKS</span><span class="topo-membrane">NFLNLF</span></span>
-<span class="topo-line"><span class="topo-membrane">IAVLITGAIL</span><span class="topo-inside">SVNRKLL</span><span class="topo-membrane">LKSLLGYIPTILAGIVGASLF</span><span class="topo-outside">GIVIGLCFGIP</span><span class="topo-unknown">VDRIMML</span><span class="topo-outside">YVLP</span></span>
-<span class="topo-line"><span class="topo-outside">IMGGGNGAGAVPLSEIYHSVTGRSREEYYSTAIAILTIA</span><span class="topo-membrane">NIFAIIFAALLDMV</span><span class="topo-inside">GKKYTWL</span></span>
-<span class="topo-line"><span class="topo-inside">SGEGELVRKASFKTEDDEKAGQITHRETA</span><span class="topo-membrane">VGMVLSTTCFLLAYVVA</span><span class="topo-outside">KKILPSIGGVSI</span><span class="topo-membrane">HY</span></span>
-<span class="topo-line"><span class="topo-membrane">FAWMVLIVAALNAS</span><span class="topo-inside">GLCSPEIKAGAKRL</span><span class="topo-membrane">SDFFSKQLLWVLMVGVGV</span><span class="topo-outside">CYTDLQEIIDALTF</span></span>
-<span class="topo-line"><span class="topo-outside">ANVVIAA</span><span class="topo-membrane">IIVVGAVVGAAIGGWLIGFY</span><span class="topo-inside">P</span><span class="topo-membrane">IESSITAGLCMANR</span><span class="topo-outside">G</span><span class="topo-membrane">GSGDLEVLSACNRM</span><span class="topo-inside">N</span><span class="topo-membrane">LI</span></span>
-<span class="topo-line"><span class="topo-membrane">SYAQISSRLGGGI</span><span class="topo-outside">VLVIASIVFSMMVLE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MTNMTQASATERKGA</span><span class="topo-inside">SDLLRFKIFGMPL</span><span class="topo-membrane">PLYAFALITLLLSH</span><span class="topo-outside">FYNAIPTD</span><span class="topo-membrane">LVGGFALMFVMGAIFGEIGKRL</span><span class="topo-inside">P</span><span class="topo-membrane">IFNKYIGGAPVMIFLVAAYF</span><span class="topo-outside">VYAGIFT</span><span class="topo-unknown">QKEIDAISNVM</span><span class="topo-outside">DKS</span><span class="topo-membrane">NFLNLF</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">IAVLITGAIL</span><span class="topo-inside">SVNRKLL</span><span class="topo-membrane">LKSLLGYIPTILAGIVGASLF</span><span class="topo-outside">GIVIGLCFGIP</span><span class="topo-unknown">VDRIMML</span><span class="topo-outside">YVLPIMGGGNGAGAVPLSEIYHSVTGRSREEYYSTAIAILTIA</span><span class="topo-membrane">NIFAIIFAALLDMV</span><span class="topo-inside">GKKYTWL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">SGEGELVRKASFKTEDDEKAGQITHRETA</span><span class="topo-membrane">VGMVLSTTCFLLAYVVA</span><span class="topo-outside">KKILPSIGGVSI</span><span class="topo-membrane">HYFAWMVLIVAALNAS</span><span class="topo-inside">GLCSPEIKAGAKRL</span><span class="topo-membrane">SDFFSKQLLWVLMVGVGV</span><span class="topo-outside">CYTDLQEIIDALTF</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440        </span>
+<span class="topo-line"><span class="topo-outside">ANVVIAA</span><span class="topo-membrane">IIVVGAVVGAAIGGWLIGFY</span><span class="topo-inside">P</span><span class="topo-membrane">IESSITAGLCMANR</span><span class="topo-outside">G</span><span class="topo-membrane">GSGDLEVLSACNRM</span><span class="topo-inside">N</span><span class="topo-membrane">LISYAQISSRLGGGI</span><span class="topo-outside">VLVIASIVFSMMVLE</span></span>
+<details class="topo-details"><summary>Topology coordinates (31 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -430,6 +431,7 @@ SeCitS is a [Citrate Buffer (Sodium Citrate)](/xray-mp-wiki/reagents/buffers/cit
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -445,14 +447,15 @@ SeCitS is a [Citrate Buffer (Sodium Citrate)](/xray-mp-wiki/reagents/buffers/cit
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MTNMTQASATERKGA</span><span class="topo-inside">SDLLRFKIFGMPL</span><span class="topo-membrane">PLYAFALITLLLSHF</span><span class="topo-outside">YNAIPTD</span><span class="topo-membrane">LVGGFALMFV</span></span>
-<span class="topo-line"><span class="topo-membrane">MGAIFGEIGK</span><span class="topo-inside">RL</span><span class="topo-unknown">PIFNKY</span><span class="topo-membrane">IGGAPVMIFLVAAYFV</span><span class="topo-outside">YAGIFT</span><span class="topo-unknown">QKEIDAISNVM</span><span class="topo-outside">DKS</span><span class="topo-membrane">NFLNLF</span></span>
-<span class="topo-line"><span class="topo-membrane">IAVLITGAI</span><span class="topo-inside">LSVN</span><span class="topo-unknown">RKLLLKS</span><span class="topo-inside">LLGYIPTI</span><span class="topo-membrane">LAGIVGASLFGIVIGLCFGIP</span><span class="topo-outside">V</span><span class="topo-membrane">DRIMMLYVLP</span></span>
-<span class="topo-line"><span class="topo-membrane">IMGG</span><span class="topo-inside">G</span><span class="topo-membrane">NGAGAVPLSEIY</span><span class="topo-outside">HSVTGRSREEY</span><span class="topo-membrane">YSTAIAILTIANIF</span><span class="topo-inside">AIIFAALLDMVGKKYTWL</span></span>
-<span class="topo-line"><span class="topo-inside">SGEGELVRK</span><span class="topo-unknown">ASFKTED</span><span class="topo-inside">DEKAGQITHRETA</span><span class="topo-membrane">VGMVLSTTCFLLAYVVA</span><span class="topo-outside">KKILPSIGGV</span><span class="topo-membrane">SIHY</span></span>
-<span class="topo-line"><span class="topo-membrane">FAWMVLIVAAL</span><span class="topo-inside">NASGLCS</span><span class="topo-unknown">PEIKAGAKRLSDF</span><span class="topo-membrane">FSKQLLWVLMVGVGVCYT</span><span class="topo-outside">D</span><span class="topo-membrane">LQEIIDALTF</span></span>
-<span class="topo-line"><span class="topo-membrane">ANVVIAAIIVVGA</span><span class="topo-inside">VVGAAIGGWLIGFYPIESSITAGLCMANRGGSGDLEVLSACNRMNLI</span></span>
-<span class="topo-line"><span class="topo-inside">SYAQISS</span><span class="topo-membrane">RLGGGIVLVIASIVFSM</span><span class="topo-outside">MVLE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MTNMTQASATERKGA</span><span class="topo-inside">SDLLRFKIFGMPL</span><span class="topo-membrane">PLYAFALITLLLSHF</span><span class="topo-outside">YNAIPTD</span><span class="topo-membrane">LVGGFALMFVMGAIFGEIGK</span><span class="topo-inside">RL</span><span class="topo-unknown">PIFNKY</span><span class="topo-membrane">IGGAPVMIFLVAAYFV</span><span class="topo-outside">YAGIFT</span><span class="topo-unknown">QKEIDAISNVM</span><span class="topo-outside">DKS</span><span class="topo-membrane">NFLNLF</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">IAVLITGAI</span><span class="topo-inside">LSVN</span><span class="topo-unknown">RKLLLKS</span><span class="topo-inside">LLGYIPTI</span><span class="topo-membrane">LAGIVGASLFGIVIGLCFGIP</span><span class="topo-outside">V</span><span class="topo-membrane">DRIMMLYVLPIMGG</span><span class="topo-inside">G</span><span class="topo-membrane">NGAGAVPLSEIY</span><span class="topo-outside">HSVTGRSREEY</span><span class="topo-membrane">YSTAIAILTIANIF</span><span class="topo-inside">AIIFAALLDMVGKKYTWL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">SGEGELVRK</span><span class="topo-unknown">ASFKTED</span><span class="topo-inside">DEKAGQITHRETA</span><span class="topo-membrane">VGMVLSTTCFLLAYVVA</span><span class="topo-outside">KKILPSIGGV</span><span class="topo-membrane">SIHYFAWMVLIVAAL</span><span class="topo-inside">NASGLCS</span><span class="topo-unknown">PEIKAGAKRLSDF</span><span class="topo-membrane">FSKQLLWVLMVGVGVCYT</span><span class="topo-outside">D</span><span class="topo-membrane">LQEIIDALTF</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440        </span>
+<span class="topo-line"><span class="topo-membrane">ANVVIAAIIVVGA</span><span class="topo-inside">VVGAAIGGWLIGFYPIESSITAGLCMANRGGSGDLEVLSACNRMNLISYAQISS</span><span class="topo-membrane">RLGGGIVLVIASIVFSM</span><span class="topo-outside">MVLE</span></span>
+<details class="topo-details"><summary>Topology coordinates (34 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -702,6 +705,7 @@ SeCitS is a [Citrate Buffer (Sodium Citrate)](/xray-mp-wiki/reagents/buffers/cit
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -717,14 +721,15 @@ SeCitS is a [Citrate Buffer (Sodium Citrate)](/xray-mp-wiki/reagents/buffers/cit
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MTNMTQASATERKGA</span><span class="topo-inside">SDLLRFKIFGMPL</span><span class="topo-membrane">PLYAFALITLLLSH</span><span class="topo-outside">FYNAIPTD</span><span class="topo-membrane">LVGGFALMFV</span></span>
-<span class="topo-line"><span class="topo-membrane">MGAIFGEIGKRL</span><span class="topo-inside">P</span><span class="topo-membrane">IFNKYIGGAPVMIFLVAAYF</span><span class="topo-outside">VYAGIFT</span><span class="topo-unknown">QKEIDAISNVM</span><span class="topo-outside">DKS</span><span class="topo-membrane">NFLNLF</span></span>
-<span class="topo-line"><span class="topo-membrane">IAVLITGAIL</span><span class="topo-inside">SVNRKLL</span><span class="topo-membrane">LKSLLGYIPTILAGIVGASLF</span><span class="topo-outside">GIVIGLCFGIP</span><span class="topo-unknown">VDRIMML</span><span class="topo-outside">YVLP</span></span>
-<span class="topo-line"><span class="topo-outside">IMGGGNGAGAVPLSEIYHSVTGRSREEYYSTAIAILTIA</span><span class="topo-membrane">NIFAIIFAALLDMV</span><span class="topo-inside">GKKYTWL</span></span>
-<span class="topo-line"><span class="topo-inside">SGEGELVRKASFKTEDDEKAGQITHRETA</span><span class="topo-membrane">VGMVLSTTCFLLAYVVA</span><span class="topo-outside">KKILPSIGGVSI</span><span class="topo-membrane">HY</span></span>
-<span class="topo-line"><span class="topo-membrane">FAWMVLIVAALNAS</span><span class="topo-inside">GLCSPEIKAGAKRL</span><span class="topo-membrane">SDFFSKQLLWVLMVGVGV</span><span class="topo-outside">CYTDLQEIIDALTF</span></span>
-<span class="topo-line"><span class="topo-outside">ANVVIAA</span><span class="topo-membrane">IIVVGAVVGAAIGGWLIGFY</span><span class="topo-inside">P</span><span class="topo-membrane">IESSITAGLCMANR</span><span class="topo-outside">G</span><span class="topo-membrane">GSGDLEVLSACNRM</span><span class="topo-inside">N</span><span class="topo-membrane">LI</span></span>
-<span class="topo-line"><span class="topo-membrane">SYAQISSRLGGGI</span><span class="topo-outside">VLVIASIVFSMMVLE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MTNMTQASATERKGA</span><span class="topo-inside">SDLLRFKIFGMPL</span><span class="topo-membrane">PLYAFALITLLLSH</span><span class="topo-outside">FYNAIPTD</span><span class="topo-membrane">LVGGFALMFVMGAIFGEIGKRL</span><span class="topo-inside">P</span><span class="topo-membrane">IFNKYIGGAPVMIFLVAAYF</span><span class="topo-outside">VYAGIFT</span><span class="topo-unknown">QKEIDAISNVM</span><span class="topo-outside">DKS</span><span class="topo-membrane">NFLNLF</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">IAVLITGAIL</span><span class="topo-inside">SVNRKLL</span><span class="topo-membrane">LKSLLGYIPTILAGIVGASLF</span><span class="topo-outside">GIVIGLCFGIP</span><span class="topo-unknown">VDRIMML</span><span class="topo-outside">YVLPIMGGGNGAGAVPLSEIYHSVTGRSREEYYSTAIAILTIA</span><span class="topo-membrane">NIFAIIFAALLDMV</span><span class="topo-inside">GKKYTWL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">SGEGELVRKASFKTEDDEKAGQITHRETA</span><span class="topo-membrane">VGMVLSTTCFLLAYVVA</span><span class="topo-outside">KKILPSIGGVSI</span><span class="topo-membrane">HYFAWMVLIVAALNAS</span><span class="topo-inside">GLCSPEIKAGAKRL</span><span class="topo-membrane">SDFFSKQLLWVLMVGVGV</span><span class="topo-outside">CYTDLQEIIDALTF</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440        </span>
+<span class="topo-line"><span class="topo-outside">ANVVIAA</span><span class="topo-membrane">IIVVGAVVGAAIGGWLIGFY</span><span class="topo-inside">P</span><span class="topo-membrane">IESSITAGLCMANR</span><span class="topo-outside">G</span><span class="topo-membrane">GSGDLEVLSACNRM</span><span class="topo-inside">N</span><span class="topo-membrane">LISYAQISSRLGGGI</span><span class="topo-outside">VLVIASIVFSMMVLE</span></span>
+<details class="topo-details"><summary>Topology coordinates (31 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -953,6 +958,7 @@ SeCitS is a [Citrate Buffer (Sodium Citrate)](/xray-mp-wiki/reagents/buffers/cit
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -968,14 +974,15 @@ SeCitS is a [Citrate Buffer (Sodium Citrate)](/xray-mp-wiki/reagents/buffers/cit
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MTNMTQASATERKGA</span><span class="topo-inside">SDLLRFKIFGMPL</span><span class="topo-membrane">PLYAFALITLLLSHF</span><span class="topo-outside">YNAIPTD</span><span class="topo-membrane">LVGGFALMFV</span></span>
-<span class="topo-line"><span class="topo-membrane">MGAIFGEIGK</span><span class="topo-inside">RL</span><span class="topo-unknown">PIFNKY</span><span class="topo-membrane">IGGAPVMIFLVAAYFV</span><span class="topo-outside">YAGIFT</span><span class="topo-unknown">QKEIDAISNVM</span><span class="topo-outside">DKS</span><span class="topo-membrane">NFLNLF</span></span>
-<span class="topo-line"><span class="topo-membrane">IAVLITGAI</span><span class="topo-inside">LSVN</span><span class="topo-unknown">RKLLLKS</span><span class="topo-inside">LLGYIPTI</span><span class="topo-membrane">LAGIVGASLFGIVIGLCFGIP</span><span class="topo-outside">V</span><span class="topo-membrane">DRIMMLYVLP</span></span>
-<span class="topo-line"><span class="topo-membrane">IMGG</span><span class="topo-inside">G</span><span class="topo-membrane">NGAGAVPLSEIY</span><span class="topo-outside">HSVTGRSREEY</span><span class="topo-membrane">YSTAIAILTIANIF</span><span class="topo-inside">AIIFAALLDMVGKKYTWL</span></span>
-<span class="topo-line"><span class="topo-inside">SGEGELVRK</span><span class="topo-unknown">ASFKTED</span><span class="topo-inside">DEKAGQITHRETA</span><span class="topo-membrane">VGMVLSTTCFLLAYVVA</span><span class="topo-outside">KKILPSIGGV</span><span class="topo-membrane">SIHY</span></span>
-<span class="topo-line"><span class="topo-membrane">FAWMVLIVAAL</span><span class="topo-inside">NASGLCS</span><span class="topo-unknown">PEIKAGAKRLSDF</span><span class="topo-membrane">FSKQLLWVLMVGVGVCYT</span><span class="topo-outside">D</span><span class="topo-membrane">LQEIIDALTF</span></span>
-<span class="topo-line"><span class="topo-membrane">ANVVIAAIIVVGA</span><span class="topo-inside">VVGAAIGGWLIGFYPIESSITAGLCMANRGGSGDLEVLSACNRMNLI</span></span>
-<span class="topo-line"><span class="topo-inside">SYAQISS</span><span class="topo-membrane">RLGGGIVLVIASIVFSM</span><span class="topo-outside">MVLE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MTNMTQASATERKGA</span><span class="topo-inside">SDLLRFKIFGMPL</span><span class="topo-membrane">PLYAFALITLLLSHF</span><span class="topo-outside">YNAIPTD</span><span class="topo-membrane">LVGGFALMFVMGAIFGEIGK</span><span class="topo-inside">RL</span><span class="topo-unknown">PIFNKY</span><span class="topo-membrane">IGGAPVMIFLVAAYFV</span><span class="topo-outside">YAGIFT</span><span class="topo-unknown">QKEIDAISNVM</span><span class="topo-outside">DKS</span><span class="topo-membrane">NFLNLF</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">IAVLITGAI</span><span class="topo-inside">LSVN</span><span class="topo-unknown">RKLLLKS</span><span class="topo-inside">LLGYIPTI</span><span class="topo-membrane">LAGIVGASLFGIVIGLCFGIP</span><span class="topo-outside">V</span><span class="topo-membrane">DRIMMLYVLPIMGG</span><span class="topo-inside">G</span><span class="topo-membrane">NGAGAVPLSEIY</span><span class="topo-outside">HSVTGRSREEY</span><span class="topo-membrane">YSTAIAILTIANIF</span><span class="topo-inside">AIIFAALLDMVGKKYTWL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">SGEGELVRK</span><span class="topo-unknown">ASFKTED</span><span class="topo-inside">DEKAGQITHRETA</span><span class="topo-membrane">VGMVLSTTCFLLAYVVA</span><span class="topo-outside">KKILPSIGGV</span><span class="topo-membrane">SIHYFAWMVLIVAAL</span><span class="topo-inside">NASGLCS</span><span class="topo-unknown">PEIKAGAKRLSDF</span><span class="topo-membrane">FSKQLLWVLMVGVGVCYT</span><span class="topo-outside">D</span><span class="topo-membrane">LQEIIDALTF</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440        </span>
+<span class="topo-line"><span class="topo-membrane">ANVVIAAIIVVGA</span><span class="topo-inside">VVGAAIGGWLIGFYPIESSITAGLCMANRGGSGDLEVLSACNRMNLISYAQISS</span><span class="topo-membrane">RLGGGIVLVIASIVFSM</span><span class="topo-outside">MVLE</span></span>
+<details class="topo-details"><summary>Topology coordinates (34 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1225,6 +1232,7 @@ SeCitS is a [Citrate Buffer (Sodium Citrate)](/xray-mp-wiki/reagents/buffers/cit
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

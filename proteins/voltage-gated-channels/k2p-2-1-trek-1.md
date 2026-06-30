@@ -242,12 +242,13 @@ K2P 2.1 (also known as TREK-1, encoded by KCNK2) is a polymodal thermo- and mech
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSFSSKPTVLASRVESDSAINVM</span><span class="topo-inside">KWKTV</span><span class="topo-membrane">STIFLVVVLYLIIGATVFKAL</span><span class="topo-outside">EQPQEISQRTT</span></span>
-<span class="topo-line"><span class="topo-outside">IVIQREKFLRAHPCVSDQELDELIQQIVAAINAGIIPLGASSNQVSHWDL</span><span class="topo-unknown">GSSFFFAGTV</span></span>
-<span class="topo-line"><span class="topo-unknown">ITTIGFG</span><span class="topo-outside">NISPRTE</span><span class="topo-membrane">GGKIFCIIYALLGIPLFGFLLAGVG</span><span class="topo-inside">DQLGTIFGKGIAKVED</span><span class="topo-unknown">TFIKW</span></span>
-<span class="topo-line"><span class="topo-unknown">NVSQT</span><span class="topo-inside">KIRIIST</span><span class="topo-membrane">IIFILFGCVLFVALPAVIF</span><span class="topo-unknown">KHIE</span><span class="topo-outside">GWSA</span><span class="topo-unknown">LDAIYFVVITLTTIGFG</span><span class="topo-outside">DYVA</span></span>
-<span class="topo-line"><span class="topo-outside">GGS</span><span class="topo-unknown">DIEYLDFY</span><span class="topo-outside">K</span><span class="topo-membrane">PVVWFWILVGLAYFAAVLSMIGDWL</span><span class="topo-inside">RVIAKKTKEAVGEFRAHAAEWTA</span></span>
-<span class="topo-line"><span class="topo-inside">NVTS</span><span class="topo-unknown">NSLEVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSFSSKPTVLASRVESDSAINVM</span><span class="topo-inside">KWKTV</span><span class="topo-membrane">STIFLVVVLYLIIGATVFKAL</span><span class="topo-outside">EQPQEISQRTTIVIQREKFLRAHPCVSDQELDELIQQIVAAINAGIIPLGASSNQVSHWDL</span><span class="topo-unknown">GSSFFFAGTV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-unknown">ITTIGFG</span><span class="topo-outside">NISPRTE</span><span class="topo-membrane">GGKIFCIIYALLGIPLFGFLLAGVG</span><span class="topo-inside">DQLGTIFGKGIAKVED</span><span class="topo-unknown">TFIKWNVSQT</span><span class="topo-inside">KIRIIST</span><span class="topo-membrane">IIFILFGCVLFVALPAVIF</span><span class="topo-unknown">KHIE</span><span class="topo-outside">GWSA</span><span class="topo-unknown">LDAIYFVVITLTTIGFG</span><span class="topo-outside">DYVA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310  </span>
+<span class="topo-line"><span class="topo-outside">GGS</span><span class="topo-unknown">DIEYLDFY</span><span class="topo-outside">K</span><span class="topo-membrane">PVVWFWILVGLAYFAAVLSMIGDWL</span><span class="topo-inside">RVIAKKTKEAVGEFRAHAAEWTANVTS</span><span class="topo-unknown">NSLEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (20 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -399,6 +400,7 @@ K2P 2.1 (also known as TREK-1, encoded by KCNK2) is a polymodal thermo- and mech
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -414,12 +416,13 @@ K2P 2.1 (also known as TREK-1, encoded by KCNK2) is a polymodal thermo- and mech
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSFSSKPTVLASRVE</span><span class="topo-inside">SDSAINVMKWKTV</span><span class="topo-membrane">STIFLVVVLYLIIGATVFKA</span><span class="topo-outside">LEQPQEISQRTT</span></span>
-<span class="topo-line"><span class="topo-outside">IVIQREKFLRAHPCVSDQELDELIQQIVAAINAGIIPLGASSNQVSHWDL</span><span class="topo-unknown">GSSFFFAGTV</span></span>
-<span class="topo-line"><span class="topo-unknown">ITTIG</span><span class="topo-outside">F</span><span class="topo-unknown">G</span><span class="topo-outside">NISPRTE</span><span class="topo-membrane">GGKIFCIIYALLGIPLFGFLLAGVG</span><span class="topo-inside">DQLGTIFGKGIAKVEDTFIKW</span></span>
-<span class="topo-line"><span class="topo-inside">NVSQTKIRIIST</span><span class="topo-membrane">IIFILFGCVLFVALPAVIFKH</span><span class="topo-outside">IEGWSA</span><span class="topo-unknown">LDAIYFVVITLTTIG</span><span class="topo-outside">F</span><span class="topo-unknown">GDY</span><span class="topo-outside">VA</span></span>
-<span class="topo-line"><span class="topo-outside">GGSD</span><span class="topo-unknown">IEYL</span><span class="topo-outside">D</span><span class="topo-membrane">FYKPVVWFWILVGLAYFAAVLSMIGDWL</span><span class="topo-inside">RVIAKKTKEAVGEFRAHA</span><span class="topo-unknown">AEWTA</span></span>
-<span class="topo-line"><span class="topo-unknown">NVTSNSLEVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSFSSKPTVLASRVE</span><span class="topo-inside">SDSAINVMKWKTV</span><span class="topo-membrane">STIFLVVVLYLIIGATVFKA</span><span class="topo-outside">LEQPQEISQRTTIVIQREKFLRAHPCVSDQELDELIQQIVAAINAGIIPLGASSNQVSHWDL</span><span class="topo-unknown">GSSFFFAGTV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-unknown">ITTIG</span><span class="topo-outside">F</span><span class="topo-unknown">G</span><span class="topo-outside">NISPRTE</span><span class="topo-membrane">GGKIFCIIYALLGIPLFGFLLAGVG</span><span class="topo-inside">DQLGTIFGKGIAKVEDTFIKWNVSQTKIRIIST</span><span class="topo-membrane">IIFILFGCVLFVALPAVIFKH</span><span class="topo-outside">IEGWSA</span><span class="topo-unknown">LDAIYFVVITLTTIG</span><span class="topo-outside">F</span><span class="topo-unknown">GDY</span><span class="topo-outside">VA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310  </span>
+<span class="topo-line"><span class="topo-outside">GGSD</span><span class="topo-unknown">IEYL</span><span class="topo-outside">D</span><span class="topo-membrane">FYKPVVWFWILVGLAYFAAVLSMIGDWL</span><span class="topo-inside">RVIAKKTKEAVGEFRAHA</span><span class="topo-unknown">AEWTANVTSNSLEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -578,6 +581,7 @@ K2P 2.1 (also known as TREK-1, encoded by KCNK2) is a polymodal thermo- and mech
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

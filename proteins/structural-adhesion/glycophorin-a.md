@@ -115,7 +115,9 @@ Glycophorin A (GpA) is a type I single-pass transmembrane sialoglycoprotein foun
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30</span>
 <span class="topo-line"><span class="topo-outside">EPEI</span><span class="topo-membrane">TLIIFGVIAGVIGTILLISYGIRRL</span><span class="topo-inside">?</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -148,6 +150,7 @@ Glycophorin A (GpA) is a type I single-pass transmembrane sialoglycoprotein foun
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -163,7 +166,9 @@ Glycophorin A (GpA) is a type I single-pass transmembrane sialoglycoprotein foun
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30</span>
 <span class="topo-line"><span class="topo-outside">EPEI</span><span class="topo-membrane">TLIIFGVIAGVIGTILLISYGIR</span><span class="topo-inside">RL?</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -196,6 +201,7 @@ Glycophorin A (GpA) is a type I single-pass transmembrane sialoglycoprotein foun
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -211,7 +217,9 @@ Glycophorin A (GpA) is a type I single-pass transmembrane sialoglycoprotein foun
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30</span>
 <span class="topo-line"><span class="topo-unknown">E</span><span class="topo-inside">PEI</span><span class="topo-membrane">TLIIFGVIAGVIGTILLISYGIR</span><span class="topo-outside">RL</span><span class="topo-unknown">?</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -244,6 +252,7 @@ Glycophorin A (GpA) is a type I single-pass transmembrane sialoglycoprotein foun
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

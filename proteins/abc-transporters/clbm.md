@@ -63,15 +63,17 @@ ClbM is a MATE (Multidrug and Toxic Compound Extrusion) family transporter from 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MTVNKLEPDNGTPNDEL</span><span class="topo-outside">FTVAGMFDGSLYKLL</span><span class="topo-membrane">LRMALPMFVGMLTQVTYAIAD</span><span class="topo-inside">IFWLSH</span><span class="topo-unknown">I</span></span>
-<span class="topo-line"><span class="topo-unknown">DVTNS</span><span class="topo-inside">GIIAGVGLV</span><span class="topo-membrane">FPVGMGLFAIANGIQIGMGS</span><span class="topo-outside">LLSRAIGMQRLDRAQRILSV</span><span class="topo-membrane">GIIIAL</span></span>
-<span class="topo-line"><span class="topo-membrane">FFAIVITVLGYVYA</span><span class="topo-inside">QPLLRSLGATKSIIGYATEF</span><span class="topo-membrane">YYYSLLTVFSIMLIGVMMGLFQ</span><span class="topo-outside">GAGK</span></span>
-<span class="topo-line"><span class="topo-outside">I</span><span class="topo-membrane">MVIMKASLLGALVNIMLDPIM</span><span class="topo-inside">IFVFDFGVK</span><span class="topo-membrane">GVALASFLAQLSMVAYFIYT</span><span class="topo-outside">LMG</span><span class="topo-unknown">LHIGLS</span></span>
-<span class="topo-line"><span class="topo-unknown">IRIALRPF</span><span class="topo-outside">SWKIYREF</span><span class="topo-membrane">LSVGMAQMLMQLIIAVGIVIY</span><span class="topo-inside">NFFIVRLDVNAMAAFTLT</span><span class="topo-membrane">GRIDY</span></span>
-<span class="topo-line"><span class="topo-membrane">FIITPMLAIATALL</span><span class="topo-outside">TVVGQNWGHGNVTRTLNAY</span><span class="topo-membrane">WAAVALAFSIVLVLAVMHIVLA</span><span class="topo-inside">PWMYP</span></span>
-<span class="topo-line"><span class="topo-inside">LFTRVVAVSDYAVLQ</span><span class="topo-membrane">TRIMALALPFVAISLLASEYYQ</span><span class="topo-outside">AIGK</span><span class="topo-membrane">PWYSVLLTLMRHVFISVPV</span></span>
-<span class="topo-line"><span class="topo-membrane">VYLL</span><span class="topo-inside">AIVLEMRITG</span><span class="topo-membrane">VYFGAMSGTFVAALLAWRL</span><span class="topo-outside">LRLSPRLLRWNQEAV</span><span class="topo-unknown">RSQHLDMEVAPA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MTVNKLEPDNGTPNDEL</span><span class="topo-outside">FTVAGMFDGSLYKLL</span><span class="topo-membrane">LRMALPMFVGMLTQVTYAIAD</span><span class="topo-inside">IFWLSH</span><span class="topo-unknown">IDVTNS</span><span class="topo-inside">GIIAGVGLV</span><span class="topo-membrane">FPVGMGLFAIANGIQIGMGS</span><span class="topo-outside">LLSRAIGMQRLDRAQRILSV</span><span class="topo-membrane">GIIIAL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">FFAIVITVLGYVYA</span><span class="topo-inside">QPLLRSLGATKSIIGYATEF</span><span class="topo-membrane">YYYSLLTVFSIMLIGVMMGLFQ</span><span class="topo-outside">GAGKI</span><span class="topo-membrane">MVIMKASLLGALVNIMLDPIM</span><span class="topo-inside">IFVFDFGVK</span><span class="topo-membrane">GVALASFLAQLSMVAYFIYT</span><span class="topo-outside">LMG</span><span class="topo-unknown">LHIGLS</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-unknown">IRIALRPF</span><span class="topo-outside">SWKIYREF</span><span class="topo-membrane">LSVGMAQMLMQLIIAVGIVIY</span><span class="topo-inside">NFFIVRLDVNAMAAFTLT</span><span class="topo-membrane">GRIDYFIITPMLAIATALL</span><span class="topo-outside">TVVGQNWGHGNVTRTLNAY</span><span class="topo-membrane">WAAVALAFSIVLVLAVMHIVLA</span><span class="topo-inside">PWMYP</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">LFTRVVAVSDYAVLQ</span><span class="topo-membrane">TRIMALALPFVAISLLASEYYQ</span><span class="topo-outside">AIGK</span><span class="topo-membrane">PWYSVLLTLMRHVFISVPVVYLL</span><span class="topo-inside">AIVLEMRITG</span><span class="topo-membrane">VYFGAMSGTFVAALLAWRL</span><span class="topo-outside">LRLSPRLLRWNQEAV</span><span class="topo-unknown">RSQHLDMEVAPA</span></span>
+<span class="topo-ruler">       490         </span>
 <span class="topo-line"><span class="topo-unknown">DDDDKLAAAHHHHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (27 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -272,6 +274,7 @@ ClbM is a MATE (Multidrug and Toxic Compound Extrusion) family transporter from 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -287,15 +290,17 @@ ClbM is a MATE (Multidrug and Toxic Compound Extrusion) family transporter from 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MTVNKLEPDNGTPNDEL</span><span class="topo-outside">FTVAGMFDGSLYKLL</span><span class="topo-membrane">LRMALPMFVGMLTQVTYAIAD</span><span class="topo-inside">IFWLSH</span><span class="topo-unknown">I</span></span>
-<span class="topo-line"><span class="topo-unknown">DVTNS</span><span class="topo-inside">GIIAGVGLV</span><span class="topo-membrane">FPVGMGLFAIANGIQIGMGS</span><span class="topo-outside">LLSRAIGMQRLDRAQRILSVG</span><span class="topo-membrane">IIIAL</span></span>
-<span class="topo-line"><span class="topo-membrane">FFAIVITVLGYVYA</span><span class="topo-inside">QPLLRSLGATKSIIGYATEF</span><span class="topo-membrane">YYYSLLTVFSIMLIGVMMGLFQ</span><span class="topo-outside">GAGK</span></span>
-<span class="topo-line"><span class="topo-outside">I</span><span class="topo-membrane">MVIMKASLLGALVNIMLDPIM</span><span class="topo-inside">IFVFDFGVK</span><span class="topo-membrane">GVALASFLAQLSMVAYFIYT</span><span class="topo-outside">LMG</span><span class="topo-unknown">LHIGLS</span></span>
-<span class="topo-line"><span class="topo-unknown">IRIALRPF</span><span class="topo-outside">SWKIYREF</span><span class="topo-membrane">LSVGMAQMLMQLIIAVGIVIY</span><span class="topo-inside">NFFIVRLDVNAMAAFTLT</span><span class="topo-membrane">GRIDY</span></span>
-<span class="topo-line"><span class="topo-membrane">FIITPMLAIATALL</span><span class="topo-outside">TVVGQNWGHGNVTRTLNAY</span><span class="topo-membrane">WAAVALAFSIVLVLAVMHIVLA</span><span class="topo-inside">PWMYP</span></span>
-<span class="topo-line"><span class="topo-inside">LFTRVVAVSDYAVLQ</span><span class="topo-membrane">TRIMALALPFVAISLLASEYYQ</span><span class="topo-outside">AIGK</span><span class="topo-membrane">PWYSVLLTLMRHVFISVPV</span></span>
-<span class="topo-line"><span class="topo-membrane">VYLL</span><span class="topo-inside">AIVLEMRITG</span><span class="topo-membrane">VYFGAMSGTFVAALLAWRL</span><span class="topo-outside">LRLSPRLLRWNQEAV</span><span class="topo-unknown">RSQHLDMEVAPA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MTVNKLEPDNGTPNDEL</span><span class="topo-outside">FTVAGMFDGSLYKLL</span><span class="topo-membrane">LRMALPMFVGMLTQVTYAIAD</span><span class="topo-inside">IFWLSH</span><span class="topo-unknown">IDVTNS</span><span class="topo-inside">GIIAGVGLV</span><span class="topo-membrane">FPVGMGLFAIANGIQIGMGS</span><span class="topo-outside">LLSRAIGMQRLDRAQRILSVG</span><span class="topo-membrane">IIIAL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">FFAIVITVLGYVYA</span><span class="topo-inside">QPLLRSLGATKSIIGYATEF</span><span class="topo-membrane">YYYSLLTVFSIMLIGVMMGLFQ</span><span class="topo-outside">GAGKI</span><span class="topo-membrane">MVIMKASLLGALVNIMLDPIM</span><span class="topo-inside">IFVFDFGVK</span><span class="topo-membrane">GVALASFLAQLSMVAYFIYT</span><span class="topo-outside">LMG</span><span class="topo-unknown">LHIGLS</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-unknown">IRIALRPF</span><span class="topo-outside">SWKIYREF</span><span class="topo-membrane">LSVGMAQMLMQLIIAVGIVIY</span><span class="topo-inside">NFFIVRLDVNAMAAFTLT</span><span class="topo-membrane">GRIDYFIITPMLAIATALL</span><span class="topo-outside">TVVGQNWGHGNVTRTLNAY</span><span class="topo-membrane">WAAVALAFSIVLVLAVMHIVLA</span><span class="topo-inside">PWMYP</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">LFTRVVAVSDYAVLQ</span><span class="topo-membrane">TRIMALALPFVAISLLASEYYQ</span><span class="topo-outside">AIGK</span><span class="topo-membrane">PWYSVLLTLMRHVFISVPVVYLL</span><span class="topo-inside">AIVLEMRITG</span><span class="topo-membrane">VYFGAMSGTFVAALLAWRL</span><span class="topo-outside">LRLSPRLLRWNQEAV</span><span class="topo-unknown">RSQHLDMEVAPA</span></span>
+<span class="topo-ruler">       490         </span>
 <span class="topo-line"><span class="topo-unknown">DDDDKLAAAHHHHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (27 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -496,6 +501,7 @@ ClbM is a MATE (Multidrug and Toxic Compound Extrusion) family transporter from 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

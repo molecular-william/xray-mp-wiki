@@ -117,9 +117,11 @@ The fluoride channel from [Bordetella pertussis](/xray-mp-wiki/organisms/bordete
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">ML</span><span class="topo-outside">TYAP</span><span class="topo-membrane">LNFIAIGIGATLGAWLRWVLGLKLNG</span><span class="topo-inside">AGW</span><span class="topo-membrane">PWGTLTANLVGGYLIGVMV</span><span class="topo-outside">ALIASH</span></span>
-<span class="topo-line"><span class="topo-outside">PEWPAWIR</span><span class="topo-membrane">LAAVTGFLGGLTTFSTFSAETV</span><span class="topo-inside">DMLCRGVYAT</span><span class="topo-membrane">AAAYAGASLAGSLAMTGLGL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">ML</span><span class="topo-outside">TYAP</span><span class="topo-membrane">LNFIAIGIGATLGAWLRWVLGLKLNG</span><span class="topo-inside">AGW</span><span class="topo-membrane">PWGTLTANLVGGYLIGVMV</span><span class="topo-outside">ALIASHPEWPAWIR</span><span class="topo-membrane">LAAVTGFLGGLTTFSTFSAETV</span><span class="topo-inside">DMLCRGVYAT</span><span class="topo-membrane">AAAYAGASLAGSLAMTGLGL</span></span>
+<span class="topo-ruler">        </span>
 <span class="topo-line"><span class="topo-membrane">AT</span><span class="topo-outside">VRLLLR</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -194,6 +196,7 @@ The fluoride channel from [Bordetella pertussis](/xray-mp-wiki/organisms/bordete
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -209,8 +212,9 @@ The fluoride channel from [Bordetella pertussis](/xray-mp-wiki/organisms/bordete
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">SSVPTKLEVVAATPTSLLISWDAPAVTVDHYVITYGETGAYWSYQEFTVPGSKSTATISG</span></span>
-<span class="topo-line"><span class="topo-inside">LKPGVDYTITVYANPYSDAPIYYSYHSPISINYRT</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90     </span>
+<span class="topo-line"><span class="topo-inside">SSVPTKLEVVAATPTSLLISWDAPAVTVDHYVITYGETGAYWSYQEFTVPGSKSTATISGLKPGVDYTITVYANPYSDAPIYYSYHSPISINYRT</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -229,6 +233,7 @@ The fluoride channel from [Bordetella pertussis](/xray-mp-wiki/organisms/bordete
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -343,9 +348,11 @@ The fluoride channel from [Bordetella pertussis](/xray-mp-wiki/organisms/bordete
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">LTY</span><span class="topo-membrane">APLNFIAIGIGATLGAWLRWVLGLKLNG</span><span class="topo-inside">AGW</span><span class="topo-membrane">PWGTLTANLVGGYLIGVMV</span><span class="topo-outside">ALIASH</span></span>
-<span class="topo-line"><span class="topo-outside">PEWPAWIR</span><span class="topo-membrane">LAAVTGFLGGLTTFSTFSAET</span><span class="topo-inside">VDMLCRGVYATAA</span><span class="topo-membrane">AYAGASLAGSLAMTGLGL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">LTY</span><span class="topo-membrane">APLNFIAIGIGATLGAWLRWVLGLKLNG</span><span class="topo-inside">AGW</span><span class="topo-membrane">PWGTLTANLVGGYLIGVMV</span><span class="topo-outside">ALIASHPEWPAWIR</span><span class="topo-membrane">LAAVTGFLGGLTTFSTFSAET</span><span class="topo-inside">VDMLCRGVYATAA</span><span class="topo-membrane">AYAGASLAGSLAMTGLGL</span></span>
+<span class="topo-ruler">        </span>
 <span class="topo-line"><span class="topo-membrane">AT</span><span class="topo-outside">VRLLLR</span></span>
+<details class="topo-details"><summary>Topology coordinates (10 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -427,6 +434,7 @@ The fluoride channel from [Bordetella pertussis](/xray-mp-wiki/organisms/bordete
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

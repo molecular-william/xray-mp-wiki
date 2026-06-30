@@ -157,15 +157,17 @@ DtpA is a proton-dependent oligopeptide transporter (POT) from Escherichia coli 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GSTANQKPTESVSLNA</span><span class="topo-inside">FKQPKAFY</span><span class="topo-membrane">LIFSIELWERFGYYGLQG</span><span class="topo-outside">IMAVYLVKQLGMSEADSI</span></span>
-<span class="topo-line"><span class="topo-outside">TLF</span><span class="topo-membrane">SSFSALVYGLVAIGGWLG</span><span class="topo-inside">DKVLGT</span><span class="topo-membrane">KRVIMLGAIVLAIGYALVA</span><span class="topo-outside">WSGHDAGIVYM</span><span class="topo-membrane">GMA</span></span>
-<span class="topo-line"><span class="topo-membrane">AIAVGNGLFKANPS</span><span class="topo-inside">SLLSTCYEKNDPRLDGAFT</span><span class="topo-membrane">MYYMSVNIGSFFSMIAT</span><span class="topo-outside">PWLAAKYGWS</span></span>
-<span class="topo-line"><span class="topo-outside">VA</span><span class="topo-membrane">FALSVVGLLITIVNFAFC</span><span class="topo-inside">QRWVKQYGSKPDFEPINY</span><span class="topo-membrane">RNLLLTIIGVVALIAIATWLL</span><span class="topo-outside">H</span></span>
-<span class="topo-line"><span class="topo-outside">NQEV</span><span class="topo-membrane">ARMALGVVAFGIVVIFGKEAF</span><span class="topo-inside">AMKGAARRKM</span><span class="topo-membrane">IVAFILMLEAIIFFVLYSQMP</span><span class="topo-outside">TSLN</span></span>
-<span class="topo-line"><span class="topo-outside">FFAIRNVEHSILGLAVEPEQ</span><span class="topo-membrane">YQALNPFWIIIGSPILA</span><span class="topo-inside">AIYNKMGDTLPM</span><span class="topo-membrane">PTKFAIGMVMC</span></span>
-<span class="topo-line"><span class="topo-membrane">SGAFLIL</span><span class="topo-outside">PLGAKFASDAGIVSVS</span><span class="topo-membrane">WLVASYGLQSIGELMISGLGLAMV</span><span class="topo-inside">AQLVPQRLMG</span><span class="topo-membrane">FIM</span></span>
-<span class="topo-line"><span class="topo-membrane">GSWFLTTAGANLIGG</span><span class="topo-outside">YVAGMMAVPDNVTDPLMSLEVYGRVFLQ</span><span class="topo-membrane">IGVATAVIAVLMLLTAP</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GSTANQKPTESVSLNA</span><span class="topo-inside">FKQPKAFY</span><span class="topo-membrane">LIFSIELWERFGYYGLQG</span><span class="topo-outside">IMAVYLVKQLGMSEADSITLF</span><span class="topo-membrane">SSFSALVYGLVAIGGWLG</span><span class="topo-inside">DKVLGT</span><span class="topo-membrane">KRVIMLGAIVLAIGYALVA</span><span class="topo-outside">WSGHDAGIVYM</span><span class="topo-membrane">GMA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">AIAVGNGLFKANPS</span><span class="topo-inside">SLLSTCYEKNDPRLDGAFT</span><span class="topo-membrane">MYYMSVNIGSFFSMIAT</span><span class="topo-outside">PWLAAKYGWSVA</span><span class="topo-membrane">FALSVVGLLITIVNFAFC</span><span class="topo-inside">QRWVKQYGSKPDFEPINY</span><span class="topo-membrane">RNLLLTIIGVVALIAIATWLL</span><span class="topo-outside">H</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">NQEV</span><span class="topo-membrane">ARMALGVVAFGIVVIFGKEAF</span><span class="topo-inside">AMKGAARRKM</span><span class="topo-membrane">IVAFILMLEAIIFFVLYSQMP</span><span class="topo-outside">TSLNFFAIRNVEHSILGLAVEPEQ</span><span class="topo-membrane">YQALNPFWIIIGSPILA</span><span class="topo-inside">AIYNKMGDTLPM</span><span class="topo-membrane">PTKFAIGMVMC</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">SGAFLIL</span><span class="topo-outside">PLGAKFASDAGIVSVS</span><span class="topo-membrane">WLVASYGLQSIGELMISGLGLAMV</span><span class="topo-inside">AQLVPQRLMG</span><span class="topo-membrane">FIMGSWFLTTAGANLIGG</span><span class="topo-outside">YVAGMMAVPDNVTDPLMSLEVYGRVFLQ</span><span class="topo-membrane">IGVATAVIAVLMLLTAP</span></span>
+<span class="topo-ruler">       490       500        </span>
 <span class="topo-line"><span class="topo-membrane">KL</span><span class="topo-inside">HRMTQ</span><span class="topo-unknown">DDAADKAAKAAVASTHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (29 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -380,6 +382,7 @@ DtpA is a proton-dependent oligopeptide transporter (POT) from Escherichia coli 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -395,15 +398,17 @@ DtpA is a proton-dependent oligopeptide transporter (POT) from Escherichia coli 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GSTANQKPTESVSLNA</span><span class="topo-inside">FKQPKAFY</span><span class="topo-membrane">LIFSIELWERFGYYGLQG</span><span class="topo-outside">IMAVYLVKQLGMSEADSI</span></span>
-<span class="topo-line"><span class="topo-outside">TLF</span><span class="topo-membrane">SSFSALVYGLVAIGGWLG</span><span class="topo-inside">DKVLGT</span><span class="topo-membrane">KRVIMLGAIVLAIGYALVA</span><span class="topo-outside">WSGHDAGIVYM</span><span class="topo-membrane">GMA</span></span>
-<span class="topo-line"><span class="topo-membrane">AIAVGNGLFKANPS</span><span class="topo-inside">SLLSTCYE</span><span class="topo-unknown">KN</span><span class="topo-inside">DPRLDGAFT</span><span class="topo-membrane">MYYMSVNIGSFFSMIAT</span><span class="topo-outside">PWLAAKYGWS</span></span>
-<span class="topo-line"><span class="topo-outside">VA</span><span class="topo-membrane">FALSVVGLLITIVNFAFC</span><span class="topo-inside">QRWVKQYGSKPDFEPINY</span><span class="topo-membrane">RNLLLTIIGVVALIAIATWLL</span><span class="topo-outside">H</span></span>
-<span class="topo-line"><span class="topo-outside">NQEV</span><span class="topo-membrane">ARMALGVVAFGIVVIFGKEAF</span><span class="topo-inside">AMKGAARRKM</span><span class="topo-membrane">IVAFILMLEAIIFFVLYSQMP</span><span class="topo-outside">TSLN</span></span>
-<span class="topo-line"><span class="topo-outside">FFAIRNVEHSILGLAVEPEQ</span><span class="topo-membrane">YQALNPFWIIIGSPILAAI</span><span class="topo-inside">YN</span><span class="topo-unknown">KM</span><span class="topo-inside">GDTLPM</span><span class="topo-membrane">PTKFAIGMVMC</span></span>
-<span class="topo-line"><span class="topo-membrane">SGAFLIL</span><span class="topo-outside">PLGAKFASDAGIVSVS</span><span class="topo-membrane">WLVASYGLQSIGELMISGLGLAMVA</span><span class="topo-inside">QLVPQRL</span><span class="topo-membrane">MGFIM</span></span>
-<span class="topo-line"><span class="topo-membrane">GSWFLTTAGANLIGG</span><span class="topo-outside">YVAGMMAVPDNVTDPLMSLEVYGRVFLQ</span><span class="topo-membrane">IGVATAVIAVLMLLTAP</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GSTANQKPTESVSLNA</span><span class="topo-inside">FKQPKAFY</span><span class="topo-membrane">LIFSIELWERFGYYGLQG</span><span class="topo-outside">IMAVYLVKQLGMSEADSITLF</span><span class="topo-membrane">SSFSALVYGLVAIGGWLG</span><span class="topo-inside">DKVLGT</span><span class="topo-membrane">KRVIMLGAIVLAIGYALVA</span><span class="topo-outside">WSGHDAGIVYM</span><span class="topo-membrane">GMA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">AIAVGNGLFKANPS</span><span class="topo-inside">SLLSTCYE</span><span class="topo-unknown">KN</span><span class="topo-inside">DPRLDGAFT</span><span class="topo-membrane">MYYMSVNIGSFFSMIAT</span><span class="topo-outside">PWLAAKYGWSVA</span><span class="topo-membrane">FALSVVGLLITIVNFAFC</span><span class="topo-inside">QRWVKQYGSKPDFEPINY</span><span class="topo-membrane">RNLLLTIIGVVALIAIATWLL</span><span class="topo-outside">H</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">NQEV</span><span class="topo-membrane">ARMALGVVAFGIVVIFGKEAF</span><span class="topo-inside">AMKGAARRKM</span><span class="topo-membrane">IVAFILMLEAIIFFVLYSQMP</span><span class="topo-outside">TSLNFFAIRNVEHSILGLAVEPEQ</span><span class="topo-membrane">YQALNPFWIIIGSPILAAI</span><span class="topo-inside">YN</span><span class="topo-unknown">KM</span><span class="topo-inside">GDTLPM</span><span class="topo-membrane">PTKFAIGMVMC</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">SGAFLIL</span><span class="topo-outside">PLGAKFASDAGIVSVS</span><span class="topo-membrane">WLVASYGLQSIGELMISGLGLAMVA</span><span class="topo-inside">QLVPQRL</span><span class="topo-membrane">MGFIMGSWFLTTAGANLIGG</span><span class="topo-outside">YVAGMMAVPDNVTDPLMSLEVYGRVFLQ</span><span class="topo-membrane">IGVATAVIAVLMLLTAP</span></span>
+<span class="topo-ruler">       490       500        </span>
 <span class="topo-line"><span class="topo-membrane">KL</span><span class="topo-inside">HRMTQD</span><span class="topo-unknown">DAADKAAKAAVASTHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (31 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -632,6 +637,7 @@ DtpA is a proton-dependent oligopeptide transporter (POT) from Escherichia coli 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

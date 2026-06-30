@@ -167,7 +167,9 @@ DAP12 (Discoidin Domain-Related Protein 12, also known as CD331 or KARAP) is a e
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30   </span>
 <span class="topo-line"><span class="topo-outside">CS</span><span class="topo-membrane">TVSPGVLAGIVVGDLVLTVLIAL</span><span class="topo-inside">AVYFLGRL</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -200,6 +202,7 @@ DAP12 (Discoidin Domain-Related Protein 12, also known as CD331 or KARAP) is a e
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -215,7 +218,9 @@ DAP12 (Discoidin Domain-Related Protein 12, also known as CD331 or KARAP) is a e
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30   </span>
 <span class="topo-line"><span class="topo-unknown">CST</span><span class="topo-outside">V</span><span class="topo-membrane">SPGVLAGIVVGDLVLTVLIALAV</span><span class="topo-inside">YFLGRL</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -255,6 +260,7 @@ DAP12 (Discoidin Domain-Related Protein 12, also known as CD331 or KARAP) is a e
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -270,7 +276,9 @@ DAP12 (Discoidin Domain-Related Protein 12, also known as CD331 or KARAP) is a e
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30   </span>
 <span class="topo-line"><span class="topo-unknown">C</span><span class="topo-outside">STVSPGV</span><span class="topo-membrane">LAGIVVGDLVLTVLIALAVYFLG</span><span class="topo-inside">RL</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -303,6 +311,7 @@ DAP12 (Discoidin Domain-Related Protein 12, also known as CD331 or KARAP) is a e
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

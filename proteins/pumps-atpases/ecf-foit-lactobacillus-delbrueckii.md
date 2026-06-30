@@ -75,10 +75,11 @@ ECF-FoIT is a group II energy-coupling factor (ECF) transporter from Lactobacill
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">HHHHHHHHMKSESKVSSKLE</span><span class="topo-outside">LRELV</span><span class="topo-membrane">LLAMVIAIKVVLGQFK</span><span class="topo-inside">VGDATL</span><span class="topo-membrane">QVGLGFIGSVMLG</span></span>
-<span class="topo-line"><span class="topo-membrane">Y</span><span class="topo-outside">LFGPWWG</span><span class="topo-membrane">FAGGALSDLVSSAIFGN</span><span class="topo-inside">LGGF</span><span class="topo-membrane">FIGFTLTAALESMIY</span><span class="topo-outside">GFFLYKKPIQIWRV</span><span class="topo-membrane">IA</span></span>
-<span class="topo-line"><span class="topo-membrane">SVICVTVICYIGLNTLWVSM</span><span class="topo-inside">LGGTN</span><span class="topo-unknown">FMVALSSR</span><span class="topo-membrane">ILKEMITPWIHMVVVWFILEGL</span><span class="topo-unknown">SRVKL</span></span>
-<span class="topo-line"><span class="topo-unknown">SRKF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">HHHHHHHHMKSESKVSSKLE</span><span class="topo-outside">LRELV</span><span class="topo-membrane">LLAMVIAIKVVLGQFK</span><span class="topo-inside">VGDATL</span><span class="topo-membrane">QVGLGFIGSVMLGY</span><span class="topo-outside">LFGPWWG</span><span class="topo-membrane">FAGGALSDLVSSAIFGN</span><span class="topo-inside">LGGF</span><span class="topo-membrane">FIGFTLTAALESMIY</span><span class="topo-outside">GFFLYKKPIQIWRV</span><span class="topo-membrane">IA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180    </span>
+<span class="topo-line"><span class="topo-membrane">SVICVTVICYIGLNTLWVSM</span><span class="topo-inside">LGGTN</span><span class="topo-unknown">FMVALSSR</span><span class="topo-membrane">ILKEMITPWIHMVVVWFILEGL</span><span class="topo-unknown">SRVKLSRKF</span></span>
+<details class="topo-details"><summary>Topology coordinates (13 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -181,6 +182,7 @@ ECF-FoIT is a group II energy-coupling factor (ECF) transporter from Lactobacill
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -196,10 +198,11 @@ ECF-FoIT is a group II energy-coupling factor (ECF) transporter from Lactobacill
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">HHHHHHHHMKSESKVSSKLE</span><span class="topo-outside">LRELV</span><span class="topo-membrane">LLAMVIAIKVVLGQFK</span><span class="topo-inside">VGDATL</span><span class="topo-membrane">QVGLGFIGSVMLG</span></span>
-<span class="topo-line"><span class="topo-outside">YLFGPWWG</span><span class="topo-membrane">FAGGALSDLVSSAIFGN</span><span class="topo-inside">LGGF</span><span class="topo-membrane">FIGFTLTAALESMIY</span><span class="topo-outside">GFFLYKKPIQIWRV</span><span class="topo-membrane">IA</span></span>
-<span class="topo-line"><span class="topo-membrane">SVICVTVICYIGLNTLWVSM</span><span class="topo-inside">LGGTN</span><span class="topo-unknown">FMVALSSR</span><span class="topo-membrane">ILKEMITPWIHMVVVWFILEGL</span><span class="topo-unknown">SRVKL</span></span>
-<span class="topo-line"><span class="topo-unknown">SRKF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">HHHHHHHHMKSESKVSSKLE</span><span class="topo-outside">LRELV</span><span class="topo-membrane">LLAMVIAIKVVLGQFK</span><span class="topo-inside">VGDATL</span><span class="topo-membrane">QVGLGFIGSVMLG</span><span class="topo-outside">YLFGPWWG</span><span class="topo-membrane">FAGGALSDLVSSAIFGN</span><span class="topo-inside">LGGF</span><span class="topo-membrane">FIGFTLTAALESMIY</span><span class="topo-outside">GFFLYKKPIQIWRV</span><span class="topo-membrane">IA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180    </span>
+<span class="topo-line"><span class="topo-membrane">SVICVTVICYIGLNTLWVSM</span><span class="topo-inside">LGGTN</span><span class="topo-unknown">FMVALSSR</span><span class="topo-membrane">ILKEMITPWIHMVVVWFILEGL</span><span class="topo-unknown">SRVKLSRKF</span></span>
+<details class="topo-details"><summary>Topology coordinates (13 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -302,6 +305,7 @@ ECF-FoIT is a group II energy-coupling factor (ECF) transporter from Lactobacill
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -317,11 +321,13 @@ ECF-FoIT is a group II energy-coupling factor (ECF) transporter from Lactobacill
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MHHHHHHHHHHGENLYFQ</span><span class="topo-outside">GSDNIISFDHVTFTYPDSPRPALSDLSFAIERGSWTALIGHN</span></span>
-<span class="topo-line"><span class="topo-outside">GSGKSTVSKLINGLLAPDDLDKSSITVDGVKLGADTVWEVREKVGIVFQNPDNQFVGATV</span></span>
-<span class="topo-line"><span class="topo-outside">SDDVAFGLENRAVPRPEMLKIVAQAVADVGMADYADSEPSNLSGGQKQRVAIAGILAVKP</span></span>
-<span class="topo-line"><span class="topo-outside">QVIILDESTSMLDPEGKEQILDLVRKIKEDNNLTVISITHDLEEAAGADQVLVLDDGQLL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MHHHHHHHHHHGENLYFQ</span><span class="topo-outside">GSDNIISFDHVTFTYPDSPRPALSDLSFAIERGSWTALIGHNGSGKSTVSKLINGLLAPDDLDKSSITVDGVKLGADTVWEVREKVGIVFQNPDNQFVGATV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">SDDVAFGLENRAVPRPEMLKIVAQAVADVGMADYADSEPSNLSGGQKQRVAIAGILAVKPQVIILDESTSMLDPEGKEQILDLVRKIKEDNNLTVISITHDLEEAAGADQVLVLDDGQLL</span></span>
+<span class="topo-ruler">       250       260       270       280       290        </span>
 <span class="topo-line"><span class="topo-outside">DQGKPEEIFPKVEMLKRIGLDIPFVYRLKQLLKERGIVLPDEIDDDEKLVQSLWQLNS</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -340,6 +346,7 @@ ECF-FoIT is a group II energy-coupling factor (ECF) transporter from Lactobacill
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -355,11 +362,13 @@ ECF-FoIT is a group II energy-coupling factor (ECF) transporter from Lactobacill
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">AIKFENVSYVYSPGSPLEAIGLDQLNFSLEEGKFIALVGHTGSGKSTLMQHFNALLKPT</span></span>
-<span class="topo-line"><span class="topo-outside">SGKIEIAGYTITPETGNKGLKDLRRKVSLAFQFSEAQLFENTVLKDVEYGPRNFGFSEDE</span></span>
-<span class="topo-line"><span class="topo-outside">AREAALKWLKKVGLKDDLIEHSPFDLSGGQMRRVALAGVLAYEPEIICLDEPAAGLDPMG</span></span>
-<span class="topo-line"><span class="topo-outside">RLEMMQLFKDYQAAGHTVILVTHNMDDVADYADDVLALEHGRLIKHASPKEVFKDSEWLQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">AIKFENVSYVYSPGSPLEAIGLDQLNFSLEEGKFIALVGHTGSGKSTLMQHFNALLKPTSGKIEIAGYTITPETGNKGLKDLRRKVSLAFQFSEAQLFENTVLKDVEYGPRNFGFSEDE</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">AREAALKWLKKVGLKDDLIEHSPFDLSGGQMRRVALAGVLAYEPEIICLDEPAAGLDPMGRLEMMQLFKDYQAAGHTVILVTHNMDDVADYADDVLALEHGRLIKHASPKEVFKDSEWLQ</span></span>
+<span class="topo-ruler">       250       260       270       280       </span>
 <span class="topo-line"><span class="topo-outside">KHHLAEPRSARFAAKLEAAGLKLPGQPLTMPELADAIKQSLK</span><span class="topo-unknown">GGEHE</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -378,6 +387,7 @@ ECF-FoIT is a group II energy-coupling factor (ECF) transporter from Lactobacill
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -393,10 +403,11 @@ ECF-FoIT is a group II energy-coupling factor (ECF) transporter from Lactobacill
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MKSESKV</span><span class="topo-outside">SSKLELRELVLLAMVIAIKVILGQFKVGNATLQVGLGFIGSVMLGYLFGPWWG</span></span>
-<span class="topo-line"><span class="topo-outside">FAGGALSDLVSSVIFGNLGGFFIG</span><span class="topo-unknown">FTLTAALGPMIYGFFL</span><span class="topo-outside">YKQPIQIWRVIASVICVTVI</span></span>
-<span class="topo-line"><span class="topo-outside">CNI</span><span class="topo-unknown">GLNTLWVSMMYGINFMVALSSRI</span><span class="topo-outside">LKEMITPWIQMVAVWFILEGLSRVKLSRK</span><span class="topo-unknown">FWSHP</span></span>
-<span class="topo-line"><span class="topo-unknown">QFEK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MKSESKV</span><span class="topo-outside">SSKLELRELVLLAMVIAIKVILGQFKVGNATLQVGLGFIGSVMLGYLFGPWWGFAGGALSDLVSSVIFGNLGGFFIG</span><span class="topo-unknown">FTLTAALGPMIYGFFL</span><span class="topo-outside">YKQPIQIWRVIASVICVTVI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180    </span>
+<span class="topo-line"><span class="topo-outside">CNI</span><span class="topo-unknown">GLNTLWVSMMYGINFMVALSSRI</span><span class="topo-outside">LKEMITPWIQMVAVWFILEGLSRVKLSRK</span><span class="topo-unknown">FWSHPQFEK</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -443,6 +454,7 @@ ECF-FoIT is a group II energy-coupling factor (ECF) transporter from Lactobacill
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -458,11 +470,13 @@ ECF-FoIT is a group II energy-coupling factor (ECF) transporter from Lactobacill
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSKII</span><span class="topo-outside">IGRYLPGTTFVYRVDPRAKLL</span><span class="topo-membrane">TTFYFIIMIFLANNW</span><span class="topo-inside">V</span><span class="topo-membrane">SYLVISIFGLAYVFA</span><span class="topo-outside">TGL</span></span>
-<span class="topo-line"><span class="topo-outside">KA</span><span class="topo-unknown">RVFWDGV</span><span class="topo-outside">KPMI</span><span class="topo-membrane">WMIVFTSLLQTFFM</span><span class="topo-inside">AGGKVYWHWWIFTLSSEG</span><span class="topo-membrane">LINGLYVFIRFAMII</span></span>
-<span class="topo-line"><span class="topo-membrane">LV</span><span class="topo-outside">STVMTVTTKPLEIADAME</span><span class="topo-unknown">WMLTPL</span><span class="topo-outside">KLFKVNVGMISLVISIALRFVPTLFDQTVKIMNA</span></span>
-<span class="topo-line"><span class="topo-outside">QRSRGADFNDGGLVKRAKSVVPMLVPLFIDSLEVALDLSTAMESRGYKGSEGRTRYRILE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSKII</span><span class="topo-outside">IGRYLPGTTFVYRVDPRAKLL</span><span class="topo-membrane">TTFYFIIMIFLANNW</span><span class="topo-inside">V</span><span class="topo-membrane">SYLVISIFGLAYVFA</span><span class="topo-outside">TGLKA</span><span class="topo-unknown">RVFWDGV</span><span class="topo-outside">KPMI</span><span class="topo-membrane">WMIVFTSLLQTFFM</span><span class="topo-inside">AGGKVYWHWWIFTLSSEG</span><span class="topo-membrane">LINGLYVFIRFAMII</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">LV</span><span class="topo-outside">STVMTVTTKPLEIADAME</span><span class="topo-unknown">WMLTPL</span><span class="topo-outside">KLFKVNVGMISLVISIALRFVPTLFDQTVKIMNAQRSRGADFNDGGLVKRAKSVVPMLVPLFIDSLEVALDLSTAMESRGYKGSEGRTRYRILE</span></span>
+<span class="topo-ruler">       250       260     </span>
 <span class="topo-line"><span class="topo-outside">WSKVD</span><span class="topo-membrane">LIPVAYCLLLTILMI</span><span class="topo-inside">TTRK</span><span class="topo-unknown">H</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -579,6 +593,7 @@ ECF-FoIT is a group II energy-coupling factor (ECF) transporter from Lactobacill
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

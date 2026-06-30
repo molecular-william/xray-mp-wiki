@@ -151,9 +151,11 @@ novel sigma-2 ligands with nanomolar potency.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GPGGSSMGT</span><span class="topo-outside">LGA</span><span class="topo-membrane">RRGLEWFLGFYFLSHIPITLLMDLQGVLPRD</span><span class="topo-inside">LYPVELRNLQQWYIEEF</span></span>
-<span class="topo-line"><span class="topo-inside">KDPLLQTP</span><span class="topo-membrane">PAWFKSFLFCELVFQLPFFPIAAYAFF</span><span class="topo-outside">KGGCKWI</span><span class="topo-membrane">RTPAIIYSVHTMTTLIPI</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GPGGSSMGT</span><span class="topo-outside">LGA</span><span class="topo-membrane">RRGLEWFLGFYFLSHIPITLLMDLQGVLPRD</span><span class="topo-inside">LYPVELRNLQQWYIEEFKDPLLQTP</span><span class="topo-membrane">PAWFKSFLFCELVFQLPFFPIAAYAFF</span><span class="topo-outside">KGGCKWI</span><span class="topo-membrane">RTPAIIYSVHTMTTLIPI</span></span>
+<span class="topo-ruler">       130       140       150       160       170    </span>
 <span class="topo-line"><span class="topo-membrane">LSTLLL</span><span class="topo-inside">DDFSKASHFRGQGPKTFQ</span><span class="topo-membrane">ERLFLISVYIPYFLIPLILLLFMVR</span><span class="topo-outside">NPYYK</span></span>
+<details class="topo-details"><summary>Topology coordinates (10 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -235,6 +237,7 @@ novel sigma-2 ligands with nanomolar potency.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -250,9 +253,11 @@ novel sigma-2 ligands with nanomolar potency.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GPGGSSMG</span><span class="topo-outside">TLGA</span><span class="topo-membrane">RRGLEWFLGFYFLSHIPITLLMDLQGVLPRD</span><span class="topo-inside">LYPVELRNLQQWYIEEF</span></span>
-<span class="topo-line"><span class="topo-inside">KDPLLQTP</span><span class="topo-membrane">PAWFKSFLFCELVFQLPFFPIAAYAFF</span><span class="topo-outside">KGGCKW</span><span class="topo-membrane">IRTPAIIYSVHTMTTLIPI</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GPGGSSMG</span><span class="topo-outside">TLGA</span><span class="topo-membrane">RRGLEWFLGFYFLSHIPITLLMDLQGVLPRD</span><span class="topo-inside">LYPVELRNLQQWYIEEFKDPLLQTP</span><span class="topo-membrane">PAWFKSFLFCELVFQLPFFPIAAYAFF</span><span class="topo-outside">KGGCKW</span><span class="topo-membrane">IRTPAIIYSVHTMTTLIPI</span></span>
+<span class="topo-ruler">       130       140       150       160       170    </span>
 <span class="topo-line"><span class="topo-membrane">LSTLLL</span><span class="topo-inside">DDFSKASHFRGQGPKTFQER</span><span class="topo-membrane">LFLISVYIPYFLIPLILLLFMVR</span><span class="topo-outside">NPYY</span><span class="topo-unknown">K</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -341,6 +346,7 @@ novel sigma-2 ligands with nanomolar potency.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -356,9 +362,11 @@ novel sigma-2 ligands with nanomolar potency.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GPGGSSMGT</span><span class="topo-outside">LGA</span><span class="topo-membrane">RRGLEWFLGFYFLSHIPITLLMDLQGVLPRD</span><span class="topo-inside">LYPVELRNLQQWYIEEF</span></span>
-<span class="topo-line"><span class="topo-inside">KDPLLQTP</span><span class="topo-membrane">PAWFKSFLFCELVFQLPFFPIAAYAFF</span><span class="topo-outside">KGGCKWI</span><span class="topo-membrane">RTPAIIYSVHTMTTLIPI</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GPGGSSMGT</span><span class="topo-outside">LGA</span><span class="topo-membrane">RRGLEWFLGFYFLSHIPITLLMDLQGVLPRD</span><span class="topo-inside">LYPVELRNLQQWYIEEFKDPLLQTP</span><span class="topo-membrane">PAWFKSFLFCELVFQLPFFPIAAYAFF</span><span class="topo-outside">KGGCKWI</span><span class="topo-membrane">RTPAIIYSVHTMTTLIPI</span></span>
+<span class="topo-ruler">       130       140       150       160       170    </span>
 <span class="topo-line"><span class="topo-membrane">LSTLLL</span><span class="topo-inside">DDFSKASHFRGQGPKTFQ</span><span class="topo-membrane">ERLFLISVYIPYFLIPLILLLFMVR</span><span class="topo-outside">NPYYK</span></span>
+<details class="topo-details"><summary>Topology coordinates (10 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -440,6 +448,7 @@ novel sigma-2 ligands with nanomolar potency.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -455,9 +464,11 @@ novel sigma-2 ligands with nanomolar potency.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GPGGSSMG</span><span class="topo-outside">TLGA</span><span class="topo-membrane">RRGLEWFLGFYFLSHIPITLLMDLQGVLPRD</span><span class="topo-inside">LYPVELRNLQQWYIEEF</span></span>
-<span class="topo-line"><span class="topo-inside">KDPLLQTP</span><span class="topo-membrane">PAWFKSFLFCELVFQLPFFPIAAYAFF</span><span class="topo-outside">KGGCKW</span><span class="topo-membrane">IRTPAIIYSVHTMTTLIPI</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GPGGSSMG</span><span class="topo-outside">TLGA</span><span class="topo-membrane">RRGLEWFLGFYFLSHIPITLLMDLQGVLPRD</span><span class="topo-inside">LYPVELRNLQQWYIEEFKDPLLQTP</span><span class="topo-membrane">PAWFKSFLFCELVFQLPFFPIAAYAFF</span><span class="topo-outside">KGGCKW</span><span class="topo-membrane">IRTPAIIYSVHTMTTLIPI</span></span>
+<span class="topo-ruler">       130       140       150       160       170    </span>
 <span class="topo-line"><span class="topo-membrane">LSTLLL</span><span class="topo-inside">DDFSKASHFRGQGPKTFQER</span><span class="topo-membrane">LFLISVYIPYFLIPLILLLFMVR</span><span class="topo-outside">NPYY</span><span class="topo-unknown">K</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -546,6 +557,7 @@ novel sigma-2 ligands with nanomolar potency.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -561,9 +573,11 @@ novel sigma-2 ligands with nanomolar potency.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GPGGSSMGT</span><span class="topo-outside">LGA</span><span class="topo-membrane">RRGLEWFLGFYFLSHIPITLLMDLQGVLPRD</span><span class="topo-inside">LYPVELRNLQQWYIEEF</span></span>
-<span class="topo-line"><span class="topo-inside">KDPLLQTP</span><span class="topo-membrane">PAWFKSFLFCELVFQLPFFPIAAYAFF</span><span class="topo-outside">KGGCKWI</span><span class="topo-membrane">RTPAIIYSVHTMTTLIPI</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GPGGSSMGT</span><span class="topo-outside">LGA</span><span class="topo-membrane">RRGLEWFLGFYFLSHIPITLLMDLQGVLPRD</span><span class="topo-inside">LYPVELRNLQQWYIEEFKDPLLQTP</span><span class="topo-membrane">PAWFKSFLFCELVFQLPFFPIAAYAFF</span><span class="topo-outside">KGGCKWI</span><span class="topo-membrane">RTPAIIYSVHTMTTLIPI</span></span>
+<span class="topo-ruler">       130       140       150       160       170    </span>
 <span class="topo-line"><span class="topo-membrane">LSTLLL</span><span class="topo-inside">DDFSKASHFRGQGPKTFQ</span><span class="topo-membrane">ERLFLISVYIPYFLIPLILLLFMVR</span><span class="topo-outside">NPYYK</span></span>
+<details class="topo-details"><summary>Topology coordinates (10 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -645,6 +659,7 @@ novel sigma-2 ligands with nanomolar potency.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -660,9 +675,11 @@ novel sigma-2 ligands with nanomolar potency.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GPGGSSMG</span><span class="topo-outside">TLGA</span><span class="topo-membrane">RRGLEWFLGFYFLSHIPITLLMDLQGVLPRD</span><span class="topo-inside">LYPVELRNLQQWYIEEF</span></span>
-<span class="topo-line"><span class="topo-inside">KDPLLQTP</span><span class="topo-membrane">PAWFKSFLFCELVFQLPFFPIAAYAFF</span><span class="topo-outside">KGGCKW</span><span class="topo-membrane">IRTPAIIYSVHTMTTLIPI</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GPGGSSMG</span><span class="topo-outside">TLGA</span><span class="topo-membrane">RRGLEWFLGFYFLSHIPITLLMDLQGVLPRD</span><span class="topo-inside">LYPVELRNLQQWYIEEFKDPLLQTP</span><span class="topo-membrane">PAWFKSFLFCELVFQLPFFPIAAYAFF</span><span class="topo-outside">KGGCKW</span><span class="topo-membrane">IRTPAIIYSVHTMTTLIPI</span></span>
+<span class="topo-ruler">       130       140       150       160       170    </span>
 <span class="topo-line"><span class="topo-membrane">LSTLLL</span><span class="topo-inside">DDFSKASHFRGQGPKTFQER</span><span class="topo-membrane">LFLISVYIPYFLIPLILLLFMVR</span><span class="topo-outside">NPYY</span><span class="topo-unknown">K</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -751,6 +768,7 @@ novel sigma-2 ligands with nanomolar potency.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

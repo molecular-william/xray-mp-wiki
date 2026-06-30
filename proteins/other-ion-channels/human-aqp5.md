@@ -138,11 +138,13 @@ Human Aquaporin 5 (HsAQP5) is a water-selective channel protein belonging to the
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">SKKEVCSVAFLKA</span><span class="topo-membrane">VFAEFLATLIFVFFGLGS</span><span class="topo-outside">ALKWPSALPTIL</span><span class="topo-membrane">QIALAFGLAIGTLAQA</span></span>
-<span class="topo-line"><span class="topo-membrane">LG</span><span class="topo-inside">PVS</span><span class="topo-unknown">GGHINPAITLALLVG</span><span class="topo-inside">NQISLLR</span><span class="topo-membrane">AFFYVAAQLVGAIAGAGIL</span><span class="topo-outside">YGVAPLNARGNLAV</span></span>
-<span class="topo-line"><span class="topo-outside">NALNNNTTQGQAM</span><span class="topo-membrane">VVELILTFQLALCIFAS</span><span class="topo-inside">TDSRRTSPVG</span><span class="topo-membrane">SPALSIGLSVTLGHLVG</span><span class="topo-outside">IYF</span></span>
-<span class="topo-line"><span class="topo-outside">TGC</span><span class="topo-unknown">SMNPARSFGP</span><span class="topo-outside">AVVMNRFSPAHW</span><span class="topo-membrane">VFWVGPIVGAVLAAILY</span><span class="topo-inside">FYLLFPNSLSLSERVAII</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">SKKEVCSVAFLKA</span><span class="topo-membrane">VFAEFLATLIFVFFGLGS</span><span class="topo-outside">ALKWPSALPTIL</span><span class="topo-membrane">QIALAFGLAIGTLAQALG</span><span class="topo-inside">PVS</span><span class="topo-unknown">GGHINPAITLALLVG</span><span class="topo-inside">NQISLLR</span><span class="topo-membrane">AFFYVAAQLVGAIAGAGIL</span><span class="topo-outside">YGVAPLNARGNLAV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">NALNNNTTQGQAM</span><span class="topo-membrane">VVELILTFQLALCIFAS</span><span class="topo-inside">TDSRRTSPVG</span><span class="topo-membrane">SPALSIGLSVTLGHLVG</span><span class="topo-outside">IYFTGC</span><span class="topo-unknown">SMNPARSFGP</span><span class="topo-outside">AVVMNRFSPAHW</span><span class="topo-membrane">VFWVGPIVGAVLAAILY</span><span class="topo-inside">FYLLFPNSLSLSERVAII</span></span>
+<span class="topo-ruler">       250       260      </span>
 <span class="topo-line"><span class="topo-inside">KGTYEP</span><span class="topo-unknown">DEDWEEQREERKKTMELTTR</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -280,6 +282,7 @@ Human Aquaporin 5 (HsAQP5) is a water-selective channel protein belonging to the
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -295,11 +298,13 @@ Human Aquaporin 5 (HsAQP5) is a water-selective channel protein belonging to the
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">SKKEVCSVAFLKAV</span><span class="topo-membrane">FAEFLATLIFVFFGLGS</span><span class="topo-outside">ALKWPSALPTIL</span><span class="topo-membrane">QIALAFGLAIGTLAQA</span></span>
-<span class="topo-line"><span class="topo-membrane">LG</span><span class="topo-inside">PVSGG</span><span class="topo-unknown">HINPAITLAL</span><span class="topo-inside">LVGNQISLLRA</span><span class="topo-membrane">FFYVAAQLVGAIAGAGIL</span><span class="topo-outside">YGVAPLNARGNLAV</span></span>
-<span class="topo-line"><span class="topo-outside">NALNNNTTQG</span><span class="topo-membrane">QAMVVELILTFQLALCIF</span><span class="topo-inside">ASTDSRRTSPVG</span><span class="topo-membrane">SPALSIGLSVTLGHLVGI</span><span class="topo-outside">YF</span></span>
-<span class="topo-line"><span class="topo-outside">TGC</span><span class="topo-unknown">SMNPARSFGPAVV</span><span class="topo-outside">MNRFSPAH</span><span class="topo-membrane">WVFWVGPIVGAVLAAIL</span><span class="topo-inside">YFYLLFPNSLSLSERVAII</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">SKKEVCSVAFLKAV</span><span class="topo-membrane">FAEFLATLIFVFFGLGS</span><span class="topo-outside">ALKWPSALPTIL</span><span class="topo-membrane">QIALAFGLAIGTLAQALG</span><span class="topo-inside">PVSGG</span><span class="topo-unknown">HINPAITLAL</span><span class="topo-inside">LVGNQISLLRA</span><span class="topo-membrane">FFYVAAQLVGAIAGAGIL</span><span class="topo-outside">YGVAPLNARGNLAV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">NALNNNTTQG</span><span class="topo-membrane">QAMVVELILTFQLALCIF</span><span class="topo-inside">ASTDSRRTSPVG</span><span class="topo-membrane">SPALSIGLSVTLGHLVGI</span><span class="topo-outside">YFTGC</span><span class="topo-unknown">SMNPARSFGPAVV</span><span class="topo-outside">MNRFSPAH</span><span class="topo-membrane">WVFWVGPIVGAVLAAIL</span><span class="topo-inside">YFYLLFPNSLSLSERVAII</span></span>
+<span class="topo-ruler">       250       260      </span>
 <span class="topo-line"><span class="topo-inside">KGTYEP</span><span class="topo-unknown">DEDWEEQREERKKTMELTTR</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -437,6 +442,7 @@ Human Aquaporin 5 (HsAQP5) is a water-selective channel protein belonging to the
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -452,11 +458,13 @@ Human Aquaporin 5 (HsAQP5) is a water-selective channel protein belonging to the
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSK</span><span class="topo-inside">KEVCSVAFLKAV</span><span class="topo-membrane">FAEFLATLIFVFFGLGS</span><span class="topo-outside">ALKWPSALPTIL</span><span class="topo-membrane">QIALAFGLAIGTLAQA</span></span>
-<span class="topo-line"><span class="topo-membrane">LG</span><span class="topo-inside">PVSGG</span><span class="topo-unknown">HINPAITLAL</span><span class="topo-inside">LVGNQISLLRA</span><span class="topo-membrane">FFYVAAQLVGAIAGAGILYGV</span><span class="topo-outside">APLNARGNLAV</span></span>
-<span class="topo-line"><span class="topo-outside">NALNNNTTQG</span><span class="topo-membrane">QAMVVELILTFQLALCIFAS</span><span class="topo-inside">TDSRRTSPVG</span><span class="topo-membrane">SPALSIGLSVTLGHLVGI</span><span class="topo-outside">YF</span></span>
-<span class="topo-line"><span class="topo-outside">TGC</span><span class="topo-unknown">SMNPARSFGPAVV</span><span class="topo-outside">MNRFSPAH</span><span class="topo-membrane">WVFWVGPIVGAVLAAIL</span><span class="topo-inside">YFYLLFPNSLSLSERVAII</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSK</span><span class="topo-inside">KEVCSVAFLKAV</span><span class="topo-membrane">FAEFLATLIFVFFGLGS</span><span class="topo-outside">ALKWPSALPTIL</span><span class="topo-membrane">QIALAFGLAIGTLAQALG</span><span class="topo-inside">PVSGG</span><span class="topo-unknown">HINPAITLAL</span><span class="topo-inside">LVGNQISLLRA</span><span class="topo-membrane">FFYVAAQLVGAIAGAGILYGV</span><span class="topo-outside">APLNARGNLAV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">NALNNNTTQG</span><span class="topo-membrane">QAMVVELILTFQLALCIFAS</span><span class="topo-inside">TDSRRTSPVG</span><span class="topo-membrane">SPALSIGLSVTLGHLVGI</span><span class="topo-outside">YFTGC</span><span class="topo-unknown">SMNPARSFGPAVV</span><span class="topo-outside">MNRFSPAH</span><span class="topo-membrane">WVFWVGPIVGAVLAAIL</span><span class="topo-inside">YFYLLFPNSLSLSERVAII</span></span>
+<span class="topo-ruler">       250       260      </span>
 <span class="topo-line"><span class="topo-inside">KGTYEP</span><span class="topo-unknown">DEDWEEQREERKKTMELTTR</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -601,6 +609,7 @@ Human Aquaporin 5 (HsAQP5) is a water-selective channel protein belonging to the
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -616,11 +625,13 @@ Human Aquaporin 5 (HsAQP5) is a water-selective channel protein belonging to the
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">SKKEVCSVAFLK</span><span class="topo-membrane">AVFAEFLATLIFVFFGLGS</span><span class="topo-outside">ALKWPSALPTIL</span><span class="topo-membrane">QIALAFGLAIGTLAQA</span></span>
-<span class="topo-line"><span class="topo-membrane">LG</span><span class="topo-inside">PVS</span><span class="topo-unknown">GGHINPAITLALLV</span><span class="topo-inside">GNQISLL</span><span class="topo-membrane">RAFFYVAAQLVGAIAGAGIL</span><span class="topo-outside">YGVAPLNARGNLAV</span></span>
-<span class="topo-line"><span class="topo-outside">NALNNNTTQGQA</span><span class="topo-membrane">MVVELILTFQLALCIFAS</span><span class="topo-inside">TDSRRTSPVG</span><span class="topo-membrane">SPALSIGLSVTLGHLVG</span><span class="topo-outside">IYF</span></span>
-<span class="topo-line"><span class="topo-outside">TGC</span><span class="topo-unknown">SMNPARSFGP</span><span class="topo-outside">AVVMNRFSPAHW</span><span class="topo-membrane">VFWVGPIVGAVLAAILY</span><span class="topo-inside">FYLLFPNSLSLSERVAII</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">SKKEVCSVAFLK</span><span class="topo-membrane">AVFAEFLATLIFVFFGLGS</span><span class="topo-outside">ALKWPSALPTIL</span><span class="topo-membrane">QIALAFGLAIGTLAQALG</span><span class="topo-inside">PVS</span><span class="topo-unknown">GGHINPAITLALLV</span><span class="topo-inside">GNQISLL</span><span class="topo-membrane">RAFFYVAAQLVGAIAGAGIL</span><span class="topo-outside">YGVAPLNARGNLAV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">NALNNNTTQGQA</span><span class="topo-membrane">MVVELILTFQLALCIFAS</span><span class="topo-inside">TDSRRTSPVG</span><span class="topo-membrane">SPALSIGLSVTLGHLVG</span><span class="topo-outside">IYFTGC</span><span class="topo-unknown">SMNPARSFGP</span><span class="topo-outside">AVVMNRFSPAHW</span><span class="topo-membrane">VFWVGPIVGAVLAAILY</span><span class="topo-inside">FYLLFPNSLSLSERVAII</span></span>
+<span class="topo-ruler">       250       260      </span>
 <span class="topo-line"><span class="topo-inside">KGTYEP</span><span class="topo-unknown">DEDWEEQREERKKTMELTTR</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -758,6 +769,7 @@ Human Aquaporin 5 (HsAQP5) is a water-selective channel protein belonging to the
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

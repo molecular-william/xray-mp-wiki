@@ -193,9 +193,11 @@ FLAP (5-lipoxygenase activating protein, also known as ALOX5AP) is an integral m
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MDQETVGNVVL</span><span class="topo-membrane">LAIVTLISVVQNGFFAHKVEHE</span><span class="topo-outside">SRTQNGRSFQRTGTLAFERV</span><span class="topo-membrane">YTANQNC</span></span>
-<span class="topo-line"><span class="topo-membrane">VDAYPTFLAVLWSAG</span><span class="topo-inside">LLCSQVP</span><span class="topo-membrane">AAFAGLMYLFVRQKYFVGYLG</span><span class="topo-outside">ERTQST</span><span class="topo-membrane">PGYIFGKRIIL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">MDQETVGNVVL</span><span class="topo-membrane">LAIVTLISVVQNGFFAHKVEHE</span><span class="topo-outside">SRTQNGRSFQRTGTLAFERV</span><span class="topo-membrane">YTANQNCVDAYPTFLAVLWSAG</span><span class="topo-inside">LLCSQVP</span><span class="topo-membrane">AAFAGLMYLFVRQKYFVGYLG</span><span class="topo-outside">ERTQST</span><span class="topo-membrane">PGYIFGKRIIL</span></span>
+<span class="topo-ruler">       130       140       150       160 </span>
 <span class="topo-line"><span class="topo-membrane">FLFLMSVA</span><span class="topo-inside">GIFNYYLIFFF</span><span class="topo-unknown">GSDFENYIATISTTISPLLLIP</span></span>
+<details class="topo-details"><summary>Topology coordinates (10 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -277,6 +279,7 @@ FLAP (5-lipoxygenase activating protein, also known as ALOX5AP) is an integral m
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -292,9 +295,11 @@ FLAP (5-lipoxygenase activating protein, also known as ALOX5AP) is an integral m
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MDQETVGNVVL</span><span class="topo-membrane">LAIVTLISVVQNGFFAHKVEHE</span><span class="topo-outside">SRTQNGRSFQRTGTLAFERV</span><span class="topo-membrane">YTANQNC</span></span>
-<span class="topo-line"><span class="topo-membrane">VDAYPTFLAVLWSAG</span><span class="topo-inside">LLCSQVP</span><span class="topo-membrane">AAFAGLMYLFVRQKYFVGYL</span><span class="topo-outside">GERTQS</span><span class="topo-membrane">TPGYIFGKRIIL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">MDQETVGNVVL</span><span class="topo-membrane">LAIVTLISVVQNGFFAHKVEHE</span><span class="topo-outside">SRTQNGRSFQRTGTLAFERV</span><span class="topo-membrane">YTANQNCVDAYPTFLAVLWSAG</span><span class="topo-inside">LLCSQVP</span><span class="topo-membrane">AAFAGLMYLFVRQKYFVGYL</span><span class="topo-outside">GERTQS</span><span class="topo-membrane">TPGYIFGKRIIL</span></span>
+<span class="topo-ruler">       130       140       150       160 </span>
 <span class="topo-line"><span class="topo-membrane">FLFLMSVA</span><span class="topo-inside">GIFNYYLIFFFGSDFENYIA</span><span class="topo-unknown">TISTTISPLLLIP</span></span>
+<details class="topo-details"><summary>Topology coordinates (10 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -376,6 +381,7 @@ FLAP (5-lipoxygenase activating protein, also known as ALOX5AP) is an integral m
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -391,9 +397,11 @@ FLAP (5-lipoxygenase activating protein, also known as ALOX5AP) is an integral m
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MDQETVGNVVL</span><span class="topo-membrane">LAIVTLISVVQNGFFAHKVEHES</span><span class="topo-outside">RTQNGRSFQRTGTLAFERV</span><span class="topo-membrane">YTANQNC</span></span>
-<span class="topo-line"><span class="topo-membrane">VDAYPTFLAVLWSAG</span><span class="topo-inside">LLCSQVP</span><span class="topo-membrane">AAFAGLMYLFVRQKYFVGYLG</span><span class="topo-outside">ERTQS</span><span class="topo-membrane">TPGYIFGKRIIL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">MDQETVGNVVL</span><span class="topo-membrane">LAIVTLISVVQNGFFAHKVEHES</span><span class="topo-outside">RTQNGRSFQRTGTLAFERV</span><span class="topo-membrane">YTANQNCVDAYPTFLAVLWSAG</span><span class="topo-inside">LLCSQVP</span><span class="topo-membrane">AAFAGLMYLFVRQKYFVGYLG</span><span class="topo-outside">ERTQS</span><span class="topo-membrane">TPGYIFGKRIIL</span></span>
+<span class="topo-ruler">       130       140       150       160 </span>
 <span class="topo-line"><span class="topo-membrane">FLFLMSVA</span><span class="topo-inside">GIFNYYLIFFFGSDFENYIAT</span><span class="topo-unknown">ISTTISPLLLIP</span></span>
+<details class="topo-details"><summary>Topology coordinates (10 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -475,6 +483,7 @@ FLAP (5-lipoxygenase activating protein, also known as ALOX5AP) is an integral m
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

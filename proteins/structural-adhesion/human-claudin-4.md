@@ -131,10 +131,11 @@ receptor, in contrast to mice where CLDN-3 and CLDN-8 serve this role.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MASM</span><span class="topo-outside">GLQ</span><span class="topo-membrane">VMGIALAVLGWLAVMLCCALPMW</span><span class="topo-inside">RVTAFIGSNIVTSQTIWEGLWMNCVVQSTG</span></span>
-<span class="topo-line"><span class="topo-inside">QMQCKVYDSLLALPQ</span><span class="topo-membrane">DLQAARALVIISIIVAALGVLLSVV</span><span class="topo-outside">GGKCTNCLEDESAKAKTM</span><span class="topo-membrane">IV</span></span>
-<span class="topo-line"><span class="topo-membrane">AGVVFLLAGLMVIVPVSWTAHN</span><span class="topo-inside">IIQDFYNPLVASGQKREM</span><span class="topo-membrane">GASLYVGWAASGLLLLGGGL</span></span>
-<span class="topo-line"><span class="topo-membrane">LCC</span><span class="topo-outside">NCP</span><span class="topo-unknown">PRTDKPYSAKYSAARSAAASNYVGLVPR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MASM</span><span class="topo-outside">GLQ</span><span class="topo-membrane">VMGIALAVLGWLAVMLCCALPMW</span><span class="topo-inside">RVTAFIGSNIVTSQTIWEGLWMNCVVQSTGQMQCKVYDSLLALPQ</span><span class="topo-membrane">DLQAARALVIISIIVAALGVLLSVV</span><span class="topo-outside">GGKCTNCLEDESAKAKTM</span><span class="topo-membrane">IV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210    </span>
+<span class="topo-line"><span class="topo-membrane">AGVVFLLAGLMVIVPVSWTAHN</span><span class="topo-inside">IIQDFYNPLVASGQKREM</span><span class="topo-membrane">GASLYVGWAASGLLLLGGGLLCC</span><span class="topo-outside">NCP</span><span class="topo-unknown">PRTDKPYSAKYSAARSAAASNYVGLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -209,6 +210,7 @@ receptor, in contrast to mice where CLDN-3 and CLDN-8 serve this role.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -224,9 +226,11 @@ receptor, in contrast to mice where CLDN-3 and CLDN-8 serve this role.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MSTDIEKEILDLAAATERLNLTDALNSNPAGNLYDWRSSNSYPWTQKLNLHLTITATGQK</span></span>
-<span class="topo-line"><span class="topo-inside">YRILASKIVDFNIYSNNFNNLVKLEQSLGDGVKDHYVDISLDAGQYVLVMKANSSYSGNY</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">MSTDIEKEILDLAAATERLNLTDALNSNPAGNLYDWRSSNSYPWTQKLNLHLTITATGQKYRILASKIVDFNIYSNNFNNLVKLEQSLGDGVKDHYVDISLDAGQYVLVMKANSSYSGNY</span></span>
+<span class="topo-ruler">       130    </span>
 <span class="topo-line"><span class="topo-inside">PYSILFQKFGLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -245,6 +249,7 @@ receptor, in contrast to mice where CLDN-3 and CLDN-8 serve this role.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

@@ -148,13 +148,15 @@ The jumping spider rhodopsin-1 (JSR1) from Hasarius adansoni is a class A G prot
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MLPHAAKMAARVAGDHDGR</span><span class="topo-inside">NISIVDLLPEDMLPMIHEHWYKFPPMETS</span><span class="topo-membrane">MHYILGMLIIVI</span></span>
-<span class="topo-line"><span class="topo-membrane">GIISVSGNGVVMYLMMT</span><span class="topo-outside">VKNLRTP</span><span class="topo-membrane">GNFLVLNLALSDFGMLFFMMPTMSI</span><span class="topo-inside">NCFAETWVIGP</span></span>
-<span class="topo-line"><span class="topo-inside">FMCE</span><span class="topo-membrane">LYGMIGSLFGSASIWSLVMITLD</span><span class="topo-outside">RYNVIVKGMAGKPLTK</span><span class="topo-membrane">VGALLRMLFVWIWSLGW</span></span>
-<span class="topo-line"><span class="topo-membrane">TIAPM</span><span class="topo-inside">YGWSRYVPEGSMTSCTIDYIDTAINPM</span><span class="topo-membrane">SYLIAYAIFVYFVPLFIIIYCYA</span><span class="topo-outside">FIVMQ</span></span>
-<span class="topo-line"><span class="topo-outside">VAAHEKSLREQAKKMN</span><span class="topo-unknown">IKSLRS</span><span class="topo-outside">NEDNKKASAEFRLAKV</span><span class="topo-membrane">AFMTICCWFMAWTPYLTLSFLG</span></span>
-<span class="topo-line"><span class="topo-membrane">IFS</span><span class="topo-inside">DRTWLTPM</span><span class="topo-membrane">TSVWGAIFAKASACYNPIVYGI</span><span class="topo-outside">SH</span><span class="topo-unknown">PKYRAALHDKFPCLKCGSDSPKGDS</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MLPHAAKMAARVAGDHDGR</span><span class="topo-inside">NISIVDLLPEDMLPMIHEHWYKFPPMETS</span><span class="topo-membrane">MHYILGMLIIVIGIISVSGNGVVMYLMMT</span><span class="topo-outside">VKNLRTP</span><span class="topo-membrane">GNFLVLNLALSDFGMLFFMMPTMSI</span><span class="topo-inside">NCFAETWVIGP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FMCE</span><span class="topo-membrane">LYGMIGSLFGSASIWSLVMITLD</span><span class="topo-outside">RYNVIVKGMAGKPLTK</span><span class="topo-membrane">VGALLRMLFVWIWSLGWTIAPM</span><span class="topo-inside">YGWSRYVPEGSMTSCTIDYIDTAINPM</span><span class="topo-membrane">SYLIAYAIFVYFVPLFIIIYCYA</span><span class="topo-outside">FIVMQ</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">VAAHEKSLREQAKKMN</span><span class="topo-unknown">IKSLRS</span><span class="topo-outside">NEDNKKASAEFRLAKV</span><span class="topo-membrane">AFMTICCWFMAWTPYLTLSFLGIFS</span><span class="topo-inside">DRTWLTPM</span><span class="topo-membrane">TSVWGAIFAKASACYNPIVYGI</span><span class="topo-outside">SH</span><span class="topo-unknown">PKYRAALHDKFPCLKCGSDSPKGDS</span></span>
+<span class="topo-ruler">       370       380</span>
 <span class="topo-line"><span class="topo-unknown">ASTVAESEKAGEETSQVAPA</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -278,6 +280,7 @@ The jumping spider rhodopsin-1 (JSR1) from Hasarius adansoni is a class A G prot
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

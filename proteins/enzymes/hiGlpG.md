@@ -143,10 +143,11 @@ HiGlpG is the rhomboid intramembrane protease from Haemophilus influenzae, a mem
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MEN</span><span class="topo-outside">FLAQQGK</span><span class="topo-membrane">ITLILTALCVLIYI</span><span class="topo-inside">AQQLGF</span><span class="topo-unknown">EDDIMYLM</span><span class="topo-inside">HYPAYEEQDSEV</span><span class="topo-unknown">WRYISHTLVH</span></span>
-<span class="topo-line"><span class="topo-inside">LSN</span><span class="topo-membrane">LHILFNLSWFFIFGG</span><span class="topo-outside">MIERTFGSV</span><span class="topo-membrane">KLLMLYVVASAITGYVQ</span><span class="topo-inside">NYVSGPAFFG</span><span class="topo-membrane">LSGVVY</span></span>
-<span class="topo-line"><span class="topo-membrane">AVLGY</span><span class="topo-outside">VFIRDKLNHHLFDLPEGF</span><span class="topo-membrane">FTMLLVGIALGFIS</span><span class="topo-inside">PLFGVEMGN</span><span class="topo-membrane">AAHISGLIVGLIW</span><span class="topo-outside">G</span></span>
-<span class="topo-line"><span class="topo-outside">FIDSKLRKNSLELVP</span><span class="topo-unknown">R</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MEN</span><span class="topo-outside">FLAQQGK</span><span class="topo-membrane">ITLILTALCVLIYI</span><span class="topo-inside">AQQLGF</span><span class="topo-unknown">EDDIMYLM</span><span class="topo-inside">HYPAYEEQDSEV</span><span class="topo-unknown">WRYISHTLVH</span><span class="topo-inside">LSN</span><span class="topo-membrane">LHILFNLSWFFIFGG</span><span class="topo-outside">MIERTFGSV</span><span class="topo-membrane">KLLMLYVVASAITGYVQ</span><span class="topo-inside">NYVSGPAFFG</span><span class="topo-membrane">LSGVVY</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190      </span>
+<span class="topo-line"><span class="topo-membrane">AVLGY</span><span class="topo-outside">VFIRDKLNHHLFDLPEGF</span><span class="topo-membrane">FTMLLVGIALGFIS</span><span class="topo-inside">PLFGVEMGN</span><span class="topo-membrane">AAHISGLIVGLIW</span><span class="topo-outside">GFIDSKLRKNSLELVP</span><span class="topo-unknown">R</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -291,6 +292,7 @@ HiGlpG is the rhomboid intramembrane protease from Haemophilus influenzae, a mem
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -435,10 +437,11 @@ HiGlpG is the rhomboid intramembrane protease from Haemophilus influenzae, a mem
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MENFLAQ</span><span class="topo-inside">QG</span><span class="topo-membrane">KITLILTALCVLIYIAQQL</span><span class="topo-outside">GF</span><span class="topo-unknown">EDDIMYLM</span><span class="topo-outside">HYPAYEEQDSEVW</span><span class="topo-unknown">RYISHTL</span><span class="topo-outside">VH</span></span>
-<span class="topo-line"><span class="topo-outside">L</span><span class="topo-membrane">SNLHILFNLSWFFIFGG</span><span class="topo-inside">MIERTFGS</span><span class="topo-membrane">VKLLMLYVVASAITGYVQNY</span><span class="topo-outside">VSGPAF</span><span class="topo-membrane">FGLSGVVY</span></span>
-<span class="topo-line"><span class="topo-membrane">AVLGYVFI</span><span class="topo-inside">RDKLNH</span><span class="topo-unknown">HLFDLPEGFFTMLLVGIALGFISPLFGVEMG</span><span class="topo-outside">N</span><span class="topo-membrane">AAHISGLIVGLIWG</span></span>
-<span class="topo-line"><span class="topo-membrane">FI</span><span class="topo-inside">DSKLRKNSLELVP</span><span class="topo-unknown">R</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MENFLAQ</span><span class="topo-inside">QG</span><span class="topo-membrane">KITLILTALCVLIYIAQQL</span><span class="topo-outside">GF</span><span class="topo-unknown">EDDIMYLM</span><span class="topo-outside">HYPAYEEQDSEVW</span><span class="topo-unknown">RYISHTL</span><span class="topo-outside">VHL</span><span class="topo-membrane">SNLHILFNLSWFFIFGG</span><span class="topo-inside">MIERTFGS</span><span class="topo-membrane">VKLLMLYVVASAITGYVQNY</span><span class="topo-outside">VSGPAF</span><span class="topo-membrane">FGLSGVVY</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190      </span>
+<span class="topo-line"><span class="topo-membrane">AVLGYVFI</span><span class="topo-inside">RDKLNH</span><span class="topo-unknown">HLFDLPEGFFTMLLVGIALGFISPLFGVEMG</span><span class="topo-outside">N</span><span class="topo-membrane">AAHISGLIVGLIWGFI</span><span class="topo-inside">DSKLRKNSLELVP</span><span class="topo-unknown">R</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -583,6 +586,7 @@ HiGlpG is the rhomboid intramembrane protease from Haemophilus influenzae, a mem
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

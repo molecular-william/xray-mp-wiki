@@ -130,14 +130,15 @@ SotB is a drug-proton antiporter (DHA) from the DHA1 family (TCDB: 2.A.1.2) of t
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGSSHHHHHHSSGLVPRGSHSDEVDAHMTTNTVSRK</span><span class="topo-inside">VAWLRVV</span><span class="topo-membrane">TLAVAAFIFNTTEFVPV</span></span>
-<span class="topo-line"><span class="topo-membrane">GL</span><span class="topo-outside">LSDIAQSFHMQTAQVG</span><span class="topo-membrane">IMLTIYAWVVALMSLPFMLMT</span><span class="topo-inside">SQVERRK</span><span class="topo-membrane">LLICLFVVFIASHV</span></span>
-<span class="topo-line"><span class="topo-membrane">LSFLS</span><span class="topo-outside">WSFT</span><span class="topo-membrane">VLVISRIGVAFAHAIFWSIT</span><span class="topo-inside">ASLAIRMA</span><span class="topo-unknown">PAGKR</span><span class="topo-inside">AQALS</span><span class="topo-membrane">LIATGTALAMVLG</span></span>
-<span class="topo-line"><span class="topo-membrane">LPLGRIVG</span><span class="topo-outside">QYFGW</span><span class="topo-membrane">RMTFFAIGIGALITLLCLIK</span><span class="topo-inside">LLP</span><span class="topo-unknown">LLPSEHSGSLK</span><span class="topo-inside">SLPLLFRRPALM</span><span class="topo-membrane">S</span></span>
-<span class="topo-line"><span class="topo-membrane">IYLLTVVVVTAHYTAYSYI</span><span class="topo-outside">EPFVQNIAGFSANFAT</span><span class="topo-membrane">ALLLLLGGAGIIGSVIFGKLG</span><span class="topo-inside">NQY</span><span class="topo-membrane">A</span></span>
-<span class="topo-line"><span class="topo-membrane">SALVSTAIALLLVCLALL</span><span class="topo-outside">LPAANSEIH</span><span class="topo-membrane">LGVLSIFWGIAMMIIGLGMQV</span><span class="topo-inside">KVLALAPDATDV</span></span>
-<span class="topo-line"><span class="topo-inside">AM</span><span class="topo-membrane">ALFSGIFNIGIGAGALVGNQ</span><span class="topo-outside">VSLHWSMSMI</span><span class="topo-membrane">GYVGAVPAFAALIWSIIIF</span><span class="topo-inside">RRWPVTL</span><span class="topo-unknown">EE</span></span>
-<span class="topo-line"><span class="topo-unknown">QTQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGSSHHHHHHSSGLVPRGSHSDEVDAHMTTNTVSRK</span><span class="topo-inside">VAWLRVV</span><span class="topo-membrane">TLAVAAFIFNTTEFVPVGL</span><span class="topo-outside">LSDIAQSFHMQTAQVG</span><span class="topo-membrane">IMLTIYAWVVALMSLPFMLMT</span><span class="topo-inside">SQVERRK</span><span class="topo-membrane">LLICLFVVFIASHV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">LSFLS</span><span class="topo-outside">WSFT</span><span class="topo-membrane">VLVISRIGVAFAHAIFWSIT</span><span class="topo-inside">ASLAIRMA</span><span class="topo-unknown">PAGKR</span><span class="topo-inside">AQALS</span><span class="topo-membrane">LIATGTALAMVLGLPLGRIVG</span><span class="topo-outside">QYFGW</span><span class="topo-membrane">RMTFFAIGIGALITLLCLIK</span><span class="topo-inside">LLP</span><span class="topo-unknown">LLPSEHSGSLK</span><span class="topo-inside">SLPLLFRRPALM</span><span class="topo-membrane">S</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">IYLLTVVVVTAHYTAYSYI</span><span class="topo-outside">EPFVQNIAGFSANFAT</span><span class="topo-membrane">ALLLLLGGAGIIGSVIFGKLG</span><span class="topo-inside">NQY</span><span class="topo-membrane">ASALVSTAIALLLVCLALL</span><span class="topo-outside">LPAANSEIH</span><span class="topo-membrane">LGVLSIFWGIAMMIIGLGMQV</span><span class="topo-inside">KVLALAPDATDV</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420   </span>
+<span class="topo-line"><span class="topo-inside">AM</span><span class="topo-membrane">ALFSGIFNIGIGAGALVGNQ</span><span class="topo-outside">VSLHWSMSMI</span><span class="topo-membrane">GYVGAVPAFAALIWSIIIF</span><span class="topo-inside">RRWPVTL</span><span class="topo-unknown">EEQTQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (27 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -338,6 +339,7 @@ SotB is a drug-proton antiporter (DHA) from the DHA1 family (TCDB: 2.A.1.2) of t
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -353,14 +355,15 @@ SotB is a drug-proton antiporter (DHA) from the DHA1 family (TCDB: 2.A.1.2) of t
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGSSHHHHHHSSGLVPRGSHSDEVDAHMTTNTVSRK</span><span class="topo-inside">VAWLRVV</span><span class="topo-membrane">TLAVAAFIFNTTEFVPV</span></span>
-<span class="topo-line"><span class="topo-membrane">GL</span><span class="topo-outside">LSDIAQSFHMQTAQVG</span><span class="topo-membrane">IMLTIYAWVVALMSLPFMLMT</span><span class="topo-inside">SQVERRK</span><span class="topo-membrane">LLICLFVVFIASHV</span></span>
-<span class="topo-line"><span class="topo-membrane">LSFLS</span><span class="topo-outside">WSFT</span><span class="topo-membrane">VLVISRIGVAFAHAIFWSIT</span><span class="topo-inside">ASLAIRMA</span><span class="topo-unknown">PAGKR</span><span class="topo-inside">AQALS</span><span class="topo-membrane">LIATGTALAMVLG</span></span>
-<span class="topo-line"><span class="topo-membrane">LPLGRIVG</span><span class="topo-outside">QYFGW</span><span class="topo-membrane">RMTFFAIGIGALITLLCLIK</span><span class="topo-inside">LLP</span><span class="topo-unknown">LLPSEHSGSLK</span><span class="topo-inside">SLPLLFRRPALM</span><span class="topo-membrane">S</span></span>
-<span class="topo-line"><span class="topo-membrane">IYLLTVVVVTAHYTAYSYI</span><span class="topo-outside">EPFVQNIAGFSANFAT</span><span class="topo-membrane">ALLLLLGGAGIIGSVIFGKLG</span><span class="topo-inside">NQY</span><span class="topo-membrane">A</span></span>
-<span class="topo-line"><span class="topo-membrane">SALVSTAIALLLVCLALL</span><span class="topo-outside">LPAANSEIH</span><span class="topo-membrane">LGVLSIFWGIAMMIIGLGMQV</span><span class="topo-inside">KVLALAPDATDV</span></span>
-<span class="topo-line"><span class="topo-inside">AM</span><span class="topo-membrane">ALFSGIFNIGIGAGALVGNQ</span><span class="topo-outside">VSLHWSMSMI</span><span class="topo-membrane">GYVGAVPAFAALIWSIIIF</span><span class="topo-inside">RRWPVTL</span><span class="topo-unknown">EE</span></span>
-<span class="topo-line"><span class="topo-unknown">QTQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGSSHHHHHHSSGLVPRGSHSDEVDAHMTTNTVSRK</span><span class="topo-inside">VAWLRVV</span><span class="topo-membrane">TLAVAAFIFNTTEFVPVGL</span><span class="topo-outside">LSDIAQSFHMQTAQVG</span><span class="topo-membrane">IMLTIYAWVVALMSLPFMLMT</span><span class="topo-inside">SQVERRK</span><span class="topo-membrane">LLICLFVVFIASHV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">LSFLS</span><span class="topo-outside">WSFT</span><span class="topo-membrane">VLVISRIGVAFAHAIFWSIT</span><span class="topo-inside">ASLAIRMA</span><span class="topo-unknown">PAGKR</span><span class="topo-inside">AQALS</span><span class="topo-membrane">LIATGTALAMVLGLPLGRIVG</span><span class="topo-outside">QYFGW</span><span class="topo-membrane">RMTFFAIGIGALITLLCLIK</span><span class="topo-inside">LLP</span><span class="topo-unknown">LLPSEHSGSLK</span><span class="topo-inside">SLPLLFRRPALM</span><span class="topo-membrane">S</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">IYLLTVVVVTAHYTAYSYI</span><span class="topo-outside">EPFVQNIAGFSANFAT</span><span class="topo-membrane">ALLLLLGGAGIIGSVIFGKLG</span><span class="topo-inside">NQY</span><span class="topo-membrane">ASALVSTAIALLLVCLALL</span><span class="topo-outside">LPAANSEIH</span><span class="topo-membrane">LGVLSIFWGIAMMIIGLGMQV</span><span class="topo-inside">KVLALAPDATDV</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420   </span>
+<span class="topo-line"><span class="topo-inside">AM</span><span class="topo-membrane">ALFSGIFNIGIGAGALVGNQ</span><span class="topo-outside">VSLHWSMSMI</span><span class="topo-membrane">GYVGAVPAFAALIWSIIIF</span><span class="topo-inside">RRWPVTL</span><span class="topo-unknown">EEQTQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (27 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -561,6 +564,7 @@ SotB is a drug-proton antiporter (DHA) from the DHA1 family (TCDB: 2.A.1.2) of t
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -576,14 +580,15 @@ SotB is a drug-proton antiporter (DHA) from the DHA1 family (TCDB: 2.A.1.2) of t
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGSSHHHHHHSSGLVPRGSHSDEVDAHMTTNTVSRK</span><span class="topo-inside">VAWLRVV</span><span class="topo-membrane">TLAVAAFIFNTTEFVPV</span></span>
-<span class="topo-line"><span class="topo-membrane">GL</span><span class="topo-outside">LSDIAQSFHMQTAQVG</span><span class="topo-membrane">IMLTIYAWVVALMSLPFMLMT</span><span class="topo-inside">SQVERRK</span><span class="topo-membrane">LLICLFVVFIASHV</span></span>
-<span class="topo-line"><span class="topo-membrane">LSFLS</span><span class="topo-outside">WSFT</span><span class="topo-membrane">VLVISRIGVAFAHAIFWSIT</span><span class="topo-inside">ASLAIRMA</span><span class="topo-unknown">PAGKR</span><span class="topo-inside">AQALS</span><span class="topo-membrane">LIATGTALAMVLG</span></span>
-<span class="topo-line"><span class="topo-membrane">LPLGRIVG</span><span class="topo-outside">QYFGW</span><span class="topo-membrane">RMTFFAIGIGALITLLCLIK</span><span class="topo-inside">LLP</span><span class="topo-unknown">LLPSEHSGSLK</span><span class="topo-inside">SLPLLFRRPALM</span><span class="topo-membrane">S</span></span>
-<span class="topo-line"><span class="topo-membrane">IYLLTVVVVTAHYTAYSYI</span><span class="topo-outside">EPFVQNIAGFSANFAT</span><span class="topo-membrane">ALLLLLGGAGIIGSVIFGKLG</span><span class="topo-inside">NQY</span><span class="topo-membrane">A</span></span>
-<span class="topo-line"><span class="topo-membrane">SALVSTAIALLLVCLALL</span><span class="topo-outside">LPAANSEIH</span><span class="topo-membrane">LGVLSIFWGIAMMIIGLGMQV</span><span class="topo-inside">KVLALAPDATDV</span></span>
-<span class="topo-line"><span class="topo-inside">AM</span><span class="topo-membrane">ALFSGIFNIGIGAGALVGNQ</span><span class="topo-outside">VSLHWSMSMI</span><span class="topo-membrane">GYVGAVPAFAALIWSIIIF</span><span class="topo-inside">RRWPVTL</span><span class="topo-unknown">EE</span></span>
-<span class="topo-line"><span class="topo-unknown">QTQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGSSHHHHHHSSGLVPRGSHSDEVDAHMTTNTVSRK</span><span class="topo-inside">VAWLRVV</span><span class="topo-membrane">TLAVAAFIFNTTEFVPVGL</span><span class="topo-outside">LSDIAQSFHMQTAQVG</span><span class="topo-membrane">IMLTIYAWVVALMSLPFMLMT</span><span class="topo-inside">SQVERRK</span><span class="topo-membrane">LLICLFVVFIASHV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">LSFLS</span><span class="topo-outside">WSFT</span><span class="topo-membrane">VLVISRIGVAFAHAIFWSIT</span><span class="topo-inside">ASLAIRMA</span><span class="topo-unknown">PAGKR</span><span class="topo-inside">AQALS</span><span class="topo-membrane">LIATGTALAMVLGLPLGRIVG</span><span class="topo-outside">QYFGW</span><span class="topo-membrane">RMTFFAIGIGALITLLCLIK</span><span class="topo-inside">LLP</span><span class="topo-unknown">LLPSEHSGSLK</span><span class="topo-inside">SLPLLFRRPALM</span><span class="topo-membrane">S</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">IYLLTVVVVTAHYTAYSYI</span><span class="topo-outside">EPFVQNIAGFSANFAT</span><span class="topo-membrane">ALLLLLGGAGIIGSVIFGKLG</span><span class="topo-inside">NQY</span><span class="topo-membrane">ASALVSTAIALLLVCLALL</span><span class="topo-outside">LPAANSEIH</span><span class="topo-membrane">LGVLSIFWGIAMMIIGLGMQV</span><span class="topo-inside">KVLALAPDATDV</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420   </span>
+<span class="topo-line"><span class="topo-inside">AM</span><span class="topo-membrane">ALFSGIFNIGIGAGALVGNQ</span><span class="topo-outside">VSLHWSMSMI</span><span class="topo-membrane">GYVGAVPAFAALIWSIIIF</span><span class="topo-inside">RRWPVTL</span><span class="topo-unknown">EEQTQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (27 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -784,6 +789,7 @@ SotB is a drug-proton antiporter (DHA) from the DHA1 family (TCDB: 2.A.1.2) of t
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

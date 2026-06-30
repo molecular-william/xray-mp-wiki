@@ -147,10 +147,11 @@ without being metastably trapped at E81, unlike other proton pumps.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MEQI</span><span class="topo-membrane">IFYLGIGMFILSTIMFFF</span><span class="topo-outside">LKKKNAKLAS</span><span class="topo-membrane">INIIVSFVTIVSYILML</span><span class="topo-inside">SGLFTLSATSG</span></span>
-<span class="topo-line"><span class="topo-inside">DTIY</span><span class="topo-membrane">WTRWAFYAVSCSFLMV</span><span class="topo-outside">EISYLLRIDNTTRL</span><span class="topo-membrane">EILVFNSMVMITGLFAS</span><span class="topo-inside">ISEDLY</span><span class="topo-membrane">KWL</span></span>
-<span class="topo-line"><span class="topo-membrane">FFIISSVAYLNVLFL</span><span class="topo-outside">IAKNRSEKKAII</span><span class="topo-membrane">LFVAIFWSGFPIVWILS</span><span class="topo-inside">PAGLMVLNAFW</span><span class="topo-membrane">TALFY</span></span>
-<span class="topo-line"><span class="topo-membrane">LVLDFITKIYFGF</span><span class="topo-outside">HTTFKH</span><span class="topo-unknown">IEQLEHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">MEQI</span><span class="topo-membrane">IFYLGIGMFILSTIMFFF</span><span class="topo-outside">LKKKNAKLAS</span><span class="topo-membrane">INIIVSFVTIVSYILML</span><span class="topo-inside">SGLFTLSATSGDTIY</span><span class="topo-membrane">WTRWAFYAVSCSFLMV</span><span class="topo-outside">EISYLLRIDNTTRL</span><span class="topo-membrane">EILVFNSMVMITGLFAS</span><span class="topo-inside">ISEDLY</span><span class="topo-membrane">KWL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210</span>
+<span class="topo-line"><span class="topo-membrane">FFIISSVAYLNVLFL</span><span class="topo-outside">IAKNRSEKKAII</span><span class="topo-membrane">LFVAIFWSGFPIVWILS</span><span class="topo-inside">PAGLMVLNAFW</span><span class="topo-membrane">TALFYLVLDFITKIYFGF</span><span class="topo-outside">HTTFKH</span><span class="topo-unknown">IEQLEHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -267,6 +268,7 @@ without being metastably trapped at E81, unlike other proton pumps.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -282,10 +284,11 @@ without being metastably trapped at E81, unlike other proton pumps.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MEQI</span><span class="topo-membrane">IFYLGIGMFILSTIMFFF</span><span class="topo-outside">LKKKNAKLAS</span><span class="topo-membrane">INIIVSFVTIVSYILML</span><span class="topo-inside">SGLFTLSATSG</span></span>
-<span class="topo-line"><span class="topo-inside">DTIY</span><span class="topo-membrane">WTRWAFYAVSCSFLMV</span><span class="topo-outside">EISYLLRIDNTTRL</span><span class="topo-membrane">EILVFNSMVMITGLFAS</span><span class="topo-inside">ISEDLY</span><span class="topo-membrane">KWL</span></span>
-<span class="topo-line"><span class="topo-membrane">FFIISSVAYLNVLFL</span><span class="topo-outside">IAKNR</span><span class="topo-unknown">SEK</span><span class="topo-outside">KAII</span><span class="topo-membrane">LFVAIFWSGFPIVWILS</span><span class="topo-inside">PAGLMVLNAFW</span><span class="topo-membrane">TALFY</span></span>
-<span class="topo-line"><span class="topo-membrane">LVLDFITKIYFGFH</span><span class="topo-outside">TTFKH</span><span class="topo-unknown">IEQLEHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">MEQI</span><span class="topo-membrane">IFYLGIGMFILSTIMFFF</span><span class="topo-outside">LKKKNAKLAS</span><span class="topo-membrane">INIIVSFVTIVSYILML</span><span class="topo-inside">SGLFTLSATSGDTIY</span><span class="topo-membrane">WTRWAFYAVSCSFLMV</span><span class="topo-outside">EISYLLRIDNTTRL</span><span class="topo-membrane">EILVFNSMVMITGLFAS</span><span class="topo-inside">ISEDLY</span><span class="topo-membrane">KWL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210</span>
+<span class="topo-line"><span class="topo-membrane">FFIISSVAYLNVLFL</span><span class="topo-outside">IAKNR</span><span class="topo-unknown">SEK</span><span class="topo-outside">KAII</span><span class="topo-membrane">LFVAIFWSGFPIVWILS</span><span class="topo-inside">PAGLMVLNAFW</span><span class="topo-membrane">TALFYLVLDFITKIYFGFH</span><span class="topo-outside">TTFKH</span><span class="topo-unknown">IEQLEHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -409,6 +412,7 @@ without being metastably trapped at E81, unlike other proton pumps.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -424,10 +428,11 @@ without being metastably trapped at E81, unlike other proton pumps.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MEQI</span><span class="topo-membrane">IFYLGIGMFILSTIMFFF</span><span class="topo-outside">LKKKNAKLAS</span><span class="topo-membrane">INIIVSFVTIVSYILML</span><span class="topo-inside">SGLFTLSATSG</span></span>
-<span class="topo-line"><span class="topo-inside">DTIY</span><span class="topo-membrane">WTRWAFYAVSCSFLMV</span><span class="topo-outside">EISYLLRIDNTTRL</span><span class="topo-membrane">EILVFNSMVMITGLFAS</span><span class="topo-inside">ISEDLY</span><span class="topo-membrane">KWL</span></span>
-<span class="topo-line"><span class="topo-membrane">FFIISSVAYLNVLFL</span><span class="topo-outside">IAK</span><span class="topo-unknown">NRSE</span><span class="topo-outside">KKAII</span><span class="topo-membrane">LFVAIFWSGFPIVWILS</span><span class="topo-inside">PAGLMVLNAFW</span><span class="topo-membrane">TALFY</span></span>
-<span class="topo-line"><span class="topo-membrane">LVLDFITKIYFGF</span><span class="topo-outside">HTTF</span><span class="topo-unknown">KHIEQLEHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">MEQI</span><span class="topo-membrane">IFYLGIGMFILSTIMFFF</span><span class="topo-outside">LKKKNAKLAS</span><span class="topo-membrane">INIIVSFVTIVSYILML</span><span class="topo-inside">SGLFTLSATSGDTIY</span><span class="topo-membrane">WTRWAFYAVSCSFLMV</span><span class="topo-outside">EISYLLRIDNTTRL</span><span class="topo-membrane">EILVFNSMVMITGLFAS</span><span class="topo-inside">ISEDLY</span><span class="topo-membrane">KWL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210</span>
+<span class="topo-line"><span class="topo-membrane">FFIISSVAYLNVLFL</span><span class="topo-outside">IAK</span><span class="topo-unknown">NRSE</span><span class="topo-outside">KKAII</span><span class="topo-membrane">LFVAIFWSGFPIVWILS</span><span class="topo-inside">PAGLMVLNAFW</span><span class="topo-membrane">TALFYLVLDFITKIYFGF</span><span class="topo-outside">HTTF</span><span class="topo-unknown">KHIEQLEHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -551,6 +556,7 @@ without being metastably trapped at E81, unlike other proton pumps.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

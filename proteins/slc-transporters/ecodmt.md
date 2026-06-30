@@ -143,15 +143,17 @@ EcoDMT is a prokaryotic divalent metal transporter from Eremococcus coleocola be
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">DLSLSDINSTVEVPEGHS</span><span class="topo-unknown">FWKTLLA</span><span class="topo-outside">YSG</span><span class="topo-membrane">PGALVAVGYMDPGNWSTS</span><span class="topo-inside">ITGGQNFQY</span><span class="topo-membrane">LLLSI</span></span>
-<span class="topo-line"><span class="topo-membrane">IVISSLLAMLLQN</span><span class="topo-outside">MAAKLGIVCQLD</span><span class="topo-unknown">LAQAIRA</span><span class="topo-outside">RTSRRLGF</span><span class="topo-membrane">IFWILTELAIMATDIAEVIG</span></span>
-<span class="topo-line"><span class="topo-membrane">AAIAL</span><span class="topo-inside">YLLFKIPIF</span><span class="topo-membrane">LAVVITVLDVFLLLLLN</span><span class="topo-outside">RIGFRK</span><span class="topo-membrane">IEALVVCLIFVILFVFLYQII</span><span class="topo-inside">LS</span></span>
-<span class="topo-line"><span class="topo-inside">QPAWHQVAKGLIPSWASVQTSPKIGGQTPL</span><span class="topo-membrane">SASLGIIGATIMPHNLFLH</span><span class="topo-outside">SAISQSRKIDR</span></span>
-<span class="topo-line"><span class="topo-outside">TDSSKVAEAVRFSNWD</span><span class="topo-membrane">SNIQLSLAMVVNALLLI</span><span class="topo-inside">MGVAVFKSGAVQDPS</span><span class="topo-unknown">FFGLYQALS</span><span class="topo-inside">NPD</span></span>
-<span class="topo-line"><span class="topo-inside">MVSN</span><span class="topo-unknown">PVLAEAAR</span><span class="topo-inside">SGVLSTL</span><span class="topo-membrane">FAVALLASGQNSTITGTITG</span><span class="topo-outside">QVIMEGFIHLRLPL</span><span class="topo-membrane">WLRRLVT</span></span>
-<span class="topo-line"><span class="topo-membrane">RLIAIIPVVVC</span><span class="topo-inside">VAITSHQGSLDEHQALNNL</span><span class="topo-membrane">MNNSQVFLALALPFSIV</span><span class="topo-outside">PLLMLTDSAAQMG</span></span>
-<span class="topo-line"><span class="topo-outside">NQFKNTRWVKV</span><span class="topo-membrane">MGWLTVIILTLLNLISISSQIA</span><span class="topo-inside">GFFGDNPSSQDLLL</span><span class="topo-membrane">SQVISIGIILAMI</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">DLSLSDINSTVEVPEGHS</span><span class="topo-unknown">FWKTLLA</span><span class="topo-outside">YSG</span><span class="topo-membrane">PGALVAVGYMDPGNWSTS</span><span class="topo-inside">ITGGQNFQY</span><span class="topo-membrane">LLLSIIVISSLLAMLLQN</span><span class="topo-outside">MAAKLGIVCQLD</span><span class="topo-unknown">LAQAIRA</span><span class="topo-outside">RTSRRLGF</span><span class="topo-membrane">IFWILTELAIMATDIAEVIG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">AAIAL</span><span class="topo-inside">YLLFKIPIF</span><span class="topo-membrane">LAVVITVLDVFLLLLLN</span><span class="topo-outside">RIGFRK</span><span class="topo-membrane">IEALVVCLIFVILFVFLYQII</span><span class="topo-inside">LSQPAWHQVAKGLIPSWASVQTSPKIGGQTPL</span><span class="topo-membrane">SASLGIIGATIMPHNLFLH</span><span class="topo-outside">SAISQSRKIDR</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">TDSSKVAEAVRFSNWD</span><span class="topo-membrane">SNIQLSLAMVVNALLLI</span><span class="topo-inside">MGVAVFKSGAVQDPS</span><span class="topo-unknown">FFGLYQALS</span><span class="topo-inside">NPDMVSN</span><span class="topo-unknown">PVLAEAAR</span><span class="topo-inside">SGVLSTL</span><span class="topo-membrane">FAVALLASGQNSTITGTITG</span><span class="topo-outside">QVIMEGFIHLRLPL</span><span class="topo-membrane">WLRRLVT</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">RLIAIIPVVVC</span><span class="topo-inside">VAITSHQGSLDEHQALNNL</span><span class="topo-membrane">MNNSQVFLALALPFSIV</span><span class="topo-outside">PLLMLTDSAAQMGNQFKNTRWVKV</span><span class="topo-membrane">MGWLTVIILTLLNLISISSQIA</span><span class="topo-inside">GFFGDNPSSQDLLL</span><span class="topo-membrane">SQVISIGIILAMI</span></span>
+<span class="topo-ruler">       490    </span>
 <span class="topo-line"><span class="topo-membrane">GLLIW</span><span class="topo-outside">TIIDIRRFT</span></span>
+<details class="topo-details"><summary>Topology coordinates (33 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -394,6 +396,7 @@ EcoDMT is a prokaryotic divalent metal transporter from Eremococcus coleocola be
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -469,15 +472,17 @@ EcoDMT is a prokaryotic divalent metal transporter from Eremococcus coleocola be
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSETQSQTMTRPQ</span><span class="topo-outside">DLSLSDINSTVEVPEGHS</span><span class="topo-unknown">FWKTLLA</span><span class="topo-outside">YSG</span><span class="topo-membrane">PGALVAVGYMDPGNW</span><span class="topo-inside">STSI</span></span>
-<span class="topo-line"><span class="topo-inside">TGGQNFQYLL</span><span class="topo-membrane">LSIIVISSLLAMLLQN</span><span class="topo-outside">MAAKLGIVCQLD</span><span class="topo-unknown">LAQAIRAR</span><span class="topo-outside">TSRRLGF</span><span class="topo-membrane">IFWILTE</span></span>
-<span class="topo-line"><span class="topo-membrane">LAIMATDIAEVIGAAIAL</span><span class="topo-inside">YLLFKIPIF</span><span class="topo-membrane">LAVVITVLDVFLLLLL</span><span class="topo-outside">NRIGFRK</span><span class="topo-membrane">IEALVVCLIF</span></span>
-<span class="topo-line"><span class="topo-membrane">VILFVFLY</span><span class="topo-inside">QIILSQPA</span><span class="topo-unknown">WHQVAKG</span><span class="topo-inside">LIPSWASVQTSPKIGGQTPL</span><span class="topo-membrane">SASLGIIGATIMPHNLF</span></span>
-<span class="topo-line"><span class="topo-membrane">LH</span><span class="topo-outside">SAISQSRKIDRTDSSKVAEAVRFSNW</span><span class="topo-membrane">DSNIQLSLAMVVNALLL</span><span class="topo-inside">IMGVAVFKSGAVQDP</span></span>
-<span class="topo-line"><span class="topo-inside">SFFGLYQALSNPDMVSNPVLAEAARSGVLSTL</span><span class="topo-membrane">FAVALLASGQNSTITGTITG</span><span class="topo-outside">QVIMEGFI</span></span>
-<span class="topo-line"><span class="topo-outside">HLRLPL</span><span class="topo-membrane">WLRRLVTRLIAIIPVVV</span><span class="topo-inside">CVAITSHQGSLDEHQALNNL</span><span class="topo-membrane">MNNSQVFLALALPFSIV</span></span>
-<span class="topo-line"><span class="topo-outside">PLLMLTDSAAQMGNQFKNTRWVKV</span><span class="topo-membrane">MGWLTVIILTLLNLISISSQIA</span><span class="topo-inside">GFFGDNPSSQDLLL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSETQSQTMTRPQ</span><span class="topo-outside">DLSLSDINSTVEVPEGHS</span><span class="topo-unknown">FWKTLLA</span><span class="topo-outside">YSG</span><span class="topo-membrane">PGALVAVGYMDPGNW</span><span class="topo-inside">STSITGGQNFQYLL</span><span class="topo-membrane">LSIIVISSLLAMLLQN</span><span class="topo-outside">MAAKLGIVCQLD</span><span class="topo-unknown">LAQAIRAR</span><span class="topo-outside">TSRRLGF</span><span class="topo-membrane">IFWILTE</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">LAIMATDIAEVIGAAIAL</span><span class="topo-inside">YLLFKIPIF</span><span class="topo-membrane">LAVVITVLDVFLLLLL</span><span class="topo-outside">NRIGFRK</span><span class="topo-membrane">IEALVVCLIFVILFVFLY</span><span class="topo-inside">QIILSQPA</span><span class="topo-unknown">WHQVAKG</span><span class="topo-inside">LIPSWASVQTSPKIGGQTPL</span><span class="topo-membrane">SASLGIIGATIMPHNLF</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">LH</span><span class="topo-outside">SAISQSRKIDRTDSSKVAEAVRFSNW</span><span class="topo-membrane">DSNIQLSLAMVVNALLL</span><span class="topo-inside">IMGVAVFKSGAVQDPSFFGLYQALSNPDMVSNPVLAEAARSGVLSTL</span><span class="topo-membrane">FAVALLASGQNSTITGTITG</span><span class="topo-outside">QVIMEGFI</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">HLRLPL</span><span class="topo-membrane">WLRRLVTRLIAIIPVVV</span><span class="topo-inside">CVAITSHQGSLDEHQALNNL</span><span class="topo-membrane">MNNSQVFLALALPFSIV</span><span class="topo-outside">PLLMLTDSAAQMGNQFKNTRWVKV</span><span class="topo-membrane">MGWLTVIILTLLNLISISSQIA</span><span class="topo-inside">GFFGDNPSSQDLLL</span></span>
+<span class="topo-ruler">       490       500       510         </span>
 <span class="topo-line"><span class="topo-membrane">SQVISIGIILAMIGLLIW</span><span class="topo-outside">TIIDIRRFT</span><span class="topo-unknown">HPKQKALEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (31 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -706,6 +711,7 @@ EcoDMT is a prokaryotic divalent metal transporter from Eremococcus coleocola be
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -721,15 +727,17 @@ EcoDMT is a prokaryotic divalent metal transporter from Eremococcus coleocola be
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSETQSQTMTRPQ</span><span class="topo-outside">DLSLSDINSTVEVPEGHS</span><span class="topo-unknown">FWKTLLA</span><span class="topo-outside">YSG</span><span class="topo-membrane">PGALVAVGYMDPGNW</span><span class="topo-inside">STSI</span></span>
-<span class="topo-line"><span class="topo-inside">TGGQNFQYLL</span><span class="topo-membrane">LSIIVISSLLAMLLQN</span><span class="topo-outside">MAAKLGIVCQLD</span><span class="topo-unknown">LAQAIRAR</span><span class="topo-outside">TSRRLGF</span><span class="topo-membrane">IFWILTE</span></span>
-<span class="topo-line"><span class="topo-membrane">LAIMATDIAEVIGAAIAL</span><span class="topo-inside">YLLFKIPIF</span><span class="topo-membrane">LAVVITVLDVFLLLLL</span><span class="topo-outside">NRIGFRK</span><span class="topo-membrane">IEALVVCLIF</span></span>
-<span class="topo-line"><span class="topo-membrane">VILFVFLY</span><span class="topo-inside">QIILSQPA</span><span class="topo-unknown">WHQVAKG</span><span class="topo-inside">LIPSWASVQTSPKIGGQTPL</span><span class="topo-membrane">SASLGIIGATIMPHNLF</span></span>
-<span class="topo-line"><span class="topo-membrane">LH</span><span class="topo-outside">SAISQSRKIDRTDSSKVAEAVRFSNW</span><span class="topo-membrane">DSNIQLSLAMVVNALLL</span><span class="topo-inside">IMGVAVFKSGAVQDP</span></span>
-<span class="topo-line"><span class="topo-inside">SFFGLYQALSNPDMVSNPVLAEAARSGVLSTL</span><span class="topo-membrane">FAVALLASGQNSTITGTITG</span><span class="topo-outside">QVIMEGFI</span></span>
-<span class="topo-line"><span class="topo-outside">HLRLPL</span><span class="topo-membrane">WLRRLVTRLIAIIPVVV</span><span class="topo-inside">CVAITSHQGSLDEHQALNNL</span><span class="topo-membrane">MNNSQVFLALALPFSIV</span></span>
-<span class="topo-line"><span class="topo-outside">PLLMLTDSAAQMGNQFKNTRWVKV</span><span class="topo-membrane">MGWLTVIILTLLNLISISSQIA</span><span class="topo-inside">GFFGDNPSSQDLLL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSETQSQTMTRPQ</span><span class="topo-outside">DLSLSDINSTVEVPEGHS</span><span class="topo-unknown">FWKTLLA</span><span class="topo-outside">YSG</span><span class="topo-membrane">PGALVAVGYMDPGNW</span><span class="topo-inside">STSITGGQNFQYLL</span><span class="topo-membrane">LSIIVISSLLAMLLQN</span><span class="topo-outside">MAAKLGIVCQLD</span><span class="topo-unknown">LAQAIRAR</span><span class="topo-outside">TSRRLGF</span><span class="topo-membrane">IFWILTE</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">LAIMATDIAEVIGAAIAL</span><span class="topo-inside">YLLFKIPIF</span><span class="topo-membrane">LAVVITVLDVFLLLLL</span><span class="topo-outside">NRIGFRK</span><span class="topo-membrane">IEALVVCLIFVILFVFLY</span><span class="topo-inside">QIILSQPA</span><span class="topo-unknown">WHQVAKG</span><span class="topo-inside">LIPSWASVQTSPKIGGQTPL</span><span class="topo-membrane">SASLGIIGATIMPHNLF</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">LH</span><span class="topo-outside">SAISQSRKIDRTDSSKVAEAVRFSNW</span><span class="topo-membrane">DSNIQLSLAMVVNALLL</span><span class="topo-inside">IMGVAVFKSGAVQDPSFFGLYQALSNPDMVSNPVLAEAARSGVLSTL</span><span class="topo-membrane">FAVALLASGQNSTITGTITG</span><span class="topo-outside">QVIMEGFI</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">HLRLPL</span><span class="topo-membrane">WLRRLVTRLIAIIPVVV</span><span class="topo-inside">CVAITSHQGSLDEHQALNNL</span><span class="topo-membrane">MNNSQVFLALALPFSIV</span><span class="topo-outside">PLLMLTDSAAQMGNQFKNTRWVKV</span><span class="topo-membrane">MGWLTVIILTLLNLISISSQIA</span><span class="topo-inside">GFFGDNPSSQDLLL</span></span>
+<span class="topo-ruler">       490       500       510         </span>
 <span class="topo-line"><span class="topo-membrane">SQVISIGIILAMIGLLIW</span><span class="topo-outside">TIIDIRRFT</span><span class="topo-unknown">HPKQKALEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (31 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -958,6 +966,7 @@ EcoDMT is a prokaryotic divalent metal transporter from Eremococcus coleocola be
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -973,15 +982,17 @@ EcoDMT is a prokaryotic divalent metal transporter from Eremococcus coleocola be
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSETQSQTMTRPQ</span><span class="topo-outside">DLSLSDINSTVEVPEGHS</span><span class="topo-unknown">FWKTLLA</span><span class="topo-outside">YSG</span><span class="topo-membrane">PGALVAVGYMDPGNW</span><span class="topo-inside">STSI</span></span>
-<span class="topo-line"><span class="topo-inside">TGGQNFQYLL</span><span class="topo-membrane">LSIIVISSLLAMLLQN</span><span class="topo-outside">MAAKLGIVCQLD</span><span class="topo-unknown">LAQAIRAR</span><span class="topo-outside">TSRRLGF</span><span class="topo-membrane">IFWILTE</span></span>
-<span class="topo-line"><span class="topo-membrane">LAIMATDIAEVIGAAIAL</span><span class="topo-inside">YLLFKIPIF</span><span class="topo-membrane">LAVVITVLDVFLLLLL</span><span class="topo-outside">NRIGFRK</span><span class="topo-membrane">IEALVVCLIF</span></span>
-<span class="topo-line"><span class="topo-membrane">VILFVFLY</span><span class="topo-inside">QIILSQPA</span><span class="topo-unknown">WHQVAKG</span><span class="topo-inside">LIPSWASVQTSPKIGGQTPL</span><span class="topo-membrane">SASLGIIGATIMPHNLF</span></span>
-<span class="topo-line"><span class="topo-membrane">LH</span><span class="topo-outside">SAISQSRKIDRTDSSKVAEAVRFSNW</span><span class="topo-membrane">DSNIQLSLAMVVNALLL</span><span class="topo-inside">IMGVAVFKSGAVQDP</span></span>
-<span class="topo-line"><span class="topo-inside">SFFGLYQALSNPDMVSNPVLAEAARSGVLSTL</span><span class="topo-membrane">FAVALLASGQNSTITGTITG</span><span class="topo-outside">QVIMEGFI</span></span>
-<span class="topo-line"><span class="topo-outside">HLRLPL</span><span class="topo-membrane">WLRRLVTRLIAIIPVVV</span><span class="topo-inside">CVAITSHQGSLDEHQALNNL</span><span class="topo-membrane">MNNSQVFLALALPFSIV</span></span>
-<span class="topo-line"><span class="topo-outside">PLLMLTDSAAQMGNQFKNTRWVKV</span><span class="topo-membrane">MGWLTVIILTLLNLISISSQIA</span><span class="topo-inside">GFFGDNPSSQDLLL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSETQSQTMTRPQ</span><span class="topo-outside">DLSLSDINSTVEVPEGHS</span><span class="topo-unknown">FWKTLLA</span><span class="topo-outside">YSG</span><span class="topo-membrane">PGALVAVGYMDPGNW</span><span class="topo-inside">STSITGGQNFQYLL</span><span class="topo-membrane">LSIIVISSLLAMLLQN</span><span class="topo-outside">MAAKLGIVCQLD</span><span class="topo-unknown">LAQAIRAR</span><span class="topo-outside">TSRRLGF</span><span class="topo-membrane">IFWILTE</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">LAIMATDIAEVIGAAIAL</span><span class="topo-inside">YLLFKIPIF</span><span class="topo-membrane">LAVVITVLDVFLLLLL</span><span class="topo-outside">NRIGFRK</span><span class="topo-membrane">IEALVVCLIFVILFVFLY</span><span class="topo-inside">QIILSQPA</span><span class="topo-unknown">WHQVAKG</span><span class="topo-inside">LIPSWASVQTSPKIGGQTPL</span><span class="topo-membrane">SASLGIIGATIMPHNLF</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">LH</span><span class="topo-outside">SAISQSRKIDRTDSSKVAEAVRFSNW</span><span class="topo-membrane">DSNIQLSLAMVVNALLL</span><span class="topo-inside">IMGVAVFKSGAVQDPSFFGLYQALSNPDMVSNPVLAEAARSGVLSTL</span><span class="topo-membrane">FAVALLASGQNSTITGTITG</span><span class="topo-outside">QVIMEGFI</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">HLRLPL</span><span class="topo-membrane">WLRRLVTRLIAIIPVVV</span><span class="topo-inside">CVAITSHQGSLDEHQALNNL</span><span class="topo-membrane">MNNSQVFLALALPFSIV</span><span class="topo-outside">PLLMLTDSAAQMGNQFKNTRWVKV</span><span class="topo-membrane">MGWLTVIILTLLNLISISSQIA</span><span class="topo-inside">GFFGDNPSSQDLLL</span></span>
+<span class="topo-ruler">       490       500       510         </span>
 <span class="topo-line"><span class="topo-membrane">SQVISIGIILAMIGLLIW</span><span class="topo-outside">TIIDIRRFT</span><span class="topo-unknown">HPKQKALEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (31 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1210,6 +1221,7 @@ EcoDMT is a prokaryotic divalent metal transporter from Eremococcus coleocola be
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1225,15 +1237,17 @@ EcoDMT is a prokaryotic divalent metal transporter from Eremococcus coleocola be
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSETQSQTMTRPQ</span><span class="topo-outside">DLSLSDINSTVEVPEGHS</span><span class="topo-unknown">FWKTLLA</span><span class="topo-outside">YSG</span><span class="topo-membrane">PGALVAVGYMDPGNW</span><span class="topo-inside">STSI</span></span>
-<span class="topo-line"><span class="topo-inside">TGGQNFQYLL</span><span class="topo-membrane">LSIIVISSLLAMLLQN</span><span class="topo-outside">MAAKLGIVCQLD</span><span class="topo-unknown">LAQAIRAR</span><span class="topo-outside">TSRRLGF</span><span class="topo-membrane">IFWILTE</span></span>
-<span class="topo-line"><span class="topo-membrane">LAIMATDIAEVIGAAIAL</span><span class="topo-inside">YLLFKIPIF</span><span class="topo-membrane">LAVVITVLDVFLLLLL</span><span class="topo-outside">NRIGFRK</span><span class="topo-membrane">IEALVVCLIF</span></span>
-<span class="topo-line"><span class="topo-membrane">VILFVFLY</span><span class="topo-inside">QIILSQPA</span><span class="topo-unknown">WHQVAKG</span><span class="topo-inside">LIPSWASVQTSPKIGGQTPL</span><span class="topo-membrane">SASLGIIGATIMPHNLF</span></span>
-<span class="topo-line"><span class="topo-membrane">LH</span><span class="topo-outside">SAISQSRKIDRTDSSKVAEAVRFSNW</span><span class="topo-membrane">DSNIQLSLAMVVNALLL</span><span class="topo-inside">IMGVAVFKSGAVQDP</span></span>
-<span class="topo-line"><span class="topo-inside">SFFGLYQALSNPDMVSNPVLAEAARSGVLSTL</span><span class="topo-membrane">FAVALLASGQNSTITGTITG</span><span class="topo-outside">QVIMEGFI</span></span>
-<span class="topo-line"><span class="topo-outside">HLRLPL</span><span class="topo-membrane">WLRRLVTRLIAIIPVVV</span><span class="topo-inside">CVAITSHQGSLDEHQALNNL</span><span class="topo-membrane">MNNSQVFLALALPFSIV</span></span>
-<span class="topo-line"><span class="topo-outside">PLLMLTDSAAQMGNQFKNTRWVKV</span><span class="topo-membrane">MGWLTVIILTLLNLISISSQIA</span><span class="topo-inside">GFFGDNPSSQDLLL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSETQSQTMTRPQ</span><span class="topo-outside">DLSLSDINSTVEVPEGHS</span><span class="topo-unknown">FWKTLLA</span><span class="topo-outside">YSG</span><span class="topo-membrane">PGALVAVGYMDPGNW</span><span class="topo-inside">STSITGGQNFQYLL</span><span class="topo-membrane">LSIIVISSLLAMLLQN</span><span class="topo-outside">MAAKLGIVCQLD</span><span class="topo-unknown">LAQAIRAR</span><span class="topo-outside">TSRRLGF</span><span class="topo-membrane">IFWILTE</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">LAIMATDIAEVIGAAIAL</span><span class="topo-inside">YLLFKIPIF</span><span class="topo-membrane">LAVVITVLDVFLLLLL</span><span class="topo-outside">NRIGFRK</span><span class="topo-membrane">IEALVVCLIFVILFVFLY</span><span class="topo-inside">QIILSQPA</span><span class="topo-unknown">WHQVAKG</span><span class="topo-inside">LIPSWASVQTSPKIGGQTPL</span><span class="topo-membrane">SASLGIIGATIMPHNLF</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">LH</span><span class="topo-outside">SAISQSRKIDRTDSSKVAEAVRFSNW</span><span class="topo-membrane">DSNIQLSLAMVVNALLL</span><span class="topo-inside">IMGVAVFKSGAVQDPSFFGLYQALSNPDMVSNPVLAEAARSGVLSTL</span><span class="topo-membrane">FAVALLASGQNSTITGTITG</span><span class="topo-outside">QVIMEGFI</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">HLRLPL</span><span class="topo-membrane">WLRRLVTRLIAIIPVVV</span><span class="topo-inside">CVAITSHQGSLDEHQALNNL</span><span class="topo-membrane">MNNSQVFLALALPFSIV</span><span class="topo-outside">PLLMLTDSAAQMGNQFKNTRWVKV</span><span class="topo-membrane">MGWLTVIILTLLNLISISSQIA</span><span class="topo-inside">GFFGDNPSSQDLLL</span></span>
+<span class="topo-ruler">       490       500       510         </span>
 <span class="topo-line"><span class="topo-membrane">SQVISIGIILAMIGLLIW</span><span class="topo-outside">TIIDIRRFT</span><span class="topo-unknown">HPKQKALEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (31 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1462,6 +1476,7 @@ EcoDMT is a prokaryotic divalent metal transporter from Eremococcus coleocola be
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1477,15 +1492,17 @@ EcoDMT is a prokaryotic divalent metal transporter from Eremococcus coleocola be
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSETQSQTMTRPQ</span><span class="topo-outside">DLSLSDINSTVEVPEGHS</span><span class="topo-unknown">FWKTLLA</span><span class="topo-outside">YSG</span><span class="topo-membrane">PGALVAVGYMDPGNW</span><span class="topo-inside">STSI</span></span>
-<span class="topo-line"><span class="topo-inside">TGGQNFQYLL</span><span class="topo-membrane">LSIIVISSLLAMLLQN</span><span class="topo-outside">MAAKLGIVCQLD</span><span class="topo-unknown">LAQAIRAR</span><span class="topo-outside">TSRRLGF</span><span class="topo-membrane">IFWILTE</span></span>
-<span class="topo-line"><span class="topo-membrane">LAIMATDIAEVIGAAIAL</span><span class="topo-inside">YLLFKIPIF</span><span class="topo-membrane">LAVVITVLDVFLLLLL</span><span class="topo-outside">NRIGFRK</span><span class="topo-membrane">IEALVVCLIF</span></span>
-<span class="topo-line"><span class="topo-membrane">VILFVFLY</span><span class="topo-inside">QIILSQPA</span><span class="topo-unknown">WHQVAKG</span><span class="topo-inside">LIPSWASVQTSPKIGGQTPL</span><span class="topo-membrane">SASLGIIGATIMPHNLF</span></span>
-<span class="topo-line"><span class="topo-membrane">LH</span><span class="topo-outside">SAISQSRKIDRTDSSKVAEAVRFSNW</span><span class="topo-membrane">DSNIQLSLAMVVNALLL</span><span class="topo-inside">IMGVAVFKSGAVQDP</span></span>
-<span class="topo-line"><span class="topo-inside">SFFGLYQALSNPDMVSNPVLAEAARSGVLSTL</span><span class="topo-membrane">FAVALLASGQNSTITGTITG</span><span class="topo-outside">QVIMEGFI</span></span>
-<span class="topo-line"><span class="topo-outside">HLRLPL</span><span class="topo-membrane">WLRRLVTRLIAIIPVVV</span><span class="topo-inside">CVAITSHQGSLDEHQALNNL</span><span class="topo-membrane">MNNSQVFLALALPFSIV</span></span>
-<span class="topo-line"><span class="topo-outside">PLLMLTDSAAQMGNQFKNTRWVKV</span><span class="topo-membrane">MGWLTVIILTLLNLISISSQIA</span><span class="topo-inside">GFFGDNPSSQDLLL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSETQSQTMTRPQ</span><span class="topo-outside">DLSLSDINSTVEVPEGHS</span><span class="topo-unknown">FWKTLLA</span><span class="topo-outside">YSG</span><span class="topo-membrane">PGALVAVGYMDPGNW</span><span class="topo-inside">STSITGGQNFQYLL</span><span class="topo-membrane">LSIIVISSLLAMLLQN</span><span class="topo-outside">MAAKLGIVCQLD</span><span class="topo-unknown">LAQAIRAR</span><span class="topo-outside">TSRRLGF</span><span class="topo-membrane">IFWILTE</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">LAIMATDIAEVIGAAIAL</span><span class="topo-inside">YLLFKIPIF</span><span class="topo-membrane">LAVVITVLDVFLLLLL</span><span class="topo-outside">NRIGFRK</span><span class="topo-membrane">IEALVVCLIFVILFVFLY</span><span class="topo-inside">QIILSQPA</span><span class="topo-unknown">WHQVAKG</span><span class="topo-inside">LIPSWASVQTSPKIGGQTPL</span><span class="topo-membrane">SASLGIIGATIMPHNLF</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">LH</span><span class="topo-outside">SAISQSRKIDRTDSSKVAEAVRFSNW</span><span class="topo-membrane">DSNIQLSLAMVVNALLL</span><span class="topo-inside">IMGVAVFKSGAVQDPSFFGLYQALSNPDMVSNPVLAEAARSGVLSTL</span><span class="topo-membrane">FAVALLASGQNSTITGTITG</span><span class="topo-outside">QVIMEGFI</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">HLRLPL</span><span class="topo-membrane">WLRRLVTRLIAIIPVVV</span><span class="topo-inside">CVAITSHQGSLDEHQALNNL</span><span class="topo-membrane">MNNSQVFLALALPFSIV</span><span class="topo-outside">PLLMLTDSAAQMGNQFKNTRWVKV</span><span class="topo-membrane">MGWLTVIILTLLNLISISSQIA</span><span class="topo-inside">GFFGDNPSSQDLLL</span></span>
+<span class="topo-ruler">       490       500       510         </span>
 <span class="topo-line"><span class="topo-membrane">SQVISIGIILAMIGLLIW</span><span class="topo-outside">TIIDIRRFT</span><span class="topo-unknown">HPKQKALEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (31 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1714,6 +1731,7 @@ EcoDMT is a prokaryotic divalent metal transporter from Eremococcus coleocola be
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

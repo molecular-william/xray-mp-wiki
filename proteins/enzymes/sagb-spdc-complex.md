@@ -159,11 +159,13 @@ The SagB-SpdC complex from Staphylococcus aureus is a membrane protein complex t
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">DYKDDDDLEVLFQGPGGSSTEYMKNNK</span><span class="topo-outside">ISGFQWAMT</span><span class="topo-membrane">IFVFFVITMALSIMLR</span><span class="topo-inside">DFQSIIGV</span></span>
-<span class="topo-line"><span class="topo-inside">KHFIF</span><span class="topo-membrane">EVTDLAPLIAAIIC</span><span class="topo-outside">ILVFKYKKVQLAGLKFSISLKV</span><span class="topo-membrane">IERLLLALILPLIILII</span><span class="topo-inside">GM</span></span>
-<span class="topo-line"><span class="topo-inside">YSFNTFADSFILLQSTGLSVPITHIL</span><span class="topo-membrane">IGHILMAFVVEFGFRSYLQ</span><span class="topo-outside">NIVETKMNT</span><span class="topo-membrane">FFASIV</span></span>
-<span class="topo-line"><span class="topo-membrane">VGLMYSVFSA</span><span class="topo-inside">NTTYGTEFAA</span><span class="topo-membrane">YNFLYTFSFSMILGELIR</span><span class="topo-outside">ATKGRT</span><span class="topo-membrane">IYIATTFHASMTFG</span><span class="topo-inside">LI</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">DYKDDDDLEVLFQGPGGSSTEYMKNNK</span><span class="topo-outside">ISGFQWAMT</span><span class="topo-membrane">IFVFFVITMALSIMLR</span><span class="topo-inside">DFQSIIGVKHFIF</span><span class="topo-membrane">EVTDLAPLIAAIIC</span><span class="topo-outside">ILVFKYKKVQLAGLKFSISLKV</span><span class="topo-membrane">IERLLLALILPLIILII</span><span class="topo-inside">GM</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">YSFNTFADSFILLQSTGLSVPITHIL</span><span class="topo-membrane">IGHILMAFVVEFGFRSYLQ</span><span class="topo-outside">NIVETKMNT</span><span class="topo-membrane">FFASIVVGLMYSVFSA</span><span class="topo-inside">NTTYGTEFAA</span><span class="topo-membrane">YNFLYTFSFSMILGELIR</span><span class="topo-outside">ATKGRT</span><span class="topo-membrane">IYIATTFHASMTFG</span><span class="topo-inside">LI</span></span>
+<span class="topo-ruler">       250       260       270        </span>
 <span class="topo-line"><span class="topo-inside">FLFSEEIGDLFSIKVI</span><span class="topo-membrane">AISTAIVAVGYIGLSLI</span><span class="topo-outside">IR</span><span class="topo-unknown">GIA</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -294,6 +296,7 @@ The SagB-SpdC complex from Staphylococcus aureus is a membrane protein complex t
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -309,11 +312,13 @@ The SagB-SpdC complex from Staphylococcus aureus is a membrane protein complex t
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MNKHK</span><span class="topo-outside">KGSIFG</span><span class="topo-membrane">IIGLVVIFAVVSFLF</span><span class="topo-inside">FSMISDQIFFKHVKSDIKIEKLNVTLNDAAKKQI</span></span>
-<span class="topo-line"><span class="topo-inside">NNYTSQQVSNKKNDAWRDASATEIKSAMDSGTFIDNEKQKYQFLDLSKYQGIDKNRIKRM</span></span>
-<span class="topo-line"><span class="topo-inside">LVDRPTLLKHTDDFLKAAKDKHVNEVYLISHALLETGAVKSELANGVEIDGKKYYNFYGV</span></span>
-<span class="topo-line"><span class="topo-inside">GALDKDPIKTGAEYAKKHGWDTPEKAISGGADFIHKHFLSSTDQNTLYSMRWNPKNPGEH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MNKHK</span><span class="topo-outside">KGSIFG</span><span class="topo-membrane">IIGLVVIFAVVSFLF</span><span class="topo-inside">FSMISDQIFFKHVKSDIKIEKLNVTLNDAAKKQINNYTSQQVSNKKNDAWRDASATEIKSAMDSGTFIDNEKQKYQFLDLSKYQGIDKNRIKRM</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">LVDRPTLLKHTDDFLKAAKDKHVNEVYLISHALLETGAVKSELANGVEIDGKKYYNFYGVGALDKDPIKTGAEYAKKHGWDTPEKAISGGADFIHKHFLSSTDQNTLYSMRWNPKNPGEH</span></span>
+<span class="topo-ruler">       250       260       270       280       290       </span>
 <span class="topo-line"><span class="topo-inside">QYATDIKWAESNATIIADFYKNMKTEGKYFKYFVYKDDSKHLNKKLAAALEHH</span><span class="topo-unknown">HHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -346,6 +351,7 @@ The SagB-SpdC complex from Staphylococcus aureus is a membrane protein complex t
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

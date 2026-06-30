@@ -155,12 +155,13 @@ ELIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the bacte
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GPVD</span><span class="topo-outside">ARPVDVSVSIFINKIYGVNTLEQTYKVDGYIVAQWTGKPRKTPGDKPLIVENTQIE</span></span>
-<span class="topo-line"><span class="topo-outside">RWINNGLWVPALEFINVVGSPDTGNKRLMLFPDGRVIYNARFLGSFSNDMDFRLFPFDRQ</span></span>
-<span class="topo-line"><span class="topo-outside">QFVLELEPFSYNNQQLRFSDIQVYTENIDNEEIDEWWIRGKASTHISDIRYDHLS</span><span class="topo-unknown">SVQ</span><span class="topo-outside">PN</span></span>
-<span class="topo-line"><span class="topo-outside">QNEFSRITVRIDAVRNPSYYLWSFIL</span><span class="topo-membrane">PLGLIIAASWSVFWL</span><span class="topo-inside">ESFS</span><span class="topo-membrane">ERLQTSFTLMLTVVA</span></span>
-<span class="topo-line"><span class="topo-membrane">Y</span><span class="topo-outside">AFYTSNILPRLPYTTVIDQM</span><span class="topo-membrane">IIAGYGSIFAAILLIIF</span><span class="topo-inside">AHHRQAN</span><span class="topo-unknown">GVE</span><span class="topo-inside">DDLLI</span><span class="topo-membrane">QRCRLAF</span></span>
-<span class="topo-line"><span class="topo-membrane">PLGFLAIGCV</span><span class="topo-outside">LVI</span><span class="topo-unknown">RGITG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GPVD</span><span class="topo-outside">ARPVDVSVSIFINKIYGVNTLEQTYKVDGYIVAQWTGKPRKTPGDKPLIVENTQIERWINNGLWVPALEFINVVGSPDTGNKRLMLFPDGRVIYNARFLGSFSNDMDFRLFPFDRQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">QFVLELEPFSYNNQQLRFSDIQVYTENIDNEEIDEWWIRGKASTHISDIRYDHLS</span><span class="topo-unknown">SVQ</span><span class="topo-outside">PNQNEFSRITVRIDAVRNPSYYLWSFIL</span><span class="topo-membrane">PLGLIIAASWSVFWL</span><span class="topo-inside">ESFS</span><span class="topo-membrane">ERLQTSFTLMLTVVA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310        </span>
+<span class="topo-line"><span class="topo-membrane">Y</span><span class="topo-outside">AFYTSNILPRLPYTTVIDQM</span><span class="topo-membrane">IIAGYGSIFAAILLIIF</span><span class="topo-inside">AHHRQAN</span><span class="topo-unknown">GVE</span><span class="topo-inside">DDLLI</span><span class="topo-membrane">QRCRLAFPLGFLAIGCV</span><span class="topo-outside">LVI</span><span class="topo-unknown">RGITG</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -277,6 +278,7 @@ ELIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the bacte
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -292,12 +294,13 @@ ELIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the bacte
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GP</span><span class="topo-outside">VDARPVDVSVSIFINKIYGVNTLEQTYKVDGYIVAQWTGKPRKTPGDKPLIVENTQIE</span></span>
-<span class="topo-line"><span class="topo-outside">RWINNGLWVPALEFINVVGSPDTGNKRLMLFPDGRVIYNARFLGSFSNDMDFRLFPFDRQ</span></span>
-<span class="topo-line"><span class="topo-outside">QFVLELEPFSYNNQQLRFSDIQVYTENIDNEEIDEWWIRGKASTHISDIRYDHLS</span><span class="topo-unknown">SVQ</span><span class="topo-outside">PN</span></span>
-<span class="topo-line"><span class="topo-outside">QNEFSRITVRIDAVRNPSYYLWSFIL</span><span class="topo-membrane">PLGLIIAASWSVFWL</span><span class="topo-inside">ESFS</span><span class="topo-membrane">ERLQTSFTLMLTVVA</span></span>
-<span class="topo-line"><span class="topo-membrane">Y</span><span class="topo-outside">AFYTSNILPRLPYTTVIDQM</span><span class="topo-membrane">IIAGYGSIFAAILLIIF</span><span class="topo-inside">AHHRQANG</span><span class="topo-unknown">VE</span><span class="topo-inside">DDLLI</span><span class="topo-membrane">QRCRLAF</span></span>
-<span class="topo-line"><span class="topo-membrane">PLGFLAIGCV</span><span class="topo-outside">LVIRG</span><span class="topo-unknown">ITG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GP</span><span class="topo-outside">VDARPVDVSVSIFINKIYGVNTLEQTYKVDGYIVAQWTGKPRKTPGDKPLIVENTQIERWINNGLWVPALEFINVVGSPDTGNKRLMLFPDGRVIYNARFLGSFSNDMDFRLFPFDRQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">QFVLELEPFSYNNQQLRFSDIQVYTENIDNEEIDEWWIRGKASTHISDIRYDHLS</span><span class="topo-unknown">SVQ</span><span class="topo-outside">PNQNEFSRITVRIDAVRNPSYYLWSFIL</span><span class="topo-membrane">PLGLIIAASWSVFWL</span><span class="topo-inside">ESFS</span><span class="topo-membrane">ERLQTSFTLMLTVVA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310        </span>
+<span class="topo-line"><span class="topo-membrane">Y</span><span class="topo-outside">AFYTSNILPRLPYTTVIDQM</span><span class="topo-membrane">IIAGYGSIFAAILLIIF</span><span class="topo-inside">AHHRQANG</span><span class="topo-unknown">VE</span><span class="topo-inside">DDLLI</span><span class="topo-membrane">QRCRLAFPLGFLAIGCV</span><span class="topo-outside">LVIRG</span><span class="topo-unknown">ITG</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -414,6 +417,7 @@ ELIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the bacte
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -429,12 +433,13 @@ ELIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the bacte
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GP</span><span class="topo-outside">VDARPVDVSVSIFINKIYGVNTLEQTYKVDGYIVAQWTGKPRKTPGDKPLIVENTQIE</span></span>
-<span class="topo-line"><span class="topo-outside">RWINNGLWVPALEFINVVGSPDTGNKRLMLFPDGRVIYNARFLGSFSNDMDFRLFPFDRQ</span></span>
-<span class="topo-line"><span class="topo-outside">QFVLELEPFSYNNQQLRFSDIQVYTENIDNEEIDEWWIRGKASTHISDIRYDHLS</span><span class="topo-unknown">SVQ</span><span class="topo-outside">PN</span></span>
-<span class="topo-line"><span class="topo-outside">QNEFSRITVRIDAVRNPSYYLWSFIL</span><span class="topo-membrane">PLGLIIAASWSVFWL</span><span class="topo-inside">ESFS</span><span class="topo-membrane">ERLQTSFTLMLTVVA</span></span>
-<span class="topo-line"><span class="topo-membrane">Y</span><span class="topo-outside">AFYTSNILPRLPYTTVIDQM</span><span class="topo-membrane">IIAGYGSIFAAILLIIFA</span><span class="topo-inside">HHRQAN</span><span class="topo-unknown">GVE</span><span class="topo-inside">DDLLI</span><span class="topo-membrane">QRCRLAF</span></span>
-<span class="topo-line"><span class="topo-membrane">PLGFLAIGCV</span><span class="topo-outside">LVIRG</span><span class="topo-unknown">ITG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GP</span><span class="topo-outside">VDARPVDVSVSIFINKIYGVNTLEQTYKVDGYIVAQWTGKPRKTPGDKPLIVENTQIERWINNGLWVPALEFINVVGSPDTGNKRLMLFPDGRVIYNARFLGSFSNDMDFRLFPFDRQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">QFVLELEPFSYNNQQLRFSDIQVYTENIDNEEIDEWWIRGKASTHISDIRYDHLS</span><span class="topo-unknown">SVQ</span><span class="topo-outside">PNQNEFSRITVRIDAVRNPSYYLWSFIL</span><span class="topo-membrane">PLGLIIAASWSVFWL</span><span class="topo-inside">ESFS</span><span class="topo-membrane">ERLQTSFTLMLTVVA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310        </span>
+<span class="topo-line"><span class="topo-membrane">Y</span><span class="topo-outside">AFYTSNILPRLPYTTVIDQM</span><span class="topo-membrane">IIAGYGSIFAAILLIIFA</span><span class="topo-inside">HHRQAN</span><span class="topo-unknown">GVE</span><span class="topo-inside">DDLLI</span><span class="topo-membrane">QRCRLAFPLGFLAIGCV</span><span class="topo-outside">LVIRG</span><span class="topo-unknown">ITG</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -551,6 +556,7 @@ ELIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the bacte
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -566,12 +572,13 @@ ELIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the bacte
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GP</span><span class="topo-outside">VDARPVDVSVSIFINKIYGVNTLEQTYKVDGYIVAQWTGKPRKTPGDKPLIVENTQIE</span></span>
-<span class="topo-line"><span class="topo-outside">RWINNGLWVPALEFINVVGSPDTGNKRLMLFPDGRVIYNARFLGSFSNDMDFRLFPFDRQ</span></span>
-<span class="topo-line"><span class="topo-outside">QFVLELEPFSYNNQQLRFSDIQVYTENIDNEEIDEWWIRGKASTHISDIRYDHLS</span><span class="topo-unknown">S</span><span class="topo-outside">VQPN</span></span>
-<span class="topo-line"><span class="topo-outside">QNEFSRITVRIDAVRNPSYYLWSFIL</span><span class="topo-membrane">PLGLIIAASWSVFWL</span><span class="topo-inside">ESFS</span><span class="topo-membrane">ERLQTSFTLMLTVVA</span></span>
-<span class="topo-line"><span class="topo-membrane">Y</span><span class="topo-outside">AFYTSNILPRLPYTTVIDQM</span><span class="topo-membrane">IIAGYGSIFAAILLIIF</span><span class="topo-inside">AHHRQAN</span><span class="topo-unknown">GVED</span><span class="topo-inside">DLLIQR</span><span class="topo-membrane">CRLAF</span></span>
-<span class="topo-line"><span class="topo-membrane">PLGFLAIGCV</span><span class="topo-outside">LV</span><span class="topo-unknown">IRGITG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GP</span><span class="topo-outside">VDARPVDVSVSIFINKIYGVNTLEQTYKVDGYIVAQWTGKPRKTPGDKPLIVENTQIERWINNGLWVPALEFINVVGSPDTGNKRLMLFPDGRVIYNARFLGSFSNDMDFRLFPFDRQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">QFVLELEPFSYNNQQLRFSDIQVYTENIDNEEIDEWWIRGKASTHISDIRYDHLS</span><span class="topo-unknown">S</span><span class="topo-outside">VQPNQNEFSRITVRIDAVRNPSYYLWSFIL</span><span class="topo-membrane">PLGLIIAASWSVFWL</span><span class="topo-inside">ESFS</span><span class="topo-membrane">ERLQTSFTLMLTVVA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310        </span>
+<span class="topo-line"><span class="topo-membrane">Y</span><span class="topo-outside">AFYTSNILPRLPYTTVIDQM</span><span class="topo-membrane">IIAGYGSIFAAILLIIF</span><span class="topo-inside">AHHRQAN</span><span class="topo-unknown">GVED</span><span class="topo-inside">DLLIQR</span><span class="topo-membrane">CRLAFPLGFLAIGCV</span><span class="topo-outside">LV</span><span class="topo-unknown">IRGITG</span></span>
+<details class="topo-details"><summary>Topology coordinates (14 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -681,6 +688,7 @@ ELIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the bacte
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -696,12 +704,13 @@ ELIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the bacte
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GPVD</span><span class="topo-outside">ARPVDVSVSIFINKIYGVNTLEQTYKVDGYIVAQWTGKPRKTPGDKPLIVENTQIE</span></span>
-<span class="topo-line"><span class="topo-outside">RWINNGLWVPALEFINVVGSPDTGNKRLMLFPDGRVIYNARFLGSFSNDMDFRLFPFDRQ</span></span>
-<span class="topo-line"><span class="topo-outside">QFVLELEPFSYNNQQLRFSDIQVYTENIDNEEIDEWWIRGKASTHISDIRYDHLS</span><span class="topo-unknown">SVQ</span><span class="topo-outside">PN</span></span>
-<span class="topo-line"><span class="topo-outside">QNEFSRITVRIDAVRNPSYYLWSFIL</span><span class="topo-membrane">PLGLIIAASWSVFWL</span><span class="topo-inside">ESFS</span><span class="topo-membrane">ERLQTSFTLMLTVVA</span></span>
-<span class="topo-line"><span class="topo-membrane">Y</span><span class="topo-outside">AFYTSNILPRLPYTTVIDQM</span><span class="topo-membrane">IIAGYGSIFAAILLIIF</span><span class="topo-inside">AHHRQANGV</span><span class="topo-unknown">ED</span><span class="topo-inside">DLLIQ</span><span class="topo-membrane">RCRLAF</span></span>
-<span class="topo-line"><span class="topo-membrane">PLGFLAIGCV</span><span class="topo-outside">LVI</span><span class="topo-unknown">RGITG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GPVD</span><span class="topo-outside">ARPVDVSVSIFINKIYGVNTLEQTYKVDGYIVAQWTGKPRKTPGDKPLIVENTQIERWINNGLWVPALEFINVVGSPDTGNKRLMLFPDGRVIYNARFLGSFSNDMDFRLFPFDRQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">QFVLELEPFSYNNQQLRFSDIQVYTENIDNEEIDEWWIRGKASTHISDIRYDHLS</span><span class="topo-unknown">SVQ</span><span class="topo-outside">PNQNEFSRITVRIDAVRNPSYYLWSFIL</span><span class="topo-membrane">PLGLIIAASWSVFWL</span><span class="topo-inside">ESFS</span><span class="topo-membrane">ERLQTSFTLMLTVVA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310        </span>
+<span class="topo-line"><span class="topo-membrane">Y</span><span class="topo-outside">AFYTSNILPRLPYTTVIDQM</span><span class="topo-membrane">IIAGYGSIFAAILLIIF</span><span class="topo-inside">AHHRQANGV</span><span class="topo-unknown">ED</span><span class="topo-inside">DLLIQ</span><span class="topo-membrane">RCRLAFPLGFLAIGCV</span><span class="topo-outside">LVI</span><span class="topo-unknown">RGITG</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -818,6 +827,7 @@ ELIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the bacte
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -833,12 +843,13 @@ ELIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the bacte
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GPVD</span><span class="topo-inside">ARPVDVSVSIFINKIYGVNTLEQTYKVDGYIVAQWTGKPRKTPGDKPLIVENTQIE</span></span>
-<span class="topo-line"><span class="topo-inside">RWINNGLWVPALEFINVVGSPDTGNKRLMLFPDGRVIYNARFLGSFSNDMDFRLFPFDRQ</span></span>
-<span class="topo-line"><span class="topo-inside">QFVLELEPFSYNNQQLRFSDIQVYTENIDNEEIDEWWIRGKASTHISDIRYDHL</span><span class="topo-unknown">SSVQP</span><span class="topo-inside">N</span></span>
-<span class="topo-line"><span class="topo-inside">QNEFSRITVRIDAVRNPSYYLWSFIL</span><span class="topo-membrane">PLGLIIAASWSVFWL</span><span class="topo-outside">ESFS</span><span class="topo-membrane">ERLQTSFTLMLTVVA</span></span>
-<span class="topo-line"><span class="topo-membrane">Y</span><span class="topo-inside">AFYTSNILPRLPYTTVIDQM</span><span class="topo-membrane">IIAGYGSIFAAILLIIF</span><span class="topo-outside">AHHRQA</span><span class="topo-unknown">NG</span><span class="topo-outside">VEDDLLI</span><span class="topo-membrane">QRCRLAF</span></span>
-<span class="topo-line"><span class="topo-membrane">PLGFLAIGCV</span><span class="topo-unknown">LVIRGITG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GPVD</span><span class="topo-inside">ARPVDVSVSIFINKIYGVNTLEQTYKVDGYIVAQWTGKPRKTPGDKPLIVENTQIERWINNGLWVPALEFINVVGSPDTGNKRLMLFPDGRVIYNARFLGSFSNDMDFRLFPFDRQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">QFVLELEPFSYNNQQLRFSDIQVYTENIDNEEIDEWWIRGKASTHISDIRYDHL</span><span class="topo-unknown">SSVQP</span><span class="topo-inside">NQNEFSRITVRIDAVRNPSYYLWSFIL</span><span class="topo-membrane">PLGLIIAASWSVFWL</span><span class="topo-outside">ESFS</span><span class="topo-membrane">ERLQTSFTLMLTVVA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310        </span>
+<span class="topo-line"><span class="topo-membrane">Y</span><span class="topo-inside">AFYTSNILPRLPYTTVIDQM</span><span class="topo-membrane">IIAGYGSIFAAILLIIF</span><span class="topo-outside">AHHRQA</span><span class="topo-unknown">NG</span><span class="topo-outside">VEDDLLI</span><span class="topo-membrane">QRCRLAFPLGFLAIGCV</span><span class="topo-unknown">LVIRGITG</span></span>
+<details class="topo-details"><summary>Topology coordinates (10 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -920,6 +931,7 @@ ELIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the bacte
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -935,12 +947,13 @@ ELIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the bacte
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GPVDA</span><span class="topo-inside">RPVDVSVSIFINKIYGVNTLEQTYKVDGYIVAQWTGKPRKTPGDKPLIVENTQIE</span></span>
-<span class="topo-line"><span class="topo-inside">RWINNGLWVPALEFINVVGSPDTGNKRLMLFPDGRVIYNARFLGSFSNDMDFRLFPFDRQ</span></span>
-<span class="topo-line"><span class="topo-inside">QFVLELEPFSYNNQQLRFSDIQVYTENIDNEEIDEWWIRGKASTHISDIRYDHLSSVQPN</span></span>
-<span class="topo-line"><span class="topo-inside">QNEFSRITVRIDAVRNPSYYLWSFIL</span><span class="topo-membrane">PLGLIIAASWSVFWL</span><span class="topo-outside">ESFS</span><span class="topo-membrane">ERLQTSFTLMLTVVA</span></span>
-<span class="topo-line"><span class="topo-membrane">Y</span><span class="topo-inside">AFYTSNILPRLPYTTVIDQM</span><span class="topo-membrane">IIAGYGSIFAAILLIIF</span><span class="topo-outside">AHHRQAN</span><span class="topo-unknown">GV</span><span class="topo-outside">EDDLLI</span><span class="topo-membrane">QRCRLAF</span></span>
-<span class="topo-line"><span class="topo-membrane">PLGFLAIGCVL</span><span class="topo-unknown">VIRGITG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GPVDA</span><span class="topo-inside">RPVDVSVSIFINKIYGVNTLEQTYKVDGYIVAQWTGKPRKTPGDKPLIVENTQIERWINNGLWVPALEFINVVGSPDTGNKRLMLFPDGRVIYNARFLGSFSNDMDFRLFPFDRQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">QFVLELEPFSYNNQQLRFSDIQVYTENIDNEEIDEWWIRGKASTHISDIRYDHLSSVQPNQNEFSRITVRIDAVRNPSYYLWSFIL</span><span class="topo-membrane">PLGLIIAASWSVFWL</span><span class="topo-outside">ESFS</span><span class="topo-membrane">ERLQTSFTLMLTVVA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310        </span>
+<span class="topo-line"><span class="topo-membrane">Y</span><span class="topo-inside">AFYTSNILPRLPYTTVIDQM</span><span class="topo-membrane">IIAGYGSIFAAILLIIF</span><span class="topo-outside">AHHRQAN</span><span class="topo-unknown">GV</span><span class="topo-outside">EDDLLI</span><span class="topo-membrane">QRCRLAFPLGFLAIGCVL</span><span class="topo-unknown">VIRGITG</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1015,6 +1028,7 @@ ELIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the bacte
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1030,12 +1044,13 @@ ELIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the bacte
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GPVDA</span><span class="topo-inside">RPVDVSVSIFINKIYGVNTLEQTYKVDGYIVAQWTGKPRKTPGDKPLIVENTQIE</span></span>
-<span class="topo-line"><span class="topo-inside">RWINNGLWVPALEFINVVGSPDTGNKRLMLFPDGRVIYNARFLGSFSNDMDFRLFPFDRQ</span></span>
-<span class="topo-line"><span class="topo-inside">QFVLELEPFSYNNQQLRFSDIQVYTENIDNEEIDEWWIRGKASTHISDIRYDHLSSV</span><span class="topo-unknown">QP</span><span class="topo-inside">N</span></span>
-<span class="topo-line"><span class="topo-inside">QNEFSRITVRIDAVRNPSYYLWSFIL</span><span class="topo-membrane">PLGLIIAASWSVFWL</span><span class="topo-outside">ESFS</span><span class="topo-membrane">ERLQTSFTLMLTVVA</span></span>
-<span class="topo-line"><span class="topo-membrane">Y</span><span class="topo-inside">AFYTSNILPRLPYTTVIDQM</span><span class="topo-membrane">IIAGYGSIFAAILLIIF</span><span class="topo-outside">AHHRQANGVEDDLLI</span><span class="topo-membrane">QRCRLAF</span></span>
-<span class="topo-line"><span class="topo-membrane">PLGFLAIGCVL</span><span class="topo-unknown">VIRGITG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GPVDA</span><span class="topo-inside">RPVDVSVSIFINKIYGVNTLEQTYKVDGYIVAQWTGKPRKTPGDKPLIVENTQIERWINNGLWVPALEFINVVGSPDTGNKRLMLFPDGRVIYNARFLGSFSNDMDFRLFPFDRQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">QFVLELEPFSYNNQQLRFSDIQVYTENIDNEEIDEWWIRGKASTHISDIRYDHLSSV</span><span class="topo-unknown">QP</span><span class="topo-inside">NQNEFSRITVRIDAVRNPSYYLWSFIL</span><span class="topo-membrane">PLGLIIAASWSVFWL</span><span class="topo-outside">ESFS</span><span class="topo-membrane">ERLQTSFTLMLTVVA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310        </span>
+<span class="topo-line"><span class="topo-membrane">Y</span><span class="topo-inside">AFYTSNILPRLPYTTVIDQM</span><span class="topo-membrane">IIAGYGSIFAAILLIIF</span><span class="topo-outside">AHHRQANGVEDDLLI</span><span class="topo-membrane">QRCRLAFPLGFLAIGCVL</span><span class="topo-unknown">VIRGITG</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1110,6 +1125,7 @@ ELIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the bacte
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1125,12 +1141,13 @@ ELIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the bacte
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GPVD</span><span class="topo-inside">ARPVDVSVSIFINKIYGVNTLEQTYKVDGYIVAQWTGKPRKTPGDKPLIVENTQIE</span></span>
-<span class="topo-line"><span class="topo-inside">RWINNGLWVPALEFINVVGSPDTGNKRLMLFPDGRVIYNARFLGSFSNDMDFRLFPFDRQ</span></span>
-<span class="topo-line"><span class="topo-inside">QFVLELEPFSYNNQQLRFSDIQVYT</span><span class="topo-unknown">ENID</span><span class="topo-inside">NEEIDEWWIRGKASTHISDIRYDHL</span><span class="topo-unknown">SSVQ</span><span class="topo-inside">PN</span></span>
-<span class="topo-line"><span class="topo-inside">QNEFSRITVRIDAVRNPSYYLWSFIL</span><span class="topo-membrane">PLGLIIAASWSVFWL</span><span class="topo-outside">ESFS</span><span class="topo-membrane">ERLQTSFTLMLTVVA</span></span>
-<span class="topo-line"><span class="topo-membrane">Y</span><span class="topo-inside">AFYTSNILPRLPYTTVIDQM</span><span class="topo-membrane">IIAGYGSIFAAILLIIF</span><span class="topo-outside">AHHRQAN</span><span class="topo-unknown">GV</span><span class="topo-outside">EDDLLI</span><span class="topo-membrane">QRCRLAF</span></span>
-<span class="topo-line"><span class="topo-membrane">PLGFLAIGCVL</span><span class="topo-inside">VI</span><span class="topo-unknown">RGITG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GPVD</span><span class="topo-inside">ARPVDVSVSIFINKIYGVNTLEQTYKVDGYIVAQWTGKPRKTPGDKPLIVENTQIERWINNGLWVPALEFINVVGSPDTGNKRLMLFPDGRVIYNARFLGSFSNDMDFRLFPFDRQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">QFVLELEPFSYNNQQLRFSDIQVYT</span><span class="topo-unknown">ENID</span><span class="topo-inside">NEEIDEWWIRGKASTHISDIRYDHL</span><span class="topo-unknown">SSVQ</span><span class="topo-inside">PNQNEFSRITVRIDAVRNPSYYLWSFIL</span><span class="topo-membrane">PLGLIIAASWSVFWL</span><span class="topo-outside">ESFS</span><span class="topo-membrane">ERLQTSFTLMLTVVA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310        </span>
+<span class="topo-line"><span class="topo-membrane">Y</span><span class="topo-inside">AFYTSNILPRLPYTTVIDQM</span><span class="topo-membrane">IIAGYGSIFAAILLIIF</span><span class="topo-outside">AHHRQAN</span><span class="topo-unknown">GV</span><span class="topo-outside">EDDLLI</span><span class="topo-membrane">QRCRLAFPLGFLAIGCVL</span><span class="topo-inside">VI</span><span class="topo-unknown">RGITG</span></span>
+<details class="topo-details"><summary>Topology coordinates (12 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1226,6 +1243,7 @@ ELIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the bacte
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1241,12 +1259,13 @@ ELIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the bacte
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GPVDA</span><span class="topo-inside">RPVDVSVSIFINKIYGVNTLEQTYKVDGYIVAQWTGKPRKTPGDKPLIVENTQIE</span></span>
-<span class="topo-line"><span class="topo-inside">RWINNGLWVPALEFINVVGSPDTGNKRLMLFPDGRVIYNARFLGSFSNDMDFRLFPFDRQ</span></span>
-<span class="topo-line"><span class="topo-inside">QFVLELEPFSYNNQQLRFSDIQVYTENIDNEEIDEWWIRGKASTHISDIRYDHLSSVQPN</span></span>
-<span class="topo-line"><span class="topo-inside">QNEFSRITVRIDAVRNPSYYLWSFIL</span><span class="topo-membrane">PLGLIIAASWSVFWL</span><span class="topo-outside">ESFS</span><span class="topo-membrane">ERLQTSFTLMLTVVA</span></span>
-<span class="topo-line"><span class="topo-membrane">Y</span><span class="topo-inside">AFYTSNILPRLPYTTVIDQM</span><span class="topo-membrane">IIAGYGSIFAAILLIIF</span><span class="topo-outside">AHHR</span><span class="topo-unknown">QANGV</span><span class="topo-outside">EDDLLI</span><span class="topo-membrane">QRCRLAF</span></span>
-<span class="topo-line"><span class="topo-membrane">PLGFLAIGCVL</span><span class="topo-inside">VI</span><span class="topo-unknown">RGITG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GPVDA</span><span class="topo-inside">RPVDVSVSIFINKIYGVNTLEQTYKVDGYIVAQWTGKPRKTPGDKPLIVENTQIERWINNGLWVPALEFINVVGSPDTGNKRLMLFPDGRVIYNARFLGSFSNDMDFRLFPFDRQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">QFVLELEPFSYNNQQLRFSDIQVYTENIDNEEIDEWWIRGKASTHISDIRYDHLSSVQPNQNEFSRITVRIDAVRNPSYYLWSFIL</span><span class="topo-membrane">PLGLIIAASWSVFWL</span><span class="topo-outside">ESFS</span><span class="topo-membrane">ERLQTSFTLMLTVVA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310        </span>
+<span class="topo-line"><span class="topo-membrane">Y</span><span class="topo-inside">AFYTSNILPRLPYTTVIDQM</span><span class="topo-membrane">IIAGYGSIFAAILLIIF</span><span class="topo-outside">AHHR</span><span class="topo-unknown">QANGV</span><span class="topo-outside">EDDLLI</span><span class="topo-membrane">QRCRLAFPLGFLAIGCVL</span><span class="topo-inside">VI</span><span class="topo-unknown">RGITG</span></span>
+<details class="topo-details"><summary>Topology coordinates (10 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1328,6 +1347,7 @@ ELIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the bacte
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1432,12 +1452,13 @@ ELIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the bacte
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">PVDVSVSIFINKIYGVNTLEQTYKVDGYIVAQWTGKPRKTPGDKPLIVENTQIERWINNG</span></span>
-<span class="topo-line"><span class="topo-inside">LWVPALEFINVVGSPDTGNKRLMLFPDGRVIYNARFLGSFSNDMDFRLFPFDRQQFVLEL</span></span>
-<span class="topo-line"><span class="topo-inside">EPFSYNNQQLRFSDIQVYTENIDNEEIDEWWIRGKASTHISDIRYDHLSSVQPNQNEFSR</span></span>
-<span class="topo-line"><span class="topo-inside">ITVRIDAVRNPSYYLWSFIL</span><span class="topo-membrane">PLGLIIAASWSVFWL</span><span class="topo-outside">ESFS</span><span class="topo-membrane">ERLQTSFTLMLTVVAY</span><span class="topo-inside">AFYTS</span></span>
-<span class="topo-line"><span class="topo-inside">NILPRLPYTTVIDQM</span><span class="topo-membrane">IIAGYGSIFAAILLIIF</span><span class="topo-outside">AHHRQANGVEDDLLI</span><span class="topo-membrane">QRCRLAFPLGFLA</span></span>
-<span class="topo-line"><span class="topo-membrane">IGCVL</span><span class="topo-inside">VI</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">PVDVSVSIFINKIYGVNTLEQTYKVDGYIVAQWTGKPRKTPGDKPLIVENTQIERWINNGLWVPALEFINVVGSPDTGNKRLMLFPDGRVIYNARFLGSFSNDMDFRLFPFDRQQFVLEL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">EPFSYNNQQLRFSDIQVYTENIDNEEIDEWWIRGKASTHISDIRYDHLSSVQPNQNEFSRITVRIDAVRNPSYYLWSFIL</span><span class="topo-membrane">PLGLIIAASWSVFWL</span><span class="topo-outside">ESFS</span><span class="topo-membrane">ERLQTSFTLMLTVVAY</span><span class="topo-inside">AFYTS</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       </span>
+<span class="topo-line"><span class="topo-inside">NILPRLPYTTVIDQM</span><span class="topo-membrane">IIAGYGSIFAAILLIIF</span><span class="topo-outside">AHHRQANGVEDDLLI</span><span class="topo-membrane">QRCRLAFPLGFLAIGCVL</span><span class="topo-inside">VI</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1512,6 +1533,7 @@ ELIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the bacte
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1527,12 +1549,13 @@ ELIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the bacte
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">PVDVSVSIFINKIYGVNTLEQTYKVDGYIVAQWTGKPRKTPGDKPLIVENTQIERWINNG</span></span>
-<span class="topo-line"><span class="topo-inside">LWVPALEFINVVGSPDTGNKRLMLFPDGRVIYNARFLGSFSNDMDFRLFPFDRQQFVLEL</span></span>
-<span class="topo-line"><span class="topo-inside">EPFSYNNQQLRFSDIQVYTENIDNEEIDEWWIRGKASTHISDIRYDHLSSVQPNQNEFSR</span></span>
-<span class="topo-line"><span class="topo-inside">ITVRIDAVRNPSYYLWSFIL</span><span class="topo-membrane">PLGLIIAASWSVFWL</span><span class="topo-outside">ESFS</span><span class="topo-membrane">ERLQTSFTLMLTVVAY</span><span class="topo-inside">AFYTS</span></span>
-<span class="topo-line"><span class="topo-inside">NILPRLPYTTVIDQM</span><span class="topo-membrane">IIAGYGSIFAAILLIIF</span><span class="topo-outside">AHHRQANGVEDDLLI</span><span class="topo-membrane">QRCRLAFPLGFLA</span></span>
-<span class="topo-line"><span class="topo-membrane">IGCVL</span><span class="topo-inside">VI</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">PVDVSVSIFINKIYGVNTLEQTYKVDGYIVAQWTGKPRKTPGDKPLIVENTQIERWINNGLWVPALEFINVVGSPDTGNKRLMLFPDGRVIYNARFLGSFSNDMDFRLFPFDRQQFVLEL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">EPFSYNNQQLRFSDIQVYTENIDNEEIDEWWIRGKASTHISDIRYDHLSSVQPNQNEFSRITVRIDAVRNPSYYLWSFIL</span><span class="topo-membrane">PLGLIIAASWSVFWL</span><span class="topo-outside">ESFS</span><span class="topo-membrane">ERLQTSFTLMLTVVAY</span><span class="topo-inside">AFYTS</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       </span>
+<span class="topo-line"><span class="topo-inside">NILPRLPYTTVIDQM</span><span class="topo-membrane">IIAGYGSIFAAILLIIF</span><span class="topo-outside">AHHRQANGVEDDLLI</span><span class="topo-membrane">QRCRLAFPLGFLAIGCVL</span><span class="topo-inside">VI</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1607,6 +1630,7 @@ ELIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the bacte
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1622,12 +1646,13 @@ ELIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the bacte
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">PVDVSVSIFINKIYGVNTLEQTYKVDGYIVAQWTGKPRKTPGDKPLIVENTQIERWINNG</span></span>
-<span class="topo-line"><span class="topo-inside">LWVPALEFINVVGSPDTGNKRLMLFPDGRVIYNARFLGSFSNDMDFRLFPFDRQQFVLEL</span></span>
-<span class="topo-line"><span class="topo-inside">EPFSYNNQQLRFSDIQVYTENIDNEEIDEWWIRGKASTHISDIRYDHLSSVQPNQNEFSR</span></span>
-<span class="topo-line"><span class="topo-inside">ITVRIDAVRNPSYYLWSFIL</span><span class="topo-membrane">PLGLIIAASWSVFWL</span><span class="topo-outside">ESFS</span><span class="topo-membrane">ERLQTSFTLMLTVVAY</span><span class="topo-inside">AFYTS</span></span>
-<span class="topo-line"><span class="topo-inside">NILPRLPYTTVIDQM</span><span class="topo-membrane">IIAGYGSIFAAILLIIF</span><span class="topo-outside">AHHRQANGVEDDLLI</span><span class="topo-membrane">QRCRLAFPLGFLA</span></span>
-<span class="topo-line"><span class="topo-membrane">IGCVL</span><span class="topo-inside">VI</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">PVDVSVSIFINKIYGVNTLEQTYKVDGYIVAQWTGKPRKTPGDKPLIVENTQIERWINNGLWVPALEFINVVGSPDTGNKRLMLFPDGRVIYNARFLGSFSNDMDFRLFPFDRQQFVLEL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">EPFSYNNQQLRFSDIQVYTENIDNEEIDEWWIRGKASTHISDIRYDHLSSVQPNQNEFSRITVRIDAVRNPSYYLWSFIL</span><span class="topo-membrane">PLGLIIAASWSVFWL</span><span class="topo-outside">ESFS</span><span class="topo-membrane">ERLQTSFTLMLTVVAY</span><span class="topo-inside">AFYTS</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       </span>
+<span class="topo-line"><span class="topo-inside">NILPRLPYTTVIDQM</span><span class="topo-membrane">IIAGYGSIFAAILLIIF</span><span class="topo-outside">AHHRQANGVEDDLLI</span><span class="topo-membrane">QRCRLAFPLGFLAIGCVL</span><span class="topo-inside">VI</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1702,6 +1727,7 @@ ELIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the bacte
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1717,12 +1743,13 @@ ELIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the bacte
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">PVDVSVSIFINKIYGVNTLEQTYKVDGYIVAQWTGKPRKTPGDKPLIVENTQIERWINNG</span></span>
-<span class="topo-line"><span class="topo-inside">LWVPALEFINVVGSPDTGNKRLMLFPDGRVIYNARFLGSFSNDMDFRLFPFDRQQFVLEL</span></span>
-<span class="topo-line"><span class="topo-inside">EPFSYNNQQLRFSDIQVYTENIDNEEIDEWWIRGKASTHISDIRYDHLSSVQPNQNEFSR</span></span>
-<span class="topo-line"><span class="topo-inside">ITVRIDAVRNPSYYLWSFIL</span><span class="topo-membrane">PLGLIIAASWSVFWL</span><span class="topo-outside">ESFS</span><span class="topo-membrane">ERLQTSFTLMLTVVAY</span><span class="topo-inside">AFYTS</span></span>
-<span class="topo-line"><span class="topo-inside">NILPRLPYTTVIDQM</span><span class="topo-membrane">IIAGYGSIFAAILLIIF</span><span class="topo-outside">AHHRQANGVEDDLLIQR</span><span class="topo-membrane">CRLAFPLGFLA</span></span>
-<span class="topo-line"><span class="topo-membrane">IGCVL</span><span class="topo-inside">VI</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">PVDVSVSIFINKIYGVNTLEQTYKVDGYIVAQWTGKPRKTPGDKPLIVENTQIERWINNGLWVPALEFINVVGSPDTGNKRLMLFPDGRVIYNARFLGSFSNDMDFRLFPFDRQQFVLEL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">EPFSYNNQQLRFSDIQVYTENIDNEEIDEWWIRGKASTHISDIRYDHLSSVQPNQNEFSRITVRIDAVRNPSYYLWSFIL</span><span class="topo-membrane">PLGLIIAASWSVFWL</span><span class="topo-outside">ESFS</span><span class="topo-membrane">ERLQTSFTLMLTVVAY</span><span class="topo-inside">AFYTS</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       </span>
+<span class="topo-line"><span class="topo-inside">NILPRLPYTTVIDQM</span><span class="topo-membrane">IIAGYGSIFAAILLIIF</span><span class="topo-outside">AHHRQANGVEDDLLIQR</span><span class="topo-membrane">CRLAFPLGFLAIGCVL</span><span class="topo-inside">VI</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1797,6 +1824,7 @@ ELIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the bacte
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1812,12 +1840,13 @@ ELIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the bacte
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">PVDVSVSIFINKIYGVNTLEQTYKVDGYIVAQWTGKPRKTPGDKPLIVENTQIERWINNG</span></span>
-<span class="topo-line"><span class="topo-inside">LWVPALEFINVVGSPDTGNKRLMLFPDGRVIYNARFLGSFSNDMDFRLFPFDRQQFVLEL</span></span>
-<span class="topo-line"><span class="topo-inside">EPFSYNNQQLRFSDIQVYTENIDNEEIDEWWIRGKASTHISDIRYDHLSSVQPNQNEFSR</span></span>
-<span class="topo-line"><span class="topo-inside">ITVRIDAVRNPSYYLWSFIL</span><span class="topo-membrane">PLGLIIAASWSVFWL</span><span class="topo-outside">ESFS</span><span class="topo-membrane">ERLQTSFTLMLTVVAY</span><span class="topo-inside">AFYTS</span></span>
-<span class="topo-line"><span class="topo-inside">NILPRLPYTTVIDQM</span><span class="topo-membrane">IIAGYGSIFAAILLIIF</span><span class="topo-outside">AHHRQANGVEDDLLIQR</span><span class="topo-membrane">CRLAFPLGFLA</span></span>
-<span class="topo-line"><span class="topo-membrane">IGCVL</span><span class="topo-inside">VI</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">PVDVSVSIFINKIYGVNTLEQTYKVDGYIVAQWTGKPRKTPGDKPLIVENTQIERWINNGLWVPALEFINVVGSPDTGNKRLMLFPDGRVIYNARFLGSFSNDMDFRLFPFDRQQFVLEL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">EPFSYNNQQLRFSDIQVYTENIDNEEIDEWWIRGKASTHISDIRYDHLSSVQPNQNEFSRITVRIDAVRNPSYYLWSFIL</span><span class="topo-membrane">PLGLIIAASWSVFWL</span><span class="topo-outside">ESFS</span><span class="topo-membrane">ERLQTSFTLMLTVVAY</span><span class="topo-inside">AFYTS</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       </span>
+<span class="topo-line"><span class="topo-inside">NILPRLPYTTVIDQM</span><span class="topo-membrane">IIAGYGSIFAAILLIIF</span><span class="topo-outside">AHHRQANGVEDDLLIQR</span><span class="topo-membrane">CRLAFPLGFLAIGCVL</span><span class="topo-inside">VI</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1892,6 +1921,7 @@ ELIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the bacte
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1940,12 +1970,13 @@ ELIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the bacte
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">APADNAADAR</span><span class="topo-inside">PVDVSVSIFINKIYGVNTLEQTYKVDGYIVAQWTGKPRKTPGDKPLIVEN</span></span>
-<span class="topo-line"><span class="topo-inside">TQIERWINNGLWVPALEFINVVGSPDTGNKRLMLFPDGRVIYNARFLGSFSNDMDFRLFP</span></span>
-<span class="topo-line"><span class="topo-inside">FDRQQFVLELEPFSYNNQQLRFSDIQVYTENIDNEEIDEWWIRKASTHISDIRYDHLSSV</span></span>
-<span class="topo-line"><span class="topo-inside">QPNQNEFSRITVRIDAVRNPSYYLWSFIL</span><span class="topo-membrane">PLGLIIAASWSVFWL</span><span class="topo-outside">ESFS</span><span class="topo-membrane">ERLQTSFTLMLT</span></span>
-<span class="topo-line"><span class="topo-membrane">VVAY</span><span class="topo-inside">AFYTSNILPRLPYTTVIDQM</span><span class="topo-membrane">IIAGYGSIFAAILLIIF</span><span class="topo-outside">AHHRQANGVEDDLLI</span><span class="topo-membrane">QRCR</span></span>
-<span class="topo-line"><span class="topo-membrane">LAFPLGFLAIGCV</span><span class="topo-inside">LVI</span><span class="topo-unknown">RGITL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">APADNAADAR</span><span class="topo-inside">PVDVSVSIFINKIYGVNTLEQTYKVDGYIVAQWTGKPRKTPGDKPLIVENTQIERWINNGLWVPALEFINVVGSPDTGNKRLMLFPDGRVIYNARFLGSFSNDMDFRLFP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FDRQQFVLELEPFSYNNQQLRFSDIQVYTENIDNEEIDEWWIRKASTHISDIRYDHLSSVQPNQNEFSRITVRIDAVRNPSYYLWSFIL</span><span class="topo-membrane">PLGLIIAASWSVFWL</span><span class="topo-outside">ESFS</span><span class="topo-membrane">ERLQTSFTLMLT</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320 </span>
+<span class="topo-line"><span class="topo-membrane">VVAY</span><span class="topo-inside">AFYTSNILPRLPYTTVIDQM</span><span class="topo-membrane">IIAGYGSIFAAILLIIF</span><span class="topo-outside">AHHRQANGVEDDLLI</span><span class="topo-membrane">QRCRLAFPLGFLAIGCV</span><span class="topo-inside">LVI</span><span class="topo-unknown">RGITL</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2034,6 +2065,7 @@ ELIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the bacte
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2049,12 +2081,13 @@ ELIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the bacte
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">APADNAADAR</span><span class="topo-inside">PVDVSVSIFINKIYGVNTLEQTYKVDGYIVAQWTGKPRKTPGDKPLIVEN</span></span>
-<span class="topo-line"><span class="topo-inside">TQIERWINNGLWVPALEFINVVGSPDTGNKRLMLFPDGRVIYNARFLGSFSNDMDFRLFP</span></span>
-<span class="topo-line"><span class="topo-inside">FDRQQFVLELEPFSYNNQQLRFSDIQVYTENIDNEEIDEWWIRKASTHISDIRYDHLSSV</span></span>
-<span class="topo-line"><span class="topo-inside">QPNQNEFSRITVRIDAVRNPSYYLWSFIL</span><span class="topo-membrane">PLGLIIAASWSVFWL</span><span class="topo-outside">ESFS</span><span class="topo-membrane">ERLQTSFTLMLT</span></span>
-<span class="topo-line"><span class="topo-membrane">VVAY</span><span class="topo-inside">AFYTSNILPRLPYTTVIDQM</span><span class="topo-membrane">IIAGYGSIFAAILLIIF</span><span class="topo-outside">AHHRQANGVEDDLLIQR</span><span class="topo-membrane">CR</span></span>
-<span class="topo-line"><span class="topo-membrane">LAFPLGFLAIGCV</span><span class="topo-inside">LVI</span><span class="topo-unknown">RGITL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">APADNAADAR</span><span class="topo-inside">PVDVSVSIFINKIYGVNTLEQTYKVDGYIVAQWTGKPRKTPGDKPLIVENTQIERWINNGLWVPALEFINVVGSPDTGNKRLMLFPDGRVIYNARFLGSFSNDMDFRLFP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FDRQQFVLELEPFSYNNQQLRFSDIQVYTENIDNEEIDEWWIRKASTHISDIRYDHLSSVQPNQNEFSRITVRIDAVRNPSYYLWSFIL</span><span class="topo-membrane">PLGLIIAASWSVFWL</span><span class="topo-outside">ESFS</span><span class="topo-membrane">ERLQTSFTLMLT</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320 </span>
+<span class="topo-line"><span class="topo-membrane">VVAY</span><span class="topo-inside">AFYTSNILPRLPYTTVIDQM</span><span class="topo-membrane">IIAGYGSIFAAILLIIF</span><span class="topo-outside">AHHRQANGVEDDLLIQR</span><span class="topo-membrane">CRLAFPLGFLAIGCV</span><span class="topo-inside">LVI</span><span class="topo-unknown">RGITL</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2143,6 +2176,7 @@ ELIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the bacte
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2158,12 +2192,13 @@ ELIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the bacte
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">APADNAADAR</span><span class="topo-inside">PVDVSVSIFINKIYGVNTLEQTYKVDGYIVAQWTGKPRKTPGDKPLIVEN</span></span>
-<span class="topo-line"><span class="topo-inside">TQIERWINNGLWVPALEFINVVGSPDTGNKRLMLFPDGRVIYNARFLGSFSNDMDFRLFP</span></span>
-<span class="topo-line"><span class="topo-inside">FDRQQFVLELEPFSYNNQQLRFSDIQVYTENIDNEEIDEWWIRKASTHISDIRYDHLSSV</span></span>
-<span class="topo-line"><span class="topo-inside">QPNQNEFSRITVRIDAVRNPSYYLWSFIL</span><span class="topo-membrane">PLGLIIAASWSVFWL</span><span class="topo-outside">ESFS</span><span class="topo-membrane">ERLQTSFTLMLT</span></span>
-<span class="topo-line"><span class="topo-membrane">VVAY</span><span class="topo-inside">AFYTSNILPRLPYTTVIDQM</span><span class="topo-membrane">IIAGYGSIFAAILLIIF</span><span class="topo-outside">AHHRQANGVEDDLLIQR</span><span class="topo-membrane">CR</span></span>
-<span class="topo-line"><span class="topo-membrane">LAFPLGFLAIGCV</span><span class="topo-inside">LVI</span><span class="topo-unknown">RGITL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">APADNAADAR</span><span class="topo-inside">PVDVSVSIFINKIYGVNTLEQTYKVDGYIVAQWTGKPRKTPGDKPLIVENTQIERWINNGLWVPALEFINVVGSPDTGNKRLMLFPDGRVIYNARFLGSFSNDMDFRLFP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FDRQQFVLELEPFSYNNQQLRFSDIQVYTENIDNEEIDEWWIRKASTHISDIRYDHLSSVQPNQNEFSRITVRIDAVRNPSYYLWSFIL</span><span class="topo-membrane">PLGLIIAASWSVFWL</span><span class="topo-outside">ESFS</span><span class="topo-membrane">ERLQTSFTLMLT</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320 </span>
+<span class="topo-line"><span class="topo-membrane">VVAY</span><span class="topo-inside">AFYTSNILPRLPYTTVIDQM</span><span class="topo-membrane">IIAGYGSIFAAILLIIF</span><span class="topo-outside">AHHRQANGVEDDLLIQR</span><span class="topo-membrane">CRLAFPLGFLAIGCV</span><span class="topo-inside">LVI</span><span class="topo-unknown">RGITL</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2252,6 +2287,7 @@ ELIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the bacte
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2267,12 +2303,13 @@ ELIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the bacte
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">APADNAADAR</span><span class="topo-inside">PVDVSVSIFINKIYGVNTLEQTYKVDGYIVAQWTGKPRKTPGDKPLIVEN</span></span>
-<span class="topo-line"><span class="topo-inside">TQIERWINNGLWVPALEFINVVGSPDTGNKRLMLFPDGRVIYNARFLGSFSNDMDFRLFP</span></span>
-<span class="topo-line"><span class="topo-inside">FDRQQFVLELEPFSYNNQQLRFSDIQVYTENIDNEEIDEWWIRKASTHISDIRYDHLSSV</span></span>
-<span class="topo-line"><span class="topo-inside">QPNQNEFSRITVRIDAVRNPSYYLWSFIL</span><span class="topo-membrane">PLGLIIAASWSVFWL</span><span class="topo-outside">ESFS</span><span class="topo-membrane">ERLQTSFTLMLT</span></span>
-<span class="topo-line"><span class="topo-membrane">VVAY</span><span class="topo-inside">AFYTSNILPRLPYTTVIDQM</span><span class="topo-membrane">IIAGYGSIFAAILLIIF</span><span class="topo-outside">AHHRQANGVEDDLLIQR</span><span class="topo-membrane">CR</span></span>
-<span class="topo-line"><span class="topo-membrane">LAFPLGFLAIGCV</span><span class="topo-inside">LVI</span><span class="topo-unknown">RGITL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">APADNAADAR</span><span class="topo-inside">PVDVSVSIFINKIYGVNTLEQTYKVDGYIVAQWTGKPRKTPGDKPLIVENTQIERWINNGLWVPALEFINVVGSPDTGNKRLMLFPDGRVIYNARFLGSFSNDMDFRLFP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FDRQQFVLELEPFSYNNQQLRFSDIQVYTENIDNEEIDEWWIRKASTHISDIRYDHLSSVQPNQNEFSRITVRIDAVRNPSYYLWSFIL</span><span class="topo-membrane">PLGLIIAASWSVFWL</span><span class="topo-outside">ESFS</span><span class="topo-membrane">ERLQTSFTLMLT</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320 </span>
+<span class="topo-line"><span class="topo-membrane">VVAY</span><span class="topo-inside">AFYTSNILPRLPYTTVIDQM</span><span class="topo-membrane">IIAGYGSIFAAILLIIF</span><span class="topo-outside">AHHRQANGVEDDLLIQR</span><span class="topo-membrane">CRLAFPLGFLAIGCV</span><span class="topo-inside">LVI</span><span class="topo-unknown">RGITL</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2361,6 +2398,7 @@ ELIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the bacte
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2376,12 +2414,13 @@ ELIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the bacte
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">APADNAADAR</span><span class="topo-inside">PVDVSVSIFINKIYGVNTLEQTYKVDGYIVAQWTGKPRKTPGDKPLIVEN</span></span>
-<span class="topo-line"><span class="topo-inside">TQIERWINNGLWVPALEFINVVGSPDTGNKRLMLFPDGRVIYNARFLGSFSNDMDFRLFP</span></span>
-<span class="topo-line"><span class="topo-inside">FDRQQFVLELEPFSYNNQQLRFSDIQVYTENIDNEEIDEWWIRKASTHISDIRYDHLSSV</span></span>
-<span class="topo-line"><span class="topo-inside">QPNQNEFSRITVRIDAVRNPSYYLWSFIL</span><span class="topo-membrane">PLGLIIAASWSVFWL</span><span class="topo-outside">ESFS</span><span class="topo-membrane">ERLQTSFTLMLT</span></span>
-<span class="topo-line"><span class="topo-membrane">VVAY</span><span class="topo-inside">AFYTSNILPRLPYTTVIDQM</span><span class="topo-membrane">IIAGYGSIFAAILLIIF</span><span class="topo-outside">AHHRQANGVEDDLLIQR</span><span class="topo-membrane">CR</span></span>
-<span class="topo-line"><span class="topo-membrane">LAFPLGFLAIGCV</span><span class="topo-inside">LVI</span><span class="topo-unknown">RGITL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">APADNAADAR</span><span class="topo-inside">PVDVSVSIFINKIYGVNTLEQTYKVDGYIVAQWTGKPRKTPGDKPLIVENTQIERWINNGLWVPALEFINVVGSPDTGNKRLMLFPDGRVIYNARFLGSFSNDMDFRLFP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FDRQQFVLELEPFSYNNQQLRFSDIQVYTENIDNEEIDEWWIRKASTHISDIRYDHLSSVQPNQNEFSRITVRIDAVRNPSYYLWSFIL</span><span class="topo-membrane">PLGLIIAASWSVFWL</span><span class="topo-outside">ESFS</span><span class="topo-membrane">ERLQTSFTLMLT</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320 </span>
+<span class="topo-line"><span class="topo-membrane">VVAY</span><span class="topo-inside">AFYTSNILPRLPYTTVIDQM</span><span class="topo-membrane">IIAGYGSIFAAILLIIF</span><span class="topo-outside">AHHRQANGVEDDLLIQR</span><span class="topo-membrane">CRLAFPLGFLAIGCV</span><span class="topo-inside">LVI</span><span class="topo-unknown">RGITL</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2470,6 +2509,7 @@ ELIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the bacte
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2607,12 +2647,13 @@ ELIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the bacte
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">ARPVDVSVSIFINKIYGVNTLEQTYKVDGYIVAQWTGKPRKTPGDKPLIVENTQIERWIN</span></span>
-<span class="topo-line"><span class="topo-outside">NGLWVPALEFINVVGSPDTGNKRLMLFPDGRVIYNARFLGSFSNDMDFRLFPFDRQQFVL</span></span>
-<span class="topo-line"><span class="topo-outside">ELEPFSYNNQQLRFSDIQVYTENIDNEEIDEWWIRGKASTHISDIRYDHLSSVQPNQNEF</span></span>
-<span class="topo-line"><span class="topo-outside">SRITVRIDAVRNPSYYLWSFIL</span><span class="topo-membrane">PLGLIIAASWSVFWL</span><span class="topo-inside">ESFS</span><span class="topo-membrane">ERLQTSFTCMLTVVAYA</span><span class="topo-outside">FY</span></span>
-<span class="topo-line"><span class="topo-outside">TSNILPRLPYTTVIDQM</span><span class="topo-membrane">IIAGYGSIFAAILLIIF</span><span class="topo-inside">AHHRQA</span><span class="topo-unknown">NGV</span><span class="topo-inside">EDDLLIQ</span><span class="topo-membrane">RSRLAFPLGF</span></span>
-<span class="topo-line"><span class="topo-membrane">LAIGSV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">ARPVDVSVSIFINKIYGVNTLEQTYKVDGYIVAQWTGKPRKTPGDKPLIVENTQIERWINNGLWVPALEFINVVGSPDTGNKRLMLFPDGRVIYNARFLGSFSNDMDFRLFPFDRQQFVL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">ELEPFSYNNQQLRFSDIQVYTENIDNEEIDEWWIRGKASTHISDIRYDHLSSVQPNQNEFSRITVRIDAVRNPSYYLWSFIL</span><span class="topo-membrane">PLGLIIAASWSVFWL</span><span class="topo-inside">ESFS</span><span class="topo-membrane">ERLQTSFTCMLTVVAYA</span><span class="topo-outside">FY</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300      </span>
+<span class="topo-line"><span class="topo-outside">TSNILPRLPYTTVIDQM</span><span class="topo-membrane">IIAGYGSIFAAILLIIF</span><span class="topo-inside">AHHRQA</span><span class="topo-unknown">NGV</span><span class="topo-inside">EDDLLIQ</span><span class="topo-membrane">RSRLAFPLGFLAIGSV</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2687,6 +2728,7 @@ ELIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the bacte
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2702,12 +2744,13 @@ ELIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the bacte
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">PVDARPVDVSVSIFINKIYGVNTLEQTYKVDGYIVAQWTGKPRKTPGDKPLIVENTQIER</span></span>
-<span class="topo-line"><span class="topo-outside">WINNGLWVPALEFINVVGSPDTGNKRLMLFPDGRVIYNARFLGSFSNDMDFRLFPFDRQQ</span></span>
-<span class="topo-line"><span class="topo-outside">FVLELEPFSYNNQQLRFSDIQVYTENIDNEEIDEWWIRGKASTHISDIRYDHLSSVQPNQ</span></span>
-<span class="topo-line"><span class="topo-outside">NEFSRITVRIDAVRNPSYYLWSFIL</span><span class="topo-membrane">PLGLIIAASWSVFWL</span><span class="topo-inside">ESFS</span><span class="topo-membrane">ERLQTSFTCMLTVVAY</span></span>
-<span class="topo-line"><span class="topo-membrane">A</span><span class="topo-outside">FYTSNILPRLPYTTVIDQM</span><span class="topo-membrane">IIAGYGSIFAAILLIIF</span><span class="topo-inside">AHHRQANGVEDDLLI</span><span class="topo-membrane">QRSRLAFP</span></span>
-<span class="topo-line"><span class="topo-membrane">LGFLAIGSV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">PVDARPVDVSVSIFINKIYGVNTLEQTYKVDGYIVAQWTGKPRKTPGDKPLIVENTQIERWINNGLWVPALEFINVVGSPDTGNKRLMLFPDGRVIYNARFLGSFSNDMDFRLFPFDRQQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">FVLELEPFSYNNQQLRFSDIQVYTENIDNEEIDEWWIRGKASTHISDIRYDHLSSVQPNQNEFSRITVRIDAVRNPSYYLWSFIL</span><span class="topo-membrane">PLGLIIAASWSVFWL</span><span class="topo-inside">ESFS</span><span class="topo-membrane">ERLQTSFTCMLTVVAY</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300         </span>
+<span class="topo-line"><span class="topo-membrane">A</span><span class="topo-outside">FYTSNILPRLPYTTVIDQM</span><span class="topo-membrane">IIAGYGSIFAAILLIIF</span><span class="topo-inside">AHHRQANGVEDDLLI</span><span class="topo-membrane">QRSRLAFPLGFLAIGSV</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2775,6 +2818,7 @@ ELIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the bacte
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2790,12 +2834,13 @@ ELIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the bacte
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">PVDARPVDVSVSIFINKIYGVNTLEQTYKVDGYIVAQWTGKPRKTPGDKPLIVENTQIER</span></span>
-<span class="topo-line"><span class="topo-outside">WINNGLWVPALEFINVVGSPDTGNKRLMLFPDGRVIYNARFLGSFSNDMDFRLFPFDRQQ</span></span>
-<span class="topo-line"><span class="topo-outside">FVLELEPFSYNNQQLRFSDIQVYTENIDNEEIDEWWIRGKASTHISDIRYDHL</span><span class="topo-unknown">SSV</span><span class="topo-outside">QPNQ</span></span>
-<span class="topo-line"><span class="topo-outside">NEFSRITVRIDAVRNPSYYLWSFIL</span><span class="topo-membrane">PLGLIIAASWSVFWL</span><span class="topo-inside">ESFS</span><span class="topo-membrane">ERLQTSFTCMLTVVAY</span></span>
-<span class="topo-line"><span class="topo-membrane">A</span><span class="topo-outside">FYTSNILPRLPYTTVIDQM</span><span class="topo-membrane">IIAGYGSIFAAILLIIF</span><span class="topo-inside">AHHRQA</span><span class="topo-unknown">NGVE</span><span class="topo-inside">DDLLIQRS</span><span class="topo-membrane">RLAFP</span></span>
-<span class="topo-line"><span class="topo-membrane">LGFLAIGSVL</span><span class="topo-outside">VI</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">PVDARPVDVSVSIFINKIYGVNTLEQTYKVDGYIVAQWTGKPRKTPGDKPLIVENTQIERWINNGLWVPALEFINVVGSPDTGNKRLMLFPDGRVIYNARFLGSFSNDMDFRLFPFDRQQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">FVLELEPFSYNNQQLRFSDIQVYTENIDNEEIDEWWIRGKASTHISDIRYDHL</span><span class="topo-unknown">SSV</span><span class="topo-outside">QPNQNEFSRITVRIDAVRNPSYYLWSFIL</span><span class="topo-membrane">PLGLIIAASWSVFWL</span><span class="topo-inside">ESFS</span><span class="topo-membrane">ERLQTSFTCMLTVVAY</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310  </span>
+<span class="topo-line"><span class="topo-membrane">A</span><span class="topo-outside">FYTSNILPRLPYTTVIDQM</span><span class="topo-membrane">IIAGYGSIFAAILLIIF</span><span class="topo-inside">AHHRQA</span><span class="topo-unknown">NGVE</span><span class="topo-inside">DDLLIQRS</span><span class="topo-membrane">RLAFPLGFLAIGSVL</span><span class="topo-outside">VI</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2884,6 +2929,7 @@ ELIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the bacte
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2899,12 +2945,13 @@ ELIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the bacte
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">ARPVDVSVSIFINKIYGVNTLEQTYKVDGYIVAQWTGKPRKTPGDKPLIVENTQIERWIN</span></span>
-<span class="topo-line"><span class="topo-outside">NGLWVPALEFINVVGSPDTGNKRLMLFPDGRVIYNARFLGSFSNDMDFRLFPFDRQQFVL</span></span>
-<span class="topo-line"><span class="topo-outside">ELEPFSYNNQQLRFSDIQVYTENIDNEEIDEWWIRGKASTHISDIRYDHLS</span><span class="topo-unknown">SVQ</span><span class="topo-outside">PNQNEF</span></span>
-<span class="topo-line"><span class="topo-outside">SRITVRIDAVRNPSYYLWSFIL</span><span class="topo-membrane">PLGLIIAASWSVFWL</span><span class="topo-inside">ESFS</span><span class="topo-membrane">ERLQTSFTCMLTVVAYA</span><span class="topo-outside">FY</span></span>
-<span class="topo-line"><span class="topo-outside">TSNILPRLPYTTVIDQM</span><span class="topo-membrane">IIAGYGSIFAAILLIIF</span><span class="topo-inside">AHHRQ</span><span class="topo-unknown">ANGVE</span><span class="topo-inside">DDLLI</span><span class="topo-membrane">QRSRLAFPLGF</span></span>
-<span class="topo-line"><span class="topo-membrane">LAIGSVL</span><span class="topo-outside">VIR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">ARPVDVSVSIFINKIYGVNTLEQTYKVDGYIVAQWTGKPRKTPGDKPLIVENTQIERWINNGLWVPALEFINVVGSPDTGNKRLMLFPDGRVIYNARFLGSFSNDMDFRLFPFDRQQFVL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">ELEPFSYNNQQLRFSDIQVYTENIDNEEIDEWWIRGKASTHISDIRYDHLS</span><span class="topo-unknown">SVQ</span><span class="topo-outside">PNQNEFSRITVRIDAVRNPSYYLWSFIL</span><span class="topo-membrane">PLGLIIAASWSVFWL</span><span class="topo-inside">ESFS</span><span class="topo-membrane">ERLQTSFTCMLTVVAYA</span><span class="topo-outside">FY</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310</span>
+<span class="topo-line"><span class="topo-outside">TSNILPRLPYTTVIDQM</span><span class="topo-membrane">IIAGYGSIFAAILLIIF</span><span class="topo-inside">AHHRQ</span><span class="topo-unknown">ANGVE</span><span class="topo-inside">DDLLI</span><span class="topo-membrane">QRSRLAFPLGFLAIGSVL</span><span class="topo-outside">VIR</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2993,6 +3040,7 @@ ELIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the bacte
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3008,12 +3056,13 @@ ELIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the bacte
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">DARPVDVSVSIFINKIYGVNTLEQTYKVDGYIVAQWTGKPRKTPGDKPLIVENTQIERWI</span></span>
-<span class="topo-line"><span class="topo-outside">NNGLWVPALEFINVVGSPDTGNKRLMLFPDGRVIYNARFLGSFSNDMDFRLFPFDRQQFV</span></span>
-<span class="topo-line"><span class="topo-outside">LELEPFSYNNQQLRFSDIQVYTENIDNEEIDEWWIRGKASTHISDIRYDHLSS</span><span class="topo-unknown">VQ</span><span class="topo-outside">PNQNE</span></span>
-<span class="topo-line"><span class="topo-outside">FSRITVRIDAVRNPSYYLWSFIL</span><span class="topo-membrane">PLGLIIAASWSVFWL</span><span class="topo-inside">ESFS</span><span class="topo-membrane">ERLQTSFTCMLTVVAYA</span><span class="topo-outside">F</span></span>
-<span class="topo-line"><span class="topo-outside">YTSNILPRLPYTTVIDQM</span><span class="topo-membrane">IIAGYGSIFAAILLIIF</span><span class="topo-inside">AHHR</span><span class="topo-unknown">QANGVE</span><span class="topo-inside">DDLLIQ</span><span class="topo-membrane">RSRLAFPLG</span></span>
-<span class="topo-line"><span class="topo-membrane">FLAIGSV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">DARPVDVSVSIFINKIYGVNTLEQTYKVDGYIVAQWTGKPRKTPGDKPLIVENTQIERWINNGLWVPALEFINVVGSPDTGNKRLMLFPDGRVIYNARFLGSFSNDMDFRLFPFDRQQFV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">LELEPFSYNNQQLRFSDIQVYTENIDNEEIDEWWIRGKASTHISDIRYDHLSS</span><span class="topo-unknown">VQ</span><span class="topo-outside">PNQNEFSRITVRIDAVRNPSYYLWSFIL</span><span class="topo-membrane">PLGLIIAASWSVFWL</span><span class="topo-inside">ESFS</span><span class="topo-membrane">ERLQTSFTCMLTVVAYA</span><span class="topo-outside">F</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       </span>
+<span class="topo-line"><span class="topo-outside">YTSNILPRLPYTTVIDQM</span><span class="topo-membrane">IIAGYGSIFAAILLIIF</span><span class="topo-inside">AHHR</span><span class="topo-unknown">QANGVE</span><span class="topo-inside">DDLLIQ</span><span class="topo-membrane">RSRLAFPLGFLAIGSV</span></span>
+<details class="topo-details"><summary>Topology coordinates (10 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3095,6 +3144,7 @@ ELIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the bacte
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3110,11 +3160,13 @@ ELIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the bacte
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">ARPVDVSVSIFINKIYGVNTLEQTYKVDGYIVAQWTGKPRKTPGDKPLIVENTQIERWIN</span></span>
-<span class="topo-line"><span class="topo-outside">NGLWVPALEFINVVGSPDTGNKRLMLFPDGRVIYNARFLGSFSNDMDFRLFPFDRQQFVL</span></span>
-<span class="topo-line"><span class="topo-outside">ELEPFSYNNQQLRFSDIQVYTENIDNEEIDEWWIRGKASTHISDIRYDHLSSVQPNQNEF</span></span>
-<span class="topo-line"><span class="topo-outside">SRITVRIDAVRNPS</span><span class="topo-membrane">YYLWSFILPLGLIIAASWSVFWL</span><span class="topo-inside">ESFSE</span><span class="topo-membrane">RLQTSFTCMLTVVAYAFY</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">ARPVDVSVSIFINKIYGVNTLEQTYKVDGYIVAQWTGKPRKTPGDKPLIVENTQIERWINNGLWVPALEFINVVGSPDTGNKRLMLFPDGRVIYNARFLGSFSNDMDFRLFPFDRQQFVL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">ELEPFSYNNQQLRFSDIQVYTENIDNEEIDEWWIRGKASTHISDIRYDHLSSVQPNQNEFSRITVRIDAVRNPS</span><span class="topo-membrane">YYLWSFILPLGLIIAASWSVFWL</span><span class="topo-inside">ESFSE</span><span class="topo-membrane">RLQTSFTCMLTVVAYAFY</span></span>
+<span class="topo-ruler">       250       260       270       </span>
 <span class="topo-line"><span class="topo-membrane">TSN</span><span class="topo-outside">ILPRLPYT</span><span class="topo-membrane">TVIDQMIIAGYGSIFAAILLIIF</span><span class="topo-inside">AHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3175,6 +3227,7 @@ ELIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the bacte
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3190,11 +3243,13 @@ ELIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the bacte
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">P</span><span class="topo-outside">VDARPVDVSVSIFINKIYGVNTLEQTYKVDGYIVAQWTGKPRKTPGDKPLIVENTQIER</span></span>
-<span class="topo-line"><span class="topo-outside">WINNGLWVPALEFINVVGSPDTGNKRLMLFPDGRVIYNARFLGSFSNDMDFRLFPFDRQQ</span></span>
-<span class="topo-line"><span class="topo-outside">FVLELEPFSYNNQQLRFSDIQVYTENIDNEEIDEWWIRGKASTHISDIRYDHLSSVQPNQ</span></span>
-<span class="topo-line"><span class="topo-outside">NEFSRITVRIDAVRNPSY</span><span class="topo-membrane">YLWSFILPLGLIIAASWSVFWL</span><span class="topo-inside">ESFSE</span><span class="topo-membrane">RLQTSFTCMLTVVAY</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">P</span><span class="topo-outside">VDARPVDVSVSIFINKIYGVNTLEQTYKVDGYIVAQWTGKPRKTPGDKPLIVENTQIERWINNGLWVPALEFINVVGSPDTGNKRLMLFPDGRVIYNARFLGSFSNDMDFRLFPFDRQQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">FVLELEPFSYNNQQLRFSDIQVYTENIDNEEIDEWWIRGKASTHISDIRYDHLSSVQPNQNEFSRITVRIDAVRNPSY</span><span class="topo-membrane">YLWSFILPLGLIIAASWSVFWL</span><span class="topo-inside">ESFSE</span><span class="topo-membrane">RLQTSFTCMLTVVAY</span></span>
+<span class="topo-ruler">       250       260       270       280</span>
 <span class="topo-line"><span class="topo-membrane">AFYTSN</span><span class="topo-outside">ILPRLPYT</span><span class="topo-membrane">TVIDQMIIAGYGSIFAAILLIIF</span><span class="topo-inside">AHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3255,6 +3310,7 @@ ELIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the bacte
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3270,11 +3326,13 @@ ELIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the bacte
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">P</span><span class="topo-outside">VDARPVDVSVSIFINKIYGVNTLEQTYKVDGYIVAQWTGKPRKTPGDKPLIVENTQIER</span></span>
-<span class="topo-line"><span class="topo-outside">WINNGLWVPALEFINVVGSPDTGNKRLMLFPDGRVIYNARFLGSFSNDMDFRLFPFDRQQ</span></span>
-<span class="topo-line"><span class="topo-outside">FVLELEPFSYNNQQLRFSDIQVYTENIDNEEIDEWWIRGKASTHISDIRYDHLSSVQPNQ</span></span>
-<span class="topo-line"><span class="topo-outside">NEFSRITVRIDAVRNPS</span><span class="topo-membrane">YYLWSFILPLGLIIAASWSVFWL</span><span class="topo-inside">ESFSE</span><span class="topo-membrane">RLQTSFTCMLTVVAY</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">P</span><span class="topo-outside">VDARPVDVSVSIFINKIYGVNTLEQTYKVDGYIVAQWTGKPRKTPGDKPLIVENTQIERWINNGLWVPALEFINVVGSPDTGNKRLMLFPDGRVIYNARFLGSFSNDMDFRLFPFDRQQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">FVLELEPFSYNNQQLRFSDIQVYTENIDNEEIDEWWIRGKASTHISDIRYDHLSSVQPNQNEFSRITVRIDAVRNPS</span><span class="topo-membrane">YYLWSFILPLGLIIAASWSVFWL</span><span class="topo-inside">ESFSE</span><span class="topo-membrane">RLQTSFTCMLTVVAY</span></span>
+<span class="topo-ruler">       250       260       270       280</span>
 <span class="topo-line"><span class="topo-membrane">AFYTSN</span><span class="topo-outside">ILPRLPYT</span><span class="topo-membrane">TVIDQMIIAGYGSIFAAILLIIF</span><span class="topo-inside">AHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3335,6 +3393,7 @@ ELIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the bacte
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3350,11 +3409,13 @@ ELIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the bacte
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">RPVDVSVSIFINKIYGVNTLEQTYKVDGYIVAQWTGKPRKTPGDKPLIVENTQIERWINN</span></span>
-<span class="topo-line"><span class="topo-outside">GLWVPALEFINVVGSPDTGNKRLMLFPDGRVIYNARFLGSFSNDMDFRLFPFDRQQFVLE</span></span>
-<span class="topo-line"><span class="topo-outside">LEPFSYNNQQLRFSDIQVYTENIDNEEIDEWWIRGKASTHISDIRYDHLSSVQPNQNEFS</span></span>
-<span class="topo-line"><span class="topo-outside">RITVRIDAVRNPS</span><span class="topo-membrane">YYLWSFILPLGLIIAASWSVFW</span><span class="topo-inside">LESFSE</span><span class="topo-membrane">RLQTSFTCMLTVVAYAFYT</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">RPVDVSVSIFINKIYGVNTLEQTYKVDGYIVAQWTGKPRKTPGDKPLIVENTQIERWINNGLWVPALEFINVVGSPDTGNKRLMLFPDGRVIYNARFLGSFSNDMDFRLFPFDRQQFVLE</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">LEPFSYNNQQLRFSDIQVYTENIDNEEIDEWWIRGKASTHISDIRYDHLSSVQPNQNEFSRITVRIDAVRNPS</span><span class="topo-membrane">YYLWSFILPLGLIIAASWSVFW</span><span class="topo-inside">LESFSE</span><span class="topo-membrane">RLQTSFTCMLTVVAYAFYT</span></span>
+<span class="topo-ruler">       250       260       270      </span>
 <span class="topo-line"><span class="topo-membrane">SNI</span><span class="topo-outside">LPRLPYT</span><span class="topo-membrane">TVIDQMIIAGYGSIFAAILLIIF</span><span class="topo-inside">AHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3415,6 +3476,7 @@ ELIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the bacte
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3430,11 +3492,13 @@ ELIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the bacte
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">DARPVDVSVSIFINKIYGVNTLEQTYKVDGYIVAQWTGKPRKTPGDKPLIVENTQIERWI</span></span>
-<span class="topo-line"><span class="topo-outside">NNGLWVPALEFINVVGSPDTGNKRLMLFPDGRVIYNARFLGSFSNDMDFRLFPFDRQQFV</span></span>
-<span class="topo-line"><span class="topo-outside">LELEPFSYNNQQLRFSDIQVYTENIDNEEIDEWWIRGKASTHISDIRYDHLSSVQPNQNE</span></span>
-<span class="topo-line"><span class="topo-outside">FSRITVRIDAVRNPS</span><span class="topo-membrane">YYLWSFILPLGLIIAASWSVFW</span><span class="topo-inside">LESFSE</span><span class="topo-membrane">RLQTSFTCMLTVVAYAF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">DARPVDVSVSIFINKIYGVNTLEQTYKVDGYIVAQWTGKPRKTPGDKPLIVENTQIERWINNGLWVPALEFINVVGSPDTGNKRLMLFPDGRVIYNARFLGSFSNDMDFRLFPFDRQQFV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">LELEPFSYNNQQLRFSDIQVYTENIDNEEIDEWWIRGKASTHISDIRYDHLSSVQPNQNEFSRITVRIDAVRNPS</span><span class="topo-membrane">YYLWSFILPLGLIIAASWSVFW</span><span class="topo-inside">LESFSE</span><span class="topo-membrane">RLQTSFTCMLTVVAYAF</span></span>
+<span class="topo-ruler">       250       260       270        </span>
 <span class="topo-line"><span class="topo-membrane">YTSNI</span><span class="topo-outside">LPRLPYT</span><span class="topo-membrane">TVIDQMIIAGYGSIFAAILLIIF</span><span class="topo-inside">AHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3495,6 +3559,7 @@ ELIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the bacte
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3510,12 +3575,13 @@ ELIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the bacte
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">PVDVSVSIFINKIYGVNTLEQTYKVDGYIVAQWTGKPRKTPGDKPLIVENTQIERWINNG</span></span>
-<span class="topo-line"><span class="topo-inside">LWVPALEFINVVGSPDTGNKRLMLFPDGRVIYNARFLGSFSNDMDFRLFPFDRQQFVLEL</span></span>
-<span class="topo-line"><span class="topo-inside">EPFSYNNQQQRFSDIQVYTENADNEEIDEWWIRGKASTHISDIRYDHLSSVQPNQNEFSR</span></span>
-<span class="topo-line"><span class="topo-inside">ITVRIDAVRNPSYYLWSFI</span><span class="topo-membrane">LPLGLIIAASWSVFWL</span><span class="topo-outside">ESFS</span><span class="topo-membrane">ERLQTSFTLMLTVVAYAF</span><span class="topo-inside">YTS</span></span>
-<span class="topo-line"><span class="topo-inside">NILPRLPYTTVIDQ</span><span class="topo-membrane">MIIAGYGSIFAAILLIIF</span><span class="topo-outside">AHHRQANGVEDDLL</span><span class="topo-membrane">IQRCRLAFPLGFLA</span></span>
-<span class="topo-line"><span class="topo-membrane">IGCVL</span><span class="topo-inside">VI</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">PVDVSVSIFINKIYGVNTLEQTYKVDGYIVAQWTGKPRKTPGDKPLIVENTQIERWINNGLWVPALEFINVVGSPDTGNKRLMLFPDGRVIYNARFLGSFSNDMDFRLFPFDRQQFVLEL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">EPFSYNNQQQRFSDIQVYTENADNEEIDEWWIRGKASTHISDIRYDHLSSVQPNQNEFSRITVRIDAVRNPSYYLWSFI</span><span class="topo-membrane">LPLGLIIAASWSVFWL</span><span class="topo-outside">ESFS</span><span class="topo-membrane">ERLQTSFTLMLTVVAYAF</span><span class="topo-inside">YTS</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       </span>
+<span class="topo-line"><span class="topo-inside">NILPRLPYTTVIDQ</span><span class="topo-membrane">MIIAGYGSIFAAILLIIF</span><span class="topo-outside">AHHRQANGVEDDLL</span><span class="topo-membrane">IQRCRLAFPLGFLAIGCVL</span><span class="topo-inside">VI</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3590,6 +3656,7 @@ ELIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the bacte
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3605,12 +3672,13 @@ ELIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the bacte
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">PVDVSVSIFINKIYGVNTLEQTYKVDGYIVAQWTGKPRKTPGDKPLIVENTQIERWINNG</span></span>
-<span class="topo-line"><span class="topo-inside">LWVPALEFINVVGSPDTGNKRLMLFPDGRVIYNARFLGSFSNDMDFRLFPFDRQQFVLEL</span></span>
-<span class="topo-line"><span class="topo-inside">EPFSYNNQQQRFSDIQVYTENADNEEIDEWWIRGKASTHISDIRYDHLSSVQPNQNEFSR</span></span>
-<span class="topo-line"><span class="topo-inside">ITVRIDAVRNPSYYLWSFI</span><span class="topo-membrane">LPLGLIIAASWSVFWL</span><span class="topo-outside">ESFS</span><span class="topo-membrane">ERLQTSFTLMLTVVAYA</span><span class="topo-inside">FYTS</span></span>
-<span class="topo-line"><span class="topo-inside">NILPRLPYTTVIDQ</span><span class="topo-membrane">MIIAGYGSIFAAILLIIFA</span><span class="topo-outside">HHRQANGVEDDLLIQR</span><span class="topo-membrane">CRLAFPLGFLA</span></span>
-<span class="topo-line"><span class="topo-membrane">IGCVLV</span><span class="topo-inside">I</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">PVDVSVSIFINKIYGVNTLEQTYKVDGYIVAQWTGKPRKTPGDKPLIVENTQIERWINNGLWVPALEFINVVGSPDTGNKRLMLFPDGRVIYNARFLGSFSNDMDFRLFPFDRQQFVLEL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">EPFSYNNQQQRFSDIQVYTENADNEEIDEWWIRGKASTHISDIRYDHLSSVQPNQNEFSRITVRIDAVRNPSYYLWSFI</span><span class="topo-membrane">LPLGLIIAASWSVFWL</span><span class="topo-outside">ESFS</span><span class="topo-membrane">ERLQTSFTLMLTVVAYA</span><span class="topo-inside">FYTS</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       </span>
+<span class="topo-line"><span class="topo-inside">NILPRLPYTTVIDQ</span><span class="topo-membrane">MIIAGYGSIFAAILLIIFA</span><span class="topo-outside">HHRQANGVEDDLLIQR</span><span class="topo-membrane">CRLAFPLGFLAIGCVLV</span><span class="topo-inside">I</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3685,6 +3753,7 @@ ELIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the bacte
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3700,12 +3769,13 @@ ELIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the bacte
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">PVDVSVSIFINKIYGVNTLEQTYKVDGYIVAQWTGKPRKTPGDKPLIVENTQIERWINNG</span></span>
-<span class="topo-line"><span class="topo-inside">LWVPALEFINVVGSPDTGNKRLMLFPDGRVIYNARFLGSFSNDMDFRLFPFDRQQFVLEL</span></span>
-<span class="topo-line"><span class="topo-inside">EPFSYNNQQQRFSDIQVYTENADNEEIDEWWIRGKASTHISDIRYDHLSSVQPNQNEFSR</span></span>
-<span class="topo-line"><span class="topo-inside">ITVRIDAVRNPSYYLWSFI</span><span class="topo-membrane">LPLGLIIAASWSVFWL</span><span class="topo-outside">ESFS</span><span class="topo-membrane">ERLQTSFTLMLTVVAYA</span><span class="topo-inside">FYTS</span></span>
-<span class="topo-line"><span class="topo-inside">NILPRLPYTTVIDQ</span><span class="topo-membrane">MIIAGYGSIFAAILLIIF</span><span class="topo-outside">AHHRQANGVEDDLLIQR</span><span class="topo-membrane">CRLAFPLGFLA</span></span>
-<span class="topo-line"><span class="topo-membrane">IGCVLV</span><span class="topo-inside">I</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">PVDVSVSIFINKIYGVNTLEQTYKVDGYIVAQWTGKPRKTPGDKPLIVENTQIERWINNGLWVPALEFINVVGSPDTGNKRLMLFPDGRVIYNARFLGSFSNDMDFRLFPFDRQQFVLEL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">EPFSYNNQQQRFSDIQVYTENADNEEIDEWWIRGKASTHISDIRYDHLSSVQPNQNEFSRITVRIDAVRNPSYYLWSFI</span><span class="topo-membrane">LPLGLIIAASWSVFWL</span><span class="topo-outside">ESFS</span><span class="topo-membrane">ERLQTSFTLMLTVVAYA</span><span class="topo-inside">FYTS</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       </span>
+<span class="topo-line"><span class="topo-inside">NILPRLPYTTVIDQ</span><span class="topo-membrane">MIIAGYGSIFAAILLIIF</span><span class="topo-outside">AHHRQANGVEDDLLIQR</span><span class="topo-membrane">CRLAFPLGFLAIGCVLV</span><span class="topo-inside">I</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3780,6 +3850,7 @@ ELIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the bacte
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3795,12 +3866,13 @@ ELIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the bacte
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">PVDVSVSIFINKIYGVNTLEQTYKVDGYIVAQWTGKPRKTPGDKPLIVENTQIERWINNG</span></span>
-<span class="topo-line"><span class="topo-inside">LWVPALEFINVVGSPDTGNKRLMLFPDGRVIYNARFLGSFSNDMDFRLFPFDRQQFVLEL</span></span>
-<span class="topo-line"><span class="topo-inside">EPFSYNNQQQRFSDIQVYTENADNEEIDEWWIRGKASTHISDIRYDHLSSVQPNQNEFSR</span></span>
-<span class="topo-line"><span class="topo-inside">ITVRIDAVRNPSYYLWSFI</span><span class="topo-membrane">LPLGLIIAASWSVFWL</span><span class="topo-outside">ESFS</span><span class="topo-membrane">ERLQTSFTLMLTVVAYA</span><span class="topo-inside">FYTS</span></span>
-<span class="topo-line"><span class="topo-inside">NILPRLPYTTVIDQ</span><span class="topo-membrane">MIIAGYGSIFAAILLIIF</span><span class="topo-outside">AHHRQANGVEDDLLIQR</span><span class="topo-membrane">CRLAFPLGFLA</span></span>
-<span class="topo-line"><span class="topo-membrane">IGCVL</span><span class="topo-inside">VI</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">PVDVSVSIFINKIYGVNTLEQTYKVDGYIVAQWTGKPRKTPGDKPLIVENTQIERWINNGLWVPALEFINVVGSPDTGNKRLMLFPDGRVIYNARFLGSFSNDMDFRLFPFDRQQFVLEL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">EPFSYNNQQQRFSDIQVYTENADNEEIDEWWIRGKASTHISDIRYDHLSSVQPNQNEFSRITVRIDAVRNPSYYLWSFI</span><span class="topo-membrane">LPLGLIIAASWSVFWL</span><span class="topo-outside">ESFS</span><span class="topo-membrane">ERLQTSFTLMLTVVAYA</span><span class="topo-inside">FYTS</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       </span>
+<span class="topo-line"><span class="topo-inside">NILPRLPYTTVIDQ</span><span class="topo-membrane">MIIAGYGSIFAAILLIIF</span><span class="topo-outside">AHHRQANGVEDDLLIQR</span><span class="topo-membrane">CRLAFPLGFLAIGCVL</span><span class="topo-inside">VI</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3875,6 +3947,7 @@ ELIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the bacte
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3890,12 +3963,13 @@ ELIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the bacte
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">PVDVSVSIFINKIYGVNTLEQTYKVDGYIVAQWTGKPRKTPGDKPLIVENTQIERWINNG</span></span>
-<span class="topo-line"><span class="topo-inside">LWVPALEFINVVGSPDTGNKRLMLFPDGRVIYNARFLGSFSNDMDFRLFPFDRQQFVLEL</span></span>
-<span class="topo-line"><span class="topo-inside">EPFSYNNQQQRFSDIQVYTENADNEEIDEWWIRGKASTHISDIRYDHLSSVQPNQNEFSR</span></span>
-<span class="topo-line"><span class="topo-inside">ITVRIDAVRNPSYYLWSFI</span><span class="topo-membrane">LPLGLIIAASWSVFWL</span><span class="topo-outside">ESFS</span><span class="topo-membrane">ERLQTSFTLMLTVVAYA</span><span class="topo-inside">FYTS</span></span>
-<span class="topo-line"><span class="topo-inside">NILPRLPYTTVIDQ</span><span class="topo-membrane">MIIAGYGSIFAAILLIIF</span><span class="topo-outside">AHHRQANGVEDDLLIQR</span><span class="topo-membrane">CRLAFPLGFLA</span></span>
-<span class="topo-line"><span class="topo-membrane">IGCVLV</span><span class="topo-inside">I</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">PVDVSVSIFINKIYGVNTLEQTYKVDGYIVAQWTGKPRKTPGDKPLIVENTQIERWINNGLWVPALEFINVVGSPDTGNKRLMLFPDGRVIYNARFLGSFSNDMDFRLFPFDRQQFVLEL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">EPFSYNNQQQRFSDIQVYTENADNEEIDEWWIRGKASTHISDIRYDHLSSVQPNQNEFSRITVRIDAVRNPSYYLWSFI</span><span class="topo-membrane">LPLGLIIAASWSVFWL</span><span class="topo-outside">ESFS</span><span class="topo-membrane">ERLQTSFTLMLTVVAYA</span><span class="topo-inside">FYTS</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       </span>
+<span class="topo-line"><span class="topo-inside">NILPRLPYTTVIDQ</span><span class="topo-membrane">MIIAGYGSIFAAILLIIF</span><span class="topo-outside">AHHRQANGVEDDLLIQR</span><span class="topo-membrane">CRLAFPLGFLAIGCVLV</span><span class="topo-inside">I</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3970,6 +4044,7 @@ ELIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the bacte
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

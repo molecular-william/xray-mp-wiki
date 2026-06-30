@@ -147,14 +147,15 @@ SecY is the core channel-forming subunit of the Sec translocon, a heterotrimeric
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">M</span><span class="topo-unknown">VKAFWSALQ</span><span class="topo-outside">IPELRQRVLFT</span><span class="topo-membrane">LLVLAAYRLGAFI</span><span class="topo-inside">PTPGVDLDKIQEFLRTAQGGVFGIIN</span></span>
-<span class="topo-line"><span class="topo-inside">LFSGGNFERFS</span><span class="topo-membrane">IFALGIMPYITAAIIM</span><span class="topo-outside">QILVTVVPALEKLSKEGEEGRRIINQY</span><span class="topo-membrane">TRIGGI</span></span>
-<span class="topo-line"><span class="topo-membrane">ALGAFQGF</span><span class="topo-inside">FLATAFLGAEGGRFLLPGWSPGPFFWFVVV</span><span class="topo-membrane">VTQVAGIALLLWMA</span><span class="topo-outside">ERITEYGI</span></span>
-<span class="topo-line"><span class="topo-outside">GNG</span><span class="topo-membrane">TSLIIFAGIVVEWLPQIL</span><span class="topo-inside">RTIGLIRTGEVNLV</span><span class="topo-membrane">AFLFFLAFIVLAFAGM</span><span class="topo-outside">AAVQQAERR</span></span>
-<span class="topo-line"><span class="topo-outside">IPVQYARKVVGGRVYGGQATYIPIKLNAAGV</span><span class="topo-membrane">IPIIFAAAILQIPIFL</span><span class="topo-inside">AAPFQDNPVLQGI</span></span>
-<span class="topo-line"><span class="topo-inside">ANFFNPTRP</span><span class="topo-membrane">SGLFIEVLLVILF</span><span class="topo-outside">TYVYTAVQFDPKRIAESLREYGGFIPGIRPGEPTVKFL</span></span>
-<span class="topo-line"><span class="topo-outside">EHIVSRLTLWGAL</span><span class="topo-membrane">FLGLVTLLPQIIQ</span><span class="topo-inside">NLTGIHS</span><span class="topo-membrane">IAFSGIGLLIVVGVA</span><span class="topo-outside">LDTLRQVESQLM</span></span>
-<span class="topo-line"><span class="topo-outside">LRSY</span><span class="topo-unknown">EGFLSRGRLRGRNRHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">M</span><span class="topo-unknown">VKAFWSALQ</span><span class="topo-outside">IPELRQRVLFT</span><span class="topo-membrane">LLVLAAYRLGAFI</span><span class="topo-inside">PTPGVDLDKIQEFLRTAQGGVFGIINLFSGGNFERFS</span><span class="topo-membrane">IFALGIMPYITAAIIM</span><span class="topo-outside">QILVTVVPALEKLSKEGEEGRRIINQY</span><span class="topo-membrane">TRIGGI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">ALGAFQGF</span><span class="topo-inside">FLATAFLGAEGGRFLLPGWSPGPFFWFVVV</span><span class="topo-membrane">VTQVAGIALLLWMA</span><span class="topo-outside">ERITEYGIGNG</span><span class="topo-membrane">TSLIIFAGIVVEWLPQIL</span><span class="topo-inside">RTIGLIRTGEVNLV</span><span class="topo-membrane">AFLFFLAFIVLAFAGM</span><span class="topo-outside">AAVQQAERR</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">IPVQYARKVVGGRVYGGQATYIPIKLNAAGV</span><span class="topo-membrane">IPIIFAAAILQIPIFL</span><span class="topo-inside">AAPFQDNPVLQGIANFFNPTRP</span><span class="topo-membrane">SGLFIEVLLVILF</span><span class="topo-outside">TYVYTAVQFDPKRIAESLREYGGFIPGIRPGEPTVKFL</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440    </span>
+<span class="topo-line"><span class="topo-outside">EHIVSRLTLWGAL</span><span class="topo-membrane">FLGLVTLLPQIIQ</span><span class="topo-inside">NLTGIHS</span><span class="topo-membrane">IAFSGIGLLIVVGVA</span><span class="topo-outside">LDTLRQVESQLMLRSY</span><span class="topo-unknown">EGFLSRGRLRGRNRHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (23 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -327,6 +328,7 @@ SecY is the core channel-forming subunit of the Sec translocon, a heterotrimeric
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -342,7 +344,9 @@ SecY is the core channel-forming subunit of the Sec translocon, a heterotrimeric
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40        50        60</span>
 <span class="topo-line"><span class="topo-outside">M</span><span class="topo-unknown">FARLIRYFQEARAELA</span><span class="topo-outside">RVTWPTREQVVEGTQAI</span><span class="topo-membrane">LLFTLAFMVILGLYDTVF</span><span class="topo-inside">RFLIGLLR</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -389,6 +393,7 @@ SecY is the core channel-forming subunit of the Sec translocon, a heterotrimeric
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -404,8 +409,9 @@ SecY is the core channel-forming subunit of the Sec translocon, a heterotrimeric
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MDLLYTLVIL</span><span class="topo-membrane">FYLGVAGLLVYLVL</span><span class="topo-outside">VQEPKQGAGDLMGGSADLFSARGVTGGLYR</span><span class="topo-membrane">LTVILG</span></span>
-<span class="topo-line"><span class="topo-membrane">VVFAALA</span><span class="topo-inside">LVIGLWPR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70     </span>
+<span class="topo-line"><span class="topo-inside">MDLLYTLVIL</span><span class="topo-membrane">FYLGVAGLLVYLVL</span><span class="topo-outside">VQEPKQGAGDLMGGSADLFSARGVTGGLYR</span><span class="topo-membrane">LTVILGVVFAALA</span><span class="topo-inside">LVIGLWPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -452,6 +458,7 @@ SecY is the core channel-forming subunit of the Sec translocon, a heterotrimeric
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -467,14 +474,15 @@ SecY is the core channel-forming subunit of the Sec translocon, a heterotrimeric
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MVKAFWSALQIPELRQRV</span><span class="topo-membrane">LFTLLVLAAYRLGAFI</span><span class="topo-outside">PTPGVD</span><span class="topo-unknown">LDKIQEF</span><span class="topo-outside">LRTAQGGVFGIIN</span></span>
-<span class="topo-line"><span class="topo-outside">LFSGGNFERFS</span><span class="topo-membrane">IFALGIMPYITAAIIM</span><span class="topo-inside">QILVTVVPALEKLSKEGEEGRRIINQY</span><span class="topo-membrane">TRIGGI</span></span>
-<span class="topo-line"><span class="topo-membrane">ALGAFQGFFL</span><span class="topo-outside">ATAFLGAEGGRFLLPGWSPGPFFWFVV</span><span class="topo-membrane">VVTQVAGIALLLWMAERI</span><span class="topo-inside">TEYGI</span></span>
-<span class="topo-line"><span class="topo-inside">GNG</span><span class="topo-membrane">TSLIIFAGIVVEWLPQIL</span><span class="topo-outside">RTIGLIRTGEVNLV</span><span class="topo-membrane">AFLFFLAFIVLAFAGM</span><span class="topo-inside">AAVQQAERR</span></span>
-<span class="topo-line"><span class="topo-inside">IPVQYARGAAGYGGQATYIPIKLNAAGV</span><span class="topo-membrane">IPIIFAAAILQIPIFLA</span><span class="topo-outside">APFQDNPVLQGI</span><span class="topo-membrane">ANF</span></span>
-<span class="topo-line"><span class="topo-membrane">FNPTRPSGLFIEVLLVILF</span><span class="topo-inside">TYVYTAVQFDPKRIAESLREYGGFIPGIRPGEPTVKFLEHI</span></span>
-<span class="topo-line"><span class="topo-inside">VSRLTLWGAL</span><span class="topo-membrane">FLGLVTLLPQIIQNLT</span><span class="topo-outside">GI</span><span class="topo-membrane">HSIAFSGIGLLIVVGVA</span><span class="topo-inside">LDTLRQVESQLMLRS</span></span>
-<span class="topo-line"><span class="topo-inside">Y</span><span class="topo-unknown">EGFLSRGRLRGRNRHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">MVKAFWSALQIPELRQRV</span><span class="topo-membrane">LFTLLVLAAYRLGAFI</span><span class="topo-outside">PTPGVD</span><span class="topo-unknown">LDKIQEF</span><span class="topo-outside">LRTAQGGVFGIINLFSGGNFERFS</span><span class="topo-membrane">IFALGIMPYITAAIIM</span><span class="topo-inside">QILVTVVPALEKLSKEGEEGRRIINQY</span><span class="topo-membrane">TRIGGI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">ALGAFQGFFL</span><span class="topo-outside">ATAFLGAEGGRFLLPGWSPGPFFWFVV</span><span class="topo-membrane">VVTQVAGIALLLWMAERI</span><span class="topo-inside">TEYGIGNG</span><span class="topo-membrane">TSLIIFAGIVVEWLPQIL</span><span class="topo-outside">RTIGLIRTGEVNLV</span><span class="topo-membrane">AFLFFLAFIVLAFAGM</span><span class="topo-inside">AAVQQAERR</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">IPVQYARGAAGYGGQATYIPIKLNAAGV</span><span class="topo-membrane">IPIIFAAAILQIPIFLA</span><span class="topo-outside">APFQDNPVLQGI</span><span class="topo-membrane">ANFFNPTRPSGLFIEVLLVILF</span><span class="topo-inside">TYVYTAVQFDPKRIAESLREYGGFIPGIRPGEPTVKFLEHI</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440 </span>
+<span class="topo-line"><span class="topo-inside">VSRLTLWGAL</span><span class="topo-membrane">FLGLVTLLPQIIQNLT</span><span class="topo-outside">GI</span><span class="topo-membrane">HSIAFSGIGLLIVVGVA</span><span class="topo-inside">LDTLRQVESQLMLRSY</span><span class="topo-unknown">EGFLSRGRLRGRNRHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (23 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -647,6 +655,7 @@ SecY is the core channel-forming subunit of the Sec translocon, a heterotrimeric
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -662,7 +671,9 @@ SecY is the core channel-forming subunit of the Sec translocon, a heterotrimeric
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40        50        60</span>
 <span class="topo-line"><span class="topo-inside">MFARLIRYFQEARAELARVTWPTREQVVEGTQAI</span><span class="topo-membrane">LLFTLAFMVILGLYDTVF</span><span class="topo-outside">RFLIGLLR</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -695,6 +706,7 @@ SecY is the core channel-forming subunit of the Sec translocon, a heterotrimeric
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -710,8 +722,9 @@ SecY is the core channel-forming subunit of the Sec translocon, a heterotrimeric
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MDLLYTLVIL</span><span class="topo-membrane">FYLGVAGLLVYLVLV</span><span class="topo-inside">QEPKQGAGDLMGGSADLFSARGVTGGL</span><span class="topo-membrane">YRLTVILG</span></span>
-<span class="topo-line"><span class="topo-membrane">VVFAALA</span><span class="topo-outside">LVIGLWP</span><span class="topo-unknown">R</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70     </span>
+<span class="topo-line"><span class="topo-outside">MDLLYTLVIL</span><span class="topo-membrane">FYLGVAGLLVYLVLV</span><span class="topo-inside">QEPKQGAGDLMGGSADLFSARGVTGGL</span><span class="topo-membrane">YRLTVILGVVFAALA</span><span class="topo-outside">LVIGLWP</span><span class="topo-unknown">R</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -758,6 +771,7 @@ SecY is the core channel-forming subunit of the Sec translocon, a heterotrimeric
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

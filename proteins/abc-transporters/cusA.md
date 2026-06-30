@@ -205,13 +205,15 @@ CusA is the inner-membrane component of the CusABC tripartite copper/silver effl
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MKKIALIIGSMIAGGIISAAGFTWVAKAEPPAEKTSTAERKILFWYDPMYPNTRFDKPGK</span></span>
-<span class="topo-line"><span class="topo-unknown">SPFMDMDLVPKYADEESS</span><span class="topo-outside">ASGVRIDPTQTQNLGVKTATVTRGPLTFAQSFPANVSYNEYQ</span></span>
-<span class="topo-line"><span class="topo-outside">YAIVQARAAGFIDKVYPLTVGDKVQKGTPLLDLTIPDWVEAQSEYLLLRETGGTATQTEG</span></span>
-<span class="topo-line"><span class="topo-outside">ILERLRLAGMPEADIRRLIATQKIQTRFTLKAPIDGVITAFDLRAGMNIAKDNVVAKIQG</span></span>
-<span class="topo-line"><span class="topo-outside">MDPVWVTAAIPESIAWLVKDASQFTLTVPARPDKTLTIRKWTLLPGVDAATRTLQLRLEV</span></span>
-<span class="topo-line"><span class="topo-outside">DNADEALKPGMNAWLQLNTASEPMLLIPSQALIDTGSEQRVITVDADGRFVPKRVAVFQA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MKKIALIIGSMIAGGIISAAGFTWVAKAEPPAEKTSTAERKILFWYDPMYPNTRFDKPGKSPFMDMDLVPKYADEESS</span><span class="topo-outside">ASGVRIDPTQTQNLGVKTATVTRGPLTFAQSFPANVSYNEYQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">YAIVQARAAGFIDKVYPLTVGDKVQKGTPLLDLTIPDWVEAQSEYLLLRETGGTATQTEGILERLRLAGMPEADIRRLIATQKIQTRFTLKAPIDGVITAFDLRAGMNIAKDNVVAKIQG</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">MDPVWVTAAIPESIAWLVKDASQFTLTVPARPDKTLTIRKWTLLPGVDAATRTLQLRLEVDNADEALKPGMNAWLQLNTASEPMLLIPSQALIDTGSEQRVITVDADGRFVPKRVAVFQA</span></span>
+<span class="topo-ruler">       370       380       390       400       410   </span>
 <span class="topo-line"><span class="topo-outside">SQGVTALRSGLAEGEKVVSSGLFLIDSEANISGALERMRS</span><span class="topo-unknown">ESATHAHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -244,6 +246,7 @@ CusA is the inner-membrane component of the CusABC tripartite copper/silver effl
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -259,24 +262,25 @@ CusA is the inner-membrane component of the CusABC tripartite copper/silver effl
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">HHHHHHMGIE</span><span class="topo-inside">W</span><span class="topo-unknown">IIRRSVA</span><span class="topo-inside">NRFL</span><span class="topo-membrane">VLMGALFLSIWGTWTII</span><span class="topo-outside">NTPVDALPDLSDVQVIIKTSY</span></span>
-<span class="topo-line"><span class="topo-outside">PGQAPQIVENQVTYPLTTTMLSVPGAKTVRGFSQFGDSYVYVIFEDGTDPYWARSRVLEY</span></span>
-<span class="topo-line"><span class="topo-outside">LNQVQGKLPAGVSAELGPDATGVGWIYEYALVDRSGKHDLADLRSLQDWFLKYELKTIPD</span></span>
-<span class="topo-line"><span class="topo-outside">VAEVASVGGVVKEYQVVIDPQRLAQYGISLAEVKSALDASNQEAGGSSIELAEAEYMVRA</span></span>
-<span class="topo-line"><span class="topo-outside">SGYLQTLDDFNHIVLKASENGVPVYLRDVAKVQIGPEMRRGIAELNGEGEVAGGVVILRS</span></span>
-<span class="topo-line"><span class="topo-outside">GKNAREVIAAVKDKLETLKSSLPEGVEIVTTYDRSQLIDRAIDNL</span><span class="topo-membrane">SGKLLEEFIVVAVVC</span></span>
-<span class="topo-line"><span class="topo-membrane">ALF</span><span class="topo-inside">LWHVRSA</span><span class="topo-membrane">LVAIISLPLGLCIAFIVMHFQ</span><span class="topo-outside">GLNANIMS</span><span class="topo-membrane">LGGIAIAVGAMVDAAIV</span><span class="topo-inside">MIEN</span></span>
-<span class="topo-line"><span class="topo-inside">AHKRLEEWQHQHPDATLDNKTRWQVITDASVEVGPA</span><span class="topo-membrane">LFISLLIITLSFIPIFT</span><span class="topo-outside">LEGQEGR</span></span>
-<span class="topo-line"><span class="topo-outside">LFGP</span><span class="topo-membrane">LAFTKTYAMAGAALLAIVVI</span><span class="topo-inside">PILMGYW</span><span class="topo-unknown">IRGKIPPESSNP</span><span class="topo-inside">L</span><span class="topo-unknown">NRFLIRVYHPLLLKV</span><span class="topo-inside">L</span></span>
-<span class="topo-line"><span class="topo-inside">HWPKTT</span><span class="topo-membrane">LLVAALSVLTVLWPLN</span><span class="topo-outside">KVGGEFLPQINEGDLLYMPSTLPGISAAEAASMLQKTD</span></span>
-<span class="topo-line"><span class="topo-outside">KLIMSVPEVARVFGKTGKAETATDSAPLEMVETTIQLKPQEQWRPGMTMDKIIEELDNTV</span></span>
-<span class="topo-line"><span class="topo-outside">RLPGLANLWVPPIRNRIDMLSTGIKSPIGIKVSGTVLADIDAMAEQIEEVARTVPGVASA</span></span>
-<span class="topo-line"><span class="topo-outside">LAERLEGGRYINVEINREKAARYGMTVADVQLFVTSAVGGAMVGETVEGIARYPINLRYP</span></span>
-<span class="topo-line"><span class="topo-outside">QSWRDSPQALRQLPILTPMKQQITLADVADIKVSTGPSMLKTENARPTSWIYIDARDRDM</span></span>
-<span class="topo-line"><span class="topo-outside">VSVVHDLQKAIAEKVQLKPGTSVAFSGQFELLERANHKL</span><span class="topo-membrane">KLMVPMTLMIIFVLLYLA</span><span class="topo-inside">FRR</span></span>
-<span class="topo-line"><span class="topo-inside">VGEA</span><span class="topo-membrane">LLIISSVPFALVGGIWLLWWM</span><span class="topo-outside">GFHLSVAT</span><span class="topo-membrane">GTGFIALAGVAAEFGVV</span><span class="topo-inside">MLMYLRHAIE</span></span>
-<span class="topo-line"><span class="topo-inside">AVPSLNNPQTFSEQKLDEALYHGAVLRVRPK</span><span class="topo-membrane">AMTVAVIIAGLLPILWG</span><span class="topo-outside">TGAGSEVM</span><span class="topo-membrane">SRIA</span></span>
-<span class="topo-line"><span class="topo-membrane">APMIGGMITAPLLSL</span><span class="topo-inside">FIIPAAYKLMWLHRH</span><span class="topo-unknown">RVRK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">HHHHHHMGIE</span><span class="topo-inside">W</span><span class="topo-unknown">IIRRSVA</span><span class="topo-inside">NRFL</span><span class="topo-membrane">VLMGALFLSIWGTWTII</span><span class="topo-outside">NTPVDALPDLSDVQVIIKTSYPGQAPQIVENQVTYPLTTTMLSVPGAKTVRGFSQFGDSYVYVIFEDGTDPYWARSRVLEY</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">LNQVQGKLPAGVSAELGPDATGVGWIYEYALVDRSGKHDLADLRSLQDWFLKYELKTIPDVAEVASVGGVVKEYQVVIDPQRLAQYGISLAEVKSALDASNQEAGGSSIELAEAEYMVRA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">SGYLQTLDDFNHIVLKASENGVPVYLRDVAKVQIGPEMRRGIAELNGEGEVAGGVVILRSGKNAREVIAAVKDKLETLKSSLPEGVEIVTTYDRSQLIDRAIDNL</span><span class="topo-membrane">SGKLLEEFIVVAVVC</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">ALF</span><span class="topo-inside">LWHVRSA</span><span class="topo-membrane">LVAIISLPLGLCIAFIVMHFQ</span><span class="topo-outside">GLNANIMS</span><span class="topo-membrane">LGGIAIAVGAMVDAAIV</span><span class="topo-inside">MIENAHKRLEEWQHQHPDATLDNKTRWQVITDASVEVGPA</span><span class="topo-membrane">LFISLLIITLSFIPIFT</span><span class="topo-outside">LEGQEGR</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">LFGP</span><span class="topo-membrane">LAFTKTYAMAGAALLAIVVI</span><span class="topo-inside">PILMGYW</span><span class="topo-unknown">IRGKIPPESSNP</span><span class="topo-inside">L</span><span class="topo-unknown">NRFLIRVYHPLLLKV</span><span class="topo-inside">LHWPKTT</span><span class="topo-membrane">LLVAALSVLTVLWPLN</span><span class="topo-outside">KVGGEFLPQINEGDLLYMPSTLPGISAAEAASMLQKTD</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-outside">KLIMSVPEVARVFGKTGKAETATDSAPLEMVETTIQLKPQEQWRPGMTMDKIIEELDNTVRLPGLANLWVPPIRNRIDMLSTGIKSPIGIKVSGTVLADIDAMAEQIEEVARTVPGVASA</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820       830       840</span>
+<span class="topo-line"><span class="topo-outside">LAERLEGGRYINVEINREKAARYGMTVADVQLFVTSAVGGAMVGETVEGIARYPINLRYPQSWRDSPQALRQLPILTPMKQQITLADVADIKVSTGPSMLKTENARPTSWIYIDARDRDM</span></span>
+<span class="topo-ruler">       850       860       870       880       890       900       910       920       930       940       950       960</span>
+<span class="topo-line"><span class="topo-outside">VSVVHDLQKAIAEKVQLKPGTSVAFSGQFELLERANHKL</span><span class="topo-membrane">KLMVPMTLMIIFVLLYLA</span><span class="topo-inside">FRRVGEA</span><span class="topo-membrane">LLIISSVPFALVGGIWLLWWM</span><span class="topo-outside">GFHLSVAT</span><span class="topo-membrane">GTGFIALAGVAAEFGVV</span><span class="topo-inside">MLMYLRHAIE</span></span>
+<span class="topo-ruler">       970       980       990      1000      1010      1020      1030      1040      1050    </span>
+<span class="topo-line"><span class="topo-inside">AVPSLNNPQTFSEQKLDEALYHGAVLRVRPK</span><span class="topo-membrane">AMTVAVIIAGLLPILWG</span><span class="topo-outside">TGAGSEVM</span><span class="topo-membrane">SRIAAPMIGGMITAPLLSL</span><span class="topo-inside">FIIPAAYKLMWLHRH</span><span class="topo-unknown">RVRK</span></span>
+<details class="topo-details"><summary>Topology coordinates (33 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -519,6 +523,7 @@ CusA is the inner-membrane component of the CusABC tripartite copper/silver effl
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -534,13 +539,15 @@ CusA is the inner-membrane component of the CusABC tripartite copper/silver effl
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MKKIALIIGSMIAGGIISAAGFTWVAKAEPPAEKTSTAERKILFWYDPMYPNTRFDKPGK</span></span>
-<span class="topo-line"><span class="topo-unknown">SPFMDMDLVPKYADEESS</span><span class="topo-outside">ASGVRIDPTQTQNLGVKTATVTRGPLTFAQSFPANVSYNEYQ</span></span>
-<span class="topo-line"><span class="topo-outside">YAIVQARAAGFIDKVYPLTVGDKVQKGTPLLDLTIPDWVEAQSEYLLLRETGGTATQTEG</span></span>
-<span class="topo-line"><span class="topo-outside">ILERLRLAGMPEADIRRLIATQKIQTRFTLKAPIDGVITAFDLRAGMNIAKDNVVAKIQG</span></span>
-<span class="topo-line"><span class="topo-outside">MDPVWVTAAIPESIAWLVKDASQFTLTVPARPDKTLTIRKWTLLPGVDAATRTLQLRLEV</span></span>
-<span class="topo-line"><span class="topo-outside">DNADEALKPGMNAWLQLNTASEPMLLIPSQALIDTGSEQRVITVDADGRFVPKRVAVFQA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MKKIALIIGSMIAGGIISAAGFTWVAKAEPPAEKTSTAERKILFWYDPMYPNTRFDKPGKSPFMDMDLVPKYADEESS</span><span class="topo-outside">ASGVRIDPTQTQNLGVKTATVTRGPLTFAQSFPANVSYNEYQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">YAIVQARAAGFIDKVYPLTVGDKVQKGTPLLDLTIPDWVEAQSEYLLLRETGGTATQTEGILERLRLAGMPEADIRRLIATQKIQTRFTLKAPIDGVITAFDLRAGMNIAKDNVVAKIQG</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">MDPVWVTAAIPESIAWLVKDASQFTLTVPARPDKTLTIRKWTLLPGVDAATRTLQLRLEVDNADEALKPGMNAWLQLNTASEPMLLIPSQALIDTGSEQRVITVDADGRFVPKRVAVFQA</span></span>
+<span class="topo-ruler">       370       380       390       400       410   </span>
 <span class="topo-line"><span class="topo-outside">SQGVTALRSGLAEGEKVVSSGLFLIDSEANISGALERMRS</span><span class="topo-unknown">ESATHAHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -573,6 +580,7 @@ CusA is the inner-membrane component of the CusABC tripartite copper/silver effl
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -588,13 +596,15 @@ CusA is the inner-membrane component of the CusABC tripartite copper/silver effl
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MKKIALIIGSMIAGGIISAAGFTWVAKAEPPAEKTSTAERKILFWYDPMYPNTRFDKPGK</span></span>
-<span class="topo-line"><span class="topo-unknown">SPFMDMDLVPKYADEESS</span><span class="topo-outside">ASGVRIDPTQTQNLGVKTATVTRGPLTFAQSFPANVSYNEYQ</span></span>
-<span class="topo-line"><span class="topo-outside">YAIVQARAAGFIDKVYPLTVGDKVQKGTPLLDLTIPDWVEAQSEYLLLRETGGTATQTEG</span></span>
-<span class="topo-line"><span class="topo-outside">ILERLRLAGMPEADIRRLIATQKIQTRFTLKAPIDGVITAFDLRAGMNIAKDNVVAKIQG</span></span>
-<span class="topo-line"><span class="topo-outside">MDPVWVTAAIPESIAWLVKDASQFTLTVPARPDKTLTIRKWTLLPGVDAATRTLQLRLEV</span></span>
-<span class="topo-line"><span class="topo-outside">DNADEALKPGMNAWLQLNTASEPMLLIPSQALIDTGSEQRVITVDADGRFVPKRVAVFQA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MKKIALIIGSMIAGGIISAAGFTWVAKAEPPAEKTSTAERKILFWYDPMYPNTRFDKPGKSPFMDMDLVPKYADEESS</span><span class="topo-outside">ASGVRIDPTQTQNLGVKTATVTRGPLTFAQSFPANVSYNEYQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">YAIVQARAAGFIDKVYPLTVGDKVQKGTPLLDLTIPDWVEAQSEYLLLRETGGTATQTEGILERLRLAGMPEADIRRLIATQKIQTRFTLKAPIDGVITAFDLRAGMNIAKDNVVAKIQG</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">MDPVWVTAAIPESIAWLVKDASQFTLTVPARPDKTLTIRKWTLLPGVDAATRTLQLRLEVDNADEALKPGMNAWLQLNTASEPMLLIPSQALIDTGSEQRVITVDADGRFVPKRVAVFQA</span></span>
+<span class="topo-ruler">       370       380       390       400       410   </span>
 <span class="topo-line"><span class="topo-outside">SQGVTALRSGLAEGEKVVSSGLFLIDSEANISGALERMRS</span><span class="topo-unknown">ESATHAHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -627,6 +637,7 @@ CusA is the inner-membrane component of the CusABC tripartite copper/silver effl
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -642,24 +653,25 @@ CusA is the inner-membrane component of the CusABC tripartite copper/silver effl
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">HHHHHHMGIE</span><span class="topo-inside">W</span><span class="topo-unknown">IIRRSVA</span><span class="topo-inside">NRFL</span><span class="topo-membrane">VLMGALFLSIWGTWTII</span><span class="topo-outside">NTPVDALPDLSDVQVIIKTSY</span></span>
-<span class="topo-line"><span class="topo-outside">PGQAPQIVENQVTYPLTTTMLSVPGAKTVRGFSQFGDSYVYVIFEDGTDPYWARSRVLEY</span></span>
-<span class="topo-line"><span class="topo-outside">LNQVQGKLPAGVSAELGPDATGVGWIYEYALVDRSGKHDLADLRSLQDWFLKYELKTIPD</span></span>
-<span class="topo-line"><span class="topo-outside">VAEVASVGGVVKEYQVVIDPQRLAQYGISLAEVKSALDASNQEAGGSSIELAEAEYMVRA</span></span>
-<span class="topo-line"><span class="topo-outside">SGYLQTLDDFNHIVLKASENGVPVYLRDVAKVQIGPEMRRGIAELNGEGEVAGGVVILRS</span></span>
-<span class="topo-line"><span class="topo-outside">GKNAREVIAAVKDKLETLKSSLPEGVEIVTTYDRSQLIDRAIDNL</span><span class="topo-membrane">SGKLLEEFIVVAVVC</span></span>
-<span class="topo-line"><span class="topo-membrane">ALF</span><span class="topo-inside">LWHVRSA</span><span class="topo-membrane">LVAIISLPLGLCIAFIVMHFQ</span><span class="topo-outside">GLNANIMS</span><span class="topo-membrane">LGGIAIAVGAMVDAAIV</span><span class="topo-inside">MIEN</span></span>
-<span class="topo-line"><span class="topo-inside">AHKRLEEWQHQHPDATLDNKTRWQVITDASVEVGPA</span><span class="topo-membrane">LFISLLIITLSFIPIFT</span><span class="topo-outside">LEGQEGR</span></span>
-<span class="topo-line"><span class="topo-outside">LFGP</span><span class="topo-membrane">LAFTKTYAMAGAALLAIVVI</span><span class="topo-inside">PILMGYW</span><span class="topo-unknown">IRGKIPPESSNP</span><span class="topo-inside">L</span><span class="topo-unknown">NRFLIRVYHPLLLKV</span><span class="topo-inside">L</span></span>
-<span class="topo-line"><span class="topo-inside">HWPKTT</span><span class="topo-membrane">LLVAALSVLTVLWPLN</span><span class="topo-outside">KVGGEFLPQINEGDLLYMPSTLPGISAAEAASMLQKTD</span></span>
-<span class="topo-line"><span class="topo-outside">KLIMSVPEVARVFGKTGKAETATDSAPLEMVETTIQLKPQEQWRPGMTMDKIIEELDNTV</span></span>
-<span class="topo-line"><span class="topo-outside">RLPGLANLWVPPIRNRIDMLSTGIKSPIGIKVSGTVLADIDAMAEQIEEVARTVPGVASA</span></span>
-<span class="topo-line"><span class="topo-outside">LAERLEGGRYINVEINREKAARYGMTVADVQLFVTSAVGGAMVGETVEGIARYPINLRYP</span></span>
-<span class="topo-line"><span class="topo-outside">QSWRDSPQALRQLPILTPMKQQITLADVADIKVSTGPSMLKTENARPTSWIYIDARDRDM</span></span>
-<span class="topo-line"><span class="topo-outside">VSVVHDLQKAIAEKVQLKPGTSVAFSGQFELLERANHKL</span><span class="topo-membrane">KLMVPMTLMIIFVLLYLA</span><span class="topo-inside">FRR</span></span>
-<span class="topo-line"><span class="topo-inside">VGEA</span><span class="topo-membrane">LLIISSVPFALVGGIWLLWWM</span><span class="topo-outside">GFHLSVAT</span><span class="topo-membrane">GTGFIALAGVAAEFGVV</span><span class="topo-inside">MLMYLRHAIE</span></span>
-<span class="topo-line"><span class="topo-inside">AVPSLNNPQTFSEQKLDEALYHGAVLRVRPK</span><span class="topo-membrane">AMTVAVIIAGLLPILWG</span><span class="topo-outside">TGAGSEVM</span><span class="topo-membrane">SRIA</span></span>
-<span class="topo-line"><span class="topo-membrane">APMIGGMITAPLLSL</span><span class="topo-inside">FIIPAAYKLMWLHRH</span><span class="topo-unknown">RVRK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">HHHHHHMGIE</span><span class="topo-inside">W</span><span class="topo-unknown">IIRRSVA</span><span class="topo-inside">NRFL</span><span class="topo-membrane">VLMGALFLSIWGTWTII</span><span class="topo-outside">NTPVDALPDLSDVQVIIKTSYPGQAPQIVENQVTYPLTTTMLSVPGAKTVRGFSQFGDSYVYVIFEDGTDPYWARSRVLEY</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">LNQVQGKLPAGVSAELGPDATGVGWIYEYALVDRSGKHDLADLRSLQDWFLKYELKTIPDVAEVASVGGVVKEYQVVIDPQRLAQYGISLAEVKSALDASNQEAGGSSIELAEAEYMVRA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">SGYLQTLDDFNHIVLKASENGVPVYLRDVAKVQIGPEMRRGIAELNGEGEVAGGVVILRSGKNAREVIAAVKDKLETLKSSLPEGVEIVTTYDRSQLIDRAIDNL</span><span class="topo-membrane">SGKLLEEFIVVAVVC</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">ALF</span><span class="topo-inside">LWHVRSA</span><span class="topo-membrane">LVAIISLPLGLCIAFIVMHFQ</span><span class="topo-outside">GLNANIMS</span><span class="topo-membrane">LGGIAIAVGAMVDAAIV</span><span class="topo-inside">MIENAHKRLEEWQHQHPDATLDNKTRWQVITDASVEVGPA</span><span class="topo-membrane">LFISLLIITLSFIPIFT</span><span class="topo-outside">LEGQEGR</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">LFGP</span><span class="topo-membrane">LAFTKTYAMAGAALLAIVVI</span><span class="topo-inside">PILMGYW</span><span class="topo-unknown">IRGKIPPESSNP</span><span class="topo-inside">L</span><span class="topo-unknown">NRFLIRVYHPLLLKV</span><span class="topo-inside">LHWPKTT</span><span class="topo-membrane">LLVAALSVLTVLWPLN</span><span class="topo-outside">KVGGEFLPQINEGDLLYMPSTLPGISAAEAASMLQKTD</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-outside">KLIMSVPEVARVFGKTGKAETATDSAPLEMVETTIQLKPQEQWRPGMTMDKIIEELDNTVRLPGLANLWVPPIRNRIDMLSTGIKSPIGIKVSGTVLADIDAMAEQIEEVARTVPGVASA</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820       830       840</span>
+<span class="topo-line"><span class="topo-outside">LAERLEGGRYINVEINREKAARYGMTVADVQLFVTSAVGGAMVGETVEGIARYPINLRYPQSWRDSPQALRQLPILTPMKQQITLADVADIKVSTGPSMLKTENARPTSWIYIDARDRDM</span></span>
+<span class="topo-ruler">       850       860       870       880       890       900       910       920       930       940       950       960</span>
+<span class="topo-line"><span class="topo-outside">VSVVHDLQKAIAEKVQLKPGTSVAFSGQFELLERANHKL</span><span class="topo-membrane">KLMVPMTLMIIFVLLYLA</span><span class="topo-inside">FRRVGEA</span><span class="topo-membrane">LLIISSVPFALVGGIWLLWWM</span><span class="topo-outside">GFHLSVAT</span><span class="topo-membrane">GTGFIALAGVAAEFGVV</span><span class="topo-inside">MLMYLRHAIE</span></span>
+<span class="topo-ruler">       970       980       990      1000      1010      1020      1030      1040      1050    </span>
+<span class="topo-line"><span class="topo-inside">AVPSLNNPQTFSEQKLDEALYHGAVLRVRPK</span><span class="topo-membrane">AMTVAVIIAGLLPILWG</span><span class="topo-outside">TGAGSEVM</span><span class="topo-membrane">SRIAAPMIGGMITAPLLSL</span><span class="topo-inside">FIIPAAYKLMWLHRH</span><span class="topo-unknown">RVRK</span></span>
+<details class="topo-details"><summary>Topology coordinates (33 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -902,6 +914,7 @@ CusA is the inner-membrane component of the CusABC tripartite copper/silver effl
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -917,24 +930,25 @@ CusA is the inner-membrane component of the CusABC tripartite copper/silver effl
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">HHHHHHMGIE</span><span class="topo-inside">W</span><span class="topo-unknown">IIRRSVA</span><span class="topo-inside">NRFL</span><span class="topo-membrane">VLMGALFLSIWGTWTII</span><span class="topo-outside">NTPVDALPDLSDVQVIIKTSY</span></span>
-<span class="topo-line"><span class="topo-outside">PGQAPQIVENQVTYPLTTTMLSVPGAKTVRGFSQFGDSYVYVIFEDGTDPYWARSRVLEY</span></span>
-<span class="topo-line"><span class="topo-outside">LNQVQGKLPAGVSAELGPDATGVGWIYEYALVDRSGKHDLADLRSLQDWFLKYELKTIPD</span></span>
-<span class="topo-line"><span class="topo-outside">VAEVASVGGVVKEYQVVIDPQRLAQYGISLAEVKSALDASNQEAGGSSIELAEAEYMVRA</span></span>
-<span class="topo-line"><span class="topo-outside">SGYLQTLDDFNHIVLKASENGVPVYLRDVAKVQIGPEMRRGIAELNGEGEVAGGVVILRS</span></span>
-<span class="topo-line"><span class="topo-outside">GKNAREVIAAVKDKLETLKSSLPEGVEIVTTYDRSQLIDRAIDNL</span><span class="topo-membrane">SGKLLEEFIVVAVVC</span></span>
-<span class="topo-line"><span class="topo-membrane">ALF</span><span class="topo-inside">LWHVRSA</span><span class="topo-membrane">LVAIISLPLGLCIAFIVMHFQ</span><span class="topo-outside">GLNANIMS</span><span class="topo-membrane">LGGIAIAVGAMVDAAIV</span><span class="topo-inside">MIEN</span></span>
-<span class="topo-line"><span class="topo-inside">AHKRLEEWQHQHPDATLDNKTRWQVITDASVEVGPA</span><span class="topo-membrane">LFISLLIITLSFIPIFT</span><span class="topo-outside">LEGQEGR</span></span>
-<span class="topo-line"><span class="topo-outside">LFGP</span><span class="topo-membrane">LAFTKTYAMAGAALLAIVVI</span><span class="topo-inside">PILMGYW</span><span class="topo-unknown">IRGKIPPESSNP</span><span class="topo-inside">L</span><span class="topo-unknown">NRFLIRVYHPLLLKV</span><span class="topo-inside">L</span></span>
-<span class="topo-line"><span class="topo-inside">HWPKTT</span><span class="topo-membrane">LLVAALSVLTVLWPLN</span><span class="topo-outside">KVGGEFLPQINEGDLLYMPSTLPGISAAEAASMLQKTD</span></span>
-<span class="topo-line"><span class="topo-outside">KLIMSVPEVARVFGKTGKAETATDSAPLEMVETTIQLKPQEQWRPGMTMDKIIEELDNTV</span></span>
-<span class="topo-line"><span class="topo-outside">RLPGLANLWVPPIRNRIDMLSTGIKSPIGIKVSGTVLADIDAMAEQIEEVARTVPGVASA</span></span>
-<span class="topo-line"><span class="topo-outside">LAERLEGGRYINVEINREKAARYGMTVADVQLFVTSAVGGAMVGETVEGIARYPINLRYP</span></span>
-<span class="topo-line"><span class="topo-outside">QSWRDSPQALRQLPILTPMKQQITLADVADIKVSTGPSMLKTENARPTSWIYIDARDRDM</span></span>
-<span class="topo-line"><span class="topo-outside">VSVVHDLQKAIAEKVQLKPGTSVAFSGQFELLERANHKL</span><span class="topo-membrane">KLMVPMTLMIIFVLLYLA</span><span class="topo-inside">FRR</span></span>
-<span class="topo-line"><span class="topo-inside">VGEA</span><span class="topo-membrane">LLIISSVPFALVGGIWLLWWM</span><span class="topo-outside">GFHLSVAT</span><span class="topo-membrane">GTGFIALAGVAAEFGVV</span><span class="topo-inside">MLMYLRHAIE</span></span>
-<span class="topo-line"><span class="topo-inside">AVPSLNNPQTFSEQKLDEALYHGAVLRVRPK</span><span class="topo-membrane">AMTVAVIIAGLLPILWG</span><span class="topo-outside">TGAGSEVM</span><span class="topo-membrane">SRIA</span></span>
-<span class="topo-line"><span class="topo-membrane">APMIGGMITAPLLSL</span><span class="topo-inside">FIIPAAYKLMWLHRH</span><span class="topo-unknown">RVRK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">HHHHHHMGIE</span><span class="topo-inside">W</span><span class="topo-unknown">IIRRSVA</span><span class="topo-inside">NRFL</span><span class="topo-membrane">VLMGALFLSIWGTWTII</span><span class="topo-outside">NTPVDALPDLSDVQVIIKTSYPGQAPQIVENQVTYPLTTTMLSVPGAKTVRGFSQFGDSYVYVIFEDGTDPYWARSRVLEY</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">LNQVQGKLPAGVSAELGPDATGVGWIYEYALVDRSGKHDLADLRSLQDWFLKYELKTIPDVAEVASVGGVVKEYQVVIDPQRLAQYGISLAEVKSALDASNQEAGGSSIELAEAEYMVRA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">SGYLQTLDDFNHIVLKASENGVPVYLRDVAKVQIGPEMRRGIAELNGEGEVAGGVVILRSGKNAREVIAAVKDKLETLKSSLPEGVEIVTTYDRSQLIDRAIDNL</span><span class="topo-membrane">SGKLLEEFIVVAVVC</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">ALF</span><span class="topo-inside">LWHVRSA</span><span class="topo-membrane">LVAIISLPLGLCIAFIVMHFQ</span><span class="topo-outside">GLNANIMS</span><span class="topo-membrane">LGGIAIAVGAMVDAAIV</span><span class="topo-inside">MIENAHKRLEEWQHQHPDATLDNKTRWQVITDASVEVGPA</span><span class="topo-membrane">LFISLLIITLSFIPIFT</span><span class="topo-outside">LEGQEGR</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">LFGP</span><span class="topo-membrane">LAFTKTYAMAGAALLAIVVI</span><span class="topo-inside">PILMGYW</span><span class="topo-unknown">IRGKIPPESSNP</span><span class="topo-inside">L</span><span class="topo-unknown">NRFLIRVYHPLLLKV</span><span class="topo-inside">LHWPKTT</span><span class="topo-membrane">LLVAALSVLTVLWPLN</span><span class="topo-outside">KVGGEFLPQINEGDLLYMPSTLPGISAAEAASMLQKTD</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-outside">KLIMSVPEVARVFGKTGKAETATDSAPLEMVETTIQLKPQEQWRPGMTMDKIIEELDNTVRLPGLANLWVPPIRNRIDMLSTGIKSPIGIKVSGTVLADIDAMAEQIEEVARTVPGVASA</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820       830       840</span>
+<span class="topo-line"><span class="topo-outside">LAERLEGGRYINVEINREKAARYGMTVADVQLFVTSAVGGAMVGETVEGIARYPINLRYPQSWRDSPQALRQLPILTPMKQQITLADVADIKVSTGPSMLKTENARPTSWIYIDARDRDM</span></span>
+<span class="topo-ruler">       850       860       870       880       890       900       910       920       930       940       950       960</span>
+<span class="topo-line"><span class="topo-outside">VSVVHDLQKAIAEKVQLKPGTSVAFSGQFELLERANHKL</span><span class="topo-membrane">KLMVPMTLMIIFVLLYLA</span><span class="topo-inside">FRRVGEA</span><span class="topo-membrane">LLIISSVPFALVGGIWLLWWM</span><span class="topo-outside">GFHLSVAT</span><span class="topo-membrane">GTGFIALAGVAAEFGVV</span><span class="topo-inside">MLMYLRHAIE</span></span>
+<span class="topo-ruler">       970       980       990      1000      1010      1020      1030      1040      1050    </span>
+<span class="topo-line"><span class="topo-inside">AVPSLNNPQTFSEQKLDEALYHGAVLRVRPK</span><span class="topo-membrane">AMTVAVIIAGLLPILWG</span><span class="topo-outside">TGAGSEVM</span><span class="topo-membrane">SRIAAPMIGGMITAPLLSL</span><span class="topo-inside">FIIPAAYKLMWLHRH</span><span class="topo-unknown">RVRK</span></span>
+<details class="topo-details"><summary>Topology coordinates (33 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1177,6 +1191,7 @@ CusA is the inner-membrane component of the CusABC tripartite copper/silver effl
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

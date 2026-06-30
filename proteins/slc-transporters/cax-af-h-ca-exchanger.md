@@ -126,13 +126,15 @@ exchanger structure captured in an inward-facing conformation.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">DFTKEK</span><span class="topo-membrane">FQLLAISSLTLPWLISLA</span><span class="topo-inside">FNYHHPALTQT</span><span class="topo-membrane">LLSGLAVVSASFLISWAAETAE</span><span class="topo-outside">MD</span></span>
-<span class="topo-line"><span class="topo-outside">VPRS</span><span class="topo-membrane">FSLAIVALLAVLPEYAVDG</span><span class="topo-inside">YFAWKAGSVGGEYVHYAT</span><span class="topo-membrane">ANMTGANRLLIGIGWSLVA</span></span>
-<span class="topo-line"><span class="topo-membrane">FI</span><span class="topo-outside">AFRTLKSKEVELDDGI</span><span class="topo-membrane">RLEIFFLFLATLYAFTL</span><span class="topo-inside">PLKGHISPF</span><span class="topo-membrane">DALVFVSLYAIYIYLS</span></span>
-<span class="topo-line"><span class="topo-membrane">T</span><span class="topo-outside">KAEREEVEVGGVPAYLCSLKTE</span><span class="topo-membrane">TRRLSVVVLFLFAGFTILMSV</span><span class="topo-inside">EAFSEGLLETARIAGI</span></span>
-<span class="topo-line"><span class="topo-inside">DEFLA</span><span class="topo-membrane">VQWIAPLASESPELIVAIY</span><span class="topo-outside">FVRRFRVSAS</span><span class="topo-membrane">MNALISSKVNQWTLLIGTIAI</span><span class="topo-inside">IYSIS</span></span>
-<span class="topo-line"><span class="topo-inside">AFKLQSLPLDARQSEE</span><span class="topo-membrane">VLLTAAQSLFAVAILL</span><span class="topo-outside">DLKI</span><span class="topo-membrane">SWKEASALFLLFIVQLLF</span><span class="topo-inside">PGVEV</span><span class="topo-membrane">R</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">DFTKEK</span><span class="topo-membrane">FQLLAISSLTLPWLISLA</span><span class="topo-inside">FNYHHPALTQT</span><span class="topo-membrane">LLSGLAVVSASFLISWAAETAE</span><span class="topo-outside">MDVPRS</span><span class="topo-membrane">FSLAIVALLAVLPEYAVDG</span><span class="topo-inside">YFAWKAGSVGGEYVHYAT</span><span class="topo-membrane">ANMTGANRLLIGIGWSLVA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">FI</span><span class="topo-outside">AFRTLKSKEVELDDGI</span><span class="topo-membrane">RLEIFFLFLATLYAFTL</span><span class="topo-inside">PLKGHISPF</span><span class="topo-membrane">DALVFVSLYAIYIYLST</span><span class="topo-outside">KAEREEVEVGGVPAYLCSLKTE</span><span class="topo-membrane">TRRLSVVVLFLFAGFTILMSV</span><span class="topo-inside">EAFSEGLLETARIAGI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">DEFLA</span><span class="topo-membrane">VQWIAPLASESPELIVAIY</span><span class="topo-outside">FVRRFRVSAS</span><span class="topo-membrane">MNALISSKVNQWTLLIGTIAI</span><span class="topo-inside">IYSISAFKLQSLPLDARQSEE</span><span class="topo-membrane">VLLTAAQSLFAVAILL</span><span class="topo-outside">DLKI</span><span class="topo-membrane">SWKEASALFLLFIVQLLF</span><span class="topo-inside">PGVEV</span><span class="topo-membrane">R</span></span>
+<span class="topo-ruler">       370       380       390       400     </span>
 <span class="topo-line"><span class="topo-membrane">YIISAIYIILSLPILFAKR</span><span class="topo-outside">KEIVESFRTVKRLISLE</span><span class="topo-unknown">SSGENLYFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (26 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -326,6 +328,7 @@ exchanger structure captured in an inward-facing conformation.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

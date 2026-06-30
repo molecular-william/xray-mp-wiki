@@ -123,15 +123,17 @@ dDAT_GAT is an engineered construct of the Drosophila melanogaster dopamine tran
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">DERETWSGKV</span><span class="topo-membrane">DFLLSVIGYAVGLANVWRFP</span><span class="topo-inside">YLCYKNGGG</span><span class="topo-membrane">AFLVPYGIMLAVGGIPLF</span><span class="topo-outside">YME</span></span>
-<span class="topo-line"><span class="topo-outside">LALGQHNRKGAITCWGRLVPLFKGIGYA</span><span class="topo-membrane">VVLISFYLNFYYNVIIAWSLR</span><span class="topo-inside">FFFASFTNSLP</span></span>
-<span class="topo-line"><span class="topo-inside">WTSCNNIWNTPNCRPFEGHVEGFQSAASEYFNRYILELNRSEGIHDLGAIKW</span><span class="topo-membrane">DMALCLLI</span></span>
-<span class="topo-line"><span class="topo-membrane">VYLICYFSLW</span><span class="topo-outside">KGIST</span><span class="topo-membrane">SGKVVWFTALFPYAALLI</span><span class="topo-inside">LLIRGLTLPGSFLGIQYYLTPNFSA</span><span class="topo-membrane">IY</span></span>
-<span class="topo-line"><span class="topo-membrane">KAEVWADAATQVFFSLGPGLGSL</span><span class="topo-outside">LAYASYNKYHNNVYKDA</span><span class="topo-membrane">LLTSFINSATSFIAG</span><span class="topo-inside">FVIFS</span></span>
-<span class="topo-line"><span class="topo-inside">VLGYMAHTLGVRIEDVATSGPGLVFVVYPAAIATMPASTFWALI</span><span class="topo-membrane">FFMMLATLGLDSQFGT</span></span>
-<span class="topo-line"><span class="topo-membrane">VEAI</span><span class="topo-outside">ITALSDEFPKIKRNRELFV</span><span class="topo-membrane">AGLFSLYFVVGLASCT</span><span class="topo-inside">QGG</span><span class="topo-membrane">FYFFHLLDRYAAGYSILV</span></span>
-<span class="topo-line"><span class="topo-membrane">AVF</span><span class="topo-outside">FEAIAVSWIYGTNRFSEDIRDMIGFPPGRYWQVCWRFV</span><span class="topo-membrane">APIFLLFITVYLLIGYEPL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">DERETWSGKV</span><span class="topo-membrane">DFLLSVIGYAVGLANVWRFP</span><span class="topo-inside">YLCYKNGGG</span><span class="topo-membrane">AFLVPYGIMLAVGGIPLF</span><span class="topo-outside">YMELALGQHNRKGAITCWGRLVPLFKGIGYA</span><span class="topo-membrane">VVLISFYLNFYYNVIIAWSLR</span><span class="topo-inside">FFFASFTNSLP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">WTSCNNIWNTPNCRPFEGHVEGFQSAASEYFNRYILELNRSEGIHDLGAIKW</span><span class="topo-membrane">DMALCLLIVYLICYFSLW</span><span class="topo-outside">KGIST</span><span class="topo-membrane">SGKVVWFTALFPYAALLI</span><span class="topo-inside">LLIRGLTLPGSFLGIQYYLTPNFSA</span><span class="topo-membrane">IY</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">KAEVWADAATQVFFSLGPGLGSL</span><span class="topo-outside">LAYASYNKYHNNVYKDA</span><span class="topo-membrane">LLTSFINSATSFIAG</span><span class="topo-inside">FVIFSVLGYMAHTLGVRIEDVATSGPGLVFVVYPAAIATMPASTFWALI</span><span class="topo-membrane">FFMMLATLGLDSQFGT</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">VEAI</span><span class="topo-outside">ITALSDEFPKIKRNRELFV</span><span class="topo-membrane">AGLFSLYFVVGLASCT</span><span class="topo-inside">QGG</span><span class="topo-membrane">FYFFHLLDRYAAGYSILVAVF</span><span class="topo-outside">FEAIAVSWIYGTNRFSEDIRDMIGFPPGRYWQVCWRFV</span><span class="topo-membrane">APIFLLFITVYLLIGYEPL</span></span>
+<span class="topo-ruler">       490       500       510       520       530      </span>
 <span class="topo-line"><span class="topo-inside">TYADYVYP</span><span class="topo-membrane">SWANALGWCIAGSSVV</span><span class="topo-outside">MIPAVAIFKLLSTPGSLRQRFTILTTPWRDQQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (25 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -318,6 +320,7 @@ dDAT_GAT is an engineered construct of the Drosophila melanogaster dopamine tran
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -333,15 +336,17 @@ dDAT_GAT is an engineered construct of the Drosophila melanogaster dopamine tran
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">DERETWSGKV</span><span class="topo-membrane">DFLLSVIGYAVGLANVWRFP</span><span class="topo-inside">YLCYKNGGG</span><span class="topo-membrane">AFLVPYGIMLAVGGIPLF</span><span class="topo-outside">YME</span></span>
-<span class="topo-line"><span class="topo-outside">LALGQHNRKGAITCWGRLVPLFKGIGYA</span><span class="topo-membrane">VVLISFYLNFYYNVIIAWSLR</span><span class="topo-inside">FFFASFTNSLP</span></span>
-<span class="topo-line"><span class="topo-inside">WTSCNNIWNTPNCRPFEGHVEGFQSAASEYFNRYILELNRSEGIHDLGAIKW</span><span class="topo-membrane">DMALCLLI</span></span>
-<span class="topo-line"><span class="topo-membrane">VYLICYFSLW</span><span class="topo-outside">KGIST</span><span class="topo-membrane">SGKVVWFTALFPYAALLI</span><span class="topo-inside">LLIRGLTLPGSFLGIQYYLTPNFSA</span><span class="topo-membrane">IY</span></span>
-<span class="topo-line"><span class="topo-membrane">KAEVWADAATQVFFSLGPGLGSL</span><span class="topo-outside">LAYASYNKYHNNVYKDA</span><span class="topo-membrane">LLTSFINSATSFIAG</span><span class="topo-inside">FVIFS</span></span>
-<span class="topo-line"><span class="topo-inside">VLGYMAHTLGVRIEDVATSGPGLVFVVYPAAIATMPASTFWALI</span><span class="topo-membrane">FFMMLATLGLDSQFGT</span></span>
-<span class="topo-line"><span class="topo-membrane">VEAI</span><span class="topo-outside">ITALSDEFPKIKRNRELFV</span><span class="topo-membrane">AGLFSLYFVVGLASCT</span><span class="topo-inside">QGG</span><span class="topo-membrane">FYFFHLLDRYAAGYSILV</span></span>
-<span class="topo-line"><span class="topo-membrane">AVF</span><span class="topo-outside">FEAIAVSWIYGTNRFSEDIRDMIGFPPGRYWQVCWRFV</span><span class="topo-membrane">APIFLLFITVYLLIGYEPL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">DERETWSGKV</span><span class="topo-membrane">DFLLSVIGYAVGLANVWRFP</span><span class="topo-inside">YLCYKNGGG</span><span class="topo-membrane">AFLVPYGIMLAVGGIPLF</span><span class="topo-outside">YMELALGQHNRKGAITCWGRLVPLFKGIGYA</span><span class="topo-membrane">VVLISFYLNFYYNVIIAWSLR</span><span class="topo-inside">FFFASFTNSLP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">WTSCNNIWNTPNCRPFEGHVEGFQSAASEYFNRYILELNRSEGIHDLGAIKW</span><span class="topo-membrane">DMALCLLIVYLICYFSLW</span><span class="topo-outside">KGIST</span><span class="topo-membrane">SGKVVWFTALFPYAALLI</span><span class="topo-inside">LLIRGLTLPGSFLGIQYYLTPNFSA</span><span class="topo-membrane">IY</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">KAEVWADAATQVFFSLGPGLGSL</span><span class="topo-outside">LAYASYNKYHNNVYKDA</span><span class="topo-membrane">LLTSFINSATSFIAG</span><span class="topo-inside">FVIFSVLGYMAHTLGVRIEDVATSGPGLVFVVYPAAIATMPASTFWALI</span><span class="topo-membrane">FFMMLATLGLDSQFGT</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">VEAI</span><span class="topo-outside">ITALSDEFPKIKRNRELFV</span><span class="topo-membrane">AGLFSLYFVVGLASCT</span><span class="topo-inside">QGG</span><span class="topo-membrane">FYFFHLLDRYAAGYSILVAVF</span><span class="topo-outside">FEAIAVSWIYGTNRFSEDIRDMIGFPPGRYWQVCWRFV</span><span class="topo-membrane">APIFLLFITVYLLIGYEPL</span></span>
+<span class="topo-ruler">       490       500       510       520       530      </span>
 <span class="topo-line"><span class="topo-inside">TYADYVYP</span><span class="topo-membrane">SWANALGWCIAGSSVV</span><span class="topo-outside">MIPAVAIFKLLSTPGSLRQRFTILTTPWRDQQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (25 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -528,6 +533,7 @@ dDAT_GAT is an engineered construct of the Drosophila melanogaster dopamine tran
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -543,15 +549,17 @@ dDAT_GAT is an engineered construct of the Drosophila melanogaster dopamine tran
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">DERETWSGKV</span><span class="topo-membrane">DFLLSVIGYAVGLANVWRFP</span><span class="topo-inside">YLCYKNGGG</span><span class="topo-membrane">AFLVPYGIMLAVGGIPLF</span><span class="topo-outside">YME</span></span>
-<span class="topo-line"><span class="topo-outside">LALGQHNRKGAITCWGRLVPLFKGIGYA</span><span class="topo-membrane">VVLISFYLNFYYNVIIAWSLR</span><span class="topo-inside">FFFASFTNSLP</span></span>
-<span class="topo-line"><span class="topo-inside">WTSCNNIWNTPNCRPFEGHVEGFQSAASEYFNRYILELNRSEGIHDLGAIKW</span><span class="topo-membrane">DMALCLLI</span></span>
-<span class="topo-line"><span class="topo-membrane">VYLICYFSLW</span><span class="topo-outside">KGIST</span><span class="topo-membrane">SGKVVWFTALFPYAALLI</span><span class="topo-inside">LLIRGLTLPGSFLGIQYYLTPNFSA</span><span class="topo-membrane">IY</span></span>
-<span class="topo-line"><span class="topo-membrane">KAEVWADAATQVFFSLGPGLGSL</span><span class="topo-outside">LAYASYNKYHNNVYKDA</span><span class="topo-membrane">LLTSFINSATSFIAG</span><span class="topo-inside">FVIFS</span></span>
-<span class="topo-line"><span class="topo-inside">VLGYMAHTLGVRIEDVATSGPGLVFVVYPAAIATMPASTFWALI</span><span class="topo-membrane">FFMMLATLGLDSQFGT</span></span>
-<span class="topo-line"><span class="topo-membrane">VEAI</span><span class="topo-outside">ITALSDEFPKIKRNRELFV</span><span class="topo-membrane">AGLFSLYFVVGLASCT</span><span class="topo-inside">QGG</span><span class="topo-membrane">FYFFHLLDRYAAGYSILV</span></span>
-<span class="topo-line"><span class="topo-membrane">AVF</span><span class="topo-outside">FEAIAVSWIYGTNRFSEDIRDMIGFPPGRYWQVCWRFV</span><span class="topo-membrane">APIFLLFITVYLLIGYEPL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">DERETWSGKV</span><span class="topo-membrane">DFLLSVIGYAVGLANVWRFP</span><span class="topo-inside">YLCYKNGGG</span><span class="topo-membrane">AFLVPYGIMLAVGGIPLF</span><span class="topo-outside">YMELALGQHNRKGAITCWGRLVPLFKGIGYA</span><span class="topo-membrane">VVLISFYLNFYYNVIIAWSLR</span><span class="topo-inside">FFFASFTNSLP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">WTSCNNIWNTPNCRPFEGHVEGFQSAASEYFNRYILELNRSEGIHDLGAIKW</span><span class="topo-membrane">DMALCLLIVYLICYFSLW</span><span class="topo-outside">KGIST</span><span class="topo-membrane">SGKVVWFTALFPYAALLI</span><span class="topo-inside">LLIRGLTLPGSFLGIQYYLTPNFSA</span><span class="topo-membrane">IY</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">KAEVWADAATQVFFSLGPGLGSL</span><span class="topo-outside">LAYASYNKYHNNVYKDA</span><span class="topo-membrane">LLTSFINSATSFIAG</span><span class="topo-inside">FVIFSVLGYMAHTLGVRIEDVATSGPGLVFVVYPAAIATMPASTFWALI</span><span class="topo-membrane">FFMMLATLGLDSQFGT</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">VEAI</span><span class="topo-outside">ITALSDEFPKIKRNRELFV</span><span class="topo-membrane">AGLFSLYFVVGLASCT</span><span class="topo-inside">QGG</span><span class="topo-membrane">FYFFHLLDRYAAGYSILVAVF</span><span class="topo-outside">FEAIAVSWIYGTNRFSEDIRDMIGFPPGRYWQVCWRFV</span><span class="topo-membrane">APIFLLFITVYLLIGYEPL</span></span>
+<span class="topo-ruler">       490       500       510       520       530      </span>
 <span class="topo-line"><span class="topo-inside">TYADYVYP</span><span class="topo-membrane">SWANALGWCIAGSSVV</span><span class="topo-outside">MIPAVAIFKLLSTPGSLRQRFTILTTPWRDQQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (25 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -738,6 +746,7 @@ dDAT_GAT is an engineered construct of the Drosophila melanogaster dopamine tran
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

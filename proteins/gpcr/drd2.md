@@ -167,12 +167,13 @@ The human D2 dopamine receptor (DRD2) is a class A G protein-coupled receptor th
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">NYY</span><span class="topo-membrane">ATLLTLLIAVIVFGNVLVCM</span><span class="topo-outside">AVSREKALQTTTNYL</span><span class="topo-membrane">IVSLAVADLLVATLVMPWVV</span><span class="topo-inside">Y</span></span>
-<span class="topo-line"><span class="topo-inside">LEVVGEWKFSRIHCDI</span><span class="topo-membrane">FVTLDVMMCTAKIWNLCAIS</span><span class="topo-outside">IDRYTAVAMPM</span><span class="topo-unknown">LYNTRYS</span><span class="topo-outside">SKRRVT</span></span>
-<span class="topo-line"><span class="topo-membrane">VMISIVWVLSFTISCPLLF</span><span class="topo-inside">GLNNADQNECIIANPA</span><span class="topo-membrane">FVVYSSIVSFYVPFIVTLLV</span><span class="topo-outside">YIKIY</span></span>
-<span class="topo-line"><span class="topo-outside">IVL</span><span class="topo-unknown">RRRRAD</span><span class="topo-outside">LEDNWETLNDNLKVIEKADNAAQVKDALTKMRAAALDAGS</span><span class="topo-unknown">GSG</span><span class="topo-outside">DILVGQID</span></span>
-<span class="topo-line"><span class="topo-outside">DALKLANEGKVKEAQAAAEQLKTTINAYIQKYGSQQKEKKATQML</span><span class="topo-membrane">AIVLGVFIICWLPFF</span></span>
-<span class="topo-line"><span class="topo-membrane">ITHILNIH</span><span class="topo-inside">CDCNIPPVL</span><span class="topo-membrane">YSAFTWLGYVNSAVNPIIY</span><span class="topo-outside">TTFN</span><span class="topo-unknown">IEFRKAFLKI</span><span class="topo-outside">LH</span><span class="topo-unknown">CGENLYFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">NYY</span><span class="topo-membrane">ATLLTLLIAVIVFGNVLVCM</span><span class="topo-outside">AVSREKALQTTTNYL</span><span class="topo-membrane">IVSLAVADLLVATLVMPWVV</span><span class="topo-inside">YLEVVGEWKFSRIHCDI</span><span class="topo-membrane">FVTLDVMMCTAKIWNLCAIS</span><span class="topo-outside">IDRYTAVAMPM</span><span class="topo-unknown">LYNTRYS</span><span class="topo-outside">SKRRVT</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">VMISIVWVLSFTISCPLLF</span><span class="topo-inside">GLNNADQNECIIANPA</span><span class="topo-membrane">FVVYSSIVSFYVPFIVTLLV</span><span class="topo-outside">YIKIYIVL</span><span class="topo-unknown">RRRRAD</span><span class="topo-outside">LEDNWETLNDNLKVIEKADNAAQVKDALTKMRAAALDAGS</span><span class="topo-unknown">GSG</span><span class="topo-outside">DILVGQID</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">DALKLANEGKVKEAQAAAEQLKTTINAYIQKYGSQQKEKKATQML</span><span class="topo-membrane">AIVLGVFIICWLPFFITHILNIH</span><span class="topo-inside">CDCNIPPVL</span><span class="topo-membrane">YSAFTWLGYVNSAVNPIIY</span><span class="topo-outside">TTFN</span><span class="topo-unknown">IEFRKAFLKI</span><span class="topo-outside">LH</span><span class="topo-unknown">CGENLYFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (20 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -324,6 +325,7 @@ The human D2 dopamine receptor (DRD2) is a class A G protein-coupled receptor th
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -371,14 +373,15 @@ The human D2 dopamine receptor (DRD2) is a class A G protein-coupled receptor th
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">NYY</span><span class="topo-membrane">ATLLTLLIAVIVFGNVLVC</span><span class="topo-outside">MAVSREKALQTTTNYLI</span><span class="topo-membrane">VSLAVADLLVATLVMPWVV</span><span class="topo-inside">YL</span></span>
-<span class="topo-line"><span class="topo-inside">EVVGEWKFSRIH</span><span class="topo-membrane">CDIFVTLDVMMCTASALNLC</span><span class="topo-outside">AISIDRYTAVAMP</span><span class="topo-unknown">MLYN</span><span class="topo-outside">TRYSSKRRVTV</span></span>
-<span class="topo-line"><span class="topo-outside">MI</span><span class="topo-membrane">SIVWVLSFTISCPLLFGLN</span><span class="topo-inside">NADQNECIIANPA</span><span class="topo-membrane">FVVYSSIVSFYVPFIVTLL</span><span class="topo-outside">VYIKIYI</span></span>
-<span class="topo-line"><span class="topo-outside">VLRRRRKRNIFEMLRIDEGLRLKIYKDTEGYYTIGIGHLLTKSPSLNAAKSELDKAIGRN</span></span>
-<span class="topo-line"><span class="topo-outside">TNGVITKDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVFQMGETGVAG</span></span>
-<span class="topo-line"><span class="topo-outside">FTNSLRMLQQKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWDAY</span><span class="topo-unknown">KLSQ</span><span class="topo-outside">QKEKKATQ</span></span>
-<span class="topo-line"><span class="topo-outside">MAAI</span><span class="topo-membrane">VAGVFIICWLPFFITHILNIH</span><span class="topo-inside">CDCNIPPVL</span><span class="topo-membrane">YSAFTWLGYVNSAVNPII</span><span class="topo-outside">YTTFN</span><span class="topo-unknown">IEF</span></span>
-<span class="topo-line"><span class="topo-unknown">RKAFLKIL</span><span class="topo-outside">H</span><span class="topo-unknown">C</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">NYY</span><span class="topo-membrane">ATLLTLLIAVIVFGNVLVC</span><span class="topo-outside">MAVSREKALQTTTNYLI</span><span class="topo-membrane">VSLAVADLLVATLVMPWVV</span><span class="topo-inside">YLEVVGEWKFSRIH</span><span class="topo-membrane">CDIFVTLDVMMCTASALNLC</span><span class="topo-outside">AISIDRYTAVAMP</span><span class="topo-unknown">MLYN</span><span class="topo-outside">TRYSSKRRVTV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">MI</span><span class="topo-membrane">SIVWVLSFTISCPLLFGLN</span><span class="topo-inside">NADQNECIIANPA</span><span class="topo-membrane">FVVYSSIVSFYVPFIVTLL</span><span class="topo-outside">VYIKIYIVLRRRRKRNIFEMLRIDEGLRLKIYKDTEGYYTIGIGHLLTKSPSLNAAKSELDKAIGRN</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">TNGVITKDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVFQMGETGVAGFTNSLRMLQQKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWDAY</span><span class="topo-unknown">KLSQ</span><span class="topo-outside">QKEKKATQ</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430</span>
+<span class="topo-line"><span class="topo-outside">MAAI</span><span class="topo-membrane">VAGVFIICWLPFFITHILNIH</span><span class="topo-inside">CDCNIPPVL</span><span class="topo-membrane">YSAFTWLGYVNSAVNPII</span><span class="topo-outside">YTTFN</span><span class="topo-unknown">IEFRKAFLKIL</span><span class="topo-outside">H</span><span class="topo-unknown">C</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -523,6 +526,7 @@ The human D2 dopamine receptor (DRD2) is a class A G protein-coupled receptor th
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

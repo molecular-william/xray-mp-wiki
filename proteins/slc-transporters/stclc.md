@@ -116,14 +116,15 @@ StClC is a prokaryotic CIC chloride channel from Salmonella enterica serovar typ
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MKTDTSTFLAQQIVRLRRRDQIRRLLQRDK</span><span class="topo-outside">TPL</span><span class="topo-membrane">AILFMAAVVGTLTGLVGVAFEKAVSWV</span></span>
-<span class="topo-line"><span class="topo-membrane">Q</span><span class="topo-inside">NMRIGALVQVADHAFLLWP</span><span class="topo-membrane">LAFILSALLAMVGYFLVRKFAP</span><span class="topo-outside">EAGGSGIPEIEGALEELR</span></span>
-<span class="topo-line"><span class="topo-outside">PVRW</span><span class="topo-membrane">WRVLPVKFIGGMGTLGAG</span><span class="topo-inside">M</span><span class="topo-membrane">VLGREGPTVQIGGNLG</span><span class="topo-outside">RMVLDVFRMRSAEARHTLLAT</span></span>
-<span class="topo-line"><span class="topo-unknown">GAAAGLSAAFNAPLAGILFII</span><span class="topo-outside">EEMRPQFRYNLIS</span><span class="topo-membrane">IKAVFTGVIMSSIVFRIFN</span><span class="topo-inside">GEAPIIE</span></span>
-<span class="topo-line"><span class="topo-inside">VGKLSDAPVNT</span><span class="topo-membrane">LWLYLILGIIFGVVGPVFNSLVLRTQDMFQ</span><span class="topo-outside">RFHGGEI</span><span class="topo-membrane">KKWVLMGGAIGG</span></span>
-<span class="topo-line"><span class="topo-membrane">LCGILG</span><span class="topo-inside">LIEPAAAGGGFNLIPIAAAGNFSVGLLL</span><span class="topo-membrane">FIFITRVVTTLLCFSSG</span><span class="topo-outside">A</span><span class="topo-membrane">PGGIFAPM</span></span>
-<span class="topo-line"><span class="topo-membrane">LALGTLLG</span><span class="topo-inside">TAFGMAAAVLFPQYHLEAGTFAI</span><span class="topo-unknown">AGMGALMAASVRAPLTGIVLVLEMT</span><span class="topo-inside">DNYQ</span></span>
-<span class="topo-line"><span class="topo-inside">L</span><span class="topo-membrane">ILPMIITCLGATLLAQFLGGK</span><span class="topo-outside">PLYSTILARTLAKQDAEQ</span><span class="topo-unknown">AEKNQNAPADENT</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MKTDTSTFLAQQIVRLRRRDQIRRLLQRDK</span><span class="topo-outside">TPL</span><span class="topo-membrane">AILFMAAVVGTLTGLVGVAFEKAVSWVQ</span><span class="topo-inside">NMRIGALVQVADHAFLLWP</span><span class="topo-membrane">LAFILSALLAMVGYFLVRKFAP</span><span class="topo-outside">EAGGSGIPEIEGALEELR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">PVRW</span><span class="topo-membrane">WRVLPVKFIGGMGTLGAG</span><span class="topo-inside">M</span><span class="topo-membrane">VLGREGPTVQIGGNLG</span><span class="topo-outside">RMVLDVFRMRSAEARHTLLAT</span><span class="topo-unknown">GAAAGLSAAFNAPLAGILFII</span><span class="topo-outside">EEMRPQFRYNLIS</span><span class="topo-membrane">IKAVFTGVIMSSIVFRIFN</span><span class="topo-inside">GEAPIIE</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">VGKLSDAPVNT</span><span class="topo-membrane">LWLYLILGIIFGVVGPVFNSLVLRTQDMFQ</span><span class="topo-outside">RFHGGEI</span><span class="topo-membrane">KKWVLMGGAIGGLCGILG</span><span class="topo-inside">LIEPAAAGGGFNLIPIAAAGNFSVGLLL</span><span class="topo-membrane">FIFITRVVTTLLCFSSG</span><span class="topo-outside">A</span><span class="topo-membrane">PGGIFAPM</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470   </span>
+<span class="topo-line"><span class="topo-membrane">LALGTLLG</span><span class="topo-inside">TAFGMAAAVLFPQYHLEAGTFAI</span><span class="topo-unknown">AGMGALMAASVRAPLTGIVLVLEMT</span><span class="topo-inside">DNYQL</span><span class="topo-membrane">ILPMIITCLGATLLAQFLGGK</span><span class="topo-outside">PLYSTILARTLAKQDAEQ</span><span class="topo-unknown">AEKNQNAPADENT</span></span>
+<details class="topo-details"><summary>Topology coordinates (27 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -324,6 +325,7 @@ StClC is a prokaryotic CIC chloride channel from Salmonella enterica serovar typ
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -339,14 +341,15 @@ StClC is a prokaryotic CIC chloride channel from Salmonella enterica serovar typ
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MKTDTSTFLAQ</span><span class="topo-outside">QIVRLRRRDQIRRLLQRDKTPLAI</span><span class="topo-membrane">LFMAAVVGTLTGLVGVAFEKAVSWV</span></span>
-<span class="topo-line"><span class="topo-membrane">Q</span><span class="topo-inside">NMRIGALVQVADHAFLLWP</span><span class="topo-membrane">LAFILSALLAMVGYFLVRKFAP</span><span class="topo-outside">EAGGSGIPEIEGALEELR</span></span>
-<span class="topo-line"><span class="topo-outside">PVRW</span><span class="topo-membrane">WRVLPVKFIGGMGTLGAG</span><span class="topo-inside">M</span><span class="topo-membrane">VLGREGPTVQIGGNLG</span><span class="topo-outside">RMVLDVFRMRSAEARHTLLAT</span></span>
-<span class="topo-line"><span class="topo-unknown">GAAAGLSAAFNAPLAGILFII</span><span class="topo-outside">EEMRPQFRYNLIS</span><span class="topo-membrane">IKAVFTGVIMSSIVFRIFN</span><span class="topo-inside">GEAPIIE</span></span>
-<span class="topo-line"><span class="topo-inside">VGKLSDAPV</span><span class="topo-membrane">NTLWLYLILGIIFGVVGPVFNSLVLRTQ</span><span class="topo-unknown">DMFQRFH</span><span class="topo-outside">GGEI</span><span class="topo-membrane">KKWVLMGGAIGG</span></span>
-<span class="topo-line"><span class="topo-membrane">LCGILG</span><span class="topo-inside">LIEPAAAGGGFNLIPIAAAGNFSVGLLL</span><span class="topo-membrane">FIFITRVVTTLLCFSSG</span><span class="topo-outside">A</span><span class="topo-membrane">PGGIFAPM</span></span>
-<span class="topo-line"><span class="topo-membrane">LALGTLLG</span><span class="topo-unknown">TAFGMAAAVLF</span><span class="topo-inside">PQYHLEAGTFAI</span><span class="topo-unknown">AGMGALMAASVRAPLTGIVLVLEMT</span><span class="topo-inside">DNYQ</span></span>
-<span class="topo-line"><span class="topo-inside">L</span><span class="topo-membrane">ILPMIITCLGATLLAQFLGGK</span><span class="topo-outside">PLYSTILARTLAKQDAEQAE</span><span class="topo-unknown">KNQNAPADENT</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MKTDTSTFLAQ</span><span class="topo-outside">QIVRLRRRDQIRRLLQRDKTPLAI</span><span class="topo-membrane">LFMAAVVGTLTGLVGVAFEKAVSWVQ</span><span class="topo-inside">NMRIGALVQVADHAFLLWP</span><span class="topo-membrane">LAFILSALLAMVGYFLVRKFAP</span><span class="topo-outside">EAGGSGIPEIEGALEELR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">PVRW</span><span class="topo-membrane">WRVLPVKFIGGMGTLGAG</span><span class="topo-inside">M</span><span class="topo-membrane">VLGREGPTVQIGGNLG</span><span class="topo-outside">RMVLDVFRMRSAEARHTLLAT</span><span class="topo-unknown">GAAAGLSAAFNAPLAGILFII</span><span class="topo-outside">EEMRPQFRYNLIS</span><span class="topo-membrane">IKAVFTGVIMSSIVFRIFN</span><span class="topo-inside">GEAPIIE</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">VGKLSDAPV</span><span class="topo-membrane">NTLWLYLILGIIFGVVGPVFNSLVLRTQ</span><span class="topo-unknown">DMFQRFH</span><span class="topo-outside">GGEI</span><span class="topo-membrane">KKWVLMGGAIGGLCGILG</span><span class="topo-inside">LIEPAAAGGGFNLIPIAAAGNFSVGLLL</span><span class="topo-membrane">FIFITRVVTTLLCFSSG</span><span class="topo-outside">A</span><span class="topo-membrane">PGGIFAPM</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470   </span>
+<span class="topo-line"><span class="topo-membrane">LALGTLLG</span><span class="topo-unknown">TAFGMAAAVLF</span><span class="topo-inside">PQYHLEAGTFAI</span><span class="topo-unknown">AGMGALMAASVRAPLTGIVLVLEMT</span><span class="topo-inside">DNYQL</span><span class="topo-membrane">ILPMIITCLGATLLAQFLGGK</span><span class="topo-outside">PLYSTILARTLAKQDAEQAE</span><span class="topo-unknown">KNQNAPADENT</span></span>
+<details class="topo-details"><summary>Topology coordinates (29 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -561,6 +564,7 @@ StClC is a prokaryotic CIC chloride channel from Salmonella enterica serovar typ
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

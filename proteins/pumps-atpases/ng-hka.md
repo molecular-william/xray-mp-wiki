@@ -88,23 +88,25 @@ The non-gastric H+/K+-ATPase (ngHKA, [ATP](/xray-mp-wiki/reagents/ligands/atp)12
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">GMDLDDHRLSNTELEQKYGTNIIQGLSSVRATELLARDGPNTLTPPKQTPE</span><span class="topo-membrane">IIKFLKQMV</span></span>
-<span class="topo-line"><span class="topo-membrane">GGFSILLWIGAALCWIAF</span><span class="topo-outside">VIQYVNNSASLD</span><span class="topo-membrane">NVYLGAILVLVVILTGIFAYY</span><span class="topo-inside">QEAKSTNIM</span></span>
-<span class="topo-line"><span class="topo-inside">ASFSKMIPQQALVIRDAEKKVISAEQLVVGDVVEIKGGDQIPADIRLVFSQGCKVDNSSL</span></span>
-<span class="topo-line"><span class="topo-inside">TGESEPQARSTEFTHENPLETKNIGFYSTTCLEGTATGIVINTGDRTIIGRIASLASGVG</span></span>
-<span class="topo-line"><span class="topo-inside">SEKTPIAIEI</span><span class="topo-membrane">EHFVHIVAGVAVSIGIIFFITAVC</span><span class="topo-outside">MKYYV</span><span class="topo-membrane">LDAIIFLISIIVANVPEGLLA</span></span>
-<span class="topo-line"><span class="topo-membrane">TVTVT</span><span class="topo-inside">LSLTAKRMAKKNCLVKNLEAVETLGSTSIICSDKTGTLTQNRMTVAHLWFDNQIF</span></span>
-<span class="topo-line"><span class="topo-inside">VADTSENQTKQAFDQSSGTWASLSKIITLCNRAEFRPGQESVPIMKRTVVGDASETALLK</span></span>
-<span class="topo-line"><span class="topo-inside">FSEVILGDVMGIRKRNHKVAEIPFNSTNKFQLSIHETEDPNNKRFLVVMKGAPERILEKC</span></span>
-<span class="topo-line"><span class="topo-inside">STIMINGQEQPLDKSSADSFHTAYMELGGLGERVLGFCHLYLPAEQFPQSYIFDVDSVNF</span></span>
-<span class="topo-line"><span class="topo-inside">PTSNFCFVGLLSMIDPPRSTVPDAVSKCRSAGIKVIMVTGDHPITAKAIAKSVGIISANN</span></span>
-<span class="topo-line"><span class="topo-inside">ETVEDIAKRRNIAVEQVNKREAKAAVVTGMELKDMTPEQLDELLTNYQEIVFARTSPQQK</span></span>
-<span class="topo-line"><span class="topo-inside">LIIVEGCQRQDAIVAVTGDGVNDSPALKKADIGIAMGIAGSDAAKNAADMVLLDDNFASI</span></span>
-<span class="topo-line"><span class="topo-inside">VTGVEEGRLIFDNL</span><span class="topo-membrane">KKTIAYTLTKNIAELCPFLIYIV</span><span class="topo-outside">AGLPL</span><span class="topo-membrane">PIGTITILFIDLGTDIIP</span></span>
-<span class="topo-line"><span class="topo-membrane">SIALA</span><span class="topo-inside">YEKAESDIMNRKPRHKKKDRLV</span><span class="topo-membrane">NTQLAIYSYLHIGLMQALGGFLVY</span><span class="topo-outside">FTVYAQQGF</span></span>
-<span class="topo-line"><span class="topo-outside">WPTSLINLRVAWETDDINDLEDSYGQEWTRYQRKYLEWTGS</span><span class="topo-membrane">TAFFVAIMIQQIADLIIRK</span></span>
-<span class="topo-line"><span class="topo-membrane">TR</span><span class="topo-inside">RNSIFQQG</span><span class="topo-membrane">LFRNKVIWVGIASQVIVALILSYGLGS</span><span class="topo-outside">VPALSFTMLRV</span><span class="topo-membrane">QYWFVAVPHAIL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">GMDLDDHRLSNTELEQKYGTNIIQGLSSVRATELLARDGPNTLTPPKQTPE</span><span class="topo-membrane">IIKFLKQMVGGFSILLWIGAALCWIAF</span><span class="topo-outside">VIQYVNNSASLD</span><span class="topo-membrane">NVYLGAILVLVVILTGIFAYY</span><span class="topo-inside">QEAKSTNIM</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">ASFSKMIPQQALVIRDAEKKVISAEQLVVGDVVEIKGGDQIPADIRLVFSQGCKVDNSSLTGESEPQARSTEFTHENPLETKNIGFYSTTCLEGTATGIVINTGDRTIIGRIASLASGVG</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">SEKTPIAIEI</span><span class="topo-membrane">EHFVHIVAGVAVSIGIIFFITAVC</span><span class="topo-outside">MKYYV</span><span class="topo-membrane">LDAIIFLISIIVANVPEGLLATVTVT</span><span class="topo-inside">LSLTAKRMAKKNCLVKNLEAVETLGSTSIICSDKTGTLTQNRMTVAHLWFDNQIF</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">VADTSENQTKQAFDQSSGTWASLSKIITLCNRAEFRPGQESVPIMKRTVVGDASETALLKFSEVILGDVMGIRKRNHKVAEIPFNSTNKFQLSIHETEDPNNKRFLVVMKGAPERILEKC</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-inside">STIMINGQEQPLDKSSADSFHTAYMELGGLGERVLGFCHLYLPAEQFPQSYIFDVDSVNFPTSNFCFVGLLSMIDPPRSTVPDAVSKCRSAGIKVIMVTGDHPITAKAIAKSVGIISANN</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-inside">ETVEDIAKRRNIAVEQVNKREAKAAVVTGMELKDMTPEQLDELLTNYQEIVFARTSPQQKLIIVEGCQRQDAIVAVTGDGVNDSPALKKADIGIAMGIAGSDAAKNAADMVLLDDNFASI</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820       830       840</span>
+<span class="topo-line"><span class="topo-inside">VTGVEEGRLIFDNL</span><span class="topo-membrane">KKTIAYTLTKNIAELCPFLIYIV</span><span class="topo-outside">AGLPL</span><span class="topo-membrane">PIGTITILFIDLGTDIIPSIALA</span><span class="topo-inside">YEKAESDIMNRKPRHKKKDRLV</span><span class="topo-membrane">NTQLAIYSYLHIGLMQALGGFLVY</span><span class="topo-outside">FTVYAQQGF</span></span>
+<span class="topo-ruler">       850       860       870       880       890       900       910       920       930       940       950       960</span>
+<span class="topo-line"><span class="topo-outside">WPTSLINLRVAWETDDINDLEDSYGQEWTRYQRKYLEWTGS</span><span class="topo-membrane">TAFFVAIMIQQIADLIIRKTR</span><span class="topo-inside">RNSIFQQG</span><span class="topo-membrane">LFRNKVIWVGIASQVIVALILSYGLGS</span><span class="topo-outside">VPALSFTMLRV</span><span class="topo-membrane">QYWFVAVPHAIL</span></span>
+<span class="topo-ruler">       970       980      </span>
 <span class="topo-line"><span class="topo-membrane">IWVYDEMRKLF</span><span class="topo-inside">IRLYPGSWWDKNMY</span><span class="topo-unknown">Y</span></span>
+<details class="topo-details"><summary>Topology coordinates (22 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -270,6 +272,7 @@ The non-gastric H+/K+-ATPase (ngHKA, [ATP](/xray-mp-wiki/reagents/ligands/atp)12
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -285,12 +288,13 @@ The non-gastric H+/K+-ATPase (ngHKA, [ATP](/xray-mp-wiki/reagents/ligands/atp)12
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGDYKDDDDKSSGENLYFQGMARGKAKEEGSWKKFI</span><span class="topo-inside">WNSEKKEFLGRTG</span><span class="topo-membrane">GSWFKILLFYV</span></span>
-<span class="topo-line"><span class="topo-membrane">IFYGCLAGIFIGTIQVM</span><span class="topo-outside">LLTISELKPTYQDRVAPPGLTQIPQIQKTEISFRPNDPKSYEA</span></span>
-<span class="topo-line"><span class="topo-outside">YVLNIIRFLEKYKDSAQKDDMIFEDCGSMPSEPKERGEFNHERGERKVCRFKLDWLGNCS</span></span>
-<span class="topo-line"><span class="topo-outside">GLNDESYGYKEGKPCIIIKLNRVLGFKPKPPKNESLETYPLTMKYNPNVLPVQCTGKRDE</span></span>
-<span class="topo-line"><span class="topo-outside">DKDKVGNIEYFGMGGFYGFPLQYYPYYGKLLQPKYLQPLLAVQFTNLTLDTEIRIECKAY</span></span>
-<span class="topo-line"><span class="topo-outside">GENIGYSEKDRFQGRFDVKIEVKS</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGDYKDDDDKSSGENLYFQGMARGKAKEEGSWKKFI</span><span class="topo-inside">WNSEKKEFLGRTG</span><span class="topo-membrane">GSWFKILLFYVIFYGCLAGIFIGTIQVM</span><span class="topo-outside">LLTISELKPTYQDRVAPPGLTQIPQIQKTEISFRPNDPKSYEA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">YVLNIIRFLEKYKDSAQKDDMIFEDCGSMPSEPKERGEFNHERGERKVCRFKLDWLGNCSGLNDESYGYKEGKPCIIIKLNRVLGFKPKPPKNESLETYPLTMKYNPNVLPVQCTGKRDE</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320    </span>
+<span class="topo-line"><span class="topo-outside">DKDKVGNIEYFGMGGFYGFPLQYYPYYGKLLQPKYLQPLLAVQFTNLTLDTEIRIECKAYGENIGYSEKDRFQGRFDVKIEVKS</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -330,6 +334,7 @@ The non-gastric H+/K+-ATPase (ngHKA, [ATP](/xray-mp-wiki/reagents/ligands/atp)12
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

@@ -122,12 +122,13 @@ High-resolution 2.2 A crystal structure of bovine rhodopsin in the dark state (P
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">-</span><span class="topo-outside">MNGTEGPNFYVPFSNKTGVVRSPFEAPQYYLAEPWQFSMLAAY</span><span class="topo-membrane">MFLLIMLGFPINFLTL</span></span>
-<span class="topo-line"><span class="topo-membrane">YVTVQH</span><span class="topo-inside">KKL</span><span class="topo-membrane">RTPLNYILLNLAVADLFMVFGGFT</span><span class="topo-outside">TTLYTSLHGYFVFGPTGCNL</span><span class="topo-membrane">EGFFATL</span></span>
-<span class="topo-line"><span class="topo-membrane">GGEIALWSLVVLAIERY</span><span class="topo-inside">VVVCKPMSNFRFGE</span><span class="topo-membrane">NHAIMGVAFTWVMALACAAPPLV</span><span class="topo-outside">GWSRYI</span></span>
-<span class="topo-line"><span class="topo-outside">PEGMQCSCGIDYYTPHEETNNES</span><span class="topo-membrane">FVIYMFVVHFIIPLIVIFFCYGQLV</span><span class="topo-inside">FTVKEAAAQQQE</span></span>
-<span class="topo-line"><span class="topo-inside">SATTQKAEKE</span><span class="topo-membrane">VTRMVIIMVIAFLICWLPYAGVAF</span><span class="topo-outside">YIFTHQGSDFGPIFMTIP</span><span class="topo-membrane">AFFAKTSA</span></span>
-<span class="topo-line"><span class="topo-membrane">VYNPVIYIMMNKQ</span><span class="topo-unknown">F</span><span class="topo-membrane">RNCMVTTLCCGK</span><span class="topo-inside">NPLGDDEASTTVSKTETSQVAPA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">-</span><span class="topo-outside">MNGTEGPNFYVPFSNKTGVVRSPFEAPQYYLAEPWQFSMLAAY</span><span class="topo-membrane">MFLLIMLGFPINFLTLYVTVQH</span><span class="topo-inside">KKL</span><span class="topo-membrane">RTPLNYILLNLAVADLFMVFGGFT</span><span class="topo-outside">TTLYTSLHGYFVFGPTGCNL</span><span class="topo-membrane">EGFFATL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GGEIALWSLVVLAIERY</span><span class="topo-inside">VVVCKPMSNFRFGE</span><span class="topo-membrane">NHAIMGVAFTWVMALACAAPPLV</span><span class="topo-outside">GWSRYIPEGMQCSCGIDYYTPHEETNNES</span><span class="topo-membrane">FVIYMFVVHFIIPLIVIFFCYGQLV</span><span class="topo-inside">FTVKEAAAQQQE</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340         </span>
+<span class="topo-line"><span class="topo-inside">SATTQKAEKE</span><span class="topo-membrane">VTRMVIIMVIAFLICWLPYAGVAF</span><span class="topo-outside">YIFTHQGSDFGPIFMTIP</span><span class="topo-membrane">AFFAKTSAVYNPVIYIMMNKQ</span><span class="topo-unknown">F</span><span class="topo-membrane">RNCMVTTLCCGK</span><span class="topo-inside">NPLGDDEASTTVSKTETSQVAPA</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -251,6 +252,7 @@ High-resolution 2.2 A crystal structure of bovine rhodopsin in the dark state (P
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

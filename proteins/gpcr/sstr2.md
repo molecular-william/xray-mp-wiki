@@ -158,16 +158,17 @@ Somatostatin receptor 2 (SSTR2) is a class A G protein-coupled receptor that is 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MKTIIALSYIFCLVFADYKDDDDGAPDMADEPLNGSHTWLSIPFDLNGSVVSTNTSNQTE</span></span>
-<span class="topo-line"><span class="topo-unknown">P</span><span class="topo-outside">YYDLTSNA</span><span class="topo-membrane">VLTFIYFVVCIIGLCGNTLVIYV</span><span class="topo-inside">ILRYAKMKTITNI</span><span class="topo-membrane">YILNLAIADELFMLG</span></span>
-<span class="topo-line"><span class="topo-membrane">LPFLAMQVA</span><span class="topo-outside">LEHWPFGK</span><span class="topo-membrane">AICRVVMTVDGINQFTSIFCLTVMSI</span><span class="topo-inside">DRYLAVVHPIKSAKWRR</span></span>
-<span class="topo-line"><span class="topo-inside">PRTAK</span><span class="topo-membrane">MITMAVWGVSLLVILPIMIYAG</span><span class="topo-outside">LRSNQWGRSSCTINWPGESGAW</span><span class="topo-membrane">YTGFIIYTFIL</span></span>
-<span class="topo-line"><span class="topo-membrane">GFLVPLTIICLCYLF</span><span class="topo-inside">IIIKVKSSGASTDYWQNWTFGGGIVNAVNGSGGNYSVNWSNTGNF</span></span>
-<span class="topo-line"><span class="topo-inside">VVGKGWTTGSPFRTINYNAGVWAPNGNGYLTLYGWTRSPLIEYYVVDSWGTYRPTGTYKG</span></span>
-<span class="topo-line"><span class="topo-inside">TVKSDGGTYDIYTTTRYNAPSIDGDDTTFTQYWSVRQSKRPTGSNATITFTNHVNAWKSH</span></span>
-<span class="topo-line"><span class="topo-inside">GMNL</span><span class="topo-unknown">G</span><span class="topo-inside">SNWAYQVMATEGYQSSGSSNVTVWGSSKRKKSEKKVTR</span><span class="topo-membrane">MVSIVVAVFIFCWLPFY</span></span>
-<span class="topo-line"><span class="topo-membrane">IFNVSSV</span><span class="topo-outside">SMAISPTPALKG</span><span class="topo-membrane">MFDFVVVLTYANSCANPILYAFL</span><span class="topo-inside">DDNFKKSFQNVLCLVK</span><span class="topo-unknown">VS</span></span>
-<span class="topo-line"><span class="topo-unknown">GTDDGERSDSKQDKSRLNETTETQRTEFLEVLFQGPHHHHHHHHHHEPE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MKTIIALSYIFCLVFADYKDDDDGAPDMADEPLNGSHTWLSIPFDLNGSVVSTNTSNQTEP</span><span class="topo-outside">YYDLTSNA</span><span class="topo-membrane">VLTFIYFVVCIIGLCGNTLVIYV</span><span class="topo-inside">ILRYAKMKTITNI</span><span class="topo-membrane">YILNLAIADELFMLG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">LPFLAMQVA</span><span class="topo-outside">LEHWPFGK</span><span class="topo-membrane">AICRVVMTVDGINQFTSIFCLTVMSI</span><span class="topo-inside">DRYLAVVHPIKSAKWRRPRTAK</span><span class="topo-membrane">MITMAVWGVSLLVILPIMIYAG</span><span class="topo-outside">LRSNQWGRSSCTINWPGESGAW</span><span class="topo-membrane">YTGFIIYTFIL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">GFLVPLTIICLCYLF</span><span class="topo-inside">IIIKVKSSGASTDYWQNWTFGGGIVNAVNGSGGNYSVNWSNTGNFVVGKGWTTGSPFRTINYNAGVWAPNGNGYLTLYGWTRSPLIEYYVVDSWGTYRPTGTYKG</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">TVKSDGGTYDIYTTTRYNAPSIDGDDTTFTQYWSVRQSKRPTGSNATITFTNHVNAWKSHGMNL</span><span class="topo-unknown">G</span><span class="topo-inside">SNWAYQVMATEGYQSSGSSNVTVWGSSKRKKSEKKVTR</span><span class="topo-membrane">MVSIVVAVFIFCWLPFY</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580         </span>
+<span class="topo-line"><span class="topo-membrane">IFNVSSV</span><span class="topo-outside">SMAISPTPALKG</span><span class="topo-membrane">MFDFVVVLTYANSCANPILYAFL</span><span class="topo-inside">DDNFKKSFQNVLCLVK</span><span class="topo-unknown">VSGTDDGERSDSKQDKSRLNETTETQRTEFLEVLFQGPHHHHHHHHHHEPE</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -326,6 +327,7 @@ Somatostatin receptor 2 (SSTR2) is a class A G protein-coupled receptor that is 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -341,13 +343,15 @@ Somatostatin receptor 2 (SSTR2) is a class A G protein-coupled receptor that is 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">DYKDDDDGAPDMADEPLNGSHTWLSIPFDLNGSVVSTNTSNQTEPYY</span><span class="topo-outside">DLT</span><span class="topo-membrane">SNAVLTFIYF</span></span>
-<span class="topo-line"><span class="topo-membrane">VVCIIGLCGNTLVIY</span><span class="topo-inside">VILRYAKMKTITNI</span><span class="topo-membrane">YILNLAIADELFMLGLPFLAMQVA</span><span class="topo-outside">LVHWPF</span><span class="topo-membrane">G</span></span>
-<span class="topo-line"><span class="topo-membrane">KAICRVVMTVDGINQFTSIFCLTVMSID</span><span class="topo-inside">RYLAVVHPIKSAKWRRPRTA</span><span class="topo-membrane">KMITMAVWGVSL</span></span>
-<span class="topo-line"><span class="topo-membrane">LVILPIMIYA</span><span class="topo-outside">GLRSNQWGRSSCTINWPGESGAW</span><span class="topo-membrane">YTGFIIYTFILGFLVPLTIICLCYLF</span><span class="topo-inside">I</span></span>
-<span class="topo-line"><span class="topo-inside">IIKVKSSGIRVGSSKRKKSEKKVT</span><span class="topo-membrane">RMVSIVVAVFIFCWLPFYIFNVS</span><span class="topo-outside">SVSMAISPTPALK</span></span>
-<span class="topo-line"><span class="topo-membrane">GMFDFVVVLTYANSCANPILYAFL</span><span class="topo-inside">SDNFKKSF</span><span class="topo-unknown">QNVLCLVKVSGTDDGERSDSKQDKSRLN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">DYKDDDDGAPDMADEPLNGSHTWLSIPFDLNGSVVSTNTSNQTEPYY</span><span class="topo-outside">DLT</span><span class="topo-membrane">SNAVLTFIYFVVCIIGLCGNTLVIY</span><span class="topo-inside">VILRYAKMKTITNI</span><span class="topo-membrane">YILNLAIADELFMLGLPFLAMQVA</span><span class="topo-outside">LVHWPF</span><span class="topo-membrane">G</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">KAICRVVMTVDGINQFTSIFCLTVMSID</span><span class="topo-inside">RYLAVVHPIKSAKWRRPRTA</span><span class="topo-membrane">KMITMAVWGVSLLVILPIMIYA</span><span class="topo-outside">GLRSNQWGRSSCTINWPGESGAW</span><span class="topo-membrane">YTGFIIYTFILGFLVPLTIICLCYLF</span><span class="topo-inside">I</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">IIKVKSSGIRVGSSKRKKSEKKVT</span><span class="topo-membrane">RMVSIVVAVFIFCWLPFYIFNVS</span><span class="topo-outside">SVSMAISPTPALK</span><span class="topo-membrane">GMFDFVVVLTYANSCANPILYAFL</span><span class="topo-inside">SDNFKKSF</span><span class="topo-unknown">QNVLCLVKVSGTDDGERSDSKQDKSRLN</span></span>
+<span class="topo-ruler">       370       380       390       400      </span>
 <span class="topo-line"><span class="topo-unknown">ETTETQRTEFLEVLFQGPWSHPQFEKGGGSGGGSGGSAWSHPQFEK</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -478,6 +482,7 @@ Somatostatin receptor 2 (SSTR2) is a class A G protein-coupled receptor that is 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -493,12 +498,13 @@ Somatostatin receptor 2 (SSTR2) is a class A G protein-coupled receptor that is 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGCT</span><span class="topo-inside">LSAEDKAAVERSKMIDRNLREDGEKAAREVKLLLLGAGESGKCTIVKQMKT</span><span class="topo-unknown">IHEAG</span></span>
-<span class="topo-line"><span class="topo-unknown">YSEEECKQYKAVVYSNTIQSIIAIIRAMGRLKIDFGDSARADDARQLFVLAGAAEEGFMT</span></span>
-<span class="topo-line"><span class="topo-unknown">AELAGVIKRLWKDSGVQACFNRSREYQLNDSAAYYLNDLDRIAQPNYIPTQQDVLRTRVK</span></span>
-<span class="topo-line"><span class="topo-unknown">T</span><span class="topo-inside">TGIVETHFTFKDLHFKMFDVTAQRSERKKWIHCFEGVTAIIFCVALSDYDLVLAEDEEM</span></span>
-<span class="topo-line"><span class="topo-inside">NRMHASMKLFDSICNNKWFTDTSIILFLNKKDLFEEKIKKSPLTICYPEYAGSNTYEEAA</span></span>
-<span class="topo-line"><span class="topo-inside">AYIQCQFEDLNKRKDTKEIYTHFTCSTDTKNVQFVFDAVTDVIIKNNLKDCGLF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGCT</span><span class="topo-inside">LSAEDKAAVERSKMIDRNLREDGEKAAREVKLLLLGAGESGKCTIVKQMKT</span><span class="topo-unknown">IHEAGYSEEECKQYKAVVYSNTIQSIIAIIRAMGRLKIDFGDSARADDARQLFVLAGAAEEGFMT</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-unknown">AELAGVIKRLWKDSGVQACFNRSREYQLNDSAAYYLNDLDRIAQPNYIPTQQDVLRTRVKT</span><span class="topo-inside">TGIVETHFTFKDLHFKMFDVTAQRSERKKWIHCFEGVTAIIFCVALSDYDLVLAEDEEM</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350    </span>
+<span class="topo-line"><span class="topo-inside">NRMHASMKLFDSICNNKWFTDTSIILFLNKKDLFEEKIKKSPLTICYPEYAGSNTYEEAAAYIQCQFEDLNKRKDTKEIYTHFTCSTDTKNVQFVFDAVTDVIIKNNLKDCGLF</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -538,6 +544,7 @@ Somatostatin receptor 2 (SSTR2) is a class A G protein-coupled receptor that is 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -553,12 +560,13 @@ Somatostatin receptor 2 (SSTR2) is a class A G protein-coupled receptor that is 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MHHHHHHGSLLQSELDQLRQEAEQLKNQIRDARKACA</span><span class="topo-inside">DATLSQITNNIDPVGRIQMRTRR</span></span>
-<span class="topo-line"><span class="topo-inside">TLRGHLAKIYAMHWGTDSRLLVSASQDGKLIIWDSYTTNKVHAIPLRSSWVMTCAYAPSG</span></span>
-<span class="topo-line"><span class="topo-inside">NYVACGGLDNICSIYNLKTREGNVRVSRELAGHTGYLSCCRFLDDNQIVTSSGDTTCALW</span></span>
-<span class="topo-line"><span class="topo-inside">DIETGQQTTTFTGHTGDVMSLSLAPDTRLFVSGACDASAKLWDVREGMCRQTFTGHESDI</span></span>
-<span class="topo-line"><span class="topo-inside">NAICFFPNGNAFATGSDDATCRLFDLRADQELMTYSHDNIICGITSVSFSKSGRLLLAGY</span></span>
-<span class="topo-line"><span class="topo-inside">DDFNCNVWDALKADRAGVLAGHDNRVSCLGVTDDGMAVATGSWDSFLKIWN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MHHHHHHGSLLQSELDQLRQEAEQLKNQIRDARKACA</span><span class="topo-inside">DATLSQITNNIDPVGRIQMRTRRTLRGHLAKIYAMHWGTDSRLLVSASQDGKLIIWDSYTTNKVHAIPLRSSWVMTCAYAPSG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">NYVACGGLDNICSIYNLKTREGNVRVSRELAGHTGYLSCCRFLDDNQIVTSSGDTTCALWDIETGQQTTTFTGHTGDVMSLSLAPDTRLFVSGACDASAKLWDVREGMCRQTFTGHESDI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350 </span>
+<span class="topo-line"><span class="topo-inside">NAICFFPNGNAFATGSDDATCRLFDLRADQELMTYSHDNIICGITSVSFSKSGRLLLAGYDDFNCNVWDALKADRAGVLAGHDNRVSCLGVTDDGMAVATGSWDSFLKIWN</span></span>
+<details class="topo-details"><summary>Topology coordinates (2 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -584,6 +592,7 @@ Somatostatin receptor 2 (SSTR2) is a class A G protein-coupled receptor that is 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -599,8 +608,9 @@ Somatostatin receptor 2 (SSTR2) is a class A G protein-coupled receptor that is 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MASNNTASIAQARKLVEQLKMEANIDR</span><span class="topo-inside">IKVSKAAADLMAYCEAHAKEDPLLTPVPASENP</span></span>
-<span class="topo-line"><span class="topo-inside">F</span><span class="topo-unknown">REKKFFCAIL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70 </span>
+<span class="topo-line"><span class="topo-unknown">MASNNTASIAQARKLVEQLKMEANIDR</span><span class="topo-inside">IKVSKAAADLMAYCEAHAKEDPLLTPVPASENPF</span><span class="topo-unknown">REKKFFCAIL</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -633,6 +643,7 @@ Somatostatin receptor 2 (SSTR2) is a class A G protein-coupled receptor that is 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

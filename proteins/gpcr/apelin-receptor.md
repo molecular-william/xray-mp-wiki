@@ -135,7 +135,9 @@ The human apelin receptor (APJR), also known as angiotensin receptor-like 1 (AGT
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10       </span>
 <span class="topo-line"><span class="topo-outside">KFRRQRP??EHKK??P</span><span class="topo-unknown">?</span></span>
+<details class="topo-details"><summary>Topology coordinates (2 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -161,6 +163,7 @@ The human apelin receptor (APJR), also known as angiotensin receptor-like 1 (AGT
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -176,13 +179,15 @@ The human apelin receptor (APJR), also known as angiotensin receptor-like 1 (AGT
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MKTIIALSYIFCLVFADYKDDDDKFDNYYGADNQSE</span><span class="topo-outside">CEYTDWKSSGALIP</span><span class="topo-membrane">AIYMLVFLLG</span></span>
-<span class="topo-line"><span class="topo-membrane">TTGNGLVLW</span><span class="topo-inside">TVFRSSREKRRSADIF</span><span class="topo-membrane">IASLAVADLTFVVTLPLW</span><span class="topo-outside">ATYTYRDYDWPFGTFFC</span></span>
-<span class="topo-line"><span class="topo-membrane">KLSSYLIFVNMYASAFCLT</span><span class="topo-inside">GLSFDRYLAIVRPVANARLRLRVSGAVA</span><span class="topo-membrane">TAVLWVLAALLAM</span></span>
-<span class="topo-line"><span class="topo-membrane">PVMVL</span><span class="topo-outside">RTTGDLENTNKVQCYMDYSMVATVSSEWAWE</span><span class="topo-membrane">VGLGVSSTTVGFVVPFTIML</span><span class="topo-inside">TCYF</span></span>
-<span class="topo-line"><span class="topo-inside">FIAQTIAMKKYTCTVCGYIYNPEDGDPDNGVNPGTDFKDIPDDWVCPLCGVGKDQFEEVE</span></span>
-<span class="topo-line"><span class="topo-inside">ERRRLLSII</span><span class="topo-membrane">VVLVVTFALCKMPYHLVKTL</span><span class="topo-outside">YMLGSLLHWPCDFDLFLMNIFP</span><span class="topo-membrane">YCTCISYVN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MKTIIALSYIFCLVFADYKDDDDKFDNYYGADNQSE</span><span class="topo-outside">CEYTDWKSSGALIP</span><span class="topo-membrane">AIYMLVFLLGTTGNGLVLW</span><span class="topo-inside">TVFRSSREKRRSADIF</span><span class="topo-membrane">IASLAVADLTFVVTLPLW</span><span class="topo-outside">ATYTYRDYDWPFGTFFC</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">KLSSYLIFVNMYASAFCLT</span><span class="topo-inside">GLSFDRYLAIVRPVANARLRLRVSGAVA</span><span class="topo-membrane">TAVLWVLAALLAMPVMVL</span><span class="topo-outside">RTTGDLENTNKVQCYMDYSMVATVSSEWAWE</span><span class="topo-membrane">VGLGVSSTTVGFVVPFTIML</span><span class="topo-inside">TCYF</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">FIAQTIAMKKYTCTVCGYIYNPEDGDPDNGVNPGTDFKDIPDDWVCPLCGVGKDQFEEVEERRRLLSII</span><span class="topo-membrane">VVLVVTFALCKMPYHLVKTL</span><span class="topo-outside">YMLGSLLHWPCDFDLFLMNIFP</span><span class="topo-membrane">YCTCISYVN</span></span>
+<span class="topo-ruler">       370       380       390       400       </span>
 <span class="topo-line"><span class="topo-membrane">SCLNPFLYAF</span><span class="topo-inside">FDPRFRQACTSMLLMGQSR</span><span class="topo-unknown">LEVLFQGPHHHHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -313,6 +318,7 @@ The human apelin receptor (APJR), also known as angiotensin receptor-like 1 (AGT
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

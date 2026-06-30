@@ -165,8 +165,9 @@ The transhydrogenase dII domain from Thermus thermophilus is the transmembrane p
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MEFGFWS</span><span class="topo-membrane">ALYIFVLTCFLGYEL</span><span class="topo-inside">ITRVPVILHTPLMS</span><span class="topo-membrane">GSNFIHGVVVVGAM</span><span class="topo-outside">VVLGHAETGL</span></span>
-<span class="topo-line"><span class="topo-outside">EKLIGF</span><span class="topo-membrane">LGVILGAANAAGGYA</span><span class="topo-inside">VTVRMLEMFERKP</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90    </span>
+<span class="topo-line"><span class="topo-outside">MEFGFWS</span><span class="topo-membrane">ALYIFVLTCFLGYEL</span><span class="topo-inside">ITRVPVILHTPLMS</span><span class="topo-membrane">GSNFIHGVVVVGAM</span><span class="topo-outside">VVLGHAETGLEKLIGF</span><span class="topo-membrane">LGVILGAANAAGGYA</span><span class="topo-inside">VTVRMLEMFERKP</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -227,6 +228,7 @@ The transhydrogenase dII domain from Thermus thermophilus is the transmembrane p
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -242,11 +244,13 @@ The transhydrogenase dII domain from Thermus thermophilus is the transmembrane p
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MDLIQA</span><span class="topo-membrane">AYFVVAILFIVGLK</span><span class="topo-inside">RMAHPTTAKSG</span><span class="topo-membrane">IVWAGWGMVLAVLA</span><span class="topo-outside">TFFWPGMGNFALIL</span><span class="topo-membrane">L</span></span>
-<span class="topo-line"><span class="topo-membrane">ALLLGSVVAWWAA</span><span class="topo-inside">VRVAMTDMPQM</span><span class="topo-membrane">VAIYNGMGGGAAATIA</span><span class="topo-outside">AVELLKGAFENTGLMAL</span><span class="topo-membrane">AIL</span></span>
-<span class="topo-line"><span class="topo-membrane">GGLIGSVAFTGSLIAFA</span><span class="topo-inside">KLQGIMKSRPILFPG</span><span class="topo-membrane">QKAVNALVLALTVVIGL</span><span class="topo-outside">SLLWNDATASI</span></span>
-<span class="topo-line"><span class="topo-outside">VL</span><span class="topo-membrane">FFLLALLFGVLMTL</span><span class="topo-inside">PIGGGDMPVAISF</span><span class="topo-membrane">YNAFTGMAVGFEGF</span><span class="topo-outside">AVGN</span><span class="topo-membrane">PALMVAGTLVGAA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MDLIQA</span><span class="topo-membrane">AYFVVAILFIVGLK</span><span class="topo-inside">RMAHPTTAKSG</span><span class="topo-membrane">IVWAGWGMVLAVLA</span><span class="topo-outside">TFFWPGMGNFALIL</span><span class="topo-membrane">LALLLGSVVAWWAA</span><span class="topo-inside">VRVAMTDMPQM</span><span class="topo-membrane">VAIYNGMGGGAAATIA</span><span class="topo-outside">AVELLKGAFENTGLMAL</span><span class="topo-membrane">AIL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GGLIGSVAFTGSLIAFA</span><span class="topo-inside">KLQGIMKSRPILFPG</span><span class="topo-membrane">QKAVNALVLALTVVIGL</span><span class="topo-outside">SLLWNDATASIVL</span><span class="topo-membrane">FFLLALLFGVLMTL</span><span class="topo-inside">PIGGGDMPVAISF</span><span class="topo-membrane">YNAFTGMAVGFEGF</span><span class="topo-outside">AVGN</span><span class="topo-membrane">PALMVAGTLVGAA</span></span>
+<span class="topo-ruler">       250       260    </span>
 <span class="topo-line"><span class="topo-membrane">GT</span><span class="topo-inside">LLTVLMARAMNRSVWISVL</span><span class="topo-unknown">VGG</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -391,6 +395,7 @@ The transhydrogenase dII domain from Thermus thermophilus is the transmembrane p
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -406,8 +411,9 @@ The transhydrogenase dII domain from Thermus thermophilus is the transmembrane p
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MEFGFWS</span><span class="topo-membrane">ALYIFVLTCFLGYEL</span><span class="topo-inside">ITRVPVILHTPLMS</span><span class="topo-membrane">GSNFIHGVVVVGAM</span><span class="topo-outside">VVLGHAETGL</span></span>
-<span class="topo-line"><span class="topo-outside">EKLIGF</span><span class="topo-membrane">LGVILGAANAAGGYA</span><span class="topo-inside">VTVRMLEMFERKP</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90    </span>
+<span class="topo-line"><span class="topo-outside">MEFGFWS</span><span class="topo-membrane">ALYIFVLTCFLGYEL</span><span class="topo-inside">ITRVPVILHTPLMS</span><span class="topo-membrane">GSNFIHGVVVVGAM</span><span class="topo-outside">VVLGHAETGLEKLIGF</span><span class="topo-membrane">LGVILGAANAAGGYA</span><span class="topo-inside">VTVRMLEMFERKP</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -468,6 +474,7 @@ The transhydrogenase dII domain from Thermus thermophilus is the transmembrane p
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -483,11 +490,13 @@ The transhydrogenase dII domain from Thermus thermophilus is the transmembrane p
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MDLIQA</span><span class="topo-membrane">AYFVVAILFIVGLK</span><span class="topo-inside">RMAHPTTAKSG</span><span class="topo-membrane">IVWAGWGMVLAVLA</span><span class="topo-outside">TFFWPGMGNFALIL</span><span class="topo-membrane">L</span></span>
-<span class="topo-line"><span class="topo-membrane">ALLLGSVVAWWAA</span><span class="topo-inside">VRVAMTDMPQM</span><span class="topo-membrane">VAIYNGMGGGAAATIA</span><span class="topo-outside">AVELLKGAFENTGLMAL</span><span class="topo-membrane">AIL</span></span>
-<span class="topo-line"><span class="topo-membrane">GGLIGSVAFTGSLIAFA</span><span class="topo-inside">KLQGIMKSRPILFPG</span><span class="topo-membrane">QKAVNALVLALTVVIGL</span><span class="topo-outside">SLLWNDATASI</span></span>
-<span class="topo-line"><span class="topo-outside">VL</span><span class="topo-membrane">FFLLALLFGVLMTL</span><span class="topo-inside">PIGGGDMPVAISF</span><span class="topo-membrane">YNAFTGMAVGFEGF</span><span class="topo-outside">AVGN</span><span class="topo-membrane">PALMVAGTLVGAA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MDLIQA</span><span class="topo-membrane">AYFVVAILFIVGLK</span><span class="topo-inside">RMAHPTTAKSG</span><span class="topo-membrane">IVWAGWGMVLAVLA</span><span class="topo-outside">TFFWPGMGNFALIL</span><span class="topo-membrane">LALLLGSVVAWWAA</span><span class="topo-inside">VRVAMTDMPQM</span><span class="topo-membrane">VAIYNGMGGGAAATIA</span><span class="topo-outside">AVELLKGAFENTGLMAL</span><span class="topo-membrane">AIL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GGLIGSVAFTGSLIAFA</span><span class="topo-inside">KLQGIMKSRPILFPG</span><span class="topo-membrane">QKAVNALVLALTVVIGL</span><span class="topo-outside">SLLWNDATASIVL</span><span class="topo-membrane">FFLLALLFGVLMTL</span><span class="topo-inside">PIGGGDMPVAISF</span><span class="topo-membrane">YNAFTGMAVGFEGF</span><span class="topo-outside">AVGN</span><span class="topo-membrane">PALMVAGTLVGAA</span></span>
+<span class="topo-ruler">       250       260    </span>
 <span class="topo-line"><span class="topo-membrane">GT</span><span class="topo-inside">LLTVLMARAMNRSVWISVL</span><span class="topo-unknown">VGG</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -632,6 +641,7 @@ The transhydrogenase dII domain from Thermus thermophilus is the transmembrane p
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -701,8 +711,9 @@ The transhydrogenase dII domain from Thermus thermophilus is the transmembrane p
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">M</span><span class="topo-membrane">EFGFWSALYIFVLTCFLGY</span><span class="topo-inside">ELITRVPVILHTPLMSGS</span><span class="topo-membrane">NFIHGVVVVGAMVVL</span><span class="topo-outside">GHAETGL</span></span>
-<span class="topo-line"><span class="topo-outside">EKL</span><span class="topo-membrane">IGFLGVILGAANAAGGY</span><span class="topo-inside">AVTVRMLEMFERKP</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90    </span>
+<span class="topo-line"><span class="topo-outside">M</span><span class="topo-membrane">EFGFWSALYIFVLTCFLGY</span><span class="topo-inside">ELITRVPVILHTPLMSGS</span><span class="topo-membrane">NFIHGVVVVGAMVVL</span><span class="topo-outside">GHAETGLEKL</span><span class="topo-membrane">IGFLGVILGAANAAGGY</span><span class="topo-inside">AVTVRMLEMFERKP</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -763,6 +774,7 @@ The transhydrogenase dII domain from Thermus thermophilus is the transmembrane p
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -778,11 +790,13 @@ The transhydrogenase dII domain from Thermus thermophilus is the transmembrane p
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MD</span><span class="topo-membrane">LIQAAYFVVAILFIVGL</span><span class="topo-inside">KRMAHPTTAKSGIV</span><span class="topo-membrane">WAGWGMVLAVLATFF</span><span class="topo-outside">WPGMGNF</span><span class="topo-membrane">ALILL</span></span>
-<span class="topo-line"><span class="topo-membrane">ALLLGSVVAWW</span><span class="topo-inside">AAVRVAMTDMPQMVAI</span><span class="topo-membrane">YNGMGGGAAATIAAV</span><span class="topo-outside">ELLKGAFENTGLMA</span><span class="topo-membrane">LAIL</span></span>
-<span class="topo-line"><span class="topo-membrane">GGLIGSVAFTGSLI</span><span class="topo-inside">AFAKLQGIMKSRPILFPG</span><span class="topo-membrane">QKAVNALVLALTVVIGL</span><span class="topo-outside">SLLWNDATASI</span></span>
-<span class="topo-line"><span class="topo-membrane">VLFFLLALLFGVLMT</span><span class="topo-inside">LPIGGGDMPVAISF</span><span class="topo-membrane">YNAFTGMAVGFEGFAVG</span><span class="topo-outside">N</span><span class="topo-membrane">PALMVAGTLVGAA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MD</span><span class="topo-membrane">LIQAAYFVVAILFIVGL</span><span class="topo-inside">KRMAHPTTAKSGIV</span><span class="topo-membrane">WAGWGMVLAVLATFF</span><span class="topo-outside">WPGMGNF</span><span class="topo-membrane">ALILLALLLGSVVAWW</span><span class="topo-inside">AAVRVAMTDMPQMVAI</span><span class="topo-membrane">YNGMGGGAAATIAAV</span><span class="topo-outside">ELLKGAFENTGLMA</span><span class="topo-membrane">LAIL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GGLIGSVAFTGSLI</span><span class="topo-inside">AFAKLQGIMKSRPILFPG</span><span class="topo-membrane">QKAVNALVLALTVVIGL</span><span class="topo-outside">SLLWNDATASI</span><span class="topo-membrane">VLFFLLALLFGVLMT</span><span class="topo-inside">LPIGGGDMPVAISF</span><span class="topo-membrane">YNAFTGMAVGFEGFAVG</span><span class="topo-outside">N</span><span class="topo-membrane">PALMVAGTLVGAA</span></span>
+<span class="topo-ruler">       250       260       270</span>
 <span class="topo-line"><span class="topo-membrane">GT</span><span class="topo-inside">LLTVLMARAMNRSVWISVLVGG</span><span class="topo-unknown">HHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -927,6 +941,7 @@ The transhydrogenase dII domain from Thermus thermophilus is the transmembrane p
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -942,8 +957,9 @@ The transhydrogenase dII domain from Thermus thermophilus is the transmembrane p
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MEFGF</span><span class="topo-membrane">WSALYIFVLTCFLGY</span><span class="topo-inside">ELITRVPVILHTPLMSGS</span><span class="topo-membrane">NFIHGVVVVGAMVVL</span><span class="topo-outside">GHAETGL</span></span>
-<span class="topo-line"><span class="topo-outside">EKL</span><span class="topo-membrane">IGFLGVILGAANAAGGY</span><span class="topo-inside">AVTVRMLEMF</span><span class="topo-unknown">ERKP</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90    </span>
+<span class="topo-line"><span class="topo-outside">MEFGF</span><span class="topo-membrane">WSALYIFVLTCFLGY</span><span class="topo-inside">ELITRVPVILHTPLMSGS</span><span class="topo-membrane">NFIHGVVVVGAMVVL</span><span class="topo-outside">GHAETGLEKL</span><span class="topo-membrane">IGFLGVILGAANAAGGY</span><span class="topo-inside">AVTVRMLEMF</span><span class="topo-unknown">ERKP</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1004,6 +1020,7 @@ The transhydrogenase dII domain from Thermus thermophilus is the transmembrane p
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1019,11 +1036,13 @@ The transhydrogenase dII domain from Thermus thermophilus is the transmembrane p
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MDL</span><span class="topo-membrane">IQAAYFVVAILFIVGL</span><span class="topo-inside">KRMAHPTTAKSGIV</span><span class="topo-membrane">WAGWGMVLAVLATFF</span><span class="topo-outside">WPGMGNFA</span><span class="topo-membrane">LILL</span></span>
-<span class="topo-line"><span class="topo-membrane">ALLLGSVVAWWA</span><span class="topo-inside">AVRVAMTDMPQMVA</span><span class="topo-membrane">IYNGMGGGAAATIAA</span><span class="topo-outside">VELLKGAFENTGLMA</span><span class="topo-membrane">LAIL</span></span>
-<span class="topo-line"><span class="topo-membrane">GGLIGSVAFTGSLI</span><span class="topo-inside">AFAKLQGIMKSRPILFPG</span><span class="topo-membrane">QKAVNALVLALTVVIGL</span><span class="topo-outside">SLLWNDATASI</span></span>
-<span class="topo-line"><span class="topo-membrane">VLFFLLALLFGVLMT</span><span class="topo-inside">LPIGGGDMPVAISF</span><span class="topo-membrane">YNAFTGMAVGFEGFAVG</span><span class="topo-outside">N</span><span class="topo-membrane">PALMVAGTLVGAA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MDL</span><span class="topo-membrane">IQAAYFVVAILFIVGL</span><span class="topo-inside">KRMAHPTTAKSGIV</span><span class="topo-membrane">WAGWGMVLAVLATFF</span><span class="topo-outside">WPGMGNFA</span><span class="topo-membrane">LILLALLLGSVVAWWA</span><span class="topo-inside">AVRVAMTDMPQMVA</span><span class="topo-membrane">IYNGMGGGAAATIAA</span><span class="topo-outside">VELLKGAFENTGLMA</span><span class="topo-membrane">LAIL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GGLIGSVAFTGSLI</span><span class="topo-inside">AFAKLQGIMKSRPILFPG</span><span class="topo-membrane">QKAVNALVLALTVVIGL</span><span class="topo-outside">SLLWNDATASI</span><span class="topo-membrane">VLFFLLALLFGVLMT</span><span class="topo-inside">LPIGGGDMPVAISF</span><span class="topo-membrane">YNAFTGMAVGFEGFAVG</span><span class="topo-outside">N</span><span class="topo-membrane">PALMVAGTLVGAA</span></span>
+<span class="topo-ruler">       250       260       270</span>
 <span class="topo-line"><span class="topo-membrane">GT</span><span class="topo-inside">LLTVLMARAMNRSVWISV</span><span class="topo-unknown">LVGGHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1168,6 +1187,7 @@ The transhydrogenase dII domain from Thermus thermophilus is the transmembrane p
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1183,8 +1203,9 @@ The transhydrogenase dII domain from Thermus thermophilus is the transmembrane p
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MEFGF</span><span class="topo-membrane">WSALYIFVLTAFLGYEL</span><span class="topo-inside">ITRVPVILHTPLMSG</span><span class="topo-membrane">SNFIHGVVVVGAM</span><span class="topo-outside">VVLGHAETGL</span></span>
-<span class="topo-line"><span class="topo-outside">EKLI</span><span class="topo-membrane">GFLGVILGAANAAGGYA</span><span class="topo-inside">VTVRMLEM</span><span class="topo-unknown">FERKPGQGGGR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100</span>
+<span class="topo-line"><span class="topo-outside">MEFGF</span><span class="topo-membrane">WSALYIFVLTAFLGYEL</span><span class="topo-inside">ITRVPVILHTPLMSG</span><span class="topo-membrane">SNFIHGVVVVGAM</span><span class="topo-outside">VVLGHAETGLEKLI</span><span class="topo-membrane">GFLGVILGAANAAGGYA</span><span class="topo-inside">VTVRMLEM</span><span class="topo-unknown">FERKPGQGGGR</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1252,6 +1273,7 @@ The transhydrogenase dII domain from Thermus thermophilus is the transmembrane p
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1267,11 +1289,13 @@ The transhydrogenase dII domain from Thermus thermophilus is the transmembrane p
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MDL</span><span class="topo-membrane">IQAAYFVVAILFIVGLK</span><span class="topo-inside">RMAHPTTAKSGI</span><span class="topo-membrane">VWAGWGMVLAVLATF</span><span class="topo-outside">FWPGMGNFAL</span><span class="topo-membrane">ILL</span></span>
-<span class="topo-line"><span class="topo-membrane">ALLLGSVVAWWAA</span><span class="topo-inside">VRVAMTDMPQM</span><span class="topo-membrane">VAIYNGMGGGAAATIAA</span><span class="topo-outside">VELLKGAFENTGLMA</span><span class="topo-membrane">LAIL</span></span>
-<span class="topo-line"><span class="topo-membrane">GGLIGSVAFTGSLIAFA</span><span class="topo-inside">KLQGIMKSRPILFPG</span><span class="topo-membrane">QKAVNALVLALTVVIGL</span><span class="topo-outside">SLLWNDATASI</span></span>
-<span class="topo-line"><span class="topo-outside">V</span><span class="topo-membrane">LFFLLALLFGVLMTL</span><span class="topo-inside">PIGGGDMPVAI</span><span class="topo-membrane">SFYNAFTGMAVGFEGFA</span><span class="topo-outside">VG</span><span class="topo-membrane">NPALMVAGTLVGAA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MDL</span><span class="topo-membrane">IQAAYFVVAILFIVGLK</span><span class="topo-inside">RMAHPTTAKSGI</span><span class="topo-membrane">VWAGWGMVLAVLATF</span><span class="topo-outside">FWPGMGNFAL</span><span class="topo-membrane">ILLALLLGSVVAWWAA</span><span class="topo-inside">VRVAMTDMPQM</span><span class="topo-membrane">VAIYNGMGGGAAATIAA</span><span class="topo-outside">VELLKGAFENTGLMA</span><span class="topo-membrane">LAIL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GGLIGSVAFTGSLIAFA</span><span class="topo-inside">KLQGIMKSRPILFPG</span><span class="topo-membrane">QKAVNALVLALTVVIGL</span><span class="topo-outside">SLLWNDATASIV</span><span class="topo-membrane">LFFLLALLFGVLMTL</span><span class="topo-inside">PIGGGDMPVAI</span><span class="topo-membrane">SFYNAFTGMAVGFEGFA</span><span class="topo-outside">VG</span><span class="topo-membrane">NPALMVAGTLVGAA</span></span>
+<span class="topo-ruler">       250       260       270       280   </span>
 <span class="topo-line"><span class="topo-membrane">GT</span><span class="topo-inside">LLTVLMARAMNRSVWSVL</span><span class="topo-unknown">VGGFGVEQEAGEVKGHHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (20 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1423,6 +1447,7 @@ The transhydrogenase dII domain from Thermus thermophilus is the transmembrane p
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1438,8 +1463,9 @@ The transhydrogenase dII domain from Thermus thermophilus is the transmembrane p
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MEFGF</span><span class="topo-membrane">WSALYIFVLTAFLGYEL</span><span class="topo-inside">ITRVPVILHTPLMSG</span><span class="topo-membrane">SNFIHGVVVVGAMV</span><span class="topo-outside">VLGHAETGL</span></span>
-<span class="topo-line"><span class="topo-outside">EKL</span><span class="topo-membrane">IGFLGVILGAANAAGGYA</span><span class="topo-inside">VTVRMLEMFERKP</span><span class="topo-unknown">GQGGGR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100</span>
+<span class="topo-line"><span class="topo-outside">MEFGF</span><span class="topo-membrane">WSALYIFVLTAFLGYEL</span><span class="topo-inside">ITRVPVILHTPLMSG</span><span class="topo-membrane">SNFIHGVVVVGAMV</span><span class="topo-outside">VLGHAETGLEKL</span><span class="topo-membrane">IGFLGVILGAANAAGGYA</span><span class="topo-inside">VTVRMLEMFERKP</span><span class="topo-unknown">GQGGGR</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1507,6 +1533,7 @@ The transhydrogenase dII domain from Thermus thermophilus is the transmembrane p
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1522,11 +1549,13 @@ The transhydrogenase dII domain from Thermus thermophilus is the transmembrane p
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MDL</span><span class="topo-membrane">IQAAYFVVAILFIVGLK</span><span class="topo-inside">RMAHPTTAKSGI</span><span class="topo-membrane">VWAGWGMVLAVLATF</span><span class="topo-outside">FWPGMGNFAL</span><span class="topo-membrane">ILL</span></span>
-<span class="topo-line"><span class="topo-membrane">ALLLGSVVAWWAA</span><span class="topo-inside">VRVAMTDMPQMV</span><span class="topo-membrane">AIYNGMGGGAAATIAA</span><span class="topo-outside">VELLKGAFENTGLMA</span><span class="topo-membrane">LAIL</span></span>
-<span class="topo-line"><span class="topo-membrane">GGLIGSVAFTGSLIAFA</span><span class="topo-inside">KLQGIMKSRPILF</span><span class="topo-membrane">PGQKAVNALVLALTVVIGL</span><span class="topo-outside">SLLWNDATASI</span></span>
-<span class="topo-line"><span class="topo-outside">V</span><span class="topo-membrane">LFFLLALLFGVLMTL</span><span class="topo-inside">PIGGGDMPVAISF</span><span class="topo-membrane">YNAFTGMAVGFEGFA</span><span class="topo-outside">VGN</span><span class="topo-membrane">PALMVAGTLVGAA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MDL</span><span class="topo-membrane">IQAAYFVVAILFIVGLK</span><span class="topo-inside">RMAHPTTAKSGI</span><span class="topo-membrane">VWAGWGMVLAVLATF</span><span class="topo-outside">FWPGMGNFAL</span><span class="topo-membrane">ILLALLLGSVVAWWAA</span><span class="topo-inside">VRVAMTDMPQMV</span><span class="topo-membrane">AIYNGMGGGAAATIAA</span><span class="topo-outside">VELLKGAFENTGLMA</span><span class="topo-membrane">LAIL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GGLIGSVAFTGSLIAFA</span><span class="topo-inside">KLQGIMKSRPILF</span><span class="topo-membrane">PGQKAVNALVLALTVVIGL</span><span class="topo-outside">SLLWNDATASIV</span><span class="topo-membrane">LFFLLALLFGVLMTL</span><span class="topo-inside">PIGGGDMPVAISF</span><span class="topo-membrane">YNAFTGMAVGFEGFA</span><span class="topo-outside">VGN</span><span class="topo-membrane">PALMVAGTLVGAA</span></span>
+<span class="topo-ruler">       250       260       270       280   </span>
 <span class="topo-line"><span class="topo-membrane">GT</span><span class="topo-inside">LLTVLMARAMNRSVWSVLVGGF</span><span class="topo-unknown">GVEQEAGEVKGHHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (20 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1678,6 +1707,7 @@ The transhydrogenase dII domain from Thermus thermophilus is the transmembrane p
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1693,8 +1723,9 @@ The transhydrogenase dII domain from Thermus thermophilus is the transmembrane p
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">M</span><span class="topo-membrane">EFGFWSALYIFVLTAFLGY</span><span class="topo-inside">ELITRVPVILHTPLMSGS</span><span class="topo-membrane">NFIHGVVVVGAMVVL</span><span class="topo-outside">GHAETGL</span></span>
-<span class="topo-line"><span class="topo-outside">EKL</span><span class="topo-membrane">IGFLGVILGAANAAGGY</span><span class="topo-inside">AVTVRMLEMFERKP</span><span class="topo-unknown">GQGGGR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100</span>
+<span class="topo-line"><span class="topo-outside">M</span><span class="topo-membrane">EFGFWSALYIFVLTAFLGY</span><span class="topo-inside">ELITRVPVILHTPLMSGS</span><span class="topo-membrane">NFIHGVVVVGAMVVL</span><span class="topo-outside">GHAETGLEKL</span><span class="topo-membrane">IGFLGVILGAANAAGGY</span><span class="topo-inside">AVTVRMLEMFERKP</span><span class="topo-unknown">GQGGGR</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1755,6 +1786,7 @@ The transhydrogenase dII domain from Thermus thermophilus is the transmembrane p
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1770,14 +1802,15 @@ The transhydrogenase dII domain from Thermus thermophilus is the transmembrane p
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MDL</span><span class="topo-membrane">IQAAYFVVAILFIVG</span><span class="topo-inside">LKRMAHPTTAKSGIVW</span><span class="topo-membrane">AGWGMVLAVLATFF</span><span class="topo-outside">WPGMGNFA</span><span class="topo-membrane">LILL</span></span>
-<span class="topo-line"><span class="topo-membrane">ALLLGSVVAWWA</span><span class="topo-inside">AVRVAMTDMPQMVA</span><span class="topo-membrane">IYNGMGGGAAATIAA</span><span class="topo-outside">VELLKGAFENTGLMA</span><span class="topo-membrane">LAIL</span></span>
-<span class="topo-line"><span class="topo-membrane">GGLIGSVAFTGSLI</span><span class="topo-inside">AFAKLQGIMKSRPILFPG</span><span class="topo-membrane">QKAVNALVLALTVVIGL</span><span class="topo-outside">SLLWNDATASI</span></span>
-<span class="topo-line"><span class="topo-membrane">VLFFLLALLFGVLMT</span><span class="topo-inside">LPIGGGDMPVAISF</span><span class="topo-membrane">YNAFTGMAVGFEGFAVG</span><span class="topo-outside">N</span><span class="topo-membrane">PALMVAGTLVGAA</span></span>
-<span class="topo-line"><span class="topo-membrane">GT</span><span class="topo-inside">LLTVLMARAMNRSVWSVLVGG</span><span class="topo-unknown">FGVEQEAGEV</span><span class="topo-inside">KGSLKPIDVEDAAVMLAYAGKVVFVPG</span></span>
-<span class="topo-line"><span class="topo-inside">YGMALSQAQHKLKELADLLEARGVEVKFAIHPVAGRMPGHMNVLLAEAGVDYDKLKDLEE</span></span>
-<span class="topo-line"><span class="topo-inside">INPEFPTVDVAVVIGANDVVNPAARRPGSPLYGMPILDVDKAKNVIVIKRGQGKGFAGVE</span></span>
-<span class="topo-line"><span class="topo-inside">NELFYAENTRMLYGDAQKVLTELIQALKRL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MDL</span><span class="topo-membrane">IQAAYFVVAILFIVG</span><span class="topo-inside">LKRMAHPTTAKSGIVW</span><span class="topo-membrane">AGWGMVLAVLATFF</span><span class="topo-outside">WPGMGNFA</span><span class="topo-membrane">LILLALLLGSVVAWWA</span><span class="topo-inside">AVRVAMTDMPQMVA</span><span class="topo-membrane">IYNGMGGGAAATIAA</span><span class="topo-outside">VELLKGAFENTGLMA</span><span class="topo-membrane">LAIL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GGLIGSVAFTGSLI</span><span class="topo-inside">AFAKLQGIMKSRPILFPG</span><span class="topo-membrane">QKAVNALVLALTVVIGL</span><span class="topo-outside">SLLWNDATASI</span><span class="topo-membrane">VLFFLLALLFGVLMT</span><span class="topo-inside">LPIGGGDMPVAISF</span><span class="topo-membrane">YNAFTGMAVGFEGFAVG</span><span class="topo-outside">N</span><span class="topo-membrane">PALMVAGTLVGAA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">GT</span><span class="topo-inside">LLTVLMARAMNRSVWSVLVGG</span><span class="topo-unknown">FGVEQEAGEV</span><span class="topo-inside">KGSLKPIDVEDAAVMLAYAGKVVFVPGYGMALSQAQHKLKELADLLEARGVEVKFAIHPVAGRMPGHMNVLLAEAGVDYDKLKDLEE</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450</span>
+<span class="topo-line"><span class="topo-inside">INPEFPTVDVAVVIGANDVVNPAARRPGSPLYGMPILDVDKAKNVIVIKRGQGKGFAGVENELFYAENTRMLYGDAQKVLTELIQALKRL</span></span>
+<details class="topo-details"><summary>Topology coordinates (20 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1929,6 +1962,7 @@ The transhydrogenase dII domain from Thermus thermophilus is the transmembrane p
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1944,8 +1978,9 @@ The transhydrogenase dII domain from Thermus thermophilus is the transmembrane p
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MEFGF</span><span class="topo-membrane">WSALYIFVLTAFLGY</span><span class="topo-inside">ELITRVPVILHTPLMSGS</span><span class="topo-membrane">NFIHGVVVVGAMV</span><span class="topo-outside">VLGHAETGL</span></span>
-<span class="topo-line"><span class="topo-outside">EKL</span><span class="topo-membrane">IGFLGVILGAANAAGGY</span><span class="topo-inside">AVTVRMLEMF</span><span class="topo-unknown">ERKPGQGGGR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100</span>
+<span class="topo-line"><span class="topo-outside">MEFGF</span><span class="topo-membrane">WSALYIFVLTAFLGY</span><span class="topo-inside">ELITRVPVILHTPLMSGS</span><span class="topo-membrane">NFIHGVVVVGAMV</span><span class="topo-outside">VLGHAETGLEKL</span><span class="topo-membrane">IGFLGVILGAANAAGGY</span><span class="topo-inside">AVTVRMLEMF</span><span class="topo-unknown">ERKPGQGGGR</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2006,6 +2041,7 @@ The transhydrogenase dII domain from Thermus thermophilus is the transmembrane p
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2021,14 +2057,15 @@ The transhydrogenase dII domain from Thermus thermophilus is the transmembrane p
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MDL</span><span class="topo-membrane">IQAAYFVVAILFIVGL</span><span class="topo-inside">KRMAHPTTAKSGIVW</span><span class="topo-membrane">AGWGMVLAVLATF</span><span class="topo-outside">FWPGMGNFAL</span><span class="topo-membrane">ILL</span></span>
-<span class="topo-line"><span class="topo-membrane">ALLLGSVVAWWA</span><span class="topo-inside">AVRVAMTDMPQMVA</span><span class="topo-membrane">IYNGMGGGAAATIAA</span><span class="topo-outside">VELLKGAFENTGLMA</span><span class="topo-membrane">LAIL</span></span>
-<span class="topo-line"><span class="topo-membrane">GGLIGSVAFTGSLI</span><span class="topo-inside">AFAKLQGIMKSRPILFP</span><span class="topo-membrane">GQKAVNALVLALTVVIGL</span><span class="topo-outside">SLLWNDATASI</span></span>
-<span class="topo-line"><span class="topo-outside">V</span><span class="topo-membrane">LFFLLALLFGVLMTL</span><span class="topo-inside">PIGGGDMPVAISF</span><span class="topo-membrane">YNAFTGMAVGFEGFAVG</span><span class="topo-outside">N</span><span class="topo-membrane">PALMVAGTLVGAA</span></span>
-<span class="topo-line"><span class="topo-membrane">GT</span><span class="topo-inside">LLTVLMARAMNRSVWSVL</span><span class="topo-unknown">VGGFGVEQEAGEV</span><span class="topo-inside">KGSLKPIDVEDAAVMLAYAGKVVFVPG</span></span>
-<span class="topo-line"><span class="topo-inside">YGMALSQAQHKLKELADLLEARGVEVKFAIHPVAGRMPGHMNVLLAEAGVDYDKLKDLEE</span></span>
-<span class="topo-line"><span class="topo-inside">INPEFPTVDVAVVIGANDVVNPAARRPGSPLYGMPILDVDKAKNVIVIKRGQGKGFAGVE</span></span>
-<span class="topo-line"><span class="topo-inside">NELFYAENTRMLYGDAQKVLTELIQALKRL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MDL</span><span class="topo-membrane">IQAAYFVVAILFIVGL</span><span class="topo-inside">KRMAHPTTAKSGIVW</span><span class="topo-membrane">AGWGMVLAVLATF</span><span class="topo-outside">FWPGMGNFAL</span><span class="topo-membrane">ILLALLLGSVVAWWA</span><span class="topo-inside">AVRVAMTDMPQMVA</span><span class="topo-membrane">IYNGMGGGAAATIAA</span><span class="topo-outside">VELLKGAFENTGLMA</span><span class="topo-membrane">LAIL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GGLIGSVAFTGSLI</span><span class="topo-inside">AFAKLQGIMKSRPILFP</span><span class="topo-membrane">GQKAVNALVLALTVVIGL</span><span class="topo-outside">SLLWNDATASIV</span><span class="topo-membrane">LFFLLALLFGVLMTL</span><span class="topo-inside">PIGGGDMPVAISF</span><span class="topo-membrane">YNAFTGMAVGFEGFAVG</span><span class="topo-outside">N</span><span class="topo-membrane">PALMVAGTLVGAA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">GT</span><span class="topo-inside">LLTVLMARAMNRSVWSVL</span><span class="topo-unknown">VGGFGVEQEAGEV</span><span class="topo-inside">KGSLKPIDVEDAAVMLAYAGKVVFVPGYGMALSQAQHKLKELADLLEARGVEVKFAIHPVAGRMPGHMNVLLAEAGVDYDKLKDLEE</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450</span>
+<span class="topo-line"><span class="topo-inside">INPEFPTVDVAVVIGANDVVNPAARRPGSPLYGMPILDVDKAKNVIVIKRGQGKGFAGVENELFYAENTRMLYGDAQKVLTELIQALKRL</span></span>
+<details class="topo-details"><summary>Topology coordinates (20 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2180,6 +2217,7 @@ The transhydrogenase dII domain from Thermus thermophilus is the transmembrane p
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2195,13 +2233,15 @@ The transhydrogenase dII domain from Thermus thermophilus is the transmembrane p
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MHHHHHHHH</span><span class="topo-inside">MVTVAVPKERAPGERRVALVPEVVARLVKGGARVRVERGAGEGAYHPDEAY</span></span>
-<span class="topo-line"><span class="topo-inside">QEAGAEVVERGELLKGAHLLFTVQPPPEDLIQALEPGAIVVGFVQPHKNLELVRALQAKK</span></span>
-<span class="topo-line"><span class="topo-inside">ATVIAMELIPRITRAQSMDALSSQATVAGYLAAIHAARLSPRFFPMLTTAAGTIRPAKVM</span></span>
-<span class="topo-line"><span class="topo-inside">VMGVGVAGLMAIATAKRLGAQVFAYDVRKAALEQALSLGAKPIELPISAEGEGGYARELT</span></span>
-<span class="topo-line"><span class="topo-inside">EEEKRIQHEALRDHVAGMDVLITTAQVPGRRAPILLTEDMVERLKPGTVVVDLAAESGGN</span></span>
-<span class="topo-line"><span class="topo-inside">CVLTKPGEVVEVRGVRVYGPLNLPSELSVHASEMYAKNLYNLSSLLIEKGAFAPKWEDEI</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MHHHHHHHH</span><span class="topo-inside">MVTVAVPKERAPGERRVALVPEVVARLVKGGARVRVERGAGEGAYHPDEAYQEAGAEVVERGELLKGAHLLFTVQPPPEDLIQALEPGAIVVGFVQPHKNLELVRALQAKK</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">ATVIAMELIPRITRAQSMDALSSQATVAGYLAAIHAARLSPRFFPMLTTAAGTIRPAKVMVMGVGVAGLMAIATAKRLGAQVFAYDVRKAALEQALSLGAKPIELPISAEGEGGYARELT</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">EEEKRIQHEALRDHVAGMDVLITTAQVPGRRAPILLTEDMVERLKPGTVVVDLAAESGGNCVLTKPGEVVEVRGVRVYGPLNLPSELSVHASEMYAKNLYNLSSLLIEKGAFAPKWEDEI</span></span>
+<span class="topo-ruler">       370       380    </span>
 <span class="topo-line"><span class="topo-inside">VRAALLMKEGEVLHGPTKALL</span><span class="topo-unknown">GGA</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2220,6 +2260,7 @@ The transhydrogenase dII domain from Thermus thermophilus is the transmembrane p
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2235,13 +2276,15 @@ The transhydrogenase dII domain from Thermus thermophilus is the transmembrane p
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MHHHHHHHH</span><span class="topo-inside">MVTVAVPKERAPGERRVALVPEVVARLVKGGARVRVERGAGEGAYHPDEAY</span></span>
-<span class="topo-line"><span class="topo-inside">QEAGAEVVERGELLKGAHLLFTVQPPPEDLIQALEPGAIVVGFVQPHKNLELVRALQAKK</span></span>
-<span class="topo-line"><span class="topo-inside">ATVIAMELIPRITRAQSMDALSSQATVAGYLAAIHAARLSPRFFPMLTTAAGTIRPAKVM</span></span>
-<span class="topo-line"><span class="topo-inside">VMGVGVAGLMAIATAKRLGAQVFAYDVRKAALEQALSLGAKPIELPISAEG</span><span class="topo-unknown">EGGY</span><span class="topo-inside">ARELT</span></span>
-<span class="topo-line"><span class="topo-inside">EEEKRIQHEALRDHVAGMDVLITTAQVPGRRAPILLTEDMVERLKPGTVVVDLAAESGGN</span></span>
-<span class="topo-line"><span class="topo-inside">CVLTKPGEVVEVRGVRVYGPLNLPSELSVHASEMYAKNLYNLSSLLIEKGAFAPKWEDEI</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MHHHHHHHH</span><span class="topo-inside">MVTVAVPKERAPGERRVALVPEVVARLVKGGARVRVERGAGEGAYHPDEAYQEAGAEVVERGELLKGAHLLFTVQPPPEDLIQALEPGAIVVGFVQPHKNLELVRALQAKK</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">ATVIAMELIPRITRAQSMDALSSQATVAGYLAAIHAARLSPRFFPMLTTAAGTIRPAKVMVMGVGVAGLMAIATAKRLGAQVFAYDVRKAALEQALSLGAKPIELPISAEG</span><span class="topo-unknown">EGGY</span><span class="topo-inside">ARELT</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">EEEKRIQHEALRDHVAGMDVLITTAQVPGRRAPILLTEDMVERLKPGTVVVDLAAESGGNCVLTKPGEVVEVRGVRVYGPLNLPSELSVHASEMYAKNLYNLSSLLIEKGAFAPKWEDEI</span></span>
+<span class="topo-ruler">       370       380    </span>
 <span class="topo-line"><span class="topo-inside">VRAALLMKEGEVLHGPTKALLG</span><span class="topo-unknown">GA</span></span>
+<details class="topo-details"><summary>Topology coordinates (2 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2267,6 +2310,7 @@ The transhydrogenase dII domain from Thermus thermophilus is the transmembrane p
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2282,8 +2326,9 @@ The transhydrogenase dII domain from Thermus thermophilus is the transmembrane p
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MEFGFW</span><span class="topo-membrane">SALYIFVLTAFLGYEL</span><span class="topo-inside">ITRVPVILHTPLMSG</span><span class="topo-membrane">SNFIHGVVVVGAM</span><span class="topo-outside">VVLGHAETGL</span></span>
-<span class="topo-line"><span class="topo-outside">EKLIGF</span><span class="topo-membrane">LGVILGAANAAGGYA</span><span class="topo-inside">VTVRMLEMFERKP</span><span class="topo-unknown">GQGGGR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100</span>
+<span class="topo-line"><span class="topo-outside">MEFGFW</span><span class="topo-membrane">SALYIFVLTAFLGYEL</span><span class="topo-inside">ITRVPVILHTPLMSG</span><span class="topo-membrane">SNFIHGVVVVGAM</span><span class="topo-outside">VVLGHAETGLEKLIGF</span><span class="topo-membrane">LGVILGAANAAGGYA</span><span class="topo-inside">VTVRMLEMFERKP</span><span class="topo-unknown">GQGGGR</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2351,6 +2396,7 @@ The transhydrogenase dII domain from Thermus thermophilus is the transmembrane p
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2366,11 +2412,13 @@ The transhydrogenase dII domain from Thermus thermophilus is the transmembrane p
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MDLIQ</span><span class="topo-membrane">AAYFVVAILFIVGLK</span><span class="topo-inside">RMAHPTTAKSGI</span><span class="topo-membrane">VWAGWGMVLAVLAT</span><span class="topo-outside">FFWPGMGNFALI</span><span class="topo-membrane">LL</span></span>
-<span class="topo-line"><span class="topo-membrane">ALLLGSVVAWWAA</span><span class="topo-inside">VRVAMTDMPQM</span><span class="topo-membrane">VAIYNGMGGGAAATIA</span><span class="topo-outside">AVELLKGAFENTGLMAL</span><span class="topo-membrane">AIL</span></span>
-<span class="topo-line"><span class="topo-membrane">GGLIGSVAFTGSLIAFA</span><span class="topo-inside">KLQGIMKSRPILF</span><span class="topo-membrane">PGQKAVNALVLALTVV</span><span class="topo-outside">IGLSLLWNDATASI</span></span>
-<span class="topo-line"><span class="topo-outside">VLF</span><span class="topo-membrane">FLLALLFGVLMTL</span><span class="topo-inside">PIGGGDMPVAI</span><span class="topo-membrane">SFYNAFTGMAVGFEGF</span><span class="topo-outside">AVGN</span><span class="topo-membrane">PALMVAGTLVGAA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MDLIQ</span><span class="topo-membrane">AAYFVVAILFIVGLK</span><span class="topo-inside">RMAHPTTAKSGI</span><span class="topo-membrane">VWAGWGMVLAVLAT</span><span class="topo-outside">FFWPGMGNFALI</span><span class="topo-membrane">LLALLLGSVVAWWAA</span><span class="topo-inside">VRVAMTDMPQM</span><span class="topo-membrane">VAIYNGMGGGAAATIA</span><span class="topo-outside">AVELLKGAFENTGLMAL</span><span class="topo-membrane">AIL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GGLIGSVAFTGSLIAFA</span><span class="topo-inside">KLQGIMKSRPILF</span><span class="topo-membrane">PGQKAVNALVLALTVV</span><span class="topo-outside">IGLSLLWNDATASIVLF</span><span class="topo-membrane">FLLALLFGVLMTL</span><span class="topo-inside">PIGGGDMPVAI</span><span class="topo-membrane">SFYNAFTGMAVGFEGF</span><span class="topo-outside">AVGN</span><span class="topo-membrane">PALMVAGTLVGAA</span></span>
+<span class="topo-ruler">       250       260       270       280   </span>
 <span class="topo-line"><span class="topo-membrane">GT</span><span class="topo-inside">LLTVLMARAMNRSVWSVLVG</span><span class="topo-unknown">GFGVEQEAGEVKGHHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (20 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2522,6 +2570,7 @@ The transhydrogenase dII domain from Thermus thermophilus is the transmembrane p
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2537,8 +2586,9 @@ The transhydrogenase dII domain from Thermus thermophilus is the transmembrane p
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MEFGFW</span><span class="topo-membrane">SALYIFVLTAFLGYEL</span><span class="topo-inside">ITRVPVILHTPLMS</span><span class="topo-membrane">GSNFIHGVVVVGAM</span><span class="topo-outside">VVLGHAETGL</span></span>
-<span class="topo-line"><span class="topo-outside">EKLIGF</span><span class="topo-membrane">LGVILGAANAAGGYA</span><span class="topo-inside">VTVRMLEM</span><span class="topo-unknown">FERKPGQGGGR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100</span>
+<span class="topo-line"><span class="topo-outside">MEFGFW</span><span class="topo-membrane">SALYIFVLTAFLGYEL</span><span class="topo-inside">ITRVPVILHTPLMS</span><span class="topo-membrane">GSNFIHGVVVVGAM</span><span class="topo-outside">VVLGHAETGLEKLIGF</span><span class="topo-membrane">LGVILGAANAAGGYA</span><span class="topo-inside">VTVRMLEM</span><span class="topo-unknown">FERKPGQGGGR</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2606,6 +2656,7 @@ The transhydrogenase dII domain from Thermus thermophilus is the transmembrane p
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2621,11 +2672,13 @@ The transhydrogenase dII domain from Thermus thermophilus is the transmembrane p
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MDLIQ</span><span class="topo-membrane">AAYFVVAILFIVGLK</span><span class="topo-inside">RMAHPTTAKSGI</span><span class="topo-membrane">VWAGWGMVLAVLAT</span><span class="topo-outside">FFWPGMGNFALI</span><span class="topo-membrane">LL</span></span>
-<span class="topo-line"><span class="topo-membrane">ALLLGSVVAWWAA</span><span class="topo-inside">VRVAMTDMPQM</span><span class="topo-membrane">VAIYNGMGGGAAATIA</span><span class="topo-outside">AVELLKGAFENTGLMAL</span><span class="topo-membrane">AIL</span></span>
-<span class="topo-line"><span class="topo-membrane">GGLIGSVAFTGSLIAFA</span><span class="topo-inside">KLQGIMKSRPILF</span><span class="topo-membrane">PGQKAVNALVLALTVV</span><span class="topo-outside">IGLSLLWNDATASI</span></span>
-<span class="topo-line"><span class="topo-outside">VL</span><span class="topo-membrane">FFLLALLFGVLMTL</span><span class="topo-inside">PIGGGDMPVAI</span><span class="topo-membrane">SFYNAFTGMAVGFEGF</span><span class="topo-outside">AVGN</span><span class="topo-membrane">PALMVAGTLVGAA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MDLIQ</span><span class="topo-membrane">AAYFVVAILFIVGLK</span><span class="topo-inside">RMAHPTTAKSGI</span><span class="topo-membrane">VWAGWGMVLAVLAT</span><span class="topo-outside">FFWPGMGNFALI</span><span class="topo-membrane">LLALLLGSVVAWWAA</span><span class="topo-inside">VRVAMTDMPQM</span><span class="topo-membrane">VAIYNGMGGGAAATIA</span><span class="topo-outside">AVELLKGAFENTGLMAL</span><span class="topo-membrane">AIL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GGLIGSVAFTGSLIAFA</span><span class="topo-inside">KLQGIMKSRPILF</span><span class="topo-membrane">PGQKAVNALVLALTVV</span><span class="topo-outside">IGLSLLWNDATASIVL</span><span class="topo-membrane">FFLLALLFGVLMTL</span><span class="topo-inside">PIGGGDMPVAI</span><span class="topo-membrane">SFYNAFTGMAVGFEGF</span><span class="topo-outside">AVGN</span><span class="topo-membrane">PALMVAGTLVGAA</span></span>
+<span class="topo-ruler">       250       260       270       280   </span>
 <span class="topo-line"><span class="topo-membrane">GT</span><span class="topo-inside">LLTVLMARAMNRSVWSVL</span><span class="topo-unknown">VGGFGVEQEAGEVKGHHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (20 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2777,6 +2830,7 @@ The transhydrogenase dII domain from Thermus thermophilus is the transmembrane p
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

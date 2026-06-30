@@ -139,9 +139,11 @@ verified: false
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">AFEDELGAQPPLGFFDPLGLVADGDQEKFDRLRYVE</span><span class="topo-membrane">IKHGRISMLAVVGYLVQ</span><span class="topo-outside">EAGVRLP</span></span>
-<span class="topo-line"><span class="topo-outside">GTIDYSGKTFAEIPNGFAAFKEIPA</span><span class="topo-membrane">GGLVQLLFFIGVLES</span><span class="topo-inside">SVMRDLTGEAEFVGDFRNGA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">AFEDELGAQPPLGFFDPLGLVADGDQEKFDRLRYVE</span><span class="topo-membrane">IKHGRISMLAVVGYLVQ</span><span class="topo-outside">EAGVRLPGTIDYSGKTFAEIPNGFAAFKEIPA</span><span class="topo-membrane">GGLVQLLFFIGVLES</span><span class="topo-inside">SVMRDLTGEAEFVGDFRNGA</span></span>
+<span class="topo-ruler">       130       140       150       160       </span>
 <span class="topo-line"><span class="topo-inside">IDFGWDTFDEETQFKKRAI</span><span class="topo-membrane">ELNQGRAAQMGILALMVH</span><span class="topo-outside">EQLGVSLLP</span><span class="topo-unknown">Q</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -202,6 +204,7 @@ verified: false
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

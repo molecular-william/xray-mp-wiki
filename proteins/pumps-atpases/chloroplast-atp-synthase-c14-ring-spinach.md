@@ -148,8 +148,9 @@ state.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MNPLIAAASVIAAG</span><span class="topo-membrane">LAVGLASIGPGVGQGTAAGQAVE</span><span class="topo-outside">GIARQPEAEGKI</span><span class="topo-membrane">RGTLLLSLAFM</span></span>
-<span class="topo-line"><span class="topo-membrane">EALTIYGLVVAL</span><span class="topo-inside">ALLFANPFV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80 </span>
+<span class="topo-line"><span class="topo-inside">MNPLIAAASVIAAG</span><span class="topo-membrane">LAVGLASIGPGVGQGTAAGQAVE</span><span class="topo-outside">GIARQPEAEGKI</span><span class="topo-membrane">RGTLLLSLAFMEALTIYGLVVAL</span><span class="topo-inside">ALLFANPFV</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -196,6 +197,7 @@ state.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -211,8 +213,9 @@ state.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MNPLIAAASVIAAG</span><span class="topo-membrane">LAVGLASIGPGVGQGTAAGQAVE</span><span class="topo-outside">GIARQPEAEGKI</span><span class="topo-membrane">RGTLLLSLAFM</span></span>
-<span class="topo-line"><span class="topo-membrane">EALTIYGLVVAL</span><span class="topo-inside">ALLFANPFV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80 </span>
+<span class="topo-line"><span class="topo-inside">MNPLIAAASVIAAG</span><span class="topo-membrane">LAVGLASIGPGVGQGTAAGQAVE</span><span class="topo-outside">GIARQPEAEGKI</span><span class="topo-membrane">RGTLLLSLAFMEALTIYGLVVAL</span><span class="topo-inside">ALLFANPFV</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -259,6 +262,7 @@ state.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -274,8 +278,9 @@ state.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MNPLIAAASVIAAG</span><span class="topo-membrane">LAVGLASIGPGVGQGTAAGQAVE</span><span class="topo-outside">GIARQPEAEGKI</span><span class="topo-membrane">RGTLLLSLAFM</span></span>
-<span class="topo-line"><span class="topo-membrane">EALTIYGLVVAL</span><span class="topo-inside">ALLFANPFV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80 </span>
+<span class="topo-line"><span class="topo-inside">MNPLIAAASVIAAG</span><span class="topo-membrane">LAVGLASIGPGVGQGTAAGQAVE</span><span class="topo-outside">GIARQPEAEGKI</span><span class="topo-membrane">RGTLLLSLAFMEALTIYGLVVAL</span><span class="topo-inside">ALLFANPFV</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -322,6 +327,7 @@ state.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -337,8 +343,9 @@ state.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MNPLIAAASVIAAG</span><span class="topo-membrane">LAVGLASIGPGVGQGTAAGQAVE</span><span class="topo-outside">GIARQPEAEGKI</span><span class="topo-membrane">RGTLLLSLAFM</span></span>
-<span class="topo-line"><span class="topo-membrane">EALTIYGLVVAL</span><span class="topo-inside">ALLFANPFV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80 </span>
+<span class="topo-line"><span class="topo-inside">MNPLIAAASVIAAG</span><span class="topo-membrane">LAVGLASIGPGVGQGTAAGQAVE</span><span class="topo-outside">GIARQPEAEGKI</span><span class="topo-membrane">RGTLLLSLAFMEALTIYGLVVAL</span><span class="topo-inside">ALLFANPFV</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -385,6 +392,7 @@ state.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -400,8 +408,9 @@ state.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MNPLIAAASVIAAG</span><span class="topo-membrane">LAVGLASIGPGVGQGTAAGQAVE</span><span class="topo-outside">GIARQPEAEGKI</span><span class="topo-membrane">RGTLLLSLAFM</span></span>
-<span class="topo-line"><span class="topo-membrane">EALTIYGLVVAL</span><span class="topo-inside">ALLFANPFV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80 </span>
+<span class="topo-line"><span class="topo-inside">MNPLIAAASVIAAG</span><span class="topo-membrane">LAVGLASIGPGVGQGTAAGQAVE</span><span class="topo-outside">GIARQPEAEGKI</span><span class="topo-membrane">RGTLLLSLAFMEALTIYGLVVAL</span><span class="topo-inside">ALLFANPFV</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -448,6 +457,7 @@ state.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -463,8 +473,9 @@ state.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MNPLIAAASVIAAG</span><span class="topo-membrane">LAVGLASIGPGVGQGTAAGQAVE</span><span class="topo-outside">GIARQPEAEGKI</span><span class="topo-membrane">RGTLLLSLAFM</span></span>
-<span class="topo-line"><span class="topo-membrane">EALTIYGLVVAL</span><span class="topo-inside">ALLFANPFV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80 </span>
+<span class="topo-line"><span class="topo-inside">MNPLIAAASVIAAG</span><span class="topo-membrane">LAVGLASIGPGVGQGTAAGQAVE</span><span class="topo-outside">GIARQPEAEGKI</span><span class="topo-membrane">RGTLLLSLAFMEALTIYGLVVAL</span><span class="topo-inside">ALLFANPFV</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -511,6 +522,7 @@ state.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -526,8 +538,9 @@ state.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MNPLIAAASVIAAG</span><span class="topo-membrane">LAVGLASIGPGVGQGTAAGQAVE</span><span class="topo-outside">GIARQPEAEGKI</span><span class="topo-membrane">RGTLLLSLAFM</span></span>
-<span class="topo-line"><span class="topo-membrane">EALTIYGLVVAL</span><span class="topo-inside">ALLFANPFV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80 </span>
+<span class="topo-line"><span class="topo-inside">MNPLIAAASVIAAG</span><span class="topo-membrane">LAVGLASIGPGVGQGTAAGQAVE</span><span class="topo-outside">GIARQPEAEGKI</span><span class="topo-membrane">RGTLLLSLAFMEALTIYGLVVAL</span><span class="topo-inside">ALLFANPFV</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -574,6 +587,7 @@ state.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -589,8 +603,9 @@ state.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MNPLIAAASVIAAG</span><span class="topo-membrane">LAVGLASIGPGVGQGTAAGQAVE</span><span class="topo-outside">GIARQPEAEGK</span><span class="topo-membrane">IRGTLLLSLAFM</span></span>
-<span class="topo-line"><span class="topo-membrane">EALTIYGLVVAL</span><span class="topo-inside">ALLFANPFV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80 </span>
+<span class="topo-line"><span class="topo-inside">MNPLIAAASVIAAG</span><span class="topo-membrane">LAVGLASIGPGVGQGTAAGQAVE</span><span class="topo-outside">GIARQPEAEGK</span><span class="topo-membrane">IRGTLLLSLAFMEALTIYGLVVAL</span><span class="topo-inside">ALLFANPFV</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -637,6 +652,7 @@ state.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -652,8 +668,9 @@ state.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MNPLIAAASVIAAG</span><span class="topo-membrane">LAVGLASIGPGVGQGTAAGQAVE</span><span class="topo-outside">GIARQPEAEGK</span><span class="topo-membrane">IRGTLLLSLAFM</span></span>
-<span class="topo-line"><span class="topo-membrane">EALTIYGLVVAL</span><span class="topo-inside">ALLFANPFV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80 </span>
+<span class="topo-line"><span class="topo-inside">MNPLIAAASVIAAG</span><span class="topo-membrane">LAVGLASIGPGVGQGTAAGQAVE</span><span class="topo-outside">GIARQPEAEGK</span><span class="topo-membrane">IRGTLLLSLAFMEALTIYGLVVAL</span><span class="topo-inside">ALLFANPFV</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -700,6 +717,7 @@ state.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -715,8 +733,9 @@ state.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MNPLIAAASVIAAG</span><span class="topo-membrane">LAVGLASIGPGVGQGTAAGQAVE</span><span class="topo-outside">GIARQPEAEG</span><span class="topo-membrane">KIRGTLLLSLAFM</span></span>
-<span class="topo-line"><span class="topo-membrane">EALTIYGLVVAL</span><span class="topo-inside">ALLFANPFV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80 </span>
+<span class="topo-line"><span class="topo-inside">MNPLIAAASVIAAG</span><span class="topo-membrane">LAVGLASIGPGVGQGTAAGQAVE</span><span class="topo-outside">GIARQPEAEG</span><span class="topo-membrane">KIRGTLLLSLAFMEALTIYGLVVAL</span><span class="topo-inside">ALLFANPFV</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -763,6 +782,7 @@ state.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -778,8 +798,9 @@ state.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MNPLIAAASVIAAG</span><span class="topo-membrane">LAVGLASIGPGVGQGTAAGQAVE</span><span class="topo-outside">GIARQPEAEGK</span><span class="topo-membrane">IRGTLLLSLAFM</span></span>
-<span class="topo-line"><span class="topo-membrane">EALTIYGLVVAL</span><span class="topo-inside">ALLFANPFV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80 </span>
+<span class="topo-line"><span class="topo-inside">MNPLIAAASVIAAG</span><span class="topo-membrane">LAVGLASIGPGVGQGTAAGQAVE</span><span class="topo-outside">GIARQPEAEGK</span><span class="topo-membrane">IRGTLLLSLAFMEALTIYGLVVAL</span><span class="topo-inside">ALLFANPFV</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -826,6 +847,7 @@ state.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -841,8 +863,9 @@ state.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MNPLIAAASVIAAG</span><span class="topo-membrane">LAVGLASIGPGVGQGTAAGQAVE</span><span class="topo-outside">GIARQPEAEGK</span><span class="topo-membrane">IRGTLLLSLAFM</span></span>
-<span class="topo-line"><span class="topo-membrane">EALTIYGLVVAL</span><span class="topo-inside">ALLFANPFV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80 </span>
+<span class="topo-line"><span class="topo-inside">MNPLIAAASVIAAG</span><span class="topo-membrane">LAVGLASIGPGVGQGTAAGQAVE</span><span class="topo-outside">GIARQPEAEGK</span><span class="topo-membrane">IRGTLLLSLAFMEALTIYGLVVAL</span><span class="topo-inside">ALLFANPFV</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -889,6 +912,7 @@ state.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -904,8 +928,9 @@ state.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MNPLIAAASVIAAG</span><span class="topo-membrane">LAVGLASIGPGVGQGTAAGQAVE</span><span class="topo-outside">GIARQPEAEGK</span><span class="topo-membrane">IRGTLLLSLAFM</span></span>
-<span class="topo-line"><span class="topo-membrane">EALTIYGLVVAL</span><span class="topo-inside">ALLFANPFV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80 </span>
+<span class="topo-line"><span class="topo-inside">MNPLIAAASVIAAG</span><span class="topo-membrane">LAVGLASIGPGVGQGTAAGQAVE</span><span class="topo-outside">GIARQPEAEGK</span><span class="topo-membrane">IRGTLLLSLAFMEALTIYGLVVAL</span><span class="topo-inside">ALLFANPFV</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -952,6 +977,7 @@ state.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -967,8 +993,9 @@ state.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MNPLIAAASVIAAG</span><span class="topo-membrane">LAVGLASIGPGVGQGTAAGQAVE</span><span class="topo-outside">GIARQPEAEGKI</span><span class="topo-membrane">RGTLLLSLAFM</span></span>
-<span class="topo-line"><span class="topo-membrane">EALTIYGLVVAL</span><span class="topo-inside">ALLFANPFV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80 </span>
+<span class="topo-line"><span class="topo-inside">MNPLIAAASVIAAG</span><span class="topo-membrane">LAVGLASIGPGVGQGTAAGQAVE</span><span class="topo-outside">GIARQPEAEGKI</span><span class="topo-membrane">RGTLLLSLAFMEALTIYGLVVAL</span><span class="topo-inside">ALLFANPFV</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1015,6 +1042,7 @@ state.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

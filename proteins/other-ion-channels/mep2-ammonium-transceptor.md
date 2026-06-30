@@ -159,15 +159,17 @@ Mep2 (methylammonium permease) proteins are fungal ammonium transceptors that fu
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">SYNFTGTPTGEGTGGNSLTTDLNTQFDLANMGWIG</span><span class="topo-membrane">VASAGVWIMVPGIGLLYS</span><span class="topo-outside">GLSRKK</span></span>
-<span class="topo-line"><span class="topo-outside">HALSL</span><span class="topo-membrane">LWASMMASAVCIFQWFFWGYSLA</span><span class="topo-inside">FSHNTRGNGFIGTLEFFGFRNVLGAPSSVSSL</span></span>
-<span class="topo-line"><span class="topo-inside">PDILFA</span><span class="topo-membrane">VYQGMFAAVTGALMLGGAC</span><span class="topo-outside">ERARL</span><span class="topo-membrane">FPMMVFLFLWMTIVYCPIACWV</span><span class="topo-inside">WNAEGWLV</span></span>
-<span class="topo-line"><span class="topo-inside">KLGSLD</span><span class="topo-membrane">YAGGLCVHLTSGHGGLVYALI</span><span class="topo-outside">LGKRNDPVTRKGMPKYKPHSVT</span><span class="topo-membrane">SVVLGTVFLWF</span></span>
-<span class="topo-line"><span class="topo-membrane">GWMFFNGGS</span><span class="topo-inside">AGNATIRAWYS</span><span class="topo-membrane">IMSTNLAAACGGLTWMVIDY</span><span class="topo-outside">FRCGRKWTTV</span><span class="topo-membrane">GLCSGIIAGL</span></span>
-<span class="topo-line"><span class="topo-membrane">VGITPAA</span><span class="topo-inside">GFVPI</span><span class="topo-membrane">WSAVVIGVVTGAGCNLAVDL</span><span class="topo-outside">KSLLRIDDG</span><span class="topo-membrane">LDCYSIHGVGGCIGSVLTG</span></span>
-<span class="topo-line"><span class="topo-membrane">IF</span><span class="topo-inside">AA</span><span class="topo-unknown">DYVNATA</span><span class="topo-inside">GSYISPIDGGWINHHYKQVGYQ</span><span class="topo-membrane">LAGICAALAWTVTVTSILLLTMNAI</span><span class="topo-outside">PF</span></span>
-<span class="topo-line"><span class="topo-outside">LKLRLSADEEELGTDAAQIGEFTYEESTAYIPEPIRS</span><span class="topo-unknown">KTSAQMPPPHENIDDKIVGNTDA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">SYNFTGTPTGEGTGGNSLTTDLNTQFDLANMGWIG</span><span class="topo-membrane">VASAGVWIMVPGIGLLYS</span><span class="topo-outside">GLSRKKHALSL</span><span class="topo-membrane">LWASMMASAVCIFQWFFWGYSLA</span><span class="topo-inside">FSHNTRGNGFIGTLEFFGFRNVLGAPSSVSSL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">PDILFA</span><span class="topo-membrane">VYQGMFAAVTGALMLGGAC</span><span class="topo-outside">ERARL</span><span class="topo-membrane">FPMMVFLFLWMTIVYCPIACWV</span><span class="topo-inside">WNAEGWLVKLGSLD</span><span class="topo-membrane">YAGGLCVHLTSGHGGLVYALI</span><span class="topo-outside">LGKRNDPVTRKGMPKYKPHSVT</span><span class="topo-membrane">SVVLGTVFLWF</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">GWMFFNGGS</span><span class="topo-inside">AGNATIRAWYS</span><span class="topo-membrane">IMSTNLAAACGGLTWMVIDY</span><span class="topo-outside">FRCGRKWTTV</span><span class="topo-membrane">GLCSGIIAGLVGITPAA</span><span class="topo-inside">GFVPI</span><span class="topo-membrane">WSAVVIGVVTGAGCNLAVDL</span><span class="topo-outside">KSLLRIDDG</span><span class="topo-membrane">LDCYSIHGVGGCIGSVLTG</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">IF</span><span class="topo-inside">AA</span><span class="topo-unknown">DYVNATA</span><span class="topo-inside">GSYISPIDGGWINHHYKQVGYQ</span><span class="topo-membrane">LAGICAALAWTVTVTSILLLTMNAI</span><span class="topo-outside">PFLKLRLSADEEELGTDAAQIGEFTYEESTAYIPEPIRS</span><span class="topo-unknown">KTSAQMPPPHENIDDKIVGNTDA</span></span>
+<span class="topo-ruler">       490       500     </span>
 <span class="topo-line"><span class="topo-unknown">EKNSTPSDASSTKNTDHIVHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (25 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -354,6 +356,7 @@ Mep2 (methylammonium permease) proteins are fungal ammonium transceptors that fu
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -369,15 +372,17 @@ Mep2 (methylammonium permease) proteins are fungal ammonium transceptors that fu
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">SYNFTGTPTGEGTGGNSLTTDLNTQFDLANMGWIG</span><span class="topo-membrane">VASAGVWIMVPGIGLLYS</span><span class="topo-outside">GLSRKK</span></span>
-<span class="topo-line"><span class="topo-outside">HALSL</span><span class="topo-membrane">LWASMMASAVCIFQWFFWGYSLA</span><span class="topo-inside">FSHNTRGNGFIGTLEFFGFRNVLGAPSSVSSL</span></span>
-<span class="topo-line"><span class="topo-inside">PDILFA</span><span class="topo-membrane">VYQGMFAAVTGALMLGGAC</span><span class="topo-outside">ERARL</span><span class="topo-membrane">FPMMVFLFLWMTIVYCPIACWV</span><span class="topo-inside">WNAEGWLV</span></span>
-<span class="topo-line"><span class="topo-inside">KLGSLD</span><span class="topo-membrane">YAGGLCVHLTSGHGGLVYALI</span><span class="topo-outside">LGKRNDPVTRKGMPKYKPHSVT</span><span class="topo-membrane">SVVLGTVFLWF</span></span>
-<span class="topo-line"><span class="topo-membrane">GWMFFNGGS</span><span class="topo-inside">AGNATIRAWYS</span><span class="topo-membrane">IMSTNLAAACGGLTWMVIDY</span><span class="topo-outside">FRCGRKWTTV</span><span class="topo-membrane">GLCSGIIAGL</span></span>
-<span class="topo-line"><span class="topo-membrane">VGITPAA</span><span class="topo-inside">GFVPI</span><span class="topo-membrane">WSAVVIGVVTGAGCNLAVDL</span><span class="topo-outside">KSLLRIDDG</span><span class="topo-membrane">LDCYSIHGVGGCIGSVLTG</span></span>
-<span class="topo-line"><span class="topo-membrane">IF</span><span class="topo-inside">AA</span><span class="topo-unknown">DYVNATA</span><span class="topo-inside">GSYISPIDGGWINHHYKQVGYQ</span><span class="topo-membrane">LAGICAALAWTVTVTSILLLTMNAI</span><span class="topo-outside">PF</span></span>
-<span class="topo-line"><span class="topo-outside">LKLRLSADEEELGTDAAQIGEFTYEESTAYIPEPIRS</span><span class="topo-unknown">KTSAQMPPPHENIDDKIVGNTDA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">SYNFTGTPTGEGTGGNSLTTDLNTQFDLANMGWIG</span><span class="topo-membrane">VASAGVWIMVPGIGLLYS</span><span class="topo-outside">GLSRKKHALSL</span><span class="topo-membrane">LWASMMASAVCIFQWFFWGYSLA</span><span class="topo-inside">FSHNTRGNGFIGTLEFFGFRNVLGAPSSVSSL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">PDILFA</span><span class="topo-membrane">VYQGMFAAVTGALMLGGAC</span><span class="topo-outside">ERARL</span><span class="topo-membrane">FPMMVFLFLWMTIVYCPIACWV</span><span class="topo-inside">WNAEGWLVKLGSLD</span><span class="topo-membrane">YAGGLCVHLTSGHGGLVYALI</span><span class="topo-outside">LGKRNDPVTRKGMPKYKPHSVT</span><span class="topo-membrane">SVVLGTVFLWF</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">GWMFFNGGS</span><span class="topo-inside">AGNATIRAWYS</span><span class="topo-membrane">IMSTNLAAACGGLTWMVIDY</span><span class="topo-outside">FRCGRKWTTV</span><span class="topo-membrane">GLCSGIIAGLVGITPAA</span><span class="topo-inside">GFVPI</span><span class="topo-membrane">WSAVVIGVVTGAGCNLAVDL</span><span class="topo-outside">KSLLRIDDG</span><span class="topo-membrane">LDCYSIHGVGGCIGSVLTG</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">IF</span><span class="topo-inside">AA</span><span class="topo-unknown">DYVNATA</span><span class="topo-inside">GSYISPIDGGWINHHYKQVGYQ</span><span class="topo-membrane">LAGICAALAWTVTVTSILLLTMNAI</span><span class="topo-outside">PFLKLRLSADEEELGTDAAQIGEFTYEESTAYIPEPIRS</span><span class="topo-unknown">KTSAQMPPPHENIDDKIVGNTDA</span></span>
+<span class="topo-ruler">       490       500     </span>
 <span class="topo-line"><span class="topo-unknown">EKNSTPSDASSTKNTDHIVHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (25 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -564,6 +569,7 @@ Mep2 (methylammonium permease) proteins are fungal ammonium transceptors that fu
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -579,15 +585,17 @@ Mep2 (methylammonium permease) proteins are fungal ammonium transceptors that fu
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">SYNFTGTPTGEGTGGNSLTTDLNTQFDLANMGWIG</span><span class="topo-membrane">VASAGVWIMVPGIGLLYS</span><span class="topo-outside">GLSRKK</span></span>
-<span class="topo-line"><span class="topo-outside">HALSL</span><span class="topo-membrane">LWASMMASAVCIFQWFFWGYSLA</span><span class="topo-inside">FSHNTRGNGFIGTLEFFGFRNVLGAPSSVSSL</span></span>
-<span class="topo-line"><span class="topo-inside">PDILFA</span><span class="topo-membrane">VYQGMFAAVTGALMLGGAC</span><span class="topo-outside">ERARL</span><span class="topo-membrane">FPMMVFLFLWMTIVYCPIACWV</span><span class="topo-inside">WNAEGWLV</span></span>
-<span class="topo-line"><span class="topo-inside">KLGSLD</span><span class="topo-membrane">YAGGLCVHLTSGHGGLVYALI</span><span class="topo-outside">LGKRNDPVTRKGMPKYKPHSVT</span><span class="topo-membrane">SVVLGTVFLWF</span></span>
-<span class="topo-line"><span class="topo-membrane">GWMFFNGGS</span><span class="topo-inside">AGNATIRAWYS</span><span class="topo-membrane">IMSTNLAAACGGLTWMVIDY</span><span class="topo-outside">FRCGRKWTTV</span><span class="topo-membrane">GLCSGIIAGL</span></span>
-<span class="topo-line"><span class="topo-membrane">VGITPAA</span><span class="topo-inside">GFVPI</span><span class="topo-membrane">WSAVVIGVVTGAGCNLAVDL</span><span class="topo-outside">KSLLRIDDG</span><span class="topo-membrane">LDCYSIHGVGGCIGSVLTG</span></span>
-<span class="topo-line"><span class="topo-membrane">IF</span><span class="topo-inside">AA</span><span class="topo-unknown">DYVNATA</span><span class="topo-inside">GSYISPIDGGWINHHYKQVGYQ</span><span class="topo-membrane">LAGICAALAWTVTVTSILLLTMNAI</span><span class="topo-outside">PF</span></span>
-<span class="topo-line"><span class="topo-outside">LKLRLSADEEELGTDAAQIGEFTYEESTAYIPEPIRS</span><span class="topo-unknown">KTSAQMPPPHENIDDKIVGNTDA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">SYNFTGTPTGEGTGGNSLTTDLNTQFDLANMGWIG</span><span class="topo-membrane">VASAGVWIMVPGIGLLYS</span><span class="topo-outside">GLSRKKHALSL</span><span class="topo-membrane">LWASMMASAVCIFQWFFWGYSLA</span><span class="topo-inside">FSHNTRGNGFIGTLEFFGFRNVLGAPSSVSSL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">PDILFA</span><span class="topo-membrane">VYQGMFAAVTGALMLGGAC</span><span class="topo-outside">ERARL</span><span class="topo-membrane">FPMMVFLFLWMTIVYCPIACWV</span><span class="topo-inside">WNAEGWLVKLGSLD</span><span class="topo-membrane">YAGGLCVHLTSGHGGLVYALI</span><span class="topo-outside">LGKRNDPVTRKGMPKYKPHSVT</span><span class="topo-membrane">SVVLGTVFLWF</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">GWMFFNGGS</span><span class="topo-inside">AGNATIRAWYS</span><span class="topo-membrane">IMSTNLAAACGGLTWMVIDY</span><span class="topo-outside">FRCGRKWTTV</span><span class="topo-membrane">GLCSGIIAGLVGITPAA</span><span class="topo-inside">GFVPI</span><span class="topo-membrane">WSAVVIGVVTGAGCNLAVDL</span><span class="topo-outside">KSLLRIDDG</span><span class="topo-membrane">LDCYSIHGVGGCIGSVLTG</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">IF</span><span class="topo-inside">AA</span><span class="topo-unknown">DYVNATA</span><span class="topo-inside">GSYISPIDGGWINHHYKQVGYQ</span><span class="topo-membrane">LAGICAALAWTVTVTSILLLTMNAI</span><span class="topo-outside">PFLKLRLSADEEELGTDAAQIGEFTYEESTAYIPEPIRS</span><span class="topo-unknown">KTSAQMPPPHENIDDKIVGNTDA</span></span>
+<span class="topo-ruler">       490       500     </span>
 <span class="topo-line"><span class="topo-unknown">EKNSTPSDASSTKNTDHIVHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (25 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -774,6 +782,7 @@ Mep2 (methylammonium permease) proteins are fungal ammonium transceptors that fu
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -789,15 +798,17 @@ Mep2 (methylammonium permease) proteins are fungal ammonium transceptors that fu
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MSGQFTGTGTGGDVFKVDLNEQFDRADMVWIG</span><span class="topo-membrane">TASVLVWIMIPGVGLL</span><span class="topo-outside">YSGISRKKHALS</span></span>
-<span class="topo-line"><span class="topo-outside">LM</span><span class="topo-membrane">WAALMAACVAAFQWFWWGYSLV</span><span class="topo-inside">FAHNGSVFLGTLQNFCLKDVLGAPSIVKTVPDILFC</span></span>
-<span class="topo-line"><span class="topo-membrane">LYQGMFAAVTAILMAGA</span><span class="topo-outside">GCERARLGPM</span><span class="topo-membrane">MVFLFIWLTVVYCPIAYWT</span><span class="topo-inside">WGGNGWLVSLGALD</span></span>
-<span class="topo-line"><span class="topo-membrane">FAGGGPVHENSGFAALAY</span><span class="topo-outside">SLWLGKRHDPVAKGKVPKYKPHSVSSIV</span><span class="topo-membrane">MGTIFLWFGWYGFN</span></span>
-<span class="topo-line"><span class="topo-membrane">GGS</span><span class="topo-inside">TGNSSMRSWYA</span><span class="topo-membrane">CVNTNLAAATGGLTWMLV</span><span class="topo-outside">DWFRTGGKWSTVGL</span><span class="topo-membrane">CMGAIAGLVGITPA</span></span>
-<span class="topo-line"><span class="topo-membrane">A</span><span class="topo-inside">GYVPV</span><span class="topo-membrane">YTSVIFGIVPAIICNFA</span><span class="topo-outside">VDLKDLLQIDDGMD</span><span class="topo-membrane">VWALHGVGGFVGNFMTGLF</span><span class="topo-inside">AA</span><span class="topo-unknown">DY</span></span>
-<span class="topo-line"><span class="topo-unknown">VAMID</span><span class="topo-inside">GTEIDGGWMNHHWKQL</span><span class="topo-membrane">GYQLAGSCAVAAWSFTVTSIILLAM</span><span class="topo-outside">DRIPFLRIRLHEDE</span></span>
-<span class="topo-line"><span class="topo-outside">EMLGTDLAQIGEYAYYADDDPETNPYVLEPIRSTT</span><span class="topo-unknown">ISQPLPHIDGVADGSSNNDSGEAKN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">MSGQFTGTGTGGDVFKVDLNEQFDRADMVWIG</span><span class="topo-membrane">TASVLVWIMIPGVGLL</span><span class="topo-outside">YSGISRKKHALSLM</span><span class="topo-membrane">WAALMAACVAAFQWFWWGYSLV</span><span class="topo-inside">FAHNGSVFLGTLQNFCLKDVLGAPSIVKTVPDILFC</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">LYQGMFAAVTAILMAGA</span><span class="topo-outside">GCERARLGPM</span><span class="topo-membrane">MVFLFIWLTVVYCPIAYWT</span><span class="topo-inside">WGGNGWLVSLGALD</span><span class="topo-membrane">FAGGGPVHENSGFAALAY</span><span class="topo-outside">SLWLGKRHDPVAKGKVPKYKPHSVSSIV</span><span class="topo-membrane">MGTIFLWFGWYGFN</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">GGS</span><span class="topo-inside">TGNSSMRSWYA</span><span class="topo-membrane">CVNTNLAAATGGLTWMLV</span><span class="topo-outside">DWFRTGGKWSTVGL</span><span class="topo-membrane">CMGAIAGLVGITPAA</span><span class="topo-inside">GYVPV</span><span class="topo-membrane">YTSVIFGIVPAIICNFA</span><span class="topo-outside">VDLKDLLQIDDGMD</span><span class="topo-membrane">VWALHGVGGFVGNFMTGLF</span><span class="topo-inside">AA</span><span class="topo-unknown">DY</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-unknown">VAMID</span><span class="topo-inside">GTEIDGGWMNHHWKQL</span><span class="topo-membrane">GYQLAGSCAVAAWSFTVTSIILLAM</span><span class="topo-outside">DRIPFLRIRLHEDEEMLGTDLAQIGEYAYYADDDPETNPYVLEPIRSTT</span><span class="topo-unknown">ISQPLPHIDGVADGSSNNDSGEAKN</span></span>
+<span class="topo-ruler">      </span>
 <span class="topo-line"><span class="topo-unknown">HHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (25 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -984,6 +995,7 @@ Mep2 (methylammonium permease) proteins are fungal ammonium transceptors that fu
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -999,15 +1011,17 @@ Mep2 (methylammonium permease) proteins are fungal ammonium transceptors that fu
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MSGQFTGTGTGGDVFKVDLNEQFDRADMVWIG</span><span class="topo-membrane">TASVLVWIMIPGVGLL</span><span class="topo-outside">YSGISRKKHALS</span></span>
-<span class="topo-line"><span class="topo-outside">LM</span><span class="topo-membrane">WAALMAACVAAFQWFWWGYSLV</span><span class="topo-inside">FAHNGSVFLGTLQNFCLKDVLGAPSIVKTVPDILFC</span></span>
-<span class="topo-line"><span class="topo-membrane">LYQGMFAAVTAILMAGA</span><span class="topo-outside">GCERARLGPM</span><span class="topo-membrane">MVFLFIWLTVVYCPIAYWT</span><span class="topo-inside">WGGNGWLVSLGALD</span></span>
-<span class="topo-line"><span class="topo-membrane">FAGGGPVHENSGFAALAY</span><span class="topo-outside">SLWLGKRHDPVAKGKVPKYKPHSVSSIV</span><span class="topo-membrane">MGTIFLWFGWYGFN</span></span>
-<span class="topo-line"><span class="topo-membrane">GGS</span><span class="topo-inside">TGNSSMRSWYA</span><span class="topo-membrane">CVNTNLAAATGGLTWMLV</span><span class="topo-outside">DWFRTGGKWSTVGL</span><span class="topo-membrane">CMGAIAGLVGITPA</span></span>
-<span class="topo-line"><span class="topo-membrane">A</span><span class="topo-inside">GYVPV</span><span class="topo-membrane">YTSVIFGIVPAIICNFA</span><span class="topo-outside">VDLKDLLQIDDGMD</span><span class="topo-membrane">VWALHGVGGFVGNFMTGLF</span><span class="topo-inside">AA</span><span class="topo-unknown">DY</span></span>
-<span class="topo-line"><span class="topo-unknown">VAMID</span><span class="topo-inside">GTEIDGGWMNHHWKQL</span><span class="topo-membrane">GYQLAGSCAVAAWSFTVTSIILLAM</span><span class="topo-outside">DRIPFLRIRLHEDE</span></span>
-<span class="topo-line"><span class="topo-outside">EMLGTDLAQIGEYAYYADDDPETNPYVLEPIRSTT</span><span class="topo-unknown">ISQPLPHIDGVADGSSNNDSGEAKN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">MSGQFTGTGTGGDVFKVDLNEQFDRADMVWIG</span><span class="topo-membrane">TASVLVWIMIPGVGLL</span><span class="topo-outside">YSGISRKKHALSLM</span><span class="topo-membrane">WAALMAACVAAFQWFWWGYSLV</span><span class="topo-inside">FAHNGSVFLGTLQNFCLKDVLGAPSIVKTVPDILFC</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">LYQGMFAAVTAILMAGA</span><span class="topo-outside">GCERARLGPM</span><span class="topo-membrane">MVFLFIWLTVVYCPIAYWT</span><span class="topo-inside">WGGNGWLVSLGALD</span><span class="topo-membrane">FAGGGPVHENSGFAALAY</span><span class="topo-outside">SLWLGKRHDPVAKGKVPKYKPHSVSSIV</span><span class="topo-membrane">MGTIFLWFGWYGFN</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">GGS</span><span class="topo-inside">TGNSSMRSWYA</span><span class="topo-membrane">CVNTNLAAATGGLTWMLV</span><span class="topo-outside">DWFRTGGKWSTVGL</span><span class="topo-membrane">CMGAIAGLVGITPAA</span><span class="topo-inside">GYVPV</span><span class="topo-membrane">YTSVIFGIVPAIICNFA</span><span class="topo-outside">VDLKDLLQIDDGMD</span><span class="topo-membrane">VWALHGVGGFVGNFMTGLF</span><span class="topo-inside">AA</span><span class="topo-unknown">DY</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-unknown">VAMID</span><span class="topo-inside">GTEIDGGWMNHHWKQL</span><span class="topo-membrane">GYQLAGSCAVAAWSFTVTSIILLAM</span><span class="topo-outside">DRIPFLRIRLHEDEEMLGTDLAQIGEYAYYADDDPETNPYVLEPIRSTT</span><span class="topo-unknown">ISQPLPHIDGVADGSSNNDSGEAKN</span></span>
+<span class="topo-ruler">      </span>
 <span class="topo-line"><span class="topo-unknown">HHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (25 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1194,6 +1208,7 @@ Mep2 (methylammonium permease) proteins are fungal ammonium transceptors that fu
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1209,15 +1224,17 @@ Mep2 (methylammonium permease) proteins are fungal ammonium transceptors that fu
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MSGQFTGTGTGGDVFKVDLNEQFDRADMVWIG</span><span class="topo-membrane">TASVLVWIMIPGVGLL</span><span class="topo-outside">YSGISRKKHALS</span></span>
-<span class="topo-line"><span class="topo-outside">LM</span><span class="topo-membrane">WAALMAACVAAFQWFWWGYSLV</span><span class="topo-inside">FAHNGSVFLGTLQNFCLKDVLGAPSIVKTVPDILFC</span></span>
-<span class="topo-line"><span class="topo-membrane">LYQGMFAAVTAILMAGA</span><span class="topo-outside">GCERARLGPM</span><span class="topo-membrane">MVFLFIWLTVVYCPIAYWT</span><span class="topo-inside">WGGNGWLVSLGALD</span></span>
-<span class="topo-line"><span class="topo-membrane">FAGGGPVHENSGFAALAY</span><span class="topo-outside">SLWLGKRHDPVAKGKVPKYKPHSVSSIV</span><span class="topo-membrane">MGTIFLWFGWYGFN</span></span>
-<span class="topo-line"><span class="topo-membrane">GGS</span><span class="topo-inside">TGNSSMRSWYA</span><span class="topo-membrane">CVNTNLAAATGGLTWMLV</span><span class="topo-outside">DWFRTGGKWSTVGL</span><span class="topo-membrane">CMGAIAGLVGITPA</span></span>
-<span class="topo-line"><span class="topo-membrane">A</span><span class="topo-inside">GYVPV</span><span class="topo-membrane">YTSVIFGIVPAIICNFA</span><span class="topo-outside">VDLKDLLQIDDGMD</span><span class="topo-membrane">VWALHGVGGFVGNFMTGLF</span><span class="topo-inside">AA</span><span class="topo-unknown">DY</span></span>
-<span class="topo-line"><span class="topo-unknown">VAMID</span><span class="topo-inside">GTEIDGGWMNHHWKQL</span><span class="topo-membrane">GYQLAGSCAVAAWSFTVTSIILLAM</span><span class="topo-outside">DRIPFLRIRLHEDE</span></span>
-<span class="topo-line"><span class="topo-outside">EMLGTDLAQIGEYAYYADDDPETNPYVLEPIRSTT</span><span class="topo-unknown">ISQPLPHIDGVADGSSNNDSGEAKN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">MSGQFTGTGTGGDVFKVDLNEQFDRADMVWIG</span><span class="topo-membrane">TASVLVWIMIPGVGLL</span><span class="topo-outside">YSGISRKKHALSLM</span><span class="topo-membrane">WAALMAACVAAFQWFWWGYSLV</span><span class="topo-inside">FAHNGSVFLGTLQNFCLKDVLGAPSIVKTVPDILFC</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">LYQGMFAAVTAILMAGA</span><span class="topo-outside">GCERARLGPM</span><span class="topo-membrane">MVFLFIWLTVVYCPIAYWT</span><span class="topo-inside">WGGNGWLVSLGALD</span><span class="topo-membrane">FAGGGPVHENSGFAALAY</span><span class="topo-outside">SLWLGKRHDPVAKGKVPKYKPHSVSSIV</span><span class="topo-membrane">MGTIFLWFGWYGFN</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">GGS</span><span class="topo-inside">TGNSSMRSWYA</span><span class="topo-membrane">CVNTNLAAATGGLTWMLV</span><span class="topo-outside">DWFRTGGKWSTVGL</span><span class="topo-membrane">CMGAIAGLVGITPAA</span><span class="topo-inside">GYVPV</span><span class="topo-membrane">YTSVIFGIVPAIICNFA</span><span class="topo-outside">VDLKDLLQIDDGMD</span><span class="topo-membrane">VWALHGVGGFVGNFMTGLF</span><span class="topo-inside">AA</span><span class="topo-unknown">DY</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-unknown">VAMID</span><span class="topo-inside">GTEIDGGWMNHHWKQL</span><span class="topo-membrane">GYQLAGSCAVAAWSFTVTSIILLAM</span><span class="topo-outside">DRIPFLRIRLHEDEEMLGTDLAQIGEYAYYADDDPETNPYVLEPIRSTT</span><span class="topo-unknown">ISQPLPHIDGVADGSSNNDSGEAKN</span></span>
+<span class="topo-ruler">      </span>
 <span class="topo-line"><span class="topo-unknown">HHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (25 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1404,6 +1421,7 @@ Mep2 (methylammonium permease) proteins are fungal ammonium transceptors that fu
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1419,14 +1437,15 @@ Mep2 (methylammonium permease) proteins are fungal ammonium transceptors that fu
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">G</span><span class="topo-outside">QFTGTGTGGDVFKVDLNEQFDRADMVWIGT</span><span class="topo-membrane">ASVLVWIMIPGVGLLYSGI</span><span class="topo-inside">SRKKHALSL</span><span class="topo-membrane">M</span></span>
-<span class="topo-line"><span class="topo-membrane">WAALMAACVAAFQWFWWGYSLV</span><span class="topo-outside">FAHNGSVFLGTLQNFCLKDVLGAPSIVKTVPDILFC</span><span class="topo-membrane">LY</span></span>
-<span class="topo-line"><span class="topo-membrane">QGMFAAVTAILMAGAGC</span><span class="topo-inside">ERARL</span><span class="topo-membrane">GPMMVFLFIWLTVVYCPIAYWT</span><span class="topo-outside">WGGNGWLVSLGALD</span><span class="topo-membrane">FA</span></span>
-<span class="topo-line"><span class="topo-membrane">GGGPVHENSGFAALAYSLW</span><span class="topo-inside">LGKRHDPVAKGKVPKYKPHSVS</span><span class="topo-membrane">SIVMGTIFLWFGWYGFNGG</span></span>
-<span class="topo-line"><span class="topo-outside">STGNSSMRSWYA</span><span class="topo-membrane">CVNTNLAAATGGLTWMLVDWF</span><span class="topo-inside">RTGGKWST</span><span class="topo-membrane">VGLCMGAIAGLVGITPAA</span><span class="topo-outside">G</span></span>
-<span class="topo-line"><span class="topo-outside">YVPV</span><span class="topo-membrane">YTSVIFGIVPAIICNFAVDL</span><span class="topo-inside">KDLLQIDDG</span><span class="topo-membrane">MDVWALHGVGGFVGNFMTGLF</span><span class="topo-outside">AADYVA</span></span>
-<span class="topo-line"><span class="topo-outside">MIDGTEIDGGWMNHHWKQL</span><span class="topo-membrane">GYQLAGSCAVAAWSFTVTSIILLAMDRI</span><span class="topo-inside">PFLRIRLHEDEEM</span></span>
-<span class="topo-line"><span class="topo-inside">LGTDLAQIGEYAYYADDDPETNPYVLEPIRS</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">G</span><span class="topo-outside">QFTGTGTGGDVFKVDLNEQFDRADMVWIGT</span><span class="topo-membrane">ASVLVWIMIPGVGLLYSGI</span><span class="topo-inside">SRKKHALSL</span><span class="topo-membrane">MWAALMAACVAAFQWFWWGYSLV</span><span class="topo-outside">FAHNGSVFLGTLQNFCLKDVLGAPSIVKTVPDILFC</span><span class="topo-membrane">LY</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">QGMFAAVTAILMAGAGC</span><span class="topo-inside">ERARL</span><span class="topo-membrane">GPMMVFLFIWLTVVYCPIAYWT</span><span class="topo-outside">WGGNGWLVSLGALD</span><span class="topo-membrane">FAGGGPVHENSGFAALAYSLW</span><span class="topo-inside">LGKRHDPVAKGKVPKYKPHSVS</span><span class="topo-membrane">SIVMGTIFLWFGWYGFNGG</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">STGNSSMRSWYA</span><span class="topo-membrane">CVNTNLAAATGGLTWMLVDWF</span><span class="topo-inside">RTGGKWST</span><span class="topo-membrane">VGLCMGAIAGLVGITPAA</span><span class="topo-outside">GYVPV</span><span class="topo-membrane">YTSVIFGIVPAIICNFAVDL</span><span class="topo-inside">KDLLQIDDG</span><span class="topo-membrane">MDVWALHGVGGFVGNFMTGLF</span><span class="topo-outside">AADYVA</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450 </span>
+<span class="topo-line"><span class="topo-outside">MIDGTEIDGGWMNHHWKQL</span><span class="topo-membrane">GYQLAGSCAVAAWSFTVTSIILLAMDRI</span><span class="topo-inside">PFLRIRLHEDEEMLGTDLAQIGEYAYYADDDPETNPYVLEPIRS</span></span>
+<details class="topo-details"><summary>Topology coordinates (23 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1599,6 +1618,7 @@ Mep2 (methylammonium permease) proteins are fungal ammonium transceptors that fu
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1614,14 +1634,15 @@ Mep2 (methylammonium permease) proteins are fungal ammonium transceptors that fu
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">G</span><span class="topo-outside">QFTGTGTGGDVFKVDLNEQFDRADMVWIGT</span><span class="topo-membrane">ASVLVWIMIPGVGLLYSGI</span><span class="topo-inside">SRKKHALSL</span><span class="topo-membrane">M</span></span>
-<span class="topo-line"><span class="topo-membrane">WAALMAACVAAFQWFWWGYSLV</span><span class="topo-outside">FAHNGSVFLGTLQNFCLKDVLGAPSIVKTVPDILFC</span><span class="topo-membrane">LY</span></span>
-<span class="topo-line"><span class="topo-membrane">QGMFAAVTAILMAGAGC</span><span class="topo-inside">ERARL</span><span class="topo-membrane">GPMMVFLFIWLTVVYCPIAYWT</span><span class="topo-outside">WGGNGWLVSLGALD</span><span class="topo-membrane">FA</span></span>
-<span class="topo-line"><span class="topo-membrane">GGGPVHENSGFAALAYSLW</span><span class="topo-inside">LGKRHDPVAKGKVPKYKPHSVS</span><span class="topo-membrane">SIVMGTIFLWFGWYGFNGG</span></span>
-<span class="topo-line"><span class="topo-outside">STGNSSMRSWYA</span><span class="topo-membrane">CVNTNLAAATGGLTWMLVDWF</span><span class="topo-inside">RTGGKWST</span><span class="topo-membrane">VGLCMGAIAGLVGITPAA</span><span class="topo-outside">G</span></span>
-<span class="topo-line"><span class="topo-outside">YVPV</span><span class="topo-membrane">YTSVIFGIVPAIICNFAVDL</span><span class="topo-inside">KDLLQIDDG</span><span class="topo-membrane">MDVWALHGVGGFVGNFMTGLF</span><span class="topo-outside">AADYVA</span></span>
-<span class="topo-line"><span class="topo-outside">MIDGTEIDGGWMNHHWKQL</span><span class="topo-membrane">GYQLAGSCAVAAWSFTVTSIILLAMDRI</span><span class="topo-inside">PFLRIRLHEDEEM</span></span>
-<span class="topo-line"><span class="topo-inside">LGTDLAQIGEYAYYADDDPETNPYVLEPIRS</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">G</span><span class="topo-outside">QFTGTGTGGDVFKVDLNEQFDRADMVWIGT</span><span class="topo-membrane">ASVLVWIMIPGVGLLYSGI</span><span class="topo-inside">SRKKHALSL</span><span class="topo-membrane">MWAALMAACVAAFQWFWWGYSLV</span><span class="topo-outside">FAHNGSVFLGTLQNFCLKDVLGAPSIVKTVPDILFC</span><span class="topo-membrane">LY</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">QGMFAAVTAILMAGAGC</span><span class="topo-inside">ERARL</span><span class="topo-membrane">GPMMVFLFIWLTVVYCPIAYWT</span><span class="topo-outside">WGGNGWLVSLGALD</span><span class="topo-membrane">FAGGGPVHENSGFAALAYSLW</span><span class="topo-inside">LGKRHDPVAKGKVPKYKPHSVS</span><span class="topo-membrane">SIVMGTIFLWFGWYGFNGG</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">STGNSSMRSWYA</span><span class="topo-membrane">CVNTNLAAATGGLTWMLVDWF</span><span class="topo-inside">RTGGKWST</span><span class="topo-membrane">VGLCMGAIAGLVGITPAA</span><span class="topo-outside">GYVPV</span><span class="topo-membrane">YTSVIFGIVPAIICNFAVDL</span><span class="topo-inside">KDLLQIDDG</span><span class="topo-membrane">MDVWALHGVGGFVGNFMTGLF</span><span class="topo-outside">AADYVA</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450 </span>
+<span class="topo-line"><span class="topo-outside">MIDGTEIDGGWMNHHWKQL</span><span class="topo-membrane">GYQLAGSCAVAAWSFTVTSIILLAMDRI</span><span class="topo-inside">PFLRIRLHEDEEMLGTDLAQIGEYAYYADDDPETNPYVLEPIRS</span></span>
+<details class="topo-details"><summary>Topology coordinates (23 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1794,6 +1815,7 @@ Mep2 (methylammonium permease) proteins are fungal ammonium transceptors that fu
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1809,14 +1831,15 @@ Mep2 (methylammonium permease) proteins are fungal ammonium transceptors that fu
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">G</span><span class="topo-outside">QFTGTGTGGDVFKVDLNEQFDRADMVWIGT</span><span class="topo-membrane">ASVLVWIMIPGVGLLYSGI</span><span class="topo-inside">SRKKHALSL</span><span class="topo-membrane">M</span></span>
-<span class="topo-line"><span class="topo-membrane">WAALMAACVAAFQWFWWGYSLV</span><span class="topo-outside">FAHNGSVFLGTLQNFCLKDVLGAPSIVKTVPDILFC</span><span class="topo-membrane">LY</span></span>
-<span class="topo-line"><span class="topo-membrane">QGMFAAVTAILMAGAGC</span><span class="topo-inside">ERARL</span><span class="topo-membrane">GPMMVFLFIWLTVVYCPIAYWT</span><span class="topo-outside">WGGNGWLVSLGALD</span><span class="topo-membrane">FA</span></span>
-<span class="topo-line"><span class="topo-membrane">GGGPVHENSGFAALAYSLW</span><span class="topo-inside">LGKRHDPVAKGKVPKYKPHSVS</span><span class="topo-membrane">SIVMGTIFLWFGWYGFNGG</span></span>
-<span class="topo-line"><span class="topo-outside">STGNSSMRSWYA</span><span class="topo-membrane">CVNTNLAAATGGLTWMLVDWF</span><span class="topo-inside">RTGGKWST</span><span class="topo-membrane">VGLCMGAIAGLVGITPAA</span><span class="topo-outside">G</span></span>
-<span class="topo-line"><span class="topo-outside">YVPV</span><span class="topo-membrane">YTSVIFGIVPAIICNFAVDL</span><span class="topo-inside">KDLLQIDDG</span><span class="topo-membrane">MDVWALHGVGGFVGNFMTGLF</span><span class="topo-outside">AADYVA</span></span>
-<span class="topo-line"><span class="topo-outside">MIDGTEIDGGWMNHHWKQL</span><span class="topo-membrane">GYQLAGSCAVAAWSFTVTSIILLAMDRI</span><span class="topo-inside">PFLRIRLHEDEEM</span></span>
-<span class="topo-line"><span class="topo-inside">LGTDLAQIGEYAYYADDDPETNPYVLEPIRS</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">G</span><span class="topo-outside">QFTGTGTGGDVFKVDLNEQFDRADMVWIGT</span><span class="topo-membrane">ASVLVWIMIPGVGLLYSGI</span><span class="topo-inside">SRKKHALSL</span><span class="topo-membrane">MWAALMAACVAAFQWFWWGYSLV</span><span class="topo-outside">FAHNGSVFLGTLQNFCLKDVLGAPSIVKTVPDILFC</span><span class="topo-membrane">LY</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">QGMFAAVTAILMAGAGC</span><span class="topo-inside">ERARL</span><span class="topo-membrane">GPMMVFLFIWLTVVYCPIAYWT</span><span class="topo-outside">WGGNGWLVSLGALD</span><span class="topo-membrane">FAGGGPVHENSGFAALAYSLW</span><span class="topo-inside">LGKRHDPVAKGKVPKYKPHSVS</span><span class="topo-membrane">SIVMGTIFLWFGWYGFNGG</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">STGNSSMRSWYA</span><span class="topo-membrane">CVNTNLAAATGGLTWMLVDWF</span><span class="topo-inside">RTGGKWST</span><span class="topo-membrane">VGLCMGAIAGLVGITPAA</span><span class="topo-outside">GYVPV</span><span class="topo-membrane">YTSVIFGIVPAIICNFAVDL</span><span class="topo-inside">KDLLQIDDG</span><span class="topo-membrane">MDVWALHGVGGFVGNFMTGLF</span><span class="topo-outside">AADYVA</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450 </span>
+<span class="topo-line"><span class="topo-outside">MIDGTEIDGGWMNHHWKQL</span><span class="topo-membrane">GYQLAGSCAVAAWSFTVTSIILLAMDRI</span><span class="topo-inside">PFLRIRLHEDEEMLGTDLAQIGEYAYYADDDPETNPYVLEPIRS</span></span>
+<details class="topo-details"><summary>Topology coordinates (23 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1989,6 +2012,7 @@ Mep2 (methylammonium permease) proteins are fungal ammonium transceptors that fu
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2004,14 +2028,15 @@ Mep2 (methylammonium permease) proteins are fungal ammonium transceptors that fu
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSG</span><span class="topo-outside">QFTGTGTGGDVFKVDLNEQFDRADMVWIGT</span><span class="topo-membrane">ASVLVWIMIPGVGLLYS</span><span class="topo-inside">GISRK</span><span class="topo-unknown">K</span><span class="topo-inside">HALS</span></span>
-<span class="topo-line"><span class="topo-inside">L</span><span class="topo-membrane">MWAALMAACVAAFQWFWWGYSLV</span><span class="topo-outside">FAHNGSVFLGTLQNFCLKDVLGAPSIVKTVPDILFC</span></span>
-<span class="topo-line"><span class="topo-membrane">LYQGMFAAVTAILMAGAGC</span><span class="topo-inside">ERARL</span><span class="topo-membrane">GPMMVFLFIWLTVVYCPIAYWT</span><span class="topo-outside">WGGNGWLVSLGALD</span></span>
-<span class="topo-line"><span class="topo-membrane">FAGGGPVHENSGFAALAYSLW</span><span class="topo-inside">LG</span><span class="topo-unknown">KRHDPVAKGKVPKY</span><span class="topo-inside">KPHSVS</span><span class="topo-membrane">SIVMGTIFLWFGWYGFN</span></span>
-<span class="topo-line"><span class="topo-membrane">GG</span><span class="topo-outside">STGNSSMRSWYA</span><span class="topo-membrane">CVNTNLAAATGGLTWMLVDWF</span><span class="topo-inside">RTGGKWST</span><span class="topo-membrane">VGLCMGAIAGLVGITPA</span></span>
-<span class="topo-line"><span class="topo-membrane">A</span><span class="topo-outside">GYVPV</span><span class="topo-membrane">YTSVIFGIVPAIICNFAVDL</span><span class="topo-inside">KDLLQIDDG</span><span class="topo-membrane">MDVWALHGVGGFVGNFMTGLF</span><span class="topo-outside">AADY</span></span>
-<span class="topo-line"><span class="topo-outside">VAMIDGTEIDGGWMNHHWKQL</span><span class="topo-membrane">GYQLAGSCAVAAWSFTVTSIILLAMDRI</span><span class="topo-inside">PFLRIRL</span><span class="topo-unknown">HEDE</span></span>
-<span class="topo-line"><span class="topo-unknown">EMLGTDLAQIGEYAYYADDDPEHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSG</span><span class="topo-outside">QFTGTGTGGDVFKVDLNEQFDRADMVWIGT</span><span class="topo-membrane">ASVLVWIMIPGVGLLYS</span><span class="topo-inside">GISRK</span><span class="topo-unknown">K</span><span class="topo-inside">HALSL</span><span class="topo-membrane">MWAALMAACVAAFQWFWWGYSLV</span><span class="topo-outside">FAHNGSVFLGTLQNFCLKDVLGAPSIVKTVPDILFC</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">LYQGMFAAVTAILMAGAGC</span><span class="topo-inside">ERARL</span><span class="topo-membrane">GPMMVFLFIWLTVVYCPIAYWT</span><span class="topo-outside">WGGNGWLVSLGALD</span><span class="topo-membrane">FAGGGPVHENSGFAALAYSLW</span><span class="topo-inside">LG</span><span class="topo-unknown">KRHDPVAKGKVPKY</span><span class="topo-inside">KPHSVS</span><span class="topo-membrane">SIVMGTIFLWFGWYGFN</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">GG</span><span class="topo-outside">STGNSSMRSWYA</span><span class="topo-membrane">CVNTNLAAATGGLTWMLVDWF</span><span class="topo-inside">RTGGKWST</span><span class="topo-membrane">VGLCMGAIAGLVGITPAA</span><span class="topo-outside">GYVPV</span><span class="topo-membrane">YTSVIFGIVPAIICNFAVDL</span><span class="topo-inside">KDLLQIDDG</span><span class="topo-membrane">MDVWALHGVGGFVGNFMTGLF</span><span class="topo-outside">AADY</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440        </span>
+<span class="topo-line"><span class="topo-outside">VAMIDGTEIDGGWMNHHWKQL</span><span class="topo-membrane">GYQLAGSCAVAAWSFTVTSIILLAMDRI</span><span class="topo-inside">PFLRIRL</span><span class="topo-unknown">HEDEEMLGTDLAQIGEYAYYADDDPEHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (25 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2198,6 +2223,7 @@ Mep2 (methylammonium permease) proteins are fungal ammonium transceptors that fu
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2213,14 +2239,15 @@ Mep2 (methylammonium permease) proteins are fungal ammonium transceptors that fu
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSG</span><span class="topo-outside">QFTGTGTGGDVFKVDLNEQFDRADMVWIGT</span><span class="topo-membrane">ASVLVWIMIPGVGLLYS</span><span class="topo-inside">GISRK</span><span class="topo-unknown">K</span><span class="topo-inside">HALS</span></span>
-<span class="topo-line"><span class="topo-inside">L</span><span class="topo-membrane">MWAALMAACVAAFQWFWWGYSLV</span><span class="topo-outside">FAHNGSVFLGTLQNFCLKDVLGAPSIVKTVPDILFC</span></span>
-<span class="topo-line"><span class="topo-membrane">LYQGMFAAVTAILMAGAGC</span><span class="topo-inside">ERARL</span><span class="topo-membrane">GPMMVFLFIWLTVVYCPIAYWT</span><span class="topo-outside">WGGNGWLVSLGALD</span></span>
-<span class="topo-line"><span class="topo-membrane">FAGGGPVHENSGFAALAYSLW</span><span class="topo-inside">LG</span><span class="topo-unknown">KRHDPVAKGKVPKY</span><span class="topo-inside">KPHSVS</span><span class="topo-membrane">SIVMGTIFLWFGWYGFN</span></span>
-<span class="topo-line"><span class="topo-membrane">GG</span><span class="topo-outside">STGNSSMRSWYA</span><span class="topo-membrane">CVNTNLAAATGGLTWMLVDWF</span><span class="topo-inside">RTGGKWST</span><span class="topo-membrane">VGLCMGAIAGLVGITPA</span></span>
-<span class="topo-line"><span class="topo-membrane">A</span><span class="topo-outside">GYVPV</span><span class="topo-membrane">YTSVIFGIVPAIICNFAVDL</span><span class="topo-inside">KDLLQIDDG</span><span class="topo-membrane">MDVWALHGVGGFVGNFMTGLF</span><span class="topo-outside">AADY</span></span>
-<span class="topo-line"><span class="topo-outside">VAMIDGTEIDGGWMNHHWKQL</span><span class="topo-membrane">GYQLAGSCAVAAWSFTVTSIILLAMDRI</span><span class="topo-inside">PFLRIRL</span><span class="topo-unknown">HEDE</span></span>
-<span class="topo-line"><span class="topo-unknown">EMLGTDLAQIGEYAYYADDDPEHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSG</span><span class="topo-outside">QFTGTGTGGDVFKVDLNEQFDRADMVWIGT</span><span class="topo-membrane">ASVLVWIMIPGVGLLYS</span><span class="topo-inside">GISRK</span><span class="topo-unknown">K</span><span class="topo-inside">HALSL</span><span class="topo-membrane">MWAALMAACVAAFQWFWWGYSLV</span><span class="topo-outside">FAHNGSVFLGTLQNFCLKDVLGAPSIVKTVPDILFC</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">LYQGMFAAVTAILMAGAGC</span><span class="topo-inside">ERARL</span><span class="topo-membrane">GPMMVFLFIWLTVVYCPIAYWT</span><span class="topo-outside">WGGNGWLVSLGALD</span><span class="topo-membrane">FAGGGPVHENSGFAALAYSLW</span><span class="topo-inside">LG</span><span class="topo-unknown">KRHDPVAKGKVPKY</span><span class="topo-inside">KPHSVS</span><span class="topo-membrane">SIVMGTIFLWFGWYGFN</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">GG</span><span class="topo-outside">STGNSSMRSWYA</span><span class="topo-membrane">CVNTNLAAATGGLTWMLVDWF</span><span class="topo-inside">RTGGKWST</span><span class="topo-membrane">VGLCMGAIAGLVGITPAA</span><span class="topo-outside">GYVPV</span><span class="topo-membrane">YTSVIFGIVPAIICNFAVDL</span><span class="topo-inside">KDLLQIDDG</span><span class="topo-membrane">MDVWALHGVGGFVGNFMTGLF</span><span class="topo-outside">AADY</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440        </span>
+<span class="topo-line"><span class="topo-outside">VAMIDGTEIDGGWMNHHWKQL</span><span class="topo-membrane">GYQLAGSCAVAAWSFTVTSIILLAMDRI</span><span class="topo-inside">PFLRIRL</span><span class="topo-unknown">HEDEEMLGTDLAQIGEYAYYADDDPEHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (25 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2407,6 +2434,7 @@ Mep2 (methylammonium permease) proteins are fungal ammonium transceptors that fu
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2422,14 +2450,15 @@ Mep2 (methylammonium permease) proteins are fungal ammonium transceptors that fu
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSG</span><span class="topo-outside">QFTGTGTGGDVFKVDLNEQFDRADMVWIGT</span><span class="topo-membrane">ASVLVWIMIPGVGLLYS</span><span class="topo-inside">GISRK</span><span class="topo-unknown">K</span><span class="topo-inside">HALS</span></span>
-<span class="topo-line"><span class="topo-inside">L</span><span class="topo-membrane">MWAALMAACVAAFQWFWWGYSLV</span><span class="topo-outside">FAHNGSVFLGTLQNFCLKDVLGAPSIVKTVPDILFC</span></span>
-<span class="topo-line"><span class="topo-membrane">LYQGMFAAVTAILMAGAGC</span><span class="topo-inside">ERARL</span><span class="topo-membrane">GPMMVFLFIWLTVVYCPIAYWT</span><span class="topo-outside">WGGNGWLVSLGALD</span></span>
-<span class="topo-line"><span class="topo-membrane">FAGGGPVHENSGFAALAYSLW</span><span class="topo-inside">LG</span><span class="topo-unknown">KRHDPVAKGKVPKY</span><span class="topo-inside">KPHSVS</span><span class="topo-membrane">SIVMGTIFLWFGWYGFN</span></span>
-<span class="topo-line"><span class="topo-membrane">GG</span><span class="topo-outside">STGNSSMRSWYA</span><span class="topo-membrane">CVNTNLAAATGGLTWMLVDWF</span><span class="topo-inside">RTGGKWST</span><span class="topo-membrane">VGLCMGAIAGLVGITPA</span></span>
-<span class="topo-line"><span class="topo-membrane">A</span><span class="topo-outside">GYVPV</span><span class="topo-membrane">YTSVIFGIVPAIICNFAVDL</span><span class="topo-inside">KDLLQIDDG</span><span class="topo-membrane">MDVWALHGVGGFVGNFMTGLF</span><span class="topo-outside">AADY</span></span>
-<span class="topo-line"><span class="topo-outside">VAMIDGTEIDGGWMNHHWKQL</span><span class="topo-membrane">GYQLAGSCAVAAWSFTVTSIILLAMDRI</span><span class="topo-inside">PFLRIRL</span><span class="topo-unknown">HEDE</span></span>
-<span class="topo-line"><span class="topo-unknown">EMLGTDLAQIGEYAYYADDDPEHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSG</span><span class="topo-outside">QFTGTGTGGDVFKVDLNEQFDRADMVWIGT</span><span class="topo-membrane">ASVLVWIMIPGVGLLYS</span><span class="topo-inside">GISRK</span><span class="topo-unknown">K</span><span class="topo-inside">HALSL</span><span class="topo-membrane">MWAALMAACVAAFQWFWWGYSLV</span><span class="topo-outside">FAHNGSVFLGTLQNFCLKDVLGAPSIVKTVPDILFC</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">LYQGMFAAVTAILMAGAGC</span><span class="topo-inside">ERARL</span><span class="topo-membrane">GPMMVFLFIWLTVVYCPIAYWT</span><span class="topo-outside">WGGNGWLVSLGALD</span><span class="topo-membrane">FAGGGPVHENSGFAALAYSLW</span><span class="topo-inside">LG</span><span class="topo-unknown">KRHDPVAKGKVPKY</span><span class="topo-inside">KPHSVS</span><span class="topo-membrane">SIVMGTIFLWFGWYGFN</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">GG</span><span class="topo-outside">STGNSSMRSWYA</span><span class="topo-membrane">CVNTNLAAATGGLTWMLVDWF</span><span class="topo-inside">RTGGKWST</span><span class="topo-membrane">VGLCMGAIAGLVGITPAA</span><span class="topo-outside">GYVPV</span><span class="topo-membrane">YTSVIFGIVPAIICNFAVDL</span><span class="topo-inside">KDLLQIDDG</span><span class="topo-membrane">MDVWALHGVGGFVGNFMTGLF</span><span class="topo-outside">AADY</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440        </span>
+<span class="topo-line"><span class="topo-outside">VAMIDGTEIDGGWMNHHWKQL</span><span class="topo-membrane">GYQLAGSCAVAAWSFTVTSIILLAMDRI</span><span class="topo-inside">PFLRIRL</span><span class="topo-unknown">HEDEEMLGTDLAQIGEYAYYADDDPEHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (25 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2616,6 +2645,7 @@ Mep2 (methylammonium permease) proteins are fungal ammonium transceptors that fu
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2631,15 +2661,17 @@ Mep2 (methylammonium permease) proteins are fungal ammonium transceptors that fu
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSG</span><span class="topo-inside">QFTGTGTGGDVFKVDLNEQFDRADMVWIG</span><span class="topo-membrane">TASVLVWIMIPGVGLLYS</span><span class="topo-outside">GISRKKHALS</span></span>
-<span class="topo-line"><span class="topo-outside">L</span><span class="topo-membrane">MWAALMAACVAAFQWFWWGYSLV</span><span class="topo-inside">FAHNGSVFLGTLQNFCLKDVLGAPSIVKTVPDILFC</span></span>
-<span class="topo-line"><span class="topo-membrane">LYQGMFAAVTAILMAGAGC</span><span class="topo-outside">ERARL</span><span class="topo-membrane">GPMMVFLFIWLTVVYCPIAYWT</span><span class="topo-inside">WGGNGWLVSLGALD</span></span>
-<span class="topo-line"><span class="topo-membrane">FAGGGPVHENSGFAALAYSLW</span><span class="topo-outside">LGKRHDPVAKGKVPKYKPHSVS</span><span class="topo-membrane">SIVMGTIFLWFGWYGFN</span></span>
-<span class="topo-line"><span class="topo-membrane">GG</span><span class="topo-inside">STGNSSMRSWYA</span><span class="topo-membrane">CVNTNLAAATGGLTWMLVDWF</span><span class="topo-outside">RTGGKWST</span><span class="topo-membrane">VGLCMGAIAGLVGITPA</span></span>
-<span class="topo-line"><span class="topo-membrane">A</span><span class="topo-inside">GYVPV</span><span class="topo-membrane">YTSVIFGIVPAIICNFAV</span><span class="topo-outside">DLKDLLQIDDG</span><span class="topo-membrane">MDVWALHGVGGFVGNFMTGLF</span><span class="topo-inside">AADY</span></span>
-<span class="topo-line"><span class="topo-inside">VAMIDGTEIDGGWMNHHWKQL</span><span class="topo-membrane">GYQLAGSCAVAAWSFTVTSIILLAMDRI</span><span class="topo-outside">PFLRIRLHED</span><span class="topo-unknown">E</span></span>
-<span class="topo-line"><span class="topo-unknown">EML</span><span class="topo-outside">GTDLAQIGEYAYYADDDPETNPYVLEPIDDT</span><span class="topo-unknown">TISQPLPHIDGVADGSSNNDSGEAKN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSG</span><span class="topo-inside">QFTGTGTGGDVFKVDLNEQFDRADMVWIG</span><span class="topo-membrane">TASVLVWIMIPGVGLLYS</span><span class="topo-outside">GISRKKHALSL</span><span class="topo-membrane">MWAALMAACVAAFQWFWWGYSLV</span><span class="topo-inside">FAHNGSVFLGTLQNFCLKDVLGAPSIVKTVPDILFC</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">LYQGMFAAVTAILMAGAGC</span><span class="topo-outside">ERARL</span><span class="topo-membrane">GPMMVFLFIWLTVVYCPIAYWT</span><span class="topo-inside">WGGNGWLVSLGALD</span><span class="topo-membrane">FAGGGPVHENSGFAALAYSLW</span><span class="topo-outside">LGKRHDPVAKGKVPKYKPHSVS</span><span class="topo-membrane">SIVMGTIFLWFGWYGFN</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">GG</span><span class="topo-inside">STGNSSMRSWYA</span><span class="topo-membrane">CVNTNLAAATGGLTWMLVDWF</span><span class="topo-outside">RTGGKWST</span><span class="topo-membrane">VGLCMGAIAGLVGITPAA</span><span class="topo-inside">GYVPV</span><span class="topo-membrane">YTSVIFGIVPAIICNFAV</span><span class="topo-outside">DLKDLLQIDDG</span><span class="topo-membrane">MDVWALHGVGGFVGNFMTGLF</span><span class="topo-inside">AADY</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">VAMIDGTEIDGGWMNHHWKQL</span><span class="topo-membrane">GYQLAGSCAVAAWSFTVTSIILLAMDRI</span><span class="topo-outside">PFLRIRLHED</span><span class="topo-unknown">EEML</span><span class="topo-outside">GTDLAQIGEYAYYADDDPETNPYVLEPIDDT</span><span class="topo-unknown">TISQPLPHIDGVADGSSNNDSGEAKN</span></span>
+<span class="topo-ruler">      </span>
 <span class="topo-line"><span class="topo-unknown">HHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (24 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2819,6 +2851,7 @@ Mep2 (methylammonium permease) proteins are fungal ammonium transceptors that fu
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2834,15 +2867,17 @@ Mep2 (methylammonium permease) proteins are fungal ammonium transceptors that fu
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSG</span><span class="topo-inside">QFTGTGTGGDVFKVDLNEQFDRADMVWIG</span><span class="topo-membrane">TASVLVWIMIPGVGLLYS</span><span class="topo-outside">GISRKKHALS</span></span>
-<span class="topo-line"><span class="topo-outside">L</span><span class="topo-membrane">MWAALMAACVAAFQWFWWGYSLV</span><span class="topo-inside">FAHNGSVFLGTLQNFCLKDVLGAPSIVKTVPDILFC</span></span>
-<span class="topo-line"><span class="topo-membrane">LYQGMFAAVTAILMAGAGC</span><span class="topo-outside">ERARL</span><span class="topo-membrane">GPMMVFLFIWLTVVYCPIAYWT</span><span class="topo-inside">WGGNGWLVSLGALD</span></span>
-<span class="topo-line"><span class="topo-membrane">FAGGGPVHENSGFAALAYSLW</span><span class="topo-outside">LGKRHDPVAKGKVPKYKPHSVS</span><span class="topo-membrane">SIVMGTIFLWFGWYGFN</span></span>
-<span class="topo-line"><span class="topo-membrane">GG</span><span class="topo-inside">STGNSSMRSWYA</span><span class="topo-membrane">CVNTNLAAATGGLTWMLVDWF</span><span class="topo-outside">RTGGKWST</span><span class="topo-membrane">VGLCMGAIAGLVGITPA</span></span>
-<span class="topo-line"><span class="topo-membrane">A</span><span class="topo-inside">GYVPV</span><span class="topo-membrane">YTSVIFGIVPAIICNFAV</span><span class="topo-outside">DLKDLLQIDDG</span><span class="topo-membrane">MDVWALHGVGGFVGNFMTGLF</span><span class="topo-inside">AADY</span></span>
-<span class="topo-line"><span class="topo-inside">VAMIDGTEIDGGWMNHHWKQL</span><span class="topo-membrane">GYQLAGSCAVAAWSFTVTSIILLAMDRI</span><span class="topo-outside">PFLRIRLHED</span><span class="topo-unknown">E</span></span>
-<span class="topo-line"><span class="topo-unknown">EML</span><span class="topo-outside">GTDLAQIGEYAYYADDDPETNPYVLEPIDDT</span><span class="topo-unknown">TISQPLPHIDGVADGSSNNDSGEAKN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSG</span><span class="topo-inside">QFTGTGTGGDVFKVDLNEQFDRADMVWIG</span><span class="topo-membrane">TASVLVWIMIPGVGLLYS</span><span class="topo-outside">GISRKKHALSL</span><span class="topo-membrane">MWAALMAACVAAFQWFWWGYSLV</span><span class="topo-inside">FAHNGSVFLGTLQNFCLKDVLGAPSIVKTVPDILFC</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">LYQGMFAAVTAILMAGAGC</span><span class="topo-outside">ERARL</span><span class="topo-membrane">GPMMVFLFIWLTVVYCPIAYWT</span><span class="topo-inside">WGGNGWLVSLGALD</span><span class="topo-membrane">FAGGGPVHENSGFAALAYSLW</span><span class="topo-outside">LGKRHDPVAKGKVPKYKPHSVS</span><span class="topo-membrane">SIVMGTIFLWFGWYGFN</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">GG</span><span class="topo-inside">STGNSSMRSWYA</span><span class="topo-membrane">CVNTNLAAATGGLTWMLVDWF</span><span class="topo-outside">RTGGKWST</span><span class="topo-membrane">VGLCMGAIAGLVGITPAA</span><span class="topo-inside">GYVPV</span><span class="topo-membrane">YTSVIFGIVPAIICNFAV</span><span class="topo-outside">DLKDLLQIDDG</span><span class="topo-membrane">MDVWALHGVGGFVGNFMTGLF</span><span class="topo-inside">AADY</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">VAMIDGTEIDGGWMNHHWKQL</span><span class="topo-membrane">GYQLAGSCAVAAWSFTVTSIILLAMDRI</span><span class="topo-outside">PFLRIRLHED</span><span class="topo-unknown">EEML</span><span class="topo-outside">GTDLAQIGEYAYYADDDPETNPYVLEPIDDT</span><span class="topo-unknown">TISQPLPHIDGVADGSSNNDSGEAKN</span></span>
+<span class="topo-ruler">      </span>
 <span class="topo-line"><span class="topo-unknown">HHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (24 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3022,6 +3057,7 @@ Mep2 (methylammonium permease) proteins are fungal ammonium transceptors that fu
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3037,15 +3073,17 @@ Mep2 (methylammonium permease) proteins are fungal ammonium transceptors that fu
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSG</span><span class="topo-inside">QFTGTGTGGDVFKVDLNEQFDRADMVWIG</span><span class="topo-membrane">TASVLVWIMIPGVGLLYS</span><span class="topo-outside">GISRKKHALS</span></span>
-<span class="topo-line"><span class="topo-outside">L</span><span class="topo-membrane">MWAALMAACVAAFQWFWWGYSLV</span><span class="topo-inside">FAHNGSVFLGTLQNFCLKDVLGAPSIVKTVPDILFC</span></span>
-<span class="topo-line"><span class="topo-membrane">LYQGMFAAVTAILMAGAGC</span><span class="topo-outside">ERARL</span><span class="topo-membrane">GPMMVFLFIWLTVVYCPIAYWT</span><span class="topo-inside">WGGNGWLVSLGALD</span></span>
-<span class="topo-line"><span class="topo-membrane">FAGGGPVHENSGFAALAYSLW</span><span class="topo-outside">LGKRHDPVAKGKVPKYKPHSVS</span><span class="topo-membrane">SIVMGTIFLWFGWYGFN</span></span>
-<span class="topo-line"><span class="topo-membrane">GG</span><span class="topo-inside">STGNSSMRSWYA</span><span class="topo-membrane">CVNTNLAAATGGLTWMLVDWF</span><span class="topo-outside">RTGGKWST</span><span class="topo-membrane">VGLCMGAIAGLVGITPA</span></span>
-<span class="topo-line"><span class="topo-membrane">A</span><span class="topo-inside">GYVPV</span><span class="topo-membrane">YTSVIFGIVPAIICNFAV</span><span class="topo-outside">DLKDLLQIDDG</span><span class="topo-membrane">MDVWALHGVGGFVGNFMTGLF</span><span class="topo-inside">AADY</span></span>
-<span class="topo-line"><span class="topo-inside">VAMIDGTEIDGGWMNHHWKQL</span><span class="topo-membrane">GYQLAGSCAVAAWSFTVTSIILLAMDRI</span><span class="topo-outside">PFLRIRLHED</span><span class="topo-unknown">E</span></span>
-<span class="topo-line"><span class="topo-unknown">EML</span><span class="topo-outside">GTDLAQIGEYAYYADDDPETNPYVLEPIDDT</span><span class="topo-unknown">TISQPLPHIDGVADGSSNNDSGEAKN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSG</span><span class="topo-inside">QFTGTGTGGDVFKVDLNEQFDRADMVWIG</span><span class="topo-membrane">TASVLVWIMIPGVGLLYS</span><span class="topo-outside">GISRKKHALSL</span><span class="topo-membrane">MWAALMAACVAAFQWFWWGYSLV</span><span class="topo-inside">FAHNGSVFLGTLQNFCLKDVLGAPSIVKTVPDILFC</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">LYQGMFAAVTAILMAGAGC</span><span class="topo-outside">ERARL</span><span class="topo-membrane">GPMMVFLFIWLTVVYCPIAYWT</span><span class="topo-inside">WGGNGWLVSLGALD</span><span class="topo-membrane">FAGGGPVHENSGFAALAYSLW</span><span class="topo-outside">LGKRHDPVAKGKVPKYKPHSVS</span><span class="topo-membrane">SIVMGTIFLWFGWYGFN</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">GG</span><span class="topo-inside">STGNSSMRSWYA</span><span class="topo-membrane">CVNTNLAAATGGLTWMLVDWF</span><span class="topo-outside">RTGGKWST</span><span class="topo-membrane">VGLCMGAIAGLVGITPAA</span><span class="topo-inside">GYVPV</span><span class="topo-membrane">YTSVIFGIVPAIICNFAV</span><span class="topo-outside">DLKDLLQIDDG</span><span class="topo-membrane">MDVWALHGVGGFVGNFMTGLF</span><span class="topo-inside">AADY</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">VAMIDGTEIDGGWMNHHWKQL</span><span class="topo-membrane">GYQLAGSCAVAAWSFTVTSIILLAMDRI</span><span class="topo-outside">PFLRIRLHED</span><span class="topo-unknown">EEML</span><span class="topo-outside">GTDLAQIGEYAYYADDDPETNPYVLEPIDDT</span><span class="topo-unknown">TISQPLPHIDGVADGSSNNDSGEAKN</span></span>
+<span class="topo-ruler">      </span>
 <span class="topo-line"><span class="topo-unknown">HHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (24 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3225,6 +3263,7 @@ Mep2 (methylammonium permease) proteins are fungal ammonium transceptors that fu
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3240,15 +3279,17 @@ Mep2 (methylammonium permease) proteins are fungal ammonium transceptors that fu
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSG</span><span class="topo-inside">QFTGTGTGGDVFKVDLNEQFDRADMVWIG</span><span class="topo-membrane">TASVLVWIMIPGVGLLY</span><span class="topo-outside">SGISRKKHALS</span></span>
-<span class="topo-line"><span class="topo-outside">L</span><span class="topo-membrane">MWAALMAACVAAFQWFWWGYSLV</span><span class="topo-inside">FAHNGSVFLGTLQNFCLKDVLGAPSIVKTVPDILFC</span></span>
-<span class="topo-line"><span class="topo-membrane">LYQGMFAAVTAILMAGAG</span><span class="topo-outside">CERARLG</span><span class="topo-membrane">PMMVFLFIWLTVVYCPIAYWT</span><span class="topo-inside">WGGNGWLVSLGALD</span></span>
-<span class="topo-line"><span class="topo-membrane">FAGGGPVHENSGFAALAY</span><span class="topo-outside">SLWLGKRHDPVAKGKVPKYKPHSVSS</span><span class="topo-membrane">IVMGTIFLWFGWYGFN</span></span>
-<span class="topo-line"><span class="topo-membrane">GGS</span><span class="topo-inside">TGNSSMRSWYA</span><span class="topo-membrane">CVNTNLAAATGGLTWMLV</span><span class="topo-outside">DWFRTGGKWSTVG</span><span class="topo-membrane">LCMGAIAGLVGITPA</span></span>
-<span class="topo-line"><span class="topo-membrane">A</span><span class="topo-inside">GYVPV</span><span class="topo-membrane">YTSVIFGIVPAIICNFAV</span><span class="topo-outside">DLKDLLQIDDG</span><span class="topo-membrane">MDVWALHGVGGFVGNFMTGLF</span><span class="topo-inside">AA</span><span class="topo-unknown">DY</span></span>
-<span class="topo-line"><span class="topo-unknown">VAMID</span><span class="topo-inside">GTEIDGGWMNHHWKQL</span><span class="topo-membrane">GYQLAGSCAVAAWSFTVTSIILLAM</span><span class="topo-outside">DRIPFLRIRLHEDE</span></span>
-<span class="topo-line"><span class="topo-outside">EMLGTDL</span><span class="topo-unknown">AQI</span><span class="topo-outside">GEYAYYADDDPETNPYVLEPIRDTT</span><span class="topo-unknown">ISQPLPHIDGVADGSSNNDSGEAKN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSG</span><span class="topo-inside">QFTGTGTGGDVFKVDLNEQFDRADMVWIG</span><span class="topo-membrane">TASVLVWIMIPGVGLLY</span><span class="topo-outside">SGISRKKHALSL</span><span class="topo-membrane">MWAALMAACVAAFQWFWWGYSLV</span><span class="topo-inside">FAHNGSVFLGTLQNFCLKDVLGAPSIVKTVPDILFC</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">LYQGMFAAVTAILMAGAG</span><span class="topo-outside">CERARLG</span><span class="topo-membrane">PMMVFLFIWLTVVYCPIAYWT</span><span class="topo-inside">WGGNGWLVSLGALD</span><span class="topo-membrane">FAGGGPVHENSGFAALAY</span><span class="topo-outside">SLWLGKRHDPVAKGKVPKYKPHSVSS</span><span class="topo-membrane">IVMGTIFLWFGWYGFN</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">GGS</span><span class="topo-inside">TGNSSMRSWYA</span><span class="topo-membrane">CVNTNLAAATGGLTWMLV</span><span class="topo-outside">DWFRTGGKWSTVG</span><span class="topo-membrane">LCMGAIAGLVGITPAA</span><span class="topo-inside">GYVPV</span><span class="topo-membrane">YTSVIFGIVPAIICNFAV</span><span class="topo-outside">DLKDLLQIDDG</span><span class="topo-membrane">MDVWALHGVGGFVGNFMTGLF</span><span class="topo-inside">AA</span><span class="topo-unknown">DY</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-unknown">VAMID</span><span class="topo-inside">GTEIDGGWMNHHWKQL</span><span class="topo-membrane">GYQLAGSCAVAAWSFTVTSIILLAM</span><span class="topo-outside">DRIPFLRIRLHEDEEMLGTDL</span><span class="topo-unknown">AQI</span><span class="topo-outside">GEYAYYADDDPETNPYVLEPIRDTT</span><span class="topo-unknown">ISQPLPHIDGVADGSSNNDSGEAKN</span></span>
+<span class="topo-ruler">      </span>
 <span class="topo-line"><span class="topo-unknown">HHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (26 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3442,6 +3483,7 @@ Mep2 (methylammonium permease) proteins are fungal ammonium transceptors that fu
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3457,15 +3499,17 @@ Mep2 (methylammonium permease) proteins are fungal ammonium transceptors that fu
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSG</span><span class="topo-inside">QFTGTGTGGDVFKVDLNEQFDRADMVWIG</span><span class="topo-membrane">TASVLVWIMIPGVGLLY</span><span class="topo-outside">SGISRKKHALS</span></span>
-<span class="topo-line"><span class="topo-outside">L</span><span class="topo-membrane">MWAALMAACVAAFQWFWWGYSLV</span><span class="topo-inside">FAHNGSVFLGTLQNFCLKDVLGAPSIVKTVPDILFC</span></span>
-<span class="topo-line"><span class="topo-membrane">LYQGMFAAVTAILMAGAG</span><span class="topo-outside">CERARLG</span><span class="topo-membrane">PMMVFLFIWLTVVYCPIAYWT</span><span class="topo-inside">WGGNGWLVSLGALD</span></span>
-<span class="topo-line"><span class="topo-membrane">FAGGGPVHENSGFAALAY</span><span class="topo-outside">SLWLGKRHDPVAKGKVPKYKPHSVSS</span><span class="topo-membrane">IVMGTIFLWFGWYGFN</span></span>
-<span class="topo-line"><span class="topo-membrane">GGS</span><span class="topo-inside">TGNSSMRSWYA</span><span class="topo-membrane">CVNTNLAAATGGLTWMLV</span><span class="topo-outside">DWFRTGGKWSTVG</span><span class="topo-membrane">LCMGAIAGLVGITPA</span></span>
-<span class="topo-line"><span class="topo-membrane">A</span><span class="topo-inside">GYVPV</span><span class="topo-membrane">YTSVIFGIVPAIICNFAV</span><span class="topo-outside">DLKDLLQIDDG</span><span class="topo-membrane">MDVWALHGVGGFVGNFMTGLF</span><span class="topo-inside">AA</span><span class="topo-unknown">DY</span></span>
-<span class="topo-line"><span class="topo-unknown">VAMID</span><span class="topo-inside">GTEIDGGWMNHHWKQL</span><span class="topo-membrane">GYQLAGSCAVAAWSFTVTSIILLAM</span><span class="topo-outside">DRIPFLRIRLHEDE</span></span>
-<span class="topo-line"><span class="topo-outside">EMLGTDL</span><span class="topo-unknown">AQI</span><span class="topo-outside">GEYAYYADDDPETNPYVLEPIRDTT</span><span class="topo-unknown">ISQPLPHIDGVADGSSNNDSGEAKN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSG</span><span class="topo-inside">QFTGTGTGGDVFKVDLNEQFDRADMVWIG</span><span class="topo-membrane">TASVLVWIMIPGVGLLY</span><span class="topo-outside">SGISRKKHALSL</span><span class="topo-membrane">MWAALMAACVAAFQWFWWGYSLV</span><span class="topo-inside">FAHNGSVFLGTLQNFCLKDVLGAPSIVKTVPDILFC</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">LYQGMFAAVTAILMAGAG</span><span class="topo-outside">CERARLG</span><span class="topo-membrane">PMMVFLFIWLTVVYCPIAYWT</span><span class="topo-inside">WGGNGWLVSLGALD</span><span class="topo-membrane">FAGGGPVHENSGFAALAY</span><span class="topo-outside">SLWLGKRHDPVAKGKVPKYKPHSVSS</span><span class="topo-membrane">IVMGTIFLWFGWYGFN</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">GGS</span><span class="topo-inside">TGNSSMRSWYA</span><span class="topo-membrane">CVNTNLAAATGGLTWMLV</span><span class="topo-outside">DWFRTGGKWSTVG</span><span class="topo-membrane">LCMGAIAGLVGITPAA</span><span class="topo-inside">GYVPV</span><span class="topo-membrane">YTSVIFGIVPAIICNFAV</span><span class="topo-outside">DLKDLLQIDDG</span><span class="topo-membrane">MDVWALHGVGGFVGNFMTGLF</span><span class="topo-inside">AA</span><span class="topo-unknown">DY</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-unknown">VAMID</span><span class="topo-inside">GTEIDGGWMNHHWKQL</span><span class="topo-membrane">GYQLAGSCAVAAWSFTVTSIILLAM</span><span class="topo-outside">DRIPFLRIRLHEDEEMLGTDL</span><span class="topo-unknown">AQI</span><span class="topo-outside">GEYAYYADDDPETNPYVLEPIRDTT</span><span class="topo-unknown">ISQPLPHIDGVADGSSNNDSGEAKN</span></span>
+<span class="topo-ruler">      </span>
 <span class="topo-line"><span class="topo-unknown">HHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (26 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3659,6 +3703,7 @@ Mep2 (methylammonium permease) proteins are fungal ammonium transceptors that fu
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3674,15 +3719,17 @@ Mep2 (methylammonium permease) proteins are fungal ammonium transceptors that fu
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSG</span><span class="topo-inside">QFTGTGTGGDVFKVDLNEQFDRADMVWIG</span><span class="topo-membrane">TASVLVWIMIPGVGLLY</span><span class="topo-outside">SGISRKKHALS</span></span>
-<span class="topo-line"><span class="topo-outside">L</span><span class="topo-membrane">MWAALMAACVAAFQWFWWGYSLV</span><span class="topo-inside">FAHNGSVFLGTLQNFCLKDVLGAPSIVKTVPDILFC</span></span>
-<span class="topo-line"><span class="topo-membrane">LYQGMFAAVTAILMAGAG</span><span class="topo-outside">CERARLG</span><span class="topo-membrane">PMMVFLFIWLTVVYCPIAYWT</span><span class="topo-inside">WGGNGWLVSLGALD</span></span>
-<span class="topo-line"><span class="topo-membrane">FAGGGPVHENSGFAALAY</span><span class="topo-outside">SLWLGKRHDPVAKGKVPKYKPHSVSS</span><span class="topo-membrane">IVMGTIFLWFGWYGFN</span></span>
-<span class="topo-line"><span class="topo-membrane">GGS</span><span class="topo-inside">TGNSSMRSWYA</span><span class="topo-membrane">CVNTNLAAATGGLTWMLV</span><span class="topo-outside">DWFRTGGKWSTVG</span><span class="topo-membrane">LCMGAIAGLVGITPA</span></span>
-<span class="topo-line"><span class="topo-membrane">A</span><span class="topo-inside">GYVPV</span><span class="topo-membrane">YTSVIFGIVPAIICNFAV</span><span class="topo-outside">DLKDLLQIDDG</span><span class="topo-membrane">MDVWALHGVGGFVGNFMTGLF</span><span class="topo-inside">AA</span><span class="topo-unknown">DY</span></span>
-<span class="topo-line"><span class="topo-unknown">VAMID</span><span class="topo-inside">GTEIDGGWMNHHWKQL</span><span class="topo-membrane">GYQLAGSCAVAAWSFTVTSIILLAM</span><span class="topo-outside">DRIPFLRIRLHEDE</span></span>
-<span class="topo-line"><span class="topo-outside">EMLGTDL</span><span class="topo-unknown">AQI</span><span class="topo-outside">GEYAYYADDDPETNPYVLEPIRDTT</span><span class="topo-unknown">ISQPLPHIDGVADGSSNNDSGEAKN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSG</span><span class="topo-inside">QFTGTGTGGDVFKVDLNEQFDRADMVWIG</span><span class="topo-membrane">TASVLVWIMIPGVGLLY</span><span class="topo-outside">SGISRKKHALSL</span><span class="topo-membrane">MWAALMAACVAAFQWFWWGYSLV</span><span class="topo-inside">FAHNGSVFLGTLQNFCLKDVLGAPSIVKTVPDILFC</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">LYQGMFAAVTAILMAGAG</span><span class="topo-outside">CERARLG</span><span class="topo-membrane">PMMVFLFIWLTVVYCPIAYWT</span><span class="topo-inside">WGGNGWLVSLGALD</span><span class="topo-membrane">FAGGGPVHENSGFAALAY</span><span class="topo-outside">SLWLGKRHDPVAKGKVPKYKPHSVSS</span><span class="topo-membrane">IVMGTIFLWFGWYGFN</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">GGS</span><span class="topo-inside">TGNSSMRSWYA</span><span class="topo-membrane">CVNTNLAAATGGLTWMLV</span><span class="topo-outside">DWFRTGGKWSTVG</span><span class="topo-membrane">LCMGAIAGLVGITPAA</span><span class="topo-inside">GYVPV</span><span class="topo-membrane">YTSVIFGIVPAIICNFAV</span><span class="topo-outside">DLKDLLQIDDG</span><span class="topo-membrane">MDVWALHGVGGFVGNFMTGLF</span><span class="topo-inside">AA</span><span class="topo-unknown">DY</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-unknown">VAMID</span><span class="topo-inside">GTEIDGGWMNHHWKQL</span><span class="topo-membrane">GYQLAGSCAVAAWSFTVTSIILLAM</span><span class="topo-outside">DRIPFLRIRLHEDEEMLGTDL</span><span class="topo-unknown">AQI</span><span class="topo-outside">GEYAYYADDDPETNPYVLEPIRDTT</span><span class="topo-unknown">ISQPLPHIDGVADGSSNNDSGEAKN</span></span>
+<span class="topo-ruler">      </span>
 <span class="topo-line"><span class="topo-unknown">HHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (26 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3876,6 +3923,7 @@ Mep2 (methylammonium permease) proteins are fungal ammonium transceptors that fu
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

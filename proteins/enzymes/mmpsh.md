@@ -130,12 +130,13 @@ PSH (Presenilin Homolog) from Methanoculleus marisnigri (mmPSH) is an archaeal i
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MQI</span><span class="topo-outside">RDWLPLL</span><span class="topo-membrane">GMPLMLLFVQIIAIVLV</span><span class="topo-inside">MPMQAAGLVA</span><span class="topo-unknown">FEN</span><span class="topo-inside">PSSV</span><span class="topo-membrane">ANPLIFIGMLLAFTLV</span></span>
-<span class="topo-line"><span class="topo-membrane">L</span><span class="topo-outside">LVLLRTGGRRFIAA</span><span class="topo-membrane">FIGFALFMTFLYIFGAL</span><span class="topo-inside">SLLALGPTTAAA</span><span class="topo-membrane">AGTLIGAVAVTALLY</span><span class="topo-outside">L</span></span>
-<span class="topo-line"><span class="topo-outside">YPEWY</span><span class="topo-membrane">VIDILGVLISAGVASIFGIS</span><span class="topo-inside">LEP</span><span class="topo-membrane">LPVLVLLVLLAVYDAI</span><span class="topo-outside">SVYRTKHMITLAEGV</span><span class="topo-unknown">L</span></span>
-<span class="topo-line"><span class="topo-unknown">ETKAPIMVVVPKRADYSFRKEGLNISEGEER</span><span class="topo-outside">GAF</span><span class="topo-membrane">VMGMGDLIMPSILVVS</span><span class="topo-inside">SHVF</span><span class="topo-unknown">VDAPAV</span></span>
-<span class="topo-line"><span class="topo-unknown">LWT</span><span class="topo-inside">LSAPT</span><span class="topo-membrane">LGAMVGSLVGLAVL</span><span class="topo-outside">LYFVNKGNPQAG</span><span class="topo-membrane">LPPLNGGAILGFLVG</span><span class="topo-inside">AALA</span><span class="topo-unknown">GSFSWLP</span></span>
-<span class="topo-line"><span class="topo-unknown">F</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MQI</span><span class="topo-outside">RDWLPLL</span><span class="topo-membrane">GMPLMLLFVQIIAIVLV</span><span class="topo-inside">MPMQAAGLVA</span><span class="topo-unknown">FEN</span><span class="topo-inside">PSSV</span><span class="topo-membrane">ANPLIFIGMLLAFTLVL</span><span class="topo-outside">LVLLRTGGRRFIAA</span><span class="topo-membrane">FIGFALFMTFLYIFGAL</span><span class="topo-inside">SLLALGPTTAAA</span><span class="topo-membrane">AGTLIGAVAVTALLY</span><span class="topo-outside">L</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">YPEWY</span><span class="topo-membrane">VIDILGVLISAGVASIFGIS</span><span class="topo-inside">LEP</span><span class="topo-membrane">LPVLVLLVLLAVYDAI</span><span class="topo-outside">SVYRTKHMITLAEGV</span><span class="topo-unknown">LETKAPIMVVVPKRADYSFRKEGLNISEGEER</span><span class="topo-outside">GAF</span><span class="topo-membrane">VMGMGDLIMPSILVVS</span><span class="topo-inside">SHVF</span><span class="topo-unknown">VDAPAV</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300 </span>
+<span class="topo-line"><span class="topo-unknown">LWT</span><span class="topo-inside">LSAPT</span><span class="topo-membrane">LGAMVGSLVGLAVL</span><span class="topo-outside">LYFVNKGNPQAG</span><span class="topo-membrane">LPPLNGGAILGFLVG</span><span class="topo-inside">AALA</span><span class="topo-unknown">GSFSWLPF</span></span>
+<details class="topo-details"><summary>Topology coordinates (27 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -336,6 +337,7 @@ PSH (Presenilin Homolog) from Methanoculleus marisnigri (mmPSH) is an archaeal i
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -351,12 +353,13 @@ PSH (Presenilin Homolog) from Methanoculleus marisnigri (mmPSH) is an archaeal i
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MQI</span><span class="topo-outside">RDWLPLL</span><span class="topo-membrane">GMPLMLLFVQIIAIVLV</span><span class="topo-inside">MPMQAAGLVA</span><span class="topo-unknown">FEN</span><span class="topo-inside">PSSV</span><span class="topo-membrane">ANPLIFIGMLLAFTLV</span></span>
-<span class="topo-line"><span class="topo-membrane">L</span><span class="topo-outside">LVLLRTGGRRFIAA</span><span class="topo-membrane">FIGFALFMTFLYIFGAL</span><span class="topo-inside">SLLALGPTTAAA</span><span class="topo-membrane">AGTLIGAVAVTALLY</span><span class="topo-outside">L</span></span>
-<span class="topo-line"><span class="topo-outside">YPEWY</span><span class="topo-membrane">VIDILGVLISAGVASIFGIS</span><span class="topo-inside">LEP</span><span class="topo-membrane">LPVLVLLVLLAVYDAI</span><span class="topo-outside">SVYRTKHMITLAEGV</span><span class="topo-unknown">L</span></span>
-<span class="topo-line"><span class="topo-unknown">ETKAPIMVVVPKRADYSFRKEGLNISEGEER</span><span class="topo-outside">GAF</span><span class="topo-membrane">VMGMGDLIMPSILVVS</span><span class="topo-inside">SHVF</span><span class="topo-unknown">VDAPAV</span></span>
-<span class="topo-line"><span class="topo-unknown">LWT</span><span class="topo-inside">LSAPT</span><span class="topo-membrane">LGAMVGSLVGLAVL</span><span class="topo-outside">LYFVNKGNPQAG</span><span class="topo-membrane">LPPLNGGAILGFLVG</span><span class="topo-inside">AALA</span><span class="topo-unknown">GSFSWLP</span></span>
-<span class="topo-line"><span class="topo-unknown">F</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MQI</span><span class="topo-outside">RDWLPLL</span><span class="topo-membrane">GMPLMLLFVQIIAIVLV</span><span class="topo-inside">MPMQAAGLVA</span><span class="topo-unknown">FEN</span><span class="topo-inside">PSSV</span><span class="topo-membrane">ANPLIFIGMLLAFTLVL</span><span class="topo-outside">LVLLRTGGRRFIAA</span><span class="topo-membrane">FIGFALFMTFLYIFGAL</span><span class="topo-inside">SLLALGPTTAAA</span><span class="topo-membrane">AGTLIGAVAVTALLY</span><span class="topo-outside">L</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">YPEWY</span><span class="topo-membrane">VIDILGVLISAGVASIFGIS</span><span class="topo-inside">LEP</span><span class="topo-membrane">LPVLVLLVLLAVYDAI</span><span class="topo-outside">SVYRTKHMITLAEGV</span><span class="topo-unknown">LETKAPIMVVVPKRADYSFRKEGLNISEGEER</span><span class="topo-outside">GAF</span><span class="topo-membrane">VMGMGDLIMPSILVVS</span><span class="topo-inside">SHVF</span><span class="topo-unknown">VDAPAV</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300 </span>
+<span class="topo-line"><span class="topo-unknown">LWT</span><span class="topo-inside">LSAPT</span><span class="topo-membrane">LGAMVGSLVGLAVL</span><span class="topo-outside">LYFVNKGNPQAG</span><span class="topo-membrane">LPPLNGGAILGFLVG</span><span class="topo-inside">AALA</span><span class="topo-unknown">GSFSWLPF</span></span>
+<details class="topo-details"><summary>Topology coordinates (27 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -557,6 +560,7 @@ PSH (Presenilin Homolog) from Methanoculleus marisnigri (mmPSH) is an archaeal i
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -572,12 +576,13 @@ PSH (Presenilin Homolog) from Methanoculleus marisnigri (mmPSH) is an archaeal i
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MQI</span><span class="topo-outside">RDWLPLL</span><span class="topo-membrane">GMPLMLLFVQIIAIVLV</span><span class="topo-inside">MPMQAAGLVA</span><span class="topo-unknown">FEN</span><span class="topo-inside">PSSV</span><span class="topo-membrane">ANPLIFIGMLLAFTLV</span></span>
-<span class="topo-line"><span class="topo-membrane">L</span><span class="topo-outside">LVLLRTGGRRFIAA</span><span class="topo-membrane">FIGFALFMTFLYIFGAL</span><span class="topo-inside">SLLALGPTTAAA</span><span class="topo-membrane">AGTLIGAVAVTALLY</span><span class="topo-outside">L</span></span>
-<span class="topo-line"><span class="topo-outside">YPEWY</span><span class="topo-membrane">VIDILGVLISAGVASIFGIS</span><span class="topo-inside">LEP</span><span class="topo-membrane">LPVLVLLVLLAVYDAI</span><span class="topo-outside">SVYRTKHMITLAEGV</span><span class="topo-unknown">L</span></span>
-<span class="topo-line"><span class="topo-unknown">ETKAPIMVVVPKRADYSFRKEGLNISEGEER</span><span class="topo-outside">GAF</span><span class="topo-membrane">VMGMGDLIMPSILVVS</span><span class="topo-inside">SHVF</span><span class="topo-unknown">VDAPAV</span></span>
-<span class="topo-line"><span class="topo-unknown">LWT</span><span class="topo-inside">LSAPT</span><span class="topo-membrane">LGAMVGSLVGLAVL</span><span class="topo-outside">LYFVNKGNPQAG</span><span class="topo-membrane">LPPLNGGAILGFLVG</span><span class="topo-inside">AALA</span><span class="topo-unknown">GSFSWLP</span></span>
-<span class="topo-line"><span class="topo-unknown">F</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MQI</span><span class="topo-outside">RDWLPLL</span><span class="topo-membrane">GMPLMLLFVQIIAIVLV</span><span class="topo-inside">MPMQAAGLVA</span><span class="topo-unknown">FEN</span><span class="topo-inside">PSSV</span><span class="topo-membrane">ANPLIFIGMLLAFTLVL</span><span class="topo-outside">LVLLRTGGRRFIAA</span><span class="topo-membrane">FIGFALFMTFLYIFGAL</span><span class="topo-inside">SLLALGPTTAAA</span><span class="topo-membrane">AGTLIGAVAVTALLY</span><span class="topo-outside">L</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">YPEWY</span><span class="topo-membrane">VIDILGVLISAGVASIFGIS</span><span class="topo-inside">LEP</span><span class="topo-membrane">LPVLVLLVLLAVYDAI</span><span class="topo-outside">SVYRTKHMITLAEGV</span><span class="topo-unknown">LETKAPIMVVVPKRADYSFRKEGLNISEGEER</span><span class="topo-outside">GAF</span><span class="topo-membrane">VMGMGDLIMPSILVVS</span><span class="topo-inside">SHVF</span><span class="topo-unknown">VDAPAV</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300 </span>
+<span class="topo-line"><span class="topo-unknown">LWT</span><span class="topo-inside">LSAPT</span><span class="topo-membrane">LGAMVGSLVGLAVL</span><span class="topo-outside">LYFVNKGNPQAG</span><span class="topo-membrane">LPPLNGGAILGFLVG</span><span class="topo-inside">AALA</span><span class="topo-unknown">GSFSWLPF</span></span>
+<details class="topo-details"><summary>Topology coordinates (27 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -778,6 +783,7 @@ PSH (Presenilin Homolog) from Methanoculleus marisnigri (mmPSH) is an archaeal i
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

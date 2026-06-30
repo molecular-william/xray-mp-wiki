@@ -136,8 +136,9 @@ is conserved and its coordination resembles that of cyanobacterial c-rings.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">PLIAAASVIAAG</span><span class="topo-membrane">LAVGLASIGPGVGQGTAAGQAV</span><span class="topo-outside">EGIARQPEAEDKI</span><span class="topo-membrane">RGTLLLSLAFMEA</span></span>
-<span class="topo-line"><span class="topo-membrane">LTIYGLVVAL</span><span class="topo-inside">ALLFANPFV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70         </span>
+<span class="topo-line"><span class="topo-inside">PLIAAASVIAAG</span><span class="topo-membrane">LAVGLASIGPGVGQGTAAGQAV</span><span class="topo-outside">EGIARQPEAEDKI</span><span class="topo-membrane">RGTLLLSLAFMEALTIYGLVVAL</span><span class="topo-inside">ALLFANPFV</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -184,6 +185,7 @@ is conserved and its coordination resembles that of cyanobacterial c-rings.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -199,8 +201,9 @@ is conserved and its coordination resembles that of cyanobacterial c-rings.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">PLIAAASVIAAG</span><span class="topo-membrane">LAVGLASIGPGVGQGTAAGQAV</span><span class="topo-outside">EGIARQPEAEDKI</span><span class="topo-membrane">RGTLLLSLAFMEA</span></span>
-<span class="topo-line"><span class="topo-membrane">LTIYGLVVAL</span><span class="topo-inside">ALLFANPFV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70         </span>
+<span class="topo-line"><span class="topo-inside">PLIAAASVIAAG</span><span class="topo-membrane">LAVGLASIGPGVGQGTAAGQAV</span><span class="topo-outside">EGIARQPEAEDKI</span><span class="topo-membrane">RGTLLLSLAFMEALTIYGLVVAL</span><span class="topo-inside">ALLFANPFV</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -247,6 +250,7 @@ is conserved and its coordination resembles that of cyanobacterial c-rings.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -262,8 +266,9 @@ is conserved and its coordination resembles that of cyanobacterial c-rings.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">PLIAAASVIAAG</span><span class="topo-membrane">LAVGLASIGPGVGQGTAAGQAV</span><span class="topo-outside">EGIARQPEAEDKI</span><span class="topo-membrane">RGTLLLSLAFMEA</span></span>
-<span class="topo-line"><span class="topo-membrane">LTIYGLVVAL</span><span class="topo-inside">ALLFANPFV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70         </span>
+<span class="topo-line"><span class="topo-inside">PLIAAASVIAAG</span><span class="topo-membrane">LAVGLASIGPGVGQGTAAGQAV</span><span class="topo-outside">EGIARQPEAEDKI</span><span class="topo-membrane">RGTLLLSLAFMEALTIYGLVVAL</span><span class="topo-inside">ALLFANPFV</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -310,6 +315,7 @@ is conserved and its coordination resembles that of cyanobacterial c-rings.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -325,8 +331,9 @@ is conserved and its coordination resembles that of cyanobacterial c-rings.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">PLIAAASVIAAG</span><span class="topo-membrane">LAVGLASIGPGVGQGTAAGQAV</span><span class="topo-outside">EGIARQPEAEDKI</span><span class="topo-membrane">RGTLLLSLAFMEA</span></span>
-<span class="topo-line"><span class="topo-membrane">LTIYGLVVAL</span><span class="topo-inside">ALLFANPFV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70         </span>
+<span class="topo-line"><span class="topo-inside">PLIAAASVIAAG</span><span class="topo-membrane">LAVGLASIGPGVGQGTAAGQAV</span><span class="topo-outside">EGIARQPEAEDKI</span><span class="topo-membrane">RGTLLLSLAFMEALTIYGLVVAL</span><span class="topo-inside">ALLFANPFV</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -373,6 +380,7 @@ is conserved and its coordination resembles that of cyanobacterial c-rings.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -388,8 +396,9 @@ is conserved and its coordination resembles that of cyanobacterial c-rings.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">PLIAAASVIAAG</span><span class="topo-membrane">LAVGLASIGPGVGQGTAAGQAV</span><span class="topo-outside">EGIARQPEAEDKI</span><span class="topo-membrane">RGTLLLSLAFMEA</span></span>
-<span class="topo-line"><span class="topo-membrane">LTIYGLVVAL</span><span class="topo-inside">ALLFANPFV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70         </span>
+<span class="topo-line"><span class="topo-inside">PLIAAASVIAAG</span><span class="topo-membrane">LAVGLASIGPGVGQGTAAGQAV</span><span class="topo-outside">EGIARQPEAEDKI</span><span class="topo-membrane">RGTLLLSLAFMEALTIYGLVVAL</span><span class="topo-inside">ALLFANPFV</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -436,6 +445,7 @@ is conserved and its coordination resembles that of cyanobacterial c-rings.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -451,8 +461,9 @@ is conserved and its coordination resembles that of cyanobacterial c-rings.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">PLIAAASVIAAG</span><span class="topo-membrane">LAVGLASIGPGVGQGTAAGQAV</span><span class="topo-outside">EGIARQPEAEDKI</span><span class="topo-membrane">RGTLLLSLAFMEA</span></span>
-<span class="topo-line"><span class="topo-membrane">LTIYGLVVAL</span><span class="topo-inside">ALLFANP</span><span class="topo-unknown">FV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70         </span>
+<span class="topo-line"><span class="topo-inside">PLIAAASVIAAG</span><span class="topo-membrane">LAVGLASIGPGVGQGTAAGQAV</span><span class="topo-outside">EGIARQPEAEDKI</span><span class="topo-membrane">RGTLLLSLAFMEALTIYGLVVAL</span><span class="topo-inside">ALLFANP</span><span class="topo-unknown">FV</span></span>
+<details class="topo-details"><summary>Topology coordinates (6 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -506,6 +517,7 @@ is conserved and its coordination resembles that of cyanobacterial c-rings.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -521,8 +533,9 @@ is conserved and its coordination resembles that of cyanobacterial c-rings.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">PLIAAASVIAAG</span><span class="topo-membrane">LAVGLASIGPGVGQGTAAGQAV</span><span class="topo-outside">EGIARQPEAEDKI</span><span class="topo-membrane">RGTLLLSLAFMEA</span></span>
-<span class="topo-line"><span class="topo-membrane">LTIYGLVVAL</span><span class="topo-inside">ALLFANPFV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70         </span>
+<span class="topo-line"><span class="topo-inside">PLIAAASVIAAG</span><span class="topo-membrane">LAVGLASIGPGVGQGTAAGQAV</span><span class="topo-outside">EGIARQPEAEDKI</span><span class="topo-membrane">RGTLLLSLAFMEALTIYGLVVAL</span><span class="topo-inside">ALLFANPFV</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -569,6 +582,7 @@ is conserved and its coordination resembles that of cyanobacterial c-rings.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -584,8 +598,9 @@ is conserved and its coordination resembles that of cyanobacterial c-rings.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">PLIAAASVIAAG</span><span class="topo-membrane">LAVGLASIGPGVGQGTAAGQAV</span><span class="topo-outside">EGIARQPEAEDKI</span><span class="topo-membrane">RGTLLLSLAFMEA</span></span>
-<span class="topo-line"><span class="topo-membrane">LTIYGLVVAL</span><span class="topo-inside">ALLFANPFV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70         </span>
+<span class="topo-line"><span class="topo-inside">PLIAAASVIAAG</span><span class="topo-membrane">LAVGLASIGPGVGQGTAAGQAV</span><span class="topo-outside">EGIARQPEAEDKI</span><span class="topo-membrane">RGTLLLSLAFMEALTIYGLVVAL</span><span class="topo-inside">ALLFANPFV</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -632,6 +647,7 @@ is conserved and its coordination resembles that of cyanobacterial c-rings.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -647,8 +663,9 @@ is conserved and its coordination resembles that of cyanobacterial c-rings.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">PLIAAASVIAAG</span><span class="topo-membrane">LAVGLASIGPGVGQGTAAGQAV</span><span class="topo-outside">EGIARQPEAEDKI</span><span class="topo-membrane">RGTLLLSLAFMEA</span></span>
-<span class="topo-line"><span class="topo-membrane">LTIYGLVVAL</span><span class="topo-inside">ALLFANPFV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70         </span>
+<span class="topo-line"><span class="topo-inside">PLIAAASVIAAG</span><span class="topo-membrane">LAVGLASIGPGVGQGTAAGQAV</span><span class="topo-outside">EGIARQPEAEDKI</span><span class="topo-membrane">RGTLLLSLAFMEALTIYGLVVAL</span><span class="topo-inside">ALLFANPFV</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -695,6 +712,7 @@ is conserved and its coordination resembles that of cyanobacterial c-rings.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -710,8 +728,9 @@ is conserved and its coordination resembles that of cyanobacterial c-rings.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">PLIAAASVIAAG</span><span class="topo-membrane">LAVGLASIGPGVGQGTAAGQAV</span><span class="topo-outside">EGIARQPEAEDKI</span><span class="topo-membrane">RGTLLLSLAFMEA</span></span>
-<span class="topo-line"><span class="topo-membrane">LTIYGLVVAL</span><span class="topo-inside">ALLFANPFV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70         </span>
+<span class="topo-line"><span class="topo-inside">PLIAAASVIAAG</span><span class="topo-membrane">LAVGLASIGPGVGQGTAAGQAV</span><span class="topo-outside">EGIARQPEAEDKI</span><span class="topo-membrane">RGTLLLSLAFMEALTIYGLVVAL</span><span class="topo-inside">ALLFANPFV</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -758,6 +777,7 @@ is conserved and its coordination resembles that of cyanobacterial c-rings.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -773,8 +793,9 @@ is conserved and its coordination resembles that of cyanobacterial c-rings.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">PLIAAASVIAAG</span><span class="topo-membrane">LAVGLASIGPGVGQGTAAGQAV</span><span class="topo-outside">EGIARQPEAEDKI</span><span class="topo-membrane">RGTLLLSLAFMEA</span></span>
-<span class="topo-line"><span class="topo-membrane">LTIYGLVVAL</span><span class="topo-inside">ALLFANPFV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70         </span>
+<span class="topo-line"><span class="topo-inside">PLIAAASVIAAG</span><span class="topo-membrane">LAVGLASIGPGVGQGTAAGQAV</span><span class="topo-outside">EGIARQPEAEDKI</span><span class="topo-membrane">RGTLLLSLAFMEALTIYGLVVAL</span><span class="topo-inside">ALLFANPFV</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -821,6 +842,7 @@ is conserved and its coordination resembles that of cyanobacterial c-rings.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -836,8 +858,9 @@ is conserved and its coordination resembles that of cyanobacterial c-rings.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">PLIAAASVIAAG</span><span class="topo-membrane">LAVGLASIGPGVGQGTAAGQAV</span><span class="topo-outside">EGIARQPEAEDKI</span><span class="topo-membrane">RGTLLLSLAFMEA</span></span>
-<span class="topo-line"><span class="topo-membrane">LTIYGLVVAL</span><span class="topo-inside">ALLFANPFV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70         </span>
+<span class="topo-line"><span class="topo-inside">PLIAAASVIAAG</span><span class="topo-membrane">LAVGLASIGPGVGQGTAAGQAV</span><span class="topo-outside">EGIARQPEAEDKI</span><span class="topo-membrane">RGTLLLSLAFMEALTIYGLVVAL</span><span class="topo-inside">ALLFANPFV</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -884,6 +907,7 @@ is conserved and its coordination resembles that of cyanobacterial c-rings.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -899,8 +923,9 @@ is conserved and its coordination resembles that of cyanobacterial c-rings.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">PLIAAASVIAAG</span><span class="topo-membrane">LAVGLASIGPGVGQGTAAGQAV</span><span class="topo-outside">EGIARQPEAEDKI</span><span class="topo-membrane">RGTLLLSLAFMEA</span></span>
-<span class="topo-line"><span class="topo-membrane">LTIYGLVVAL</span><span class="topo-inside">ALLFANPFV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70         </span>
+<span class="topo-line"><span class="topo-inside">PLIAAASVIAAG</span><span class="topo-membrane">LAVGLASIGPGVGQGTAAGQAV</span><span class="topo-outside">EGIARQPEAEDKI</span><span class="topo-membrane">RGTLLLSLAFMEALTIYGLVVAL</span><span class="topo-inside">ALLFANPFV</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -947,6 +972,7 @@ is conserved and its coordination resembles that of cyanobacterial c-rings.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -962,8 +988,9 @@ is conserved and its coordination resembles that of cyanobacterial c-rings.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">PLIAAASVIAAG</span><span class="topo-membrane">LAVGLASIGPGVGQGTAAGQAV</span><span class="topo-outside">EGIARQPEAEDKI</span><span class="topo-membrane">RGTLLLSLAFMEA</span></span>
-<span class="topo-line"><span class="topo-membrane">LTIYGLVVAL</span><span class="topo-inside">ALLFANPFV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70         </span>
+<span class="topo-line"><span class="topo-inside">PLIAAASVIAAG</span><span class="topo-membrane">LAVGLASIGPGVGQGTAAGQAV</span><span class="topo-outside">EGIARQPEAEDKI</span><span class="topo-membrane">RGTLLLSLAFMEALTIYGLVVAL</span><span class="topo-inside">ALLFANPFV</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1010,6 +1037,7 @@ is conserved and its coordination resembles that of cyanobacterial c-rings.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

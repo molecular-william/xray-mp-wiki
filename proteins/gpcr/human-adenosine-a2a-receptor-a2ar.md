@@ -124,15 +124,17 @@ The human adenosine A2A receptor (A2AR) is a class A GPCR that regulates glutama
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">DYKDDDDAMGQPVGAPP</span><span class="topo-outside">IMGSS</span><span class="topo-membrane">VYITVELAIAVLAILGNVLVCWA</span><span class="topo-inside">VWLNSNLQNVT</span><span class="topo-membrane">NYFV</span></span>
-<span class="topo-line"><span class="topo-membrane">VSLAAADIAVGVLAIPFAITI</span><span class="topo-outside">STGFCAACHGCL</span><span class="topo-membrane">FIACFVLVLTQSSIFSLLAIAIDRY</span><span class="topo-inside">IA</span></span>
-<span class="topo-line"><span class="topo-inside">IRIPLRYNGLVTGTR</span><span class="topo-membrane">AKGIIAICWVLSFAIGLTPMLGW</span><span class="topo-outside">NNCGQ</span><span class="topo-unknown">PKEGKNH</span><span class="topo-outside">SQGCGEGQVA</span></span>
-<span class="topo-line"><span class="topo-outside">CLFEDVVPMN</span><span class="topo-membrane">YMVYFNFFACVLVPLLLMLGVYLRIFL</span><span class="topo-inside">AARRQLNIFEMLRIDEGLRLKIY</span></span>
-<span class="topo-line"><span class="topo-inside">KDTEGYYTIGIGHLLTKSPSLNAAKSELDKAIGRNTNGVITKDEAEKLFNQDVDAAVRGI</span></span>
-<span class="topo-line"><span class="topo-inside">LRNAKLKPVYDSLDAVRRAALINMVFQMGETGVAGFTNSLRMLQQKRWDEAAVNLAKSRW</span></span>
-<span class="topo-line"><span class="topo-inside">YNQTPNRAKRVITTFRTGTWDAYRSTLQKEVHAA</span><span class="topo-membrane">KSLAIIVGLFALCWLPLHIINC</span><span class="topo-outside">FTFF</span></span>
-<span class="topo-line"><span class="topo-outside">CPDCSHAPLWL</span><span class="topo-membrane">MYLAIVLSHTNSVVNPFIYAYR</span><span class="topo-inside">I</span><span class="topo-unknown">REFRQTFRKIIRS</span><span class="topo-inside">HVLRQ</span><span class="topo-unknown">QEPFKAHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">DYKDDDDAMGQPVGAPP</span><span class="topo-outside">IMGSS</span><span class="topo-membrane">VYITVELAIAVLAILGNVLVCWA</span><span class="topo-inside">VWLNSNLQNVT</span><span class="topo-membrane">NYFVVSLAAADIAVGVLAIPFAITI</span><span class="topo-outside">STGFCAACHGCL</span><span class="topo-membrane">FIACFVLVLTQSSIFSLLAIAIDRY</span><span class="topo-inside">IA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">IRIPLRYNGLVTGTR</span><span class="topo-membrane">AKGIIAICWVLSFAIGLTPMLGW</span><span class="topo-outside">NNCGQ</span><span class="topo-unknown">PKEGKNH</span><span class="topo-outside">SQGCGEGQVACLFEDVVPMN</span><span class="topo-membrane">YMVYFNFFACVLVPLLLMLGVYLRIFL</span><span class="topo-inside">AARRQLNIFEMLRIDEGLRLKIY</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">KDTEGYYTIGIGHLLTKSPSLNAAKSELDKAIGRNTNGVITKDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVFQMGETGVAGFTNSLRMLQQKRWDEAAVNLAKSRW</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">YNQTPNRAKRVITTFRTGTWDAYRSTLQKEVHAA</span><span class="topo-membrane">KSLAIIVGLFALCWLPLHIINC</span><span class="topo-outside">FTFFCPDCSHAPLWL</span><span class="topo-membrane">MYLAIVLSHTNSVVNPFIYAYR</span><span class="topo-inside">I</span><span class="topo-unknown">REFRQTFRKIIRS</span><span class="topo-inside">HVLRQ</span><span class="topo-unknown">QEPFKAHH</span></span>
+<span class="topo-ruler">        </span>
 <span class="topo-line"><span class="topo-unknown">HHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -291,6 +293,7 @@ The human adenosine A2A receptor (A2AR) is a class A GPCR that regulates glutama
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -355,12 +358,13 @@ The human adenosine A2A receptor (A2AR) is a class A GPCR that regulates glutama
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MPIMGS</span><span class="topo-outside">SVY</span><span class="topo-membrane">ITVELAIAVLAILGNVLVCWAVWL</span><span class="topo-inside">NSNLQNV</span><span class="topo-membrane">TNYFVVSLAAADILVGVLAI</span></span>
-<span class="topo-line"><span class="topo-membrane">PFA</span><span class="topo-outside">ITISTGFCAACHGCLFIAC</span><span class="topo-membrane">FVLVLAQSSIFSLLAIAIDRY</span><span class="topo-inside">IAIAIPLRYNGLVTG</span><span class="topo-membrane">TR</span></span>
-<span class="topo-line"><span class="topo-membrane">AAGIIAICWVLSFAIGLT</span><span class="topo-outside">PMLGWNNCGQP</span><span class="topo-unknown">KEGKNHSQ</span><span class="topo-outside">GCGEGQVACLFEDVVPMNYM</span><span class="topo-membrane">VYF</span></span>
-<span class="topo-line"><span class="topo-membrane">NFFACVLVPLLLMLGVYLRIFA</span><span class="topo-inside">AARRQLKQMESQPLPGERARSTLQKEVHA</span><span class="topo-membrane">AKSAAIIAG</span></span>
-<span class="topo-line"><span class="topo-membrane">LFALCWLPLHII</span><span class="topo-outside">NCFTFFCPDCSHAPLWLMYL</span><span class="topo-membrane">AIVLAHTNSVVNPFIYAYRI</span><span class="topo-inside">REFRQTFR</span></span>
-<span class="topo-line"><span class="topo-inside">KIIRS</span><span class="topo-unknown">HVLRQQEPFKAAAAHHHHHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MPIMGS</span><span class="topo-outside">SVY</span><span class="topo-membrane">ITVELAIAVLAILGNVLVCWAVWL</span><span class="topo-inside">NSNLQNV</span><span class="topo-membrane">TNYFVVSLAAADILVGVLAIPFA</span><span class="topo-outside">ITISTGFCAACHGCLFIAC</span><span class="topo-membrane">FVLVLAQSSIFSLLAIAIDRY</span><span class="topo-inside">IAIAIPLRYNGLVTG</span><span class="topo-membrane">TR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">AAGIIAICWVLSFAIGLT</span><span class="topo-outside">PMLGWNNCGQP</span><span class="topo-unknown">KEGKNHSQ</span><span class="topo-outside">GCGEGQVACLFEDVVPMNYM</span><span class="topo-membrane">VYFNFFACVLVPLLLMLGVYLRIFA</span><span class="topo-inside">AARRQLKQMESQPLPGERARSTLQKEVHA</span><span class="topo-membrane">AKSAAIIAG</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320         </span>
+<span class="topo-line"><span class="topo-membrane">LFALCWLPLHII</span><span class="topo-outside">NCFTFFCPDCSHAPLWLMYL</span><span class="topo-membrane">AIVLAHTNSVVNPFIYAYRI</span><span class="topo-inside">REFRQTFRKIIRS</span><span class="topo-unknown">HVLRQQEPFKAAAAHHHHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -505,6 +509,7 @@ The human adenosine A2A receptor (A2AR) is a class A GPCR that regulates glutama
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -520,12 +525,13 @@ The human adenosine A2A receptor (A2AR) is a class A GPCR that regulates glutama
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MPIMGS</span><span class="topo-outside">SVY</span><span class="topo-membrane">ITVELAIAVLAILGNVLVCWAVW</span><span class="topo-inside">LNSNLQNVTN</span><span class="topo-membrane">YFVVSLAAADILVGVLAI</span></span>
-<span class="topo-line"><span class="topo-membrane">PFAI</span><span class="topo-outside">TISTGFCAACHGCL</span><span class="topo-membrane">FIACFVLVLAQSSIFSLLAIAID</span><span class="topo-inside">RYIAIAIPLRYNGLVTGTR</span></span>
-<span class="topo-line"><span class="topo-inside">A</span><span class="topo-membrane">AGIIAICWVLSFAIGLTPMLGW</span><span class="topo-outside">NNCGQP</span><span class="topo-unknown">KEGKNHSQ</span><span class="topo-outside">GCGEGQVACLFEDVVPM</span><span class="topo-membrane">NYMVYF</span></span>
-<span class="topo-line"><span class="topo-membrane">NFFACVLVPLLLMLGVYLR</span><span class="topo-inside">IFAAARRQLKQMESQPLPGERARSTLQKEVHAA</span><span class="topo-membrane">KSAAIIAG</span></span>
-<span class="topo-line"><span class="topo-membrane">LFALCWLPLHIINCF</span><span class="topo-outside">TFFCPDCSHAPLWLMY</span><span class="topo-membrane">LAIVLAHTNSVVNPFIYAYRI</span><span class="topo-inside">REFRQTFR</span></span>
-<span class="topo-line"><span class="topo-inside">KIIRS</span><span class="topo-unknown">HVLRQQEPFKAAAAHHHHHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MPIMGS</span><span class="topo-outside">SVY</span><span class="topo-membrane">ITVELAIAVLAILGNVLVCWAVW</span><span class="topo-inside">LNSNLQNVTN</span><span class="topo-membrane">YFVVSLAAADILVGVLAIPFAI</span><span class="topo-outside">TISTGFCAACHGCL</span><span class="topo-membrane">FIACFVLVLAQSSIFSLLAIAID</span><span class="topo-inside">RYIAIAIPLRYNGLVTGTR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">A</span><span class="topo-membrane">AGIIAICWVLSFAIGLTPMLGW</span><span class="topo-outside">NNCGQP</span><span class="topo-unknown">KEGKNHSQ</span><span class="topo-outside">GCGEGQVACLFEDVVPM</span><span class="topo-membrane">NYMVYFNFFACVLVPLLLMLGVYLR</span><span class="topo-inside">IFAAARRQLKQMESQPLPGERARSTLQKEVHAA</span><span class="topo-membrane">KSAAIIAG</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320         </span>
+<span class="topo-line"><span class="topo-membrane">LFALCWLPLHIINCF</span><span class="topo-outside">TFFCPDCSHAPLWLMY</span><span class="topo-membrane">LAIVLAHTNSVVNPFIYAYRI</span><span class="topo-inside">REFRQTFRKIIRS</span><span class="topo-unknown">HVLRQQEPFKAAAAHHHHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -670,6 +676,7 @@ The human adenosine A2A receptor (A2AR) is a class A GPCR that regulates glutama
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -685,12 +692,13 @@ The human adenosine A2A receptor (A2AR) is a class A GPCR that regulates glutama
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MPIMGS</span><span class="topo-inside">SVY</span><span class="topo-membrane">ITVELAIAVLAILGNVLVCWAVWL</span><span class="topo-outside">NSNLQNV</span><span class="topo-membrane">TNYFVVSLAAADILVGVLAI</span></span>
-<span class="topo-line"><span class="topo-membrane">PFA</span><span class="topo-inside">ITISTGFCAACHGCLF</span><span class="topo-membrane">IACFVLVLAQSSIFSLLAIAIDR</span><span class="topo-outside">YIAIAIPLRYNGLVTG</span><span class="topo-membrane">TR</span></span>
-<span class="topo-line"><span class="topo-membrane">AAGIIAICWVLSFAIGLTPML</span><span class="topo-inside">GWNNCGQP</span><span class="topo-unknown">KEGKNHSQ</span><span class="topo-inside">GCGEGQVACLFEDVVPMN</span><span class="topo-membrane">YMVYF</span></span>
-<span class="topo-line"><span class="topo-membrane">NFFACVLVPLLLMLGVYLR</span><span class="topo-outside">IFAAARRQLKQMESQPLPGERARSTLQKEVHAA</span><span class="topo-membrane">KSAAIIAG</span></span>
-<span class="topo-line"><span class="topo-membrane">LFALCWLPLHIINCF</span><span class="topo-inside">TFFCPDCSHAPLWLMY</span><span class="topo-membrane">LAIVLAHTNSVVNPFIYAYRI</span><span class="topo-outside">REFRQTFR</span></span>
-<span class="topo-line"><span class="topo-outside">KIIRS</span><span class="topo-unknown">HVLRQQEPFKAAAAHHHHHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MPIMGS</span><span class="topo-inside">SVY</span><span class="topo-membrane">ITVELAIAVLAILGNVLVCWAVWL</span><span class="topo-outside">NSNLQNV</span><span class="topo-membrane">TNYFVVSLAAADILVGVLAIPFA</span><span class="topo-inside">ITISTGFCAACHGCLF</span><span class="topo-membrane">IACFVLVLAQSSIFSLLAIAIDR</span><span class="topo-outside">YIAIAIPLRYNGLVTG</span><span class="topo-membrane">TR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">AAGIIAICWVLSFAIGLTPML</span><span class="topo-inside">GWNNCGQP</span><span class="topo-unknown">KEGKNHSQ</span><span class="topo-inside">GCGEGQVACLFEDVVPMN</span><span class="topo-membrane">YMVYFNFFACVLVPLLLMLGVYLR</span><span class="topo-outside">IFAAARRQLKQMESQPLPGERARSTLQKEVHAA</span><span class="topo-membrane">KSAAIIAG</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320         </span>
+<span class="topo-line"><span class="topo-membrane">LFALCWLPLHIINCF</span><span class="topo-inside">TFFCPDCSHAPLWLMY</span><span class="topo-membrane">LAIVLAHTNSVVNPFIYAYRI</span><span class="topo-outside">REFRQTFRKIIRS</span><span class="topo-unknown">HVLRQQEPFKAAAAHHHHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -835,6 +843,7 @@ The human adenosine A2A receptor (A2AR) is a class A GPCR that regulates glutama
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -885,12 +894,13 @@ The human adenosine A2A receptor (A2AR) is a class A GPCR that regulates glutama
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MPIMG</span><span class="topo-outside">SSV</span><span class="topo-membrane">YITVELAIAVLAILGNVLVCWA</span><span class="topo-inside">VWLNSNLQNVTN</span><span class="topo-membrane">YFVVSLAAADIAVGVLAI</span></span>
-<span class="topo-line"><span class="topo-membrane">PFAI</span><span class="topo-outside">TISTGFCAACHGCLFI</span><span class="topo-membrane">ACFVLVLTQSSIFSLLAIAID</span><span class="topo-inside">RYIAIRIPLRYNGLVTGT</span><span class="topo-membrane">R</span></span>
-<span class="topo-line"><span class="topo-membrane">AKGIIAICWVLSFAIGLT</span><span class="topo-outside">PMLGWNNC</span><span class="topo-unknown">GQPKEGKAHSQG</span><span class="topo-outside">CGEGQVACLFEDVVPMNY</span><span class="topo-membrane">MVYF</span></span>
-<span class="topo-line"><span class="topo-membrane">NFFACVLVPLLLMLGVYLR</span><span class="topo-inside">IFLAARRQLKQM</span><span class="topo-unknown">ESQPLPGERARS</span><span class="topo-inside">TLQKEVHAA</span><span class="topo-membrane">KSLAIIVG</span></span>
-<span class="topo-line"><span class="topo-membrane">LFALCWLPLHIINC</span><span class="topo-outside">FTFFCPDCSHAPLWL</span><span class="topo-membrane">MYLAIVLSHTNSVVNPFIYAY</span><span class="topo-inside">RI</span><span class="topo-unknown">REFRQTFR</span></span>
-<span class="topo-line"><span class="topo-unknown">KIIRSHVLEN</span><span class="topo-inside">LY</span><span class="topo-unknown">FQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MPIMG</span><span class="topo-outside">SSV</span><span class="topo-membrane">YITVELAIAVLAILGNVLVCWA</span><span class="topo-inside">VWLNSNLQNVTN</span><span class="topo-membrane">YFVVSLAAADIAVGVLAIPFAI</span><span class="topo-outside">TISTGFCAACHGCLFI</span><span class="topo-membrane">ACFVLVLTQSSIFSLLAIAID</span><span class="topo-inside">RYIAIRIPLRYNGLVTGT</span><span class="topo-membrane">R</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">AKGIIAICWVLSFAIGLT</span><span class="topo-outside">PMLGWNNC</span><span class="topo-unknown">GQPKEGKAHSQG</span><span class="topo-outside">CGEGQVACLFEDVVPMNY</span><span class="topo-membrane">MVYFNFFACVLVPLLLMLGVYLR</span><span class="topo-inside">IFLAARRQLKQM</span><span class="topo-unknown">ESQPLPGERARS</span><span class="topo-inside">TLQKEVHAA</span><span class="topo-membrane">KSLAIIVG</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310    </span>
+<span class="topo-line"><span class="topo-membrane">LFALCWLPLHIINC</span><span class="topo-outside">FTFFCPDCSHAPLWL</span><span class="topo-membrane">MYLAIVLSHTNSVVNPFIYAY</span><span class="topo-inside">RI</span><span class="topo-unknown">REFRQTFRKIIRSHVLEN</span><span class="topo-inside">LY</span><span class="topo-unknown">FQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1035,6 +1045,7 @@ The human adenosine A2A receptor (A2AR) is a class A GPCR that regulates glutama
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1050,10 +1061,11 @@ The human adenosine A2A receptor (A2AR) is a class A GPCR that regulates glutama
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GIEKQLQKDKQVYRA</span><span class="topo-inside">THRLLLLGADNSGKSTIVKQMR</span><span class="topo-unknown">IYHGGSGGSGGTSGI</span><span class="topo-inside">FETKFQVD</span></span>
-<span class="topo-line"><span class="topo-inside">KVNFHMFDVGGQRDERRKWIQCFNDVTAIIFVVDSSDYNRLQEALNDFKSIWNNRWLRTI</span></span>
-<span class="topo-line"><span class="topo-inside">SVILFLNKQDLLAEKVLAGKSKIEDYFPEFARYTTPEDATPEPGEDPRVTRAKYFIRDEF</span></span>
-<span class="topo-line"><span class="topo-inside">LRISTASGDGRHYCYPHFTC</span><span class="topo-unknown">AVD</span><span class="topo-inside">TENARRIFNDCRDIIQRMHLRQYELL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GIEKQLQKDKQVYRA</span><span class="topo-inside">THRLLLLGADNSGKSTIVKQMR</span><span class="topo-unknown">IYHGGSGGSGGTSGI</span><span class="topo-inside">FETKFQVDKVNFHMFDVGGQRDERRKWIQCFNDVTAIIFVVDSSDYNRLQEALNDFKSIWNNRWLRTI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220         </span>
+<span class="topo-line"><span class="topo-inside">SVILFLNKQDLLAEKVLAGKSKIEDYFPEFARYTTPEDATPEPGEDPRVTRAKYFIRDEFLRISTASGDGRHYCYPHFTC</span><span class="topo-unknown">AVD</span><span class="topo-inside">TENARRIFNDCRDIIQRMHLRQYELL</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1086,6 +1098,7 @@ The human adenosine A2A receptor (A2AR) is a class A GPCR that regulates glutama
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1136,12 +1149,13 @@ The human adenosine A2A receptor (A2AR) is a class A GPCR that regulates glutama
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MKTIIALSYIFCLVFADYKDDDDGAPP</span><span class="topo-outside">IMGS</span><span class="topo-membrane">SVYITVELAIAVLAILGNVLVCWAV</span><span class="topo-inside">WLNS</span></span>
-<span class="topo-line"><span class="topo-inside">NLQNVT</span><span class="topo-membrane">NYFVVSLAAADIAVGVLAIPFAITIS</span><span class="topo-outside">TGFCAACHG</span><span class="topo-membrane">CLAIACFVLVLTQSSIFSL</span></span>
-<span class="topo-line"><span class="topo-membrane">LAIAIDRYI</span><span class="topo-inside">AIRIPLRYNGLVTGT</span><span class="topo-membrane">RAKGIIAICWVLSFAIGLTPML</span><span class="topo-outside">GWNNCG</span><span class="topo-unknown">QPKEGKQH</span></span>
-<span class="topo-line"><span class="topo-outside">SQGCGEGQVACLFEDVVPM</span><span class="topo-membrane">NYMVYFNFFLCVLVPLLLMLGVYLAIFL</span><span class="topo-inside">AARRQAKQMESQP</span></span>
-<span class="topo-line"><span class="topo-inside">LPGERARSTLQKEVHA</span><span class="topo-membrane">AKSLAIIVGLFALCWLPLHIINCF</span><span class="topo-outside">TFFCPDCSHAPLW</span><span class="topo-membrane">LMYAAIV</span></span>
-<span class="topo-line"><span class="topo-membrane">LSHTNSVVNPFIYAYR</span><span class="topo-inside">IREFRQTFRKIIRSHV</span><span class="topo-unknown">LRQQEPFKAHHHHHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MKTIIALSYIFCLVFADYKDDDDGAPP</span><span class="topo-outside">IMGS</span><span class="topo-membrane">SVYITVELAIAVLAILGNVLVCWAV</span><span class="topo-inside">WLNSNLQNVT</span><span class="topo-membrane">NYFVVSLAAADIAVGVLAIPFAITIS</span><span class="topo-outside">TGFCAACHG</span><span class="topo-membrane">CLAIACFVLVLTQSSIFSL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">LAIAIDRYI</span><span class="topo-inside">AIRIPLRYNGLVTGT</span><span class="topo-membrane">RAKGIIAICWVLSFAIGLTPML</span><span class="topo-outside">GWNNCG</span><span class="topo-unknown">QPKEGKQH</span><span class="topo-outside">SQGCGEGQVACLFEDVVPM</span><span class="topo-membrane">NYMVYFNFFLCVLVPLLLMLGVYLAIFL</span><span class="topo-inside">AARRQAKQMESQP</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350 </span>
+<span class="topo-line"><span class="topo-inside">LPGERARSTLQKEVHA</span><span class="topo-membrane">AKSLAIIVGLFALCWLPLHIINCF</span><span class="topo-outside">TFFCPDCSHAPLW</span><span class="topo-membrane">LMYAAIVLSHTNSVVNPFIYAYR</span><span class="topo-inside">IREFRQTFRKIIRSHV</span><span class="topo-unknown">LRQQEPFKAHHHHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1286,6 +1300,7 @@ The human adenosine A2A receptor (A2AR) is a class A GPCR that regulates glutama
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1343,15 +1358,17 @@ The human adenosine A2A receptor (A2AR) is a class A GPCR that regulates glutama
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MKTIIALSYIFCLVFADYKDDDDAMGQPVGAPP</span><span class="topo-outside">IMG</span><span class="topo-membrane">SSVYITVELAIAVLAILGNV</span><span class="topo-inside">LVCW</span></span>
-<span class="topo-line"><span class="topo-inside">AVWLNSNLQNVTNYFVVSL</span><span class="topo-membrane">AAANIAVGVLAIPFAITIS</span><span class="topo-outside">TGFCAAC</span><span class="topo-membrane">HGCLFIACFVLVLTQ</span></span>
-<span class="topo-line"><span class="topo-membrane">SSIF</span><span class="topo-inside">SLLAIAIDRYIAIRIPLRYNGLVTGTRAKGIIAIC</span><span class="topo-membrane">WVLSFAIGLTPMLGWNNC</span><span class="topo-outside">GQ</span><span class="topo-unknown">P</span></span>
-<span class="topo-line"><span class="topo-unknown">KEGKNHS</span><span class="topo-outside">QGCGEGQVACL</span><span class="topo-membrane">FEDVVPMNYMVYFNFFACVLVPLL</span><span class="topo-inside">LMLGVYLRIFLAARRQLN</span></span>
-<span class="topo-line"><span class="topo-inside">IFEMLRIDEGLRLKIYKDTEGYYTIGIGHLLTKSPSLNAAKSELDKAIGRNTNGVITKDE</span></span>
-<span class="topo-line"><span class="topo-inside">AEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVFQMGETGVAGFTNSLRMLQ</span></span>
-<span class="topo-line"><span class="topo-inside">QKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWDAYRSTLQKEVHAAKSLAIIV</span><span class="topo-membrane">GLF</span></span>
-<span class="topo-line"><span class="topo-membrane">ALCWLPLHIINCFTFFC</span><span class="topo-outside">PDCSH</span><span class="topo-membrane">APLWLMYLAIVLSHTNSVVN</span><span class="topo-inside">PFIYAYRI</span><span class="topo-unknown">REFRQTFRKI</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MKTIIALSYIFCLVFADYKDDDDAMGQPVGAPP</span><span class="topo-outside">IMG</span><span class="topo-membrane">SSVYITVELAIAVLAILGNV</span><span class="topo-inside">LVCWAVWLNSNLQNVTNYFVVSL</span><span class="topo-membrane">AAANIAVGVLAIPFAITIS</span><span class="topo-outside">TGFCAAC</span><span class="topo-membrane">HGCLFIACFVLVLTQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">SSIF</span><span class="topo-inside">SLLAIAIDRYIAIRIPLRYNGLVTGTRAKGIIAIC</span><span class="topo-membrane">WVLSFAIGLTPMLGWNNC</span><span class="topo-outside">GQ</span><span class="topo-unknown">PKEGKNHS</span><span class="topo-outside">QGCGEGQVACL</span><span class="topo-membrane">FEDVVPMNYMVYFNFFACVLVPLL</span><span class="topo-inside">LMLGVYLRIFLAARRQLN</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">IFEMLRIDEGLRLKIYKDTEGYYTIGIGHLLTKSPSLNAAKSELDKAIGRNTNGVITKDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVFQMGETGVAGFTNSLRMLQ</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">QKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWDAYRSTLQKEVHAAKSLAIIV</span><span class="topo-membrane">GLFALCWLPLHIINCFTFFC</span><span class="topo-outside">PDCSH</span><span class="topo-membrane">APLWLMYLAIVLSHTNSVVN</span><span class="topo-inside">PFIYAYRI</span><span class="topo-unknown">REFRQTFRKI</span></span>
+<span class="topo-ruler">       490       500    </span>
 <span class="topo-line"><span class="topo-unknown">IRSH</span><span class="topo-inside">V</span><span class="topo-unknown">LRQQEPFKAHHHHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1489,6 +1506,7 @@ The human adenosine A2A receptor (A2AR) is a class A GPCR that regulates glutama
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1504,15 +1522,17 @@ The human adenosine A2A receptor (A2AR) is a class A GPCR that regulates glutama
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MKTIIALSYIFCLVFADYKDDDDAMGQPVGAPP</span><span class="topo-outside">IMGS</span><span class="topo-membrane">SVYITVELAIAVLAILGNV</span><span class="topo-inside">LVCW</span></span>
-<span class="topo-line"><span class="topo-inside">AVWLNSNLQNVTNYFVVSL</span><span class="topo-membrane">AAADIAVGVLAIPFAITIS</span><span class="topo-outside">TGFCAACH</span><span class="topo-membrane">GCLFIACFVLVLTQ</span></span>
-<span class="topo-line"><span class="topo-membrane">SAIFSL</span><span class="topo-inside">LAIAIDRYIAIRIPLRYNGLVTGTRAKGIIAI</span><span class="topo-membrane">CWVLSFAIGLTPMLGWN</span><span class="topo-outside">NC</span><span class="topo-unknown">GQP</span></span>
-<span class="topo-line"><span class="topo-unknown">KEGKNHSQ</span><span class="topo-outside">GCGEGQVACLFEDV</span><span class="topo-membrane">VPMNYMVYFNFFACVLVPLLL</span><span class="topo-inside">MLGVYLRIFLAARRQLN</span></span>
-<span class="topo-line"><span class="topo-inside">IFEMLRIDEGLRLKIYKDTEGYYTIGIGHLLTKSPSLNAAKSELDKAIGRNTNGVITKDE</span></span>
-<span class="topo-line"><span class="topo-inside">AEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVFQMGETGVAGFTNSLRMLQ</span></span>
-<span class="topo-line"><span class="topo-inside">QKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWDAYRSTLQKEVHAAKSLAI</span><span class="topo-membrane">IVGLF</span></span>
-<span class="topo-line"><span class="topo-membrane">ALCWLPLHIINCFTFFC</span><span class="topo-outside">PDCSHAPLW</span><span class="topo-membrane">LMYLAIVLSHTNSVVNPF</span><span class="topo-inside">IYAYRI</span><span class="topo-unknown">REFRQTFRKI</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MKTIIALSYIFCLVFADYKDDDDAMGQPVGAPP</span><span class="topo-outside">IMGS</span><span class="topo-membrane">SVYITVELAIAVLAILGNV</span><span class="topo-inside">LVCWAVWLNSNLQNVTNYFVVSL</span><span class="topo-membrane">AAADIAVGVLAIPFAITIS</span><span class="topo-outside">TGFCAACH</span><span class="topo-membrane">GCLFIACFVLVLTQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">SAIFSL</span><span class="topo-inside">LAIAIDRYIAIRIPLRYNGLVTGTRAKGIIAI</span><span class="topo-membrane">CWVLSFAIGLTPMLGWN</span><span class="topo-outside">NC</span><span class="topo-unknown">GQPKEGKNHSQ</span><span class="topo-outside">GCGEGQVACLFEDV</span><span class="topo-membrane">VPMNYMVYFNFFACVLVPLLL</span><span class="topo-inside">MLGVYLRIFLAARRQLN</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">IFEMLRIDEGLRLKIYKDTEGYYTIGIGHLLTKSPSLNAAKSELDKAIGRNTNGVITKDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVFQMGETGVAGFTNSLRMLQ</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">QKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWDAYRSTLQKEVHAAKSLAI</span><span class="topo-membrane">IVGLFALCWLPLHIINCFTFFC</span><span class="topo-outside">PDCSHAPLW</span><span class="topo-membrane">LMYLAIVLSHTNSVVNPF</span><span class="topo-inside">IYAYRI</span><span class="topo-unknown">REFRQTFRKI</span></span>
+<span class="topo-ruler">       490       500    </span>
 <span class="topo-line"><span class="topo-unknown">IRSH</span><span class="topo-inside">V</span><span class="topo-unknown">LRQQEPFKAHHHHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1650,6 +1670,7 @@ The human adenosine A2A receptor (A2AR) is a class A GPCR that regulates glutama
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1700,14 +1721,15 @@ The human adenosine A2A receptor (A2AR) is a class A GPCR that regulates glutama
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">DYKDDDD</span><span class="topo-outside">GAPPIMGSS</span><span class="topo-membrane">VYITVELAIAVLAILGNVLVCWAVWL</span><span class="topo-inside">NSNLQNV</span><span class="topo-membrane">TNYFVVSLAAA</span></span>
-<span class="topo-line"><span class="topo-membrane">DILVGVLAIPFAIT</span><span class="topo-outside">ISTGFCAACHGCL</span><span class="topo-membrane">FIACFVLVLAQSSIFSLLAIAIDR</span><span class="topo-inside">YIAIAIPLR</span></span>
-<span class="topo-line"><span class="topo-inside">YNGLVTG</span><span class="topo-membrane">TRAAGIIAICWVLSFAIGLTPMLGW</span><span class="topo-outside">NNCGQPKEGKAHSQGCGEGQVACLFEDV</span></span>
-<span class="topo-line"><span class="topo-outside">VPM</span><span class="topo-membrane">NYMVYFNFFACVLVPLLLMLGVYLR</span><span class="topo-inside">IFAAARRQLADLEDNWETLNDNLKVIEKADNA</span></span>
-<span class="topo-line"><span class="topo-inside">AQVKDALTKMRAAALDAQ</span><span class="topo-unknown">KATPPKLEDKSPDSPEMKDFRH</span><span class="topo-inside">GFDILVGQIDDALKLANEGK</span></span>
-<span class="topo-line"><span class="topo-inside">VKEAQAAAEQLKTTRNAYIQKYLERARSTLQKEVHAA</span><span class="topo-membrane">KSAAIIAGLFALCWLPLHIINCF</span></span>
-<span class="topo-line"><span class="topo-outside">TFFCPDCSHAPLW</span><span class="topo-membrane">LMYLAIVLAHTNSVVNPFIYAYR</span><span class="topo-inside">IREFRQTFRKIIRS</span><span class="topo-unknown">HVLRQQEPFK</span></span>
-<span class="topo-line"><span class="topo-unknown">AAAHHHHHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">DYKDDDD</span><span class="topo-outside">GAPPIMGSS</span><span class="topo-membrane">VYITVELAIAVLAILGNVLVCWAVWL</span><span class="topo-inside">NSNLQNV</span><span class="topo-membrane">TNYFVVSLAAADILVGVLAIPFAIT</span><span class="topo-outside">ISTGFCAACHGCL</span><span class="topo-membrane">FIACFVLVLAQSSIFSLLAIAIDR</span><span class="topo-inside">YIAIAIPLR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">YNGLVTG</span><span class="topo-membrane">TRAAGIIAICWVLSFAIGLTPMLGW</span><span class="topo-outside">NNCGQPKEGKAHSQGCGEGQVACLFEDVVPM</span><span class="topo-membrane">NYMVYFNFFACVLVPLLLMLGVYLR</span><span class="topo-inside">IFAAARRQLADLEDNWETLNDNLKVIEKADNA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">AQVKDALTKMRAAALDAQ</span><span class="topo-unknown">KATPPKLEDKSPDSPEMKDFRH</span><span class="topo-inside">GFDILVGQIDDALKLANEGKVKEAQAAAEQLKTTRNAYIQKYLERARSTLQKEVHAA</span><span class="topo-membrane">KSAAIIAGLFALCWLPLHIINCF</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430   </span>
+<span class="topo-line"><span class="topo-outside">TFFCPDCSHAPLW</span><span class="topo-membrane">LMYLAIVLAHTNSVVNPFIYAYR</span><span class="topo-inside">IREFRQTFRKIIRS</span><span class="topo-unknown">HVLRQQEPFKAAAHHHHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1866,6 +1888,7 @@ The human adenosine A2A receptor (A2AR) is a class A GPCR that regulates glutama
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1923,14 +1946,15 @@ The human adenosine A2A receptor (A2AR) is a class A GPCR that regulates glutama
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MKTIIALSYIFCLVFADYKDD</span><span class="topo-inside">DDGAPPIMGSS</span><span class="topo-membrane">VYITVELAIAVLAILGNVLVCWAVWL</span><span class="topo-outside">NS</span></span>
-<span class="topo-line"><span class="topo-outside">NLQNV</span><span class="topo-membrane">TNYFVVSLAAADILVGVLAIPFAIT</span><span class="topo-inside">ISTGFCAACHGCLF</span><span class="topo-membrane">IACFVLVLAQSSIFSL</span></span>
-<span class="topo-line"><span class="topo-membrane">LAIAIDRY</span><span class="topo-outside">IAIAIPLRYNGLVTG</span><span class="topo-membrane">TRAAGIIAICWVLSFAIGLTPML</span><span class="topo-inside">GWNNCGQPKEGKAH</span></span>
-<span class="topo-line"><span class="topo-inside">SQGCGEGQVACLFEDVVPM</span><span class="topo-membrane">NYMVYFNFFACVLVPLLLMLGVYLRI</span><span class="topo-outside">FAAARRQLADLEDNW</span></span>
-<span class="topo-line"><span class="topo-outside">ETLNDNLKVIEKADNAAQVKDALTKMRAAALDAQK</span><span class="topo-unknown">ATPPKLEDKSPD</span><span class="topo-outside">SPEMKDFRHGFDI</span></span>
-<span class="topo-line"><span class="topo-outside">LVGQIDDALKLANEGKVKEAQAAAEQLKTTRNAYIQKYLERARSTLQKEVHAA</span><span class="topo-membrane">KSAAIIA</span></span>
-<span class="topo-line"><span class="topo-membrane">GLFALCWLPLHIINCF</span><span class="topo-inside">TFFCPDCSHAPLW</span><span class="topo-membrane">LMYLAIVLAHTNSVVNPFIYAYR</span><span class="topo-outside">IREFRQTF</span></span>
-<span class="topo-line"><span class="topo-outside">RKIIRSHVL</span><span class="topo-unknown">RQQEPFKAHHHHHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MKTIIALSYIFCLVFADYKDD</span><span class="topo-inside">DDGAPPIMGSS</span><span class="topo-membrane">VYITVELAIAVLAILGNVLVCWAVWL</span><span class="topo-outside">NSNLQNV</span><span class="topo-membrane">TNYFVVSLAAADILVGVLAIPFAIT</span><span class="topo-inside">ISTGFCAACHGCLF</span><span class="topo-membrane">IACFVLVLAQSSIFSL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">LAIAIDRY</span><span class="topo-outside">IAIAIPLRYNGLVTG</span><span class="topo-membrane">TRAAGIIAICWVLSFAIGLTPML</span><span class="topo-inside">GWNNCGQPKEGKAHSQGCGEGQVACLFEDVVPM</span><span class="topo-membrane">NYMVYFNFFACVLVPLLLMLGVYLRI</span><span class="topo-outside">FAAARRQLADLEDNW</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">ETLNDNLKVIEKADNAAQVKDALTKMRAAALDAQK</span><span class="topo-unknown">ATPPKLEDKSPD</span><span class="topo-outside">SPEMKDFRHGFDILVGQIDDALKLANEGKVKEAQAAAEQLKTTRNAYIQKYLERARSTLQKEVHAA</span><span class="topo-membrane">KSAAIIA</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       </span>
+<span class="topo-line"><span class="topo-membrane">GLFALCWLPLHIINCF</span><span class="topo-inside">TFFCPDCSHAPLW</span><span class="topo-membrane">LMYLAIVLAHTNSVVNPFIYAYR</span><span class="topo-outside">IREFRQTFRKIIRSHVL</span><span class="topo-unknown">RQQEPFKAHHHHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2089,6 +2113,7 @@ The human adenosine A2A receptor (A2AR) is a class A GPCR that regulates glutama
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2104,14 +2129,15 @@ The human adenosine A2A receptor (A2AR) is a class A GPCR that regulates glutama
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MKTIIALSYIFCLVFADYKDDDDG</span><span class="topo-outside">APPIM</span><span class="topo-membrane">GSSVYITVELAIAVLAILGNVLVCW</span><span class="topo-inside">AVWLNS</span></span>
-<span class="topo-line"><span class="topo-inside">NLQNVTNY</span><span class="topo-membrane">FVVSLAAADILVGVLAIPFAITIST</span><span class="topo-outside">GFCAACH</span><span class="topo-membrane">GCLFIACFVLVLAQSSIFSL</span></span>
-<span class="topo-line"><span class="topo-membrane">LAIA</span><span class="topo-inside">IDRYIAIAIPLRYNGLVTGTRAA</span><span class="topo-membrane">GIIAICWVLSFAIGLTPMLGWN</span><span class="topo-outside">NCGQPKEGKAH</span></span>
-<span class="topo-line"><span class="topo-outside">SQGCGEGQVACLFEDV</span><span class="topo-membrane">VPMNYMVYFNFFACVLVPLLLMLGVY</span><span class="topo-inside">LRIFAAARRQLADLEDNW</span></span>
-<span class="topo-line"><span class="topo-inside">ETLNDNLKVIEKADNAAQVKDALTKMRAAALDAQK</span><span class="topo-unknown">ATPPKLEDKSPD</span><span class="topo-inside">SPEMKDFRHGFDI</span></span>
-<span class="topo-line"><span class="topo-inside">LVGQIDDALKLANEGKVKEAQAAAEQLKTTRNAYIQKYLERARSTLQKEVHAAKSA</span><span class="topo-membrane">AIIA</span></span>
-<span class="topo-line"><span class="topo-membrane">GLFALCWLPLHIINCFTFFC</span><span class="topo-outside">PDCSH</span><span class="topo-membrane">APLWLMYLAIVLSHTNSVVNPFI</span><span class="topo-inside">YAYRIREFRQTF</span></span>
-<span class="topo-line"><span class="topo-inside">RKIIRSHVL</span><span class="topo-unknown">RQQEPFKAHHHHHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MKTIIALSYIFCLVFADYKDDDDG</span><span class="topo-outside">APPIM</span><span class="topo-membrane">GSSVYITVELAIAVLAILGNVLVCW</span><span class="topo-inside">AVWLNSNLQNVTNY</span><span class="topo-membrane">FVVSLAAADILVGVLAIPFAITIST</span><span class="topo-outside">GFCAACH</span><span class="topo-membrane">GCLFIACFVLVLAQSSIFSL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">LAIA</span><span class="topo-inside">IDRYIAIAIPLRYNGLVTGTRAA</span><span class="topo-membrane">GIIAICWVLSFAIGLTPMLGWN</span><span class="topo-outside">NCGQPKEGKAHSQGCGEGQVACLFEDV</span><span class="topo-membrane">VPMNYMVYFNFFACVLVPLLLMLGVY</span><span class="topo-inside">LRIFAAARRQLADLEDNW</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">ETLNDNLKVIEKADNAAQVKDALTKMRAAALDAQK</span><span class="topo-unknown">ATPPKLEDKSPD</span><span class="topo-inside">SPEMKDFRHGFDILVGQIDDALKLANEGKVKEAQAAAEQLKTTRNAYIQKYLERARSTLQKEVHAAKSA</span><span class="topo-membrane">AIIA</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       </span>
+<span class="topo-line"><span class="topo-membrane">GLFALCWLPLHIINCFTFFC</span><span class="topo-outside">PDCSH</span><span class="topo-membrane">APLWLMYLAIVLSHTNSVVNPFI</span><span class="topo-inside">YAYRIREFRQTFRKIIRSHVL</span><span class="topo-unknown">RQQEPFKAHHHHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2270,6 +2296,7 @@ The human adenosine A2A receptor (A2AR) is a class A GPCR that regulates glutama
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2320,14 +2347,15 @@ The human adenosine A2A receptor (A2AR) is a class A GPCR that regulates glutama
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">DYKDDDDG</span><span class="topo-inside">APPIMGSSV</span><span class="topo-membrane">YITVELAIAVLAILGNVLVCWAVWL</span><span class="topo-outside">NSNLQNVT</span><span class="topo-membrane">NYFVVSLAAA</span></span>
-<span class="topo-line"><span class="topo-membrane">DILVGVLAIPFAIT</span><span class="topo-inside">ISTGFCAACHGCL</span><span class="topo-membrane">FIACFVLVLAQSSIFSLLAIAID</span><span class="topo-outside">RYIAIAIPLR</span></span>
-<span class="topo-line"><span class="topo-outside">YNGLVTGTR</span><span class="topo-membrane">AAGIIAICWVLSFAIGLTPMLGWN</span><span class="topo-inside">NCGQPKEGKAHSQGCGEGQVACLFEDV</span></span>
-<span class="topo-line"><span class="topo-inside">V</span><span class="topo-membrane">PMNYMVYFNFFACVLVPLLLMLGVYL</span><span class="topo-outside">RIFAAARRQLADLEDNWETLNDNLKVIEKADNA</span></span>
-<span class="topo-line"><span class="topo-outside">AQVKDALTKMRAAALDAQK</span><span class="topo-unknown">ATPPKLEDKSPDSPEMKDF</span><span class="topo-outside">RHGFDILVGQIDDALKLANEGK</span></span>
-<span class="topo-line"><span class="topo-outside">VKEAQAAAEQLKTTRNAYIQKYLERARSTLQKEVHAA</span><span class="topo-membrane">KSAAIIAGLFALCWLPLHIINCF</span></span>
-<span class="topo-line"><span class="topo-membrane">TFF</span><span class="topo-inside">CPDCSHAPLWL</span><span class="topo-membrane">MYLAIVLAHTNSVVNPFIYAYRI</span><span class="topo-outside">REFRQTFRKIIRS</span><span class="topo-unknown">HVLRQQEPFK</span></span>
-<span class="topo-line"><span class="topo-unknown">AAAHHHHHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">DYKDDDDG</span><span class="topo-inside">APPIMGSSV</span><span class="topo-membrane">YITVELAIAVLAILGNVLVCWAVWL</span><span class="topo-outside">NSNLQNVT</span><span class="topo-membrane">NYFVVSLAAADILVGVLAIPFAIT</span><span class="topo-inside">ISTGFCAACHGCL</span><span class="topo-membrane">FIACFVLVLAQSSIFSLLAIAID</span><span class="topo-outside">RYIAIAIPLR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">YNGLVTGTR</span><span class="topo-membrane">AAGIIAICWVLSFAIGLTPMLGWN</span><span class="topo-inside">NCGQPKEGKAHSQGCGEGQVACLFEDVV</span><span class="topo-membrane">PMNYMVYFNFFACVLVPLLLMLGVYL</span><span class="topo-outside">RIFAAARRQLADLEDNWETLNDNLKVIEKADNA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">AQVKDALTKMRAAALDAQK</span><span class="topo-unknown">ATPPKLEDKSPDSPEMKDF</span><span class="topo-outside">RHGFDILVGQIDDALKLANEGKVKEAQAAAEQLKTTRNAYIQKYLERARSTLQKEVHAA</span><span class="topo-membrane">KSAAIIAGLFALCWLPLHIINCF</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430   </span>
+<span class="topo-line"><span class="topo-membrane">TFF</span><span class="topo-inside">CPDCSHAPLWL</span><span class="topo-membrane">MYLAIVLAHTNSVVNPFIYAYRI</span><span class="topo-outside">REFRQTFRKIIRS</span><span class="topo-unknown">HVLRQQEPFKAAAHHHHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2486,6 +2514,7 @@ The human adenosine A2A receptor (A2AR) is a class A GPCR that regulates glutama
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2536,12 +2565,13 @@ The human adenosine A2A receptor (A2AR) is a class A GPCR that regulates glutama
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MPIMG</span><span class="topo-outside">SSV</span><span class="topo-membrane">YITVELAIAVLAILGNVLVCW</span><span class="topo-inside">AVWLNSNLQNVTNY</span><span class="topo-membrane">FVVSAAAADILVGVLAI</span></span>
-<span class="topo-line"><span class="topo-membrane">PFAI</span><span class="topo-outside">AISTGFCAACHGCLF</span><span class="topo-membrane">IACFVLVLTASSIFSLLAIAID</span><span class="topo-inside">RYIAIRIPLRYNGLVTGTR</span></span>
-<span class="topo-line"><span class="topo-inside">A</span><span class="topo-membrane">KGIIAICWVLSFAIGLT</span><span class="topo-outside">PMLGWNNCGQPKEGKAHSQGCGEGQVACLFEDVVPMNYM</span><span class="topo-membrane">VYF</span></span>
-<span class="topo-line"><span class="topo-membrane">NFFACVLVPLLLMLGVYLRIFL</span><span class="topo-inside">AARRQLKQMES</span><span class="topo-unknown">QPLPGERARS</span><span class="topo-inside">TLQKEVHAA</span><span class="topo-membrane">KSLAIIVG</span></span>
-<span class="topo-line"><span class="topo-membrane">LFALCWLPLHI</span><span class="topo-outside">INCFTFFCPDCSHAPLWLMY</span><span class="topo-membrane">LAIVLSHTNSVVNPFIYAY</span><span class="topo-inside">RI</span><span class="topo-unknown">REFRQTFR</span></span>
-<span class="topo-line"><span class="topo-unknown">KIIRSHVLRQ</span><span class="topo-inside">Q</span><span class="topo-unknown">EPFKAAAAENLY</span><span class="topo-inside">F</span><span class="topo-unknown">Q</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MPIMG</span><span class="topo-outside">SSV</span><span class="topo-membrane">YITVELAIAVLAILGNVLVCW</span><span class="topo-inside">AVWLNSNLQNVTNY</span><span class="topo-membrane">FVVSAAAADILVGVLAIPFAI</span><span class="topo-outside">AISTGFCAACHGCLF</span><span class="topo-membrane">IACFVLVLTASSIFSLLAIAID</span><span class="topo-inside">RYIAIRIPLRYNGLVTGTR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">A</span><span class="topo-membrane">KGIIAICWVLSFAIGLT</span><span class="topo-outside">PMLGWNNCGQPKEGKAHSQGCGEGQVACLFEDVVPMNYM</span><span class="topo-membrane">VYFNFFACVLVPLLLMLGVYLRIFL</span><span class="topo-inside">AARRQLKQMES</span><span class="topo-unknown">QPLPGERARS</span><span class="topo-inside">TLQKEVHAA</span><span class="topo-membrane">KSLAIIVG</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320     </span>
+<span class="topo-line"><span class="topo-membrane">LFALCWLPLHI</span><span class="topo-outside">INCFTFFCPDCSHAPLWLMY</span><span class="topo-membrane">LAIVLSHTNSVVNPFIYAY</span><span class="topo-inside">RI</span><span class="topo-unknown">REFRQTFRKIIRSHVLRQ</span><span class="topo-inside">Q</span><span class="topo-unknown">EPFKAAAAENLY</span><span class="topo-inside">F</span><span class="topo-unknown">Q</span></span>
+<details class="topo-details"><summary>Topology coordinates (23 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2714,6 +2744,7 @@ The human adenosine A2A receptor (A2AR) is a class A GPCR that regulates glutama
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2771,14 +2802,15 @@ The human adenosine A2A receptor (A2AR) is a class A GPCR that regulates glutama
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">ALSYIFCLVFADYKDDD</span><span class="topo-outside">DGAPPI</span><span class="topo-membrane">MGSSVYITVELAIAVLAILGNVLVCW</span><span class="topo-inside">AVWLNSNLQNV</span></span>
-<span class="topo-line"><span class="topo-inside">TNY</span><span class="topo-membrane">FVVSLAAADIAVGVLAIPFAITIST</span><span class="topo-outside">GFCAACH</span><span class="topo-membrane">GCLFIACFVLVLTQSSIFSLLAIAI</span></span>
-<span class="topo-line"><span class="topo-inside">DRYIAIRIPLRYNGLVTGTR</span><span class="topo-membrane">AKGIIAICWVLSFAIGLTPMLGWN</span><span class="topo-outside">NCGQPKEGKNHSQGCG</span></span>
-<span class="topo-line"><span class="topo-outside">EGQVACLFEDVV</span><span class="topo-membrane">PMNYMVYFNFFACVLVPLLLMLGVYL</span><span class="topo-inside">RIFLAARRQLADLEDNWETLND</span></span>
-<span class="topo-line"><span class="topo-inside">NLKVIEKADNAAQVKDALTKMRAAALDAQKA</span><span class="topo-unknown">TPPKLEDKSPDSPEM</span><span class="topo-inside">KDFRHGFDILVGQI</span></span>
-<span class="topo-line"><span class="topo-inside">DDALKLANEGKVKEAQAAAEQLKTTRNAYIQKYLERARSTLQKEVHAAKSL</span><span class="topo-membrane">AIIVGLFAL</span></span>
-<span class="topo-line"><span class="topo-membrane">CWLPLHIINCFTFFC</span><span class="topo-outside">PDCSHA</span><span class="topo-membrane">PLWLMYLAIVLSHTNSVVNPFIY</span><span class="topo-inside">AYRIREFRQTFRKIIR</span></span>
-<span class="topo-line"><span class="topo-inside">SHVL</span><span class="topo-unknown">RQQEPFKAHHHHHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">ALSYIFCLVFADYKDDD</span><span class="topo-outside">DGAPPI</span><span class="topo-membrane">MGSSVYITVELAIAVLAILGNVLVCW</span><span class="topo-inside">AVWLNSNLQNVTNY</span><span class="topo-membrane">FVVSLAAADIAVGVLAIPFAITIST</span><span class="topo-outside">GFCAACH</span><span class="topo-membrane">GCLFIACFVLVLTQSSIFSLLAIAI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">DRYIAIRIPLRYNGLVTGTR</span><span class="topo-membrane">AKGIIAICWVLSFAIGLTPMLGWN</span><span class="topo-outside">NCGQPKEGKNHSQGCGEGQVACLFEDVV</span><span class="topo-membrane">PMNYMVYFNFFACVLVPLLLMLGVYL</span><span class="topo-inside">RIFLAARRQLADLEDNWETLND</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">NLKVIEKADNAAQVKDALTKMRAAALDAQKA</span><span class="topo-unknown">TPPKLEDKSPDSPEM</span><span class="topo-inside">KDFRHGFDILVGQIDDALKLANEGKVKEAQAAAEQLKTTRNAYIQKYLERARSTLQKEVHAAKSL</span><span class="topo-membrane">AIIVGLFAL</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440  </span>
+<span class="topo-line"><span class="topo-membrane">CWLPLHIINCFTFFC</span><span class="topo-outside">PDCSHA</span><span class="topo-membrane">PLWLMYLAIVLSHTNSVVNPFIY</span><span class="topo-inside">AYRIREFRQTFRKIIRSHVL</span><span class="topo-unknown">RQQEPFKAHHHHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2937,6 +2969,7 @@ The human adenosine A2A receptor (A2AR) is a class A GPCR that regulates glutama
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2952,15 +2985,17 @@ The human adenosine A2A receptor (A2AR) is a class A GPCR that regulates glutama
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GTSQPVLRGDGAR</span><span class="topo-outside">PSW</span><span class="topo-membrane">LASALACVLIFTIVVDILGNLLVIL</span><span class="topo-inside">SVYRNKKLRNAGN</span><span class="topo-membrane">IFVVSL</span></span>
-<span class="topo-line"><span class="topo-membrane">AVANLVVAIYPYPLVLM</span><span class="topo-outside">SIFNNGWNFGYLHCQV</span><span class="topo-membrane">SAFLMGLSVIGSIWNITGIAID</span><span class="topo-inside">RYLYI</span></span>
-<span class="topo-line"><span class="topo-inside">CHSLKYDKLYSSKN</span><span class="topo-membrane">SLCYVLLIWLLTLAAVLPN</span><span class="topo-outside">LRAGTLQYDPRIYSCTFAQSVSSAY</span><span class="topo-membrane">TI</span></span>
-<span class="topo-line"><span class="topo-membrane">AVVVFHFLVPMIIVIFCYLR</span><span class="topo-inside">IWILVLQVRGIDCSFWNESYLTGSRDERKKSLLSKFGMDE</span></span>
-<span class="topo-line"><span class="topo-inside">GVTFMFIGRFDRGQKGVDVLLKAIEILSSKKEFQEMRFIIIGKGDPELEGWARSLEEKHG</span></span>
-<span class="topo-line"><span class="topo-inside">NVKVITEMLSREFVRELYGSVDFVIIPSYFEPFGLVALEAMCLGAIPIASAVGGLRDIIT</span></span>
-<span class="topo-line"><span class="topo-inside">NETGILVKAGDPGELANAILKALELSRSDLSKFRENCKKRAMSFSKLKPQDFRNFV</span><span class="topo-membrane">TMFV</span></span>
-<span class="topo-line"><span class="topo-membrane">VFVLFAICFAPLNFIGL</span><span class="topo-outside">AVASDPASMVPRIPEW</span><span class="topo-membrane">LFVASYYMAYFNSCLNPIIYGL</span><span class="topo-inside">LDQNF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GTSQPVLRGDGAR</span><span class="topo-outside">PSW</span><span class="topo-membrane">LASALACVLIFTIVVDILGNLLVIL</span><span class="topo-inside">SVYRNKKLRNAGN</span><span class="topo-membrane">IFVVSLAVANLVVAIYPYPLVLM</span><span class="topo-outside">SIFNNGWNFGYLHCQV</span><span class="topo-membrane">SAFLMGLSVIGSIWNITGIAID</span><span class="topo-inside">RYLYI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">CHSLKYDKLYSSKN</span><span class="topo-membrane">SLCYVLLIWLLTLAAVLPN</span><span class="topo-outside">LRAGTLQYDPRIYSCTFAQSVSSAY</span><span class="topo-membrane">TIAVVVFHFLVPMIIVIFCYLR</span><span class="topo-inside">IWILVLQVRGIDCSFWNESYLTGSRDERKKSLLSKFGMDE</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">GVTFMFIGRFDRGQKGVDVLLKAIEILSSKKEFQEMRFIIIGKGDPELEGWARSLEEKHGNVKVITEMLSREFVRELYGSVDFVIIPSYFEPFGLVALEAMCLGAIPIASAVGGLRDIIT</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">NETGILVKAGDPGELANAILKALELSRSDLSKFRENCKKRAMSFSKLKPQDFRNFV</span><span class="topo-membrane">TMFVVFVLFAICFAPLNFIGL</span><span class="topo-outside">AVASDPASMVPRIPEW</span><span class="topo-membrane">LFVASYYMAYFNSCLNPIIYGL</span><span class="topo-inside">LDQNF</span></span>
+<span class="topo-ruler">       490       500   </span>
 <span class="topo-line"><span class="topo-inside">RKEYRRIIVSLCTARVFFV</span><span class="topo-unknown">DSSN</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3105,6 +3140,7 @@ The human adenosine A2A receptor (A2AR) is a class A GPCR that regulates glutama
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3200,14 +3236,15 @@ The human adenosine A2A receptor (A2AR) is a class A GPCR that regulates glutama
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MKTIIALSYIFCLVFADYKDDDD</span><span class="topo-outside">GAPPIMG</span><span class="topo-membrane">SSVYITVELAIAVLAILGNVLVCWA</span><span class="topo-inside">VWLNS</span></span>
-<span class="topo-line"><span class="topo-inside">NLQNVTN</span><span class="topo-membrane">YFVVSLAAADIAVGVLAIPFAITIS</span><span class="topo-outside">TGFCAACH</span><span class="topo-membrane">GCLFIACFVLVLTQSSIFSL</span></span>
-<span class="topo-line"><span class="topo-membrane">LAIAID</span><span class="topo-inside">RYIAIRIPLRYNGLVTGTR</span><span class="topo-membrane">AKGIIAICWVLSFAIGLTPMLGWN</span><span class="topo-outside">NCGQPKEGKNH</span></span>
-<span class="topo-line"><span class="topo-outside">SQGCGEGQVACLFEDVV</span><span class="topo-membrane">PMNYMVYFNFFACVLVPLLLMLGVYLR</span><span class="topo-inside">IFLAARRQLADLEDNW</span></span>
-<span class="topo-line"><span class="topo-inside">ETLNDNLKVIEKADNAAQVKDALTKMRAAALDAQK</span><span class="topo-unknown">ATPPKLEDKSPDSPE</span><span class="topo-inside">MKDFRHGFDI</span></span>
-<span class="topo-line"><span class="topo-inside">LVGQIDDALKLANEGKVKEAQAAAEQLKTTRNAYIQKYLERARSTLQKEVHAAK</span><span class="topo-membrane">SLAIIV</span></span>
-<span class="topo-line"><span class="topo-membrane">GLFALCWLPLHIINCFTFF</span><span class="topo-outside">CPDCSHAPLW</span><span class="topo-membrane">LMYLAIVLSHTNSVVNPFIYAY</span><span class="topo-inside">RIREFRQTF</span></span>
-<span class="topo-line"><span class="topo-inside">RKIIRSHV</span><span class="topo-unknown">LRQQEPFKAHHHHHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MKTIIALSYIFCLVFADYKDDDD</span><span class="topo-outside">GAPPIMG</span><span class="topo-membrane">SSVYITVELAIAVLAILGNVLVCWA</span><span class="topo-inside">VWLNSNLQNVTN</span><span class="topo-membrane">YFVVSLAAADIAVGVLAIPFAITIS</span><span class="topo-outside">TGFCAACH</span><span class="topo-membrane">GCLFIACFVLVLTQSSIFSL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">LAIAID</span><span class="topo-inside">RYIAIRIPLRYNGLVTGTR</span><span class="topo-membrane">AKGIIAICWVLSFAIGLTPMLGWN</span><span class="topo-outside">NCGQPKEGKNHSQGCGEGQVACLFEDVV</span><span class="topo-membrane">PMNYMVYFNFFACVLVPLLLMLGVYLR</span><span class="topo-inside">IFLAARRQLADLEDNW</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">ETLNDNLKVIEKADNAAQVKDALTKMRAAALDAQK</span><span class="topo-unknown">ATPPKLEDKSPDSPE</span><span class="topo-inside">MKDFRHGFDILVGQIDDALKLANEGKVKEAQAAAEQLKTTRNAYIQKYLERARSTLQKEVHAAK</span><span class="topo-membrane">SLAIIV</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       </span>
+<span class="topo-line"><span class="topo-membrane">GLFALCWLPLHIINCFTFF</span><span class="topo-outside">CPDCSHAPLW</span><span class="topo-membrane">LMYLAIVLSHTNSVVNPFIYAY</span><span class="topo-inside">RIREFRQTFRKIIRSHV</span><span class="topo-unknown">LRQQEPFKAHHHHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3366,6 +3403,7 @@ The human adenosine A2A receptor (A2AR) is a class A GPCR that regulates glutama
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3381,14 +3419,15 @@ The human adenosine A2A receptor (A2AR) is a class A GPCR that regulates glutama
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MKTIIALSYIFCLVFADYKDDDD</span><span class="topo-inside">GAPPIMG</span><span class="topo-membrane">SSVYITVELAIAVLAILGNVLVCW</span><span class="topo-outside">AVWLNS</span></span>
-<span class="topo-line"><span class="topo-outside">NLQNVTNY</span><span class="topo-membrane">FVVSLAAADIAVGVLAIPFAITIS</span><span class="topo-inside">TGFCAACH</span><span class="topo-membrane">GCLFIACFVLVLTQSSIFSL</span></span>
-<span class="topo-line"><span class="topo-membrane">LAIAI</span><span class="topo-outside">DRYIAIRIPLRYNGLVTGTRAK</span><span class="topo-membrane">GIIAICWVLSFAIGLTPMLGWN</span><span class="topo-inside">NCGQPKEGKNH</span></span>
-<span class="topo-line"><span class="topo-inside">SQGCGEGQVACLFEDV</span><span class="topo-membrane">VPMNYMVYFNFFACVLVPLLLMLGVYL</span><span class="topo-outside">RIFLAARRQLADLEDNW</span></span>
-<span class="topo-line"><span class="topo-outside">ETLNDNLKVIEKADNAAQVKDALTKMRAAALDAQK</span><span class="topo-unknown">ATPPKLEDKSPDSPE</span><span class="topo-outside">MKDFRHGFDI</span></span>
-<span class="topo-line"><span class="topo-outside">LVGQIDDALKLANEGKVKEAQAAAEQLKTTRNAYIQKYLERARSTLQKEVHAAKS</span><span class="topo-membrane">LAIIV</span></span>
-<span class="topo-line"><span class="topo-membrane">GLFALCWLPLHIINCFTFFC</span><span class="topo-inside">PDCSHAPL</span><span class="topo-membrane">WLMYLAIVLSHTNSVVNPFIYAY</span><span class="topo-outside">RIREFRQTF</span></span>
-<span class="topo-line"><span class="topo-outside">RKIIRSHV</span><span class="topo-unknown">LRQQEPFKAHHHHHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MKTIIALSYIFCLVFADYKDDDD</span><span class="topo-inside">GAPPIMG</span><span class="topo-membrane">SSVYITVELAIAVLAILGNVLVCW</span><span class="topo-outside">AVWLNSNLQNVTNY</span><span class="topo-membrane">FVVSLAAADIAVGVLAIPFAITIS</span><span class="topo-inside">TGFCAACH</span><span class="topo-membrane">GCLFIACFVLVLTQSSIFSL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">LAIAI</span><span class="topo-outside">DRYIAIRIPLRYNGLVTGTRAK</span><span class="topo-membrane">GIIAICWVLSFAIGLTPMLGWN</span><span class="topo-inside">NCGQPKEGKNHSQGCGEGQVACLFEDV</span><span class="topo-membrane">VPMNYMVYFNFFACVLVPLLLMLGVYL</span><span class="topo-outside">RIFLAARRQLADLEDNW</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">ETLNDNLKVIEKADNAAQVKDALTKMRAAALDAQK</span><span class="topo-unknown">ATPPKLEDKSPDSPE</span><span class="topo-outside">MKDFRHGFDILVGQIDDALKLANEGKVKEAQAAAEQLKTTRNAYIQKYLERARSTLQKEVHAAKS</span><span class="topo-membrane">LAIIV</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       </span>
+<span class="topo-line"><span class="topo-membrane">GLFALCWLPLHIINCFTFFC</span><span class="topo-inside">PDCSHAPL</span><span class="topo-membrane">WLMYLAIVLSHTNSVVNPFIYAY</span><span class="topo-outside">RIREFRQTFRKIIRSHV</span><span class="topo-unknown">LRQQEPFKAHHHHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3547,6 +3586,7 @@ The human adenosine A2A receptor (A2AR) is a class A GPCR that regulates glutama
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3562,14 +3602,15 @@ The human adenosine A2A receptor (A2AR) is a class A GPCR that regulates glutama
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MKTIIALSYIFCLVFADYKDDDD</span><span class="topo-inside">GAPPIMGSSV</span><span class="topo-membrane">YITVELAIAVLAILGNVLVCWAVWL</span><span class="topo-outside">NS</span></span>
-<span class="topo-line"><span class="topo-outside">NLQNV</span><span class="topo-membrane">TNYFVVSLAAADIAVGVLAIPFAI</span><span class="topo-inside">TISTGFCAACHGCLF</span><span class="topo-membrane">IACFVLVLTQSSIFSL</span></span>
-<span class="topo-line"><span class="topo-membrane">LAIAIDRY</span><span class="topo-outside">IAIRIPLRYNGLVTG</span><span class="topo-membrane">TRAKGIIAICWVLSFAIGLTPML</span><span class="topo-inside">GWNNCGQPKEGKNH</span></span>
-<span class="topo-line"><span class="topo-inside">SQGCGEGQVACLFEDVVPMN</span><span class="topo-membrane">YMVYFNFFACVLVPLLLMLGVYLRIF</span><span class="topo-outside">LAARRQLADLEDNW</span></span>
-<span class="topo-line"><span class="topo-outside">ETLNDNLKVIEKADNAAQVKDALTKMRAAALDAQK</span><span class="topo-unknown">ATPPKLEDKSPDSPE</span><span class="topo-outside">MKDFRHGFDI</span></span>
-<span class="topo-line"><span class="topo-outside">LVGQIDDALKLANEGKVKEAQAAAEQLKTTRNAYIQKYLERARSTLQKEVHAA</span><span class="topo-membrane">KSLAIIV</span></span>
-<span class="topo-line"><span class="topo-membrane">GLFALCWLPLHIINCF</span><span class="topo-inside">TFFCPDCSHAPLWL</span><span class="topo-membrane">MYLAIVLSHTNSVVNPFIYAYRI</span><span class="topo-outside">REFRQTF</span></span>
-<span class="topo-line"><span class="topo-outside">RKIIRSHV</span><span class="topo-unknown">LRQQEPFKAHHHHHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MKTIIALSYIFCLVFADYKDDDD</span><span class="topo-inside">GAPPIMGSSV</span><span class="topo-membrane">YITVELAIAVLAILGNVLVCWAVWL</span><span class="topo-outside">NSNLQNV</span><span class="topo-membrane">TNYFVVSLAAADIAVGVLAIPFAI</span><span class="topo-inside">TISTGFCAACHGCLF</span><span class="topo-membrane">IACFVLVLTQSSIFSL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">LAIAIDRY</span><span class="topo-outside">IAIRIPLRYNGLVTG</span><span class="topo-membrane">TRAKGIIAICWVLSFAIGLTPML</span><span class="topo-inside">GWNNCGQPKEGKNHSQGCGEGQVACLFEDVVPMN</span><span class="topo-membrane">YMVYFNFFACVLVPLLLMLGVYLRIF</span><span class="topo-outside">LAARRQLADLEDNW</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">ETLNDNLKVIEKADNAAQVKDALTKMRAAALDAQK</span><span class="topo-unknown">ATPPKLEDKSPDSPE</span><span class="topo-outside">MKDFRHGFDILVGQIDDALKLANEGKVKEAQAAAEQLKTTRNAYIQKYLERARSTLQKEVHAA</span><span class="topo-membrane">KSLAIIV</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       </span>
+<span class="topo-line"><span class="topo-membrane">GLFALCWLPLHIINCF</span><span class="topo-inside">TFFCPDCSHAPLWL</span><span class="topo-membrane">MYLAIVLSHTNSVVNPFIYAYRI</span><span class="topo-outside">REFRQTFRKIIRSHV</span><span class="topo-unknown">LRQQEPFKAHHHHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3728,6 +3769,7 @@ The human adenosine A2A receptor (A2AR) is a class A GPCR that regulates glutama
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3879,15 +3921,17 @@ The human adenosine A2A receptor (A2AR) is a class A GPCR that regulates glutama
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">DYKDDDDAMGQPVGAPP</span><span class="topo-outside">IMGS</span><span class="topo-membrane">SVYITVELAIAVLAILGNVLVCW</span><span class="topo-inside">AVWLNSNLQNVTNYF</span><span class="topo-membrane">V</span></span>
-<span class="topo-line"><span class="topo-membrane">VSLAAADIAVGVLAIPFAITIS</span><span class="topo-outside">TGFCAACH</span><span class="topo-membrane">GCLFIACFVLVLTQSSIFSLLAIAI</span><span class="topo-inside">DRYIA</span></span>
-<span class="topo-line"><span class="topo-inside">IRIPLRYNGLVTGTRAK</span><span class="topo-membrane">GIIAICWVLSFAIGLTPMLGWNN</span><span class="topo-outside">CGQ</span><span class="topo-unknown">PKEGKNHSQ</span><span class="topo-outside">GCGEGQVA</span></span>
-<span class="topo-line"><span class="topo-outside">CLFEDV</span><span class="topo-membrane">VPMNYMVYFNFFACVLVPLLLMLGVYL</span><span class="topo-inside">RIFLAARRQLNIFEMLRIDEGLRLKIY</span></span>
-<span class="topo-line"><span class="topo-inside">KDTEGYYTIGIGHLLTKSPSLNAAKSELDKAIGRNTNGVITKDEAEKLFNQDVDAAVRGI</span></span>
-<span class="topo-line"><span class="topo-inside">LRNAKLKPVYDSLDAVRRAALINMVFQMGETGVAGFTNSLRMLQQKRWDEAAVNLAKSRW</span></span>
-<span class="topo-line"><span class="topo-inside">YNQTPNRAKRVITTFRTGTWDAYRSTLQKEVHAAK</span><span class="topo-membrane">SLAIIVGLFALCWLPLHIINCFTFF</span></span>
-<span class="topo-line"><span class="topo-membrane">C</span><span class="topo-outside">PDCSHA</span><span class="topo-membrane">PLWLMYLAIVLSHTNSVVNPFIYAYR</span><span class="topo-inside">IREFRQTFRKIIRSHVL</span><span class="topo-unknown">RQQEPFKAHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">DYKDDDDAMGQPVGAPP</span><span class="topo-outside">IMGS</span><span class="topo-membrane">SVYITVELAIAVLAILGNVLVCW</span><span class="topo-inside">AVWLNSNLQNVTNYF</span><span class="topo-membrane">VVSLAAADIAVGVLAIPFAITIS</span><span class="topo-outside">TGFCAACH</span><span class="topo-membrane">GCLFIACFVLVLTQSSIFSLLAIAI</span><span class="topo-inside">DRYIA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">IRIPLRYNGLVTGTRAK</span><span class="topo-membrane">GIIAICWVLSFAIGLTPMLGWNN</span><span class="topo-outside">CGQ</span><span class="topo-unknown">PKEGKNHSQ</span><span class="topo-outside">GCGEGQVACLFEDV</span><span class="topo-membrane">VPMNYMVYFNFFACVLVPLLLMLGVYL</span><span class="topo-inside">RIFLAARRQLNIFEMLRIDEGLRLKIY</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">KDTEGYYTIGIGHLLTKSPSLNAAKSELDKAIGRNTNGVITKDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVFQMGETGVAGFTNSLRMLQQKRWDEAAVNLAKSRW</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">YNQTPNRAKRVITTFRTGTWDAYRSTLQKEVHAAK</span><span class="topo-membrane">SLAIIVGLFALCWLPLHIINCFTFFC</span><span class="topo-outside">PDCSHA</span><span class="topo-membrane">PLWLMYLAIVLSHTNSVVNPFIYAYR</span><span class="topo-inside">IREFRQTFRKIIRSHVL</span><span class="topo-unknown">RQQEPFKAHH</span></span>
+<span class="topo-ruler">        </span>
 <span class="topo-line"><span class="topo-unknown">HHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4046,6 +4090,7 @@ The human adenosine A2A receptor (A2AR) is a class A GPCR that regulates glutama
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4103,12 +4148,13 @@ The human adenosine A2A receptor (A2AR) is a class A GPCR that regulates glutama
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MPIMG</span><span class="topo-inside">SSV</span><span class="topo-membrane">YITVELAIAVLAILGNVLVC</span><span class="topo-outside">WAVWLNSNLQNVTNYFV</span><span class="topo-membrane">VSAAAADILVGVLAI</span></span>
-<span class="topo-line"><span class="topo-membrane">PFAIAI</span><span class="topo-inside">STGFCAACHGCL</span><span class="topo-membrane">FIACFVLVLTASSIFSLLAIA</span><span class="topo-outside">IDRYIAIRIPLRYNGLVTGTR</span></span>
-<span class="topo-line"><span class="topo-outside">AKGI</span><span class="topo-membrane">IAICWVLSFAIGLTPMLGWN</span><span class="topo-inside">NCGQPKEGKAHSQGCGEGQVACLFEDVV</span><span class="topo-membrane">PMNYMVYF</span></span>
-<span class="topo-line"><span class="topo-membrane">NFFACVLVPLLLMLGVYL</span><span class="topo-outside">RIFLAARRQL</span><span class="topo-unknown">KQMESQPLPGER</span><span class="topo-outside">ARSTLQKEVHAAKS</span><span class="topo-membrane">LAIIVG</span></span>
-<span class="topo-line"><span class="topo-membrane">LFALCWLPLHIINCF</span><span class="topo-inside">TFFCPDCSHAPLWL</span><span class="topo-membrane">MYLAIVLSHTNSVVNPFIY</span><span class="topo-outside">AYRI</span><span class="topo-unknown">REFRQTFR</span></span>
-<span class="topo-line"><span class="topo-unknown">KIIR</span><span class="topo-outside">SHVLR</span><span class="topo-unknown">QQEPFKAAAAENLYFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MPIMG</span><span class="topo-inside">SSV</span><span class="topo-membrane">YITVELAIAVLAILGNVLVC</span><span class="topo-outside">WAVWLNSNLQNVTNYFV</span><span class="topo-membrane">VSAAAADILVGVLAIPFAIAI</span><span class="topo-inside">STGFCAACHGCL</span><span class="topo-membrane">FIACFVLVLTASSIFSLLAIA</span><span class="topo-outside">IDRYIAIRIPLRYNGLVTGTR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">AKGI</span><span class="topo-membrane">IAICWVLSFAIGLTPMLGWN</span><span class="topo-inside">NCGQPKEGKAHSQGCGEGQVACLFEDVV</span><span class="topo-membrane">PMNYMVYFNFFACVLVPLLLMLGVYL</span><span class="topo-outside">RIFLAARRQL</span><span class="topo-unknown">KQMESQPLPGER</span><span class="topo-outside">ARSTLQKEVHAAKS</span><span class="topo-membrane">LAIIVG</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320     </span>
+<span class="topo-line"><span class="topo-membrane">LFALCWLPLHIINCF</span><span class="topo-inside">TFFCPDCSHAPLWL</span><span class="topo-membrane">MYLAIVLSHTNSVVNPFIY</span><span class="topo-outside">AYRI</span><span class="topo-unknown">REFRQTFRKIIR</span><span class="topo-outside">SHVLR</span><span class="topo-unknown">QQEPFKAAAAENLYFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4246,6 +4292,7 @@ The human adenosine A2A receptor (A2AR) is a class A GPCR that regulates glutama
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4261,12 +4308,13 @@ The human adenosine A2A receptor (A2AR) is a class A GPCR that regulates glutama
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MPIMG</span><span class="topo-inside">SSV</span><span class="topo-membrane">YITVELAIAVLAILGNVLVCW</span><span class="topo-outside">AVWLNSNLQNVTNYF</span><span class="topo-membrane">VVSAAAADILVGVLAI</span></span>
-<span class="topo-line"><span class="topo-membrane">PFAIA</span><span class="topo-inside">ISTGFCAACHGCLF</span><span class="topo-membrane">IACFVLVLTASSIFSLLAIAID</span><span class="topo-outside">RYIAIRIPLRYNGLVTGTR</span></span>
-<span class="topo-line"><span class="topo-outside">AK</span><span class="topo-membrane">GIIAICWVLSFAIGLTPML</span><span class="topo-inside">GWNNCGQPKEGKA</span><span class="topo-unknown">HSQ</span><span class="topo-inside">GCGEGQVACLFEDVVPMNY</span><span class="topo-membrane">MVYF</span></span>
-<span class="topo-line"><span class="topo-membrane">NFFACVLVPLLLMLGVYLRIFL</span><span class="topo-outside">AARRQLKQMESQPLPGERARSTLQKEVHAA</span><span class="topo-membrane">KSLAIIVG</span></span>
-<span class="topo-line"><span class="topo-membrane">LFALCWLPLHI</span><span class="topo-inside">INCFTFFCPDC</span><span class="topo-unknown">S</span><span class="topo-inside">HAPLWLMY</span><span class="topo-membrane">LAIVLSHTNSVVNPFIYAYR</span><span class="topo-outside">I</span><span class="topo-unknown">REFRQTFR</span></span>
-<span class="topo-line"><span class="topo-unknown">KIIRSHVLRQQEPF</span><span class="topo-outside">KAAAA</span><span class="topo-unknown">ENLYFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MPIMG</span><span class="topo-inside">SSV</span><span class="topo-membrane">YITVELAIAVLAILGNVLVCW</span><span class="topo-outside">AVWLNSNLQNVTNYF</span><span class="topo-membrane">VVSAAAADILVGVLAIPFAIA</span><span class="topo-inside">ISTGFCAACHGCLF</span><span class="topo-membrane">IACFVLVLTASSIFSLLAIAID</span><span class="topo-outside">RYIAIRIPLRYNGLVTGTR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">AK</span><span class="topo-membrane">GIIAICWVLSFAIGLTPML</span><span class="topo-inside">GWNNCGQPKEGKA</span><span class="topo-unknown">HSQ</span><span class="topo-inside">GCGEGQVACLFEDVVPMNY</span><span class="topo-membrane">MVYFNFFACVLVPLLLMLGVYLRIFL</span><span class="topo-outside">AARRQLKQMESQPLPGERARSTLQKEVHAA</span><span class="topo-membrane">KSLAIIVG</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320     </span>
+<span class="topo-line"><span class="topo-membrane">LFALCWLPLHI</span><span class="topo-inside">INCFTFFCPDC</span><span class="topo-unknown">S</span><span class="topo-inside">HAPLWLMY</span><span class="topo-membrane">LAIVLSHTNSVVNPFIYAYR</span><span class="topo-outside">I</span><span class="topo-unknown">REFRQTFRKIIRSHVLRQQEPF</span><span class="topo-outside">KAAAA</span><span class="topo-unknown">ENLYFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4411,6 +4459,7 @@ The human adenosine A2A receptor (A2AR) is a class A GPCR that regulates glutama
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4461,14 +4510,15 @@ The human adenosine A2A receptor (A2AR) is a class A GPCR that regulates glutama
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">DYDDDDK</span><span class="topo-inside">GAPPIMGS</span><span class="topo-membrane">SVYITVELAIAVLAILGNVLVCWAVW</span><span class="topo-outside">LNSNLQNVT</span><span class="topo-membrane">NYFVVSLAAA</span></span>
-<span class="topo-line"><span class="topo-membrane">DIAVGVLAIPFAITIS</span><span class="topo-inside">TGFCAACHG</span><span class="topo-membrane">CLFIACFVLVLTQSSIFSLLAIAID</span><span class="topo-outside">RYIAIRIPLR</span></span>
-<span class="topo-line"><span class="topo-outside">YNGLVTGTR</span><span class="topo-membrane">AKGIIAICWVLSFAIGLTPMLGW</span><span class="topo-inside">NNCGQPKEGKQHSQGCGEGQVACLFEDV</span></span>
-<span class="topo-line"><span class="topo-inside">V</span><span class="topo-membrane">PMNYMVYFNFFACVLVPLLLMLGVYLR</span><span class="topo-outside">IFLAARRQLADLEDNWETLNDNLKVIEKA</span><span class="topo-unknown">D</span><span class="topo-outside">NA</span></span>
-<span class="topo-line"><span class="topo-outside">AQVKDALTKMRAAALDAQK</span><span class="topo-unknown">ATPPKLEDKSPDSPE</span><span class="topo-outside">MKDFRHGFDILVGQIDDALKLANEGK</span></span>
-<span class="topo-line"><span class="topo-outside">VKEAQAAAEQLKTTRNAYIQKYLERARSTLQKEVHAA</span><span class="topo-membrane">KSLAIIVGLFALCWLPLHIINCF</span></span>
-<span class="topo-line"><span class="topo-membrane">TFF</span><span class="topo-inside">CPDCSHAPLW</span><span class="topo-membrane">LMYLAIVLSHTNSVVNPFIYAYR</span><span class="topo-outside">IREFRQTFRKIIRSHVLR</span><span class="topo-unknown">QQEPFK</span></span>
-<span class="topo-line"><span class="topo-unknown">AHHHHHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">DYDDDDK</span><span class="topo-inside">GAPPIMGS</span><span class="topo-membrane">SVYITVELAIAVLAILGNVLVCWAVW</span><span class="topo-outside">LNSNLQNVT</span><span class="topo-membrane">NYFVVSLAAADIAVGVLAIPFAITIS</span><span class="topo-inside">TGFCAACHG</span><span class="topo-membrane">CLFIACFVLVLTQSSIFSLLAIAID</span><span class="topo-outside">RYIAIRIPLR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">YNGLVTGTR</span><span class="topo-membrane">AKGIIAICWVLSFAIGLTPMLGW</span><span class="topo-inside">NNCGQPKEGKQHSQGCGEGQVACLFEDVV</span><span class="topo-membrane">PMNYMVYFNFFACVLVPLLLMLGVYLR</span><span class="topo-outside">IFLAARRQLADLEDNWETLNDNLKVIEKA</span><span class="topo-unknown">D</span><span class="topo-outside">NA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">AQVKDALTKMRAAALDAQK</span><span class="topo-unknown">ATPPKLEDKSPDSPE</span><span class="topo-outside">MKDFRHGFDILVGQIDDALKLANEGKVKEAQAAAEQLKTTRNAYIQKYLERARSTLQKEVHAA</span><span class="topo-membrane">KSLAIIVGLFALCWLPLHIINCF</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430 </span>
+<span class="topo-line"><span class="topo-membrane">TFF</span><span class="topo-inside">CPDCSHAPLW</span><span class="topo-membrane">LMYLAIVLSHTNSVVNPFIYAYR</span><span class="topo-outside">IREFRQTFRKIIRSHVLR</span><span class="topo-unknown">QQEPFKAHHHHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (23 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4641,6 +4691,7 @@ The human adenosine A2A receptor (A2AR) is a class A GPCR that regulates glutama
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

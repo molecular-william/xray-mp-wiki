@@ -132,11 +132,13 @@ ICMT (isoprenylcysteine carboxyl methyltransferase) from the beetle Tribolium ca
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">LSPAGKISLQS</span><span class="topo-membrane">FTGSSLVFFVICMFNHY</span><span class="topo-inside">YGITNL</span><span class="topo-membrane">VVNTLIVFFYAVNVYFF</span><span class="topo-outside">LKFFYNEF</span></span>
-<span class="topo-line"><span class="topo-outside">AFAIAI</span><span class="topo-membrane">RAAFLGLVLVLGLYIKLVA</span><span class="topo-inside">PPNI</span><span class="topo-membrane">QIFGGYMSVMALFHYS</span><span class="topo-outside">EFLAIAIVQPKQVST</span></span>
-<span class="topo-line"><span class="topo-outside">DSFVI</span><span class="topo-membrane">NHSPQYTIAAVSSWVEFFI</span><span class="topo-inside">ETYFFPGLKEIH</span><span class="topo-membrane">WLSNIGLCVCILGEVLR</span><span class="topo-outside">KTAILTA</span></span>
-<span class="topo-line"><span class="topo-outside">GSNFNHLVQCEKSSDHVLVTHGVYAWFRHPSYV</span><span class="topo-membrane">GWFYWSIGTQIILINP</span><span class="topo-inside">L</span><span class="topo-membrane">CIPAYTLASW</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">LSPAGKISLQS</span><span class="topo-membrane">FTGSSLVFFVICMFNHY</span><span class="topo-inside">YGITNL</span><span class="topo-membrane">VVNTLIVFFYAVNVYFF</span><span class="topo-outside">LKFFYNEFAFAIAI</span><span class="topo-membrane">RAAFLGLVLVLGLYIKLVA</span><span class="topo-inside">PPNI</span><span class="topo-membrane">QIFGGYMSVMALFHYS</span><span class="topo-outside">EFLAIAIVQPKQVST</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">DSFVI</span><span class="topo-membrane">NHSPQYTIAAVSSWVEFFI</span><span class="topo-inside">ETYFFPGLKEIH</span><span class="topo-membrane">WLSNIGLCVCILGEVLR</span><span class="topo-outside">KTAILTAGSNFNHLVQCEKSSDHVLVTHGVYAWFRHPSYV</span><span class="topo-membrane">GWFYWSIGTQIILINP</span><span class="topo-inside">L</span><span class="topo-membrane">CIPAYTLASW</span></span>
+<span class="topo-ruler">       250       260       270       280        </span>
 <span class="topo-line"><span class="topo-membrane">MFF</span><span class="topo-outside">KERIYIEESMLLSFFGQQYCDYQQQVGTGIPFIEGYKI</span><span class="topo-unknown">AAEGEEF</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -267,6 +269,7 @@ ICMT (isoprenylcysteine carboxyl methyltransferase) from the beetle Tribolium ca
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -282,8 +285,9 @@ ICMT (isoprenylcysteine carboxyl methyltransferase) from the beetle Tribolium ca
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">AVSSVPTKLEVVAATPTSLLISWDAPAVTVDLYVITYGETGGNSPVQEFKVPGSKSTATI</span></span>
-<span class="topo-line"><span class="topo-outside">SGLKPGVDYTITVYAFSSYYWPSYKGSPISINYRT</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90     </span>
+<span class="topo-line"><span class="topo-outside">AVSSVPTKLEVVAATPTSLLISWDAPAVTVDLYVITYGETGGNSPVQEFKVPGSKSTATISGLKPGVDYTITVYAFSSYYWPSYKGSPISINYRT</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -302,6 +306,7 @@ ICMT (isoprenylcysteine carboxyl methyltransferase) from the beetle Tribolium ca
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -317,11 +322,13 @@ ICMT (isoprenylcysteine carboxyl methyltransferase) from the beetle Tribolium ca
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">LSPAGKISLQS</span><span class="topo-membrane">FTGSSLVFFVICMFNHY</span><span class="topo-inside">YGITNL</span><span class="topo-membrane">VVNTLIVFFYAVNVYFF</span><span class="topo-outside">LKFFYNEF</span></span>
-<span class="topo-line"><span class="topo-outside">AFAIAI</span><span class="topo-membrane">RAAFLGLVLVLGLYIKLVA</span><span class="topo-inside">PPNI</span><span class="topo-membrane">QIFGGYMSVMALFHYS</span><span class="topo-outside">EFLAIAIVQPKQVST</span></span>
-<span class="topo-line"><span class="topo-outside">DSFVI</span><span class="topo-membrane">NHSPQYTIAAVSSWVEFFI</span><span class="topo-inside">ETYFFPGLKEIH</span><span class="topo-membrane">WLSNIGLCVCILGEVLR</span><span class="topo-outside">KTAILTA</span></span>
-<span class="topo-line"><span class="topo-outside">GSNFNHLVQCEKSSDHVLVTHGVYAWFRHPSYV</span><span class="topo-membrane">GWFYWSIGTQIILINP</span><span class="topo-inside">L</span><span class="topo-membrane">CIPAYTLASW</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">LSPAGKISLQS</span><span class="topo-membrane">FTGSSLVFFVICMFNHY</span><span class="topo-inside">YGITNL</span><span class="topo-membrane">VVNTLIVFFYAVNVYFF</span><span class="topo-outside">LKFFYNEFAFAIAI</span><span class="topo-membrane">RAAFLGLVLVLGLYIKLVA</span><span class="topo-inside">PPNI</span><span class="topo-membrane">QIFGGYMSVMALFHYS</span><span class="topo-outside">EFLAIAIVQPKQVST</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">DSFVI</span><span class="topo-membrane">NHSPQYTIAAVSSWVEFFI</span><span class="topo-inside">ETYFFPGLKEIH</span><span class="topo-membrane">WLSNIGLCVCILGEVLR</span><span class="topo-outside">KTAILTAGSNFNHLVQCEKSSDHVLVTHGVYAWFRHPSYV</span><span class="topo-membrane">GWFYWSIGTQIILINP</span><span class="topo-inside">L</span><span class="topo-membrane">CIPAYTLASW</span></span>
+<span class="topo-ruler">       250       260       270       280        </span>
 <span class="topo-line"><span class="topo-membrane">MFF</span><span class="topo-outside">KERIYIEESMLLSFFGQQYCDYQQQVGTGIPFIEGYKI</span><span class="topo-unknown">AAEGEEF</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -452,6 +459,7 @@ ICMT (isoprenylcysteine carboxyl methyltransferase) from the beetle Tribolium ca
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -467,8 +475,9 @@ ICMT (isoprenylcysteine carboxyl methyltransferase) from the beetle Tribolium ca
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">AVSSVPTKLEVVAATPTSLLISWDAPAVTVDLYVITYGETGGNSPVQEFKVPGSKSTATI</span></span>
-<span class="topo-line"><span class="topo-outside">SGLKPGVDYTITVYAFSSYYWPSYKGSPISINYRT</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90     </span>
+<span class="topo-line"><span class="topo-outside">AVSSVPTKLEVVAATPTSLLISWDAPAVTVDLYVITYGETGGNSPVQEFKVPGSKSTATISGLKPGVDYTITVYAFSSYYWPSYKGSPISINYRT</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -487,6 +496,7 @@ ICMT (isoprenylcysteine carboxyl methyltransferase) from the beetle Tribolium ca
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

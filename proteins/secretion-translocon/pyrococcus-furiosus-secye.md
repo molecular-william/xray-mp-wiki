@@ -131,15 +131,17 @@ E. coli strain, confirming the essential role of this helix in protein targeting
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGARDIIYALERWFPEVERPKRRVP</span><span class="topo-inside">LRERFMWT</span><span class="topo-membrane">GVALILYYVLAEIPV</span><span class="topo-outside">YGIPERIQDYFQ</span></span>
-<span class="topo-line"><span class="topo-outside">FLRVVLAGRNGS</span><span class="topo-membrane">ILTLGIGPIVTAGIIL</span><span class="topo-inside">QL</span><span class="topo-unknown">LVGSEIIKLDLANPEDRRFYQAL</span><span class="topo-inside">QR</span><span class="topo-membrane">VFSVF</span></span>
-<span class="topo-line"><span class="topo-membrane">MCFFEAAVWI</span><span class="topo-outside">LGGAFGRV</span><span class="topo-unknown">GVDVTY</span><span class="topo-outside">AIAV</span><span class="topo-membrane">LMILQLAMGGIVLIILDE</span><span class="topo-inside">LVSKWGIGSG</span><span class="topo-membrane">ISLF</span></span>
-<span class="topo-line"><span class="topo-membrane">IAAGVSQTILTRSLNP</span><span class="topo-outside">LTDPN</span><span class="topo-unknown">IID</span><span class="topo-outside">PLTGQPAIVGAIPYFIQHILKGDLWGAIYRGGSAP</span><span class="topo-membrane">D</span></span>
-<span class="topo-line"><span class="topo-membrane">MLSVVATIVVFFIVVYF</span><span class="topo-inside">ESMRVEI</span><span class="topo-unknown">PLGYRGVTVRGS</span><span class="topo-inside">YPIRFLYVS</span><span class="topo-membrane">NIPIILTFALYANIQ</span></span>
-<span class="topo-line"><span class="topo-membrane">LWA</span><span class="topo-outside">RVLDRLGHPWLGRFDPTTGSPISGFVLYVIPPRNIFSVIDNP</span><span class="topo-membrane">VRAIVYLILTVIFSL</span></span>
-<span class="topo-line"><span class="topo-membrane">LFG</span><span class="topo-inside">YLWVELTGLDARSIAR</span><span class="topo-unknown">QLQRAGLQ</span><span class="topo-inside">IPGFRRDPRTLEK</span><span class="topo-unknown">VLQRYI</span><span class="topo-inside">PYVTFW</span><span class="topo-membrane">GSLTVALI</span></span>
-<span class="topo-line"><span class="topo-membrane">AVLADFL</span><span class="topo-outside">G</span><span class="topo-membrane">ALGTGTGILLTVGIL</span><span class="topo-inside">YRFYEEIAREQITEMFPALRKLFGAGT</span><span class="topo-unknown">LVPRGSHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGARDIIYALERWFPEVERPKRRVP</span><span class="topo-inside">LRERFMWT</span><span class="topo-membrane">GVALILYYVLAEIPV</span><span class="topo-outside">YGIPERIQDYFQFLRVVLAGRNGS</span><span class="topo-membrane">ILTLGIGPIVTAGIIL</span><span class="topo-inside">QL</span><span class="topo-unknown">LVGSEIIKLDLANPEDRRFYQAL</span><span class="topo-inside">QR</span><span class="topo-membrane">VFSVF</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">MCFFEAAVWI</span><span class="topo-outside">LGGAFGRV</span><span class="topo-unknown">GVDVTY</span><span class="topo-outside">AIAV</span><span class="topo-membrane">LMILQLAMGGIVLIILDE</span><span class="topo-inside">LVSKWGIGSG</span><span class="topo-membrane">ISLFIAAGVSQTILTRSLNP</span><span class="topo-outside">LTDPN</span><span class="topo-unknown">IID</span><span class="topo-outside">PLTGQPAIVGAIPYFIQHILKGDLWGAIYRGGSAP</span><span class="topo-membrane">D</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">MLSVVATIVVFFIVVYF</span><span class="topo-inside">ESMRVEI</span><span class="topo-unknown">PLGYRGVTVRGS</span><span class="topo-inside">YPIRFLYVS</span><span class="topo-membrane">NIPIILTFALYANIQLWA</span><span class="topo-outside">RVLDRLGHPWLGRFDPTTGSPISGFVLYVIPPRNIFSVIDNP</span><span class="topo-membrane">VRAIVYLILTVIFSL</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">LFG</span><span class="topo-inside">YLWVELTGLDARSIAR</span><span class="topo-unknown">QLQRAGLQ</span><span class="topo-inside">IPGFRRDPRTLEK</span><span class="topo-unknown">VLQRYI</span><span class="topo-inside">PYVTFW</span><span class="topo-membrane">GSLTVALIAVLADFL</span><span class="topo-outside">G</span><span class="topo-membrane">ALGTGTGILLTVGIL</span><span class="topo-inside">YRFYEEIAREQITEMFPALRKLFGAGT</span><span class="topo-unknown">LVPRGSHHHH</span></span>
+<span class="topo-ruler">  </span>
 <span class="topo-line"><span class="topo-unknown">HH</span></span>
+<details class="topo-details"><summary>Topology coordinates (35 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -396,6 +398,7 @@ E. coli strain, confirming the essential role of this helix in protein targeting
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -411,8 +414,9 @@ E. coli strain, confirming the essential role of this helix in protein targeting
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAELQER</span><span class="topo-inside">IRHFWKESRRAFLVTKKPNWA</span><span class="topo-unknown">TYKRAA</span><span class="topo-membrane">KITGLGIILIGLIGMLIRIVG</span><span class="topo-outside">ILILG</span></span>
-<span class="topo-line"><span class="topo-outside">G</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60 </span>
+<span class="topo-line"><span class="topo-unknown">MAELQER</span><span class="topo-inside">IRHFWKESRRAFLVTKKPNWA</span><span class="topo-unknown">TYKRAA</span><span class="topo-membrane">KITGLGIILIGLIGMLIRIVG</span><span class="topo-outside">ILILGG</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -459,6 +463,7 @@ E. coli strain, confirming the essential role of this helix in protein targeting
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

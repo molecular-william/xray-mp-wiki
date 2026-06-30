@@ -174,11 +174,13 @@ vestibule by the X-gate, explaining their exceptionally low washout rates.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MKRQNVR</span><span class="topo-membrane">TLALIVCTFTYLLVGAAV</span><span class="topo-inside">FDALESEPELIERQRLELRQQELRARYNLSQGGYE</span></span>
-<span class="topo-line"><span class="topo-inside">ELERVVLRLKPHKAGVQWRFAGSF</span><span class="topo-unknown">YFAITVITTIG</span><span class="topo-inside">YGHAAPSTDGGKV</span><span class="topo-membrane">FCMFYALLGIPL</span></span>
-<span class="topo-line"><span class="topo-membrane">TLVMFQSLGERIN</span><span class="topo-outside">TLVRYLLHRAKKGLG</span><span class="topo-unknown">MRR</span><span class="topo-outside">ADVSMAN</span><span class="topo-membrane">MVLIGFFSCISTLCIGAAA</span><span class="topo-inside">FSH</span></span>
-<span class="topo-line"><span class="topo-inside">YEHWTFFQAY</span><span class="topo-unknown">YYCFITLTTIG</span><span class="topo-inside">FGDYVALQKDQALQTQPQYVA</span><span class="topo-membrane">FSFVYILTGLTVIGAFLN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MKRQNVR</span><span class="topo-membrane">TLALIVCTFTYLLVGAAV</span><span class="topo-inside">FDALESEPELIERQRLELRQQELRARYNLSQGGYEELERVVLRLKPHKAGVQWRFAGSF</span><span class="topo-unknown">YFAITVITTIG</span><span class="topo-inside">YGHAAPSTDGGKV</span><span class="topo-membrane">FCMFYALLGIPL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">TLVMFQSLGERIN</span><span class="topo-outside">TLVRYLLHRAKKGLG</span><span class="topo-unknown">MRR</span><span class="topo-outside">ADVSMAN</span><span class="topo-membrane">MVLIGFFSCISTLCIGAAA</span><span class="topo-inside">FSHYEHWTFFQAY</span><span class="topo-unknown">YYCFITLTTIG</span><span class="topo-inside">FGDYVALQKDQALQTQPQYVA</span><span class="topo-membrane">FSFVYILTGLTVIGAFLN</span></span>
+<span class="topo-ruler">       250       260    </span>
 <span class="topo-line"><span class="topo-membrane">LVVL</span><span class="topo-outside">RFMTMNAEDEKRD</span><span class="topo-unknown">AENLYFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -302,6 +304,7 @@ vestibule by the X-gate, explaining their exceptionally low washout rates.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -317,11 +320,13 @@ vestibule by the X-gate, explaining their exceptionally low washout rates.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MKRQNV</span><span class="topo-membrane">RTLALIVCTFTYLLVGAAV</span><span class="topo-inside">FDALESEPELIERQRLELRQQELRARYNLSQGGYE</span></span>
-<span class="topo-line"><span class="topo-inside">ELERVVLRLKPHKAGVQWRFAGSF</span><span class="topo-unknown">YFAITVITTIG</span><span class="topo-inside">YGHAAPSTDGGKV</span><span class="topo-membrane">FCMFYALLGIPL</span></span>
-<span class="topo-line"><span class="topo-membrane">TLVMFQSLGERIN</span><span class="topo-outside">TLVRYLLHRAKKGLG</span><span class="topo-unknown">MRR</span><span class="topo-outside">ADVSMANM</span><span class="topo-membrane">VLIGFFSCISTLCIGAAA</span><span class="topo-inside">FSH</span></span>
-<span class="topo-line"><span class="topo-inside">YEHWTFFQAY</span><span class="topo-unknown">YYCFITLTTIG</span><span class="topo-inside">FGDYVALQKDQALQTQPQYVA</span><span class="topo-membrane">FSFVYILTGLTVIGAFLN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MKRQNV</span><span class="topo-membrane">RTLALIVCTFTYLLVGAAV</span><span class="topo-inside">FDALESEPELIERQRLELRQQELRARYNLSQGGYEELERVVLRLKPHKAGVQWRFAGSF</span><span class="topo-unknown">YFAITVITTIG</span><span class="topo-inside">YGHAAPSTDGGKV</span><span class="topo-membrane">FCMFYALLGIPL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">TLVMFQSLGERIN</span><span class="topo-outside">TLVRYLLHRAKKGLG</span><span class="topo-unknown">MRR</span><span class="topo-outside">ADVSMANM</span><span class="topo-membrane">VLIGFFSCISTLCIGAAA</span><span class="topo-inside">FSHYEHWTFFQAY</span><span class="topo-unknown">YYCFITLTTIG</span><span class="topo-inside">FGDYVALQKDQALQTQPQYVA</span><span class="topo-membrane">FSFVYILTGLTVIGAFLN</span></span>
+<span class="topo-ruler">       250       260    </span>
 <span class="topo-line"><span class="topo-membrane">LVVL</span><span class="topo-outside">RFMTMNAEDEKRDAENL</span><span class="topo-unknown">YFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -445,6 +450,7 @@ vestibule by the X-gate, explaining their exceptionally low washout rates.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -460,11 +466,13 @@ vestibule by the X-gate, explaining their exceptionally low washout rates.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MKRQ</span><span class="topo-membrane">NVRTLALIVCTFTYLLVGAAV</span><span class="topo-inside">FDALESEPELIERQRLELRQQELRARYNLSQGGYE</span></span>
-<span class="topo-line"><span class="topo-inside">ELERVVLRLKPHKAGVQWRFAGSF</span><span class="topo-unknown">YFAITVITTIG</span><span class="topo-inside">YGHAAPSTDGGKV</span><span class="topo-membrane">FCMFYALLGIPL</span></span>
-<span class="topo-line"><span class="topo-membrane">TLVMFQSLGERINTLVRYLL</span><span class="topo-unknown">HRAKKGL</span><span class="topo-outside">G</span><span class="topo-unknown">MRR</span><span class="topo-outside">ADVSM</span><span class="topo-membrane">ANMVLIGFFSCISTLCIGAAA</span><span class="topo-inside">FSH</span></span>
-<span class="topo-line"><span class="topo-inside">YEHWTFFQAY</span><span class="topo-unknown">YYCFITLTTIG</span><span class="topo-inside">FGDYVALQKDQALQTQPQYVA</span><span class="topo-membrane">FSFVYILTGLTVIGAFLN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MKRQ</span><span class="topo-membrane">NVRTLALIVCTFTYLLVGAAV</span><span class="topo-inside">FDALESEPELIERQRLELRQQELRARYNLSQGGYEELERVVLRLKPHKAGVQWRFAGSF</span><span class="topo-unknown">YFAITVITTIG</span><span class="topo-inside">YGHAAPSTDGGKV</span><span class="topo-membrane">FCMFYALLGIPL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">TLVMFQSLGERINTLVRYLL</span><span class="topo-unknown">HRAKKGL</span><span class="topo-outside">G</span><span class="topo-unknown">MRR</span><span class="topo-outside">ADVSM</span><span class="topo-membrane">ANMVLIGFFSCISTLCIGAAA</span><span class="topo-inside">FSHYEHWTFFQAY</span><span class="topo-unknown">YYCFITLTTIG</span><span class="topo-inside">FGDYVALQKDQALQTQPQYVA</span><span class="topo-membrane">FSFVYILTGLTVIGAFLN</span></span>
+<span class="topo-ruler">       250       260    </span>
 <span class="topo-line"><span class="topo-membrane">LVVLRFMTMN</span><span class="topo-outside">AEDEKRDAENL</span><span class="topo-unknown">YFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -581,6 +589,7 @@ vestibule by the X-gate, explaining their exceptionally low washout rates.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -596,11 +605,13 @@ vestibule by the X-gate, explaining their exceptionally low washout rates.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MKRQ</span><span class="topo-membrane">NVRTLALIVCTFTYLLVGAAV</span><span class="topo-inside">FDALESEPELIERQRLELRQQELRARYNLSQGGYE</span></span>
-<span class="topo-line"><span class="topo-inside">ELERVVLRLKPHKAGVQWRFAGSF</span><span class="topo-unknown">YFAITVITTIG</span><span class="topo-inside">YGHAAPSTDGGKV</span><span class="topo-membrane">FCMFYALLGIPL</span></span>
-<span class="topo-line"><span class="topo-membrane">TLVMFQSLGERINTLVRYLL</span><span class="topo-unknown">HRAKKGL</span><span class="topo-outside">GM</span><span class="topo-unknown">RR</span><span class="topo-outside">ADVSM</span><span class="topo-membrane">ANMVLIGFFSCISTLCIGAAA</span><span class="topo-inside">FSH</span></span>
-<span class="topo-line"><span class="topo-inside">YEHWTFFQAY</span><span class="topo-unknown">YYCFITLTTIG</span><span class="topo-inside">FGDYVALQKDQALQTQPQYVA</span><span class="topo-membrane">FSFVYILTGLTVIGAFLN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MKRQ</span><span class="topo-membrane">NVRTLALIVCTFTYLLVGAAV</span><span class="topo-inside">FDALESEPELIERQRLELRQQELRARYNLSQGGYEELERVVLRLKPHKAGVQWRFAGSF</span><span class="topo-unknown">YFAITVITTIG</span><span class="topo-inside">YGHAAPSTDGGKV</span><span class="topo-membrane">FCMFYALLGIPL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">TLVMFQSLGERINTLVRYLL</span><span class="topo-unknown">HRAKKGL</span><span class="topo-outside">GM</span><span class="topo-unknown">RR</span><span class="topo-outside">ADVSM</span><span class="topo-membrane">ANMVLIGFFSCISTLCIGAAA</span><span class="topo-inside">FSHYEHWTFFQAY</span><span class="topo-unknown">YYCFITLTTIG</span><span class="topo-inside">FGDYVALQKDQALQTQPQYVA</span><span class="topo-membrane">FSFVYILTGLTVIGAFLN</span></span>
+<span class="topo-ruler">       250       260    </span>
 <span class="topo-line"><span class="topo-membrane">LVVLRFMTMN</span><span class="topo-outside">AEDEKRDAENL</span><span class="topo-unknown">YFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -717,6 +728,7 @@ vestibule by the X-gate, explaining their exceptionally low washout rates.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -732,11 +744,13 @@ vestibule by the X-gate, explaining their exceptionally low washout rates.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MKRQ</span><span class="topo-membrane">NVRTLALIVCTFTYLLVGAAVF</span><span class="topo-inside">DALESEPELIERQRLELRQQELRARYNLSQGGYE</span></span>
-<span class="topo-line"><span class="topo-inside">ELERVVLRLKPHKAGVQWRFAGS</span><span class="topo-unknown">FYFAITVITTIGY</span><span class="topo-inside">GHAAPSTDGGK</span><span class="topo-membrane">VFCMFYALLGIPL</span></span>
-<span class="topo-line"><span class="topo-membrane">TLVMFQSLGERINTLVRYLL</span><span class="topo-unknown">HRAKKGL</span><span class="topo-outside">G</span><span class="topo-unknown">MRR</span><span class="topo-outside">ADVSM</span><span class="topo-membrane">ANMVLIGFFSCISTLCIGAAA</span><span class="topo-inside">FSH</span></span>
-<span class="topo-line"><span class="topo-inside">YEHWTFFQAY</span><span class="topo-unknown">YYCFITLTTIGF</span><span class="topo-inside">GDYVALQKDQALQTQPQYV</span><span class="topo-membrane">AFSFVYILTGLTVIGAFLN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MKRQ</span><span class="topo-membrane">NVRTLALIVCTFTYLLVGAAVF</span><span class="topo-inside">DALESEPELIERQRLELRQQELRARYNLSQGGYEELERVVLRLKPHKAGVQWRFAGS</span><span class="topo-unknown">FYFAITVITTIGY</span><span class="topo-inside">GHAAPSTDGGK</span><span class="topo-membrane">VFCMFYALLGIPL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">TLVMFQSLGERINTLVRYLL</span><span class="topo-unknown">HRAKKGL</span><span class="topo-outside">G</span><span class="topo-unknown">MRR</span><span class="topo-outside">ADVSM</span><span class="topo-membrane">ANMVLIGFFSCISTLCIGAAA</span><span class="topo-inside">FSHYEHWTFFQAY</span><span class="topo-unknown">YYCFITLTTIGF</span><span class="topo-inside">GDYVALQKDQALQTQPQYV</span><span class="topo-membrane">AFSFVYILTGLTVIGAFLN</span></span>
+<span class="topo-ruler">       250       260    </span>
 <span class="topo-line"><span class="topo-membrane">LVVLRFMTMNA</span><span class="topo-outside">EDEKRDA</span><span class="topo-unknown">ENLYFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -853,6 +867,7 @@ vestibule by the X-gate, explaining their exceptionally low washout rates.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -868,11 +883,13 @@ vestibule by the X-gate, explaining their exceptionally low washout rates.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MKRQ</span><span class="topo-membrane">NVRTLALIVCTFTYLLVGAAVF</span><span class="topo-inside">DALESEPELIERQRLELRQQELRARYNLSQGGYE</span></span>
-<span class="topo-line"><span class="topo-inside">ELERVVLRLKPHKAGVQWRFAGSF</span><span class="topo-unknown">YFAITVITTIGY</span><span class="topo-inside">GHAAPSTDGGK</span><span class="topo-membrane">VFCMFYALLGIPL</span></span>
-<span class="topo-line"><span class="topo-membrane">TLVMFQSLGERINTLVRYLL</span><span class="topo-unknown">HRAKKGL</span><span class="topo-outside">G</span><span class="topo-unknown">MRR</span><span class="topo-outside">ADVSM</span><span class="topo-membrane">ANMVLIGFFSCISTLCIGAAA</span><span class="topo-inside">FSH</span></span>
-<span class="topo-line"><span class="topo-inside">YEHWTFFQAY</span><span class="topo-unknown">YYCFITLTTIGF</span><span class="topo-inside">GDYVALQKDQALQTQPQYV</span><span class="topo-membrane">AFSFVYILTGLTVIGAFLN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MKRQ</span><span class="topo-membrane">NVRTLALIVCTFTYLLVGAAVF</span><span class="topo-inside">DALESEPELIERQRLELRQQELRARYNLSQGGYEELERVVLRLKPHKAGVQWRFAGSF</span><span class="topo-unknown">YFAITVITTIGY</span><span class="topo-inside">GHAAPSTDGGK</span><span class="topo-membrane">VFCMFYALLGIPL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">TLVMFQSLGERINTLVRYLL</span><span class="topo-unknown">HRAKKGL</span><span class="topo-outside">G</span><span class="topo-unknown">MRR</span><span class="topo-outside">ADVSM</span><span class="topo-membrane">ANMVLIGFFSCISTLCIGAAA</span><span class="topo-inside">FSHYEHWTFFQAY</span><span class="topo-unknown">YYCFITLTTIGF</span><span class="topo-inside">GDYVALQKDQALQTQPQYV</span><span class="topo-membrane">AFSFVYILTGLTVIGAFLN</span></span>
+<span class="topo-ruler">       250       260    </span>
 <span class="topo-line"><span class="topo-membrane">LVVLRFMTMN</span><span class="topo-outside">AEDEKRDAENL</span><span class="topo-unknown">YFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -989,6 +1006,7 @@ vestibule by the X-gate, explaining their exceptionally low washout rates.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

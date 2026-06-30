@@ -164,8 +164,9 @@ NavRh is a bacterial voltage-gated sodium channel from the marine alphaproteobac
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GSHMGVG</span><span class="topo-inside">SV</span><span class="topo-membrane">AALLTVVFYIAAVMATNLY</span><span class="topo-outside">GATFPEWFGD</span><span class="topo-unknown">LSKSLYTLFQVMTLESWSMGIV</span></span>
-<span class="topo-line"><span class="topo-unknown">R</span><span class="topo-outside">PVMNVHP</span><span class="topo-membrane">NAWVFFIPFIMLTTFTVLNLF</span><span class="topo-inside">IGII</span><span class="topo-unknown">VDAMAITKEQEEEAKTGHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110  </span>
+<span class="topo-line"><span class="topo-unknown">GSHMGVG</span><span class="topo-inside">SV</span><span class="topo-membrane">AALLTVVFYIAAVMATNLY</span><span class="topo-outside">GATFPEWFGD</span><span class="topo-unknown">LSKSLYTLFQVMTLESWSMGIVR</span><span class="topo-outside">PVMNVHP</span><span class="topo-membrane">NAWVFFIPFIMLTTFTVLNLF</span><span class="topo-inside">IGII</span><span class="topo-unknown">VDAMAITKEQEEEAKTGHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -240,6 +241,7 @@ NavRh is a bacterial voltage-gated sodium channel from the marine alphaproteobac
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -255,8 +257,9 @@ NavRh is a bacterial voltage-gated sodium channel from the marine alphaproteobac
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GSHMGVG</span><span class="topo-inside">SV</span><span class="topo-membrane">AALLTVVFYIAAVMATNL</span><span class="topo-outside">YGATFPEWFGD</span><span class="topo-unknown">LSKSLYTLFQVMTLESWSM</span><span class="topo-outside">GIV</span></span>
-<span class="topo-line"><span class="topo-outside">RPVMNVHPN</span><span class="topo-membrane">AWVFFIPFIMLTTFTVLNLF</span><span class="topo-inside">IGIIVDA</span><span class="topo-unknown">MAITKEQEEEAKTGHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110  </span>
+<span class="topo-line"><span class="topo-unknown">GSHMGVG</span><span class="topo-inside">SV</span><span class="topo-membrane">AALLTVVFYIAAVMATNL</span><span class="topo-outside">YGATFPEWFGD</span><span class="topo-unknown">LSKSLYTLFQVMTLESWSM</span><span class="topo-outside">GIVRPVMNVHPN</span><span class="topo-membrane">AWVFFIPFIMLTTFTVLNLF</span><span class="topo-inside">IGIIVDA</span><span class="topo-unknown">MAITKEQEEEAKTGHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -331,6 +334,7 @@ NavRh is a bacterial voltage-gated sodium channel from the marine alphaproteobac
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -346,8 +350,9 @@ NavRh is a bacterial voltage-gated sodium channel from the marine alphaproteobac
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GSH</span><span class="topo-inside">MGVGSV</span><span class="topo-membrane">AALLTVVFYIAAVMATNLY</span><span class="topo-outside">GATFPEWFGD</span><span class="topo-unknown">LSKSLYTLFQVMTLESWSMGIV</span></span>
-<span class="topo-line"><span class="topo-unknown">R</span><span class="topo-outside">PVMNVHP</span><span class="topo-membrane">NAWVFFIPFIMLTTFTVLNLF</span><span class="topo-inside">IGIIVDA</span><span class="topo-unknown">MAITKEQEEEAKTGHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110  </span>
+<span class="topo-line"><span class="topo-unknown">GSH</span><span class="topo-inside">MGVGSV</span><span class="topo-membrane">AALLTVVFYIAAVMATNLY</span><span class="topo-outside">GATFPEWFGD</span><span class="topo-unknown">LSKSLYTLFQVMTLESWSMGIVR</span><span class="topo-outside">PVMNVHP</span><span class="topo-membrane">NAWVFFIPFIMLTTFTVLNLF</span><span class="topo-inside">IGIIVDA</span><span class="topo-unknown">MAITKEQEEEAKTGHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -422,6 +427,7 @@ NavRh is a bacterial voltage-gated sodium channel from the marine alphaproteobac
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -437,8 +443,9 @@ NavRh is a bacterial voltage-gated sodium channel from the marine alphaproteobac
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GSHMGVG</span><span class="topo-inside">SV</span><span class="topo-membrane">AALLTVVFYIAAVMATNLY</span><span class="topo-outside">GATFPEWFGD</span><span class="topo-unknown">LSKSLYTLFQVMTLESWSM</span><span class="topo-outside">GIV</span></span>
-<span class="topo-line"><span class="topo-outside">RPVMNVHPN</span><span class="topo-membrane">AWVFFIPFIMLTTFTVLNLF</span><span class="topo-inside">IGIIVDAMA</span><span class="topo-unknown">ITKEQEEEAKTGHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110  </span>
+<span class="topo-line"><span class="topo-unknown">GSHMGVG</span><span class="topo-inside">SV</span><span class="topo-membrane">AALLTVVFYIAAVMATNLY</span><span class="topo-outside">GATFPEWFGD</span><span class="topo-unknown">LSKSLYTLFQVMTLESWSM</span><span class="topo-outside">GIVRPVMNVHPN</span><span class="topo-membrane">AWVFFIPFIMLTTFTVLNLF</span><span class="topo-inside">IGIIVDAMA</span><span class="topo-unknown">ITKEQEEEAKTGHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -513,6 +520,7 @@ NavRh is a bacterial voltage-gated sodium channel from the marine alphaproteobac
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -528,10 +536,11 @@ NavRh is a bacterial voltage-gated sodium channel from the marine alphaproteobac
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">TPFFSSLKDNRIFQ</span><span class="topo-membrane">FTVVSIIILNAVLIGATT</span><span class="topo-inside">YEL</span><span class="topo-membrane">DPLFLETIHLLDYGITIFFV</span><span class="topo-outside">IEIL</span></span>
-<span class="topo-line"><span class="topo-outside">IRFIG</span><span class="topo-unknown">EKQKADFFK</span><span class="topo-outside">SGWNIF</span><span class="topo-membrane">DTVIVAISLIP</span><span class="topo-unknown">IPNNSSFL</span><span class="topo-inside">V</span><span class="topo-membrane">LRLLRIFRVLRLISV</span><span class="topo-outside">I</span><span class="topo-unknown">PELK</span></span>
-<span class="topo-line"><span class="topo-unknown">QIIEAILESVRRV</span><span class="topo-membrane">FFVSLLLFIILYIYATMGAIL</span><span class="topo-inside">FGNDDPSRWGD</span><span class="topo-unknown">LGISLITLFQVLTLS</span></span>
-<span class="topo-line"><span class="topo-unknown">SWETVMLPMQEI</span><span class="topo-inside">YW</span><span class="topo-membrane">WSWVYFFSFIIICSITILNLV</span><span class="topo-outside">IAILVDVVIQKKL</span><span class="topo-unknown">E</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">TPFFSSLKDNRIFQ</span><span class="topo-membrane">FTVVSIIILNAVLIGATT</span><span class="topo-inside">YEL</span><span class="topo-membrane">DPLFLETIHLLDYGITIFFV</span><span class="topo-outside">IEILIRFIG</span><span class="topo-unknown">EKQKADFFK</span><span class="topo-outside">SGWNIF</span><span class="topo-membrane">DTVIVAISLIP</span><span class="topo-unknown">IPNNSSFL</span><span class="topo-inside">V</span><span class="topo-membrane">LRLLRIFRVLRLISV</span><span class="topo-outside">I</span><span class="topo-unknown">PELK</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220         </span>
+<span class="topo-line"><span class="topo-unknown">QIIEAILESVRRV</span><span class="topo-membrane">FFVSLLLFIILYIYATMGAIL</span><span class="topo-inside">FGNDDPSRWGD</span><span class="topo-unknown">LGISLITLFQVLTLSSWETVMLPMQEI</span><span class="topo-inside">YW</span><span class="topo-membrane">WSWVYFFSFIIICSITILNLV</span><span class="topo-outside">IAILVDVVIQKKL</span><span class="topo-unknown">E</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -690,6 +699,7 @@ NavRh is a bacterial voltage-gated sodium channel from the marine alphaproteobac
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -705,10 +715,11 @@ NavRh is a bacterial voltage-gated sodium channel from the marine alphaproteobac
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MTP</span><span class="topo-outside">FFSSLKDNRIFQF</span><span class="topo-membrane">TVVSIIILNAVLIG</span><span class="topo-inside">ATTYEL</span><span class="topo-membrane">DPLFLETIHLLDYGITIF</span><span class="topo-outside">FVIEIL</span></span>
-<span class="topo-line"><span class="topo-outside">IRFIGEKQKA</span><span class="topo-unknown">DFFK</span><span class="topo-outside">SGWNIFDTV</span><span class="topo-membrane">IVAISLIPIPNNSS</span><span class="topo-inside">F</span><span class="topo-membrane">LVLRLLRIFRVLRLI</span><span class="topo-outside">SVI</span><span class="topo-unknown">PELK</span></span>
-<span class="topo-line"><span class="topo-unknown">QIIEAILESVRRV</span><span class="topo-membrane">FFVSLLLFIILYIYATMGAIL</span><span class="topo-inside">FGNDDPSRWGD</span><span class="topo-unknown">LGISLITLFQVLTLS</span></span>
-<span class="topo-line"><span class="topo-unknown">SWETVMLPMQEI</span><span class="topo-inside">YW</span><span class="topo-membrane">WSWVYFFSFIIICSITILNL</span><span class="topo-outside">VIAILVDVVIQKKLE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MTP</span><span class="topo-outside">FFSSLKDNRIFQF</span><span class="topo-membrane">TVVSIIILNAVLIG</span><span class="topo-inside">ATTYEL</span><span class="topo-membrane">DPLFLETIHLLDYGITIF</span><span class="topo-outside">FVIEILIRFIGEKQKA</span><span class="topo-unknown">DFFK</span><span class="topo-outside">SGWNIFDTV</span><span class="topo-membrane">IVAISLIPIPNNSS</span><span class="topo-inside">F</span><span class="topo-membrane">LVLRLLRIFRVLRLI</span><span class="topo-outside">SVI</span><span class="topo-unknown">PELK</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220         </span>
+<span class="topo-line"><span class="topo-unknown">QIIEAILESVRRV</span><span class="topo-membrane">FFVSLLLFIILYIYATMGAIL</span><span class="topo-inside">FGNDDPSRWGD</span><span class="topo-unknown">LGISLITLFQVLTLSSWETVMLPMQEI</span><span class="topo-inside">YW</span><span class="topo-membrane">WSWVYFFSFIIICSITILNL</span><span class="topo-outside">VIAILVDVVIQKKLE</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -853,6 +864,7 @@ NavRh is a bacterial voltage-gated sodium channel from the marine alphaproteobac
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -868,10 +880,11 @@ NavRh is a bacterial voltage-gated sodium channel from the marine alphaproteobac
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MTPFFSSL</span><span class="topo-outside">KDNRIFQF</span><span class="topo-membrane">TVVSIIILNAVLIG</span><span class="topo-inside">ATTYEL</span><span class="topo-membrane">DPLFLETIHLLDYGITI</span><span class="topo-outside">FFVIEIL</span></span>
-<span class="topo-line"><span class="topo-outside">I</span><span class="topo-unknown">RFIGEKQKADFFKS</span><span class="topo-outside">GWNIF</span><span class="topo-membrane">DTVIVAISLIP</span><span class="topo-unknown">IPNNS</span><span class="topo-inside">S</span><span class="topo-membrane">FLVLRLLRIFRVLRLI</span><span class="topo-outside">SVIP</span><span class="topo-unknown">ELK</span></span>
-<span class="topo-line"><span class="topo-unknown">QIIEAILESVRRV</span><span class="topo-membrane">FFVSLLLFIILYIYATMGAIL</span><span class="topo-inside">FGNDDPSRWGD</span><span class="topo-unknown">LGISLITLFQVLTLS</span></span>
-<span class="topo-line"><span class="topo-unknown">SWETVMLPMQ</span><span class="topo-inside">EIYW</span><span class="topo-membrane">WSWVYFFSFIIICSITIL</span><span class="topo-outside">NLVIAILVDVVIQK</span><span class="topo-unknown">KLE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MTPFFSSL</span><span class="topo-outside">KDNRIFQF</span><span class="topo-membrane">TVVSIIILNAVLIG</span><span class="topo-inside">ATTYEL</span><span class="topo-membrane">DPLFLETIHLLDYGITI</span><span class="topo-outside">FFVIEILI</span><span class="topo-unknown">RFIGEKQKADFFKS</span><span class="topo-outside">GWNIF</span><span class="topo-membrane">DTVIVAISLIP</span><span class="topo-unknown">IPNNS</span><span class="topo-inside">S</span><span class="topo-membrane">FLVLRLLRIFRVLRLI</span><span class="topo-outside">SVIP</span><span class="topo-unknown">ELK</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220         </span>
+<span class="topo-line"><span class="topo-unknown">QIIEAILESVRRV</span><span class="topo-membrane">FFVSLLLFIILYIYATMGAIL</span><span class="topo-inside">FGNDDPSRWGD</span><span class="topo-unknown">LGISLITLFQVLTLSSWETVMLPMQ</span><span class="topo-inside">EIYW</span><span class="topo-membrane">WSWVYFFSFIIICSITIL</span><span class="topo-outside">NLVIAILVDVVIQK</span><span class="topo-unknown">KLE</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1030,6 +1043,7 @@ NavRh is a bacterial voltage-gated sodium channel from the marine alphaproteobac
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1045,10 +1059,11 @@ NavRh is a bacterial voltage-gated sodium channel from the marine alphaproteobac
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MTPFFSSLKDNRI</span><span class="topo-outside">FQ</span><span class="topo-membrane">FTVVSIIILNAVLIG</span><span class="topo-unknown">ATTY</span><span class="topo-inside">EL</span><span class="topo-membrane">DPLFLETIHLLDYGITIFFV</span><span class="topo-outside">IEIL</span></span>
-<span class="topo-line"><span class="topo-outside">IRFI</span><span class="topo-unknown">GEKQKADFFKS</span><span class="topo-outside">GWNIF</span><span class="topo-membrane">DTVIVAISLIPIPN</span><span class="topo-inside">NSS</span><span class="topo-membrane">FLVLRLLRIFRVLRLISVI</span><span class="topo-unknown">PELK</span></span>
-<span class="topo-line"><span class="topo-unknown">QIIEAILESVRRV</span><span class="topo-membrane">FFVSLLLFIILYIYATMGAIL</span><span class="topo-inside">FGNDDPSRWGD</span><span class="topo-unknown">LGISLITLFQVLTLS</span></span>
-<span class="topo-line"><span class="topo-unknown">SWETVMLPMQEI</span><span class="topo-inside">YW</span><span class="topo-membrane">WSWVYFFSFIIICSITIL</span><span class="topo-outside">NLVIAILVDVVIQKK</span><span class="topo-unknown">LE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MTPFFSSLKDNRI</span><span class="topo-outside">FQ</span><span class="topo-membrane">FTVVSIIILNAVLIG</span><span class="topo-unknown">ATTY</span><span class="topo-inside">EL</span><span class="topo-membrane">DPLFLETIHLLDYGITIFFV</span><span class="topo-outside">IEILIRFI</span><span class="topo-unknown">GEKQKADFFKS</span><span class="topo-outside">GWNIF</span><span class="topo-membrane">DTVIVAISLIPIPN</span><span class="topo-inside">NSS</span><span class="topo-membrane">FLVLRLLRIFRVLRLISVI</span><span class="topo-unknown">PELK</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220         </span>
+<span class="topo-line"><span class="topo-unknown">QIIEAILESVRRV</span><span class="topo-membrane">FFVSLLLFIILYIYATMGAIL</span><span class="topo-inside">FGNDDPSRWGD</span><span class="topo-unknown">LGISLITLFQVLTLSSWETVMLPMQEI</span><span class="topo-inside">YW</span><span class="topo-membrane">WSWVYFFSFIIICSITIL</span><span class="topo-outside">NLVIAILVDVVIQKK</span><span class="topo-unknown">LE</span></span>
+<details class="topo-details"><summary>Topology coordinates (20 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1200,6 +1215,7 @@ NavRh is a bacterial voltage-gated sodium channel from the marine alphaproteobac
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1215,10 +1231,11 @@ NavRh is a bacterial voltage-gated sodium channel from the marine alphaproteobac
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">TPFFSSLKDNRIFQ</span><span class="topo-membrane">FTVVSIIILNAVLIGATT</span><span class="topo-inside">YEL</span><span class="topo-membrane">DPLFLETIHLLDYGITIFFV</span><span class="topo-outside">IEIL</span></span>
-<span class="topo-line"><span class="topo-outside">IRFIG</span><span class="topo-unknown">EKQKADFFK</span><span class="topo-outside">SGWNIF</span><span class="topo-membrane">DTVIVAISLIP</span><span class="topo-unknown">IPNNSSFL</span><span class="topo-inside">V</span><span class="topo-membrane">LRLLRIFRVLRLISV</span><span class="topo-outside">I</span><span class="topo-unknown">PELK</span></span>
-<span class="topo-line"><span class="topo-unknown">QIIEAILESVRRV</span><span class="topo-membrane">FFVSLLLFIILYIYATMGAIL</span><span class="topo-inside">FGNDDPSRWGD</span><span class="topo-unknown">LGISLITLFQVLTLS</span></span>
-<span class="topo-line"><span class="topo-unknown">SWETVMLPMQEI</span><span class="topo-inside">YW</span><span class="topo-membrane">WSWVYFFSFIIICSITILNLV</span><span class="topo-outside">IAILVDVVIQKKL</span><span class="topo-unknown">E</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">TPFFSSLKDNRIFQ</span><span class="topo-membrane">FTVVSIIILNAVLIGATT</span><span class="topo-inside">YEL</span><span class="topo-membrane">DPLFLETIHLLDYGITIFFV</span><span class="topo-outside">IEILIRFIG</span><span class="topo-unknown">EKQKADFFK</span><span class="topo-outside">SGWNIF</span><span class="topo-membrane">DTVIVAISLIP</span><span class="topo-unknown">IPNNSSFL</span><span class="topo-inside">V</span><span class="topo-membrane">LRLLRIFRVLRLISV</span><span class="topo-outside">I</span><span class="topo-unknown">PELK</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220         </span>
+<span class="topo-line"><span class="topo-unknown">QIIEAILESVRRV</span><span class="topo-membrane">FFVSLLLFIILYIYATMGAIL</span><span class="topo-inside">FGNDDPSRWGD</span><span class="topo-unknown">LGISLITLFQVLTLSSWETVMLPMQEI</span><span class="topo-inside">YW</span><span class="topo-membrane">WSWVYFFSFIIICSITILNLV</span><span class="topo-outside">IAILVDVVIQKKL</span><span class="topo-unknown">E</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1377,6 +1394,7 @@ NavRh is a bacterial voltage-gated sodium channel from the marine alphaproteobac
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1392,10 +1410,11 @@ NavRh is a bacterial voltage-gated sodium channel from the marine alphaproteobac
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MTP</span><span class="topo-outside">FFSSLKDNRIFQF</span><span class="topo-membrane">TVVSIIILNAVLIG</span><span class="topo-inside">ATTYEL</span><span class="topo-membrane">DPLFLETIHLLDYGITIF</span><span class="topo-outside">FVIEIL</span></span>
-<span class="topo-line"><span class="topo-outside">IRFIGEKQKA</span><span class="topo-unknown">DFFK</span><span class="topo-outside">SGWNIFDTV</span><span class="topo-membrane">IVAISLIPIPNNSS</span><span class="topo-inside">F</span><span class="topo-membrane">LVLRLLRIFRVLRLI</span><span class="topo-outside">SVI</span><span class="topo-unknown">PELK</span></span>
-<span class="topo-line"><span class="topo-unknown">QIIEAILESVRRV</span><span class="topo-membrane">FFVSLLLFIILYIYATMGAIL</span><span class="topo-inside">FGNDDPSRWGD</span><span class="topo-unknown">LGISLITLFQVLTLS</span></span>
-<span class="topo-line"><span class="topo-unknown">SWETVMLPMQEI</span><span class="topo-inside">YW</span><span class="topo-membrane">WSWVYFFSFIIICSITILNL</span><span class="topo-outside">VIAILVDVVIQKKLE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MTP</span><span class="topo-outside">FFSSLKDNRIFQF</span><span class="topo-membrane">TVVSIIILNAVLIG</span><span class="topo-inside">ATTYEL</span><span class="topo-membrane">DPLFLETIHLLDYGITIF</span><span class="topo-outside">FVIEILIRFIGEKQKA</span><span class="topo-unknown">DFFK</span><span class="topo-outside">SGWNIFDTV</span><span class="topo-membrane">IVAISLIPIPNNSS</span><span class="topo-inside">F</span><span class="topo-membrane">LVLRLLRIFRVLRLI</span><span class="topo-outside">SVI</span><span class="topo-unknown">PELK</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220         </span>
+<span class="topo-line"><span class="topo-unknown">QIIEAILESVRRV</span><span class="topo-membrane">FFVSLLLFIILYIYATMGAIL</span><span class="topo-inside">FGNDDPSRWGD</span><span class="topo-unknown">LGISLITLFQVLTLSSWETVMLPMQEI</span><span class="topo-inside">YW</span><span class="topo-membrane">WSWVYFFSFIIICSITILNL</span><span class="topo-outside">VIAILVDVVIQKKLE</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1540,6 +1559,7 @@ NavRh is a bacterial voltage-gated sodium channel from the marine alphaproteobac
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1555,10 +1575,11 @@ NavRh is a bacterial voltage-gated sodium channel from the marine alphaproteobac
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MTPFFSSL</span><span class="topo-outside">KDNRIFQF</span><span class="topo-membrane">TVVSIIILNAVLIG</span><span class="topo-inside">ATTYEL</span><span class="topo-membrane">DPLFLETIHLLDYGITI</span><span class="topo-outside">FFVIEIL</span></span>
-<span class="topo-line"><span class="topo-outside">I</span><span class="topo-unknown">RFIGEKQKADFFKS</span><span class="topo-outside">GWNIF</span><span class="topo-membrane">DTVIVAISLIP</span><span class="topo-unknown">IPNNS</span><span class="topo-inside">S</span><span class="topo-membrane">FLVLRLLRIFRVLRLI</span><span class="topo-outside">SVIP</span><span class="topo-unknown">ELK</span></span>
-<span class="topo-line"><span class="topo-unknown">QIIEAILESVRRV</span><span class="topo-membrane">FFVSLLLFIILYIYATMGAIL</span><span class="topo-inside">FGNDDPSRWGD</span><span class="topo-unknown">LGISLITLFQVLTLS</span></span>
-<span class="topo-line"><span class="topo-unknown">SWETVMLPMQ</span><span class="topo-inside">EIYW</span><span class="topo-membrane">WSWVYFFSFIIICSITIL</span><span class="topo-outside">NLVIAILVDVVIQK</span><span class="topo-unknown">KLE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MTPFFSSL</span><span class="topo-outside">KDNRIFQF</span><span class="topo-membrane">TVVSIIILNAVLIG</span><span class="topo-inside">ATTYEL</span><span class="topo-membrane">DPLFLETIHLLDYGITI</span><span class="topo-outside">FFVIEILI</span><span class="topo-unknown">RFIGEKQKADFFKS</span><span class="topo-outside">GWNIF</span><span class="topo-membrane">DTVIVAISLIP</span><span class="topo-unknown">IPNNS</span><span class="topo-inside">S</span><span class="topo-membrane">FLVLRLLRIFRVLRLI</span><span class="topo-outside">SVIP</span><span class="topo-unknown">ELK</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220         </span>
+<span class="topo-line"><span class="topo-unknown">QIIEAILESVRRV</span><span class="topo-membrane">FFVSLLLFIILYIYATMGAIL</span><span class="topo-inside">FGNDDPSRWGD</span><span class="topo-unknown">LGISLITLFQVLTLSSWETVMLPMQ</span><span class="topo-inside">EIYW</span><span class="topo-membrane">WSWVYFFSFIIICSITIL</span><span class="topo-outside">NLVIAILVDVVIQK</span><span class="topo-unknown">KLE</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1717,6 +1738,7 @@ NavRh is a bacterial voltage-gated sodium channel from the marine alphaproteobac
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1732,10 +1754,11 @@ NavRh is a bacterial voltage-gated sodium channel from the marine alphaproteobac
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MTPFFSSLKDNRI</span><span class="topo-outside">FQ</span><span class="topo-membrane">FTVVSIIILNAVLIG</span><span class="topo-unknown">ATTY</span><span class="topo-inside">EL</span><span class="topo-membrane">DPLFLETIHLLDYGITIFFV</span><span class="topo-outside">IEIL</span></span>
-<span class="topo-line"><span class="topo-outside">IRFI</span><span class="topo-unknown">GEKQKADFFKS</span><span class="topo-outside">GWNIF</span><span class="topo-membrane">DTVIVAISLIPIPN</span><span class="topo-inside">NSS</span><span class="topo-membrane">FLVLRLLRIFRVLRLISVI</span><span class="topo-unknown">PELK</span></span>
-<span class="topo-line"><span class="topo-unknown">QIIEAILESVRRV</span><span class="topo-membrane">FFVSLLLFIILYIYATMGAIL</span><span class="topo-inside">FGNDDPSRWGD</span><span class="topo-unknown">LGISLITLFQVLTLS</span></span>
-<span class="topo-line"><span class="topo-unknown">SWETVMLPMQEI</span><span class="topo-inside">YW</span><span class="topo-membrane">WSWVYFFSFIIICSITIL</span><span class="topo-outside">NLVIAILVDVVIQKK</span><span class="topo-unknown">LE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MTPFFSSLKDNRI</span><span class="topo-outside">FQ</span><span class="topo-membrane">FTVVSIIILNAVLIG</span><span class="topo-unknown">ATTY</span><span class="topo-inside">EL</span><span class="topo-membrane">DPLFLETIHLLDYGITIFFV</span><span class="topo-outside">IEILIRFI</span><span class="topo-unknown">GEKQKADFFKS</span><span class="topo-outside">GWNIF</span><span class="topo-membrane">DTVIVAISLIPIPN</span><span class="topo-inside">NSS</span><span class="topo-membrane">FLVLRLLRIFRVLRLISVI</span><span class="topo-unknown">PELK</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220         </span>
+<span class="topo-line"><span class="topo-unknown">QIIEAILESVRRV</span><span class="topo-membrane">FFVSLLLFIILYIYATMGAIL</span><span class="topo-inside">FGNDDPSRWGD</span><span class="topo-unknown">LGISLITLFQVLTLSSWETVMLPMQEI</span><span class="topo-inside">YW</span><span class="topo-membrane">WSWVYFFSFIIICSITIL</span><span class="topo-outside">NLVIAILVDVVIQKK</span><span class="topo-unknown">LE</span></span>
+<details class="topo-details"><summary>Topology coordinates (20 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1887,6 +1910,7 @@ NavRh is a bacterial voltage-gated sodium channel from the marine alphaproteobac
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

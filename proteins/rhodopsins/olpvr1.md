@@ -125,10 +125,11 @@ OLPVR1 is a viral channelrhodopsin from the VR1 group, encoded by the Organic La
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">DNI</span><span class="topo-membrane">IMTAYISIFVQIITAIISVYG</span><span class="topo-inside">LFIPLNFKDIILREI</span><span class="topo-membrane">LILELIVQIIEFIFYIWLII</span></span>
-<span class="topo-line"><span class="topo-outside">TLQSINEDIT</span><span class="topo-membrane">YVRYFDWVLTTPVMLLTTV</span><span class="topo-inside">YFFEYMNSDDGIRKKEINDRDYV</span><span class="topo-membrane">YLFYICLS</span></span>
-<span class="topo-line"><span class="topo-membrane">NFFMLLIGYLGE</span><span class="topo-outside">TKQINKM</span><span class="topo-membrane">LTLFGGSFFLFLTFYLLYVK</span><span class="topo-inside">YTKENW</span><span class="topo-membrane">MNYIVFYFMFLVWFL</span></span>
-<span class="topo-line"><span class="topo-membrane">YGFAFM</span><span class="topo-outside">FPFSIK</span><span class="topo-membrane">NQMYNILDIVSKNIYSIFIFI</span><span class="topo-inside">VILNQSYKLLLE</span><span class="topo-unknown">HHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">DNI</span><span class="topo-membrane">IMTAYISIFVQIITAIISVYG</span><span class="topo-inside">LFIPLNFKDIILREI</span><span class="topo-membrane">LILELIVQIIEFIFYIWLII</span><span class="topo-outside">TLQSINEDIT</span><span class="topo-membrane">YVRYFDWVLTTPVMLLTTV</span><span class="topo-inside">YFFEYMNSDDGIRKKEINDRDYV</span><span class="topo-membrane">YLFYICLS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230 </span>
+<span class="topo-line"><span class="topo-membrane">NFFMLLIGYLGE</span><span class="topo-outside">TKQINKM</span><span class="topo-membrane">LTLFGGSFFLFLTFYLLYVK</span><span class="topo-inside">YTKENW</span><span class="topo-membrane">MNYIVFYFMFLVWFLYGFAFM</span><span class="topo-outside">FPFSIK</span><span class="topo-membrane">NQMYNILDIVSKNIYSIFIFI</span><span class="topo-inside">VILNQSYKLLLE</span><span class="topo-unknown">HHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -259,6 +260,7 @@ OLPVR1 is a viral channelrhodopsin from the VR1 group, encoded by the Organic La
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -274,10 +276,11 @@ OLPVR1 is a viral channelrhodopsin from the VR1 group, encoded by the Organic La
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MDNIIMT</span><span class="topo-membrane">AYISIFVQIITAIISVYGLFI</span><span class="topo-outside">PLNFKDIIL</span><span class="topo-membrane">REILILELIVQIIEFIFYIWL</span><span class="topo-inside">II</span></span>
-<span class="topo-line"><span class="topo-inside">TLQSINEDIT</span><span class="topo-membrane">YVRYFDWVLTTPVMLLTTVYF</span><span class="topo-outside">FEYMNSDDGIRKKEINDRDYV</span><span class="topo-membrane">YLFYICLS</span></span>
-<span class="topo-line"><span class="topo-membrane">NFFMLLIGYLGE</span><span class="topo-inside">TKQINK</span><span class="topo-membrane">MLTLFGGSFFLFLTFYLLYV</span><span class="topo-outside">KYTKENWM</span><span class="topo-membrane">NYLVFGAMFLLWAL</span></span>
-<span class="topo-line"><span class="topo-membrane">YGFAFM</span><span class="topo-inside">FPFSIK</span><span class="topo-membrane">NQMYNILDIFSKNFVSIFFFIVILN</span><span class="topo-outside">QSYKLL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">MDNIIMT</span><span class="topo-membrane">AYISIFVQIITAIISVYGLFI</span><span class="topo-outside">PLNFKDIIL</span><span class="topo-membrane">REILILELIVQIIEFIFYIWL</span><span class="topo-inside">IITLQSINEDIT</span><span class="topo-membrane">YVRYFDWVLTTPVMLLTTVYF</span><span class="topo-outside">FEYMNSDDGIRKKEINDRDYV</span><span class="topo-membrane">YLFYICLS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220   </span>
+<span class="topo-line"><span class="topo-membrane">NFFMLLIGYLGE</span><span class="topo-inside">TKQINK</span><span class="topo-membrane">MLTLFGGSFFLFLTFYLLYV</span><span class="topo-outside">KYTKENWM</span><span class="topo-membrane">NYLVFGAMFLLWALYGFAFM</span><span class="topo-inside">FPFSIK</span><span class="topo-membrane">NQMYNILDIFSKNFVSIFFFIVILN</span><span class="topo-outside">QSYKLL</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -394,6 +397,7 @@ OLPVR1 is a viral channelrhodopsin from the VR1 group, encoded by the Organic La
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -409,10 +413,11 @@ OLPVR1 is a viral channelrhodopsin from the VR1 group, encoded by the Organic La
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">DNIIM</span><span class="topo-membrane">TAYISIFVQIITAIISVYGL</span><span class="topo-outside">FIPLNFKDIILREI</span><span class="topo-membrane">LILELIVQIIEFIFYIWLII</span></span>
-<span class="topo-line"><span class="topo-inside">TLQSINEDIT</span><span class="topo-membrane">YVRYFDWVLTTPVMLLTTVYFF</span><span class="topo-outside">EYMNSDDGIRKKEINDRDY</span><span class="topo-membrane">VYLFYICLS</span></span>
-<span class="topo-line"><span class="topo-membrane">NFFMLLIGYLGE</span><span class="topo-inside">TKQINKML</span><span class="topo-membrane">TLFGGSFFLFLTFYLLYVKYT</span><span class="topo-outside">KENW</span><span class="topo-membrane">MNYLVFGAMFLLWAL</span></span>
-<span class="topo-line"><span class="topo-membrane">YGFAF</span><span class="topo-inside">MFPFSIKN</span><span class="topo-membrane">QMYNILDIFSKNFVSIFFFIV</span><span class="topo-outside">ILNQSYKL</span><span class="topo-unknown">L</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">DNIIM</span><span class="topo-membrane">TAYISIFVQIITAIISVYGL</span><span class="topo-outside">FIPLNFKDIILREI</span><span class="topo-membrane">LILELIVQIIEFIFYIWLII</span><span class="topo-inside">TLQSINEDIT</span><span class="topo-membrane">YVRYFDWVLTTPVMLLTTVYFF</span><span class="topo-outside">EYMNSDDGIRKKEINDRDY</span><span class="topo-membrane">VYLFYICLS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220   </span>
+<span class="topo-line"><span class="topo-membrane">NFFMLLIGYLGE</span><span class="topo-inside">TKQINKML</span><span class="topo-membrane">TLFGGSFFLFLTFYLLYVKYT</span><span class="topo-outside">KENW</span><span class="topo-membrane">MNYLVFGAMFLLWALYGFAF</span><span class="topo-inside">MFPFSIKN</span><span class="topo-membrane">QMYNILDIFSKNFVSIFFFIV</span><span class="topo-outside">ILNQSYKL</span><span class="topo-unknown">L</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -543,6 +548,7 @@ OLPVR1 is a viral channelrhodopsin from the VR1 group, encoded by the Organic La
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -558,10 +564,11 @@ OLPVR1 is a viral channelrhodopsin from the VR1 group, encoded by the Organic La
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">DNI</span><span class="topo-membrane">IMTAYISIFVQIITAIISVYG</span><span class="topo-outside">LFIPLNFKDIILREI</span><span class="topo-membrane">LILELIVQIIEFIFYIWLII</span></span>
-<span class="topo-line"><span class="topo-inside">TLQSINEDIT</span><span class="topo-membrane">YVRYFDWVLTTPVMLLTTV</span><span class="topo-outside">YFFEYMNSDDGIRKKEINDRDY</span><span class="topo-membrane">VYLFYICLS</span></span>
-<span class="topo-line"><span class="topo-membrane">NFFMLLIGYLGE</span><span class="topo-inside">TKQINKM</span><span class="topo-membrane">LTLFGGSFFLFLTFYLLYVK</span><span class="topo-outside">YTKENW</span><span class="topo-membrane">MNYIVFYFMFLVWFL</span></span>
-<span class="topo-line"><span class="topo-membrane">YGFAFM</span><span class="topo-inside">FPFSIK</span><span class="topo-membrane">NQMYNILDIVSKNIYSIFIFI</span><span class="topo-outside">VILNQSYKLLL</span><span class="topo-unknown">EHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">DNI</span><span class="topo-membrane">IMTAYISIFVQIITAIISVYG</span><span class="topo-outside">LFIPLNFKDIILREI</span><span class="topo-membrane">LILELIVQIIEFIFYIWLII</span><span class="topo-inside">TLQSINEDIT</span><span class="topo-membrane">YVRYFDWVLTTPVMLLTTV</span><span class="topo-outside">YFFEYMNSDDGIRKKEINDRDY</span><span class="topo-membrane">VYLFYICLS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230 </span>
+<span class="topo-line"><span class="topo-membrane">NFFMLLIGYLGE</span><span class="topo-inside">TKQINKM</span><span class="topo-membrane">LTLFGGSFFLFLTFYLLYVK</span><span class="topo-outside">YTKENW</span><span class="topo-membrane">MNYIVFYFMFLVWFLYGFAFM</span><span class="topo-inside">FPFSIK</span><span class="topo-membrane">NQMYNILDIVSKNIYSIFIFI</span><span class="topo-outside">VILNQSYKLLL</span><span class="topo-unknown">EHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -692,6 +699,7 @@ OLPVR1 is a viral channelrhodopsin from the VR1 group, encoded by the Organic La
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

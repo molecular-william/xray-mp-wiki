@@ -104,12 +104,13 @@ GR (Halobacterium sp. GR [Bacteriorhodopsin](/xray-mp-wiki/proteins/bacteriorhod
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">PDYVFHRAHERMLFQTSYTLENNGSVICIPNNGQCFCLAWLKSNGTNAEKLA</span><span class="topo-membrane">ANILQWIT</span></span>
-<span class="topo-line"><span class="topo-membrane">FALSALCLMFY</span><span class="topo-unknown">GYQTWKST</span><span class="topo-outside">CG</span><span class="topo-membrane">WEEIYVATIEMIKFIIEYF</span><span class="topo-inside">HEFDEPAVIYSSNGNKT</span><span class="topo-membrane">VWL</span></span>
-<span class="topo-line"><span class="topo-membrane">RYAEWLLTCPVILIHL</span><span class="topo-outside">SNLTGLANDYNKR</span><span class="topo-membrane">TMGLLVSDIGGIVWATTAAL</span><span class="topo-inside">SKGY</span><span class="topo-membrane">VRVIFFL</span></span>
-<span class="topo-line"><span class="topo-membrane">MGLCYGIYTFFNAA</span><span class="topo-outside">KVYIEAYHTVPKGRCRQVVT</span><span class="topo-membrane">GMAWLFFVSWGMFPILFILG</span><span class="topo-inside">PEGFGV</span></span>
-<span class="topo-line"><span class="topo-inside">LSVYG</span><span class="topo-membrane">STVGHTIIDLMSKNCWGLLGH</span><span class="topo-outside">YLRVLIHEHILIHGDIRKTTK</span><span class="topo-unknown">LNIGGTE</span><span class="topo-outside">IEVETL</span></span>
-<span class="topo-line"><span class="topo-outside">VEDE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">PDYVFHRAHERMLFQTSYTLENNGSVICIPNNGQCFCLAWLKSNGTNAEKLA</span><span class="topo-membrane">ANILQWITFALSALCLMFY</span><span class="topo-unknown">GYQTWKST</span><span class="topo-outside">CG</span><span class="topo-membrane">WEEIYVATIEMIKFIIEYF</span><span class="topo-inside">HEFDEPAVIYSSNGNKT</span><span class="topo-membrane">VWL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">RYAEWLLTCPVILIHL</span><span class="topo-outside">SNLTGLANDYNKR</span><span class="topo-membrane">TMGLLVSDIGGIVWATTAAL</span><span class="topo-inside">SKGY</span><span class="topo-membrane">VRVIFFLMGLCYGIYTFFNAA</span><span class="topo-outside">KVYIEAYHTVPKGRCRQVVT</span><span class="topo-membrane">GMAWLFFVSWGMFPILFILG</span><span class="topo-inside">PEGFGV</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300    </span>
+<span class="topo-line"><span class="topo-inside">LSVYG</span><span class="topo-membrane">STVGHTIIDLMSKNCWGLLGH</span><span class="topo-outside">YLRVLIHEHILIHGDIRKTTK</span><span class="topo-unknown">LNIGGTE</span><span class="topo-outside">IEVETLVEDE</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -233,6 +234,7 @@ GR (Halobacterium sp. GR [Bacteriorhodopsin](/xray-mp-wiki/proteins/bacteriorhod
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -248,12 +250,13 @@ GR (Halobacterium sp. GR [Bacteriorhodopsin](/xray-mp-wiki/proteins/bacteriorhod
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">PDYVFHRAHERMLFQTSYTLENNGSVICIPNNGQCFCLAWLKSNGTNAEKLA</span><span class="topo-membrane">ANILQWIT</span></span>
-<span class="topo-line"><span class="topo-membrane">FALSALCLMFY</span><span class="topo-unknown">GYQTWKST</span><span class="topo-outside">CG</span><span class="topo-membrane">WEEIYVATIEMIKFIIEYF</span><span class="topo-inside">HEFDEPAVIYSSNGNKT</span><span class="topo-membrane">VWL</span></span>
-<span class="topo-line"><span class="topo-membrane">RYAEWLLTCPVILIHL</span><span class="topo-outside">SNLTGLANDYNKR</span><span class="topo-membrane">TMGLLVSDIGGIVWATTAAL</span><span class="topo-inside">SKGY</span><span class="topo-membrane">VRVIFFL</span></span>
-<span class="topo-line"><span class="topo-membrane">MGLCYGIYTFFNAA</span><span class="topo-outside">KVYIEAYHTVPKGRCRQVVT</span><span class="topo-membrane">GMAWLFFVSWGMFPILFILG</span><span class="topo-inside">PEGFGV</span></span>
-<span class="topo-line"><span class="topo-inside">LSVYG</span><span class="topo-membrane">STVGHTIIDLMSKNCWGLLGH</span><span class="topo-outside">YLRVLIHEHILIHGDIRKTTK</span><span class="topo-unknown">LNIGGTE</span><span class="topo-outside">IEVETL</span></span>
-<span class="topo-line"><span class="topo-outside">VEDE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">PDYVFHRAHERMLFQTSYTLENNGSVICIPNNGQCFCLAWLKSNGTNAEKLA</span><span class="topo-membrane">ANILQWITFALSALCLMFY</span><span class="topo-unknown">GYQTWKST</span><span class="topo-outside">CG</span><span class="topo-membrane">WEEIYVATIEMIKFIIEYF</span><span class="topo-inside">HEFDEPAVIYSSNGNKT</span><span class="topo-membrane">VWL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">RYAEWLLTCPVILIHL</span><span class="topo-outside">SNLTGLANDYNKR</span><span class="topo-membrane">TMGLLVSDIGGIVWATTAAL</span><span class="topo-inside">SKGY</span><span class="topo-membrane">VRVIFFLMGLCYGIYTFFNAA</span><span class="topo-outside">KVYIEAYHTVPKGRCRQVVT</span><span class="topo-membrane">GMAWLFFVSWGMFPILFILG</span><span class="topo-inside">PEGFGV</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300    </span>
+<span class="topo-line"><span class="topo-inside">LSVYG</span><span class="topo-membrane">STVGHTIIDLMSKNCWGLLGH</span><span class="topo-outside">YLRVLIHEHILIHGDIRKTTK</span><span class="topo-unknown">LNIGGTE</span><span class="topo-outside">IEVETLVEDE</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -377,6 +380,7 @@ GR (Halobacterium sp. GR [Bacteriorhodopsin](/xray-mp-wiki/proteins/bacteriorhod
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

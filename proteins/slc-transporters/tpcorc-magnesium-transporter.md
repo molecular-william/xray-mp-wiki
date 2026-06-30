@@ -224,9 +224,11 @@ CorC is a prokaryotic member of the CNNM/CorC family of Mg2+ transporters, widel
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MASP</span><span class="topo-outside">ENP</span><span class="topo-membrane">WLWAVLVLLLALSAFFSASE</span><span class="topo-inside">TAITTLYPWKLKELAESKNG</span><span class="topo-unknown">PFRLLAE</span><span class="topo-inside">DITR</span><span class="topo-membrane">FL</span></span>
-<span class="topo-line"><span class="topo-membrane">TTILVGNNLVNIAATALATELA</span><span class="topo-outside">TQAFGSA</span><span class="topo-membrane">GVGVATGAMTFLILFFGEITPKSL</span><span class="topo-inside">AVHHAEA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MASP</span><span class="topo-outside">ENP</span><span class="topo-membrane">WLWAVLVLLLALSAFFSASE</span><span class="topo-inside">TAITTLYPWKLKELAESKNG</span><span class="topo-unknown">PFRLLAE</span><span class="topo-inside">DITR</span><span class="topo-membrane">FLTTILVGNNLVNIAATALATELA</span><span class="topo-outside">TQAFGSA</span><span class="topo-membrane">GVGVATGAMTFLILFFGEITPKSL</span><span class="topo-inside">AVHHAEA</span></span>
+<span class="topo-ruler">       130       140       150       160       170</span>
 <span class="topo-line"><span class="topo-inside">IARLAAWPIYGLSVL</span><span class="topo-unknown">FYPVGRFFSLVSGGLLRL</span><span class="topo-inside">LGLEPRL</span><span class="topo-unknown">ESSGLEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -315,6 +317,7 @@ CorC is a prokaryotic member of the CNNM/CorC family of Mg2+ transporters, widel
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -330,9 +333,11 @@ CorC is a prokaryotic member of the CNNM/CorC family of Mg2+ transporters, widel
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MASP</span><span class="topo-outside">ENP</span><span class="topo-membrane">WLWAVLVLLLALSAFFSASE</span><span class="topo-inside">TAITTLYPWKLKELAESKNG</span><span class="topo-unknown">PFRLLAE</span><span class="topo-inside">DITR</span><span class="topo-membrane">FL</span></span>
-<span class="topo-line"><span class="topo-membrane">TTILVGNNLVNIAATALATELA</span><span class="topo-outside">TQAFGSA</span><span class="topo-membrane">GVGVATGAMTFLILFFGEITPKSL</span><span class="topo-inside">AVHHAEA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MASP</span><span class="topo-outside">ENP</span><span class="topo-membrane">WLWAVLVLLLALSAFFSASE</span><span class="topo-inside">TAITTLYPWKLKELAESKNG</span><span class="topo-unknown">PFRLLAE</span><span class="topo-inside">DITR</span><span class="topo-membrane">FLTTILVGNNLVNIAATALATELA</span><span class="topo-outside">TQAFGSA</span><span class="topo-membrane">GVGVATGAMTFLILFFGEITPKSL</span><span class="topo-inside">AVHHAEA</span></span>
+<span class="topo-ruler">       130       140       150       160       170</span>
 <span class="topo-line"><span class="topo-inside">IARLAAWPIYGLSVL</span><span class="topo-unknown">FYPVGRFFSLVSGGLLRL</span><span class="topo-inside">LGLEPRL</span><span class="topo-unknown">ESSGLEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -421,6 +426,7 @@ CorC is a prokaryotic member of the CNNM/CorC family of Mg2+ transporters, widel
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -436,9 +442,11 @@ CorC is a prokaryotic member of the CNNM/CorC family of Mg2+ transporters, widel
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSP</span><span class="topo-outside">ENP</span><span class="topo-membrane">WLWAVLVLLLALSAFFSASE</span><span class="topo-inside">TAITTLYPWKLKELAESKNG</span><span class="topo-unknown">PFRLLAE</span><span class="topo-inside">DITRF</span><span class="topo-membrane">LT</span></span>
-<span class="topo-line"><span class="topo-membrane">TILVGNNLVNIAATALVTELA</span><span class="topo-outside">TQAFGSA</span><span class="topo-membrane">GVGVATGAMTFLILFFGEITPKSL</span><span class="topo-inside">AVHHAEAI</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSP</span><span class="topo-outside">ENP</span><span class="topo-membrane">WLWAVLVLLLALSAFFSASE</span><span class="topo-inside">TAITTLYPWKLKELAESKNG</span><span class="topo-unknown">PFRLLAE</span><span class="topo-inside">DITRF</span><span class="topo-membrane">LTTILVGNNLVNIAATALVTELA</span><span class="topo-outside">TQAFGSA</span><span class="topo-membrane">GVGVATGAMTFLILFFGEITPKSL</span><span class="topo-inside">AVHHAEAI</span></span>
+<span class="topo-ruler">       130       140       150       160         </span>
 <span class="topo-line"><span class="topo-inside">ARL</span><span class="topo-unknown">AAWPIYGLSVL</span><span class="topo-inside">F</span><span class="topo-unknown">YPVGRFFSLVSGGLLRLLGL</span><span class="topo-inside">EPRL</span><span class="topo-unknown">ESSGLEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (13 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -541,6 +549,7 @@ CorC is a prokaryotic member of the CNNM/CorC family of Mg2+ transporters, widel
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -556,9 +565,11 @@ CorC is a prokaryotic member of the CNNM/CorC family of Mg2+ transporters, widel
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSP</span><span class="topo-outside">ENP</span><span class="topo-membrane">WLWAVLVLLLALSAFFSASE</span><span class="topo-inside">TAITTLYPWKLKELAESKNG</span><span class="topo-unknown">PFRLLAE</span><span class="topo-inside">DITRF</span><span class="topo-membrane">LT</span></span>
-<span class="topo-line"><span class="topo-membrane">TILVGNNLVNIAATALVTELA</span><span class="topo-outside">TQAFGSA</span><span class="topo-membrane">GVGVATGAMTFLILFFGEITPKSL</span><span class="topo-inside">AVHHAEAI</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSP</span><span class="topo-outside">ENP</span><span class="topo-membrane">WLWAVLVLLLALSAFFSASE</span><span class="topo-inside">TAITTLYPWKLKELAESKNG</span><span class="topo-unknown">PFRLLAE</span><span class="topo-inside">DITRF</span><span class="topo-membrane">LTTILVGNNLVNIAATALVTELA</span><span class="topo-outside">TQAFGSA</span><span class="topo-membrane">GVGVATGAMTFLILFFGEITPKSL</span><span class="topo-inside">AVHHAEAI</span></span>
+<span class="topo-ruler">       130       140       150       160         </span>
 <span class="topo-line"><span class="topo-inside">ARL</span><span class="topo-unknown">AAWPIYGLSVL</span><span class="topo-inside">F</span><span class="topo-unknown">YPVGRFFSLVSGGLLRLLGL</span><span class="topo-inside">EPRL</span><span class="topo-unknown">ESSGLEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (13 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -661,6 +672,7 @@ CorC is a prokaryotic member of the CNNM/CorC family of Mg2+ transporters, widel
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

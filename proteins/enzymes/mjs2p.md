@@ -113,10 +113,11 @@ framework for understanding regulated [Intramembrane Proteolysis](/xray-mp-wiki/
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MN</span><span class="topo-outside">YSIRLFKIMGIPIEL</span><span class="topo-membrane">HITFILFLVVIIGLS</span><span class="topo-inside">IMNNSIFW</span><span class="topo-membrane">AVLFILLFVSVVLHELG</span><span class="topo-outside">HSY</span></span>
-<span class="topo-line"><span class="topo-outside">VAKKYGVKIEKILLLPIGGVAMMDKIPKEGELRIGI</span><span class="topo-membrane">AGPLVSFIIGIVLLIVS</span><span class="topo-inside">QFFDINI</span></span>
-<span class="topo-line"><span class="topo-inside">NGYPL</span><span class="topo-membrane">LYTLSLLNLMLGGFNLIPAFPM</span><span class="topo-outside">DGGRILRAILSKKYGYLKSTKI</span><span class="topo-membrane">AANIGKSLALI</span></span>
-<span class="topo-line"><span class="topo-membrane">MLLFGL</span><span class="topo-inside">LSMN</span><span class="topo-membrane">IILILVSLFVYFGAE</span><span class="topo-outside">QESRVVEVETIFKNI</span><span class="topo-unknown">KAKD</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MN</span><span class="topo-outside">YSIRLFKIMGIPIEL</span><span class="topo-membrane">HITFILFLVVIIGLS</span><span class="topo-inside">IMNNSIFW</span><span class="topo-membrane">AVLFILLFVSVVLHELG</span><span class="topo-outside">HSYVAKKYGVKIEKILLLPIGGVAMMDKIPKEGELRIGI</span><span class="topo-membrane">AGPLVSFIIGIVLLIVS</span><span class="topo-inside">QFFDINI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220    </span>
+<span class="topo-line"><span class="topo-inside">NGYPL</span><span class="topo-membrane">LYTLSLLNLMLGGFNLIPAFPM</span><span class="topo-outside">DGGRILRAILSKKYGYLKSTKI</span><span class="topo-membrane">AANIGKSLALIMLLFGL</span><span class="topo-inside">LSMN</span><span class="topo-membrane">IILILVSLFVYFGAE</span><span class="topo-outside">QESRVVEVETIFKNI</span><span class="topo-unknown">KAKD</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -233,6 +234,7 @@ framework for understanding regulated [Intramembrane Proteolysis](/xray-mp-wiki/
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

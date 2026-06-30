@@ -56,11 +56,13 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">ALLS</span><span class="topo-outside">FERKYRVPGGTLVGGNLFDFWVGPFYV</span><span class="topo-membrane">GFFGVATFFFAALGIILIA</span><span class="topo-inside">WSAVLQGTWN</span></span>
-<span class="topo-line"><span class="topo-inside">PQLISVYPPALEYGLGGAPLAKGGLWQI</span><span class="topo-membrane">ITICATGAFVSWALREVE</span><span class="topo-outside">ICRKLGIGYH</span><span class="topo-membrane">IPFA</span></span>
-<span class="topo-line"><span class="topo-membrane">FAFAILAYLTLVLF</span><span class="topo-inside">RPVMMGAWGYAFPYGIWTH</span><span class="topo-unknown">LDWVSNTGYT</span><span class="topo-inside">YGNFHYNP</span><span class="topo-membrane">AHMIAISFF</span></span>
-<span class="topo-line"><span class="topo-membrane">FTNALALALHG</span><span class="topo-outside">ALVLSAANPEKGKEMRTPDHEDTFFRDLVGYSIGTLGIHR</span><span class="topo-membrane">LGLLLSLSA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">ALLS</span><span class="topo-outside">FERKYRVPGGTLVGGNLFDFWVGPFYV</span><span class="topo-membrane">GFFGVATFFFAALGIILIA</span><span class="topo-inside">WSAVLQGTWNPQLISVYPPALEYGLGGAPLAKGGLWQI</span><span class="topo-membrane">ITICATGAFVSWALREVE</span><span class="topo-outside">ICRKLGIGYH</span><span class="topo-membrane">IPFA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">FAFAILAYLTLVLF</span><span class="topo-inside">RPVMMGAWGYAFPYGIWTH</span><span class="topo-unknown">LDWVSNTGYT</span><span class="topo-inside">YGNFHYNP</span><span class="topo-membrane">AHMIAISFFFTNALALALHG</span><span class="topo-outside">ALVLSAANPEKGKEMRTPDHEDTFFRDLVGYSIGTLGIHR</span><span class="topo-membrane">LGLLLSLSA</span></span>
+<span class="topo-ruler">       250       260       270       280 </span>
 <span class="topo-line"><span class="topo-membrane">VFFSALCMI</span><span class="topo-inside">ITGTIWFDQ</span><span class="topo-unknown">WVDWWQWWV</span><span class="topo-inside">KLP</span><span class="topo-unknown">WWANIPGGING</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -191,6 +193,7 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -206,12 +209,13 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">AEYQN</span><span class="topo-outside">IFSQVQVRGPADLGMTEDVNLANRSGVGPFSTLLGWFGNAQLGPIYLGSL</span><span class="topo-membrane">GVLSL</span></span>
-<span class="topo-line"><span class="topo-membrane">FSGLMWFFTIGIWFW</span><span class="topo-inside">YQAGWN</span><span class="topo-unknown">PAVFLR</span><span class="topo-inside">DLFFFSLEPPAPEYGLSFAAPLKEGG</span><span class="topo-membrane">LWLIASF</span></span>
-<span class="topo-line"><span class="topo-membrane">FMFVAVWSWWGRT</span><span class="topo-outside">YLRAQALGMGKHT</span><span class="topo-membrane">AWAFLSAIWLWMVLGFIRPIL</span><span class="topo-inside">MGSWSEAVPYG</span><span class="topo-unknown">IF</span></span>
-<span class="topo-line"><span class="topo-unknown">SHLDWTNNFSL</span><span class="topo-inside">VHGNLFYN</span><span class="topo-membrane">PFHGLSIAFLYGSALLFAMHGA</span><span class="topo-outside">TILAVSRFGGERELEQIAD</span></span>
-<span class="topo-line"><span class="topo-outside">RGTAAERAALFWRWTMGFNATMEGIHRW</span><span class="topo-membrane">AIWMAVLVTLTGGIGILLS</span><span class="topo-inside">GTVVDNWYVWGQN</span></span>
-<span class="topo-line"><span class="topo-inside">H</span><span class="topo-unknown">GMAPLN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">AEYQN</span><span class="topo-outside">IFSQVQVRGPADLGMTEDVNLANRSGVGPFSTLLGWFGNAQLGPIYLGSL</span><span class="topo-membrane">GVLSLFSGLMWFFTIGIWFW</span><span class="topo-inside">YQAGWN</span><span class="topo-unknown">PAVFLR</span><span class="topo-inside">DLFFFSLEPPAPEYGLSFAAPLKEGG</span><span class="topo-membrane">LWLIASF</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">FMFVAVWSWWGRT</span><span class="topo-outside">YLRAQALGMGKHT</span><span class="topo-membrane">AWAFLSAIWLWMVLGFIRPIL</span><span class="topo-inside">MGSWSEAVPYG</span><span class="topo-unknown">IFSHLDWTNNFSL</span><span class="topo-inside">VHGNLFYN</span><span class="topo-membrane">PFHGLSIAFLYGSALLFAMHGA</span><span class="topo-outside">TILAVSRFGGERELEQIAD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       </span>
+<span class="topo-line"><span class="topo-outside">RGTAAERAALFWRWTMGFNATMEGIHRW</span><span class="topo-membrane">AIWMAVLVTLTGGIGILLS</span><span class="topo-inside">GTVVDNWYVWGQNH</span><span class="topo-unknown">GMAPLN</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -342,6 +346,7 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -357,11 +362,13 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MVGVTAFGNFD</span><span class="topo-inside">L</span><span class="topo-membrane">ASLAIYSFWIFLAGLIYY</span><span class="topo-outside">LQTENMREGYPLENEDGTPAANQGPFPLPK</span></span>
-<span class="topo-line"><span class="topo-outside">PKTFILPHGRGTLTVPGPESEDRPIALARTAVSEGFPHAPTGDPMKDGVGPASWVARRDL</span></span>
-<span class="topo-line"><span class="topo-outside">PELDGHGHNKIKPMKAAAGFHVSAGKNPIGLPVRGCDLEIAGKVVDIWVDIPEQMARFLE</span></span>
-<span class="topo-line"><span class="topo-outside">VELKDGSTRLLPMQMVKVQSNRVHVNALSSDLFAGIPTIKSPTEVTLLEEDKICGYVAGG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MVGVTAFGNFD</span><span class="topo-inside">L</span><span class="topo-membrane">ASLAIYSFWIFLAGLIYY</span><span class="topo-outside">LQTENMREGYPLENEDGTPAANQGPFPLPKPKTFILPHGRGTLTVPGPESEDRPIALARTAVSEGFPHAPTGDPMKDGVGPASWVARRDL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">PELDGHGHNKIKPMKAAAGFHVSAGKNPIGLPVRGCDLEIAGKVVDIWVDIPEQMARFLEVELKDGSTRLLPMQMVKVQSNRVHVNALSSDLFAGIPTIKSPTEVTLLEEDKICGYVAGG</span></span>
+<span class="topo-ruler">       250       260</span>
 <span class="topo-line"><span class="topo-outside">LMYAAPKR</span><span class="topo-unknown">KSVVAAMLAEYA</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -408,6 +415,7 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -591,11 +599,13 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MVGVTAFGNF</span><span class="topo-outside">D</span><span class="topo-membrane">LASLAIYSFWIFLAGLIYYL</span><span class="topo-inside">QTENMREGYPLENEDGTPAANQGPFPLPK</span></span>
-<span class="topo-line"><span class="topo-inside">PKTFILPHGRGTLTVPGPESEDRPIALARTAVSEGFPHAPTGDPMKDGVGPASWVARRDL</span></span>
-<span class="topo-line"><span class="topo-inside">PELDGHGHNKIKPMKAAAGFHVSAGKNPIGLPVRGCDLEIAGKVVDIWVDIPEQMARFLE</span></span>
-<span class="topo-line"><span class="topo-inside">VELKDGSTRLLPMQMVKVQSNRVHVNALSSDLFAGIPTIKSPTEVTLLEEDKICGYVAGG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MVGVTAFGNF</span><span class="topo-outside">D</span><span class="topo-membrane">LASLAIYSFWIFLAGLIYYL</span><span class="topo-inside">QTENMREGYPLENEDGTPAANQGPFPLPKPKTFILPHGRGTLTVPGPESEDRPIALARTAVSEGFPHAPTGDPMKDGVGPASWVARRDL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">PELDGHGHNKIKPMKAAAGFHVSAGKNPIGLPVRGCDLEIAGKVVDIWVDIPEQMARFLEVELKDGSTRLLPMQMVKVQSNRVHVNALSSDLFAGIPTIKSPTEVTLLEEDKICGYVAGG</span></span>
+<span class="topo-ruler">       250       260</span>
 <span class="topo-line"><span class="topo-inside">LMYAAPKRKS</span><span class="topo-unknown">VVAAMLAEYA</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -642,6 +652,7 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -657,11 +668,13 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">ALLSFERKYRVPGGTLVGGNLFDFWVGPFYV</span><span class="topo-membrane">GFFGVATFFFAALGIILIAW</span><span class="topo-outside">SAVLQGTWN</span></span>
-<span class="topo-line"><span class="topo-outside">PQLISVYPPALEYGLGGAPLAKGGLWQI</span><span class="topo-membrane">ITICATGAFVSWALREV</span><span class="topo-inside">EICRKLGIGY</span><span class="topo-membrane">HIPFA</span></span>
-<span class="topo-line"><span class="topo-membrane">FAFAILAYLTLVLF</span><span class="topo-outside">RPVMMGAWGYAFPYGIW</span><span class="topo-unknown">THLDWVSNTGYT</span><span class="topo-outside">YGNFHYNP</span><span class="topo-membrane">AHMIAISFF</span></span>
-<span class="topo-line"><span class="topo-membrane">FTNALALALHGA</span><span class="topo-inside">LVLSAANPEKGKEMRTPDHEDTFFRDLVGYSIGTLGI</span><span class="topo-membrane">HRLGLLLSLSA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">ALLSFERKYRVPGGTLVGGNLFDFWVGPFYV</span><span class="topo-membrane">GFFGVATFFFAALGIILIAW</span><span class="topo-outside">SAVLQGTWNPQLISVYPPALEYGLGGAPLAKGGLWQI</span><span class="topo-membrane">ITICATGAFVSWALREV</span><span class="topo-inside">EICRKLGIGY</span><span class="topo-membrane">HIPFA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">FAFAILAYLTLVLF</span><span class="topo-outside">RPVMMGAWGYAFPYGIW</span><span class="topo-unknown">THLDWVSNTGYT</span><span class="topo-outside">YGNFHYNP</span><span class="topo-membrane">AHMIAISFFFTNALALALHGA</span><span class="topo-inside">LVLSAANPEKGKEMRTPDHEDTFFRDLVGYSIGTLGI</span><span class="topo-membrane">HRLGLLLSLSA</span></span>
+<span class="topo-ruler">       250       260       270       280 </span>
 <span class="topo-line"><span class="topo-membrane">VFFSALCMI</span><span class="topo-outside">ITGTIWFDQWVDWWQWWVKLPWWANIPGGING</span></span>
+<details class="topo-details"><summary>Topology coordinates (13 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -764,6 +777,7 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -779,12 +793,13 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">AEYQNIFSQVQVRGPADLGMTEDVNLANRSGVGPFSTLLGWFGNAQLGPIYLGS</span><span class="topo-membrane">LGVLSL</span></span>
-<span class="topo-line"><span class="topo-membrane">FSGLMWFFTIGI</span><span class="topo-outside">WFWYQAGWN</span><span class="topo-unknown">PAVFLR</span><span class="topo-outside">DLFFFSLEPPAPEYGLSFAAPLKEGGLWL</span><span class="topo-membrane">IASF</span></span>
-<span class="topo-line"><span class="topo-membrane">FMFVAVWSWWGRTY</span><span class="topo-inside">LRAQALGMGKHT</span><span class="topo-membrane">AWAFLSAIWLWMVLGFIR</span><span class="topo-outside">PILMGSWSEAVPYG</span><span class="topo-unknown">IF</span></span>
-<span class="topo-line"><span class="topo-unknown">SHLDWTNNFSLV</span><span class="topo-outside">HGNLFYN</span><span class="topo-membrane">PFHGLSIAFLYGSALLFAMHGA</span><span class="topo-inside">TILAVSRFGGERELEQIAD</span></span>
-<span class="topo-line"><span class="topo-inside">RGTAAERAALFWRWTMGFNATMEGIHR</span><span class="topo-membrane">WAIWMAVLVTLTGGIGILL</span><span class="topo-outside">SGTVVDN</span><span class="topo-unknown">WYVWGQ</span><span class="topo-outside">N</span></span>
-<span class="topo-line"><span class="topo-outside">HG</span><span class="topo-unknown">MAPLN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">AEYQNIFSQVQVRGPADLGMTEDVNLANRSGVGPFSTLLGWFGNAQLGPIYLGS</span><span class="topo-membrane">LGVLSLFSGLMWFFTIGI</span><span class="topo-outside">WFWYQAGWN</span><span class="topo-unknown">PAVFLR</span><span class="topo-outside">DLFFFSLEPPAPEYGLSFAAPLKEGGLWL</span><span class="topo-membrane">IASF</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">FMFVAVWSWWGRTY</span><span class="topo-inside">LRAQALGMGKHT</span><span class="topo-membrane">AWAFLSAIWLWMVLGFIR</span><span class="topo-outside">PILMGSWSEAVPYG</span><span class="topo-unknown">IFSHLDWTNNFSLV</span><span class="topo-outside">HGNLFYN</span><span class="topo-membrane">PFHGLSIAFLYGSALLFAMHGA</span><span class="topo-inside">TILAVSRFGGERELEQIAD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       </span>
+<span class="topo-line"><span class="topo-inside">RGTAAERAALFWRWTMGFNATMEGIHR</span><span class="topo-membrane">WAIWMAVLVTLTGGIGILL</span><span class="topo-outside">SGTVVDN</span><span class="topo-unknown">WYVWGQ</span><span class="topo-outside">NHG</span><span class="topo-unknown">MAPLN</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -922,6 +937,7 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -937,11 +953,13 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MVGVTAFGNFDLA</span><span class="topo-membrane">SLAIYSFWIFLAGLIYYLQ</span><span class="topo-inside">TENMREGYPLENEDGTPAANQGPFPLPK</span></span>
-<span class="topo-line"><span class="topo-inside">PKTFILPHGRGTLTVPGPESEDRPIALARTAVSEGFPHAPTGDPMKDGVGPASWVARRDL</span></span>
-<span class="topo-line"><span class="topo-inside">PELDGHGHNKIKPMKAAAGFHVSAGKNPIGLPVRGCDLEIAGKVVDIWVDIPEQMARFLE</span></span>
-<span class="topo-line"><span class="topo-inside">VELKDGSTRLLPMQMVKVQSNRVHVNALSSDLFAGIPTIKSPTEVTLLEEDKICGYVAGG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MVGVTAFGNFDLA</span><span class="topo-membrane">SLAIYSFWIFLAGLIYYLQ</span><span class="topo-inside">TENMREGYPLENEDGTPAANQGPFPLPKPKTFILPHGRGTLTVPGPESEDRPIALARTAVSEGFPHAPTGDPMKDGVGPASWVARRDL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">PELDGHGHNKIKPMKAAAGFHVSAGKNPIGLPVRGCDLEIAGKVVDIWVDIPEQMARFLEVELKDGSTRLLPMQMVKVQSNRVHVNALSSDLFAGIPTIKSPTEVTLLEEDKICGYVAGG</span></span>
+<span class="topo-ruler">       250       260</span>
 <span class="topo-line"><span class="topo-inside">LMYAAPKRKSVVAAMLAEYA</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -974,6 +992,7 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -989,11 +1008,13 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">ALLSFERKYRVPGGTLVGGNLFDFWVGPFYVGF</span><span class="topo-membrane">FGVATFFFAALGIILIAW</span><span class="topo-outside">SAVLQGTWN</span></span>
-<span class="topo-line"><span class="topo-outside">PQLISVYPPALEYGLGGAPLAKGGLWQ</span><span class="topo-membrane">IITICATGAFVSWALRE</span><span class="topo-inside">VEICRKLGIGYH</span><span class="topo-membrane">IPFA</span></span>
-<span class="topo-line"><span class="topo-membrane">FAFAILAYLTLVLFR</span><span class="topo-outside">PVMMGAWGYAFPYGIW</span><span class="topo-unknown">THLDWVSNTGY</span><span class="topo-outside">TYGNFHYNP</span><span class="topo-membrane">AHMIAISFF</span></span>
-<span class="topo-line"><span class="topo-membrane">FTNALALALHGA</span><span class="topo-inside">LVLSAANPEKGKEMRTPDHEDTFFRDLVGYSIGTLGIHR</span><span class="topo-membrane">LGLLLSLSA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">ALLSFERKYRVPGGTLVGGNLFDFWVGPFYVGF</span><span class="topo-membrane">FGVATFFFAALGIILIAW</span><span class="topo-outside">SAVLQGTWNPQLISVYPPALEYGLGGAPLAKGGLWQ</span><span class="topo-membrane">IITICATGAFVSWALRE</span><span class="topo-inside">VEICRKLGIGYH</span><span class="topo-membrane">IPFA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">FAFAILAYLTLVLFR</span><span class="topo-outside">PVMMGAWGYAFPYGIW</span><span class="topo-unknown">THLDWVSNTGY</span><span class="topo-outside">TYGNFHYNP</span><span class="topo-membrane">AHMIAISFFFTNALALALHGA</span><span class="topo-inside">LVLSAANPEKGKEMRTPDHEDTFFRDLVGYSIGTLGIHR</span><span class="topo-membrane">LGLLLSLSA</span></span>
+<span class="topo-ruler">       250       260       270       280 </span>
 <span class="topo-line"><span class="topo-membrane">VFFSALCMII</span><span class="topo-outside">TGTIWFDQWVDWWQWWVKLPWWANIPGGING</span></span>
+<details class="topo-details"><summary>Topology coordinates (13 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1096,6 +1117,7 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1111,12 +1133,13 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">AEYQNIFSQVQVRGPADLGMTEDVNLANRSGVGPFSTLLGWFGNAQLGPIYL</span><span class="topo-membrane">GSLGVLSL</span></span>
-<span class="topo-line"><span class="topo-membrane">FSGLMWFFTIGI</span><span class="topo-outside">WFWYQAGWN</span><span class="topo-unknown">PAVFLR</span><span class="topo-outside">DLFFFSLEPPAPEYGLSFAAPLKEGGLWLI</span><span class="topo-membrane">ASF</span></span>
-<span class="topo-line"><span class="topo-membrane">FMFVAVWSWWGRTY</span><span class="topo-inside">LRAQALGMGK</span><span class="topo-membrane">HTAWAFLSAIWLWMVLGFI</span><span class="topo-outside">RPILMGSWSEAVPYG</span><span class="topo-unknown">IF</span></span>
-<span class="topo-line"><span class="topo-unknown">SHLDWTNNFSLV</span><span class="topo-outside">HGNLFYNP</span><span class="topo-membrane">FHGLSIAFLYGSALLFAMHGA</span><span class="topo-inside">TILAVSRFGGERELEQIAD</span></span>
-<span class="topo-line"><span class="topo-inside">RGTAAERAALFWRWTMGFNATMEGIHR</span><span class="topo-membrane">WAIWMAVLVTLTGGIGIL</span><span class="topo-outside">LSGTVVDN</span><span class="topo-unknown">WYVWGQN</span></span>
-<span class="topo-line"><span class="topo-outside">HGMAPLN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">AEYQNIFSQVQVRGPADLGMTEDVNLANRSGVGPFSTLLGWFGNAQLGPIYL</span><span class="topo-membrane">GSLGVLSLFSGLMWFFTIGI</span><span class="topo-outside">WFWYQAGWN</span><span class="topo-unknown">PAVFLR</span><span class="topo-outside">DLFFFSLEPPAPEYGLSFAAPLKEGGLWLI</span><span class="topo-membrane">ASF</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">FMFVAVWSWWGRTY</span><span class="topo-inside">LRAQALGMGK</span><span class="topo-membrane">HTAWAFLSAIWLWMVLGFI</span><span class="topo-outside">RPILMGSWSEAVPYG</span><span class="topo-unknown">IFSHLDWTNNFSLV</span><span class="topo-outside">HGNLFYNP</span><span class="topo-membrane">FHGLSIAFLYGSALLFAMHGA</span><span class="topo-inside">TILAVSRFGGERELEQIAD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       </span>
+<span class="topo-line"><span class="topo-inside">RGTAAERAALFWRWTMGFNATMEGIHR</span><span class="topo-membrane">WAIWMAVLVTLTGGIGIL</span><span class="topo-outside">LSGTVVDN</span><span class="topo-unknown">WYVWGQN</span><span class="topo-outside">HGMAPLN</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1247,6 +1270,7 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1262,11 +1286,13 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MVGVTAFGNF</span><span class="topo-outside">D</span><span class="topo-membrane">LASLAIYSFWIFLAGLIYYL</span><span class="topo-inside">QTENMREGYPLENEDGTPAANQGPFPLPK</span></span>
-<span class="topo-line"><span class="topo-inside">PKTFILPHGRGTLTVPGPESEDRPIALARTAVSEGFPHAPTGDPMKDGVGPASWVARRDL</span></span>
-<span class="topo-line"><span class="topo-inside">PELDGHGHNKIKPMKAAAGFHVSAGKNPIGLPVRGCDLEIAGKVVDIWVDIPEQMARFLE</span></span>
-<span class="topo-line"><span class="topo-inside">VELKDGSTRLLPMQMVKVQSNRVHVNALSSDLFAGIPTIKSPTEVTLLEEDKICGYVAGG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MVGVTAFGNF</span><span class="topo-outside">D</span><span class="topo-membrane">LASLAIYSFWIFLAGLIYYL</span><span class="topo-inside">QTENMREGYPLENEDGTPAANQGPFPLPKPKTFILPHGRGTLTVPGPESEDRPIALARTAVSEGFPHAPTGDPMKDGVGPASWVARRDL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">PELDGHGHNKIKPMKAAAGFHVSAGKNPIGLPVRGCDLEIAGKVVDIWVDIPEQMARFLEVELKDGSTRLLPMQMVKVQSNRVHVNALSSDLFAGIPTIKSPTEVTLLEEDKICGYVAGG</span></span>
+<span class="topo-ruler">       250       260</span>
 <span class="topo-line"><span class="topo-inside">LMYAAPKRKS</span><span class="topo-unknown">VVAAMLAEYA</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1313,6 +1339,7 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1328,11 +1355,13 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">ALLSFERKYRVPGGTLVGGNLFDFWVGPFYV</span><span class="topo-membrane">GFFGVATFFFAALGIILIAW</span><span class="topo-outside">SAVLQGTWN</span></span>
-<span class="topo-line"><span class="topo-outside">PQLISVYPPALEYGLGGAPLAKGGLWQI</span><span class="topo-membrane">ITICATGAFVSWALREV</span><span class="topo-inside">EICRKLGIGYH</span><span class="topo-membrane">IPFA</span></span>
-<span class="topo-line"><span class="topo-membrane">FAFAILAYLTLVLF</span><span class="topo-outside">RPVMMGAWGYAFPYGIW</span><span class="topo-unknown">THLDWVSNTGY</span><span class="topo-outside">TYGNFHYNP</span><span class="topo-membrane">AHMIAISFF</span></span>
-<span class="topo-line"><span class="topo-membrane">FTNALALALHG</span><span class="topo-inside">ALVLSAANPEKGKEMRTPDHEDTFFRDLVGYSIGTLGIHR</span><span class="topo-membrane">LGLLLSLSA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">ALLSFERKYRVPGGTLVGGNLFDFWVGPFYV</span><span class="topo-membrane">GFFGVATFFFAALGIILIAW</span><span class="topo-outside">SAVLQGTWNPQLISVYPPALEYGLGGAPLAKGGLWQI</span><span class="topo-membrane">ITICATGAFVSWALREV</span><span class="topo-inside">EICRKLGIGYH</span><span class="topo-membrane">IPFA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">FAFAILAYLTLVLF</span><span class="topo-outside">RPVMMGAWGYAFPYGIW</span><span class="topo-unknown">THLDWVSNTGY</span><span class="topo-outside">TYGNFHYNP</span><span class="topo-membrane">AHMIAISFFFTNALALALHG</span><span class="topo-inside">ALVLSAANPEKGKEMRTPDHEDTFFRDLVGYSIGTLGIHR</span><span class="topo-membrane">LGLLLSLSA</span></span>
+<span class="topo-ruler">       250       260       270       280 </span>
 <span class="topo-line"><span class="topo-membrane">VFFSALCMI</span><span class="topo-outside">ITGTIWFDQWVDWWQWWVKLPWWANIPGGING</span></span>
+<details class="topo-details"><summary>Topology coordinates (13 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1435,6 +1464,7 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1450,12 +1480,13 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">AEYQNIFSQVQVRGPADLGMTEDVNLANRSGVGPFSTLLGWFGNAQLGPIYLGS</span><span class="topo-membrane">LGVLSL</span></span>
-<span class="topo-line"><span class="topo-membrane">FSGLMWFFTIGI</span><span class="topo-outside">WFWYQAGWN</span><span class="topo-unknown">PAVFLR</span><span class="topo-outside">DLFFFSLEPPAPEYGLSFAAPLKEGGLWL</span><span class="topo-membrane">IASF</span></span>
-<span class="topo-line"><span class="topo-membrane">FMFVAVWSWWGRT</span><span class="topo-inside">YLRAQALGMGKHT</span><span class="topo-membrane">AWAFLSAIWLWMVLGFIR</span><span class="topo-outside">PILMGSWSEAVPYG</span><span class="topo-unknown">IF</span></span>
-<span class="topo-line"><span class="topo-unknown">SHLDWTNNFSLV</span><span class="topo-outside">HGNLFYN</span><span class="topo-membrane">PFHGLSIAFLYGSALLFAMHGA</span><span class="topo-inside">TILAVSRFGGERELEQIAD</span></span>
-<span class="topo-line"><span class="topo-inside">RGTAAERAALFWRWTMGFNATMEGIHRW</span><span class="topo-membrane">AIWMAVLVTLTGGIGILL</span><span class="topo-outside">SGTVVDN</span><span class="topo-unknown">WYVWGQN</span></span>
-<span class="topo-line"><span class="topo-outside">HG</span><span class="topo-unknown">MAPLN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">AEYQNIFSQVQVRGPADLGMTEDVNLANRSGVGPFSTLLGWFGNAQLGPIYLGS</span><span class="topo-membrane">LGVLSLFSGLMWFFTIGI</span><span class="topo-outside">WFWYQAGWN</span><span class="topo-unknown">PAVFLR</span><span class="topo-outside">DLFFFSLEPPAPEYGLSFAAPLKEGGLWL</span><span class="topo-membrane">IASF</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">FMFVAVWSWWGRT</span><span class="topo-inside">YLRAQALGMGKHT</span><span class="topo-membrane">AWAFLSAIWLWMVLGFIR</span><span class="topo-outside">PILMGSWSEAVPYG</span><span class="topo-unknown">IFSHLDWTNNFSLV</span><span class="topo-outside">HGNLFYN</span><span class="topo-membrane">PFHGLSIAFLYGSALLFAMHGA</span><span class="topo-inside">TILAVSRFGGERELEQIAD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       </span>
+<span class="topo-line"><span class="topo-inside">RGTAAERAALFWRWTMGFNATMEGIHRW</span><span class="topo-membrane">AIWMAVLVTLTGGIGILL</span><span class="topo-outside">SGTVVDN</span><span class="topo-unknown">WYVWGQN</span><span class="topo-outside">HG</span><span class="topo-unknown">MAPLN</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1593,6 +1624,7 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1608,11 +1640,13 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MVGVTAFGNF</span><span class="topo-outside">D</span><span class="topo-membrane">LASLAIYSFWIFLAGLIY</span><span class="topo-inside">YLQTENMREGYPLENEDGTPAANQGPFPLPK</span></span>
-<span class="topo-line"><span class="topo-inside">PKTFILPHGRGTLTVPGPESEDRPIALARTAVSEGFPHAPTGDPMKDGVGPASWVARRDL</span></span>
-<span class="topo-line"><span class="topo-inside">PELDGHGHNKIKPMKAAAGFHVSAGKNPIGLPVRGCDLEIAGKVVDIWVDIPEQMARFLE</span></span>
-<span class="topo-line"><span class="topo-inside">VELKDGSTRLLPMQMVKVQSNRVHVNALSSDLFAGIPTIKSPTEVTLLEEDKICGYVAGG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MVGVTAFGNF</span><span class="topo-outside">D</span><span class="topo-membrane">LASLAIYSFWIFLAGLIY</span><span class="topo-inside">YLQTENMREGYPLENEDGTPAANQGPFPLPKPKTFILPHGRGTLTVPGPESEDRPIALARTAVSEGFPHAPTGDPMKDGVGPASWVARRDL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">PELDGHGHNKIKPMKAAAGFHVSAGKNPIGLPVRGCDLEIAGKVVDIWVDIPEQMARFLEVELKDGSTRLLPMQMVKVQSNRVHVNALSSDLFAGIPTIKSPTEVTLLEEDKICGYVAGG</span></span>
+<span class="topo-ruler">       250       260</span>
 <span class="topo-line"><span class="topo-inside">LMYAAPKRKS</span><span class="topo-unknown">VVAAMLAEYA</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1659,6 +1693,7 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1674,11 +1709,13 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">ALLSFERKYRVPGGTLVGGNLFDFWVGPFYV</span><span class="topo-membrane">GFFGVATFFFAALGIILIAW</span><span class="topo-outside">SAVLQGTWN</span></span>
-<span class="topo-line"><span class="topo-outside">PQLISVYPPALEYGLGGAPLAKGGLWQI</span><span class="topo-membrane">ITICATGAFVSWALREV</span><span class="topo-inside">EICRKLGIGYH</span><span class="topo-membrane">IPFA</span></span>
-<span class="topo-line"><span class="topo-membrane">FAFAILAYLTLVLF</span><span class="topo-outside">RPVMMGAWGYAFPYGIW</span><span class="topo-unknown">THLDWVSNTGY</span><span class="topo-outside">TYGNFHYNP</span><span class="topo-membrane">AHMIAISFF</span></span>
-<span class="topo-line"><span class="topo-membrane">FTNALALALHG</span><span class="topo-inside">ALVLSAANPEKGKEMRTPD</span><span class="topo-unknown">H</span><span class="topo-inside">EDTFFRDLVGYSIGTLGIHR</span><span class="topo-membrane">LGLLLSLSA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">ALLSFERKYRVPGGTLVGGNLFDFWVGPFYV</span><span class="topo-membrane">GFFGVATFFFAALGIILIAW</span><span class="topo-outside">SAVLQGTWNPQLISVYPPALEYGLGGAPLAKGGLWQI</span><span class="topo-membrane">ITICATGAFVSWALREV</span><span class="topo-inside">EICRKLGIGYH</span><span class="topo-membrane">IPFA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">FAFAILAYLTLVLF</span><span class="topo-outside">RPVMMGAWGYAFPYGIW</span><span class="topo-unknown">THLDWVSNTGY</span><span class="topo-outside">TYGNFHYNP</span><span class="topo-membrane">AHMIAISFFFTNALALALHG</span><span class="topo-inside">ALVLSAANPEKGKEMRTPD</span><span class="topo-unknown">H</span><span class="topo-inside">EDTFFRDLVGYSIGTLGIHR</span><span class="topo-membrane">LGLLLSLSA</span></span>
+<span class="topo-ruler">       250       260       270       280 </span>
 <span class="topo-line"><span class="topo-membrane">VFFSALCMI</span><span class="topo-outside">ITGTIWFDQ</span><span class="topo-unknown">WVDWWQWWV</span><span class="topo-outside">KLPWWANIPGGING</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1809,6 +1846,7 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1824,12 +1862,13 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">AEYQNIFSQVQVRGPADLGMTEDVNLANRSGVGPFSTLLGWFGNAQLGPIYLGS</span><span class="topo-membrane">LGVLSL</span></span>
-<span class="topo-line"><span class="topo-membrane">FSGLMWFFTIGI</span><span class="topo-outside">WFWYQAGWN</span><span class="topo-unknown">PAVFLR</span><span class="topo-outside">DLFFFSLEPPAPEYGLSFAAPLKEGGLWL</span><span class="topo-membrane">IASF</span></span>
-<span class="topo-line"><span class="topo-membrane">FMFVAVWSWWGRT</span><span class="topo-inside">YLRAQALGMGKHT</span><span class="topo-membrane">AWAFLSAIWLWMVLGFIR</span><span class="topo-outside">PILMGSWSEAVPYG</span><span class="topo-unknown">IF</span></span>
-<span class="topo-line"><span class="topo-unknown">SHLDWTNNFSL</span><span class="topo-outside">VHGNLFYN</span><span class="topo-membrane">PFHGLSIAFLYGSALLFAMHGA</span><span class="topo-inside">TILAVSRFGGERELEQIAD</span></span>
-<span class="topo-line"><span class="topo-inside">RGTAAERAALFWRWTMGFNATMEGIHRW</span><span class="topo-membrane">AIWMAVLVTLTGGIGILL</span><span class="topo-outside">SGTVVDN</span><span class="topo-unknown">WYVWGQN</span></span>
-<span class="topo-line"><span class="topo-outside">HG</span><span class="topo-unknown">MAPLN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">AEYQNIFSQVQVRGPADLGMTEDVNLANRSGVGPFSTLLGWFGNAQLGPIYLGS</span><span class="topo-membrane">LGVLSLFSGLMWFFTIGI</span><span class="topo-outside">WFWYQAGWN</span><span class="topo-unknown">PAVFLR</span><span class="topo-outside">DLFFFSLEPPAPEYGLSFAAPLKEGGLWL</span><span class="topo-membrane">IASF</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">FMFVAVWSWWGRT</span><span class="topo-inside">YLRAQALGMGKHT</span><span class="topo-membrane">AWAFLSAIWLWMVLGFIR</span><span class="topo-outside">PILMGSWSEAVPYG</span><span class="topo-unknown">IFSHLDWTNNFSL</span><span class="topo-outside">VHGNLFYN</span><span class="topo-membrane">PFHGLSIAFLYGSALLFAMHGA</span><span class="topo-inside">TILAVSRFGGERELEQIAD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       </span>
+<span class="topo-line"><span class="topo-inside">RGTAAERAALFWRWTMGFNATMEGIHRW</span><span class="topo-membrane">AIWMAVLVTLTGGIGILL</span><span class="topo-outside">SGTVVDN</span><span class="topo-unknown">WYVWGQN</span><span class="topo-outside">HG</span><span class="topo-unknown">MAPLN</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1967,6 +2006,7 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1982,11 +2022,13 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MVGVTAFGNF</span><span class="topo-outside">DLASL</span><span class="topo-membrane">AIYSFWIFLAGLIYYLQ</span><span class="topo-inside">TENMREGYPLENEDGTPAANQGPFPLPK</span></span>
-<span class="topo-line"><span class="topo-inside">PKTFILPHGRGTLTVPGPESEDRPIALARTAVSEGFPHAPTGDPMKDGVGPASWVARRDL</span></span>
-<span class="topo-line"><span class="topo-inside">PELDGHGHNKIKPMKAAAGFHVSAGKNPIGLPVRGCDLEIAGKVVDIWVDIPEQMARFLE</span></span>
-<span class="topo-line"><span class="topo-inside">VELKDGSTRLLPMQMVKVQSNRVHVNALSSDLFAGIPTIKSPTEVTLLEEDKICGYVAGG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MVGVTAFGNF</span><span class="topo-outside">DLASL</span><span class="topo-membrane">AIYSFWIFLAGLIYYLQ</span><span class="topo-inside">TENMREGYPLENEDGTPAANQGPFPLPKPKTFILPHGRGTLTVPGPESEDRPIALARTAVSEGFPHAPTGDPMKDGVGPASWVARRDL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">PELDGHGHNKIKPMKAAAGFHVSAGKNPIGLPVRGCDLEIAGKVVDIWVDIPEQMARFLEVELKDGSTRLLPMQMVKVQSNRVHVNALSSDLFAGIPTIKSPTEVTLLEEDKICGYVAGG</span></span>
+<span class="topo-ruler">       250       260</span>
 <span class="topo-line"><span class="topo-inside">LMYAAPKRKS</span><span class="topo-unknown">VVAAMLAEYA</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2033,6 +2075,7 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2048,11 +2091,13 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">ALLSFERKYRVPGGTLVGGNLFDFWVGPFYV</span><span class="topo-membrane">GFFGVATFFFAALGIILIA</span><span class="topo-outside">WSAVLQGTWN</span></span>
-<span class="topo-line"><span class="topo-outside">PQLISVYPPALEYGLGGAPLAKGGLWQI</span><span class="topo-membrane">ITICATGAFVSWALREV</span><span class="topo-inside">EICRKLGIGY</span><span class="topo-membrane">HIPFA</span></span>
-<span class="topo-line"><span class="topo-membrane">FAFAILAYLTLVLF</span><span class="topo-outside">RPVMMGAWGYAFPYGIW</span><span class="topo-unknown">THLDWVSNTGY</span><span class="topo-outside">TYGNFHYNPA</span><span class="topo-membrane">HMIAISFF</span></span>
-<span class="topo-line"><span class="topo-membrane">FTNALALALHGA</span><span class="topo-inside">LVLSAANPEKGKEMRTPDHEDTFFRDLVGYSIGTLGI</span><span class="topo-membrane">HRLGLLLSLSA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">ALLSFERKYRVPGGTLVGGNLFDFWVGPFYV</span><span class="topo-membrane">GFFGVATFFFAALGIILIA</span><span class="topo-outside">WSAVLQGTWNPQLISVYPPALEYGLGGAPLAKGGLWQI</span><span class="topo-membrane">ITICATGAFVSWALREV</span><span class="topo-inside">EICRKLGIGY</span><span class="topo-membrane">HIPFA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">FAFAILAYLTLVLF</span><span class="topo-outside">RPVMMGAWGYAFPYGIW</span><span class="topo-unknown">THLDWVSNTGY</span><span class="topo-outside">TYGNFHYNPA</span><span class="topo-membrane">HMIAISFFFTNALALALHGA</span><span class="topo-inside">LVLSAANPEKGKEMRTPDHEDTFFRDLVGYSIGTLGI</span><span class="topo-membrane">HRLGLLLSLSA</span></span>
+<span class="topo-ruler">       250       260       270       280 </span>
 <span class="topo-line"><span class="topo-membrane">VFFSALC</span><span class="topo-outside">MIITGTIWFDQWVDWWQWWVKLPWWANIPGGING</span></span>
+<details class="topo-details"><summary>Topology coordinates (13 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2155,6 +2200,7 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2170,12 +2216,13 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">AEYQNIFSQVQVRGPADLGMTEDVNLANRSGVGPFSTLLGWFGNAQLGPIYL</span><span class="topo-membrane">GSLGVLSL</span></span>
-<span class="topo-line"><span class="topo-membrane">FSGLMWFFTIG</span><span class="topo-outside">IWFWYQAGWN</span><span class="topo-unknown">PAVFLR</span><span class="topo-outside">DLFFFSLEPPAPEYGLSFAAPLKEGGLWLI</span><span class="topo-membrane">ASF</span></span>
-<span class="topo-line"><span class="topo-membrane">FMFVAVWSWWGRTYL</span><span class="topo-inside">RAQALGMGK</span><span class="topo-membrane">HTAWAFLSAIWLWMVLGFI</span><span class="topo-outside">RPILMGSWSEAVPYG</span><span class="topo-unknown">IF</span></span>
-<span class="topo-line"><span class="topo-unknown">SHLDWTNNFSLV</span><span class="topo-outside">HGNLFYNP</span><span class="topo-membrane">FHGLSIAFLYGSALLFAMHGA</span><span class="topo-inside">TILAVSRFGGERELEQIAD</span></span>
-<span class="topo-line"><span class="topo-inside">RGTAAERAALFWRWTMGFNATMEGI</span><span class="topo-membrane">HRWAIWMAVLVTLTGGIG</span><span class="topo-outside">ILLSGTVVDN</span><span class="topo-unknown">WYVWGQ</span><span class="topo-outside">N</span></span>
-<span class="topo-line"><span class="topo-outside">HG</span><span class="topo-unknown">MAPLN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">AEYQNIFSQVQVRGPADLGMTEDVNLANRSGVGPFSTLLGWFGNAQLGPIYL</span><span class="topo-membrane">GSLGVLSLFSGLMWFFTIG</span><span class="topo-outside">IWFWYQAGWN</span><span class="topo-unknown">PAVFLR</span><span class="topo-outside">DLFFFSLEPPAPEYGLSFAAPLKEGGLWLI</span><span class="topo-membrane">ASF</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">FMFVAVWSWWGRTYL</span><span class="topo-inside">RAQALGMGK</span><span class="topo-membrane">HTAWAFLSAIWLWMVLGFI</span><span class="topo-outside">RPILMGSWSEAVPYG</span><span class="topo-unknown">IFSHLDWTNNFSLV</span><span class="topo-outside">HGNLFYNP</span><span class="topo-membrane">FHGLSIAFLYGSALLFAMHGA</span><span class="topo-inside">TILAVSRFGGERELEQIAD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       </span>
+<span class="topo-line"><span class="topo-inside">RGTAAERAALFWRWTMGFNATMEGI</span><span class="topo-membrane">HRWAIWMAVLVTLTGGIG</span><span class="topo-outside">ILLSGTVVDN</span><span class="topo-unknown">WYVWGQ</span><span class="topo-outside">NHG</span><span class="topo-unknown">MAPLN</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2313,6 +2360,7 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2328,11 +2376,13 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MVGVTAFGNF</span><span class="topo-outside">D</span><span class="topo-membrane">LASLAIYSFWIFLAGLIYYL</span><span class="topo-inside">QTENMREGYPLENEDGTPAANQGPFPLPK</span></span>
-<span class="topo-line"><span class="topo-inside">PKTFILPHGRGTLTVPGPESEDRPIALARTAVSEGFPHAPTGDPMKDGVGPASWVARRDL</span></span>
-<span class="topo-line"><span class="topo-inside">PELDGHGHNKIKPMKAAAGFHVSAGKNPIGLPVRGCDLEIAGKVVDIWVDIPEQMARFLE</span></span>
-<span class="topo-line"><span class="topo-inside">VELKDGSTRLLPMQMVKVQSNRVHVNALSSDLFAGIPTIKSPTEVTLLEEDKICGYVAGG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MVGVTAFGNF</span><span class="topo-outside">D</span><span class="topo-membrane">LASLAIYSFWIFLAGLIYYL</span><span class="topo-inside">QTENMREGYPLENEDGTPAANQGPFPLPKPKTFILPHGRGTLTVPGPESEDRPIALARTAVSEGFPHAPTGDPMKDGVGPASWVARRDL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">PELDGHGHNKIKPMKAAAGFHVSAGKNPIGLPVRGCDLEIAGKVVDIWVDIPEQMARFLEVELKDGSTRLLPMQMVKVQSNRVHVNALSSDLFAGIPTIKSPTEVTLLEEDKICGYVAGG</span></span>
+<span class="topo-ruler">       250       260</span>
 <span class="topo-line"><span class="topo-inside">LMYAAPKRKS</span><span class="topo-unknown">VVAAMLAEYA</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2379,6 +2429,7 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2394,11 +2445,13 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">ALLSFERKYRVPGGTLVGGNLFDFWVGPFYV</span><span class="topo-membrane">GFFGVATFFFAALGIILIAW</span><span class="topo-outside">SAVLQGTWN</span></span>
-<span class="topo-line"><span class="topo-outside">PQLISVYPPALEYGLGGAPLAKGGLWQI</span><span class="topo-membrane">ITICATGAFVSWALREV</span><span class="topo-inside">EICRKLGIGYH</span><span class="topo-membrane">IPFA</span></span>
-<span class="topo-line"><span class="topo-membrane">FAFAILAYLTLVLF</span><span class="topo-outside">RPVMMGAWGYAFPYGIW</span><span class="topo-unknown">THLDWVSNTGY</span><span class="topo-outside">TYGNFHYNP</span><span class="topo-membrane">AHMIAISFF</span></span>
-<span class="topo-line"><span class="topo-membrane">FTNALALALHG</span><span class="topo-inside">ALVLSAANPEKGKEMRTPDHEDTFFRDLVGYSIGTLGIHR</span><span class="topo-membrane">LGLLLSLSA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">ALLSFERKYRVPGGTLVGGNLFDFWVGPFYV</span><span class="topo-membrane">GFFGVATFFFAALGIILIAW</span><span class="topo-outside">SAVLQGTWNPQLISVYPPALEYGLGGAPLAKGGLWQI</span><span class="topo-membrane">ITICATGAFVSWALREV</span><span class="topo-inside">EICRKLGIGYH</span><span class="topo-membrane">IPFA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">FAFAILAYLTLVLF</span><span class="topo-outside">RPVMMGAWGYAFPYGIW</span><span class="topo-unknown">THLDWVSNTGY</span><span class="topo-outside">TYGNFHYNP</span><span class="topo-membrane">AHMIAISFFFTNALALALHG</span><span class="topo-inside">ALVLSAANPEKGKEMRTPDHEDTFFRDLVGYSIGTLGIHR</span><span class="topo-membrane">LGLLLSLSA</span></span>
+<span class="topo-ruler">       250       260       270       280 </span>
 <span class="topo-line"><span class="topo-membrane">VFFSALCMI</span><span class="topo-outside">ITGTIWFDQWVDWWQWWVKLPWWANIPGGING</span></span>
+<details class="topo-details"><summary>Topology coordinates (13 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2501,6 +2554,7 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2516,12 +2570,13 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">AEYQNIFSQVQVRGPADLGMTEDVNLANRSGVGPFSTLLGWFGNAQLGPIYLGS</span><span class="topo-membrane">LGVLSL</span></span>
-<span class="topo-line"><span class="topo-membrane">FSGLMWFFTIGI</span><span class="topo-outside">WFWYQAGWN</span><span class="topo-unknown">PAVFLR</span><span class="topo-outside">DLFFFSLEPPAPEYGLSFAAPLKEGGLWL</span><span class="topo-membrane">IASF</span></span>
-<span class="topo-line"><span class="topo-membrane">FMFVAVWSWWGRT</span><span class="topo-inside">YLRAQALGMGKHT</span><span class="topo-membrane">AWAFLSAIWLWMVLGFIR</span><span class="topo-outside">PILMGSWSEAVPYG</span><span class="topo-unknown">IF</span></span>
-<span class="topo-line"><span class="topo-unknown">SHLDWTNNFSLV</span><span class="topo-outside">HGNLFYN</span><span class="topo-membrane">PFHGLSIAFLYGSALLFAMHGA</span><span class="topo-inside">TILAVSRFGGERELEQIAD</span></span>
-<span class="topo-line"><span class="topo-inside">RGTAAERAALFWRWTMGFNATMEGIHRW</span><span class="topo-membrane">AIWMAVLVTLTGGIGILL</span><span class="topo-outside">SGTVVDN</span><span class="topo-unknown">WYVWGQN</span></span>
-<span class="topo-line"><span class="topo-outside">HG</span><span class="topo-unknown">MAPLN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">AEYQNIFSQVQVRGPADLGMTEDVNLANRSGVGPFSTLLGWFGNAQLGPIYLGS</span><span class="topo-membrane">LGVLSLFSGLMWFFTIGI</span><span class="topo-outside">WFWYQAGWN</span><span class="topo-unknown">PAVFLR</span><span class="topo-outside">DLFFFSLEPPAPEYGLSFAAPLKEGGLWL</span><span class="topo-membrane">IASF</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">FMFVAVWSWWGRT</span><span class="topo-inside">YLRAQALGMGKHT</span><span class="topo-membrane">AWAFLSAIWLWMVLGFIR</span><span class="topo-outside">PILMGSWSEAVPYG</span><span class="topo-unknown">IFSHLDWTNNFSLV</span><span class="topo-outside">HGNLFYN</span><span class="topo-membrane">PFHGLSIAFLYGSALLFAMHGA</span><span class="topo-inside">TILAVSRFGGERELEQIAD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       </span>
+<span class="topo-line"><span class="topo-inside">RGTAAERAALFWRWTMGFNATMEGIHRW</span><span class="topo-membrane">AIWMAVLVTLTGGIGILL</span><span class="topo-outside">SGTVVDN</span><span class="topo-unknown">WYVWGQN</span><span class="topo-outside">HG</span><span class="topo-unknown">MAPLN</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2659,6 +2714,7 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2674,11 +2730,13 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MVGVTAFGNF</span><span class="topo-outside">D</span><span class="topo-membrane">LASLAIYSFWIFLAGLIYYL</span><span class="topo-inside">QTENMREGYPLENEDGTPAANQGPFPLPK</span></span>
-<span class="topo-line"><span class="topo-inside">PKTFILPHGRGTLTVPGPESEDRPIALARTAVSEGFPHAPTGDPMKDGVGPASWVARRDL</span></span>
-<span class="topo-line"><span class="topo-inside">PELDGHGHNKIKPMKAAAGFHVSAGKNPIGLPVRGCDLEIAGKVVDIWVDIPEQMARFLE</span></span>
-<span class="topo-line"><span class="topo-inside">VELKDGSTRLLPMQMVKVQSNRVHVNALSSDLFAGIPTIKSPTEVTLLEEDKICGYVAGG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MVGVTAFGNF</span><span class="topo-outside">D</span><span class="topo-membrane">LASLAIYSFWIFLAGLIYYL</span><span class="topo-inside">QTENMREGYPLENEDGTPAANQGPFPLPKPKTFILPHGRGTLTVPGPESEDRPIALARTAVSEGFPHAPTGDPMKDGVGPASWVARRDL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">PELDGHGHNKIKPMKAAAGFHVSAGKNPIGLPVRGCDLEIAGKVVDIWVDIPEQMARFLEVELKDGSTRLLPMQMVKVQSNRVHVNALSSDLFAGIPTIKSPTEVTLLEEDKICGYVAGG</span></span>
+<span class="topo-ruler">       250       260</span>
 <span class="topo-line"><span class="topo-inside">LMYAAPKRKS</span><span class="topo-unknown">VVAAMLAEYA</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2725,6 +2783,7 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2740,11 +2799,13 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">ALLSFERKYRVPGGTLVGGNLFDFWVGPFYV</span><span class="topo-membrane">GFFGVATFFFAALGIILIAW</span><span class="topo-outside">SAVLQGTWN</span></span>
-<span class="topo-line"><span class="topo-outside">PQLISVYPPALEYGLGGAPLAKGGLWQI</span><span class="topo-membrane">ITICATGAFVSWALREV</span><span class="topo-inside">EICRKLGIGYH</span><span class="topo-membrane">IPFA</span></span>
-<span class="topo-line"><span class="topo-membrane">FAFAILAYLTLVLF</span><span class="topo-outside">RPVMMGAWGYAFPYGIW</span><span class="topo-unknown">THLDWVSNTGY</span><span class="topo-outside">TYGNFHYNP</span><span class="topo-membrane">AHMIAISFF</span></span>
-<span class="topo-line"><span class="topo-membrane">FTNALALALHGA</span><span class="topo-inside">LVLSAANPEKGKEMRTPDHEDTFFRDLVGYSIGTLGIHR</span><span class="topo-membrane">LGLLLSLSA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">ALLSFERKYRVPGGTLVGGNLFDFWVGPFYV</span><span class="topo-membrane">GFFGVATFFFAALGIILIAW</span><span class="topo-outside">SAVLQGTWNPQLISVYPPALEYGLGGAPLAKGGLWQI</span><span class="topo-membrane">ITICATGAFVSWALREV</span><span class="topo-inside">EICRKLGIGYH</span><span class="topo-membrane">IPFA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">FAFAILAYLTLVLF</span><span class="topo-outside">RPVMMGAWGYAFPYGIW</span><span class="topo-unknown">THLDWVSNTGY</span><span class="topo-outside">TYGNFHYNP</span><span class="topo-membrane">AHMIAISFFFTNALALALHGA</span><span class="topo-inside">LVLSAANPEKGKEMRTPDHEDTFFRDLVGYSIGTLGIHR</span><span class="topo-membrane">LGLLLSLSA</span></span>
+<span class="topo-ruler">       250       260       270       280 </span>
 <span class="topo-line"><span class="topo-membrane">VFFSALCMI</span><span class="topo-outside">ITGTIWFDQWVDWWQWWVKLPWWANIPGGING</span></span>
+<details class="topo-details"><summary>Topology coordinates (13 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2847,6 +2908,7 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2862,12 +2924,13 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">AEYQNIFSQVQVRGPADLGMTEDVNLANRSGVGPFSTLLGWFGNAQLGPIYLGS</span><span class="topo-membrane">LGVLSL</span></span>
-<span class="topo-line"><span class="topo-membrane">FSGLMWFFTIGI</span><span class="topo-outside">WFWYQAGWN</span><span class="topo-unknown">PAVFLR</span><span class="topo-outside">DLFFFSLEPPAPEYGLSFAAPLKEGGLWL</span><span class="topo-membrane">IASF</span></span>
-<span class="topo-line"><span class="topo-membrane">FMFVAVWSWWGRTY</span><span class="topo-inside">LRAQALGMGKHT</span><span class="topo-membrane">AWAFLSAIWLWMVLGFIR</span><span class="topo-outside">PILMGSWSEAVPYG</span><span class="topo-unknown">IF</span></span>
-<span class="topo-line"><span class="topo-unknown">SHLDWTNNFSLV</span><span class="topo-outside">HGNLFYN</span><span class="topo-membrane">PFHGLSIAFLYGSALLFAMHGA</span><span class="topo-inside">TILAVSRFGGERELEQIAD</span></span>
-<span class="topo-line"><span class="topo-inside">RGTAAERAALFWRWTMGFNATMEGIHRW</span><span class="topo-membrane">AIWMAVLVTLTGGIGILL</span><span class="topo-outside">SGTVVDN</span><span class="topo-unknown">WYVWGQN</span></span>
-<span class="topo-line"><span class="topo-outside">HG</span><span class="topo-unknown">MAPLN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">AEYQNIFSQVQVRGPADLGMTEDVNLANRSGVGPFSTLLGWFGNAQLGPIYLGS</span><span class="topo-membrane">LGVLSLFSGLMWFFTIGI</span><span class="topo-outside">WFWYQAGWN</span><span class="topo-unknown">PAVFLR</span><span class="topo-outside">DLFFFSLEPPAPEYGLSFAAPLKEGGLWL</span><span class="topo-membrane">IASF</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">FMFVAVWSWWGRTY</span><span class="topo-inside">LRAQALGMGKHT</span><span class="topo-membrane">AWAFLSAIWLWMVLGFIR</span><span class="topo-outside">PILMGSWSEAVPYG</span><span class="topo-unknown">IFSHLDWTNNFSLV</span><span class="topo-outside">HGNLFYN</span><span class="topo-membrane">PFHGLSIAFLYGSALLFAMHGA</span><span class="topo-inside">TILAVSRFGGERELEQIAD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       </span>
+<span class="topo-line"><span class="topo-inside">RGTAAERAALFWRWTMGFNATMEGIHRW</span><span class="topo-membrane">AIWMAVLVTLTGGIGILL</span><span class="topo-outside">SGTVVDN</span><span class="topo-unknown">WYVWGQN</span><span class="topo-outside">HG</span><span class="topo-unknown">MAPLN</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3005,6 +3068,7 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3020,11 +3084,13 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MVGVTAFGNF</span><span class="topo-outside">D</span><span class="topo-membrane">LASLAIYSFWIFLAGLIYYL</span><span class="topo-inside">QTENMREGYPLENEDGTPAANQGPFPLPK</span></span>
-<span class="topo-line"><span class="topo-inside">PKTFILPHGRGTLTVPGPESEDRPIALARTAVSEGFPHAPTGDPMKDGVGPASWVARRDL</span></span>
-<span class="topo-line"><span class="topo-inside">PELDGHGHNKIKPMKAAAGFHVSAGKNPIGLPVRGCDLEIAGKVVDIWVDIPEQMARFLE</span></span>
-<span class="topo-line"><span class="topo-inside">VELKDGSTRLLPMQMVKVQSNRVHVNALSSDLFAGIPTIKSPTEVTLLEEDKICGYVAGG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MVGVTAFGNF</span><span class="topo-outside">D</span><span class="topo-membrane">LASLAIYSFWIFLAGLIYYL</span><span class="topo-inside">QTENMREGYPLENEDGTPAANQGPFPLPKPKTFILPHGRGTLTVPGPESEDRPIALARTAVSEGFPHAPTGDPMKDGVGPASWVARRDL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">PELDGHGHNKIKPMKAAAGFHVSAGKNPIGLPVRGCDLEIAGKVVDIWVDIPEQMARFLEVELKDGSTRLLPMQMVKVQSNRVHVNALSSDLFAGIPTIKSPTEVTLLEEDKICGYVAGG</span></span>
+<span class="topo-ruler">       250       260</span>
 <span class="topo-line"><span class="topo-inside">LMYAAPKRKS</span><span class="topo-unknown">VVAAMLAEYA</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3071,6 +3137,7 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3086,11 +3153,13 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">ALLSFERKYRVPGGTLVGGNLFDFWVGPFYV</span><span class="topo-membrane">GFFGVATFFFAALGIILIAW</span><span class="topo-outside">SAVLQGTWN</span></span>
-<span class="topo-line"><span class="topo-outside">PQLISVYPPALEYGLGGAPLAKGGLWQI</span><span class="topo-membrane">ITICATGAFVSWALREV</span><span class="topo-inside">EICRKLGIGYH</span><span class="topo-membrane">IPFA</span></span>
-<span class="topo-line"><span class="topo-membrane">FAFAILAYLTLVLF</span><span class="topo-outside">RPVMMGAWGYAFPYGIW</span><span class="topo-unknown">THLDWVSNTGY</span><span class="topo-outside">TYGNFHYNP</span><span class="topo-membrane">AHMIAISFF</span></span>
-<span class="topo-line"><span class="topo-membrane">FTNALALALHG</span><span class="topo-inside">ALVLSAANPEKGKEMRTPDHEDTFFRDLVGYSIGTLGIHR</span><span class="topo-membrane">LGLLLSLSA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">ALLSFERKYRVPGGTLVGGNLFDFWVGPFYV</span><span class="topo-membrane">GFFGVATFFFAALGIILIAW</span><span class="topo-outside">SAVLQGTWNPQLISVYPPALEYGLGGAPLAKGGLWQI</span><span class="topo-membrane">ITICATGAFVSWALREV</span><span class="topo-inside">EICRKLGIGYH</span><span class="topo-membrane">IPFA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">FAFAILAYLTLVLF</span><span class="topo-outside">RPVMMGAWGYAFPYGIW</span><span class="topo-unknown">THLDWVSNTGY</span><span class="topo-outside">TYGNFHYNP</span><span class="topo-membrane">AHMIAISFFFTNALALALHG</span><span class="topo-inside">ALVLSAANPEKGKEMRTPDHEDTFFRDLVGYSIGTLGIHR</span><span class="topo-membrane">LGLLLSLSA</span></span>
+<span class="topo-ruler">       250       260       270       280 </span>
 <span class="topo-line"><span class="topo-membrane">VFFSALCMI</span><span class="topo-outside">ITGTIWFDQ</span><span class="topo-unknown">WVDWWQWWV</span><span class="topo-outside">KLPWWANIPGGING</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3207,6 +3276,7 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3222,12 +3292,13 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">AEYQNIFSQVQVRGPADLGMTEDVNLANRSGVGPFSTLLGWFGNAQLGPIYLGS</span><span class="topo-membrane">LGVLSL</span></span>
-<span class="topo-line"><span class="topo-membrane">FSGLMWFFTIGI</span><span class="topo-outside">WFWYQAGWN</span><span class="topo-unknown">PAVFLR</span><span class="topo-outside">DLFFFSLEPPAPEYGLSFAAPLKEGGLWL</span><span class="topo-membrane">IASF</span></span>
-<span class="topo-line"><span class="topo-membrane">FMFVAVWSWWGRT</span><span class="topo-inside">YLRAQALGMGKHT</span><span class="topo-membrane">AWAFLSAIWLWMVLGFIR</span><span class="topo-outside">PILMGSWSEAVPYG</span><span class="topo-unknown">IF</span></span>
-<span class="topo-line"><span class="topo-unknown">SHLDWTNNFSLV</span><span class="topo-outside">HGNLFYN</span><span class="topo-membrane">PFHGLSIAFLYGSALLFAMHGA</span><span class="topo-inside">TILAVSRFGGERELEQIAD</span></span>
-<span class="topo-line"><span class="topo-inside">RGTAAERAALFWRWTMGFNATMEGIHRW</span><span class="topo-membrane">AIWMAVLVTLTGGIGILL</span><span class="topo-outside">SGTVVDN</span><span class="topo-unknown">WYVWGQN</span></span>
-<span class="topo-line"><span class="topo-outside">HG</span><span class="topo-unknown">MAPLN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">AEYQNIFSQVQVRGPADLGMTEDVNLANRSGVGPFSTLLGWFGNAQLGPIYLGS</span><span class="topo-membrane">LGVLSLFSGLMWFFTIGI</span><span class="topo-outside">WFWYQAGWN</span><span class="topo-unknown">PAVFLR</span><span class="topo-outside">DLFFFSLEPPAPEYGLSFAAPLKEGGLWL</span><span class="topo-membrane">IASF</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">FMFVAVWSWWGRT</span><span class="topo-inside">YLRAQALGMGKHT</span><span class="topo-membrane">AWAFLSAIWLWMVLGFIR</span><span class="topo-outside">PILMGSWSEAVPYG</span><span class="topo-unknown">IFSHLDWTNNFSLV</span><span class="topo-outside">HGNLFYN</span><span class="topo-membrane">PFHGLSIAFLYGSALLFAMHGA</span><span class="topo-inside">TILAVSRFGGERELEQIAD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       </span>
+<span class="topo-line"><span class="topo-inside">RGTAAERAALFWRWTMGFNATMEGIHRW</span><span class="topo-membrane">AIWMAVLVTLTGGIGILL</span><span class="topo-outside">SGTVVDN</span><span class="topo-unknown">WYVWGQN</span><span class="topo-outside">HG</span><span class="topo-unknown">MAPLN</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3365,6 +3436,7 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3380,11 +3452,13 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MVGVTAFGNF</span><span class="topo-outside">DLAS</span><span class="topo-membrane">LAIYSFWIFLAGLIYYLQ</span><span class="topo-inside">TENMREGYPLENEDGTPAANQGPFPLPK</span></span>
-<span class="topo-line"><span class="topo-inside">PKTFILPHGRGTLTVPGPESEDRPIALARTAVSEGFPHAPTGDPMKDGVGPASWVARRDL</span></span>
-<span class="topo-line"><span class="topo-inside">PELDGHGHNKIKPMKAAAGFHVSAGKNPIGLPVRGCDLEIAGKVVDIWVDIPEQMARFLE</span></span>
-<span class="topo-line"><span class="topo-inside">VELKDGSTRLLPMQMVKVQSNRVHVNALSSDLFAGIPTIKSPTEVTLLEEDKICGYVAGG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MVGVTAFGNF</span><span class="topo-outside">DLAS</span><span class="topo-membrane">LAIYSFWIFLAGLIYYLQ</span><span class="topo-inside">TENMREGYPLENEDGTPAANQGPFPLPKPKTFILPHGRGTLTVPGPESEDRPIALARTAVSEGFPHAPTGDPMKDGVGPASWVARRDL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">PELDGHGHNKIKPMKAAAGFHVSAGKNPIGLPVRGCDLEIAGKVVDIWVDIPEQMARFLEVELKDGSTRLLPMQMVKVQSNRVHVNALSSDLFAGIPTIKSPTEVTLLEEDKICGYVAGG</span></span>
+<span class="topo-ruler">       250       260</span>
 <span class="topo-line"><span class="topo-inside">LMYAAPKRKS</span><span class="topo-unknown">VVAAMLAEYA</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3431,6 +3505,7 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3446,11 +3521,13 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">ALLSFERKYRVPGGTLVGGNLFDFWVGPFYV</span><span class="topo-membrane">GFFGVATFFFAALGIILIA</span><span class="topo-outside">WSAVLQGTWN</span></span>
-<span class="topo-line"><span class="topo-outside">PQLISVYPPALEYGLGGAPLAKGGLWQ</span><span class="topo-membrane">IITICATGAFVSWALREV</span><span class="topo-inside">EICRKLGIGYH</span><span class="topo-membrane">IPFA</span></span>
-<span class="topo-line"><span class="topo-membrane">FAFAILAYLTLVLF</span><span class="topo-outside">RPVMMGAWGYAFPYGIW</span><span class="topo-unknown">THLDWVSNTGY</span><span class="topo-outside">TYGNFHYNP</span><span class="topo-membrane">AHMIAISFF</span></span>
-<span class="topo-line"><span class="topo-membrane">FTNALALALHGA</span><span class="topo-inside">LVLSAANPEKGKEMRTPDHEDTFFRDLVGYSIGTLGI</span><span class="topo-membrane">HRLGLLLSLSA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">ALLSFERKYRVPGGTLVGGNLFDFWVGPFYV</span><span class="topo-membrane">GFFGVATFFFAALGIILIA</span><span class="topo-outside">WSAVLQGTWNPQLISVYPPALEYGLGGAPLAKGGLWQ</span><span class="topo-membrane">IITICATGAFVSWALREV</span><span class="topo-inside">EICRKLGIGYH</span><span class="topo-membrane">IPFA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">FAFAILAYLTLVLF</span><span class="topo-outside">RPVMMGAWGYAFPYGIW</span><span class="topo-unknown">THLDWVSNTGY</span><span class="topo-outside">TYGNFHYNP</span><span class="topo-membrane">AHMIAISFFFTNALALALHGA</span><span class="topo-inside">LVLSAANPEKGKEMRTPDHEDTFFRDLVGYSIGTLGI</span><span class="topo-membrane">HRLGLLLSLSA</span></span>
+<span class="topo-ruler">       250       260       270       280 </span>
 <span class="topo-line"><span class="topo-membrane">VFFSALCMI</span><span class="topo-outside">ITGTIWFDQ</span><span class="topo-unknown">WVDWWQWWV</span><span class="topo-outside">KLPWWANIPGGING</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3567,6 +3644,7 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3582,12 +3660,13 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">AEYQNIFSQVQVRGPADLGMTEDVNLANRSGVGPFSTLLGWFGNAQLGPIYL</span><span class="topo-membrane">GSLGVLSL</span></span>
-<span class="topo-line"><span class="topo-membrane">FSGLMWFFTIGI</span><span class="topo-outside">WFWYQAGWN</span><span class="topo-unknown">PAVFLR</span><span class="topo-outside">DLFFFSLEPPAPEYGLSFAAPLKEGGLWLI</span><span class="topo-membrane">ASF</span></span>
-<span class="topo-line"><span class="topo-membrane">FMFVAVWSWWGRTYL</span><span class="topo-inside">RAQALGMGK</span><span class="topo-membrane">HTAWAFLSAIWLWMVLGFI</span><span class="topo-outside">RPILMGSWSEAVPYG</span><span class="topo-unknown">IF</span></span>
-<span class="topo-line"><span class="topo-unknown">SHLDWTNNFSLV</span><span class="topo-outside">HGNLFYNP</span><span class="topo-membrane">FHGLSIAFLYGSALLFAMHGA</span><span class="topo-inside">TILAVSRFGGERELEQIAD</span></span>
-<span class="topo-line"><span class="topo-inside">RGTAAERAALFWRWTMGFNATMEGIH</span><span class="topo-membrane">RWAIWMAVLVTLTGGIGIL</span><span class="topo-outside">LSGTVVDN</span><span class="topo-unknown">WYVWGQ</span><span class="topo-outside">N</span></span>
-<span class="topo-line"><span class="topo-outside">HG</span><span class="topo-unknown">MAPLN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">AEYQNIFSQVQVRGPADLGMTEDVNLANRSGVGPFSTLLGWFGNAQLGPIYL</span><span class="topo-membrane">GSLGVLSLFSGLMWFFTIGI</span><span class="topo-outside">WFWYQAGWN</span><span class="topo-unknown">PAVFLR</span><span class="topo-outside">DLFFFSLEPPAPEYGLSFAAPLKEGGLWLI</span><span class="topo-membrane">ASF</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">FMFVAVWSWWGRTYL</span><span class="topo-inside">RAQALGMGK</span><span class="topo-membrane">HTAWAFLSAIWLWMVLGFI</span><span class="topo-outside">RPILMGSWSEAVPYG</span><span class="topo-unknown">IFSHLDWTNNFSLV</span><span class="topo-outside">HGNLFYNP</span><span class="topo-membrane">FHGLSIAFLYGSALLFAMHGA</span><span class="topo-inside">TILAVSRFGGERELEQIAD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       </span>
+<span class="topo-line"><span class="topo-inside">RGTAAERAALFWRWTMGFNATMEGIH</span><span class="topo-membrane">RWAIWMAVLVTLTGGIGIL</span><span class="topo-outside">LSGTVVDN</span><span class="topo-unknown">WYVWGQ</span><span class="topo-outside">NHG</span><span class="topo-unknown">MAPLN</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3725,6 +3804,7 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3740,11 +3820,13 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MVGVTAFGNF</span><span class="topo-outside">D</span><span class="topo-membrane">LASLAIYSFWIFLAGLIYYL</span><span class="topo-inside">QTENMREGYPLENEDGTPAANQGPFPLPK</span></span>
-<span class="topo-line"><span class="topo-inside">PKTFILPHGRGTLTVPGPESEDRPIALARTAVSEGFPHAPTGDPMKDGVGPASWVARRDL</span></span>
-<span class="topo-line"><span class="topo-inside">PELDGHGHNKIKPMKAAAGFHVSAGKNPIGLPVRGCDLEIAGKVVDIWVDIPEQMARFLE</span></span>
-<span class="topo-line"><span class="topo-inside">VELKDGSTRLLPMQMVKVQSNRVHVNALSSDLFAGIPTIKSPTEVTLLEEDKICGYVAGG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MVGVTAFGNF</span><span class="topo-outside">D</span><span class="topo-membrane">LASLAIYSFWIFLAGLIYYL</span><span class="topo-inside">QTENMREGYPLENEDGTPAANQGPFPLPKPKTFILPHGRGTLTVPGPESEDRPIALARTAVSEGFPHAPTGDPMKDGVGPASWVARRDL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">PELDGHGHNKIKPMKAAAGFHVSAGKNPIGLPVRGCDLEIAGKVVDIWVDIPEQMARFLEVELKDGSTRLLPMQMVKVQSNRVHVNALSSDLFAGIPTIKSPTEVTLLEEDKICGYVAGG</span></span>
+<span class="topo-ruler">       250       260</span>
 <span class="topo-line"><span class="topo-inside">LMYAAPKRKS</span><span class="topo-unknown">VVAAMLAEYA</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3791,6 +3873,7 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3806,11 +3889,13 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">ALLSFERKYRVPGGTLVGGNLFDFWVGPFYV</span><span class="topo-membrane">GFFGVATFFFAALGIILIAW</span><span class="topo-outside">SAVLQGTWN</span></span>
-<span class="topo-line"><span class="topo-outside">PQLISVYPPALEYGLGGAPLAKGGLWQI</span><span class="topo-membrane">ITICATGAFVSWALREV</span><span class="topo-inside">EICRKLGIGYH</span><span class="topo-membrane">IPFA</span></span>
-<span class="topo-line"><span class="topo-membrane">FAFAILAYLTLVLF</span><span class="topo-outside">RPVMMGAWGYAFPYGIW</span><span class="topo-unknown">THLDWVSNTGY</span><span class="topo-outside">TYGNFHYNP</span><span class="topo-membrane">AHMIAISFF</span></span>
-<span class="topo-line"><span class="topo-membrane">FTNALALALHGA</span><span class="topo-inside">LVLSAANPEKGKEMRTPDHEDTFFRDLVGYSIGTLGIHR</span><span class="topo-membrane">LGLLLSLSA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">ALLSFERKYRVPGGTLVGGNLFDFWVGPFYV</span><span class="topo-membrane">GFFGVATFFFAALGIILIAW</span><span class="topo-outside">SAVLQGTWNPQLISVYPPALEYGLGGAPLAKGGLWQI</span><span class="topo-membrane">ITICATGAFVSWALREV</span><span class="topo-inside">EICRKLGIGYH</span><span class="topo-membrane">IPFA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">FAFAILAYLTLVLF</span><span class="topo-outside">RPVMMGAWGYAFPYGIW</span><span class="topo-unknown">THLDWVSNTGY</span><span class="topo-outside">TYGNFHYNP</span><span class="topo-membrane">AHMIAISFFFTNALALALHGA</span><span class="topo-inside">LVLSAANPEKGKEMRTPDHEDTFFRDLVGYSIGTLGIHR</span><span class="topo-membrane">LGLLLSLSA</span></span>
+<span class="topo-ruler">       250       260       270       280 </span>
 <span class="topo-line"><span class="topo-membrane">VFFSALCMI</span><span class="topo-outside">ITGTIWFDQWVDWWQWWVKLPWWANIPGGING</span></span>
+<details class="topo-details"><summary>Topology coordinates (13 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3913,6 +3998,7 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3928,12 +4014,13 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">AEYQNIFSQVQVRGPADLGMTEDVNLANRSGVGPFSTLLGWFGNAQLGPIYLGS</span><span class="topo-membrane">LGVLSL</span></span>
-<span class="topo-line"><span class="topo-membrane">FSGLMWFFTIGI</span><span class="topo-outside">WFWYQAGWN</span><span class="topo-unknown">PAVFLR</span><span class="topo-outside">DLFFFSLEPPAPEYGLSFAAPLKEGGLWL</span><span class="topo-membrane">IASF</span></span>
-<span class="topo-line"><span class="topo-membrane">FMFVAVWSWWGRTY</span><span class="topo-inside">LRAQALGMGKHT</span><span class="topo-membrane">AWAFLSAIWLWMVLGFIR</span><span class="topo-outside">PILMGSWSEAVPYG</span><span class="topo-unknown">IF</span></span>
-<span class="topo-line"><span class="topo-unknown">SHLDWTNNFSLV</span><span class="topo-outside">HGNLFYN</span><span class="topo-membrane">PFHGLSIAFLYGSALLFAMHGA</span><span class="topo-inside">TILAVSRFGGERELEQIAD</span></span>
-<span class="topo-line"><span class="topo-inside">RGTAAERAALFWRWTMGFNATMEGIHRW</span><span class="topo-membrane">AIWMAVLVTLTGGIGILL</span><span class="topo-outside">SGTVVDN</span><span class="topo-unknown">WYVWGQN</span></span>
-<span class="topo-line"><span class="topo-outside">HG</span><span class="topo-unknown">MAPLN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">AEYQNIFSQVQVRGPADLGMTEDVNLANRSGVGPFSTLLGWFGNAQLGPIYLGS</span><span class="topo-membrane">LGVLSLFSGLMWFFTIGI</span><span class="topo-outside">WFWYQAGWN</span><span class="topo-unknown">PAVFLR</span><span class="topo-outside">DLFFFSLEPPAPEYGLSFAAPLKEGGLWL</span><span class="topo-membrane">IASF</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">FMFVAVWSWWGRTY</span><span class="topo-inside">LRAQALGMGKHT</span><span class="topo-membrane">AWAFLSAIWLWMVLGFIR</span><span class="topo-outside">PILMGSWSEAVPYG</span><span class="topo-unknown">IFSHLDWTNNFSLV</span><span class="topo-outside">HGNLFYN</span><span class="topo-membrane">PFHGLSIAFLYGSALLFAMHGA</span><span class="topo-inside">TILAVSRFGGERELEQIAD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       </span>
+<span class="topo-line"><span class="topo-inside">RGTAAERAALFWRWTMGFNATMEGIHRW</span><span class="topo-membrane">AIWMAVLVTLTGGIGILL</span><span class="topo-outside">SGTVVDN</span><span class="topo-unknown">WYVWGQN</span><span class="topo-outside">HG</span><span class="topo-unknown">MAPLN</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4071,6 +4158,7 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4086,11 +4174,13 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MVGVTAFGNF</span><span class="topo-outside">D</span><span class="topo-membrane">LASLAIYSFWIFLAGLIY</span><span class="topo-inside">YLQTENMREGYPLENEDGTPAANQGPFPLPK</span></span>
-<span class="topo-line"><span class="topo-inside">PKTFILPHGRGTLTVPGPESEDRPIALARTAVSEGFPHAPTGDPMKDGVGPASWVARRDL</span></span>
-<span class="topo-line"><span class="topo-inside">PELDGHGHNKIKPMKAAAGFHVSAGKNPIGLPVRGCDLEIAGKVVDIWVDIPEQMARFLE</span></span>
-<span class="topo-line"><span class="topo-inside">VELKDGSTRLLPMQMVKVQSNRVHVNALSSDLFAGIPTIKSPTEVTLLEEDKICGYVAGG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MVGVTAFGNF</span><span class="topo-outside">D</span><span class="topo-membrane">LASLAIYSFWIFLAGLIY</span><span class="topo-inside">YLQTENMREGYPLENEDGTPAANQGPFPLPKPKTFILPHGRGTLTVPGPESEDRPIALARTAVSEGFPHAPTGDPMKDGVGPASWVARRDL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">PELDGHGHNKIKPMKAAAGFHVSAGKNPIGLPVRGCDLEIAGKVVDIWVDIPEQMARFLEVELKDGSTRLLPMQMVKVQSNRVHVNALSSDLFAGIPTIKSPTEVTLLEEDKICGYVAGG</span></span>
+<span class="topo-ruler">       250       260</span>
 <span class="topo-line"><span class="topo-inside">LMYAAPKRKS</span><span class="topo-unknown">VVAAMLAEYA</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4137,6 +4227,7 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4152,11 +4243,13 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">ALLSFERKYRVPGGTLVGGNLFDFWVGPFYV</span><span class="topo-membrane">GFFGVATFFFAALGIILIA</span><span class="topo-outside">WSAVLQGTWN</span></span>
-<span class="topo-line"><span class="topo-outside">PQLISVYPPALEYGLGGAPLAKGGLWQI</span><span class="topo-membrane">ITICATGAFVSWALREV</span><span class="topo-inside">EICRKLGIGY</span><span class="topo-membrane">HIPFA</span></span>
-<span class="topo-line"><span class="topo-membrane">FAFAILAYLTLVLF</span><span class="topo-outside">RPVMMGAWGYAFPYGIW</span><span class="topo-unknown">THLDWVSNTGY</span><span class="topo-outside">TYGNFHYNP</span><span class="topo-membrane">AHMIAISFF</span></span>
-<span class="topo-line"><span class="topo-membrane">FTNALALAL</span><span class="topo-inside">HGALVLSAANPEKGKEMRTPDHEDTFFRDLVGYSIGTLGIHR</span><span class="topo-membrane">LGLLLSLSA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">ALLSFERKYRVPGGTLVGGNLFDFWVGPFYV</span><span class="topo-membrane">GFFGVATFFFAALGIILIA</span><span class="topo-outside">WSAVLQGTWNPQLISVYPPALEYGLGGAPLAKGGLWQI</span><span class="topo-membrane">ITICATGAFVSWALREV</span><span class="topo-inside">EICRKLGIGY</span><span class="topo-membrane">HIPFA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">FAFAILAYLTLVLF</span><span class="topo-outside">RPVMMGAWGYAFPYGIW</span><span class="topo-unknown">THLDWVSNTGY</span><span class="topo-outside">TYGNFHYNP</span><span class="topo-membrane">AHMIAISFFFTNALALAL</span><span class="topo-inside">HGALVLSAANPEKGKEMRTPDHEDTFFRDLVGYSIGTLGIHR</span><span class="topo-membrane">LGLLLSLSA</span></span>
+<span class="topo-ruler">       250       260       270       280 </span>
 <span class="topo-line"><span class="topo-membrane">VFFSALC</span><span class="topo-outside">MIITGTIWFDQ</span><span class="topo-unknown">WVDWWQWWV</span><span class="topo-outside">KLPWWANIPGGING</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4273,6 +4366,7 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4288,12 +4382,13 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">AEYQNIFSQVQVRGPADLGMTEDVNLANRSGVGPFSTLLGWFGNAQLGPIYLGSL</span><span class="topo-membrane">GVLSL</span></span>
-<span class="topo-line"><span class="topo-membrane">FSGLMWFFTIGI</span><span class="topo-outside">WFWYQAGWN</span><span class="topo-unknown">PAVFLR</span><span class="topo-outside">DLFFFSLEPPAPEYGLSFAAPLKEGGL</span><span class="topo-membrane">WLIASF</span></span>
-<span class="topo-line"><span class="topo-membrane">FMFVAVWSWWGR</span><span class="topo-inside">TYLRAQALGMGKHT</span><span class="topo-membrane">AWAFLSAIWLWMVLGFIRPIL</span><span class="topo-outside">MGSWSEAVPYG</span><span class="topo-unknown">IF</span></span>
-<span class="topo-line"><span class="topo-unknown">SHLDWTNNFSLV</span><span class="topo-outside">HGNLFYN</span><span class="topo-membrane">PFHGLSIAFLYGSALLFAMHGA</span><span class="topo-inside">TILAVSRFGGERELEQIAD</span></span>
-<span class="topo-line"><span class="topo-inside">RGTAAERAALFWRWTMGFNATMEGIHRW</span><span class="topo-membrane">AIWMAVLVTLTGGIGILL</span><span class="topo-outside">SGTVVDN</span><span class="topo-unknown">WYVWGQN</span></span>
-<span class="topo-line"><span class="topo-outside">HG</span><span class="topo-unknown">MAPLN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">AEYQNIFSQVQVRGPADLGMTEDVNLANRSGVGPFSTLLGWFGNAQLGPIYLGSL</span><span class="topo-membrane">GVLSLFSGLMWFFTIGI</span><span class="topo-outside">WFWYQAGWN</span><span class="topo-unknown">PAVFLR</span><span class="topo-outside">DLFFFSLEPPAPEYGLSFAAPLKEGGL</span><span class="topo-membrane">WLIASF</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">FMFVAVWSWWGR</span><span class="topo-inside">TYLRAQALGMGKHT</span><span class="topo-membrane">AWAFLSAIWLWMVLGFIRPIL</span><span class="topo-outside">MGSWSEAVPYG</span><span class="topo-unknown">IFSHLDWTNNFSLV</span><span class="topo-outside">HGNLFYN</span><span class="topo-membrane">PFHGLSIAFLYGSALLFAMHGA</span><span class="topo-inside">TILAVSRFGGERELEQIAD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       </span>
+<span class="topo-line"><span class="topo-inside">RGTAAERAALFWRWTMGFNATMEGIHRW</span><span class="topo-membrane">AIWMAVLVTLTGGIGILL</span><span class="topo-outside">SGTVVDN</span><span class="topo-unknown">WYVWGQN</span><span class="topo-outside">HG</span><span class="topo-unknown">MAPLN</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4431,6 +4526,7 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4446,11 +4542,13 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MVGVTAFGNF</span><span class="topo-outside">DLAS</span><span class="topo-membrane">LAIYSFWIFLAGLIYYLQTEN</span><span class="topo-inside">MREGYPLENEDGTPAANQGPFPLPK</span></span>
-<span class="topo-line"><span class="topo-inside">PKTFILPHGRGTLTVPGPESEDRPIALARTAVSEGFPHAPTGDPMKDGVGPASWVARRDL</span></span>
-<span class="topo-line"><span class="topo-inside">PELDGHGHNKIKPMKAAAGFHVSAGKNPIGLPVRGCDLEIAGKVVDIWVDIPEQMARFLE</span></span>
-<span class="topo-line"><span class="topo-inside">VELKDGSTRLLPMQMVKVQSNRVHVNALSSDLFAGIPTIKSPTEVTLLEEDKICGYVAGG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MVGVTAFGNF</span><span class="topo-outside">DLAS</span><span class="topo-membrane">LAIYSFWIFLAGLIYYLQTEN</span><span class="topo-inside">MREGYPLENEDGTPAANQGPFPLPKPKTFILPHGRGTLTVPGPESEDRPIALARTAVSEGFPHAPTGDPMKDGVGPASWVARRDL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">PELDGHGHNKIKPMKAAAGFHVSAGKNPIGLPVRGCDLEIAGKVVDIWVDIPEQMARFLEVELKDGSTRLLPMQMVKVQSNRVHVNALSSDLFAGIPTIKSPTEVTLLEEDKICGYVAGG</span></span>
+<span class="topo-ruler">       250       260</span>
 <span class="topo-line"><span class="topo-inside">LMYAAPKRKS</span><span class="topo-unknown">VVAAMLAEYA</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4497,6 +4595,7 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4512,11 +4611,13 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">ALLSFERKYRVPGGTLVGGNLFDFW</span><span class="topo-membrane">VGPFYVGFFGVATFFFAALGIILIA</span><span class="topo-outside">WSAVLQGTWN</span></span>
-<span class="topo-line"><span class="topo-outside">PQLISVYPPALEYGLGGAPLAKGGLWQ</span><span class="topo-membrane">IITICATGAFVSWALREVEI</span><span class="topo-inside">CRKLGIGY</span><span class="topo-membrane">HIPFA</span></span>
-<span class="topo-line"><span class="topo-membrane">FAFAILAYLTLVLFR</span><span class="topo-outside">PVMMGAWGYAFPYGIW</span><span class="topo-unknown">THLDWVSNTGY</span><span class="topo-outside">TYGNFHYNP</span><span class="topo-membrane">AHMIAISFF</span></span>
-<span class="topo-line"><span class="topo-membrane">FTNALALALHGAL</span><span class="topo-inside">VLSAANPEKGKEMRTPDHEDTFFRDLVGYSIGTLG</span><span class="topo-membrane">IHRLGLLLSLSA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">ALLSFERKYRVPGGTLVGGNLFDFW</span><span class="topo-membrane">VGPFYVGFFGVATFFFAALGIILIA</span><span class="topo-outside">WSAVLQGTWNPQLISVYPPALEYGLGGAPLAKGGLWQ</span><span class="topo-membrane">IITICATGAFVSWALREVEI</span><span class="topo-inside">CRKLGIGY</span><span class="topo-membrane">HIPFA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">FAFAILAYLTLVLFR</span><span class="topo-outside">PVMMGAWGYAFPYGIW</span><span class="topo-unknown">THLDWVSNTGY</span><span class="topo-outside">TYGNFHYNP</span><span class="topo-membrane">AHMIAISFFFTNALALALHGAL</span><span class="topo-inside">VLSAANPEKGKEMRTPDHEDTFFRDLVGYSIGTLG</span><span class="topo-membrane">IHRLGLLLSLSA</span></span>
+<span class="topo-ruler">       250       260       270       280 </span>
 <span class="topo-line"><span class="topo-membrane">VFFSALCMII</span><span class="topo-outside">TGTIWFDQ</span><span class="topo-unknown">WVDWWQWWV</span><span class="topo-outside">KLPWWANIPGGING</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4633,6 +4734,7 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4648,12 +4750,13 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">AEYQNIFSQVQVRGPADLGMTEDVNLANRSGVGPFSTLLGWFGNAQLGPI</span><span class="topo-membrane">YLGSLGVLSL</span></span>
-<span class="topo-line"><span class="topo-membrane">FSGLMWFFTIGI</span><span class="topo-outside">WFWYQAGWN</span><span class="topo-unknown">PAVFLR</span><span class="topo-outside">DLFFFSLEPPAPEYGLSFAAPLKEGGLWLI</span><span class="topo-membrane">ASF</span></span>
-<span class="topo-line"><span class="topo-membrane">FMFVAVWSWWGRTYLRA</span><span class="topo-inside">QALGMG</span><span class="topo-membrane">KHTAWAFLSAIWLWMVLGFI</span><span class="topo-outside">RPILMGSWSEAVPYG</span><span class="topo-unknown">IF</span></span>
-<span class="topo-line"><span class="topo-unknown">SHLDWTNNFSLV</span><span class="topo-outside">HGNLFYNP</span><span class="topo-membrane">FHGLSIAFLYGSALLFAMHGAT</span><span class="topo-inside">ILAVSRFGGER</span><span class="topo-unknown">ELEQIA</span><span class="topo-inside">D</span></span>
-<span class="topo-line"><span class="topo-inside">RGTAAERAALFWRWTMGFNATMEG</span><span class="topo-membrane">IHRWAIWMAVLVTLTGGIGIL</span><span class="topo-outside">LSGTVVDN</span><span class="topo-unknown">WYVWGQN</span></span>
-<span class="topo-line"><span class="topo-outside">HG</span><span class="topo-unknown">MAPLN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">AEYQNIFSQVQVRGPADLGMTEDVNLANRSGVGPFSTLLGWFGNAQLGPI</span><span class="topo-membrane">YLGSLGVLSLFSGLMWFFTIGI</span><span class="topo-outside">WFWYQAGWN</span><span class="topo-unknown">PAVFLR</span><span class="topo-outside">DLFFFSLEPPAPEYGLSFAAPLKEGGLWLI</span><span class="topo-membrane">ASF</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">FMFVAVWSWWGRTYLRA</span><span class="topo-inside">QALGMG</span><span class="topo-membrane">KHTAWAFLSAIWLWMVLGFI</span><span class="topo-outside">RPILMGSWSEAVPYG</span><span class="topo-unknown">IFSHLDWTNNFSLV</span><span class="topo-outside">HGNLFYNP</span><span class="topo-membrane">FHGLSIAFLYGSALLFAMHGAT</span><span class="topo-inside">ILAVSRFGGER</span><span class="topo-unknown">ELEQIA</span><span class="topo-inside">D</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       </span>
+<span class="topo-line"><span class="topo-inside">RGTAAERAALFWRWTMGFNATMEG</span><span class="topo-membrane">IHRWAIWMAVLVTLTGGIGIL</span><span class="topo-outside">LSGTVVDN</span><span class="topo-unknown">WYVWGQN</span><span class="topo-outside">HG</span><span class="topo-unknown">MAPLN</span></span>
+<details class="topo-details"><summary>Topology coordinates (20 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4805,6 +4908,7 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4820,11 +4924,13 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MVGVTAFGNF</span><span class="topo-outside">DLASL</span><span class="topo-membrane">AIYSFWIFLAGLIYYLQ</span><span class="topo-inside">TENMREGYPLENEDGTPAANQGPFPLPK</span></span>
-<span class="topo-line"><span class="topo-inside">PKTFILPHGRGTLTVPGPESEDRPIALARTAVSEGFPHAPTGDPMKDGVGPASWVARRDL</span></span>
-<span class="topo-line"><span class="topo-inside">PELDGHGHNKIKPMKAAAGFHVSAGKNPIGLPVRGCDLEIAGKVVDIWVDIPEQMARFLE</span></span>
-<span class="topo-line"><span class="topo-inside">VELKDGSTRLLPMQMVKVQSNRVHVNALSSDLFAGIPTIKSPTEVTLLEEDKICGYVAGG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MVGVTAFGNF</span><span class="topo-outside">DLASL</span><span class="topo-membrane">AIYSFWIFLAGLIYYLQ</span><span class="topo-inside">TENMREGYPLENEDGTPAANQGPFPLPKPKTFILPHGRGTLTVPGPESEDRPIALARTAVSEGFPHAPTGDPMKDGVGPASWVARRDL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">PELDGHGHNKIKPMKAAAGFHVSAGKNPIGLPVRGCDLEIAGKVVDIWVDIPEQMARFLEVELKDGSTRLLPMQMVKVQSNRVHVNALSSDLFAGIPTIKSPTEVTLLEEDKICGYVAGG</span></span>
+<span class="topo-ruler">       250       260</span>
 <span class="topo-line"><span class="topo-inside">LMYAAPKRKS</span><span class="topo-unknown">VVAAMLAEYA</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4871,6 +4977,7 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4886,11 +4993,13 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">ALLSFERKYRVPGGTLVGGNLFDFWVGPFYVGF</span><span class="topo-membrane">FGVATFFFAALGIILIA</span><span class="topo-outside">WSAVLQGTWN</span></span>
-<span class="topo-line"><span class="topo-outside">PQLISVYPPALEYGLGGAPLAKGGLWQI</span><span class="topo-membrane">ITICATGAFVSWALREV</span><span class="topo-inside">EICRKLGIGYH</span><span class="topo-membrane">IPFA</span></span>
-<span class="topo-line"><span class="topo-membrane">FAFAILAYLTLVLF</span><span class="topo-outside">RPVMMGAWGYAFPYGIW</span><span class="topo-unknown">THLDWVSNTGYT</span><span class="topo-outside">YGNFHYNPA</span><span class="topo-membrane">HMIAISFF</span></span>
-<span class="topo-line"><span class="topo-membrane">FTNALALALHGA</span><span class="topo-inside">LVLSAANPEKGKEMRTPDHEDTFFRDLVGYSIGTLGIHR</span><span class="topo-membrane">LGLLLSLSA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">ALLSFERKYRVPGGTLVGGNLFDFWVGPFYVGF</span><span class="topo-membrane">FGVATFFFAALGIILIA</span><span class="topo-outside">WSAVLQGTWNPQLISVYPPALEYGLGGAPLAKGGLWQI</span><span class="topo-membrane">ITICATGAFVSWALREV</span><span class="topo-inside">EICRKLGIGYH</span><span class="topo-membrane">IPFA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">FAFAILAYLTLVLF</span><span class="topo-outside">RPVMMGAWGYAFPYGIW</span><span class="topo-unknown">THLDWVSNTGYT</span><span class="topo-outside">YGNFHYNPA</span><span class="topo-membrane">HMIAISFFFTNALALALHGA</span><span class="topo-inside">LVLSAANPEKGKEMRTPDHEDTFFRDLVGYSIGTLGIHR</span><span class="topo-membrane">LGLLLSLSA</span></span>
+<span class="topo-ruler">       250       260       270       280 </span>
 <span class="topo-line"><span class="topo-membrane">VFFSALC</span><span class="topo-outside">MIITGTIWFDQWVDWWQWWVKLPWWANIPGGING</span></span>
+<details class="topo-details"><summary>Topology coordinates (13 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4993,6 +5102,7 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -5008,12 +5118,13 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">AEYQNIFSQVQVRGPADLGMTEDVNLANRSGVGPFSTLLGWFGNAQLGPIYL</span><span class="topo-membrane">GSLGVLSL</span></span>
-<span class="topo-line"><span class="topo-membrane">FSGLMWFFTIG</span><span class="topo-outside">IWFWYQAGWN</span><span class="topo-unknown">PAVFLR</span><span class="topo-outside">DLFFFSLEPPAPEYGLSFAAPLKEGGLWLI</span><span class="topo-membrane">ASF</span></span>
-<span class="topo-line"><span class="topo-membrane">FMFVAVWSWWGRTY</span><span class="topo-inside">LRAQALGMGKH</span><span class="topo-membrane">TAWAFLSAIWLWMVLGFI</span><span class="topo-outside">RPILMGSWSEAVPYG</span><span class="topo-unknown">IF</span></span>
-<span class="topo-line"><span class="topo-unknown">SHLDWTNNFSL</span><span class="topo-outside">VHGNLFYNP</span><span class="topo-membrane">FHGLSIAFLYGSALLFAMHGA</span><span class="topo-inside">TILAVSRFGGERELEQIAD</span></span>
-<span class="topo-line"><span class="topo-inside">RGTAAERAALFWRWTMGFNATMEGIHR</span><span class="topo-membrane">WAIWMAVLVTLTGGIGIL</span><span class="topo-outside">LSGTVVDN</span><span class="topo-unknown">WYVWGQN</span></span>
-<span class="topo-line"><span class="topo-outside">HG</span><span class="topo-unknown">MAPLN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">AEYQNIFSQVQVRGPADLGMTEDVNLANRSGVGPFSTLLGWFGNAQLGPIYL</span><span class="topo-membrane">GSLGVLSLFSGLMWFFTIG</span><span class="topo-outside">IWFWYQAGWN</span><span class="topo-unknown">PAVFLR</span><span class="topo-outside">DLFFFSLEPPAPEYGLSFAAPLKEGGLWLI</span><span class="topo-membrane">ASF</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">FMFVAVWSWWGRTY</span><span class="topo-inside">LRAQALGMGKH</span><span class="topo-membrane">TAWAFLSAIWLWMVLGFI</span><span class="topo-outside">RPILMGSWSEAVPYG</span><span class="topo-unknown">IFSHLDWTNNFSL</span><span class="topo-outside">VHGNLFYNP</span><span class="topo-membrane">FHGLSIAFLYGSALLFAMHGA</span><span class="topo-inside">TILAVSRFGGERELEQIAD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       </span>
+<span class="topo-line"><span class="topo-inside">RGTAAERAALFWRWTMGFNATMEGIHR</span><span class="topo-membrane">WAIWMAVLVTLTGGIGIL</span><span class="topo-outside">LSGTVVDN</span><span class="topo-unknown">WYVWGQN</span><span class="topo-outside">HG</span><span class="topo-unknown">MAPLN</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -5151,6 +5262,7 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -5166,11 +5278,13 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MVGVTAFGNF</span><span class="topo-outside">DLASL</span><span class="topo-membrane">AIYSFWIFLAGLIYYLQ</span><span class="topo-inside">TENMREGYPLENEDGTPAANQGPFPLPK</span></span>
-<span class="topo-line"><span class="topo-inside">PKTFILPHGRGTLTVPGPESEDRPIALARTAVSEGFPHAPTGDPMKDGVGPASWVARRDL</span></span>
-<span class="topo-line"><span class="topo-inside">PELDGHGHNKIKPMKAAAGFHVSAGKNPIGLPVRGCDLEIAGKVVDIWVDIPEQMARFLE</span></span>
-<span class="topo-line"><span class="topo-inside">VELKDGSTRLLPMQMVKVQSNRVHVNALSSDLFAGIPTIKSPTEVTLLEEDKICGYVAGG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MVGVTAFGNF</span><span class="topo-outside">DLASL</span><span class="topo-membrane">AIYSFWIFLAGLIYYLQ</span><span class="topo-inside">TENMREGYPLENEDGTPAANQGPFPLPKPKTFILPHGRGTLTVPGPESEDRPIALARTAVSEGFPHAPTGDPMKDGVGPASWVARRDL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">PELDGHGHNKIKPMKAAAGFHVSAGKNPIGLPVRGCDLEIAGKVVDIWVDIPEQMARFLEVELKDGSTRLLPMQMVKVQSNRVHVNALSSDLFAGIPTIKSPTEVTLLEEDKICGYVAGG</span></span>
+<span class="topo-ruler">       250       260</span>
 <span class="topo-line"><span class="topo-inside">LMYAAPKRKS</span><span class="topo-unknown">VVAAMLAEYA</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -5217,6 +5331,7 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -5232,11 +5347,13 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">ALLSFERKYRVPGGTLVGGNLFDFWVGPFYVGF</span><span class="topo-membrane">FGVATFFFAALGIILIA</span><span class="topo-outside">WSAVLQGTWN</span></span>
-<span class="topo-line"><span class="topo-outside">PQLISVYPPALEYGLGGAPLAKGGLWQI</span><span class="topo-membrane">ITICATGAFVSWALREV</span><span class="topo-inside">EICRKLGIGYH</span><span class="topo-membrane">IPFA</span></span>
-<span class="topo-line"><span class="topo-membrane">FAFAILAYLTLVLF</span><span class="topo-outside">RPVMMGAWGYAFPYGIW</span><span class="topo-unknown">THLDWVSNTGY</span><span class="topo-outside">TYGNFHYNP</span><span class="topo-membrane">AHMIAISFF</span></span>
-<span class="topo-line"><span class="topo-membrane">FTNALALALHGA</span><span class="topo-inside">LVLSAANPEKGKEMRTPDHEDTFFRDLVGYSIGTLGI</span><span class="topo-membrane">HRLGLLLSLSA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">ALLSFERKYRVPGGTLVGGNLFDFWVGPFYVGF</span><span class="topo-membrane">FGVATFFFAALGIILIA</span><span class="topo-outside">WSAVLQGTWNPQLISVYPPALEYGLGGAPLAKGGLWQI</span><span class="topo-membrane">ITICATGAFVSWALREV</span><span class="topo-inside">EICRKLGIGYH</span><span class="topo-membrane">IPFA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">FAFAILAYLTLVLF</span><span class="topo-outside">RPVMMGAWGYAFPYGIW</span><span class="topo-unknown">THLDWVSNTGY</span><span class="topo-outside">TYGNFHYNP</span><span class="topo-membrane">AHMIAISFFFTNALALALHGA</span><span class="topo-inside">LVLSAANPEKGKEMRTPDHEDTFFRDLVGYSIGTLGI</span><span class="topo-membrane">HRLGLLLSLSA</span></span>
+<span class="topo-ruler">       250       260       270       280 </span>
 <span class="topo-line"><span class="topo-membrane">VFFSALCMI</span><span class="topo-outside">ITGTIWFDQWVDWWQWWVKLPWWANIPGGING</span></span>
+<details class="topo-details"><summary>Topology coordinates (13 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -5339,6 +5456,7 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -5354,12 +5472,13 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">AEYQNIFSQVQVRGPADLGMTEDVNLANRSGVGPFSTLLGWFGNAQLGPIYL</span><span class="topo-membrane">GSLGVLSL</span></span>
-<span class="topo-line"><span class="topo-membrane">FSGLMWFFTIG</span><span class="topo-outside">IWFWYQAGWN</span><span class="topo-unknown">PAVFLR</span><span class="topo-outside">DLFFFSLEPPAPEYGLSFAAPLKEGGLWLI</span><span class="topo-membrane">ASF</span></span>
-<span class="topo-line"><span class="topo-membrane">FMFVAVWSWWGRTYL</span><span class="topo-inside">RAQALGMGK</span><span class="topo-membrane">HTAWAFLSAIWLWMVLGFI</span><span class="topo-outside">RPILMGSWSEAVPYG</span><span class="topo-unknown">IF</span></span>
-<span class="topo-line"><span class="topo-unknown">SHLDWTNNFSLV</span><span class="topo-outside">HGNLFYNP</span><span class="topo-membrane">FHGLSIAFLYGSALLFAMHGA</span><span class="topo-inside">TILAVSRFGGERELEQIAD</span></span>
-<span class="topo-line"><span class="topo-inside">RGTAAERAALFWRWTMGFNATMEGIH</span><span class="topo-membrane">RWAIWMAVLVTLTGGIGIL</span><span class="topo-outside">LSGTVVDN</span><span class="topo-unknown">WYVWGQ</span><span class="topo-outside">N</span></span>
-<span class="topo-line"><span class="topo-outside">HG</span><span class="topo-unknown">MAPLN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">AEYQNIFSQVQVRGPADLGMTEDVNLANRSGVGPFSTLLGWFGNAQLGPIYL</span><span class="topo-membrane">GSLGVLSLFSGLMWFFTIG</span><span class="topo-outside">IWFWYQAGWN</span><span class="topo-unknown">PAVFLR</span><span class="topo-outside">DLFFFSLEPPAPEYGLSFAAPLKEGGLWLI</span><span class="topo-membrane">ASF</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">FMFVAVWSWWGRTYL</span><span class="topo-inside">RAQALGMGK</span><span class="topo-membrane">HTAWAFLSAIWLWMVLGFI</span><span class="topo-outside">RPILMGSWSEAVPYG</span><span class="topo-unknown">IFSHLDWTNNFSLV</span><span class="topo-outside">HGNLFYNP</span><span class="topo-membrane">FHGLSIAFLYGSALLFAMHGA</span><span class="topo-inside">TILAVSRFGGERELEQIAD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       </span>
+<span class="topo-line"><span class="topo-inside">RGTAAERAALFWRWTMGFNATMEGIH</span><span class="topo-membrane">RWAIWMAVLVTLTGGIGIL</span><span class="topo-outside">LSGTVVDN</span><span class="topo-unknown">WYVWGQ</span><span class="topo-outside">NHG</span><span class="topo-unknown">MAPLN</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -5497,6 +5616,7 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -5568,11 +5688,13 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">ALLSFERKYRVPGGTLVGGNLFDFWVGPFYV</span><span class="topo-membrane">GFFGVATFFFAALGIILI</span><span class="topo-outside">AWSAVLQGTWN</span></span>
-<span class="topo-line"><span class="topo-outside">PQLISVYPPALEYGLGGAPLAKGGLWQII</span><span class="topo-membrane">TICATGAFVSWALREV</span><span class="topo-inside">EICRKLGIGY</span><span class="topo-membrane">HIPFA</span></span>
-<span class="topo-line"><span class="topo-membrane">FAFAILAYLT</span><span class="topo-outside">LVLFRPVMMGAWGYAFPYG</span><span class="topo-unknown">IWTHLDWVSNTGYT</span><span class="topo-outside">YGNFHYNP</span><span class="topo-membrane">AHMIAISFF</span></span>
-<span class="topo-line"><span class="topo-membrane">FTNALALAL</span><span class="topo-inside">HGALVLSAANPEKGKEMRTPDHEDTFFRDLVGYSIGTLGIHR</span><span class="topo-membrane">LGLLLSLSA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">ALLSFERKYRVPGGTLVGGNLFDFWVGPFYV</span><span class="topo-membrane">GFFGVATFFFAALGIILI</span><span class="topo-outside">AWSAVLQGTWNPQLISVYPPALEYGLGGAPLAKGGLWQII</span><span class="topo-membrane">TICATGAFVSWALREV</span><span class="topo-inside">EICRKLGIGY</span><span class="topo-membrane">HIPFA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">FAFAILAYLT</span><span class="topo-outside">LVLFRPVMMGAWGYAFPYG</span><span class="topo-unknown">IWTHLDWVSNTGYT</span><span class="topo-outside">YGNFHYNP</span><span class="topo-membrane">AHMIAISFFFTNALALAL</span><span class="topo-inside">HGALVLSAANPEKGKEMRTPDHEDTFFRDLVGYSIGTLGIHR</span><span class="topo-membrane">LGLLLSLSA</span></span>
+<span class="topo-ruler">       250       260       270       280 </span>
 <span class="topo-line"><span class="topo-membrane">VFFSALC</span><span class="topo-outside">MIITGTIWFDQ</span><span class="topo-unknown">WVDWWQWWV</span><span class="topo-outside">KLPWWANIPGGING</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -5689,6 +5811,7 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -5704,12 +5827,13 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">AEYQNIFSQVQVRGPADLGMTEDVNLANRSGVGPFSTLLGWFGNAQLGPIYLGSL</span><span class="topo-membrane">GVLSL</span></span>
-<span class="topo-line"><span class="topo-membrane">FSGLMWFFTIGI</span><span class="topo-outside">WFWYQAGWN</span><span class="topo-unknown">PAVFLR</span><span class="topo-outside">DLFFFSLEPPAPEYGLSFAAPLKEGGL</span><span class="topo-membrane">WLIASF</span></span>
-<span class="topo-line"><span class="topo-membrane">FMFVAVWSWWG</span><span class="topo-inside">RTYLRAQALGMGKHTA</span><span class="topo-membrane">WAFLSAIWLWMVLGFIRPIL</span><span class="topo-outside">MGSWSEAVPYG</span><span class="topo-unknown">IF</span></span>
-<span class="topo-line"><span class="topo-unknown">SHLDWTNNFSLV</span><span class="topo-outside">HGNLFYNP</span><span class="topo-membrane">FHGLSIAFLYGSALLFAMHGA</span><span class="topo-inside">TILAVSRFGGERELEQIAD</span></span>
-<span class="topo-line"><span class="topo-inside">RGTAAERAALFWRWTMGFNATMEGIHRW</span><span class="topo-membrane">AIWMAVLVTLTGGIGILL</span><span class="topo-outside">SGTVVDN</span><span class="topo-unknown">WYVWGQ</span><span class="topo-outside">N</span></span>
-<span class="topo-line"><span class="topo-outside">H</span><span class="topo-unknown">GMAPLN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">AEYQNIFSQVQVRGPADLGMTEDVNLANRSGVGPFSTLLGWFGNAQLGPIYLGSL</span><span class="topo-membrane">GVLSLFSGLMWFFTIGI</span><span class="topo-outside">WFWYQAGWN</span><span class="topo-unknown">PAVFLR</span><span class="topo-outside">DLFFFSLEPPAPEYGLSFAAPLKEGGL</span><span class="topo-membrane">WLIASF</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">FMFVAVWSWWG</span><span class="topo-inside">RTYLRAQALGMGKHTA</span><span class="topo-membrane">WAFLSAIWLWMVLGFIRPIL</span><span class="topo-outside">MGSWSEAVPYG</span><span class="topo-unknown">IFSHLDWTNNFSLV</span><span class="topo-outside">HGNLFYNP</span><span class="topo-membrane">FHGLSIAFLYGSALLFAMHGA</span><span class="topo-inside">TILAVSRFGGERELEQIAD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       </span>
+<span class="topo-line"><span class="topo-inside">RGTAAERAALFWRWTMGFNATMEGIHRW</span><span class="topo-membrane">AIWMAVLVTLTGGIGILL</span><span class="topo-outside">SGTVVDN</span><span class="topo-unknown">WYVWGQ</span><span class="topo-outside">NH</span><span class="topo-unknown">GMAPLN</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -5847,6 +5971,7 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -5862,11 +5987,13 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MVGVTAFQNF</span><span class="topo-outside">DL</span><span class="topo-membrane">ASLAIYSFWIFLAGLIY</span><span class="topo-inside">YLQTENMREGYPLENEDGTPAANQGPFPLPK</span></span>
-<span class="topo-line"><span class="topo-inside">PKTFILPHGRGTLTVPGPESEDRPIALARTAVSEGFPHAPTGDPMKDGVGPASWVARRDL</span></span>
-<span class="topo-line"><span class="topo-inside">PELDGHGHNKIKPMKAAAGFHVSAGKNPIGLPVRGCDLEIAGKVVDIWVDIPEQMARFLE</span></span>
-<span class="topo-line"><span class="topo-inside">VELKDGSTRLLPMQMVKVQSNRVHVNALSSDLFAGIPTIKSPTEVTLLEEDKICGYVAGG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MVGVTAFQNF</span><span class="topo-outside">DL</span><span class="topo-membrane">ASLAIYSFWIFLAGLIY</span><span class="topo-inside">YLQTENMREGYPLENEDGTPAANQGPFPLPKPKTFILPHGRGTLTVPGPESEDRPIALARTAVSEGFPHAPTGDPMKDGVGPASWVARRDL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">PELDGHGHNKIKPMKAAAGFHVSAGKNPIGLPVRGCDLEIAGKVVDIWVDIPEQMARFLEVELKDGSTRLLPMQMVKVQSNRVHVNALSSDLFAGIPTIKSPTEVTLLEEDKICGYVAGG</span></span>
+<span class="topo-ruler">       250       260</span>
 <span class="topo-line"><span class="topo-inside">LMYAAPKRKSVVAAML</span><span class="topo-unknown">AEYA</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -5913,6 +6040,7 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -5998,11 +6126,13 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">F</span><span class="topo-outside">DL</span><span class="topo-membrane">ASLAIYSFWIFLAGLIYYL</span><span class="topo-inside">QTENMREGYPLENEDGTPAANQGPFPLPKPKTFILPHG</span></span>
-<span class="topo-line"><span class="topo-inside">RGTLTVPGPESEDRPIALARTAVSEGFPHAPTGDPMKDGVGPASWVARRDLPELDGHGHN</span></span>
-<span class="topo-line"><span class="topo-inside">KIKPMKAAAGFHVSAGKNPIGLPVRGCDLEIAGKVVDIWVDIPEQMARFLEVELKDGSTR</span></span>
-<span class="topo-line"><span class="topo-inside">LLPMQMVKVQSNRVHVNALSSDLFAGIPTIKSPTEVTLLEEDKICGYVAGGLMYAAPKRK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">F</span><span class="topo-outside">DL</span><span class="topo-membrane">ASLAIYSFWIFLAGLIYYL</span><span class="topo-inside">QTENMREGYPLENEDGTPAANQGPFPLPKPKTFILPHGRGTLTVPGPESEDRPIALARTAVSEGFPHAPTGDPMKDGVGPASWVARRDLPELDGHGHN</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">KIKPMKAAAGFHVSAGKNPIGLPVRGCDLEIAGKVVDIWVDIPEQMARFLEVELKDGSTRLLPMQMVKVQSNRVHVNALSSDLFAGIPTIKSPTEVTLLEEDKICGYVAGGLMYAAPKRK</span></span>
+<span class="topo-ruler"> </span>
 <span class="topo-line"><span class="topo-inside">S</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -6035,6 +6165,7 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -6050,11 +6181,13 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">ALLSFERKYRVPGGTLVGGNLFDFWVGPFYV</span><span class="topo-membrane">GFFGVATFFFAALGIILIAW</span><span class="topo-outside">SAVLQGTWN</span></span>
-<span class="topo-line"><span class="topo-outside">PQLISVYPPALEYGLGGAPLAKGGLWQI</span><span class="topo-membrane">ITICATGAFVSWALREV</span><span class="topo-inside">EICRKLGIGY</span><span class="topo-membrane">HIPFA</span></span>
-<span class="topo-line"><span class="topo-membrane">FAFAILAYLTLVLF</span><span class="topo-outside">RPVMMGAWGYAFPYGIW</span><span class="topo-unknown">THLDWVSNTGY</span><span class="topo-outside">TYGNFHYNP</span><span class="topo-membrane">AHMIAITFF</span></span>
-<span class="topo-line"><span class="topo-membrane">FTNALALALHGA</span><span class="topo-inside">LVLSAANPEKGKEMRTPDHEDTFFRDLVGYSIGTLGI</span><span class="topo-membrane">HRLGLLLSLSA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">ALLSFERKYRVPGGTLVGGNLFDFWVGPFYV</span><span class="topo-membrane">GFFGVATFFFAALGIILIAW</span><span class="topo-outside">SAVLQGTWNPQLISVYPPALEYGLGGAPLAKGGLWQI</span><span class="topo-membrane">ITICATGAFVSWALREV</span><span class="topo-inside">EICRKLGIGY</span><span class="topo-membrane">HIPFA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">FAFAILAYLTLVLF</span><span class="topo-outside">RPVMMGAWGYAFPYGIW</span><span class="topo-unknown">THLDWVSNTGY</span><span class="topo-outside">TYGNFHYNP</span><span class="topo-membrane">AHMIAITFFFTNALALALHGA</span><span class="topo-inside">LVLSAANPEKGKEMRTPDHEDTFFRDLVGYSIGTLGI</span><span class="topo-membrane">HRLGLLLSLSA</span></span>
+<span class="topo-ruler">       250       260       270       280 </span>
 <span class="topo-line"><span class="topo-membrane">VFFSALCMI</span><span class="topo-outside">ITGTIWFDQWVDWWQWWVKLPWWANIPGGING</span></span>
+<details class="topo-details"><summary>Topology coordinates (13 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -6157,6 +6290,7 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -6172,12 +6306,13 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">AEYQNIFTQVQVRGPADLGMTEDVNLANRSGVGPFSTLLGWFGNAQLGPIYLGS</span><span class="topo-membrane">LGVLSL</span></span>
-<span class="topo-line"><span class="topo-membrane">FSGLMWFFTIGI</span><span class="topo-outside">WFWYQAGWN</span><span class="topo-unknown">PAVFLR</span><span class="topo-outside">DLFFFSLEPPAPEYGLSFAAPLKEGGLWL</span><span class="topo-membrane">IASF</span></span>
-<span class="topo-line"><span class="topo-membrane">FMFVAVWSWWGRTY</span><span class="topo-inside">LRAQALGMGKH</span><span class="topo-membrane">TAWAFLSAIWLWMVLGFIR</span><span class="topo-outside">PILMGSWSEAVPYG</span><span class="topo-unknown">IF</span></span>
-<span class="topo-line"><span class="topo-unknown">SHLDWTNNFSLV</span><span class="topo-outside">HGNLFYN</span><span class="topo-membrane">PFHGLSIAFLYGSALLFAMHGA</span><span class="topo-inside">TILAVSRFGGERELEQIAD</span></span>
-<span class="topo-line"><span class="topo-inside">RGTAAERAALFWRWTMGFNATMEGIHR</span><span class="topo-membrane">WAIWMAVLVTLTGGIGILL</span><span class="topo-outside">SGTVVDN</span><span class="topo-unknown">WYVWGQN</span></span>
-<span class="topo-line"><span class="topo-outside">HG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">AEYQNIFTQVQVRGPADLGMTEDVNLANRSGVGPFSTLLGWFGNAQLGPIYLGS</span><span class="topo-membrane">LGVLSLFSGLMWFFTIGI</span><span class="topo-outside">WFWYQAGWN</span><span class="topo-unknown">PAVFLR</span><span class="topo-outside">DLFFFSLEPPAPEYGLSFAAPLKEGGLWL</span><span class="topo-membrane">IASF</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">FMFVAVWSWWGRTY</span><span class="topo-inside">LRAQALGMGKH</span><span class="topo-membrane">TAWAFLSAIWLWMVLGFIR</span><span class="topo-outside">PILMGSWSEAVPYG</span><span class="topo-unknown">IFSHLDWTNNFSLV</span><span class="topo-outside">HGNLFYN</span><span class="topo-membrane">PFHGLSIAFLYGSALLFAMHGA</span><span class="topo-inside">TILAVSRFGGERELEQIAD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300  </span>
+<span class="topo-line"><span class="topo-inside">RGTAAERAALFWRWTMGFNATMEGIHR</span><span class="topo-membrane">WAIWMAVLVTLTGGIGILL</span><span class="topo-outside">SGTVVDN</span><span class="topo-unknown">WYVWGQN</span><span class="topo-outside">HG</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -6308,6 +6443,7 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -6323,11 +6459,13 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MVGVTAFG</span><span class="topo-outside">N</span><span class="topo-membrane">FDLASLAIYSFWIFLAGLIY</span><span class="topo-inside">YLQTENMREGYPLENEDGTPAANQGPFPLPK</span></span>
-<span class="topo-line"><span class="topo-inside">PKTFILPHGRGTLTVPGPESEDRPIALARTAVSEGFPHAPTGDPMKDGVGPASWVARRDL</span></span>
-<span class="topo-line"><span class="topo-inside">PELDGHGHNKIKPMKAAAGFHVSAGKNPIGLPVRGCDLEIAGKVVDIWVDIPEQMARFLE</span></span>
-<span class="topo-line"><span class="topo-inside">VELKDGSTRLLPMQMVKVQSNRVHVNALSSDLFAGIPTIKSPTEVTLLEEDKICGYVAGG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MVGVTAFG</span><span class="topo-outside">N</span><span class="topo-membrane">FDLASLAIYSFWIFLAGLIY</span><span class="topo-inside">YLQTENMREGYPLENEDGTPAANQGPFPLPKPKTFILPHGRGTLTVPGPESEDRPIALARTAVSEGFPHAPTGDPMKDGVGPASWVARRDL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">PELDGHGHNKIKPMKAAAGFHVSAGKNPIGLPVRGCDLEIAGKVVDIWVDIPEQMARFLEVELKDGSTRLLPMQMVKVQSNRVHVNALSSDLFAGIPTIKSPTEVTLLEEDKICGYVAGG</span></span>
+<span class="topo-ruler">       250</span>
 <span class="topo-line"><span class="topo-inside">LMYAAPKR</span><span class="topo-unknown">KS</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -6360,6 +6498,7 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -6375,11 +6514,13 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">ALLSFERKYRVPGGTLVGGNLFDFWVGPFYVGF</span><span class="topo-membrane">FGVATFFFAALGIILIAW</span><span class="topo-outside">SAVLQGTWN</span></span>
-<span class="topo-line"><span class="topo-outside">PQLISVYPPALEYGLGGAPLAKGGLWQI</span><span class="topo-membrane">ITICATGAFVSWALREV</span><span class="topo-inside">EICRKLGIGYH</span><span class="topo-membrane">IPFA</span></span>
-<span class="topo-line"><span class="topo-membrane">FAFAILAYLTLVLF</span><span class="topo-outside">RPVMMGAWGYAFPYGIWTHLDWVSNTGYTYGNFHYNPA</span><span class="topo-membrane">HMIAITFF</span></span>
-<span class="topo-line"><span class="topo-membrane">FTNALALALH</span><span class="topo-inside">GALVLSAANPEKGKEMRTPDHEDTFFRDLVGYSIGTLGIHR</span><span class="topo-membrane">LGLLLSLSA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">ALLSFERKYRVPGGTLVGGNLFDFWVGPFYVGF</span><span class="topo-membrane">FGVATFFFAALGIILIAW</span><span class="topo-outside">SAVLQGTWNPQLISVYPPALEYGLGGAPLAKGGLWQI</span><span class="topo-membrane">ITICATGAFVSWALREV</span><span class="topo-inside">EICRKLGIGYH</span><span class="topo-membrane">IPFA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">FAFAILAYLTLVLF</span><span class="topo-outside">RPVMMGAWGYAFPYGIWTHLDWVSNTGYTYGNFHYNPA</span><span class="topo-membrane">HMIAITFFFTNALALALH</span><span class="topo-inside">GALVLSAANPEKGKEMRTPDHEDTFFRDLVGYSIGTLGIHR</span><span class="topo-membrane">LGLLLSLSA</span></span>
+<span class="topo-ruler">       250       260       270       280 </span>
 <span class="topo-line"><span class="topo-membrane">VFFSALC</span><span class="topo-outside">MIITGTIWFDQ</span><span class="topo-unknown">WVDWWQWWV</span><span class="topo-outside">KLP</span><span class="topo-unknown">WWANIPGGING</span></span>
+<details class="topo-details"><summary>Topology coordinates (13 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -6482,6 +6623,7 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -6497,12 +6639,13 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">AEYQNIFTQVQVRGPADLGMTEDVNLANRSGVGPFSTLLGWFGNAQLGPIYLGS</span><span class="topo-membrane">LGVLSL</span></span>
-<span class="topo-line"><span class="topo-membrane">FSGLMWFFTIG</span><span class="topo-outside">IWFWYQAGWN</span><span class="topo-unknown">PAVFLRD</span><span class="topo-outside">LFFFSLEPPAPEYGLSFAAPLKEGGLWL</span><span class="topo-membrane">IASF</span></span>
-<span class="topo-line"><span class="topo-membrane">FMFVAVWSWWGRT</span><span class="topo-inside">YLRAQALGMGKHT</span><span class="topo-membrane">AWAFLSAIWLWMVLGFIR</span><span class="topo-outside">PILMGSWSEAVPYG</span><span class="topo-unknown">IF</span></span>
-<span class="topo-line"><span class="topo-unknown">SHLDWTNNFSLV</span><span class="topo-outside">HGNLFYN</span><span class="topo-membrane">PFHGLSIAFLYGSALLFAMHGA</span><span class="topo-inside">TILAVSRFGGERELEQIAD</span></span>
-<span class="topo-line"><span class="topo-inside">RGTAAERAALFWRWTMGFNATMEGIHRW</span><span class="topo-membrane">AIWMAVLVTLTGGIGILL</span><span class="topo-outside">SGTVVDN</span><span class="topo-unknown">WYVWGQN</span></span>
-<span class="topo-line"><span class="topo-outside">HG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">AEYQNIFTQVQVRGPADLGMTEDVNLANRSGVGPFSTLLGWFGNAQLGPIYLGS</span><span class="topo-membrane">LGVLSLFSGLMWFFTIG</span><span class="topo-outside">IWFWYQAGWN</span><span class="topo-unknown">PAVFLRD</span><span class="topo-outside">LFFFSLEPPAPEYGLSFAAPLKEGGLWL</span><span class="topo-membrane">IASF</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">FMFVAVWSWWGRT</span><span class="topo-inside">YLRAQALGMGKHT</span><span class="topo-membrane">AWAFLSAIWLWMVLGFIR</span><span class="topo-outside">PILMGSWSEAVPYG</span><span class="topo-unknown">IFSHLDWTNNFSLV</span><span class="topo-outside">HGNLFYN</span><span class="topo-membrane">PFHGLSIAFLYGSALLFAMHGA</span><span class="topo-inside">TILAVSRFGGERELEQIAD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300  </span>
+<span class="topo-line"><span class="topo-inside">RGTAAERAALFWRWTMGFNATMEGIHRW</span><span class="topo-membrane">AIWMAVLVTLTGGIGILL</span><span class="topo-outside">SGTVVDN</span><span class="topo-unknown">WYVWGQN</span><span class="topo-outside">HG</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -6633,6 +6776,7 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -6648,11 +6792,13 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">FDLASL</span><span class="topo-membrane">AIYSFWIFLAGLIYYL</span><span class="topo-inside">QTENMREGYPLENEDGTPAANQGPFPLPKPKTFILPHG</span></span>
-<span class="topo-line"><span class="topo-inside">RGTLTVPGPESEDRPIALARTAVSEGFPHAPTGDPMKDGVGPASWVARRDLPELDGHGHN</span></span>
-<span class="topo-line"><span class="topo-inside">KIKPMKAAAGFHVSAGKNPIGLPVRGCDLEIAGKVVDIWVDIPEQMARFLEVELKDGSTR</span></span>
-<span class="topo-line"><span class="topo-inside">LLPMQMVKVQSNRVHVNALSSDLFAGIPTIKSPTEVTLLEEDKICGYVAGGLMYAAPKRK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">FDLASL</span><span class="topo-membrane">AIYSFWIFLAGLIYYL</span><span class="topo-inside">QTENMREGYPLENEDGTPAANQGPFPLPKPKTFILPHGRGTLTVPGPESEDRPIALARTAVSEGFPHAPTGDPMKDGVGPASWVARRDLPELDGHGHN</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">KIKPMKAAAGFHVSAGKNPIGLPVRGCDLEIAGKVVDIWVDIPEQMARFLEVELKDGSTRLLPMQMVKVQSNRVHVNALSSDLFAGIPTIKSPTEVTLLEEDKICGYVAGGLMYAAPKRK</span></span>
+<span class="topo-ruler"> </span>
 <span class="topo-line"><span class="topo-inside">S</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -6685,6 +6831,7 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -6700,11 +6847,13 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">ALLSFERKYRVPGGTLVGGNLFDFWVGPFYVGF</span><span class="topo-membrane">FGVATFFFAALGIILIA</span><span class="topo-outside">WSAVLQGTWN</span></span>
-<span class="topo-line"><span class="topo-outside">PQLISVYPPALEYGLGGAPLAKGGLWQ</span><span class="topo-membrane">IITICATGAFVSWALR</span><span class="topo-inside">EVEICRKLGIGYH</span><span class="topo-membrane">IPFA</span></span>
-<span class="topo-line"><span class="topo-membrane">FAFAILAYLT</span><span class="topo-outside">LVLFRPVMMGAWGYAFPYGIWTHLDWVSNTGYTYGNFHYNPAH</span><span class="topo-membrane">MIAITFF</span></span>
-<span class="topo-line"><span class="topo-membrane">FTNALALALHGA</span><span class="topo-inside">LVLSAANPEKGKEMRTPDHEDTFFRDLVGYSIGTLGIHR</span><span class="topo-membrane">LGLLLSLSA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">ALLSFERKYRVPGGTLVGGNLFDFWVGPFYVGF</span><span class="topo-membrane">FGVATFFFAALGIILIA</span><span class="topo-outside">WSAVLQGTWNPQLISVYPPALEYGLGGAPLAKGGLWQ</span><span class="topo-membrane">IITICATGAFVSWALR</span><span class="topo-inside">EVEICRKLGIGYH</span><span class="topo-membrane">IPFA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">FAFAILAYLT</span><span class="topo-outside">LVLFRPVMMGAWGYAFPYGIWTHLDWVSNTGYTYGNFHYNPAH</span><span class="topo-membrane">MIAITFFFTNALALALHGA</span><span class="topo-inside">LVLSAANPEKGKEMRTPDHEDTFFRDLVGYSIGTLGIHR</span><span class="topo-membrane">LGLLLSLSA</span></span>
+<span class="topo-ruler">       250       260       270       280 </span>
 <span class="topo-line"><span class="topo-membrane">VFFSAL</span><span class="topo-outside">CMIITGTIWFDQWVDWWQWWVKLPWWANIPGGING</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -6793,6 +6942,7 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -6808,12 +6958,13 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">AEYQNIFTQVQVRGPADLGMTEDVNLANRSGVGPFSTLLGWFGNAQLGPIY</span><span class="topo-membrane">LGSLGVLSL</span></span>
-<span class="topo-line"><span class="topo-membrane">FSGLMWFF</span><span class="topo-outside">TIGIWFWYQAGWNPAVFLRDLFFFSLEPPAPEYGLSFAAPLKEGGLWLIAS</span><span class="topo-membrane">F</span></span>
-<span class="topo-line"><span class="topo-membrane">FMFVAVWSWWGRTY</span><span class="topo-inside">LRAQALGMGK</span><span class="topo-membrane">HTAWAFLSAIWLWM</span><span class="topo-outside">VLGFIRPILMGSWSEAVPYGIF</span></span>
-<span class="topo-line"><span class="topo-outside">SHLDWTNNFSLVHGNLFYNPFH</span><span class="topo-membrane">GLSIAFLYGSALLFAM</span><span class="topo-inside">HGATILAVSRFGGERELEQIAD</span></span>
-<span class="topo-line"><span class="topo-inside">RGTAAERAALFWRWTMGFNATMEGIH</span><span class="topo-membrane">RWAIWMAVLVTLTGGI</span><span class="topo-outside">GILLSGTVVDNWYVWGQN</span></span>
-<span class="topo-line"><span class="topo-outside">H</span><span class="topo-unknown">G</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">AEYQNIFTQVQVRGPADLGMTEDVNLANRSGVGPFSTLLGWFGNAQLGPIY</span><span class="topo-membrane">LGSLGVLSLFSGLMWFF</span><span class="topo-outside">TIGIWFWYQAGWNPAVFLRDLFFFSLEPPAPEYGLSFAAPLKEGGLWLIAS</span><span class="topo-membrane">F</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">FMFVAVWSWWGRTY</span><span class="topo-inside">LRAQALGMGK</span><span class="topo-membrane">HTAWAFLSAIWLWM</span><span class="topo-outside">VLGFIRPILMGSWSEAVPYGIFSHLDWTNNFSLVHGNLFYNPFH</span><span class="topo-membrane">GLSIAFLYGSALLFAM</span><span class="topo-inside">HGATILAVSRFGGERELEQIAD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300  </span>
+<span class="topo-line"><span class="topo-inside">RGTAAERAALFWRWTMGFNATMEGIH</span><span class="topo-membrane">RWAIWMAVLVTLTGGI</span><span class="topo-outside">GILLSGTVVDNWYVWGQNH</span><span class="topo-unknown">G</span></span>
+<details class="topo-details"><summary>Topology coordinates (12 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -6909,6 +7060,7 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -6961,11 +7113,13 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">NFDLAS</span><span class="topo-membrane">LAIYSFWIFLAGLIYYLQ</span><span class="topo-inside">TENMREGYPLENEDGTPAANQGPFPLPKPKTFILPH</span></span>
-<span class="topo-line"><span class="topo-inside">GRGTLTVPGPESEDRPIALARTAVSEGFPHAPTGDPMKDGVGPASWVARRDLPELDGHGH</span></span>
-<span class="topo-line"><span class="topo-inside">NKIKPMKAAAGFHVSAGKNPIGLPVRGCDLEIAGKVVDIWVDIPEQMARFLEVELKDGST</span></span>
-<span class="topo-line"><span class="topo-inside">RLLPMQMVKVQSNRVHVNALSSDLFAGIPTIKSPTEVTLLEEDKICGYVAGGLMYAAPKR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">NFDLAS</span><span class="topo-membrane">LAIYSFWIFLAGLIYYLQ</span><span class="topo-inside">TENMREGYPLENEDGTPAANQGPFPLPKPKTFILPHGRGTLTVPGPESEDRPIALARTAVSEGFPHAPTGDPMKDGVGPASWVARRDLPELDGHGH</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">NKIKPMKAAAGFHVSAGKNPIGLPVRGCDLEIAGKVVDIWVDIPEQMARFLEVELKDGSTRLLPMQMVKVQSNRVHVNALSSDLFAGIPTIKSPTEVTLLEEDKICGYVAGGLMYAAPKR</span></span>
+<span class="topo-ruler"> </span>
 <span class="topo-line"><span class="topo-inside">K</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -6998,6 +7152,7 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -7013,11 +7168,13 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">ALLSFERKYRVPGGTLVGGNLFDFWVGPFYVGFF</span><span class="topo-membrane">GVATFFFAALGIILIAW</span><span class="topo-outside">SAVLQGTWN</span></span>
-<span class="topo-line"><span class="topo-outside">PQLISVYPPALEYGLGGAPLAKGGL</span><span class="topo-membrane">WQIITICATGAFVSWALR</span><span class="topo-inside">EVEICRKLGIGYHI</span><span class="topo-membrane">PFA</span></span>
-<span class="topo-line"><span class="topo-membrane">FAFAILAYLTLVLFR</span><span class="topo-outside">PVMMGAWGYAFPYGIWTHLDWVSNTGYTYGNFHYNP</span><span class="topo-membrane">AHMIAITFF</span></span>
-<span class="topo-line"><span class="topo-membrane">FTNALALALHGA</span><span class="topo-inside">LVLSAANPEKGKEMRTPDHEDTFFRDLVGYSIGTLGIHRL</span><span class="topo-membrane">GLLLSLSA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">ALLSFERKYRVPGGTLVGGNLFDFWVGPFYVGFF</span><span class="topo-membrane">GVATFFFAALGIILIAW</span><span class="topo-outside">SAVLQGTWNPQLISVYPPALEYGLGGAPLAKGGL</span><span class="topo-membrane">WQIITICATGAFVSWALR</span><span class="topo-inside">EVEICRKLGIGYHI</span><span class="topo-membrane">PFA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">FAFAILAYLTLVLFR</span><span class="topo-outside">PVMMGAWGYAFPYGIWTHLDWVSNTGYTYGNFHYNP</span><span class="topo-membrane">AHMIAITFFFTNALALALHGA</span><span class="topo-inside">LVLSAANPEKGKEMRTPDHEDTFFRDLVGYSIGTLGIHRL</span><span class="topo-membrane">GLLLSLSA</span></span>
+<span class="topo-ruler">       250       260       270       280 </span>
 <span class="topo-line"><span class="topo-membrane">VFFSALCMII</span><span class="topo-outside">TGTIWFDQWVDWWQWWVKLPWWANIPGGING</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -7106,6 +7263,7 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -7121,12 +7279,13 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">AEYQNIFTQVQVRGPADLGMTEDVNLANRSGVGPFSTLLGWFGNAQLGPIYL</span><span class="topo-membrane">GSLGVLSL</span></span>
-<span class="topo-line"><span class="topo-membrane">FSGLMWFFTIG</span><span class="topo-outside">IWFWYQAGWNPAVFLRDLFFFSLEPPAPEYGLSFAAPLKEGGLWLI</span><span class="topo-membrane">ASF</span></span>
-<span class="topo-line"><span class="topo-membrane">FMFVAVWSWWGRTYL</span><span class="topo-inside">RAQALGMGK</span><span class="topo-membrane">HTAWAFLSAIWLWMVLGFI</span><span class="topo-outside">RPILMGSWSEAVPYGIF</span></span>
-<span class="topo-line"><span class="topo-outside">SHLDWTNNFSLVHGNLHYNP</span><span class="topo-membrane">FHGLSIAFLYGSALLFAMHG</span><span class="topo-inside">ATILAVSRFGGERELEQIAD</span></span>
-<span class="topo-line"><span class="topo-inside">RGTAAERAALFWRWTMGFNATMEGIHR</span><span class="topo-membrane">WAIWMAVLVTLTGGIGIL</span><span class="topo-outside">LSGTVVDNWYVWGQN</span></span>
-<span class="topo-line"><span class="topo-outside">HGM</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">AEYQNIFTQVQVRGPADLGMTEDVNLANRSGVGPFSTLLGWFGNAQLGPIYL</span><span class="topo-membrane">GSLGVLSLFSGLMWFFTIG</span><span class="topo-outside">IWFWYQAGWNPAVFLRDLFFFSLEPPAPEYGLSFAAPLKEGGLWLI</span><span class="topo-membrane">ASF</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">FMFVAVWSWWGRTYL</span><span class="topo-inside">RAQALGMGK</span><span class="topo-membrane">HTAWAFLSAIWLWMVLGFI</span><span class="topo-outside">RPILMGSWSEAVPYGIFSHLDWTNNFSLVHGNLHYNP</span><span class="topo-membrane">FHGLSIAFLYGSALLFAMHG</span><span class="topo-inside">ATILAVSRFGGERELEQIAD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300   </span>
+<span class="topo-line"><span class="topo-inside">RGTAAERAALFWRWTMGFNATMEGIHR</span><span class="topo-membrane">WAIWMAVLVTLTGGIGIL</span><span class="topo-outside">LSGTVVDNWYVWGQNHGM</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -7215,6 +7374,7 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -7230,11 +7390,13 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">N</span><span class="topo-outside">FDLAS</span><span class="topo-membrane">LAIYSFWIFLAGLIYYLQ</span><span class="topo-inside">TENMREGYPLENEDGTPAANQGPFPLPKPKTFILPH</span></span>
-<span class="topo-line"><span class="topo-inside">GRGTLTVPGPESEDRPIALARTAVSEGFPHAPTGDPMKDGVGPASWVARRDLPELDGHGH</span></span>
-<span class="topo-line"><span class="topo-inside">NKIKPMKAAAGFHVSAGKNPIGLPVRGCDLEIAGKVVDIWVDIPEQMARFLEVELKDGST</span></span>
-<span class="topo-line"><span class="topo-inside">RLLPMQMVKVQSNRVHVNALSSDLFAGIPTIKSPTEVTLLEEDKICGYVAGGLMYAAPKR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">N</span><span class="topo-outside">FDLAS</span><span class="topo-membrane">LAIYSFWIFLAGLIYYLQ</span><span class="topo-inside">TENMREGYPLENEDGTPAANQGPFPLPKPKTFILPHGRGTLTVPGPESEDRPIALARTAVSEGFPHAPTGDPMKDGVGPASWVARRDLPELDGHGH</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">NKIKPMKAAAGFHVSAGKNPIGLPVRGCDLEIAGKVVDIWVDIPEQMARFLEVELKDGSTRLLPMQMVKVQSNRVHVNALSSDLFAGIPTIKSPTEVTLLEEDKICGYVAGGLMYAAPKR</span></span>
+<span class="topo-ruler">  </span>
 <span class="topo-line"><span class="topo-unknown">KS</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -7281,6 +7443,7 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -7296,11 +7459,13 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">ALLSFERKYRVPGGTLVGGNLFDFWVGPFYVGFF</span><span class="topo-membrane">GVATFFFAALGIILIAW</span><span class="topo-outside">SAVLQGTWN</span></span>
-<span class="topo-line"><span class="topo-outside">PQLISVYPPALEYGLGGAPLAKGGL</span><span class="topo-membrane">WQIITICATGAFVSWALR</span><span class="topo-inside">EVEICRKLGIGYHI</span><span class="topo-membrane">PFA</span></span>
-<span class="topo-line"><span class="topo-membrane">FAFAILAYLTLVLFR</span><span class="topo-outside">PVMMGAWGYAFPYGIWTHLDWVSNTGYTYGNFHYNP</span><span class="topo-membrane">AHMIAITFF</span></span>
-<span class="topo-line"><span class="topo-membrane">FTNALALALHGA</span><span class="topo-inside">LVLSAANPEKGKEMRTPDHEDTFFRDLVGYSIGTLGIHRL</span><span class="topo-membrane">GLLLSLSA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">ALLSFERKYRVPGGTLVGGNLFDFWVGPFYVGFF</span><span class="topo-membrane">GVATFFFAALGIILIAW</span><span class="topo-outside">SAVLQGTWNPQLISVYPPALEYGLGGAPLAKGGL</span><span class="topo-membrane">WQIITICATGAFVSWALR</span><span class="topo-inside">EVEICRKLGIGYHI</span><span class="topo-membrane">PFA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">FAFAILAYLTLVLFR</span><span class="topo-outside">PVMMGAWGYAFPYGIWTHLDWVSNTGYTYGNFHYNP</span><span class="topo-membrane">AHMIAITFFFTNALALALHGA</span><span class="topo-inside">LVLSAANPEKGKEMRTPDHEDTFFRDLVGYSIGTLGIHRL</span><span class="topo-membrane">GLLLSLSA</span></span>
+<span class="topo-ruler">       250       260       270       280 </span>
 <span class="topo-line"><span class="topo-membrane">VFFSALCMII</span><span class="topo-outside">TGTIWFDQWVDWWQWWVKLPWWANIPGGING</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -7389,6 +7554,7 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -7404,12 +7570,13 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">AEYQNIFTQVQVRGPADLGMTEDVNLANRSGVGPFSTLLGWFGNAQLGPIYL</span><span class="topo-membrane">GSLGVLSL</span></span>
-<span class="topo-line"><span class="topo-membrane">FSGLMWFFTIG</span><span class="topo-outside">IWFWYQAGWNPAVFLRDLFFFSLEPPAPEYGLSFAAPLKEGGLWLI</span><span class="topo-membrane">ASF</span></span>
-<span class="topo-line"><span class="topo-membrane">FMFVAVWSWWGRTYL</span><span class="topo-inside">RAQALGMGK</span><span class="topo-membrane">HTAWAFLSAIWLWMVLGFI</span><span class="topo-outside">RPILMGSWSEAVPYGIF</span></span>
-<span class="topo-line"><span class="topo-outside">SHLDWTNNFSLVHGNLHYNP</span><span class="topo-membrane">FHGLSIAFLYGSALLFAMHG</span><span class="topo-inside">ATILAVSRFGGERELEQIAD</span></span>
-<span class="topo-line"><span class="topo-inside">RGTAAERAALFWRWTMGFNATMEGIHR</span><span class="topo-membrane">WAIWMAVLVTLTGGIGIL</span><span class="topo-outside">LSGTVVDNWYVWGQN</span></span>
-<span class="topo-line"><span class="topo-outside">HG</span><span class="topo-unknown">M</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">AEYQNIFTQVQVRGPADLGMTEDVNLANRSGVGPFSTLLGWFGNAQLGPIYL</span><span class="topo-membrane">GSLGVLSLFSGLMWFFTIG</span><span class="topo-outside">IWFWYQAGWNPAVFLRDLFFFSLEPPAPEYGLSFAAPLKEGGLWLI</span><span class="topo-membrane">ASF</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">FMFVAVWSWWGRTYL</span><span class="topo-inside">RAQALGMGK</span><span class="topo-membrane">HTAWAFLSAIWLWMVLGFI</span><span class="topo-outside">RPILMGSWSEAVPYGIFSHLDWTNNFSLVHGNLHYNP</span><span class="topo-membrane">FHGLSIAFLYGSALLFAMHG</span><span class="topo-inside">ATILAVSRFGGERELEQIAD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300   </span>
+<span class="topo-line"><span class="topo-inside">RGTAAERAALFWRWTMGFNATMEGIHR</span><span class="topo-membrane">WAIWMAVLVTLTGGIGIL</span><span class="topo-outside">LSGTVVDNWYVWGQNHG</span><span class="topo-unknown">M</span></span>
+<details class="topo-details"><summary>Topology coordinates (12 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -7505,6 +7672,7 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -7580,11 +7748,13 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">NFD</span><span class="topo-membrane">LASLAIYSFWIFLAGLIY</span><span class="topo-inside">YLQTENMREGYPLENEDGTPAANQGPFPLPKPKTFILPH</span></span>
-<span class="topo-line"><span class="topo-inside">GRGTLTVPGPESEDRPIALARTAVSEGFPHAPTGDPMKDGVGPASWVARRDLPELDGHGH</span></span>
-<span class="topo-line"><span class="topo-inside">NKIKPMKAAAGFHVSAGKNPIGLPVRGCDLEIAGKVVDIWVDIPEQMARFLEVELKDGST</span></span>
-<span class="topo-line"><span class="topo-inside">RLLPMQMVKVQSNRVHVNALSSDLFAGIPTIKSPTEVTLLEEDKICGYVAGGLMYAAPKR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">NFD</span><span class="topo-membrane">LASLAIYSFWIFLAGLIY</span><span class="topo-inside">YLQTENMREGYPLENEDGTPAANQGPFPLPKPKTFILPHGRGTLTVPGPESEDRPIALARTAVSEGFPHAPTGDPMKDGVGPASWVARRDLPELDGHGH</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">NKIKPMKAAAGFHVSAGKNPIGLPVRGCDLEIAGKVVDIWVDIPEQMARFLEVELKDGSTRLLPMQMVKVQSNRVHVNALSSDLFAGIPTIKSPTEVTLLEEDKICGYVAGGLMYAAPKR</span></span>
+<span class="topo-ruler">  </span>
 <span class="topo-line"><span class="topo-inside">KS</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -7617,6 +7787,7 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -7632,11 +7803,13 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">ALLSFERKYRVPGGTLVGGNLFDFWVGPFYV</span><span class="topo-membrane">GFFGVCTFFFAALGIILIAW</span><span class="topo-outside">SAVLQGTWN</span></span>
-<span class="topo-line"><span class="topo-outside">PQLISVYPPALEYGLGGAPLAKGGLWQI</span><span class="topo-membrane">ITICATGAFVCWALREV</span><span class="topo-inside">EICRKLGIGY</span><span class="topo-membrane">HIPFA</span></span>
-<span class="topo-line"><span class="topo-membrane">FAFAILAYLTLVLF</span><span class="topo-outside">RPVMMGAWGYAFPYGIWTHLDWVSNTGYTYGNFHYNPA</span><span class="topo-membrane">HMIAITFF</span></span>
-<span class="topo-line"><span class="topo-membrane">FTNALALALH</span><span class="topo-inside">GALVLSAANPEKGKEMRTPDHEDTFFRDLVGYSIGTLGIHR</span><span class="topo-membrane">LGLLLSLSA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">ALLSFERKYRVPGGTLVGGNLFDFWVGPFYV</span><span class="topo-membrane">GFFGVCTFFFAALGIILIAW</span><span class="topo-outside">SAVLQGTWNPQLISVYPPALEYGLGGAPLAKGGLWQI</span><span class="topo-membrane">ITICATGAFVCWALREV</span><span class="topo-inside">EICRKLGIGY</span><span class="topo-membrane">HIPFA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">FAFAILAYLTLVLF</span><span class="topo-outside">RPVMMGAWGYAFPYGIWTHLDWVSNTGYTYGNFHYNPA</span><span class="topo-membrane">HMIAITFFFTNALALALH</span><span class="topo-inside">GALVLSAANPEKGKEMRTPDHEDTFFRDLVGYSIGTLGIHR</span><span class="topo-membrane">LGLLLSLSA</span></span>
+<span class="topo-ruler">       250       260       270       280 </span>
 <span class="topo-line"><span class="topo-membrane">VFFSALC</span><span class="topo-outside">MIITGTIWFDQWVDWWQWWVKLPWWANIPGGING</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -7725,6 +7898,7 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -7740,12 +7914,13 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">AEYQNIFTQVQVRGPADLGMTEDVNLANRSGVGPFSTLLGWFGNAQLGPIYLGS</span><span class="topo-membrane">LGVLSL</span></span>
-<span class="topo-line"><span class="topo-membrane">FSGLMWFFTIGI</span><span class="topo-outside">WFWYQAGWNPAVFLRDLFFFSLEPPAPEYGLSFAAPLKEGGLWL</span><span class="topo-membrane">IASF</span></span>
-<span class="topo-line"><span class="topo-membrane">FMFVAVWSWWGRT</span><span class="topo-inside">YLRAQALGMGKHT</span><span class="topo-membrane">AWAFLSAIWLWMVLGFIR</span><span class="topo-outside">PILMGSWSEAVPYGIF</span></span>
-<span class="topo-line"><span class="topo-outside">SHLDWTNNFSLVHGNLFYN</span><span class="topo-membrane">PFHGLSIAFLYGSALLFAMHGA</span><span class="topo-inside">TILAVSRFGGERELEQIAD</span></span>
-<span class="topo-line"><span class="topo-inside">RGTAAERAALFWRWTMGFNATMEGIHRW</span><span class="topo-membrane">AIWMAVLVTLTGGIGILL</span><span class="topo-outside">SGTVVDNWYVWGQN</span></span>
-<span class="topo-line"><span class="topo-outside">HG</span><span class="topo-unknown">M</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">AEYQNIFTQVQVRGPADLGMTEDVNLANRSGVGPFSTLLGWFGNAQLGPIYLGS</span><span class="topo-membrane">LGVLSLFSGLMWFFTIGI</span><span class="topo-outside">WFWYQAGWNPAVFLRDLFFFSLEPPAPEYGLSFAAPLKEGGLWL</span><span class="topo-membrane">IASF</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">FMFVAVWSWWGRT</span><span class="topo-inside">YLRAQALGMGKHT</span><span class="topo-membrane">AWAFLSAIWLWMVLGFIR</span><span class="topo-outside">PILMGSWSEAVPYGIFSHLDWTNNFSLVHGNLFYN</span><span class="topo-membrane">PFHGLSIAFLYGSALLFAMHGA</span><span class="topo-inside">TILAVSRFGGERELEQIAD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300   </span>
+<span class="topo-line"><span class="topo-inside">RGTAAERAALFWRWTMGFNATMEGIHRW</span><span class="topo-membrane">AIWMAVLVTLTGGIGILL</span><span class="topo-outside">SGTVVDNWYVWGQNHG</span><span class="topo-unknown">M</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -7834,6 +8009,7 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -7945,11 +8121,13 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">ALLSFERKYRVPGGTLVGGNLFDFWVGPFYV</span><span class="topo-membrane">GFFGVATFFFAALGIILIA</span><span class="topo-inside">WSAVLQGTWN</span></span>
-<span class="topo-line"><span class="topo-inside">PQLISVYPPALEYGLGGAPLAKGGLWQI</span><span class="topo-membrane">ITICATGAFVSWALREV</span><span class="topo-outside">EICRKLGIGY</span><span class="topo-membrane">HIPFA</span></span>
-<span class="topo-line"><span class="topo-membrane">FAFAILAYLTLVLF</span><span class="topo-inside">RPVMMGAWGYAFPYGIWTHLDWVSNTGYTYGNFHYNP</span><span class="topo-membrane">AHMIAHTFF</span></span>
-<span class="topo-line"><span class="topo-membrane">FTNALALAL</span><span class="topo-outside">HGALVLSAANPEKGKEMRTPDHEDTFFRDLVGYSIGTLGIHR</span><span class="topo-membrane">LGLLLSLSA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">ALLSFERKYRVPGGTLVGGNLFDFWVGPFYV</span><span class="topo-membrane">GFFGVATFFFAALGIILIA</span><span class="topo-inside">WSAVLQGTWNPQLISVYPPALEYGLGGAPLAKGGLWQI</span><span class="topo-membrane">ITICATGAFVSWALREV</span><span class="topo-outside">EICRKLGIGY</span><span class="topo-membrane">HIPFA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">FAFAILAYLTLVLF</span><span class="topo-inside">RPVMMGAWGYAFPYGIWTHLDWVSNTGYTYGNFHYNP</span><span class="topo-membrane">AHMIAHTFFFTNALALAL</span><span class="topo-outside">HGALVLSAANPEKGKEMRTPDHEDTFFRDLVGYSIGTLGIHR</span><span class="topo-membrane">LGLLLSLSA</span></span>
+<span class="topo-ruler">       250       260       270       280 </span>
 <span class="topo-line"><span class="topo-membrane">VFFSALCMI</span><span class="topo-inside">ITGTIWFDQWVDWWQWWVKLPWWANIPGGING</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -8038,6 +8216,7 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -8053,12 +8232,13 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">AEYQNIFTQVQVRGPADLGMTEDVNLANRSGVGPFSTLLGWFGNAQLGPIYLGSL</span><span class="topo-membrane">GVLSL</span></span>
-<span class="topo-line"><span class="topo-membrane">FSGLMWFFTIGI</span><span class="topo-inside">WFWYQAGWNPAVFLRDLFFFSLEPPAPEYGLSFAAPLKEGGL</span><span class="topo-membrane">WLIASF</span></span>
-<span class="topo-line"><span class="topo-membrane">FMFVAVWSWWGR</span><span class="topo-outside">TYLRAQALGMGKHT</span><span class="topo-membrane">AWAFLSAIWLWMVLGFIRPIL</span><span class="topo-inside">MGSWSEAVPYGIF</span></span>
-<span class="topo-line"><span class="topo-inside">SHLDWTNNFSLVHGNLHYN</span><span class="topo-membrane">PFHGLSIAFLYGSALLFAMHGA</span><span class="topo-outside">TILAVSRFGGERELEQIAD</span></span>
-<span class="topo-line"><span class="topo-outside">RGTAAERAALFWRWTMGFNATMEGIHRW</span><span class="topo-membrane">AIWMAVLVTLTGGIGILL</span><span class="topo-inside">SGTVVDNWYVWGQN</span></span>
-<span class="topo-line"><span class="topo-inside">HG</span><span class="topo-unknown">M</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">AEYQNIFTQVQVRGPADLGMTEDVNLANRSGVGPFSTLLGWFGNAQLGPIYLGSL</span><span class="topo-membrane">GVLSLFSGLMWFFTIGI</span><span class="topo-inside">WFWYQAGWNPAVFLRDLFFFSLEPPAPEYGLSFAAPLKEGGL</span><span class="topo-membrane">WLIASF</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">FMFVAVWSWWGR</span><span class="topo-outside">TYLRAQALGMGKHT</span><span class="topo-membrane">AWAFLSAIWLWMVLGFIRPIL</span><span class="topo-inside">MGSWSEAVPYGIFSHLDWTNNFSLVHGNLHYN</span><span class="topo-membrane">PFHGLSIAFLYGSALLFAMHGA</span><span class="topo-outside">TILAVSRFGGERELEQIAD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300   </span>
+<span class="topo-line"><span class="topo-outside">RGTAAERAALFWRWTMGFNATMEGIHRW</span><span class="topo-membrane">AIWMAVLVTLTGGIGILL</span><span class="topo-inside">SGTVVDNWYVWGQNHG</span><span class="topo-unknown">M</span></span>
+<details class="topo-details"><summary>Topology coordinates (12 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -8154,6 +8334,7 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -8169,11 +8350,13 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">NF</span><span class="topo-inside">D</span><span class="topo-membrane">LASLAIYSFWIFLAGLIY</span><span class="topo-outside">YLQTENMREGYPLENEDGTPAANQGPFPLPKPKTFILPH</span></span>
-<span class="topo-line"><span class="topo-outside">GRGTLTVPGPESEDRPIALARTAVSEGFPHAPTGDPMKDGVGPASWVARRDLPELDGHGH</span></span>
-<span class="topo-line"><span class="topo-outside">NKIKPMKAAAGFHVSAGKNPIGLPVRGCDLEIAGKVVDIWVDIPEQMARFLEVELKDGST</span></span>
-<span class="topo-line"><span class="topo-outside">RLLPMQMVKVQSNRVHVNALSSDLFAGIPTIKSPTEVTLLEEDKICGYVAGGLMYAAPKR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">NF</span><span class="topo-inside">D</span><span class="topo-membrane">LASLAIYSFWIFLAGLIY</span><span class="topo-outside">YLQTENMREGYPLENEDGTPAANQGPFPLPKPKTFILPHGRGTLTVPGPESEDRPIALARTAVSEGFPHAPTGDPMKDGVGPASWVARRDLPELDGHGH</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">NKIKPMKAAAGFHVSAGKNPIGLPVRGCDLEIAGKVVDIWVDIPEQMARFLEVELKDGSTRLLPMQMVKVQSNRVHVNALSSDLFAGIPTIKSPTEVTLLEEDKICGYVAGGLMYAAPKR</span></span>
+<span class="topo-ruler"> </span>
 <span class="topo-line"><span class="topo-outside">K</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -8213,6 +8396,7 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -8258,11 +8442,13 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">ALLSFERKYRVPGGTLVGGNLFDFWVGPFYVGF</span><span class="topo-membrane">FGVATFFFAALGIILIA</span><span class="topo-outside">WSAVLQGTWN</span></span>
-<span class="topo-line"><span class="topo-outside">PQLISVYPPALEYGLGGAPLAKGGLWQ</span><span class="topo-membrane">IITICATGAFVSWALRE</span><span class="topo-inside">VEICRKLGIGYHI</span><span class="topo-membrane">PFA</span></span>
-<span class="topo-line"><span class="topo-membrane">FAFAILAYLTLVLFR</span><span class="topo-outside">PVMMGAWGYAFPYGIWTHL</span><span class="topo-unknown">DWVSNTGYT</span><span class="topo-outside">YGNFHYNP</span><span class="topo-membrane">AHMIAISFF</span></span>
-<span class="topo-line"><span class="topo-membrane">FTNALALALHGA</span><span class="topo-inside">LVLSAANPEKGKEMRTPDHEDTFFRDLVGYSIGTLGIHR</span><span class="topo-membrane">LGLLLSLSA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">ALLSFERKYRVPGGTLVGGNLFDFWVGPFYVGF</span><span class="topo-membrane">FGVATFFFAALGIILIA</span><span class="topo-outside">WSAVLQGTWNPQLISVYPPALEYGLGGAPLAKGGLWQ</span><span class="topo-membrane">IITICATGAFVSWALRE</span><span class="topo-inside">VEICRKLGIGYHI</span><span class="topo-membrane">PFA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">FAFAILAYLTLVLFR</span><span class="topo-outside">PVMMGAWGYAFPYGIWTHL</span><span class="topo-unknown">DWVSNTGYT</span><span class="topo-outside">YGNFHYNP</span><span class="topo-membrane">AHMIAISFFFTNALALALHGA</span><span class="topo-inside">LVLSAANPEKGKEMRTPDHEDTFFRDLVGYSIGTLGIHR</span><span class="topo-membrane">LGLLLSLSA</span></span>
+<span class="topo-ruler">       250       260       270       280 </span>
 <span class="topo-line"><span class="topo-membrane">VFFSALCMI</span><span class="topo-outside">ITGTIWFDQWVDWWQWWVKLPWWANIPGG</span><span class="topo-unknown">ING</span></span>
+<details class="topo-details"><summary>Topology coordinates (14 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -8372,6 +8558,7 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -8387,12 +8574,13 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">AEYQNIFSQVQVRGPADLGMTEDVNLANRSGVGPFSTLLGWFGNAQLGPIYL</span><span class="topo-membrane">GSLGVLSL</span></span>
-<span class="topo-line"><span class="topo-membrane">FSGLMWFFT</span><span class="topo-outside">IGIWFWYQAGWN</span><span class="topo-unknown">PAVFLR</span><span class="topo-outside">DLFFFSLEPPAPEYGLSFAAPLKEGGLWLIA</span><span class="topo-membrane">SF</span></span>
-<span class="topo-line"><span class="topo-membrane">FMFVAVWSWWGRTYL</span><span class="topo-inside">RAQALGMGK</span><span class="topo-membrane">HTAWAFLSAIWLWMV</span><span class="topo-outside">LGFIRPILMGSWSEAVPYGIF</span></span>
-<span class="topo-line"><span class="topo-unknown">SHLDWTNNFSLV</span><span class="topo-outside">HGNLFYNP</span><span class="topo-membrane">FHGLSIAFLYGSALLFAMHG</span><span class="topo-inside">ATILAVSRFGGERELEQIAD</span></span>
-<span class="topo-line"><span class="topo-inside">RGTAAERAALFWRWTMGFNATMEGI</span><span class="topo-membrane">HRWAIWMAVLVTLTGGIG</span><span class="topo-outside">ILLSGTVVDNWYVWGQN</span></span>
-<span class="topo-line"><span class="topo-outside">HGMAP</span><span class="topo-unknown">LN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">AEYQNIFSQVQVRGPADLGMTEDVNLANRSGVGPFSTLLGWFGNAQLGPIYL</span><span class="topo-membrane">GSLGVLSLFSGLMWFFT</span><span class="topo-outside">IGIWFWYQAGWN</span><span class="topo-unknown">PAVFLR</span><span class="topo-outside">DLFFFSLEPPAPEYGLSFAAPLKEGGLWLIA</span><span class="topo-membrane">SF</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">FMFVAVWSWWGRTYL</span><span class="topo-inside">RAQALGMGK</span><span class="topo-membrane">HTAWAFLSAIWLWMV</span><span class="topo-outside">LGFIRPILMGSWSEAVPYGIF</span><span class="topo-unknown">SHLDWTNNFSLV</span><span class="topo-outside">HGNLFYNP</span><span class="topo-membrane">FHGLSIAFLYGSALLFAMHG</span><span class="topo-inside">ATILAVSRFGGERELEQIAD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       </span>
+<span class="topo-line"><span class="topo-inside">RGTAAERAALFWRWTMGFNATMEGI</span><span class="topo-membrane">HRWAIWMAVLVTLTGGIG</span><span class="topo-outside">ILLSGTVVDNWYVWGQNHGMAP</span><span class="topo-unknown">LN</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -8516,6 +8704,7 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -8531,11 +8720,13 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MVGVTAFGNFDLASL</span><span class="topo-membrane">AIYSFWIFLAGLIYYLQT</span><span class="topo-inside">ENMREGYPLENEDGTPAANQGPFPLPK</span></span>
-<span class="topo-line"><span class="topo-inside">PKTFILPHGRGTLTVPGPESEDRPIALARTAVSEGFPHAPTGDPMKDGVGPASWVARRDL</span></span>
-<span class="topo-line"><span class="topo-inside">PELDGHGHNKIKPMKAAAGFHVSAGKNPIGLPVRGCDLEIAGKVVDIWVDIPEQMARFLE</span></span>
-<span class="topo-line"><span class="topo-inside">VELKDGSTRLLPMQMVKVQSNRVHVNALSSDLFAGIPTIKSPTEVTLLEEDKICGYVAGG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MVGVTAFGNFDLASL</span><span class="topo-membrane">AIYSFWIFLAGLIYYLQT</span><span class="topo-inside">ENMREGYPLENEDGTPAANQGPFPLPKPKTFILPHGRGTLTVPGPESEDRPIALARTAVSEGFPHAPTGDPMKDGVGPASWVARRDL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">PELDGHGHNKIKPMKAAAGFHVSAGKNPIGLPVRGCDLEIAGKVVDIWVDIPEQMARFLEVELKDGSTRLLPMQMVKVQSNRVHVNALSSDLFAGIPTIKSPTEVTLLEEDKICGYVAGG</span></span>
+<span class="topo-ruler">       250       260</span>
 <span class="topo-line"><span class="topo-inside">LMYAAPKRKSVVAAM</span><span class="topo-unknown">LAEYA</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -8575,6 +8766,7 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -8620,11 +8812,13 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">DLASL</span><span class="topo-membrane">AIYSFWIFLAGLIYYLQ</span><span class="topo-inside">TENMREGYPLENEDGTPAANQGPFPLPKPKTFILPHGR</span></span>
-<span class="topo-line"><span class="topo-inside">GTLTVPGPESEDRPIALARTAVSEGFPHAPTGDPMKDGVGPASWVARRDLPELDGHGHNK</span></span>
-<span class="topo-line"><span class="topo-inside">IKPMKAAAGFHVSAGKNPIGLPVRGCDLEIAGKVVDIWVDIPEQMARFLEVELKDGSTRL</span></span>
-<span class="topo-line"><span class="topo-inside">LPMQMVKVQSNRVHVNALSSDLFAGIPTIKSPTEVTLLEEDKICGYVAGGLMYAAPK</span><span class="topo-unknown">RKS</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">DLASL</span><span class="topo-membrane">AIYSFWIFLAGLIYYLQ</span><span class="topo-inside">TENMREGYPLENEDGTPAANQGPFPLPKPKTFILPHGRGTLTVPGPESEDRPIALARTAVSEGFPHAPTGDPMKDGVGPASWVARRDLPELDGHGHNK</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">IKPMKAAAGFHVSAGKNPIGLPVRGCDLEIAGKVVDIWVDIPEQMARFLEVELKDGSTRLLPMQMVKVQSNRVHVNALSSDLFAGIPTIKSPTEVTLLEEDKICGYVAGGLMYAAPK</span><span class="topo-unknown">RKS</span></span>
+<span class="topo-ruler">       250</span>
 <span class="topo-line"><span class="topo-unknown">VVAAMLAEYA</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -8664,6 +8858,7 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -8679,11 +8874,13 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">ALLSFERKYRVPGGTLVGGNLFDFWVGPF</span><span class="topo-membrane">YVGFFGVATFFFAALGII</span><span class="topo-outside">LIAWSAVLQGTWN</span></span>
-<span class="topo-line"><span class="topo-outside">PQLISVYPPALEYGLGGAPLAKGGLWQIITI</span><span class="topo-membrane">CATGAFVSWALREVE</span><span class="topo-inside">ICRKLGIGY</span><span class="topo-membrane">HIPFA</span></span>
-<span class="topo-line"><span class="topo-membrane">FAFAILAYLT</span><span class="topo-outside">LVLFRPVMMGAWGYAFPYGIW</span><span class="topo-unknown">THLDWVSNTGY</span><span class="topo-outside">TYGNFHYNPA</span><span class="topo-membrane">HMIAISFF</span></span>
-<span class="topo-line"><span class="topo-membrane">FTNALALALHGA</span><span class="topo-inside">LVLSAANPEKGKEMRTPDHEDTFFRDLVGYSIGTLGI</span><span class="topo-membrane">HRLGLLLSLSA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">ALLSFERKYRVPGGTLVGGNLFDFWVGPF</span><span class="topo-membrane">YVGFFGVATFFFAALGII</span><span class="topo-outside">LIAWSAVLQGTWNPQLISVYPPALEYGLGGAPLAKGGLWQIITI</span><span class="topo-membrane">CATGAFVSWALREVE</span><span class="topo-inside">ICRKLGIGY</span><span class="topo-membrane">HIPFA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">FAFAILAYLT</span><span class="topo-outside">LVLFRPVMMGAWGYAFPYGIW</span><span class="topo-unknown">THLDWVSNTGY</span><span class="topo-outside">TYGNFHYNPA</span><span class="topo-membrane">HMIAISFFFTNALALALHGA</span><span class="topo-inside">LVLSAANPEKGKEMRTPDHEDTFFRDLVGYSIGTLGI</span><span class="topo-membrane">HRLGLLLSLSA</span></span>
+<span class="topo-ruler">       250       260       270       280 </span>
 <span class="topo-line"><span class="topo-membrane">VFFSAL</span><span class="topo-outside">CMIITGTIWFDQWVDWWQWWVKLPWWANIPGGING</span></span>
+<details class="topo-details"><summary>Topology coordinates (13 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -8786,6 +8983,7 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -8801,12 +8999,13 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">AEYQNIFSQVQVRGPADLGMTEDVNLANRSGVGPFSTLLGWFGNAQLGPIYLGS</span><span class="topo-membrane">LGVLSL</span></span>
-<span class="topo-line"><span class="topo-membrane">FSGLMWFFTIGI</span><span class="topo-outside">WFWYQAGWN</span><span class="topo-unknown">PAVFLRD</span><span class="topo-outside">LFFFSLEPPAPEYGLSFAAPLKEGGLWLI</span><span class="topo-membrane">ASF</span></span>
-<span class="topo-line"><span class="topo-membrane">FMFVAVWSWWGRT</span><span class="topo-inside">YLRAQALGMGKH</span><span class="topo-membrane">TAWAFLSAIWLWMVLGFI</span><span class="topo-outside">RPILMGSWSEAVPYG</span><span class="topo-unknown">IF</span></span>
-<span class="topo-line"><span class="topo-unknown">SHLDWTNNFSLV</span><span class="topo-outside">HGNLFYNPF</span><span class="topo-membrane">HGLSIAFLYGSALLFAMHGA</span><span class="topo-inside">TILAVSRFGGERELEQIAD</span></span>
-<span class="topo-line"><span class="topo-inside">RGTAAERAALFWRWTMGFNATMEGIHR</span><span class="topo-membrane">WAIWMAVLVTLTGGIG</span><span class="topo-outside">ILLSGTVVDNWYVWGQN</span></span>
-<span class="topo-line"><span class="topo-outside">H</span><span class="topo-unknown">GMAPLN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">AEYQNIFSQVQVRGPADLGMTEDVNLANRSGVGPFSTLLGWFGNAQLGPIYLGS</span><span class="topo-membrane">LGVLSLFSGLMWFFTIGI</span><span class="topo-outside">WFWYQAGWN</span><span class="topo-unknown">PAVFLRD</span><span class="topo-outside">LFFFSLEPPAPEYGLSFAAPLKEGGLWLI</span><span class="topo-membrane">ASF</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">FMFVAVWSWWGRT</span><span class="topo-inside">YLRAQALGMGKH</span><span class="topo-membrane">TAWAFLSAIWLWMVLGFI</span><span class="topo-outside">RPILMGSWSEAVPYG</span><span class="topo-unknown">IFSHLDWTNNFSLV</span><span class="topo-outside">HGNLFYNPF</span><span class="topo-membrane">HGLSIAFLYGSALLFAMHGA</span><span class="topo-inside">TILAVSRFGGERELEQIAD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       </span>
+<span class="topo-line"><span class="topo-inside">RGTAAERAALFWRWTMGFNATMEGIHR</span><span class="topo-membrane">WAIWMAVLVTLTGGIG</span><span class="topo-outside">ILLSGTVVDNWYVWGQNH</span><span class="topo-unknown">GMAPLN</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -8930,6 +9129,7 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -8982,11 +9182,13 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">DLAS</span><span class="topo-membrane">LAIYSFWIFLAGLIYYLQ</span><span class="topo-inside">TENMREGYPLENEDGTPAANQGPFPLPKPKTFILPHGR</span></span>
-<span class="topo-line"><span class="topo-inside">GTLTVPGPESEDRPIALARTAVSEGFPHAPTGDPMKDGVGPASWVARRDLPELDGHGHNK</span></span>
-<span class="topo-line"><span class="topo-inside">IKPMKAAAGFHVSAGKNPIGLPVRGCDLEIAGKVVDIWVDIPEQMARFLEVELKDGSTRL</span></span>
-<span class="topo-line"><span class="topo-inside">LPMQMVKVQSNRVHVNALSSDLFAGIPTIKSPTEVTLLEEDKICGYVAGGLMYAAPKRKS</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">DLAS</span><span class="topo-membrane">LAIYSFWIFLAGLIYYLQ</span><span class="topo-inside">TENMREGYPLENEDGTPAANQGPFPLPKPKTFILPHGRGTLTVPGPESEDRPIALARTAVSEGFPHAPTGDPMKDGVGPASWVARRDLPELDGHGHNK</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">IKPMKAAAGFHVSAGKNPIGLPVRGCDLEIAGKVVDIWVDIPEQMARFLEVELKDGSTRLLPMQMVKVQSNRVHVNALSSDLFAGIPTIKSPTEVTLLEEDKICGYVAGGLMYAAPKRKS</span></span>
+<span class="topo-ruler"> </span>
 <span class="topo-line"><span class="topo-unknown">V</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -9026,6 +9228,7 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -9041,11 +9244,13 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">ALLSFERKYRVPGGTLVGGNLFDFWVGPFYV</span><span class="topo-membrane">GFFGVATFFFAALGIILIAW</span><span class="topo-outside">SAVLQGTWN</span></span>
-<span class="topo-line"><span class="topo-outside">PQLISVYPPALEYGLGGAPLAKGGLWQ</span><span class="topo-membrane">IITICATGAFVSWALREV</span><span class="topo-inside">EICRKLGIGYH</span><span class="topo-membrane">IPFA</span></span>
-<span class="topo-line"><span class="topo-membrane">FAFAILAYLTLVLF</span><span class="topo-outside">RPVMMGAWGYAFPYGIW</span><span class="topo-unknown">THLDWVSNTGYT</span><span class="topo-outside">YGNFHYNP</span><span class="topo-membrane">AHMIAISFF</span></span>
-<span class="topo-line"><span class="topo-membrane">FTNALALALHGA</span><span class="topo-inside">LVLSAANPEKGKEMRTPDHEDTFFRDLVGYSIGTLGI</span><span class="topo-membrane">HRLGLLLSLSA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">ALLSFERKYRVPGGTLVGGNLFDFWVGPFYV</span><span class="topo-membrane">GFFGVATFFFAALGIILIAW</span><span class="topo-outside">SAVLQGTWNPQLISVYPPALEYGLGGAPLAKGGLWQ</span><span class="topo-membrane">IITICATGAFVSWALREV</span><span class="topo-inside">EICRKLGIGYH</span><span class="topo-membrane">IPFA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">FAFAILAYLTLVLF</span><span class="topo-outside">RPVMMGAWGYAFPYGIW</span><span class="topo-unknown">THLDWVSNTGYT</span><span class="topo-outside">YGNFHYNP</span><span class="topo-membrane">AHMIAISFFFTNALALALHGA</span><span class="topo-inside">LVLSAANPEKGKEMRTPDHEDTFFRDLVGYSIGTLGI</span><span class="topo-membrane">HRLGLLLSLSA</span></span>
+<span class="topo-ruler">       250       260       270       280 </span>
 <span class="topo-line"><span class="topo-membrane">VFFSALCMI</span><span class="topo-outside">ITGTIWFDQWVDWWQWWVKLPWWANIPGGING</span></span>
+<details class="topo-details"><summary>Topology coordinates (13 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -9148,6 +9353,7 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -9163,12 +9369,13 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">AEYQNIFSQVQVRGPADLGMTEDVNLANRSGVGPFSTLLGWFGNAQLGPIYL</span><span class="topo-membrane">GSLGVLSL</span></span>
-<span class="topo-line"><span class="topo-membrane">FSGLMWFFTIG</span><span class="topo-outside">IWFWYQAGWN</span><span class="topo-unknown">PAVFLR</span><span class="topo-outside">DLFFFSLEPPAPEYGLSFAAPLKEGGLWLI</span><span class="topo-membrane">ASF</span></span>
-<span class="topo-line"><span class="topo-membrane">FMFVAVWSWWGRTYL</span><span class="topo-inside">RAQALGMGK</span><span class="topo-membrane">HTAWAFLSAIWLWMVLGFI</span><span class="topo-outside">RPILMGSWSEAVPYG</span><span class="topo-unknown">IF</span></span>
-<span class="topo-line"><span class="topo-unknown">SHLDWTNNFSL</span><span class="topo-outside">VHGNLFYNP</span><span class="topo-membrane">FHGLSIAFLYGSALLFAMHGA</span><span class="topo-inside">TILAVSRFGGERELEQIAD</span></span>
-<span class="topo-line"><span class="topo-inside">RGTAAERAALFWRWTMGFNATMEGI</span><span class="topo-membrane">HRWAIWMAVLVTLTGGIGIL</span><span class="topo-outside">LSGTVVDN</span><span class="topo-unknown">WYVWGQ</span><span class="topo-outside">N</span></span>
-<span class="topo-line"><span class="topo-outside">HG</span><span class="topo-unknown">M</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">AEYQNIFSQVQVRGPADLGMTEDVNLANRSGVGPFSTLLGWFGNAQLGPIYL</span><span class="topo-membrane">GSLGVLSLFSGLMWFFTIG</span><span class="topo-outside">IWFWYQAGWN</span><span class="topo-unknown">PAVFLR</span><span class="topo-outside">DLFFFSLEPPAPEYGLSFAAPLKEGGLWLI</span><span class="topo-membrane">ASF</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">FMFVAVWSWWGRTYL</span><span class="topo-inside">RAQALGMGK</span><span class="topo-membrane">HTAWAFLSAIWLWMVLGFI</span><span class="topo-outside">RPILMGSWSEAVPYG</span><span class="topo-unknown">IFSHLDWTNNFSL</span><span class="topo-outside">VHGNLFYNP</span><span class="topo-membrane">FHGLSIAFLYGSALLFAMHGA</span><span class="topo-inside">TILAVSRFGGERELEQIAD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300   </span>
+<span class="topo-line"><span class="topo-inside">RGTAAERAALFWRWTMGFNATMEGI</span><span class="topo-membrane">HRWAIWMAVLVTLTGGIGIL</span><span class="topo-outside">LSGTVVDN</span><span class="topo-unknown">WYVWGQ</span><span class="topo-outside">NHG</span><span class="topo-unknown">M</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -9306,6 +9513,7 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -9321,11 +9529,13 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">D</span><span class="topo-membrane">LASLAIYSFWIFLAGLIY</span><span class="topo-inside">YLQTENMREGYPLENEDGTPAANQGPFPLPKPKTFILPHGR</span></span>
-<span class="topo-line"><span class="topo-inside">GTLTVPGPESEDRPIALARTAVSEGFPHAPTGDPMKDGVGPASWVARRDLPELDGHGHNK</span></span>
-<span class="topo-line"><span class="topo-inside">IKPMKAAAGFHVSAGKNPIGLPVRGCDLEIAGKVVDIWVDIPEQMARFLEVELKDGSTRL</span></span>
-<span class="topo-line"><span class="topo-inside">LPMQMVKVQSNRVHVNALSSDLFAGIPTIKSPTEVTLLEEDKICGYVAGGLMYAAPKRKS</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">D</span><span class="topo-membrane">LASLAIYSFWIFLAGLIY</span><span class="topo-inside">YLQTENMREGYPLENEDGTPAANQGPFPLPKPKTFILPHGRGTLTVPGPESEDRPIALARTAVSEGFPHAPTGDPMKDGVGPASWVARRDLPELDGHGHNK</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">IKPMKAAAGFHVSAGKNPIGLPVRGCDLEIAGKVVDIWVDIPEQMARFLEVELKDGSTRLLPMQMVKVQSNRVHVNALSSDLFAGIPTIKSPTEVTLLEEDKICGYVAGGLMYAAPKRKS</span></span>
+<span class="topo-ruler"> </span>
 <span class="topo-line"><span class="topo-unknown">V</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -9365,6 +9575,7 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -9380,11 +9591,13 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">ALLSFERKYRVPGGTLVGGNLFDFWVGPFYV</span><span class="topo-membrane">GFFGVATFFFAALGIILIAW</span><span class="topo-outside">SAVLQGTWN</span></span>
-<span class="topo-line"><span class="topo-outside">PQLISVYPPALEYGLGGAPLAKGGLWQI</span><span class="topo-membrane">ITICATGAFVSWALREV</span><span class="topo-inside">EICRKLGIGYH</span><span class="topo-membrane">IPFA</span></span>
-<span class="topo-line"><span class="topo-membrane">FAFAILAYLTLVLF</span><span class="topo-outside">RPVMMGAWGYAFPYG</span><span class="topo-unknown">IWTHLDWVSNTGY</span><span class="topo-outside">TYGNFHYNP</span><span class="topo-membrane">AHMIAISFF</span></span>
-<span class="topo-line"><span class="topo-membrane">FTNALALALHG</span><span class="topo-inside">ALVLSAANPEKGKEMRTPDHEDTFFRDLVGYSIGTLGIHR</span><span class="topo-membrane">LGLLLSLSA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">ALLSFERKYRVPGGTLVGGNLFDFWVGPFYV</span><span class="topo-membrane">GFFGVATFFFAALGIILIAW</span><span class="topo-outside">SAVLQGTWNPQLISVYPPALEYGLGGAPLAKGGLWQI</span><span class="topo-membrane">ITICATGAFVSWALREV</span><span class="topo-inside">EICRKLGIGYH</span><span class="topo-membrane">IPFA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">FAFAILAYLTLVLF</span><span class="topo-outside">RPVMMGAWGYAFPYG</span><span class="topo-unknown">IWTHLDWVSNTGY</span><span class="topo-outside">TYGNFHYNP</span><span class="topo-membrane">AHMIAISFFFTNALALALHG</span><span class="topo-inside">ALVLSAANPEKGKEMRTPDHEDTFFRDLVGYSIGTLGIHR</span><span class="topo-membrane">LGLLLSLSA</span></span>
+<span class="topo-ruler">       250       260       270       280 </span>
 <span class="topo-line"><span class="topo-membrane">VFFSALCMI</span><span class="topo-outside">ITGTIWFDQWVDWWQWWVKLPWWANIPGGING</span></span>
+<details class="topo-details"><summary>Topology coordinates (13 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -9487,6 +9700,7 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -9502,12 +9716,13 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">AEYQNIFSQVQVRGPADLGMTEDVNLANRSGVGPFSTLLGWFGNAQLGPIYLGS</span><span class="topo-membrane">LGVLSL</span></span>
-<span class="topo-line"><span class="topo-membrane">FSGLMWFFTIGI</span><span class="topo-outside">WFWYQAGWN</span><span class="topo-unknown">PAVFLR</span><span class="topo-outside">DLFFFSLEPPAPEYGLSFAAPLKEGGLWL</span><span class="topo-membrane">IASF</span></span>
-<span class="topo-line"><span class="topo-membrane">FMFVAVWSWWGRT</span><span class="topo-inside">YLRAQALGMGKHT</span><span class="topo-membrane">AWAFLSAIWLWMVLGFIR</span><span class="topo-outside">PILMGSWSEAVPYG</span><span class="topo-unknown">IF</span></span>
-<span class="topo-line"><span class="topo-unknown">SHLDWTNNFSLV</span><span class="topo-outside">HGNLFYN</span><span class="topo-membrane">PFHGLSIAFLYGSAHLFAMHGA</span><span class="topo-inside">TILAVSRFGGERELEQIAD</span></span>
-<span class="topo-line"><span class="topo-inside">RGTAAERAALFWRWTMGFNATMEGIHRW</span><span class="topo-membrane">AIWMAVLVTLTGGIGILL</span><span class="topo-outside">SGTVVDN</span><span class="topo-unknown">WYVWGQ</span><span class="topo-outside">N</span></span>
-<span class="topo-line"><span class="topo-outside">HG</span><span class="topo-unknown">M</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">AEYQNIFSQVQVRGPADLGMTEDVNLANRSGVGPFSTLLGWFGNAQLGPIYLGS</span><span class="topo-membrane">LGVLSLFSGLMWFFTIGI</span><span class="topo-outside">WFWYQAGWN</span><span class="topo-unknown">PAVFLR</span><span class="topo-outside">DLFFFSLEPPAPEYGLSFAAPLKEGGLWL</span><span class="topo-membrane">IASF</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">FMFVAVWSWWGRT</span><span class="topo-inside">YLRAQALGMGKHT</span><span class="topo-membrane">AWAFLSAIWLWMVLGFIR</span><span class="topo-outside">PILMGSWSEAVPYG</span><span class="topo-unknown">IFSHLDWTNNFSLV</span><span class="topo-outside">HGNLFYN</span><span class="topo-membrane">PFHGLSIAFLYGSAHLFAMHGA</span><span class="topo-inside">TILAVSRFGGERELEQIAD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300   </span>
+<span class="topo-line"><span class="topo-inside">RGTAAERAALFWRWTMGFNATMEGIHRW</span><span class="topo-membrane">AIWMAVLVTLTGGIGILL</span><span class="topo-outside">SGTVVDN</span><span class="topo-unknown">WYVWGQ</span><span class="topo-outside">NHG</span><span class="topo-unknown">M</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -9645,6 +9860,7 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

@@ -127,13 +127,15 @@ The Rh protein from Nitrosomonas europaea is the first determined structure of a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">EINEARLVAQYN</span><span class="topo-membrane">YSINILAMLLVGFGFLMV</span><span class="topo-inside">FVRRYGFS</span><span class="topo-membrane">ATTGTYLVVATGLPLYILLR</span><span class="topo-outside">AN</span></span>
-<span class="topo-line"><span class="topo-outside">GIFGHALTPHSVDA</span><span class="topo-membrane">VIYAEFAVATGLIAMGAVL</span><span class="topo-inside">GRLRV</span><span class="topo-membrane">FQYALLALFIVPVYLLNEWLVL</span></span>
-<span class="topo-line"><span class="topo-outside">DNASGLTEGFQD</span><span class="topo-membrane">SAGSIAIHAFGAYFGLGVSIA</span><span class="topo-inside">LTTAAQRAQPIESDATSDR</span><span class="topo-membrane">FSMLGSMV</span></span>
-<span class="topo-line"><span class="topo-membrane">LWLFWPSFATA</span><span class="topo-outside">IVPFEQMPQTI</span><span class="topo-membrane">VNTLLALCGATLATYFLS</span><span class="topo-inside">ALFHKGKASI</span><span class="topo-membrane">VDMANAALAG</span></span>
-<span class="topo-line"><span class="topo-membrane">GVAIGSVC</span><span class="topo-outside">NIVGP</span><span class="topo-membrane">VGAFVIGLLGGAISVVGF</span><span class="topo-inside">VFIQPMLESKAKTID</span><span class="topo-membrane">TCGVHNLHGLPGLL</span></span>
-<span class="topo-line"><span class="topo-membrane">GGFSAILI</span><span class="topo-outside">VPGIAVAQ</span><span class="topo-membrane">LTGIGITLALALIGGVIAGALIKLT</span><span class="topo-inside">GTTKQAYEDSHEFIHLAGP</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">EINEARLVAQYN</span><span class="topo-membrane">YSINILAMLLVGFGFLMV</span><span class="topo-inside">FVRRYGFS</span><span class="topo-membrane">ATTGTYLVVATGLPLYILLR</span><span class="topo-outside">ANGIFGHALTPHSVDA</span><span class="topo-membrane">VIYAEFAVATGLIAMGAVL</span><span class="topo-inside">GRLRV</span><span class="topo-membrane">FQYALLALFIVPVYLLNEWLVL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">DNASGLTEGFQD</span><span class="topo-membrane">SAGSIAIHAFGAYFGLGVSIA</span><span class="topo-inside">LTTAAQRAQPIESDATSDR</span><span class="topo-membrane">FSMLGSMVLWLFWPSFATA</span><span class="topo-outside">IVPFEQMPQTI</span><span class="topo-membrane">VNTLLALCGATLATYFLS</span><span class="topo-inside">ALFHKGKASI</span><span class="topo-membrane">VDMANAALAG</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">GVAIGSVC</span><span class="topo-outside">NIVGP</span><span class="topo-membrane">VGAFVIGLLGGAISVVGF</span><span class="topo-inside">VFIQPMLESKAKTID</span><span class="topo-membrane">TCGVHNLHGLPGLLGGFSAILI</span><span class="topo-outside">VPGIAVAQ</span><span class="topo-membrane">LTGIGITLALALIGGVIAGALIKLT</span><span class="topo-inside">GTTKQAYEDSHEFIHLAGP</span></span>
+<span class="topo-ruler">       370       380        </span>
 <span class="topo-line"><span class="topo-inside">EDEHKAERLVLEAKTEIQGLKNRIDAAV</span></span>
+<details class="topo-details"><summary>Topology coordinates (23 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -306,6 +308,7 @@ The Rh protein from Nitrosomonas europaea is the first determined structure of a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -321,13 +324,15 @@ The Rh protein from Nitrosomonas europaea is the first determined structure of a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">EINEARLVAQYN</span><span class="topo-membrane">YSINILAMLLVGFGFLMV</span><span class="topo-inside">FVRRYGFS</span><span class="topo-membrane">ATTGTYLVVATGLPLYILLR</span><span class="topo-outside">AN</span></span>
-<span class="topo-line"><span class="topo-outside">GIFGHALTPHSVDA</span><span class="topo-membrane">VIYAEFAVATGLIAMGAVL</span><span class="topo-inside">GRLRV</span><span class="topo-membrane">FQYALLALFIVPVYLLNEWLVL</span></span>
-<span class="topo-line"><span class="topo-outside">DNASGLTEGFQD</span><span class="topo-membrane">SAGSIAIHAFGAYFGLGVSIA</span><span class="topo-inside">LTTAAQRAQPIESDATSDR</span><span class="topo-membrane">FSMLGSMV</span></span>
-<span class="topo-line"><span class="topo-membrane">LWLFWPSFATA</span><span class="topo-outside">IVPFEQMPQTI</span><span class="topo-membrane">VNTLLALCGATLATYFLS</span><span class="topo-inside">ALFHKGKASI</span><span class="topo-membrane">VDMANAALAG</span></span>
-<span class="topo-line"><span class="topo-membrane">GVAIGSVC</span><span class="topo-outside">NIVGP</span><span class="topo-membrane">VGAFVIGLLGGAISVVGF</span><span class="topo-inside">VFIQPMLESKAKTID</span><span class="topo-membrane">TCGVHNLHGLPGLL</span></span>
-<span class="topo-line"><span class="topo-membrane">GGFSAILI</span><span class="topo-outside">VPGIAVAQ</span><span class="topo-membrane">LTGIGITLALALIGGVIAGALIKLT</span><span class="topo-inside">GTTKQAYEDSHEFIHLAGP</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">EINEARLVAQYN</span><span class="topo-membrane">YSINILAMLLVGFGFLMV</span><span class="topo-inside">FVRRYGFS</span><span class="topo-membrane">ATTGTYLVVATGLPLYILLR</span><span class="topo-outside">ANGIFGHALTPHSVDA</span><span class="topo-membrane">VIYAEFAVATGLIAMGAVL</span><span class="topo-inside">GRLRV</span><span class="topo-membrane">FQYALLALFIVPVYLLNEWLVL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">DNASGLTEGFQD</span><span class="topo-membrane">SAGSIAIHAFGAYFGLGVSIA</span><span class="topo-inside">LTTAAQRAQPIESDATSDR</span><span class="topo-membrane">FSMLGSMVLWLFWPSFATA</span><span class="topo-outside">IVPFEQMPQTI</span><span class="topo-membrane">VNTLLALCGATLATYFLS</span><span class="topo-inside">ALFHKGKASI</span><span class="topo-membrane">VDMANAALAG</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">GVAIGSVC</span><span class="topo-outside">NIVGP</span><span class="topo-membrane">VGAFVIGLLGGAISVVGF</span><span class="topo-inside">VFIQPMLESKAKTID</span><span class="topo-membrane">TCGVHNLHGLPGLLGGFSAILI</span><span class="topo-outside">VPGIAVAQ</span><span class="topo-membrane">LTGIGITLALALIGGVIAGALIKLT</span><span class="topo-inside">GTTKQAYEDSHEFIHLAGP</span></span>
+<span class="topo-ruler">       370       380        </span>
 <span class="topo-line"><span class="topo-inside">EDEHKAERLVLEAKTEIQGLKNRIDAAV</span></span>
+<details class="topo-details"><summary>Topology coordinates (23 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -500,6 +505,7 @@ The Rh protein from Nitrosomonas europaea is the first determined structure of a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -515,13 +521,15 @@ The Rh protein from Nitrosomonas europaea is the first determined structure of a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">EINEARLVAQYN</span><span class="topo-membrane">YSINILAMLLVGFGFLMV</span><span class="topo-inside">FVRRYGFS</span><span class="topo-membrane">ATTGTYLVVATGLPLYILLR</span><span class="topo-outside">AN</span></span>
-<span class="topo-line"><span class="topo-outside">GIFGHALTPHSVDA</span><span class="topo-membrane">VIYAEFAVATGLIAMGAVL</span><span class="topo-inside">GRLRV</span><span class="topo-membrane">FQYALLALFIVPVYLLNEWLVL</span></span>
-<span class="topo-line"><span class="topo-outside">DNASGLTEGFQD</span><span class="topo-membrane">SAGSIAIHAFGAYFGLGVSIA</span><span class="topo-inside">LTTAAQRAQPIESDATSDR</span><span class="topo-membrane">FSMLGSMV</span></span>
-<span class="topo-line"><span class="topo-membrane">LWLFWPSFATA</span><span class="topo-outside">IVPFEQMPQTI</span><span class="topo-membrane">VNTLLALCGATLATYFLS</span><span class="topo-inside">ALFHKGKASI</span><span class="topo-membrane">VDMANAALAG</span></span>
-<span class="topo-line"><span class="topo-membrane">GVAIGSVC</span><span class="topo-outside">NIVGP</span><span class="topo-membrane">VGAFVIGLLGGAISVVGF</span><span class="topo-inside">VFIQPMLESKAKTID</span><span class="topo-membrane">TCGVHNLHGLPGLL</span></span>
-<span class="topo-line"><span class="topo-membrane">GGFSAILI</span><span class="topo-outside">VPGIAVAQ</span><span class="topo-membrane">LTGIGITLALALIGGVIAGALIKLT</span><span class="topo-inside">GTTKQAYEDSHEFIHLAGP</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">EINEARLVAQYN</span><span class="topo-membrane">YSINILAMLLVGFGFLMV</span><span class="topo-inside">FVRRYGFS</span><span class="topo-membrane">ATTGTYLVVATGLPLYILLR</span><span class="topo-outside">ANGIFGHALTPHSVDA</span><span class="topo-membrane">VIYAEFAVATGLIAMGAVL</span><span class="topo-inside">GRLRV</span><span class="topo-membrane">FQYALLALFIVPVYLLNEWLVL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">DNASGLTEGFQD</span><span class="topo-membrane">SAGSIAIHAFGAYFGLGVSIA</span><span class="topo-inside">LTTAAQRAQPIESDATSDR</span><span class="topo-membrane">FSMLGSMVLWLFWPSFATA</span><span class="topo-outside">IVPFEQMPQTI</span><span class="topo-membrane">VNTLLALCGATLATYFLS</span><span class="topo-inside">ALFHKGKASI</span><span class="topo-membrane">VDMANAALAG</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">GVAIGSVC</span><span class="topo-outside">NIVGP</span><span class="topo-membrane">VGAFVIGLLGGAISVVGF</span><span class="topo-inside">VFIQPMLESKAKTID</span><span class="topo-membrane">TCGVHNLHGLPGLLGGFSAILI</span><span class="topo-outside">VPGIAVAQ</span><span class="topo-membrane">LTGIGITLALALIGGVIAGALIKLT</span><span class="topo-inside">GTTKQAYEDSHEFIHLAGP</span></span>
+<span class="topo-ruler">       370       380        </span>
 <span class="topo-line"><span class="topo-inside">EDEHKAERLVLEAKTEIQGLKNRIDAAV</span></span>
+<details class="topo-details"><summary>Topology coordinates (23 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -694,6 +702,7 @@ The Rh protein from Nitrosomonas europaea is the first determined structure of a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

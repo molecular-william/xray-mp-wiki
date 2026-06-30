@@ -95,10 +95,11 @@ Mouse claudin-19 (mCldn19) is a tight junction membrane protein belonging to the
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAN</span><span class="topo-inside">SGLQ</span><span class="topo-membrane">LLGYFLALGGWVGIIASTALPQW</span><span class="topo-outside">KQSSYAGDAIITAVGLYEGLWMSCAS</span><span class="topo-unknown">QST</span><span class="topo-outside">G</span></span>
-<span class="topo-line"><span class="topo-outside">QVQCKLYD</span><span class="topo-unknown">SLLALD</span><span class="topo-outside">G</span><span class="topo-membrane">HIQSARALMVVAVLLGFVAMVLSV</span><span class="topo-inside">VGMK</span><span class="topo-unknown">ATRVGDS</span><span class="topo-inside">NPTAKSRVAI</span></span>
-<span class="topo-line"><span class="topo-membrane">SGGALFLLAGLCTLTAVSWYATL</span><span class="topo-outside">VTQEFFNPSTPVNARYEF</span><span class="topo-membrane">GPALFVGWASAGLAMLGGS</span></span>
-<span class="topo-line"><span class="topo-membrane">FLAA</span><span class="topo-inside">T</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAN</span><span class="topo-inside">SGLQ</span><span class="topo-membrane">LLGYFLALGGWVGIIASTALPQW</span><span class="topo-outside">KQSSYAGDAIITAVGLYEGLWMSCAS</span><span class="topo-unknown">QST</span><span class="topo-outside">GQVQCKLYD</span><span class="topo-unknown">SLLALD</span><span class="topo-outside">G</span><span class="topo-membrane">HIQSARALMVVAVLLGFVAMVLSV</span><span class="topo-inside">VGMK</span><span class="topo-unknown">ATRVGDS</span><span class="topo-inside">NPTAKSRVAI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180     </span>
+<span class="topo-line"><span class="topo-membrane">SGGALFLLAGLCTLTAVSWYATL</span><span class="topo-outside">VTQEFFNPSTPVNARYEF</span><span class="topo-membrane">GPALFVGWASAGLAMLGGSFLAA</span><span class="topo-inside">T</span></span>
+<details class="topo-details"><summary>Topology coordinates (12 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -194,6 +195,7 @@ Mouse claudin-19 (mCldn19) is a tight junction membrane protein belonging to the
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -209,8 +211,9 @@ Mouse claudin-19 (mCldn19) is a tight junction membrane protein belonging to the
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GS</span><span class="topo-outside">AAATERLNLTDALNSNPAGNLYDWRSSNSYPWTQKLNLHLTITATGQKYRILASKIVD</span></span>
-<span class="topo-line"><span class="topo-outside">FNIYSNNFNNLVKLEQSLGDGVKDHYVDISLDAGQYVLVMKANSSYSGNYPYAILFQKF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110         </span>
+<span class="topo-line"><span class="topo-unknown">GS</span><span class="topo-outside">AAATERLNLTDALNSNPAGNLYDWRSSNSYPWTQKLNLHLTITATGQKYRILASKIVDFNIYSNNFNNLVKLEQSLGDGVKDHYVDISLDAGQYVLVMKANSSYSGNYPYAILFQKF</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -229,6 +232,7 @@ Mouse claudin-19 (mCldn19) is a tight junction membrane protein belonging to the
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

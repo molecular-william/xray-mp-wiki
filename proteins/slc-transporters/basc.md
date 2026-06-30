@@ -135,14 +135,15 @@ BasC is a bacterial L-amino acid transporter (LAT) from the alanine-serine-cyste
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MKE</span><span class="topo-outside">VSGI</span><span class="topo-membrane">TALTVVVGTVIGAGIFFKPTAVY</span><span class="topo-inside">GAAGAPG</span><span class="topo-membrane">LGLLAWFVAGIITIAGGLTV</span><span class="topo-outside">AEI</span></span>
-<span class="topo-line"><span class="topo-outside">GTIYPQTGGMMIYLEKVYGRWLGF</span><span class="topo-membrane">LVGWAQMVIYYPANIAALAIIFATQF</span><span class="topo-inside">VNLFALSDST</span></span>
-<span class="topo-line"><span class="topo-inside">I</span><span class="topo-membrane">VPTAILTSIFLMGVNFLGT</span><span class="topo-outside">K</span><span class="topo-membrane">YSGWIQTLATILKLIPLVVIIVAGLL</span><span class="topo-inside">YPGGGVIRLVPFS</span></span>
-<span class="topo-line"><span class="topo-inside">VETHPV</span><span class="topo-membrane">LTSFGSALIATLFAYDGWINV</span><span class="topo-outside">GTLAGEMKNPGKMLP</span><span class="topo-membrane">KVIIGGLSIVMAVYLLTN</span></span>
-<span class="topo-line"><span class="topo-membrane">IAY</span><span class="topo-inside">LFVLDSSQLAGTDT</span><span class="topo-unknown">PAALVASHL</span><span class="topo-inside">FEGIG</span><span class="topo-membrane">SKLVTIGILISVFGGINGYIISGLRVPY</span><span class="topo-outside">A</span></span>
-<span class="topo-line"><span class="topo-outside">LATQKMLPFSDWFARINPKTNL</span><span class="topo-membrane">PINGGLVMLGIAIVMILTG</span><span class="topo-inside">Q</span><span class="topo-membrane">FNQLTDLIVFVIWFFITL</span></span>
-<span class="topo-line"><span class="topo-membrane">TFI</span><span class="topo-outside">AVIILRKTQPDIERPYRVPFYP</span><span class="topo-membrane">VIPLIAIIGGLYIIFNTLIVQP</span><span class="topo-inside">K</span><span class="topo-membrane">NAFIGILLTLIG</span></span>
-<span class="topo-line"><span class="topo-membrane">IPIY</span><span class="topo-outside">FYCKKKYGS</span><span class="topo-unknown">PEGGGLEVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MKE</span><span class="topo-outside">VSGI</span><span class="topo-membrane">TALTVVVGTVIGAGIFFKPTAVY</span><span class="topo-inside">GAAGAPG</span><span class="topo-membrane">LGLLAWFVAGIITIAGGLTV</span><span class="topo-outside">AEIGTIYPQTGGMMIYLEKVYGRWLGF</span><span class="topo-membrane">LVGWAQMVIYYPANIAALAIIFATQF</span><span class="topo-inside">VNLFALSDST</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">I</span><span class="topo-membrane">VPTAILTSIFLMGVNFLGT</span><span class="topo-outside">K</span><span class="topo-membrane">YSGWIQTLATILKLIPLVVIIVAGLL</span><span class="topo-inside">YPGGGVIRLVPFSVETHPV</span><span class="topo-membrane">LTSFGSALIATLFAYDGWINV</span><span class="topo-outside">GTLAGEMKNPGKMLP</span><span class="topo-membrane">KVIIGGLSIVMAVYLLTN</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">IAY</span><span class="topo-inside">LFVLDSSQLAGTDT</span><span class="topo-unknown">PAALVASHL</span><span class="topo-inside">FEGIG</span><span class="topo-membrane">SKLVTIGILISVFGGINGYIISGLRVPY</span><span class="topo-outside">ALATQKMLPFSDWFARINPKTNL</span><span class="topo-membrane">PINGGLVMLGIAIVMILTG</span><span class="topo-inside">Q</span><span class="topo-membrane">FNQLTDLIVFVIWFFITL</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440    </span>
+<span class="topo-line"><span class="topo-membrane">TFI</span><span class="topo-outside">AVIILRKTQPDIERPYRVPFYP</span><span class="topo-membrane">VIPLIAIIGGLYIIFNTLIVQP</span><span class="topo-inside">K</span><span class="topo-membrane">NAFIGILLTLIGIPIY</span><span class="topo-outside">FYCKKKYGS</span><span class="topo-unknown">PEGGGLEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (27 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -343,6 +344,7 @@ BasC is a bacterial L-amino acid transporter (LAT) from the alanine-serine-cyste
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -358,14 +360,15 @@ BasC is a bacterial L-amino acid transporter (LAT) from the alanine-serine-cyste
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MKEVSGITALT</span><span class="topo-membrane">VVVGTVIGAGIFFKP</span><span class="topo-unknown">TAVYGAA</span><span class="topo-inside">GAPG</span><span class="topo-membrane">LGLLAWFVAGIITIAGG</span><span class="topo-outside">LTVAEI</span></span>
-<span class="topo-line"><span class="topo-outside">GTIYPQTGGMMI</span><span class="topo-unknown">YLEKVY</span><span class="topo-outside">GRWLGFL</span><span class="topo-membrane">VGWAQMVIYYPANIAALAIIFATQF</span><span class="topo-inside">VNLFALSDST</span></span>
-<span class="topo-line"><span class="topo-inside">I</span><span class="topo-membrane">VPTAILTSIFLMGVNFL</span><span class="topo-outside">GTKY</span><span class="topo-membrane">SGWIQTLATILKLIPLVVIIVAGLL</span><span class="topo-inside">YPGGGVIRLVPFS</span></span>
-<span class="topo-line"><span class="topo-inside">VETHPVL</span><span class="topo-membrane">TSFGSALIATLFAYDGWIN</span><span class="topo-outside">VGTLAGEMKNPGKMLPKVI</span><span class="topo-membrane">IGGLSIVMAVYLLTN</span></span>
-<span class="topo-line"><span class="topo-membrane">IAY</span><span class="topo-inside">LFVLD</span><span class="topo-unknown">SSQLAG</span><span class="topo-inside">TDT</span><span class="topo-unknown">PAALVASHL</span><span class="topo-inside">FEGI</span><span class="topo-membrane">GSKLVTIGILISVFGGINGYIISGL</span><span class="topo-outside">RVPYA</span></span>
-<span class="topo-line"><span class="topo-outside">LATQKMLPFSDWFARINPKTNLPI</span><span class="topo-membrane">NGGLVMLGIAIVMILTG</span><span class="topo-inside">Q</span><span class="topo-membrane">FNQLTDLIVFVIWFFITL</span></span>
-<span class="topo-line"><span class="topo-membrane">TFI</span><span class="topo-outside">AVIILRKTQPDIERPYRVPFYPV</span><span class="topo-membrane">IPLIAIIGGLYIIFNTLIVQP</span><span class="topo-inside">K</span><span class="topo-membrane">NAFIGILLTLIG</span></span>
-<span class="topo-line"><span class="topo-membrane">IPIY</span><span class="topo-outside">FYCKKKYGS</span><span class="topo-unknown">PEGGGLEVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MKEVSGITALT</span><span class="topo-membrane">VVVGTVIGAGIFFKP</span><span class="topo-unknown">TAVYGAA</span><span class="topo-inside">GAPG</span><span class="topo-membrane">LGLLAWFVAGIITIAGG</span><span class="topo-outside">LTVAEIGTIYPQTGGMMI</span><span class="topo-unknown">YLEKVY</span><span class="topo-outside">GRWLGFL</span><span class="topo-membrane">VGWAQMVIYYPANIAALAIIFATQF</span><span class="topo-inside">VNLFALSDST</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">I</span><span class="topo-membrane">VPTAILTSIFLMGVNFL</span><span class="topo-outside">GTKY</span><span class="topo-membrane">SGWIQTLATILKLIPLVVIIVAGLL</span><span class="topo-inside">YPGGGVIRLVPFSVETHPVL</span><span class="topo-membrane">TSFGSALIATLFAYDGWIN</span><span class="topo-outside">VGTLAGEMKNPGKMLPKVI</span><span class="topo-membrane">IGGLSIVMAVYLLTN</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">IAY</span><span class="topo-inside">LFVLD</span><span class="topo-unknown">SSQLAG</span><span class="topo-inside">TDT</span><span class="topo-unknown">PAALVASHL</span><span class="topo-inside">FEGI</span><span class="topo-membrane">GSKLVTIGILISVFGGINGYIISGL</span><span class="topo-outside">RVPYALATQKMLPFSDWFARINPKTNLPI</span><span class="topo-membrane">NGGLVMLGIAIVMILTG</span><span class="topo-inside">Q</span><span class="topo-membrane">FNQLTDLIVFVIWFFITL</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440    </span>
+<span class="topo-line"><span class="topo-membrane">TFI</span><span class="topo-outside">AVIILRKTQPDIERPYRVPFYPV</span><span class="topo-membrane">IPLIAIIGGLYIIFNTLIVQP</span><span class="topo-inside">K</span><span class="topo-membrane">NAFIGILLTLIGIPIY</span><span class="topo-outside">FYCKKKYGS</span><span class="topo-unknown">PEGGGLEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (32 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -601,6 +604,7 @@ BasC is a bacterial L-amino acid transporter (LAT) from the alanine-serine-cyste
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

@@ -144,12 +144,13 @@ GIRK2 (Kir3.2) is a G Rh Protein from Nitrosomonas europaea from Nitrosomonas eu
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAKRK</span><span class="topo-outside">IQRYVRKDGKCNVHH</span><span class="topo-unknown">GNVRET</span><span class="topo-outside">YRYL</span><span class="topo-membrane">TDIFTTLVDLKWRFNLLIFVMVYTVTWLFF</span></span>
-<span class="topo-line"><span class="topo-membrane">GMIWWLI</span><span class="topo-inside">AYIRG</span><span class="topo-unknown">DMDHIEDPSWTP</span><span class="topo-inside">CVTNLNGFVSA</span><span class="topo-unknown">FLFSIETETTIGY</span><span class="topo-inside">GYRVITDKCP</span><span class="topo-membrane">EG</span></span>
-<span class="topo-line"><span class="topo-membrane">IILLLIQSVLGSIVNAFMVGCMFVKISQ</span><span class="topo-unknown">PKKRAET</span><span class="topo-outside">LVFSTHAVISMRDGKLCLMFRVGDL</span></span>
-<span class="topo-line"><span class="topo-outside">RNSHIVEASIRAKLIKSKQTSEGEFIPLNQTDINVGYYTGDDRLFLVSPLIISHEINQQS</span></span>
-<span class="topo-line"><span class="topo-outside">PFWEISKAQLPKEELEIVVILEGMVEATGMTCQARSSYITSEILWGYRFTPVLTLEDGFY</span></span>
-<span class="topo-line"><span class="topo-outside">EVDYNSFHETYETSTPSLSAKELAELANRAES</span><span class="topo-unknown">NSLEVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAKRK</span><span class="topo-outside">IQRYVRKDGKCNVHH</span><span class="topo-unknown">GNVRET</span><span class="topo-outside">YRYL</span><span class="topo-membrane">TDIFTTLVDLKWRFNLLIFVMVYTVTWLFFGMIWWLI</span><span class="topo-inside">AYIRG</span><span class="topo-unknown">DMDHIEDPSWTP</span><span class="topo-inside">CVTNLNGFVSA</span><span class="topo-unknown">FLFSIETETTIGY</span><span class="topo-inside">GYRVITDKCP</span><span class="topo-membrane">EG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">IILLLIQSVLGSIVNAFMVGCMFVKISQ</span><span class="topo-unknown">PKKRAET</span><span class="topo-outside">LVFSTHAVISMRDGKLCLMFRVGDLRNSHIVEASIRAKLIKSKQTSEGEFIPLNQTDINVGYYTGDDRLFLVSPLIISHEINQQS</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340</span>
+<span class="topo-line"><span class="topo-outside">PFWEISKAQLPKEELEIVVILEGMVEATGMTCQARSSYITSEILWGYRFTPVLTLEDGFYEVDYNSFHETYETSTPSLSAKELAELANRAES</span><span class="topo-unknown">NSLEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (14 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -259,6 +260,7 @@ GIRK2 (Kir3.2) is a G Rh Protein from Nitrosomonas europaea from Nitrosomonas eu
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -274,12 +276,13 @@ GIRK2 (Kir3.2) is a G Rh Protein from Nitrosomonas europaea from Nitrosomonas eu
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAKRK</span><span class="topo-outside">IQRYVRKDGKCNVHH</span><span class="topo-unknown">GNVRET</span><span class="topo-outside">YRYL</span><span class="topo-membrane">TDIFTTLVDLKWRFNLLIFVMVYTVTWLFF</span></span>
-<span class="topo-line"><span class="topo-membrane">GMIWWLI</span><span class="topo-inside">AYIRG</span><span class="topo-unknown">DMDHIEDPSWTP</span><span class="topo-inside">CVTNLNGFVSA</span><span class="topo-unknown">FLFSIETETTIGY</span><span class="topo-inside">GYRVITDKCP</span><span class="topo-membrane">EG</span></span>
-<span class="topo-line"><span class="topo-membrane">IILLLIQSVLGSIVNAFMVGCMFVKISQ</span><span class="topo-unknown">PKKRAET</span><span class="topo-outside">LVFSTHAVISMRDGKLCLMFRVGDL</span></span>
-<span class="topo-line"><span class="topo-outside">RNSHIVEASIRAKLIKSKQTSEGEFIPLNQTDINVGYYTGDDRLFLVSPLIISHEINQQS</span></span>
-<span class="topo-line"><span class="topo-outside">PFWEISKAQLPKEELEIVVILEGMVEATGMTCQARSSYITSEILWGYRFTPVLTLEDGFY</span></span>
-<span class="topo-line"><span class="topo-outside">EVDYNSFHETYETSTPSLSAKELAELANRAES</span><span class="topo-unknown">NSLEVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAKRK</span><span class="topo-outside">IQRYVRKDGKCNVHH</span><span class="topo-unknown">GNVRET</span><span class="topo-outside">YRYL</span><span class="topo-membrane">TDIFTTLVDLKWRFNLLIFVMVYTVTWLFFGMIWWLI</span><span class="topo-inside">AYIRG</span><span class="topo-unknown">DMDHIEDPSWTP</span><span class="topo-inside">CVTNLNGFVSA</span><span class="topo-unknown">FLFSIETETTIGY</span><span class="topo-inside">GYRVITDKCP</span><span class="topo-membrane">EG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">IILLLIQSVLGSIVNAFMVGCMFVKISQ</span><span class="topo-unknown">PKKRAET</span><span class="topo-outside">LVFSTHAVISMRDGKLCLMFRVGDLRNSHIVEASIRAKLIKSKQTSEGEFIPLNQTDINVGYYTGDDRLFLVSPLIISHEINQQS</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340</span>
+<span class="topo-line"><span class="topo-outside">PFWEISKAQLPKEELEIVVILEGMVEATGMTCQARSSYITSEILWGYRFTPVLTLEDGFYEVDYNSFHETYETSTPSLSAKELAELANRAES</span><span class="topo-unknown">NSLEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (14 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -389,6 +392,7 @@ GIRK2 (Kir3.2) is a G Rh Protein from Nitrosomonas europaea from Nitrosomonas eu
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -404,12 +408,13 @@ GIRK2 (Kir3.2) is a G Rh Protein from Nitrosomonas europaea from Nitrosomonas eu
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAKRK</span><span class="topo-outside">IQRYVRKDGKCNVHH</span><span class="topo-unknown">GNVRET</span><span class="topo-outside">YRYL</span><span class="topo-membrane">TDIFTTLVDLKWRFNLLIFVMVYTVTWLFF</span></span>
-<span class="topo-line"><span class="topo-membrane">GMIWWLI</span><span class="topo-inside">AYIRG</span><span class="topo-unknown">DMDHIEDPSWTP</span><span class="topo-inside">CVTNLNGFVSA</span><span class="topo-unknown">FLFSIETETTIGY</span><span class="topo-inside">GYRVITDKCP</span><span class="topo-membrane">EG</span></span>
-<span class="topo-line"><span class="topo-membrane">IILLLIQSVLGSIVNAFMVGCMFVKISQ</span><span class="topo-unknown">PKKRAET</span><span class="topo-outside">LVFSTHAVISMRDGKLCLMFRVGDL</span></span>
-<span class="topo-line"><span class="topo-outside">RNSHIVEASIRAKLIKSKQTSEGEFIPLNQTDINVGYYTGDDRLFLVSPLIISHEINQQS</span></span>
-<span class="topo-line"><span class="topo-outside">PFWEISKAQLPKEELEIVVILEGMVEATGMTCQARSSYITSEILWGYRFTPVLTLEDGFY</span></span>
-<span class="topo-line"><span class="topo-outside">EVDYNSFHETYETSTPSLSAKELAELANRAES</span><span class="topo-unknown">NSLEVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAKRK</span><span class="topo-outside">IQRYVRKDGKCNVHH</span><span class="topo-unknown">GNVRET</span><span class="topo-outside">YRYL</span><span class="topo-membrane">TDIFTTLVDLKWRFNLLIFVMVYTVTWLFFGMIWWLI</span><span class="topo-inside">AYIRG</span><span class="topo-unknown">DMDHIEDPSWTP</span><span class="topo-inside">CVTNLNGFVSA</span><span class="topo-unknown">FLFSIETETTIGY</span><span class="topo-inside">GYRVITDKCP</span><span class="topo-membrane">EG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">IILLLIQSVLGSIVNAFMVGCMFVKISQ</span><span class="topo-unknown">PKKRAET</span><span class="topo-outside">LVFSTHAVISMRDGKLCLMFRVGDLRNSHIVEASIRAKLIKSKQTSEGEFIPLNQTDINVGYYTGDDRLFLVSPLIISHEINQQS</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340</span>
+<span class="topo-line"><span class="topo-outside">PFWEISKAQLPKEELEIVVILEGMVEATGMTCQARSSYITSEILWGYRFTPVLTLEDGFYEVDYNSFHETYETSTPSLSAKELAELANRAES</span><span class="topo-unknown">NSLEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (14 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -519,6 +524,7 @@ GIRK2 (Kir3.2) is a G Rh Protein from Nitrosomonas europaea from Nitrosomonas eu
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -534,12 +540,13 @@ GIRK2 (Kir3.2) is a G Rh Protein from Nitrosomonas europaea from Nitrosomonas eu
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAKRK</span><span class="topo-outside">IQRYVRKDGKCNVHH</span><span class="topo-unknown">GNVRET</span><span class="topo-outside">YRYL</span><span class="topo-membrane">TDIFTTLVDLKWRFNLLIFVMVYTVTWLFF</span></span>
-<span class="topo-line"><span class="topo-membrane">GMIWWLI</span><span class="topo-inside">AYIRG</span><span class="topo-unknown">DMDHIEDPSWTP</span><span class="topo-inside">CVTNLNGFVSA</span><span class="topo-unknown">FLFSIETETTIGY</span><span class="topo-inside">GYRVITDKCP</span><span class="topo-membrane">EG</span></span>
-<span class="topo-line"><span class="topo-membrane">IILLLIQSVLGSIVNAFMVGCMFVKISQ</span><span class="topo-unknown">PKKRAET</span><span class="topo-outside">LVFSTHAVISMRDGKLCLMFRVGDL</span></span>
-<span class="topo-line"><span class="topo-outside">RNSHIVEASIRAKLIKSKQTSEGEFIPLNQTDINVGYYTGDDRLFLVSPLIISHEINQQS</span></span>
-<span class="topo-line"><span class="topo-outside">PFWEISKAQLPKEELEIVVILEGMVEATGMTCQARSSYITSEILWGYRFTPVLTLEDGFY</span></span>
-<span class="topo-line"><span class="topo-outside">EVDYNSFHETYETSTPSLSAKELAELANRAES</span><span class="topo-unknown">NSLEVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAKRK</span><span class="topo-outside">IQRYVRKDGKCNVHH</span><span class="topo-unknown">GNVRET</span><span class="topo-outside">YRYL</span><span class="topo-membrane">TDIFTTLVDLKWRFNLLIFVMVYTVTWLFFGMIWWLI</span><span class="topo-inside">AYIRG</span><span class="topo-unknown">DMDHIEDPSWTP</span><span class="topo-inside">CVTNLNGFVSA</span><span class="topo-unknown">FLFSIETETTIGY</span><span class="topo-inside">GYRVITDKCP</span><span class="topo-membrane">EG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">IILLLIQSVLGSIVNAFMVGCMFVKISQ</span><span class="topo-unknown">PKKRAET</span><span class="topo-outside">LVFSTHAVISMRDGKLCLMFRVGDLRNSHIVEASIRAKLIKSKQTSEGEFIPLNQTDINVGYYTGDDRLFLVSPLIISHEINQQS</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340</span>
+<span class="topo-line"><span class="topo-outside">PFWEISKAQLPKEELEIVVILEGMVEATGMTCQARSSYITSEILWGYRFTPVLTLEDGFYEVDYNSFHETYETSTPSLSAKELAELANRAES</span><span class="topo-unknown">NSLEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (14 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -649,6 +656,7 @@ GIRK2 (Kir3.2) is a G Rh Protein from Nitrosomonas europaea from Nitrosomonas eu
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -664,12 +672,13 @@ GIRK2 (Kir3.2) is a G Rh Protein from Nitrosomonas europaea from Nitrosomonas eu
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAKRK</span><span class="topo-outside">IQRYVRKDGKCNVHH</span><span class="topo-unknown">GNVRET</span><span class="topo-outside">YRYL</span><span class="topo-membrane">TDIFTTLVDLKWRFNLLIFVMVYTVTWLFF</span></span>
-<span class="topo-line"><span class="topo-membrane">GMIWWLI</span><span class="topo-inside">AYIRG</span><span class="topo-unknown">DMDHIEDPSWTP</span><span class="topo-inside">CVTNLNGFVSA</span><span class="topo-unknown">FLFSIETETTIGY</span><span class="topo-inside">GYRVITDKCP</span><span class="topo-membrane">EG</span></span>
-<span class="topo-line"><span class="topo-membrane">IILLLIQSVLGSIVNAFMVGCMFVKISQ</span><span class="topo-unknown">PKKRAET</span><span class="topo-outside">LVFSTHAVISMRDGKLCLMFRVGDL</span></span>
-<span class="topo-line"><span class="topo-outside">RNSHIVEASIRAKLIKSKQTSEGEFIPLNQTDINVGYYTGDDRLFLVSPLIISHEINQQS</span></span>
-<span class="topo-line"><span class="topo-outside">PFWEISKAQLPKEELEIVVILEGMVEATGMTCQARSSYITSEILWGYRFTPVLTLEDGFY</span></span>
-<span class="topo-line"><span class="topo-outside">EVDYNSFHETYETSTPSLSAKELAELANRAES</span><span class="topo-unknown">NSLEVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAKRK</span><span class="topo-outside">IQRYVRKDGKCNVHH</span><span class="topo-unknown">GNVRET</span><span class="topo-outside">YRYL</span><span class="topo-membrane">TDIFTTLVDLKWRFNLLIFVMVYTVTWLFFGMIWWLI</span><span class="topo-inside">AYIRG</span><span class="topo-unknown">DMDHIEDPSWTP</span><span class="topo-inside">CVTNLNGFVSA</span><span class="topo-unknown">FLFSIETETTIGY</span><span class="topo-inside">GYRVITDKCP</span><span class="topo-membrane">EG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">IILLLIQSVLGSIVNAFMVGCMFVKISQ</span><span class="topo-unknown">PKKRAET</span><span class="topo-outside">LVFSTHAVISMRDGKLCLMFRVGDLRNSHIVEASIRAKLIKSKQTSEGEFIPLNQTDINVGYYTGDDRLFLVSPLIISHEINQQS</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340</span>
+<span class="topo-line"><span class="topo-outside">PFWEISKAQLPKEELEIVVILEGMVEATGMTCQARSSYITSEILWGYRFTPVLTLEDGFYEVDYNSFHETYETSTPSLSAKELAELANRAES</span><span class="topo-unknown">NSLEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (14 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -779,6 +788,7 @@ GIRK2 (Kir3.2) is a G Rh Protein from Nitrosomonas europaea from Nitrosomonas eu
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -794,12 +804,13 @@ GIRK2 (Kir3.2) is a G Rh Protein from Nitrosomonas europaea from Nitrosomonas eu
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAKRK</span><span class="topo-outside">IQRYVRKDGKCNVHH</span><span class="topo-unknown">GNVRET</span><span class="topo-outside">YRYL</span><span class="topo-membrane">TDIFTTLVDLKWRFNLLIFVMVYTVTWLFF</span></span>
-<span class="topo-line"><span class="topo-membrane">GMIWWLI</span><span class="topo-inside">AYIRG</span><span class="topo-unknown">DMDHIEDPSWTP</span><span class="topo-inside">CVTNLNGFVSA</span><span class="topo-unknown">FLFSIETETTIGY</span><span class="topo-inside">GYRVITDKCP</span><span class="topo-membrane">EG</span></span>
-<span class="topo-line"><span class="topo-membrane">IILLLIQSVLGSIVNAFMVGCMFVKISQ</span><span class="topo-unknown">PKKRAET</span><span class="topo-outside">LVFSTHAVISMRDGKLCLMFRVGDL</span></span>
-<span class="topo-line"><span class="topo-outside">RNSHIVEASIRAKLIKSKQTSEGEFIPLNQTDINVGYYTGDDRLFLVSPLIISHEINQQS</span></span>
-<span class="topo-line"><span class="topo-outside">PFWEISKAQLPKEELEIVVILEGMVEATGMTCQARSSYITSEILWGYRFTPVLTLEDGFY</span></span>
-<span class="topo-line"><span class="topo-outside">EVDYNSFHETYETSTPSLSAKELAELANRAES</span><span class="topo-unknown">NSLEVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAKRK</span><span class="topo-outside">IQRYVRKDGKCNVHH</span><span class="topo-unknown">GNVRET</span><span class="topo-outside">YRYL</span><span class="topo-membrane">TDIFTTLVDLKWRFNLLIFVMVYTVTWLFFGMIWWLI</span><span class="topo-inside">AYIRG</span><span class="topo-unknown">DMDHIEDPSWTP</span><span class="topo-inside">CVTNLNGFVSA</span><span class="topo-unknown">FLFSIETETTIGY</span><span class="topo-inside">GYRVITDKCP</span><span class="topo-membrane">EG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">IILLLIQSVLGSIVNAFMVGCMFVKISQ</span><span class="topo-unknown">PKKRAET</span><span class="topo-outside">LVFSTHAVISMRDGKLCLMFRVGDLRNSHIVEASIRAKLIKSKQTSEGEFIPLNQTDINVGYYTGDDRLFLVSPLIISHEINQQS</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340</span>
+<span class="topo-line"><span class="topo-outside">PFWEISKAQLPKEELEIVVILEGMVEATGMTCQARSSYITSEILWGYRFTPVLTLEDGFYEVDYNSFHETYETSTPSLSAKELAELANRAES</span><span class="topo-unknown">NSLEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (14 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -909,6 +920,7 @@ GIRK2 (Kir3.2) is a G Rh Protein from Nitrosomonas europaea from Nitrosomonas eu
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -924,12 +936,13 @@ GIRK2 (Kir3.2) is a G Rh Protein from Nitrosomonas europaea from Nitrosomonas eu
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAKRK</span><span class="topo-outside">IQRYVRKDGKCNVHH</span><span class="topo-unknown">GNVRET</span><span class="topo-outside">YRYL</span><span class="topo-membrane">TDIFTTLVDLKWRFNLLIFVMVYTVTWLFF</span></span>
-<span class="topo-line"><span class="topo-membrane">GMIWWLI</span><span class="topo-inside">AYIRG</span><span class="topo-unknown">DMDHIEDPSWTP</span><span class="topo-inside">CVTNLNGFVSA</span><span class="topo-unknown">FLFSIETETTIGY</span><span class="topo-inside">GYRVITDKCP</span><span class="topo-membrane">EG</span></span>
-<span class="topo-line"><span class="topo-membrane">IILLLIQSVLGSIVNAFMVGCMFVKISQ</span><span class="topo-unknown">PKKRAET</span><span class="topo-outside">LVFSTHAVISMRDGKLCLMFRVGDL</span></span>
-<span class="topo-line"><span class="topo-outside">RNSHIVEASIRAKLIKSKQTSEGEFIPLNQTDINVGYYTGDDRLFLVSPLIISHEINQQS</span></span>
-<span class="topo-line"><span class="topo-outside">PFWEISKAQLPKEELEIVVILEGMVEATGMTCQARSSYITSEILWGYRFTPVLTLEDGFY</span></span>
-<span class="topo-line"><span class="topo-outside">EVDYNSFHETYETSTPSLSAKELAELANRAES</span><span class="topo-unknown">NSLEVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAKRK</span><span class="topo-outside">IQRYVRKDGKCNVHH</span><span class="topo-unknown">GNVRET</span><span class="topo-outside">YRYL</span><span class="topo-membrane">TDIFTTLVDLKWRFNLLIFVMVYTVTWLFFGMIWWLI</span><span class="topo-inside">AYIRG</span><span class="topo-unknown">DMDHIEDPSWTP</span><span class="topo-inside">CVTNLNGFVSA</span><span class="topo-unknown">FLFSIETETTIGY</span><span class="topo-inside">GYRVITDKCP</span><span class="topo-membrane">EG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">IILLLIQSVLGSIVNAFMVGCMFVKISQ</span><span class="topo-unknown">PKKRAET</span><span class="topo-outside">LVFSTHAVISMRDGKLCLMFRVGDLRNSHIVEASIRAKLIKSKQTSEGEFIPLNQTDINVGYYTGDDRLFLVSPLIISHEINQQS</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340</span>
+<span class="topo-line"><span class="topo-outside">PFWEISKAQLPKEELEIVVILEGMVEATGMTCQARSSYITSEILWGYRFTPVLTLEDGFYEVDYNSFHETYETSTPSLSAKELAELANRAES</span><span class="topo-unknown">NSLEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (14 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1039,6 +1052,7 @@ GIRK2 (Kir3.2) is a G Rh Protein from Nitrosomonas europaea from Nitrosomonas eu
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1054,12 +1068,13 @@ GIRK2 (Kir3.2) is a G Rh Protein from Nitrosomonas europaea from Nitrosomonas eu
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAKRK</span><span class="topo-outside">IQRYVRKDGKCNVHH</span><span class="topo-unknown">GNVRET</span><span class="topo-outside">YRYL</span><span class="topo-membrane">TDIFTTLVDLKWRFNLLIFVMVYTVTWLFF</span></span>
-<span class="topo-line"><span class="topo-membrane">GMIWWLI</span><span class="topo-inside">AYIRG</span><span class="topo-unknown">DMDHIEDPSWTP</span><span class="topo-inside">CVTNLNGFVSA</span><span class="topo-unknown">FLFSIETETTIGY</span><span class="topo-inside">GYRVITDKCP</span><span class="topo-membrane">EG</span></span>
-<span class="topo-line"><span class="topo-membrane">IILLLIQSVLGSIVNAFMVGCMFVKISQ</span><span class="topo-unknown">PKKRAET</span><span class="topo-outside">LVFSTHAVISMRDGKLCLMFRVGDL</span></span>
-<span class="topo-line"><span class="topo-outside">RNSHIVEASIRAKLIKSKQTSEGEFIPLNQTDINVGYYTGDDRLFLVSPLIISHEINQQS</span></span>
-<span class="topo-line"><span class="topo-outside">PFWEISKAQLPKEELEIVVILEGMVEATGMTCQARSSYITSEILWGYRFTPVLTLEDGFY</span></span>
-<span class="topo-line"><span class="topo-outside">EVDYNSFHETYETSTPSLSAKELAELANRAES</span><span class="topo-unknown">NSLEVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAKRK</span><span class="topo-outside">IQRYVRKDGKCNVHH</span><span class="topo-unknown">GNVRET</span><span class="topo-outside">YRYL</span><span class="topo-membrane">TDIFTTLVDLKWRFNLLIFVMVYTVTWLFFGMIWWLI</span><span class="topo-inside">AYIRG</span><span class="topo-unknown">DMDHIEDPSWTP</span><span class="topo-inside">CVTNLNGFVSA</span><span class="topo-unknown">FLFSIETETTIGY</span><span class="topo-inside">GYRVITDKCP</span><span class="topo-membrane">EG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">IILLLIQSVLGSIVNAFMVGCMFVKISQ</span><span class="topo-unknown">PKKRAET</span><span class="topo-outside">LVFSTHAVISMRDGKLCLMFRVGDLRNSHIVEASIRAKLIKSKQTSEGEFIPLNQTDINVGYYTGDDRLFLVSPLIISHEINQQS</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340</span>
+<span class="topo-line"><span class="topo-outside">PFWEISKAQLPKEELEIVVILEGMVEATGMTCQARSSYITSEILWGYRFTPVLTLEDGFYEVDYNSFHETYETSTPSLSAKELAELANRAES</span><span class="topo-unknown">NSLEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (14 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1169,6 +1184,7 @@ GIRK2 (Kir3.2) is a G Rh Protein from Nitrosomonas europaea from Nitrosomonas eu
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1184,12 +1200,13 @@ GIRK2 (Kir3.2) is a G Rh Protein from Nitrosomonas europaea from Nitrosomonas eu
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAKRK</span><span class="topo-outside">IQRYVRKDGKCNVHH</span><span class="topo-unknown">GNVRET</span><span class="topo-outside">YRYL</span><span class="topo-membrane">TDIFTTLVDLKWRFNLLIFVMVYTVTWLFF</span></span>
-<span class="topo-line"><span class="topo-membrane">GMIWWLI</span><span class="topo-inside">AYIRG</span><span class="topo-unknown">DMDHIEDPSWTP</span><span class="topo-inside">CVTNLNGFVSA</span><span class="topo-unknown">FLFSIETETTIGY</span><span class="topo-inside">GYRVITDKCP</span><span class="topo-membrane">EG</span></span>
-<span class="topo-line"><span class="topo-membrane">IILLLIQSVLGSIVNAFMVGCMFVKISQ</span><span class="topo-unknown">PKKRAET</span><span class="topo-outside">LVFSTHAVISMRDGKLCLMFRVGDL</span></span>
-<span class="topo-line"><span class="topo-outside">RNSHIVEASIRAKLIKSKQTSEGEFIPLNQTDINVGYYTGDDRLFLVSPLIISHEINQQS</span></span>
-<span class="topo-line"><span class="topo-outside">PFWEISKAQLPKEELEIVVILEGMVEATGMTCQARSSYITSEILWGYRFTPVLTLEDGFY</span></span>
-<span class="topo-line"><span class="topo-outside">EVDYNSFHETYETSTPSLSAKELAELANRAES</span><span class="topo-unknown">NSLEVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAKRK</span><span class="topo-outside">IQRYVRKDGKCNVHH</span><span class="topo-unknown">GNVRET</span><span class="topo-outside">YRYL</span><span class="topo-membrane">TDIFTTLVDLKWRFNLLIFVMVYTVTWLFFGMIWWLI</span><span class="topo-inside">AYIRG</span><span class="topo-unknown">DMDHIEDPSWTP</span><span class="topo-inside">CVTNLNGFVSA</span><span class="topo-unknown">FLFSIETETTIGY</span><span class="topo-inside">GYRVITDKCP</span><span class="topo-membrane">EG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">IILLLIQSVLGSIVNAFMVGCMFVKISQ</span><span class="topo-unknown">PKKRAET</span><span class="topo-outside">LVFSTHAVISMRDGKLCLMFRVGDLRNSHIVEASIRAKLIKSKQTSEGEFIPLNQTDINVGYYTGDDRLFLVSPLIISHEINQQS</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340</span>
+<span class="topo-line"><span class="topo-outside">PFWEISKAQLPKEELEIVVILEGMVEATGMTCQARSSYITSEILWGYRFTPVLTLEDGFYEVDYNSFHETYETSTPSLSAKELAELANRAES</span><span class="topo-unknown">NSLEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (14 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1299,6 +1316,7 @@ GIRK2 (Kir3.2) is a G Rh Protein from Nitrosomonas europaea from Nitrosomonas eu
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1314,12 +1332,13 @@ GIRK2 (Kir3.2) is a G Rh Protein from Nitrosomonas europaea from Nitrosomonas eu
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAKRK</span><span class="topo-outside">IQRYVRKDGKCNVHH</span><span class="topo-unknown">GNVRET</span><span class="topo-outside">YRYL</span><span class="topo-membrane">TDIFTTLVDLKWRFNLLIFVMVYTVTWLFF</span></span>
-<span class="topo-line"><span class="topo-membrane">GMIWWLI</span><span class="topo-inside">AYIRG</span><span class="topo-unknown">DMDHIEDPSWTP</span><span class="topo-inside">CVTNLNGFVSA</span><span class="topo-unknown">FLFSIETETTIGY</span><span class="topo-inside">GYRVITDKCP</span><span class="topo-membrane">EG</span></span>
-<span class="topo-line"><span class="topo-membrane">IILLLIQSVLGSIVNAFMVGCMFVKISQ</span><span class="topo-unknown">PKKRAET</span><span class="topo-outside">LVFSTHAVISMRDGKLCLMFRVGDL</span></span>
-<span class="topo-line"><span class="topo-outside">RNSHIVEASIRAKLIKSKQTSEGEFIPLNQTDINVGYYTGDDRLFLVSPLIISHEINQQS</span></span>
-<span class="topo-line"><span class="topo-outside">PFWEISKAQLPKEELEIVVILEGMVEATGMTCQARSSYITSEILWGYRFTPVLTLEDGFY</span></span>
-<span class="topo-line"><span class="topo-outside">EVDYNSFHETYETSTPSLSAKELAELANRAES</span><span class="topo-unknown">NSLEVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAKRK</span><span class="topo-outside">IQRYVRKDGKCNVHH</span><span class="topo-unknown">GNVRET</span><span class="topo-outside">YRYL</span><span class="topo-membrane">TDIFTTLVDLKWRFNLLIFVMVYTVTWLFFGMIWWLI</span><span class="topo-inside">AYIRG</span><span class="topo-unknown">DMDHIEDPSWTP</span><span class="topo-inside">CVTNLNGFVSA</span><span class="topo-unknown">FLFSIETETTIGY</span><span class="topo-inside">GYRVITDKCP</span><span class="topo-membrane">EG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">IILLLIQSVLGSIVNAFMVGCMFVKISQ</span><span class="topo-unknown">PKKRAET</span><span class="topo-outside">LVFSTHAVISMRDGKLCLMFRVGDLRNSHIVEASIRAKLIKSKQTSEGEFIPLNQTDINVGYYTGDDRLFLVSPLIISHEINQQS</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340</span>
+<span class="topo-line"><span class="topo-outside">PFWEISKAQLPKEELEIVVILEGMVEATGMTCQARSSYITSEILWGYRFTPVLTLEDGFYEVDYNSFHETYETSTPSLSAKELAELANRAES</span><span class="topo-unknown">NSLEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (14 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1429,6 +1448,7 @@ GIRK2 (Kir3.2) is a G Rh Protein from Nitrosomonas europaea from Nitrosomonas eu
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1444,12 +1464,13 @@ GIRK2 (Kir3.2) is a G Rh Protein from Nitrosomonas europaea from Nitrosomonas eu
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAKRK</span><span class="topo-outside">IQRYVRKDGKCNVHH</span><span class="topo-unknown">GNVRET</span><span class="topo-outside">YRYL</span><span class="topo-membrane">TDIFTTLVDLKWRFNLLIFVMVYTVTWLFF</span></span>
-<span class="topo-line"><span class="topo-membrane">GMIWWLI</span><span class="topo-inside">AYIRG</span><span class="topo-unknown">DMDHIEDPSWTP</span><span class="topo-inside">CVTNLNGFVSA</span><span class="topo-unknown">FLFSIETETTIGY</span><span class="topo-inside">GYRVITDKCP</span><span class="topo-membrane">EG</span></span>
-<span class="topo-line"><span class="topo-membrane">IILLLIQSVLGSIVNAFMVGCMFVKISQ</span><span class="topo-unknown">PKKRAET</span><span class="topo-outside">LVFSTHAVISMRDGKLCLMFRVGDL</span></span>
-<span class="topo-line"><span class="topo-outside">RNSHIVEASIRAKLIKSKQTSEGEFIPLNQTDINVGYYTGDDRLFLVSPLIISHEINQQS</span></span>
-<span class="topo-line"><span class="topo-outside">PFWEISKAQLPKEELEIVVILEGMVEATGMTCQARSSYITSEILWGYRFTPVLTLEDGFY</span></span>
-<span class="topo-line"><span class="topo-outside">EVDYNSFHETYETSTPSLSAKELAELANRAES</span><span class="topo-unknown">NSLEVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAKRK</span><span class="topo-outside">IQRYVRKDGKCNVHH</span><span class="topo-unknown">GNVRET</span><span class="topo-outside">YRYL</span><span class="topo-membrane">TDIFTTLVDLKWRFNLLIFVMVYTVTWLFFGMIWWLI</span><span class="topo-inside">AYIRG</span><span class="topo-unknown">DMDHIEDPSWTP</span><span class="topo-inside">CVTNLNGFVSA</span><span class="topo-unknown">FLFSIETETTIGY</span><span class="topo-inside">GYRVITDKCP</span><span class="topo-membrane">EG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">IILLLIQSVLGSIVNAFMVGCMFVKISQ</span><span class="topo-unknown">PKKRAET</span><span class="topo-outside">LVFSTHAVISMRDGKLCLMFRVGDLRNSHIVEASIRAKLIKSKQTSEGEFIPLNQTDINVGYYTGDDRLFLVSPLIISHEINQQS</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340</span>
+<span class="topo-line"><span class="topo-outside">PFWEISKAQLPKEELEIVVILEGMVEATGMTCQARSSYITSEILWGYRFTPVLTLEDGFYEVDYNSFHETYETSTPSLSAKELAELANRAES</span><span class="topo-unknown">NSLEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (14 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1559,6 +1580,7 @@ GIRK2 (Kir3.2) is a G Rh Protein from Nitrosomonas europaea from Nitrosomonas eu
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1574,12 +1596,13 @@ GIRK2 (Kir3.2) is a G Rh Protein from Nitrosomonas europaea from Nitrosomonas eu
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAKRK</span><span class="topo-outside">IQRYVRKDGKCNVHH</span><span class="topo-unknown">GNVRET</span><span class="topo-outside">YRYL</span><span class="topo-membrane">TDIFTTLVDLKWRFNLLIFVMVYTVTWLFF</span></span>
-<span class="topo-line"><span class="topo-membrane">GMIWWLI</span><span class="topo-inside">AYIRG</span><span class="topo-unknown">DMDHIEDPSWTP</span><span class="topo-inside">CVTNLNGFVSA</span><span class="topo-unknown">FLFSIETETTIGY</span><span class="topo-inside">GYRVITDKCP</span><span class="topo-membrane">EG</span></span>
-<span class="topo-line"><span class="topo-membrane">IILLLIQSVLGSIVNAFMVGCMFVKISQ</span><span class="topo-unknown">PKKRAET</span><span class="topo-outside">LVFSTHAVISMRDGKLCLMFRVGDL</span></span>
-<span class="topo-line"><span class="topo-outside">RNSHIVEASIRAKLIKSKQTSEGEFIPLNQTDINVGYYTGDDRLFLVSPLIISHEINQQS</span></span>
-<span class="topo-line"><span class="topo-outside">PFWEISKAQLPKEELEIVVILEGMVEATGMTCQARSSYITSEILWGYRFTPVLTLEDGFY</span></span>
-<span class="topo-line"><span class="topo-outside">EVDYNSFHETYETSTPSLSAKELAELANRAES</span><span class="topo-unknown">NSLEVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAKRK</span><span class="topo-outside">IQRYVRKDGKCNVHH</span><span class="topo-unknown">GNVRET</span><span class="topo-outside">YRYL</span><span class="topo-membrane">TDIFTTLVDLKWRFNLLIFVMVYTVTWLFFGMIWWLI</span><span class="topo-inside">AYIRG</span><span class="topo-unknown">DMDHIEDPSWTP</span><span class="topo-inside">CVTNLNGFVSA</span><span class="topo-unknown">FLFSIETETTIGY</span><span class="topo-inside">GYRVITDKCP</span><span class="topo-membrane">EG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">IILLLIQSVLGSIVNAFMVGCMFVKISQ</span><span class="topo-unknown">PKKRAET</span><span class="topo-outside">LVFSTHAVISMRDGKLCLMFRVGDLRNSHIVEASIRAKLIKSKQTSEGEFIPLNQTDINVGYYTGDDRLFLVSPLIISHEINQQS</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340</span>
+<span class="topo-line"><span class="topo-outside">PFWEISKAQLPKEELEIVVILEGMVEATGMTCQARSSYITSEILWGYRFTPVLTLEDGFYEVDYNSFHETYETSTPSLSAKELAELANRAES</span><span class="topo-unknown">NSLEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (14 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1689,6 +1712,7 @@ GIRK2 (Kir3.2) is a G Rh Protein from Nitrosomonas europaea from Nitrosomonas eu
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1763,12 +1787,13 @@ GIRK2 (Kir3.2) is a G Rh Protein from Nitrosomonas europaea from Nitrosomonas eu
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAKRK</span><span class="topo-outside">IQRYVRKDGKCNVHHGNVRETYRYLTD</span><span class="topo-unknown">IFTTLVD</span><span class="topo-outside">LK</span><span class="topo-membrane">WRFNLLIFVMVYTVTWLFF</span></span>
-<span class="topo-line"><span class="topo-membrane">GMIWWLIA</span><span class="topo-inside">YIRGDMDHIEDPSWTPCVTNLNGF</span><span class="topo-unknown">VSAFLFSIETETTIGYG</span><span class="topo-inside">YRVITDKC</span><span class="topo-membrane">PEG</span></span>
-<span class="topo-line"><span class="topo-membrane">IILLLIQSVLGSIVNAFMVGCMF</span><span class="topo-outside">VKISQPKKRAETLVFSTHAVISMRDGKLCLMFRVGDL</span></span>
-<span class="topo-line"><span class="topo-outside">RNSHIVEASIRAKLIKSKQTSEGEFIPLNQTDINVGYYTGDDRLFLVSPLIISHEINQQS</span></span>
-<span class="topo-line"><span class="topo-outside">PFWEISKAQLPKEELEIVVILEGMVEATGMTCQARSSYITSEILWGYRFTPVLTLEDGFY</span></span>
-<span class="topo-line"><span class="topo-outside">EVDYNSFHETYETSTPSLSAKELAELANRAESN</span><span class="topo-unknown">SLEVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAKRK</span><span class="topo-outside">IQRYVRKDGKCNVHHGNVRETYRYLTD</span><span class="topo-unknown">IFTTLVD</span><span class="topo-outside">LK</span><span class="topo-membrane">WRFNLLIFVMVYTVTWLFFGMIWWLIA</span><span class="topo-inside">YIRGDMDHIEDPSWTPCVTNLNGF</span><span class="topo-unknown">VSAFLFSIETETTIGYG</span><span class="topo-inside">YRVITDKC</span><span class="topo-membrane">PEG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">IILLLIQSVLGSIVNAFMVGCMF</span><span class="topo-outside">VKISQPKKRAETLVFSTHAVISMRDGKLCLMFRVGDLRNSHIVEASIRAKLIKSKQTSEGEFIPLNQTDINVGYYTGDDRLFLVSPLIISHEINQQS</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340</span>
+<span class="topo-line"><span class="topo-outside">PFWEISKAQLPKEELEIVVILEGMVEATGMTCQARSSYITSEILWGYRFTPVLTLEDGFYEVDYNSFHETYETSTPSLSAKELAELANRAESN</span><span class="topo-unknown">SLEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1857,6 +1882,7 @@ GIRK2 (Kir3.2) is a G Rh Protein from Nitrosomonas europaea from Nitrosomonas eu
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1872,12 +1898,13 @@ GIRK2 (Kir3.2) is a G Rh Protein from Nitrosomonas europaea from Nitrosomonas eu
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">SELDQLRQEAEQLKNQIRDARKACADATLSQITNNIDPVGRIQMRTRRTLRGHLAKIYA</span></span>
-<span class="topo-line"><span class="topo-outside">MHWGTDSRLLVSASQDGKLIIWDSYTTNKVHAIPLRSSWVMTCAYAPSGNYVACGGLDNI</span></span>
-<span class="topo-line"><span class="topo-outside">CSIYNLKTREGNVRVSRELAGHTGYLSCCRFLDDNQIVTSSGDTTCALWDIETGQQTTTF</span></span>
-<span class="topo-line"><span class="topo-outside">TGHTGDVMSLSLAPDTRLFVSGACDASAKLWDVREGMCRQTFTGHESDINAICFFPNGNA</span></span>
-<span class="topo-line"><span class="topo-outside">FATGSDDATCRLFDLRADQELMTYSHDNIICGITSVSFSKSGRLLLAGYDDFNCNVWDAL</span></span>
-<span class="topo-line"><span class="topo-outside">KADRAGVLAGHDNRVSCLGVTDDGMAVATGSWDSFLKIWN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">SELDQLRQEAEQLKNQIRDARKACADATLSQITNNIDPVGRIQMRTRRTLRGHLAKIYAMHWGTDSRLLVSASQDGKLIIWDSYTTNKVHAIPLRSSWVMTCAYAPSGNYVACGGLDNI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">CSIYNLKTREGNVRVSRELAGHTGYLSCCRFLDDNQIVTSSGDTTCALWDIETGQQTTTFTGHTGDVMSLSLAPDTRLFVSGACDASAKLWDVREGMCRQTFTGHESDINAICFFPNGNA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340</span>
+<span class="topo-line"><span class="topo-outside">FATGSDDATCRLFDLRADQELMTYSHDNIICGITSVSFSKSGRLLLAGYDDFNCNVWDALKADRAGVLAGHDNRVSCLGVTDDGMAVATGSWDSFLKIWN</span></span>
+<details class="topo-details"><summary>Topology coordinates (2 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1903,6 +1930,7 @@ GIRK2 (Kir3.2) is a G Rh Protein from Nitrosomonas europaea from Nitrosomonas eu
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1918,8 +1946,9 @@ GIRK2 (Kir3.2) is a G Rh Protein from Nitrosomonas europaea from Nitrosomonas eu
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GPMASNNTA</span><span class="topo-outside">SIAQARKLVEQLKMEANIDRIKVSKAAADLMAYCEAHAKEDPLLTPVPASE</span></span>
-<span class="topo-line"><span class="topo-outside">NPFREKKFF</span><span class="topo-unknown">C</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70</span>
+<span class="topo-line"><span class="topo-unknown">GPMASNNTA</span><span class="topo-outside">SIAQARKLVEQLKMEANIDRIKVSKAAADLMAYCEAHAKEDPLLTPVPASENPFREKKFF</span><span class="topo-unknown">C</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1952,6 +1981,7 @@ GIRK2 (Kir3.2) is a G Rh Protein from Nitrosomonas europaea from Nitrosomonas eu
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1967,12 +1997,13 @@ GIRK2 (Kir3.2) is a G Rh Protein from Nitrosomonas europaea from Nitrosomonas eu
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAKRK</span><span class="topo-outside">IQRYVRKDGKCNVHHGNVRETYRYLTD</span><span class="topo-unknown">IFTTLVD</span><span class="topo-outside">LK</span><span class="topo-membrane">WRFNLLIFVMVYTVTWLFF</span></span>
-<span class="topo-line"><span class="topo-membrane">GMIWWLIA</span><span class="topo-inside">YIRGDMDHIEDPSWTPCVTNLNGF</span><span class="topo-unknown">VSAFLFSIETETTIGYG</span><span class="topo-inside">YRVITDKC</span><span class="topo-membrane">PEG</span></span>
-<span class="topo-line"><span class="topo-membrane">IILLLIQSVLGSIVNAFMVGCMF</span><span class="topo-outside">VKISQPKKRAETLVFSTHAVISMRDGKLCLMFRVGDL</span></span>
-<span class="topo-line"><span class="topo-outside">RNSHIVEASIRAKLIKSKQTSEGEFIPLNQTDINVGYYTGDDRLFLVSPLIISHEINQQS</span></span>
-<span class="topo-line"><span class="topo-outside">PFWEISKAQLPKEELEIVVILEGMVEATGMTCQARSSYITSEILWGYRFTPVLTLEDGFY</span></span>
-<span class="topo-line"><span class="topo-outside">EVDYNSFHETYETSTPSLSAKELAELANRAESN</span><span class="topo-unknown">SLEVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAKRK</span><span class="topo-outside">IQRYVRKDGKCNVHHGNVRETYRYLTD</span><span class="topo-unknown">IFTTLVD</span><span class="topo-outside">LK</span><span class="topo-membrane">WRFNLLIFVMVYTVTWLFFGMIWWLIA</span><span class="topo-inside">YIRGDMDHIEDPSWTPCVTNLNGF</span><span class="topo-unknown">VSAFLFSIETETTIGYG</span><span class="topo-inside">YRVITDKC</span><span class="topo-membrane">PEG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">IILLLIQSVLGSIVNAFMVGCMF</span><span class="topo-outside">VKISQPKKRAETLVFSTHAVISMRDGKLCLMFRVGDLRNSHIVEASIRAKLIKSKQTSEGEFIPLNQTDINVGYYTGDDRLFLVSPLIISHEINQQS</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340</span>
+<span class="topo-line"><span class="topo-outside">PFWEISKAQLPKEELEIVVILEGMVEATGMTCQARSSYITSEILWGYRFTPVLTLEDGFYEVDYNSFHETYETSTPSLSAKELAELANRAESN</span><span class="topo-unknown">SLEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2061,6 +2092,7 @@ GIRK2 (Kir3.2) is a G Rh Protein from Nitrosomonas europaea from Nitrosomonas eu
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2076,12 +2108,13 @@ GIRK2 (Kir3.2) is a G Rh Protein from Nitrosomonas europaea from Nitrosomonas eu
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">SELDQLRQEAEQLKNQIRDARKACADATLSQITNNIDPVGRIQMRTRRTLRGHLAKIYA</span></span>
-<span class="topo-line"><span class="topo-outside">MHWGTDSRLLVSASQDGKLIIWDSYTTNKVHAIPLRSSWVMTCAYAPSGNYVACGGLDNI</span></span>
-<span class="topo-line"><span class="topo-outside">CSIYNLKTREGNVRVSRELAGHTGYLSCCRFLDDNQIVTSSGDTTCALWDIETGQQTTTF</span></span>
-<span class="topo-line"><span class="topo-outside">TGHTGDVMSLSLAPDTRLFVSGACDASAKLWDVREGMCRQTFTGHESDINAICFFPNGNA</span></span>
-<span class="topo-line"><span class="topo-outside">FATGSDDATCRLFDLRADQELMTYSHDNIICGITSVSFSKSGRLLLAGYDDFNCNVWDAL</span></span>
-<span class="topo-line"><span class="topo-outside">KADRAGVLAGHDNRVSCLGVTDDGMAVATGSWDSFLKIWN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">SELDQLRQEAEQLKNQIRDARKACADATLSQITNNIDPVGRIQMRTRRTLRGHLAKIYAMHWGTDSRLLVSASQDGKLIIWDSYTTNKVHAIPLRSSWVMTCAYAPSGNYVACGGLDNI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">CSIYNLKTREGNVRVSRELAGHTGYLSCCRFLDDNQIVTSSGDTTCALWDIETGQQTTTFTGHTGDVMSLSLAPDTRLFVSGACDASAKLWDVREGMCRQTFTGHESDINAICFFPNGNA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340</span>
+<span class="topo-line"><span class="topo-outside">FATGSDDATCRLFDLRADQELMTYSHDNIICGITSVSFSKSGRLLLAGYDDFNCNVWDALKADRAGVLAGHDNRVSCLGVTDDGMAVATGSWDSFLKIWN</span></span>
+<details class="topo-details"><summary>Topology coordinates (2 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2107,6 +2140,7 @@ GIRK2 (Kir3.2) is a G Rh Protein from Nitrosomonas europaea from Nitrosomonas eu
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2122,8 +2156,9 @@ GIRK2 (Kir3.2) is a G Rh Protein from Nitrosomonas europaea from Nitrosomonas eu
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GPMASNNTA</span><span class="topo-outside">SIAQARKLVEQLKMEANIDRIKVSKAAADLMAYCEAHAKEDPLLTPVPASE</span></span>
-<span class="topo-line"><span class="topo-outside">NPFREKKFF</span><span class="topo-unknown">C</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70</span>
+<span class="topo-line"><span class="topo-unknown">GPMASNNTA</span><span class="topo-outside">SIAQARKLVEQLKMEANIDRIKVSKAAADLMAYCEAHAKEDPLLTPVPASENPFREKKFF</span><span class="topo-unknown">C</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2156,6 +2191,7 @@ GIRK2 (Kir3.2) is a G Rh Protein from Nitrosomonas europaea from Nitrosomonas eu
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2171,12 +2207,13 @@ GIRK2 (Kir3.2) is a G Rh Protein from Nitrosomonas europaea from Nitrosomonas eu
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAKRK</span><span class="topo-outside">IQRYVRKDGKCNVHHGNVRETYRYLTD</span><span class="topo-unknown">IFTTLVD</span><span class="topo-outside">LK</span><span class="topo-membrane">WRFNLLIFVMVYTVTWLFF</span></span>
-<span class="topo-line"><span class="topo-membrane">GMIWWLIA</span><span class="topo-inside">YIRGDMDHIEDPSWTPCVTNLNGF</span><span class="topo-unknown">VSAFLFSIETETTIGYG</span><span class="topo-inside">YRVITDKC</span><span class="topo-membrane">PEG</span></span>
-<span class="topo-line"><span class="topo-membrane">IILLLIQSVLGSIVNAFMVGCMF</span><span class="topo-outside">VKISQPKKRAETLVFSTHAVISMRDGKLCLMFRVGDL</span></span>
-<span class="topo-line"><span class="topo-outside">RNSHIVEASIRAKLIKSKQTSEGEFIPLNQTDINVGYYTGDDRLFLVSPLIISHEINQQS</span></span>
-<span class="topo-line"><span class="topo-outside">PFWEISKAQLPKEELEIVVILEGMVEATGMTCQARSSYITSEILWGYRFTPVLTLEDGFY</span></span>
-<span class="topo-line"><span class="topo-outside">EVDYNSFHETYETSTPSLSAKELAELANRAESN</span><span class="topo-unknown">SLEVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAKRK</span><span class="topo-outside">IQRYVRKDGKCNVHHGNVRETYRYLTD</span><span class="topo-unknown">IFTTLVD</span><span class="topo-outside">LK</span><span class="topo-membrane">WRFNLLIFVMVYTVTWLFFGMIWWLIA</span><span class="topo-inside">YIRGDMDHIEDPSWTPCVTNLNGF</span><span class="topo-unknown">VSAFLFSIETETTIGYG</span><span class="topo-inside">YRVITDKC</span><span class="topo-membrane">PEG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">IILLLIQSVLGSIVNAFMVGCMF</span><span class="topo-outside">VKISQPKKRAETLVFSTHAVISMRDGKLCLMFRVGDLRNSHIVEASIRAKLIKSKQTSEGEFIPLNQTDINVGYYTGDDRLFLVSPLIISHEINQQS</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340</span>
+<span class="topo-line"><span class="topo-outside">PFWEISKAQLPKEELEIVVILEGMVEATGMTCQARSSYITSEILWGYRFTPVLTLEDGFYEVDYNSFHETYETSTPSLSAKELAELANRAESN</span><span class="topo-unknown">SLEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2265,6 +2302,7 @@ GIRK2 (Kir3.2) is a G Rh Protein from Nitrosomonas europaea from Nitrosomonas eu
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2280,12 +2318,13 @@ GIRK2 (Kir3.2) is a G Rh Protein from Nitrosomonas europaea from Nitrosomonas eu
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">SELDQLRQEAEQLKNQIRDARKACADATLSQITNNIDPVGRIQMRTRRTLRGHLAKIYA</span></span>
-<span class="topo-line"><span class="topo-outside">MHWGTDSRLLVSASQDGKLIIWDSYTTNKVHAIPLRSSWVMTCAYAPSGNYVACGGLDNI</span></span>
-<span class="topo-line"><span class="topo-outside">CSIYNLKTREGNVRVSRELAGHTGYLSCCRFLDDNQIVTSSGDTTCALWDIETGQQTTTF</span></span>
-<span class="topo-line"><span class="topo-outside">TGHTGDVMSLSLAPDTRLFVSGACDASAKLWDVREGMCRQTFTGHESDINAICFFPNGNA</span></span>
-<span class="topo-line"><span class="topo-outside">FATGSDDATCRLFDLRADQELMTYSHDNIICGITSVSFSKSGRLLLAGYDDFNCNVWDAL</span></span>
-<span class="topo-line"><span class="topo-outside">KADRAGVLAGHDNRVSCLGVTDDGMAVATGSWDSFLKIWN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">SELDQLRQEAEQLKNQIRDARKACADATLSQITNNIDPVGRIQMRTRRTLRGHLAKIYAMHWGTDSRLLVSASQDGKLIIWDSYTTNKVHAIPLRSSWVMTCAYAPSGNYVACGGLDNI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">CSIYNLKTREGNVRVSRELAGHTGYLSCCRFLDDNQIVTSSGDTTCALWDIETGQQTTTFTGHTGDVMSLSLAPDTRLFVSGACDASAKLWDVREGMCRQTFTGHESDINAICFFPNGNA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340</span>
+<span class="topo-line"><span class="topo-outside">FATGSDDATCRLFDLRADQELMTYSHDNIICGITSVSFSKSGRLLLAGYDDFNCNVWDALKADRAGVLAGHDNRVSCLGVTDDGMAVATGSWDSFLKIWN</span></span>
+<details class="topo-details"><summary>Topology coordinates (2 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2311,6 +2350,7 @@ GIRK2 (Kir3.2) is a G Rh Protein from Nitrosomonas europaea from Nitrosomonas eu
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2326,8 +2366,9 @@ GIRK2 (Kir3.2) is a G Rh Protein from Nitrosomonas europaea from Nitrosomonas eu
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GPMASNNTA</span><span class="topo-outside">SIAQARKLVEQLKMEANIDRIKVSKAAADLMAYCEAHAKEDPLLTPVPASE</span></span>
-<span class="topo-line"><span class="topo-outside">NPFREKKFF</span><span class="topo-unknown">C</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70</span>
+<span class="topo-line"><span class="topo-unknown">GPMASNNTA</span><span class="topo-outside">SIAQARKLVEQLKMEANIDRIKVSKAAADLMAYCEAHAKEDPLLTPVPASENPFREKKFF</span><span class="topo-unknown">C</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2360,6 +2401,7 @@ GIRK2 (Kir3.2) is a G Rh Protein from Nitrosomonas europaea from Nitrosomonas eu
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2375,12 +2417,13 @@ GIRK2 (Kir3.2) is a G Rh Protein from Nitrosomonas europaea from Nitrosomonas eu
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAKRK</span><span class="topo-outside">IQRYVRKDGKCNVHHGNVRETYRYLTD</span><span class="topo-unknown">IFTTLVD</span><span class="topo-outside">LK</span><span class="topo-membrane">WRFNLLIFVMVYTVTWLFF</span></span>
-<span class="topo-line"><span class="topo-membrane">GMIWWLIA</span><span class="topo-inside">YIRGDMDHIEDPSWTPCVTNLNGF</span><span class="topo-unknown">VSAFLFSIETETTIGYG</span><span class="topo-inside">YRVITDKC</span><span class="topo-membrane">PEG</span></span>
-<span class="topo-line"><span class="topo-membrane">IILLLIQSVLGSIVNAFMVGCMF</span><span class="topo-outside">VKISQPKKRAETLVFSTHAVISMRDGKLCLMFRVGDL</span></span>
-<span class="topo-line"><span class="topo-outside">RNSHIVEASIRAKLIKSKQTSEGEFIPLNQTDINVGYYTGDDRLFLVSPLIISHEINQQS</span></span>
-<span class="topo-line"><span class="topo-outside">PFWEISKAQLPKEELEIVVILEGMVEATGMTCQARSSYITSEILWGYRFTPVLTLEDGFY</span></span>
-<span class="topo-line"><span class="topo-outside">EVDYNSFHETYETSTPSLSAKELAELANRAESN</span><span class="topo-unknown">SLEVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAKRK</span><span class="topo-outside">IQRYVRKDGKCNVHHGNVRETYRYLTD</span><span class="topo-unknown">IFTTLVD</span><span class="topo-outside">LK</span><span class="topo-membrane">WRFNLLIFVMVYTVTWLFFGMIWWLIA</span><span class="topo-inside">YIRGDMDHIEDPSWTPCVTNLNGF</span><span class="topo-unknown">VSAFLFSIETETTIGYG</span><span class="topo-inside">YRVITDKC</span><span class="topo-membrane">PEG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">IILLLIQSVLGSIVNAFMVGCMF</span><span class="topo-outside">VKISQPKKRAETLVFSTHAVISMRDGKLCLMFRVGDLRNSHIVEASIRAKLIKSKQTSEGEFIPLNQTDINVGYYTGDDRLFLVSPLIISHEINQQS</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340</span>
+<span class="topo-line"><span class="topo-outside">PFWEISKAQLPKEELEIVVILEGMVEATGMTCQARSSYITSEILWGYRFTPVLTLEDGFYEVDYNSFHETYETSTPSLSAKELAELANRAESN</span><span class="topo-unknown">SLEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2469,6 +2512,7 @@ GIRK2 (Kir3.2) is a G Rh Protein from Nitrosomonas europaea from Nitrosomonas eu
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2484,12 +2528,13 @@ GIRK2 (Kir3.2) is a G Rh Protein from Nitrosomonas europaea from Nitrosomonas eu
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">SELDQLRQEAEQLKNQIRDARKACADATLSQITNNIDPVGRIQMRTRRTLRGHLAKIYA</span></span>
-<span class="topo-line"><span class="topo-outside">MHWGTDSRLLVSASQDGKLIIWDSYTTNKVHAIPLRSSWVMTCAYAPSGNYVACGGLDNI</span></span>
-<span class="topo-line"><span class="topo-outside">CSIYNLKTREGNVRVSRELAGHTGYLSCCRFLDDNQIVTSSGDTTCALWDIETGQQTTTF</span></span>
-<span class="topo-line"><span class="topo-outside">TGHTGDVMSLSLAPDTRLFVSGACDASAKLWDVREGMCRQTFTGHESDINAICFFPNGNA</span></span>
-<span class="topo-line"><span class="topo-outside">FATGSDDATCRLFDLRADQELMTYSHDNIICGITSVSFSKSGRLLLAGYDDFNCNVWDAL</span></span>
-<span class="topo-line"><span class="topo-outside">KADRAGVLAGHDNRVSCLGVTDDGMAVATGSWDSFLKIWN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">SELDQLRQEAEQLKNQIRDARKACADATLSQITNNIDPVGRIQMRTRRTLRGHLAKIYAMHWGTDSRLLVSASQDGKLIIWDSYTTNKVHAIPLRSSWVMTCAYAPSGNYVACGGLDNI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">CSIYNLKTREGNVRVSRELAGHTGYLSCCRFLDDNQIVTSSGDTTCALWDIETGQQTTTFTGHTGDVMSLSLAPDTRLFVSGACDASAKLWDVREGMCRQTFTGHESDINAICFFPNGNA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340</span>
+<span class="topo-line"><span class="topo-outside">FATGSDDATCRLFDLRADQELMTYSHDNIICGITSVSFSKSGRLLLAGYDDFNCNVWDALKADRAGVLAGHDNRVSCLGVTDDGMAVATGSWDSFLKIWN</span></span>
+<details class="topo-details"><summary>Topology coordinates (2 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2515,6 +2560,7 @@ GIRK2 (Kir3.2) is a G Rh Protein from Nitrosomonas europaea from Nitrosomonas eu
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2530,8 +2576,9 @@ GIRK2 (Kir3.2) is a G Rh Protein from Nitrosomonas europaea from Nitrosomonas eu
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GPMASNNTA</span><span class="topo-outside">SIAQARKLVEQLKMEANIDRIKVSKAAADLMAYCEAHAKEDPLLTPVPASE</span></span>
-<span class="topo-line"><span class="topo-outside">NPFREKKFF</span><span class="topo-unknown">C</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70</span>
+<span class="topo-line"><span class="topo-unknown">GPMASNNTA</span><span class="topo-outside">SIAQARKLVEQLKMEANIDRIKVSKAAADLMAYCEAHAKEDPLLTPVPASENPFREKKFF</span><span class="topo-unknown">C</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2564,6 +2611,7 @@ GIRK2 (Kir3.2) is a G Rh Protein from Nitrosomonas europaea from Nitrosomonas eu
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

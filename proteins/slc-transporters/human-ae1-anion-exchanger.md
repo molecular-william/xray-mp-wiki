@@ -141,22 +141,23 @@ Human AE1 (anion exchanger 1, also known as Band 3) is the most abundant membran
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MEELQDDYEDMMEENLEQEEYEDPDIPESQMEEPAAHDTEATATDYHTTSHPGTHKVYVE</span></span>
-<span class="topo-line"><span class="topo-unknown">LQELVMDEKNQELRWMEAARWVQLEENLGENGAWGRPHLSHLTFWSLLELRRVFTKGTVL</span></span>
-<span class="topo-line"><span class="topo-unknown">LDLQETSLAGVANQLLDRFIFEDQIRPQDREELLRALLLKHSHAGELEALGGVKPAVLTR</span></span>
-<span class="topo-line"><span class="topo-unknown">SGDPSQPLLPQHSSLETQLFCEQGDGGTEGHSPSGILEKIPPDSEATLVLVGRADFLEQP</span></span>
-<span class="topo-line"><span class="topo-unknown">VLGFVRLQEAAELEAVELPVPIRFLFVLLGPEAPHIDYTQLGRAAATLMSERVFRIDAYM</span></span>
-<span class="topo-line"><span class="topo-unknown">AQSRGELLHSLEGFLDCSLVLPPTDAPSEQALLSLVPVQRELLRRRYQSSPAKPDSSFYK</span></span>
-<span class="topo-line"><span class="topo-unknown">GLDLNGGPDDPLQQTGQLFG</span><span class="topo-inside">GLVRDIRRRYPYYLSDITDA</span><span class="topo-membrane">FSPQVLAAVIFIYFAALSPA</span></span>
-<span class="topo-line"><span class="topo-outside">ITFGGLLGEKTRNQMGVSEL</span><span class="topo-membrane">LISTAVQGILFALLG</span><span class="topo-inside">AQ</span><span class="topo-membrane">PLLVVGFSGPLLVFE</span><span class="topo-outside">EAFFSFCE</span></span>
-<span class="topo-line"><span class="topo-outside">TNGLEYIVGR</span><span class="topo-membrane">VWIGFWLILLVVLVV</span><span class="topo-inside">AFEGSFLVRFISRYTQEI</span><span class="topo-membrane">FSFLISLIFIYETFSKL</span></span>
-<span class="topo-line"><span class="topo-outside">IKIFQDHPLQKTY</span><span class="topo-unknown">NYNVLMVPKPQGP</span><span class="topo-outside">LPNTALLSL</span><span class="topo-membrane">VLMAGTFFFAMMLRKF</span><span class="topo-inside">KNSSYFPGK</span></span>
-<span class="topo-line"><span class="topo-inside">LRRV</span><span class="topo-membrane">IGDFGVPISILIMVLV</span><span class="topo-outside">DFFIQDTYTQKLSVPDGFKV</span><span class="topo-unknown">SNSSARGW</span><span class="topo-outside">VIHPLGLRSEFP</span></span>
-<span class="topo-line"><span class="topo-outside">IWMM</span><span class="topo-membrane">FASALPALLVFILIFLESQITT</span><span class="topo-inside">LIVSKPERKMVKGSGFHL</span><span class="topo-membrane">DLLLVVGMGGVAALF</span><span class="topo-outside">G</span></span>
-<span class="topo-line"><span class="topo-outside">M</span><span class="topo-membrane">PWLSATTVRSVTHANAL</span><span class="topo-inside">TVM</span><span class="topo-unknown">GKASTPGAAAQ</span><span class="topo-inside">IQEVKEQ</span><span class="topo-membrane">RISGLLVAVLVGLS</span><span class="topo-outside">ILMEPIL</span></span>
-<span class="topo-line"><span class="topo-outside">SRIPLA</span><span class="topo-membrane">VLFGIFLYMGVTSLS</span><span class="topo-inside">GIQLFDRILLLFKPPKYHPDVPYVKRVKTWRMHLFTGIQ</span></span>
-<span class="topo-line"><span class="topo-membrane">IICLAVLWVVKSTP</span><span class="topo-outside">A</span><span class="topo-membrane">SLALPFVLILT</span><span class="topo-inside">VPLRRVLLPLIFRNVELQCLD</span><span class="topo-unknown">ADDAKATFDEEEG</span></span>
-<span class="topo-line"><span class="topo-unknown">RDEYDEVAMPV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MEELQDDYEDMMEENLEQEEYEDPDIPESQMEEPAAHDTEATATDYHTTSHPGTHKVYVELQELVMDEKNQELRWMEAARWVQLEENLGENGAWGRPHLSHLTFWSLLELRRVFTKGTVL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-unknown">LDLQETSLAGVANQLLDRFIFEDQIRPQDREELLRALLLKHSHAGELEALGGVKPAVLTRSGDPSQPLLPQHSSLETQLFCEQGDGGTEGHSPSGILEKIPPDSEATLVLVGRADFLEQP</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-unknown">VLGFVRLQEAAELEAVELPVPIRFLFVLLGPEAPHIDYTQLGRAAATLMSERVFRIDAYMAQSRGELLHSLEGFLDCSLVLPPTDAPSEQALLSLVPVQRELLRRRYQSSPAKPDSSFYK</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-unknown">GLDLNGGPDDPLQQTGQLFG</span><span class="topo-inside">GLVRDIRRRYPYYLSDITDA</span><span class="topo-membrane">FSPQVLAAVIFIYFAALSPA</span><span class="topo-outside">ITFGGLLGEKTRNQMGVSEL</span><span class="topo-membrane">LISTAVQGILFALLG</span><span class="topo-inside">AQ</span><span class="topo-membrane">PLLVVGFSGPLLVFE</span><span class="topo-outside">EAFFSFCE</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">TNGLEYIVGR</span><span class="topo-membrane">VWIGFWLILLVVLVV</span><span class="topo-inside">AFEGSFLVRFISRYTQEI</span><span class="topo-membrane">FSFLISLIFIYETFSKL</span><span class="topo-outside">IKIFQDHPLQKTY</span><span class="topo-unknown">NYNVLMVPKPQGP</span><span class="topo-outside">LPNTALLSL</span><span class="topo-membrane">VLMAGTFFFAMMLRKF</span><span class="topo-inside">KNSSYFPGK</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-inside">LRRV</span><span class="topo-membrane">IGDFGVPISILIMVLV</span><span class="topo-outside">DFFIQDTYTQKLSVPDGFKV</span><span class="topo-unknown">SNSSARGW</span><span class="topo-outside">VIHPLGLRSEFPIWMM</span><span class="topo-membrane">FASALPALLVFILIFLESQITT</span><span class="topo-inside">LIVSKPERKMVKGSGFHL</span><span class="topo-membrane">DLLLVVGMGGVAALF</span><span class="topo-outside">G</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820       830       840</span>
+<span class="topo-line"><span class="topo-outside">M</span><span class="topo-membrane">PWLSATTVRSVTHANAL</span><span class="topo-inside">TVM</span><span class="topo-unknown">GKASTPGAAAQ</span><span class="topo-inside">IQEVKEQ</span><span class="topo-membrane">RISGLLVAVLVGLS</span><span class="topo-outside">ILMEPILSRIPLA</span><span class="topo-membrane">VLFGIFLYMGVTSLS</span><span class="topo-inside">GIQLFDRILLLFKPPKYHPDVPYVKRVKTWRMHLFTGIQ</span></span>
+<span class="topo-ruler">       850       860       870       880       890       900       910 </span>
+<span class="topo-line"><span class="topo-membrane">IICLAVLWVVKSTP</span><span class="topo-outside">A</span><span class="topo-membrane">SLALPFVLILT</span><span class="topo-inside">VPLRRVLLPLIFRNVELQCLD</span><span class="topo-unknown">ADDAKATFDEEEGRDEYDEVAMPV</span></span>
+<details class="topo-details"><summary>Topology coordinates (37 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -427,6 +428,7 @@ Human AE1 (anion exchanger 1, also known as Band 3) is the most abundant membran
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -442,22 +444,23 @@ Human AE1 (anion exchanger 1, also known as Band 3) is the most abundant membran
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MEELQDDYEDMMEENLEQEEYEDPDIPESQMEEPAAHDTEATATDYHTTSHPGTHKVYVE</span></span>
-<span class="topo-line"><span class="topo-unknown">LQELVMDEKNQELRWMEAARWVQLEENLGENGAWGRPHLSHLTFWSLLELRRVFTKGTVL</span></span>
-<span class="topo-line"><span class="topo-unknown">LDLQETSLAGVANQLLDRFIFEDQIRPQDREELLRALLLKHSHAGELEALGGVKPAVLTR</span></span>
-<span class="topo-line"><span class="topo-unknown">SGDPSQPLLPQHSSLETQLFCEQGDGGTEGHSPSGILEKIPPDSEATLVLVGRADFLEQP</span></span>
-<span class="topo-line"><span class="topo-unknown">VLGFVRLQEAAELEAVELPVPIRFLFVLLGPEAPHIDYTQLGRAAATLMSERVFRIDAYM</span></span>
-<span class="topo-line"><span class="topo-unknown">AQSRGELLHSLEGFLDCSLVLPPTDAPSEQALLSLVPVQRELLRRRYQSSPAKPDSSFYK</span></span>
-<span class="topo-line"><span class="topo-unknown">GLDLNGGPDDPLQQTGQLFG</span><span class="topo-inside">GLVRDIRRRYPYYLSDITDAFSP</span><span class="topo-membrane">QVLAAVIFIYFAALSPA</span></span>
-<span class="topo-line"><span class="topo-outside">ITFGGLLGEKTRNQMGVSEL</span><span class="topo-membrane">LISTAVQGILFALLG</span><span class="topo-inside">AQ</span><span class="topo-membrane">PLLVVGFSGPLLVFE</span><span class="topo-outside">EAFFSFCE</span></span>
-<span class="topo-line"><span class="topo-outside">TNGLEYIVGR</span><span class="topo-membrane">VWIGFWLILLVVLVV</span><span class="topo-inside">AFEGSFLVRFISRYTQEI</span><span class="topo-membrane">FSFLISLIFIYETFSKL</span></span>
-<span class="topo-line"><span class="topo-outside">IKIFQDHPLQKTY</span><span class="topo-unknown">NYNVLMVPKPQGP</span><span class="topo-outside">LPNTALLSL</span><span class="topo-membrane">VLMAGTFFFAMMLRKF</span><span class="topo-inside">KNSSYFPGK</span></span>
-<span class="topo-line"><span class="topo-inside">LRRV</span><span class="topo-membrane">IGDFGVPISILIMVLV</span><span class="topo-outside">DFFIQDTYTQKLSVPDGFKV</span><span class="topo-unknown">SNSSARGW</span><span class="topo-outside">VIHPLGLRSEFP</span></span>
-<span class="topo-line"><span class="topo-outside">IWMM</span><span class="topo-membrane">FASALPALLVFILIFLESQITT</span><span class="topo-inside">LIVSKPERKMVKGSGFHL</span><span class="topo-membrane">DLLLVVGMGGVAALF</span><span class="topo-outside">G</span></span>
-<span class="topo-line"><span class="topo-outside">M</span><span class="topo-membrane">PWLSATTVRSVTHANAL</span><span class="topo-inside">TVM</span><span class="topo-unknown">GKASTPGAAAQ</span><span class="topo-inside">IQEVKEQ</span><span class="topo-membrane">RISGLLVAVLVGLS</span><span class="topo-outside">ILMEPIL</span></span>
-<span class="topo-line"><span class="topo-outside">SRIPL</span><span class="topo-membrane">AVLFGIFLYMGVTSL</span><span class="topo-inside">SGIQLFDRILLLFKPPKYHPDVPYVKRVKTWRMHLFTGIQ</span></span>
-<span class="topo-line"><span class="topo-membrane">IICLAVLWVVKSTP</span><span class="topo-outside">A</span><span class="topo-membrane">SLALPFVLILT</span><span class="topo-inside">VPLRRVLLPLIFRNVELQCLD</span><span class="topo-unknown">ADDAKATFDEEEG</span></span>
-<span class="topo-line"><span class="topo-unknown">RDEYDEVAMPV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MEELQDDYEDMMEENLEQEEYEDPDIPESQMEEPAAHDTEATATDYHTTSHPGTHKVYVELQELVMDEKNQELRWMEAARWVQLEENLGENGAWGRPHLSHLTFWSLLELRRVFTKGTVL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-unknown">LDLQETSLAGVANQLLDRFIFEDQIRPQDREELLRALLLKHSHAGELEALGGVKPAVLTRSGDPSQPLLPQHSSLETQLFCEQGDGGTEGHSPSGILEKIPPDSEATLVLVGRADFLEQP</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-unknown">VLGFVRLQEAAELEAVELPVPIRFLFVLLGPEAPHIDYTQLGRAAATLMSERVFRIDAYMAQSRGELLHSLEGFLDCSLVLPPTDAPSEQALLSLVPVQRELLRRRYQSSPAKPDSSFYK</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-unknown">GLDLNGGPDDPLQQTGQLFG</span><span class="topo-inside">GLVRDIRRRYPYYLSDITDAFSP</span><span class="topo-membrane">QVLAAVIFIYFAALSPA</span><span class="topo-outside">ITFGGLLGEKTRNQMGVSEL</span><span class="topo-membrane">LISTAVQGILFALLG</span><span class="topo-inside">AQ</span><span class="topo-membrane">PLLVVGFSGPLLVFE</span><span class="topo-outside">EAFFSFCE</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">TNGLEYIVGR</span><span class="topo-membrane">VWIGFWLILLVVLVV</span><span class="topo-inside">AFEGSFLVRFISRYTQEI</span><span class="topo-membrane">FSFLISLIFIYETFSKL</span><span class="topo-outside">IKIFQDHPLQKTY</span><span class="topo-unknown">NYNVLMVPKPQGP</span><span class="topo-outside">LPNTALLSL</span><span class="topo-membrane">VLMAGTFFFAMMLRKF</span><span class="topo-inside">KNSSYFPGK</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-inside">LRRV</span><span class="topo-membrane">IGDFGVPISILIMVLV</span><span class="topo-outside">DFFIQDTYTQKLSVPDGFKV</span><span class="topo-unknown">SNSSARGW</span><span class="topo-outside">VIHPLGLRSEFPIWMM</span><span class="topo-membrane">FASALPALLVFILIFLESQITT</span><span class="topo-inside">LIVSKPERKMVKGSGFHL</span><span class="topo-membrane">DLLLVVGMGGVAALF</span><span class="topo-outside">G</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820       830       840</span>
+<span class="topo-line"><span class="topo-outside">M</span><span class="topo-membrane">PWLSATTVRSVTHANAL</span><span class="topo-inside">TVM</span><span class="topo-unknown">GKASTPGAAAQ</span><span class="topo-inside">IQEVKEQ</span><span class="topo-membrane">RISGLLVAVLVGLS</span><span class="topo-outside">ILMEPILSRIPL</span><span class="topo-membrane">AVLFGIFLYMGVTSL</span><span class="topo-inside">SGIQLFDRILLLFKPPKYHPDVPYVKRVKTWRMHLFTGIQ</span></span>
+<span class="topo-ruler">       850       860       870       880       890       900       910 </span>
+<span class="topo-line"><span class="topo-membrane">IICLAVLWVVKSTP</span><span class="topo-outside">A</span><span class="topo-membrane">SLALPFVLILT</span><span class="topo-inside">VPLRRVLLPLIFRNVELQCLD</span><span class="topo-unknown">ADDAKATFDEEEGRDEYDEVAMPV</span></span>
+<details class="topo-details"><summary>Topology coordinates (37 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -728,6 +731,7 @@ Human AE1 (anion exchanger 1, also known as Band 3) is the most abundant membran
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

@@ -156,11 +156,13 @@ gate (Arg95-Asp231 salt bridge) ensuring unidirectional transport.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">PNSM</span><span class="topo-outside">KNIESLFDYSAGQFEF</span><span class="topo-membrane">IDHLLTMGVGVHFAALIFFLVVSQ</span><span class="topo-inside">FVAPKYR</span><span class="topo-membrane">IATALSCIV</span></span>
-<span class="topo-line"><span class="topo-membrane">MVSAGLILNSQAV</span><span class="topo-outside">MWTDAYAYVDGSYQLQDLTFS</span><span class="topo-membrane">NGYRYVNWMATIPCLLLQLLIV</span><span class="topo-inside">LNLK</span></span>
-<span class="topo-line"><span class="topo-inside">GKEL</span><span class="topo-membrane">FSTATWLILAAWGMIITGYVGQLYE</span><span class="topo-outside">VDDI</span><span class="topo-membrane">AQLMIWGAVSTAFFVVMNWIVGTKI</span><span class="topo-inside">FK</span></span>
-<span class="topo-line"><span class="topo-inside">NRATMLGGTDST</span><span class="topo-membrane">ITKVFWLMMFAWTLYPIAYLVPAF</span><span class="topo-outside">MNNADGVV</span><span class="topo-membrane">LRQLLFTIADISSKVI</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">PNSM</span><span class="topo-outside">KNIESLFDYSAGQFEF</span><span class="topo-membrane">IDHLLTMGVGVHFAALIFFLVVSQ</span><span class="topo-inside">FVAPKYR</span><span class="topo-membrane">IATALSCIVMVSAGLILNSQAV</span><span class="topo-outside">MWTDAYAYVDGSYQLQDLTFS</span><span class="topo-membrane">NGYRYVNWMATIPCLLLQLLIV</span><span class="topo-inside">LNLK</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">GKEL</span><span class="topo-membrane">FSTATWLILAAWGMIITGYVGQLYE</span><span class="topo-outside">VDDI</span><span class="topo-membrane">AQLMIWGAVSTAFFVVMNWIVGTKI</span><span class="topo-inside">FKNRATMLGGTDST</span><span class="topo-membrane">ITKVFWLMMFAWTLYPIAYLVPAF</span><span class="topo-outside">MNNADGVV</span><span class="topo-membrane">LRQLLFTIADISSKVI</span></span>
+<span class="topo-ruler">       250       260       270     </span>
 <span class="topo-line"><span class="topo-membrane">YGLMITYIA</span><span class="topo-inside">IQQSAAAGYVPAQQALGRI</span><span class="topo-unknown">GMDSKAA</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -291,6 +293,7 @@ gate (Arg95-Asp231 salt bridge) ensuring unidirectional transport.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -306,11 +309,13 @@ gate (Arg95-Asp231 salt bridge) ensuring unidirectional transport.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">PNSMKNIESLFDYSAGQFEF</span><span class="topo-membrane">IDHLLTMGVGVHFAALIFFLVVSQ</span><span class="topo-inside">FVAPKYR</span><span class="topo-membrane">IATALSCIV</span></span>
-<span class="topo-line"><span class="topo-membrane">MVSAGLILNSQAV</span><span class="topo-outside">MWTDAYAYVDGSYQLQDLTFS</span><span class="topo-membrane">NGYRYVNWMATIPCLLLQLLIV</span><span class="topo-inside">LNLK</span></span>
-<span class="topo-line"><span class="topo-inside">GKEL</span><span class="topo-membrane">FSTATWLILAAWGMIITGYVGQLYE</span><span class="topo-outside">VDDI</span><span class="topo-membrane">AQLMIWGAVSTAFFVVMNWIVGTKI</span><span class="topo-inside">FK</span></span>
-<span class="topo-line"><span class="topo-inside">NRATMLGGTDSTI</span><span class="topo-membrane">TKVFWLMMFAWTLYPIAYLVPAFM</span><span class="topo-outside">NNAD</span><span class="topo-membrane">GVVLRQLLFTIADISSKVI</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">PNSMKNIESLFDYSAGQFEF</span><span class="topo-membrane">IDHLLTMGVGVHFAALIFFLVVSQ</span><span class="topo-inside">FVAPKYR</span><span class="topo-membrane">IATALSCIVMVSAGLILNSQAV</span><span class="topo-outside">MWTDAYAYVDGSYQLQDLTFS</span><span class="topo-membrane">NGYRYVNWMATIPCLLLQLLIV</span><span class="topo-inside">LNLK</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">GKEL</span><span class="topo-membrane">FSTATWLILAAWGMIITGYVGQLYE</span><span class="topo-outside">VDDI</span><span class="topo-membrane">AQLMIWGAVSTAFFVVMNWIVGTKI</span><span class="topo-inside">FKNRATMLGGTDSTI</span><span class="topo-membrane">TKVFWLMMFAWTLYPIAYLVPAFM</span><span class="topo-outside">NNAD</span><span class="topo-membrane">GVVLRQLLFTIADISSKVI</span></span>
+<span class="topo-ruler">       250       260       270     </span>
 <span class="topo-line"><span class="topo-membrane">YGLMITY</span><span class="topo-inside">IAIQQSAAAGYVPAQQALGRIG</span><span class="topo-unknown">MDSKAA</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -434,6 +439,7 @@ gate (Arg95-Asp231 salt bridge) ensuring unidirectional transport.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -449,11 +455,13 @@ gate (Arg95-Asp231 salt bridge) ensuring unidirectional transport.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">PNSM</span><span class="topo-outside">KNIESLFDYSAGQF</span><span class="topo-membrane">EFIDHLLTMGVGVHFAALIFFLV</span><span class="topo-inside">VSQFVAPKYRIA</span><span class="topo-membrane">TALSCIV</span></span>
-<span class="topo-line"><span class="topo-membrane">MVSAGLILNSQAVMWTD</span><span class="topo-outside">AYAYVDGSYQLQDLTF</span><span class="topo-membrane">SNGYRYVNWMATIPCLLLQLL</span><span class="topo-inside">IVLNLK</span></span>
-<span class="topo-line"><span class="topo-inside">GKELF</span><span class="topo-membrane">STATWLILAAWGMIITGYVGQLYE</span><span class="topo-outside">VDDIAQ</span><span class="topo-membrane">LMIWGAVSTAFFVVMNWIVGTKIF</span><span class="topo-inside">K</span></span>
-<span class="topo-line"><span class="topo-inside">NRATMLGGTDST</span><span class="topo-membrane">ITKVFWLMMFAWTLYPIAYLVPAF</span><span class="topo-outside">MNNADG</span><span class="topo-membrane">VVLRQLLFTIADISSKVI</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">PNSM</span><span class="topo-outside">KNIESLFDYSAGQF</span><span class="topo-membrane">EFIDHLLTMGVGVHFAALIFFLV</span><span class="topo-inside">VSQFVAPKYRIA</span><span class="topo-membrane">TALSCIVMVSAGLILNSQAVMWTD</span><span class="topo-outside">AYAYVDGSYQLQDLTF</span><span class="topo-membrane">SNGYRYVNWMATIPCLLLQLL</span><span class="topo-inside">IVLNLK</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">GKELF</span><span class="topo-membrane">STATWLILAAWGMIITGYVGQLYE</span><span class="topo-outside">VDDIAQ</span><span class="topo-membrane">LMIWGAVSTAFFVVMNWIVGTKIF</span><span class="topo-inside">KNRATMLGGTDST</span><span class="topo-membrane">ITKVFWLMMFAWTLYPIAYLVPAF</span><span class="topo-outside">MNNADG</span><span class="topo-membrane">VVLRQLLFTIADISSKVI</span></span>
+<span class="topo-ruler">       250       260       270     </span>
 <span class="topo-line"><span class="topo-membrane">YGLMIT</span><span class="topo-inside">YIAIQQSAAAGYVPAQQALGRI</span><span class="topo-unknown">GMDSKAA</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -570,6 +578,7 @@ gate (Arg95-Asp231 salt bridge) ensuring unidirectional transport.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -585,11 +594,13 @@ gate (Arg95-Asp231 salt bridge) ensuring unidirectional transport.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">P</span><span class="topo-inside">NSMKNIESLFDYSAGQFE</span><span class="topo-membrane">FIDHLLTMGVGVHFAALIFFLVV</span><span class="topo-outside">SQFVAPKYRI</span><span class="topo-membrane">ATALSCIV</span></span>
-<span class="topo-line"><span class="topo-membrane">MVSAGLILNSQAVMWT</span><span class="topo-inside">DAYAYVDGSYQLQDLTF</span><span class="topo-membrane">SNGYRYVNWMANIPCLLLQLLIVL</span><span class="topo-outside">NLK</span></span>
-<span class="topo-line"><span class="topo-outside">GK</span><span class="topo-membrane">ELFSTATWLILAAWGMIITGYVGQ</span><span class="topo-inside">LYEVDDIAQL</span><span class="topo-membrane">MIWGAVSTAFFVVMNWIVGTKIFK</span></span>
-<span class="topo-line"><span class="topo-outside">NRATMLGGTDST</span><span class="topo-membrane">ITKVFWLMMFAWTLYPIAYLV</span><span class="topo-inside">PAFMNNADGV</span><span class="topo-membrane">VLRQLLFTIADISSKVI</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">P</span><span class="topo-inside">NSMKNIESLFDYSAGQFE</span><span class="topo-membrane">FIDHLLTMGVGVHFAALIFFLVV</span><span class="topo-outside">SQFVAPKYRI</span><span class="topo-membrane">ATALSCIVMVSAGLILNSQAVMWT</span><span class="topo-inside">DAYAYVDGSYQLQDLTF</span><span class="topo-membrane">SNGYRYVNWMANIPCLLLQLLIVL</span><span class="topo-outside">NLK</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">GK</span><span class="topo-membrane">ELFSTATWLILAAWGMIITGYVGQ</span><span class="topo-inside">LYEVDDIAQL</span><span class="topo-membrane">MIWGAVSTAFFVVMNWIVGTKIFK</span><span class="topo-outside">NRATMLGGTDST</span><span class="topo-membrane">ITKVFWLMMFAWTLYPIAYLV</span><span class="topo-inside">PAFMNNADGV</span><span class="topo-membrane">VLRQLLFTIADISSKVI</span></span>
+<span class="topo-ruler">       250       260       270     </span>
 <span class="topo-line"><span class="topo-membrane">YGLMITY</span><span class="topo-outside">IAIQQSAAAGYVPAQQALGRI</span><span class="topo-unknown">GMDSKAA</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -706,6 +717,7 @@ gate (Arg95-Asp231 salt bridge) ensuring unidirectional transport.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -721,11 +733,13 @@ gate (Arg95-Asp231 salt bridge) ensuring unidirectional transport.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">PNSMKNIESLFDYSAGQFE</span><span class="topo-membrane">FIDHLLTMGVGVHFAALIFFLVVS</span><span class="topo-outside">QFVAPKYRI</span><span class="topo-membrane">ATALSCIV</span></span>
-<span class="topo-line"><span class="topo-membrane">MVSAGLILNSQAVMWT</span><span class="topo-inside">DAYAYVDGSYQLQDLTF</span><span class="topo-membrane">SNGYRYVNWMADIPCLLLQLLIVL</span><span class="topo-outside">NLK</span></span>
-<span class="topo-line"><span class="topo-outside">GKE</span><span class="topo-membrane">LFSTATWLILAAWGMIITGYVGQ</span><span class="topo-inside">LYEVDDIAQLM</span><span class="topo-membrane">IWGAVSTAFFVVMNWIVGTKIFK</span></span>
-<span class="topo-line"><span class="topo-membrane">N</span><span class="topo-outside">RATMLGGTDS</span><span class="topo-membrane">TITKVFWLMMFAWTLYPIAYLV</span><span class="topo-inside">PAFMNNADGVV</span><span class="topo-membrane">LRQLLFTIADISSKVI</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">PNSMKNIESLFDYSAGQFE</span><span class="topo-membrane">FIDHLLTMGVGVHFAALIFFLVVS</span><span class="topo-outside">QFVAPKYRI</span><span class="topo-membrane">ATALSCIVMVSAGLILNSQAVMWT</span><span class="topo-inside">DAYAYVDGSYQLQDLTF</span><span class="topo-membrane">SNGYRYVNWMADIPCLLLQLLIVL</span><span class="topo-outside">NLK</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">GKE</span><span class="topo-membrane">LFSTATWLILAAWGMIITGYVGQ</span><span class="topo-inside">LYEVDDIAQLM</span><span class="topo-membrane">IWGAVSTAFFVVMNWIVGTKIFKN</span><span class="topo-outside">RATMLGGTDS</span><span class="topo-membrane">TITKVFWLMMFAWTLYPIAYLV</span><span class="topo-inside">PAFMNNADGVV</span><span class="topo-membrane">LRQLLFTIADISSKVI</span></span>
+<span class="topo-ruler">       250       260       270     </span>
 <span class="topo-line"><span class="topo-membrane">YGLMITYI</span><span class="topo-outside">AIQQSAAAGY</span><span class="topo-unknown">VPAQQALG</span><span class="topo-outside">RI</span><span class="topo-unknown">GMDSKAA</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -856,6 +870,7 @@ gate (Arg95-Asp231 salt bridge) ensuring unidirectional transport.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -996,11 +1011,13 @@ gate (Arg95-Asp231 salt bridge) ensuring unidirectional transport.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">KNIESLFDYSAG</span><span class="topo-membrane">QFEFIDHLLTMGVGVHFAALIFFLV</span><span class="topo-inside">VSQFVAPKYRI</span><span class="topo-membrane">ATALSCIVMVSA</span></span>
-<span class="topo-line"><span class="topo-membrane">GLILNSQAVMWT</span><span class="topo-outside">DAYAYVDGSYQLQDLTF</span><span class="topo-membrane">SNGYRYVNWMATIPCLLLQLL</span><span class="topo-inside">IVLNLKGKEL</span></span>
-<span class="topo-line"><span class="topo-inside">F</span><span class="topo-membrane">STATWLILAAWGMIITGYVGQL</span><span class="topo-outside">YEVDDIA</span><span class="topo-membrane">QLMIWGAVSTAFFVVMNWIVGTKI</span><span class="topo-inside">FKNRAT</span></span>
-<span class="topo-line"><span class="topo-inside">MLGGTDSTIT</span><span class="topo-membrane">KVFWLMMFAWTLYPIAYLVPAFM</span><span class="topo-outside">NNAD</span><span class="topo-membrane">GVVLRQLLFTIADISSKVIYGLM</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">KNIESLFDYSAG</span><span class="topo-membrane">QFEFIDHLLTMGVGVHFAALIFFLV</span><span class="topo-inside">VSQFVAPKYRI</span><span class="topo-membrane">ATALSCIVMVSAGLILNSQAVMWT</span><span class="topo-outside">DAYAYVDGSYQLQDLTF</span><span class="topo-membrane">SNGYRYVNWMATIPCLLLQLL</span><span class="topo-inside">IVLNLKGKEL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">F</span><span class="topo-membrane">STATWLILAAWGMIITGYVGQL</span><span class="topo-outside">YEVDDIA</span><span class="topo-membrane">QLMIWGAVSTAFFVVMNWIVGTKI</span><span class="topo-inside">FKNRATMLGGTDSTIT</span><span class="topo-membrane">KVFWLMMFAWTLYPIAYLVPAFM</span><span class="topo-outside">NNAD</span><span class="topo-membrane">GVVLRQLLFTIADISSKVIYGLM</span></span>
+<span class="topo-ruler">       250       260    </span>
 <span class="topo-line"><span class="topo-membrane">IT</span><span class="topo-inside">YIAIQQSAAAGYVPAQQALGRI</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1117,6 +1134,7 @@ gate (Arg95-Asp231 salt bridge) ensuring unidirectional transport.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1132,11 +1150,13 @@ gate (Arg95-Asp231 salt bridge) ensuring unidirectional transport.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">KNIESLFDYSAG</span><span class="topo-membrane">QFEFIDHLLTMGVGVHFAALIFFLV</span><span class="topo-inside">VSQFVAPKYRI</span><span class="topo-membrane">ATALSCIVMVSA</span></span>
-<span class="topo-line"><span class="topo-membrane">GLILNSQAVMWT</span><span class="topo-outside">DAYAYVDGSYQLQDLTF</span><span class="topo-membrane">SNGYRYVNWMATIPCLLLQLL</span><span class="topo-inside">IVLNLKGKEL</span></span>
-<span class="topo-line"><span class="topo-inside">F</span><span class="topo-membrane">STATWLILAAWGMIITGYVGQLYE</span><span class="topo-outside">VDDIA</span><span class="topo-membrane">QLMIWGAVSTAFFVVMNWIVGTKI</span><span class="topo-inside">FKNRAT</span></span>
-<span class="topo-line"><span class="topo-inside">MLGGTDSTIT</span><span class="topo-membrane">KVFWLMMFAWTLYPIAYLVPAFM</span><span class="topo-outside">NNAD</span><span class="topo-membrane">GVVLRQLLFTIADISSKVIYGLM</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">KNIESLFDYSAG</span><span class="topo-membrane">QFEFIDHLLTMGVGVHFAALIFFLV</span><span class="topo-inside">VSQFVAPKYRI</span><span class="topo-membrane">ATALSCIVMVSAGLILNSQAVMWT</span><span class="topo-outside">DAYAYVDGSYQLQDLTF</span><span class="topo-membrane">SNGYRYVNWMATIPCLLLQLL</span><span class="topo-inside">IVLNLKGKEL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">F</span><span class="topo-membrane">STATWLILAAWGMIITGYVGQLYE</span><span class="topo-outside">VDDIA</span><span class="topo-membrane">QLMIWGAVSTAFFVVMNWIVGTKI</span><span class="topo-inside">FKNRATMLGGTDSTIT</span><span class="topo-membrane">KVFWLMMFAWTLYPIAYLVPAFM</span><span class="topo-outside">NNAD</span><span class="topo-membrane">GVVLRQLLFTIADISSKVIYGLM</span></span>
+<span class="topo-ruler">       250       260    </span>
 <span class="topo-line"><span class="topo-membrane">IT</span><span class="topo-inside">YIAIQQSAAAGYVPAQQALGRI</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1253,6 +1273,7 @@ gate (Arg95-Asp231 salt bridge) ensuring unidirectional transport.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1268,11 +1289,13 @@ gate (Arg95-Asp231 salt bridge) ensuring unidirectional transport.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">KNIESLFDYSAGQFE</span><span class="topo-membrane">FIDHLLTMGVGVHFAALIFFLV</span><span class="topo-inside">VSQFVAPKYRIA</span><span class="topo-membrane">TALSCIVMVSA</span></span>
-<span class="topo-line"><span class="topo-membrane">GLILNSQAVMWTD</span><span class="topo-outside">AYAYVDGSYQLQDLTF</span><span class="topo-membrane">SNGYRYVNWMATIPCLLLQLL</span><span class="topo-inside">IVLNLKGKEL</span></span>
-<span class="topo-line"><span class="topo-inside">F</span><span class="topo-membrane">STATWLILAAWGMIITGYVGQL</span><span class="topo-outside">YEVDDIAQ</span><span class="topo-membrane">LMIWGAVSTAFFVVMNWIVGTKIF</span><span class="topo-inside">KNRAT</span></span>
-<span class="topo-line"><span class="topo-inside">MLGGTDS</span><span class="topo-membrane">TITKVFWLMMFAWTLYPIAYLV</span><span class="topo-outside">PAFMNNADGV</span><span class="topo-membrane">VLRQLLFTIADISSKVIYGLM</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">KNIESLFDYSAGQFE</span><span class="topo-membrane">FIDHLLTMGVGVHFAALIFFLV</span><span class="topo-inside">VSQFVAPKYRIA</span><span class="topo-membrane">TALSCIVMVSAGLILNSQAVMWTD</span><span class="topo-outside">AYAYVDGSYQLQDLTF</span><span class="topo-membrane">SNGYRYVNWMATIPCLLLQLL</span><span class="topo-inside">IVLNLKGKEL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">F</span><span class="topo-membrane">STATWLILAAWGMIITGYVGQL</span><span class="topo-outside">YEVDDIAQ</span><span class="topo-membrane">LMIWGAVSTAFFVVMNWIVGTKIF</span><span class="topo-inside">KNRATMLGGTDS</span><span class="topo-membrane">TITKVFWLMMFAWTLYPIAYLV</span><span class="topo-outside">PAFMNNADGV</span><span class="topo-membrane">VLRQLLFTIADISSKVIYGLM</span></span>
+<span class="topo-ruler">       250       260    </span>
 <span class="topo-line"><span class="topo-membrane">ITY</span><span class="topo-inside">IAIQQSAAAGY</span><span class="topo-unknown">VPAQQALGR</span><span class="topo-inside">I</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1403,6 +1426,7 @@ gate (Arg95-Asp231 salt bridge) ensuring unidirectional transport.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1418,11 +1442,13 @@ gate (Arg95-Asp231 salt bridge) ensuring unidirectional transport.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">KNIESLFDYSAGQF</span><span class="topo-membrane">EFIDHLLTMGVGVHFAALIFFLV</span><span class="topo-inside">VSQFVAPKYRIA</span><span class="topo-membrane">TALSCIVMVSA</span></span>
-<span class="topo-line"><span class="topo-membrane">GLILNSQAVMWTD</span><span class="topo-outside">AYAYVDGSYQLQDLTF</span><span class="topo-membrane">SNGYRYVNWMATIPCLLLQLL</span><span class="topo-inside">IVLNLKGKEL</span></span>
-<span class="topo-line"><span class="topo-inside">F</span><span class="topo-membrane">STATWLILAAWGMIITGYVGQLYE</span><span class="topo-outside">VDDIA</span><span class="topo-membrane">QLMIWGAVSTAFFVVMNWIVGTKI</span><span class="topo-inside">FKNRAT</span></span>
-<span class="topo-line"><span class="topo-inside">MLGGTDSTI</span><span class="topo-membrane">TKVFWLMMFAWTLYPIAYLVPAF</span><span class="topo-outside">MNNADG</span><span class="topo-membrane">VVLRQLLFTIADISSKVIYGLM</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">KNIESLFDYSAGQF</span><span class="topo-membrane">EFIDHLLTMGVGVHFAALIFFLV</span><span class="topo-inside">VSQFVAPKYRIA</span><span class="topo-membrane">TALSCIVMVSAGLILNSQAVMWTD</span><span class="topo-outside">AYAYVDGSYQLQDLTF</span><span class="topo-membrane">SNGYRYVNWMATIPCLLLQLL</span><span class="topo-inside">IVLNLKGKEL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">F</span><span class="topo-membrane">STATWLILAAWGMIITGYVGQLYE</span><span class="topo-outside">VDDIA</span><span class="topo-membrane">QLMIWGAVSTAFFVVMNWIVGTKI</span><span class="topo-inside">FKNRATMLGGTDSTI</span><span class="topo-membrane">TKVFWLMMFAWTLYPIAYLVPAF</span><span class="topo-outside">MNNADG</span><span class="topo-membrane">VVLRQLLFTIADISSKVIYGLM</span></span>
+<span class="topo-ruler">       250       260    </span>
 <span class="topo-line"><span class="topo-membrane">IT</span><span class="topo-inside">YIAIQQSAAAGYVPAQQALGRI</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1539,6 +1565,7 @@ gate (Arg95-Asp231 salt bridge) ensuring unidirectional transport.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1554,11 +1581,13 @@ gate (Arg95-Asp231 salt bridge) ensuring unidirectional transport.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">KNIESLFDYSAGQFE</span><span class="topo-membrane">FIDHLLTMGVGVHFAALIFFLVVS</span><span class="topo-inside">QFVAPKYR</span><span class="topo-membrane">IATALSCIVMVSA</span></span>
-<span class="topo-line"><span class="topo-membrane">GLILNSQAVMW</span><span class="topo-outside">TDAYAYVDGSYQLQDLTFS</span><span class="topo-membrane">NGYRYVNWMATIPCLLLQLLI</span><span class="topo-inside">VLNLKGK</span><span class="topo-membrane">EL</span></span>
-<span class="topo-line"><span class="topo-membrane">FSTATWLILAAWGMIITGYVGQL</span><span class="topo-outside">YEVDDIA</span><span class="topo-membrane">QLMIWGAVSTAFFVVMNWIVGTKI</span><span class="topo-inside">FKNRAT</span></span>
-<span class="topo-line"><span class="topo-inside">MLGGTDSTI</span><span class="topo-membrane">TKVFWLMMFAWTLYPIAYLVPAFM</span><span class="topo-outside">NNAD</span><span class="topo-membrane">GVVLRQLLFTIADISSKVIYGLM</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">KNIESLFDYSAGQFE</span><span class="topo-membrane">FIDHLLTMGVGVHFAALIFFLVVS</span><span class="topo-inside">QFVAPKYR</span><span class="topo-membrane">IATALSCIVMVSAGLILNSQAVMW</span><span class="topo-outside">TDAYAYVDGSYQLQDLTFS</span><span class="topo-membrane">NGYRYVNWMATIPCLLLQLLI</span><span class="topo-inside">VLNLKGK</span><span class="topo-membrane">EL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">FSTATWLILAAWGMIITGYVGQL</span><span class="topo-outside">YEVDDIA</span><span class="topo-membrane">QLMIWGAVSTAFFVVMNWIVGTKI</span><span class="topo-inside">FKNRATMLGGTDSTI</span><span class="topo-membrane">TKVFWLMMFAWTLYPIAYLVPAFM</span><span class="topo-outside">NNAD</span><span class="topo-membrane">GVVLRQLLFTIADISSKVIYGLM</span></span>
+<span class="topo-ruler">       250       260    </span>
 <span class="topo-line"><span class="topo-membrane">ITY</span><span class="topo-inside">IAIQQSAAAGY</span><span class="topo-unknown">VPAQQALG</span><span class="topo-inside">RI</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1689,6 +1718,7 @@ gate (Arg95-Asp231 salt bridge) ensuring unidirectional transport.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1794,11 +1824,13 @@ gate (Arg95-Asp231 salt bridge) ensuring unidirectional transport.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GSSGSSG</span><span class="topo-inside">MKNIESLFDYSAGQFE</span><span class="topo-membrane">FIDHLLTMGVGVHFAALIFFLV</span><span class="topo-outside">VSQFVAPKYRI</span><span class="topo-membrane">ATAL</span></span>
-<span class="topo-line"><span class="topo-membrane">SCIVMVSAGLILNSQAVMWTD</span><span class="topo-inside">AYAYVDGSYQLQDLTF</span><span class="topo-membrane">SNGYRYVNWMATIPCLLLQLLI</span><span class="topo-outside">V</span></span>
-<span class="topo-line"><span class="topo-outside">LNLKGKE</span><span class="topo-membrane">LFSTATWLILAAWGMIITGYVGQL</span><span class="topo-inside">YEVDDIAQL</span><span class="topo-membrane">MIWGAVSTAFFVVMNWIVGT</span></span>
-<span class="topo-line"><span class="topo-membrane">KIFK</span><span class="topo-outside">NRATMLGGTDS</span><span class="topo-membrane">TITKVFWLMMFAWTLYPIAYLV</span><span class="topo-inside">PAFMNNADGVV</span><span class="topo-membrane">LRQLLFTIADIS</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GSSGSSG</span><span class="topo-inside">MKNIESLFDYSAGQFE</span><span class="topo-membrane">FIDHLLTMGVGVHFAALIFFLV</span><span class="topo-outside">VSQFVAPKYRI</span><span class="topo-membrane">ATALSCIVMVSAGLILNSQAVMWTD</span><span class="topo-inside">AYAYVDGSYQLQDLTF</span><span class="topo-membrane">SNGYRYVNWMATIPCLLLQLLI</span><span class="topo-outside">V</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">LNLKGKE</span><span class="topo-membrane">LFSTATWLILAAWGMIITGYVGQL</span><span class="topo-inside">YEVDDIAQL</span><span class="topo-membrane">MIWGAVSTAFFVVMNWIVGTKIFK</span><span class="topo-outside">NRATMLGGTDS</span><span class="topo-membrane">TITKVFWLMMFAWTLYPIAYLV</span><span class="topo-inside">PAFMNNADGVV</span><span class="topo-membrane">LRQLLFTIADIS</span></span>
+<span class="topo-ruler">       250       260       270         </span>
 <span class="topo-line"><span class="topo-membrane">SKVIYGLMITY</span><span class="topo-outside">IAIQQSAAAGYVPAQQALGRI</span><span class="topo-unknown">GMDSKAA</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1929,6 +1961,7 @@ gate (Arg95-Asp231 salt bridge) ensuring unidirectional transport.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1944,11 +1977,13 @@ gate (Arg95-Asp231 salt bridge) ensuring unidirectional transport.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GSSGSSG</span><span class="topo-inside">MKNIESLFDYSAGQFE</span><span class="topo-membrane">FIDHLLTMGVGVHFAALIFFLV</span><span class="topo-outside">VSQFVAPKYRI</span><span class="topo-membrane">ATAL</span></span>
-<span class="topo-line"><span class="topo-membrane">SCIVMVSAGLILNSQAVMWTD</span><span class="topo-inside">AYAYVDGSYQLQDLTF</span><span class="topo-membrane">SNGYRYVNWMATIPCLLLQLLI</span><span class="topo-outside">V</span></span>
-<span class="topo-line"><span class="topo-outside">LNLKGKE</span><span class="topo-membrane">LFSTATWLILAAWGMIITGYVGQL</span><span class="topo-inside">YEVDDIAQL</span><span class="topo-membrane">MIWGAVSTAFFVVMNWIVGT</span></span>
-<span class="topo-line"><span class="topo-membrane">KIFK</span><span class="topo-outside">NRATMLGGTDS</span><span class="topo-membrane">TITKVFWLMMFAWTLYPIAYLV</span><span class="topo-inside">PAFMNNADGVV</span><span class="topo-membrane">LRQLLFTIADIS</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GSSGSSG</span><span class="topo-inside">MKNIESLFDYSAGQFE</span><span class="topo-membrane">FIDHLLTMGVGVHFAALIFFLV</span><span class="topo-outside">VSQFVAPKYRI</span><span class="topo-membrane">ATALSCIVMVSAGLILNSQAVMWTD</span><span class="topo-inside">AYAYVDGSYQLQDLTF</span><span class="topo-membrane">SNGYRYVNWMATIPCLLLQLLI</span><span class="topo-outside">V</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">LNLKGKE</span><span class="topo-membrane">LFSTATWLILAAWGMIITGYVGQL</span><span class="topo-inside">YEVDDIAQL</span><span class="topo-membrane">MIWGAVSTAFFVVMNWIVGTKIFK</span><span class="topo-outside">NRATMLGGTDS</span><span class="topo-membrane">TITKVFWLMMFAWTLYPIAYLV</span><span class="topo-inside">PAFMNNADGVV</span><span class="topo-membrane">LRQLLFTIADIS</span></span>
+<span class="topo-ruler">       250       260       270         </span>
 <span class="topo-line"><span class="topo-membrane">SKVIYGLMITY</span><span class="topo-outside">IAIQQSAAAGYVPAQQALGRI</span><span class="topo-unknown">GMDSKAA</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2079,6 +2114,7 @@ gate (Arg95-Asp231 salt bridge) ensuring unidirectional transport.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2170,11 +2206,13 @@ gate (Arg95-Asp231 salt bridge) ensuring unidirectional transport.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MASMTGGQQMGRDPNS</span><span class="topo-inside">MKNIESLFDYSAG</span><span class="topo-membrane">QFEFIDHLLTMGVGVHFAALIFFLV</span><span class="topo-outside">VSQFVA</span></span>
-<span class="topo-line"><span class="topo-outside">PKYRI</span><span class="topo-membrane">ATALSCIVMVSAGLILNSQAVMWTD</span><span class="topo-inside">AYAYVDGSYQLQDLT</span><span class="topo-membrane">FSNGYRYVNWMATIP</span></span>
-<span class="topo-line"><span class="topo-membrane">CLLLQLLI</span><span class="topo-outside">VLNLKGKEL</span><span class="topo-membrane">FSTATWLILAAWGMIITGYVGQL</span><span class="topo-inside">YEVDDIAQ</span><span class="topo-membrane">LMIWGAVSTAFF</span></span>
-<span class="topo-line"><span class="topo-membrane">VVMNWIVGTKIF</span><span class="topo-outside">KNRATMLGGTDSTI</span><span class="topo-membrane">TKVFWLMMFAWTLYPIAYLVPAF</span><span class="topo-inside">MNNAD</span><span class="topo-membrane">GVVLRQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MASMTGGQQMGRDPNS</span><span class="topo-inside">MKNIESLFDYSAG</span><span class="topo-membrane">QFEFIDHLLTMGVGVHFAALIFFLV</span><span class="topo-outside">VSQFVAPKYRI</span><span class="topo-membrane">ATALSCIVMVSAGLILNSQAVMWTD</span><span class="topo-inside">AYAYVDGSYQLQDLT</span><span class="topo-membrane">FSNGYRYVNWMATIP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">CLLLQLLI</span><span class="topo-outside">VLNLKGKEL</span><span class="topo-membrane">FSTATWLILAAWGMIITGYVGQL</span><span class="topo-inside">YEVDDIAQ</span><span class="topo-membrane">LMIWGAVSTAFFVVMNWIVGTKIF</span><span class="topo-outside">KNRATMLGGTDSTI</span><span class="topo-membrane">TKVFWLMMFAWTLYPIAYLVPAF</span><span class="topo-inside">MNNAD</span><span class="topo-membrane">GVVLRQ</span></span>
+<span class="topo-ruler">       250       260       270       280       290      </span>
 <span class="topo-line"><span class="topo-membrane">LLFTIADISSKVIYGLMIT</span><span class="topo-outside">YIAIQQSAAAGYVPAQQAL</span><span class="topo-unknown">GRIGMDSKAALEHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2305,6 +2343,7 @@ gate (Arg95-Asp231 salt bridge) ensuring unidirectional transport.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

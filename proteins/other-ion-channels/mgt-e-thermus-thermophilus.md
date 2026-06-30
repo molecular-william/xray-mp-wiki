@@ -148,14 +148,15 @@ and regulate channel gating.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGSSHHHHHHSSGLGVLPGGPLHMEEKLAVSLQEALQEGDTRALR</span><span class="topo-inside">EVLEEIHPQDLLALW</span></span>
-<span class="topo-line"><span class="topo-inside">DELKGEHRYVVLTLLPKAKAAEVLSHLSPEEQAEYLKTLPPWRLREILEELSLDDLADAL</span></span>
-<span class="topo-line"><span class="topo-inside">QAVRKEDPAYFQRLKDLLDPRTRAEVEALARYEEDEAGGLMTPEYVAVREGMTVEEVLRF</span></span>
-<span class="topo-line"><span class="topo-inside">LRRAAPDAETIYYIYVVDEKGRLKGVLSLRDLIVADPRTRVAEIMNPKVVYVRTDTDQEE</span></span>
-<span class="topo-line"><span class="topo-inside">VARLMADYDFTVLPVVDEEGRLVGIVTVDDVLDVLEAEATEDIHKLGAVDVPDLVYSEAG</span></span>
-<span class="topo-line"><span class="topo-inside">PVAL</span><span class="topo-membrane">WLARVRWLVILILTGMVTSSILQG</span><span class="topo-outside">F</span><span class="topo-unknown">ESVLEA</span><span class="topo-outside">VTAL</span><span class="topo-membrane">AFYVPVLLGTGGNTGNQSA</span><span class="topo-inside">TL</span></span>
-<span class="topo-line"><span class="topo-inside">IIRALATRDLDLRDWRRVF</span><span class="topo-membrane">LKEMGVGLLLGLTLSFLLVGKVYWD</span><span class="topo-outside">GHPLL</span><span class="topo-membrane">LPVVGVSLVLI</span></span>
-<span class="topo-line"><span class="topo-membrane">VFFANLVGAML</span><span class="topo-unknown">PFLLRRL</span><span class="topo-inside">GVDPAL</span><span class="topo-membrane">VSNPLVATLSDVTGLLIYLSVA</span><span class="topo-outside">RLLLEA</span><span class="topo-unknown">V</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGSSHHHHHHSSGLGVLPGGPLHMEEKLAVSLQEALQEGDTRALR</span><span class="topo-inside">EVLEEIHPQDLLALWDELKGEHRYVVLTLLPKAKAAEVLSHLSPEEQAEYLKTLPPWRLREILEELSLDDLADAL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">QAVRKEDPAYFQRLKDLLDPRTRAEVEALARYEEDEAGGLMTPEYVAVREGMTVEEVLRFLRRAAPDAETIYYIYVVDEKGRLKGVLSLRDLIVADPRTRVAEIMNPKVVYVRTDTDQEE</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">VARLMADYDFTVLPVVDEEGRLVGIVTVDDVLDVLEAEATEDIHKLGAVDVPDLVYSEAGPVAL</span><span class="topo-membrane">WLARVRWLVILILTGMVTSSILQG</span><span class="topo-outside">F</span><span class="topo-unknown">ESVLEA</span><span class="topo-outside">VTAL</span><span class="topo-membrane">AFYVPVLLGTGGNTGNQSA</span><span class="topo-inside">TL</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470   </span>
+<span class="topo-line"><span class="topo-inside">IIRALATRDLDLRDWRRVF</span><span class="topo-membrane">LKEMGVGLLLGLTLSFLLVGKVYWD</span><span class="topo-outside">GHPLL</span><span class="topo-membrane">LPVVGVSLVLIVFFANLVGAML</span><span class="topo-unknown">PFLLRRL</span><span class="topo-inside">GVDPAL</span><span class="topo-membrane">VSNPLVATLSDVTGLLIYLSVA</span><span class="topo-outside">RLLLEA</span><span class="topo-unknown">V</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -279,6 +280,7 @@ and regulate channel gating.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -294,14 +296,15 @@ and regulate channel gating.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGSSHHHHHHSSGLGVLPGGPLHMEEKLAVSLQEALQEGDTR</span><span class="topo-inside">ALREVLEEIHPQDLLALW</span></span>
-<span class="topo-line"><span class="topo-inside">DELKGEHRYVVLTLLPKAKAAEVLSHLSPEEQAEYLKTLPPWRLREILEELSLDDLADAL</span></span>
-<span class="topo-line"><span class="topo-inside">QAVRKEDPAYFQRLKDLLDPRTRAEVEALARYEEDEAGGLMTPEYVAVREGMTVEEVLRF</span></span>
-<span class="topo-line"><span class="topo-inside">LRRAAPDAETIYYIYVVDEKGRLKGVLSLRDLIVADPRTRVAEIMNPKVVYVRTDTDQEE</span></span>
-<span class="topo-line"><span class="topo-inside">VARLMADYDFTVLPVVDEEGRLVGIVTVDDVLDVLEAEATEDIHKLGAVDVPDLVYSEAG</span></span>
-<span class="topo-line"><span class="topo-inside">PVAL</span><span class="topo-membrane">WLARVRWLVILILTGMVTSSILQG</span><span class="topo-outside">FESVLEAVTAL</span><span class="topo-membrane">AFYVPVLLGTGGNTGNQSA</span><span class="topo-inside">TL</span></span>
-<span class="topo-line"><span class="topo-inside">IIRALATRDLDLRDWRRV</span><span class="topo-membrane">FLKEMGVGLLLGLTLSFLLVGKVYWD</span><span class="topo-outside">GHPLLL</span><span class="topo-membrane">PVVGVSLVLI</span></span>
-<span class="topo-line"><span class="topo-membrane">VFFANLVGAMLP</span><span class="topo-inside">FLLRRLGVDPAL</span><span class="topo-membrane">VSNPLVATLSDVTGLLIYLSVA</span><span class="topo-outside">RLLLE</span><span class="topo-unknown">AV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGSSHHHHHHSSGLGVLPGGPLHMEEKLAVSLQEALQEGDTR</span><span class="topo-inside">ALREVLEEIHPQDLLALWDELKGEHRYVVLTLLPKAKAAEVLSHLSPEEQAEYLKTLPPWRLREILEELSLDDLADAL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">QAVRKEDPAYFQRLKDLLDPRTRAEVEALARYEEDEAGGLMTPEYVAVREGMTVEEVLRFLRRAAPDAETIYYIYVVDEKGRLKGVLSLRDLIVADPRTRVAEIMNPKVVYVRTDTDQEE</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">VARLMADYDFTVLPVVDEEGRLVGIVTVDDVLDVLEAEATEDIHKLGAVDVPDLVYSEAGPVAL</span><span class="topo-membrane">WLARVRWLVILILTGMVTSSILQG</span><span class="topo-outside">FESVLEAVTAL</span><span class="topo-membrane">AFYVPVLLGTGGNTGNQSA</span><span class="topo-inside">TL</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470   </span>
+<span class="topo-line"><span class="topo-inside">IIRALATRDLDLRDWRRV</span><span class="topo-membrane">FLKEMGVGLLLGLTLSFLLVGKVYWD</span><span class="topo-outside">GHPLLL</span><span class="topo-membrane">PVVGVSLVLIVFFANLVGAMLP</span><span class="topo-inside">FLLRRLGVDPAL</span><span class="topo-membrane">VSNPLVATLSDVTGLLIYLSVA</span><span class="topo-outside">RLLLE</span><span class="topo-unknown">AV</span></span>
+<details class="topo-details"><summary>Topology coordinates (13 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -404,6 +407,7 @@ and regulate channel gating.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -485,9 +489,11 @@ and regulate channel gating.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">LVYSEAGPVALW</span><span class="topo-membrane">LARVRWLVILILTGMVTSSILQG</span><span class="topo-outside">F</span><span class="topo-unknown">ESVLEA</span><span class="topo-outside">VTAL</span><span class="topo-membrane">AFYVPVLLGTGGNT</span></span>
-<span class="topo-line"><span class="topo-membrane">GNQSATL</span><span class="topo-inside">IIRALATRDLDLRDW</span><span class="topo-membrane">RRVFLKEMGVGLLLGLTLSFLLVGKVYWD</span><span class="topo-outside">GHPLL</span><span class="topo-membrane">LPVV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">LVYSEAGPVALW</span><span class="topo-membrane">LARVRWLVILILTGMVTSSILQG</span><span class="topo-outside">F</span><span class="topo-unknown">ESVLEA</span><span class="topo-outside">VTAL</span><span class="topo-membrane">AFYVPVLLGTGGNTGNQSATL</span><span class="topo-inside">IIRALATRDLDLRDW</span><span class="topo-membrane">RRVFLKEMGVGLLLGLTLSFLLVGKVYWD</span><span class="topo-outside">GHPLL</span><span class="topo-membrane">LPVV</span></span>
+<span class="topo-ruler">       130       140       150       160       170         </span>
 <span class="topo-line"><span class="topo-membrane">GVSLVLIVFFANLVGAMLPFLL</span><span class="topo-inside">RRLGVDP</span><span class="topo-membrane">ALVSNPLVATLSDVTGLLIYLSVA</span><span class="topo-outside">RLLLEA</span></span>
+<details class="topo-details"><summary>Topology coordinates (13 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -590,6 +596,7 @@ and regulate channel gating.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -605,9 +612,11 @@ and regulate channel gating.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">LVYSEAG</span><span class="topo-membrane">PVALWLARVRWLVILILTGMVTSSILQG</span><span class="topo-outside">F</span><span class="topo-unknown">ESVLEA</span><span class="topo-outside">VTALA</span><span class="topo-membrane">FYVPVLLGTGGNT</span></span>
-<span class="topo-line"><span class="topo-membrane">GNQSATLI</span><span class="topo-inside">IRALATRDLDLRDW</span><span class="topo-membrane">RRVFLKEMGVGLLLGLTLSFLLVGKVYWD</span><span class="topo-outside">GHPLLL</span><span class="topo-membrane">PVV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">LVYSEAG</span><span class="topo-membrane">PVALWLARVRWLVILILTGMVTSSILQG</span><span class="topo-outside">F</span><span class="topo-unknown">ESVLEA</span><span class="topo-outside">VTALA</span><span class="topo-membrane">FYVPVLLGTGGNTGNQSATLI</span><span class="topo-inside">IRALATRDLDLRDW</span><span class="topo-membrane">RRVFLKEMGVGLLLGLTLSFLLVGKVYWD</span><span class="topo-outside">GHPLLL</span><span class="topo-membrane">PVV</span></span>
+<span class="topo-ruler">       130       140       150       160       170         </span>
 <span class="topo-line"><span class="topo-membrane">GVSLVLIVFFANLVGAMLPFLL</span><span class="topo-inside">RRLGVDPAL</span><span class="topo-membrane">VSNPLVATLSDVTGLLIYLSVA</span><span class="topo-outside">RLLLE</span><span class="topo-unknown">A</span></span>
+<details class="topo-details"><summary>Topology coordinates (13 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -710,6 +719,7 @@ and regulate channel gating.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

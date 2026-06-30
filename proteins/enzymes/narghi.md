@@ -145,27 +145,29 @@ The structure in complex with the inhibitor [PCP](/xray-mp-wiki/reagents/ligands
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">S</span><span class="topo-unknown">KFLDRFR</span><span class="topo-inside">YFKQKGETFADGHGQLLNTNRDWEDGYRQRWQHDKIVRSTHGVNCTGSCSW</span></span>
-<span class="topo-line"><span class="topo-inside">KIYVKNGLVTWETQQTDYPRTRPDLPNHEPRGCPRGASYSWYLYSANRLKYPMMRKRLMK</span></span>
-<span class="topo-line"><span class="topo-inside">MWREAKALHSDPVEAWASIIEDADKAKSFKQARGRGGFVRSSWQEVNELIAASNVYTIKN</span></span>
-<span class="topo-line"><span class="topo-inside">YGPDRVAGFSPIPAMSMVSYASGARYLSLIGGTCLSFYDWYCDLPPASPQTWGEQTDVPE</span></span>
-<span class="topo-line"><span class="topo-inside">SADWYNSSYIIAWGSNVPQTRTPDAHFFTEVRYKGTKTVAVTPDYAEIAKLCDLWLAPKQ</span></span>
-<span class="topo-line"><span class="topo-inside">GTDAAMALAMGHVMLREFHLDNPSQYFTDYVRRYTDMPMLVMLEERDGYYAAGRMLRAAD</span></span>
-<span class="topo-line"><span class="topo-inside">LVDALGQENNPEWKTVAFNTNGEMVAPNGSIGFRWGEKGKWNLEQRDGKTGEETELQLSL</span></span>
-<span class="topo-line"><span class="topo-inside">LGSQDEIAEVGFPYFGGDGTEHFNKVELENVLLHKLPVKRLQLADGSTALVTTVYDLTLA</span></span>
-<span class="topo-line"><span class="topo-inside">NYGLERGLNDVNCATSYDDVKAYTPAWAEQITGVSRSQIIRIAREFADNADKTHGRSMII</span></span>
-<span class="topo-line"><span class="topo-inside">VGAGLNHWYHLDMNYRGLINMLIFCGCVGQSGGGWAHYVGQEKLRPQTGWQPLAFALDWQ</span></span>
-<span class="topo-line"><span class="topo-inside">RPARHMNSTSYFYNHSSQWRYETVTAEELLSPMADKSRYTGHLIDFNVRAERMGWLPSAP</span></span>
-<span class="topo-line"><span class="topo-inside">QLGTNPLTIAGEAEKAGMNPVDYTVKSLKEGSIRFAAEQPENGKNHPRNLFIWRSNLLGS</span></span>
-<span class="topo-line"><span class="topo-inside">SGKGHEFMLKYLLGTEHGIQGKDLGQQGGVKPEEVDWQDNGLEGKLDLVVTLDFRLSSTC</span></span>
-<span class="topo-line"><span class="topo-inside">LYSDIILPTATWYEKDDMNTSDMHPFIHPLSAAVDPAWEAKSDWEIYKAIAKKFSEVCVG</span></span>
-<span class="topo-line"><span class="topo-inside">HLGKETDIVTLPIQHDSAAELAQPLDVKDWKKGECDLIPGKTAPHIMVVERDYPATYERF</span></span>
-<span class="topo-line"><span class="topo-inside">TSIGPLMEKIGNGGKGIAWNTQSEMDLLRKLNYTKAEGPAKGQPMLNTAIDAAEMILTLA</span></span>
-<span class="topo-line"><span class="topo-inside">PETNGQVAVKAWAALSEFTGRDHTHLALNKEDEKIRFRDIQAQPRKIISSPTWSGLEDEH</span></span>
-<span class="topo-line"><span class="topo-inside">VSYNAGYTNVHELIPWRTLSGRQQLYQDHQWMRDFGESLLVYRPPIDTRSVKEVIGQKSN</span></span>
-<span class="topo-line"><span class="topo-inside">GNQEKALNFLTPHQKWGIHSTYSDNLLMLTLGRGGPVVWLSEADAKDLGIADNDWIEVFN</span></span>
-<span class="topo-line"><span class="topo-inside">SNGALTARAVVSQRVPAGMTMMYHAQERIVNLPGSEITQQRGGIHNSVTRITPKPTHMIG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">S</span><span class="topo-unknown">KFLDRFR</span><span class="topo-inside">YFKQKGETFADGHGQLLNTNRDWEDGYRQRWQHDKIVRSTHGVNCTGSCSWKIYVKNGLVTWETQQTDYPRTRPDLPNHEPRGCPRGASYSWYLYSANRLKYPMMRKRLMK</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">MWREAKALHSDPVEAWASIIEDADKAKSFKQARGRGGFVRSSWQEVNELIAASNVYTIKNYGPDRVAGFSPIPAMSMVSYASGARYLSLIGGTCLSFYDWYCDLPPASPQTWGEQTDVPE</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">SADWYNSSYIIAWGSNVPQTRTPDAHFFTEVRYKGTKTVAVTPDYAEIAKLCDLWLAPKQGTDAAMALAMGHVMLREFHLDNPSQYFTDYVRRYTDMPMLVMLEERDGYYAAGRMLRAAD</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">LVDALGQENNPEWKTVAFNTNGEMVAPNGSIGFRWGEKGKWNLEQRDGKTGEETELQLSLLGSQDEIAEVGFPYFGGDGTEHFNKVELENVLLHKLPVKRLQLADGSTALVTTVYDLTLA</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-inside">NYGLERGLNDVNCATSYDDVKAYTPAWAEQITGVSRSQIIRIAREFADNADKTHGRSMIIVGAGLNHWYHLDMNYRGLINMLIFCGCVGQSGGGWAHYVGQEKLRPQTGWQPLAFALDWQ</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-inside">RPARHMNSTSYFYNHSSQWRYETVTAEELLSPMADKSRYTGHLIDFNVRAERMGWLPSAPQLGTNPLTIAGEAEKAGMNPVDYTVKSLKEGSIRFAAEQPENGKNHPRNLFIWRSNLLGS</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820       830       840</span>
+<span class="topo-line"><span class="topo-inside">SGKGHEFMLKYLLGTEHGIQGKDLGQQGGVKPEEVDWQDNGLEGKLDLVVTLDFRLSSTCLYSDIILPTATWYEKDDMNTSDMHPFIHPLSAAVDPAWEAKSDWEIYKAIAKKFSEVCVG</span></span>
+<span class="topo-ruler">       850       860       870       880       890       900       910       920       930       940       950       960</span>
+<span class="topo-line"><span class="topo-inside">HLGKETDIVTLPIQHDSAAELAQPLDVKDWKKGECDLIPGKTAPHIMVVERDYPATYERFTSIGPLMEKIGNGGKGIAWNTQSEMDLLRKLNYTKAEGPAKGQPMLNTAIDAAEMILTLA</span></span>
+<span class="topo-ruler">       970       980       990      1000      1010      1020      1030      1040      1050      1060      1070      1080</span>
+<span class="topo-line"><span class="topo-inside">PETNGQVAVKAWAALSEFTGRDHTHLALNKEDEKIRFRDIQAQPRKIISSPTWSGLEDEHVSYNAGYTNVHELIPWRTLSGRQQLYQDHQWMRDFGESLLVYRPPIDTRSVKEVIGQKSN</span></span>
+<span class="topo-ruler">      1090      1100      1110      1120      1130      1140      1150      1160      1170      1180      1190      1200</span>
+<span class="topo-line"><span class="topo-inside">GNQEKALNFLTPHQKWGIHSTYSDNLLMLTLGRGGPVVWLSEADAKDLGIADNDWIEVFNSNGALTARAVVSQRVPAGMTMMYHAQERIVNLPGSEITQQRGGIHNSVTRITPKPTHMIG</span></span>
+<span class="topo-ruler">      1210      1220      1230      1240       </span>
 <span class="topo-line"><span class="topo-inside">GYAHLAYGFNYYGTVGSNRDEFVVVRKMKNIDWLDGEGNDQVQES</span><span class="topo-unknown">VK</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -212,6 +214,7 @@ The structure in complex with the inhibitor [PCP](/xray-mp-wiki/reagents/ligands
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -227,15 +230,17 @@ The structure in complex with the inhibitor [PCP](/xray-mp-wiki/reagents/ligands
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MKIRSQVGMVLNLDKCIGCHTCSVTCKNVWTSREGVEYAWFNNVETKPGQGFPTDWENQE</span></span>
-<span class="topo-line"><span class="topo-inside">KYKGGWIRKINGKLQPRMGN</span><span class="topo-unknown">RAMLLGK</span><span class="topo-inside">IFANPHLPGIDDYYEPFDFDYQNLHTAPEGSKS</span></span>
-<span class="topo-line"><span class="topo-inside">QPIARPRSLITGERMAKIEKGPNWEDDLGGEFDKLAKDKNFDNIQKAMYSQFENTFMMYL</span></span>
-<span class="topo-line"><span class="topo-inside">PRLCEHCLNPACVATCPSGAIYKREEDGIVLIDQDKCRGWRMCITGCPYKKIYFNWKSGK</span></span>
-<span class="topo-line"><span class="topo-inside">SEKCIFCYPRIEAGQPTVCSETCVGRIRYLGVLLYDADAIERAASTENEKDLYQRQLDVF</span></span>
-<span class="topo-line"><span class="topo-inside">LDPNDPKVIEQAIKDGIPLSVIEAAQQSPVYKMAMEWKLALPLHPEYRTLPMVWYVPPLS</span></span>
-<span class="topo-line"><span class="topo-inside">PIQSAADAGELGSNGILPDVESLRIPVQYLANLLTAGDTKPVLRALKRMLAMRHYKRAET</span></span>
-<span class="topo-line"><span class="topo-inside">VDGKVDTRALEEVGLTEAQAQEMYRYLAIANYEDRFVVPSSHRELAREAFPEKNGCGFTF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">MKIRSQVGMVLNLDKCIGCHTCSVTCKNVWTSREGVEYAWFNNVETKPGQGFPTDWENQEKYKGGWIRKINGKLQPRMGN</span><span class="topo-unknown">RAMLLGK</span><span class="topo-inside">IFANPHLPGIDDYYEPFDFDYQNLHTAPEGSKS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">QPIARPRSLITGERMAKIEKGPNWEDDLGGEFDKLAKDKNFDNIQKAMYSQFENTFMMYLPRLCEHCLNPACVATCPSGAIYKREEDGIVLIDQDKCRGWRMCITGCPYKKIYFNWKSGK</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">SEKCIFCYPRIEAGQPTVCSETCVGRIRYLGVLLYDADAIERAASTENEKDLYQRQLDVFLDPNDPKVIEQAIKDGIPLSVIEAAQQSPVYKMAMEWKLALPLHPEYRTLPMVWYVPPLS</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">PIQSAADAGELGSNGILPDVESLRIPVQYLANLLTAGDTKPVLRALKRMLAMRHYKRAETVDGKVDTRALEEVGLTEAQAQEMYRYLAIANYEDRFVVPSSHRELAREAFPEKNGCGFTF</span></span>
+<span class="topo-ruler">       490       500       510  </span>
 <span class="topo-line"><span class="topo-inside">GDGCHGSDTKFNLFNSRRIDAIDVTSKTE</span><span class="topo-unknown">PHP</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -275,6 +280,7 @@ The structure in complex with the inhibitor [PCP](/xray-mp-wiki/reagents/ligands
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -290,10 +296,11 @@ The structure in complex with the inhibitor [PCP](/xray-mp-wiki/reagents/ligands
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MQFL</span><span class="topo-membrane">NMFFFDIYPYIAGAVFLIGSWLRY</span><span class="topo-inside">DYGQYTWRAASSQMLDRKG</span><span class="topo-membrane">MNLASNLFHIGIL</span></span>
-<span class="topo-line"><span class="topo-membrane">GIFVGHFFGMLTP</span><span class="topo-outside">HWM</span><span class="topo-unknown">Y</span><span class="topo-outside">EAWLPIEVK</span><span class="topo-membrane">QKMAMFAGGASGVLCLIGGVLLLKRRLF</span><span class="topo-inside">S</span><span class="topo-unknown">PRVRA</span></span>
-<span class="topo-line"><span class="topo-unknown">T</span><span class="topo-inside">TTG</span><span class="topo-membrane">ADILILSLLVIQCALGLLTIP</span><span class="topo-outside">FSAQHMDGSEMMKLVGWAQSVVTFHGGASQHLDGV</span></span>
-<span class="topo-line"><span class="topo-outside">AF</span><span class="topo-membrane">IFRLHLVLGMTLFLLFPFSRLI</span><span class="topo-inside">HIWSVPVEYLTRKYQLVRARH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MQFL</span><span class="topo-membrane">NMFFFDIYPYIAGAVFLIGSWLRY</span><span class="topo-inside">DYGQYTWRAASSQMLDRKG</span><span class="topo-membrane">MNLASNLFHIGILGIFVGHFFGMLTP</span><span class="topo-outside">HWM</span><span class="topo-unknown">Y</span><span class="topo-outside">EAWLPIEVK</span><span class="topo-membrane">QKMAMFAGGASGVLCLIGGVLLLKRRLF</span><span class="topo-inside">S</span><span class="topo-unknown">PRVRA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220     </span>
+<span class="topo-line"><span class="topo-unknown">T</span><span class="topo-inside">TTG</span><span class="topo-membrane">ADILILSLLVIQCALGLLTIP</span><span class="topo-outside">FSAQHMDGSEMMKLVGWAQSVVTFHGGASQHLDGVAF</span><span class="topo-membrane">IFRLHLVLGMTLFLLFPFSRLI</span><span class="topo-inside">HIWSVPVEYLTRKYQLVRARH</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -410,6 +417,7 @@ The structure in complex with the inhibitor [PCP](/xray-mp-wiki/reagents/ligands
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -425,27 +433,29 @@ The structure in complex with the inhibitor [PCP](/xray-mp-wiki/reagents/ligands
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">S</span><span class="topo-unknown">KFLDRFR</span><span class="topo-inside">YFKQKGETFADGHGQLLNTNRDWEDGYRQRWQHDKIVRSTHGVNCTGSCSW</span></span>
-<span class="topo-line"><span class="topo-inside">KIYVKNGLVTWETQQTDYPRTRPDLPNHEPRGCPRGASYSWYLYSANRLKYPMMRKRLMK</span></span>
-<span class="topo-line"><span class="topo-inside">MWREAKALHSDPVEAWASIIEDADKAKSFKQARGRGGFVRSSWQEVNELIAASNVYTIKN</span></span>
-<span class="topo-line"><span class="topo-inside">YGPDRVAGFSPIPAMSMVSYASGARYLSLIGGTCLSFYDWYCDLPPASPQTWGEQTDVPE</span></span>
-<span class="topo-line"><span class="topo-inside">SADWYNSSYIIAWGSNVPQTRTPDAHFFTEVRYKGTKTVAVTPDYAEIAKLCDLWLAPKQ</span></span>
-<span class="topo-line"><span class="topo-inside">GTDAAMALAMGHVMLREFHLDNPSQYFTDYVRRYTDMPMLVMLEERDGYYAAGRMLRAAD</span></span>
-<span class="topo-line"><span class="topo-inside">LVDALGQENNPEWKTVAFNTNGEMVAPNGSIGFRWGEKGKWNLEQRDGKTGEETELQLSL</span></span>
-<span class="topo-line"><span class="topo-inside">LGSQDEIAEVGFPYFGGDGTEHFNKVELENVLLHKLPVKRLQLADGSTALVTTVYDLTLA</span></span>
-<span class="topo-line"><span class="topo-inside">NYGLERGLNDVNCATSYDDVKAYTPAWAEQITGVSRSQIIRIAREFADNADKTHGRSMII</span></span>
-<span class="topo-line"><span class="topo-inside">VGAGLNHWYHLDMNYRGLINMLIFCGCVGQSGGGWAHYVGQEKLRPQTGWQPLAFALDWQ</span></span>
-<span class="topo-line"><span class="topo-inside">RPARHMNSTSYFYNHSSQWRYETVTAEELLSPMADKSRYTGHLIDFNVRAERMGWLPSAP</span></span>
-<span class="topo-line"><span class="topo-inside">QLGTNPLTIAGEAEKAGMNPVDYTVKSLKEGSIRFAAEQPENGKNHPRNLFIWRSNLLGS</span></span>
-<span class="topo-line"><span class="topo-inside">SGKGHEFMLKYLLGTEHGIQGKDLGQQGGVKPEEVDWQDNGLEGKLDLVVTLDFRLSSTC</span></span>
-<span class="topo-line"><span class="topo-inside">LYSDIILPTATWYEKDDMNTSDMHPFIHPLSAAVDPAWEAKSDWEIYKAIAKKFSEVCVG</span></span>
-<span class="topo-line"><span class="topo-inside">HLGKETDIVTLPIQHDSAAELAQPLDVKDWKKGECDLIPGKTAPHIMVVERDYPATYERF</span></span>
-<span class="topo-line"><span class="topo-inside">TSIGPLMEKIGNGGKGIAWNTQSEMDLLRKLNYTKAEGPAKGQPMLNTAIDAAEMILTLA</span></span>
-<span class="topo-line"><span class="topo-inside">PETNGQVAVKAWAALSEFTGRDHTHLALNKEDEKIRFRDIQAQPRKIISSPTWSGLEDEH</span></span>
-<span class="topo-line"><span class="topo-inside">VSYNAGYTNVHELIPWRTLSGRQQLYQDHQWMRDFGESLLVYRPPIDTRSVKEVIGQKSN</span></span>
-<span class="topo-line"><span class="topo-inside">GNQEKALNFLTPHQKWGIHSTYSDNLLMLTLGRGGPVVWLSEADAKDLGIADNDWIEVFN</span></span>
-<span class="topo-line"><span class="topo-inside">SNGALTARAVVSQRVPAGMTMMYHAQERIVNLPGSEITQQRGGIHNSVTRITPKPTHMIG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">S</span><span class="topo-unknown">KFLDRFR</span><span class="topo-inside">YFKQKGETFADGHGQLLNTNRDWEDGYRQRWQHDKIVRSTHGVNCTGSCSWKIYVKNGLVTWETQQTDYPRTRPDLPNHEPRGCPRGASYSWYLYSANRLKYPMMRKRLMK</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">MWREAKALHSDPVEAWASIIEDADKAKSFKQARGRGGFVRSSWQEVNELIAASNVYTIKNYGPDRVAGFSPIPAMSMVSYASGARYLSLIGGTCLSFYDWYCDLPPASPQTWGEQTDVPE</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">SADWYNSSYIIAWGSNVPQTRTPDAHFFTEVRYKGTKTVAVTPDYAEIAKLCDLWLAPKQGTDAAMALAMGHVMLREFHLDNPSQYFTDYVRRYTDMPMLVMLEERDGYYAAGRMLRAAD</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">LVDALGQENNPEWKTVAFNTNGEMVAPNGSIGFRWGEKGKWNLEQRDGKTGEETELQLSLLGSQDEIAEVGFPYFGGDGTEHFNKVELENVLLHKLPVKRLQLADGSTALVTTVYDLTLA</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-inside">NYGLERGLNDVNCATSYDDVKAYTPAWAEQITGVSRSQIIRIAREFADNADKTHGRSMIIVGAGLNHWYHLDMNYRGLINMLIFCGCVGQSGGGWAHYVGQEKLRPQTGWQPLAFALDWQ</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-inside">RPARHMNSTSYFYNHSSQWRYETVTAEELLSPMADKSRYTGHLIDFNVRAERMGWLPSAPQLGTNPLTIAGEAEKAGMNPVDYTVKSLKEGSIRFAAEQPENGKNHPRNLFIWRSNLLGS</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820       830       840</span>
+<span class="topo-line"><span class="topo-inside">SGKGHEFMLKYLLGTEHGIQGKDLGQQGGVKPEEVDWQDNGLEGKLDLVVTLDFRLSSTCLYSDIILPTATWYEKDDMNTSDMHPFIHPLSAAVDPAWEAKSDWEIYKAIAKKFSEVCVG</span></span>
+<span class="topo-ruler">       850       860       870       880       890       900       910       920       930       940       950       960</span>
+<span class="topo-line"><span class="topo-inside">HLGKETDIVTLPIQHDSAAELAQPLDVKDWKKGECDLIPGKTAPHIMVVERDYPATYERFTSIGPLMEKIGNGGKGIAWNTQSEMDLLRKLNYTKAEGPAKGQPMLNTAIDAAEMILTLA</span></span>
+<span class="topo-ruler">       970       980       990      1000      1010      1020      1030      1040      1050      1060      1070      1080</span>
+<span class="topo-line"><span class="topo-inside">PETNGQVAVKAWAALSEFTGRDHTHLALNKEDEKIRFRDIQAQPRKIISSPTWSGLEDEHVSYNAGYTNVHELIPWRTLSGRQQLYQDHQWMRDFGESLLVYRPPIDTRSVKEVIGQKSN</span></span>
+<span class="topo-ruler">      1090      1100      1110      1120      1130      1140      1150      1160      1170      1180      1190      1200</span>
+<span class="topo-line"><span class="topo-inside">GNQEKALNFLTPHQKWGIHSTYSDNLLMLTLGRGGPVVWLSEADAKDLGIADNDWIEVFNSNGALTARAVVSQRVPAGMTMMYHAQERIVNLPGSEITQQRGGIHNSVTRITPKPTHMIG</span></span>
+<span class="topo-ruler">      1210      1220      1230      1240       </span>
 <span class="topo-line"><span class="topo-inside">GYAHLAYGFNYYGTVGSNRDEFVVVRKMKNIDWLDGEGNDQVQES</span><span class="topo-unknown">VK</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -492,6 +502,7 @@ The structure in complex with the inhibitor [PCP](/xray-mp-wiki/reagents/ligands
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -507,15 +518,17 @@ The structure in complex with the inhibitor [PCP](/xray-mp-wiki/reagents/ligands
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MKIRSQVGMVLNLDKCIGCHTCSVTCKNVWTSREGVEYAWFNNVETKPGQGFPTDWENQE</span></span>
-<span class="topo-line"><span class="topo-inside">KYKGGWIRKINGKLQPRMGN</span><span class="topo-unknown">RAMLLGK</span><span class="topo-inside">IFANPHLPGIDDYYEPFDFDYQNLHTAPEGSKS</span></span>
-<span class="topo-line"><span class="topo-inside">QPIARPRSLITGERMAKIEKGPNWEDDLGGEFDKLAKDKNFDNIQKAMYSQFENTFMMYL</span></span>
-<span class="topo-line"><span class="topo-inside">PRLCEHCLNPACVATCPSGAIYKREEDGIVLIDQDKCRGWRMCITGCPYKKIYFNWKSGK</span></span>
-<span class="topo-line"><span class="topo-inside">SEKCIFCYPRIEAGQPTVCSETCVGRIRYLGVLLYDADAIERAASTENEKDLYQRQLDVF</span></span>
-<span class="topo-line"><span class="topo-inside">LDPNDPKVIEQAIKDGIPLSVIEAAQQSPVYKMAMEWKLALPLHPEYRTLPMVWYVPPLS</span></span>
-<span class="topo-line"><span class="topo-inside">PIQSAADAGELGSNGILPDVESLRIPVQYLANLLTAGDTKPVLRALKRMLAMRHYKRAET</span></span>
-<span class="topo-line"><span class="topo-inside">VDGKVDTRALEEVGLTEAQAQEMYRYLAIANYEDRFVVPSSHRELAREAFPEKNGCGFTF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">MKIRSQVGMVLNLDKCIGCHTCSVTCKNVWTSREGVEYAWFNNVETKPGQGFPTDWENQEKYKGGWIRKINGKLQPRMGN</span><span class="topo-unknown">RAMLLGK</span><span class="topo-inside">IFANPHLPGIDDYYEPFDFDYQNLHTAPEGSKS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">QPIARPRSLITGERMAKIEKGPNWEDDLGGEFDKLAKDKNFDNIQKAMYSQFENTFMMYLPRLCEHCLNPACVATCPSGAIYKREEDGIVLIDQDKCRGWRMCITGCPYKKIYFNWKSGK</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">SEKCIFCYPRIEAGQPTVCSETCVGRIRYLGVLLYDADAIERAASTENEKDLYQRQLDVFLDPNDPKVIEQAIKDGIPLSVIEAAQQSPVYKMAMEWKLALPLHPEYRTLPMVWYVPPLS</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">PIQSAADAGELGSNGILPDVESLRIPVQYLANLLTAGDTKPVLRALKRMLAMRHYKRAETVDGKVDTRALEEVGLTEAQAQEMYRYLAIANYEDRFVVPSSHRELAREAFPEKNGCGFTF</span></span>
+<span class="topo-ruler">       490       500       510  </span>
 <span class="topo-line"><span class="topo-inside">GDGCHGSDTKFNLFNSRRIDAIDVTSKTE</span><span class="topo-unknown">PHP</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -555,6 +568,7 @@ The structure in complex with the inhibitor [PCP](/xray-mp-wiki/reagents/ligands
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -570,10 +584,11 @@ The structure in complex with the inhibitor [PCP](/xray-mp-wiki/reagents/ligands
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MQFL</span><span class="topo-membrane">NMFFFDIYPYIAGAVFLIGSWLRY</span><span class="topo-inside">DYGQYTWRAASSQMLDRKG</span><span class="topo-membrane">MNLASNLFHIGIL</span></span>
-<span class="topo-line"><span class="topo-membrane">GIFVGHFFGMLTP</span><span class="topo-outside">HWM</span><span class="topo-unknown">Y</span><span class="topo-outside">EAWLPIEVK</span><span class="topo-membrane">QKMAMFAGGASGVLCLIGGVLLLKRRLF</span><span class="topo-inside">S</span><span class="topo-unknown">PRVRA</span></span>
-<span class="topo-line"><span class="topo-unknown">T</span><span class="topo-inside">TTG</span><span class="topo-membrane">ADILILSLLVIQCALGLLTIP</span><span class="topo-outside">FSAQHMDGSEMMKLVGWAQSVVTFHGGASQHLDGV</span></span>
-<span class="topo-line"><span class="topo-outside">AF</span><span class="topo-membrane">IFRLHLVLGMTLFLLFPFSRLI</span><span class="topo-inside">HIWSVPVEYLTRKYQLVRARH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MQFL</span><span class="topo-membrane">NMFFFDIYPYIAGAVFLIGSWLRY</span><span class="topo-inside">DYGQYTWRAASSQMLDRKG</span><span class="topo-membrane">MNLASNLFHIGILGIFVGHFFGMLTP</span><span class="topo-outside">HWM</span><span class="topo-unknown">Y</span><span class="topo-outside">EAWLPIEVK</span><span class="topo-membrane">QKMAMFAGGASGVLCLIGGVLLLKRRLF</span><span class="topo-inside">S</span><span class="topo-unknown">PRVRA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220     </span>
+<span class="topo-line"><span class="topo-unknown">T</span><span class="topo-inside">TTG</span><span class="topo-membrane">ADILILSLLVIQCALGLLTIP</span><span class="topo-outside">FSAQHMDGSEMMKLVGWAQSVVTFHGGASQHLDGVAF</span><span class="topo-membrane">IFRLHLVLGMTLFLLFPFSRLI</span><span class="topo-inside">HIWSVPVEYLTRKYQLVRARH</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -690,6 +705,7 @@ The structure in complex with the inhibitor [PCP](/xray-mp-wiki/reagents/ligands
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -752,27 +768,29 @@ The structure in complex with the inhibitor [PCP](/xray-mp-wiki/reagents/ligands
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">S</span><span class="topo-unknown">KFLDRFR</span><span class="topo-inside">YFKQKGETFADGHGQLLNTNRDWEDGYRQRWQHDKIVRSTHGVNCTGSCSWK</span></span>
-<span class="topo-line"><span class="topo-inside">IYVKNGLVTWETQQTDYPRTRPDLPNHEPRGCPRGASYSWYLYSANRLKYPMMRKRLMKM</span></span>
-<span class="topo-line"><span class="topo-inside">WREAKALHSDPVEAWASIIEDADKAKSFKQARGRGGFVRSSWQEVNELIAASNVYTIKNY</span></span>
-<span class="topo-line"><span class="topo-inside">GPDRVAGFSPIPAMSMVSYASGARYLSLIGGTCLSFYDWYCDLPPASPQTWGEQTDVPES</span></span>
-<span class="topo-line"><span class="topo-inside">ADWYNSSYIIAWGSNVPQTRTPDAHFFTEVRYKGTKTVAVTPDYAEIAKLCDLWLAPKQG</span></span>
-<span class="topo-line"><span class="topo-inside">TDAAMALAMGHVMLREFHLDNPSQYFTDYVRRYTDMPMLVMLEERDGYYAAGRMLRAADL</span></span>
-<span class="topo-line"><span class="topo-inside">VDALGQENNPEWKTVAFNTNGEMVAPNGSIGFRWGEKGKWNLEQRDGKTGEETELQLSLL</span></span>
-<span class="topo-line"><span class="topo-inside">GSQDEIAEVGFPYFGGDGTEHFNKVELENVLLHKLPVKRLQLADGSTALVTTVYDLTLAN</span></span>
-<span class="topo-line"><span class="topo-inside">YGLERGLNDVNCATSYDDVKAYTPAWAEQITGVSRSQIIRIAREFADNADKTHGRSMIIV</span></span>
-<span class="topo-line"><span class="topo-inside">GAGLNHWYHLDMNYRGLINMLIFCGCVGQSGGGWAHYVGQEKLRPQTGWQPLAFALDWQR</span></span>
-<span class="topo-line"><span class="topo-inside">PARHMNSTSYFYNHSSQWRYETVTAEELLSPMADKSRYTGHLIDFNVRAERMGWLPSAPQ</span></span>
-<span class="topo-line"><span class="topo-inside">LGTNPLTIAGEAEKAGMNPVDYTVKSLKEGSIRFAAEQPENGKNHPRNLFIWRSNLLGSS</span></span>
-<span class="topo-line"><span class="topo-inside">GKGHEFMLKYLLGTEHGIQGKDLGQQGGVKPEEVDWQDNGLEGKLDLVVTLDFRLSSTCL</span></span>
-<span class="topo-line"><span class="topo-inside">YSDIILPTATWYEKDDMNTSDMHPFIHPLSAAVDPAWEAKSDWEIYKAIAKKFSEVCVGH</span></span>
-<span class="topo-line"><span class="topo-inside">LGKETDIVTLPIQHDSAAELAQPLDVKDWKKGECDLIPGKTAPHIMVVERDYPATYERFT</span></span>
-<span class="topo-line"><span class="topo-inside">SIGPLMEKIGNGGKGIAWNTQSEMDLLRKLNYTKAEGPAKGQPMLNTAIDAAEMILTLAP</span></span>
-<span class="topo-line"><span class="topo-inside">ETNGQVAVKAWAALSEFTGRDHTHLALNKEDEKIRFRDIQAQPRKIISSPTWSGLEDEHV</span></span>
-<span class="topo-line"><span class="topo-inside">SYNAGYTNVHELIPWRTLSGRQQLYQDHQWMRDFGESLLVYRPPIDTRSVKEVIGQKSNG</span></span>
-<span class="topo-line"><span class="topo-inside">NQEKALNFLTPHQKWGIHSTYSDNLLMLTLGRGGPVVWLSEADAKDLGIADNDWIEVFNS</span></span>
-<span class="topo-line"><span class="topo-inside">NGALTARAVVSQRVPAGMTMMYHAQERIVNLPGSEITQQRGGIHNSVTRITPKPTHMIGG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">S</span><span class="topo-unknown">KFLDRFR</span><span class="topo-inside">YFKQKGETFADGHGQLLNTNRDWEDGYRQRWQHDKIVRSTHGVNCTGSCSWKIYVKNGLVTWETQQTDYPRTRPDLPNHEPRGCPRGASYSWYLYSANRLKYPMMRKRLMKM</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">WREAKALHSDPVEAWASIIEDADKAKSFKQARGRGGFVRSSWQEVNELIAASNVYTIKNYGPDRVAGFSPIPAMSMVSYASGARYLSLIGGTCLSFYDWYCDLPPASPQTWGEQTDVPES</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">ADWYNSSYIIAWGSNVPQTRTPDAHFFTEVRYKGTKTVAVTPDYAEIAKLCDLWLAPKQGTDAAMALAMGHVMLREFHLDNPSQYFTDYVRRYTDMPMLVMLEERDGYYAAGRMLRAADL</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">VDALGQENNPEWKTVAFNTNGEMVAPNGSIGFRWGEKGKWNLEQRDGKTGEETELQLSLLGSQDEIAEVGFPYFGGDGTEHFNKVELENVLLHKLPVKRLQLADGSTALVTTVYDLTLAN</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-inside">YGLERGLNDVNCATSYDDVKAYTPAWAEQITGVSRSQIIRIAREFADNADKTHGRSMIIVGAGLNHWYHLDMNYRGLINMLIFCGCVGQSGGGWAHYVGQEKLRPQTGWQPLAFALDWQR</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-inside">PARHMNSTSYFYNHSSQWRYETVTAEELLSPMADKSRYTGHLIDFNVRAERMGWLPSAPQLGTNPLTIAGEAEKAGMNPVDYTVKSLKEGSIRFAAEQPENGKNHPRNLFIWRSNLLGSS</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820       830       840</span>
+<span class="topo-line"><span class="topo-inside">GKGHEFMLKYLLGTEHGIQGKDLGQQGGVKPEEVDWQDNGLEGKLDLVVTLDFRLSSTCLYSDIILPTATWYEKDDMNTSDMHPFIHPLSAAVDPAWEAKSDWEIYKAIAKKFSEVCVGH</span></span>
+<span class="topo-ruler">       850       860       870       880       890       900       910       920       930       940       950       960</span>
+<span class="topo-line"><span class="topo-inside">LGKETDIVTLPIQHDSAAELAQPLDVKDWKKGECDLIPGKTAPHIMVVERDYPATYERFTSIGPLMEKIGNGGKGIAWNTQSEMDLLRKLNYTKAEGPAKGQPMLNTAIDAAEMILTLAP</span></span>
+<span class="topo-ruler">       970       980       990      1000      1010      1020      1030      1040      1050      1060      1070      1080</span>
+<span class="topo-line"><span class="topo-inside">ETNGQVAVKAWAALSEFTGRDHTHLALNKEDEKIRFRDIQAQPRKIISSPTWSGLEDEHVSYNAGYTNVHELIPWRTLSGRQQLYQDHQWMRDFGESLLVYRPPIDTRSVKEVIGQKSNG</span></span>
+<span class="topo-ruler">      1090      1100      1110      1120      1130      1140      1150      1160      1170      1180      1190      1200</span>
+<span class="topo-line"><span class="topo-inside">NQEKALNFLTPHQKWGIHSTYSDNLLMLTLGRGGPVVWLSEADAKDLGIADNDWIEVFNSNGALTARAVVSQRVPAGMTMMYHAQERIVNLPGSEITQQRGGIHNSVTRITPKPTHMIGG</span></span>
+<span class="topo-ruler">      1210      1220      1230      1240      </span>
 <span class="topo-line"><span class="topo-inside">YAHLAYGFNYYGTVGSNRDEFVVVRKMKNIDWLDGEGNDQVQES</span><span class="topo-unknown">VK</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -812,6 +830,7 @@ The structure in complex with the inhibitor [PCP](/xray-mp-wiki/reagents/ligands
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -827,15 +846,17 @@ The structure in complex with the inhibitor [PCP](/xray-mp-wiki/reagents/ligands
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MKIRSQVGMVLNLDKCIGCHTCSVTAKNVWTSREGVEYAWFNNVETKPGQGFPTDWENQE</span></span>
-<span class="topo-line"><span class="topo-inside">KYKGGWIRKINGKLQPRMGN</span><span class="topo-unknown">RAMLLGK</span><span class="topo-inside">IFANPHLPGIDDYYEPFDFDYQNLHTAPEGSKS</span></span>
-<span class="topo-line"><span class="topo-inside">QPIARPRSLITGERMAKIEKGPNWEDDLGGEFDKLAKDKNFDNIQKAMYSQFENTFMMYL</span></span>
-<span class="topo-line"><span class="topo-inside">PRLCEHCLNPACVATCPSGAIYKREEDGIVLIDQDKCRGWRMCITGCPYKKIYFNWKSGK</span></span>
-<span class="topo-line"><span class="topo-inside">SEKCIFCYPRIEAGQPTVCSETCVGRIRYLGVLLYDADAIERAASTENEKDLYQRQLDVF</span></span>
-<span class="topo-line"><span class="topo-inside">LDPNDPKVIEQAIKDGIPLSVIEAAQQSPVYKMAMEWKLALPLHPEYRTLPMVWYVPPLS</span></span>
-<span class="topo-line"><span class="topo-inside">PIQSAADAGELGSNGILPDVESLRIPVQYLANLLTAGDTKPVLRALKRMLAMRHYKRAET</span></span>
-<span class="topo-line"><span class="topo-inside">VDGKVDTRALEEVGLTEAQAQEMYRYLAIANYEDRFVVPSSHRELAREAFPEKNGCGFTF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">MKIRSQVGMVLNLDKCIGCHTCSVTAKNVWTSREGVEYAWFNNVETKPGQGFPTDWENQEKYKGGWIRKINGKLQPRMGN</span><span class="topo-unknown">RAMLLGK</span><span class="topo-inside">IFANPHLPGIDDYYEPFDFDYQNLHTAPEGSKS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">QPIARPRSLITGERMAKIEKGPNWEDDLGGEFDKLAKDKNFDNIQKAMYSQFENTFMMYLPRLCEHCLNPACVATCPSGAIYKREEDGIVLIDQDKCRGWRMCITGCPYKKIYFNWKSGK</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">SEKCIFCYPRIEAGQPTVCSETCVGRIRYLGVLLYDADAIERAASTENEKDLYQRQLDVFLDPNDPKVIEQAIKDGIPLSVIEAAQQSPVYKMAMEWKLALPLHPEYRTLPMVWYVPPLS</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">PIQSAADAGELGSNGILPDVESLRIPVQYLANLLTAGDTKPVLRALKRMLAMRHYKRAETVDGKVDTRALEEVGLTEAQAQEMYRYLAIANYEDRFVVPSSHRELAREAFPEKNGCGFTF</span></span>
+<span class="topo-ruler">       490       500       510  </span>
 <span class="topo-line"><span class="topo-inside">GDGCHGSDTKFNLFNSRRIDAIDVTSKTE</span><span class="topo-unknown">PHP</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -875,6 +896,7 @@ The structure in complex with the inhibitor [PCP](/xray-mp-wiki/reagents/ligands
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -890,10 +912,11 @@ The structure in complex with the inhibitor [PCP](/xray-mp-wiki/reagents/ligands
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MQFL</span><span class="topo-membrane">NMFFFDIYPYIAGAVFLIGSWLRY</span><span class="topo-inside">DYGQYTWRAASSQMLDRKG</span><span class="topo-membrane">MNLASNLFHIGIL</span></span>
-<span class="topo-line"><span class="topo-membrane">GIFVGHFFGMLT</span><span class="topo-unknown">PHWMYEAW</span><span class="topo-outside">LPIEVK</span><span class="topo-membrane">QKMAMFAGGASGVLCLIGGVLLLKRRLF</span><span class="topo-inside">S</span><span class="topo-unknown">PRVRA</span></span>
-<span class="topo-line"><span class="topo-unknown">T</span><span class="topo-inside">TTG</span><span class="topo-membrane">ADILILSLLVIQCALGLLTIP</span><span class="topo-outside">FSAQHMDGSEMMKLVGWAQSVVTFHGGASQHLDGV</span></span>
-<span class="topo-line"><span class="topo-outside">AF</span><span class="topo-membrane">IFRLHLVLGMTLFLLFPFSRLI</span><span class="topo-inside">HIWSVPVEYLTRKYQLVRARH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MQFL</span><span class="topo-membrane">NMFFFDIYPYIAGAVFLIGSWLRY</span><span class="topo-inside">DYGQYTWRAASSQMLDRKG</span><span class="topo-membrane">MNLASNLFHIGILGIFVGHFFGMLT</span><span class="topo-unknown">PHWMYEAW</span><span class="topo-outside">LPIEVK</span><span class="topo-membrane">QKMAMFAGGASGVLCLIGGVLLLKRRLF</span><span class="topo-inside">S</span><span class="topo-unknown">PRVRA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220     </span>
+<span class="topo-line"><span class="topo-unknown">T</span><span class="topo-inside">TTG</span><span class="topo-membrane">ADILILSLLVIQCALGLLTIP</span><span class="topo-outside">FSAQHMDGSEMMKLVGWAQSVVTFHGGASQHLDGVAF</span><span class="topo-membrane">IFRLHLVLGMTLFLLFPFSRLI</span><span class="topo-inside">HIWSVPVEYLTRKYQLVRARH</span></span>
+<details class="topo-details"><summary>Topology coordinates (14 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1003,6 +1026,7 @@ The structure in complex with the inhibitor [PCP](/xray-mp-wiki/reagents/ligands
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1018,27 +1042,29 @@ The structure in complex with the inhibitor [PCP](/xray-mp-wiki/reagents/ligands
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">S</span><span class="topo-unknown">KFLDRFR</span><span class="topo-inside">YFKQKGETFADGHGQLLNTNRDWEDGYRQRWQHDKIVRSTHGVNCTGSCSWK</span></span>
-<span class="topo-line"><span class="topo-inside">IYVKNGLVTWETQQTDYPRTRPDLPNHEPRGCPRGASYSWYLYSANRLKYPMMRKRLMKM</span></span>
-<span class="topo-line"><span class="topo-inside">WREAKALHSDPVEAWASIIEDADKAKSFKQARGRGGFVRSSWQEVNELIAASNVYTIKNY</span></span>
-<span class="topo-line"><span class="topo-inside">GPDRVAGFSPIPAMSMVSYASGARYLSLIGGTCLSFYDWYCDLPPASPQTWGEQTDVPES</span></span>
-<span class="topo-line"><span class="topo-inside">ADWYNSSYIIAWGSNVPQTRTPDAHFFTEVRYKGTKTVAVTPDYAEIAKLCDLWLAPKQG</span></span>
-<span class="topo-line"><span class="topo-inside">TDAAMALAMGHVMLREFHLDNPSQYFTDYVRRYTDMPMLVMLEERDGYYAAGRMLRAADL</span></span>
-<span class="topo-line"><span class="topo-inside">VDALGQENNPEWKTVAFNTNGEMVAPNGSIGFRWGEKGKWNLEQRDGKTGEETELQLSLL</span></span>
-<span class="topo-line"><span class="topo-inside">GSQDEIAEVGFPYFGGDGTEHFNKVELENVLLHKLPVKRLQLADGSTALVTTVYDLTLAN</span></span>
-<span class="topo-line"><span class="topo-inside">YGLERGLNDVNCATSYDDVKAYTPAWAEQITGVSRSQIIRIAREFADNADKTHGRSMIIV</span></span>
-<span class="topo-line"><span class="topo-inside">GAGLNHWYHLDMNYRGLINMLIFCGCVGQSGGGWAHYVGQEKLRPQTGWQPLAFALDWQR</span></span>
-<span class="topo-line"><span class="topo-inside">PARHMNSTSYFYNHSSQWRYETVTAEELLSPMADKSRYTGHLIDFNVRAERMGWLPSAPQ</span></span>
-<span class="topo-line"><span class="topo-inside">LGTNPLTIAGEAEKAGMNPVDYTVKSLKEGSIRFAAEQPENGKNHPRNLFIWRSNLLGSS</span></span>
-<span class="topo-line"><span class="topo-inside">GKGHEFMLKYLLGTEHGIQGKDLGQQGGVKPEEVDWQDNGLEGKLDLVVTLDFRLSSTCL</span></span>
-<span class="topo-line"><span class="topo-inside">YSDIILPTATWYEKDDMNTSDMHPFIHPLSAAVDPAWEAKSDWEIYKAIAKKFSEVCVGH</span></span>
-<span class="topo-line"><span class="topo-inside">LGKETDIVTLPIQHDSAAELAQPLDVKDWKKGECDLIPGKTAPHIMVVERDYPATYERFT</span></span>
-<span class="topo-line"><span class="topo-inside">SIGPLMEKIGNGGKGIAWNTQSEMDLLRKLNYTKAEGPAKGQPMLNTAIDAAEMILTLAP</span></span>
-<span class="topo-line"><span class="topo-inside">ETNGQVAVKAWAALSEFTGRDHTHLALNKEDEKIRFRDIQAQPRKIISSPTWSGLEDEHV</span></span>
-<span class="topo-line"><span class="topo-inside">SYNAGYTNVHELIPWRTLSGRQQLYQDHQWMRDFGESLLVYRPPIDTRSVKEVIGQKSNG</span></span>
-<span class="topo-line"><span class="topo-inside">NQEKALNFLTPHQKWGIHSTYSDNLLMLTLGRGGPVVWLSEADAKDLGIADNDWIEVFNS</span></span>
-<span class="topo-line"><span class="topo-inside">NGALTARAVVSQRVPAGMTMMYHAQERIVNLPGSEITQQRGGIHNSVTRITPKPTHMIGG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">S</span><span class="topo-unknown">KFLDRFR</span><span class="topo-inside">YFKQKGETFADGHGQLLNTNRDWEDGYRQRWQHDKIVRSTHGVNCTGSCSWKIYVKNGLVTWETQQTDYPRTRPDLPNHEPRGCPRGASYSWYLYSANRLKYPMMRKRLMKM</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">WREAKALHSDPVEAWASIIEDADKAKSFKQARGRGGFVRSSWQEVNELIAASNVYTIKNYGPDRVAGFSPIPAMSMVSYASGARYLSLIGGTCLSFYDWYCDLPPASPQTWGEQTDVPES</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">ADWYNSSYIIAWGSNVPQTRTPDAHFFTEVRYKGTKTVAVTPDYAEIAKLCDLWLAPKQGTDAAMALAMGHVMLREFHLDNPSQYFTDYVRRYTDMPMLVMLEERDGYYAAGRMLRAADL</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">VDALGQENNPEWKTVAFNTNGEMVAPNGSIGFRWGEKGKWNLEQRDGKTGEETELQLSLLGSQDEIAEVGFPYFGGDGTEHFNKVELENVLLHKLPVKRLQLADGSTALVTTVYDLTLAN</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-inside">YGLERGLNDVNCATSYDDVKAYTPAWAEQITGVSRSQIIRIAREFADNADKTHGRSMIIVGAGLNHWYHLDMNYRGLINMLIFCGCVGQSGGGWAHYVGQEKLRPQTGWQPLAFALDWQR</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-inside">PARHMNSTSYFYNHSSQWRYETVTAEELLSPMADKSRYTGHLIDFNVRAERMGWLPSAPQLGTNPLTIAGEAEKAGMNPVDYTVKSLKEGSIRFAAEQPENGKNHPRNLFIWRSNLLGSS</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820       830       840</span>
+<span class="topo-line"><span class="topo-inside">GKGHEFMLKYLLGTEHGIQGKDLGQQGGVKPEEVDWQDNGLEGKLDLVVTLDFRLSSTCLYSDIILPTATWYEKDDMNTSDMHPFIHPLSAAVDPAWEAKSDWEIYKAIAKKFSEVCVGH</span></span>
+<span class="topo-ruler">       850       860       870       880       890       900       910       920       930       940       950       960</span>
+<span class="topo-line"><span class="topo-inside">LGKETDIVTLPIQHDSAAELAQPLDVKDWKKGECDLIPGKTAPHIMVVERDYPATYERFTSIGPLMEKIGNGGKGIAWNTQSEMDLLRKLNYTKAEGPAKGQPMLNTAIDAAEMILTLAP</span></span>
+<span class="topo-ruler">       970       980       990      1000      1010      1020      1030      1040      1050      1060      1070      1080</span>
+<span class="topo-line"><span class="topo-inside">ETNGQVAVKAWAALSEFTGRDHTHLALNKEDEKIRFRDIQAQPRKIISSPTWSGLEDEHVSYNAGYTNVHELIPWRTLSGRQQLYQDHQWMRDFGESLLVYRPPIDTRSVKEVIGQKSNG</span></span>
+<span class="topo-ruler">      1090      1100      1110      1120      1130      1140      1150      1160      1170      1180      1190      1200</span>
+<span class="topo-line"><span class="topo-inside">NQEKALNFLTPHQKWGIHSTYSDNLLMLTLGRGGPVVWLSEADAKDLGIADNDWIEVFNSNGALTARAVVSQRVPAGMTMMYHAQERIVNLPGSEITQQRGGIHNSVTRITPKPTHMIGG</span></span>
+<span class="topo-ruler">      1210      1220      1230      1240      </span>
 <span class="topo-line"><span class="topo-inside">YAHLAYGFNYYGTVGSNRDEFVVVRKMKNIDWLDGEGNDQVQES</span><span class="topo-unknown">VK</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1078,6 +1104,7 @@ The structure in complex with the inhibitor [PCP](/xray-mp-wiki/reagents/ligands
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1093,15 +1120,17 @@ The structure in complex with the inhibitor [PCP](/xray-mp-wiki/reagents/ligands
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MKIRSQVGMVLNLDKCIGCHTCSVTAKNVWTSREGVEYAWFNNVETKPGQGFPTDWENQE</span></span>
-<span class="topo-line"><span class="topo-inside">KYKGGWIRKINGKLQPRMGN</span><span class="topo-unknown">RAMLLGK</span><span class="topo-inside">IFANPHLPGIDDYYEPFDFDYQNLHTAPEGSKS</span></span>
-<span class="topo-line"><span class="topo-inside">QPIARPRSLITGERMAKIEKGPNWEDDLGGEFDKLAKDKNFDNIQKAMYSQFENTFMMYL</span></span>
-<span class="topo-line"><span class="topo-inside">PRLCEHCLNPACVATCPSGAIYKREEDGIVLIDQDKCRGWRMCITGCPYKKIYFNWKSGK</span></span>
-<span class="topo-line"><span class="topo-inside">SEKCIFCYPRIEAGQPTVCSETCVGRIRYLGVLLYDADAIERAASTENEKDLYQRQLDVF</span></span>
-<span class="topo-line"><span class="topo-inside">LDPNDPKVIEQAIKDGIPLSVIEAAQQSPVYKMAMEWKLALPLHPEYRTLPMVWYVPPLS</span></span>
-<span class="topo-line"><span class="topo-inside">PIQSAADAGELGSNGILPDVESLRIPVQYLANLLTAGDTKPVLRALKRMLAMRHYKRAET</span></span>
-<span class="topo-line"><span class="topo-inside">VDGKVDTRALEEVGLTEAQAQEMYRYLAIANYEDRFVVPSSHRELAREAFPEKNGCGFTF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">MKIRSQVGMVLNLDKCIGCHTCSVTAKNVWTSREGVEYAWFNNVETKPGQGFPTDWENQEKYKGGWIRKINGKLQPRMGN</span><span class="topo-unknown">RAMLLGK</span><span class="topo-inside">IFANPHLPGIDDYYEPFDFDYQNLHTAPEGSKS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">QPIARPRSLITGERMAKIEKGPNWEDDLGGEFDKLAKDKNFDNIQKAMYSQFENTFMMYLPRLCEHCLNPACVATCPSGAIYKREEDGIVLIDQDKCRGWRMCITGCPYKKIYFNWKSGK</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">SEKCIFCYPRIEAGQPTVCSETCVGRIRYLGVLLYDADAIERAASTENEKDLYQRQLDVFLDPNDPKVIEQAIKDGIPLSVIEAAQQSPVYKMAMEWKLALPLHPEYRTLPMVWYVPPLS</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">PIQSAADAGELGSNGILPDVESLRIPVQYLANLLTAGDTKPVLRALKRMLAMRHYKRAETVDGKVDTRALEEVGLTEAQAQEMYRYLAIANYEDRFVVPSSHRELAREAFPEKNGCGFTF</span></span>
+<span class="topo-ruler">       490       500       510  </span>
 <span class="topo-line"><span class="topo-inside">GDGCHGSDTKFNLFNSRRIDAIDVTSKTE</span><span class="topo-unknown">PHP</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1141,6 +1170,7 @@ The structure in complex with the inhibitor [PCP](/xray-mp-wiki/reagents/ligands
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1156,10 +1186,11 @@ The structure in complex with the inhibitor [PCP](/xray-mp-wiki/reagents/ligands
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MQFL</span><span class="topo-membrane">NMFFFDIYPYIAGAVFLIGSWLRY</span><span class="topo-inside">DYGQYTWRAASSQMLDRKG</span><span class="topo-membrane">MNLASNLFHIGIL</span></span>
-<span class="topo-line"><span class="topo-membrane">GIFVGHFFGMLT</span><span class="topo-unknown">PHWMYEAW</span><span class="topo-outside">LPIEVK</span><span class="topo-membrane">QKMAMFAGGASGVLCLIGGVLLLKRRLF</span><span class="topo-inside">S</span><span class="topo-unknown">PRVRA</span></span>
-<span class="topo-line"><span class="topo-unknown">T</span><span class="topo-inside">TTG</span><span class="topo-membrane">ADILILSLLVIQCALGLLTIP</span><span class="topo-outside">FSAQHMDGSEMMKLVGWAQSVVTFHGGASQHLDGV</span></span>
-<span class="topo-line"><span class="topo-outside">AF</span><span class="topo-membrane">IFRLHLVLGMTLFLLFPFSRLI</span><span class="topo-inside">HIWSVPVEYLTRKYQLVRARH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MQFL</span><span class="topo-membrane">NMFFFDIYPYIAGAVFLIGSWLRY</span><span class="topo-inside">DYGQYTWRAASSQMLDRKG</span><span class="topo-membrane">MNLASNLFHIGILGIFVGHFFGMLT</span><span class="topo-unknown">PHWMYEAW</span><span class="topo-outside">LPIEVK</span><span class="topo-membrane">QKMAMFAGGASGVLCLIGGVLLLKRRLF</span><span class="topo-inside">S</span><span class="topo-unknown">PRVRA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220     </span>
+<span class="topo-line"><span class="topo-unknown">T</span><span class="topo-inside">TTG</span><span class="topo-membrane">ADILILSLLVIQCALGLLTIP</span><span class="topo-outside">FSAQHMDGSEMMKLVGWAQSVVTFHGGASQHLDGVAF</span><span class="topo-membrane">IFRLHLVLGMTLFLLFPFSRLI</span><span class="topo-inside">HIWSVPVEYLTRKYQLVRARH</span></span>
+<details class="topo-details"><summary>Topology coordinates (14 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1269,6 +1300,7 @@ The structure in complex with the inhibitor [PCP](/xray-mp-wiki/reagents/ligands
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1284,27 +1316,29 @@ The structure in complex with the inhibitor [PCP](/xray-mp-wiki/reagents/ligands
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">S</span><span class="topo-unknown">KFLDRFR</span><span class="topo-inside">YFKQKGETFADGHGQLLNTNRDWEDGYRQRWQHDKIVRSTHGVNCTGSCSWK</span></span>
-<span class="topo-line"><span class="topo-inside">IYVKNGLVTWETQQTDYPRTRPDLPNHEPRGCPRGASYSWYLYSANRLKYPMMRKRLMKM</span></span>
-<span class="topo-line"><span class="topo-inside">WREAKALHSDPVEAWASIIEDADKAKSFKQARGRGGFVRSSWQEVNELIAASNVYTIKNY</span></span>
-<span class="topo-line"><span class="topo-inside">GPDRVAGFSPIPAMSMVSYASGARYLSLIGGTCLSFYDWYCDLPPASPQTWGEQTDVPES</span></span>
-<span class="topo-line"><span class="topo-inside">ADWYNSSYIIAWGSNVPQTRTPDAHFFTEVRYKGTKTVAVTPDYAEIAKLCDLWLAPKQG</span></span>
-<span class="topo-line"><span class="topo-inside">TDAAMALAMGHVMLREFHLDNPSQYFTDYVRRYTDMPMLVMLEERDGYYAAGRMLRAADL</span></span>
-<span class="topo-line"><span class="topo-inside">VDALGQENNPEWKTVAFNTNGEMVAPNGSIGFRWGEKGKWNLEQRDGKTGEETELQLSLL</span></span>
-<span class="topo-line"><span class="topo-inside">GSQDEIAEVGFPYFGGDGTEHFNKVELENVLLHKLPVKRLQLADGSTALVTTVYDLTLAN</span></span>
-<span class="topo-line"><span class="topo-inside">YGLERGLNDVNCATSYDDVKAYTPAWAEQITGVSRSQIIRIAREFADNADKTHGRSMIIV</span></span>
-<span class="topo-line"><span class="topo-inside">GAGLNHWYHLDMNYRGLINMLIFCGCVGQSGGGWAHYVGQEKLRPQTGWQPLAFALDWQR</span></span>
-<span class="topo-line"><span class="topo-inside">PARHMNSTSYFYNHSSQWRYETVTAEELLSPMADKSRYTGHLIDFNVRAERMGWLPSAPQ</span></span>
-<span class="topo-line"><span class="topo-inside">LGTNPLTIAGEAEKAGMNPVDYTVKSLKEGSIRFAAEQPENGKNHPRNLFIWRSNLLGSS</span></span>
-<span class="topo-line"><span class="topo-inside">GKGHEFMLKYLLGTEHGIQGKDLGQQGGVKPEEVDWQDNGLEGKLDLVVTLDFRLSSTCL</span></span>
-<span class="topo-line"><span class="topo-inside">YSDIILPTATWYEKDDMNTSDMHPFIHPLSAAVDPAWEAKSDWEIYKAIAKKFSEVCVGH</span></span>
-<span class="topo-line"><span class="topo-inside">LGKETDIVTLPIQHDSAAELAQPLDVKDWKKGECDLIPGKTAPHIMVVERDYPATYERFT</span></span>
-<span class="topo-line"><span class="topo-inside">SIGPLMEKIGNGGKGIAWNTQSEMDLLRKLNYTKAEGPAKGQPMLNTAIDAAEMILTLAP</span></span>
-<span class="topo-line"><span class="topo-inside">ETNGQVAVKAWAALSEFTGRDHTHLALNKEDEKIRFRDIQAQPRKIISSPTWSGLEDEHV</span></span>
-<span class="topo-line"><span class="topo-inside">SYNAGYTNVHELIPWRTLSGRQQLYQDHQWMRDFGESLLVYRPPIDTRSVKEVIGQKSNG</span></span>
-<span class="topo-line"><span class="topo-inside">NQEKALNFLTPHQKWGIHSTYSDNLLMLTLGRGGPVVWLSEADAKDLGIADNDWIEVFNS</span></span>
-<span class="topo-line"><span class="topo-inside">NGALTARAVVSQRVPAGMTMMYHAQERIVNLPGSEITQQRGGIHNSVTRITPKPTHMIGG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">S</span><span class="topo-unknown">KFLDRFR</span><span class="topo-inside">YFKQKGETFADGHGQLLNTNRDWEDGYRQRWQHDKIVRSTHGVNCTGSCSWKIYVKNGLVTWETQQTDYPRTRPDLPNHEPRGCPRGASYSWYLYSANRLKYPMMRKRLMKM</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">WREAKALHSDPVEAWASIIEDADKAKSFKQARGRGGFVRSSWQEVNELIAASNVYTIKNYGPDRVAGFSPIPAMSMVSYASGARYLSLIGGTCLSFYDWYCDLPPASPQTWGEQTDVPES</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">ADWYNSSYIIAWGSNVPQTRTPDAHFFTEVRYKGTKTVAVTPDYAEIAKLCDLWLAPKQGTDAAMALAMGHVMLREFHLDNPSQYFTDYVRRYTDMPMLVMLEERDGYYAAGRMLRAADL</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">VDALGQENNPEWKTVAFNTNGEMVAPNGSIGFRWGEKGKWNLEQRDGKTGEETELQLSLLGSQDEIAEVGFPYFGGDGTEHFNKVELENVLLHKLPVKRLQLADGSTALVTTVYDLTLAN</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-inside">YGLERGLNDVNCATSYDDVKAYTPAWAEQITGVSRSQIIRIAREFADNADKTHGRSMIIVGAGLNHWYHLDMNYRGLINMLIFCGCVGQSGGGWAHYVGQEKLRPQTGWQPLAFALDWQR</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-inside">PARHMNSTSYFYNHSSQWRYETVTAEELLSPMADKSRYTGHLIDFNVRAERMGWLPSAPQLGTNPLTIAGEAEKAGMNPVDYTVKSLKEGSIRFAAEQPENGKNHPRNLFIWRSNLLGSS</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820       830       840</span>
+<span class="topo-line"><span class="topo-inside">GKGHEFMLKYLLGTEHGIQGKDLGQQGGVKPEEVDWQDNGLEGKLDLVVTLDFRLSSTCLYSDIILPTATWYEKDDMNTSDMHPFIHPLSAAVDPAWEAKSDWEIYKAIAKKFSEVCVGH</span></span>
+<span class="topo-ruler">       850       860       870       880       890       900       910       920       930       940       950       960</span>
+<span class="topo-line"><span class="topo-inside">LGKETDIVTLPIQHDSAAELAQPLDVKDWKKGECDLIPGKTAPHIMVVERDYPATYERFTSIGPLMEKIGNGGKGIAWNTQSEMDLLRKLNYTKAEGPAKGQPMLNTAIDAAEMILTLAP</span></span>
+<span class="topo-ruler">       970       980       990      1000      1010      1020      1030      1040      1050      1060      1070      1080</span>
+<span class="topo-line"><span class="topo-inside">ETNGQVAVKAWAALSEFTGRDHTHLALNKEDEKIRFRDIQAQPRKIISSPTWSGLEDEHVSYNAGYTNVHELIPWRTLSGRQQLYQDHQWMRDFGESLLVYRPPIDTRSVKEVIGQKSNG</span></span>
+<span class="topo-ruler">      1090      1100      1110      1120      1130      1140      1150      1160      1170      1180      1190      1200</span>
+<span class="topo-line"><span class="topo-inside">NQEKALNFLTPHQKWGIHSTYSDNLLMLTLGRGGPVVWLSEADAKDLGIADNDWIEVFNSNGALTARAVVSQRVPAGMTMMYHAQERIVNLPGSEITQQRGGIHNSVTRITPKPTHMIGG</span></span>
+<span class="topo-ruler">      1210      1220      1230      1240      </span>
 <span class="topo-line"><span class="topo-inside">YAHLAYGFNYYGTVGSNRDEFVVVRKMKNIDWLDGEGNDQVQES</span><span class="topo-unknown">VK</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1344,6 +1378,7 @@ The structure in complex with the inhibitor [PCP](/xray-mp-wiki/reagents/ligands
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1359,15 +1394,17 @@ The structure in complex with the inhibitor [PCP](/xray-mp-wiki/reagents/ligands
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MKIRSQVGMVLNLDKCIGCHTCSVTAKNVWTSREGVEYAWFNNVETKPGQGFPTDWENQE</span></span>
-<span class="topo-line"><span class="topo-inside">KYKGGWIRKINGKLQPRMGN</span><span class="topo-unknown">RAMLLGK</span><span class="topo-inside">IFANPHLPGIDDYYEPFDFDYQNLHTAPEGSKS</span></span>
-<span class="topo-line"><span class="topo-inside">QPIARPRSLITGERMAKIEKGPNWEDDLGGEFDKLAKDKNFDNIQKAMYSQFENTFMMYL</span></span>
-<span class="topo-line"><span class="topo-inside">PRLCEHCLNPACVATCPSGAIYKREEDGIVLIDQDKCRGWRMCITGCPYKKIYFNWKSGK</span></span>
-<span class="topo-line"><span class="topo-inside">SEKCIFCYPRIEAGQPTVCSETCVGRIRYLGVLLYDADAIERAASTENEKDLYQRQLDVF</span></span>
-<span class="topo-line"><span class="topo-inside">LDPNDPKVIEQAIKDGIPLSVIEAAQQSPVYKMAMEWKLALPLHPEYRTLPMVWYVPPLS</span></span>
-<span class="topo-line"><span class="topo-inside">PIQSAADAGELGSNGILPDVESLRIPVQYLANLLTAGDTKPVLRALKRMLAMRHYKRAET</span></span>
-<span class="topo-line"><span class="topo-inside">VDGKVDTRALEEVGLTEAQAQEMYRYLAIANYEDRFVVPSSHRELAREAFPEKNGCGFTF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">MKIRSQVGMVLNLDKCIGCHTCSVTAKNVWTSREGVEYAWFNNVETKPGQGFPTDWENQEKYKGGWIRKINGKLQPRMGN</span><span class="topo-unknown">RAMLLGK</span><span class="topo-inside">IFANPHLPGIDDYYEPFDFDYQNLHTAPEGSKS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">QPIARPRSLITGERMAKIEKGPNWEDDLGGEFDKLAKDKNFDNIQKAMYSQFENTFMMYLPRLCEHCLNPACVATCPSGAIYKREEDGIVLIDQDKCRGWRMCITGCPYKKIYFNWKSGK</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">SEKCIFCYPRIEAGQPTVCSETCVGRIRYLGVLLYDADAIERAASTENEKDLYQRQLDVFLDPNDPKVIEQAIKDGIPLSVIEAAQQSPVYKMAMEWKLALPLHPEYRTLPMVWYVPPLS</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">PIQSAADAGELGSNGILPDVESLRIPVQYLANLLTAGDTKPVLRALKRMLAMRHYKRAETVDGKVDTRALEEVGLTEAQAQEMYRYLAIANYEDRFVVPSSHRELAREAFPEKNGCGFTF</span></span>
+<span class="topo-ruler">       490       500       510  </span>
 <span class="topo-line"><span class="topo-inside">GDGCHGSDTKFNLFNSRRIDAIDVTSKTE</span><span class="topo-unknown">PHP</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1407,6 +1444,7 @@ The structure in complex with the inhibitor [PCP](/xray-mp-wiki/reagents/ligands
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1422,10 +1460,11 @@ The structure in complex with the inhibitor [PCP](/xray-mp-wiki/reagents/ligands
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MQFL</span><span class="topo-membrane">NMFFFDIYPYIAGAVFLIGSWLRY</span><span class="topo-inside">DYGQYTWRAASSQMLDRKG</span><span class="topo-membrane">MNLASNLFHIGIL</span></span>
-<span class="topo-line"><span class="topo-membrane">GIFVGHFFGMLT</span><span class="topo-unknown">PHWMYEAW</span><span class="topo-outside">LPIEVK</span><span class="topo-membrane">QKMAMFAGGASGVLCLIGGVLLLKRRLF</span><span class="topo-inside">S</span><span class="topo-unknown">PRVRA</span></span>
-<span class="topo-line"><span class="topo-unknown">T</span><span class="topo-inside">TTG</span><span class="topo-membrane">ADILILSLLVIQCALGLLTIP</span><span class="topo-outside">FSAQHMDGSEMMKLVGWAQSVVTFHGGASQHLDGV</span></span>
-<span class="topo-line"><span class="topo-outside">AF</span><span class="topo-membrane">IFRLHLVLGMTLFLLFPFSRLI</span><span class="topo-inside">HIWSVPVEYLTRKYQLVRARH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MQFL</span><span class="topo-membrane">NMFFFDIYPYIAGAVFLIGSWLRY</span><span class="topo-inside">DYGQYTWRAASSQMLDRKG</span><span class="topo-membrane">MNLASNLFHIGILGIFVGHFFGMLT</span><span class="topo-unknown">PHWMYEAW</span><span class="topo-outside">LPIEVK</span><span class="topo-membrane">QKMAMFAGGASGVLCLIGGVLLLKRRLF</span><span class="topo-inside">S</span><span class="topo-unknown">PRVRA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220     </span>
+<span class="topo-line"><span class="topo-unknown">T</span><span class="topo-inside">TTG</span><span class="topo-membrane">ADILILSLLVIQCALGLLTIP</span><span class="topo-outside">FSAQHMDGSEMMKLVGWAQSVVTFHGGASQHLDGVAF</span><span class="topo-membrane">IFRLHLVLGMTLFLLFPFSRLI</span><span class="topo-inside">HIWSVPVEYLTRKYQLVRARH</span></span>
+<details class="topo-details"><summary>Topology coordinates (14 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1535,6 +1574,7 @@ The structure in complex with the inhibitor [PCP](/xray-mp-wiki/reagents/ligands
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1550,27 +1590,29 @@ The structure in complex with the inhibitor [PCP](/xray-mp-wiki/reagents/ligands
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">S</span><span class="topo-unknown">KFLDRFR</span><span class="topo-inside">YFKQKGETFADGHGQLLNTNRDWEDGYRQRWQHDKIVRSTHGVNCTGSCSWK</span></span>
-<span class="topo-line"><span class="topo-inside">IYVKNGLVTWETQQTDYPRTRPDLPNHEPRGCPRGASYSWYLYSANRLKYPMMRKRLMKM</span></span>
-<span class="topo-line"><span class="topo-inside">WREAKALHSDPVEAWASIIEDADKAKSFKQARGRGGFVRSSWQEVNELIAASNVYTIKNY</span></span>
-<span class="topo-line"><span class="topo-inside">GPDRVAGFSPIPAMSMVSYASGARYLSLIGGTCLSFYDWYCDLPPASPQTWGEQTDVPES</span></span>
-<span class="topo-line"><span class="topo-inside">ADWYNSSYIIAWGSNVPQTRTPDAHFFTEVRYKGTKTVAVTPDYAEIAKLCDLWLAPKQG</span></span>
-<span class="topo-line"><span class="topo-inside">TDAAMALAMGHVMLREFHLDNPSQYFTDYVRRYTDMPMLVMLEERDGYYAAGRMLRAADL</span></span>
-<span class="topo-line"><span class="topo-inside">VDALGQENNPEWKTVAFNTNGEMVAPNGSIGFRWGEKGKWNLEQRDGKTGEETELQLSLL</span></span>
-<span class="topo-line"><span class="topo-inside">GSQDEIAEVGFPYFGGDGTEHFNKVELENVLLHKLPVKRLQLADGSTALVTTVYDLTLAN</span></span>
-<span class="topo-line"><span class="topo-inside">YGLERGLNDVNCATSYDDVKAYTPAWAEQITGVSRSQIIRIAREFADNADKTHGRSMIIV</span></span>
-<span class="topo-line"><span class="topo-inside">GAGLNHWYHLDMNYRGLINMLIFCGCVGQSGGGWAHYVGQEKLRPQTGWQPLAFALDWQR</span></span>
-<span class="topo-line"><span class="topo-inside">PARHMNSTSYFYNHSSQWRYETVTAEELLSPMADKSRYTGHLIDFNVRAERMGWLPSAPQ</span></span>
-<span class="topo-line"><span class="topo-inside">LGTNPLTIAGEAEKAGMNPVDYTVKSLKEGSIRFAAEQPENGKNHPRNLFIWRSNLLGSS</span></span>
-<span class="topo-line"><span class="topo-inside">GKGHEFMLKYLLGTEHGIQGKDLGQQGGVKPEEVDWQDNGLEGKLDLVVTLDFRLSSTCL</span></span>
-<span class="topo-line"><span class="topo-inside">YSDIILPTATWYEKDDMNTSDMHPFIHPLSAAVDPAWEAKSDWEIYKAIAKKFSEVCVGH</span></span>
-<span class="topo-line"><span class="topo-inside">LGKETDIVTLPIQHDSAAELAQPLDVKDWKKGECDLIPGKTAPHIMVVERDYPATYERFT</span></span>
-<span class="topo-line"><span class="topo-inside">SIGPLMEKIGNGGKGIAWNTQSEMDLLRKLNYTKAEGPAKGQPMLNTAIDAAEMILTLAP</span></span>
-<span class="topo-line"><span class="topo-inside">ETNGQVAVKAWAALSEFTGRDHTHLALNKEDEKIRFRDIQAQPRKIISSPTWSGLEDEHV</span></span>
-<span class="topo-line"><span class="topo-inside">SYNAGYTNVHELIPWRTLSGRQQLYQDHQWMRDFGESLLVYRPPIDTRSVKEVIGQKSNG</span></span>
-<span class="topo-line"><span class="topo-inside">NQEKALNFLTPHQKWGIHSTYSDNLLMLTLGRGGPVVWLSEADAKDLGIADNDWIEVFNS</span></span>
-<span class="topo-line"><span class="topo-inside">NGALTARAVVSQRVPAGMTMMYHAQERIVNLPGSEITQQRGGIHNSVTRITPKPTHMIGG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">S</span><span class="topo-unknown">KFLDRFR</span><span class="topo-inside">YFKQKGETFADGHGQLLNTNRDWEDGYRQRWQHDKIVRSTHGVNCTGSCSWKIYVKNGLVTWETQQTDYPRTRPDLPNHEPRGCPRGASYSWYLYSANRLKYPMMRKRLMKM</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">WREAKALHSDPVEAWASIIEDADKAKSFKQARGRGGFVRSSWQEVNELIAASNVYTIKNYGPDRVAGFSPIPAMSMVSYASGARYLSLIGGTCLSFYDWYCDLPPASPQTWGEQTDVPES</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">ADWYNSSYIIAWGSNVPQTRTPDAHFFTEVRYKGTKTVAVTPDYAEIAKLCDLWLAPKQGTDAAMALAMGHVMLREFHLDNPSQYFTDYVRRYTDMPMLVMLEERDGYYAAGRMLRAADL</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">VDALGQENNPEWKTVAFNTNGEMVAPNGSIGFRWGEKGKWNLEQRDGKTGEETELQLSLLGSQDEIAEVGFPYFGGDGTEHFNKVELENVLLHKLPVKRLQLADGSTALVTTVYDLTLAN</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-inside">YGLERGLNDVNCATSYDDVKAYTPAWAEQITGVSRSQIIRIAREFADNADKTHGRSMIIVGAGLNHWYHLDMNYRGLINMLIFCGCVGQSGGGWAHYVGQEKLRPQTGWQPLAFALDWQR</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-inside">PARHMNSTSYFYNHSSQWRYETVTAEELLSPMADKSRYTGHLIDFNVRAERMGWLPSAPQLGTNPLTIAGEAEKAGMNPVDYTVKSLKEGSIRFAAEQPENGKNHPRNLFIWRSNLLGSS</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820       830       840</span>
+<span class="topo-line"><span class="topo-inside">GKGHEFMLKYLLGTEHGIQGKDLGQQGGVKPEEVDWQDNGLEGKLDLVVTLDFRLSSTCLYSDIILPTATWYEKDDMNTSDMHPFIHPLSAAVDPAWEAKSDWEIYKAIAKKFSEVCVGH</span></span>
+<span class="topo-ruler">       850       860       870       880       890       900       910       920       930       940       950       960</span>
+<span class="topo-line"><span class="topo-inside">LGKETDIVTLPIQHDSAAELAQPLDVKDWKKGECDLIPGKTAPHIMVVERDYPATYERFTSIGPLMEKIGNGGKGIAWNTQSEMDLLRKLNYTKAEGPAKGQPMLNTAIDAAEMILTLAP</span></span>
+<span class="topo-ruler">       970       980       990      1000      1010      1020      1030      1040      1050      1060      1070      1080</span>
+<span class="topo-line"><span class="topo-inside">ETNGQVAVKAWAALSEFTGRDHTHLALNKEDEKIRFRDIQAQPRKIISSPTWSGLEDEHVSYNAGYTNVHELIPWRTLSGRQQLYQDHQWMRDFGESLLVYRPPIDTRSVKEVIGQKSNG</span></span>
+<span class="topo-ruler">      1090      1100      1110      1120      1130      1140      1150      1160      1170      1180      1190      1200</span>
+<span class="topo-line"><span class="topo-inside">NQEKALNFLTPHQKWGIHSTYSDNLLMLTLGRGGPVVWLSEADAKDLGIADNDWIEVFNSNGALTARAVVSQRVPAGMTMMYHAQERIVNLPGSEITQQRGGIHNSVTRITPKPTHMIGG</span></span>
+<span class="topo-ruler">      1210      1220      1230      1240      </span>
 <span class="topo-line"><span class="topo-inside">YAHLAYGFNYYGTVGSNRDEFVVVRKMKNIDWLDGEGNDQVQES</span><span class="topo-unknown">VK</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1610,6 +1652,7 @@ The structure in complex with the inhibitor [PCP](/xray-mp-wiki/reagents/ligands
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1625,15 +1668,17 @@ The structure in complex with the inhibitor [PCP](/xray-mp-wiki/reagents/ligands
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MKIRSQVGMVLNLDKCIGCHTCSVTAKNVWTSREGVEYAWFNNVETKPGQGFPTDWENQE</span></span>
-<span class="topo-line"><span class="topo-inside">KYKGGWIRKINGKLQPRMGN</span><span class="topo-unknown">RAMLLGK</span><span class="topo-inside">IFANPHLPGIDDYYEPFDFDYQNLHTAPEGSKS</span></span>
-<span class="topo-line"><span class="topo-inside">QPIARPRSLITGERMAKIEKGPNWEDDLGGEFDKLAKDKNFDNIQKAMYSQFENTFMMYL</span></span>
-<span class="topo-line"><span class="topo-inside">PRLCEHCLNPACVATCPSGAIYKREEDGIVLIDQDKCRGWRMCITGCPYKKIYFNWKSGK</span></span>
-<span class="topo-line"><span class="topo-inside">SEKCIFCYPRIEAGQPTVCSETCVGRIRYLGVLLYDADAIERAASTENEKDLYQRQLDVF</span></span>
-<span class="topo-line"><span class="topo-inside">LDPNDPKVIEQAIKDGIPLSVIEAAQQSPVYKMAMEWKLALPLHPEYRTLPMVWYVPPLS</span></span>
-<span class="topo-line"><span class="topo-inside">PIQSAADAGELGSNGILPDVESLRIPVQYLANLLTAGDTKPVLRALKRMLAMRHYKRAET</span></span>
-<span class="topo-line"><span class="topo-inside">VDGKVDTRALEEVGLTEAQAQEMYRYLAIANYEDRFVVPSSHRELAREAFPEKNGCGFTF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">MKIRSQVGMVLNLDKCIGCHTCSVTAKNVWTSREGVEYAWFNNVETKPGQGFPTDWENQEKYKGGWIRKINGKLQPRMGN</span><span class="topo-unknown">RAMLLGK</span><span class="topo-inside">IFANPHLPGIDDYYEPFDFDYQNLHTAPEGSKS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">QPIARPRSLITGERMAKIEKGPNWEDDLGGEFDKLAKDKNFDNIQKAMYSQFENTFMMYLPRLCEHCLNPACVATCPSGAIYKREEDGIVLIDQDKCRGWRMCITGCPYKKIYFNWKSGK</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">SEKCIFCYPRIEAGQPTVCSETCVGRIRYLGVLLYDADAIERAASTENEKDLYQRQLDVFLDPNDPKVIEQAIKDGIPLSVIEAAQQSPVYKMAMEWKLALPLHPEYRTLPMVWYVPPLS</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">PIQSAADAGELGSNGILPDVESLRIPVQYLANLLTAGDTKPVLRALKRMLAMRHYKRAETVDGKVDTRALEEVGLTEAQAQEMYRYLAIANYEDRFVVPSSHRELAREAFPEKNGCGFTF</span></span>
+<span class="topo-ruler">       490       500       510  </span>
 <span class="topo-line"><span class="topo-inside">GDGCHGSDTKFNLFNSRRIDAIDVTSKTE</span><span class="topo-unknown">PHP</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1673,6 +1718,7 @@ The structure in complex with the inhibitor [PCP](/xray-mp-wiki/reagents/ligands
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1688,10 +1734,11 @@ The structure in complex with the inhibitor [PCP](/xray-mp-wiki/reagents/ligands
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MQFL</span><span class="topo-membrane">NMFFFDIYPYIAGAVFLIGSWLRY</span><span class="topo-inside">DYGQYTWRAASSQMLDRKG</span><span class="topo-membrane">MNLASNLFHIGIL</span></span>
-<span class="topo-line"><span class="topo-membrane">GIFVGHFFGMLT</span><span class="topo-unknown">PHWMYEAW</span><span class="topo-outside">LPIEVK</span><span class="topo-membrane">QKMAMFAGGASGVLCLIGGVLLLKRRLF</span><span class="topo-inside">S</span><span class="topo-unknown">PRVRA</span></span>
-<span class="topo-line"><span class="topo-unknown">T</span><span class="topo-inside">TTG</span><span class="topo-membrane">ADILILSLLVIQCALGLLTIP</span><span class="topo-outside">FSAQHMDGSEMMKLVGWAQSVVTFHGGASQHLDGV</span></span>
-<span class="topo-line"><span class="topo-outside">AF</span><span class="topo-membrane">IFRLHLVLGMTLFLLFPFSRLI</span><span class="topo-inside">HIWSVPVEYLTRKYQLVRARH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MQFL</span><span class="topo-membrane">NMFFFDIYPYIAGAVFLIGSWLRY</span><span class="topo-inside">DYGQYTWRAASSQMLDRKG</span><span class="topo-membrane">MNLASNLFHIGILGIFVGHFFGMLT</span><span class="topo-unknown">PHWMYEAW</span><span class="topo-outside">LPIEVK</span><span class="topo-membrane">QKMAMFAGGASGVLCLIGGVLLLKRRLF</span><span class="topo-inside">S</span><span class="topo-unknown">PRVRA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220     </span>
+<span class="topo-line"><span class="topo-unknown">T</span><span class="topo-inside">TTG</span><span class="topo-membrane">ADILILSLLVIQCALGLLTIP</span><span class="topo-outside">FSAQHMDGSEMMKLVGWAQSVVTFHGGASQHLDGVAF</span><span class="topo-membrane">IFRLHLVLGMTLFLLFPFSRLI</span><span class="topo-inside">HIWSVPVEYLTRKYQLVRARH</span></span>
+<details class="topo-details"><summary>Topology coordinates (14 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1801,6 +1848,7 @@ The structure in complex with the inhibitor [PCP](/xray-mp-wiki/reagents/ligands
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1816,27 +1864,29 @@ The structure in complex with the inhibitor [PCP](/xray-mp-wiki/reagents/ligands
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">S</span><span class="topo-unknown">KFLDRFR</span><span class="topo-inside">YFKQKGETFADGHGQLLNTNRDWEDGYRQRWQHDKIVRSTHGVNCTGSCSWK</span></span>
-<span class="topo-line"><span class="topo-inside">IYVKNGLVTWETQQTDYPRTRPDLPNHEPRGCPRGASYSWYLYSANRLKYPMMRKRLMKM</span></span>
-<span class="topo-line"><span class="topo-inside">WREAKALHSDPVEAWASIIEDADKAKSFKQARGRGGFVRSSWQEVNELIAASNVYTIKNY</span></span>
-<span class="topo-line"><span class="topo-inside">GPDRVAGFSPIPAMSMVSYASGARYLSLIGGTCLSFYDWYCDLPPASPQTWGEQTDVPES</span></span>
-<span class="topo-line"><span class="topo-inside">ADWYNSSYIIAWGSNVPQTRTPDAHFFTEVRYKGTKTVAVTPDYAEIAKLCDLWLAPKQG</span></span>
-<span class="topo-line"><span class="topo-inside">TDAAMALAMGHVMLREFHLDNPSQYFTDYVRRYTDMPMLVMLEERDGYYAAGRMLRAADL</span></span>
-<span class="topo-line"><span class="topo-inside">VDALGQENNPEWKTVAFNTNGEMVAPNGSIGFRWGEKGKWNLEQRDGKTGEETELQLSLL</span></span>
-<span class="topo-line"><span class="topo-inside">GSQDEIAEVGFPYFGGDGTEHFNKVELENVLLHKLPVKRLQLADGSTALVTTVYDLTLAN</span></span>
-<span class="topo-line"><span class="topo-inside">YGLERGLNDVNCATSYDDVKAYTPAWAEQITGVSRSQIIRIAREFADNADKTHGRSMIIV</span></span>
-<span class="topo-line"><span class="topo-inside">GAGLNHWYHLDMNYRGLINMLIFCGCVGQSGGGWAHYVGQEKLRPQTGWQPLAFALDWQR</span></span>
-<span class="topo-line"><span class="topo-inside">PARHMNSTSYFYNHSSQWRYETVTAEELLSPMADKSRYTGHLIDFNVRAERMGWLPSAPQ</span></span>
-<span class="topo-line"><span class="topo-inside">LGTNPLTIAGEAEKAGMNPVDYTVKSLKEGSIRFAAEQPENGKNHPRNLFIWRSNLLGSS</span></span>
-<span class="topo-line"><span class="topo-inside">GKGHEFMLKYLLGTEHGIQGKDLGQQGGVKPEEVDWQDNGLEGKLDLVVTLDFRLSSTCL</span></span>
-<span class="topo-line"><span class="topo-inside">YSDIILPTATWYEKDDMNTSDMHPFIHPLSAAVDPAWEAKSDWEIYKAIAKKFSEVCVGH</span></span>
-<span class="topo-line"><span class="topo-inside">LGKETDIVTLPIQHDSAAELAQPLDVKDWKKGECDLIPGKTAPHIMVVERDYPATYERFT</span></span>
-<span class="topo-line"><span class="topo-inside">SIGPLMEKIGNGGKGIAWNTQSEMDLLRKLNYTKAEGPAKGQPMLNTAIDAAEMILTLAP</span></span>
-<span class="topo-line"><span class="topo-inside">ETNGQVAVKAWAALSEFTGRDHTHLALNKEDEKIRFRDIQAQPRKIISSPTWSGLEDEHV</span></span>
-<span class="topo-line"><span class="topo-inside">SYNAGYTNVHELIPWRTLSGRQQLYQDHQWMRDFGESLLVYRPPIDTRSVKEVIGQKSNG</span></span>
-<span class="topo-line"><span class="topo-inside">NQEKALNFLTPHQKWGIHSTYSDNLLMLTLGRGGPVVWLSEADAKDLGIADNDWIEVFNS</span></span>
-<span class="topo-line"><span class="topo-inside">NGALTARAVVSQRVPAGMTMMYHAQERIVNLPGSEITQQRGGIHNSVTRITPKPTHMIGG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">S</span><span class="topo-unknown">KFLDRFR</span><span class="topo-inside">YFKQKGETFADGHGQLLNTNRDWEDGYRQRWQHDKIVRSTHGVNCTGSCSWKIYVKNGLVTWETQQTDYPRTRPDLPNHEPRGCPRGASYSWYLYSANRLKYPMMRKRLMKM</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">WREAKALHSDPVEAWASIIEDADKAKSFKQARGRGGFVRSSWQEVNELIAASNVYTIKNYGPDRVAGFSPIPAMSMVSYASGARYLSLIGGTCLSFYDWYCDLPPASPQTWGEQTDVPES</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">ADWYNSSYIIAWGSNVPQTRTPDAHFFTEVRYKGTKTVAVTPDYAEIAKLCDLWLAPKQGTDAAMALAMGHVMLREFHLDNPSQYFTDYVRRYTDMPMLVMLEERDGYYAAGRMLRAADL</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">VDALGQENNPEWKTVAFNTNGEMVAPNGSIGFRWGEKGKWNLEQRDGKTGEETELQLSLLGSQDEIAEVGFPYFGGDGTEHFNKVELENVLLHKLPVKRLQLADGSTALVTTVYDLTLAN</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-inside">YGLERGLNDVNCATSYDDVKAYTPAWAEQITGVSRSQIIRIAREFADNADKTHGRSMIIVGAGLNHWYHLDMNYRGLINMLIFCGCVGQSGGGWAHYVGQEKLRPQTGWQPLAFALDWQR</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-inside">PARHMNSTSYFYNHSSQWRYETVTAEELLSPMADKSRYTGHLIDFNVRAERMGWLPSAPQLGTNPLTIAGEAEKAGMNPVDYTVKSLKEGSIRFAAEQPENGKNHPRNLFIWRSNLLGSS</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820       830       840</span>
+<span class="topo-line"><span class="topo-inside">GKGHEFMLKYLLGTEHGIQGKDLGQQGGVKPEEVDWQDNGLEGKLDLVVTLDFRLSSTCLYSDIILPTATWYEKDDMNTSDMHPFIHPLSAAVDPAWEAKSDWEIYKAIAKKFSEVCVGH</span></span>
+<span class="topo-ruler">       850       860       870       880       890       900       910       920       930       940       950       960</span>
+<span class="topo-line"><span class="topo-inside">LGKETDIVTLPIQHDSAAELAQPLDVKDWKKGECDLIPGKTAPHIMVVERDYPATYERFTSIGPLMEKIGNGGKGIAWNTQSEMDLLRKLNYTKAEGPAKGQPMLNTAIDAAEMILTLAP</span></span>
+<span class="topo-ruler">       970       980       990      1000      1010      1020      1030      1040      1050      1060      1070      1080</span>
+<span class="topo-line"><span class="topo-inside">ETNGQVAVKAWAALSEFTGRDHTHLALNKEDEKIRFRDIQAQPRKIISSPTWSGLEDEHVSYNAGYTNVHELIPWRTLSGRQQLYQDHQWMRDFGESLLVYRPPIDTRSVKEVIGQKSNG</span></span>
+<span class="topo-ruler">      1090      1100      1110      1120      1130      1140      1150      1160      1170      1180      1190      1200</span>
+<span class="topo-line"><span class="topo-inside">NQEKALNFLTPHQKWGIHSTYSDNLLMLTLGRGGPVVWLSEADAKDLGIADNDWIEVFNSNGALTARAVVSQRVPAGMTMMYHAQERIVNLPGSEITQQRGGIHNSVTRITPKPTHMIGG</span></span>
+<span class="topo-ruler">      1210      1220      1230      1240      </span>
 <span class="topo-line"><span class="topo-inside">YAHLAYGFNYYGTVGSNRDEFVVVRKMKNIDWLDGEGNDQVQES</span><span class="topo-unknown">VK</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1876,6 +1926,7 @@ The structure in complex with the inhibitor [PCP](/xray-mp-wiki/reagents/ligands
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1891,15 +1942,17 @@ The structure in complex with the inhibitor [PCP](/xray-mp-wiki/reagents/ligands
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MKIRSQVGMVLNLDKCIGCHTCSVTAKNVWTSREGVEYAWFNNVETKPGQGFPTDWENQE</span></span>
-<span class="topo-line"><span class="topo-inside">KYKGGWIRKINGKLQPRMGN</span><span class="topo-unknown">RAMLLGK</span><span class="topo-inside">IFANPHLPGIDDYYEPFDFDYQNLHTAPEGSKS</span></span>
-<span class="topo-line"><span class="topo-inside">QPIARPRSLITGERMAKIEKGPNWEDDLGGEFDKLAKDKNFDNIQKAMYSQFENTFMMYL</span></span>
-<span class="topo-line"><span class="topo-inside">PRLCEHCLNPACVATCPSGAIYKREEDGIVLIDQDKCRGWRMCITGCPYKKIYFNWKSGK</span></span>
-<span class="topo-line"><span class="topo-inside">SEKCIFCYPRIEAGQPTVCSETCVGRIRYLGVLLYDADAIERAASTENEKDLYQRQLDVF</span></span>
-<span class="topo-line"><span class="topo-inside">LDPNDPKVIEQAIKDGIPLSVIEAAQQSPVYKMAMEWKLALPLHPEYRTLPMVWYVPPLS</span></span>
-<span class="topo-line"><span class="topo-inside">PIQSAADAGELGSNGILPDVESLRIPVQYLANLLTAGDTKPVLRALKRMLAMRHYKRAET</span></span>
-<span class="topo-line"><span class="topo-inside">VDGKVDTRALEEVGLTEAQAQEMYRYLAIANYEDRFVVPSSHRELAREAFPEKNGCGFTF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">MKIRSQVGMVLNLDKCIGCHTCSVTAKNVWTSREGVEYAWFNNVETKPGQGFPTDWENQEKYKGGWIRKINGKLQPRMGN</span><span class="topo-unknown">RAMLLGK</span><span class="topo-inside">IFANPHLPGIDDYYEPFDFDYQNLHTAPEGSKS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">QPIARPRSLITGERMAKIEKGPNWEDDLGGEFDKLAKDKNFDNIQKAMYSQFENTFMMYLPRLCEHCLNPACVATCPSGAIYKREEDGIVLIDQDKCRGWRMCITGCPYKKIYFNWKSGK</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">SEKCIFCYPRIEAGQPTVCSETCVGRIRYLGVLLYDADAIERAASTENEKDLYQRQLDVFLDPNDPKVIEQAIKDGIPLSVIEAAQQSPVYKMAMEWKLALPLHPEYRTLPMVWYVPPLS</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">PIQSAADAGELGSNGILPDVESLRIPVQYLANLLTAGDTKPVLRALKRMLAMRHYKRAETVDGKVDTRALEEVGLTEAQAQEMYRYLAIANYEDRFVVPSSHRELAREAFPEKNGCGFTF</span></span>
+<span class="topo-ruler">       490       500       510  </span>
 <span class="topo-line"><span class="topo-inside">GDGCHGSDTKFNLFNSRRIDAIDVTSKTE</span><span class="topo-unknown">PHP</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1939,6 +1992,7 @@ The structure in complex with the inhibitor [PCP](/xray-mp-wiki/reagents/ligands
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1954,10 +2008,11 @@ The structure in complex with the inhibitor [PCP](/xray-mp-wiki/reagents/ligands
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MQFL</span><span class="topo-membrane">NMFFFDIYPYIAGAVFLIGSWLRY</span><span class="topo-inside">DYGQYTWRAASSQMLDRKG</span><span class="topo-membrane">MNLASNLFHIGIL</span></span>
-<span class="topo-line"><span class="topo-membrane">GIFVGHFFGMLT</span><span class="topo-unknown">PHWMYEAW</span><span class="topo-outside">LPIEVK</span><span class="topo-membrane">QKMAMFAGGASGVLCLIGGVLLLKRRLF</span><span class="topo-inside">S</span><span class="topo-unknown">PRVRA</span></span>
-<span class="topo-line"><span class="topo-unknown">T</span><span class="topo-inside">TTG</span><span class="topo-membrane">ADILILSLLVIQCALGLLTIP</span><span class="topo-outside">FSAQHMDGSEMMKLVGWAQSVVTFHGGASQHLDGV</span></span>
-<span class="topo-line"><span class="topo-outside">AF</span><span class="topo-membrane">IFRLHLVLGMTLFLLFPFSRLI</span><span class="topo-inside">HIWSVPVEYLTRKYQLVRARH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MQFL</span><span class="topo-membrane">NMFFFDIYPYIAGAVFLIGSWLRY</span><span class="topo-inside">DYGQYTWRAASSQMLDRKG</span><span class="topo-membrane">MNLASNLFHIGILGIFVGHFFGMLT</span><span class="topo-unknown">PHWMYEAW</span><span class="topo-outside">LPIEVK</span><span class="topo-membrane">QKMAMFAGGASGVLCLIGGVLLLKRRLF</span><span class="topo-inside">S</span><span class="topo-unknown">PRVRA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220     </span>
+<span class="topo-line"><span class="topo-unknown">T</span><span class="topo-inside">TTG</span><span class="topo-membrane">ADILILSLLVIQCALGLLTIP</span><span class="topo-outside">FSAQHMDGSEMMKLVGWAQSVVTFHGGASQHLDGVAF</span><span class="topo-membrane">IFRLHLVLGMTLFLLFPFSRLI</span><span class="topo-inside">HIWSVPVEYLTRKYQLVRARH</span></span>
+<details class="topo-details"><summary>Topology coordinates (14 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2067,6 +2122,7 @@ The structure in complex with the inhibitor [PCP](/xray-mp-wiki/reagents/ligands
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2082,27 +2138,29 @@ The structure in complex with the inhibitor [PCP](/xray-mp-wiki/reagents/ligands
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">S</span><span class="topo-unknown">KFLDRFR</span><span class="topo-inside">YFKQKGETFADGHGQLLNTNRDWEDGYRQRWQHDKIVRSTHGVNCTGSCSWK</span></span>
-<span class="topo-line"><span class="topo-inside">IYVKNGLVTWETQQTDYPRTRPDLPNHEPRGCPRGASYSWYLYSANRLKYPMMRKRLMKM</span></span>
-<span class="topo-line"><span class="topo-inside">WREAKALHSDPVEAWASIIEDADKAKSFKQARGRGGFVRSSWQEVNELIAASNVYTIKNY</span></span>
-<span class="topo-line"><span class="topo-inside">GPDRVAGFSPIPAMSMVSYASGARYLSLIGGTCLSFYDWYCDLPPASPQTWGEQTDVPES</span></span>
-<span class="topo-line"><span class="topo-inside">ADWYNSSYIIAWGSNVPQTRTPDAHFFTEVRYKGTKTVAVTPDYAEIAKLCDLWLAPKQG</span></span>
-<span class="topo-line"><span class="topo-inside">TDAAMALAMGHVMLREFHLDNPSQYFTDYVRRYTDMPMLVMLEERDGYYAAGRMLRAADL</span></span>
-<span class="topo-line"><span class="topo-inside">VDALGQENNPEWKTVAFNTNGEMVAPNGSIGFRWGEKGKWNLEQRDGKTGEETELQLSLL</span></span>
-<span class="topo-line"><span class="topo-inside">GSQDEIAEVGFPYFGGDGTEHFNKVELENVLLHKLPVKRLQLADGSTALVTTVYDLTLAN</span></span>
-<span class="topo-line"><span class="topo-inside">YGLERGLNDVNCATSYDDVKAYTPAWAEQITGVSRSQIIRIAREFADNADKTHGRSMIIV</span></span>
-<span class="topo-line"><span class="topo-inside">GAGLNHWYHLDMNYRGLINMLIFCGCVGQSGGGWAHYVGQEKLRPQTGWQPLAFALDWQR</span></span>
-<span class="topo-line"><span class="topo-inside">PARHMNSTSYFYNHSSQWRYETVTAEELLSPMADKSRYTGHLIDFNVRAERMGWLPSAPQ</span></span>
-<span class="topo-line"><span class="topo-inside">LGTNPLTIAGEAEKAGMNPVDYTVKSLKEGSIRFAAEQPENGKNHPRNLFIWRSNLLGSS</span></span>
-<span class="topo-line"><span class="topo-inside">GKGHEFMLKYLLGTEHGIQGKDLGQQGGVKPEEVDWQDNGLEGKLDLVVTLDFRLSSTCL</span></span>
-<span class="topo-line"><span class="topo-inside">YSDIILPTATWYEKDDMNTSDMHPFIHPLSAAVDPAWEAKSDWEIYKAIAKKFSEVCVGH</span></span>
-<span class="topo-line"><span class="topo-inside">LGKETDIVTLPIQHDSAAELAQPLDVKDWKKGECDLIPGKTAPHIMVVERDYPATYERFT</span></span>
-<span class="topo-line"><span class="topo-inside">SIGPLMEKIGNGGKGIAWNTQSEMDLLRKLNYTKAEGPAKGQPMLNTAIDAAEMILTLAP</span></span>
-<span class="topo-line"><span class="topo-inside">ETNGQVAVKAWAALSEFTGRDHTHLALNKEDEKIRFRDIQAQPRKIISSPTWSGLEDEHV</span></span>
-<span class="topo-line"><span class="topo-inside">SYNAGYTNVHELIPWRTLSGRQQLYQDHQWMRDFGESLLVYRPPIDTRSVKEVIGQKSNG</span></span>
-<span class="topo-line"><span class="topo-inside">NQEKALNFLTPHQKWGIHSTYSDNLLMLTLGRGGPVVWLSEADAKDLGIADNDWIEVFNS</span></span>
-<span class="topo-line"><span class="topo-inside">NGALTARAVVSQRVPAGMTMMYHAQERIVNLPGSEITQQRGGIHNSVTRITPKPTHMIGG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">S</span><span class="topo-unknown">KFLDRFR</span><span class="topo-inside">YFKQKGETFADGHGQLLNTNRDWEDGYRQRWQHDKIVRSTHGVNCTGSCSWKIYVKNGLVTWETQQTDYPRTRPDLPNHEPRGCPRGASYSWYLYSANRLKYPMMRKRLMKM</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">WREAKALHSDPVEAWASIIEDADKAKSFKQARGRGGFVRSSWQEVNELIAASNVYTIKNYGPDRVAGFSPIPAMSMVSYASGARYLSLIGGTCLSFYDWYCDLPPASPQTWGEQTDVPES</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">ADWYNSSYIIAWGSNVPQTRTPDAHFFTEVRYKGTKTVAVTPDYAEIAKLCDLWLAPKQGTDAAMALAMGHVMLREFHLDNPSQYFTDYVRRYTDMPMLVMLEERDGYYAAGRMLRAADL</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">VDALGQENNPEWKTVAFNTNGEMVAPNGSIGFRWGEKGKWNLEQRDGKTGEETELQLSLLGSQDEIAEVGFPYFGGDGTEHFNKVELENVLLHKLPVKRLQLADGSTALVTTVYDLTLAN</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-inside">YGLERGLNDVNCATSYDDVKAYTPAWAEQITGVSRSQIIRIAREFADNADKTHGRSMIIVGAGLNHWYHLDMNYRGLINMLIFCGCVGQSGGGWAHYVGQEKLRPQTGWQPLAFALDWQR</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-inside">PARHMNSTSYFYNHSSQWRYETVTAEELLSPMADKSRYTGHLIDFNVRAERMGWLPSAPQLGTNPLTIAGEAEKAGMNPVDYTVKSLKEGSIRFAAEQPENGKNHPRNLFIWRSNLLGSS</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820       830       840</span>
+<span class="topo-line"><span class="topo-inside">GKGHEFMLKYLLGTEHGIQGKDLGQQGGVKPEEVDWQDNGLEGKLDLVVTLDFRLSSTCLYSDIILPTATWYEKDDMNTSDMHPFIHPLSAAVDPAWEAKSDWEIYKAIAKKFSEVCVGH</span></span>
+<span class="topo-ruler">       850       860       870       880       890       900       910       920       930       940       950       960</span>
+<span class="topo-line"><span class="topo-inside">LGKETDIVTLPIQHDSAAELAQPLDVKDWKKGECDLIPGKTAPHIMVVERDYPATYERFTSIGPLMEKIGNGGKGIAWNTQSEMDLLRKLNYTKAEGPAKGQPMLNTAIDAAEMILTLAP</span></span>
+<span class="topo-ruler">       970       980       990      1000      1010      1020      1030      1040      1050      1060      1070      1080</span>
+<span class="topo-line"><span class="topo-inside">ETNGQVAVKAWAALSEFTGRDHTHLALNKEDEKIRFRDIQAQPRKIISSPTWSGLEDEHVSYNAGYTNVHELIPWRTLSGRQQLYQDHQWMRDFGESLLVYRPPIDTRSVKEVIGQKSNG</span></span>
+<span class="topo-ruler">      1090      1100      1110      1120      1130      1140      1150      1160      1170      1180      1190      1200</span>
+<span class="topo-line"><span class="topo-inside">NQEKALNFLTPHQKWGIHSTYSDNLLMLTLGRGGPVVWLSEADAKDLGIADNDWIEVFNSNGALTARAVVSQRVPAGMTMMYHAQERIVNLPGSEITQQRGGIHNSVTRITPKPTHMIGG</span></span>
+<span class="topo-ruler">      1210      1220      1230      1240      </span>
 <span class="topo-line"><span class="topo-inside">YAHLAYGFNYYGTVGSNRDEFVVVRKMKNIDWLDGEGNDQVQES</span><span class="topo-unknown">VK</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2142,6 +2200,7 @@ The structure in complex with the inhibitor [PCP](/xray-mp-wiki/reagents/ligands
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2157,15 +2216,17 @@ The structure in complex with the inhibitor [PCP](/xray-mp-wiki/reagents/ligands
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MKIRSQVGMVLNLDKCIGCHTCSVTAKNVWTSREGVEYAWFNNVETKPGQGFPTDWENQE</span></span>
-<span class="topo-line"><span class="topo-inside">KYKGGWIRKINGKLQPRMGN</span><span class="topo-unknown">RAMLLGK</span><span class="topo-inside">IFANPHLPGIDDYYEPFDFDYQNLHTAPEGSKS</span></span>
-<span class="topo-line"><span class="topo-inside">QPIARPRSLITGERMAKIEKGPNWEDDLGGEFDKLAKDKNFDNIQKAMYSQFENTFMMYL</span></span>
-<span class="topo-line"><span class="topo-inside">PRLCEHCLNPACVATCPSGAIYKREEDGIVLIDQDKCRGWRMCITGCPYKKIYFNWKSGK</span></span>
-<span class="topo-line"><span class="topo-inside">SEKCIFCYPRIEAGQPTVCSETCVGRIRYLGVLLYDADAIERAASTENEKDLYQRQLDVF</span></span>
-<span class="topo-line"><span class="topo-inside">LDPNDPKVIEQAIKDGIPLSVIEAAQQSPVYKMAMEWKLALPLHPEYRTLPMVWYVPPLS</span></span>
-<span class="topo-line"><span class="topo-inside">PIQSAADAGELGSNGILPDVESLRIPVQYLANLLTAGDTKPVLRALKRMLAMRHYKRAET</span></span>
-<span class="topo-line"><span class="topo-inside">VDGKVDTRALEEVGLTEAQAQEMYRYLAIANYEDRFVVPSSHRELAREAFPEKNGCGFTF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">MKIRSQVGMVLNLDKCIGCHTCSVTAKNVWTSREGVEYAWFNNVETKPGQGFPTDWENQEKYKGGWIRKINGKLQPRMGN</span><span class="topo-unknown">RAMLLGK</span><span class="topo-inside">IFANPHLPGIDDYYEPFDFDYQNLHTAPEGSKS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">QPIARPRSLITGERMAKIEKGPNWEDDLGGEFDKLAKDKNFDNIQKAMYSQFENTFMMYLPRLCEHCLNPACVATCPSGAIYKREEDGIVLIDQDKCRGWRMCITGCPYKKIYFNWKSGK</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">SEKCIFCYPRIEAGQPTVCSETCVGRIRYLGVLLYDADAIERAASTENEKDLYQRQLDVFLDPNDPKVIEQAIKDGIPLSVIEAAQQSPVYKMAMEWKLALPLHPEYRTLPMVWYVPPLS</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">PIQSAADAGELGSNGILPDVESLRIPVQYLANLLTAGDTKPVLRALKRMLAMRHYKRAETVDGKVDTRALEEVGLTEAQAQEMYRYLAIANYEDRFVVPSSHRELAREAFPEKNGCGFTF</span></span>
+<span class="topo-ruler">       490       500       510  </span>
 <span class="topo-line"><span class="topo-inside">GDGCHGSDTKFNLFNSRRIDAIDVTSKTE</span><span class="topo-unknown">PHP</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2205,6 +2266,7 @@ The structure in complex with the inhibitor [PCP](/xray-mp-wiki/reagents/ligands
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2220,10 +2282,11 @@ The structure in complex with the inhibitor [PCP](/xray-mp-wiki/reagents/ligands
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MQFL</span><span class="topo-membrane">NMFFFDIYPYIAGAVFLIGSWLRY</span><span class="topo-inside">DYGQYTWRAASSQMLDRKG</span><span class="topo-membrane">MNLASNLFHIGIL</span></span>
-<span class="topo-line"><span class="topo-membrane">GIFVGHFFGMLT</span><span class="topo-unknown">PHWMYEAW</span><span class="topo-outside">LPIEVK</span><span class="topo-membrane">QKMAMFAGGASGVLCLIGGVLLLKRRLF</span><span class="topo-inside">S</span><span class="topo-unknown">PRVRA</span></span>
-<span class="topo-line"><span class="topo-unknown">T</span><span class="topo-inside">TTG</span><span class="topo-membrane">ADILILSLLVIQCALGLLTIP</span><span class="topo-outside">FSAQHMDGSEMMKLVGWAQSVVTFHGGASQHLDGV</span></span>
-<span class="topo-line"><span class="topo-outside">AF</span><span class="topo-membrane">IFRLHLVLGMTLFLLFPFSRLI</span><span class="topo-inside">HIWSVPVEYLTRKYQLVRARH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MQFL</span><span class="topo-membrane">NMFFFDIYPYIAGAVFLIGSWLRY</span><span class="topo-inside">DYGQYTWRAASSQMLDRKG</span><span class="topo-membrane">MNLASNLFHIGILGIFVGHFFGMLT</span><span class="topo-unknown">PHWMYEAW</span><span class="topo-outside">LPIEVK</span><span class="topo-membrane">QKMAMFAGGASGVLCLIGGVLLLKRRLF</span><span class="topo-inside">S</span><span class="topo-unknown">PRVRA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220     </span>
+<span class="topo-line"><span class="topo-unknown">T</span><span class="topo-inside">TTG</span><span class="topo-membrane">ADILILSLLVIQCALGLLTIP</span><span class="topo-outside">FSAQHMDGSEMMKLVGWAQSVVTFHGGASQHLDGVAF</span><span class="topo-membrane">IFRLHLVLGMTLFLLFPFSRLI</span><span class="topo-inside">HIWSVPVEYLTRKYQLVRARH</span></span>
+<details class="topo-details"><summary>Topology coordinates (14 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2333,6 +2396,7 @@ The structure in complex with the inhibitor [PCP](/xray-mp-wiki/reagents/ligands
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2419,27 +2483,29 @@ The structure in complex with the inhibitor [PCP](/xray-mp-wiki/reagents/ligands
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">S</span><span class="topo-unknown">KFLDRFR</span><span class="topo-inside">YFKQKGETFADGHGQLLNTNRDWEDGYRQRWQHDKIVRSTHGV</span><span class="topo-unknown">NCT</span><span class="topo-inside">GSCSWK</span></span>
-<span class="topo-line"><span class="topo-inside">IYVKNGLVTWETQQTDYPRTRPDLPNHEPRGCPRGASYSWYLYSANRLKYPMMRKRLMKM</span></span>
-<span class="topo-line"><span class="topo-inside">WREAKALHSDPVEAWASIIEDADKAKSFKQARGRGGFVRSSWQEVNELIAASNVYTIKNY</span></span>
-<span class="topo-line"><span class="topo-inside">GPDRVAGFSPIPAMSMVSYASGARYLSLIGGTCLSFYDWYCDLPPASPQTWGEQTDVPES</span></span>
-<span class="topo-line"><span class="topo-inside">ADWYNSSYIIAWGSNVPQTRTPDAHFFTEVRYKGTKTVAVTPDYAEIAKLCDLWLAPKQG</span></span>
-<span class="topo-line"><span class="topo-inside">TDAAMALAMGHVMLREFHLDNPSQYFTDYVRRYTDMPMLVMLEERDGYYAAGRMLRAADL</span></span>
-<span class="topo-line"><span class="topo-inside">VDALGQENNPEWKTVAFNTNGEMVAPNGSIGFRWGEKGKWNLEQRDGKTGEETELQLSLL</span></span>
-<span class="topo-line"><span class="topo-inside">GSQDEIAEVGFPYFGGDGTEHFNKVELENVLLHKLPVKRLQLADGSTALVTTVYDLTLAN</span></span>
-<span class="topo-line"><span class="topo-inside">YGLERGLNDVNCATSYDDVKAYTPAWAEQITGVSRSQIIRIAREFADNADKTHGRSMIIV</span></span>
-<span class="topo-line"><span class="topo-inside">GAGLNHWYHLDMNYRGLINMLIFCGCVGQSGGGWAHYVGQEKLRPQTGWQPLAFALDWQR</span></span>
-<span class="topo-line"><span class="topo-inside">PARHMNSTSYFYNHSSQWRYETVTAEELLSPMADKSRYTGHLIDFNVRAERMGWLPSAPQ</span></span>
-<span class="topo-line"><span class="topo-inside">LGTNPLTIAGEAEKAGMNPVDYTVKSLKEGSIRFAAEQPENGKNHPRNLFIWRSNLLGSS</span></span>
-<span class="topo-line"><span class="topo-inside">GKGHEFMLKYLLGTEHGIQGKDLGQQGGVKPEEVDWQDNGLEGKLDLVVTLDFRLSSTCL</span></span>
-<span class="topo-line"><span class="topo-inside">YSDIILPTATWYEKDDMNTSDMHPFIHPLSAAVDPAWEAKSDWEIYKAIAKKFSEVCVGH</span></span>
-<span class="topo-line"><span class="topo-inside">LGKETDIVTLPIQHDSAAELAQPLDVKDWKKGECDLIPGKTAPHIMVVERDYPATYERFT</span></span>
-<span class="topo-line"><span class="topo-inside">SIGPLMEKIGNGGKGIAWNTQSEMDLLRKLNYTKAEGPAKGQPMLNTAIDAAEMILTLAP</span></span>
-<span class="topo-line"><span class="topo-inside">ETNGQVAVKAWAALSEFTGRDHTHLALNKEDEKIRFRDIQAQPRKIISSPTWSGLEDEHV</span></span>
-<span class="topo-line"><span class="topo-inside">SYNAGYTNVHELIPWRTLSGRQQLYQDHQWMRDFGESLLVYRPPIDTRSVKEVIGQKSNG</span></span>
-<span class="topo-line"><span class="topo-inside">NQEKALNFLTPHQKWGIHSTYSDNLLMLTLGRGGPVVWLSEADAKDLGIADNDWIEVFNS</span></span>
-<span class="topo-line"><span class="topo-inside">NGALTARAVVSQRVPAGMTMMYHAQERIVNLPGSEITQQRGGIHNSVTRITPKPTHMIGG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">S</span><span class="topo-unknown">KFLDRFR</span><span class="topo-inside">YFKQKGETFADGHGQLLNTNRDWEDGYRQRWQHDKIVRSTHGV</span><span class="topo-unknown">NCT</span><span class="topo-inside">GSCSWKIYVKNGLVTWETQQTDYPRTRPDLPNHEPRGCPRGASYSWYLYSANRLKYPMMRKRLMKM</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">WREAKALHSDPVEAWASIIEDADKAKSFKQARGRGGFVRSSWQEVNELIAASNVYTIKNYGPDRVAGFSPIPAMSMVSYASGARYLSLIGGTCLSFYDWYCDLPPASPQTWGEQTDVPES</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">ADWYNSSYIIAWGSNVPQTRTPDAHFFTEVRYKGTKTVAVTPDYAEIAKLCDLWLAPKQGTDAAMALAMGHVMLREFHLDNPSQYFTDYVRRYTDMPMLVMLEERDGYYAAGRMLRAADL</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">VDALGQENNPEWKTVAFNTNGEMVAPNGSIGFRWGEKGKWNLEQRDGKTGEETELQLSLLGSQDEIAEVGFPYFGGDGTEHFNKVELENVLLHKLPVKRLQLADGSTALVTTVYDLTLAN</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-inside">YGLERGLNDVNCATSYDDVKAYTPAWAEQITGVSRSQIIRIAREFADNADKTHGRSMIIVGAGLNHWYHLDMNYRGLINMLIFCGCVGQSGGGWAHYVGQEKLRPQTGWQPLAFALDWQR</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-inside">PARHMNSTSYFYNHSSQWRYETVTAEELLSPMADKSRYTGHLIDFNVRAERMGWLPSAPQLGTNPLTIAGEAEKAGMNPVDYTVKSLKEGSIRFAAEQPENGKNHPRNLFIWRSNLLGSS</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820       830       840</span>
+<span class="topo-line"><span class="topo-inside">GKGHEFMLKYLLGTEHGIQGKDLGQQGGVKPEEVDWQDNGLEGKLDLVVTLDFRLSSTCLYSDIILPTATWYEKDDMNTSDMHPFIHPLSAAVDPAWEAKSDWEIYKAIAKKFSEVCVGH</span></span>
+<span class="topo-ruler">       850       860       870       880       890       900       910       920       930       940       950       960</span>
+<span class="topo-line"><span class="topo-inside">LGKETDIVTLPIQHDSAAELAQPLDVKDWKKGECDLIPGKTAPHIMVVERDYPATYERFTSIGPLMEKIGNGGKGIAWNTQSEMDLLRKLNYTKAEGPAKGQPMLNTAIDAAEMILTLAP</span></span>
+<span class="topo-ruler">       970       980       990      1000      1010      1020      1030      1040      1050      1060      1070      1080</span>
+<span class="topo-line"><span class="topo-inside">ETNGQVAVKAWAALSEFTGRDHTHLALNKEDEKIRFRDIQAQPRKIISSPTWSGLEDEHVSYNAGYTNVHELIPWRTLSGRQQLYQDHQWMRDFGESLLVYRPPIDTRSVKEVIGQKSNG</span></span>
+<span class="topo-ruler">      1090      1100      1110      1120      1130      1140      1150      1160      1170      1180      1190      1200</span>
+<span class="topo-line"><span class="topo-inside">NQEKALNFLTPHQKWGIHSTYSDNLLMLTLGRGGPVVWLSEADAKDLGIADNDWIEVFNSNGALTARAVVSQRVPAGMTMMYHAQERIVNLPGSEITQQRGGIHNSVTRITPKPTHMIGG</span></span>
+<span class="topo-ruler">      1210      1220      1230      1240      </span>
 <span class="topo-line"><span class="topo-inside">YAHLAYGFNYYGTVGSNRDEFVVVRKMKNIDWLDGEGNDQVQE</span><span class="topo-unknown">SVK</span></span>
+<details class="topo-details"><summary>Topology coordinates (6 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2493,6 +2559,7 @@ The structure in complex with the inhibitor [PCP](/xray-mp-wiki/reagents/ligands
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2508,15 +2575,17 @@ The structure in complex with the inhibitor [PCP](/xray-mp-wiki/reagents/ligands
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MKIRSQVGMVLNLDKCIGCHTCSVTCKNVWTSREGVEYAWFNNVETKPGQGFPTDWENQE</span></span>
-<span class="topo-line"><span class="topo-inside">KYKGGWIRKINGKLQPRMGN</span><span class="topo-unknown">RAMLLGK</span><span class="topo-inside">IFANPHLPGIDDYYEPFDFDYQNLHTAPEGSKS</span></span>
-<span class="topo-line"><span class="topo-inside">QPIARPRSLITGERMAKIEKGPNWEDDLGGEFDKLAKDKNFDNIQKAMYSQFENTFMMYL</span></span>
-<span class="topo-line"><span class="topo-inside">PRLCEHCLNPACVATCPSGAIYKREEDGIVLIDQDKCRGWRMCITGCPYKKIYFNWKSGK</span></span>
-<span class="topo-line"><span class="topo-inside">SEKCIFCYPRIEAGQPTVCSETCVGRIRYLGVLLYDADAIERAASTENEKDLYQRQLDVF</span></span>
-<span class="topo-line"><span class="topo-inside">LDPNDPKVIEQAIKDGIPLSVIEAAQQSPVYKMAMEWKLALPLHPEYRTLPMVWYVPPLS</span></span>
-<span class="topo-line"><span class="topo-inside">PIQSAADAGELGSNGILPDVESLRIPVQYLANLLTAGDTKPVLRALKRMLAMRHYKRAET</span></span>
-<span class="topo-line"><span class="topo-inside">VDGKVDTRALEEVGLTEAQAQEMYRYLAIANYEDRFVVPSSHRELAREAFPEKNGCGFTF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">MKIRSQVGMVLNLDKCIGCHTCSVTCKNVWTSREGVEYAWFNNVETKPGQGFPTDWENQEKYKGGWIRKINGKLQPRMGN</span><span class="topo-unknown">RAMLLGK</span><span class="topo-inside">IFANPHLPGIDDYYEPFDFDYQNLHTAPEGSKS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">QPIARPRSLITGERMAKIEKGPNWEDDLGGEFDKLAKDKNFDNIQKAMYSQFENTFMMYLPRLCEHCLNPACVATCPSGAIYKREEDGIVLIDQDKCRGWRMCITGCPYKKIYFNWKSGK</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">SEKCIFCYPRIEAGQPTVCSETCVGRIRYLGVLLYDADAIERAASTENEKDLYQRQLDVFLDPNDPKVIEQAIKDGIPLSVIEAAQQSPVYKMAMEWKLALPLHPEYRTLPMVWYVPPLS</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">PIQSAADAGELGSNGILPDVESLRIPVQYLANLLTAGDTKPVLRALKRMLAMRHYKRAETVDGKVDTRALEEVGLTEAQAQEMYRYLAIANYEDRFVVPSSHRELAREAFPEKNGCGFTF</span></span>
+<span class="topo-ruler">       490       500       510  </span>
 <span class="topo-line"><span class="topo-inside">GDGCHGSDTKFNLFNSRRIDAIDVTSKT</span><span class="topo-unknown">EPHP</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2556,6 +2625,7 @@ The structure in complex with the inhibitor [PCP](/xray-mp-wiki/reagents/ligands
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2571,10 +2641,11 @@ The structure in complex with the inhibitor [PCP](/xray-mp-wiki/reagents/ligands
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MQFL</span><span class="topo-membrane">NMFFFDIYPYIAGAVFLIGSWLRY</span><span class="topo-inside">DYGQYTWRAASSQMLDRKG</span><span class="topo-membrane">MNLASNLFHIGIL</span></span>
-<span class="topo-line"><span class="topo-membrane">GIFVGHFFGMLT</span><span class="topo-unknown">PHWMYE</span><span class="topo-outside">AWLPIEVK</span><span class="topo-membrane">QKMAMFAGGASGVLCLIGGVLLLKRRLF</span><span class="topo-inside">S</span><span class="topo-unknown">PRVRA</span></span>
-<span class="topo-line"><span class="topo-unknown">T</span><span class="topo-inside">TTG</span><span class="topo-membrane">ADILILSLLVIQCALGLLTIP</span><span class="topo-outside">FSAQHMDGSEMMKLVGWAQSVVTFHGGASQHLDGV</span></span>
-<span class="topo-line"><span class="topo-outside">AF</span><span class="topo-membrane">IFRLHLVLGMTLFLLFPFSRLI</span><span class="topo-inside">HIWSVPVEYLTRKYQLVRARH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MQFL</span><span class="topo-membrane">NMFFFDIYPYIAGAVFLIGSWLRY</span><span class="topo-inside">DYGQYTWRAASSQMLDRKG</span><span class="topo-membrane">MNLASNLFHIGILGIFVGHFFGMLT</span><span class="topo-unknown">PHWMYE</span><span class="topo-outside">AWLPIEVK</span><span class="topo-membrane">QKMAMFAGGASGVLCLIGGVLLLKRRLF</span><span class="topo-inside">S</span><span class="topo-unknown">PRVRA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220     </span>
+<span class="topo-line"><span class="topo-unknown">T</span><span class="topo-inside">TTG</span><span class="topo-membrane">ADILILSLLVIQCALGLLTIP</span><span class="topo-outside">FSAQHMDGSEMMKLVGWAQSVVTFHGGASQHLDGVAF</span><span class="topo-membrane">IFRLHLVLGMTLFLLFPFSRLI</span><span class="topo-inside">HIWSVPVEYLTRKYQLVRARH</span></span>
+<details class="topo-details"><summary>Topology coordinates (14 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2684,6 +2755,7 @@ The structure in complex with the inhibitor [PCP](/xray-mp-wiki/reagents/ligands
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2699,27 +2771,29 @@ The structure in complex with the inhibitor [PCP](/xray-mp-wiki/reagents/ligands
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">S</span><span class="topo-unknown">KFLDRFR</span><span class="topo-inside">YFKQKGETFADGHGQLLNTNRDWEDGYRQRWQHDKIVRSTHGV</span><span class="topo-unknown">NCT</span><span class="topo-inside">GSCSWK</span></span>
-<span class="topo-line"><span class="topo-inside">IYVKNGLVTWETQQTDYPRTRPDLPNHEPRGCPRGASYSWYLYSANRLKYPMMRKRLMKM</span></span>
-<span class="topo-line"><span class="topo-inside">WREAKALHSDPVEAWASIIEDADKAKSFKQARGRGGFVRSSWQEVNELIAASNVYTIKNY</span></span>
-<span class="topo-line"><span class="topo-inside">GPDRVAGFSPIPAMSMVSYASGARYLSLIGGTCLSFYDWYCDLPPASPQTWGEQTDVPES</span></span>
-<span class="topo-line"><span class="topo-inside">ADWYNSSYIIAWGSNVPQTRTPDAHFFTEVRYKGTKTVAVTPDYAEIAKLCDLWLAPKQG</span></span>
-<span class="topo-line"><span class="topo-inside">TDAAMALAMGHVMLREFHLDNPSQYFTDYVRRYTDMPMLVMLEERDGYYAAGRMLRAADL</span></span>
-<span class="topo-line"><span class="topo-inside">VDALGQENNPEWKTVAFNTNGEMVAPNGSIGFRWGEKGKWNLEQRDGKTGEETELQLSLL</span></span>
-<span class="topo-line"><span class="topo-inside">GSQDEIAEVGFPYFGGDGTEHFNKVELENVLLHKLPVKRLQLADGSTALVTTVYDLTLAN</span></span>
-<span class="topo-line"><span class="topo-inside">YGLERGLNDVNCATSYDDVKAYTPAWAEQITGVSRSQIIRIAREFADNADKTHGRSMIIV</span></span>
-<span class="topo-line"><span class="topo-inside">GAGLNHWYHLDMNYRGLINMLIFCGCVGQSGGGWAHYVGQEKLRPQTGWQPLAFALDWQR</span></span>
-<span class="topo-line"><span class="topo-inside">PARHMNSTSYFYNHSSQWRYETVTAEELLSPMADKSRYTGHLIDFNVRAERMGWLPSAPQ</span></span>
-<span class="topo-line"><span class="topo-inside">LGTNPLTIAGEAEKAGMNPVDYTVKSLKEGSIRFAAEQPENGKNHPRNLFIWRSNLLGSS</span></span>
-<span class="topo-line"><span class="topo-inside">GKGHEFMLKYLLGTEHGIQGKDLGQQGGVKPEEVDWQDNGLEGKLDLVVTLDFRLSSTCL</span></span>
-<span class="topo-line"><span class="topo-inside">YSDIILPTATWYEKDDMNTSDMHPFIHPLSAAVDPAWEAKSDWEIYKAIAKKFSEVCVGH</span></span>
-<span class="topo-line"><span class="topo-inside">LGKETDIVTLPIQHDSAAELAQPLDVKDWKKGECDLIPGKTAPHIMVVERDYPATYERFT</span></span>
-<span class="topo-line"><span class="topo-inside">SIGPLMEKIGNGGKGIAWNTQSEMDLLRKLNYTKAEGPAKGQPMLNTAIDAAEMILTLAP</span></span>
-<span class="topo-line"><span class="topo-inside">ETNGQVAVKAWAALSEFTGRDHTHLALNKEDEKIRFRDIQAQPRKIISSPTWSGLEDEHV</span></span>
-<span class="topo-line"><span class="topo-inside">SYNAGYTNVHELIPWRTLSGRQQLYQDHQWMRDFGESLLVYRPPIDTRSVKEVIGQKSNG</span></span>
-<span class="topo-line"><span class="topo-inside">NQEKALNFLTPHQKWGIHSTYSDNLLMLTLGRGGPVVWLSEADAKDLGIADNDWIEVFNS</span></span>
-<span class="topo-line"><span class="topo-inside">NGALTARAVVSQRVPAGMTMMYHAQERIVNLPGSEITQQRGGIHNSVTRITPKPTHMIGG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">S</span><span class="topo-unknown">KFLDRFR</span><span class="topo-inside">YFKQKGETFADGHGQLLNTNRDWEDGYRQRWQHDKIVRSTHGV</span><span class="topo-unknown">NCT</span><span class="topo-inside">GSCSWKIYVKNGLVTWETQQTDYPRTRPDLPNHEPRGCPRGASYSWYLYSANRLKYPMMRKRLMKM</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">WREAKALHSDPVEAWASIIEDADKAKSFKQARGRGGFVRSSWQEVNELIAASNVYTIKNYGPDRVAGFSPIPAMSMVSYASGARYLSLIGGTCLSFYDWYCDLPPASPQTWGEQTDVPES</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">ADWYNSSYIIAWGSNVPQTRTPDAHFFTEVRYKGTKTVAVTPDYAEIAKLCDLWLAPKQGTDAAMALAMGHVMLREFHLDNPSQYFTDYVRRYTDMPMLVMLEERDGYYAAGRMLRAADL</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">VDALGQENNPEWKTVAFNTNGEMVAPNGSIGFRWGEKGKWNLEQRDGKTGEETELQLSLLGSQDEIAEVGFPYFGGDGTEHFNKVELENVLLHKLPVKRLQLADGSTALVTTVYDLTLAN</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-inside">YGLERGLNDVNCATSYDDVKAYTPAWAEQITGVSRSQIIRIAREFADNADKTHGRSMIIVGAGLNHWYHLDMNYRGLINMLIFCGCVGQSGGGWAHYVGQEKLRPQTGWQPLAFALDWQR</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-inside">PARHMNSTSYFYNHSSQWRYETVTAEELLSPMADKSRYTGHLIDFNVRAERMGWLPSAPQLGTNPLTIAGEAEKAGMNPVDYTVKSLKEGSIRFAAEQPENGKNHPRNLFIWRSNLLGSS</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820       830       840</span>
+<span class="topo-line"><span class="topo-inside">GKGHEFMLKYLLGTEHGIQGKDLGQQGGVKPEEVDWQDNGLEGKLDLVVTLDFRLSSTCLYSDIILPTATWYEKDDMNTSDMHPFIHPLSAAVDPAWEAKSDWEIYKAIAKKFSEVCVGH</span></span>
+<span class="topo-ruler">       850       860       870       880       890       900       910       920       930       940       950       960</span>
+<span class="topo-line"><span class="topo-inside">LGKETDIVTLPIQHDSAAELAQPLDVKDWKKGECDLIPGKTAPHIMVVERDYPATYERFTSIGPLMEKIGNGGKGIAWNTQSEMDLLRKLNYTKAEGPAKGQPMLNTAIDAAEMILTLAP</span></span>
+<span class="topo-ruler">       970       980       990      1000      1010      1020      1030      1040      1050      1060      1070      1080</span>
+<span class="topo-line"><span class="topo-inside">ETNGQVAVKAWAALSEFTGRDHTHLALNKEDEKIRFRDIQAQPRKIISSPTWSGLEDEHVSYNAGYTNVHELIPWRTLSGRQQLYQDHQWMRDFGESLLVYRPPIDTRSVKEVIGQKSNG</span></span>
+<span class="topo-ruler">      1090      1100      1110      1120      1130      1140      1150      1160      1170      1180      1190      1200</span>
+<span class="topo-line"><span class="topo-inside">NQEKALNFLTPHQKWGIHSTYSDNLLMLTLGRGGPVVWLSEADAKDLGIADNDWIEVFNSNGALTARAVVSQRVPAGMTMMYHAQERIVNLPGSEITQQRGGIHNSVTRITPKPTHMIGG</span></span>
+<span class="topo-ruler">      1210      1220      1230      1240      </span>
 <span class="topo-line"><span class="topo-inside">YAHLAYGFNYYGTVGSNRDEFVVVRKMKNIDWLDGEGNDQVQE</span><span class="topo-unknown">SVK</span></span>
+<details class="topo-details"><summary>Topology coordinates (6 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2773,6 +2847,7 @@ The structure in complex with the inhibitor [PCP](/xray-mp-wiki/reagents/ligands
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2788,15 +2863,17 @@ The structure in complex with the inhibitor [PCP](/xray-mp-wiki/reagents/ligands
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MKIRSQVGMVLNLDKCIGCHTCSVTCKNVWTSREGVEYAWFNNVETKPGQGFPTDWENQE</span></span>
-<span class="topo-line"><span class="topo-inside">KYKGGWIRKINGKLQPRMGN</span><span class="topo-unknown">RAMLLGK</span><span class="topo-inside">IFANPHLPGIDDYYEPFDFDYQNLHTAPEGSKS</span></span>
-<span class="topo-line"><span class="topo-inside">QPIARPRSLITGERMAKIEKGPNWEDDLGGEFDKLAKDKNFDNIQKAMYSQFENTFMMYL</span></span>
-<span class="topo-line"><span class="topo-inside">PRLCEHCLNPACVATCPSGAIYKREEDGIVLIDQDKCRGWRMCITGCPYKKIYFNWKSGK</span></span>
-<span class="topo-line"><span class="topo-inside">SEKCIFCYPRIEAGQPTVCSETCVGRIRYLGVLLYDADAIERAASTENEKDLYQRQLDVF</span></span>
-<span class="topo-line"><span class="topo-inside">LDPNDPKVIEQAIKDGIPLSVIEAAQQSPVYKMAMEWKLALPLHPEYRTLPMVWYVPPLS</span></span>
-<span class="topo-line"><span class="topo-inside">PIQSAADAGELGSNGILPDVESLRIPVQYLANLLTAGDTKPVLRALKRMLAMRHYKRAET</span></span>
-<span class="topo-line"><span class="topo-inside">VDGKVDTRALEEVGLTEAQAQEMYRYLAIANYEDRFVVPSSHRELAREAFPEKNGCGFTF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">MKIRSQVGMVLNLDKCIGCHTCSVTCKNVWTSREGVEYAWFNNVETKPGQGFPTDWENQEKYKGGWIRKINGKLQPRMGN</span><span class="topo-unknown">RAMLLGK</span><span class="topo-inside">IFANPHLPGIDDYYEPFDFDYQNLHTAPEGSKS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">QPIARPRSLITGERMAKIEKGPNWEDDLGGEFDKLAKDKNFDNIQKAMYSQFENTFMMYLPRLCEHCLNPACVATCPSGAIYKREEDGIVLIDQDKCRGWRMCITGCPYKKIYFNWKSGK</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">SEKCIFCYPRIEAGQPTVCSETCVGRIRYLGVLLYDADAIERAASTENEKDLYQRQLDVFLDPNDPKVIEQAIKDGIPLSVIEAAQQSPVYKMAMEWKLALPLHPEYRTLPMVWYVPPLS</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">PIQSAADAGELGSNGILPDVESLRIPVQYLANLLTAGDTKPVLRALKRMLAMRHYKRAETVDGKVDTRALEEVGLTEAQAQEMYRYLAIANYEDRFVVPSSHRELAREAFPEKNGCGFTF</span></span>
+<span class="topo-ruler">       490       500       510  </span>
 <span class="topo-line"><span class="topo-inside">GDGCHGSDTKFNLFNSRRIDAIDVTSKT</span><span class="topo-unknown">EPHP</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2836,6 +2913,7 @@ The structure in complex with the inhibitor [PCP](/xray-mp-wiki/reagents/ligands
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2851,10 +2929,11 @@ The structure in complex with the inhibitor [PCP](/xray-mp-wiki/reagents/ligands
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MQFL</span><span class="topo-membrane">NMFFFDIYPYIAGAVFLIGSWLRY</span><span class="topo-inside">DYGQYTWRAASSQMLDRKG</span><span class="topo-membrane">MNLASNLFHIGIL</span></span>
-<span class="topo-line"><span class="topo-membrane">GIFVGHFFGMLT</span><span class="topo-unknown">PHWMYE</span><span class="topo-outside">AWLPIEVK</span><span class="topo-membrane">QKMAMFAGGASGVLCLIGGVLLLKRRLF</span><span class="topo-inside">S</span><span class="topo-unknown">PRVRA</span></span>
-<span class="topo-line"><span class="topo-unknown">T</span><span class="topo-inside">TTG</span><span class="topo-membrane">ADILILSLLVIQCALGLLTIP</span><span class="topo-outside">FSAQHMDGSEMMKLVGWAQSVVTFHGGASQHLDGV</span></span>
-<span class="topo-line"><span class="topo-outside">AF</span><span class="topo-membrane">IFRLHLVLGMTLFLLFPFSRLI</span><span class="topo-inside">HIWSVPVEYLTRKYQLVRARH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MQFL</span><span class="topo-membrane">NMFFFDIYPYIAGAVFLIGSWLRY</span><span class="topo-inside">DYGQYTWRAASSQMLDRKG</span><span class="topo-membrane">MNLASNLFHIGILGIFVGHFFGMLT</span><span class="topo-unknown">PHWMYE</span><span class="topo-outside">AWLPIEVK</span><span class="topo-membrane">QKMAMFAGGASGVLCLIGGVLLLKRRLF</span><span class="topo-inside">S</span><span class="topo-unknown">PRVRA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220     </span>
+<span class="topo-line"><span class="topo-unknown">T</span><span class="topo-inside">TTG</span><span class="topo-membrane">ADILILSLLVIQCALGLLTIP</span><span class="topo-outside">FSAQHMDGSEMMKLVGWAQSVVTFHGGASQHLDGVAF</span><span class="topo-membrane">IFRLHLVLGMTLFLLFPFSRLI</span><span class="topo-inside">HIWSVPVEYLTRKYQLVRARH</span></span>
+<details class="topo-details"><summary>Topology coordinates (14 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2964,6 +3043,7 @@ The structure in complex with the inhibitor [PCP](/xray-mp-wiki/reagents/ligands
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

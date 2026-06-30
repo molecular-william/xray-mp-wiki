@@ -158,14 +158,15 @@ Na malonate pH 7.0, 20 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GAPEPHD</span><span class="topo-outside">SSHMDSEFRYTL</span><span class="topo-membrane">FPIVYSIIFVLGVIANGYVLWVFAR</span><span class="topo-inside">LYPCKKFN</span><span class="topo-membrane">EIKIFMVN</span></span>
-<span class="topo-line"><span class="topo-membrane">LTMADMLFLITLPLWI</span><span class="topo-outside">VYYQNQGNWILPKFLCN</span><span class="topo-membrane">VAGCLFFINTYCSVAFLGVITYNRY</span><span class="topo-inside">QA</span></span>
-<span class="topo-line"><span class="topo-inside">VTRPI</span><span class="topo-unknown">KTAQANTRKRGISL</span><span class="topo-inside">S</span><span class="topo-membrane">LVIWVAIVGAASYFL</span><span class="topo-outside">ILDSTNTVPDSAGSGDVTRCFEHYE</span></span>
-<span class="topo-line"><span class="topo-outside">KGSVPV</span><span class="topo-membrane">LIIHIFIVFSFFLVFLIILFCNLVII</span><span class="topo-inside">RTLLMQAKALIVYGSTTGNTEYTAETIA</span></span>
-<span class="topo-line"><span class="topo-inside">RELADAGYEVDSRDAASVEAGGLFEGFDLVLLGCSTWGDDSIELQDDFIPLFDSLEETGA</span></span>
-<span class="topo-line"><span class="topo-inside">QGRKVACFGCGDSSWEYFCGAVDAIEEKLKNLGAEIVQDGLRIDGDPRAARDDIVGWAHD</span></span>
-<span class="topo-line"><span class="topo-inside">VRGAIAEVKRRDL</span><span class="topo-membrane">WMACTVLAVFIICFVPHHVVQLPW</span><span class="topo-outside">TLAELGFQDSKFHQAINDA</span><span class="topo-membrane">HQVT</span></span>
-<span class="topo-line"><span class="topo-membrane">LCLLSTNCVLNPVIYCFLTK</span><span class="topo-inside">KFRKHLTEKFYSMRSSR</span><span class="topo-unknown">KEFLEVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GAPEPHD</span><span class="topo-outside">SSHMDSEFRYTL</span><span class="topo-membrane">FPIVYSIIFVLGVIANGYVLWVFAR</span><span class="topo-inside">LYPCKKFN</span><span class="topo-membrane">EIKIFMVNLTMADMLFLITLPLWI</span><span class="topo-outside">VYYQNQGNWILPKFLCN</span><span class="topo-membrane">VAGCLFFINTYCSVAFLGVITYNRY</span><span class="topo-inside">QA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">VTRPI</span><span class="topo-unknown">KTAQANTRKRGISL</span><span class="topo-inside">S</span><span class="topo-membrane">LVIWVAIVGAASYFL</span><span class="topo-outside">ILDSTNTVPDSAGSGDVTRCFEHYEKGSVPV</span><span class="topo-membrane">LIIHIFIVFSFFLVFLIILFCNLVII</span><span class="topo-inside">RTLLMQAKALIVYGSTTGNTEYTAETIA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">RELADAGYEVDSRDAASVEAGGLFEGFDLVLLGCSTWGDDSIELQDDFIPLFDSLEETGAQGRKVACFGCGDSSWEYFCGAVDAIEEKLKNLGAEIVQDGLRIDGDPRAARDDIVGWAHD</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460      </span>
+<span class="topo-line"><span class="topo-inside">VRGAIAEVKRRDL</span><span class="topo-membrane">WMACTVLAVFIICFVPHHVVQLPW</span><span class="topo-outside">TLAELGFQDSKFHQAINDA</span><span class="topo-membrane">HQVTLCLLSTNCVLNPVIYCFLTK</span><span class="topo-inside">KFRKHLTEKFYSMRSSR</span><span class="topo-unknown">KEFLEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -324,6 +325,7 @@ Na malonate pH 7.0, 20 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -339,14 +341,15 @@ Na malonate pH 7.0, 20 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GAPEP</span><span class="topo-outside">HDSSHMDSEFRYT</span><span class="topo-membrane">LFPIVYSIIFVLGVIANGYVLWVFA</span><span class="topo-inside">RL</span><span class="topo-unknown">YPCKK</span><span class="topo-inside">FNEIK</span><span class="topo-membrane">IFMVN</span></span>
-<span class="topo-line"><span class="topo-membrane">LTMADMLFLITLPLWIVYY</span><span class="topo-outside">QNQGNWIL</span><span class="topo-membrane">PKFLCNVAGCLFFINTYCSVAFLGVITY</span><span class="topo-inside">NRYQA</span></span>
-<span class="topo-line"><span class="topo-inside">VTRP</span><span class="topo-unknown">IKTA</span><span class="topo-inside">QANTRKRG</span><span class="topo-membrane">ISLSLVIWVAIVGAASYFLIL</span><span class="topo-outside">DSTNTVPDSAGSGDVTRCFEHYE</span></span>
-<span class="topo-line"><span class="topo-outside">KGSV</span><span class="topo-membrane">PVLIIHIFIVFSFFLVFLIILFCNL</span><span class="topo-inside">VIIRTLLMQP</span><span class="topo-unknown">VNIFEMLRIDEGGGSGGDEAE</span></span>
-<span class="topo-line"><span class="topo-unknown">KLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVFQMGETGVAGFTNSLRMLQQK</span></span>
-<span class="topo-line"><span class="topo-unknown">RWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWDAY</span><span class="topo-inside">AEVKRRDLW</span><span class="topo-membrane">MACTVLAVFIICFV</span></span>
-<span class="topo-line"><span class="topo-membrane">PHHVVQLPWTL</span><span class="topo-outside">AELGFQDSKFHQA</span><span class="topo-membrane">INDAHQVTLCLLSTNCVLNPVIYCF</span><span class="topo-inside">LT</span><span class="topo-unknown">KKFRKHLTE</span></span>
-<span class="topo-line"><span class="topo-unknown">KFYSMRSSRKEFLEVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GAPEP</span><span class="topo-outside">HDSSHMDSEFRYT</span><span class="topo-membrane">LFPIVYSIIFVLGVIANGYVLWVFA</span><span class="topo-inside">RL</span><span class="topo-unknown">YPCKK</span><span class="topo-inside">FNEIK</span><span class="topo-membrane">IFMVNLTMADMLFLITLPLWIVYY</span><span class="topo-outside">QNQGNWIL</span><span class="topo-membrane">PKFLCNVAGCLFFINTYCSVAFLGVITY</span><span class="topo-inside">NRYQA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">VTRP</span><span class="topo-unknown">IKTA</span><span class="topo-inside">QANTRKRG</span><span class="topo-membrane">ISLSLVIWVAIVGAASYFLIL</span><span class="topo-outside">DSTNTVPDSAGSGDVTRCFEHYEKGSV</span><span class="topo-membrane">PVLIIHIFIVFSFFLVFLIILFCNL</span><span class="topo-inside">VIIRTLLMQP</span><span class="topo-unknown">VNIFEMLRIDEGGGSGGDEAE</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-unknown">KLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVFQMGETGVAGFTNSLRMLQQKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWDAY</span><span class="topo-inside">AEVKRRDLW</span><span class="topo-membrane">MACTVLAVFIICFV</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430        </span>
+<span class="topo-line"><span class="topo-membrane">PHHVVQLPWTL</span><span class="topo-outside">AELGFQDSKFHQA</span><span class="topo-membrane">INDAHQVTLCLLSTNCVLNPVIYCF</span><span class="topo-inside">LT</span><span class="topo-unknown">KKFRKHLTEKFYSMRSSRKEFLEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (22 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -512,6 +515,7 @@ Na malonate pH 7.0, 20 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

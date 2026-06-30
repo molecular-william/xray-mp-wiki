@@ -86,11 +86,13 @@ Rce1 (Ras and α-factor converting enzyme 1) is an intramembrane protease that p
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MISSYKY</span><span class="topo-inside">NPK</span><span class="topo-membrane">LYFLSTFVVTYILWFTG</span><span class="topo-outside">AYLSFSSTYSGIYM</span><span class="topo-membrane">LIMLPGLMAPFIISTI</span><span class="topo-inside">LIA</span></span>
-<span class="topo-line"><span class="topo-inside">K</span><span class="topo-unknown">SKNNDL</span><span class="topo-inside">KKDFINRLFNLKLINL</span><span class="topo-membrane">KTIPVVFLLMPAVILLSILL</span><span class="topo-outside">SIPFGGSISQFQFSGG</span><span class="topo-unknown">F</span></span>
-<span class="topo-line"><span class="topo-unknown">SFST</span><span class="topo-outside">DFV</span><span class="topo-membrane">PVLFLLLLAATFEELGWRG</span><span class="topo-inside">YAFDSLQSRYSLFKAS</span><span class="topo-membrane">ILFGIFWSLWHFPLI</span><span class="topo-outside">FVN</span></span>
-<span class="topo-line"><span class="topo-outside">NSYQYEIFNQSIWYG</span><span class="topo-membrane">LNFFLSILPMGIIITWMC</span><span class="topo-inside">LKNRKSI</span><span class="topo-membrane">ILAIIFHFLINLNQELL</span><span class="topo-outside">AIT</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MISSYKY</span><span class="topo-inside">NPK</span><span class="topo-membrane">LYFLSTFVVTYILWFTG</span><span class="topo-outside">AYLSFSSTYSGIYM</span><span class="topo-membrane">LIMLPGLMAPFIISTI</span><span class="topo-inside">LIAK</span><span class="topo-unknown">SKNNDL</span><span class="topo-inside">KKDFINRLFNLKLINL</span><span class="topo-membrane">KTIPVVFLLMPAVILLSILL</span><span class="topo-outside">SIPFGGSISQFQFSGG</span><span class="topo-unknown">F</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-unknown">SFST</span><span class="topo-outside">DFV</span><span class="topo-membrane">PVLFLLLLAATFEELGWRG</span><span class="topo-inside">YAFDSLQSRYSLFKAS</span><span class="topo-membrane">ILFGIFWSLWHFPLI</span><span class="topo-outside">FVNNSYQYEIFNQSIWYG</span><span class="topo-membrane">LNFFLSILPMGIIITWMC</span><span class="topo-inside">LKNRKSI</span><span class="topo-membrane">ILAIIFHFLINLNQELL</span><span class="topo-outside">AIT</span></span>
+<span class="topo-ruler">       250       260       270 </span>
 <span class="topo-line"><span class="topo-outside">QDT</span><span class="topo-membrane">KIIETGVLFLVAAAII</span><span class="topo-inside">LYDKKMFFEK</span><span class="topo-unknown">LG</span></span>
+<details class="topo-details"><summary>Topology coordinates (23 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -263,6 +265,7 @@ Rce1 (Ras and α-factor converting enzyme 1) is an intramembrane protease that p
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

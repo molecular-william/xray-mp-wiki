@@ -136,11 +136,13 @@ Undecaprenyl pyrophosphate phosphatase (UppP, also known as BacA) is a 30 kDa po
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGSSHHHHHHSSGLVPRGSHMSD</span><span class="topo-outside">MHSLLIA</span><span class="topo-unknown">AILGVVEGLTEFLPVSSTGHM</span><span class="topo-outside">IIVGHLLGF</span></span>
-<span class="topo-line"><span class="topo-outside">EGDTAKTFE</span><span class="topo-membrane">VVIQLGSILAVVVMFW</span><span class="topo-inside">RRLFGLIGIHFGRPLQHEGESKGRLTL</span><span class="topo-membrane">IHILLGMI</span></span>
-<span class="topo-line"><span class="topo-membrane">PAVVLGLLFH</span><span class="topo-outside">DTIKSLFNPIN</span><span class="topo-membrane">VMYALVVGGLLLIAAE</span><span class="topo-inside">CLKPKEPRAPGLDDMTYRQA</span><span class="topo-unknown">FMI</span></span>
-<span class="topo-line"><span class="topo-unknown">GCFQCLALWPGFSRSGATISGG</span><span class="topo-inside">MLMGVSRYAA</span><span class="topo-membrane">SEFSFLLAVPMMMGATAL</span><span class="topo-outside">DLYKSWGFLT</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGSSHHHHHHSSGLVPRGSHMSD</span><span class="topo-outside">MHSLLIA</span><span class="topo-unknown">AILGVVEGLTEFLPVSSTGHM</span><span class="topo-outside">IIVGHLLGFEGDTAKTFE</span><span class="topo-membrane">VVIQLGSILAVVVMFW</span><span class="topo-inside">RRLFGLIGIHFGRPLQHEGESKGRLTL</span><span class="topo-membrane">IHILLGMI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">PAVVLGLLFH</span><span class="topo-outside">DTIKSLFNPIN</span><span class="topo-membrane">VMYALVVGGLLLIAAE</span><span class="topo-inside">CLKPKEPRAPGLDDMTYRQA</span><span class="topo-unknown">FMIGCFQCLALWPGFSRSGATISGG</span><span class="topo-inside">MLMGVSRYAA</span><span class="topo-membrane">SEFSFLLAVPMMMGATAL</span><span class="topo-outside">DLYKSWGFLT</span></span>
+<span class="topo-ruler">       250       260       270       280       290   </span>
 <span class="topo-line"><span class="topo-outside">SGDIPMF</span><span class="topo-membrane">AVGFITAFVVALIAIKTF</span><span class="topo-inside">LQLIKRISF</span><span class="topo-membrane">IPFAIYRFIVAAAV</span><span class="topo-outside">YVVFF</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -278,6 +280,7 @@ Undecaprenyl pyrophosphate phosphatase (UppP, also known as BacA) is a 30 kDa po
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

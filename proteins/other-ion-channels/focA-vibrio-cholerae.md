@@ -71,11 +71,13 @@ FocA (formate channel A) is a pentameric membrane channel belonging to the FNT (
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MKADNPFDLLLPAAMAKVAEEAGVYKAT</span><span class="topo-outside">KHPLKTF</span><span class="topo-membrane">YLAITAGVFISIAFVFYITAT</span><span class="topo-inside">TGTG</span></span>
-<span class="topo-line"><span class="topo-inside">TMPFGM</span><span class="topo-membrane">AKLVGGICFSLGLILCVVC</span><span class="topo-outside">GADLFTSTVLIVVAKASGRITWGQLAKN</span><span class="topo-membrane">WLNVYFG</span></span>
-<span class="topo-line"><span class="topo-membrane">NLVGALLFVLLMWLSGE</span><span class="topo-inside">YMTANG</span><span class="topo-unknown">QWGLNVLQTADH</span><span class="topo-inside">KVHHTF</span><span class="topo-membrane">IEAVCLGILANLMVCLAVW</span></span>
-<span class="topo-line"><span class="topo-membrane">MS</span><span class="topo-outside">YSGRSL</span><span class="topo-membrane">MDKAFIMVLPVAMFVASGFEHSIANMFMIPM</span><span class="topo-inside">GIVIRDFASPEFWTAVGSAPE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MKADNPFDLLLPAAMAKVAEEAGVYKAT</span><span class="topo-outside">KHPLKTF</span><span class="topo-membrane">YLAITAGVFISIAFVFYITAT</span><span class="topo-inside">TGTGTMPFGM</span><span class="topo-membrane">AKLVGGICFSLGLILCVVC</span><span class="topo-outside">GADLFTSTVLIVVAKASGRITWGQLAKN</span><span class="topo-membrane">WLNVYFG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">NLVGALLFVLLMWLSGE</span><span class="topo-inside">YMTANG</span><span class="topo-unknown">QWGLNVLQTADH</span><span class="topo-inside">KVHHTF</span><span class="topo-membrane">IEAVCLGILANLMVCLAVWMS</span><span class="topo-outside">YSGRSL</span><span class="topo-membrane">MDKAFIMVLPVAMFVASGFEHSIANMFMIPM</span><span class="topo-inside">GIVIRDFASPEFWTAVGSAPE</span></span>
+<span class="topo-ruler">       250       260       270       280     </span>
 <span class="topo-line"><span class="topo-inside">NFSHLTV</span><span class="topo-membrane">MNFITDNLIPVTIGNIIGGGLLVGL</span><span class="topo-outside">TYWVIYLR</span><span class="topo-unknown">ENDHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -206,6 +208,7 @@ FocA (formate channel A) is a pentameric membrane channel belonging to the FNT (
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -221,11 +224,13 @@ FocA (formate channel A) is a pentameric membrane channel belonging to the FNT (
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MKADNPFDLLLPAAMAKVAEEAGVYKAT</span><span class="topo-outside">KHPLKTF</span><span class="topo-membrane">YLAITAGVFISIAFVFYITAT</span><span class="topo-inside">TGTG</span></span>
-<span class="topo-line"><span class="topo-inside">TMPFGM</span><span class="topo-membrane">AKLVGGICFSLGLILCVVCG</span><span class="topo-outside">ADLFTSTVLIVVAKASGRITWGQLAKN</span><span class="topo-membrane">WLNVYFG</span></span>
-<span class="topo-line"><span class="topo-membrane">NLVGALLFVLLMWLSGE</span><span class="topo-inside">YMTANG</span><span class="topo-unknown">QWGLNVLQTADHK</span><span class="topo-inside">VHHT</span><span class="topo-membrane">FIEAVCLGILANLMVCLAVW</span></span>
-<span class="topo-line"><span class="topo-membrane">MS</span><span class="topo-outside">YSGRSL</span><span class="topo-membrane">MDKAFIMVLPVAMFVASGFEHSIANMFMIPM</span><span class="topo-inside">GIVIRDFASPEFWTAVGSAPE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MKADNPFDLLLPAAMAKVAEEAGVYKAT</span><span class="topo-outside">KHPLKTF</span><span class="topo-membrane">YLAITAGVFISIAFVFYITAT</span><span class="topo-inside">TGTGTMPFGM</span><span class="topo-membrane">AKLVGGICFSLGLILCVVCG</span><span class="topo-outside">ADLFTSTVLIVVAKASGRITWGQLAKN</span><span class="topo-membrane">WLNVYFG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">NLVGALLFVLLMWLSGE</span><span class="topo-inside">YMTANG</span><span class="topo-unknown">QWGLNVLQTADHK</span><span class="topo-inside">VHHT</span><span class="topo-membrane">FIEAVCLGILANLMVCLAVWMS</span><span class="topo-outside">YSGRSL</span><span class="topo-membrane">MDKAFIMVLPVAMFVASGFEHSIANMFMIPM</span><span class="topo-inside">GIVIRDFASPEFWTAVGSAPE</span></span>
+<span class="topo-ruler">       250       260       270       280     </span>
 <span class="topo-line"><span class="topo-inside">NFSHLTV</span><span class="topo-membrane">MNFITDNLIPVTIGNIIGGGLLVGL</span><span class="topo-outside">TYWVIYLR</span><span class="topo-unknown">ENDHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -356,6 +361,7 @@ FocA (formate channel A) is a pentameric membrane channel belonging to the FNT (
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -371,11 +377,13 @@ FocA (formate channel A) is a pentameric membrane channel belonging to the FNT (
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MKADNPFDLLLPAAMAKVAEEAGVYKAT</span><span class="topo-outside">KHPLKTF</span><span class="topo-membrane">YLAITAGVFISIAFVFYITAT</span><span class="topo-inside">TGTG</span></span>
-<span class="topo-line"><span class="topo-inside">TMPFGM</span><span class="topo-membrane">AKLVGGICFSLGLILCVVC</span><span class="topo-outside">GADLFTSTVLIVVAKA</span><span class="topo-unknown">SGRITWGQL</span><span class="topo-outside">AK</span><span class="topo-membrane">NWLNVYFG</span></span>
-<span class="topo-line"><span class="topo-membrane">NLVGALLFVLLMWLSGE</span><span class="topo-inside">YMTANG</span><span class="topo-unknown">QWGLNVLQTADH</span><span class="topo-inside">KVHHTF</span><span class="topo-membrane">IEAVCLGILANLMVCLAVW</span></span>
-<span class="topo-line"><span class="topo-membrane">MS</span><span class="topo-outside">YSGRSL</span><span class="topo-membrane">MDKAFIMVLPVAMFVASGFEHSIANMFMIPM</span><span class="topo-inside">GIVIRDFASPEFWTAVGSAPE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MKADNPFDLLLPAAMAKVAEEAGVYKAT</span><span class="topo-outside">KHPLKTF</span><span class="topo-membrane">YLAITAGVFISIAFVFYITAT</span><span class="topo-inside">TGTGTMPFGM</span><span class="topo-membrane">AKLVGGICFSLGLILCVVC</span><span class="topo-outside">GADLFTSTVLIVVAKA</span><span class="topo-unknown">SGRITWGQL</span><span class="topo-outside">AK</span><span class="topo-membrane">NWLNVYFG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">NLVGALLFVLLMWLSGE</span><span class="topo-inside">YMTANG</span><span class="topo-unknown">QWGLNVLQTADH</span><span class="topo-inside">KVHHTF</span><span class="topo-membrane">IEAVCLGILANLMVCLAVWMS</span><span class="topo-outside">YSGRSL</span><span class="topo-membrane">MDKAFIMVLPVAMFVASGFEHSIANMFMIPM</span><span class="topo-inside">GIVIRDFASPEFWTAVGSAPE</span></span>
+<span class="topo-ruler">       250       260       270       280     </span>
 <span class="topo-line"><span class="topo-inside">NFSHLTV</span><span class="topo-membrane">MNFITDNLIPVTIGNIIGGGLLVGL</span><span class="topo-outside">TYWV</span><span class="topo-unknown">IYLRENDHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -520,6 +528,7 @@ FocA (formate channel A) is a pentameric membrane channel belonging to the FNT (
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -535,11 +544,13 @@ FocA (formate channel A) is a pentameric membrane channel belonging to the FNT (
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MKADNPFDLLLPAAMAKVAEEAGVYKAT</span><span class="topo-outside">KHPLKTF</span><span class="topo-membrane">YLAITAGVFISIAFVFYITAT</span><span class="topo-inside">TGTG</span></span>
-<span class="topo-line"><span class="topo-inside">TMPFGM</span><span class="topo-membrane">AKLVGGICFSLGLILCVVC</span><span class="topo-outside">GADLFTSTVLIVVAKASGRITWGQLAKN</span><span class="topo-membrane">WLNVYFG</span></span>
-<span class="topo-line"><span class="topo-membrane">NLVGALLFVLLMWLSGE</span><span class="topo-inside">YMTANG</span><span class="topo-unknown">QWGLNVLQTADH</span><span class="topo-inside">KVHHTF</span><span class="topo-membrane">IEAVCLGILANLMVCLAVW</span></span>
-<span class="topo-line"><span class="topo-membrane">MS</span><span class="topo-outside">YSGRSL</span><span class="topo-membrane">MDKAFIMVLPVAMFVASGFEHSIANMFMIPM</span><span class="topo-inside">GIVIRDFASPEFWTAVGSAPE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MKADNPFDLLLPAAMAKVAEEAGVYKAT</span><span class="topo-outside">KHPLKTF</span><span class="topo-membrane">YLAITAGVFISIAFVFYITAT</span><span class="topo-inside">TGTGTMPFGM</span><span class="topo-membrane">AKLVGGICFSLGLILCVVC</span><span class="topo-outside">GADLFTSTVLIVVAKASGRITWGQLAKN</span><span class="topo-membrane">WLNVYFG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">NLVGALLFVLLMWLSGE</span><span class="topo-inside">YMTANG</span><span class="topo-unknown">QWGLNVLQTADH</span><span class="topo-inside">KVHHTF</span><span class="topo-membrane">IEAVCLGILANLMVCLAVWMS</span><span class="topo-outside">YSGRSL</span><span class="topo-membrane">MDKAFIMVLPVAMFVASGFEHSIANMFMIPM</span><span class="topo-inside">GIVIRDFASPEFWTAVGSAPE</span></span>
+<span class="topo-ruler">       250       260       270       280     </span>
 <span class="topo-line"><span class="topo-inside">NFSHLTVMNF</span><span class="topo-membrane">ITDNLIPVTIGNIIGGGLLVGL</span><span class="topo-outside">TYWV</span><span class="topo-unknown">IYLRENDHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -670,6 +681,7 @@ FocA (formate channel A) is a pentameric membrane channel belonging to the FNT (
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -685,11 +697,13 @@ FocA (formate channel A) is a pentameric membrane channel belonging to the FNT (
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MKADNPFDLLLPAAMAKVAEEAGVYKATK</span><span class="topo-outside">HPLKTF</span><span class="topo-membrane">YLAITAGVFISIAFVFYITAT</span><span class="topo-inside">TGTG</span></span>
-<span class="topo-line"><span class="topo-inside">TMPFGM</span><span class="topo-membrane">AKLVGGICFSLGLILCVVC</span><span class="topo-outside">GADLFTSTVLIVVAKASGRITWGQLAKN</span><span class="topo-membrane">WLNVYFG</span></span>
-<span class="topo-line"><span class="topo-membrane">NLVGALLFVLLMWLS</span><span class="topo-inside">GEYMTANG</span><span class="topo-unknown">QWGLNVLQTADH</span><span class="topo-inside">KVHHTF</span><span class="topo-membrane">IEAVCLGILANLMVCLAVW</span></span>
-<span class="topo-line"><span class="topo-membrane">MS</span><span class="topo-outside">YSGRSL</span><span class="topo-membrane">MDKAFIMVLPVAMFVASGFEHSIANMFMIPM</span><span class="topo-inside">GIVIRDFASPEFWTAVGSAPE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MKADNPFDLLLPAAMAKVAEEAGVYKATK</span><span class="topo-outside">HPLKTF</span><span class="topo-membrane">YLAITAGVFISIAFVFYITAT</span><span class="topo-inside">TGTGTMPFGM</span><span class="topo-membrane">AKLVGGICFSLGLILCVVC</span><span class="topo-outside">GADLFTSTVLIVVAKASGRITWGQLAKN</span><span class="topo-membrane">WLNVYFG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">NLVGALLFVLLMWLS</span><span class="topo-inside">GEYMTANG</span><span class="topo-unknown">QWGLNVLQTADH</span><span class="topo-inside">KVHHTF</span><span class="topo-membrane">IEAVCLGILANLMVCLAVWMS</span><span class="topo-outside">YSGRSL</span><span class="topo-membrane">MDKAFIMVLPVAMFVASGFEHSIANMFMIPM</span><span class="topo-inside">GIVIRDFASPEFWTAVGSAPE</span></span>
+<span class="topo-ruler">       250       260       270       280     </span>
 <span class="topo-line"><span class="topo-inside">NFSHLTV</span><span class="topo-membrane">MNFITDNLIPVTIGNIIGGGLLVGL</span><span class="topo-outside">TYWVIY</span><span class="topo-unknown">LRENDHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -820,6 +834,7 @@ FocA (formate channel A) is a pentameric membrane channel belonging to the FNT (
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -835,11 +850,13 @@ FocA (formate channel A) is a pentameric membrane channel belonging to the FNT (
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MKADNPFDLLLPAAMAKVAEEAGVYKATK</span><span class="topo-inside">HPLKTFYLA</span><span class="topo-membrane">ITAGVFISIAFVFYITATT</span><span class="topo-outside">GTG</span></span>
-<span class="topo-line"><span class="topo-outside">TMP</span><span class="topo-membrane">FGMAKLVGGICFSLGLILC</span><span class="topo-inside">VVCGADLFTSTVLIVVAKASGRITWGQLAKNW</span><span class="topo-membrane">LNVYFG</span></span>
-<span class="topo-line"><span class="topo-membrane">NLVGALLFVLLMWLSGEYMTA</span><span class="topo-outside">NGQWGLN</span><span class="topo-membrane">VLQTADHKVHHTFIEAVCLGILANLMVCLAV</span><span class="topo-inside">W</span></span>
-<span class="topo-line"><span class="topo-inside">MSYSGRSLMDKA</span><span class="topo-membrane">FIMVLPVAMFVASG</span><span class="topo-unknown">F</span><span class="topo-membrane">EHSIANMFMIPMGIVIRDF</span><span class="topo-outside">ASPEFWTAVGSAPE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MKADNPFDLLLPAAMAKVAEEAGVYKATK</span><span class="topo-inside">HPLKTFYLA</span><span class="topo-membrane">ITAGVFISIAFVFYITATT</span><span class="topo-outside">GTGTMP</span><span class="topo-membrane">FGMAKLVGGICFSLGLILC</span><span class="topo-inside">VVCGADLFTSTVLIVVAKASGRITWGQLAKNW</span><span class="topo-membrane">LNVYFG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">NLVGALLFVLLMWLSGEYMTA</span><span class="topo-outside">NGQWGLN</span><span class="topo-membrane">VLQTADHKVHHTFIEAVCLGILANLMVCLAV</span><span class="topo-inside">WMSYSGRSLMDKA</span><span class="topo-membrane">FIMVLPVAMFVASG</span><span class="topo-unknown">F</span><span class="topo-membrane">EHSIANMFMIPMGIVIRDF</span><span class="topo-outside">ASPEFWTAVGSAPE</span></span>
+<span class="topo-ruler">       250       260       270       280     </span>
 <span class="topo-line"><span class="topo-outside">NFSHL</span><span class="topo-membrane">TVMNFITDNLIPVTIGNIIGGGLL</span><span class="topo-inside">VGLTYWVIYL</span><span class="topo-unknown">RENDHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -963,6 +980,7 @@ FocA (formate channel A) is a pentameric membrane channel belonging to the FNT (
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -978,11 +996,13 @@ FocA (formate channel A) is a pentameric membrane channel belonging to the FNT (
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MKADNPFDLLLPAAMAKVAEEAGVYKATK</span><span class="topo-inside">HPLKTFYLA</span><span class="topo-membrane">ITAGVFISIAFVFYITATT</span><span class="topo-outside">GTG</span></span>
-<span class="topo-line"><span class="topo-outside">TMP</span><span class="topo-membrane">FGMAKLVGGICFSLGLILCV</span><span class="topo-inside">VCGADLFTSTVLIVVAKASGRITWGQLAKNW</span><span class="topo-membrane">LNVYFG</span></span>
-<span class="topo-line"><span class="topo-membrane">NLVGALLFVLLMWLSGEYMT</span><span class="topo-outside">ANGQWGLN</span><span class="topo-membrane">VLQTADHKVHHTFIEAVCLGILANLMVCLAV</span><span class="topo-inside">W</span></span>
-<span class="topo-line"><span class="topo-inside">MSYSGRSLMDKA</span><span class="topo-membrane">FIMVLPVAMFVASG</span><span class="topo-unknown">F</span><span class="topo-membrane">EHSIANMFMIPMGIVI</span><span class="topo-outside">RDFASPEFWTAVGSAPE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MKADNPFDLLLPAAMAKVAEEAGVYKATK</span><span class="topo-inside">HPLKTFYLA</span><span class="topo-membrane">ITAGVFISIAFVFYITATT</span><span class="topo-outside">GTGTMP</span><span class="topo-membrane">FGMAKLVGGICFSLGLILCV</span><span class="topo-inside">VCGADLFTSTVLIVVAKASGRITWGQLAKNW</span><span class="topo-membrane">LNVYFG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">NLVGALLFVLLMWLSGEYMT</span><span class="topo-outside">ANGQWGLN</span><span class="topo-membrane">VLQTADHKVHHTFIEAVCLGILANLMVCLAV</span><span class="topo-inside">WMSYSGRSLMDKA</span><span class="topo-membrane">FIMVLPVAMFVASG</span><span class="topo-unknown">F</span><span class="topo-membrane">EHSIANMFMIPMGIVI</span><span class="topo-outside">RDFASPEFWTAVGSAPE</span></span>
+<span class="topo-ruler">       250       260       270       280     </span>
 <span class="topo-line"><span class="topo-outside">NFSHL</span><span class="topo-membrane">TVMNFITDNLIPVTIGNIIGGGLL</span><span class="topo-inside">VGLTYWVIYL</span><span class="topo-unknown">RENDHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1106,6 +1126,7 @@ FocA (formate channel A) is a pentameric membrane channel belonging to the FNT (
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1121,11 +1142,13 @@ FocA (formate channel A) is a pentameric membrane channel belonging to the FNT (
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MKADNPFDLLLPAAMAKVAEEAGVYKATK</span><span class="topo-inside">HPLKTFYLA</span><span class="topo-membrane">ITAGVFISIAFVFYITATT</span><span class="topo-outside">GTG</span></span>
-<span class="topo-line"><span class="topo-outside">TMP</span><span class="topo-membrane">FGMAKLVGGICFSLGLILCV</span><span class="topo-inside">VCGADLFTSTVLIVVAKASGRITWGQLAKNW</span><span class="topo-membrane">LNVYFG</span></span>
-<span class="topo-line"><span class="topo-membrane">NLVGALLFVLLMWLSGEYMTA</span><span class="topo-outside">NGQWGLN</span><span class="topo-membrane">VLQTADHKVHHTFIEAVCLGILANLMVCLAV</span><span class="topo-inside">W</span></span>
-<span class="topo-line"><span class="topo-inside">MSYSGRSLMDKA</span><span class="topo-membrane">FIMVLPVAMFVASG</span><span class="topo-unknown">F</span><span class="topo-membrane">EHSIANMFMIPMGIVI</span><span class="topo-outside">RDFASPEFWTAVGSAPE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MKADNPFDLLLPAAMAKVAEEAGVYKATK</span><span class="topo-inside">HPLKTFYLA</span><span class="topo-membrane">ITAGVFISIAFVFYITATT</span><span class="topo-outside">GTGTMP</span><span class="topo-membrane">FGMAKLVGGICFSLGLILCV</span><span class="topo-inside">VCGADLFTSTVLIVVAKASGRITWGQLAKNW</span><span class="topo-membrane">LNVYFG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">NLVGALLFVLLMWLSGEYMTA</span><span class="topo-outside">NGQWGLN</span><span class="topo-membrane">VLQTADHKVHHTFIEAVCLGILANLMVCLAV</span><span class="topo-inside">WMSYSGRSLMDKA</span><span class="topo-membrane">FIMVLPVAMFVASG</span><span class="topo-unknown">F</span><span class="topo-membrane">EHSIANMFMIPMGIVI</span><span class="topo-outside">RDFASPEFWTAVGSAPE</span></span>
+<span class="topo-ruler">       250       260       270       280     </span>
 <span class="topo-line"><span class="topo-outside">NFSHL</span><span class="topo-membrane">TVMNFITDNLIPVTIGNIIGGGLL</span><span class="topo-inside">VGLTYWVIYL</span><span class="topo-unknown">RENDHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1249,6 +1272,7 @@ FocA (formate channel A) is a pentameric membrane channel belonging to the FNT (
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1264,11 +1288,13 @@ FocA (formate channel A) is a pentameric membrane channel belonging to the FNT (
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MKADNPFDLLLPAAMAKVAEEAGVYKATK</span><span class="topo-inside">HPLKTFYLA</span><span class="topo-membrane">ITAGVFISIAFVFYITATT</span><span class="topo-outside">GTG</span></span>
-<span class="topo-line"><span class="topo-outside">TMP</span><span class="topo-membrane">FGMAKLVGGICFSLGLILC</span><span class="topo-inside">VVCGADLFTSTVLIVVAKASGRITWGQLAKNW</span><span class="topo-membrane">LNVYFG</span></span>
-<span class="topo-line"><span class="topo-membrane">NLVGALLFVLLMWLSGEYMT</span><span class="topo-outside">ANGQWGLN</span><span class="topo-membrane">VLQTADHKVHHTFIEAVCLGILANLMVCLAV</span><span class="topo-inside">W</span></span>
-<span class="topo-line"><span class="topo-inside">MSYSGRSLMDKA</span><span class="topo-membrane">FIMVLPVAMFVASG</span><span class="topo-unknown">F</span><span class="topo-membrane">EHSIANMFMIPMGIVI</span><span class="topo-outside">RDFASPEFWTAVGSAPE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MKADNPFDLLLPAAMAKVAEEAGVYKATK</span><span class="topo-inside">HPLKTFYLA</span><span class="topo-membrane">ITAGVFISIAFVFYITATT</span><span class="topo-outside">GTGTMP</span><span class="topo-membrane">FGMAKLVGGICFSLGLILC</span><span class="topo-inside">VVCGADLFTSTVLIVVAKASGRITWGQLAKNW</span><span class="topo-membrane">LNVYFG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">NLVGALLFVLLMWLSGEYMT</span><span class="topo-outside">ANGQWGLN</span><span class="topo-membrane">VLQTADHKVHHTFIEAVCLGILANLMVCLAV</span><span class="topo-inside">WMSYSGRSLMDKA</span><span class="topo-membrane">FIMVLPVAMFVASG</span><span class="topo-unknown">F</span><span class="topo-membrane">EHSIANMFMIPMGIVI</span><span class="topo-outside">RDFASPEFWTAVGSAPE</span></span>
+<span class="topo-ruler">       250       260       270       280     </span>
 <span class="topo-line"><span class="topo-outside">NFSHL</span><span class="topo-membrane">TVMNFITDNLIPVTIGNIIGGGLL</span><span class="topo-inside">VGLTYWVIYLR</span><span class="topo-unknown">ENDHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1392,6 +1418,7 @@ FocA (formate channel A) is a pentameric membrane channel belonging to the FNT (
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1407,11 +1434,13 @@ FocA (formate channel A) is a pentameric membrane channel belonging to the FNT (
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MKADNPFDLLLPAAMAKVAEEAGVYKAT</span><span class="topo-inside">KHPLKTFYLA</span><span class="topo-membrane">ITAGVFISIAFVFYITATT</span><span class="topo-outside">GTG</span></span>
-<span class="topo-line"><span class="topo-outside">TMP</span><span class="topo-membrane">FGMAKLVGGICFSLGLILC</span><span class="topo-inside">VVCGADLFTSTVLIVVAKASGRITWGQLAKNWL</span><span class="topo-membrane">NVYFG</span></span>
-<span class="topo-line"><span class="topo-membrane">NLVGALLFVLLMWLSGEYMTA</span><span class="topo-outside">NGQWGLN</span><span class="topo-membrane">VLQTADHKVHHTFIEAVCLGILANLMVCLAV</span><span class="topo-inside">W</span></span>
-<span class="topo-line"><span class="topo-inside">MSYSGRSLMDKA</span><span class="topo-membrane">FIMVLPVAMFVASG</span><span class="topo-unknown">F</span><span class="topo-membrane">EHSIANMFMIPMGIVI</span><span class="topo-outside">RDFASPEFWTAVGSAPE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MKADNPFDLLLPAAMAKVAEEAGVYKAT</span><span class="topo-inside">KHPLKTFYLA</span><span class="topo-membrane">ITAGVFISIAFVFYITATT</span><span class="topo-outside">GTGTMP</span><span class="topo-membrane">FGMAKLVGGICFSLGLILC</span><span class="topo-inside">VVCGADLFTSTVLIVVAKASGRITWGQLAKNWL</span><span class="topo-membrane">NVYFG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">NLVGALLFVLLMWLSGEYMTA</span><span class="topo-outside">NGQWGLN</span><span class="topo-membrane">VLQTADHKVHHTFIEAVCLGILANLMVCLAV</span><span class="topo-inside">WMSYSGRSLMDKA</span><span class="topo-membrane">FIMVLPVAMFVASG</span><span class="topo-unknown">F</span><span class="topo-membrane">EHSIANMFMIPMGIVI</span><span class="topo-outside">RDFASPEFWTAVGSAPE</span></span>
+<span class="topo-ruler">       250       260       270       280     </span>
 <span class="topo-line"><span class="topo-outside">NFSHL</span><span class="topo-membrane">TVMNFITDNLIPVTIGNIIGGGLL</span><span class="topo-inside">VGLTYWVIYLR</span><span class="topo-unknown">ENDHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1535,6 +1564,7 @@ FocA (formate channel A) is a pentameric membrane channel belonging to the FNT (
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1671,11 +1701,13 @@ FocA (formate channel A) is a pentameric membrane channel belonging to the FNT (
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MEHNQFDSLLPPQMAERAAIT</span><span class="topo-inside">GEGKAKKAAYKSF</span><span class="topo-membrane">LLAISAGIQIGIAFVFYTVVT</span><span class="topo-outside">TGAHD</span></span>
-<span class="topo-line"><span class="topo-outside">MPYG</span><span class="topo-membrane">VTKLLGGLAFSLGLILVV</span><span class="topo-inside">ITGGELFTSSVLILVAKASGKISWKELVRNW</span><span class="topo-membrane">TVVYFGN</span></span>
-<span class="topo-line"><span class="topo-membrane">LCGSIILVFIMLATRQ</span><span class="topo-outside">FMEDGGQLGLNAMAISQHKLHH</span><span class="topo-membrane">TFLQAFALGLMCNILVCLAV</span><span class="topo-inside">WM</span></span>
-<span class="topo-line"><span class="topo-inside">TFSARSLTDK</span><span class="topo-membrane">VMVLILPVAMFVSSGFEHCIANMFQVPMAIG</span><span class="topo-outside">IKYFAPESFWAMTGANIAQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MEHNQFDSLLPPQMAERAAIT</span><span class="topo-inside">GEGKAKKAAYKSF</span><span class="topo-membrane">LLAISAGIQIGIAFVFYTVVT</span><span class="topo-outside">TGAHDMPYG</span><span class="topo-membrane">VTKLLGGLAFSLGLILVV</span><span class="topo-inside">ITGGELFTSSVLILVAKASGKISWKELVRNW</span><span class="topo-membrane">TVVYFGN</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">LCGSIILVFIMLATRQ</span><span class="topo-outside">FMEDGGQLGLNAMAISQHKLHH</span><span class="topo-membrane">TFLQAFALGLMCNILVCLAV</span><span class="topo-inside">WMTFSARSLTDK</span><span class="topo-membrane">VMVLILPVAMFVSSGFEHCIANMFQVPMAIG</span><span class="topo-outside">IKYFAPESFWAMTGANIAQ</span></span>
+<span class="topo-ruler">       250       260       270       280</span>
 <span class="topo-line"><span class="topo-outside">YADLN</span><span class="topo-membrane">FVNFIVNNLIPVTLGNIVGGGVF</span><span class="topo-inside">VGMWYWLIYL</span><span class="topo-unknown">KD</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1792,6 +1824,7 @@ FocA (formate channel A) is a pentameric membrane channel belonging to the FNT (
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1807,11 +1840,13 @@ FocA (formate channel A) is a pentameric membrane channel belonging to the FNT (
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MEHNQFDSLLPPQMAERAAITGE</span><span class="topo-inside">GKAKKAAYKSF</span><span class="topo-membrane">LLAISAGIQIGIAFVFYTVVT</span><span class="topo-outside">TGAHD</span></span>
-<span class="topo-line"><span class="topo-outside">MPYG</span><span class="topo-membrane">VTKLLGGLAFSLGLILVV</span><span class="topo-inside">ITGGELFTSSVLILVAKASGKISWKELVRNW</span><span class="topo-membrane">TVVYFGN</span></span>
-<span class="topo-line"><span class="topo-membrane">LCGSIILVFIMLATRQF</span><span class="topo-outside">MEDGGQLGLNAMAISQHKLHH</span><span class="topo-membrane">TFLQAFALGLMCNILVCLAV</span><span class="topo-inside">WM</span></span>
-<span class="topo-line"><span class="topo-inside">TFSARSLTDK</span><span class="topo-membrane">VMVLILPVAMFVSSGFEHCIANMFQVPMAIG</span><span class="topo-outside">IKYFAPESFWAMTGANIAQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MEHNQFDSLLPPQMAERAAITGE</span><span class="topo-inside">GKAKKAAYKSF</span><span class="topo-membrane">LLAISAGIQIGIAFVFYTVVT</span><span class="topo-outside">TGAHDMPYG</span><span class="topo-membrane">VTKLLGGLAFSLGLILVV</span><span class="topo-inside">ITGGELFTSSVLILVAKASGKISWKELVRNW</span><span class="topo-membrane">TVVYFGN</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">LCGSIILVFIMLATRQF</span><span class="topo-outside">MEDGGQLGLNAMAISQHKLHH</span><span class="topo-membrane">TFLQAFALGLMCNILVCLAV</span><span class="topo-inside">WMTFSARSLTDK</span><span class="topo-membrane">VMVLILPVAMFVSSGFEHCIANMFQVPMAIG</span><span class="topo-outside">IKYFAPESFWAMTGANIAQ</span></span>
+<span class="topo-ruler">       250       260       270       280</span>
 <span class="topo-line"><span class="topo-outside">YADLN</span><span class="topo-membrane">FVNFIVNNLIPVTLGNIVGGGVF</span><span class="topo-inside">VGMWYWLIYL</span><span class="topo-unknown">KD</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1928,6 +1963,7 @@ FocA (formate channel A) is a pentameric membrane channel belonging to the FNT (
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1943,11 +1979,13 @@ FocA (formate channel A) is a pentameric membrane channel belonging to the FNT (
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MEHNQFDSLLPPQMAERAAI</span><span class="topo-inside">TGEGKAKKAAYKSFLLA</span><span class="topo-membrane">ISAGIQIGIAFVFYTVVT</span><span class="topo-outside">TGAHD</span></span>
-<span class="topo-line"><span class="topo-outside">MPYG</span><span class="topo-membrane">VTKLLGGLAFSLGLILVV</span><span class="topo-inside">ITGGELFTSSVLILVAKASGKISWKELVRNW</span><span class="topo-membrane">TVVYFGN</span></span>
-<span class="topo-line"><span class="topo-membrane">LCGSIILVFIMLATRQF</span><span class="topo-outside">MEDGGQLGLNAMAISQHKLHH</span><span class="topo-membrane">TFLQAFALGLMCNILVCLAV</span><span class="topo-inside">WM</span></span>
-<span class="topo-line"><span class="topo-inside">TFSARSLTDK</span><span class="topo-membrane">VMVLILPVAMFVSSGFEHCIANMFQVPMAIG</span><span class="topo-unknown">I</span><span class="topo-outside">KYFAPESFWAMTGANIAQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MEHNQFDSLLPPQMAERAAI</span><span class="topo-inside">TGEGKAKKAAYKSFLLA</span><span class="topo-membrane">ISAGIQIGIAFVFYTVVT</span><span class="topo-outside">TGAHDMPYG</span><span class="topo-membrane">VTKLLGGLAFSLGLILVV</span><span class="topo-inside">ITGGELFTSSVLILVAKASGKISWKELVRNW</span><span class="topo-membrane">TVVYFGN</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">LCGSIILVFIMLATRQF</span><span class="topo-outside">MEDGGQLGLNAMAISQHKLHH</span><span class="topo-membrane">TFLQAFALGLMCNILVCLAV</span><span class="topo-inside">WMTFSARSLTDK</span><span class="topo-membrane">VMVLILPVAMFVSSGFEHCIANMFQVPMAIG</span><span class="topo-unknown">I</span><span class="topo-outside">KYFAPESFWAMTGANIAQ</span></span>
+<span class="topo-ruler">       250       260       270       280</span>
 <span class="topo-line"><span class="topo-outside">YADLN</span><span class="topo-membrane">FVNFIVNNLIPVTLGNIVGGGVF</span><span class="topo-inside">VGMWYWLIYLK</span><span class="topo-unknown">D</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2064,6 +2102,7 @@ FocA (formate channel A) is a pentameric membrane channel belonging to the FNT (
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2079,11 +2118,13 @@ FocA (formate channel A) is a pentameric membrane channel belonging to the FNT (
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MEHNQFDSLLPPQMAERAAITGEGKA</span><span class="topo-inside">KKAAYKSF</span><span class="topo-membrane">LLAISAGIQIGIAFVFYTVVT</span><span class="topo-outside">TGAHD</span></span>
-<span class="topo-line"><span class="topo-outside">MPYG</span><span class="topo-membrane">VTKLLGGLAFSLGLILVV</span><span class="topo-inside">ITGGELFTSSVLILVAKASGKISWKELVRNW</span><span class="topo-membrane">TVVYFGN</span></span>
-<span class="topo-line"><span class="topo-membrane">LCGSIILVFIMLATRQ</span><span class="topo-outside">FMEDGGQLGLNAMAISQHKLHH</span><span class="topo-membrane">TFLQAFALGLMCNILVCLAV</span><span class="topo-inside">WM</span></span>
-<span class="topo-line"><span class="topo-inside">TFSARSLTDK</span><span class="topo-membrane">VMVLILPVAMFVSSGFEHCIANMFQVPMAIG</span><span class="topo-outside">IKYFAPESFWAMTGANIAQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MEHNQFDSLLPPQMAERAAITGEGKA</span><span class="topo-inside">KKAAYKSF</span><span class="topo-membrane">LLAISAGIQIGIAFVFYTVVT</span><span class="topo-outside">TGAHDMPYG</span><span class="topo-membrane">VTKLLGGLAFSLGLILVV</span><span class="topo-inside">ITGGELFTSSVLILVAKASGKISWKELVRNW</span><span class="topo-membrane">TVVYFGN</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">LCGSIILVFIMLATRQ</span><span class="topo-outside">FMEDGGQLGLNAMAISQHKLHH</span><span class="topo-membrane">TFLQAFALGLMCNILVCLAV</span><span class="topo-inside">WMTFSARSLTDK</span><span class="topo-membrane">VMVLILPVAMFVSSGFEHCIANMFQVPMAIG</span><span class="topo-outside">IKYFAPESFWAMTGANIAQ</span></span>
+<span class="topo-ruler">       250       260       270       280</span>
 <span class="topo-line"><span class="topo-outside">YADLN</span><span class="topo-membrane">FVNFIVNNLIPVTLGNIVGGGVF</span><span class="topo-inside">VGMWYWLIYL</span><span class="topo-unknown">KD</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2200,6 +2241,7 @@ FocA (formate channel A) is a pentameric membrane channel belonging to the FNT (
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2215,11 +2257,13 @@ FocA (formate channel A) is a pentameric membrane channel belonging to the FNT (
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MEHNQFDSLLPPQMAERAAITG</span><span class="topo-inside">EGKAKKAAYKSF</span><span class="topo-membrane">LLAISAGIQIGIAFVFYTVVT</span><span class="topo-outside">TGAHD</span></span>
-<span class="topo-line"><span class="topo-outside">MPYG</span><span class="topo-membrane">VTKLLGGLAFSLGLILVV</span><span class="topo-inside">ITGGELFTSSVLILVAKASGKISWKELVRNW</span><span class="topo-membrane">TVVYFGN</span></span>
-<span class="topo-line"><span class="topo-membrane">LCGSIILVFIMLATRQ</span><span class="topo-outside">FMEDGGQLGLNAMAISQHKLHH</span><span class="topo-membrane">TFLQAFALGLMCNILVCLAV</span><span class="topo-inside">WM</span></span>
-<span class="topo-line"><span class="topo-inside">TFSARSLTDK</span><span class="topo-membrane">VMVLILPVAMFVSSGFEHCIANMFQVPMAIG</span><span class="topo-outside">IKYFAPESFWAMTGANIAQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MEHNQFDSLLPPQMAERAAITG</span><span class="topo-inside">EGKAKKAAYKSF</span><span class="topo-membrane">LLAISAGIQIGIAFVFYTVVT</span><span class="topo-outside">TGAHDMPYG</span><span class="topo-membrane">VTKLLGGLAFSLGLILVV</span><span class="topo-inside">ITGGELFTSSVLILVAKASGKISWKELVRNW</span><span class="topo-membrane">TVVYFGN</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">LCGSIILVFIMLATRQ</span><span class="topo-outside">FMEDGGQLGLNAMAISQHKLHH</span><span class="topo-membrane">TFLQAFALGLMCNILVCLAV</span><span class="topo-inside">WMTFSARSLTDK</span><span class="topo-membrane">VMVLILPVAMFVSSGFEHCIANMFQVPMAIG</span><span class="topo-outside">IKYFAPESFWAMTGANIAQ</span></span>
+<span class="topo-ruler">       250       260       270       280</span>
 <span class="topo-line"><span class="topo-outside">YADLN</span><span class="topo-membrane">FVNFIVNNLIPVTLGNIVGGGVF</span><span class="topo-inside">VGMWYWLIYL</span><span class="topo-unknown">KD</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2336,6 +2380,7 @@ FocA (formate channel A) is a pentameric membrane channel belonging to the FNT (
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2351,11 +2396,13 @@ FocA (formate channel A) is a pentameric membrane channel belonging to the FNT (
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MEHNQFDSLLPPQMAERAAIT</span><span class="topo-inside">GEGKAKKAAYKSF</span><span class="topo-membrane">LLAISAGIQIGIAFVFYTVVT</span><span class="topo-outside">TGAHD</span></span>
-<span class="topo-line"><span class="topo-outside">MPYG</span><span class="topo-membrane">VTKLLGGLAFSLGLILVV</span><span class="topo-inside">ITGGELFTSSVLILVAKASGKISWKELVRNW</span><span class="topo-membrane">TVVYFGN</span></span>
-<span class="topo-line"><span class="topo-membrane">LCGSIILVFIMLATRQ</span><span class="topo-outside">FMEDGGQLGLNAMAISQHKLHH</span><span class="topo-membrane">TFLQAFALGLMCNILVCLAV</span><span class="topo-inside">WM</span></span>
-<span class="topo-line"><span class="topo-inside">TFSARSLTDK</span><span class="topo-membrane">VMVLILPVAMFVSSGFEHCIANMFQVPMAIG</span><span class="topo-outside">IKYFAPESFWAMTGANIAQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MEHNQFDSLLPPQMAERAAIT</span><span class="topo-inside">GEGKAKKAAYKSF</span><span class="topo-membrane">LLAISAGIQIGIAFVFYTVVT</span><span class="topo-outside">TGAHDMPYG</span><span class="topo-membrane">VTKLLGGLAFSLGLILVV</span><span class="topo-inside">ITGGELFTSSVLILVAKASGKISWKELVRNW</span><span class="topo-membrane">TVVYFGN</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">LCGSIILVFIMLATRQ</span><span class="topo-outside">FMEDGGQLGLNAMAISQHKLHH</span><span class="topo-membrane">TFLQAFALGLMCNILVCLAV</span><span class="topo-inside">WMTFSARSLTDK</span><span class="topo-membrane">VMVLILPVAMFVSSGFEHCIANMFQVPMAIG</span><span class="topo-outside">IKYFAPESFWAMTGANIAQ</span></span>
+<span class="topo-ruler">       250       260       270       280</span>
 <span class="topo-line"><span class="topo-outside">YADLN</span><span class="topo-membrane">FVNFIVNNLIPVTLGNIVGGGVF</span><span class="topo-inside">VGMWYWLIYL</span><span class="topo-unknown">KD</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2472,6 +2519,7 @@ FocA (formate channel A) is a pentameric membrane channel belonging to the FNT (
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2487,11 +2535,13 @@ FocA (formate channel A) is a pentameric membrane channel belonging to the FNT (
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MEHNQFDSLLPPQMAERAAITGE</span><span class="topo-inside">GKAKKAAYKSF</span><span class="topo-membrane">LLAISAGIQIGIAFVFYTVVT</span><span class="topo-outside">TGAHD</span></span>
-<span class="topo-line"><span class="topo-outside">MPYG</span><span class="topo-membrane">VTKLLGGLAFSLGLILVV</span><span class="topo-inside">ITGGELFTSSVLILVAKASGKISWKELVRNW</span><span class="topo-membrane">TVVYFGN</span></span>
-<span class="topo-line"><span class="topo-membrane">LCGSIILVFIMLATRQF</span><span class="topo-outside">MEDGGQLGLNAMAISQHKLHH</span><span class="topo-membrane">TFLQAFALGLMCNILVCLAV</span><span class="topo-inside">WM</span></span>
-<span class="topo-line"><span class="topo-inside">TFSARSLTDK</span><span class="topo-membrane">VMVLILPVAMFVSSGFEHCIANMFQVPMAIG</span><span class="topo-outside">IKYFAPESFWAMTGANIAQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MEHNQFDSLLPPQMAERAAITGE</span><span class="topo-inside">GKAKKAAYKSF</span><span class="topo-membrane">LLAISAGIQIGIAFVFYTVVT</span><span class="topo-outside">TGAHDMPYG</span><span class="topo-membrane">VTKLLGGLAFSLGLILVV</span><span class="topo-inside">ITGGELFTSSVLILVAKASGKISWKELVRNW</span><span class="topo-membrane">TVVYFGN</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">LCGSIILVFIMLATRQF</span><span class="topo-outside">MEDGGQLGLNAMAISQHKLHH</span><span class="topo-membrane">TFLQAFALGLMCNILVCLAV</span><span class="topo-inside">WMTFSARSLTDK</span><span class="topo-membrane">VMVLILPVAMFVSSGFEHCIANMFQVPMAIG</span><span class="topo-outside">IKYFAPESFWAMTGANIAQ</span></span>
+<span class="topo-ruler">       250       260       270       280</span>
 <span class="topo-line"><span class="topo-outside">YADLN</span><span class="topo-membrane">FVNFIVNNLIPVTLGNIVGGGVF</span><span class="topo-inside">VGMWYWLIYL</span><span class="topo-unknown">KD</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2608,6 +2658,7 @@ FocA (formate channel A) is a pentameric membrane channel belonging to the FNT (
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2623,11 +2674,13 @@ FocA (formate channel A) is a pentameric membrane channel belonging to the FNT (
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MEHNQFDSLLPPQMAERAAI</span><span class="topo-inside">TGEGKAKKAAYKSFLLA</span><span class="topo-membrane">ISAGIQIGIAFVFYTVVT</span><span class="topo-outside">TGAHD</span></span>
-<span class="topo-line"><span class="topo-outside">MPYG</span><span class="topo-membrane">VTKLLGGLAFSLGLILVV</span><span class="topo-inside">ITGGELFTSSVLILVAKASGKISWKELVRNW</span><span class="topo-membrane">TVVYFGN</span></span>
-<span class="topo-line"><span class="topo-membrane">LCGSIILVFIMLATRQF</span><span class="topo-outside">MEDGGQLGLNAMAISQHKLHH</span><span class="topo-membrane">TFLQAFALGLMCNILVCLAV</span><span class="topo-inside">WM</span></span>
-<span class="topo-line"><span class="topo-inside">TFSARSLTDK</span><span class="topo-membrane">VMVLILPVAMFVSSGFEHCIANMFQVPMAIG</span><span class="topo-unknown">I</span><span class="topo-outside">KYFAPESFWAMTGANIAQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MEHNQFDSLLPPQMAERAAI</span><span class="topo-inside">TGEGKAKKAAYKSFLLA</span><span class="topo-membrane">ISAGIQIGIAFVFYTVVT</span><span class="topo-outside">TGAHDMPYG</span><span class="topo-membrane">VTKLLGGLAFSLGLILVV</span><span class="topo-inside">ITGGELFTSSVLILVAKASGKISWKELVRNW</span><span class="topo-membrane">TVVYFGN</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">LCGSIILVFIMLATRQF</span><span class="topo-outside">MEDGGQLGLNAMAISQHKLHH</span><span class="topo-membrane">TFLQAFALGLMCNILVCLAV</span><span class="topo-inside">WMTFSARSLTDK</span><span class="topo-membrane">VMVLILPVAMFVSSGFEHCIANMFQVPMAIG</span><span class="topo-unknown">I</span><span class="topo-outside">KYFAPESFWAMTGANIAQ</span></span>
+<span class="topo-ruler">       250       260       270       280</span>
 <span class="topo-line"><span class="topo-outside">YADLN</span><span class="topo-membrane">FVNFIVNNLIPVTLGNIVGGGVF</span><span class="topo-inside">VGMWYWLIYLK</span><span class="topo-unknown">D</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2744,6 +2797,7 @@ FocA (formate channel A) is a pentameric membrane channel belonging to the FNT (
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2759,11 +2813,13 @@ FocA (formate channel A) is a pentameric membrane channel belonging to the FNT (
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MEHNQFDSLLPPQMAERAAITGEGKA</span><span class="topo-inside">KKAAYKSF</span><span class="topo-membrane">LLAISAGIQIGIAFVFYTVVT</span><span class="topo-outside">TGAHD</span></span>
-<span class="topo-line"><span class="topo-outside">MPYG</span><span class="topo-membrane">VTKLLGGLAFSLGLILVV</span><span class="topo-inside">ITGGELFTSSVLILVAKASGKISWKELVRNW</span><span class="topo-membrane">TVVYFGN</span></span>
-<span class="topo-line"><span class="topo-membrane">LCGSIILVFIMLATRQ</span><span class="topo-outside">FMEDGGQLGLNAMAISQHKLHH</span><span class="topo-membrane">TFLQAFALGLMCNILVCLAV</span><span class="topo-inside">WM</span></span>
-<span class="topo-line"><span class="topo-inside">TFSARSLTDK</span><span class="topo-membrane">VMVLILPVAMFVSSGFEHCIANMFQVPMAIG</span><span class="topo-outside">IKYFAPESFWAMTGANIAQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MEHNQFDSLLPPQMAERAAITGEGKA</span><span class="topo-inside">KKAAYKSF</span><span class="topo-membrane">LLAISAGIQIGIAFVFYTVVT</span><span class="topo-outside">TGAHDMPYG</span><span class="topo-membrane">VTKLLGGLAFSLGLILVV</span><span class="topo-inside">ITGGELFTSSVLILVAKASGKISWKELVRNW</span><span class="topo-membrane">TVVYFGN</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">LCGSIILVFIMLATRQ</span><span class="topo-outside">FMEDGGQLGLNAMAISQHKLHH</span><span class="topo-membrane">TFLQAFALGLMCNILVCLAV</span><span class="topo-inside">WMTFSARSLTDK</span><span class="topo-membrane">VMVLILPVAMFVSSGFEHCIANMFQVPMAIG</span><span class="topo-outside">IKYFAPESFWAMTGANIAQ</span></span>
+<span class="topo-ruler">       250       260       270       280</span>
 <span class="topo-line"><span class="topo-outside">YADLN</span><span class="topo-membrane">FVNFIVNNLIPVTLGNIVGGGVF</span><span class="topo-inside">VGMWYWLIYL</span><span class="topo-unknown">KD</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2880,6 +2936,7 @@ FocA (formate channel A) is a pentameric membrane channel belonging to the FNT (
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2895,11 +2952,13 @@ FocA (formate channel A) is a pentameric membrane channel belonging to the FNT (
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MEHNQFDSLLPPQMAERAAITG</span><span class="topo-inside">EGKAKKAAYKSF</span><span class="topo-membrane">LLAISAGIQIGIAFVFYTVVT</span><span class="topo-outside">TGAHD</span></span>
-<span class="topo-line"><span class="topo-outside">MPYG</span><span class="topo-membrane">VTKLLGGLAFSLGLILVV</span><span class="topo-inside">ITGGELFTSSVLILVAKASGKISWKELVRNW</span><span class="topo-membrane">TVVYFGN</span></span>
-<span class="topo-line"><span class="topo-membrane">LCGSIILVFIMLATRQ</span><span class="topo-outside">FMEDGGQLGLNAMAISQHKLHH</span><span class="topo-membrane">TFLQAFALGLMCNILVCLAV</span><span class="topo-inside">WM</span></span>
-<span class="topo-line"><span class="topo-inside">TFSARSLTDK</span><span class="topo-membrane">VMVLILPVAMFVSSGFEHCIANMFQVPMAIG</span><span class="topo-outside">IKYFAPESFWAMTGANIAQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MEHNQFDSLLPPQMAERAAITG</span><span class="topo-inside">EGKAKKAAYKSF</span><span class="topo-membrane">LLAISAGIQIGIAFVFYTVVT</span><span class="topo-outside">TGAHDMPYG</span><span class="topo-membrane">VTKLLGGLAFSLGLILVV</span><span class="topo-inside">ITGGELFTSSVLILVAKASGKISWKELVRNW</span><span class="topo-membrane">TVVYFGN</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">LCGSIILVFIMLATRQ</span><span class="topo-outside">FMEDGGQLGLNAMAISQHKLHH</span><span class="topo-membrane">TFLQAFALGLMCNILVCLAV</span><span class="topo-inside">WMTFSARSLTDK</span><span class="topo-membrane">VMVLILPVAMFVSSGFEHCIANMFQVPMAIG</span><span class="topo-outside">IKYFAPESFWAMTGANIAQ</span></span>
+<span class="topo-ruler">       250       260       270       280</span>
 <span class="topo-line"><span class="topo-outside">YADLN</span><span class="topo-membrane">FVNFIVNNLIPVTLGNIVGGGVF</span><span class="topo-inside">VGMWYWLIYL</span><span class="topo-unknown">KD</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3016,6 +3075,7 @@ FocA (formate channel A) is a pentameric membrane channel belonging to the FNT (
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

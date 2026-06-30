@@ -180,11 +180,13 @@ Krokinobacter eikastus rhodopsin 2 (KR2) is a prototypical light-driven sodium p
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">TQELGNANFENFIGATEGFSEIAYQF</span><span class="topo-membrane">TSHILTLGYAVMLAGLLYFILTIK</span><span class="topo-outside">NVDKKFQ</span><span class="topo-membrane">MS</span></span>
-<span class="topo-line"><span class="topo-membrane">NILSAVVMVSAFLLLYAQAQ</span><span class="topo-inside">NWTSSFTFNEEVGRYFLDPSGDLFNN</span><span class="topo-membrane">GYRYLNWLIDVPML</span></span>
-<span class="topo-line"><span class="topo-membrane">LFQILFV</span><span class="topo-outside">VSLTTSKF</span><span class="topo-membrane">SSVRNQFWFSGAMMIITGYIGQ</span><span class="topo-inside">FYEVSNLTA</span><span class="topo-membrane">FLVWGAISSAFFFH</span></span>
-<span class="topo-line"><span class="topo-membrane">ILWVMKKVIN</span><span class="topo-outside">EGKEGISPAGQK</span><span class="topo-membrane">ILSNIWILFLISWTLYPGAYLM</span><span class="topo-inside">PYLTGVDGFLYSEDGV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">TQELGNANFENFIGATEGFSEIAYQF</span><span class="topo-membrane">TSHILTLGYAVMLAGLLYFILTIK</span><span class="topo-outside">NVDKKFQ</span><span class="topo-membrane">MSNILSAVVMVSAFLLLYAQAQ</span><span class="topo-inside">NWTSSFTFNEEVGRYFLDPSGDLFNN</span><span class="topo-membrane">GYRYLNWLIDVPML</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">LFQILFV</span><span class="topo-outside">VSLTTSKF</span><span class="topo-membrane">SSVRNQFWFSGAMMIITGYIGQ</span><span class="topo-inside">FYEVSNLTA</span><span class="topo-membrane">FLVWGAISSAFFFHILWVMKKVIN</span><span class="topo-outside">EGKEGISPAGQK</span><span class="topo-membrane">ILSNIWILFLISWTLYPGAYLM</span><span class="topo-inside">PYLTGVDGFLYSEDGV</span></span>
+<span class="topo-ruler">       250       260       270       280       290</span>
 <span class="topo-line"><span class="topo-inside">M</span><span class="topo-membrane">ARQLVYTIADVSSKVIYGVLLGNL</span><span class="topo-outside">AITLSKN</span><span class="topo-unknown">KELENLYFQSGSHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -301,6 +303,7 @@ Krokinobacter eikastus rhodopsin 2 (KR2) is a prototypical light-driven sodium p
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -316,11 +319,13 @@ Krokinobacter eikastus rhodopsin 2 (KR2) is a prototypical light-driven sodium p
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MTQELGN</span><span class="topo-inside">ANFENFIGATEGFSEIAYQFTSHI</span><span class="topo-membrane">LTLGYAVMLAGLLYFILTIKNV</span><span class="topo-outside">DKKF</span><span class="topo-membrane">QMS</span></span>
-<span class="topo-line"><span class="topo-membrane">NILSAVVMVSAFLLLYAQA</span><span class="topo-inside">QNWTSSFTFNEEVGRYFLDPSGDLFN</span><span class="topo-membrane">NGYRYLNWLIDVPML</span></span>
-<span class="topo-line"><span class="topo-membrane">LFQILFV</span><span class="topo-outside">VSLTTSKFSSV</span><span class="topo-membrane">RNQFWFSGAMMIITGYIGQFYE</span><span class="topo-inside">VSN</span><span class="topo-membrane">LTAFLVWGAISSAFFFH</span></span>
-<span class="topo-line"><span class="topo-membrane">ILWVMKKVIN</span><span class="topo-outside">EGKEGISPA</span><span class="topo-membrane">GQKILSNIWILFLISWTLYPGAYLM</span><span class="topo-inside">PYLTGVDGFLYSEDGV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MTQELGN</span><span class="topo-inside">ANFENFIGATEGFSEIAYQFTSHI</span><span class="topo-membrane">LTLGYAVMLAGLLYFILTIKNV</span><span class="topo-outside">DKKF</span><span class="topo-membrane">QMSNILSAVVMVSAFLLLYAQA</span><span class="topo-inside">QNWTSSFTFNEEVGRYFLDPSGDLFN</span><span class="topo-membrane">NGYRYLNWLIDVPML</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">LFQILFV</span><span class="topo-outside">VSLTTSKFSSV</span><span class="topo-membrane">RNQFWFSGAMMIITGYIGQFYE</span><span class="topo-inside">VSN</span><span class="topo-membrane">LTAFLVWGAISSAFFFHILWVMKKVIN</span><span class="topo-outside">EGKEGISPA</span><span class="topo-membrane">GQKILSNIWILFLISWTLYPGAYLM</span><span class="topo-inside">PYLTGVDGFLYSEDGV</span></span>
+<span class="topo-ruler">       250       260       270       280       290</span>
 <span class="topo-line"><span class="topo-inside">MAR</span><span class="topo-membrane">QLVYTIADVSSKVIYGVLLGNLAIT</span><span class="topo-outside">LSKN</span><span class="topo-unknown">KELENLYFQSGSHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -437,6 +442,7 @@ Krokinobacter eikastus rhodopsin 2 (KR2) is a prototypical light-driven sodium p
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -452,11 +458,13 @@ Krokinobacter eikastus rhodopsin 2 (KR2) is a prototypical light-driven sodium p
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MTQELGN</span><span class="topo-inside">ANFENFIGATEGFSEIAYQFTSHI</span><span class="topo-membrane">LTLGYAVMLAGLLYFILTIKNV</span><span class="topo-outside">DKKF</span><span class="topo-membrane">QMS</span></span>
-<span class="topo-line"><span class="topo-membrane">NILSAVVMVSAFLLLYAQA</span><span class="topo-inside">QNWTSSFTFNEEVGRYFLDPSGDLFN</span><span class="topo-membrane">NGYRYLNWLIDVPML</span></span>
-<span class="topo-line"><span class="topo-membrane">LFQILFVV</span><span class="topo-outside">SLTTSKFSSV</span><span class="topo-membrane">RNQFWFSGAMMIITGYIGQFYE</span><span class="topo-inside">VSN</span><span class="topo-membrane">LTAFLVWGAISSAFFFH</span></span>
-<span class="topo-line"><span class="topo-membrane">ILWVMKKVIN</span><span class="topo-outside">EGKEGISP</span><span class="topo-membrane">AGQKILSNIWILFLISWTLYPGAYLM</span><span class="topo-inside">PYLTGVDGFLYSEDGV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MTQELGN</span><span class="topo-inside">ANFENFIGATEGFSEIAYQFTSHI</span><span class="topo-membrane">LTLGYAVMLAGLLYFILTIKNV</span><span class="topo-outside">DKKF</span><span class="topo-membrane">QMSNILSAVVMVSAFLLLYAQA</span><span class="topo-inside">QNWTSSFTFNEEVGRYFLDPSGDLFN</span><span class="topo-membrane">NGYRYLNWLIDVPML</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">LFQILFVV</span><span class="topo-outside">SLTTSKFSSV</span><span class="topo-membrane">RNQFWFSGAMMIITGYIGQFYE</span><span class="topo-inside">VSN</span><span class="topo-membrane">LTAFLVWGAISSAFFFHILWVMKKVIN</span><span class="topo-outside">EGKEGISP</span><span class="topo-membrane">AGQKILSNIWILFLISWTLYPGAYLM</span><span class="topo-inside">PYLTGVDGFLYSEDGV</span></span>
+<span class="topo-ruler">       250       260       270       280       290</span>
 <span class="topo-line"><span class="topo-inside">MAR</span><span class="topo-membrane">QLVYTIADVSSKVIYGVLLGNLAIT</span><span class="topo-outside">LSKN</span><span class="topo-unknown">KELENLYFQSGSHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -573,6 +581,7 @@ Krokinobacter eikastus rhodopsin 2 (KR2) is a prototypical light-driven sodium p
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -588,11 +597,13 @@ Krokinobacter eikastus rhodopsin 2 (KR2) is a prototypical light-driven sodium p
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MTQELGN</span><span class="topo-inside">ANFENFIGATEGFSEIAYQFTSHI</span><span class="topo-membrane">LTLGYAVMLAGLLYFILTIKNV</span><span class="topo-outside">DKKF</span><span class="topo-membrane">QMS</span></span>
-<span class="topo-line"><span class="topo-membrane">NILSAVVMVSAFLLLYAQA</span><span class="topo-inside">QNWTSSFTFNEEVGRYFLDPSGDLFN</span><span class="topo-membrane">NGYRYLNWLIDVPML</span></span>
-<span class="topo-line"><span class="topo-membrane">LFQILFV</span><span class="topo-outside">VSLTTSKFSSV</span><span class="topo-membrane">RNQFWFSGAMMIITGYIGQFYE</span><span class="topo-inside">VSN</span><span class="topo-membrane">LTAFLVWGAISSAFFFH</span></span>
-<span class="topo-line"><span class="topo-membrane">ILWVMKKVI</span><span class="topo-outside">NEGKEGISPAGQK</span><span class="topo-membrane">ILSNIWILFLISWTLYPGAYLMPYLTG</span><span class="topo-inside">VDGFLYSEDGV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MTQELGN</span><span class="topo-inside">ANFENFIGATEGFSEIAYQFTSHI</span><span class="topo-membrane">LTLGYAVMLAGLLYFILTIKNV</span><span class="topo-outside">DKKF</span><span class="topo-membrane">QMSNILSAVVMVSAFLLLYAQA</span><span class="topo-inside">QNWTSSFTFNEEVGRYFLDPSGDLFN</span><span class="topo-membrane">NGYRYLNWLIDVPML</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">LFQILFV</span><span class="topo-outside">VSLTTSKFSSV</span><span class="topo-membrane">RNQFWFSGAMMIITGYIGQFYE</span><span class="topo-inside">VSN</span><span class="topo-membrane">LTAFLVWGAISSAFFFHILWVMKKVI</span><span class="topo-outside">NEGKEGISPAGQK</span><span class="topo-membrane">ILSNIWILFLISWTLYPGAYLMPYLTG</span><span class="topo-inside">VDGFLYSEDGV</span></span>
+<span class="topo-ruler">       250       260       270       280       290</span>
 <span class="topo-line"><span class="topo-inside">MA</span><span class="topo-membrane">RQLVYTIADVSSKVIYGVLLGNLAI</span><span class="topo-outside">TLSKN</span><span class="topo-unknown">KELENLYFQSGSHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -709,6 +720,7 @@ Krokinobacter eikastus rhodopsin 2 (KR2) is a prototypical light-driven sodium p
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -724,11 +736,13 @@ Krokinobacter eikastus rhodopsin 2 (KR2) is a prototypical light-driven sodium p
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MTQELGN</span><span class="topo-inside">ANFENFIGATEGFSEIAYQFTSH</span><span class="topo-membrane">ILTLGYAVMLAGLLYFILTIKNV</span><span class="topo-outside">DKKFQ</span><span class="topo-membrane">MS</span></span>
-<span class="topo-line"><span class="topo-membrane">NILSAVVMVSAFLLLYAQAQN</span><span class="topo-inside">WTSSFTFNEEVGRYFLDPSGDLFN</span><span class="topo-membrane">NGYRYLNWLIDVPML</span></span>
-<span class="topo-line"><span class="topo-membrane">LFQILF</span><span class="topo-outside">VVSLTTSKFSS</span><span class="topo-membrane">VRNQFWFSGAMMIITGYIGQFYE</span><span class="topo-inside">VSN</span><span class="topo-membrane">LTAFLVWGAISSAFFFH</span></span>
-<span class="topo-line"><span class="topo-membrane">ILWVMKKVI</span><span class="topo-outside">NEGKEGISPAGQK</span><span class="topo-membrane">ILSNIWILFLISWTLYPGAYLMPYLTG</span><span class="topo-inside">VDGFLYSEDGV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MTQELGN</span><span class="topo-inside">ANFENFIGATEGFSEIAYQFTSH</span><span class="topo-membrane">ILTLGYAVMLAGLLYFILTIKNV</span><span class="topo-outside">DKKFQ</span><span class="topo-membrane">MSNILSAVVMVSAFLLLYAQAQN</span><span class="topo-inside">WTSSFTFNEEVGRYFLDPSGDLFN</span><span class="topo-membrane">NGYRYLNWLIDVPML</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">LFQILF</span><span class="topo-outside">VVSLTTSKFSS</span><span class="topo-membrane">VRNQFWFSGAMMIITGYIGQFYE</span><span class="topo-inside">VSN</span><span class="topo-membrane">LTAFLVWGAISSAFFFHILWVMKKVI</span><span class="topo-outside">NEGKEGISPAGQK</span><span class="topo-membrane">ILSNIWILFLISWTLYPGAYLMPYLTG</span><span class="topo-inside">VDGFLYSEDGV</span></span>
+<span class="topo-ruler">       250       260       270       280       290</span>
 <span class="topo-line"><span class="topo-inside">M</span><span class="topo-membrane">ARQLVYTIADVSSKVIYGVLLGNLA</span><span class="topo-outside">ITLSKN</span><span class="topo-unknown">KELENLYFQSGSHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -845,6 +859,7 @@ Krokinobacter eikastus rhodopsin 2 (KR2) is a prototypical light-driven sodium p
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -860,11 +875,13 @@ Krokinobacter eikastus rhodopsin 2 (KR2) is a prototypical light-driven sodium p
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MTQELGN</span><span class="topo-inside">ANFENFIGATEGFSEIAYQFTSH</span><span class="topo-membrane">ILTLGYAVMLAGLLYFILTIKNV</span><span class="topo-outside">DKKF</span><span class="topo-membrane">QMS</span></span>
-<span class="topo-line"><span class="topo-membrane">NILSAVVMVSAFLLLYAQA</span><span class="topo-inside">QNWTSSFTFNEEVGRYFLDPSGDLFN</span><span class="topo-membrane">NGYRYLNWLIDVPML</span></span>
-<span class="topo-line"><span class="topo-membrane">LFQILFV</span><span class="topo-outside">VSLTTSKFS</span><span class="topo-membrane">SVRNQFWFSGAMMIITGYIGQFYE</span><span class="topo-inside">VSNL</span><span class="topo-membrane">TAFLVWGAISSAFFFH</span></span>
-<span class="topo-line"><span class="topo-membrane">ILWVMKKVI</span><span class="topo-outside">NEGKEGISPAGQK</span><span class="topo-membrane">ILSNIWILFLISWTLYPGAYLMPYLT</span><span class="topo-inside">GVDGFLYSEDGV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MTQELGN</span><span class="topo-inside">ANFENFIGATEGFSEIAYQFTSH</span><span class="topo-membrane">ILTLGYAVMLAGLLYFILTIKNV</span><span class="topo-outside">DKKF</span><span class="topo-membrane">QMSNILSAVVMVSAFLLLYAQA</span><span class="topo-inside">QNWTSSFTFNEEVGRYFLDPSGDLFN</span><span class="topo-membrane">NGYRYLNWLIDVPML</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">LFQILFV</span><span class="topo-outside">VSLTTSKFS</span><span class="topo-membrane">SVRNQFWFSGAMMIITGYIGQFYE</span><span class="topo-inside">VSNL</span><span class="topo-membrane">TAFLVWGAISSAFFFHILWVMKKVI</span><span class="topo-outside">NEGKEGISPAGQK</span><span class="topo-membrane">ILSNIWILFLISWTLYPGAYLMPYLT</span><span class="topo-inside">GVDGFLYSEDGV</span></span>
+<span class="topo-ruler">       250       260       270       280       290</span>
 <span class="topo-line"><span class="topo-inside">MA</span><span class="topo-membrane">RQLVYTIADVSSKVIYGVLLGNLAI</span><span class="topo-outside">TLSKN</span><span class="topo-unknown">KELENLYFQSGSHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -981,6 +998,7 @@ Krokinobacter eikastus rhodopsin 2 (KR2) is a prototypical light-driven sodium p
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -996,11 +1014,13 @@ Krokinobacter eikastus rhodopsin 2 (KR2) is a prototypical light-driven sodium p
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MTQELGN</span><span class="topo-inside">ANFENFIGATEGFSEIAYQFTSH</span><span class="topo-membrane">ILTLGYAVMLAGLLYFILTIKNV</span><span class="topo-outside">DKKF</span><span class="topo-membrane">QMS</span></span>
-<span class="topo-line"><span class="topo-membrane">NILSAVVMVSAFLLLYAQAQN</span><span class="topo-inside">WTSSFTFNEEVGRYFLDPSGDLFN</span><span class="topo-membrane">NGYRYLNWLIDVPML</span></span>
-<span class="topo-line"><span class="topo-membrane">LFQILFV</span><span class="topo-outside">VSLTTSKFSS</span><span class="topo-membrane">VRNQFWFSGAMMIITGYIGQFYE</span><span class="topo-inside">VSNL</span><span class="topo-membrane">TAFLVWGAISSAFFFH</span></span>
-<span class="topo-line"><span class="topo-membrane">ILWVMKKVIN</span><span class="topo-outside">EGKEGISPA</span><span class="topo-membrane">GQKILSNIWILFLISWTLYPGAYLM</span><span class="topo-inside">PYLTGVDGFLYSEDGV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MTQELGN</span><span class="topo-inside">ANFENFIGATEGFSEIAYQFTSH</span><span class="topo-membrane">ILTLGYAVMLAGLLYFILTIKNV</span><span class="topo-outside">DKKF</span><span class="topo-membrane">QMSNILSAVVMVSAFLLLYAQAQN</span><span class="topo-inside">WTSSFTFNEEVGRYFLDPSGDLFN</span><span class="topo-membrane">NGYRYLNWLIDVPML</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">LFQILFV</span><span class="topo-outside">VSLTTSKFSS</span><span class="topo-membrane">VRNQFWFSGAMMIITGYIGQFYE</span><span class="topo-inside">VSNL</span><span class="topo-membrane">TAFLVWGAISSAFFFHILWVMKKVIN</span><span class="topo-outside">EGKEGISPA</span><span class="topo-membrane">GQKILSNIWILFLISWTLYPGAYLM</span><span class="topo-inside">PYLTGVDGFLYSEDGV</span></span>
+<span class="topo-ruler">       250       260       270       280       290</span>
 <span class="topo-line"><span class="topo-inside">MA</span><span class="topo-membrane">RQLVYTIADVSSKVIYGVLLGNLAIT</span><span class="topo-outside">LSKN</span><span class="topo-unknown">KELENLYFQSGSHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1117,6 +1137,7 @@ Krokinobacter eikastus rhodopsin 2 (KR2) is a prototypical light-driven sodium p
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

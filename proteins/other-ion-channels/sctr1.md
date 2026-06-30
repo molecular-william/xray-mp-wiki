@@ -136,10 +136,11 @@ Ctr1 is the evolutionarily conserved high-affinity Cu⁺ transporter crucial for
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MTFYFGYTNVELLFASLVINTPGEMV</span><span class="topo-membrane">AACFGCFLLAVLYEGLKIGREFLLR</span><span class="topo-inside">RN</span><span class="topo-unknown">A</span><span class="topo-inside">DLEDNW</span></span>
-<span class="topo-line"><span class="topo-inside">ETLNDNLKVIE</span><span class="topo-unknown">KADN</span><span class="topo-inside">AAQVKDALTKMRAAALDAQKATPPK</span><span class="topo-unknown">LEDKSPD</span><span class="topo-inside">SPEMKDFRHGFDI</span></span>
-<span class="topo-line"><span class="topo-inside">LVGQIDDALKLANEGKVKEAQAAAEQLKTTRNAYIQK</span><span class="topo-unknown">YL</span><span class="topo-inside">QRMLS</span><span class="topo-membrane">MAHLLQTVLHVIQVVV</span></span>
-<span class="topo-line"><span class="topo-membrane">SYFLMLVFM</span><span class="topo-outside">TYNA</span><span class="topo-membrane">YLCMAVAAGAGLGYFLFSWKKAV</span><span class="topo-inside">VVDIT</span><span class="topo-unknown">EHCHSNSLEVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MTFYFGYTNVELLFASLVINTPGEMV</span><span class="topo-membrane">AACFGCFLLAVLYEGLKIGREFLLR</span><span class="topo-inside">RN</span><span class="topo-unknown">A</span><span class="topo-inside">DLEDNWETLNDNLKVIE</span><span class="topo-unknown">KADN</span><span class="topo-inside">AAQVKDALTKMRAAALDAQKATPPK</span><span class="topo-unknown">LEDKSPD</span><span class="topo-inside">SPEMKDFRHGFDI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230    </span>
+<span class="topo-line"><span class="topo-inside">LVGQIDDALKLANEGKVKEAQAAAEQLKTTRNAYIQK</span><span class="topo-unknown">YL</span><span class="topo-inside">QRMLS</span><span class="topo-membrane">MAHLLQTVLHVIQVVVSYFLMLVFM</span><span class="topo-outside">TYNA</span><span class="topo-membrane">YLCMAVAAGAGLGYFLFSWKKAV</span><span class="topo-inside">VVDIT</span><span class="topo-unknown">EHCHSNSLEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (12 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -235,6 +236,7 @@ Ctr1 is the evolutionarily conserved high-affinity Cu⁺ transporter crucial for
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -250,10 +252,11 @@ Ctr1 is the evolutionarily conserved high-affinity Cu⁺ transporter crucial for
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MTFYFGYTNVELLFASLVINTPGEMV</span><span class="topo-membrane">AACFGCFLLAVLYEGLKIGREFLLR</span><span class="topo-inside">RN</span><span class="topo-unknown">A</span><span class="topo-inside">DLEDNW</span></span>
-<span class="topo-line"><span class="topo-inside">ETLNDNLKVIE</span><span class="topo-unknown">KADN</span><span class="topo-inside">AAQVKDALTKMRAAALDAQKATPPK</span><span class="topo-unknown">LEDKSPD</span><span class="topo-inside">SPEMKDFRHGFDI</span></span>
-<span class="topo-line"><span class="topo-inside">LVGQIDDALKLANEGKVKEAQAAAEQLKTTRNAYIQK</span><span class="topo-unknown">YL</span><span class="topo-inside">QRMLS</span><span class="topo-membrane">MAHLLQTVLHVIQVVV</span></span>
-<span class="topo-line"><span class="topo-membrane">SYFLMLVFM</span><span class="topo-outside">TYNA</span><span class="topo-membrane">YLCMAVAAGAGLGYFLFSWKKAV</span><span class="topo-inside">VVDIT</span><span class="topo-unknown">EHCHSNSLEVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MTFYFGYTNVELLFASLVINTPGEMV</span><span class="topo-membrane">AACFGCFLLAVLYEGLKIGREFLLR</span><span class="topo-inside">RN</span><span class="topo-unknown">A</span><span class="topo-inside">DLEDNWETLNDNLKVIE</span><span class="topo-unknown">KADN</span><span class="topo-inside">AAQVKDALTKMRAAALDAQKATPPK</span><span class="topo-unknown">LEDKSPD</span><span class="topo-inside">SPEMKDFRHGFDI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230    </span>
+<span class="topo-line"><span class="topo-inside">LVGQIDDALKLANEGKVKEAQAAAEQLKTTRNAYIQK</span><span class="topo-unknown">YL</span><span class="topo-inside">QRMLS</span><span class="topo-membrane">MAHLLQTVLHVIQVVVSYFLMLVFM</span><span class="topo-outside">TYNA</span><span class="topo-membrane">YLCMAVAAGAGLGYFLFSWKKAV</span><span class="topo-inside">VVDIT</span><span class="topo-unknown">EHCHSNSLEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (12 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -349,6 +352,7 @@ Ctr1 is the evolutionarily conserved high-affinity Cu⁺ transporter crucial for
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -364,10 +368,11 @@ Ctr1 is the evolutionarily conserved high-affinity Cu⁺ transporter crucial for
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MTFYFGYTNVELLFASLVINTPGEMV</span><span class="topo-membrane">AACFGCFLLAVLYEGLKIGREFLLR</span><span class="topo-inside">RN</span><span class="topo-unknown">A</span><span class="topo-inside">DLEDNW</span></span>
-<span class="topo-line"><span class="topo-inside">ETLNDNLKVIE</span><span class="topo-unknown">KADN</span><span class="topo-inside">AAQVKDALTKMRAAALDAQKATPPK</span><span class="topo-unknown">LEDKSPD</span><span class="topo-inside">SPEMKDFRHGFDI</span></span>
-<span class="topo-line"><span class="topo-inside">LVGQIDDALKLANEGKVKEAQAAAEQLKTTRNAYIQK</span><span class="topo-unknown">YL</span><span class="topo-inside">QRMLS</span><span class="topo-membrane">MAHLLQTVLHVIQVVV</span></span>
-<span class="topo-line"><span class="topo-membrane">SYFLMLVFM</span><span class="topo-outside">TYNA</span><span class="topo-membrane">YLCMAVAAGAGLGYFLFSWKKAV</span><span class="topo-inside">VVDIT</span><span class="topo-unknown">EHCHSNSLEVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MTFYFGYTNVELLFASLVINTPGEMV</span><span class="topo-membrane">AACFGCFLLAVLYEGLKIGREFLLR</span><span class="topo-inside">RN</span><span class="topo-unknown">A</span><span class="topo-inside">DLEDNWETLNDNLKVIE</span><span class="topo-unknown">KADN</span><span class="topo-inside">AAQVKDALTKMRAAALDAQKATPPK</span><span class="topo-unknown">LEDKSPD</span><span class="topo-inside">SPEMKDFRHGFDI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230    </span>
+<span class="topo-line"><span class="topo-inside">LVGQIDDALKLANEGKVKEAQAAAEQLKTTRNAYIQK</span><span class="topo-unknown">YL</span><span class="topo-inside">QRMLS</span><span class="topo-membrane">MAHLLQTVLHVIQVVVSYFLMLVFM</span><span class="topo-outside">TYNA</span><span class="topo-membrane">YLCMAVAAGAGLGYFLFSWKKAV</span><span class="topo-inside">VVDIT</span><span class="topo-unknown">EHCHSNSLEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (12 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -463,6 +468,7 @@ Ctr1 is the evolutionarily conserved high-affinity Cu⁺ transporter crucial for
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -478,10 +484,11 @@ Ctr1 is the evolutionarily conserved high-affinity Cu⁺ transporter crucial for
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MTFYFGYTNVELLFASLVINTPGEMV</span><span class="topo-membrane">AACFGCFLLAVLYEGLKIGREFLLR</span><span class="topo-inside">RN</span><span class="topo-unknown">A</span><span class="topo-inside">DLEDNW</span></span>
-<span class="topo-line"><span class="topo-inside">ETLNDNLKVIE</span><span class="topo-unknown">KADN</span><span class="topo-inside">AAQVKDALTKMRAAALDAQKATPPK</span><span class="topo-unknown">LEDKSPD</span><span class="topo-inside">SPEMKDFRHGFDI</span></span>
-<span class="topo-line"><span class="topo-inside">LVGQIDDALKLANEGKVKEAQAAAEQLKTTRNAYIQK</span><span class="topo-unknown">YL</span><span class="topo-inside">QRMLS</span><span class="topo-membrane">MAHLLQTVLHVIQVVV</span></span>
-<span class="topo-line"><span class="topo-membrane">SYFLMLVFM</span><span class="topo-outside">TYNA</span><span class="topo-membrane">YLCMAVAAGAGLGYFLFSWKKAV</span><span class="topo-inside">VVDIT</span><span class="topo-unknown">EHCHSNSLEVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MTFYFGYTNVELLFASLVINTPGEMV</span><span class="topo-membrane">AACFGCFLLAVLYEGLKIGREFLLR</span><span class="topo-inside">RN</span><span class="topo-unknown">A</span><span class="topo-inside">DLEDNWETLNDNLKVIE</span><span class="topo-unknown">KADN</span><span class="topo-inside">AAQVKDALTKMRAAALDAQKATPPK</span><span class="topo-unknown">LEDKSPD</span><span class="topo-inside">SPEMKDFRHGFDI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230    </span>
+<span class="topo-line"><span class="topo-inside">LVGQIDDALKLANEGKVKEAQAAAEQLKTTRNAYIQK</span><span class="topo-unknown">YL</span><span class="topo-inside">QRMLS</span><span class="topo-membrane">MAHLLQTVLHVIQVVVSYFLMLVFM</span><span class="topo-outside">TYNA</span><span class="topo-membrane">YLCMAVAAGAGLGYFLFSWKKAV</span><span class="topo-inside">VVDIT</span><span class="topo-unknown">EHCHSNSLEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (12 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -577,6 +584,7 @@ Ctr1 is the evolutionarily conserved high-affinity Cu⁺ transporter crucial for
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -592,10 +600,11 @@ Ctr1 is the evolutionarily conserved high-affinity Cu⁺ transporter crucial for
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MTFYFGYTNVELLFASLVINTPGEMV</span><span class="topo-membrane">AACFGCFLLAVLYEGLKIGREFLLR</span><span class="topo-inside">RN</span><span class="topo-unknown">A</span><span class="topo-inside">DLEDNW</span></span>
-<span class="topo-line"><span class="topo-inside">ETLNDNLKVIE</span><span class="topo-unknown">KADN</span><span class="topo-inside">AAQVKDALTKMRAAALDAQKATPPK</span><span class="topo-unknown">LEDKSPD</span><span class="topo-inside">SPEMKDFRHGFDI</span></span>
-<span class="topo-line"><span class="topo-inside">LVGQIDDALKLANEGKVKEAQAAAEQLKTTRNAYIQK</span><span class="topo-unknown">YL</span><span class="topo-inside">QRMLS</span><span class="topo-membrane">MAHLLQTVLHVIQVVV</span></span>
-<span class="topo-line"><span class="topo-membrane">SYFLMLVFM</span><span class="topo-outside">TYNA</span><span class="topo-membrane">YLCMAVAAGAGLGYFLFSWKKAV</span><span class="topo-inside">VVDIT</span><span class="topo-unknown">EHCHSNSLEVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MTFYFGYTNVELLFASLVINTPGEMV</span><span class="topo-membrane">AACFGCFLLAVLYEGLKIGREFLLR</span><span class="topo-inside">RN</span><span class="topo-unknown">A</span><span class="topo-inside">DLEDNWETLNDNLKVIE</span><span class="topo-unknown">KADN</span><span class="topo-inside">AAQVKDALTKMRAAALDAQKATPPK</span><span class="topo-unknown">LEDKSPD</span><span class="topo-inside">SPEMKDFRHGFDI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230    </span>
+<span class="topo-line"><span class="topo-inside">LVGQIDDALKLANEGKVKEAQAAAEQLKTTRNAYIQK</span><span class="topo-unknown">YL</span><span class="topo-inside">QRMLS</span><span class="topo-membrane">MAHLLQTVLHVIQVVVSYFLMLVFM</span><span class="topo-outside">TYNA</span><span class="topo-membrane">YLCMAVAAGAGLGYFLFSWKKAV</span><span class="topo-inside">VVDIT</span><span class="topo-unknown">EHCHSNSLEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (12 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -691,6 +700,7 @@ Ctr1 is the evolutionarily conserved high-affinity Cu⁺ transporter crucial for
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -706,10 +716,11 @@ Ctr1 is the evolutionarily conserved high-affinity Cu⁺ transporter crucial for
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MTFYFGYTNVELLFASLVINTPGEMV</span><span class="topo-membrane">AACFGCFLLAVLYEGLKIGREFLLR</span><span class="topo-inside">RN</span><span class="topo-unknown">A</span><span class="topo-inside">DLEDNW</span></span>
-<span class="topo-line"><span class="topo-inside">ETLNDNLKVIE</span><span class="topo-unknown">KADN</span><span class="topo-inside">AAQVKDALTKMRAAALDAQKATPPK</span><span class="topo-unknown">LEDKSPD</span><span class="topo-inside">SPEMKDFRHGFDI</span></span>
-<span class="topo-line"><span class="topo-inside">LVGQIDDALKLANEGKVKEAQAAAEQLKTTRNAYIQK</span><span class="topo-unknown">YL</span><span class="topo-inside">QRMLS</span><span class="topo-membrane">MAHLLQTVLHVIQVVV</span></span>
-<span class="topo-line"><span class="topo-membrane">SYFLMLVFM</span><span class="topo-outside">TYNA</span><span class="topo-membrane">YLCMAVAAGAGLGYFLFSWKKAV</span><span class="topo-inside">VVDIT</span><span class="topo-unknown">EHCHSNSLEVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MTFYFGYTNVELLFASLVINTPGEMV</span><span class="topo-membrane">AACFGCFLLAVLYEGLKIGREFLLR</span><span class="topo-inside">RN</span><span class="topo-unknown">A</span><span class="topo-inside">DLEDNWETLNDNLKVIE</span><span class="topo-unknown">KADN</span><span class="topo-inside">AAQVKDALTKMRAAALDAQKATPPK</span><span class="topo-unknown">LEDKSPD</span><span class="topo-inside">SPEMKDFRHGFDI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230    </span>
+<span class="topo-line"><span class="topo-inside">LVGQIDDALKLANEGKVKEAQAAAEQLKTTRNAYIQK</span><span class="topo-unknown">YL</span><span class="topo-inside">QRMLS</span><span class="topo-membrane">MAHLLQTVLHVIQVVVSYFLMLVFM</span><span class="topo-outside">TYNA</span><span class="topo-membrane">YLCMAVAAGAGLGYFLFSWKKAV</span><span class="topo-inside">VVDIT</span><span class="topo-unknown">EHCHSNSLEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (12 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -805,6 +816,7 @@ Ctr1 is the evolutionarily conserved high-affinity Cu⁺ transporter crucial for
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

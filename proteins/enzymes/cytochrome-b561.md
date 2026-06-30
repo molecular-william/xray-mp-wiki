@@ -118,10 +118,11 @@ in the Cyt b561 family.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAVPVLGGF</span><span class="topo-outside">PIFM</span><span class="topo-membrane">VVRVLGFIIAALVLTWTVHYRG</span><span class="topo-inside">GLALSSDNK</span><span class="topo-membrane">DHIFNVHPVMMVIGLI</span></span>
-<span class="topo-line"><span class="topo-membrane">LFNGEAM</span><span class="topo-outside">LAYKSVQGTKNLKKLVHLT</span><span class="topo-membrane">LQLTAFILSLIGVWAALKFHI</span><span class="topo-inside">DKGI</span><span class="topo-membrane">ENFYSLHSW</span></span>
-<span class="topo-line"><span class="topo-membrane">LGLACLFLFAFQWA</span><span class="topo-outside">AGFVTYWYPGGSRNSRASLMPWHVFL</span><span class="topo-membrane">GISIYALALVTATTGILEKV</span></span>
-<span class="topo-line"><span class="topo-membrane">TFLQ</span><span class="topo-inside">VNQVI</span><span class="topo-membrane">TRYSTEAMLVNTMGVLILILGGFVI</span><span class="topo-outside">LGVVT</span><span class="topo-unknown">PVSGKDQVLTQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAVPVLGGF</span><span class="topo-outside">PIFM</span><span class="topo-membrane">VVRVLGFIIAALVLTWTVHYRG</span><span class="topo-inside">GLALSSDNK</span><span class="topo-membrane">DHIFNVHPVMMVIGLILFNGEAM</span><span class="topo-outside">LAYKSVQGTKNLKKLVHLT</span><span class="topo-membrane">LQLTAFILSLIGVWAALKFHI</span><span class="topo-inside">DKGI</span><span class="topo-membrane">ENFYSLHSW</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230</span>
+<span class="topo-line"><span class="topo-membrane">LGLACLFLFAFQWA</span><span class="topo-outside">AGFVTYWYPGGSRNSRASLMPWHVFL</span><span class="topo-membrane">GISIYALALVTATTGILEKVTFLQ</span><span class="topo-inside">VNQVI</span><span class="topo-membrane">TRYSTEAMLVNTMGVLILILGGFVI</span><span class="topo-outside">LGVVT</span><span class="topo-unknown">PVSGKDQVLTQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -238,6 +239,7 @@ in the Cyt b561 family.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -253,10 +255,11 @@ in the Cyt b561 family.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAVPVLGG</span><span class="topo-outside">FPIFM</span><span class="topo-membrane">VVRVLGFIIAALVLTWTVHYRG</span><span class="topo-inside">GLALSSDNK</span><span class="topo-membrane">DHIFNVHPVMMVIGLI</span></span>
-<span class="topo-line"><span class="topo-membrane">LFNGEA</span><span class="topo-outside">MLAYKSVQGTKNLKKLVHLT</span><span class="topo-membrane">LQLTAFILSLIGVWAALKFHID</span><span class="topo-inside">KGIE</span><span class="topo-membrane">NFYSLHSW</span></span>
-<span class="topo-line"><span class="topo-membrane">LGLACLFLFAFQWA</span><span class="topo-outside">AGFVTYWYPGGSRNSRASLMPWHVFL</span><span class="topo-membrane">GISIYALALVTATTGILEKV</span></span>
-<span class="topo-line"><span class="topo-membrane">TFLQ</span><span class="topo-inside">VNQVI</span><span class="topo-membrane">TRYSTEAMLVNTMGVLILILGGFVI</span><span class="topo-outside">LGVVT</span><span class="topo-unknown">PVSGKDQVLTQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAVPVLGG</span><span class="topo-outside">FPIFM</span><span class="topo-membrane">VVRVLGFIIAALVLTWTVHYRG</span><span class="topo-inside">GLALSSDNK</span><span class="topo-membrane">DHIFNVHPVMMVIGLILFNGEA</span><span class="topo-outside">MLAYKSVQGTKNLKKLVHLT</span><span class="topo-membrane">LQLTAFILSLIGVWAALKFHID</span><span class="topo-inside">KGIE</span><span class="topo-membrane">NFYSLHSW</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230</span>
+<span class="topo-line"><span class="topo-membrane">LGLACLFLFAFQWA</span><span class="topo-outside">AGFVTYWYPGGSRNSRASLMPWHVFL</span><span class="topo-membrane">GISIYALALVTATTGILEKVTFLQ</span><span class="topo-inside">VNQVI</span><span class="topo-membrane">TRYSTEAMLVNTMGVLILILGGFVI</span><span class="topo-outside">LGVVT</span><span class="topo-unknown">PVSGKDQVLTQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -373,6 +376,7 @@ in the Cyt b561 family.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -388,10 +392,11 @@ in the Cyt b561 family.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAVPVLGGF</span><span class="topo-outside">PIFM</span><span class="topo-membrane">VVRVLGFIIAALVLTWTVHYRG</span><span class="topo-inside">GLALSSDNK</span><span class="topo-membrane">DHIFNVHPVMMVIGLI</span></span>
-<span class="topo-line"><span class="topo-membrane">LFNGEAM</span><span class="topo-outside">LAYKSVQGTKNLKKLVHLT</span><span class="topo-membrane">LQLTAFILSLIGVWAALKFHI</span><span class="topo-inside">DKGI</span><span class="topo-membrane">ENFYSLHSW</span></span>
-<span class="topo-line"><span class="topo-membrane">LGLACLFLFAFQWA</span><span class="topo-outside">AGFVTYWYPGGSRNSRASLMPWHVFL</span><span class="topo-membrane">GISIYALALVTATTGILEKV</span></span>
-<span class="topo-line"><span class="topo-membrane">TFLQ</span><span class="topo-inside">VNQVI</span><span class="topo-membrane">TRYSTEAMLVNTMGVLILILGGFVI</span><span class="topo-outside">LGVVT</span><span class="topo-unknown">PVSGKDQVLTQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAVPVLGGF</span><span class="topo-outside">PIFM</span><span class="topo-membrane">VVRVLGFIIAALVLTWTVHYRG</span><span class="topo-inside">GLALSSDNK</span><span class="topo-membrane">DHIFNVHPVMMVIGLILFNGEAM</span><span class="topo-outside">LAYKSVQGTKNLKKLVHLT</span><span class="topo-membrane">LQLTAFILSLIGVWAALKFHI</span><span class="topo-inside">DKGI</span><span class="topo-membrane">ENFYSLHSW</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230</span>
+<span class="topo-line"><span class="topo-membrane">LGLACLFLFAFQWA</span><span class="topo-outside">AGFVTYWYPGGSRNSRASLMPWHVFL</span><span class="topo-membrane">GISIYALALVTATTGILEKVTFLQ</span><span class="topo-inside">VNQVI</span><span class="topo-membrane">TRYSTEAMLVNTMGVLILILGGFVI</span><span class="topo-outside">LGVVT</span><span class="topo-unknown">PVSGKDQVLTQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -508,6 +513,7 @@ in the Cyt b561 family.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -523,10 +529,11 @@ in the Cyt b561 family.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAVPVLGG</span><span class="topo-outside">FPIFM</span><span class="topo-membrane">VVRVLGFIIAALVLTWTVHYRG</span><span class="topo-inside">GLALSSDNK</span><span class="topo-membrane">DHIFNVHPVMMVIGLI</span></span>
-<span class="topo-line"><span class="topo-membrane">LFNGEA</span><span class="topo-outside">MLAYKSVQGTKNLKKLVHLT</span><span class="topo-membrane">LQLTAFILSLIGVWAALKFHID</span><span class="topo-inside">KGIE</span><span class="topo-membrane">NFYSLHSW</span></span>
-<span class="topo-line"><span class="topo-membrane">LGLACLFLFAFQWA</span><span class="topo-outside">AGFVTYWYPGGSRNSRASLMPWHVFL</span><span class="topo-membrane">GISIYALALVTATTGILEKV</span></span>
-<span class="topo-line"><span class="topo-membrane">TFLQ</span><span class="topo-inside">VNQVI</span><span class="topo-membrane">TRYSTEAMLVNTMGVLILILGGFVI</span><span class="topo-outside">LGVVT</span><span class="topo-unknown">PVSGKDQVLTQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAVPVLGG</span><span class="topo-outside">FPIFM</span><span class="topo-membrane">VVRVLGFIIAALVLTWTVHYRG</span><span class="topo-inside">GLALSSDNK</span><span class="topo-membrane">DHIFNVHPVMMVIGLILFNGEA</span><span class="topo-outside">MLAYKSVQGTKNLKKLVHLT</span><span class="topo-membrane">LQLTAFILSLIGVWAALKFHID</span><span class="topo-inside">KGIE</span><span class="topo-membrane">NFYSLHSW</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230</span>
+<span class="topo-line"><span class="topo-membrane">LGLACLFLFAFQWA</span><span class="topo-outside">AGFVTYWYPGGSRNSRASLMPWHVFL</span><span class="topo-membrane">GISIYALALVTATTGILEKVTFLQ</span><span class="topo-inside">VNQVI</span><span class="topo-membrane">TRYSTEAMLVNTMGVLILILGGFVI</span><span class="topo-outside">LGVVT</span><span class="topo-unknown">PVSGKDQVLTQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -643,6 +650,7 @@ in the Cyt b561 family.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -658,10 +666,11 @@ in the Cyt b561 family.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAVPVLGGF</span><span class="topo-outside">PIFM</span><span class="topo-membrane">VVRVLGFIIAALVLTWTVHYRG</span><span class="topo-inside">GLALSSDNK</span><span class="topo-membrane">DHIFNVHPVMMVIGLI</span></span>
-<span class="topo-line"><span class="topo-membrane">LFNGEAM</span><span class="topo-outside">LAYKSVQGTKNLKKLVHLT</span><span class="topo-membrane">LQLTAFILSLIGVWAALKFHI</span><span class="topo-inside">DKGI</span><span class="topo-membrane">ENFYSLHSW</span></span>
-<span class="topo-line"><span class="topo-membrane">LGLACLFLFAFQWA</span><span class="topo-outside">AGFVTYWYPGGSRNSRASLMPWHVFL</span><span class="topo-membrane">GISIYALALVTATTGILEKV</span></span>
-<span class="topo-line"><span class="topo-membrane">TFLQ</span><span class="topo-inside">VNQVI</span><span class="topo-membrane">TRYSTEAMLVNTMGVLILILGGFVI</span><span class="topo-outside">LGVVT</span><span class="topo-unknown">PVSGKDQVLTQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAVPVLGGF</span><span class="topo-outside">PIFM</span><span class="topo-membrane">VVRVLGFIIAALVLTWTVHYRG</span><span class="topo-inside">GLALSSDNK</span><span class="topo-membrane">DHIFNVHPVMMVIGLILFNGEAM</span><span class="topo-outside">LAYKSVQGTKNLKKLVHLT</span><span class="topo-membrane">LQLTAFILSLIGVWAALKFHI</span><span class="topo-inside">DKGI</span><span class="topo-membrane">ENFYSLHSW</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230</span>
+<span class="topo-line"><span class="topo-membrane">LGLACLFLFAFQWA</span><span class="topo-outside">AGFVTYWYPGGSRNSRASLMPWHVFL</span><span class="topo-membrane">GISIYALALVTATTGILEKVTFLQ</span><span class="topo-inside">VNQVI</span><span class="topo-membrane">TRYSTEAMLVNTMGVLILILGGFVI</span><span class="topo-outside">LGVVT</span><span class="topo-unknown">PVSGKDQVLTQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -778,6 +787,7 @@ in the Cyt b561 family.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -793,10 +803,11 @@ in the Cyt b561 family.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAVPVLGG</span><span class="topo-outside">FPIFM</span><span class="topo-membrane">VVRVLGFIIAALVLTWTVHYRG</span><span class="topo-inside">GLALSSDNK</span><span class="topo-membrane">DHIFNVHPVMMVIGLI</span></span>
-<span class="topo-line"><span class="topo-membrane">LFNGEA</span><span class="topo-outside">MLAYKSVQGTKNLKKLVHLT</span><span class="topo-membrane">LQLTAFILSLIGVWAALKFHID</span><span class="topo-inside">KGIE</span><span class="topo-membrane">NFYSLHSW</span></span>
-<span class="topo-line"><span class="topo-membrane">LGLACLFLFAFQWA</span><span class="topo-outside">AGFVTYWYPGGSRNSRASLMPWHVFL</span><span class="topo-membrane">GISIYALALVTATTGILEKV</span></span>
-<span class="topo-line"><span class="topo-membrane">TFLQ</span><span class="topo-inside">VNQVI</span><span class="topo-membrane">TRYSTEAMLVNTMGVLILILGGFVI</span><span class="topo-outside">LGVVT</span><span class="topo-unknown">PVSGKDQVLTQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAVPVLGG</span><span class="topo-outside">FPIFM</span><span class="topo-membrane">VVRVLGFIIAALVLTWTVHYRG</span><span class="topo-inside">GLALSSDNK</span><span class="topo-membrane">DHIFNVHPVMMVIGLILFNGEA</span><span class="topo-outside">MLAYKSVQGTKNLKKLVHLT</span><span class="topo-membrane">LQLTAFILSLIGVWAALKFHID</span><span class="topo-inside">KGIE</span><span class="topo-membrane">NFYSLHSW</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230</span>
+<span class="topo-line"><span class="topo-membrane">LGLACLFLFAFQWA</span><span class="topo-outside">AGFVTYWYPGGSRNSRASLMPWHVFL</span><span class="topo-membrane">GISIYALALVTATTGILEKVTFLQ</span><span class="topo-inside">VNQVI</span><span class="topo-membrane">TRYSTEAMLVNTMGVLILILGGFVI</span><span class="topo-outside">LGVVT</span><span class="topo-unknown">PVSGKDQVLTQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -913,6 +924,7 @@ in the Cyt b561 family.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

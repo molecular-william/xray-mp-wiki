@@ -129,10 +129,11 @@ Connexin 26 (Cx26, also known as GJB2) is a member of the connexin family of gap
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">DWGTLQTILGGVNKHSTSIGKIW</span><span class="topo-membrane">LTVLFIFRIMILVVAAKEVWGDEQAD</span><span class="topo-inside">FVCNTLQPGC</span></span>
-<span class="topo-line"><span class="topo-inside">KNVCY</span><span class="topo-membrane">DHYFPISHIRLWALQLIFVSTPAL</span><span class="topo-outside">LVAMHVAYRRHEKKRKFIKG</span><span class="topo-unknown">EIKSEFKDIEE</span></span>
-<span class="topo-line"><span class="topo-unknown">IKTQ</span><span class="topo-outside">KVRIEGSLWWTYTSS</span><span class="topo-membrane">IFFRVIFEAAFMYVFYVMYD</span><span class="topo-inside">GFSMQRLVKCNAWPCPNTVDC</span></span>
-<span class="topo-line"><span class="topo-inside">FV</span><span class="topo-membrane">SRPTEKTVFTVFMIAVSGICILLNVT</span><span class="topo-outside">ELCYLLIRY</span><span class="topo-unknown">CSGKSKKPV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">DWGTLQTILGGVNKHSTSIGKIW</span><span class="topo-membrane">LTVLFIFRIMILVVAAKEVWGDEQAD</span><span class="topo-inside">FVCNTLQPGCKNVCY</span><span class="topo-membrane">DHYFPISHIRLWALQLIFVSTPAL</span><span class="topo-outside">LVAMHVAYRRHEKKRKFIKG</span><span class="topo-unknown">EIKSEFKDIEE</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220      </span>
+<span class="topo-line"><span class="topo-unknown">IKTQ</span><span class="topo-outside">KVRIEGSLWWTYTSS</span><span class="topo-membrane">IFFRVIFEAAFMYVFYVMYD</span><span class="topo-inside">GFSMQRLVKCNAWPCPNTVDCFV</span><span class="topo-membrane">SRPTEKTVFTVFMIAVSGICILLNVT</span><span class="topo-outside">ELCYLLIRY</span><span class="topo-unknown">CSGKSKKPV</span></span>
+<details class="topo-details"><summary>Topology coordinates (13 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -235,6 +236,7 @@ Connexin 26 (Cx26, also known as GJB2) is a member of the connexin family of gap
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -250,10 +252,11 @@ Connexin 26 (Cx26, also known as GJB2) is a member of the connexin family of gap
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">DWGTLQTILGGVNKHSTSIGKIW</span><span class="topo-membrane">LTVLFIFRIMILVVAAKEVWGDEQAD</span><span class="topo-inside">FVCNTLQPGC</span></span>
-<span class="topo-line"><span class="topo-inside">KNVCY</span><span class="topo-membrane">DHYFPISHIRLWALQLIFVSTPAL</span><span class="topo-outside">LVAMHVAYRRHEKKRKFIKG</span><span class="topo-unknown">EIKSEFKDIEE</span></span>
-<span class="topo-line"><span class="topo-unknown">IKTQ</span><span class="topo-outside">KVRIEGSLWWTYTSS</span><span class="topo-membrane">IFFRVIFEAAFMYVFYVMYD</span><span class="topo-inside">GFSMQRLVKCNAWPCPNTVDC</span></span>
-<span class="topo-line"><span class="topo-inside">FV</span><span class="topo-membrane">SRPTEKTVFTVFMIAVSGICILLNVT</span><span class="topo-outside">ELCYLLIRY</span><span class="topo-unknown">CSGKSKKPV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">DWGTLQTILGGVNKHSTSIGKIW</span><span class="topo-membrane">LTVLFIFRIMILVVAAKEVWGDEQAD</span><span class="topo-inside">FVCNTLQPGCKNVCY</span><span class="topo-membrane">DHYFPISHIRLWALQLIFVSTPAL</span><span class="topo-outside">LVAMHVAYRRHEKKRKFIKG</span><span class="topo-unknown">EIKSEFKDIEE</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220      </span>
+<span class="topo-line"><span class="topo-unknown">IKTQ</span><span class="topo-outside">KVRIEGSLWWTYTSS</span><span class="topo-membrane">IFFRVIFEAAFMYVFYVMYD</span><span class="topo-inside">GFSMQRLVKCNAWPCPNTVDCFV</span><span class="topo-membrane">SRPTEKTVFTVFMIAVSGICILLNVT</span><span class="topo-outside">ELCYLLIRY</span><span class="topo-unknown">CSGKSKKPV</span></span>
+<details class="topo-details"><summary>Topology coordinates (13 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -356,6 +359,7 @@ Connexin 26 (Cx26, also known as GJB2) is a member of the connexin family of gap
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -371,10 +375,11 @@ Connexin 26 (Cx26, also known as GJB2) is a member of the connexin family of gap
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">DWGTLQTILGGVNKHSTSIGKIW</span><span class="topo-membrane">LTVLFIFRIMILVVAAKEVWGDEQAD</span><span class="topo-inside">FVCNTLQPGC</span></span>
-<span class="topo-line"><span class="topo-inside">KNVCY</span><span class="topo-membrane">DHYFPISHIRLWALQLIFVSTPAL</span><span class="topo-outside">LVAMHVAYRRHEKKRKFIKG</span><span class="topo-unknown">EIKSEFKDIEE</span></span>
-<span class="topo-line"><span class="topo-unknown">IKTQ</span><span class="topo-outside">KVRIEGSLWWTYTSS</span><span class="topo-membrane">IFFRVIFEAAFMYVFYVMYD</span><span class="topo-inside">GFSMQRLVKCNAWPCPNTVDC</span></span>
-<span class="topo-line"><span class="topo-inside">FV</span><span class="topo-membrane">SRPTEKTVFTVFMIAVSGICILLNVT</span><span class="topo-outside">ELCYLLIRY</span><span class="topo-unknown">CSGKSKKPV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">DWGTLQTILGGVNKHSTSIGKIW</span><span class="topo-membrane">LTVLFIFRIMILVVAAKEVWGDEQAD</span><span class="topo-inside">FVCNTLQPGCKNVCY</span><span class="topo-membrane">DHYFPISHIRLWALQLIFVSTPAL</span><span class="topo-outside">LVAMHVAYRRHEKKRKFIKG</span><span class="topo-unknown">EIKSEFKDIEE</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220      </span>
+<span class="topo-line"><span class="topo-unknown">IKTQ</span><span class="topo-outside">KVRIEGSLWWTYTSS</span><span class="topo-membrane">IFFRVIFEAAFMYVFYVMYD</span><span class="topo-inside">GFSMQRLVKCNAWPCPNTVDCFV</span><span class="topo-membrane">SRPTEKTVFTVFMIAVSGICILLNVT</span><span class="topo-outside">ELCYLLIRY</span><span class="topo-unknown">CSGKSKKPV</span></span>
+<details class="topo-details"><summary>Topology coordinates (13 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -477,6 +482,7 @@ Connexin 26 (Cx26, also known as GJB2) is a member of the connexin family of gap
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -492,10 +498,11 @@ Connexin 26 (Cx26, also known as GJB2) is a member of the connexin family of gap
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">DWGTLQTILGGVNKHSTSIGKIW</span><span class="topo-membrane">LTVLFIFRIMILVVAAKEVWGDEQAD</span><span class="topo-inside">FVCNTLQPGC</span></span>
-<span class="topo-line"><span class="topo-inside">KNVCY</span><span class="topo-membrane">DHYFPISHIRLWALQLIFVSTPAL</span><span class="topo-outside">LVAMHVAYRRHEKKRKFIKG</span><span class="topo-unknown">EIKSEFKDIEE</span></span>
-<span class="topo-line"><span class="topo-unknown">IKTQ</span><span class="topo-outside">KVRIEGSLWWTYTSS</span><span class="topo-membrane">IFFRVIFEAAFMYVFYVMYD</span><span class="topo-inside">GFSMQRLVKCNAWPCPNTVDC</span></span>
-<span class="topo-line"><span class="topo-inside">FV</span><span class="topo-membrane">SRPTEKTVFTVFMIAVSGICILLNVT</span><span class="topo-outside">ELCYLLIRY</span><span class="topo-unknown">CSGKSKKPV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">DWGTLQTILGGVNKHSTSIGKIW</span><span class="topo-membrane">LTVLFIFRIMILVVAAKEVWGDEQAD</span><span class="topo-inside">FVCNTLQPGCKNVCY</span><span class="topo-membrane">DHYFPISHIRLWALQLIFVSTPAL</span><span class="topo-outside">LVAMHVAYRRHEKKRKFIKG</span><span class="topo-unknown">EIKSEFKDIEE</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220      </span>
+<span class="topo-line"><span class="topo-unknown">IKTQ</span><span class="topo-outside">KVRIEGSLWWTYTSS</span><span class="topo-membrane">IFFRVIFEAAFMYVFYVMYD</span><span class="topo-inside">GFSMQRLVKCNAWPCPNTVDCFV</span><span class="topo-membrane">SRPTEKTVFTVFMIAVSGICILLNVT</span><span class="topo-outside">ELCYLLIRY</span><span class="topo-unknown">CSGKSKKPV</span></span>
+<details class="topo-details"><summary>Topology coordinates (13 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -598,6 +605,7 @@ Connexin 26 (Cx26, also known as GJB2) is a member of the connexin family of gap
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -613,10 +621,11 @@ Connexin 26 (Cx26, also known as GJB2) is a member of the connexin family of gap
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">DWGTLQTILGGVNKHSTSIGKIW</span><span class="topo-membrane">LTVLFIFRIMILVVAAKEVWGDEQAD</span><span class="topo-inside">FVCNTLQPGC</span></span>
-<span class="topo-line"><span class="topo-inside">KNVCY</span><span class="topo-membrane">DHYFPISHIRLWALQLIFVSTPAL</span><span class="topo-outside">LVAMHVAYRRHEKKRKFIKG</span><span class="topo-unknown">EIKSEFKDIEE</span></span>
-<span class="topo-line"><span class="topo-unknown">IKTQ</span><span class="topo-outside">KVRIEGSLWWTYTSS</span><span class="topo-membrane">IFFRVIFEAAFMYVFYVMYD</span><span class="topo-inside">GFSMQRLVKCNAWPCPNTVDC</span></span>
-<span class="topo-line"><span class="topo-inside">FV</span><span class="topo-membrane">SRPTEKTVFTVFMIAVSGICILLNVT</span><span class="topo-outside">ELCYLLIRY</span><span class="topo-unknown">CSGKSKKPV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">DWGTLQTILGGVNKHSTSIGKIW</span><span class="topo-membrane">LTVLFIFRIMILVVAAKEVWGDEQAD</span><span class="topo-inside">FVCNTLQPGCKNVCY</span><span class="topo-membrane">DHYFPISHIRLWALQLIFVSTPAL</span><span class="topo-outside">LVAMHVAYRRHEKKRKFIKG</span><span class="topo-unknown">EIKSEFKDIEE</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220      </span>
+<span class="topo-line"><span class="topo-unknown">IKTQ</span><span class="topo-outside">KVRIEGSLWWTYTSS</span><span class="topo-membrane">IFFRVIFEAAFMYVFYVMYD</span><span class="topo-inside">GFSMQRLVKCNAWPCPNTVDCFV</span><span class="topo-membrane">SRPTEKTVFTVFMIAVSGICILLNVT</span><span class="topo-outside">ELCYLLIRY</span><span class="topo-unknown">CSGKSKKPV</span></span>
+<details class="topo-details"><summary>Topology coordinates (13 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -719,6 +728,7 @@ Connexin 26 (Cx26, also known as GJB2) is a member of the connexin family of gap
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -734,10 +744,11 @@ Connexin 26 (Cx26, also known as GJB2) is a member of the connexin family of gap
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">DWGTLQTILGGVNKHSTSIGKIW</span><span class="topo-membrane">LTVLFIFRIMILVVAAKEVWGDEQAD</span><span class="topo-inside">FVCNTLQPGC</span></span>
-<span class="topo-line"><span class="topo-inside">KNVCY</span><span class="topo-membrane">DHYFPISHIRLWALQLIFVSTPAL</span><span class="topo-outside">LVAMHVAYRRHEKKRKFIKG</span><span class="topo-unknown">EIKSEFKDIEE</span></span>
-<span class="topo-line"><span class="topo-unknown">IKTQ</span><span class="topo-outside">KVRIEGSLWWTYTSS</span><span class="topo-membrane">IFFRVIFEAAFMYVFYVMYD</span><span class="topo-inside">GFSMQRLVKCNAWPCPNTVDC</span></span>
-<span class="topo-line"><span class="topo-inside">FV</span><span class="topo-membrane">SRPTEKTVFTVFMIAVSGICILLNVT</span><span class="topo-outside">ELCYLLIRY</span><span class="topo-unknown">CSGKSKKPV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">DWGTLQTILGGVNKHSTSIGKIW</span><span class="topo-membrane">LTVLFIFRIMILVVAAKEVWGDEQAD</span><span class="topo-inside">FVCNTLQPGCKNVCY</span><span class="topo-membrane">DHYFPISHIRLWALQLIFVSTPAL</span><span class="topo-outside">LVAMHVAYRRHEKKRKFIKG</span><span class="topo-unknown">EIKSEFKDIEE</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220      </span>
+<span class="topo-line"><span class="topo-unknown">IKTQ</span><span class="topo-outside">KVRIEGSLWWTYTSS</span><span class="topo-membrane">IFFRVIFEAAFMYVFYVMYD</span><span class="topo-inside">GFSMQRLVKCNAWPCPNTVDCFV</span><span class="topo-membrane">SRPTEKTVFTVFMIAVSGICILLNVT</span><span class="topo-outside">ELCYLLIRY</span><span class="topo-unknown">CSGKSKKPV</span></span>
+<details class="topo-details"><summary>Topology coordinates (13 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -840,6 +851,7 @@ Connexin 26 (Cx26, also known as GJB2) is a member of the connexin family of gap
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

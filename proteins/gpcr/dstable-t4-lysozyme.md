@@ -94,14 +94,15 @@ dsT4L is a disulfide-stabilized variant of T4 lysozyme engineered for use as a f
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GDPLGGH</span><span class="topo-inside">TIWQ</span><span class="topo-membrane">VVFIAFLTGFLALVTIIGNIL</span><span class="topo-outside">VIVAFKVNKQLKTVNNYFLLS</span><span class="topo-membrane">LACADLI</span></span>
-<span class="topo-line"><span class="topo-membrane">IGVISMNLFTTYII</span><span class="topo-inside">MNRWALGNL</span><span class="topo-membrane">ACDLWLSIDYVASNASVMNLL</span><span class="topo-outside">VISFDRYFSITRPLTY</span></span>
-<span class="topo-line"><span class="topo-outside">RAKRTTKRAGVMIG</span><span class="topo-membrane">LAWVISFVLWAPAILFWQYFV</span><span class="topo-inside">GKRTVPPGEC</span><span class="topo-membrane">FIQFLSEPTITFGTA</span></span>
-<span class="topo-line"><span class="topo-membrane">IAAFYMPVTI</span><span class="topo-outside">MTILYWRIYKETEKMNCFEMLRIDEGLRLKIYKDCEGYYTIGIGHLLTKS</span></span>
-<span class="topo-line"><span class="topo-outside">PSLNAAKSELDKAIGRNTNGVITKDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRR</span></span>
-<span class="topo-line"><span class="topo-outside">CALINMVFQMGETGVAGFTNSLRMLQQKRWDEAAVNLAKSRWYNQCPNRAKRVITTFRTG</span></span>
-<span class="topo-line"><span class="topo-outside">TWDAYLIKEKKAAQTLSAI</span><span class="topo-membrane">LLAFIITWTPYNIMVLVNTFC</span><span class="topo-inside">DSC</span><span class="topo-membrane">IPKTYWNLGYWLCYINS</span></span>
-<span class="topo-line"><span class="topo-membrane">TVNPVC</span><span class="topo-outside">YALCN</span><span class="topo-unknown">KTFRTTFKT</span><span class="topo-outside">LLL</span><span class="topo-unknown">CQCDKRKRRKHHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GDPLGGH</span><span class="topo-inside">TIWQ</span><span class="topo-membrane">VVFIAFLTGFLALVTIIGNIL</span><span class="topo-outside">VIVAFKVNKQLKTVNNYFLLS</span><span class="topo-membrane">LACADLIIGVISMNLFTTYII</span><span class="topo-inside">MNRWALGNL</span><span class="topo-membrane">ACDLWLSIDYVASNASVMNLL</span><span class="topo-outside">VISFDRYFSITRPLTY</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">RAKRTTKRAGVMIG</span><span class="topo-membrane">LAWVISFVLWAPAILFWQYFV</span><span class="topo-inside">GKRTVPPGEC</span><span class="topo-membrane">FIQFLSEPTITFGTAIAAFYMPVTI</span><span class="topo-outside">MTILYWRIYKETEKMNCFEMLRIDEGLRLKIYKDCEGYYTIGIGHLLTKS</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">PSLNAAKSELDKAIGRNTNGVITKDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRCALINMVFQMGETGVAGFTNSLRMLQQKRWDEAAVNLAKSRWYNQCPNRAKRVITTFRTG</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460</span>
+<span class="topo-line"><span class="topo-outside">TWDAYLIKEKKAAQTLSAI</span><span class="topo-membrane">LLAFIITWTPYNIMVLVNTFC</span><span class="topo-inside">DSC</span><span class="topo-membrane">IPKTYWNLGYWLCYINSTVNPVC</span><span class="topo-outside">YALCN</span><span class="topo-unknown">KTFRTTFKT</span><span class="topo-outside">LLL</span><span class="topo-unknown">CQCDKRKRRKHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -232,6 +233,7 @@ dsT4L is a disulfide-stabilized variant of T4 lysozyme engineered for use as a f
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

@@ -77,15 +77,17 @@ The leukotriene B4 receptor 1 (BLT1) is a class A G protein-coupled receptor tha
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">ELMDYKDDDDKEF</span><span class="topo-inside">SNTF</span><span class="topo-membrane">IPLLAMILLSVSMVVGLPGNTFVVW</span><span class="topo-outside">SILKRMRKRSVTALM</span><span class="topo-membrane">VLN</span></span>
-<span class="topo-line"><span class="topo-membrane">LALADLAVLLTAPFFLHFL</span><span class="topo-inside">TWGTWSFGL</span><span class="topo-membrane">AGCRLCHYICGVSMYASVLLITA</span><span class="topo-outside">MSLDRSLAV</span></span>
-<span class="topo-line"><span class="topo-outside">ASPFLSQKVRTKTAARWL</span><span class="topo-membrane">LVGIWGASFLLATPVLAFRK</span><span class="topo-inside">VVKLTNETDLCLAVYPSDR</span><span class="topo-membrane">HKA</span></span>
-<span class="topo-line"><span class="topo-membrane">FHLLFEAFTGFVVPFLIVVA</span><span class="topo-outside">SYADISRRLRARGSGSNIFEMLRIDEGLRLKIYKDTEGYY</span></span>
-<span class="topo-line"><span class="topo-outside">TIGIGHLLTKSPSLNAAKSELDKAIGRNTNGVITKDEAEKLFNQDVDAAVRGILRNAKLK</span></span>
-<span class="topo-line"><span class="topo-outside">PVYDSLDAVRRAALINMVFQMGETGVAGFTNSLRMLQQKRWDEAAVNLAKSRWYNQTPNR</span></span>
-<span class="topo-line"><span class="topo-outside">AKRVITTFRTGTWDAYGSGSRFHRRRRTGRLVV</span><span class="topo-membrane">IIILAFAAFWLPYHVVDLVEGSRVL</span><span class="topo-inside">AG</span></span>
-<span class="topo-line"><span class="topo-unknown">TL</span><span class="topo-inside">DQSKQQL</span><span class="topo-membrane">RNARKVCIALAFLSSSVNPLLYAC</span><span class="topo-outside">A</span><span class="topo-unknown">GGGLLRSAGVGFVAKLLEATGAEAFS</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">ELMDYKDDDDKEF</span><span class="topo-inside">SNTF</span><span class="topo-membrane">IPLLAMILLSVSMVVGLPGNTFVVW</span><span class="topo-outside">SILKRMRKRSVTALM</span><span class="topo-membrane">VLNLALADLAVLLTAPFFLHFL</span><span class="topo-inside">TWGTWSFGL</span><span class="topo-membrane">AGCRLCHYICGVSMYASVLLITA</span><span class="topo-outside">MSLDRSLAV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">ASPFLSQKVRTKTAARWL</span><span class="topo-membrane">LVGIWGASFLLATPVLAFRK</span><span class="topo-inside">VVKLTNETDLCLAVYPSDR</span><span class="topo-membrane">HKAFHLLFEAFTGFVVPFLIVVA</span><span class="topo-outside">SYADISRRLRARGSGSNIFEMLRIDEGLRLKIYKDTEGYY</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">TIGIGHLLTKSPSLNAAKSELDKAIGRNTNGVITKDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVFQMGETGVAGFTNSLRMLQQKRWDEAAVNLAKSRWYNQTPNR</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">AKRVITTFRTGTWDAYGSGSRFHRRRRTGRLVV</span><span class="topo-membrane">IIILAFAAFWLPYHVVDLVEGSRVL</span><span class="topo-inside">AG</span><span class="topo-unknown">TL</span><span class="topo-inside">DQSKQQL</span><span class="topo-membrane">RNARKVCIALAFLSSSVNPLLYAC</span><span class="topo-outside">A</span><span class="topo-unknown">GGGLLRSAGVGFVAKLLEATGAEAFS</span></span>
+<span class="topo-ruler">       490       500       510       520   </span>
 <span class="topo-line"><span class="topo-unknown">TRRGGTLAQTVKGIPMAPEPGASGSLDGLKQSESDEFLEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -209,6 +211,7 @@ The leukotriene B4 receptor 1 (BLT1) is a class A G protein-coupled receptor tha
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -281,15 +284,17 @@ The leukotriene B4 receptor 1 (BLT1) is a class A G protein-coupled receptor tha
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MKTIIALSYIFCLVFADYKDDDDAGRASSAAPPSL</span><span class="topo-outside">GVEFI</span><span class="topo-membrane">SLLAIILLSVALAVGLPGNS</span></span>
-<span class="topo-line"><span class="topo-membrane">FVVWSILK</span><span class="topo-inside">RMQKRSVTAL</span><span class="topo-membrane">MVLNLALADLAVLLTAPFFLHFL</span><span class="topo-outside">AQGTWSF</span><span class="topo-membrane">GLAGCRLCHYVC</span></span>
-<span class="topo-line"><span class="topo-membrane">GVSMYASVWLITAMSL</span><span class="topo-inside">DRYLAVARPFVSQKLRTKAMAR</span><span class="topo-membrane">RVLAGIWVLSFLLATPVLAYRT</span></span>
-<span class="topo-line"><span class="topo-outside">VVPWKTNMSLCFPRYPSEG</span><span class="topo-membrane">HRAFHLIFEAVTGFLLPFLIVVASYSD</span><span class="topo-inside">IGRRLQARRAKALI</span></span>
-<span class="topo-line"><span class="topo-inside">VYGSTTGNTEYTAETIARELADAGYEVDSRDAASVEAGGLFEGFDLVLLGCSTWGDDSIE</span></span>
-<span class="topo-line"><span class="topo-inside">LQDDFIPLFDSLEETGAQGRKVACFGCGDSSWEYFCGAVDAIEEKLKNLGAEIVQDGLRI</span></span>
-<span class="topo-line"><span class="topo-inside">DGDPRAARDDIVGWAHDVRGAIRRFRRSRRTGR</span><span class="topo-membrane">LVVLIILTFAAFWLPYHVVNLAEAGR</span><span class="topo-outside">A</span></span>
-<span class="topo-line"><span class="topo-outside">LAGQAAGLGLVGKRL</span><span class="topo-membrane">SLARNVLIALAFLSSSVNPVLYAFAGGG</span><span class="topo-inside">LLRSAGVGFVAKLLEGT</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MKTIIALSYIFCLVFADYKDDDDAGRASSAAPPSL</span><span class="topo-outside">GVEFI</span><span class="topo-membrane">SLLAIILLSVALAVGLPGNSFVVWSILK</span><span class="topo-inside">RMQKRSVTAL</span><span class="topo-membrane">MVLNLALADLAVLLTAPFFLHFL</span><span class="topo-outside">AQGTWSF</span><span class="topo-membrane">GLAGCRLCHYVC</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GVSMYASVWLITAMSL</span><span class="topo-inside">DRYLAVARPFVSQKLRTKAMAR</span><span class="topo-membrane">RVLAGIWVLSFLLATPVLAYRT</span><span class="topo-outside">VVPWKTNMSLCFPRYPSEG</span><span class="topo-membrane">HRAFHLIFEAVTGFLLPFLIVVASYSD</span><span class="topo-inside">IGRRLQARRAKALI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">VYGSTTGNTEYTAETIARELADAGYEVDSRDAASVEAGGLFEGFDLVLLGCSTWGDDSIELQDDFIPLFDSLEETGAQGRKVACFGCGDSSWEYFCGAVDAIEEKLKNLGAEIVQDGLRI</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">DGDPRAARDDIVGWAHDVRGAIRRFRRSRRTGR</span><span class="topo-membrane">LVVLIILTFAAFWLPYHVVNLAEAGR</span><span class="topo-outside">ALAGQAAGLGLVGKRL</span><span class="topo-membrane">SLARNVLIALAFLSSSVNPVLYAFAGGG</span><span class="topo-inside">LLRSAGVGFVAKLLEGT</span></span>
+<span class="topo-ruler">       490</span>
 <span class="topo-line"><span class="topo-inside">G</span><span class="topo-unknown">AEFLEVL</span><span class="topo-inside">FQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -420,6 +425,7 @@ The leukotriene B4 receptor 1 (BLT1) is a class A G protein-coupled receptor tha
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

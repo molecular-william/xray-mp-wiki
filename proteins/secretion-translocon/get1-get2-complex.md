@@ -129,12 +129,13 @@ The Get1/Get2 complex (also known as WRB/CAML in metazoans) is the membrane prot
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GAMAAGVAGWGVEAEEFEDAPDVEP</span><span class="topo-inside">LEPTLSNIIEQRSLKWIFVGGKGGVGKTTCSCSLA</span></span>
-<span class="topo-line"><span class="topo-inside">VQLSKGRESVLIISTDPAHNISDAFDQKFSKVPTKVKGYDNLFAMEIDPSLGVAELPDEF</span></span>
-<span class="topo-line"><span class="topo-inside">FEEDNMLSMGKKMMQEAMSAFPGIDEAMSYAEVMRLVKGMNFSVVVFDTAPTGHTLRLLN</span></span>
-<span class="topo-line"><span class="topo-inside">FPTIVERGLGRLMQIKNQISPFISQMC</span><span class="topo-unknown">NMLGLGDM</span><span class="topo-inside">NADQLASKLEETLPVIRSVSEQFKD</span></span>
-<span class="topo-line"><span class="topo-inside">PEQTTFICVCIAEFLSLYETERLIQELAKCKIDTHNIIVNQLVFPDPEKPCKMCEARHKI</span></span>
-<span class="topo-line"><span class="topo-inside">QAKYLDQMEDLYEDFHIVKLPLLPHEVRGADKVNTFSALLLEPYKP</span><span class="topo-unknown">PSAQGSWSHPQFEK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GAMAAGVAGWGVEAEEFEDAPDVEP</span><span class="topo-inside">LEPTLSNIIEQRSLKWIFVGGKGGVGKTTCSCSLAVQLSKGRESVLIISTDPAHNISDAFDQKFSKVPTKVKGYDNLFAMEIDPSLGVAELPDEF</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FEEDNMLSMGKKMMQEAMSAFPGIDEAMSYAEVMRLVKGMNFSVVVFDTAPTGHTLRLLNFPTIVERGLGRLMQIKNQISPFISQMC</span><span class="topo-unknown">NMLGLGDM</span><span class="topo-inside">NADQLASKLEETLPVIRSVSEQFKD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">PEQTTFICVCIAEFLSLYETERLIQELAKCKIDTHNIIVNQLVFPDPEKPCKMCEARHKIQAKYLDQMEDLYEDFHIVKLPLLPHEVRGADKVNTFSALLLEPYKP</span><span class="topo-unknown">PSAQGSWSHPQFEK</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -181,6 +182,7 @@ The Get1/Get2 complex (also known as WRB/CAML in metazoans) is the membrane prot
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -196,12 +198,13 @@ The Get1/Get2 complex (also known as WRB/CAML in metazoans) is the membrane prot
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MDSFRIF</span><span class="topo-membrane">RLVGCALLALGVRAFVC</span><span class="topo-outside">KYLSIF</span><span class="topo-membrane">APFLTLQLAYMGLYKYFPKSEK</span><span class="topo-inside">KIKTTVLT</span></span>
-<span class="topo-line"><span class="topo-inside">AALLLSGIPAEVIN</span><span class="topo-membrane">RSMDTYSKMGEVFTDLCVYFFTFIFC</span><span class="topo-outside">HELLDYW</span><span class="topo-unknown">GSEVPGSGSENLY</span></span>
-<span class="topo-line"><span class="topo-unknown">FQSGSGSMSSA</span><span class="topo-outside">AADH</span><span class="topo-membrane">WAWLLVLSFVFGCNVLRILLPSFSS</span><span class="topo-inside">FMSRVLQKDAEQESQMRAEI</span></span>
-<span class="topo-line"><span class="topo-inside">QDMKQELSTVNMMDEFARYARLERKINKMTDKLKTHVKARTAQLAKIKWV</span><span class="topo-membrane">ISVAFYVLQA</span></span>
-<span class="topo-line"><span class="topo-membrane">ALMISLIWKYYSVPVA</span><span class="topo-outside">VVPSKWI</span><span class="topo-membrane">TPLDRLVAFPTRVAGGVGITCWILVCNKVVAIV</span><span class="topo-unknown">LHPF</span></span>
-<span class="topo-line"><span class="topo-unknown">SGSGSLEVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MDSFRIF</span><span class="topo-membrane">RLVGCALLALGVRAFVC</span><span class="topo-outside">KYLSIF</span><span class="topo-membrane">APFLTLQLAYMGLYKYFPKSEK</span><span class="topo-inside">KIKTTVLTAALLLSGIPAEVIN</span><span class="topo-membrane">RSMDTYSKMGEVFTDLCVYFFTFIFC</span><span class="topo-outside">HELLDYW</span><span class="topo-unknown">GSEVPGSGSENLY</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-unknown">FQSGSGSMSSA</span><span class="topo-outside">AADH</span><span class="topo-membrane">WAWLLVLSFVFGCNVLRILLPSFSS</span><span class="topo-inside">FMSRVLQKDAEQESQMRAEIQDMKQELSTVNMMDEFARYARLERKINKMTDKLKTHVKARTAQLAKIKWV</span><span class="topo-membrane">ISVAFYVLQA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310 </span>
+<span class="topo-line"><span class="topo-membrane">ALMISLIWKYYSVPVA</span><span class="topo-outside">VVPSKWI</span><span class="topo-membrane">TPLDRLVAFPTRVAGGVGITCWILVCNKVVAIV</span><span class="topo-unknown">LHPFSGSGSLEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -318,6 +321,7 @@ The Get1/Get2 complex (also known as WRB/CAML in metazoans) is the membrane prot
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -333,12 +337,13 @@ The Get1/Get2 complex (also known as WRB/CAML in metazoans) is the membrane prot
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GAMAAGVAGWGVEAEEFEDAPDVEP</span><span class="topo-inside">LEPTLSNIIEQRSLKWIFVGGKGGVGKTTCSCSLA</span></span>
-<span class="topo-line"><span class="topo-inside">VQLSKGRESVLIISTDPAHNISDAFDQKFSKVPTKVKGYDNLFAMEIDPSLGVAELPDEF</span></span>
-<span class="topo-line"><span class="topo-inside">FEEDNMLSMGKKMMQEAMSAFPGIDEAMSYAEVMRLVKGMNFSVVVFDTAPTGHTLRLLN</span></span>
-<span class="topo-line"><span class="topo-inside">FPTIVERGLGRLMQIKNQISPFISQMC</span><span class="topo-unknown">NMLGLGDM</span><span class="topo-inside">NADQLASKLEETLPVIRSVSEQFKD</span></span>
-<span class="topo-line"><span class="topo-inside">PEQTTFICVCIAEFLSLYETERLIQELAKCKIDTHNIIVNQLVFPDPEKPCKMCEARHKI</span></span>
-<span class="topo-line"><span class="topo-inside">QAKYLDQMEDLYEDFHIVKLPLLPHEVRGADKVNTFSALLLEPYKP</span><span class="topo-unknown">PSAQGSWSHPQFEK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GAMAAGVAGWGVEAEEFEDAPDVEP</span><span class="topo-inside">LEPTLSNIIEQRSLKWIFVGGKGGVGKTTCSCSLAVQLSKGRESVLIISTDPAHNISDAFDQKFSKVPTKVKGYDNLFAMEIDPSLGVAELPDEF</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FEEDNMLSMGKKMMQEAMSAFPGIDEAMSYAEVMRLVKGMNFSVVVFDTAPTGHTLRLLNFPTIVERGLGRLMQIKNQISPFISQMC</span><span class="topo-unknown">NMLGLGDM</span><span class="topo-inside">NADQLASKLEETLPVIRSVSEQFKD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">PEQTTFICVCIAEFLSLYETERLIQELAKCKIDTHNIIVNQLVFPDPEKPCKMCEARHKIQAKYLDQMEDLYEDFHIVKLPLLPHEVRGADKVNTFSALLLEPYKP</span><span class="topo-unknown">PSAQGSWSHPQFEK</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -385,6 +390,7 @@ The Get1/Get2 complex (also known as WRB/CAML in metazoans) is the membrane prot
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -400,12 +406,13 @@ The Get1/Get2 complex (also known as WRB/CAML in metazoans) is the membrane prot
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MDSFRIF</span><span class="topo-membrane">RLVGCALLALGVRAFVCK</span><span class="topo-outside">YLSIF</span><span class="topo-membrane">APFLTLQLAYMGLYKYFPKSEK</span><span class="topo-inside">KIKTTVLT</span></span>
-<span class="topo-line"><span class="topo-inside">AALLLSGIPAEVIN</span><span class="topo-membrane">RSMDTYSKMGEVFTDLCVYFFTFIFC</span><span class="topo-outside">HELLDYW</span><span class="topo-unknown">GSEVPGSGSENLY</span></span>
-<span class="topo-line"><span class="topo-unknown">FQSGSGSMSSA</span><span class="topo-outside">AADH</span><span class="topo-membrane">WAWLLVLSFVFGCNVLRILLPSFSS</span><span class="topo-inside">FMSRVLQKDAEQESQMRAEI</span></span>
-<span class="topo-line"><span class="topo-inside">QDMKQELSTVNMMDEFARYARLERKINKMTDKLKTHVKARTAQLAKIKWV</span><span class="topo-membrane">ISVAFYVLQA</span></span>
-<span class="topo-line"><span class="topo-membrane">ALMISLIWKYYSVPVA</span><span class="topo-outside">VVPSKWI</span><span class="topo-membrane">TPLDRLVAFPTRVAGGVGITCWILVCNKVVAIV</span><span class="topo-unknown">LHPF</span></span>
-<span class="topo-line"><span class="topo-unknown">SGSGSLEVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MDSFRIF</span><span class="topo-membrane">RLVGCALLALGVRAFVCK</span><span class="topo-outside">YLSIF</span><span class="topo-membrane">APFLTLQLAYMGLYKYFPKSEK</span><span class="topo-inside">KIKTTVLTAALLLSGIPAEVIN</span><span class="topo-membrane">RSMDTYSKMGEVFTDLCVYFFTFIFC</span><span class="topo-outside">HELLDYW</span><span class="topo-unknown">GSEVPGSGSENLY</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-unknown">FQSGSGSMSSA</span><span class="topo-outside">AADH</span><span class="topo-membrane">WAWLLVLSFVFGCNVLRILLPSFSS</span><span class="topo-inside">FMSRVLQKDAEQESQMRAEIQDMKQELSTVNMMDEFARYARLERKINKMTDKLKTHVKARTAQLAKIKWV</span><span class="topo-membrane">ISVAFYVLQA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310 </span>
+<span class="topo-line"><span class="topo-membrane">ALMISLIWKYYSVPVA</span><span class="topo-outside">VVPSKWI</span><span class="topo-membrane">TPLDRLVAFPTRVAGGVGITCWILVCNKVVAIV</span><span class="topo-unknown">LHPFSGSGSLEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -522,6 +529,7 @@ The Get1/Get2 complex (also known as WRB/CAML in metazoans) is the membrane prot
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -537,12 +545,13 @@ The Get1/Get2 complex (also known as WRB/CAML in metazoans) is the membrane prot
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GAMAAGVAGWGVEAEEFEDAPDVE</span><span class="topo-inside">PLEPTLSNIIEQRSLKWIFVGGKGGVGKTTCSCSLA</span></span>
-<span class="topo-line"><span class="topo-inside">VQLSKGRESVLIISTDPAHNISDAFDQKFSKVPTKVKGYDNLFAMEIDPS</span><span class="topo-unknown">LGVAELPDEF</span></span>
-<span class="topo-line"><span class="topo-unknown">FEEDNMLSMGKKMMQEAMSAF</span><span class="topo-inside">PGIDEAMSYAEVMRLVKGMNFSVVVFDTAPTGHTLRLLN</span></span>
-<span class="topo-line"><span class="topo-inside">FPTIVERGLGRLMQ</span><span class="topo-unknown">IKNQISPFISQMCNMLGLGDMNA</span><span class="topo-inside">DQLASKLEETLPVIRSVSEQFKD</span></span>
-<span class="topo-line"><span class="topo-inside">PEQTTFICVCIAEFLSLYETERLIQELAKCKIDTHNIIVNQLVFPDPEKPCKMCEARHKI</span></span>
-<span class="topo-line"><span class="topo-inside">QAKYLDQMEDLYEDFHIVKLPLLPHEVRGADKVNTFSALLLEPYKP</span><span class="topo-unknown">PSAQGSWSHPQFEK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GAMAAGVAGWGVEAEEFEDAPDVE</span><span class="topo-inside">PLEPTLSNIIEQRSLKWIFVGGKGGVGKTTCSCSLAVQLSKGRESVLIISTDPAHNISDAFDQKFSKVPTKVKGYDNLFAMEIDPS</span><span class="topo-unknown">LGVAELPDEF</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-unknown">FEEDNMLSMGKKMMQEAMSAF</span><span class="topo-inside">PGIDEAMSYAEVMRLVKGMNFSVVVFDTAPTGHTLRLLNFPTIVERGLGRLMQ</span><span class="topo-unknown">IKNQISPFISQMCNMLGLGDMNA</span><span class="topo-inside">DQLASKLEETLPVIRSVSEQFKD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">PEQTTFICVCIAEFLSLYETERLIQELAKCKIDTHNIIVNQLVFPDPEKPCKMCEARHKIQAKYLDQMEDLYEDFHIVKLPLLPHEVRGADKVNTFSALLLEPYKP</span><span class="topo-unknown">PSAQGSWSHPQFEK</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -603,6 +612,7 @@ The Get1/Get2 complex (also known as WRB/CAML in metazoans) is the membrane prot
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -618,12 +628,13 @@ The Get1/Get2 complex (also known as WRB/CAML in metazoans) is the membrane prot
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GAMAAGVAGWGVEAEEFEDAPDVE</span><span class="topo-inside">PLEPTLSNIIEQRSLKWIFVGGKGGVGKTTCSCSLA</span></span>
-<span class="topo-line"><span class="topo-inside">VQLSKGRESVLIISTDPAHNISDAFDQKFSKVPTKVKGYDNLFAMEIDPS</span><span class="topo-unknown">LGVAELPDEF</span></span>
-<span class="topo-line"><span class="topo-unknown">FEEDNMLSMGKKMMQEAMSAF</span><span class="topo-inside">PGIDEAMSYAEVMRLVKGMNFSVVVFDTAPTGHTLRLLN</span></span>
-<span class="topo-line"><span class="topo-inside">FPTIVERGLGRL</span><span class="topo-unknown">MQIKNQISPFISQMCNMLGLGDMNADQLA</span><span class="topo-inside">SKLEETLPVIRSVSEQFKD</span></span>
-<span class="topo-line"><span class="topo-inside">PEQTTFICVCIAEFLSLYETERLIQELAKCKIDTHNIIVNQLVFPDPEKPCKMCEARHKI</span></span>
-<span class="topo-line"><span class="topo-inside">QAKYLDQMEDLYEDFHIVKLPLLPHEVRGADKVNTFSALLLEPYKP</span><span class="topo-unknown">PSAQGSWSHPQFEK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GAMAAGVAGWGVEAEEFEDAPDVE</span><span class="topo-inside">PLEPTLSNIIEQRSLKWIFVGGKGGVGKTTCSCSLAVQLSKGRESVLIISTDPAHNISDAFDQKFSKVPTKVKGYDNLFAMEIDPS</span><span class="topo-unknown">LGVAELPDEF</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-unknown">FEEDNMLSMGKKMMQEAMSAF</span><span class="topo-inside">PGIDEAMSYAEVMRLVKGMNFSVVVFDTAPTGHTLRLLNFPTIVERGLGRL</span><span class="topo-unknown">MQIKNQISPFISQMCNMLGLGDMNADQLA</span><span class="topo-inside">SKLEETLPVIRSVSEQFKD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">PEQTTFICVCIAEFLSLYETERLIQELAKCKIDTHNIIVNQLVFPDPEKPCKMCEARHKIQAKYLDQMEDLYEDFHIVKLPLLPHEVRGADKVNTFSALLLEPYKP</span><span class="topo-unknown">PSAQGSWSHPQFEK</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -684,6 +695,7 @@ The Get1/Get2 complex (also known as WRB/CAML in metazoans) is the membrane prot
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -699,12 +711,13 @@ The Get1/Get2 complex (also known as WRB/CAML in metazoans) is the membrane prot
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MDSFRIFRLVGCALLALGVRAFVCKYLSIFAPFLTLQLAYMGLYKYFPKSEKKIKTTGGG</span></span>
-<span class="topo-line"><span class="topo-unknown">GGIPAEVINRSMDTYSKMGEVFTDLCVYFFTFIFCHELLDYWGSEVPGSGSENLYFQSGS</span></span>
-<span class="topo-line"><span class="topo-unknown">GSMSSAAADHWAWLLVLSFVFGCNVLRIL</span><span class="topo-inside">LPSFSSFMSRVLQKDAEQESQMRAEIQDMKQ</span></span>
-<span class="topo-line"><span class="topo-inside">ELSTVNMMDEFARYARLERKINKMTDKLKTHVKARTAQLAKIKWVIS</span><span class="topo-membrane">VAFYVLQAALMIS</span></span>
-<span class="topo-line"><span class="topo-membrane">LIWK</span><span class="topo-outside">YY</span><span class="topo-unknown">SVPVAVVPSKWITPLDRLVAFPTRVAGGVGITCWILVCNKVVAIVLHPFSGSGS</span></span>
-<span class="topo-line"><span class="topo-unknown">LEVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MDSFRIFRLVGCALLALGVRAFVCKYLSIFAPFLTLQLAYMGLYKYFPKSEKKIKTTGGGGGIPAEVINRSMDTYSKMGEVFTDLCVYFFTFIFCHELLDYWGSEVPGSGSENLYFQSGS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-unknown">GSMSSAAADHWAWLLVLSFVFGCNVLRIL</span><span class="topo-inside">LPSFSSFMSRVLQKDAEQESQMRAEIQDMKQELSTVNMMDEFARYARLERKINKMTDKLKTHVKARTAQLAKIKWVIS</span><span class="topo-membrane">VAFYVLQAALMIS</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300      </span>
+<span class="topo-line"><span class="topo-membrane">LIWK</span><span class="topo-outside">YY</span><span class="topo-unknown">SVPVAVVPSKWITPLDRLVAFPTRVAGGVGITCWILVCNKVVAIVLHPFSGSGSLEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -751,6 +764,7 @@ The Get1/Get2 complex (also known as WRB/CAML in metazoans) is the membrane prot
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -766,12 +780,13 @@ The Get1/Get2 complex (also known as WRB/CAML in metazoans) is the membrane prot
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MDSF</span><span class="topo-inside">RI</span><span class="topo-membrane">FRLVGCALLALGVRAFV</span><span class="topo-outside">CKYLSIFA</span><span class="topo-membrane">PFLTLQLAYMGLYKYFP</span><span class="topo-inside">KS</span><span class="topo-unknown">EKKIKTTGGG</span></span>
-<span class="topo-line"><span class="topo-unknown">GGIP</span><span class="topo-inside">AEVINRSMD</span><span class="topo-membrane">TYSKMGEVFTDLCVYFFTFIFC</span><span class="topo-outside">HELLDYW</span><span class="topo-unknown">GSEVPGSGSENLYFQSGS</span></span>
-<span class="topo-line"><span class="topo-unknown">GSMSSA</span><span class="topo-outside">AADHWA</span><span class="topo-membrane">WLLVLSFVFGCNVLRIL</span><span class="topo-inside">LPSFSSFMSRVLQKDAEQESQMRAEIQDMKQ</span></span>
-<span class="topo-line"><span class="topo-inside">ELSTVNMMDEFARYARLERKINKMTDKLKTHVKARTAQLAKIKWVI</span><span class="topo-membrane">SVAFYVLQAALMIS</span></span>
-<span class="topo-line"><span class="topo-membrane">LIWK</span><span class="topo-outside">YY</span><span class="topo-unknown">SVPVAVVPSKWITPLDRLVAFPTRV</span><span class="topo-membrane">AGGVGITCWILVCNKVVAIVL</span><span class="topo-inside">HP</span><span class="topo-unknown">FSGSGS</span></span>
-<span class="topo-line"><span class="topo-unknown">LEVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MDSF</span><span class="topo-inside">RI</span><span class="topo-membrane">FRLVGCALLALGVRAFV</span><span class="topo-outside">CKYLSIFA</span><span class="topo-membrane">PFLTLQLAYMGLYKYFP</span><span class="topo-inside">KS</span><span class="topo-unknown">EKKIKTTGGGGGIP</span><span class="topo-inside">AEVINRSMD</span><span class="topo-membrane">TYSKMGEVFTDLCVYFFTFIFC</span><span class="topo-outside">HELLDYW</span><span class="topo-unknown">GSEVPGSGSENLYFQSGS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-unknown">GSMSSA</span><span class="topo-outside">AADHWA</span><span class="topo-membrane">WLLVLSFVFGCNVLRIL</span><span class="topo-inside">LPSFSSFMSRVLQKDAEQESQMRAEIQDMKQELSTVNMMDEFARYARLERKINKMTDKLKTHVKARTAQLAKIKWVI</span><span class="topo-membrane">SVAFYVLQAALMIS</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300      </span>
+<span class="topo-line"><span class="topo-membrane">LIWK</span><span class="topo-outside">YY</span><span class="topo-unknown">SVPVAVVPSKWITPLDRLVAFPTRV</span><span class="topo-membrane">AGGVGITCWILVCNKVVAIVL</span><span class="topo-inside">HP</span><span class="topo-unknown">FSGSGSLEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (20 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -923,6 +938,7 @@ The Get1/Get2 complex (also known as WRB/CAML in metazoans) is the membrane prot
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -938,12 +954,13 @@ The Get1/Get2 complex (also known as WRB/CAML in metazoans) is the membrane prot
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MEPTLQSILDQRSLRWIFVGGKGGVGKTTTSCSLAIQLAKVRRSVLLLSTDPAHNLSDAF</span></span>
-<span class="topo-line"><span class="topo-outside">SQKFGKEARLVEGFDNLYAMEIDPNGSMQDLL</span><span class="topo-unknown">AGQTGDGDAGMGGV</span><span class="topo-outside">GVMQDLAYAIPGID</span></span>
-<span class="topo-line"><span class="topo-outside">EAMSFAEVLKQVNSLSYETIVFDTAPTGHTLRFLQFPTVLEKALAKVSQL</span><span class="topo-unknown">SGQYGSLLNG</span></span>
-<span class="topo-line"><span class="topo-unknown">ILGGSGTLPNG</span><span class="topo-outside">QTLSDVMEKLDSLRVTISEVNAQFKDERLTTFVCVCIPEFLSLYETERM</span></span>
-<span class="topo-line"><span class="topo-outside">IQELANYGIDTHCIVVNQLLFPKPGSDCEQCTARRRMQKKYLDQIEELYDEEFNVVKMPL</span></span>
-<span class="topo-line"><span class="topo-outside">LVEEVRGKERLEKFSEMLIKPFVPPE</span><span class="topo-unknown">WSHPQFEK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MEPTLQSILDQRSLRWIFVGGKGGVGKTTTSCSLAIQLAKVRRSVLLLSTDPAHNLSDAFSQKFGKEARLVEGFDNLYAMEIDPNGSMQDLL</span><span class="topo-unknown">AGQTGDGDAGMGGV</span><span class="topo-outside">GVMQDLAYAIPGID</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">EAMSFAEVLKQVNSLSYETIVFDTAPTGHTLRFLQFPTVLEKALAKVSQL</span><span class="topo-unknown">SGQYGSLLNGILGGSGTLPNG</span><span class="topo-outside">QTLSDVMEKLDSLRVTISEVNAQFKDERLTTFVCVCIPEFLSLYETERM</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330    </span>
+<span class="topo-line"><span class="topo-outside">IQELANYGIDTHCIVVNQLLFPKPGSDCEQCTARRRMQKKYLDQIEELYDEEFNVVKMPLLVEEVRGKERLEKFSEMLIKPFVPPE</span><span class="topo-unknown">WSHPQFEK</span></span>
+<details class="topo-details"><summary>Topology coordinates (6 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -997,6 +1014,7 @@ The Get1/Get2 complex (also known as WRB/CAML in metazoans) is the membrane prot
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1012,12 +1030,13 @@ The Get1/Get2 complex (also known as WRB/CAML in metazoans) is the membrane prot
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MEPTLQSILDQRSLRWIFVGGKGGVGKTTTSCSLAIQLAKVRRSVLLLSTDPAHNLSDAF</span></span>
-<span class="topo-line"><span class="topo-outside">SQKFGKEARLVEGFDNLYAMEIDPNGSMQDLL</span><span class="topo-unknown">AGQTGDGDAGMGGV</span><span class="topo-outside">GVMQDLAYAIPGID</span></span>
-<span class="topo-line"><span class="topo-outside">EAMSFAEVLKQVNSLSYETIVFDTAPTGHTLRFLQFPTVLEKALAKVS</span><span class="topo-unknown">QLSGQYGSLLNG</span></span>
-<span class="topo-line"><span class="topo-unknown">ILGGSGTLPNG</span><span class="topo-outside">QTLSDVMEKLDSLRVTISEVNAQFKDERLTTFVCVCIPEFLSLYETERM</span></span>
-<span class="topo-line"><span class="topo-outside">IQELANYGIDTHCIVVNQLLFPKPGSDCEQCTARRRMQKKYLDQIEELYDEEFNVVKMPL</span></span>
-<span class="topo-line"><span class="topo-outside">LVEEVRGKERLEKFSEMLIKPFVPPE</span><span class="topo-unknown">WSHPQFEK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MEPTLQSILDQRSLRWIFVGGKGGVGKTTTSCSLAIQLAKVRRSVLLLSTDPAHNLSDAFSQKFGKEARLVEGFDNLYAMEIDPNGSMQDLL</span><span class="topo-unknown">AGQTGDGDAGMGGV</span><span class="topo-outside">GVMQDLAYAIPGID</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">EAMSFAEVLKQVNSLSYETIVFDTAPTGHTLRFLQFPTVLEKALAKVS</span><span class="topo-unknown">QLSGQYGSLLNGILGGSGTLPNG</span><span class="topo-outside">QTLSDVMEKLDSLRVTISEVNAQFKDERLTTFVCVCIPEFLSLYETERM</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330    </span>
+<span class="topo-line"><span class="topo-outside">IQELANYGIDTHCIVVNQLLFPKPGSDCEQCTARRRMQKKYLDQIEELYDEEFNVVKMPLLVEEVRGKERLEKFSEMLIKPFVPPE</span><span class="topo-unknown">WSHPQFEK</span></span>
+<details class="topo-details"><summary>Topology coordinates (6 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1071,6 +1090,7 @@ The Get1/Get2 complex (also known as WRB/CAML in metazoans) is the membrane prot
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1086,13 +1106,15 @@ The Get1/Get2 complex (also known as WRB/CAML in metazoans) is the membrane prot
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGRPTPLWRFLHTLLAVALGLAVIMLSPFGGTKLERDRAAAAVAGSASEREWLASLTDSY</span></span>
-<span class="topo-line"><span class="topo-unknown">PLVKTGLGGGLFWAFATGEAILLGTRWLFLSKKKKAATAAAKVNNNNGEGDDAELDSVEQ</span></span>
-<span class="topo-line"><span class="topo-unknown">AIELALEFFPAIRQPVEYL</span><span class="topo-inside">RPKVAVAMRYVDVGMTLWRDVMLALFVLGAVAWWRA</span><span class="topo-unknown">GSGSE</span></span>
-<span class="topo-line"><span class="topo-unknown">NLYFQSGSGS</span><span class="topo-inside">MS</span><span class="topo-membrane">LLLVIFLLELVVQLVNTIG</span><span class="topo-outside">AKTINNLLWRFYLSIPGSPLAKDFAEQRA</span></span>
-<span class="topo-line"><span class="topo-outside">KQKEYLQVRHDLNATSSQDEFAKWARLQRKHDKLMDELEKKKSQLDAHRTSFSRK</span><span class="topo-membrane">LTIYR</span></span>
-<span class="topo-line"><span class="topo-membrane">WILTRGMQWFLCF</span><span class="topo-inside">WFSSQPMFWLPYGWFPYWVEWLVSFPNAPMGSVSIV</span><span class="topo-membrane">VWQSACSGVLA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGRPTPLWRFLHTLLAVALGLAVIMLSPFGGTKLERDRAAAAVAGSASEREWLASLTDSYPLVKTGLGGGLFWAFATGEAILLGTRWLFLSKKKKAATAAAKVNNNNGEGDDAELDSVEQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-unknown">AIELALEFFPAIRQPVEYL</span><span class="topo-inside">RPKVAVAMRYVDVGMTLWRDVMLALFVLGAVAWWRA</span><span class="topo-unknown">GSGSENLYFQSGSGS</span><span class="topo-inside">MS</span><span class="topo-membrane">LLLVIFLLELVVQLVNTIG</span><span class="topo-outside">AKTINNLLWRFYLSIPGSPLAKDFAEQRA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">KQKEYLQVRHDLNATSSQDEFAKWARLQRKHDKLMDELEKKKSQLDAHRTSFSRK</span><span class="topo-membrane">LTIYRWILTRGMQWFLCF</span><span class="topo-inside">WFSSQPMFWLPYGWFPYWVEWLVSFPNAPMGSVSIV</span><span class="topo-membrane">VWQSACSGVLA</span></span>
+<span class="topo-ruler">       370       380       390       400         </span>
 <span class="topo-line"><span class="topo-membrane">LVIEAVMAVVR</span><span class="topo-unknown">YTGGTGMQKQRQPVPAAGGAPGTSKKDLGSGSLEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (12 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1188,6 +1210,7 @@ The Get1/Get2 complex (also known as WRB/CAML in metazoans) is the membrane prot
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1203,13 +1226,15 @@ The Get1/Get2 complex (also known as WRB/CAML in metazoans) is the membrane prot
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGRPTPLWRFLHTLLAVALGLAVIMLSPFGGTKLERDRAAAAVAGSASEREWLASLTDSY</span></span>
-<span class="topo-line"><span class="topo-unknown">PLVKTGLGGGLFWAFATGEAILLGTRWLFLSKKKKAATAAAKVNNNNGEGDDAELDSVEQ</span></span>
-<span class="topo-line"><span class="topo-unknown">AIELALEFFPAIRQPVEY</span><span class="topo-inside">LRPKVAVAMRYVDVGMTLWRDVMLALFVLGAVAWWRA</span><span class="topo-unknown">GSGSE</span></span>
-<span class="topo-line"><span class="topo-unknown">NLYFQSGSGS</span><span class="topo-inside">MSL</span><span class="topo-membrane">LLVIFLLELVVQLVNTIGA</span><span class="topo-outside">KTINNLLWRFYLSIPGSPLAKDFAEQRA</span></span>
-<span class="topo-line"><span class="topo-outside">KQKEYLQVRHDLNATSSQDEFAKWARLQRKHDKLMDELEKKKSQLDAHRTSFSRK</span><span class="topo-membrane">LTIYR</span></span>
-<span class="topo-line"><span class="topo-membrane">WILTRGMQWFLCF</span><span class="topo-inside">WFSSQPMFWLPYGWFPYWVEWLVSFPNAPMGSVSIVVW</span><span class="topo-membrane">QSACSGVLA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGRPTPLWRFLHTLLAVALGLAVIMLSPFGGTKLERDRAAAAVAGSASEREWLASLTDSYPLVKTGLGGGLFWAFATGEAILLGTRWLFLSKKKKAATAAAKVNNNNGEGDDAELDSVEQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-unknown">AIELALEFFPAIRQPVEY</span><span class="topo-inside">LRPKVAVAMRYVDVGMTLWRDVMLALFVLGAVAWWRA</span><span class="topo-unknown">GSGSENLYFQSGSGS</span><span class="topo-inside">MSL</span><span class="topo-membrane">LLVIFLLELVVQLVNTIGA</span><span class="topo-outside">KTINNLLWRFYLSIPGSPLAKDFAEQRA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">KQKEYLQVRHDLNATSSQDEFAKWARLQRKHDKLMDELEKKKSQLDAHRTSFSRK</span><span class="topo-membrane">LTIYRWILTRGMQWFLCF</span><span class="topo-inside">WFSSQPMFWLPYGWFPYWVEWLVSFPNAPMGSVSIVVW</span><span class="topo-membrane">QSACSGVLA</span></span>
+<span class="topo-ruler">       370       380       390       400         </span>
 <span class="topo-line"><span class="topo-membrane">LVIEAVMAVVR</span><span class="topo-unknown">YTGGTGMQKQRQPVPAAGGAPGTSKKDLGSGSLEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (12 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1305,6 +1330,7 @@ The Get1/Get2 complex (also known as WRB/CAML in metazoans) is the membrane prot
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1320,12 +1346,13 @@ The Get1/Get2 complex (also known as WRB/CAML in metazoans) is the membrane prot
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MEPTLQSILDQRSLRWIFVGGKGGVGKTTTSCSLAIQLAKVRRSVLLLSTDPAHNLSDAF</span></span>
-<span class="topo-line"><span class="topo-inside">SQKFGKEARLVEGFDNLYAMEIDPNGSMQDLL</span><span class="topo-unknown">AGQTGDGDAGMGGV</span><span class="topo-inside">GVMQDLAYAIPGID</span></span>
-<span class="topo-line"><span class="topo-inside">EAMSFAEVLKQVNSLSYETIVFDTAPTGHTLRFLQFPTVLEKALAKVSQLSG</span><span class="topo-unknown">QYGSLLNG</span></span>
-<span class="topo-line"><span class="topo-unknown">ILGGSGTLPNG</span><span class="topo-inside">QTLSDVMEKLDSLRVTISEVNAQFKDERLTTFVCVCIPEFLSLYETERM</span></span>
-<span class="topo-line"><span class="topo-inside">IQELANYGIDTHCIVVNQLLFPKPGSDCEQCTARRRMQKKYLDQIEELYDEEFNVVKMPL</span></span>
-<span class="topo-line"><span class="topo-inside">LVEEVRGKERLEKFSEMLIKPFVPPE</span><span class="topo-unknown">WSHPQFEK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">MEPTLQSILDQRSLRWIFVGGKGGVGKTTTSCSLAIQLAKVRRSVLLLSTDPAHNLSDAFSQKFGKEARLVEGFDNLYAMEIDPNGSMQDLL</span><span class="topo-unknown">AGQTGDGDAGMGGV</span><span class="topo-inside">GVMQDLAYAIPGID</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">EAMSFAEVLKQVNSLSYETIVFDTAPTGHTLRFLQFPTVLEKALAKVSQLSG</span><span class="topo-unknown">QYGSLLNGILGGSGTLPNG</span><span class="topo-inside">QTLSDVMEKLDSLRVTISEVNAQFKDERLTTFVCVCIPEFLSLYETERM</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330    </span>
+<span class="topo-line"><span class="topo-inside">IQELANYGIDTHCIVVNQLLFPKPGSDCEQCTARRRMQKKYLDQIEELYDEEFNVVKMPLLVEEVRGKERLEKFSEMLIKPFVPPE</span><span class="topo-unknown">WSHPQFEK</span></span>
+<details class="topo-details"><summary>Topology coordinates (6 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1379,6 +1406,7 @@ The Get1/Get2 complex (also known as WRB/CAML in metazoans) is the membrane prot
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1394,12 +1422,13 @@ The Get1/Get2 complex (also known as WRB/CAML in metazoans) is the membrane prot
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MEPTLQSILDQRSLRWIFVGGKGGVGKTTTSCSLAIQLAKVRRSVLLLSTDPAHNLSDAF</span></span>
-<span class="topo-line"><span class="topo-inside">SQKFGKEARLVEGFDNLYAMEIDPNGSMQDLL</span><span class="topo-unknown">AGQTGDGDAGMGGV</span><span class="topo-inside">GVMQDLAYAIPGID</span></span>
-<span class="topo-line"><span class="topo-inside">EAMSFAEVLKQVNSLSYETIVFDTAPTGHTLRFLQFPTVLEKALAKVSQLSG</span><span class="topo-unknown">QYGSLLNG</span></span>
-<span class="topo-line"><span class="topo-unknown">ILGGSGTLPNG</span><span class="topo-inside">QTLSDVMEKLDSLRVTISEVNAQFKDERLTTFVCVCIPEFLSLYETERM</span></span>
-<span class="topo-line"><span class="topo-inside">IQELANYGIDTHCIVVNQLLFPKPGSDCEQCTARRRMQKKYLDQIEELYDEEFNVVKMPL</span></span>
-<span class="topo-line"><span class="topo-inside">LVEEVRGKERLEKFSEMLIKPFVPPE</span><span class="topo-unknown">WSHPQFEK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">MEPTLQSILDQRSLRWIFVGGKGGVGKTTTSCSLAIQLAKVRRSVLLLSTDPAHNLSDAFSQKFGKEARLVEGFDNLYAMEIDPNGSMQDLL</span><span class="topo-unknown">AGQTGDGDAGMGGV</span><span class="topo-inside">GVMQDLAYAIPGID</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">EAMSFAEVLKQVNSLSYETIVFDTAPTGHTLRFLQFPTVLEKALAKVSQLSG</span><span class="topo-unknown">QYGSLLNGILGGSGTLPNG</span><span class="topo-inside">QTLSDVMEKLDSLRVTISEVNAQFKDERLTTFVCVCIPEFLSLYETERM</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330    </span>
+<span class="topo-line"><span class="topo-inside">IQELANYGIDTHCIVVNQLLFPKPGSDCEQCTARRRMQKKYLDQIEELYDEEFNVVKMPLLVEEVRGKERLEKFSEMLIKPFVPPE</span><span class="topo-unknown">WSHPQFEK</span></span>
+<details class="topo-details"><summary>Topology coordinates (6 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1453,6 +1482,7 @@ The Get1/Get2 complex (also known as WRB/CAML in metazoans) is the membrane prot
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1468,13 +1498,15 @@ The Get1/Get2 complex (also known as WRB/CAML in metazoans) is the membrane prot
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGRPTPLWRFLHTLLAVALGLAVIMLSPFGGTKLERDRAAAAVAGSASEREWLASLTDSY</span></span>
-<span class="topo-line"><span class="topo-unknown">PLVKTGLGGGLFWAFATGEAILLGTRWLFLSKKKKAATAAAKVNNNNGEGDDAELDS</span><span class="topo-inside">VEQ</span></span>
-<span class="topo-line"><span class="topo-inside">AIELALEFFPA</span><span class="topo-unknown">IRQPVEYLRPKVAVAMRYVDVG</span><span class="topo-outside">MTLWRDVMLALFVLGAVAWWRA</span><span class="topo-unknown">GSGSE</span></span>
-<span class="topo-line"><span class="topo-unknown">NLYFQSGSGSM</span><span class="topo-membrane">SLLLVIFLLELVVQLVNTI</span><span class="topo-inside">GAKTINNLLWRFYLSIPGSPLAKDFAEQRA</span></span>
-<span class="topo-line"><span class="topo-inside">KQKEYLQVRHDLNATSSQDEFAKWARLQRKHDKLMDELEKKKSQLDAHRTSFSRKLT</span><span class="topo-membrane">IYR</span></span>
-<span class="topo-line"><span class="topo-membrane">WILTRGMQWFLCFWFS</span><span class="topo-outside">SQPMFWLPYGWFPYWVEWLVSFPNAPMGSVS</span><span class="topo-membrane">IVVWQSACSGVLA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGRPTPLWRFLHTLLAVALGLAVIMLSPFGGTKLERDRAAAAVAGSASEREWLASLTDSYPLVKTGLGGGLFWAFATGEAILLGTRWLFLSKKKKAATAAAKVNNNNGEGDDAELDS</span><span class="topo-inside">VEQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">AIELALEFFPA</span><span class="topo-unknown">IRQPVEYLRPKVAVAMRYVDVG</span><span class="topo-outside">MTLWRDVMLALFVLGAVAWWRA</span><span class="topo-unknown">GSGSENLYFQSGSGSM</span><span class="topo-membrane">SLLLVIFLLELVVQLVNTI</span><span class="topo-inside">GAKTINNLLWRFYLSIPGSPLAKDFAEQRA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">KQKEYLQVRHDLNATSSQDEFAKWARLQRKHDKLMDELEKKKSQLDAHRTSFSRKLT</span><span class="topo-membrane">IYRWILTRGMQWFLCFWFS</span><span class="topo-outside">SQPMFWLPYGWFPYWVEWLVSFPNAPMGSVS</span><span class="topo-membrane">IVVWQSACSGVLA</span></span>
+<span class="topo-ruler">       370       380       390       400         </span>
 <span class="topo-line"><span class="topo-membrane">LVIEAVMAV</span><span class="topo-inside">VR</span><span class="topo-unknown">YTGGTGMQKQRQPVPAAGGAPGTSKKDLGSGSLEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (12 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1570,6 +1602,7 @@ The Get1/Get2 complex (also known as WRB/CAML in metazoans) is the membrane prot
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1585,13 +1618,15 @@ The Get1/Get2 complex (also known as WRB/CAML in metazoans) is the membrane prot
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGRPTPLWRFLHTLLAVALGLAVIMLSPFGGTKLERDRAAAAVAGSASEREWLASLTDSY</span></span>
-<span class="topo-line"><span class="topo-unknown">PLVKTGLGGGLFWAFATGEAILLGTRWLFLSKKKKAATAAAKVNNNNGEGDDAELDS</span><span class="topo-inside">VEQ</span></span>
-<span class="topo-line"><span class="topo-inside">AIELALEFFPA</span><span class="topo-unknown">IRQPVEYLRPKVAVAMRYVDVG</span><span class="topo-outside">MTLWRDVMLALFVLGAVAWWRA</span><span class="topo-unknown">GSGSE</span></span>
-<span class="topo-line"><span class="topo-unknown">NLYFQSGSGSM</span><span class="topo-membrane">SLLLVIFLLELVVQLVNTI</span><span class="topo-inside">GAKTINNLLWRFYLSIPGSPLAKDFAEQRA</span></span>
-<span class="topo-line"><span class="topo-inside">KQKEYLQVRHDLNATSSQDEFAKWARLQRKHDKLMDELEKKKSQLDAHRTSFSRKLT</span><span class="topo-membrane">IYR</span></span>
-<span class="topo-line"><span class="topo-membrane">WILTRGMQWFLCFWF</span><span class="topo-outside">SSQPMFWLPYGWFPYWVEWLVSFPNAPMGSVS</span><span class="topo-membrane">IVVWQSACSGVLA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGRPTPLWRFLHTLLAVALGLAVIMLSPFGGTKLERDRAAAAVAGSASEREWLASLTDSYPLVKTGLGGGLFWAFATGEAILLGTRWLFLSKKKKAATAAAKVNNNNGEGDDAELDS</span><span class="topo-inside">VEQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">AIELALEFFPA</span><span class="topo-unknown">IRQPVEYLRPKVAVAMRYVDVG</span><span class="topo-outside">MTLWRDVMLALFVLGAVAWWRA</span><span class="topo-unknown">GSGSENLYFQSGSGSM</span><span class="topo-membrane">SLLLVIFLLELVVQLVNTI</span><span class="topo-inside">GAKTINNLLWRFYLSIPGSPLAKDFAEQRA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">KQKEYLQVRHDLNATSSQDEFAKWARLQRKHDKLMDELEKKKSQLDAHRTSFSRKLT</span><span class="topo-membrane">IYRWILTRGMQWFLCFWF</span><span class="topo-outside">SSQPMFWLPYGWFPYWVEWLVSFPNAPMGSVS</span><span class="topo-membrane">IVVWQSACSGVLA</span></span>
+<span class="topo-ruler">       370       380       390       400         </span>
 <span class="topo-line"><span class="topo-membrane">LVIEAVMAV</span><span class="topo-inside">VR</span><span class="topo-unknown">YTGGTGMQKQRQPVPAAGGAPGTSKKDLGSGSLEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (12 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1687,6 +1722,7 @@ The Get1/Get2 complex (also known as WRB/CAML in metazoans) is the membrane prot
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

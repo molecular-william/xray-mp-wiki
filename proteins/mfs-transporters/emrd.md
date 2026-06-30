@@ -115,13 +115,15 @@ specificity.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">LLL</span><span class="topo-membrane">MLVLLVAVGQMAQTIYIPAIA</span><span class="topo-inside">DMARDLNVRE</span><span class="topo-membrane">GAVQSVMGAYLLTYGVS</span><span class="topo-outside">QL</span><span class="topo-unknown">FYGPIS</span><span class="topo-outside">D</span></span>
-<span class="topo-line"><span class="topo-outside">RVG</span><span class="topo-membrane">RRPVILVGMSIFMLATL</span><span class="topo-inside">VAVTTSSLTV</span><span class="topo-membrane">LIAASAMQGMGTGVGGV</span><span class="topo-outside">MARTLPRDLYERT</span></span>
-<span class="topo-line"><span class="topo-outside">QLRHANSL</span><span class="topo-membrane">LNMGILVSPLLAPLIGG</span><span class="topo-inside">LLDT</span><span class="topo-membrane">MWNWRACYLFLLVLCAGVTF</span><span class="topo-outside">SMARWMPETRP</span></span>
-<span class="topo-line"><span class="topo-outside">VDAPRTRLLTSYKTLFGNSGFNCYLL</span><span class="topo-membrane">MLIGGLAGIAAFEACSG</span><span class="topo-inside">VLMGAV</span><span class="topo-membrane">LGLSSMTVSIL</span></span>
-<span class="topo-line"><span class="topo-membrane">FILPIPA</span><span class="topo-unknown">AFFGAWFAG</span><span class="topo-outside">RPNKRFS</span><span class="topo-membrane">TLMWQSVICCLLAGLLM</span><span class="topo-inside">W</span><span class="topo-membrane">IPDWFGVMNVWTLLV</span><span class="topo-outside">PAAL</span></span>
-<span class="topo-line"><span class="topo-outside">FFFGAGMLFPLATSGAMEPFPFL</span><span class="topo-membrane">AGTAGALVGGLQNIGSGV</span><span class="topo-inside">LASLS</span><span class="topo-membrane">AMLPQTGQGSLGLL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">LLL</span><span class="topo-membrane">MLVLLVAVGQMAQTIYIPAIA</span><span class="topo-inside">DMARDLNVRE</span><span class="topo-membrane">GAVQSVMGAYLLTYGVS</span><span class="topo-outside">QL</span><span class="topo-unknown">FYGPIS</span><span class="topo-outside">DRVG</span><span class="topo-membrane">RRPVILVGMSIFMLATL</span><span class="topo-inside">VAVTTSSLTV</span><span class="topo-membrane">LIAASAMQGMGTGVGGV</span><span class="topo-outside">MARTLPRDLYERT</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">QLRHANSL</span><span class="topo-membrane">LNMGILVSPLLAPLIGG</span><span class="topo-inside">LLDT</span><span class="topo-membrane">MWNWRACYLFLLVLCAGVTF</span><span class="topo-outside">SMARWMPETRPVDAPRTRLLTSYKTLFGNSGFNCYLL</span><span class="topo-membrane">MLIGGLAGIAAFEACSG</span><span class="topo-inside">VLMGAV</span><span class="topo-membrane">LGLSSMTVSIL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">FILPIPA</span><span class="topo-unknown">AFFGAWFAG</span><span class="topo-outside">RPNKRFS</span><span class="topo-membrane">TLMWQSVICCLLAGLLM</span><span class="topo-inside">W</span><span class="topo-membrane">IPDWFGVMNVWTLLV</span><span class="topo-outside">PAALFFFGAGMLFPLATSGAMEPFPFL</span><span class="topo-membrane">AGTAGALVGGLQNIGSGV</span><span class="topo-inside">LASLS</span><span class="topo-membrane">AMLPQTGQGSLGLL</span></span>
+<span class="topo-ruler">       370     </span>
 <span class="topo-line"><span class="topo-membrane">MT</span><span class="topo-outside">LMGLLIVLCWLPL</span></span>
+<details class="topo-details"><summary>Topology coordinates (28 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -329,6 +331,7 @@ specificity.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

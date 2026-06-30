@@ -62,14 +62,15 @@ GltPh is a sodium-coupled aspartate transporter from the archaeon Pyrococcus hor
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGLYRKYIEYP</span><span class="topo-outside">VLQ</span><span class="topo-membrane">KILIGLILGAIVG</span><span class="topo-inside">LILGHYGYAHAVHTY</span><span class="topo-membrane">VKPFGDLFVRLLKMLVMP</span></span>
-<span class="topo-line"><span class="topo-outside">IVFASLVVGAASISPARLGRVG</span><span class="topo-membrane">VKIVVYYLLTSAFAVTLG</span><span class="topo-inside">IIMARLFNPGAGIHLAVGGQ</span></span>
-<span class="topo-line"><span class="topo-inside">QF</span><span class="topo-unknown">QPHQA</span><span class="topo-inside">PPL</span><span class="topo-membrane">VHILLDIVPTNPFGALANGQVLPTIFFA</span><span class="topo-outside">IILGIAITYLMNSENEKVRKSA</span></span>
-<span class="topo-line"><span class="topo-outside">ETLLDAINGLAEAMYKIVNGV</span><span class="topo-membrane">MQYAPIGVFALIAYVM</span><span class="topo-inside">AEQGVHVVGELAKVTAAV</span><span class="topo-membrane">YVGLT</span></span>
-<span class="topo-line"><span class="topo-membrane">LQILLVYFVL</span><span class="topo-outside">LKIYGIDPISFIKHA</span><span class="topo-unknown">KDAMLTAFVTRSSSGTLPVT</span><span class="topo-outside">MRVAKEMGISEGIYS</span></span>
-<span class="topo-line"><span class="topo-outside">F</span><span class="topo-membrane">TLPLGATINMDGTALY</span><span class="topo-inside">QGVCTFFIANALGSHLTVGQQLTIVLTA</span><span class="topo-unknown">VLASIGTAGVP</span><span class="topo-inside">GAGA</span></span>
-<span class="topo-line"><span class="topo-inside">IMLAMVLHSVGLPLTDPNVAAAYAMILGIDAI</span><span class="topo-membrane">LDMGRTMVNVTGDLTG</span><span class="topo-outside">TAIVAKTE</span><span class="topo-unknown">GTLV</span></span>
-<span class="topo-line"><span class="topo-unknown">PR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGLYRKYIEYP</span><span class="topo-outside">VLQ</span><span class="topo-membrane">KILIGLILGAIVG</span><span class="topo-inside">LILGHYGYAHAVHTY</span><span class="topo-membrane">VKPFGDLFVRLLKMLVMP</span><span class="topo-outside">IVFASLVVGAASISPARLGRVG</span><span class="topo-membrane">VKIVVYYLLTSAFAVTLG</span><span class="topo-inside">IIMARLFNPGAGIHLAVGGQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">QF</span><span class="topo-unknown">QPHQA</span><span class="topo-inside">PPL</span><span class="topo-membrane">VHILLDIVPTNPFGALANGQVLPTIFFA</span><span class="topo-outside">IILGIAITYLMNSENEKVRKSAETLLDAINGLAEAMYKIVNGV</span><span class="topo-membrane">MQYAPIGVFALIAYVM</span><span class="topo-inside">AEQGVHVVGELAKVTAAV</span><span class="topo-membrane">YVGLT</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">LQILLVYFVL</span><span class="topo-outside">LKIYGIDPISFIKHA</span><span class="topo-unknown">KDAMLTAFVTRSSSGTLPVT</span><span class="topo-outside">MRVAKEMGISEGIYSF</span><span class="topo-membrane">TLPLGATINMDGTALY</span><span class="topo-inside">QGVCTFFIANALGSHLTVGQQLTIVLTA</span><span class="topo-unknown">VLASIGTAGVP</span><span class="topo-inside">GAGA</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420  </span>
+<span class="topo-line"><span class="topo-inside">IMLAMVLHSVGLPLTDPNVAAAYAMILGIDAI</span><span class="topo-membrane">LDMGRTMVNVTGDLTG</span><span class="topo-outside">TAIVAKTE</span><span class="topo-unknown">GTLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (25 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -256,6 +257,7 @@ GltPh is a sodium-coupled aspartate transporter from the archaeon Pyrococcus hor
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -271,14 +273,15 @@ GltPh is a sodium-coupled aspartate transporter from the archaeon Pyrococcus hor
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGLYRKYIEYP</span><span class="topo-outside">VLQ</span><span class="topo-membrane">KILIGLILGAIVGL</span><span class="topo-inside">ILGHYGYAHAVHTY</span><span class="topo-membrane">VKPFGDLFVRLLKMLVMP</span></span>
-<span class="topo-line"><span class="topo-outside">IVFASLVVGAASISPARLGRVG</span><span class="topo-membrane">VKIVVYYLLTSAFAVTLG</span><span class="topo-inside">IIMARLFNPGAGIHLAVG</span><span class="topo-unknown">GQ</span></span>
-<span class="topo-line"><span class="topo-unknown">QFQPHQA</span><span class="topo-inside">PPL</span><span class="topo-membrane">VHILLDIVPTNPFGALANGQVLPTIFFA</span><span class="topo-outside">IILGIAITYLMNSENEKVRKSA</span></span>
-<span class="topo-line"><span class="topo-outside">ETLLDAINGLAEAMYKIVNGV</span><span class="topo-membrane">MQYAPIGVFALIAYVM</span><span class="topo-inside">AEQGVHVVGELAKVTAAV</span><span class="topo-membrane">YVGLT</span></span>
-<span class="topo-line"><span class="topo-membrane">LQILLVYFVL</span><span class="topo-outside">LKIYGIDPISFIKHAK</span><span class="topo-unknown">DAMLTAFVTRSSSGTLPVT</span><span class="topo-outside">MRVAKEMGISEGIYS</span></span>
-<span class="topo-line"><span class="topo-outside">FT</span><span class="topo-membrane">LPLGATINMDGTALY</span><span class="topo-inside">QGVCTFFIANALGSHLTVGQQLTIVLTA</span><span class="topo-unknown">VLASIGTAGVPGAG</span><span class="topo-inside">A</span></span>
-<span class="topo-line"><span class="topo-inside">IMLAMVLHSVGLPLTDPNVAAAYAMILGIDA</span><span class="topo-membrane">ILDMGRTMVNVTGDLTG</span><span class="topo-outside">TAIVAKTE</span><span class="topo-unknown">GTLV</span></span>
-<span class="topo-line"><span class="topo-unknown">PR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGLYRKYIEYP</span><span class="topo-outside">VLQ</span><span class="topo-membrane">KILIGLILGAIVGL</span><span class="topo-inside">ILGHYGYAHAVHTY</span><span class="topo-membrane">VKPFGDLFVRLLKMLVMP</span><span class="topo-outside">IVFASLVVGAASISPARLGRVG</span><span class="topo-membrane">VKIVVYYLLTSAFAVTLG</span><span class="topo-inside">IIMARLFNPGAGIHLAVG</span><span class="topo-unknown">GQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-unknown">QFQPHQA</span><span class="topo-inside">PPL</span><span class="topo-membrane">VHILLDIVPTNPFGALANGQVLPTIFFA</span><span class="topo-outside">IILGIAITYLMNSENEKVRKSAETLLDAINGLAEAMYKIVNGV</span><span class="topo-membrane">MQYAPIGVFALIAYVM</span><span class="topo-inside">AEQGVHVVGELAKVTAAV</span><span class="topo-membrane">YVGLT</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">LQILLVYFVL</span><span class="topo-outside">LKIYGIDPISFIKHAK</span><span class="topo-unknown">DAMLTAFVTRSSSGTLPVT</span><span class="topo-outside">MRVAKEMGISEGIYSFT</span><span class="topo-membrane">LPLGATINMDGTALY</span><span class="topo-inside">QGVCTFFIANALGSHLTVGQQLTIVLTA</span><span class="topo-unknown">VLASIGTAGVPGAG</span><span class="topo-inside">A</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420  </span>
+<span class="topo-line"><span class="topo-inside">IMLAMVLHSVGLPLTDPNVAAAYAMILGIDA</span><span class="topo-membrane">ILDMGRTMVNVTGDLTG</span><span class="topo-outside">TAIVAKTE</span><span class="topo-unknown">GTLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (25 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -465,6 +468,7 @@ GltPh is a sodium-coupled aspartate transporter from the archaeon Pyrococcus hor
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -480,14 +484,15 @@ GltPh is a sodium-coupled aspartate transporter from the archaeon Pyrococcus hor
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGLYRKYIEYP</span><span class="topo-outside">VLQ</span><span class="topo-membrane">KILIGLILGAIVGL</span><span class="topo-inside">ILGHYGYAHAVHTY</span><span class="topo-membrane">VKPFGDLFVRLLKMLVMP</span></span>
-<span class="topo-line"><span class="topo-outside">IVFASLVVGAASISPARLGRVG</span><span class="topo-membrane">VKIVVYYLLTSAFAVTLG</span><span class="topo-inside">IIMARLFNPGAGIHLAVGGQ</span></span>
-<span class="topo-line"><span class="topo-inside">QFQ</span><span class="topo-unknown">PHQA</span><span class="topo-inside">PPL</span><span class="topo-membrane">VHILLDIVPTNPFGALANGQVLPTIFFA</span><span class="topo-outside">IILGIAITYLMNSENEKVRKSA</span></span>
-<span class="topo-line"><span class="topo-outside">ETLLDAINGLAEAMYKIVNGV</span><span class="topo-membrane">MQYAPIGVFALIAYVM</span><span class="topo-inside">AEQGVHVVGELAKVTAAV</span><span class="topo-membrane">YVGLT</span></span>
-<span class="topo-line"><span class="topo-membrane">LQILLVYFVL</span><span class="topo-outside">LKIYGIDPISFIKHAK</span><span class="topo-unknown">DAMLTAFVTRSSSGTLPVT</span><span class="topo-outside">MRVAKEMGISEGIYS</span></span>
-<span class="topo-line"><span class="topo-outside">FT</span><span class="topo-membrane">LPLGATINMDGTALY</span><span class="topo-inside">QGVCTFFIANALGSHLTVGQQLTIVLTA</span><span class="topo-unknown">VLASIGTAGVPGAG</span><span class="topo-inside">A</span></span>
-<span class="topo-line"><span class="topo-inside">IMLAMVLHSVGLPLTDPNVAAAYAMILGIDA</span><span class="topo-membrane">ILDMGRTMVNVTGDLTG</span><span class="topo-outside">TAIVAKTE</span><span class="topo-unknown">GTLV</span></span>
-<span class="topo-line"><span class="topo-unknown">PR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGLYRKYIEYP</span><span class="topo-outside">VLQ</span><span class="topo-membrane">KILIGLILGAIVGL</span><span class="topo-inside">ILGHYGYAHAVHTY</span><span class="topo-membrane">VKPFGDLFVRLLKMLVMP</span><span class="topo-outside">IVFASLVVGAASISPARLGRVG</span><span class="topo-membrane">VKIVVYYLLTSAFAVTLG</span><span class="topo-inside">IIMARLFNPGAGIHLAVGGQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">QFQ</span><span class="topo-unknown">PHQA</span><span class="topo-inside">PPL</span><span class="topo-membrane">VHILLDIVPTNPFGALANGQVLPTIFFA</span><span class="topo-outside">IILGIAITYLMNSENEKVRKSAETLLDAINGLAEAMYKIVNGV</span><span class="topo-membrane">MQYAPIGVFALIAYVM</span><span class="topo-inside">AEQGVHVVGELAKVTAAV</span><span class="topo-membrane">YVGLT</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">LQILLVYFVL</span><span class="topo-outside">LKIYGIDPISFIKHAK</span><span class="topo-unknown">DAMLTAFVTRSSSGTLPVT</span><span class="topo-outside">MRVAKEMGISEGIYSFT</span><span class="topo-membrane">LPLGATINMDGTALY</span><span class="topo-inside">QGVCTFFIANALGSHLTVGQQLTIVLTA</span><span class="topo-unknown">VLASIGTAGVPGAG</span><span class="topo-inside">A</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420  </span>
+<span class="topo-line"><span class="topo-inside">IMLAMVLHSVGLPLTDPNVAAAYAMILGIDA</span><span class="topo-membrane">ILDMGRTMVNVTGDLTG</span><span class="topo-outside">TAIVAKTE</span><span class="topo-unknown">GTLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (25 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -674,6 +679,7 @@ GltPh is a sodium-coupled aspartate transporter from the archaeon Pyrococcus hor
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -850,14 +856,15 @@ GltPh is a sodium-coupled aspartate transporter from the archaeon Pyrococcus hor
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGLYRKYIE</span><span class="topo-outside">YPVL</span><span class="topo-membrane">IKILIGLILGAIVGL</span><span class="topo-inside">ILGHYGYAHAVHTY</span><span class="topo-membrane">VKPFGDLFVRLLKMLVMP</span></span>
-<span class="topo-line"><span class="topo-membrane">IVF</span><span class="topo-outside">ASLVVGAASISPARLGRVG</span><span class="topo-membrane">VKIVVYYLLTSAFAVTLGIIM</span><span class="topo-inside">ARLFNPGAGIHLAVGGQ</span></span>
-<span class="topo-line"><span class="topo-inside">QF</span><span class="topo-unknown">QPHQA</span><span class="topo-inside">PPL</span><span class="topo-membrane">VHILLDIVPTNPFGALANGQVLPTIFFA</span><span class="topo-outside">IILGIAITYLMNSENEKVRKSA</span></span>
-<span class="topo-line"><span class="topo-outside">ETLLDAINGLAEAMYKIVNGV</span><span class="topo-membrane">MQYAPIGVFALIAYVM</span><span class="topo-inside">AEQGVHVVGELAKVTA</span><span class="topo-membrane">AVYVGLT</span></span>
-<span class="topo-line"><span class="topo-membrane">LQILLVYFVL</span><span class="topo-outside">LKIYGIDPISFIKHA</span><span class="topo-unknown">KDAMLTAFVTRSSSGTLPVTM</span><span class="topo-outside">RVAKEMGISEGIYS</span></span>
-<span class="topo-line"><span class="topo-outside">F</span><span class="topo-membrane">TLPLGATINMDGTALY</span><span class="topo-inside">QGVCTFFIANALGSHLTVGQQLTIV</span><span class="topo-unknown">LTAVLASIGTAGVPGAG</span><span class="topo-inside">A</span></span>
-<span class="topo-line"><span class="topo-inside">IMLAMVLHSVGLPLTDPNVAAAYAMILGIDA</span><span class="topo-membrane">ILDMGRTMVNVTGDLTGT</span><span class="topo-outside">AIVAKTE</span><span class="topo-unknown">GTLV</span></span>
-<span class="topo-line"><span class="topo-unknown">PR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGLYRKYIE</span><span class="topo-outside">YPVL</span><span class="topo-membrane">IKILIGLILGAIVGL</span><span class="topo-inside">ILGHYGYAHAVHTY</span><span class="topo-membrane">VKPFGDLFVRLLKMLVMPIVF</span><span class="topo-outside">ASLVVGAASISPARLGRVG</span><span class="topo-membrane">VKIVVYYLLTSAFAVTLGIIM</span><span class="topo-inside">ARLFNPGAGIHLAVGGQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">QF</span><span class="topo-unknown">QPHQA</span><span class="topo-inside">PPL</span><span class="topo-membrane">VHILLDIVPTNPFGALANGQVLPTIFFA</span><span class="topo-outside">IILGIAITYLMNSENEKVRKSAETLLDAINGLAEAMYKIVNGV</span><span class="topo-membrane">MQYAPIGVFALIAYVM</span><span class="topo-inside">AEQGVHVVGELAKVTA</span><span class="topo-membrane">AVYVGLT</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">LQILLVYFVL</span><span class="topo-outside">LKIYGIDPISFIKHA</span><span class="topo-unknown">KDAMLTAFVTRSSSGTLPVTM</span><span class="topo-outside">RVAKEMGISEGIYSF</span><span class="topo-membrane">TLPLGATINMDGTALY</span><span class="topo-inside">QGVCTFFIANALGSHLTVGQQLTIV</span><span class="topo-unknown">LTAVLASIGTAGVPGAG</span><span class="topo-inside">A</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420  </span>
+<span class="topo-line"><span class="topo-inside">IMLAMVLHSVGLPLTDPNVAAAYAMILGIDA</span><span class="topo-membrane">ILDMGRTMVNVTGDLTGT</span><span class="topo-outside">AIVAKTE</span><span class="topo-unknown">GTLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (25 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1044,6 +1051,7 @@ GltPh is a sodium-coupled aspartate transporter from the archaeon Pyrococcus hor
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1059,14 +1067,15 @@ GltPh is a sodium-coupled aspartate transporter from the archaeon Pyrococcus hor
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGLYRKYIE</span><span class="topo-outside">YPVLI</span><span class="topo-membrane">KILIGLILGAIVGL</span><span class="topo-inside">ILGHYGYAHAVHTY</span><span class="topo-membrane">VKPFGDLFVRLLKMLVMP</span></span>
-<span class="topo-line"><span class="topo-membrane">IVF</span><span class="topo-outside">ASLVVGAASISPARLGRVG</span><span class="topo-membrane">VKIVVYYLLTSAFAVTLGIIM</span><span class="topo-inside">ARLFNPGAGIHLAVG</span><span class="topo-unknown">GQ</span></span>
-<span class="topo-line"><span class="topo-unknown">QFQPHQA</span><span class="topo-inside">PPL</span><span class="topo-membrane">VHILLDIVPTNPFGALANGQVLPTIFFA</span><span class="topo-outside">IILGIAITYLMNSENEKVRKSA</span></span>
-<span class="topo-line"><span class="topo-outside">ETLLDAINGLAEAMYKIVNGV</span><span class="topo-membrane">MQYAPIGVFALIAYVM</span><span class="topo-inside">AEQGVHVVGELAKVTA</span><span class="topo-membrane">AVYVGLT</span></span>
-<span class="topo-line"><span class="topo-membrane">LQILLVYFVL</span><span class="topo-outside">LKIYGIDPISFIKHA</span><span class="topo-unknown">KDAMLTAFVTRSSSGTLPVTM</span><span class="topo-outside">RVAKEMGISEGIYS</span></span>
-<span class="topo-line"><span class="topo-outside">F</span><span class="topo-membrane">TLPLGATINMDGTALY</span><span class="topo-inside">QGVCTFFIANALGSHLTVGQQLTIV</span><span class="topo-unknown">LTAVLASIGTAGVPGAG</span><span class="topo-inside">A</span></span>
-<span class="topo-line"><span class="topo-inside">IMLAMVLHSVGLPLTDPNVAAAYAMILGIDA</span><span class="topo-membrane">ILDMGRTMVNVTGDLTGT</span><span class="topo-outside">AIVAKTE</span><span class="topo-unknown">GTLV</span></span>
-<span class="topo-line"><span class="topo-unknown">PR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGLYRKYIE</span><span class="topo-outside">YPVLI</span><span class="topo-membrane">KILIGLILGAIVGL</span><span class="topo-inside">ILGHYGYAHAVHTY</span><span class="topo-membrane">VKPFGDLFVRLLKMLVMPIVF</span><span class="topo-outside">ASLVVGAASISPARLGRVG</span><span class="topo-membrane">VKIVVYYLLTSAFAVTLGIIM</span><span class="topo-inside">ARLFNPGAGIHLAVG</span><span class="topo-unknown">GQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-unknown">QFQPHQA</span><span class="topo-inside">PPL</span><span class="topo-membrane">VHILLDIVPTNPFGALANGQVLPTIFFA</span><span class="topo-outside">IILGIAITYLMNSENEKVRKSAETLLDAINGLAEAMYKIVNGV</span><span class="topo-membrane">MQYAPIGVFALIAYVM</span><span class="topo-inside">AEQGVHVVGELAKVTA</span><span class="topo-membrane">AVYVGLT</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">LQILLVYFVL</span><span class="topo-outside">LKIYGIDPISFIKHA</span><span class="topo-unknown">KDAMLTAFVTRSSSGTLPVTM</span><span class="topo-outside">RVAKEMGISEGIYSF</span><span class="topo-membrane">TLPLGATINMDGTALY</span><span class="topo-inside">QGVCTFFIANALGSHLTVGQQLTIV</span><span class="topo-unknown">LTAVLASIGTAGVPGAG</span><span class="topo-inside">A</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420  </span>
+<span class="topo-line"><span class="topo-inside">IMLAMVLHSVGLPLTDPNVAAAYAMILGIDA</span><span class="topo-membrane">ILDMGRTMVNVTGDLTGT</span><span class="topo-outside">AIVAKTE</span><span class="topo-unknown">GTLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (25 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1253,6 +1262,7 @@ GltPh is a sodium-coupled aspartate transporter from the archaeon Pyrococcus hor
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1268,14 +1278,15 @@ GltPh is a sodium-coupled aspartate transporter from the archaeon Pyrococcus hor
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGLYRKYIE</span><span class="topo-outside">YPVLI</span><span class="topo-membrane">KILIGLILGAIVGLI</span><span class="topo-inside">LGHYGYAHAVHTY</span><span class="topo-membrane">VKPFGDLFVRLLKMLVMP</span></span>
-<span class="topo-line"><span class="topo-membrane">IVF</span><span class="topo-outside">ASLVVGAASISPARLGRVG</span><span class="topo-membrane">VKIVVYYLLTSAFAVTLGIIM</span><span class="topo-inside">ARLFNPGAGIHLAVGGQ</span></span>
-<span class="topo-line"><span class="topo-inside">QFQ</span><span class="topo-unknown">PHQA</span><span class="topo-inside">PPL</span><span class="topo-membrane">VHILLDIVPTNPFGALANGQVLPTIFFA</span><span class="topo-outside">IILGIAITYLMNSENEKVRKSA</span></span>
-<span class="topo-line"><span class="topo-outside">ETLLDAINGLAEAMYKIVNGV</span><span class="topo-membrane">MQYAPIGVFALIAYVM</span><span class="topo-inside">AEQGVHVVGELAKVTA</span><span class="topo-membrane">AVYVGLT</span></span>
-<span class="topo-line"><span class="topo-membrane">LQILLVYFVL</span><span class="topo-outside">LKIYGIDPISFIKHA</span><span class="topo-unknown">KDAMLTAFVTRSSSGTLPVTM</span><span class="topo-outside">RVAKEMGISEGIYS</span></span>
-<span class="topo-line"><span class="topo-outside">F</span><span class="topo-membrane">TLPLGATINMDGTALY</span><span class="topo-inside">QGVCTFFIANALGSHLTVGQQLTIV</span><span class="topo-unknown">LTAVLASIGTAGVPGAG</span><span class="topo-inside">A</span></span>
-<span class="topo-line"><span class="topo-inside">IMLAMVLHSVGLPLTDPNVAAAYAMILGIDA</span><span class="topo-membrane">ILDMGRTMVNVTGDLTG</span><span class="topo-outside">TAIVAKTE</span><span class="topo-unknown">GTLV</span></span>
-<span class="topo-line"><span class="topo-unknown">PR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGLYRKYIE</span><span class="topo-outside">YPVLI</span><span class="topo-membrane">KILIGLILGAIVGLI</span><span class="topo-inside">LGHYGYAHAVHTY</span><span class="topo-membrane">VKPFGDLFVRLLKMLVMPIVF</span><span class="topo-outside">ASLVVGAASISPARLGRVG</span><span class="topo-membrane">VKIVVYYLLTSAFAVTLGIIM</span><span class="topo-inside">ARLFNPGAGIHLAVGGQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">QFQ</span><span class="topo-unknown">PHQA</span><span class="topo-inside">PPL</span><span class="topo-membrane">VHILLDIVPTNPFGALANGQVLPTIFFA</span><span class="topo-outside">IILGIAITYLMNSENEKVRKSAETLLDAINGLAEAMYKIVNGV</span><span class="topo-membrane">MQYAPIGVFALIAYVM</span><span class="topo-inside">AEQGVHVVGELAKVTA</span><span class="topo-membrane">AVYVGLT</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">LQILLVYFVL</span><span class="topo-outside">LKIYGIDPISFIKHA</span><span class="topo-unknown">KDAMLTAFVTRSSSGTLPVTM</span><span class="topo-outside">RVAKEMGISEGIYSF</span><span class="topo-membrane">TLPLGATINMDGTALY</span><span class="topo-inside">QGVCTFFIANALGSHLTVGQQLTIV</span><span class="topo-unknown">LTAVLASIGTAGVPGAG</span><span class="topo-inside">A</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420  </span>
+<span class="topo-line"><span class="topo-inside">IMLAMVLHSVGLPLTDPNVAAAYAMILGIDA</span><span class="topo-membrane">ILDMGRTMVNVTGDLTG</span><span class="topo-outside">TAIVAKTE</span><span class="topo-unknown">GTLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (25 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1462,6 +1473,7 @@ GltPh is a sodium-coupled aspartate transporter from the archaeon Pyrococcus hor
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1512,14 +1524,15 @@ GltPh is a sodium-coupled aspartate transporter from the archaeon Pyrococcus hor
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGLYRK</span><span class="topo-outside">YIEYPVL</span><span class="topo-membrane">QKILIGLILGAIVGL</span><span class="topo-inside">ILGHYGYAHAVHTY</span><span class="topo-membrane">VKPFGDLFVRLLKMLVMP</span></span>
-<span class="topo-line"><span class="topo-membrane">IVFASL</span><span class="topo-outside">VVGAASISPARLGRVGVKIVVYYLLTS</span><span class="topo-membrane">AFAVTLGIIMARLFNPG</span><span class="topo-inside">AGIHLAVGGQ</span></span>
-<span class="topo-line"><span class="topo-inside">QFQPHQAPPL</span><span class="topo-membrane">VHILLDIVPTNPFGALANGQVLPTIFFAIIL</span><span class="topo-outside">GIAITYLMNSENEKVRKSA</span></span>
-<span class="topo-line"><span class="topo-outside">ETLLDAINGLAEAMYKIVNG</span><span class="topo-membrane">VMQYAPIGVFALIAYCM</span><span class="topo-inside">AEQGVHV</span><span class="topo-membrane">VGELAKVTAAVYVGLT</span></span>
-<span class="topo-line"><span class="topo-membrane">LQ</span><span class="topo-outside">ILLVYFVLLKIYGIDPISFIKHAKDAMLTAFVTRSSSGTLPVTMRVAKEMGISEGIYS</span></span>
-<span class="topo-line"><span class="topo-outside">FTLPLGATINMD</span><span class="topo-membrane">GTALYQGVATFFIA</span><span class="topo-inside">NALGSHL</span><span class="topo-membrane">TVGQQLTIVLTAVLASIGT</span><span class="topo-outside">AGVPG</span><span class="topo-membrane">AGA</span></span>
-<span class="topo-line"><span class="topo-membrane">IMLAMVLHSVGLP</span><span class="topo-inside">LTDPNV</span><span class="topo-membrane">AAAYACILGIDAILDMGR</span><span class="topo-outside">TMVNVTGDLTGTAIVAKTE</span><span class="topo-unknown">GTLV</span></span>
-<span class="topo-line"><span class="topo-unknown">PR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGLYRK</span><span class="topo-outside">YIEYPVL</span><span class="topo-membrane">QKILIGLILGAIVGL</span><span class="topo-inside">ILGHYGYAHAVHTY</span><span class="topo-membrane">VKPFGDLFVRLLKMLVMPIVFASL</span><span class="topo-outside">VVGAASISPARLGRVGVKIVVYYLLTS</span><span class="topo-membrane">AFAVTLGIIMARLFNPG</span><span class="topo-inside">AGIHLAVGGQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">QFQPHQAPPL</span><span class="topo-membrane">VHILLDIVPTNPFGALANGQVLPTIFFAIIL</span><span class="topo-outside">GIAITYLMNSENEKVRKSAETLLDAINGLAEAMYKIVNG</span><span class="topo-membrane">VMQYAPIGVFALIAYCM</span><span class="topo-inside">AEQGVHV</span><span class="topo-membrane">VGELAKVTAAVYVGLT</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">LQ</span><span class="topo-outside">ILLVYFVLLKIYGIDPISFIKHAKDAMLTAFVTRSSSGTLPVTMRVAKEMGISEGIYSFTLPLGATINMD</span><span class="topo-membrane">GTALYQGVATFFIA</span><span class="topo-inside">NALGSHL</span><span class="topo-membrane">TVGQQLTIVLTAVLASIGT</span><span class="topo-outside">AGVPG</span><span class="topo-membrane">AGA</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420  </span>
+<span class="topo-line"><span class="topo-membrane">IMLAMVLHSVGLP</span><span class="topo-inside">LTDPNV</span><span class="topo-membrane">AAAYACILGIDAILDMGR</span><span class="topo-outside">TMVNVTGDLTGTAIVAKTE</span><span class="topo-unknown">GTLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (23 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1692,6 +1705,7 @@ GltPh is a sodium-coupled aspartate transporter from the archaeon Pyrococcus hor
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1707,14 +1721,15 @@ GltPh is a sodium-coupled aspartate transporter from the archaeon Pyrococcus hor
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGLYR</span><span class="topo-outside">KYIEYPVL</span><span class="topo-membrane">QKILIGLILGAIVGL</span><span class="topo-inside">ILGHYGYAHAVHTY</span><span class="topo-membrane">VKPFGDLFVRLLKMLVMP</span></span>
-<span class="topo-line"><span class="topo-membrane">IVFA</span><span class="topo-outside">SLVVGAASISPARLGRVGVKIVVYYLLTS</span><span class="topo-membrane">AFAVTLGIIMARLFNPG</span><span class="topo-inside">AGIHLAVGGQ</span></span>
-<span class="topo-line"><span class="topo-inside">QFQPHQAPPL</span><span class="topo-membrane">VHILLDIVPTNPFGALANGQVLPTIFFAIIL</span><span class="topo-outside">GIAITYLMNSENEKVRKSA</span></span>
-<span class="topo-line"><span class="topo-outside">ETLLDAINGLAEAMYKIVNG</span><span class="topo-membrane">VMQYAPIGVFALIAYCM</span><span class="topo-inside">AEQGVHV</span><span class="topo-membrane">VGELAKVTAAVYVGLT</span></span>
-<span class="topo-line"><span class="topo-membrane">LQ</span><span class="topo-outside">ILLVYFVLLKIYGIDPISFIKHAKDAMLTAFVTRSSSGTLPVTMRVAKEMGISEGIYS</span></span>
-<span class="topo-line"><span class="topo-outside">FTLPLGATINMD</span><span class="topo-membrane">GTALYQGVATFFIA</span><span class="topo-inside">NALGSHL</span><span class="topo-membrane">TVGQQLTIVLTAVLASIGT</span><span class="topo-outside">AGVPG</span><span class="topo-membrane">AGA</span></span>
-<span class="topo-line"><span class="topo-membrane">IMLAMVLHSVGLP</span><span class="topo-inside">LTDPNV</span><span class="topo-membrane">AAAYACILGIDAILDMGR</span><span class="topo-outside">TMVNVTGDLTGTAIVAKTE</span><span class="topo-unknown">GTLV</span></span>
-<span class="topo-line"><span class="topo-unknown">PR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGLYR</span><span class="topo-outside">KYIEYPVL</span><span class="topo-membrane">QKILIGLILGAIVGL</span><span class="topo-inside">ILGHYGYAHAVHTY</span><span class="topo-membrane">VKPFGDLFVRLLKMLVMPIVFA</span><span class="topo-outside">SLVVGAASISPARLGRVGVKIVVYYLLTS</span><span class="topo-membrane">AFAVTLGIIMARLFNPG</span><span class="topo-inside">AGIHLAVGGQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">QFQPHQAPPL</span><span class="topo-membrane">VHILLDIVPTNPFGALANGQVLPTIFFAIIL</span><span class="topo-outside">GIAITYLMNSENEKVRKSAETLLDAINGLAEAMYKIVNG</span><span class="topo-membrane">VMQYAPIGVFALIAYCM</span><span class="topo-inside">AEQGVHV</span><span class="topo-membrane">VGELAKVTAAVYVGLT</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">LQ</span><span class="topo-outside">ILLVYFVLLKIYGIDPISFIKHAKDAMLTAFVTRSSSGTLPVTMRVAKEMGISEGIYSFTLPLGATINMD</span><span class="topo-membrane">GTALYQGVATFFIA</span><span class="topo-inside">NALGSHL</span><span class="topo-membrane">TVGQQLTIVLTAVLASIGT</span><span class="topo-outside">AGVPG</span><span class="topo-membrane">AGA</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420  </span>
+<span class="topo-line"><span class="topo-membrane">IMLAMVLHSVGLP</span><span class="topo-inside">LTDPNV</span><span class="topo-membrane">AAAYACILGIDAILDMGR</span><span class="topo-outside">TMVNVTGDLTGTAIVAKTE</span><span class="topo-unknown">GTLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (23 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1887,6 +1902,7 @@ GltPh is a sodium-coupled aspartate transporter from the archaeon Pyrococcus hor
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1902,14 +1918,15 @@ GltPh is a sodium-coupled aspartate transporter from the archaeon Pyrococcus hor
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGLYRK</span><span class="topo-outside">YIEYPVL</span><span class="topo-membrane">QKILIGLILGAIVGL</span><span class="topo-inside">ILGHYGYAHAVHTY</span><span class="topo-membrane">VKPFGDLFVRLLKMLVMP</span></span>
-<span class="topo-line"><span class="topo-membrane">IVFASL</span><span class="topo-outside">VVGAASISPARLGRVGVKIVVYYLLTS</span><span class="topo-membrane">AFAVTLGIIMARLFNPG</span><span class="topo-inside">AGIHLAVGGQ</span></span>
-<span class="topo-line"><span class="topo-inside">QFQPHQAPPL</span><span class="topo-membrane">VHILLDIVPTNPFGALANGQVLPTIFFAIIL</span><span class="topo-outside">GIAITYLMNSENEKVRKSA</span></span>
-<span class="topo-line"><span class="topo-outside">ETLLDAINGLAEAMYKIVNG</span><span class="topo-membrane">VMQYAPIGVFALIAYCM</span><span class="topo-inside">AEQGVHV</span><span class="topo-membrane">VGELAKVTAAVYVGLT</span></span>
-<span class="topo-line"><span class="topo-membrane">LQ</span><span class="topo-outside">ILLVYFVLLKIYGIDPISFIKHAKDAMLTAFVTRSSSGTLPVTMRVAKEMGISEGIYS</span></span>
-<span class="topo-line"><span class="topo-outside">FTLPLGATINMD</span><span class="topo-membrane">GTALYQGVATFFIA</span><span class="topo-inside">NALGSHL</span><span class="topo-membrane">TVGQQLTIVLTAVLASIGT</span><span class="topo-outside">AGVPG</span><span class="topo-membrane">AGA</span></span>
-<span class="topo-line"><span class="topo-membrane">IMLAMVLHSVGLP</span><span class="topo-inside">LTDPNV</span><span class="topo-membrane">AAAYACILGIDAILDMGR</span><span class="topo-outside">TMVNVTGDLTGTAIVAKTE</span><span class="topo-unknown">GTLV</span></span>
-<span class="topo-line"><span class="topo-unknown">PR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGLYRK</span><span class="topo-outside">YIEYPVL</span><span class="topo-membrane">QKILIGLILGAIVGL</span><span class="topo-inside">ILGHYGYAHAVHTY</span><span class="topo-membrane">VKPFGDLFVRLLKMLVMPIVFASL</span><span class="topo-outside">VVGAASISPARLGRVGVKIVVYYLLTS</span><span class="topo-membrane">AFAVTLGIIMARLFNPG</span><span class="topo-inside">AGIHLAVGGQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">QFQPHQAPPL</span><span class="topo-membrane">VHILLDIVPTNPFGALANGQVLPTIFFAIIL</span><span class="topo-outside">GIAITYLMNSENEKVRKSAETLLDAINGLAEAMYKIVNG</span><span class="topo-membrane">VMQYAPIGVFALIAYCM</span><span class="topo-inside">AEQGVHV</span><span class="topo-membrane">VGELAKVTAAVYVGLT</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">LQ</span><span class="topo-outside">ILLVYFVLLKIYGIDPISFIKHAKDAMLTAFVTRSSSGTLPVTMRVAKEMGISEGIYSFTLPLGATINMD</span><span class="topo-membrane">GTALYQGVATFFIA</span><span class="topo-inside">NALGSHL</span><span class="topo-membrane">TVGQQLTIVLTAVLASIGT</span><span class="topo-outside">AGVPG</span><span class="topo-membrane">AGA</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420  </span>
+<span class="topo-line"><span class="topo-membrane">IMLAMVLHSVGLP</span><span class="topo-inside">LTDPNV</span><span class="topo-membrane">AAAYACILGIDAILDMGR</span><span class="topo-outside">TMVNVTGDLTGTAIVAKTE</span><span class="topo-unknown">GTLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (23 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2082,6 +2099,7 @@ GltPh is a sodium-coupled aspartate transporter from the archaeon Pyrococcus hor
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2132,14 +2150,15 @@ GltPh is a sodium-coupled aspartate transporter from the archaeon Pyrococcus hor
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGLYR</span><span class="topo-outside">KYIEYPVL</span><span class="topo-membrane">QKILIGLILGAIVGLI</span><span class="topo-inside">LGHYGYAHAVHTY</span><span class="topo-membrane">VKPFGDLFVRLLCMLVMP</span></span>
-<span class="topo-line"><span class="topo-membrane">IVFASL</span><span class="topo-outside">VVGAASISPARLGRVGVKIVVYYLLTS</span><span class="topo-membrane">AFAVTLGIIMARLFNPG</span><span class="topo-inside">AGIHLAVGGQ</span></span>
-<span class="topo-line"><span class="topo-inside">QFQPHQAPPL</span><span class="topo-membrane">VHILLDIVPTNPFGALANGQVLPTIFFAIIL</span><span class="topo-outside">GIAITYLMNSENEKVRKSA</span></span>
-<span class="topo-line"><span class="topo-outside">ETLLDAINGLAEAMYKIVNG</span><span class="topo-membrane">VMQYAPIGVFALIAYVM</span><span class="topo-inside">AEQGVHV</span><span class="topo-membrane">VGELAKVTAAVYVGLT</span></span>
-<span class="topo-line"><span class="topo-membrane">LQ</span><span class="topo-outside">ILLVYFVLLKIYGIDPISFIKHAKDAMLTAFVTRSSSGTLPVTMRVAKEMGISEGIYS</span></span>
-<span class="topo-line"><span class="topo-outside">FTLPLGATINMD</span><span class="topo-membrane">GTALYQGVATFFIA</span><span class="topo-inside">NALGSHL</span><span class="topo-membrane">TVGQQLTIVLTAVLASIGT</span><span class="topo-outside">AGVP</span><span class="topo-membrane">GAGA</span></span>
-<span class="topo-line"><span class="topo-membrane">IMLCMVLHSVGLPLT</span><span class="topo-inside">DPNV</span><span class="topo-membrane">AAAYAMILGIDAILDMGR</span><span class="topo-outside">TMVNVTGDLTGTAIVAKTE</span><span class="topo-unknown">GELE</span></span>
-<span class="topo-line"><span class="topo-unknown">KGVIA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGLYR</span><span class="topo-outside">KYIEYPVL</span><span class="topo-membrane">QKILIGLILGAIVGLI</span><span class="topo-inside">LGHYGYAHAVHTY</span><span class="topo-membrane">VKPFGDLFVRLLCMLVMPIVFASL</span><span class="topo-outside">VVGAASISPARLGRVGVKIVVYYLLTS</span><span class="topo-membrane">AFAVTLGIIMARLFNPG</span><span class="topo-inside">AGIHLAVGGQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">QFQPHQAPPL</span><span class="topo-membrane">VHILLDIVPTNPFGALANGQVLPTIFFAIIL</span><span class="topo-outside">GIAITYLMNSENEKVRKSAETLLDAINGLAEAMYKIVNG</span><span class="topo-membrane">VMQYAPIGVFALIAYVM</span><span class="topo-inside">AEQGVHV</span><span class="topo-membrane">VGELAKVTAAVYVGLT</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">LQ</span><span class="topo-outside">ILLVYFVLLKIYGIDPISFIKHAKDAMLTAFVTRSSSGTLPVTMRVAKEMGISEGIYSFTLPLGATINMD</span><span class="topo-membrane">GTALYQGVATFFIA</span><span class="topo-inside">NALGSHL</span><span class="topo-membrane">TVGQQLTIVLTAVLASIGT</span><span class="topo-outside">AGVP</span><span class="topo-membrane">GAGA</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420     </span>
+<span class="topo-line"><span class="topo-membrane">IMLCMVLHSVGLPLT</span><span class="topo-inside">DPNV</span><span class="topo-membrane">AAAYAMILGIDAILDMGR</span><span class="topo-outside">TMVNVTGDLTGTAIVAKTE</span><span class="topo-unknown">GELEKGVIA</span></span>
+<details class="topo-details"><summary>Topology coordinates (23 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2312,6 +2331,7 @@ GltPh is a sodium-coupled aspartate transporter from the archaeon Pyrococcus hor
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2327,14 +2347,15 @@ GltPh is a sodium-coupled aspartate transporter from the archaeon Pyrococcus hor
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGLYR</span><span class="topo-outside">KYIEYPV</span><span class="topo-membrane">LQKILIGLILGAIVGLI</span><span class="topo-inside">LGHYGYAHAVHTY</span><span class="topo-membrane">VKPFGDLFVRLLCMLVMP</span></span>
-<span class="topo-line"><span class="topo-membrane">IVFASL</span><span class="topo-outside">VVGAASISPARLGRVGVKIVVYYL</span><span class="topo-membrane">LTSAFAVTLGIIMARLFNPG</span><span class="topo-inside">AGIHLAVGGQ</span></span>
-<span class="topo-line"><span class="topo-inside">QFQPHQAPPL</span><span class="topo-membrane">VHILLDIVPTNPFGALANGQVLPTIFFAIIL</span><span class="topo-outside">GIAITYLMNSENEKVRKSA</span></span>
-<span class="topo-line"><span class="topo-outside">ETLLDAINGLAEAMYKIVNG</span><span class="topo-membrane">VMQYAPIGVFALIAYVM</span><span class="topo-inside">AEQGVHV</span><span class="topo-membrane">VGELAKVTAAVYVGLT</span></span>
-<span class="topo-line"><span class="topo-membrane">LQ</span><span class="topo-outside">ILLVYFVLLKIYGIDPISFIKHAKDAMLTAFVTRSSSGTLPVTMRVAKEMGISEGIYS</span></span>
-<span class="topo-line"><span class="topo-outside">FTLPLGATINMD</span><span class="topo-membrane">GTALYQGVATFFIA</span><span class="topo-inside">NALGSHLTV</span><span class="topo-membrane">GQQLTIVLTAVLASIGT</span><span class="topo-outside">AGVP</span><span class="topo-membrane">GAGA</span></span>
-<span class="topo-line"><span class="topo-membrane">IMLCMVLHSVGLPLT</span><span class="topo-inside">DPNV</span><span class="topo-membrane">AAAYAMILGIDAILDMGR</span><span class="topo-outside">TMVNVTGDLTGTAIVAKTE</span><span class="topo-unknown">GELE</span></span>
-<span class="topo-line"><span class="topo-unknown">KGVIA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGLYR</span><span class="topo-outside">KYIEYPV</span><span class="topo-membrane">LQKILIGLILGAIVGLI</span><span class="topo-inside">LGHYGYAHAVHTY</span><span class="topo-membrane">VKPFGDLFVRLLCMLVMPIVFASL</span><span class="topo-outside">VVGAASISPARLGRVGVKIVVYYL</span><span class="topo-membrane">LTSAFAVTLGIIMARLFNPG</span><span class="topo-inside">AGIHLAVGGQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">QFQPHQAPPL</span><span class="topo-membrane">VHILLDIVPTNPFGALANGQVLPTIFFAIIL</span><span class="topo-outside">GIAITYLMNSENEKVRKSAETLLDAINGLAEAMYKIVNG</span><span class="topo-membrane">VMQYAPIGVFALIAYVM</span><span class="topo-inside">AEQGVHV</span><span class="topo-membrane">VGELAKVTAAVYVGLT</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">LQ</span><span class="topo-outside">ILLVYFVLLKIYGIDPISFIKHAKDAMLTAFVTRSSSGTLPVTMRVAKEMGISEGIYSFTLPLGATINMD</span><span class="topo-membrane">GTALYQGVATFFIA</span><span class="topo-inside">NALGSHLTV</span><span class="topo-membrane">GQQLTIVLTAVLASIGT</span><span class="topo-outside">AGVP</span><span class="topo-membrane">GAGA</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420     </span>
+<span class="topo-line"><span class="topo-membrane">IMLCMVLHSVGLPLT</span><span class="topo-inside">DPNV</span><span class="topo-membrane">AAAYAMILGIDAILDMGR</span><span class="topo-outside">TMVNVTGDLTGTAIVAKTE</span><span class="topo-unknown">GELEKGVIA</span></span>
+<details class="topo-details"><summary>Topology coordinates (23 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2507,6 +2528,7 @@ GltPh is a sodium-coupled aspartate transporter from the archaeon Pyrococcus hor
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2522,14 +2544,15 @@ GltPh is a sodium-coupled aspartate transporter from the archaeon Pyrococcus hor
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGLYR</span><span class="topo-outside">KYIEYPV</span><span class="topo-membrane">LQKILIGLILGAIVGLI</span><span class="topo-inside">LGHYGYAHAVHTY</span><span class="topo-membrane">VKPFGDLFVRLLCMLVMP</span></span>
-<span class="topo-line"><span class="topo-membrane">IVFASL</span><span class="topo-outside">VVGAASISPARLGRVGVKIVVYYL</span><span class="topo-membrane">LTSAFAVTLGIIMARLFNPG</span><span class="topo-inside">AGIHLAVGGQ</span></span>
-<span class="topo-line"><span class="topo-inside">QFQPHQAPPL</span><span class="topo-membrane">VHILLDIVPTNPFGALANGQVLPTIFFAIIL</span><span class="topo-outside">GIAITYLMNSENEKVRKSA</span></span>
-<span class="topo-line"><span class="topo-outside">ETLLDAINGLAEAMYKIVNG</span><span class="topo-membrane">VMQYAPIGVFALIAYVM</span><span class="topo-inside">AEQGVHV</span><span class="topo-membrane">VGELAKVTAAVYVGLT</span></span>
-<span class="topo-line"><span class="topo-membrane">LQ</span><span class="topo-outside">ILLVYFVLLKIYGIDPISFIKHAKDAMLTAFVTRSSSGTLPVTMRVAKEMGISEGIYS</span></span>
-<span class="topo-line"><span class="topo-outside">FTLPLGATINMD</span><span class="topo-membrane">GTALYQGVATFFIA</span><span class="topo-inside">NALGSHLTV</span><span class="topo-membrane">GQQLTIVLTAVLASIGT</span><span class="topo-outside">AGVP</span><span class="topo-membrane">GAGA</span></span>
-<span class="topo-line"><span class="topo-membrane">IMLCMVLHSVGLPLT</span><span class="topo-inside">DPNV</span><span class="topo-membrane">AAAYAMILGIDAILDMGR</span><span class="topo-outside">TMVNVTGDLTGTAIVAKTE</span><span class="topo-unknown">GELE</span></span>
-<span class="topo-line"><span class="topo-unknown">KGVIA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGLYR</span><span class="topo-outside">KYIEYPV</span><span class="topo-membrane">LQKILIGLILGAIVGLI</span><span class="topo-inside">LGHYGYAHAVHTY</span><span class="topo-membrane">VKPFGDLFVRLLCMLVMPIVFASL</span><span class="topo-outside">VVGAASISPARLGRVGVKIVVYYL</span><span class="topo-membrane">LTSAFAVTLGIIMARLFNPG</span><span class="topo-inside">AGIHLAVGGQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">QFQPHQAPPL</span><span class="topo-membrane">VHILLDIVPTNPFGALANGQVLPTIFFAIIL</span><span class="topo-outside">GIAITYLMNSENEKVRKSAETLLDAINGLAEAMYKIVNG</span><span class="topo-membrane">VMQYAPIGVFALIAYVM</span><span class="topo-inside">AEQGVHV</span><span class="topo-membrane">VGELAKVTAAVYVGLT</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">LQ</span><span class="topo-outside">ILLVYFVLLKIYGIDPISFIKHAKDAMLTAFVTRSSSGTLPVTMRVAKEMGISEGIYSFTLPLGATINMD</span><span class="topo-membrane">GTALYQGVATFFIA</span><span class="topo-inside">NALGSHLTV</span><span class="topo-membrane">GQQLTIVLTAVLASIGT</span><span class="topo-outside">AGVP</span><span class="topo-membrane">GAGA</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420     </span>
+<span class="topo-line"><span class="topo-membrane">IMLCMVLHSVGLPLT</span><span class="topo-inside">DPNV</span><span class="topo-membrane">AAAYAMILGIDAILDMGR</span><span class="topo-outside">TMVNVTGDLTGTAIVAKTE</span><span class="topo-unknown">GELEKGVIA</span></span>
+<details class="topo-details"><summary>Topology coordinates (23 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2702,6 +2725,7 @@ GltPh is a sodium-coupled aspartate transporter from the archaeon Pyrococcus hor
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2752,14 +2776,15 @@ GltPh is a sodium-coupled aspartate transporter from the archaeon Pyrococcus hor
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGLYRKYIEYP</span><span class="topo-inside">VLQK</span><span class="topo-membrane">ILIGLILGAIVGLILG</span><span class="topo-outside">HYGYAHA</span><span class="topo-membrane">VHTYVKPFGDLFVRLLKMLVM</span><span class="topo-inside">P</span></span>
-<span class="topo-line"><span class="topo-inside">IVFASLVVGAASISPARLGRVGVKI</span><span class="topo-membrane">VVYYLLTSAFAVTLGIIMARLF</span><span class="topo-outside">NPGAGIHLAV</span><span class="topo-unknown">GGQ</span></span>
-<span class="topo-line"><span class="topo-unknown">QFQPHQAPP</span><span class="topo-outside">L</span><span class="topo-membrane">VHILLDIVPTNPFGALANGQVLPTIFF</span><span class="topo-inside">AIILGIAITYLMNSENEKVRKSA</span></span>
-<span class="topo-line"><span class="topo-inside">ETLLDAINGLAEAMYKIVNGVMQL</span><span class="topo-membrane">APIGVFALIAYVMAEQG</span><span class="topo-outside">VHVVGELA</span><span class="topo-membrane">KVTAAVYVGLT</span></span>
-<span class="topo-line"><span class="topo-membrane">LQILLVY</span><span class="topo-inside">FVLLKIYGID</span><span class="topo-unknown">PISFIKHA</span><span class="topo-inside">KDA</span><span class="topo-unknown">MLTAFVTRSSSGTLP</span><span class="topo-inside">VTMRVAKEMGISEGIYS</span></span>
-<span class="topo-line"><span class="topo-inside">FTL</span><span class="topo-membrane">PLGATINMDGTALYQGVC</span><span class="topo-outside">TFFIANALGSHLTVGQQ</span><span class="topo-unknown">LTIVLTVVLASIGTAGVPGAGA</span></span>
-<span class="topo-line"><span class="topo-unknown">IMLAMALH</span><span class="topo-outside">SVGLPLTDPNVAAAYAMILGI</span><span class="topo-membrane">DAILDMGRTMVNVTGD</span><span class="topo-inside">LTGTAIVAKTE</span><span class="topo-unknown">GTLV</span></span>
-<span class="topo-line"><span class="topo-unknown">PR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGLYRKYIEYP</span><span class="topo-inside">VLQK</span><span class="topo-membrane">ILIGLILGAIVGLILG</span><span class="topo-outside">HYGYAHA</span><span class="topo-membrane">VHTYVKPFGDLFVRLLKMLVM</span><span class="topo-inside">PIVFASLVVGAASISPARLGRVGVKI</span><span class="topo-membrane">VVYYLLTSAFAVTLGIIMARLF</span><span class="topo-outside">NPGAGIHLAV</span><span class="topo-unknown">GGQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-unknown">QFQPHQAPP</span><span class="topo-outside">L</span><span class="topo-membrane">VHILLDIVPTNPFGALANGQVLPTIFF</span><span class="topo-inside">AIILGIAITYLMNSENEKVRKSAETLLDAINGLAEAMYKIVNGVMQL</span><span class="topo-membrane">APIGVFALIAYVMAEQG</span><span class="topo-outside">VHVVGELA</span><span class="topo-membrane">KVTAAVYVGLT</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">LQILLVY</span><span class="topo-inside">FVLLKIYGID</span><span class="topo-unknown">PISFIKHA</span><span class="topo-inside">KDA</span><span class="topo-unknown">MLTAFVTRSSSGTLP</span><span class="topo-inside">VTMRVAKEMGISEGIYSFTL</span><span class="topo-membrane">PLGATINMDGTALYQGVC</span><span class="topo-outside">TFFIANALGSHLTVGQQ</span><span class="topo-unknown">LTIVLTVVLASIGTAGVPGAGA</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420  </span>
+<span class="topo-line"><span class="topo-unknown">IMLAMALH</span><span class="topo-outside">SVGLPLTDPNVAAAYAMILGI</span><span class="topo-membrane">DAILDMGRTMVNVTGD</span><span class="topo-inside">LTGTAIVAKTE</span><span class="topo-unknown">GTLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (24 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2939,6 +2964,7 @@ GltPh is a sodium-coupled aspartate transporter from the archaeon Pyrococcus hor
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2954,14 +2980,15 @@ GltPh is a sodium-coupled aspartate transporter from the archaeon Pyrococcus hor
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGLYRKYIEYP</span><span class="topo-inside">VLQK</span><span class="topo-membrane">ILIGLILGAIVGLILG</span><span class="topo-outside">HYGYAHA</span><span class="topo-membrane">VHTYVKPFGDLFVRLLKMLVM</span><span class="topo-inside">P</span></span>
-<span class="topo-line"><span class="topo-inside">IVFASLVVGAASISPARLGRVGVKI</span><span class="topo-membrane">VVYYLLTSAFAVTLGIIMARLF</span><span class="topo-outside">NPGAGIHLAV</span><span class="topo-unknown">GGQ</span></span>
-<span class="topo-line"><span class="topo-unknown">QFQPHQAPP</span><span class="topo-outside">L</span><span class="topo-membrane">VHILLDIVPTNPFGALANGQVLPTIFF</span><span class="topo-inside">AIILGIAITYLMNSENEKVRKSA</span></span>
-<span class="topo-line"><span class="topo-inside">ETLLDAINGLAEAMYKIVNGVMQL</span><span class="topo-membrane">APIGVFALIAYVMAEQG</span><span class="topo-outside">VHVVGELA</span><span class="topo-membrane">KVTAAVYVGLT</span></span>
-<span class="topo-line"><span class="topo-membrane">LQILLVY</span><span class="topo-inside">FVLLKIYGID</span><span class="topo-unknown">PISFIKHA</span><span class="topo-inside">KDA</span><span class="topo-unknown">MLTAFVTRSSSGTLP</span><span class="topo-inside">VTMRVAKEMGISEGIYS</span></span>
-<span class="topo-line"><span class="topo-inside">FTL</span><span class="topo-membrane">PLGATINMDGTALYQGVC</span><span class="topo-outside">TFFIANALGSHLTVGQQ</span><span class="topo-unknown">LTIVLTVVLASIGTAGVPGAGA</span></span>
-<span class="topo-line"><span class="topo-unknown">IMLAMALH</span><span class="topo-outside">SVGLPLTDPNVAAAYAMILGI</span><span class="topo-membrane">DAILDMGRTMVNVTGD</span><span class="topo-inside">LTGTAIVAKTE</span><span class="topo-unknown">GTLV</span></span>
-<span class="topo-line"><span class="topo-unknown">PR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGLYRKYIEYP</span><span class="topo-inside">VLQK</span><span class="topo-membrane">ILIGLILGAIVGLILG</span><span class="topo-outside">HYGYAHA</span><span class="topo-membrane">VHTYVKPFGDLFVRLLKMLVM</span><span class="topo-inside">PIVFASLVVGAASISPARLGRVGVKI</span><span class="topo-membrane">VVYYLLTSAFAVTLGIIMARLF</span><span class="topo-outside">NPGAGIHLAV</span><span class="topo-unknown">GGQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-unknown">QFQPHQAPP</span><span class="topo-outside">L</span><span class="topo-membrane">VHILLDIVPTNPFGALANGQVLPTIFF</span><span class="topo-inside">AIILGIAITYLMNSENEKVRKSAETLLDAINGLAEAMYKIVNGVMQL</span><span class="topo-membrane">APIGVFALIAYVMAEQG</span><span class="topo-outside">VHVVGELA</span><span class="topo-membrane">KVTAAVYVGLT</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">LQILLVY</span><span class="topo-inside">FVLLKIYGID</span><span class="topo-unknown">PISFIKHA</span><span class="topo-inside">KDA</span><span class="topo-unknown">MLTAFVTRSSSGTLP</span><span class="topo-inside">VTMRVAKEMGISEGIYSFTL</span><span class="topo-membrane">PLGATINMDGTALYQGVC</span><span class="topo-outside">TFFIANALGSHLTVGQQ</span><span class="topo-unknown">LTIVLTVVLASIGTAGVPGAGA</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420  </span>
+<span class="topo-line"><span class="topo-unknown">IMLAMALH</span><span class="topo-outside">SVGLPLTDPNVAAAYAMILGI</span><span class="topo-membrane">DAILDMGRTMVNVTGD</span><span class="topo-inside">LTGTAIVAKTE</span><span class="topo-unknown">GTLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (24 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3141,6 +3168,7 @@ GltPh is a sodium-coupled aspartate transporter from the archaeon Pyrococcus hor
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3156,14 +3184,15 @@ GltPh is a sodium-coupled aspartate transporter from the archaeon Pyrococcus hor
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGLYRKYIEYP</span><span class="topo-inside">VLQK</span><span class="topo-membrane">ILIGLILGAIVGLILG</span><span class="topo-outside">HYGYAHA</span><span class="topo-membrane">VHTYVKPFGDLFVRLLKMLVM</span><span class="topo-inside">P</span></span>
-<span class="topo-line"><span class="topo-inside">IVFASLVVGAASISPARLGRVGVKI</span><span class="topo-membrane">VVYYLLTSAFAVTLGIIMARLF</span><span class="topo-outside">NPGAGIHLAV</span><span class="topo-unknown">GGQ</span></span>
-<span class="topo-line"><span class="topo-unknown">QFQPHQAPP</span><span class="topo-outside">L</span><span class="topo-membrane">VHILLDIVPTNPFGALANGQVLPTIFF</span><span class="topo-inside">AIILGIAITYLMNSENEKVRKSA</span></span>
-<span class="topo-line"><span class="topo-inside">ETLLDAINGLAEAMYKIVNGVMQL</span><span class="topo-membrane">APIGVFALIAYVMAEQG</span><span class="topo-outside">VHVVGELA</span><span class="topo-membrane">KVTAAVYVGLT</span></span>
-<span class="topo-line"><span class="topo-membrane">LQILLVY</span><span class="topo-inside">FVLLKIYGID</span><span class="topo-unknown">PISFIKHA</span><span class="topo-inside">KDA</span><span class="topo-unknown">MLTAFVTRSSSGTLP</span><span class="topo-inside">VTMRVAKEMGISEGIYS</span></span>
-<span class="topo-line"><span class="topo-inside">FTL</span><span class="topo-membrane">PLGATINMDGTALYQGV</span><span class="topo-outside">CTFFIANALGSHLTVGQQ</span><span class="topo-unknown">LTIVLTVVLASIGTAGVPGAGA</span></span>
-<span class="topo-line"><span class="topo-unknown">IMLAMALH</span><span class="topo-outside">SVGLPLTDPNVAAAYAMILGI</span><span class="topo-membrane">DAILDMGRTMVNVTGD</span><span class="topo-inside">LTGTAIVAKTE</span><span class="topo-unknown">GTLV</span></span>
-<span class="topo-line"><span class="topo-unknown">PR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGLYRKYIEYP</span><span class="topo-inside">VLQK</span><span class="topo-membrane">ILIGLILGAIVGLILG</span><span class="topo-outside">HYGYAHA</span><span class="topo-membrane">VHTYVKPFGDLFVRLLKMLVM</span><span class="topo-inside">PIVFASLVVGAASISPARLGRVGVKI</span><span class="topo-membrane">VVYYLLTSAFAVTLGIIMARLF</span><span class="topo-outside">NPGAGIHLAV</span><span class="topo-unknown">GGQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-unknown">QFQPHQAPP</span><span class="topo-outside">L</span><span class="topo-membrane">VHILLDIVPTNPFGALANGQVLPTIFF</span><span class="topo-inside">AIILGIAITYLMNSENEKVRKSAETLLDAINGLAEAMYKIVNGVMQL</span><span class="topo-membrane">APIGVFALIAYVMAEQG</span><span class="topo-outside">VHVVGELA</span><span class="topo-membrane">KVTAAVYVGLT</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">LQILLVY</span><span class="topo-inside">FVLLKIYGID</span><span class="topo-unknown">PISFIKHA</span><span class="topo-inside">KDA</span><span class="topo-unknown">MLTAFVTRSSSGTLP</span><span class="topo-inside">VTMRVAKEMGISEGIYSFTL</span><span class="topo-membrane">PLGATINMDGTALYQGV</span><span class="topo-outside">CTFFIANALGSHLTVGQQ</span><span class="topo-unknown">LTIVLTVVLASIGTAGVPGAGA</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420  </span>
+<span class="topo-line"><span class="topo-unknown">IMLAMALH</span><span class="topo-outside">SVGLPLTDPNVAAAYAMILGI</span><span class="topo-membrane">DAILDMGRTMVNVTGD</span><span class="topo-inside">LTGTAIVAKTE</span><span class="topo-unknown">GTLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (24 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3343,6 +3372,7 @@ GltPh is a sodium-coupled aspartate transporter from the archaeon Pyrococcus hor
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3566,14 +3596,15 @@ GltPh is a sodium-coupled aspartate transporter from the archaeon Pyrococcus hor
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGLYRKYIEYP</span><span class="topo-outside">VLQK</span><span class="topo-membrane">ILIGLILGAIVGLILGHYG</span><span class="topo-inside">Y</span><span class="topo-membrane">ADAVKTYVKPFGDLFVRLLKMLVMP</span></span>
-<span class="topo-line"><span class="topo-outside">IVFASLVVGAASISPARLGRVGVKI</span><span class="topo-membrane">VVYYLLTSAFAVTLGIIMARLFNP</span><span class="topo-inside">GAGIHLAVGGQ</span></span>
-<span class="topo-line"><span class="topo-inside">QF</span><span class="topo-unknown">QPKQA</span><span class="topo-inside">P</span><span class="topo-membrane">PLVKILLDIVPTNPFGALANGQVLPTIFF</span><span class="topo-outside">AIILGIAITYLMNSENEKVRKSA</span></span>
-<span class="topo-line"><span class="topo-outside">ETLLDAINGLAEAMYKIVNGVMQY</span><span class="topo-membrane">APIGVFALIAYCMAEQGVKVV</span><span class="topo-inside">GEL</span><span class="topo-membrane">AKVTAAVYVGLT</span></span>
-<span class="topo-line"><span class="topo-membrane">LQILLVYFV</span><span class="topo-outside">LLKIYGIDPISFIKKAK</span><span class="topo-unknown">DAMLTAFVTRSSSGTLPVT</span><span class="topo-outside">MRVAKEMGISEGIYS</span></span>
-<span class="topo-line"><span class="topo-outside">FT</span><span class="topo-membrane">LPLGATINMDGTALYQGVSTFF</span><span class="topo-inside">IANALGSHLT</span><span class="topo-unknown">VGQQLTIVLTAVLASIGTAGVPGAGA</span></span>
-<span class="topo-line"><span class="topo-unknown">IMLAMV</span><span class="topo-inside">LESVGLPLTDPNVAAAYAMI</span><span class="topo-membrane">LGIDCILDMGRTMVNVTGDLTG</span><span class="topo-outside">TAIVAKTE</span><span class="topo-unknown">GTLV</span></span>
-<span class="topo-line"><span class="topo-unknown">PR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGLYRKYIEYP</span><span class="topo-outside">VLQK</span><span class="topo-membrane">ILIGLILGAIVGLILGHYG</span><span class="topo-inside">Y</span><span class="topo-membrane">ADAVKTYVKPFGDLFVRLLKMLVMP</span><span class="topo-outside">IVFASLVVGAASISPARLGRVGVKI</span><span class="topo-membrane">VVYYLLTSAFAVTLGIIMARLFNP</span><span class="topo-inside">GAGIHLAVGGQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">QF</span><span class="topo-unknown">QPKQA</span><span class="topo-inside">P</span><span class="topo-membrane">PLVKILLDIVPTNPFGALANGQVLPTIFF</span><span class="topo-outside">AIILGIAITYLMNSENEKVRKSAETLLDAINGLAEAMYKIVNGVMQY</span><span class="topo-membrane">APIGVFALIAYCMAEQGVKVV</span><span class="topo-inside">GEL</span><span class="topo-membrane">AKVTAAVYVGLT</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">LQILLVYFV</span><span class="topo-outside">LLKIYGIDPISFIKKAK</span><span class="topo-unknown">DAMLTAFVTRSSSGTLPVT</span><span class="topo-outside">MRVAKEMGISEGIYSFT</span><span class="topo-membrane">LPLGATINMDGTALYQGVSTFF</span><span class="topo-inside">IANALGSHLT</span><span class="topo-unknown">VGQQLTIVLTAVLASIGTAGVPGAGA</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420  </span>
+<span class="topo-line"><span class="topo-unknown">IMLAMV</span><span class="topo-inside">LESVGLPLTDPNVAAAYAMI</span><span class="topo-membrane">LGIDCILDMGRTMVNVTGDLTG</span><span class="topo-outside">TAIVAKTE</span><span class="topo-unknown">GTLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (25 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3760,6 +3791,7 @@ GltPh is a sodium-coupled aspartate transporter from the archaeon Pyrococcus hor
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3775,14 +3807,15 @@ GltPh is a sodium-coupled aspartate transporter from the archaeon Pyrococcus hor
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGLYRKYIEYP</span><span class="topo-outside">VLQK</span><span class="topo-membrane">ILIGLILGAIVGLILGHYG</span><span class="topo-inside">Y</span><span class="topo-membrane">ADAVKTYVKPFGDLFVRLLKMLVMP</span></span>
-<span class="topo-line"><span class="topo-outside">IVFASLVVGAASISPARLGRVG</span><span class="topo-membrane">VKIVVYYLLTSAFAVTLGIIMARLFNP</span><span class="topo-inside">GAGIHLAVGGQ</span></span>
-<span class="topo-line"><span class="topo-inside">QF</span><span class="topo-unknown">QPKQA</span><span class="topo-inside">P</span><span class="topo-membrane">PLVKILLDIVPTNPFGALANGQVLPTIFF</span><span class="topo-outside">AIILGIAITYLMNSENEKVRKSA</span></span>
-<span class="topo-line"><span class="topo-outside">ETLLDAINGLAEAMYKIVNGVMQY</span><span class="topo-membrane">APIGVFALIAYCMAEQGVKVV</span><span class="topo-inside">GEL</span><span class="topo-membrane">AKVTAAVYVGLT</span></span>
-<span class="topo-line"><span class="topo-membrane">LQILLVYFVL</span><span class="topo-outside">LKIYGIDPISFIKKAK</span><span class="topo-unknown">DAMLTAFVTRSSSGTLPVT</span><span class="topo-outside">MRVAKEMGISEGIYS</span></span>
-<span class="topo-line"><span class="topo-outside">FT</span><span class="topo-membrane">LPLGATINMDGTALYQGVSTF</span><span class="topo-inside">FIANALGSHLTV</span><span class="topo-unknown">GQQLTIVLTAVLASIGTAGVPGAGA</span></span>
-<span class="topo-line"><span class="topo-unknown">IMLAMV</span><span class="topo-inside">LESVGLPLTDPNVAAAYAMI</span><span class="topo-membrane">LGIDCILDMGRTMVNVTGDLTG</span><span class="topo-outside">TAIVAKTE</span><span class="topo-unknown">GTLV</span></span>
-<span class="topo-line"><span class="topo-unknown">PR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGLYRKYIEYP</span><span class="topo-outside">VLQK</span><span class="topo-membrane">ILIGLILGAIVGLILGHYG</span><span class="topo-inside">Y</span><span class="topo-membrane">ADAVKTYVKPFGDLFVRLLKMLVMP</span><span class="topo-outside">IVFASLVVGAASISPARLGRVG</span><span class="topo-membrane">VKIVVYYLLTSAFAVTLGIIMARLFNP</span><span class="topo-inside">GAGIHLAVGGQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">QF</span><span class="topo-unknown">QPKQA</span><span class="topo-inside">P</span><span class="topo-membrane">PLVKILLDIVPTNPFGALANGQVLPTIFF</span><span class="topo-outside">AIILGIAITYLMNSENEKVRKSAETLLDAINGLAEAMYKIVNGVMQY</span><span class="topo-membrane">APIGVFALIAYCMAEQGVKVV</span><span class="topo-inside">GEL</span><span class="topo-membrane">AKVTAAVYVGLT</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">LQILLVYFVL</span><span class="topo-outside">LKIYGIDPISFIKKAK</span><span class="topo-unknown">DAMLTAFVTRSSSGTLPVT</span><span class="topo-outside">MRVAKEMGISEGIYSFT</span><span class="topo-membrane">LPLGATINMDGTALYQGVSTF</span><span class="topo-inside">FIANALGSHLTV</span><span class="topo-unknown">GQQLTIVLTAVLASIGTAGVPGAGA</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420  </span>
+<span class="topo-line"><span class="topo-unknown">IMLAMV</span><span class="topo-inside">LESVGLPLTDPNVAAAYAMI</span><span class="topo-membrane">LGIDCILDMGRTMVNVTGDLTG</span><span class="topo-outside">TAIVAKTE</span><span class="topo-unknown">GTLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (25 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3969,6 +4002,7 @@ GltPh is a sodium-coupled aspartate transporter from the archaeon Pyrococcus hor
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3984,14 +4018,15 @@ GltPh is a sodium-coupled aspartate transporter from the archaeon Pyrococcus hor
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGLYRKYIEYP</span><span class="topo-outside">VLQK</span><span class="topo-membrane">ILIGLILGAIVGLILGHYG</span><span class="topo-inside">Y</span><span class="topo-membrane">ADAVKTYVKPFGDLFVRLLKMLVMP</span></span>
-<span class="topo-line"><span class="topo-outside">IVFASLVVGAASISPARLGRVGVKI</span><span class="topo-membrane">VVYYLLTSAFAVTLGIIMARLFNP</span><span class="topo-inside">GAGIHLAVGGQ</span></span>
-<span class="topo-line"><span class="topo-inside">QF</span><span class="topo-unknown">QPKQA</span><span class="topo-inside">P</span><span class="topo-membrane">PLVKILLDIVPTNPFGALANGQVLPTIFF</span><span class="topo-outside">AIILGIAITYLMNSENEKVRKSA</span></span>
-<span class="topo-line"><span class="topo-outside">ETLLDAINGLAEAMYKIVNGVMQY</span><span class="topo-membrane">APIGVFALIAYCMAEQGVKVV</span><span class="topo-inside">GEL</span><span class="topo-membrane">AKVTAAVYVGLT</span></span>
-<span class="topo-line"><span class="topo-membrane">LQILLVYFV</span><span class="topo-outside">LLKIYGIDPISFIKKAK</span><span class="topo-unknown">DAMLTAFVTRSSSGTLPVT</span><span class="topo-outside">MRVAKEMGISEGIYS</span></span>
-<span class="topo-line"><span class="topo-outside">FT</span><span class="topo-membrane">LPLGATINMDGTALYQGVSTFF</span><span class="topo-inside">IANALGSHLTV</span><span class="topo-unknown">GQQLTIVLTAVLASIGTAGVPGAGA</span></span>
-<span class="topo-line"><span class="topo-unknown">IMLAMV</span><span class="topo-inside">LESVGLPLTDPNVAAAYAMI</span><span class="topo-membrane">LGIDCILDMGRTMVNVTGDLTG</span><span class="topo-outside">TAIVAKTE</span><span class="topo-unknown">GTLV</span></span>
-<span class="topo-line"><span class="topo-unknown">PR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGLYRKYIEYP</span><span class="topo-outside">VLQK</span><span class="topo-membrane">ILIGLILGAIVGLILGHYG</span><span class="topo-inside">Y</span><span class="topo-membrane">ADAVKTYVKPFGDLFVRLLKMLVMP</span><span class="topo-outside">IVFASLVVGAASISPARLGRVGVKI</span><span class="topo-membrane">VVYYLLTSAFAVTLGIIMARLFNP</span><span class="topo-inside">GAGIHLAVGGQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">QF</span><span class="topo-unknown">QPKQA</span><span class="topo-inside">P</span><span class="topo-membrane">PLVKILLDIVPTNPFGALANGQVLPTIFF</span><span class="topo-outside">AIILGIAITYLMNSENEKVRKSAETLLDAINGLAEAMYKIVNGVMQY</span><span class="topo-membrane">APIGVFALIAYCMAEQGVKVV</span><span class="topo-inside">GEL</span><span class="topo-membrane">AKVTAAVYVGLT</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">LQILLVYFV</span><span class="topo-outside">LLKIYGIDPISFIKKAK</span><span class="topo-unknown">DAMLTAFVTRSSSGTLPVT</span><span class="topo-outside">MRVAKEMGISEGIYSFT</span><span class="topo-membrane">LPLGATINMDGTALYQGVSTFF</span><span class="topo-inside">IANALGSHLTV</span><span class="topo-unknown">GQQLTIVLTAVLASIGTAGVPGAGA</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420  </span>
+<span class="topo-line"><span class="topo-unknown">IMLAMV</span><span class="topo-inside">LESVGLPLTDPNVAAAYAMI</span><span class="topo-membrane">LGIDCILDMGRTMVNVTGDLTG</span><span class="topo-outside">TAIVAKTE</span><span class="topo-unknown">GTLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (25 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4178,6 +4213,7 @@ GltPh is a sodium-coupled aspartate transporter from the archaeon Pyrococcus hor
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4193,14 +4229,15 @@ GltPh is a sodium-coupled aspartate transporter from the archaeon Pyrococcus hor
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGLYR</span><span class="topo-outside">KYIEYPVLQ</span><span class="topo-membrane">KILIGLILGAIVGL</span><span class="topo-inside">ILGHYGYADAVKTY</span><span class="topo-membrane">VKPFGDLFVRLLKMLVMP</span></span>
-<span class="topo-line"><span class="topo-membrane">IVF</span><span class="topo-outside">ASLVVGAASISPARLGRVGVKIVVYYLLTS</span><span class="topo-membrane">AFAVTLGIIMARLFNPG</span><span class="topo-inside">AGIHLAVGGQ</span></span>
-<span class="topo-line"><span class="topo-inside">QFQPKQAPPLV</span><span class="topo-membrane">KILLDIVPTNPFGALANGQVLPTIFFAII</span><span class="topo-outside">LGIAITYLMNSEN</span><span class="topo-unknown">EKVRKSA</span></span>
-<span class="topo-line"><span class="topo-unknown">ETLLDAINGLAEAMYKIVNGV</span><span class="topo-membrane">MQYAPIGVFALIAYCM</span><span class="topo-inside">AEQGVKV</span><span class="topo-membrane">VGELAKVTAAVYVGLT</span></span>
-<span class="topo-line"><span class="topo-membrane">LQ</span><span class="topo-outside">ILLVYFVLLKIYGIDPISFIKKAKDAMLTAFVTRSSSGTLPVTMRVAKEMGISEGIYS</span></span>
-<span class="topo-line"><span class="topo-outside">FTLPLGATINMD</span><span class="topo-membrane">GTALYQGVSTFFI</span><span class="topo-inside">ANALGSHLTV</span><span class="topo-membrane">GQQLTIVLTAVLAS</span><span class="topo-outside">IGTAGVPG</span><span class="topo-membrane">AGA</span></span>
-<span class="topo-line"><span class="topo-membrane">IMLAMVLESVGLPLT</span><span class="topo-inside">DPNV</span><span class="topo-membrane">AAAYAMILCIDAILD</span><span class="topo-outside">MGRTMVNVTGDLTGTAIVAKTE</span><span class="topo-unknown">GTLV</span></span>
-<span class="topo-line"><span class="topo-unknown">PR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGLYR</span><span class="topo-outside">KYIEYPVLQ</span><span class="topo-membrane">KILIGLILGAIVGL</span><span class="topo-inside">ILGHYGYADAVKTY</span><span class="topo-membrane">VKPFGDLFVRLLKMLVMPIVF</span><span class="topo-outside">ASLVVGAASISPARLGRVGVKIVVYYLLTS</span><span class="topo-membrane">AFAVTLGIIMARLFNPG</span><span class="topo-inside">AGIHLAVGGQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">QFQPKQAPPLV</span><span class="topo-membrane">KILLDIVPTNPFGALANGQVLPTIFFAII</span><span class="topo-outside">LGIAITYLMNSEN</span><span class="topo-unknown">EKVRKSAETLLDAINGLAEAMYKIVNGV</span><span class="topo-membrane">MQYAPIGVFALIAYCM</span><span class="topo-inside">AEQGVKV</span><span class="topo-membrane">VGELAKVTAAVYVGLT</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">LQ</span><span class="topo-outside">ILLVYFVLLKIYGIDPISFIKKAKDAMLTAFVTRSSSGTLPVTMRVAKEMGISEGIYSFTLPLGATINMD</span><span class="topo-membrane">GTALYQGVSTFFI</span><span class="topo-inside">ANALGSHLTV</span><span class="topo-membrane">GQQLTIVLTAVLAS</span><span class="topo-outside">IGTAGVPG</span><span class="topo-membrane">AGA</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420  </span>
+<span class="topo-line"><span class="topo-membrane">IMLAMVLESVGLPLT</span><span class="topo-inside">DPNV</span><span class="topo-membrane">AAAYAMILCIDAILD</span><span class="topo-outside">MGRTMVNVTGDLTGTAIVAKTE</span><span class="topo-unknown">GTLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (22 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4366,6 +4403,7 @@ GltPh is a sodium-coupled aspartate transporter from the archaeon Pyrococcus hor
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4381,14 +4419,15 @@ GltPh is a sodium-coupled aspartate transporter from the archaeon Pyrococcus hor
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGLYR</span><span class="topo-outside">KYIEYPVLQK</span><span class="topo-membrane">ILIGLILGAIVGLI</span><span class="topo-inside">LGHYGYADAVKTY</span><span class="topo-membrane">VKPFGDLFVRLLKMLVMP</span></span>
-<span class="topo-line"><span class="topo-membrane">IVF</span><span class="topo-outside">ASLVVGAASISPARLGRVGVKIVVYYLLTSA</span><span class="topo-membrane">FAVTLGIIMARLFNPG</span><span class="topo-inside">AGIHLAVGGQ</span></span>
-<span class="topo-line"><span class="topo-inside">QFQPKQAPPL</span><span class="topo-membrane">VKILLDIVPTNPFGALANGQVLPTIFFAII</span><span class="topo-outside">LGIAITYLMNSEN</span><span class="topo-unknown">EKVRKSA</span></span>
-<span class="topo-line"><span class="topo-unknown">ETLLDAINGLAEAMYKIVNGV</span><span class="topo-membrane">MQYAPIGVFALIAYCM</span><span class="topo-inside">AEQGVKV</span><span class="topo-membrane">VGELAKVTAAVYVGL</span><span class="topo-outside">T</span></span>
-<span class="topo-line"><span class="topo-outside">LQILLVYFVLLKIYGIDPISFIKKAKDAMLTAFVTRSSSGTLPVTMRVAKEMGISEGIYS</span></span>
-<span class="topo-line"><span class="topo-outside">FTLPLGATINMDG</span><span class="topo-membrane">TALYQGVSTFFIAN</span><span class="topo-inside">ALGSHL</span><span class="topo-membrane">TVGQQLTIVLTAVLAS</span><span class="topo-outside">IGTAGVPG</span><span class="topo-membrane">AGA</span></span>
-<span class="topo-line"><span class="topo-membrane">IMLAMVLESVGLPLT</span><span class="topo-inside">DPNV</span><span class="topo-membrane">AAAYAMILCIDAILD</span><span class="topo-outside">MGRTMVNVTGDLTGTAIVAKTE</span><span class="topo-unknown">GTLV</span></span>
-<span class="topo-line"><span class="topo-unknown">PR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGLYR</span><span class="topo-outside">KYIEYPVLQK</span><span class="topo-membrane">ILIGLILGAIVGLI</span><span class="topo-inside">LGHYGYADAVKTY</span><span class="topo-membrane">VKPFGDLFVRLLKMLVMPIVF</span><span class="topo-outside">ASLVVGAASISPARLGRVGVKIVVYYLLTSA</span><span class="topo-membrane">FAVTLGIIMARLFNPG</span><span class="topo-inside">AGIHLAVGGQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">QFQPKQAPPL</span><span class="topo-membrane">VKILLDIVPTNPFGALANGQVLPTIFFAII</span><span class="topo-outside">LGIAITYLMNSEN</span><span class="topo-unknown">EKVRKSAETLLDAINGLAEAMYKIVNGV</span><span class="topo-membrane">MQYAPIGVFALIAYCM</span><span class="topo-inside">AEQGVKV</span><span class="topo-membrane">VGELAKVTAAVYVGL</span><span class="topo-outside">T</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">LQILLVYFVLLKIYGIDPISFIKKAKDAMLTAFVTRSSSGTLPVTMRVAKEMGISEGIYSFTLPLGATINMDG</span><span class="topo-membrane">TALYQGVSTFFIAN</span><span class="topo-inside">ALGSHL</span><span class="topo-membrane">TVGQQLTIVLTAVLAS</span><span class="topo-outside">IGTAGVPG</span><span class="topo-membrane">AGA</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420  </span>
+<span class="topo-line"><span class="topo-membrane">IMLAMVLESVGLPLT</span><span class="topo-inside">DPNV</span><span class="topo-membrane">AAAYAMILCIDAILD</span><span class="topo-outside">MGRTMVNVTGDLTGTAIVAKTE</span><span class="topo-unknown">GTLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (22 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4554,6 +4593,7 @@ GltPh is a sodium-coupled aspartate transporter from the archaeon Pyrococcus hor
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4569,14 +4609,15 @@ GltPh is a sodium-coupled aspartate transporter from the archaeon Pyrococcus hor
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGLYR</span><span class="topo-outside">KYIEYPVLQ</span><span class="topo-membrane">KILIGLILGAIVG</span><span class="topo-inside">LILGHYGYADAVKTY</span><span class="topo-membrane">VKPFGDLFVRLLKMLVMP</span></span>
-<span class="topo-line"><span class="topo-membrane">IVF</span><span class="topo-outside">ASLVVGAASISPARLGRVGVKIVVYYLLTS</span><span class="topo-membrane">AFAVTLGIIMARLFNPG</span><span class="topo-inside">AGIHLAVGGQ</span></span>
-<span class="topo-line"><span class="topo-inside">QFQPKQAPPL</span><span class="topo-membrane">VKILLDIVPTNPFGALANGQVLPTIFFAII</span><span class="topo-outside">LGIAITYLMNSEN</span><span class="topo-unknown">EKVRKSA</span></span>
-<span class="topo-line"><span class="topo-unknown">ETLLDAINGLAEAMYKIVNG</span><span class="topo-membrane">VMQYAPIGVFALIAYCM</span><span class="topo-inside">AEQGVKV</span><span class="topo-membrane">VGELAKVTAAVYVGLT</span></span>
-<span class="topo-line"><span class="topo-membrane">LQ</span><span class="topo-outside">ILLVYFVLLKIYGIDPISFIKKAKDAMLTAFVTRSSSGTLPVTMRVAKEMGISEGIYS</span></span>
-<span class="topo-line"><span class="topo-outside">FTLPLGATINMDG</span><span class="topo-membrane">TALYQGVSTFFIA</span><span class="topo-inside">NALGSHLTV</span><span class="topo-membrane">GQQLTIVLTAVLAS</span><span class="topo-outside">IGTAGVPG</span><span class="topo-membrane">AGA</span></span>
-<span class="topo-line"><span class="topo-membrane">IMLAMVLESVGLPLT</span><span class="topo-inside">DPNV</span><span class="topo-membrane">AAAYAMILCIDAILD</span><span class="topo-outside">MGRTMVNVTGDLTGTAIVAKTE</span><span class="topo-unknown">GTLV</span></span>
-<span class="topo-line"><span class="topo-unknown">PR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGLYR</span><span class="topo-outside">KYIEYPVLQ</span><span class="topo-membrane">KILIGLILGAIVG</span><span class="topo-inside">LILGHYGYADAVKTY</span><span class="topo-membrane">VKPFGDLFVRLLKMLVMPIVF</span><span class="topo-outside">ASLVVGAASISPARLGRVGVKIVVYYLLTS</span><span class="topo-membrane">AFAVTLGIIMARLFNPG</span><span class="topo-inside">AGIHLAVGGQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">QFQPKQAPPL</span><span class="topo-membrane">VKILLDIVPTNPFGALANGQVLPTIFFAII</span><span class="topo-outside">LGIAITYLMNSEN</span><span class="topo-unknown">EKVRKSAETLLDAINGLAEAMYKIVNG</span><span class="topo-membrane">VMQYAPIGVFALIAYCM</span><span class="topo-inside">AEQGVKV</span><span class="topo-membrane">VGELAKVTAAVYVGLT</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">LQ</span><span class="topo-outside">ILLVYFVLLKIYGIDPISFIKKAKDAMLTAFVTRSSSGTLPVTMRVAKEMGISEGIYSFTLPLGATINMDG</span><span class="topo-membrane">TALYQGVSTFFIA</span><span class="topo-inside">NALGSHLTV</span><span class="topo-membrane">GQQLTIVLTAVLAS</span><span class="topo-outside">IGTAGVPG</span><span class="topo-membrane">AGA</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420  </span>
+<span class="topo-line"><span class="topo-membrane">IMLAMVLESVGLPLT</span><span class="topo-inside">DPNV</span><span class="topo-membrane">AAAYAMILCIDAILD</span><span class="topo-outside">MGRTMVNVTGDLTGTAIVAKTE</span><span class="topo-unknown">GTLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (22 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4742,6 +4783,7 @@ GltPh is a sodium-coupled aspartate transporter from the archaeon Pyrococcus hor
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4757,14 +4799,15 @@ GltPh is a sodium-coupled aspartate transporter from the archaeon Pyrococcus hor
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGLYR</span><span class="topo-inside">KYIEYPV</span><span class="topo-membrane">LQKILIGLILGAIVGLIL</span><span class="topo-outside">GHYGYA</span><span class="topo-membrane">DAVKTYVKPFGDLFVRLLKM</span><span class="topo-inside">LVMP</span></span>
-<span class="topo-line"><span class="topo-inside">IVFASLVVGAASISPARLGRVGVKIVVYYL</span><span class="topo-membrane">LTSAFAVTLGIIMARLFNP</span><span class="topo-outside">GAGIH</span><span class="topo-unknown">LAVGGQ</span></span>
-<span class="topo-line"><span class="topo-unknown">QFQPKQAP</span><span class="topo-inside">PLVKILLDIVPTNPFGALANGQVCPTIFFAIILGIAITYLMNSENEKVRKSA</span></span>
-<span class="topo-line"><span class="topo-inside">ETLLDAINGLAEAMYKIVNGV</span><span class="topo-membrane">MQYAPIGVFALIAYVMAEQ</span><span class="topo-outside">GVKVVGEL</span><span class="topo-membrane">AKVTAAVYVGLT</span></span>
-<span class="topo-line"><span class="topo-membrane">LQILLVYFV</span><span class="topo-inside">LLKIYGID</span><span class="topo-unknown">PISFIKKAKDAMLTAFVT</span><span class="topo-inside">RSSSGTLPVTMRVAKEMGISEGIYS</span></span>
-<span class="topo-line"><span class="topo-inside">FTLPLGAT</span><span class="topo-membrane">INMDGTALYQGVSTFFIAN</span><span class="topo-outside">ALGS</span><span class="topo-membrane">HLTVGQQLTIVLTAVLASICT</span><span class="topo-inside">A</span><span class="topo-membrane">GVPGAGA</span></span>
-<span class="topo-line"><span class="topo-membrane">IMLAMVLESVGLPLT</span><span class="topo-outside">D</span><span class="topo-unknown">PNVAAA</span><span class="topo-membrane">YAMILGIDAILDMGRTMVNVTG</span><span class="topo-inside">DLTGTAIVAKTE</span><span class="topo-unknown">GTLV</span></span>
-<span class="topo-line"><span class="topo-unknown">PR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGLYR</span><span class="topo-inside">KYIEYPV</span><span class="topo-membrane">LQKILIGLILGAIVGLIL</span><span class="topo-outside">GHYGYA</span><span class="topo-membrane">DAVKTYVKPFGDLFVRLLKM</span><span class="topo-inside">LVMPIVFASLVVGAASISPARLGRVGVKIVVYYL</span><span class="topo-membrane">LTSAFAVTLGIIMARLFNP</span><span class="topo-outside">GAGIH</span><span class="topo-unknown">LAVGGQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-unknown">QFQPKQAP</span><span class="topo-inside">PLVKILLDIVPTNPFGALANGQVCPTIFFAIILGIAITYLMNSENEKVRKSAETLLDAINGLAEAMYKIVNGV</span><span class="topo-membrane">MQYAPIGVFALIAYVMAEQ</span><span class="topo-outside">GVKVVGEL</span><span class="topo-membrane">AKVTAAVYVGLT</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">LQILLVYFV</span><span class="topo-inside">LLKIYGID</span><span class="topo-unknown">PISFIKKAKDAMLTAFVT</span><span class="topo-inside">RSSSGTLPVTMRVAKEMGISEGIYSFTLPLGAT</span><span class="topo-membrane">INMDGTALYQGVSTFFIAN</span><span class="topo-outside">ALGS</span><span class="topo-membrane">HLTVGQQLTIVLTAVLASICT</span><span class="topo-inside">A</span><span class="topo-membrane">GVPGAGA</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420  </span>
+<span class="topo-line"><span class="topo-membrane">IMLAMVLESVGLPLT</span><span class="topo-outside">D</span><span class="topo-unknown">PNVAAA</span><span class="topo-membrane">YAMILGIDAILDMGRTMVNVTG</span><span class="topo-inside">DLTGTAIVAKTE</span><span class="topo-unknown">GTLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (23 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4937,6 +4980,7 @@ GltPh is a sodium-coupled aspartate transporter from the archaeon Pyrococcus hor
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4952,14 +4996,15 @@ GltPh is a sodium-coupled aspartate transporter from the archaeon Pyrococcus hor
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MG</span><span class="topo-inside">LYRKYIEYPVLQ</span><span class="topo-membrane">KILIGLILGAIVGLIL</span><span class="topo-outside">GHYGYADAVKTY</span><span class="topo-membrane">VKPFGDLFVRLLKMLVMP</span></span>
-<span class="topo-line"><span class="topo-membrane">IVFASLV</span><span class="topo-unknown">VGAASISPAR</span><span class="topo-inside">LGRVGVKIV</span><span class="topo-membrane">VYYLLTSAFAVTLGIIMARLFNPG</span><span class="topo-outside">AGIHLAVGGQ</span></span>
-<span class="topo-line"><span class="topo-outside">QFQPKQAPPLVKI</span><span class="topo-membrane">LLDIVPTNPFGALANGQVCPTIFFAIILGIA</span><span class="topo-inside">ITYLMNSEN</span><span class="topo-unknown">EKVRKSA</span></span>
-<span class="topo-line"><span class="topo-unknown">ETLLDAINGLAEAMYKI</span><span class="topo-membrane">VNGVMQYAPIGVFALIAYVMA</span><span class="topo-outside">EQG</span><span class="topo-membrane">VKVVGELAKVTAAVYVGLT</span></span>
-<span class="topo-line"><span class="topo-membrane">LQILLV</span><span class="topo-inside">YFVLLKIYGID</span><span class="topo-unknown">PISFIKKAKDAMLTAFVT</span><span class="topo-inside">RSSSGTLPVTMRVAKEMGISEGIYS</span></span>
-<span class="topo-line"><span class="topo-inside">FTLPLGAT</span><span class="topo-membrane">INMDGTALYQGVSTFFI</span><span class="topo-outside">ANALGSHLTVGQQ</span><span class="topo-membrane">LTIVLTAVLASICTAGV</span><span class="topo-inside">P</span><span class="topo-membrane">GAGA</span></span>
-<span class="topo-line"><span class="topo-membrane">IMLAMVLES</span><span class="topo-outside">VGLPLTDPNVAAA</span><span class="topo-membrane">YAMILGIDAILDMGRT</span><span class="topo-inside">MVNVTGDLTGTAIVAKTE</span><span class="topo-unknown">GTLV</span></span>
-<span class="topo-line"><span class="topo-unknown">PR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MG</span><span class="topo-inside">LYRKYIEYPVLQ</span><span class="topo-membrane">KILIGLILGAIVGLIL</span><span class="topo-outside">GHYGYADAVKTY</span><span class="topo-membrane">VKPFGDLFVRLLKMLVMPIVFASLV</span><span class="topo-unknown">VGAASISPAR</span><span class="topo-inside">LGRVGVKIV</span><span class="topo-membrane">VYYLLTSAFAVTLGIIMARLFNPG</span><span class="topo-outside">AGIHLAVGGQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">QFQPKQAPPLVKI</span><span class="topo-membrane">LLDIVPTNPFGALANGQVCPTIFFAIILGIA</span><span class="topo-inside">ITYLMNSEN</span><span class="topo-unknown">EKVRKSAETLLDAINGLAEAMYKI</span><span class="topo-membrane">VNGVMQYAPIGVFALIAYVMA</span><span class="topo-outside">EQG</span><span class="topo-membrane">VKVVGELAKVTAAVYVGLT</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">LQILLV</span><span class="topo-inside">YFVLLKIYGID</span><span class="topo-unknown">PISFIKKAKDAMLTAFVT</span><span class="topo-inside">RSSSGTLPVTMRVAKEMGISEGIYSFTLPLGAT</span><span class="topo-membrane">INMDGTALYQGVSTFFI</span><span class="topo-outside">ANALGSHLTVGQQ</span><span class="topo-membrane">LTIVLTAVLASICTAGV</span><span class="topo-inside">P</span><span class="topo-membrane">GAGA</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420  </span>
+<span class="topo-line"><span class="topo-membrane">IMLAMVLES</span><span class="topo-outside">VGLPLTDPNVAAA</span><span class="topo-membrane">YAMILGIDAILDMGRT</span><span class="topo-inside">MVNVTGDLTGTAIVAKTE</span><span class="topo-unknown">GTLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (25 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -5146,6 +5191,7 @@ GltPh is a sodium-coupled aspartate transporter from the archaeon Pyrococcus hor
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -5161,14 +5207,15 @@ GltPh is a sodium-coupled aspartate transporter from the archaeon Pyrococcus hor
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGLYR</span><span class="topo-outside">KYIEYPV</span><span class="topo-membrane">LQKILIGLILGAIVGLILG</span><span class="topo-inside">HYGYADA</span><span class="topo-membrane">VKTYVKPFGDLFVRLLKMLVMP</span></span>
-<span class="topo-line"><span class="topo-membrane">IVFASL</span><span class="topo-outside">VVGAASISPARLGRVG</span><span class="topo-membrane">VKIVVYYLLTSAFAVTLGIIMARLF</span><span class="topo-inside">NPGAGIH</span><span class="topo-unknown">LAVGGQ</span></span>
-<span class="topo-line"><span class="topo-unknown">QFQPKQAP</span><span class="topo-inside">P</span><span class="topo-membrane">LVKILLDIVPTNPFGALANGQVCPTIFFAIIL</span><span class="topo-outside">GIAITYLMNSEN</span><span class="topo-unknown">EKVRKSA</span></span>
-<span class="topo-line"><span class="topo-unknown">ETLLDAINGLAEAMYKI</span><span class="topo-membrane">VNGVMQYAPIGVFALIAYVMAEQ</span><span class="topo-inside">GVK</span><span class="topo-unknown">VVGELA</span><span class="topo-membrane">KVTAAVYVGLT</span></span>
-<span class="topo-line"><span class="topo-membrane">LQILLVYFVLLKI</span><span class="topo-outside">YGID</span><span class="topo-unknown">PISFIKKAKDAMLTAFVTRSSSGTLPVT</span><span class="topo-outside">MRVAKEMGISEGIYS</span></span>
-<span class="topo-line"><span class="topo-outside">FT</span><span class="topo-membrane">LPLGATINMDGTALYQGVST</span><span class="topo-inside">FFIANALGSHLTVGQQ</span><span class="topo-unknown">LTIVLTAVLASICTAGVPGAGA</span></span>
-<span class="topo-line"><span class="topo-unknown">IMLAMV</span><span class="topo-inside">LESVGLPLTDPNVAAAYAMIL</span><span class="topo-membrane">GIDAILDMGRTMVNVTGDLTGT</span><span class="topo-outside">AIVAKTE</span><span class="topo-unknown">GTLV</span></span>
-<span class="topo-line"><span class="topo-unknown">PR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGLYR</span><span class="topo-outside">KYIEYPV</span><span class="topo-membrane">LQKILIGLILGAIVGLILG</span><span class="topo-inside">HYGYADA</span><span class="topo-membrane">VKTYVKPFGDLFVRLLKMLVMPIVFASL</span><span class="topo-outside">VVGAASISPARLGRVG</span><span class="topo-membrane">VKIVVYYLLTSAFAVTLGIIMARLF</span><span class="topo-inside">NPGAGIH</span><span class="topo-unknown">LAVGGQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-unknown">QFQPKQAP</span><span class="topo-inside">P</span><span class="topo-membrane">LVKILLDIVPTNPFGALANGQVCPTIFFAIIL</span><span class="topo-outside">GIAITYLMNSEN</span><span class="topo-unknown">EKVRKSAETLLDAINGLAEAMYKI</span><span class="topo-membrane">VNGVMQYAPIGVFALIAYVMAEQ</span><span class="topo-inside">GVK</span><span class="topo-unknown">VVGELA</span><span class="topo-membrane">KVTAAVYVGLT</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">LQILLVYFVLLKI</span><span class="topo-outside">YGID</span><span class="topo-unknown">PISFIKKAKDAMLTAFVTRSSSGTLPVT</span><span class="topo-outside">MRVAKEMGISEGIYSFT</span><span class="topo-membrane">LPLGATINMDGTALYQGVST</span><span class="topo-inside">FFIANALGSHLTVGQQ</span><span class="topo-unknown">LTIVLTAVLASICTAGVPGAGA</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420  </span>
+<span class="topo-line"><span class="topo-unknown">IMLAMV</span><span class="topo-inside">LESVGLPLTDPNVAAAYAMIL</span><span class="topo-membrane">GIDAILDMGRTMVNVTGDLTGT</span><span class="topo-outside">AIVAKTE</span><span class="topo-unknown">GTLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (25 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -5355,6 +5402,7 @@ GltPh is a sodium-coupled aspartate transporter from the archaeon Pyrococcus hor
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -5370,14 +5418,15 @@ GltPh is a sodium-coupled aspartate transporter from the archaeon Pyrococcus hor
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGLYR</span><span class="topo-outside">KYIEYPV</span><span class="topo-membrane">LQKILIGLILGAIVGLILG</span><span class="topo-inside">HYGYADA</span><span class="topo-membrane">VKTYVKPFGDLFVRLLKMLVMP</span></span>
-<span class="topo-line"><span class="topo-membrane">IVFASL</span><span class="topo-outside">VVGAASISPARLGRVG</span><span class="topo-membrane">VKIVVYYLLTSAFAVTLGIIMARLF</span><span class="topo-inside">NPGAGIH</span><span class="topo-unknown">LAVGGQ</span></span>
-<span class="topo-line"><span class="topo-unknown">QFQPKQAP</span><span class="topo-inside">P</span><span class="topo-membrane">LVKILLDIVPTNPFGALANGQVCPTIFFAIIL</span><span class="topo-outside">GIAITYLMNSEN</span><span class="topo-unknown">EKVRKSA</span></span>
-<span class="topo-line"><span class="topo-unknown">ETLLDAINGLAEAMYKI</span><span class="topo-membrane">VNGVMQYAPIGVFALIAYVMAEQ</span><span class="topo-inside">GVK</span><span class="topo-unknown">VVGELA</span><span class="topo-membrane">KVTAAVYVGLT</span></span>
-<span class="topo-line"><span class="topo-membrane">LQILLVYFVLLKI</span><span class="topo-outside">YGID</span><span class="topo-unknown">PISFIKKAKDAMLTAFVTRSSSGTL</span><span class="topo-outside">PVTMRVAKEMGISEGIYS</span></span>
-<span class="topo-line"><span class="topo-outside">FT</span><span class="topo-membrane">LPLGATINMDGTALYQGVST</span><span class="topo-inside">FFIANALGSHLTVGQQ</span><span class="topo-unknown">LTIVLTAVLASICTAGVPGAGA</span></span>
-<span class="topo-line"><span class="topo-unknown">IMLAMV</span><span class="topo-inside">LESVGLPLTDPNVAAAYAMI</span><span class="topo-membrane">LGIDAILDMGRTMVNVTGDLTGT</span><span class="topo-outside">AIVAKTE</span><span class="topo-unknown">GTLV</span></span>
-<span class="topo-line"><span class="topo-unknown">PR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGLYR</span><span class="topo-outside">KYIEYPV</span><span class="topo-membrane">LQKILIGLILGAIVGLILG</span><span class="topo-inside">HYGYADA</span><span class="topo-membrane">VKTYVKPFGDLFVRLLKMLVMPIVFASL</span><span class="topo-outside">VVGAASISPARLGRVG</span><span class="topo-membrane">VKIVVYYLLTSAFAVTLGIIMARLF</span><span class="topo-inside">NPGAGIH</span><span class="topo-unknown">LAVGGQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-unknown">QFQPKQAP</span><span class="topo-inside">P</span><span class="topo-membrane">LVKILLDIVPTNPFGALANGQVCPTIFFAIIL</span><span class="topo-outside">GIAITYLMNSEN</span><span class="topo-unknown">EKVRKSAETLLDAINGLAEAMYKI</span><span class="topo-membrane">VNGVMQYAPIGVFALIAYVMAEQ</span><span class="topo-inside">GVK</span><span class="topo-unknown">VVGELA</span><span class="topo-membrane">KVTAAVYVGLT</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">LQILLVYFVLLKI</span><span class="topo-outside">YGID</span><span class="topo-unknown">PISFIKKAKDAMLTAFVTRSSSGTL</span><span class="topo-outside">PVTMRVAKEMGISEGIYSFT</span><span class="topo-membrane">LPLGATINMDGTALYQGVST</span><span class="topo-inside">FFIANALGSHLTVGQQ</span><span class="topo-unknown">LTIVLTAVLASICTAGVPGAGA</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420  </span>
+<span class="topo-line"><span class="topo-unknown">IMLAMV</span><span class="topo-inside">LESVGLPLTDPNVAAAYAMI</span><span class="topo-membrane">LGIDAILDMGRTMVNVTGDLTGT</span><span class="topo-outside">AIVAKTE</span><span class="topo-unknown">GTLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (25 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -5564,6 +5613,7 @@ GltPh is a sodium-coupled aspartate transporter from the archaeon Pyrococcus hor
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -5579,14 +5629,15 @@ GltPh is a sodium-coupled aspartate transporter from the archaeon Pyrococcus hor
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGLYR</span><span class="topo-outside">KYIEYPV</span><span class="topo-membrane">LQKILIGLILGAIVGLILG</span><span class="topo-inside">HYGYADA</span><span class="topo-membrane">VKTYVKPFGDLFVRLLKMLVMP</span></span>
-<span class="topo-line"><span class="topo-membrane">IVFASL</span><span class="topo-outside">VVGAASISPARLGRVG</span><span class="topo-membrane">VKIVVYYLLTSAFAVTLGIIMARLF</span><span class="topo-inside">NPGAGIH</span><span class="topo-unknown">LAVGGQ</span></span>
-<span class="topo-line"><span class="topo-unknown">QFQPKQAP</span><span class="topo-inside">P</span><span class="topo-membrane">LVKILLDIVPTNPFGALANGQVCPTIFFAIIL</span><span class="topo-outside">GIAITYLMNSEN</span><span class="topo-unknown">EKVRKSA</span></span>
-<span class="topo-line"><span class="topo-unknown">ETLLDAINGLAEAMYKI</span><span class="topo-membrane">VNGVMQYAPIGVFALIAYVMAEQ</span><span class="topo-inside">GVK</span><span class="topo-unknown">VVGELA</span><span class="topo-membrane">KVTAAVYVGLT</span></span>
-<span class="topo-line"><span class="topo-membrane">LQILLVYFVLLKI</span><span class="topo-outside">YGID</span><span class="topo-unknown">PISFIKKAKDAMLTAFVTRSSSGTLPVT</span><span class="topo-outside">MRVAKEMGISEGIYS</span></span>
-<span class="topo-line"><span class="topo-outside">FT</span><span class="topo-membrane">LPLGATINMDGTALYQGVST</span><span class="topo-inside">FFIANALGSHLTVGQQ</span><span class="topo-unknown">LTIVLTAVLASICTAGVPGAGA</span></span>
-<span class="topo-line"><span class="topo-unknown">IMLAMV</span><span class="topo-inside">LESVGLPLTDPNVAAAYAMIL</span><span class="topo-membrane">GIDAILDMGRTMVNVTGDLTGT</span><span class="topo-outside">AIVAKTE</span><span class="topo-unknown">GTLV</span></span>
-<span class="topo-line"><span class="topo-unknown">PR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGLYR</span><span class="topo-outside">KYIEYPV</span><span class="topo-membrane">LQKILIGLILGAIVGLILG</span><span class="topo-inside">HYGYADA</span><span class="topo-membrane">VKTYVKPFGDLFVRLLKMLVMPIVFASL</span><span class="topo-outside">VVGAASISPARLGRVG</span><span class="topo-membrane">VKIVVYYLLTSAFAVTLGIIMARLF</span><span class="topo-inside">NPGAGIH</span><span class="topo-unknown">LAVGGQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-unknown">QFQPKQAP</span><span class="topo-inside">P</span><span class="topo-membrane">LVKILLDIVPTNPFGALANGQVCPTIFFAIIL</span><span class="topo-outside">GIAITYLMNSEN</span><span class="topo-unknown">EKVRKSAETLLDAINGLAEAMYKI</span><span class="topo-membrane">VNGVMQYAPIGVFALIAYVMAEQ</span><span class="topo-inside">GVK</span><span class="topo-unknown">VVGELA</span><span class="topo-membrane">KVTAAVYVGLT</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">LQILLVYFVLLKI</span><span class="topo-outside">YGID</span><span class="topo-unknown">PISFIKKAKDAMLTAFVTRSSSGTLPVT</span><span class="topo-outside">MRVAKEMGISEGIYSFT</span><span class="topo-membrane">LPLGATINMDGTALYQGVST</span><span class="topo-inside">FFIANALGSHLTVGQQ</span><span class="topo-unknown">LTIVLTAVLASICTAGVPGAGA</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420  </span>
+<span class="topo-line"><span class="topo-unknown">IMLAMV</span><span class="topo-inside">LESVGLPLTDPNVAAAYAMIL</span><span class="topo-membrane">GIDAILDMGRTMVNVTGDLTGT</span><span class="topo-outside">AIVAKTE</span><span class="topo-unknown">GTLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (25 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -5773,6 +5824,7 @@ GltPh is a sodium-coupled aspartate transporter from the archaeon Pyrococcus hor
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -5865,13 +5917,15 @@ GltPh is a sodium-coupled aspartate transporter from the archaeon Pyrococcus hor
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">IEYPVL</span><span class="topo-membrane">QKILIGLILGAIVGLIL</span><span class="topo-inside">GHYGYAHAV</span><span class="topo-membrane">HTYVKPFGDLFVRLLKMLVMPIVF</span><span class="topo-outside">ASLV</span></span>
-<span class="topo-line"><span class="topo-outside">VGAASISPARLGRVG</span><span class="topo-membrane">VKIVVYYLLTSAFAVTLGIIMARLF</span><span class="topo-inside">NPGAGIHLAVGG</span><span class="topo-unknown">QQFQPKQ</span><span class="topo-inside">A</span></span>
-<span class="topo-line"><span class="topo-inside">P</span><span class="topo-membrane">PLVHILLDIVPTNPFGALANGQVLPTIFFA</span><span class="topo-outside">IILGIAITYLMNSENEK</span><span class="topo-unknown">VRKSAETLLDAI</span></span>
-<span class="topo-line"><span class="topo-unknown">NGLAEAMYKIVNGV</span><span class="topo-membrane">MQYAPIGVFALIAYVMA</span><span class="topo-inside">EQGVHVVGELAKV</span><span class="topo-membrane">TAAVYVGLTLQILLVY</span></span>
-<span class="topo-line"><span class="topo-membrane">FVL</span><span class="topo-outside">LKIYGID</span><span class="topo-unknown">PISFIKH</span><span class="topo-outside">AK</span><span class="topo-unknown">DAMLTAFVTRSSSGTLPVT</span><span class="topo-outside">MRVAKEMGISEGIYSF</span><span class="topo-membrane">TLPLGA</span></span>
-<span class="topo-line"><span class="topo-membrane">TINMDGTALYQGV</span><span class="topo-inside">CTFFIANALGSHLTVGQQLTIV</span><span class="topo-unknown">LTAVLASIGTAGVPGAG</span><span class="topo-inside">AIMLAMVL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">IEYPVL</span><span class="topo-membrane">QKILIGLILGAIVGLIL</span><span class="topo-inside">GHYGYAHAV</span><span class="topo-membrane">HTYVKPFGDLFVRLLKMLVMPIVF</span><span class="topo-outside">ASLVVGAASISPARLGRVG</span><span class="topo-membrane">VKIVVYYLLTSAFAVTLGIIMARLF</span><span class="topo-inside">NPGAGIHLAVGG</span><span class="topo-unknown">QQFQPKQ</span><span class="topo-inside">A</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">P</span><span class="topo-membrane">PLVHILLDIVPTNPFGALANGQVLPTIFFA</span><span class="topo-outside">IILGIAITYLMNSENEK</span><span class="topo-unknown">VRKSAETLLDAINGLAEAMYKIVNGV</span><span class="topo-membrane">MQYAPIGVFALIAYVMA</span><span class="topo-inside">EQGVHVVGELAKV</span><span class="topo-membrane">TAAVYVGLTLQILLVY</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">FVL</span><span class="topo-outside">LKIYGID</span><span class="topo-unknown">PISFIKH</span><span class="topo-outside">AK</span><span class="topo-unknown">DAMLTAFVTRSSSGTLPVT</span><span class="topo-outside">MRVAKEMGISEGIYSF</span><span class="topo-membrane">TLPLGATINMDGTALYQGV</span><span class="topo-inside">CTFFIANALGSHLTVGQQLTIV</span><span class="topo-unknown">LTAVLASIGTAGVPGAG</span><span class="topo-inside">AIMLAMVL</span></span>
+<span class="topo-ruler">       370       380       390       400         </span>
 <span class="topo-line"><span class="topo-inside">HSVGLPLTDPNVAAAYAMILGID</span><span class="topo-membrane">AILDMGATMVNVTGDLTG</span><span class="topo-outside">TAIVAKTE</span></span>
+<details class="topo-details"><summary>Topology coordinates (25 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -6058,6 +6112,7 @@ GltPh is a sodium-coupled aspartate transporter from the archaeon Pyrococcus hor
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -6073,13 +6128,15 @@ GltPh is a sodium-coupled aspartate transporter from the archaeon Pyrococcus hor
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">IEYPVL</span><span class="topo-membrane">QKILIGLILGAIVGLIL</span><span class="topo-inside">GHYGYAHAV</span><span class="topo-membrane">HTYVKPFGDLFVRLLKMLVMPIVF</span><span class="topo-outside">ASLV</span></span>
-<span class="topo-line"><span class="topo-outside">VGAASISPARLGRVG</span><span class="topo-membrane">VKIVVYYLLTSAFAVTLGIIMARLF</span><span class="topo-inside">NPGAGIHLAVGGQQ</span><span class="topo-unknown">FQPKQ</span><span class="topo-inside">A</span></span>
-<span class="topo-line"><span class="topo-inside">P</span><span class="topo-membrane">PLVHILLDIVPTNPFGALANGQVLPTIFFA</span><span class="topo-outside">IILGIAITYLMNSENEK</span><span class="topo-unknown">VRKSAETLLDAI</span></span>
-<span class="topo-line"><span class="topo-unknown">NGLAEAMYKIVNGV</span><span class="topo-membrane">MQYAPIGVFALIAYVMA</span><span class="topo-inside">EQGVHVVGELAKV</span><span class="topo-membrane">TAAVYVGLTLQILLVY</span></span>
-<span class="topo-line"><span class="topo-membrane">FVL</span><span class="topo-outside">LKIYGID</span><span class="topo-unknown">PISFIKH</span><span class="topo-outside">AK</span><span class="topo-unknown">DAMLTAFVTRSSSGTLPVT</span><span class="topo-outside">MRVAKEMGISEGIYSF</span><span class="topo-membrane">TLPLGA</span></span>
-<span class="topo-line"><span class="topo-membrane">TINMDGTALYQGV</span><span class="topo-inside">CTFFIANALGSHLTVGQQLTIV</span><span class="topo-unknown">LTAVLASIGTAGVPGAG</span><span class="topo-inside">AIMLAMVL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">IEYPVL</span><span class="topo-membrane">QKILIGLILGAIVGLIL</span><span class="topo-inside">GHYGYAHAV</span><span class="topo-membrane">HTYVKPFGDLFVRLLKMLVMPIVF</span><span class="topo-outside">ASLVVGAASISPARLGRVG</span><span class="topo-membrane">VKIVVYYLLTSAFAVTLGIIMARLF</span><span class="topo-inside">NPGAGIHLAVGGQQ</span><span class="topo-unknown">FQPKQ</span><span class="topo-inside">A</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">P</span><span class="topo-membrane">PLVHILLDIVPTNPFGALANGQVLPTIFFA</span><span class="topo-outside">IILGIAITYLMNSENEK</span><span class="topo-unknown">VRKSAETLLDAINGLAEAMYKIVNGV</span><span class="topo-membrane">MQYAPIGVFALIAYVMA</span><span class="topo-inside">EQGVHVVGELAKV</span><span class="topo-membrane">TAAVYVGLTLQILLVY</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">FVL</span><span class="topo-outside">LKIYGID</span><span class="topo-unknown">PISFIKH</span><span class="topo-outside">AK</span><span class="topo-unknown">DAMLTAFVTRSSSGTLPVT</span><span class="topo-outside">MRVAKEMGISEGIYSF</span><span class="topo-membrane">TLPLGATINMDGTALYQGV</span><span class="topo-inside">CTFFIANALGSHLTVGQQLTIV</span><span class="topo-unknown">LTAVLASIGTAGVPGAG</span><span class="topo-inside">AIMLAMVL</span></span>
+<span class="topo-ruler">       370       380       390       400         </span>
 <span class="topo-line"><span class="topo-inside">HSVGLPLTDPNVAAAYAMILGID</span><span class="topo-membrane">AILDMGATMVNVTGDLTG</span><span class="topo-outside">TAIVAKTE</span></span>
+<details class="topo-details"><summary>Topology coordinates (25 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -6266,6 +6323,7 @@ GltPh is a sodium-coupled aspartate transporter from the archaeon Pyrococcus hor
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -6281,13 +6339,15 @@ GltPh is a sodium-coupled aspartate transporter from the archaeon Pyrococcus hor
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">IEYPVL</span><span class="topo-membrane">QKILIGLILGAIVGLIL</span><span class="topo-inside">GHYGYAHAV</span><span class="topo-membrane">HTYVKPFGDLFVRLLKMLVMPIVF</span><span class="topo-outside">ASLV</span></span>
-<span class="topo-line"><span class="topo-outside">VGAASISPARLGRVG</span><span class="topo-membrane">VKIVVYYLLTSAFAVTLGIIMARLF</span><span class="topo-inside">NPGAGIHLAVGGQQ</span><span class="topo-unknown">FQPKQ</span><span class="topo-inside">A</span></span>
-<span class="topo-line"><span class="topo-inside">P</span><span class="topo-membrane">PLVHILLDIVPTNPFGALANGQVLPTIFFA</span><span class="topo-outside">IILGIAITYLMNSENEK</span><span class="topo-unknown">VRKSAETLLDAI</span></span>
-<span class="topo-line"><span class="topo-unknown">NGLAEAMYKIVNGV</span><span class="topo-membrane">MQYAPIGVFALIAYVMA</span><span class="topo-inside">EQGVHVVGELAKV</span><span class="topo-membrane">TAAVYVGLTLQILLVY</span></span>
-<span class="topo-line"><span class="topo-membrane">FVL</span><span class="topo-outside">LKIYGID</span><span class="topo-unknown">PISFIKH</span><span class="topo-outside">AK</span><span class="topo-unknown">DAMLTAFVTRSSSGTLPVT</span><span class="topo-outside">MRVAKEMGISEGIYSF</span><span class="topo-membrane">TLPLGA</span></span>
-<span class="topo-line"><span class="topo-membrane">TINMDGTALYQGV</span><span class="topo-inside">CTFFIANALGSHLTVGQQLTIV</span><span class="topo-unknown">LTAVLASIGTAGVPGAG</span><span class="topo-inside">AIMLAMVL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">IEYPVL</span><span class="topo-membrane">QKILIGLILGAIVGLIL</span><span class="topo-inside">GHYGYAHAV</span><span class="topo-membrane">HTYVKPFGDLFVRLLKMLVMPIVF</span><span class="topo-outside">ASLVVGAASISPARLGRVG</span><span class="topo-membrane">VKIVVYYLLTSAFAVTLGIIMARLF</span><span class="topo-inside">NPGAGIHLAVGGQQ</span><span class="topo-unknown">FQPKQ</span><span class="topo-inside">A</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">P</span><span class="topo-membrane">PLVHILLDIVPTNPFGALANGQVLPTIFFA</span><span class="topo-outside">IILGIAITYLMNSENEK</span><span class="topo-unknown">VRKSAETLLDAINGLAEAMYKIVNGV</span><span class="topo-membrane">MQYAPIGVFALIAYVMA</span><span class="topo-inside">EQGVHVVGELAKV</span><span class="topo-membrane">TAAVYVGLTLQILLVY</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">FVL</span><span class="topo-outside">LKIYGID</span><span class="topo-unknown">PISFIKH</span><span class="topo-outside">AK</span><span class="topo-unknown">DAMLTAFVTRSSSGTLPVT</span><span class="topo-outside">MRVAKEMGISEGIYSF</span><span class="topo-membrane">TLPLGATINMDGTALYQGV</span><span class="topo-inside">CTFFIANALGSHLTVGQQLTIV</span><span class="topo-unknown">LTAVLASIGTAGVPGAG</span><span class="topo-inside">AIMLAMVL</span></span>
+<span class="topo-ruler">       370       380       390       400         </span>
 <span class="topo-line"><span class="topo-inside">HSVGLPLTDPNVAAAYAMILGID</span><span class="topo-membrane">AILDMGATMVNVTGDLTG</span><span class="topo-outside">TAIVAKTE</span></span>
+<details class="topo-details"><summary>Topology coordinates (25 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -6474,6 +6534,7 @@ GltPh is a sodium-coupled aspartate transporter from the archaeon Pyrococcus hor
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -6489,14 +6550,15 @@ GltPh is a sodium-coupled aspartate transporter from the archaeon Pyrococcus hor
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGLYRKYI</span><span class="topo-outside">EYPVL</span><span class="topo-membrane">QKILIGLILGAIVGLIL</span><span class="topo-inside">GHYGYAHAV</span><span class="topo-membrane">HTYVKPFGDLFVRLLKMLVMP</span></span>
-<span class="topo-line"><span class="topo-membrane">IVF</span><span class="topo-outside">ASLVVGAASISPARLGRVG</span><span class="topo-membrane">VKIVVYYLLTSAFAVTLGIIMA</span><span class="topo-inside">RLFNPGAGIHLAVGGQ</span></span>
-<span class="topo-line"><span class="topo-unknown">QFQPHQAPP</span><span class="topo-inside">L</span><span class="topo-membrane">VHILLDIVPTNPFGALANGQVLPTIFFAII</span><span class="topo-outside">LGIAITYLMNSENEKVRKSA</span></span>
-<span class="topo-line"><span class="topo-outside">ETLLDAINGLAEAMYKIVNGV</span><span class="topo-membrane">MQYAPIGVFALIAYVMA</span><span class="topo-inside">EQGVHVVGELAKVT</span><span class="topo-membrane">AAVYVGLT</span></span>
-<span class="topo-line"><span class="topo-membrane">LQILLVYFVL</span><span class="topo-outside">LKIYGIDPISFIKHA</span><span class="topo-unknown">KDAMLTAFVTRSSSGTLPVTM</span><span class="topo-outside">RVAKEMGISEGIYS</span></span>
-<span class="topo-line"><span class="topo-outside">F</span><span class="topo-membrane">TLPLGATINMDGTALYQGV</span><span class="topo-inside">CTFFIANALGSHLTVGQQLTIV</span><span class="topo-unknown">LTAVLASIGTAGVPGAG</span><span class="topo-inside">A</span></span>
-<span class="topo-line"><span class="topo-inside">IMLAMVLHSVGLPLTDPNVAAAYAMILGIDA</span><span class="topo-membrane">ILDMGRTMVNVTGDLTGT</span><span class="topo-outside">AIVAKTE</span><span class="topo-unknown">GTLV</span></span>
-<span class="topo-line"><span class="topo-unknown">PR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGLYRKYI</span><span class="topo-outside">EYPVL</span><span class="topo-membrane">QKILIGLILGAIVGLIL</span><span class="topo-inside">GHYGYAHAV</span><span class="topo-membrane">HTYVKPFGDLFVRLLKMLVMPIVF</span><span class="topo-outside">ASLVVGAASISPARLGRVG</span><span class="topo-membrane">VKIVVYYLLTSAFAVTLGIIMA</span><span class="topo-inside">RLFNPGAGIHLAVGGQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-unknown">QFQPHQAPP</span><span class="topo-inside">L</span><span class="topo-membrane">VHILLDIVPTNPFGALANGQVLPTIFFAII</span><span class="topo-outside">LGIAITYLMNSENEKVRKSAETLLDAINGLAEAMYKIVNGV</span><span class="topo-membrane">MQYAPIGVFALIAYVMA</span><span class="topo-inside">EQGVHVVGELAKVT</span><span class="topo-membrane">AAVYVGLT</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">LQILLVYFVL</span><span class="topo-outside">LKIYGIDPISFIKHA</span><span class="topo-unknown">KDAMLTAFVTRSSSGTLPVTM</span><span class="topo-outside">RVAKEMGISEGIYSF</span><span class="topo-membrane">TLPLGATINMDGTALYQGV</span><span class="topo-inside">CTFFIANALGSHLTVGQQLTIV</span><span class="topo-unknown">LTAVLASIGTAGVPGAG</span><span class="topo-inside">A</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420  </span>
+<span class="topo-line"><span class="topo-inside">IMLAMVLHSVGLPLTDPNVAAAYAMILGIDA</span><span class="topo-membrane">ILDMGRTMVNVTGDLTGT</span><span class="topo-outside">AIVAKTE</span><span class="topo-unknown">GTLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (25 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -6683,6 +6745,7 @@ GltPh is a sodium-coupled aspartate transporter from the archaeon Pyrococcus hor
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -6698,14 +6761,15 @@ GltPh is a sodium-coupled aspartate transporter from the archaeon Pyrococcus hor
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGLYRKYI</span><span class="topo-outside">EYPVL</span><span class="topo-membrane">QKILIGLILGAIVGLIL</span><span class="topo-inside">GHYGYAHAV</span><span class="topo-membrane">HTYVKPFGDLFVRLLKMLVMP</span></span>
-<span class="topo-line"><span class="topo-membrane">IVF</span><span class="topo-outside">ASLVVGAASISPARLGRVG</span><span class="topo-membrane">VKIVVYYLLTSAFAVTLGIIMA</span><span class="topo-inside">RLFNPGAGIHLAVGGQ</span></span>
-<span class="topo-line"><span class="topo-unknown">QFQPHQAPP</span><span class="topo-inside">L</span><span class="topo-membrane">VHILLDIVPTNPFGALANGQVLPTIFFAII</span><span class="topo-outside">LGIAITYLMNSENEKVRKSA</span></span>
-<span class="topo-line"><span class="topo-outside">ETLLDAINGLAEAMYKIVNGV</span><span class="topo-membrane">MQYAPIGVFALIAYVMA</span><span class="topo-inside">EQGVHVVGELAKVT</span><span class="topo-membrane">AAVYVGLT</span></span>
-<span class="topo-line"><span class="topo-membrane">LQILLVYFVL</span><span class="topo-outside">LKIYGIDPISFIKHA</span><span class="topo-unknown">KDAMLTAFVTRSSSGTLPVTM</span><span class="topo-outside">RVAKEMGISEGIYS</span></span>
-<span class="topo-line"><span class="topo-outside">F</span><span class="topo-membrane">TLPLGATINMDGTALYQGV</span><span class="topo-inside">CTFFIANALGSHLTVGQQLTIV</span><span class="topo-unknown">LTAVLASIGTAGVPGAG</span><span class="topo-inside">A</span></span>
-<span class="topo-line"><span class="topo-inside">IMLAMVLHSVGLPLTDPNVAAAYAMILGID</span><span class="topo-membrane">AILDMGRTMVNVTGDLTGT</span><span class="topo-outside">AIVAKTE</span><span class="topo-unknown">GTLV</span></span>
-<span class="topo-line"><span class="topo-unknown">PR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGLYRKYI</span><span class="topo-outside">EYPVL</span><span class="topo-membrane">QKILIGLILGAIVGLIL</span><span class="topo-inside">GHYGYAHAV</span><span class="topo-membrane">HTYVKPFGDLFVRLLKMLVMPIVF</span><span class="topo-outside">ASLVVGAASISPARLGRVG</span><span class="topo-membrane">VKIVVYYLLTSAFAVTLGIIMA</span><span class="topo-inside">RLFNPGAGIHLAVGGQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-unknown">QFQPHQAPP</span><span class="topo-inside">L</span><span class="topo-membrane">VHILLDIVPTNPFGALANGQVLPTIFFAII</span><span class="topo-outside">LGIAITYLMNSENEKVRKSAETLLDAINGLAEAMYKIVNGV</span><span class="topo-membrane">MQYAPIGVFALIAYVMA</span><span class="topo-inside">EQGVHVVGELAKVT</span><span class="topo-membrane">AAVYVGLT</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">LQILLVYFVL</span><span class="topo-outside">LKIYGIDPISFIKHA</span><span class="topo-unknown">KDAMLTAFVTRSSSGTLPVTM</span><span class="topo-outside">RVAKEMGISEGIYSF</span><span class="topo-membrane">TLPLGATINMDGTALYQGV</span><span class="topo-inside">CTFFIANALGSHLTVGQQLTIV</span><span class="topo-unknown">LTAVLASIGTAGVPGAG</span><span class="topo-inside">A</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420  </span>
+<span class="topo-line"><span class="topo-inside">IMLAMVLHSVGLPLTDPNVAAAYAMILGID</span><span class="topo-membrane">AILDMGRTMVNVTGDLTGT</span><span class="topo-outside">AIVAKTE</span><span class="topo-unknown">GTLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (25 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -6892,6 +6956,7 @@ GltPh is a sodium-coupled aspartate transporter from the archaeon Pyrococcus hor
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -6907,14 +6972,15 @@ GltPh is a sodium-coupled aspartate transporter from the archaeon Pyrococcus hor
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGLYRKYI</span><span class="topo-outside">EYPVL</span><span class="topo-membrane">QKILIGLILGAIVGLIL</span><span class="topo-inside">GHYGYAHAV</span><span class="topo-membrane">HTYVKPFGDLFVRLLKMLVMP</span></span>
-<span class="topo-line"><span class="topo-membrane">IVF</span><span class="topo-outside">ASLVVGAASISPARLGRVG</span><span class="topo-membrane">VKIVVYYLLTSAFAVTLGIIMA</span><span class="topo-inside">RLFNPGAGIHLAVGGQ</span></span>
-<span class="topo-line"><span class="topo-unknown">QFQPHQAPP</span><span class="topo-inside">L</span><span class="topo-membrane">VHILLDIVPTNPFGALANGQVLPTIFFAII</span><span class="topo-outside">LGIAITYLMNSENEKVRKSA</span></span>
-<span class="topo-line"><span class="topo-outside">ETLLDAINGLAEAMYKIVNGV</span><span class="topo-membrane">MQYAPIGVFALIAYVMA</span><span class="topo-inside">EQGVHVVGELAKVT</span><span class="topo-membrane">AAVYVGLT</span></span>
-<span class="topo-line"><span class="topo-membrane">LQILLVYFVL</span><span class="topo-outside">LKIYGIDPISFIKHA</span><span class="topo-unknown">KDAMLTAFVTRSSSGTLPVTM</span><span class="topo-outside">RVAKEMGISEGIYS</span></span>
-<span class="topo-line"><span class="topo-outside">F</span><span class="topo-membrane">TLPLGATINMDGTALYQGV</span><span class="topo-inside">CTFFIANALGSHLTVGQQLTIV</span><span class="topo-unknown">LTAVLASIGTAGVPGAG</span><span class="topo-inside">A</span></span>
-<span class="topo-line"><span class="topo-inside">IMLAMVLHSVGLPLTDPNVAAAYAMILGID</span><span class="topo-membrane">AILDMGRTMVNVTGDLTGT</span><span class="topo-outside">AIVAKTE</span><span class="topo-unknown">GTLV</span></span>
-<span class="topo-line"><span class="topo-unknown">PR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGLYRKYI</span><span class="topo-outside">EYPVL</span><span class="topo-membrane">QKILIGLILGAIVGLIL</span><span class="topo-inside">GHYGYAHAV</span><span class="topo-membrane">HTYVKPFGDLFVRLLKMLVMPIVF</span><span class="topo-outside">ASLVVGAASISPARLGRVG</span><span class="topo-membrane">VKIVVYYLLTSAFAVTLGIIMA</span><span class="topo-inside">RLFNPGAGIHLAVGGQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-unknown">QFQPHQAPP</span><span class="topo-inside">L</span><span class="topo-membrane">VHILLDIVPTNPFGALANGQVLPTIFFAII</span><span class="topo-outside">LGIAITYLMNSENEKVRKSAETLLDAINGLAEAMYKIVNGV</span><span class="topo-membrane">MQYAPIGVFALIAYVMA</span><span class="topo-inside">EQGVHVVGELAKVT</span><span class="topo-membrane">AAVYVGLT</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">LQILLVYFVL</span><span class="topo-outside">LKIYGIDPISFIKHA</span><span class="topo-unknown">KDAMLTAFVTRSSSGTLPVTM</span><span class="topo-outside">RVAKEMGISEGIYSF</span><span class="topo-membrane">TLPLGATINMDGTALYQGV</span><span class="topo-inside">CTFFIANALGSHLTVGQQLTIV</span><span class="topo-unknown">LTAVLASIGTAGVPGAG</span><span class="topo-inside">A</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420  </span>
+<span class="topo-line"><span class="topo-inside">IMLAMVLHSVGLPLTDPNVAAAYAMILGID</span><span class="topo-membrane">AILDMGRTMVNVTGDLTGT</span><span class="topo-outside">AIVAKTE</span><span class="topo-unknown">GTLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (25 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -7101,6 +7167,7 @@ GltPh is a sodium-coupled aspartate transporter from the archaeon Pyrococcus hor
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -7116,14 +7183,15 @@ GltPh is a sodium-coupled aspartate transporter from the archaeon Pyrococcus hor
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGLYRK</span><span class="topo-outside">YIEYPVL</span><span class="topo-membrane">QKILIGLILGAIVGLI</span><span class="topo-inside">LGHYGYAHAVHTY</span><span class="topo-membrane">VKPFGDLFVRLLCMLVMP</span></span>
-<span class="topo-line"><span class="topo-membrane">IVFA</span><span class="topo-outside">SLVVGAASISPARLGRVGVKIVVYYLLTS</span><span class="topo-membrane">AFAVTLGIIMARLFNPG</span><span class="topo-inside">AGIHLAVGGQ</span></span>
-<span class="topo-line"><span class="topo-inside">QFQPHQAPPL</span><span class="topo-membrane">VHILLDIVPTNPFGALANGQVLPTIFFAIIL</span><span class="topo-outside">GIAITYLMNSEN</span><span class="topo-unknown">EKVRKSA</span></span>
-<span class="topo-line"><span class="topo-unknown">ETLLDAINGLAEAMYKIVNG</span><span class="topo-membrane">VMQYAPIGVFALIAYVM</span><span class="topo-inside">AEQGVHV</span><span class="topo-membrane">VGELAKVTAAVYVGLT</span></span>
-<span class="topo-line"><span class="topo-membrane">LQ</span><span class="topo-outside">ILLVYFVLLKIYGIDPISFIKHAKDAMLTAFVTRSSSGTLPVTMRVAKEMGISEGIYS</span></span>
-<span class="topo-line"><span class="topo-outside">FTLPLGATINM</span><span class="topo-membrane">DGTALYQGVATFFIAN</span><span class="topo-inside">ALGSHL</span><span class="topo-membrane">TVGQQLTIVLTAVLASI</span><span class="topo-outside">GTAGVP</span><span class="topo-membrane">GAGA</span></span>
-<span class="topo-line"><span class="topo-membrane">IMLCMVLHSVGLPLT</span><span class="topo-inside">DPNV</span><span class="topo-membrane">AAAYAMILGIDAILDMGR</span><span class="topo-outside">TMVNVTGDLTGTAIVAKTEGTLV</span></span>
-<span class="topo-line"><span class="topo-unknown">PR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGLYRK</span><span class="topo-outside">YIEYPVL</span><span class="topo-membrane">QKILIGLILGAIVGLI</span><span class="topo-inside">LGHYGYAHAVHTY</span><span class="topo-membrane">VKPFGDLFVRLLCMLVMPIVFA</span><span class="topo-outside">SLVVGAASISPARLGRVGVKIVVYYLLTS</span><span class="topo-membrane">AFAVTLGIIMARLFNPG</span><span class="topo-inside">AGIHLAVGGQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">QFQPHQAPPL</span><span class="topo-membrane">VHILLDIVPTNPFGALANGQVLPTIFFAIIL</span><span class="topo-outside">GIAITYLMNSEN</span><span class="topo-unknown">EKVRKSAETLLDAINGLAEAMYKIVNG</span><span class="topo-membrane">VMQYAPIGVFALIAYVM</span><span class="topo-inside">AEQGVHV</span><span class="topo-membrane">VGELAKVTAAVYVGLT</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">LQ</span><span class="topo-outside">ILLVYFVLLKIYGIDPISFIKHAKDAMLTAFVTRSSSGTLPVTMRVAKEMGISEGIYSFTLPLGATINM</span><span class="topo-membrane">DGTALYQGVATFFIAN</span><span class="topo-inside">ALGSHL</span><span class="topo-membrane">TVGQQLTIVLTAVLASI</span><span class="topo-outside">GTAGVP</span><span class="topo-membrane">GAGA</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420  </span>
+<span class="topo-line"><span class="topo-membrane">IMLCMVLHSVGLPLT</span><span class="topo-inside">DPNV</span><span class="topo-membrane">AAAYAMILGIDAILDMGR</span><span class="topo-outside">TMVNVTGDLTGTAIVAKTEGTLV</span><span class="topo-unknown">PR</span></span>
+<details class="topo-details"><summary>Topology coordinates (24 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -7303,6 +7371,7 @@ GltPh is a sodium-coupled aspartate transporter from the archaeon Pyrococcus hor
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -7318,14 +7387,15 @@ GltPh is a sodium-coupled aspartate transporter from the archaeon Pyrococcus hor
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGLYRKYI</span><span class="topo-outside">EYPVL</span><span class="topo-membrane">QKILIGLILGAIVGLIL</span><span class="topo-inside">GHYGYAHAVHTY</span><span class="topo-membrane">VKPFGDLFVRLLCMLVMP</span></span>
-<span class="topo-line"><span class="topo-membrane">IVFA</span><span class="topo-outside">SLVVGAASISPARLGRVGVKIVVYYLLTS</span><span class="topo-membrane">AFAVTLGIIMARLFNPG</span><span class="topo-inside">AGIHLAVGGQ</span></span>
-<span class="topo-line"><span class="topo-inside">QFQPHQAPPL</span><span class="topo-membrane">VHILLDIVPTNPFGALANGQVLPTIFFAIIL</span><span class="topo-outside">GIAITYLMNSEN</span><span class="topo-unknown">EKVRKSA</span></span>
-<span class="topo-line"><span class="topo-unknown">ETLLDAINGLAEAMYKIVNG</span><span class="topo-membrane">VMQYAPIGVFALIAYVM</span><span class="topo-inside">AEQGV</span><span class="topo-membrane">HVVGELAKVTAAVYVGLT</span></span>
-<span class="topo-line"><span class="topo-membrane">LQ</span><span class="topo-outside">ILLVYFVLLKIYGIDPISFIKHAKDAMLTAFVTRSSSGTLPVTMRVAKEMGISEGIYS</span></span>
-<span class="topo-line"><span class="topo-outside">FTLPLGATINMD</span><span class="topo-membrane">GTALYQGVATFFIAN</span><span class="topo-inside">ALGSHL</span><span class="topo-membrane">TVGQQLTIVLTAVLAS</span><span class="topo-outside">IGTAGVPG</span><span class="topo-membrane">AGA</span></span>
-<span class="topo-line"><span class="topo-membrane">IMLCMVLHSVGLPLT</span><span class="topo-inside">DPNV</span><span class="topo-membrane">AAAYAMILGIDAILDMGR</span><span class="topo-outside">TMVNVTGDLTGTAIVAKTE</span><span class="topo-unknown">GTLV</span></span>
-<span class="topo-line"><span class="topo-unknown">PR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGLYRKYI</span><span class="topo-outside">EYPVL</span><span class="topo-membrane">QKILIGLILGAIVGLIL</span><span class="topo-inside">GHYGYAHAVHTY</span><span class="topo-membrane">VKPFGDLFVRLLCMLVMPIVFA</span><span class="topo-outside">SLVVGAASISPARLGRVGVKIVVYYLLTS</span><span class="topo-membrane">AFAVTLGIIMARLFNPG</span><span class="topo-inside">AGIHLAVGGQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">QFQPHQAPPL</span><span class="topo-membrane">VHILLDIVPTNPFGALANGQVLPTIFFAIIL</span><span class="topo-outside">GIAITYLMNSEN</span><span class="topo-unknown">EKVRKSAETLLDAINGLAEAMYKIVNG</span><span class="topo-membrane">VMQYAPIGVFALIAYVM</span><span class="topo-inside">AEQGV</span><span class="topo-membrane">HVVGELAKVTAAVYVGLT</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">LQ</span><span class="topo-outside">ILLVYFVLLKIYGIDPISFIKHAKDAMLTAFVTRSSSGTLPVTMRVAKEMGISEGIYSFTLPLGATINMD</span><span class="topo-membrane">GTALYQGVATFFIAN</span><span class="topo-inside">ALGSHL</span><span class="topo-membrane">TVGQQLTIVLTAVLAS</span><span class="topo-outside">IGTAGVPG</span><span class="topo-membrane">AGA</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420  </span>
+<span class="topo-line"><span class="topo-membrane">IMLCMVLHSVGLPLT</span><span class="topo-inside">DPNV</span><span class="topo-membrane">AAAYAMILGIDAILDMGR</span><span class="topo-outside">TMVNVTGDLTGTAIVAKTE</span><span class="topo-unknown">GTLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (24 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -7505,6 +7575,7 @@ GltPh is a sodium-coupled aspartate transporter from the archaeon Pyrococcus hor
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -7520,14 +7591,15 @@ GltPh is a sodium-coupled aspartate transporter from the archaeon Pyrococcus hor
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGLYR</span><span class="topo-outside">KYIEYPVL</span><span class="topo-membrane">QKILIGLILGAIVGLI</span><span class="topo-inside">LGHYGYAHAVHTY</span><span class="topo-membrane">VKPFGDLFVRLLCMLVMP</span></span>
-<span class="topo-line"><span class="topo-membrane">IVFA</span><span class="topo-outside">SLVVGAASISPARLGRVGVKIVVYYLLTS</span><span class="topo-membrane">AFAVTLGIIMARLFNPG</span><span class="topo-inside">AGIHLAVGGQ</span></span>
-<span class="topo-line"><span class="topo-inside">QFQPHQAPPL</span><span class="topo-membrane">VHILLDIVPTNPFGALANGQVLPTIFFAIIL</span><span class="topo-outside">GIAITYLMNSEN</span><span class="topo-unknown">EKVRKSA</span></span>
-<span class="topo-line"><span class="topo-unknown">ETLLDAINGLAEAMYKIVNG</span><span class="topo-membrane">VMQYAPIGVFALIAYVM</span><span class="topo-inside">AEQGVHV</span><span class="topo-membrane">VGELAKVTAAVYVGLT</span></span>
-<span class="topo-line"><span class="topo-membrane">LQ</span><span class="topo-outside">ILLVYFVLLKIYGIDPISFIKHAKDAMLTAFVTRSSSGTLPVTMRVAKEMGISEGIYS</span></span>
-<span class="topo-line"><span class="topo-outside">FTLPLGATINM</span><span class="topo-membrane">DGTALYQGVATFFIAN</span><span class="topo-inside">ALGSHL</span><span class="topo-membrane">TVGQQLTIVLTAVLASI</span><span class="topo-outside">GTAGVP</span><span class="topo-membrane">GAGA</span></span>
-<span class="topo-line"><span class="topo-membrane">IMLCMVLHSVGLPLT</span><span class="topo-inside">DPNV</span><span class="topo-membrane">AAAYAMILGIDAILDMGR</span><span class="topo-outside">TMVNVTGDLTGTAIVAKTEGT</span><span class="topo-unknown">LV</span></span>
-<span class="topo-line"><span class="topo-unknown">PR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGLYR</span><span class="topo-outside">KYIEYPVL</span><span class="topo-membrane">QKILIGLILGAIVGLI</span><span class="topo-inside">LGHYGYAHAVHTY</span><span class="topo-membrane">VKPFGDLFVRLLCMLVMPIVFA</span><span class="topo-outside">SLVVGAASISPARLGRVGVKIVVYYLLTS</span><span class="topo-membrane">AFAVTLGIIMARLFNPG</span><span class="topo-inside">AGIHLAVGGQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">QFQPHQAPPL</span><span class="topo-membrane">VHILLDIVPTNPFGALANGQVLPTIFFAIIL</span><span class="topo-outside">GIAITYLMNSEN</span><span class="topo-unknown">EKVRKSAETLLDAINGLAEAMYKIVNG</span><span class="topo-membrane">VMQYAPIGVFALIAYVM</span><span class="topo-inside">AEQGVHV</span><span class="topo-membrane">VGELAKVTAAVYVGLT</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">LQ</span><span class="topo-outside">ILLVYFVLLKIYGIDPISFIKHAKDAMLTAFVTRSSSGTLPVTMRVAKEMGISEGIYSFTLPLGATINM</span><span class="topo-membrane">DGTALYQGVATFFIAN</span><span class="topo-inside">ALGSHL</span><span class="topo-membrane">TVGQQLTIVLTAVLASI</span><span class="topo-outside">GTAGVP</span><span class="topo-membrane">GAGA</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420  </span>
+<span class="topo-line"><span class="topo-membrane">IMLCMVLHSVGLPLT</span><span class="topo-inside">DPNV</span><span class="topo-membrane">AAAYAMILGIDAILDMGR</span><span class="topo-outside">TMVNVTGDLTGTAIVAKTEGT</span><span class="topo-unknown">LVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (24 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -7707,6 +7779,7 @@ GltPh is a sodium-coupled aspartate transporter from the archaeon Pyrococcus hor
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -7722,14 +7795,15 @@ GltPh is a sodium-coupled aspartate transporter from the archaeon Pyrococcus hor
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGLYRK</span><span class="topo-outside">YIEYPV</span><span class="topo-membrane">LQKILIGLILGAIVGLIL</span><span class="topo-inside">GHYGYAHAVHTY</span><span class="topo-membrane">VKPFGDLFVRLLCMLVMP</span></span>
-<span class="topo-line"><span class="topo-membrane">IVFASLV</span><span class="topo-outside">VGAASISPARLGRVGVKIVVYYLLTS</span><span class="topo-membrane">AFAVTLGIIMARLFNPG</span><span class="topo-inside">AGIHLAVGGQ</span></span>
-<span class="topo-line"><span class="topo-inside">QFQPHQAPPL</span><span class="topo-membrane">VHILLDIVPTNPFGALANGQVLPTIFFAIIL</span><span class="topo-outside">GIAITYLMNSEN</span><span class="topo-unknown">EKVRKSA</span></span>
-<span class="topo-line"><span class="topo-unknown">ETLLDAINGLAEAMYKI</span><span class="topo-membrane">VNGVMQYAPIGVFALIAYVMA</span><span class="topo-inside">EQGV</span><span class="topo-membrane">HVVGELAKVTAAVYVGLT</span></span>
-<span class="topo-line"><span class="topo-membrane">LQ</span><span class="topo-outside">ILLVYFVLLKIYGIDPISFIKHAKDAMLTAFVTRSSSGTLPVTMRVAKEMGISEGIYS</span></span>
-<span class="topo-line"><span class="topo-outside">FTLPLGATINM</span><span class="topo-membrane">DGTALYQGVATFFIANA</span><span class="topo-inside">LGSHL</span><span class="topo-membrane">TVGQQLTIVLTAVLASI</span><span class="topo-outside">GTAGVP</span><span class="topo-membrane">GAGA</span></span>
-<span class="topo-line"><span class="topo-membrane">IMLCMVLHSVGLPLT</span><span class="topo-inside">DPNV</span><span class="topo-membrane">AAAYAMILGIDAILDMGR</span><span class="topo-outside">TMVNVTGDLTGTAIVAKTEGTL</span><span class="topo-unknown">V</span></span>
-<span class="topo-line"><span class="topo-unknown">PR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGLYRK</span><span class="topo-outside">YIEYPV</span><span class="topo-membrane">LQKILIGLILGAIVGLIL</span><span class="topo-inside">GHYGYAHAVHTY</span><span class="topo-membrane">VKPFGDLFVRLLCMLVMPIVFASLV</span><span class="topo-outside">VGAASISPARLGRVGVKIVVYYLLTS</span><span class="topo-membrane">AFAVTLGIIMARLFNPG</span><span class="topo-inside">AGIHLAVGGQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">QFQPHQAPPL</span><span class="topo-membrane">VHILLDIVPTNPFGALANGQVLPTIFFAIIL</span><span class="topo-outside">GIAITYLMNSEN</span><span class="topo-unknown">EKVRKSAETLLDAINGLAEAMYKI</span><span class="topo-membrane">VNGVMQYAPIGVFALIAYVMA</span><span class="topo-inside">EQGV</span><span class="topo-membrane">HVVGELAKVTAAVYVGLT</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">LQ</span><span class="topo-outside">ILLVYFVLLKIYGIDPISFIKHAKDAMLTAFVTRSSSGTLPVTMRVAKEMGISEGIYSFTLPLGATINM</span><span class="topo-membrane">DGTALYQGVATFFIANA</span><span class="topo-inside">LGSHL</span><span class="topo-membrane">TVGQQLTIVLTAVLASI</span><span class="topo-outside">GTAGVP</span><span class="topo-membrane">GAGA</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420  </span>
+<span class="topo-line"><span class="topo-membrane">IMLCMVLHSVGLPLT</span><span class="topo-inside">DPNV</span><span class="topo-membrane">AAAYAMILGIDAILDMGR</span><span class="topo-outside">TMVNVTGDLTGTAIVAKTEGTL</span><span class="topo-unknown">VPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (24 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -7909,6 +7983,7 @@ GltPh is a sodium-coupled aspartate transporter from the archaeon Pyrococcus hor
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -7924,14 +7999,15 @@ GltPh is a sodium-coupled aspartate transporter from the archaeon Pyrococcus hor
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGLYRKYI</span><span class="topo-outside">EYPV</span><span class="topo-membrane">LQKILIGLILGAIVGLIL</span><span class="topo-inside">GHYGYAHAVHTY</span><span class="topo-membrane">VKPFGDLFVRLLCMLVMP</span></span>
-<span class="topo-line"><span class="topo-membrane">IVFASL</span><span class="topo-outside">VVGAASISPARLGRVGVKIVVYYLLTS</span><span class="topo-membrane">AFAVTLGIIMARLFNPG</span><span class="topo-inside">AGIHLAVGGQ</span></span>
-<span class="topo-line"><span class="topo-inside">QFQPHQAPPL</span><span class="topo-membrane">VHILLDIVPTNPFGALANGQVLPTIFFAIIL</span><span class="topo-outside">GIAITYLMNSEN</span><span class="topo-unknown">EKVRKSA</span></span>
-<span class="topo-line"><span class="topo-unknown">ETLLDAINGLAEAMYKI</span><span class="topo-membrane">VNGVMQYAPIGVFALIAYVMA</span><span class="topo-inside">EQGV</span><span class="topo-membrane">HVVGELAKVTAAVYVGLT</span></span>
-<span class="topo-line"><span class="topo-membrane">LQ</span><span class="topo-outside">ILLVYFVLLKIYGIDPISFIKHAKDAMLTAFVTRSSSGTLPVTMRVAKEMGISEGIYS</span></span>
-<span class="topo-line"><span class="topo-outside">FTLPLGATINM</span><span class="topo-membrane">DGTALYQGVATFFIANA</span><span class="topo-inside">LGSHL</span><span class="topo-membrane">TVGQQLTIVLTAVLASI</span><span class="topo-outside">GTAGVP</span><span class="topo-membrane">GAGA</span></span>
-<span class="topo-line"><span class="topo-membrane">IMLCMVLHSVGLPLT</span><span class="topo-inside">DPNV</span><span class="topo-membrane">AAAYAMILGIDAILDMGR</span><span class="topo-outside">TMVNVTGDLTGTAIVAKTE</span><span class="topo-unknown">GTLV</span></span>
-<span class="topo-line"><span class="topo-unknown">PR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGLYRKYI</span><span class="topo-outside">EYPV</span><span class="topo-membrane">LQKILIGLILGAIVGLIL</span><span class="topo-inside">GHYGYAHAVHTY</span><span class="topo-membrane">VKPFGDLFVRLLCMLVMPIVFASL</span><span class="topo-outside">VVGAASISPARLGRVGVKIVVYYLLTS</span><span class="topo-membrane">AFAVTLGIIMARLFNPG</span><span class="topo-inside">AGIHLAVGGQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">QFQPHQAPPL</span><span class="topo-membrane">VHILLDIVPTNPFGALANGQVLPTIFFAIIL</span><span class="topo-outside">GIAITYLMNSEN</span><span class="topo-unknown">EKVRKSAETLLDAINGLAEAMYKI</span><span class="topo-membrane">VNGVMQYAPIGVFALIAYVMA</span><span class="topo-inside">EQGV</span><span class="topo-membrane">HVVGELAKVTAAVYVGLT</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">LQ</span><span class="topo-outside">ILLVYFVLLKIYGIDPISFIKHAKDAMLTAFVTRSSSGTLPVTMRVAKEMGISEGIYSFTLPLGATINM</span><span class="topo-membrane">DGTALYQGVATFFIANA</span><span class="topo-inside">LGSHL</span><span class="topo-membrane">TVGQQLTIVLTAVLASI</span><span class="topo-outside">GTAGVP</span><span class="topo-membrane">GAGA</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420  </span>
+<span class="topo-line"><span class="topo-membrane">IMLCMVLHSVGLPLT</span><span class="topo-inside">DPNV</span><span class="topo-membrane">AAAYAMILGIDAILDMGR</span><span class="topo-outside">TMVNVTGDLTGTAIVAKTE</span><span class="topo-unknown">GTLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (24 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -8111,6 +8187,7 @@ GltPh is a sodium-coupled aspartate transporter from the archaeon Pyrococcus hor
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -8126,14 +8203,15 @@ GltPh is a sodium-coupled aspartate transporter from the archaeon Pyrococcus hor
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGLYR</span><span class="topo-outside">KYIEYPV</span><span class="topo-membrane">LQKILIGLILGAIVGLIL</span><span class="topo-inside">GHYGYAHAVHTY</span><span class="topo-membrane">VKPFGDLFVRLLCMLVMP</span></span>
-<span class="topo-line"><span class="topo-membrane">IVFASLV</span><span class="topo-outside">VGAASISPARLGRVGVKIVVYYLLTS</span><span class="topo-membrane">AFAVTLGIIMARLFNPG</span><span class="topo-inside">AGIHLAVGGQ</span></span>
-<span class="topo-line"><span class="topo-inside">QFQPHQAPPL</span><span class="topo-membrane">VHILLDIVPTNPFGALANGQVLPTIFFAIIL</span><span class="topo-outside">GIAITYLMNSEN</span><span class="topo-unknown">EKVRKSA</span></span>
-<span class="topo-line"><span class="topo-unknown">ETLLDAINGLAEAMYKI</span><span class="topo-membrane">VNGVMQYAPIGVFALIAYVMA</span><span class="topo-inside">EQGV</span><span class="topo-membrane">HVVGELAKVTAAVYVGLT</span></span>
-<span class="topo-line"><span class="topo-membrane">LQ</span><span class="topo-outside">ILLVYFVLLKIYGIDPISFIKHAKDAMLTAFVTRSSSGTLPVTMRVAKEMGISEGIYS</span></span>
-<span class="topo-line"><span class="topo-outside">FTLPLGATINM</span><span class="topo-membrane">DGTALYQGVATFFIANA</span><span class="topo-inside">LGSHL</span><span class="topo-membrane">TVGQQLTIVLTAVLASI</span><span class="topo-outside">GTAGVP</span><span class="topo-membrane">GAGA</span></span>
-<span class="topo-line"><span class="topo-membrane">IMLCMVLHSVGLPLT</span><span class="topo-inside">DPNV</span><span class="topo-membrane">AAAYAMILGIDAILDMGR</span><span class="topo-outside">TMVNVTGDLTGTAIVAKTEGT</span><span class="topo-unknown">LV</span></span>
-<span class="topo-line"><span class="topo-unknown">PR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGLYR</span><span class="topo-outside">KYIEYPV</span><span class="topo-membrane">LQKILIGLILGAIVGLIL</span><span class="topo-inside">GHYGYAHAVHTY</span><span class="topo-membrane">VKPFGDLFVRLLCMLVMPIVFASLV</span><span class="topo-outside">VGAASISPARLGRVGVKIVVYYLLTS</span><span class="topo-membrane">AFAVTLGIIMARLFNPG</span><span class="topo-inside">AGIHLAVGGQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">QFQPHQAPPL</span><span class="topo-membrane">VHILLDIVPTNPFGALANGQVLPTIFFAIIL</span><span class="topo-outside">GIAITYLMNSEN</span><span class="topo-unknown">EKVRKSAETLLDAINGLAEAMYKI</span><span class="topo-membrane">VNGVMQYAPIGVFALIAYVMA</span><span class="topo-inside">EQGV</span><span class="topo-membrane">HVVGELAKVTAAVYVGLT</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">LQ</span><span class="topo-outside">ILLVYFVLLKIYGIDPISFIKHAKDAMLTAFVTRSSSGTLPVTMRVAKEMGISEGIYSFTLPLGATINM</span><span class="topo-membrane">DGTALYQGVATFFIANA</span><span class="topo-inside">LGSHL</span><span class="topo-membrane">TVGQQLTIVLTAVLASI</span><span class="topo-outside">GTAGVP</span><span class="topo-membrane">GAGA</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420  </span>
+<span class="topo-line"><span class="topo-membrane">IMLCMVLHSVGLPLT</span><span class="topo-inside">DPNV</span><span class="topo-membrane">AAAYAMILGIDAILDMGR</span><span class="topo-outside">TMVNVTGDLTGTAIVAKTEGT</span><span class="topo-unknown">LVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (24 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -8313,6 +8391,7 @@ GltPh is a sodium-coupled aspartate transporter from the archaeon Pyrococcus hor
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -8328,14 +8407,15 @@ GltPh is a sodium-coupled aspartate transporter from the archaeon Pyrococcus hor
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGLYRK</span><span class="topo-outside">YIEYPVL</span><span class="topo-membrane">QKILIGLILGAIVGLI</span><span class="topo-inside">LGHYGYAHAVHTY</span><span class="topo-membrane">VKPFGDLFVRLLCMLVMP</span></span>
-<span class="topo-line"><span class="topo-membrane">IVFA</span><span class="topo-outside">SLVVGAASISPARLGRVGVKIVVYYLLTS</span><span class="topo-membrane">AFAVTLGIIMARLFNPG</span><span class="topo-inside">AGIHLAVGGQ</span></span>
-<span class="topo-line"><span class="topo-inside">QFQPHQAPPL</span><span class="topo-membrane">VHILLDIVPTNPFGALANGQVLPTIFFAIIL</span><span class="topo-outside">GIAITYLMNSEN</span><span class="topo-unknown">EKVRKSA</span></span>
-<span class="topo-line"><span class="topo-unknown">ETLLDAINGLAEAMYKIVNG</span><span class="topo-membrane">VMQYAPIGVFALIAYVM</span><span class="topo-inside">AEQGVHV</span><span class="topo-membrane">VGELAKVTAAVYVGLT</span></span>
-<span class="topo-line"><span class="topo-membrane">LQ</span><span class="topo-outside">ILLVYFVLLKIYGIDPISFIKHAKDAMLTAFVTRSSSGTLPVTMRVAKEMGISEGIYS</span></span>
-<span class="topo-line"><span class="topo-outside">FTLPLGATINM</span><span class="topo-membrane">DGTALYQGVATFFIAN</span><span class="topo-inside">ALGSHL</span><span class="topo-membrane">TVGQQLTIVLTAVLASI</span><span class="topo-outside">GTAGVP</span><span class="topo-membrane">GAGA</span></span>
-<span class="topo-line"><span class="topo-membrane">IMLCMVLHSVGLPLT</span><span class="topo-inside">DPNV</span><span class="topo-membrane">AAAYAMILGIDAILDMGR</span><span class="topo-outside">TMVNVTGDLTGTAIVAKTEG</span><span class="topo-unknown">TLV</span></span>
-<span class="topo-line"><span class="topo-unknown">PR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGLYRK</span><span class="topo-outside">YIEYPVL</span><span class="topo-membrane">QKILIGLILGAIVGLI</span><span class="topo-inside">LGHYGYAHAVHTY</span><span class="topo-membrane">VKPFGDLFVRLLCMLVMPIVFA</span><span class="topo-outside">SLVVGAASISPARLGRVGVKIVVYYLLTS</span><span class="topo-membrane">AFAVTLGIIMARLFNPG</span><span class="topo-inside">AGIHLAVGGQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">QFQPHQAPPL</span><span class="topo-membrane">VHILLDIVPTNPFGALANGQVLPTIFFAIIL</span><span class="topo-outside">GIAITYLMNSEN</span><span class="topo-unknown">EKVRKSAETLLDAINGLAEAMYKIVNG</span><span class="topo-membrane">VMQYAPIGVFALIAYVM</span><span class="topo-inside">AEQGVHV</span><span class="topo-membrane">VGELAKVTAAVYVGLT</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">LQ</span><span class="topo-outside">ILLVYFVLLKIYGIDPISFIKHAKDAMLTAFVTRSSSGTLPVTMRVAKEMGISEGIYSFTLPLGATINM</span><span class="topo-membrane">DGTALYQGVATFFIAN</span><span class="topo-inside">ALGSHL</span><span class="topo-membrane">TVGQQLTIVLTAVLASI</span><span class="topo-outside">GTAGVP</span><span class="topo-membrane">GAGA</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420  </span>
+<span class="topo-line"><span class="topo-membrane">IMLCMVLHSVGLPLT</span><span class="topo-inside">DPNV</span><span class="topo-membrane">AAAYAMILGIDAILDMGR</span><span class="topo-outside">TMVNVTGDLTGTAIVAKTEG</span><span class="topo-unknown">TLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (24 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -8515,6 +8595,7 @@ GltPh is a sodium-coupled aspartate transporter from the archaeon Pyrococcus hor
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -8530,14 +8611,15 @@ GltPh is a sodium-coupled aspartate transporter from the archaeon Pyrococcus hor
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGLYRKYI</span><span class="topo-outside">EYPVL</span><span class="topo-membrane">QKILIGLILGAIVGLIL</span><span class="topo-inside">GHYGYAHAVHTY</span><span class="topo-membrane">VKPFGDLFVRLLCMLVMP</span></span>
-<span class="topo-line"><span class="topo-membrane">IVFA</span><span class="topo-outside">SLVVGAASISPARLGRVGVKIVVYYLLTS</span><span class="topo-membrane">AFAVTLGIIMARLFNPG</span><span class="topo-inside">AGIHLAVGGQ</span></span>
-<span class="topo-line"><span class="topo-inside">QFQPHQAPPL</span><span class="topo-membrane">VHILLDIVPTNPFGALANGQVLPTIFFAIIL</span><span class="topo-outside">GIAITYLMNSEN</span><span class="topo-unknown">EKVRKSA</span></span>
-<span class="topo-line"><span class="topo-unknown">ETLLDAINGLAEAMYKIVNG</span><span class="topo-membrane">VMQYAPIGVFALIAYVM</span><span class="topo-inside">AEQGV</span><span class="topo-membrane">HVVGELAKVTAAVYVGLT</span></span>
-<span class="topo-line"><span class="topo-membrane">LQ</span><span class="topo-outside">ILLVYFVLLKIYGIDPISFIKHAKDAMLTAFVTRSSSGTLPVTMRVAKEMGISEGIYS</span></span>
-<span class="topo-line"><span class="topo-outside">FTLPLGATINM</span><span class="topo-membrane">DGTALYQGVATFFIANA</span><span class="topo-inside">LGSHL</span><span class="topo-membrane">TVGQQLTIVLTAVLASI</span><span class="topo-outside">GTAGVP</span><span class="topo-membrane">GAGA</span></span>
-<span class="topo-line"><span class="topo-membrane">IMLCMVLHSVGLPLT</span><span class="topo-inside">DPNV</span><span class="topo-membrane">AAAYAMILGIDAILDMGR</span><span class="topo-outside">TMVNVTGDLTGTAIVAKTE</span><span class="topo-unknown">GTLV</span></span>
-<span class="topo-line"><span class="topo-unknown">PR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGLYRKYI</span><span class="topo-outside">EYPVL</span><span class="topo-membrane">QKILIGLILGAIVGLIL</span><span class="topo-inside">GHYGYAHAVHTY</span><span class="topo-membrane">VKPFGDLFVRLLCMLVMPIVFA</span><span class="topo-outside">SLVVGAASISPARLGRVGVKIVVYYLLTS</span><span class="topo-membrane">AFAVTLGIIMARLFNPG</span><span class="topo-inside">AGIHLAVGGQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">QFQPHQAPPL</span><span class="topo-membrane">VHILLDIVPTNPFGALANGQVLPTIFFAIIL</span><span class="topo-outside">GIAITYLMNSEN</span><span class="topo-unknown">EKVRKSAETLLDAINGLAEAMYKIVNG</span><span class="topo-membrane">VMQYAPIGVFALIAYVM</span><span class="topo-inside">AEQGV</span><span class="topo-membrane">HVVGELAKVTAAVYVGLT</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">LQ</span><span class="topo-outside">ILLVYFVLLKIYGIDPISFIKHAKDAMLTAFVTRSSSGTLPVTMRVAKEMGISEGIYSFTLPLGATINM</span><span class="topo-membrane">DGTALYQGVATFFIANA</span><span class="topo-inside">LGSHL</span><span class="topo-membrane">TVGQQLTIVLTAVLASI</span><span class="topo-outside">GTAGVP</span><span class="topo-membrane">GAGA</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420  </span>
+<span class="topo-line"><span class="topo-membrane">IMLCMVLHSVGLPLT</span><span class="topo-inside">DPNV</span><span class="topo-membrane">AAAYAMILGIDAILDMGR</span><span class="topo-outside">TMVNVTGDLTGTAIVAKTE</span><span class="topo-unknown">GTLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (24 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -8717,6 +8799,7 @@ GltPh is a sodium-coupled aspartate transporter from the archaeon Pyrococcus hor
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -8732,14 +8815,15 @@ GltPh is a sodium-coupled aspartate transporter from the archaeon Pyrococcus hor
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGLYR</span><span class="topo-outside">KYIEYPVL</span><span class="topo-membrane">QKILIGLILGAIVGLIL</span><span class="topo-inside">GHYGYAHAVHTY</span><span class="topo-membrane">VKPFGDLFVRLLCMLVMP</span></span>
-<span class="topo-line"><span class="topo-membrane">IVFA</span><span class="topo-outside">SLVVGAASISPARLGRVGVKIVVYYLLTS</span><span class="topo-membrane">AFAVTLGIIMARLFNPG</span><span class="topo-inside">AGIHLAVGGQ</span></span>
-<span class="topo-line"><span class="topo-inside">QFQPHQAPPL</span><span class="topo-membrane">VHILLDIVPTNPFGALANGQVLPTIFFAIIL</span><span class="topo-outside">GIAITYLMNSEN</span><span class="topo-unknown">EKVRKSA</span></span>
-<span class="topo-line"><span class="topo-unknown">ETLLDAINGLAEAMYKIVNG</span><span class="topo-membrane">VMQYAPIGVFALIAYVM</span><span class="topo-inside">AEQGV</span><span class="topo-membrane">HVVGELAKVTAAVYVGLT</span></span>
-<span class="topo-line"><span class="topo-membrane">LQ</span><span class="topo-outside">ILLVYFVLLKIYGIDPISFIKHAKDAMLTAFVTRSSSGTLPVTMRVAKEMGISEGIYS</span></span>
-<span class="topo-line"><span class="topo-outside">FTLPLGATINM</span><span class="topo-membrane">DGTALYQGVATFFIAN</span><span class="topo-inside">ALGSHL</span><span class="topo-membrane">TVGQQLTIVLTAVLASI</span><span class="topo-outside">GTAGVP</span><span class="topo-membrane">GAGA</span></span>
-<span class="topo-line"><span class="topo-membrane">IMLCMVLHSVGLPLT</span><span class="topo-inside">DPNV</span><span class="topo-membrane">AAAYAMILGIDAILDMGR</span><span class="topo-outside">TMVNVTGDLTGTAIVAKTE</span><span class="topo-unknown">GTLV</span></span>
-<span class="topo-line"><span class="topo-unknown">PR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGLYR</span><span class="topo-outside">KYIEYPVL</span><span class="topo-membrane">QKILIGLILGAIVGLIL</span><span class="topo-inside">GHYGYAHAVHTY</span><span class="topo-membrane">VKPFGDLFVRLLCMLVMPIVFA</span><span class="topo-outside">SLVVGAASISPARLGRVGVKIVVYYLLTS</span><span class="topo-membrane">AFAVTLGIIMARLFNPG</span><span class="topo-inside">AGIHLAVGGQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">QFQPHQAPPL</span><span class="topo-membrane">VHILLDIVPTNPFGALANGQVLPTIFFAIIL</span><span class="topo-outside">GIAITYLMNSEN</span><span class="topo-unknown">EKVRKSAETLLDAINGLAEAMYKIVNG</span><span class="topo-membrane">VMQYAPIGVFALIAYVM</span><span class="topo-inside">AEQGV</span><span class="topo-membrane">HVVGELAKVTAAVYVGLT</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">LQ</span><span class="topo-outside">ILLVYFVLLKIYGIDPISFIKHAKDAMLTAFVTRSSSGTLPVTMRVAKEMGISEGIYSFTLPLGATINM</span><span class="topo-membrane">DGTALYQGVATFFIAN</span><span class="topo-inside">ALGSHL</span><span class="topo-membrane">TVGQQLTIVLTAVLASI</span><span class="topo-outside">GTAGVP</span><span class="topo-membrane">GAGA</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420  </span>
+<span class="topo-line"><span class="topo-membrane">IMLCMVLHSVGLPLT</span><span class="topo-inside">DPNV</span><span class="topo-membrane">AAAYAMILGIDAILDMGR</span><span class="topo-outside">TMVNVTGDLTGTAIVAKTE</span><span class="topo-unknown">GTLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (24 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -8919,6 +9003,7 @@ GltPh is a sodium-coupled aspartate transporter from the archaeon Pyrococcus hor
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -8934,14 +9019,15 @@ GltPh is a sodium-coupled aspartate transporter from the archaeon Pyrococcus hor
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGLYRK</span><span class="topo-inside">YIEYPV</span><span class="topo-membrane">LQKILIGLILGAIVG</span><span class="topo-outside">LILGHYGYAHAVHTYV</span><span class="topo-membrane">KPFGDLFVRLLCMLVMP</span></span>
-<span class="topo-line"><span class="topo-membrane">IVFASL</span><span class="topo-inside">VVGAASISPARLGRVGVKIVVYYL</span><span class="topo-membrane">LTSAFAVTLGIIMARLF</span><span class="topo-outside">NPGAGIHLAVGGQ</span></span>
-<span class="topo-line"><span class="topo-outside">QFQPHQAPPLVHI</span><span class="topo-membrane">LLDIVPTNPFGALANGQVLPTIFFAIIL</span><span class="topo-inside">GIAITYLMNSEN</span><span class="topo-unknown">EKVRKSA</span></span>
-<span class="topo-line"><span class="topo-unknown">ETLLDAINGLAEAMYKI</span><span class="topo-membrane">VNGVMQYAPIGVFALIA</span><span class="topo-outside">YVMAEQGVHVV</span><span class="topo-membrane">GELAKVTAAVYVGLT</span></span>
-<span class="topo-line"><span class="topo-membrane">LQ</span><span class="topo-inside">ILLVYFVLLKIYGIDPISFIKHAKDAMLTAFVTRSSSGTLPVTMRVAKEMGISEGIYS</span></span>
-<span class="topo-line"><span class="topo-inside">FTLPLGATINM</span><span class="topo-membrane">DGTALYQGVATFFI</span><span class="topo-outside">ANALGSHLTVG</span><span class="topo-membrane">QQLTIVLTAVLASIGT</span><span class="topo-inside">AGVP</span><span class="topo-membrane">GAGA</span></span>
-<span class="topo-line"><span class="topo-membrane">IMLCMVLHSV</span><span class="topo-outside">GLPLTDPNVAAAY</span><span class="topo-membrane">AMILGIDAILDMGR</span><span class="topo-inside">TMVNVTGDLTGTAIVAKTE</span><span class="topo-unknown">GTLV</span></span>
-<span class="topo-line"><span class="topo-unknown">PR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGLYRK</span><span class="topo-inside">YIEYPV</span><span class="topo-membrane">LQKILIGLILGAIVG</span><span class="topo-outside">LILGHYGYAHAVHTYV</span><span class="topo-membrane">KPFGDLFVRLLCMLVMPIVFASL</span><span class="topo-inside">VVGAASISPARLGRVGVKIVVYYL</span><span class="topo-membrane">LTSAFAVTLGIIMARLF</span><span class="topo-outside">NPGAGIHLAVGGQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">QFQPHQAPPLVHI</span><span class="topo-membrane">LLDIVPTNPFGALANGQVLPTIFFAIIL</span><span class="topo-inside">GIAITYLMNSEN</span><span class="topo-unknown">EKVRKSAETLLDAINGLAEAMYKI</span><span class="topo-membrane">VNGVMQYAPIGVFALIA</span><span class="topo-outside">YVMAEQGVHVV</span><span class="topo-membrane">GELAKVTAAVYVGLT</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">LQ</span><span class="topo-inside">ILLVYFVLLKIYGIDPISFIKHAKDAMLTAFVTRSSSGTLPVTMRVAKEMGISEGIYSFTLPLGATINM</span><span class="topo-membrane">DGTALYQGVATFFI</span><span class="topo-outside">ANALGSHLTVG</span><span class="topo-membrane">QQLTIVLTAVLASIGT</span><span class="topo-inside">AGVP</span><span class="topo-membrane">GAGA</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420  </span>
+<span class="topo-line"><span class="topo-membrane">IMLCMVLHSV</span><span class="topo-outside">GLPLTDPNVAAAY</span><span class="topo-membrane">AMILGIDAILDMGR</span><span class="topo-inside">TMVNVTGDLTGTAIVAKTE</span><span class="topo-unknown">GTLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (24 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -9121,6 +9207,7 @@ GltPh is a sodium-coupled aspartate transporter from the archaeon Pyrococcus hor
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -9136,14 +9223,15 @@ GltPh is a sodium-coupled aspartate transporter from the archaeon Pyrococcus hor
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGLYRK</span><span class="topo-inside">YIEYPV</span><span class="topo-membrane">LQKILIGLILGAIVG</span><span class="topo-outside">LILGHYGYAHAVHTYV</span><span class="topo-membrane">KPFGDLFVRLLCMLVMP</span></span>
-<span class="topo-line"><span class="topo-membrane">IVFASL</span><span class="topo-inside">VVGAASISPARLGRVGVKIVVYYL</span><span class="topo-membrane">LTSAFAVTLGIIMARLFNP</span><span class="topo-outside">GAGIHLAVGGQ</span></span>
-<span class="topo-line"><span class="topo-outside">QFQPHQAPPLVHI</span><span class="topo-membrane">LLDIVPTNPFGALANGQVLPTIFFAIIL</span><span class="topo-inside">GIAITYLMNSEN</span><span class="topo-unknown">EKVRKSA</span></span>
-<span class="topo-line"><span class="topo-unknown">ETLLDAINGLAEAMYKI</span><span class="topo-membrane">VNGVMQYAPIGVFALIA</span><span class="topo-outside">YVMAEQGVHVV</span><span class="topo-membrane">GELAKVTAAVYVGLT</span></span>
-<span class="topo-line"><span class="topo-membrane">LQ</span><span class="topo-inside">ILLVYFVLLKIYGIDPISFIKHAKDAMLTAFVTRSSSGTLPVTMRVAKEMGISEGIYS</span></span>
-<span class="topo-line"><span class="topo-inside">FTLPLGATINM</span><span class="topo-membrane">DGTALYQGVATFFI</span><span class="topo-outside">ANALGSHLTVG</span><span class="topo-membrane">QQLTIVLTAVLASIGT</span><span class="topo-inside">AGVP</span><span class="topo-membrane">GAGA</span></span>
-<span class="topo-line"><span class="topo-membrane">IMLCMVLHSV</span><span class="topo-outside">GLPLTDPNVAAAY</span><span class="topo-membrane">AMILGIDAILDMGR</span><span class="topo-inside">TMVNVTGDLTGTAIVAKTE</span><span class="topo-unknown">GTLV</span></span>
-<span class="topo-line"><span class="topo-unknown">PR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGLYRK</span><span class="topo-inside">YIEYPV</span><span class="topo-membrane">LQKILIGLILGAIVG</span><span class="topo-outside">LILGHYGYAHAVHTYV</span><span class="topo-membrane">KPFGDLFVRLLCMLVMPIVFASL</span><span class="topo-inside">VVGAASISPARLGRVGVKIVVYYL</span><span class="topo-membrane">LTSAFAVTLGIIMARLFNP</span><span class="topo-outside">GAGIHLAVGGQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">QFQPHQAPPLVHI</span><span class="topo-membrane">LLDIVPTNPFGALANGQVLPTIFFAIIL</span><span class="topo-inside">GIAITYLMNSEN</span><span class="topo-unknown">EKVRKSAETLLDAINGLAEAMYKI</span><span class="topo-membrane">VNGVMQYAPIGVFALIA</span><span class="topo-outside">YVMAEQGVHVV</span><span class="topo-membrane">GELAKVTAAVYVGLT</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">LQ</span><span class="topo-inside">ILLVYFVLLKIYGIDPISFIKHAKDAMLTAFVTRSSSGTLPVTMRVAKEMGISEGIYSFTLPLGATINM</span><span class="topo-membrane">DGTALYQGVATFFI</span><span class="topo-outside">ANALGSHLTVG</span><span class="topo-membrane">QQLTIVLTAVLASIGT</span><span class="topo-inside">AGVP</span><span class="topo-membrane">GAGA</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420  </span>
+<span class="topo-line"><span class="topo-membrane">IMLCMVLHSV</span><span class="topo-outside">GLPLTDPNVAAAY</span><span class="topo-membrane">AMILGIDAILDMGR</span><span class="topo-inside">TMVNVTGDLTGTAIVAKTE</span><span class="topo-unknown">GTLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (24 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -9323,6 +9411,7 @@ GltPh is a sodium-coupled aspartate transporter from the archaeon Pyrococcus hor
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -9338,14 +9427,15 @@ GltPh is a sodium-coupled aspartate transporter from the archaeon Pyrococcus hor
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGLYRK</span><span class="topo-inside">YIEYPV</span><span class="topo-membrane">LQKILIGLILGAIVG</span><span class="topo-outside">LILGHYGYAHAVHTYV</span><span class="topo-membrane">KPFGDLFVRLLCMLVMP</span></span>
-<span class="topo-line"><span class="topo-membrane">IVFASL</span><span class="topo-inside">VVGAASISPARLGRVGVKIVVYYL</span><span class="topo-membrane">LTSAFAVTLGIIMARLF</span><span class="topo-outside">NPGAGIHLAVGGQ</span></span>
-<span class="topo-line"><span class="topo-outside">QFQPHQAPPLVHI</span><span class="topo-membrane">LLDIVPTNPFGALANGQVLPTIFFAIIL</span><span class="topo-inside">GIAITYLMNSEN</span><span class="topo-unknown">EKVRKSA</span></span>
-<span class="topo-line"><span class="topo-unknown">ETLLDAINGLAEAMYKI</span><span class="topo-membrane">VNGVMQYAPIGVFALIA</span><span class="topo-outside">YVMAEQGVHVV</span><span class="topo-membrane">GELAKVTAAVYVGLT</span></span>
-<span class="topo-line"><span class="topo-membrane">LQILLV</span><span class="topo-inside">YFVLLKIYGIDPISFIKHAKDAMLTAFVTRSSSGTLPVTMRVAKEMGISEGIYS</span></span>
-<span class="topo-line"><span class="topo-inside">FTLPLGATINM</span><span class="topo-membrane">DGTALYQGVATFFI</span><span class="topo-outside">ANALGSHLTV</span><span class="topo-membrane">GQQLTIVLTAVLASIGT</span><span class="topo-inside">AGVP</span><span class="topo-membrane">GAGA</span></span>
-<span class="topo-line"><span class="topo-membrane">IMLCMVLHSV</span><span class="topo-outside">GLPLTDPNVAAAY</span><span class="topo-membrane">AMILGIDAILDMGR</span><span class="topo-inside">TMVNVTGDLTGTAIVAKTE</span><span class="topo-unknown">GTLV</span></span>
-<span class="topo-line"><span class="topo-unknown">PR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGLYRK</span><span class="topo-inside">YIEYPV</span><span class="topo-membrane">LQKILIGLILGAIVG</span><span class="topo-outside">LILGHYGYAHAVHTYV</span><span class="topo-membrane">KPFGDLFVRLLCMLVMPIVFASL</span><span class="topo-inside">VVGAASISPARLGRVGVKIVVYYL</span><span class="topo-membrane">LTSAFAVTLGIIMARLF</span><span class="topo-outside">NPGAGIHLAVGGQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">QFQPHQAPPLVHI</span><span class="topo-membrane">LLDIVPTNPFGALANGQVLPTIFFAIIL</span><span class="topo-inside">GIAITYLMNSEN</span><span class="topo-unknown">EKVRKSAETLLDAINGLAEAMYKI</span><span class="topo-membrane">VNGVMQYAPIGVFALIA</span><span class="topo-outside">YVMAEQGVHVV</span><span class="topo-membrane">GELAKVTAAVYVGLT</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">LQILLV</span><span class="topo-inside">YFVLLKIYGIDPISFIKHAKDAMLTAFVTRSSSGTLPVTMRVAKEMGISEGIYSFTLPLGATINM</span><span class="topo-membrane">DGTALYQGVATFFI</span><span class="topo-outside">ANALGSHLTV</span><span class="topo-membrane">GQQLTIVLTAVLASIGT</span><span class="topo-inside">AGVP</span><span class="topo-membrane">GAGA</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420  </span>
+<span class="topo-line"><span class="topo-membrane">IMLCMVLHSV</span><span class="topo-outside">GLPLTDPNVAAAY</span><span class="topo-membrane">AMILGIDAILDMGR</span><span class="topo-inside">TMVNVTGDLTGTAIVAKTE</span><span class="topo-unknown">GTLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (24 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -9525,6 +9615,7 @@ GltPh is a sodium-coupled aspartate transporter from the archaeon Pyrococcus hor
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -9582,14 +9673,15 @@ GltPh is a sodium-coupled aspartate transporter from the archaeon Pyrococcus hor
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGLYRKYIEYP</span><span class="topo-outside">VLQK</span><span class="topo-membrane">ILIGLILGAIVGLILG</span><span class="topo-inside">HYGY</span><span class="topo-membrane">AHAVHTYVKPFGDLFVRLLKMLVMP</span></span>
-<span class="topo-line"><span class="topo-outside">IVFASLVVGAASISPARLGRVG</span><span class="topo-membrane">VKIVVYYLLTSAFAVTLGIIMA</span><span class="topo-inside">RLFNPGAGIHLAVGGQ</span></span>
-<span class="topo-line"><span class="topo-inside">QFQPHQA</span><span class="topo-membrane">PPLVHILLDIVPTNPFGALANGQVLPTIFF</span><span class="topo-outside">AIILGIAITYLMNSENEKVRKSA</span></span>
-<span class="topo-line"><span class="topo-outside">ETLLDAINGLAEAMYKIVNGVMQY</span><span class="topo-membrane">APIGVFALIAYVMAEQG</span><span class="topo-inside">VHVVGELAKV</span><span class="topo-membrane">TAAVYVGLT</span></span>
-<span class="topo-line"><span class="topo-membrane">LQILLVYFVL</span><span class="topo-outside">LKIYGID</span><span class="topo-unknown">PISFIKHAKDAMLTAFVTRSSSGTLPVT</span><span class="topo-outside">MRVAKEMGISEGIYS</span></span>
-<span class="topo-line"><span class="topo-outside">FT</span><span class="topo-membrane">LPLGATINMDGTALYQGV</span><span class="topo-inside">CTFFIANALGSHLTVGQQLTIVLTAVLASIGTAGVPGAGA</span></span>
-<span class="topo-line"><span class="topo-inside">IMLAMVLHSVGLPLTDPNVAAAYAMILGI</span><span class="topo-membrane">DAILDMGRTMVNVTGDLTG</span><span class="topo-outside">TAIVAKTEGTLV</span></span>
-<span class="topo-line"><span class="topo-outside">PR</span><span class="topo-unknown">GSG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGLYRKYIEYP</span><span class="topo-outside">VLQK</span><span class="topo-membrane">ILIGLILGAIVGLILG</span><span class="topo-inside">HYGY</span><span class="topo-membrane">AHAVHTYVKPFGDLFVRLLKMLVMP</span><span class="topo-outside">IVFASLVVGAASISPARLGRVG</span><span class="topo-membrane">VKIVVYYLLTSAFAVTLGIIMA</span><span class="topo-inside">RLFNPGAGIHLAVGGQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">QFQPHQA</span><span class="topo-membrane">PPLVHILLDIVPTNPFGALANGQVLPTIFF</span><span class="topo-outside">AIILGIAITYLMNSENEKVRKSAETLLDAINGLAEAMYKIVNGVMQY</span><span class="topo-membrane">APIGVFALIAYVMAEQG</span><span class="topo-inside">VHVVGELAKV</span><span class="topo-membrane">TAAVYVGLT</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">LQILLVYFVL</span><span class="topo-outside">LKIYGID</span><span class="topo-unknown">PISFIKHAKDAMLTAFVTRSSSGTLPVT</span><span class="topo-outside">MRVAKEMGISEGIYSFT</span><span class="topo-membrane">LPLGATINMDGTALYQGV</span><span class="topo-inside">CTFFIANALGSHLTVGQQLTIVLTAVLASIGTAGVPGAGA</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420     </span>
+<span class="topo-line"><span class="topo-inside">IMLAMVLHSVGLPLTDPNVAAAYAMILGI</span><span class="topo-membrane">DAILDMGRTMVNVTGDLTG</span><span class="topo-outside">TAIVAKTEGTLVPR</span><span class="topo-unknown">GSG</span></span>
+<details class="topo-details"><summary>Topology coordinates (20 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -9741,6 +9833,7 @@ GltPh is a sodium-coupled aspartate transporter from the archaeon Pyrococcus hor
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -9756,14 +9849,15 @@ GltPh is a sodium-coupled aspartate transporter from the archaeon Pyrococcus hor
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGLYRKYIEYP</span><span class="topo-outside">VLQK</span><span class="topo-membrane">ILIGLILGAIVGLILG</span><span class="topo-inside">HYGY</span><span class="topo-membrane">AHAVHTYVKPFGDLFVRLLKMLVMP</span></span>
-<span class="topo-line"><span class="topo-outside">IVFASLVVGAASISPARLGRVG</span><span class="topo-membrane">VKIVVYYLLTSAFAVTLGIIMA</span><span class="topo-inside">RLFNPGAGIHLAVGGQ</span></span>
-<span class="topo-line"><span class="topo-inside">QFQPHQA</span><span class="topo-membrane">PPLVHILLDIVPTNPFGALANGQVLPTIFF</span><span class="topo-outside">AIILGIAITYLMNSENEKVRKSA</span></span>
-<span class="topo-line"><span class="topo-outside">ETLLDAINGLAEAMYKIVNGVMQY</span><span class="topo-membrane">APIGVFALIAYVMAEQG</span><span class="topo-inside">VHVVGELAKV</span><span class="topo-membrane">TAAVYVGLT</span></span>
-<span class="topo-line"><span class="topo-membrane">LQILLVYFVL</span><span class="topo-outside">LKIYGID</span><span class="topo-unknown">PISFIKHAKDAMLTAFVTRSSSGTLPVT</span><span class="topo-outside">MRVAKEMGISEGIYS</span></span>
-<span class="topo-line"><span class="topo-outside">FT</span><span class="topo-membrane">LPLGATINMDGTALYQGV</span><span class="topo-inside">CTFFIANALGSHLTVGQQLTIVLTAVLASIGTAGVPGAGA</span></span>
-<span class="topo-line"><span class="topo-inside">IMLAMVLHSVGLPLTDPNVAAAYAMILGI</span><span class="topo-membrane">DAILDMGRTMVNVTGDLTG</span><span class="topo-outside">TAIVAKTEGTLV</span></span>
-<span class="topo-line"><span class="topo-outside">PR</span><span class="topo-unknown">GSG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGLYRKYIEYP</span><span class="topo-outside">VLQK</span><span class="topo-membrane">ILIGLILGAIVGLILG</span><span class="topo-inside">HYGY</span><span class="topo-membrane">AHAVHTYVKPFGDLFVRLLKMLVMP</span><span class="topo-outside">IVFASLVVGAASISPARLGRVG</span><span class="topo-membrane">VKIVVYYLLTSAFAVTLGIIMA</span><span class="topo-inside">RLFNPGAGIHLAVGGQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">QFQPHQA</span><span class="topo-membrane">PPLVHILLDIVPTNPFGALANGQVLPTIFF</span><span class="topo-outside">AIILGIAITYLMNSENEKVRKSAETLLDAINGLAEAMYKIVNGVMQY</span><span class="topo-membrane">APIGVFALIAYVMAEQG</span><span class="topo-inside">VHVVGELAKV</span><span class="topo-membrane">TAAVYVGLT</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">LQILLVYFVL</span><span class="topo-outside">LKIYGID</span><span class="topo-unknown">PISFIKHAKDAMLTAFVTRSSSGTLPVT</span><span class="topo-outside">MRVAKEMGISEGIYSFT</span><span class="topo-membrane">LPLGATINMDGTALYQGV</span><span class="topo-inside">CTFFIANALGSHLTVGQQLTIVLTAVLASIGTAGVPGAGA</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420     </span>
+<span class="topo-line"><span class="topo-inside">IMLAMVLHSVGLPLTDPNVAAAYAMILGI</span><span class="topo-membrane">DAILDMGRTMVNVTGDLTG</span><span class="topo-outside">TAIVAKTEGTLVPR</span><span class="topo-unknown">GSG</span></span>
+<details class="topo-details"><summary>Topology coordinates (20 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -9915,6 +10009,7 @@ GltPh is a sodium-coupled aspartate transporter from the archaeon Pyrococcus hor
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -9930,14 +10025,15 @@ GltPh is a sodium-coupled aspartate transporter from the archaeon Pyrococcus hor
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGLYRKYIEYP</span><span class="topo-outside">VLQK</span><span class="topo-membrane">ILIGLILGAIVGLILG</span><span class="topo-inside">HYGY</span><span class="topo-membrane">AHAVHTYVKPFGDLFVRLLKMLVMP</span></span>
-<span class="topo-line"><span class="topo-outside">IVFASLVVGAASISPARLGRVG</span><span class="topo-membrane">VKIVVYYLLTSAFAVTLGIIMA</span><span class="topo-inside">RLFNPGAGIHLAVGGQ</span></span>
-<span class="topo-line"><span class="topo-inside">QFQPHQA</span><span class="topo-membrane">PPLVHILLDIVPTNPFGALANGQVLPTIFF</span><span class="topo-outside">AIILGIAITYLMNSENEKVRKSA</span></span>
-<span class="topo-line"><span class="topo-outside">ETLLDAINGLAEAMYKIVNGVMQY</span><span class="topo-membrane">APIGVFALIAYVMAEQG</span><span class="topo-inside">VHVVGELAKV</span><span class="topo-membrane">TAAVYVGLT</span></span>
-<span class="topo-line"><span class="topo-membrane">LQILLVYFVL</span><span class="topo-outside">LKIYGID</span><span class="topo-unknown">PISFIKHAKDAMLTAFVTRSSSGTLPVT</span><span class="topo-outside">MRVAKEMGISEGIYS</span></span>
-<span class="topo-line"><span class="topo-outside">FT</span><span class="topo-membrane">LPLGATINMDGTALYQGV</span><span class="topo-inside">CTFFIANALGSHLTVGQQLTIVLTAVLASIGTAGVPGAGA</span></span>
-<span class="topo-line"><span class="topo-inside">IMLAMVLHSVGLPLTDPNVAAAYAMILGI</span><span class="topo-membrane">DAILDMGRTMVNVTGDLTG</span><span class="topo-outside">TAIVAKTEGTLV</span></span>
-<span class="topo-line"><span class="topo-outside">PR</span><span class="topo-unknown">GSG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGLYRKYIEYP</span><span class="topo-outside">VLQK</span><span class="topo-membrane">ILIGLILGAIVGLILG</span><span class="topo-inside">HYGY</span><span class="topo-membrane">AHAVHTYVKPFGDLFVRLLKMLVMP</span><span class="topo-outside">IVFASLVVGAASISPARLGRVG</span><span class="topo-membrane">VKIVVYYLLTSAFAVTLGIIMA</span><span class="topo-inside">RLFNPGAGIHLAVGGQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">QFQPHQA</span><span class="topo-membrane">PPLVHILLDIVPTNPFGALANGQVLPTIFF</span><span class="topo-outside">AIILGIAITYLMNSENEKVRKSAETLLDAINGLAEAMYKIVNGVMQY</span><span class="topo-membrane">APIGVFALIAYVMAEQG</span><span class="topo-inside">VHVVGELAKV</span><span class="topo-membrane">TAAVYVGLT</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">LQILLVYFVL</span><span class="topo-outside">LKIYGID</span><span class="topo-unknown">PISFIKHAKDAMLTAFVTRSSSGTLPVT</span><span class="topo-outside">MRVAKEMGISEGIYSFT</span><span class="topo-membrane">LPLGATINMDGTALYQGV</span><span class="topo-inside">CTFFIANALGSHLTVGQQLTIVLTAVLASIGTAGVPGAGA</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420     </span>
+<span class="topo-line"><span class="topo-inside">IMLAMVLHSVGLPLTDPNVAAAYAMILGI</span><span class="topo-membrane">DAILDMGRTMVNVTGDLTG</span><span class="topo-outside">TAIVAKTEGTLVPR</span><span class="topo-unknown">GSG</span></span>
+<details class="topo-details"><summary>Topology coordinates (20 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -10089,6 +10185,7 @@ GltPh is a sodium-coupled aspartate transporter from the archaeon Pyrococcus hor
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -10104,14 +10201,15 @@ GltPh is a sodium-coupled aspartate transporter from the archaeon Pyrococcus hor
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGLYRKYIE</span><span class="topo-outside">YPV</span><span class="topo-membrane">LQKILIGLILGAIVGLILG</span><span class="topo-inside">HYGYAHA</span><span class="topo-membrane">VHTYVKPFGDLFVRLLKMLVMP</span></span>
-<span class="topo-line"><span class="topo-membrane">IVF</span><span class="topo-outside">ASLVVGAASISPARLG</span><span class="topo-membrane">RVGVKIVVYYLLTSAFAVTLGIIMARLF</span><span class="topo-inside">NPGAGIHLAVGGQ</span></span>
-<span class="topo-line"><span class="topo-inside">QFQPHQA</span><span class="topo-membrane">PPLVHILLDIVPTNPFGALANGQVLPTIFFAII</span><span class="topo-outside">LGIAITYLMNSENEK</span><span class="topo-unknown">VRKSA</span></span>
-<span class="topo-line"><span class="topo-unknown">ETLLDAINGLAEAMYKIVNG</span><span class="topo-membrane">VMQYAPIGVFALIAYVMAEQGV</span><span class="topo-inside">HVVGELA</span><span class="topo-membrane">KVTAAVYVGLT</span></span>
-<span class="topo-line"><span class="topo-membrane">LQILLVYFVLLKI</span><span class="topo-outside">YGID</span><span class="topo-unknown">PISFIKHAKDAMLTAFVTRSSSGTLPVTM</span><span class="topo-outside">RVAKEMGISEGIY</span><span class="topo-membrane">S</span></span>
-<span class="topo-line"><span class="topo-membrane">FTLPLGATINMDGTALYQGV</span><span class="topo-inside">CTFFIANALGSHLTVGQQ</span><span class="topo-unknown">LTIVLTAVLASIGTAGVPGAGA</span></span>
-<span class="topo-line"><span class="topo-unknown">IML</span><span class="topo-inside">AMVLHSVGLPLTDPNVAAAYAMILGI</span><span class="topo-membrane">DAILDMGRTMVNVTGDLTGT</span><span class="topo-outside">AIVAKTE</span><span class="topo-unknown">GTLV</span></span>
-<span class="topo-line"><span class="topo-unknown">PR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGLYRKYIE</span><span class="topo-outside">YPV</span><span class="topo-membrane">LQKILIGLILGAIVGLILG</span><span class="topo-inside">HYGYAHA</span><span class="topo-membrane">VHTYVKPFGDLFVRLLKMLVMPIVF</span><span class="topo-outside">ASLVVGAASISPARLG</span><span class="topo-membrane">RVGVKIVVYYLLTSAFAVTLGIIMARLF</span><span class="topo-inside">NPGAGIHLAVGGQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">QFQPHQA</span><span class="topo-membrane">PPLVHILLDIVPTNPFGALANGQVLPTIFFAII</span><span class="topo-outside">LGIAITYLMNSENEK</span><span class="topo-unknown">VRKSAETLLDAINGLAEAMYKIVNG</span><span class="topo-membrane">VMQYAPIGVFALIAYVMAEQGV</span><span class="topo-inside">HVVGELA</span><span class="topo-membrane">KVTAAVYVGLT</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">LQILLVYFVLLKI</span><span class="topo-outside">YGID</span><span class="topo-unknown">PISFIKHAKDAMLTAFVTRSSSGTLPVTM</span><span class="topo-outside">RVAKEMGISEGIY</span><span class="topo-membrane">SFTLPLGATINMDGTALYQGV</span><span class="topo-inside">CTFFIANALGSHLTVGQQ</span><span class="topo-unknown">LTIVLTAVLASIGTAGVPGAGA</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420  </span>
+<span class="topo-line"><span class="topo-unknown">IML</span><span class="topo-inside">AMVLHSVGLPLTDPNVAAAYAMILGI</span><span class="topo-membrane">DAILDMGRTMVNVTGDLTGT</span><span class="topo-outside">AIVAKTE</span><span class="topo-unknown">GTLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (25 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -10298,6 +10396,7 @@ GltPh is a sodium-coupled aspartate transporter from the archaeon Pyrococcus hor
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -10313,14 +10412,15 @@ GltPh is a sodium-coupled aspartate transporter from the archaeon Pyrococcus hor
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGLYRKYIE</span><span class="topo-outside">YPV</span><span class="topo-membrane">LQKILIGLILGAIVGLILG</span><span class="topo-inside">HYGY</span><span class="topo-membrane">AHAVHTYVKPFGDLFVRLLKMLVMP</span></span>
-<span class="topo-line"><span class="topo-membrane">IVF</span><span class="topo-outside">ASLVVGAASISPARLG</span><span class="topo-membrane">RVGVKIVVYYLLTSAFAVTLGIIMARLF</span><span class="topo-inside">NPGAGIHLAVGGQ</span></span>
-<span class="topo-line"><span class="topo-inside">QFQPHQA</span><span class="topo-membrane">PPLVHILLDIVPTNPFGALANGQVLPTIFFAII</span><span class="topo-outside">LGIAITYLMNSENEK</span><span class="topo-unknown">VRKSA</span></span>
-<span class="topo-line"><span class="topo-unknown">ETLLDAINGLAEAMYKIVNG</span><span class="topo-membrane">VMQYAPIGVFALIAYVMAEQGV</span><span class="topo-inside">HVVGELA</span><span class="topo-membrane">KVTAAVYVGLT</span></span>
-<span class="topo-line"><span class="topo-membrane">LQILLVYFVLL</span><span class="topo-outside">KIYGID</span><span class="topo-unknown">PISFIKHAKDAMLTAFVTRSSSGTLPVTM</span><span class="topo-outside">RVAKEMGISEGIYS</span></span>
-<span class="topo-line"><span class="topo-membrane">FTLPLGATINMDGTALYQGVC</span><span class="topo-inside">TFFIANALGSHLTVGQQ</span><span class="topo-unknown">LTIVLTAVLASIGTAGVPGAGA</span></span>
-<span class="topo-line"><span class="topo-unknown">IML</span><span class="topo-inside">AMVLHSVGLPLTDPNVAAAYAMILGI</span><span class="topo-membrane">DAILDMGRTMVNVTGDLTGT</span><span class="topo-outside">AIVAKTE</span><span class="topo-unknown">GTLV</span></span>
-<span class="topo-line"><span class="topo-unknown">PR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGLYRKYIE</span><span class="topo-outside">YPV</span><span class="topo-membrane">LQKILIGLILGAIVGLILG</span><span class="topo-inside">HYGY</span><span class="topo-membrane">AHAVHTYVKPFGDLFVRLLKMLVMPIVF</span><span class="topo-outside">ASLVVGAASISPARLG</span><span class="topo-membrane">RVGVKIVVYYLLTSAFAVTLGIIMARLF</span><span class="topo-inside">NPGAGIHLAVGGQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">QFQPHQA</span><span class="topo-membrane">PPLVHILLDIVPTNPFGALANGQVLPTIFFAII</span><span class="topo-outside">LGIAITYLMNSENEK</span><span class="topo-unknown">VRKSAETLLDAINGLAEAMYKIVNG</span><span class="topo-membrane">VMQYAPIGVFALIAYVMAEQGV</span><span class="topo-inside">HVVGELA</span><span class="topo-membrane">KVTAAVYVGLT</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">LQILLVYFVLL</span><span class="topo-outside">KIYGID</span><span class="topo-unknown">PISFIKHAKDAMLTAFVTRSSSGTLPVTM</span><span class="topo-outside">RVAKEMGISEGIYS</span><span class="topo-membrane">FTLPLGATINMDGTALYQGVC</span><span class="topo-inside">TFFIANALGSHLTVGQQ</span><span class="topo-unknown">LTIVLTAVLASIGTAGVPGAGA</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420  </span>
+<span class="topo-line"><span class="topo-unknown">IML</span><span class="topo-inside">AMVLHSVGLPLTDPNVAAAYAMILGI</span><span class="topo-membrane">DAILDMGRTMVNVTGDLTGT</span><span class="topo-outside">AIVAKTE</span><span class="topo-unknown">GTLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (25 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -10507,6 +10607,7 @@ GltPh is a sodium-coupled aspartate transporter from the archaeon Pyrococcus hor
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -10522,14 +10623,15 @@ GltPh is a sodium-coupled aspartate transporter from the archaeon Pyrococcus hor
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGLYRKYIE</span><span class="topo-outside">YPV</span><span class="topo-membrane">LQKILIGLILGAIVGLILG</span><span class="topo-inside">HYGYAHA</span><span class="topo-membrane">VHTYVKPFGDLFVRLLKMLVMP</span></span>
-<span class="topo-line"><span class="topo-membrane">IVF</span><span class="topo-outside">ASLVVGAASISPARLGRV</span><span class="topo-membrane">GVKIVVYYLLTSAFAVTLGIIMARLF</span><span class="topo-inside">NPGAGIHLAVGGQ</span></span>
-<span class="topo-line"><span class="topo-inside">QFQPHQA</span><span class="topo-membrane">PPLVHILLDIVPTNPFGALANGQVLPTIFFAII</span><span class="topo-outside">LGIAITYLMNSENEK</span><span class="topo-unknown">VRKSA</span></span>
-<span class="topo-line"><span class="topo-unknown">ETLLDAINGLAEAMYKIVNG</span><span class="topo-membrane">VMQYAPIGVFALIAYVMAEQG</span><span class="topo-inside">VHVVGELA</span><span class="topo-membrane">KVTAAVYVGLT</span></span>
-<span class="topo-line"><span class="topo-membrane">LQILLVYFVLL</span><span class="topo-outside">KIYGID</span><span class="topo-unknown">PISFIKHAKDAMLTAFVTRSSSGTLPVTM</span><span class="topo-outside">RVAKEMGISEGIYS</span></span>
-<span class="topo-line"><span class="topo-membrane">FTLPLGATINMDGTALYQGVC</span><span class="topo-inside">TFFIANALGSHLTVGQQ</span><span class="topo-unknown">LTIVLTAVLASIGTAGVPGAGA</span></span>
-<span class="topo-line"><span class="topo-unknown">IMLAMVLHSV</span><span class="topo-inside">GLPLTDPNVAAAYAMILGI</span><span class="topo-membrane">DAILDMGRTMVNVTGDLTGT</span><span class="topo-outside">AIVAKTE</span><span class="topo-unknown">GTLV</span></span>
-<span class="topo-line"><span class="topo-unknown">PR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGLYRKYIE</span><span class="topo-outside">YPV</span><span class="topo-membrane">LQKILIGLILGAIVGLILG</span><span class="topo-inside">HYGYAHA</span><span class="topo-membrane">VHTYVKPFGDLFVRLLKMLVMPIVF</span><span class="topo-outside">ASLVVGAASISPARLGRV</span><span class="topo-membrane">GVKIVVYYLLTSAFAVTLGIIMARLF</span><span class="topo-inside">NPGAGIHLAVGGQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">QFQPHQA</span><span class="topo-membrane">PPLVHILLDIVPTNPFGALANGQVLPTIFFAII</span><span class="topo-outside">LGIAITYLMNSENEK</span><span class="topo-unknown">VRKSAETLLDAINGLAEAMYKIVNG</span><span class="topo-membrane">VMQYAPIGVFALIAYVMAEQG</span><span class="topo-inside">VHVVGELA</span><span class="topo-membrane">KVTAAVYVGLT</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">LQILLVYFVLL</span><span class="topo-outside">KIYGID</span><span class="topo-unknown">PISFIKHAKDAMLTAFVTRSSSGTLPVTM</span><span class="topo-outside">RVAKEMGISEGIYS</span><span class="topo-membrane">FTLPLGATINMDGTALYQGVC</span><span class="topo-inside">TFFIANALGSHLTVGQQ</span><span class="topo-unknown">LTIVLTAVLASIGTAGVPGAGA</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420  </span>
+<span class="topo-line"><span class="topo-unknown">IMLAMVLHSV</span><span class="topo-inside">GLPLTDPNVAAAYAMILGI</span><span class="topo-membrane">DAILDMGRTMVNVTGDLTGT</span><span class="topo-outside">AIVAKTE</span><span class="topo-unknown">GTLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (26 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -10723,6 +10825,7 @@ GltPh is a sodium-coupled aspartate transporter from the archaeon Pyrococcus hor
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

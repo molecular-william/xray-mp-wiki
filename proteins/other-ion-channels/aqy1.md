@@ -301,11 +301,13 @@ bioreactor, Sf9 Expression Systemression Systemi Expression Strainus Expression 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MPDIENQAAD</span><span class="topo-outside">GQAEIKPEDAPYITNAYKPAYARWGFGSDSVRNHFIA</span><span class="topo-membrane">MSGEFVGTFLFLW</span></span>
-<span class="topo-line"><span class="topo-membrane">SAFVIA</span><span class="topo-inside">QIANQAPETPDGGSNPAQLI</span><span class="topo-membrane">MISFGFGFGVMVGVFITY</span><span class="topo-outside">RVS</span><span class="topo-unknown">GGNLNPAVTLALV</span></span>
-<span class="topo-line"><span class="topo-unknown">L</span><span class="topo-outside">ARAIPPFRG</span><span class="topo-membrane">ILMAFTQIVAGMAAAGAA</span><span class="topo-inside">SAMTPGEIAFANALGGGASRTRG</span><span class="topo-membrane">LFLEAFGTA</span></span>
-<span class="topo-line"><span class="topo-membrane">ILCLTVLML</span><span class="topo-outside">AVEKHRATWF</span><span class="topo-membrane">APFVIGIALLIAHLICI</span><span class="topo-inside">YYTGA</span><span class="topo-unknown">GLNPARSFGPAVA</span><span class="topo-inside">ARSFPN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MPDIENQAAD</span><span class="topo-outside">GQAEIKPEDAPYITNAYKPAYARWGFGSDSVRNHFIA</span><span class="topo-membrane">MSGEFVGTFLFLWSAFVIA</span><span class="topo-inside">QIANQAPETPDGGSNPAQLI</span><span class="topo-membrane">MISFGFGFGVMVGVFITY</span><span class="topo-outside">RVS</span><span class="topo-unknown">GGNLNPAVTLALV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-unknown">L</span><span class="topo-outside">ARAIPPFRG</span><span class="topo-membrane">ILMAFTQIVAGMAAAGAA</span><span class="topo-inside">SAMTPGEIAFANALGGGASRTRG</span><span class="topo-membrane">LFLEAFGTAILCLTVLML</span><span class="topo-outside">AVEKHRATWF</span><span class="topo-membrane">APFVIGIALLIAHLICI</span><span class="topo-inside">YYTGA</span><span class="topo-unknown">GLNPARSFGPAVA</span><span class="topo-inside">ARSFPN</span></span>
+<span class="topo-ruler">       250       260       270         </span>
 <span class="topo-line"><span class="topo-inside">YH</span><span class="topo-membrane">WIYWLGPILGAFLAYSIW</span><span class="topo-outside">QMWKWLNYQTTNP</span><span class="topo-unknown">GQDSDA</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -450,6 +452,7 @@ bioreactor, Sf9 Expression Systemression Systemi Expression Strainus Expression 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -465,11 +468,13 @@ bioreactor, Sf9 Expression Systemression Systemi Expression Strainus Expression 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MPDIENQAAD</span><span class="topo-outside">GQAEIKPEDAPYITNAYKPAYARWGFGSDSVRNHFIA</span><span class="topo-membrane">MSGEFVGTFLFLW</span></span>
-<span class="topo-line"><span class="topo-membrane">SAFVIA</span><span class="topo-inside">QIANQAPETPDGGSNPAQLI</span><span class="topo-membrane">MISFGFGFGVMVGVFITY</span><span class="topo-outside">RVS</span><span class="topo-unknown">GGNLNPAVTLALV</span></span>
-<span class="topo-line"><span class="topo-unknown">L</span><span class="topo-outside">ARAIPPFRG</span><span class="topo-membrane">ILMAFTQIVAGMAAAGAA</span><span class="topo-inside">SAMTPGEIAFANALGGGASRTRG</span><span class="topo-membrane">LFLEAFGTA</span></span>
-<span class="topo-line"><span class="topo-membrane">ILCLTVLML</span><span class="topo-outside">AVEKHRATWF</span><span class="topo-membrane">APFVIGIALLIAHLICI</span><span class="topo-inside">YYTGA</span><span class="topo-unknown">GLNPARSFGPAVA</span><span class="topo-inside">ARSFPN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MPDIENQAAD</span><span class="topo-outside">GQAEIKPEDAPYITNAYKPAYARWGFGSDSVRNHFIA</span><span class="topo-membrane">MSGEFVGTFLFLWSAFVIA</span><span class="topo-inside">QIANQAPETPDGGSNPAQLI</span><span class="topo-membrane">MISFGFGFGVMVGVFITY</span><span class="topo-outside">RVS</span><span class="topo-unknown">GGNLNPAVTLALV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-unknown">L</span><span class="topo-outside">ARAIPPFRG</span><span class="topo-membrane">ILMAFTQIVAGMAAAGAA</span><span class="topo-inside">SAMTPGEIAFANALGGGASRTRG</span><span class="topo-membrane">LFLEAFGTAILCLTVLML</span><span class="topo-outside">AVEKHRATWF</span><span class="topo-membrane">APFVIGIALLIAHLICI</span><span class="topo-inside">YYTGA</span><span class="topo-unknown">GLNPARSFGPAVA</span><span class="topo-inside">ARSFPN</span></span>
+<span class="topo-ruler">       250       260       270         </span>
 <span class="topo-line"><span class="topo-inside">YH</span><span class="topo-membrane">WIYWLGPILGAFLAYSIW</span><span class="topo-outside">QMWKWLNYQTTNP</span><span class="topo-unknown">GQDSDA</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -614,6 +619,7 @@ bioreactor, Sf9 Expression Systemression Systemi Expression Strainus Expression 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -629,11 +635,13 @@ bioreactor, Sf9 Expression Systemression Systemi Expression Strainus Expression 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MPDIENQAAD</span><span class="topo-outside">GQAEIKPEDAPYITNAYKPAYARWGFGSDSVRNHFIA</span><span class="topo-membrane">MSGEFVGTFLFLW</span></span>
-<span class="topo-line"><span class="topo-membrane">SAFVIA</span><span class="topo-inside">QIANQAPETPDGGSNPAQLI</span><span class="topo-membrane">MISFGFGFGVMVGVFITY</span><span class="topo-outside">RVS</span><span class="topo-unknown">GGNLNPAVTLALV</span></span>
-<span class="topo-line"><span class="topo-unknown">L</span><span class="topo-outside">ARAIPPFRG</span><span class="topo-membrane">ILMAFTQIVAGMAAAGAA</span><span class="topo-inside">SAMTPGEIAFANALGGGASRTRG</span><span class="topo-membrane">LFLEAFGTA</span></span>
-<span class="topo-line"><span class="topo-membrane">ILCLTVLML</span><span class="topo-outside">AVEKHRATWF</span><span class="topo-membrane">APFVIGIALLIAHLICI</span><span class="topo-inside">YYTGA</span><span class="topo-unknown">GLNPARSFGPAVA</span><span class="topo-inside">ARSFPN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MPDIENQAAD</span><span class="topo-outside">GQAEIKPEDAPYITNAYKPAYARWGFGSDSVRNHFIA</span><span class="topo-membrane">MSGEFVGTFLFLWSAFVIA</span><span class="topo-inside">QIANQAPETPDGGSNPAQLI</span><span class="topo-membrane">MISFGFGFGVMVGVFITY</span><span class="topo-outside">RVS</span><span class="topo-unknown">GGNLNPAVTLALV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-unknown">L</span><span class="topo-outside">ARAIPPFRG</span><span class="topo-membrane">ILMAFTQIVAGMAAAGAA</span><span class="topo-inside">SAMTPGEIAFANALGGGASRTRG</span><span class="topo-membrane">LFLEAFGTAILCLTVLML</span><span class="topo-outside">AVEKHRATWF</span><span class="topo-membrane">APFVIGIALLIAHLICI</span><span class="topo-inside">YYTGA</span><span class="topo-unknown">GLNPARSFGPAVA</span><span class="topo-inside">ARSFPN</span></span>
+<span class="topo-ruler">       250       260       270         </span>
 <span class="topo-line"><span class="topo-inside">YH</span><span class="topo-membrane">WIYWLGPILGAFLAYSIW</span><span class="topo-outside">QMWKWLNYQTTNP</span><span class="topo-unknown">GQDSDA</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -778,6 +786,7 @@ bioreactor, Sf9 Expression Systemression Systemi Expression Strainus Expression 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -793,11 +802,13 @@ bioreactor, Sf9 Expression Systemression Systemi Expression Strainus Expression 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MPDIENQAAD</span><span class="topo-outside">GQAEIKPEDAPYITNAYKPAYARWGFGSDSVRNHFIA</span><span class="topo-membrane">MSGEFVGTFLFLW</span></span>
-<span class="topo-line"><span class="topo-membrane">SAFVIA</span><span class="topo-inside">QIANQAPETPDGGSNPAQLI</span><span class="topo-membrane">MISFGFGFGVMVGVFITY</span><span class="topo-outside">RVS</span><span class="topo-unknown">GGNLNPAVTLALV</span></span>
-<span class="topo-line"><span class="topo-unknown">L</span><span class="topo-outside">ARAIPPFRG</span><span class="topo-membrane">ILMAFTQIVAGMAAAGAA</span><span class="topo-inside">SAMTPGEIAFANALGGGASRTRG</span><span class="topo-membrane">LFLEAFGTA</span></span>
-<span class="topo-line"><span class="topo-membrane">ILCLTVLML</span><span class="topo-outside">AVEKHRATWF</span><span class="topo-membrane">APFVIGIALLIAHLICI</span><span class="topo-inside">YYTGA</span><span class="topo-unknown">GLNPARSFGPAVA</span><span class="topo-inside">ARSFPN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MPDIENQAAD</span><span class="topo-outside">GQAEIKPEDAPYITNAYKPAYARWGFGSDSVRNHFIA</span><span class="topo-membrane">MSGEFVGTFLFLWSAFVIA</span><span class="topo-inside">QIANQAPETPDGGSNPAQLI</span><span class="topo-membrane">MISFGFGFGVMVGVFITY</span><span class="topo-outside">RVS</span><span class="topo-unknown">GGNLNPAVTLALV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-unknown">L</span><span class="topo-outside">ARAIPPFRG</span><span class="topo-membrane">ILMAFTQIVAGMAAAGAA</span><span class="topo-inside">SAMTPGEIAFANALGGGASRTRG</span><span class="topo-membrane">LFLEAFGTAILCLTVLML</span><span class="topo-outside">AVEKHRATWF</span><span class="topo-membrane">APFVIGIALLIAHLICI</span><span class="topo-inside">YYTGA</span><span class="topo-unknown">GLNPARSFGPAVA</span><span class="topo-inside">ARSFPN</span></span>
+<span class="topo-ruler">       250       260       270         </span>
 <span class="topo-line"><span class="topo-inside">YH</span><span class="topo-membrane">WIYWLGPILGAFLAYSIW</span><span class="topo-outside">QMWKWLNYQTTNP</span><span class="topo-unknown">GQDSDA</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -942,6 +953,7 @@ bioreactor, Sf9 Expression Systemression Systemi Expression Strainus Expression 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -957,11 +969,13 @@ bioreactor, Sf9 Expression Systemression Systemi Expression Strainus Expression 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MPDIENQAAD</span><span class="topo-outside">GQAEIKPEDAPYITNAYKPAYARWGFGSDSVRNHFIA</span><span class="topo-membrane">MSGEFVGTFLFLW</span></span>
-<span class="topo-line"><span class="topo-membrane">SAFVIA</span><span class="topo-inside">QIANQAPETPDGGSNPAQLI</span><span class="topo-membrane">MISFGFGFGVMVGVFITY</span><span class="topo-outside">RVS</span><span class="topo-unknown">GGNLNPAVTLALV</span></span>
-<span class="topo-line"><span class="topo-unknown">L</span><span class="topo-outside">ARAIPPFRG</span><span class="topo-membrane">ILMAFTQIVAGMAAAGAASAM</span><span class="topo-inside">TPGEIAFANALGGGASRT</span><span class="topo-membrane">RGLFLEAFGTA</span></span>
-<span class="topo-line"><span class="topo-membrane">ILCLTVLML</span><span class="topo-outside">AVEKHRATWF</span><span class="topo-membrane">APFVIGIALLIAHLICI</span><span class="topo-inside">YYT</span><span class="topo-unknown">GAGLNPARSFGPAVA</span><span class="topo-inside">ARSFPN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MPDIENQAAD</span><span class="topo-outside">GQAEIKPEDAPYITNAYKPAYARWGFGSDSVRNHFIA</span><span class="topo-membrane">MSGEFVGTFLFLWSAFVIA</span><span class="topo-inside">QIANQAPETPDGGSNPAQLI</span><span class="topo-membrane">MISFGFGFGVMVGVFITY</span><span class="topo-outside">RVS</span><span class="topo-unknown">GGNLNPAVTLALV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-unknown">L</span><span class="topo-outside">ARAIPPFRG</span><span class="topo-membrane">ILMAFTQIVAGMAAAGAASAM</span><span class="topo-inside">TPGEIAFANALGGGASRT</span><span class="topo-membrane">RGLFLEAFGTAILCLTVLML</span><span class="topo-outside">AVEKHRATWF</span><span class="topo-membrane">APFVIGIALLIAHLICI</span><span class="topo-inside">YYT</span><span class="topo-unknown">GAGLNPARSFGPAVA</span><span class="topo-inside">ARSFPN</span></span>
+<span class="topo-ruler">       250       260       270         </span>
 <span class="topo-line"><span class="topo-inside">YH</span><span class="topo-membrane">WIYWLGPILGAFLAYSIW</span><span class="topo-outside">QMWKWLNYQTTNP</span><span class="topo-unknown">GQDSDA</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1106,6 +1120,7 @@ bioreactor, Sf9 Expression Systemression Systemi Expression Strainus Expression 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1121,11 +1136,13 @@ bioreactor, Sf9 Expression Systemression Systemi Expression Strainus Expression 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MPDIENQAAD</span><span class="topo-outside">GQAEIKPEDAPYITNAYKPAYARWGFGSDSVRNHFIA</span><span class="topo-membrane">MSGEFVGTFLFLW</span></span>
-<span class="topo-line"><span class="topo-membrane">SAFVIA</span><span class="topo-inside">QIANQAPETPDGGSNPAQLI</span><span class="topo-membrane">MISFGFGFGVMVGVFITY</span><span class="topo-outside">RVS</span><span class="topo-unknown">GGNLNPAVTLALV</span></span>
-<span class="topo-line"><span class="topo-unknown">L</span><span class="topo-outside">ARAIPPFRG</span><span class="topo-membrane">ILMAFTQIVAGMAAAGAASAM</span><span class="topo-inside">TPGEIAFANALGGGASRT</span><span class="topo-membrane">RGLFLEAFGTA</span></span>
-<span class="topo-line"><span class="topo-membrane">ILCLTVLML</span><span class="topo-outside">AVEKHRATWF</span><span class="topo-membrane">APFVIGIALLIAHLICI</span><span class="topo-inside">YYT</span><span class="topo-unknown">GAGLNPARSFGPAVA</span><span class="topo-inside">ARSFPN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MPDIENQAAD</span><span class="topo-outside">GQAEIKPEDAPYITNAYKPAYARWGFGSDSVRNHFIA</span><span class="topo-membrane">MSGEFVGTFLFLWSAFVIA</span><span class="topo-inside">QIANQAPETPDGGSNPAQLI</span><span class="topo-membrane">MISFGFGFGVMVGVFITY</span><span class="topo-outside">RVS</span><span class="topo-unknown">GGNLNPAVTLALV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-unknown">L</span><span class="topo-outside">ARAIPPFRG</span><span class="topo-membrane">ILMAFTQIVAGMAAAGAASAM</span><span class="topo-inside">TPGEIAFANALGGGASRT</span><span class="topo-membrane">RGLFLEAFGTAILCLTVLML</span><span class="topo-outside">AVEKHRATWF</span><span class="topo-membrane">APFVIGIALLIAHLICI</span><span class="topo-inside">YYT</span><span class="topo-unknown">GAGLNPARSFGPAVA</span><span class="topo-inside">ARSFPN</span></span>
+<span class="topo-ruler">       250       260       270         </span>
 <span class="topo-line"><span class="topo-inside">YH</span><span class="topo-membrane">WIYWLGPILGAFLAYSIW</span><span class="topo-outside">QMWKWLNYQTTNP</span><span class="topo-unknown">GQDSDA</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1270,6 +1287,7 @@ bioreactor, Sf9 Expression Systemression Systemi Expression Strainus Expression 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1285,11 +1303,13 @@ bioreactor, Sf9 Expression Systemression Systemi Expression Strainus Expression 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MPDIENQAAD</span><span class="topo-outside">GQAEIKPEDAPYITNAYKPAYARWGFGSDSVRNHFIA</span><span class="topo-membrane">MSGEFVGTFLFLW</span></span>
-<span class="topo-line"><span class="topo-membrane">SAFVIA</span><span class="topo-inside">QIANQAPETPDGGSNPAQLI</span><span class="topo-membrane">MISFGFGFGVMVGVFITY</span><span class="topo-outside">RVS</span><span class="topo-unknown">GGNLNPAVTLALV</span></span>
-<span class="topo-line"><span class="topo-unknown">L</span><span class="topo-outside">ARAIPPFRG</span><span class="topo-membrane">ILMAFTQIVAGMAAAGAASAM</span><span class="topo-inside">TPGEIAFANALGGGASRT</span><span class="topo-membrane">RGLFLEAFGTA</span></span>
-<span class="topo-line"><span class="topo-membrane">ILCLTVLML</span><span class="topo-outside">AVEKHRATWF</span><span class="topo-membrane">APFVIGIALLIAHLICI</span><span class="topo-inside">YYT</span><span class="topo-unknown">GAGLNPARSFGPAVA</span><span class="topo-inside">ARSFPN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MPDIENQAAD</span><span class="topo-outside">GQAEIKPEDAPYITNAYKPAYARWGFGSDSVRNHFIA</span><span class="topo-membrane">MSGEFVGTFLFLWSAFVIA</span><span class="topo-inside">QIANQAPETPDGGSNPAQLI</span><span class="topo-membrane">MISFGFGFGVMVGVFITY</span><span class="topo-outside">RVS</span><span class="topo-unknown">GGNLNPAVTLALV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-unknown">L</span><span class="topo-outside">ARAIPPFRG</span><span class="topo-membrane">ILMAFTQIVAGMAAAGAASAM</span><span class="topo-inside">TPGEIAFANALGGGASRT</span><span class="topo-membrane">RGLFLEAFGTAILCLTVLML</span><span class="topo-outside">AVEKHRATWF</span><span class="topo-membrane">APFVIGIALLIAHLICI</span><span class="topo-inside">YYT</span><span class="topo-unknown">GAGLNPARSFGPAVA</span><span class="topo-inside">ARSFPN</span></span>
+<span class="topo-ruler">       250       260       270         </span>
 <span class="topo-line"><span class="topo-inside">YH</span><span class="topo-membrane">WIYWLGPILGAFLAYSIW</span><span class="topo-outside">QMWKWLNYQTTNP</span><span class="topo-unknown">GQDSDA</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1434,6 +1454,7 @@ bioreactor, Sf9 Expression Systemression Systemi Expression Strainus Expression 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1449,11 +1470,13 @@ bioreactor, Sf9 Expression Systemression Systemi Expression Strainus Expression 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MPDIENQAAD</span><span class="topo-outside">GQAEIKPEDAPYITNAYKPAYARWGFGSDSVRNHFIA</span><span class="topo-membrane">MSGEFVGTFLFLW</span></span>
-<span class="topo-line"><span class="topo-membrane">SAFVIA</span><span class="topo-inside">QIANQAPETPDGGSNPAQLI</span><span class="topo-membrane">MISFGFGFGVMVGVFITY</span><span class="topo-outside">RVS</span><span class="topo-unknown">GGNLNPAVTLALV</span></span>
-<span class="topo-line"><span class="topo-unknown">L</span><span class="topo-outside">ARAIPPFRG</span><span class="topo-membrane">ILMAFTQIVAGMAAAGAASAM</span><span class="topo-inside">TPGEIAFANALGGGASRT</span><span class="topo-membrane">RGLFLEAFGTA</span></span>
-<span class="topo-line"><span class="topo-membrane">ILCLTVLML</span><span class="topo-outside">AVEKHRATWF</span><span class="topo-membrane">APFVIGIALLIAHLICI</span><span class="topo-inside">YYT</span><span class="topo-unknown">GAGLNPARSFGPAVA</span><span class="topo-inside">ARSFPN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MPDIENQAAD</span><span class="topo-outside">GQAEIKPEDAPYITNAYKPAYARWGFGSDSVRNHFIA</span><span class="topo-membrane">MSGEFVGTFLFLWSAFVIA</span><span class="topo-inside">QIANQAPETPDGGSNPAQLI</span><span class="topo-membrane">MISFGFGFGVMVGVFITY</span><span class="topo-outside">RVS</span><span class="topo-unknown">GGNLNPAVTLALV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-unknown">L</span><span class="topo-outside">ARAIPPFRG</span><span class="topo-membrane">ILMAFTQIVAGMAAAGAASAM</span><span class="topo-inside">TPGEIAFANALGGGASRT</span><span class="topo-membrane">RGLFLEAFGTAILCLTVLML</span><span class="topo-outside">AVEKHRATWF</span><span class="topo-membrane">APFVIGIALLIAHLICI</span><span class="topo-inside">YYT</span><span class="topo-unknown">GAGLNPARSFGPAVA</span><span class="topo-inside">ARSFPN</span></span>
+<span class="topo-ruler">       250       260       270         </span>
 <span class="topo-line"><span class="topo-inside">YH</span><span class="topo-membrane">WIYWLGPILGAFLAYSIW</span><span class="topo-outside">QMWKWLNYQTTNP</span><span class="topo-unknown">GQDSDA</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1598,6 +1621,7 @@ bioreactor, Sf9 Expression Systemression Systemi Expression Strainus Expression 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

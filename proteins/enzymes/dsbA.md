@@ -60,10 +60,11 @@ DsbA is a periplasmic dithiol oxidase from Escherichia coli belonging to the thi
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">AQYEDGKQYTTLEKPVAGAPQVLEFFSFFCPHAYQFEEVLHISDNVKKKLPEGVKMTKYH</span></span>
-<span class="topo-line"><span class="topo-inside">VNFMGGDLGKDLTQAWAVAMALGVEDKVTVPLFEGVQKTQTIRSASDIRDVFINAGIKGE</span></span>
-<span class="topo-line"><span class="topo-inside">EYDAAWNSFVVKSLVAQQEKAAADVQLRGVPAMFVNGKYQLNPQGMDTSNMDVFVQQYAD</span></span>
-<span class="topo-line"><span class="topo-inside">TVKYLSEK</span><span class="topo-unknown">K</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">AQYEDGKQYTTLEKPVAGAPQVLEFFSFFCPHAYQFEEVLHISDNVKKKLPEGVKMTKYHVNFMGGDLGKDLTQAWAVAMALGVEDKVTVPLFEGVQKTQTIRSASDIRDVFINAGIKGE</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180         </span>
+<span class="topo-line"><span class="topo-inside">EYDAAWNSFVVKSLVAQQEKAAADVQLRGVPAMFVNGKYQLNPQGMDTSNMDVFVQQYADTVKYLSEK</span><span class="topo-unknown">K</span></span>
+<details class="topo-details"><summary>Topology coordinates (2 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -89,6 +90,7 @@ DsbA is a periplasmic dithiol oxidase from Escherichia coli belonging to the thi
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -104,9 +106,11 @@ DsbA is a periplasmic dithiol oxidase from Escherichia coli belonging to the thi
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MLRFLNQASQGRG</span><span class="topo-outside">A</span><span class="topo-membrane">WLLMAFTALALELTALW</span><span class="topo-inside">FQHVMLLKPCVLCIYE</span><span class="topo-membrane">RVALFGVLGAALI</span></span>
-<span class="topo-line"><span class="topo-membrane">GAIAP</span><span class="topo-outside">KTPL</span><span class="topo-membrane">RYVAMVIWLYSAFRGV</span><span class="topo-inside">QLTYEHTMLQLYPSPFATCDFMVRFPEWLPLDKWV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MLRFLNQASQGRG</span><span class="topo-outside">A</span><span class="topo-membrane">WLLMAFTALALELTALW</span><span class="topo-inside">FQHVMLLKPCVLCIYE</span><span class="topo-membrane">RVALFGVLGAALIGAIAP</span><span class="topo-outside">KTPL</span><span class="topo-membrane">RYVAMVIWLYSAFRGV</span><span class="topo-inside">QLTYEHTMLQLYPSPFATCDFMVRFPEWLPLDKWV</span></span>
+<span class="topo-ruler">       130       140       150       160       170      </span>
 <span class="topo-line"><span class="topo-inside">PQVFVA</span><span class="topo-unknown">SGDSAERQWDFLGLE</span><span class="topo-inside">MPQW</span><span class="topo-membrane">LLGIFIAYLIVAVLVVI</span><span class="topo-unknown">SQPFKAKKRDLFGR</span></span>
+<details class="topo-details"><summary>Topology coordinates (12 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -202,6 +206,7 @@ DsbA is a periplasmic dithiol oxidase from Escherichia coli belonging to the thi
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -311,10 +316,11 @@ DsbA is a periplasmic dithiol oxidase from Escherichia coli belonging to the thi
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">AQYEDGKQYTTLEKPVAGAPQVLEFFSFFCPHAYQFEEVLHISDNVKKKLPEGVKMTKYH</span></span>
-<span class="topo-line"><span class="topo-inside">VNFMGGDLGKDLTQAWAVAMALGVEDKVTVPLFEGVQKTQTIRSASDIRDVFINAGIKGE</span></span>
-<span class="topo-line"><span class="topo-inside">EYDAAWNSFVVKSLVAQQEKAAADVQLRGVPAMFVNGKYQLNPQGMDTSNMDVFVQQYAD</span></span>
-<span class="topo-line"><span class="topo-inside">TVKYLSEK</span><span class="topo-unknown">K</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">AQYEDGKQYTTLEKPVAGAPQVLEFFSFFCPHAYQFEEVLHISDNVKKKLPEGVKMTKYHVNFMGGDLGKDLTQAWAVAMALGVEDKVTVPLFEGVQKTQTIRSASDIRDVFINAGIKGE</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180         </span>
+<span class="topo-line"><span class="topo-inside">EYDAAWNSFVVKSLVAQQEKAAADVQLRGVPAMFVNGKYQLNPQGMDTSNMDVFVQQYADTVKYLSEK</span><span class="topo-unknown">K</span></span>
+<details class="topo-details"><summary>Topology coordinates (2 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -340,6 +346,7 @@ DsbA is a periplasmic dithiol oxidase from Escherichia coli belonging to the thi
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -355,10 +362,11 @@ DsbA is a periplasmic dithiol oxidase from Escherichia coli belonging to the thi
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MLRFLNQASQGRG</span><span class="topo-outside">A</span><span class="topo-membrane">WLLMAFTALALELTALW</span><span class="topo-inside">FQHVMLLKPCVLCIYE</span><span class="topo-membrane">RVALFGVLGAALI</span></span>
-<span class="topo-line"><span class="topo-membrane">GAIAP</span><span class="topo-outside">KTPLR</span><span class="topo-membrane">YVAMVIWLYSAFRGVQ</span><span class="topo-inside">LTYEHTMLQLYPSPFATCDFMVRFPEWLPLDKWV</span></span>
-<span class="topo-line"><span class="topo-inside">PQVFVA</span><span class="topo-unknown">SGDCAERQWDFLGLE</span><span class="topo-inside">MPQW</span><span class="topo-membrane">LLGIFIAYLIVAVLVVI</span><span class="topo-unknown">SQPFKAKKRDLFGRHHHH</span></span>
-<span class="topo-line"><span class="topo-unknown">HH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MLRFLNQASQGRG</span><span class="topo-outside">A</span><span class="topo-membrane">WLLMAFTALALELTALW</span><span class="topo-inside">FQHVMLLKPCVLCIYE</span><span class="topo-membrane">RVALFGVLGAALIGAIAP</span><span class="topo-outside">KTPLR</span><span class="topo-membrane">YVAMVIWLYSAFRGVQ</span><span class="topo-inside">LTYEHTMLQLYPSPFATCDFMVRFPEWLPLDKWV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180  </span>
+<span class="topo-line"><span class="topo-inside">PQVFVA</span><span class="topo-unknown">SGDCAERQWDFLGLE</span><span class="topo-inside">MPQW</span><span class="topo-membrane">LLGIFIAYLIVAVLVVI</span><span class="topo-unknown">SQPFKAKKRDLFGRHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (12 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -454,6 +462,7 @@ DsbA is a periplasmic dithiol oxidase from Escherichia coli belonging to the thi
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

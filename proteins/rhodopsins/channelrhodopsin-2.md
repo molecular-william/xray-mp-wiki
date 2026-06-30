@@ -143,12 +143,13 @@ basis for ion conduction and gating regulation.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MDYGGALSAVGRELLFVTNPVVVNGSVLVPED</span><span class="topo-inside">QCYCAGWIESRGTNGAQTA</span><span class="topo-membrane">SNVLQWLAA</span></span>
-<span class="topo-line"><span class="topo-membrane">GFSILLLMFYA</span><span class="topo-outside">YQTWKSTCGWE</span><span class="topo-membrane">EIYVCAIEMVKVILEFFFE</span><span class="topo-inside">FKNPSMLYLATGHRV</span><span class="topo-membrane">QWLR</span></span>
-<span class="topo-line"><span class="topo-membrane">YAEWLLTCPVIL</span><span class="topo-outside">IHLSNLTGLSNDYSRRTMG</span><span class="topo-membrane">LLVSDIGTIVWGATSAMA</span><span class="topo-inside">TGY</span><span class="topo-membrane">VKVIFFCL</span></span>
-<span class="topo-line"><span class="topo-membrane">GLCYGANTFF</span><span class="topo-outside">HAAKAYIEGYHTVPKGRCRQVVTGM</span><span class="topo-membrane">AWLFFVSWGMFPILFILG</span><span class="topo-inside">PEGFGVL</span></span>
-<span class="topo-line"><span class="topo-inside">SVYG</span><span class="topo-membrane">STVGHTIIDLMSKNCWGL</span><span class="topo-outside">LGHYLRVLIHEHILIHG</span><span class="topo-unknown">DIRKTTKLNIGGTEIEVETLV</span></span>
-<span class="topo-line"><span class="topo-unknown">EDEAEAGAVNKGTGK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MDYGGALSAVGRELLFVTNPVVVNGSVLVPED</span><span class="topo-inside">QCYCAGWIESRGTNGAQTA</span><span class="topo-membrane">SNVLQWLAAGFSILLLMFYA</span><span class="topo-outside">YQTWKSTCGWE</span><span class="topo-membrane">EIYVCAIEMVKVILEFFFE</span><span class="topo-inside">FKNPSMLYLATGHRV</span><span class="topo-membrane">QWLR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">YAEWLLTCPVIL</span><span class="topo-outside">IHLSNLTGLSNDYSRRTMG</span><span class="topo-membrane">LLVSDIGTIVWGATSAMA</span><span class="topo-inside">TGY</span><span class="topo-membrane">VKVIFFCLGLCYGANTFF</span><span class="topo-outside">HAAKAYIEGYHTVPKGRCRQVVTGM</span><span class="topo-membrane">AWLFFVSWGMFPILFILG</span><span class="topo-inside">PEGFGVL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310     </span>
+<span class="topo-line"><span class="topo-inside">SVYG</span><span class="topo-membrane">STVGHTIIDLMSKNCWGL</span><span class="topo-outside">LGHYLRVLIHEHILIHG</span><span class="topo-unknown">DIRKTTKLNIGGTEIEVETLVEDEAEAGAVNKGTGK</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -265,6 +266,7 @@ basis for ion conduction and gating regulation.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -280,12 +282,13 @@ basis for ion conduction and gating regulation.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MDYGGALSAVGRELLFVTNPVVVNGSVLVPED</span><span class="topo-inside">QCYCAGWIESRGTNGAQTA</span><span class="topo-membrane">SNVLQWLAA</span></span>
-<span class="topo-line"><span class="topo-membrane">GFSILLLMFYA</span><span class="topo-outside">YQTWKSTCGWE</span><span class="topo-membrane">EIYVCAIEMVKVILEFFFE</span><span class="topo-inside">FKNPSMLYLATGHRV</span><span class="topo-membrane">QWLR</span></span>
-<span class="topo-line"><span class="topo-membrane">YAEWLLTCPVIL</span><span class="topo-outside">IHLSNLTGLSNDYSRRTMG</span><span class="topo-membrane">LLVSDIGTIVWGATSAMA</span><span class="topo-inside">TGY</span><span class="topo-membrane">VKVIFFCL</span></span>
-<span class="topo-line"><span class="topo-membrane">GLCYGANTFF</span><span class="topo-outside">HAAKAYIEGYHTVPKGRCRQVVTGM</span><span class="topo-membrane">AWLFFVSWGMFPILFILG</span><span class="topo-inside">PEGFGVL</span></span>
-<span class="topo-line"><span class="topo-inside">SVYG</span><span class="topo-membrane">STVGHTIIDLMSKNCWGL</span><span class="topo-outside">LGHYLRVLIHEHILIHG</span><span class="topo-unknown">DIRKTTKLNIGGTEIEVETLV</span></span>
-<span class="topo-line"><span class="topo-unknown">EDEAEAGAVNKGTGK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MDYGGALSAVGRELLFVTNPVVVNGSVLVPED</span><span class="topo-inside">QCYCAGWIESRGTNGAQTA</span><span class="topo-membrane">SNVLQWLAAGFSILLLMFYA</span><span class="topo-outside">YQTWKSTCGWE</span><span class="topo-membrane">EIYVCAIEMVKVILEFFFE</span><span class="topo-inside">FKNPSMLYLATGHRV</span><span class="topo-membrane">QWLR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">YAEWLLTCPVIL</span><span class="topo-outside">IHLSNLTGLSNDYSRRTMG</span><span class="topo-membrane">LLVSDIGTIVWGATSAMA</span><span class="topo-inside">TGY</span><span class="topo-membrane">VKVIFFCLGLCYGANTFF</span><span class="topo-outside">HAAKAYIEGYHTVPKGRCRQVVTGM</span><span class="topo-membrane">AWLFFVSWGMFPILFILG</span><span class="topo-inside">PEGFGVL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310     </span>
+<span class="topo-line"><span class="topo-inside">SVYG</span><span class="topo-membrane">STVGHTIIDLMSKNCWGL</span><span class="topo-outside">LGHYLRVLIHEHILIHG</span><span class="topo-unknown">DIRKTTKLNIGGTEIEVETLVEDEAEAGAVNKGTGK</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -402,6 +405,7 @@ basis for ion conduction and gating regulation.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -417,12 +421,13 @@ basis for ion conduction and gating regulation.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MDYGGALSAVGRELLFVTNPVVVNGSVLVPED</span><span class="topo-inside">QCYCAGWIESRGTNGAQTA</span><span class="topo-membrane">SNVLQWLAA</span></span>
-<span class="topo-line"><span class="topo-membrane">GFSILLLMFYA</span><span class="topo-outside">YQTWKSTCGWE</span><span class="topo-membrane">EIYVCAIEMVKVILEFFFE</span><span class="topo-inside">FKNPSMLYLATGHRV</span><span class="topo-membrane">QWLR</span></span>
-<span class="topo-line"><span class="topo-membrane">YAEWLLTCPVIL</span><span class="topo-outside">IHLSNLTGLSNDYSRRTMG</span><span class="topo-membrane">LLVSDIGTIVWGATSAMA</span><span class="topo-inside">TGY</span><span class="topo-membrane">VKVIFFCL</span></span>
-<span class="topo-line"><span class="topo-membrane">GLCYGANTFF</span><span class="topo-outside">HAAKAYIEGYHTVPKGRCRQVVTGM</span><span class="topo-membrane">AWLFFVSWGMFPILFILG</span><span class="topo-inside">PEGFGVL</span></span>
-<span class="topo-line"><span class="topo-inside">SVYG</span><span class="topo-membrane">STVGHTIIDLMSKNCWGL</span><span class="topo-outside">LGHYLRVLIHEHILIHG</span><span class="topo-unknown">DIRKTTKLNIGGTEIEVETLV</span></span>
-<span class="topo-line"><span class="topo-unknown">EDEAEAGAVNKGTGK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MDYGGALSAVGRELLFVTNPVVVNGSVLVPED</span><span class="topo-inside">QCYCAGWIESRGTNGAQTA</span><span class="topo-membrane">SNVLQWLAAGFSILLLMFYA</span><span class="topo-outside">YQTWKSTCGWE</span><span class="topo-membrane">EIYVCAIEMVKVILEFFFE</span><span class="topo-inside">FKNPSMLYLATGHRV</span><span class="topo-membrane">QWLR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">YAEWLLTCPVIL</span><span class="topo-outside">IHLSNLTGLSNDYSRRTMG</span><span class="topo-membrane">LLVSDIGTIVWGATSAMA</span><span class="topo-inside">TGY</span><span class="topo-membrane">VKVIFFCLGLCYGANTFF</span><span class="topo-outside">HAAKAYIEGYHTVPKGRCRQVVTGM</span><span class="topo-membrane">AWLFFVSWGMFPILFILG</span><span class="topo-inside">PEGFGVL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310     </span>
+<span class="topo-line"><span class="topo-inside">SVYG</span><span class="topo-membrane">STVGHTIIDLMSKNCWGL</span><span class="topo-outside">LGHYLRVLIHEHILIHG</span><span class="topo-unknown">DIRKTTKLNIGGTEIEVETLVEDEAEAGAVNKGTGK</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -539,6 +544,7 @@ basis for ion conduction and gating regulation.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -554,12 +560,13 @@ basis for ion conduction and gating regulation.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MDYGGALSAVGRELLFVTNPVVVNGSVLVPED</span><span class="topo-inside">QCYCAGWIESRGTNGAQTA</span><span class="topo-membrane">SNVLQWLAA</span></span>
-<span class="topo-line"><span class="topo-membrane">GFSILLLMFYA</span><span class="topo-outside">YQTWKSTCGWE</span><span class="topo-membrane">EIYVCAIEMVKVILEFFFE</span><span class="topo-inside">FKNPSMLYLATGHRV</span><span class="topo-membrane">QWLR</span></span>
-<span class="topo-line"><span class="topo-membrane">YAEWLLTCPVIL</span><span class="topo-outside">IHLSNLTGLSNDYSRRTMG</span><span class="topo-membrane">LLVSDIGTIVWGATSAMA</span><span class="topo-inside">TGY</span><span class="topo-membrane">VKVIFFCL</span></span>
-<span class="topo-line"><span class="topo-membrane">GLCYGANTFF</span><span class="topo-outside">HAAKAYIEGYHTVPKGRCRQVVTGM</span><span class="topo-membrane">AWLFFVSWGMFPILFILG</span><span class="topo-inside">PEGFGVL</span></span>
-<span class="topo-line"><span class="topo-inside">SVYG</span><span class="topo-membrane">STVGHTIIDLMSKNCWGL</span><span class="topo-outside">LGHYLRVLIHEHILIHG</span><span class="topo-unknown">DIRKTTKLNIGGTEIEVETLV</span></span>
-<span class="topo-line"><span class="topo-unknown">EDEAEAGAVNKGTGK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MDYGGALSAVGRELLFVTNPVVVNGSVLVPED</span><span class="topo-inside">QCYCAGWIESRGTNGAQTA</span><span class="topo-membrane">SNVLQWLAAGFSILLLMFYA</span><span class="topo-outside">YQTWKSTCGWE</span><span class="topo-membrane">EIYVCAIEMVKVILEFFFE</span><span class="topo-inside">FKNPSMLYLATGHRV</span><span class="topo-membrane">QWLR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">YAEWLLTCPVIL</span><span class="topo-outside">IHLSNLTGLSNDYSRRTMG</span><span class="topo-membrane">LLVSDIGTIVWGATSAMA</span><span class="topo-inside">TGY</span><span class="topo-membrane">VKVIFFCLGLCYGANTFF</span><span class="topo-outside">HAAKAYIEGYHTVPKGRCRQVVTGM</span><span class="topo-membrane">AWLFFVSWGMFPILFILG</span><span class="topo-inside">PEGFGVL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310     </span>
+<span class="topo-line"><span class="topo-inside">SVYG</span><span class="topo-membrane">STVGHTIIDLMSKNCWGL</span><span class="topo-outside">LGHYLRVLIHEHILIHG</span><span class="topo-unknown">DIRKTTKLNIGGTEIEVETLVEDEAEAGAVNKGTGK</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -676,6 +683,7 @@ basis for ion conduction and gating regulation.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

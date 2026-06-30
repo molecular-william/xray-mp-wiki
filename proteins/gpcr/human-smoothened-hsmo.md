@@ -128,17 +128,19 @@ Human Smoothened (SMO) is a Class F G-protein-coupled receptor (GPCR) and Hedgeh
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">SSGNATGPGPRSAGGSARRSAAVTGP</span><span class="topo-outside">PPPLSHCGRAAPCEPLRYNVCLGSVLPYGATSTL</span></span>
-<span class="topo-line"><span class="topo-outside">LAGDSDSQEEAHGKLVLWSGLRNAPRCWAVIQPLLCAVYMPKCENDRVELPSRTLCQATR</span></span>
-<span class="topo-line"><span class="topo-outside">GPCAIVERERGWPDFLRCTPDRFPEGCTNEVQNIKFNSSGQCEVPLVRTDNPKSWYEDVE</span></span>
-<span class="topo-line"><span class="topo-outside">GCGIQCQNPLFTEAEHQDMHSY</span><span class="topo-membrane">IAAFGAVTGLCTLFTLATFVA</span><span class="topo-inside">DWRNSNRYPAV</span><span class="topo-membrane">ILFYVN</span></span>
-<span class="topo-line"><span class="topo-membrane">ACFFVGSIGWLA</span><span class="topo-outside">QFMDGARREIVCRADGTMRLGEPTSNETLSCV</span><span class="topo-membrane">IIFVIVYYALMAGFVW</span></span>
-<span class="topo-line"><span class="topo-membrane">FVVLTY</span><span class="topo-inside">AWHTSFKAL</span><span class="topo-unknown">GTTY</span><span class="topo-inside">QPLSGKTSY</span><span class="topo-membrane">FHLLTWSLPFVLTVAILAV</span><span class="topo-outside">AQVDGDSVSGICF</span></span>
-<span class="topo-line"><span class="topo-outside">VGYKNYRY</span><span class="topo-membrane">RAGFVLAPIGLVLIVGGYFLIR</span><span class="topo-inside">GVMTLFSARRQLADLEDNWETLNDNLKVIE</span></span>
-<span class="topo-line"><span class="topo-inside">KADNAAQVKDALTKMRAAALDAQKATPP</span><span class="topo-unknown">KLEDKSPD</span><span class="topo-inside">SPEMKDFRHGFDILVGQIDDALKL</span></span>
-<span class="topo-line"><span class="topo-inside">ANEGKVKEAQAAAEQLKTTRNAYIQKYLERARSTLSKINETMLR</span><span class="topo-membrane">LGIFGFLAFGFVLITF</span></span>
-<span class="topo-line"><span class="topo-membrane">SCHFY</span><span class="topo-outside">DFFNQAEWERSFRDYVLCQANVTIGLPTKQPIPDCEIKNRPSLLV</span><span class="topo-membrane">EKINLFAMFG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">SSGNATGPGPRSAGGSARRSAAVTGP</span><span class="topo-outside">PPPLSHCGRAAPCEPLRYNVCLGSVLPYGATSTLLAGDSDSQEEAHGKLVLWSGLRNAPRCWAVIQPLLCAVYMPKCENDRVELPSRTLCQATR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">GPCAIVERERGWPDFLRCTPDRFPEGCTNEVQNIKFNSSGQCEVPLVRTDNPKSWYEDVEGCGIQCQNPLFTEAEHQDMHSY</span><span class="topo-membrane">IAAFGAVTGLCTLFTLATFVA</span><span class="topo-inside">DWRNSNRYPAV</span><span class="topo-membrane">ILFYVN</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">ACFFVGSIGWLA</span><span class="topo-outside">QFMDGARREIVCRADGTMRLGEPTSNETLSCV</span><span class="topo-membrane">IIFVIVYYALMAGFVWFVVLTY</span><span class="topo-inside">AWHTSFKAL</span><span class="topo-unknown">GTTY</span><span class="topo-inside">QPLSGKTSY</span><span class="topo-membrane">FHLLTWSLPFVLTVAILAV</span><span class="topo-outside">AQVDGDSVSGICF</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">VGYKNYRY</span><span class="topo-membrane">RAGFVLAPIGLVLIVGGYFLIR</span><span class="topo-inside">GVMTLFSARRQLADLEDNWETLNDNLKVIEKADNAAQVKDALTKMRAAALDAQKATPP</span><span class="topo-unknown">KLEDKSPD</span><span class="topo-inside">SPEMKDFRHGFDILVGQIDDALKL</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-inside">ANEGKVKEAQAAAEQLKTTRNAYIQKYLERARSTLSKINETMLR</span><span class="topo-membrane">LGIFGFLAFGFVLITFSCHFY</span><span class="topo-outside">DFFNQAEWERSFRDYVLCQANVTIGLPTKQPIPDCEIKNRPSLLV</span><span class="topo-membrane">EKINLFAMFG</span></span>
+<span class="topo-ruler">       610       620       630        </span>
 <span class="topo-line"><span class="topo-membrane">TGIAMSTWVWT</span><span class="topo-inside">KATLLIWRRTWCRLT</span><span class="topo-unknown">GQGTETSQVAPA</span></span>
+<details class="topo-details"><summary>Topology coordinates (23 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -311,6 +313,7 @@ Human Smoothened (SMO) is a Class F G-protein-coupled receptor (GPCR) and Hedgeh
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -326,17 +329,19 @@ Human Smoothened (SMO) is a Class F G-protein-coupled receptor (GPCR) and Hedgeh
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">SSGNATGPGPRSAGGSARRSAAVTG</span><span class="topo-outside">PPPPLSHCGRAAPCEPLRYNVCLGSVLPYGATSTL</span></span>
-<span class="topo-line"><span class="topo-outside">LAGDSDSQEEAHGKLVLWSGLRNAPRCWAVIQPLLCAVYMPKCENDRVELPSRTLCQATR</span></span>
-<span class="topo-line"><span class="topo-outside">GPCAIVERERGWPDFLRCTPDRFPEGCTNEVQNIKFNSSGQCEVPLVRTDNPKSWYEDVE</span></span>
-<span class="topo-line"><span class="topo-outside">GCGIQCQNPLFTEAEHQDM</span><span class="topo-membrane">HSYIAAFGAVTGLCTLFTLATFVA</span><span class="topo-inside">DWRNSNRYPA</span><span class="topo-membrane">VILFYVN</span></span>
-<span class="topo-line"><span class="topo-membrane">ACFFVGSIGWLAQFMD</span><span class="topo-outside">GARREIVCRADGTMRLGEPTSNET</span><span class="topo-membrane">LSCVIIFVIVYYALMAGFVW</span></span>
-<span class="topo-line"><span class="topo-membrane">FVVLTYAW</span><span class="topo-inside">HTSF</span><span class="topo-unknown">KALGTTYQP</span><span class="topo-inside">LSGKT</span><span class="topo-membrane">SYFHLLTWSLPFVLTVAILAVAQVD</span><span class="topo-outside">GDSVSGICF</span></span>
-<span class="topo-line"><span class="topo-outside">VGYKNY</span><span class="topo-membrane">RYRAGFVLAPIGLVLIVGGYFLIRGV</span><span class="topo-inside">MTLFSARRQLADLEDNWETLNDNLKVIE</span></span>
-<span class="topo-line"><span class="topo-inside">KADNAAQVKDALTKMRAAALDAQK</span><span class="topo-unknown">ATPPKLEDKSPDSPEM</span><span class="topo-inside">KDFRHGFDILVGQIDDALKL</span></span>
-<span class="topo-line"><span class="topo-inside">ANEGKVKEAQAAAEQLKTTRNAYIQKYLERARSTLSKINETMLR</span><span class="topo-membrane">LGIFGFLAFGFVLITF</span></span>
-<span class="topo-line"><span class="topo-membrane">SCHFYDFF</span><span class="topo-outside">NQAEWERSFRDYVLCQANVT</span><span class="topo-unknown">IGLPTKQPIP</span><span class="topo-outside">DCEIKNRPSL</span><span class="topo-membrane">LVEKINLFAMFG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">SSGNATGPGPRSAGGSARRSAAVTG</span><span class="topo-outside">PPPPLSHCGRAAPCEPLRYNVCLGSVLPYGATSTLLAGDSDSQEEAHGKLVLWSGLRNAPRCWAVIQPLLCAVYMPKCENDRVELPSRTLCQATR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">GPCAIVERERGWPDFLRCTPDRFPEGCTNEVQNIKFNSSGQCEVPLVRTDNPKSWYEDVEGCGIQCQNPLFTEAEHQDM</span><span class="topo-membrane">HSYIAAFGAVTGLCTLFTLATFVA</span><span class="topo-inside">DWRNSNRYPA</span><span class="topo-membrane">VILFYVN</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">ACFFVGSIGWLAQFMD</span><span class="topo-outside">GARREIVCRADGTMRLGEPTSNET</span><span class="topo-membrane">LSCVIIFVIVYYALMAGFVWFVVLTYAW</span><span class="topo-inside">HTSF</span><span class="topo-unknown">KALGTTYQP</span><span class="topo-inside">LSGKT</span><span class="topo-membrane">SYFHLLTWSLPFVLTVAILAVAQVD</span><span class="topo-outside">GDSVSGICF</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">VGYKNY</span><span class="topo-membrane">RYRAGFVLAPIGLVLIVGGYFLIRGV</span><span class="topo-inside">MTLFSARRQLADLEDNWETLNDNLKVIEKADNAAQVKDALTKMRAAALDAQK</span><span class="topo-unknown">ATPPKLEDKSPDSPEM</span><span class="topo-inside">KDFRHGFDILVGQIDDALKL</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-inside">ANEGKVKEAQAAAEQLKTTRNAYIQKYLERARSTLSKINETMLR</span><span class="topo-membrane">LGIFGFLAFGFVLITFSCHFYDFF</span><span class="topo-outside">NQAEWERSFRDYVLCQANVT</span><span class="topo-unknown">IGLPTKQPIP</span><span class="topo-outside">DCEIKNRPSL</span><span class="topo-membrane">LVEKINLFAMFG</span></span>
+<span class="topo-ruler">       610       620       630        </span>
 <span class="topo-line"><span class="topo-membrane">TGIAMSTWVWT</span><span class="topo-inside">KATLLIWRRTWCR</span><span class="topo-unknown">LTGQGTETSQVAPA</span></span>
+<details class="topo-details"><summary>Topology coordinates (25 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -523,6 +528,7 @@ Human Smoothened (SMO) is a Class F G-protein-coupled receptor (GPCR) and Hedgeh
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

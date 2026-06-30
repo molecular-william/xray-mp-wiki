@@ -166,24 +166,25 @@ well as two [Cholesterol](/xray-mp-wiki/reagents/lipids/cholesterol/) molecules.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGKGVGRDKYEPAAVSEHGDKKKAKK</span><span class="topo-outside">ERDMDELKKEVSMDDHKLSLDELHRKYGTDLSRG</span></span>
-<span class="topo-line"><span class="topo-outside">LTTARAAEILARDGPNALTPPPTTPE</span><span class="topo-unknown">WVKFCRQ</span><span class="topo-outside">LFGGFS</span><span class="topo-membrane">MLLWIGAVLCFLAYGIQA</span><span class="topo-inside">ATE</span></span>
-<span class="topo-line"><span class="topo-inside">EEP</span><span class="topo-membrane">QNDNLYLGVVLSAVVIIT</span><span class="topo-outside">GCFSYYQEAKSSKIMESFKNMVPQQALVIRNGEKMSINA</span></span>
-<span class="topo-line"><span class="topo-outside">EEVVVGDLVEVKGGDRIPADLRIISANGCKVDNSSLTGESEPQTRSPDFTNENPLETRNI</span></span>
-<span class="topo-line"><span class="topo-outside">AFFSTNCVEGTARGIVVYTGDRTVMGRIATLASGLEGGQTPIAAEIEHFI</span><span class="topo-membrane">HIITGVAVFL</span></span>
-<span class="topo-line"><span class="topo-membrane">GVSFFILSLI</span><span class="topo-inside">LEYTW</span><span class="topo-membrane">LEAVIFLIGIIVANVPEGLLAT</span><span class="topo-outside">VTVCLTLTAKRMARKNCLVKNLE</span></span>
-<span class="topo-line"><span class="topo-outside">AVETLGSTSTICSDKTGTLTQNRMTVAHMWFDNQIHEADTTENQSGVSFDKTSATWLALS</span></span>
-<span class="topo-line"><span class="topo-outside">RIAGLCNRAVFQANQDNLPILKRAVAGDASESALLKCIEVCCGSVKEMRERYTKIVEIPF</span></span>
-<span class="topo-line"><span class="topo-outside">NSTNKYQLSIHKNANAGEPRHLLVMKGAPERILDRCSSILIHGKEQPLDEELKDAFQNAY</span></span>
-<span class="topo-line"><span class="topo-outside">LELGGLGERVLGFCHLLLPDEQFPEGFQFDTDDVNFPVDNLCFVGLISMIDPPRAAVPDA</span></span>
-<span class="topo-line"><span class="topo-outside">VGKCRSAGIKVIMVTGDHPITAKAIAKGVGIISEGNETVEDIAARLNIPVSQVNPRDARA</span></span>
-<span class="topo-line"><span class="topo-outside">CVVHGSDLKDMTPEQLDDILKYHTEIVFARTSPQQKLIIVEGCQRQGAIVAVTGDGVNDS</span></span>
-<span class="topo-line"><span class="topo-outside">PALKKADIGVAMGIAGSDVSKQAADMILLDDNFASIVTGVEEGRLIFDNLKKSI</span><span class="topo-membrane">AYTLTS</span></span>
-<span class="topo-line"><span class="topo-membrane">NIPEITPFLIFII</span><span class="topo-inside">ANIPLP</span><span class="topo-membrane">LGTVTILCIDLGTDMVPA</span><span class="topo-outside">ISLAYEQAESDIMKRQPRNPQTD</span></span>
-<span class="topo-line"><span class="topo-outside">KLVNERLI</span><span class="topo-membrane">SMAYGQIGMIQALGGFFTY</span><span class="topo-inside">FVIMAENGFLPNHLLGIRVTWDDRWINDVEDSY</span></span>
-<span class="topo-line"><span class="topo-inside">GQQWTYEQRKIVEFTCH</span><span class="topo-membrane">TAFFVSIVVVQWADLVIC</span><span class="topo-outside">KTRRNSVFQQGMKNKIL</span><span class="topo-membrane">IFGLFEET</span></span>
-<span class="topo-line"><span class="topo-membrane">ALAAFLSYCP</span><span class="topo-inside">GMGVALRMYPLKP</span><span class="topo-membrane">TWWFCAFPYSLLIFVYDEVR</span><span class="topo-outside">KLIIRRRPGGWVEKETY</span></span>
-<span class="topo-line"><span class="topo-outside">Y</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGKGVGRDKYEPAAVSEHGDKKKAKK</span><span class="topo-outside">ERDMDELKKEVSMDDHKLSLDELHRKYGTDLSRGLTTARAAEILARDGPNALTPPPTTPE</span><span class="topo-unknown">WVKFCRQ</span><span class="topo-outside">LFGGFS</span><span class="topo-membrane">MLLWIGAVLCFLAYGIQA</span><span class="topo-inside">ATE</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">EEP</span><span class="topo-membrane">QNDNLYLGVVLSAVVIIT</span><span class="topo-outside">GCFSYYQEAKSSKIMESFKNMVPQQALVIRNGEKMSINAEEVVVGDLVEVKGGDRIPADLRIISANGCKVDNSSLTGESEPQTRSPDFTNENPLETRNI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">AFFSTNCVEGTARGIVVYTGDRTVMGRIATLASGLEGGQTPIAAEIEHFI</span><span class="topo-membrane">HIITGVAVFLGVSFFILSLI</span><span class="topo-inside">LEYTW</span><span class="topo-membrane">LEAVIFLIGIIVANVPEGLLAT</span><span class="topo-outside">VTVCLTLTAKRMARKNCLVKNLE</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">AVETLGSTSTICSDKTGTLTQNRMTVAHMWFDNQIHEADTTENQSGVSFDKTSATWLALSRIAGLCNRAVFQANQDNLPILKRAVAGDASESALLKCIEVCCGSVKEMRERYTKIVEIPF</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">NSTNKYQLSIHKNANAGEPRHLLVMKGAPERILDRCSSILIHGKEQPLDEELKDAFQNAYLELGGLGERVLGFCHLLLPDEQFPEGFQFDTDDVNFPVDNLCFVGLISMIDPPRAAVPDA</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-outside">VGKCRSAGIKVIMVTGDHPITAKAIAKGVGIISEGNETVEDIAARLNIPVSQVNPRDARACVVHGSDLKDMTPEQLDDILKYHTEIVFARTSPQQKLIIVEGCQRQGAIVAVTGDGVNDS</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820       830       840</span>
+<span class="topo-line"><span class="topo-outside">PALKKADIGVAMGIAGSDVSKQAADMILLDDNFASIVTGVEEGRLIFDNLKKSI</span><span class="topo-membrane">AYTLTSNIPEITPFLIFII</span><span class="topo-inside">ANIPLP</span><span class="topo-membrane">LGTVTILCIDLGTDMVPA</span><span class="topo-outside">ISLAYEQAESDIMKRQPRNPQTD</span></span>
+<span class="topo-ruler">       850       860       870       880       890       900       910       920       930       940       950       960</span>
+<span class="topo-line"><span class="topo-outside">KLVNERLI</span><span class="topo-membrane">SMAYGQIGMIQALGGFFTY</span><span class="topo-inside">FVIMAENGFLPNHLLGIRVTWDDRWINDVEDSYGQQWTYEQRKIVEFTCH</span><span class="topo-membrane">TAFFVSIVVVQWADLVIC</span><span class="topo-outside">KTRRNSVFQQGMKNKIL</span><span class="topo-membrane">IFGLFEET</span></span>
+<span class="topo-ruler">       970       980       990      1000      1010      1020 </span>
+<span class="topo-line"><span class="topo-membrane">ALAAFLSYCP</span><span class="topo-inside">GMGVALRMYPLKP</span><span class="topo-membrane">TWWFCAFPYSLLIFVYDEVR</span><span class="topo-outside">KLIIRRRPGGWVEKETYY</span></span>
+<details class="topo-details"><summary>Topology coordinates (23 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -356,6 +357,7 @@ well as two [Cholesterol](/xray-mp-wiki/reagents/lipids/cholesterol/) molecules.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -371,12 +373,13 @@ well as two [Cholesterol](/xray-mp-wiki/reagents/lipids/cholesterol/) molecules.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MARGKAKEEGSWKKFIWN</span><span class="topo-outside">SEKKEFLGRTGGSW</span><span class="topo-membrane">FKILLFYVIFYGCLAGIFIGTI</span><span class="topo-inside">QVMLLT</span></span>
-<span class="topo-line"><span class="topo-inside">ISEFKPTYQDRVAPPGLTQIPQIQKTEIAFRPNDPKSYMTYVDNIDNFLKKYRDSAQKDD</span></span>
-<span class="topo-line"><span class="topo-inside">MIFEDCGNVPSELKDRGELNNEQGERKVCRFKLEWLGNCSGINDETYGYKDGKPCVIIKL</span></span>
-<span class="topo-line"><span class="topo-inside">NRVLGFKPKPPKNESLETYPVMKYNPYVLPVQCTGKRDEDKEKVGSIEYFGLGGYPGFPL</span></span>
-<span class="topo-line"><span class="topo-inside">QYYPYYGKLLQPKYLQPLLAVQFTNLTMDTEIRIECKAYGENIGYSEKDRFQGRFDVKI</span><span class="topo-unknown">E</span></span>
-<span class="topo-line"><span class="topo-unknown">VKS</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MARGKAKEEGSWKKFIWN</span><span class="topo-outside">SEKKEFLGRTGGSW</span><span class="topo-membrane">FKILLFYVIFYGCLAGIFIGTI</span><span class="topo-inside">QVMLLTISEFKPTYQDRVAPPGLTQIPQIQKTEIAFRPNDPKSYMTYVDNIDNFLKKYRDSAQKDD</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">MIFEDCGNVPSELKDRGELNNEQGERKVCRFKLEWLGNCSGINDETYGYKDGKPCVIIKLNRVLGFKPKPPKNESLETYPVMKYNPYVLPVQCTGKRDEDKEKVGSIEYFGLGGYPGFPL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300   </span>
+<span class="topo-line"><span class="topo-inside">QYYPYYGKLLQPKYLQPLLAVQFTNLTMDTEIRIECKAYGENIGYSEKDRFQGRFDVKI</span><span class="topo-unknown">EVKS</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -409,6 +412,7 @@ well as two [Cholesterol](/xray-mp-wiki/reagents/lipids/cholesterol/) molecules.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -424,7 +428,9 @@ well as two [Cholesterol](/xray-mp-wiki/reagents/lipids/cholesterol/) molecules.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40        50        </span>
 <span class="topo-line"><span class="topo-unknown">MVAVQGTE</span><span class="topo-inside">DPFYYDYETVR</span><span class="topo-membrane">NGGLIFAALAFIVGLVI</span><span class="topo-outside">ILSK</span><span class="topo-unknown">RFRCGAKRQHRQIPEDGL</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -457,6 +463,7 @@ well as two [Cholesterol](/xray-mp-wiki/reagents/lipids/cholesterol/) molecules.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

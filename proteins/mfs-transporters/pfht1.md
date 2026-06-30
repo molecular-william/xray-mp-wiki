@@ -93,15 +93,17 @@ the subject of a selective starvation antimalarial strategy.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MTKSSKDICSENEGKKNGKSGF</span><span class="topo-outside">FSTSFKYV</span><span class="topo-membrane">LSACIASFIFGYQVSVLNT</span><span class="topo-inside">IKNFIVVEFEW</span></span>
-<span class="topo-line"><span class="topo-inside">CKGEKDRLNCSNNTIQSS</span><span class="topo-membrane">FLLASVFIGAVLGCGFSG</span><span class="topo-outside">YLVQFGRRLS</span><span class="topo-membrane">LLIIYNFFFLVSIL</span></span>
-<span class="topo-line"><span class="topo-membrane">TSIT</span><span class="topo-inside">HHFH</span><span class="topo-membrane">TILFARLLSGFGIGLVTVSVP</span><span class="topo-outside">MYISEMTHKDKKGAYG</span><span class="topo-membrane">VMHQLFITFGIFVAV</span></span>
-<span class="topo-line"><span class="topo-membrane">MLG</span><span class="topo-inside">LAMGEGPKADSTEPLTSFAKLWWR</span><span class="topo-membrane">LMFLFPSVISLIGILALV</span><span class="topo-outside">VFFKEETPYFLFEKG</span></span>
-<span class="topo-line"><span class="topo-outside">RIEESKNILKKIYETDNVDEPLNAIKEAVEQNESAKKNSLSLLSALKIPSYRYVII</span><span class="topo-membrane">LGCL</span></span>
-<span class="topo-line"><span class="topo-membrane">LSGLQQFTGINVLVSNS</span><span class="topo-inside">NELYKEFLDSHLITIL</span><span class="topo-membrane">SVVMTAVNFLMTFPAIYIV</span><span class="topo-outside">EKLGRK</span><span class="topo-membrane">TL</span></span>
-<span class="topo-line"><span class="topo-membrane">LLWGCVGVLVAYLPTAI</span><span class="topo-inside">ANEINRNSNFVKIL</span><span class="topo-membrane">SIVATFVMIISFAVSYGPVLWI</span><span class="topo-outside">YLHEMFP</span></span>
-<span class="topo-line"><span class="topo-outside">SEIKDSAAS</span><span class="topo-membrane">LASLVNWVCAIIVVFPSD</span><span class="topo-inside">IIIKKSPS</span><span class="topo-membrane">ILFIVFSVMSILTFFFIF</span><span class="topo-outside">FFIKETK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MTKSSKDICSENEGKKNGKSGF</span><span class="topo-outside">FSTSFKYV</span><span class="topo-membrane">LSACIASFIFGYQVSVLNT</span><span class="topo-inside">IKNFIVVEFEWCKGEKDRLNCSNNTIQSS</span><span class="topo-membrane">FLLASVFIGAVLGCGFSG</span><span class="topo-outside">YLVQFGRRLS</span><span class="topo-membrane">LLIIYNFFFLVSIL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">TSIT</span><span class="topo-inside">HHFH</span><span class="topo-membrane">TILFARLLSGFGIGLVTVSVP</span><span class="topo-outside">MYISEMTHKDKKGAYG</span><span class="topo-membrane">VMHQLFITFGIFVAVMLG</span><span class="topo-inside">LAMGEGPKADSTEPLTSFAKLWWR</span><span class="topo-membrane">LMFLFPSVISLIGILALV</span><span class="topo-outside">VFFKEETPYFLFEKG</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">RIEESKNILKKIYETDNVDEPLNAIKEAVEQNESAKKNSLSLLSALKIPSYRYVII</span><span class="topo-membrane">LGCLLSGLQQFTGINVLVSNS</span><span class="topo-inside">NELYKEFLDSHLITIL</span><span class="topo-membrane">SVVMTAVNFLMTFPAIYIV</span><span class="topo-outside">EKLGRK</span><span class="topo-membrane">TL</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">LLWGCVGVLVAYLPTAI</span><span class="topo-inside">ANEINRNSNFVKIL</span><span class="topo-membrane">SIVATFVMIISFAVSYGPVLWI</span><span class="topo-outside">YLHEMFPSEIKDSAAS</span><span class="topo-membrane">LASLVNWVCAIIVVFPSD</span><span class="topo-inside">IIIKKSPS</span><span class="topo-membrane">ILFIVFSVMSILTFFFIF</span><span class="topo-outside">FFIKETK</span></span>
+<span class="topo-ruler">       490       500    </span>
 <span class="topo-line"><span class="topo-outside">GGEIGTSPYITMEERQKH</span><span class="topo-unknown">MTKSVV</span></span>
+<details class="topo-details"><summary>Topology coordinates (25 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -288,6 +290,7 @@ the subject of a selective starvation antimalarial strategy.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -303,15 +306,17 @@ the subject of a selective starvation antimalarial strategy.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MTKSSKDICSENEGKKNGKSG</span><span class="topo-outside">FFSTSFKYV</span><span class="topo-membrane">LSACIASFIFGYQVSVLNT</span><span class="topo-inside">IKNFIVVEFEW</span></span>
-<span class="topo-line"><span class="topo-inside">CKGEKDRLNCSNNTIQSS</span><span class="topo-membrane">FLLASVFIGAVLGCGFSG</span><span class="topo-outside">YLVQFGRRLS</span><span class="topo-membrane">LLIIYNFFFLVSIL</span></span>
-<span class="topo-line"><span class="topo-membrane">TSIT</span><span class="topo-inside">HHFH</span><span class="topo-membrane">TILFARLLSGFGIGLVTVSVP</span><span class="topo-outside">MYISEMTHKDKKGAYG</span><span class="topo-membrane">VMHQLFITFGIFVAV</span></span>
-<span class="topo-line"><span class="topo-membrane">MLG</span><span class="topo-inside">LAMGEGPKADSTEPLTSFAKLWWR</span><span class="topo-membrane">LMFLFPSVISLIGILALV</span><span class="topo-outside">VFFKEETPYFLFEKG</span></span>
-<span class="topo-line"><span class="topo-outside">RIEESKNILKKIYETDNVDEPLNAIKEAVEQNESAKKNSLSLLSALKIPSYRYVII</span><span class="topo-membrane">LGCL</span></span>
-<span class="topo-line"><span class="topo-membrane">LSGLQQFTGINVLVSNS</span><span class="topo-inside">NELYKEFLDSHLITIL</span><span class="topo-membrane">SVVMTAVNFLMTFPAIYIV</span><span class="topo-outside">EKLGR</span><span class="topo-membrane">KTL</span></span>
-<span class="topo-line"><span class="topo-membrane">LLWGCVGVLVAYLPTAI</span><span class="topo-inside">ANEINRNSNFVKIL</span><span class="topo-membrane">SIVATFVMIISFAVSYGPVLWI</span><span class="topo-outside">YLHEMFP</span></span>
-<span class="topo-line"><span class="topo-outside">SEIKDSAAS</span><span class="topo-membrane">LASLVNWVCAIIVVFPSD</span><span class="topo-inside">IIIKKSPS</span><span class="topo-membrane">ILFIVFSVMSILTFFFIF</span><span class="topo-outside">FFIKETK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MTKSSKDICSENEGKKNGKSG</span><span class="topo-outside">FFSTSFKYV</span><span class="topo-membrane">LSACIASFIFGYQVSVLNT</span><span class="topo-inside">IKNFIVVEFEWCKGEKDRLNCSNNTIQSS</span><span class="topo-membrane">FLLASVFIGAVLGCGFSG</span><span class="topo-outside">YLVQFGRRLS</span><span class="topo-membrane">LLIIYNFFFLVSIL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">TSIT</span><span class="topo-inside">HHFH</span><span class="topo-membrane">TILFARLLSGFGIGLVTVSVP</span><span class="topo-outside">MYISEMTHKDKKGAYG</span><span class="topo-membrane">VMHQLFITFGIFVAVMLG</span><span class="topo-inside">LAMGEGPKADSTEPLTSFAKLWWR</span><span class="topo-membrane">LMFLFPSVISLIGILALV</span><span class="topo-outside">VFFKEETPYFLFEKG</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">RIEESKNILKKIYETDNVDEPLNAIKEAVEQNESAKKNSLSLLSALKIPSYRYVII</span><span class="topo-membrane">LGCLLSGLQQFTGINVLVSNS</span><span class="topo-inside">NELYKEFLDSHLITIL</span><span class="topo-membrane">SVVMTAVNFLMTFPAIYIV</span><span class="topo-outside">EKLGR</span><span class="topo-membrane">KTL</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">LLWGCVGVLVAYLPTAI</span><span class="topo-inside">ANEINRNSNFVKIL</span><span class="topo-membrane">SIVATFVMIISFAVSYGPVLWI</span><span class="topo-outside">YLHEMFPSEIKDSAAS</span><span class="topo-membrane">LASLVNWVCAIIVVFPSD</span><span class="topo-inside">IIIKKSPS</span><span class="topo-membrane">ILFIVFSVMSILTFFFIF</span><span class="topo-outside">FFIKETK</span></span>
+<span class="topo-ruler">       490       500    </span>
 <span class="topo-line"><span class="topo-outside">GGEIGTSPYITMEERQKHM</span><span class="topo-unknown">TKSVV</span></span>
+<details class="topo-details"><summary>Topology coordinates (25 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -498,6 +503,7 @@ the subject of a selective starvation antimalarial strategy.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -513,15 +519,17 @@ the subject of a selective starvation antimalarial strategy.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MTKSSKDICSENEGKKNGKSGFF</span><span class="topo-inside">STSFKYVL</span><span class="topo-membrane">SACIASFIFGYQVSVLN</span><span class="topo-outside">TIKNFIVVEFEW</span></span>
-<span class="topo-line"><span class="topo-outside">C</span><span class="topo-unknown">KGEKDRLN</span><span class="topo-outside">CSNNTIQSSFL</span><span class="topo-membrane">LASVFIGAVLGCGFSGYL</span><span class="topo-inside">VQFGRRLS</span><span class="topo-membrane">LLIIYNFFFLVSIL</span></span>
-<span class="topo-line"><span class="topo-membrane">TSIT</span><span class="topo-outside">HHFH</span><span class="topo-membrane">TILFARLLSGFGIGLVTVSVP</span><span class="topo-inside">MYISEMTHKDKKGAYG</span><span class="topo-membrane">VMHQLFITFGIFVAV</span></span>
-<span class="topo-line"><span class="topo-membrane">MLG</span><span class="topo-outside">L</span><span class="topo-unknown">AMGEGPKADSTEPLT</span><span class="topo-outside">SFAKLWWR</span><span class="topo-membrane">LMFLFPSVISLIGILA</span><span class="topo-inside">LVVFFKEETPYFLFEKG</span></span>
-<span class="topo-line"><span class="topo-inside">RIEESKNILKKIYETDNVDEPLNAIKEAVEQNESAKKNSLSLLSALKIPSYRYVI</span><span class="topo-membrane">ILGCL</span></span>
-<span class="topo-line"><span class="topo-membrane">LSGLQQFTGINVLV</span><span class="topo-outside">SNSNELYKEFLDSHLITILS</span><span class="topo-membrane">VVMTAVNFLMTFPAIYIV</span><span class="topo-inside">EKLGR</span><span class="topo-membrane">KTL</span></span>
-<span class="topo-line"><span class="topo-membrane">LLWGCVGVLVAYLP</span><span class="topo-outside">TAIANEINRNSNFVKILSIV</span><span class="topo-membrane">ATFVMIISFAVSYGPVLWIYL</span><span class="topo-inside">HEMFP</span></span>
-<span class="topo-line"><span class="topo-inside">SEIKDS</span><span class="topo-membrane">AASLASLVNWVCAIIVV</span><span class="topo-outside">FPSDIIIKKSPSILFI</span><span class="topo-membrane">VFSVMSILTFFFIFFFI</span><span class="topo-inside">KETK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MTKSSKDICSENEGKKNGKSGFF</span><span class="topo-inside">STSFKYVL</span><span class="topo-membrane">SACIASFIFGYQVSVLN</span><span class="topo-outside">TIKNFIVVEFEWC</span><span class="topo-unknown">KGEKDRLN</span><span class="topo-outside">CSNNTIQSSFL</span><span class="topo-membrane">LASVFIGAVLGCGFSGYL</span><span class="topo-inside">VQFGRRLS</span><span class="topo-membrane">LLIIYNFFFLVSIL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">TSIT</span><span class="topo-outside">HHFH</span><span class="topo-membrane">TILFARLLSGFGIGLVTVSVP</span><span class="topo-inside">MYISEMTHKDKKGAYG</span><span class="topo-membrane">VMHQLFITFGIFVAVMLG</span><span class="topo-outside">L</span><span class="topo-unknown">AMGEGPKADSTEPLT</span><span class="topo-outside">SFAKLWWR</span><span class="topo-membrane">LMFLFPSVISLIGILA</span><span class="topo-inside">LVVFFKEETPYFLFEKG</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">RIEESKNILKKIYETDNVDEPLNAIKEAVEQNESAKKNSLSLLSALKIPSYRYVI</span><span class="topo-membrane">ILGCLLSGLQQFTGINVLV</span><span class="topo-outside">SNSNELYKEFLDSHLITILS</span><span class="topo-membrane">VVMTAVNFLMTFPAIYIV</span><span class="topo-inside">EKLGR</span><span class="topo-membrane">KTL</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">LLWGCVGVLVAYLP</span><span class="topo-outside">TAIANEINRNSNFVKILSIV</span><span class="topo-membrane">ATFVMIISFAVSYGPVLWIYL</span><span class="topo-inside">HEMFPSEIKDS</span><span class="topo-membrane">AASLASLVNWVCAIIVV</span><span class="topo-outside">FPSDIIIKKSPSILFI</span><span class="topo-membrane">VFSVMSILTFFFIFFFI</span><span class="topo-inside">KETK</span></span>
+<span class="topo-ruler">       490       500    </span>
 <span class="topo-line"><span class="topo-inside">GGEIGTSPYITME</span><span class="topo-unknown">ERQKHMTKSVV</span></span>
+<details class="topo-details"><summary>Topology coordinates (27 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -722,6 +730,7 @@ the subject of a selective starvation antimalarial strategy.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -764,15 +773,17 @@ the subject of a selective starvation antimalarial strategy.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MEKEDSG</span><span class="topo-outside">FFSTSFKYV</span><span class="topo-membrane">LSACIASFIFGYQVSVLNT</span><span class="topo-inside">I</span><span class="topo-unknown">KNFIVVEF</span><span class="topo-inside">E</span><span class="topo-unknown">WCKGEKDRLN</span><span class="topo-inside">CSNNT</span></span>
-<span class="topo-line"><span class="topo-inside">IQSS</span><span class="topo-membrane">FLLASVFIGAVLGCGFSGYL</span><span class="topo-outside">VQFGRRL</span><span class="topo-membrane">SLLIIYNFFFLVSILTSI</span><span class="topo-inside">THHFH</span><span class="topo-membrane">TILFAR</span></span>
-<span class="topo-line"><span class="topo-membrane">LLSGFGIGLVTVSVP</span><span class="topo-outside">MYISEMTHKDKKGA</span><span class="topo-membrane">YGVMHQLFITFGIFVAVMLG</span><span class="topo-inside">LAMGE</span><span class="topo-unknown">GPKADS</span></span>
-<span class="topo-line"><span class="topo-unknown">TEPL</span><span class="topo-inside">TSFAKLWWR</span><span class="topo-membrane">LMFLFPSVISLIGILALVV</span><span class="topo-outside">FFKEETPYFLFEKGRIEESKNILKKIYE</span></span>
-<span class="topo-line"><span class="topo-outside">TDNVDEPLNAIKEAVEQNESAKKNSLSLLSALKIPSYRYVII</span><span class="topo-membrane">LGCLLSGLQQFTGINVLV</span></span>
-<span class="topo-line"><span class="topo-membrane">SNS</span><span class="topo-inside">NELYKEFLDSHLITIL</span><span class="topo-membrane">SVVMTAVNFLMTFPAIYIV</span><span class="topo-outside">EKLGR</span><span class="topo-membrane">KTLLLWGCVGVLVAYLP</span></span>
-<span class="topo-line"><span class="topo-membrane">TAI</span><span class="topo-inside">ANE</span><span class="topo-unknown">INRNS</span><span class="topo-inside">NFVKIL</span><span class="topo-membrane">SIVATFVMIISFAVSYGPVLWIYL</span><span class="topo-outside">HEMFPSEIKDSAA</span><span class="topo-membrane">SLASLV</span></span>
-<span class="topo-line"><span class="topo-membrane">NWVCAIIVVFPSD</span><span class="topo-inside">IIIKKSPS</span><span class="topo-membrane">ILFIVFSVMSILTFFFIFF</span><span class="topo-outside">FIKETKGGE</span><span class="topo-unknown">IGTSPYITMEE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MEKEDSG</span><span class="topo-outside">FFSTSFKYV</span><span class="topo-membrane">LSACIASFIFGYQVSVLNT</span><span class="topo-inside">I</span><span class="topo-unknown">KNFIVVEF</span><span class="topo-inside">E</span><span class="topo-unknown">WCKGEKDRLN</span><span class="topo-inside">CSNNTIQSS</span><span class="topo-membrane">FLLASVFIGAVLGCGFSGYL</span><span class="topo-outside">VQFGRRL</span><span class="topo-membrane">SLLIIYNFFFLVSILTSI</span><span class="topo-inside">THHFH</span><span class="topo-membrane">TILFAR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">LLSGFGIGLVTVSVP</span><span class="topo-outside">MYISEMTHKDKKGA</span><span class="topo-membrane">YGVMHQLFITFGIFVAVMLG</span><span class="topo-inside">LAMGE</span><span class="topo-unknown">GPKADSTEPL</span><span class="topo-inside">TSFAKLWWR</span><span class="topo-membrane">LMFLFPSVISLIGILALVV</span><span class="topo-outside">FFKEETPYFLFEKGRIEESKNILKKIYE</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">TDNVDEPLNAIKEAVEQNESAKKNSLSLLSALKIPSYRYVII</span><span class="topo-membrane">LGCLLSGLQQFTGINVLVSNS</span><span class="topo-inside">NELYKEFLDSHLITIL</span><span class="topo-membrane">SVVMTAVNFLMTFPAIYIV</span><span class="topo-outside">EKLGR</span><span class="topo-membrane">KTLLLWGCVGVLVAYLP</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">TAI</span><span class="topo-inside">ANE</span><span class="topo-unknown">INRNS</span><span class="topo-inside">NFVKIL</span><span class="topo-membrane">SIVATFVMIISFAVSYGPVLWIYL</span><span class="topo-outside">HEMFPSEIKDSAA</span><span class="topo-membrane">SLASLVNWVCAIIVVFPSD</span><span class="topo-inside">IIIKKSPS</span><span class="topo-membrane">ILFIVFSVMSILTFFFIFF</span><span class="topo-outside">FIKETKGGE</span><span class="topo-unknown">IGTSPYITMEE</span></span>
+<span class="topo-ruler">       490      </span>
 <span class="topo-line"><span class="topo-unknown">RQKHMTKSVVENLYFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (30 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -994,6 +1005,7 @@ the subject of a selective starvation antimalarial strategy.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1009,15 +1021,17 @@ the subject of a selective starvation antimalarial strategy.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MEKEDSG</span><span class="topo-outside">FFSTSFKYV</span><span class="topo-membrane">LSACIASFIFGYQVSVLNT</span><span class="topo-inside">I</span><span class="topo-unknown">KNFIVVEF</span><span class="topo-inside">E</span><span class="topo-unknown">WCKGEKDRLN</span><span class="topo-inside">CSNNT</span></span>
-<span class="topo-line"><span class="topo-inside">IQSS</span><span class="topo-membrane">FLLASVFIGAVLGCGFSGYL</span><span class="topo-outside">VQFGRRL</span><span class="topo-membrane">SLLIIYNFFFLVSILTSIT</span><span class="topo-inside">HHFH</span><span class="topo-membrane">TILFAR</span></span>
-<span class="topo-line"><span class="topo-membrane">LLSGFGIGLVTVSVP</span><span class="topo-outside">MYISEMTHKDKKGA</span><span class="topo-membrane">YGVMHQLFITFGIFVAVMLG</span><span class="topo-inside">LAMGEGPK</span><span class="topo-unknown">ADS</span></span>
-<span class="topo-line"><span class="topo-unknown">TEPL</span><span class="topo-inside">TSFAKLWWR</span><span class="topo-membrane">LMFLFPSVISLIGILALVV</span><span class="topo-outside">FFKEETPYFLFEKGRIEESKNILKKIYE</span></span>
-<span class="topo-line"><span class="topo-outside">TDNVDEPLNAIKEAVEQNESAKKNSLSLLSALKIPSYRYVII</span><span class="topo-membrane">LGCLLSGLQQFTGINVLV</span></span>
-<span class="topo-line"><span class="topo-membrane">SNS</span><span class="topo-inside">NELYKEFLDSHLITIL</span><span class="topo-membrane">SVVMTAVNFLMTFPAIYIV</span><span class="topo-outside">EKLGR</span><span class="topo-membrane">KTLLLWGCVGVLVAYLP</span></span>
-<span class="topo-line"><span class="topo-membrane">TAI</span><span class="topo-inside">ANEIN</span><span class="topo-unknown">RNS</span><span class="topo-inside">NFVKIL</span><span class="topo-membrane">SIVATFVMIISFAVSYGPVLWIYL</span><span class="topo-outside">HEMFPSEIKDSAA</span><span class="topo-membrane">SLASLV</span></span>
-<span class="topo-line"><span class="topo-membrane">NWVCAIIVVFPSD</span><span class="topo-inside">IIIKKSPS</span><span class="topo-membrane">ILFIVFSVMSILTFFFIFF</span><span class="topo-outside">FIKETK</span><span class="topo-unknown">GGEIGTSPYITMEE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MEKEDSG</span><span class="topo-outside">FFSTSFKYV</span><span class="topo-membrane">LSACIASFIFGYQVSVLNT</span><span class="topo-inside">I</span><span class="topo-unknown">KNFIVVEF</span><span class="topo-inside">E</span><span class="topo-unknown">WCKGEKDRLN</span><span class="topo-inside">CSNNTIQSS</span><span class="topo-membrane">FLLASVFIGAVLGCGFSGYL</span><span class="topo-outside">VQFGRRL</span><span class="topo-membrane">SLLIIYNFFFLVSILTSIT</span><span class="topo-inside">HHFH</span><span class="topo-membrane">TILFAR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">LLSGFGIGLVTVSVP</span><span class="topo-outside">MYISEMTHKDKKGA</span><span class="topo-membrane">YGVMHQLFITFGIFVAVMLG</span><span class="topo-inside">LAMGEGPK</span><span class="topo-unknown">ADSTEPL</span><span class="topo-inside">TSFAKLWWR</span><span class="topo-membrane">LMFLFPSVISLIGILALVV</span><span class="topo-outside">FFKEETPYFLFEKGRIEESKNILKKIYE</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">TDNVDEPLNAIKEAVEQNESAKKNSLSLLSALKIPSYRYVII</span><span class="topo-membrane">LGCLLSGLQQFTGINVLVSNS</span><span class="topo-inside">NELYKEFLDSHLITIL</span><span class="topo-membrane">SVVMTAVNFLMTFPAIYIV</span><span class="topo-outside">EKLGR</span><span class="topo-membrane">KTLLLWGCVGVLVAYLP</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">TAI</span><span class="topo-inside">ANEIN</span><span class="topo-unknown">RNS</span><span class="topo-inside">NFVKIL</span><span class="topo-membrane">SIVATFVMIISFAVSYGPVLWIYL</span><span class="topo-outside">HEMFPSEIKDSAA</span><span class="topo-membrane">SLASLVNWVCAIIVVFPSD</span><span class="topo-inside">IIIKKSPS</span><span class="topo-membrane">ILFIVFSVMSILTFFFIFF</span><span class="topo-outside">FIKETK</span><span class="topo-unknown">GGEIGTSPYITMEE</span></span>
+<span class="topo-ruler">       490      </span>
 <span class="topo-line"><span class="topo-unknown">RQKHMTKSVVENLYFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (30 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1239,6 +1253,7 @@ the subject of a selective starvation antimalarial strategy.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

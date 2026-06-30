@@ -107,9 +107,11 @@ Diacylglycerol kinase (DgkA) from Escherichia coli is a 121-residue integral mem
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GHHHHHHELANNTTG</span><span class="topo-inside">F</span><span class="topo-unknown">TRIIKAAGYSWKGLRAAWIN</span><span class="topo-inside">EAAFRQ</span><span class="topo-membrane">EGVAVLLAVVIACWL</span><span class="topo-outside">DVD</span></span>
-<span class="topo-line"><span class="topo-outside">A</span><span class="topo-membrane">ITRVLLISSVMLVMIV</span><span class="topo-inside">EILNSAIEAVVDRIGSEYHELSGRAKDMGSAAVL</span><span class="topo-membrane">IAIIVAVIT</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GHHHHHHELANNTTG</span><span class="topo-inside">F</span><span class="topo-unknown">TRIIKAAGYSWKGLRAAWIN</span><span class="topo-inside">EAAFRQ</span><span class="topo-membrane">EGVAVLLAVVIACWL</span><span class="topo-outside">DVDA</span><span class="topo-membrane">ITRVLLISSVMLVMIV</span><span class="topo-inside">EILNSAIEAVVDRIGSEYHELSGRAKDMGSAAVL</span><span class="topo-membrane">IAIIVAVIT</span></span>
+<span class="topo-ruler">       130</span>
 <span class="topo-line"><span class="topo-membrane">WCILL</span><span class="topo-outside">WSHF</span><span class="topo-unknown">G</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -198,6 +200,7 @@ Diacylglycerol kinase (DgkA) from Escherichia coli is a 121-residue integral mem
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -213,9 +216,11 @@ Diacylglycerol kinase (DgkA) from Escherichia coli is a 121-residue integral mem
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GHHHHHHELANNTT</span><span class="topo-inside">GF</span><span class="topo-unknown">TRIIKAAGYSWKGLRAAWI</span><span class="topo-inside">NEAAFRQ</span><span class="topo-membrane">EGVAVLLAVVIACWL</span><span class="topo-outside">DVD</span></span>
-<span class="topo-line"><span class="topo-outside">A</span><span class="topo-membrane">ITRVLLISSVMLVMI</span><span class="topo-inside">VEILNSAIEAVVDRIGSEYHELSGRAKDMGSAAVL</span><span class="topo-membrane">IAIIVAVIT</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GHHHHHHELANNTT</span><span class="topo-inside">GF</span><span class="topo-unknown">TRIIKAAGYSWKGLRAAWI</span><span class="topo-inside">NEAAFRQ</span><span class="topo-membrane">EGVAVLLAVVIACWL</span><span class="topo-outside">DVDA</span><span class="topo-membrane">ITRVLLISSVMLVMI</span><span class="topo-inside">VEILNSAIEAVVDRIGSEYHELSGRAKDMGSAAVL</span><span class="topo-membrane">IAIIVAVIT</span></span>
+<span class="topo-ruler">       130</span>
 <span class="topo-line"><span class="topo-membrane">WCILLW</span><span class="topo-outside">SHF</span><span class="topo-unknown">G</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -304,6 +309,7 @@ Diacylglycerol kinase (DgkA) from Escherichia coli is a 121-residue integral mem
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -319,9 +325,11 @@ Diacylglycerol kinase (DgkA) from Escherichia coli is a 121-residue integral mem
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GHHHHHHELANNTTGFTRIIKAAGYSWKGLRAAWIN</span><span class="topo-inside">EAAFRQ</span><span class="topo-membrane">EGVAVLLAVVIACWL</span><span class="topo-outside">DVD</span></span>
-<span class="topo-line"><span class="topo-outside">A</span><span class="topo-membrane">ITRVLLISSVMLVMI</span><span class="topo-inside">VEILNSAIEAVVDRIGSEYHELSGRAKDMGSAAVL</span><span class="topo-membrane">IAIIVAVIT</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GHHHHHHELANNTTGFTRIIKAAGYSWKGLRAAWIN</span><span class="topo-inside">EAAFRQ</span><span class="topo-membrane">EGVAVLLAVVIACWL</span><span class="topo-outside">DVDA</span><span class="topo-membrane">ITRVLLISSVMLVMI</span><span class="topo-inside">VEILNSAIEAVVDRIGSEYHELSGRAKDMGSAAVL</span><span class="topo-membrane">IAIIVAVIT</span></span>
+<span class="topo-ruler">       130</span>
 <span class="topo-line"><span class="topo-membrane">WCILLW</span><span class="topo-outside">SH</span><span class="topo-unknown">FG</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -396,6 +404,7 @@ Diacylglycerol kinase (DgkA) from Escherichia coli is a 121-residue integral mem
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

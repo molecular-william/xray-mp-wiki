@@ -98,17 +98,19 @@ TmrAB (TmrA/TmrB) from *Thermus thermophilus* is a heterodimeric ABC half-transp
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">TEDTYSKAF</span><span class="topo-outside">D</span><span class="topo-unknown">RALFARILRYV</span><span class="topo-membrane">WPYRLQVVLALLFLLVVTLAAA</span><span class="topo-inside">ATPLFFKWAIDLALVPT</span></span>
-<span class="topo-line"><span class="topo-inside">EPRPLAERFHLLLWISLGFL</span><span class="topo-membrane">AVRAVHFAATYGETYLIQWVG</span><span class="topo-outside">QRVLFDLRSDLFAKLMRLH</span></span>
-<span class="topo-line"><span class="topo-outside">PGFYDRNPVGRLMTRVTSDVDAINQ</span><span class="topo-membrane">FITGGLVGVIADLFTLVGLLG</span><span class="topo-inside">FMLFLSPKLTLVV</span><span class="topo-membrane">L</span></span>
-<span class="topo-line"><span class="topo-membrane">LVAPVLLAVTTWVRLGMR</span><span class="topo-outside">SAYREMRLRLARVNAALQENLSGVETIQLFVKEREREEKFDR</span></span>
-<span class="topo-line"><span class="topo-outside">LNRDLFRAWVEI</span><span class="topo-membrane">IRWFALFFPVVGFLGDFAV</span><span class="topo-inside">ASLVYYGGGEVVRGAVSLGLLVAFVD</span><span class="topo-membrane">YTR</span></span>
-<span class="topo-line"><span class="topo-membrane">QLFQPLQDLSDKFNLF</span><span class="topo-outside">QGAMASAERIFGVLDTEEELKDPEDPTPIRGFRGEVEFRDVWLA</span></span>
-<span class="topo-line"><span class="topo-outside">YTPKGVEPTEKDWVLKGVSFRVRPGEKVALVGATGAGKTSVVSLIARFYDPQRGCVFLDG</span></span>
-<span class="topo-line"><span class="topo-outside">VDVRRYRQEELRRHVGIVLQEPFLFSGTVLDNLRLFDPSVPPERVEEVARFLGAHEFILR</span></span>
-<span class="topo-line"><span class="topo-outside">LPKGYQTVLGERGAGLSTGEKQLLALVRALLASPDILLILDEATASVDSETEKRLQEALY</span></span>
-<span class="topo-line"><span class="topo-outside">KAMEGRTSLIIAHRLSTIRHVDRILVFRKGRLVEEGSHEELLAKGGYYAALYRLQFQEAK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">TEDTYSKAF</span><span class="topo-outside">D</span><span class="topo-unknown">RALFARILRYV</span><span class="topo-membrane">WPYRLQVVLALLFLLVVTLAAA</span><span class="topo-inside">ATPLFFKWAIDLALVPTEPRPLAERFHLLLWISLGFL</span><span class="topo-membrane">AVRAVHFAATYGETYLIQWVG</span><span class="topo-outside">QRVLFDLRSDLFAKLMRLH</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">PGFYDRNPVGRLMTRVTSDVDAINQ</span><span class="topo-membrane">FITGGLVGVIADLFTLVGLLG</span><span class="topo-inside">FMLFLSPKLTLVV</span><span class="topo-membrane">LLVAPVLLAVTTWVRLGMR</span><span class="topo-outside">SAYREMRLRLARVNAALQENLSGVETIQLFVKEREREEKFDR</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">LNRDLFRAWVEI</span><span class="topo-membrane">IRWFALFFPVVGFLGDFAV</span><span class="topo-inside">ASLVYYGGGEVVRGAVSLGLLVAFVD</span><span class="topo-membrane">YTRQLFQPLQDLSDKFNLF</span><span class="topo-outside">QGAMASAERIFGVLDTEEELKDPEDPTPIRGFRGEVEFRDVWLA</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">YTPKGVEPTEKDWVLKGVSFRVRPGEKVALVGATGAGKTSVVSLIARFYDPQRGCVFLDGVDVRRYRQEELRRHVGIVLQEPFLFSGTVLDNLRLFDPSVPPERVEEVARFLGAHEFILR</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">LPKGYQTVLGERGAGLSTGEKQLLALVRALLASPDILLILDEATASVDSETEKRLQEALYKAMEGRTSLIIAHRLSTIRHVDRILVFRKGRLVEEGSHEELLAKGGYYAALYRLQFQEAK</span></span>
+<span class="topo-ruler">       610 </span>
 <span class="topo-line"><span class="topo-outside">LG</span><span class="topo-unknown">GGGENLYFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (14 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -218,6 +220,7 @@ TmrAB (TmrA/TmrB) from *Thermus thermophilus* is a heterodimeric ABC half-transp
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -233,16 +236,17 @@ TmrAB (TmrA/TmrB) from *Thermus thermophilus* is a heterodimeric ABC half-transp
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">TGR</span><span class="topo-unknown">SAAPLLRRLWPYV</span><span class="topo-outside">GRYRW</span><span class="topo-membrane">RYLWAVLAGLVSIFFFVLTP</span><span class="topo-inside">YFLRLAVDAVQAGRGFGVY</span></span>
-<span class="topo-line"><span class="topo-inside">ALAI</span><span class="topo-membrane">VASAALSGLLSYAMRRLAV</span><span class="topo-outside">VASRQVEYDLRRDLLHHLLTLDRDFYHKHRVGDLMNR</span></span>
-<span class="topo-line"><span class="topo-outside">LNTDLSAVREMVGP</span><span class="topo-membrane">GILMGSRLSFLVLLAFLSMYA</span><span class="topo-inside">VNARLA</span><span class="topo-membrane">FYLTLILPGIFLAMRFLLR</span></span>
-<span class="topo-line"><span class="topo-membrane">LID</span><span class="topo-outside">RRYREAQEVFDRISTLAQEAFSGIRVVKGYALERRMVAWFQDLNRLYVEKSL</span><span class="topo-membrane">ALARV</span></span>
-<span class="topo-line"><span class="topo-membrane">EGPLHALLGFLMGFAFL</span><span class="topo-inside">TVLWAGGAMVVRGELSVGELVQF</span><span class="topo-membrane">NAYLAQLTWPILGLGWVM</span><span class="topo-outside">AL</span></span>
-<span class="topo-line"><span class="topo-outside">YQRGLTSLRRLFELLDEKPAIRDEDPLPLALEDLSGEVRFEGVGLKRDGRWLLRGLTLTI</span></span>
-<span class="topo-line"><span class="topo-outside">PEGMTLGITGRTGSGKSLLAALVPRLLDPSEGRVYVGGHEARRIPLAVLRKAVGVAPQEP</span></span>
-<span class="topo-line"><span class="topo-outside">FLFSETILENIAFGLDEVDRERVEWAARLAGIHEEILAFPKGYETVLGERGITLSGGQRQ</span></span>
-<span class="topo-line"><span class="topo-outside">RVALARALAKRPKILILDDALSAVDAETEARILQGLKTVLGKQTTLLISHRTAALRHADW</span></span>
-<span class="topo-line"><span class="topo-outside">IIVLDGGRIVEEGTHESLLQAGGLYAEMDRLQKEVEA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">TGR</span><span class="topo-unknown">SAAPLLRRLWPYV</span><span class="topo-outside">GRYRW</span><span class="topo-membrane">RYLWAVLAGLVSIFFFVLTP</span><span class="topo-inside">YFLRLAVDAVQAGRGFGVYALAI</span><span class="topo-membrane">VASAALSGLLSYAMRRLAV</span><span class="topo-outside">VASRQVEYDLRRDLLHHLLTLDRDFYHKHRVGDLMNR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">LNTDLSAVREMVGP</span><span class="topo-membrane">GILMGSRLSFLVLLAFLSMYA</span><span class="topo-inside">VNARLA</span><span class="topo-membrane">FYLTLILPGIFLAMRFLLRLID</span><span class="topo-outside">RRYREAQEVFDRISTLAQEAFSGIRVVKGYALERRMVAWFQDLNRLYVEKSL</span><span class="topo-membrane">ALARV</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">EGPLHALLGFLMGFAFL</span><span class="topo-inside">TVLWAGGAMVVRGELSVGELVQF</span><span class="topo-membrane">NAYLAQLTWPILGLGWVM</span><span class="topo-outside">ALYQRGLTSLRRLFELLDEKPAIRDEDPLPLALEDLSGEVRFEGVGLKRDGRWLLRGLTLTI</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">PEGMTLGITGRTGSGKSLLAALVPRLLDPSEGRVYVGGHEARRIPLAVLRKAVGVAPQEPFLFSETILENIAFGLDEVDRERVEWAARLAGIHEEILAFPKGYETVLGERGITLSGGQRQ</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       </span>
+<span class="topo-line"><span class="topo-outside">RVALARALAKRPKILILDDALSAVDAETEARILQGLKTVLGKQTTLLISHRTAALRHADWIIVLDGGRIVEEGTHESLLQAGGLYAEMDRLQKEVEA</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -359,6 +363,7 @@ TmrAB (TmrA/TmrB) from *Thermus thermophilus* is a heterodimeric ABC half-transp
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

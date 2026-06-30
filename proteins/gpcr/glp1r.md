@@ -125,14 +125,15 @@ The human glucagon-like Peptide 5 (Truncated GLP-1 Agonist Nonapeptide) (Truncat
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GPASRPQGA</span><span class="topo-inside">TVSLWETVQKWREYRRQCQRSLTEDPPPATDLFCNRTFDEYACWPDGEPGS</span></span>
-<span class="topo-line"><span class="topo-inside">FVNVSCPWYLPWASSVPQGHVYRFCTAEGLWLQKDNSSLPWRDLSECEESKRGERSSPEE</span></span>
-<span class="topo-line"><span class="topo-inside">QL</span><span class="topo-membrane">LFLYIIYTVGYALSFSALVIASAILLG</span><span class="topo-outside">FRHLHCT</span><span class="topo-membrane">RNYIHLNLFASFILRALSVFIKDA</span></span>
-<span class="topo-line"><span class="topo-inside">ALKWMYSEAAQAHQWRGLLSYQDSLSCRL</span><span class="topo-membrane">VFLFMQYCVAANYYWLLVEGVYLYT</span><span class="topo-outside">LLAFSV</span></span>
-<span class="topo-line"><span class="topo-outside">FSEQ</span><span class="topo-membrane">WIFRLYVSIGWGVPLLFVVPWGI</span><span class="topo-inside">VKYLYEDEACWARNSNMN</span><span class="topo-membrane">YWLIIRLPILFAIGV</span></span>
-<span class="topo-line"><span class="topo-membrane">NFLIFVRVIA</span><span class="topo-outside">IVVSKLKANLMCKTDIK</span><span class="topo-membrane">CRLAKSTLTLIALLATVEVIFAFVMD</span><span class="topo-inside">EHARGT</span><span class="topo-membrane">L</span></span>
-<span class="topo-line"><span class="topo-membrane">RFIKLFTELSFTSFQGLMVAILYCFAN</span><span class="topo-outside">NEVQLEFRKSW</span><span class="topo-unknown">ERWRLEHLHIQRDSSAAALEVL</span></span>
-<span class="topo-line"><span class="topo-unknown">FQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GPASRPQGA</span><span class="topo-inside">TVSLWETVQKWREYRRQCQRSLTEDPPPATDLFCNRTFDEYACWPDGEPGSFVNVSCPWYLPWASSVPQGHVYRFCTAEGLWLQKDNSSLPWRDLSECEESKRGERSSPEE</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">QL</span><span class="topo-membrane">LFLYIIYTVGYALSFSALVIASAILLG</span><span class="topo-outside">FRHLHCT</span><span class="topo-membrane">RNYIHLNLFASFILRALSVFIKDA</span><span class="topo-inside">ALKWMYSEAAQAHQWRGLLSYQDSLSCRL</span><span class="topo-membrane">VFLFMQYCVAANYYWLLVEGVYLYT</span><span class="topo-outside">LLAFSV</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">FSEQ</span><span class="topo-membrane">WIFRLYVSIGWGVPLLFVVPWGI</span><span class="topo-inside">VKYLYEDEACWARNSNMN</span><span class="topo-membrane">YWLIIRLPILFAIGVNFLIFVRVIA</span><span class="topo-outside">IVVSKLKANLMCKTDIK</span><span class="topo-membrane">CRLAKSTLTLIALLATVEVIFAFVMD</span><span class="topo-inside">EHARGT</span><span class="topo-membrane">L</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420  </span>
+<span class="topo-line"><span class="topo-membrane">RFIKLFTELSFTSFQGLMVAILYCFAN</span><span class="topo-outside">NEVQLEFRKSW</span><span class="topo-unknown">ERWRLEHLHIQRDSSAAALEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -263,6 +264,7 @@ The human glucagon-like Peptide 5 (Truncated GLP-1 Agonist Nonapeptide) (Truncat
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -396,14 +398,15 @@ The human glucagon-like Peptide 5 (Truncated GLP-1 Agonist Nonapeptide) (Truncat
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">SESKRGERS</span><span class="topo-outside">SPEEQLLFL</span><span class="topo-membrane">YIIYTVGYALSFSALVIASAILLGF</span><span class="topo-inside">RHLHCT</span><span class="topo-membrane">RNYIHLNLFAS</span></span>
-<span class="topo-line"><span class="topo-membrane">FILRALCVFFKDA</span><span class="topo-outside">ALKW</span><span class="topo-unknown">MGSGDGL</span><span class="topo-outside">LSYQDSLA</span><span class="topo-membrane">CRLVFLL?QYCVAANYYWLLVEGVYLY</span><span class="topo-inside">T</span></span>
-<span class="topo-line"><span class="topo-inside">LLAFNIFEMLRIDEGLRLKIYKDTEGYYTIGIGHLLTKSPSLNAAKSELDKAIGRNTNGV</span></span>
-<span class="topo-line"><span class="topo-inside">ITKDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVFQMGETGVAGFTNS</span></span>
-<span class="topo-line"><span class="topo-inside">LRMLQQKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWDAYSEQWI</span><span class="topo-membrane">FRLYVAIGWGV</span></span>
-<span class="topo-line"><span class="topo-membrane">PLLFVVPWGIVK</span><span class="topo-outside">YLYEDEGCWTRNSNMN</span><span class="topo-membrane">YWLIIRLPILFACIVNFLIFVRVIC</span><span class="topo-inside">IVVSKLK</span></span>
-<span class="topo-line"><span class="topo-inside">ANLMCKTDIAFR</span><span class="topo-membrane">LAKSTLTLIPLLCTHEVIFAFVM</span><span class="topo-outside">D</span><span class="topo-unknown">EHARGTL</span><span class="topo-outside">RFIK</span><span class="topo-membrane">LFTELSFTSFQGL</span></span>
-<span class="topo-line"><span class="topo-membrane">MVAILYCFVNN</span><span class="topo-inside">EVQLEFRKSWERWRL</span><span class="topo-unknown">EHLHIQRDS</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">SESKRGERS</span><span class="topo-outside">SPEEQLLFL</span><span class="topo-membrane">YIIYTVGYALSFSALVIASAILLGF</span><span class="topo-inside">RHLHCT</span><span class="topo-membrane">RNYIHLNLFASFILRALCVFFKDA</span><span class="topo-outside">ALKW</span><span class="topo-unknown">MGSGDGL</span><span class="topo-outside">LSYQDSLA</span><span class="topo-membrane">CRLVFLL?QYCVAANYYWLLVEGVYLY</span><span class="topo-inside">T</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">LLAFNIFEMLRIDEGLRLKIYKDTEGYYTIGIGHLLTKSPSLNAAKSELDKAIGRNTNGVITKDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVFQMGETGVAGFTNS</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">LRMLQQKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWDAYSEQWI</span><span class="topo-membrane">FRLYVAIGWGVPLLFVVPWGIVK</span><span class="topo-outside">YLYEDEGCWTRNSNMN</span><span class="topo-membrane">YWLIIRLPILFACIVNFLIFVRVIC</span><span class="topo-inside">IVVSKLK</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450     </span>
+<span class="topo-line"><span class="topo-inside">ANLMCKTDIAFR</span><span class="topo-membrane">LAKSTLTLIPLLCTHEVIFAFVM</span><span class="topo-outside">D</span><span class="topo-unknown">EHARGTL</span><span class="topo-outside">RFIK</span><span class="topo-membrane">LFTELSFTSFQGLMVAILYCFVNN</span><span class="topo-inside">EVQLEFRKSWERWRL</span><span class="topo-unknown">EHLHIQRDS</span></span>
+<details class="topo-details"><summary>Topology coordinates (23 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -576,6 +579,7 @@ The human glucagon-like Peptide 5 (Truncated GLP-1 Agonist Nonapeptide) (Truncat
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -591,14 +595,15 @@ The human glucagon-like Peptide 5 (Truncated GLP-1 Agonist Nonapeptide) (Truncat
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">SESKRGERS</span><span class="topo-inside">SPEEQLLFLY</span><span class="topo-membrane">IIYTVGYALSFSALVIASAILLGF</span><span class="topo-outside">RHLHCT</span><span class="topo-membrane">RNYIHLNLFAS</span></span>
-<span class="topo-line"><span class="topo-membrane">FILRALCVFFKDA</span><span class="topo-inside">ALKW</span><span class="topo-unknown">MGSGDGL</span><span class="topo-inside">LSYQDSLACR</span><span class="topo-membrane">LVFLL?QYCVAANYYWLLVEGVYLYT</span></span>
-<span class="topo-line"><span class="topo-outside">LLAFNIFEMLRIDEGLRLKIYKDTEGYYTIGIGHLLTKSPSLNAAKSELDKAIGRNTNGV</span></span>
-<span class="topo-line"><span class="topo-outside">ITKDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVFQMGETGVAGFTNS</span></span>
-<span class="topo-line"><span class="topo-outside">LRMLQQKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWDAYSEQW</span><span class="topo-membrane">IFRLYVAIGWGV</span></span>
-<span class="topo-line"><span class="topo-membrane">PLLFVVPWGIV</span><span class="topo-inside">KYLYEDEGCWTRNSNMN</span><span class="topo-membrane">YWLIIRLPILFACIVNFLIFVRVICIVV</span><span class="topo-outside">SKLK</span></span>
-<span class="topo-line"><span class="topo-outside">ANLMCKTDIA</span><span class="topo-membrane">FRLAKSTLTLIPLLCTHEVIFAFV</span><span class="topo-inside">MD</span><span class="topo-unknown">EHARGTL</span><span class="topo-inside">RFIKLFT</span><span class="topo-membrane">ELSFTSFQGL</span></span>
-<span class="topo-line"><span class="topo-membrane">MVAILYCFVNN</span><span class="topo-outside">EVQLEFRKSWERWRL</span><span class="topo-unknown">EHLHIQRDS</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">SESKRGERS</span><span class="topo-inside">SPEEQLLFLY</span><span class="topo-membrane">IIYTVGYALSFSALVIASAILLGF</span><span class="topo-outside">RHLHCT</span><span class="topo-membrane">RNYIHLNLFASFILRALCVFFKDA</span><span class="topo-inside">ALKW</span><span class="topo-unknown">MGSGDGL</span><span class="topo-inside">LSYQDSLACR</span><span class="topo-membrane">LVFLL?QYCVAANYYWLLVEGVYLYT</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">LLAFNIFEMLRIDEGLRLKIYKDTEGYYTIGIGHLLTKSPSLNAAKSELDKAIGRNTNGVITKDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVFQMGETGVAGFTNS</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">LRMLQQKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWDAYSEQW</span><span class="topo-membrane">IFRLYVAIGWGVPLLFVVPWGIV</span><span class="topo-inside">KYLYEDEGCWTRNSNMN</span><span class="topo-membrane">YWLIIRLPILFACIVNFLIFVRVICIVV</span><span class="topo-outside">SKLK</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450     </span>
+<span class="topo-line"><span class="topo-outside">ANLMCKTDIA</span><span class="topo-membrane">FRLAKSTLTLIPLLCTHEVIFAFV</span><span class="topo-inside">MD</span><span class="topo-unknown">EHARGTL</span><span class="topo-inside">RFIKLFT</span><span class="topo-membrane">ELSFTSFQGLMVAILYCFVNN</span><span class="topo-outside">EVQLEFRKSWERWRL</span><span class="topo-unknown">EHLHIQRDS</span></span>
+<details class="topo-details"><summary>Topology coordinates (23 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -771,6 +776,7 @@ The human glucagon-like Peptide 5 (Truncated GLP-1 Agonist Nonapeptide) (Truncat
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -838,14 +844,15 @@ The human glucagon-like Peptide 5 (Truncated GLP-1 Agonist Nonapeptide) (Truncat
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">SESKRGERS</span><span class="topo-outside">SPEEQ</span><span class="topo-membrane">LLFLYIIYTVGYALSFSALVIASAIL</span><span class="topo-inside">LGFRHLHCTR</span><span class="topo-membrane">NYIHLNLFAS</span></span>
-<span class="topo-line"><span class="topo-membrane">FILRALCVFFKDAALKW</span><span class="topo-unknown">MGSGDGL</span><span class="topo-outside">LSYQDSL</span><span class="topo-membrane">ACRLVFLLMQYCVAANYYWLLVEGVYLYT</span></span>
-<span class="topo-line"><span class="topo-inside">LLAFNIFEMLRIDEGLRLKIYKDTEGYYTIGIGHLLTKSPSLNAAKSELDKAIGRNTNGV</span></span>
-<span class="topo-line"><span class="topo-inside">ITKDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVFQMGETGVAGFTNS</span></span>
-<span class="topo-line"><span class="topo-inside">LRMLQQKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWDAYSEQW</span><span class="topo-membrane">IFRLYVAIGWGV</span></span>
-<span class="topo-line"><span class="topo-membrane">PLLFVVPWGIVK</span><span class="topo-outside">YLYEDEGCWTRNSNMNY</span><span class="topo-membrane">WLIIRLPILFACIVNFLIFVRVICIVV</span><span class="topo-inside">SKLK</span></span>
-<span class="topo-line"><span class="topo-inside">ANLMCKTDIAFRL</span><span class="topo-membrane">AKSTLTLIPLLCTHEVIFAFV</span><span class="topo-outside">MD</span><span class="topo-unknown">EHARGTL</span><span class="topo-outside">RFI</span><span class="topo-membrane">KLFTELSFTSFQGL</span></span>
-<span class="topo-line"><span class="topo-membrane">MVAILYCFV</span><span class="topo-inside">NNEVQLEFRKSWERWRL</span><span class="topo-unknown">EHLHIQRDS</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">SESKRGERS</span><span class="topo-outside">SPEEQ</span><span class="topo-membrane">LLFLYIIYTVGYALSFSALVIASAIL</span><span class="topo-inside">LGFRHLHCTR</span><span class="topo-membrane">NYIHLNLFASFILRALCVFFKDAALKW</span><span class="topo-unknown">MGSGDGL</span><span class="topo-outside">LSYQDSL</span><span class="topo-membrane">ACRLVFLLMQYCVAANYYWLLVEGVYLYT</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">LLAFNIFEMLRIDEGLRLKIYKDTEGYYTIGIGHLLTKSPSLNAAKSELDKAIGRNTNGVITKDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVFQMGETGVAGFTNS</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">LRMLQQKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWDAYSEQW</span><span class="topo-membrane">IFRLYVAIGWGVPLLFVVPWGIVK</span><span class="topo-outside">YLYEDEGCWTRNSNMNY</span><span class="topo-membrane">WLIIRLPILFACIVNFLIFVRVICIVV</span><span class="topo-inside">SKLK</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450     </span>
+<span class="topo-line"><span class="topo-inside">ANLMCKTDIAFRL</span><span class="topo-membrane">AKSTLTLIPLLCTHEVIFAFV</span><span class="topo-outside">MD</span><span class="topo-unknown">EHARGTL</span><span class="topo-outside">RFI</span><span class="topo-membrane">KLFTELSFTSFQGLMVAILYCFV</span><span class="topo-inside">NNEVQLEFRKSWERWRL</span><span class="topo-unknown">EHLHIQRDS</span></span>
+<details class="topo-details"><summary>Topology coordinates (22 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1011,6 +1018,7 @@ The human glucagon-like Peptide 5 (Truncated GLP-1 Agonist Nonapeptide) (Truncat
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1026,14 +1034,15 @@ The human glucagon-like Peptide 5 (Truncated GLP-1 Agonist Nonapeptide) (Truncat
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">SESKRGERS</span><span class="topo-outside">SPEEQ</span><span class="topo-membrane">LLFLYIIYTVGYALSFSALVIASAILL</span><span class="topo-inside">GFRHLHCTR</span><span class="topo-membrane">NYIHLNLFAS</span></span>
-<span class="topo-line"><span class="topo-membrane">FILRALSVFFKDAALKW</span><span class="topo-unknown">MGSGDGL</span><span class="topo-outside">LSYQDSL</span><span class="topo-membrane">ACRLVFLLMQYCVAANYYWLLVEGVYLYT</span></span>
-<span class="topo-line"><span class="topo-inside">LLAFNIFEMLRIDEGLRLKIYKDTEGYYTIGIGHLLTKSPSLNAAKSELDKAIGRNTNGV</span></span>
-<span class="topo-line"><span class="topo-inside">ITKDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVFQMGETGVAGFTNS</span></span>
-<span class="topo-line"><span class="topo-inside">LRMLQQKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWDAYSEQW</span><span class="topo-membrane">IFRLYVAIGWGV</span></span>
-<span class="topo-line"><span class="topo-membrane">PLLFVVPWGIV</span><span class="topo-outside">KYLYEDEGCWTRNSNMNY</span><span class="topo-membrane">WLIIRLPILFACIVNFLIFVRVICIVV</span><span class="topo-inside">SKLK</span></span>
-<span class="topo-line"><span class="topo-inside">ANLMCKTDIAFR</span><span class="topo-membrane">LAKSTLTLIPLLCTHEVIFAFV</span><span class="topo-outside">MD</span><span class="topo-unknown">EHARGTL</span><span class="topo-outside">RFI</span><span class="topo-membrane">KLFTELSFTSFQGL</span></span>
-<span class="topo-line"><span class="topo-membrane">MVAILYCFVN</span><span class="topo-inside">NEVQLEFRKSWERWRL</span><span class="topo-unknown">EHLHIQRDS</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">SESKRGERS</span><span class="topo-outside">SPEEQ</span><span class="topo-membrane">LLFLYIIYTVGYALSFSALVIASAILL</span><span class="topo-inside">GFRHLHCTR</span><span class="topo-membrane">NYIHLNLFASFILRALSVFFKDAALKW</span><span class="topo-unknown">MGSGDGL</span><span class="topo-outside">LSYQDSL</span><span class="topo-membrane">ACRLVFLLMQYCVAANYYWLLVEGVYLYT</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">LLAFNIFEMLRIDEGLRLKIYKDTEGYYTIGIGHLLTKSPSLNAAKSELDKAIGRNTNGVITKDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVFQMGETGVAGFTNS</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">LRMLQQKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWDAYSEQW</span><span class="topo-membrane">IFRLYVAIGWGVPLLFVVPWGIV</span><span class="topo-outside">KYLYEDEGCWTRNSNMNY</span><span class="topo-membrane">WLIIRLPILFACIVNFLIFVRVICIVV</span><span class="topo-inside">SKLK</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450     </span>
+<span class="topo-line"><span class="topo-inside">ANLMCKTDIAFR</span><span class="topo-membrane">LAKSTLTLIPLLCTHEVIFAFV</span><span class="topo-outside">MD</span><span class="topo-unknown">EHARGTL</span><span class="topo-outside">RFI</span><span class="topo-membrane">KLFTELSFTSFQGLMVAILYCFVN</span><span class="topo-inside">NEVQLEFRKSWERWRL</span><span class="topo-unknown">EHLHIQRDS</span></span>
+<details class="topo-details"><summary>Topology coordinates (22 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1199,6 +1208,7 @@ The human glucagon-like Peptide 5 (Truncated GLP-1 Agonist Nonapeptide) (Truncat
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1214,14 +1224,15 @@ The human glucagon-like Peptide 5 (Truncated GLP-1 Agonist Nonapeptide) (Truncat
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">SESKRGERS</span><span class="topo-inside">SPEEQLLFL</span><span class="topo-membrane">YIIYTVGYALSFSALVIASAILLGF</span><span class="topo-outside">RHL</span><span class="topo-membrane">HCTRNYIHLNLFAS</span></span>
-<span class="topo-line"><span class="topo-membrane">FILRALSVFIKDA</span><span class="topo-inside">ALKW</span><span class="topo-unknown">MGSGDGL</span><span class="topo-inside">LSYQDSLACR</span><span class="topo-membrane">LVFLLMQYCVAANYYWLLVEGVYLYT</span></span>
-<span class="topo-line"><span class="topo-outside">LLAFNIFEMLRIDEGLRLKIYKDTEGYYTIGIGHLLTKSPSLNAAKSELDKAIGRNTNGV</span></span>
-<span class="topo-line"><span class="topo-outside">ITKDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVFQMGETGVAGFTNS</span></span>
-<span class="topo-line"><span class="topo-outside">LRMLQQKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWDAYSEQW</span><span class="topo-membrane">IFRLYVSIGWGV</span></span>
-<span class="topo-line"><span class="topo-membrane">PLLFVVPWGIVK</span><span class="topo-inside">YLYEDEGCWTRNSNMN</span><span class="topo-membrane">YWLIIRLPILFACIVNFLIFVRVICIVV</span><span class="topo-outside">SKLK</span></span>
-<span class="topo-line"><span class="topo-outside">ANLMCKTDIAF</span><span class="topo-membrane">RLAKSTLTLIPLLCTHEVIFAFVM</span><span class="topo-inside">D</span><span class="topo-unknown">EHARGTL</span><span class="topo-inside">RFIK</span><span class="topo-membrane">LFTELSFTSFQGL</span></span>
-<span class="topo-line"><span class="topo-membrane">MVAILYCFVNNEVQ</span><span class="topo-outside">LEFRKSWERWRL</span><span class="topo-unknown">EHLHIQRDS</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">SESKRGERS</span><span class="topo-inside">SPEEQLLFL</span><span class="topo-membrane">YIIYTVGYALSFSALVIASAILLGF</span><span class="topo-outside">RHL</span><span class="topo-membrane">HCTRNYIHLNLFASFILRALSVFIKDA</span><span class="topo-inside">ALKW</span><span class="topo-unknown">MGSGDGL</span><span class="topo-inside">LSYQDSLACR</span><span class="topo-membrane">LVFLLMQYCVAANYYWLLVEGVYLYT</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">LLAFNIFEMLRIDEGLRLKIYKDTEGYYTIGIGHLLTKSPSLNAAKSELDKAIGRNTNGVITKDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVFQMGETGVAGFTNS</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">LRMLQQKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWDAYSEQW</span><span class="topo-membrane">IFRLYVSIGWGVPLLFVVPWGIVK</span><span class="topo-inside">YLYEDEGCWTRNSNMN</span><span class="topo-membrane">YWLIIRLPILFACIVNFLIFVRVICIVV</span><span class="topo-outside">SKLK</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450     </span>
+<span class="topo-line"><span class="topo-outside">ANLMCKTDIAF</span><span class="topo-membrane">RLAKSTLTLIPLLCTHEVIFAFVM</span><span class="topo-inside">D</span><span class="topo-unknown">EHARGTL</span><span class="topo-inside">RFIK</span><span class="topo-membrane">LFTELSFTSFQGLMVAILYCFVNNEVQ</span><span class="topo-outside">LEFRKSWERWRL</span><span class="topo-unknown">EHLHIQRDS</span></span>
+<details class="topo-details"><summary>Topology coordinates (23 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1394,6 +1405,7 @@ The human glucagon-like Peptide 5 (Truncated GLP-1 Agonist Nonapeptide) (Truncat
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1445,14 +1457,15 @@ The human glucagon-like Peptide 5 (Truncated GLP-1 Agonist Nonapeptide) (Truncat
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">RPQGA</span><span class="topo-inside">TVSLWETVQKWREYRRQCQRSLTEDPPPATDLFCNRTFDEYACWPDGEPGSFVNV</span></span>
-<span class="topo-line"><span class="topo-inside">SCPWYLPWASSVPQGHVYRFCTAEGLWLQKDNSSLPWRDLSECEE</span><span class="topo-unknown">SKRGER</span><span class="topo-inside">SSPEEQLLF</span></span>
-<span class="topo-line"><span class="topo-inside">L</span><span class="topo-membrane">YIIYTVGYALSFSALVIASAILLGF</span><span class="topo-outside">RHLHCTR</span><span class="topo-membrane">NYIHLNLFASFILRALCVFFKDA</span><span class="topo-inside">ALKW</span></span>
-<span class="topo-line"><span class="topo-inside">MYSTAAQQHQWDGLLSYQDSLA</span><span class="topo-membrane">CRLVFLLCQYCVAANYYWLLVEGVYLY</span><span class="topo-outside">TLLAF</span><span class="topo-unknown">SVL</span><span class="topo-outside">MKK</span></span>
-<span class="topo-line"><span class="topo-outside">YTCTVCGYIYNPEDGDPDNGVNPGTDFKDIPDDWVCPLCGVGKDQFEEVEEEQWI</span><span class="topo-membrane">FRLYV</span></span>
-<span class="topo-line"><span class="topo-membrane">AIGWGVPLLFVVPWGIVKYL</span><span class="topo-inside">YEDEGCWTRNSNMN</span><span class="topo-membrane">YWLIIRLPILFACIVNFLIFVRVIC</span><span class="topo-outside">I</span></span>
-<span class="topo-line"><span class="topo-outside">VVSKLKANLMCKTDIAF</span><span class="topo-membrane">RLAKSTLTLIPLLCTHEVIFAFVMDE</span><span class="topo-inside">HAR</span><span class="topo-unknown">GTLRFIK</span><span class="topo-membrane">LFTDLSF</span></span>
-<span class="topo-line"><span class="topo-membrane">TSFQGLMVAILYCFVNN</span><span class="topo-unknown">EVQLEFRKSWERW</span><span class="topo-outside">R</span><span class="topo-unknown">LEHLHIQRDSSMKPLKCP</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">RPQGA</span><span class="topo-inside">TVSLWETVQKWREYRRQCQRSLTEDPPPATDLFCNRTFDEYACWPDGEPGSFVNVSCPWYLPWASSVPQGHVYRFCTAEGLWLQKDNSSLPWRDLSECEE</span><span class="topo-unknown">SKRGER</span><span class="topo-inside">SSPEEQLLF</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">L</span><span class="topo-membrane">YIIYTVGYALSFSALVIASAILLGF</span><span class="topo-outside">RHLHCTR</span><span class="topo-membrane">NYIHLNLFASFILRALCVFFKDA</span><span class="topo-inside">ALKWMYSTAAQQHQWDGLLSYQDSLA</span><span class="topo-membrane">CRLVFLLCQYCVAANYYWLLVEGVYLY</span><span class="topo-outside">TLLAF</span><span class="topo-unknown">SVL</span><span class="topo-outside">MKK</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">YTCTVCGYIYNPEDGDPDNGVNPGTDFKDIPDDWVCPLCGVGKDQFEEVEEEQWI</span><span class="topo-membrane">FRLYVAIGWGVPLLFVVPWGIVKYL</span><span class="topo-inside">YEDEGCWTRNSNMN</span><span class="topo-membrane">YWLIIRLPILFACIVNFLIFVRVIC</span><span class="topo-outside">I</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460         </span>
+<span class="topo-line"><span class="topo-outside">VVSKLKANLMCKTDIAF</span><span class="topo-membrane">RLAKSTLTLIPLLCTHEVIFAFVMDE</span><span class="topo-inside">HAR</span><span class="topo-unknown">GTLRFIK</span><span class="topo-membrane">LFTDLSFTSFQGLMVAILYCFVNN</span><span class="topo-unknown">EVQLEFRKSWERW</span><span class="topo-outside">R</span><span class="topo-unknown">LEHLHIQRDSSMKPLKCP</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1597,6 +1610,7 @@ The human glucagon-like Peptide 5 (Truncated GLP-1 Agonist Nonapeptide) (Truncat
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

@@ -111,11 +111,13 @@ PfAQP is the sole [Aquaporin Family](/xray-mp-wiki/concepts/transport-mechanisms
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MHMLFYK</span><span class="topo-outside">SYVREF</span><span class="topo-membrane">IGEFLGTFVLMFLGEGAT</span><span class="topo-inside">ANFHTTGLSGDWY</span><span class="topo-membrane">KLCLGWGLAVFFGILV</span></span>
-<span class="topo-line"><span class="topo-membrane">SA</span><span class="topo-outside">KLSGA</span><span class="topo-unknown">HLNLAVSIGLSS</span><span class="topo-outside">INKFDLKK</span><span class="topo-membrane">IPVYFFAQLLGAFVGTSTV</span><span class="topo-inside">YGLYHGFISNSKIP</span></span>
-<span class="topo-line"><span class="topo-inside">QFAWETSRNPSISLTGA</span><span class="topo-membrane">FFNELILTGILLLVILVV</span><span class="topo-outside">VDENICGKFHIL</span><span class="topo-membrane">KLSSVVGLIILCI</span></span>
-<span class="topo-line"><span class="topo-membrane">GITFG</span><span class="topo-inside">GNTG</span><span class="topo-unknown">FALNPSRDLGSRFL</span><span class="topo-inside">SLIAYGKDTFTKDNFYF</span><span class="topo-membrane">WVPLVAPCVGSVVFCQFY</span><span class="topo-outside">DK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MHMLFYK</span><span class="topo-outside">SYVREF</span><span class="topo-membrane">IGEFLGTFVLMFLGEGAT</span><span class="topo-inside">ANFHTTGLSGDWY</span><span class="topo-membrane">KLCLGWGLAVFFGILVSA</span><span class="topo-outside">KLSGA</span><span class="topo-unknown">HLNLAVSIGLSS</span><span class="topo-outside">INKFDLKK</span><span class="topo-membrane">IPVYFFAQLLGAFVGTSTV</span><span class="topo-inside">YGLYHGFISNSKIP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">QFAWETSRNPSISLTGA</span><span class="topo-membrane">FFNELILTGILLLVILVV</span><span class="topo-outside">VDENICGKFHIL</span><span class="topo-membrane">KLSSVVGLIILCIGITFG</span><span class="topo-inside">GNTG</span><span class="topo-unknown">FALNPSRDLGSRFL</span><span class="topo-inside">SLIAYGKDTFTKDNFYF</span><span class="topo-membrane">WVPLVAPCVGSVVFCQFY</span><span class="topo-outside">DK</span></span>
+<span class="topo-ruler">       250        </span>
 <span class="topo-line"><span class="topo-outside">VICPLVDLA</span><span class="topo-unknown">NNEKDGVDL</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -260,6 +262,7 @@ PfAQP is the sole [Aquaporin Family](/xray-mp-wiki/concepts/transport-mechanisms
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -275,11 +278,13 @@ PfAQP is the sole [Aquaporin Family](/xray-mp-wiki/concepts/transport-mechanisms
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MHMLFYK</span><span class="topo-outside">SYVREF</span><span class="topo-membrane">IGEFLGTFVLMFLGEGAT</span><span class="topo-inside">ANFHTTGLSGDWY</span><span class="topo-membrane">KLCLGWGLAVFFGILV</span></span>
-<span class="topo-line"><span class="topo-membrane">SA</span><span class="topo-outside">KLSGA</span><span class="topo-unknown">HLNLAVSIGLSS</span><span class="topo-outside">INKFDLKK</span><span class="topo-membrane">IPVYFFAQLLGAFVGTSTV</span><span class="topo-inside">YGLYHGFISNSKIP</span></span>
-<span class="topo-line"><span class="topo-inside">QFAWETSRNPSISLTGA</span><span class="topo-membrane">FFNELILTGILLLVILVV</span><span class="topo-outside">VDENICGKFHIL</span><span class="topo-membrane">KLSSVVGLIILCI</span></span>
-<span class="topo-line"><span class="topo-membrane">GITFG</span><span class="topo-inside">GNTG</span><span class="topo-unknown">FALNPSRDLGSRFL</span><span class="topo-inside">SLIAYGKDTFTKDNFYF</span><span class="topo-membrane">WVPLVAPCVGSVVFCQFY</span><span class="topo-outside">DK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MHMLFYK</span><span class="topo-outside">SYVREF</span><span class="topo-membrane">IGEFLGTFVLMFLGEGAT</span><span class="topo-inside">ANFHTTGLSGDWY</span><span class="topo-membrane">KLCLGWGLAVFFGILVSA</span><span class="topo-outside">KLSGA</span><span class="topo-unknown">HLNLAVSIGLSS</span><span class="topo-outside">INKFDLKK</span><span class="topo-membrane">IPVYFFAQLLGAFVGTSTV</span><span class="topo-inside">YGLYHGFISNSKIP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">QFAWETSRNPSISLTGA</span><span class="topo-membrane">FFNELILTGILLLVILVV</span><span class="topo-outside">VDENICGKFHIL</span><span class="topo-membrane">KLSSVVGLIILCIGITFG</span><span class="topo-inside">GNTG</span><span class="topo-unknown">FALNPSRDLGSRFL</span><span class="topo-inside">SLIAYGKDTFTKDNFYF</span><span class="topo-membrane">WVPLVAPCVGSVVFCQFY</span><span class="topo-outside">DK</span></span>
+<span class="topo-ruler">       250        </span>
 <span class="topo-line"><span class="topo-outside">VICPLVDLA</span><span class="topo-unknown">NNEKDGVDL</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -424,6 +429,7 @@ PfAQP is the sole [Aquaporin Family](/xray-mp-wiki/concepts/transport-mechanisms
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -439,11 +445,13 @@ PfAQP is the sole [Aquaporin Family](/xray-mp-wiki/concepts/transport-mechanisms
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MHMLFYK</span><span class="topo-outside">SYVREF</span><span class="topo-membrane">IGEFLGTFVLMFLGEGAT</span><span class="topo-inside">ANFHTTGLSGDWY</span><span class="topo-membrane">KLCLGWGLAVFFGILV</span></span>
-<span class="topo-line"><span class="topo-membrane">SA</span><span class="topo-outside">KLSGA</span><span class="topo-unknown">HLNLAVSIGLSS</span><span class="topo-outside">INKFDLKK</span><span class="topo-membrane">IPVYFFAQLLGAFVGTSTV</span><span class="topo-inside">YGLYHGFISNSKIP</span></span>
-<span class="topo-line"><span class="topo-inside">QFAWETSRNPSISLTGA</span><span class="topo-membrane">FFNELILTGILLLVILVV</span><span class="topo-outside">VDENICGKFHIL</span><span class="topo-membrane">KLSSVVGLIILCI</span></span>
-<span class="topo-line"><span class="topo-membrane">GITFG</span><span class="topo-inside">GNTG</span><span class="topo-unknown">FALNPSRDLGSRFL</span><span class="topo-inside">SLIAYGKDTFTKDNFYF</span><span class="topo-membrane">WVPLVAPCVGSVVFCQFY</span><span class="topo-outside">DK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MHMLFYK</span><span class="topo-outside">SYVREF</span><span class="topo-membrane">IGEFLGTFVLMFLGEGAT</span><span class="topo-inside">ANFHTTGLSGDWY</span><span class="topo-membrane">KLCLGWGLAVFFGILVSA</span><span class="topo-outside">KLSGA</span><span class="topo-unknown">HLNLAVSIGLSS</span><span class="topo-outside">INKFDLKK</span><span class="topo-membrane">IPVYFFAQLLGAFVGTSTV</span><span class="topo-inside">YGLYHGFISNSKIP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">QFAWETSRNPSISLTGA</span><span class="topo-membrane">FFNELILTGILLLVILVV</span><span class="topo-outside">VDENICGKFHIL</span><span class="topo-membrane">KLSSVVGLIILCIGITFG</span><span class="topo-inside">GNTG</span><span class="topo-unknown">FALNPSRDLGSRFL</span><span class="topo-inside">SLIAYGKDTFTKDNFYF</span><span class="topo-membrane">WVPLVAPCVGSVVFCQFY</span><span class="topo-outside">DK</span></span>
+<span class="topo-ruler">       250        </span>
 <span class="topo-line"><span class="topo-outside">VICPLVDLA</span><span class="topo-unknown">NNEKDGVDL</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -588,6 +596,7 @@ PfAQP is the sole [Aquaporin Family](/xray-mp-wiki/concepts/transport-mechanisms
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -603,11 +612,13 @@ PfAQP is the sole [Aquaporin Family](/xray-mp-wiki/concepts/transport-mechanisms
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MHMLFYK</span><span class="topo-outside">SYVREF</span><span class="topo-membrane">IGEFLGTFVLMFLGEGAT</span><span class="topo-inside">ANFHTTGLSGDWY</span><span class="topo-membrane">KLCLGWGLAVFFGILV</span></span>
-<span class="topo-line"><span class="topo-membrane">SA</span><span class="topo-outside">KLSGA</span><span class="topo-unknown">HLNLAVSIGLSS</span><span class="topo-outside">INKFDLKK</span><span class="topo-membrane">IPVYFFAQLLGAFVGTSTV</span><span class="topo-inside">YGLYHGFISNSKIP</span></span>
-<span class="topo-line"><span class="topo-inside">QFAWETSRNPSISLTGA</span><span class="topo-membrane">FFNELILTGILLLVILVV</span><span class="topo-outside">VDENICGKFHIL</span><span class="topo-membrane">KLSSVVGLIILCI</span></span>
-<span class="topo-line"><span class="topo-membrane">GITFG</span><span class="topo-inside">GNTG</span><span class="topo-unknown">FALNPSRDLGSRFL</span><span class="topo-inside">SLIAYGKDTFTKDNFYF</span><span class="topo-membrane">WVPLVAPCVGSVVFCQFY</span><span class="topo-outside">DK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MHMLFYK</span><span class="topo-outside">SYVREF</span><span class="topo-membrane">IGEFLGTFVLMFLGEGAT</span><span class="topo-inside">ANFHTTGLSGDWY</span><span class="topo-membrane">KLCLGWGLAVFFGILVSA</span><span class="topo-outside">KLSGA</span><span class="topo-unknown">HLNLAVSIGLSS</span><span class="topo-outside">INKFDLKK</span><span class="topo-membrane">IPVYFFAQLLGAFVGTSTV</span><span class="topo-inside">YGLYHGFISNSKIP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">QFAWETSRNPSISLTGA</span><span class="topo-membrane">FFNELILTGILLLVILVV</span><span class="topo-outside">VDENICGKFHIL</span><span class="topo-membrane">KLSSVVGLIILCIGITFG</span><span class="topo-inside">GNTG</span><span class="topo-unknown">FALNPSRDLGSRFL</span><span class="topo-inside">SLIAYGKDTFTKDNFYF</span><span class="topo-membrane">WVPLVAPCVGSVVFCQFY</span><span class="topo-outside">DK</span></span>
+<span class="topo-ruler">       250        </span>
 <span class="topo-line"><span class="topo-outside">VICPLVDLA</span><span class="topo-unknown">NNEKDGVDL</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -752,6 +763,7 @@ PfAQP is the sole [Aquaporin Family](/xray-mp-wiki/concepts/transport-mechanisms
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

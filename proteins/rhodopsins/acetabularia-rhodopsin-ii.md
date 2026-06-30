@@ -125,10 +125,11 @@ Acetabularia rhodopsin II (ARII) is a light-driven proton pump from the marine a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MADVETETGMIA</span><span class="topo-membrane">QWIVFAIMAAAAIAFGVAVHFR</span><span class="topo-outside">P</span><span class="topo-unknown">SE</span><span class="topo-outside">LK</span><span class="topo-membrane">SAYYINIAICTIAATAYYAMA</span></span>
-<span class="topo-line"><span class="topo-inside">VNYQDLTMNGERQVVY</span><span class="topo-membrane">ARYIDWVLTTPLLLLDLIVM</span><span class="topo-outside">TKM</span><span class="topo-membrane">GGVMISWVIGADIFMIVFGIL</span></span>
-<span class="topo-line"><span class="topo-membrane">GA</span><span class="topo-inside">FEDEHKFKW</span><span class="topo-membrane">VYFIAGCVMQAVLTYGMYNATW</span><span class="topo-outside">KDD</span><span class="topo-unknown">LK</span><span class="topo-outside">KSPEYHS</span><span class="topo-membrane">SYVSLLVFLSILWVF</span></span>
-<span class="topo-line"><span class="topo-membrane">YPVVWA</span><span class="topo-inside">FGSGSGVLSVDNE</span><span class="topo-membrane">AILMGILDVLAKPLFGMGCLIAHE</span><span class="topo-outside">TIFKK</span><span class="topo-unknown">M</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">MADVETETGMIA</span><span class="topo-membrane">QWIVFAIMAAAAIAFGVAVHFR</span><span class="topo-outside">P</span><span class="topo-unknown">SE</span><span class="topo-outside">LK</span><span class="topo-membrane">SAYYINIAICTIAATAYYAMA</span><span class="topo-inside">VNYQDLTMNGERQVVY</span><span class="topo-membrane">ARYIDWVLTTPLLLLDLIVM</span><span class="topo-outside">TKM</span><span class="topo-membrane">GGVMISWVIGADIFMIVFGIL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220         </span>
+<span class="topo-line"><span class="topo-membrane">GA</span><span class="topo-inside">FEDEHKFKW</span><span class="topo-membrane">VYFIAGCVMQAVLTYGMYNATW</span><span class="topo-outside">KDD</span><span class="topo-unknown">LK</span><span class="topo-outside">KSPEYHS</span><span class="topo-membrane">SYVSLLVFLSILWVFYPVVWA</span><span class="topo-inside">FGSGSGVLSVDNE</span><span class="topo-membrane">AILMGILDVLAKPLFGMGCLIAHE</span><span class="topo-outside">TIFKK</span><span class="topo-unknown">M</span></span>
+<details class="topo-details"><summary>Topology coordinates (20 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -280,6 +281,7 @@ Acetabularia rhodopsin II (ARII) is a light-driven proton pump from the marine a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -295,10 +297,11 @@ Acetabularia rhodopsin II (ARII) is a light-driven proton pump from the marine a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MADVETETGMI</span><span class="topo-membrane">AQWIVFAIMAAAAIAFGVAVHFR</span><span class="topo-outside">P</span><span class="topo-unknown">SE</span><span class="topo-outside">LK</span><span class="topo-membrane">SAYYINIAICTIAATAYYAMA</span></span>
-<span class="topo-line"><span class="topo-inside">VNYQDLTMNGERQVV</span><span class="topo-membrane">YARYIDWVLTTPLLLLDLIV</span><span class="topo-outside">MTKMGG</span><span class="topo-membrane">VMISWVIGADIFMIVFGIL</span></span>
-<span class="topo-line"><span class="topo-membrane">GAFE</span><span class="topo-inside">DEHK</span><span class="topo-membrane">FKWVYFIAGCVMQAVLTYGMY</span><span class="topo-outside">NATWKDD</span><span class="topo-unknown">LK</span><span class="topo-outside">KSPEYHSSY</span><span class="topo-membrane">VSLLVFLSILWVF</span></span>
-<span class="topo-line"><span class="topo-membrane">YPVVWAFGSGS</span><span class="topo-inside">GVLSVDN</span><span class="topo-membrane">EAILMGILDVLAKPLFGMGCLIA</span><span class="topo-outside">HETIFKK</span><span class="topo-unknown">M</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">MADVETETGMI</span><span class="topo-membrane">AQWIVFAIMAAAAIAFGVAVHFR</span><span class="topo-outside">P</span><span class="topo-unknown">SE</span><span class="topo-outside">LK</span><span class="topo-membrane">SAYYINIAICTIAATAYYAMA</span><span class="topo-inside">VNYQDLTMNGERQVV</span><span class="topo-membrane">YARYIDWVLTTPLLLLDLIV</span><span class="topo-outside">MTKMGG</span><span class="topo-membrane">VMISWVIGADIFMIVFGIL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220         </span>
+<span class="topo-line"><span class="topo-membrane">GAFE</span><span class="topo-inside">DEHK</span><span class="topo-membrane">FKWVYFIAGCVMQAVLTYGMY</span><span class="topo-outside">NATWKDD</span><span class="topo-unknown">LK</span><span class="topo-outside">KSPEYHSSY</span><span class="topo-membrane">VSLLVFLSILWVFYPVVWAFGSGS</span><span class="topo-inside">GVLSVDN</span><span class="topo-membrane">EAILMGILDVLAKPLFGMGCLIA</span><span class="topo-outside">HETIFKK</span><span class="topo-unknown">M</span></span>
+<details class="topo-details"><summary>Topology coordinates (20 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -450,6 +453,7 @@ Acetabularia rhodopsin II (ARII) is a light-driven proton pump from the marine a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -465,10 +469,11 @@ Acetabularia rhodopsin II (ARII) is a light-driven proton pump from the marine a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MADVETETGMI</span><span class="topo-membrane">AQWIVFAIMAAAAIAFGVAVHFR</span><span class="topo-outside">P</span><span class="topo-unknown">SE</span><span class="topo-outside">LK</span><span class="topo-membrane">SAYYINIAICTIAATAYYAMA</span></span>
-<span class="topo-line"><span class="topo-inside">VNYQDLTMNGERQVV</span><span class="topo-membrane">YARYIDWVLTTPLLLLDLIV</span><span class="topo-outside">MTKMGG</span><span class="topo-membrane">VMISWVIGADIFMIVFGIL</span></span>
-<span class="topo-line"><span class="topo-membrane">GAFE</span><span class="topo-inside">DEHK</span><span class="topo-membrane">FKWVYFIAGCVMQAVLTYGMY</span><span class="topo-outside">NATWKDD</span><span class="topo-unknown">LK</span><span class="topo-outside">KSPEYHSSY</span><span class="topo-membrane">VSLLVFLSILWVF</span></span>
-<span class="topo-line"><span class="topo-membrane">YPVVWAFGSGS</span><span class="topo-inside">GVLSVDN</span><span class="topo-membrane">EAILMGILDVLAKPLFGMGCLIA</span><span class="topo-outside">HETIFKK</span><span class="topo-unknown">M</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">MADVETETGMI</span><span class="topo-membrane">AQWIVFAIMAAAAIAFGVAVHFR</span><span class="topo-outside">P</span><span class="topo-unknown">SE</span><span class="topo-outside">LK</span><span class="topo-membrane">SAYYINIAICTIAATAYYAMA</span><span class="topo-inside">VNYQDLTMNGERQVV</span><span class="topo-membrane">YARYIDWVLTTPLLLLDLIV</span><span class="topo-outside">MTKMGG</span><span class="topo-membrane">VMISWVIGADIFMIVFGIL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220         </span>
+<span class="topo-line"><span class="topo-membrane">GAFE</span><span class="topo-inside">DEHK</span><span class="topo-membrane">FKWVYFIAGCVMQAVLTYGMY</span><span class="topo-outside">NATWKDD</span><span class="topo-unknown">LK</span><span class="topo-outside">KSPEYHSSY</span><span class="topo-membrane">VSLLVFLSILWVFYPVVWAFGSGS</span><span class="topo-inside">GVLSVDN</span><span class="topo-membrane">EAILMGILDVLAKPLFGMGCLIA</span><span class="topo-outside">HETIFKK</span><span class="topo-unknown">M</span></span>
+<details class="topo-details"><summary>Topology coordinates (20 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -620,6 +625,7 @@ Acetabularia rhodopsin II (ARII) is a light-driven proton pump from the marine a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -635,10 +641,11 @@ Acetabularia rhodopsin II (ARII) is a light-driven proton pump from the marine a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MADVETETGMIA</span><span class="topo-membrane">QWIVFAIMAAAAIAFGVAVHF</span><span class="topo-outside">RP</span><span class="topo-unknown">SE</span><span class="topo-outside">LK</span><span class="topo-membrane">SAYYINIAICTIAATAYYAMA</span></span>
-<span class="topo-line"><span class="topo-inside">VNYQDLTMNGERQVVY</span><span class="topo-membrane">ARYIDWVLTTPLLLLDLIVM</span><span class="topo-outside">TKMGG</span><span class="topo-membrane">VMISWVIGADIFMIVFGIL</span></span>
-<span class="topo-line"><span class="topo-membrane">GA</span><span class="topo-inside">FEDEHKFKW</span><span class="topo-membrane">VYFIAGCVMQAVLTYGMYNATW</span><span class="topo-outside">KDD</span><span class="topo-unknown">LK</span><span class="topo-outside">KSPEYHS</span><span class="topo-membrane">SYVSLLVFLSILWVF</span></span>
-<span class="topo-line"><span class="topo-membrane">YPVVWA</span><span class="topo-inside">FGSGSGVLSVDNE</span><span class="topo-membrane">AILMGILDVLAKPLFGMGCLIAH</span><span class="topo-outside">ETIFKK</span><span class="topo-unknown">M</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">MADVETETGMIA</span><span class="topo-membrane">QWIVFAIMAAAAIAFGVAVHF</span><span class="topo-outside">RP</span><span class="topo-unknown">SE</span><span class="topo-outside">LK</span><span class="topo-membrane">SAYYINIAICTIAATAYYAMA</span><span class="topo-inside">VNYQDLTMNGERQVVY</span><span class="topo-membrane">ARYIDWVLTTPLLLLDLIVM</span><span class="topo-outside">TKMGG</span><span class="topo-membrane">VMISWVIGADIFMIVFGIL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220         </span>
+<span class="topo-line"><span class="topo-membrane">GA</span><span class="topo-inside">FEDEHKFKW</span><span class="topo-membrane">VYFIAGCVMQAVLTYGMYNATW</span><span class="topo-outside">KDD</span><span class="topo-unknown">LK</span><span class="topo-outside">KSPEYHS</span><span class="topo-membrane">SYVSLLVFLSILWVFYPVVWA</span><span class="topo-inside">FGSGSGVLSVDNE</span><span class="topo-membrane">AILMGILDVLAKPLFGMGCLIAH</span><span class="topo-outside">ETIFKK</span><span class="topo-unknown">M</span></span>
+<details class="topo-details"><summary>Topology coordinates (20 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -790,6 +797,7 @@ Acetabularia rhodopsin II (ARII) is a light-driven proton pump from the marine a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

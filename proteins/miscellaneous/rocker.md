@@ -117,7 +117,9 @@ designing membrane proteins with predefined structural and dynamic properties.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20      </span>
 <span class="topo-line"><span class="topo-outside">Y?K</span><span class="topo-membrane">EIAHALFSALFALSELYIAV</span><span class="topo-inside">RY</span><span class="topo-unknown">?</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -157,6 +159,7 @@ designing membrane proteins with predefined structural and dynamic properties.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -172,7 +175,9 @@ designing membrane proteins with predefined structural and dynamic properties.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20      </span>
 <span class="topo-line"><span class="topo-inside">Y?KE</span><span class="topo-membrane">IAHALFSALFALSELYIA</span><span class="topo-outside">VRY</span><span class="topo-unknown">?</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -212,6 +217,7 @@ designing membrane proteins with predefined structural and dynamic properties.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

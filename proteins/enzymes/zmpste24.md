@@ -116,15 +116,17 @@ ZMPSTE24 (zinc metalloprotease STE24) is a human integral membrane zinc metallop
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">GMWASLDALWEMPAEK</span><span class="topo-membrane">RIFGAVLLFSWTVYLWETF</span><span class="topo-inside">LAQRQRRIYKTTTHVPPELGQIMD</span></span>
-<span class="topo-line"><span class="topo-inside">SETFEKSRLYQLDKSTFSF</span><span class="topo-membrane">WSGLYSETEGTLILLFGGIPYLW</span><span class="topo-outside">RLSGR</span><span class="topo-unknown">FCGYAGFG</span><span class="topo-outside">PEYEI</span></span>
-<span class="topo-line"><span class="topo-membrane">TQSLVFLLLATLFSALAGLPWS</span><span class="topo-inside">LYNTFVIEEKHGFNQQTLGFFM</span><span class="topo-membrane">KDAIKKFVVTQCILLP</span></span>
-<span class="topo-line"><span class="topo-membrane">VSSLLLYII</span><span class="topo-outside">KIGGDYFF</span><span class="topo-membrane">IYAWLFTLVVSLVLVTIYADYIA</span><span class="topo-inside">PLFDKFTPLPEGKLKEEIEV</span></span>
-<span class="topo-line"><span class="topo-inside">MAKSIDFPLTKVYVVEGSKRSSHSNAYFYGFFKNKRIVLFDTLLE</span><span class="topo-unknown">EYSVLNKDIQEDSGM</span></span>
-<span class="topo-line"><span class="topo-unknown">EPRNEEEGNSEEIKAKVKNKK</span><span class="topo-inside">QGCKNEEVLAVLGHELGHWKLG</span><span class="topo-membrane">HTVKNIIISQMNSFLCF</span></span>
-<span class="topo-line"><span class="topo-membrane">FLFA</span><span class="topo-outside">VLIGRKELFAAFGFYDSQPT</span><span class="topo-membrane">LIGLLIIFQFIFSPYNEVLSFCLTVL</span><span class="topo-inside">SRRFEFQADA</span></span>
-<span class="topo-line"><span class="topo-inside">FAKKLGKAKDLYSALIKLNKDNLGFPVSDWLFSMWHYSHPPLLERLQALKTM</span><span class="topo-unknown">KQHAENLY</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">GMWASLDALWEMPAEK</span><span class="topo-membrane">RIFGAVLLFSWTVYLWETF</span><span class="topo-inside">LAQRQRRIYKTTTHVPPELGQIMDSETFEKSRLYQLDKSTFSF</span><span class="topo-membrane">WSGLYSETEGTLILLFGGIPYLW</span><span class="topo-outside">RLSGR</span><span class="topo-unknown">FCGYAGFG</span><span class="topo-outside">PEYEI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">TQSLVFLLLATLFSALAGLPWS</span><span class="topo-inside">LYNTFVIEEKHGFNQQTLGFFM</span><span class="topo-membrane">KDAIKKFVVTQCILLPVSSLLLYII</span><span class="topo-outside">KIGGDYFF</span><span class="topo-membrane">IYAWLFTLVVSLVLVTIYADYIA</span><span class="topo-inside">PLFDKFTPLPEGKLKEEIEV</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">MAKSIDFPLTKVYVVEGSKRSSHSNAYFYGFFKNKRIVLFDTLLE</span><span class="topo-unknown">EYSVLNKDIQEDSGMEPRNEEEGNSEEIKAKVKNKK</span><span class="topo-inside">QGCKNEEVLAVLGHELGHWKLG</span><span class="topo-membrane">HTVKNIIISQMNSFLCF</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">FLFA</span><span class="topo-outside">VLIGRKELFAAFGFYDSQPT</span><span class="topo-membrane">LIGLLIIFQFIFSPYNEVLSFCLTVL</span><span class="topo-inside">SRRFEFQADAFAKKLGKAKDLYSALIKLNKDNLGFPVSDWLFSMWHYSHPPLLERLQALKTM</span><span class="topo-unknown">KQHAENLY</span></span>
+<span class="topo-ruler">  </span>
 <span class="topo-line"><span class="topo-unknown">FQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -283,6 +285,7 @@ ZMPSTE24 (zinc metalloprotease STE24) is a human integral membrane zinc metallop
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -420,15 +423,17 @@ ZMPSTE24 (zinc metalloprotease STE24) is a human integral membrane zinc metallop
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGMWASLDALWEMPA</span><span class="topo-inside">EKRI</span><span class="topo-membrane">FGAVLLFSWTVYLWETFLAQ</span><span class="topo-outside">RQRRIYKTTTHVPPELGQIMD</span></span>
-<span class="topo-line"><span class="topo-unknown">SETFEKSRLYQLDKSTFSFWSGLYSETEGTLILLFGGIP</span><span class="topo-inside">Y</span><span class="topo-unknown">LWRLSGRFCGYAGF</span><span class="topo-inside">GPEYE</span><span class="topo-membrane">I</span></span>
-<span class="topo-line"><span class="topo-membrane">TQSLVFLLLATLFSALAGLPW</span><span class="topo-outside">SLYNTFVIEEKHGFNQQTLGFFMKDA</span><span class="topo-membrane">IKKFVVTQCILLP</span></span>
-<span class="topo-line"><span class="topo-membrane">VSSLLLYIIK</span><span class="topo-inside">IGGDY</span><span class="topo-membrane">FFIYAWLFTLVVSLVLVTIY</span><span class="topo-outside">ADYIAPLFDKFTPLPEGKLKEEIEV</span></span>
-<span class="topo-line"><span class="topo-outside">MAKSIDFPLTKVYVVEGSKRSSHSNAYF</span><span class="topo-unknown">YGFFKN</span><span class="topo-outside">KRIVLFDTL</span><span class="topo-unknown">LEEYSVLNKDIQEDSGM</span></span>
-<span class="topo-line"><span class="topo-unknown">EPRNEEEGNSEEIKAKVKNKKQ</span><span class="topo-outside">GCKNEEVLAVLGHELGHWKLGHT</span><span class="topo-membrane">VKNIIISQMNSFLCF</span></span>
-<span class="topo-line"><span class="topo-membrane">FLFA</span><span class="topo-inside">VLIGRKELFAAFGFYDSQP</span><span class="topo-membrane">TLIGLLIIFQFIFSPYNEVLSFCLTVL</span><span class="topo-outside">SRRFEFQADA</span></span>
-<span class="topo-line"><span class="topo-outside">FAKKLGKAKDLYSALIKLNKDNLGFPVSD</span><span class="topo-unknown">WLFSMWH</span><span class="topo-outside">YSHPPLLERLQALK</span><span class="topo-unknown">TMKQHSGLEV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGMWASLDALWEMPA</span><span class="topo-inside">EKRI</span><span class="topo-membrane">FGAVLLFSWTVYLWETFLAQ</span><span class="topo-outside">RQRRIYKTTTHVPPELGQIMD</span><span class="topo-unknown">SETFEKSRLYQLDKSTFSFWSGLYSETEGTLILLFGGIP</span><span class="topo-inside">Y</span><span class="topo-unknown">LWRLSGRFCGYAGF</span><span class="topo-inside">GPEYE</span><span class="topo-membrane">I</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">TQSLVFLLLATLFSALAGLPW</span><span class="topo-outside">SLYNTFVIEEKHGFNQQTLGFFMKDA</span><span class="topo-membrane">IKKFVVTQCILLPVSSLLLYIIK</span><span class="topo-inside">IGGDY</span><span class="topo-membrane">FFIYAWLFTLVVSLVLVTIY</span><span class="topo-outside">ADYIAPLFDKFTPLPEGKLKEEIEV</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">MAKSIDFPLTKVYVVEGSKRSSHSNAYF</span><span class="topo-unknown">YGFFKN</span><span class="topo-outside">KRIVLFDTL</span><span class="topo-unknown">LEEYSVLNKDIQEDSGMEPRNEEEGNSEEIKAKVKNKKQ</span><span class="topo-outside">GCKNEEVLAVLGHELGHWKLGHT</span><span class="topo-membrane">VKNIIISQMNSFLCF</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">FLFA</span><span class="topo-inside">VLIGRKELFAAFGFYDSQP</span><span class="topo-membrane">TLIGLLIIFQFIFSPYNEVLSFCLTVL</span><span class="topo-outside">SRRFEFQADAFAKKLGKAKDLYSALIKLNKDNLGFPVSD</span><span class="topo-unknown">WLFSMWH</span><span class="topo-outside">YSHPPLLERLQALK</span><span class="topo-unknown">TMKQHSGLEV</span></span>
+<span class="topo-ruler">   </span>
 <span class="topo-line"><span class="topo-unknown">LFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (20 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -580,6 +585,7 @@ ZMPSTE24 (zinc metalloprotease STE24) is a human integral membrane zinc metallop
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

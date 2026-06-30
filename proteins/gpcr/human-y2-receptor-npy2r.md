@@ -46,21 +46,7 @@ The human neuropeptide Y (NPY) Y2 receptor (Y2R, NPY2R) is a class A G-protein-c
 - **Expression system**: Spodoptera frugiperda (Sf9) insect cells, Bac-to-Bac baculovirus expression system
 - **Construct**: Engineered human Y2R with HA signal sequence, PreScission site, 10xHis tag and Flag tag at C terminus; H149(3.51)Y and S280(6.47)C mutations; C-terminal truncation of 28 amino acids (S354-V381); N-terminal T4L fusion; ICL3 replacement with modified flavodoxin
 
-<<<<<<< HEAD
 **Purification:**
-=======
-### Purification Workflow
-
-
-##### Steps
-
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Cell lysis and membrane preparation | Dounce homogenization and ultracentrifugation | -- | Hypotonic buffer (10 mM HEPES pH 7.5, 10 mM MgCl2, 20 mM KCl, protease inhibitor cocktail); High-osmotic buffer (10 mM HEPES pH 7.5, 1 M NaCl, 10 mM MgCl2, 20 mM KCl, protease inhibitor cocktail) + -- |  |
-| Solubilization | Incubation with detergent | -- | 50 mM HEPES pH 7.5, 300 mM NaCl, 0.5% (w/v) [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.1% (w/v) [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 50 µM JNJ-31020028, 2 mg/ml iodoacetamide, protease inhibitor cocktail + n-dodecyl-beta-D-maltopyranoside ([DDM](/xray-mp-wiki/reagents/detergents/ddm/)), cholesterol hemisuccinate ([CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)) |  |
-| Affinity purification | [TALON](/xray-mp-wiki/reagents/additives/talon/) immobilized metal [affinity chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | [TALON](/xray-mp-wiki/reagents/additives/talon/) IMAC resin (Clontech) | Wash: 25 mM HEPES pH 7.5, 300 mM NaCl, 0.05% (w/v) [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.01% (w/v) [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 10 mM imidazole pH 7.4; Elution: wash buffer with 200 mM imidazole + 0.05% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.01% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) |  |
-| Size-exclusion chromatography | [SEC](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) | [Superdex 200](/xray-mp-wiki/reagents/additives/superdex-200/) increase 10/300 column | 25 mM HEPES pH 7.5, 300 mM NaCl, 0.05% (w/v) [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.01% (w/v) [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 10 µM JNJ-31020028 + 0.05% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.01% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) |  |
->>>>>>> d0e2c437136bdf2885afc6a99e0a9d4117821696
 
 <table class="wiki-table">
   <thead><tr>
@@ -117,18 +103,19 @@ The human neuropeptide Y (NPY) Y2 receptor (Y2R, NPY2R) is a class A G-protein-c
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GAPNIFEMLRIDEGLRLKIYKDTEGYYTIGIGHLLTKSPSLNAAKSELDKAIGRNTNGVI</span></span>
-<span class="topo-line"><span class="topo-unknown">TKDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVFQMGETGVAGFTNSL</span></span>
-<span class="topo-line"><span class="topo-unknown">RMLQQKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWDAYMGPIGAEADENQTVEEM</span></span>
-<span class="topo-line"><span class="topo-unknown">KVEQYGPQTTPRGELVPDPEPELIDSTKLI</span><span class="topo-outside">EVQV</span><span class="topo-membrane">VLILAYCSIILLGVIGNSLVIHVVI</span><span class="topo-inside">K</span></span>
-<span class="topo-line"><span class="topo-inside">FKSMRTVT</span><span class="topo-membrane">NFFIANLAVADLLVNTLCLPFTLTY</span><span class="topo-outside">TLMGEWKM</span><span class="topo-membrane">GPVLCHLVPYAQGLAVQVS</span></span>
-<span class="topo-line"><span class="topo-membrane">TITLTVIAL</span><span class="topo-inside">DRYRCIVYHLESKISKRIS</span><span class="topo-membrane">FLIIGLAWGISALLASPLAIFR</span><span class="topo-outside">EYSLIEIIPD</span></span>
-<span class="topo-line"><span class="topo-outside">FEIVACTEKWPGEEKSI</span><span class="topo-membrane">YGTVYSLSSLLILYVLPLGIISFSYTR</span><span class="topo-inside">IWSKLKNHVAKALIVY</span></span>
-<span class="topo-line"><span class="topo-inside">GSTTGNTEYTAETIARELADAGYEVDSRDAASVEAGGLFEGFDLVLLGCSTWGDDSIELQ</span></span>
-<span class="topo-line"><span class="topo-inside">DDFIPLFDSLEETGAQGRKVACFGCGDSSWEYFCGAVDAIEEKLKNLGAEIVQDGLRIDG</span></span>
-<span class="topo-line"><span class="topo-inside">DPRAARDDIVGWAHDVRGAIDHYHQRRQKTT</span><span class="topo-membrane">KMLVCVVVVFAVCWLPLHAFQLAVDI</span><span class="topo-outside">DSQ</span></span>
-<span class="topo-line"><span class="topo-outside">VLDLKEYKLI</span><span class="topo-membrane">FTVFHIIAMCSTFANPLLYGWMN</span><span class="topo-inside">SNYRKAFLSAFRCE</span><span class="topo-unknown">QRLDAIHSEVEFL</span></span>
-<span class="topo-line"><span class="topo-unknown">EVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GAPNIFEMLRIDEGLRLKIYKDTEGYYTIGIGHLLTKSPSLNAAKSELDKAIGRNTNGVITKDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVFQMGETGVAGFTNSL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-unknown">RMLQQKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWDAYMGPIGAEADENQTVEEMKVEQYGPQTTPRGELVPDPEPELIDSTKLI</span><span class="topo-outside">EVQV</span><span class="topo-membrane">VLILAYCSIILLGVIGNSLVIHVVI</span><span class="topo-inside">K</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">FKSMRTVT</span><span class="topo-membrane">NFFIANLAVADLLVNTLCLPFTLTY</span><span class="topo-outside">TLMGEWKM</span><span class="topo-membrane">GPVLCHLVPYAQGLAVQVSTITLTVIAL</span><span class="topo-inside">DRYRCIVYHLESKISKRIS</span><span class="topo-membrane">FLIIGLAWGISALLASPLAIFR</span><span class="topo-outside">EYSLIEIIPD</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">FEIVACTEKWPGEEKSI</span><span class="topo-membrane">YGTVYSLSSLLILYVLPLGIISFSYTR</span><span class="topo-inside">IWSKLKNHVAKALIVYGSTTGNTEYTAETIARELADAGYEVDSRDAASVEAGGLFEGFDLVLLGCSTWGDDSIELQ</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-inside">DDFIPLFDSLEETGAQGRKVACFGCGDSSWEYFCGAVDAIEEKLKNLGAEIVQDGLRIDGDPRAARDDIVGWAHDVRGAIDHYHQRRQKTT</span><span class="topo-membrane">KMLVCVVVVFAVCWLPLHAFQLAVDI</span><span class="topo-outside">DSQ</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660     </span>
+<span class="topo-line"><span class="topo-outside">VLDLKEYKLI</span><span class="topo-membrane">FTVFHIIAMCSTFANPLLYGWMN</span><span class="topo-inside">SNYRKAFLSAFRCE</span><span class="topo-unknown">QRLDAIHSEVEFLEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -273,6 +260,7 @@ The human neuropeptide Y (NPY) Y2 receptor (Y2R, NPY2R) is a class A G-protein-c
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

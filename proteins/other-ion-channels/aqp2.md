@@ -174,11 +174,13 @@ NDI-causing mutations and [AQP2](/xray-mp-wiki/proteins/other-ion-channels/human
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">G</span><span class="topo-outside">SELRSIAFSRA</span><span class="topo-membrane">VFAEFLATLLFVFFGLGS</span><span class="topo-inside">ALNWPQALPSVL</span><span class="topo-membrane">QIAMAFGLGIGTLVQALG</span></span>
-<span class="topo-line"><span class="topo-outside">HISG</span><span class="topo-unknown">AHINPAVTVACLV</span><span class="topo-outside">GCHVSVLRA</span><span class="topo-membrane">AFYVAAQLLGAVAGAALL</span><span class="topo-inside">HEITPADIRGDLAVNA</span></span>
-<span class="topo-line"><span class="topo-inside">LSNSMTAGQA</span><span class="topo-membrane">VTVELFLTLQLVLCIFAS</span><span class="topo-outside">TDERRGENPG</span><span class="topo-membrane">TPALSIGFSVALGHLLG</span><span class="topo-inside">IHYTG</span></span>
-<span class="topo-line"><span class="topo-inside">C</span><span class="topo-unknown">SMNPARSLAP</span><span class="topo-inside">AVVTGKFDDH</span><span class="topo-membrane">WVFWIGPLVGAILGSLLY</span><span class="topo-outside">NYVLFPPAKSLSERLAVLK</span><span class="topo-unknown">GL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">G</span><span class="topo-outside">SELRSIAFSRA</span><span class="topo-membrane">VFAEFLATLLFVFFGLGS</span><span class="topo-inside">ALNWPQALPSVL</span><span class="topo-membrane">QIAMAFGLGIGTLVQALG</span><span class="topo-outside">HISG</span><span class="topo-unknown">AHINPAVTVACLV</span><span class="topo-outside">GCHVSVLRA</span><span class="topo-membrane">AFYVAAQLLGAVAGAALL</span><span class="topo-inside">HEITPADIRGDLAVNA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">LSNSMTAGQA</span><span class="topo-membrane">VTVELFLTLQLVLCIFAS</span><span class="topo-outside">TDERRGENPG</span><span class="topo-membrane">TPALSIGFSVALGHLLG</span><span class="topo-inside">IHYTGC</span><span class="topo-unknown">SMNPARSLAP</span><span class="topo-inside">AVVTGKFDDH</span><span class="topo-membrane">WVFWIGPLVGAILGSLLY</span><span class="topo-outside">NYVLFPPAKSLSERLAVLK</span><span class="topo-unknown">GL</span></span>
+<span class="topo-ruler"> </span>
 <span class="topo-line"><span class="topo-unknown">E</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -316,6 +318,7 @@ NDI-causing mutations and [AQP2](/xray-mp-wiki/proteins/other-ion-channels/human
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -331,11 +334,13 @@ NDI-causing mutations and [AQP2](/xray-mp-wiki/proteins/other-ion-channels/human
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GSELR</span><span class="topo-outside">SIAFSRAV</span><span class="topo-membrane">FAEFLATLLFVFFGLGS</span><span class="topo-inside">ALNWPQALPSVL</span><span class="topo-membrane">QIAMAFGLGIGTLVQALG</span></span>
-<span class="topo-line"><span class="topo-outside">HISG</span><span class="topo-unknown">AHINPAVTVACL</span><span class="topo-outside">VGCHVSVLRA</span><span class="topo-membrane">AFYVAAQLLGAVAGAALL</span><span class="topo-inside">HEITPADIRGDLAVNA</span></span>
-<span class="topo-line"><span class="topo-inside">LSNSMTAG</span><span class="topo-membrane">QAVTVELFLTLQLVLCIFAS</span><span class="topo-outside">TDERRGENPGT</span><span class="topo-membrane">PALSIGFSVALGHLLGI</span><span class="topo-inside">HYTG</span></span>
-<span class="topo-line"><span class="topo-unknown">CSMNPARSLAPAVV</span><span class="topo-inside">TGKFDDH</span><span class="topo-membrane">WVFWIGPLVGAILGSLLY</span><span class="topo-outside">NYVLFPPAKSL</span><span class="topo-unknown">SERLAVLKGL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GSELR</span><span class="topo-outside">SIAFSRAV</span><span class="topo-membrane">FAEFLATLLFVFFGLGS</span><span class="topo-inside">ALNWPQALPSVL</span><span class="topo-membrane">QIAMAFGLGIGTLVQALG</span><span class="topo-outside">HISG</span><span class="topo-unknown">AHINPAVTVACL</span><span class="topo-outside">VGCHVSVLRA</span><span class="topo-membrane">AFYVAAQLLGAVAGAALL</span><span class="topo-inside">HEITPADIRGDLAVNA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">LSNSMTAG</span><span class="topo-membrane">QAVTVELFLTLQLVLCIFAS</span><span class="topo-outside">TDERRGENPGT</span><span class="topo-membrane">PALSIGFSVALGHLLGI</span><span class="topo-inside">HYTG</span><span class="topo-unknown">CSMNPARSLAPAVV</span><span class="topo-inside">TGKFDDH</span><span class="topo-membrane">WVFWIGPLVGAILGSLLY</span><span class="topo-outside">NYVLFPPAKSL</span><span class="topo-unknown">SERLAVLKGL</span></span>
+<span class="topo-ruler"> </span>
 <span class="topo-line"><span class="topo-unknown">E</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -480,6 +485,7 @@ NDI-causing mutations and [AQP2](/xray-mp-wiki/proteins/other-ion-channels/human
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -495,11 +501,13 @@ NDI-causing mutations and [AQP2](/xray-mp-wiki/proteins/other-ion-channels/human
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GSELR</span><span class="topo-outside">SIAFSRAV</span><span class="topo-membrane">FAEFLATLLFVFFGLGS</span><span class="topo-inside">ALNWPQALPSVL</span><span class="topo-membrane">QIAMAFGLGIGTLVQALG</span></span>
-<span class="topo-line"><span class="topo-outside">HISG</span><span class="topo-unknown">AHINPAVTVACL</span><span class="topo-outside">VGCHVSVLRA</span><span class="topo-membrane">AFYVAAQLLGAVAGAALL</span><span class="topo-inside">HEITPADIRGDLAVNA</span></span>
-<span class="topo-line"><span class="topo-inside">LSNSMTAGQA</span><span class="topo-membrane">VTVELFLTLQLVLCIFAS</span><span class="topo-outside">TDERRGENPGTP</span><span class="topo-membrane">ALSIGFSVALGHLLGI</span><span class="topo-inside">HYTG</span></span>
-<span class="topo-line"><span class="topo-unknown">CSMNPARSLAPAVV</span><span class="topo-inside">TGKFDDH</span><span class="topo-membrane">WVFWIGPLVGAILGSLLY</span><span class="topo-outside">NYVLFPPAKSLSERLAVLKGL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GSELR</span><span class="topo-outside">SIAFSRAV</span><span class="topo-membrane">FAEFLATLLFVFFGLGS</span><span class="topo-inside">ALNWPQALPSVL</span><span class="topo-membrane">QIAMAFGLGIGTLVQALG</span><span class="topo-outside">HISG</span><span class="topo-unknown">AHINPAVTVACL</span><span class="topo-outside">VGCHVSVLRA</span><span class="topo-membrane">AFYVAAQLLGAVAGAALL</span><span class="topo-inside">HEITPADIRGDLAVNA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">LSNSMTAGQA</span><span class="topo-membrane">VTVELFLTLQLVLCIFAS</span><span class="topo-outside">TDERRGENPGTP</span><span class="topo-membrane">ALSIGFSVALGHLLGI</span><span class="topo-inside">HYTG</span><span class="topo-unknown">CSMNPARSLAPAVV</span><span class="topo-inside">TGKFDDH</span><span class="topo-membrane">WVFWIGPLVGAILGSLLY</span><span class="topo-outside">NYVLFPPAKSLSERLAVLKGL</span></span>
+<span class="topo-ruler"> </span>
 <span class="topo-line"><span class="topo-outside">E</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -637,6 +645,7 @@ NDI-causing mutations and [AQP2](/xray-mp-wiki/proteins/other-ion-channels/human
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -652,11 +661,13 @@ NDI-causing mutations and [AQP2](/xray-mp-wiki/proteins/other-ion-channels/human
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">G</span><span class="topo-outside">SELRSIAFSRA</span><span class="topo-membrane">VFAEFLATLLFVFFGLGS</span><span class="topo-inside">ALNWPQALPSVL</span><span class="topo-membrane">QIAMAFGLGIGTLVQALG</span></span>
-<span class="topo-line"><span class="topo-outside">HIS</span><span class="topo-unknown">GAHINPAVTVACLV</span><span class="topo-outside">GCHVSVLRA</span><span class="topo-membrane">AFYVAAQLLGAVAGAALL</span><span class="topo-inside">HEITPADIRGDLAVNA</span></span>
-<span class="topo-line"><span class="topo-inside">LSNSMTAG</span><span class="topo-membrane">QAVTVELFLTLQLVLCIFAS</span><span class="topo-outside">TDERRGENPGT</span><span class="topo-membrane">PALSIGFSVALGHLLGI</span><span class="topo-inside">HYTG</span></span>
-<span class="topo-line"><span class="topo-unknown">CSMNPARSLAP</span><span class="topo-inside">AVVTGKFDDH</span><span class="topo-membrane">WVFWIGPLVGAILGSLLY</span><span class="topo-outside">NYVLFPPAKSLSE</span><span class="topo-unknown">RLAVLKGL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">G</span><span class="topo-outside">SELRSIAFSRA</span><span class="topo-membrane">VFAEFLATLLFVFFGLGS</span><span class="topo-inside">ALNWPQALPSVL</span><span class="topo-membrane">QIAMAFGLGIGTLVQALG</span><span class="topo-outside">HIS</span><span class="topo-unknown">GAHINPAVTVACLV</span><span class="topo-outside">GCHVSVLRA</span><span class="topo-membrane">AFYVAAQLLGAVAGAALL</span><span class="topo-inside">HEITPADIRGDLAVNA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">LSNSMTAG</span><span class="topo-membrane">QAVTVELFLTLQLVLCIFAS</span><span class="topo-outside">TDERRGENPGT</span><span class="topo-membrane">PALSIGFSVALGHLLGI</span><span class="topo-inside">HYTG</span><span class="topo-unknown">CSMNPARSLAP</span><span class="topo-inside">AVVTGKFDDH</span><span class="topo-membrane">WVFWIGPLVGAILGSLLY</span><span class="topo-outside">NYVLFPPAKSLSE</span><span class="topo-unknown">RLAVLKGL</span></span>
+<span class="topo-ruler"> </span>
 <span class="topo-line"><span class="topo-unknown">E</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -794,6 +805,7 @@ NDI-causing mutations and [AQP2](/xray-mp-wiki/proteins/other-ion-channels/human
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -809,11 +821,13 @@ NDI-causing mutations and [AQP2](/xray-mp-wiki/proteins/other-ion-channels/human
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">G</span><span class="topo-inside">SELRSIAFS</span><span class="topo-membrane">RAVFAEFLATLLFVFFGLGSA</span><span class="topo-outside">LNWPQALPSV</span><span class="topo-membrane">LQIAMAFGLGIGTLVQALG</span></span>
-<span class="topo-line"><span class="topo-membrane">HIS</span><span class="topo-unknown">GAHINPAVTVACLVG</span><span class="topo-inside">CHVSV</span><span class="topo-membrane">LRAAFYVAAQLLGAVAGAALLHEI</span><span class="topo-outside">TPADIRGDLAVNA</span></span>
-<span class="topo-line"><span class="topo-outside">LSNSTMAG</span><span class="topo-membrane">QAVTVELFLTLQLVLCIFAST</span><span class="topo-inside">DERRGEN</span><span class="topo-membrane">PGTPALSIGFSVALGHLLGI</span><span class="topo-outside">HY</span><span class="topo-unknown">TG</span></span>
-<span class="topo-line"><span class="topo-unknown">CSMNPARSLAPAVV</span><span class="topo-outside">TGKFDDH</span><span class="topo-membrane">WVFWIGPLVGAILGSLLYNYVL</span><span class="topo-inside">FPPAKSLSERLAVLKGL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">G</span><span class="topo-inside">SELRSIAFS</span><span class="topo-membrane">RAVFAEFLATLLFVFFGLGSA</span><span class="topo-outside">LNWPQALPSV</span><span class="topo-membrane">LQIAMAFGLGIGTLVQALGHIS</span><span class="topo-unknown">GAHINPAVTVACLVG</span><span class="topo-inside">CHVSV</span><span class="topo-membrane">LRAAFYVAAQLLGAVAGAALLHEI</span><span class="topo-outside">TPADIRGDLAVNA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">LSNSTMAG</span><span class="topo-membrane">QAVTVELFLTLQLVLCIFAST</span><span class="topo-inside">DERRGEN</span><span class="topo-membrane">PGTPALSIGFSVALGHLLGI</span><span class="topo-outside">HY</span><span class="topo-unknown">TGCSMNPARSLAPAVV</span><span class="topo-outside">TGKFDDH</span><span class="topo-membrane">WVFWIGPLVGAILGSLLYNYVL</span><span class="topo-inside">FPPAKSLSERLAVLKGL</span></span>
+<span class="topo-ruler"> </span>
 <span class="topo-line"><span class="topo-unknown">E</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -937,6 +951,7 @@ NDI-causing mutations and [AQP2](/xray-mp-wiki/proteins/other-ion-channels/human
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -952,11 +967,13 @@ NDI-causing mutations and [AQP2](/xray-mp-wiki/proteins/other-ion-channels/human
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GSELR</span><span class="topo-inside">SIAFS</span><span class="topo-membrane">RAVFAEFLATLLFVFFGLGSA</span><span class="topo-outside">LNWPQALPSV</span><span class="topo-membrane">LQIAMAFGLGIGTLVQALG</span></span>
-<span class="topo-line"><span class="topo-inside">HI</span><span class="topo-unknown">SGAHINPAVTVACLVG</span><span class="topo-inside">CHVSV</span><span class="topo-membrane">LRAAFYVAAQLLGAVAGAALLHEI</span><span class="topo-outside">TPADIRGDLAVNA</span></span>
-<span class="topo-line"><span class="topo-outside">LSNSTMA</span><span class="topo-membrane">GQAVTVELFLTLQLVLCIFAST</span><span class="topo-inside">DERRGENP</span><span class="topo-membrane">GTPALSIGFSVALGHLLGI</span><span class="topo-outside">HY</span><span class="topo-unknown">TG</span></span>
-<span class="topo-line"><span class="topo-unknown">CSMNPARSLAPAVV</span><span class="topo-outside">TGKFDD</span><span class="topo-membrane">HWVFWIGPLVGAILGSLLYN</span><span class="topo-inside">YVLFPPAKSLSERLAVLK</span><span class="topo-unknown">GL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GSELR</span><span class="topo-inside">SIAFS</span><span class="topo-membrane">RAVFAEFLATLLFVFFGLGSA</span><span class="topo-outside">LNWPQALPSV</span><span class="topo-membrane">LQIAMAFGLGIGTLVQALG</span><span class="topo-inside">HI</span><span class="topo-unknown">SGAHINPAVTVACLVG</span><span class="topo-inside">CHVSV</span><span class="topo-membrane">LRAAFYVAAQLLGAVAGAALLHEI</span><span class="topo-outside">TPADIRGDLAVNA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">LSNSTMA</span><span class="topo-membrane">GQAVTVELFLTLQLVLCIFAST</span><span class="topo-inside">DERRGENP</span><span class="topo-membrane">GTPALSIGFSVALGHLLGI</span><span class="topo-outside">HY</span><span class="topo-unknown">TGCSMNPARSLAPAVV</span><span class="topo-outside">TGKFDD</span><span class="topo-membrane">HWVFWIGPLVGAILGSLLYN</span><span class="topo-inside">YVLFPPAKSLSERLAVLK</span><span class="topo-unknown">GL</span></span>
+<span class="topo-ruler"> </span>
 <span class="topo-line"><span class="topo-unknown">E</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1101,6 +1118,7 @@ NDI-causing mutations and [AQP2](/xray-mp-wiki/proteins/other-ion-channels/human
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1116,11 +1134,13 @@ NDI-causing mutations and [AQP2](/xray-mp-wiki/proteins/other-ion-channels/human
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GSELR</span><span class="topo-inside">SIAFS</span><span class="topo-membrane">RAVFAEFLATLLFVFFGLGSA</span><span class="topo-outside">LNWPQALPSV</span><span class="topo-membrane">LQIAMAFGLGIGTLVQALG</span></span>
-<span class="topo-line"><span class="topo-inside">HI</span><span class="topo-unknown">SGAHINPAVTVACLV</span><span class="topo-inside">GCHVSV</span><span class="topo-membrane">LRAAFYVAAQLLGAVAGAALLHEI</span><span class="topo-outside">TPADIRGDLAVNA</span></span>
-<span class="topo-line"><span class="topo-outside">LSNSTMA</span><span class="topo-membrane">GQAVTVELFLTLQLVLCIFAST</span><span class="topo-inside">DERRGENPGT</span><span class="topo-membrane">PALSIGFSVALGHLLGI</span><span class="topo-outside">HY</span><span class="topo-unknown">TG</span></span>
-<span class="topo-line"><span class="topo-unknown">CSMNPARSLAPAVV</span><span class="topo-outside">TGKFDD</span><span class="topo-membrane">HWVFWIGPLVGAILGSLLYNYVL</span><span class="topo-inside">FPPAKSLSERLAVLKGL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GSELR</span><span class="topo-inside">SIAFS</span><span class="topo-membrane">RAVFAEFLATLLFVFFGLGSA</span><span class="topo-outside">LNWPQALPSV</span><span class="topo-membrane">LQIAMAFGLGIGTLVQALG</span><span class="topo-inside">HI</span><span class="topo-unknown">SGAHINPAVTVACLV</span><span class="topo-inside">GCHVSV</span><span class="topo-membrane">LRAAFYVAAQLLGAVAGAALLHEI</span><span class="topo-outside">TPADIRGDLAVNA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">LSNSTMA</span><span class="topo-membrane">GQAVTVELFLTLQLVLCIFAST</span><span class="topo-inside">DERRGENPGT</span><span class="topo-membrane">PALSIGFSVALGHLLGI</span><span class="topo-outside">HY</span><span class="topo-unknown">TGCSMNPARSLAPAVV</span><span class="topo-outside">TGKFDD</span><span class="topo-membrane">HWVFWIGPLVGAILGSLLYNYVL</span><span class="topo-inside">FPPAKSLSERLAVLKGL</span></span>
+<span class="topo-ruler"> </span>
 <span class="topo-line"><span class="topo-inside">E</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1258,6 +1278,7 @@ NDI-causing mutations and [AQP2](/xray-mp-wiki/proteins/other-ion-channels/human
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1273,11 +1294,13 @@ NDI-causing mutations and [AQP2](/xray-mp-wiki/proteins/other-ion-channels/human
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">G</span><span class="topo-inside">SELRSIAFS</span><span class="topo-membrane">RAVFAEFLATLLFVFFGLGSA</span><span class="topo-outside">LNWPQALPSV</span><span class="topo-membrane">LQIAMAFGLGIGTLVQALG</span></span>
-<span class="topo-line"><span class="topo-membrane">HIS</span><span class="topo-unknown">GAHINPAVTVACLVG</span><span class="topo-inside">CHVSV</span><span class="topo-membrane">LRAAFYVAAQLLGAVAGAALLHEI</span><span class="topo-outside">TPADIRGDLAVNA</span></span>
-<span class="topo-line"><span class="topo-outside">LSNSTMA</span><span class="topo-membrane">GQAVTVELFLTLQLVLCIFAST</span><span class="topo-inside">DERRGENPG</span><span class="topo-membrane">TPALSIGFSVALGHLLGI</span><span class="topo-outside">HY</span><span class="topo-unknown">TG</span></span>
-<span class="topo-line"><span class="topo-unknown">CSMNPARSLAPAVV</span><span class="topo-outside">TGKFDDH</span><span class="topo-membrane">WVFWIGPLVGAILGSLLYNYVL</span><span class="topo-inside">FPPAKSLSER</span><span class="topo-unknown">LAVLKGL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">G</span><span class="topo-inside">SELRSIAFS</span><span class="topo-membrane">RAVFAEFLATLLFVFFGLGSA</span><span class="topo-outside">LNWPQALPSV</span><span class="topo-membrane">LQIAMAFGLGIGTLVQALGHIS</span><span class="topo-unknown">GAHINPAVTVACLVG</span><span class="topo-inside">CHVSV</span><span class="topo-membrane">LRAAFYVAAQLLGAVAGAALLHEI</span><span class="topo-outside">TPADIRGDLAVNA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">LSNSTMA</span><span class="topo-membrane">GQAVTVELFLTLQLVLCIFAST</span><span class="topo-inside">DERRGENPG</span><span class="topo-membrane">TPALSIGFSVALGHLLGI</span><span class="topo-outside">HY</span><span class="topo-unknown">TGCSMNPARSLAPAVV</span><span class="topo-outside">TGKFDDH</span><span class="topo-membrane">WVFWIGPLVGAILGSLLYNYVL</span><span class="topo-inside">FPPAKSLSER</span><span class="topo-unknown">LAVLKGL</span></span>
+<span class="topo-ruler"> </span>
 <span class="topo-line"><span class="topo-unknown">E</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1408,6 +1431,7 @@ NDI-causing mutations and [AQP2](/xray-mp-wiki/proteins/other-ion-channels/human
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1481,11 +1505,13 @@ NDI-causing mutations and [AQP2](/xray-mp-wiki/proteins/other-ion-channels/human
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">G</span><span class="topo-inside">SELRSIAFSRA</span><span class="topo-membrane">VFAEFLATLLFVFFGLGS</span><span class="topo-outside">ALNWPQALPSVL</span><span class="topo-membrane">QIAMAFGLGIGTLVQALG</span></span>
-<span class="topo-line"><span class="topo-inside">HIS</span><span class="topo-unknown">GAHINPAVTVACLV</span><span class="topo-inside">GCHVSVLRA</span><span class="topo-membrane">AFYVAAQLLGAVAGAALL</span><span class="topo-outside">HEITPADIRGDLAVNA</span></span>
-<span class="topo-line"><span class="topo-outside">LSNSTTAGQA</span><span class="topo-membrane">VTVELFLTLQLVLCIFAS</span><span class="topo-inside">TDERRGENPG</span><span class="topo-membrane">TPALSIGFSVALGHLLG</span><span class="topo-outside">IHYTG</span></span>
-<span class="topo-line"><span class="topo-outside">C</span><span class="topo-unknown">SMNPARSLAP</span><span class="topo-outside">AVVTGKFDDH</span><span class="topo-membrane">WVFWIGPLVGAILGSLLY</span><span class="topo-inside">NYVLFPPAKSLSERLAVLKGL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">G</span><span class="topo-inside">SELRSIAFSRA</span><span class="topo-membrane">VFAEFLATLLFVFFGLGS</span><span class="topo-outside">ALNWPQALPSVL</span><span class="topo-membrane">QIAMAFGLGIGTLVQALG</span><span class="topo-inside">HIS</span><span class="topo-unknown">GAHINPAVTVACLV</span><span class="topo-inside">GCHVSVLRA</span><span class="topo-membrane">AFYVAAQLLGAVAGAALL</span><span class="topo-outside">HEITPADIRGDLAVNA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">LSNSTTAGQA</span><span class="topo-membrane">VTVELFLTLQLVLCIFAS</span><span class="topo-inside">TDERRGENPG</span><span class="topo-membrane">TPALSIGFSVALGHLLG</span><span class="topo-outside">IHYTGC</span><span class="topo-unknown">SMNPARSLAP</span><span class="topo-outside">AVVTGKFDDH</span><span class="topo-membrane">WVFWIGPLVGAILGSLLY</span><span class="topo-inside">NYVLFPPAKSLSERLAVLKGL</span></span>
+<span class="topo-ruler">  </span>
 <span class="topo-line"><span class="topo-unknown">EP</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1630,6 +1656,7 @@ NDI-causing mutations and [AQP2](/xray-mp-wiki/proteins/other-ion-channels/human
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1645,11 +1672,13 @@ NDI-causing mutations and [AQP2](/xray-mp-wiki/proteins/other-ion-channels/human
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GSELR</span><span class="topo-inside">SIAFSRAV</span><span class="topo-membrane">FAEFLATLLFVFFGLGS</span><span class="topo-outside">ALNWPQALPSVL</span><span class="topo-membrane">QIAMAFGLGIGTLVQALG</span></span>
-<span class="topo-line"><span class="topo-inside">HISG</span><span class="topo-unknown">AHINPAVTVACL</span><span class="topo-inside">VGCHVSVLRA</span><span class="topo-membrane">AFYVAAQLLGAVAGAALL</span><span class="topo-outside">HEITPADIRGDLAVNA</span></span>
-<span class="topo-line"><span class="topo-outside">LSNSTTAG</span><span class="topo-membrane">QAVTVELFLTLQLVLCIF</span><span class="topo-inside">ASTDERRGENPGT</span><span class="topo-membrane">PALSIGFSVALGHLLGI</span><span class="topo-outside">HYTG</span></span>
-<span class="topo-line"><span class="topo-outside">C</span><span class="topo-unknown">SMNPARSLAPAVV</span><span class="topo-outside">TGKFDDH</span><span class="topo-membrane">WVFWIGPLVGAILGSLLY</span><span class="topo-inside">NYVLFPPAKSLSERLAVLK</span><span class="topo-unknown">GL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GSELR</span><span class="topo-inside">SIAFSRAV</span><span class="topo-membrane">FAEFLATLLFVFFGLGS</span><span class="topo-outside">ALNWPQALPSVL</span><span class="topo-membrane">QIAMAFGLGIGTLVQALG</span><span class="topo-inside">HISG</span><span class="topo-unknown">AHINPAVTVACL</span><span class="topo-inside">VGCHVSVLRA</span><span class="topo-membrane">AFYVAAQLLGAVAGAALL</span><span class="topo-outside">HEITPADIRGDLAVNA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">LSNSTTAG</span><span class="topo-membrane">QAVTVELFLTLQLVLCIF</span><span class="topo-inside">ASTDERRGENPGT</span><span class="topo-membrane">PALSIGFSVALGHLLGI</span><span class="topo-outside">HYTGC</span><span class="topo-unknown">SMNPARSLAPAVV</span><span class="topo-outside">TGKFDDH</span><span class="topo-membrane">WVFWIGPLVGAILGSLLY</span><span class="topo-inside">NYVLFPPAKSLSERLAVLK</span><span class="topo-unknown">GL</span></span>
+<span class="topo-ruler">  </span>
 <span class="topo-line"><span class="topo-unknown">EP</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1794,6 +1823,7 @@ NDI-causing mutations and [AQP2](/xray-mp-wiki/proteins/other-ion-channels/human
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1809,11 +1839,13 @@ NDI-causing mutations and [AQP2](/xray-mp-wiki/proteins/other-ion-channels/human
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GSELR</span><span class="topo-inside">SIAFSRAV</span><span class="topo-membrane">FAEFLATLLFVFFGLGS</span><span class="topo-outside">ALNWPQALPSVL</span><span class="topo-membrane">QIAMAFGLGIGTLVQALG</span></span>
-<span class="topo-line"><span class="topo-inside">HISG</span><span class="topo-unknown">AHINPAVTVACL</span><span class="topo-inside">VGCHVSVLRA</span><span class="topo-membrane">AFYVAAQLLGAVAGAALL</span><span class="topo-outside">HEITPADIRGDLAVNA</span></span>
-<span class="topo-line"><span class="topo-outside">LSNSTTAGQA</span><span class="topo-membrane">VTVELFLTLQLVLCIFAS</span><span class="topo-inside">TDERRGENPGTP</span><span class="topo-membrane">ALSIGFSVALGHLLGI</span><span class="topo-outside">HYTG</span></span>
-<span class="topo-line"><span class="topo-outside">C</span><span class="topo-unknown">SMNPARSLAPAVV</span><span class="topo-outside">TGKFDDH</span><span class="topo-membrane">WVFWIGPLVGAILGSLLY</span><span class="topo-inside">NYVLFPPAKSLSERLAVLKGL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GSELR</span><span class="topo-inside">SIAFSRAV</span><span class="topo-membrane">FAEFLATLLFVFFGLGS</span><span class="topo-outside">ALNWPQALPSVL</span><span class="topo-membrane">QIAMAFGLGIGTLVQALG</span><span class="topo-inside">HISG</span><span class="topo-unknown">AHINPAVTVACL</span><span class="topo-inside">VGCHVSVLRA</span><span class="topo-membrane">AFYVAAQLLGAVAGAALL</span><span class="topo-outside">HEITPADIRGDLAVNA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">LSNSTTAGQA</span><span class="topo-membrane">VTVELFLTLQLVLCIFAS</span><span class="topo-inside">TDERRGENPGTP</span><span class="topo-membrane">ALSIGFSVALGHLLGI</span><span class="topo-outside">HYTGC</span><span class="topo-unknown">SMNPARSLAPAVV</span><span class="topo-outside">TGKFDDH</span><span class="topo-membrane">WVFWIGPLVGAILGSLLY</span><span class="topo-inside">NYVLFPPAKSLSERLAVLKGL</span></span>
+<span class="topo-ruler">  </span>
 <span class="topo-line"><span class="topo-inside">E</span><span class="topo-unknown">P</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1958,6 +1990,7 @@ NDI-causing mutations and [AQP2](/xray-mp-wiki/proteins/other-ion-channels/human
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1973,11 +2006,13 @@ NDI-causing mutations and [AQP2](/xray-mp-wiki/proteins/other-ion-channels/human
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">G</span><span class="topo-inside">SELRSIAFSRA</span><span class="topo-membrane">VFAEFLATLLFVFFGLGS</span><span class="topo-outside">ALNWPQALPSVL</span><span class="topo-membrane">QIAMAFGLGIGTLVQALG</span></span>
-<span class="topo-line"><span class="topo-inside">HIS</span><span class="topo-unknown">GAHINPAVTVACLV</span><span class="topo-inside">GCHVSVLRA</span><span class="topo-membrane">AFYVAAQLLGAVAGAALL</span><span class="topo-outside">HEITPADIRGDLAVNA</span></span>
-<span class="topo-line"><span class="topo-outside">LSNSTTAGQA</span><span class="topo-membrane">VTVELFLTLQLVLCIFAS</span><span class="topo-inside">TDERRGENPGT</span><span class="topo-membrane">PALSIGFSVALGHLLG</span><span class="topo-outside">IHYTG</span></span>
-<span class="topo-line"><span class="topo-outside">C</span><span class="topo-unknown">SMNPARSLAP</span><span class="topo-outside">AVVTGKFDDH</span><span class="topo-membrane">WVFWIGPLVGAILGSLLY</span><span class="topo-inside">NYVLFPPAKSLSER</span><span class="topo-unknown">LAVLKGL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">G</span><span class="topo-inside">SELRSIAFSRA</span><span class="topo-membrane">VFAEFLATLLFVFFGLGS</span><span class="topo-outside">ALNWPQALPSVL</span><span class="topo-membrane">QIAMAFGLGIGTLVQALG</span><span class="topo-inside">HIS</span><span class="topo-unknown">GAHINPAVTVACLV</span><span class="topo-inside">GCHVSVLRA</span><span class="topo-membrane">AFYVAAQLLGAVAGAALL</span><span class="topo-outside">HEITPADIRGDLAVNA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">LSNSTTAGQA</span><span class="topo-membrane">VTVELFLTLQLVLCIFAS</span><span class="topo-inside">TDERRGENPGT</span><span class="topo-membrane">PALSIGFSVALGHLLG</span><span class="topo-outside">IHYTGC</span><span class="topo-unknown">SMNPARSLAP</span><span class="topo-outside">AVVTGKFDDH</span><span class="topo-membrane">WVFWIGPLVGAILGSLLY</span><span class="topo-inside">NYVLFPPAKSLSER</span><span class="topo-unknown">LAVLKGL</span></span>
+<span class="topo-ruler">  </span>
 <span class="topo-line"><span class="topo-unknown">EP</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2122,6 +2157,7 @@ NDI-causing mutations and [AQP2](/xray-mp-wiki/proteins/other-ion-channels/human
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

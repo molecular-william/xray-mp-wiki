@@ -154,15 +154,17 @@ the entire peptide.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GGGLAPAEVPKGDRTAGSPPRTISP</span><span class="topo-outside">PPCQGPIEIKETF</span><span class="topo-membrane">KYINTVVSCLVFVLGIIGNSTL</span></span>
-<span class="topo-line"><span class="topo-membrane">LYIIY</span><span class="topo-inside">KN</span><span class="topo-unknown">KCMRN</span><span class="topo-inside">GPNI</span><span class="topo-membrane">LIASLALGDLLHIVIAIPINVYKL</span><span class="topo-outside">LAEDWPFGA</span><span class="topo-membrane">EMCKLVPFIQK</span></span>
-<span class="topo-line"><span class="topo-membrane">ASVGITVLSLCALSI</span><span class="topo-inside">DRYRAVASW</span><span class="topo-unknown">SRIKGIGVPK</span><span class="topo-inside">WTA</span><span class="topo-membrane">VEIVLIWVVSVVLAVPEAIGF</span><span class="topo-outside">DI</span></span>
-<span class="topo-line"><span class="topo-outside">ITMDYKGSYLRICLLHPVQKT</span><span class="topo-membrane">AFMQFYATAKDWWLFSFYFCLPLAITAFFYT</span><span class="topo-inside">LMTCEMLR</span></span>
-<span class="topo-line"><span class="topo-inside">KNIFEMLRIDEGLRLKIYKDTEGYYTIGIGHLLTKSPSLNAAKSELDKAIGRNTNGVITK</span></span>
-<span class="topo-line"><span class="topo-inside">DEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVFQMGETGVAGFTNSLRM</span></span>
-<span class="topo-line"><span class="topo-inside">LQQKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWDAYLNDHLKQRREVAKT</span><span class="topo-membrane">VFCLV</span></span>
-<span class="topo-line"><span class="topo-membrane">LVFALCWLPLHLARILKLT</span><span class="topo-outside">LYNQNDPNRCELLSFL</span><span class="topo-membrane">LVLDYIGINMASLNSCANPIALYLV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GGGLAPAEVPKGDRTAGSPPRTISP</span><span class="topo-outside">PPCQGPIEIKETF</span><span class="topo-membrane">KYINTVVSCLVFVLGIIGNSTLLYIIY</span><span class="topo-inside">KN</span><span class="topo-unknown">KCMRN</span><span class="topo-inside">GPNI</span><span class="topo-membrane">LIASLALGDLLHIVIAIPINVYKL</span><span class="topo-outside">LAEDWPFGA</span><span class="topo-membrane">EMCKLVPFIQK</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">ASVGITVLSLCALSI</span><span class="topo-inside">DRYRAVASW</span><span class="topo-unknown">SRIKGIGVPK</span><span class="topo-inside">WTA</span><span class="topo-membrane">VEIVLIWVVSVVLAVPEAIGF</span><span class="topo-outside">DIITMDYKGSYLRICLLHPVQKT</span><span class="topo-membrane">AFMQFYATAKDWWLFSFYFCLPLAITAFFYT</span><span class="topo-inside">LMTCEMLR</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">KNIFEMLRIDEGLRLKIYKDTEGYYTIGIGHLLTKSPSLNAAKSELDKAIGRNTNGVITKDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVFQMGETGVAGFTNSLRM</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">LQQKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWDAYLNDHLKQRREVAKT</span><span class="topo-membrane">VFCLVLVFALCWLPLHLARILKLT</span><span class="topo-outside">LYNQNDPNRCELLSFL</span><span class="topo-membrane">LVLDYIGINMASLNSCANPIALYLV</span></span>
+<span class="topo-ruler">       490        </span>
 <span class="topo-line"><span class="topo-inside">SKRFKNAFKSAL</span><span class="topo-unknown">CCWAQS</span></span>
+<details class="topo-details"><summary>Topology coordinates (23 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -335,6 +337,7 @@ the entire peptide.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -350,7 +353,9 @@ the entire peptide.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20 </span>
 <span class="topo-line"><span class="topo-unknown">C</span><span class="topo-outside">SCSSLMDKECVYFCHL</span><span class="topo-unknown">DIIW</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -383,6 +388,7 @@ the entire peptide.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -398,14 +404,15 @@ the entire peptide.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GGGLAPAEVPKGDRTAGSPPRT</span><span class="topo-inside">ISPPPCQGPIEIKET</span><span class="topo-membrane">FKYINTVVSCLVFVLGIIGNSTL</span></span>
-<span class="topo-line"><span class="topo-membrane">LY</span><span class="topo-outside">IIYKNKCMRNGPNIL</span><span class="topo-membrane">IASLALGDLLHIVIAIPINVYKLL</span><span class="topo-inside">AEDWPFGAE</span><span class="topo-membrane">MCKLVPFIQK</span></span>
-<span class="topo-line"><span class="topo-membrane">ASVGITVLSLCAL</span><span class="topo-outside">SIDRYRAVASWSRIKGIGVPKWTA</span><span class="topo-membrane">VEIVLIWVVSVVLAVPEAIGF</span><span class="topo-inside">DI</span></span>
-<span class="topo-line"><span class="topo-inside">ITMDYKGSYLRICLLHPVQKTAF</span><span class="topo-membrane">MQFYATAKDWWLFSFYFCLPLAITAF</span><span class="topo-outside">FYTLMTCEMLR</span></span>
-<span class="topo-line"><span class="topo-outside">KNIFEMLRIDEGGGSGGDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMV</span></span>
-<span class="topo-line"><span class="topo-outside">FQMGETGVAGFTNSLRMLQQKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWDAYLN</span></span>
-<span class="topo-line"><span class="topo-outside">DHLKQRREVAKTVF</span><span class="topo-membrane">CLVLVFALCWLPLHLARILKLTL</span><span class="topo-inside">YNQNDPNRCELLSF</span><span class="topo-membrane">LLVLDYIGI</span></span>
-<span class="topo-line"><span class="topo-membrane">NMASLNSCANPIAL</span><span class="topo-outside">YLVS</span><span class="topo-unknown">KRFKNAFKSALC</span><span class="topo-outside">C</span><span class="topo-unknown">WAQSPSSENLYFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GGGLAPAEVPKGDRTAGSPPRT</span><span class="topo-inside">ISPPPCQGPIEIKET</span><span class="topo-membrane">FKYINTVVSCLVFVLGIIGNSTLLY</span><span class="topo-outside">IIYKNKCMRNGPNIL</span><span class="topo-membrane">IASLALGDLLHIVIAIPINVYKLL</span><span class="topo-inside">AEDWPFGAE</span><span class="topo-membrane">MCKLVPFIQK</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">ASVGITVLSLCAL</span><span class="topo-outside">SIDRYRAVASWSRIKGIGVPKWTA</span><span class="topo-membrane">VEIVLIWVVSVVLAVPEAIGF</span><span class="topo-inside">DIITMDYKGSYLRICLLHPVQKTAF</span><span class="topo-membrane">MQFYATAKDWWLFSFYFCLPLAITAF</span><span class="topo-outside">FYTLMTCEMLR</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">KNIFEMLRIDEGGGSGGDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVFQMGETGVAGFTNSLRMLQQKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWDAYLN</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460    </span>
+<span class="topo-line"><span class="topo-outside">DHLKQRREVAKTVF</span><span class="topo-membrane">CLVLVFALCWLPLHLARILKLTL</span><span class="topo-inside">YNQNDPNRCELLSF</span><span class="topo-membrane">LLVLDYIGINMASLNSCANPIAL</span><span class="topo-outside">YLVS</span><span class="topo-unknown">KRFKNAFKSALC</span><span class="topo-outside">C</span><span class="topo-unknown">WAQSPSSENLYFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -536,6 +543,7 @@ the entire peptide.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

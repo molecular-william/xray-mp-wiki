@@ -144,8 +144,9 @@ The crystal structure of the membrane-integral c14 rotor ring of the proton tran
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">NPLIAAASVIAA</span><span class="topo-membrane">GLAVGLASIGPGVGQGTAAGQ</span><span class="topo-inside">AVEGIARQPEAEGKIR</span><span class="topo-membrane">GTLLLSLAFME</span></span>
-<span class="topo-line"><span class="topo-membrane">ALTIYGLVVALAL</span><span class="topo-outside">LFANP</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        </span>
+<span class="topo-line"><span class="topo-outside">NPLIAAASVIAA</span><span class="topo-membrane">GLAVGLASIGPGVGQGTAAGQ</span><span class="topo-inside">AVEGIARQPEAEGKIR</span><span class="topo-membrane">GTLLLSLAFMEALTIYGLVVALAL</span><span class="topo-outside">LFANP</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -192,6 +193,7 @@ The crystal structure of the membrane-integral c14 rotor ring of the proton tran
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -207,8 +209,9 @@ The crystal structure of the membrane-integral c14 rotor ring of the proton tran
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">NPLIAAASVIAA</span><span class="topo-membrane">GLAVGLASIGPGVGQGTAAGQ</span><span class="topo-inside">AVEGIARQPEAEGKIR</span><span class="topo-membrane">GTLLLSLAFME</span></span>
-<span class="topo-line"><span class="topo-membrane">ALTIYGLVVALAL</span><span class="topo-outside">LFANP</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        </span>
+<span class="topo-line"><span class="topo-outside">NPLIAAASVIAA</span><span class="topo-membrane">GLAVGLASIGPGVGQGTAAGQ</span><span class="topo-inside">AVEGIARQPEAEGKIR</span><span class="topo-membrane">GTLLLSLAFMEALTIYGLVVALAL</span><span class="topo-outside">LFANP</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -255,6 +258,7 @@ The crystal structure of the membrane-integral c14 rotor ring of the proton tran
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -270,8 +274,9 @@ The crystal structure of the membrane-integral c14 rotor ring of the proton tran
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">NPLIAAASVIAA</span><span class="topo-membrane">GLAVGLASIGPGVGQGTAAGQ</span><span class="topo-inside">AVEGIARQPEAEGKIR</span><span class="topo-membrane">GTLLLSLAFME</span></span>
-<span class="topo-line"><span class="topo-membrane">ALTIYGLVVALAL</span><span class="topo-outside">LFANP</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        </span>
+<span class="topo-line"><span class="topo-outside">NPLIAAASVIAA</span><span class="topo-membrane">GLAVGLASIGPGVGQGTAAGQ</span><span class="topo-inside">AVEGIARQPEAEGKIR</span><span class="topo-membrane">GTLLLSLAFMEALTIYGLVVALAL</span><span class="topo-outside">LFANP</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -318,6 +323,7 @@ The crystal structure of the membrane-integral c14 rotor ring of the proton tran
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -333,8 +339,9 @@ The crystal structure of the membrane-integral c14 rotor ring of the proton tran
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">NPLIAAASVIAA</span><span class="topo-membrane">GLAVGLASIGPGVGQGTAAGQ</span><span class="topo-inside">AVEGIARQPEAEGKIR</span><span class="topo-membrane">GTLLLSLAFME</span></span>
-<span class="topo-line"><span class="topo-membrane">ALTIYGLVVALAL</span><span class="topo-outside">LFANP</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        </span>
+<span class="topo-line"><span class="topo-outside">NPLIAAASVIAA</span><span class="topo-membrane">GLAVGLASIGPGVGQGTAAGQ</span><span class="topo-inside">AVEGIARQPEAEGKIR</span><span class="topo-membrane">GTLLLSLAFMEALTIYGLVVALAL</span><span class="topo-outside">LFANP</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -381,6 +388,7 @@ The crystal structure of the membrane-integral c14 rotor ring of the proton tran
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -396,8 +404,9 @@ The crystal structure of the membrane-integral c14 rotor ring of the proton tran
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">NPLIAAASVIAA</span><span class="topo-membrane">GLAVGLASIGPGVGQGTAAGQ</span><span class="topo-inside">AVEGIARQPEAEGKIR</span><span class="topo-membrane">GTLLLSLAFME</span></span>
-<span class="topo-line"><span class="topo-membrane">ALTIYGLVVALAL</span><span class="topo-outside">LFANP</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        </span>
+<span class="topo-line"><span class="topo-outside">NPLIAAASVIAA</span><span class="topo-membrane">GLAVGLASIGPGVGQGTAAGQ</span><span class="topo-inside">AVEGIARQPEAEGKIR</span><span class="topo-membrane">GTLLLSLAFMEALTIYGLVVALAL</span><span class="topo-outside">LFANP</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -444,6 +453,7 @@ The crystal structure of the membrane-integral c14 rotor ring of the proton tran
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -459,8 +469,9 @@ The crystal structure of the membrane-integral c14 rotor ring of the proton tran
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">NPLIAAASVIAA</span><span class="topo-membrane">GLAVGLASIGPGVGQGTAAGQ</span><span class="topo-inside">AVEGIARQPEAEGKIR</span><span class="topo-membrane">GTLLLSLAFME</span></span>
-<span class="topo-line"><span class="topo-membrane">ALTIYGLVVALAL</span><span class="topo-outside">LFANP</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        </span>
+<span class="topo-line"><span class="topo-outside">NPLIAAASVIAA</span><span class="topo-membrane">GLAVGLASIGPGVGQGTAAGQ</span><span class="topo-inside">AVEGIARQPEAEGKIR</span><span class="topo-membrane">GTLLLSLAFMEALTIYGLVVALAL</span><span class="topo-outside">LFANP</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -507,6 +518,7 @@ The crystal structure of the membrane-integral c14 rotor ring of the proton tran
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -522,8 +534,9 @@ The crystal structure of the membrane-integral c14 rotor ring of the proton tran
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">NPLIAAASVIAA</span><span class="topo-membrane">GLAVGLASIGPGVGQGTAAGQ</span><span class="topo-inside">AVEGIARQPEAEGKIR</span><span class="topo-membrane">GTLLLSLAFME</span></span>
-<span class="topo-line"><span class="topo-membrane">ALTIYGLVVALALL</span><span class="topo-outside">FANP</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        </span>
+<span class="topo-line"><span class="topo-outside">NPLIAAASVIAA</span><span class="topo-membrane">GLAVGLASIGPGVGQGTAAGQ</span><span class="topo-inside">AVEGIARQPEAEGKIR</span><span class="topo-membrane">GTLLLSLAFMEALTIYGLVVALALL</span><span class="topo-outside">FANP</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -570,6 +583,7 @@ The crystal structure of the membrane-integral c14 rotor ring of the proton tran
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -585,8 +599,9 @@ The crystal structure of the membrane-integral c14 rotor ring of the proton tran
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">NPLIAAASVIAA</span><span class="topo-membrane">GLAVGLASIGPGVGQGTAAGQ</span><span class="topo-inside">AVEGIARQPEAEGKIR</span><span class="topo-membrane">GTLLLSLAFME</span></span>
-<span class="topo-line"><span class="topo-membrane">ALTIYGLVVALALL</span><span class="topo-outside">FANP</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        </span>
+<span class="topo-line"><span class="topo-outside">NPLIAAASVIAA</span><span class="topo-membrane">GLAVGLASIGPGVGQGTAAGQ</span><span class="topo-inside">AVEGIARQPEAEGKIR</span><span class="topo-membrane">GTLLLSLAFMEALTIYGLVVALALL</span><span class="topo-outside">FANP</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -633,6 +648,7 @@ The crystal structure of the membrane-integral c14 rotor ring of the proton tran
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -648,8 +664,9 @@ The crystal structure of the membrane-integral c14 rotor ring of the proton tran
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">NPLIAAASVIAA</span><span class="topo-membrane">GLAVGLASIGPGVGQGTAAGQ</span><span class="topo-inside">AVEGIARQPEAEGKIRG</span><span class="topo-membrane">TLLLSLAFME</span></span>
-<span class="topo-line"><span class="topo-membrane">ALTIYGLVVALALL</span><span class="topo-outside">FANP</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        </span>
+<span class="topo-line"><span class="topo-outside">NPLIAAASVIAA</span><span class="topo-membrane">GLAVGLASIGPGVGQGTAAGQ</span><span class="topo-inside">AVEGIARQPEAEGKIRG</span><span class="topo-membrane">TLLLSLAFMEALTIYGLVVALALL</span><span class="topo-outside">FANP</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -696,6 +713,7 @@ The crystal structure of the membrane-integral c14 rotor ring of the proton tran
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -711,8 +729,9 @@ The crystal structure of the membrane-integral c14 rotor ring of the proton tran
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">NPLIAAASVIAA</span><span class="topo-membrane">GLAVGLASIGPGVGQGTAAGQ</span><span class="topo-inside">AVEGIARQPEAEGKIRG</span><span class="topo-membrane">TLLLSLAFME</span></span>
-<span class="topo-line"><span class="topo-membrane">ALTIYGLVVALALLF</span><span class="topo-outside">ANP</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        </span>
+<span class="topo-line"><span class="topo-outside">NPLIAAASVIAA</span><span class="topo-membrane">GLAVGLASIGPGVGQGTAAGQ</span><span class="topo-inside">AVEGIARQPEAEGKIRG</span><span class="topo-membrane">TLLLSLAFMEALTIYGLVVALALLF</span><span class="topo-outside">ANP</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -759,6 +778,7 @@ The crystal structure of the membrane-integral c14 rotor ring of the proton tran
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -774,8 +794,9 @@ The crystal structure of the membrane-integral c14 rotor ring of the proton tran
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">NPLIAAASVIAA</span><span class="topo-membrane">GLAVGLASIGPGVGQGTAAGQ</span><span class="topo-inside">AVEGIARQPEAEGKIRG</span><span class="topo-membrane">TLLLSLAFME</span></span>
-<span class="topo-line"><span class="topo-membrane">ALTIYGLVVALALLF</span><span class="topo-outside">ANP</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        </span>
+<span class="topo-line"><span class="topo-outside">NPLIAAASVIAA</span><span class="topo-membrane">GLAVGLASIGPGVGQGTAAGQ</span><span class="topo-inside">AVEGIARQPEAEGKIRG</span><span class="topo-membrane">TLLLSLAFMEALTIYGLVVALALLF</span><span class="topo-outside">ANP</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -822,6 +843,7 @@ The crystal structure of the membrane-integral c14 rotor ring of the proton tran
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -837,8 +859,9 @@ The crystal structure of the membrane-integral c14 rotor ring of the proton tran
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">NPLIAAASVIAA</span><span class="topo-membrane">GLAVGLASIGPGVGQGTAAGQ</span><span class="topo-inside">AVEGIARQPEAEGKIR</span><span class="topo-membrane">GTLLLSLAFME</span></span>
-<span class="topo-line"><span class="topo-membrane">ALTIYGLVVALALL</span><span class="topo-outside">FANP</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        </span>
+<span class="topo-line"><span class="topo-outside">NPLIAAASVIAA</span><span class="topo-membrane">GLAVGLASIGPGVGQGTAAGQ</span><span class="topo-inside">AVEGIARQPEAEGKIR</span><span class="topo-membrane">GTLLLSLAFMEALTIYGLVVALALL</span><span class="topo-outside">FANP</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -885,6 +908,7 @@ The crystal structure of the membrane-integral c14 rotor ring of the proton tran
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -900,8 +924,9 @@ The crystal structure of the membrane-integral c14 rotor ring of the proton tran
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">NPLIAAASVIAA</span><span class="topo-membrane">GLAVGLASIGPGVGQGTAAGQ</span><span class="topo-inside">AVEGIARQPEAEGKIR</span><span class="topo-membrane">GTLLLSLAFME</span></span>
-<span class="topo-line"><span class="topo-membrane">ALTIYGLVVALALL</span><span class="topo-outside">FANP</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        </span>
+<span class="topo-line"><span class="topo-outside">NPLIAAASVIAA</span><span class="topo-membrane">GLAVGLASIGPGVGQGTAAGQ</span><span class="topo-inside">AVEGIARQPEAEGKIR</span><span class="topo-membrane">GTLLLSLAFMEALTIYGLVVALALL</span><span class="topo-outside">FANP</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -948,6 +973,7 @@ The crystal structure of the membrane-integral c14 rotor ring of the proton tran
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -963,8 +989,9 @@ The crystal structure of the membrane-integral c14 rotor ring of the proton tran
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">NPLIAAASVIAA</span><span class="topo-membrane">GLAVGLASIGPGVGQGTAAGQ</span><span class="topo-inside">AVEGIARQPEAEGKIR</span><span class="topo-membrane">GTLLLSLAFME</span></span>
-<span class="topo-line"><span class="topo-membrane">ALTIYGLVVALAL</span><span class="topo-outside">LFANP</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        </span>
+<span class="topo-line"><span class="topo-outside">NPLIAAASVIAA</span><span class="topo-membrane">GLAVGLASIGPGVGQGTAAGQ</span><span class="topo-inside">AVEGIARQPEAEGKIR</span><span class="topo-membrane">GTLLLSLAFMEALTIYGLVVALAL</span><span class="topo-outside">LFANP</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1011,6 +1038,7 @@ The crystal structure of the membrane-integral c14 rotor ring of the proton tran
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

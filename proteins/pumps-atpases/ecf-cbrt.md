@@ -127,10 +127,11 @@ ECF-CbrT is an Energy Coupling Factor (ECF)-type ABC transporter from Lactobacil
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MQTKER</span><span class="topo-inside">YQLQRLTLLALLTAMCVVLRIFKIIDIPNVQPVTDIIMLTTLELGAGTGILLAI</span></span>
-<span class="topo-line"><span class="topo-inside">LVMVISNIFLGFGIWTLPQIFAYAACALTVALFAR</span><span class="topo-unknown">LLPLKSRKFF</span><span class="topo-inside">WLQELLAGFLGLEYG</span></span>
-<span class="topo-line"><span class="topo-inside">FFVSLGMAGWGGWAAFIAYWVSGLTFDLYHAAGNLAFYPIFYLPLVLGLDRFKKKA</span><span class="topo-unknown">GWKQ</span></span>
-<span class="topo-line"><span class="topo-unknown">NA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MQTKER</span><span class="topo-inside">YQLQRLTLLALLTAMCVVLRIFKIIDIPNVQPVTDIIMLTTLELGAGTGILLAILVMVISNIFLGFGIWTLPQIFAYAACALTVALFAR</span><span class="topo-unknown">LLPLKSRKFF</span><span class="topo-inside">WLQELLAGFLGLEYG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180  </span>
+<span class="topo-line"><span class="topo-inside">FFVSLGMAGWGGWAAFIAYWVSGLTFDLYHAAGNLAFYPIFYLPLVLGLDRFKKKA</span><span class="topo-unknown">GWKQNA</span></span>
+<details class="topo-details"><summary>Topology coordinates (2 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -156,6 +157,7 @@ ECF-CbrT is an Energy Coupling Factor (ECF)-type ABC transporter from Lactobacil
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -171,11 +173,13 @@ ECF-CbrT is an Energy Coupling Factor (ECF)-type ABC transporter from Lactobacil
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MHHHHHHHHHHGENLYFQ</span><span class="topo-inside">GSDNIISFDHVTFTYPDSPRPALSDLSFAIERGSWTALIGHN</span></span>
-<span class="topo-line"><span class="topo-inside">GSGKSTVSKLINGLLAPDDLDKSSITVDGVKLGADTVWEVREKVGIVFQNPDNQFVGATV</span></span>
-<span class="topo-line"><span class="topo-inside">SDDVAFGLENRAVPRPEMLKIVAQAVADVGMADYADSEPSNLSGGQKQRVAIAGILAVKP</span></span>
-<span class="topo-line"><span class="topo-inside">QVIILDESTSMLDPEGKEQILDLVRKIKEDNNLTVISITHDLEEAAGADQVLVLDDGQLL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MHHHHHHHHHHGENLYFQ</span><span class="topo-inside">GSDNIISFDHVTFTYPDSPRPALSDLSFAIERGSWTALIGHNGSGKSTVSKLINGLLAPDDLDKSSITVDGVKLGADTVWEVREKVGIVFQNPDNQFVGATV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">SDDVAFGLENRAVPRPEMLKIVAQAVADVGMADYADSEPSNLSGGQKQRVAIAGILAVKPQVIILDESTSMLDPEGKEQILDLVRKIKEDNNLTVISITHDLEEAAGADQVLVLDDGQLL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300</span>
 <span class="topo-line"><span class="topo-inside">DQGKPEEIFPKVEMLKRIGLDIPFVYRLKQLLKERGIVLPDEIDDDEKLVQSLWQLNS</span><span class="topo-unknown">KM</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -194,6 +198,7 @@ ECF-CbrT is an Energy Coupling Factor (ECF)-type ABC transporter from Lactobacil
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -209,11 +214,13 @@ ECF-CbrT is an Energy Coupling Factor (ECF)-type ABC transporter from Lactobacil
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MAIKFENVSYVYSPGSPLEAIGLDQLNFSLEEGKFIALVGHTGSGKSTLMQHFNALLKPT</span></span>
-<span class="topo-line"><span class="topo-inside">SGKIEIAGYTITPETGNKGLKDLRRKVSLAFQFSEAQLFENTVLKDVEYGPRNFGFSEDE</span></span>
-<span class="topo-line"><span class="topo-inside">AREAALKWLKKVGLKDDLIEHSPFDLSGGQMRRVALAGVLAYEPEIICLDEPAAGLDPMG</span></span>
-<span class="topo-line"><span class="topo-inside">RLEMMQLFKDYQAAGHTVILVTHNMDDVADYADDVLALEHGRLIKHASPKEVFKDSEWLQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">MAIKFENVSYVYSPGSPLEAIGLDQLNFSLEEGKFIALVGHTGSGKSTLMQHFNALLKPTSGKIEIAGYTITPETGNKGLKDLRRKVSLAFQFSEAQLFENTVLKDVEYGPRNFGFSEDE</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">AREAALKWLKKVGLKDDLIEHSPFDLSGGQMRRVALAGVLAYEPEIICLDEPAAGLDPMGRLEMMQLFKDYQAAGHTVILVTHNMDDVADYADDVLALEHGRLIKHASPKEVFKDSEWLQ</span></span>
+<span class="topo-ruler">       250       260       270       280       </span>
 <span class="topo-line"><span class="topo-inside">KHHLAEPRSARFAAKLEAAGLKLPGQPLTMPELADAIKQSLK</span><span class="topo-unknown">GGEHE</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -232,6 +239,7 @@ ECF-CbrT is an Energy Coupling Factor (ECF)-type ABC transporter from Lactobacil
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -247,11 +255,13 @@ ECF-CbrT is an Energy Coupling Factor (ECF)-type ABC transporter from Lactobacil
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSKII</span><span class="topo-inside">IGRYLPGTTFVYRVDPRAKLL</span><span class="topo-membrane">TTFYFIIMIFLANNW</span><span class="topo-outside">V</span><span class="topo-membrane">SYLVISIFGLAYVF</span><span class="topo-inside">ATGL</span></span>
-<span class="topo-line"><span class="topo-inside">KARVFWDGVKPMI</span><span class="topo-membrane">WMIVFTSLLQTFF</span><span class="topo-outside">MAGGKVYWHWWIFTLSSEG</span><span class="topo-membrane">LINGLYVFIRFAMII</span></span>
-<span class="topo-line"><span class="topo-membrane">LV</span><span class="topo-inside">STVMTVTTKPLEIADAMEWMLTPLKLFKVNVGMISLVISIALRFVPTLFDQTVKIMNA</span></span>
-<span class="topo-line"><span class="topo-inside">QRSRGADFNDGGLVKRAKSVVPMLVPLFIDSLEVALDLSTAMESRGYKGSEGRTRYRILE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSKII</span><span class="topo-inside">IGRYLPGTTFVYRVDPRAKLL</span><span class="topo-membrane">TTFYFIIMIFLANNW</span><span class="topo-outside">V</span><span class="topo-membrane">SYLVISIFGLAYVF</span><span class="topo-inside">ATGLKARVFWDGVKPMI</span><span class="topo-membrane">WMIVFTSLLQTFF</span><span class="topo-outside">MAGGKVYWHWWIFTLSSEG</span><span class="topo-membrane">LINGLYVFIRFAMII</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">LV</span><span class="topo-inside">STVMTVTTKPLEIADAMEWMLTPLKLFKVNVGMISLVISIALRFVPTLFDQTVKIMNAQRSRGADFNDGGLVKRAKSVVPMLVPLFIDSLEVALDLSTAMESRGYKGSEGRTRYRILE</span></span>
+<span class="topo-ruler">       250       260     </span>
 <span class="topo-line"><span class="topo-inside">WSKVDL</span><span class="topo-membrane">IPVAYCLLLTILMIT</span><span class="topo-outside">TRK</span><span class="topo-unknown">H</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -340,6 +350,7 @@ ECF-CbrT is an Energy Coupling Factor (ECF)-type ABC transporter from Lactobacil
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -355,11 +366,13 @@ ECF-CbrT is an Energy Coupling Factor (ECF)-type ABC transporter from Lactobacil
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MAIKFENVSYVYSPGSPLEAIGLDQLNFSLEEGKFIALVGHTGSGKSTLMQHFNALLKPT</span></span>
-<span class="topo-line"><span class="topo-inside">SGKIEIAGYTITPETGNKGLKDLRRKVSLAFQFSEAQLFENTVLKDVEYGPRNFGFSEDE</span></span>
-<span class="topo-line"><span class="topo-inside">AREAALKWLKKVGLKDDLIEHSPFDLSGGQMRRVALAGVLAYEPEIICLDEPAAGLDPMG</span></span>
-<span class="topo-line"><span class="topo-inside">RLEMMQLFKDYQAAGHTVILVTHNMDDVADYADDVLALEHGRLIKHASPKEVFKDSEWLQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">MAIKFENVSYVYSPGSPLEAIGLDQLNFSLEEGKFIALVGHTGSGKSTLMQHFNALLKPTSGKIEIAGYTITPETGNKGLKDLRRKVSLAFQFSEAQLFENTVLKDVEYGPRNFGFSEDE</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">AREAALKWLKKVGLKDDLIEHSPFDLSGGQMRRVALAGVLAYEPEIICLDEPAAGLDPMGRLEMMQLFKDYQAAGHTVILVTHNMDDVADYADDVLALEHGRLIKHASPKEVFKDSEWLQ</span></span>
+<span class="topo-ruler">       250       260       270       280       </span>
 <span class="topo-line"><span class="topo-inside">KHHLAEPRSARFAAKLEAAGLKLPGQPLTMPELADAIKQSLK</span><span class="topo-unknown">GGEHE</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -378,6 +391,7 @@ ECF-CbrT is an Energy Coupling Factor (ECF)-type ABC transporter from Lactobacil
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

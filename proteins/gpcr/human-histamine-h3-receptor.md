@@ -119,13 +119,15 @@ The human histamine H3 receptor (H3R) is a [G Protein](/xray-mp-wiki/concepts/si
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">RGFSAAWTAVL</span><span class="topo-membrane">AALMALLIVATVLGNALVMLAFVA</span><span class="topo-outside">DSSLRTQNNF</span><span class="topo-membrane">FLLNLAISDFLVGAF</span></span>
-<span class="topo-line"><span class="topo-membrane">CIPLYV</span><span class="topo-inside">PYVLTGRWTFGRGLCK</span><span class="topo-membrane">LWLVVDYLLCTSKAFNIVLI</span><span class="topo-outside">SYDRFLSVTRAVSYRAQQ</span></span>
-<span class="topo-line"><span class="topo-outside">GDTRRAV</span><span class="topo-membrane">RKMLLVWVLAFLLYGPAILSW</span><span class="topo-inside">EYLSGGSSIPEGHCYAEFFYN</span><span class="topo-membrane">WYFLITASTLE</span></span>
-<span class="topo-line"><span class="topo-membrane">FFTPFLSVT</span><span class="topo-outside">FFNLSIYLNIQRRTRLRLDGAREAAG</span><span class="topo-unknown">PEPPPEAQPSPPPPPGCWGCWQKGH</span></span>
-<span class="topo-line"><span class="topo-unknown">GEAMPLHRYGVGEAAVGAEAGEATLGGGGGGGSVASPTSSSGSSSRGTERPRSLKRGSKP</span></span>
-<span class="topo-line"><span class="topo-unknown">SASSASLEKRMKMVSQSFTQ</span><span class="topo-outside">RFRLSRDRKVAKSLA</span><span class="topo-membrane">VIVSIFGLCWAPYTLLMIIRAACH</span><span class="topo-inside">G</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">RGFSAAWTAVL</span><span class="topo-membrane">AALMALLIVATVLGNALVMLAFVA</span><span class="topo-outside">DSSLRTQNNF</span><span class="topo-membrane">FLLNLAISDFLVGAFCIPLYV</span><span class="topo-inside">PYVLTGRWTFGRGLCK</span><span class="topo-membrane">LWLVVDYLLCTSKAFNIVLI</span><span class="topo-outside">SYDRFLSVTRAVSYRAQQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">GDTRRAV</span><span class="topo-membrane">RKMLLVWVLAFLLYGPAILSW</span><span class="topo-inside">EYLSGGSSIPEGHCYAEFFYN</span><span class="topo-membrane">WYFLITASTLEFFTPFLSVT</span><span class="topo-outside">FFNLSIYLNIQRRTRLRLDGAREAAG</span><span class="topo-unknown">PEPPPEAQPSPPPPPGCWGCWQKGH</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-unknown">GEAMPLHRYGVGEAAVGAEAGEATLGGGGGGGSVASPTSSSGSSSRGTERPRSLKRGSKPSASSASLEKRMKMVSQSFTQ</span><span class="topo-outside">RFRLSRDRKVAKSLA</span><span class="topo-membrane">VIVSIFGLCWAPYTLLMIIRAACH</span><span class="topo-inside">G</span></span>
+<span class="topo-ruler">       370       380       390       400       </span>
 <span class="topo-line"><span class="topo-inside">HCVPDY</span><span class="topo-membrane">WYETSFWLLWANSAVNPVLYPL</span><span class="topo-outside">CHHSFRRAFTKLLCPQKL</span><span class="topo-unknown">K</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -263,6 +265,7 @@ The human histamine H3 receptor (H3R) is a [G Protein](/xray-mp-wiki/concepts/si
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -278,9 +281,11 @@ The human histamine H3 receptor (H3R) is a [G Protein](/xray-mp-wiki/concepts/si
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MKTIIALSYIFCLVFADYKDDDDKHHHHHHHHHHENLYFQG</span><span class="topo-inside">ADLEDNWETLNDNLKVIEK</span></span>
-<span class="topo-line"><span class="topo-inside">ADNAAQVKDALTKMRAAALDAQKATPPKLEDKSPDSPEMKDFRHGFDILVGQIDDALKLA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MKTIIALSYIFCLVFADYKDDDDKHHHHHHHHHHENLYFQG</span><span class="topo-inside">ADLEDNWETLNDNLKVIEKADNAAQVKDALTKMRAAALDAQKATPPKLEDKSPDSPEMKDFRHGFDILVGQIDDALKLA</span></span>
+<span class="topo-ruler">       130       140       </span>
 <span class="topo-line"><span class="topo-inside">NEGKVKEAQAAAEQLKTTRNAYIQKYL</span></span>
+<details class="topo-details"><summary>Topology coordinates (2 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -306,6 +311,7 @@ The human histamine H3 receptor (H3R) is a [G Protein](/xray-mp-wiki/concepts/si
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

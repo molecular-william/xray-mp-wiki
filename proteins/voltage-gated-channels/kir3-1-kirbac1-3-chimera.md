@@ -159,12 +159,13 @@ The Kir3.1 (GIRK1) K+ channel is a G-protein-gated inward rectifier that partici
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GS</span><span class="topo-outside">KKRQRFVDKNGRCNVQHGN</span><span class="topo-unknown">LGSETSR</span><span class="topo-outside">YL</span><span class="topo-unknown">SDLFTTLVD</span><span class="topo-outside">LK</span><span class="topo-membrane">WRWFFVSLAVLFLLLNTAF</span></span>
-<span class="topo-line"><span class="topo-membrane">ATLYMLG</span><span class="topo-inside">SAPIANQFPAGF</span><span class="topo-unknown">GGAFFFSVETLATVGYG</span><span class="topo-inside">DMHPQTV</span><span class="topo-membrane">YAHWIATLEIFVGMSSI</span></span>
-<span class="topo-line"><span class="topo-membrane">ALATGCAF</span><span class="topo-outside">IKMSQPKKRAETLMFSEHAVISMRDGKLTLMFRVGNLRNSHMVSAQIRCKLL</span></span>
-<span class="topo-line"><span class="topo-outside">KSRQTPEGEFLPLDQLELDVGFSTGADQLFLVSPLTICHVIDAKSPFYDLSQRSMQTEQF</span></span>
-<span class="topo-line"><span class="topo-outside">EVVVILEGIVETTGMTCQARTSYTEDEVLWGHRFFPVISLEEGFFKVDYSQFHATFEVPT</span></span>
-<span class="topo-line"><span class="topo-outside">PPYSVKEQEEM</span><span class="topo-unknown">LLMSSPLVPR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GS</span><span class="topo-outside">KKRQRFVDKNGRCNVQHGN</span><span class="topo-unknown">LGSETSR</span><span class="topo-outside">YL</span><span class="topo-unknown">SDLFTTLVD</span><span class="topo-outside">LK</span><span class="topo-membrane">WRWFFVSLAVLFLLLNTAFATLYMLG</span><span class="topo-inside">SAPIANQFPAGF</span><span class="topo-unknown">GGAFFFSVETLATVGYG</span><span class="topo-inside">DMHPQTV</span><span class="topo-membrane">YAHWIATLEIFVGMSSI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">ALATGCAF</span><span class="topo-outside">IKMSQPKKRAETLMFSEHAVISMRDGKLTLMFRVGNLRNSHMVSAQIRCKLLKSRQTPEGEFLPLDQLELDVGFSTGADQLFLVSPLTICHVIDAKSPFYDLSQRSMQTEQF</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320 </span>
+<span class="topo-line"><span class="topo-outside">EVVVILEGIVETTGMTCQARTSYTEDEVLWGHRFFPVISLEEGFFKVDYSQFHATFEVPTPPYSVKEQEEM</span><span class="topo-unknown">LLMSSPLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (13 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -267,6 +268,7 @@ The Kir3.1 (GIRK1) K+ channel is a G-protein-gated inward rectifier that partici
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -282,12 +284,13 @@ The Kir3.1 (GIRK1) K+ channel is a G-protein-gated inward rectifier that partici
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GS</span><span class="topo-outside">KKRQRFVDKNGRCNVQHGN</span><span class="topo-unknown">LGSETSR</span><span class="topo-outside">YL</span><span class="topo-unknown">SDLFTTLVD</span><span class="topo-outside">LK</span><span class="topo-membrane">WRWFFVSLAVLFLLLNTAF</span></span>
-<span class="topo-line"><span class="topo-membrane">ATLYMLG</span><span class="topo-inside">SAPIANQFPAGF</span><span class="topo-unknown">GGAFFFSVETLATVGYG</span><span class="topo-inside">DMHPQTV</span><span class="topo-membrane">YAHWIATLEIFVGMSSI</span></span>
-<span class="topo-line"><span class="topo-membrane">ALATGCAF</span><span class="topo-outside">IKMSQPKKRAETLMFSEHAVISMRDGKLTLMFRVGNLRNSHMVSAQIRCKLL</span></span>
-<span class="topo-line"><span class="topo-outside">KSRQTPEGEFLPLDQLELDVGFSTGADQLFLVSPLTICHVIDAKSPFYDLSQRSMQTEQF</span></span>
-<span class="topo-line"><span class="topo-outside">EVVVILEGIVETTGMTCQARTSYTEDEVLWGHRFFPVISLEEGFFKVDYSQFHATFEVPT</span></span>
-<span class="topo-line"><span class="topo-outside">PPYSVKEQEEM</span><span class="topo-unknown">LLMSSPLVPR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GS</span><span class="topo-outside">KKRQRFVDKNGRCNVQHGN</span><span class="topo-unknown">LGSETSR</span><span class="topo-outside">YL</span><span class="topo-unknown">SDLFTTLVD</span><span class="topo-outside">LK</span><span class="topo-membrane">WRWFFVSLAVLFLLLNTAFATLYMLG</span><span class="topo-inside">SAPIANQFPAGF</span><span class="topo-unknown">GGAFFFSVETLATVGYG</span><span class="topo-inside">DMHPQTV</span><span class="topo-membrane">YAHWIATLEIFVGMSSI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">ALATGCAF</span><span class="topo-outside">IKMSQPKKRAETLMFSEHAVISMRDGKLTLMFRVGNLRNSHMVSAQIRCKLLKSRQTPEGEFLPLDQLELDVGFSTGADQLFLVSPLTICHVIDAKSPFYDLSQRSMQTEQF</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320 </span>
+<span class="topo-line"><span class="topo-outside">EVVVILEGIVETTGMTCQARTSYTEDEVLWGHRFFPVISLEEGFFKVDYSQFHATFEVPTPPYSVKEQEEM</span><span class="topo-unknown">LLMSSPLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (13 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -390,6 +393,7 @@ The Kir3.1 (GIRK1) K+ channel is a G-protein-gated inward rectifier that partici
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -405,12 +409,13 @@ The Kir3.1 (GIRK1) K+ channel is a G-protein-gated inward rectifier that partici
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GS</span><span class="topo-outside">KKRQRFVDKNGRCNVQHGN</span><span class="topo-unknown">LGSETSR</span><span class="topo-outside">YL</span><span class="topo-unknown">SDLFTTLVD</span><span class="topo-outside">LK</span><span class="topo-membrane">WRWFFVSLAVLFLLLNTAF</span></span>
-<span class="topo-line"><span class="topo-membrane">ATLYMLG</span><span class="topo-inside">SAPIANQFPAGF</span><span class="topo-unknown">GGAFFFSVETLATVGYG</span><span class="topo-inside">DMHPQTV</span><span class="topo-membrane">YAHWIATLEIFVGMSSI</span></span>
-<span class="topo-line"><span class="topo-membrane">ALATGCAF</span><span class="topo-outside">IKMSQPKKRAETLMFSEHAVISMRDGKLTLMFRVGNLRNSHMVSAQIRCKLL</span></span>
-<span class="topo-line"><span class="topo-outside">KSRQTPEGEFLPLDQLELDVGFSTGADQLFLVSPLTICHVIDAKSPFYDLSQRSMQTEQF</span></span>
-<span class="topo-line"><span class="topo-outside">EVVVILEGIVETTGMTCQARTSYTEDEVLWGHRFFPVISLEEGFFKVDYSQFHATFEVPT</span></span>
-<span class="topo-line"><span class="topo-outside">PPYSVKEQEEM</span><span class="topo-unknown">LLMSSPLVPR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GS</span><span class="topo-outside">KKRQRFVDKNGRCNVQHGN</span><span class="topo-unknown">LGSETSR</span><span class="topo-outside">YL</span><span class="topo-unknown">SDLFTTLVD</span><span class="topo-outside">LK</span><span class="topo-membrane">WRWFFVSLAVLFLLLNTAFATLYMLG</span><span class="topo-inside">SAPIANQFPAGF</span><span class="topo-unknown">GGAFFFSVETLATVGYG</span><span class="topo-inside">DMHPQTV</span><span class="topo-membrane">YAHWIATLEIFVGMSSI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">ALATGCAF</span><span class="topo-outside">IKMSQPKKRAETLMFSEHAVISMRDGKLTLMFRVGNLRNSHMVSAQIRCKLLKSRQTPEGEFLPLDQLELDVGFSTGADQLFLVSPLTICHVIDAKSPFYDLSQRSMQTEQF</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320 </span>
+<span class="topo-line"><span class="topo-outside">EVVVILEGIVETTGMTCQARTSYTEDEVLWGHRFFPVISLEEGFFKVDYSQFHATFEVPTPPYSVKEQEEM</span><span class="topo-unknown">LLMSSPLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (13 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -513,6 +518,7 @@ The Kir3.1 (GIRK1) K+ channel is a G-protein-gated inward rectifier that partici
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -528,12 +534,13 @@ The Kir3.1 (GIRK1) K+ channel is a G-protein-gated inward rectifier that partici
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GS</span><span class="topo-outside">KKRQRFVDKNGRCNVQHGN</span><span class="topo-unknown">LGSETSR</span><span class="topo-outside">YL</span><span class="topo-unknown">SDLFTTLVD</span><span class="topo-outside">LK</span><span class="topo-membrane">WRWFFVSLAVLFLLLNTAF</span></span>
-<span class="topo-line"><span class="topo-membrane">ATLYMLG</span><span class="topo-inside">SAPIANQFPAGF</span><span class="topo-unknown">GGAFFFSVETLATVGYG</span><span class="topo-inside">DMHPQTV</span><span class="topo-membrane">YAHWIATLEIFVGMSSI</span></span>
-<span class="topo-line"><span class="topo-membrane">ALATGCAF</span><span class="topo-outside">IKMSQPKKRAETLMFSEHAVISMRDGKLTLMFRVGNLRNSHMVSAQIRCKLL</span></span>
-<span class="topo-line"><span class="topo-outside">KSRQTPEGEFLPLDQLELDVGFSTGADQLFLVSPLTICHVIDAKSPFYDLSQRSMQTEQF</span></span>
-<span class="topo-line"><span class="topo-outside">EVVVILEGIVETTGMTCQARTSYTEDEVLWGHRFFPVISLEEGFFKVDYSQFHATFEVPT</span></span>
-<span class="topo-line"><span class="topo-outside">PPYSVKEQEEM</span><span class="topo-unknown">LLMSSPLVPR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GS</span><span class="topo-outside">KKRQRFVDKNGRCNVQHGN</span><span class="topo-unknown">LGSETSR</span><span class="topo-outside">YL</span><span class="topo-unknown">SDLFTTLVD</span><span class="topo-outside">LK</span><span class="topo-membrane">WRWFFVSLAVLFLLLNTAFATLYMLG</span><span class="topo-inside">SAPIANQFPAGF</span><span class="topo-unknown">GGAFFFSVETLATVGYG</span><span class="topo-inside">DMHPQTV</span><span class="topo-membrane">YAHWIATLEIFVGMSSI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">ALATGCAF</span><span class="topo-outside">IKMSQPKKRAETLMFSEHAVISMRDGKLTLMFRVGNLRNSHMVSAQIRCKLLKSRQTPEGEFLPLDQLELDVGFSTGADQLFLVSPLTICHVIDAKSPFYDLSQRSMQTEQF</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320 </span>
+<span class="topo-line"><span class="topo-outside">EVVVILEGIVETTGMTCQARTSYTEDEVLWGHRFFPVISLEEGFFKVDYSQFHATFEVPTPPYSVKEQEEM</span><span class="topo-unknown">LLMSSPLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (13 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -636,6 +643,7 @@ The Kir3.1 (GIRK1) K+ channel is a G-protein-gated inward rectifier that partici
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

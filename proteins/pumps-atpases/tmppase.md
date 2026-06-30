@@ -114,19 +114,21 @@ TmPPase (H+-pumping inorganic pyrophosphatase from Thermotoga maritima) is a mem
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MRGSHHHHHH</span><span class="topo-outside">YVAAL</span><span class="topo-membrane">FFLIPLVALGFAAAN</span><span class="topo-inside">FAAVVRKPE</span><span class="topo-unknown">G</span><span class="topo-inside">TERMKEISSYIRSGADSFLA</span></span>
-<span class="topo-line"><span class="topo-inside">HET</span><span class="topo-membrane">KAIFKVAIVIAILLM</span><span class="topo-outside">IFTTWQTG</span><span class="topo-membrane">VAFLLGAVMSASAGIV</span><span class="topo-inside">GMKMATRANVRVAEAART</span></span>
-<span class="topo-line"><span class="topo-inside">TKKIGPALKVAYQGGS</span><span class="topo-membrane">VMGLSVGGFALLGLVLV</span><span class="topo-outside">YLIFGKWMGQVDNLNIYTNWLGINFVP</span></span>
-<span class="topo-line"><span class="topo-outside">FAMTV</span><span class="topo-membrane">SGYALGCSIIAMFDRV</span><span class="topo-inside">GGGVYTKAADMAADLVGK</span><span class="topo-unknown">TELNLPEDDPR</span><span class="topo-inside">NPATIADNVG</span></span>
-<span class="topo-line"><span class="topo-inside">DNVGDVA</span><span class="topo-membrane">GLGADLLESFVGAIVS</span><span class="topo-outside">SIILASYMFPIYVQKIGENLVHQVPKETIQALISYPI</span></span>
-<span class="topo-line"><span class="topo-membrane">FFALVGLGCSMLGILYV</span><span class="topo-inside">IVKKPSDNPQRELN</span><span class="topo-membrane">ISLWTSALLTVVLT</span><span class="topo-outside">AFLTYFYLKDLQGLD</span></span>
-<span class="topo-line"><span class="topo-outside">VLGFRFGAISPWF</span><span class="topo-membrane">SAIIGIFSGILIGFWA</span><span class="topo-inside">EYYTSYRYKPTQFLGKSSIEGTGMVISNGLS</span></span>
-<span class="topo-line"><span class="topo-inside">LGM</span><span class="topo-membrane">KSVFPPTLTLVLGILFA</span><span class="topo-outside">DYFAGLYGV</span><span class="topo-membrane">AIAALGMLSFVATSVS</span><span class="topo-inside">VDSYGPIADNAGGIS</span></span>
-<span class="topo-line"><span class="topo-inside">EMCELDPEVRKITDHLDAVGNTTAAIG</span><span class="topo-membrane">KGFAIGSAIFAALSLF</span><span class="topo-outside">ASYMFSQISPSDIGKPP</span></span>
-<span class="topo-line"><span class="topo-outside">SLVLLLNMLDARV</span><span class="topo-membrane">IAGALLGAAITYYFS</span><span class="topo-inside">GYLISAVTKAAMKMVDE</span><span class="topo-unknown">IRRQAREIPGLLEGK</span></span>
-<span class="topo-line"><span class="topo-unknown">AKPD</span><span class="topo-inside">YNRCIEITSDNALKQM</span><span class="topo-membrane">GYPAFIAILTPLVTGFL</span><span class="topo-outside">LGAEF</span><span class="topo-membrane">VGGVLIGTVLSGAMLAIL</span></span>
-<span class="topo-line"><span class="topo-inside">TANSGGAWDNAKKYLEAGNLEGYGKGSEPHKALVIGDTVGDPLKDTVG</span><span class="topo-membrane">PSLDILIKIMSV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MRGSHHHHHH</span><span class="topo-outside">YVAAL</span><span class="topo-membrane">FFLIPLVALGFAAAN</span><span class="topo-inside">FAAVVRKPE</span><span class="topo-unknown">G</span><span class="topo-inside">TERMKEISSYIRSGADSFLAHET</span><span class="topo-membrane">KAIFKVAIVIAILLM</span><span class="topo-outside">IFTTWQTG</span><span class="topo-membrane">VAFLLGAVMSASAGIV</span><span class="topo-inside">GMKMATRANVRVAEAART</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">TKKIGPALKVAYQGGS</span><span class="topo-membrane">VMGLSVGGFALLGLVLV</span><span class="topo-outside">YLIFGKWMGQVDNLNIYTNWLGINFVPFAMTV</span><span class="topo-membrane">SGYALGCSIIAMFDRV</span><span class="topo-inside">GGGVYTKAADMAADLVGK</span><span class="topo-unknown">TELNLPEDDPR</span><span class="topo-inside">NPATIADNVG</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">DNVGDVA</span><span class="topo-membrane">GLGADLLESFVGAIVS</span><span class="topo-outside">SIILASYMFPIYVQKIGENLVHQVPKETIQALISYPI</span><span class="topo-membrane">FFALVGLGCSMLGILYV</span><span class="topo-inside">IVKKPSDNPQRELN</span><span class="topo-membrane">ISLWTSALLTVVLT</span><span class="topo-outside">AFLTYFYLKDLQGLD</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">VLGFRFGAISPWF</span><span class="topo-membrane">SAIIGIFSGILIGFWA</span><span class="topo-inside">EYYTSYRYKPTQFLGKSSIEGTGMVISNGLSLGM</span><span class="topo-membrane">KSVFPPTLTLVLGILFA</span><span class="topo-outside">DYFAGLYGV</span><span class="topo-membrane">AIAALGMLSFVATSVS</span><span class="topo-inside">VDSYGPIADNAGGIS</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-inside">EMCELDPEVRKITDHLDAVGNTTAAIG</span><span class="topo-membrane">KGFAIGSAIFAALSLF</span><span class="topo-outside">ASYMFSQISPSDIGKPPSLVLLLNMLDARV</span><span class="topo-membrane">IAGALLGAAITYYFS</span><span class="topo-inside">GYLISAVTKAAMKMVDE</span><span class="topo-unknown">IRRQAREIPGLLEGK</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-unknown">AKPD</span><span class="topo-inside">YNRCIEITSDNALKQM</span><span class="topo-membrane">GYPAFIAILTPLVTGFL</span><span class="topo-outside">LGAEF</span><span class="topo-membrane">VGGVLIGTVLSGAMLAIL</span><span class="topo-inside">TANSGGAWDNAKKYLEAGNLEGYGKGSEPHKALVIGDTVGDPLKDTVG</span><span class="topo-membrane">PSLDILIKIMSV</span></span>
+<span class="topo-ruler">       730     </span>
 <span class="topo-line"><span class="topo-membrane">VSVIA</span><span class="topo-unknown">VSIFKHV</span><span class="topo-outside">HLF</span></span>
+<details class="topo-details"><summary>Topology coordinates (41 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -425,6 +427,7 @@ TmPPase (H+-pumping inorganic pyrophosphatase from Thermotoga maritima) is a mem
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -440,19 +443,21 @@ TmPPase (H+-pumping inorganic pyrophosphatase from Thermotoga maritima) is a mem
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MRGSHHHHHH</span><span class="topo-outside">YVAAL</span><span class="topo-membrane">FFLIPLVALGFAAAN</span><span class="topo-inside">FAAVVRKPEGTERMKEISSYIRSGADSFLA</span></span>
-<span class="topo-line"><span class="topo-inside">HET</span><span class="topo-membrane">KAIFKVAIVIAILL</span><span class="topo-outside">MIFTTWQTG</span><span class="topo-membrane">VAFLLGAVMSASAGIVG</span><span class="topo-inside">MKMATRANVRVAEAART</span></span>
-<span class="topo-line"><span class="topo-inside">TK</span><span class="topo-unknown">K</span><span class="topo-inside">IGPALKVAYQGGS</span><span class="topo-membrane">VMGLSVGGFALLGLVL</span><span class="topo-outside">VYLIFGKWMGQVDNLNIYTNWLGINFVP</span></span>
-<span class="topo-line"><span class="topo-outside">FAMTV</span><span class="topo-membrane">SGYALGCSIIAMFDRV</span><span class="topo-inside">GGGVYTKAADMAADLVGKT</span><span class="topo-unknown">ELNLPEDDP</span><span class="topo-inside">RNPATIADNVG</span></span>
-<span class="topo-line"><span class="topo-inside">DNVGDVA</span><span class="topo-membrane">GLGADLLESFVGAIVS</span><span class="topo-outside">SIILASYMFPIYVQKIGENLVHQVPKETIQALISYPI</span></span>
-<span class="topo-line"><span class="topo-membrane">FFALVGLGCSMLGILYV</span><span class="topo-inside">IVKKPSDNPQRELN</span><span class="topo-membrane">ISLWTSALLTVVLT</span><span class="topo-outside">AFLTYFYLKDLQGLD</span></span>
-<span class="topo-line"><span class="topo-outside">VLGFRFGAISPWF</span><span class="topo-membrane">SAIIGIFSGILIGFWA</span><span class="topo-inside">EYYTSYRYKPTQFLGKSSIEGTGMVISNGLS</span></span>
-<span class="topo-line"><span class="topo-inside">LGM</span><span class="topo-membrane">KSVFPPTLTLVLGILFA</span><span class="topo-outside">DYFAGLYGV</span><span class="topo-membrane">AIAALGMLSFVATSVS</span><span class="topo-inside">VDSYGPIADNAGGIS</span></span>
-<span class="topo-line"><span class="topo-inside">EMCELDPEVRKITDHLDAVGNTTAAIG</span><span class="topo-membrane">KGFAIGSAIFAALSLF</span><span class="topo-outside">ASYMFSQISPSDIGKPP</span></span>
-<span class="topo-line"><span class="topo-outside">SLVLLLNMLDARV</span><span class="topo-membrane">IAGALLGAAITYYFS</span><span class="topo-inside">GYLISAVTKAAMKMVDEIRRQAREIPGLLEG</span><span class="topo-unknown">K</span></span>
-<span class="topo-line"><span class="topo-unknown">AKPDYNR</span><span class="topo-inside">CIEITSDNALKQM</span><span class="topo-membrane">GYPAFIAILTPLVTGFL</span><span class="topo-outside">LGAEF</span><span class="topo-membrane">VGGVLIGTVLSGAMLAIL</span></span>
-<span class="topo-line"><span class="topo-inside">TANSGGAWDNAKKYLEAGNLEGYGKGSEPHKALVIGDTVGDPLKDTVG</span><span class="topo-membrane">PSLDILIKIMSV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MRGSHHHHHH</span><span class="topo-outside">YVAAL</span><span class="topo-membrane">FFLIPLVALGFAAAN</span><span class="topo-inside">FAAVVRKPEGTERMKEISSYIRSGADSFLAHET</span><span class="topo-membrane">KAIFKVAIVIAILL</span><span class="topo-outside">MIFTTWQTG</span><span class="topo-membrane">VAFLLGAVMSASAGIVG</span><span class="topo-inside">MKMATRANVRVAEAART</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">TK</span><span class="topo-unknown">K</span><span class="topo-inside">IGPALKVAYQGGS</span><span class="topo-membrane">VMGLSVGGFALLGLVL</span><span class="topo-outside">VYLIFGKWMGQVDNLNIYTNWLGINFVPFAMTV</span><span class="topo-membrane">SGYALGCSIIAMFDRV</span><span class="topo-inside">GGGVYTKAADMAADLVGKT</span><span class="topo-unknown">ELNLPEDDP</span><span class="topo-inside">RNPATIADNVG</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">DNVGDVA</span><span class="topo-membrane">GLGADLLESFVGAIVS</span><span class="topo-outside">SIILASYMFPIYVQKIGENLVHQVPKETIQALISYPI</span><span class="topo-membrane">FFALVGLGCSMLGILYV</span><span class="topo-inside">IVKKPSDNPQRELN</span><span class="topo-membrane">ISLWTSALLTVVLT</span><span class="topo-outside">AFLTYFYLKDLQGLD</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">VLGFRFGAISPWF</span><span class="topo-membrane">SAIIGIFSGILIGFWA</span><span class="topo-inside">EYYTSYRYKPTQFLGKSSIEGTGMVISNGLSLGM</span><span class="topo-membrane">KSVFPPTLTLVLGILFA</span><span class="topo-outside">DYFAGLYGV</span><span class="topo-membrane">AIAALGMLSFVATSVS</span><span class="topo-inside">VDSYGPIADNAGGIS</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-inside">EMCELDPEVRKITDHLDAVGNTTAAIG</span><span class="topo-membrane">KGFAIGSAIFAALSLF</span><span class="topo-outside">ASYMFSQISPSDIGKPPSLVLLLNMLDARV</span><span class="topo-membrane">IAGALLGAAITYYFS</span><span class="topo-inside">GYLISAVTKAAMKMVDEIRRQAREIPGLLEG</span><span class="topo-unknown">K</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-unknown">AKPDYNR</span><span class="topo-inside">CIEITSDNALKQM</span><span class="topo-membrane">GYPAFIAILTPLVTGFL</span><span class="topo-outside">LGAEF</span><span class="topo-membrane">VGGVLIGTVLSGAMLAIL</span><span class="topo-inside">TANSGGAWDNAKKYLEAGNLEGYGKGSEPHKALVIGDTVGDPLKDTVG</span><span class="topo-membrane">PSLDILIKIMSV</span></span>
+<span class="topo-ruler">       730     </span>
 <span class="topo-line"><span class="topo-membrane">VSVIA</span><span class="topo-unknown">VSIFKHV</span><span class="topo-outside">HLF</span></span>
+<details class="topo-details"><summary>Topology coordinates (41 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -751,6 +756,7 @@ TmPPase (H+-pumping inorganic pyrophosphatase from Thermotoga maritima) is a mem
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -766,19 +772,21 @@ TmPPase (H+-pumping inorganic pyrophosphatase from Thermotoga maritima) is a mem
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MRGSHHHHHH</span><span class="topo-outside">YVAAL</span><span class="topo-membrane">FFLIPLVALGFAAAN</span><span class="topo-inside">FAAVVRKPE</span><span class="topo-unknown">G</span><span class="topo-inside">TERMKEISSYIRSGADSFLA</span></span>
-<span class="topo-line"><span class="topo-inside">HET</span><span class="topo-membrane">KAIFKVAIVIAILLM</span><span class="topo-outside">IFTTWQTG</span><span class="topo-membrane">VAFLLGAVMSASAGIV</span><span class="topo-inside">GMKMATRANVRVAEAART</span></span>
-<span class="topo-line"><span class="topo-inside">TKKIGPALKVAYQGGS</span><span class="topo-membrane">VMGLSVGGFALLGLVLV</span><span class="topo-outside">YLIFGKWMGQVDNLNIYTNWLGINFVP</span></span>
-<span class="topo-line"><span class="topo-outside">FAMTV</span><span class="topo-membrane">SGYALGCSIIAMFDRV</span><span class="topo-inside">GGGVYTKAADMAADLVGK</span><span class="topo-unknown">TELNLPEDDPR</span><span class="topo-inside">NPATIADNVG</span></span>
-<span class="topo-line"><span class="topo-inside">DNVGDVA</span><span class="topo-membrane">GLGADLLESFVGAIVS</span><span class="topo-outside">SIILASYMFPIYVQKIGENLVHQVPKETIQALISYPI</span></span>
-<span class="topo-line"><span class="topo-membrane">FFALVGLGCSMLGILYV</span><span class="topo-inside">IVKKPSDNPQRELN</span><span class="topo-membrane">ISLWTSALLTVVLT</span><span class="topo-outside">AFLTYFYLKDLQGLD</span></span>
-<span class="topo-line"><span class="topo-outside">VLGFRFGAISPWF</span><span class="topo-membrane">SAIIGIFSGILIGFWA</span><span class="topo-inside">EYYTSYRYKPTQFLGKSSIEGTGMVISNGLS</span></span>
-<span class="topo-line"><span class="topo-inside">LGM</span><span class="topo-membrane">KSVFPPTLTLVLGILFA</span><span class="topo-outside">DYFAGLYGV</span><span class="topo-membrane">AIAALGMLSFVATSVS</span><span class="topo-inside">VDSYGPIADNAGGIS</span></span>
-<span class="topo-line"><span class="topo-inside">EMCELDPEVRKITDHLDAVGNTTAAIG</span><span class="topo-membrane">KGFAIGSAIFAALSLF</span><span class="topo-outside">ASYMFSQISPSDIGKPP</span></span>
-<span class="topo-line"><span class="topo-outside">SLVLLLNMLDARV</span><span class="topo-membrane">IAGALLGAAITYYFS</span><span class="topo-inside">GYLISAVTKAAMKMVDE</span><span class="topo-unknown">IRRQAREIPGLLEGK</span></span>
-<span class="topo-line"><span class="topo-unknown">AKPD</span><span class="topo-inside">YNRCIEITSDNALKQM</span><span class="topo-membrane">GYPAFIAILTPLVTGFL</span><span class="topo-outside">LGAEF</span><span class="topo-membrane">VGGVLIGTVLSGAMLAIL</span></span>
-<span class="topo-line"><span class="topo-inside">TANSGGAWDNAKKYLEAGNLEGYGKGSEPHKALVIGDTVGDPLKDTVG</span><span class="topo-membrane">PSLDILIKIMSV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MRGSHHHHHH</span><span class="topo-outside">YVAAL</span><span class="topo-membrane">FFLIPLVALGFAAAN</span><span class="topo-inside">FAAVVRKPE</span><span class="topo-unknown">G</span><span class="topo-inside">TERMKEISSYIRSGADSFLAHET</span><span class="topo-membrane">KAIFKVAIVIAILLM</span><span class="topo-outside">IFTTWQTG</span><span class="topo-membrane">VAFLLGAVMSASAGIV</span><span class="topo-inside">GMKMATRANVRVAEAART</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">TKKIGPALKVAYQGGS</span><span class="topo-membrane">VMGLSVGGFALLGLVLV</span><span class="topo-outside">YLIFGKWMGQVDNLNIYTNWLGINFVPFAMTV</span><span class="topo-membrane">SGYALGCSIIAMFDRV</span><span class="topo-inside">GGGVYTKAADMAADLVGK</span><span class="topo-unknown">TELNLPEDDPR</span><span class="topo-inside">NPATIADNVG</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">DNVGDVA</span><span class="topo-membrane">GLGADLLESFVGAIVS</span><span class="topo-outside">SIILASYMFPIYVQKIGENLVHQVPKETIQALISYPI</span><span class="topo-membrane">FFALVGLGCSMLGILYV</span><span class="topo-inside">IVKKPSDNPQRELN</span><span class="topo-membrane">ISLWTSALLTVVLT</span><span class="topo-outside">AFLTYFYLKDLQGLD</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">VLGFRFGAISPWF</span><span class="topo-membrane">SAIIGIFSGILIGFWA</span><span class="topo-inside">EYYTSYRYKPTQFLGKSSIEGTGMVISNGLSLGM</span><span class="topo-membrane">KSVFPPTLTLVLGILFA</span><span class="topo-outside">DYFAGLYGV</span><span class="topo-membrane">AIAALGMLSFVATSVS</span><span class="topo-inside">VDSYGPIADNAGGIS</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-inside">EMCELDPEVRKITDHLDAVGNTTAAIG</span><span class="topo-membrane">KGFAIGSAIFAALSLF</span><span class="topo-outside">ASYMFSQISPSDIGKPPSLVLLLNMLDARV</span><span class="topo-membrane">IAGALLGAAITYYFS</span><span class="topo-inside">GYLISAVTKAAMKMVDE</span><span class="topo-unknown">IRRQAREIPGLLEGK</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-unknown">AKPD</span><span class="topo-inside">YNRCIEITSDNALKQM</span><span class="topo-membrane">GYPAFIAILTPLVTGFL</span><span class="topo-outside">LGAEF</span><span class="topo-membrane">VGGVLIGTVLSGAMLAIL</span><span class="topo-inside">TANSGGAWDNAKKYLEAGNLEGYGKGSEPHKALVIGDTVGDPLKDTVG</span><span class="topo-membrane">PSLDILIKIMSV</span></span>
+<span class="topo-ruler">       730     </span>
 <span class="topo-line"><span class="topo-membrane">VSVIA</span><span class="topo-unknown">VSIFKHV</span><span class="topo-outside">HLF</span></span>
+<details class="topo-details"><summary>Topology coordinates (41 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1077,6 +1085,7 @@ TmPPase (H+-pumping inorganic pyrophosphatase from Thermotoga maritima) is a mem
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1092,19 +1101,21 @@ TmPPase (H+-pumping inorganic pyrophosphatase from Thermotoga maritima) is a mem
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MRGSHHHHHH</span><span class="topo-outside">YVAAL</span><span class="topo-membrane">FFLIPLVALGFAAAN</span><span class="topo-inside">FAAVVRKPEGTERMKEISSYIRSGADSFLA</span></span>
-<span class="topo-line"><span class="topo-inside">HET</span><span class="topo-membrane">KAIFKVAIVIAILL</span><span class="topo-outside">MIFTTWQTG</span><span class="topo-membrane">VAFLLGAVMSASAGIVG</span><span class="topo-inside">MKMATRANVRVAEAART</span></span>
-<span class="topo-line"><span class="topo-inside">TK</span><span class="topo-unknown">K</span><span class="topo-inside">IGPALKVAYQGGS</span><span class="topo-membrane">VMGLSVGGFALLGLVL</span><span class="topo-outside">VYLIFGKWMGQVDNLNIYTNWLGINFVP</span></span>
-<span class="topo-line"><span class="topo-outside">FAMTV</span><span class="topo-membrane">SGYALGCSIIAMFDRV</span><span class="topo-inside">GGGVYTKAADMAADLVGKT</span><span class="topo-unknown">ELNLPEDDP</span><span class="topo-inside">RNPATIADNVG</span></span>
-<span class="topo-line"><span class="topo-inside">DNVGDVA</span><span class="topo-membrane">GLGADLLESFVGAIVS</span><span class="topo-outside">SIILASYMFPIYVQKIGENLVHQVPKETIQALISYPI</span></span>
-<span class="topo-line"><span class="topo-membrane">FFALVGLGCSMLGILYV</span><span class="topo-inside">IVKKPSDNPQRELN</span><span class="topo-membrane">ISLWTSALLTVVLT</span><span class="topo-outside">AFLTYFYLKDLQGLD</span></span>
-<span class="topo-line"><span class="topo-outside">VLGFRFGAISPWF</span><span class="topo-membrane">SAIIGIFSGILIGFWA</span><span class="topo-inside">EYYTSYRYKPTQFLGKSSIEGTGMVISNGLS</span></span>
-<span class="topo-line"><span class="topo-inside">LGM</span><span class="topo-membrane">KSVFPPTLTLVLGILFA</span><span class="topo-outside">DYFAGLYGV</span><span class="topo-membrane">AIAALGMLSFVATSVS</span><span class="topo-inside">VDSYGPIADNAGGIS</span></span>
-<span class="topo-line"><span class="topo-inside">EMCELDPEVRKITDHLDAVGNTTAAIG</span><span class="topo-membrane">KGFAIGSAIFAALSLF</span><span class="topo-outside">ASYMFSQISPSDIGKPP</span></span>
-<span class="topo-line"><span class="topo-outside">SLVLLLNMLDARV</span><span class="topo-membrane">IAGALLGAAITYYFS</span><span class="topo-inside">GYLISAVTKAAMKMVDEIRRQAREIPGLLEG</span><span class="topo-unknown">K</span></span>
-<span class="topo-line"><span class="topo-unknown">AKPDYNR</span><span class="topo-inside">CIEITSDNALKQM</span><span class="topo-membrane">GYPAFIAILTPLVTGFL</span><span class="topo-outside">LGAEF</span><span class="topo-membrane">VGGVLIGTVLSGAMLAIL</span></span>
-<span class="topo-line"><span class="topo-inside">TANSGGAWDNAKKYLEAGNLEGYGKGSEPHKALVIGDTVGDPLKDTVG</span><span class="topo-membrane">PSLDILIKIMSV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MRGSHHHHHH</span><span class="topo-outside">YVAAL</span><span class="topo-membrane">FFLIPLVALGFAAAN</span><span class="topo-inside">FAAVVRKPEGTERMKEISSYIRSGADSFLAHET</span><span class="topo-membrane">KAIFKVAIVIAILL</span><span class="topo-outside">MIFTTWQTG</span><span class="topo-membrane">VAFLLGAVMSASAGIVG</span><span class="topo-inside">MKMATRANVRVAEAART</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">TK</span><span class="topo-unknown">K</span><span class="topo-inside">IGPALKVAYQGGS</span><span class="topo-membrane">VMGLSVGGFALLGLVL</span><span class="topo-outside">VYLIFGKWMGQVDNLNIYTNWLGINFVPFAMTV</span><span class="topo-membrane">SGYALGCSIIAMFDRV</span><span class="topo-inside">GGGVYTKAADMAADLVGKT</span><span class="topo-unknown">ELNLPEDDP</span><span class="topo-inside">RNPATIADNVG</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">DNVGDVA</span><span class="topo-membrane">GLGADLLESFVGAIVS</span><span class="topo-outside">SIILASYMFPIYVQKIGENLVHQVPKETIQALISYPI</span><span class="topo-membrane">FFALVGLGCSMLGILYV</span><span class="topo-inside">IVKKPSDNPQRELN</span><span class="topo-membrane">ISLWTSALLTVVLT</span><span class="topo-outside">AFLTYFYLKDLQGLD</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">VLGFRFGAISPWF</span><span class="topo-membrane">SAIIGIFSGILIGFWA</span><span class="topo-inside">EYYTSYRYKPTQFLGKSSIEGTGMVISNGLSLGM</span><span class="topo-membrane">KSVFPPTLTLVLGILFA</span><span class="topo-outside">DYFAGLYGV</span><span class="topo-membrane">AIAALGMLSFVATSVS</span><span class="topo-inside">VDSYGPIADNAGGIS</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-inside">EMCELDPEVRKITDHLDAVGNTTAAIG</span><span class="topo-membrane">KGFAIGSAIFAALSLF</span><span class="topo-outside">ASYMFSQISPSDIGKPPSLVLLLNMLDARV</span><span class="topo-membrane">IAGALLGAAITYYFS</span><span class="topo-inside">GYLISAVTKAAMKMVDEIRRQAREIPGLLEG</span><span class="topo-unknown">K</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-unknown">AKPDYNR</span><span class="topo-inside">CIEITSDNALKQM</span><span class="topo-membrane">GYPAFIAILTPLVTGFL</span><span class="topo-outside">LGAEF</span><span class="topo-membrane">VGGVLIGTVLSGAMLAIL</span><span class="topo-inside">TANSGGAWDNAKKYLEAGNLEGYGKGSEPHKALVIGDTVGDPLKDTVG</span><span class="topo-membrane">PSLDILIKIMSV</span></span>
+<span class="topo-ruler">       730     </span>
 <span class="topo-line"><span class="topo-membrane">VSVIA</span><span class="topo-unknown">VSIFKHV</span><span class="topo-outside">HLF</span></span>
+<details class="topo-details"><summary>Topology coordinates (41 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1403,6 +1414,7 @@ TmPPase (H+-pumping inorganic pyrophosphatase from Thermotoga maritima) is a mem
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1418,19 +1430,21 @@ TmPPase (H+-pumping inorganic pyrophosphatase from Thermotoga maritima) is a mem
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MRGSHHHHHH</span><span class="topo-outside">YVAAL</span><span class="topo-membrane">FFLIPLVALGFAAAN</span><span class="topo-inside">FAAVVRKPE</span><span class="topo-unknown">G</span><span class="topo-inside">TERMKEISSYIRSGADSFLA</span></span>
-<span class="topo-line"><span class="topo-inside">HET</span><span class="topo-membrane">KAIFKVAIVIAILLM</span><span class="topo-outside">IFTTWQTG</span><span class="topo-membrane">VAFLLGAVMSASAGIV</span><span class="topo-inside">GMKMATRANVRVAEAART</span></span>
-<span class="topo-line"><span class="topo-inside">TKKIGPALKVAYQGGS</span><span class="topo-membrane">VMGLSVGGFALLGLVLV</span><span class="topo-outside">YLIFGKWMGQVDNLNIYTNWLGINFVP</span></span>
-<span class="topo-line"><span class="topo-outside">FAMTV</span><span class="topo-membrane">SGYALGCSIIAMFDRV</span><span class="topo-inside">GGGVYTKAADMAADLVGK</span><span class="topo-unknown">TELNLPEDDPR</span><span class="topo-inside">NPATIADNVG</span></span>
-<span class="topo-line"><span class="topo-inside">DNVGDVA</span><span class="topo-membrane">GLGADLLESFVGAIVS</span><span class="topo-outside">SIILASYMFPIYVQKIGENLVHQVPKETIQALISYPI</span></span>
-<span class="topo-line"><span class="topo-membrane">FFALVGLGCSMLGILYV</span><span class="topo-inside">IVKKPSDNPQRELN</span><span class="topo-membrane">ISLWTSALLTVVLT</span><span class="topo-outside">AFLTYFYLKDLQGLD</span></span>
-<span class="topo-line"><span class="topo-outside">VLGFRFGAISPWF</span><span class="topo-membrane">SAIIGIFSGILIGFWA</span><span class="topo-inside">EYYTSYRYKPTQFLGKSSIEGTGMVISNGLS</span></span>
-<span class="topo-line"><span class="topo-inside">LGM</span><span class="topo-membrane">KSVFPPTLTLVLGILFA</span><span class="topo-outside">DYFAGLYGV</span><span class="topo-membrane">AIAALGMLSFVATSVS</span><span class="topo-inside">VDSYGPIADNAGGIS</span></span>
-<span class="topo-line"><span class="topo-inside">EMCELDPEVRKITDHLDAVGNTTAAIG</span><span class="topo-membrane">KGFAIGSAIFAALSLF</span><span class="topo-outside">ASYMFSQISPSDIGKPP</span></span>
-<span class="topo-line"><span class="topo-outside">SLVLLLNMLDARV</span><span class="topo-membrane">IAGALLGAAITYYFS</span><span class="topo-inside">GYLISAVTKAAMKMVDE</span><span class="topo-unknown">IRRQAREIPGLLEGK</span></span>
-<span class="topo-line"><span class="topo-unknown">AKPD</span><span class="topo-inside">YNRCIEITSDNALKQM</span><span class="topo-membrane">GYPAFIAILTPLVTGFL</span><span class="topo-outside">LGAEF</span><span class="topo-membrane">VGGVLIGTVLSGAMLAIL</span></span>
-<span class="topo-line"><span class="topo-inside">TANSGGAWDNAKKYLEAGNLEGYGKGSEPHKALVIGDTVGDPLKDTVG</span><span class="topo-membrane">PSLDILIKIMSV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MRGSHHHHHH</span><span class="topo-outside">YVAAL</span><span class="topo-membrane">FFLIPLVALGFAAAN</span><span class="topo-inside">FAAVVRKPE</span><span class="topo-unknown">G</span><span class="topo-inside">TERMKEISSYIRSGADSFLAHET</span><span class="topo-membrane">KAIFKVAIVIAILLM</span><span class="topo-outside">IFTTWQTG</span><span class="topo-membrane">VAFLLGAVMSASAGIV</span><span class="topo-inside">GMKMATRANVRVAEAART</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">TKKIGPALKVAYQGGS</span><span class="topo-membrane">VMGLSVGGFALLGLVLV</span><span class="topo-outside">YLIFGKWMGQVDNLNIYTNWLGINFVPFAMTV</span><span class="topo-membrane">SGYALGCSIIAMFDRV</span><span class="topo-inside">GGGVYTKAADMAADLVGK</span><span class="topo-unknown">TELNLPEDDPR</span><span class="topo-inside">NPATIADNVG</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">DNVGDVA</span><span class="topo-membrane">GLGADLLESFVGAIVS</span><span class="topo-outside">SIILASYMFPIYVQKIGENLVHQVPKETIQALISYPI</span><span class="topo-membrane">FFALVGLGCSMLGILYV</span><span class="topo-inside">IVKKPSDNPQRELN</span><span class="topo-membrane">ISLWTSALLTVVLT</span><span class="topo-outside">AFLTYFYLKDLQGLD</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">VLGFRFGAISPWF</span><span class="topo-membrane">SAIIGIFSGILIGFWA</span><span class="topo-inside">EYYTSYRYKPTQFLGKSSIEGTGMVISNGLSLGM</span><span class="topo-membrane">KSVFPPTLTLVLGILFA</span><span class="topo-outside">DYFAGLYGV</span><span class="topo-membrane">AIAALGMLSFVATSVS</span><span class="topo-inside">VDSYGPIADNAGGIS</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-inside">EMCELDPEVRKITDHLDAVGNTTAAIG</span><span class="topo-membrane">KGFAIGSAIFAALSLF</span><span class="topo-outside">ASYMFSQISPSDIGKPPSLVLLLNMLDARV</span><span class="topo-membrane">IAGALLGAAITYYFS</span><span class="topo-inside">GYLISAVTKAAMKMVDE</span><span class="topo-unknown">IRRQAREIPGLLEGK</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-unknown">AKPD</span><span class="topo-inside">YNRCIEITSDNALKQM</span><span class="topo-membrane">GYPAFIAILTPLVTGFL</span><span class="topo-outside">LGAEF</span><span class="topo-membrane">VGGVLIGTVLSGAMLAIL</span><span class="topo-inside">TANSGGAWDNAKKYLEAGNLEGYGKGSEPHKALVIGDTVGDPLKDTVG</span><span class="topo-membrane">PSLDILIKIMSV</span></span>
+<span class="topo-ruler">       730     </span>
 <span class="topo-line"><span class="topo-membrane">VSVIA</span><span class="topo-unknown">VSIFKHV</span><span class="topo-outside">HLF</span></span>
+<details class="topo-details"><summary>Topology coordinates (41 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1729,6 +1743,7 @@ TmPPase (H+-pumping inorganic pyrophosphatase from Thermotoga maritima) is a mem
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1744,19 +1759,21 @@ TmPPase (H+-pumping inorganic pyrophosphatase from Thermotoga maritima) is a mem
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MRGSHHHHHH</span><span class="topo-outside">YVAAL</span><span class="topo-membrane">FFLIPLVALGFAAAN</span><span class="topo-inside">FAAVVRKPEGTERMKEISSYIRSGADSFLA</span></span>
-<span class="topo-line"><span class="topo-inside">HET</span><span class="topo-membrane">KAIFKVAIVIAILL</span><span class="topo-outside">MIFTTWQTG</span><span class="topo-membrane">VAFLLGAVMSASAGIVG</span><span class="topo-inside">MKMATRANVRVAEAART</span></span>
-<span class="topo-line"><span class="topo-inside">TK</span><span class="topo-unknown">K</span><span class="topo-inside">IGPALKVAYQGGS</span><span class="topo-membrane">VMGLSVGGFALLGLVL</span><span class="topo-outside">VYLIFGKWMGQVDNLNIYTNWLGINFVP</span></span>
-<span class="topo-line"><span class="topo-outside">FAMTV</span><span class="topo-membrane">SGYALGCSIIAMFDRV</span><span class="topo-inside">GGGVYTKAADMAADLVGKT</span><span class="topo-unknown">ELNLPEDDP</span><span class="topo-inside">RNPATIADNVG</span></span>
-<span class="topo-line"><span class="topo-inside">DNVGDVA</span><span class="topo-membrane">GLGADLLESFVGAIVS</span><span class="topo-outside">SIILASYMFPIYVQKIGENLVHQVPKETIQALISYPI</span></span>
-<span class="topo-line"><span class="topo-membrane">FFALVGLGCSMLGILYV</span><span class="topo-inside">IVKKPSDNPQRELN</span><span class="topo-membrane">ISLWTSALLTVVLT</span><span class="topo-outside">AFLTYFYLKDLQGLD</span></span>
-<span class="topo-line"><span class="topo-outside">VLGFRFGAISPWF</span><span class="topo-membrane">SAIIGIFSGILIGFWA</span><span class="topo-inside">EYYTSYRYKPTQFLGKSSIEGTGMVISNGLS</span></span>
-<span class="topo-line"><span class="topo-inside">LGM</span><span class="topo-membrane">KSVFPPTLTLVLGILFA</span><span class="topo-outside">DYFAGLYGV</span><span class="topo-membrane">AIAALGMLSFVATSVS</span><span class="topo-inside">VDSYGPIADNAGGIS</span></span>
-<span class="topo-line"><span class="topo-inside">EMCELDPEVRKITDHLDAVGNTTAAIG</span><span class="topo-membrane">KGFAIGSAIFAALSLF</span><span class="topo-outside">ASYMFSQISPSDIGKPP</span></span>
-<span class="topo-line"><span class="topo-outside">SLVLLLNMLDARV</span><span class="topo-membrane">IAGALLGAAITYYFS</span><span class="topo-inside">GYLISAVTKAAMKMVDEIRRQAREIPGLLEG</span><span class="topo-unknown">K</span></span>
-<span class="topo-line"><span class="topo-unknown">AKPDYNR</span><span class="topo-inside">CIEITSDNALKQM</span><span class="topo-membrane">GYPAFIAILTPLVTGFL</span><span class="topo-outside">LGAEF</span><span class="topo-membrane">VGGVLIGTVLSGAMLAIL</span></span>
-<span class="topo-line"><span class="topo-inside">TANSGGAWDNAKKYLEAGNLEGYGKGSEPHKALVIGDTVGDPLKDTVG</span><span class="topo-membrane">PSLDILIKIMSV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MRGSHHHHHH</span><span class="topo-outside">YVAAL</span><span class="topo-membrane">FFLIPLVALGFAAAN</span><span class="topo-inside">FAAVVRKPEGTERMKEISSYIRSGADSFLAHET</span><span class="topo-membrane">KAIFKVAIVIAILL</span><span class="topo-outside">MIFTTWQTG</span><span class="topo-membrane">VAFLLGAVMSASAGIVG</span><span class="topo-inside">MKMATRANVRVAEAART</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">TK</span><span class="topo-unknown">K</span><span class="topo-inside">IGPALKVAYQGGS</span><span class="topo-membrane">VMGLSVGGFALLGLVL</span><span class="topo-outside">VYLIFGKWMGQVDNLNIYTNWLGINFVPFAMTV</span><span class="topo-membrane">SGYALGCSIIAMFDRV</span><span class="topo-inside">GGGVYTKAADMAADLVGKT</span><span class="topo-unknown">ELNLPEDDP</span><span class="topo-inside">RNPATIADNVG</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">DNVGDVA</span><span class="topo-membrane">GLGADLLESFVGAIVS</span><span class="topo-outside">SIILASYMFPIYVQKIGENLVHQVPKETIQALISYPI</span><span class="topo-membrane">FFALVGLGCSMLGILYV</span><span class="topo-inside">IVKKPSDNPQRELN</span><span class="topo-membrane">ISLWTSALLTVVLT</span><span class="topo-outside">AFLTYFYLKDLQGLD</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">VLGFRFGAISPWF</span><span class="topo-membrane">SAIIGIFSGILIGFWA</span><span class="topo-inside">EYYTSYRYKPTQFLGKSSIEGTGMVISNGLSLGM</span><span class="topo-membrane">KSVFPPTLTLVLGILFA</span><span class="topo-outside">DYFAGLYGV</span><span class="topo-membrane">AIAALGMLSFVATSVS</span><span class="topo-inside">VDSYGPIADNAGGIS</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-inside">EMCELDPEVRKITDHLDAVGNTTAAIG</span><span class="topo-membrane">KGFAIGSAIFAALSLF</span><span class="topo-outside">ASYMFSQISPSDIGKPPSLVLLLNMLDARV</span><span class="topo-membrane">IAGALLGAAITYYFS</span><span class="topo-inside">GYLISAVTKAAMKMVDEIRRQAREIPGLLEG</span><span class="topo-unknown">K</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-unknown">AKPDYNR</span><span class="topo-inside">CIEITSDNALKQM</span><span class="topo-membrane">GYPAFIAILTPLVTGFL</span><span class="topo-outside">LGAEF</span><span class="topo-membrane">VGGVLIGTVLSGAMLAIL</span><span class="topo-inside">TANSGGAWDNAKKYLEAGNLEGYGKGSEPHKALVIGDTVGDPLKDTVG</span><span class="topo-membrane">PSLDILIKIMSV</span></span>
+<span class="topo-ruler">       730     </span>
 <span class="topo-line"><span class="topo-membrane">VSVIA</span><span class="topo-unknown">VSIFKHV</span><span class="topo-outside">HLF</span></span>
+<details class="topo-details"><summary>Topology coordinates (41 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2055,6 +2072,7 @@ TmPPase (H+-pumping inorganic pyrophosphatase from Thermotoga maritima) is a mem
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

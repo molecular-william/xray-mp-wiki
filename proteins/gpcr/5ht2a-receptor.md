@@ -148,13 +148,15 @@ The human [Serotonin (5-Hydroxytryptamine, 5-HT)](/xray-mp-wiki/reagents/ligands
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GG</span><span class="topo-outside">THLQE</span><span class="topo-membrane">KNWSALLTAVVIILTIAGNILVIM</span><span class="topo-inside">AVSLEKKLQNATNYFL</span><span class="topo-membrane">MSLAIADMLLGFL</span></span>
-<span class="topo-line"><span class="topo-membrane">VMPVSMLTIL</span><span class="topo-outside">YGYRWPLPSK</span><span class="topo-membrane">LCAVWIYLDVLFSTAKIWHLCA</span><span class="topo-inside">ISLDRYVAIQNPIHHSRF</span></span>
-<span class="topo-line"><span class="topo-inside">NSRTKAFLKI</span><span class="topo-membrane">IAVWTISVGISMPIPVFGLQD</span><span class="topo-outside">DSKVFKEGSC</span><span class="topo-membrane">LLADDNFVLIGSFVSFFIP</span></span>
-<span class="topo-line"><span class="topo-membrane">LTIMV</span><span class="topo-inside">ITYFLTIKSLQKEAADLEDNWETLNDNLKVIEKADNAAQVKDALTKMRAAALDAG</span></span>
-<span class="topo-line"><span class="topo-inside">SGSGDILVGQIDDALKLANEGKVKEAQAAAEQLKTTINAYIQKYGQSISNEQKACKVLGI</span></span>
-<span class="topo-line"><span class="topo-membrane">VFFLFVVMWCPFFITNIMAVICK</span><span class="topo-outside">ESCNEDV</span><span class="topo-membrane">IGALLNVFVWIGYLSSAVNPLV</span><span class="topo-inside">YTLFNKTY</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GG</span><span class="topo-outside">THLQE</span><span class="topo-membrane">KNWSALLTAVVIILTIAGNILVIM</span><span class="topo-inside">AVSLEKKLQNATNYFL</span><span class="topo-membrane">MSLAIADMLLGFLVMPVSMLTIL</span><span class="topo-outside">YGYRWPLPSK</span><span class="topo-membrane">LCAVWIYLDVLFSTAKIWHLCA</span><span class="topo-inside">ISLDRYVAIQNPIHHSRF</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">NSRTKAFLKI</span><span class="topo-membrane">IAVWTISVGISMPIPVFGLQD</span><span class="topo-outside">DSKVFKEGSC</span><span class="topo-membrane">LLADDNFVLIGSFVSFFIPLTIMV</span><span class="topo-inside">ITYFLTIKSLQKEAADLEDNWETLNDNLKVIEKADNAAQVKDALTKMRAAALDAG</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">SGSGDILVGQIDDALKLANEGKVKEAQAAAEQLKTTINAYIQKYGQSISNEQKACKVLGI</span><span class="topo-membrane">VFFLFVVMWCPFFITNIMAVICK</span><span class="topo-outside">ESCNEDV</span><span class="topo-membrane">IGALLNVFVWIGYLSSAVNPLV</span><span class="topo-inside">YTLFNKTY</span></span>
+<span class="topo-ruler">       370      </span>
 <span class="topo-line"><span class="topo-inside">RSAFSRYIQCQY</span><span class="topo-unknown">KENK</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -271,6 +273,7 @@ The human [Serotonin (5-Hydroxytryptamine, 5-HT)](/xray-mp-wiki/reagents/ligands
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -286,13 +289,15 @@ The human [Serotonin (5-Hydroxytryptamine, 5-HT)](/xray-mp-wiki/reagents/ligands
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GG</span><span class="topo-outside">THLQE</span><span class="topo-membrane">KNWSALLTAVVIILTIAGNILVIM</span><span class="topo-inside">AVSLEKKLQNATNYF</span><span class="topo-membrane">LMSLAIADMLLGFL</span></span>
-<span class="topo-line"><span class="topo-membrane">VMPVSMLTIL</span><span class="topo-outside">YGYRW</span><span class="topo-membrane">PLPSKLCAVWIYLDVLFSTAKIWHLCAISL</span><span class="topo-inside">DRYVAIQNPIHHSRF</span></span>
-<span class="topo-line"><span class="topo-inside">NSRTKAFLK</span><span class="topo-membrane">IIAVWTISVGISMPIPVFGLQDD</span><span class="topo-outside">SKVFKEGSC</span><span class="topo-membrane">LLADDNFVLIGSFVSFFIP</span></span>
-<span class="topo-line"><span class="topo-membrane">LTIMVITYFL</span><span class="topo-inside">TIKSLQKEAADLEDNWETLNDNLKVIEKADNAAQVKDALTKMRAAALDAG</span></span>
-<span class="topo-line"><span class="topo-inside">SGSGDILVGQIDDALKLANEGKVKEAQAAAEQLKTTINAYIQKYGQSISNEQKACK</span><span class="topo-membrane">VLGI</span></span>
-<span class="topo-line"><span class="topo-membrane">VFFLFVVMWCPFFITNIMAVI</span><span class="topo-outside">CKESCNEDVI</span><span class="topo-membrane">GALLNVFVWIGYLSSAVNPLVYTLF</span><span class="topo-inside">N</span><span class="topo-unknown">KTY</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GG</span><span class="topo-outside">THLQE</span><span class="topo-membrane">KNWSALLTAVVIILTIAGNILVIM</span><span class="topo-inside">AVSLEKKLQNATNYF</span><span class="topo-membrane">LMSLAIADMLLGFLVMPVSMLTIL</span><span class="topo-outside">YGYRW</span><span class="topo-membrane">PLPSKLCAVWIYLDVLFSTAKIWHLCAISL</span><span class="topo-inside">DRYVAIQNPIHHSRF</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">NSRTKAFLK</span><span class="topo-membrane">IIAVWTISVGISMPIPVFGLQDD</span><span class="topo-outside">SKVFKEGSC</span><span class="topo-membrane">LLADDNFVLIGSFVSFFIPLTIMVITYFL</span><span class="topo-inside">TIKSLQKEAADLEDNWETLNDNLKVIEKADNAAQVKDALTKMRAAALDAG</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">SGSGDILVGQIDDALKLANEGKVKEAQAAAEQLKTTINAYIQKYGQSISNEQKACK</span><span class="topo-membrane">VLGIVFFLFVVMWCPFFITNIMAVI</span><span class="topo-outside">CKESCNEDVI</span><span class="topo-membrane">GALLNVFVWIGYLSSAVNPLVYTLF</span><span class="topo-inside">N</span><span class="topo-unknown">KTY</span></span>
+<span class="topo-ruler">       370      </span>
 <span class="topo-line"><span class="topo-unknown">RSAFSRYI</span><span class="topo-inside">QCQY</span><span class="topo-unknown">KENK</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -423,6 +428,7 @@ The human [Serotonin (5-Hydroxytryptamine, 5-HT)](/xray-mp-wiki/reagents/ligands
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -485,12 +491,13 @@ The human [Serotonin (5-Hydroxytryptamine, 5-HT)](/xray-mp-wiki/reagents/ligands
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">HSLGKDDLRPSSP</span><span class="topo-outside">LLSV</span><span class="topo-membrane">FGVLILTLLGFLVAATFAWNLLVLA</span><span class="topo-inside">TIL</span><span class="topo-unknown">RVRTFHRV</span><span class="topo-inside">PHN</span><span class="topo-membrane">LVAS</span></span>
-<span class="topo-line"><span class="topo-membrane">MAVSNVLVAALVMPLSLVHELS</span><span class="topo-outside">GRRWQLGRRL</span><span class="topo-membrane">CQLWIACDVLCCTASIWNVTAIALDRY</span><span class="topo-inside">W</span></span>
-<span class="topo-line"><span class="topo-inside">SITRHMEYTLRTRKCV</span><span class="topo-membrane">SNVMIALTWALSAVISLAPLLFG</span><span class="topo-outside">WGETYSEGSEECQVSREPS</span><span class="topo-membrane">YA</span></span>
-<span class="topo-line"><span class="topo-membrane">VFSTVGAFYLPLCVVLFVYWKIY</span><span class="topo-inside">KAAKFRV</span><span class="topo-unknown">GSRKTNSVSPISEAVEVKDSAKQPQMVFTV</span></span>
-<span class="topo-line"><span class="topo-unknown">RHATVTFQPEGDTWR</span><span class="topo-inside">EQKEQRAAL</span><span class="topo-membrane">MVGILIGVFVLCWAPFFLTELI</span><span class="topo-outside">SPLCSCDIPAIW</span><span class="topo-membrane">KS</span></span>
-<span class="topo-line"><span class="topo-membrane">IFLWLGYSNSFFNPLIYTA</span><span class="topo-inside">F</span><span class="topo-unknown">NKNYNSAFKNFFSRQH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">HSLGKDDLRPSSP</span><span class="topo-outside">LLSV</span><span class="topo-membrane">FGVLILTLLGFLVAATFAWNLLVLA</span><span class="topo-inside">TIL</span><span class="topo-unknown">RVRTFHRV</span><span class="topo-inside">PHN</span><span class="topo-membrane">LVASMAVSNVLVAALVMPLSLVHELS</span><span class="topo-outside">GRRWQLGRRL</span><span class="topo-membrane">CQLWIACDVLCCTASIWNVTAIALDRY</span><span class="topo-inside">W</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">SITRHMEYTLRTRKCV</span><span class="topo-membrane">SNVMIALTWALSAVISLAPLLFG</span><span class="topo-outside">WGETYSEGSEECQVSREPS</span><span class="topo-membrane">YAVFSTVGAFYLPLCVVLFVYWKIY</span><span class="topo-inside">KAAKFRV</span><span class="topo-unknown">GSRKTNSVSPISEAVEVKDSAKQPQMVFTV</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330      </span>
+<span class="topo-line"><span class="topo-unknown">RHATVTFQPEGDTWR</span><span class="topo-inside">EQKEQRAAL</span><span class="topo-membrane">MVGILIGVFVLCWAPFFLTELI</span><span class="topo-outside">SPLCSCDIPAIW</span><span class="topo-membrane">KSIFLWLGYSNSFFNPLIYTA</span><span class="topo-inside">F</span><span class="topo-unknown">NKNYNSAFKNFFSRQH</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -649,6 +656,7 @@ The human [Serotonin (5-Hydroxytryptamine, 5-HT)](/xray-mp-wiki/reagents/ligands
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -664,10 +672,11 @@ The human [Serotonin (5-Hydroxytryptamine, 5-HT)](/xray-mp-wiki/reagents/ligands
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">G</span><span class="topo-inside">SHNGIDCSFWNESYLTGSRDERKKSLLSKFGMDEGVTFMFIGRFDRGQKGVDVLLKAIE</span></span>
-<span class="topo-line"><span class="topo-inside">ILSSKKEFQEMRFIIIGKGDPELEGWARSLEEKHGNVKVITEMLSREFVRELYGSVDFVI</span></span>
-<span class="topo-line"><span class="topo-inside">IPSYFEPFGLVALEAMCLGAIPIASAVGGLRDIITNETGILVKAGDPGELANAILKALEL</span></span>
-<span class="topo-line"><span class="topo-inside">SRSDLSKFRENCKKRAMSFS</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">G</span><span class="topo-inside">SHNGIDCSFWNESYLTGSRDERKKSLLSKFGMDEGVTFMFIGRFDRGQKGVDVLLKAIEILSSKKEFQEMRFIIIGKGDPELEGWARSLEEKHGNVKVITEMLSREFVRELYGSVDFVI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200</span>
+<span class="topo-line"><span class="topo-inside">IPSYFEPFGLVALEAMCLGAIPIASAVGGLRDIITNETGILVKAGDPGELANAILKALELSRSDLSKFRENCKKRAMSFS</span></span>
+<details class="topo-details"><summary>Topology coordinates (2 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -693,6 +702,7 @@ The human [Serotonin (5-Hydroxytryptamine, 5-HT)](/xray-mp-wiki/reagents/ligands
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -708,12 +718,13 @@ The human [Serotonin (5-Hydroxytryptamine, 5-HT)](/xray-mp-wiki/reagents/ligands
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">HSLGKDDLRPSSP</span><span class="topo-outside">LLSV</span><span class="topo-membrane">FGVLILTLLGFLVAATFAWNLLVLA</span><span class="topo-inside">TIL</span><span class="topo-unknown">RVRTFHRV</span><span class="topo-inside">PHN</span><span class="topo-membrane">LVAS</span></span>
-<span class="topo-line"><span class="topo-membrane">MAVSNVLVAALVMPLSLVHELS</span><span class="topo-outside">GRRWQLGRRL</span><span class="topo-membrane">CQLWIACDVLCCTASIWNVTAIALDRY</span><span class="topo-inside">W</span></span>
-<span class="topo-line"><span class="topo-inside">SITRHMEYTLRTRKCV</span><span class="topo-membrane">SNVMIALTWALSAVISLAPLLFG</span><span class="topo-outside">WGETYSEGSEECQVSREPS</span><span class="topo-membrane">YA</span></span>
-<span class="topo-line"><span class="topo-membrane">VFSTVGAFYLPLCVVLFVYWKIY</span><span class="topo-inside">KAAKFRV</span><span class="topo-unknown">GSRKTNSVSPISEAVEVKDSAKQPQMVFTV</span></span>
-<span class="topo-line"><span class="topo-unknown">RHATVTFQPEGDTWR</span><span class="topo-inside">EQKEQRAAL</span><span class="topo-membrane">MVGILIGVFVLCWAPFFLTELI</span><span class="topo-outside">SPLCSCDIPAIW</span><span class="topo-membrane">KS</span></span>
-<span class="topo-line"><span class="topo-membrane">IFLWLGYSNSFFNPLIYTA</span><span class="topo-inside">F</span><span class="topo-unknown">NKNYNSAFKNFFSRQH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">HSLGKDDLRPSSP</span><span class="topo-outside">LLSV</span><span class="topo-membrane">FGVLILTLLGFLVAATFAWNLLVLA</span><span class="topo-inside">TIL</span><span class="topo-unknown">RVRTFHRV</span><span class="topo-inside">PHN</span><span class="topo-membrane">LVASMAVSNVLVAALVMPLSLVHELS</span><span class="topo-outside">GRRWQLGRRL</span><span class="topo-membrane">CQLWIACDVLCCTASIWNVTAIALDRY</span><span class="topo-inside">W</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">SITRHMEYTLRTRKCV</span><span class="topo-membrane">SNVMIALTWALSAVISLAPLLFG</span><span class="topo-outside">WGETYSEGSEECQVSREPS</span><span class="topo-membrane">YAVFSTVGAFYLPLCVVLFVYWKIY</span><span class="topo-inside">KAAKFRV</span><span class="topo-unknown">GSRKTNSVSPISEAVEVKDSAKQPQMVFTV</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330      </span>
+<span class="topo-line"><span class="topo-unknown">RHATVTFQPEGDTWR</span><span class="topo-inside">EQKEQRAAL</span><span class="topo-membrane">MVGILIGVFVLCWAPFFLTELI</span><span class="topo-outside">SPLCSCDIPAIW</span><span class="topo-membrane">KSIFLWLGYSNSFFNPLIYTA</span><span class="topo-inside">F</span><span class="topo-unknown">NKNYNSAFKNFFSRQH</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -872,6 +883,7 @@ The human [Serotonin (5-Hydroxytryptamine, 5-HT)](/xray-mp-wiki/reagents/ligands
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -887,10 +899,11 @@ The human [Serotonin (5-Hydroxytryptamine, 5-HT)](/xray-mp-wiki/reagents/ligands
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">G</span><span class="topo-inside">SHNGIDCSFWNESYLTGSRDERKKSLLSKFGMDEGVTFMFIGRFDRGQKGVDVLLKAIE</span></span>
-<span class="topo-line"><span class="topo-inside">ILSSKKEFQEMRFIIIGKGDPELEGWARSLEEKHGNVKVITEMLSREFVRELYGSVDFVI</span></span>
-<span class="topo-line"><span class="topo-inside">IPSYFEPFGLVALEAMCLGAIPIASAVGGLRDIITNETGILVKAGDPGELANAILKALEL</span></span>
-<span class="topo-line"><span class="topo-inside">SRSDLSKFRENCKKRAMSFS</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">G</span><span class="topo-inside">SHNGIDCSFWNESYLTGSRDERKKSLLSKFGMDEGVTFMFIGRFDRGQKGVDVLLKAIEILSSKKEFQEMRFIIIGKGDPELEGWARSLEEKHGNVKVITEMLSREFVRELYGSVDFVI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200</span>
+<span class="topo-line"><span class="topo-inside">IPSYFEPFGLVALEAMCLGAIPIASAVGGLRDIITNETGILVKAGDPGELANAILKALELSRSDLSKFRENCKKRAMSFS</span></span>
+<details class="topo-details"><summary>Topology coordinates (2 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -916,6 +929,7 @@ The human [Serotonin (5-Hydroxytryptamine, 5-HT)](/xray-mp-wiki/reagents/ligands
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -931,12 +945,13 @@ The human [Serotonin (5-Hydroxytryptamine, 5-HT)](/xray-mp-wiki/reagents/ligands
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">HSLGKDDLRPSSP</span><span class="topo-outside">LLSV</span><span class="topo-membrane">FGVLILTLLGFLVAATFAWNLLVLA</span><span class="topo-inside">TIL</span><span class="topo-unknown">RVRTFHRV</span><span class="topo-inside">PHN</span><span class="topo-membrane">LVAS</span></span>
-<span class="topo-line"><span class="topo-membrane">MAVSNVLVAALVMPLSLVHELS</span><span class="topo-outside">GRRWQLGRRL</span><span class="topo-membrane">CQLWIACDVLCCTASIWNVTAIALDRY</span><span class="topo-inside">W</span></span>
-<span class="topo-line"><span class="topo-inside">SITRHMEYTLRTRKCV</span><span class="topo-membrane">SNVMIALTWALSAVISLAPLLFG</span><span class="topo-outside">WGETYSEGSEECQVSREPS</span><span class="topo-membrane">YA</span></span>
-<span class="topo-line"><span class="topo-membrane">VFSTVGAFYLPLCVVLFVYWKIY</span><span class="topo-inside">KAAKFRV</span><span class="topo-unknown">GSRKTNSVSPISEAVEVKDSAKQPQMVFTV</span></span>
-<span class="topo-line"><span class="topo-unknown">RHATVTFQPEGDTWR</span><span class="topo-inside">EQKEQRAAL</span><span class="topo-membrane">MVGILIGVFVLCWAPFFLTELI</span><span class="topo-outside">SPLCSCDIPAIW</span><span class="topo-membrane">KS</span></span>
-<span class="topo-line"><span class="topo-membrane">IFLWLGYSNSFFNPLIYTA</span><span class="topo-inside">F</span><span class="topo-unknown">NKNYNSAFKNFFSRQH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">HSLGKDDLRPSSP</span><span class="topo-outside">LLSV</span><span class="topo-membrane">FGVLILTLLGFLVAATFAWNLLVLA</span><span class="topo-inside">TIL</span><span class="topo-unknown">RVRTFHRV</span><span class="topo-inside">PHN</span><span class="topo-membrane">LVASMAVSNVLVAALVMPLSLVHELS</span><span class="topo-outside">GRRWQLGRRL</span><span class="topo-membrane">CQLWIACDVLCCTASIWNVTAIALDRY</span><span class="topo-inside">W</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">SITRHMEYTLRTRKCV</span><span class="topo-membrane">SNVMIALTWALSAVISLAPLLFG</span><span class="topo-outside">WGETYSEGSEECQVSREPS</span><span class="topo-membrane">YAVFSTVGAFYLPLCVVLFVYWKIY</span><span class="topo-inside">KAAKFRV</span><span class="topo-unknown">GSRKTNSVSPISEAVEVKDSAKQPQMVFTV</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330      </span>
+<span class="topo-line"><span class="topo-unknown">RHATVTFQPEGDTWR</span><span class="topo-inside">EQKEQRAAL</span><span class="topo-membrane">MVGILIGVFVLCWAPFFLTELI</span><span class="topo-outside">SPLCSCDIPAIW</span><span class="topo-membrane">KSIFLWLGYSNSFFNPLIYTA</span><span class="topo-inside">F</span><span class="topo-unknown">NKNYNSAFKNFFSRQH</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1095,6 +1110,7 @@ The human [Serotonin (5-Hydroxytryptamine, 5-HT)](/xray-mp-wiki/reagents/ligands
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1110,10 +1126,11 @@ The human [Serotonin (5-Hydroxytryptamine, 5-HT)](/xray-mp-wiki/reagents/ligands
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">G</span><span class="topo-inside">SHNGIDCSFWNESYLTGSRDERKKSLLSKFGMDEGVTFMFIGRFDRGQKGVDVLLKAIE</span></span>
-<span class="topo-line"><span class="topo-inside">ILSSKKEFQEMRFIIIGKGDPELEGWARSLEEKHGNVKVITEMLSREFVRELYGSVDFVI</span></span>
-<span class="topo-line"><span class="topo-inside">IPSYFEPFGLVALEAMCLGAIPIASAVGGLRDIITNETGILVKAGDPGELANAILKALEL</span></span>
-<span class="topo-line"><span class="topo-inside">SRSDLSKFRENCKKRAMSFS</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">G</span><span class="topo-inside">SHNGIDCSFWNESYLTGSRDERKKSLLSKFGMDEGVTFMFIGRFDRGQKGVDVLLKAIEILSSKKEFQEMRFIIIGKGDPELEGWARSLEEKHGNVKVITEMLSREFVRELYGSVDFVI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200</span>
+<span class="topo-line"><span class="topo-inside">IPSYFEPFGLVALEAMCLGAIPIASAVGGLRDIITNETGILVKAGDPGELANAILKALELSRSDLSKFRENCKKRAMSFS</span></span>
+<details class="topo-details"><summary>Topology coordinates (2 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1139,6 +1156,7 @@ The human [Serotonin (5-Hydroxytryptamine, 5-HT)](/xray-mp-wiki/reagents/ligands
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1222,13 +1240,15 @@ The human [Serotonin (5-Hydroxytryptamine, 5-HT)](/xray-mp-wiki/reagents/ligands
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">SLLHLQEKNW</span><span class="topo-membrane">SALLTAVVIILTIAGNILV</span><span class="topo-inside">IMAVSLEKKLQNATNYFLMS</span><span class="topo-membrane">LAIADMLLGFL</span></span>
-<span class="topo-line"><span class="topo-membrane">VMPVSMLTIL</span><span class="topo-outside">YGYRW</span><span class="topo-membrane">PLPSKLCAVWIYLDVLFSTAKIWHL</span><span class="topo-inside">CAISLDRYVAIQNPIHHSRF</span></span>
-<span class="topo-line"><span class="topo-inside">NSRTKAFLKIIAVW</span><span class="topo-membrane">TISVGISMPIPVFGLQDDS</span><span class="topo-outside">KVFKEGS</span><span class="topo-membrane">CLLADDNFVLIGSFVSFFIP</span></span>
-<span class="topo-line"><span class="topo-membrane">LT</span><span class="topo-inside">IMVITYFLTIKSLQKEAADLEDNWETLNDNLKVIEKADNAAQVKDALTKMRAAALDAG</span></span>
-<span class="topo-line"><span class="topo-unknown">SGSG</span><span class="topo-inside">DILVGQIDDALKLANEGKVKEAQAAAEQLKTTINAYIQKYGQSISNEQKACKVLGI</span></span>
-<span class="topo-line"><span class="topo-membrane">VFFLFVVMWCPFFITNIMAVICK</span><span class="topo-outside">ESCNEDVI</span><span class="topo-membrane">GALLNVFVWIGYLNSAVNPLV</span><span class="topo-inside">YTLFNKTY</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">SLLHLQEKNW</span><span class="topo-membrane">SALLTAVVIILTIAGNILV</span><span class="topo-inside">IMAVSLEKKLQNATNYFLMS</span><span class="topo-membrane">LAIADMLLGFLVMPVSMLTIL</span><span class="topo-outside">YGYRW</span><span class="topo-membrane">PLPSKLCAVWIYLDVLFSTAKIWHL</span><span class="topo-inside">CAISLDRYVAIQNPIHHSRF</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">NSRTKAFLKIIAVW</span><span class="topo-membrane">TISVGISMPIPVFGLQDDS</span><span class="topo-outside">KVFKEGS</span><span class="topo-membrane">CLLADDNFVLIGSFVSFFIPLT</span><span class="topo-inside">IMVITYFLTIKSLQKEAADLEDNWETLNDNLKVIEKADNAAQVKDALTKMRAAALDAG</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-unknown">SGSG</span><span class="topo-inside">DILVGQIDDALKLANEGKVKEAQAAAEQLKTTINAYIQKYGQSISNEQKACKVLGI</span><span class="topo-membrane">VFFLFVVMWCPFFITNIMAVICK</span><span class="topo-outside">ESCNEDVI</span><span class="topo-membrane">GALLNVFVWIGYLNSAVNPLV</span><span class="topo-inside">YTLFNKTY</span></span>
+<span class="topo-ruler">       370      </span>
 <span class="topo-line"><span class="topo-inside">RSAFSRYIQCQYKE</span><span class="topo-unknown">NK</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1373,6 +1393,7 @@ The human [Serotonin (5-Hydroxytryptamine, 5-HT)](/xray-mp-wiki/reagents/ligands
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1388,13 +1409,15 @@ The human [Serotonin (5-Hydroxytryptamine, 5-HT)](/xray-mp-wiki/reagents/ligands
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">SLLHLQEK</span><span class="topo-membrane">NWSALLTAVVIILTIAGNILVIM</span><span class="topo-inside">AVSLEKKLQNATNYF</span><span class="topo-membrane">LMSLAIADMLLGFL</span></span>
-<span class="topo-line"><span class="topo-membrane">VMPVSMLTIL</span><span class="topo-outside">YGYRWPLPSK</span><span class="topo-membrane">LCAVWIYLDVLFSTAKIWHLCAIS</span><span class="topo-inside">LDRYVAIQNP</span><span class="topo-unknown">IHHSRF</span></span>
-<span class="topo-line"><span class="topo-unknown">N</span><span class="topo-inside">SRTKAF</span><span class="topo-membrane">LKIIAVWTISVGISMPIPVFGLQ</span><span class="topo-outside">DDSKVFKEGSC</span><span class="topo-membrane">LLADDNFVLIGSFVSFFIP</span></span>
-<span class="topo-line"><span class="topo-membrane">LTIMVI</span><span class="topo-inside">TYFLTIKSLQKEAADLEDNWETLNDNLKVIEKADNAAQVKDALTKMRAAALDAG</span></span>
-<span class="topo-line"><span class="topo-unknown">SGSG</span><span class="topo-inside">DILVGQIDDALKLANEGKVKEAQAAAEQLKTTINAYIQKYGQSISNEQKACKVL</span><span class="topo-membrane">GI</span></span>
-<span class="topo-line"><span class="topo-membrane">VFFLFVVMWCPFFITNIMAVICK</span><span class="topo-outside">ESCNEDV</span><span class="topo-membrane">IGALLNVFVWIGYLNSAVNPLVYTL</span><span class="topo-inside">FNKTY</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">SLLHLQEK</span><span class="topo-membrane">NWSALLTAVVIILTIAGNILVIM</span><span class="topo-inside">AVSLEKKLQNATNYF</span><span class="topo-membrane">LMSLAIADMLLGFLVMPVSMLTIL</span><span class="topo-outside">YGYRWPLPSK</span><span class="topo-membrane">LCAVWIYLDVLFSTAKIWHLCAIS</span><span class="topo-inside">LDRYVAIQNP</span><span class="topo-unknown">IHHSRF</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-unknown">N</span><span class="topo-inside">SRTKAF</span><span class="topo-membrane">LKIIAVWTISVGISMPIPVFGLQ</span><span class="topo-outside">DDSKVFKEGSC</span><span class="topo-membrane">LLADDNFVLIGSFVSFFIPLTIMVI</span><span class="topo-inside">TYFLTIKSLQKEAADLEDNWETLNDNLKVIEKADNAAQVKDALTKMRAAALDAG</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-unknown">SGSG</span><span class="topo-inside">DILVGQIDDALKLANEGKVKEAQAAAEQLKTTINAYIQKYGQSISNEQKACKVL</span><span class="topo-membrane">GIVFFLFVVMWCPFFITNIMAVICK</span><span class="topo-outside">ESCNEDV</span><span class="topo-membrane">IGALLNVFVWIGYLNSAVNPLVYTL</span><span class="topo-inside">FNKTY</span></span>
+<span class="topo-ruler">       370      </span>
 <span class="topo-line"><span class="topo-inside">RSAFSRYIQCQYKE</span><span class="topo-unknown">NK</span></span>
+<details class="topo-details"><summary>Topology coordinates (20 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1546,6 +1569,7 @@ The human [Serotonin (5-Hydroxytryptamine, 5-HT)](/xray-mp-wiki/reagents/ligands
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1561,13 +1585,15 @@ The human [Serotonin (5-Hydroxytryptamine, 5-HT)](/xray-mp-wiki/reagents/ligands
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">SLLHLQE</span><span class="topo-outside">KN</span><span class="topo-membrane">WSALLTAVVIILTIAGNILVIM</span><span class="topo-inside">AVSLEKKLQNATNYF</span><span class="topo-membrane">LMSLAIADMLLGFL</span></span>
-<span class="topo-line"><span class="topo-membrane">VMPVSMLTIL</span><span class="topo-outside">YGYRWPL</span><span class="topo-membrane">PSKLCAVWIYLDVLFSTAKIWHLCA</span><span class="topo-inside">ISLDRYVAIQNP</span><span class="topo-unknown">IHHSRF</span></span>
-<span class="topo-line"><span class="topo-unknown">N</span><span class="topo-inside">SRTKAFLKI</span><span class="topo-membrane">IAVWTISVGISMPIPVFGLQD</span><span class="topo-outside">DSKVFKEGSC</span><span class="topo-membrane">LLADDNFVLIGSFVSFFIP</span></span>
-<span class="topo-line"><span class="topo-membrane">LTIMVI</span><span class="topo-inside">TYFLTIKSLQKEAADLEDNWETLNDNLKVIEKADNAAQVKDALTKMRAAALDA</span><span class="topo-unknown">G</span></span>
-<span class="topo-line"><span class="topo-unknown">SGSG</span><span class="topo-inside">DILVGQIDDALKLANEGKVKEAQAAAEQLKTTINAYIQKYGQSISNEQKACKVL</span><span class="topo-membrane">GI</span></span>
-<span class="topo-line"><span class="topo-membrane">VFFLFVVMWCPFFITNIMAVICK</span><span class="topo-outside">ESCNEDVI</span><span class="topo-membrane">GALLNVFVWIGYLNSAVNPLVYTL</span><span class="topo-inside">FNKTY</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">SLLHLQE</span><span class="topo-outside">KN</span><span class="topo-membrane">WSALLTAVVIILTIAGNILVIM</span><span class="topo-inside">AVSLEKKLQNATNYF</span><span class="topo-membrane">LMSLAIADMLLGFLVMPVSMLTIL</span><span class="topo-outside">YGYRWPL</span><span class="topo-membrane">PSKLCAVWIYLDVLFSTAKIWHLCA</span><span class="topo-inside">ISLDRYVAIQNP</span><span class="topo-unknown">IHHSRF</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-unknown">N</span><span class="topo-inside">SRTKAFLKI</span><span class="topo-membrane">IAVWTISVGISMPIPVFGLQD</span><span class="topo-outside">DSKVFKEGSC</span><span class="topo-membrane">LLADDNFVLIGSFVSFFIPLTIMVI</span><span class="topo-inside">TYFLTIKSLQKEAADLEDNWETLNDNLKVIEKADNAAQVKDALTKMRAAALDA</span><span class="topo-unknown">G</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-unknown">SGSG</span><span class="topo-inside">DILVGQIDDALKLANEGKVKEAQAAAEQLKTTINAYIQKYGQSISNEQKACKVL</span><span class="topo-membrane">GIVFFLFVVMWCPFFITNIMAVICK</span><span class="topo-outside">ESCNEDVI</span><span class="topo-membrane">GALLNVFVWIGYLNSAVNPLVYTL</span><span class="topo-inside">FNKTY</span></span>
+<span class="topo-ruler">       370      </span>
 <span class="topo-line"><span class="topo-inside">RSAFSRYIQCQYKE</span><span class="topo-unknown">NK</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1726,6 +1752,7 @@ The human [Serotonin (5-Hydroxytryptamine, 5-HT)](/xray-mp-wiki/reagents/ligands
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1741,13 +1768,15 @@ The human [Serotonin (5-Hydroxytryptamine, 5-HT)](/xray-mp-wiki/reagents/ligands
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">SLLH</span><span class="topo-outside">LQEK</span><span class="topo-membrane">NWSALLTAVVIILTIAGNILVIM</span><span class="topo-inside">AVSLEKKLQNATNYF</span><span class="topo-membrane">LMSLAIADMLLGFL</span></span>
-<span class="topo-line"><span class="topo-membrane">VMPVSMLTIL</span><span class="topo-outside">YGYRWPLPSK</span><span class="topo-membrane">LCAVWIYLDVLFSTAKIWHLCAI</span><span class="topo-inside">SLDRYVAIQNP</span><span class="topo-unknown">IHHSRF</span></span>
-<span class="topo-line"><span class="topo-unknown">N</span><span class="topo-inside">SRTKAFL</span><span class="topo-membrane">KIIAVWTISVGISMPIPVFGLQ</span><span class="topo-outside">DDSKVFKEGSC</span><span class="topo-membrane">LLADDNFVLIGSFVSFFIP</span></span>
-<span class="topo-line"><span class="topo-membrane">LTIMVI</span><span class="topo-inside">TYFLTIKSLQKEAADLEDNWETLNDNLKVIEKADNAAQVKDALTKMRAAALDA</span><span class="topo-unknown">G</span></span>
-<span class="topo-line"><span class="topo-unknown">SGSG</span><span class="topo-inside">DILVGQIDDALKLANEGKVKEAQAAAEQLKTTINAYIQKYGQSISNEQKACKVL</span><span class="topo-membrane">GI</span></span>
-<span class="topo-line"><span class="topo-membrane">VFFLFVVMWCPFFITNIMAVICK</span><span class="topo-outside">ESCNEDV</span><span class="topo-membrane">IGALLNVFVWIGYLNSAVNPLVYT</span><span class="topo-inside">LFNKTY</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">SLLH</span><span class="topo-outside">LQEK</span><span class="topo-membrane">NWSALLTAVVIILTIAGNILVIM</span><span class="topo-inside">AVSLEKKLQNATNYF</span><span class="topo-membrane">LMSLAIADMLLGFLVMPVSMLTIL</span><span class="topo-outside">YGYRWPLPSK</span><span class="topo-membrane">LCAVWIYLDVLFSTAKIWHLCAI</span><span class="topo-inside">SLDRYVAIQNP</span><span class="topo-unknown">IHHSRF</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-unknown">N</span><span class="topo-inside">SRTKAFL</span><span class="topo-membrane">KIIAVWTISVGISMPIPVFGLQ</span><span class="topo-outside">DDSKVFKEGSC</span><span class="topo-membrane">LLADDNFVLIGSFVSFFIPLTIMVI</span><span class="topo-inside">TYFLTIKSLQKEAADLEDNWETLNDNLKVIEKADNAAQVKDALTKMRAAALDA</span><span class="topo-unknown">G</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-unknown">SGSG</span><span class="topo-inside">DILVGQIDDALKLANEGKVKEAQAAAEQLKTTINAYIQKYGQSISNEQKACKVL</span><span class="topo-membrane">GIVFFLFVVMWCPFFITNIMAVICK</span><span class="topo-outside">ESCNEDV</span><span class="topo-membrane">IGALLNVFVWIGYLNSAVNPLVYT</span><span class="topo-inside">LFNKTY</span></span>
+<span class="topo-ruler">       370      </span>
 <span class="topo-line"><span class="topo-inside">RSAFSRYIQCQYKE</span><span class="topo-unknown">NK</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1906,6 +1935,7 @@ The human [Serotonin (5-Hydroxytryptamine, 5-HT)](/xray-mp-wiki/reagents/ligands
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1921,13 +1951,15 @@ The human [Serotonin (5-Hydroxytryptamine, 5-HT)](/xray-mp-wiki/reagents/ligands
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">SLL</span><span class="topo-outside">HLQEKN</span><span class="topo-membrane">WSALLTAVVIILTIAGNILVIM</span><span class="topo-inside">AVSLEKKLQNATNYF</span><span class="topo-membrane">LMSLAIADMLLGFL</span></span>
-<span class="topo-line"><span class="topo-membrane">VMPVSMLTIL</span><span class="topo-outside">YGYRWPL</span><span class="topo-membrane">PSKLCAVWIYLDVLFSTAKIWHLCA</span><span class="topo-inside">ISLDRYVAIQNPI</span><span class="topo-unknown">HHSRF</span></span>
-<span class="topo-line"><span class="topo-unknown">N</span><span class="topo-inside">SRTKAFLKI</span><span class="topo-membrane">IAVWTISVGISMPIPVFGLQD</span><span class="topo-outside">DSKVFKEGSC</span><span class="topo-membrane">LLADDNFVLIGSFVSFFIP</span></span>
-<span class="topo-line"><span class="topo-membrane">LTIMVI</span><span class="topo-inside">TYFLTIKSLQKEAADLEDNWETLNDNLKVIEKADNAAQVKDALTKMRAAALDA</span><span class="topo-unknown">G</span></span>
-<span class="topo-line"><span class="topo-unknown">SGSG</span><span class="topo-inside">DILVGQIDDALKLANEGKVKEAQAAAEQLKTTINAYIQKYGQSISNEQKACKVL</span><span class="topo-membrane">GI</span></span>
-<span class="topo-line"><span class="topo-membrane">VFFLFVVMWCPFFITNIMAVICK</span><span class="topo-outside">ESCNEDV</span><span class="topo-membrane">IGALLNVFVWIGYLNSAVNPLVYTL</span><span class="topo-inside">FNKTY</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">SLL</span><span class="topo-outside">HLQEKN</span><span class="topo-membrane">WSALLTAVVIILTIAGNILVIM</span><span class="topo-inside">AVSLEKKLQNATNYF</span><span class="topo-membrane">LMSLAIADMLLGFLVMPVSMLTIL</span><span class="topo-outside">YGYRWPL</span><span class="topo-membrane">PSKLCAVWIYLDVLFSTAKIWHLCA</span><span class="topo-inside">ISLDRYVAIQNPI</span><span class="topo-unknown">HHSRF</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-unknown">N</span><span class="topo-inside">SRTKAFLKI</span><span class="topo-membrane">IAVWTISVGISMPIPVFGLQD</span><span class="topo-outside">DSKVFKEGSC</span><span class="topo-membrane">LLADDNFVLIGSFVSFFIPLTIMVI</span><span class="topo-inside">TYFLTIKSLQKEAADLEDNWETLNDNLKVIEKADNAAQVKDALTKMRAAALDA</span><span class="topo-unknown">G</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-unknown">SGSG</span><span class="topo-inside">DILVGQIDDALKLANEGKVKEAQAAAEQLKTTINAYIQKYGQSISNEQKACKVL</span><span class="topo-membrane">GIVFFLFVVMWCPFFITNIMAVICK</span><span class="topo-outside">ESCNEDV</span><span class="topo-membrane">IGALLNVFVWIGYLNSAVNPLVYTL</span><span class="topo-inside">FNKTY</span></span>
+<span class="topo-ruler">       370      </span>
 <span class="topo-line"><span class="topo-inside">RSAFSRYIQCQYKE</span><span class="topo-unknown">NK</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2086,6 +2118,7 @@ The human [Serotonin (5-Hydroxytryptamine, 5-HT)](/xray-mp-wiki/reagents/ligands
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2101,13 +2134,15 @@ The human [Serotonin (5-Hydroxytryptamine, 5-HT)](/xray-mp-wiki/reagents/ligands
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">SLLH</span><span class="topo-outside">LQEKN</span><span class="topo-membrane">WSALLTAVVIILTIAGNILVIM</span><span class="topo-inside">AVSLEKKLQNATNYF</span><span class="topo-membrane">LMSLAIADMLLGFL</span></span>
-<span class="topo-line"><span class="topo-membrane">VMPVSMLTIL</span><span class="topo-outside">YGYRWP</span><span class="topo-membrane">LPSKLCAVWIYLDVLFSTAKIWHLCAISL</span><span class="topo-inside">DRYVAIQNP</span><span class="topo-unknown">IHHSRF</span></span>
-<span class="topo-line"><span class="topo-unknown">N</span><span class="topo-inside">SRTKAF</span><span class="topo-membrane">LKIIAVWTISVGISMPIPVFGLQ</span><span class="topo-outside">DDSKVFKEGSC</span><span class="topo-membrane">LLADDNFVLIGSFVSFFIP</span></span>
-<span class="topo-line"><span class="topo-membrane">LTIMVITYFL</span><span class="topo-inside">TIKSLQKEAADLEDNWETLNDNLKVIEKADNAAQVKDALTKMRAAALDA</span><span class="topo-unknown">G</span></span>
-<span class="topo-line"><span class="topo-unknown">SGSG</span><span class="topo-inside">DILVGQIDDALKLANEGKVKEAQAAAEQLKTTINAYIQKYGQSISNEQKACK</span><span class="topo-membrane">VLGI</span></span>
-<span class="topo-line"><span class="topo-membrane">VFFLFVVMWCPFFITNIMAVI</span><span class="topo-outside">CKESCNEDVI</span><span class="topo-membrane">GALLNVFVWIGYLNSAVNPLVYTL</span><span class="topo-inside">FNKTY</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">SLLH</span><span class="topo-outside">LQEKN</span><span class="topo-membrane">WSALLTAVVIILTIAGNILVIM</span><span class="topo-inside">AVSLEKKLQNATNYF</span><span class="topo-membrane">LMSLAIADMLLGFLVMPVSMLTIL</span><span class="topo-outside">YGYRWP</span><span class="topo-membrane">LPSKLCAVWIYLDVLFSTAKIWHLCAISL</span><span class="topo-inside">DRYVAIQNP</span><span class="topo-unknown">IHHSRF</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-unknown">N</span><span class="topo-inside">SRTKAF</span><span class="topo-membrane">LKIIAVWTISVGISMPIPVFGLQ</span><span class="topo-outside">DDSKVFKEGSC</span><span class="topo-membrane">LLADDNFVLIGSFVSFFIPLTIMVITYFL</span><span class="topo-inside">TIKSLQKEAADLEDNWETLNDNLKVIEKADNAAQVKDALTKMRAAALDA</span><span class="topo-unknown">G</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-unknown">SGSG</span><span class="topo-inside">DILVGQIDDALKLANEGKVKEAQAAAEQLKTTINAYIQKYGQSISNEQKACK</span><span class="topo-membrane">VLGIVFFLFVVMWCPFFITNIMAVI</span><span class="topo-outside">CKESCNEDVI</span><span class="topo-membrane">GALLNVFVWIGYLNSAVNPLVYTL</span><span class="topo-inside">FNKTY</span></span>
+<span class="topo-ruler">       370      </span>
 <span class="topo-line"><span class="topo-inside">RSAFSRYIQCQYKE</span><span class="topo-unknown">NK</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2266,6 +2301,7 @@ The human [Serotonin (5-Hydroxytryptamine, 5-HT)](/xray-mp-wiki/reagents/ligands
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

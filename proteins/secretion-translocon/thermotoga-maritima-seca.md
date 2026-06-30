@@ -120,21 +120,23 @@ SecA is the cytoplasmic ATPase motor of the bacterial Sec protein translocation 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MILFDKNKRILKKYAKMVSKINQIESDLRSKKNSELIRLSMVLKEKVNSFEDADEHLFEA</span></span>
-<span class="topo-line"><span class="topo-inside">FALVREAARRTLGMRPFDVQVMGGIALHEGKVAEMKTGEGKTLAATMPIYLNALIGKGVH</span></span>
-<span class="topo-line"><span class="topo-inside">LVTVNDYLARRDALWMGPVYLFLGLRVGVINSLGKSYEVVWKNPDLARKAIEENWSVWPD</span></span>
-<span class="topo-line"><span class="topo-inside">GFNGEVLKEESMNKEAVEAFQVELKEITRKEAYLCDVTYGTNNEFGFDYLRDNLVLDYND</span></span>
-<span class="topo-line"><span class="topo-inside">KVQRGHFYAIVDEADSVLIDEARTPLIISGPSKESPSVYRRFAQIAKKFVKDKDFTVDEK</span></span>
-<span class="topo-line"><span class="topo-inside">ARTIILTEEGVAKAEKIIGVENLYDPGNVSLLYHLINALKALHLFKKDVDYVVMNGEVII</span></span>
-<span class="topo-line"><span class="topo-inside">VDEFTGRLLPGRRYSGGLHQAIEAKEGVPIKEESITYATITFQNYFRMYEKLAGMTGTAK</span></span>
-<span class="topo-line"><span class="topo-inside">TEESEFVQVYGMEVVVIPTHKPMIRKDHDDLVFRTQKEKYEKIVEEIEKRYKKGQPVLVG</span></span>
-<span class="topo-line"><span class="topo-inside">TTSIEKSELLSSMLKKKGIPHQVLNAKYHEKEAEIVAKAGQKGMVTIATNMAGRGTDIKL</span></span>
-<span class="topo-line"><span class="topo-inside">GPGVAELGGLCIIGTERHESRRIDNQLRGRAGRQGDPGESIFFLSLEDDLLRIFGSEQIG</span></span>
-<span class="topo-line"><span class="topo-inside">KVMNILKIEEGQPIQHPMLSKLIENIQKKVEGINFSIRKTLMEMDDVLDKQRRAVYSLRD</span></span>
-<span class="topo-line"><span class="topo-inside">QILLEKDYDEYLKDIFEDVVSTRVEEFCSGKNWDIESLKNSLSFFPAGLFDLDEKQFSSS</span></span>
-<span class="topo-line"><span class="topo-inside">EELHDYLFNRLWEEYQRKKQEIGEDYRKVIRFLMLRIIDDHWRRYLEEVEHVKEAVQLRS</span></span>
-<span class="topo-line"><span class="topo-inside">YGQKDPIVEFKKETYYMFDEMMRRINDTIANYVLRV</span><span class="topo-unknown">VKVSEKDEKEAKEELGKIRLVHEE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">MILFDKNKRILKKYAKMVSKINQIESDLRSKKNSELIRLSMVLKEKVNSFEDADEHLFEAFALVREAARRTLGMRPFDVQVMGGIALHEGKVAEMKTGEGKTLAATMPIYLNALIGKGVH</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">LVTVNDYLARRDALWMGPVYLFLGLRVGVINSLGKSYEVVWKNPDLARKAIEENWSVWPDGFNGEVLKEESMNKEAVEAFQVELKEITRKEAYLCDVTYGTNNEFGFDYLRDNLVLDYND</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">KVQRGHFYAIVDEADSVLIDEARTPLIISGPSKESPSVYRRFAQIAKKFVKDKDFTVDEKARTIILTEEGVAKAEKIIGVENLYDPGNVSLLYHLINALKALHLFKKDVDYVVMNGEVII</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">VDEFTGRLLPGRRYSGGLHQAIEAKEGVPIKEESITYATITFQNYFRMYEKLAGMTGTAKTEESEFVQVYGMEVVVIPTHKPMIRKDHDDLVFRTQKEKYEKIVEEIEKRYKKGQPVLVG</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-inside">TTSIEKSELLSSMLKKKGIPHQVLNAKYHEKEAEIVAKAGQKGMVTIATNMAGRGTDIKLGPGVAELGGLCIIGTERHESRRIDNQLRGRAGRQGDPGESIFFLSLEDDLLRIFGSEQIG</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-inside">KVMNILKIEEGQPIQHPMLSKLIENIQKKVEGINFSIRKTLMEMDDVLDKQRRAVYSLRDQILLEKDYDEYLKDIFEDVVSTRVEEFCSGKNWDIESLKNSLSFFPAGLFDLDEKQFSSS</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820       830       840</span>
+<span class="topo-line"><span class="topo-inside">EELHDYLFNRLWEEYQRKKQEIGEDYRKVIRFLMLRIIDDHWRRYLEEVEHVKEAVQLRSYGQKDPIVEFKKETYYMFDEMMRRINDTIANYVLRV</span><span class="topo-unknown">VKVSEKDEKEAKEELGKIRLVHEE</span></span>
+<span class="topo-ruler">       850       860       870 </span>
 <span class="topo-line"><span class="topo-unknown">FNLVNRAMRRATEKKKKKDGLHSFGRIRVKR</span></span>
+<details class="topo-details"><summary>Topology coordinates (2 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -160,6 +162,7 @@ SecA is the cytoplasmic ATPase motor of the bacterial Sec protein translocation 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -175,14 +178,15 @@ SecA is the cytoplasmic ATPase motor of the bacterial Sec protein translocation 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MWQAFKN</span><span class="topo-inside">AFKIPELRDR</span><span class="topo-membrane">IIFTFLALIVFRMGI</span><span class="topo-outside">YIPVPGLNL</span><span class="topo-unknown">EAWGEIFRRIAETAGVAGI</span></span>
-<span class="topo-line"><span class="topo-unknown">L</span><span class="topo-outside">SFYDVFTGGALS</span><span class="topo-membrane">RFSVFTMSVTPYITASIILQLL</span><span class="topo-inside">ASVMPSLKEMLREGEEGRKKFAKYT</span></span>
-<span class="topo-line"><span class="topo-membrane">RRLTLLIGGFQAF</span><span class="topo-outside">FVSFSLARSNPDMVAPGVNVLQFTVLST</span><span class="topo-membrane">MSMLAGTMFLLWLGERI</span><span class="topo-inside">TE</span></span>
-<span class="topo-line"><span class="topo-inside">KG</span><span class="topo-membrane">IGNGISILIFAGIVAR</span><span class="topo-outside">YPSYIRQAYLGGLNL</span><span class="topo-membrane">LEWIFLIAVALIT</span><span class="topo-inside">IFGIILVQQAERRI</span></span>
-<span class="topo-line"><span class="topo-inside">TIQYARRVTGRRVYGGASTYLPIKVNQGGV</span><span class="topo-membrane">IPIIFASAIVSIP</span><span class="topo-outside">SAIASITNNETLKNLFR</span></span>
-<span class="topo-line"><span class="topo-outside">AG</span><span class="topo-membrane">GFLYLLIYGLLVF</span><span class="topo-inside">FFTYFYSVVIFDPREISENIRKYGGYIPGLRPGRSTEQYLHRVLN</span></span>
-<span class="topo-line"><span class="topo-inside">RVTFIGA</span><span class="topo-membrane">VFLVVIALLPYLVQG</span><span class="topo-outside">AIKVNVW</span><span class="topo-membrane">IGGTSALIAVGVAL</span><span class="topo-inside">DIIQQMETHMVMRHYEG</span></span>
-<span class="topo-line"><span class="topo-inside">FIK</span><span class="topo-unknown">KGKIRGRR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MWQAFKN</span><span class="topo-inside">AFKIPELRDR</span><span class="topo-membrane">IIFTFLALIVFRMGI</span><span class="topo-outside">YIPVPGLNL</span><span class="topo-unknown">EAWGEIFRRIAETAGVAGIL</span><span class="topo-outside">SFYDVFTGGALS</span><span class="topo-membrane">RFSVFTMSVTPYITASIILQLL</span><span class="topo-inside">ASVMPSLKEMLREGEEGRKKFAKYT</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">RRLTLLIGGFQAF</span><span class="topo-outside">FVSFSLARSNPDMVAPGVNVLQFTVLST</span><span class="topo-membrane">MSMLAGTMFLLWLGERI</span><span class="topo-inside">TEKG</span><span class="topo-membrane">IGNGISILIFAGIVAR</span><span class="topo-outside">YPSYIRQAYLGGLNL</span><span class="topo-membrane">LEWIFLIAVALIT</span><span class="topo-inside">IFGIILVQQAERRI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">TIQYARRVTGRRVYGGASTYLPIKVNQGGV</span><span class="topo-membrane">IPIIFASAIVSIP</span><span class="topo-outside">SAIASITNNETLKNLFRAG</span><span class="topo-membrane">GFLYLLIYGLLVF</span><span class="topo-inside">FFTYFYSVVIFDPREISENIRKYGGYIPGLRPGRSTEQYLHRVLN</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430 </span>
+<span class="topo-line"><span class="topo-inside">RVTFIGA</span><span class="topo-membrane">VFLVVIALLPYLVQG</span><span class="topo-outside">AIKVNVW</span><span class="topo-membrane">IGGTSALIAVGVAL</span><span class="topo-inside">DIIQQMETHMVMRHYEGFIK</span><span class="topo-unknown">KGKIRGRR</span></span>
+<details class="topo-details"><summary>Topology coordinates (25 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -369,6 +373,7 @@ SecA is the cytoplasmic ATPase motor of the bacterial Sec protein translocation 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -384,8 +389,9 @@ SecA is the cytoplasmic ATPase motor of the bacterial Sec protein translocation 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MEKLRKFFR</span><span class="topo-inside">E</span><span class="topo-unknown">VIAEAKKISWPS</span><span class="topo-inside">RKELLTSFGVVL</span><span class="topo-membrane">VILAVTSVYFFVLDFIF</span><span class="topo-outside">SGVVSAIFK</span></span>
-<span class="topo-line"><span class="topo-outside">ALGIG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60     </span>
+<span class="topo-line"><span class="topo-unknown">MEKLRKFFR</span><span class="topo-inside">E</span><span class="topo-unknown">VIAEAKKISWPS</span><span class="topo-inside">RKELLTSFGVVL</span><span class="topo-membrane">VILAVTSVYFFVLDFIF</span><span class="topo-outside">SGVVSAIFKALGIG</span></span>
+<details class="topo-details"><summary>Topology coordinates (6 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -439,6 +445,7 @@ SecA is the cytoplasmic ATPase motor of the bacterial Sec protein translocation 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -454,8 +461,9 @@ SecA is the cytoplasmic ATPase motor of the bacterial Sec protein translocation 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MKTFFLIV</span><span class="topo-outside">HTIISV</span><span class="topo-membrane">ALIYMVQVQMSKFSE</span><span class="topo-inside">LGGAFGSGGLHTVFGRRKGLDTGG</span><span class="topo-membrane">KITLVLS</span></span>
-<span class="topo-line"><span class="topo-membrane">VLFFVS</span><span class="topo-outside">CVVTAFV</span><span class="topo-unknown">LTR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70      </span>
+<span class="topo-line"><span class="topo-unknown">MKTFFLIV</span><span class="topo-outside">HTIISV</span><span class="topo-membrane">ALIYMVQVQMSKFSE</span><span class="topo-inside">LGGAFGSGGLHTVFGRRKGLDTGG</span><span class="topo-membrane">KITLVLSVLFFVS</span><span class="topo-outside">CVVTAFV</span><span class="topo-unknown">LTR</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -516,6 +524,7 @@ SecA is the cytoplasmic ATPase motor of the bacterial Sec protein translocation 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

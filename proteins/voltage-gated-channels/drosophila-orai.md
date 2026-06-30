@@ -91,10 +91,11 @@ Orai is the pore-forming subunit of the calcium release-activated calcium (CRAC)
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSQSGEDLHSP</span><span class="topo-outside">TYLSWRKLQLSRAKLKA</span><span class="topo-membrane">SSKTSALLSGFAMVAM</span><span class="topo-inside">VEVQ</span><span class="topo-unknown">LDHDTNVPPG</span><span class="topo-inside">ML</span></span>
-<span class="topo-line"><span class="topo-inside">IA</span><span class="topo-membrane">FAICTTLLVAVHMLALMI</span><span class="topo-outside">STCILPN</span><span class="topo-unknown">IETVSNLHSISLVHES</span><span class="topo-outside">PHERLHWYIETA</span><span class="topo-membrane">WAFST</span></span>
-<span class="topo-line"><span class="topo-membrane">LLGLILFLLEIAIL</span><span class="topo-inside">CWVKFYDLSRRAAWS</span><span class="topo-membrane">ATVVLIPVMIIFMAFAIHFYR</span><span class="topo-outside">SLVSHKYEVT</span></span>
-<span class="topo-line"><span class="topo-outside">VSGIRELEMLKEQMEQDHLEHH</span><span class="topo-unknown">NNIRNNGEGEEF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSQSGEDLHSP</span><span class="topo-outside">TYLSWRKLQLSRAKLKA</span><span class="topo-membrane">SSKTSALLSGFAMVAM</span><span class="topo-inside">VEVQ</span><span class="topo-unknown">LDHDTNVPPG</span><span class="topo-inside">MLIA</span><span class="topo-membrane">FAICTTLLVAVHMLALMI</span><span class="topo-outside">STCILPN</span><span class="topo-unknown">IETVSNLHSISLVHES</span><span class="topo-outside">PHERLHWYIETA</span><span class="topo-membrane">WAFST</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210    </span>
+<span class="topo-line"><span class="topo-membrane">LLGLILFLLEIAIL</span><span class="topo-inside">CWVKFYDLSRRAAWS</span><span class="topo-membrane">ATVVLIPVMIIFMAFAIHFYR</span><span class="topo-outside">SLVSHKYEVTVSGIRELEMLKEQMEQDHLEHH</span><span class="topo-unknown">NNIRNNGEGEEF</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -211,6 +212,7 @@ Orai is the pore-forming subunit of the calcium release-activated calcium (CRAC)
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -226,10 +228,11 @@ Orai is the pore-forming subunit of the calcium release-activated calcium (CRAC)
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSQSGEDLHSP</span><span class="topo-outside">TYLSWRKLQLSRAKLKA</span><span class="topo-membrane">SSKTSALLSGFAMVAM</span><span class="topo-inside">VEVQ</span><span class="topo-unknown">LDHDTNVPPG</span><span class="topo-inside">ML</span></span>
-<span class="topo-line"><span class="topo-inside">IA</span><span class="topo-membrane">FAICTTLLVAVHMLALMI</span><span class="topo-outside">STCILPN</span><span class="topo-unknown">IETVSNLHSISLVHES</span><span class="topo-outside">PHERLHWYIETA</span><span class="topo-membrane">WAFST</span></span>
-<span class="topo-line"><span class="topo-membrane">LLGLILFLLEIAIL</span><span class="topo-inside">CWVKFYDLSRRAAWS</span><span class="topo-membrane">ATVVLIPVMIIFMAFAIHFYR</span><span class="topo-outside">SLVSH</span><span class="topo-unknown">KYEVT</span></span>
-<span class="topo-line"><span class="topo-unknown">VSGIRELEMLKEQMEQ</span><span class="topo-outside">D</span><span class="topo-unknown">HLEHHNNIRNNGEGEEF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSQSGEDLHSP</span><span class="topo-outside">TYLSWRKLQLSRAKLKA</span><span class="topo-membrane">SSKTSALLSGFAMVAM</span><span class="topo-inside">VEVQ</span><span class="topo-unknown">LDHDTNVPPG</span><span class="topo-inside">MLIA</span><span class="topo-membrane">FAICTTLLVAVHMLALMI</span><span class="topo-outside">STCILPN</span><span class="topo-unknown">IETVSNLHSISLVHES</span><span class="topo-outside">PHERLHWYIETA</span><span class="topo-membrane">WAFST</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210    </span>
+<span class="topo-line"><span class="topo-membrane">LLGLILFLLEIAIL</span><span class="topo-inside">CWVKFYDLSRRAAWS</span><span class="topo-membrane">ATVVLIPVMIIFMAFAIHFYR</span><span class="topo-outside">SLVSH</span><span class="topo-unknown">KYEVTVSGIRELEMLKEQMEQ</span><span class="topo-outside">D</span><span class="topo-unknown">HLEHHNNIRNNGEGEEF</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -360,6 +363,7 @@ Orai is the pore-forming subunit of the calcium release-activated calcium (CRAC)
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -375,10 +379,11 @@ Orai is the pore-forming subunit of the calcium release-activated calcium (CRAC)
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSQSGEDLHSP</span><span class="topo-outside">TYLSWRKLQLSRAKLKA</span><span class="topo-membrane">SSKTSALLSGFAMVAM</span><span class="topo-inside">VEVQ</span><span class="topo-unknown">LDHDTNVPPG</span><span class="topo-inside">ML</span></span>
-<span class="topo-line"><span class="topo-inside">IA</span><span class="topo-membrane">FAICTTLLVAVHMLALMI</span><span class="topo-outside">STCILPN</span><span class="topo-unknown">IETVSNLHSISLVHES</span><span class="topo-outside">PHERLHWYIETA</span><span class="topo-membrane">WAFST</span></span>
-<span class="topo-line"><span class="topo-membrane">LLGLILFLLEIAIL</span><span class="topo-inside">CWVKFYDLSRRAAWS</span><span class="topo-membrane">ATVVLIPVMIIFMAFAIHFYR</span><span class="topo-outside">SLVSHKYEVT</span></span>
-<span class="topo-line"><span class="topo-outside">VSGIRELEMLKEQMEQDHLEHH</span><span class="topo-unknown">NNIRNNGEGEEF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSQSGEDLHSP</span><span class="topo-outside">TYLSWRKLQLSRAKLKA</span><span class="topo-membrane">SSKTSALLSGFAMVAM</span><span class="topo-inside">VEVQ</span><span class="topo-unknown">LDHDTNVPPG</span><span class="topo-inside">MLIA</span><span class="topo-membrane">FAICTTLLVAVHMLALMI</span><span class="topo-outside">STCILPN</span><span class="topo-unknown">IETVSNLHSISLVHES</span><span class="topo-outside">PHERLHWYIETA</span><span class="topo-membrane">WAFST</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210    </span>
+<span class="topo-line"><span class="topo-membrane">LLGLILFLLEIAIL</span><span class="topo-inside">CWVKFYDLSRRAAWS</span><span class="topo-membrane">ATVVLIPVMIIFMAFAIHFYR</span><span class="topo-outside">SLVSHKYEVTVSGIRELEMLKEQMEQDHLEHH</span><span class="topo-unknown">NNIRNNGEGEEF</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -495,6 +500,7 @@ Orai is the pore-forming subunit of the calcium release-activated calcium (CRAC)
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -510,10 +516,11 @@ Orai is the pore-forming subunit of the calcium release-activated calcium (CRAC)
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSQSGEDLHSP</span><span class="topo-outside">TYLSWRKLQLSRAKLKA</span><span class="topo-membrane">SSKTSALLSGFAMVAM</span><span class="topo-inside">VEVQ</span><span class="topo-unknown">LDHDTNVPPG</span><span class="topo-inside">ML</span></span>
-<span class="topo-line"><span class="topo-inside">IA</span><span class="topo-membrane">FAICTTLLVAVHMLALMI</span><span class="topo-outside">STCILPN</span><span class="topo-unknown">IETVSNLHSISLVHES</span><span class="topo-outside">PHERLHWYIETA</span><span class="topo-membrane">WAFST</span></span>
-<span class="topo-line"><span class="topo-membrane">LLGLILFLLEIAIL</span><span class="topo-inside">CWVKFYDLSRRAAWS</span><span class="topo-membrane">ATVVLIPVMIIFMAFAIHFYR</span><span class="topo-outside">SLVSH</span><span class="topo-unknown">KYEVT</span></span>
-<span class="topo-line"><span class="topo-unknown">VSGIRELEMLKEQMEQ</span><span class="topo-outside">D</span><span class="topo-unknown">HLEHHNNIRNNGEGEEF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSQSGEDLHSP</span><span class="topo-outside">TYLSWRKLQLSRAKLKA</span><span class="topo-membrane">SSKTSALLSGFAMVAM</span><span class="topo-inside">VEVQ</span><span class="topo-unknown">LDHDTNVPPG</span><span class="topo-inside">MLIA</span><span class="topo-membrane">FAICTTLLVAVHMLALMI</span><span class="topo-outside">STCILPN</span><span class="topo-unknown">IETVSNLHSISLVHES</span><span class="topo-outside">PHERLHWYIETA</span><span class="topo-membrane">WAFST</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210    </span>
+<span class="topo-line"><span class="topo-membrane">LLGLILFLLEIAIL</span><span class="topo-inside">CWVKFYDLSRRAAWS</span><span class="topo-membrane">ATVVLIPVMIIFMAFAIHFYR</span><span class="topo-outside">SLVSH</span><span class="topo-unknown">KYEVTVSGIRELEMLKEQMEQ</span><span class="topo-outside">D</span><span class="topo-unknown">HLEHHNNIRNNGEGEEF</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -644,6 +651,7 @@ Orai is the pore-forming subunit of the calcium release-activated calcium (CRAC)
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -659,10 +667,11 @@ Orai is the pore-forming subunit of the calcium release-activated calcium (CRAC)
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSQSGEDLHSP</span><span class="topo-outside">TYLSWRKLQLSRAKLKA</span><span class="topo-membrane">SSKTSALLSGFAMVAM</span><span class="topo-inside">VEVQ</span><span class="topo-unknown">LDHDTNVPPG</span><span class="topo-inside">ML</span></span>
-<span class="topo-line"><span class="topo-inside">IA</span><span class="topo-membrane">FAICTTLLVAVHMLALMI</span><span class="topo-outside">STCILPN</span><span class="topo-unknown">IETVSNLHSISLVHES</span><span class="topo-outside">PHERLHWYIETA</span><span class="topo-membrane">WAFST</span></span>
-<span class="topo-line"><span class="topo-membrane">LLGLILFLLEIAIL</span><span class="topo-inside">CWVKFYDLSRRAAWS</span><span class="topo-membrane">ATVVLIPVMIIFMAFAIHFYR</span><span class="topo-outside">SLVSHKYEVT</span></span>
-<span class="topo-line"><span class="topo-outside">VSGIRELEMLKEQMEQDHLEHH</span><span class="topo-unknown">NNIRNNGEGEEF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSQSGEDLHSP</span><span class="topo-outside">TYLSWRKLQLSRAKLKA</span><span class="topo-membrane">SSKTSALLSGFAMVAM</span><span class="topo-inside">VEVQ</span><span class="topo-unknown">LDHDTNVPPG</span><span class="topo-inside">MLIA</span><span class="topo-membrane">FAICTTLLVAVHMLALMI</span><span class="topo-outside">STCILPN</span><span class="topo-unknown">IETVSNLHSISLVHES</span><span class="topo-outside">PHERLHWYIETA</span><span class="topo-membrane">WAFST</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210    </span>
+<span class="topo-line"><span class="topo-membrane">LLGLILFLLEIAIL</span><span class="topo-inside">CWVKFYDLSRRAAWS</span><span class="topo-membrane">ATVVLIPVMIIFMAFAIHFYR</span><span class="topo-outside">SLVSHKYEVTVSGIRELEMLKEQMEQDHLEHH</span><span class="topo-unknown">NNIRNNGEGEEF</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -779,6 +788,7 @@ Orai is the pore-forming subunit of the calcium release-activated calcium (CRAC)
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -794,10 +804,11 @@ Orai is the pore-forming subunit of the calcium release-activated calcium (CRAC)
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSQSGEDLHSP</span><span class="topo-outside">TYLSWRKLQLSRAKLKA</span><span class="topo-membrane">SSKTSALLSGFAMVAM</span><span class="topo-inside">VEVQ</span><span class="topo-unknown">LDHDTNVPPG</span><span class="topo-inside">ML</span></span>
-<span class="topo-line"><span class="topo-inside">IA</span><span class="topo-membrane">FAICTTLLVAVHMLALMI</span><span class="topo-outside">STCILPN</span><span class="topo-unknown">IETVSNLHSISLVHES</span><span class="topo-outside">PHERLHWYIETA</span><span class="topo-membrane">WAFST</span></span>
-<span class="topo-line"><span class="topo-membrane">LLGLILFLLEIAIL</span><span class="topo-inside">CWVKFYDLSRRAAWS</span><span class="topo-membrane">ATVVLIPVMIIFMAFAIHFYR</span><span class="topo-outside">SLVSH</span><span class="topo-unknown">KYEVT</span></span>
-<span class="topo-line"><span class="topo-unknown">VSGIRELEMLKEQMEQ</span><span class="topo-outside">D</span><span class="topo-unknown">HLEHHNNIRNNGEGEEF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSQSGEDLHSP</span><span class="topo-outside">TYLSWRKLQLSRAKLKA</span><span class="topo-membrane">SSKTSALLSGFAMVAM</span><span class="topo-inside">VEVQ</span><span class="topo-unknown">LDHDTNVPPG</span><span class="topo-inside">MLIA</span><span class="topo-membrane">FAICTTLLVAVHMLALMI</span><span class="topo-outside">STCILPN</span><span class="topo-unknown">IETVSNLHSISLVHES</span><span class="topo-outside">PHERLHWYIETA</span><span class="topo-membrane">WAFST</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210    </span>
+<span class="topo-line"><span class="topo-membrane">LLGLILFLLEIAIL</span><span class="topo-inside">CWVKFYDLSRRAAWS</span><span class="topo-membrane">ATVVLIPVMIIFMAFAIHFYR</span><span class="topo-outside">SLVSH</span><span class="topo-unknown">KYEVTVSGIRELEMLKEQMEQ</span><span class="topo-outside">D</span><span class="topo-unknown">HLEHHNNIRNNGEGEEF</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -928,6 +939,7 @@ Orai is the pore-forming subunit of the calcium release-activated calcium (CRAC)
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1086,10 +1098,11 @@ Orai is the pore-forming subunit of the calcium release-activated calcium (CRAC)
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSQSGEDLHSPTYLS</span><span class="topo-inside">WRKLQLSRA</span><span class="topo-membrane">KLKASSKTSALLSGFAMVAMVE</span><span class="topo-outside">VQ</span><span class="topo-unknown">LDHDTNVPPG</span><span class="topo-outside">ML</span></span>
-<span class="topo-line"><span class="topo-outside">IA</span><span class="topo-membrane">FAICTTLLVAVAMLALMISTCI</span><span class="topo-inside">LPN</span><span class="topo-unknown">IETVSNLHSISLVHESPHER</span><span class="topo-inside">LHWY</span><span class="topo-membrane">IETAWAFST</span></span>
-<span class="topo-line"><span class="topo-membrane">LLGLILFLLEIAILC</span><span class="topo-outside">WVKFYDLSPPAAWS</span><span class="topo-membrane">ATVVLIPVMIIFMAFAIHFYRS</span><span class="topo-inside">LVSHKYEVT</span></span>
-<span class="topo-line"><span class="topo-inside">VSGIRELEMLKEQME</span><span class="topo-unknown">QDHLEHHNNIRNNGEGEEF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSQSGEDLHSPTYLS</span><span class="topo-inside">WRKLQLSRA</span><span class="topo-membrane">KLKASSKTSALLSGFAMVAMVE</span><span class="topo-outside">VQ</span><span class="topo-unknown">LDHDTNVPPG</span><span class="topo-outside">MLIA</span><span class="topo-membrane">FAICTTLLVAVAMLALMISTCI</span><span class="topo-inside">LPN</span><span class="topo-unknown">IETVSNLHSISLVHESPHER</span><span class="topo-inside">LHWY</span><span class="topo-membrane">IETAWAFST</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210    </span>
+<span class="topo-line"><span class="topo-membrane">LLGLILFLLEIAILC</span><span class="topo-outside">WVKFYDLSPPAAWS</span><span class="topo-membrane">ATVVLIPVMIIFMAFAIHFYRS</span><span class="topo-inside">LVSHKYEVTVSGIRELEMLKEQME</span><span class="topo-unknown">QDHLEHHNNIRNNGEGEEF</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1178,6 +1191,7 @@ Orai is the pore-forming subunit of the calcium release-activated calcium (CRAC)
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1193,10 +1207,11 @@ Orai is the pore-forming subunit of the calcium release-activated calcium (CRAC)
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSQSGEDLHSPTYLS</span><span class="topo-inside">WRKLQLSRAK</span><span class="topo-membrane">LKASSKTSALLSGFAMVAMVE</span><span class="topo-outside">VQ</span><span class="topo-unknown">LDHDTNVPPG</span><span class="topo-outside">ML</span></span>
-<span class="topo-line"><span class="topo-outside">I</span><span class="topo-membrane">AFAICTTLLVAVAMLALMISTC</span><span class="topo-inside">ILPN</span><span class="topo-unknown">IETVSNLHSISLVHESPHER</span><span class="topo-inside">LHWY</span><span class="topo-membrane">IETAWAFST</span></span>
-<span class="topo-line"><span class="topo-membrane">LLGLILFLLEIAILCW</span><span class="topo-outside">VKFYDLSPPAAWS</span><span class="topo-membrane">ATVVLIPVMIIFMAFAIHFYRS</span><span class="topo-inside">LVSHKYEVT</span></span>
-<span class="topo-line"><span class="topo-inside">VSGIRELEMLKEQME</span><span class="topo-unknown">QDHLEHHNNIRNNGEGEEF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSQSGEDLHSPTYLS</span><span class="topo-inside">WRKLQLSRAK</span><span class="topo-membrane">LKASSKTSALLSGFAMVAMVE</span><span class="topo-outside">VQ</span><span class="topo-unknown">LDHDTNVPPG</span><span class="topo-outside">MLI</span><span class="topo-membrane">AFAICTTLLVAVAMLALMISTC</span><span class="topo-inside">ILPN</span><span class="topo-unknown">IETVSNLHSISLVHESPHER</span><span class="topo-inside">LHWY</span><span class="topo-membrane">IETAWAFST</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210    </span>
+<span class="topo-line"><span class="topo-membrane">LLGLILFLLEIAILCW</span><span class="topo-outside">VKFYDLSPPAAWS</span><span class="topo-membrane">ATVVLIPVMIIFMAFAIHFYRS</span><span class="topo-inside">LVSHKYEVTVSGIRELEMLKEQME</span><span class="topo-unknown">QDHLEHHNNIRNNGEGEEF</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1285,6 +1300,7 @@ Orai is the pore-forming subunit of the calcium release-activated calcium (CRAC)
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1300,10 +1316,11 @@ Orai is the pore-forming subunit of the calcium release-activated calcium (CRAC)
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSQSGEDLHSPTYLS</span><span class="topo-inside">WRKLQLSRAK</span><span class="topo-membrane">LKASSKTSALLSGFAMVAMVE</span><span class="topo-outside">VQ</span><span class="topo-unknown">LDHDTNVPPG</span><span class="topo-outside">ML</span></span>
-<span class="topo-line"><span class="topo-outside">I</span><span class="topo-membrane">AFAICTTLLVAVAMLALMISTC</span><span class="topo-inside">ILPN</span><span class="topo-unknown">IETVSNLHSISLVHESPHER</span><span class="topo-inside">LHWYI</span><span class="topo-membrane">ETAWAFST</span></span>
-<span class="topo-line"><span class="topo-membrane">LLGLILFLLEIAILCW</span><span class="topo-outside">VKFYDLSPPAAW</span><span class="topo-membrane">SATVVLIPVMIIFMAFAIHFYR</span><span class="topo-inside">SLVSHKYEVT</span></span>
-<span class="topo-line"><span class="topo-inside">VSGIRELEMLKEQME</span><span class="topo-unknown">QDHLEHHNNIRNNGEGEEF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSQSGEDLHSPTYLS</span><span class="topo-inside">WRKLQLSRAK</span><span class="topo-membrane">LKASSKTSALLSGFAMVAMVE</span><span class="topo-outside">VQ</span><span class="topo-unknown">LDHDTNVPPG</span><span class="topo-outside">MLI</span><span class="topo-membrane">AFAICTTLLVAVAMLALMISTC</span><span class="topo-inside">ILPN</span><span class="topo-unknown">IETVSNLHSISLVHESPHER</span><span class="topo-inside">LHWYI</span><span class="topo-membrane">ETAWAFST</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210    </span>
+<span class="topo-line"><span class="topo-membrane">LLGLILFLLEIAILCW</span><span class="topo-outside">VKFYDLSPPAAW</span><span class="topo-membrane">SATVVLIPVMIIFMAFAIHFYR</span><span class="topo-inside">SLVSHKYEVTVSGIRELEMLKEQME</span><span class="topo-unknown">QDHLEHHNNIRNNGEGEEF</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1392,6 +1409,7 @@ Orai is the pore-forming subunit of the calcium release-activated calcium (CRAC)
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1407,10 +1425,11 @@ Orai is the pore-forming subunit of the calcium release-activated calcium (CRAC)
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSQSGEDLHSPTYLS</span><span class="topo-inside">WRKLQLSRAK</span><span class="topo-membrane">LKASSKTSALLSGFAMVAMVE</span><span class="topo-outside">VQ</span><span class="topo-unknown">LDHDTNVPPG</span><span class="topo-outside">ML</span></span>
-<span class="topo-line"><span class="topo-outside">I</span><span class="topo-membrane">AFAICTTLLVAVAMLALMISTC</span><span class="topo-inside">ILPN</span><span class="topo-unknown">IETVSNLHSISLVHESPHER</span><span class="topo-inside">LHWYI</span><span class="topo-membrane">ETAWAFST</span></span>
-<span class="topo-line"><span class="topo-membrane">LLGLILFLLEIAILCW</span><span class="topo-outside">VKFYDLSPPAA</span><span class="topo-membrane">WSATVVLIPVMIIFMAFAIHFYR</span><span class="topo-inside">SLVSHKYEVT</span></span>
-<span class="topo-line"><span class="topo-inside">VSGIRELEMLKEQME</span><span class="topo-unknown">QDHLEHHNNIRNNGEGEEF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSQSGEDLHSPTYLS</span><span class="topo-inside">WRKLQLSRAK</span><span class="topo-membrane">LKASSKTSALLSGFAMVAMVE</span><span class="topo-outside">VQ</span><span class="topo-unknown">LDHDTNVPPG</span><span class="topo-outside">MLI</span><span class="topo-membrane">AFAICTTLLVAVAMLALMISTC</span><span class="topo-inside">ILPN</span><span class="topo-unknown">IETVSNLHSISLVHESPHER</span><span class="topo-inside">LHWYI</span><span class="topo-membrane">ETAWAFST</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210    </span>
+<span class="topo-line"><span class="topo-membrane">LLGLILFLLEIAILCW</span><span class="topo-outside">VKFYDLSPPAA</span><span class="topo-membrane">WSATVVLIPVMIIFMAFAIHFYR</span><span class="topo-inside">SLVSHKYEVTVSGIRELEMLKEQME</span><span class="topo-unknown">QDHLEHHNNIRNNGEGEEF</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1499,6 +1518,7 @@ Orai is the pore-forming subunit of the calcium release-activated calcium (CRAC)
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1514,10 +1534,11 @@ Orai is the pore-forming subunit of the calcium release-activated calcium (CRAC)
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSQSGEDLHSPTYLS</span><span class="topo-inside">WRKLQLSRAK</span><span class="topo-membrane">LKASSKTSALLSGFAMVAMVE</span><span class="topo-outside">VQ</span><span class="topo-unknown">LDHDTNVPPG</span><span class="topo-outside">ML</span></span>
-<span class="topo-line"><span class="topo-outside">I</span><span class="topo-membrane">AFAICTTLLVAVAMLALMISTCI</span><span class="topo-inside">LPN</span><span class="topo-unknown">IETVSNLHSISLVHESPHER</span><span class="topo-inside">LHWY</span><span class="topo-membrane">IETAWAFST</span></span>
-<span class="topo-line"><span class="topo-membrane">LLGLILFLLEIAILCW</span><span class="topo-outside">VKFYDLSPPAA</span><span class="topo-membrane">WSATVVLIPVMIIFMAFAIHFYR</span><span class="topo-inside">SLVSHKYEVT</span></span>
-<span class="topo-line"><span class="topo-inside">VSGIRELEMLKEQME</span><span class="topo-unknown">QDHLEHHNNIRNNGEGEEF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSQSGEDLHSPTYLS</span><span class="topo-inside">WRKLQLSRAK</span><span class="topo-membrane">LKASSKTSALLSGFAMVAMVE</span><span class="topo-outside">VQ</span><span class="topo-unknown">LDHDTNVPPG</span><span class="topo-outside">MLI</span><span class="topo-membrane">AFAICTTLLVAVAMLALMISTCI</span><span class="topo-inside">LPN</span><span class="topo-unknown">IETVSNLHSISLVHESPHER</span><span class="topo-inside">LHWY</span><span class="topo-membrane">IETAWAFST</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210    </span>
+<span class="topo-line"><span class="topo-membrane">LLGLILFLLEIAILCW</span><span class="topo-outside">VKFYDLSPPAA</span><span class="topo-membrane">WSATVVLIPVMIIFMAFAIHFYR</span><span class="topo-inside">SLVSHKYEVTVSGIRELEMLKEQME</span><span class="topo-unknown">QDHLEHHNNIRNNGEGEEF</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1606,6 +1627,7 @@ Orai is the pore-forming subunit of the calcium release-activated calcium (CRAC)
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1621,10 +1643,11 @@ Orai is the pore-forming subunit of the calcium release-activated calcium (CRAC)
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSQSGEDLHSPTYLS</span><span class="topo-inside">WRKLQLSRA</span><span class="topo-membrane">KLKASSKTSALLSGFAMVAMVE</span><span class="topo-outside">VQ</span><span class="topo-unknown">LDHDTNVPPG</span><span class="topo-outside">ML</span></span>
-<span class="topo-line"><span class="topo-outside">IA</span><span class="topo-membrane">FAICTTLLVAVAMLALMISTCI</span><span class="topo-inside">LPN</span><span class="topo-unknown">IETVSNLHSISLVHESPHER</span><span class="topo-inside">LHWY</span><span class="topo-membrane">IETAWAFST</span></span>
-<span class="topo-line"><span class="topo-membrane">LLGLILFLLEIAILCW</span><span class="topo-outside">VKFYDLSPPAAW</span><span class="topo-membrane">SATVVLIPVMIIFMAFAIHFYR</span><span class="topo-inside">SLVSHKYEVT</span></span>
-<span class="topo-line"><span class="topo-inside">VSGIRELEMLKEQME</span><span class="topo-unknown">QDHLEHHNNIRNNGEGEEF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSQSGEDLHSPTYLS</span><span class="topo-inside">WRKLQLSRA</span><span class="topo-membrane">KLKASSKTSALLSGFAMVAMVE</span><span class="topo-outside">VQ</span><span class="topo-unknown">LDHDTNVPPG</span><span class="topo-outside">MLIA</span><span class="topo-membrane">FAICTTLLVAVAMLALMISTCI</span><span class="topo-inside">LPN</span><span class="topo-unknown">IETVSNLHSISLVHESPHER</span><span class="topo-inside">LHWY</span><span class="topo-membrane">IETAWAFST</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210    </span>
+<span class="topo-line"><span class="topo-membrane">LLGLILFLLEIAILCW</span><span class="topo-outside">VKFYDLSPPAAW</span><span class="topo-membrane">SATVVLIPVMIIFMAFAIHFYR</span><span class="topo-inside">SLVSHKYEVTVSGIRELEMLKEQME</span><span class="topo-unknown">QDHLEHHNNIRNNGEGEEF</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1713,6 +1736,7 @@ Orai is the pore-forming subunit of the calcium release-activated calcium (CRAC)
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1728,10 +1752,11 @@ Orai is the pore-forming subunit of the calcium release-activated calcium (CRAC)
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSQSGEDLHSPTYLS</span><span class="topo-inside">WRKLQLSRAK</span><span class="topo-membrane">LKASSKTSALLSGFAMVAMV</span><span class="topo-outside">EVQ</span><span class="topo-unknown">LDHDTNVPPG</span><span class="topo-outside">ML</span></span>
-<span class="topo-line"><span class="topo-outside">IA</span><span class="topo-membrane">FAICTTLLVAVHMLALMISTC</span><span class="topo-inside">ILPN</span><span class="topo-unknown">IETVSNLHSISLVHESPHER</span><span class="topo-inside">LHWYI</span><span class="topo-membrane">ETAWAFST</span></span>
-<span class="topo-line"><span class="topo-membrane">LLGLILFLLEIAILC</span><span class="topo-outside">WVKFYDLSPPAAWS</span><span class="topo-membrane">ATVVLIPVMIIFMAFAIHFYR</span><span class="topo-inside">SLVSHKYEVT</span></span>
-<span class="topo-line"><span class="topo-inside">VSGIRELEMLKEQME</span><span class="topo-unknown">QDHLEHHNNIRNNGEGEEF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSQSGEDLHSPTYLS</span><span class="topo-inside">WRKLQLSRAK</span><span class="topo-membrane">LKASSKTSALLSGFAMVAMV</span><span class="topo-outside">EVQ</span><span class="topo-unknown">LDHDTNVPPG</span><span class="topo-outside">MLIA</span><span class="topo-membrane">FAICTTLLVAVHMLALMISTC</span><span class="topo-inside">ILPN</span><span class="topo-unknown">IETVSNLHSISLVHESPHER</span><span class="topo-inside">LHWYI</span><span class="topo-membrane">ETAWAFST</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210    </span>
+<span class="topo-line"><span class="topo-membrane">LLGLILFLLEIAILC</span><span class="topo-outside">WVKFYDLSPPAAWS</span><span class="topo-membrane">ATVVLIPVMIIFMAFAIHFYR</span><span class="topo-inside">SLVSHKYEVTVSGIRELEMLKEQME</span><span class="topo-unknown">QDHLEHHNNIRNNGEGEEF</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1820,6 +1845,7 @@ Orai is the pore-forming subunit of the calcium release-activated calcium (CRAC)
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1835,10 +1861,11 @@ Orai is the pore-forming subunit of the calcium release-activated calcium (CRAC)
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSQSGEDLHSPTYLS</span><span class="topo-inside">WRKLQLSRAK</span><span class="topo-membrane">LKASSKTSALLSGFAMVAMV</span><span class="topo-outside">EVQ</span><span class="topo-unknown">LDHDTNVPPG</span><span class="topo-outside">ML</span></span>
-<span class="topo-line"><span class="topo-outside">IA</span><span class="topo-membrane">FAICTTLLVAVHMLALMISTC</span><span class="topo-inside">ILPN</span><span class="topo-unknown">IETVSNLHSISLVHESPHER</span><span class="topo-inside">LHWY</span><span class="topo-membrane">IETAWAFST</span></span>
-<span class="topo-line"><span class="topo-membrane">LLGLILFLLEIAILC</span><span class="topo-outside">WVKFYDLSPPAAWS</span><span class="topo-membrane">ATVVLIPVMIIFMAFAIHFYR</span><span class="topo-inside">SLVSHKYEVT</span></span>
-<span class="topo-line"><span class="topo-inside">VSGIRELEMLKEQME</span><span class="topo-unknown">QDHLEHHNNIRNNGEGEEF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSQSGEDLHSPTYLS</span><span class="topo-inside">WRKLQLSRAK</span><span class="topo-membrane">LKASSKTSALLSGFAMVAMV</span><span class="topo-outside">EVQ</span><span class="topo-unknown">LDHDTNVPPG</span><span class="topo-outside">MLIA</span><span class="topo-membrane">FAICTTLLVAVHMLALMISTC</span><span class="topo-inside">ILPN</span><span class="topo-unknown">IETVSNLHSISLVHESPHER</span><span class="topo-inside">LHWY</span><span class="topo-membrane">IETAWAFST</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210    </span>
+<span class="topo-line"><span class="topo-membrane">LLGLILFLLEIAILC</span><span class="topo-outside">WVKFYDLSPPAAWS</span><span class="topo-membrane">ATVVLIPVMIIFMAFAIHFYR</span><span class="topo-inside">SLVSHKYEVTVSGIRELEMLKEQME</span><span class="topo-unknown">QDHLEHHNNIRNNGEGEEF</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1927,6 +1954,7 @@ Orai is the pore-forming subunit of the calcium release-activated calcium (CRAC)
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1942,10 +1970,11 @@ Orai is the pore-forming subunit of the calcium release-activated calcium (CRAC)
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSQSGEDLHSPTYLS</span><span class="topo-inside">WRKLQLSRAK</span><span class="topo-membrane">LKASSKTSALLSGFAMVAMV</span><span class="topo-outside">EVQ</span><span class="topo-unknown">LDHDTNVPPG</span><span class="topo-outside">ML</span></span>
-<span class="topo-line"><span class="topo-outside">IA</span><span class="topo-membrane">FAICTTLLVAVHMLALMISTC</span><span class="topo-inside">ILPN</span><span class="topo-unknown">IETVSNLHSISLVHESPHER</span><span class="topo-inside">LHWY</span><span class="topo-membrane">IETAWAFST</span></span>
-<span class="topo-line"><span class="topo-membrane">LLGLILFLLEIAILC</span><span class="topo-outside">WVKFYDLSPPAAWS</span><span class="topo-membrane">ATVVLIPVMIIFMAFAIHFYR</span><span class="topo-inside">SLVSHKYEVT</span></span>
-<span class="topo-line"><span class="topo-inside">VSGIRELEMLKEQME</span><span class="topo-unknown">QDHLEHHNNIRNNGEGEEF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSQSGEDLHSPTYLS</span><span class="topo-inside">WRKLQLSRAK</span><span class="topo-membrane">LKASSKTSALLSGFAMVAMV</span><span class="topo-outside">EVQ</span><span class="topo-unknown">LDHDTNVPPG</span><span class="topo-outside">MLIA</span><span class="topo-membrane">FAICTTLLVAVHMLALMISTC</span><span class="topo-inside">ILPN</span><span class="topo-unknown">IETVSNLHSISLVHESPHER</span><span class="topo-inside">LHWY</span><span class="topo-membrane">IETAWAFST</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210    </span>
+<span class="topo-line"><span class="topo-membrane">LLGLILFLLEIAILC</span><span class="topo-outside">WVKFYDLSPPAAWS</span><span class="topo-membrane">ATVVLIPVMIIFMAFAIHFYR</span><span class="topo-inside">SLVSHKYEVTVSGIRELEMLKEQME</span><span class="topo-unknown">QDHLEHHNNIRNNGEGEEF</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2034,6 +2063,7 @@ Orai is the pore-forming subunit of the calcium release-activated calcium (CRAC)
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2049,10 +2079,11 @@ Orai is the pore-forming subunit of the calcium release-activated calcium (CRAC)
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSQSGEDLHSPTYLS</span><span class="topo-inside">WRKLQLSRAK</span><span class="topo-membrane">LKASSKTSALLSGFAMVAMV</span><span class="topo-outside">EVQ</span><span class="topo-unknown">LDHDTNVPPG</span><span class="topo-outside">ML</span></span>
-<span class="topo-line"><span class="topo-outside">IA</span><span class="topo-membrane">FAICTTLLVAVHMLALMISTC</span><span class="topo-inside">ILPN</span><span class="topo-unknown">IETVSNLHSISLVHESPHER</span><span class="topo-inside">LHWY</span><span class="topo-membrane">IETAWAFST</span></span>
-<span class="topo-line"><span class="topo-membrane">LLGLILFLLEIAILC</span><span class="topo-outside">WVKFYDLSPPAAWS</span><span class="topo-membrane">ATVVLIPVMIIFMAFAIHFYR</span><span class="topo-inside">SLVSHKYEVT</span></span>
-<span class="topo-line"><span class="topo-inside">VSGIRELEMLKEQME</span><span class="topo-unknown">QDHLEHHNNIRNNGEGEEF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSQSGEDLHSPTYLS</span><span class="topo-inside">WRKLQLSRAK</span><span class="topo-membrane">LKASSKTSALLSGFAMVAMV</span><span class="topo-outside">EVQ</span><span class="topo-unknown">LDHDTNVPPG</span><span class="topo-outside">MLIA</span><span class="topo-membrane">FAICTTLLVAVHMLALMISTC</span><span class="topo-inside">ILPN</span><span class="topo-unknown">IETVSNLHSISLVHESPHER</span><span class="topo-inside">LHWY</span><span class="topo-membrane">IETAWAFST</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210    </span>
+<span class="topo-line"><span class="topo-membrane">LLGLILFLLEIAILC</span><span class="topo-outside">WVKFYDLSPPAAWS</span><span class="topo-membrane">ATVVLIPVMIIFMAFAIHFYR</span><span class="topo-inside">SLVSHKYEVTVSGIRELEMLKEQME</span><span class="topo-unknown">QDHLEHHNNIRNNGEGEEF</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2141,6 +2172,7 @@ Orai is the pore-forming subunit of the calcium release-activated calcium (CRAC)
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2156,10 +2188,11 @@ Orai is the pore-forming subunit of the calcium release-activated calcium (CRAC)
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSQSGEDLHSPTYLS</span><span class="topo-inside">WRKLQLSRAK</span><span class="topo-membrane">LKASSKTSALLSGFAMVAMV</span><span class="topo-outside">EVQ</span><span class="topo-unknown">LDHDTNVPPG</span><span class="topo-outside">ML</span></span>
-<span class="topo-line"><span class="topo-outside">IA</span><span class="topo-membrane">FAICTTLLVAVHMLALMISTC</span><span class="topo-inside">ILPN</span><span class="topo-unknown">IETVSNLHSISLVHESPHER</span><span class="topo-inside">LHWY</span><span class="topo-membrane">IETAWAFST</span></span>
-<span class="topo-line"><span class="topo-membrane">LLGLILFLLEIAILC</span><span class="topo-outside">WVKFYDLSPPAAWS</span><span class="topo-membrane">ATVVLIPVMIIFMAFAIHFYR</span><span class="topo-inside">SLVSHKYEVT</span></span>
-<span class="topo-line"><span class="topo-inside">VSGIRELEMLKEQME</span><span class="topo-unknown">QDHLEHHNNIRNNGEGEEF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSQSGEDLHSPTYLS</span><span class="topo-inside">WRKLQLSRAK</span><span class="topo-membrane">LKASSKTSALLSGFAMVAMV</span><span class="topo-outside">EVQ</span><span class="topo-unknown">LDHDTNVPPG</span><span class="topo-outside">MLIA</span><span class="topo-membrane">FAICTTLLVAVHMLALMISTC</span><span class="topo-inside">ILPN</span><span class="topo-unknown">IETVSNLHSISLVHESPHER</span><span class="topo-inside">LHWY</span><span class="topo-membrane">IETAWAFST</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210    </span>
+<span class="topo-line"><span class="topo-membrane">LLGLILFLLEIAILC</span><span class="topo-outside">WVKFYDLSPPAAWS</span><span class="topo-membrane">ATVVLIPVMIIFMAFAIHFYR</span><span class="topo-inside">SLVSHKYEVTVSGIRELEMLKEQME</span><span class="topo-unknown">QDHLEHHNNIRNNGEGEEF</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2248,6 +2281,7 @@ Orai is the pore-forming subunit of the calcium release-activated calcium (CRAC)
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2263,10 +2297,11 @@ Orai is the pore-forming subunit of the calcium release-activated calcium (CRAC)
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSQSGEDLHSPTYLS</span><span class="topo-inside">WRKLQLSRAK</span><span class="topo-membrane">LKASSKTSALLSGFAMVAMVE</span><span class="topo-outside">VQ</span><span class="topo-unknown">LDHDTNVPPG</span><span class="topo-outside">ML</span></span>
-<span class="topo-line"><span class="topo-outside">IA</span><span class="topo-membrane">FAICTTLLVAVHMLALMISTC</span><span class="topo-inside">ILPN</span><span class="topo-unknown">IETVSNLHSISLVHESPHER</span><span class="topo-inside">LHWYI</span><span class="topo-membrane">ETAWAFST</span></span>
-<span class="topo-line"><span class="topo-membrane">LLGLILFLLEIAILC</span><span class="topo-outside">WVKFYDLSPPAAWS</span><span class="topo-membrane">ATVVLIPVMIIFMAFAIHFYR</span><span class="topo-inside">SLVSHKYEVT</span></span>
-<span class="topo-line"><span class="topo-inside">VSGIRELEMLKEQME</span><span class="topo-unknown">QDHLEHHNNIRNNGEGEEF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSQSGEDLHSPTYLS</span><span class="topo-inside">WRKLQLSRAK</span><span class="topo-membrane">LKASSKTSALLSGFAMVAMVE</span><span class="topo-outside">VQ</span><span class="topo-unknown">LDHDTNVPPG</span><span class="topo-outside">MLIA</span><span class="topo-membrane">FAICTTLLVAVHMLALMISTC</span><span class="topo-inside">ILPN</span><span class="topo-unknown">IETVSNLHSISLVHESPHER</span><span class="topo-inside">LHWYI</span><span class="topo-membrane">ETAWAFST</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210    </span>
+<span class="topo-line"><span class="topo-membrane">LLGLILFLLEIAILC</span><span class="topo-outside">WVKFYDLSPPAAWS</span><span class="topo-membrane">ATVVLIPVMIIFMAFAIHFYR</span><span class="topo-inside">SLVSHKYEVTVSGIRELEMLKEQME</span><span class="topo-unknown">QDHLEHHNNIRNNGEGEEF</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2355,6 +2390,7 @@ Orai is the pore-forming subunit of the calcium release-activated calcium (CRAC)
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2370,10 +2406,11 @@ Orai is the pore-forming subunit of the calcium release-activated calcium (CRAC)
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSQSGEDLHSPTYLS</span><span class="topo-inside">WRKLQLSRA</span><span class="topo-membrane">KLKASSWTSALLSGFAMVAMV</span><span class="topo-outside">EVQ</span><span class="topo-unknown">LDHDTNVPPG</span><span class="topo-outside">ML</span></span>
-<span class="topo-line"><span class="topo-outside">IA</span><span class="topo-membrane">FAICTTLLVAVHMLALMISTCI</span><span class="topo-inside">LPN</span><span class="topo-unknown">IETVSNLHSISLVHESPHER</span><span class="topo-inside">LHWY</span><span class="topo-membrane">IETAWAFST</span></span>
-<span class="topo-line"><span class="topo-membrane">LLGLILFLLEIAILC</span><span class="topo-outside">WVKFYDLSPPAAWS</span><span class="topo-membrane">ATVVLIPVMIIFMAFAIHFYR</span><span class="topo-inside">SLVSHKYEVT</span></span>
-<span class="topo-line"><span class="topo-inside">VSGIRELEMLKEQME</span><span class="topo-unknown">QDHLEHHNNIRNNGEGEEF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSQSGEDLHSPTYLS</span><span class="topo-inside">WRKLQLSRA</span><span class="topo-membrane">KLKASSWTSALLSGFAMVAMV</span><span class="topo-outside">EVQ</span><span class="topo-unknown">LDHDTNVPPG</span><span class="topo-outside">MLIA</span><span class="topo-membrane">FAICTTLLVAVHMLALMISTCI</span><span class="topo-inside">LPN</span><span class="topo-unknown">IETVSNLHSISLVHESPHER</span><span class="topo-inside">LHWY</span><span class="topo-membrane">IETAWAFST</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210    </span>
+<span class="topo-line"><span class="topo-membrane">LLGLILFLLEIAILC</span><span class="topo-outside">WVKFYDLSPPAAWS</span><span class="topo-membrane">ATVVLIPVMIIFMAFAIHFYR</span><span class="topo-inside">SLVSHKYEVTVSGIRELEMLKEQME</span><span class="topo-unknown">QDHLEHHNNIRNNGEGEEF</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2462,6 +2499,7 @@ Orai is the pore-forming subunit of the calcium release-activated calcium (CRAC)
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2477,10 +2515,11 @@ Orai is the pore-forming subunit of the calcium release-activated calcium (CRAC)
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSQSGEDLHSPTYLS</span><span class="topo-inside">WRKLQLSRA</span><span class="topo-membrane">KLKASSWTSALLSGFAMVAMV</span><span class="topo-outside">EVQ</span><span class="topo-unknown">LDHDTNVPPG</span><span class="topo-outside">ML</span></span>
-<span class="topo-line"><span class="topo-outside">IA</span><span class="topo-membrane">FAICTTLLVAVHMLALMISTCI</span><span class="topo-inside">LPN</span><span class="topo-unknown">IETVSNLHSISLVHESPHER</span><span class="topo-inside">LHWY</span><span class="topo-membrane">IETAWAFST</span></span>
-<span class="topo-line"><span class="topo-membrane">LLGLILFLLEIAILC</span><span class="topo-outside">WVKFYDLSPPAAWS</span><span class="topo-membrane">ATVVLIPVMIIFMAFAIHFYR</span><span class="topo-inside">SLVSHKYEVT</span></span>
-<span class="topo-line"><span class="topo-inside">VSGIRELEMLKEQME</span><span class="topo-unknown">QDHLEHHNNIRNNGEGEEF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSQSGEDLHSPTYLS</span><span class="topo-inside">WRKLQLSRA</span><span class="topo-membrane">KLKASSWTSALLSGFAMVAMV</span><span class="topo-outside">EVQ</span><span class="topo-unknown">LDHDTNVPPG</span><span class="topo-outside">MLIA</span><span class="topo-membrane">FAICTTLLVAVHMLALMISTCI</span><span class="topo-inside">LPN</span><span class="topo-unknown">IETVSNLHSISLVHESPHER</span><span class="topo-inside">LHWY</span><span class="topo-membrane">IETAWAFST</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210    </span>
+<span class="topo-line"><span class="topo-membrane">LLGLILFLLEIAILC</span><span class="topo-outside">WVKFYDLSPPAAWS</span><span class="topo-membrane">ATVVLIPVMIIFMAFAIHFYR</span><span class="topo-inside">SLVSHKYEVTVSGIRELEMLKEQME</span><span class="topo-unknown">QDHLEHHNNIRNNGEGEEF</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2569,6 +2608,7 @@ Orai is the pore-forming subunit of the calcium release-activated calcium (CRAC)
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2584,10 +2624,11 @@ Orai is the pore-forming subunit of the calcium release-activated calcium (CRAC)
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSQSGEDLHSPTYLS</span><span class="topo-inside">WRKLQLSRA</span><span class="topo-membrane">KLKASSWTSALLSGFAMVAMV</span><span class="topo-outside">EVQ</span><span class="topo-unknown">LDHDTNVPPG</span><span class="topo-outside">ML</span></span>
-<span class="topo-line"><span class="topo-outside">IA</span><span class="topo-membrane">FAICTTLLVAVHMLALMISTCI</span><span class="topo-inside">LPN</span><span class="topo-unknown">IETVSNLHSISLVHESPHER</span><span class="topo-inside">LHWY</span><span class="topo-membrane">IETAWAFST</span></span>
-<span class="topo-line"><span class="topo-membrane">LLGLILFLLEIAILC</span><span class="topo-outside">WVKFYDLSPPAAWS</span><span class="topo-membrane">ATVVLIPVMIIFMAFAIHFYR</span><span class="topo-inside">SLVSHKYEVT</span></span>
-<span class="topo-line"><span class="topo-inside">VSGIRELEMLKEQME</span><span class="topo-unknown">QDHLEHHNNIRNNGEGEEF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSQSGEDLHSPTYLS</span><span class="topo-inside">WRKLQLSRA</span><span class="topo-membrane">KLKASSWTSALLSGFAMVAMV</span><span class="topo-outside">EVQ</span><span class="topo-unknown">LDHDTNVPPG</span><span class="topo-outside">MLIA</span><span class="topo-membrane">FAICTTLLVAVHMLALMISTCI</span><span class="topo-inside">LPN</span><span class="topo-unknown">IETVSNLHSISLVHESPHER</span><span class="topo-inside">LHWY</span><span class="topo-membrane">IETAWAFST</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210    </span>
+<span class="topo-line"><span class="topo-membrane">LLGLILFLLEIAILC</span><span class="topo-outside">WVKFYDLSPPAAWS</span><span class="topo-membrane">ATVVLIPVMIIFMAFAIHFYR</span><span class="topo-inside">SLVSHKYEVTVSGIRELEMLKEQME</span><span class="topo-unknown">QDHLEHHNNIRNNGEGEEF</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2676,6 +2717,7 @@ Orai is the pore-forming subunit of the calcium release-activated calcium (CRAC)
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2691,10 +2733,11 @@ Orai is the pore-forming subunit of the calcium release-activated calcium (CRAC)
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSQSGEDLHSPTYLS</span><span class="topo-inside">WRKLQLSRA</span><span class="topo-membrane">KLKASSWTSALLSGFAMVAMV</span><span class="topo-outside">EVQ</span><span class="topo-unknown">LDHDTNVPPG</span><span class="topo-outside">ML</span></span>
-<span class="topo-line"><span class="topo-outside">IA</span><span class="topo-membrane">FAICTTLLVAVHMLALMISTCI</span><span class="topo-inside">LPN</span><span class="topo-unknown">IETVSNLHSISLVHESPHER</span><span class="topo-inside">LHWY</span><span class="topo-membrane">IETAWAFST</span></span>
-<span class="topo-line"><span class="topo-membrane">LLGLILFLLEIAILC</span><span class="topo-outside">WVKFYDLSPPAAWS</span><span class="topo-membrane">ATVVLIPVMIIFMAFAIHFYR</span><span class="topo-inside">SLVSHKYEVT</span></span>
-<span class="topo-line"><span class="topo-inside">VSGIRELEMLKEQME</span><span class="topo-unknown">QDHLEHHNNIRNNGEGEEF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSQSGEDLHSPTYLS</span><span class="topo-inside">WRKLQLSRA</span><span class="topo-membrane">KLKASSWTSALLSGFAMVAMV</span><span class="topo-outside">EVQ</span><span class="topo-unknown">LDHDTNVPPG</span><span class="topo-outside">MLIA</span><span class="topo-membrane">FAICTTLLVAVHMLALMISTCI</span><span class="topo-inside">LPN</span><span class="topo-unknown">IETVSNLHSISLVHESPHER</span><span class="topo-inside">LHWY</span><span class="topo-membrane">IETAWAFST</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210    </span>
+<span class="topo-line"><span class="topo-membrane">LLGLILFLLEIAILC</span><span class="topo-outside">WVKFYDLSPPAAWS</span><span class="topo-membrane">ATVVLIPVMIIFMAFAIHFYR</span><span class="topo-inside">SLVSHKYEVTVSGIRELEMLKEQME</span><span class="topo-unknown">QDHLEHHNNIRNNGEGEEF</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2783,6 +2826,7 @@ Orai is the pore-forming subunit of the calcium release-activated calcium (CRAC)
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2798,10 +2842,11 @@ Orai is the pore-forming subunit of the calcium release-activated calcium (CRAC)
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSQSGEDLHSPTYLS</span><span class="topo-inside">WRKLQLSRA</span><span class="topo-membrane">KLKASSWTSALLSGFAMVAMV</span><span class="topo-outside">EVQ</span><span class="topo-unknown">LDHDTNVPPG</span><span class="topo-outside">ML</span></span>
-<span class="topo-line"><span class="topo-outside">IA</span><span class="topo-membrane">FAICTTLLVAVHMLALMISTCI</span><span class="topo-inside">LPN</span><span class="topo-unknown">IETVSNLHSISLVHESPHER</span><span class="topo-inside">LHWY</span><span class="topo-membrane">IETAWAFST</span></span>
-<span class="topo-line"><span class="topo-membrane">LLGLILFLLEIAILC</span><span class="topo-outside">WVKFYDLSPPAAWS</span><span class="topo-membrane">ATVVLIPVMIIFMAFAIHFYR</span><span class="topo-inside">SLVSHKYEVT</span></span>
-<span class="topo-line"><span class="topo-inside">VSGIRELEMLKEQME</span><span class="topo-unknown">QDHLEHHNNIRNNGEGEEF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSQSGEDLHSPTYLS</span><span class="topo-inside">WRKLQLSRA</span><span class="topo-membrane">KLKASSWTSALLSGFAMVAMV</span><span class="topo-outside">EVQ</span><span class="topo-unknown">LDHDTNVPPG</span><span class="topo-outside">MLIA</span><span class="topo-membrane">FAICTTLLVAVHMLALMISTCI</span><span class="topo-inside">LPN</span><span class="topo-unknown">IETVSNLHSISLVHESPHER</span><span class="topo-inside">LHWY</span><span class="topo-membrane">IETAWAFST</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210    </span>
+<span class="topo-line"><span class="topo-membrane">LLGLILFLLEIAILC</span><span class="topo-outside">WVKFYDLSPPAAWS</span><span class="topo-membrane">ATVVLIPVMIIFMAFAIHFYR</span><span class="topo-inside">SLVSHKYEVTVSGIRELEMLKEQME</span><span class="topo-unknown">QDHLEHHNNIRNNGEGEEF</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2890,6 +2935,7 @@ Orai is the pore-forming subunit of the calcium release-activated calcium (CRAC)
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2905,10 +2951,11 @@ Orai is the pore-forming subunit of the calcium release-activated calcium (CRAC)
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSQSGEDLHSPTYLS</span><span class="topo-inside">WRKLQLSRA</span><span class="topo-membrane">KLKASSWTSALLSGFAMVAMV</span><span class="topo-outside">EVQ</span><span class="topo-unknown">LDHDTNVPPG</span><span class="topo-outside">ML</span></span>
-<span class="topo-line"><span class="topo-outside">IA</span><span class="topo-membrane">FAICTTLLVAVHMLALMISTCI</span><span class="topo-inside">LPN</span><span class="topo-unknown">IETVSNLHSISLVHESPHER</span><span class="topo-inside">LHWY</span><span class="topo-membrane">IETAWAFST</span></span>
-<span class="topo-line"><span class="topo-membrane">LLGLILFLLEIAILC</span><span class="topo-outside">WVKFYDLSPPAAWS</span><span class="topo-membrane">ATVVLIPVMIIFMAFAIHFYR</span><span class="topo-inside">SLVSHKYEVT</span></span>
-<span class="topo-line"><span class="topo-inside">VSGIRELEMLKEQME</span><span class="topo-unknown">QDHLEHHNNIRNNGEGEEF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSQSGEDLHSPTYLS</span><span class="topo-inside">WRKLQLSRA</span><span class="topo-membrane">KLKASSWTSALLSGFAMVAMV</span><span class="topo-outside">EVQ</span><span class="topo-unknown">LDHDTNVPPG</span><span class="topo-outside">MLIA</span><span class="topo-membrane">FAICTTLLVAVHMLALMISTCI</span><span class="topo-inside">LPN</span><span class="topo-unknown">IETVSNLHSISLVHESPHER</span><span class="topo-inside">LHWY</span><span class="topo-membrane">IETAWAFST</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210    </span>
+<span class="topo-line"><span class="topo-membrane">LLGLILFLLEIAILC</span><span class="topo-outside">WVKFYDLSPPAAWS</span><span class="topo-membrane">ATVVLIPVMIIFMAFAIHFYR</span><span class="topo-inside">SLVSHKYEVTVSGIRELEMLKEQME</span><span class="topo-unknown">QDHLEHHNNIRNNGEGEEF</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2997,6 +3044,7 @@ Orai is the pore-forming subunit of the calcium release-activated calcium (CRAC)
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3012,10 +3060,11 @@ Orai is the pore-forming subunit of the calcium release-activated calcium (CRAC)
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSQSGEDLHSPTYLS</span><span class="topo-inside">WRKLQLSRAK</span><span class="topo-membrane">LKASSWTSALLSGFAMVAMVE</span><span class="topo-outside">VQ</span><span class="topo-unknown">LDHDTNVP</span><span class="topo-outside">PGML</span></span>
-<span class="topo-line"><span class="topo-outside">IA</span><span class="topo-membrane">FAICTTLLVAVHMLALMISTC</span><span class="topo-inside">ILPN</span><span class="topo-unknown">IETVSNLHSISLVHESPHER</span><span class="topo-inside">LHWYI</span><span class="topo-membrane">ETAWAFST</span></span>
-<span class="topo-line"><span class="topo-membrane">LLGLILFLLEIAILC</span><span class="topo-outside">WVKFYDLSPPAAWS</span><span class="topo-membrane">ATVVLIPVMIIFMAFAIHFYR</span><span class="topo-inside">SLVSHKYEVT</span></span>
-<span class="topo-line"><span class="topo-inside">VSGIRELEMLKEQME</span><span class="topo-unknown">QDHLEHHNNIRNNGEGEEF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSQSGEDLHSPTYLS</span><span class="topo-inside">WRKLQLSRAK</span><span class="topo-membrane">LKASSWTSALLSGFAMVAMVE</span><span class="topo-outside">VQ</span><span class="topo-unknown">LDHDTNVP</span><span class="topo-outside">PGMLIA</span><span class="topo-membrane">FAICTTLLVAVHMLALMISTC</span><span class="topo-inside">ILPN</span><span class="topo-unknown">IETVSNLHSISLVHESPHER</span><span class="topo-inside">LHWYI</span><span class="topo-membrane">ETAWAFST</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210    </span>
+<span class="topo-line"><span class="topo-membrane">LLGLILFLLEIAILC</span><span class="topo-outside">WVKFYDLSPPAAWS</span><span class="topo-membrane">ATVVLIPVMIIFMAFAIHFYR</span><span class="topo-inside">SLVSHKYEVTVSGIRELEMLKEQME</span><span class="topo-unknown">QDHLEHHNNIRNNGEGEEF</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3104,6 +3153,7 @@ Orai is the pore-forming subunit of the calcium release-activated calcium (CRAC)
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3119,10 +3169,11 @@ Orai is the pore-forming subunit of the calcium release-activated calcium (CRAC)
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSQSGEDLHSPTYLS</span><span class="topo-inside">WRKLQLSRAK</span><span class="topo-membrane">LKASSWTSALLSGFAMVAMV</span><span class="topo-outside">EVQ</span><span class="topo-unknown">LDHDTNVP</span><span class="topo-outside">PGML</span></span>
-<span class="topo-line"><span class="topo-outside">IA</span><span class="topo-membrane">FAICTTLLVAVHMLALMISTCI</span><span class="topo-inside">LPN</span><span class="topo-unknown">IETVSNLHSISLVHESPHER</span><span class="topo-inside">LHWY</span><span class="topo-membrane">IETAWAFST</span></span>
-<span class="topo-line"><span class="topo-membrane">LLGLILFLLEIAILC</span><span class="topo-outside">WVKFYDLSPPAAWS</span><span class="topo-membrane">ATVVLIPVMIIFMAFAIHFYR</span><span class="topo-inside">SLVSHKYEVT</span></span>
-<span class="topo-line"><span class="topo-inside">V</span><span class="topo-unknown">SGIRELEMLKEQMEQDHLEHHNNIRNNGEGEEF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSQSGEDLHSPTYLS</span><span class="topo-inside">WRKLQLSRAK</span><span class="topo-membrane">LKASSWTSALLSGFAMVAMV</span><span class="topo-outside">EVQ</span><span class="topo-unknown">LDHDTNVP</span><span class="topo-outside">PGMLIA</span><span class="topo-membrane">FAICTTLLVAVHMLALMISTCI</span><span class="topo-inside">LPN</span><span class="topo-unknown">IETVSNLHSISLVHESPHER</span><span class="topo-inside">LHWY</span><span class="topo-membrane">IETAWAFST</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210    </span>
+<span class="topo-line"><span class="topo-membrane">LLGLILFLLEIAILC</span><span class="topo-outside">WVKFYDLSPPAAWS</span><span class="topo-membrane">ATVVLIPVMIIFMAFAIHFYR</span><span class="topo-inside">SLVSHKYEVTV</span><span class="topo-unknown">SGIRELEMLKEQMEQDHLEHHNNIRNNGEGEEF</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3211,6 +3262,7 @@ Orai is the pore-forming subunit of the calcium release-activated calcium (CRAC)
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3226,10 +3278,11 @@ Orai is the pore-forming subunit of the calcium release-activated calcium (CRAC)
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSQSGEDLHSPTYLS</span><span class="topo-inside">WRKLQLSRAK</span><span class="topo-membrane">LKASSWTSALLSGFAMVAMV</span><span class="topo-outside">EVQ</span><span class="topo-unknown">LDHDTNVP</span><span class="topo-outside">PGML</span></span>
-<span class="topo-line"><span class="topo-outside">IA</span><span class="topo-membrane">FAICTTLLVAVHMLALMISTCI</span><span class="topo-inside">LPN</span><span class="topo-unknown">IETVSNLHSISLVHESPHER</span><span class="topo-inside">LHWY</span><span class="topo-membrane">IETAWAFST</span></span>
-<span class="topo-line"><span class="topo-membrane">LLGLILFLLEIAILC</span><span class="topo-outside">WVKFYDLSPPAAWS</span><span class="topo-membrane">ATVVLIPVMIIFMAFAIHFYR</span><span class="topo-inside">SLVSHKYEVT</span></span>
-<span class="topo-line"><span class="topo-inside">VSGIRELEMLKEQME</span><span class="topo-unknown">QDHLEHHNNIRNNGEGEEF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSQSGEDLHSPTYLS</span><span class="topo-inside">WRKLQLSRAK</span><span class="topo-membrane">LKASSWTSALLSGFAMVAMV</span><span class="topo-outside">EVQ</span><span class="topo-unknown">LDHDTNVP</span><span class="topo-outside">PGMLIA</span><span class="topo-membrane">FAICTTLLVAVHMLALMISTCI</span><span class="topo-inside">LPN</span><span class="topo-unknown">IETVSNLHSISLVHESPHER</span><span class="topo-inside">LHWY</span><span class="topo-membrane">IETAWAFST</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210    </span>
+<span class="topo-line"><span class="topo-membrane">LLGLILFLLEIAILC</span><span class="topo-outside">WVKFYDLSPPAAWS</span><span class="topo-membrane">ATVVLIPVMIIFMAFAIHFYR</span><span class="topo-inside">SLVSHKYEVTVSGIRELEMLKEQME</span><span class="topo-unknown">QDHLEHHNNIRNNGEGEEF</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3318,6 +3371,7 @@ Orai is the pore-forming subunit of the calcium release-activated calcium (CRAC)
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3333,10 +3387,11 @@ Orai is the pore-forming subunit of the calcium release-activated calcium (CRAC)
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSQSGEDLHSPTYLS</span><span class="topo-inside">WRKLQLSRAK</span><span class="topo-membrane">LKASSWTSALLSGFAMVAMV</span><span class="topo-outside">EVQ</span><span class="topo-unknown">LDHDTNVP</span><span class="topo-outside">PGML</span></span>
-<span class="topo-line"><span class="topo-outside">IA</span><span class="topo-membrane">FAICTTLLVAVHMLALMISTCI</span><span class="topo-inside">LPN</span><span class="topo-unknown">IETVSNLHSISLVHESPHER</span><span class="topo-inside">LHWY</span><span class="topo-membrane">IETAWAFST</span></span>
-<span class="topo-line"><span class="topo-membrane">LLGLILFLLEIAILC</span><span class="topo-outside">WVKFYDLSPPAAWS</span><span class="topo-membrane">ATVVLIPVMIIFMAFAIHFYR</span><span class="topo-inside">SLVSHKYEVT</span></span>
-<span class="topo-line"><span class="topo-inside">VSGIRELEMLKEQME</span><span class="topo-unknown">QDHLEHHNNIRNNGEGEEF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSQSGEDLHSPTYLS</span><span class="topo-inside">WRKLQLSRAK</span><span class="topo-membrane">LKASSWTSALLSGFAMVAMV</span><span class="topo-outside">EVQ</span><span class="topo-unknown">LDHDTNVP</span><span class="topo-outside">PGMLIA</span><span class="topo-membrane">FAICTTLLVAVHMLALMISTCI</span><span class="topo-inside">LPN</span><span class="topo-unknown">IETVSNLHSISLVHESPHER</span><span class="topo-inside">LHWY</span><span class="topo-membrane">IETAWAFST</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210    </span>
+<span class="topo-line"><span class="topo-membrane">LLGLILFLLEIAILC</span><span class="topo-outside">WVKFYDLSPPAAWS</span><span class="topo-membrane">ATVVLIPVMIIFMAFAIHFYR</span><span class="topo-inside">SLVSHKYEVTVSGIRELEMLKEQME</span><span class="topo-unknown">QDHLEHHNNIRNNGEGEEF</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3425,6 +3480,7 @@ Orai is the pore-forming subunit of the calcium release-activated calcium (CRAC)
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3440,10 +3496,11 @@ Orai is the pore-forming subunit of the calcium release-activated calcium (CRAC)
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSQSGEDLHSPTYLS</span><span class="topo-inside">WRKLQLSRAK</span><span class="topo-membrane">LKASSWTSALLSGFAMVAMV</span><span class="topo-outside">EVQ</span><span class="topo-unknown">LDHDTNVP</span><span class="topo-outside">PGML</span></span>
-<span class="topo-line"><span class="topo-outside">IA</span><span class="topo-membrane">FAICTTLLVAVHMLALMISTCI</span><span class="topo-inside">LPN</span><span class="topo-unknown">IETVSNLHSISLVHESPHER</span><span class="topo-inside">LHWY</span><span class="topo-membrane">IETAWAFST</span></span>
-<span class="topo-line"><span class="topo-membrane">LLGLILFLLEIAILC</span><span class="topo-outside">WVKFYDLSPPAAWS</span><span class="topo-membrane">ATVVLIPVMIIFMAFAIHFYR</span><span class="topo-inside">SLVSHKYEVT</span></span>
-<span class="topo-line"><span class="topo-inside">V</span><span class="topo-unknown">SGIRELEMLKEQMEQDHLEHHNNIRNNGEGEEF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSQSGEDLHSPTYLS</span><span class="topo-inside">WRKLQLSRAK</span><span class="topo-membrane">LKASSWTSALLSGFAMVAMV</span><span class="topo-outside">EVQ</span><span class="topo-unknown">LDHDTNVP</span><span class="topo-outside">PGMLIA</span><span class="topo-membrane">FAICTTLLVAVHMLALMISTCI</span><span class="topo-inside">LPN</span><span class="topo-unknown">IETVSNLHSISLVHESPHER</span><span class="topo-inside">LHWY</span><span class="topo-membrane">IETAWAFST</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210    </span>
+<span class="topo-line"><span class="topo-membrane">LLGLILFLLEIAILC</span><span class="topo-outside">WVKFYDLSPPAAWS</span><span class="topo-membrane">ATVVLIPVMIIFMAFAIHFYR</span><span class="topo-inside">SLVSHKYEVTV</span><span class="topo-unknown">SGIRELEMLKEQMEQDHLEHHNNIRNNGEGEEF</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3532,6 +3589,7 @@ Orai is the pore-forming subunit of the calcium release-activated calcium (CRAC)
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3547,10 +3605,11 @@ Orai is the pore-forming subunit of the calcium release-activated calcium (CRAC)
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSQSGEDLHSPTYLS</span><span class="topo-inside">WRKLQLSRAK</span><span class="topo-membrane">LKASSWTSALLSGFAMVAMVE</span><span class="topo-outside">VQ</span><span class="topo-unknown">LDHDTNVP</span><span class="topo-outside">PGML</span></span>
-<span class="topo-line"><span class="topo-outside">IA</span><span class="topo-membrane">FAICTTLLVAVHMLALMISTC</span><span class="topo-inside">ILPN</span><span class="topo-unknown">IETVSNLHSISLVHESPHER</span><span class="topo-inside">LHWYI</span><span class="topo-membrane">ETAWAFST</span></span>
-<span class="topo-line"><span class="topo-membrane">LLGLILFLLEIAILC</span><span class="topo-outside">WVKFYDLSPPAAWS</span><span class="topo-membrane">ATVVLIPVMIIFMAFAIHFYR</span><span class="topo-inside">SLVSHKYEVT</span></span>
-<span class="topo-line"><span class="topo-inside">VSGIRELEMLKEQME</span><span class="topo-unknown">QDHLEHHNNIRNNGEGEEF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSQSGEDLHSPTYLS</span><span class="topo-inside">WRKLQLSRAK</span><span class="topo-membrane">LKASSWTSALLSGFAMVAMVE</span><span class="topo-outside">VQ</span><span class="topo-unknown">LDHDTNVP</span><span class="topo-outside">PGMLIA</span><span class="topo-membrane">FAICTTLLVAVHMLALMISTC</span><span class="topo-inside">ILPN</span><span class="topo-unknown">IETVSNLHSISLVHESPHER</span><span class="topo-inside">LHWYI</span><span class="topo-membrane">ETAWAFST</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210    </span>
+<span class="topo-line"><span class="topo-membrane">LLGLILFLLEIAILC</span><span class="topo-outside">WVKFYDLSPPAAWS</span><span class="topo-membrane">ATVVLIPVMIIFMAFAIHFYR</span><span class="topo-inside">SLVSHKYEVTVSGIRELEMLKEQME</span><span class="topo-unknown">QDHLEHHNNIRNNGEGEEF</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3639,6 +3698,7 @@ Orai is the pore-forming subunit of the calcium release-activated calcium (CRAC)
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

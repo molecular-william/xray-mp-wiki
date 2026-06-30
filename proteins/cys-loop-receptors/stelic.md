@@ -139,12 +139,13 @@ sTeLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from a gamma
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MASLAA</span><span class="topo-outside">EPSDVFIGLKIDQITGINQKEENFSVVGSLRIDWRQPLLAFEHAPGEPKHRTYT</span></span>
-<span class="topo-line"><span class="topo-outside">LATFLKLLEEKQIRWPAFTYHNQQGRMDFQNRLISLSEDGTVMYLERFTSTFQAPAFDFR</span></span>
-<span class="topo-line"><span class="topo-outside">LFPFDNQLFFIHVDSIFPQHLFRFQEMQGFSGLGDQLGEEEWIVTEVNTHLTTHNEFTKG</span></span>
-<span class="topo-line"><span class="topo-outside">DASRFVLEFHAERHLNYYL</span><span class="topo-membrane">MRILIPVLLIITVSWFTFF</span><span class="topo-inside">LQDY</span><span class="topo-membrane">TKRIDLAGGNLLLFIAFN</span></span>
-<span class="topo-line"><span class="topo-membrane">F</span><span class="topo-outside">TISSDLPRLGYITLMD</span><span class="topo-membrane">AFLVGTFIITALVVLGNV</span><span class="topo-inside">WLRRLENHGKQALARKLDIY</span><span class="topo-membrane">AITSY</span></span>
-<span class="topo-line"><span class="topo-membrane">PLAYLLGALTLWLL</span><span class="topo-outside">FF</span><span class="topo-unknown">WRSY</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MASLAA</span><span class="topo-outside">EPSDVFIGLKIDQITGINQKEENFSVVGSLRIDWRQPLLAFEHAPGEPKHRTYTLATFLKLLEEKQIRWPAFTYHNQQGRMDFQNRLISLSEDGTVMYLERFTSTFQAPAFDFR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">LFPFDNQLFFIHVDSIFPQHLFRFQEMQGFSGLGDQLGEEEWIVTEVNTHLTTHNEFTKGDASRFVLEFHAERHLNYYL</span><span class="topo-membrane">MRILIPVLLIITVSWFTFF</span><span class="topo-inside">LQDY</span><span class="topo-membrane">TKRIDLAGGNLLLFIAFN</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320</span>
+<span class="topo-line"><span class="topo-membrane">F</span><span class="topo-outside">TISSDLPRLGYITLMD</span><span class="topo-membrane">AFLVGTFIITALVVLGNV</span><span class="topo-inside">WLRRLENHGKQALARKLDIY</span><span class="topo-membrane">AITSYPLAYLLGALTLWLL</span><span class="topo-outside">FF</span><span class="topo-unknown">WRSY</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -219,6 +220,7 @@ sTeLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from a gamma
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -234,12 +236,13 @@ sTeLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from a gamma
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MASLAA</span><span class="topo-outside">EPSDVFIGLKIDQITGINQKEENFSVVGSLRIDWRQPLLAFEHAPGEPKHRTYT</span></span>
-<span class="topo-line"><span class="topo-outside">LATFLKLLEEKQIRWPAFTYHNQQGRMDFQNRLISLSEDGTVMYLERFTSTFQAPAFDFR</span></span>
-<span class="topo-line"><span class="topo-outside">LFPFDNQLFFIHVDSIFPQHLFRFQEMQGFSGLGDQLGEEEWIVTEVNTHLTTHNEFTKG</span></span>
-<span class="topo-line"><span class="topo-outside">DASRFVLEFHAERHLNYYL</span><span class="topo-membrane">MRILIPVLLIITVSWFTFF</span><span class="topo-inside">LQDY</span><span class="topo-membrane">TKRIDLAGGNLLLFIAFN</span></span>
-<span class="topo-line"><span class="topo-membrane">F</span><span class="topo-outside">TISSDLPRLGYITLMD</span><span class="topo-membrane">AFLVGTFIITALVVLGNV</span><span class="topo-inside">WLRRLENHGKQALARKLDIY</span><span class="topo-membrane">AITSY</span></span>
-<span class="topo-line"><span class="topo-membrane">PLAYLLGALTLWLL</span><span class="topo-outside">FF</span><span class="topo-unknown">WRSY</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MASLAA</span><span class="topo-outside">EPSDVFIGLKIDQITGINQKEENFSVVGSLRIDWRQPLLAFEHAPGEPKHRTYTLATFLKLLEEKQIRWPAFTYHNQQGRMDFQNRLISLSEDGTVMYLERFTSTFQAPAFDFR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">LFPFDNQLFFIHVDSIFPQHLFRFQEMQGFSGLGDQLGEEEWIVTEVNTHLTTHNEFTKGDASRFVLEFHAERHLNYYL</span><span class="topo-membrane">MRILIPVLLIITVSWFTFF</span><span class="topo-inside">LQDY</span><span class="topo-membrane">TKRIDLAGGNLLLFIAFN</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320</span>
+<span class="topo-line"><span class="topo-membrane">F</span><span class="topo-outside">TISSDLPRLGYITLMD</span><span class="topo-membrane">AFLVGTFIITALVVLGNV</span><span class="topo-inside">WLRRLENHGKQALARKLDIY</span><span class="topo-membrane">AITSYPLAYLLGALTLWLL</span><span class="topo-outside">FF</span><span class="topo-unknown">WRSY</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -314,6 +317,7 @@ sTeLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from a gamma
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -329,12 +333,13 @@ sTeLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from a gamma
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MASLAA</span><span class="topo-outside">EPSDVFIGLKIDQITGINQKEENFSVVGSLRIDWRQPLLAFEHAPGEPKHRTYT</span></span>
-<span class="topo-line"><span class="topo-outside">LATFLKLLEEKQIRWPAFTYHNQQGRMDFQNRLISLSEDGTVMYLERFTSTFQAPAFDFR</span></span>
-<span class="topo-line"><span class="topo-outside">LFPFDNQLFFIHVDSIFPQHLFRFQEMQGFSGLGDQLGEEEWIVTEVNTHLTTHNEFTKG</span></span>
-<span class="topo-line"><span class="topo-outside">DASRFVLEFHAERHLNYYL</span><span class="topo-membrane">MRILIPVLLIITVSWFTFF</span><span class="topo-inside">LQDY</span><span class="topo-membrane">TKRIDLAGGNLLLFIAFN</span></span>
-<span class="topo-line"><span class="topo-membrane">F</span><span class="topo-outside">TISSDLPRLGYITLMD</span><span class="topo-membrane">AFLVGTFIITALVVLGNV</span><span class="topo-inside">WLRRLENHGKQALARKLDIY</span><span class="topo-membrane">AITSY</span></span>
-<span class="topo-line"><span class="topo-membrane">PLAYLLGALTLWLL</span><span class="topo-outside">FF</span><span class="topo-unknown">WRSY</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MASLAA</span><span class="topo-outside">EPSDVFIGLKIDQITGINQKEENFSVVGSLRIDWRQPLLAFEHAPGEPKHRTYTLATFLKLLEEKQIRWPAFTYHNQQGRMDFQNRLISLSEDGTVMYLERFTSTFQAPAFDFR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">LFPFDNQLFFIHVDSIFPQHLFRFQEMQGFSGLGDQLGEEEWIVTEVNTHLTTHNEFTKGDASRFVLEFHAERHLNYYL</span><span class="topo-membrane">MRILIPVLLIITVSWFTFF</span><span class="topo-inside">LQDY</span><span class="topo-membrane">TKRIDLAGGNLLLFIAFN</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320</span>
+<span class="topo-line"><span class="topo-membrane">F</span><span class="topo-outside">TISSDLPRLGYITLMD</span><span class="topo-membrane">AFLVGTFIITALVVLGNV</span><span class="topo-inside">WLRRLENHGKQALARKLDIY</span><span class="topo-membrane">AITSYPLAYLLGALTLWLL</span><span class="topo-outside">FF</span><span class="topo-unknown">WRSY</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -409,6 +414,7 @@ sTeLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from a gamma
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -424,12 +430,13 @@ sTeLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from a gamma
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MASLAA</span><span class="topo-outside">EPSDVFIGLKIDQITGINQKEENFSVVGSLRIDWRQPLLAFEHAPGEPKHRTYT</span></span>
-<span class="topo-line"><span class="topo-outside">LATFLKLLEEKQIRWPAFTYHNQQGRMDFQNRLISLSEDGTVMYLERFTSTFQAPAFDFR</span></span>
-<span class="topo-line"><span class="topo-outside">LFPFDNQLFFIHVDSIFPQHLFRFQEMQGFSGLGDQLGEEEWIVTEVNTHLTTHNEFTKG</span></span>
-<span class="topo-line"><span class="topo-outside">DASRFVLEFHAERHLNYYL</span><span class="topo-membrane">MRILIPVLLIITVSWFTFF</span><span class="topo-inside">LQDY</span><span class="topo-membrane">TKRIDLAGGNLLLFIAFN</span></span>
-<span class="topo-line"><span class="topo-membrane">F</span><span class="topo-outside">TISSDLPRLGYITLMD</span><span class="topo-membrane">AFLVGTFIITALVVLGNV</span><span class="topo-inside">WLRRLENHGKQALARKLDIY</span><span class="topo-membrane">AITSY</span></span>
-<span class="topo-line"><span class="topo-membrane">PLAYLLGALTLWLL</span><span class="topo-outside">FF</span><span class="topo-unknown">WRSY</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MASLAA</span><span class="topo-outside">EPSDVFIGLKIDQITGINQKEENFSVVGSLRIDWRQPLLAFEHAPGEPKHRTYTLATFLKLLEEKQIRWPAFTYHNQQGRMDFQNRLISLSEDGTVMYLERFTSTFQAPAFDFR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">LFPFDNQLFFIHVDSIFPQHLFRFQEMQGFSGLGDQLGEEEWIVTEVNTHLTTHNEFTKGDASRFVLEFHAERHLNYYL</span><span class="topo-membrane">MRILIPVLLIITVSWFTFF</span><span class="topo-inside">LQDY</span><span class="topo-membrane">TKRIDLAGGNLLLFIAFN</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320</span>
+<span class="topo-line"><span class="topo-membrane">F</span><span class="topo-outside">TISSDLPRLGYITLMD</span><span class="topo-membrane">AFLVGTFIITALVVLGNV</span><span class="topo-inside">WLRRLENHGKQALARKLDIY</span><span class="topo-membrane">AITSYPLAYLLGALTLWLL</span><span class="topo-outside">FF</span><span class="topo-unknown">WRSY</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -504,6 +511,7 @@ sTeLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from a gamma
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -519,12 +527,13 @@ sTeLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from a gamma
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MASLAA</span><span class="topo-outside">EPSDVFIGLKIDQITGINQKEENFSVVGSLRIDWRQPLLAFEHAPGEPKHRTYT</span></span>
-<span class="topo-line"><span class="topo-outside">LATFLKLLEEKQIRWPAFTYHNQQGRMDFQNRLISLSEDGTVMYLERFTSTFQAPAFDFR</span></span>
-<span class="topo-line"><span class="topo-outside">LFPFDNQLFFIHVDSIFPQHLFRFQEMQGFSGLGDQLGEEEWIVTEVNTHLTTHNEFTKG</span></span>
-<span class="topo-line"><span class="topo-outside">DASRFVLEFHAERHLNYYL</span><span class="topo-membrane">MRILIPVLLIITVSWFTFF</span><span class="topo-inside">LQDY</span><span class="topo-membrane">TKRIDLAGGNLLLFIAFN</span></span>
-<span class="topo-line"><span class="topo-membrane">F</span><span class="topo-outside">TISSDLPRLGYITLMD</span><span class="topo-membrane">AFLVGTFIITALVVLGNV</span><span class="topo-inside">WLRRLENHGKQALARKLDIY</span><span class="topo-membrane">AITSY</span></span>
-<span class="topo-line"><span class="topo-membrane">PLAYLLGALTLWLL</span><span class="topo-outside">FF</span><span class="topo-unknown">WRSY</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MASLAA</span><span class="topo-outside">EPSDVFIGLKIDQITGINQKEENFSVVGSLRIDWRQPLLAFEHAPGEPKHRTYTLATFLKLLEEKQIRWPAFTYHNQQGRMDFQNRLISLSEDGTVMYLERFTSTFQAPAFDFR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">LFPFDNQLFFIHVDSIFPQHLFRFQEMQGFSGLGDQLGEEEWIVTEVNTHLTTHNEFTKGDASRFVLEFHAERHLNYYL</span><span class="topo-membrane">MRILIPVLLIITVSWFTFF</span><span class="topo-inside">LQDY</span><span class="topo-membrane">TKRIDLAGGNLLLFIAFN</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320</span>
+<span class="topo-line"><span class="topo-membrane">F</span><span class="topo-outside">TISSDLPRLGYITLMD</span><span class="topo-membrane">AFLVGTFIITALVVLGNV</span><span class="topo-inside">WLRRLENHGKQALARKLDIY</span><span class="topo-membrane">AITSYPLAYLLGALTLWLL</span><span class="topo-outside">FF</span><span class="topo-unknown">WRSY</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -599,6 +608,7 @@ sTeLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from a gamma
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -614,12 +624,13 @@ sTeLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from a gamma
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MASLAA</span><span class="topo-outside">EPSDVFIGLKIDQITGINQKEENFSVVGSLRIDWRQPLLAFEHAPGEPKHRTYT</span></span>
-<span class="topo-line"><span class="topo-outside">LATFLKLLEEKQIRWPAFTYHNQQGRMDFQNRLISLSEDGTVMYLERFTSTFQAPAFDFR</span></span>
-<span class="topo-line"><span class="topo-outside">LFPFDNQLFFIHVDSIFPQHLFRFQEMQGFSGLGDQLGEEEWIVTEVNTHLTTHNEFTKG</span></span>
-<span class="topo-line"><span class="topo-outside">DASRFVLEFHAERHLNYYL</span><span class="topo-membrane">MRILIPVLLIITVSWFTFF</span><span class="topo-inside">LQDY</span><span class="topo-membrane">TKRIDLAGGNLLLFIAFN</span></span>
-<span class="topo-line"><span class="topo-outside">FTISSDLPRLGYITLMDA</span><span class="topo-membrane">FLVGTFIITALVVLGNV</span><span class="topo-inside">WLRRLENHGKQALARKLDIY</span><span class="topo-membrane">AITSY</span></span>
-<span class="topo-line"><span class="topo-membrane">PLAYLLGALTLWLL</span><span class="topo-outside">FF</span><span class="topo-unknown">WRSY</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MASLAA</span><span class="topo-outside">EPSDVFIGLKIDQITGINQKEENFSVVGSLRIDWRQPLLAFEHAPGEPKHRTYTLATFLKLLEEKQIRWPAFTYHNQQGRMDFQNRLISLSEDGTVMYLERFTSTFQAPAFDFR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">LFPFDNQLFFIHVDSIFPQHLFRFQEMQGFSGLGDQLGEEEWIVTEVNTHLTTHNEFTKGDASRFVLEFHAERHLNYYL</span><span class="topo-membrane">MRILIPVLLIITVSWFTFF</span><span class="topo-inside">LQDY</span><span class="topo-membrane">TKRIDLAGGNLLLFIAFN</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320</span>
+<span class="topo-line"><span class="topo-outside">FTISSDLPRLGYITLMDA</span><span class="topo-membrane">FLVGTFIITALVVLGNV</span><span class="topo-inside">WLRRLENHGKQALARKLDIY</span><span class="topo-membrane">AITSYPLAYLLGALTLWLL</span><span class="topo-outside">FF</span><span class="topo-unknown">WRSY</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -694,6 +705,7 @@ sTeLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from a gamma
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -709,12 +721,13 @@ sTeLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from a gamma
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MASLAA</span><span class="topo-outside">EPSDVFIGLKIDQITGINQKEENFSVVGSLRIDWRQPLLAFEHAPGEPKHRTYT</span></span>
-<span class="topo-line"><span class="topo-outside">LATFLKLLEEKQIRWPAFTYHNQQGRMDFQNRLISLSEDGTVMYLERFTSTFQAPAFDFR</span></span>
-<span class="topo-line"><span class="topo-outside">LFPFDNQLFFIHVDSIFPQHLFRFQEMQGFSGLGDQLGEEEWIVTEVNTHLTTHNEFTKG</span></span>
-<span class="topo-line"><span class="topo-outside">DASRFVLEFHAERHLNYYL</span><span class="topo-membrane">MRILIPVLLIITVSWFTFF</span><span class="topo-inside">LQDY</span><span class="topo-membrane">TKRIDLAGGNLLLFIAFN</span></span>
-<span class="topo-line"><span class="topo-outside">FTISSDLPRLGYITLMDA</span><span class="topo-membrane">FLVGTFIITALVVLGNV</span><span class="topo-inside">WLRRLENHGKQALARKLDIY</span><span class="topo-membrane">AITSY</span></span>
-<span class="topo-line"><span class="topo-membrane">PLAYLLGALTLWLL</span><span class="topo-outside">FF</span><span class="topo-unknown">WRSY</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MASLAA</span><span class="topo-outside">EPSDVFIGLKIDQITGINQKEENFSVVGSLRIDWRQPLLAFEHAPGEPKHRTYTLATFLKLLEEKQIRWPAFTYHNQQGRMDFQNRLISLSEDGTVMYLERFTSTFQAPAFDFR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">LFPFDNQLFFIHVDSIFPQHLFRFQEMQGFSGLGDQLGEEEWIVTEVNTHLTTHNEFTKGDASRFVLEFHAERHLNYYL</span><span class="topo-membrane">MRILIPVLLIITVSWFTFF</span><span class="topo-inside">LQDY</span><span class="topo-membrane">TKRIDLAGGNLLLFIAFN</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320</span>
+<span class="topo-line"><span class="topo-outside">FTISSDLPRLGYITLMDA</span><span class="topo-membrane">FLVGTFIITALVVLGNV</span><span class="topo-inside">WLRRLENHGKQALARKLDIY</span><span class="topo-membrane">AITSYPLAYLLGALTLWLL</span><span class="topo-outside">FF</span><span class="topo-unknown">WRSY</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -789,6 +802,7 @@ sTeLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from a gamma
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -804,12 +818,13 @@ sTeLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from a gamma
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MASLAA</span><span class="topo-outside">EPSDVFIGLKIDQITGINQKEENFSVVGSLRIDWRQPLLAFEHAPGEPKHRTYT</span></span>
-<span class="topo-line"><span class="topo-outside">LATFLKLLEEKQIRWPAFTYHNQQGRMDFQNRLISLSEDGTVMYLERFTSTFQAPAFDFR</span></span>
-<span class="topo-line"><span class="topo-outside">LFPFDNQLFFIHVDSIFPQHLFRFQEMQGFSGLGDQLGEEEWIVTEVNTHLTTHNEFTKG</span></span>
-<span class="topo-line"><span class="topo-outside">DASRFVLEFHAERHLNYYLM</span><span class="topo-membrane">RILIPVLLIITVSWFTFF</span><span class="topo-inside">LQDY</span><span class="topo-membrane">TKRIDLAGGNLLLFIAFN</span></span>
-<span class="topo-line"><span class="topo-outside">FTISSDLPRLGYITLMDA</span><span class="topo-membrane">FLVGTFIITALVVLGNV</span><span class="topo-inside">WLRRLENHGKQALARKLDIY</span><span class="topo-membrane">AITSY</span></span>
-<span class="topo-line"><span class="topo-membrane">PLAYLLGALTLWLL</span><span class="topo-outside">FF</span><span class="topo-unknown">WRSY</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MASLAA</span><span class="topo-outside">EPSDVFIGLKIDQITGINQKEENFSVVGSLRIDWRQPLLAFEHAPGEPKHRTYTLATFLKLLEEKQIRWPAFTYHNQQGRMDFQNRLISLSEDGTVMYLERFTSTFQAPAFDFR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">LFPFDNQLFFIHVDSIFPQHLFRFQEMQGFSGLGDQLGEEEWIVTEVNTHLTTHNEFTKGDASRFVLEFHAERHLNYYLM</span><span class="topo-membrane">RILIPVLLIITVSWFTFF</span><span class="topo-inside">LQDY</span><span class="topo-membrane">TKRIDLAGGNLLLFIAFN</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320</span>
+<span class="topo-line"><span class="topo-outside">FTISSDLPRLGYITLMDA</span><span class="topo-membrane">FLVGTFIITALVVLGNV</span><span class="topo-inside">WLRRLENHGKQALARKLDIY</span><span class="topo-membrane">AITSYPLAYLLGALTLWLL</span><span class="topo-outside">FF</span><span class="topo-unknown">WRSY</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -884,6 +899,7 @@ sTeLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from a gamma
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -899,12 +915,13 @@ sTeLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from a gamma
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MASLAA</span><span class="topo-outside">EPSDVFIGLKIDQITGINQKEENFSVVGSLRIDWRQPLLAFEHAPGEPKHRTYT</span></span>
-<span class="topo-line"><span class="topo-outside">LATFLKLLEEKQIRWPAFTYHNQQGRMDFQNRLISLSEDGTVMYLERFTSTFQAPAFDFR</span></span>
-<span class="topo-line"><span class="topo-outside">LFPFDNQLFFIHVDSIFPQHLFRFQEMQGFSGLGDQLGEEEWIVTEVNTHLTTHNEFTKG</span></span>
-<span class="topo-line"><span class="topo-outside">DASRFVLEFHAERHLNYYL</span><span class="topo-membrane">MRILIPVLLIITVSWFTFF</span><span class="topo-inside">LQDY</span><span class="topo-membrane">TKRIDLAGGNLLLFIAFN</span></span>
-<span class="topo-line"><span class="topo-outside">FTISSDLPRLGYITLMDA</span><span class="topo-membrane">FLVGTFIITALVVLGNV</span><span class="topo-inside">WLRRLENHGKQALARKLDIY</span><span class="topo-membrane">AITSY</span></span>
-<span class="topo-line"><span class="topo-membrane">PLAYLLGALTLWLL</span><span class="topo-outside">FF</span><span class="topo-unknown">WRSY</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MASLAA</span><span class="topo-outside">EPSDVFIGLKIDQITGINQKEENFSVVGSLRIDWRQPLLAFEHAPGEPKHRTYTLATFLKLLEEKQIRWPAFTYHNQQGRMDFQNRLISLSEDGTVMYLERFTSTFQAPAFDFR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">LFPFDNQLFFIHVDSIFPQHLFRFQEMQGFSGLGDQLGEEEWIVTEVNTHLTTHNEFTKGDASRFVLEFHAERHLNYYL</span><span class="topo-membrane">MRILIPVLLIITVSWFTFF</span><span class="topo-inside">LQDY</span><span class="topo-membrane">TKRIDLAGGNLLLFIAFN</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320</span>
+<span class="topo-line"><span class="topo-outside">FTISSDLPRLGYITLMDA</span><span class="topo-membrane">FLVGTFIITALVVLGNV</span><span class="topo-inside">WLRRLENHGKQALARKLDIY</span><span class="topo-membrane">AITSYPLAYLLGALTLWLL</span><span class="topo-outside">FF</span><span class="topo-unknown">WRSY</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -979,6 +996,7 @@ sTeLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from a gamma
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -994,12 +1012,13 @@ sTeLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from a gamma
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MASLAA</span><span class="topo-outside">EPSDVFIGLKIDQITGINQKEENFSVVGSLRIDWRQPLLAFEHAPGEPKHRTYT</span></span>
-<span class="topo-line"><span class="topo-outside">LATFLKLLEEKQIRWPAFTYHNQQGRMDFQNRLISLSEDGTVMYLERFTSTFQAPAFDFR</span></span>
-<span class="topo-line"><span class="topo-outside">LFPFDNQLFFIHVDSIFPQHLFRFQEMQGFSGLGDQLGEEEWIVTEVNTHLTTHNEFTKG</span></span>
-<span class="topo-line"><span class="topo-outside">DASRFVLEFHAERHLNYYL</span><span class="topo-membrane">MRILIPVLLIITVSWFTFF</span><span class="topo-inside">LQDY</span><span class="topo-membrane">TKRIDLAGGNLLLFIAFN</span></span>
-<span class="topo-line"><span class="topo-outside">FTISSDLPRLGYITLMD</span><span class="topo-membrane">AFLVGTFIITALVVLGNV</span><span class="topo-inside">WLRRLENHGKQALARKLDIY</span><span class="topo-membrane">AITSY</span></span>
-<span class="topo-line"><span class="topo-membrane">PLAYLLGALTLWLL</span><span class="topo-outside">FF</span><span class="topo-unknown">WRSY</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MASLAA</span><span class="topo-outside">EPSDVFIGLKIDQITGINQKEENFSVVGSLRIDWRQPLLAFEHAPGEPKHRTYTLATFLKLLEEKQIRWPAFTYHNQQGRMDFQNRLISLSEDGTVMYLERFTSTFQAPAFDFR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">LFPFDNQLFFIHVDSIFPQHLFRFQEMQGFSGLGDQLGEEEWIVTEVNTHLTTHNEFTKGDASRFVLEFHAERHLNYYL</span><span class="topo-membrane">MRILIPVLLIITVSWFTFF</span><span class="topo-inside">LQDY</span><span class="topo-membrane">TKRIDLAGGNLLLFIAFN</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320</span>
+<span class="topo-line"><span class="topo-outside">FTISSDLPRLGYITLMD</span><span class="topo-membrane">AFLVGTFIITALVVLGNV</span><span class="topo-inside">WLRRLENHGKQALARKLDIY</span><span class="topo-membrane">AITSYPLAYLLGALTLWLL</span><span class="topo-outside">FF</span><span class="topo-unknown">WRSY</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1074,6 +1093,7 @@ sTeLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from a gamma
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1089,12 +1109,13 @@ sTeLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from a gamma
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MASLAA</span><span class="topo-outside">EPSDVFIGLKIDQITGINQKEENFSVVGSLRIDWRQPLLAFEHAPGEPKHRTYT</span></span>
-<span class="topo-line"><span class="topo-outside">LATFLKLLEEKQIRWPAFTYHNQQGRMDFQNRLISLSEDGTVMYLERFTSTFQAPAFDFR</span></span>
-<span class="topo-line"><span class="topo-outside">LFPFDNQLFFIHVDSIFPQHLFRFQEMQGFSGLGDQLGEEEWIVTEVNTHLTTHNEFTKG</span></span>
-<span class="topo-line"><span class="topo-outside">DASRFVLEFHAERHLNYYL</span><span class="topo-membrane">MRILIPVLLIITVSWFTFF</span><span class="topo-inside">LQDYT</span><span class="topo-membrane">KRIDLAGGNLLLFIAFN</span></span>
-<span class="topo-line"><span class="topo-membrane">FT</span><span class="topo-outside">ISSDLPRLGYITLM</span><span class="topo-membrane">DAFLVGTFIITALVVLGNVW</span><span class="topo-inside">LRRLENHGKQALARKLDIY</span><span class="topo-membrane">AITSY</span></span>
-<span class="topo-line"><span class="topo-membrane">PLAYLLGALTLWLLF</span><span class="topo-outside">F</span><span class="topo-unknown">WRSY</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MASLAA</span><span class="topo-outside">EPSDVFIGLKIDQITGINQKEENFSVVGSLRIDWRQPLLAFEHAPGEPKHRTYTLATFLKLLEEKQIRWPAFTYHNQQGRMDFQNRLISLSEDGTVMYLERFTSTFQAPAFDFR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">LFPFDNQLFFIHVDSIFPQHLFRFQEMQGFSGLGDQLGEEEWIVTEVNTHLTTHNEFTKGDASRFVLEFHAERHLNYYL</span><span class="topo-membrane">MRILIPVLLIITVSWFTFF</span><span class="topo-inside">LQDYT</span><span class="topo-membrane">KRIDLAGGNLLLFIAFN</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320</span>
+<span class="topo-line"><span class="topo-membrane">FT</span><span class="topo-outside">ISSDLPRLGYITLM</span><span class="topo-membrane">DAFLVGTFIITALVVLGNVW</span><span class="topo-inside">LRRLENHGKQALARKLDIY</span><span class="topo-membrane">AITSYPLAYLLGALTLWLLF</span><span class="topo-outside">F</span><span class="topo-unknown">WRSY</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1183,6 +1204,7 @@ sTeLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from a gamma
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1198,12 +1220,13 @@ sTeLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from a gamma
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MASLAA</span><span class="topo-outside">EPSDVFIGLKIDQITGINQKEENFSVVGSLRIDWRQPLLAFEHAPGEPKHRTYT</span></span>
-<span class="topo-line"><span class="topo-outside">LATFLKLLEEKQIRWPAFTYHNQQGRMDFQNRLISLSEDGTVMYLERFTSTFQAPAFDFR</span></span>
-<span class="topo-line"><span class="topo-outside">LFPFDNQLFFIHVDSIFPQHLFRFQEMQGFSGLGDQLGEEEWIVTEVNTHLTTHNEFTKG</span></span>
-<span class="topo-line"><span class="topo-outside">DASRFVLEFHAERHLNYYL</span><span class="topo-membrane">MRILIPVLLIITVSWFTFF</span><span class="topo-inside">LQDYT</span><span class="topo-membrane">KRIDLAGGNLLLFIAFN</span></span>
-<span class="topo-line"><span class="topo-membrane">FT</span><span class="topo-outside">ISSDLPRLGYITLM</span><span class="topo-membrane">DAFLVGTFIITALVVLGNVW</span><span class="topo-inside">LRRLENHGKQALARKLDIY</span><span class="topo-membrane">AITSY</span></span>
-<span class="topo-line"><span class="topo-membrane">PLAYLLGALTLWLLF</span><span class="topo-outside">F</span><span class="topo-unknown">WRSY</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MASLAA</span><span class="topo-outside">EPSDVFIGLKIDQITGINQKEENFSVVGSLRIDWRQPLLAFEHAPGEPKHRTYTLATFLKLLEEKQIRWPAFTYHNQQGRMDFQNRLISLSEDGTVMYLERFTSTFQAPAFDFR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">LFPFDNQLFFIHVDSIFPQHLFRFQEMQGFSGLGDQLGEEEWIVTEVNTHLTTHNEFTKGDASRFVLEFHAERHLNYYL</span><span class="topo-membrane">MRILIPVLLIITVSWFTFF</span><span class="topo-inside">LQDYT</span><span class="topo-membrane">KRIDLAGGNLLLFIAFN</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320</span>
+<span class="topo-line"><span class="topo-membrane">FT</span><span class="topo-outside">ISSDLPRLGYITLM</span><span class="topo-membrane">DAFLVGTFIITALVVLGNVW</span><span class="topo-inside">LRRLENHGKQALARKLDIY</span><span class="topo-membrane">AITSYPLAYLLGALTLWLLF</span><span class="topo-outside">F</span><span class="topo-unknown">WRSY</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1292,6 +1315,7 @@ sTeLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from a gamma
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1307,12 +1331,13 @@ sTeLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from a gamma
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MASLAA</span><span class="topo-outside">EPSDVFIGLKIDQITGINQKEENFSVVGSLRIDWRQPLLAFEHAPGEPKHRTYT</span></span>
-<span class="topo-line"><span class="topo-outside">LATFLKLLEEKQIRWPAFTYHNQQGRMDFQNRLISLSEDGTVMYLERFTSTFQAPAFDFR</span></span>
-<span class="topo-line"><span class="topo-outside">LFPFDNQLFFIHVDSIFPQHLFRFQEMQGFSGLGDQLGEEEWIVTEVNTHLTTHNEFTKG</span></span>
-<span class="topo-line"><span class="topo-outside">DASRFVLEFHAERHLNYYL</span><span class="topo-membrane">MRILIPVLLIITVSWFTFF</span><span class="topo-inside">LQDY</span><span class="topo-membrane">TKRIDLAGGNLLLFIAFN</span></span>
-<span class="topo-line"><span class="topo-membrane">FT</span><span class="topo-outside">ISSDLPRLGYITLM</span><span class="topo-membrane">DAFLVGTFIITALVVLGNVW</span><span class="topo-inside">LRRLENHGKQALARKLDIY</span><span class="topo-membrane">AITSY</span></span>
-<span class="topo-line"><span class="topo-membrane">PLAYLLGALTLWLL</span><span class="topo-outside">FF</span><span class="topo-unknown">WRSY</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MASLAA</span><span class="topo-outside">EPSDVFIGLKIDQITGINQKEENFSVVGSLRIDWRQPLLAFEHAPGEPKHRTYTLATFLKLLEEKQIRWPAFTYHNQQGRMDFQNRLISLSEDGTVMYLERFTSTFQAPAFDFR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">LFPFDNQLFFIHVDSIFPQHLFRFQEMQGFSGLGDQLGEEEWIVTEVNTHLTTHNEFTKGDASRFVLEFHAERHLNYYL</span><span class="topo-membrane">MRILIPVLLIITVSWFTFF</span><span class="topo-inside">LQDY</span><span class="topo-membrane">TKRIDLAGGNLLLFIAFN</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320</span>
+<span class="topo-line"><span class="topo-membrane">FT</span><span class="topo-outside">ISSDLPRLGYITLM</span><span class="topo-membrane">DAFLVGTFIITALVVLGNVW</span><span class="topo-inside">LRRLENHGKQALARKLDIY</span><span class="topo-membrane">AITSYPLAYLLGALTLWLL</span><span class="topo-outside">FF</span><span class="topo-unknown">WRSY</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1401,6 +1426,7 @@ sTeLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from a gamma
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1416,12 +1442,13 @@ sTeLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from a gamma
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MASLAA</span><span class="topo-outside">EPSDVFIGLKIDQITGINQKEENFSVVGSLRIDWRQPLLAFEHAPGEPKHRTYT</span></span>
-<span class="topo-line"><span class="topo-outside">LATFLKLLEEKQIRWPAFTYHNQQGRMDFQNRLISLSEDGTVMYLERFTSTFQAPAFDFR</span></span>
-<span class="topo-line"><span class="topo-outside">LFPFDNQLFFIHVDSIFPQHLFRFQEMQGFSGLGDQLGEEEWIVTEVNTHLTTHNEFTKG</span></span>
-<span class="topo-line"><span class="topo-outside">DASRFVLEFHAERHLNYYL</span><span class="topo-membrane">MRILIPVLLIITVSWFTFF</span><span class="topo-inside">LQDYT</span><span class="topo-membrane">KRIDLAGGNLLLFIAFN</span></span>
-<span class="topo-line"><span class="topo-membrane">FT</span><span class="topo-outside">ISSDLPRLGYITLM</span><span class="topo-membrane">DAFLVGTFIITALVVLGNVW</span><span class="topo-inside">LRRLENHGKQALARKLDIY</span><span class="topo-membrane">AITSY</span></span>
-<span class="topo-line"><span class="topo-membrane">PLAYLLGALTLWLLF</span><span class="topo-outside">F</span><span class="topo-unknown">WRSY</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MASLAA</span><span class="topo-outside">EPSDVFIGLKIDQITGINQKEENFSVVGSLRIDWRQPLLAFEHAPGEPKHRTYTLATFLKLLEEKQIRWPAFTYHNQQGRMDFQNRLISLSEDGTVMYLERFTSTFQAPAFDFR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">LFPFDNQLFFIHVDSIFPQHLFRFQEMQGFSGLGDQLGEEEWIVTEVNTHLTTHNEFTKGDASRFVLEFHAERHLNYYL</span><span class="topo-membrane">MRILIPVLLIITVSWFTFF</span><span class="topo-inside">LQDYT</span><span class="topo-membrane">KRIDLAGGNLLLFIAFN</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320</span>
+<span class="topo-line"><span class="topo-membrane">FT</span><span class="topo-outside">ISSDLPRLGYITLM</span><span class="topo-membrane">DAFLVGTFIITALVVLGNVW</span><span class="topo-inside">LRRLENHGKQALARKLDIY</span><span class="topo-membrane">AITSYPLAYLLGALTLWLLF</span><span class="topo-outside">F</span><span class="topo-unknown">WRSY</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1510,6 +1537,7 @@ sTeLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from a gamma
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1525,12 +1553,13 @@ sTeLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from a gamma
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MASLAA</span><span class="topo-outside">EPSDVFIGLKIDQITGINQKEENFSVVGSLRIDWRQPLLAFEHAPGEPKHRTYT</span></span>
-<span class="topo-line"><span class="topo-outside">LATFLKLLEEKQIRWPAFTYHNQQGRMDFQNRLISLSEDGTVMYLERFTSTFQAPAFDFR</span></span>
-<span class="topo-line"><span class="topo-outside">LFPFDNQLFFIHVDSIFPQHLFRFQEMQGFSGLGDQLGEEEWIVTEVNTHLTTHNEFTKG</span></span>
-<span class="topo-line"><span class="topo-outside">DASRFVLEFHAERHLNYYL</span><span class="topo-membrane">MRILIPVLLIITVSWFTFF</span><span class="topo-inside">LQDYT</span><span class="topo-membrane">KRIDLAGGNLLLFIAFN</span></span>
-<span class="topo-line"><span class="topo-membrane">FT</span><span class="topo-outside">ISSDLPRLGYITLM</span><span class="topo-membrane">DAFLVGTFIITALVVLGNV</span><span class="topo-inside">WLRRLENHGKQALARKLDIY</span><span class="topo-membrane">AITSY</span></span>
-<span class="topo-line"><span class="topo-membrane">PLAYLLGALTLWLLF</span><span class="topo-outside">F</span><span class="topo-unknown">WRSY</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MASLAA</span><span class="topo-outside">EPSDVFIGLKIDQITGINQKEENFSVVGSLRIDWRQPLLAFEHAPGEPKHRTYTLATFLKLLEEKQIRWPAFTYHNQQGRMDFQNRLISLSEDGTVMYLERFTSTFQAPAFDFR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">LFPFDNQLFFIHVDSIFPQHLFRFQEMQGFSGLGDQLGEEEWIVTEVNTHLTTHNEFTKGDASRFVLEFHAERHLNYYL</span><span class="topo-membrane">MRILIPVLLIITVSWFTFF</span><span class="topo-inside">LQDYT</span><span class="topo-membrane">KRIDLAGGNLLLFIAFN</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320</span>
+<span class="topo-line"><span class="topo-membrane">FT</span><span class="topo-outside">ISSDLPRLGYITLM</span><span class="topo-membrane">DAFLVGTFIITALVVLGNV</span><span class="topo-inside">WLRRLENHGKQALARKLDIY</span><span class="topo-membrane">AITSYPLAYLLGALTLWLLF</span><span class="topo-outside">F</span><span class="topo-unknown">WRSY</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1619,6 +1648,7 @@ sTeLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from a gamma
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1634,12 +1664,13 @@ sTeLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from a gamma
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MASLAA</span><span class="topo-outside">EPSDVFIGLKIDQITGINQKEENFSVVGSLRIDWRQPLLAFEHAPGEPKHRTYT</span></span>
-<span class="topo-line"><span class="topo-outside">LATFLKLLEEKQIRWPAFTYHNQQGRMDFQNRLISLSEDGTVMYLERFTSTFQAPAFDFR</span></span>
-<span class="topo-line"><span class="topo-outside">LFPFDNQLFFIHVDSIFPQHLFRFQEMQGFSGLGDQLGEEEWIVTEVNTHLTTHNEFTKG</span></span>
-<span class="topo-line"><span class="topo-outside">DASRFVLEFHAERHLNYYL</span><span class="topo-membrane">MRILIPVLLIITVSWFTFF</span><span class="topo-inside">LQDY</span><span class="topo-membrane">TKRIDLAGGNLLLFIAFN</span></span>
-<span class="topo-line"><span class="topo-membrane">F</span><span class="topo-outside">TISSDLPRLGYITLMD</span><span class="topo-membrane">AFLVGTFIITALVVLGNV</span><span class="topo-inside">WLRRLENHGKQALARKLDIY</span><span class="topo-membrane">AITSY</span></span>
-<span class="topo-line"><span class="topo-membrane">PLAYLLGALTLWLL</span><span class="topo-outside">FF</span><span class="topo-unknown">WRSY</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MASLAA</span><span class="topo-outside">EPSDVFIGLKIDQITGINQKEENFSVVGSLRIDWRQPLLAFEHAPGEPKHRTYTLATFLKLLEEKQIRWPAFTYHNQQGRMDFQNRLISLSEDGTVMYLERFTSTFQAPAFDFR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">LFPFDNQLFFIHVDSIFPQHLFRFQEMQGFSGLGDQLGEEEWIVTEVNTHLTTHNEFTKGDASRFVLEFHAERHLNYYL</span><span class="topo-membrane">MRILIPVLLIITVSWFTFF</span><span class="topo-inside">LQDY</span><span class="topo-membrane">TKRIDLAGGNLLLFIAFN</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320</span>
+<span class="topo-line"><span class="topo-membrane">F</span><span class="topo-outside">TISSDLPRLGYITLMD</span><span class="topo-membrane">AFLVGTFIITALVVLGNV</span><span class="topo-inside">WLRRLENHGKQALARKLDIY</span><span class="topo-membrane">AITSYPLAYLLGALTLWLL</span><span class="topo-outside">FF</span><span class="topo-unknown">WRSY</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1714,6 +1745,7 @@ sTeLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from a gamma
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1729,12 +1761,13 @@ sTeLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from a gamma
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MASLAA</span><span class="topo-outside">EPSDVFIGLKIDQITGINQKEENFSVVGSLRIDWRQPLLAFEHAPGEPKHRTYT</span></span>
-<span class="topo-line"><span class="topo-outside">LATFLKLLEEKQIRWPAFTYHNQQGRMDFQNRLISLSEDGTVMYLERFTSTFQAPAFDFR</span></span>
-<span class="topo-line"><span class="topo-outside">LFPFDNQLFFIHVDSIFPQHLFRFQEMQGFSGLGDQLGEEEWIVTEVNTHLTTHNEFTKG</span></span>
-<span class="topo-line"><span class="topo-outside">DASRFVLEFHAERHLNYYL</span><span class="topo-membrane">MRILIPVLLIITVSWFTFF</span><span class="topo-inside">LQDY</span><span class="topo-membrane">TKRIDLAGGNLLLFIAFN</span></span>
-<span class="topo-line"><span class="topo-membrane">F</span><span class="topo-outside">TISSDLPRLGYITLMD</span><span class="topo-membrane">AFLVGTFIITALVVLGNV</span><span class="topo-inside">WLRRLENHGKQALARKLDIY</span><span class="topo-membrane">AITSY</span></span>
-<span class="topo-line"><span class="topo-membrane">PLAYLLGALTLWLL</span><span class="topo-outside">FF</span><span class="topo-unknown">WRSY</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MASLAA</span><span class="topo-outside">EPSDVFIGLKIDQITGINQKEENFSVVGSLRIDWRQPLLAFEHAPGEPKHRTYTLATFLKLLEEKQIRWPAFTYHNQQGRMDFQNRLISLSEDGTVMYLERFTSTFQAPAFDFR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">LFPFDNQLFFIHVDSIFPQHLFRFQEMQGFSGLGDQLGEEEWIVTEVNTHLTTHNEFTKGDASRFVLEFHAERHLNYYL</span><span class="topo-membrane">MRILIPVLLIITVSWFTFF</span><span class="topo-inside">LQDY</span><span class="topo-membrane">TKRIDLAGGNLLLFIAFN</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320</span>
+<span class="topo-line"><span class="topo-membrane">F</span><span class="topo-outside">TISSDLPRLGYITLMD</span><span class="topo-membrane">AFLVGTFIITALVVLGNV</span><span class="topo-inside">WLRRLENHGKQALARKLDIY</span><span class="topo-membrane">AITSYPLAYLLGALTLWLL</span><span class="topo-outside">FF</span><span class="topo-unknown">WRSY</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1809,6 +1842,7 @@ sTeLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from a gamma
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1824,12 +1858,13 @@ sTeLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from a gamma
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MASLAA</span><span class="topo-outside">EPSDVFIGLKIDQITGINQKEENFSVVGSLRIDWRQPLLAFEHAPGEPKHRTYT</span></span>
-<span class="topo-line"><span class="topo-outside">LATFLKLLEEKQIRWPAFTYHNQQGRMDFQNRLISLSEDGTVMYLERFTSTFQAPAFDFR</span></span>
-<span class="topo-line"><span class="topo-outside">LFPFDNQLFFIHVDSIFPQHLFRFQEMQGFSGLGDQLGEEEWIVTEVNTHLTTHNEFTKG</span></span>
-<span class="topo-line"><span class="topo-outside">DASRFVLEFHAERHLNYYL</span><span class="topo-membrane">MRILIPVLLIITVSWFTFF</span><span class="topo-inside">LQDY</span><span class="topo-membrane">TKRIDLAGGNLLLFIAFN</span></span>
-<span class="topo-line"><span class="topo-membrane">F</span><span class="topo-outside">TISSDLPRLGYITLMD</span><span class="topo-membrane">AFLVGTFIITALVVLGNV</span><span class="topo-inside">WLRRLENHGKQALARKLDIY</span><span class="topo-membrane">AITSY</span></span>
-<span class="topo-line"><span class="topo-membrane">PLAYLLGALTLWLL</span><span class="topo-outside">FF</span><span class="topo-unknown">WRSY</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MASLAA</span><span class="topo-outside">EPSDVFIGLKIDQITGINQKEENFSVVGSLRIDWRQPLLAFEHAPGEPKHRTYTLATFLKLLEEKQIRWPAFTYHNQQGRMDFQNRLISLSEDGTVMYLERFTSTFQAPAFDFR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">LFPFDNQLFFIHVDSIFPQHLFRFQEMQGFSGLGDQLGEEEWIVTEVNTHLTTHNEFTKGDASRFVLEFHAERHLNYYL</span><span class="topo-membrane">MRILIPVLLIITVSWFTFF</span><span class="topo-inside">LQDY</span><span class="topo-membrane">TKRIDLAGGNLLLFIAFN</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320</span>
+<span class="topo-line"><span class="topo-membrane">F</span><span class="topo-outside">TISSDLPRLGYITLMD</span><span class="topo-membrane">AFLVGTFIITALVVLGNV</span><span class="topo-inside">WLRRLENHGKQALARKLDIY</span><span class="topo-membrane">AITSYPLAYLLGALTLWLL</span><span class="topo-outside">FF</span><span class="topo-unknown">WRSY</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1904,6 +1939,7 @@ sTeLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from a gamma
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1919,12 +1955,13 @@ sTeLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from a gamma
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MASLAA</span><span class="topo-outside">EPSDVFIGLKIDQITGINQKEENFSVVGSLRIDWRQPLLAFEHAPGEPKHRTYT</span></span>
-<span class="topo-line"><span class="topo-outside">LATFLKLLEEKQIRWPAFTYHNQQGRMDFQNRLISLSEDGTVMYLERFTSTFQAPAFDFR</span></span>
-<span class="topo-line"><span class="topo-outside">LFPFDNQLFFIHVDSIFPQHLFRFQEMQGFSGLGDQLGEEEWIVTEVNTHLTTHNEFTKG</span></span>
-<span class="topo-line"><span class="topo-outside">DASRFVLEFHAERHLNYYL</span><span class="topo-membrane">MRILIPVLLIITVSWFTFF</span><span class="topo-inside">LQDY</span><span class="topo-membrane">TKRIDLAGGNLLLFIAFN</span></span>
-<span class="topo-line"><span class="topo-membrane">F</span><span class="topo-outside">TISSDLPRLGYITLMD</span><span class="topo-membrane">AFLVGTFIITALVVLGNV</span><span class="topo-inside">WLRRLENHGKQALARKLDIY</span><span class="topo-membrane">AITSY</span></span>
-<span class="topo-line"><span class="topo-membrane">PLAYLLGALTLWLL</span><span class="topo-outside">FF</span><span class="topo-unknown">WRSY</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MASLAA</span><span class="topo-outside">EPSDVFIGLKIDQITGINQKEENFSVVGSLRIDWRQPLLAFEHAPGEPKHRTYTLATFLKLLEEKQIRWPAFTYHNQQGRMDFQNRLISLSEDGTVMYLERFTSTFQAPAFDFR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">LFPFDNQLFFIHVDSIFPQHLFRFQEMQGFSGLGDQLGEEEWIVTEVNTHLTTHNEFTKGDASRFVLEFHAERHLNYYL</span><span class="topo-membrane">MRILIPVLLIITVSWFTFF</span><span class="topo-inside">LQDY</span><span class="topo-membrane">TKRIDLAGGNLLLFIAFN</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320</span>
+<span class="topo-line"><span class="topo-membrane">F</span><span class="topo-outside">TISSDLPRLGYITLMD</span><span class="topo-membrane">AFLVGTFIITALVVLGNV</span><span class="topo-inside">WLRRLENHGKQALARKLDIY</span><span class="topo-membrane">AITSYPLAYLLGALTLWLL</span><span class="topo-outside">FF</span><span class="topo-unknown">WRSY</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1999,6 +2036,7 @@ sTeLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from a gamma
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2014,12 +2052,13 @@ sTeLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from a gamma
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MASLAA</span><span class="topo-outside">EPSDVFIGLKIDQITGINQKEENFSVVGSLRIDWRQPLLAFEHAPGEPKHRTYT</span></span>
-<span class="topo-line"><span class="topo-outside">LATFLKLLEEKQIRWPAFTYHNQQGRMDFQNRLISLSEDGTVMYLERFTSTFQAPAFDFR</span></span>
-<span class="topo-line"><span class="topo-outside">LFPFDNQLFFIHVDSIFPQHLFRFQEMQGFSGLGDQLGEEEWIVTEVNTHLTTHNEFTKG</span></span>
-<span class="topo-line"><span class="topo-outside">DASRFVLEFHAERHLNYYL</span><span class="topo-membrane">MRILIPVLLIITVSWFTFF</span><span class="topo-inside">LQDY</span><span class="topo-membrane">TKRIDLAGGNLLLFIAFN</span></span>
-<span class="topo-line"><span class="topo-membrane">F</span><span class="topo-outside">TISSDLPRLGYITLMD</span><span class="topo-membrane">AFLVGTFIITALVVLGNV</span><span class="topo-inside">WLRRLENHGKQALARKLDIY</span><span class="topo-membrane">AITSY</span></span>
-<span class="topo-line"><span class="topo-membrane">PLAYLLGALTLWLL</span><span class="topo-outside">FF</span><span class="topo-unknown">WRSY</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MASLAA</span><span class="topo-outside">EPSDVFIGLKIDQITGINQKEENFSVVGSLRIDWRQPLLAFEHAPGEPKHRTYTLATFLKLLEEKQIRWPAFTYHNQQGRMDFQNRLISLSEDGTVMYLERFTSTFQAPAFDFR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">LFPFDNQLFFIHVDSIFPQHLFRFQEMQGFSGLGDQLGEEEWIVTEVNTHLTTHNEFTKGDASRFVLEFHAERHLNYYL</span><span class="topo-membrane">MRILIPVLLIITVSWFTFF</span><span class="topo-inside">LQDY</span><span class="topo-membrane">TKRIDLAGGNLLLFIAFN</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320</span>
+<span class="topo-line"><span class="topo-membrane">F</span><span class="topo-outside">TISSDLPRLGYITLMD</span><span class="topo-membrane">AFLVGTFIITALVVLGNV</span><span class="topo-inside">WLRRLENHGKQALARKLDIY</span><span class="topo-membrane">AITSYPLAYLLGALTLWLL</span><span class="topo-outside">FF</span><span class="topo-unknown">WRSY</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2094,6 +2133,7 @@ sTeLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from a gamma
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2109,12 +2149,13 @@ sTeLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from a gamma
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MASLAA</span><span class="topo-outside">EPSDVFIGLKIDQITGINQKEENFSVVGSLRIDWRQPLLAFEHAPGEPKHRTYT</span></span>
-<span class="topo-line"><span class="topo-outside">LATFLKLLEEKQIRWPAFTYHNQQGRMDFQNRLISLSEDGTVMYLERFTSTFQAPAFDFR</span></span>
-<span class="topo-line"><span class="topo-outside">LFPFDNQLFFIHVDSIFPQHLFRFQEMQGFSGLGDQLGEEEWIVTEVNTHLTTHNEFTKG</span></span>
-<span class="topo-line"><span class="topo-outside">DASRFVLEFHAERHLNYYL</span><span class="topo-membrane">MRILIPVLLIITVSWFTFF</span><span class="topo-inside">LQDY</span><span class="topo-membrane">TKRIDLAGGNLLLFIAFN</span></span>
-<span class="topo-line"><span class="topo-membrane">F</span><span class="topo-outside">TISSDLPRLGYITLMD</span><span class="topo-membrane">AFLVGTFIITALVVLGNV</span><span class="topo-inside">WLRRLENHGKQALARKLDIY</span><span class="topo-membrane">AITSY</span></span>
-<span class="topo-line"><span class="topo-membrane">PLAYLLGALTLWLL</span><span class="topo-outside">FF</span><span class="topo-unknown">WRSY</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MASLAA</span><span class="topo-outside">EPSDVFIGLKIDQITGINQKEENFSVVGSLRIDWRQPLLAFEHAPGEPKHRTYTLATFLKLLEEKQIRWPAFTYHNQQGRMDFQNRLISLSEDGTVMYLERFTSTFQAPAFDFR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">LFPFDNQLFFIHVDSIFPQHLFRFQEMQGFSGLGDQLGEEEWIVTEVNTHLTTHNEFTKGDASRFVLEFHAERHLNYYL</span><span class="topo-membrane">MRILIPVLLIITVSWFTFF</span><span class="topo-inside">LQDY</span><span class="topo-membrane">TKRIDLAGGNLLLFIAFN</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320</span>
+<span class="topo-line"><span class="topo-membrane">F</span><span class="topo-outside">TISSDLPRLGYITLMD</span><span class="topo-membrane">AFLVGTFIITALVVLGNV</span><span class="topo-inside">WLRRLENHGKQALARKLDIY</span><span class="topo-membrane">AITSYPLAYLLGALTLWLL</span><span class="topo-outside">FF</span><span class="topo-unknown">WRSY</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2189,6 +2230,7 @@ sTeLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from a gamma
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2204,12 +2246,13 @@ sTeLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from a gamma
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MASLAA</span><span class="topo-outside">EPSDVFIGLKIDQITGINQKEENFSVVGSLRIDWRQPLLAFEHAPGEPKHRTYT</span></span>
-<span class="topo-line"><span class="topo-outside">LATFLKLLEEKQIRWPAFTYHNQQGRMDFQNRLISLSEDGTVMYLERFTSTFQAPAFDFR</span></span>
-<span class="topo-line"><span class="topo-outside">LFPFDNQLFFIHVDSIFPQHLFRFQEMQGFSGLGDQLGEEEWIVTEVNTHLTTHNEFTKG</span></span>
-<span class="topo-line"><span class="topo-outside">DASRFVLEFHAERHLNYYL</span><span class="topo-membrane">MRILIPVLLIITVSWFTFF</span><span class="topo-inside">LQDY</span><span class="topo-membrane">TKRIDLAGGNLLLFIAFN</span></span>
-<span class="topo-line"><span class="topo-membrane">F</span><span class="topo-outside">TISSDLPRLGYITLMD</span><span class="topo-membrane">AFLVGTFIITALVVLGNV</span><span class="topo-inside">WLRRLENHGKQALARKLDIY</span><span class="topo-membrane">AITSY</span></span>
-<span class="topo-line"><span class="topo-membrane">PLAYLLGALTLWLL</span><span class="topo-outside">FF</span><span class="topo-unknown">WRSY</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MASLAA</span><span class="topo-outside">EPSDVFIGLKIDQITGINQKEENFSVVGSLRIDWRQPLLAFEHAPGEPKHRTYTLATFLKLLEEKQIRWPAFTYHNQQGRMDFQNRLISLSEDGTVMYLERFTSTFQAPAFDFR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">LFPFDNQLFFIHVDSIFPQHLFRFQEMQGFSGLGDQLGEEEWIVTEVNTHLTTHNEFTKGDASRFVLEFHAERHLNYYL</span><span class="topo-membrane">MRILIPVLLIITVSWFTFF</span><span class="topo-inside">LQDY</span><span class="topo-membrane">TKRIDLAGGNLLLFIAFN</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320</span>
+<span class="topo-line"><span class="topo-membrane">F</span><span class="topo-outside">TISSDLPRLGYITLMD</span><span class="topo-membrane">AFLVGTFIITALVVLGNV</span><span class="topo-inside">WLRRLENHGKQALARKLDIY</span><span class="topo-membrane">AITSYPLAYLLGALTLWLL</span><span class="topo-outside">FF</span><span class="topo-unknown">WRSY</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2284,6 +2327,7 @@ sTeLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from a gamma
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2299,12 +2343,13 @@ sTeLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from a gamma
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MASLAA</span><span class="topo-outside">EPSDVFIGLKIDQITGINQKEENFSVVGSLRIDWRQPLLAFEHAPGEPKHRTYT</span></span>
-<span class="topo-line"><span class="topo-outside">LATFLKLLEEKQIRWPAFTYHNQQGRMDFQNRLISLSEDGTVMYLERFTSTFQAPAFDFR</span></span>
-<span class="topo-line"><span class="topo-outside">LFPFDNQLFFIHVDSIFPQHLFRFQEMQGFSGLGDQLGEEEWIVTEVNTHLTTHNEFTKG</span></span>
-<span class="topo-line"><span class="topo-outside">DASRFVLEFHAERHLNYYL</span><span class="topo-membrane">MRILIPVLLIITVSWFTFF</span><span class="topo-inside">LQDY</span><span class="topo-membrane">TKRIDLAGGNLLLFIAFN</span></span>
-<span class="topo-line"><span class="topo-membrane">F</span><span class="topo-outside">TISSDLPRLGYITLMD</span><span class="topo-membrane">AFLVGTFIITALVVLGNV</span><span class="topo-inside">WLRRLENHGKQALARKLDIY</span><span class="topo-membrane">AITSY</span></span>
-<span class="topo-line"><span class="topo-membrane">PLAYLLGALTLWLL</span><span class="topo-outside">FF</span><span class="topo-unknown">WRSY</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MASLAA</span><span class="topo-outside">EPSDVFIGLKIDQITGINQKEENFSVVGSLRIDWRQPLLAFEHAPGEPKHRTYTLATFLKLLEEKQIRWPAFTYHNQQGRMDFQNRLISLSEDGTVMYLERFTSTFQAPAFDFR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">LFPFDNQLFFIHVDSIFPQHLFRFQEMQGFSGLGDQLGEEEWIVTEVNTHLTTHNEFTKGDASRFVLEFHAERHLNYYL</span><span class="topo-membrane">MRILIPVLLIITVSWFTFF</span><span class="topo-inside">LQDY</span><span class="topo-membrane">TKRIDLAGGNLLLFIAFN</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320</span>
+<span class="topo-line"><span class="topo-membrane">F</span><span class="topo-outside">TISSDLPRLGYITLMD</span><span class="topo-membrane">AFLVGTFIITALVVLGNV</span><span class="topo-inside">WLRRLENHGKQALARKLDIY</span><span class="topo-membrane">AITSYPLAYLLGALTLWLL</span><span class="topo-outside">FF</span><span class="topo-unknown">WRSY</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2379,6 +2424,7 @@ sTeLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from a gamma
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2394,12 +2440,13 @@ sTeLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from a gamma
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MASLAA</span><span class="topo-outside">EPSDVFIGLKIDQITGINQKEENFSVVGSLRIDWRQPLLAFEHAPGEPKHRTYT</span></span>
-<span class="topo-line"><span class="topo-outside">LATFLKLLEEKQIRWPAFTYHNQQGRMDFQNRLISLSEDGTVMYLERFTSTFQAPAFDFR</span></span>
-<span class="topo-line"><span class="topo-outside">LFPFDNQLFFIHVDSIFPQHLFRFQEMQGFSGLGDQLGEEEWIVTEVNTHLTTHNEFTKG</span></span>
-<span class="topo-line"><span class="topo-outside">DASRFVLEFHAERHLNYYL</span><span class="topo-membrane">MRILIPVLLIITVSWFTFF</span><span class="topo-inside">LQDY</span><span class="topo-membrane">TKRIDLAGGNLLLFIAFN</span></span>
-<span class="topo-line"><span class="topo-membrane">F</span><span class="topo-outside">TISSDLPRLGYITLMD</span><span class="topo-membrane">AFLVGTFIITALVVLGNV</span><span class="topo-inside">WLRRLENHGKQALARKLDIY</span><span class="topo-membrane">AITSY</span></span>
-<span class="topo-line"><span class="topo-membrane">PLAYLLGALTLWLL</span><span class="topo-outside">FF</span><span class="topo-unknown">WRSY</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MASLAA</span><span class="topo-outside">EPSDVFIGLKIDQITGINQKEENFSVVGSLRIDWRQPLLAFEHAPGEPKHRTYTLATFLKLLEEKQIRWPAFTYHNQQGRMDFQNRLISLSEDGTVMYLERFTSTFQAPAFDFR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">LFPFDNQLFFIHVDSIFPQHLFRFQEMQGFSGLGDQLGEEEWIVTEVNTHLTTHNEFTKGDASRFVLEFHAERHLNYYL</span><span class="topo-membrane">MRILIPVLLIITVSWFTFF</span><span class="topo-inside">LQDY</span><span class="topo-membrane">TKRIDLAGGNLLLFIAFN</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320</span>
+<span class="topo-line"><span class="topo-membrane">F</span><span class="topo-outside">TISSDLPRLGYITLMD</span><span class="topo-membrane">AFLVGTFIITALVVLGNV</span><span class="topo-inside">WLRRLENHGKQALARKLDIY</span><span class="topo-membrane">AITSYPLAYLLGALTLWLL</span><span class="topo-outside">FF</span><span class="topo-unknown">WRSY</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2474,6 +2521,7 @@ sTeLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from a gamma
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2489,12 +2537,13 @@ sTeLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from a gamma
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MASLAA</span><span class="topo-outside">EPSDVFIGLKIDQITGINQKEENFSVVGSLRIDWRQPLLAFEHAPGEPKHRTYT</span></span>
-<span class="topo-line"><span class="topo-outside">LATFLKLLEEKQIRWPAFTYHNQQGRMDFQNRLISLSEDGTVMYLERFTSTFQAPAFDFR</span></span>
-<span class="topo-line"><span class="topo-outside">LFPFDNQLFFIHVDSIFPQHLFRFQEMQGFSGLGDQLGEEEWIVTEVNTHLTTHNEFTKG</span></span>
-<span class="topo-line"><span class="topo-outside">DASRFVLEFHAERHLNYYL</span><span class="topo-membrane">MRILIPVLLIITVSWFTFF</span><span class="topo-inside">LQDY</span><span class="topo-membrane">TKRIDLAGGNLLLFIAFN</span></span>
-<span class="topo-line"><span class="topo-membrane">F</span><span class="topo-outside">TISSDLPRLGYITLMD</span><span class="topo-membrane">AFLVGTFIITALVVLGNV</span><span class="topo-inside">WLRRLENHGKQALARKLDIY</span><span class="topo-membrane">AITSY</span></span>
-<span class="topo-line"><span class="topo-membrane">PLAYLLGALTLWLL</span><span class="topo-outside">FF</span><span class="topo-unknown">WRSY</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MASLAA</span><span class="topo-outside">EPSDVFIGLKIDQITGINQKEENFSVVGSLRIDWRQPLLAFEHAPGEPKHRTYTLATFLKLLEEKQIRWPAFTYHNQQGRMDFQNRLISLSEDGTVMYLERFTSTFQAPAFDFR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">LFPFDNQLFFIHVDSIFPQHLFRFQEMQGFSGLGDQLGEEEWIVTEVNTHLTTHNEFTKGDASRFVLEFHAERHLNYYL</span><span class="topo-membrane">MRILIPVLLIITVSWFTFF</span><span class="topo-inside">LQDY</span><span class="topo-membrane">TKRIDLAGGNLLLFIAFN</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320</span>
+<span class="topo-line"><span class="topo-membrane">F</span><span class="topo-outside">TISSDLPRLGYITLMD</span><span class="topo-membrane">AFLVGTFIITALVVLGNV</span><span class="topo-inside">WLRRLENHGKQALARKLDIY</span><span class="topo-membrane">AITSYPLAYLLGALTLWLL</span><span class="topo-outside">FF</span><span class="topo-unknown">WRSY</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2569,6 +2618,7 @@ sTeLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from a gamma
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

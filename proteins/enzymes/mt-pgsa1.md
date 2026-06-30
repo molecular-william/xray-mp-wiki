@@ -163,10 +163,11 @@ mechanism involving a substrate-induced [Carboxylate Shift](/xray-mp-wiki/concep
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSKLPFLSRAAFARIT</span><span class="topo-inside">T</span><span class="topo-unknown">PIARGLLR</span><span class="topo-inside">VGLTPDV</span><span class="topo-membrane">VTILGTTASVAGALTLFP</span><span class="topo-outside">MGK</span><span class="topo-membrane">LFAGACV</span></span>
-<span class="topo-line"><span class="topo-membrane">VWFFVLFDM</span><span class="topo-inside">LDGAMARERGGGTRFGAVLDAT</span><span class="topo-membrane">CDRISDGAVFCGLLW</span><span class="topo-outside">WIAFHMRDRP</span><span class="topo-membrane">LVIA</span></span>
-<span class="topo-line"><span class="topo-membrane">TLICLVTSQVISY</span><span class="topo-inside">IKARAEASGLRGDGG</span><span class="topo-unknown">FIE</span><span class="topo-inside">R</span><span class="topo-membrane">PERLIIVLTGAGVS</span><span class="topo-outside">DFPFVPWPPA</span><span class="topo-membrane">LSVG</span></span>
-<span class="topo-line"><span class="topo-membrane">MWLLAVASVITCV</span><span class="topo-inside">QRLHTVWTSPGAIDRM</span><span class="topo-unknown">AIPGKGDR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSKLPFLSRAAFARIT</span><span class="topo-inside">T</span><span class="topo-unknown">PIARGLLR</span><span class="topo-inside">VGLTPDV</span><span class="topo-membrane">VTILGTTASVAGALTLFP</span><span class="topo-outside">MGK</span><span class="topo-membrane">LFAGACVVWFFVLFDM</span><span class="topo-inside">LDGAMARERGGGTRFGAVLDAT</span><span class="topo-membrane">CDRISDGAVFCGLLW</span><span class="topo-outside">WIAFHMRDRP</span><span class="topo-membrane">LVIA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       </span>
+<span class="topo-line"><span class="topo-membrane">TLICLVTSQVISY</span><span class="topo-inside">IKARAEASGLRGDGG</span><span class="topo-unknown">FIE</span><span class="topo-inside">R</span><span class="topo-membrane">PERLIIVLTGAGVS</span><span class="topo-outside">DFPFVPWPPA</span><span class="topo-membrane">LSVGMWLLAVASVITCV</span><span class="topo-inside">QRLHTVWTSPGAIDRM</span><span class="topo-unknown">AIPGKGDR</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -290,6 +291,7 @@ mechanism involving a substrate-induced [Carboxylate Shift](/xray-mp-wiki/concep
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -305,10 +307,11 @@ mechanism involving a substrate-induced [Carboxylate Shift](/xray-mp-wiki/concep
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSKLPFLSRAAFARI</span><span class="topo-inside">TT</span><span class="topo-unknown">PIARGLLRV</span><span class="topo-inside">GLTPDVV</span><span class="topo-membrane">TILGTTASVAGALTLFP</span><span class="topo-outside">MGKL</span><span class="topo-membrane">FAGACV</span></span>
-<span class="topo-line"><span class="topo-membrane">VWFFVLFDM</span><span class="topo-inside">LDGAMARERGGGTRFGAVLDAT</span><span class="topo-membrane">CDRISDGAVFCGLLW</span><span class="topo-outside">WIAFHMRDRPL</span><span class="topo-membrane">VIA</span></span>
-<span class="topo-line"><span class="topo-membrane">TLICLVTSQVISY</span><span class="topo-inside">IKARAEASGLRGDGG</span><span class="topo-unknown">FIE</span><span class="topo-inside">R</span><span class="topo-membrane">PERLIIVLTGAGV</span><span class="topo-outside">SDFPFVPWPPA</span><span class="topo-membrane">LSVG</span></span>
-<span class="topo-line"><span class="topo-membrane">MWLLAVASVITCVQ</span><span class="topo-inside">RLHTVWTSPGAIDRM</span><span class="topo-unknown">AIPGKGDR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSKLPFLSRAAFARI</span><span class="topo-inside">TT</span><span class="topo-unknown">PIARGLLRV</span><span class="topo-inside">GLTPDVV</span><span class="topo-membrane">TILGTTASVAGALTLFP</span><span class="topo-outside">MGKL</span><span class="topo-membrane">FAGACVVWFFVLFDM</span><span class="topo-inside">LDGAMARERGGGTRFGAVLDAT</span><span class="topo-membrane">CDRISDGAVFCGLLW</span><span class="topo-outside">WIAFHMRDRPL</span><span class="topo-membrane">VIA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       </span>
+<span class="topo-line"><span class="topo-membrane">TLICLVTSQVISY</span><span class="topo-inside">IKARAEASGLRGDGG</span><span class="topo-unknown">FIE</span><span class="topo-inside">R</span><span class="topo-membrane">PERLIIVLTGAGV</span><span class="topo-outside">SDFPFVPWPPA</span><span class="topo-membrane">LSVGMWLLAVASVITCVQ</span><span class="topo-inside">RLHTVWTSPGAIDRM</span><span class="topo-unknown">AIPGKGDR</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -432,6 +435,7 @@ mechanism involving a substrate-induced [Carboxylate Shift](/xray-mp-wiki/concep
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -447,10 +451,11 @@ mechanism involving a substrate-induced [Carboxylate Shift](/xray-mp-wiki/concep
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSK</span><span class="topo-inside">LPFLSRAAFARI</span><span class="topo-unknown">TTPIARGLLR</span><span class="topo-inside">VGLTPDV</span><span class="topo-membrane">VTILGTTASVAGALTLFP</span><span class="topo-outside">MGKL</span><span class="topo-membrane">FAGACV</span></span>
-<span class="topo-line"><span class="topo-membrane">VWFFVLFDM</span><span class="topo-inside">LDGAMARERGGGTRFGAVLDAT</span><span class="topo-membrane">CDRISDGAVFCGLLW</span><span class="topo-outside">WIAFHMRDRP</span><span class="topo-membrane">LVIA</span></span>
-<span class="topo-line"><span class="topo-membrane">TLICLVTSQVISY</span><span class="topo-inside">IKARAEASGLRGDGG</span><span class="topo-membrane">FIERPERLIIVLTGAGV</span><span class="topo-outside">SDFPFVPWPPA</span><span class="topo-membrane">LSVG</span></span>
-<span class="topo-line"><span class="topo-membrane">MWLLAVASVITCVQ</span><span class="topo-inside">RLHTVWTSPGAIDRMA</span><span class="topo-unknown">IPGKGDRENLYFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSK</span><span class="topo-inside">LPFLSRAAFARI</span><span class="topo-unknown">TTPIARGLLR</span><span class="topo-inside">VGLTPDV</span><span class="topo-membrane">VTILGTTASVAGALTLFP</span><span class="topo-outside">MGKL</span><span class="topo-membrane">FAGACVVWFFVLFDM</span><span class="topo-inside">LDGAMARERGGGTRFGAVLDAT</span><span class="topo-membrane">CDRISDGAVFCGLLW</span><span class="topo-outside">WIAFHMRDRP</span><span class="topo-membrane">LVIA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220   </span>
+<span class="topo-line"><span class="topo-membrane">TLICLVTSQVISY</span><span class="topo-inside">IKARAEASGLRGDGG</span><span class="topo-membrane">FIERPERLIIVLTGAGV</span><span class="topo-outside">SDFPFVPWPPA</span><span class="topo-membrane">LSVGMWLLAVASVITCVQ</span><span class="topo-inside">RLHTVWTSPGAIDRMA</span><span class="topo-unknown">IPGKGDRENLYFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -567,6 +572,7 @@ mechanism involving a substrate-induced [Carboxylate Shift](/xray-mp-wiki/concep
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -582,10 +588,11 @@ mechanism involving a substrate-induced [Carboxylate Shift](/xray-mp-wiki/concep
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSKLPFLSRAAFAR</span><span class="topo-inside">I</span><span class="topo-unknown">TTPIARGLLRV</span><span class="topo-inside">GLTPDV</span><span class="topo-membrane">VTILGTTASVAGALTLFP</span><span class="topo-outside">MGK</span><span class="topo-membrane">LFAGACV</span></span>
-<span class="topo-line"><span class="topo-membrane">VWFFVLFD</span><span class="topo-inside">MLDGAMARERGGGTRFGAVLDAT</span><span class="topo-membrane">CDRISDGAVFCGLLW</span><span class="topo-outside">WIAFHMRDRP</span><span class="topo-membrane">LVIA</span></span>
-<span class="topo-line"><span class="topo-membrane">TLICLVTSQVISY</span><span class="topo-inside">IKARAEASGLRGDGG</span><span class="topo-membrane">FIERPERLIIVLTGAGVS</span><span class="topo-outside">DFPFVPWPPA</span><span class="topo-membrane">LSVG</span></span>
-<span class="topo-line"><span class="topo-membrane">MWLLAVASVITCVQ</span><span class="topo-inside">RLHTVWTSPGAIDRMAIPGKGDRENLYFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSKLPFLSRAAFAR</span><span class="topo-inside">I</span><span class="topo-unknown">TTPIARGLLRV</span><span class="topo-inside">GLTPDV</span><span class="topo-membrane">VTILGTTASVAGALTLFP</span><span class="topo-outside">MGK</span><span class="topo-membrane">LFAGACVVWFFVLFD</span><span class="topo-inside">MLDGAMARERGGGTRFGAVLDAT</span><span class="topo-membrane">CDRISDGAVFCGLLW</span><span class="topo-outside">WIAFHMRDRP</span><span class="topo-membrane">LVIA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220   </span>
+<span class="topo-line"><span class="topo-membrane">TLICLVTSQVISY</span><span class="topo-inside">IKARAEASGLRGDGG</span><span class="topo-membrane">FIERPERLIIVLTGAGVS</span><span class="topo-outside">DFPFVPWPPA</span><span class="topo-membrane">LSVGMWLLAVASVITCVQ</span><span class="topo-inside">RLHTVWTSPGAIDRMAIPGKGDRENLYFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -702,6 +709,7 @@ mechanism involving a substrate-induced [Carboxylate Shift](/xray-mp-wiki/concep
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -717,10 +725,11 @@ mechanism involving a substrate-induced [Carboxylate Shift](/xray-mp-wiki/concep
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSKLPFLSRAAF</span><span class="topo-outside">ARI</span><span class="topo-unknown">TTPIARGLLRV</span><span class="topo-outside">GLTPDV</span><span class="topo-membrane">VTILGTTASVAGALTLF</span><span class="topo-inside">PMGKL</span><span class="topo-membrane">FAGACV</span></span>
-<span class="topo-line"><span class="topo-membrane">VWFFVLFD</span><span class="topo-outside">MLDGAMARERGGGTRFGAVLDAT</span><span class="topo-membrane">CDRISDGAVFCGLLW</span><span class="topo-inside">WIAFHMRDRP</span><span class="topo-membrane">LVIA</span></span>
-<span class="topo-line"><span class="topo-membrane">TLICLVTSQVISY</span><span class="topo-outside">IKARAEASGLRGDGGF</span><span class="topo-membrane">IERPERLIIVLTGAGVSDF</span><span class="topo-inside">PFVPWPPA</span><span class="topo-membrane">LSVG</span></span>
-<span class="topo-line"><span class="topo-membrane">MWLLAVASVITCV</span><span class="topo-outside">QRLHTVWTSPGAIDRMAI</span><span class="topo-unknown">PGKGDR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSKLPFLSRAAF</span><span class="topo-outside">ARI</span><span class="topo-unknown">TTPIARGLLRV</span><span class="topo-outside">GLTPDV</span><span class="topo-membrane">VTILGTTASVAGALTLF</span><span class="topo-inside">PMGKL</span><span class="topo-membrane">FAGACVVWFFVLFD</span><span class="topo-outside">MLDGAMARERGGGTRFGAVLDAT</span><span class="topo-membrane">CDRISDGAVFCGLLW</span><span class="topo-inside">WIAFHMRDRP</span><span class="topo-membrane">LVIA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       </span>
+<span class="topo-line"><span class="topo-membrane">TLICLVTSQVISY</span><span class="topo-outside">IKARAEASGLRGDGGF</span><span class="topo-membrane">IERPERLIIVLTGAGVSDF</span><span class="topo-inside">PFVPWPPA</span><span class="topo-membrane">LSVGMWLLAVASVITCV</span><span class="topo-outside">QRLHTVWTSPGAIDRMAI</span><span class="topo-unknown">PGKGDR</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -837,6 +846,7 @@ mechanism involving a substrate-induced [Carboxylate Shift](/xray-mp-wiki/concep
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -852,10 +862,11 @@ mechanism involving a substrate-induced [Carboxylate Shift](/xray-mp-wiki/concep
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSKLPFLSRAAFAR</span><span class="topo-outside">I</span><span class="topo-unknown">TTPIARGLLR</span><span class="topo-outside">VGLTPDVV</span><span class="topo-membrane">TILGTTASVAGALTLFP</span><span class="topo-inside">MGKL</span><span class="topo-membrane">FAGACV</span></span>
-<span class="topo-line"><span class="topo-membrane">VWFFVLFD</span><span class="topo-outside">MLDGAMARERGGGTRFGAVLDAT</span><span class="topo-membrane">CDRISDGAVFCGLLW</span><span class="topo-inside">WIAFHMRDRPLV</span><span class="topo-membrane">IA</span></span>
-<span class="topo-line"><span class="topo-membrane">TLICLVTSQVISY</span><span class="topo-outside">IKARAEASGLRGDGG</span><span class="topo-membrane">FIERPERLIIVLTGAGV</span><span class="topo-inside">SDFPFVPWPPA</span><span class="topo-membrane">LSVG</span></span>
-<span class="topo-line"><span class="topo-membrane">MWLLAVASVITCVQ</span><span class="topo-outside">RLHTVWTSPGAIDRMA</span><span class="topo-unknown">IPGKGDR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSKLPFLSRAAFAR</span><span class="topo-outside">I</span><span class="topo-unknown">TTPIARGLLR</span><span class="topo-outside">VGLTPDVV</span><span class="topo-membrane">TILGTTASVAGALTLFP</span><span class="topo-inside">MGKL</span><span class="topo-membrane">FAGACVVWFFVLFD</span><span class="topo-outside">MLDGAMARERGGGTRFGAVLDAT</span><span class="topo-membrane">CDRISDGAVFCGLLW</span><span class="topo-inside">WIAFHMRDRPLV</span><span class="topo-membrane">IA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       </span>
+<span class="topo-line"><span class="topo-membrane">TLICLVTSQVISY</span><span class="topo-outside">IKARAEASGLRGDGG</span><span class="topo-membrane">FIERPERLIIVLTGAGV</span><span class="topo-inside">SDFPFVPWPPA</span><span class="topo-membrane">LSVGMWLLAVASVITCVQ</span><span class="topo-outside">RLHTVWTSPGAIDRMA</span><span class="topo-unknown">IPGKGDR</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -972,6 +983,7 @@ mechanism involving a substrate-induced [Carboxylate Shift](/xray-mp-wiki/concep
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

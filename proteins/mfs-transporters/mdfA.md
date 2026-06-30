@@ -129,13 +129,15 @@ MdfA is a secondary multidrug efflux transporter from Escherichia coli belonging
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MQNKLASGARLGRQ</span><span class="topo-inside">ALLFPLC</span><span class="topo-membrane">LVLYEFSTYIGNDMIQPG</span><span class="topo-outside">MLAVVEQYQAGIDWVP</span><span class="topo-membrane">TSMTA</span></span>
-<span class="topo-line"><span class="topo-membrane">YLAGGMFLQW</span><span class="topo-inside">LLGPLSDRIGRRPVML</span><span class="topo-membrane">AGVVWFIVTCLAILLA</span><span class="topo-outside">QNIE</span><span class="topo-membrane">QFTLLRFLQGISLC</span></span>
-<span class="topo-line"><span class="topo-membrane">FI</span><span class="topo-inside">GAVGYAAIRESFEEAVCIKITAL</span><span class="topo-membrane">MANVALIAPLLGPLVGAAW</span><span class="topo-outside">I</span><span class="topo-unknown">H</span><span class="topo-outside">VLPW</span><span class="topo-membrane">EGMFVLFAAL</span></span>
-<span class="topo-line"><span class="topo-membrane">AAISFF</span><span class="topo-inside">GLQRAMPETATRIGEKLS</span><span class="topo-unknown">LKELGRDYKLVL</span><span class="topo-inside">KNGRFV</span><span class="topo-membrane">AGALALGFVSLPLLAWIA</span></span>
-<span class="topo-line"><span class="topo-membrane">QS</span><span class="topo-outside">PIIIITGEQLSSYEYG</span><span class="topo-membrane">LLQVPIFGALIAGNLLL</span><span class="topo-inside">ARLTSRRTVRSL</span><span class="topo-membrane">IIMGGWPIMIGLL</span></span>
-<span class="topo-line"><span class="topo-membrane">VAA</span><span class="topo-outside">AATVISSHAYLWM</span><span class="topo-membrane">TAGLSIYAFGIGLANA</span><span class="topo-inside">GLVRLTEFASDMSKGTVSAA</span><span class="topo-membrane">MGMLQMLI</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MQNKLASGARLGRQ</span><span class="topo-inside">ALLFPLC</span><span class="topo-membrane">LVLYEFSTYIGNDMIQPG</span><span class="topo-outside">MLAVVEQYQAGIDWVP</span><span class="topo-membrane">TSMTAYLAGGMFLQW</span><span class="topo-inside">LLGPLSDRIGRRPVML</span><span class="topo-membrane">AGVVWFIVTCLAILLA</span><span class="topo-outside">QNIE</span><span class="topo-membrane">QFTLLRFLQGISLC</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">FI</span><span class="topo-inside">GAVGYAAIRESFEEAVCIKITAL</span><span class="topo-membrane">MANVALIAPLLGPLVGAAW</span><span class="topo-outside">I</span><span class="topo-unknown">H</span><span class="topo-outside">VLPW</span><span class="topo-membrane">EGMFVLFAALAAISFF</span><span class="topo-inside">GLQRAMPETATRIGEKLS</span><span class="topo-unknown">LKELGRDYKLVL</span><span class="topo-inside">KNGRFV</span><span class="topo-membrane">AGALALGFVSLPLLAWIA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">QS</span><span class="topo-outside">PIIIITGEQLSSYEYG</span><span class="topo-membrane">LLQVPIFGALIAGNLLL</span><span class="topo-inside">ARLTSRRTVRSL</span><span class="topo-membrane">IIMGGWPIMIGLLVAA</span><span class="topo-outside">AATVISSHAYLWM</span><span class="topo-membrane">TAGLSIYAFGIGLANA</span><span class="topo-inside">GLVRLTEFASDMSKGTVSAA</span><span class="topo-membrane">MGMLQMLI</span></span>
+<span class="topo-ruler">       370       380       390       400       410         </span>
 <span class="topo-line"><span class="topo-membrane">FTVGIEISK</span><span class="topo-outside">HAWLNGGNGLF</span><span class="topo-membrane">NLFNLVNGILWLSLMVI</span><span class="topo-inside">FLK</span><span class="topo-unknown">DKQMGNSHEGASTHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (29 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -350,6 +352,7 @@ MdfA is a secondary multidrug efflux transporter from Escherichia coli belonging
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -487,13 +490,15 @@ MdfA is a secondary multidrug efflux transporter from Escherichia coli belonging
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">ARLGRQALLFP</span><span class="topo-membrane">LCLVLYEFSTYIGNDMIQPGM</span><span class="topo-outside">LAVVEQYQAGIDWV</span><span class="topo-membrane">PTSMTAYLAGGMFL</span></span>
-<span class="topo-line"><span class="topo-membrane">QWLLG</span><span class="topo-inside">PLSDRIGRRP</span><span class="topo-membrane">VMLAGVVWFIVTCLAILLA</span><span class="topo-outside">QNIE</span><span class="topo-membrane">QFTLLRFLQGISLCFIGAVG</span><span class="topo-inside">YA</span></span>
-<span class="topo-line"><span class="topo-inside">AIRESFEEAVCIKITA</span><span class="topo-membrane">LMANVALIAPLLGPLVGAAWI</span><span class="topo-outside">HVLPW</span><span class="topo-membrane">EGMFVLFAALAAISFFGL</span></span>
-<span class="topo-line"><span class="topo-membrane">QR</span><span class="topo-inside">AMPETATRIGEKLS</span><span class="topo-unknown">LKELGRDYKLVL</span><span class="topo-inside">KNGRFV</span><span class="topo-membrane">AGALALGFVSLPLLAWIAQSP</span><span class="topo-outside">IIIIT</span></span>
-<span class="topo-line"><span class="topo-outside">GEQLSSY</span><span class="topo-membrane">EYGLLQVPIFGALIAGNLLL</span><span class="topo-inside">ARLTSRRTVRSL</span><span class="topo-membrane">IIMGGWPIMIGLLVAAAATV</span><span class="topo-outside">I</span></span>
-<span class="topo-line"><span class="topo-outside">SSHAY</span><span class="topo-membrane">LWMTAGLSIYAFGIGLANAGLV</span><span class="topo-inside">RLTLFASDMSKGTVS</span><span class="topo-membrane">AAMGMLQMLIFTVGIEIS</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">ARLGRQALLFP</span><span class="topo-membrane">LCLVLYEFSTYIGNDMIQPGM</span><span class="topo-outside">LAVVEQYQAGIDWV</span><span class="topo-membrane">PTSMTAYLAGGMFLQWLLG</span><span class="topo-inside">PLSDRIGRRP</span><span class="topo-membrane">VMLAGVVWFIVTCLAILLA</span><span class="topo-outside">QNIE</span><span class="topo-membrane">QFTLLRFLQGISLCFIGAVG</span><span class="topo-inside">YA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">AIRESFEEAVCIKITA</span><span class="topo-membrane">LMANVALIAPLLGPLVGAAWI</span><span class="topo-outside">HVLPW</span><span class="topo-membrane">EGMFVLFAALAAISFFGLQR</span><span class="topo-inside">AMPETATRIGEKLS</span><span class="topo-unknown">LKELGRDYKLVL</span><span class="topo-inside">KNGRFV</span><span class="topo-membrane">AGALALGFVSLPLLAWIAQSP</span><span class="topo-outside">IIIIT</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">GEQLSSY</span><span class="topo-membrane">EYGLLQVPIFGALIAGNLLL</span><span class="topo-inside">ARLTSRRTVRSL</span><span class="topo-membrane">IIMGGWPIMIGLLVAAAATV</span><span class="topo-outside">ISSHAY</span><span class="topo-membrane">LWMTAGLSIYAFGIGLANAGLV</span><span class="topo-inside">RLTLFASDMSKGTVS</span><span class="topo-membrane">AAMGMLQMLIFTVGIEIS</span></span>
+<span class="topo-ruler">       370       380       390  </span>
 <span class="topo-line"><span class="topo-membrane">KHAW</span><span class="topo-outside">LNGGN</span><span class="topo-membrane">GLFNLFNLVNGILWLSLMVIF</span><span class="topo-inside">LK</span></span>
+<details class="topo-details"><summary>Topology coordinates (27 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -694,6 +699,7 @@ MdfA is a secondary multidrug efflux transporter from Escherichia coli belonging
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -709,13 +715,15 @@ MdfA is a secondary multidrug efflux transporter from Escherichia coli belonging
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">RLGRQALLFPL</span><span class="topo-membrane">CLVLYEFSTYIGNDMIQPGM</span><span class="topo-outside">LAVVEQYQAGIDWV</span><span class="topo-membrane">PTSMTAYLAGGMFLQ</span></span>
-<span class="topo-line"><span class="topo-membrane">WLL</span><span class="topo-inside">GPLSDRIGRRP</span><span class="topo-membrane">VMLAGVVWFIVTCLAILLA</span><span class="topo-outside">QNIEQ</span><span class="topo-membrane">FTLLRFLQGISLCFIGAVG</span><span class="topo-inside">YAA</span></span>
-<span class="topo-line"><span class="topo-inside">IRESFEEAVCIKITA</span><span class="topo-membrane">LMANVALIAPLLGPLVGAAW</span><span class="topo-outside">IHVLPW</span><span class="topo-membrane">EGMFVLFAALAAISFFGLQ</span></span>
-<span class="topo-line"><span class="topo-inside">RAMPETATRIGEKLS</span><span class="topo-unknown">LKELGRDYKLV</span><span class="topo-inside">LKNGRF</span><span class="topo-membrane">VAGALALGFVSLPLLAWIAQS</span><span class="topo-outside">PIIIITG</span></span>
-<span class="topo-line"><span class="topo-outside">EQLSSYEY</span><span class="topo-membrane">GLLQVPIFGALIAGNLLLA</span><span class="topo-inside">RLTSRRTVRSL</span><span class="topo-membrane">IIMGGWPIMIGLLVAAAA</span><span class="topo-outside">TVIS</span></span>
-<span class="topo-line"><span class="topo-outside">SHAYL</span><span class="topo-membrane">WMTAGLSIYAFGIGLANAGLV</span><span class="topo-inside">RLTLFASDMSKGTVS</span><span class="topo-membrane">AAMGMLQMLIFTVGIEISK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">RLGRQALLFPL</span><span class="topo-membrane">CLVLYEFSTYIGNDMIQPGM</span><span class="topo-outside">LAVVEQYQAGIDWV</span><span class="topo-membrane">PTSMTAYLAGGMFLQWLL</span><span class="topo-inside">GPLSDRIGRRP</span><span class="topo-membrane">VMLAGVVWFIVTCLAILLA</span><span class="topo-outside">QNIEQ</span><span class="topo-membrane">FTLLRFLQGISLCFIGAVG</span><span class="topo-inside">YAA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">IRESFEEAVCIKITA</span><span class="topo-membrane">LMANVALIAPLLGPLVGAAW</span><span class="topo-outside">IHVLPW</span><span class="topo-membrane">EGMFVLFAALAAISFFGLQ</span><span class="topo-inside">RAMPETATRIGEKLS</span><span class="topo-unknown">LKELGRDYKLV</span><span class="topo-inside">LKNGRF</span><span class="topo-membrane">VAGALALGFVSLPLLAWIAQS</span><span class="topo-outside">PIIIITG</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">EQLSSYEY</span><span class="topo-membrane">GLLQVPIFGALIAGNLLLA</span><span class="topo-inside">RLTSRRTVRSL</span><span class="topo-membrane">IIMGGWPIMIGLLVAAAA</span><span class="topo-outside">TVISSHAYL</span><span class="topo-membrane">WMTAGLSIYAFGIGLANAGLV</span><span class="topo-inside">RLTLFASDMSKGTVS</span><span class="topo-membrane">AAMGMLQMLIFTVGIEISK</span></span>
+<span class="topo-ruler">       370       380       390 </span>
 <span class="topo-line"><span class="topo-outside">HAWLNGGNGL</span><span class="topo-membrane">FNLFNLVNGILWLSLMVIF</span><span class="topo-inside">LK</span></span>
+<details class="topo-details"><summary>Topology coordinates (27 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -916,6 +924,7 @@ MdfA is a secondary multidrug efflux transporter from Escherichia coli belonging
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -931,13 +940,15 @@ MdfA is a secondary multidrug efflux transporter from Escherichia coli belonging
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">ARLGRQALLFP</span><span class="topo-membrane">LCLVLYEFSTYIGNDMIQPGM</span><span class="topo-outside">LAVVEQYQAGIDWV</span><span class="topo-membrane">PTSMTAYLAGGMFL</span></span>
-<span class="topo-line"><span class="topo-membrane">QWLL</span><span class="topo-inside">GPLSDRIGRRP</span><span class="topo-membrane">VMLAGVVWFIVTCLAILLA</span><span class="topo-outside">QNIE</span><span class="topo-membrane">QFTLLRFLQGISLCFIGAVG</span><span class="topo-inside">YA</span></span>
-<span class="topo-line"><span class="topo-inside">AIRESFEEAVCIKIT</span><span class="topo-membrane">ALMANVALIAPLLGPLVGAAW</span><span class="topo-outside">IHVLPW</span><span class="topo-membrane">EGMFVLFAALAAISFFGL</span></span>
-<span class="topo-line"><span class="topo-membrane">Q</span><span class="topo-inside">RAMPETATRIGEKLS</span><span class="topo-unknown">LKELGRDYKLV</span><span class="topo-inside">LKNGRFV</span><span class="topo-membrane">AGALALGFVSLPLLAWIAQS</span><span class="topo-outside">PIIIIT</span></span>
-<span class="topo-line"><span class="topo-outside">GEQLSSYEYG</span><span class="topo-membrane">LLQVPIFGALIAGNLLLAR</span><span class="topo-inside">LTSRRTVRS</span><span class="topo-membrane">LIIMGGWPIMIGLLVAAAA</span><span class="topo-outside">TVI</span></span>
-<span class="topo-line"><span class="topo-outside">SSHAYL</span><span class="topo-membrane">WMTAGLSIYAFGIGLANAGLV</span><span class="topo-inside">RLTLFASDMSKGTVS</span><span class="topo-membrane">AAMGMLQMLIFTVGIEIS</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">ARLGRQALLFP</span><span class="topo-membrane">LCLVLYEFSTYIGNDMIQPGM</span><span class="topo-outside">LAVVEQYQAGIDWV</span><span class="topo-membrane">PTSMTAYLAGGMFLQWLL</span><span class="topo-inside">GPLSDRIGRRP</span><span class="topo-membrane">VMLAGVVWFIVTCLAILLA</span><span class="topo-outside">QNIE</span><span class="topo-membrane">QFTLLRFLQGISLCFIGAVG</span><span class="topo-inside">YA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">AIRESFEEAVCIKIT</span><span class="topo-membrane">ALMANVALIAPLLGPLVGAAW</span><span class="topo-outside">IHVLPW</span><span class="topo-membrane">EGMFVLFAALAAISFFGLQ</span><span class="topo-inside">RAMPETATRIGEKLS</span><span class="topo-unknown">LKELGRDYKLV</span><span class="topo-inside">LKNGRFV</span><span class="topo-membrane">AGALALGFVSLPLLAWIAQS</span><span class="topo-outside">PIIIIT</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">GEQLSSYEYG</span><span class="topo-membrane">LLQVPIFGALIAGNLLLAR</span><span class="topo-inside">LTSRRTVRS</span><span class="topo-membrane">LIIMGGWPIMIGLLVAAAA</span><span class="topo-outside">TVISSHAYL</span><span class="topo-membrane">WMTAGLSIYAFGIGLANAGLV</span><span class="topo-inside">RLTLFASDMSKGTVS</span><span class="topo-membrane">AAMGMLQMLIFTVGIEIS</span></span>
+<span class="topo-ruler">       370       380       390  </span>
 <span class="topo-line"><span class="topo-membrane">K</span><span class="topo-outside">HAWLNGGNGL</span><span class="topo-membrane">FNLFNLVNGILWLSLMVIF</span><span class="topo-inside">LK</span></span>
+<details class="topo-details"><summary>Topology coordinates (27 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1138,6 +1149,7 @@ MdfA is a secondary multidrug efflux transporter from Escherichia coli belonging
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1185,13 +1197,15 @@ MdfA is a secondary multidrug efflux transporter from Escherichia coli belonging
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MQNKLASGARLGR</span><span class="topo-outside">QALLFP</span><span class="topo-membrane">LCLVLYEFSTYIGNDMI</span><span class="topo-inside">QPGM</span><span class="topo-unknown">LAVVEQ</span><span class="topo-inside">YQAGIDWVPTS</span><span class="topo-membrane">MTA</span></span>
-<span class="topo-line"><span class="topo-membrane">YLAGGMFLQWLLG</span><span class="topo-outside">PLSDRIGRRPV</span><span class="topo-membrane">MLAGVVWFIVTCLAILLA</span><span class="topo-inside">QNIEQ</span><span class="topo-membrane">FTLLRFLQGISLC</span></span>
-<span class="topo-line"><span class="topo-membrane">FIGAVGY</span><span class="topo-outside">AAIQESFEEAVCI</span><span class="topo-membrane">KITALMANVALIAPLLGPLVG</span><span class="topo-unknown">AAWIHV</span><span class="topo-inside">LPW</span><span class="topo-membrane">EGMFVLFAAL</span></span>
-<span class="topo-line"><span class="topo-membrane">AAISFFG</span><span class="topo-outside">LQRAMPETATRIGEKLS</span><span class="topo-unknown">LKELGRDYKLVLK</span><span class="topo-outside">NG</span><span class="topo-membrane">RFVAGALALGFVSLPLLAWIA</span></span>
-<span class="topo-line"><span class="topo-inside">QSPIIIITGEQLSSYEYGLLQ</span><span class="topo-membrane">VPIFGALIAGNLLLARL</span><span class="topo-outside">TSRRTVRS</span><span class="topo-membrane">LIIMGGWPIMIGLL</span></span>
-<span class="topo-line"><span class="topo-membrane">VAAA</span><span class="topo-inside">ATVISSHAYLWMT</span><span class="topo-membrane">AGLSIYAFGIGLANAGLVR</span><span class="topo-outside">LTLFASDMSKGT</span><span class="topo-membrane">VSAAMGMLQMLI</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MQNKLASGARLGR</span><span class="topo-outside">QALLFP</span><span class="topo-membrane">LCLVLYEFSTYIGNDMI</span><span class="topo-inside">QPGM</span><span class="topo-unknown">LAVVEQ</span><span class="topo-inside">YQAGIDWVPTS</span><span class="topo-membrane">MTAYLAGGMFLQWLLG</span><span class="topo-outside">PLSDRIGRRPV</span><span class="topo-membrane">MLAGVVWFIVTCLAILLA</span><span class="topo-inside">QNIEQ</span><span class="topo-membrane">FTLLRFLQGISLC</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">FIGAVGY</span><span class="topo-outside">AAIQESFEEAVCI</span><span class="topo-membrane">KITALMANVALIAPLLGPLVG</span><span class="topo-unknown">AAWIHV</span><span class="topo-inside">LPW</span><span class="topo-membrane">EGMFVLFAALAAISFFG</span><span class="topo-outside">LQRAMPETATRIGEKLS</span><span class="topo-unknown">LKELGRDYKLVLK</span><span class="topo-outside">NG</span><span class="topo-membrane">RFVAGALALGFVSLPLLAWIA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">QSPIIIITGEQLSSYEYGLLQ</span><span class="topo-membrane">VPIFGALIAGNLLLARL</span><span class="topo-outside">TSRRTVRS</span><span class="topo-membrane">LIIMGGWPIMIGLLVAAA</span><span class="topo-inside">ATVISSHAYLWMT</span><span class="topo-membrane">AGLSIYAFGIGLANAGLVR</span><span class="topo-outside">LTLFASDMSKGT</span><span class="topo-membrane">VSAAMGMLQMLI</span></span>
+<span class="topo-ruler">       370       380       390       400       410</span>
 <span class="topo-line"><span class="topo-membrane">FTVGIEIS</span><span class="topo-inside">KHAWLNGGNGLFN</span><span class="topo-membrane">LFNLVNGILWLSLMVIF</span><span class="topo-outside">LK</span><span class="topo-unknown">DKQMGNSHEG</span></span>
+<details class="topo-details"><summary>Topology coordinates (30 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1413,6 +1427,7 @@ MdfA is a secondary multidrug efflux transporter from Escherichia coli belonging
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

@@ -159,15 +159,17 @@ Apolipoprotein N-acyltransferase (Lnt) is an integral membrane enzyme that catal
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAFASLI</span><span class="topo-inside">ERQRI</span><span class="topo-membrane">RLLLALLFGACGT</span><span class="topo-outside">LAFSPYDVW</span><span class="topo-membrane">PAAIISLMGLQALT</span><span class="topo-inside">FNRRPLQS</span><span class="topo-membrane">AAIG</span></span>
-<span class="topo-line"><span class="topo-membrane">FCWGFGLFGS</span><span class="topo-outside">GINWVYVSIATFGGMPG</span><span class="topo-unknown">PVNIFLVV</span><span class="topo-membrane">LLAAYLSLYTGLFAGVL</span><span class="topo-inside">SRLWPKTT</span></span>
-<span class="topo-line"><span class="topo-inside">W</span><span class="topo-membrane">LRVAIAAPALWQVTEFLRGWVL</span><span class="topo-outside">TGFPWLQFGYSQIDGPLK</span><span class="topo-unknown">GLAPIM</span><span class="topo-outside">GVE</span><span class="topo-membrane">AINFLLMMVS</span></span>
-<span class="topo-line"><span class="topo-membrane">GLLALAL</span><span class="topo-inside">VKRNW</span><span class="topo-membrane">RPLVVAVVLFALP</span><span class="topo-outside">FPLRYIQWFTPQPEKTIQVSMVQGDIPQSLKWDEG</span></span>
-<span class="topo-line"><span class="topo-outside">QLLNTLKIYYNATAPLMGKSSLIIWPESAITDLEINQQPFLKALDGELRDKGSSLVTGIV</span></span>
-<span class="topo-line"><span class="topo-outside">DARLNKQNRYDTYNTIITLGKGAPYSYESADRYNKNHLVPFGEFVPLESIL</span><span class="topo-unknown">RPLAPFFDL</span></span>
-<span class="topo-line"><span class="topo-unknown">PM</span><span class="topo-outside">SSFSRGPYIQPPLSANGIELTAAICYEIILGEQVRDNFRPDTDYLLTISNDAWFGKSI</span></span>
-<span class="topo-line"><span class="topo-outside">GPWQHFQMARMRALELARPLLRSTNNGITAVIGPQGEIQAMIPQFTREVLTTNVTPTTGL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAFASLI</span><span class="topo-inside">ERQRI</span><span class="topo-membrane">RLLLALLFGACGT</span><span class="topo-outside">LAFSPYDVW</span><span class="topo-membrane">PAAIISLMGLQALT</span><span class="topo-inside">FNRRPLQS</span><span class="topo-membrane">AAIGFCWGFGLFGS</span><span class="topo-outside">GINWVYVSIATFGGMPG</span><span class="topo-unknown">PVNIFLVV</span><span class="topo-membrane">LLAAYLSLYTGLFAGVL</span><span class="topo-inside">SRLWPKTT</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">W</span><span class="topo-membrane">LRVAIAAPALWQVTEFLRGWVL</span><span class="topo-outside">TGFPWLQFGYSQIDGPLK</span><span class="topo-unknown">GLAPIM</span><span class="topo-outside">GVE</span><span class="topo-membrane">AINFLLMMVSGLLALAL</span><span class="topo-inside">VKRNW</span><span class="topo-membrane">RPLVVAVVLFALP</span><span class="topo-outside">FPLRYIQWFTPQPEKTIQVSMVQGDIPQSLKWDEG</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">QLLNTLKIYYNATAPLMGKSSLIIWPESAITDLEINQQPFLKALDGELRDKGSSLVTGIVDARLNKQNRYDTYNTIITLGKGAPYSYESADRYNKNHLVPFGEFVPLESIL</span><span class="topo-unknown">RPLAPFFDL</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-unknown">PM</span><span class="topo-outside">SSFSRGPYIQPPLSANGIELTAAICYEIILGEQVRDNFRPDTDYLLTISNDAWFGKSIGPWQHFQMARMRALELARPLLRSTNNGITAVIGPQGEIQAMIPQFTREVLTTNVTPTTGL</span></span>
+<span class="topo-ruler">       490       500       510       520       </span>
 <span class="topo-line"><span class="topo-outside">TPYARTGNW</span><span class="topo-membrane">PLWVLTALFGFAAV</span><span class="topo-inside">LMS</span><span class="topo-unknown">LRQRRKEFRVPGSHHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -326,6 +328,7 @@ Apolipoprotein N-acyltransferase (Lnt) is an integral membrane enzyme that catal
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -341,15 +344,17 @@ Apolipoprotein N-acyltransferase (Lnt) is an integral membrane enzyme that catal
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GHMAFASL</span><span class="topo-inside">IERQR</span><span class="topo-membrane">IRLLLALLFGACGTLAF</span><span class="topo-outside">SPY</span><span class="topo-membrane">DVWPAAIISLMGLQALT</span><span class="topo-inside">FNRRPL</span><span class="topo-membrane">QSAA</span></span>
-<span class="topo-line"><span class="topo-membrane">IGFCWGFGLFGSGIN</span><span class="topo-outside">WVYVSIATFGGMPG</span><span class="topo-membrane">PVNIFLVVLLAAYLSLYTGLFAGVLS</span><span class="topo-inside">RLWPK</span></span>
-<span class="topo-line"><span class="topo-inside">TTW</span><span class="topo-membrane">LRVAIAAPALWQVTEFLRGWVLTGF</span><span class="topo-outside">PWLQFGYSQIDGPLKGLAPI</span><span class="topo-membrane">MGVEAINFLLMM</span></span>
-<span class="topo-line"><span class="topo-membrane">VSGLLALAL</span><span class="topo-inside">VKRNW</span><span class="topo-membrane">RPLVVAVVLFALPFPL</span><span class="topo-outside">RYIQWFTPQPEKTIQVSMVQGDIPQSLKWD</span></span>
-<span class="topo-line"><span class="topo-outside">EGQLLNTLKIYYNATAPLMGKSSLIIWPESAITDLEINQQPFLKALDGELRDKGSSLVTG</span></span>
-<span class="topo-line"><span class="topo-outside">IVDARLNKQNRYDTYNTIITLGKGAPYSYESADRYNKNHLVPFGEFVPLESIL</span><span class="topo-unknown">RPLAPFF</span></span>
-<span class="topo-line"><span class="topo-unknown">DLPM</span><span class="topo-outside">SSFSRGPYIQPPLSANGIELTAAICYEIILGEQVRDNFRPDTDYLLTISNDAWFGK</span></span>
-<span class="topo-line"><span class="topo-outside">SI</span><span class="topo-unknown">GPWQHFQMARMRALEL</span><span class="topo-outside">ARPLLRSTNNGITAVIGPQGEIQAMIPQFTREVLTTNVTPTT</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GHMAFASL</span><span class="topo-inside">IERQR</span><span class="topo-membrane">IRLLLALLFGACGTLAF</span><span class="topo-outside">SPY</span><span class="topo-membrane">DVWPAAIISLMGLQALT</span><span class="topo-inside">FNRRPL</span><span class="topo-membrane">QSAAIGFCWGFGLFGSGIN</span><span class="topo-outside">WVYVSIATFGGMPG</span><span class="topo-membrane">PVNIFLVVLLAAYLSLYTGLFAGVLS</span><span class="topo-inside">RLWPK</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">TTW</span><span class="topo-membrane">LRVAIAAPALWQVTEFLRGWVLTGF</span><span class="topo-outside">PWLQFGYSQIDGPLKGLAPI</span><span class="topo-membrane">MGVEAINFLLMMVSGLLALAL</span><span class="topo-inside">VKRNW</span><span class="topo-membrane">RPLVVAVVLFALPFPL</span><span class="topo-outside">RYIQWFTPQPEKTIQVSMVQGDIPQSLKWD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">EGQLLNTLKIYYNATAPLMGKSSLIIWPESAITDLEINQQPFLKALDGELRDKGSSLVTGIVDARLNKQNRYDTYNTIITLGKGAPYSYESADRYNKNHLVPFGEFVPLESIL</span><span class="topo-unknown">RPLAPFF</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-unknown">DLPM</span><span class="topo-outside">SSFSRGPYIQPPLSANGIELTAAICYEIILGEQVRDNFRPDTDYLLTISNDAWFGKSI</span><span class="topo-unknown">GPWQHFQMARMRALEL</span><span class="topo-outside">ARPLLRSTNNGITAVIGPQGEIQAMIPQFTREVLTTNVTPTT</span></span>
+<span class="topo-ruler">       490       500       510    </span>
 <span class="topo-line"><span class="topo-outside">GLTPYARTGN</span><span class="topo-membrane">WPLWVLTALFGFAAVL</span><span class="topo-inside">MSLRQ</span><span class="topo-unknown">RRK</span></span>
+<details class="topo-details"><summary>Topology coordinates (20 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -501,6 +506,7 @@ Apolipoprotein N-acyltransferase (Lnt) is an integral membrane enzyme that catal
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

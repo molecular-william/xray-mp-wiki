@@ -136,12 +136,13 @@ demonstrating the first in situ membrane protein structure determination at a sy
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MNIT</span><span class="topo-inside">KPFPLPT</span><span class="topo-membrane">GYFGIPLGLAALSLAW</span><span class="topo-outside">FHLENLFPAARMV</span><span class="topo-membrane">SDVLGIVASAVWILFILMYA</span></span>
-<span class="topo-line"><span class="topo-inside">YKLRYY</span><span class="topo-unknown">FEEVRAEYH</span><span class="topo-inside">SPVRFS</span><span class="topo-membrane">FIALIPITTMLVGDIL</span><span class="topo-outside">YRWNPLI</span><span class="topo-membrane">AEVLIWIGTIGQLLFS</span></span>
-<span class="topo-line"><span class="topo-membrane">TLRVS</span><span class="topo-inside">ELWQGGVFEQKSTHP</span><span class="topo-membrane">SFYLPAVAANFTSA</span><span class="topo-unknown">S</span><span class="topo-outside">SLALLGYHDL</span><span class="topo-membrane">GYLFFGAGMIAWIIF</span></span>
-<span class="topo-line"><span class="topo-membrane">EP</span><span class="topo-inside">VLLQHLRISSLEPQFRAT</span><span class="topo-membrane">MGIVLAPAFVCVSAY</span><span class="topo-outside">LSINHGEVDTL</span><span class="topo-membrane">AKILWGYGFLQLFF</span></span>
-<span class="topo-line"><span class="topo-membrane">LLRLF</span><span class="topo-inside">PWIVEKGLNIGL</span><span class="topo-membrane">WAFSFGLASMANSA</span><span class="topo-outside">TAFYHGNVLQGV</span><span class="topo-membrane">SIFAFVFSNVMIGLLVL</span></span>
-<span class="topo-line"><span class="topo-membrane">MTIY</span><span class="topo-inside">KLTKGQFFL</span><span class="topo-unknown">K</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MNIT</span><span class="topo-inside">KPFPLPT</span><span class="topo-membrane">GYFGIPLGLAALSLAW</span><span class="topo-outside">FHLENLFPAARMV</span><span class="topo-membrane">SDVLGIVASAVWILFILMYA</span><span class="topo-inside">YKLRYY</span><span class="topo-unknown">FEEVRAEYH</span><span class="topo-inside">SPVRFS</span><span class="topo-membrane">FIALIPITTMLVGDIL</span><span class="topo-outside">YRWNPLI</span><span class="topo-membrane">AEVLIWIGTIGQLLFS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">TLRVS</span><span class="topo-inside">ELWQGGVFEQKSTHP</span><span class="topo-membrane">SFYLPAVAANFTSA</span><span class="topo-unknown">S</span><span class="topo-outside">SLALLGYHDL</span><span class="topo-membrane">GYLFFGAGMIAWIIFEP</span><span class="topo-inside">VLLQHLRISSLEPQFRAT</span><span class="topo-membrane">MGIVLAPAFVCVSAY</span><span class="topo-outside">LSINHGEVDTL</span><span class="topo-membrane">AKILWGYGFLQLFF</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310    </span>
+<span class="topo-line"><span class="topo-membrane">LLRLF</span><span class="topo-inside">PWIVEKGLNIGL</span><span class="topo-membrane">WAFSFGLASMANSA</span><span class="topo-outside">TAFYHGNVLQGV</span><span class="topo-membrane">SIFAFVFSNVMIGLLVLMTIY</span><span class="topo-inside">KLTKGQFFL</span><span class="topo-unknown">K</span></span>
+<details class="topo-details"><summary>Topology coordinates (26 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -335,6 +336,7 @@ demonstrating the first in situ membrane protein structure determination at a sy
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -350,12 +352,13 @@ demonstrating the first in situ membrane protein structure determination at a sy
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MNIT</span><span class="topo-inside">KPFPLPT</span><span class="topo-membrane">GYFGIPLGLAALSLAW</span><span class="topo-outside">FHLENLFPAARMV</span><span class="topo-membrane">SDVLGIVASAVWILFILMYA</span></span>
-<span class="topo-line"><span class="topo-inside">YKLRYY</span><span class="topo-unknown">FEEVRAEYH</span><span class="topo-inside">SPVRFS</span><span class="topo-membrane">FIALIPITTMLVGDIL</span><span class="topo-outside">YRWNPLI</span><span class="topo-membrane">AEVLIWIGTIGQLLFS</span></span>
-<span class="topo-line"><span class="topo-membrane">TLRVS</span><span class="topo-inside">ELWQGGVFEQKSTHP</span><span class="topo-membrane">SFYLPAVAANFTSA</span><span class="topo-unknown">S</span><span class="topo-outside">SLALLGYHDL</span><span class="topo-membrane">GYLFFGAGMIAWIIF</span></span>
-<span class="topo-line"><span class="topo-membrane">EP</span><span class="topo-inside">VLLQHLRISSLEPQFRAT</span><span class="topo-membrane">MGIVLAPAFVCVSAY</span><span class="topo-outside">LSINHGEVDTL</span><span class="topo-membrane">AKILWGYGFLQLFF</span></span>
-<span class="topo-line"><span class="topo-membrane">LLRLF</span><span class="topo-inside">PWIVEKGLNIGL</span><span class="topo-membrane">WAFSFGLASMANSA</span><span class="topo-outside">TAFYHGNVLQGV</span><span class="topo-membrane">SIFAFVFSNVMIGLLVL</span></span>
-<span class="topo-line"><span class="topo-membrane">MTIY</span><span class="topo-inside">KLTKGQFFL</span><span class="topo-unknown">K</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MNIT</span><span class="topo-inside">KPFPLPT</span><span class="topo-membrane">GYFGIPLGLAALSLAW</span><span class="topo-outside">FHLENLFPAARMV</span><span class="topo-membrane">SDVLGIVASAVWILFILMYA</span><span class="topo-inside">YKLRYY</span><span class="topo-unknown">FEEVRAEYH</span><span class="topo-inside">SPVRFS</span><span class="topo-membrane">FIALIPITTMLVGDIL</span><span class="topo-outside">YRWNPLI</span><span class="topo-membrane">AEVLIWIGTIGQLLFS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">TLRVS</span><span class="topo-inside">ELWQGGVFEQKSTHP</span><span class="topo-membrane">SFYLPAVAANFTSA</span><span class="topo-unknown">S</span><span class="topo-outside">SLALLGYHDL</span><span class="topo-membrane">GYLFFGAGMIAWIIFEP</span><span class="topo-inside">VLLQHLRISSLEPQFRAT</span><span class="topo-membrane">MGIVLAPAFVCVSAY</span><span class="topo-outside">LSINHGEVDTL</span><span class="topo-membrane">AKILWGYGFLQLFF</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310    </span>
+<span class="topo-line"><span class="topo-membrane">LLRLF</span><span class="topo-inside">PWIVEKGLNIGL</span><span class="topo-membrane">WAFSFGLASMANSA</span><span class="topo-outside">TAFYHGNVLQGV</span><span class="topo-membrane">SIFAFVFSNVMIGLLVLMTIY</span><span class="topo-inside">KLTKGQFFL</span><span class="topo-unknown">K</span></span>
+<details class="topo-details"><summary>Topology coordinates (26 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -549,6 +552,7 @@ demonstrating the first in situ membrane protein structure determination at a sy
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -564,12 +568,13 @@ demonstrating the first in situ membrane protein structure determination at a sy
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MNIT</span><span class="topo-inside">KPFPLPT</span><span class="topo-membrane">GYFGIPLGLAALSLAW</span><span class="topo-outside">FHLENLFPAARMV</span><span class="topo-membrane">SDVLGIVASAVWILFILMYA</span></span>
-<span class="topo-line"><span class="topo-inside">YKLRYY</span><span class="topo-unknown">FEEVRAEYH</span><span class="topo-inside">SPVRFS</span><span class="topo-membrane">FIALIPITTMLVGDIL</span><span class="topo-outside">YRWNPLI</span><span class="topo-membrane">AEVLIWIGTIGQLLFS</span></span>
-<span class="topo-line"><span class="topo-membrane">TLRVS</span><span class="topo-inside">ELWQGGVFEQKSTHP</span><span class="topo-membrane">SFYLPAVAANFTSA</span><span class="topo-unknown">S</span><span class="topo-outside">SLALLGYHDL</span><span class="topo-membrane">GYLFFGAGMIAWIIF</span></span>
-<span class="topo-line"><span class="topo-membrane">EP</span><span class="topo-inside">VLLQHLRISSLEPQFRAT</span><span class="topo-membrane">MGIVLAPAFVCVSAY</span><span class="topo-outside">LSINHGEVDTL</span><span class="topo-membrane">AKILWGYGFLQLFF</span></span>
-<span class="topo-line"><span class="topo-membrane">LLRLF</span><span class="topo-inside">PWIVEKGLNIGL</span><span class="topo-membrane">WAFSFGLASMANSA</span><span class="topo-outside">TAFYHGNVLQGV</span><span class="topo-membrane">SIFAFVFSNVMIGLLVL</span></span>
-<span class="topo-line"><span class="topo-membrane">MTIY</span><span class="topo-inside">KLTKGQFFL</span><span class="topo-unknown">K</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MNIT</span><span class="topo-inside">KPFPLPT</span><span class="topo-membrane">GYFGIPLGLAALSLAW</span><span class="topo-outside">FHLENLFPAARMV</span><span class="topo-membrane">SDVLGIVASAVWILFILMYA</span><span class="topo-inside">YKLRYY</span><span class="topo-unknown">FEEVRAEYH</span><span class="topo-inside">SPVRFS</span><span class="topo-membrane">FIALIPITTMLVGDIL</span><span class="topo-outside">YRWNPLI</span><span class="topo-membrane">AEVLIWIGTIGQLLFS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">TLRVS</span><span class="topo-inside">ELWQGGVFEQKSTHP</span><span class="topo-membrane">SFYLPAVAANFTSA</span><span class="topo-unknown">S</span><span class="topo-outside">SLALLGYHDL</span><span class="topo-membrane">GYLFFGAGMIAWIIFEP</span><span class="topo-inside">VLLQHLRISSLEPQFRAT</span><span class="topo-membrane">MGIVLAPAFVCVSAY</span><span class="topo-outside">LSINHGEVDTL</span><span class="topo-membrane">AKILWGYGFLQLFF</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310    </span>
+<span class="topo-line"><span class="topo-membrane">LLRLF</span><span class="topo-inside">PWIVEKGLNIGL</span><span class="topo-membrane">WAFSFGLASMANSA</span><span class="topo-outside">TAFYHGNVLQGV</span><span class="topo-membrane">SIFAFVFSNVMIGLLVLMTIY</span><span class="topo-inside">KLTKGQFFL</span><span class="topo-unknown">K</span></span>
+<details class="topo-details"><summary>Topology coordinates (26 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -763,6 +768,7 @@ demonstrating the first in situ membrane protein structure determination at a sy
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -845,11 +851,13 @@ demonstrating the first in situ membrane protein structure determination at a sy
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">PLPTGY</span><span class="topo-membrane">FGIPLGLAALSLA</span><span class="topo-inside">WFHLENLFPAARMV</span><span class="topo-membrane">SDVLGIVASAVWILFILM</span><span class="topo-outside">YAYKLRYY</span><span class="topo-unknown">F</span></span>
-<span class="topo-line"><span class="topo-unknown">EEVRAEYH</span><span class="topo-outside">SPVRFSFI</span><span class="topo-membrane">ALIPITTMLVGDIL</span><span class="topo-inside">YRWNPLI</span><span class="topo-membrane">AEVLIWIGTIGQLLFSTL</span><span class="topo-outside">RVSEL</span></span>
-<span class="topo-line"><span class="topo-outside">WQGGVFEQKSTHPSFY</span><span class="topo-membrane">LPAVAANFTSA</span><span class="topo-unknown">S</span><span class="topo-inside">SLALLGYHDL</span><span class="topo-membrane">GYLFFGAGMIAWIIFEP</span><span class="topo-outside">VLLQH</span></span>
-<span class="topo-line"><span class="topo-outside">LRISSLEPQFRATMG</span><span class="topo-membrane">IVLAPAFVCVSAY</span><span class="topo-inside">LSINHGEVDTL</span><span class="topo-membrane">AKILWGYGFLQLFFLLR</span><span class="topo-outside">LFPW</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">PLPTGY</span><span class="topo-membrane">FGIPLGLAALSLA</span><span class="topo-inside">WFHLENLFPAARMV</span><span class="topo-membrane">SDVLGIVASAVWILFILM</span><span class="topo-outside">YAYKLRYY</span><span class="topo-unknown">FEEVRAEYH</span><span class="topo-outside">SPVRFSFI</span><span class="topo-membrane">ALIPITTMLVGDIL</span><span class="topo-inside">YRWNPLI</span><span class="topo-membrane">AEVLIWIGTIGQLLFSTL</span><span class="topo-outside">RVSEL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">WQGGVFEQKSTHPSFY</span><span class="topo-membrane">LPAVAANFTSA</span><span class="topo-unknown">S</span><span class="topo-inside">SLALLGYHDL</span><span class="topo-membrane">GYLFFGAGMIAWIIFEP</span><span class="topo-outside">VLLQHLRISSLEPQFRATMG</span><span class="topo-membrane">IVLAPAFVCVSAY</span><span class="topo-inside">LSINHGEVDTL</span><span class="topo-membrane">AKILWGYGFLQLFFLLR</span><span class="topo-outside">LFPW</span></span>
+<span class="topo-ruler">       250       260       270       280       290         </span>
 <span class="topo-line"><span class="topo-outside">IVEKGLNIGL</span><span class="topo-membrane">WAFSFGLASMANSA</span><span class="topo-inside">TAFYHGNVLQGV</span><span class="topo-membrane">SIFAFVFSNVMIGLLVLMTIY</span><span class="topo-outside">KL</span></span>
+<details class="topo-details"><summary>Topology coordinates (24 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1029,6 +1037,7 @@ demonstrating the first in situ membrane protein structure determination at a sy
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1044,11 +1053,13 @@ demonstrating the first in situ membrane protein structure determination at a sy
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">PLPTGY</span><span class="topo-membrane">FGIPLGLAALSLA</span><span class="topo-inside">WFHLENLFPAARMV</span><span class="topo-membrane">SDVLGIVASAVWILFILM</span><span class="topo-outside">YAYKLRYY</span><span class="topo-unknown">F</span></span>
-<span class="topo-line"><span class="topo-unknown">EEVRAEYH</span><span class="topo-outside">SPVRFSFI</span><span class="topo-membrane">ALIPITTMLVGDIL</span><span class="topo-inside">YRWNPLI</span><span class="topo-membrane">AEVLIWIGTIGQLLFSTL</span><span class="topo-outside">RVSEL</span></span>
-<span class="topo-line"><span class="topo-outside">WQGGVFEQKSTHPSFY</span><span class="topo-membrane">LPAVAANFTSA</span><span class="topo-unknown">S</span><span class="topo-inside">SLALLGYHDL</span><span class="topo-membrane">GYLFFGAGMIAWIIFEP</span><span class="topo-outside">VLLQH</span></span>
-<span class="topo-line"><span class="topo-outside">LRISSLEPQFRATMG</span><span class="topo-membrane">IVLAPAFVCVSAY</span><span class="topo-inside">LSINHGEVDTL</span><span class="topo-membrane">AKILWGYGFLQLFFLLR</span><span class="topo-outside">LFPW</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">PLPTGY</span><span class="topo-membrane">FGIPLGLAALSLA</span><span class="topo-inside">WFHLENLFPAARMV</span><span class="topo-membrane">SDVLGIVASAVWILFILM</span><span class="topo-outside">YAYKLRYY</span><span class="topo-unknown">FEEVRAEYH</span><span class="topo-outside">SPVRFSFI</span><span class="topo-membrane">ALIPITTMLVGDIL</span><span class="topo-inside">YRWNPLI</span><span class="topo-membrane">AEVLIWIGTIGQLLFSTL</span><span class="topo-outside">RVSEL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">WQGGVFEQKSTHPSFY</span><span class="topo-membrane">LPAVAANFTSA</span><span class="topo-unknown">S</span><span class="topo-inside">SLALLGYHDL</span><span class="topo-membrane">GYLFFGAGMIAWIIFEP</span><span class="topo-outside">VLLQHLRISSLEPQFRATMG</span><span class="topo-membrane">IVLAPAFVCVSAY</span><span class="topo-inside">LSINHGEVDTL</span><span class="topo-membrane">AKILWGYGFLQLFFLLR</span><span class="topo-outside">LFPW</span></span>
+<span class="topo-ruler">       250       260       270       280       290         </span>
 <span class="topo-line"><span class="topo-outside">IVEKGLNIGL</span><span class="topo-membrane">WAFSFGLASMANSA</span><span class="topo-inside">TAFYHGNVLQGV</span><span class="topo-membrane">SIFAFVFSNVMIGLLVLMTIY</span><span class="topo-outside">KL</span></span>
+<details class="topo-details"><summary>Topology coordinates (24 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1228,6 +1239,7 @@ demonstrating the first in situ membrane protein structure determination at a sy
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1243,11 +1255,13 @@ demonstrating the first in situ membrane protein structure determination at a sy
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">PLPTGY</span><span class="topo-membrane">FGIPLGLAALSLA</span><span class="topo-inside">WFHLENLFPAARMV</span><span class="topo-membrane">SDVLGIVASAVWILFILM</span><span class="topo-outside">YAYKLRYY</span><span class="topo-unknown">F</span></span>
-<span class="topo-line"><span class="topo-unknown">EEVRAEYH</span><span class="topo-outside">SPVRFSFI</span><span class="topo-membrane">ALIPITTMLVGDIL</span><span class="topo-inside">YRWNPLI</span><span class="topo-membrane">AEVLIWIGTIGQLLFSTL</span><span class="topo-outside">RVSEL</span></span>
-<span class="topo-line"><span class="topo-outside">WQGGVFEQKSTHPSFY</span><span class="topo-membrane">LPAVAANFTSA</span><span class="topo-unknown">S</span><span class="topo-inside">SLALLGYHDL</span><span class="topo-membrane">GYLFFGAGMIAWIIFEP</span><span class="topo-outside">VLLQH</span></span>
-<span class="topo-line"><span class="topo-outside">LRISSLEPQFRATMG</span><span class="topo-membrane">IVLAPAFVCVSAY</span><span class="topo-inside">LSINHGEVDTL</span><span class="topo-membrane">AKILWGYGFLQLFFLLR</span><span class="topo-outside">LFPW</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">PLPTGY</span><span class="topo-membrane">FGIPLGLAALSLA</span><span class="topo-inside">WFHLENLFPAARMV</span><span class="topo-membrane">SDVLGIVASAVWILFILM</span><span class="topo-outside">YAYKLRYY</span><span class="topo-unknown">FEEVRAEYH</span><span class="topo-outside">SPVRFSFI</span><span class="topo-membrane">ALIPITTMLVGDIL</span><span class="topo-inside">YRWNPLI</span><span class="topo-membrane">AEVLIWIGTIGQLLFSTL</span><span class="topo-outside">RVSEL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">WQGGVFEQKSTHPSFY</span><span class="topo-membrane">LPAVAANFTSA</span><span class="topo-unknown">S</span><span class="topo-inside">SLALLGYHDL</span><span class="topo-membrane">GYLFFGAGMIAWIIFEP</span><span class="topo-outside">VLLQHLRISSLEPQFRATMG</span><span class="topo-membrane">IVLAPAFVCVSAY</span><span class="topo-inside">LSINHGEVDTL</span><span class="topo-membrane">AKILWGYGFLQLFFLLR</span><span class="topo-outside">LFPW</span></span>
+<span class="topo-ruler">       250       260       270       280       290         </span>
 <span class="topo-line"><span class="topo-outside">IVEKGLNIGL</span><span class="topo-membrane">WAFSFGLASMANSA</span><span class="topo-inside">TAFYHGNVLQGV</span><span class="topo-membrane">SIFAFVFSNVMIGLLVLMTIY</span><span class="topo-outside">KL</span></span>
+<details class="topo-details"><summary>Topology coordinates (24 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1427,6 +1441,7 @@ demonstrating the first in situ membrane protein structure determination at a sy
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

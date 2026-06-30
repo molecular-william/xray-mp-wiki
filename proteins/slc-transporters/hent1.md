@@ -152,14 +152,15 @@ hENT1 (SLC29A1) is the founding member of the SLC29 family of equilibrative nucl
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MATTSHQ</span><span class="topo-inside">PQDRYKAVW</span><span class="topo-membrane">LIFFMLGLGTLLPWNFFM</span><span class="topo-outside">TATQYFTNRLDMSQN</span><span class="topo-unknown">VSLVTAELSKD</span></span>
-<span class="topo-line"><span class="topo-unknown">AQASAAPAAPLPER</span><span class="topo-outside">NSLSAIFNNVMT</span><span class="topo-membrane">LCAMLPLLLFTYLNSFLH</span><span class="topo-inside">QRIPQ</span><span class="topo-membrane">SVRILGSLVAI</span></span>
-<span class="topo-line"><span class="topo-membrane">LLVFLI</span><span class="topo-outside">TAILVKVQLDALPFFVITMI</span><span class="topo-membrane">KIVLINSFGAILQGSLFG</span><span class="topo-inside">LAGLFPASY</span><span class="topo-membrane">TAAIMSG</span></span>
-<span class="topo-line"><span class="topo-membrane">QGLAGFFASV</span><span class="topo-outside">AMICAIASGSELSESAFGY</span><span class="topo-membrane">FITACAVIILTIICYLG</span><span class="topo-inside">LPRLEFYRYYQQLK</span></span>
-<span class="topo-line"><span class="topo-inside">L</span><span class="topo-unknown">EGPTNESH</span><span class="topo-inside">SIKAILKKIS</span><span class="topo-membrane">VLAFSVCFIFTITIGMFP</span><span class="topo-outside">AVTVEVKSSIAGSSTWERYFIPV</span></span>
-<span class="topo-line"><span class="topo-outside">SCF</span><span class="topo-membrane">LTFNIFDWLGRSLTAVFMWP</span><span class="topo-inside">GKDSR</span><span class="topo-membrane">WLPSLVLARLVFVPLL</span><span class="topo-outside">LLCNIKPRRYLTVVFE</span></span>
-<span class="topo-line"><span class="topo-outside">HDAWFI</span><span class="topo-membrane">FFMAAFAFSNGYLASLCMC</span><span class="topo-inside">FGPKKVKPAEAETAG</span><span class="topo-membrane">AIMAFFLCLGLALGAVFS</span><span class="topo-outside">FL</span></span>
-<span class="topo-line"><span class="topo-outside">F</span><span class="topo-unknown">RAIVGTELLQVDTNSLEVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MATTSHQ</span><span class="topo-inside">PQDRYKAVW</span><span class="topo-membrane">LIFFMLGLGTLLPWNFFM</span><span class="topo-outside">TATQYFTNRLDMSQN</span><span class="topo-unknown">VSLVTAELSKDAQASAAPAAPLPER</span><span class="topo-outside">NSLSAIFNNVMT</span><span class="topo-membrane">LCAMLPLLLFTYLNSFLH</span><span class="topo-inside">QRIPQ</span><span class="topo-membrane">SVRILGSLVAI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">LLVFLI</span><span class="topo-outside">TAILVKVQLDALPFFVITMI</span><span class="topo-membrane">KIVLINSFGAILQGSLFG</span><span class="topo-inside">LAGLFPASY</span><span class="topo-membrane">TAAIMSGQGLAGFFASV</span><span class="topo-outside">AMICAIASGSELSESAFGY</span><span class="topo-membrane">FITACAVIILTIICYLG</span><span class="topo-inside">LPRLEFYRYYQQLK</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">L</span><span class="topo-unknown">EGPTNESH</span><span class="topo-inside">SIKAILKKIS</span><span class="topo-membrane">VLAFSVCFIFTITIGMFP</span><span class="topo-outside">AVTVEVKSSIAGSSTWERYFIPVSCF</span><span class="topo-membrane">LTFNIFDWLGRSLTAVFMWP</span><span class="topo-inside">GKDSR</span><span class="topo-membrane">WLPSLVLARLVFVPLL</span><span class="topo-outside">LLCNIKPRRYLTVVFE</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440  </span>
+<span class="topo-line"><span class="topo-outside">HDAWFI</span><span class="topo-membrane">FFMAAFAFSNGYLASLCMC</span><span class="topo-inside">FGPKKVKPAEAETAG</span><span class="topo-membrane">AIMAFFLCLGLALGAVFS</span><span class="topo-outside">FLF</span><span class="topo-unknown">RAIVGTELLQVDTNSLEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (29 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -374,6 +375,7 @@ hENT1 (SLC29A1) is the founding member of the SLC29 family of equilibrative nucl
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -389,14 +391,15 @@ hENT1 (SLC29A1) is the founding member of the SLC29 family of equilibrative nucl
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MATTSHQ</span><span class="topo-outside">PQDRY</span><span class="topo-membrane">KAVWLIFFMLGLGTLLPWNFFMTAT</span><span class="topo-inside">QYFTNRLDM</span><span class="topo-unknown">SQNVSLVTAELSKD</span></span>
-<span class="topo-line"><span class="topo-unknown">AQASAAPAAPLPER</span><span class="topo-inside">NSLSAI</span><span class="topo-membrane">FNNVMTLCAMLPLLLFTYLNSFLH</span><span class="topo-outside">QRIPQ</span><span class="topo-membrane">SVRILGSLVAI</span></span>
-<span class="topo-line"><span class="topo-membrane">LLVFLITAILVKV</span><span class="topo-inside">QLDALP</span><span class="topo-membrane">FFVITMIKIVLINSFGAILQGSLFGLA</span><span class="topo-outside">GLFPA</span><span class="topo-membrane">SYTAAIMSG</span></span>
-<span class="topo-line"><span class="topo-membrane">QGLAGFFASVAMICA</span><span class="topo-inside">IASGSELSES</span><span class="topo-membrane">AFGYFITACAVIILTIICYLGL</span><span class="topo-outside">PRLEFYRYYQQ</span><span class="topo-unknown">LK</span></span>
-<span class="topo-line"><span class="topo-unknown">LEGPTNESH</span><span class="topo-outside">SIKAILKKIS</span><span class="topo-membrane">VLAFSVCFIFTITIGMFPAVTV</span><span class="topo-inside">EVKSS</span><span class="topo-unknown">IAGSSTWE</span><span class="topo-inside">RYFIP</span><span class="topo-membrane">V</span></span>
-<span class="topo-line"><span class="topo-membrane">SCFLTFNIFDWLGRSLTAVFMWPG</span><span class="topo-outside">KDS</span><span class="topo-membrane">RWLPSLVLARLVFVPLLLLC</span><span class="topo-inside">NIKPRRYLTVVFE</span></span>
-<span class="topo-line"><span class="topo-inside">HD</span><span class="topo-membrane">AWFIFFMAAFAFSNGYLASLCMCFG</span><span class="topo-outside">PKKVKPAEAETAG</span><span class="topo-membrane">AIMAFFLCLGLALGAVFSF</span><span class="topo-unknown">L</span></span>
-<span class="topo-line"><span class="topo-unknown">FRAIVGTELLQVDTNSLEVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MATTSHQ</span><span class="topo-outside">PQDRY</span><span class="topo-membrane">KAVWLIFFMLGLGTLLPWNFFMTAT</span><span class="topo-inside">QYFTNRLDM</span><span class="topo-unknown">SQNVSLVTAELSKDAQASAAPAAPLPER</span><span class="topo-inside">NSLSAI</span><span class="topo-membrane">FNNVMTLCAMLPLLLFTYLNSFLH</span><span class="topo-outside">QRIPQ</span><span class="topo-membrane">SVRILGSLVAI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">LLVFLITAILVKV</span><span class="topo-inside">QLDALP</span><span class="topo-membrane">FFVITMIKIVLINSFGAILQGSLFGLA</span><span class="topo-outside">GLFPA</span><span class="topo-membrane">SYTAAIMSGQGLAGFFASVAMICA</span><span class="topo-inside">IASGSELSES</span><span class="topo-membrane">AFGYFITACAVIILTIICYLGL</span><span class="topo-outside">PRLEFYRYYQQ</span><span class="topo-unknown">LK</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-unknown">LEGPTNESH</span><span class="topo-outside">SIKAILKKIS</span><span class="topo-membrane">VLAFSVCFIFTITIGMFPAVTV</span><span class="topo-inside">EVKSS</span><span class="topo-unknown">IAGSSTWE</span><span class="topo-inside">RYFIP</span><span class="topo-membrane">VSCFLTFNIFDWLGRSLTAVFMWPG</span><span class="topo-outside">KDS</span><span class="topo-membrane">RWLPSLVLARLVFVPLLLLC</span><span class="topo-inside">NIKPRRYLTVVFE</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440  </span>
+<span class="topo-line"><span class="topo-inside">HD</span><span class="topo-membrane">AWFIFFMAAFAFSNGYLASLCMCFG</span><span class="topo-outside">PKKVKPAEAETAG</span><span class="topo-membrane">AIMAFFLCLGLALGAVFSF</span><span class="topo-unknown">LFRAIVGTELLQVDTNSLEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (30 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -618,6 +621,7 @@ hENT1 (SLC29A1) is the founding member of the SLC29 family of equilibrative nucl
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

@@ -130,14 +130,15 @@ LPCAT3 ([LPC](/xray-mp-wiki/reagents/lipids/lysophosphatidylcholine) Acyltransfe
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">L</span><span class="topo-membrane">ARVAEALGSSEQALRLIVSILMGYPF</span><span class="topo-outside">ALFQRYFLFQKETYLIHLYNV</span><span class="topo-membrane">FTGLSIAYFNFG</span></span>
-<span class="topo-line"><span class="topo-inside">M</span><span class="topo-membrane">QFFHSLLCVLIQFLI</span><span class="topo-outside">LRLMGRTVTAVF</span><span class="topo-membrane">TTFVFQMTYLMAGYYF</span><span class="topo-unknown">TATEHY</span><span class="topo-inside">D</span><span class="topo-membrane">IKWTMPHCV</span></span>
-<span class="topo-line"><span class="topo-membrane">LTLKLI</span><span class="topo-outside">GLAIDYY</span><span class="topo-unknown">DGGKDPEL</span><span class="topo-outside">LTPEQRRFAVRG</span><span class="topo-unknown">VPT</span><span class="topo-outside">LLEVSGFSYFYGAFMVGPQFSMTD</span></span>
-<span class="topo-line"><span class="topo-outside">YQKLAKGEM</span><span class="topo-unknown">TDVPGQ</span><span class="topo-outside">RPNSFVPALKRL</span><span class="topo-membrane">SLGLLFLVTYTLSSPYISE</span><span class="topo-inside">EYLISDDYMEKPFW</span></span>
-<span class="topo-line"><span class="topo-inside">FRC</span><span class="topo-membrane">GYILVWGKIILYKYVTCWLVT</span><span class="topo-outside">EGVCILVGLGYNGNDQNGKPVWDACANMKVWLYETT</span></span>
-<span class="topo-line"><span class="topo-outside">PLFTGTIASFNINTNAWVARYVFKRL</span><span class="topo-unknown">KFLG</span><span class="topo-outside">NKLL</span><span class="topo-membrane">SQALALFFLAIWHGLHS</span><span class="topo-inside">G</span><span class="topo-membrane">YLVCFQME</span></span>
-<span class="topo-line"><span class="topo-membrane">LLIVIVE</span><span class="topo-outside">RQVINLVRDSPTLSTLASITAL</span><span class="topo-unknown">QPIF</span><span class="topo-outside">Y</span><span class="topo-membrane">VLQQTNHWMFMGYSLVPFCLF</span><span class="topo-inside">TWDKW</span></span>
-<span class="topo-line"><span class="topo-inside">MKVYKSIYF</span><span class="topo-membrane">LGHVLFFTLLLVLPYIRKL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">L</span><span class="topo-membrane">ARVAEALGSSEQALRLIVSILMGYPF</span><span class="topo-outside">ALFQRYFLFQKETYLIHLYNV</span><span class="topo-membrane">FTGLSIAYFNFG</span><span class="topo-inside">M</span><span class="topo-membrane">QFFHSLLCVLIQFLI</span><span class="topo-outside">LRLMGRTVTAVF</span><span class="topo-membrane">TTFVFQMTYLMAGYYF</span><span class="topo-unknown">TATEHY</span><span class="topo-inside">D</span><span class="topo-membrane">IKWTMPHCV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">LTLKLI</span><span class="topo-outside">GLAIDYY</span><span class="topo-unknown">DGGKDPEL</span><span class="topo-outside">LTPEQRRFAVRG</span><span class="topo-unknown">VPT</span><span class="topo-outside">LLEVSGFSYFYGAFMVGPQFSMTDYQKLAKGEM</span><span class="topo-unknown">TDVPGQ</span><span class="topo-outside">RPNSFVPALKRL</span><span class="topo-membrane">SLGLLFLVTYTLSSPYISE</span><span class="topo-inside">EYLISDDYMEKPFW</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">FRC</span><span class="topo-membrane">GYILVWGKIILYKYVTCWLVT</span><span class="topo-outside">EGVCILVGLGYNGNDQNGKPVWDACANMKVWLYETTPLFTGTIASFNINTNAWVARYVFKRL</span><span class="topo-unknown">KFLG</span><span class="topo-outside">NKLL</span><span class="topo-membrane">SQALALFFLAIWHGLHS</span><span class="topo-inside">G</span><span class="topo-membrane">YLVCFQME</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440        </span>
+<span class="topo-line"><span class="topo-membrane">LLIVIVE</span><span class="topo-outside">RQVINLVRDSPTLSTLASITAL</span><span class="topo-unknown">QPIF</span><span class="topo-outside">Y</span><span class="topo-membrane">VLQQTNHWMFMGYSLVPFCLF</span><span class="topo-inside">TWDKWMKVYKSIYF</span><span class="topo-membrane">LGHVLFFTLLLVLPYIRKL</span></span>
+<details class="topo-details"><summary>Topology coordinates (33 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -380,6 +381,7 @@ LPCAT3 ([LPC](/xray-mp-wiki/reagents/lipids/lysophosphatidylcholine) Acyltransfe
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -395,15 +397,17 @@ LPCAT3 ([LPC](/xray-mp-wiki/reagents/lipids/lysophosphatidylcholine) Acyltransfe
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGAERDESGAGAAVLVPLLGFGSNRPAGPAEKMAVAGSGWS</span><span class="topo-outside">LARVAEALGSSEQALRL</span><span class="topo-membrane">IV</span></span>
-<span class="topo-line"><span class="topo-membrane">SILMGYPFALFQRYFL</span><span class="topo-inside">FQKETY</span><span class="topo-membrane">LIHLYNVFTGLSIAYFNF</span><span class="topo-outside">GMQ</span><span class="topo-membrane">FFHSLLCVLIQFL</span><span class="topo-inside">ILRL</span></span>
-<span class="topo-line"><span class="topo-inside">MGRTVTAVFTT</span><span class="topo-membrane">FVFQMTYLMAGYYFT</span><span class="topo-outside">ATEHYDI</span><span class="topo-membrane">KWTMPHCVLTLKLI</span><span class="topo-inside">GLAIDYYDGGKDP</span></span>
-<span class="topo-line"><span class="topo-inside">ELLTPEQRRFAVRGVPTLLEV</span><span class="topo-unknown">SGFSYFYGAFMVGPQF</span><span class="topo-inside">SMTDYQKLAKGEMTDVPGQRPNS</span></span>
-<span class="topo-line"><span class="topo-membrane">FVPALKRLSLGLLFL</span><span class="topo-outside">VTYTLSSPYISEEYLISDDYMEKPFWFRCGYILVWG</span><span class="topo-membrane">KIILYKYVT</span></span>
-<span class="topo-line"><span class="topo-membrane">CWLVTEGVCILVG</span><span class="topo-inside">LGYNGNDQNGKPVWDACANMKVWLYETTPLFTGTIASFNINTNAWVA</span></span>
-<span class="topo-line"><span class="topo-inside">RYVFKRLKFLGNKLLSQA</span><span class="topo-membrane">LALFFLAIWHGLHS</span><span class="topo-outside">G</span><span class="topo-membrane">YLVCFQMELLIVIVE</span><span class="topo-inside">RQVINLVRDSPT</span></span>
-<span class="topo-line"><span class="topo-inside">LSTLASITA</span><span class="topo-membrane">LQPIFYVLQQTNHWMFMGYSLVPFC</span><span class="topo-outside">LFTWDKWMKVYKSIYF</span><span class="topo-membrane">LGHVLFFTLL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGAERDESGAGAAVLVPLLGFGSNRPAGPAEKMAVAGSGWS</span><span class="topo-outside">LARVAEALGSSEQALRL</span><span class="topo-membrane">IVSILMGYPFALFQRYFL</span><span class="topo-inside">FQKETY</span><span class="topo-membrane">LIHLYNVFTGLSIAYFNF</span><span class="topo-outside">GMQ</span><span class="topo-membrane">FFHSLLCVLIQFL</span><span class="topo-inside">ILRL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">MGRTVTAVFTT</span><span class="topo-membrane">FVFQMTYLMAGYYFT</span><span class="topo-outside">ATEHYDI</span><span class="topo-membrane">KWTMPHCVLTLKLI</span><span class="topo-inside">GLAIDYYDGGKDPELLTPEQRRFAVRGVPTLLEV</span><span class="topo-unknown">SGFSYFYGAFMVGPQF</span><span class="topo-inside">SMTDYQKLAKGEMTDVPGQRPNS</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">FVPALKRLSLGLLFL</span><span class="topo-outside">VTYTLSSPYISEEYLISDDYMEKPFWFRCGYILVWG</span><span class="topo-membrane">KIILYKYVTCWLVTEGVCILVG</span><span class="topo-inside">LGYNGNDQNGKPVWDACANMKVWLYETTPLFTGTIASFNINTNAWVA</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">RYVFKRLKFLGNKLLSQA</span><span class="topo-membrane">LALFFLAIWHGLHS</span><span class="topo-outside">G</span><span class="topo-membrane">YLVCFQMELLIVIVE</span><span class="topo-inside">RQVINLVRDSPTLSTLASITA</span><span class="topo-membrane">LQPIFYVLQQTNHWMFMGYSLVPFC</span><span class="topo-outside">LFTWDKWMKVYKSIYF</span><span class="topo-membrane">LGHVLFFTLL</span></span>
+<span class="topo-ruler">       490       500 </span>
 <span class="topo-line"><span class="topo-membrane">LVL</span><span class="topo-inside">PYIRKLL</span><span class="topo-unknown">VPRKEKLKKAE</span></span>
+<details class="topo-details"><summary>Topology coordinates (27 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -604,6 +608,7 @@ LPCAT3 ([LPC](/xray-mp-wiki/reagents/lipids/lysophosphatidylcholine) Acyltransfe
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -619,15 +624,17 @@ LPCAT3 ([LPC](/xray-mp-wiki/reagents/lipids/lysophosphatidylcholine) Acyltransfe
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGAERDESGAGAAVLVPLLGFGSNRPAGPAEKMAVAGSGWS</span><span class="topo-outside">LARVAEALGSSEQALRL</span><span class="topo-membrane">IV</span></span>
-<span class="topo-line"><span class="topo-membrane">SILMGYPFALFQRYFL</span><span class="topo-inside">FQKETY</span><span class="topo-membrane">LIHLYNVFTGLSIAYFNF</span><span class="topo-outside">GMQ</span><span class="topo-membrane">FFHSLLCVLIQFL</span><span class="topo-inside">ILRL</span></span>
-<span class="topo-line"><span class="topo-inside">MGRTVTAVFTT</span><span class="topo-membrane">FVFQMTYLMAGYYFTA</span><span class="topo-outside">TEHYDI</span><span class="topo-membrane">KWTMPHCVLTLKLI</span><span class="topo-inside">GLAIDYYDGGKDP</span></span>
-<span class="topo-line"><span class="topo-inside">ELLTPEQRRFAVRGVPTLLEV</span><span class="topo-unknown">SGFSYFYGAFMVGPQF</span><span class="topo-inside">SMTDYQKLAKGEMTDVPGQRPNS</span></span>
-<span class="topo-line"><span class="topo-membrane">FVPALKRLSLGLLFL</span><span class="topo-outside">VTYTLSSPYISEEYLISDDYMEKPFWFRCGYILVWG</span><span class="topo-membrane">KIILYKYVT</span></span>
-<span class="topo-line"><span class="topo-membrane">CWLVTEGVCILV</span><span class="topo-inside">GLGYNGNDQNGKPVWDACANMKVWLYETTPLFTGTIASFNINTNAWVA</span></span>
-<span class="topo-line"><span class="topo-inside">RYVFKRLKFLGNKLLSQA</span><span class="topo-membrane">LALFFLAIWHGLHS</span><span class="topo-outside">G</span><span class="topo-membrane">YLVCFQMELLIVIVE</span><span class="topo-inside">RQVINLVRDSPT</span></span>
-<span class="topo-line"><span class="topo-inside">LSTLASITA</span><span class="topo-membrane">LQPIFYVLQQTNHWMFMGYSLVPFC</span><span class="topo-outside">LFTWDKWMKVYKSIYF</span><span class="topo-membrane">LGHVLFFTLL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGAERDESGAGAAVLVPLLGFGSNRPAGPAEKMAVAGSGWS</span><span class="topo-outside">LARVAEALGSSEQALRL</span><span class="topo-membrane">IVSILMGYPFALFQRYFL</span><span class="topo-inside">FQKETY</span><span class="topo-membrane">LIHLYNVFTGLSIAYFNF</span><span class="topo-outside">GMQ</span><span class="topo-membrane">FFHSLLCVLIQFL</span><span class="topo-inside">ILRL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">MGRTVTAVFTT</span><span class="topo-membrane">FVFQMTYLMAGYYFTA</span><span class="topo-outside">TEHYDI</span><span class="topo-membrane">KWTMPHCVLTLKLI</span><span class="topo-inside">GLAIDYYDGGKDPELLTPEQRRFAVRGVPTLLEV</span><span class="topo-unknown">SGFSYFYGAFMVGPQF</span><span class="topo-inside">SMTDYQKLAKGEMTDVPGQRPNS</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">FVPALKRLSLGLLFL</span><span class="topo-outside">VTYTLSSPYISEEYLISDDYMEKPFWFRCGYILVWG</span><span class="topo-membrane">KIILYKYVTCWLVTEGVCILV</span><span class="topo-inside">GLGYNGNDQNGKPVWDACANMKVWLYETTPLFTGTIASFNINTNAWVA</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">RYVFKRLKFLGNKLLSQA</span><span class="topo-membrane">LALFFLAIWHGLHS</span><span class="topo-outside">G</span><span class="topo-membrane">YLVCFQMELLIVIVE</span><span class="topo-inside">RQVINLVRDSPTLSTLASITA</span><span class="topo-membrane">LQPIFYVLQQTNHWMFMGYSLVPFC</span><span class="topo-outside">LFTWDKWMKVYKSIYF</span><span class="topo-membrane">LGHVLFFTLL</span></span>
+<span class="topo-ruler">       490       500 </span>
 <span class="topo-line"><span class="topo-membrane">LVL</span><span class="topo-inside">PYIRKLL</span><span class="topo-unknown">VPRKEKLKKAE</span></span>
+<details class="topo-details"><summary>Topology coordinates (27 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -828,6 +835,7 @@ LPCAT3 ([LPC](/xray-mp-wiki/reagents/lipids/lysophosphatidylcholine) Acyltransfe
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -843,15 +851,17 @@ LPCAT3 ([LPC](/xray-mp-wiki/reagents/lipids/lysophosphatidylcholine) Acyltransfe
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGAERDESGAGAAVLVPLLGFGSNRPAGPAEKMAVAGSGWS</span><span class="topo-inside">LARVAEALGSSEQALRL</span><span class="topo-membrane">IV</span></span>
-<span class="topo-line"><span class="topo-membrane">SILMGYPFALFQRYFLFQ</span><span class="topo-outside">KETY</span><span class="topo-membrane">LIHLYNVFTGLSIAYFN</span><span class="topo-inside">FGMQ</span><span class="topo-membrane">FFHSLLCVLIQFLIL</span><span class="topo-outside">RL</span></span>
-<span class="topo-line"><span class="topo-outside">MGRTVTAVF</span><span class="topo-membrane">TTFVFQMTYLMAGYY</span><span class="topo-inside">FTATEHYDIK</span><span class="topo-membrane">WTMPHCVLTLKLIGLA</span><span class="topo-outside">IDYYDGGKDP</span></span>
-<span class="topo-line"><span class="topo-outside">ELLTPEQRRFAVRGVPTL</span><span class="topo-unknown">LEVSGFSYFYGAFMVGPQFS</span><span class="topo-outside">MTDYQKLAKGEMTDVPGQR</span><span class="topo-membrane">PNS</span></span>
-<span class="topo-line"><span class="topo-membrane">FVPALKRLSLGLLFL</span><span class="topo-inside">VTYTLSSPYISEEYLISDDYMEKPFWFRCGYILVWG</span><span class="topo-membrane">KIILYKYVT</span></span>
-<span class="topo-line"><span class="topo-membrane">CWLVTEGVCILVGLG</span><span class="topo-outside">YNGNDQNGKPVWDACANMKVWLYETTPLFTGTIASFNINTNAWVA</span></span>
-<span class="topo-line"><span class="topo-outside">RYVFKRLKFLGNKL</span><span class="topo-membrane">LSQALALFFLAIWHGLHS</span><span class="topo-inside">G</span><span class="topo-membrane">YLVCFQMELLIVIVERQVI</span><span class="topo-outside">NLVRDSPT</span></span>
-<span class="topo-line"><span class="topo-outside">LSTLASITA</span><span class="topo-membrane">LQPIFYVLQQTNHWMFMGYSLVPF</span><span class="topo-inside">CLFTWDKWMKVYKSIYF</span><span class="topo-membrane">LGHVLFFTLL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGAERDESGAGAAVLVPLLGFGSNRPAGPAEKMAVAGSGWS</span><span class="topo-inside">LARVAEALGSSEQALRL</span><span class="topo-membrane">IVSILMGYPFALFQRYFLFQ</span><span class="topo-outside">KETY</span><span class="topo-membrane">LIHLYNVFTGLSIAYFN</span><span class="topo-inside">FGMQ</span><span class="topo-membrane">FFHSLLCVLIQFLIL</span><span class="topo-outside">RL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">MGRTVTAVF</span><span class="topo-membrane">TTFVFQMTYLMAGYY</span><span class="topo-inside">FTATEHYDIK</span><span class="topo-membrane">WTMPHCVLTLKLIGLA</span><span class="topo-outside">IDYYDGGKDPELLTPEQRRFAVRGVPTL</span><span class="topo-unknown">LEVSGFSYFYGAFMVGPQFS</span><span class="topo-outside">MTDYQKLAKGEMTDVPGQR</span><span class="topo-membrane">PNS</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">FVPALKRLSLGLLFL</span><span class="topo-inside">VTYTLSSPYISEEYLISDDYMEKPFWFRCGYILVWG</span><span class="topo-membrane">KIILYKYVTCWLVTEGVCILVGLG</span><span class="topo-outside">YNGNDQNGKPVWDACANMKVWLYETTPLFTGTIASFNINTNAWVA</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">RYVFKRLKFLGNKL</span><span class="topo-membrane">LSQALALFFLAIWHGLHS</span><span class="topo-inside">G</span><span class="topo-membrane">YLVCFQMELLIVIVERQVI</span><span class="topo-outside">NLVRDSPTLSTLASITA</span><span class="topo-membrane">LQPIFYVLQQTNHWMFMGYSLVPF</span><span class="topo-inside">CLFTWDKWMKVYKSIYF</span><span class="topo-membrane">LGHVLFFTLL</span></span>
+<span class="topo-ruler">       490       500 </span>
 <span class="topo-line"><span class="topo-membrane">LVLPYI</span><span class="topo-outside">RKLL</span><span class="topo-unknown">VPRKEKLKKAE</span></span>
+<details class="topo-details"><summary>Topology coordinates (27 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1052,6 +1062,7 @@ LPCAT3 ([LPC](/xray-mp-wiki/reagents/lipids/lysophosphatidylcholine) Acyltransfe
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1067,15 +1078,17 @@ LPCAT3 ([LPC](/xray-mp-wiki/reagents/lipids/lysophosphatidylcholine) Acyltransfe
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGAERDESGAGAAVLVPLLGFGSNRPAGPAEKMAVAGSGWS</span><span class="topo-inside">LARVAEALGSSEQALRL</span><span class="topo-membrane">IV</span></span>
-<span class="topo-line"><span class="topo-membrane">SILMGYPFALFQRYFLFQ</span><span class="topo-outside">KETY</span><span class="topo-membrane">LIHLYNVFTGLSIAYFN</span><span class="topo-inside">FGMQ</span><span class="topo-membrane">FFHSLLCVLIQFLIL</span><span class="topo-outside">RL</span></span>
-<span class="topo-line"><span class="topo-outside">MGRTVTAVF</span><span class="topo-membrane">TTFVFQMTYLMAGYY</span><span class="topo-inside">FTATEHYDIK</span><span class="topo-membrane">WTMPHCVLTLKLIGL</span><span class="topo-outside">AIDYYDGGKDP</span></span>
-<span class="topo-line"><span class="topo-outside">ELLTPEQRRFAVRGVPTL</span><span class="topo-unknown">LEVSGFSYFYGAFMVGPQFS</span><span class="topo-outside">MTDYQKLAKGEMTDVPGQR</span><span class="topo-membrane">PNS</span></span>
-<span class="topo-line"><span class="topo-membrane">FVPALKRLSLGLLFL</span><span class="topo-inside">VTYTLSSPYISEEYLISDDYMEKPFWFRCGYILVWG</span><span class="topo-membrane">KIILYKYVT</span></span>
-<span class="topo-line"><span class="topo-membrane">CWLVTEGVCILVGLG</span><span class="topo-outside">YNGNDQNGKPVWDACANMKVWLYETTPLFTGTIASFNINTNAWVA</span></span>
-<span class="topo-line"><span class="topo-outside">RYVFKRLKFLGNKL</span><span class="topo-membrane">LSQALALFFLAIWHGLHS</span><span class="topo-inside">G</span><span class="topo-membrane">YLVCFQMELLIVIVERQVI</span><span class="topo-outside">NLVRDSPT</span></span>
-<span class="topo-line"><span class="topo-outside">LSTLASITA</span><span class="topo-membrane">LQPIFYVLQQTNHWMFMGYSLVPF</span><span class="topo-inside">CLFTWDKWMKVYKSIYF</span><span class="topo-membrane">LGHVLFFTLL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGAERDESGAGAAVLVPLLGFGSNRPAGPAEKMAVAGSGWS</span><span class="topo-inside">LARVAEALGSSEQALRL</span><span class="topo-membrane">IVSILMGYPFALFQRYFLFQ</span><span class="topo-outside">KETY</span><span class="topo-membrane">LIHLYNVFTGLSIAYFN</span><span class="topo-inside">FGMQ</span><span class="topo-membrane">FFHSLLCVLIQFLIL</span><span class="topo-outside">RL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">MGRTVTAVF</span><span class="topo-membrane">TTFVFQMTYLMAGYY</span><span class="topo-inside">FTATEHYDIK</span><span class="topo-membrane">WTMPHCVLTLKLIGL</span><span class="topo-outside">AIDYYDGGKDPELLTPEQRRFAVRGVPTL</span><span class="topo-unknown">LEVSGFSYFYGAFMVGPQFS</span><span class="topo-outside">MTDYQKLAKGEMTDVPGQR</span><span class="topo-membrane">PNS</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">FVPALKRLSLGLLFL</span><span class="topo-inside">VTYTLSSPYISEEYLISDDYMEKPFWFRCGYILVWG</span><span class="topo-membrane">KIILYKYVTCWLVTEGVCILVGLG</span><span class="topo-outside">YNGNDQNGKPVWDACANMKVWLYETTPLFTGTIASFNINTNAWVA</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">RYVFKRLKFLGNKL</span><span class="topo-membrane">LSQALALFFLAIWHGLHS</span><span class="topo-inside">G</span><span class="topo-membrane">YLVCFQMELLIVIVERQVI</span><span class="topo-outside">NLVRDSPTLSTLASITA</span><span class="topo-membrane">LQPIFYVLQQTNHWMFMGYSLVPF</span><span class="topo-inside">CLFTWDKWMKVYKSIYF</span><span class="topo-membrane">LGHVLFFTLL</span></span>
+<span class="topo-ruler">       490       500 </span>
 <span class="topo-line"><span class="topo-membrane">LVLPYI</span><span class="topo-outside">RKLL</span><span class="topo-unknown">VPRKEKLKKAE</span></span>
+<details class="topo-details"><summary>Topology coordinates (27 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1276,6 +1289,7 @@ LPCAT3 ([LPC](/xray-mp-wiki/reagents/lipids/lysophosphatidylcholine) Acyltransfe
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

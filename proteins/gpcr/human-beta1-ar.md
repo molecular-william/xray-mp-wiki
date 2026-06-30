@@ -144,15 +144,7 @@ The beta-1 adrenergic receptor (beta1 AR) is a G protein-coupled receptor (GPCR)
   </tbody>
 </table>
 
-<<<<<<< HEAD
 **Crystallization:**
-=======
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Solubilization | Membrane solubilization |  | 20 mM HEPES pH 7.5, 100 mM NaCl, 1% [LMNG](/xray-mp-wiki/reagents/detergents/lmng/), 0.02% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) + 1% [LMNG](/xray-mp-wiki/reagents/detergents/lmng/) + 0.02% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | For inactive-state beta1 AR (carazolol-bound) |
-| M1 Flag [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | M1 [FLAG](/xray-mp-wiki/reagents/protein-tags/flag-tag/) affinity resin (Sigma) | 20 mM HEPES pH 7.5, 100 mM NaCl, 0.01% [LMNG](/xray-mp-wiki/reagents/detergents/lmng/), 0.0002% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) + 0.01% [LMNG](/xray-mp-wiki/reagents/detergents/lmng/), 0.0002% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | Purified with 10 uM [Carazolol](/xray-mp-wiki/reagents/ligands/carazolol/) for inactive state |
-| [Size-Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) | [SEC](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) | [SEC](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) column | 20 mM HEPES pH 7.5, 100 mM NaCl, 0.01% [LMNG](/xray-mp-wiki/reagents/detergents/lmng/), 0.0002% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) + 0.01% [LMNG](/xray-mp-wiki/reagents/detergents/lmng/), 0.0002% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | Final buffer with 10 uM [Carazolol](/xray-mp-wiki/reagents/ligands/carazolol/) for inactive state |
->>>>>>> d0e2c437136bdf2885afc6a99e0a9d4117821696
 
 <table class="wiki-kv-table">
   <tbody>
@@ -200,7 +192,6 @@ The beta-1 adrenergic receptor (beta1 AR) is a G protein-coupled receptor (GPCR)
 <div class="sequence-entry" markdown="1">
 **PDB <a class="pdb-link" href="https://www.rcsb.org/structure/7bvq">7BVQ</a> — Chain A (7 TMs, alpha)**
 
-<<<<<<< HEAD
 <div class="sequence-display">
 <div class="topo-legend">
 <span class="topo-membrane-legend">&#9608; TM Helix</span>
@@ -209,14 +200,15 @@ The beta-1 adrenergic receptor (beta1 AR) is a G protein-coupled receptor (GPCR)
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">DYKDDDDANIFEMLRIDEGLRLKIYKDTEGYYTIGIGHLLTKSPSLNAAKSELDKAIGRN</span></span>
-<span class="topo-line"><span class="topo-inside">TNGVITKDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVFQMGETGVAG</span></span>
-<span class="topo-line"><span class="topo-inside">FTNSLRMLQQKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWDAYAASQQWT</span><span class="topo-membrane">AGMGL</span></span>
-<span class="topo-line"><span class="topo-membrane">LMALIVLLIVAGNVLVI</span><span class="topo-outside">VAIAKTPRLQTLTNLFI</span><span class="topo-membrane">MSLASADLVMGLLVVPFGATIVV</span><span class="topo-inside">WGR</span></span>
-<span class="topo-line"><span class="topo-inside">W</span><span class="topo-membrane">EYGSFFCELWTSVDVLCVTASIETLCV</span><span class="topo-outside">IALDRYLAITSPFRYQSLLTRARARGLV</span><span class="topo-membrane">CTVW</span></span>
-<span class="topo-line"><span class="topo-membrane">AISALVSFLPILMHWWR</span><span class="topo-inside">AES</span><span class="topo-unknown">DEARRCY</span><span class="topo-inside">NDPKCC</span><span class="topo-membrane">DFVTNRAYAIASSVVSFYVPLCIMAFV</span></span>
-<span class="topo-line"><span class="topo-membrane">YL</span><span class="topo-outside">RVFREAQKQVKKIDSVALREQKALKTL</span><span class="topo-membrane">GIIMGVFTLCWLPFFLANVVKAF</span><span class="topo-inside">HRELVPDR</span></span>
-<span class="topo-line"><span class="topo-membrane">LFVFFNWLGYANSAFNPIIYC</span><span class="topo-outside">RS</span><span class="topo-unknown">PDFRKAFQGLL</span><span class="topo-outside">C</span><span class="topo-unknown">CARRAAR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">DYKDDDDANIFEMLRIDEGLRLKIYKDTEGYYTIGIGHLLTKSPSLNAAKSELDKAIGRNTNGVITKDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVFQMGETGVAG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FTNSLRMLQQKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWDAYAASQQWT</span><span class="topo-membrane">AGMGLLMALIVLLIVAGNVLVI</span><span class="topo-outside">VAIAKTPRLQTLTNLFI</span><span class="topo-membrane">MSLASADLVMGLLVVPFGATIVV</span><span class="topo-inside">WGR</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">W</span><span class="topo-membrane">EYGSFFCELWTSVDVLCVTASIETLCV</span><span class="topo-outside">IALDRYLAITSPFRYQSLLTRARARGLV</span><span class="topo-membrane">CTVWAISALVSFLPILMHWWR</span><span class="topo-inside">AES</span><span class="topo-unknown">DEARRCY</span><span class="topo-inside">NDPKCC</span><span class="topo-membrane">DFVTNRAYAIASSVVSFYVPLCIMAFV</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460  </span>
+<span class="topo-line"><span class="topo-membrane">YL</span><span class="topo-outside">RVFREAQKQVKKIDSVALREQKALKTL</span><span class="topo-membrane">GIIMGVFTLCWLPFFLANVVKAF</span><span class="topo-inside">HRELVPDR</span><span class="topo-membrane">LFVFFNWLGYANSAFNPIIYC</span><span class="topo-outside">RS</span><span class="topo-unknown">PDFRKAFQGLL</span><span class="topo-outside">C</span><span class="topo-unknown">CARRAAR</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -361,17 +353,10 @@ The beta-1 adrenergic receptor (beta1 AR) is a G protein-coupled receptor (GPCR)
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
-=======
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Solubilization and M1 Flag affinity | Same as inactive but with agonists | M1 [FLAG](/xray-mp-wiki/reagents/protein-tags/flag-tag/) affinity resin | 20 mM HEPES pH 7.5, 100 mM NaCl, 0.01% [LMNG](/xray-mp-wiki/reagents/detergents/lmng/), 0.0002% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) + 0.01% [LMNG](/xray-mp-wiki/reagents/detergents/lmng/), 0.0002% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | Purified with target agonists (100 nM [BI-167107](/xray-mp-wiki/reagents/ligands/bi-167107/), 1 mM [Epinephrine](/xray-mp-wiki/reagents/ligands/epinephrine/), or 1 mM [Norepinephrine](/xray-mp-wiki/reagents/ligands/norepinephrine/)) |
-| Nb6B9 incubation | Complex formation |  | Same as above + 0.01% [LMNG](/xray-mp-wiki/reagents/detergents/lmng/), 0.0002% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | Mixed with 1.2-fold molar excess of Nb6B9 overnight at 4 C |
-| Nickel [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) (pull-down) | Nickel affinity resin | Same as above + 0.01% [LMNG](/xray-mp-wiki/reagents/detergents/lmng/), 0.0002% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | Pull-down of functional receptor-Nb6B9 complex via His-tagged Nb6B9 |
-| [Size-Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) | [SEC](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) | [SEC](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) column | 20 mM HEPES pH 7.5, 100 mM NaCl, 0.01% [LMNG](/xray-mp-wiki/reagents/detergents/lmng/), 0.0002% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) + 0.01% [LMNG](/xray-mp-wiki/reagents/detergents/lmng/), 0.0002% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | Excess Nb6B9 removed; agonists maintained in buffer |
->>>>>>> d0e2c437136bdf2885afc6a99e0a9d4117821696
 
 <div class="sequence-entry" markdown="1">
 **PDB <a class="pdb-link" href="https://www.rcsb.org/structure/7bu7">7BU7</a> — Chain A (7 TMs, alpha)**
@@ -384,15 +369,17 @@ The beta-1 adrenergic receptor (beta1 AR) is a G protein-coupled receptor (GPCR)
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">DYKDDDDANIFEMLRIDEGLRLKIYKDTEGYYTIGIGHLLTKSPSLNAAKSELDKAIGRN</span></span>
-<span class="topo-line"><span class="topo-inside">TNGVITKDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVFQMGETGVAG</span></span>
-<span class="topo-line"><span class="topo-inside">FTNSLRMLQQKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWDAYAASQQWTA</span><span class="topo-membrane">GMGL</span></span>
-<span class="topo-line"><span class="topo-membrane">LMALIVLLIVAGNVLVI</span><span class="topo-outside">VAIAKTPRLQTLTNLFIM</span><span class="topo-membrane">SLASADLVMGLLVVPFGATIVV</span><span class="topo-inside">WGR</span></span>
-<span class="topo-line"><span class="topo-inside">WEY</span><span class="topo-membrane">GSFFCELWTSVDVLCVTASIETLCV</span><span class="topo-outside">IALDRYLAITSPFRYQSLLTRARARGLV</span><span class="topo-membrane">CTVW</span></span>
-<span class="topo-line"><span class="topo-membrane">AISALVSFLPILMHWWRA</span><span class="topo-inside">ES</span><span class="topo-unknown">DEARRCYN</span><span class="topo-inside">DPKCC</span><span class="topo-membrane">DFVTNRAYAIASSVVSFYVPLCIMAF</span><span class="topo-outside">V</span></span>
-<span class="topo-line"><span class="topo-outside">YLRVFREAQKQVK</span><span class="topo-unknown">KIDSCERRFLGGPARPPSPSPSPVPAPAPPPGPPRPAAAAATAPLAN</span></span>
-<span class="topo-line"><span class="topo-unknown">GRAGKRRPSRLVALR</span><span class="topo-outside">EQKALKTL</span><span class="topo-membrane">GIIMGVFTLCWLPFFLANVVKAFHR</span><span class="topo-inside">EL</span><span class="topo-membrane">VPDRLFVFFN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">DYKDDDDANIFEMLRIDEGLRLKIYKDTEGYYTIGIGHLLTKSPSLNAAKSELDKAIGRNTNGVITKDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVFQMGETGVAG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FTNSLRMLQQKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWDAYAASQQWTA</span><span class="topo-membrane">GMGLLMALIVLLIVAGNVLVI</span><span class="topo-outside">VAIAKTPRLQTLTNLFIM</span><span class="topo-membrane">SLASADLVMGLLVVPFGATIVV</span><span class="topo-inside">WGR</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">WEY</span><span class="topo-membrane">GSFFCELWTSVDVLCVTASIETLCV</span><span class="topo-outside">IALDRYLAITSPFRYQSLLTRARARGLV</span><span class="topo-membrane">CTVWAISALVSFLPILMHWWRA</span><span class="topo-inside">ES</span><span class="topo-unknown">DEARRCYN</span><span class="topo-inside">DPKCC</span><span class="topo-membrane">DFVTNRAYAIASSVVSFYVPLCIMAF</span><span class="topo-outside">V</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">YLRVFREAQKQVK</span><span class="topo-unknown">KIDSCERRFLGGPARPPSPSPSPVPAPAPPPGPPRPAAAAATAPLANGRAGKRRPSRLVALR</span><span class="topo-outside">EQKALKTL</span><span class="topo-membrane">GIIMGVFTLCWLPFFLANVVKAFHR</span><span class="topo-inside">EL</span><span class="topo-membrane">VPDRLFVFFN</span></span>
+<span class="topo-ruler">       490       500       510      </span>
 <span class="topo-line"><span class="topo-membrane">WLGYANSAFNPIIY</span><span class="topo-outside">CRS</span><span class="topo-unknown">PDFRKAFQGL</span><span class="topo-outside">LC</span><span class="topo-unknown">CARRAAR</span></span>
+<details class="topo-details"><summary>Topology coordinates (20 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -544,6 +531,7 @@ The beta-1 adrenergic receptor (beta1 AR) is a G protein-coupled receptor (GPCR)
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -551,7 +539,6 @@ The beta-1 adrenergic receptor (beta1 AR) is a G protein-coupled receptor (GPCR)
 <div class="sequence-entry" markdown="1">
 **PDB <a class="pdb-link" href="https://www.rcsb.org/structure/7bu6">7BU6</a> — Chain A (7 TMs, alpha)**
 
-<<<<<<< HEAD
 <div class="sequence-display">
 <div class="topo-legend">
 <span class="topo-membrane-legend">&#9608; TM Helix</span>
@@ -560,15 +547,17 @@ The beta-1 adrenergic receptor (beta1 AR) is a G protein-coupled receptor (GPCR)
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">DYKDDDDANIFEMLRIDEGLRLKIYKDTEGYYTIGIGHLLTKSPSLNAAKSELDKAIGRN</span></span>
-<span class="topo-line"><span class="topo-outside">TNGVITKDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVFQMGETGVAG</span></span>
-<span class="topo-line"><span class="topo-outside">FTNSLRMLQQKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWDAYAASQQWT</span><span class="topo-membrane">AGMGL</span></span>
-<span class="topo-line"><span class="topo-membrane">LMALIVLLIVAGNVLVIV</span><span class="topo-inside">AIAKTPRLQTLTNLF</span><span class="topo-membrane">IMSLASADLVMGLLVVPFGATIVV</span><span class="topo-outside">WGR</span></span>
-<span class="topo-line"><span class="topo-outside">WEYGSF</span><span class="topo-membrane">FCELWTSVDVLCVTASIETLCV</span><span class="topo-inside">IALDRYLAITSPFRYQSLLTRARARG</span><span class="topo-membrane">LVCTVW</span></span>
-<span class="topo-line"><span class="topo-membrane">AISALVSFLPILMHWWR</span><span class="topo-outside">AES</span><span class="topo-unknown">DEARRCYN</span><span class="topo-outside">DPKCC</span><span class="topo-membrane">DFVTNRAYAIASSVVSFYVPLCIMAF</span><span class="topo-inside">V</span></span>
-<span class="topo-line"><span class="topo-inside">YLRVFREAQKQV</span><span class="topo-unknown">KKIDSCERRFLGGPARPPSPSPSPVPAPAPPPGPPRPAAAAATAPLAN</span></span>
-<span class="topo-line"><span class="topo-unknown">GRAGKRRPSRLV</span><span class="topo-inside">ALREQKALKTLG</span><span class="topo-membrane">IIMGVFTLCWLPFFLANVVKAFH</span><span class="topo-outside">REL</span><span class="topo-membrane">VPDRLFVFFN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">DYKDDDDANIFEMLRIDEGLRLKIYKDTEGYYTIGIGHLLTKSPSLNAAKSELDKAIGRNTNGVITKDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVFQMGETGVAG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">FTNSLRMLQQKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWDAYAASQQWT</span><span class="topo-membrane">AGMGLLMALIVLLIVAGNVLVIV</span><span class="topo-inside">AIAKTPRLQTLTNLF</span><span class="topo-membrane">IMSLASADLVMGLLVVPFGATIVV</span><span class="topo-outside">WGR</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">WEYGSF</span><span class="topo-membrane">FCELWTSVDVLCVTASIETLCV</span><span class="topo-inside">IALDRYLAITSPFRYQSLLTRARARG</span><span class="topo-membrane">LVCTVWAISALVSFLPILMHWWR</span><span class="topo-outside">AES</span><span class="topo-unknown">DEARRCYN</span><span class="topo-outside">DPKCC</span><span class="topo-membrane">DFVTNRAYAIASSVVSFYVPLCIMAF</span><span class="topo-inside">V</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">YLRVFREAQKQV</span><span class="topo-unknown">KKIDSCERRFLGGPARPPSPSPSPVPAPAPPPGPPRPAAAAATAPLANGRAGKRRPSRLV</span><span class="topo-inside">ALREQKALKTLG</span><span class="topo-membrane">IIMGVFTLCWLPFFLANVVKAFH</span><span class="topo-outside">REL</span><span class="topo-membrane">VPDRLFVFFN</span></span>
+<span class="topo-ruler">       490       500       510      </span>
 <span class="topo-line"><span class="topo-membrane">WLGYANSAFNPIIY</span><span class="topo-inside">CRS</span><span class="topo-unknown">PDFRKAFQGLL</span><span class="topo-inside">C</span><span class="topo-unknown">CARRAAR</span></span>
+<details class="topo-details"><summary>Topology coordinates (20 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -720,27 +709,13 @@ The beta-1 adrenergic receptor (beta1 AR) is a G protein-coupled receptor (GPCR)
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
 
 <div class="sequence-entry" markdown="1">
 **PDB <a class="pdb-link" href="https://www.rcsb.org/structure/7bts">7BTS</a> — Chain A (7 TMs, alpha)**
-=======
-| Parameter | Value |
-|---|---|
-| Method | [LCP](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) ([LCP](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/)) |
-| Protein sample | T4L-beta1AR-[Carazolol](/xray-mp-wiki/reagents/ligands/carazolol/) complex reconstituted in [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) with 10% [Cholesterol](/xray-mp-wiki/reagents/lipids/cholesterol/) |
-| Temperature | Not specified |
-| Notes | Inactive state crystals; protein:lipid ratio 2:3 |
-
-| Parameter | Value |
-|---|---|
-| Method | [LCP](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) ([LCP](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/)) |
-| Protein sample | T4L-beta1AR-Nb6B9-agonist complexes reconstituted in [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) with 10% [Cholesterol](/xray-mp-wiki/reagents/lipids/cholesterol/) |
-| Temperature | Not specified |
-| Notes | Active state crystals ([BI-167107](/xray-mp-wiki/reagents/ligands/bi-167107/), [Norepinephrine](/xray-mp-wiki/reagents/ligands/norepinephrine/), and [Epinephrine](/xray-mp-wiki/reagents/ligands/epinephrine/) complexes); protein:lipid ratio 2:3 |
->>>>>>> d0e2c437136bdf2885afc6a99e0a9d4117821696
 
 <div class="sequence-display">
 <div class="topo-legend">
@@ -750,14 +725,15 @@ The beta-1 adrenergic receptor (beta1 AR) is a G protein-coupled receptor (GPCR)
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">DYKDDDDANIFEMLRIDEGLRLKIYKDTEGYYTIGIGHLLTKSPSLNAAKSELDKAIGRN</span></span>
-<span class="topo-line"><span class="topo-outside">TNGVITKDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVFQMGETGVAG</span></span>
-<span class="topo-line"><span class="topo-outside">FTNSLRMLQQKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWDAYAASQQW</span><span class="topo-membrane">TAGMGL</span></span>
-<span class="topo-line"><span class="topo-membrane">LMALIVLLIVAGNVLVIV</span><span class="topo-inside">AIAKTPRLQTLTNLF</span><span class="topo-membrane">IMSLASADLVMGLLVVPFGATIVV</span><span class="topo-outside">WGR</span></span>
-<span class="topo-line"><span class="topo-outside">WEYGSF</span><span class="topo-membrane">FCELWTSVDVLCVTASIETLCVIA</span><span class="topo-inside">LDRYLAITSPFRYQSLLTRARARG</span><span class="topo-membrane">LVCTVW</span></span>
-<span class="topo-line"><span class="topo-membrane">AISALVSFLPILMHWWR</span><span class="topo-outside">AES</span><span class="topo-unknown">DEARRCYN</span><span class="topo-outside">DPKCC</span><span class="topo-membrane">DFVTNRAYAIASSVVSFYVPLCIMAF</span><span class="topo-inside">V</span></span>
-<span class="topo-line"><span class="topo-inside">YLRVFREAQKQV</span><span class="topo-unknown">KKIDSV</span><span class="topo-inside">ALREQKALKTLG</span><span class="topo-membrane">IIMGVFTLCWLPFFLANVVKAFH</span><span class="topo-outside">REL</span><span class="topo-membrane">VPDR</span></span>
-<span class="topo-line"><span class="topo-membrane">LFVFFNWLGYANSAFNPIIY</span><span class="topo-inside">CRS</span><span class="topo-unknown">PDFRKAFQGLL</span><span class="topo-inside">C</span><span class="topo-unknown">CARRAAR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">DYKDDDDANIFEMLRIDEGLRLKIYKDTEGYYTIGIGHLLTKSPSLNAAKSELDKAIGRNTNGVITKDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVFQMGETGVAG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">FTNSLRMLQQKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWDAYAASQQW</span><span class="topo-membrane">TAGMGLLMALIVLLIVAGNVLVIV</span><span class="topo-inside">AIAKTPRLQTLTNLF</span><span class="topo-membrane">IMSLASADLVMGLLVVPFGATIVV</span><span class="topo-outside">WGR</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">WEYGSF</span><span class="topo-membrane">FCELWTSVDVLCVTASIETLCVIA</span><span class="topo-inside">LDRYLAITSPFRYQSLLTRARARG</span><span class="topo-membrane">LVCTVWAISALVSFLPILMHWWR</span><span class="topo-outside">AES</span><span class="topo-unknown">DEARRCYN</span><span class="topo-outside">DPKCC</span><span class="topo-membrane">DFVTNRAYAIASSVVSFYVPLCIMAF</span><span class="topo-inside">V</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460  </span>
+<span class="topo-line"><span class="topo-inside">YLRVFREAQKQV</span><span class="topo-unknown">KKIDSV</span><span class="topo-inside">ALREQKALKTLG</span><span class="topo-membrane">IIMGVFTLCWLPFFLANVVKAFH</span><span class="topo-outside">REL</span><span class="topo-membrane">VPDRLFVFFNWLGYANSAFNPIIY</span><span class="topo-inside">CRS</span><span class="topo-unknown">PDFRKAFQGLL</span><span class="topo-inside">C</span><span class="topo-unknown">CARRAAR</span></span>
+<details class="topo-details"><summary>Topology coordinates (20 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -909,6 +885,7 @@ The beta-1 adrenergic receptor (beta1 AR) is a G protein-coupled receptor (GPCR)
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

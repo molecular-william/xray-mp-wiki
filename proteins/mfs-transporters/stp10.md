@@ -148,15 +148,17 @@ A. thaliana STP10 is a high-affinity [Glucose](/xray-mp-wiki/reagents/additives/
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAGGAFVSEGGGGGRSYEGG</span><span class="topo-inside">VTAFVIMTC</span><span class="topo-membrane">IVAAMGGLLFGYDLGISG</span><span class="topo-outside">GVTSM</span><span class="topo-unknown">EEFLTKF</span><span class="topo-outside">F</span></span>
-<span class="topo-line"><span class="topo-outside">PQVESQMKKAKHDTAYCKFDNQMLQ</span><span class="topo-membrane">LFTSSLYLAALVASFMASVI</span><span class="topo-inside">TRKHGRK</span><span class="topo-membrane">VSMFIGGL</span></span>
-<span class="topo-line"><span class="topo-membrane">AFLIGALFNAFA</span><span class="topo-outside">VNVS</span><span class="topo-membrane">MLIIGRLLLGVGVGFANQSTPV</span><span class="topo-inside">YLSEMAPAKIRG</span><span class="topo-membrane">ALNIGFQMAI</span></span>
-<span class="topo-line"><span class="topo-membrane">TIGILVANLIN</span><span class="topo-outside">YGTSKMAQHGWR</span><span class="topo-membrane">VSLGLAAVPAVVMVIGSF</span><span class="topo-inside">ILPDTPNSMLERGKNEEAK</span></span>
-<span class="topo-line"><span class="topo-inside">QMLKKIRGADNVDHEFQDLIDAVEAAKKVENPWKNIMESKYRPAL</span><span class="topo-membrane">IFCSAIPFFQQITGI</span></span>
-<span class="topo-line"><span class="topo-membrane">NVIMF</span><span class="topo-outside">YAPVLFKTLGFGDDAALMSA</span><span class="topo-membrane">VITGVVNMLSTFVSIYAV</span><span class="topo-inside">DRYG</span><span class="topo-membrane">RRLLFLEGGIQMF</span></span>
-<span class="topo-line"><span class="topo-membrane">ICQLLV</span><span class="topo-outside">GSFIGARFGTSGTGTLTPATADWIL</span><span class="topo-membrane">AFICVYVAGFAWSWGPLGWLVPS</span><span class="topo-inside">EICPLE</span></span>
-<span class="topo-line"><span class="topo-inside">IRPA</span><span class="topo-membrane">GQAINVSVNMFFTFLIGQFF</span><span class="topo-outside">LTMLCHMKFGL</span><span class="topo-membrane">FYFFASMVAIMTVFIYFLL</span><span class="topo-inside">PETKGV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAGGAFVSEGGGGGRSYEGG</span><span class="topo-inside">VTAFVIMTC</span><span class="topo-membrane">IVAAMGGLLFGYDLGISG</span><span class="topo-outside">GVTSM</span><span class="topo-unknown">EEFLTKF</span><span class="topo-outside">FPQVESQMKKAKHDTAYCKFDNQMLQ</span><span class="topo-membrane">LFTSSLYLAALVASFMASVI</span><span class="topo-inside">TRKHGRK</span><span class="topo-membrane">VSMFIGGL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">AFLIGALFNAFA</span><span class="topo-outside">VNVS</span><span class="topo-membrane">MLIIGRLLLGVGVGFANQSTPV</span><span class="topo-inside">YLSEMAPAKIRG</span><span class="topo-membrane">ALNIGFQMAITIGILVANLIN</span><span class="topo-outside">YGTSKMAQHGWR</span><span class="topo-membrane">VSLGLAAVPAVVMVIGSF</span><span class="topo-inside">ILPDTPNSMLERGKNEEAK</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">QMLKKIRGADNVDHEFQDLIDAVEAAKKVENPWKNIMESKYRPAL</span><span class="topo-membrane">IFCSAIPFFQQITGINVIMF</span><span class="topo-outside">YAPVLFKTLGFGDDAALMSA</span><span class="topo-membrane">VITGVVNMLSTFVSIYAV</span><span class="topo-inside">DRYG</span><span class="topo-membrane">RRLLFLEGGIQMF</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">ICQLLV</span><span class="topo-outside">GSFIGARFGTSGTGTLTPATADWIL</span><span class="topo-membrane">AFICVYVAGFAWSWGPLGWLVPS</span><span class="topo-inside">EICPLEIRPA</span><span class="topo-membrane">GQAINVSVNMFFTFLIGQFF</span><span class="topo-outside">LTMLCHMKFGL</span><span class="topo-membrane">FYFFASMVAIMTVFIYFLL</span><span class="topo-inside">PETKGV</span></span>
+<span class="topo-ruler">       490       500       510    </span>
 <span class="topo-line"><span class="topo-inside">PIEEMGRVWKQHWFWKKYIPEDAIIGG</span><span class="topo-unknown">HDDNNTN</span></span>
+<details class="topo-details"><summary>Topology coordinates (27 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -357,6 +359,7 @@ A. thaliana STP10 is a high-affinity [Glucose](/xray-mp-wiki/reagents/additives/
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -372,15 +375,17 @@ A. thaliana STP10 is a high-affinity [Glucose](/xray-mp-wiki/reagents/additives/
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAGGAFVSEGGGGGR</span><span class="topo-inside">SYEGGVTAFVIM</span><span class="topo-membrane">TCIVAAMGGLLFGYDLGISGGV</span><span class="topo-outside">TSM</span><span class="topo-unknown">EEFLTKF</span><span class="topo-outside">F</span></span>
-<span class="topo-line"><span class="topo-outside">PQVESQMKKAKHDTAYCKFDNQMLQ</span><span class="topo-membrane">LFTSSLYLAALVASFMASVI</span><span class="topo-inside">TRKHGRK</span><span class="topo-membrane">VSMFIGGL</span></span>
-<span class="topo-line"><span class="topo-membrane">AFLIGALFNAFA</span><span class="topo-outside">VNVS</span><span class="topo-membrane">MLIIGRLLLGVGVGFANQSTP</span><span class="topo-inside">VYLSQMAPAKIRGALNI</span><span class="topo-membrane">GFQMAI</span></span>
-<span class="topo-line"><span class="topo-membrane">TIGILVANLINYGT</span><span class="topo-outside">SKMAQHGW</span><span class="topo-membrane">RVSLGLAAVPAVVMVIGSFI</span><span class="topo-inside">LPDTPNSMLERGKNEEAK</span></span>
-<span class="topo-line"><span class="topo-inside">QMLKKIRGADNVDHEFQDLIDAVEAAKKVENPWKNIMESKYRPALI</span><span class="topo-membrane">FCSAIPFFQQITGI</span></span>
-<span class="topo-line"><span class="topo-membrane">NVIMFYAP</span><span class="topo-outside">VLFKTLGFGDDAAL</span><span class="topo-membrane">MSAVITGVVNMLSTFVSIYAV</span><span class="topo-inside">NRYGR</span><span class="topo-membrane">RLLFLEGGIQMF</span></span>
-<span class="topo-line"><span class="topo-membrane">ICQLLVGS</span><span class="topo-outside">FIGARFGTSGTGTLTPATAD</span><span class="topo-membrane">WILAFICVYVAGFAWSWGPLGWL</span><span class="topo-inside">VPSEICPLE</span></span>
-<span class="topo-line"><span class="topo-inside">IRPAGQ</span><span class="topo-membrane">AINVSVNMFFTFLIGQFFL</span><span class="topo-outside">TMLCHMKFG</span><span class="topo-membrane">LFYFFASMVAIMTVFIYFLL</span><span class="topo-inside">PETKGV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAGGAFVSEGGGGGR</span><span class="topo-inside">SYEGGVTAFVIM</span><span class="topo-membrane">TCIVAAMGGLLFGYDLGISGGV</span><span class="topo-outside">TSM</span><span class="topo-unknown">EEFLTKF</span><span class="topo-outside">FPQVESQMKKAKHDTAYCKFDNQMLQ</span><span class="topo-membrane">LFTSSLYLAALVASFMASVI</span><span class="topo-inside">TRKHGRK</span><span class="topo-membrane">VSMFIGGL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">AFLIGALFNAFA</span><span class="topo-outside">VNVS</span><span class="topo-membrane">MLIIGRLLLGVGVGFANQSTP</span><span class="topo-inside">VYLSQMAPAKIRGALNI</span><span class="topo-membrane">GFQMAITIGILVANLINYGT</span><span class="topo-outside">SKMAQHGW</span><span class="topo-membrane">RVSLGLAAVPAVVMVIGSFI</span><span class="topo-inside">LPDTPNSMLERGKNEEAK</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">QMLKKIRGADNVDHEFQDLIDAVEAAKKVENPWKNIMESKYRPALI</span><span class="topo-membrane">FCSAIPFFQQITGINVIMFYAP</span><span class="topo-outside">VLFKTLGFGDDAAL</span><span class="topo-membrane">MSAVITGVVNMLSTFVSIYAV</span><span class="topo-inside">NRYGR</span><span class="topo-membrane">RLLFLEGGIQMF</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">ICQLLVGS</span><span class="topo-outside">FIGARFGTSGTGTLTPATAD</span><span class="topo-membrane">WILAFICVYVAGFAWSWGPLGWL</span><span class="topo-inside">VPSEICPLEIRPAGQ</span><span class="topo-membrane">AINVSVNMFFTFLIGQFFL</span><span class="topo-outside">TMLCHMKFG</span><span class="topo-membrane">LFYFFASMVAIMTVFIYFLL</span><span class="topo-inside">PETKGV</span></span>
+<span class="topo-ruler">       490       500       510    </span>
 <span class="topo-line"><span class="topo-inside">PIEEMGRVWKQHWFWKKYIP</span><span class="topo-unknown">EDAIIGGHDDNNTN</span></span>
+<details class="topo-details"><summary>Topology coordinates (27 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -581,6 +586,7 @@ A. thaliana STP10 is a high-affinity [Glucose](/xray-mp-wiki/reagents/additives/
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -630,15 +636,17 @@ A. thaliana STP10 is a high-affinity [Glucose](/xray-mp-wiki/reagents/additives/
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAAGGAFVSEGGGGGRSYEGG</span><span class="topo-inside">VTAFVIMTC</span><span class="topo-membrane">IVAAMGGLLFGYDLGISG</span><span class="topo-outside">GVTSM</span><span class="topo-unknown">EEFLTKF</span></span>
-<span class="topo-line"><span class="topo-outside">FPQVESQMKKAKHDTAYCKFDNQMLQL</span><span class="topo-membrane">FTSSLYLAALVASFMASVIT</span><span class="topo-inside">RKHGR</span><span class="topo-membrane">KVSMFIGG</span></span>
-<span class="topo-line"><span class="topo-membrane">LAFLIGALFNAFA</span><span class="topo-outside">VNVS</span><span class="topo-membrane">MLIIGRLLLGVGVGFANQSTPV</span><span class="topo-inside">YLSEMAPAKIRG</span><span class="topo-membrane">ALNIGFQMA</span></span>
-<span class="topo-line"><span class="topo-membrane">ITIGILVANLIN</span><span class="topo-outside">YGTSKMAQHGWR</span><span class="topo-membrane">VSLGLAAVPAVVMVIGSF</span><span class="topo-inside">ILPDTPNSMLERGKNEEA</span></span>
-<span class="topo-line"><span class="topo-inside">KQMLKKIRGADNVDHEFQDLIDAVEAAKKVENPWKNIMESKYR</span><span class="topo-membrane">PALIFCSAIPFFQQITG</span></span>
-<span class="topo-line"><span class="topo-membrane">INVIMF</span><span class="topo-outside">YAPVLFKTLGFGDDAALMS</span><span class="topo-membrane">AVITGVVNMLSTFVSIYAV</span><span class="topo-inside">DRY</span><span class="topo-membrane">GRRLLFLEGGIQM</span></span>
-<span class="topo-line"><span class="topo-membrane">FICQLLV</span><span class="topo-outside">GSFIGARFGTSGTGTLTPATADWIL</span><span class="topo-membrane">AFICVYVAGFAWSWGPLGWLVPS</span><span class="topo-inside">EICPL</span></span>
-<span class="topo-line"><span class="topo-inside">EIRP</span><span class="topo-membrane">AGQAINVSVNMFFTFLIGQFF</span><span class="topo-outside">LTMLCHMKFGL</span><span class="topo-membrane">FYFFASMVAIMTVFIYFLL</span><span class="topo-inside">PETKG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAAGGAFVSEGGGGGRSYEGG</span><span class="topo-inside">VTAFVIMTC</span><span class="topo-membrane">IVAAMGGLLFGYDLGISG</span><span class="topo-outside">GVTSM</span><span class="topo-unknown">EEFLTKF</span><span class="topo-outside">FPQVESQMKKAKHDTAYCKFDNQMLQL</span><span class="topo-membrane">FTSSLYLAALVASFMASVIT</span><span class="topo-inside">RKHGR</span><span class="topo-membrane">KVSMFIGG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">LAFLIGALFNAFA</span><span class="topo-outside">VNVS</span><span class="topo-membrane">MLIIGRLLLGVGVGFANQSTPV</span><span class="topo-inside">YLSEMAPAKIRG</span><span class="topo-membrane">ALNIGFQMAITIGILVANLIN</span><span class="topo-outside">YGTSKMAQHGWR</span><span class="topo-membrane">VSLGLAAVPAVVMVIGSF</span><span class="topo-inside">ILPDTPNSMLERGKNEEA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">KQMLKKIRGADNVDHEFQDLIDAVEAAKKVENPWKNIMESKYR</span><span class="topo-membrane">PALIFCSAIPFFQQITGINVIMF</span><span class="topo-outside">YAPVLFKTLGFGDDAALMS</span><span class="topo-membrane">AVITGVVNMLSTFVSIYAV</span><span class="topo-inside">DRY</span><span class="topo-membrane">GRRLLFLEGGIQM</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">FICQLLV</span><span class="topo-outside">GSFIGARFGTSGTGTLTPATADWIL</span><span class="topo-membrane">AFICVYVAGFAWSWGPLGWLVPS</span><span class="topo-inside">EICPLEIRP</span><span class="topo-membrane">AGQAINVSVNMFFTFLIGQFF</span><span class="topo-outside">LTMLCHMKFGL</span><span class="topo-membrane">FYFFASMVAIMTVFIYFLL</span><span class="topo-inside">PETKG</span></span>
+<span class="topo-ruler">       490       500       510       520 </span>
 <span class="topo-line"><span class="topo-inside">VPIEEMGRVWKQHWFWKKYIPEDAIIGG</span><span class="topo-unknown">HDDNNTNPGLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (27 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -839,6 +847,7 @@ A. thaliana STP10 is a high-affinity [Glucose](/xray-mp-wiki/reagents/additives/
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

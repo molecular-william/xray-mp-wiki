@@ -135,15 +135,17 @@ The Drosophila melanogaster [DOPAMINE](/xray-mp-wiki/reagents/ligands/dopamine) 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">DERETWSGKVDFL</span><span class="topo-membrane">LSVIGFAVDLANVWRFP</span><span class="topo-inside">YLCYKNGGG</span><span class="topo-membrane">AFLVPYGIMLAVGGIPLF</span><span class="topo-outside">YME</span></span>
-<span class="topo-line"><span class="topo-outside">LALGQHNRKGAITCWGRLVPLFKGIGYA</span><span class="topo-membrane">VVLIAFYVDFYYNVIIAWSL</span><span class="topo-inside">RFFFASFTNSLP</span></span>
-<span class="topo-line"><span class="topo-inside">WTSCNNIWNTPNCRPFESQGFQSAASEYFNRYILELNRSEGIHDLGAIKWDM</span><span class="topo-membrane">ALCLLIVY</span></span>
-<span class="topo-line"><span class="topo-membrane">LICYFSLW</span><span class="topo-outside">KGIST</span><span class="topo-membrane">SGKVVWFTALFPYAALLI</span><span class="topo-inside">LLIRGLTLPGSFLGIQYYLTPNF</span><span class="topo-membrane">SAIYKA</span></span>
-<span class="topo-line"><span class="topo-membrane">EVWADAATQVFFSLGPGFGVL</span><span class="topo-outside">LAYASYNKYHNNVYKDA</span><span class="topo-membrane">LLTSFINSATSFIAGF</span><span class="topo-inside">VIFSVL</span></span>
-<span class="topo-line"><span class="topo-inside">GYMAHTLGVRIEDVATEGPGLVFVVYPAAIATMPASTFWALI</span><span class="topo-membrane">FFMMLATLGLDSSFGGSE</span></span>
-<span class="topo-line"><span class="topo-membrane">AI</span><span class="topo-outside">ITALSDEFPKIKRNRELF</span><span class="topo-membrane">VAGLFSLYFVVGLASC</span><span class="topo-inside">TQGGFYF</span><span class="topo-membrane">FHLLDRYAAGYSILVAV</span></span>
-<span class="topo-line"><span class="topo-membrane">F</span><span class="topo-outside">FEAIAVSWIYGTNRFSEDIRDMIGFPPG</span><span class="topo-unknown">RYWQVCWR</span><span class="topo-outside">FV</span><span class="topo-membrane">APIFLLFITVYLLIGYEPL</span><span class="topo-inside">TY</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">DERETWSGKVDFL</span><span class="topo-membrane">LSVIGFAVDLANVWRFP</span><span class="topo-inside">YLCYKNGGG</span><span class="topo-membrane">AFLVPYGIMLAVGGIPLF</span><span class="topo-outside">YMELALGQHNRKGAITCWGRLVPLFKGIGYA</span><span class="topo-membrane">VVLIAFYVDFYYNVIIAWSL</span><span class="topo-inside">RFFFASFTNSLP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">WTSCNNIWNTPNCRPFESQGFQSAASEYFNRYILELNRSEGIHDLGAIKWDM</span><span class="topo-membrane">ALCLLIVYLICYFSLW</span><span class="topo-outside">KGIST</span><span class="topo-membrane">SGKVVWFTALFPYAALLI</span><span class="topo-inside">LLIRGLTLPGSFLGIQYYLTPNF</span><span class="topo-membrane">SAIYKA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">EVWADAATQVFFSLGPGFGVL</span><span class="topo-outside">LAYASYNKYHNNVYKDA</span><span class="topo-membrane">LLTSFINSATSFIAGF</span><span class="topo-inside">VIFSVLGYMAHTLGVRIEDVATEGPGLVFVVYPAAIATMPASTFWALI</span><span class="topo-membrane">FFMMLATLGLDSSFGGSE</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">AI</span><span class="topo-outside">ITALSDEFPKIKRNRELF</span><span class="topo-membrane">VAGLFSLYFVVGLASC</span><span class="topo-inside">TQGGFYF</span><span class="topo-membrane">FHLLDRYAAGYSILVAVF</span><span class="topo-outside">FEAIAVSWIYGTNRFSEDIRDMIGFPPG</span><span class="topo-unknown">RYWQVCWR</span><span class="topo-outside">FV</span><span class="topo-membrane">APIFLLFITVYLLIGYEPL</span><span class="topo-inside">TY</span></span>
+<span class="topo-ruler">       490       500       510       520       530  </span>
 <span class="topo-line"><span class="topo-inside">ADYVYPS</span><span class="topo-membrane">WANALGWCIAGSSVVM</span><span class="topo-outside">IPAVAIFKLLSTPGSLRQRFTILTTPWRD</span></span>
+<details class="topo-details"><summary>Topology coordinates (27 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -344,6 +346,7 @@ The Drosophila melanogaster [DOPAMINE](/xray-mp-wiki/reagents/ligands/dopamine) 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -359,15 +362,17 @@ The Drosophila melanogaster [DOPAMINE](/xray-mp-wiki/reagents/ligands/dopamine) 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">DERETWSGKV</span><span class="topo-membrane">DFLLSVIGFAVDLANVWRFPYLC</span><span class="topo-inside">YKNGG</span><span class="topo-membrane">GAFLVPYGIMLAVGGIPLFYME</span></span>
-<span class="topo-line"><span class="topo-membrane">L</span><span class="topo-outside">ALGQHNRKGAITCWGRLVPLFKG</span><span class="topo-membrane">IGYAVVLIAFYVDFYYNVIIAWSLRFFF</span><span class="topo-inside">ASFTNSLP</span></span>
-<span class="topo-line"><span class="topo-inside">WTSCNNIWNTPNCRPFEGHVEGFQSAASEYFNRYILELNRSEGIHDLGAIKW</span><span class="topo-membrane">DMALCLLI</span></span>
-<span class="topo-line"><span class="topo-membrane">VYLICYFSLW</span><span class="topo-outside">KGIST</span><span class="topo-membrane">SGKVVWFTALFPYAVLLILLIRGL</span><span class="topo-inside">TLPGSFLGIQYYLTPNFSAI</span><span class="topo-membrane">Y</span></span>
-<span class="topo-line"><span class="topo-membrane">KAEVWVDAATQVFFSLGPGFGVLLAY</span><span class="topo-outside">ASYNKYHNNVYKD</span><span class="topo-membrane">ALLTSFINSATSFIAGFVI</span><span class="topo-inside">FS</span></span>
-<span class="topo-line"><span class="topo-inside">VLGYMAHTLGVRIEDVATEGPGLVFVVYPAAIATMPASTF</span><span class="topo-membrane">WALIFFMMLATLGLDSSFGG</span></span>
-<span class="topo-line"><span class="topo-membrane">SEAIITAL</span><span class="topo-outside">SDEFPKIKRNRE</span><span class="topo-membrane">LFVAGLFSLYFVVGLASC</span><span class="topo-inside">TQGGFYF</span><span class="topo-membrane">FHLLDRYAAGYSILV</span></span>
-<span class="topo-line"><span class="topo-membrane">AVFFEAIA</span><span class="topo-outside">VSWIYGTNRFSEDIRDMIGFPPGRYWQV</span><span class="topo-membrane">CWRFVAPIFLLFITVYGLIGY</span><span class="topo-inside">EPL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">DERETWSGKV</span><span class="topo-membrane">DFLLSVIGFAVDLANVWRFPYLC</span><span class="topo-inside">YKNGG</span><span class="topo-membrane">GAFLVPYGIMLAVGGIPLFYMEL</span><span class="topo-outside">ALGQHNRKGAITCWGRLVPLFKG</span><span class="topo-membrane">IGYAVVLIAFYVDFYYNVIIAWSLRFFF</span><span class="topo-inside">ASFTNSLP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">WTSCNNIWNTPNCRPFEGHVEGFQSAASEYFNRYILELNRSEGIHDLGAIKW</span><span class="topo-membrane">DMALCLLIVYLICYFSLW</span><span class="topo-outside">KGIST</span><span class="topo-membrane">SGKVVWFTALFPYAVLLILLIRGL</span><span class="topo-inside">TLPGSFLGIQYYLTPNFSAI</span><span class="topo-membrane">Y</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">KAEVWVDAATQVFFSLGPGFGVLLAY</span><span class="topo-outside">ASYNKYHNNVYKD</span><span class="topo-membrane">ALLTSFINSATSFIAGFVI</span><span class="topo-inside">FSVLGYMAHTLGVRIEDVATEGPGLVFVVYPAAIATMPASTF</span><span class="topo-membrane">WALIFFMMLATLGLDSSFGG</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">SEAIITAL</span><span class="topo-outside">SDEFPKIKRNRE</span><span class="topo-membrane">LFVAGLFSLYFVVGLASC</span><span class="topo-inside">TQGGFYF</span><span class="topo-membrane">FHLLDRYAAGYSILVAVFFEAIA</span><span class="topo-outside">VSWIYGTNRFSEDIRDMIGFPPGRYWQV</span><span class="topo-membrane">CWRFVAPIFLLFITVYGLIGY</span><span class="topo-inside">EPL</span></span>
+<span class="topo-ruler">       490       500       510       520       530      </span>
 <span class="topo-line"><span class="topo-inside">TYADYVYPSWA</span><span class="topo-membrane">NALGWCIAGSSVVMIPAVAIF</span><span class="topo-outside">KLLSTPGSLRQRFTILTTPWRDQQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (26 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -561,6 +566,7 @@ The Drosophila melanogaster [DOPAMINE](/xray-mp-wiki/reagents/ligands/dopamine) 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -636,9 +642,11 @@ The Drosophila melanogaster [DOPAMINE](/xray-mp-wiki/reagents/ligands/dopamine) 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHGS</span><span class="topo-outside">ALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLI</span></span>
-<span class="topo-line"><span class="topo-inside">TY</span><span class="topo-unknown">PRALFWSVETATTVGYG</span><span class="topo-inside">DLYPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVTAALA</span><span class="topo-outside">TWFVGREQE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHGS</span><span class="topo-outside">ALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALFWSVETATTVGYG</span><span class="topo-inside">DLYPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVTAALA</span><span class="topo-outside">TWFVGREQE</span></span>
+<span class="topo-ruler">     </span>
 <span class="topo-line"><span class="topo-outside">RRGHF</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -699,6 +707,7 @@ The Drosophila melanogaster [DOPAMINE](/xray-mp-wiki/reagents/ligands/dopamine) 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -714,9 +723,11 @@ The Drosophila melanogaster [DOPAMINE](/xray-mp-wiki/reagents/ligands/dopamine) 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHGS</span><span class="topo-outside">ALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLI</span></span>
-<span class="topo-line"><span class="topo-inside">TY</span><span class="topo-unknown">PRALFWSVETATTVGYG</span><span class="topo-inside">DLYPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVTAALA</span><span class="topo-outside">TWFVGREQE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHGS</span><span class="topo-outside">ALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALFWSVETATTVGYG</span><span class="topo-inside">DLYPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVTAALA</span><span class="topo-outside">TWFVGREQE</span></span>
+<span class="topo-ruler">     </span>
 <span class="topo-line"><span class="topo-outside">RRGHF</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -777,6 +788,7 @@ The Drosophila melanogaster [DOPAMINE](/xray-mp-wiki/reagents/ligands/dopamine) 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -792,9 +804,11 @@ The Drosophila melanogaster [DOPAMINE](/xray-mp-wiki/reagents/ligands/dopamine) 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHGS</span><span class="topo-outside">ALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLI</span></span>
-<span class="topo-line"><span class="topo-inside">TY</span><span class="topo-unknown">PRALFWSVETATTVGYG</span><span class="topo-inside">DLYPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVTAALA</span><span class="topo-outside">TWFVGREQE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHGS</span><span class="topo-outside">ALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALFWSVETATTVGYG</span><span class="topo-inside">DLYPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVTAALA</span><span class="topo-outside">TWFVGREQE</span></span>
+<span class="topo-ruler">     </span>
 <span class="topo-line"><span class="topo-outside">RRGHF</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -855,6 +869,7 @@ The Drosophila melanogaster [DOPAMINE](/xray-mp-wiki/reagents/ligands/dopamine) 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -870,9 +885,11 @@ The Drosophila melanogaster [DOPAMINE](/xray-mp-wiki/reagents/ligands/dopamine) 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHGS</span><span class="topo-outside">ALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLI</span></span>
-<span class="topo-line"><span class="topo-inside">TY</span><span class="topo-unknown">PRALFWSVETATTVGYG</span><span class="topo-inside">DLYPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVTAALA</span><span class="topo-outside">TWFVGREQE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHGS</span><span class="topo-outside">ALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALFWSVETATTVGYG</span><span class="topo-inside">DLYPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVTAALA</span><span class="topo-outside">TWFVGREQE</span></span>
+<span class="topo-ruler">     </span>
 <span class="topo-line"><span class="topo-outside">RRGHF</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -933,6 +950,7 @@ The Drosophila melanogaster [DOPAMINE](/xray-mp-wiki/reagents/ligands/dopamine) 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -948,8 +966,9 @@ The Drosophila melanogaster [DOPAMINE](/xray-mp-wiki/reagents/ligands/dopamine) 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">WR</span><span class="topo-membrane">CAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALFWSVETATTVGYG</span><span class="topo-inside">DLYPVT</span></span>
-<span class="topo-line"><span class="topo-inside">L</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVTAALATWFV</span><span class="topo-outside">GQCQQQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90      </span>
+<span class="topo-line"><span class="topo-outside">WR</span><span class="topo-membrane">CAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALFWSVETATTVGYG</span><span class="topo-inside">DLYPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVTAALATWFV</span><span class="topo-outside">GQCQQQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1010,6 +1029,7 @@ The Drosophila melanogaster [DOPAMINE](/xray-mp-wiki/reagents/ligands/dopamine) 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1025,8 +1045,9 @@ The Drosophila melanogaster [DOPAMINE](/xray-mp-wiki/reagents/ligands/dopamine) 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">WR</span><span class="topo-membrane">CAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALFWSVETATTVGYG</span><span class="topo-inside">DLYPVT</span></span>
-<span class="topo-line"><span class="topo-inside">L</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVTAALATWFV</span><span class="topo-outside">GQCQQQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90      </span>
+<span class="topo-line"><span class="topo-outside">WR</span><span class="topo-membrane">CAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALFWSVETATTVGYG</span><span class="topo-inside">DLYPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVTAALATWFV</span><span class="topo-outside">GQCQQQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1087,6 +1108,7 @@ The Drosophila melanogaster [DOPAMINE](/xray-mp-wiki/reagents/ligands/dopamine) 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1102,8 +1124,9 @@ The Drosophila melanogaster [DOPAMINE](/xray-mp-wiki/reagents/ligands/dopamine) 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">WR</span><span class="topo-membrane">CAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALFWSVETATTVGYG</span><span class="topo-inside">DLYPVT</span></span>
-<span class="topo-line"><span class="topo-inside">L</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVTAALATWFV</span><span class="topo-outside">GQCQQQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90      </span>
+<span class="topo-line"><span class="topo-outside">WR</span><span class="topo-membrane">CAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALFWSVETATTVGYG</span><span class="topo-inside">DLYPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVTAALATWFV</span><span class="topo-outside">GQCQQQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1164,6 +1187,7 @@ The Drosophila melanogaster [DOPAMINE](/xray-mp-wiki/reagents/ligands/dopamine) 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1179,8 +1203,9 @@ The Drosophila melanogaster [DOPAMINE](/xray-mp-wiki/reagents/ligands/dopamine) 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">WR</span><span class="topo-membrane">CAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALFWSVETATTVGYG</span><span class="topo-inside">DLYPVT</span></span>
-<span class="topo-line"><span class="topo-inside">L</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVTAALATWFV</span><span class="topo-outside">GQCQQQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90      </span>
+<span class="topo-line"><span class="topo-outside">WR</span><span class="topo-membrane">CAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALFWSVETATTVGYG</span><span class="topo-inside">DLYPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVTAALATWFV</span><span class="topo-outside">GQCQQQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1241,6 +1266,7 @@ The Drosophila melanogaster [DOPAMINE](/xray-mp-wiki/reagents/ligands/dopamine) 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

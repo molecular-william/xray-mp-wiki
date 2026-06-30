@@ -138,14 +138,15 @@ than rigid-body domain rotation.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MALQNEKNSRY</span><span class="topo-outside">LLRDWKPENPAFWENKGKHIARRNLWISV</span><span class="topo-membrane">SCLLLAFCVWMLFSAVTVNL</span></span>
-<span class="topo-line"><span class="topo-inside">NKIGFNFTT</span><span class="topo-membrane">DQLFLLTALPSVSGALLR</span><span class="topo-outside">VPYSFMVPIFGGRRWTVF</span><span class="topo-membrane">STAILIIPCVWLGIA</span></span>
-<span class="topo-line"><span class="topo-membrane">VQN</span><span class="topo-inside">PNT</span><span class="topo-membrane">PFGIFIVIALLCGFAGANF</span><span class="topo-outside">ASSMGNISFFFPKAKQGSALGING</span><span class="topo-membrane">GLGNLGVSVMQ</span></span>
-<span class="topo-line"><span class="topo-membrane">LVAPLVIFV</span><span class="topo-inside">PVFAFLGVNGVPQADGSVMS</span><span class="topo-membrane">LANAAWIWVPLLAIATIA</span><span class="topo-outside">AWSGMNDI</span><span class="topo-unknown">ASSRA</span></span>
-<span class="topo-line"><span class="topo-unknown">S</span><span class="topo-outside">IADQLPVLQRLHLWL</span><span class="topo-membrane">LSLLYLATFGSFIGFSAGFAMLA</span><span class="topo-inside">KTQFPDVNI</span><span class="topo-membrane">LRLAFFGPFIGA</span></span>
-<span class="topo-line"><span class="topo-membrane">IARSVGG</span><span class="topo-outside">AISDKFGGVR</span><span class="topo-membrane">VTLINFIFMAIFSALLFLT</span><span class="topo-inside">LPGTGSGNFI</span><span class="topo-membrane">AFYAVFMGLFLTAG</span></span>
-<span class="topo-line"><span class="topo-membrane">LGSGST</span><span class="topo-outside">FQMIAVIFRQITIYR</span><span class="topo-unknown">VKMKGGSDEQ</span><span class="topo-outside">AHKEAVTETAAALGFI</span><span class="topo-membrane">SAIGAVGGFFIPQ</span></span>
-<span class="topo-line"><span class="topo-membrane">AFGMSLNM</span><span class="topo-inside">TGSP</span><span class="topo-membrane">VGAMKVFLIFYIVCVLLTWL</span><span class="topo-outside">VY</span><span class="topo-unknown">GRRKFSQKLEVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MALQNEKNSRY</span><span class="topo-outside">LLRDWKPENPAFWENKGKHIARRNLWISV</span><span class="topo-membrane">SCLLLAFCVWMLFSAVTVNL</span><span class="topo-inside">NKIGFNFTT</span><span class="topo-membrane">DQLFLLTALPSVSGALLR</span><span class="topo-outside">VPYSFMVPIFGGRRWTVF</span><span class="topo-membrane">STAILIIPCVWLGIA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">VQN</span><span class="topo-inside">PNT</span><span class="topo-membrane">PFGIFIVIALLCGFAGANF</span><span class="topo-outside">ASSMGNISFFFPKAKQGSALGING</span><span class="topo-membrane">GLGNLGVSVMQLVAPLVIFV</span><span class="topo-inside">PVFAFLGVNGVPQADGSVMS</span><span class="topo-membrane">LANAAWIWVPLLAIATIA</span><span class="topo-outside">AWSGMNDI</span><span class="topo-unknown">ASSRA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-unknown">S</span><span class="topo-outside">IADQLPVLQRLHLWL</span><span class="topo-membrane">LSLLYLATFGSFIGFSAGFAMLA</span><span class="topo-inside">KTQFPDVNI</span><span class="topo-membrane">LRLAFFGPFIGAIARSVGG</span><span class="topo-outside">AISDKFGGVR</span><span class="topo-membrane">VTLINFIFMAIFSALLFLT</span><span class="topo-inside">LPGTGSGNFI</span><span class="topo-membrane">AFYAVFMGLFLTAG</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460        </span>
+<span class="topo-line"><span class="topo-membrane">LGSGST</span><span class="topo-outside">FQMIAVIFRQITIYR</span><span class="topo-unknown">VKMKGGSDEQ</span><span class="topo-outside">AHKEAVTETAAALGFI</span><span class="topo-membrane">SAIGAVGGFFIPQAFGMSLNM</span><span class="topo-inside">TGSP</span><span class="topo-membrane">VGAMKVFLIFYIVCVLLTWL</span><span class="topo-outside">VY</span><span class="topo-unknown">GRRKFSQKLEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (31 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -374,6 +375,7 @@ than rigid-body domain rotation.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

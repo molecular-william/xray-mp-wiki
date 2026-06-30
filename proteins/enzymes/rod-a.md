@@ -140,12 +140,13 @@ RodA is a 359-residue transmembrane peptidoglycan polymerase from the Shape, Elo
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAPAR</span><span class="topo-inside">PNWLAYD</span><span class="topo-membrane">WGLVFLVAAIVAL</span><span class="topo-outside">GFVNLGSAAPDPVLLYRQSVA</span><span class="topo-membrane">LGLGLLLAFLLQFL</span></span>
-<span class="topo-line"><span class="topo-inside">SRRRLFG</span><span class="topo-membrane">LAYPLYGASLLLLAL</span><span class="topo-outside">VLVVGREINGARAWFVLGPLQ</span><span class="topo-membrane">FQPLELAKLGLLL</span><span class="topo-inside">ALAK</span></span>
-<span class="topo-line"><span class="topo-inside">ALEGRPIARVWDYALP</span><span class="topo-membrane">ALLTLPVVGLLLL</span><span class="topo-outside">QP</span><span class="topo-membrane">DLGGALVVLFGVFV</span><span class="topo-inside">VVFVRGLPW</span><span class="topo-membrane">RHLLVG</span></span>
-<span class="topo-line"><span class="topo-membrane">LFALALL</span><span class="topo-outside">V</span><span class="topo-unknown">PTAVWPNLKPYQRERVLIVLDPYRDPLGQGFQVIQSTIA</span><span class="topo-outside">IGSGGLFGK</span><span class="topo-unknown">GYGQ</span></span>
-<span class="topo-line"><span class="topo-unknown">GTQAQLGFIPF</span><span class="topo-outside">RHTDFVFSVWAEEWGFVG</span><span class="topo-membrane">VVGLLGLYGLLLARL</span><span class="topo-inside">FALALACPRLSDRLFL</span></span>
-<span class="topo-line"><span class="topo-membrane">SGFAGMLGFQVVVNLG</span><span class="topo-outside">VALG</span><span class="topo-unknown">V</span><span class="topo-outside">MPVTGLTLPLFSYGG</span><span class="topo-membrane">SSLIATLAGLGLVLL</span><span class="topo-inside">VHRDRYQD</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAPAR</span><span class="topo-inside">PNWLAYD</span><span class="topo-membrane">WGLVFLVAAIVAL</span><span class="topo-outside">GFVNLGSAAPDPVLLYRQSVA</span><span class="topo-membrane">LGLGLLLAFLLQFL</span><span class="topo-inside">SRRRLFG</span><span class="topo-membrane">LAYPLYGASLLLLAL</span><span class="topo-outside">VLVVGREINGARAWFVLGPLQ</span><span class="topo-membrane">FQPLELAKLGLLL</span><span class="topo-inside">ALAK</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">ALEGRPIARVWDYALP</span><span class="topo-membrane">ALLTLPVVGLLLL</span><span class="topo-outside">QP</span><span class="topo-membrane">DLGGALVVLFGVFV</span><span class="topo-inside">VVFVRGLPW</span><span class="topo-membrane">RHLLVGLFALALL</span><span class="topo-outside">V</span><span class="topo-unknown">PTAVWPNLKPYQRERVLIVLDPYRDPLGQGFQVIQSTIA</span><span class="topo-outside">IGSGGLFGK</span><span class="topo-unknown">GYGQ</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350         </span>
+<span class="topo-line"><span class="topo-unknown">GTQAQLGFIPF</span><span class="topo-outside">RHTDFVFSVWAEEWGFVG</span><span class="topo-membrane">VVGLLGLYGLLLARL</span><span class="topo-inside">FALALACPRLSDRLFL</span><span class="topo-membrane">SGFAGMLGFQVVVNLG</span><span class="topo-outside">VALG</span><span class="topo-unknown">V</span><span class="topo-outside">MPVTGLTLPLFSYGG</span><span class="topo-membrane">SSLIATLAGLGLVLL</span><span class="topo-inside">VHRDRYQD</span></span>
+<details class="topo-details"><summary>Topology coordinates (28 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -353,6 +354,7 @@ RodA is a 359-residue transmembrane peptidoglycan polymerase from the Shape, Elo
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -368,12 +370,13 @@ RodA is a 359-residue transmembrane peptidoglycan polymerase from the Shape, Elo
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAPARPN</span><span class="topo-inside">WLAY</span><span class="topo-membrane">DWGLVFLVAAIVALGF</span><span class="topo-outside">VNLGSAAPDPVLLYRQ</span><span class="topo-membrane">SVALGLGLLLAFLLQFL</span></span>
-<span class="topo-line"><span class="topo-inside">S</span><span class="topo-unknown">RRRLFG</span><span class="topo-inside">L</span><span class="topo-membrane">AYPLYGASLLLLALVLVVG</span><span class="topo-outside">REINGARAWFVLGPL</span><span class="topo-membrane">QFQPLELAKLGLLLAL</span><span class="topo-inside">AK</span></span>
-<span class="topo-line"><span class="topo-inside">ALEGRPIARVWDYALP</span><span class="topo-membrane">ALLTLPVVGLLLLQP</span><span class="topo-outside">D</span><span class="topo-membrane">LGGALVVLFGVFVVVF</span><span class="topo-inside">VRGLPW</span><span class="topo-membrane">RHLLVG</span></span>
-<span class="topo-line"><span class="topo-membrane">LFALALLV</span><span class="topo-unknown">PTAVWPNLKPYQRERVLIVLDPYRDPLGQGFQVIQSTIA</span><span class="topo-outside">IGSGGLFGK</span><span class="topo-unknown">GYGQ</span></span>
-<span class="topo-line"><span class="topo-unknown">GTQAQLGFIPF</span><span class="topo-outside">RHT</span><span class="topo-unknown">AFVFSVWAEE</span><span class="topo-outside">WGF</span><span class="topo-membrane">VGVVGLLGLYGLLLARLFAL</span><span class="topo-inside">ALACPRLSDRLF</span><span class="topo-membrane">L</span></span>
-<span class="topo-line"><span class="topo-membrane">SGFAGMLGFQVVVNLGV</span><span class="topo-outside">ALGVMPVTGLTLPLFSYG</span><span class="topo-membrane">GSSLIATLAGLGLVLL</span><span class="topo-inside">VHRDRYQD</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAPARPN</span><span class="topo-inside">WLAY</span><span class="topo-membrane">DWGLVFLVAAIVALGF</span><span class="topo-outside">VNLGSAAPDPVLLYRQ</span><span class="topo-membrane">SVALGLGLLLAFLLQFL</span><span class="topo-inside">S</span><span class="topo-unknown">RRRLFG</span><span class="topo-inside">L</span><span class="topo-membrane">AYPLYGASLLLLALVLVVG</span><span class="topo-outside">REINGARAWFVLGPL</span><span class="topo-membrane">QFQPLELAKLGLLLAL</span><span class="topo-inside">AK</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">ALEGRPIARVWDYALP</span><span class="topo-membrane">ALLTLPVVGLLLLQP</span><span class="topo-outside">D</span><span class="topo-membrane">LGGALVVLFGVFVVVF</span><span class="topo-inside">VRGLPW</span><span class="topo-membrane">RHLLVGLFALALLV</span><span class="topo-unknown">PTAVWPNLKPYQRERVLIVLDPYRDPLGQGFQVIQSTIA</span><span class="topo-outside">IGSGGLFGK</span><span class="topo-unknown">GYGQ</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350         </span>
+<span class="topo-line"><span class="topo-unknown">GTQAQLGFIPF</span><span class="topo-outside">RHT</span><span class="topo-unknown">AFVFSVWAEE</span><span class="topo-outside">WGF</span><span class="topo-membrane">VGVVGLLGLYGLLLARLFAL</span><span class="topo-inside">ALACPRLSDRLF</span><span class="topo-membrane">LSGFAGMLGFQVVVNLGV</span><span class="topo-outside">ALGVMPVTGLTLPLFSYG</span><span class="topo-membrane">GSSLIATLAGLGLVLL</span><span class="topo-inside">VHRDRYQD</span></span>
+<details class="topo-details"><summary>Topology coordinates (26 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -567,6 +570,7 @@ RodA is a 359-residue transmembrane peptidoglycan polymerase from the Shape, Elo
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

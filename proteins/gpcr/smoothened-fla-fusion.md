@@ -188,17 +188,19 @@ The SMO-FLA fusion construct is an engineered human [SMO](/xray-mp-wiki/proteins
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">AVTGPP</span><span class="topo-inside">PPLSHCGRAAPCEPLRYNVCLGSVLPYGATSTLLAGDSDSQEEAHGKLVLWSGL</span></span>
-<span class="topo-line"><span class="topo-inside">RNAPRCWAVIQPLLCAVYMPKCENDRVELPSRTLCQATRGPCAIVERERGWPDFLRCTPD</span></span>
-<span class="topo-line"><span class="topo-inside">RFPEGCTNEVQNIKFNSSGQCMVPLVRTDNPKSWYEDVEGCGIQCQNPLFTEAEHQDMH</span><span class="topo-membrane">S</span></span>
-<span class="topo-line"><span class="topo-membrane">YIAAFGAVTGLCTLFTLATFVADW</span><span class="topo-outside">RNSNRY</span><span class="topo-membrane">PAVILFYVNACFFVGSIGWLAQFMD</span><span class="topo-inside">GARRE</span></span>
-<span class="topo-line"><span class="topo-inside">IVCRADGTMRLGEPTSNETL</span><span class="topo-membrane">SCVIIFVIVYYALMAGVVWFVVLTYAWHTSF</span><span class="topo-outside">KALGTTYQP</span></span>
-<span class="topo-line"><span class="topo-outside">LSG</span><span class="topo-membrane">KTSYFHLLTWSLPFVLTVAILA</span><span class="topo-inside">VAQVDGDSVSGICFVGYKNYRYR</span><span class="topo-membrane">AGFVLAPIGLVL</span></span>
-<span class="topo-line"><span class="topo-membrane">IVGGYFLIRGVMTLFS</span><span class="topo-outside">IKSNHAKALIVYGSTTGNTEYTAETIARELADAGYEVDSRDAAS</span></span>
-<span class="topo-line"><span class="topo-outside">VEAGGLFEGFDLVLLGCSTWGDDSIELQDDFIPLFDSLEETGAQGRKVACFGCGDSSWEY</span></span>
-<span class="topo-line"><span class="topo-outside">FCGAVDAIEEKLKNLGAEIVQDGLRIDGDPRAARDDIVGWAHDVRGAIKINETM</span><span class="topo-membrane">LRLGIF</span></span>
-<span class="topo-line"><span class="topo-membrane">GFLAFGFVLITFSCHF</span><span class="topo-inside">YDFFNQAEWERSFRDYVLCQANVTIGLPTKQPIPDCEIKNRPSL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">AVTGPP</span><span class="topo-inside">PPLSHCGRAAPCEPLRYNVCLGSVLPYGATSTLLAGDSDSQEEAHGKLVLWSGLRNAPRCWAVIQPLLCAVYMPKCENDRVELPSRTLCQATRGPCAIVERERGWPDFLRCTPD</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">RFPEGCTNEVQNIKFNSSGQCMVPLVRTDNPKSWYEDVEGCGIQCQNPLFTEAEHQDMH</span><span class="topo-membrane">SYIAAFGAVTGLCTLFTLATFVADW</span><span class="topo-outside">RNSNRY</span><span class="topo-membrane">PAVILFYVNACFFVGSIGWLAQFMD</span><span class="topo-inside">GARRE</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">IVCRADGTMRLGEPTSNETL</span><span class="topo-membrane">SCVIIFVIVYYALMAGVVWFVVLTYAWHTSF</span><span class="topo-outside">KALGTTYQPLSG</span><span class="topo-membrane">KTSYFHLLTWSLPFVLTVAILA</span><span class="topo-inside">VAQVDGDSVSGICFVGYKNYRYR</span><span class="topo-membrane">AGFVLAPIGLVL</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">IVGGYFLIRGVMTLFS</span><span class="topo-outside">IKSNHAKALIVYGSTTGNTEYTAETIARELADAGYEVDSRDAASVEAGGLFEGFDLVLLGCSTWGDDSIELQDDFIPLFDSLEETGAQGRKVACFGCGDSSWEY</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">FCGAVDAIEEKLKNLGAEIVQDGLRIDGDPRAARDDIVGWAHDVRGAIKINETM</span><span class="topo-membrane">LRLGIFGFLAFGFVLITFSCHF</span><span class="topo-inside">YDFFNQAEWERSFRDYVLCQANVTIGLPTKQPIPDCEIKNRPSL</span></span>
+<span class="topo-ruler">       610       620       630       640       650   </span>
 <span class="topo-line"><span class="topo-inside">LV</span><span class="topo-membrane">EKINLFAMFGTGIAMSTWVWTK</span><span class="topo-outside">ATLLIWRRTWCRLT</span><span class="topo-unknown">GQSDDHHHHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -343,6 +345,7 @@ The SMO-FLA fusion construct is an engineered human [SMO](/xray-mp-wiki/proteins
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -358,17 +361,19 @@ The SMO-FLA fusion construct is an engineered human [SMO](/xray-mp-wiki/proteins
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">PPPLSHCGRAAPCEPLRYNVCLGSVLPYGATSTLLAGDSDSQEEAHGKLVLWSGLRNAPR</span></span>
-<span class="topo-line"><span class="topo-inside">CWAVIQPLLCAVYMPKCENDRVELPSRTLCQATRGPCAIVERERGWPDFLRCTPDRFPEG</span></span>
-<span class="topo-line"><span class="topo-inside">CTNEVQNIKFNSSGQCEVPLVRTDNPKSWYEDVEGCGIQCQNPLFTEAEHQDMHSY</span><span class="topo-membrane">IAAF</span></span>
-<span class="topo-line"><span class="topo-membrane">GAVTGLCTLFTLATFVADW</span><span class="topo-outside">RNSNRYP</span><span class="topo-membrane">AVILFYVNACFFVGSIGWLAQFM</span><span class="topo-inside">DG</span><span class="topo-unknown">ARREIV</span><span class="topo-inside">CRA</span></span>
-<span class="topo-line"><span class="topo-inside">DGTMRLGEPTSNETL</span><span class="topo-membrane">SCVIIFVIVYYALMAGVVWFVVLTYAWH</span><span class="topo-outside">TSFKALGTTYQPLSGKT</span></span>
-<span class="topo-line"><span class="topo-membrane">SYFHLLTWSLPFVLTVAILAVAQV</span><span class="topo-inside">DGDSVSGICFVGYKNY</span><span class="topo-membrane">RYRAGFVLAPIGLVLIVGGY</span></span>
-<span class="topo-line"><span class="topo-membrane">FLIRGVM</span><span class="topo-outside">TLFSIKSNHAKALIVYGSTTGNTEYTAETIARELADAGYEVDSRDAASVEAGG</span></span>
-<span class="topo-line"><span class="topo-outside">LFEGFDLVLLGCSTWGDDSIELQDDFIPLFDSLEETGAQGRKVACFGCGDSSWEYFCGAV</span></span>
-<span class="topo-line"><span class="topo-outside">DAIEEKLKNLGAEIVQDGLRIDGDPRAAR</span><span class="topo-unknown">DDIVGWAHDVRG</span><span class="topo-outside">AIKINETML</span><span class="topo-membrane">RLGIFGFLAF</span></span>
-<span class="topo-line"><span class="topo-membrane">GFVLITFSCHFYDFF</span><span class="topo-inside">NQAEWERSFRDYVLCQANVTIGLPTKQPIPDCEIKNRPSLL</span><span class="topo-membrane">VEKI</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">PPPLSHCGRAAPCEPLRYNVCLGSVLPYGATSTLLAGDSDSQEEAHGKLVLWSGLRNAPRCWAVIQPLLCAVYMPKCENDRVELPSRTLCQATRGPCAIVERERGWPDFLRCTPDRFPEG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">CTNEVQNIKFNSSGQCEVPLVRTDNPKSWYEDVEGCGIQCQNPLFTEAEHQDMHSY</span><span class="topo-membrane">IAAFGAVTGLCTLFTLATFVADW</span><span class="topo-outside">RNSNRYP</span><span class="topo-membrane">AVILFYVNACFFVGSIGWLAQFM</span><span class="topo-inside">DG</span><span class="topo-unknown">ARREIV</span><span class="topo-inside">CRA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">DGTMRLGEPTSNETL</span><span class="topo-membrane">SCVIIFVIVYYALMAGVVWFVVLTYAWH</span><span class="topo-outside">TSFKALGTTYQPLSGKT</span><span class="topo-membrane">SYFHLLTWSLPFVLTVAILAVAQV</span><span class="topo-inside">DGDSVSGICFVGYKNY</span><span class="topo-membrane">RYRAGFVLAPIGLVLIVGGY</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">FLIRGVM</span><span class="topo-outside">TLFSIKSNHAKALIVYGSTTGNTEYTAETIARELADAGYEVDSRDAASVEAGGLFEGFDLVLLGCSTWGDDSIELQDDFIPLFDSLEETGAQGRKVACFGCGDSSWEYFCGAV</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">DAIEEKLKNLGAEIVQDGLRIDGDPRAAR</span><span class="topo-unknown">DDIVGWAHDVRG</span><span class="topo-outside">AIKINETML</span><span class="topo-membrane">RLGIFGFLAFGFVLITFSCHFYDFF</span><span class="topo-inside">NQAEWERSFRDYVLCQANVTIGLPTKQPIPDCEIKNRPSLL</span><span class="topo-membrane">VEKI</span></span>
+<span class="topo-ruler">       610       620       630       640        </span>
 <span class="topo-line"><span class="topo-membrane">NLFAMFGTGIAMSTWVWTKATL</span><span class="topo-unknown">LIWRRTWCRLT</span><span class="topo-outside">GQSDDHHHHHHH</span><span class="topo-unknown">HHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (22 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -534,6 +539,7 @@ The SMO-FLA fusion construct is an engineered human [SMO](/xray-mp-wiki/proteins
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

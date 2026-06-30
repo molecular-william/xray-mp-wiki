@@ -136,14 +136,15 @@ The [A2AAR](/xray-mp-wiki/proteins/human-adenosine-a2a-receptor-a2ar) (A2AAR) is
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MKTIIALSYIFCLVFADYKDDD</span><span class="topo-inside">DGAPPIMGSSV</span><span class="topo-membrane">YITVELAIAVLAILGNVLVCWAVWL</span><span class="topo-outside">NS</span></span>
-<span class="topo-line"><span class="topo-outside">NLQNV</span><span class="topo-membrane">TNYFVVSLAAADIAVGVLAIPFAI</span><span class="topo-inside">TISTGFCAACHGCLF</span><span class="topo-membrane">IACFVLVLTQSKIFSL</span></span>
-<span class="topo-line"><span class="topo-membrane">LAIAIDRYI</span><span class="topo-outside">AIRIPLRYNGLV</span><span class="topo-membrane">TGTRAKGIIAICWVLSFAIGLTPML</span><span class="topo-inside">GWNNCGQPKEGKNH</span></span>
-<span class="topo-line"><span class="topo-inside">SQGCGEGQVACLFEDVVPMN</span><span class="topo-membrane">YMVYFNFFACVLVPLLLMLGVYLRIF</span><span class="topo-outside">LAARRQLADLEDNW</span></span>
-<span class="topo-line"><span class="topo-outside">ETLNDNLKVIEKADNAAQVKDALTKMRAAALDAQK</span><span class="topo-unknown">ATPPKLEDKSPDSP</span><span class="topo-outside">EMKDFRHGFDI</span></span>
-<span class="topo-line"><span class="topo-outside">LVGQIDDALKLANEGKVKEAQAAAEQLKTTRNAYIQKYLERARSTLQKEVHA</span><span class="topo-membrane">AKSLAIIV</span></span>
-<span class="topo-line"><span class="topo-membrane">GLFALCWLPLHIINCF</span><span class="topo-inside">TFFCPDCSHAPLWL</span><span class="topo-membrane">MYLAIVLSHTNSVVNPFIYAYRI</span><span class="topo-outside">REFRQTF</span></span>
-<span class="topo-line"><span class="topo-outside">RKIIRS</span><span class="topo-unknown">HVLRQQEPFKAHHHHHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MKTIIALSYIFCLVFADYKDDD</span><span class="topo-inside">DGAPPIMGSSV</span><span class="topo-membrane">YITVELAIAVLAILGNVLVCWAVWL</span><span class="topo-outside">NSNLQNV</span><span class="topo-membrane">TNYFVVSLAAADIAVGVLAIPFAI</span><span class="topo-inside">TISTGFCAACHGCLF</span><span class="topo-membrane">IACFVLVLTQSKIFSL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">LAIAIDRYI</span><span class="topo-outside">AIRIPLRYNGLV</span><span class="topo-membrane">TGTRAKGIIAICWVLSFAIGLTPML</span><span class="topo-inside">GWNNCGQPKEGKNHSQGCGEGQVACLFEDVVPMN</span><span class="topo-membrane">YMVYFNFFACVLVPLLLMLGVYLRIF</span><span class="topo-outside">LAARRQLADLEDNW</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">ETLNDNLKVIEKADNAAQVKDALTKMRAAALDAQK</span><span class="topo-unknown">ATPPKLEDKSPDSP</span><span class="topo-outside">EMKDFRHGFDILVGQIDDALKLANEGKVKEAQAAAEQLKTTRNAYIQKYLERARSTLQKEVHA</span><span class="topo-membrane">AKSLAIIV</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       </span>
+<span class="topo-line"><span class="topo-membrane">GLFALCWLPLHIINCF</span><span class="topo-inside">TFFCPDCSHAPLWL</span><span class="topo-membrane">MYLAIVLSHTNSVVNPFIYAYRI</span><span class="topo-outside">REFRQTFRKIIRS</span><span class="topo-unknown">HVLRQQEPFKAHHHHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -302,6 +303,7 @@ The [A2AAR](/xray-mp-wiki/proteins/human-adenosine-a2a-receptor-a2ar) (A2AAR) is
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -317,14 +319,15 @@ The [A2AAR](/xray-mp-wiki/proteins/human-adenosine-a2a-receptor-a2ar) (A2AAR) is
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MKTIIALSYIFCLVFADYKDDD</span><span class="topo-inside">DGAPPIMGSSV</span><span class="topo-membrane">YITVELAIAVLAILGNVLVCWAVW</span><span class="topo-outside">LNS</span></span>
-<span class="topo-line"><span class="topo-outside">NLQNV</span><span class="topo-membrane">TNYFVVSLAAADIAVGVLAIPFAIT</span><span class="topo-inside">ISTGFCAACHGCL</span><span class="topo-membrane">FIACFVLVLTQSKIFSL</span></span>
-<span class="topo-line"><span class="topo-membrane">LAIAIDRY</span><span class="topo-outside">IAIRIPLRYNGLVTGT</span><span class="topo-membrane">RAKGIIAICWVLSFAIGLTPMLGW</span><span class="topo-inside">NNCGQPKEGKNH</span></span>
-<span class="topo-line"><span class="topo-inside">SQGCGEGQVACLFEDVVPMN</span><span class="topo-membrane">YMVYFNFFACVLVPLLLMLGVYLRIFL</span><span class="topo-outside">AARRQLADLEDNW</span></span>
-<span class="topo-line"><span class="topo-outside">ETLNDNLKVIEKADNAAQVKDALTKMRAAALDAQK</span><span class="topo-unknown">ATPPKLEDKSPDSP</span><span class="topo-outside">EMKDFRHGFDI</span></span>
-<span class="topo-line"><span class="topo-outside">LVGQIDDALKLANEGKVKEAQAAAEQLKTTRNAYIQKYLERARSTLQKEVHA</span><span class="topo-membrane">AKSLAIIV</span></span>
-<span class="topo-line"><span class="topo-membrane">GLFALCWLPLHIINCF</span><span class="topo-inside">TFFCPDCSHAPLWL</span><span class="topo-membrane">MYLAIVLSHTNSVVNPFIYAYRI</span><span class="topo-outside">REFRQTF</span></span>
-<span class="topo-line"><span class="topo-outside">RKIIRS</span><span class="topo-unknown">HVLRQQEPFKAHHHHHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MKTIIALSYIFCLVFADYKDDD</span><span class="topo-inside">DGAPPIMGSSV</span><span class="topo-membrane">YITVELAIAVLAILGNVLVCWAVW</span><span class="topo-outside">LNSNLQNV</span><span class="topo-membrane">TNYFVVSLAAADIAVGVLAIPFAIT</span><span class="topo-inside">ISTGFCAACHGCL</span><span class="topo-membrane">FIACFVLVLTQSKIFSL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">LAIAIDRY</span><span class="topo-outside">IAIRIPLRYNGLVTGT</span><span class="topo-membrane">RAKGIIAICWVLSFAIGLTPMLGW</span><span class="topo-inside">NNCGQPKEGKNHSQGCGEGQVACLFEDVVPMN</span><span class="topo-membrane">YMVYFNFFACVLVPLLLMLGVYLRIFL</span><span class="topo-outside">AARRQLADLEDNW</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">ETLNDNLKVIEKADNAAQVKDALTKMRAAALDAQK</span><span class="topo-unknown">ATPPKLEDKSPDSP</span><span class="topo-outside">EMKDFRHGFDILVGQIDDALKLANEGKVKEAQAAAEQLKTTRNAYIQKYLERARSTLQKEVHA</span><span class="topo-membrane">AKSLAIIV</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       </span>
+<span class="topo-line"><span class="topo-membrane">GLFALCWLPLHIINCF</span><span class="topo-inside">TFFCPDCSHAPLWL</span><span class="topo-membrane">MYLAIVLSHTNSVVNPFIYAYRI</span><span class="topo-outside">REFRQTFRKIIRS</span><span class="topo-unknown">HVLRQQEPFKAHHHHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -483,6 +486,7 @@ The [A2AAR](/xray-mp-wiki/proteins/human-adenosine-a2a-receptor-a2ar) (A2AAR) is
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

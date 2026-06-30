@@ -175,12 +175,13 @@ NavAe1p is a pore-only construct of the prokaryotic voltage-gated sodium channel
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MNGTEGPNFYVPFSNKTGVVRSPFEAPQYYLAEPWQFSML</span><span class="topo-membrane">AAYMFLLIMLGFPINFLTLY</span></span>
-<span class="topo-line"><span class="topo-membrane">VTVQH</span><span class="topo-outside">KKL</span><span class="topo-membrane">RTPLNYILLNLAVADLFMVFGGFTTTLY</span><span class="topo-inside">TSLHGYFVFGPTGCN</span><span class="topo-membrane">LEGFFATLG</span></span>
-<span class="topo-line"><span class="topo-membrane">GEIALWSLVVLAIERYV</span><span class="topo-outside">VVCKPMSNFRFGE</span><span class="topo-membrane">NHAIMGVAFTWVMALACAAPPLV</span><span class="topo-inside">GWSRYIP</span></span>
-<span class="topo-line"><span class="topo-inside">EGMQCSCGIDYYTPHEETNNES</span><span class="topo-membrane">FVIYMFVVHFIIPLIVIFFCYGQLVF</span><span class="topo-outside">TVKEAAAQQQES</span></span>
-<span class="topo-line"><span class="topo-outside">ATTQKAEK</span><span class="topo-membrane">EVTRMVIIMVIAFLICWLPYAGVAF</span><span class="topo-inside">YIFTHQGSDFGPIFMTI</span><span class="topo-membrane">PAFFAKTSAV</span></span>
-<span class="topo-line"><span class="topo-membrane">YNPVIYIMMN</span><span class="topo-outside">KQFRNCMVTTLCCGKN</span><span class="topo-unknown">PLGDDEASTTVSKTETSQVAPA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">MNGTEGPNFYVPFSNKTGVVRSPFEAPQYYLAEPWQFSML</span><span class="topo-membrane">AAYMFLLIMLGFPINFLTLYVTVQH</span><span class="topo-outside">KKL</span><span class="topo-membrane">RTPLNYILLNLAVADLFMVFGGFTTTLY</span><span class="topo-inside">TSLHGYFVFGPTGCN</span><span class="topo-membrane">LEGFFATLG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GEIALWSLVVLAIERYV</span><span class="topo-outside">VVCKPMSNFRFGE</span><span class="topo-membrane">NHAIMGVAFTWVMALACAAPPLV</span><span class="topo-inside">GWSRYIPEGMQCSCGIDYYTPHEETNNES</span><span class="topo-membrane">FVIYMFVVHFIIPLIVIFFCYGQLVF</span><span class="topo-outside">TVKEAAAQQQES</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340        </span>
+<span class="topo-line"><span class="topo-outside">ATTQKAEK</span><span class="topo-membrane">EVTRMVIIMVIAFLICWLPYAGVAF</span><span class="topo-inside">YIFTHQGSDFGPIFMTI</span><span class="topo-membrane">PAFFAKTSAVYNPVIYIMMN</span><span class="topo-outside">KQFRNCMVTTLCCGKN</span><span class="topo-unknown">PLGDDEASTTVSKTETSQVAPA</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -304,6 +305,7 @@ NavAe1p is a pore-only construct of the prokaryotic voltage-gated sodium channel
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -319,12 +321,13 @@ NavAe1p is a pore-only construct of the prokaryotic voltage-gated sodium channel
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MNGTEGPNFYVPFSNKTGVVRSPFEAPQYYLAEPWQFSML</span><span class="topo-membrane">AAYMFLLIMLGFPINFLTLY</span></span>
-<span class="topo-line"><span class="topo-membrane">VTVQH</span><span class="topo-outside">KKL</span><span class="topo-membrane">RTPLNYILLNLAVADLFMVFGGFTTTLY</span><span class="topo-inside">TSLHGYFVFGPTGCN</span><span class="topo-membrane">LEGFFATLG</span></span>
-<span class="topo-line"><span class="topo-membrane">GEIALWSLVVLAIERYV</span><span class="topo-outside">VVCKPMSNFRFGE</span><span class="topo-membrane">NHAIMGVAFTWVMALACAAPPLV</span><span class="topo-inside">GWSRYIP</span></span>
-<span class="topo-line"><span class="topo-inside">EGMQCSCGIDYYTPHEETNNES</span><span class="topo-membrane">FVIYMFVVHFIIPLIVIFFCYGQLVF</span><span class="topo-outside">TVKEAAAQQQES</span></span>
-<span class="topo-line"><span class="topo-outside">ATTQKAEK</span><span class="topo-membrane">EVTRMVIIMVIAFLICWLPYAGVAF</span><span class="topo-inside">YIFTHQGSDFGPIFMTI</span><span class="topo-membrane">PAFFAKTSAV</span></span>
-<span class="topo-line"><span class="topo-membrane">YNPVIYIMMN</span><span class="topo-outside">KQFRNCMVTTLCCGKN</span><span class="topo-unknown">PLGDDEASTTVSKTETSQVAPA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">MNGTEGPNFYVPFSNKTGVVRSPFEAPQYYLAEPWQFSML</span><span class="topo-membrane">AAYMFLLIMLGFPINFLTLYVTVQH</span><span class="topo-outside">KKL</span><span class="topo-membrane">RTPLNYILLNLAVADLFMVFGGFTTTLY</span><span class="topo-inside">TSLHGYFVFGPTGCN</span><span class="topo-membrane">LEGFFATLG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GEIALWSLVVLAIERYV</span><span class="topo-outside">VVCKPMSNFRFGE</span><span class="topo-membrane">NHAIMGVAFTWVMALACAAPPLV</span><span class="topo-inside">GWSRYIPEGMQCSCGIDYYTPHEETNNES</span><span class="topo-membrane">FVIYMFVVHFIIPLIVIFFCYGQLVF</span><span class="topo-outside">TVKEAAAQQQES</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340        </span>
+<span class="topo-line"><span class="topo-outside">ATTQKAEK</span><span class="topo-membrane">EVTRMVIIMVIAFLICWLPYAGVAF</span><span class="topo-inside">YIFTHQGSDFGPIFMTI</span><span class="topo-membrane">PAFFAKTSAVYNPVIYIMMN</span><span class="topo-outside">KQFRNCMVTTLCCGKN</span><span class="topo-unknown">PLGDDEASTTVSKTETSQVAPA</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -448,6 +451,7 @@ NavAe1p is a pore-only construct of the prokaryotic voltage-gated sodium channel
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -463,12 +467,13 @@ NavAe1p is a pore-only construct of the prokaryotic voltage-gated sodium channel
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MNGTEGPNFYVPFSNKTGVVRSPFEAPQYYLAEPWQFSML</span><span class="topo-membrane">AAYMFLLIMLGFPINFLTLY</span></span>
-<span class="topo-line"><span class="topo-membrane">VTVQH</span><span class="topo-outside">KKL</span><span class="topo-membrane">RTPLNYILLNLAVADLFMVFGGFTTTLY</span><span class="topo-inside">TSLHGYFVFGPTGCN</span><span class="topo-membrane">LEGFFATLG</span></span>
-<span class="topo-line"><span class="topo-membrane">GEIALWSLVVLAIERYV</span><span class="topo-outside">VVCKPMSNFRFGE</span><span class="topo-membrane">NHAIMGVAFTWVMALACAAPPLV</span><span class="topo-inside">GWSRYIP</span></span>
-<span class="topo-line"><span class="topo-inside">EGMQCSCGIDYYTPHEETNNES</span><span class="topo-membrane">FVIYMFVVHFIIPLIVIFFCYGQLVF</span><span class="topo-outside">TVKEAAAQQQES</span></span>
-<span class="topo-line"><span class="topo-outside">ATTQKAEK</span><span class="topo-membrane">EVTRMVIIMVIAFLICWLPYAGVAF</span><span class="topo-inside">YIFTHQGSDFGPIFMTI</span><span class="topo-membrane">PAFFAKTSAV</span></span>
-<span class="topo-line"><span class="topo-membrane">YNPVIYIMMN</span><span class="topo-outside">KQFRNCMVTTLCCGKN</span><span class="topo-unknown">PLGDDEASTTVSKTETSQVAPA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">MNGTEGPNFYVPFSNKTGVVRSPFEAPQYYLAEPWQFSML</span><span class="topo-membrane">AAYMFLLIMLGFPINFLTLYVTVQH</span><span class="topo-outside">KKL</span><span class="topo-membrane">RTPLNYILLNLAVADLFMVFGGFTTTLY</span><span class="topo-inside">TSLHGYFVFGPTGCN</span><span class="topo-membrane">LEGFFATLG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GEIALWSLVVLAIERYV</span><span class="topo-outside">VVCKPMSNFRFGE</span><span class="topo-membrane">NHAIMGVAFTWVMALACAAPPLV</span><span class="topo-inside">GWSRYIPEGMQCSCGIDYYTPHEETNNES</span><span class="topo-membrane">FVIYMFVVHFIIPLIVIFFCYGQLVF</span><span class="topo-outside">TVKEAAAQQQES</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340        </span>
+<span class="topo-line"><span class="topo-outside">ATTQKAEK</span><span class="topo-membrane">EVTRMVIIMVIAFLICWLPYAGVAF</span><span class="topo-inside">YIFTHQGSDFGPIFMTI</span><span class="topo-membrane">PAFFAKTSAVYNPVIYIMMN</span><span class="topo-outside">KQFRNCMVTTLCCGKN</span><span class="topo-unknown">PLGDDEASTTVSKTETSQVAPA</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -592,6 +597,7 @@ NavAe1p is a pore-only construct of the prokaryotic voltage-gated sodium channel
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

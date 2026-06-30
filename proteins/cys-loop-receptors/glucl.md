@@ -140,12 +140,13 @@ GluCl is the glutamate-gated chloride channel from Caenorhabditis elegans, a pen
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">SDSKILAHLFTSGYDFRVRPPTDNGGPVVVSVNMLLRTISKIDVVNMEYSAQLTLRESWI</span></span>
-<span class="topo-line"><span class="topo-outside">DKRLSYGVKGDGQPDFVILTVGHQIWMPDTFFPNEKQAYKHTIDKPNVLIRIHNDGTVLY</span></span>
-<span class="topo-line"><span class="topo-outside">SVRISLVLSCPMYLQYYPMDVQQCSIDLASYAYTTKDIEYLWKEHSPLQLKVGLSSSLPS</span></span>
-<span class="topo-line"><span class="topo-outside">FQLTNTSTTYCTSVTNTGIYSCLRTTIQLKREFSFYL</span><span class="topo-membrane">LQLYIPSCMLVIVSWVSFWF</span><span class="topo-inside">DRT</span></span>
-<span class="topo-line"><span class="topo-inside">A</span><span class="topo-membrane">IPARVTLGVTTLLTMTAQSA</span><span class="topo-outside">GINSQLPPVSYIKAID</span><span class="topo-membrane">VWIGACMTFIFCALLEFALVN</span><span class="topo-inside">HI</span></span>
-<span class="topo-line"><span class="topo-inside">ANAGTTEWNDISKRV</span><span class="topo-membrane">DLISRALFPVLFFVFNILYWSR</span><span class="topo-outside">FGH</span><span class="topo-unknown">HHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">SDSKILAHLFTSGYDFRVRPPTDNGGPVVVSVNMLLRTISKIDVVNMEYSAQLTLRESWIDKRLSYGVKGDGQPDFVILTVGHQIWMPDTFFPNEKQAYKHTIDKPNVLIRIHNDGTVLY</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">SVRISLVLSCPMYLQYYPMDVQQCSIDLASYAYTTKDIEYLWKEHSPLQLKVGLSSSLPSFQLTNTSTTYCTSVTNTGIYSCLRTTIQLKREFSFYL</span><span class="topo-membrane">LQLYIPSCMLVIVSWVSFWF</span><span class="topo-inside">DRT</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       </span>
+<span class="topo-line"><span class="topo-inside">A</span><span class="topo-membrane">IPARVTLGVTTLLTMTAQSA</span><span class="topo-outside">GINSQLPPVSYIKAID</span><span class="topo-membrane">VWIGACMTFIFCALLEFALVN</span><span class="topo-inside">HIANAGTTEWNDISKRV</span><span class="topo-membrane">DLISRALFPVLFFVFNILYWSR</span><span class="topo-outside">FGH</span><span class="topo-unknown">HHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (10 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -227,6 +228,7 @@ GluCl is the glutamate-gated chloride channel from Caenorhabditis elegans, a pen
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -242,12 +244,13 @@ GluCl is the glutamate-gated chloride channel from Caenorhabditis elegans, a pen
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">SDSKILAHLFTSGYDFRVRPPTDNGGPVVVSVNMLLRTISKIDVVNMEYSAQLTLRESWI</span></span>
-<span class="topo-line"><span class="topo-outside">DKRLSYGVKGDGQPDFVILTVGHQIWMPDTFFPNEKQAYKHTIDKPNVLIRIHNDGTVLY</span></span>
-<span class="topo-line"><span class="topo-outside">SVRISLVLSCPMYLQYYPMDVQQCSIDLASYAYTTKDIEYLWKEHSPLQLKVGLSSSLPS</span></span>
-<span class="topo-line"><span class="topo-outside">FQLTNTSTTYCTSVTNTGIYSCLRTTIQLKREFSFYL</span><span class="topo-membrane">LQLYIPSCMLVIVSWVSFWF</span><span class="topo-inside">DRT</span></span>
-<span class="topo-line"><span class="topo-inside">A</span><span class="topo-membrane">IPARVTLGVTTLLTMTAQSA</span><span class="topo-outside">GINSQLPPVSYIKAID</span><span class="topo-membrane">VWIGACMTFIFCALLEFALVN</span><span class="topo-inside">HI</span></span>
-<span class="topo-line"><span class="topo-inside">ANAGTTEWNDISKRV</span><span class="topo-membrane">DLISRALFPVLFFVFNILYWSR</span><span class="topo-outside">FGH</span><span class="topo-unknown">HHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">SDSKILAHLFTSGYDFRVRPPTDNGGPVVVSVNMLLRTISKIDVVNMEYSAQLTLRESWIDKRLSYGVKGDGQPDFVILTVGHQIWMPDTFFPNEKQAYKHTIDKPNVLIRIHNDGTVLY</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">SVRISLVLSCPMYLQYYPMDVQQCSIDLASYAYTTKDIEYLWKEHSPLQLKVGLSSSLPSFQLTNTSTTYCTSVTNTGIYSCLRTTIQLKREFSFYL</span><span class="topo-membrane">LQLYIPSCMLVIVSWVSFWF</span><span class="topo-inside">DRT</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       </span>
+<span class="topo-line"><span class="topo-inside">A</span><span class="topo-membrane">IPARVTLGVTTLLTMTAQSA</span><span class="topo-outside">GINSQLPPVSYIKAID</span><span class="topo-membrane">VWIGACMTFIFCALLEFALVN</span><span class="topo-inside">HIANAGTTEWNDISKRV</span><span class="topo-membrane">DLISRALFPVLFFVFNILYWSR</span><span class="topo-outside">FGH</span><span class="topo-unknown">HHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (10 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -329,6 +332,7 @@ GluCl is the glutamate-gated chloride channel from Caenorhabditis elegans, a pen
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -344,12 +348,13 @@ GluCl is the glutamate-gated chloride channel from Caenorhabditis elegans, a pen
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">SDSKILAHLFTSGYDFRVRPPTDNGGPVVVSVNMLLRTISKIDVVNMEYSAQLTLRESWI</span></span>
-<span class="topo-line"><span class="topo-outside">DKRLSYGVKGDGQPDFVILTVGHQIWMPDTFFPNEKQAYKHTIDKPNVLIRIHNDGTVLY</span></span>
-<span class="topo-line"><span class="topo-outside">SVRISLVLSCPMYLQYYPMDVQQCSIDLASYAYTTKDIEYLWKEHSPLQLKVGLSSSLPS</span></span>
-<span class="topo-line"><span class="topo-outside">FQLTNTSTTYCTSVTNTGIYSCLRTTIQLKREFSFYL</span><span class="topo-membrane">LQLYIPSCMLVIVSWVSFWF</span><span class="topo-inside">DRT</span></span>
-<span class="topo-line"><span class="topo-inside">A</span><span class="topo-membrane">IPARVTLGVTTLLTMTAQSA</span><span class="topo-outside">GINSQLPPVSYIKAID</span><span class="topo-membrane">VWIGACMTFIFCALLEFALVN</span><span class="topo-inside">HI</span></span>
-<span class="topo-line"><span class="topo-inside">ANAGTTEWNDISKRV</span><span class="topo-membrane">DLISRALFPVLFFVFNILYWSR</span><span class="topo-outside">FG</span><span class="topo-unknown">HHHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">SDSKILAHLFTSGYDFRVRPPTDNGGPVVVSVNMLLRTISKIDVVNMEYSAQLTLRESWIDKRLSYGVKGDGQPDFVILTVGHQIWMPDTFFPNEKQAYKHTIDKPNVLIRIHNDGTVLY</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">SVRISLVLSCPMYLQYYPMDVQQCSIDLASYAYTTKDIEYLWKEHSPLQLKVGLSSSLPSFQLTNTSTTYCTSVTNTGIYSCLRTTIQLKREFSFYL</span><span class="topo-membrane">LQLYIPSCMLVIVSWVSFWF</span><span class="topo-inside">DRT</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       </span>
+<span class="topo-line"><span class="topo-inside">A</span><span class="topo-membrane">IPARVTLGVTTLLTMTAQSA</span><span class="topo-outside">GINSQLPPVSYIKAID</span><span class="topo-membrane">VWIGACMTFIFCALLEFALVN</span><span class="topo-inside">HIANAGTTEWNDISKRV</span><span class="topo-membrane">DLISRALFPVLFFVFNILYWSR</span><span class="topo-outside">FG</span><span class="topo-unknown">HHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (10 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -431,6 +436,7 @@ GluCl is the glutamate-gated chloride channel from Caenorhabditis elegans, a pen
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -446,12 +452,13 @@ GluCl is the glutamate-gated chloride channel from Caenorhabditis elegans, a pen
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">SDSKILAHLFTSGYDFRVRPPTDNGGPVVVSVNMLLRTISKIDVVNMEYSAQLTLRESWI</span></span>
-<span class="topo-line"><span class="topo-outside">DKRLSYGVKGDGQPDFVILTVGHQIWMPDTFFPNEKQAYKHTIDKPNVLIRIHNDGTVLY</span></span>
-<span class="topo-line"><span class="topo-outside">SVRISLVLSCPMYLQYYPMDVQQCSIDLASYAYTTKDIEYLWKEHSPLQLKVGLSSSLPS</span></span>
-<span class="topo-line"><span class="topo-outside">FQLTNTSTTYCTSVTNTGIYSCLRTTIQLKREFSFYL</span><span class="topo-membrane">LQLYIPSCMLVIVSWVSFWF</span><span class="topo-inside">DRT</span></span>
-<span class="topo-line"><span class="topo-inside">A</span><span class="topo-membrane">IPARVTLGVTTLLTMTAQSA</span><span class="topo-outside">GINSQLPPVSYIKAID</span><span class="topo-membrane">VWIGACMTFIFCALLEFALVN</span><span class="topo-inside">HI</span></span>
-<span class="topo-line"><span class="topo-inside">ANAGTTEWNDISKRV</span><span class="topo-membrane">DLISRALFPVLFFVFNILYWSR</span><span class="topo-outside">FGH</span><span class="topo-unknown">HHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">SDSKILAHLFTSGYDFRVRPPTDNGGPVVVSVNMLLRTISKIDVVNMEYSAQLTLRESWIDKRLSYGVKGDGQPDFVILTVGHQIWMPDTFFPNEKQAYKHTIDKPNVLIRIHNDGTVLY</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">SVRISLVLSCPMYLQYYPMDVQQCSIDLASYAYTTKDIEYLWKEHSPLQLKVGLSSSLPSFQLTNTSTTYCTSVTNTGIYSCLRTTIQLKREFSFYL</span><span class="topo-membrane">LQLYIPSCMLVIVSWVSFWF</span><span class="topo-inside">DRT</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       </span>
+<span class="topo-line"><span class="topo-inside">A</span><span class="topo-membrane">IPARVTLGVTTLLTMTAQSA</span><span class="topo-outside">GINSQLPPVSYIKAID</span><span class="topo-membrane">VWIGACMTFIFCALLEFALVN</span><span class="topo-inside">HIANAGTTEWNDISKRV</span><span class="topo-membrane">DLISRALFPVLFFVFNILYWSR</span><span class="topo-outside">FGH</span><span class="topo-unknown">HHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (10 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -533,6 +540,7 @@ GluCl is the glutamate-gated chloride channel from Caenorhabditis elegans, a pen
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -548,12 +556,13 @@ GluCl is the glutamate-gated chloride channel from Caenorhabditis elegans, a pen
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">SDSKILAHLFTSGYDFRVRPPTDNGGPVVVSVNMLLRTISKIDVVNMEYSAQLTLRESWI</span></span>
-<span class="topo-line"><span class="topo-outside">DKRLSYGVKGDGQPDFVILTVGHQIWMPDTFFPNEKQAYKHTIDKPNVLIRIHNDGTVLY</span></span>
-<span class="topo-line"><span class="topo-outside">SVRISLVLSCPMYLQYYPMDVQQCSIDLASYAYTTKDIEYLWKEHSPLQLKVGLSSSLPS</span></span>
-<span class="topo-line"><span class="topo-outside">FQLTNTSTTYCTSVTNTGIYSCLRTTIQLKREFSFYL</span><span class="topo-membrane">LQLYIPSCMLVIVSWVSFWF</span><span class="topo-inside">DRT</span></span>
-<span class="topo-line"><span class="topo-inside">A</span><span class="topo-membrane">IPARVTLGVTTLLTMTAQSA</span><span class="topo-outside">GINSQLPPVSYIKAID</span><span class="topo-membrane">VWIGACMTFIFCALLEFALVN</span><span class="topo-inside">HI</span></span>
-<span class="topo-line"><span class="topo-inside">ANAGTTEWNDISKRV</span><span class="topo-membrane">DLISRALFPVLFFVFNILYWSR</span><span class="topo-outside">FGH</span><span class="topo-unknown">HHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">SDSKILAHLFTSGYDFRVRPPTDNGGPVVVSVNMLLRTISKIDVVNMEYSAQLTLRESWIDKRLSYGVKGDGQPDFVILTVGHQIWMPDTFFPNEKQAYKHTIDKPNVLIRIHNDGTVLY</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">SVRISLVLSCPMYLQYYPMDVQQCSIDLASYAYTTKDIEYLWKEHSPLQLKVGLSSSLPSFQLTNTSTTYCTSVTNTGIYSCLRTTIQLKREFSFYL</span><span class="topo-membrane">LQLYIPSCMLVIVSWVSFWF</span><span class="topo-inside">DRT</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       </span>
+<span class="topo-line"><span class="topo-inside">A</span><span class="topo-membrane">IPARVTLGVTTLLTMTAQSA</span><span class="topo-outside">GINSQLPPVSYIKAID</span><span class="topo-membrane">VWIGACMTFIFCALLEFALVN</span><span class="topo-inside">HIANAGTTEWNDISKRV</span><span class="topo-membrane">DLISRALFPVLFFVFNILYWSR</span><span class="topo-outside">FGH</span><span class="topo-unknown">HHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (10 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -635,6 +644,7 @@ GluCl is the glutamate-gated chloride channel from Caenorhabditis elegans, a pen
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -682,12 +692,13 @@ GluCl is the glutamate-gated chloride channel from Caenorhabditis elegans, a pen
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">SDSKILAHLFTSGYDFRVRPPTDNGGPVVVSVNMLLRTISKIDVVNMEYSAQLTLRESWI</span></span>
-<span class="topo-line"><span class="topo-outside">DKRLSYGVKGDGQPDFVILTVGHQIWMPDTFFPNEKQAYKHTIDKPNVLIRIHNDGTVLY</span></span>
-<span class="topo-line"><span class="topo-outside">SVRISLVLSCPMYLQYYPMDVQQCSIDLASYAYTTKDIEYLWKEHSPLQLKVGLSSSLPS</span></span>
-<span class="topo-line"><span class="topo-outside">FQLTNTSTTYCTSVTNTGIYSCLRTTIQLKREFSFYLLQLY</span><span class="topo-membrane">IPSCMLVIVSWVSFWF</span><span class="topo-inside">DRT</span></span>
-<span class="topo-line"><span class="topo-inside">A</span><span class="topo-membrane">IPARVTLGVTTLLTMTAQ</span><span class="topo-outside">SAGINSQLPPVSYIKAIDV</span><span class="topo-membrane">WIGACMTFIFCALLEFALVN</span><span class="topo-inside">HI</span></span>
-<span class="topo-line"><span class="topo-inside">ANAGTTEWNDISKRV</span><span class="topo-membrane">DLISRALFPVLFFVFNILY</span><span class="topo-outside">WSRFGH</span><span class="topo-unknown">HHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">SDSKILAHLFTSGYDFRVRPPTDNGGPVVVSVNMLLRTISKIDVVNMEYSAQLTLRESWIDKRLSYGVKGDGQPDFVILTVGHQIWMPDTFFPNEKQAYKHTIDKPNVLIRIHNDGTVLY</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">SVRISLVLSCPMYLQYYPMDVQQCSIDLASYAYTTKDIEYLWKEHSPLQLKVGLSSSLPSFQLTNTSTTYCTSVTNTGIYSCLRTTIQLKREFSFYLLQLY</span><span class="topo-membrane">IPSCMLVIVSWVSFWF</span><span class="topo-inside">DRT</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       </span>
+<span class="topo-line"><span class="topo-inside">A</span><span class="topo-membrane">IPARVTLGVTTLLTMTAQ</span><span class="topo-outside">SAGINSQLPPVSYIKAIDV</span><span class="topo-membrane">WIGACMTFIFCALLEFALVN</span><span class="topo-inside">HIANAGTTEWNDISKRV</span><span class="topo-membrane">DLISRALFPVLFFVFNILY</span><span class="topo-outside">WSRFGH</span><span class="topo-unknown">HHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (10 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -769,6 +780,7 @@ GluCl is the glutamate-gated chloride channel from Caenorhabditis elegans, a pen
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -784,12 +796,13 @@ GluCl is the glutamate-gated chloride channel from Caenorhabditis elegans, a pen
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">SDSKILAHLFTSGYDFRVRPPTDNGGPVVVSVNMLLRTISKIDVVNMEYSAQLTLRESWI</span></span>
-<span class="topo-line"><span class="topo-outside">DKRLSYGVKGDGQPDFVILTVGHQIWMPDTFFPNEKQAYKHTIDKPNVLIRIHNDGTVLY</span></span>
-<span class="topo-line"><span class="topo-outside">SVRISLVLSCPMYLQYYPMDVQQCSIDLASYAYTTKDIEYLWKEHSPLQLKVGLSSSLPS</span></span>
-<span class="topo-line"><span class="topo-outside">FQLTNTSTTYCTSVTNTGIYSCLRTTIQLKREFSFYLLQLY</span><span class="topo-membrane">IPSCMLVIVSWVSFWF</span><span class="topo-inside">DRT</span></span>
-<span class="topo-line"><span class="topo-inside">A</span><span class="topo-membrane">IPARVTLGVTTLLTMTAQ</span><span class="topo-outside">SAGINSQLPPVSYIKAIDV</span><span class="topo-membrane">WIGACMTFIFCALLEFALVN</span><span class="topo-inside">HI</span></span>
-<span class="topo-line"><span class="topo-inside">ANAGTTEWNDISKRV</span><span class="topo-membrane">DLISRALFPVLFFVFNILY</span><span class="topo-outside">WSRFGH</span><span class="topo-unknown">HHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">SDSKILAHLFTSGYDFRVRPPTDNGGPVVVSVNMLLRTISKIDVVNMEYSAQLTLRESWIDKRLSYGVKGDGQPDFVILTVGHQIWMPDTFFPNEKQAYKHTIDKPNVLIRIHNDGTVLY</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">SVRISLVLSCPMYLQYYPMDVQQCSIDLASYAYTTKDIEYLWKEHSPLQLKVGLSSSLPSFQLTNTSTTYCTSVTNTGIYSCLRTTIQLKREFSFYLLQLY</span><span class="topo-membrane">IPSCMLVIVSWVSFWF</span><span class="topo-inside">DRT</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       </span>
+<span class="topo-line"><span class="topo-inside">A</span><span class="topo-membrane">IPARVTLGVTTLLTMTAQ</span><span class="topo-outside">SAGINSQLPPVSYIKAIDV</span><span class="topo-membrane">WIGACMTFIFCALLEFALVN</span><span class="topo-inside">HIANAGTTEWNDISKRV</span><span class="topo-membrane">DLISRALFPVLFFVFNILY</span><span class="topo-outside">WSRFGH</span><span class="topo-unknown">HHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (10 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -871,6 +884,7 @@ GluCl is the glutamate-gated chloride channel from Caenorhabditis elegans, a pen
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -886,12 +900,13 @@ GluCl is the glutamate-gated chloride channel from Caenorhabditis elegans, a pen
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">SDSKILAHLFTSGYDFRVRPPTDNGGPVVVSVNMLLRTISKIDVVNMEYSAQLTLRESWI</span></span>
-<span class="topo-line"><span class="topo-outside">DKRLSYGVKGDGQPDFVILTVGHQIWMPDTFFPNEKQAYKHTIDKPNVLIRIHNDGTVLY</span></span>
-<span class="topo-line"><span class="topo-outside">SVRISLVLSCPMYLQYYPMDVQQCSIDLASYAYTTKDIEYLWKEHSPLQLKVGLSSSLPS</span></span>
-<span class="topo-line"><span class="topo-outside">FQLTNTSTTYCTSVTNTGIYSCLRTTIQLKREFSFYLLQLY</span><span class="topo-membrane">IPSCMLVIVSWVSFWF</span><span class="topo-inside">DRT</span></span>
-<span class="topo-line"><span class="topo-inside">A</span><span class="topo-membrane">IPARVTLGVTTLLTMTAQ</span><span class="topo-outside">SAGINSQLPPVSYIKAIDV</span><span class="topo-membrane">WIGACMTFIFCALLEFALVN</span><span class="topo-inside">HI</span></span>
-<span class="topo-line"><span class="topo-inside">ANAGTTEWNDISKRV</span><span class="topo-membrane">DLISRALFPVLFFVFNILYW</span><span class="topo-outside">SRFG</span><span class="topo-unknown">HHHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">SDSKILAHLFTSGYDFRVRPPTDNGGPVVVSVNMLLRTISKIDVVNMEYSAQLTLRESWIDKRLSYGVKGDGQPDFVILTVGHQIWMPDTFFPNEKQAYKHTIDKPNVLIRIHNDGTVLY</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">SVRISLVLSCPMYLQYYPMDVQQCSIDLASYAYTTKDIEYLWKEHSPLQLKVGLSSSLPSFQLTNTSTTYCTSVTNTGIYSCLRTTIQLKREFSFYLLQLY</span><span class="topo-membrane">IPSCMLVIVSWVSFWF</span><span class="topo-inside">DRT</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       </span>
+<span class="topo-line"><span class="topo-inside">A</span><span class="topo-membrane">IPARVTLGVTTLLTMTAQ</span><span class="topo-outside">SAGINSQLPPVSYIKAIDV</span><span class="topo-membrane">WIGACMTFIFCALLEFALVN</span><span class="topo-inside">HIANAGTTEWNDISKRV</span><span class="topo-membrane">DLISRALFPVLFFVFNILYW</span><span class="topo-outside">SRFG</span><span class="topo-unknown">HHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (10 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -973,6 +988,7 @@ GluCl is the glutamate-gated chloride channel from Caenorhabditis elegans, a pen
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -988,12 +1004,13 @@ GluCl is the glutamate-gated chloride channel from Caenorhabditis elegans, a pen
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">SDSKILAHLFTSGYDFRVRPPTDNGGPVVVSVNMLLRTISKIDVVNMEYSAQLTLRESWI</span></span>
-<span class="topo-line"><span class="topo-outside">DKRLSYGVKGDGQPDFVILTVGHQIWMPDTFFPNEKQAYKHTIDKPNVLIRIHNDGTVLY</span></span>
-<span class="topo-line"><span class="topo-outside">SVRISLVLSCPMYLQYYPMDVQQCSIDLASYAYTTKDIEYLWKEHSPLQLKVGLSSSLPS</span></span>
-<span class="topo-line"><span class="topo-outside">FQLTNTSTTYCTSVTNTGIYSCLRTTIQLKREFSFYLLQLY</span><span class="topo-membrane">IPSCMLVIVSWVSFWF</span><span class="topo-inside">DRT</span></span>
-<span class="topo-line"><span class="topo-inside">A</span><span class="topo-membrane">IPARVTLGVTTLLTMTAQ</span><span class="topo-outside">SAGINSQLPPVSYIKAIDV</span><span class="topo-membrane">WIGACMTFIFCALLEFALVN</span><span class="topo-inside">HI</span></span>
-<span class="topo-line"><span class="topo-inside">ANAGTTEWNDISKRV</span><span class="topo-membrane">DLISRALFPVLFFVFNILYW</span><span class="topo-outside">SRFGH</span><span class="topo-unknown">HHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">SDSKILAHLFTSGYDFRVRPPTDNGGPVVVSVNMLLRTISKIDVVNMEYSAQLTLRESWIDKRLSYGVKGDGQPDFVILTVGHQIWMPDTFFPNEKQAYKHTIDKPNVLIRIHNDGTVLY</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">SVRISLVLSCPMYLQYYPMDVQQCSIDLASYAYTTKDIEYLWKEHSPLQLKVGLSSSLPSFQLTNTSTTYCTSVTNTGIYSCLRTTIQLKREFSFYLLQLY</span><span class="topo-membrane">IPSCMLVIVSWVSFWF</span><span class="topo-inside">DRT</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       </span>
+<span class="topo-line"><span class="topo-inside">A</span><span class="topo-membrane">IPARVTLGVTTLLTMTAQ</span><span class="topo-outside">SAGINSQLPPVSYIKAIDV</span><span class="topo-membrane">WIGACMTFIFCALLEFALVN</span><span class="topo-inside">HIANAGTTEWNDISKRV</span><span class="topo-membrane">DLISRALFPVLFFVFNILYW</span><span class="topo-outside">SRFGH</span><span class="topo-unknown">HHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (10 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1075,6 +1092,7 @@ GluCl is the glutamate-gated chloride channel from Caenorhabditis elegans, a pen
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1090,12 +1108,13 @@ GluCl is the glutamate-gated chloride channel from Caenorhabditis elegans, a pen
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">SDSKILAHLFTSGYDFRVRPPTDNGGPVVVSVNMLLRTISKIDVVNMEYSAQLTLRESWI</span></span>
-<span class="topo-line"><span class="topo-outside">DKRLSYGVKGDGQPDFVILTVGHQIWMPDTFFPNEKQAYKHTIDKPNVLIRIHNDGTVLY</span></span>
-<span class="topo-line"><span class="topo-outside">SVRISLVLSCPMYLQYYPMDVQQCSIDLASYAYTTKDIEYLWKEHSPLQLKVGLSSSLPS</span></span>
-<span class="topo-line"><span class="topo-outside">FQLTNTSTTYCTSVTNTGIYSCLRTTIQLKREFSFYLLQLY</span><span class="topo-membrane">IPSCMLVIVSWVSFWF</span><span class="topo-inside">DRT</span></span>
-<span class="topo-line"><span class="topo-inside">A</span><span class="topo-membrane">IPARVTLGVTTLLTMTAQ</span><span class="topo-outside">SAGINSQLPPVSYIKAIDV</span><span class="topo-membrane">WIGACMTFIFCALLEFALVN</span><span class="topo-inside">HI</span></span>
-<span class="topo-line"><span class="topo-inside">ANAGTTEWNDISKRV</span><span class="topo-membrane">DLISRALFPVLFFVFNILY</span><span class="topo-outside">WSRFGH</span><span class="topo-unknown">HHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">SDSKILAHLFTSGYDFRVRPPTDNGGPVVVSVNMLLRTISKIDVVNMEYSAQLTLRESWIDKRLSYGVKGDGQPDFVILTVGHQIWMPDTFFPNEKQAYKHTIDKPNVLIRIHNDGTVLY</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">SVRISLVLSCPMYLQYYPMDVQQCSIDLASYAYTTKDIEYLWKEHSPLQLKVGLSSSLPSFQLTNTSTTYCTSVTNTGIYSCLRTTIQLKREFSFYLLQLY</span><span class="topo-membrane">IPSCMLVIVSWVSFWF</span><span class="topo-inside">DRT</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       </span>
+<span class="topo-line"><span class="topo-inside">A</span><span class="topo-membrane">IPARVTLGVTTLLTMTAQ</span><span class="topo-outside">SAGINSQLPPVSYIKAIDV</span><span class="topo-membrane">WIGACMTFIFCALLEFALVN</span><span class="topo-inside">HIANAGTTEWNDISKRV</span><span class="topo-membrane">DLISRALFPVLFFVFNILY</span><span class="topo-outside">WSRFGH</span><span class="topo-unknown">HHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (10 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1177,6 +1196,7 @@ GluCl is the glutamate-gated chloride channel from Caenorhabditis elegans, a pen
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

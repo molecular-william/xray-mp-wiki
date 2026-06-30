@@ -182,18 +182,19 @@ TRPV6 is a Ca2+-selective transient receptor potential vanilloid channel uniquel
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGWSLPKEKGLILCLWNKFCRWFHRR</span><span class="topo-outside">ESWAQSRDEQNLLQQKRIWESPLLLAAKENNVQA</span></span>
-<span class="topo-line"><span class="topo-outside">LYKLLKFEGCEVHQKGAMGETALHIAALYDNNEAAQVLMEAAPELVFEPMTSELYEGQTA</span></span>
-<span class="topo-line"><span class="topo-outside">LHIAVINQNVNLVRALLARGASVSARATGSVFHYRPHNLIYYGEHPLSFAACVGSEEIVR</span></span>
-<span class="topo-line"><span class="topo-outside">LLIEHGADIRAQDSLGNTVLHILILQPNKTFACQMYNLLLSYDGGDHLKSLELVPNNQGL</span></span>
-<span class="topo-line"><span class="topo-outside">TPFKLAGVEGNIVMFQHLMQKRKHIQWTYGPLTSTLYDLTEIDSSGDDQSLLELIVTTKK</span></span>
-<span class="topo-line"><span class="topo-outside">REARQILDQTPVKELVSLKWKRYGRP</span><span class="topo-membrane">YFCVLGAIYVLYIICFTMCCVYR</span><span class="topo-inside">PLKPRITNRTN</span></span>
-<span class="topo-line"><span class="topo-inside">PRDNTLLQQKLLQEAYVTPKDD</span><span class="topo-membrane">LRLVGELVSIVGAVIILLVEIPDIFR</span><span class="topo-unknown">LGVTRFFG</span><span class="topo-outside">QTIL</span></span>
-<span class="topo-line"><span class="topo-outside">G</span><span class="topo-membrane">GPFHVIIVTYAFMVLVTMVMRLT</span><span class="topo-inside">NSDG</span><span class="topo-membrane">EVVPMSFALVLGWCNVMYFARG</span><span class="topo-unknown">FQMLGPFTI</span><span class="topo-outside">M</span></span>
-<span class="topo-line"><span class="topo-outside">IQKMIF</span><span class="topo-membrane">GDLMRFCWQMAVVILGFASAFYIIF</span><span class="topo-inside">QTEDPDELGHFYD</span><span class="topo-unknown">YPMALFSTFELFLTII</span></span>
-<span class="topo-line"><span class="topo-unknown">DGPA</span><span class="topo-inside">NYDVDLP</span><span class="topo-membrane">FMYSITYAAFAIIATLLMLNLLIAM</span><span class="topo-outside">MGDTHWRV</span><span class="topo-unknown">AHERDELWRAQVVATT</span></span>
-<span class="topo-line"><span class="topo-unknown">VMLERK</span><span class="topo-outside">LPRCLWPRSGICGREYGLGDRWFLRVEDRQD</span><span class="topo-unknown">LNRQRIRRYAQAFQQQDDLYSED</span></span>
-<span class="topo-line"><span class="topo-unknown">LEKDSGEKLVPR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGWSLPKEKGLILCLWNKFCRWFHRR</span><span class="topo-outside">ESWAQSRDEQNLLQQKRIWESPLLLAAKENNVQALYKLLKFEGCEVHQKGAMGETALHIAALYDNNEAAQVLMEAAPELVFEPMTSELYEGQTA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">LHIAVINQNVNLVRALLARGASVSARATGSVFHYRPHNLIYYGEHPLSFAACVGSEEIVRLLIEHGADIRAQDSLGNTVLHILILQPNKTFACQMYNLLLSYDGGDHLKSLELVPNNQGL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">TPFKLAGVEGNIVMFQHLMQKRKHIQWTYGPLTSTLYDLTEIDSSGDDQSLLELIVTTKKREARQILDQTPVKELVSLKWKRYGRP</span><span class="topo-membrane">YFCVLGAIYVLYIICFTMCCVYR</span><span class="topo-inside">PLKPRITNRTN</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">PRDNTLLQQKLLQEAYVTPKDD</span><span class="topo-membrane">LRLVGELVSIVGAVIILLVEIPDIFR</span><span class="topo-unknown">LGVTRFFG</span><span class="topo-outside">QTILG</span><span class="topo-membrane">GPFHVIIVTYAFMVLVTMVMRLT</span><span class="topo-inside">NSDG</span><span class="topo-membrane">EVVPMSFALVLGWCNVMYFARG</span><span class="topo-unknown">FQMLGPFTI</span><span class="topo-outside">M</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">IQKMIF</span><span class="topo-membrane">GDLMRFCWQMAVVILGFASAFYIIF</span><span class="topo-inside">QTEDPDELGHFYD</span><span class="topo-unknown">YPMALFSTFELFLTIIDGPA</span><span class="topo-inside">NYDVDLP</span><span class="topo-membrane">FMYSITYAAFAIIATLLMLNLLIAM</span><span class="topo-outside">MGDTHWRV</span><span class="topo-unknown">AHERDELWRAQVVATT</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670  </span>
+<span class="topo-line"><span class="topo-unknown">VMLERK</span><span class="topo-outside">LPRCLWPRSGICGREYGLGDRWFLRVEDRQD</span><span class="topo-unknown">LNRQRIRRYAQAFQQQDDLYSEDLEKDSGEKLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -324,6 +325,7 @@ TRPV6 is a Ca2+-selective transient receptor potential vanilloid channel uniquel
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -339,18 +341,19 @@ TRPV6 is a Ca2+-selective transient receptor potential vanilloid channel uniquel
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGWSLPKEKGLILCLWNKFCRWFHRR</span><span class="topo-outside">ESWAQSRDEQNLLQQKRIWESPLLLAAKENNVQA</span></span>
-<span class="topo-line"><span class="topo-outside">LYKLLKFEGCEVHQKGAMGETALHIAALYDNNEAAQVLMEAAPELVFEPMTSELYEGQTA</span></span>
-<span class="topo-line"><span class="topo-outside">LHIAVINQNVNLVRALLARGASVSARATGSVFHYRPHNLIYYGEHPLSFAACVGSEEIVR</span></span>
-<span class="topo-line"><span class="topo-outside">LLIEHGADIRAQDSLGNTVLHILILQPNKTFACQMYNLLLSYDGGDHLKSLELVPNNQGL</span></span>
-<span class="topo-line"><span class="topo-outside">TPFKLAGVEGNIVMFQHLMQKRKHIQWTYGPLTSTLYDLTEIDSSGDDQSLLELIVTTKK</span></span>
-<span class="topo-line"><span class="topo-outside">REARQILDQTPVKELVSLKWKRYGRP</span><span class="topo-membrane">YFCVLGAIYVLYIICFTMCCVYR</span><span class="topo-inside">PLKPRITNRTN</span></span>
-<span class="topo-line"><span class="topo-inside">PRDNTLLQQKLLQEAYVTPKDD</span><span class="topo-membrane">LRLVGELVSIVGAVIILLVEIPDIFR</span><span class="topo-unknown">LGVTRFFG</span><span class="topo-outside">QTIL</span></span>
-<span class="topo-line"><span class="topo-outside">G</span><span class="topo-membrane">GPFHVIIVTYAFMVLVTMVMRLT</span><span class="topo-inside">NSDG</span><span class="topo-membrane">EVVPMSFALVLGWCNVMYFARG</span><span class="topo-unknown">FQMLGPFTI</span><span class="topo-outside">M</span></span>
-<span class="topo-line"><span class="topo-outside">IQKMIF</span><span class="topo-membrane">GDLMRFCWQMAVVILGFASAFYIIF</span><span class="topo-inside">QTEDPDELGHFYD</span><span class="topo-unknown">YPMALFSTFELFLTII</span></span>
-<span class="topo-line"><span class="topo-unknown">DGPA</span><span class="topo-inside">NYDVDLP</span><span class="topo-membrane">FMYSITYAAFAIIATLLMLNLLIAM</span><span class="topo-outside">MGDTHWRV</span><span class="topo-unknown">AHERDELWRAQVVATT</span></span>
-<span class="topo-line"><span class="topo-unknown">VMLERK</span><span class="topo-outside">LPRCLWPRSGICGREYGLGDRWFLRVEDRQD</span><span class="topo-unknown">LNRQRIRRYAQAFQQQDDLYSED</span></span>
-<span class="topo-line"><span class="topo-unknown">LEKDSGEKLVPR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGWSLPKEKGLILCLWNKFCRWFHRR</span><span class="topo-outside">ESWAQSRDEQNLLQQKRIWESPLLLAAKENNVQALYKLLKFEGCEVHQKGAMGETALHIAALYDNNEAAQVLMEAAPELVFEPMTSELYEGQTA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">LHIAVINQNVNLVRALLARGASVSARATGSVFHYRPHNLIYYGEHPLSFAACVGSEEIVRLLIEHGADIRAQDSLGNTVLHILILQPNKTFACQMYNLLLSYDGGDHLKSLELVPNNQGL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">TPFKLAGVEGNIVMFQHLMQKRKHIQWTYGPLTSTLYDLTEIDSSGDDQSLLELIVTTKKREARQILDQTPVKELVSLKWKRYGRP</span><span class="topo-membrane">YFCVLGAIYVLYIICFTMCCVYR</span><span class="topo-inside">PLKPRITNRTN</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">PRDNTLLQQKLLQEAYVTPKDD</span><span class="topo-membrane">LRLVGELVSIVGAVIILLVEIPDIFR</span><span class="topo-unknown">LGVTRFFG</span><span class="topo-outside">QTILG</span><span class="topo-membrane">GPFHVIIVTYAFMVLVTMVMRLT</span><span class="topo-inside">NSDG</span><span class="topo-membrane">EVVPMSFALVLGWCNVMYFARG</span><span class="topo-unknown">FQMLGPFTI</span><span class="topo-outside">M</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">IQKMIF</span><span class="topo-membrane">GDLMRFCWQMAVVILGFASAFYIIF</span><span class="topo-inside">QTEDPDELGHFYD</span><span class="topo-unknown">YPMALFSTFELFLTIIDGPA</span><span class="topo-inside">NYDVDLP</span><span class="topo-membrane">FMYSITYAAFAIIATLLMLNLLIAM</span><span class="topo-outside">MGDTHWRV</span><span class="topo-unknown">AHERDELWRAQVVATT</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670  </span>
+<span class="topo-line"><span class="topo-unknown">VMLERK</span><span class="topo-outside">LPRCLWPRSGICGREYGLGDRWFLRVEDRQD</span><span class="topo-unknown">LNRQRIRRYAQAFQQQDDLYSEDLEKDSGEKLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -481,6 +484,7 @@ TRPV6 is a Ca2+-selective transient receptor potential vanilloid channel uniquel
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -496,18 +500,19 @@ TRPV6 is a Ca2+-selective transient receptor potential vanilloid channel uniquel
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGWSLPKEKGLILCLWNKFCRWFHRR</span><span class="topo-outside">ESWAQSRDEQNLLQQKRIWESPLLLAAKENNVQA</span></span>
-<span class="topo-line"><span class="topo-outside">LYKLLKFEGCEVHQKGAMGETALHIAALYDNNEAAQVLMEAAPELVFEPMTSELYEGQTA</span></span>
-<span class="topo-line"><span class="topo-outside">LHIAVINQNVNLVRALLARGASVSARATGSVFHYRPHNLIYYGEHPLSFAACVGSEEIVR</span></span>
-<span class="topo-line"><span class="topo-outside">LLIEHGADIRAQDSLGNTVLHILILQPNKTFACQMYNLLLSYDGGDHLKSLELVPNNQGL</span></span>
-<span class="topo-line"><span class="topo-outside">TPFKLAGVEGNIVMFQHLMQKRKHIQWTYGPLTSTLYDLTEIDSSGDDQSLLELIVTTKK</span></span>
-<span class="topo-line"><span class="topo-outside">REARQILDQTPVKELVSLKWKRYGRP</span><span class="topo-membrane">YFCVLGAIYVLYIICFTMCCVYR</span><span class="topo-inside">PLKPRITNRTN</span></span>
-<span class="topo-line"><span class="topo-inside">PRDNTLLQQKLLQEAYVTPKDD</span><span class="topo-membrane">LRLVGELVSIVGAVIILLVEIPDIFR</span><span class="topo-unknown">LGVTRFFG</span><span class="topo-outside">QTIL</span></span>
-<span class="topo-line"><span class="topo-outside">G</span><span class="topo-membrane">GPFHVIIVTYAFMVLVTMVMRLT</span><span class="topo-inside">NSDG</span><span class="topo-membrane">EVVPMSFALVLGWCNVMYFARG</span><span class="topo-unknown">FQMLGPFTI</span><span class="topo-outside">M</span></span>
-<span class="topo-line"><span class="topo-outside">IQKMIF</span><span class="topo-membrane">GDLMRFCWQMAVVILGFASAFYIIF</span><span class="topo-inside">QTEDPDELGHFYD</span><span class="topo-unknown">YPMALFSTFELFLTII</span></span>
-<span class="topo-line"><span class="topo-unknown">DGPA</span><span class="topo-inside">NYDVDLP</span><span class="topo-membrane">FMYSITYAAFAIIATLLMLNLLIAM</span><span class="topo-outside">MGDTHWRV</span><span class="topo-unknown">AHERDELWRAQVVATT</span></span>
-<span class="topo-line"><span class="topo-unknown">VMLERK</span><span class="topo-outside">LPRCLWPRSGICGREYGLGDRWFLRVEDRQD</span><span class="topo-unknown">LNRQRIRRYAQAFQQQDDLYSED</span></span>
-<span class="topo-line"><span class="topo-unknown">LEKDSGEKLVPR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGWSLPKEKGLILCLWNKFCRWFHRR</span><span class="topo-outside">ESWAQSRDEQNLLQQKRIWESPLLLAAKENNVQALYKLLKFEGCEVHQKGAMGETALHIAALYDNNEAAQVLMEAAPELVFEPMTSELYEGQTA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">LHIAVINQNVNLVRALLARGASVSARATGSVFHYRPHNLIYYGEHPLSFAACVGSEEIVRLLIEHGADIRAQDSLGNTVLHILILQPNKTFACQMYNLLLSYDGGDHLKSLELVPNNQGL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">TPFKLAGVEGNIVMFQHLMQKRKHIQWTYGPLTSTLYDLTEIDSSGDDQSLLELIVTTKKREARQILDQTPVKELVSLKWKRYGRP</span><span class="topo-membrane">YFCVLGAIYVLYIICFTMCCVYR</span><span class="topo-inside">PLKPRITNRTN</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">PRDNTLLQQKLLQEAYVTPKDD</span><span class="topo-membrane">LRLVGELVSIVGAVIILLVEIPDIFR</span><span class="topo-unknown">LGVTRFFG</span><span class="topo-outside">QTILG</span><span class="topo-membrane">GPFHVIIVTYAFMVLVTMVMRLT</span><span class="topo-inside">NSDG</span><span class="topo-membrane">EVVPMSFALVLGWCNVMYFARG</span><span class="topo-unknown">FQMLGPFTI</span><span class="topo-outside">M</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">IQKMIF</span><span class="topo-membrane">GDLMRFCWQMAVVILGFASAFYIIF</span><span class="topo-inside">QTEDPDELGHFYD</span><span class="topo-unknown">YPMALFSTFELFLTIIDGPA</span><span class="topo-inside">NYDVDLP</span><span class="topo-membrane">FMYSITYAAFAIIATLLMLNLLIAM</span><span class="topo-outside">MGDTHWRV</span><span class="topo-unknown">AHERDELWRAQVVATT</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670  </span>
+<span class="topo-line"><span class="topo-unknown">VMLERK</span><span class="topo-outside">LPRCLWPRSGICGREYGLGDRWFLRVEDRQD</span><span class="topo-unknown">LNRQRIRRYAQAFQQQDDLYSEDLEKDSGEKLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -638,6 +643,7 @@ TRPV6 is a Ca2+-selective transient receptor potential vanilloid channel uniquel
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -653,18 +659,19 @@ TRPV6 is a Ca2+-selective transient receptor potential vanilloid channel uniquel
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGWSLPKEKGLILCLWNKFCRWFHRR</span><span class="topo-outside">ESWAQSRDEQNLLQQKRIWESPLLLAAKENNVQA</span></span>
-<span class="topo-line"><span class="topo-outside">LYKLLKFEGCEVHQKGAMGETALHIAALYDNNEAAQVLMEAAPELVFEPMTSELYEGQTA</span></span>
-<span class="topo-line"><span class="topo-outside">LHIAVINQNVNLVRALLARGASVSARATGSVFHYRPHNLIYYGEHPLSFAACVGSEEIVR</span></span>
-<span class="topo-line"><span class="topo-outside">LLIEHGADIRAQDSLGNTVLHILILQPNKTFACQMYNLLLSYDGGDHLKSLELVPNNQGL</span></span>
-<span class="topo-line"><span class="topo-outside">TPFKLAGVEGNIVMFQHLMQKRKHIQWTYGPLTSTLYDLTEIDSSGDDQSLLELIVTTKK</span></span>
-<span class="topo-line"><span class="topo-outside">REARQILDQTPVKELVSLKWKRYGRP</span><span class="topo-membrane">YFCVLGAIYVLYIICFTMCCVYR</span><span class="topo-inside">PLKPRITNRTN</span></span>
-<span class="topo-line"><span class="topo-inside">PRDNTLLQQKLLQEAYVTPKDD</span><span class="topo-membrane">LRLVGELVSIVGAVIILLVEIPDIFR</span><span class="topo-unknown">LGVTRFFG</span><span class="topo-outside">QTIL</span></span>
-<span class="topo-line"><span class="topo-outside">G</span><span class="topo-membrane">GPFHVIIVTYAFMVLVTMVMRLT</span><span class="topo-inside">NSDG</span><span class="topo-membrane">EVVPMSFALVLGWCNVMYFARG</span><span class="topo-unknown">FQMLGPFTI</span><span class="topo-outside">M</span></span>
-<span class="topo-line"><span class="topo-outside">IQKMIF</span><span class="topo-membrane">GDLMRFCWQMAVVILGFASAFYIIF</span><span class="topo-inside">QTEDPDELGHFYD</span><span class="topo-unknown">YPMALFSTFELFLTII</span></span>
-<span class="topo-line"><span class="topo-unknown">DGPA</span><span class="topo-inside">NYDVDLP</span><span class="topo-membrane">FMYSITYAAFAIIATLLMLNLLIAM</span><span class="topo-outside">MGDTHWRV</span><span class="topo-unknown">AHERDELWRAQVVATT</span></span>
-<span class="topo-line"><span class="topo-unknown">VMLERK</span><span class="topo-outside">LPRCLWPRSGICGREYGLGDRWFLRVEDRQD</span><span class="topo-unknown">LNRQRIRRYAQAFQQQDDLYSED</span></span>
-<span class="topo-line"><span class="topo-unknown">LEKDSGEKLVPR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGWSLPKEKGLILCLWNKFCRWFHRR</span><span class="topo-outside">ESWAQSRDEQNLLQQKRIWESPLLLAAKENNVQALYKLLKFEGCEVHQKGAMGETALHIAALYDNNEAAQVLMEAAPELVFEPMTSELYEGQTA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">LHIAVINQNVNLVRALLARGASVSARATGSVFHYRPHNLIYYGEHPLSFAACVGSEEIVRLLIEHGADIRAQDSLGNTVLHILILQPNKTFACQMYNLLLSYDGGDHLKSLELVPNNQGL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">TPFKLAGVEGNIVMFQHLMQKRKHIQWTYGPLTSTLYDLTEIDSSGDDQSLLELIVTTKKREARQILDQTPVKELVSLKWKRYGRP</span><span class="topo-membrane">YFCVLGAIYVLYIICFTMCCVYR</span><span class="topo-inside">PLKPRITNRTN</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">PRDNTLLQQKLLQEAYVTPKDD</span><span class="topo-membrane">LRLVGELVSIVGAVIILLVEIPDIFR</span><span class="topo-unknown">LGVTRFFG</span><span class="topo-outside">QTILG</span><span class="topo-membrane">GPFHVIIVTYAFMVLVTMVMRLT</span><span class="topo-inside">NSDG</span><span class="topo-membrane">EVVPMSFALVLGWCNVMYFARG</span><span class="topo-unknown">FQMLGPFTI</span><span class="topo-outside">M</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">IQKMIF</span><span class="topo-membrane">GDLMRFCWQMAVVILGFASAFYIIF</span><span class="topo-inside">QTEDPDELGHFYD</span><span class="topo-unknown">YPMALFSTFELFLTIIDGPA</span><span class="topo-inside">NYDVDLP</span><span class="topo-membrane">FMYSITYAAFAIIATLLMLNLLIAM</span><span class="topo-outside">MGDTHWRV</span><span class="topo-unknown">AHERDELWRAQVVATT</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670  </span>
+<span class="topo-line"><span class="topo-unknown">VMLERK</span><span class="topo-outside">LPRCLWPRSGICGREYGLGDRWFLRVEDRQD</span><span class="topo-unknown">LNRQRIRRYAQAFQQQDDLYSEDLEKDSGEKLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -795,6 +802,7 @@ TRPV6 is a Ca2+-selective transient receptor potential vanilloid channel uniquel
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -810,18 +818,19 @@ TRPV6 is a Ca2+-selective transient receptor potential vanilloid channel uniquel
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGWSLPKEKGLILCLWNKFCRWFHRR</span><span class="topo-outside">ESWAQSRDEQNLLQQKRIWESPLLLAAKENNVQA</span></span>
-<span class="topo-line"><span class="topo-outside">LYKLLKFEGCEVHQKGAMGETALHIAALYDNNEAAQVLMEAAPELVFEPMTSELYEGQTA</span></span>
-<span class="topo-line"><span class="topo-outside">LHIAVINQNVNLVRALLARGASVSARATGSVFHYRPHNLIYYGEHPLSFAACVGSEEIVR</span></span>
-<span class="topo-line"><span class="topo-outside">LLIEHGADIRAQDSLGNTVLHILILQPNKTFACQMYNLLLSYDGGDHLKSLELVPNNQGL</span></span>
-<span class="topo-line"><span class="topo-outside">TPFKLAGVEGNIVMFQHLMQKRKHIQWTYGPLTSTLYDLTEIDSSGDDQSLLELIVTTKK</span></span>
-<span class="topo-line"><span class="topo-outside">REARQILDQTPVKELVSLKWKRYGRP</span><span class="topo-membrane">YFCVLGAIYVLYIICFTMCCVYR</span><span class="topo-inside">PLKPRITNRTN</span></span>
-<span class="topo-line"><span class="topo-inside">PRDNTLLQQKLLQEAYVTPKDD</span><span class="topo-membrane">LRLVGELVSIVGAVIILLVEIPDIFR</span><span class="topo-unknown">LGVTRFFG</span><span class="topo-outside">QTIL</span></span>
-<span class="topo-line"><span class="topo-outside">G</span><span class="topo-membrane">GPFHVIIVTYAFMVLVTMVMRL</span><span class="topo-inside">TNSDG</span><span class="topo-membrane">EVVPMSFALVLGWCNVMYFARG</span><span class="topo-unknown">FQMLGPFTIM</span></span>
-<span class="topo-line"><span class="topo-unknown">IQ</span><span class="topo-outside">KMIF</span><span class="topo-membrane">GDLMRFCWQMAVVILGFASAFYIIF</span><span class="topo-inside">QTEDPDELGHFYD</span><span class="topo-unknown">YPMALFSTFELFLTII</span></span>
-<span class="topo-line"><span class="topo-unknown">DGPA</span><span class="topo-inside">NYDVDLP</span><span class="topo-membrane">FMYSITYAAFAIIATLLMLNLLIAM</span><span class="topo-outside">MGDTHWR</span><span class="topo-unknown">VAHERDELWRAQVVATT</span></span>
-<span class="topo-line"><span class="topo-unknown">VMLERK</span><span class="topo-outside">LPRCLWPRSGICGREYGLGDRWFLRVEDRQD</span><span class="topo-unknown">LNRQRIRRYAQAFQQQDDLYSED</span></span>
-<span class="topo-line"><span class="topo-unknown">LEKDSGEKLVPR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGWSLPKEKGLILCLWNKFCRWFHRR</span><span class="topo-outside">ESWAQSRDEQNLLQQKRIWESPLLLAAKENNVQALYKLLKFEGCEVHQKGAMGETALHIAALYDNNEAAQVLMEAAPELVFEPMTSELYEGQTA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">LHIAVINQNVNLVRALLARGASVSARATGSVFHYRPHNLIYYGEHPLSFAACVGSEEIVRLLIEHGADIRAQDSLGNTVLHILILQPNKTFACQMYNLLLSYDGGDHLKSLELVPNNQGL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">TPFKLAGVEGNIVMFQHLMQKRKHIQWTYGPLTSTLYDLTEIDSSGDDQSLLELIVTTKKREARQILDQTPVKELVSLKWKRYGRP</span><span class="topo-membrane">YFCVLGAIYVLYIICFTMCCVYR</span><span class="topo-inside">PLKPRITNRTN</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">PRDNTLLQQKLLQEAYVTPKDD</span><span class="topo-membrane">LRLVGELVSIVGAVIILLVEIPDIFR</span><span class="topo-unknown">LGVTRFFG</span><span class="topo-outside">QTILG</span><span class="topo-membrane">GPFHVIIVTYAFMVLVTMVMRL</span><span class="topo-inside">TNSDG</span><span class="topo-membrane">EVVPMSFALVLGWCNVMYFARG</span><span class="topo-unknown">FQMLGPFTIM</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-unknown">IQ</span><span class="topo-outside">KMIF</span><span class="topo-membrane">GDLMRFCWQMAVVILGFASAFYIIF</span><span class="topo-inside">QTEDPDELGHFYD</span><span class="topo-unknown">YPMALFSTFELFLTIIDGPA</span><span class="topo-inside">NYDVDLP</span><span class="topo-membrane">FMYSITYAAFAIIATLLMLNLLIAM</span><span class="topo-outside">MGDTHWR</span><span class="topo-unknown">VAHERDELWRAQVVATT</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670  </span>
+<span class="topo-line"><span class="topo-unknown">VMLERK</span><span class="topo-outside">LPRCLWPRSGICGREYGLGDRWFLRVEDRQD</span><span class="topo-unknown">LNRQRIRRYAQAFQQQDDLYSEDLEKDSGEKLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -952,6 +961,7 @@ TRPV6 is a Ca2+-selective transient receptor potential vanilloid channel uniquel
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -967,18 +977,19 @@ TRPV6 is a Ca2+-selective transient receptor potential vanilloid channel uniquel
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGWSLPKEKGLILCLWNKFCRWFHRR</span><span class="topo-outside">ESWAQSRDEQNLLQQKRIWESPLLLAAKENNVQA</span></span>
-<span class="topo-line"><span class="topo-outside">LYKLLKFEGCEVHQKGAMGETALHIAALYDNNEAAQVLMEAAPELVFEPMTSELYEGQTA</span></span>
-<span class="topo-line"><span class="topo-outside">LHIAVINQNVNLVRALLARGASVSARATGSVFHYRPHNLIYYGEHPLSFAACVGSEEIVR</span></span>
-<span class="topo-line"><span class="topo-outside">LLIEHGADIRAQDSLGNTVLHILILQPNKTFACQMYNLLLSYDGGDHLKSLELVPNNQGL</span></span>
-<span class="topo-line"><span class="topo-outside">TPFKLAGVEGNIVMFQHLMQKRKHIQWTYGPLTSTLYDLTEIDSSGDDQSLLELIVTTKK</span></span>
-<span class="topo-line"><span class="topo-outside">REARQILDQTPVKELVSLKWKRYGRP</span><span class="topo-membrane">YFCVLGAIYVLYIICFTMCCVYR</span><span class="topo-inside">PLKPRITNRTN</span></span>
-<span class="topo-line"><span class="topo-inside">PRDNTLLQQKLLQEAYVTPKDD</span><span class="topo-membrane">LRLVGELVSIVGAVIILLVEIPDIFR</span><span class="topo-unknown">LGVTRFFG</span><span class="topo-outside">QTIL</span></span>
-<span class="topo-line"><span class="topo-outside">G</span><span class="topo-membrane">GPFHVIIVTYAFMVLVTMVMRL</span><span class="topo-inside">TNSDG</span><span class="topo-membrane">EVVPMSFALVLGWCNVMYFARG</span><span class="topo-unknown">FQMLGPFTIM</span></span>
-<span class="topo-line"><span class="topo-unknown">IQ</span><span class="topo-outside">KMIF</span><span class="topo-membrane">GDLMRFCWQMAVVILGFASAFYIIF</span><span class="topo-inside">QTEDPDELGHFYD</span><span class="topo-unknown">YPMALFSTFELFLTII</span></span>
-<span class="topo-line"><span class="topo-unknown">DGPA</span><span class="topo-inside">NYDVDLP</span><span class="topo-membrane">FMYSITYAAFAIIATLLMLNLLIAM</span><span class="topo-outside">MGDTHWR</span><span class="topo-unknown">VAHERDELWRAQVVATT</span></span>
-<span class="topo-line"><span class="topo-unknown">VMLERK</span><span class="topo-outside">LPRCLWPRSGICGREYGLGDRWFLRVEDRQD</span><span class="topo-unknown">LNRQRIRRYAQAFQQQDDLYSED</span></span>
-<span class="topo-line"><span class="topo-unknown">LEKDSGEKLVPR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGWSLPKEKGLILCLWNKFCRWFHRR</span><span class="topo-outside">ESWAQSRDEQNLLQQKRIWESPLLLAAKENNVQALYKLLKFEGCEVHQKGAMGETALHIAALYDNNEAAQVLMEAAPELVFEPMTSELYEGQTA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">LHIAVINQNVNLVRALLARGASVSARATGSVFHYRPHNLIYYGEHPLSFAACVGSEEIVRLLIEHGADIRAQDSLGNTVLHILILQPNKTFACQMYNLLLSYDGGDHLKSLELVPNNQGL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">TPFKLAGVEGNIVMFQHLMQKRKHIQWTYGPLTSTLYDLTEIDSSGDDQSLLELIVTTKKREARQILDQTPVKELVSLKWKRYGRP</span><span class="topo-membrane">YFCVLGAIYVLYIICFTMCCVYR</span><span class="topo-inside">PLKPRITNRTN</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">PRDNTLLQQKLLQEAYVTPKDD</span><span class="topo-membrane">LRLVGELVSIVGAVIILLVEIPDIFR</span><span class="topo-unknown">LGVTRFFG</span><span class="topo-outside">QTILG</span><span class="topo-membrane">GPFHVIIVTYAFMVLVTMVMRL</span><span class="topo-inside">TNSDG</span><span class="topo-membrane">EVVPMSFALVLGWCNVMYFARG</span><span class="topo-unknown">FQMLGPFTIM</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-unknown">IQ</span><span class="topo-outside">KMIF</span><span class="topo-membrane">GDLMRFCWQMAVVILGFASAFYIIF</span><span class="topo-inside">QTEDPDELGHFYD</span><span class="topo-unknown">YPMALFSTFELFLTIIDGPA</span><span class="topo-inside">NYDVDLP</span><span class="topo-membrane">FMYSITYAAFAIIATLLMLNLLIAM</span><span class="topo-outside">MGDTHWR</span><span class="topo-unknown">VAHERDELWRAQVVATT</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670  </span>
+<span class="topo-line"><span class="topo-unknown">VMLERK</span><span class="topo-outside">LPRCLWPRSGICGREYGLGDRWFLRVEDRQD</span><span class="topo-unknown">LNRQRIRRYAQAFQQQDDLYSEDLEKDSGEKLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1109,6 +1120,7 @@ TRPV6 is a Ca2+-selective transient receptor potential vanilloid channel uniquel
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1124,18 +1136,19 @@ TRPV6 is a Ca2+-selective transient receptor potential vanilloid channel uniquel
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGWSLPKEKGLILCLWNKFCRWFHRR</span><span class="topo-outside">ESWAQSRDEQNLLQQKRIWESPLLLAAKENNVQA</span></span>
-<span class="topo-line"><span class="topo-outside">LYKLLKFEGCEVHQKGAMGETALHIAALYDNNEAAQVLMEAAPELVFEPMTSELYEGQTA</span></span>
-<span class="topo-line"><span class="topo-outside">LHIAVINQNVNLVRALLARGASVSARATGSVFHYRPHNLIYYGEHPLSFAACVGSEEIVR</span></span>
-<span class="topo-line"><span class="topo-outside">LLIEHGADIRAQDSLGNTVLHILILQPNKTFACQMYNLLLSYDGGDHLKSLELVPNNQGL</span></span>
-<span class="topo-line"><span class="topo-outside">TPFKLAGVEGNIVMFQHLMQKRKHIQWTYGPLTSTLYDLTEIDSSGDDQSLLELIVTTKK</span></span>
-<span class="topo-line"><span class="topo-outside">REARQILDQTPVKELVSLKWKRYGRP</span><span class="topo-membrane">YFCVLGAIYVLYIICFTMCCVYR</span><span class="topo-inside">PLKPRITNRTN</span></span>
-<span class="topo-line"><span class="topo-inside">PRDNTLLQQKLLQEAYVTPKDD</span><span class="topo-membrane">LRLVGELVSIVGAVIILLVEIPDIFR</span><span class="topo-unknown">LGVTRFFG</span><span class="topo-outside">QTIL</span></span>
-<span class="topo-line"><span class="topo-outside">G</span><span class="topo-membrane">GPFHVIIVTYAFMVLVTMVMRL</span><span class="topo-inside">TNSDG</span><span class="topo-membrane">EVVPMSFALVLGWCNVMYFARG</span><span class="topo-unknown">FQMLGPFTIM</span></span>
-<span class="topo-line"><span class="topo-unknown">IQ</span><span class="topo-outside">KMIF</span><span class="topo-membrane">GDLMRFCWQMAVVILGFASAFYIIF</span><span class="topo-inside">QTEDPDELGHFYD</span><span class="topo-unknown">YPMALFSTFELFLTII</span></span>
-<span class="topo-line"><span class="topo-unknown">DGPA</span><span class="topo-inside">NYDVDLP</span><span class="topo-membrane">FMYSITYAAFAIIATLLMLNLLIAM</span><span class="topo-outside">MGDTHWR</span><span class="topo-unknown">VAHERDELWRAQVVATT</span></span>
-<span class="topo-line"><span class="topo-unknown">VMLERK</span><span class="topo-outside">LPRCLWPRSGICGREYGLGDRWFLRVEDRQD</span><span class="topo-unknown">LNRQRIRRYAQAFQQQDDLYSED</span></span>
-<span class="topo-line"><span class="topo-unknown">LEKDSGEKLVPR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGWSLPKEKGLILCLWNKFCRWFHRR</span><span class="topo-outside">ESWAQSRDEQNLLQQKRIWESPLLLAAKENNVQALYKLLKFEGCEVHQKGAMGETALHIAALYDNNEAAQVLMEAAPELVFEPMTSELYEGQTA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">LHIAVINQNVNLVRALLARGASVSARATGSVFHYRPHNLIYYGEHPLSFAACVGSEEIVRLLIEHGADIRAQDSLGNTVLHILILQPNKTFACQMYNLLLSYDGGDHLKSLELVPNNQGL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">TPFKLAGVEGNIVMFQHLMQKRKHIQWTYGPLTSTLYDLTEIDSSGDDQSLLELIVTTKKREARQILDQTPVKELVSLKWKRYGRP</span><span class="topo-membrane">YFCVLGAIYVLYIICFTMCCVYR</span><span class="topo-inside">PLKPRITNRTN</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">PRDNTLLQQKLLQEAYVTPKDD</span><span class="topo-membrane">LRLVGELVSIVGAVIILLVEIPDIFR</span><span class="topo-unknown">LGVTRFFG</span><span class="topo-outside">QTILG</span><span class="topo-membrane">GPFHVIIVTYAFMVLVTMVMRL</span><span class="topo-inside">TNSDG</span><span class="topo-membrane">EVVPMSFALVLGWCNVMYFARG</span><span class="topo-unknown">FQMLGPFTIM</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-unknown">IQ</span><span class="topo-outside">KMIF</span><span class="topo-membrane">GDLMRFCWQMAVVILGFASAFYIIF</span><span class="topo-inside">QTEDPDELGHFYD</span><span class="topo-unknown">YPMALFSTFELFLTIIDGPA</span><span class="topo-inside">NYDVDLP</span><span class="topo-membrane">FMYSITYAAFAIIATLLMLNLLIAM</span><span class="topo-outside">MGDTHWR</span><span class="topo-unknown">VAHERDELWRAQVVATT</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670  </span>
+<span class="topo-line"><span class="topo-unknown">VMLERK</span><span class="topo-outside">LPRCLWPRSGICGREYGLGDRWFLRVEDRQD</span><span class="topo-unknown">LNRQRIRRYAQAFQQQDDLYSEDLEKDSGEKLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1266,6 +1279,7 @@ TRPV6 is a Ca2+-selective transient receptor potential vanilloid channel uniquel
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1281,18 +1295,19 @@ TRPV6 is a Ca2+-selective transient receptor potential vanilloid channel uniquel
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGWSLPKEKGLILCLWNKFCRWFHRR</span><span class="topo-outside">ESWAQSRDEQNLLQQKRIWESPLLLAAKENNVQA</span></span>
-<span class="topo-line"><span class="topo-outside">LYKLLKFEGCEVHQKGAMGETALHIAALYDNNEAAQVLMEAAPELVFEPMTSELYEGQTA</span></span>
-<span class="topo-line"><span class="topo-outside">LHIAVINQNVNLVRALLARGASVSARATGSVFHYRPHNLIYYGEHPLSFAACVGSEEIVR</span></span>
-<span class="topo-line"><span class="topo-outside">LLIEHGADIRAQDSLGNTVLHILILQPNKTFACQMYNLLLSYDGGDHLKSLELVPNNQGL</span></span>
-<span class="topo-line"><span class="topo-outside">TPFKLAGVEGNIVMFQHLMQKRKHIQWTYGPLTSTLYDLTEIDSSGDDQSLLELIVTTKK</span></span>
-<span class="topo-line"><span class="topo-outside">REARQILDQTPVKELVSLKWKRYGRP</span><span class="topo-membrane">YFCVLGAIYVLYIICFTMCCVYR</span><span class="topo-inside">PLKPRITNRTN</span></span>
-<span class="topo-line"><span class="topo-inside">PRDNTLLQQKLLQEAYVTPKDD</span><span class="topo-membrane">LRLVGELVSIVGAVIILLVEIPDIFR</span><span class="topo-unknown">LGVTRFFG</span><span class="topo-outside">QTIL</span></span>
-<span class="topo-line"><span class="topo-outside">G</span><span class="topo-membrane">GPFHVIIVTYAFMVLVTMVMRL</span><span class="topo-inside">TNSDG</span><span class="topo-membrane">EVVPMSFALVLGWCNVMYFARG</span><span class="topo-unknown">FQMLGPFTIM</span></span>
-<span class="topo-line"><span class="topo-unknown">IQ</span><span class="topo-outside">KMIF</span><span class="topo-membrane">GDLMRFCWQMAVVILGFASAFYIIF</span><span class="topo-inside">QTEDPDELGHFYD</span><span class="topo-unknown">YPMALFSTFELFLTII</span></span>
-<span class="topo-line"><span class="topo-unknown">DGPA</span><span class="topo-inside">NYDVDLP</span><span class="topo-membrane">FMYSITYAAFAIIATLLMLNLLIAM</span><span class="topo-outside">MGDTHWR</span><span class="topo-unknown">VAHERDELWRAQVVATT</span></span>
-<span class="topo-line"><span class="topo-unknown">VMLERK</span><span class="topo-outside">LPRCLWPRSGICGREYGLGDRWFLRVEDRQD</span><span class="topo-unknown">LNRQRIRRYAQAFQQQDDLYSED</span></span>
-<span class="topo-line"><span class="topo-unknown">LEKDSGEKLVPR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGWSLPKEKGLILCLWNKFCRWFHRR</span><span class="topo-outside">ESWAQSRDEQNLLQQKRIWESPLLLAAKENNVQALYKLLKFEGCEVHQKGAMGETALHIAALYDNNEAAQVLMEAAPELVFEPMTSELYEGQTA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">LHIAVINQNVNLVRALLARGASVSARATGSVFHYRPHNLIYYGEHPLSFAACVGSEEIVRLLIEHGADIRAQDSLGNTVLHILILQPNKTFACQMYNLLLSYDGGDHLKSLELVPNNQGL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">TPFKLAGVEGNIVMFQHLMQKRKHIQWTYGPLTSTLYDLTEIDSSGDDQSLLELIVTTKKREARQILDQTPVKELVSLKWKRYGRP</span><span class="topo-membrane">YFCVLGAIYVLYIICFTMCCVYR</span><span class="topo-inside">PLKPRITNRTN</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">PRDNTLLQQKLLQEAYVTPKDD</span><span class="topo-membrane">LRLVGELVSIVGAVIILLVEIPDIFR</span><span class="topo-unknown">LGVTRFFG</span><span class="topo-outside">QTILG</span><span class="topo-membrane">GPFHVIIVTYAFMVLVTMVMRL</span><span class="topo-inside">TNSDG</span><span class="topo-membrane">EVVPMSFALVLGWCNVMYFARG</span><span class="topo-unknown">FQMLGPFTIM</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-unknown">IQ</span><span class="topo-outside">KMIF</span><span class="topo-membrane">GDLMRFCWQMAVVILGFASAFYIIF</span><span class="topo-inside">QTEDPDELGHFYD</span><span class="topo-unknown">YPMALFSTFELFLTIIDGPA</span><span class="topo-inside">NYDVDLP</span><span class="topo-membrane">FMYSITYAAFAIIATLLMLNLLIAM</span><span class="topo-outside">MGDTHWR</span><span class="topo-unknown">VAHERDELWRAQVVATT</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670  </span>
+<span class="topo-line"><span class="topo-unknown">VMLERK</span><span class="topo-outside">LPRCLWPRSGICGREYGLGDRWFLRVEDRQD</span><span class="topo-unknown">LNRQRIRRYAQAFQQQDDLYSEDLEKDSGEKLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1423,6 +1438,7 @@ TRPV6 is a Ca2+-selective transient receptor potential vanilloid channel uniquel
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1438,18 +1454,19 @@ TRPV6 is a Ca2+-selective transient receptor potential vanilloid channel uniquel
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGWSLPKEKGLILCLWNKFCRWFHRR</span><span class="topo-outside">ESWAQSRDEQNLLQQKRIWESPLLLAAKENNVQA</span></span>
-<span class="topo-line"><span class="topo-outside">LYKLLKFEGCEVHQKGAMGETALHIAALYDNNEAAQVLMEAAPELVFEPMTSELYEGQTA</span></span>
-<span class="topo-line"><span class="topo-outside">LHIAVINQNVNLVRALLARGASVSARATGSVFHYRPHNLIYYGEHPLSFAACVGSEEIVR</span></span>
-<span class="topo-line"><span class="topo-outside">LLIEHGADIRAQDSLGNTVLHILILQPNKTFACQMYNLLLSYDGGDHLKSLELVPNNQGL</span></span>
-<span class="topo-line"><span class="topo-outside">TPFKLAGVEGNIVMFQHLMQKRKHIQWTYGPLTSTLYDLTEIDSSGDDQSLLELIVTTKK</span></span>
-<span class="topo-line"><span class="topo-outside">REARQILDQTPVKELVSLKWKRYGRP</span><span class="topo-membrane">YFCVLGAIYVLYIICFTMCCVYR</span><span class="topo-inside">PLKPRITNRTN</span></span>
-<span class="topo-line"><span class="topo-inside">PRDNTLLQQKLLQEAYVTPKDD</span><span class="topo-membrane">LRLVGELVSIVGAVIILLVEIPDIFR</span><span class="topo-unknown">LGVTRFFG</span><span class="topo-outside">QTIL</span></span>
-<span class="topo-line"><span class="topo-outside">G</span><span class="topo-membrane">GPFHVIIVTYAFMVLVTMVMRL</span><span class="topo-inside">TNSDG</span><span class="topo-membrane">EVVPMSFALVLGWCNVMYFARG</span><span class="topo-outside">FQ</span><span class="topo-unknown">MLGPFTI</span><span class="topo-outside">M</span></span>
-<span class="topo-line"><span class="topo-outside">IQKMI</span><span class="topo-membrane">FGDLMRFCWQMAVVILGFASAFYIIF</span><span class="topo-inside">QTEDPDELGHFYD</span><span class="topo-unknown">YPMALFSTFELFLTII</span></span>
-<span class="topo-line"><span class="topo-unknown">DGPA</span><span class="topo-inside">NYDVDLP</span><span class="topo-membrane">FMYSITYAAFAIIATLLMLNLLIAM</span><span class="topo-outside">MGDTHWR</span><span class="topo-unknown">VAHERDELWRAQVVATT</span></span>
-<span class="topo-line"><span class="topo-unknown">VMLER</span><span class="topo-outside">KLPRCLWPRSGICGREYGLGDRWFLRVEDRQD</span><span class="topo-unknown">LNRQRIRRYAQAFQQQDDLYSED</span></span>
-<span class="topo-line"><span class="topo-unknown">LEKDSGEKLVPR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGWSLPKEKGLILCLWNKFCRWFHRR</span><span class="topo-outside">ESWAQSRDEQNLLQQKRIWESPLLLAAKENNVQALYKLLKFEGCEVHQKGAMGETALHIAALYDNNEAAQVLMEAAPELVFEPMTSELYEGQTA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">LHIAVINQNVNLVRALLARGASVSARATGSVFHYRPHNLIYYGEHPLSFAACVGSEEIVRLLIEHGADIRAQDSLGNTVLHILILQPNKTFACQMYNLLLSYDGGDHLKSLELVPNNQGL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">TPFKLAGVEGNIVMFQHLMQKRKHIQWTYGPLTSTLYDLTEIDSSGDDQSLLELIVTTKKREARQILDQTPVKELVSLKWKRYGRP</span><span class="topo-membrane">YFCVLGAIYVLYIICFTMCCVYR</span><span class="topo-inside">PLKPRITNRTN</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">PRDNTLLQQKLLQEAYVTPKDD</span><span class="topo-membrane">LRLVGELVSIVGAVIILLVEIPDIFR</span><span class="topo-unknown">LGVTRFFG</span><span class="topo-outside">QTILG</span><span class="topo-membrane">GPFHVIIVTYAFMVLVTMVMRL</span><span class="topo-inside">TNSDG</span><span class="topo-membrane">EVVPMSFALVLGWCNVMYFARG</span><span class="topo-outside">FQ</span><span class="topo-unknown">MLGPFTI</span><span class="topo-outside">M</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">IQKMI</span><span class="topo-membrane">FGDLMRFCWQMAVVILGFASAFYIIF</span><span class="topo-inside">QTEDPDELGHFYD</span><span class="topo-unknown">YPMALFSTFELFLTIIDGPA</span><span class="topo-inside">NYDVDLP</span><span class="topo-membrane">FMYSITYAAFAIIATLLMLNLLIAM</span><span class="topo-outside">MGDTHWR</span><span class="topo-unknown">VAHERDELWRAQVVATT</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670  </span>
+<span class="topo-line"><span class="topo-unknown">VMLER</span><span class="topo-outside">KLPRCLWPRSGICGREYGLGDRWFLRVEDRQD</span><span class="topo-unknown">LNRQRIRRYAQAFQQQDDLYSEDLEKDSGEKLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1587,6 +1604,7 @@ TRPV6 is a Ca2+-selective transient receptor potential vanilloid channel uniquel
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1602,18 +1620,19 @@ TRPV6 is a Ca2+-selective transient receptor potential vanilloid channel uniquel
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGWSLPKEKGLILCLWNKFCRWFHRR</span><span class="topo-outside">ESWAQSRDEQNLLQQKRIWESPLLLAAKENNVQA</span></span>
-<span class="topo-line"><span class="topo-outside">LYKLLKFEGCEVHQKGAMGETALHIAALYDNNEAAQVLMEAAPELVFEPMTSELYEGQTA</span></span>
-<span class="topo-line"><span class="topo-outside">LHIAVINQNVNLVRALLARGASVSARATGSVFHYRPHNLIYYGEHPLSFAACVGSEEIVR</span></span>
-<span class="topo-line"><span class="topo-outside">LLIEHGADIRAQDSLGNTVLHILILQPNKTFACQMYNLLLSYDGGDHLKSLELVPNNQGL</span></span>
-<span class="topo-line"><span class="topo-outside">TPFKLAGVEGNIVMFQHLMQKRKHIQWTYGPLTSTLYDLTEIDSSGDDQSLLELIVTTKK</span></span>
-<span class="topo-line"><span class="topo-outside">REARQILDQTPVKELVSLKWKRYGRP</span><span class="topo-membrane">YFCVLGAIYVLYIICFTMCCVYR</span><span class="topo-inside">PLKPRITNRTN</span></span>
-<span class="topo-line"><span class="topo-inside">PRDNTLLQQKLLQEAYVTPKDD</span><span class="topo-membrane">LRLVGELVSIVGAVIILLVEIPDIFR</span><span class="topo-unknown">LGVTRFFG</span><span class="topo-outside">QTIL</span></span>
-<span class="topo-line"><span class="topo-outside">G</span><span class="topo-membrane">GPFHVIIVTYAFMVLVTMVMRL</span><span class="topo-inside">TNSDG</span><span class="topo-membrane">EVVPMSFALVLGWCNVMYFARG</span><span class="topo-outside">FQ</span><span class="topo-unknown">MLGPFTI</span><span class="topo-outside">M</span></span>
-<span class="topo-line"><span class="topo-outside">IQKMI</span><span class="topo-membrane">FGDLMRFCWQMAVVILGFASAFYIIF</span><span class="topo-inside">QTEDPDELGHFYD</span><span class="topo-unknown">YPMALFSTFELFLTII</span></span>
-<span class="topo-line"><span class="topo-unknown">DGPA</span><span class="topo-inside">NYDVDLP</span><span class="topo-membrane">FMYSITYAAFAIIATLLMLNLLIAM</span><span class="topo-outside">MGDTHWR</span><span class="topo-unknown">VAHERDELWRAQVVATT</span></span>
-<span class="topo-line"><span class="topo-unknown">VMLER</span><span class="topo-outside">KLPRCLWPRSGICGREYGLGDRWFLRVEDRQD</span><span class="topo-unknown">LNRQRIRRYAQAFQQQDDLYSED</span></span>
-<span class="topo-line"><span class="topo-unknown">LEKDSGEKLVPR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGWSLPKEKGLILCLWNKFCRWFHRR</span><span class="topo-outside">ESWAQSRDEQNLLQQKRIWESPLLLAAKENNVQALYKLLKFEGCEVHQKGAMGETALHIAALYDNNEAAQVLMEAAPELVFEPMTSELYEGQTA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">LHIAVINQNVNLVRALLARGASVSARATGSVFHYRPHNLIYYGEHPLSFAACVGSEEIVRLLIEHGADIRAQDSLGNTVLHILILQPNKTFACQMYNLLLSYDGGDHLKSLELVPNNQGL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">TPFKLAGVEGNIVMFQHLMQKRKHIQWTYGPLTSTLYDLTEIDSSGDDQSLLELIVTTKKREARQILDQTPVKELVSLKWKRYGRP</span><span class="topo-membrane">YFCVLGAIYVLYIICFTMCCVYR</span><span class="topo-inside">PLKPRITNRTN</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">PRDNTLLQQKLLQEAYVTPKDD</span><span class="topo-membrane">LRLVGELVSIVGAVIILLVEIPDIFR</span><span class="topo-unknown">LGVTRFFG</span><span class="topo-outside">QTILG</span><span class="topo-membrane">GPFHVIIVTYAFMVLVTMVMRL</span><span class="topo-inside">TNSDG</span><span class="topo-membrane">EVVPMSFALVLGWCNVMYFARG</span><span class="topo-outside">FQ</span><span class="topo-unknown">MLGPFTI</span><span class="topo-outside">M</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">IQKMI</span><span class="topo-membrane">FGDLMRFCWQMAVVILGFASAFYIIF</span><span class="topo-inside">QTEDPDELGHFYD</span><span class="topo-unknown">YPMALFSTFELFLTIIDGPA</span><span class="topo-inside">NYDVDLP</span><span class="topo-membrane">FMYSITYAAFAIIATLLMLNLLIAM</span><span class="topo-outside">MGDTHWR</span><span class="topo-unknown">VAHERDELWRAQVVATT</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670  </span>
+<span class="topo-line"><span class="topo-unknown">VMLER</span><span class="topo-outside">KLPRCLWPRSGICGREYGLGDRWFLRVEDRQD</span><span class="topo-unknown">LNRQRIRRYAQAFQQQDDLYSEDLEKDSGEKLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1751,6 +1770,7 @@ TRPV6 is a Ca2+-selective transient receptor potential vanilloid channel uniquel
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1766,18 +1786,19 @@ TRPV6 is a Ca2+-selective transient receptor potential vanilloid channel uniquel
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGWSLPKEKGLILCLWNKFCRWFHRR</span><span class="topo-outside">ESWAQSRDEQNLLQQKRIWESPLLLAAKENNVQA</span></span>
-<span class="topo-line"><span class="topo-outside">LYKLLKFEGCEVHQKGAMGETALHIAALYDNNEAAQVLMEAAPELVFEPMTSELYEGQTA</span></span>
-<span class="topo-line"><span class="topo-outside">LHIAVINQNVNLVRALLARGASVSARATGSVFHYRPHNLIYYGEHPLSFAACVGSEEIVR</span></span>
-<span class="topo-line"><span class="topo-outside">LLIEHGADIRAQDSLGNTVLHILILQPNKTFACQMYNLLLSYDGGDHLKSLELVPNNQGL</span></span>
-<span class="topo-line"><span class="topo-outside">TPFKLAGVEGNIVMFQHLMQKRKHIQWTYGPLTSTLYDLTEIDSSGDDQSLLELIVTTKK</span></span>
-<span class="topo-line"><span class="topo-outside">REARQILDQTPVKELVSLKWKRYGRP</span><span class="topo-membrane">YFCVLGAIYVLYIICFTMCCVYR</span><span class="topo-inside">PLKPRITNRTN</span></span>
-<span class="topo-line"><span class="topo-inside">PRDNTLLQQKLLQEAYVTPKDD</span><span class="topo-membrane">LRLVGELVSIVGAVIILLVEIPDIFR</span><span class="topo-unknown">LGVTRFFG</span><span class="topo-outside">QTIL</span></span>
-<span class="topo-line"><span class="topo-outside">G</span><span class="topo-membrane">GPFHVIIVTYAFMVLVTMVMRL</span><span class="topo-inside">TNSDG</span><span class="topo-membrane">EVVPMSFALVLGWCNVMYFARG</span><span class="topo-outside">FQ</span><span class="topo-unknown">MLGPFTI</span><span class="topo-outside">M</span></span>
-<span class="topo-line"><span class="topo-outside">IQKMI</span><span class="topo-membrane">FGDLMRFCWQMAVVILGFASAFYIIF</span><span class="topo-inside">QTEDPDELGHFYD</span><span class="topo-unknown">YPMALFSTFELFLTII</span></span>
-<span class="topo-line"><span class="topo-unknown">DGPA</span><span class="topo-inside">NYDVDLP</span><span class="topo-membrane">FMYSITYAAFAIIATLLMLNLLIAM</span><span class="topo-outside">MGDTHWR</span><span class="topo-unknown">VAHERDELWRAQVVATT</span></span>
-<span class="topo-line"><span class="topo-unknown">VMLER</span><span class="topo-outside">KLPRCLWPRSGICGREYGLGDRWFLRVEDRQD</span><span class="topo-unknown">LNRQRIRRYAQAFQQQDDLYSED</span></span>
-<span class="topo-line"><span class="topo-unknown">LEKDSGEKLVPR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGWSLPKEKGLILCLWNKFCRWFHRR</span><span class="topo-outside">ESWAQSRDEQNLLQQKRIWESPLLLAAKENNVQALYKLLKFEGCEVHQKGAMGETALHIAALYDNNEAAQVLMEAAPELVFEPMTSELYEGQTA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">LHIAVINQNVNLVRALLARGASVSARATGSVFHYRPHNLIYYGEHPLSFAACVGSEEIVRLLIEHGADIRAQDSLGNTVLHILILQPNKTFACQMYNLLLSYDGGDHLKSLELVPNNQGL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">TPFKLAGVEGNIVMFQHLMQKRKHIQWTYGPLTSTLYDLTEIDSSGDDQSLLELIVTTKKREARQILDQTPVKELVSLKWKRYGRP</span><span class="topo-membrane">YFCVLGAIYVLYIICFTMCCVYR</span><span class="topo-inside">PLKPRITNRTN</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">PRDNTLLQQKLLQEAYVTPKDD</span><span class="topo-membrane">LRLVGELVSIVGAVIILLVEIPDIFR</span><span class="topo-unknown">LGVTRFFG</span><span class="topo-outside">QTILG</span><span class="topo-membrane">GPFHVIIVTYAFMVLVTMVMRL</span><span class="topo-inside">TNSDG</span><span class="topo-membrane">EVVPMSFALVLGWCNVMYFARG</span><span class="topo-outside">FQ</span><span class="topo-unknown">MLGPFTI</span><span class="topo-outside">M</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">IQKMI</span><span class="topo-membrane">FGDLMRFCWQMAVVILGFASAFYIIF</span><span class="topo-inside">QTEDPDELGHFYD</span><span class="topo-unknown">YPMALFSTFELFLTIIDGPA</span><span class="topo-inside">NYDVDLP</span><span class="topo-membrane">FMYSITYAAFAIIATLLMLNLLIAM</span><span class="topo-outside">MGDTHWR</span><span class="topo-unknown">VAHERDELWRAQVVATT</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670  </span>
+<span class="topo-line"><span class="topo-unknown">VMLER</span><span class="topo-outside">KLPRCLWPRSGICGREYGLGDRWFLRVEDRQD</span><span class="topo-unknown">LNRQRIRRYAQAFQQQDDLYSEDLEKDSGEKLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1915,6 +1936,7 @@ TRPV6 is a Ca2+-selective transient receptor potential vanilloid channel uniquel
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1930,18 +1952,19 @@ TRPV6 is a Ca2+-selective transient receptor potential vanilloid channel uniquel
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGWSLPKEKGLILCLWNKFCRWFHRR</span><span class="topo-outside">ESWAQSRDEQNLLQQKRIWESPLLLAAKENNVQA</span></span>
-<span class="topo-line"><span class="topo-outside">LYKLLKFEGCEVHQKGAMGETALHIAALYDNNEAAQVLMEAAPELVFEPMTSELYEGQTA</span></span>
-<span class="topo-line"><span class="topo-outside">LHIAVINQNVNLVRALLARGASVSARATGSVFHYRPHNLIYYGEHPLSFAACVGSEEIVR</span></span>
-<span class="topo-line"><span class="topo-outside">LLIEHGADIRAQDSLGNTVLHILILQPNKTFACQMYNLLLSYDGGDHLKSLELVPNNQGL</span></span>
-<span class="topo-line"><span class="topo-outside">TPFKLAGVEGNIVMFQHLMQKRKHIQWTYGPLTSTLYDLTEIDSSGDDQSLLELIVTTKK</span></span>
-<span class="topo-line"><span class="topo-outside">REARQILDQTPVKELVSLKWKRYGRP</span><span class="topo-membrane">YFCVLGAIYVLYIICFTMCCVYR</span><span class="topo-inside">PLKPRITNRTN</span></span>
-<span class="topo-line"><span class="topo-inside">PRDNTLLQQKLLQEAYVTPKDD</span><span class="topo-membrane">LRLVGELVSIVGAVIILLVEIPDIFR</span><span class="topo-unknown">LGVTRFFG</span><span class="topo-outside">QTIL</span></span>
-<span class="topo-line"><span class="topo-outside">G</span><span class="topo-membrane">GPFHVIIVTYAFMVLVTMVMRL</span><span class="topo-inside">TNSDG</span><span class="topo-membrane">EVVPMSFALVLGWCNVMYFARG</span><span class="topo-outside">FQ</span><span class="topo-unknown">MLGPFTI</span><span class="topo-outside">M</span></span>
-<span class="topo-line"><span class="topo-outside">IQKMI</span><span class="topo-membrane">FGDLMRFCWQMAVVILGFASAFYIIF</span><span class="topo-inside">QTEDPDELGHFYD</span><span class="topo-unknown">YPMALFSTFELFLTII</span></span>
-<span class="topo-line"><span class="topo-unknown">DGPA</span><span class="topo-inside">NYDVDLP</span><span class="topo-membrane">FMYSITYAAFAIIATLLMLNLLIAM</span><span class="topo-outside">MGDTHWR</span><span class="topo-unknown">VAHERDELWRAQVVATT</span></span>
-<span class="topo-line"><span class="topo-unknown">VMLER</span><span class="topo-outside">KLPRCLWPRSGICGREYGLGDRWFLRVEDRQD</span><span class="topo-unknown">LNRQRIRRYAQAFQQQDDLYSED</span></span>
-<span class="topo-line"><span class="topo-unknown">LEKDSGEKLVPR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGWSLPKEKGLILCLWNKFCRWFHRR</span><span class="topo-outside">ESWAQSRDEQNLLQQKRIWESPLLLAAKENNVQALYKLLKFEGCEVHQKGAMGETALHIAALYDNNEAAQVLMEAAPELVFEPMTSELYEGQTA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">LHIAVINQNVNLVRALLARGASVSARATGSVFHYRPHNLIYYGEHPLSFAACVGSEEIVRLLIEHGADIRAQDSLGNTVLHILILQPNKTFACQMYNLLLSYDGGDHLKSLELVPNNQGL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">TPFKLAGVEGNIVMFQHLMQKRKHIQWTYGPLTSTLYDLTEIDSSGDDQSLLELIVTTKKREARQILDQTPVKELVSLKWKRYGRP</span><span class="topo-membrane">YFCVLGAIYVLYIICFTMCCVYR</span><span class="topo-inside">PLKPRITNRTN</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">PRDNTLLQQKLLQEAYVTPKDD</span><span class="topo-membrane">LRLVGELVSIVGAVIILLVEIPDIFR</span><span class="topo-unknown">LGVTRFFG</span><span class="topo-outside">QTILG</span><span class="topo-membrane">GPFHVIIVTYAFMVLVTMVMRL</span><span class="topo-inside">TNSDG</span><span class="topo-membrane">EVVPMSFALVLGWCNVMYFARG</span><span class="topo-outside">FQ</span><span class="topo-unknown">MLGPFTI</span><span class="topo-outside">M</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">IQKMI</span><span class="topo-membrane">FGDLMRFCWQMAVVILGFASAFYIIF</span><span class="topo-inside">QTEDPDELGHFYD</span><span class="topo-unknown">YPMALFSTFELFLTIIDGPA</span><span class="topo-inside">NYDVDLP</span><span class="topo-membrane">FMYSITYAAFAIIATLLMLNLLIAM</span><span class="topo-outside">MGDTHWR</span><span class="topo-unknown">VAHERDELWRAQVVATT</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670  </span>
+<span class="topo-line"><span class="topo-unknown">VMLER</span><span class="topo-outside">KLPRCLWPRSGICGREYGLGDRWFLRVEDRQD</span><span class="topo-unknown">LNRQRIRRYAQAFQQQDDLYSEDLEKDSGEKLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2079,6 +2102,7 @@ TRPV6 is a Ca2+-selective transient receptor potential vanilloid channel uniquel
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2094,18 +2118,19 @@ TRPV6 is a Ca2+-selective transient receptor potential vanilloid channel uniquel
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGWSLPKEKGLILCLWNKFCRWFHRR</span><span class="topo-outside">ESWAQSRDEQNLLQQKRIWESPLLLAAKENNVQA</span></span>
-<span class="topo-line"><span class="topo-outside">LYKLLKFEGCEVHQKGAMGETALHIAALYDNNEAAQVLMEAAPELVFEPMTSELYEGQTA</span></span>
-<span class="topo-line"><span class="topo-outside">LHIAVINQNVNLVRALLARGASVSARATGSVFHYRPHNLIYYGEHPLSFAACVGSEEIVR</span></span>
-<span class="topo-line"><span class="topo-outside">LLIEHGADIRAQDSLGNTVLHILILQPNKTFACQMYNLLLSYDGGDHLKSLELVPNNQGL</span></span>
-<span class="topo-line"><span class="topo-outside">TPFKLAGVEGNIVMFQHLMQKRKHIQWTYGPLTSTLYDLTEIDSSGDDQSLLELIVTTKK</span></span>
-<span class="topo-line"><span class="topo-outside">REARQILDQTPVKELVSLKWKRYGRP</span><span class="topo-membrane">YFCVLGAIYVLYIICFTMCCVYR</span><span class="topo-inside">PLKPRITNRTN</span></span>
-<span class="topo-line"><span class="topo-inside">PRDNTLLQQKLLQEAYVTPKDD</span><span class="topo-membrane">LRLVGELVSIVGAVIILLVEIPDIFR</span><span class="topo-unknown">LGVTRFFG</span><span class="topo-outside">QTIL</span></span>
-<span class="topo-line"><span class="topo-outside">G</span><span class="topo-membrane">GPFHVIIVTYAFMVLVTMVMRL</span><span class="topo-inside">TNSDG</span><span class="topo-membrane">EVVPMSFALVLGWCNVMYFARG</span><span class="topo-unknown">FQMLGPFTI</span><span class="topo-outside">M</span></span>
-<span class="topo-line"><span class="topo-outside">IQKMI</span><span class="topo-membrane">FGDLMRFCWQMAVVILGFASAFYIIF</span><span class="topo-inside">QTEDPDELGHFYD</span><span class="topo-unknown">YPMALFSTFELFLTII</span></span>
-<span class="topo-line"><span class="topo-unknown">DGPA</span><span class="topo-inside">NYDVDLP</span><span class="topo-membrane">FMYSITYAAFAIIATLLMLNLLIAM</span><span class="topo-outside">MGDTHWR</span><span class="topo-unknown">VAHERDELWRAQVVATT</span></span>
-<span class="topo-line"><span class="topo-unknown">VMLERK</span><span class="topo-outside">LPRCLWPRSGICGREYGLGDRWFLRVEDRQD</span><span class="topo-unknown">LNRQRIRRYAQAFQQQDDLYSED</span></span>
-<span class="topo-line"><span class="topo-unknown">LEKDSGEKLVPR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGWSLPKEKGLILCLWNKFCRWFHRR</span><span class="topo-outside">ESWAQSRDEQNLLQQKRIWESPLLLAAKENNVQALYKLLKFEGCEVHQKGAMGETALHIAALYDNNEAAQVLMEAAPELVFEPMTSELYEGQTA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">LHIAVINQNVNLVRALLARGASVSARATGSVFHYRPHNLIYYGEHPLSFAACVGSEEIVRLLIEHGADIRAQDSLGNTVLHILILQPNKTFACQMYNLLLSYDGGDHLKSLELVPNNQGL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">TPFKLAGVEGNIVMFQHLMQKRKHIQWTYGPLTSTLYDLTEIDSSGDDQSLLELIVTTKKREARQILDQTPVKELVSLKWKRYGRP</span><span class="topo-membrane">YFCVLGAIYVLYIICFTMCCVYR</span><span class="topo-inside">PLKPRITNRTN</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">PRDNTLLQQKLLQEAYVTPKDD</span><span class="topo-membrane">LRLVGELVSIVGAVIILLVEIPDIFR</span><span class="topo-unknown">LGVTRFFG</span><span class="topo-outside">QTILG</span><span class="topo-membrane">GPFHVIIVTYAFMVLVTMVMRL</span><span class="topo-inside">TNSDG</span><span class="topo-membrane">EVVPMSFALVLGWCNVMYFARG</span><span class="topo-unknown">FQMLGPFTI</span><span class="topo-outside">M</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">IQKMI</span><span class="topo-membrane">FGDLMRFCWQMAVVILGFASAFYIIF</span><span class="topo-inside">QTEDPDELGHFYD</span><span class="topo-unknown">YPMALFSTFELFLTIIDGPA</span><span class="topo-inside">NYDVDLP</span><span class="topo-membrane">FMYSITYAAFAIIATLLMLNLLIAM</span><span class="topo-outside">MGDTHWR</span><span class="topo-unknown">VAHERDELWRAQVVATT</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670  </span>
+<span class="topo-line"><span class="topo-unknown">VMLERK</span><span class="topo-outside">LPRCLWPRSGICGREYGLGDRWFLRVEDRQD</span><span class="topo-unknown">LNRQRIRRYAQAFQQQDDLYSEDLEKDSGEKLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2236,6 +2261,7 @@ TRPV6 is a Ca2+-selective transient receptor potential vanilloid channel uniquel
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2251,18 +2277,19 @@ TRPV6 is a Ca2+-selective transient receptor potential vanilloid channel uniquel
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGWSLPKEKGLILCLWNKFCRWFHRR</span><span class="topo-outside">ESWAQSRDEQNLLQQKRIWESPLLLAAKENNVQA</span></span>
-<span class="topo-line"><span class="topo-outside">LYKLLKFEGCEVHQKGAMGETALHIAALYDNNEAAQVLMEAAPELVFEPMTSELYEGQTA</span></span>
-<span class="topo-line"><span class="topo-outside">LHIAVINQNVNLVRALLARGASVSARATGSVFHYRPHNLIYYGEHPLSFAACVGSEEIVR</span></span>
-<span class="topo-line"><span class="topo-outside">LLIEHGADIRAQDSLGNTVLHILILQPNKTFACQMYNLLLSYDGGDHLKSLELVPNNQGL</span></span>
-<span class="topo-line"><span class="topo-outside">TPFKLAGVEGNIVMFQHLMQKRKHIQWTYGPLTSTLYDLTEIDSSGDDQSLLELIVTTKK</span></span>
-<span class="topo-line"><span class="topo-outside">REARQILDQTPVKELVSLKWKRYGRP</span><span class="topo-membrane">YFCVLGAIYVLYIICFTMCCVYR</span><span class="topo-inside">PLKPRITNRTN</span></span>
-<span class="topo-line"><span class="topo-inside">PRDNTLLQQKLLQEAYVTPKDD</span><span class="topo-membrane">LRLVGELVSIVGAVIILLVEIPDIFR</span><span class="topo-unknown">LGVTRFFG</span><span class="topo-outside">QTIL</span></span>
-<span class="topo-line"><span class="topo-outside">G</span><span class="topo-membrane">GPFHVIIVTYAFMVLVTMVMRL</span><span class="topo-inside">TNSDG</span><span class="topo-membrane">EVVPMSFALVLGWCNVMYFARG</span><span class="topo-unknown">FQMLGPFTI</span><span class="topo-outside">M</span></span>
-<span class="topo-line"><span class="topo-outside">IQKMI</span><span class="topo-membrane">FGDLMRFCWQMAVVILGFASAFYIIF</span><span class="topo-inside">QTEDPDELGHFYD</span><span class="topo-unknown">YPMALFSTFELFLTII</span></span>
-<span class="topo-line"><span class="topo-unknown">DGPA</span><span class="topo-inside">NYDVDLP</span><span class="topo-membrane">FMYSITYAAFAIIATLLMLNLLIAM</span><span class="topo-outside">MGDTHWR</span><span class="topo-unknown">VAHERDELWRAQVVATT</span></span>
-<span class="topo-line"><span class="topo-unknown">VMLERK</span><span class="topo-outside">LPRCLWPRSGICGREYGLGDRWFLRVEDRQD</span><span class="topo-unknown">LNRQRIRRYAQAFQQQDDLYSED</span></span>
-<span class="topo-line"><span class="topo-unknown">LEKDSGEKLVPR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGWSLPKEKGLILCLWNKFCRWFHRR</span><span class="topo-outside">ESWAQSRDEQNLLQQKRIWESPLLLAAKENNVQALYKLLKFEGCEVHQKGAMGETALHIAALYDNNEAAQVLMEAAPELVFEPMTSELYEGQTA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">LHIAVINQNVNLVRALLARGASVSARATGSVFHYRPHNLIYYGEHPLSFAACVGSEEIVRLLIEHGADIRAQDSLGNTVLHILILQPNKTFACQMYNLLLSYDGGDHLKSLELVPNNQGL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">TPFKLAGVEGNIVMFQHLMQKRKHIQWTYGPLTSTLYDLTEIDSSGDDQSLLELIVTTKKREARQILDQTPVKELVSLKWKRYGRP</span><span class="topo-membrane">YFCVLGAIYVLYIICFTMCCVYR</span><span class="topo-inside">PLKPRITNRTN</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">PRDNTLLQQKLLQEAYVTPKDD</span><span class="topo-membrane">LRLVGELVSIVGAVIILLVEIPDIFR</span><span class="topo-unknown">LGVTRFFG</span><span class="topo-outside">QTILG</span><span class="topo-membrane">GPFHVIIVTYAFMVLVTMVMRL</span><span class="topo-inside">TNSDG</span><span class="topo-membrane">EVVPMSFALVLGWCNVMYFARG</span><span class="topo-unknown">FQMLGPFTI</span><span class="topo-outside">M</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">IQKMI</span><span class="topo-membrane">FGDLMRFCWQMAVVILGFASAFYIIF</span><span class="topo-inside">QTEDPDELGHFYD</span><span class="topo-unknown">YPMALFSTFELFLTIIDGPA</span><span class="topo-inside">NYDVDLP</span><span class="topo-membrane">FMYSITYAAFAIIATLLMLNLLIAM</span><span class="topo-outside">MGDTHWR</span><span class="topo-unknown">VAHERDELWRAQVVATT</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670  </span>
+<span class="topo-line"><span class="topo-unknown">VMLERK</span><span class="topo-outside">LPRCLWPRSGICGREYGLGDRWFLRVEDRQD</span><span class="topo-unknown">LNRQRIRRYAQAFQQQDDLYSEDLEKDSGEKLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2393,6 +2420,7 @@ TRPV6 is a Ca2+-selective transient receptor potential vanilloid channel uniquel
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2408,18 +2436,19 @@ TRPV6 is a Ca2+-selective transient receptor potential vanilloid channel uniquel
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGWSLPKEKGLILCLWNKFCRWFHRR</span><span class="topo-outside">ESWAQSRDEQNLLQQKRIWESPLLLAAKENNVQA</span></span>
-<span class="topo-line"><span class="topo-outside">LYKLLKFEGCEVHQKGAMGETALHIAALYDNNEAAQVLMEAAPELVFEPMTSELYEGQTA</span></span>
-<span class="topo-line"><span class="topo-outside">LHIAVINQNVNLVRALLARGASVSARATGSVFHYRPHNLIYYGEHPLSFAACVGSEEIVR</span></span>
-<span class="topo-line"><span class="topo-outside">LLIEHGADIRAQDSLGNTVLHILILQPNKTFACQMYNLLLSYDGGDHLKSLELVPNNQGL</span></span>
-<span class="topo-line"><span class="topo-outside">TPFKLAGVEGNIVMFQHLMQKRKHIQWTYGPLTSTLYDLTEIDSSGDDQSLLELIVTTKK</span></span>
-<span class="topo-line"><span class="topo-outside">REARQILDQTPVKELVSLKWKRYGRP</span><span class="topo-membrane">YFCVLGAIYVLYIICFTMCCVYR</span><span class="topo-inside">PLKPRITNRTN</span></span>
-<span class="topo-line"><span class="topo-inside">PRDNTLLQQKLLQEAYVTPKDD</span><span class="topo-membrane">LRLVGELVSIVGAVIILLVEIPDIFR</span><span class="topo-unknown">LGVTRFFG</span><span class="topo-outside">QTIL</span></span>
-<span class="topo-line"><span class="topo-outside">G</span><span class="topo-membrane">GPFHVIIVTYAFMVLVTMVMRL</span><span class="topo-inside">TNSDG</span><span class="topo-membrane">EVVPMSFALVLGWCNVMYFARG</span><span class="topo-unknown">FQMLGPFTI</span><span class="topo-outside">M</span></span>
-<span class="topo-line"><span class="topo-outside">IQKMI</span><span class="topo-membrane">FGDLMRFCWQMAVVILGFASAFYIIF</span><span class="topo-inside">QTEDPDELGHFYD</span><span class="topo-unknown">YPMALFSTFELFLTII</span></span>
-<span class="topo-line"><span class="topo-unknown">DGPA</span><span class="topo-inside">NYDVDLP</span><span class="topo-membrane">FMYSITYAAFAIIATLLMLNLLIAM</span><span class="topo-outside">MGDTHWR</span><span class="topo-unknown">VAHERDELWRAQVVATT</span></span>
-<span class="topo-line"><span class="topo-unknown">VMLERK</span><span class="topo-outside">LPRCLWPRSGICGREYGLGDRWFLRVEDRQD</span><span class="topo-unknown">LNRQRIRRYAQAFQQQDDLYSED</span></span>
-<span class="topo-line"><span class="topo-unknown">LEKDSGEKLVPR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGWSLPKEKGLILCLWNKFCRWFHRR</span><span class="topo-outside">ESWAQSRDEQNLLQQKRIWESPLLLAAKENNVQALYKLLKFEGCEVHQKGAMGETALHIAALYDNNEAAQVLMEAAPELVFEPMTSELYEGQTA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">LHIAVINQNVNLVRALLARGASVSARATGSVFHYRPHNLIYYGEHPLSFAACVGSEEIVRLLIEHGADIRAQDSLGNTVLHILILQPNKTFACQMYNLLLSYDGGDHLKSLELVPNNQGL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">TPFKLAGVEGNIVMFQHLMQKRKHIQWTYGPLTSTLYDLTEIDSSGDDQSLLELIVTTKKREARQILDQTPVKELVSLKWKRYGRP</span><span class="topo-membrane">YFCVLGAIYVLYIICFTMCCVYR</span><span class="topo-inside">PLKPRITNRTN</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">PRDNTLLQQKLLQEAYVTPKDD</span><span class="topo-membrane">LRLVGELVSIVGAVIILLVEIPDIFR</span><span class="topo-unknown">LGVTRFFG</span><span class="topo-outside">QTILG</span><span class="topo-membrane">GPFHVIIVTYAFMVLVTMVMRL</span><span class="topo-inside">TNSDG</span><span class="topo-membrane">EVVPMSFALVLGWCNVMYFARG</span><span class="topo-unknown">FQMLGPFTI</span><span class="topo-outside">M</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">IQKMI</span><span class="topo-membrane">FGDLMRFCWQMAVVILGFASAFYIIF</span><span class="topo-inside">QTEDPDELGHFYD</span><span class="topo-unknown">YPMALFSTFELFLTIIDGPA</span><span class="topo-inside">NYDVDLP</span><span class="topo-membrane">FMYSITYAAFAIIATLLMLNLLIAM</span><span class="topo-outside">MGDTHWR</span><span class="topo-unknown">VAHERDELWRAQVVATT</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670  </span>
+<span class="topo-line"><span class="topo-unknown">VMLERK</span><span class="topo-outside">LPRCLWPRSGICGREYGLGDRWFLRVEDRQD</span><span class="topo-unknown">LNRQRIRRYAQAFQQQDDLYSEDLEKDSGEKLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2550,6 +2579,7 @@ TRPV6 is a Ca2+-selective transient receptor potential vanilloid channel uniquel
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2565,18 +2595,19 @@ TRPV6 is a Ca2+-selective transient receptor potential vanilloid channel uniquel
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGWSLPKEKGLILCLWNKFCRWFHRR</span><span class="topo-outside">ESWAQSRDEQNLLQQKRIWESPLLLAAKENNVQA</span></span>
-<span class="topo-line"><span class="topo-outside">LYKLLKFEGCEVHQKGAMGETALHIAALYDNNEAAQVLMEAAPELVFEPMTSELYEGQTA</span></span>
-<span class="topo-line"><span class="topo-outside">LHIAVINQNVNLVRALLARGASVSARATGSVFHYRPHNLIYYGEHPLSFAACVGSEEIVR</span></span>
-<span class="topo-line"><span class="topo-outside">LLIEHGADIRAQDSLGNTVLHILILQPNKTFACQMYNLLLSYDGGDHLKSLELVPNNQGL</span></span>
-<span class="topo-line"><span class="topo-outside">TPFKLAGVEGNIVMFQHLMQKRKHIQWTYGPLTSTLYDLTEIDSSGDDQSLLELIVTTKK</span></span>
-<span class="topo-line"><span class="topo-outside">REARQILDQTPVKELVSLKWKRYGRP</span><span class="topo-membrane">YFCVLGAIYVLYIICFTMCCVYR</span><span class="topo-inside">PLKPRITNRTN</span></span>
-<span class="topo-line"><span class="topo-inside">PRDNTLLQQKLLQEAYVTPKDD</span><span class="topo-membrane">LRLVGELVSIVGAVIILLVEIPDIFR</span><span class="topo-unknown">LGVTRFFG</span><span class="topo-outside">QTIL</span></span>
-<span class="topo-line"><span class="topo-outside">G</span><span class="topo-membrane">GPFHVIIVTYAFMVLVTMVMRL</span><span class="topo-inside">TNSDG</span><span class="topo-membrane">EVVPMSFALVLGWCNVMYFARG</span><span class="topo-unknown">FQMLGPFTI</span><span class="topo-outside">M</span></span>
-<span class="topo-line"><span class="topo-outside">IQKMI</span><span class="topo-membrane">FGDLMRFCWQMAVVILGFASAFYIIF</span><span class="topo-inside">QTEDPDELGHFYD</span><span class="topo-unknown">YPMALFSTFELFLTII</span></span>
-<span class="topo-line"><span class="topo-unknown">DGPA</span><span class="topo-inside">NYDVDLP</span><span class="topo-membrane">FMYSITYAAFAIIATLLMLNLLIAM</span><span class="topo-outside">MGDTHWR</span><span class="topo-unknown">VAHERDELWRAQVVATT</span></span>
-<span class="topo-line"><span class="topo-unknown">VMLERK</span><span class="topo-outside">LPRCLWPRSGICGREYGLGDRWFLRVEDRQD</span><span class="topo-unknown">LNRQRIRRYAQAFQQQDDLYSED</span></span>
-<span class="topo-line"><span class="topo-unknown">LEKDSGEKLVPR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGWSLPKEKGLILCLWNKFCRWFHRR</span><span class="topo-outside">ESWAQSRDEQNLLQQKRIWESPLLLAAKENNVQALYKLLKFEGCEVHQKGAMGETALHIAALYDNNEAAQVLMEAAPELVFEPMTSELYEGQTA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">LHIAVINQNVNLVRALLARGASVSARATGSVFHYRPHNLIYYGEHPLSFAACVGSEEIVRLLIEHGADIRAQDSLGNTVLHILILQPNKTFACQMYNLLLSYDGGDHLKSLELVPNNQGL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">TPFKLAGVEGNIVMFQHLMQKRKHIQWTYGPLTSTLYDLTEIDSSGDDQSLLELIVTTKKREARQILDQTPVKELVSLKWKRYGRP</span><span class="topo-membrane">YFCVLGAIYVLYIICFTMCCVYR</span><span class="topo-inside">PLKPRITNRTN</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">PRDNTLLQQKLLQEAYVTPKDD</span><span class="topo-membrane">LRLVGELVSIVGAVIILLVEIPDIFR</span><span class="topo-unknown">LGVTRFFG</span><span class="topo-outside">QTILG</span><span class="topo-membrane">GPFHVIIVTYAFMVLVTMVMRL</span><span class="topo-inside">TNSDG</span><span class="topo-membrane">EVVPMSFALVLGWCNVMYFARG</span><span class="topo-unknown">FQMLGPFTI</span><span class="topo-outside">M</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">IQKMI</span><span class="topo-membrane">FGDLMRFCWQMAVVILGFASAFYIIF</span><span class="topo-inside">QTEDPDELGHFYD</span><span class="topo-unknown">YPMALFSTFELFLTIIDGPA</span><span class="topo-inside">NYDVDLP</span><span class="topo-membrane">FMYSITYAAFAIIATLLMLNLLIAM</span><span class="topo-outside">MGDTHWR</span><span class="topo-unknown">VAHERDELWRAQVVATT</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670  </span>
+<span class="topo-line"><span class="topo-unknown">VMLERK</span><span class="topo-outside">LPRCLWPRSGICGREYGLGDRWFLRVEDRQD</span><span class="topo-unknown">LNRQRIRRYAQAFQQQDDLYSEDLEKDSGEKLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2707,6 +2738,7 @@ TRPV6 is a Ca2+-selective transient receptor potential vanilloid channel uniquel
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2817,18 +2849,19 @@ TRPV6 is a Ca2+-selective transient receptor potential vanilloid channel uniquel
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGWSLPKEKGLILCLWNKFCRWFHRRE</span><span class="topo-outside">SWAQSRDEQNLLQQKRIWESPLLLAAKENNVQA</span></span>
-<span class="topo-line"><span class="topo-outside">LYKLLKFEGCEVHQKGAMGETALHIAALYDNNEAAQVLMEAAPELVFEPMTSELYEGQTA</span></span>
-<span class="topo-line"><span class="topo-outside">LHIAVINQNVNLVRALLARGASVSARATGSVFHYRPHNLIYYGEHPLSFAACVGSEEIVR</span></span>
-<span class="topo-line"><span class="topo-outside">LLIEHGADIRAQDSLGNTVLHILILQPNKTFACQMYNLLLSYDGGDHLKSLELVPNNQGL</span></span>
-<span class="topo-line"><span class="topo-outside">TPFKLAGVEGNIVMFQHLMQKRKHIQWTYGPLTSTLYDLTEIDSSGDDQSLLELIVTTKK</span></span>
-<span class="topo-line"><span class="topo-outside">REARQILDQTPVKELVSLKWKRYGRPYFCV</span><span class="topo-membrane">LGAIYVLYIICFTMCCVYR</span><span class="topo-inside">PLKPRITNRTN</span></span>
-<span class="topo-line"><span class="topo-inside">PRDNTLLQQKLLQEAYVT</span><span class="topo-membrane">PKDDLRLVGELVSIVGAVIILLVEIP</span><span class="topo-outside">DIFR</span><span class="topo-unknown">LGVTRFFG</span><span class="topo-outside">QTIL</span></span>
-<span class="topo-line"><span class="topo-outside">GG</span><span class="topo-membrane">PFHVIIVTYAFMVLVTMVMRLT</span><span class="topo-inside">NSDG</span><span class="topo-membrane">EVVPMSFALVLGWCNVMYFA</span><span class="topo-outside">RGFQMLGPFTIM</span></span>
-<span class="topo-line"><span class="topo-outside">IQKMIFGD</span><span class="topo-membrane">LMRFCWQMAVVILGFASAFYII</span><span class="topo-inside">FQTEDPDELGHFYD</span><span class="topo-unknown">YPMALFSTFELFLTII</span></span>
-<span class="topo-line"><span class="topo-unknown">DGP</span><span class="topo-inside">ANYDVDLPF</span><span class="topo-membrane">MYSITYAAFAIIATLLMLNLLIAMM</span><span class="topo-outside">GDTHWR</span><span class="topo-unknown">VAHERDELWRAQVVATT</span></span>
-<span class="topo-line"><span class="topo-unknown">VMLER</span><span class="topo-outside">KLPRCLWPRSGICGREYGLGDRWFLRVEDRQD</span><span class="topo-unknown">LNRQRIRRYAQAFQQQDDLYSED</span></span>
-<span class="topo-line"><span class="topo-unknown">LEKDSGEK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGWSLPKEKGLILCLWNKFCRWFHRRE</span><span class="topo-outside">SWAQSRDEQNLLQQKRIWESPLLLAAKENNVQALYKLLKFEGCEVHQKGAMGETALHIAALYDNNEAAQVLMEAAPELVFEPMTSELYEGQTA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">LHIAVINQNVNLVRALLARGASVSARATGSVFHYRPHNLIYYGEHPLSFAACVGSEEIVRLLIEHGADIRAQDSLGNTVLHILILQPNKTFACQMYNLLLSYDGGDHLKSLELVPNNQGL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">TPFKLAGVEGNIVMFQHLMQKRKHIQWTYGPLTSTLYDLTEIDSSGDDQSLLELIVTTKKREARQILDQTPVKELVSLKWKRYGRPYFCV</span><span class="topo-membrane">LGAIYVLYIICFTMCCVYR</span><span class="topo-inside">PLKPRITNRTN</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">PRDNTLLQQKLLQEAYVT</span><span class="topo-membrane">PKDDLRLVGELVSIVGAVIILLVEIP</span><span class="topo-outside">DIFR</span><span class="topo-unknown">LGVTRFFG</span><span class="topo-outside">QTILGG</span><span class="topo-membrane">PFHVIIVTYAFMVLVTMVMRLT</span><span class="topo-inside">NSDG</span><span class="topo-membrane">EVVPMSFALVLGWCNVMYFA</span><span class="topo-outside">RGFQMLGPFTIM</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">IQKMIFGD</span><span class="topo-membrane">LMRFCWQMAVVILGFASAFYII</span><span class="topo-inside">FQTEDPDELGHFYD</span><span class="topo-unknown">YPMALFSTFELFLTIIDGP</span><span class="topo-inside">ANYDVDLPF</span><span class="topo-membrane">MYSITYAAFAIIATLLMLNLLIAMM</span><span class="topo-outside">GDTHWR</span><span class="topo-unknown">VAHERDELWRAQVVATT</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660        </span>
+<span class="topo-line"><span class="topo-unknown">VMLER</span><span class="topo-outside">KLPRCLWPRSGICGREYGLGDRWFLRVEDRQD</span><span class="topo-unknown">LNRQRIRRYAQAFQQQDDLYSEDLEKDSGEK</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2966,6 +2999,7 @@ TRPV6 is a Ca2+-selective transient receptor potential vanilloid channel uniquel
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2981,18 +3015,19 @@ TRPV6 is a Ca2+-selective transient receptor potential vanilloid channel uniquel
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGWSLPKEKGLILCLWNKFCRWFHRRES</span><span class="topo-outside">WAQSRDEQNLLQQKRIWESPLLLAAKENNVQA</span></span>
-<span class="topo-line"><span class="topo-outside">LYKLLKFEGCEVHQKGAMGETALHIAALYDNNEAAQVLMEAAPELVFEPMTSELYEGQTA</span></span>
-<span class="topo-line"><span class="topo-outside">LHIAVINQNVNLVRALLARGASVSARATGSVFHYRPHNLIYYGEHPLSFAACVGSEEIVR</span></span>
-<span class="topo-line"><span class="topo-outside">LLIEHGADIRAQDSLGNTVLHILILQPNKTFACQMYNLLLSYDGGDHLKSLELVPNNQGL</span></span>
-<span class="topo-line"><span class="topo-outside">TPFKLAGVEGNIVMFQHLMQKRKHIQWTYGPLTSTLYDLTEIDSSGDDQSLLELIVTTKK</span></span>
-<span class="topo-line"><span class="topo-outside">REARQILDQTPVKELVSLKWKRYGRPYFC</span><span class="topo-membrane">VLGAIYVLYIICFTMCCVYRP</span><span class="topo-inside">LKPRITNRTN</span></span>
-<span class="topo-line"><span class="topo-inside">PRDNTLLQQKLLQEAYVT</span><span class="topo-membrane">PKDDLRLVGELVSIVGAVIILLVEIP</span><span class="topo-outside">D</span><span class="topo-unknown">IFRLGVTRFFGQTI</span><span class="topo-outside">L</span></span>
-<span class="topo-line"><span class="topo-outside">GG</span><span class="topo-membrane">PFHVIIVTYAFMVLVTMVMRLTNSD</span><span class="topo-inside">G</span><span class="topo-membrane">EVVPMSFALVLGWCNVMYFAR</span><span class="topo-outside">GFQMLGPF</span><span class="topo-membrane">TIM</span></span>
-<span class="topo-line"><span class="topo-membrane">IQKMIFGDLMRFCWLMAVVILGFASA</span><span class="topo-inside">FYIIFQTEDPDELGHFYDYP</span><span class="topo-unknown">MALFSTFELFLTII</span></span>
-<span class="topo-line"><span class="topo-unknown">DG</span><span class="topo-inside">PANYDVDLPFMYSI</span><span class="topo-membrane">TYAAFAIIATLLMLNLLIAMMG</span><span class="topo-outside">DTHWRVAHERDELWRAQVVATT</span></span>
-<span class="topo-line"><span class="topo-outside">VMLERKLPRCLWPRSGICGREYGLGDRWFLRVEDRQD</span><span class="topo-unknown">LNRQRIRRYAQAFQQQDDLYSED</span></span>
-<span class="topo-line"><span class="topo-unknown">LEKDSGEKLVPRLVPR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGWSLPKEKGLILCLWNKFCRWFHRRES</span><span class="topo-outside">WAQSRDEQNLLQQKRIWESPLLLAAKENNVQALYKLLKFEGCEVHQKGAMGETALHIAALYDNNEAAQVLMEAAPELVFEPMTSELYEGQTA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">LHIAVINQNVNLVRALLARGASVSARATGSVFHYRPHNLIYYGEHPLSFAACVGSEEIVRLLIEHGADIRAQDSLGNTVLHILILQPNKTFACQMYNLLLSYDGGDHLKSLELVPNNQGL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">TPFKLAGVEGNIVMFQHLMQKRKHIQWTYGPLTSTLYDLTEIDSSGDDQSLLELIVTTKKREARQILDQTPVKELVSLKWKRYGRPYFC</span><span class="topo-membrane">VLGAIYVLYIICFTMCCVYRP</span><span class="topo-inside">LKPRITNRTN</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">PRDNTLLQQKLLQEAYVT</span><span class="topo-membrane">PKDDLRLVGELVSIVGAVIILLVEIP</span><span class="topo-outside">D</span><span class="topo-unknown">IFRLGVTRFFGQTI</span><span class="topo-outside">LGG</span><span class="topo-membrane">PFHVIIVTYAFMVLVTMVMRLTNSD</span><span class="topo-inside">G</span><span class="topo-membrane">EVVPMSFALVLGWCNVMYFAR</span><span class="topo-outside">GFQMLGPF</span><span class="topo-membrane">TIM</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-membrane">IQKMIFGDLMRFCWLMAVVILGFASA</span><span class="topo-inside">FYIIFQTEDPDELGHFYDYP</span><span class="topo-unknown">MALFSTFELFLTIIDG</span><span class="topo-inside">PANYDVDLPFMYSI</span><span class="topo-membrane">TYAAFAIIATLLMLNLLIAMMG</span><span class="topo-outside">DTHWRVAHERDELWRAQVVATT</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670      </span>
+<span class="topo-line"><span class="topo-outside">VMLERKLPRCLWPRSGICGREYGLGDRWFLRVEDRQD</span><span class="topo-unknown">LNRQRIRRYAQAFQQQDDLYSEDLEKDSGEKLVPRLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3137,6 +3172,7 @@ TRPV6 is a Ca2+-selective transient receptor potential vanilloid channel uniquel
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3152,18 +3188,19 @@ TRPV6 is a Ca2+-selective transient receptor potential vanilloid channel uniquel
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGWSLPKEKGLILCLWNKFCRWFHRR</span><span class="topo-outside">ESWAQSRDEQNLLQQKRIWESPLLLAAKENNVQA</span></span>
-<span class="topo-line"><span class="topo-outside">LYKLLKFEGCEVHQKGAMGETALHIAALYDNNEAAQVLMEAAPELVFEPMTSELYEGQTA</span></span>
-<span class="topo-line"><span class="topo-outside">LHIAVINQNVNLVRALLARGASVSARATGSVFHYRPHNLIYYGEHPLSFAACVGSEEIVR</span></span>
-<span class="topo-line"><span class="topo-outside">LLIEHGADIRAQDSLGNTVLHILILQPNKTFACQMYNLLLSYDGGDHLKSLELVPNNQGL</span></span>
-<span class="topo-line"><span class="topo-outside">TPFKLAGVEGNIVMFQHLMQKRKHIQWTYGPLTSTLYDLTEIDSSGDDQSLLELIVTTKK</span></span>
-<span class="topo-line"><span class="topo-outside">REARQILDQTPVKELVSLKWKRYGRPYFCVLG</span><span class="topo-membrane">AIYVLYIICFTMCCVYR</span><span class="topo-inside">PLKPRITNRTN</span></span>
-<span class="topo-line"><span class="topo-inside">PRDNTLLQQKLLQEAYVTPK</span><span class="topo-membrane">DDLRLVGELVSIVGAVIILLVEI</span><span class="topo-outside">PDIF</span><span class="topo-unknown">RLGVTRFFG</span><span class="topo-outside">QTIL</span></span>
-<span class="topo-line"><span class="topo-outside">GG</span><span class="topo-membrane">PFHVIIVTYAFMVLVTMVMRLT</span><span class="topo-inside">NSDG</span><span class="topo-membrane">EVVPMSFALVLGWCNVMYFA</span><span class="topo-outside">RG</span><span class="topo-unknown">FQMLGPFTIM</span></span>
-<span class="topo-line"><span class="topo-unknown">IQKMI</span><span class="topo-outside">FGDL</span><span class="topo-membrane">MRFCWLMAVVILGFASAFYII</span><span class="topo-inside">FQTEDPDELGHFYD</span><span class="topo-unknown">YPMALFSTFELFLTII</span></span>
-<span class="topo-line"><span class="topo-unknown">DG</span><span class="topo-inside">PANYDVDLPF</span><span class="topo-membrane">MYSITYAAFAIIATLLMLNLLIAM</span><span class="topo-outside">MGDTHWRVAHERDELWRAQVVATT</span></span>
-<span class="topo-line"><span class="topo-outside">VMLERKLPRCLWPRSGICGREYGLGDRWFLRVEDRQD</span><span class="topo-unknown">LNRQRIRRYAQAFQQQDDLYSED</span></span>
-<span class="topo-line"><span class="topo-unknown">LEKDSGEKLVPR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGWSLPKEKGLILCLWNKFCRWFHRR</span><span class="topo-outside">ESWAQSRDEQNLLQQKRIWESPLLLAAKENNVQALYKLLKFEGCEVHQKGAMGETALHIAALYDNNEAAQVLMEAAPELVFEPMTSELYEGQTA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">LHIAVINQNVNLVRALLARGASVSARATGSVFHYRPHNLIYYGEHPLSFAACVGSEEIVRLLIEHGADIRAQDSLGNTVLHILILQPNKTFACQMYNLLLSYDGGDHLKSLELVPNNQGL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">TPFKLAGVEGNIVMFQHLMQKRKHIQWTYGPLTSTLYDLTEIDSSGDDQSLLELIVTTKKREARQILDQTPVKELVSLKWKRYGRPYFCVLG</span><span class="topo-membrane">AIYVLYIICFTMCCVYR</span><span class="topo-inside">PLKPRITNRTN</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">PRDNTLLQQKLLQEAYVTPK</span><span class="topo-membrane">DDLRLVGELVSIVGAVIILLVEI</span><span class="topo-outside">PDIF</span><span class="topo-unknown">RLGVTRFFG</span><span class="topo-outside">QTILGG</span><span class="topo-membrane">PFHVIIVTYAFMVLVTMVMRLT</span><span class="topo-inside">NSDG</span><span class="topo-membrane">EVVPMSFALVLGWCNVMYFA</span><span class="topo-outside">RG</span><span class="topo-unknown">FQMLGPFTIM</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-unknown">IQKMI</span><span class="topo-outside">FGDL</span><span class="topo-membrane">MRFCWLMAVVILGFASAFYII</span><span class="topo-inside">FQTEDPDELGHFYD</span><span class="topo-unknown">YPMALFSTFELFLTIIDG</span><span class="topo-inside">PANYDVDLPF</span><span class="topo-membrane">MYSITYAAFAIIATLLMLNLLIAM</span><span class="topo-outside">MGDTHWRVAHERDELWRAQVVATT</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670  </span>
+<span class="topo-line"><span class="topo-outside">VMLERKLPRCLWPRSGICGREYGLGDRWFLRVEDRQD</span><span class="topo-unknown">LNRQRIRRYAQAFQQQDDLYSEDLEKDSGEKLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3294,6 +3331,7 @@ TRPV6 is a Ca2+-selective transient receptor potential vanilloid channel uniquel
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3309,18 +3347,19 @@ TRPV6 is a Ca2+-selective transient receptor potential vanilloid channel uniquel
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGWSLPKEKGLILCLWNKFCRWFHRRES</span><span class="topo-outside">WAQSRDEQNLLQQKRIWESPLLLAAKENNVQA</span></span>
-<span class="topo-line"><span class="topo-outside">LYKLLKFEGCEVHQKGAMGETALHIAALYDNNEAAQVLMEAAPELVFEPMTSELYEGQTA</span></span>
-<span class="topo-line"><span class="topo-outside">LHIAVINQNVNLVRALLARGASVSARATGSVFHYRPHNLIYYGEHPLSFAACVGSEEIVR</span></span>
-<span class="topo-line"><span class="topo-outside">LLIEHGADIRAQDSLGNTVLHILILQPNKTFACQMYNLLLSYDGGDHLKSLELVPNNQGL</span></span>
-<span class="topo-line"><span class="topo-outside">TPFKLAGVEGNIVMFQHLMQKRKHIQWTYGPLTSTLYDLTEIDSSGDDQSLLELIVTTKK</span></span>
-<span class="topo-line"><span class="topo-outside">REARQILDQTPVKELVSLKWKRYGRPYFC</span><span class="topo-membrane">VLGAIYVLYIICFTMCCVYR</span><span class="topo-inside">PLKPRITNRTN</span></span>
-<span class="topo-line"><span class="topo-inside">PRDNTLLQQKLLQEAYVTPK</span><span class="topo-membrane">DDLRLVGELVSIVGAVIILLVEI</span><span class="topo-outside">PD</span><span class="topo-unknown">IFRLGVTRFFGQTI</span><span class="topo-outside">L</span></span>
-<span class="topo-line"><span class="topo-outside">GG</span><span class="topo-membrane">PFHVIIVTYAFMVLVTMVMRLTNS</span><span class="topo-inside">DG</span><span class="topo-membrane">EVVPMSFALVLGWCNVMYFA</span><span class="topo-outside">RGF</span><span class="topo-unknown">QMLGPF</span><span class="topo-membrane">TIM</span></span>
-<span class="topo-line"><span class="topo-membrane">IQKMIFGDLMRFCWLMAVVILGFAS</span><span class="topo-inside">AFYIIFQTEDPDELGHFYDYPMAL</span><span class="topo-unknown">FSTFELFLTII</span></span>
-<span class="topo-line"><span class="topo-inside">DGPANYDVDLPFMYSITYA</span><span class="topo-membrane">AFAIIATLLMLNLLIAMMG</span><span class="topo-outside">DTH</span><span class="topo-unknown">WRVAHERDELWRAQVVATT</span></span>
-<span class="topo-line"><span class="topo-unknown">VMLERK</span><span class="topo-outside">LPRCLWPRSGICGREYGLGDRWFLRVEDRQD</span><span class="topo-unknown">LNRQRIRRYAQAFQQQDDLYSED</span></span>
-<span class="topo-line"><span class="topo-unknown">LEKDSGEKLVPR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGWSLPKEKGLILCLWNKFCRWFHRRES</span><span class="topo-outside">WAQSRDEQNLLQQKRIWESPLLLAAKENNVQALYKLLKFEGCEVHQKGAMGETALHIAALYDNNEAAQVLMEAAPELVFEPMTSELYEGQTA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">LHIAVINQNVNLVRALLARGASVSARATGSVFHYRPHNLIYYGEHPLSFAACVGSEEIVRLLIEHGADIRAQDSLGNTVLHILILQPNKTFACQMYNLLLSYDGGDHLKSLELVPNNQGL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">TPFKLAGVEGNIVMFQHLMQKRKHIQWTYGPLTSTLYDLTEIDSSGDDQSLLELIVTTKKREARQILDQTPVKELVSLKWKRYGRPYFC</span><span class="topo-membrane">VLGAIYVLYIICFTMCCVYR</span><span class="topo-inside">PLKPRITNRTN</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">PRDNTLLQQKLLQEAYVTPK</span><span class="topo-membrane">DDLRLVGELVSIVGAVIILLVEI</span><span class="topo-outside">PD</span><span class="topo-unknown">IFRLGVTRFFGQTI</span><span class="topo-outside">LGG</span><span class="topo-membrane">PFHVIIVTYAFMVLVTMVMRLTNS</span><span class="topo-inside">DG</span><span class="topo-membrane">EVVPMSFALVLGWCNVMYFA</span><span class="topo-outside">RGF</span><span class="topo-unknown">QMLGPF</span><span class="topo-membrane">TIM</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-membrane">IQKMIFGDLMRFCWLMAVVILGFAS</span><span class="topo-inside">AFYIIFQTEDPDELGHFYDYPMAL</span><span class="topo-unknown">FSTFELFLTII</span><span class="topo-inside">DGPANYDVDLPFMYSITYA</span><span class="topo-membrane">AFAIIATLLMLNLLIAMMG</span><span class="topo-outside">DTH</span><span class="topo-unknown">WRVAHERDELWRAQVVATT</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670  </span>
+<span class="topo-line"><span class="topo-unknown">VMLERK</span><span class="topo-outside">LPRCLWPRSGICGREYGLGDRWFLRVEDRQD</span><span class="topo-unknown">LNRQRIRRYAQAFQQQDDLYSEDLEKDSGEKLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3465,6 +3504,7 @@ TRPV6 is a Ca2+-selective transient receptor potential vanilloid channel uniquel
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3480,18 +3520,19 @@ TRPV6 is a Ca2+-selective transient receptor potential vanilloid channel uniquel
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGWSLPKEKGLILCLWNKFCRWFHRRES</span><span class="topo-outside">WAQSRDEQNLLQQKRIWESPLLLAAKENNVQA</span></span>
-<span class="topo-line"><span class="topo-outside">LYKLLKFEGCEVHQKGAMGETALHIAALYDNNEAAQVLMEAAPELVFEPMTSELYEGQTA</span></span>
-<span class="topo-line"><span class="topo-outside">LHIAVINQNVNLVRALLARGASVSARATGSVFHYRPHNLIYYGEHPLSFAACVGSEEIVR</span></span>
-<span class="topo-line"><span class="topo-outside">LLIEHGADIRAQDSLGNTVLHILILQPNKTFACQMYNLLLSYDGGDHLKSLELVPNNQGL</span></span>
-<span class="topo-line"><span class="topo-outside">TPFKLAGVEGNIVMFQHLMQKRKHIQWTYGPLTSTLYDLTEIDSSGDDQSLLELIVTTKK</span></span>
-<span class="topo-line"><span class="topo-outside">REARQILDQTPVKELVSLKWKRYGRPYFC</span><span class="topo-membrane">VLGAIYVLYIICFTMCCVYR</span><span class="topo-inside">PLKPRITNRTN</span></span>
-<span class="topo-line"><span class="topo-inside">PRDNTLLQQKLLQEAYVTPK</span><span class="topo-membrane">DDLRLVGELVSIVGAVIILLVEIPD</span><span class="topo-unknown">IFRLGVTRFFGQTI</span><span class="topo-outside">L</span></span>
-<span class="topo-line"><span class="topo-outside">GG</span><span class="topo-membrane">PFHVIIVTYAFMVLVTMVMRL</span><span class="topo-inside">TNSDG</span><span class="topo-membrane">EVVPMSFALVLGWCNVMYFA</span><span class="topo-outside">RGFQMLGPFTIM</span></span>
-<span class="topo-line"><span class="topo-outside">IQKM</span><span class="topo-membrane">IFGDLMRFCWLMAVVILGFASAFYII</span><span class="topo-inside">FQTEDPDELGHFYDY</span><span class="topo-unknown">PMALFSTFELFLTII</span></span>
-<span class="topo-line"><span class="topo-unknown">DGPA</span><span class="topo-inside">NYDVDLPF</span><span class="topo-membrane">MYSITYAAFAIIATLLMLNLLI</span><span class="topo-outside">AMMGDTHWRVAHERDELWRAQVVATT</span></span>
-<span class="topo-line"><span class="topo-outside">VMLERKLPRCLWPRSGICGREYGLGDRWFLRVEDRQD</span><span class="topo-unknown">LNRQRIRRYAQAFQQQDDLYSED</span></span>
-<span class="topo-line"><span class="topo-unknown">LEKDSGEKLVPR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGWSLPKEKGLILCLWNKFCRWFHRRES</span><span class="topo-outside">WAQSRDEQNLLQQKRIWESPLLLAAKENNVQALYKLLKFEGCEVHQKGAMGETALHIAALYDNNEAAQVLMEAAPELVFEPMTSELYEGQTA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">LHIAVINQNVNLVRALLARGASVSARATGSVFHYRPHNLIYYGEHPLSFAACVGSEEIVRLLIEHGADIRAQDSLGNTVLHILILQPNKTFACQMYNLLLSYDGGDHLKSLELVPNNQGL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">TPFKLAGVEGNIVMFQHLMQKRKHIQWTYGPLTSTLYDLTEIDSSGDDQSLLELIVTTKKREARQILDQTPVKELVSLKWKRYGRPYFC</span><span class="topo-membrane">VLGAIYVLYIICFTMCCVYR</span><span class="topo-inside">PLKPRITNRTN</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">PRDNTLLQQKLLQEAYVTPK</span><span class="topo-membrane">DDLRLVGELVSIVGAVIILLVEIPD</span><span class="topo-unknown">IFRLGVTRFFGQTI</span><span class="topo-outside">LGG</span><span class="topo-membrane">PFHVIIVTYAFMVLVTMVMRL</span><span class="topo-inside">TNSDG</span><span class="topo-membrane">EVVPMSFALVLGWCNVMYFA</span><span class="topo-outside">RGFQMLGPFTIM</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">IQKM</span><span class="topo-membrane">IFGDLMRFCWLMAVVILGFASAFYII</span><span class="topo-inside">FQTEDPDELGHFYDY</span><span class="topo-unknown">PMALFSTFELFLTIIDGPA</span><span class="topo-inside">NYDVDLPF</span><span class="topo-membrane">MYSITYAAFAIIATLLMLNLLI</span><span class="topo-outside">AMMGDTHWRVAHERDELWRAQVVATT</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670  </span>
+<span class="topo-line"><span class="topo-outside">VMLERKLPRCLWPRSGICGREYGLGDRWFLRVEDRQD</span><span class="topo-unknown">LNRQRIRRYAQAFQQQDDLYSEDLEKDSGEKLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3629,6 +3670,7 @@ TRPV6 is a Ca2+-selective transient receptor potential vanilloid channel uniquel
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

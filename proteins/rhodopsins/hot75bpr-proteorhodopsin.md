@@ -63,11 +63,13 @@ HOT75BPR is a blue-light-absorbing proteorhodopsin isolated from the Pacific Oce
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGKLLLILGSAIALPSFAAAG</span><span class="topo-outside">GDLDISDTVGV</span><span class="topo-membrane">SFWLVTAGMLAATVFFFVERD</span><span class="topo-inside">QVSAKWK</span></span>
-<span class="topo-line"><span class="topo-membrane">TSLTVSGLITGIAFWHYLYMR</span><span class="topo-outside">GVWIDTGDTPT</span><span class="topo-membrane">VFRYINWLLTVPLQVVEFYLIL</span><span class="topo-inside">AACTSV</span></span>
-<span class="topo-line"><span class="topo-inside">A</span><span class="topo-membrane">ASLFKKLLAGSLVMLGAGFAG</span><span class="topo-outside">EAGLAPVL</span><span class="topo-membrane">PAFIIGMAGWLYMIYELYMGEG</span><span class="topo-unknown">KAAVS</span><span class="topo-inside">TAS</span></span>
-<span class="topo-line"><span class="topo-inside">PAVNSA</span><span class="topo-membrane">YNAMMMIIVVGWAIYPAGYAAG</span><span class="topo-outside">YLMGG</span><span class="topo-unknown">E</span><span class="topo-outside">GVYASN</span><span class="topo-membrane">LNLIYNLADFVNKILFGLII</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGKLLLILGSAIALPSFAAAG</span><span class="topo-outside">GDLDISDTVGV</span><span class="topo-membrane">SFWLVTAGMLAATVFFFVERD</span><span class="topo-inside">QVSAKWK</span><span class="topo-membrane">TSLTVSGLITGIAFWHYLYMR</span><span class="topo-outside">GVWIDTGDTPT</span><span class="topo-membrane">VFRYINWLLTVPLQVVEFYLIL</span><span class="topo-inside">AACTSV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">A</span><span class="topo-membrane">ASLFKKLLAGSLVMLGAGFAG</span><span class="topo-outside">EAGLAPVL</span><span class="topo-membrane">PAFIIGMAGWLYMIYELYMGEG</span><span class="topo-unknown">KAAVS</span><span class="topo-inside">TASPAVNSA</span><span class="topo-membrane">YNAMMMIIVVGWAIYPAGYAAG</span><span class="topo-outside">YLMGG</span><span class="topo-unknown">E</span><span class="topo-outside">GVYASN</span><span class="topo-membrane">LNLIYNLADFVNKILFGLII</span></span>
+<span class="topo-ruler">       250         </span>
 <span class="topo-line"><span class="topo-membrane">WN</span><span class="topo-inside">VAVKESSNALEH</span><span class="topo-unknown">HHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -212,6 +214,7 @@ HOT75BPR is a blue-light-absorbing proteorhodopsin isolated from the Pacific Oce
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -227,11 +230,13 @@ HOT75BPR is a blue-light-absorbing proteorhodopsin isolated from the Pacific Oce
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGKLLLILGSAIALPSFAAAG</span><span class="topo-outside">GDLDISDTVGV</span><span class="topo-membrane">SFWLVTAGMLAATVFFFVERD</span><span class="topo-inside">QVSAKWK</span></span>
-<span class="topo-line"><span class="topo-membrane">TSLTVSGLITGIAFWHYLYMR</span><span class="topo-outside">GVWIDTGDTPT</span><span class="topo-membrane">VFRYINWLLTVPLQVVEFYLI</span><span class="topo-inside">LAACTSV</span></span>
-<span class="topo-line"><span class="topo-inside">A</span><span class="topo-membrane">ASLFKKLLAGSLVMLGAGFAG</span><span class="topo-outside">EAGLAPVL</span><span class="topo-membrane">PAFIIGMAGWLYMIYELYMGEG</span><span class="topo-inside">KAAVSTAS</span></span>
-<span class="topo-line"><span class="topo-inside">PAVNSA</span><span class="topo-membrane">YNAMMMIIVVGWAIYPAGYAA</span><span class="topo-outside">GYL</span><span class="topo-unknown">MGGEG</span><span class="topo-outside">VYASN</span><span class="topo-membrane">LNLIYNLADFVNKILFGLII</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGKLLLILGSAIALPSFAAAG</span><span class="topo-outside">GDLDISDTVGV</span><span class="topo-membrane">SFWLVTAGMLAATVFFFVERD</span><span class="topo-inside">QVSAKWK</span><span class="topo-membrane">TSLTVSGLITGIAFWHYLYMR</span><span class="topo-outside">GVWIDTGDTPT</span><span class="topo-membrane">VFRYINWLLTVPLQVVEFYLI</span><span class="topo-inside">LAACTSV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">A</span><span class="topo-membrane">ASLFKKLLAGSLVMLGAGFAG</span><span class="topo-outside">EAGLAPVL</span><span class="topo-membrane">PAFIIGMAGWLYMIYELYMGEG</span><span class="topo-inside">KAAVSTASPAVNSA</span><span class="topo-membrane">YNAMMMIIVVGWAIYPAGYAA</span><span class="topo-outside">GYL</span><span class="topo-unknown">MGGEG</span><span class="topo-outside">VYASN</span><span class="topo-membrane">LNLIYNLADFVNKILFGLII</span></span>
+<span class="topo-ruler">       250         </span>
 <span class="topo-line"><span class="topo-membrane">WN</span><span class="topo-inside">VAVKESSNALEHHH</span><span class="topo-unknown">HHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -369,6 +374,7 @@ HOT75BPR is a blue-light-absorbing proteorhodopsin isolated from the Pacific Oce
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -384,11 +390,13 @@ HOT75BPR is a blue-light-absorbing proteorhodopsin isolated from the Pacific Oce
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGKLLLILGSAIALPSFAAAG</span><span class="topo-outside">GDLDISDTVGV</span><span class="topo-membrane">SFWLVTAGMLAATVFFFVERD</span><span class="topo-inside">QVSAKWK</span></span>
-<span class="topo-line"><span class="topo-membrane">TSLTVSGLITGIAFWHYLYMR</span><span class="topo-outside">GVWIDTGDTPT</span><span class="topo-membrane">VFRYINWLLTVPLQVVEFYLIL</span><span class="topo-inside">AACTSV</span></span>
-<span class="topo-line"><span class="topo-inside">A</span><span class="topo-membrane">ASLFKKLLAGSLVMLGAGFA</span><span class="topo-outside">GEAGLAPVL</span><span class="topo-membrane">PAFIIGMAGWLYMIYELYMGEG</span><span class="topo-inside">KAAVSTAS</span></span>
-<span class="topo-line"><span class="topo-inside">PAVNSA</span><span class="topo-membrane">YNAMMMIIVVGWAIYPAGYAA</span><span class="topo-outside">GYL</span><span class="topo-unknown">MGGEG</span><span class="topo-outside">VYASN</span><span class="topo-membrane">LNLIYNLADFVNKILFGLII</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGKLLLILGSAIALPSFAAAG</span><span class="topo-outside">GDLDISDTVGV</span><span class="topo-membrane">SFWLVTAGMLAATVFFFVERD</span><span class="topo-inside">QVSAKWK</span><span class="topo-membrane">TSLTVSGLITGIAFWHYLYMR</span><span class="topo-outside">GVWIDTGDTPT</span><span class="topo-membrane">VFRYINWLLTVPLQVVEFYLIL</span><span class="topo-inside">AACTSV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">A</span><span class="topo-membrane">ASLFKKLLAGSLVMLGAGFA</span><span class="topo-outside">GEAGLAPVL</span><span class="topo-membrane">PAFIIGMAGWLYMIYELYMGEG</span><span class="topo-inside">KAAVSTASPAVNSA</span><span class="topo-membrane">YNAMMMIIVVGWAIYPAGYAA</span><span class="topo-outside">GYL</span><span class="topo-unknown">MGGEG</span><span class="topo-outside">VYASN</span><span class="topo-membrane">LNLIYNLADFVNKILFGLII</span></span>
+<span class="topo-ruler">       250         </span>
 <span class="topo-line"><span class="topo-membrane">WN</span><span class="topo-inside">VAVKESSNALEH</span><span class="topo-unknown">HHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -526,6 +534,7 @@ HOT75BPR is a blue-light-absorbing proteorhodopsin isolated from the Pacific Oce
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -541,11 +550,13 @@ HOT75BPR is a blue-light-absorbing proteorhodopsin isolated from the Pacific Oce
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGKLLLILGSAIALPSFAAA</span><span class="topo-outside">GGDLDISDTVGV</span><span class="topo-membrane">SFWLVTAGMLAATVFFFVERD</span><span class="topo-inside">QVSAKWK</span></span>
-<span class="topo-line"><span class="topo-membrane">TSLTVSGLITGIAFWHYLYMR</span><span class="topo-outside">GVWIDTGDTPT</span><span class="topo-membrane">VFRYINWLLTVPLQVVEFYLI</span><span class="topo-inside">LA</span><span class="topo-unknown">ACT</span><span class="topo-inside">SV</span></span>
-<span class="topo-line"><span class="topo-inside">A</span><span class="topo-membrane">ASLFKKLLAGSLVMLGAGFAG</span><span class="topo-outside">EAGLAPVL</span><span class="topo-membrane">PAFIIGMAGWLYMIYELYMG</span><span class="topo-inside">EG</span><span class="topo-unknown">KAAVSTA</span><span class="topo-inside">S</span></span>
-<span class="topo-line"><span class="topo-inside">PAVNSA</span><span class="topo-membrane">YNAMMMIIVVGWAIYPAGYAAG</span><span class="topo-outside">YL</span><span class="topo-unknown">MGGEG</span><span class="topo-outside">VYASN</span><span class="topo-membrane">LNLIYNLADFVNKILFGLII</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGKLLLILGSAIALPSFAAA</span><span class="topo-outside">GGDLDISDTVGV</span><span class="topo-membrane">SFWLVTAGMLAATVFFFVERD</span><span class="topo-inside">QVSAKWK</span><span class="topo-membrane">TSLTVSGLITGIAFWHYLYMR</span><span class="topo-outside">GVWIDTGDTPT</span><span class="topo-membrane">VFRYINWLLTVPLQVVEFYLI</span><span class="topo-inside">LA</span><span class="topo-unknown">ACT</span><span class="topo-inside">SV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">A</span><span class="topo-membrane">ASLFKKLLAGSLVMLGAGFAG</span><span class="topo-outside">EAGLAPVL</span><span class="topo-membrane">PAFIIGMAGWLYMIYELYMG</span><span class="topo-inside">EG</span><span class="topo-unknown">KAAVSTA</span><span class="topo-inside">SPAVNSA</span><span class="topo-membrane">YNAMMMIIVVGWAIYPAGYAAG</span><span class="topo-outside">YL</span><span class="topo-unknown">MGGEG</span><span class="topo-outside">VYASN</span><span class="topo-membrane">LNLIYNLADFVNKILFGLII</span></span>
+<span class="topo-ruler">       250         </span>
 <span class="topo-line"><span class="topo-membrane">WN</span><span class="topo-inside">VAVKESSNALEH</span><span class="topo-unknown">HHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (22 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -711,6 +722,7 @@ HOT75BPR is a blue-light-absorbing proteorhodopsin isolated from the Pacific Oce
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -726,11 +738,13 @@ HOT75BPR is a blue-light-absorbing proteorhodopsin isolated from the Pacific Oce
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGKLLLILGSAIALPSFAAAG</span><span class="topo-outside">GDLDISDTVGV</span><span class="topo-membrane">SFWLVTAGMLAATVFFFVERD</span><span class="topo-inside">QVSAKWK</span></span>
-<span class="topo-line"><span class="topo-membrane">TSLTVSGLITGIAFWHYLYMR</span><span class="topo-outside">GVWIDTGDTPT</span><span class="topo-membrane">VFRYINWLLTVPLQVVEFYLIL</span><span class="topo-inside">AACTSV</span></span>
-<span class="topo-line"><span class="topo-inside">A</span><span class="topo-membrane">ASLFKKLLAGSLVMLGAGFAG</span><span class="topo-outside">EAGLAPVL</span><span class="topo-membrane">PAFIIGMAGWLYMIYELYMGEG</span><span class="topo-unknown">KAAVS</span><span class="topo-inside">TAS</span></span>
-<span class="topo-line"><span class="topo-inside">PAVNSA</span><span class="topo-membrane">YNAMMMIIVVGWAIYPAGYAAG</span><span class="topo-outside">YL</span><span class="topo-unknown">MGGEG</span><span class="topo-outside">VYASN</span><span class="topo-membrane">LNLIYNLADFVNKILFGLII</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGKLLLILGSAIALPSFAAAG</span><span class="topo-outside">GDLDISDTVGV</span><span class="topo-membrane">SFWLVTAGMLAATVFFFVERD</span><span class="topo-inside">QVSAKWK</span><span class="topo-membrane">TSLTVSGLITGIAFWHYLYMR</span><span class="topo-outside">GVWIDTGDTPT</span><span class="topo-membrane">VFRYINWLLTVPLQVVEFYLIL</span><span class="topo-inside">AACTSV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">A</span><span class="topo-membrane">ASLFKKLLAGSLVMLGAGFAG</span><span class="topo-outside">EAGLAPVL</span><span class="topo-membrane">PAFIIGMAGWLYMIYELYMGEG</span><span class="topo-unknown">KAAVS</span><span class="topo-inside">TASPAVNSA</span><span class="topo-membrane">YNAMMMIIVVGWAIYPAGYAAG</span><span class="topo-outside">YL</span><span class="topo-unknown">MGGEG</span><span class="topo-outside">VYASN</span><span class="topo-membrane">LNLIYNLADFVNKILFGLII</span></span>
+<span class="topo-ruler">       250         </span>
 <span class="topo-line"><span class="topo-membrane">WN</span><span class="topo-inside">VAVKESSNALEH</span><span class="topo-unknown">HHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -875,6 +889,7 @@ HOT75BPR is a blue-light-absorbing proteorhodopsin isolated from the Pacific Oce
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -890,11 +905,13 @@ HOT75BPR is a blue-light-absorbing proteorhodopsin isolated from the Pacific Oce
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGKLLLILGSAIALPSFAAAG</span><span class="topo-inside">GDLDISDT</span><span class="topo-membrane">VGVSFWLVTAGMLAATVFFFVER</span><span class="topo-outside">DQVSAKWK</span></span>
-<span class="topo-line"><span class="topo-outside">T</span><span class="topo-membrane">SLTVSGLITGIAFWHYLYMR</span><span class="topo-inside">GVWIDTGDTP</span><span class="topo-membrane">TVFRYINWLLTVPLLVVEFY</span><span class="topo-outside">LILAACTSV</span></span>
-<span class="topo-line"><span class="topo-outside">AA</span><span class="topo-membrane">SLFKKLLAGSLVMLGAGFAGE</span><span class="topo-inside">AGLAPV</span><span class="topo-membrane">LPAFIIGMAGWLYMIYELYMG</span><span class="topo-outside">EGKAAVSTAS</span></span>
-<span class="topo-line"><span class="topo-outside">PAVNSAYNA</span><span class="topo-membrane">MMMIIVVGWAIYPAGYAAGYLM</span><span class="topo-inside">GG</span><span class="topo-unknown">E</span><span class="topo-inside">GVYASN</span><span class="topo-membrane">LNLIYNLADFVNKILFGLII</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGKLLLILGSAIALPSFAAAG</span><span class="topo-inside">GDLDISDT</span><span class="topo-membrane">VGVSFWLVTAGMLAATVFFFVER</span><span class="topo-outside">DQVSAKWKT</span><span class="topo-membrane">SLTVSGLITGIAFWHYLYMR</span><span class="topo-inside">GVWIDTGDTP</span><span class="topo-membrane">TVFRYINWLLTVPLLVVEFY</span><span class="topo-outside">LILAACTSV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">AA</span><span class="topo-membrane">SLFKKLLAGSLVMLGAGFAGE</span><span class="topo-inside">AGLAPV</span><span class="topo-membrane">LPAFIIGMAGWLYMIYELYMG</span><span class="topo-outside">EGKAAVSTASPAVNSAYNA</span><span class="topo-membrane">MMMIIVVGWAIYPAGYAAGYLM</span><span class="topo-inside">GG</span><span class="topo-unknown">E</span><span class="topo-inside">GVYASN</span><span class="topo-membrane">LNLIYNLADFVNKILFGLII</span></span>
+<span class="topo-ruler">       250       260 </span>
 <span class="topo-line"><span class="topo-membrane">W</span><span class="topo-outside">NVAVKESSNAKL</span><span class="topo-unknown">LEHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1032,6 +1049,7 @@ HOT75BPR is a blue-light-absorbing proteorhodopsin isolated from the Pacific Oce
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1047,11 +1065,13 @@ HOT75BPR is a blue-light-absorbing proteorhodopsin isolated from the Pacific Oce
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGKLLLILGSAIALPSFAAAG</span><span class="topo-inside">GDLDISDT</span><span class="topo-membrane">VGVSFWLVTAGMLAATVFFFVER</span><span class="topo-outside">DQVSAKWK</span></span>
-<span class="topo-line"><span class="topo-outside">T</span><span class="topo-membrane">SLTVSGLITGIAFWHYLYMR</span><span class="topo-inside">GVWIDTGDTP</span><span class="topo-membrane">TVFRYINWLLTVPLLVVEFY</span><span class="topo-outside">LI</span><span class="topo-unknown">LAACTS</span><span class="topo-outside">V</span></span>
-<span class="topo-line"><span class="topo-outside">AA</span><span class="topo-membrane">SLFKKLLAGSLVMLGAGFAGE</span><span class="topo-inside">AGLAPV</span><span class="topo-membrane">LPAFIIGMAGWLYMIYEL</span><span class="topo-outside">YMGEGKAAVS</span><span class="topo-unknown">TA</span><span class="topo-outside">S</span></span>
-<span class="topo-line"><span class="topo-outside">PAVNSAYNA</span><span class="topo-membrane">MMMIIVVGWAIYPAGYAAGYLM</span><span class="topo-unknown">GGEG</span><span class="topo-inside">VYASN</span><span class="topo-membrane">LNLIYNLADFVNKILFGLII</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGKLLLILGSAIALPSFAAAG</span><span class="topo-inside">GDLDISDT</span><span class="topo-membrane">VGVSFWLVTAGMLAATVFFFVER</span><span class="topo-outside">DQVSAKWKT</span><span class="topo-membrane">SLTVSGLITGIAFWHYLYMR</span><span class="topo-inside">GVWIDTGDTP</span><span class="topo-membrane">TVFRYINWLLTVPLLVVEFY</span><span class="topo-outside">LI</span><span class="topo-unknown">LAACTS</span><span class="topo-outside">V</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">AA</span><span class="topo-membrane">SLFKKLLAGSLVMLGAGFAGE</span><span class="topo-inside">AGLAPV</span><span class="topo-membrane">LPAFIIGMAGWLYMIYEL</span><span class="topo-outside">YMGEGKAAVS</span><span class="topo-unknown">TA</span><span class="topo-outside">SPAVNSAYNA</span><span class="topo-membrane">MMMIIVVGWAIYPAGYAAGYLM</span><span class="topo-unknown">GGEG</span><span class="topo-inside">VYASN</span><span class="topo-membrane">LNLIYNLADFVNKILFGLII</span></span>
+<span class="topo-ruler">       250       260 </span>
 <span class="topo-line"><span class="topo-membrane">W</span><span class="topo-outside">NVAVKESSNAKLLEH</span><span class="topo-unknown">HHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (22 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1217,6 +1237,7 @@ HOT75BPR is a blue-light-absorbing proteorhodopsin isolated from the Pacific Oce
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1232,11 +1253,13 @@ HOT75BPR is a blue-light-absorbing proteorhodopsin isolated from the Pacific Oce
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGKLLLILGSAIALPSFAAAG</span><span class="topo-inside">GDLDISDT</span><span class="topo-membrane">VGVSFWLVTAGMLAATVFFFVER</span><span class="topo-outside">DQVSAKWK</span></span>
-<span class="topo-line"><span class="topo-outside">T</span><span class="topo-membrane">SLTVSGLITGIAFWHYLYMR</span><span class="topo-inside">GVWIDTGDTP</span><span class="topo-membrane">TVFRYINWLLTVPLLVVEFY</span><span class="topo-outside">LILAACTSV</span></span>
-<span class="topo-line"><span class="topo-outside">AA</span><span class="topo-membrane">SLFKKLLAGSLVMLGAGFAGE</span><span class="topo-inside">AGLAPV</span><span class="topo-membrane">LPAFIIGMAGWLYMIYELYMG</span><span class="topo-outside">EGKAAVSTAS</span></span>
-<span class="topo-line"><span class="topo-outside">PAVNSAYNA</span><span class="topo-membrane">MMMIIVVGWAIYPAGYAAGYLM</span><span class="topo-inside">GG</span><span class="topo-unknown">E</span><span class="topo-inside">GVYASN</span><span class="topo-membrane">LNLIYNLADFVNKILFGLII</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGKLLLILGSAIALPSFAAAG</span><span class="topo-inside">GDLDISDT</span><span class="topo-membrane">VGVSFWLVTAGMLAATVFFFVER</span><span class="topo-outside">DQVSAKWKT</span><span class="topo-membrane">SLTVSGLITGIAFWHYLYMR</span><span class="topo-inside">GVWIDTGDTP</span><span class="topo-membrane">TVFRYINWLLTVPLLVVEFY</span><span class="topo-outside">LILAACTSV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">AA</span><span class="topo-membrane">SLFKKLLAGSLVMLGAGFAGE</span><span class="topo-inside">AGLAPV</span><span class="topo-membrane">LPAFIIGMAGWLYMIYELYMG</span><span class="topo-outside">EGKAAVSTASPAVNSAYNA</span><span class="topo-membrane">MMMIIVVGWAIYPAGYAAGYLM</span><span class="topo-inside">GG</span><span class="topo-unknown">E</span><span class="topo-inside">GVYASN</span><span class="topo-membrane">LNLIYNLADFVNKILFGLII</span></span>
+<span class="topo-ruler">       250       260 </span>
 <span class="topo-line"><span class="topo-membrane">W</span><span class="topo-outside">NVAVKESSNAKLL</span><span class="topo-unknown">EHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1374,6 +1397,7 @@ HOT75BPR is a blue-light-absorbing proteorhodopsin isolated from the Pacific Oce
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1389,11 +1413,13 @@ HOT75BPR is a blue-light-absorbing proteorhodopsin isolated from the Pacific Oce
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGKLLLILGSAIALPSFAAA</span><span class="topo-inside">GGDLDISDT</span><span class="topo-membrane">VGVSFWLVTAGMLAATVFFFVER</span><span class="topo-outside">DQVSAKWK</span></span>
-<span class="topo-line"><span class="topo-outside">T</span><span class="topo-membrane">SLTVSGLITGIAFWHYLYMR</span><span class="topo-inside">GVWIDTGDTP</span><span class="topo-membrane">TVFRYINWLLTVPLLVVEFY</span><span class="topo-outside">LILAACTSV</span></span>
-<span class="topo-line"><span class="topo-outside">AAS</span><span class="topo-membrane">LFKKLLAGSLVMLGAGFAGE</span><span class="topo-inside">AGLAPV</span><span class="topo-membrane">LPAFIIGMAGWLYMIYELY</span><span class="topo-outside">MGEGKAA</span><span class="topo-unknown">VST</span><span class="topo-outside">AS</span></span>
-<span class="topo-line"><span class="topo-outside">PAVNSAYNA</span><span class="topo-membrane">MMMIIVVGWAIYPAGYAAGYLM</span><span class="topo-unknown">GGE</span><span class="topo-inside">GVYAS</span><span class="topo-membrane">NLNLIYNLADFVNKILFGLII</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGKLLLILGSAIALPSFAAA</span><span class="topo-inside">GGDLDISDT</span><span class="topo-membrane">VGVSFWLVTAGMLAATVFFFVER</span><span class="topo-outside">DQVSAKWKT</span><span class="topo-membrane">SLTVSGLITGIAFWHYLYMR</span><span class="topo-inside">GVWIDTGDTP</span><span class="topo-membrane">TVFRYINWLLTVPLLVVEFY</span><span class="topo-outside">LILAACTSV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">AAS</span><span class="topo-membrane">LFKKLLAGSLVMLGAGFAGE</span><span class="topo-inside">AGLAPV</span><span class="topo-membrane">LPAFIIGMAGWLYMIYELY</span><span class="topo-outside">MGEGKAA</span><span class="topo-unknown">VST</span><span class="topo-outside">ASPAVNSAYNA</span><span class="topo-membrane">MMMIIVVGWAIYPAGYAAGYLM</span><span class="topo-unknown">GGE</span><span class="topo-inside">GVYAS</span><span class="topo-membrane">NLNLIYNLADFVNKILFGLII</span></span>
+<span class="topo-ruler">       250       260 </span>
 <span class="topo-line"><span class="topo-membrane">W</span><span class="topo-outside">NVAVKESSNAKLL</span><span class="topo-unknown">EHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (20 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1545,6 +1571,7 @@ HOT75BPR is a blue-light-absorbing proteorhodopsin isolated from the Pacific Oce
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1560,11 +1587,13 @@ HOT75BPR is a blue-light-absorbing proteorhodopsin isolated from the Pacific Oce
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGKLLLILGSAIALPSFAAAG</span><span class="topo-inside">GDLDISDT</span><span class="topo-membrane">VGVSFWLVTAGMLAATVFFFVE</span><span class="topo-outside">RDQVSAKWK</span></span>
-<span class="topo-line"><span class="topo-outside">T</span><span class="topo-membrane">SLTVSGLITGIAFWHYLYMR</span><span class="topo-inside">GVWIDTGDTP</span><span class="topo-membrane">TVFRYINWLLTVPLLVVEFY</span><span class="topo-outside">LILAACTSV</span></span>
-<span class="topo-line"><span class="topo-outside">AA</span><span class="topo-membrane">SLFKKLLAGSLVMLGAGFAGE</span><span class="topo-inside">AGLAPV</span><span class="topo-membrane">LPAFIIGMAGWLYMIYELYMG</span><span class="topo-outside">EGKAAVSTAS</span></span>
-<span class="topo-line"><span class="topo-outside">PAVNSAYNA</span><span class="topo-membrane">MMMIIVVGWAIYPAGYAAGYL</span><span class="topo-inside">MGG</span><span class="topo-unknown">EG</span><span class="topo-inside">VYASN</span><span class="topo-membrane">LNLIYNLADFVNKILFGLII</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGKLLLILGSAIALPSFAAAG</span><span class="topo-inside">GDLDISDT</span><span class="topo-membrane">VGVSFWLVTAGMLAATVFFFVE</span><span class="topo-outside">RDQVSAKWKT</span><span class="topo-membrane">SLTVSGLITGIAFWHYLYMR</span><span class="topo-inside">GVWIDTGDTP</span><span class="topo-membrane">TVFRYINWLLTVPLLVVEFY</span><span class="topo-outside">LILAACTSV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">AA</span><span class="topo-membrane">SLFKKLLAGSLVMLGAGFAGE</span><span class="topo-inside">AGLAPV</span><span class="topo-membrane">LPAFIIGMAGWLYMIYELYMG</span><span class="topo-outside">EGKAAVSTASPAVNSAYNA</span><span class="topo-membrane">MMMIIVVGWAIYPAGYAAGYL</span><span class="topo-inside">MGG</span><span class="topo-unknown">EG</span><span class="topo-inside">VYASN</span><span class="topo-membrane">LNLIYNLADFVNKILFGLII</span></span>
+<span class="topo-ruler">       250       260 </span>
 <span class="topo-line"><span class="topo-membrane">W</span><span class="topo-outside">NVAVKESSNAKL</span><span class="topo-unknown">LEHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1709,6 +1738,7 @@ HOT75BPR is a blue-light-absorbing proteorhodopsin isolated from the Pacific Oce
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

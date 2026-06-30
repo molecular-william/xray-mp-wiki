@@ -175,18 +175,19 @@ proton transfer pathway.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MKVTLSALDTSES</span><span class="topo-inside">SFTPLVVIELAQDVKEETKEWLKNRIIAKKKDGGAQLLFRPLLNKYE</span></span>
-<span class="topo-line"><span class="topo-inside">QETLENQNLYLVGASKIRMLLGAEAVGLVKECNDNTMRAFTYRTRQNFKGF</span><span class="topo-unknown">DDNND</span><span class="topo-inside">DFLT</span></span>
-<span class="topo-line"><span class="topo-inside">MAECQFIIKHELENLRAKDEKMIPGYPQAKLYPGKSLLRRLLTSGIVIQVFPLHDSEALK</span></span>
-<span class="topo-line"><span class="topo-inside">KLEDTWYT</span><span class="topo-unknown">RFA</span><span class="topo-inside">LKYQP</span><span class="topo-unknown">IDSIRGYF</span><span class="topo-inside">GET</span><span class="topo-membrane">IALYFGFLEYFTFALIPMAVIGLP</span><span class="topo-outside">YYLFVWEDY</span></span>
-<span class="topo-line"><span class="topo-outside">DKYVI</span><span class="topo-membrane">FASFNLIWSTVILELWKRGCA</span><span class="topo-inside">NMTYRWGTLLMKRKFEEPRPGFHGVLGINSITGK</span></span>
-<span class="topo-line"><span class="topo-inside">EEPLYPS</span><span class="topo-membrane">YKRQLRIYLVSLPFVCLCLYFSL</span><span class="topo-outside">YVMMIYFDMEVWALGLHEN</span><span class="topo-unknown">SGSE</span><span class="topo-outside">WTSVLLY</span></span>
-<span class="topo-line"><span class="topo-outside">VPSI</span><span class="topo-membrane">IYAIVIEIMNRLYRYAAEFLTSWENH</span><span class="topo-inside">RLES</span><span class="topo-membrane">AYQNHLILKVLVFNFLNCFASL</span><span class="topo-outside">FYIA</span></span>
-<span class="topo-line"><span class="topo-outside">FVLKDMKLLRQSL</span><span class="topo-membrane">ATLLITSQILNQIMESFLPYWLQRKH</span><span class="topo-inside">GVRVKRKVQALK</span><span class="topo-unknown">ADI</span><span class="topo-inside">DATLYE</span></span>
-<span class="topo-line"><span class="topo-inside">QVILEKEM</span><span class="topo-membrane">GTYLGTFDDYLELFLQFGYVSLFS</span><span class="topo-outside">CVY</span><span class="topo-membrane">PLAAAFAVLNNFTEVNSDALKMCRV</span></span>
-<span class="topo-line"><span class="topo-membrane">F</span><span class="topo-inside">KRPFSEPSAN</span><span class="topo-membrane">IGVWQLAFETMSVISVVTN</span><span class="topo-outside">CALIGMSPQVNAVFPESKADLILIVVAV</span><span class="topo-membrane">EH</span></span>
-<span class="topo-line"><span class="topo-membrane">ALLALKFILAFAIPDKP</span><span class="topo-inside">RHIQMKLARLEFESLEALKQQQ</span><span class="topo-unknown">MKLVTENLKEEPMESGKEKAT</span></span>
-<span class="topo-line"><span class="topo-unknown">AENLYFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MKVTLSALDTSES</span><span class="topo-inside">SFTPLVVIELAQDVKEETKEWLKNRIIAKKKDGGAQLLFRPLLNKYEQETLENQNLYLVGASKIRMLLGAEAVGLVKECNDNTMRAFTYRTRQNFKGF</span><span class="topo-unknown">DDNND</span><span class="topo-inside">DFLT</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">MAECQFIIKHELENLRAKDEKMIPGYPQAKLYPGKSLLRRLLTSGIVIQVFPLHDSEALKKLEDTWYT</span><span class="topo-unknown">RFA</span><span class="topo-inside">LKYQP</span><span class="topo-unknown">IDSIRGYF</span><span class="topo-inside">GET</span><span class="topo-membrane">IALYFGFLEYFTFALIPMAVIGLP</span><span class="topo-outside">YYLFVWEDY</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">DKYVI</span><span class="topo-membrane">FASFNLIWSTVILELWKRGCA</span><span class="topo-inside">NMTYRWGTLLMKRKFEEPRPGFHGVLGINSITGKEEPLYPS</span><span class="topo-membrane">YKRQLRIYLVSLPFVCLCLYFSL</span><span class="topo-outside">YVMMIYFDMEVWALGLHEN</span><span class="topo-unknown">SGSE</span><span class="topo-outside">WTSVLLY</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">VPSI</span><span class="topo-membrane">IYAIVIEIMNRLYRYAAEFLTSWENH</span><span class="topo-inside">RLES</span><span class="topo-membrane">AYQNHLILKVLVFNFLNCFASL</span><span class="topo-outside">FYIAFVLKDMKLLRQSL</span><span class="topo-membrane">ATLLITSQILNQIMESFLPYWLQRKH</span><span class="topo-inside">GVRVKRKVQALK</span><span class="topo-unknown">ADI</span><span class="topo-inside">DATLYE</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-inside">QVILEKEM</span><span class="topo-membrane">GTYLGTFDDYLELFLQFGYVSLFS</span><span class="topo-outside">CVY</span><span class="topo-membrane">PLAAAFAVLNNFTEVNSDALKMCRVF</span><span class="topo-inside">KRPFSEPSAN</span><span class="topo-membrane">IGVWQLAFETMSVISVVTN</span><span class="topo-outside">CALIGMSPQVNAVFPESKADLILIVVAV</span><span class="topo-membrane">EH</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       </span>
+<span class="topo-line"><span class="topo-membrane">ALLALKFILAFAIPDKP</span><span class="topo-inside">RHIQMKLARLEFESLEALKQQQ</span><span class="topo-unknown">MKLVTENLKEEPMESGKEKATAENLYFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (27 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -387,6 +388,7 @@ proton transfer pathway.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -402,18 +404,19 @@ proton transfer pathway.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MKVTLSALDTSESS</span><span class="topo-inside">FTPLVVIELAQDVKEETKEWLKNRIIAKKKDGGAQLLFRPLLNKYE</span></span>
-<span class="topo-line"><span class="topo-inside">QETLENQNLYLVGASKIRMLLGAEAVGLVKECNDNTMRAFTYRTRQNFKGFDDNNDDFLT</span></span>
-<span class="topo-line"><span class="topo-inside">MAECQFIIKHELENLRAKDEKMIPGYPQAKLYPGKSLLRRLLTSGIVIQVFPLHDSEALK</span></span>
-<span class="topo-line"><span class="topo-inside">KLEDTWYT</span><span class="topo-unknown">RFAL</span><span class="topo-inside">KYQP</span><span class="topo-unknown">IDSIRGYF</span><span class="topo-inside">GET</span><span class="topo-membrane">IALYFGFLEYFTFALIPMAVIGLP</span><span class="topo-outside">YYLFVWEDY</span></span>
-<span class="topo-line"><span class="topo-outside">DKYVI</span><span class="topo-membrane">FASFNLIWSTVILELWKRGCA</span><span class="topo-inside">NMTYRWGTLLMKRKFEEPRPGFHGVLGINSITGK</span></span>
-<span class="topo-line"><span class="topo-inside">EEPLYPS</span><span class="topo-membrane">YKRQLRIYLVSLPFVCLCLYFSLYV</span><span class="topo-outside">MMIYFDMEVWALGLHENSGSEWTSVLLY</span></span>
-<span class="topo-line"><span class="topo-outside">VPSI</span><span class="topo-membrane">IYAIVIEIMNRLYRYAAEFLTSWENH</span><span class="topo-inside">RLES</span><span class="topo-membrane">AYQNHLILKVLVFNFLNCFASL</span><span class="topo-outside">FYIA</span></span>
-<span class="topo-line"><span class="topo-outside">FVLKDMKLLRQSL</span><span class="topo-membrane">ATLLITSQILNQIMESFLPYWLQRKH</span><span class="topo-inside">GVRVKRKVQALKADIDATLYE</span></span>
-<span class="topo-line"><span class="topo-inside">QVILEKEM</span><span class="topo-membrane">GTYLGTFDDYLELFLQFGYVSLFS</span><span class="topo-outside">CVY</span><span class="topo-membrane">PLAAAFAVLNNFTEVNSDALKMCRV</span></span>
-<span class="topo-line"><span class="topo-membrane">F</span><span class="topo-inside">KRPFSEPSAN</span><span class="topo-membrane">IGVWQLAFETMSVISVVTN</span><span class="topo-outside">CALIGMSPQVNAVFPESKADLILIVVAV</span><span class="topo-membrane">EH</span></span>
-<span class="topo-line"><span class="topo-membrane">ALLALKFILAFAIPDKP</span><span class="topo-inside">RHIQMKLARLEFESLEALKQQQMK</span><span class="topo-unknown">LVTENLKEEPMESGKEKAT</span></span>
-<span class="topo-line"><span class="topo-unknown">AENLYFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MKVTLSALDTSESS</span><span class="topo-inside">FTPLVVIELAQDVKEETKEWLKNRIIAKKKDGGAQLLFRPLLNKYEQETLENQNLYLVGASKIRMLLGAEAVGLVKECNDNTMRAFTYRTRQNFKGFDDNNDDFLT</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">MAECQFIIKHELENLRAKDEKMIPGYPQAKLYPGKSLLRRLLTSGIVIQVFPLHDSEALKKLEDTWYT</span><span class="topo-unknown">RFAL</span><span class="topo-inside">KYQP</span><span class="topo-unknown">IDSIRGYF</span><span class="topo-inside">GET</span><span class="topo-membrane">IALYFGFLEYFTFALIPMAVIGLP</span><span class="topo-outside">YYLFVWEDY</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">DKYVI</span><span class="topo-membrane">FASFNLIWSTVILELWKRGCA</span><span class="topo-inside">NMTYRWGTLLMKRKFEEPRPGFHGVLGINSITGKEEPLYPS</span><span class="topo-membrane">YKRQLRIYLVSLPFVCLCLYFSLYV</span><span class="topo-outside">MMIYFDMEVWALGLHENSGSEWTSVLLY</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">VPSI</span><span class="topo-membrane">IYAIVIEIMNRLYRYAAEFLTSWENH</span><span class="topo-inside">RLES</span><span class="topo-membrane">AYQNHLILKVLVFNFLNCFASL</span><span class="topo-outside">FYIAFVLKDMKLLRQSL</span><span class="topo-membrane">ATLLITSQILNQIMESFLPYWLQRKH</span><span class="topo-inside">GVRVKRKVQALKADIDATLYE</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-inside">QVILEKEM</span><span class="topo-membrane">GTYLGTFDDYLELFLQFGYVSLFS</span><span class="topo-outside">CVY</span><span class="topo-membrane">PLAAAFAVLNNFTEVNSDALKMCRVF</span><span class="topo-inside">KRPFSEPSAN</span><span class="topo-membrane">IGVWQLAFETMSVISVVTN</span><span class="topo-outside">CALIGMSPQVNAVFPESKADLILIVVAV</span><span class="topo-membrane">EH</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       </span>
+<span class="topo-line"><span class="topo-membrane">ALLALKFILAFAIPDKP</span><span class="topo-inside">RHIQMKLARLEFESLEALKQQQMK</span><span class="topo-unknown">LVTENLKEEPMESGKEKATAENLYFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (24 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -593,6 +596,7 @@ proton transfer pathway.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -680,10 +684,11 @@ proton transfer pathway.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">TGRPEWIW</span><span class="topo-membrane">LALGTALMGLGTLYFL</span><span class="topo-inside">VKGMGVSDPDAKKFYAIT</span><span class="topo-membrane">TLVPAIAFTMYLSM</span><span class="topo-outside">LLGY</span></span>
-<span class="topo-line"><span class="topo-outside">GLTMVPFGGEQNPIYW</span><span class="topo-membrane">ARYADWLFTTPLLL</span><span class="topo-inside">LDLALLVDADQGTILA</span><span class="topo-membrane">LVGADGIMIGTGLV</span></span>
-<span class="topo-line"><span class="topo-membrane">G</span><span class="topo-outside">ALTKVYSYRF</span><span class="topo-membrane">VWWAISTAAMLYILY</span><span class="topo-inside">VLFFGFTSKAESMRPEVASTFKVLRNV</span><span class="topo-membrane">TVVLWSA</span></span>
-<span class="topo-line"><span class="topo-membrane">YPVVWLI</span><span class="topo-outside">GSEGAGIVPLNIE</span><span class="topo-membrane">TLLFMVLDVSAKVGFG</span><span class="topo-inside">LILLRSRAIFGEA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">TGRPEWIW</span><span class="topo-membrane">LALGTALMGLGTLYFL</span><span class="topo-inside">VKGMGVSDPDAKKFYAIT</span><span class="topo-membrane">TLVPAIAFTMYLSM</span><span class="topo-outside">LLGYGLTMVPFGGEQNPIYW</span><span class="topo-membrane">ARYADWLFTTPLLL</span><span class="topo-inside">LDLALLVDADQGTILA</span><span class="topo-membrane">LVGADGIMIGTGLV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220         </span>
+<span class="topo-line"><span class="topo-membrane">G</span><span class="topo-outside">ALTKVYSYRF</span><span class="topo-membrane">VWWAISTAAMLYILY</span><span class="topo-inside">VLFFGFTSKAESMRPEVASTFKVLRNV</span><span class="topo-membrane">TVVLWSAYPVVWLI</span><span class="topo-outside">GSEGAGIVPLNIE</span><span class="topo-membrane">TLLFMVLDVSAKVGFG</span><span class="topo-inside">LILLRSRAIFGEA</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -800,6 +805,7 @@ proton transfer pathway.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -815,10 +821,11 @@ proton transfer pathway.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">TGRPEWIW</span><span class="topo-membrane">LALGTALMGLGTLYFL</span><span class="topo-inside">VKGMGVSDPDAKKFYAIT</span><span class="topo-membrane">TLVPAIAFTMYLSM</span><span class="topo-outside">LLGY</span></span>
-<span class="topo-line"><span class="topo-outside">GLTMVPFGGEQNPIYW</span><span class="topo-membrane">ARYADWLFTTPLLL</span><span class="topo-inside">LDLALLVDADQGTILA</span><span class="topo-membrane">LVGADGIMIGTGLV</span></span>
-<span class="topo-line"><span class="topo-membrane">G</span><span class="topo-outside">ALTKVYSYRF</span><span class="topo-membrane">VWWAISTAAMLYILY</span><span class="topo-inside">VLFFGFTSKAESMRPEVASTFKVLRNV</span><span class="topo-membrane">TVVLWSA</span></span>
-<span class="topo-line"><span class="topo-membrane">YPVVWLI</span><span class="topo-outside">GSEGAGIVPLNIE</span><span class="topo-membrane">TLLFMVLDVSAKVGFG</span><span class="topo-inside">LILLRSRAIFGEA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">TGRPEWIW</span><span class="topo-membrane">LALGTALMGLGTLYFL</span><span class="topo-inside">VKGMGVSDPDAKKFYAIT</span><span class="topo-membrane">TLVPAIAFTMYLSM</span><span class="topo-outside">LLGYGLTMVPFGGEQNPIYW</span><span class="topo-membrane">ARYADWLFTTPLLL</span><span class="topo-inside">LDLALLVDADQGTILA</span><span class="topo-membrane">LVGADGIMIGTGLV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220         </span>
+<span class="topo-line"><span class="topo-membrane">G</span><span class="topo-outside">ALTKVYSYRF</span><span class="topo-membrane">VWWAISTAAMLYILY</span><span class="topo-inside">VLFFGFTSKAESMRPEVASTFKVLRNV</span><span class="topo-membrane">TVVLWSAYPVVWLI</span><span class="topo-outside">GSEGAGIVPLNIE</span><span class="topo-membrane">TLLFMVLDVSAKVGFG</span><span class="topo-inside">LILLRSRAIFGEA</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -935,6 +942,7 @@ proton transfer pathway.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -950,10 +958,11 @@ proton transfer pathway.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">TGRPEWIW</span><span class="topo-membrane">LALGTALMGLGTLYFL</span><span class="topo-inside">VKGMGVSDPDAKKFYAIT</span><span class="topo-membrane">TLVPAIAFTMYLSM</span><span class="topo-outside">LLGY</span></span>
-<span class="topo-line"><span class="topo-outside">GLTMVPFGGEQNPIYW</span><span class="topo-membrane">ARYADWLFTTPLLL</span><span class="topo-inside">LDLALLVDADQGTILA</span><span class="topo-membrane">LVGADGIMIGTGLV</span></span>
-<span class="topo-line"><span class="topo-membrane">G</span><span class="topo-outside">ALTKVYSYRF</span><span class="topo-membrane">VWWAISTAAMLYILY</span><span class="topo-inside">VLFFGFTSKAESMRPEVASTFKVLRNV</span><span class="topo-membrane">TVVLWSA</span></span>
-<span class="topo-line"><span class="topo-membrane">YPVVWLI</span><span class="topo-outside">GSEGAGIVPLNIE</span><span class="topo-membrane">TLLFMVLDVSAKVGFG</span><span class="topo-inside">LILLRSRAIFGEA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">TGRPEWIW</span><span class="topo-membrane">LALGTALMGLGTLYFL</span><span class="topo-inside">VKGMGVSDPDAKKFYAIT</span><span class="topo-membrane">TLVPAIAFTMYLSM</span><span class="topo-outside">LLGYGLTMVPFGGEQNPIYW</span><span class="topo-membrane">ARYADWLFTTPLLL</span><span class="topo-inside">LDLALLVDADQGTILA</span><span class="topo-membrane">LVGADGIMIGTGLV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220         </span>
+<span class="topo-line"><span class="topo-membrane">G</span><span class="topo-outside">ALTKVYSYRF</span><span class="topo-membrane">VWWAISTAAMLYILY</span><span class="topo-inside">VLFFGFTSKAESMRPEVASTFKVLRNV</span><span class="topo-membrane">TVVLWSAYPVVWLI</span><span class="topo-outside">GSEGAGIVPLNIE</span><span class="topo-membrane">TLLFMVLDVSAKVGFG</span><span class="topo-inside">LILLRSRAIFGEA</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1070,6 +1079,7 @@ proton transfer pathway.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1085,10 +1095,11 @@ proton transfer pathway.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">TGRPEWI</span><span class="topo-membrane">WLALGTALMGLGTLYFLV</span><span class="topo-inside">KGMGVSDPDAKKFYAI</span><span class="topo-membrane">TTLVPAIAFTMYLSML</span><span class="topo-outside">LGY</span></span>
-<span class="topo-line"><span class="topo-outside">GLTMVPFGGEQNPIY</span><span class="topo-membrane">WARYADWLFTTPLLL</span><span class="topo-inside">LDLALLVDADQGTIL</span><span class="topo-membrane">ALVGADGIMIGTGLV</span></span>
-<span class="topo-line"><span class="topo-membrane">GA</span><span class="topo-outside">LTKVYSYR</span><span class="topo-membrane">FVWWAISTAAMLYILY</span><span class="topo-inside">VLFFGFTSKAESMRPEVASTFKVLRN</span><span class="topo-membrane">VTVVLWSA</span></span>
-<span class="topo-line"><span class="topo-membrane">YPVVWLIG</span><span class="topo-outside">SEGAGIVPLNI</span><span class="topo-membrane">ETLLFMVLDVSAKVGFGL</span><span class="topo-inside">ILLRSRAIFGE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">TGRPEWI</span><span class="topo-membrane">WLALGTALMGLGTLYFLV</span><span class="topo-inside">KGMGVSDPDAKKFYAI</span><span class="topo-membrane">TTLVPAIAFTMYLSML</span><span class="topo-outside">LGYGLTMVPFGGEQNPIY</span><span class="topo-membrane">WARYADWLFTTPLLL</span><span class="topo-inside">LDLALLVDADQGTIL</span><span class="topo-membrane">ALVGADGIMIGTGLV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220        </span>
+<span class="topo-line"><span class="topo-membrane">GA</span><span class="topo-outside">LTKVYSYR</span><span class="topo-membrane">FVWWAISTAAMLYILY</span><span class="topo-inside">VLFFGFTSKAESMRPEVASTFKVLRN</span><span class="topo-membrane">VTVVLWSAYPVVWLIG</span><span class="topo-outside">SEGAGIVPLNI</span><span class="topo-membrane">ETLLFMVLDVSAKVGFGL</span><span class="topo-inside">ILLRSRAIFGE</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1205,6 +1216,7 @@ proton transfer pathway.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1220,10 +1232,11 @@ proton transfer pathway.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">TGRPEWI</span><span class="topo-membrane">WLALGTALMGLGTLYFLV</span><span class="topo-inside">KGMGVSDPDAKKFYAI</span><span class="topo-membrane">TTLVPAIAFTMYLSML</span><span class="topo-outside">LGY</span></span>
-<span class="topo-line"><span class="topo-outside">GLTMVPFGGEQNPIY</span><span class="topo-membrane">WARYADWLFTTPLLL</span><span class="topo-inside">LDLALLVDADQGTIL</span><span class="topo-membrane">ALVGADGIMIGTGLV</span></span>
-<span class="topo-line"><span class="topo-membrane">GA</span><span class="topo-outside">LTKVYSYR</span><span class="topo-membrane">FVWWAISTAAMLYILY</span><span class="topo-inside">VLFFGFTSKAESMRPEVASTFKVLRN</span><span class="topo-membrane">VTVVLWSA</span></span>
-<span class="topo-line"><span class="topo-membrane">YPVVWLIG</span><span class="topo-outside">SEGAGIVPLNI</span><span class="topo-membrane">ETLLFMVLDVSAKVGFGL</span><span class="topo-inside">ILLRSRAIFGE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">TGRPEWI</span><span class="topo-membrane">WLALGTALMGLGTLYFLV</span><span class="topo-inside">KGMGVSDPDAKKFYAI</span><span class="topo-membrane">TTLVPAIAFTMYLSML</span><span class="topo-outside">LGYGLTMVPFGGEQNPIY</span><span class="topo-membrane">WARYADWLFTTPLLL</span><span class="topo-inside">LDLALLVDADQGTIL</span><span class="topo-membrane">ALVGADGIMIGTGLV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220        </span>
+<span class="topo-line"><span class="topo-membrane">GA</span><span class="topo-outside">LTKVYSYR</span><span class="topo-membrane">FVWWAISTAAMLYILY</span><span class="topo-inside">VLFFGFTSKAESMRPEVASTFKVLRN</span><span class="topo-membrane">VTVVLWSAYPVVWLIG</span><span class="topo-outside">SEGAGIVPLNI</span><span class="topo-membrane">ETLLFMVLDVSAKVGFGL</span><span class="topo-inside">ILLRSRAIFGE</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1340,6 +1353,7 @@ proton transfer pathway.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1355,10 +1369,11 @@ proton transfer pathway.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">TGRPEWI</span><span class="topo-membrane">WLALGTALMGLGTLYFLV</span><span class="topo-inside">KGMGVSDPDAKKFYAI</span><span class="topo-membrane">TTLVPAIAFTMYLSML</span><span class="topo-outside">LGY</span></span>
-<span class="topo-line"><span class="topo-outside">GLTMVPFGGEQNPIY</span><span class="topo-membrane">WARYADWLFTTPLLL</span><span class="topo-inside">LDLALLVDADQGTIL</span><span class="topo-membrane">ALVGADGIMIGTGLV</span></span>
-<span class="topo-line"><span class="topo-membrane">GA</span><span class="topo-outside">LTKVYSYR</span><span class="topo-membrane">FVWWAISTAAMLYILY</span><span class="topo-inside">VLFFGFTSKAESMRPEVASTFKVLRN</span><span class="topo-membrane">VTVVLWSA</span></span>
-<span class="topo-line"><span class="topo-membrane">YPVVWLIG</span><span class="topo-outside">SEGAGIVPLNI</span><span class="topo-membrane">ETLLFMVLDVSAKVGFGL</span><span class="topo-inside">ILLRSRAIFGE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">TGRPEWI</span><span class="topo-membrane">WLALGTALMGLGTLYFLV</span><span class="topo-inside">KGMGVSDPDAKKFYAI</span><span class="topo-membrane">TTLVPAIAFTMYLSML</span><span class="topo-outside">LGYGLTMVPFGGEQNPIY</span><span class="topo-membrane">WARYADWLFTTPLLL</span><span class="topo-inside">LDLALLVDADQGTIL</span><span class="topo-membrane">ALVGADGIMIGTGLV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220        </span>
+<span class="topo-line"><span class="topo-membrane">GA</span><span class="topo-outside">LTKVYSYR</span><span class="topo-membrane">FVWWAISTAAMLYILY</span><span class="topo-inside">VLFFGFTSKAESMRPEVASTFKVLRN</span><span class="topo-membrane">VTVVLWSAYPVVWLIG</span><span class="topo-outside">SEGAGIVPLNI</span><span class="topo-membrane">ETLLFMVLDVSAKVGFGL</span><span class="topo-inside">ILLRSRAIFGE</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1475,6 +1490,7 @@ proton transfer pathway.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1490,10 +1506,11 @@ proton transfer pathway.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">TGRPE</span><span class="topo-membrane">WIWLALGTALMGLGTLYFLV</span><span class="topo-inside">KGMGVSDPDAKKFYAI</span><span class="topo-membrane">TTLVPAIAFTMYLSMLL</span><span class="topo-outside">GY</span></span>
-<span class="topo-line"><span class="topo-outside">GLTMVPFGGEQNPIY</span><span class="topo-membrane">WARYADWLFTTPLLL</span><span class="topo-inside">LDLALLVDADQGTIL</span><span class="topo-membrane">ALVGADGIMIGTGLV</span></span>
-<span class="topo-line"><span class="topo-membrane">GAL</span><span class="topo-outside">TKVYSY</span><span class="topo-membrane">RFVWWAISTAAMLYILY</span><span class="topo-inside">VLFFGFTSKAESMRPEVASTFKVLRN</span><span class="topo-membrane">VTVVLWSA</span></span>
-<span class="topo-line"><span class="topo-membrane">YPVVWLIG</span><span class="topo-outside">SEGAGIVPLNI</span><span class="topo-membrane">ETLLFMVLDVSAKVGFGL</span><span class="topo-inside">ILLRSRAIFGE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">TGRPE</span><span class="topo-membrane">WIWLALGTALMGLGTLYFLV</span><span class="topo-inside">KGMGVSDPDAKKFYAI</span><span class="topo-membrane">TTLVPAIAFTMYLSMLL</span><span class="topo-outside">GYGLTMVPFGGEQNPIY</span><span class="topo-membrane">WARYADWLFTTPLLL</span><span class="topo-inside">LDLALLVDADQGTIL</span><span class="topo-membrane">ALVGADGIMIGTGLV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220        </span>
+<span class="topo-line"><span class="topo-membrane">GAL</span><span class="topo-outside">TKVYSY</span><span class="topo-membrane">RFVWWAISTAAMLYILY</span><span class="topo-inside">VLFFGFTSKAESMRPEVASTFKVLRN</span><span class="topo-membrane">VTVVLWSAYPVVWLIG</span><span class="topo-outside">SEGAGIVPLNI</span><span class="topo-membrane">ETLLFMVLDVSAKVGFGL</span><span class="topo-inside">ILLRSRAIFGE</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1610,6 +1627,7 @@ proton transfer pathway.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1625,10 +1643,11 @@ proton transfer pathway.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">TGRPE</span><span class="topo-membrane">WIWLALGTALMGLGTLYFLV</span><span class="topo-inside">KGMGVSDPDAKKFYAI</span><span class="topo-membrane">TTLVPAIAFTMYLSMLL</span><span class="topo-outside">GY</span></span>
-<span class="topo-line"><span class="topo-outside">GLTMVPFGGEQNPIY</span><span class="topo-membrane">WARYADWLFTTPLLL</span><span class="topo-inside">LDLALLVDADQGTIL</span><span class="topo-membrane">ALVGADGIMIGTGLV</span></span>
-<span class="topo-line"><span class="topo-membrane">GAL</span><span class="topo-outside">TKVYSY</span><span class="topo-membrane">RFVWWAISTAAMLYILY</span><span class="topo-inside">VLFFGFTSKAESMRPEVASTFKVLRN</span><span class="topo-membrane">VTVVLWSA</span></span>
-<span class="topo-line"><span class="topo-membrane">YPVVWLIG</span><span class="topo-outside">SEGAGIVPLNI</span><span class="topo-membrane">ETLLFMVLDVSAKVGFGL</span><span class="topo-inside">ILLRSRAIFGE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">TGRPE</span><span class="topo-membrane">WIWLALGTALMGLGTLYFLV</span><span class="topo-inside">KGMGVSDPDAKKFYAI</span><span class="topo-membrane">TTLVPAIAFTMYLSMLL</span><span class="topo-outside">GYGLTMVPFGGEQNPIY</span><span class="topo-membrane">WARYADWLFTTPLLL</span><span class="topo-inside">LDLALLVDADQGTIL</span><span class="topo-membrane">ALVGADGIMIGTGLV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220        </span>
+<span class="topo-line"><span class="topo-membrane">GAL</span><span class="topo-outside">TKVYSY</span><span class="topo-membrane">RFVWWAISTAAMLYILY</span><span class="topo-inside">VLFFGFTSKAESMRPEVASTFKVLRN</span><span class="topo-membrane">VTVVLWSAYPVVWLIG</span><span class="topo-outside">SEGAGIVPLNI</span><span class="topo-membrane">ETLLFMVLDVSAKVGFGL</span><span class="topo-inside">ILLRSRAIFGE</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1745,6 +1764,7 @@ proton transfer pathway.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1760,10 +1780,11 @@ proton transfer pathway.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">TGRPE</span><span class="topo-membrane">WIWLALGTALMGLGTLYFLV</span><span class="topo-inside">KGMGVSDPDAKKFYAI</span><span class="topo-membrane">TTLVPAIAFTMYLSMLL</span><span class="topo-outside">GY</span></span>
-<span class="topo-line"><span class="topo-outside">GLTMVPFGGEQNPIY</span><span class="topo-membrane">WARYADWLFTTPLLL</span><span class="topo-inside">LDLALLVDADQGTIL</span><span class="topo-membrane">ALVGADGIMIGTGLV</span></span>
-<span class="topo-line"><span class="topo-membrane">GAL</span><span class="topo-outside">TKVYSY</span><span class="topo-membrane">RFVWWAISTAAMLYILY</span><span class="topo-inside">VLFFGFTSKAESMRPEVASTFKVLRN</span><span class="topo-membrane">VTVVLWSA</span></span>
-<span class="topo-line"><span class="topo-membrane">YPVVWLIG</span><span class="topo-outside">SEGAGIVPLNI</span><span class="topo-membrane">ETLLFMVLDVSAKVGFGL</span><span class="topo-inside">ILLRSRAIFGE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">TGRPE</span><span class="topo-membrane">WIWLALGTALMGLGTLYFLV</span><span class="topo-inside">KGMGVSDPDAKKFYAI</span><span class="topo-membrane">TTLVPAIAFTMYLSMLL</span><span class="topo-outside">GYGLTMVPFGGEQNPIY</span><span class="topo-membrane">WARYADWLFTTPLLL</span><span class="topo-inside">LDLALLVDADQGTIL</span><span class="topo-membrane">ALVGADGIMIGTGLV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220        </span>
+<span class="topo-line"><span class="topo-membrane">GAL</span><span class="topo-outside">TKVYSY</span><span class="topo-membrane">RFVWWAISTAAMLYILY</span><span class="topo-inside">VLFFGFTSKAESMRPEVASTFKVLRN</span><span class="topo-membrane">VTVVLWSAYPVVWLIG</span><span class="topo-outside">SEGAGIVPLNI</span><span class="topo-membrane">ETLLFMVLDVSAKVGFGL</span><span class="topo-inside">ILLRSRAIFGE</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1880,6 +1901,7 @@ proton transfer pathway.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1927,11 +1949,13 @@ proton transfer pathway.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">QA</span><span class="topo-inside">QITGRPE</span><span class="topo-membrane">WIWLALGTALMGLGTLYFLVK</span><span class="topo-outside">GMGVSDPDAKKFY</span><span class="topo-membrane">AITTLVPAIAFTMYLSM</span></span>
-<span class="topo-line"><span class="topo-membrane">LLG</span><span class="topo-inside">YGLTMVPFGGEQNPI</span><span class="topo-membrane">YWARYADWLFTTPLLLLD</span><span class="topo-outside">LALLVDADQGTI</span><span class="topo-membrane">LALVGADGIMIG</span></span>
-<span class="topo-line"><span class="topo-membrane">TGLVGALT</span><span class="topo-inside">KVYSY</span><span class="topo-membrane">RFVWWAISTAAMLYILYVLF</span><span class="topo-outside">FGFTSKAESMRPEVASTFKVL</span><span class="topo-membrane">RNVTVV</span></span>
-<span class="topo-line"><span class="topo-membrane">LWSAYPVVWLIGSEGA</span><span class="topo-inside">GIVPL</span><span class="topo-membrane">NIETLLFMVLDVSAKVGFGLI</span><span class="topo-outside">LLRSRAIFGE</span><span class="topo-unknown">AEAPEPSA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">QA</span><span class="topo-inside">QITGRPE</span><span class="topo-membrane">WIWLALGTALMGLGTLYFLVK</span><span class="topo-outside">GMGVSDPDAKKFY</span><span class="topo-membrane">AITTLVPAIAFTMYLSMLLG</span><span class="topo-inside">YGLTMVPFGGEQNPI</span><span class="topo-membrane">YWARYADWLFTTPLLLLD</span><span class="topo-outside">LALLVDADQGTI</span><span class="topo-membrane">LALVGADGIMIG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">TGLVGALT</span><span class="topo-inside">KVYSY</span><span class="topo-membrane">RFVWWAISTAAMLYILYVLF</span><span class="topo-outside">FGFTSKAESMRPEVASTFKVL</span><span class="topo-membrane">RNVTVVLWSAYPVVWLIGSEGA</span><span class="topo-inside">GIVPL</span><span class="topo-membrane">NIETLLFMVLDVSAKVGFGLI</span><span class="topo-outside">LLRSRAIFGE</span><span class="topo-unknown">AEAPEPSA</span></span>
+<span class="topo-ruler">       </span>
 <span class="topo-line"><span class="topo-unknown">DGAAATS</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2062,6 +2086,7 @@ proton transfer pathway.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2077,11 +2102,13 @@ proton transfer pathway.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">Q</span><span class="topo-inside">AQITGRPE</span><span class="topo-membrane">WIWLALGTALMGLGTLYFLVK</span><span class="topo-outside">GMGVSDPDAKKFY</span><span class="topo-membrane">AITTLVPAIAFTMYLSM</span></span>
-<span class="topo-line"><span class="topo-membrane">LLG</span><span class="topo-inside">YGLTMVPFGGEQNPI</span><span class="topo-membrane">YWARYADWLFTTPLLLLD</span><span class="topo-outside">LALLVDADQGTI</span><span class="topo-membrane">LALVGADGIMIG</span></span>
-<span class="topo-line"><span class="topo-membrane">TGLVGALT</span><span class="topo-inside">KVYSY</span><span class="topo-membrane">RFVWWAISTAAMLYILYVLF</span><span class="topo-outside">FGFTSKAESMRPEVASTFKV</span><span class="topo-membrane">LRNVTVV</span></span>
-<span class="topo-line"><span class="topo-membrane">LWSAYPVVWLIGSEGA</span><span class="topo-inside">GIVPL</span><span class="topo-membrane">NIETLLFMVLDVSAKVGFGLI</span><span class="topo-outside">LLRSRAIFGE</span><span class="topo-unknown">AEAPEPSA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">Q</span><span class="topo-inside">AQITGRPE</span><span class="topo-membrane">WIWLALGTALMGLGTLYFLVK</span><span class="topo-outside">GMGVSDPDAKKFY</span><span class="topo-membrane">AITTLVPAIAFTMYLSMLLG</span><span class="topo-inside">YGLTMVPFGGEQNPI</span><span class="topo-membrane">YWARYADWLFTTPLLLLD</span><span class="topo-outside">LALLVDADQGTI</span><span class="topo-membrane">LALVGADGIMIG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">TGLVGALT</span><span class="topo-inside">KVYSY</span><span class="topo-membrane">RFVWWAISTAAMLYILYVLF</span><span class="topo-outside">FGFTSKAESMRPEVASTFKV</span><span class="topo-membrane">LRNVTVVLWSAYPVVWLIGSEGA</span><span class="topo-inside">GIVPL</span><span class="topo-membrane">NIETLLFMVLDVSAKVGFGLI</span><span class="topo-outside">LLRSRAIFGE</span><span class="topo-unknown">AEAPEPSA</span></span>
+<span class="topo-ruler">       </span>
 <span class="topo-line"><span class="topo-unknown">DGAAATS</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2205,6 +2232,7 @@ proton transfer pathway.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2220,11 +2248,13 @@ proton transfer pathway.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">QAQITGRPE</span><span class="topo-membrane">WIWLALGTALMGLGTLYFLVK</span><span class="topo-outside">GMGVSDPDAKKFY</span><span class="topo-membrane">AITTLVPAIAFTMYLSM</span></span>
-<span class="topo-line"><span class="topo-membrane">LLGYGL</span><span class="topo-inside">TMVPFGGEQNPI</span><span class="topo-membrane">YWARYADWLFTTPLLLLDL</span><span class="topo-outside">ALLVDADQGTI</span><span class="topo-membrane">LALVGADGIMIG</span></span>
-<span class="topo-line"><span class="topo-membrane">TGLVGALT</span><span class="topo-inside">KVYSY</span><span class="topo-membrane">RFVWWAISTAAMLYILYVLF</span><span class="topo-outside">FGFTSKAESMRPEVASTFKVL</span><span class="topo-membrane">RNVTVV</span></span>
-<span class="topo-line"><span class="topo-membrane">LWSAYPVVWLIGSEGA</span><span class="topo-inside">GIVPL</span><span class="topo-membrane">NIETLLFMVLDVSAKVGFGLI</span><span class="topo-outside">LLRSRAIFGE</span><span class="topo-unknown">AEAPEPSA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">QAQITGRPE</span><span class="topo-membrane">WIWLALGTALMGLGTLYFLVK</span><span class="topo-outside">GMGVSDPDAKKFY</span><span class="topo-membrane">AITTLVPAIAFTMYLSMLLGYGL</span><span class="topo-inside">TMVPFGGEQNPI</span><span class="topo-membrane">YWARYADWLFTTPLLLLDL</span><span class="topo-outside">ALLVDADQGTI</span><span class="topo-membrane">LALVGADGIMIG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">TGLVGALT</span><span class="topo-inside">KVYSY</span><span class="topo-membrane">RFVWWAISTAAMLYILYVLF</span><span class="topo-outside">FGFTSKAESMRPEVASTFKVL</span><span class="topo-membrane">RNVTVVLWSAYPVVWLIGSEGA</span><span class="topo-inside">GIVPL</span><span class="topo-membrane">NIETLLFMVLDVSAKVGFGLI</span><span class="topo-outside">LLRSRAIFGE</span><span class="topo-unknown">AEAPEPSA</span></span>
+<span class="topo-ruler">       </span>
 <span class="topo-line"><span class="topo-unknown">DGAAATS</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2348,6 +2378,7 @@ proton transfer pathway.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

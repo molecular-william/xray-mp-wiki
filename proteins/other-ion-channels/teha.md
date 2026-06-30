@@ -63,12 +63,13 @@ ratio is 1.8% at 5 keV.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MNIT</span><span class="topo-inside">KPFPLPT</span><span class="topo-membrane">GYFGIPLGLAALSLAWF</span><span class="topo-outside">HLENLFPAARMV</span><span class="topo-membrane">SDVLGIVASAVWILFILMYA</span></span>
-<span class="topo-line"><span class="topo-membrane">Y</span><span class="topo-inside">KLRYYFEEVRAEYHSPVRFS</span><span class="topo-membrane">FIALIPITTMLVGDILY</span><span class="topo-outside">RWNPL</span><span class="topo-membrane">IAEVLIWIGTIGQLLFS</span></span>
-<span class="topo-line"><span class="topo-membrane">TLRVS</span><span class="topo-inside">ELWQGGVFEQKSTHP</span><span class="topo-membrane">SFYLPAVAANFTSASSLAL</span><span class="topo-outside">LGYHD</span><span class="topo-membrane">LGYLFFGAGMIAWIIF</span></span>
-<span class="topo-line"><span class="topo-membrane">EPVLL</span><span class="topo-inside">QHLRISSLEPQFRAT</span><span class="topo-membrane">MGIVLAPAFVCVSAYLSI</span><span class="topo-outside">NHGEVDT</span><span class="topo-membrane">LAKILWGYGFLQLFF</span></span>
-<span class="topo-line"><span class="topo-membrane">LLRLF</span><span class="topo-inside">PWIVEKGLNI</span><span class="topo-membrane">GLWAFSFGLASMANSAT</span><span class="topo-outside">AFYHGNVLQG</span><span class="topo-membrane">VSIFAFVFSNVMIGLLVL</span></span>
-<span class="topo-line"><span class="topo-membrane">MTIYKLT</span><span class="topo-inside">K</span><span class="topo-unknown">GQFFLK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MNIT</span><span class="topo-inside">KPFPLPT</span><span class="topo-membrane">GYFGIPLGLAALSLAWF</span><span class="topo-outside">HLENLFPAARMV</span><span class="topo-membrane">SDVLGIVASAVWILFILMYAY</span><span class="topo-inside">KLRYYFEEVRAEYHSPVRFS</span><span class="topo-membrane">FIALIPITTMLVGDILY</span><span class="topo-outside">RWNPL</span><span class="topo-membrane">IAEVLIWIGTIGQLLFS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">TLRVS</span><span class="topo-inside">ELWQGGVFEQKSTHP</span><span class="topo-membrane">SFYLPAVAANFTSASSLAL</span><span class="topo-outside">LGYHD</span><span class="topo-membrane">LGYLFFGAGMIAWIIFEPVLL</span><span class="topo-inside">QHLRISSLEPQFRAT</span><span class="topo-membrane">MGIVLAPAFVCVSAYLSI</span><span class="topo-outside">NHGEVDT</span><span class="topo-membrane">LAKILWGYGFLQLFF</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310    </span>
+<span class="topo-line"><span class="topo-membrane">LLRLF</span><span class="topo-inside">PWIVEKGLNI</span><span class="topo-membrane">GLWAFSFGLASMANSAT</span><span class="topo-outside">AFYHGNVLQG</span><span class="topo-membrane">VSIFAFVFSNVMIGLLVLMTIYKLT</span><span class="topo-inside">K</span><span class="topo-unknown">GQFFLK</span></span>
+<details class="topo-details"><summary>Topology coordinates (23 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -241,6 +242,7 @@ ratio is 1.8% at 5 keV.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -256,12 +258,13 @@ ratio is 1.8% at 5 keV.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MNIT</span><span class="topo-inside">KPFPLPT</span><span class="topo-membrane">GYFGIPLGLAALSLAWF</span><span class="topo-outside">HLENLFPAARMV</span><span class="topo-membrane">SDVLGIVASAVWILFILMYA</span></span>
-<span class="topo-line"><span class="topo-membrane">Y</span><span class="topo-inside">KLRYYFEEVRAEYHSPVRFS</span><span class="topo-membrane">FIALIPITTMLVGDILY</span><span class="topo-outside">RWNPL</span><span class="topo-membrane">IAEVLIWIGTIGQLLFS</span></span>
-<span class="topo-line"><span class="topo-membrane">TLRVS</span><span class="topo-inside">ELWQGGVFEQKSTHP</span><span class="topo-membrane">SFYLPAVAANFTSASSLAL</span><span class="topo-outside">LGYHD</span><span class="topo-membrane">LGYLFFGAGMIAWIIF</span></span>
-<span class="topo-line"><span class="topo-membrane">EPVLL</span><span class="topo-inside">QHLRISSLEPQFRAT</span><span class="topo-membrane">MGIVLAPAFVCVSAYLSI</span><span class="topo-outside">NHGEVDT</span><span class="topo-membrane">LAKILWGYGFLQLFF</span></span>
-<span class="topo-line"><span class="topo-membrane">LLRLF</span><span class="topo-inside">PWIVEKGLNI</span><span class="topo-membrane">GLWAFSFGLASMANSAT</span><span class="topo-outside">AFYHGNVLQG</span><span class="topo-membrane">VSIFAFVFSNVMIGLLVL</span></span>
-<span class="topo-line"><span class="topo-membrane">MTIYKLT</span><span class="topo-inside">K</span><span class="topo-unknown">GQFFLK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MNIT</span><span class="topo-inside">KPFPLPT</span><span class="topo-membrane">GYFGIPLGLAALSLAWF</span><span class="topo-outside">HLENLFPAARMV</span><span class="topo-membrane">SDVLGIVASAVWILFILMYAY</span><span class="topo-inside">KLRYYFEEVRAEYHSPVRFS</span><span class="topo-membrane">FIALIPITTMLVGDILY</span><span class="topo-outside">RWNPL</span><span class="topo-membrane">IAEVLIWIGTIGQLLFS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">TLRVS</span><span class="topo-inside">ELWQGGVFEQKSTHP</span><span class="topo-membrane">SFYLPAVAANFTSASSLAL</span><span class="topo-outside">LGYHD</span><span class="topo-membrane">LGYLFFGAGMIAWIIFEPVLL</span><span class="topo-inside">QHLRISSLEPQFRAT</span><span class="topo-membrane">MGIVLAPAFVCVSAYLSI</span><span class="topo-outside">NHGEVDT</span><span class="topo-membrane">LAKILWGYGFLQLFF</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310    </span>
+<span class="topo-line"><span class="topo-membrane">LLRLF</span><span class="topo-inside">PWIVEKGLNI</span><span class="topo-membrane">GLWAFSFGLASMANSAT</span><span class="topo-outside">AFYHGNVLQG</span><span class="topo-membrane">VSIFAFVFSNVMIGLLVLMTIYKLT</span><span class="topo-inside">K</span><span class="topo-unknown">GQFFLK</span></span>
+<details class="topo-details"><summary>Topology coordinates (23 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -434,6 +437,7 @@ ratio is 1.8% at 5 keV.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -449,12 +453,13 @@ ratio is 1.8% at 5 keV.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MNIT</span><span class="topo-inside">KPFPLPT</span><span class="topo-membrane">GYFGIPLGLAALSLAWF</span><span class="topo-outside">HLENLFPAARMV</span><span class="topo-membrane">SDVLGIVASAVWILFILMYA</span></span>
-<span class="topo-line"><span class="topo-membrane">Y</span><span class="topo-inside">KLRYYFEEVRAEYHSPVRFS</span><span class="topo-membrane">FIALIPITTMLVGDILY</span><span class="topo-outside">RWNPL</span><span class="topo-membrane">IAEVLIWIGTIGQLLFS</span></span>
-<span class="topo-line"><span class="topo-membrane">TLRVS</span><span class="topo-inside">ELWQGGVFEQKSTHP</span><span class="topo-membrane">SFYLPAVAANFTSASSLAL</span><span class="topo-outside">LGYHD</span><span class="topo-membrane">LGYLFFGAGMIAWIIF</span></span>
-<span class="topo-line"><span class="topo-membrane">EPVLL</span><span class="topo-inside">QHLRISSLEPQFRAT</span><span class="topo-membrane">MGIVLAPAFVCVSAYLSI</span><span class="topo-outside">NHGEVDT</span><span class="topo-membrane">LAKILWGYGFLQLFF</span></span>
-<span class="topo-line"><span class="topo-membrane">LLRLF</span><span class="topo-inside">PWIVEKGLNI</span><span class="topo-membrane">GLWAFSFGLASMANSAT</span><span class="topo-outside">AFYHGNVLQG</span><span class="topo-membrane">VSIFAFVFSNVMIGLLVL</span></span>
-<span class="topo-line"><span class="topo-membrane">MTIYKLT</span><span class="topo-inside">K</span><span class="topo-unknown">GQFFLK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MNIT</span><span class="topo-inside">KPFPLPT</span><span class="topo-membrane">GYFGIPLGLAALSLAWF</span><span class="topo-outside">HLENLFPAARMV</span><span class="topo-membrane">SDVLGIVASAVWILFILMYAY</span><span class="topo-inside">KLRYYFEEVRAEYHSPVRFS</span><span class="topo-membrane">FIALIPITTMLVGDILY</span><span class="topo-outside">RWNPL</span><span class="topo-membrane">IAEVLIWIGTIGQLLFS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">TLRVS</span><span class="topo-inside">ELWQGGVFEQKSTHP</span><span class="topo-membrane">SFYLPAVAANFTSASSLAL</span><span class="topo-outside">LGYHD</span><span class="topo-membrane">LGYLFFGAGMIAWIIFEPVLL</span><span class="topo-inside">QHLRISSLEPQFRAT</span><span class="topo-membrane">MGIVLAPAFVCVSAYLSI</span><span class="topo-outside">NHGEVDT</span><span class="topo-membrane">LAKILWGYGFLQLFF</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310    </span>
+<span class="topo-line"><span class="topo-membrane">LLRLF</span><span class="topo-inside">PWIVEKGLNI</span><span class="topo-membrane">GLWAFSFGLASMANSAT</span><span class="topo-outside">AFYHGNVLQG</span><span class="topo-membrane">VSIFAFVFSNVMIGLLVLMTIYKLT</span><span class="topo-inside">K</span><span class="topo-unknown">GQFFLK</span></span>
+<details class="topo-details"><summary>Topology coordinates (23 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -627,6 +632,7 @@ ratio is 1.8% at 5 keV.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

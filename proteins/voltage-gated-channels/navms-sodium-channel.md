@@ -111,9 +111,11 @@ verified: false
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GSHMG</span><span class="topo-outside">V</span><span class="topo-membrane">GSVAALLTVVFYIAAVMATNL</span><span class="topo-inside">YGATFPEWFGDL</span><span class="topo-unknown">SKSLYTLFQVMTLESWS</span><span class="topo-inside">MGIV</span></span>
-<span class="topo-line"><span class="topo-inside">RPVMNVHPN</span><span class="topo-membrane">AWVFFIPFIMLTTFTVLNLFIGII</span><span class="topo-outside">VDAM</span><span class="topo-unknown">AITKEQEEEAKTGHHQEPISQTL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GSHMG</span><span class="topo-outside">V</span><span class="topo-membrane">GSVAALLTVVFYIAAVMATNL</span><span class="topo-inside">YGATFPEWFGDL</span><span class="topo-unknown">SKSLYTLFQVMTLESWS</span><span class="topo-inside">MGIVRPVMNVHPN</span><span class="topo-membrane">AWVFFIPFIMLTTFTVLNLFIGII</span><span class="topo-outside">VDAM</span><span class="topo-unknown">AITKEQEEEAKTGHHQEPISQTL</span></span>
+<span class="topo-ruler">       130       140         </span>
 <span class="topo-line"><span class="topo-unknown">LHLGDRLDRIEKQLAQNNELLQRQQPQKK</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -188,6 +190,7 @@ verified: false
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -203,9 +206,11 @@ verified: false
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GSHMG</span><span class="topo-outside">V</span><span class="topo-membrane">GSVAALLTVVFYIAAVMATNL</span><span class="topo-inside">YGATFPEWFGDL</span><span class="topo-unknown">SKSLYTLFQVMTLESWS</span><span class="topo-inside">MGIV</span></span>
-<span class="topo-line"><span class="topo-inside">RPVMNVHPN</span><span class="topo-membrane">AWVFFIPFIMLTTFTVLNLFIGII</span><span class="topo-outside">VDAM</span><span class="topo-unknown">AITKEQEEEAKTGHHQEPISQTL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GSHMG</span><span class="topo-outside">V</span><span class="topo-membrane">GSVAALLTVVFYIAAVMATNL</span><span class="topo-inside">YGATFPEWFGDL</span><span class="topo-unknown">SKSLYTLFQVMTLESWS</span><span class="topo-inside">MGIVRPVMNVHPN</span><span class="topo-membrane">AWVFFIPFIMLTTFTVLNLFIGII</span><span class="topo-outside">VDAM</span><span class="topo-unknown">AITKEQEEEAKTGHHQEPISQTL</span></span>
+<span class="topo-ruler">       130       140         </span>
 <span class="topo-line"><span class="topo-unknown">LHLGDRLDRIEKQLAQNNELLQRQQPQKK</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -280,6 +285,7 @@ verified: false
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -295,9 +301,11 @@ verified: false
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GSHMG</span><span class="topo-outside">V</span><span class="topo-membrane">GSVAALLTVVFYIAAVMATNL</span><span class="topo-inside">YGATFPEWFGDL</span><span class="topo-unknown">SKSLYTLFQVMTLESWS</span><span class="topo-inside">MGIV</span></span>
-<span class="topo-line"><span class="topo-inside">RPVMNVHPN</span><span class="topo-membrane">AWVFFIPFIMLTTFTVLNLFIGII</span><span class="topo-outside">VDAM</span><span class="topo-unknown">AITKEQEEEAKTGHHQEPISQTL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GSHMG</span><span class="topo-outside">V</span><span class="topo-membrane">GSVAALLTVVFYIAAVMATNL</span><span class="topo-inside">YGATFPEWFGDL</span><span class="topo-unknown">SKSLYTLFQVMTLESWS</span><span class="topo-inside">MGIVRPVMNVHPN</span><span class="topo-membrane">AWVFFIPFIMLTTFTVLNLFIGII</span><span class="topo-outside">VDAM</span><span class="topo-unknown">AITKEQEEEAKTGHHQEPISQTL</span></span>
+<span class="topo-ruler">       130       140         </span>
 <span class="topo-line"><span class="topo-unknown">LHLGDRLDRIEKQLAQNNELLQRQQPQKK</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -372,6 +380,7 @@ verified: false
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -387,9 +396,11 @@ verified: false
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GSHMG</span><span class="topo-outside">V</span><span class="topo-membrane">GSVAALLTVVFYIAAVMATNL</span><span class="topo-inside">YGATFPEWFGDL</span><span class="topo-unknown">SKSLYTLFQVMTLESWS</span><span class="topo-inside">MGIV</span></span>
-<span class="topo-line"><span class="topo-inside">RPVMNVHPN</span><span class="topo-membrane">AWVFFIPFIMLTTFTVLNLFIGII</span><span class="topo-outside">VDAM</span><span class="topo-unknown">AITKEQEEEAKTGHHQEPISQTL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GSHMG</span><span class="topo-outside">V</span><span class="topo-membrane">GSVAALLTVVFYIAAVMATNL</span><span class="topo-inside">YGATFPEWFGDL</span><span class="topo-unknown">SKSLYTLFQVMTLESWS</span><span class="topo-inside">MGIVRPVMNVHPN</span><span class="topo-membrane">AWVFFIPFIMLTTFTVLNLFIGII</span><span class="topo-outside">VDAM</span><span class="topo-unknown">AITKEQEEEAKTGHHQEPISQTL</span></span>
+<span class="topo-ruler">       130       140         </span>
 <span class="topo-line"><span class="topo-unknown">LHLGDRLDRIEKQLAQNNELLQRQQPQKK</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -464,6 +475,7 @@ verified: false
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

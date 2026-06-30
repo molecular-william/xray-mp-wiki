@@ -150,13 +150,15 @@ Particulate methane monooxygenase (pMMO) is an integral membrane metalloenzyme t
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">HGEKSQQAFLRMRTLNWYDVKWSKTSLNVNESMVLSGKVHVFSAWPQAVANPKSSFLNAG</span></span>
-<span class="topo-line"><span class="topo-inside">EPGPVLVRTAQFIGEQFAPRSVSLEVGKDYAFSIDLKARRAGRWHVHAQINVEGGGPIIG</span></span>
-<span class="topo-line"><span class="topo-inside">PGQWIEIKGDMADFKDPVTLLDGTTVDLETYGIDRI</span><span class="topo-membrane">YAWHFPWMIAAAAWI</span><span class="topo-outside">LYWFFKKGI</span></span>
-<span class="topo-line"><span class="topo-outside">IASYLRISEGKDEEQIGDDDRRV</span><span class="topo-membrane">GAIVLAVTILATIIG</span><span class="topo-inside">YAVTNSTFPRTIPLQAGLQKPL</span></span>
-<span class="topo-line"><span class="topo-inside">TPII</span><span class="topo-unknown">EEGTAGVGPHV</span><span class="topo-inside">VTAELKGGVYKVPGRELTIQVKV</span><span class="topo-unknown">TNKTDEPLKL</span><span class="topo-inside">GEYTAAGLRFLN</span></span>
-<span class="topo-line"><span class="topo-inside">PDVFTTK</span><span class="topo-unknown">PEFP</span><span class="topo-inside">DYLLADRGLSTDPTPLAPGETKTIEVKVQDARWDIERLSDLAYDTDSQI</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">HGEKSQQAFLRMRTLNWYDVKWSKTSLNVNESMVLSGKVHVFSAWPQAVANPKSSFLNAGEPGPVLVRTAQFIGEQFAPRSVSLEVGKDYAFSIDLKARRAGRWHVHAQINVEGGGPIIG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">PGQWIEIKGDMADFKDPVTLLDGTTVDLETYGIDRI</span><span class="topo-membrane">YAWHFPWMIAAAAWI</span><span class="topo-outside">LYWFFKKGIIASYLRISEGKDEEQIGDDDRRV</span><span class="topo-membrane">GAIVLAVTILATIIG</span><span class="topo-inside">YAVTNSTFPRTIPLQAGLQKPL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">TPII</span><span class="topo-unknown">EEGTAGVGPHV</span><span class="topo-inside">VTAELKGGVYKVPGRELTIQVKV</span><span class="topo-unknown">TNKTDEPLKL</span><span class="topo-inside">GEYTAAGLRFLNPDVFTTK</span><span class="topo-unknown">PEFP</span><span class="topo-inside">DYLLADRGLSTDPTPLAPGETKTIEVKVQDARWDIERLSDLAYDTDSQI</span></span>
+<span class="topo-ruler">       370       380       390  </span>
 <span class="topo-line"><span class="topo-inside">GGLLMFFSPSGKRYATEIGGPVIPKFV</span><span class="topo-unknown">AGDMP</span></span>
+<details class="topo-details"><summary>Topology coordinates (12 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -252,6 +254,7 @@ Particulate methane monooxygenase (pMMO) is an integral membrane metalloenzyme t
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -267,11 +270,13 @@ Particulate methane monooxygenase (pMMO) is an integral membrane metalloenzyme t
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MFTSKSGGAIG</span><span class="topo-outside">PFHSVAEAAGCVKTTDWMFLTLL</span><span class="topo-membrane">FLAVLGGYHIHFMLTA</span><span class="topo-inside">GDWDFWVDWK</span></span>
-<span class="topo-line"><span class="topo-inside">DRRMWPTV</span><span class="topo-membrane">VPILGVTFAAAAQ</span><span class="topo-outside">AFFWENFKLPF</span><span class="topo-membrane">GATFAVSGLLIGEWIN</span><span class="topo-inside">RYCNFWGWTYFP</span></span>
-<span class="topo-line"><span class="topo-inside">ISLVF</span><span class="topo-membrane">PSALVVPALWLDIIM</span><span class="topo-outside">LLSGSY</span><span class="topo-membrane">VITAVVGSLGWGLLF</span><span class="topo-inside">YPNNWPAIAALHQATEQHG</span></span>
-<span class="topo-line"><span class="topo-inside">QLMSLADLVGFHFVRTSMPEYI</span><span class="topo-membrane">RMVERGTLRTFGKE</span><span class="topo-outside">VVPVAAFFSGFV</span><span class="topo-membrane">SMMVYFLWWFVG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MFTSKSGGAIG</span><span class="topo-outside">PFHSVAEAAGCVKTTDWMFLTLL</span><span class="topo-membrane">FLAVLGGYHIHFMLTA</span><span class="topo-inside">GDWDFWVDWKDRRMWPTV</span><span class="topo-membrane">VPILGVTFAAAAQ</span><span class="topo-outside">AFFWENFKLPF</span><span class="topo-membrane">GATFAVSGLLIGEWIN</span><span class="topo-inside">RYCNFWGWTYFP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">ISLVF</span><span class="topo-membrane">PSALVVPALWLDIIM</span><span class="topo-outside">LLSGSY</span><span class="topo-membrane">VITAVVGSLGWGLLF</span><span class="topo-inside">YPNNWPAIAALHQATEQHGQLMSLADLVGFHFVRTSMPEYI</span><span class="topo-membrane">RMVERGTLRTFGKE</span><span class="topo-outside">VVPVAAFFSGFV</span><span class="topo-membrane">SMMVYFLWWFVG</span></span>
+<span class="topo-ruler">       250  </span>
 <span class="topo-line"><span class="topo-membrane">KWYS</span><span class="topo-inside">TTKVI</span><span class="topo-unknown">QKI</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -402,6 +407,7 @@ Particulate methane monooxygenase (pMMO) is an integral membrane metalloenzyme t
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -417,11 +423,13 @@ Particulate methane monooxygenase (pMMO) is an integral membrane metalloenzyme t
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSVTTETTAGAAAGSDA</span><span class="topo-outside">IVDLRGMWV</span><span class="topo-membrane">GVAGLNIFYLIVRIY</span><span class="topo-inside">EQIYGWRAGLDSFAPEFQT</span></span>
-<span class="topo-line"><span class="topo-inside">YWLS</span><span class="topo-membrane">ILWTEIPLELVSGL</span><span class="topo-outside">ALAGWLWKTRDRNVDAVAPREELRRHVVLVEWLV</span><span class="topo-membrane">VYAVAIYW</span></span>
-<span class="topo-line"><span class="topo-membrane">GASFFTE</span><span class="topo-inside">QDGTWHMTVIRDTDFTPSH</span><span class="topo-membrane">IIEFYMSYPIYSIMA</span><span class="topo-outside">VGAFFYAKTRIPYFA</span><span class="topo-unknown">HGFS</span></span>
-<span class="topo-line"><span class="topo-unknown">LAFLIVAIGPFMIIPNVGLNEWGHTFWFMEELFVAPLHWGFVFFGWMALGVFGVVLQILM</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSVTTETTAGAAAGSDA</span><span class="topo-outside">IVDLRGMWV</span><span class="topo-membrane">GVAGLNIFYLIVRIY</span><span class="topo-inside">EQIYGWRAGLDSFAPEFQTYWLS</span><span class="topo-membrane">ILWTEIPLELVSGL</span><span class="topo-outside">ALAGWLWKTRDRNVDAVAPREELRRHVVLVEWLV</span><span class="topo-membrane">VYAVAIYW</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GASFFTE</span><span class="topo-inside">QDGTWHMTVIRDTDFTPSH</span><span class="topo-membrane">IIEFYMSYPIYSIMA</span><span class="topo-outside">VGAFFYAKTRIPYFA</span><span class="topo-unknown">HGFSLAFLIVAIGPFMIIPNVGLNEWGHTFWFMEELFVAPLHWGFVFFGWMALGVFGVVLQILM</span></span>
+<span class="topo-ruler">       250      </span>
 <span class="topo-line"><span class="topo-unknown">GVKRLIGKDCVAALVG</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -510,6 +518,7 @@ Particulate methane monooxygenase (pMMO) is an integral membrane metalloenzyme t
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -525,7 +534,9 @@ Particulate methane monooxygenase (pMMO) is an integral membrane metalloenzyme t
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20</span>
 <span class="topo-line"><span class="topo-unknown">UUUUU</span><span class="topo-outside">UUUUUUUUUUUUUUU</span></span>
+<details class="topo-details"><summary>Topology coordinates (2 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -551,6 +562,7 @@ Particulate methane monooxygenase (pMMO) is an integral membrane metalloenzyme t
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -566,7 +578,9 @@ Particulate methane monooxygenase (pMMO) is an integral membrane metalloenzyme t
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20      </span>
 <span class="topo-line"><span class="topo-inside">U</span><span class="topo-membrane">UUUUUUUUUUUUUUUUU</span><span class="topo-outside">UUUUUUUU</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -599,6 +613,7 @@ Particulate methane monooxygenase (pMMO) is an integral membrane metalloenzyme t
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -614,13 +629,15 @@ Particulate methane monooxygenase (pMMO) is an integral membrane metalloenzyme t
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">HGEKSQQAFLRMRTLNWYDVKWSKTSLNVNESMVLSGKVHVFSAWPQAVANPKSSFLNAG</span></span>
-<span class="topo-line"><span class="topo-inside">EPGPVLVRTAQFIGEQFAPRSVSLEVGKDYAFSIDLKARRAGRWHVHAQINVEGGGPIIG</span></span>
-<span class="topo-line"><span class="topo-inside">PGQWIEIKGDMADFKDPVTLLDGTTVDLETYGIDRIYA</span><span class="topo-membrane">WHFPWMIAAAAWIL</span><span class="topo-outside">YWFFKKGI</span></span>
-<span class="topo-line"><span class="topo-outside">IASYLRISEGKDEEQIGDDDRRV</span><span class="topo-membrane">GAIVLAVTILATII</span><span class="topo-inside">GYAVTNSTFPRTIPLQAGLQKPL</span></span>
-<span class="topo-line"><span class="topo-inside">TPII</span><span class="topo-unknown">EEGTAGVGPHV</span><span class="topo-inside">VTAELKGGVYKVPGRELTIQVKV</span><span class="topo-unknown">TNKTDEPLKL</span><span class="topo-inside">GEYTAAGLRFLN</span></span>
-<span class="topo-line"><span class="topo-inside">PDVFTTK</span><span class="topo-unknown">PEFP</span><span class="topo-inside">DYLLADRGLSTDPTPLAPGETKTIEVKVQDARWDIERLSDLAYDTDSQI</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">HGEKSQQAFLRMRTLNWYDVKWSKTSLNVNESMVLSGKVHVFSAWPQAVANPKSSFLNAGEPGPVLVRTAQFIGEQFAPRSVSLEVGKDYAFSIDLKARRAGRWHVHAQINVEGGGPIIG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">PGQWIEIKGDMADFKDPVTLLDGTTVDLETYGIDRIYA</span><span class="topo-membrane">WHFPWMIAAAAWIL</span><span class="topo-outside">YWFFKKGIIASYLRISEGKDEEQIGDDDRRV</span><span class="topo-membrane">GAIVLAVTILATII</span><span class="topo-inside">GYAVTNSTFPRTIPLQAGLQKPL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">TPII</span><span class="topo-unknown">EEGTAGVGPHV</span><span class="topo-inside">VTAELKGGVYKVPGRELTIQVKV</span><span class="topo-unknown">TNKTDEPLKL</span><span class="topo-inside">GEYTAAGLRFLNPDVFTTK</span><span class="topo-unknown">PEFP</span><span class="topo-inside">DYLLADRGLSTDPTPLAPGETKTIEVKVQDARWDIERLSDLAYDTDSQI</span></span>
+<span class="topo-ruler">       370       380       390  </span>
 <span class="topo-line"><span class="topo-inside">GGLLMFFSPSGKRYATEIGGPVIPKFV</span><span class="topo-unknown">AGDMP</span></span>
+<details class="topo-details"><summary>Topology coordinates (12 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -716,6 +733,7 @@ Particulate methane monooxygenase (pMMO) is an integral membrane metalloenzyme t
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -731,11 +749,13 @@ Particulate methane monooxygenase (pMMO) is an integral membrane metalloenzyme t
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MFTSKSGGAIG</span><span class="topo-outside">PFHSVAEAAGCVKTTDWMFL</span><span class="topo-membrane">TLLFLAVLGGYHIHFMLT</span><span class="topo-inside">AGDWDFWVDWK</span></span>
-<span class="topo-line"><span class="topo-inside">DRRMWPTV</span><span class="topo-membrane">VPILGVTFAAAAQ</span><span class="topo-outside">AFFWENFKLP</span><span class="topo-membrane">FGATFAVSGLLIGEWIN</span><span class="topo-inside">RYCNFWGWTYFP</span></span>
-<span class="topo-line"><span class="topo-inside">ISLVFPS</span><span class="topo-membrane">ALVVPALWLDIIM</span><span class="topo-outside">LLSGSY</span><span class="topo-membrane">VITAVVGSLGWGLLF</span><span class="topo-inside">YPNNWPAIAALHQATEQHG</span></span>
-<span class="topo-line"><span class="topo-inside">QLMSLADLVGFHFVRTSMPEYI</span><span class="topo-membrane">RMVERGTLRTFGKE</span><span class="topo-outside">VVPVAAFFSGFV</span><span class="topo-membrane">SMMVYFLWWFVG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MFTSKSGGAIG</span><span class="topo-outside">PFHSVAEAAGCVKTTDWMFL</span><span class="topo-membrane">TLLFLAVLGGYHIHFMLT</span><span class="topo-inside">AGDWDFWVDWKDRRMWPTV</span><span class="topo-membrane">VPILGVTFAAAAQ</span><span class="topo-outside">AFFWENFKLP</span><span class="topo-membrane">FGATFAVSGLLIGEWIN</span><span class="topo-inside">RYCNFWGWTYFP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">ISLVFPS</span><span class="topo-membrane">ALVVPALWLDIIM</span><span class="topo-outside">LLSGSY</span><span class="topo-membrane">VITAVVGSLGWGLLF</span><span class="topo-inside">YPNNWPAIAALHQATEQHGQLMSLADLVGFHFVRTSMPEYI</span><span class="topo-membrane">RMVERGTLRTFGKE</span><span class="topo-outside">VVPVAAFFSGFV</span><span class="topo-membrane">SMMVYFLWWFVG</span></span>
+<span class="topo-ruler">       250  </span>
 <span class="topo-line"><span class="topo-membrane">KWYS</span><span class="topo-inside">TTKVI</span><span class="topo-unknown">QKI</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -866,6 +886,7 @@ Particulate methane monooxygenase (pMMO) is an integral membrane metalloenzyme t
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -881,11 +902,13 @@ Particulate methane monooxygenase (pMMO) is an integral membrane metalloenzyme t
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSVTTETTAGAAAGSDA</span><span class="topo-outside">IVDLRGMW</span><span class="topo-membrane">VGVAGLNIFYLIVR</span><span class="topo-inside">IYEQIYGWRAGLDSFAPEFQT</span></span>
-<span class="topo-line"><span class="topo-inside">YWLSI</span><span class="topo-membrane">LWTEIPLELVSGLA</span><span class="topo-outside">LAGWLWKTRDRNVDAVAPREELRRHVVLVEWL</span><span class="topo-membrane">VVYAVAIYW</span></span>
-<span class="topo-line"><span class="topo-membrane">GASFFT</span><span class="topo-inside">EQDGTWHMTVIRDTDFTPSHI</span><span class="topo-membrane">IEFYMSYPIYSIMAV</span><span class="topo-outside">GAFFYAKTRIPYFA</span><span class="topo-unknown">HGFS</span></span>
-<span class="topo-line"><span class="topo-unknown">LAFLIVAIGPFMIIPNVGLNEWGHTFWFMEELFVAPLHWGFVFFGWMALGVFGVVLQILM</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSVTTETTAGAAAGSDA</span><span class="topo-outside">IVDLRGMW</span><span class="topo-membrane">VGVAGLNIFYLIVR</span><span class="topo-inside">IYEQIYGWRAGLDSFAPEFQTYWLSI</span><span class="topo-membrane">LWTEIPLELVSGLA</span><span class="topo-outside">LAGWLWKTRDRNVDAVAPREELRRHVVLVEWL</span><span class="topo-membrane">VVYAVAIYW</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GASFFT</span><span class="topo-inside">EQDGTWHMTVIRDTDFTPSHI</span><span class="topo-membrane">IEFYMSYPIYSIMAV</span><span class="topo-outside">GAFFYAKTRIPYFA</span><span class="topo-unknown">HGFSLAFLIVAIGPFMIIPNVGLNEWGHTFWFMEELFVAPLHWGFVFFGWMALGVFGVVLQILM</span></span>
+<span class="topo-ruler">       250      </span>
 <span class="topo-line"><span class="topo-unknown">GVKRLIGKDCVAALVG</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -974,6 +997,7 @@ Particulate methane monooxygenase (pMMO) is an integral membrane metalloenzyme t
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -989,7 +1013,9 @@ Particulate methane monooxygenase (pMMO) is an integral membrane metalloenzyme t
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20</span>
 <span class="topo-line"><span class="topo-unknown">UUUUUU</span><span class="topo-outside">UUUUUUUUUUUUUU</span></span>
+<details class="topo-details"><summary>Topology coordinates (2 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1015,6 +1041,7 @@ Particulate methane monooxygenase (pMMO) is an integral membrane metalloenzyme t
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1030,7 +1057,9 @@ Particulate methane monooxygenase (pMMO) is an integral membrane metalloenzyme t
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20      </span>
 <span class="topo-line"><span class="topo-inside">UUU</span><span class="topo-membrane">UUUUUUUUUUUUUUUUU</span><span class="topo-outside">UUUUUU</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1063,6 +1092,7 @@ Particulate methane monooxygenase (pMMO) is an integral membrane metalloenzyme t
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1078,13 +1108,15 @@ Particulate methane monooxygenase (pMMO) is an integral membrane metalloenzyme t
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">HGEKSQQAFLRMRTLNWYDVKWSKTSLNVNESMVLSGKVHVFSAWPQAVANPKSSFLNAG</span></span>
-<span class="topo-line"><span class="topo-inside">EPGPVLVRTAQFIGEQFAPRSVSLEVGKDYAFSIDLKARRAGRWHVHAQINVEGGGPIIG</span></span>
-<span class="topo-line"><span class="topo-inside">PGQWIEIKGDMADFKDPVTLLDGTTVDLETYGIDRIYAWH</span><span class="topo-membrane">FPWMIAAAAWILY</span><span class="topo-outside">WFFKKGI</span></span>
-<span class="topo-line"><span class="topo-outside">IASYLRISEGKDEEQIGDDDRR</span><span class="topo-membrane">VGAIVLAVTILATI</span><span class="topo-inside">IGYAVTNSTFPRTIPLQAGLQKPL</span></span>
-<span class="topo-line"><span class="topo-inside">TPII</span><span class="topo-unknown">EEGTAGVGPHV</span><span class="topo-inside">VTAELKGGVYKVPGRELTIQVKV</span><span class="topo-unknown">TNKTDEPLKL</span><span class="topo-inside">GEYTAAGLRFLN</span></span>
-<span class="topo-line"><span class="topo-inside">PDVFTTK</span><span class="topo-unknown">PEFP</span><span class="topo-inside">DYLLADRGLSTDPTPLAPGETKTIEVKVQDARWDIERLSDLAYDTDSQI</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">HGEKSQQAFLRMRTLNWYDVKWSKTSLNVNESMVLSGKVHVFSAWPQAVANPKSSFLNAGEPGPVLVRTAQFIGEQFAPRSVSLEVGKDYAFSIDLKARRAGRWHVHAQINVEGGGPIIG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">PGQWIEIKGDMADFKDPVTLLDGTTVDLETYGIDRIYAWH</span><span class="topo-membrane">FPWMIAAAAWILY</span><span class="topo-outside">WFFKKGIIASYLRISEGKDEEQIGDDDRR</span><span class="topo-membrane">VGAIVLAVTILATI</span><span class="topo-inside">IGYAVTNSTFPRTIPLQAGLQKPL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">TPII</span><span class="topo-unknown">EEGTAGVGPHV</span><span class="topo-inside">VTAELKGGVYKVPGRELTIQVKV</span><span class="topo-unknown">TNKTDEPLKL</span><span class="topo-inside">GEYTAAGLRFLNPDVFTTK</span><span class="topo-unknown">PEFP</span><span class="topo-inside">DYLLADRGLSTDPTPLAPGETKTIEVKVQDARWDIERLSDLAYDTDSQI</span></span>
+<span class="topo-ruler">       370       380       390  </span>
 <span class="topo-line"><span class="topo-inside">GGLLMFFSPSGKRYATEIGGPVIPKFV</span><span class="topo-unknown">AGDMP</span></span>
+<details class="topo-details"><summary>Topology coordinates (12 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1180,6 +1212,7 @@ Particulate methane monooxygenase (pMMO) is an integral membrane metalloenzyme t
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1195,11 +1228,13 @@ Particulate methane monooxygenase (pMMO) is an integral membrane metalloenzyme t
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MFTSKSGGAIG</span><span class="topo-outside">PFHSVAEAAGCVKTTDWMFL</span><span class="topo-membrane">TLLFLAVLGGYHIHFMLT</span><span class="topo-inside">AGDWDFWVDWK</span></span>
-<span class="topo-line"><span class="topo-inside">DRRMWPTV</span><span class="topo-membrane">VPILGVTFAAAAQA</span><span class="topo-outside">FFWENFKL</span><span class="topo-membrane">PFGATFAVSGLLIGEWIN</span><span class="topo-inside">RYCNFWGWTYFP</span></span>
-<span class="topo-line"><span class="topo-inside">ISLVFPS</span><span class="topo-membrane">ALVVPALWLDIIML</span><span class="topo-outside">LSGS</span><span class="topo-membrane">YVITAVVGSLGWGLLF</span><span class="topo-inside">YPNNWPAIAALHQATEQHG</span></span>
-<span class="topo-line"><span class="topo-inside">QLMSLADLVGFHFVRTSMPEYI</span><span class="topo-membrane">RMVERGTLRTFGKE</span><span class="topo-outside">VVPVAAFFSGFV</span><span class="topo-membrane">SMMVYFLWWFVG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MFTSKSGGAIG</span><span class="topo-outside">PFHSVAEAAGCVKTTDWMFL</span><span class="topo-membrane">TLLFLAVLGGYHIHFMLT</span><span class="topo-inside">AGDWDFWVDWKDRRMWPTV</span><span class="topo-membrane">VPILGVTFAAAAQA</span><span class="topo-outside">FFWENFKL</span><span class="topo-membrane">PFGATFAVSGLLIGEWIN</span><span class="topo-inside">RYCNFWGWTYFP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">ISLVFPS</span><span class="topo-membrane">ALVVPALWLDIIML</span><span class="topo-outside">LSGS</span><span class="topo-membrane">YVITAVVGSLGWGLLF</span><span class="topo-inside">YPNNWPAIAALHQATEQHGQLMSLADLVGFHFVRTSMPEYI</span><span class="topo-membrane">RMVERGTLRTFGKE</span><span class="topo-outside">VVPVAAFFSGFV</span><span class="topo-membrane">SMMVYFLWWFVG</span></span>
+<span class="topo-ruler">       250  </span>
 <span class="topo-line"><span class="topo-membrane">KWY</span><span class="topo-inside">STTKVI</span><span class="topo-unknown">QKI</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1330,6 +1365,7 @@ Particulate methane monooxygenase (pMMO) is an integral membrane metalloenzyme t
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1345,11 +1381,13 @@ Particulate methane monooxygenase (pMMO) is an integral membrane metalloenzyme t
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSVTTETTAGAAAGSDA</span><span class="topo-outside">IVDLRGM</span><span class="topo-membrane">WVGVAGLNIFYLIVR</span><span class="topo-inside">IYEQIYGWRAGLDSFAPEFQT</span></span>
-<span class="topo-line"><span class="topo-inside">YWLS</span><span class="topo-membrane">ILWTEIPLELVSGLA</span><span class="topo-outside">LAGWLWKTRDRNVDAVAPREELRRHVVLVEWL</span><span class="topo-membrane">VVYAVAIYW</span></span>
-<span class="topo-line"><span class="topo-membrane">GASFFT</span><span class="topo-inside">EQDGTWHMTVIRDTDFTPSHI</span><span class="topo-membrane">IEFYMSYPIYSIMAV</span><span class="topo-outside">GAFFYAKTRIPYFA</span><span class="topo-unknown">HGFS</span></span>
-<span class="topo-line"><span class="topo-unknown">LAFLIVAIGPFMIIPNVGLNEWGHTFWFMEELFVAPLHWGFVFFGWMALGVFGVVLQILM</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSVTTETTAGAAAGSDA</span><span class="topo-outside">IVDLRGM</span><span class="topo-membrane">WVGVAGLNIFYLIVR</span><span class="topo-inside">IYEQIYGWRAGLDSFAPEFQTYWLS</span><span class="topo-membrane">ILWTEIPLELVSGLA</span><span class="topo-outside">LAGWLWKTRDRNVDAVAPREELRRHVVLVEWL</span><span class="topo-membrane">VVYAVAIYW</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GASFFT</span><span class="topo-inside">EQDGTWHMTVIRDTDFTPSHI</span><span class="topo-membrane">IEFYMSYPIYSIMAV</span><span class="topo-outside">GAFFYAKTRIPYFA</span><span class="topo-unknown">HGFSLAFLIVAIGPFMIIPNVGLNEWGHTFWFMEELFVAPLHWGFVFFGWMALGVFGVVLQILM</span></span>
+<span class="topo-ruler">       250      </span>
 <span class="topo-line"><span class="topo-unknown">GVKRLIGKDCVAALVG</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1438,6 +1476,7 @@ Particulate methane monooxygenase (pMMO) is an integral membrane metalloenzyme t
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1453,7 +1492,9 @@ Particulate methane monooxygenase (pMMO) is an integral membrane metalloenzyme t
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20</span>
 <span class="topo-line"><span class="topo-unknown">UUUUUU</span><span class="topo-outside">UUUUUUUUUUUUUU</span></span>
+<details class="topo-details"><summary>Topology coordinates (2 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1479,6 +1520,7 @@ Particulate methane monooxygenase (pMMO) is an integral membrane metalloenzyme t
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1494,7 +1536,9 @@ Particulate methane monooxygenase (pMMO) is an integral membrane metalloenzyme t
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20      </span>
 <span class="topo-line"><span class="topo-inside">UUU</span><span class="topo-membrane">UUUUUUUUUUUUUUUU</span><span class="topo-outside">UUUUUUU</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1527,6 +1571,7 @@ Particulate methane monooxygenase (pMMO) is an integral membrane metalloenzyme t
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

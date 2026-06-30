@@ -105,7 +105,6 @@ CC chemokine receptor 2A (CCR2A) is a class A G protein-coupled receptor and the
 
 **Crystallization:**
 
-<<<<<<< HEAD
 <table class="wiki-kv-table">
   <tbody>
     <tr>
@@ -132,15 +131,6 @@ CC chemokine receptor 2A (CCR2A) is a class A G protein-coupled receptor and the
 </table>
 <div class="sequences" markdown="1">
 **Sequences (PDBTM):**
-=======
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Cell lysis and membrane preparation | Thawing in hypotonic buffer (10 mM [HEPES (HEPES Buffer)](/xray-mp-wiki/reagents/buffers/hepes/) pH 7.5, 10 mM MgCl2, 20 mM KCl), N2 disruption bomb at 50 bar | -- | 10 mM [HEPES (HEPES Buffer)](/xray-mp-wiki/reagents/buffers/hepes/) pH 7.5, 10 mM MgCl2, 20 mM KCl, 0.5 mg/mL DNase, EDTA-free protease inhibitor cocktail + -- | Membranes washed, supplemented with 30% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) and 2 mg/mL [Iodoacetamide](/xray-mp-wiki/reagents/additives/iodoacetamide/), incubated 1 h at 4 C |
-| Solubilization | Solubilization of membranes with detergent | -- | Membrane preparation buffer + 1.0% [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/), 0.1% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | Solubilized for at least 2 hours at 4 C; clarified by centrifugation at 100,000 x g for 1 h |
-| [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | [TALON Cobalt Affinity Resin](/xray-mp-wiki/reagents/additives/talon/) Superflow Metal Affinity Resin (Ni-IMAC) | [TALON Cobalt Affinity Resin](/xray-mp-wiki/reagents/additives/talon/) Superflow | 25 mM HEPES pH 7.5, 150 mM NaCl, 10% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/), 0.05% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.05% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 30 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) (wash); 200 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) (elution) + 0.05% [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/), 0.05% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | 6 eluates of 10 min each; 1 mL resin per 1 L culture. Elution buffer: 25 mM HEPES pH 7.5, 150 mM NaCl, 10% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/), 0.05% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.005% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 200 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/), 10 mM MgCl2 |
-| Tag cleavage | [PreScission Protease](/xray-mp-wiki/reagents/additives/pre-scission-protease/) treatment overnight at 4 C | -- | Buffer without [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) (post PD-10 desalting) + -- | 10 U/mg protein; removed C-terminal [FLAG Tag](/xray-mp-wiki/reagents/protein-tags/flag-tag/) and His tags |
-| [Size Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) | HiLoad [Superdex 200 Increase SEC Resin](/xray-mp-wiki/reagents/additives/superdex-200/) pg 200 column | [Superdex 200 Increase SEC Resin](/xray-mp-wiki/reagents/additives/superdex-200/) pg 200 | 25 mM HEPES pH 7.5, 150 mM NaCl, 0.05% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.005% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 1 uM [MK-0812](/xray-mp-wiki/reagents/ligands/mk-0812/) + 0.05% [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/), 0.005% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | Concentrated to 40-50 mg/mL using 30 kDa MWCO concentrator; yields varied 0.5-2 mg/L depending on construct |
->>>>>>> d0e2c437136bdf2885afc6a99e0a9d4117821696
 
 <div class="sequence-entry" markdown="1">
 **PDB <a class="pdb-link" href="https://www.rcsb.org/structure/6gps">6GPS</a> — Chain A (7 TMs, alpha)**
@@ -153,14 +143,15 @@ CC chemokine receptor 2A (CCR2A) is a class A G protein-coupled receptor and the
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">LSTSRSRFIRNTQESGEEVTTFFDYDYGAPCHKFD</span><span class="topo-outside">VKQIGAQL</span><span class="topo-membrane">LPPLYSLVFIFGFVGNM</span></span>
-<span class="topo-line"><span class="topo-membrane">LVVL</span><span class="topo-inside">ILINYKKLKCLTDI</span><span class="topo-membrane">YLLNLAISDLLFLITLPLWA</span><span class="topo-outside">HSAANEWVFGN</span><span class="topo-membrane">AMCKLFTGLYH</span></span>
-<span class="topo-line"><span class="topo-membrane">IGYFGGIFFIIL</span><span class="topo-inside">LTIDRYLAIVHAVFALKARTVTFGVV</span><span class="topo-membrane">TSVITWLVAVFASVPNIIF</span><span class="topo-outside">TKC</span></span>
-<span class="topo-line"><span class="topo-outside">QKEDSVYVCGPYFPR</span><span class="topo-membrane">GWNNFHTIMRNILGLVLPLLIMVI</span><span class="topo-inside">CYSGILKTLLRMKKYTCTVCG</span></span>
-<span class="topo-line"><span class="topo-inside">YIYNPEDGDPDNGVNPGTDFKDIPDDWVCPLCGVGKDQFEEVEEEKKRHRDVRV</span><span class="topo-membrane">IFTIMI</span></span>
-<span class="topo-line"><span class="topo-membrane">VYFLFWTPYNIVILL</span><span class="topo-outside">NTFQEFF</span><span class="topo-unknown">GLSNCE</span><span class="topo-outside">STSQLDQ</span><span class="topo-membrane">ATQVTETLGMTHCCINPIIYAFV</span><span class="topo-inside">GE</span></span>
-<span class="topo-line"><span class="topo-inside">EFRSLFHIALG</span><span class="topo-unknown">CRIAPLQKPVCGGPGVRPGKNVKVTTQGLLDGRGKGKSIGRAPEASLQD</span></span>
-<span class="topo-line"><span class="topo-unknown">KEGAEVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">LSTSRSRFIRNTQESGEEVTTFFDYDYGAPCHKFD</span><span class="topo-outside">VKQIGAQL</span><span class="topo-membrane">LPPLYSLVFIFGFVGNMLVVL</span><span class="topo-inside">ILINYKKLKCLTDI</span><span class="topo-membrane">YLLNLAISDLLFLITLPLWA</span><span class="topo-outside">HSAANEWVFGN</span><span class="topo-membrane">AMCKLFTGLYH</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">IGYFGGIFFIIL</span><span class="topo-inside">LTIDRYLAIVHAVFALKARTVTFGVV</span><span class="topo-membrane">TSVITWLVAVFASVPNIIF</span><span class="topo-outside">TKCQKEDSVYVCGPYFPR</span><span class="topo-membrane">GWNNFHTIMRNILGLVLPLLIMVI</span><span class="topo-inside">CYSGILKTLLRMKKYTCTVCG</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">YIYNPEDGDPDNGVNPGTDFKDIPDDWVCPLCGVGKDQFEEVEEEKKRHRDVRV</span><span class="topo-membrane">IFTIMIVYFLFWTPYNIVILL</span><span class="topo-outside">NTFQEFF</span><span class="topo-unknown">GLSNCE</span><span class="topo-outside">STSQLDQ</span><span class="topo-membrane">ATQVTETLGMTHCCINPIIYAFV</span><span class="topo-inside">GE</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420         </span>
+<span class="topo-line"><span class="topo-inside">EFRSLFHIALG</span><span class="topo-unknown">CRIAPLQKPVCGGPGVRPGKNVKVTTQGLLDGRGKGKSIGRAPEASLQDKEGAEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -305,6 +296,7 @@ CC chemokine receptor 2A (CCR2A) is a class A G protein-coupled receptor and the
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -312,7 +304,6 @@ CC chemokine receptor 2A (CCR2A) is a class A G protein-coupled receptor and the
 <div class="sequence-entry" markdown="1">
 **PDB <a class="pdb-link" href="https://www.rcsb.org/structure/6gpx">6GPX</a> — Chain A (7 TMs, alpha)**
 
-<<<<<<< HEAD
 <div class="sequence-display">
 <div class="topo-legend">
 <span class="topo-membrane-legend">&#9608; TM Helix</span>
@@ -321,12 +312,13 @@ CC chemokine receptor 2A (CCR2A) is a class A G protein-coupled receptor and the
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GAPCHKF</span><span class="topo-outside">DVKQIGA</span><span class="topo-membrane">QLLPPLYSLVFIFGFVGNMLVV</span><span class="topo-inside">LILINYKKLKCLTDIYLL</span><span class="topo-membrane">NLAISD</span></span>
-<span class="topo-line"><span class="topo-membrane">LLFLITLPLWAHSA</span><span class="topo-outside">ANEWVFG</span><span class="topo-membrane">NAMCKLFTGLYHIGYFGGIFFII</span><span class="topo-inside">LLTIDRYLAIVH</span><span class="topo-unknown">AVFA</span></span>
-<span class="topo-line"><span class="topo-unknown">LKAR</span><span class="topo-inside">TVTFGVVT</span><span class="topo-membrane">SVITWLVAVFASVPNIIFTK</span><span class="topo-outside">CQKEDSVYVCGPYFPR</span><span class="topo-membrane">GWNNFHTIMRNI</span></span>
-<span class="topo-line"><span class="topo-membrane">LGLVLPLLIMV</span><span class="topo-inside">ICYSGILKTLLRMKKYTCTVCGYIYNPEDGDPDNGVNPGTDFKDIPDDW</span></span>
-<span class="topo-line"><span class="topo-inside">VCPLCGVGKDQFEEVE</span><span class="topo-unknown">EEKKRH</span><span class="topo-inside">RDVRVIF</span><span class="topo-membrane">TIMIVYFLFWTPYNIVILLNTF</span><span class="topo-outside">QEFFGLSNC</span></span>
-<span class="topo-line"><span class="topo-outside">ESTSQLDQ</span><span class="topo-membrane">ATQVTETLGMTHCCINPII</span><span class="topo-inside">YAFVGEKFRSLFHIALGE</span><span class="topo-unknown">VLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GAPCHKF</span><span class="topo-outside">DVKQIGA</span><span class="topo-membrane">QLLPPLYSLVFIFGFVGNMLVV</span><span class="topo-inside">LILINYKKLKCLTDIYLL</span><span class="topo-membrane">NLAISDLLFLITLPLWAHSA</span><span class="topo-outside">ANEWVFG</span><span class="topo-membrane">NAMCKLFTGLYHIGYFGGIFFII</span><span class="topo-inside">LLTIDRYLAIVH</span><span class="topo-unknown">AVFA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-unknown">LKAR</span><span class="topo-inside">TVTFGVVT</span><span class="topo-membrane">SVITWLVAVFASVPNIIFTK</span><span class="topo-outside">CQKEDSVYVCGPYFPR</span><span class="topo-membrane">GWNNFHTIMRNILGLVLPLLIMV</span><span class="topo-inside">ICYSGILKTLLRMKKYTCTVCGYIYNPEDGDPDNGVNPGTDFKDIPDDW</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340         </span>
+<span class="topo-line"><span class="topo-inside">VCPLCGVGKDQFEEVE</span><span class="topo-unknown">EEKKRH</span><span class="topo-inside">RDVRVIF</span><span class="topo-membrane">TIMIVYFLFWTPYNIVILLNTF</span><span class="topo-outside">QEFFGLSNCESTSQLDQ</span><span class="topo-membrane">ATQVTETLGMTHCCINPII</span><span class="topo-inside">YAFVGEKFRSLFHIALGE</span><span class="topo-unknown">VLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -485,15 +477,10 @@ CC chemokine receptor 2A (CCR2A) is a class A G protein-coupled receptor and the
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
-=======
-| Parameter | Value |
-|---|---|
-| Method | [Lipidic Cubic Phase Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) ([LCP](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/)), conventional glass sandwich plates |
-| Temperature | 20 C |
->>>>>>> d0e2c437136bdf2885afc6a99e0a9d4117821696
 
 <div class="sequence-entry" markdown="1">
 **PDB <a class="pdb-link" href="https://www.rcsb.org/structure/6gpx">6GPX</a> — Chain B (7 TMs, alpha)**
@@ -506,12 +493,13 @@ CC chemokine receptor 2A (CCR2A) is a class A G protein-coupled receptor and the
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GAPCHK</span><span class="topo-outside">FDVKQIGA</span><span class="topo-membrane">QLLPPLYSLVFIFGFVGNMLVVL</span><span class="topo-inside">ILINYKKLKCLTDIYL</span><span class="topo-membrane">LNLAISD</span></span>
-<span class="topo-line"><span class="topo-membrane">LLFLITLPLWAHSA</span><span class="topo-outside">ANEWVFGN</span><span class="topo-membrane">AMCKLFTGLYHIGYFGGIFFII</span><span class="topo-inside">LLTIDRYLAIVHAVFA</span></span>
-<span class="topo-line"><span class="topo-inside">LKARTVTFGVVT</span><span class="topo-membrane">SVITWLVAVFASVPNIIFT</span><span class="topo-outside">KCQKEDSVYVCGPY</span><span class="topo-membrane">FPRGWNNFHTIMRNI</span></span>
-<span class="topo-line"><span class="topo-membrane">LGLVLPLL</span><span class="topo-inside">IMVICYSGILKTL</span><span class="topo-unknown">LRMKKYTCTVCGYIYNPEDGDPDNGVNPGTDFKDIPDDW</span></span>
-<span class="topo-line"><span class="topo-unknown">VCPLCGVGKDQFEEVEEEKKRHR</span><span class="topo-inside">DVRVIFT</span><span class="topo-membrane">IMIVYFLFWTPYNIVILLNTFQEFFGL</span><span class="topo-outside">SNC</span></span>
-<span class="topo-line"><span class="topo-outside">ESTS</span><span class="topo-membrane">QLDQATQVTETLGMTHCCINPII</span><span class="topo-inside">YAFV</span><span class="topo-unknown">GEKFRSLFHIALGEVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GAPCHK</span><span class="topo-outside">FDVKQIGA</span><span class="topo-membrane">QLLPPLYSLVFIFGFVGNMLVVL</span><span class="topo-inside">ILINYKKLKCLTDIYL</span><span class="topo-membrane">LNLAISDLLFLITLPLWAHSA</span><span class="topo-outside">ANEWVFGN</span><span class="topo-membrane">AMCKLFTGLYHIGYFGGIFFII</span><span class="topo-inside">LLTIDRYLAIVHAVFA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">LKARTVTFGVVT</span><span class="topo-membrane">SVITWLVAVFASVPNIIFT</span><span class="topo-outside">KCQKEDSVYVCGPY</span><span class="topo-membrane">FPRGWNNFHTIMRNILGLVLPLL</span><span class="topo-inside">IMVICYSGILKTL</span><span class="topo-unknown">LRMKKYTCTVCGYIYNPEDGDPDNGVNPGTDFKDIPDDW</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340         </span>
+<span class="topo-line"><span class="topo-unknown">VCPLCGVGKDQFEEVEEEKKRHR</span><span class="topo-inside">DVRVIFT</span><span class="topo-membrane">IMIVYFLFWTPYNIVILLNTFQEFFGL</span><span class="topo-outside">SNCESTS</span><span class="topo-membrane">QLDQATQVTETLGMTHCCINPII</span><span class="topo-inside">YAFV</span><span class="topo-unknown">GEKFRSLFHIALGEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -656,6 +644,7 @@ CC chemokine receptor 2A (CCR2A) is a class A G protein-coupled receptor and the
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

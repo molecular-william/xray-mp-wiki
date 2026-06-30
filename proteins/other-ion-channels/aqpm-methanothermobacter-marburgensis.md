@@ -146,11 +146,13 @@ AqpM is the aquaporin from the methanogenic archaeon Methanothermobacter marburg
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MVSLTKR</span><span class="topo-membrane">CIAEFIGTFILVFFGAGS</span><span class="topo-inside">AAVTLMIASGGTSPNPFNIGIGLLGGLGDW</span><span class="topo-membrane">VAIGL</span></span>
-<span class="topo-line"><span class="topo-membrane">AFGFAIAASIYALG</span><span class="topo-outside">NISG</span><span class="topo-unknown">CHINPAVTIGLWS</span><span class="topo-outside">VKKFPGREV</span><span class="topo-membrane">VPYIIAQLLGAAFGSFIF</span><span class="topo-inside">LQ</span></span>
-<span class="topo-line"><span class="topo-inside">CAGIGAATVGGLGATAPFPGISYWQA</span><span class="topo-membrane">MLAEVVGTFLLMITIMGI</span><span class="topo-outside">AVDERAPKGF</span><span class="topo-membrane">AGIIIG</span></span>
-<span class="topo-line"><span class="topo-membrane">LTVAGIITTLG</span><span class="topo-inside">NIS</span><span class="topo-unknown">GSSLNPARTFGPYLN</span><span class="topo-inside">DMIFAGTDLWNYY</span><span class="topo-membrane">SIYVIGPIVGAVLAALTY</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MVSLTKR</span><span class="topo-membrane">CIAEFIGTFILVFFGAGS</span><span class="topo-inside">AAVTLMIASGGTSPNPFNIGIGLLGGLGDW</span><span class="topo-membrane">VAIGLAFGFAIAASIYALG</span><span class="topo-outside">NISG</span><span class="topo-unknown">CHINPAVTIGLWS</span><span class="topo-outside">VKKFPGREV</span><span class="topo-membrane">VPYIIAQLLGAAFGSFIF</span><span class="topo-inside">LQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">CAGIGAATVGGLGATAPFPGISYWQA</span><span class="topo-membrane">MLAEVVGTFLLMITIMGI</span><span class="topo-outside">AVDERAPKGF</span><span class="topo-membrane">AGIIIGLTVAGIITTLG</span><span class="topo-inside">NIS</span><span class="topo-unknown">GSSLNPARTFGPYLN</span><span class="topo-inside">DMIFAGTDLWNYY</span><span class="topo-membrane">SIYVIGPIVGAVLAALTY</span></span>
+<span class="topo-ruler">      </span>
 <span class="topo-line"><span class="topo-outside">QYLTS</span><span class="topo-unknown">E</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -288,6 +290,7 @@ AqpM is the aquaporin from the methanogenic archaeon Methanothermobacter marburg
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -303,11 +306,13 @@ AqpM is the aquaporin from the methanogenic archaeon Methanothermobacter marburg
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MVSLTKR</span><span class="topo-membrane">CIAEFIGTFILVFFGAGS</span><span class="topo-inside">AAVTLMIASGGTSPNPFNIGIGLLGGLGDW</span><span class="topo-membrane">VAIGL</span></span>
-<span class="topo-line"><span class="topo-membrane">AFGFAIAASIYALG</span><span class="topo-outside">NISG</span><span class="topo-unknown">CHINPAVTIGLWS</span><span class="topo-outside">VKKFPGREV</span><span class="topo-membrane">VPYIIAQLLGAAFGSFIF</span><span class="topo-inside">LQ</span></span>
-<span class="topo-line"><span class="topo-inside">CAGIGAATVGGLGATAPFPGISYWQA</span><span class="topo-membrane">MLAEVVGTFLLMITIMGI</span><span class="topo-outside">AVDERAPKGF</span><span class="topo-membrane">AGIIIG</span></span>
-<span class="topo-line"><span class="topo-membrane">LTVAGIITTLG</span><span class="topo-inside">NIS</span><span class="topo-unknown">GSSLNPARTFGPYLN</span><span class="topo-inside">DMIFAGTDLWNYY</span><span class="topo-membrane">SIYVIGPIVGAVLAALTY</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MVSLTKR</span><span class="topo-membrane">CIAEFIGTFILVFFGAGS</span><span class="topo-inside">AAVTLMIASGGTSPNPFNIGIGLLGGLGDW</span><span class="topo-membrane">VAIGLAFGFAIAASIYALG</span><span class="topo-outside">NISG</span><span class="topo-unknown">CHINPAVTIGLWS</span><span class="topo-outside">VKKFPGREV</span><span class="topo-membrane">VPYIIAQLLGAAFGSFIF</span><span class="topo-inside">LQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">CAGIGAATVGGLGATAPFPGISYWQA</span><span class="topo-membrane">MLAEVVGTFLLMITIMGI</span><span class="topo-outside">AVDERAPKGF</span><span class="topo-membrane">AGIIIGLTVAGIITTLG</span><span class="topo-inside">NIS</span><span class="topo-unknown">GSSLNPARTFGPYLN</span><span class="topo-inside">DMIFAGTDLWNYY</span><span class="topo-membrane">SIYVIGPIVGAVLAALTY</span></span>
+<span class="topo-ruler">      </span>
 <span class="topo-line"><span class="topo-outside">QYLTS</span><span class="topo-unknown">E</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -445,6 +450,7 @@ AqpM is the aquaporin from the methanogenic archaeon Methanothermobacter marburg
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -460,11 +466,13 @@ AqpM is the aquaporin from the methanogenic archaeon Methanothermobacter marburg
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MVSLTKR</span><span class="topo-membrane">CIAEFIGTFILVFFGAGS</span><span class="topo-inside">AAVTLMIASGGTSPNPFNIGIGLLGGLGDW</span><span class="topo-membrane">VAIGL</span></span>
-<span class="topo-line"><span class="topo-membrane">AFGFAIAASIYALG</span><span class="topo-outside">NISG</span><span class="topo-unknown">CHINPAVTIGLWS</span><span class="topo-outside">VKKFPGREV</span><span class="topo-membrane">VPYIIAQLLGAAFGSFIF</span><span class="topo-inside">LQ</span></span>
-<span class="topo-line"><span class="topo-inside">CAGIGAATVGGLGATAPFPGISYWQA</span><span class="topo-membrane">MLAEVVGTFLLMITIMGI</span><span class="topo-outside">AVDERAPKGF</span><span class="topo-membrane">AGIIIG</span></span>
-<span class="topo-line"><span class="topo-membrane">LTVAGIITTLG</span><span class="topo-inside">NIS</span><span class="topo-unknown">GSSLNPARTFGPYLN</span><span class="topo-inside">DMIFAGTDLWNYY</span><span class="topo-membrane">SIYVIGPIVGAVLAALTY</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MVSLTKR</span><span class="topo-membrane">CIAEFIGTFILVFFGAGS</span><span class="topo-inside">AAVTLMIASGGTSPNPFNIGIGLLGGLGDW</span><span class="topo-membrane">VAIGLAFGFAIAASIYALG</span><span class="topo-outside">NISG</span><span class="topo-unknown">CHINPAVTIGLWS</span><span class="topo-outside">VKKFPGREV</span><span class="topo-membrane">VPYIIAQLLGAAFGSFIF</span><span class="topo-inside">LQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">CAGIGAATVGGLGATAPFPGISYWQA</span><span class="topo-membrane">MLAEVVGTFLLMITIMGI</span><span class="topo-outside">AVDERAPKGF</span><span class="topo-membrane">AGIIIGLTVAGIITTLG</span><span class="topo-inside">NIS</span><span class="topo-unknown">GSSLNPARTFGPYLN</span><span class="topo-inside">DMIFAGTDLWNYY</span><span class="topo-membrane">SIYVIGPIVGAVLAALTY</span></span>
+<span class="topo-ruler">      </span>
 <span class="topo-line"><span class="topo-outside">QYLTS</span><span class="topo-unknown">E</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -602,6 +610,7 @@ AqpM is the aquaporin from the methanogenic archaeon Methanothermobacter marburg
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -617,11 +626,13 @@ AqpM is the aquaporin from the methanogenic archaeon Methanothermobacter marburg
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MVSLTKR</span><span class="topo-membrane">CIAEFIGTFILVFFGAGS</span><span class="topo-inside">AAVTLMIASGGTSPNPFNIGIGLLGGLGDW</span><span class="topo-membrane">VAIGL</span></span>
-<span class="topo-line"><span class="topo-membrane">AFGFAIAASIYALG</span><span class="topo-outside">NISG</span><span class="topo-unknown">CHINPAVTIGLWS</span><span class="topo-outside">VKKFPGREV</span><span class="topo-membrane">VPYIIAQLLGAAFGSFIF</span><span class="topo-inside">LQ</span></span>
-<span class="topo-line"><span class="topo-inside">CAGIGAATVGGLGATAPFPGISYWQA</span><span class="topo-membrane">MLAEVVGTFLLMITIMGI</span><span class="topo-outside">AVDERAPKGF</span><span class="topo-membrane">AGIIIG</span></span>
-<span class="topo-line"><span class="topo-membrane">LTVAGIITTLG</span><span class="topo-inside">NIS</span><span class="topo-unknown">GSSLNPARTFGPYLN</span><span class="topo-inside">DMIFAGTDLWNYY</span><span class="topo-membrane">SIYVIGPIVGAVLAALTY</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MVSLTKR</span><span class="topo-membrane">CIAEFIGTFILVFFGAGS</span><span class="topo-inside">AAVTLMIASGGTSPNPFNIGIGLLGGLGDW</span><span class="topo-membrane">VAIGLAFGFAIAASIYALG</span><span class="topo-outside">NISG</span><span class="topo-unknown">CHINPAVTIGLWS</span><span class="topo-outside">VKKFPGREV</span><span class="topo-membrane">VPYIIAQLLGAAFGSFIF</span><span class="topo-inside">LQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">CAGIGAATVGGLGATAPFPGISYWQA</span><span class="topo-membrane">MLAEVVGTFLLMITIMGI</span><span class="topo-outside">AVDERAPKGF</span><span class="topo-membrane">AGIIIGLTVAGIITTLG</span><span class="topo-inside">NIS</span><span class="topo-unknown">GSSLNPARTFGPYLN</span><span class="topo-inside">DMIFAGTDLWNYY</span><span class="topo-membrane">SIYVIGPIVGAVLAALTY</span></span>
+<span class="topo-ruler">      </span>
 <span class="topo-line"><span class="topo-outside">QYLTS</span><span class="topo-unknown">E</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -759,6 +770,7 @@ AqpM is the aquaporin from the methanogenic archaeon Methanothermobacter marburg
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

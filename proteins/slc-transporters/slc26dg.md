@@ -173,15 +173,17 @@ SLC26Dg is a prokaryotic fumarate transporter from the bacterium Deinococcus geo
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MTVHSPRFDLRQY</span><span class="topo-inside">QREWFANP</span><span class="topo-membrane">RKDVLAGIVVALALIPEAIAFSIIAG</span><span class="topo-outside">VDPQV</span><span class="topo-membrane">GLYASFII</span></span>
-<span class="topo-line"><span class="topo-membrane">ALITAFLG</span><span class="topo-inside">GRPGM</span><span class="topo-membrane">ISAATGAMALLMTGLVK</span><span class="topo-outside">DHGIQY</span><span class="topo-membrane">LFAATVLTGVLQVVFGW</span><span class="topo-inside">AKL</span><span class="topo-unknown">ARYL</span></span>
-<span class="topo-line"><span class="topo-unknown">KF</span><span class="topo-inside">VPRSVMVG</span><span class="topo-membrane">FVNALAILIFMAQLPQF</span><span class="topo-outside">VGANWQM</span><span class="topo-membrane">YAMVAAGLAIIYLLPLVF</span><span class="topo-inside">K</span><span class="topo-membrane">AMPSALV</span></span>
-<span class="topo-line"><span class="topo-membrane">AIVVLTV</span><span class="topo-outside">VAVVTGADVKTVGDMGTLPTALPHFQFPQVPLT</span><span class="topo-membrane">FETLAIIFPVALTLSLVGL</span><span class="topo-inside">L</span></span>
-<span class="topo-line"><span class="topo-inside">ESLLTAQLIDERTDTTSDKNVE</span><span class="topo-membrane">SRGQGVANIVTGFFG</span><span class="topo-outside">G</span><span class="topo-membrane">MAGCAMIGQS</span><span class="topo-inside">MINVTSGGRGR</span><span class="topo-membrane">L</span></span>
-<span class="topo-line"><span class="topo-membrane">STFVAGAFLMVLI</span><span class="topo-outside">LALQPLLVQIPM</span><span class="topo-membrane">AALVAVMMVVAISTF</span><span class="topo-inside">DWGSLR</span><span class="topo-unknown">TLTV</span><span class="topo-inside">FPKGETVVML</span></span>
-<span class="topo-line"><span class="topo-membrane">ATVAVTVFT</span><span class="topo-outside">H</span><span class="topo-membrane">DLSLGVLIGVV</span><span class="topo-inside">LSALFFARKVSQLSQVTPVDEVDGTRTYRVRGQLFFVST</span></span>
-<span class="topo-line"><span class="topo-inside">HDFLHQFDFTHPARRVVIDLSDAHFWDGSAVGALDKVMLKFMRQGTSVELRGLNAASATL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MTVHSPRFDLRQY</span><span class="topo-inside">QREWFANP</span><span class="topo-membrane">RKDVLAGIVVALALIPEAIAFSIIAG</span><span class="topo-outside">VDPQV</span><span class="topo-membrane">GLYASFIIALITAFLG</span><span class="topo-inside">GRPGM</span><span class="topo-membrane">ISAATGAMALLMTGLVK</span><span class="topo-outside">DHGIQY</span><span class="topo-membrane">LFAATVLTGVLQVVFGW</span><span class="topo-inside">AKL</span><span class="topo-unknown">ARYL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-unknown">KF</span><span class="topo-inside">VPRSVMVG</span><span class="topo-membrane">FVNALAILIFMAQLPQF</span><span class="topo-outside">VGANWQM</span><span class="topo-membrane">YAMVAAGLAIIYLLPLVF</span><span class="topo-inside">K</span><span class="topo-membrane">AMPSALVAIVVLTV</span><span class="topo-outside">VAVVTGADVKTVGDMGTLPTALPHFQFPQVPLT</span><span class="topo-membrane">FETLAIIFPVALTLSLVGL</span><span class="topo-inside">L</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">ESLLTAQLIDERTDTTSDKNVE</span><span class="topo-membrane">SRGQGVANIVTGFFG</span><span class="topo-outside">G</span><span class="topo-membrane">MAGCAMIGQS</span><span class="topo-inside">MINVTSGGRGR</span><span class="topo-membrane">LSTFVAGAFLMVLI</span><span class="topo-outside">LALQPLLVQIPM</span><span class="topo-membrane">AALVAVMMVVAISTF</span><span class="topo-inside">DWGSLR</span><span class="topo-unknown">TLTV</span><span class="topo-inside">FPKGETVVML</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">ATVAVTVFT</span><span class="topo-outside">H</span><span class="topo-membrane">DLSLGVLIGVV</span><span class="topo-inside">LSALFFARKVSQLSQVTPVDEVDGTRTYRVRGQLFFVSTHDFLHQFDFTHPARRVVIDLSDAHFWDGSAVGALDKVMLKFMRQGTSVELRGLNAASATL</span></span>
+<span class="topo-ruler">       490       500     </span>
 <span class="topo-line"><span class="topo-inside">VERL</span><span class="topo-unknown">AVHDKPDALDRMGGHSLGVLP</span></span>
+<details class="topo-details"><summary>Topology coordinates (32 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -417,6 +419,7 @@ SLC26Dg is a prokaryotic fumarate transporter from the bacterium Deinococcus geo
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -432,13 +435,15 @@ SLC26Dg is a prokaryotic fumarate transporter from the bacterium Deinococcus geo
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MTVHSPRFDLRQY</span><span class="topo-outside">QREWFANPRKDVLAG</span><span class="topo-membrane">IVVALALIPEAIAFSIIAGVD</span><span class="topo-inside">P</span><span class="topo-membrane">QVGLYASFII</span></span>
-<span class="topo-line"><span class="topo-membrane">ALITAFLG</span><span class="topo-outside">GRPGMI</span><span class="topo-membrane">SAATGAMALLMTGLV</span><span class="topo-inside">KDHGI</span><span class="topo-membrane">QYLFAATVLTGVLQVVFGWA</span><span class="topo-outside">KL</span><span class="topo-unknown">ARYL</span></span>
-<span class="topo-line"><span class="topo-unknown">KF</span><span class="topo-outside">VPRSV</span><span class="topo-membrane">MVGFVNALAILIFMAQLPQF</span><span class="topo-inside">VGANW</span><span class="topo-membrane">QMYAMVAAGLAIIYLLP</span><span class="topo-outside">LVFKAM</span><span class="topo-membrane">PSALV</span></span>
-<span class="topo-line"><span class="topo-membrane">AIVVLTVVAVVT</span><span class="topo-inside">GADVKTVGDMGTLPTALPHFQFPQVPLTFET</span><span class="topo-membrane">LAIIFPVALTLSLVGLL</span></span>
-<span class="topo-line"><span class="topo-membrane">ES</span><span class="topo-outside">LLTAQLIDERTDTTSDKNVES</span><span class="topo-membrane">RGQGVANIVTGFF</span><span class="topo-inside">G</span><span class="topo-unknown">GMAGCAMIGQ</span><span class="topo-outside">SMINVTSGGRGRL</span></span>
-<span class="topo-line"><span class="topo-membrane">STFVAGAFLMVLILALQPLL</span><span class="topo-inside">V</span><span class="topo-membrane">QIPMAALVAVMMVVAISTFD</span><span class="topo-outside">WGSLR</span><span class="topo-unknown">TLTV</span><span class="topo-outside">FPKGETV</span><span class="topo-membrane">VML</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MTVHSPRFDLRQY</span><span class="topo-outside">QREWFANPRKDVLAG</span><span class="topo-membrane">IVVALALIPEAIAFSIIAGVD</span><span class="topo-inside">P</span><span class="topo-membrane">QVGLYASFIIALITAFLG</span><span class="topo-outside">GRPGMI</span><span class="topo-membrane">SAATGAMALLMTGLV</span><span class="topo-inside">KDHGI</span><span class="topo-membrane">QYLFAATVLTGVLQVVFGWA</span><span class="topo-outside">KL</span><span class="topo-unknown">ARYL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-unknown">KF</span><span class="topo-outside">VPRSV</span><span class="topo-membrane">MVGFVNALAILIFMAQLPQF</span><span class="topo-inside">VGANW</span><span class="topo-membrane">QMYAMVAAGLAIIYLLP</span><span class="topo-outside">LVFKAM</span><span class="topo-membrane">PSALVAIVVLTVVAVVT</span><span class="topo-inside">GADVKTVGDMGTLPTALPHFQFPQVPLTFET</span><span class="topo-membrane">LAIIFPVALTLSLVGLL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">ES</span><span class="topo-outside">LLTAQLIDERTDTTSDKNVES</span><span class="topo-membrane">RGQGVANIVTGFF</span><span class="topo-inside">G</span><span class="topo-unknown">GMAGCAMIGQ</span><span class="topo-outside">SMINVTSGGRGRL</span><span class="topo-membrane">STFVAGAFLMVLILALQPLL</span><span class="topo-inside">V</span><span class="topo-membrane">QIPMAALVAVMMVVAISTFD</span><span class="topo-outside">WGSLR</span><span class="topo-unknown">TLTV</span><span class="topo-outside">FPKGETV</span><span class="topo-membrane">VML</span></span>
+<span class="topo-ruler">       370       380       390       400 </span>
 <span class="topo-line"><span class="topo-membrane">ATVAVTVFTH</span><span class="topo-inside">D</span><span class="topo-membrane">LSLGVLIGVVLSAL</span><span class="topo-outside">FFARKV</span><span class="topo-unknown">SQLSQVTPVD</span></span>
+<details class="topo-details"><summary>Topology coordinates (32 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -674,6 +679,7 @@ SLC26Dg is a prokaryotic fumarate transporter from the bacterium Deinococcus geo
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

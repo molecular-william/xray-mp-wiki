@@ -96,18 +96,19 @@ ABCG1 is a member of the ATP-binding cassette (ABC) G subfamily of lipid transpo
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MACLMAAFSVGTAMNASSYSAEMTEPKSVCVSVDEVVSSNMEATETDLLNGHLKKVDNNL</span></span>
-<span class="topo-line"><span class="topo-unknown">TEAQRFSSLPRRA</span><span class="topo-inside">AVNIEFRDLSYSVPE</span><span class="topo-unknown">GPWWRKK</span><span class="topo-inside">GYKTLLKGISGKFNSGELVAIMGPS</span></span>
-<span class="topo-line"><span class="topo-inside">GAGKSTLMNILAGYRETGMKGAVLINGLPRDLRCFRKVSCYIMQDDMLLPHLTVQEAMMV</span></span>
-<span class="topo-line"><span class="topo-inside">SAHLKLQEKDEGRREMVKEILTALGLLSCANTRTGSLSGGQRKRLAIALELVNNPPVMFF</span></span>
-<span class="topo-line"><span class="topo-inside">DQPTSGLDSASCFQVVSLMKGLAQGGRSIICTIHQPSAKLFELFDQLYVLSQGQCVYRGK</span></span>
-<span class="topo-line"><span class="topo-inside">VCNLVPYLRDLGLNCPTYHNPADFVMEVASGEYGDQNSRLVRAVR</span><span class="topo-unknown">EGMCDSDHKRDLGGD</span></span>
-<span class="topo-line"><span class="topo-unknown">AEVNPFLWHRPSEEDSSSMEGCHSF</span><span class="topo-inside">SAS</span><span class="topo-unknown">CLTQFCILFKRT</span><span class="topo-membrane">FLSIMRDSVLTHLRITSHIG</span></span>
-<span class="topo-line"><span class="topo-membrane">IGLLIGLLYL</span><span class="topo-outside">GIGNEAKKVLSNS</span><span class="topo-membrane">GFLFFSMLFLMFAALMPTVLTF</span><span class="topo-inside">PLEMGVFLREHLNYW</span></span>
-<span class="topo-line"><span class="topo-inside">YSLK</span><span class="topo-membrane">AYYLAKTMADVPFQIMFPVAYCSIVYWMT</span><span class="topo-outside">SQPSDAVRF</span><span class="topo-membrane">VLFAALGTMTSLVAQSLG</span></span>
-<span class="topo-line"><span class="topo-membrane">LLIGAAS</span><span class="topo-inside">TSL</span><span class="topo-membrane">QVATFVGPVTAIPVLLFSGFFVSF</span><span class="topo-outside">DTI</span><span class="topo-unknown">PTYLQWMSYISYVRYGFEGV</span><span class="topo-outside">ILS</span></span>
-<span class="topo-line"><span class="topo-outside">IYGLDREDLHCDIDETCHFQKSEAILRELDVENAKL</span><span class="topo-membrane">YLDFIVLGIFFISLRLIAYFVLRY</span></span>
-<span class="topo-line"><span class="topo-inside">KIRA</span><span class="topo-unknown">ERSSRVDTETSQVAPA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MACLMAAFSVGTAMNASSYSAEMTEPKSVCVSVDEVVSSNMEATETDLLNGHLKKVDNNLTEAQRFSSLPRRA</span><span class="topo-inside">AVNIEFRDLSYSVPE</span><span class="topo-unknown">GPWWRKK</span><span class="topo-inside">GYKTLLKGISGKFNSGELVAIMGPS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">GAGKSTLMNILAGYRETGMKGAVLINGLPRDLRCFRKVSCYIMQDDMLLPHLTVQEAMMVSAHLKLQEKDEGRREMVKEILTALGLLSCANTRTGSLSGGQRKRLAIALELVNNPPVMFF</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">DQPTSGLDSASCFQVVSLMKGLAQGGRSIICTIHQPSAKLFELFDQLYVLSQGQCVYRGKVCNLVPYLRDLGLNCPTYHNPADFVMEVASGEYGDQNSRLVRAVR</span><span class="topo-unknown">EGMCDSDHKRDLGGD</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-unknown">AEVNPFLWHRPSEEDSSSMEGCHSF</span><span class="topo-inside">SAS</span><span class="topo-unknown">CLTQFCILFKRT</span><span class="topo-membrane">FLSIMRDSVLTHLRITSHIGIGLLIGLLYL</span><span class="topo-outside">GIGNEAKKVLSNS</span><span class="topo-membrane">GFLFFSMLFLMFAALMPTVLTF</span><span class="topo-inside">PLEMGVFLREHLNYW</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-inside">YSLK</span><span class="topo-membrane">AYYLAKTMADVPFQIMFPVAYCSIVYWMT</span><span class="topo-outside">SQPSDAVRF</span><span class="topo-membrane">VLFAALGTMTSLVAQSLGLLIGAAS</span><span class="topo-inside">TSL</span><span class="topo-membrane">QVATFVGPVTAIPVLLFSGFFVSF</span><span class="topo-outside">DTI</span><span class="topo-unknown">PTYLQWMSYISYVRYGFEGV</span><span class="topo-outside">ILS</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680</span>
+<span class="topo-line"><span class="topo-outside">IYGLDREDLHCDIDETCHFQKSEAILRELDVENAKL</span><span class="topo-membrane">YLDFIVLGIFFISLRLIAYFVLRY</span><span class="topo-inside">KIRA</span><span class="topo-unknown">ERSSRVDTETSQVAPA</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -245,6 +246,7 @@ ABCG1 is a member of the ATP-binding cassette (ABC) G subfamily of lipid transpo
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -260,18 +262,19 @@ ABCG1 is a member of the ATP-binding cassette (ABC) G subfamily of lipid transpo
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MACLMAAFSVGTAMNASSYSAEMTEPKSVCVSVDEVVSSNMEATETDLLNGHLKKVDNNL</span></span>
-<span class="topo-line"><span class="topo-unknown">TEAQRFSSLPRRA</span><span class="topo-inside">AVNIEFRDLSYSVPE</span><span class="topo-unknown">GPWWRKK</span><span class="topo-inside">GYKTLLKGISGKFNSGELVAIMGPS</span></span>
-<span class="topo-line"><span class="topo-inside">GAGKSTLMNILAGYRETGMKGAVLINGLPRDLRCFRKVSCYIMQDDMLLPHLTVQEAMMV</span></span>
-<span class="topo-line"><span class="topo-inside">SAHLKLQEKDEGRREMVKEILTALGLLSCANTRTGSLSGGQRKRLAIALELVNNPPVMFF</span></span>
-<span class="topo-line"><span class="topo-inside">DQPTSGLDSASCFQVVSLMKGLAQGGRSIICTIHQPSAKLFELFDQLYVLSQGQCVYRGK</span></span>
-<span class="topo-line"><span class="topo-inside">VCNLVPYLRDLGLNCPTYHNPADFVMEVASGEYGDQNSRLVRAVR</span><span class="topo-unknown">EGMCDSDHKRDLGGD</span></span>
-<span class="topo-line"><span class="topo-unknown">AEVNPFLWHRPSEEDSSSMEGCHSF</span><span class="topo-inside">SAS</span><span class="topo-unknown">CLTQFCILFKRT</span><span class="topo-membrane">FLSIMRDSVLTHLRITSHIG</span></span>
-<span class="topo-line"><span class="topo-membrane">IGLLIGLLYL</span><span class="topo-outside">GIGNEAKKVLSNS</span><span class="topo-membrane">GFLFFSMLFLMFAALMPTVLTF</span><span class="topo-inside">PLEMGVFLREHLNYW</span></span>
-<span class="topo-line"><span class="topo-inside">YSLK</span><span class="topo-membrane">AYYLAKTMADVPFQIMFPVAYCSIVYWMT</span><span class="topo-outside">SQPSDAVRF</span><span class="topo-membrane">VLFAALGTMTSLVAQSLG</span></span>
-<span class="topo-line"><span class="topo-membrane">LLIGAAS</span><span class="topo-inside">TSL</span><span class="topo-membrane">QVATFVGPVTAIPVLLFSGFFVSF</span><span class="topo-outside">DTI</span><span class="topo-unknown">PTYLQWMSYISYVRYGFEGV</span><span class="topo-outside">ILS</span></span>
-<span class="topo-line"><span class="topo-outside">IYGLDREDLHCDIDETCHFQKSEAILRELDVENAKL</span><span class="topo-membrane">YLDFIVLGIFFISLRLIAYFVLRY</span></span>
-<span class="topo-line"><span class="topo-inside">KIRA</span><span class="topo-unknown">ERSSRVDTETSQVAPA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MACLMAAFSVGTAMNASSYSAEMTEPKSVCVSVDEVVSSNMEATETDLLNGHLKKVDNNLTEAQRFSSLPRRA</span><span class="topo-inside">AVNIEFRDLSYSVPE</span><span class="topo-unknown">GPWWRKK</span><span class="topo-inside">GYKTLLKGISGKFNSGELVAIMGPS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">GAGKSTLMNILAGYRETGMKGAVLINGLPRDLRCFRKVSCYIMQDDMLLPHLTVQEAMMVSAHLKLQEKDEGRREMVKEILTALGLLSCANTRTGSLSGGQRKRLAIALELVNNPPVMFF</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">DQPTSGLDSASCFQVVSLMKGLAQGGRSIICTIHQPSAKLFELFDQLYVLSQGQCVYRGKVCNLVPYLRDLGLNCPTYHNPADFVMEVASGEYGDQNSRLVRAVR</span><span class="topo-unknown">EGMCDSDHKRDLGGD</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-unknown">AEVNPFLWHRPSEEDSSSMEGCHSF</span><span class="topo-inside">SAS</span><span class="topo-unknown">CLTQFCILFKRT</span><span class="topo-membrane">FLSIMRDSVLTHLRITSHIGIGLLIGLLYL</span><span class="topo-outside">GIGNEAKKVLSNS</span><span class="topo-membrane">GFLFFSMLFLMFAALMPTVLTF</span><span class="topo-inside">PLEMGVFLREHLNYW</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-inside">YSLK</span><span class="topo-membrane">AYYLAKTMADVPFQIMFPVAYCSIVYWMT</span><span class="topo-outside">SQPSDAVRF</span><span class="topo-membrane">VLFAALGTMTSLVAQSLGLLIGAAS</span><span class="topo-inside">TSL</span><span class="topo-membrane">QVATFVGPVTAIPVLLFSGFFVSF</span><span class="topo-outside">DTI</span><span class="topo-unknown">PTYLQWMSYISYVRYGFEGV</span><span class="topo-outside">ILS</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680</span>
+<span class="topo-line"><span class="topo-outside">IYGLDREDLHCDIDETCHFQKSEAILRELDVENAKL</span><span class="topo-membrane">YLDFIVLGIFFISLRLIAYFVLRY</span><span class="topo-inside">KIRA</span><span class="topo-unknown">ERSSRVDTETSQVAPA</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -409,6 +412,7 @@ ABCG1 is a member of the ATP-binding cassette (ABC) G subfamily of lipid transpo
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -424,18 +428,19 @@ ABCG1 is a member of the ATP-binding cassette (ABC) G subfamily of lipid transpo
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MACLMAAFSVGTAMNASSYSAEMTEPKSVCVSVDEVVSSNMEATETDLLNGHLKKVDNNL</span></span>
-<span class="topo-line"><span class="topo-unknown">TEAQRFSSLPR</span><span class="topo-outside">RAAVNIEFRDLSYSV</span><span class="topo-unknown">PEGPWWRKKGYKT</span><span class="topo-outside">LLKGISGKFNSGELVAIMGPS</span></span>
-<span class="topo-line"><span class="topo-outside">GAGKSTLMNILAGYRETGMKGAVLINGLPRDLRCFRKVSCYIMQDDMLLPHLTVQEAMMV</span></span>
-<span class="topo-line"><span class="topo-outside">SAHLKLQEKDEGRREMVKEILTALGLLSCANTRTGSLSGGQRKRLAIALELVNNPPVMFF</span></span>
-<span class="topo-line"><span class="topo-outside">DQPTSGLDSASCFQVVSLMKGLAQGGRSIICTIHQPSAKLFELFDQLYVLSQGQCVYRGK</span></span>
-<span class="topo-line"><span class="topo-outside">VCNLVPYLRDLGLNCPTYHNPADFVMEVASGEYGDQNSRLVRAVREG</span><span class="topo-unknown">MCDSDHKRDLGGD</span></span>
-<span class="topo-line"><span class="topo-unknown">AEVNPFLWHRPSEEDSSSMEGCHS</span><span class="topo-outside">FSAS</span><span class="topo-unknown">CLTQFCILFKRTFLSI</span><span class="topo-membrane">MRDSVLTHLRITSHIG</span></span>
-<span class="topo-line"><span class="topo-membrane">IGLLIGLLYL</span><span class="topo-inside">GIGNEAKKVLSNS</span><span class="topo-membrane">GFLFFSMLFLMFAALMPTVLTF</span><span class="topo-outside">PLEMGVFLREHLNYW</span></span>
-<span class="topo-line"><span class="topo-outside">YSLKAYY</span><span class="topo-membrane">LAKTMADVPFQIMFPVAYCSIVYWMT</span><span class="topo-inside">SQPSDAVRF</span><span class="topo-membrane">VLFAALGTMTSLVAQSLG</span></span>
-<span class="topo-line"><span class="topo-membrane">LLIGAAS</span><span class="topo-outside">TSLQV</span><span class="topo-membrane">ATFVGPVTAIPVLLFSGFFVSF</span><span class="topo-inside">DTI</span><span class="topo-unknown">PTYLQWMSYISYVRYGFEGV</span><span class="topo-inside">ILS</span></span>
-<span class="topo-line"><span class="topo-inside">IYGLDREDLHCDIDETCHFQKSEAILRELDVENAKL</span><span class="topo-membrane">YLDFIVLGIFFISLRLIAYFV</span><span class="topo-outside">LRY</span></span>
-<span class="topo-line"><span class="topo-outside">KIRAER</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MACLMAAFSVGTAMNASSYSAEMTEPKSVCVSVDEVVSSNMEATETDLLNGHLKKVDNNLTEAQRFSSLPR</span><span class="topo-outside">RAAVNIEFRDLSYSV</span><span class="topo-unknown">PEGPWWRKKGYKT</span><span class="topo-outside">LLKGISGKFNSGELVAIMGPS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">GAGKSTLMNILAGYRETGMKGAVLINGLPRDLRCFRKVSCYIMQDDMLLPHLTVQEAMMVSAHLKLQEKDEGRREMVKEILTALGLLSCANTRTGSLSGGQRKRLAIALELVNNPPVMFF</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">DQPTSGLDSASCFQVVSLMKGLAQGGRSIICTIHQPSAKLFELFDQLYVLSQGQCVYRGKVCNLVPYLRDLGLNCPTYHNPADFVMEVASGEYGDQNSRLVRAVREG</span><span class="topo-unknown">MCDSDHKRDLGGD</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-unknown">AEVNPFLWHRPSEEDSSSMEGCHS</span><span class="topo-outside">FSAS</span><span class="topo-unknown">CLTQFCILFKRTFLSI</span><span class="topo-membrane">MRDSVLTHLRITSHIGIGLLIGLLYL</span><span class="topo-inside">GIGNEAKKVLSNS</span><span class="topo-membrane">GFLFFSMLFLMFAALMPTVLTF</span><span class="topo-outside">PLEMGVFLREHLNYW</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">YSLKAYY</span><span class="topo-membrane">LAKTMADVPFQIMFPVAYCSIVYWMT</span><span class="topo-inside">SQPSDAVRF</span><span class="topo-membrane">VLFAALGTMTSLVAQSLGLLIGAAS</span><span class="topo-outside">TSLQV</span><span class="topo-membrane">ATFVGPVTAIPVLLFSGFFVSF</span><span class="topo-inside">DTI</span><span class="topo-unknown">PTYLQWMSYISYVRYGFEGV</span><span class="topo-inside">ILS</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660      </span>
+<span class="topo-line"><span class="topo-inside">IYGLDREDLHCDIDETCHFQKSEAILRELDVENAKL</span><span class="topo-membrane">YLDFIVLGIFFISLRLIAYFV</span><span class="topo-outside">LRYKIRAER</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -573,6 +578,7 @@ ABCG1 is a member of the ATP-binding cassette (ABC) G subfamily of lipid transpo
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -588,18 +594,19 @@ ABCG1 is a member of the ATP-binding cassette (ABC) G subfamily of lipid transpo
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MACLMAAFSVGTAMNASSYSAEMTEPKSVCVSVDEVVSSNMEATETDLLNGHLKKVDNNL</span></span>
-<span class="topo-line"><span class="topo-unknown">TEAQRFSSLPR</span><span class="topo-outside">RAAVNIEFRDLSYSV</span><span class="topo-unknown">PEGPWWRKKGYKT</span><span class="topo-outside">LLKGISGKFNSGELVAIMGPS</span></span>
-<span class="topo-line"><span class="topo-outside">GAGKSTLMNILAGYRETGMKGAVLINGLPRDLRCFRKVSCYIMQDDMLLPHLTVQEAMMV</span></span>
-<span class="topo-line"><span class="topo-outside">SAHLKLQEKDEGRREMVKEILTALGLLSCANTRTGSLSGGQRKRLAIALELVNNPPVMFF</span></span>
-<span class="topo-line"><span class="topo-outside">DQPTSGLDSASCFQVVSLMKGLAQGGRSIICTIHQPSAKLFELFDQLYVLSQGQCVYRGK</span></span>
-<span class="topo-line"><span class="topo-outside">VCNLVPYLRDLGLNCPTYHNPADFVMEVASGEYGDQNSRLVRAVREG</span><span class="topo-unknown">MCDSDHKRDLGGD</span></span>
-<span class="topo-line"><span class="topo-unknown">AEVNPFLWHRPSEEDSSSMEGCHS</span><span class="topo-outside">FSAS</span><span class="topo-unknown">CLTQFCILFKRTFLSI</span><span class="topo-membrane">MRDSVLTHLRITSHIG</span></span>
-<span class="topo-line"><span class="topo-membrane">IGLLIGLLYL</span><span class="topo-inside">GIGNEAKKVLSNS</span><span class="topo-membrane">GFLFFSMLFLMFAALMPTVLTF</span><span class="topo-outside">PLEMGVFLREHLNYW</span></span>
-<span class="topo-line"><span class="topo-outside">YSLKAYY</span><span class="topo-membrane">LAKTMADVPFQIMFPVAYCSIVYWMT</span><span class="topo-inside">SQPSDAVRF</span><span class="topo-membrane">VLFAALGTMTSLVAQSLG</span></span>
-<span class="topo-line"><span class="topo-membrane">LLIGAAS</span><span class="topo-outside">TSLQV</span><span class="topo-membrane">ATFVGPVTAIPVLLFSGFFVSF</span><span class="topo-inside">DTI</span><span class="topo-unknown">PTYLQWMSYISYVRYGFEGV</span><span class="topo-inside">ILS</span></span>
-<span class="topo-line"><span class="topo-inside">IYGLDREDLHCDIDETCHFQKSEAILRELDVENAKL</span><span class="topo-membrane">YLDFIVLGIFFISLRLIAYFV</span><span class="topo-outside">LRY</span></span>
-<span class="topo-line"><span class="topo-outside">KIRAER</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MACLMAAFSVGTAMNASSYSAEMTEPKSVCVSVDEVVSSNMEATETDLLNGHLKKVDNNLTEAQRFSSLPR</span><span class="topo-outside">RAAVNIEFRDLSYSV</span><span class="topo-unknown">PEGPWWRKKGYKT</span><span class="topo-outside">LLKGISGKFNSGELVAIMGPS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">GAGKSTLMNILAGYRETGMKGAVLINGLPRDLRCFRKVSCYIMQDDMLLPHLTVQEAMMVSAHLKLQEKDEGRREMVKEILTALGLLSCANTRTGSLSGGQRKRLAIALELVNNPPVMFF</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">DQPTSGLDSASCFQVVSLMKGLAQGGRSIICTIHQPSAKLFELFDQLYVLSQGQCVYRGKVCNLVPYLRDLGLNCPTYHNPADFVMEVASGEYGDQNSRLVRAVREG</span><span class="topo-unknown">MCDSDHKRDLGGD</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-unknown">AEVNPFLWHRPSEEDSSSMEGCHS</span><span class="topo-outside">FSAS</span><span class="topo-unknown">CLTQFCILFKRTFLSI</span><span class="topo-membrane">MRDSVLTHLRITSHIGIGLLIGLLYL</span><span class="topo-inside">GIGNEAKKVLSNS</span><span class="topo-membrane">GFLFFSMLFLMFAALMPTVLTF</span><span class="topo-outside">PLEMGVFLREHLNYW</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">YSLKAYY</span><span class="topo-membrane">LAKTMADVPFQIMFPVAYCSIVYWMT</span><span class="topo-inside">SQPSDAVRF</span><span class="topo-membrane">VLFAALGTMTSLVAQSLGLLIGAAS</span><span class="topo-outside">TSLQV</span><span class="topo-membrane">ATFVGPVTAIPVLLFSGFFVSF</span><span class="topo-inside">DTI</span><span class="topo-unknown">PTYLQWMSYISYVRYGFEGV</span><span class="topo-inside">ILS</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660      </span>
+<span class="topo-line"><span class="topo-inside">IYGLDREDLHCDIDETCHFQKSEAILRELDVENAKL</span><span class="topo-membrane">YLDFIVLGIFFISLRLIAYFV</span><span class="topo-outside">LRYKIRAER</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -737,6 +744,7 @@ ABCG1 is a member of the ATP-binding cassette (ABC) G subfamily of lipid transpo
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -752,18 +760,19 @@ ABCG1 is a member of the ATP-binding cassette (ABC) G subfamily of lipid transpo
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MACLMAAFSVGTAMNASSYSAEMTEPKSVCVSVDEVVSSNMEATETDLLNGHLKKVDNNL</span></span>
-<span class="topo-line"><span class="topo-unknown">TEAQRFSSLPR</span><span class="topo-outside">RAAVNIEFRDLSYSVPE</span><span class="topo-unknown">GPWWRKKGY</span><span class="topo-outside">KTLLKGISGKFNSGELVAIMGPS</span></span>
-<span class="topo-line"><span class="topo-outside">GAGKSTLMNILAGYRETGMKGAVLINGLPRDLRCFRKVSCYIMQDDMLLPHLTVQEAMMV</span></span>
-<span class="topo-line"><span class="topo-outside">SAHLKLQEKDEGRREMVKEILTALGLLSCANTRTGSLSGGQRKRLAIALELVNNPPVMFF</span></span>
-<span class="topo-line"><span class="topo-outside">DQPTSGLDSASCFQVVSLMKGLAQGGRSIICTIHQPSAKLFELFDQLYVLSQGQCVYRGK</span></span>
-<span class="topo-line"><span class="topo-outside">VCNLVPYLRDLGLNCPTYHNPADFVMEVASGEYGDQNSRLVRAVREG</span><span class="topo-unknown">MCDSDHKRDLGGD</span></span>
-<span class="topo-line"><span class="topo-unknown">AEVNPFLWHRPSEEDSSSMEGCHSF</span><span class="topo-outside">SASCL</span><span class="topo-unknown">TQFCILFKRTFLSIMR</span><span class="topo-outside">DSV</span><span class="topo-membrane">LTHLRITSHIG</span></span>
-<span class="topo-line"><span class="topo-membrane">IGLLIGLLYL</span><span class="topo-inside">GIGNEAKKVLSNSG</span><span class="topo-membrane">FLFFSMLFLMFAALMPTVL</span><span class="topo-outside">TFPLEMGVFLREHLNYW</span></span>
-<span class="topo-line"><span class="topo-outside">YS</span><span class="topo-unknown">LKAYYLAKT</span><span class="topo-membrane">MADVPFQIMFPVAYCSIVYWMT</span><span class="topo-inside">SQPSDA</span><span class="topo-membrane">VRFVLFAALGTMTSLVAQSLG</span></span>
-<span class="topo-line"><span class="topo-membrane">LLIGAAS</span><span class="topo-outside">TSLQ</span><span class="topo-membrane">VATFVGPVTAIPVLLFSGFFV</span><span class="topo-inside">SFDTI</span><span class="topo-unknown">PTYLQWMSYISYVRYGFEGV</span><span class="topo-inside">ILS</span></span>
-<span class="topo-line"><span class="topo-inside">IYGLDREDLHCDIDETCHFQKSEAILRELDVENAKL</span><span class="topo-membrane">YLDFIVLGIFFISLRLIAYFV</span><span class="topo-outside">LRY</span></span>
-<span class="topo-line"><span class="topo-outside">KIRAER</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MACLMAAFSVGTAMNASSYSAEMTEPKSVCVSVDEVVSSNMEATETDLLNGHLKKVDNNLTEAQRFSSLPR</span><span class="topo-outside">RAAVNIEFRDLSYSVPE</span><span class="topo-unknown">GPWWRKKGY</span><span class="topo-outside">KTLLKGISGKFNSGELVAIMGPS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">GAGKSTLMNILAGYRETGMKGAVLINGLPRDLRCFRKVSCYIMQDDMLLPHLTVQEAMMVSAHLKLQEKDEGRREMVKEILTALGLLSCANTRTGSLSGGQRKRLAIALELVNNPPVMFF</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">DQPTSGLDSASCFQVVSLMKGLAQGGRSIICTIHQPSAKLFELFDQLYVLSQGQCVYRGKVCNLVPYLRDLGLNCPTYHNPADFVMEVASGEYGDQNSRLVRAVREG</span><span class="topo-unknown">MCDSDHKRDLGGD</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-unknown">AEVNPFLWHRPSEEDSSSMEGCHSF</span><span class="topo-outside">SASCL</span><span class="topo-unknown">TQFCILFKRTFLSIMR</span><span class="topo-outside">DSV</span><span class="topo-membrane">LTHLRITSHIGIGLLIGLLYL</span><span class="topo-inside">GIGNEAKKVLSNSG</span><span class="topo-membrane">FLFFSMLFLMFAALMPTVL</span><span class="topo-outside">TFPLEMGVFLREHLNYW</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">YS</span><span class="topo-unknown">LKAYYLAKT</span><span class="topo-membrane">MADVPFQIMFPVAYCSIVYWMT</span><span class="topo-inside">SQPSDA</span><span class="topo-membrane">VRFVLFAALGTMTSLVAQSLGLLIGAAS</span><span class="topo-outside">TSLQ</span><span class="topo-membrane">VATFVGPVTAIPVLLFSGFFV</span><span class="topo-inside">SFDTI</span><span class="topo-unknown">PTYLQWMSYISYVRYGFEGV</span><span class="topo-inside">ILS</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660      </span>
+<span class="topo-line"><span class="topo-inside">IYGLDREDLHCDIDETCHFQKSEAILRELDVENAKL</span><span class="topo-membrane">YLDFIVLGIFFISLRLIAYFV</span><span class="topo-outside">LRYKIRAER</span></span>
+<details class="topo-details"><summary>Topology coordinates (20 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -915,6 +924,7 @@ ABCG1 is a member of the ATP-binding cassette (ABC) G subfamily of lipid transpo
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -930,18 +940,19 @@ ABCG1 is a member of the ATP-binding cassette (ABC) G subfamily of lipid transpo
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MACLMAAFSVGTAMNASSYSAEMTEPKSVCVSVDEVVSSNMEATETDLLNGHLKKVDNNL</span></span>
-<span class="topo-line"><span class="topo-unknown">TEAQRFSSLPR</span><span class="topo-outside">RAAVNIEFRDLSYSVPE</span><span class="topo-unknown">GPWWRKKGY</span><span class="topo-outside">KTLLKGISGKFNSGELVAIMGPS</span></span>
-<span class="topo-line"><span class="topo-outside">GAGKSTLMNILAGYRETGMKGAVLINGLPRDLRCFRKVSCYIMQDDMLLPHLTVQEAMMV</span></span>
-<span class="topo-line"><span class="topo-outside">SAHLKLQEKDEGRREMVKEILTALGLLSCANTRTGSLSGGQRKRLAIALELVNNPPVMFF</span></span>
-<span class="topo-line"><span class="topo-outside">DQPTSGLDSASCFQVVSLMKGLAQGGRSIICTIHQPSAKLFELFDQLYVLSQGQCVYRGK</span></span>
-<span class="topo-line"><span class="topo-outside">VCNLVPYLRDLGLNCPTYHNPADFVMEVASGEYGDQNSRLVRAVREG</span><span class="topo-unknown">MCDSDHKRDLGGD</span></span>
-<span class="topo-line"><span class="topo-unknown">AEVNPFLWHRPSEEDSSSMEGCHSF</span><span class="topo-outside">SASCL</span><span class="topo-unknown">TQFCILFKRTFLSIMR</span><span class="topo-outside">DSV</span><span class="topo-membrane">LTHLRITSHIG</span></span>
-<span class="topo-line"><span class="topo-membrane">IGLLIGLLYL</span><span class="topo-inside">GIGNEAKKVLSNSG</span><span class="topo-membrane">FLFFSMLFLMFAALMPTVL</span><span class="topo-outside">TFPLEMGVFLREHLNYW</span></span>
-<span class="topo-line"><span class="topo-outside">YS</span><span class="topo-unknown">LKAYYLAKT</span><span class="topo-membrane">MADVPFQIMFPVAYCSIVYWMT</span><span class="topo-inside">SQPSDA</span><span class="topo-membrane">VRFVLFAALGTMTSLVAQSLG</span></span>
-<span class="topo-line"><span class="topo-membrane">LLIG</span><span class="topo-outside">AASTSLQV</span><span class="topo-membrane">ATFVGPVTAIPVLLFSGFFV</span><span class="topo-inside">SFDTI</span><span class="topo-unknown">PTYLQWMSYISYVRYGFEGVI</span><span class="topo-inside">LS</span></span>
-<span class="topo-line"><span class="topo-inside">IYGLDREDLHCDIDETCHFQKSEAILRELDVENAK</span><span class="topo-membrane">LYLDFIVLGIFFISLRLIAYFV</span><span class="topo-outside">LRY</span></span>
-<span class="topo-line"><span class="topo-outside">KIRAER</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MACLMAAFSVGTAMNASSYSAEMTEPKSVCVSVDEVVSSNMEATETDLLNGHLKKVDNNLTEAQRFSSLPR</span><span class="topo-outside">RAAVNIEFRDLSYSVPE</span><span class="topo-unknown">GPWWRKKGY</span><span class="topo-outside">KTLLKGISGKFNSGELVAIMGPS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">GAGKSTLMNILAGYRETGMKGAVLINGLPRDLRCFRKVSCYIMQDDMLLPHLTVQEAMMVSAHLKLQEKDEGRREMVKEILTALGLLSCANTRTGSLSGGQRKRLAIALELVNNPPVMFF</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">DQPTSGLDSASCFQVVSLMKGLAQGGRSIICTIHQPSAKLFELFDQLYVLSQGQCVYRGKVCNLVPYLRDLGLNCPTYHNPADFVMEVASGEYGDQNSRLVRAVREG</span><span class="topo-unknown">MCDSDHKRDLGGD</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-unknown">AEVNPFLWHRPSEEDSSSMEGCHSF</span><span class="topo-outside">SASCL</span><span class="topo-unknown">TQFCILFKRTFLSIMR</span><span class="topo-outside">DSV</span><span class="topo-membrane">LTHLRITSHIGIGLLIGLLYL</span><span class="topo-inside">GIGNEAKKVLSNSG</span><span class="topo-membrane">FLFFSMLFLMFAALMPTVL</span><span class="topo-outside">TFPLEMGVFLREHLNYW</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">YS</span><span class="topo-unknown">LKAYYLAKT</span><span class="topo-membrane">MADVPFQIMFPVAYCSIVYWMT</span><span class="topo-inside">SQPSDA</span><span class="topo-membrane">VRFVLFAALGTMTSLVAQSLGLLIG</span><span class="topo-outside">AASTSLQV</span><span class="topo-membrane">ATFVGPVTAIPVLLFSGFFV</span><span class="topo-inside">SFDTI</span><span class="topo-unknown">PTYLQWMSYISYVRYGFEGVI</span><span class="topo-inside">LS</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660      </span>
+<span class="topo-line"><span class="topo-inside">IYGLDREDLHCDIDETCHFQKSEAILRELDVENAK</span><span class="topo-membrane">LYLDFIVLGIFFISLRLIAYFV</span><span class="topo-outside">LRYKIRAER</span></span>
+<details class="topo-details"><summary>Topology coordinates (20 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1093,6 +1104,7 @@ ABCG1 is a member of the ATP-binding cassette (ABC) G subfamily of lipid transpo
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

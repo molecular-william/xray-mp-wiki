@@ -77,8 +77,9 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">AAVALLLGSALHWRAA</span><span class="topo-membrane">GAATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETA</span></span>
-<span class="topo-line"><span class="topo-unknown">TTVGYG</span><span class="topo-outside">DLYPVT</span><span class="topo-membrane">LWGRCVAVVVMVAGITSFGLVT</span><span class="topo-inside">AALATWFVGREQERRGH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110 </span>
+<span class="topo-line"><span class="topo-inside">AAVALLLGSALHWRAA</span><span class="topo-membrane">GAATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-outside">DLYPVT</span><span class="topo-membrane">LWGRCVAVVVMVAGITSFGLVT</span><span class="topo-inside">AALATWFVGREQERRGH</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -139,6 +140,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -154,8 +156,9 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">AAVALLLGSALHWRAA</span><span class="topo-membrane">GAATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETA</span></span>
-<span class="topo-line"><span class="topo-unknown">TTVGYG</span><span class="topo-outside">DLYPVT</span><span class="topo-membrane">LWGRCVAVVVMVAGITSFGLVT</span><span class="topo-inside">AALATWFVGREQERRGH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110 </span>
+<span class="topo-line"><span class="topo-inside">AAVALLLGSALHWRAA</span><span class="topo-membrane">GAATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-outside">DLYPVT</span><span class="topo-membrane">LWGRCVAVVVMVAGITSFGLVT</span><span class="topo-inside">AALATWFVGREQERRGH</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -216,6 +219,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -231,8 +235,9 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">AAVALLLGSALHWRAA</span><span class="topo-membrane">GAATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETA</span></span>
-<span class="topo-line"><span class="topo-unknown">TTVGYG</span><span class="topo-outside">DLYPVT</span><span class="topo-membrane">LWGRCVAVVVMVAGITSFGLVT</span><span class="topo-inside">AALATWFVGREQERRGH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110 </span>
+<span class="topo-line"><span class="topo-inside">AAVALLLGSALHWRAA</span><span class="topo-membrane">GAATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-outside">DLYPVT</span><span class="topo-membrane">LWGRCVAVVVMVAGITSFGLVT</span><span class="topo-inside">AALATWFVGREQERRGH</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -293,6 +298,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -308,8 +314,9 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">AAVALLLGSALHWRAA</span><span class="topo-membrane">GAATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETA</span></span>
-<span class="topo-line"><span class="topo-unknown">TTVGYG</span><span class="topo-outside">DLYPVT</span><span class="topo-membrane">LWGRCVAVVVMVAGITSFGLVT</span><span class="topo-inside">AALATWFVGREQERRGH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110 </span>
+<span class="topo-line"><span class="topo-inside">AAVALLLGSALHWRAA</span><span class="topo-membrane">GAATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-outside">DLYPVT</span><span class="topo-membrane">LWGRCVAVVVMVAGITSFGLVT</span><span class="topo-inside">AALATWFVGREQERRGH</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -370,6 +377,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -385,9 +393,11 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MPPMLSGLLARLVKLLLGRHGS</span><span class="topo-outside">ALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLI</span></span>
-<span class="topo-line"><span class="topo-inside">TY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-inside">DLYPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTAALA</span><span class="topo-outside">TWFVGREQE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MPPMLSGLLARLVKLLLGRHGS</span><span class="topo-outside">ALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-inside">DLYPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTAALA</span><span class="topo-outside">TWFVGREQE</span></span>
+<span class="topo-ruler">    </span>
 <span class="topo-line"><span class="topo-outside">RRGH</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -455,6 +465,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -470,9 +481,11 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MPPMLSGLLARLVKLLLGRHGS</span><span class="topo-outside">ALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLI</span></span>
-<span class="topo-line"><span class="topo-inside">TY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-inside">DLYPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTAALA</span><span class="topo-outside">TWFVGREQE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MPPMLSGLLARLVKLLLGRHGS</span><span class="topo-outside">ALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-inside">DLYPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTAALA</span><span class="topo-outside">TWFVGREQE</span></span>
+<span class="topo-ruler">    </span>
 <span class="topo-line"><span class="topo-outside">RRGH</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -540,6 +553,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -555,9 +569,11 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MPPMLSGLLARLVKLLLGRHGS</span><span class="topo-outside">ALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLI</span></span>
-<span class="topo-line"><span class="topo-inside">TY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-inside">DLYPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTAALA</span><span class="topo-outside">TWFVGREQE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MPPMLSGLLARLVKLLLGRHGS</span><span class="topo-outside">ALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-inside">DLYPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTAALA</span><span class="topo-outside">TWFVGREQE</span></span>
+<span class="topo-ruler">    </span>
 <span class="topo-line"><span class="topo-outside">RRGH</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -625,6 +641,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -640,9 +657,11 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MPPMLSGLLARLVKLLLGRHGS</span><span class="topo-outside">ALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLI</span></span>
-<span class="topo-line"><span class="topo-inside">TY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-inside">DLYPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTAALA</span><span class="topo-outside">TWFVGREQE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MPPMLSGLLARLVKLLLGRHGS</span><span class="topo-outside">ALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-inside">DLYPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTAALA</span><span class="topo-outside">TWFVGREQE</span></span>
+<span class="topo-ruler">    </span>
 <span class="topo-line"><span class="topo-outside">RRGH</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -710,6 +729,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -833,8 +853,9 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">ALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGY</span><span class="topo-inside">GDLY</span></span>
-<span class="topo-line"><span class="topo-inside">PVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTAALA</span><span class="topo-outside">TWFVGREQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       </span>
+<span class="topo-line"><span class="topo-outside">ALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGY</span><span class="topo-inside">GDLYPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTAALA</span><span class="topo-outside">TWFVGREQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -895,6 +916,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -910,8 +932,9 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">ALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGY</span><span class="topo-inside">GDLY</span></span>
-<span class="topo-line"><span class="topo-inside">PVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTAALA</span><span class="topo-outside">TWFVGREQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       </span>
+<span class="topo-line"><span class="topo-outside">ALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGY</span><span class="topo-inside">GDLYPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTAALA</span><span class="topo-outside">TWFVGREQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -972,6 +995,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -987,8 +1011,9 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">ALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITYPRA</span><span class="topo-unknown">LWWSVETATTVGY</span><span class="topo-inside">GDLY</span></span>
-<span class="topo-line"><span class="topo-inside">PVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTAALA</span><span class="topo-outside">TWFVGREQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       </span>
+<span class="topo-line"><span class="topo-outside">ALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITYPRA</span><span class="topo-unknown">LWWSVETATTVGY</span><span class="topo-inside">GDLYPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTAALA</span><span class="topo-outside">TWFVGREQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1049,6 +1074,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1064,8 +1090,9 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">ALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAV</span><span class="topo-inside">LAERGAPGAQLITYPRA</span><span class="topo-unknown">LWWSVETATTVGY</span><span class="topo-inside">GDLY</span></span>
-<span class="topo-line"><span class="topo-inside">PVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTAALA</span><span class="topo-outside">TWFVGREQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       </span>
+<span class="topo-line"><span class="topo-outside">ALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAV</span><span class="topo-inside">LAERGAPGAQLITYPRA</span><span class="topo-unknown">LWWSVETATTVGY</span><span class="topo-inside">GDLYPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTAALA</span><span class="topo-outside">TWFVGREQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1126,6 +1153,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1262,8 +1290,9 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">AAG</span><span class="topo-membrane">AATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-outside">DLYPVTL</span><span class="topo-membrane">W</span></span>
-<span class="topo-line"><span class="topo-membrane">GRLVAVVVMVAGITSFGLVTAALA</span><span class="topo-inside">T</span><span class="topo-unknown">WFVGREQ</span><span class="topo-inside">E</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90   </span>
+<span class="topo-line"><span class="topo-inside">AAG</span><span class="topo-membrane">AATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-outside">DLYPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVTAALA</span><span class="topo-inside">T</span><span class="topo-unknown">WFVGREQ</span><span class="topo-inside">E</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1338,6 +1367,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1353,8 +1383,9 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">AAG</span><span class="topo-membrane">AATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-outside">DLYPVTL</span><span class="topo-membrane">W</span></span>
-<span class="topo-line"><span class="topo-membrane">GRLVAVVVMVAGITSFGLVTAALA</span><span class="topo-inside">T</span><span class="topo-unknown">WFVGREQ</span><span class="topo-inside">E</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90   </span>
+<span class="topo-line"><span class="topo-inside">AAG</span><span class="topo-membrane">AATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-outside">DLYPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVTAALA</span><span class="topo-inside">T</span><span class="topo-unknown">WFVGREQ</span><span class="topo-inside">E</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1429,6 +1460,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1444,8 +1476,9 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">AAG</span><span class="topo-membrane">AATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-outside">DLYPVTL</span><span class="topo-membrane">W</span></span>
-<span class="topo-line"><span class="topo-membrane">GRLVAVVVMVAGITSFGLVTAALA</span><span class="topo-inside">T</span><span class="topo-unknown">WFVGREQ</span><span class="topo-inside">E</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90   </span>
+<span class="topo-line"><span class="topo-inside">AAG</span><span class="topo-membrane">AATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-outside">DLYPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVTAALA</span><span class="topo-inside">T</span><span class="topo-unknown">WFVGREQ</span><span class="topo-inside">E</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1520,6 +1553,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1535,8 +1569,9 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">AAG</span><span class="topo-membrane">AATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-outside">DLYPVTL</span><span class="topo-membrane">W</span></span>
-<span class="topo-line"><span class="topo-membrane">GRLVAVVVMVAGITSFGLVTAALA</span><span class="topo-inside">T</span><span class="topo-unknown">WFVGREQ</span><span class="topo-inside">E</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90   </span>
+<span class="topo-line"><span class="topo-inside">AAG</span><span class="topo-membrane">AATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-outside">DLYPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVTAALA</span><span class="topo-inside">T</span><span class="topo-unknown">WFVGREQ</span><span class="topo-inside">E</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1611,6 +1646,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1626,8 +1662,9 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">AAG</span><span class="topo-membrane">AATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-outside">DLYPVTL</span><span class="topo-membrane">W</span></span>
-<span class="topo-line"><span class="topo-membrane">GRLVAVVVMVAGITSFGLVTA</span><span class="topo-inside">A</span><span class="topo-unknown">LATWFVGREQ</span><span class="topo-inside">E</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90   </span>
+<span class="topo-line"><span class="topo-inside">AAG</span><span class="topo-membrane">AATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-outside">DLYPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVTA</span><span class="topo-inside">A</span><span class="topo-unknown">LATWFVGREQ</span><span class="topo-inside">E</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1702,6 +1739,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1717,8 +1755,9 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">AAG</span><span class="topo-membrane">AATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-outside">DLYPVTL</span><span class="topo-membrane">W</span></span>
-<span class="topo-line"><span class="topo-membrane">GRLVAVVVMVAGITSFGLVTA</span><span class="topo-inside">A</span><span class="topo-unknown">LATWFVGREQ</span><span class="topo-inside">E</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90   </span>
+<span class="topo-line"><span class="topo-inside">AAG</span><span class="topo-membrane">AATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-outside">DLYPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVTA</span><span class="topo-inside">A</span><span class="topo-unknown">LATWFVGREQ</span><span class="topo-inside">E</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1793,6 +1832,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1808,8 +1848,9 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">AAG</span><span class="topo-membrane">AATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-outside">DLYPVTL</span><span class="topo-membrane">W</span></span>
-<span class="topo-line"><span class="topo-membrane">GRLVAVVVMVAGITSFGLVTA</span><span class="topo-inside">A</span><span class="topo-unknown">LATWFVGREQ</span><span class="topo-inside">E</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90   </span>
+<span class="topo-line"><span class="topo-inside">AAG</span><span class="topo-membrane">AATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-outside">DLYPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVTA</span><span class="topo-inside">A</span><span class="topo-unknown">LATWFVGREQ</span><span class="topo-inside">E</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1884,6 +1925,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1899,8 +1941,9 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">AAG</span><span class="topo-membrane">AATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-outside">DLYPVTL</span><span class="topo-membrane">W</span></span>
-<span class="topo-line"><span class="topo-membrane">GRLVAVVVMVAGITSFGLVTA</span><span class="topo-inside">A</span><span class="topo-unknown">LATWFVGREQ</span><span class="topo-inside">E</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90   </span>
+<span class="topo-line"><span class="topo-inside">AAG</span><span class="topo-membrane">AATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-outside">DLYPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVTA</span><span class="topo-inside">A</span><span class="topo-unknown">LATWFVGREQ</span><span class="topo-inside">E</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1975,6 +2018,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1990,8 +2034,9 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">AAG</span><span class="topo-membrane">AATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-inside">DLYPVTL</span><span class="topo-membrane">W</span></span>
-<span class="topo-line"><span class="topo-membrane">GRLVAVVVMVAGITSFGLVTA</span><span class="topo-unknown">ALATWFVGREQ</span><span class="topo-outside">E</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90   </span>
+<span class="topo-line"><span class="topo-outside">AAG</span><span class="topo-membrane">AATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-inside">DLYPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVTA</span><span class="topo-unknown">ALATWFVGREQ</span><span class="topo-outside">E</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2059,6 +2104,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2074,8 +2120,9 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">AAG</span><span class="topo-membrane">AATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-inside">DLYPVTL</span><span class="topo-membrane">W</span></span>
-<span class="topo-line"><span class="topo-membrane">GRLVAVVVMVAGITSFGLVTA</span><span class="topo-unknown">ALATWFVGREQ</span><span class="topo-outside">E</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90   </span>
+<span class="topo-line"><span class="topo-outside">AAG</span><span class="topo-membrane">AATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-inside">DLYPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVTA</span><span class="topo-unknown">ALATWFVGREQ</span><span class="topo-outside">E</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2143,6 +2190,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2158,8 +2206,9 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">AAG</span><span class="topo-membrane">AATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-inside">DLYPVTL</span><span class="topo-membrane">W</span></span>
-<span class="topo-line"><span class="topo-membrane">GRLVAVVVMVAGITSFGLVTA</span><span class="topo-unknown">ALATWFVGREQ</span><span class="topo-outside">E</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90   </span>
+<span class="topo-line"><span class="topo-outside">AAG</span><span class="topo-membrane">AATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-inside">DLYPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVTA</span><span class="topo-unknown">ALATWFVGREQ</span><span class="topo-outside">E</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2227,6 +2276,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2242,8 +2292,9 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">AAG</span><span class="topo-membrane">AATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-inside">DLYPVTL</span><span class="topo-membrane">W</span></span>
-<span class="topo-line"><span class="topo-membrane">GRLVAVVVMVAGITSFGLVTA</span><span class="topo-unknown">ALATWFVGREQ</span><span class="topo-outside">E</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90   </span>
+<span class="topo-line"><span class="topo-outside">AAG</span><span class="topo-membrane">AATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-inside">DLYPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVTA</span><span class="topo-unknown">ALATWFVGREQ</span><span class="topo-outside">E</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2311,6 +2362,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2326,8 +2378,9 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">AAG</span><span class="topo-membrane">AATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-outside">DLYPVTL</span><span class="topo-membrane">W</span></span>
-<span class="topo-line"><span class="topo-membrane">GRLVAVVVMVAGITSFGLVTAALA</span><span class="topo-unknown">TWFVGREQ</span><span class="topo-inside">E</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90   </span>
+<span class="topo-line"><span class="topo-inside">AAG</span><span class="topo-membrane">AATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-outside">DLYPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVTAALA</span><span class="topo-unknown">TWFVGREQ</span><span class="topo-inside">E</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2395,6 +2448,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2410,8 +2464,9 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">AAG</span><span class="topo-membrane">AATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-outside">DLYPVTL</span><span class="topo-membrane">W</span></span>
-<span class="topo-line"><span class="topo-membrane">GRLVAVVVMVAGITSFGLVTAALA</span><span class="topo-unknown">TWFVGREQ</span><span class="topo-inside">E</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90   </span>
+<span class="topo-line"><span class="topo-inside">AAG</span><span class="topo-membrane">AATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-outside">DLYPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVTAALA</span><span class="topo-unknown">TWFVGREQ</span><span class="topo-inside">E</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2479,6 +2534,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2494,8 +2550,9 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">AAG</span><span class="topo-membrane">AATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-outside">DLYPVTL</span><span class="topo-membrane">W</span></span>
-<span class="topo-line"><span class="topo-membrane">GRLVAVVVMVAGITSFGLVTAALA</span><span class="topo-unknown">TWFVGREQ</span><span class="topo-inside">E</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90   </span>
+<span class="topo-line"><span class="topo-inside">AAG</span><span class="topo-membrane">AATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-outside">DLYPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVTAALA</span><span class="topo-unknown">TWFVGREQ</span><span class="topo-inside">E</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2563,6 +2620,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2578,8 +2636,9 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">AAG</span><span class="topo-membrane">AATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-outside">DLYPVTL</span><span class="topo-membrane">W</span></span>
-<span class="topo-line"><span class="topo-membrane">GRLVAVVVMVAGITSFGLVTAALA</span><span class="topo-unknown">TWFVGREQ</span><span class="topo-inside">E</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90   </span>
+<span class="topo-line"><span class="topo-inside">AAG</span><span class="topo-membrane">AATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-outside">DLYPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVTAALA</span><span class="topo-unknown">TWFVGREQ</span><span class="topo-inside">E</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2647,6 +2706,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2662,8 +2722,9 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">AAG</span><span class="topo-membrane">AATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-outside">DLYPVTL</span><span class="topo-membrane">W</span></span>
-<span class="topo-line"><span class="topo-membrane">GRLVAVVVMVAGITSFGLVTA</span><span class="topo-unknown">ALATWFVGREQ</span><span class="topo-inside">E</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90   </span>
+<span class="topo-line"><span class="topo-inside">AAG</span><span class="topo-membrane">AATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-outside">DLYPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVTA</span><span class="topo-unknown">ALATWFVGREQ</span><span class="topo-inside">E</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2731,6 +2792,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2746,8 +2808,9 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">AAG</span><span class="topo-membrane">AATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-outside">DLYPVTL</span><span class="topo-membrane">W</span></span>
-<span class="topo-line"><span class="topo-membrane">GRLVAVVVMVAGITSFGLVTA</span><span class="topo-unknown">ALATWFVGREQ</span><span class="topo-inside">E</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90   </span>
+<span class="topo-line"><span class="topo-inside">AAG</span><span class="topo-membrane">AATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-outside">DLYPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVTA</span><span class="topo-unknown">ALATWFVGREQ</span><span class="topo-inside">E</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2815,6 +2878,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2830,8 +2894,9 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">AAG</span><span class="topo-membrane">AATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-outside">DLYPVTL</span><span class="topo-membrane">W</span></span>
-<span class="topo-line"><span class="topo-membrane">GRLVAVVVMVAGITSFGLVTA</span><span class="topo-unknown">ALATWFVGREQ</span><span class="topo-inside">E</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90   </span>
+<span class="topo-line"><span class="topo-inside">AAG</span><span class="topo-membrane">AATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-outside">DLYPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVTA</span><span class="topo-unknown">ALATWFVGREQ</span><span class="topo-inside">E</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2899,6 +2964,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2914,8 +2980,9 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">AAG</span><span class="topo-membrane">AATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-outside">DLYPVTL</span><span class="topo-membrane">W</span></span>
-<span class="topo-line"><span class="topo-membrane">GRLVAVVVMVAGITSFGLVTA</span><span class="topo-unknown">ALATWFVGREQ</span><span class="topo-inside">E</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90   </span>
+<span class="topo-line"><span class="topo-inside">AAG</span><span class="topo-membrane">AATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-outside">DLYPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVTA</span><span class="topo-unknown">ALATWFVGREQ</span><span class="topo-inside">E</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2983,6 +3050,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3055,8 +3123,9 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">SALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGY</span><span class="topo-inside">GDL</span></span>
-<span class="topo-line"><span class="topo-inside">CPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVTAALA</span><span class="topo-outside">TWFVGREQERRGH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100   </span>
+<span class="topo-line"><span class="topo-outside">SALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGY</span><span class="topo-inside">GDLCPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVTAALA</span><span class="topo-outside">TWFVGREQERRGH</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3117,6 +3186,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3132,8 +3202,9 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">SALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGY</span><span class="topo-inside">GDL</span></span>
-<span class="topo-line"><span class="topo-inside">CPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVTAALA</span><span class="topo-outside">TWFVGREQERRGH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100   </span>
+<span class="topo-line"><span class="topo-outside">SALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGY</span><span class="topo-inside">GDLCPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVTAALA</span><span class="topo-outside">TWFVGREQERRGH</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3194,6 +3265,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3209,8 +3281,9 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">SALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGY</span><span class="topo-inside">GDL</span></span>
-<span class="topo-line"><span class="topo-inside">CPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVTAALA</span><span class="topo-outside">TWFVGREQERRGH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100   </span>
+<span class="topo-line"><span class="topo-outside">SALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGY</span><span class="topo-inside">GDLCPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVTAALA</span><span class="topo-outside">TWFVGREQERRGH</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3271,6 +3344,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3286,8 +3360,9 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">SALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGY</span><span class="topo-inside">GDL</span></span>
-<span class="topo-line"><span class="topo-inside">CPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVTAALA</span><span class="topo-outside">TWFVGREQERRGH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100   </span>
+<span class="topo-line"><span class="topo-outside">SALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGY</span><span class="topo-inside">GDLCPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVTAALA</span><span class="topo-outside">TWFVGREQERRGH</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3348,6 +3423,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3363,8 +3439,9 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">SALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGY</span><span class="topo-inside">GDL</span></span>
-<span class="topo-line"><span class="topo-inside">CPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVTAALA</span><span class="topo-outside">TWFVGREQERRGH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100   </span>
+<span class="topo-line"><span class="topo-outside">SALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGY</span><span class="topo-inside">GDLCPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVTAALA</span><span class="topo-outside">TWFVGREQERRGH</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3425,6 +3502,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3440,8 +3518,9 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">SALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGY</span><span class="topo-inside">GDL</span></span>
-<span class="topo-line"><span class="topo-inside">CPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVTAALA</span><span class="topo-outside">TWFVGREQERRGH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100   </span>
+<span class="topo-line"><span class="topo-outside">SALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGY</span><span class="topo-inside">GDLCPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVTAALA</span><span class="topo-outside">TWFVGREQERRGH</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3502,6 +3581,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3517,8 +3597,9 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">SALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGY</span><span class="topo-inside">GDL</span></span>
-<span class="topo-line"><span class="topo-inside">CPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVTAALA</span><span class="topo-outside">TWFVGREQERRGH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100   </span>
+<span class="topo-line"><span class="topo-outside">SALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGY</span><span class="topo-inside">GDLCPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVTAALA</span><span class="topo-outside">TWFVGREQERRGH</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3579,6 +3660,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3594,8 +3676,9 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">SALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGY</span><span class="topo-inside">GDL</span></span>
-<span class="topo-line"><span class="topo-inside">CPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVTAALA</span><span class="topo-outside">TWFVGREQERRGH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100   </span>
+<span class="topo-line"><span class="topo-outside">SALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGY</span><span class="topo-inside">GDLCPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVTAALA</span><span class="topo-outside">TWFVGREQERRGH</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3656,6 +3739,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3714,9 +3798,11 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHGSALHW</span><span class="topo-outside">RAA</span><span class="topo-membrane">GAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLI</span></span>
-<span class="topo-line"><span class="topo-inside">TY</span><span class="topo-unknown">PRALWWSVHTATTVGYG</span><span class="topo-inside">DLYPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSAGLVT</span><span class="topo-outside">AALATWFVGREQE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHGSALHW</span><span class="topo-outside">RAA</span><span class="topo-membrane">GAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVHTATTVGYG</span><span class="topo-inside">DLYPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSAGLVT</span><span class="topo-outside">AALATWFVGREQE</span></span>
+<span class="topo-ruler">    </span>
 <span class="topo-line"><span class="topo-unknown">RRGH</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3791,6 +3877,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3806,9 +3893,11 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHGSALHW</span><span class="topo-outside">RAA</span><span class="topo-membrane">GAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLI</span></span>
-<span class="topo-line"><span class="topo-inside">TY</span><span class="topo-unknown">PRALWWSVHTATTVGYG</span><span class="topo-inside">DLYPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSAGLVT</span><span class="topo-outside">AALATWFVGREQE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHGSALHW</span><span class="topo-outside">RAA</span><span class="topo-membrane">GAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVHTATTVGYG</span><span class="topo-inside">DLYPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSAGLVT</span><span class="topo-outside">AALATWFVGREQE</span></span>
+<span class="topo-ruler">    </span>
 <span class="topo-line"><span class="topo-unknown">RRGH</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3883,6 +3972,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3898,9 +3988,11 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHGSALHW</span><span class="topo-outside">RAA</span><span class="topo-membrane">GAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLI</span></span>
-<span class="topo-line"><span class="topo-inside">TY</span><span class="topo-unknown">PRALWWSVHTATTVGYG</span><span class="topo-inside">DLYPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSAGLVT</span><span class="topo-outside">AALATWFVGREQE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHGSALHW</span><span class="topo-outside">RAA</span><span class="topo-membrane">GAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVHTATTVGYG</span><span class="topo-inside">DLYPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSAGLVT</span><span class="topo-outside">AALATWFVGREQE</span></span>
+<span class="topo-ruler">    </span>
 <span class="topo-line"><span class="topo-unknown">RRGH</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3975,6 +4067,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3990,9 +4083,11 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHGSALHW</span><span class="topo-outside">RAA</span><span class="topo-membrane">GAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLI</span></span>
-<span class="topo-line"><span class="topo-inside">TY</span><span class="topo-unknown">PRALWWSVHTATTVGYG</span><span class="topo-inside">DLYPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSAGLVT</span><span class="topo-outside">AALATWFVGREQE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHGSALHW</span><span class="topo-outside">RAA</span><span class="topo-membrane">GAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVHTATTVGYG</span><span class="topo-inside">DLYPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSAGLVT</span><span class="topo-outside">AALATWFVGREQE</span></span>
+<span class="topo-ruler">    </span>
 <span class="topo-line"><span class="topo-unknown">RRGH</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4067,6 +4162,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4082,9 +4178,11 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHGSALHW</span><span class="topo-outside">RAA</span><span class="topo-membrane">GAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLI</span></span>
-<span class="topo-line"><span class="topo-inside">TY</span><span class="topo-unknown">PRALWWSVHTATTVGYG</span><span class="topo-inside">DLYPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSAGLVT</span><span class="topo-outside">AALATWFVGREQE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHGSALHW</span><span class="topo-outside">RAA</span><span class="topo-membrane">GAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVHTATTVGYG</span><span class="topo-inside">DLYPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSAGLVT</span><span class="topo-outside">AALATWFVGREQE</span></span>
+<span class="topo-ruler">    </span>
 <span class="topo-line"><span class="topo-unknown">RRGH</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4159,6 +4257,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4174,9 +4273,11 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHGSALHW</span><span class="topo-outside">RAA</span><span class="topo-membrane">GAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLI</span></span>
-<span class="topo-line"><span class="topo-inside">TY</span><span class="topo-unknown">PRALWWSVHTATTVGYG</span><span class="topo-inside">DLYPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSAGLVT</span><span class="topo-outside">AALATWFVGREQE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHGSALHW</span><span class="topo-outside">RAA</span><span class="topo-membrane">GAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVHTATTVGYG</span><span class="topo-inside">DLYPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSAGLVT</span><span class="topo-outside">AALATWFVGREQE</span></span>
+<span class="topo-ruler">    </span>
 <span class="topo-line"><span class="topo-unknown">RRGH</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4251,6 +4352,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4266,9 +4368,11 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHGSALHW</span><span class="topo-outside">RAA</span><span class="topo-membrane">GAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLI</span></span>
-<span class="topo-line"><span class="topo-inside">TY</span><span class="topo-unknown">PRALWWSVHTATTVGYG</span><span class="topo-inside">DLYPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSAGLVT</span><span class="topo-outside">AALATWFVGREQE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHGSALHW</span><span class="topo-outside">RAA</span><span class="topo-membrane">GAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVHTATTVGYG</span><span class="topo-inside">DLYPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSAGLVT</span><span class="topo-outside">AALATWFVGREQE</span></span>
+<span class="topo-ruler">    </span>
 <span class="topo-line"><span class="topo-unknown">RRGH</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4343,6 +4447,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4358,9 +4463,11 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHGSALHW</span><span class="topo-outside">RAA</span><span class="topo-membrane">GAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLI</span></span>
-<span class="topo-line"><span class="topo-inside">TY</span><span class="topo-unknown">PRALWWSVHTATTVGYG</span><span class="topo-inside">DLYPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSAGLVT</span><span class="topo-outside">AALATWFVGREQE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHGSALHW</span><span class="topo-outside">RAA</span><span class="topo-membrane">GAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVHTATTVGYG</span><span class="topo-inside">DLYPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSAGLVT</span><span class="topo-outside">AALATWFVGREQE</span></span>
+<span class="topo-ruler">    </span>
 <span class="topo-line"><span class="topo-unknown">RRGH</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4435,6 +4542,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4514,9 +4622,11 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHG</span><span class="topo-outside">SALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLI</span></span>
-<span class="topo-line"><span class="topo-inside">TY</span><span class="topo-unknown">PRALWWACETATT?GY</span><span class="topo-inside">GDLCPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVTAALA</span><span class="topo-outside">TWFVGREQE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHG</span><span class="topo-outside">SALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWACETATT?GY</span><span class="topo-inside">GDLCPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVTAALA</span><span class="topo-outside">TWFVGREQE</span></span>
+<span class="topo-ruler">     </span>
 <span class="topo-line"><span class="topo-outside">RRGH</span><span class="topo-unknown">F</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4577,6 +4687,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4592,9 +4703,11 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHG</span><span class="topo-outside">SALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLI</span></span>
-<span class="topo-line"><span class="topo-inside">TY</span><span class="topo-unknown">PRALWWACETATT?GY</span><span class="topo-inside">GDLCPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVTAALA</span><span class="topo-outside">TWFVGREQE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHG</span><span class="topo-outside">SALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWACETATT?GY</span><span class="topo-inside">GDLCPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVTAALA</span><span class="topo-outside">TWFVGREQE</span></span>
+<span class="topo-ruler">     </span>
 <span class="topo-line"><span class="topo-outside">RRGH</span><span class="topo-unknown">F</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4655,6 +4768,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4670,9 +4784,11 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHG</span><span class="topo-outside">SALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLI</span></span>
-<span class="topo-line"><span class="topo-inside">TY</span><span class="topo-unknown">PRALWWACETATT?GY</span><span class="topo-inside">GDLCPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVTAALA</span><span class="topo-outside">TWFVGREQE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHG</span><span class="topo-outside">SALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWACETATT?GY</span><span class="topo-inside">GDLCPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVTAALA</span><span class="topo-outside">TWFVGREQE</span></span>
+<span class="topo-ruler">     </span>
 <span class="topo-line"><span class="topo-outside">RRGH</span><span class="topo-unknown">F</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4733,6 +4849,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4748,9 +4865,11 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHG</span><span class="topo-outside">SALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLI</span></span>
-<span class="topo-line"><span class="topo-inside">TY</span><span class="topo-unknown">PRALWWACETATT?GY</span><span class="topo-inside">GDLCPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVTAALA</span><span class="topo-outside">TWFVGREQE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHG</span><span class="topo-outside">SALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWACETATT?GY</span><span class="topo-inside">GDLCPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVTAALA</span><span class="topo-outside">TWFVGREQE</span></span>
+<span class="topo-ruler">     </span>
 <span class="topo-line"><span class="topo-outside">RRGH</span><span class="topo-unknown">F</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4811,6 +4930,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4826,9 +4946,11 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHGS</span><span class="topo-inside">ALHWRAA</span><span class="topo-membrane">GAATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLI</span></span>
-<span class="topo-line"><span class="topo-outside">TY</span><span class="topo-unknown">PRALWWACETATT??YG</span><span class="topo-outside">DLCPVT</span><span class="topo-membrane">LWGRLVAVVVMVAGITSFGLVT</span><span class="topo-inside">AALATWFVGREQE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHGS</span><span class="topo-inside">ALHWRAA</span><span class="topo-membrane">GAATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWACETATT??YG</span><span class="topo-outside">DLCPVT</span><span class="topo-membrane">LWGRLVAVVVMVAGITSFGLVT</span><span class="topo-inside">AALATWFVGREQE</span></span>
+<span class="topo-ruler">     </span>
 <span class="topo-line"><span class="topo-inside">RRGH</span><span class="topo-unknown">F</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4903,6 +5025,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4918,9 +5041,11 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHGS</span><span class="topo-inside">ALHWRAA</span><span class="topo-membrane">GAATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLI</span></span>
-<span class="topo-line"><span class="topo-outside">TY</span><span class="topo-unknown">PRALWWACETATT??YG</span><span class="topo-outside">DLCPVT</span><span class="topo-membrane">LWGRLVAVVVMVAGITSFGLVT</span><span class="topo-inside">AALATWFVGREQE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHGS</span><span class="topo-inside">ALHWRAA</span><span class="topo-membrane">GAATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWACETATT??YG</span><span class="topo-outside">DLCPVT</span><span class="topo-membrane">LWGRLVAVVVMVAGITSFGLVT</span><span class="topo-inside">AALATWFVGREQE</span></span>
+<span class="topo-ruler">     </span>
 <span class="topo-line"><span class="topo-inside">RRGH</span><span class="topo-unknown">F</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4995,6 +5120,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -5010,9 +5136,11 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHGS</span><span class="topo-inside">ALHWRAA</span><span class="topo-membrane">GAATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLI</span></span>
-<span class="topo-line"><span class="topo-outside">TY</span><span class="topo-unknown">PRALWWACETATT??YG</span><span class="topo-outside">DLCPVT</span><span class="topo-membrane">LWGRLVAVVVMVAGITSFGLVT</span><span class="topo-inside">AALATWFVGREQE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHGS</span><span class="topo-inside">ALHWRAA</span><span class="topo-membrane">GAATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWACETATT??YG</span><span class="topo-outside">DLCPVT</span><span class="topo-membrane">LWGRLVAVVVMVAGITSFGLVT</span><span class="topo-inside">AALATWFVGREQE</span></span>
+<span class="topo-ruler">     </span>
 <span class="topo-line"><span class="topo-inside">RRGH</span><span class="topo-unknown">F</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -5087,6 +5215,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -5102,9 +5231,11 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHGS</span><span class="topo-inside">ALHWRAA</span><span class="topo-membrane">GAATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLI</span></span>
-<span class="topo-line"><span class="topo-outside">TY</span><span class="topo-unknown">PRALWWACETATT??YG</span><span class="topo-outside">DLCPVT</span><span class="topo-membrane">LWGRLVAVVVMVAGITSFGLVT</span><span class="topo-inside">AALATWFVGREQE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHGS</span><span class="topo-inside">ALHWRAA</span><span class="topo-membrane">GAATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWACETATT??YG</span><span class="topo-outside">DLCPVT</span><span class="topo-membrane">LWGRLVAVVVMVAGITSFGLVT</span><span class="topo-inside">AALATWFVGREQE</span></span>
+<span class="topo-ruler">     </span>
 <span class="topo-line"><span class="topo-inside">RRGH</span><span class="topo-unknown">F</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -5179,6 +5310,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -5194,9 +5326,11 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGR</span><span class="topo-inside">HGSAL</span><span class="topo-membrane">HWRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLI</span></span>
-<span class="topo-line"><span class="topo-outside">TY</span><span class="topo-unknown">PRALWWACETATTV?Y</span><span class="topo-outside">GDLYPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVTAALATWF</span><span class="topo-inside">VGREQE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGR</span><span class="topo-inside">HGSAL</span><span class="topo-membrane">HWRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWACETATTV?Y</span><span class="topo-outside">GDLYPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVTAALATWF</span><span class="topo-inside">VGREQE</span></span>
+<span class="topo-ruler">   </span>
 <span class="topo-line"><span class="topo-inside">R</span><span class="topo-unknown">RG</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -5271,6 +5405,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -5286,9 +5421,11 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGR</span><span class="topo-inside">HGSAL</span><span class="topo-membrane">HWRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLI</span></span>
-<span class="topo-line"><span class="topo-outside">TY</span><span class="topo-unknown">PRALWWACETATTV?Y</span><span class="topo-outside">GDLYPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVTAALATWF</span><span class="topo-inside">VGREQE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGR</span><span class="topo-inside">HGSAL</span><span class="topo-membrane">HWRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWACETATTV?Y</span><span class="topo-outside">GDLYPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVTAALATWF</span><span class="topo-inside">VGREQE</span></span>
+<span class="topo-ruler">   </span>
 <span class="topo-line"><span class="topo-inside">R</span><span class="topo-unknown">RG</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -5363,6 +5500,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -5378,9 +5516,11 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGR</span><span class="topo-inside">HGSAL</span><span class="topo-membrane">HWRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLI</span></span>
-<span class="topo-line"><span class="topo-outside">TY</span><span class="topo-unknown">PRALWWACETATTV?Y</span><span class="topo-outside">GDLYPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVTAALATWF</span><span class="topo-inside">VGREQE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGR</span><span class="topo-inside">HGSAL</span><span class="topo-membrane">HWRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWACETATTV?Y</span><span class="topo-outside">GDLYPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVTAALATWF</span><span class="topo-inside">VGREQE</span></span>
+<span class="topo-ruler">   </span>
 <span class="topo-line"><span class="topo-inside">R</span><span class="topo-unknown">RG</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -5455,6 +5595,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -5470,9 +5611,11 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGR</span><span class="topo-inside">HGSAL</span><span class="topo-membrane">HWRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLI</span></span>
-<span class="topo-line"><span class="topo-outside">TY</span><span class="topo-unknown">PRALWWACETATTV?Y</span><span class="topo-outside">GDLYPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVTAALATWF</span><span class="topo-inside">VGREQE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGR</span><span class="topo-inside">HGSAL</span><span class="topo-membrane">HWRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWACETATTV?Y</span><span class="topo-outside">GDLYPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVTAALATWF</span><span class="topo-inside">VGREQE</span></span>
+<span class="topo-ruler">   </span>
 <span class="topo-line"><span class="topo-inside">R</span><span class="topo-unknown">RG</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -5547,6 +5690,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -5562,9 +5706,11 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHG</span><span class="topo-inside">SALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLI</span></span>
-<span class="topo-line"><span class="topo-outside">TY</span><span class="topo-unknown">PRALWWSVETATGVGYG</span><span class="topo-outside">DLYPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVTAALATW</span><span class="topo-inside">FVGREQE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHG</span><span class="topo-inside">SALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATGVGYG</span><span class="topo-outside">DLYPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVTAALATW</span><span class="topo-inside">FVGREQE</span></span>
+<span class="topo-ruler">     </span>
 <span class="topo-line"><span class="topo-inside">RRGH</span><span class="topo-unknown">F</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -5625,6 +5771,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -5640,9 +5787,11 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHG</span><span class="topo-inside">SALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLI</span></span>
-<span class="topo-line"><span class="topo-outside">TY</span><span class="topo-unknown">PRALWWSVETATGVGYG</span><span class="topo-outside">DLYPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVTAALATW</span><span class="topo-inside">FVGREQE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHG</span><span class="topo-inside">SALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATGVGYG</span><span class="topo-outside">DLYPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVTAALATW</span><span class="topo-inside">FVGREQE</span></span>
+<span class="topo-ruler">     </span>
 <span class="topo-line"><span class="topo-inside">RRGH</span><span class="topo-unknown">F</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -5703,6 +5852,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -5718,9 +5868,11 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHG</span><span class="topo-inside">SALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLI</span></span>
-<span class="topo-line"><span class="topo-outside">TY</span><span class="topo-unknown">PRALWWSVETATGVGYG</span><span class="topo-outside">DLYPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVTAALATW</span><span class="topo-inside">FVGREQE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHG</span><span class="topo-inside">SALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATGVGYG</span><span class="topo-outside">DLYPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVTAALATW</span><span class="topo-inside">FVGREQE</span></span>
+<span class="topo-ruler">     </span>
 <span class="topo-line"><span class="topo-inside">RRGH</span><span class="topo-unknown">F</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -5781,6 +5933,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -5796,9 +5949,11 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHG</span><span class="topo-inside">SALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLI</span></span>
-<span class="topo-line"><span class="topo-outside">TY</span><span class="topo-unknown">PRALWWSVETATGVGYG</span><span class="topo-outside">DLYPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVTAALATW</span><span class="topo-inside">FVGREQE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHG</span><span class="topo-inside">SALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATGVGYG</span><span class="topo-outside">DLYPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVTAALATW</span><span class="topo-inside">FVGREQE</span></span>
+<span class="topo-ruler">     </span>
 <span class="topo-line"><span class="topo-inside">RRGH</span><span class="topo-unknown">F</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -5859,6 +6014,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -5874,9 +6030,11 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHGSA</span><span class="topo-outside">LHWRA</span><span class="topo-membrane">AGAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLI</span></span>
-<span class="topo-line"><span class="topo-inside">TY</span><span class="topo-unknown">PRALWWSVETATGVGYG</span><span class="topo-inside">DLYPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVTA</span><span class="topo-outside">ALATWFVGREQE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHGSA</span><span class="topo-outside">LHWRA</span><span class="topo-membrane">AGAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATGVGYG</span><span class="topo-inside">DLYPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVTA</span><span class="topo-outside">ALATWFVGREQE</span></span>
+<span class="topo-ruler">     </span>
 <span class="topo-line"><span class="topo-outside">RRGH</span><span class="topo-unknown">F</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -5951,6 +6109,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -5966,9 +6125,11 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHGSA</span><span class="topo-outside">LHWRA</span><span class="topo-membrane">AGAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLI</span></span>
-<span class="topo-line"><span class="topo-inside">TY</span><span class="topo-unknown">PRALWWSVETATGVGYG</span><span class="topo-inside">DLYPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVTA</span><span class="topo-outside">ALATWFVGREQE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHGSA</span><span class="topo-outside">LHWRA</span><span class="topo-membrane">AGAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATGVGYG</span><span class="topo-inside">DLYPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVTA</span><span class="topo-outside">ALATWFVGREQE</span></span>
+<span class="topo-ruler">     </span>
 <span class="topo-line"><span class="topo-outside">RRGH</span><span class="topo-unknown">F</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -6043,6 +6204,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -6058,9 +6220,11 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHGSA</span><span class="topo-outside">LHWRA</span><span class="topo-membrane">AGAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLI</span></span>
-<span class="topo-line"><span class="topo-inside">TY</span><span class="topo-unknown">PRALWWSVETATGVGYG</span><span class="topo-inside">DLYPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVTA</span><span class="topo-outside">ALATWFVGREQE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHGSA</span><span class="topo-outside">LHWRA</span><span class="topo-membrane">AGAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATGVGYG</span><span class="topo-inside">DLYPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVTA</span><span class="topo-outside">ALATWFVGREQE</span></span>
+<span class="topo-ruler">     </span>
 <span class="topo-line"><span class="topo-outside">RRGH</span><span class="topo-unknown">F</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -6135,6 +6299,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -6150,9 +6315,11 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHGSA</span><span class="topo-outside">LHWRA</span><span class="topo-membrane">AGAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLI</span></span>
-<span class="topo-line"><span class="topo-inside">TY</span><span class="topo-unknown">PRALWWSVETATGVGYG</span><span class="topo-inside">DLYPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVTA</span><span class="topo-outside">ALATWFVGREQE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHGSA</span><span class="topo-outside">LHWRA</span><span class="topo-membrane">AGAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATGVGYG</span><span class="topo-inside">DLYPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVTA</span><span class="topo-outside">ALATWFVGREQE</span></span>
+<span class="topo-ruler">     </span>
 <span class="topo-line"><span class="topo-outside">RRGH</span><span class="topo-unknown">F</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -6227,6 +6394,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -6348,9 +6516,11 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHG</span><span class="topo-inside">SAL</span><span class="topo-membrane">HWRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLI</span></span>
-<span class="topo-line"><span class="topo-outside">TY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-outside">DLYPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTAALATWF</span><span class="topo-inside">VGREQE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHG</span><span class="topo-inside">SAL</span><span class="topo-membrane">HWRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-outside">DLYPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTAALATWF</span><span class="topo-inside">VGREQE</span></span>
+<span class="topo-ruler">    </span>
 <span class="topo-line"><span class="topo-inside">RRGH</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -6418,6 +6588,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -6433,9 +6604,11 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHG</span><span class="topo-inside">SAL</span><span class="topo-membrane">HWRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLI</span></span>
-<span class="topo-line"><span class="topo-outside">TY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-outside">DLYPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTAALATWF</span><span class="topo-inside">VGREQE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHG</span><span class="topo-inside">SAL</span><span class="topo-membrane">HWRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-outside">DLYPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTAALATWF</span><span class="topo-inside">VGREQE</span></span>
+<span class="topo-ruler">    </span>
 <span class="topo-line"><span class="topo-inside">RRGH</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -6503,6 +6676,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -6518,9 +6692,11 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHG</span><span class="topo-inside">SAL</span><span class="topo-membrane">HWRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLI</span></span>
-<span class="topo-line"><span class="topo-outside">TY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-outside">DLYPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTAALATWF</span><span class="topo-inside">VGREQE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHG</span><span class="topo-inside">SAL</span><span class="topo-membrane">HWRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-outside">DLYPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTAALATWF</span><span class="topo-inside">VGREQE</span></span>
+<span class="topo-ruler">    </span>
 <span class="topo-line"><span class="topo-inside">RRGH</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -6588,6 +6764,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -6603,9 +6780,11 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHG</span><span class="topo-inside">SAL</span><span class="topo-membrane">HWRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLI</span></span>
-<span class="topo-line"><span class="topo-outside">TY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-outside">DLYPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTAALATWF</span><span class="topo-inside">VGREQE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHG</span><span class="topo-inside">SAL</span><span class="topo-membrane">HWRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-outside">DLYPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTAALATWF</span><span class="topo-inside">VGREQE</span></span>
+<span class="topo-ruler">    </span>
 <span class="topo-line"><span class="topo-inside">RRGH</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -6673,6 +6852,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -6688,9 +6868,11 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHG</span><span class="topo-inside">SALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLI</span></span>
-<span class="topo-line"><span class="topo-outside">TY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-outside">DLYPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTAALAT</span><span class="topo-inside">WFVGREQE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHG</span><span class="topo-inside">SALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-outside">DLYPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTAALAT</span><span class="topo-inside">WFVGREQE</span></span>
+<span class="topo-ruler">    </span>
 <span class="topo-line"><span class="topo-inside">RRGH</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -6758,6 +6940,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -6773,9 +6956,11 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHG</span><span class="topo-inside">SALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLI</span></span>
-<span class="topo-line"><span class="topo-outside">TY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-outside">DLYPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTAALAT</span><span class="topo-inside">WFVGREQE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHG</span><span class="topo-inside">SALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-outside">DLYPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTAALAT</span><span class="topo-inside">WFVGREQE</span></span>
+<span class="topo-ruler">    </span>
 <span class="topo-line"><span class="topo-inside">RRGH</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -6843,6 +7028,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -6858,9 +7044,11 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHG</span><span class="topo-inside">SALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLI</span></span>
-<span class="topo-line"><span class="topo-outside">TY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-outside">DLYPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTAALAT</span><span class="topo-inside">WFVGREQE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHG</span><span class="topo-inside">SALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-outside">DLYPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTAALAT</span><span class="topo-inside">WFVGREQE</span></span>
+<span class="topo-ruler">    </span>
 <span class="topo-line"><span class="topo-inside">RRGH</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -6928,6 +7116,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -6943,9 +7132,11 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHG</span><span class="topo-inside">SALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLI</span></span>
-<span class="topo-line"><span class="topo-outside">TY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-outside">DLYPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTAALAT</span><span class="topo-inside">WFVGREQE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHG</span><span class="topo-inside">SALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-outside">DLYPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTAALAT</span><span class="topo-inside">WFVGREQE</span></span>
+<span class="topo-ruler">    </span>
 <span class="topo-line"><span class="topo-inside">RRGH</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -7013,6 +7204,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -7158,8 +7350,9 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">WRCA</span><span class="topo-membrane">GAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVATATTVGYG</span><span class="topo-inside">DLYPVT</span></span>
-<span class="topo-line"><span class="topo-inside">L</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTAALA</span><span class="topo-outside">TWFVGQCQQQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90      </span>
+<span class="topo-line"><span class="topo-outside">WRCA</span><span class="topo-membrane">GAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVATATTVGYG</span><span class="topo-inside">DLYPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTAALA</span><span class="topo-outside">TWFVGQCQQQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -7220,6 +7413,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -7235,8 +7429,9 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">WRCA</span><span class="topo-membrane">GAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVATATTVGYG</span><span class="topo-inside">DLYPVT</span></span>
-<span class="topo-line"><span class="topo-inside">L</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTAALA</span><span class="topo-outside">TWFVGQCQQQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90      </span>
+<span class="topo-line"><span class="topo-outside">WRCA</span><span class="topo-membrane">GAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVATATTVGYG</span><span class="topo-inside">DLYPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTAALA</span><span class="topo-outside">TWFVGQCQQQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -7297,6 +7492,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -7312,8 +7508,9 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">WRCA</span><span class="topo-membrane">GAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVATATTVGYG</span><span class="topo-inside">DLYPVT</span></span>
-<span class="topo-line"><span class="topo-inside">L</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTAALA</span><span class="topo-outside">TWFVGQCQQQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90      </span>
+<span class="topo-line"><span class="topo-outside">WRCA</span><span class="topo-membrane">GAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVATATTVGYG</span><span class="topo-inside">DLYPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTAALA</span><span class="topo-outside">TWFVGQCQQQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -7374,6 +7571,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -7389,8 +7587,9 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">WRCA</span><span class="topo-membrane">GAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVATATTVGYG</span><span class="topo-inside">DLYPVT</span></span>
-<span class="topo-line"><span class="topo-inside">L</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTAALA</span><span class="topo-outside">TWFVGQCQQQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90      </span>
+<span class="topo-line"><span class="topo-outside">WRCA</span><span class="topo-membrane">GAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVATATTVGYG</span><span class="topo-inside">DLYPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTAALA</span><span class="topo-outside">TWFVGQCQQQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -7451,6 +7650,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -7466,8 +7666,9 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">WRC</span><span class="topo-membrane">AGAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-inside">DLAPVT</span></span>
-<span class="topo-line"><span class="topo-inside">L</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTAALA</span><span class="topo-outside">TWFVGQCQQQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90      </span>
+<span class="topo-line"><span class="topo-outside">WRC</span><span class="topo-membrane">AGAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-inside">DLAPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTAALA</span><span class="topo-outside">TWFVGQCQQQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -7528,6 +7729,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -7543,8 +7745,9 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">WRC</span><span class="topo-membrane">AGAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-inside">DLAPVT</span></span>
-<span class="topo-line"><span class="topo-inside">L</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTAALA</span><span class="topo-outside">TWFVGQCQQQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90      </span>
+<span class="topo-line"><span class="topo-outside">WRC</span><span class="topo-membrane">AGAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-inside">DLAPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTAALA</span><span class="topo-outside">TWFVGQCQQQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -7605,6 +7808,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -7620,8 +7824,9 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">WRC</span><span class="topo-membrane">AGAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-inside">DLAPVT</span></span>
-<span class="topo-line"><span class="topo-inside">L</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTAALA</span><span class="topo-outside">TWFVGQCQQQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90      </span>
+<span class="topo-line"><span class="topo-outside">WRC</span><span class="topo-membrane">AGAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-inside">DLAPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTAALA</span><span class="topo-outside">TWFVGQCQQQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -7682,6 +7887,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -7697,8 +7903,9 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">WRC</span><span class="topo-membrane">AGAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-inside">DLAPVT</span></span>
-<span class="topo-line"><span class="topo-inside">L</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTAALA</span><span class="topo-outside">TWFVGQCQQQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90      </span>
+<span class="topo-line"><span class="topo-outside">WRC</span><span class="topo-membrane">AGAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-inside">DLAPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTAALA</span><span class="topo-outside">TWFVGQCQQQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -7759,6 +7966,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -7774,8 +7982,9 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">SALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-outside">DL</span></span>
-<span class="topo-line"><span class="topo-outside">APVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSAGLVTAALA</span><span class="topo-inside">TWFVGREQERRGH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100   </span>
+<span class="topo-line"><span class="topo-inside">SALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-outside">DLAPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSAGLVTAALA</span><span class="topo-inside">TWFVGREQERRGH</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -7836,6 +8045,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -7851,8 +8061,9 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">SALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-outside">DL</span></span>
-<span class="topo-line"><span class="topo-outside">APVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSAGLVTAALA</span><span class="topo-inside">TWFVGREQERRGH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100   </span>
+<span class="topo-line"><span class="topo-inside">SALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-outside">DLAPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSAGLVTAALA</span><span class="topo-inside">TWFVGREQERRGH</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -7913,6 +8124,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -7928,8 +8140,9 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">SALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-outside">DL</span></span>
-<span class="topo-line"><span class="topo-outside">APVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSAGLVTAALA</span><span class="topo-inside">TWFVGREQERRGH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100   </span>
+<span class="topo-line"><span class="topo-inside">SALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-outside">DLAPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSAGLVTAALA</span><span class="topo-inside">TWFVGREQERRGH</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -7990,6 +8203,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -8005,8 +8219,9 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">SALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-outside">DL</span></span>
-<span class="topo-line"><span class="topo-outside">APVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSAGLVTAALA</span><span class="topo-inside">TWFVGREQERRGH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100   </span>
+<span class="topo-line"><span class="topo-inside">SALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-outside">DLAPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSAGLVTAALA</span><span class="topo-inside">TWFVGREQERRGH</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -8067,6 +8282,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -8160,9 +8376,11 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHG</span><span class="topo-outside">SALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLI</span></span>
-<span class="topo-line"><span class="topo-inside">TY</span><span class="topo-unknown">PRALWWSVVTATTVGYG</span><span class="topo-inside">DLYPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTAALAT</span><span class="topo-outside">WFVGREQE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHG</span><span class="topo-outside">SALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVVTATTVGYG</span><span class="topo-inside">DLYPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTAALAT</span><span class="topo-outside">WFVGREQE</span></span>
+<span class="topo-ruler">    </span>
 <span class="topo-line"><span class="topo-outside">RRGH</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -8230,6 +8448,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -8245,9 +8464,11 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHG</span><span class="topo-outside">SALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLI</span></span>
-<span class="topo-line"><span class="topo-inside">TY</span><span class="topo-unknown">PRALWWSVVTATTVGYG</span><span class="topo-inside">DLYPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTAALAT</span><span class="topo-outside">WFVGREQE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHG</span><span class="topo-outside">SALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVVTATTVGYG</span><span class="topo-inside">DLYPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTAALAT</span><span class="topo-outside">WFVGREQE</span></span>
+<span class="topo-ruler">    </span>
 <span class="topo-line"><span class="topo-outside">RRGH</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -8315,6 +8536,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -8330,9 +8552,11 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHG</span><span class="topo-outside">SALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLI</span></span>
-<span class="topo-line"><span class="topo-inside">TY</span><span class="topo-unknown">PRALWWSVVTATTVGYG</span><span class="topo-inside">DLYPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTAALAT</span><span class="topo-outside">WFVGREQE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHG</span><span class="topo-outside">SALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVVTATTVGYG</span><span class="topo-inside">DLYPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTAALAT</span><span class="topo-outside">WFVGREQE</span></span>
+<span class="topo-ruler">    </span>
 <span class="topo-line"><span class="topo-outside">RRGH</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -8400,6 +8624,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -8415,9 +8640,11 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHG</span><span class="topo-outside">SALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLI</span></span>
-<span class="topo-line"><span class="topo-inside">TY</span><span class="topo-unknown">PRALWWSVVTATTVGYG</span><span class="topo-inside">DLYPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTAALAT</span><span class="topo-outside">WFVGREQE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHG</span><span class="topo-outside">SALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVVTATTVGYG</span><span class="topo-inside">DLYPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTAALAT</span><span class="topo-outside">WFVGREQE</span></span>
+<span class="topo-ruler">    </span>
 <span class="topo-line"><span class="topo-outside">RRGH</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -8485,6 +8712,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -8500,9 +8728,11 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHG</span><span class="topo-inside">SALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLI</span></span>
-<span class="topo-line"><span class="topo-outside">TY</span><span class="topo-unknown">PRALWWSVVTATTVGYG</span><span class="topo-outside">DLYPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTAALA</span><span class="topo-inside">TWFVGREQE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHG</span><span class="topo-inside">SALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVVTATTVGYG</span><span class="topo-outside">DLYPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTAALA</span><span class="topo-inside">TWFVGREQE</span></span>
+<span class="topo-ruler">    </span>
 <span class="topo-line"><span class="topo-inside">RRGH</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -8570,6 +8800,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -8585,9 +8816,11 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHG</span><span class="topo-inside">SALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLI</span></span>
-<span class="topo-line"><span class="topo-outside">TY</span><span class="topo-unknown">PRALWWSVVTATTVGYG</span><span class="topo-outside">DLYPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTAALA</span><span class="topo-inside">TWFVGREQE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHG</span><span class="topo-inside">SALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVVTATTVGYG</span><span class="topo-outside">DLYPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTAALA</span><span class="topo-inside">TWFVGREQE</span></span>
+<span class="topo-ruler">    </span>
 <span class="topo-line"><span class="topo-inside">RRGH</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -8655,6 +8888,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -8670,9 +8904,11 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHG</span><span class="topo-inside">SALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLI</span></span>
-<span class="topo-line"><span class="topo-outside">TY</span><span class="topo-unknown">PRALWWSVVTATTVGYG</span><span class="topo-outside">DLYPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTAALA</span><span class="topo-inside">TWFVGREQE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHG</span><span class="topo-inside">SALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVVTATTVGYG</span><span class="topo-outside">DLYPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTAALA</span><span class="topo-inside">TWFVGREQE</span></span>
+<span class="topo-ruler">    </span>
 <span class="topo-line"><span class="topo-inside">RRGH</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -8740,6 +8976,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -8755,9 +8992,11 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHG</span><span class="topo-inside">SALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLI</span></span>
-<span class="topo-line"><span class="topo-outside">TY</span><span class="topo-unknown">PRALWWSVVTATTVGYG</span><span class="topo-outside">DLYPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTAALA</span><span class="topo-inside">TWFVGREQE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHG</span><span class="topo-inside">SALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVVTATTVGYG</span><span class="topo-outside">DLYPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTAALA</span><span class="topo-inside">TWFVGREQE</span></span>
+<span class="topo-ruler">    </span>
 <span class="topo-line"><span class="topo-inside">RRGH</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -8825,6 +9064,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -8840,8 +9080,9 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">WR</span><span class="topo-inside">CAG</span><span class="topo-membrane">AATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVVTATTVGYG</span><span class="topo-outside">DLYPVT</span></span>
-<span class="topo-line"><span class="topo-outside">L</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTAALA</span><span class="topo-inside">TWFVGQC</span><span class="topo-unknown">QQQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90      </span>
+<span class="topo-line"><span class="topo-unknown">WR</span><span class="topo-inside">CAG</span><span class="topo-membrane">AATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVVTATTVGYG</span><span class="topo-outside">DLYPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTAALA</span><span class="topo-inside">TWFVGQC</span><span class="topo-unknown">QQQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -8916,6 +9157,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -8931,8 +9173,9 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">WR</span><span class="topo-inside">CAG</span><span class="topo-membrane">AATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVVTATTVGYG</span><span class="topo-outside">DLYPVT</span></span>
-<span class="topo-line"><span class="topo-outside">L</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTAALA</span><span class="topo-inside">TWFVGQC</span><span class="topo-unknown">QQQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90      </span>
+<span class="topo-line"><span class="topo-unknown">WR</span><span class="topo-inside">CAG</span><span class="topo-membrane">AATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVVTATTVGYG</span><span class="topo-outside">DLYPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTAALA</span><span class="topo-inside">TWFVGQC</span><span class="topo-unknown">QQQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -9007,6 +9250,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -9022,8 +9266,9 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">WR</span><span class="topo-inside">CAG</span><span class="topo-membrane">AATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVVTATTVGYG</span><span class="topo-outside">DLYPVT</span></span>
-<span class="topo-line"><span class="topo-outside">L</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTAALA</span><span class="topo-inside">TWFVGQC</span><span class="topo-unknown">QQQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90      </span>
+<span class="topo-line"><span class="topo-unknown">WR</span><span class="topo-inside">CAG</span><span class="topo-membrane">AATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVVTATTVGYG</span><span class="topo-outside">DLYPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTAALA</span><span class="topo-inside">TWFVGQC</span><span class="topo-unknown">QQQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -9098,6 +9343,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -9113,8 +9359,9 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">WR</span><span class="topo-inside">CAG</span><span class="topo-membrane">AATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVVTATTVGYG</span><span class="topo-outside">DLYPVT</span></span>
-<span class="topo-line"><span class="topo-outside">L</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTAALA</span><span class="topo-inside">TWFVGQC</span><span class="topo-unknown">QQQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90      </span>
+<span class="topo-line"><span class="topo-unknown">WR</span><span class="topo-inside">CAG</span><span class="topo-membrane">AATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVVTATTVGYG</span><span class="topo-outside">DLYPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTAALA</span><span class="topo-inside">TWFVGQC</span><span class="topo-unknown">QQQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -9189,6 +9436,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -9204,8 +9452,9 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">WR</span><span class="topo-outside">CAG</span><span class="topo-membrane">AATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVVTATTVGYG</span><span class="topo-inside">DLYPVT</span></span>
-<span class="topo-line"><span class="topo-inside">L</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTA</span><span class="topo-outside">ALATWFVGQC</span><span class="topo-unknown">QQQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90      </span>
+<span class="topo-line"><span class="topo-unknown">WR</span><span class="topo-outside">CAG</span><span class="topo-membrane">AATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVVTATTVGYG</span><span class="topo-inside">DLYPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTA</span><span class="topo-outside">ALATWFVGQC</span><span class="topo-unknown">QQQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -9280,6 +9529,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -9295,8 +9545,9 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">WR</span><span class="topo-outside">CAG</span><span class="topo-membrane">AATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVVTATTVGYG</span><span class="topo-inside">DLYPVT</span></span>
-<span class="topo-line"><span class="topo-inside">L</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTA</span><span class="topo-outside">ALATWFVGQC</span><span class="topo-unknown">QQQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90      </span>
+<span class="topo-line"><span class="topo-unknown">WR</span><span class="topo-outside">CAG</span><span class="topo-membrane">AATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVVTATTVGYG</span><span class="topo-inside">DLYPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTA</span><span class="topo-outside">ALATWFVGQC</span><span class="topo-unknown">QQQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -9371,6 +9622,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -9386,8 +9638,9 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">WR</span><span class="topo-outside">CAG</span><span class="topo-membrane">AATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVVTATTVGYG</span><span class="topo-inside">DLYPVT</span></span>
-<span class="topo-line"><span class="topo-inside">L</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTA</span><span class="topo-outside">ALATWFVGQC</span><span class="topo-unknown">QQQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90      </span>
+<span class="topo-line"><span class="topo-unknown">WR</span><span class="topo-outside">CAG</span><span class="topo-membrane">AATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVVTATTVGYG</span><span class="topo-inside">DLYPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTA</span><span class="topo-outside">ALATWFVGQC</span><span class="topo-unknown">QQQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -9462,6 +9715,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -9477,8 +9731,9 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">WR</span><span class="topo-outside">CAG</span><span class="topo-membrane">AATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVVTATTVGYG</span><span class="topo-inside">DLYPVT</span></span>
-<span class="topo-line"><span class="topo-inside">L</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTA</span><span class="topo-outside">ALATWFVGQC</span><span class="topo-unknown">QQQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90      </span>
+<span class="topo-line"><span class="topo-unknown">WR</span><span class="topo-outside">CAG</span><span class="topo-membrane">AATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVVTATTVGYG</span><span class="topo-inside">DLYPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTA</span><span class="topo-outside">ALATWFVGQC</span><span class="topo-unknown">QQQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -9553,6 +9808,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -9568,8 +9824,9 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">WR</span><span class="topo-outside">CAG</span><span class="topo-membrane">AATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVVTATTVGYG</span><span class="topo-inside">DLYPVT</span></span>
-<span class="topo-line"><span class="topo-inside">L</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTA</span><span class="topo-outside">ALATWFVGQC</span><span class="topo-unknown">QQQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90      </span>
+<span class="topo-line"><span class="topo-unknown">WR</span><span class="topo-outside">CAG</span><span class="topo-membrane">AATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVVTATTVGYG</span><span class="topo-inside">DLYPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTA</span><span class="topo-outside">ALATWFVGQC</span><span class="topo-unknown">QQQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -9644,6 +9901,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -9659,8 +9917,9 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">WR</span><span class="topo-outside">CAG</span><span class="topo-membrane">AATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVVTATTVGYG</span><span class="topo-inside">DLYPVT</span></span>
-<span class="topo-line"><span class="topo-inside">L</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTA</span><span class="topo-outside">ALATWFVGQC</span><span class="topo-unknown">QQQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90      </span>
+<span class="topo-line"><span class="topo-unknown">WR</span><span class="topo-outside">CAG</span><span class="topo-membrane">AATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVVTATTVGYG</span><span class="topo-inside">DLYPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTA</span><span class="topo-outside">ALATWFVGQC</span><span class="topo-unknown">QQQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -9735,6 +9994,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -9750,8 +10010,9 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">WR</span><span class="topo-outside">CAG</span><span class="topo-membrane">AATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVVTATTVGYG</span><span class="topo-inside">DLYPVT</span></span>
-<span class="topo-line"><span class="topo-inside">L</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTA</span><span class="topo-outside">ALATWFVGQC</span><span class="topo-unknown">QQQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90      </span>
+<span class="topo-line"><span class="topo-unknown">WR</span><span class="topo-outside">CAG</span><span class="topo-membrane">AATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVVTATTVGYG</span><span class="topo-inside">DLYPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTA</span><span class="topo-outside">ALATWFVGQC</span><span class="topo-unknown">QQQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -9826,6 +10087,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -9841,8 +10103,9 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">WR</span><span class="topo-outside">CAG</span><span class="topo-membrane">AATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVVTATTVGYG</span><span class="topo-inside">DLYPVT</span></span>
-<span class="topo-line"><span class="topo-inside">L</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTA</span><span class="topo-outside">ALATWFVGQC</span><span class="topo-unknown">QQQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90      </span>
+<span class="topo-line"><span class="topo-unknown">WR</span><span class="topo-outside">CAG</span><span class="topo-membrane">AATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVVTATTVGYG</span><span class="topo-inside">DLYPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTA</span><span class="topo-outside">ALATWFVGQC</span><span class="topo-unknown">QQQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -9917,6 +10180,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -10001,9 +10265,11 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHG</span><span class="topo-outside">SALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLI</span></span>
-<span class="topo-line"><span class="topo-inside">TY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-inside">DLYPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTAALA</span><span class="topo-outside">TWFVGREQE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHG</span><span class="topo-outside">SALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-inside">DLYPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTAALA</span><span class="topo-outside">TWFVGREQE</span></span>
+<span class="topo-ruler">    </span>
 <span class="topo-line"><span class="topo-outside">RRGH</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -10071,6 +10337,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -10086,9 +10353,11 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHG</span><span class="topo-outside">SALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLI</span></span>
-<span class="topo-line"><span class="topo-inside">TY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-inside">DLYPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTAALA</span><span class="topo-outside">TWFVGREQE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHG</span><span class="topo-outside">SALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-inside">DLYPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTAALA</span><span class="topo-outside">TWFVGREQE</span></span>
+<span class="topo-ruler">    </span>
 <span class="topo-line"><span class="topo-outside">RRGH</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -10156,6 +10425,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -10171,9 +10441,11 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHG</span><span class="topo-outside">SALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLI</span></span>
-<span class="topo-line"><span class="topo-inside">TY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-inside">DLYPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTAALA</span><span class="topo-outside">TWFVGREQE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHG</span><span class="topo-outside">SALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-inside">DLYPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTAALA</span><span class="topo-outside">TWFVGREQE</span></span>
+<span class="topo-ruler">    </span>
 <span class="topo-line"><span class="topo-outside">RRGH</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -10241,6 +10513,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -10256,9 +10529,11 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHG</span><span class="topo-outside">SALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLI</span></span>
-<span class="topo-line"><span class="topo-inside">TY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-inside">DLYPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTAALA</span><span class="topo-outside">TWFVGREQE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHG</span><span class="topo-outside">SALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-inside">DLYPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTAALA</span><span class="topo-outside">TWFVGREQE</span></span>
+<span class="topo-ruler">    </span>
 <span class="topo-line"><span class="topo-outside">RRGH</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -10326,6 +10601,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -10341,9 +10617,11 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHG</span><span class="topo-outside">SALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLI</span></span>
-<span class="topo-line"><span class="topo-inside">TY</span><span class="topo-unknown">PRALWWSVETATTVGY</span><span class="topo-inside">GDLYPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTAALAT</span><span class="topo-outside">WFVGREQE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHG</span><span class="topo-outside">SALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGY</span><span class="topo-inside">GDLYPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTAALAT</span><span class="topo-outside">WFVGREQE</span></span>
+<span class="topo-ruler">    </span>
 <span class="topo-line"><span class="topo-outside">RRGH</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -10411,6 +10689,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -10426,9 +10705,11 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHG</span><span class="topo-outside">SALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLI</span></span>
-<span class="topo-line"><span class="topo-inside">TY</span><span class="topo-unknown">PRALWWSVETATTVGY</span><span class="topo-inside">GDLYPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTAALAT</span><span class="topo-outside">WFVGREQE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHG</span><span class="topo-outside">SALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGY</span><span class="topo-inside">GDLYPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTAALAT</span><span class="topo-outside">WFVGREQE</span></span>
+<span class="topo-ruler">    </span>
 <span class="topo-line"><span class="topo-outside">RRGH</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -10496,6 +10777,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -10511,9 +10793,11 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHG</span><span class="topo-outside">SALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLI</span></span>
-<span class="topo-line"><span class="topo-inside">TY</span><span class="topo-unknown">PRALWWSVETATTVGY</span><span class="topo-inside">GDLYPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTAALAT</span><span class="topo-outside">WFVGREQE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHG</span><span class="topo-outside">SALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGY</span><span class="topo-inside">GDLYPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTAALAT</span><span class="topo-outside">WFVGREQE</span></span>
+<span class="topo-ruler">    </span>
 <span class="topo-line"><span class="topo-outside">RRGH</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -10581,6 +10865,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -10596,9 +10881,11 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHG</span><span class="topo-outside">SALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLI</span></span>
-<span class="topo-line"><span class="topo-inside">TY</span><span class="topo-unknown">PRALWWSVETATTVGY</span><span class="topo-inside">GDLYPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTAALAT</span><span class="topo-outside">WFVGREQE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHG</span><span class="topo-outside">SALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGY</span><span class="topo-inside">GDLYPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTAALAT</span><span class="topo-outside">WFVGREQE</span></span>
+<span class="topo-ruler">    </span>
 <span class="topo-line"><span class="topo-outside">RRGH</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -10666,6 +10953,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -10724,9 +11012,11 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHG</span><span class="topo-inside">SALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLI</span></span>
-<span class="topo-line"><span class="topo-outside">TY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-outside">DLYPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTAALAT</span><span class="topo-inside">WFVGREQE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHG</span><span class="topo-inside">SALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-outside">DLYPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTAALAT</span><span class="topo-inside">WFVGREQE</span></span>
+<span class="topo-ruler">    </span>
 <span class="topo-line"><span class="topo-inside">RRGH</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -10794,6 +11084,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -10809,9 +11100,11 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHG</span><span class="topo-inside">SALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLI</span></span>
-<span class="topo-line"><span class="topo-outside">TY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-outside">DLYPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTAALAT</span><span class="topo-inside">WFVGREQE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHG</span><span class="topo-inside">SALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-outside">DLYPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTAALAT</span><span class="topo-inside">WFVGREQE</span></span>
+<span class="topo-ruler">    </span>
 <span class="topo-line"><span class="topo-inside">RRGH</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -10879,6 +11172,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -10894,9 +11188,11 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHG</span><span class="topo-inside">SALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLI</span></span>
-<span class="topo-line"><span class="topo-outside">TY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-outside">DLYPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTAALAT</span><span class="topo-inside">WFVGREQE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHG</span><span class="topo-inside">SALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-outside">DLYPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTAALAT</span><span class="topo-inside">WFVGREQE</span></span>
+<span class="topo-ruler">    </span>
 <span class="topo-line"><span class="topo-inside">RRGH</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -10964,6 +11260,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -10979,9 +11276,11 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHG</span><span class="topo-inside">SALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLI</span></span>
-<span class="topo-line"><span class="topo-outside">TY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-outside">DLYPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTAALAT</span><span class="topo-inside">WFVGREQE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHG</span><span class="topo-inside">SALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-outside">DLYPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTAALAT</span><span class="topo-inside">WFVGREQE</span></span>
+<span class="topo-ruler">    </span>
 <span class="topo-line"><span class="topo-inside">RRGH</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -11049,6 +11348,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -11064,9 +11364,11 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHG</span><span class="topo-inside">SALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLI</span></span>
-<span class="topo-line"><span class="topo-outside">TY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-outside">DLYPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTAALAT</span><span class="topo-inside">WFVGREQE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHG</span><span class="topo-inside">SALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-outside">DLYPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTAALAT</span><span class="topo-inside">WFVGREQE</span></span>
+<span class="topo-ruler">    </span>
 <span class="topo-line"><span class="topo-inside">RRGH</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -11134,6 +11436,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -11149,9 +11452,11 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHG</span><span class="topo-inside">SALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLI</span></span>
-<span class="topo-line"><span class="topo-outside">TY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-outside">DLYPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTAALAT</span><span class="topo-inside">WFVGREQE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHG</span><span class="topo-inside">SALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-outside">DLYPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTAALAT</span><span class="topo-inside">WFVGREQE</span></span>
+<span class="topo-ruler">    </span>
 <span class="topo-line"><span class="topo-inside">RRGH</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -11219,6 +11524,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -11234,9 +11540,11 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHG</span><span class="topo-inside">SALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLI</span></span>
-<span class="topo-line"><span class="topo-outside">TY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-outside">DLYPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTAALAT</span><span class="topo-inside">WFVGREQE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHG</span><span class="topo-inside">SALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-outside">DLYPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTAALAT</span><span class="topo-inside">WFVGREQE</span></span>
+<span class="topo-ruler">    </span>
 <span class="topo-line"><span class="topo-inside">RRGH</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -11304,6 +11612,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -11319,9 +11628,11 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHG</span><span class="topo-inside">SALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLI</span></span>
-<span class="topo-line"><span class="topo-outside">TY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-outside">DLYPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTAALAT</span><span class="topo-inside">WFVGREQE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHG</span><span class="topo-inside">SALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-outside">DLYPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTAALAT</span><span class="topo-inside">WFVGREQE</span></span>
+<span class="topo-ruler">    </span>
 <span class="topo-line"><span class="topo-inside">RRGH</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -11389,6 +11700,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -11499,9 +11811,11 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">SALHWRAA</span><span class="topo-membrane">GAATVLLVIVLLAGSYLAV</span><span class="topo-inside">LAERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-inside">DL</span></span>
-<span class="topo-line"><span class="topo-inside">YPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVT</span><span class="topo-outside">AALATWFVGREQERRGHFVRHSEKAAEEAYTRTT</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">SALHWRAA</span><span class="topo-membrane">GAATVLLVIVLLAGSYLAV</span><span class="topo-inside">LAERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-inside">DLYPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVT</span><span class="topo-outside">AALATWFVGREQERRGHFVRHSEKAAEEAYTRTT</span></span>
+<span class="topo-ruler">       130         </span>
 <span class="topo-line"><span class="topo-outside">RALHERFDRLERMLDDNRR</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -11562,6 +11876,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -11577,9 +11892,11 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">SALHWRAA</span><span class="topo-membrane">GAATVLLVIVLLAGSYLAV</span><span class="topo-inside">LAERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-inside">DL</span></span>
-<span class="topo-line"><span class="topo-inside">YPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVT</span><span class="topo-outside">AALATWFVGREQERRGHFVRHSEKAAEEAYTRTT</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">SALHWRAA</span><span class="topo-membrane">GAATVLLVIVLLAGSYLAV</span><span class="topo-inside">LAERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-inside">DLYPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVT</span><span class="topo-outside">AALATWFVGREQERRGHFVRHSEKAAEEAYTRTT</span></span>
+<span class="topo-ruler">       130         </span>
 <span class="topo-line"><span class="topo-outside">RALHERFDRLERMLDDNRR</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -11640,6 +11957,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -11655,9 +11973,11 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">SALHW</span><span class="topo-membrane">RAAGAATVLLVIVLLAGSYLA</span><span class="topo-inside">VLAERGAPGAQLITYPRA</span><span class="topo-unknown">LWWSVETATTVGYG</span><span class="topo-inside">DL</span></span>
-<span class="topo-line"><span class="topo-inside">YPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVT</span><span class="topo-outside">AALATWFVGREQERRGHFVRHSEKAAEEAYTRTT</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">SALHW</span><span class="topo-membrane">RAAGAATVLLVIVLLAGSYLA</span><span class="topo-inside">VLAERGAPGAQLITYPRA</span><span class="topo-unknown">LWWSVETATTVGYG</span><span class="topo-inside">DLYPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVT</span><span class="topo-outside">AALATWFVGREQERRGHFVRHSEKAAEEAYTRTT</span></span>
+<span class="topo-ruler">       130         </span>
 <span class="topo-line"><span class="topo-outside">RALHERFDRLERMLDDNRR</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -11718,6 +12038,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -11733,9 +12054,11 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">SALHWRAA</span><span class="topo-membrane">GAATVLLVIVLLAGSYLAV</span><span class="topo-inside">LAERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-inside">DL</span></span>
-<span class="topo-line"><span class="topo-inside">YPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVT</span><span class="topo-outside">AALATWFVGREQERRGHFVRHSEKAAEEAYTRTT</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">SALHWRAA</span><span class="topo-membrane">GAATVLLVIVLLAGSYLAV</span><span class="topo-inside">LAERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-inside">DLYPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVT</span><span class="topo-outside">AALATWFVGREQERRGHFVRHSEKAAEEAYTRTT</span></span>
+<span class="topo-ruler">       130         </span>
 <span class="topo-line"><span class="topo-outside">RALHERFDRLERMLDDNRR</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -11796,6 +12119,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -11811,9 +12135,11 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">SALHWRAA</span><span class="topo-membrane">GAATVLLVIVLLAGSYLAV</span><span class="topo-inside">LAERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-inside">DL</span></span>
-<span class="topo-line"><span class="topo-inside">YPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVT</span><span class="topo-outside">AALATWFVGREQERRGHFVRHSEKAAEEAYTRTT</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">SALHWRAA</span><span class="topo-membrane">GAATVLLVIVLLAGSYLAV</span><span class="topo-inside">LAERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-inside">DLYPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVT</span><span class="topo-outside">AALATWFVGREQERRGHFVRHSEKAAEEAYTRTT</span></span>
+<span class="topo-ruler">       130         </span>
 <span class="topo-line"><span class="topo-outside">RALHERFDRLERMLDDNRR</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -11874,6 +12200,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -11889,9 +12216,11 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">SALHWRAA</span><span class="topo-membrane">GAATVLLVIVLLAGSYLAV</span><span class="topo-inside">LAERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-inside">DL</span></span>
-<span class="topo-line"><span class="topo-inside">YPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVT</span><span class="topo-outside">AALATWFVGREQERRGHFVRHSEKAAEEAYTRTT</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">SALHWRAA</span><span class="topo-membrane">GAATVLLVIVLLAGSYLAV</span><span class="topo-inside">LAERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-inside">DLYPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVT</span><span class="topo-outside">AALATWFVGREQERRGHFVRHSEKAAEEAYTRTT</span></span>
+<span class="topo-ruler">       130         </span>
 <span class="topo-line"><span class="topo-outside">RALHERFDRLERMLDDNRR</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -11952,6 +12281,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -11967,9 +12297,11 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">SALHW</span><span class="topo-membrane">RAAGAATVLLVIVLLAGSYLA</span><span class="topo-inside">VLAERGAPGAQLITYPRA</span><span class="topo-unknown">LWWSVETATTVGYG</span><span class="topo-inside">DL</span></span>
-<span class="topo-line"><span class="topo-inside">YPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVT</span><span class="topo-outside">AALATWFVGREQERRGHFVRHSEKAAEEAYTRTT</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">SALHW</span><span class="topo-membrane">RAAGAATVLLVIVLLAGSYLA</span><span class="topo-inside">VLAERGAPGAQLITYPRA</span><span class="topo-unknown">LWWSVETATTVGYG</span><span class="topo-inside">DLYPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVT</span><span class="topo-outside">AALATWFVGREQERRGHFVRHSEKAAEEAYTRTT</span></span>
+<span class="topo-ruler">       130         </span>
 <span class="topo-line"><span class="topo-outside">RALHERFDRLERMLDDNRR</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -12030,6 +12362,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -12045,9 +12378,11 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">SALHWRAA</span><span class="topo-membrane">GAATVLLVIVLLAGSYLAV</span><span class="topo-inside">LAERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-inside">DL</span></span>
-<span class="topo-line"><span class="topo-inside">YPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVT</span><span class="topo-outside">AALATWFVGREQERRGHFVRHSEKAAEEAYTRTT</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">SALHWRAA</span><span class="topo-membrane">GAATVLLVIVLLAGSYLAV</span><span class="topo-inside">LAERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-inside">DLYPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVT</span><span class="topo-outside">AALATWFVGREQERRGHFVRHSEKAAEEAYTRTT</span></span>
+<span class="topo-ruler">       130         </span>
 <span class="topo-line"><span class="topo-outside">RALHERFDRLERMLDDNRR</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -12108,6 +12443,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -12227,8 +12563,9 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">SALHWRAA</span><span class="topo-membrane">GAATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVG</span><span class="topo-outside">?GDL</span></span>
-<span class="topo-line"><span class="topo-outside">YPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVT</span><span class="topo-inside">AALATWFVGREQERRGH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100   </span>
+<span class="topo-line"><span class="topo-inside">SALHWRAA</span><span class="topo-membrane">GAATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVG</span><span class="topo-outside">?GDLYPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVT</span><span class="topo-inside">AALATWFVGREQERRGH</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -12289,6 +12626,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -12304,8 +12642,9 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">SALHWRAA</span><span class="topo-membrane">GAATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVG</span><span class="topo-outside">?GDL</span></span>
-<span class="topo-line"><span class="topo-outside">YPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVT</span><span class="topo-inside">AALATWFVGREQERRGH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100   </span>
+<span class="topo-line"><span class="topo-inside">SALHWRAA</span><span class="topo-membrane">GAATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVG</span><span class="topo-outside">?GDLYPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVT</span><span class="topo-inside">AALATWFVGREQERRGH</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -12366,6 +12705,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -12381,8 +12721,9 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">SALHWRAA</span><span class="topo-membrane">GAATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVG</span><span class="topo-outside">?GDL</span></span>
-<span class="topo-line"><span class="topo-outside">YPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVT</span><span class="topo-inside">AALATWFVGREQERRGH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100   </span>
+<span class="topo-line"><span class="topo-inside">SALHWRAA</span><span class="topo-membrane">GAATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVG</span><span class="topo-outside">?GDLYPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVT</span><span class="topo-inside">AALATWFVGREQERRGH</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -12443,6 +12784,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -12458,8 +12800,9 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">SALHWRAA</span><span class="topo-membrane">GAATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVG</span><span class="topo-outside">?GDL</span></span>
-<span class="topo-line"><span class="topo-outside">YPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVT</span><span class="topo-inside">AALATWFVGREQERRGH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100   </span>
+<span class="topo-line"><span class="topo-inside">SALHWRAA</span><span class="topo-membrane">GAATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVG</span><span class="topo-outside">?GDLYPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVT</span><span class="topo-inside">AALATWFVGREQERRGH</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -12520,6 +12863,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -12578,8 +12922,9 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">SAL</span><span class="topo-membrane">HWRAAGAATVLLVIVLLAGSYLA</span><span class="topo-inside">VLAERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATAVGYGDL</span></span>
-<span class="topo-line"><span class="topo-unknown">YP</span><span class="topo-inside">VTLW</span><span class="topo-membrane">GRCVAVVVMVAGITSFGLVTAAL</span><span class="topo-outside">ATWFVGREQERRGH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100   </span>
+<span class="topo-line"><span class="topo-outside">SAL</span><span class="topo-membrane">HWRAAGAATVLLVIVLLAGSYLA</span><span class="topo-inside">VLAERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATAVGYGDLYP</span><span class="topo-inside">VTLW</span><span class="topo-membrane">GRCVAVVVMVAGITSFGLVTAAL</span><span class="topo-outside">ATWFVGREQERRGH</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -12640,6 +12985,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -12655,8 +13001,9 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">WR</span><span class="topo-membrane">CAGAATVLLVIVLLAGSYLA</span><span class="topo-outside">VLAERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATAVGYGDLYP</span><span class="topo-outside">VT</span></span>
-<span class="topo-line"><span class="topo-outside">LW</span><span class="topo-membrane">GRCVAVVVMVAGITSFGLVTAAL</span><span class="topo-inside">ATWFVGQCQQQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90      </span>
+<span class="topo-line"><span class="topo-inside">WR</span><span class="topo-membrane">CAGAATVLLVIVLLAGSYLA</span><span class="topo-outside">VLAERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATAVGYGDLYP</span><span class="topo-outside">VTLW</span><span class="topo-membrane">GRCVAVVVMVAGITSFGLVTAAL</span><span class="topo-inside">ATWFVGQCQQQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -12717,6 +13064,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -12789,9 +13137,11 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHGS</span><span class="topo-outside">ALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLI</span></span>
-<span class="topo-line"><span class="topo-inside">TY</span><span class="topo-unknown">PRALFWSVETATTVGYG</span><span class="topo-inside">DLYPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVTAALA</span><span class="topo-outside">TWFVGREQE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHGS</span><span class="topo-outside">ALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALFWSVETATTVGYG</span><span class="topo-inside">DLYPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVTAALA</span><span class="topo-outside">TWFVGREQE</span></span>
+<span class="topo-ruler">     </span>
 <span class="topo-line"><span class="topo-outside">RRGHF</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -12852,6 +13202,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -12867,9 +13218,11 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHGS</span><span class="topo-outside">ALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLI</span></span>
-<span class="topo-line"><span class="topo-inside">TY</span><span class="topo-unknown">PRALFWSVETATTVGYG</span><span class="topo-inside">DLYPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVTAALA</span><span class="topo-outside">TWFVGREQE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHGS</span><span class="topo-outside">ALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALFWSVETATTVGYG</span><span class="topo-inside">DLYPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVTAALA</span><span class="topo-outside">TWFVGREQE</span></span>
+<span class="topo-ruler">     </span>
 <span class="topo-line"><span class="topo-outside">RRGHF</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -12930,6 +13283,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -12945,9 +13299,11 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHGS</span><span class="topo-outside">ALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLI</span></span>
-<span class="topo-line"><span class="topo-inside">TY</span><span class="topo-unknown">PRALFWSVETATTVGYG</span><span class="topo-inside">DLYPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVTAALA</span><span class="topo-outside">TWFVGREQE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHGS</span><span class="topo-outside">ALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALFWSVETATTVGYG</span><span class="topo-inside">DLYPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVTAALA</span><span class="topo-outside">TWFVGREQE</span></span>
+<span class="topo-ruler">     </span>
 <span class="topo-line"><span class="topo-outside">RRGHF</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -13008,6 +13364,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -13023,9 +13380,11 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHGS</span><span class="topo-outside">ALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLI</span></span>
-<span class="topo-line"><span class="topo-inside">TY</span><span class="topo-unknown">PRALFWSVETATTVGYG</span><span class="topo-inside">DLYPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVTAALA</span><span class="topo-outside">TWFVGREQE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAPMLSGLLARLVKLLLGRHGS</span><span class="topo-outside">ALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALFWSVETATTVGYG</span><span class="topo-inside">DLYPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVTAALA</span><span class="topo-outside">TWFVGREQE</span></span>
+<span class="topo-ruler">     </span>
 <span class="topo-line"><span class="topo-outside">RRGHF</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -13086,6 +13445,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -13101,8 +13461,9 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">WR</span><span class="topo-membrane">CAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALFWSVETATTVGYG</span><span class="topo-inside">DLYPVT</span></span>
-<span class="topo-line"><span class="topo-inside">L</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVTAALATWFV</span><span class="topo-outside">GQCQQQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90      </span>
+<span class="topo-line"><span class="topo-outside">WR</span><span class="topo-membrane">CAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALFWSVETATTVGYG</span><span class="topo-inside">DLYPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVTAALATWFV</span><span class="topo-outside">GQCQQQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -13163,6 +13524,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -13178,8 +13540,9 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">WR</span><span class="topo-membrane">CAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALFWSVETATTVGYG</span><span class="topo-inside">DLYPVT</span></span>
-<span class="topo-line"><span class="topo-inside">L</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVTAALATWFV</span><span class="topo-outside">GQCQQQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90      </span>
+<span class="topo-line"><span class="topo-outside">WR</span><span class="topo-membrane">CAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALFWSVETATTVGYG</span><span class="topo-inside">DLYPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVTAALATWFV</span><span class="topo-outside">GQCQQQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -13240,6 +13603,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -13255,8 +13619,9 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">WR</span><span class="topo-membrane">CAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALFWSVETATTVGYG</span><span class="topo-inside">DLYPVT</span></span>
-<span class="topo-line"><span class="topo-inside">L</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVTAALATWFV</span><span class="topo-outside">GQCQQQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90      </span>
+<span class="topo-line"><span class="topo-outside">WR</span><span class="topo-membrane">CAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALFWSVETATTVGYG</span><span class="topo-inside">DLYPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVTAALATWFV</span><span class="topo-outside">GQCQQQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -13317,6 +13682,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -13332,8 +13698,9 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">WR</span><span class="topo-membrane">CAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALFWSVETATTVGYG</span><span class="topo-inside">DLYPVT</span></span>
-<span class="topo-line"><span class="topo-inside">L</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVTAALATWFV</span><span class="topo-outside">GQCQQQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90      </span>
+<span class="topo-line"><span class="topo-outside">WR</span><span class="topo-membrane">CAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALFWSVETATTVGYG</span><span class="topo-inside">DLYPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVTAALATWFV</span><span class="topo-outside">GQCQQQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -13394,6 +13761,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -13409,8 +13777,9 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">WRCA</span><span class="topo-membrane">GAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-inside">DLYPVT</span></span>
-<span class="topo-line"><span class="topo-inside">L</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVTAALA</span><span class="topo-outside">TWFVGQCQQQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90      </span>
+<span class="topo-line"><span class="topo-outside">WRCA</span><span class="topo-membrane">GAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-inside">DLYPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVTAALA</span><span class="topo-outside">TWFVGQCQQQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -13471,6 +13840,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -13486,8 +13856,9 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">WRCA</span><span class="topo-membrane">GAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-inside">DLYPVT</span></span>
-<span class="topo-line"><span class="topo-inside">L</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVTAALA</span><span class="topo-outside">TWFVGQCQQQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90      </span>
+<span class="topo-line"><span class="topo-outside">WRCA</span><span class="topo-membrane">GAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-inside">DLYPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVTAALA</span><span class="topo-outside">TWFVGQCQQQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -13548,6 +13919,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -13563,8 +13935,9 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">WRCA</span><span class="topo-membrane">GAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-inside">DLYPVT</span></span>
-<span class="topo-line"><span class="topo-inside">L</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVTAALA</span><span class="topo-outside">TWFVGQCQQQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90      </span>
+<span class="topo-line"><span class="topo-outside">WRCA</span><span class="topo-membrane">GAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-inside">DLYPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVTAALA</span><span class="topo-outside">TWFVGQCQQQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -13625,6 +13998,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -13640,8 +14014,9 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">WRCA</span><span class="topo-membrane">GAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-inside">DLYPVT</span></span>
-<span class="topo-line"><span class="topo-inside">L</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVTAALA</span><span class="topo-outside">TWFVGQCQQQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90      </span>
+<span class="topo-line"><span class="topo-outside">WRCA</span><span class="topo-membrane">GAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-inside">DLYPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVTAALA</span><span class="topo-outside">TWFVGQCQQQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -13702,6 +14077,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -13717,8 +14093,9 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">SALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-outside">DL</span></span>
-<span class="topo-line"><span class="topo-outside">APVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVTAALA</span><span class="topo-inside">TWFVGREQERRGH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100   </span>
+<span class="topo-line"><span class="topo-inside">SALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-outside">DLAPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVTAALA</span><span class="topo-inside">TWFVGREQERRGH</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -13779,6 +14156,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -13794,8 +14172,9 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">SALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-outside">DL</span></span>
-<span class="topo-line"><span class="topo-outside">APVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVTAALA</span><span class="topo-inside">TWFVGREQERRGH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100   </span>
+<span class="topo-line"><span class="topo-inside">SALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-outside">DLAPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVTAALA</span><span class="topo-inside">TWFVGREQERRGH</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -13856,6 +14235,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -13871,8 +14251,9 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">SALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-outside">DL</span></span>
-<span class="topo-line"><span class="topo-outside">APVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVTAALA</span><span class="topo-inside">TWFVGREQERRGH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100   </span>
+<span class="topo-line"><span class="topo-inside">SALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-outside">DLAPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVTAALA</span><span class="topo-inside">TWFVGREQERRGH</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -13933,6 +14314,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -13948,8 +14330,9 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">SALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-outside">DL</span></span>
-<span class="topo-line"><span class="topo-outside">APVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVTAALA</span><span class="topo-inside">TWFVGREQERRGH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100   </span>
+<span class="topo-line"><span class="topo-inside">SALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVETATTVGYG</span><span class="topo-outside">DLAPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVTAALA</span><span class="topo-inside">TWFVGREQERRGH</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -14010,6 +14393,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -14140,8 +14524,9 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">SAL</span><span class="topo-membrane">HWRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVITATTVGYG</span><span class="topo-outside">DL</span></span>
-<span class="topo-line"><span class="topo-outside">YPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTAALATW</span><span class="topo-inside">FVGREQERRGH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100   </span>
+<span class="topo-line"><span class="topo-inside">SAL</span><span class="topo-membrane">HWRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVITATTVGYG</span><span class="topo-outside">DLYPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTAALATW</span><span class="topo-inside">FVGREQERRGH</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -14202,6 +14587,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -14217,8 +14603,9 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">SAL</span><span class="topo-membrane">HWRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVITATTVGYG</span><span class="topo-outside">DL</span></span>
-<span class="topo-line"><span class="topo-outside">YPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTAALATW</span><span class="topo-inside">FVGREQERRGH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100   </span>
+<span class="topo-line"><span class="topo-inside">SAL</span><span class="topo-membrane">HWRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVITATTVGYG</span><span class="topo-outside">DLYPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTAALATW</span><span class="topo-inside">FVGREQERRGH</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -14279,6 +14666,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -14294,8 +14682,9 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">SAL</span><span class="topo-membrane">HWRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVITATTVGYG</span><span class="topo-outside">DL</span></span>
-<span class="topo-line"><span class="topo-outside">YPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTAALATW</span><span class="topo-inside">FVGREQERRGH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100   </span>
+<span class="topo-line"><span class="topo-inside">SAL</span><span class="topo-membrane">HWRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVITATTVGYG</span><span class="topo-outside">DLYPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTAALATW</span><span class="topo-inside">FVGREQERRGH</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -14356,6 +14745,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -14371,8 +14761,9 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">SAL</span><span class="topo-membrane">HWRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVITATTVGYG</span><span class="topo-outside">DL</span></span>
-<span class="topo-line"><span class="topo-outside">YPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTAALATW</span><span class="topo-inside">FVGREQERRGH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100   </span>
+<span class="topo-line"><span class="topo-inside">SAL</span><span class="topo-membrane">HWRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-outside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVITATTVGYG</span><span class="topo-outside">DLYPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTAALATW</span><span class="topo-inside">FVGREQERRGH</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -14433,6 +14824,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -14448,8 +14840,9 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">SALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVQTATTVGY</span><span class="topo-inside">GDL</span></span>
-<span class="topo-line"><span class="topo-inside">YPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTAALA</span><span class="topo-outside">TWFVGREQERRGH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100   </span>
+<span class="topo-line"><span class="topo-outside">SALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVQTATTVGY</span><span class="topo-inside">GDLYPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTAALA</span><span class="topo-outside">TWFVGREQERRGH</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -14510,6 +14903,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -14525,8 +14919,9 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">SALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVQTATTVGY</span><span class="topo-inside">GDL</span></span>
-<span class="topo-line"><span class="topo-inside">YPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTAALA</span><span class="topo-outside">TWFVGREQERRGH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100   </span>
+<span class="topo-line"><span class="topo-outside">SALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVQTATTVGY</span><span class="topo-inside">GDLYPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTAALA</span><span class="topo-outside">TWFVGREQERRGH</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -14587,6 +14982,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -14602,8 +14998,9 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">SALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVQTATTVGY</span><span class="topo-inside">GDL</span></span>
-<span class="topo-line"><span class="topo-inside">YPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTAALA</span><span class="topo-outside">TWFVGREQERRGH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100   </span>
+<span class="topo-line"><span class="topo-outside">SALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVQTATTVGY</span><span class="topo-inside">GDLYPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTAALA</span><span class="topo-outside">TWFVGREQERRGH</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -14664,6 +15061,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -14679,8 +15077,9 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">SALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVQTATTVGY</span><span class="topo-inside">GDL</span></span>
-<span class="topo-line"><span class="topo-inside">YPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTAALA</span><span class="topo-outside">TWFVGREQERRGH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100   </span>
+<span class="topo-line"><span class="topo-outside">SALH</span><span class="topo-membrane">WRAAGAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITY</span><span class="topo-unknown">PRALWWSVQTATTVGY</span><span class="topo-inside">GDLYPVTL</span><span class="topo-membrane">WGRCVAVVVMVAGITSFGLVTAALA</span><span class="topo-outside">TWFVGREQERRGH</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -14741,6 +15140,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -14822,9 +15222,11 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MHHHHHHPPMLSGLLARLVKLLLGRHG</span><span class="topo-outside">SALQWRAA</span><span class="topo-membrane">GAATVLLVIVLLAGSYLAVL</span><span class="topo-inside">AERGA</span></span>
-<span class="topo-line"><span class="topo-inside">PGAQLITYPRA</span><span class="topo-unknown">LWWSVETATTVGYG</span><span class="topo-inside">DLYPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVT</span><span class="topo-outside">AALATWF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MHHHHHHPPMLSGLLARLVKLLLGRHG</span><span class="topo-outside">SALQWRAA</span><span class="topo-membrane">GAATVLLVIVLLAGSYLAVL</span><span class="topo-inside">AERGAPGAQLITYPRA</span><span class="topo-unknown">LWWSVETATTVGYG</span><span class="topo-inside">DLYPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVT</span><span class="topo-outside">AALATWF</span></span>
+<span class="topo-ruler">       130       140       150       160      </span>
 <span class="topo-line"><span class="topo-outside">VGQEQQQQQQFVRHSEKAAEEAYTRTTRALHERFDRLERMLDDNRR</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -14892,6 +15294,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -14907,9 +15310,11 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MHHHHHHPPMLSGLLARLVKLLLGRHG</span><span class="topo-outside">SALQWRAA</span><span class="topo-membrane">GAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGA</span></span>
-<span class="topo-line"><span class="topo-inside">PGAQLITYPRA</span><span class="topo-unknown">LWWSVETATTVGYG</span><span class="topo-inside">DLYPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVT</span><span class="topo-outside">AALATWF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MHHHHHHPPMLSGLLARLVKLLLGRHG</span><span class="topo-outside">SALQWRAA</span><span class="topo-membrane">GAATVLLVIVLLAGSYLAVLA</span><span class="topo-inside">ERGAPGAQLITYPRA</span><span class="topo-unknown">LWWSVETATTVGYG</span><span class="topo-inside">DLYPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVT</span><span class="topo-outside">AALATWF</span></span>
+<span class="topo-ruler">       130       140       150       160      </span>
 <span class="topo-line"><span class="topo-outside">VGQEQQQQQQFVRHSEKAAEEAYTRTTRALHERFDRLERMLDDNRR</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -14977,6 +15382,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -14992,9 +15398,11 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MHHHHHHPPMLSGLLARLVKLLLGRHG</span><span class="topo-outside">SALQWRAA</span><span class="topo-membrane">GAATVLLVIVLLAGSYLAV</span><span class="topo-inside">LAERGA</span></span>
-<span class="topo-line"><span class="topo-inside">PGAQLITYPRA</span><span class="topo-unknown">LWWSVETATTVGY</span><span class="topo-inside">GDLYPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVT</span><span class="topo-outside">AALATWF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MHHHHHHPPMLSGLLARLVKLLLGRHG</span><span class="topo-outside">SALQWRAA</span><span class="topo-membrane">GAATVLLVIVLLAGSYLAV</span><span class="topo-inside">LAERGAPGAQLITYPRA</span><span class="topo-unknown">LWWSVETATTVGY</span><span class="topo-inside">GDLYPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVT</span><span class="topo-outside">AALATWF</span></span>
+<span class="topo-ruler">       130       140       150       160      </span>
 <span class="topo-line"><span class="topo-outside">VGQEQQQQQQFVRHSEKAAEEAYTRTTRALHERFDRLERMLDDNRR</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -15062,6 +15470,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -15077,9 +15486,11 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MHHHHHHPPMLSGLLARLVKLLLGRHG</span><span class="topo-outside">SALQWRAA</span><span class="topo-membrane">GAATVLLVIVLLAGSYLAV</span><span class="topo-inside">LAERGA</span></span>
-<span class="topo-line"><span class="topo-inside">PGAQLITYPRA</span><span class="topo-unknown">LWWSVETATTVGYG</span><span class="topo-inside">DLYPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVT</span><span class="topo-outside">AALATWF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MHHHHHHPPMLSGLLARLVKLLLGRHG</span><span class="topo-outside">SALQWRAA</span><span class="topo-membrane">GAATVLLVIVLLAGSYLAV</span><span class="topo-inside">LAERGAPGAQLITYPRA</span><span class="topo-unknown">LWWSVETATTVGYG</span><span class="topo-inside">DLYPVTL</span><span class="topo-membrane">WGRLVAVVVMVAGITSFGLVT</span><span class="topo-outside">AALATWF</span></span>
+<span class="topo-ruler">       130       140       150       160      </span>
 <span class="topo-line"><span class="topo-outside">VGQEQQQQQQFVRHSEKAAEEAYTRTTRALHERFDRLERMLDDNRR</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -15147,6 +15558,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

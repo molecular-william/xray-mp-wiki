@@ -77,24 +77,25 @@ SERCA2b is a ubiquitously expressed isoform of sarco/endoplasmic reticulum CaÂ²â
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGGVAMPGAEDDVVRENLYFQGKDGLAA</span><span class="topo-inside">MENAHTKTVEEVLGHFGVNESTGLSLEQVKKL</span></span>
-<span class="topo-line"><span class="topo-inside">KERWGSNELPA</span><span class="topo-unknown">EEGK</span><span class="topo-inside">TLL</span><span class="topo-membrane">ELVIEQFEDLLVRILLLAACISFV</span><span class="topo-outside">LAWF</span><span class="topo-unknown">EEGEETI</span><span class="topo-outside">TAF</span><span class="topo-membrane">VEPF</span></span>
-<span class="topo-line"><span class="topo-membrane">VILLILVANAIVGV</span><span class="topo-inside">WQERNAENAIEALKEYEPEMGKVYRQDRKSVQRIKAKDIVPGDIVE</span></span>
-<span class="topo-line"><span class="topo-inside">IAVGDKVPADIRLTSIKSTTLRVDQSILTGESVSVIKHTDPVPDPRAVNQDKKNMLFSGT</span></span>
-<span class="topo-line"><span class="topo-inside">NIAAGKAMGVVVATGVNTEIGKIRDEM</span><span class="topo-unknown">VATEQE</span><span class="topo-inside">RTPLQQKLD</span><span class="topo-membrane">EFGEQLSKVISLICIAVW</span></span>
-<span class="topo-line"><span class="topo-outside">IINIG</span><span class="topo-unknown">HFNDPVHGG</span><span class="topo-outside">SWIRGAIYYFK</span><span class="topo-membrane">IAVALAVAAIPEGLPAV</span><span class="topo-inside">ITTCLALGTRRMAKKNAI</span></span>
-<span class="topo-line"><span class="topo-inside">VRSLPSVETLGCTSVICSDKTGTLTTNQMSVCRMFILDRVEGDTCSLNEFTITGSTYAPI</span></span>
-<span class="topo-line"><span class="topo-inside">GEVHKDDKPVNCHQYDGLVELATICALCNDSALDYNEAKGVYEKVGEATETALTCLVEKM</span></span>
-<span class="topo-line"><span class="topo-inside">NVFDTELKGLSKIERANACNSVIKQLMKKEFTLEFSRDRKSMSVYCTPNKPS</span><span class="topo-unknown">RT</span><span class="topo-inside">SMSKMF</span></span>
-<span class="topo-line"><span class="topo-inside">VKGAPEGVIDRCTHIRVGSTKVPMTSGVKQKIMSVIREWGSGSDTLRCLALATHDNPLRR</span></span>
-<span class="topo-line"><span class="topo-inside">EEMHLEDSANFIKYETNLTFVGCVGMLDPPRIEVASSVKLCRQAGIRVIMITGDNKGTAV</span></span>
-<span class="topo-line"><span class="topo-inside">AICRRIGIFGQDEDVTSKAFTGREFDELNPSAQRDACLNARCFARVEPSHKSKIVEFLQS</span></span>
-<span class="topo-line"><span class="topo-inside">FDEITAMTGDGVNDAPALKKAEIGIAMGSGTAVAKTASEMVLADDNFSTIVAAVEEGRAI</span></span>
-<span class="topo-line"><span class="topo-inside">YNNMKQ</span><span class="topo-membrane">FIRYLISSNVGEVVCIFL</span><span class="topo-outside">TAALGFPEALIP</span><span class="topo-membrane">VQLLWVNLVTDGLPATAL</span><span class="topo-inside">GFNPPD</span></span>
-<span class="topo-line"><span class="topo-inside">LDIMNKPPRNPKEPLISG</span><span class="topo-membrane">WLFFRYLAIGCYVGAATVGA</span><span class="topo-outside">AAWWFIAADGGPRVSFYQLSHF</span></span>
-<span class="topo-line"><span class="topo-outside">L</span><span class="topo-unknown">QC</span><span class="topo-outside">KEDNPDFEGVDCAIFESPYPMTMA</span><span class="topo-membrane">LSVLVTIEMCNALNSL</span><span class="topo-inside">SENQSLLRMPPWEN</span><span class="topo-membrane">IWL</span></span>
-<span class="topo-line"><span class="topo-membrane">VGSICLSMSLHFLI</span><span class="topo-outside">LYVEPLPLIFQI</span><span class="topo-unknown">T</span><span class="topo-outside">PLNVTQW</span><span class="topo-membrane">LMVLKISLPVILMDETLKFV</span><span class="topo-inside">ARNY</span><span class="topo-unknown">LE</span></span>
-<span class="topo-line"><span class="topo-unknown">PGKECVQPATKSCSFSACTDGISWP</span><span class="topo-inside">F</span><span class="topo-membrane">VLLIMPLVIWVY</span><span class="topo-unknown">STDTNFSDMFWS</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGGVAMPGAEDDVVRENLYFQGKDGLAA</span><span class="topo-inside">MENAHTKTVEEVLGHFGVNESTGLSLEQVKKLKERWGSNELPA</span><span class="topo-unknown">EEGK</span><span class="topo-inside">TLL</span><span class="topo-membrane">ELVIEQFEDLLVRILLLAACISFV</span><span class="topo-outside">LAWF</span><span class="topo-unknown">EEGEETI</span><span class="topo-outside">TAF</span><span class="topo-membrane">VEPF</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">VILLILVANAIVGV</span><span class="topo-inside">WQERNAENAIEALKEYEPEMGKVYRQDRKSVQRIKAKDIVPGDIVEIAVGDKVPADIRLTSIKSTTLRVDQSILTGESVSVIKHTDPVPDPRAVNQDKKNMLFSGT</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">NIAAGKAMGVVVATGVNTEIGKIRDEM</span><span class="topo-unknown">VATEQE</span><span class="topo-inside">RTPLQQKLD</span><span class="topo-membrane">EFGEQLSKVISLICIAVW</span><span class="topo-outside">IINIG</span><span class="topo-unknown">HFNDPVHGG</span><span class="topo-outside">SWIRGAIYYFK</span><span class="topo-membrane">IAVALAVAAIPEGLPAV</span><span class="topo-inside">ITTCLALGTRRMAKKNAI</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">VRSLPSVETLGCTSVICSDKTGTLTTNQMSVCRMFILDRVEGDTCSLNEFTITGSTYAPIGEVHKDDKPVNCHQYDGLVELATICALCNDSALDYNEAKGVYEKVGEATETALTCLVEKM</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-inside">NVFDTELKGLSKIERANACNSVIKQLMKKEFTLEFSRDRKSMSVYCTPNKPS</span><span class="topo-unknown">RT</span><span class="topo-inside">SMSKMFVKGAPEGVIDRCTHIRVGSTKVPMTSGVKQKIMSVIREWGSGSDTLRCLALATHDNPLRR</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-inside">EEMHLEDSANFIKYETNLTFVGCVGMLDPPRIEVASSVKLCRQAGIRVIMITGDNKGTAVAICRRIGIFGQDEDVTSKAFTGREFDELNPSAQRDACLNARCFARVEPSHKSKIVEFLQS</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820       830       840</span>
+<span class="topo-line"><span class="topo-inside">FDEITAMTGDGVNDAPALKKAEIGIAMGSGTAVAKTASEMVLADDNFSTIVAAVEEGRAIYNNMKQ</span><span class="topo-membrane">FIRYLISSNVGEVVCIFL</span><span class="topo-outside">TAALGFPEALIP</span><span class="topo-membrane">VQLLWVNLVTDGLPATAL</span><span class="topo-inside">GFNPPD</span></span>
+<span class="topo-ruler">       850       860       870       880       890       900       910       920       930       940       950       960</span>
+<span class="topo-line"><span class="topo-inside">LDIMNKPPRNPKEPLISG</span><span class="topo-membrane">WLFFRYLAIGCYVGAATVGA</span><span class="topo-outside">AAWWFIAADGGPRVSFYQLSHFL</span><span class="topo-unknown">QC</span><span class="topo-outside">KEDNPDFEGVDCAIFESPYPMTMA</span><span class="topo-membrane">LSVLVTIEMCNALNSL</span><span class="topo-inside">SENQSLLRMPPWEN</span><span class="topo-membrane">IWL</span></span>
+<span class="topo-ruler">       970       980       990      1000      1010      1020      1030      1040      1050      1060      1070</span>
+<span class="topo-line"><span class="topo-membrane">VGSICLSMSLHFLI</span><span class="topo-outside">LYVEPLPLIFQI</span><span class="topo-unknown">T</span><span class="topo-outside">PLNVTQW</span><span class="topo-membrane">LMVLKISLPVILMDETLKFV</span><span class="topo-inside">ARNY</span><span class="topo-unknown">LEPGKECVQPATKSCSFSACTDGISWP</span><span class="topo-inside">F</span><span class="topo-membrane">VLLIMPLVIWVY</span><span class="topo-unknown">STDTNFSDMFWS</span></span>
+<details class="topo-details"><summary>Topology coordinates (30 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -316,6 +317,7 @@ SERCA2b is a ubiquitously expressed isoform of sarco/endoplasmic reticulum CaÂ²â
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

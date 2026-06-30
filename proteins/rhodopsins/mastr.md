@@ -139,14 +139,15 @@ MastR (Mastigocladopsis repens rhodopsin, also known as MrHR) is a cyanobacteria
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">?</span><span class="topo-outside">G</span><span class="topo-unknown">LYRKYI</span><span class="topo-outside">EYPV</span><span class="topo-membrane">LQKILIGLILGAIVGLIL</span><span class="topo-inside">GHYGYA</span><span class="topo-unknown">HAVHTY</span><span class="topo-membrane">VKPFGDLFVRLLCMLVMP</span></span>
-<span class="topo-line"><span class="topo-membrane">IVFASLV</span><span class="topo-outside">VGAASISPARLGRVGVKIVVYYL</span><span class="topo-membrane">LTSAFAVTLGIIMARLFNPGAGI</span><span class="topo-inside">HLAVGGQ</span></span>
-<span class="topo-line"><span class="topo-inside">QFQPHQAPP</span><span class="topo-membrane">LVHILLDIVPTNPFGALANGQVLPTIFFAIILG</span><span class="topo-outside">IAITYLMNSENE</span><span class="topo-unknown">KVRKSA</span></span>
-<span class="topo-line"><span class="topo-unknown">ETLLDAINGLAEA</span><span class="topo-membrane">MYKIVNGVMQYAPIGVFALIAYVM</span><span class="topo-inside">AEQGV</span><span class="topo-membrane">HVVGELAKVTAAVYVGLT</span></span>
-<span class="topo-line"><span class="topo-membrane">LQ</span><span class="topo-outside">ILLVYFVLLKIYGIDPISFIKHAKDAMLTAFVTRSSSGTLPVTMRVAKEMGISEGIYS</span></span>
-<span class="topo-line"><span class="topo-outside">FTLPLGATINMD</span><span class="topo-membrane">GTALYQGVATFFIANA</span><span class="topo-inside">LGSHL</span><span class="topo-membrane">TVGQQLTIVLTAVLASIGT</span><span class="topo-outside">AGVP</span><span class="topo-membrane">GAGA</span></span>
-<span class="topo-line"><span class="topo-membrane">IMLCMVLHSVGLPLTDP</span><span class="topo-inside">N</span><span class="topo-membrane">VAAAYAMILGIDAILD</span><span class="topo-outside">MGRTMVNVTGDLTGTAIVAKTEGT</span><span class="topo-unknown">LV</span></span>
-<span class="topo-line"><span class="topo-unknown">PR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">?</span><span class="topo-outside">G</span><span class="topo-unknown">LYRKYI</span><span class="topo-outside">EYPV</span><span class="topo-membrane">LQKILIGLILGAIVGLIL</span><span class="topo-inside">GHYGYA</span><span class="topo-unknown">HAVHTY</span><span class="topo-membrane">VKPFGDLFVRLLCMLVMPIVFASLV</span><span class="topo-outside">VGAASISPARLGRVGVKIVVYYL</span><span class="topo-membrane">LTSAFAVTLGIIMARLFNPGAGI</span><span class="topo-inside">HLAVGGQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">QFQPHQAPP</span><span class="topo-membrane">LVHILLDIVPTNPFGALANGQVLPTIFFAIILG</span><span class="topo-outside">IAITYLMNSENE</span><span class="topo-unknown">KVRKSAETLLDAINGLAEA</span><span class="topo-membrane">MYKIVNGVMQYAPIGVFALIAYVM</span><span class="topo-inside">AEQGV</span><span class="topo-membrane">HVVGELAKVTAAVYVGLT</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">LQ</span><span class="topo-outside">ILLVYFVLLKIYGIDPISFIKHAKDAMLTAFVTRSSSGTLPVTMRVAKEMGISEGIYSFTLPLGATINMD</span><span class="topo-membrane">GTALYQGVATFFIANA</span><span class="topo-inside">LGSHL</span><span class="topo-membrane">TVGQQLTIVLTAVLASIGT</span><span class="topo-outside">AGVP</span><span class="topo-membrane">GAGA</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420  </span>
+<span class="topo-line"><span class="topo-membrane">IMLCMVLHSVGLPLTDP</span><span class="topo-inside">N</span><span class="topo-membrane">VAAAYAMILGIDAILD</span><span class="topo-outside">MGRTMVNVTGDLTGTAIVAKTEGT</span><span class="topo-unknown">LVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (25 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -333,6 +334,7 @@ MastR (Mastigocladopsis repens rhodopsin, also known as MrHR) is a cyanobacteria
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -348,10 +350,11 @@ MastR (Mastigocladopsis repens rhodopsin, also known as MrHR) is a cyanobacteria
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MTQAW</span><span class="topo-membrane">LWIGVISMALGSVFFGFGAHN</span><span class="topo-outside">AKNERWQ</span><span class="topo-membrane">ILYTLNFFICLIAAGLYLAM</span><span class="topo-inside">ALGLGVN</span></span>
-<span class="topo-line"><span class="topo-inside">VINGRPTYW</span><span class="topo-membrane">VRFVDWFCSTPLLLLDLTFL</span><span class="topo-outside">GRTSL</span><span class="topo-membrane">PLTGSLLGANAYMLVTGFVA</span><span class="topo-inside">TVTPKP</span></span>
-<span class="topo-line"><span class="topo-inside">MSYI</span><span class="topo-membrane">WYIVSCAAYLAIVYLLAQPYR</span><span class="topo-outside">IAAERKHPRSKQAF</span><span class="topo-membrane">RTLVTVHLVLWTLYPIVWIL</span><span class="topo-inside">S</span></span>
-<span class="topo-line"><span class="topo-inside">PEGFSTFTQGSE</span><span class="topo-membrane">TMFYTLLDIASKVGFGFLSLNT</span><span class="topo-outside">LHTLEQAT</span><span class="topo-unknown">EPARETHLSYLEHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">MTQAW</span><span class="topo-membrane">LWIGVISMALGSVFFGFGAHN</span><span class="topo-outside">AKNERWQ</span><span class="topo-membrane">ILYTLNFFICLIAAGLYLAM</span><span class="topo-inside">ALGLGVNVINGRPTYW</span><span class="topo-membrane">VRFVDWFCSTPLLLLDLTFL</span><span class="topo-outside">GRTSL</span><span class="topo-membrane">PLTGSLLGANAYMLVTGFVA</span><span class="topo-inside">TVTPKP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">MSYI</span><span class="topo-membrane">WYIVSCAAYLAIVYLLAQPYR</span><span class="topo-outside">IAAERKHPRSKQAF</span><span class="topo-membrane">RTLVTVHLVLWTLYPIVWIL</span><span class="topo-inside">SPEGFSTFTQGSE</span><span class="topo-membrane">TMFYTLLDIASKVGFGFLSLNT</span><span class="topo-outside">LHTLEQAT</span><span class="topo-unknown">EPARETHLSYLEHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -468,6 +471,7 @@ MastR (Mastigocladopsis repens rhodopsin, also known as MrHR) is a cyanobacteria
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -483,10 +487,11 @@ MastR (Mastigocladopsis repens rhodopsin, also known as MrHR) is a cyanobacteria
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MTQAW</span><span class="topo-membrane">LWIGVISMALGSVFFGFGAHN</span><span class="topo-outside">AKNERWQ</span><span class="topo-membrane">ILYTLNFFICLIAAGLYLAM</span><span class="topo-inside">ALGLGVN</span></span>
-<span class="topo-line"><span class="topo-inside">VINGRPTYW</span><span class="topo-membrane">VRFVDWFCSTPLLLLDLTFL</span><span class="topo-outside">GRTSL</span><span class="topo-membrane">PLTGSLLGANAYMLVTGFVA</span><span class="topo-inside">TVTPKP</span></span>
-<span class="topo-line"><span class="topo-inside">MSYI</span><span class="topo-membrane">WYIVSCAAYLAIVYLLAQPYR</span><span class="topo-outside">IAAERKHPRSKQAF</span><span class="topo-membrane">RTLVTVHLVLWTLYPIVWIL</span><span class="topo-inside">S</span></span>
-<span class="topo-line"><span class="topo-inside">PEGFSTFTQGSE</span><span class="topo-membrane">TMFYTLLDIASKVGFGFLSLNT</span><span class="topo-outside">LHTLEQAT</span><span class="topo-unknown">EPARETHLSYLEHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">MTQAW</span><span class="topo-membrane">LWIGVISMALGSVFFGFGAHN</span><span class="topo-outside">AKNERWQ</span><span class="topo-membrane">ILYTLNFFICLIAAGLYLAM</span><span class="topo-inside">ALGLGVNVINGRPTYW</span><span class="topo-membrane">VRFVDWFCSTPLLLLDLTFL</span><span class="topo-outside">GRTSL</span><span class="topo-membrane">PLTGSLLGANAYMLVTGFVA</span><span class="topo-inside">TVTPKP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">MSYI</span><span class="topo-membrane">WYIVSCAAYLAIVYLLAQPYR</span><span class="topo-outside">IAAERKHPRSKQAF</span><span class="topo-membrane">RTLVTVHLVLWTLYPIVWIL</span><span class="topo-inside">SPEGFSTFTQGSE</span><span class="topo-membrane">TMFYTLLDIASKVGFGFLSLNT</span><span class="topo-outside">LHTLEQAT</span><span class="topo-unknown">EPARETHLSYLEHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -603,6 +608,7 @@ MastR (Mastigocladopsis repens rhodopsin, also known as MrHR) is a cyanobacteria
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -618,10 +624,11 @@ MastR (Mastigocladopsis repens rhodopsin, also known as MrHR) is a cyanobacteria
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MTQAW</span><span class="topo-membrane">LWIGVISMALGSVFFGFGAHN</span><span class="topo-outside">AKNERWQ</span><span class="topo-membrane">ILYTLNFFICLIAAGLYLAM</span><span class="topo-inside">ALGLGVN</span></span>
-<span class="topo-line"><span class="topo-inside">VINGRPTYW</span><span class="topo-membrane">VRFVDWFCSTPLLLLDLTFL</span><span class="topo-outside">GRTSL</span><span class="topo-membrane">PLTGSLLGANAYMLVTGFVA</span><span class="topo-inside">TVTPKP</span></span>
-<span class="topo-line"><span class="topo-inside">MSYI</span><span class="topo-membrane">WYIVSCAAYLAIVYLLAQPYR</span><span class="topo-outside">IAAERKHPRSKQAF</span><span class="topo-membrane">RTLVTVHLVLWTLYPIVWIL</span><span class="topo-inside">S</span></span>
-<span class="topo-line"><span class="topo-inside">PEGFSTFTQGSE</span><span class="topo-membrane">TMFYTLLDIASKVGFGFLSLNT</span><span class="topo-outside">LHTLEQAT</span><span class="topo-unknown">EPARETHLSYLEHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">MTQAW</span><span class="topo-membrane">LWIGVISMALGSVFFGFGAHN</span><span class="topo-outside">AKNERWQ</span><span class="topo-membrane">ILYTLNFFICLIAAGLYLAM</span><span class="topo-inside">ALGLGVNVINGRPTYW</span><span class="topo-membrane">VRFVDWFCSTPLLLLDLTFL</span><span class="topo-outside">GRTSL</span><span class="topo-membrane">PLTGSLLGANAYMLVTGFVA</span><span class="topo-inside">TVTPKP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">MSYI</span><span class="topo-membrane">WYIVSCAAYLAIVYLLAQPYR</span><span class="topo-outside">IAAERKHPRSKQAF</span><span class="topo-membrane">RTLVTVHLVLWTLYPIVWIL</span><span class="topo-inside">SPEGFSTFTQGSE</span><span class="topo-membrane">TMFYTLLDIASKVGFGFLSLNT</span><span class="topo-outside">LHTLEQAT</span><span class="topo-unknown">EPARETHLSYLEHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -738,6 +745,7 @@ MastR (Mastigocladopsis repens rhodopsin, also known as MrHR) is a cyanobacteria
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

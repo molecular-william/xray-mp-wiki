@@ -154,9 +154,11 @@ The KvLm pore module (PM) is a sensorless pore module dissected from the KvLm vo
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MRYIVPIYSFF</span><span class="topo-inside">RSN</span><span class="topo-membrane">GLNRFLMIFVLLVIIIPVPM</span><span class="topo-outside">VFIEPEINNY</span><span class="topo-unknown">PDALWWAIVTATTVGY</span></span>
-<span class="topo-line"><span class="topo-unknown">G</span><span class="topo-outside">DIVPVTP</span><span class="topo-membrane">IGRILASIMMLFGIAFIGMITSTIT</span><span class="topo-inside">NFFRCKKPT</span><span class="topo-unknown">NSSTQRANKITQLISETP</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MRYIVPIYSFF</span><span class="topo-inside">RSN</span><span class="topo-membrane">GLNRFLMIFVLLVIIIPVPM</span><span class="topo-outside">VFIEPEINNY</span><span class="topo-unknown">PDALWWAIVTATTVGYG</span><span class="topo-outside">DIVPVTP</span><span class="topo-membrane">IGRILASIMMLFGIAFIGMITSTIT</span><span class="topo-inside">NFFRCKKPT</span><span class="topo-unknown">NSSTQRANKITQLISETP</span></span>
+<span class="topo-ruler">       130       </span>
 <span class="topo-line"><span class="topo-unknown">DLTKEEIAVVEQFLTLR</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -231,6 +233,7 @@ The KvLm pore module (PM) is a sensorless pore module dissected from the KvLm vo
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -246,9 +249,11 @@ The KvLm pore module (PM) is a sensorless pore module dissected from the KvLm vo
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MRYIVPIYSFF</span><span class="topo-inside">RSN</span><span class="topo-membrane">GLNRFLMIFVLLVIIIPVPM</span><span class="topo-outside">VFIEPEINNY</span><span class="topo-unknown">PDALWWAIVTATTVGY</span></span>
-<span class="topo-line"><span class="topo-unknown">G</span><span class="topo-outside">DIVPVTP</span><span class="topo-membrane">IGRILASIMMLFGIAFIGMITSTIT</span><span class="topo-inside">NFFRCKKPT</span><span class="topo-unknown">NSSTQRANKITQLISETP</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MRYIVPIYSFF</span><span class="topo-inside">RSN</span><span class="topo-membrane">GLNRFLMIFVLLVIIIPVPM</span><span class="topo-outside">VFIEPEINNY</span><span class="topo-unknown">PDALWWAIVTATTVGYG</span><span class="topo-outside">DIVPVTP</span><span class="topo-membrane">IGRILASIMMLFGIAFIGMITSTIT</span><span class="topo-inside">NFFRCKKPT</span><span class="topo-unknown">NSSTQRANKITQLISETP</span></span>
+<span class="topo-ruler">       130       </span>
 <span class="topo-line"><span class="topo-unknown">DLTKEEIAVVEQFLTLR</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -323,6 +328,7 @@ The KvLm pore module (PM) is a sensorless pore module dissected from the KvLm vo
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -338,9 +344,11 @@ The KvLm pore module (PM) is a sensorless pore module dissected from the KvLm vo
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MRYIVPIYSFF</span><span class="topo-inside">RSN</span><span class="topo-membrane">GLNRFLMIFVLLVIIIPVPM</span><span class="topo-outside">VFIEPEINNY</span><span class="topo-unknown">PDALWWAIVTATTVGY</span></span>
-<span class="topo-line"><span class="topo-unknown">G</span><span class="topo-outside">DIVPVTP</span><span class="topo-membrane">IGRILASIMMLFGIAFIGMITSTIT</span><span class="topo-inside">NFFRCKKPT</span><span class="topo-unknown">NSSTQRANKITQLISETP</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MRYIVPIYSFF</span><span class="topo-inside">RSN</span><span class="topo-membrane">GLNRFLMIFVLLVIIIPVPM</span><span class="topo-outside">VFIEPEINNY</span><span class="topo-unknown">PDALWWAIVTATTVGYG</span><span class="topo-outside">DIVPVTP</span><span class="topo-membrane">IGRILASIMMLFGIAFIGMITSTIT</span><span class="topo-inside">NFFRCKKPT</span><span class="topo-unknown">NSSTQRANKITQLISETP</span></span>
+<span class="topo-ruler">       130       </span>
 <span class="topo-line"><span class="topo-unknown">DLTKEEIAVVEQFLTLR</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -415,6 +423,7 @@ The KvLm pore module (PM) is a sensorless pore module dissected from the KvLm vo
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -430,9 +439,11 @@ The KvLm pore module (PM) is a sensorless pore module dissected from the KvLm vo
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MRYIVPIYSFF</span><span class="topo-inside">RSN</span><span class="topo-membrane">GLNRFLMIFVLLVIIIPVPM</span><span class="topo-outside">VFIEPEINNY</span><span class="topo-unknown">PDALWWAIVTATTVGY</span></span>
-<span class="topo-line"><span class="topo-unknown">G</span><span class="topo-outside">DIVPVTP</span><span class="topo-membrane">IGRILASIMMLFGIAFIGMITSTIT</span><span class="topo-inside">NFFRCKKPT</span><span class="topo-unknown">NSSTQRANKITQLISETP</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MRYIVPIYSFF</span><span class="topo-inside">RSN</span><span class="topo-membrane">GLNRFLMIFVLLVIIIPVPM</span><span class="topo-outside">VFIEPEINNY</span><span class="topo-unknown">PDALWWAIVTATTVGYG</span><span class="topo-outside">DIVPVTP</span><span class="topo-membrane">IGRILASIMMLFGIAFIGMITSTIT</span><span class="topo-inside">NFFRCKKPT</span><span class="topo-unknown">NSSTQRANKITQLISETP</span></span>
+<span class="topo-ruler">       130       </span>
 <span class="topo-line"><span class="topo-unknown">DLTKEEIAVVEQFLTLR</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -507,6 +518,7 @@ The KvLm pore module (PM) is a sensorless pore module dissected from the KvLm vo
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -522,9 +534,11 @@ The KvLm pore module (PM) is a sensorless pore module dissected from the KvLm vo
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MRYIVPIYSFF</span><span class="topo-inside">RSN</span><span class="topo-membrane">GLNRFLMIFVLLVIIIPVPM</span><span class="topo-outside">VFIEPEINNY</span><span class="topo-unknown">PDALWWAIVTATTVGY</span></span>
-<span class="topo-line"><span class="topo-unknown">G</span><span class="topo-outside">DIVPVTP</span><span class="topo-membrane">IGRILASIMMLFGIAFIGMITSTIT</span><span class="topo-inside">NFFRCKKPT</span><span class="topo-unknown">NSSTQRANKITQLISETP</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MRYIVPIYSFF</span><span class="topo-inside">RSN</span><span class="topo-membrane">GLNRFLMIFVLLVIIIPVPM</span><span class="topo-outside">VFIEPEINNY</span><span class="topo-unknown">PDALWWAIVTATTVGYG</span><span class="topo-outside">DIVPVTP</span><span class="topo-membrane">IGRILASIMMLFGIAFIGMITSTIT</span><span class="topo-inside">NFFRCKKPT</span><span class="topo-unknown">NSSTQRANKITQLISETP</span></span>
+<span class="topo-ruler">       130       </span>
 <span class="topo-line"><span class="topo-unknown">DLTKEEIAVVEQFLTLR</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -599,6 +613,7 @@ The KvLm pore module (PM) is a sensorless pore module dissected from the KvLm vo
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -614,9 +629,11 @@ The KvLm pore module (PM) is a sensorless pore module dissected from the KvLm vo
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MRYIVPIYSFF</span><span class="topo-inside">RSN</span><span class="topo-membrane">GLNRFLMIFVLLVIIIPVPM</span><span class="topo-outside">VFIEPEINNY</span><span class="topo-unknown">PDALWWAIVTATTVGY</span></span>
-<span class="topo-line"><span class="topo-unknown">G</span><span class="topo-outside">DIVPVTP</span><span class="topo-membrane">IGRILASIMMLFGIAFIGMITSTIT</span><span class="topo-inside">NFFRCKKPT</span><span class="topo-unknown">NSSTQRANKITQLISETP</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MRYIVPIYSFF</span><span class="topo-inside">RSN</span><span class="topo-membrane">GLNRFLMIFVLLVIIIPVPM</span><span class="topo-outside">VFIEPEINNY</span><span class="topo-unknown">PDALWWAIVTATTVGYG</span><span class="topo-outside">DIVPVTP</span><span class="topo-membrane">IGRILASIMMLFGIAFIGMITSTIT</span><span class="topo-inside">NFFRCKKPT</span><span class="topo-unknown">NSSTQRANKITQLISETP</span></span>
+<span class="topo-ruler">       130       </span>
 <span class="topo-line"><span class="topo-unknown">DLTKEEIAVVEQFLTLR</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -691,6 +708,7 @@ The KvLm pore module (PM) is a sensorless pore module dissected from the KvLm vo
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -706,9 +724,11 @@ The KvLm pore module (PM) is a sensorless pore module dissected from the KvLm vo
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MRYIVPIYSFF</span><span class="topo-inside">RSN</span><span class="topo-membrane">GLNRFLMIFVLLVIIIPVPM</span><span class="topo-outside">VFIEPEINNY</span><span class="topo-unknown">PDALWWAIVTATTVGY</span></span>
-<span class="topo-line"><span class="topo-unknown">G</span><span class="topo-outside">DIVPVTP</span><span class="topo-membrane">IGRILASIMMLFGIAFIGMITSTIT</span><span class="topo-inside">NFFRCKKPT</span><span class="topo-unknown">NSSTQRANKITQLISETP</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MRYIVPIYSFF</span><span class="topo-inside">RSN</span><span class="topo-membrane">GLNRFLMIFVLLVIIIPVPM</span><span class="topo-outside">VFIEPEINNY</span><span class="topo-unknown">PDALWWAIVTATTVGYG</span><span class="topo-outside">DIVPVTP</span><span class="topo-membrane">IGRILASIMMLFGIAFIGMITSTIT</span><span class="topo-inside">NFFRCKKPT</span><span class="topo-unknown">NSSTQRANKITQLISETP</span></span>
+<span class="topo-ruler">       130       </span>
 <span class="topo-line"><span class="topo-unknown">DLTKEEIAVVEQFLTLR</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -783,6 +803,7 @@ The KvLm pore module (PM) is a sensorless pore module dissected from the KvLm vo
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -798,9 +819,11 @@ The KvLm pore module (PM) is a sensorless pore module dissected from the KvLm vo
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MRYIVPIYSFF</span><span class="topo-inside">RSN</span><span class="topo-membrane">GLNRFLMIFVLLVIIIPVPM</span><span class="topo-outside">VFIEPEINNY</span><span class="topo-unknown">PDALWWAIVTATTVGY</span></span>
-<span class="topo-line"><span class="topo-unknown">G</span><span class="topo-outside">DIVPVTP</span><span class="topo-membrane">IGRILASIMMLFGIAFIGMITSTIT</span><span class="topo-inside">NFFRCKKPT</span><span class="topo-unknown">NSSTQRANKITQLISETP</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MRYIVPIYSFF</span><span class="topo-inside">RSN</span><span class="topo-membrane">GLNRFLMIFVLLVIIIPVPM</span><span class="topo-outside">VFIEPEINNY</span><span class="topo-unknown">PDALWWAIVTATTVGYG</span><span class="topo-outside">DIVPVTP</span><span class="topo-membrane">IGRILASIMMLFGIAFIGMITSTIT</span><span class="topo-inside">NFFRCKKPT</span><span class="topo-unknown">NSSTQRANKITQLISETP</span></span>
+<span class="topo-ruler">       130       </span>
 <span class="topo-line"><span class="topo-unknown">DLTKEEIAVVEQFLTLR</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -875,6 +898,7 @@ The KvLm pore module (PM) is a sensorless pore module dissected from the KvLm vo
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

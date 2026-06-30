@@ -139,15 +139,17 @@ GPCR Inactive Conformation.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">ASIDKQQIAASVPQRGFFGHPKGL</span><span class="topo-membrane">FTLFFTEFWERFSYYGMRAILV</span><span class="topo-inside">YYMYYEVSKGGLG</span></span>
-<span class="topo-line"><span class="topo-inside">LDEHLAL</span><span class="topo-membrane">AIMSIYGALVYMSGIIGGWLA</span><span class="topo-outside">DRVFGT</span><span class="topo-membrane">SRAVFYGGLLIMAGHIALAI</span><span class="topo-inside">PGGVAA</span></span>
-<span class="topo-line"><span class="topo-membrane">LFVSMALIVLGTGLLKPNVS</span><span class="topo-outside">SIVGDMYKPGDDRRDAGFS</span><span class="topo-membrane">IFYMGINLGAFLAPLVVGTA</span><span class="topo-inside">G</span></span>
-<span class="topo-line"><span class="topo-inside">MKYNFHL</span><span class="topo-membrane">GFGLAAVGMFLGLVVFVATR</span><span class="topo-outside">KKNLGLAGTYVPNPLTPAEKK</span><span class="topo-membrane">KAAAIMAVGAVV</span></span>
-<span class="topo-line"><span class="topo-membrane">IAVLLAILI</span><span class="topo-inside">PNGW</span><span class="topo-membrane">FTVETFISLVGILGIIIPIIYFVV</span><span class="topo-outside">MYRSPKTTAEERSRVI</span><span class="topo-membrane">AYIPLFV</span></span>
-<span class="topo-line"><span class="topo-membrane">ASAMFWAIQEQGSTILA</span><span class="topo-inside">NYADKRTQLDVAGIHLSPA</span><span class="topo-membrane">WFQSLNPLFIIILAPVFAWMW</span><span class="topo-outside">VKL</span></span>
-<span class="topo-line"><span class="topo-outside">GKRQ</span><span class="topo-membrane">PTIPQKFALGLLFAGLSFIVIL</span><span class="topo-inside">VPGHLSGGGLVHPI</span><span class="topo-membrane">WLVLSYFIVVLGELCLSPVG</span></span>
-<span class="topo-line"><span class="topo-membrane">L</span><span class="topo-outside">SATTKLAPAAFSAQTM</span><span class="topo-membrane">SLWFLSNAAAQAINAQLV</span><span class="topo-inside">RFYTPENETAY</span><span class="topo-membrane">FGTIGGAALVLGLI</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">ASIDKQQIAASVPQRGFFGHPKGL</span><span class="topo-membrane">FTLFFTEFWERFSYYGMRAILV</span><span class="topo-inside">YYMYYEVSKGGLGLDEHLAL</span><span class="topo-membrane">AIMSIYGALVYMSGIIGGWLA</span><span class="topo-outside">DRVFGT</span><span class="topo-membrane">SRAVFYGGLLIMAGHIALAI</span><span class="topo-inside">PGGVAA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">LFVSMALIVLGTGLLKPNVS</span><span class="topo-outside">SIVGDMYKPGDDRRDAGFS</span><span class="topo-membrane">IFYMGINLGAFLAPLVVGTA</span><span class="topo-inside">GMKYNFHL</span><span class="topo-membrane">GFGLAAVGMFLGLVVFVATR</span><span class="topo-outside">KKNLGLAGTYVPNPLTPAEKK</span><span class="topo-membrane">KAAAIMAVGAVV</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">IAVLLAILI</span><span class="topo-inside">PNGW</span><span class="topo-membrane">FTVETFISLVGILGIIIPIIYFVV</span><span class="topo-outside">MYRSPKTTAEERSRVI</span><span class="topo-membrane">AYIPLFVASAMFWAIQEQGSTILA</span><span class="topo-inside">NYADKRTQLDVAGIHLSPA</span><span class="topo-membrane">WFQSLNPLFIIILAPVFAWMW</span><span class="topo-outside">VKL</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">GKRQ</span><span class="topo-membrane">PTIPQKFALGLLFAGLSFIVIL</span><span class="topo-inside">VPGHLSGGGLVHPI</span><span class="topo-membrane">WLVLSYFIVVLGELCLSPVGL</span><span class="topo-outside">SATTKLAPAAFSAQTM</span><span class="topo-membrane">SLWFLSNAAAQAINAQLV</span><span class="topo-inside">RFYTPENETAY</span><span class="topo-membrane">FGTIGGAALVLGLI</span></span>
+<span class="topo-ruler">       490       500       </span>
 <span class="topo-line"><span class="topo-membrane">LLAIA</span><span class="topo-outside">PRIGRLMK</span><span class="topo-unknown">GIRLESSGENLYFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (31 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -376,6 +378,7 @@ GPCR Inactive Conformation.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

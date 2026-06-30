@@ -134,10 +134,11 @@ MvINS is a mycobacterial homolog of mammalian Insig proteins, identified from My
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MRLRISEA</span><span class="topo-membrane">VVLFLLGAVAALIGDHSH</span><span class="topo-inside">VVTGTTVYHTDAVP</span><span class="topo-membrane">FVWSSPFWFPILVGAATASL</span></span>
-<span class="topo-line"><span class="topo-membrane">A</span><span class="topo-outside">ELRLHLPAPRDGVTARQA</span><span class="topo-membrane">LGGVAAVVGTYVTTALVH</span><span class="topo-inside">AFPV</span><span class="topo-membrane">VPVTALVCAAAAITWCV</span><span class="topo-outside">LG</span></span>
-<span class="topo-line"><span class="topo-outside">DGPG</span><span class="topo-membrane">AACGVVIAVIGPAVEIAL</span><span class="topo-inside">VQLGVFAYHPDSDGLFGV</span><span class="topo-membrane">APFLAPLYFAFGVVAA</span><span class="topo-outside">LLGE</span></span>
-<span class="topo-line"><span class="topo-outside">LAVARRPQL</span><span class="topo-unknown">GPPVCDTVSRGPGAGHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MRLRISEA</span><span class="topo-membrane">VVLFLLGAVAALIGDHSH</span><span class="topo-inside">VVTGTTVYHTDAVP</span><span class="topo-membrane">FVWSSPFWFPILVGAATASLA</span><span class="topo-outside">ELRLHLPAPRDGVTARQA</span><span class="topo-membrane">LGGVAAVVGTYVTTALVH</span><span class="topo-inside">AFPV</span><span class="topo-membrane">VPVTALVCAAAAITWCV</span><span class="topo-outside">LG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210</span>
+<span class="topo-line"><span class="topo-outside">DGPG</span><span class="topo-membrane">AACGVVIAVIGPAVEIAL</span><span class="topo-inside">VQLGVFAYHPDSDGLFGV</span><span class="topo-membrane">APFLAPLYFAFGVVAA</span><span class="topo-outside">LLGELAVARRPQL</span><span class="topo-unknown">GPPVCDTVSRGPGAGHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (13 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -240,6 +241,7 @@ MvINS is a mycobacterial homolog of mammalian Insig proteins, identified from My
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -255,10 +257,11 @@ MvINS is a mycobacterial homolog of mammalian Insig proteins, identified from My
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MRLRISEA</span><span class="topo-membrane">VVLFLLGAVAALIGDHSH</span><span class="topo-inside">VVTGTTVYHTDAVP</span><span class="topo-membrane">FVWSSPFWFPILVGAATASL</span></span>
-<span class="topo-line"><span class="topo-membrane">A</span><span class="topo-outside">ELRLHLPAPRDGVTARQA</span><span class="topo-membrane">LGGVAAVVGTYVTTALVH</span><span class="topo-inside">AFPV</span><span class="topo-membrane">VPVTALVCAAAAITWCV</span><span class="topo-outside">LG</span></span>
-<span class="topo-line"><span class="topo-outside">DGPG</span><span class="topo-membrane">AACGVVIAVIGPAVEIAL</span><span class="topo-inside">VQLGVFAYHPDSDGLFGV</span><span class="topo-membrane">APFLAPLYFAFGVVAA</span><span class="topo-outside">LLGE</span></span>
-<span class="topo-line"><span class="topo-outside">LAVARRPQL</span><span class="topo-unknown">GPPVCDTVSRGPGAGHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MRLRISEA</span><span class="topo-membrane">VVLFLLGAVAALIGDHSH</span><span class="topo-inside">VVTGTTVYHTDAVP</span><span class="topo-membrane">FVWSSPFWFPILVGAATASLA</span><span class="topo-outside">ELRLHLPAPRDGVTARQA</span><span class="topo-membrane">LGGVAAVVGTYVTTALVH</span><span class="topo-inside">AFPV</span><span class="topo-membrane">VPVTALVCAAAAITWCV</span><span class="topo-outside">LG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210</span>
+<span class="topo-line"><span class="topo-outside">DGPG</span><span class="topo-membrane">AACGVVIAVIGPAVEIAL</span><span class="topo-inside">VQLGVFAYHPDSDGLFGV</span><span class="topo-membrane">APFLAPLYFAFGVVAA</span><span class="topo-outside">LLGELAVARRPQL</span><span class="topo-unknown">GPPVCDTVSRGPGAGHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (13 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -361,6 +364,7 @@ MvINS is a mycobacterial homolog of mammalian Insig proteins, identified from My
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -376,10 +380,11 @@ MvINS is a mycobacterial homolog of mammalian Insig proteins, identified from My
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MRLRISEA</span><span class="topo-membrane">VVLFLLGAVAALIGDHSH</span><span class="topo-inside">VVTGTTVYHTDAVP</span><span class="topo-membrane">FVWSSPFWFPILVGAATASL</span></span>
-<span class="topo-line"><span class="topo-membrane">A</span><span class="topo-outside">ELRLHLPAPRDGVTARQA</span><span class="topo-membrane">LGGVAAVVGTYVTTALVH</span><span class="topo-inside">AFPV</span><span class="topo-membrane">VPVTALVCAAAAITWCV</span><span class="topo-outside">LG</span></span>
-<span class="topo-line"><span class="topo-outside">DGPG</span><span class="topo-membrane">AACGVVIAVIGPAVEIAL</span><span class="topo-inside">VQLGVFAYHPDSDGLFGV</span><span class="topo-membrane">APFLAPLYFAFGVVAA</span><span class="topo-outside">LLGE</span></span>
-<span class="topo-line"><span class="topo-outside">LAVARRPQL</span><span class="topo-unknown">GPPVCDTVSRGPGAGHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MRLRISEA</span><span class="topo-membrane">VVLFLLGAVAALIGDHSH</span><span class="topo-inside">VVTGTTVYHTDAVP</span><span class="topo-membrane">FVWSSPFWFPILVGAATASLA</span><span class="topo-outside">ELRLHLPAPRDGVTARQA</span><span class="topo-membrane">LGGVAAVVGTYVTTALVH</span><span class="topo-inside">AFPV</span><span class="topo-membrane">VPVTALVCAAAAITWCV</span><span class="topo-outside">LG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210</span>
+<span class="topo-line"><span class="topo-outside">DGPG</span><span class="topo-membrane">AACGVVIAVIGPAVEIAL</span><span class="topo-inside">VQLGVFAYHPDSDGLFGV</span><span class="topo-membrane">APFLAPLYFAFGVVAA</span><span class="topo-outside">LLGELAVARRPQL</span><span class="topo-unknown">GPPVCDTVSRGPGAGHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (13 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -482,6 +487,7 @@ MvINS is a mycobacterial homolog of mammalian Insig proteins, identified from My
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -497,10 +503,11 @@ MvINS is a mycobacterial homolog of mammalian Insig proteins, identified from My
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MRLRISEA</span><span class="topo-membrane">VVLFLLGAVAALIGDHSH</span><span class="topo-inside">VVTGTTVYHTDAVP</span><span class="topo-membrane">FVWSSPFWFPILVGAATASL</span></span>
-<span class="topo-line"><span class="topo-membrane">A</span><span class="topo-outside">ELRLHLPAPRDGVTARQA</span><span class="topo-membrane">LGGVAAVVGTYVTTALVH</span><span class="topo-inside">AFPV</span><span class="topo-membrane">VPVTALVCAAAAITWCV</span><span class="topo-outside">LG</span></span>
-<span class="topo-line"><span class="topo-outside">DGPG</span><span class="topo-membrane">AACGVVIAVIGPAVEIAL</span><span class="topo-inside">VQLGVFAYHPDSDGLFGV</span><span class="topo-membrane">APFLAPLYFAFGVVAA</span><span class="topo-outside">LLGE</span></span>
-<span class="topo-line"><span class="topo-outside">LAVARRPQL</span><span class="topo-unknown">GPPVCDTVSRGPGAGHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MRLRISEA</span><span class="topo-membrane">VVLFLLGAVAALIGDHSH</span><span class="topo-inside">VVTGTTVYHTDAVP</span><span class="topo-membrane">FVWSSPFWFPILVGAATASLA</span><span class="topo-outside">ELRLHLPAPRDGVTARQA</span><span class="topo-membrane">LGGVAAVVGTYVTTALVH</span><span class="topo-inside">AFPV</span><span class="topo-membrane">VPVTALVCAAAAITWCV</span><span class="topo-outside">LG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210</span>
+<span class="topo-line"><span class="topo-outside">DGPG</span><span class="topo-membrane">AACGVVIAVIGPAVEIAL</span><span class="topo-inside">VQLGVFAYHPDSDGLFGV</span><span class="topo-membrane">APFLAPLYFAFGVVAA</span><span class="topo-outside">LLGELAVARRPQL</span><span class="topo-unknown">GPPVCDTVSRGPGAGHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (13 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -603,6 +610,7 @@ MvINS is a mycobacterial homolog of mammalian Insig proteins, identified from My
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -618,10 +626,11 @@ MvINS is a mycobacterial homolog of mammalian Insig proteins, identified from My
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MRLRISEA</span><span class="topo-membrane">VVLFLLGAVAALIGDHSH</span><span class="topo-inside">VVTGTTVYHTDAVP</span><span class="topo-membrane">FVWSSPFWFPILVGAATASL</span></span>
-<span class="topo-line"><span class="topo-membrane">A</span><span class="topo-outside">ELRLHLPAPRDGVTARQA</span><span class="topo-membrane">LGGVAAVVGTYVTTALVH</span><span class="topo-inside">AFPV</span><span class="topo-membrane">VPVTALVCAAAAITWCV</span><span class="topo-outside">LG</span></span>
-<span class="topo-line"><span class="topo-outside">DGPG</span><span class="topo-membrane">AACGVVIAVIGPAVEIAL</span><span class="topo-inside">VQLGVFAYHPDSDGLFGV</span><span class="topo-membrane">APFLAPLYFAFGVVAA</span><span class="topo-outside">LLGE</span></span>
-<span class="topo-line"><span class="topo-outside">LAVARRPQL</span><span class="topo-unknown">GPPVCDTVSRGPGAGHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MRLRISEA</span><span class="topo-membrane">VVLFLLGAVAALIGDHSH</span><span class="topo-inside">VVTGTTVYHTDAVP</span><span class="topo-membrane">FVWSSPFWFPILVGAATASLA</span><span class="topo-outside">ELRLHLPAPRDGVTARQA</span><span class="topo-membrane">LGGVAAVVGTYVTTALVH</span><span class="topo-inside">AFPV</span><span class="topo-membrane">VPVTALVCAAAAITWCV</span><span class="topo-outside">LG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210</span>
+<span class="topo-line"><span class="topo-outside">DGPG</span><span class="topo-membrane">AACGVVIAVIGPAVEIAL</span><span class="topo-inside">VQLGVFAYHPDSDGLFGV</span><span class="topo-membrane">APFLAPLYFAFGVVAA</span><span class="topo-outside">LLGELAVARRPQL</span><span class="topo-unknown">GPPVCDTVSRGPGAGHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (13 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -724,6 +733,7 @@ MvINS is a mycobacterial homolog of mammalian Insig proteins, identified from My
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -739,10 +749,11 @@ MvINS is a mycobacterial homolog of mammalian Insig proteins, identified from My
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MRLRISEA</span><span class="topo-membrane">VVLFLLGAVAALIGDHSH</span><span class="topo-inside">VVTGTTVYHTDAVP</span><span class="topo-membrane">FVWSSPFWFPILVGAATASL</span></span>
-<span class="topo-line"><span class="topo-membrane">A</span><span class="topo-outside">ELRLHLPAPRDGVTARQA</span><span class="topo-membrane">LGGVAAVVGTYVTTALVH</span><span class="topo-inside">AFPV</span><span class="topo-membrane">VPVTALVCAAAAITWCV</span><span class="topo-outside">LG</span></span>
-<span class="topo-line"><span class="topo-outside">DGPG</span><span class="topo-membrane">AACGVVIAVIGPAVEIAL</span><span class="topo-inside">VQLGVFAYHPDSDGLFGV</span><span class="topo-membrane">APFLAPLYFAFGVVAA</span><span class="topo-outside">LLGE</span></span>
-<span class="topo-line"><span class="topo-outside">LAVARRPQL</span><span class="topo-unknown">GPPVCDTVSRGPGAGHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MRLRISEA</span><span class="topo-membrane">VVLFLLGAVAALIGDHSH</span><span class="topo-inside">VVTGTTVYHTDAVP</span><span class="topo-membrane">FVWSSPFWFPILVGAATASLA</span><span class="topo-outside">ELRLHLPAPRDGVTARQA</span><span class="topo-membrane">LGGVAAVVGTYVTTALVH</span><span class="topo-inside">AFPV</span><span class="topo-membrane">VPVTALVCAAAAITWCV</span><span class="topo-outside">LG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210</span>
+<span class="topo-line"><span class="topo-outside">DGPG</span><span class="topo-membrane">AACGVVIAVIGPAVEIAL</span><span class="topo-inside">VQLGVFAYHPDSDGLFGV</span><span class="topo-membrane">APFLAPLYFAFGVVAA</span><span class="topo-outside">LLGELAVARRPQL</span><span class="topo-unknown">GPPVCDTVSRGPGAGHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (13 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -845,6 +856,7 @@ MvINS is a mycobacterial homolog of mammalian Insig proteins, identified from My
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

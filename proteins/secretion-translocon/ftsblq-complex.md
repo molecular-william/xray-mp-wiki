@@ -172,11 +172,13 @@ FtsB-FtsQ Batch Crystallization with Free Interface Diffusion may modulate divis
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSQAALNTRNSEEEVSSRRNN</span><span class="topo-outside">GTRLAGILFLLT</span><span class="topo-membrane">VLTTVLVSGWVVLGWMEDAQR</span><span class="topo-inside">LPLSKL</span></span>
-<span class="topo-line"><span class="topo-inside">VLTGERHYTRNDDIRQSILALGEPGTFMTQDVNIIQTQIEQRLPWIKQVSVRKQWPDELK</span></span>
-<span class="topo-line"><span class="topo-inside">IHLVEYVPIARWNDQHMVDAEGNTFSVPPERTSKQVLPMLYGPEGSANEVLQGYREMGQM</span></span>
-<span class="topo-line"><span class="topo-inside">LAKDRFTLKEAAMTARRSWQLTLNNDIKLNLGRGDTMKRLARFVELYPVLQQQAQTDGKR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSQAALNTRNSEEEVSSRRNN</span><span class="topo-outside">GTRLAGILFLLT</span><span class="topo-membrane">VLTTVLVSGWVVLGWMEDAQR</span><span class="topo-inside">LPLSKLVLTGERHYTRNDDIRQSILALGEPGTFMTQDVNIIQTQIEQRLPWIKQVSVRKQWPDELK</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">IHLVEYVPIARWNDQHMVDAEGNTFSVPPERTSKQVLPMLYGPEGSANEVLQGYREMGQMLAKDRFTLKEAAMTARRSWQLTLNNDIKLNLGRGDTMKRLARFVELYPVLQQQAQTDGKR</span></span>
+<span class="topo-ruler">       250       260       270      </span>
 <span class="topo-line"><span class="topo-inside">ISYVDLRYDSGAAVGWAPLP</span><span class="topo-unknown">PEESTQQQNQAQAEQQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -223,6 +225,7 @@ FtsB-FtsQ Batch Crystallization with Free Interface Diffusion may modulate divis
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -238,8 +241,9 @@ FtsB-FtsQ Batch Crystallization with Free Interface Diffusion may modulate divis
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGSSHHHHHHSQDPNS</span><span class="topo-outside">MGK</span><span class="topo-membrane">LTLLLLAILVWLQYSLWFGKNGIHDYT</span><span class="topo-inside">RVNDDVAAQQATNA</span></span>
-<span class="topo-line"><span class="topo-inside">KLKARNDQLFAEIDDLNGGQEALEERARNELSMTRPGETFYRLVP</span><span class="topo-unknown">DASKRAQSAGQNNR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110         </span>
+<span class="topo-line"><span class="topo-unknown">MGSSHHHHHHSQDPNS</span><span class="topo-outside">MGK</span><span class="topo-membrane">LTLLLLAILVWLQYSLWFGKNGIHDYT</span><span class="topo-inside">RVNDDVAAQQATNAKLKARNDQLFAEIDDLNGGQEALEERARNELSMTRPGETFYRLVP</span><span class="topo-unknown">DASKRAQSAGQNNR</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -286,6 +290,7 @@ FtsB-FtsQ Batch Crystallization with Free Interface Diffusion may modulate divis
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -301,9 +306,11 @@ FtsB-FtsQ Batch Crystallization with Free Interface Diffusion may modulate divis
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MISRVTEALSKVKGSMGSHERHALPGVIGDDLLRFGKL</span><span class="topo-outside">P</span><span class="topo-membrane">LCLFICIILTAVTVVTTA</span><span class="topo-inside">HHT</span></span>
-<span class="topo-line"><span class="topo-inside">RLLTAQREQLVLERDALDIEWRNLILEENALGDHSRVERIATEKLQMQHVDPSQENIVV</span><span class="topo-unknown">Q</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MISRVTEALSKVKGSMGSHERHALPGVIGDDLLRFGKL</span><span class="topo-outside">P</span><span class="topo-membrane">LCLFICIILTAVTVVTTA</span><span class="topo-inside">HHTRLLTAQREQLVLERDALDIEWRNLILEENALGDHSRVERIATEKLQMQHVDPSQENIVV</span><span class="topo-unknown">Q</span></span>
+<span class="topo-ruler"> </span>
 <span class="topo-line"><span class="topo-unknown">K</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -350,6 +357,7 @@ FtsB-FtsQ Batch Crystallization with Free Interface Diffusion may modulate divis
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -365,11 +373,13 @@ FtsB-FtsQ Batch Crystallization with Free Interface Diffusion may modulate divis
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSQAALNTRNSEEEVSSRRNN</span><span class="topo-outside">GTRLAGILFLL</span><span class="topo-membrane">TVLTTVLVSGWVVLGWMEDAQR</span><span class="topo-inside">LPLSKL</span></span>
-<span class="topo-line"><span class="topo-inside">VLTGERHYTRNDDIRQSILALGEPGTFMTQDVNIIQTQIEQRLPWIKQVSVRKQWPDELK</span></span>
-<span class="topo-line"><span class="topo-inside">IHLVEYVPIARWNDQHMVDAEGNTFSVPPERTSKQVLPMLYGPEGSANEVLQGYREMGQM</span></span>
-<span class="topo-line"><span class="topo-inside">LAKDRFTLKEAAMTARRSWQLTLNNDIKLNLGRGDTMKRLARFVELYPVLQQQAQTDGKR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSQAALNTRNSEEEVSSRRNN</span><span class="topo-outside">GTRLAGILFLL</span><span class="topo-membrane">TVLTTVLVSGWVVLGWMEDAQR</span><span class="topo-inside">LPLSKLVLTGERHYTRNDDIRQSILALGEPGTFMTQDVNIIQTQIEQRLPWIKQVSVRKQWPDELK</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">IHLVEYVPIARWNDQHMVDAEGNTFSVPPERTSKQVLPMLYGPEGSANEVLQGYREMGQMLAKDRFTLKEAAMTARRSWQLTLNNDIKLNLGRGDTMKRLARFVELYPVLQQQAQTDGKR</span></span>
+<span class="topo-ruler">       250       260       270      </span>
 <span class="topo-line"><span class="topo-inside">ISYVDLRYDSGAAVGWAPLP</span><span class="topo-unknown">PEESTQQQNQAQAEQQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -416,6 +426,7 @@ FtsB-FtsQ Batch Crystallization with Free Interface Diffusion may modulate divis
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -431,8 +442,9 @@ FtsB-FtsQ Batch Crystallization with Free Interface Diffusion may modulate divis
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGSSHHHHHHSQDPNS</span><span class="topo-outside">MGKL</span><span class="topo-membrane">TLLLLAILVWLQYSLWFGKNG</span><span class="topo-inside">IHDYTRVNDDVAAQQATNA</span></span>
-<span class="topo-line"><span class="topo-inside">KLKARNDQLFAEIDHLNGGQEALEERARNELSMTRPGETFYRLVP</span><span class="topo-unknown">DASKRAQSAGQNNR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110         </span>
+<span class="topo-line"><span class="topo-unknown">MGSSHHHHHHSQDPNS</span><span class="topo-outside">MGKL</span><span class="topo-membrane">TLLLLAILVWLQYSLWFGKNG</span><span class="topo-inside">IHDYTRVNDDVAAQQATNAKLKARNDQLFAEIDHLNGGQEALEERARNELSMTRPGETFYRLVP</span><span class="topo-unknown">DASKRAQSAGQNNR</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -479,6 +491,7 @@ FtsB-FtsQ Batch Crystallization with Free Interface Diffusion may modulate divis
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -494,9 +507,11 @@ FtsB-FtsQ Batch Crystallization with Free Interface Diffusion may modulate divis
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MISRVTEALSKVKGSMGSHERHALPGVIGDDLLRFGKL</span><span class="topo-outside">P</span><span class="topo-membrane">LCLFICIILTAVTVVTTAH</span><span class="topo-inside">HT</span></span>
-<span class="topo-line"><span class="topo-inside">RLLTAQREQLVLERDALDIEWRNLILEENALGDHSRVERIATEKLQMQHVDPSQENIVV</span><span class="topo-unknown">Q</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MISRVTEALSKVKGSMGSHERHALPGVIGDDLLRFGKL</span><span class="topo-outside">P</span><span class="topo-membrane">LCLFICIILTAVTVVTTAH</span><span class="topo-inside">HTRLLTAQREQLVLERDALDIEWRNLILEENALGDHSRVERIATEKLQMQHVDPSQENIVV</span><span class="topo-unknown">Q</span></span>
+<span class="topo-ruler"> </span>
 <span class="topo-line"><span class="topo-unknown">K</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -543,6 +558,7 @@ FtsB-FtsQ Batch Crystallization with Free Interface Diffusion may modulate divis
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -558,11 +574,13 @@ FtsB-FtsQ Batch Crystallization with Free Interface Diffusion may modulate divis
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSQAALNTRNSEEEVSSRRNN</span><span class="topo-outside">GTRLAGILFLLT</span><span class="topo-membrane">VLTTVLVSGWVVLGWMEDAQR</span><span class="topo-inside">LPLSKL</span></span>
-<span class="topo-line"><span class="topo-inside">VLTGERHYTRNDDIRQSILALGEPGTFMTQDVNIIQTQIEQRLPWIKQVSVRKQWPDELK</span></span>
-<span class="topo-line"><span class="topo-inside">IHLVEYVPIARWNDQHMVDAEGNTFSVPPERTSKQVLPMLYGPEGSANEVLQGYREMGQM</span></span>
-<span class="topo-line"><span class="topo-inside">LAKDRFTLKEAAMTARRSWQLTLNNDIKLNLGRGDTMKRLARFVELYPVLQQQAQTDGKR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSQAALNTRNSEEEVSSRRNN</span><span class="topo-outside">GTRLAGILFLLT</span><span class="topo-membrane">VLTTVLVSGWVVLGWMEDAQR</span><span class="topo-inside">LPLSKLVLTGERHYTRNDDIRQSILALGEPGTFMTQDVNIIQTQIEQRLPWIKQVSVRKQWPDELK</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">IHLVEYVPIARWNDQHMVDAEGNTFSVPPERTSKQVLPMLYGPEGSANEVLQGYREMGQMLAKDRFTLKEAAMTARRSWQLTLNNDIKLNLGRGDTMKRLARFVELYPVLQQQAQTDGKR</span></span>
+<span class="topo-ruler">       250       260       270      </span>
 <span class="topo-line"><span class="topo-inside">ISYVDLRYDSGAAVGWAPLP</span><span class="topo-unknown">PEESTQQQNQAQAEQQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -609,6 +627,7 @@ FtsB-FtsQ Batch Crystallization with Free Interface Diffusion may modulate divis
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -624,8 +643,9 @@ FtsB-FtsQ Batch Crystallization with Free Interface Diffusion may modulate divis
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGSSHHHHHHSQDPNS</span><span class="topo-outside">MGK</span><span class="topo-membrane">LTLLLLAILVWLQYSLWFGKNGIHD</span><span class="topo-inside">YTRVNDDVAAQQATNA</span></span>
-<span class="topo-line"><span class="topo-inside">KLKARNDQLFAAIDDLNGGQEALEERARNELSMTRPGETFYRLVP</span><span class="topo-unknown">DASKRAQSAGQNNR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110         </span>
+<span class="topo-line"><span class="topo-unknown">MGSSHHHHHHSQDPNS</span><span class="topo-outside">MGK</span><span class="topo-membrane">LTLLLLAILVWLQYSLWFGKNGIHD</span><span class="topo-inside">YTRVNDDVAAQQATNAKLKARNDQLFAAIDDLNGGQEALEERARNELSMTRPGETFYRLVP</span><span class="topo-unknown">DASKRAQSAGQNNR</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -672,6 +692,7 @@ FtsB-FtsQ Batch Crystallization with Free Interface Diffusion may modulate divis
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -687,9 +708,11 @@ FtsB-FtsQ Batch Crystallization with Free Interface Diffusion may modulate divis
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MISRVTEALSKVKGSMGSHERHALPGVIGDDLLRFGKL</span><span class="topo-outside">P</span><span class="topo-membrane">LCLFICIILTAVTVVTTA</span><span class="topo-inside">HHT</span></span>
-<span class="topo-line"><span class="topo-inside">RLLTAQREQLVLERDALDIEWRNLILEENALGDHSRVERIATEKLQMQHVDPSQENIVV</span><span class="topo-unknown">Q</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MISRVTEALSKVKGSMGSHERHALPGVIGDDLLRFGKL</span><span class="topo-outside">P</span><span class="topo-membrane">LCLFICIILTAVTVVTTA</span><span class="topo-inside">HHTRLLTAQREQLVLERDALDIEWRNLILEENALGDHSRVERIATEKLQMQHVDPSQENIVV</span><span class="topo-unknown">Q</span></span>
+<span class="topo-ruler"> </span>
 <span class="topo-line"><span class="topo-unknown">K</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -736,6 +759,7 @@ FtsB-FtsQ Batch Crystallization with Free Interface Diffusion may modulate divis
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

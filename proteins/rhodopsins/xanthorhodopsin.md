@@ -130,11 +130,13 @@ Xanthorhodopsin is a light-driven proton pump from the eubacterium Salinibacter 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MLQ</span><span class="topo-inside">ELPTLTPGQYSLV</span><span class="topo-membrane">FNMFSFTVATMTASFVFFVLARNNV</span><span class="topo-outside">APKY</span><span class="topo-membrane">RISMMVSALVVFIAG</span></span>
-<span class="topo-line"><span class="topo-membrane">YHYFRITS</span><span class="topo-inside">SWEAAYALQNGMYQPTGELFND</span><span class="topo-membrane">AYRYVDWLLTVPLLTVELVLVM</span><span class="topo-outside">GLPKNERG</span></span>
-<span class="topo-line"><span class="topo-membrane">PLAAKLGFLAALMIVLGYPGEVS</span><span class="topo-inside">ENAAL</span><span class="topo-membrane">FGTRGLWGFLSTIPFVWILYILFTQL</span><span class="topo-outside">GDTIQR</span></span>
-<span class="topo-line"><span class="topo-outside">QSSRVST</span><span class="topo-membrane">LLGNARLLLLATWGFYPIAYMIPM</span><span class="topo-unknown">AFPEAF</span><span class="topo-inside">PSNTPGTIVA</span><span class="topo-membrane">LQVGYTIADVLAK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MLQ</span><span class="topo-inside">ELPTLTPGQYSLV</span><span class="topo-membrane">FNMFSFTVATMTASFVFFVLARNNV</span><span class="topo-outside">APKY</span><span class="topo-membrane">RISMMVSALVVFIAGYHYFRITS</span><span class="topo-inside">SWEAAYALQNGMYQPTGELFND</span><span class="topo-membrane">AYRYVDWLLTVPLLTVELVLVM</span><span class="topo-outside">GLPKNERG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">PLAAKLGFLAALMIVLGYPGEVS</span><span class="topo-inside">ENAAL</span><span class="topo-membrane">FGTRGLWGFLSTIPFVWILYILFTQL</span><span class="topo-outside">GDTIQRQSSRVST</span><span class="topo-membrane">LLGNARLLLLATWGFYPIAYMIPM</span><span class="topo-unknown">AFPEAF</span><span class="topo-inside">PSNTPGTIVA</span><span class="topo-membrane">LQVGYTIADVLAK</span></span>
+<span class="topo-ruler">       250       260       270   </span>
 <span class="topo-line"><span class="topo-membrane">AGYGVLIYNIAK</span><span class="topo-outside">AKSEEEGFN</span><span class="topo-unknown">VSEMVEPATASA</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -272,6 +274,7 @@ Xanthorhodopsin is a light-driven proton pump from the eubacterium Salinibacter 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

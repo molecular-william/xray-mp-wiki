@@ -157,15 +157,17 @@ bone disorders.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">NSTLFSQVENHSVHSN</span><span class="topo-inside">FSEKNAQLLAFENDDCHLPLAMIF</span><span class="topo-membrane">TLALAYGAVIILGVSGNLAL</span></span>
-<span class="topo-line"><span class="topo-membrane">IIIILK</span><span class="topo-outside">QKEMRNV</span><span class="topo-membrane">TNILIVNLSFSDLLVAIMCLPFTF</span><span class="topo-inside">VYTLMDHWVFGEA</span><span class="topo-membrane">MCKLNPFVQC</span></span>
-<span class="topo-line"><span class="topo-membrane">VSITVSIWSLVLIAVERH</span><span class="topo-outside">QLIINPRGWRPNNR</span><span class="topo-membrane">HAYVGIAVIWVLAVASSLPFLI</span><span class="topo-inside">YQVMTD</span></span>
-<span class="topo-line"><span class="topo-inside">EPFQNVTLDAYKDKYVCFDQFPSDSH</span><span class="topo-membrane">RLSYTTLLLVLQYFGPLCFIFICYFKIY</span><span class="topo-outside">IRLKRR</span></span>
-<span class="topo-line"><span class="topo-unknown">NNMMDKMRDNKYRS</span><span class="topo-outside">SETKRI</span><span class="topo-membrane">NIMLLSIVVAFAVCWLPLTIFNTV</span><span class="topo-inside">FDWNHQIIATCNHNLL</span></span>
-<span class="topo-line"><span class="topo-membrane">FLLCHLTAMISTCVNPIFYGFLN</span><span class="topo-unknown">KNFQRDLQFF</span><span class="topo-outside">FNF</span><span class="topo-unknown">CDFRSRDDDYETIAMSTMHTDEFL</span></span>
-<span class="topo-line"><span class="topo-unknown">EVLFQ</span><span class="topo-outside">NIFEMLRIDEGLRLKIYKDTEGYYTIGIGHLLTKSPSLNAAKSELDKAIGRNTNG</span></span>
-<span class="topo-line"><span class="topo-outside">VITKDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVFQMGETGVAGFTN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">NSTLFSQVENHSVHSN</span><span class="topo-inside">FSEKNAQLLAFENDDCHLPLAMIF</span><span class="topo-membrane">TLALAYGAVIILGVSGNLALIIIILK</span><span class="topo-outside">QKEMRNV</span><span class="topo-membrane">TNILIVNLSFSDLLVAIMCLPFTF</span><span class="topo-inside">VYTLMDHWVFGEA</span><span class="topo-membrane">MCKLNPFVQC</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">VSITVSIWSLVLIAVERH</span><span class="topo-outside">QLIINPRGWRPNNR</span><span class="topo-membrane">HAYVGIAVIWVLAVASSLPFLI</span><span class="topo-inside">YQVMTDEPFQNVTLDAYKDKYVCFDQFPSDSH</span><span class="topo-membrane">RLSYTTLLLVLQYFGPLCFIFICYFKIY</span><span class="topo-outside">IRLKRR</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-unknown">NNMMDKMRDNKYRS</span><span class="topo-outside">SETKRI</span><span class="topo-membrane">NIMLLSIVVAFAVCWLPLTIFNTV</span><span class="topo-inside">FDWNHQIIATCNHNLL</span><span class="topo-membrane">FLLCHLTAMISTCVNPIFYGFLN</span><span class="topo-unknown">KNFQRDLQFF</span><span class="topo-outside">FNF</span><span class="topo-unknown">CDFRSRDDDYETIAMSTMHTDEFL</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-unknown">EVLFQ</span><span class="topo-outside">NIFEMLRIDEGLRLKIYKDTEGYYTIGIGHLLTKSPSLNAAKSELDKAIGRNTNGVITKDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVFQMGETGVAGFTN</span></span>
+<span class="topo-ruler">       490       500       510       520     </span>
 <span class="topo-line"><span class="topo-outside">SLRMLQQKRWDEAAVN</span><span class="topo-unknown">LAK</span><span class="topo-outside">SRWYNQTPNRAKRVITTFRTGTWDAY</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -310,6 +312,7 @@ bone disorders.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -325,15 +328,17 @@ bone disorders.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">DYKDDDDGAPNSTLFSQVENHSVHSNFSEKNAQLLAFEN</span><span class="topo-inside">DDCHLPL</span><span class="topo-membrane">AMIFTLALAYGAVI</span></span>
-<span class="topo-line"><span class="topo-membrane">ILGVSGNLALII</span><span class="topo-outside">IILKQKEMRNVTNI</span><span class="topo-membrane">LIVNLSFSDLLVAIMCLPFTFVYTL</span><span class="topo-inside">MDHWVF</span><span class="topo-membrane">GEA</span></span>
-<span class="topo-line"><span class="topo-membrane">MCKLNPFVQCVSITVSIWSLVLIAV</span><span class="topo-outside">ERHQLIINPRGWRPNNRHA</span><span class="topo-membrane">YVGIAVIWVLAVASSL</span></span>
-<span class="topo-line"><span class="topo-membrane">PFLIYQ</span><span class="topo-inside">VMTDEPFQNVTLDAYKDKYVCFDQFPSDSH</span><span class="topo-membrane">RLSYTTLLLVLQYFGPLCFIFICY</span></span>
-<span class="topo-line"><span class="topo-membrane">F</span><span class="topo-outside">KIYIRLKRRNIFEMLRIDEGLRLKIYKDTEGYYTIGIGHLLTKSPSLNAAKSELDKAIG</span></span>
-<span class="topo-line"><span class="topo-outside">RNTNGVITKDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVFQMGETGV</span></span>
-<span class="topo-line"><span class="topo-outside">AGFTNSLRMLQQKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWDAYDNKYRSSETK</span></span>
-<span class="topo-line"><span class="topo-outside">RINIM</span><span class="topo-membrane">LLSIVVAFAVCWLPLTIFNTVFD</span><span class="topo-inside">WNHQIIATCNHN</span><span class="topo-membrane">LLFLLCHLTAMISTCVNPIF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">DYKDDDDGAPNSTLFSQVENHSVHSNFSEKNAQLLAFEN</span><span class="topo-inside">DDCHLPL</span><span class="topo-membrane">AMIFTLALAYGAVIILGVSGNLALII</span><span class="topo-outside">IILKQKEMRNVTNI</span><span class="topo-membrane">LIVNLSFSDLLVAIMCLPFTFVYTL</span><span class="topo-inside">MDHWVF</span><span class="topo-membrane">GEA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">MCKLNPFVQCVSITVSIWSLVLIAV</span><span class="topo-outside">ERHQLIINPRGWRPNNRHA</span><span class="topo-membrane">YVGIAVIWVLAVASSLPFLIYQ</span><span class="topo-inside">VMTDEPFQNVTLDAYKDKYVCFDQFPSDSH</span><span class="topo-membrane">RLSYTTLLLVLQYFGPLCFIFICY</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">F</span><span class="topo-outside">KIYIRLKRRNIFEMLRIDEGLRLKIYKDTEGYYTIGIGHLLTKSPSLNAAKSELDKAIGRNTNGVITKDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVFQMGETGV</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">AGFTNSLRMLQQKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWDAYDNKYRSSETKRINIM</span><span class="topo-membrane">LLSIVVAFAVCWLPLTIFNTVFD</span><span class="topo-inside">WNHQIIATCNHN</span><span class="topo-membrane">LLFLLCHLTAMISTCVNPIF</span></span>
+<span class="topo-ruler">       490       500       510       520       </span>
 <span class="topo-line"><span class="topo-membrane">YGF</span><span class="topo-outside">LN</span><span class="topo-unknown">KNFQRDLQFFF</span><span class="topo-outside">NFCD</span><span class="topo-unknown">FRSRDDDYETIAMSTMHTDEFLEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -464,6 +469,7 @@ bone disorders.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

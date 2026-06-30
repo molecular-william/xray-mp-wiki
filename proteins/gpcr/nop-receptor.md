@@ -118,14 +118,15 @@ The nociceptin/orphanin FQ peptide receptor (NOP), also known as ORL-1, is a mem
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">DYKDDDDGAPADLEDNWETLNDNLKVIEKADNAAQVKDALTKMRAAALDAQKATPPKLED</span></span>
-<span class="topo-line"><span class="topo-unknown">KSPDSPEMKDFRHGFDILVGQIDDALKLANEGKVKEAQAAAEQLKTTRNAYIQKYLGAFL</span></span>
-<span class="topo-line"><span class="topo-inside">PLGL</span><span class="topo-membrane">KVTIVGLYLAVCVGGLLGNCLVMY</span><span class="topo-outside">VILRHTKMKTATNIY</span><span class="topo-membrane">IFNLALADTLVLLTLPF</span></span>
-<span class="topo-line"><span class="topo-membrane">QGTDI</span><span class="topo-inside">LLGFWPF</span><span class="topo-membrane">GNALCKTVIAIDYYNMFTSTFTLTA</span><span class="topo-outside">MSVDRYVAICHP</span><span class="topo-unknown">IRALDVR</span><span class="topo-outside">TSSK</span></span>
-<span class="topo-line"><span class="topo-outside">AQAV</span><span class="topo-membrane">NVAIWALASVVGVPVAIMGS</span><span class="topo-inside">AQVEDEEIECLVEIPTPQ</span><span class="topo-membrane">DYWGPVFAICIFLFSFIV</span></span>
-<span class="topo-line"><span class="topo-membrane">PVLVIS</span><span class="topo-outside">VCYSLMIRRLRGVRLLSGSREKDRNLRRITRLVL</span><span class="topo-membrane">VVVAVFVGCWTPVQVFVLAQ</span></span>
-<span class="topo-line"><span class="topo-membrane">GLGVQP</span><span class="topo-inside">SSET</span><span class="topo-membrane">AVAILRFCTALGYVNSCLNPILYA</span><span class="topo-outside">FLD</span><span class="topo-unknown">ENFKACF</span><span class="topo-outside">R</span><span class="topo-unknown">KFCCASALGRPLEVL</span></span>
-<span class="topo-line"><span class="topo-unknown">FQGPHHHHHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">DYKDDDDGAPADLEDNWETLNDNLKVIEKADNAAQVKDALTKMRAAALDAQKATPPKLEDKSPDSPEMKDFRHGFDILVGQIDDALKLANEGKVKEAQAAAEQLKTTRNAYIQKYLGAFL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">PLGL</span><span class="topo-membrane">KVTIVGLYLAVCVGGLLGNCLVMY</span><span class="topo-outside">VILRHTKMKTATNIY</span><span class="topo-membrane">IFNLALADTLVLLTLPFQGTDI</span><span class="topo-inside">LLGFWPF</span><span class="topo-membrane">GNALCKTVIAIDYYNMFTSTFTLTA</span><span class="topo-outside">MSVDRYVAICHP</span><span class="topo-unknown">IRALDVR</span><span class="topo-outside">TSSK</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">AQAV</span><span class="topo-membrane">NVAIWALASVVGVPVAIMGS</span><span class="topo-inside">AQVEDEEIECLVEIPTPQ</span><span class="topo-membrane">DYWGPVFAICIFLFSFIVPVLVIS</span><span class="topo-outside">VCYSLMIRRLRGVRLLSGSREKDRNLRRITRLVL</span><span class="topo-membrane">VVVAVFVGCWTPVQVFVLAQ</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430    </span>
+<span class="topo-line"><span class="topo-membrane">GLGVQP</span><span class="topo-inside">SSET</span><span class="topo-membrane">AVAILRFCTALGYVNSCLNPILYA</span><span class="topo-outside">FLD</span><span class="topo-unknown">ENFKACF</span><span class="topo-outside">R</span><span class="topo-unknown">KFCCASALGRPLEVLFQGPHHHHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -284,6 +285,7 @@ The nociceptin/orphanin FQ peptide receptor (NOP), also known as ORL-1, is a mem
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -396,14 +398,15 @@ The nociceptin/orphanin FQ peptide receptor (NOP), also known as ORL-1, is a mem
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">DYKDDDDGAPADLEDNWETLNDNLKVIEKADNAAQVKDALTKMRAAALDAQKATPPKLED</span></span>
-<span class="topo-line"><span class="topo-unknown">KSPDSPEMKDFRHGFDILVGQIDDALKLANEGKVKEAQAAAEQLKTTRNAYIQKYLGA</span><span class="topo-inside">FL</span></span>
-<span class="topo-line"><span class="topo-inside">PLG</span><span class="topo-membrane">LKVTIVGLYLAVCVGGLLGNCLVMYV</span><span class="topo-outside">ILRHTKMKTATNI</span><span class="topo-membrane">YIFNLALADTLVLLTLPF</span></span>
-<span class="topo-line"><span class="topo-membrane">QGTDIL</span><span class="topo-inside">LGFWPF</span><span class="topo-membrane">GNALCKTVIAIDYYNMFTSTFTLTAMS</span><span class="topo-outside">VDRYVAICHP</span><span class="topo-unknown">IRALDV</span><span class="topo-outside">RTSSK</span></span>
-<span class="topo-line"><span class="topo-outside">AQ</span><span class="topo-membrane">AVNVAIWALASVVGVPVAIMGSA</span><span class="topo-inside">QVEDEEIECLVEIPTPQ</span><span class="topo-membrane">DYWGPVFAICIFLFSFIV</span></span>
-<span class="topo-line"><span class="topo-membrane">PVLVISV</span><span class="topo-outside">CYSLMIRRLRGVRLLSGSREKDRNLRRITRLV</span><span class="topo-membrane">LVVVAVFVGCWTPVQVFVLAQ</span></span>
-<span class="topo-line"><span class="topo-membrane">GLGVQP</span><span class="topo-inside">SSET</span><span class="topo-membrane">AVAILRFCTALGYVNSCLNPILYAF</span><span class="topo-outside">LD</span><span class="topo-unknown">ENFKACFR</span><span class="topo-outside">K</span><span class="topo-unknown">FCCASALGRPLEVL</span></span>
-<span class="topo-line"><span class="topo-unknown">FQGP</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">DYKDDDDGAPADLEDNWETLNDNLKVIEKADNAAQVKDALTKMRAAALDAQKATPPKLEDKSPDSPEMKDFRHGFDILVGQIDDALKLANEGKVKEAQAAAEQLKTTRNAYIQKYLGA</span><span class="topo-inside">FL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">PLG</span><span class="topo-membrane">LKVTIVGLYLAVCVGGLLGNCLVMYV</span><span class="topo-outside">ILRHTKMKTATNI</span><span class="topo-membrane">YIFNLALADTLVLLTLPFQGTDIL</span><span class="topo-inside">LGFWPF</span><span class="topo-membrane">GNALCKTVIAIDYYNMFTSTFTLTAMS</span><span class="topo-outside">VDRYVAICHP</span><span class="topo-unknown">IRALDV</span><span class="topo-outside">RTSSK</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">AQ</span><span class="topo-membrane">AVNVAIWALASVVGVPVAIMGSA</span><span class="topo-inside">QVEDEEIECLVEIPTPQ</span><span class="topo-membrane">DYWGPVFAICIFLFSFIVPVLVISV</span><span class="topo-outside">CYSLMIRRLRGVRLLSGSREKDRNLRRITRLV</span><span class="topo-membrane">LVVVAVFVGCWTPVQVFVLAQ</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420    </span>
+<span class="topo-line"><span class="topo-membrane">GLGVQP</span><span class="topo-inside">SSET</span><span class="topo-membrane">AVAILRFCTALGYVNSCLNPILYAF</span><span class="topo-outside">LD</span><span class="topo-unknown">ENFKACFR</span><span class="topo-outside">K</span><span class="topo-unknown">FCCASALGRPLEVLFQGP</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -541,6 +544,7 @@ The nociceptin/orphanin FQ peptide receptor (NOP), also known as ORL-1, is a mem
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -556,14 +560,15 @@ The nociceptin/orphanin FQ peptide receptor (NOP), also known as ORL-1, is a mem
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">DYKDDDDGAPADLEDNWETLNDNLKVIEKADNAAQVKDALTKMRAAALDAQKATPPKLED</span></span>
-<span class="topo-line"><span class="topo-unknown">KSPDSPEMKDFRHGFDILVGQIDDALKLANEGKVKEAQAAAEQLKTTRNAYIQKYLGAFL</span></span>
-<span class="topo-line"><span class="topo-inside">PLGL</span><span class="topo-membrane">KVTIVGLYLAVCVGGLLGNCLVMY</span><span class="topo-outside">VILRHTKMKTATNIY</span><span class="topo-membrane">IFNLALADTLVLLTLPF</span></span>
-<span class="topo-line"><span class="topo-membrane">QGTDIL</span><span class="topo-inside">LGFWPF</span><span class="topo-membrane">GNALCKTVIAIDYYNMFTSTFTLTA</span><span class="topo-outside">MSVDRYVAICHPI</span><span class="topo-unknown">RALD</span><span class="topo-outside">VRTSSK</span></span>
-<span class="topo-line"><span class="topo-outside">AQAV</span><span class="topo-membrane">NVAIWALASVVGVPVAIMGSA</span><span class="topo-inside">QVEDEEIECLVEIPTPQ</span><span class="topo-membrane">DYWGPVFAICIFLFSFIV</span></span>
-<span class="topo-line"><span class="topo-membrane">PVLVISV</span><span class="topo-outside">CYSLMIRRLRGVRLLSGSREKDRNLRRITRLVL</span><span class="topo-membrane">VVVAVFVGCWTPVQVFVLAQ</span></span>
-<span class="topo-line"><span class="topo-membrane">GLGVQ</span><span class="topo-inside">PSSET</span><span class="topo-membrane">AVAILRFCTALGYVNSCLNPILYAF</span><span class="topo-outside">LD</span><span class="topo-unknown">ENFKACF</span><span class="topo-outside">R</span><span class="topo-unknown">KFCCASALGRPLEVL</span></span>
-<span class="topo-line"><span class="topo-unknown">FQGP</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">DYKDDDDGAPADLEDNWETLNDNLKVIEKADNAAQVKDALTKMRAAALDAQKATPPKLEDKSPDSPEMKDFRHGFDILVGQIDDALKLANEGKVKEAQAAAEQLKTTRNAYIQKYLGAFL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">PLGL</span><span class="topo-membrane">KVTIVGLYLAVCVGGLLGNCLVMY</span><span class="topo-outside">VILRHTKMKTATNIY</span><span class="topo-membrane">IFNLALADTLVLLTLPFQGTDIL</span><span class="topo-inside">LGFWPF</span><span class="topo-membrane">GNALCKTVIAIDYYNMFTSTFTLTA</span><span class="topo-outside">MSVDRYVAICHPI</span><span class="topo-unknown">RALD</span><span class="topo-outside">VRTSSK</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">AQAV</span><span class="topo-membrane">NVAIWALASVVGVPVAIMGSA</span><span class="topo-inside">QVEDEEIECLVEIPTPQ</span><span class="topo-membrane">DYWGPVFAICIFLFSFIVPVLVISV</span><span class="topo-outside">CYSLMIRRLRGVRLLSGSREKDRNLRRITRLVL</span><span class="topo-membrane">VVVAVFVGCWTPVQVFVLAQ</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420    </span>
+<span class="topo-line"><span class="topo-membrane">GLGVQ</span><span class="topo-inside">PSSET</span><span class="topo-membrane">AVAILRFCTALGYVNSCLNPILYAF</span><span class="topo-outside">LD</span><span class="topo-unknown">ENFKACF</span><span class="topo-outside">R</span><span class="topo-unknown">KFCCASALGRPLEVLFQGP</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -701,6 +706,7 @@ The nociceptin/orphanin FQ peptide receptor (NOP), also known as ORL-1, is a mem
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

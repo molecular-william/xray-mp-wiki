@@ -71,14 +71,15 @@ differs from the facilitated diffusion mechanism of most human GLUTs.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MKANKY</span><span class="topo-inside">LIFILGA</span><span class="topo-membrane">LGGLLYGYDNGVISGALL</span><span class="topo-outside">FIHKDIPLNST</span><span class="topo-membrane">TEGIVVSSMLIGAIVGAG</span></span>
-<span class="topo-line"><span class="topo-membrane">S</span><span class="topo-inside">SGPLADKLGRRRLVM</span><span class="topo-membrane">LIAIVFIIGALILAA</span><span class="topo-outside">STNLA</span><span class="topo-membrane">LLIIGRLIIGLAVGGSM</span><span class="topo-inside">STVPVYL</span></span>
-<span class="topo-line"><span class="topo-inside">SEMAPTEYRGSLGSLNQ</span><span class="topo-membrane">LMITIGILAAYLVNYAF</span><span class="topo-outside">ADIEGW</span><span class="topo-membrane">RWMLGLAVVPSVILLVG</span><span class="topo-inside">IYF</span></span>
-<span class="topo-line"><span class="topo-inside">MPESPRWLLENRNEEAARQVMKITYDDSEIDKELKEMKEINAISESTWTVIKSPWLGRIL</span></span>
-<span class="topo-line"><span class="topo-inside">IVGCIFA</span><span class="topo-membrane">IFQQFIGINAVIFYSSSIF</span><span class="topo-outside">AKAGLGEAA</span><span class="topo-membrane">SILGSVGIGTINVLVTIV</span><span class="topo-inside">AIFVVDK</span></span>
-<span class="topo-line"><span class="topo-inside">IDRKKLLVG</span><span class="topo-membrane">GNIGMIASLLIMAILIW</span><span class="topo-outside">TIGIASS</span><span class="topo-membrane">AWIIIVCLSLFIVFFGISWG</span><span class="topo-inside">PVLWVML</span></span>
-<span class="topo-line"><span class="topo-inside">PELFPMRARGAATGISAL</span><span class="topo-membrane">VLNIGTLIVSLFFPILS</span><span class="topo-outside">DALST</span><span class="topo-membrane">EWVFLIFAFIGVLAMI</span><span class="topo-inside">FVIK</span></span>
-<span class="topo-line"><span class="topo-inside">FLPETRG</span><span class="topo-unknown">RSLEEIEYELRERTGARTE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MKANKY</span><span class="topo-inside">LIFILGA</span><span class="topo-membrane">LGGLLYGYDNGVISGALL</span><span class="topo-outside">FIHKDIPLNST</span><span class="topo-membrane">TEGIVVSSMLIGAIVGAGS</span><span class="topo-inside">SGPLADKLGRRRLVM</span><span class="topo-membrane">LIAIVFIIGALILAA</span><span class="topo-outside">STNLA</span><span class="topo-membrane">LLIIGRLIIGLAVGGSM</span><span class="topo-inside">STVPVYL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">SEMAPTEYRGSLGSLNQ</span><span class="topo-membrane">LMITIGILAAYLVNYAF</span><span class="topo-outside">ADIEGW</span><span class="topo-membrane">RWMLGLAVVPSVILLVG</span><span class="topo-inside">IYFMPESPRWLLENRNEEAARQVMKITYDDSEIDKELKEMKEINAISESTWTVIKSPWLGRIL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">IVGCIFA</span><span class="topo-membrane">IFQQFIGINAVIFYSSSIF</span><span class="topo-outside">AKAGLGEAA</span><span class="topo-membrane">SILGSVGIGTINVLVTIV</span><span class="topo-inside">AIFVVDKIDRKKLLVG</span><span class="topo-membrane">GNIGMIASLLIMAILIW</span><span class="topo-outside">TIGIASS</span><span class="topo-membrane">AWIIIVCLSLFIVFFGISWG</span><span class="topo-inside">PVLWVML</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440      </span>
+<span class="topo-line"><span class="topo-inside">PELFPMRARGAATGISAL</span><span class="topo-membrane">VLNIGTLIVSLFFPILS</span><span class="topo-outside">DALST</span><span class="topo-membrane">EWVFLIFAFIGVLAMI</span><span class="topo-inside">FVIKFLPETRG</span><span class="topo-unknown">RSLEEIEYELRERTGARTE</span></span>
+<details class="topo-details"><summary>Topology coordinates (27 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -279,6 +280,7 @@ differs from the facilitated diffusion mechanism of most human GLUTs.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

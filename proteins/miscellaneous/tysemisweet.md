@@ -104,8 +104,9 @@ TySemiSWEET is a bacterial sugar transporter from the [SemiSWEET Transporter Fam
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MEFSI</span><span class="topo-outside">DLNN</span><span class="topo-membrane">LIGIIAGAITTSALIPQALKIY</span><span class="topo-inside">KTKSARDV</span><span class="topo-membrane">SLAMFIFMAIGITLWFFYG</span><span class="topo-outside">VL</span></span>
-<span class="topo-line"><span class="topo-outside">IKEI</span><span class="topo-membrane">PVILANLISLILIFLIIFMKIR</span><span class="topo-inside">Y</span><span class="topo-unknown">GHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90    </span>
+<span class="topo-line"><span class="topo-unknown">MEFSI</span><span class="topo-outside">DLNN</span><span class="topo-membrane">LIGIIAGAITTSALIPQALKIY</span><span class="topo-inside">KTKSARDV</span><span class="topo-membrane">SLAMFIFMAIGITLWFFYG</span><span class="topo-outside">VLIKEI</span><span class="topo-membrane">PVILANLISLILIFLIIFMKIR</span><span class="topo-inside">Y</span><span class="topo-unknown">GHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -166,6 +167,7 @@ TySemiSWEET is a bacterial sugar transporter from the [SemiSWEET Transporter Fam
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -181,8 +183,9 @@ TySemiSWEET is a bacterial sugar transporter from the [SemiSWEET Transporter Fam
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MEFSI</span><span class="topo-outside">DLNNLI</span><span class="topo-membrane">GIIAGAITTSALIPQALKIY</span><span class="topo-inside">KTKSARDV</span><span class="topo-membrane">SLAMFIFMAIGITLWFFYGV</span><span class="topo-outside">L</span></span>
-<span class="topo-line"><span class="topo-outside">IKEI</span><span class="topo-membrane">PVILANLISLILIFLIIFMKI</span><span class="topo-inside">RYG</span><span class="topo-unknown">HHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90    </span>
+<span class="topo-line"><span class="topo-unknown">MEFSI</span><span class="topo-outside">DLNNLI</span><span class="topo-membrane">GIIAGAITTSALIPQALKIY</span><span class="topo-inside">KTKSARDV</span><span class="topo-membrane">SLAMFIFMAIGITLWFFYGV</span><span class="topo-outside">LIKEI</span><span class="topo-membrane">PVILANLISLILIFLIIFMKI</span><span class="topo-inside">RYG</span><span class="topo-unknown">HHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -243,6 +246,7 @@ TySemiSWEET is a bacterial sugar transporter from the [SemiSWEET Transporter Fam
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

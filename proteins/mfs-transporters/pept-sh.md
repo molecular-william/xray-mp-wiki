@@ -143,15 +143,17 @@ acid scaffold and ester bond interactions with conserved residues.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">QTIQSIPQKGFFGHPRGLG</span><span class="topo-membrane">VLFFVEFWERFSYYGMRAMLI</span><span class="topo-outside">FYMYFAIHQNGLGIDKTTAM</span></span>
-<span class="topo-line"><span class="topo-membrane">SIMSVYGALIYMSSIPGAWIA</span><span class="topo-inside">DRITGTR</span><span class="topo-membrane">GATLLGAVLIIIGHICLSL</span><span class="topo-outside">PFALF</span><span class="topo-membrane">GLFSSMFF</span></span>
-<span class="topo-line"><span class="topo-membrane">IIIGSGLMKPNIS</span><span class="topo-inside">NIVGRLYPENDTRIDAGFV</span><span class="topo-membrane">IFYMSVNLGALISPIILQHF</span><span class="topo-outside">VDIRNFH</span><span class="topo-membrane">G</span></span>
-<span class="topo-line"><span class="topo-membrane">GFLLAAIGMALGLVWYLLF</span><span class="topo-inside">NRKNLGSVGMKPTNPLSKEEK</span><span class="topo-membrane">RKYGMIIGIIVAIVIVVLLV</span></span>
-<span class="topo-line"><span class="topo-outside">TYYTHTLSF</span><span class="topo-membrane">DLISNTVLVLGVALPIIYFTT</span><span class="topo-inside">MLRSKDVTDGERSRVKAF</span><span class="topo-membrane">IPLFILGMLFWS</span></span>
-<span class="topo-line"><span class="topo-membrane">IQEQGSNVLN</span><span class="topo-outside">IYGLERSDMQLNLFGWTTRF</span><span class="topo-membrane">GEALFQSINPLFILLFAPVIS</span><span class="topo-inside">MIWLKMGKK</span></span>
-<span class="topo-line"><span class="topo-inside">QPSL</span><span class="topo-membrane">AIKFSIGTLLAGLSYILIGLV</span><span class="topo-outside">GLGYGHTQFSV</span><span class="topo-membrane">NWVILSYVICVIGELCLSPTGN</span><span class="topo-inside">SA</span></span>
-<span class="topo-line"><span class="topo-inside">AVKLAPKAFNAQMM</span><span class="topo-membrane">SVWLLTNASAQAINGTLVKL</span><span class="topo-outside">IKPLGQTNY</span><span class="topo-membrane">FIFLGTVAIVITLIILV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">QTIQSIPQKGFFGHPRGLG</span><span class="topo-membrane">VLFFVEFWERFSYYGMRAMLI</span><span class="topo-outside">FYMYFAIHQNGLGIDKTTAM</span><span class="topo-membrane">SIMSVYGALIYMSSIPGAWIA</span><span class="topo-inside">DRITGTR</span><span class="topo-membrane">GATLLGAVLIIIGHICLSL</span><span class="topo-outside">PFALF</span><span class="topo-membrane">GLFSSMFF</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">IIIGSGLMKPNIS</span><span class="topo-inside">NIVGRLYPENDTRIDAGFV</span><span class="topo-membrane">IFYMSVNLGALISPIILQHF</span><span class="topo-outside">VDIRNFH</span><span class="topo-membrane">GGFLLAAIGMALGLVWYLLF</span><span class="topo-inside">NRKNLGSVGMKPTNPLSKEEK</span><span class="topo-membrane">RKYGMIIGIIVAIVIVVLLV</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">TYYTHTLSF</span><span class="topo-membrane">DLISNTVLVLGVALPIIYFTT</span><span class="topo-inside">MLRSKDVTDGERSRVKAF</span><span class="topo-membrane">IPLFILGMLFWSIQEQGSNVLN</span><span class="topo-outside">IYGLERSDMQLNLFGWTTRF</span><span class="topo-membrane">GEALFQSINPLFILLFAPVIS</span><span class="topo-inside">MIWLKMGKK</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">QPSL</span><span class="topo-membrane">AIKFSIGTLLAGLSYILIGLV</span><span class="topo-outside">GLGYGHTQFSV</span><span class="topo-membrane">NWVILSYVICVIGELCLSPTGN</span><span class="topo-inside">SAAVKLAPKAFNAQMM</span><span class="topo-membrane">SVWLLTNASAQAINGTLVKL</span><span class="topo-outside">IKPLGQTNY</span><span class="topo-membrane">FIFLGTVAIVITLIILV</span></span>
+<span class="topo-ruler">       </span>
 <span class="topo-line"><span class="topo-membrane">FS</span><span class="topo-inside">PKITK</span></span>
+<details class="topo-details"><summary>Topology coordinates (29 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -366,6 +368,7 @@ acid scaffold and ester bond interactions with conserved residues.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -381,15 +384,17 @@ acid scaffold and ester bond interactions with conserved residues.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">QTIQSIPQKGFFGHPRGLGVL</span><span class="topo-membrane">FFVEFWERFSYYGMRAMLIF</span><span class="topo-outside">YMYFAIHQNGLGIDKTTA</span><span class="topo-membrane">M</span></span>
-<span class="topo-line"><span class="topo-membrane">SIMSVYGALIYMSSIPGAWIA</span><span class="topo-inside">DRITGTRG</span><span class="topo-membrane">ATLLGAVLIIIGHICLSL</span><span class="topo-outside">PFALF</span><span class="topo-membrane">GLFSSMFF</span></span>
-<span class="topo-line"><span class="topo-membrane">IIIGSGLMKPNIS</span><span class="topo-inside">NIVGRLYPENDTRIDAGFVIF</span><span class="topo-membrane">YMSVNLGALISPIILQHFV</span><span class="topo-outside">DIRNF</span><span class="topo-membrane">HG</span></span>
-<span class="topo-line"><span class="topo-membrane">GFLLAAIGMALGLVWYLL</span><span class="topo-inside">FNRKNLGSVGMKPTNPLSKEEK</span><span class="topo-membrane">RKYGMIIGIIVAIVIVVLLV</span></span>
-<span class="topo-line"><span class="topo-outside">TYYTHTLSF</span><span class="topo-membrane">DLISNTVLVLGVALPIIYFTT</span><span class="topo-inside">MLRSKDVTDGERSRVKAF</span><span class="topo-membrane">IPLFILGMLFWS</span></span>
-<span class="topo-line"><span class="topo-membrane">IQEQGSNVLNIYG</span><span class="topo-outside">LERSDMQLNLFGW</span><span class="topo-membrane">TTRFGEALFQSINPLFILLFAPVI</span><span class="topo-inside">SMIWLKMGKK</span></span>
-<span class="topo-line"><span class="topo-inside">QPSLA</span><span class="topo-membrane">IKFSIGTLLAGLSYILIGLV</span><span class="topo-outside">GLGYGHTQFS</span><span class="topo-membrane">VNWVILSYVICVIGELCLSPTG</span><span class="topo-inside">NSA</span></span>
-<span class="topo-line"><span class="topo-inside">AVKLAPKAFNAQMM</span><span class="topo-membrane">SVWLLTNASAQAINGTLVKL</span><span class="topo-outside">IKPLGQTN</span><span class="topo-membrane">YFIFLGTVAIVITLIILV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">QTIQSIPQKGFFGHPRGLGVL</span><span class="topo-membrane">FFVEFWERFSYYGMRAMLIF</span><span class="topo-outside">YMYFAIHQNGLGIDKTTA</span><span class="topo-membrane">MSIMSVYGALIYMSSIPGAWIA</span><span class="topo-inside">DRITGTRG</span><span class="topo-membrane">ATLLGAVLIIIGHICLSL</span><span class="topo-outside">PFALF</span><span class="topo-membrane">GLFSSMFF</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">IIIGSGLMKPNIS</span><span class="topo-inside">NIVGRLYPENDTRIDAGFVIF</span><span class="topo-membrane">YMSVNLGALISPIILQHFV</span><span class="topo-outside">DIRNF</span><span class="topo-membrane">HGGFLLAAIGMALGLVWYLL</span><span class="topo-inside">FNRKNLGSVGMKPTNPLSKEEK</span><span class="topo-membrane">RKYGMIIGIIVAIVIVVLLV</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">TYYTHTLSF</span><span class="topo-membrane">DLISNTVLVLGVALPIIYFTT</span><span class="topo-inside">MLRSKDVTDGERSRVKAF</span><span class="topo-membrane">IPLFILGMLFWSIQEQGSNVLNIYG</span><span class="topo-outside">LERSDMQLNLFGW</span><span class="topo-membrane">TTRFGEALFQSINPLFILLFAPVI</span><span class="topo-inside">SMIWLKMGKK</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">QPSLA</span><span class="topo-membrane">IKFSIGTLLAGLSYILIGLV</span><span class="topo-outside">GLGYGHTQFS</span><span class="topo-membrane">VNWVILSYVICVIGELCLSPTG</span><span class="topo-inside">NSAAVKLAPKAFNAQMM</span><span class="topo-membrane">SVWLLTNASAQAINGTLVKL</span><span class="topo-outside">IKPLGQTN</span><span class="topo-membrane">YFIFLGTVAIVITLIILV</span></span>
+<span class="topo-ruler">       </span>
 <span class="topo-line"><span class="topo-membrane">FS</span><span class="topo-inside">PKITK</span></span>
+<details class="topo-details"><summary>Topology coordinates (29 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -604,6 +609,7 @@ acid scaffold and ester bond interactions with conserved residues.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -652,15 +658,17 @@ acid scaffold and ester bond interactions with conserved residues.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">QTIQSIPQKGFFGHPRGLGV</span><span class="topo-membrane">LFFVEFWERFSYYGMRAMLIF</span><span class="topo-outside">YMYFAIHQNGLGIDKTTA</span><span class="topo-membrane">M</span></span>
-<span class="topo-line"><span class="topo-membrane">SIMSVYGALIYMSSIPGAWIA</span><span class="topo-inside">DRITGTRG</span><span class="topo-membrane">ATLLGAVLIIIGHICLSL</span><span class="topo-outside">PFALF</span><span class="topo-membrane">GLFSSMFF</span></span>
-<span class="topo-line"><span class="topo-membrane">IIIGSGLMKPNIS</span><span class="topo-inside">NIVGRLYPENDTRIDAGFVIF</span><span class="topo-membrane">YMSVNLGALISPIILQHFV</span><span class="topo-outside">DIRNF</span><span class="topo-membrane">HG</span></span>
-<span class="topo-line"><span class="topo-membrane">GFLLAAIGMALGLVWYLL</span><span class="topo-inside">FNRKNLGSVGMAPTNPLSKEEK</span><span class="topo-membrane">RKYGMIIGIIVAIVIVVLLV</span></span>
-<span class="topo-line"><span class="topo-outside">TYYTHTLSF</span><span class="topo-membrane">DLISNTVLVLGVALPIIYFTT</span><span class="topo-inside">MLRSKDVTDGERSRVKAF</span><span class="topo-membrane">IPLFILGMLFWS</span></span>
-<span class="topo-line"><span class="topo-membrane">IQEQGSNVLNIYG</span><span class="topo-outside">LERSDMQLNLFGW</span><span class="topo-membrane">TTRFGEALFQSINPLFILLFAPVI</span><span class="topo-inside">SMIWLKMGKK</span></span>
-<span class="topo-line"><span class="topo-inside">QPSLA</span><span class="topo-membrane">IKFSIGTLLAGLSYILIGLV</span><span class="topo-outside">GLGYGHTQFS</span><span class="topo-membrane">VNWVILSYVICVIGELCLSPTGN</span><span class="topo-inside">SA</span></span>
-<span class="topo-line"><span class="topo-inside">AVKLAPKAFNAQMM</span><span class="topo-membrane">SVWLLTNASAQAINGTLVKL</span><span class="topo-outside">IKPLGQTN</span><span class="topo-membrane">YFIFLGTVAIVITLIILV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">QTIQSIPQKGFFGHPRGLGV</span><span class="topo-membrane">LFFVEFWERFSYYGMRAMLIF</span><span class="topo-outside">YMYFAIHQNGLGIDKTTA</span><span class="topo-membrane">MSIMSVYGALIYMSSIPGAWIA</span><span class="topo-inside">DRITGTRG</span><span class="topo-membrane">ATLLGAVLIIIGHICLSL</span><span class="topo-outside">PFALF</span><span class="topo-membrane">GLFSSMFF</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">IIIGSGLMKPNIS</span><span class="topo-inside">NIVGRLYPENDTRIDAGFVIF</span><span class="topo-membrane">YMSVNLGALISPIILQHFV</span><span class="topo-outside">DIRNF</span><span class="topo-membrane">HGGFLLAAIGMALGLVWYLL</span><span class="topo-inside">FNRKNLGSVGMAPTNPLSKEEK</span><span class="topo-membrane">RKYGMIIGIIVAIVIVVLLV</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">TYYTHTLSF</span><span class="topo-membrane">DLISNTVLVLGVALPIIYFTT</span><span class="topo-inside">MLRSKDVTDGERSRVKAF</span><span class="topo-membrane">IPLFILGMLFWSIQEQGSNVLNIYG</span><span class="topo-outside">LERSDMQLNLFGW</span><span class="topo-membrane">TTRFGEALFQSINPLFILLFAPVI</span><span class="topo-inside">SMIWLKMGKK</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">QPSLA</span><span class="topo-membrane">IKFSIGTLLAGLSYILIGLV</span><span class="topo-outside">GLGYGHTQFS</span><span class="topo-membrane">VNWVILSYVICVIGELCLSPTGN</span><span class="topo-inside">SAAVKLAPKAFNAQMM</span><span class="topo-membrane">SVWLLTNASAQAINGTLVKL</span><span class="topo-outside">IKPLGQTN</span><span class="topo-membrane">YFIFLGTVAIVITLIILV</span></span>
+<span class="topo-ruler">       </span>
 <span class="topo-line"><span class="topo-membrane">FS</span><span class="topo-inside">PKITK</span></span>
+<details class="topo-details"><summary>Topology coordinates (29 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -875,6 +883,7 @@ acid scaffold and ester bond interactions with conserved residues.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

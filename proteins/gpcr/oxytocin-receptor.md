@@ -122,15 +122,17 @@ The human oxytocin receptor (OTR) is a class A G protein-coupled receptor (GPCR)
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">NEA</span><span class="topo-membrane">LARVEVAVLCLILLLALSGNACVLL</span><span class="topo-inside">ALH</span><span class="topo-unknown">TTRQK</span><span class="topo-inside">HSRLFFF</span><span class="topo-membrane">MKHLSIADLVVAVFQVL</span></span>
-<span class="topo-line"><span class="topo-membrane">PQLLWDI</span><span class="topo-outside">TFRFYG</span><span class="topo-membrane">PDLLCRLVKYLQLVGMFASTYLLLLMSL</span><span class="topo-inside">DRCLAICQPLRSLRRRTAR</span></span>
-<span class="topo-line"><span class="topo-inside">L</span><span class="topo-membrane">AVLATWLGCLVVSAPQVHIF</span><span class="topo-outside">SLREVADGVFDCWAVFIRPWG</span><span class="topo-membrane">PKAYITWITLAVYIVPVI</span></span>
-<span class="topo-line"><span class="topo-membrane">VLATCYG</span><span class="topo-inside">LIAFKIWQN</span><span class="topo-unknown">LRLKTAAAAAAEAPEGAAAGDGGRVALARVSSVK</span><span class="topo-inside">LISKAKIRTV</span></span>
-<span class="topo-line"><span class="topo-inside">KM</span><span class="topo-membrane">TFIIVLAFIVCWTPFFFVQMWSVW</span><span class="topo-outside">DANAPKEA</span><span class="topo-membrane">SAFIIVMLLASLNCCCKPWIYML</span><span class="topo-inside">FMG</span></span>
-<span class="topo-line"><span class="topo-inside">HLFHGID?SFW</span><span class="topo-unknown">CC</span><span class="topo-inside">NESYLTGSRDERKKSLLSKFGMDEGVTFMFIGRFDRGQKGVDVLLKA</span></span>
-<span class="topo-line"><span class="topo-inside">IEILSSKKEFQEMRFIIIGKGDPELEGWARSLEEKHGNVKVITEMLSREFVRELYGSVDF</span></span>
-<span class="topo-line"><span class="topo-inside">VIIPSYFEPFGLVALEAMCLGAIPIASAVGGLRDIITNETGILVKAGDPGELANAILKAL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">NEA</span><span class="topo-membrane">LARVEVAVLCLILLLALSGNACVLL</span><span class="topo-inside">ALH</span><span class="topo-unknown">TTRQK</span><span class="topo-inside">HSRLFFF</span><span class="topo-membrane">MKHLSIADLVVAVFQVLPQLLWDI</span><span class="topo-outside">TFRFYG</span><span class="topo-membrane">PDLLCRLVKYLQLVGMFASTYLLLLMSL</span><span class="topo-inside">DRCLAICQPLRSLRRRTAR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">L</span><span class="topo-membrane">AVLATWLGCLVVSAPQVHIF</span><span class="topo-outside">SLREVADGVFDCWAVFIRPWG</span><span class="topo-membrane">PKAYITWITLAVYIVPVIVLATCYG</span><span class="topo-inside">LIAFKIWQN</span><span class="topo-unknown">LRLKTAAAAAAEAPEGAAAGDGGRVALARVSSVK</span><span class="topo-inside">LISKAKIRTV</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">KM</span><span class="topo-membrane">TFIIVLAFIVCWTPFFFVQMWSVW</span><span class="topo-outside">DANAPKEA</span><span class="topo-membrane">SAFIIVMLLASLNCCCKPWIYML</span><span class="topo-inside">FMGHLFHGID?SFW</span><span class="topo-unknown">CC</span><span class="topo-inside">NESYLTGSRDERKKSLLSKFGMDEGVTFMFIGRFDRGQKGVDVLLKA</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">IEILSSKKEFQEMRFIIIGKGDPELEGWARSLEEKHGNVKVITEMLSREFVRELYGSVDFVIIPSYFEPFGLVALEAMCLGAIPIASAVGGLRDIITNETGILVKAGDPGELANAILKAL</span></span>
+<span class="topo-ruler">       490       500  </span>
 <span class="topo-line"><span class="topo-inside">ELSRSDLSKFRENCKKRAMSFS</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -268,6 +270,7 @@ The human oxytocin receptor (OTR) is a class A G protein-coupled receptor (GPCR)
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

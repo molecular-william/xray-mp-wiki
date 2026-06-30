@@ -111,17 +111,19 @@ NaAtm1 is an Atm1/ABCB7/HMT1/ABCB6-family ABC exporter from the Gram-negative ba
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MPPETATNPKDA</span><span class="topo-inside">R</span><span class="topo-unknown">HDGWQTLKRFLPYL</span><span class="topo-inside">WPADNAVLR</span><span class="topo-membrane">RRVVGAILMVLLGKATTLALPF</span><span class="topo-outside">AY</span></span>
-<span class="topo-line"><span class="topo-outside">KKAVDAMTLGGGAQPALTVALAFVL</span><span class="topo-membrane">AYALGRFSGVLFDNLRNIVFE</span><span class="topo-inside">RVGQDATRHLAENV</span></span>
-<span class="topo-line"><span class="topo-inside">FARLHKLSLRFHLARRTGEVTKVIERGTKSIDTMLY</span><span class="topo-membrane">FLLFNIAPTVIELTAVIVIFW</span><span class="topo-outside">LNF</span></span>
-<span class="topo-line"><span class="topo-outside">GL</span><span class="topo-membrane">GLVTATILAVIAYVWTTRTITE</span><span class="topo-inside">WRTHLREKMNRLDGQALARAVDSLLNYETVKYFGAE</span></span>
-<span class="topo-line"><span class="topo-inside">SREEARYASAARAYADAAVKSE</span><span class="topo-membrane">NSLGLLNIAQALIVNLLMAGAM</span><span class="topo-outside">AWTVYGWSQGKLTVGD</span></span>
-<span class="topo-line"><span class="topo-outside">LVF</span><span class="topo-membrane">VNTYLTQLFRPLDMLGMVY</span><span class="topo-inside">RTIRQGLIDMAEMFRLIDTHIEVADVPNAPALVVNRPS</span></span>
-<span class="topo-line"><span class="topo-inside">VTFDNVVFGYDRDREILHGLSFEVAAGSRVAIVGPSGAGKSTIARLLFRFYDPWEGRILI</span></span>
-<span class="topo-line"><span class="topo-inside">DGQDIAHVTQTSLRAALGIVPQDSVLFNDTIGYNIAYGRDGASRAEVDAAAKGAAIADFI</span></span>
-<span class="topo-line"><span class="topo-inside">ARLPQGYDTEVGERGLKLSGGEKQRVAIARTLVKNPPILLFDEATSCLDTRTEQDILSTM</span></span>
-<span class="topo-line"><span class="topo-inside">RAVASHRTTISIAHRLSTIADSDTILVLDQGRLAEQGSHLDLLRRDGLYAEMWARQAA</span><span class="topo-unknown">ES</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MPPETATNPKDA</span><span class="topo-inside">R</span><span class="topo-unknown">HDGWQTLKRFLPYL</span><span class="topo-inside">WPADNAVLR</span><span class="topo-membrane">RRVVGAILMVLLGKATTLALPF</span><span class="topo-outside">AYKKAVDAMTLGGGAQPALTVALAFVL</span><span class="topo-membrane">AYALGRFSGVLFDNLRNIVFE</span><span class="topo-inside">RVGQDATRHLAENV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FARLHKLSLRFHLARRTGEVTKVIERGTKSIDTMLY</span><span class="topo-membrane">FLLFNIAPTVIELTAVIVIFW</span><span class="topo-outside">LNFGL</span><span class="topo-membrane">GLVTATILAVIAYVWTTRTITE</span><span class="topo-inside">WRTHLREKMNRLDGQALARAVDSLLNYETVKYFGAE</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">SREEARYASAARAYADAAVKSE</span><span class="topo-membrane">NSLGLLNIAQALIVNLLMAGAM</span><span class="topo-outside">AWTVYGWSQGKLTVGDLVF</span><span class="topo-membrane">VNTYLTQLFRPLDMLGMVY</span><span class="topo-inside">RTIRQGLIDMAEMFRLIDTHIEVADVPNAPALVVNRPS</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">VTFDNVVFGYDRDREILHGLSFEVAAGSRVAIVGPSGAGKSTIARLLFRFYDPWEGRILIDGQDIAHVTQTSLRAALGIVPQDSVLFNDTIGYNIAYGRDGASRAEVDAAAKGAAIADFI</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-inside">ARLPQGYDTEVGERGLKLSGGEKQRVAIARTLVKNPPILLFDEATSCLDTRTEQDILSTMRAVASHRTTISIAHRLSTIADSDTILVLDQGRLAEQGSHLDLLRRDGLYAEMWARQAA</span><span class="topo-unknown">ES</span></span>
+<span class="topo-ruler">       610    </span>
 <span class="topo-line"><span class="topo-unknown">AEVSEAAEHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -238,6 +240,7 @@ NaAtm1 is an Atm1/ABCB7/HMT1/ABCB6-family ABC exporter from the Gram-negative ba
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -253,17 +256,19 @@ NaAtm1 is an Atm1/ABCB7/HMT1/ABCB6-family ABC exporter from the Gram-negative ba
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MPPETATNPKDA</span><span class="topo-inside">RHDG</span><span class="topo-unknown">WQTLKRFLPYL</span><span class="topo-inside">WPADNAVLR</span><span class="topo-membrane">RRVVGAILMVLLGKATTLALPF</span><span class="topo-outside">AY</span></span>
-<span class="topo-line"><span class="topo-outside">KKAVDAMTLGGGAQPALTVALAFVL</span><span class="topo-membrane">AYALGRFSGVLFDNLRNIVFE</span><span class="topo-inside">RVGQDATRHLAENV</span></span>
-<span class="topo-line"><span class="topo-inside">FARLHKLSLRFHLARRTGEVTKVIERGTKSIDTMLY</span><span class="topo-membrane">FLLFNIAPTVIELTAVIVIFW</span><span class="topo-outside">LNF</span></span>
-<span class="topo-line"><span class="topo-outside">GLG</span><span class="topo-membrane">LVTATILAVIAYVWTTRTIT</span><span class="topo-inside">EWRTHLREKMNRLDGQALARAVDSLLNYETVKYFGAE</span></span>
-<span class="topo-line"><span class="topo-inside">SREEARYASAARAYADAAVKSE</span><span class="topo-membrane">NSLGLLNIAQALIVNLLMAGAM</span><span class="topo-outside">AWTVYGWSQGKLTVGD</span></span>
-<span class="topo-line"><span class="topo-outside">LVF</span><span class="topo-membrane">VNTYLTQLFRPLDMLGMVY</span><span class="topo-inside">RTIRQGLIDMAEMFRLIDTHIEVADVPNAPALVVNRPS</span></span>
-<span class="topo-line"><span class="topo-inside">VTFDNVVFGYDRDREILHGLSFEVAAGSRVAIVGPSGAGKSTIARLLFRFYDPWEGRILI</span></span>
-<span class="topo-line"><span class="topo-inside">DGQDIAHVTQTSLRAALGIVPQDSVLFNDTIGYNIAYGRDGASRAEVDAAAKGAAIADFI</span></span>
-<span class="topo-line"><span class="topo-inside">ARLPQGYDTEVGERGLKLSGGEKQRVAIARTLVKNPPILLFDEATSCLDTRTEQDILSTM</span></span>
-<span class="topo-line"><span class="topo-inside">RAVASHRTTISIAHRLSTIADSDTILVLDQGRLAEQGSHLDLLRRDGLYAEMWARQAA</span><span class="topo-unknown">ES</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MPPETATNPKDA</span><span class="topo-inside">RHDG</span><span class="topo-unknown">WQTLKRFLPYL</span><span class="topo-inside">WPADNAVLR</span><span class="topo-membrane">RRVVGAILMVLLGKATTLALPF</span><span class="topo-outside">AYKKAVDAMTLGGGAQPALTVALAFVL</span><span class="topo-membrane">AYALGRFSGVLFDNLRNIVFE</span><span class="topo-inside">RVGQDATRHLAENV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FARLHKLSLRFHLARRTGEVTKVIERGTKSIDTMLY</span><span class="topo-membrane">FLLFNIAPTVIELTAVIVIFW</span><span class="topo-outside">LNFGLG</span><span class="topo-membrane">LVTATILAVIAYVWTTRTIT</span><span class="topo-inside">EWRTHLREKMNRLDGQALARAVDSLLNYETVKYFGAE</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">SREEARYASAARAYADAAVKSE</span><span class="topo-membrane">NSLGLLNIAQALIVNLLMAGAM</span><span class="topo-outside">AWTVYGWSQGKLTVGDLVF</span><span class="topo-membrane">VNTYLTQLFRPLDMLGMVY</span><span class="topo-inside">RTIRQGLIDMAEMFRLIDTHIEVADVPNAPALVVNRPS</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">VTFDNVVFGYDRDREILHGLSFEVAAGSRVAIVGPSGAGKSTIARLLFRFYDPWEGRILIDGQDIAHVTQTSLRAALGIVPQDSVLFNDTIGYNIAYGRDGASRAEVDAAAKGAAIADFI</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-inside">ARLPQGYDTEVGERGLKLSGGEKQRVAIARTLVKNPPILLFDEATSCLDTRTEQDILSTMRAVASHRTTISIAHRLSTIADSDTILVLDQGRLAEQGSHLDLLRRDGLYAEMWARQAA</span><span class="topo-unknown">ES</span></span>
+<span class="topo-ruler">       610    </span>
 <span class="topo-line"><span class="topo-unknown">AEVSEAAEHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -380,6 +385,7 @@ NaAtm1 is an Atm1/ABCB7/HMT1/ABCB6-family ABC exporter from the Gram-negative ba
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -395,17 +401,19 @@ NaAtm1 is an Atm1/ABCB7/HMT1/ABCB6-family ABC exporter from the Gram-negative ba
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MPPETATNPKDA</span><span class="topo-inside">R</span><span class="topo-unknown">HDGWQTLKRFLPYL</span><span class="topo-inside">WPADNAVLR</span><span class="topo-membrane">RRVVGAILMVLLGKATTLALPF</span><span class="topo-outside">AY</span></span>
-<span class="topo-line"><span class="topo-outside">KKAVDAMTLGGGAQPALTVALAFVL</span><span class="topo-membrane">AYALGRFSGVLFDNLRNIVFE</span><span class="topo-inside">RVGQDATRHLAENV</span></span>
-<span class="topo-line"><span class="topo-inside">FARLHKLSLRFHLARRTGEVTKVIERGTKSIDTMLY</span><span class="topo-membrane">FLLFNIAPTVIELTAVIVIFW</span><span class="topo-outside">LNF</span></span>
-<span class="topo-line"><span class="topo-outside">GL</span><span class="topo-membrane">GLVTATILAVIAYVWTTRTITE</span><span class="topo-inside">WRTHLREKMNRLDGQALARAVDSLLNYETVKYFGAE</span></span>
-<span class="topo-line"><span class="topo-inside">SREEARYASAARAYADAAVKSE</span><span class="topo-membrane">NSLGLLNIAQALIVNLLMAGAM</span><span class="topo-outside">AWTVYGWSQGKLTVGD</span></span>
-<span class="topo-line"><span class="topo-outside">LVF</span><span class="topo-membrane">VNTYLTQLFRPLDMLGMVY</span><span class="topo-inside">RTIRQGLIDMAEMFRLIDTHIEVADVPNAPALVVNRPS</span></span>
-<span class="topo-line"><span class="topo-inside">VTFDNVVFGYDRDREILHGLSFEVAAGSRVAIVGPSGAGKSTIARLLFRFYDPWEGRILI</span></span>
-<span class="topo-line"><span class="topo-inside">DGQDIAHVTQTSLRAALGIVPQDSVLFNDTIGYNIAYGRDGASRAEVDAAAKGAAIADFI</span></span>
-<span class="topo-line"><span class="topo-inside">ARLPQGYDTEVGERGLKLSGGEKQRVAIARTLVKNPPILLFDEATSCLDTRTEQDILSTM</span></span>
-<span class="topo-line"><span class="topo-inside">RAVASHRTTISIAHRLSTIADSDTILVLDQGRLAEQGSHLDLLRRDGLYAEMWARQAA</span><span class="topo-unknown">ES</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MPPETATNPKDA</span><span class="topo-inside">R</span><span class="topo-unknown">HDGWQTLKRFLPYL</span><span class="topo-inside">WPADNAVLR</span><span class="topo-membrane">RRVVGAILMVLLGKATTLALPF</span><span class="topo-outside">AYKKAVDAMTLGGGAQPALTVALAFVL</span><span class="topo-membrane">AYALGRFSGVLFDNLRNIVFE</span><span class="topo-inside">RVGQDATRHLAENV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FARLHKLSLRFHLARRTGEVTKVIERGTKSIDTMLY</span><span class="topo-membrane">FLLFNIAPTVIELTAVIVIFW</span><span class="topo-outside">LNFGL</span><span class="topo-membrane">GLVTATILAVIAYVWTTRTITE</span><span class="topo-inside">WRTHLREKMNRLDGQALARAVDSLLNYETVKYFGAE</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">SREEARYASAARAYADAAVKSE</span><span class="topo-membrane">NSLGLLNIAQALIVNLLMAGAM</span><span class="topo-outside">AWTVYGWSQGKLTVGDLVF</span><span class="topo-membrane">VNTYLTQLFRPLDMLGMVY</span><span class="topo-inside">RTIRQGLIDMAEMFRLIDTHIEVADVPNAPALVVNRPS</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">VTFDNVVFGYDRDREILHGLSFEVAAGSRVAIVGPSGAGKSTIARLLFRFYDPWEGRILIDGQDIAHVTQTSLRAALGIVPQDSVLFNDTIGYNIAYGRDGASRAEVDAAAKGAAIADFI</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-inside">ARLPQGYDTEVGERGLKLSGGEKQRVAIARTLVKNPPILLFDEATSCLDTRTEQDILSTMRAVASHRTTISIAHRLSTIADSDTILVLDQGRLAEQGSHLDLLRRDGLYAEMWARQAA</span><span class="topo-unknown">ES</span></span>
+<span class="topo-ruler">       610    </span>
 <span class="topo-line"><span class="topo-unknown">AEVSEAAEHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -522,6 +530,7 @@ NaAtm1 is an Atm1/ABCB7/HMT1/ABCB6-family ABC exporter from the Gram-negative ba
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -537,17 +546,19 @@ NaAtm1 is an Atm1/ABCB7/HMT1/ABCB6-family ABC exporter from the Gram-negative ba
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MPPETATNPKDA</span><span class="topo-inside">RHDG</span><span class="topo-unknown">WQTLKRFLPYL</span><span class="topo-inside">WPADNAVLR</span><span class="topo-membrane">RRVVGAILMVLLGKATTLALPF</span><span class="topo-outside">AY</span></span>
-<span class="topo-line"><span class="topo-outside">KKAVDAMTLGGGAQPALTVALAFVL</span><span class="topo-membrane">AYALGRFSGVLFDNLRNIVFE</span><span class="topo-inside">RVGQDATRHLAENV</span></span>
-<span class="topo-line"><span class="topo-inside">FARLHKLSLRFHLARRTGEVTKVIERGTKSIDTMLY</span><span class="topo-membrane">FLLFNIAPTVIELTAVIVIFW</span><span class="topo-outside">LNF</span></span>
-<span class="topo-line"><span class="topo-outside">GLG</span><span class="topo-membrane">LVTATILAVIAYVWTTRTIT</span><span class="topo-inside">EWRTHLREKMNRLDGQALARAVDSLLNYETVKYFGAE</span></span>
-<span class="topo-line"><span class="topo-inside">SREEARYASAARAYADAAVKSE</span><span class="topo-membrane">NSLGLLNIAQALIVNLLMAGAM</span><span class="topo-outside">AWTVYGWSQGKLTVGD</span></span>
-<span class="topo-line"><span class="topo-outside">LVF</span><span class="topo-membrane">VNTYLTQLFRPLDMLGMVY</span><span class="topo-inside">RTIRQGLIDMAEMFRLIDTHIEVADVPNAPALVVNRPS</span></span>
-<span class="topo-line"><span class="topo-inside">VTFDNVVFGYDRDREILHGLSFEVAAGSRVAIVGPSGAGKSTIARLLFRFYDPWEGRILI</span></span>
-<span class="topo-line"><span class="topo-inside">DGQDIAHVTQTSLRAALGIVPQDSVLFNDTIGYNIAYGRDGASRAEVDAAAKGAAIADFI</span></span>
-<span class="topo-line"><span class="topo-inside">ARLPQGYDTEVGERGLKLSGGEKQRVAIARTLVKNPPILLFDEATSCLDTRTEQDILSTM</span></span>
-<span class="topo-line"><span class="topo-inside">RAVASHRTTISIAHRLSTIADSDTILVLDQGRLAEQGSHLDLLRRDGLYAEMWARQAA</span><span class="topo-unknown">ES</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MPPETATNPKDA</span><span class="topo-inside">RHDG</span><span class="topo-unknown">WQTLKRFLPYL</span><span class="topo-inside">WPADNAVLR</span><span class="topo-membrane">RRVVGAILMVLLGKATTLALPF</span><span class="topo-outside">AYKKAVDAMTLGGGAQPALTVALAFVL</span><span class="topo-membrane">AYALGRFSGVLFDNLRNIVFE</span><span class="topo-inside">RVGQDATRHLAENV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FARLHKLSLRFHLARRTGEVTKVIERGTKSIDTMLY</span><span class="topo-membrane">FLLFNIAPTVIELTAVIVIFW</span><span class="topo-outside">LNFGLG</span><span class="topo-membrane">LVTATILAVIAYVWTTRTIT</span><span class="topo-inside">EWRTHLREKMNRLDGQALARAVDSLLNYETVKYFGAE</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">SREEARYASAARAYADAAVKSE</span><span class="topo-membrane">NSLGLLNIAQALIVNLLMAGAM</span><span class="topo-outside">AWTVYGWSQGKLTVGDLVF</span><span class="topo-membrane">VNTYLTQLFRPLDMLGMVY</span><span class="topo-inside">RTIRQGLIDMAEMFRLIDTHIEVADVPNAPALVVNRPS</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">VTFDNVVFGYDRDREILHGLSFEVAAGSRVAIVGPSGAGKSTIARLLFRFYDPWEGRILIDGQDIAHVTQTSLRAALGIVPQDSVLFNDTIGYNIAYGRDGASRAEVDAAAKGAAIADFI</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-inside">ARLPQGYDTEVGERGLKLSGGEKQRVAIARTLVKNPPILLFDEATSCLDTRTEQDILSTMRAVASHRTTISIAHRLSTIADSDTILVLDQGRLAEQGSHLDLLRRDGLYAEMWARQAA</span><span class="topo-unknown">ES</span></span>
+<span class="topo-ruler">       610    </span>
 <span class="topo-line"><span class="topo-unknown">AEVSEAAEHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -664,6 +675,7 @@ NaAtm1 is an Atm1/ABCB7/HMT1/ABCB6-family ABC exporter from the Gram-negative ba
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -679,17 +691,19 @@ NaAtm1 is an Atm1/ABCB7/HMT1/ABCB6-family ABC exporter from the Gram-negative ba
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MPPETATNPKDA</span><span class="topo-inside">R</span><span class="topo-unknown">HDGWQTLKRFLPYL</span><span class="topo-inside">WPADNAVLR</span><span class="topo-membrane">RRVVGAILMVLLGKATTLALPF</span><span class="topo-outside">AY</span></span>
-<span class="topo-line"><span class="topo-outside">KKAVDAMTLGGGAQPALTVALAFVL</span><span class="topo-membrane">AYALGRFSGVLFDNLRNIVFE</span><span class="topo-inside">RVGQDATRHLAENV</span></span>
-<span class="topo-line"><span class="topo-inside">FARLHKLSLRFHLARRTGEVTKVIERGTKSIDTMLY</span><span class="topo-membrane">FLLFNIAPTVIELTAVIVIFW</span><span class="topo-outside">LNF</span></span>
-<span class="topo-line"><span class="topo-outside">GL</span><span class="topo-membrane">GLVTATILAVIAYVWTTRTITE</span><span class="topo-inside">WRTHLREKMNRLDGQALARAVDSLLNYETVKYFGAE</span></span>
-<span class="topo-line"><span class="topo-inside">SREEARYASAARAYADAAVKSE</span><span class="topo-membrane">NSLGLLNIAQALIVNLLMAGAM</span><span class="topo-outside">AWTVYGWSQGKLTVGD</span></span>
-<span class="topo-line"><span class="topo-outside">LVF</span><span class="topo-membrane">VNTYLTQLFRPLDMLGMVY</span><span class="topo-inside">RTIRQGLIDMAEMFRLIDTHIEVADVPNAPALVVNRPS</span></span>
-<span class="topo-line"><span class="topo-inside">VTFDNVVFGYDRDREILHGLSFEVAAGSRVAIVGPSGAGKSTIARLLFRFYDPWEGRILI</span></span>
-<span class="topo-line"><span class="topo-inside">DGQDIAHVTQTSLRAALGIVPQDSVLFNDTIGYNIAYGRDGASRAEVDAAAKGAAIADFI</span></span>
-<span class="topo-line"><span class="topo-inside">ARLPQGYDTEVGERGLKLSGGEKQRVAIARTLVKNPPILLFDEATSCLDTRTEQDILSTM</span></span>
-<span class="topo-line"><span class="topo-inside">RAVASHRTTISIAHRLSTIADSDTILVLDQGRLAEQGSHLDLLRRDGLYAEMWARQAA</span><span class="topo-unknown">ES</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MPPETATNPKDA</span><span class="topo-inside">R</span><span class="topo-unknown">HDGWQTLKRFLPYL</span><span class="topo-inside">WPADNAVLR</span><span class="topo-membrane">RRVVGAILMVLLGKATTLALPF</span><span class="topo-outside">AYKKAVDAMTLGGGAQPALTVALAFVL</span><span class="topo-membrane">AYALGRFSGVLFDNLRNIVFE</span><span class="topo-inside">RVGQDATRHLAENV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FARLHKLSLRFHLARRTGEVTKVIERGTKSIDTMLY</span><span class="topo-membrane">FLLFNIAPTVIELTAVIVIFW</span><span class="topo-outside">LNFGL</span><span class="topo-membrane">GLVTATILAVIAYVWTTRTITE</span><span class="topo-inside">WRTHLREKMNRLDGQALARAVDSLLNYETVKYFGAE</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">SREEARYASAARAYADAAVKSE</span><span class="topo-membrane">NSLGLLNIAQALIVNLLMAGAM</span><span class="topo-outside">AWTVYGWSQGKLTVGDLVF</span><span class="topo-membrane">VNTYLTQLFRPLDMLGMVY</span><span class="topo-inside">RTIRQGLIDMAEMFRLIDTHIEVADVPNAPALVVNRPS</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">VTFDNVVFGYDRDREILHGLSFEVAAGSRVAIVGPSGAGKSTIARLLFRFYDPWEGRILIDGQDIAHVTQTSLRAALGIVPQDSVLFNDTIGYNIAYGRDGASRAEVDAAAKGAAIADFI</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-inside">ARLPQGYDTEVGERGLKLSGGEKQRVAIARTLVKNPPILLFDEATSCLDTRTEQDILSTMRAVASHRTTISIAHRLSTIADSDTILVLDQGRLAEQGSHLDLLRRDGLYAEMWARQAA</span><span class="topo-unknown">ES</span></span>
+<span class="topo-ruler">       610    </span>
 <span class="topo-line"><span class="topo-unknown">AEVSEAAEHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -806,6 +820,7 @@ NaAtm1 is an Atm1/ABCB7/HMT1/ABCB6-family ABC exporter from the Gram-negative ba
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -821,17 +836,19 @@ NaAtm1 is an Atm1/ABCB7/HMT1/ABCB6-family ABC exporter from the Gram-negative ba
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MPPETATNPKDA</span><span class="topo-inside">RHDG</span><span class="topo-unknown">WQTLKRFLPYL</span><span class="topo-inside">WPADNAVLR</span><span class="topo-membrane">RRVVGAILMVLLGKATTLALPF</span><span class="topo-outside">AY</span></span>
-<span class="topo-line"><span class="topo-outside">KKAVDAMTLGGGAQPALTVALAFVL</span><span class="topo-membrane">AYALGRFSGVLFDNLRNIVFE</span><span class="topo-inside">RVGQDATRHLAENV</span></span>
-<span class="topo-line"><span class="topo-inside">FARLHKLSLRFHLARRTGEVTKVIERGTKSIDTMLY</span><span class="topo-membrane">FLLFNIAPTVIELTAVIVIFW</span><span class="topo-outside">LNF</span></span>
-<span class="topo-line"><span class="topo-outside">GLG</span><span class="topo-membrane">LVTATILAVIAYVWTTRTIT</span><span class="topo-inside">EWRTHLREKMNRLDGQALARAVDSLLNYETVKYFGAE</span></span>
-<span class="topo-line"><span class="topo-inside">SREEARYASAARAYADAAVKSE</span><span class="topo-membrane">NSLGLLNIAQALIVNLLMAGAM</span><span class="topo-outside">AWTVYGWSQGKLTVGD</span></span>
-<span class="topo-line"><span class="topo-outside">LVF</span><span class="topo-membrane">VNTYLTQLFRPLDMLGMVY</span><span class="topo-inside">RTIRQGLIDMAEMFRLIDTHIEVADVPNAPALVVNRPS</span></span>
-<span class="topo-line"><span class="topo-inside">VTFDNVVFGYDRDREILHGLSFEVAAGSRVAIVGPSGAGKSTIARLLFRFYDPWEGRILI</span></span>
-<span class="topo-line"><span class="topo-inside">DGQDIAHVTQTSLRAALGIVPQDSVLFNDTIGYNIAYGRDGASRAEVDAAAKGAAIADFI</span></span>
-<span class="topo-line"><span class="topo-inside">ARLPQGYDTEVGERGLKLSGGEKQRVAIARTLVKNPPILLFDEATSCLDTRTEQDILSTM</span></span>
-<span class="topo-line"><span class="topo-inside">RAVASHRTTISIAHRLSTIADSDTILVLDQGRLAEQGSHLDLLRRDGLYAEMWARQAA</span><span class="topo-unknown">ES</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MPPETATNPKDA</span><span class="topo-inside">RHDG</span><span class="topo-unknown">WQTLKRFLPYL</span><span class="topo-inside">WPADNAVLR</span><span class="topo-membrane">RRVVGAILMVLLGKATTLALPF</span><span class="topo-outside">AYKKAVDAMTLGGGAQPALTVALAFVL</span><span class="topo-membrane">AYALGRFSGVLFDNLRNIVFE</span><span class="topo-inside">RVGQDATRHLAENV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FARLHKLSLRFHLARRTGEVTKVIERGTKSIDTMLY</span><span class="topo-membrane">FLLFNIAPTVIELTAVIVIFW</span><span class="topo-outside">LNFGLG</span><span class="topo-membrane">LVTATILAVIAYVWTTRTIT</span><span class="topo-inside">EWRTHLREKMNRLDGQALARAVDSLLNYETVKYFGAE</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">SREEARYASAARAYADAAVKSE</span><span class="topo-membrane">NSLGLLNIAQALIVNLLMAGAM</span><span class="topo-outside">AWTVYGWSQGKLTVGDLVF</span><span class="topo-membrane">VNTYLTQLFRPLDMLGMVY</span><span class="topo-inside">RTIRQGLIDMAEMFRLIDTHIEVADVPNAPALVVNRPS</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">VTFDNVVFGYDRDREILHGLSFEVAAGSRVAIVGPSGAGKSTIARLLFRFYDPWEGRILIDGQDIAHVTQTSLRAALGIVPQDSVLFNDTIGYNIAYGRDGASRAEVDAAAKGAAIADFI</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-inside">ARLPQGYDTEVGERGLKLSGGEKQRVAIARTLVKNPPILLFDEATSCLDTRTEQDILSTMRAVASHRTTISIAHRLSTIADSDTILVLDQGRLAEQGSHLDLLRRDGLYAEMWARQAA</span><span class="topo-unknown">ES</span></span>
+<span class="topo-ruler">       610    </span>
 <span class="topo-line"><span class="topo-unknown">AEVSEAAEHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -948,6 +965,7 @@ NaAtm1 is an Atm1/ABCB7/HMT1/ABCB6-family ABC exporter from the Gram-negative ba
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -963,17 +981,19 @@ NaAtm1 is an Atm1/ABCB7/HMT1/ABCB6-family ABC exporter from the Gram-negative ba
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MPPETATNPKDA</span><span class="topo-inside">R</span><span class="topo-unknown">HDGWQTLKRFLPYL</span><span class="topo-inside">WPADNAVLR</span><span class="topo-membrane">RRVVGAILMVLLGKATTLALPF</span><span class="topo-outside">AY</span></span>
-<span class="topo-line"><span class="topo-outside">KKAVDAMTLGGGAQPALTVALAFVL</span><span class="topo-membrane">AYALGRFSGVLFDNLRNIVFE</span><span class="topo-inside">RVGQDATRHLAENV</span></span>
-<span class="topo-line"><span class="topo-inside">FARLHKLSLRFHLARRTGEVTKVIERGTKSIDTMLY</span><span class="topo-membrane">FLLFNIAPTVIELTAVIVIFW</span><span class="topo-outside">LNF</span></span>
-<span class="topo-line"><span class="topo-outside">GL</span><span class="topo-membrane">GLVTATILAVIAYVWTTRTITE</span><span class="topo-inside">WRTHLREKMNRLDGQALARAVDSLLNYETVKYFGAE</span></span>
-<span class="topo-line"><span class="topo-inside">SREEARYASAARAYADAAVKSE</span><span class="topo-membrane">NSLGLLNIAQALIVNLLMAGAM</span><span class="topo-outside">AWTVYGWSQGKLTVGD</span></span>
-<span class="topo-line"><span class="topo-outside">LVF</span><span class="topo-membrane">VNTYLTQLFRPLDMLGMVY</span><span class="topo-inside">RTIRQGLIDMAEMFRLIDTHIEVADVPNAPALVVNRPS</span></span>
-<span class="topo-line"><span class="topo-inside">VTFDNVVFGYDRDREILHGLSFEVAAGSRVAIVGPSGAGKSTIARLLFRFYDPWEGRILI</span></span>
-<span class="topo-line"><span class="topo-inside">DGQDIAHVTQTSLRAALGIVPQDSVLFNDTIGYNIAYGRDGASRAEVDAAAKGAAIADFI</span></span>
-<span class="topo-line"><span class="topo-inside">ARLPQGYDTEVGERGLKLSGGEKQRVAIARTLVKNPPILLFDEATSCLDTRTEQDILSTM</span></span>
-<span class="topo-line"><span class="topo-inside">RAVASHRTTISIAHRLSTIADSDTILVLDQGRLAEQGSHLDLLRRDGLYAEMWARQAA</span><span class="topo-unknown">ES</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MPPETATNPKDA</span><span class="topo-inside">R</span><span class="topo-unknown">HDGWQTLKRFLPYL</span><span class="topo-inside">WPADNAVLR</span><span class="topo-membrane">RRVVGAILMVLLGKATTLALPF</span><span class="topo-outside">AYKKAVDAMTLGGGAQPALTVALAFVL</span><span class="topo-membrane">AYALGRFSGVLFDNLRNIVFE</span><span class="topo-inside">RVGQDATRHLAENV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FARLHKLSLRFHLARRTGEVTKVIERGTKSIDTMLY</span><span class="topo-membrane">FLLFNIAPTVIELTAVIVIFW</span><span class="topo-outside">LNFGL</span><span class="topo-membrane">GLVTATILAVIAYVWTTRTITE</span><span class="topo-inside">WRTHLREKMNRLDGQALARAVDSLLNYETVKYFGAE</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">SREEARYASAARAYADAAVKSE</span><span class="topo-membrane">NSLGLLNIAQALIVNLLMAGAM</span><span class="topo-outside">AWTVYGWSQGKLTVGDLVF</span><span class="topo-membrane">VNTYLTQLFRPLDMLGMVY</span><span class="topo-inside">RTIRQGLIDMAEMFRLIDTHIEVADVPNAPALVVNRPS</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">VTFDNVVFGYDRDREILHGLSFEVAAGSRVAIVGPSGAGKSTIARLLFRFYDPWEGRILIDGQDIAHVTQTSLRAALGIVPQDSVLFNDTIGYNIAYGRDGASRAEVDAAAKGAAIADFI</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-inside">ARLPQGYDTEVGERGLKLSGGEKQRVAIARTLVKNPPILLFDEATSCLDTRTEQDILSTMRAVASHRTTISIAHRLSTIADSDTILVLDQGRLAEQGSHLDLLRRDGLYAEMWARQAA</span><span class="topo-unknown">ES</span></span>
+<span class="topo-ruler">       610    </span>
 <span class="topo-line"><span class="topo-unknown">AEVSEAAEHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1090,6 +1110,7 @@ NaAtm1 is an Atm1/ABCB7/HMT1/ABCB6-family ABC exporter from the Gram-negative ba
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1105,17 +1126,19 @@ NaAtm1 is an Atm1/ABCB7/HMT1/ABCB6-family ABC exporter from the Gram-negative ba
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MPPETATNPKDA</span><span class="topo-inside">RHDG</span><span class="topo-unknown">WQTLKRFLPYL</span><span class="topo-inside">WPADNAVLR</span><span class="topo-membrane">RRVVGAILMVLLGKATTLALPF</span><span class="topo-outside">AY</span></span>
-<span class="topo-line"><span class="topo-outside">KKAVDAMTLGGGAQPALTVALAFVL</span><span class="topo-membrane">AYALGRFSGVLFDNLRNIVFE</span><span class="topo-inside">RVGQDATRHLAENV</span></span>
-<span class="topo-line"><span class="topo-inside">FARLHKLSLRFHLARRTGEVTKVIERGTKSIDTMLY</span><span class="topo-membrane">FLLFNIAPTVIELTAVIVIFW</span><span class="topo-outside">LNF</span></span>
-<span class="topo-line"><span class="topo-outside">GLG</span><span class="topo-membrane">LVTATILAVIAYVWTTRTIT</span><span class="topo-inside">EWRTHLREKMNRLDGQALARAVDSLLNYETVKYFGAE</span></span>
-<span class="topo-line"><span class="topo-inside">SREEARYASAARAYADAAVKSE</span><span class="topo-membrane">NSLGLLNIAQALIVNLLMAGAM</span><span class="topo-outside">AWTVYGWSQGKLTVGD</span></span>
-<span class="topo-line"><span class="topo-outside">LVF</span><span class="topo-membrane">VNTYLTQLFRPLDMLGMVY</span><span class="topo-inside">RTIRQGLIDMAEMFRLIDTHIEVADVPNAPALVVNRPS</span></span>
-<span class="topo-line"><span class="topo-inside">VTFDNVVFGYDRDREILHGLSFEVAAGSRVAIVGPSGAGKSTIARLLFRFYDPWEGRILI</span></span>
-<span class="topo-line"><span class="topo-inside">DGQDIAHVTQTSLRAALGIVPQDSVLFNDTIGYNIAYGRDGASRAEVDAAAKGAAIADFI</span></span>
-<span class="topo-line"><span class="topo-inside">ARLPQGYDTEVGERGLKLSGGEKQRVAIARTLVKNPPILLFDEATSCLDTRTEQDILSTM</span></span>
-<span class="topo-line"><span class="topo-inside">RAVASHRTTISIAHRLSTIADSDTILVLDQGRLAEQGSHLDLLRRDGLYAEMWARQAA</span><span class="topo-unknown">ES</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MPPETATNPKDA</span><span class="topo-inside">RHDG</span><span class="topo-unknown">WQTLKRFLPYL</span><span class="topo-inside">WPADNAVLR</span><span class="topo-membrane">RRVVGAILMVLLGKATTLALPF</span><span class="topo-outside">AYKKAVDAMTLGGGAQPALTVALAFVL</span><span class="topo-membrane">AYALGRFSGVLFDNLRNIVFE</span><span class="topo-inside">RVGQDATRHLAENV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FARLHKLSLRFHLARRTGEVTKVIERGTKSIDTMLY</span><span class="topo-membrane">FLLFNIAPTVIELTAVIVIFW</span><span class="topo-outside">LNFGLG</span><span class="topo-membrane">LVTATILAVIAYVWTTRTIT</span><span class="topo-inside">EWRTHLREKMNRLDGQALARAVDSLLNYETVKYFGAE</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">SREEARYASAARAYADAAVKSE</span><span class="topo-membrane">NSLGLLNIAQALIVNLLMAGAM</span><span class="topo-outside">AWTVYGWSQGKLTVGDLVF</span><span class="topo-membrane">VNTYLTQLFRPLDMLGMVY</span><span class="topo-inside">RTIRQGLIDMAEMFRLIDTHIEVADVPNAPALVVNRPS</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">VTFDNVVFGYDRDREILHGLSFEVAAGSRVAIVGPSGAGKSTIARLLFRFYDPWEGRILIDGQDIAHVTQTSLRAALGIVPQDSVLFNDTIGYNIAYGRDGASRAEVDAAAKGAAIADFI</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-inside">ARLPQGYDTEVGERGLKLSGGEKQRVAIARTLVKNPPILLFDEATSCLDTRTEQDILSTMRAVASHRTTISIAHRLSTIADSDTILVLDQGRLAEQGSHLDLLRRDGLYAEMWARQAA</span><span class="topo-unknown">ES</span></span>
+<span class="topo-ruler">       610    </span>
 <span class="topo-line"><span class="topo-unknown">AEVSEAAEHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1232,6 +1255,7 @@ NaAtm1 is an Atm1/ABCB7/HMT1/ABCB6-family ABC exporter from the Gram-negative ba
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1247,17 +1271,19 @@ NaAtm1 is an Atm1/ABCB7/HMT1/ABCB6-family ABC exporter from the Gram-negative ba
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MPPETATNPKDA</span><span class="topo-inside">R</span><span class="topo-unknown">HDGWQTLKRFLPYL</span><span class="topo-inside">WPADNAVLR</span><span class="topo-membrane">RRVVGAILMVLLGKATTLALPF</span><span class="topo-outside">AY</span></span>
-<span class="topo-line"><span class="topo-outside">KKAVDAMTLGGGAQPALTVALAFVL</span><span class="topo-membrane">AYALGRFSGVLFDNLRNIVFE</span><span class="topo-inside">RVGQDATRHLAENV</span></span>
-<span class="topo-line"><span class="topo-inside">FARLHKLSLRFHLARRTGEVTKVIERGTKSIDTMLY</span><span class="topo-membrane">FLLFNIAPTVIELTAVIVIFW</span><span class="topo-outside">LNF</span></span>
-<span class="topo-line"><span class="topo-outside">GL</span><span class="topo-membrane">GLVTATILAVIAYVWTTRTITE</span><span class="topo-inside">WRTHLREKMNRLDGQALARAVDSLLNYETVKYFGAE</span></span>
-<span class="topo-line"><span class="topo-inside">SREEARYASAARAYADAAVKSE</span><span class="topo-membrane">NSLGLLNIAQALIVNLLMAGAM</span><span class="topo-outside">AWTVYGWSQGKLTVGD</span></span>
-<span class="topo-line"><span class="topo-outside">LVF</span><span class="topo-membrane">VNTYLTQLFRPLDMLGMVY</span><span class="topo-inside">RTIRQGLIDMAEMFRLIDTHIEVADVPNAPALVVNRPS</span></span>
-<span class="topo-line"><span class="topo-inside">VTFDNVVFGYDRDREILHGLSFEVAAGSRVAIVGPSGAGKSTIARLLFRFYDPWEGRILI</span></span>
-<span class="topo-line"><span class="topo-inside">DGQDIAHVTQTSLRAALGIVPQDSVLFNDTIGYNIAYGRDGASRAEVDAAAKGAAIADFI</span></span>
-<span class="topo-line"><span class="topo-inside">ARLPQGYDTEVGERGLKLSGGEKQRVAIARTLVKNPPILLFDEATSCLDTRTEQDILSTM</span></span>
-<span class="topo-line"><span class="topo-inside">RAVASHRTTISIAHRLSTIADSDTILVLDQGRLAEQGSHLDLLRRDGLYAEMWARQAA</span><span class="topo-unknown">ES</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MPPETATNPKDA</span><span class="topo-inside">R</span><span class="topo-unknown">HDGWQTLKRFLPYL</span><span class="topo-inside">WPADNAVLR</span><span class="topo-membrane">RRVVGAILMVLLGKATTLALPF</span><span class="topo-outside">AYKKAVDAMTLGGGAQPALTVALAFVL</span><span class="topo-membrane">AYALGRFSGVLFDNLRNIVFE</span><span class="topo-inside">RVGQDATRHLAENV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FARLHKLSLRFHLARRTGEVTKVIERGTKSIDTMLY</span><span class="topo-membrane">FLLFNIAPTVIELTAVIVIFW</span><span class="topo-outside">LNFGL</span><span class="topo-membrane">GLVTATILAVIAYVWTTRTITE</span><span class="topo-inside">WRTHLREKMNRLDGQALARAVDSLLNYETVKYFGAE</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">SREEARYASAARAYADAAVKSE</span><span class="topo-membrane">NSLGLLNIAQALIVNLLMAGAM</span><span class="topo-outside">AWTVYGWSQGKLTVGDLVF</span><span class="topo-membrane">VNTYLTQLFRPLDMLGMVY</span><span class="topo-inside">RTIRQGLIDMAEMFRLIDTHIEVADVPNAPALVVNRPS</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">VTFDNVVFGYDRDREILHGLSFEVAAGSRVAIVGPSGAGKSTIARLLFRFYDPWEGRILIDGQDIAHVTQTSLRAALGIVPQDSVLFNDTIGYNIAYGRDGASRAEVDAAAKGAAIADFI</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-inside">ARLPQGYDTEVGERGLKLSGGEKQRVAIARTLVKNPPILLFDEATSCLDTRTEQDILSTMRAVASHRTTISIAHRLSTIADSDTILVLDQGRLAEQGSHLDLLRRDGLYAEMWARQAA</span><span class="topo-unknown">ES</span></span>
+<span class="topo-ruler">       610    </span>
 <span class="topo-line"><span class="topo-unknown">AEVSEAAEHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1374,6 +1400,7 @@ NaAtm1 is an Atm1/ABCB7/HMT1/ABCB6-family ABC exporter from the Gram-negative ba
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1389,17 +1416,19 @@ NaAtm1 is an Atm1/ABCB7/HMT1/ABCB6-family ABC exporter from the Gram-negative ba
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MPPETATNPKDA</span><span class="topo-inside">RHDG</span><span class="topo-unknown">WQTLKRFLPYL</span><span class="topo-inside">WPADNAVLR</span><span class="topo-membrane">RRVVGAILMVLLGKATTLALPF</span><span class="topo-outside">AY</span></span>
-<span class="topo-line"><span class="topo-outside">KKAVDAMTLGGGAQPALTVALAFVL</span><span class="topo-membrane">AYALGRFSGVLFDNLRNIVFE</span><span class="topo-inside">RVGQDATRHLAENV</span></span>
-<span class="topo-line"><span class="topo-inside">FARLHKLSLRFHLARRTGEVTKVIERGTKSIDTMLY</span><span class="topo-membrane">FLLFNIAPTVIELTAVIVIFW</span><span class="topo-outside">LNF</span></span>
-<span class="topo-line"><span class="topo-outside">GLG</span><span class="topo-membrane">LVTATILAVIAYVWTTRTIT</span><span class="topo-inside">EWRTHLREKMNRLDGQALARAVDSLLNYETVKYFGAE</span></span>
-<span class="topo-line"><span class="topo-inside">SREEARYASAARAYADAAVKSE</span><span class="topo-membrane">NSLGLLNIAQALIVNLLMAGAM</span><span class="topo-outside">AWTVYGWSQGKLTVGD</span></span>
-<span class="topo-line"><span class="topo-outside">LVF</span><span class="topo-membrane">VNTYLTQLFRPLDMLGMVY</span><span class="topo-inside">RTIRQGLIDMAEMFRLIDTHIEVADVPNAPALVVNRPS</span></span>
-<span class="topo-line"><span class="topo-inside">VTFDNVVFGYDRDREILHGLSFEVAAGSRVAIVGPSGAGKSTIARLLFRFYDPWEGRILI</span></span>
-<span class="topo-line"><span class="topo-inside">DGQDIAHVTQTSLRAALGIVPQDSVLFNDTIGYNIAYGRDGASRAEVDAAAKGAAIADFI</span></span>
-<span class="topo-line"><span class="topo-inside">ARLPQGYDTEVGERGLKLSGGEKQRVAIARTLVKNPPILLFDEATSCLDTRTEQDILSTM</span></span>
-<span class="topo-line"><span class="topo-inside">RAVASHRTTISIAHRLSTIADSDTILVLDQGRLAEQGSHLDLLRRDGLYAEMWARQAA</span><span class="topo-unknown">ES</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MPPETATNPKDA</span><span class="topo-inside">RHDG</span><span class="topo-unknown">WQTLKRFLPYL</span><span class="topo-inside">WPADNAVLR</span><span class="topo-membrane">RRVVGAILMVLLGKATTLALPF</span><span class="topo-outside">AYKKAVDAMTLGGGAQPALTVALAFVL</span><span class="topo-membrane">AYALGRFSGVLFDNLRNIVFE</span><span class="topo-inside">RVGQDATRHLAENV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FARLHKLSLRFHLARRTGEVTKVIERGTKSIDTMLY</span><span class="topo-membrane">FLLFNIAPTVIELTAVIVIFW</span><span class="topo-outside">LNFGLG</span><span class="topo-membrane">LVTATILAVIAYVWTTRTIT</span><span class="topo-inside">EWRTHLREKMNRLDGQALARAVDSLLNYETVKYFGAE</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">SREEARYASAARAYADAAVKSE</span><span class="topo-membrane">NSLGLLNIAQALIVNLLMAGAM</span><span class="topo-outside">AWTVYGWSQGKLTVGDLVF</span><span class="topo-membrane">VNTYLTQLFRPLDMLGMVY</span><span class="topo-inside">RTIRQGLIDMAEMFRLIDTHIEVADVPNAPALVVNRPS</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">VTFDNVVFGYDRDREILHGLSFEVAAGSRVAIVGPSGAGKSTIARLLFRFYDPWEGRILIDGQDIAHVTQTSLRAALGIVPQDSVLFNDTIGYNIAYGRDGASRAEVDAAAKGAAIADFI</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-inside">ARLPQGYDTEVGERGLKLSGGEKQRVAIARTLVKNPPILLFDEATSCLDTRTEQDILSTMRAVASHRTTISIAHRLSTIADSDTILVLDQGRLAEQGSHLDLLRRDGLYAEMWARQAA</span><span class="topo-unknown">ES</span></span>
+<span class="topo-ruler">       610    </span>
 <span class="topo-line"><span class="topo-unknown">AEVSEAAEHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1516,6 +1545,7 @@ NaAtm1 is an Atm1/ABCB7/HMT1/ABCB6-family ABC exporter from the Gram-negative ba
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1531,17 +1561,19 @@ NaAtm1 is an Atm1/ABCB7/HMT1/ABCB6-family ABC exporter from the Gram-negative ba
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MPPETATNPKDA</span><span class="topo-inside">R</span><span class="topo-unknown">HDGWQTLKRFLPYL</span><span class="topo-inside">WPADNAVLR</span><span class="topo-membrane">RRVVGAILMVLLGKATTLALPF</span><span class="topo-outside">AY</span></span>
-<span class="topo-line"><span class="topo-outside">KKAVDAMTLGGGAQPALTVALAFVL</span><span class="topo-membrane">AYALGRFSGVLFDNLRNIVFE</span><span class="topo-inside">RVGQDATRHLAENV</span></span>
-<span class="topo-line"><span class="topo-inside">FARLHKLSLRFHLARRTGEVTKVIERGTKSIDTMLY</span><span class="topo-membrane">FLLFNIAPTVIELTAVIVIFW</span><span class="topo-outside">LNF</span></span>
-<span class="topo-line"><span class="topo-outside">GL</span><span class="topo-membrane">GLVTATILAVIAYVWTTRTITE</span><span class="topo-inside">WRTHLREKMNRLDGQALARAVDSLLNYETVKYFGAE</span></span>
-<span class="topo-line"><span class="topo-inside">SREEARYASAARAYADAAVKSE</span><span class="topo-membrane">NSLGLLNIAQALIVNLLMAGAM</span><span class="topo-outside">AWTVYGWSQGKLTVGD</span></span>
-<span class="topo-line"><span class="topo-outside">LVF</span><span class="topo-membrane">VNTYLTQLFRPLDMLGMVY</span><span class="topo-inside">RTIRQGLIDMAEMFRLIDTHIEVADVPNAPALVVNRPS</span></span>
-<span class="topo-line"><span class="topo-inside">VTFDNVVFGYDRDREILHGLSFEVAAGSRVAIVGPSGAGKSTIARLLFRFYDPWEGRILI</span></span>
-<span class="topo-line"><span class="topo-inside">DGQDIAHVTQTSLRAALGIVPQDSVLFNDTIGYNIAYGRDGASRAEVDAAAKGAAIADFI</span></span>
-<span class="topo-line"><span class="topo-inside">ARLPQGYDTEVGERGLKLSGGEKQRVAIARTLVKNPPILLFDEATSCLDTRTEQDILSTM</span></span>
-<span class="topo-line"><span class="topo-inside">RAVASHRTTISIAHRLSTIADSDTILVLDQGRLAEQGSHLDLLRRDGLYAEMWARQAA</span><span class="topo-unknown">ES</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MPPETATNPKDA</span><span class="topo-inside">R</span><span class="topo-unknown">HDGWQTLKRFLPYL</span><span class="topo-inside">WPADNAVLR</span><span class="topo-membrane">RRVVGAILMVLLGKATTLALPF</span><span class="topo-outside">AYKKAVDAMTLGGGAQPALTVALAFVL</span><span class="topo-membrane">AYALGRFSGVLFDNLRNIVFE</span><span class="topo-inside">RVGQDATRHLAENV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FARLHKLSLRFHLARRTGEVTKVIERGTKSIDTMLY</span><span class="topo-membrane">FLLFNIAPTVIELTAVIVIFW</span><span class="topo-outside">LNFGL</span><span class="topo-membrane">GLVTATILAVIAYVWTTRTITE</span><span class="topo-inside">WRTHLREKMNRLDGQALARAVDSLLNYETVKYFGAE</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">SREEARYASAARAYADAAVKSE</span><span class="topo-membrane">NSLGLLNIAQALIVNLLMAGAM</span><span class="topo-outside">AWTVYGWSQGKLTVGDLVF</span><span class="topo-membrane">VNTYLTQLFRPLDMLGMVY</span><span class="topo-inside">RTIRQGLIDMAEMFRLIDTHIEVADVPNAPALVVNRPS</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">VTFDNVVFGYDRDREILHGLSFEVAAGSRVAIVGPSGAGKSTIARLLFRFYDPWEGRILIDGQDIAHVTQTSLRAALGIVPQDSVLFNDTIGYNIAYGRDGASRAEVDAAAKGAAIADFI</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-inside">ARLPQGYDTEVGERGLKLSGGEKQRVAIARTLVKNPPILLFDEATSCLDTRTEQDILSTMRAVASHRTTISIAHRLSTIADSDTILVLDQGRLAEQGSHLDLLRRDGLYAEMWARQAA</span><span class="topo-unknown">ES</span></span>
+<span class="topo-ruler">       610    </span>
 <span class="topo-line"><span class="topo-unknown">AEVSEAAEHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1658,6 +1690,7 @@ NaAtm1 is an Atm1/ABCB7/HMT1/ABCB6-family ABC exporter from the Gram-negative ba
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1673,17 +1706,19 @@ NaAtm1 is an Atm1/ABCB7/HMT1/ABCB6-family ABC exporter from the Gram-negative ba
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MPPETATNPKDA</span><span class="topo-inside">RHDG</span><span class="topo-unknown">WQTLKRFLPYL</span><span class="topo-inside">WPADNAVLR</span><span class="topo-membrane">RRVVGAILMVLLGKATTLALPF</span><span class="topo-outside">AY</span></span>
-<span class="topo-line"><span class="topo-outside">KKAVDAMTLGGGAQPALTVALAFVL</span><span class="topo-membrane">AYALGRFSGVLFDNLRNIVFE</span><span class="topo-inside">RVGQDATRHLAENV</span></span>
-<span class="topo-line"><span class="topo-inside">FARLHKLSLRFHLARRTGEVTKVIERGTKSIDTMLY</span><span class="topo-membrane">FLLFNIAPTVIELTAVIVIFW</span><span class="topo-outside">LNF</span></span>
-<span class="topo-line"><span class="topo-outside">GLG</span><span class="topo-membrane">LVTATILAVIAYVWTTRTIT</span><span class="topo-inside">EWRTHLREKMNRLDGQALARAVDSLLNYETVKYFGAE</span></span>
-<span class="topo-line"><span class="topo-inside">SREEARYASAARAYADAAVKSE</span><span class="topo-membrane">NSLGLLNIAQALIVNLLMAGAM</span><span class="topo-outside">AWTVYGWSQGKLTVGD</span></span>
-<span class="topo-line"><span class="topo-outside">LVF</span><span class="topo-membrane">VNTYLTQLFRPLDMLGMVY</span><span class="topo-inside">RTIRQGLIDMAEMFRLIDTHIEVADVPNAPALVVNRPS</span></span>
-<span class="topo-line"><span class="topo-inside">VTFDNVVFGYDRDREILHGLSFEVAAGSRVAIVGPSGAGKSTIARLLFRFYDPWEGRILI</span></span>
-<span class="topo-line"><span class="topo-inside">DGQDIAHVTQTSLRAALGIVPQDSVLFNDTIGYNIAYGRDGASRAEVDAAAKGAAIADFI</span></span>
-<span class="topo-line"><span class="topo-inside">ARLPQGYDTEVGERGLKLSGGEKQRVAIARTLVKNPPILLFDEATSCLDTRTEQDILSTM</span></span>
-<span class="topo-line"><span class="topo-inside">RAVASHRTTISIAHRLSTIADSDTILVLDQGRLAEQGSHLDLLRRDGLYAEMWARQAA</span><span class="topo-unknown">ES</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MPPETATNPKDA</span><span class="topo-inside">RHDG</span><span class="topo-unknown">WQTLKRFLPYL</span><span class="topo-inside">WPADNAVLR</span><span class="topo-membrane">RRVVGAILMVLLGKATTLALPF</span><span class="topo-outside">AYKKAVDAMTLGGGAQPALTVALAFVL</span><span class="topo-membrane">AYALGRFSGVLFDNLRNIVFE</span><span class="topo-inside">RVGQDATRHLAENV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FARLHKLSLRFHLARRTGEVTKVIERGTKSIDTMLY</span><span class="topo-membrane">FLLFNIAPTVIELTAVIVIFW</span><span class="topo-outside">LNFGLG</span><span class="topo-membrane">LVTATILAVIAYVWTTRTIT</span><span class="topo-inside">EWRTHLREKMNRLDGQALARAVDSLLNYETVKYFGAE</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">SREEARYASAARAYADAAVKSE</span><span class="topo-membrane">NSLGLLNIAQALIVNLLMAGAM</span><span class="topo-outside">AWTVYGWSQGKLTVGDLVF</span><span class="topo-membrane">VNTYLTQLFRPLDMLGMVY</span><span class="topo-inside">RTIRQGLIDMAEMFRLIDTHIEVADVPNAPALVVNRPS</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">VTFDNVVFGYDRDREILHGLSFEVAAGSRVAIVGPSGAGKSTIARLLFRFYDPWEGRILIDGQDIAHVTQTSLRAALGIVPQDSVLFNDTIGYNIAYGRDGASRAEVDAAAKGAAIADFI</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-inside">ARLPQGYDTEVGERGLKLSGGEKQRVAIARTLVKNPPILLFDEATSCLDTRTEQDILSTMRAVASHRTTISIAHRLSTIADSDTILVLDQGRLAEQGSHLDLLRRDGLYAEMWARQAA</span><span class="topo-unknown">ES</span></span>
+<span class="topo-ruler">       610    </span>
 <span class="topo-line"><span class="topo-unknown">AEVSEAAEHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1800,6 +1835,7 @@ NaAtm1 is an Atm1/ABCB7/HMT1/ABCB6-family ABC exporter from the Gram-negative ba
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1815,17 +1851,19 @@ NaAtm1 is an Atm1/ABCB7/HMT1/ABCB6-family ABC exporter from the Gram-negative ba
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MPPETATNPKDA</span><span class="topo-inside">R</span><span class="topo-unknown">HDGWQTLKRFLPYL</span><span class="topo-inside">WPADNAVLR</span><span class="topo-membrane">RRVVGAILMVLLGKATTLALPF</span><span class="topo-outside">AY</span></span>
-<span class="topo-line"><span class="topo-outside">KKAVDAMTLGGGAQPALTVALAFVL</span><span class="topo-membrane">AYALGRFSGVLFDNLRNIVFE</span><span class="topo-inside">RVGQDATRHLAENV</span></span>
-<span class="topo-line"><span class="topo-inside">FARLHKLSLRFHLARRTGEVTKVIERGTKSIDTMLY</span><span class="topo-membrane">FLLFNIAPTVIELTAVIVIFW</span><span class="topo-outside">LNF</span></span>
-<span class="topo-line"><span class="topo-outside">GL</span><span class="topo-membrane">GLVTATILAVIAYVWTTRTITE</span><span class="topo-inside">WRTHLREKMNRLDGQALARAVDSLLNYETVKYFGAE</span></span>
-<span class="topo-line"><span class="topo-inside">SREEARYASAARAYADAAVKSE</span><span class="topo-membrane">NSLGLLNIAQALIVNLLMAGAM</span><span class="topo-outside">AWTVYGWSQGKLTVGD</span></span>
-<span class="topo-line"><span class="topo-outside">LVF</span><span class="topo-membrane">VNTYLTQLFRPLDMLGMVY</span><span class="topo-inside">RTIRQGLIDMAEMFRLIDTHIEVADVPNAPALVVNRPS</span></span>
-<span class="topo-line"><span class="topo-inside">VTFDNVVFGYDRDREILHGLSFEVAAGSRVAIVGPSGAGKSTIARLLFRFYDPWEGRILI</span></span>
-<span class="topo-line"><span class="topo-inside">DGQDIAHVTQTSLRAALGIVPQDSVLFNDTIGYNIAYGRDGASRAEVDAAAKGAAIADFI</span></span>
-<span class="topo-line"><span class="topo-inside">ARLPQGYDTEVGERGLKLSGGEKQRVAIARTLVKNPPILLFDEATSCLDTRTEQDILSTM</span></span>
-<span class="topo-line"><span class="topo-inside">RAVASHRTTISIAHRLSTIADSDTILVLDQGRLAEQGSHLDLLRRDGLYAEMWARQAA</span><span class="topo-unknown">ES</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MPPETATNPKDA</span><span class="topo-inside">R</span><span class="topo-unknown">HDGWQTLKRFLPYL</span><span class="topo-inside">WPADNAVLR</span><span class="topo-membrane">RRVVGAILMVLLGKATTLALPF</span><span class="topo-outside">AYKKAVDAMTLGGGAQPALTVALAFVL</span><span class="topo-membrane">AYALGRFSGVLFDNLRNIVFE</span><span class="topo-inside">RVGQDATRHLAENV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FARLHKLSLRFHLARRTGEVTKVIERGTKSIDTMLY</span><span class="topo-membrane">FLLFNIAPTVIELTAVIVIFW</span><span class="topo-outside">LNFGL</span><span class="topo-membrane">GLVTATILAVIAYVWTTRTITE</span><span class="topo-inside">WRTHLREKMNRLDGQALARAVDSLLNYETVKYFGAE</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">SREEARYASAARAYADAAVKSE</span><span class="topo-membrane">NSLGLLNIAQALIVNLLMAGAM</span><span class="topo-outside">AWTVYGWSQGKLTVGDLVF</span><span class="topo-membrane">VNTYLTQLFRPLDMLGMVY</span><span class="topo-inside">RTIRQGLIDMAEMFRLIDTHIEVADVPNAPALVVNRPS</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">VTFDNVVFGYDRDREILHGLSFEVAAGSRVAIVGPSGAGKSTIARLLFRFYDPWEGRILIDGQDIAHVTQTSLRAALGIVPQDSVLFNDTIGYNIAYGRDGASRAEVDAAAKGAAIADFI</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-inside">ARLPQGYDTEVGERGLKLSGGEKQRVAIARTLVKNPPILLFDEATSCLDTRTEQDILSTMRAVASHRTTISIAHRLSTIADSDTILVLDQGRLAEQGSHLDLLRRDGLYAEMWARQAA</span><span class="topo-unknown">ES</span></span>
+<span class="topo-ruler">       610    </span>
 <span class="topo-line"><span class="topo-unknown">AEVSEAAEHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1942,6 +1980,7 @@ NaAtm1 is an Atm1/ABCB7/HMT1/ABCB6-family ABC exporter from the Gram-negative ba
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1957,17 +1996,19 @@ NaAtm1 is an Atm1/ABCB7/HMT1/ABCB6-family ABC exporter from the Gram-negative ba
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MPPETATNPKDA</span><span class="topo-inside">RHDG</span><span class="topo-unknown">WQTLKRFLPYL</span><span class="topo-inside">WPADNAVLR</span><span class="topo-membrane">RRVVGAILMVLLGKATTLALPF</span><span class="topo-outside">AY</span></span>
-<span class="topo-line"><span class="topo-outside">KKAVDAMTLGGGAQPALTVALAFVL</span><span class="topo-membrane">AYALGRFSGVLFDNLRNIVFE</span><span class="topo-inside">RVGQDATRHLAENV</span></span>
-<span class="topo-line"><span class="topo-inside">FARLHKLSLRFHLARRTGEVTKVIERGTKSIDTMLY</span><span class="topo-membrane">FLLFNIAPTVIELTAVIVIFW</span><span class="topo-outside">LNF</span></span>
-<span class="topo-line"><span class="topo-outside">GLG</span><span class="topo-membrane">LVTATILAVIAYVWTTRTIT</span><span class="topo-inside">EWRTHLREKMNRLDGQALARAVDSLLNYETVKYFGAE</span></span>
-<span class="topo-line"><span class="topo-inside">SREEARYASAARAYADAAVKSE</span><span class="topo-membrane">NSLGLLNIAQALIVNLLMAGAM</span><span class="topo-outside">AWTVYGWSQGKLTVGD</span></span>
-<span class="topo-line"><span class="topo-outside">LVF</span><span class="topo-membrane">VNTYLTQLFRPLDMLGMVY</span><span class="topo-inside">RTIRQGLIDMAEMFRLIDTHIEVADVPNAPALVVNRPS</span></span>
-<span class="topo-line"><span class="topo-inside">VTFDNVVFGYDRDREILHGLSFEVAAGSRVAIVGPSGAGKSTIARLLFRFYDPWEGRILI</span></span>
-<span class="topo-line"><span class="topo-inside">DGQDIAHVTQTSLRAALGIVPQDSVLFNDTIGYNIAYGRDGASRAEVDAAAKGAAIADFI</span></span>
-<span class="topo-line"><span class="topo-inside">ARLPQGYDTEVGERGLKLSGGEKQRVAIARTLVKNPPILLFDEATSCLDTRTEQDILSTM</span></span>
-<span class="topo-line"><span class="topo-inside">RAVASHRTTISIAHRLSTIADSDTILVLDQGRLAEQGSHLDLLRRDGLYAEMWARQAA</span><span class="topo-unknown">ES</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MPPETATNPKDA</span><span class="topo-inside">RHDG</span><span class="topo-unknown">WQTLKRFLPYL</span><span class="topo-inside">WPADNAVLR</span><span class="topo-membrane">RRVVGAILMVLLGKATTLALPF</span><span class="topo-outside">AYKKAVDAMTLGGGAQPALTVALAFVL</span><span class="topo-membrane">AYALGRFSGVLFDNLRNIVFE</span><span class="topo-inside">RVGQDATRHLAENV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FARLHKLSLRFHLARRTGEVTKVIERGTKSIDTMLY</span><span class="topo-membrane">FLLFNIAPTVIELTAVIVIFW</span><span class="topo-outside">LNFGLG</span><span class="topo-membrane">LVTATILAVIAYVWTTRTIT</span><span class="topo-inside">EWRTHLREKMNRLDGQALARAVDSLLNYETVKYFGAE</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">SREEARYASAARAYADAAVKSE</span><span class="topo-membrane">NSLGLLNIAQALIVNLLMAGAM</span><span class="topo-outside">AWTVYGWSQGKLTVGDLVF</span><span class="topo-membrane">VNTYLTQLFRPLDMLGMVY</span><span class="topo-inside">RTIRQGLIDMAEMFRLIDTHIEVADVPNAPALVVNRPS</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">VTFDNVVFGYDRDREILHGLSFEVAAGSRVAIVGPSGAGKSTIARLLFRFYDPWEGRILIDGQDIAHVTQTSLRAALGIVPQDSVLFNDTIGYNIAYGRDGASRAEVDAAAKGAAIADFI</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-inside">ARLPQGYDTEVGERGLKLSGGEKQRVAIARTLVKNPPILLFDEATSCLDTRTEQDILSTMRAVASHRTTISIAHRLSTIADSDTILVLDQGRLAEQGSHLDLLRRDGLYAEMWARQAA</span><span class="topo-unknown">ES</span></span>
+<span class="topo-ruler">       610    </span>
 <span class="topo-line"><span class="topo-unknown">AEVSEAAEHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2084,6 +2125,7 @@ NaAtm1 is an Atm1/ABCB7/HMT1/ABCB6-family ABC exporter from the Gram-negative ba
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2099,17 +2141,19 @@ NaAtm1 is an Atm1/ABCB7/HMT1/ABCB6-family ABC exporter from the Gram-negative ba
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MPPETATNPKDA</span><span class="topo-inside">R</span><span class="topo-unknown">HDGWQTLKRFLPYL</span><span class="topo-inside">WPADNAVLR</span><span class="topo-membrane">RRVVGAILMVLLGKATTLALPF</span><span class="topo-outside">AY</span></span>
-<span class="topo-line"><span class="topo-outside">KKAVDAMTLGGGAQPALTVALAFVL</span><span class="topo-membrane">AYALGRFSGVLFDNLRNIVFE</span><span class="topo-inside">RVGQDATRHLAENV</span></span>
-<span class="topo-line"><span class="topo-inside">FARLHKLSLRFHLARRTGEVTKVIERGTKSIDTMLY</span><span class="topo-membrane">FLLFNIAPTVIELTAVIVIFW</span><span class="topo-outside">LNF</span></span>
-<span class="topo-line"><span class="topo-outside">GL</span><span class="topo-membrane">GLVTATILAVIAYVWTTRTITE</span><span class="topo-inside">WRTHLREKMNRLDGQALARAVDSLLNYETVKYFGAE</span></span>
-<span class="topo-line"><span class="topo-inside">SREEARYASAARAYADAAVKSE</span><span class="topo-membrane">NSLGLLNIAQALIVNLLMAGAM</span><span class="topo-outside">AWTVYGWSQGKLTVGD</span></span>
-<span class="topo-line"><span class="topo-outside">LVF</span><span class="topo-membrane">VNTYLTQLFRPLDMLGMVY</span><span class="topo-inside">RTIRQGLIDMAEMFRLIDTHIEVADVPNAPALVVNRPS</span></span>
-<span class="topo-line"><span class="topo-inside">VTFDNVVFGYDRDREILHGLSFEVAAGSRVAIVGPSGAGKSTIARLLFRFYDPWEGRILI</span></span>
-<span class="topo-line"><span class="topo-inside">DGQDIAHVTQTSLRAALGIVPQDSVLFNDTIGYNIAYGRDGASRAEVDAAAKGAAIADFI</span></span>
-<span class="topo-line"><span class="topo-inside">ARLPQGYDTEVGERGLKLSGGEKQRVAIARTLVKNPPILLFDEATSCLDTRTEQDILSTM</span></span>
-<span class="topo-line"><span class="topo-inside">RAVASHRTTISIAHRLSTIADSDTILVLDQGRLAEQGSHLDLLRRDGLYAEMWARQAA</span><span class="topo-unknown">ES</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MPPETATNPKDA</span><span class="topo-inside">R</span><span class="topo-unknown">HDGWQTLKRFLPYL</span><span class="topo-inside">WPADNAVLR</span><span class="topo-membrane">RRVVGAILMVLLGKATTLALPF</span><span class="topo-outside">AYKKAVDAMTLGGGAQPALTVALAFVL</span><span class="topo-membrane">AYALGRFSGVLFDNLRNIVFE</span><span class="topo-inside">RVGQDATRHLAENV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FARLHKLSLRFHLARRTGEVTKVIERGTKSIDTMLY</span><span class="topo-membrane">FLLFNIAPTVIELTAVIVIFW</span><span class="topo-outside">LNFGL</span><span class="topo-membrane">GLVTATILAVIAYVWTTRTITE</span><span class="topo-inside">WRTHLREKMNRLDGQALARAVDSLLNYETVKYFGAE</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">SREEARYASAARAYADAAVKSE</span><span class="topo-membrane">NSLGLLNIAQALIVNLLMAGAM</span><span class="topo-outside">AWTVYGWSQGKLTVGDLVF</span><span class="topo-membrane">VNTYLTQLFRPLDMLGMVY</span><span class="topo-inside">RTIRQGLIDMAEMFRLIDTHIEVADVPNAPALVVNRPS</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">VTFDNVVFGYDRDREILHGLSFEVAAGSRVAIVGPSGAGKSTIARLLFRFYDPWEGRILIDGQDIAHVTQTSLRAALGIVPQDSVLFNDTIGYNIAYGRDGASRAEVDAAAKGAAIADFI</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-inside">ARLPQGYDTEVGERGLKLSGGEKQRVAIARTLVKNPPILLFDEATSCLDTRTEQDILSTMRAVASHRTTISIAHRLSTIADSDTILVLDQGRLAEQGSHLDLLRRDGLYAEMWARQAA</span><span class="topo-unknown">ES</span></span>
+<span class="topo-ruler">       610    </span>
 <span class="topo-line"><span class="topo-unknown">AEVSEAAEHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2226,6 +2270,7 @@ NaAtm1 is an Atm1/ABCB7/HMT1/ABCB6-family ABC exporter from the Gram-negative ba
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2241,17 +2286,19 @@ NaAtm1 is an Atm1/ABCB7/HMT1/ABCB6-family ABC exporter from the Gram-negative ba
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MPPETATNPKDA</span><span class="topo-inside">RHDG</span><span class="topo-unknown">WQTLKRFLPYL</span><span class="topo-inside">WPADNAVLR</span><span class="topo-membrane">RRVVGAILMVLLGKATTLALPF</span><span class="topo-outside">AY</span></span>
-<span class="topo-line"><span class="topo-outside">KKAVDAMTLGGGAQPALTVALAFVL</span><span class="topo-membrane">AYALGRFSGVLFDNLRNIVFE</span><span class="topo-inside">RVGQDATRHLAENV</span></span>
-<span class="topo-line"><span class="topo-inside">FARLHKLSLRFHLARRTGEVTKVIERGTKSIDTMLY</span><span class="topo-membrane">FLLFNIAPTVIELTAVIVIFW</span><span class="topo-outside">LNF</span></span>
-<span class="topo-line"><span class="topo-outside">GLG</span><span class="topo-membrane">LVTATILAVIAYVWTTRTIT</span><span class="topo-inside">EWRTHLREKMNRLDGQALARAVDSLLNYETVKYFGAE</span></span>
-<span class="topo-line"><span class="topo-inside">SREEARYASAARAYADAAVKSE</span><span class="topo-membrane">NSLGLLNIAQALIVNLLMAGAM</span><span class="topo-outside">AWTVYGWSQGKLTVGD</span></span>
-<span class="topo-line"><span class="topo-outside">LVF</span><span class="topo-membrane">VNTYLTQLFRPLDMLGMVY</span><span class="topo-inside">RTIRQGLIDMAEMFRLIDTHIEVADVPNAPALVVNRPS</span></span>
-<span class="topo-line"><span class="topo-inside">VTFDNVVFGYDRDREILHGLSFEVAAGSRVAIVGPSGAGKSTIARLLFRFYDPWEGRILI</span></span>
-<span class="topo-line"><span class="topo-inside">DGQDIAHVTQTSLRAALGIVPQDSVLFNDTIGYNIAYGRDGASRAEVDAAAKGAAIADFI</span></span>
-<span class="topo-line"><span class="topo-inside">ARLPQGYDTEVGERGLKLSGGEKQRVAIARTLVKNPPILLFDEATSCLDTRTEQDILSTM</span></span>
-<span class="topo-line"><span class="topo-inside">RAVASHRTTISIAHRLSTIADSDTILVLDQGRLAEQGSHLDLLRRDGLYAEMWARQAA</span><span class="topo-unknown">ES</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MPPETATNPKDA</span><span class="topo-inside">RHDG</span><span class="topo-unknown">WQTLKRFLPYL</span><span class="topo-inside">WPADNAVLR</span><span class="topo-membrane">RRVVGAILMVLLGKATTLALPF</span><span class="topo-outside">AYKKAVDAMTLGGGAQPALTVALAFVL</span><span class="topo-membrane">AYALGRFSGVLFDNLRNIVFE</span><span class="topo-inside">RVGQDATRHLAENV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FARLHKLSLRFHLARRTGEVTKVIERGTKSIDTMLY</span><span class="topo-membrane">FLLFNIAPTVIELTAVIVIFW</span><span class="topo-outside">LNFGLG</span><span class="topo-membrane">LVTATILAVIAYVWTTRTIT</span><span class="topo-inside">EWRTHLREKMNRLDGQALARAVDSLLNYETVKYFGAE</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">SREEARYASAARAYADAAVKSE</span><span class="topo-membrane">NSLGLLNIAQALIVNLLMAGAM</span><span class="topo-outside">AWTVYGWSQGKLTVGDLVF</span><span class="topo-membrane">VNTYLTQLFRPLDMLGMVY</span><span class="topo-inside">RTIRQGLIDMAEMFRLIDTHIEVADVPNAPALVVNRPS</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">VTFDNVVFGYDRDREILHGLSFEVAAGSRVAIVGPSGAGKSTIARLLFRFYDPWEGRILIDGQDIAHVTQTSLRAALGIVPQDSVLFNDTIGYNIAYGRDGASRAEVDAAAKGAAIADFI</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-inside">ARLPQGYDTEVGERGLKLSGGEKQRVAIARTLVKNPPILLFDEATSCLDTRTEQDILSTMRAVASHRTTISIAHRLSTIADSDTILVLDQGRLAEQGSHLDLLRRDGLYAEMWARQAA</span><span class="topo-unknown">ES</span></span>
+<span class="topo-ruler">       610    </span>
 <span class="topo-line"><span class="topo-unknown">AEVSEAAEHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2368,6 +2415,7 @@ NaAtm1 is an Atm1/ABCB7/HMT1/ABCB6-family ABC exporter from the Gram-negative ba
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2458,17 +2506,19 @@ NaAtm1 is an Atm1/ABCB7/HMT1/ABCB6-family ABC exporter from the Gram-negative ba
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MPPETAT</span><span class="topo-outside">NPKDARHD</span><span class="topo-unknown">GWQTLKRFLPYL</span><span class="topo-outside">WPADNA</span><span class="topo-membrane">VLRRRVVGAILMVLLGKATTLALPFAY</span></span>
-<span class="topo-line"><span class="topo-inside">KKAVDAMTLGGGAQPALTVALAFVL</span><span class="topo-membrane">AYALGRFSGVLFDNLRNIVFE</span><span class="topo-outside">RVGQDATRHLAENV</span></span>
-<span class="topo-line"><span class="topo-outside">FARLHKLSLRFHLARRTGEVTKVIERGTKSIDTML</span><span class="topo-membrane">YFLLFNIAPTVIELTAVIVIFW</span><span class="topo-inside">LNF</span></span>
-<span class="topo-line"><span class="topo-inside">GL</span><span class="topo-membrane">GLVTATILAVIAYVWTTRTITEWR</span><span class="topo-outside">THLREKMNRLDGQALARAVDSLLNYETVKYFGAE</span></span>
-<span class="topo-line"><span class="topo-outside">SREEARYASAARAYADAAVKSE</span><span class="topo-membrane">NSLGLLNIAQALIVNLLMAGAM</span><span class="topo-inside">AWTVYGWSQGKLTVGD</span></span>
-<span class="topo-line"><span class="topo-inside">LVF</span><span class="topo-membrane">VNTYLTQLFRPLDMLGMVYR</span><span class="topo-outside">TIRQGLIDMAEMFRLIDTHIEVADVPNAPALVVNRPS</span></span>
-<span class="topo-line"><span class="topo-outside">VTFDNVVFGYDRDREILHGLSFEVAAGSRVAIVGPSGAGKSTIARLLFRFYDPWEGRILI</span></span>
-<span class="topo-line"><span class="topo-outside">DGQDIAHVTQTSLRAALGIVPQDSVLFNDTIGYNIAYGRDGASRAEVDAAAKGAAIADFI</span></span>
-<span class="topo-line"><span class="topo-outside">ARLPQGYDTEVGERGLKLSGGEKQRVAIARTLVKNPPILLFDEATSALDTRTEQDILSTM</span></span>
-<span class="topo-line"><span class="topo-outside">RAVASHRTTISIAHRLSTIADSDTILVLDQGRLAEQGSHLDLLRRDGLYAEMWARQAAES</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MPPETAT</span><span class="topo-outside">NPKDARHD</span><span class="topo-unknown">GWQTLKRFLPYL</span><span class="topo-outside">WPADNA</span><span class="topo-membrane">VLRRRVVGAILMVLLGKATTLALPFAY</span><span class="topo-inside">KKAVDAMTLGGGAQPALTVALAFVL</span><span class="topo-membrane">AYALGRFSGVLFDNLRNIVFE</span><span class="topo-outside">RVGQDATRHLAENV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">FARLHKLSLRFHLARRTGEVTKVIERGTKSIDTML</span><span class="topo-membrane">YFLLFNIAPTVIELTAVIVIFW</span><span class="topo-inside">LNFGL</span><span class="topo-membrane">GLVTATILAVIAYVWTTRTITEWR</span><span class="topo-outside">THLREKMNRLDGQALARAVDSLLNYETVKYFGAE</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">SREEARYASAARAYADAAVKSE</span><span class="topo-membrane">NSLGLLNIAQALIVNLLMAGAM</span><span class="topo-inside">AWTVYGWSQGKLTVGDLVF</span><span class="topo-membrane">VNTYLTQLFRPLDMLGMVYR</span><span class="topo-outside">TIRQGLIDMAEMFRLIDTHIEVADVPNAPALVVNRPS</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">VTFDNVVFGYDRDREILHGLSFEVAAGSRVAIVGPSGAGKSTIARLLFRFYDPWEGRILIDGQDIAHVTQTSLRAALGIVPQDSVLFNDTIGYNIAYGRDGASRAEVDAAAKGAAIADFI</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">ARLPQGYDTEVGERGLKLSGGEKQRVAIARTLVKNPPILLFDEATSALDTRTEQDILSTMRAVASHRTTISIAHRLSTIADSDTILVLDQGRLAEQGSHLDLLRRDGLYAEMWARQAAES</span></span>
+<span class="topo-ruler">       610    </span>
 <span class="topo-line"><span class="topo-outside">AEVSEAA</span><span class="topo-unknown">EHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2599,6 +2649,7 @@ NaAtm1 is an Atm1/ABCB7/HMT1/ABCB6-family ABC exporter from the Gram-negative ba
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2614,17 +2665,19 @@ NaAtm1 is an Atm1/ABCB7/HMT1/ABCB6-family ABC exporter from the Gram-negative ba
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MPPETATN</span><span class="topo-outside">PKDARHD</span><span class="topo-unknown">GWQTLKRFLPYL</span><span class="topo-outside">WPADNA</span><span class="topo-membrane">VLRRRVVGAILMVLLGKATTLALPF</span><span class="topo-inside">AY</span></span>
-<span class="topo-line"><span class="topo-inside">KKAVDAMTLGGGAQPALTVALAFVL</span><span class="topo-membrane">AYALGRFSGVLFDNLRNIVFERV</span><span class="topo-outside">GQDATRHLAENV</span></span>
-<span class="topo-line"><span class="topo-outside">FARLHKLSLRFHLARRTGEVTKVIERGTKSIDTM</span><span class="topo-membrane">LYFLLFNIAPTVIELTAVIVIFW</span><span class="topo-inside">LNF</span></span>
-<span class="topo-line"><span class="topo-inside">GL</span><span class="topo-membrane">GLVTATILAVIAYVWTTRTITEWR</span><span class="topo-outside">THLREKMNRLDGQALARAVDSLLNYETVKYFGAE</span></span>
-<span class="topo-line"><span class="topo-outside">SREEARYASAARAYADAAVKSE</span><span class="topo-membrane">NSLGLLNIAQALIVNLLMAGAM</span><span class="topo-inside">AWTVYGWSQGKLTVGD</span></span>
-<span class="topo-line"><span class="topo-inside">LV</span><span class="topo-membrane">FVNTYLTQLFRPLDMLGMVYR</span><span class="topo-outside">TIRQGLIDMAEMFRLIDTHIEVADVPNAPALVVNRPS</span></span>
-<span class="topo-line"><span class="topo-outside">VTFDNVVFGYDRDREILHGLSFEVAAGSRVAIVGPSGAGKSTIARLLFRFYDPWEGRILI</span></span>
-<span class="topo-line"><span class="topo-outside">DGQDIAHVTQTSLRAALGIVPQDSVLFNDTIGYNIAYGRDGASRAEVDAAAKGAAIADFI</span></span>
-<span class="topo-line"><span class="topo-outside">ARLPQGYDTEVGERGLKLSGGEKQRVAIARTLVKNPPILLFDEATSALDTRTEQDILSTM</span></span>
-<span class="topo-line"><span class="topo-outside">RAVASHRTTISIAHRLSTIADSDTILVLDQGRLAEQGSHLDLLRRDGLYAEMWARQAAES</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MPPETATN</span><span class="topo-outside">PKDARHD</span><span class="topo-unknown">GWQTLKRFLPYL</span><span class="topo-outside">WPADNA</span><span class="topo-membrane">VLRRRVVGAILMVLLGKATTLALPF</span><span class="topo-inside">AYKKAVDAMTLGGGAQPALTVALAFVL</span><span class="topo-membrane">AYALGRFSGVLFDNLRNIVFERV</span><span class="topo-outside">GQDATRHLAENV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">FARLHKLSLRFHLARRTGEVTKVIERGTKSIDTM</span><span class="topo-membrane">LYFLLFNIAPTVIELTAVIVIFW</span><span class="topo-inside">LNFGL</span><span class="topo-membrane">GLVTATILAVIAYVWTTRTITEWR</span><span class="topo-outside">THLREKMNRLDGQALARAVDSLLNYETVKYFGAE</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">SREEARYASAARAYADAAVKSE</span><span class="topo-membrane">NSLGLLNIAQALIVNLLMAGAM</span><span class="topo-inside">AWTVYGWSQGKLTVGDLV</span><span class="topo-membrane">FVNTYLTQLFRPLDMLGMVYR</span><span class="topo-outside">TIRQGLIDMAEMFRLIDTHIEVADVPNAPALVVNRPS</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">VTFDNVVFGYDRDREILHGLSFEVAAGSRVAIVGPSGAGKSTIARLLFRFYDPWEGRILIDGQDIAHVTQTSLRAALGIVPQDSVLFNDTIGYNIAYGRDGASRAEVDAAAKGAAIADFI</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">ARLPQGYDTEVGERGLKLSGGEKQRVAIARTLVKNPPILLFDEATSALDTRTEQDILSTMRAVASHRTTISIAHRLSTIADSDTILVLDQGRLAEQGSHLDLLRRDGLYAEMWARQAAES</span></span>
+<span class="topo-ruler">       610    </span>
 <span class="topo-line"><span class="topo-outside">AEVSEA</span><span class="topo-unknown">AEHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2755,6 +2808,7 @@ NaAtm1 is an Atm1/ABCB7/HMT1/ABCB6-family ABC exporter from the Gram-negative ba
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

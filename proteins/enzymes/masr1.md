@@ -136,14 +136,15 @@ MaSR1 is a Delta14-sterol reductase from the methanotrophic bacterium Methylomic
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSEQESRDNAAVDAVRQKYGFG</span><span class="topo-outside">F</span><span class="topo-membrane">SWLVLMIALPPLVYYLW</span><span class="topo-inside">ICVTYYQGELVFTSD</span><span class="topo-unknown">AAAWR</span></span>
-<span class="topo-line"><span class="topo-unknown">RFW</span><span class="topo-inside">SHVAPPTWHA</span><span class="topo-membrane">AGLYAAWFLGQAALQVWAP</span><span class="topo-outside">GPTVQGMKLPDGSRLDYRM</span><span class="topo-membrane">NGIFSFLFT</span></span>
-<span class="topo-line"><span class="topo-membrane">LAVVFG</span><span class="topo-inside">LVTMGWLDATVLYDQLGPL</span><span class="topo-membrane">LTVVNIFTFVFAGFLYF</span><span class="topo-outside">WG</span><span class="topo-unknown">LNGKQWERPTGR</span><span class="topo-outside">PFYD</span></span>
-<span class="topo-line"><span class="topo-outside">YFMGTALNPRIGSLDL</span><span class="topo-membrane">KLFCEARPGMIFWLLMNL</span><span class="topo-inside">SMAAKQYELHGTVTVP</span><span class="topo-membrane">MLLVVGFQSF</span></span>
-<span class="topo-line"><span class="topo-membrane">YLIDYFIHE</span><span class="topo-outside">EAVLTTWDIKHEKFG</span><span class="topo-membrane">WMLCWGDLVWLPFTYTLQA</span><span class="topo-inside">QYLVHHTHDLPV</span><span class="topo-membrane">WGIIA</span></span>
-<span class="topo-line"><span class="topo-membrane">IVALNLAGYAIFR</span><span class="topo-outside">GANIQKHHFRRDPNRIVWGKPAKYIKTKQGSLLLTSGWWGIARHMNY</span></span>
-<span class="topo-line"><span class="topo-membrane">FGDLMIALSWCLPAAF</span><span class="topo-inside">GS</span><span class="topo-membrane">PIPYFHIVYFTILLL</span><span class="topo-outside">HREKRDDAMCLAKYGEDWLQYRKKVPW</span></span>
-<span class="topo-line"><span class="topo-outside">RIVPKIY</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSEQESRDNAAVDAVRQKYGFG</span><span class="topo-outside">F</span><span class="topo-membrane">SWLVLMIALPPLVYYLW</span><span class="topo-inside">ICVTYYQGELVFTSD</span><span class="topo-unknown">AAAWRRFW</span><span class="topo-inside">SHVAPPTWHA</span><span class="topo-membrane">AGLYAAWFLGQAALQVWAP</span><span class="topo-outside">GPTVQGMKLPDGSRLDYRM</span><span class="topo-membrane">NGIFSFLFT</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">LAVVFG</span><span class="topo-inside">LVTMGWLDATVLYDQLGPL</span><span class="topo-membrane">LTVVNIFTFVFAGFLYF</span><span class="topo-outside">WG</span><span class="topo-unknown">LNGKQWERPTGR</span><span class="topo-outside">PFYDYFMGTALNPRIGSLDL</span><span class="topo-membrane">KLFCEARPGMIFWLLMNL</span><span class="topo-inside">SMAAKQYELHGTVTVP</span><span class="topo-membrane">MLLVVGFQSF</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">YLIDYFIHE</span><span class="topo-outside">EAVLTTWDIKHEKFG</span><span class="topo-membrane">WMLCWGDLVWLPFTYTLQA</span><span class="topo-inside">QYLVHHTHDLPV</span><span class="topo-membrane">WGIIAIVALNLAGYAIFR</span><span class="topo-outside">GANIQKHHFRRDPNRIVWGKPAKYIKTKQGSLLLTSGWWGIARHMNY</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       </span>
+<span class="topo-line"><span class="topo-membrane">FGDLMIALSWCLPAAF</span><span class="topo-inside">GS</span><span class="topo-membrane">PIPYFHIVYFTILLL</span><span class="topo-outside">HREKRDDAMCLAKYGEDWLQYRKKVPWRIVPKIY</span></span>
+<details class="topo-details"><summary>Topology coordinates (24 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -323,6 +324,7 @@ MaSR1 is a Delta14-sterol reductase from the methanotrophic bacterium Methylomic
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

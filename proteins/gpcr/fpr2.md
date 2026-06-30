@@ -133,14 +133,15 @@ The Human formyl Peptide 5 (Truncated GLP-1 Agonist Nonapeptide) (Truncated GLP-
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">PADLEDNWETLNDNLKVIEKADNAAQVKDALTKMRAAALDAQKATPPKLEDKSPDSPEMK</span></span>
-<span class="topo-line"><span class="topo-outside">DFRHGFDILVGQIDDALKLANEGKVKEAQAAAEQLKTTRNAYIQKYLTNFSTPLNEYEEV</span></span>
-<span class="topo-line"><span class="topo-outside">SYESAGYTV</span><span class="topo-membrane">LRILPLVVLGVTFVLGVLGNGLVIWV</span><span class="topo-inside">AGFRMTRTVTTI</span><span class="topo-membrane">CYLNLALADFSFT</span></span>
-<span class="topo-line"><span class="topo-membrane">ATLPFLIVSMA</span><span class="topo-outside">MGEKWPF</span><span class="topo-membrane">GWFLCKLIHIVVDINLFGSVFLIGFIAL</span><span class="topo-inside">DRCICVLHPVWAQN</span></span>
-<span class="topo-line"><span class="topo-inside">HRTVSLAMK</span><span class="topo-membrane">VIVGPWILALVLTLPVFLFLT</span><span class="topo-outside">TVTIPNGDTYCTFNFASWGGTPEERLKVAI</span></span>
-<span class="topo-line"><span class="topo-membrane">TMLTARGIIRFVIGFLLPMSIVAIC</span><span class="topo-inside">YGLIAAKIHKKGMIKSSRPLRVLT</span><span class="topo-membrane">AVVASFFICWF</span></span>
-<span class="topo-line"><span class="topo-membrane">PFQLVALLGTVWL</span><span class="topo-outside">KEMLFYGKYKI</span><span class="topo-membrane">IDILVNPTSSLAFFNSCLNPMLYVF</span><span class="topo-inside">VG</span><span class="topo-unknown">QDFRERLIH</span></span>
-<span class="topo-line"><span class="topo-unknown">S</span><span class="topo-inside">LPTSLE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">PADLEDNWETLNDNLKVIEKADNAAQVKDALTKMRAAALDAQKATPPKLEDKSPDSPEMKDFRHGFDILVGQIDDALKLANEGKVKEAQAAAEQLKTTRNAYIQKYLTNFSTPLNEYEEV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">SYESAGYTV</span><span class="topo-membrane">LRILPLVVLGVTFVLGVLGNGLVIWV</span><span class="topo-inside">AGFRMTRTVTTI</span><span class="topo-membrane">CYLNLALADFSFTATLPFLIVSMA</span><span class="topo-outside">MGEKWPF</span><span class="topo-membrane">GWFLCKLIHIVVDINLFGSVFLIGFIAL</span><span class="topo-inside">DRCICVLHPVWAQN</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">HRTVSLAMK</span><span class="topo-membrane">VIVGPWILALVLTLPVFLFLT</span><span class="topo-outside">TVTIPNGDTYCTFNFASWGGTPEERLKVAI</span><span class="topo-membrane">TMLTARGIIRFVIGFLLPMSIVAIC</span><span class="topo-inside">YGLIAAKIHKKGMIKSSRPLRVLT</span><span class="topo-membrane">AVVASFFICWF</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       </span>
+<span class="topo-line"><span class="topo-membrane">PFQLVALLGTVWL</span><span class="topo-outside">KEMLFYGKYKI</span><span class="topo-membrane">IDILVNPTSSLAFFNSCLNPMLYVF</span><span class="topo-inside">VG</span><span class="topo-unknown">QDFRERLIHS</span><span class="topo-inside">LPTSLE</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -271,6 +272,7 @@ The Human formyl Peptide 5 (Truncated GLP-1 Agonist Nonapeptide) (Truncated GLP-
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

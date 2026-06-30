@@ -135,16 +135,17 @@ ArnT (PmrK) is an integral membrane lipid-to-lipid glycosyltransferase that
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">SYVMPQPTSQQRASVASSQSTQGAVGWS</span><span class="topo-inside">AATG</span><span class="topo-membrane">WVVLFVAVALVVWFVS</span><span class="topo-outside">LDMRHLVGPDEG</span></span>
-<span class="topo-line"><span class="topo-outside">RYAEISREMFASGDWVTIRYNALKYFEKPP</span><span class="topo-unknown">FHMWVTVVGYELF</span><span class="topo-outside">GLGEWQARL</span><span class="topo-membrane">AVALSGLL</span></span>
-<span class="topo-line"><span class="topo-membrane">GIGVSMMA</span><span class="topo-inside">ARRWFGARAA</span><span class="topo-membrane">AFTGLALLAAPMWSVAAH</span><span class="topo-outside">FNTL</span><span class="topo-membrane">DMTLAGVMSCVLAFML</span><span class="topo-inside">MGQH</span></span>
-<span class="topo-line"><span class="topo-inside">PDASVAARRG</span><span class="topo-membrane">WMVACWAAMGVAILTK</span><span class="topo-outside">G</span><span class="topo-membrane">LVGIALPGLVLVVY</span><span class="topo-inside">TLVTRD</span><span class="topo-unknown">WGLWRRL</span><span class="topo-membrane">HLALGV</span></span>
-<span class="topo-line"><span class="topo-membrane">VVMLVITVP</span><span class="topo-outside">WFYLVSVRNPE</span><span class="topo-unknown">FPNFFFI</span><span class="topo-outside">HEHWQRYTSN</span><span class="topo-unknown">IHS</span><span class="topo-outside">RSGS</span><span class="topo-membrane">VFYFLPLVIGGFLPWA</span></span>
-<span class="topo-line"><span class="topo-membrane">GIFPKLW</span><span class="topo-inside">TAMRAP</span><span class="topo-unknown">VEGTQA</span><span class="topo-inside">RFRPALM</span><span class="topo-membrane">AGIWAIAIFVFFSIS</span><span class="topo-outside">RSKLP</span><span class="topo-membrane">GYIVPVIPALGILA</span></span>
-<span class="topo-line"><span class="topo-membrane">G</span><span class="topo-inside">VALDRLSPRSW</span><span class="topo-membrane">GKQLIGMAIVAACGLLA</span><span class="topo-outside">SPVVATLNANHIPNSFYRAYAVWVAV</span><span class="topo-membrane">AFVVM</span></span>
-<span class="topo-line"><span class="topo-membrane">LLGIAVARLL</span><span class="topo-inside">LRRGVLP</span><span class="topo-membrane">SVAVYAMGMYLGFTV</span><span class="topo-outside">ALLGHETVGRPASGADIAPQIAQKLTPE</span></span>
-<span class="topo-line"><span class="topo-outside">MPLYGVQMLDHTLPFYLRHPLMMVGQADELTFGATVEPQRVVPDVDSFTKLWKNGQPAMA</span></span>
-<span class="topo-line"><span class="topo-outside">VMSPDTYLALAPTLSMYVVARDWRRVVVANVASLAGPQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">SYVMPQPTSQQRASVASSQSTQGAVGWS</span><span class="topo-inside">AATG</span><span class="topo-membrane">WVVLFVAVALVVWFVS</span><span class="topo-outside">LDMRHLVGPDEGRYAEISREMFASGDWVTIRYNALKYFEKPP</span><span class="topo-unknown">FHMWVTVVGYELF</span><span class="topo-outside">GLGEWQARL</span><span class="topo-membrane">AVALSGLL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GIGVSMMA</span><span class="topo-inside">ARRWFGARAA</span><span class="topo-membrane">AFTGLALLAAPMWSVAAH</span><span class="topo-outside">FNTL</span><span class="topo-membrane">DMTLAGVMSCVLAFML</span><span class="topo-inside">MGQHPDASVAARRG</span><span class="topo-membrane">WMVACWAAMGVAILTK</span><span class="topo-outside">G</span><span class="topo-membrane">LVGIALPGLVLVVY</span><span class="topo-inside">TLVTRD</span><span class="topo-unknown">WGLWRRL</span><span class="topo-membrane">HLALGV</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">VVMLVITVP</span><span class="topo-outside">WFYLVSVRNPE</span><span class="topo-unknown">FPNFFFI</span><span class="topo-outside">HEHWQRYTSN</span><span class="topo-unknown">IHS</span><span class="topo-outside">RSGS</span><span class="topo-membrane">VFYFLPLVIGGFLPWAGIFPKLW</span><span class="topo-inside">TAMRAP</span><span class="topo-unknown">VEGTQA</span><span class="topo-inside">RFRPALM</span><span class="topo-membrane">AGIWAIAIFVFFSIS</span><span class="topo-outside">RSKLP</span><span class="topo-membrane">GYIVPVIPALGILA</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">G</span><span class="topo-inside">VALDRLSPRSW</span><span class="topo-membrane">GKQLIGMAIVAACGLLA</span><span class="topo-outside">SPVVATLNANHIPNSFYRAYAVWVAV</span><span class="topo-membrane">AFVVMLLGIAVARLL</span><span class="topo-inside">LRRGVLP</span><span class="topo-membrane">SVAVYAMGMYLGFTV</span><span class="topo-outside">ALLGHETVGRPASGADIAPQIAQKLTPE</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570        </span>
+<span class="topo-line"><span class="topo-outside">MPLYGVQMLDHTLPFYLRHPLMMVGQADELTFGATVEPQRVVPDVDSFTKLWKNGQPAMAVMSPDTYLALAPTLSMYVVARDWRRVVVANVASLAGPQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (34 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -394,6 +395,7 @@ ArnT (PmrK) is an integral membrane lipid-to-lipid glycosyltransferase that
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

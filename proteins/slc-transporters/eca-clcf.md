@@ -199,14 +199,15 @@ model of antiport.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAAAIEIKKQ</span><span class="topo-outside">ETTY</span><span class="topo-membrane">FELTALGLLSLVIGVLAGAVDTFFGKILLFLSAFRE</span><span class="topo-inside">SH</span><span class="topo-membrane">FLPLILFL</span></span>
-<span class="topo-line"><span class="topo-membrane">PIIGICFTYLFQ</span><span class="topo-outside">KYGDRSPQG</span><span class="topo-unknown">MNLVFLVG</span><span class="topo-outside">QEEEKDI</span><span class="topo-membrane">PLRLIPFVMVGTWLTHLF</span><span class="topo-inside">G</span><span class="topo-membrane">GSAGR</span></span>
-<span class="topo-line"><span class="topo-membrane">EGVAVQLGATIANRLG</span><span class="topo-outside">NWVRLEKYAS</span><span class="topo-membrane">TLIMIGMAAGFAGLFE</span><span class="topo-inside">T</span><span class="topo-membrane">PIAATFFALEVLVIG</span><span class="topo-outside">K</span><span class="topo-membrane">F</span></span>
-<span class="topo-line"><span class="topo-membrane">SHHALLPALLAAFTASTTSQWL</span><span class="topo-inside">GLEKFSLMLPQSVDLTI</span><span class="topo-membrane">PVFLKLLVIGLIFGMVGGSFA</span></span>
-<span class="topo-line"><span class="topo-membrane">GCLETMK</span><span class="topo-outside">RIMKRRFPNP</span><span class="topo-membrane">LWRIGIGALALVLLFVLLYQG</span><span class="topo-inside">RYSGLGTNLISASFTNQPIYS</span><span class="topo-membrane">Y</span></span>
-<span class="topo-line"><span class="topo-membrane">DWLLKLVLTVLTISS</span><span class="topo-outside">G</span><span class="topo-membrane">FLGGEVTPLFAIGSSLG</span><span class="topo-unknown">VVLAPLF</span><span class="topo-inside">GLPIELV</span><span class="topo-membrane">AALGYASVFGSAT</span></span>
-<span class="topo-line"><span class="topo-membrane">S</span><span class="topo-outside">T</span><span class="topo-membrane">LFAPIFIGGEV</span><span class="topo-inside">FGFQNL</span><span class="topo-membrane">PFFVIVCSVAYFISKPY</span><span class="topo-outside">SIYPLQKTS</span><span class="topo-unknown">AMGQTRGSGGHHHHH</span></span>
-<span class="topo-line"><span class="topo-unknown">H</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAAAIEIKKQ</span><span class="topo-outside">ETTY</span><span class="topo-membrane">FELTALGLLSLVIGVLAGAVDTFFGKILLFLSAFRE</span><span class="topo-inside">SH</span><span class="topo-membrane">FLPLILFLPIIGICFTYLFQ</span><span class="topo-outside">KYGDRSPQG</span><span class="topo-unknown">MNLVFLVG</span><span class="topo-outside">QEEEKDI</span><span class="topo-membrane">PLRLIPFVMVGTWLTHLF</span><span class="topo-inside">G</span><span class="topo-membrane">GSAGR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">EGVAVQLGATIANRLG</span><span class="topo-outside">NWVRLEKYAS</span><span class="topo-membrane">TLIMIGMAAGFAGLFE</span><span class="topo-inside">T</span><span class="topo-membrane">PIAATFFALEVLVIG</span><span class="topo-outside">K</span><span class="topo-membrane">FSHHALLPALLAAFTASTTSQWL</span><span class="topo-inside">GLEKFSLMLPQSVDLTI</span><span class="topo-membrane">PVFLKLLVIGLIFGMVGGSFA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">GCLETMK</span><span class="topo-outside">RIMKRRFPNP</span><span class="topo-membrane">LWRIGIGALALVLLFVLLYQG</span><span class="topo-inside">RYSGLGTNLISASFTNQPIYS</span><span class="topo-membrane">YDWLLKLVLTVLTISS</span><span class="topo-outside">G</span><span class="topo-membrane">FLGGEVTPLFAIGSSLG</span><span class="topo-unknown">VVLAPLF</span><span class="topo-inside">GLPIELV</span><span class="topo-membrane">AALGYASVFGSAT</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420 </span>
+<span class="topo-line"><span class="topo-membrane">S</span><span class="topo-outside">T</span><span class="topo-membrane">LFAPIFIGGEV</span><span class="topo-inside">FGFQNL</span><span class="topo-membrane">PFFVIVCSVAYFISKPY</span><span class="topo-outside">SIYPLQKTS</span><span class="topo-unknown">AMGQTRGSGGHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (32 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -442,6 +443,7 @@ model of antiport.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -457,14 +459,15 @@ model of antiport.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAAAIEIKKQ</span><span class="topo-outside">ETTY</span><span class="topo-membrane">FELTALGLLSLVIGVLAGAVDTFFGKILLFLSAFRE</span><span class="topo-inside">SH</span><span class="topo-membrane">FLPLILFL</span></span>
-<span class="topo-line"><span class="topo-membrane">PIIGICFTYLFQ</span><span class="topo-outside">KYGDRSPQG</span><span class="topo-unknown">MNLVFLVG</span><span class="topo-outside">QEEEKDI</span><span class="topo-membrane">PLRLIPFVMVGTWLTHLF</span><span class="topo-inside">G</span><span class="topo-membrane">GSAGR</span></span>
-<span class="topo-line"><span class="topo-membrane">EGVAVQLGATIANRLG</span><span class="topo-outside">NWVRLEKYAS</span><span class="topo-membrane">TLIMIGMAAGFAGLFE</span><span class="topo-inside">T</span><span class="topo-membrane">PIAATFFALEVLVIG</span><span class="topo-outside">K</span><span class="topo-membrane">F</span></span>
-<span class="topo-line"><span class="topo-membrane">SHHALLPALLAAFTASTTSQWL</span><span class="topo-inside">GLEKFSLMLPQSVDLTI</span><span class="topo-membrane">PVFLKLLVIGLIFGMVGGSFA</span></span>
-<span class="topo-line"><span class="topo-membrane">GCLETMK</span><span class="topo-outside">RIMKRRFPNP</span><span class="topo-membrane">LWRIGIGALALVLLFVLLYQG</span><span class="topo-inside">RYSGLGTNLISASFTNQPIYS</span><span class="topo-membrane">Y</span></span>
-<span class="topo-line"><span class="topo-membrane">DWLLKLVLTVLTISS</span><span class="topo-outside">G</span><span class="topo-membrane">FLGGEVTPLFAIGSSLG</span><span class="topo-unknown">VVLAPLF</span><span class="topo-inside">GLPIELV</span><span class="topo-membrane">AALGYASVFGSAT</span></span>
-<span class="topo-line"><span class="topo-membrane">S</span><span class="topo-outside">T</span><span class="topo-membrane">LFAPIFIGGEV</span><span class="topo-inside">FGFQNL</span><span class="topo-membrane">PFFVIVCSVAYFISKPY</span><span class="topo-outside">SIYPLQKTSA</span><span class="topo-unknown">MGQTRGSGGHHHHH</span></span>
-<span class="topo-line"><span class="topo-unknown">H</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAAAIEIKKQ</span><span class="topo-outside">ETTY</span><span class="topo-membrane">FELTALGLLSLVIGVLAGAVDTFFGKILLFLSAFRE</span><span class="topo-inside">SH</span><span class="topo-membrane">FLPLILFLPIIGICFTYLFQ</span><span class="topo-outside">KYGDRSPQG</span><span class="topo-unknown">MNLVFLVG</span><span class="topo-outside">QEEEKDI</span><span class="topo-membrane">PLRLIPFVMVGTWLTHLF</span><span class="topo-inside">G</span><span class="topo-membrane">GSAGR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">EGVAVQLGATIANRLG</span><span class="topo-outside">NWVRLEKYAS</span><span class="topo-membrane">TLIMIGMAAGFAGLFE</span><span class="topo-inside">T</span><span class="topo-membrane">PIAATFFALEVLVIG</span><span class="topo-outside">K</span><span class="topo-membrane">FSHHALLPALLAAFTASTTSQWL</span><span class="topo-inside">GLEKFSLMLPQSVDLTI</span><span class="topo-membrane">PVFLKLLVIGLIFGMVGGSFA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">GCLETMK</span><span class="topo-outside">RIMKRRFPNP</span><span class="topo-membrane">LWRIGIGALALVLLFVLLYQG</span><span class="topo-inside">RYSGLGTNLISASFTNQPIYS</span><span class="topo-membrane">YDWLLKLVLTVLTISS</span><span class="topo-outside">G</span><span class="topo-membrane">FLGGEVTPLFAIGSSLG</span><span class="topo-unknown">VVLAPLF</span><span class="topo-inside">GLPIELV</span><span class="topo-membrane">AALGYASVFGSAT</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420 </span>
+<span class="topo-line"><span class="topo-membrane">S</span><span class="topo-outside">T</span><span class="topo-membrane">LFAPIFIGGEV</span><span class="topo-inside">FGFQNL</span><span class="topo-membrane">PFFVIVCSVAYFISKPY</span><span class="topo-outside">SIYPLQKTSA</span><span class="topo-unknown">MGQTRGSGGHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (32 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -700,6 +703,7 @@ model of antiport.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -715,8 +719,9 @@ model of antiport.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GSVS</span><span class="topo-inside">SVPTKLEV</span><span class="topo-unknown">V</span><span class="topo-inside">AATPTSLLISWDASSS</span><span class="topo-unknown">SV</span><span class="topo-inside">SYYRITYGETGGNSPVQEFTVPGSSSTAT</span></span>
-<span class="topo-line"><span class="topo-inside">ISGLSPGVDYTITVYAHGWLQWYMSPISINYQT</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90   </span>
+<span class="topo-line"><span class="topo-unknown">GSVS</span><span class="topo-inside">SVPTKLEV</span><span class="topo-unknown">V</span><span class="topo-inside">AATPTSLLISWDASSS</span><span class="topo-unknown">SV</span><span class="topo-inside">SYYRITYGETGGNSPVQEFTVPGSSSTATISGLSPGVDYTITVYAHGWLQWYMSPISINYQT</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -749,6 +754,7 @@ model of antiport.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -764,8 +770,9 @@ model of antiport.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GSV</span><span class="topo-inside">SSVPTKLEVVAATPTSLLISWDASSSSVSYYRITYGETGGNSPVQEFTVPGSSSTAT</span></span>
-<span class="topo-line"><span class="topo-inside">ISGLSPGVDYTITVYAHGWLQWYMSPISINYQT</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90   </span>
+<span class="topo-line"><span class="topo-unknown">GSV</span><span class="topo-inside">SSVPTKLEVVAATPTSLLISWDASSSSVSYYRITYGETGGNSPVQEFTVPGSSSTATISGLSPGVDYTITVYAHGWLQWYMSPISINYQT</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -784,6 +791,7 @@ model of antiport.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -799,14 +807,15 @@ model of antiport.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAAAIEIKKQ</span><span class="topo-outside">ETT</span><span class="topo-membrane">YFELTALGLLSLVIGVLAGAVDTFFGKILLFLSAFRE</span><span class="topo-inside">SH</span><span class="topo-membrane">FLPLILFL</span></span>
-<span class="topo-line"><span class="topo-membrane">PIIGICFTYLFQKYG</span><span class="topo-outside">DRSPQG</span><span class="topo-unknown">MNLVFLVG</span><span class="topo-outside">QEEEKDI</span><span class="topo-membrane">PLRLIPFVMVGTWLTHLF</span><span class="topo-inside">G</span><span class="topo-membrane">GSAGR</span></span>
-<span class="topo-line"><span class="topo-membrane">QGVAVQLGATIANRLGNWV</span><span class="topo-outside">RLEKY</span><span class="topo-membrane">ASTLIMIGMAAGFAGLFE</span><span class="topo-inside">T</span><span class="topo-membrane">PIAATFFALEVLVIG</span><span class="topo-outside">K</span><span class="topo-membrane">F</span></span>
-<span class="topo-line"><span class="topo-membrane">SHHALLPALLAAFTASTTSQWL</span><span class="topo-inside">GLEKFSLMLPQSVDLTI</span><span class="topo-membrane">PVFLKLLVIGLIFGMVGGSFA</span></span>
-<span class="topo-line"><span class="topo-membrane">GCLETMKRIMK</span><span class="topo-outside">RRFPNP</span><span class="topo-membrane">LWRIGIGALALVLLFVLLYQG</span><span class="topo-inside">RYSGLGTNLISASFTNQPIYS</span><span class="topo-membrane">Y</span></span>
-<span class="topo-line"><span class="topo-membrane">DWLLKLVLTVLTISS</span><span class="topo-outside">G</span><span class="topo-membrane">FLGGEVTPLFAIGSSLG</span><span class="topo-unknown">VVLAPLF</span><span class="topo-inside">GLPIELV</span><span class="topo-membrane">AALGYASVFGSAT</span></span>
-<span class="topo-line"><span class="topo-membrane">S</span><span class="topo-outside">T</span><span class="topo-membrane">LFAPIFIGGEV</span><span class="topo-inside">FGFQNL</span><span class="topo-membrane">PFFVIVCSVAYFISKPY</span><span class="topo-outside">SIYPLQKTS</span><span class="topo-unknown">AMGQTRGSGGHHHHH</span></span>
-<span class="topo-line"><span class="topo-unknown">H</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAAAIEIKKQ</span><span class="topo-outside">ETT</span><span class="topo-membrane">YFELTALGLLSLVIGVLAGAVDTFFGKILLFLSAFRE</span><span class="topo-inside">SH</span><span class="topo-membrane">FLPLILFLPIIGICFTYLFQKYG</span><span class="topo-outside">DRSPQG</span><span class="topo-unknown">MNLVFLVG</span><span class="topo-outside">QEEEKDI</span><span class="topo-membrane">PLRLIPFVMVGTWLTHLF</span><span class="topo-inside">G</span><span class="topo-membrane">GSAGR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">QGVAVQLGATIANRLGNWV</span><span class="topo-outside">RLEKY</span><span class="topo-membrane">ASTLIMIGMAAGFAGLFE</span><span class="topo-inside">T</span><span class="topo-membrane">PIAATFFALEVLVIG</span><span class="topo-outside">K</span><span class="topo-membrane">FSHHALLPALLAAFTASTTSQWL</span><span class="topo-inside">GLEKFSLMLPQSVDLTI</span><span class="topo-membrane">PVFLKLLVIGLIFGMVGGSFA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">GCLETMKRIMK</span><span class="topo-outside">RRFPNP</span><span class="topo-membrane">LWRIGIGALALVLLFVLLYQG</span><span class="topo-inside">RYSGLGTNLISASFTNQPIYS</span><span class="topo-membrane">YDWLLKLVLTVLTISS</span><span class="topo-outside">G</span><span class="topo-membrane">FLGGEVTPLFAIGSSLG</span><span class="topo-unknown">VVLAPLF</span><span class="topo-inside">GLPIELV</span><span class="topo-membrane">AALGYASVFGSAT</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420 </span>
+<span class="topo-line"><span class="topo-membrane">S</span><span class="topo-outside">T</span><span class="topo-membrane">LFAPIFIGGEV</span><span class="topo-inside">FGFQNL</span><span class="topo-membrane">PFFVIVCSVAYFISKPY</span><span class="topo-outside">SIYPLQKTS</span><span class="topo-unknown">AMGQTRGSGGHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (32 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1042,6 +1051,7 @@ model of antiport.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1057,14 +1067,15 @@ model of antiport.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAAAIEIKKQ</span><span class="topo-outside">ETT</span><span class="topo-membrane">YFELTALGLLSLVIGVLAGAVDTFFGKILLFLSAFRE</span><span class="topo-inside">SH</span><span class="topo-membrane">FLPLILFL</span></span>
-<span class="topo-line"><span class="topo-membrane">PIIGICFTYLFQKYG</span><span class="topo-outside">DRSPQG</span><span class="topo-unknown">MNLVFLVG</span><span class="topo-outside">QEEEKDI</span><span class="topo-membrane">PLRLIPFVMVGTWLTHLF</span><span class="topo-inside">G</span><span class="topo-membrane">GSAGR</span></span>
-<span class="topo-line"><span class="topo-membrane">QGVAVQLGATIANRLGNWV</span><span class="topo-outside">RLEKY</span><span class="topo-membrane">ASTLIMIGMAAGFAGLFE</span><span class="topo-inside">T</span><span class="topo-membrane">PIAATFFALEVLVIG</span><span class="topo-outside">K</span><span class="topo-membrane">F</span></span>
-<span class="topo-line"><span class="topo-membrane">SHHALLPALLAAFTASTTSQWL</span><span class="topo-inside">GLEKFSLMLPQSVDLTI</span><span class="topo-membrane">PVFLKLLVIGLIFGMVGGSFA</span></span>
-<span class="topo-line"><span class="topo-membrane">GCLETMKRIMK</span><span class="topo-outside">RRFPNP</span><span class="topo-membrane">LWRIGIGALALVLLFVLLYQG</span><span class="topo-inside">RYSGLGTNLISASFTNQPIYS</span><span class="topo-membrane">Y</span></span>
-<span class="topo-line"><span class="topo-membrane">DWLLKLVLTVLTISS</span><span class="topo-outside">G</span><span class="topo-membrane">FLGGEVTPLFAIGSSLG</span><span class="topo-unknown">VVLAPLF</span><span class="topo-inside">GLPIELV</span><span class="topo-membrane">AALGYASVFGSAT</span></span>
-<span class="topo-line"><span class="topo-membrane">S</span><span class="topo-outside">T</span><span class="topo-membrane">LFAPIFIGGEV</span><span class="topo-inside">FGFQNL</span><span class="topo-membrane">PFFVIVCSVAYFISKPY</span><span class="topo-outside">SIYPLQKTSA</span><span class="topo-unknown">MGQTRGSGGHHHHH</span></span>
-<span class="topo-line"><span class="topo-unknown">H</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAAAIEIKKQ</span><span class="topo-outside">ETT</span><span class="topo-membrane">YFELTALGLLSLVIGVLAGAVDTFFGKILLFLSAFRE</span><span class="topo-inside">SH</span><span class="topo-membrane">FLPLILFLPIIGICFTYLFQKYG</span><span class="topo-outside">DRSPQG</span><span class="topo-unknown">MNLVFLVG</span><span class="topo-outside">QEEEKDI</span><span class="topo-membrane">PLRLIPFVMVGTWLTHLF</span><span class="topo-inside">G</span><span class="topo-membrane">GSAGR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">QGVAVQLGATIANRLGNWV</span><span class="topo-outside">RLEKY</span><span class="topo-membrane">ASTLIMIGMAAGFAGLFE</span><span class="topo-inside">T</span><span class="topo-membrane">PIAATFFALEVLVIG</span><span class="topo-outside">K</span><span class="topo-membrane">FSHHALLPALLAAFTASTTSQWL</span><span class="topo-inside">GLEKFSLMLPQSVDLTI</span><span class="topo-membrane">PVFLKLLVIGLIFGMVGGSFA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">GCLETMKRIMK</span><span class="topo-outside">RRFPNP</span><span class="topo-membrane">LWRIGIGALALVLLFVLLYQG</span><span class="topo-inside">RYSGLGTNLISASFTNQPIYS</span><span class="topo-membrane">YDWLLKLVLTVLTISS</span><span class="topo-outside">G</span><span class="topo-membrane">FLGGEVTPLFAIGSSLG</span><span class="topo-unknown">VVLAPLF</span><span class="topo-inside">GLPIELV</span><span class="topo-membrane">AALGYASVFGSAT</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420 </span>
+<span class="topo-line"><span class="topo-membrane">S</span><span class="topo-outside">T</span><span class="topo-membrane">LFAPIFIGGEV</span><span class="topo-inside">FGFQNL</span><span class="topo-membrane">PFFVIVCSVAYFISKPY</span><span class="topo-outside">SIYPLQKTSA</span><span class="topo-unknown">MGQTRGSGGHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (32 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1300,6 +1311,7 @@ model of antiport.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1315,8 +1327,9 @@ model of antiport.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GSVS</span><span class="topo-inside">SVPTKLEV</span><span class="topo-unknown">V</span><span class="topo-inside">AATPTSLLISWDASSS</span><span class="topo-unknown">SV</span><span class="topo-inside">SYYRITYGETGGNSPVQEFTVPGSSSTAT</span></span>
-<span class="topo-line"><span class="topo-inside">ISGLSPGVDYTITVYAHGWLQWYMSPISINYQT</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90   </span>
+<span class="topo-line"><span class="topo-unknown">GSVS</span><span class="topo-inside">SVPTKLEV</span><span class="topo-unknown">V</span><span class="topo-inside">AATPTSLLISWDASSS</span><span class="topo-unknown">SV</span><span class="topo-inside">SYYRITYGETGGNSPVQEFTVPGSSSTATISGLSPGVDYTITVYAHGWLQWYMSPISINYQT</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1349,6 +1362,7 @@ model of antiport.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1364,8 +1378,9 @@ model of antiport.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GSV</span><span class="topo-inside">SSVPTKLEVVAATPTSLLISWDASSSSVSYYRITYGETGGNSPVQEFTVPGSSSTAT</span></span>
-<span class="topo-line"><span class="topo-inside">ISGLSPGVDYTITVYAHGWLQWYMSPISINYQT</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90   </span>
+<span class="topo-line"><span class="topo-unknown">GSV</span><span class="topo-inside">SSVPTKLEVVAATPTSLLISWDASSSSVSYYRITYGETGGNSPVQEFTVPGSSSTATISGLSPGVDYTITVYAHGWLQWYMSPISINYQT</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1384,6 +1399,7 @@ model of antiport.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1399,14 +1415,15 @@ model of antiport.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAAAIEIKKQ</span><span class="topo-outside">ETTYFEL</span><span class="topo-membrane">TALGLLSLVIGVLAGAVDTFFGKILLFLS</span><span class="topo-inside">AFRESHF</span><span class="topo-membrane">LPLILFL</span></span>
-<span class="topo-line"><span class="topo-membrane">PIIGICFT</span><span class="topo-outside">YLFQKYGDRSPQGMNLVFLVGQEEEKDIPL</span><span class="topo-membrane">RLIPFVMVGTWLTHLF</span><span class="topo-inside">G</span><span class="topo-membrane">GSAGR</span></span>
-<span class="topo-line"><span class="topo-membrane">EGVAVQLGATIA</span><span class="topo-outside">NRLGNWVRLEKYASTL</span><span class="topo-membrane">IMIGMAAGFAGLFE</span><span class="topo-inside">T</span><span class="topo-membrane">PIAATFFALEV</span><span class="topo-outside">LVIGKF</span></span>
-<span class="topo-line"><span class="topo-membrane">SHHALLPALLAAFTASTTS</span><span class="topo-inside">QWLGLEKFSLMLPQSVDLTIPVF</span><span class="topo-membrane">LKLLVIGLIFGMVGGSFA</span></span>
-<span class="topo-line"><span class="topo-membrane">GCL</span><span class="topo-outside">ETMKRIMKRRFPNPLWRI</span><span class="topo-membrane">GIGALALVLLFVLL</span><span class="topo-inside">YQGRYSGLGTNLISASFTNQPIYS</span><span class="topo-membrane">Y</span></span>
-<span class="topo-line"><span class="topo-membrane">DWLLKLVLTVLTISS</span><span class="topo-outside">G</span><span class="topo-membrane">FLGGEGTPLFAIGSSLG</span><span class="topo-inside">VVLAPLFGLPIELVAA</span><span class="topo-unknown">LGYASVFGSAT</span></span>
-<span class="topo-line"><span class="topo-unknown">STLFAPIFIGGE</span><span class="topo-inside">VFGFQNL</span><span class="topo-membrane">PFFVIVCSVAYFISK</span><span class="topo-outside">PYSIYPLQKTS</span><span class="topo-unknown">AMGQTRGSGGHHHHH</span></span>
-<span class="topo-line"><span class="topo-unknown">H</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAAAIEIKKQ</span><span class="topo-outside">ETTYFEL</span><span class="topo-membrane">TALGLLSLVIGVLAGAVDTFFGKILLFLS</span><span class="topo-inside">AFRESHF</span><span class="topo-membrane">LPLILFLPIIGICFT</span><span class="topo-outside">YLFQKYGDRSPQGMNLVFLVGQEEEKDIPL</span><span class="topo-membrane">RLIPFVMVGTWLTHLF</span><span class="topo-inside">G</span><span class="topo-membrane">GSAGR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">EGVAVQLGATIA</span><span class="topo-outside">NRLGNWVRLEKYASTL</span><span class="topo-membrane">IMIGMAAGFAGLFE</span><span class="topo-inside">T</span><span class="topo-membrane">PIAATFFALEV</span><span class="topo-outside">LVIGKF</span><span class="topo-membrane">SHHALLPALLAAFTASTTS</span><span class="topo-inside">QWLGLEKFSLMLPQSVDLTIPVF</span><span class="topo-membrane">LKLLVIGLIFGMVGGSFA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">GCL</span><span class="topo-outside">ETMKRIMKRRFPNPLWRI</span><span class="topo-membrane">GIGALALVLLFVLL</span><span class="topo-inside">YQGRYSGLGTNLISASFTNQPIYS</span><span class="topo-membrane">YDWLLKLVLTVLTISS</span><span class="topo-outside">G</span><span class="topo-membrane">FLGGEGTPLFAIGSSLG</span><span class="topo-inside">VVLAPLFGLPIELVAA</span><span class="topo-unknown">LGYASVFGSAT</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420 </span>
+<span class="topo-line"><span class="topo-unknown">STLFAPIFIGGE</span><span class="topo-inside">VFGFQNL</span><span class="topo-membrane">PFFVIVCSVAYFISK</span><span class="topo-outside">PYSIYPLQKTS</span><span class="topo-unknown">AMGQTRGSGGHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (29 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1621,6 +1638,7 @@ model of antiport.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1636,14 +1654,15 @@ model of antiport.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAAAIEIKKQ</span><span class="topo-outside">ETTYFEL</span><span class="topo-membrane">TALGLLSLVIGVLAGAVDTFFGKILLFLS</span><span class="topo-inside">AFRESHF</span><span class="topo-membrane">LPLILFL</span></span>
-<span class="topo-line"><span class="topo-membrane">PIIGICFT</span><span class="topo-outside">YLFQKYGDRSPQGMNLVFLVGQEEEKDIPLR</span><span class="topo-membrane">LIPFVMVGTWLTHLF</span><span class="topo-inside">G</span><span class="topo-membrane">GSAGR</span></span>
-<span class="topo-line"><span class="topo-membrane">EGVAVQLGATIA</span><span class="topo-outside">NRLGNWVRLEKYASTL</span><span class="topo-membrane">IMIGMAAGFAGLFE</span><span class="topo-inside">T</span><span class="topo-membrane">PIAATFFALEV</span><span class="topo-outside">LVIGKF</span></span>
-<span class="topo-line"><span class="topo-membrane">SHHALLPALLAAFTASTTS</span><span class="topo-inside">QWLGLEKFSLMLPQSVDLTIPVF</span><span class="topo-membrane">LKLLVIGLIFGMVGGSFA</span></span>
-<span class="topo-line"><span class="topo-membrane">GCL</span><span class="topo-outside">ETMKRIMKRRFPNPLWRI</span><span class="topo-membrane">GIGALALVLLFVLL</span><span class="topo-inside">YQGRYSGLGTNLISASFTNQPIYS</span><span class="topo-membrane">Y</span></span>
-<span class="topo-line"><span class="topo-membrane">DWLLKLVLTVLTISS</span><span class="topo-outside">G</span><span class="topo-membrane">FLGGEGTPLFAIGSSLG</span><span class="topo-inside">VVLAPLFGLPIELVAA</span><span class="topo-unknown">LGYASVFGSAT</span></span>
-<span class="topo-line"><span class="topo-unknown">STLFAPIFIGGE</span><span class="topo-inside">VFGFQNL</span><span class="topo-membrane">PFFVIVCSVAYFISK</span><span class="topo-outside">PYSIYPLQKTSA</span><span class="topo-unknown">MGQTRGSGGHHHHH</span></span>
-<span class="topo-line"><span class="topo-unknown">H</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAAAIEIKKQ</span><span class="topo-outside">ETTYFEL</span><span class="topo-membrane">TALGLLSLVIGVLAGAVDTFFGKILLFLS</span><span class="topo-inside">AFRESHF</span><span class="topo-membrane">LPLILFLPIIGICFT</span><span class="topo-outside">YLFQKYGDRSPQGMNLVFLVGQEEEKDIPLR</span><span class="topo-membrane">LIPFVMVGTWLTHLF</span><span class="topo-inside">G</span><span class="topo-membrane">GSAGR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">EGVAVQLGATIA</span><span class="topo-outside">NRLGNWVRLEKYASTL</span><span class="topo-membrane">IMIGMAAGFAGLFE</span><span class="topo-inside">T</span><span class="topo-membrane">PIAATFFALEV</span><span class="topo-outside">LVIGKF</span><span class="topo-membrane">SHHALLPALLAAFTASTTS</span><span class="topo-inside">QWLGLEKFSLMLPQSVDLTIPVF</span><span class="topo-membrane">LKLLVIGLIFGMVGGSFA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">GCL</span><span class="topo-outside">ETMKRIMKRRFPNPLWRI</span><span class="topo-membrane">GIGALALVLLFVLL</span><span class="topo-inside">YQGRYSGLGTNLISASFTNQPIYS</span><span class="topo-membrane">YDWLLKLVLTVLTISS</span><span class="topo-outside">G</span><span class="topo-membrane">FLGGEGTPLFAIGSSLG</span><span class="topo-inside">VVLAPLFGLPIELVAA</span><span class="topo-unknown">LGYASVFGSAT</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420 </span>
+<span class="topo-line"><span class="topo-unknown">STLFAPIFIGGE</span><span class="topo-inside">VFGFQNL</span><span class="topo-membrane">PFFVIVCSVAYFISK</span><span class="topo-outside">PYSIYPLQKTSA</span><span class="topo-unknown">MGQTRGSGGHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (29 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1858,6 +1877,7 @@ model of antiport.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1873,8 +1893,9 @@ model of antiport.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GSVS</span><span class="topo-inside">SVPTKLEV</span><span class="topo-unknown">V</span><span class="topo-inside">AATPTSLLISWDASSSSVSYYRITYGETGGNSPVQEFTVPGSSSTAT</span></span>
-<span class="topo-line"><span class="topo-inside">ISGLSPGVDYTITVYAHGWLQWYMSPISINYRT</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90   </span>
+<span class="topo-line"><span class="topo-unknown">GSVS</span><span class="topo-inside">SVPTKLEV</span><span class="topo-unknown">V</span><span class="topo-inside">AATPTSLLISWDASSSSVSYYRITYGETGGNSPVQEFTVPGSSSTATISGLSPGVDYTITVYAHGWLQWYMSPISINYRT</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1914,6 +1935,7 @@ model of antiport.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1929,8 +1951,9 @@ model of antiport.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GSV</span><span class="topo-inside">SSVPTKLEVVAATPTSLLISWDASSSSVSYYRITYGETGGNSPVQEFTVPGSSSTAT</span></span>
-<span class="topo-line"><span class="topo-inside">ISGLSPGVDYTITVYAHGWLQWYMSPISINYRT</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90   </span>
+<span class="topo-line"><span class="topo-unknown">GSV</span><span class="topo-inside">SSVPTKLEVVAATPTSLLISWDASSSSVSYYRITYGETGGNSPVQEFTVPGSSSTATISGLSPGVDYTITVYAHGWLQWYMSPISINYRT</span></span>
+<details class="topo-details"><summary>Topology coordinates (2 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1956,6 +1979,7 @@ model of antiport.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

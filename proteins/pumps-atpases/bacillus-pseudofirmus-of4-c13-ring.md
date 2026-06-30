@@ -138,8 +138,9 @@ The [ATP](/xray-mp-wiki/reagents/ligands/atp/) synthase c-ring from the extreme 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MAFL</span><span class="topo-membrane">GAAIAAGLAAVAGA</span><span class="topo-outside">IAVAIIVKATIEGTTRQPELRGTLQTLMFIGVPLAE</span><span class="topo-membrane">AVPIIA</span></span>
-<span class="topo-line"><span class="topo-membrane">IVISLLI</span><span class="topo-inside">LF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60         </span>
+<span class="topo-line"><span class="topo-inside">MAFL</span><span class="topo-membrane">GAAIAAGLAAVAGA</span><span class="topo-outside">IAVAIIVKATIEGTTRQPELRGTLQTLMFIGVPLAE</span><span class="topo-membrane">AVPIIAIVISLLI</span><span class="topo-inside">LF</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -186,6 +187,7 @@ The [ATP](/xray-mp-wiki/reagents/ligands/atp/) synthase c-ring from the extreme 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -201,8 +203,9 @@ The [ATP](/xray-mp-wiki/reagents/ligands/atp/) synthase c-ring from the extreme 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MAFL</span><span class="topo-membrane">GAAIAAGLAAVAGA</span><span class="topo-outside">IAVAIIVKATIEGTTRQPELRGTLQTLMFIGVPLAE</span><span class="topo-membrane">AVPIIA</span></span>
-<span class="topo-line"><span class="topo-membrane">IVISLLI</span><span class="topo-inside">LF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60         </span>
+<span class="topo-line"><span class="topo-inside">MAFL</span><span class="topo-membrane">GAAIAAGLAAVAGA</span><span class="topo-outside">IAVAIIVKATIEGTTRQPELRGTLQTLMFIGVPLAE</span><span class="topo-membrane">AVPIIAIVISLLI</span><span class="topo-inside">LF</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -249,6 +252,7 @@ The [ATP](/xray-mp-wiki/reagents/ligands/atp/) synthase c-ring from the extreme 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -264,8 +268,9 @@ The [ATP](/xray-mp-wiki/reagents/ligands/atp/) synthase c-ring from the extreme 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MAFL</span><span class="topo-membrane">GAAIAAGLAAVAGA</span><span class="topo-outside">IAVAIIVKATIEGTTRQPELRGTLQTLMFIGVPLAE</span><span class="topo-membrane">AVPIIA</span></span>
-<span class="topo-line"><span class="topo-membrane">IVISLLI</span><span class="topo-inside">LF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60         </span>
+<span class="topo-line"><span class="topo-inside">MAFL</span><span class="topo-membrane">GAAIAAGLAAVAGA</span><span class="topo-outside">IAVAIIVKATIEGTTRQPELRGTLQTLMFIGVPLAE</span><span class="topo-membrane">AVPIIAIVISLLI</span><span class="topo-inside">LF</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -312,6 +317,7 @@ The [ATP](/xray-mp-wiki/reagents/ligands/atp/) synthase c-ring from the extreme 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -327,8 +333,9 @@ The [ATP](/xray-mp-wiki/reagents/ligands/atp/) synthase c-ring from the extreme 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MAFL</span><span class="topo-membrane">GAAIAAGLAAVAGA</span><span class="topo-outside">IAVAIIVKATIEGTTRQPELRGTLQTLMFIGVPLAE</span><span class="topo-membrane">AVPIIA</span></span>
-<span class="topo-line"><span class="topo-membrane">IVISLLI</span><span class="topo-inside">LF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60         </span>
+<span class="topo-line"><span class="topo-inside">MAFL</span><span class="topo-membrane">GAAIAAGLAAVAGA</span><span class="topo-outside">IAVAIIVKATIEGTTRQPELRGTLQTLMFIGVPLAE</span><span class="topo-membrane">AVPIIAIVISLLI</span><span class="topo-inside">LF</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -375,6 +382,7 @@ The [ATP](/xray-mp-wiki/reagents/ligands/atp/) synthase c-ring from the extreme 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -390,8 +398,9 @@ The [ATP](/xray-mp-wiki/reagents/ligands/atp/) synthase c-ring from the extreme 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MAFL</span><span class="topo-membrane">GAAIAAGLAAVAGA</span><span class="topo-outside">IAVAIIVKATIEGTTRQPELRGTLQTLMFIGVPLAE</span><span class="topo-membrane">AVPIIA</span></span>
-<span class="topo-line"><span class="topo-membrane">IVISLLI</span><span class="topo-inside">LF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60         </span>
+<span class="topo-line"><span class="topo-inside">MAFL</span><span class="topo-membrane">GAAIAAGLAAVAGA</span><span class="topo-outside">IAVAIIVKATIEGTTRQPELRGTLQTLMFIGVPLAE</span><span class="topo-membrane">AVPIIAIVISLLI</span><span class="topo-inside">LF</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -438,6 +447,7 @@ The [ATP](/xray-mp-wiki/reagents/ligands/atp/) synthase c-ring from the extreme 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -453,8 +463,9 @@ The [ATP](/xray-mp-wiki/reagents/ligands/atp/) synthase c-ring from the extreme 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MAFL</span><span class="topo-membrane">GAAIAAGLAAVAGA</span><span class="topo-outside">IAVAIIVKATIEGTTRQPELRGTLQTLMFIGVPLAE</span><span class="topo-membrane">AVPIIA</span></span>
-<span class="topo-line"><span class="topo-membrane">IVISLLI</span><span class="topo-inside">LF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60         </span>
+<span class="topo-line"><span class="topo-inside">MAFL</span><span class="topo-membrane">GAAIAAGLAAVAGA</span><span class="topo-outside">IAVAIIVKATIEGTTRQPELRGTLQTLMFIGVPLAE</span><span class="topo-membrane">AVPIIAIVISLLI</span><span class="topo-inside">LF</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -501,6 +512,7 @@ The [ATP](/xray-mp-wiki/reagents/ligands/atp/) synthase c-ring from the extreme 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -516,8 +528,9 @@ The [ATP](/xray-mp-wiki/reagents/ligands/atp/) synthase c-ring from the extreme 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MAFL</span><span class="topo-membrane">GAAIAAGLAAVAGA</span><span class="topo-outside">IAVAIIVKATIEGTTRQPELRGTLQTLMFIGVPLAE</span><span class="topo-membrane">AVPIIA</span></span>
-<span class="topo-line"><span class="topo-membrane">IVISLLI</span><span class="topo-inside">LF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60         </span>
+<span class="topo-line"><span class="topo-inside">MAFL</span><span class="topo-membrane">GAAIAAGLAAVAGA</span><span class="topo-outside">IAVAIIVKATIEGTTRQPELRGTLQTLMFIGVPLAE</span><span class="topo-membrane">AVPIIAIVISLLI</span><span class="topo-inside">LF</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -564,6 +577,7 @@ The [ATP](/xray-mp-wiki/reagents/ligands/atp/) synthase c-ring from the extreme 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -579,8 +593,9 @@ The [ATP](/xray-mp-wiki/reagents/ligands/atp/) synthase c-ring from the extreme 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MAFL</span><span class="topo-membrane">GAAIAAGLAAVAGA</span><span class="topo-outside">IAVAIIVKATIEGTTRQPELRGTLQTLMFIGVPLAE</span><span class="topo-membrane">AVPIIA</span></span>
-<span class="topo-line"><span class="topo-membrane">IVISLLIL</span><span class="topo-inside">F</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60         </span>
+<span class="topo-line"><span class="topo-inside">MAFL</span><span class="topo-membrane">GAAIAAGLAAVAGA</span><span class="topo-outside">IAVAIIVKATIEGTTRQPELRGTLQTLMFIGVPLAE</span><span class="topo-membrane">AVPIIAIVISLLIL</span><span class="topo-inside">F</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -627,6 +642,7 @@ The [ATP](/xray-mp-wiki/reagents/ligands/atp/) synthase c-ring from the extreme 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -642,8 +658,9 @@ The [ATP](/xray-mp-wiki/reagents/ligands/atp/) synthase c-ring from the extreme 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MAFL</span><span class="topo-membrane">GAAIAAGLAAVAG</span><span class="topo-outside">AIAVAIIVKATIEGTTRQPELRGTLQTLMFIGVPLAE</span><span class="topo-membrane">AVPIIA</span></span>
-<span class="topo-line"><span class="topo-membrane">IVISLLIL</span><span class="topo-inside">F</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60         </span>
+<span class="topo-line"><span class="topo-inside">MAFL</span><span class="topo-membrane">GAAIAAGLAAVAG</span><span class="topo-outside">AIAVAIIVKATIEGTTRQPELRGTLQTLMFIGVPLAE</span><span class="topo-membrane">AVPIIAIVISLLIL</span><span class="topo-inside">F</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -690,6 +707,7 @@ The [ATP](/xray-mp-wiki/reagents/ligands/atp/) synthase c-ring from the extreme 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -705,8 +723,9 @@ The [ATP](/xray-mp-wiki/reagents/ligands/atp/) synthase c-ring from the extreme 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MAFL</span><span class="topo-membrane">GAAIAAGLAAVAG</span><span class="topo-outside">AIAVAIIVKATIEGTTRQPELRGTLQTLMFIGVPLAE</span><span class="topo-membrane">AVPIIA</span></span>
-<span class="topo-line"><span class="topo-membrane">IVISLLIL</span><span class="topo-inside">F</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60         </span>
+<span class="topo-line"><span class="topo-inside">MAFL</span><span class="topo-membrane">GAAIAAGLAAVAG</span><span class="topo-outside">AIAVAIIVKATIEGTTRQPELRGTLQTLMFIGVPLAE</span><span class="topo-membrane">AVPIIAIVISLLIL</span><span class="topo-inside">F</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -753,6 +772,7 @@ The [ATP](/xray-mp-wiki/reagents/ligands/atp/) synthase c-ring from the extreme 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -768,8 +788,9 @@ The [ATP](/xray-mp-wiki/reagents/ligands/atp/) synthase c-ring from the extreme 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MAFL</span><span class="topo-membrane">GAAIAAGLAAVAG</span><span class="topo-outside">AIAVAIIVKATIEGTTRQPELRGTLQTLMFIGVPLAE</span><span class="topo-membrane">AVPIIA</span></span>
-<span class="topo-line"><span class="topo-membrane">IVISLLIL</span><span class="topo-inside">F</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60         </span>
+<span class="topo-line"><span class="topo-inside">MAFL</span><span class="topo-membrane">GAAIAAGLAAVAG</span><span class="topo-outside">AIAVAIIVKATIEGTTRQPELRGTLQTLMFIGVPLAE</span><span class="topo-membrane">AVPIIAIVISLLIL</span><span class="topo-inside">F</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -816,6 +837,7 @@ The [ATP](/xray-mp-wiki/reagents/ligands/atp/) synthase c-ring from the extreme 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -831,8 +853,9 @@ The [ATP](/xray-mp-wiki/reagents/ligands/atp/) synthase c-ring from the extreme 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MAFL</span><span class="topo-membrane">GAAIAAGLAAVAGA</span><span class="topo-outside">IAVAIIVKATIEGTTRQPELRGTLQTLMFIGVPLAE</span><span class="topo-membrane">AVPIIA</span></span>
-<span class="topo-line"><span class="topo-membrane">IVISLLI</span><span class="topo-inside">LF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60         </span>
+<span class="topo-line"><span class="topo-inside">MAFL</span><span class="topo-membrane">GAAIAAGLAAVAGA</span><span class="topo-outside">IAVAIIVKATIEGTTRQPELRGTLQTLMFIGVPLAE</span><span class="topo-membrane">AVPIIAIVISLLI</span><span class="topo-inside">LF</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -879,6 +902,7 @@ The [ATP](/xray-mp-wiki/reagents/ligands/atp/) synthase c-ring from the extreme 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -894,8 +918,9 @@ The [ATP](/xray-mp-wiki/reagents/ligands/atp/) synthase c-ring from the extreme 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MAFL</span><span class="topo-membrane">GAAIAAGLAAVAGA</span><span class="topo-outside">IAVAIIVKATIEGTTRQPELRGTLQTLMFIGVPLAE</span><span class="topo-membrane">AVPIIA</span></span>
-<span class="topo-line"><span class="topo-membrane">IVISLLI</span><span class="topo-inside">LF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60         </span>
+<span class="topo-line"><span class="topo-inside">MAFL</span><span class="topo-membrane">GAAIAAGLAAVAGA</span><span class="topo-outside">IAVAIIVKATIEGTTRQPELRGTLQTLMFIGVPLAE</span><span class="topo-membrane">AVPIIAIVISLLI</span><span class="topo-inside">LF</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -942,6 +967,7 @@ The [ATP](/xray-mp-wiki/reagents/ligands/atp/) synthase c-ring from the extreme 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

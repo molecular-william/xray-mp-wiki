@@ -267,11 +267,13 @@ concentrations.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGRGKRRAKTRNIAIAS</span><span class="topo-outside">TKE</span><span class="topo-membrane">VQWQGIFMIIVWLCVMGSLIF</span><span class="topo-inside">FAN</span><span class="topo-unknown">PEASRRVFAK</span><span class="topo-inside">FSHL</span><span class="topo-membrane">QS</span></span>
-<span class="topo-line"><span class="topo-membrane">FYGATSVAFAFATGLDILAY</span><span class="topo-outside">VNAVSDEKRVL</span><span class="topo-membrane">SGILAYVDGVACISYLSMATL</span><span class="topo-inside">NLYFLVDS</span></span>
-<span class="topo-line"><span class="topo-inside">TQGNPV</span><span class="topo-membrane">WLMRYAEWIITCPTLLYWCG</span><span class="topo-outside">LASRADR</span><span class="topo-membrane">SSVSDIATADALLLAGGALSS</span><span class="topo-inside">ILPSWP</span></span>
-<span class="topo-line"><span class="topo-membrane">AFFVFAGSFATYIYVMLHMWGMF</span><span class="topo-outside">GKAMQPDFQPPPPLPRHA</span><span class="topo-membrane">LHLLRCEIVMSWSIFPLVE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGRGKRRAKTRNIAIAS</span><span class="topo-outside">TKE</span><span class="topo-membrane">VQWQGIFMIIVWLCVMGSLIF</span><span class="topo-inside">FAN</span><span class="topo-unknown">PEASRRVFAK</span><span class="topo-inside">FSHL</span><span class="topo-membrane">QSFYGATSVAFAFATGLDILAY</span><span class="topo-outside">VNAVSDEKRVL</span><span class="topo-membrane">SGILAYVDGVACISYLSMATL</span><span class="topo-inside">NLYFLVDS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">TQGNPV</span><span class="topo-membrane">WLMRYAEWIITCPTLLYWCG</span><span class="topo-outside">LASRADR</span><span class="topo-membrane">SSVSDIATADALLLAGGALSS</span><span class="topo-inside">ILPSWP</span><span class="topo-membrane">AFFVFAGSFATYIYVMLHMWGMF</span><span class="topo-outside">GKAMQPDFQPPPPLPRHA</span><span class="topo-membrane">LHLLRCEIVMSWSIFPLVE</span></span>
+<span class="topo-ruler">       250       260       270       280       290 </span>
 <span class="topo-line"><span class="topo-membrane">FLR</span><span class="topo-inside">RQGYIDFQV</span><span class="topo-membrane">GEAMNCVADYAAKVGLAMIMVN</span><span class="topo-outside">CNLEQ</span><span class="topo-unknown">INALRVENLYFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -416,6 +418,7 @@ concentrations.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -431,11 +434,13 @@ concentrations.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGRGKRRAKTRNIAI</span><span class="topo-outside">ASTK</span><span class="topo-membrane">EVQWQGIFMIIVWLCVMGSLIF</span><span class="topo-inside">FAN</span><span class="topo-unknown">PEASRRVFAK</span><span class="topo-inside">FSHL</span><span class="topo-membrane">QS</span></span>
-<span class="topo-line"><span class="topo-membrane">FYGATSVAFAFATGLDILAY</span><span class="topo-outside">VNAVSDEKRV</span><span class="topo-membrane">LSGILAYVDGVACISYLSMATL</span><span class="topo-inside">NLYFLVDS</span></span>
-<span class="topo-line"><span class="topo-inside">TQGNPV</span><span class="topo-membrane">WLMRYAEWIITCPTLLYWCGL</span><span class="topo-outside">ASRADR</span><span class="topo-membrane">SSVSDIATADALLLAGGALSS</span><span class="topo-inside">ILPSWP</span></span>
-<span class="topo-line"><span class="topo-membrane">AFFVFAGSFATYIYVMLHMWGMFG</span><span class="topo-outside">KAMQPDFQPPPPLPRHA</span><span class="topo-membrane">LHLLRCEIVMSWSIFPLVE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGRGKRRAKTRNIAI</span><span class="topo-outside">ASTK</span><span class="topo-membrane">EVQWQGIFMIIVWLCVMGSLIF</span><span class="topo-inside">FAN</span><span class="topo-unknown">PEASRRVFAK</span><span class="topo-inside">FSHL</span><span class="topo-membrane">QSFYGATSVAFAFATGLDILAY</span><span class="topo-outside">VNAVSDEKRV</span><span class="topo-membrane">LSGILAYVDGVACISYLSMATL</span><span class="topo-inside">NLYFLVDS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">TQGNPV</span><span class="topo-membrane">WLMRYAEWIITCPTLLYWCGL</span><span class="topo-outside">ASRADR</span><span class="topo-membrane">SSVSDIATADALLLAGGALSS</span><span class="topo-inside">ILPSWP</span><span class="topo-membrane">AFFVFAGSFATYIYVMLHMWGMFG</span><span class="topo-outside">KAMQPDFQPPPPLPRHA</span><span class="topo-membrane">LHLLRCEIVMSWSIFPLVE</span></span>
+<span class="topo-ruler">       250       260       270       280       290 </span>
 <span class="topo-line"><span class="topo-membrane">FLR</span><span class="topo-inside">RQGYIDFQV</span><span class="topo-membrane">GEAMNCVADYAAKVGLAMIMVN</span><span class="topo-outside">CNLEQ</span><span class="topo-unknown">INALRVENLYFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -580,6 +585,7 @@ concentrations.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -595,11 +601,13 @@ concentrations.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGRGKRRAKTRNIAIAS</span><span class="topo-outside">TKE</span><span class="topo-membrane">VQWQGIFMIIVWLCVMGSLIF</span><span class="topo-inside">FAN</span><span class="topo-unknown">PEASRRVFAK</span><span class="topo-inside">FSHL</span><span class="topo-membrane">QS</span></span>
-<span class="topo-line"><span class="topo-membrane">FYGATSVAFAFATGLDILAY</span><span class="topo-outside">VNAVSDEKRVL</span><span class="topo-membrane">SGILAYVDGVACISYLSMATL</span><span class="topo-inside">NLYFLVDS</span></span>
-<span class="topo-line"><span class="topo-inside">TQGNPV</span><span class="topo-membrane">WLMRYAEWIITCPTLLYWCG</span><span class="topo-outside">LASRADR</span><span class="topo-membrane">SSVSDIATADALLLAGGALSS</span><span class="topo-inside">ILPSWP</span></span>
-<span class="topo-line"><span class="topo-membrane">AFFVFAGSFATYIYVMLHMWGMF</span><span class="topo-outside">GKAMQPDFQPPPPLPRHA</span><span class="topo-membrane">LHLLRCEIVMSWSIFPLVE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGRGKRRAKTRNIAIAS</span><span class="topo-outside">TKE</span><span class="topo-membrane">VQWQGIFMIIVWLCVMGSLIF</span><span class="topo-inside">FAN</span><span class="topo-unknown">PEASRRVFAK</span><span class="topo-inside">FSHL</span><span class="topo-membrane">QSFYGATSVAFAFATGLDILAY</span><span class="topo-outside">VNAVSDEKRVL</span><span class="topo-membrane">SGILAYVDGVACISYLSMATL</span><span class="topo-inside">NLYFLVDS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">TQGNPV</span><span class="topo-membrane">WLMRYAEWIITCPTLLYWCG</span><span class="topo-outside">LASRADR</span><span class="topo-membrane">SSVSDIATADALLLAGGALSS</span><span class="topo-inside">ILPSWP</span><span class="topo-membrane">AFFVFAGSFATYIYVMLHMWGMF</span><span class="topo-outside">GKAMQPDFQPPPPLPRHA</span><span class="topo-membrane">LHLLRCEIVMSWSIFPLVE</span></span>
+<span class="topo-ruler">       250       260       270       280       290 </span>
 <span class="topo-line"><span class="topo-membrane">FLR</span><span class="topo-inside">RQGYIDFQV</span><span class="topo-membrane">GEAMNCVADYAAKVGLAMIMVN</span><span class="topo-outside">CNLEQ</span><span class="topo-unknown">INALRVENLYFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -744,6 +752,7 @@ concentrations.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -759,11 +768,13 @@ concentrations.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGRGKRRAKTRNIAI</span><span class="topo-outside">ASTK</span><span class="topo-membrane">EVQWQGIFMIIVWLCVMGSLIF</span><span class="topo-inside">FAN</span><span class="topo-unknown">PEASRRVFAK</span><span class="topo-inside">FSHL</span><span class="topo-membrane">QS</span></span>
-<span class="topo-line"><span class="topo-membrane">FYGATSVAFAFATGLDILAY</span><span class="topo-outside">VNAVSDEKRV</span><span class="topo-membrane">LSGILAYVDGVACISYLSMATL</span><span class="topo-inside">NLYFLVDS</span></span>
-<span class="topo-line"><span class="topo-inside">TQGNPV</span><span class="topo-membrane">WLMRYAEWIITCPTLLYWCGL</span><span class="topo-outside">ASRADR</span><span class="topo-membrane">SSVSDIATADALLLAGGALSS</span><span class="topo-inside">ILPSWP</span></span>
-<span class="topo-line"><span class="topo-membrane">AFFVFAGSFATYIYVMLHMWGMFG</span><span class="topo-outside">KAMQPDFQPPPPLPRHA</span><span class="topo-membrane">LHLLRCEIVMSWSIFPLVE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGRGKRRAKTRNIAI</span><span class="topo-outside">ASTK</span><span class="topo-membrane">EVQWQGIFMIIVWLCVMGSLIF</span><span class="topo-inside">FAN</span><span class="topo-unknown">PEASRRVFAK</span><span class="topo-inside">FSHL</span><span class="topo-membrane">QSFYGATSVAFAFATGLDILAY</span><span class="topo-outside">VNAVSDEKRV</span><span class="topo-membrane">LSGILAYVDGVACISYLSMATL</span><span class="topo-inside">NLYFLVDS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">TQGNPV</span><span class="topo-membrane">WLMRYAEWIITCPTLLYWCGL</span><span class="topo-outside">ASRADR</span><span class="topo-membrane">SSVSDIATADALLLAGGALSS</span><span class="topo-inside">ILPSWP</span><span class="topo-membrane">AFFVFAGSFATYIYVMLHMWGMFG</span><span class="topo-outside">KAMQPDFQPPPPLPRHA</span><span class="topo-membrane">LHLLRCEIVMSWSIFPLVE</span></span>
+<span class="topo-ruler">       250       260       270       280       290 </span>
 <span class="topo-line"><span class="topo-membrane">FLR</span><span class="topo-inside">RQGYIDFQV</span><span class="topo-membrane">GEAMNCVADYAAKVGLAMIMVN</span><span class="topo-outside">CNLEQ</span><span class="topo-unknown">INALRVENLYFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -908,6 +919,7 @@ concentrations.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -923,11 +935,13 @@ concentrations.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGRGKRRAKTRNIAIAS</span><span class="topo-outside">TKE</span><span class="topo-membrane">VQWQGIFMIIVWLCVMGSLIF</span><span class="topo-inside">FAN</span><span class="topo-unknown">PEASRRVFAK</span><span class="topo-inside">FSHL</span><span class="topo-membrane">QS</span></span>
-<span class="topo-line"><span class="topo-membrane">FYGATSVAFAFATGLDILAY</span><span class="topo-outside">VNAVSDEKRVL</span><span class="topo-membrane">SGILAYVDGVACISYLSMATL</span><span class="topo-inside">NLYFLVDS</span></span>
-<span class="topo-line"><span class="topo-inside">TQGNPV</span><span class="topo-membrane">WLMRYAEWIITCPTLLYWCG</span><span class="topo-outside">LASRADR</span><span class="topo-membrane">SSVSDIATADALLLAGGALSS</span><span class="topo-inside">ILPSWP</span></span>
-<span class="topo-line"><span class="topo-membrane">AFFVFAGSFATYIYVMLHMWGMF</span><span class="topo-outside">GKAMQPDFQPPPPLPRHA</span><span class="topo-membrane">LHLLRCEIVMSWSIFPLVE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGRGKRRAKTRNIAIAS</span><span class="topo-outside">TKE</span><span class="topo-membrane">VQWQGIFMIIVWLCVMGSLIF</span><span class="topo-inside">FAN</span><span class="topo-unknown">PEASRRVFAK</span><span class="topo-inside">FSHL</span><span class="topo-membrane">QSFYGATSVAFAFATGLDILAY</span><span class="topo-outside">VNAVSDEKRVL</span><span class="topo-membrane">SGILAYVDGVACISYLSMATL</span><span class="topo-inside">NLYFLVDS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">TQGNPV</span><span class="topo-membrane">WLMRYAEWIITCPTLLYWCG</span><span class="topo-outside">LASRADR</span><span class="topo-membrane">SSVSDIATADALLLAGGALSS</span><span class="topo-inside">ILPSWP</span><span class="topo-membrane">AFFVFAGSFATYIYVMLHMWGMF</span><span class="topo-outside">GKAMQPDFQPPPPLPRHA</span><span class="topo-membrane">LHLLRCEIVMSWSIFPLVE</span></span>
+<span class="topo-ruler">       250       260       270       280       290 </span>
 <span class="topo-line"><span class="topo-membrane">FLR</span><span class="topo-inside">RQGYIDFQV</span><span class="topo-membrane">GEAMNCVADYAAKVGLAMIMVN</span><span class="topo-outside">CNLEQ</span><span class="topo-unknown">INALRVENLYFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1072,6 +1086,7 @@ concentrations.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1087,11 +1102,13 @@ concentrations.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGRGKRRAKTRNIAI</span><span class="topo-outside">ASTK</span><span class="topo-membrane">EVQWQGIFMIIVWLCVMGSLIF</span><span class="topo-inside">FAN</span><span class="topo-unknown">PEASRRVFAK</span><span class="topo-inside">FSHL</span><span class="topo-membrane">QS</span></span>
-<span class="topo-line"><span class="topo-membrane">FYGATSVAFAFATGLDILAY</span><span class="topo-outside">VNAVSDEKRV</span><span class="topo-membrane">LSGILAYVDGVACISYLSMATL</span><span class="topo-inside">NLYFLVDS</span></span>
-<span class="topo-line"><span class="topo-inside">TQGNPV</span><span class="topo-membrane">WLMRYAEWIITCPTLLYWCGL</span><span class="topo-outside">ASRADR</span><span class="topo-membrane">SSVSDIATADALLLAGGALSS</span><span class="topo-inside">ILPSWP</span></span>
-<span class="topo-line"><span class="topo-membrane">AFFVFAGSFATYIYVMLHMWGMFG</span><span class="topo-outside">KAMQPDFQPPPPLPRHA</span><span class="topo-membrane">LHLLRCEIVMSWSIFPLVE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGRGKRRAKTRNIAI</span><span class="topo-outside">ASTK</span><span class="topo-membrane">EVQWQGIFMIIVWLCVMGSLIF</span><span class="topo-inside">FAN</span><span class="topo-unknown">PEASRRVFAK</span><span class="topo-inside">FSHL</span><span class="topo-membrane">QSFYGATSVAFAFATGLDILAY</span><span class="topo-outside">VNAVSDEKRV</span><span class="topo-membrane">LSGILAYVDGVACISYLSMATL</span><span class="topo-inside">NLYFLVDS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">TQGNPV</span><span class="topo-membrane">WLMRYAEWIITCPTLLYWCGL</span><span class="topo-outside">ASRADR</span><span class="topo-membrane">SSVSDIATADALLLAGGALSS</span><span class="topo-inside">ILPSWP</span><span class="topo-membrane">AFFVFAGSFATYIYVMLHMWGMFG</span><span class="topo-outside">KAMQPDFQPPPPLPRHA</span><span class="topo-membrane">LHLLRCEIVMSWSIFPLVE</span></span>
+<span class="topo-ruler">       250       260       270       280       290 </span>
 <span class="topo-line"><span class="topo-membrane">FLR</span><span class="topo-inside">RQGYIDFQV</span><span class="topo-membrane">GEAMNCVADYAAKVGLAMIMVN</span><span class="topo-outside">CNLEQ</span><span class="topo-unknown">INALRVENLYFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1236,6 +1253,7 @@ concentrations.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

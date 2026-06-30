@@ -115,16 +115,17 @@ Human [Glycine](/xray-mp-wiki/reagents/buffers/glycine/) transporter 1 (GlyT1, e
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">ATKRDQNLK</span><span class="topo-outside">RGNWGNQIEFV</span><span class="topo-membrane">LTSVGYAVGLGNVWRFPYLC</span><span class="topo-inside">YRNGG</span><span class="topo-membrane">GAFMFPYFIMLIFCG</span></span>
-<span class="topo-line"><span class="topo-membrane">IPAFF</span><span class="topo-outside">MELSFGQFASQGCLGVWRISPMF</span><span class="topo-membrane">KGVGYGMMVVSTYIGIYYNVVICIAFY</span><span class="topo-inside">YFFSS</span></span>
-<span class="topo-line"><span class="topo-inside">MTHVLPWAYCNNPWNTHDCAGVLD</span><span class="topo-unknown">ASN</span><span class="topo-inside">LTHSLQRTSPSEEYWRLYVLKLSDDIGNFGEVR</span></span>
-<span class="topo-line"><span class="topo-inside">LPLL</span><span class="topo-membrane">GCLGVAWLVVFLCLIRG</span><span class="topo-unknown">VKSSGK</span><span class="topo-outside">V</span><span class="topo-membrane">VYFTATFPYVVLTILFV</span><span class="topo-inside">RGVTLEGAFDGIMYY</span></span>
-<span class="topo-line"><span class="topo-inside">LTPQWDKI</span><span class="topo-membrane">LEAKVWGDAASQAFYSLGCAWGGLI</span><span class="topo-outside">TMASYNKFHNNCYRDS</span><span class="topo-membrane">VIISITNCATS</span></span>
-<span class="topo-line"><span class="topo-membrane">VYAGFV</span><span class="topo-inside">IFSILGFMANHLGVDVSRVADHGPG</span><span class="topo-unknown">LAFVAYPEAL</span><span class="topo-inside">TLLPISPL</span><span class="topo-membrane">WSLLFFFMLIL</span></span>
-<span class="topo-line"><span class="topo-membrane">LGLGTQFCLLETLVTAI</span><span class="topo-outside">VDEVGNEWILQK</span><span class="topo-membrane">KTYVTLGVAVAGFLLGIPL</span><span class="topo-inside">TSQAGIYW</span><span class="topo-membrane">LLLM</span></span>
-<span class="topo-line"><span class="topo-membrane">DNYAASFSLVVISCIMCV</span><span class="topo-outside">AIMYIYGHRNYFQDIQMMLGFPPPLFFQI</span><span class="topo-membrane">CWRFVSPAIIFFI</span></span>
-<span class="topo-line"><span class="topo-membrane">LVFTVIQY</span><span class="topo-inside">QPITYNHYQYPGWAVA</span><span class="topo-membrane">IGFLMALSSVLCIPLYAMF</span><span class="topo-outside">RLARTDGDTLL</span><span class="topo-unknown">QRLKNA</span></span>
-<span class="topo-line"><span class="topo-unknown">T</span><span class="topo-outside">KPSRDWGPALLEHRTG</span><span class="topo-unknown">RYAPTIAPSPEDGFEVQPLH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">ATKRDQNLK</span><span class="topo-outside">RGNWGNQIEFV</span><span class="topo-membrane">LTSVGYAVGLGNVWRFPYLC</span><span class="topo-inside">YRNGG</span><span class="topo-membrane">GAFMFPYFIMLIFCGIPAFF</span><span class="topo-outside">MELSFGQFASQGCLGVWRISPMF</span><span class="topo-membrane">KGVGYGMMVVSTYIGIYYNVVICIAFY</span><span class="topo-inside">YFFSS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">MTHVLPWAYCNNPWNTHDCAGVLD</span><span class="topo-unknown">ASN</span><span class="topo-inside">LTHSLQRTSPSEEYWRLYVLKLSDDIGNFGEVRLPLL</span><span class="topo-membrane">GCLGVAWLVVFLCLIRG</span><span class="topo-unknown">VKSSGK</span><span class="topo-outside">V</span><span class="topo-membrane">VYFTATFPYVVLTILFV</span><span class="topo-inside">RGVTLEGAFDGIMYY</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">LTPQWDKI</span><span class="topo-membrane">LEAKVWGDAASQAFYSLGCAWGGLI</span><span class="topo-outside">TMASYNKFHNNCYRDS</span><span class="topo-membrane">VIISITNCATSVYAGFV</span><span class="topo-inside">IFSILGFMANHLGVDVSRVADHGPG</span><span class="topo-unknown">LAFVAYPEAL</span><span class="topo-inside">TLLPISPL</span><span class="topo-membrane">WSLLFFFMLIL</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">LGLGTQFCLLETLVTAI</span><span class="topo-outside">VDEVGNEWILQK</span><span class="topo-membrane">KTYVTLGVAVAGFLLGIPL</span><span class="topo-inside">TSQAGIYW</span><span class="topo-membrane">LLLMDNYAASFSLVVISCIMCV</span><span class="topo-outside">AIMYIYGHRNYFQDIQMMLGFPPPLFFQI</span><span class="topo-membrane">CWRFVSPAIIFFI</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       </span>
+<span class="topo-line"><span class="topo-membrane">LVFTVIQY</span><span class="topo-inside">QPITYNHYQYPGWAVA</span><span class="topo-membrane">IGFLMALSSVLCIPLYAMF</span><span class="topo-outside">RLARTDGDTLL</span><span class="topo-unknown">QRLKNAT</span><span class="topo-outside">KPSRDWGPALLEHRTG</span><span class="topo-unknown">RYAPTIAPSPEDGFEVQPLH</span></span>
+<details class="topo-details"><summary>Topology coordinates (30 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -346,6 +347,7 @@ Human [Glycine](/xray-mp-wiki/reagents/buffers/glycine/) transporter 1 (GlyT1, e
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -361,16 +363,17 @@ Human [Glycine](/xray-mp-wiki/reagents/buffers/glycine/) transporter 1 (GlyT1, e
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">TKRDQNLKRGNWGNQ</span><span class="topo-inside">I</span><span class="topo-membrane">EFVLTSVGYAVGLGNVWRFP</span><span class="topo-outside">YLCYRNGGGAF</span><span class="topo-membrane">MFPYFIMLIFCGI</span></span>
-<span class="topo-line"><span class="topo-membrane">PAFFMEL</span><span class="topo-inside">SFGQFASQGCL</span><span class="topo-unknown">GVWRIS</span><span class="topo-inside">PMFKG</span><span class="topo-membrane">VGYGMMVVSTYIGIYYNVVICIAFY</span><span class="topo-outside">YFFSSM</span></span>
-<span class="topo-line"><span class="topo-outside">THVLPWAYCNNPWNTHDCAGVLD</span><span class="topo-unknown">ASNLT</span><span class="topo-outside">HSLQRTSPSEEYWRLYVLKLSDDIGNFGEVRL</span></span>
-<span class="topo-line"><span class="topo-membrane">PLLGCLGVAWLVVFLCLIRG</span><span class="topo-unknown">VKSSGK</span><span class="topo-inside">V</span><span class="topo-membrane">VYFTATFPYVVLTI</span><span class="topo-outside">LFVRGVTLEGAFDGIMYYL</span></span>
-<span class="topo-line"><span class="topo-outside">TPQWDKILEA</span><span class="topo-membrane">KVWGDAASQAFYSLGCAWGGLI</span><span class="topo-inside">TMASYNKFHNNCY</span><span class="topo-membrane">RDSVIISITNCATSV</span></span>
-<span class="topo-line"><span class="topo-membrane">YAG</span><span class="topo-outside">FVIFSILGFMANHLGVDVSRVADHGPGLAFVA</span><span class="topo-unknown">YPEALT</span><span class="topo-outside">LLPISPLWSL</span><span class="topo-membrane">LFFFMLILL</span></span>
-<span class="topo-line"><span class="topo-membrane">GLGTQFCLLETLV</span><span class="topo-inside">TAIVDEVGNEWILQKKTY</span><span class="topo-membrane">VTLGVAVAGFLLGIPLTS</span><span class="topo-outside">QAGIYW</span><span class="topo-membrane">LLLMD</span></span>
-<span class="topo-line"><span class="topo-membrane">NYAASFSLVVISCIMCV</span><span class="topo-inside">AIMYIYG</span><span class="topo-unknown">HRNYFQDIQMML</span><span class="topo-inside">GFPPP</span><span class="topo-membrane">LFFQICWRFVSPAIIFFIL</span></span>
-<span class="topo-line"><span class="topo-membrane">VFTVIQY</span><span class="topo-outside">QPITYNHYQYPGW</span><span class="topo-membrane">AVAIGFLMALSSVLCIPLY</span><span class="topo-inside">AMFRLARTDGDTLLQRLKNAT</span></span>
-<span class="topo-line"><span class="topo-inside">KPSRDWGPALLEHRTG</span><span class="topo-unknown">RYAPTIAPSPEDGFEVQPLH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">TKRDQNLKRGNWGNQ</span><span class="topo-inside">I</span><span class="topo-membrane">EFVLTSVGYAVGLGNVWRFP</span><span class="topo-outside">YLCYRNGGGAF</span><span class="topo-membrane">MFPYFIMLIFCGIPAFFMEL</span><span class="topo-inside">SFGQFASQGCL</span><span class="topo-unknown">GVWRIS</span><span class="topo-inside">PMFKG</span><span class="topo-membrane">VGYGMMVVSTYIGIYYNVVICIAFY</span><span class="topo-outside">YFFSSM</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">THVLPWAYCNNPWNTHDCAGVLD</span><span class="topo-unknown">ASNLT</span><span class="topo-outside">HSLQRTSPSEEYWRLYVLKLSDDIGNFGEVRL</span><span class="topo-membrane">PLLGCLGVAWLVVFLCLIRG</span><span class="topo-unknown">VKSSGK</span><span class="topo-inside">V</span><span class="topo-membrane">VYFTATFPYVVLTI</span><span class="topo-outside">LFVRGVTLEGAFDGIMYYL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">TPQWDKILEA</span><span class="topo-membrane">KVWGDAASQAFYSLGCAWGGLI</span><span class="topo-inside">TMASYNKFHNNCY</span><span class="topo-membrane">RDSVIISITNCATSVYAG</span><span class="topo-outside">FVIFSILGFMANHLGVDVSRVADHGPGLAFVA</span><span class="topo-unknown">YPEALT</span><span class="topo-outside">LLPISPLWSL</span><span class="topo-membrane">LFFFMLILL</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">GLGTQFCLLETLV</span><span class="topo-inside">TAIVDEVGNEWILQKKTY</span><span class="topo-membrane">VTLGVAVAGFLLGIPLTS</span><span class="topo-outside">QAGIYW</span><span class="topo-membrane">LLLMDNYAASFSLVVISCIMCV</span><span class="topo-inside">AIMYIYG</span><span class="topo-unknown">HRNYFQDIQMML</span><span class="topo-inside">GFPPP</span><span class="topo-membrane">LFFQICWRFVSPAIIFFIL</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570      </span>
+<span class="topo-line"><span class="topo-membrane">VFTVIQY</span><span class="topo-outside">QPITYNHYQYPGW</span><span class="topo-membrane">AVAIGFLMALSSVLCIPLY</span><span class="topo-inside">AMFRLARTDGDTLLQRLKNATKPSRDWGPALLEHRTG</span><span class="topo-unknown">RYAPTIAPSPEDGFEVQPLH</span></span>
+<details class="topo-details"><summary>Topology coordinates (32 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -606,6 +609,7 @@ Human [Glycine](/xray-mp-wiki/reagents/buffers/glycine/) transporter 1 (GlyT1, e
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -621,16 +625,17 @@ Human [Glycine](/xray-mp-wiki/reagents/buffers/glycine/) transporter 1 (GlyT1, e
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">TKRDQNLKRGNWG</span><span class="topo-inside">NQI</span><span class="topo-membrane">EFVLTSVGYAVGLGNVWRFPYLC</span><span class="topo-outside">YRNGGGA</span><span class="topo-membrane">FMFPYFIMLIFCGI</span></span>
-<span class="topo-line"><span class="topo-membrane">PAFF</span><span class="topo-inside">MELSFGQFASQGCLGVWRISPMFKG</span><span class="topo-membrane">VGYGMMVVSTYIGIYYNVVICIAFY</span><span class="topo-outside">YFFSSM</span></span>
-<span class="topo-line"><span class="topo-outside">THVLPWAYCNNPWNTHDCAGVLD</span><span class="topo-unknown">ASNLT</span><span class="topo-outside">HSLQRTSPSEEYWRLYVLKLSDDIGNFGEVRL</span></span>
-<span class="topo-line"><span class="topo-outside">PL</span><span class="topo-membrane">LGCLGVAWLVVFLCLIRG</span><span class="topo-unknown">VKSSGK</span><span class="topo-inside">V</span><span class="topo-membrane">VYFTATFPYVVLTI</span><span class="topo-outside">LFVRGVTLEGAFDGIMYYL</span></span>
-<span class="topo-line"><span class="topo-outside">TPQWDKI</span><span class="topo-membrane">LEAKVWGDAASQAFYSLGCAWGGL</span><span class="topo-inside">ITMASYNKFHNNCYRD</span><span class="topo-membrane">SVIISITNCATSV</span></span>
-<span class="topo-line"><span class="topo-membrane">YAGF</span><span class="topo-outside">VIFSILGFMANHLGVDVSRVADHGPG</span><span class="topo-unknown">LAFVAYPEALT</span><span class="topo-outside">LLPISPLWSL</span><span class="topo-membrane">LFFFMLILL</span></span>
-<span class="topo-line"><span class="topo-membrane">GLGTQFCLLETLV</span><span class="topo-inside">TAIVDEVGNEWILQKKT</span><span class="topo-membrane">YVTLGVAVAGFLLGIPLT</span><span class="topo-outside">SQAGIYW</span><span class="topo-membrane">LLLMD</span></span>
-<span class="topo-line"><span class="topo-membrane">NYAASFSLVVISCIMCV</span><span class="topo-inside">AIMYIYGHRNYFQDIQMMLGFPPPLFFQI</span><span class="topo-membrane">CWRFVSPAIIFFIL</span></span>
-<span class="topo-line"><span class="topo-membrane">VFTVIQY</span><span class="topo-outside">QPITYNHYQYPGW</span><span class="topo-membrane">AVAIGFLMALSSVLCIPL</span><span class="topo-inside">YAMFRLARTDGDTLLQRLKNAT</span></span>
-<span class="topo-line"><span class="topo-inside">KP</span><span class="topo-unknown">SRDWGPALLEHRTGRYAPTIAPSPEDGFEVQPLH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">TKRDQNLKRGNWG</span><span class="topo-inside">NQI</span><span class="topo-membrane">EFVLTSVGYAVGLGNVWRFPYLC</span><span class="topo-outside">YRNGGGA</span><span class="topo-membrane">FMFPYFIMLIFCGIPAFF</span><span class="topo-inside">MELSFGQFASQGCLGVWRISPMFKG</span><span class="topo-membrane">VGYGMMVVSTYIGIYYNVVICIAFY</span><span class="topo-outside">YFFSSM</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">THVLPWAYCNNPWNTHDCAGVLD</span><span class="topo-unknown">ASNLT</span><span class="topo-outside">HSLQRTSPSEEYWRLYVLKLSDDIGNFGEVRLPL</span><span class="topo-membrane">LGCLGVAWLVVFLCLIRG</span><span class="topo-unknown">VKSSGK</span><span class="topo-inside">V</span><span class="topo-membrane">VYFTATFPYVVLTI</span><span class="topo-outside">LFVRGVTLEGAFDGIMYYL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">TPQWDKI</span><span class="topo-membrane">LEAKVWGDAASQAFYSLGCAWGGL</span><span class="topo-inside">ITMASYNKFHNNCYRD</span><span class="topo-membrane">SVIISITNCATSVYAGF</span><span class="topo-outside">VIFSILGFMANHLGVDVSRVADHGPG</span><span class="topo-unknown">LAFVAYPEALT</span><span class="topo-outside">LLPISPLWSL</span><span class="topo-membrane">LFFFMLILL</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">GLGTQFCLLETLV</span><span class="topo-inside">TAIVDEVGNEWILQKKT</span><span class="topo-membrane">YVTLGVAVAGFLLGIPLT</span><span class="topo-outside">SQAGIYW</span><span class="topo-membrane">LLLMDNYAASFSLVVISCIMCV</span><span class="topo-inside">AIMYIYGHRNYFQDIQMMLGFPPPLFFQI</span><span class="topo-membrane">CWRFVSPAIIFFIL</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570      </span>
+<span class="topo-line"><span class="topo-membrane">VFTVIQY</span><span class="topo-outside">QPITYNHYQYPGW</span><span class="topo-membrane">AVAIGFLMALSSVLCIPL</span><span class="topo-inside">YAMFRLARTDGDTLLQRLKNATKP</span><span class="topo-unknown">SRDWGPALLEHRTGRYAPTIAPSPEDGFEVQPLH</span></span>
+<details class="topo-details"><summary>Topology coordinates (28 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -838,6 +843,7 @@ Human [Glycine](/xray-mp-wiki/reagents/buffers/glycine/) transporter 1 (GlyT1, e
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -853,11 +859,13 @@ Human [Glycine](/xray-mp-wiki/reagents/buffers/glycine/) transporter 1 (GlyT1, e
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">LKIGAWVGTQPSESAIKSFQELQGRKLDIVHQFINWSTD</span><span class="topo-unknown">FSWVRPYADAVYNN</span><span class="topo-inside">GSILMIT</span></span>
-<span class="topo-line"><span class="topo-inside">WEPWEYNTVDIKNGKADAYITRMAQDMKAYGKEIWLRPLHAANGDWYPWAIGYSSRVNTN</span></span>
-<span class="topo-line"><span class="topo-inside">ETYIAAFRHIVDIFRANGATNVKWVFNVNCDNVGNGTSYLGHYPGDNYVDYTSIDGYNWG</span></span>
-<span class="topo-line"><span class="topo-inside">TTQSWGSQWQSFDQVFSRAYQALASINKPIIIAEFASAEIGGNKARWITEAYNSIRTSYN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">LKIGAWVGTQPSESAIKSFQELQGRKLDIVHQFINWSTD</span><span class="topo-unknown">FSWVRPYADAVYNN</span><span class="topo-inside">GSILMITWEPWEYNTVDIKNGKADAYITRMAQDMKAYGKEIWLRPLHAANGDWYPWAIGYSSRVNTN</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">ETYIAAFRHIVDIFRANGATNVKWVFNVNCDNVGNGTSYLGHYPGDNYVDYTSIDGYNWGTTQSWGSQWQSFDQVFSRAYQALASINKPIIIAEFASAEIGGNKARWITEAYNSIRTSYN</span></span>
+<span class="topo-ruler">       250       260       270   </span>
 <span class="topo-line"><span class="topo-inside">KVIAAVWFHENKETDWRINSSPEALAAYREAIG</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -890,6 +898,7 @@ Human [Glycine](/xray-mp-wiki/reagents/buffers/glycine/) transporter 1 (GlyT1, e
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

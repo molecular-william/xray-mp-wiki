@@ -140,13 +140,15 @@ The human P2X3 receptor (hP2X3) is a ligand-gated ion channel from Homo sapiens 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GSRADFFTYETPKVIVVKS</span><span class="topo-inside">WTIGIIN</span><span class="topo-membrane">RVVQLLIISYFVGWVFLHEK</span><span class="topo-outside">AYQVRDTAIESSVV</span></span>
-<span class="topo-line"><span class="topo-outside">TKVKGSGLYANRVMDVSDYVTPPQGTSVFVIITKMIVTENQMQGFCPESEEKYRCVSDSQ</span></span>
-<span class="topo-line"><span class="topo-outside">CGPERLPGGGILTGRCVNYSSVLRTCEIQGWCPTEVDTVETPIMMEAENFTIFIKNSIRF</span></span>
-<span class="topo-line"><span class="topo-outside">PLFNFEKGNLLPNLTARDMKTCRFHPDKDPFCPILRVGDVVKFAGQDFAKLARTGGVLGI</span></span>
-<span class="topo-line"><span class="topo-outside">KIGWVCDLDKAWDQCIPKYSFTRLDSV</span><span class="topo-unknown">SEKS</span><span class="topo-outside">SVSPGYNFRFAKYYKMENGSEYRTLLKAF</span></span>
-<span class="topo-line"><span class="topo-outside">GIRFDVLVYGNAGK</span><span class="topo-membrane">FNIIPTIISSVAAFTSVGVGTVLCDIIL</span><span class="topo-inside">LNF</span><span class="topo-unknown">LKGADQYKAKKFEEV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GSRADFFTYETPKVIVVKS</span><span class="topo-inside">WTIGIIN</span><span class="topo-membrane">RVVQLLIISYFVGWVFLHEK</span><span class="topo-outside">AYQVRDTAIESSVVTKVKGSGLYANRVMDVSDYVTPPQGTSVFVIITKMIVTENQMQGFCPESEEKYRCVSDSQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">CGPERLPGGGILTGRCVNYSSVLRTCEIQGWCPTEVDTVETPIMMEAENFTIFIKNSIRFPLFNFEKGNLLPNLTARDMKTCRFHPDKDPFCPILRVGDVVKFAGQDFAKLARTGGVLGI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">KIGWVCDLDKAWDQCIPKYSFTRLDSV</span><span class="topo-unknown">SEKS</span><span class="topo-outside">SVSPGYNFRFAKYYKMENGSEYRTLLKAFGIRFDVLVYGNAGK</span><span class="topo-membrane">FNIIPTIISSVAAFTSVGVGTVLCDIIL</span><span class="topo-inside">LNF</span><span class="topo-unknown">LKGADQYKAKKFEEV</span></span>
+<span class="topo-ruler">   </span>
 <span class="topo-line"><span class="topo-unknown">NET</span></span>
+<details class="topo-details"><summary>Topology coordinates (6 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -200,6 +202,7 @@ The human P2X3 receptor (hP2X3) is a ligand-gated ion channel from Homo sapiens 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -215,13 +218,15 @@ The human P2X3 receptor (hP2X3) is a ligand-gated ion channel from Homo sapiens 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GSRADFFTYETPKVIVVKS</span><span class="topo-inside">WTIGIIN</span><span class="topo-membrane">RVVQLLIISYFVGWVFLHEK</span><span class="topo-outside">AYQVRDTAIESSVV</span></span>
-<span class="topo-line"><span class="topo-outside">TKVKGSGLYANRVMDVSDYVTPPQGTSVFVIITKMIVTENQMQGFCPESEEKYRCVSDSQ</span></span>
-<span class="topo-line"><span class="topo-outside">CGPERLPGGGILTGRCVNYSSVLRTCEIQGWCPTEVDTVETPIMMEAENFTIFIKNSIRF</span></span>
-<span class="topo-line"><span class="topo-outside">PLFNFEKGNLLPNLTARDMKTCRFHPDKDPFCPILRVGDVVKFAGQDFAKLARTGGVLGI</span></span>
-<span class="topo-line"><span class="topo-outside">KIGWVCDLDKAWDQCIPKYSFTRLDSV</span><span class="topo-unknown">SEKS</span><span class="topo-outside">SVSPGYNFRFAKYYKMENGSEYRTLLKAF</span></span>
-<span class="topo-line"><span class="topo-outside">GIRFDVLVYGNAGK</span><span class="topo-membrane">FNIIPTIISSVAAFTSVGVGTVLCDIIL</span><span class="topo-inside">LNF</span><span class="topo-unknown">LKGADQYKAKKFEEV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GSRADFFTYETPKVIVVKS</span><span class="topo-inside">WTIGIIN</span><span class="topo-membrane">RVVQLLIISYFVGWVFLHEK</span><span class="topo-outside">AYQVRDTAIESSVVTKVKGSGLYANRVMDVSDYVTPPQGTSVFVIITKMIVTENQMQGFCPESEEKYRCVSDSQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">CGPERLPGGGILTGRCVNYSSVLRTCEIQGWCPTEVDTVETPIMMEAENFTIFIKNSIRFPLFNFEKGNLLPNLTARDMKTCRFHPDKDPFCPILRVGDVVKFAGQDFAKLARTGGVLGI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">KIGWVCDLDKAWDQCIPKYSFTRLDSV</span><span class="topo-unknown">SEKS</span><span class="topo-outside">SVSPGYNFRFAKYYKMENGSEYRTLLKAFGIRFDVLVYGNAGK</span><span class="topo-membrane">FNIIPTIISSVAAFTSVGVGTVLCDIIL</span><span class="topo-inside">LNF</span><span class="topo-unknown">LKGADQYKAKKFEEV</span></span>
+<span class="topo-ruler">   </span>
 <span class="topo-line"><span class="topo-unknown">NET</span></span>
+<details class="topo-details"><summary>Topology coordinates (6 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -275,6 +280,7 @@ The human P2X3 receptor (hP2X3) is a ligand-gated ion channel from Homo sapiens 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -290,13 +296,15 @@ The human P2X3 receptor (hP2X3) is a ligand-gated ion channel from Homo sapiens 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GSRADFFTYETPKVIVVKS</span><span class="topo-inside">WTIGIIN</span><span class="topo-membrane">RVVQLLIISYFVGWVFLHEK</span><span class="topo-outside">AYQVRDTAIESSVV</span></span>
-<span class="topo-line"><span class="topo-outside">TKVKGSGLYANRVMDVSDYVTPPQGTSVFVIITKMIVTENQMQGFCPESEEKYRCVSDSQ</span></span>
-<span class="topo-line"><span class="topo-outside">CGPERLPGGGILTGRCVNYSSVLRTCEIQGWCPTEVDTVETPIMMEAENFTIFIKNSIRF</span></span>
-<span class="topo-line"><span class="topo-outside">PLFNFEKGNLLPNLTARDMKTCRFHPDKDPFCPILRVGDVVKFAGQDFAKLARTGGVLGI</span></span>
-<span class="topo-line"><span class="topo-outside">KIGWVCDLDKAWDQCIPKYSFTRLDSV</span><span class="topo-unknown">SEKS</span><span class="topo-outside">SVSPGYNFRFAKYYKMENGSEYRTLLKAF</span></span>
-<span class="topo-line"><span class="topo-outside">GIRFDVLVYGNAGK</span><span class="topo-membrane">FNIIPTIISSVAAFTSVGVGTVLCDIIL</span><span class="topo-inside">LNF</span><span class="topo-unknown">LKGADQYKAKKFEEV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GSRADFFTYETPKVIVVKS</span><span class="topo-inside">WTIGIIN</span><span class="topo-membrane">RVVQLLIISYFVGWVFLHEK</span><span class="topo-outside">AYQVRDTAIESSVVTKVKGSGLYANRVMDVSDYVTPPQGTSVFVIITKMIVTENQMQGFCPESEEKYRCVSDSQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">CGPERLPGGGILTGRCVNYSSVLRTCEIQGWCPTEVDTVETPIMMEAENFTIFIKNSIRFPLFNFEKGNLLPNLTARDMKTCRFHPDKDPFCPILRVGDVVKFAGQDFAKLARTGGVLGI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">KIGWVCDLDKAWDQCIPKYSFTRLDSV</span><span class="topo-unknown">SEKS</span><span class="topo-outside">SVSPGYNFRFAKYYKMENGSEYRTLLKAFGIRFDVLVYGNAGK</span><span class="topo-membrane">FNIIPTIISSVAAFTSVGVGTVLCDIIL</span><span class="topo-inside">LNF</span><span class="topo-unknown">LKGADQYKAKKFEEV</span></span>
+<span class="topo-ruler">   </span>
 <span class="topo-line"><span class="topo-unknown">NET</span></span>
+<details class="topo-details"><summary>Topology coordinates (6 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -350,6 +358,7 @@ The human P2X3 receptor (hP2X3) is a ligand-gated ion channel from Homo sapiens 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -365,13 +374,15 @@ The human P2X3 receptor (hP2X3) is a ligand-gated ion channel from Homo sapiens 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GSRADFFTYETPKVIVVKS</span><span class="topo-inside">WTIGIIN</span><span class="topo-membrane">RVVQLLIISYFVGWVFLHEK</span><span class="topo-outside">AYQVRDTAIESSVV</span></span>
-<span class="topo-line"><span class="topo-outside">TKVKGSGLYANRVMDVSDYVTPPQGTSVFVIITKMIVTENQMQGFCPESEEKYRCVSDSQ</span></span>
-<span class="topo-line"><span class="topo-outside">CGPERLPGGGILTGRCVNYSSVLRTCEIQGWCPTEVDTVETPIMMEAENFTIFIKNSIRF</span></span>
-<span class="topo-line"><span class="topo-outside">PLFNFEKGNLLPNLTARDMKTCRFHPDKDPFCPILRVGDVVKFAGQDFAKLARTGGVLGI</span></span>
-<span class="topo-line"><span class="topo-outside">KIGWVCDLDKAWDQCIPKYSFTRLDSV</span><span class="topo-unknown">SEKS</span><span class="topo-outside">SVSPGYNFRFAKYYKMENGSEYRTLLKAF</span></span>
-<span class="topo-line"><span class="topo-outside">GIRFDVLVYGNAGK</span><span class="topo-membrane">FNIIPTIISSVAAFTSVGVGTVLCDIIL</span><span class="topo-inside">LNF</span><span class="topo-unknown">LKGADQYKAKKFEEV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GSRADFFTYETPKVIVVKS</span><span class="topo-inside">WTIGIIN</span><span class="topo-membrane">RVVQLLIISYFVGWVFLHEK</span><span class="topo-outside">AYQVRDTAIESSVVTKVKGSGLYANRVMDVSDYVTPPQGTSVFVIITKMIVTENQMQGFCPESEEKYRCVSDSQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">CGPERLPGGGILTGRCVNYSSVLRTCEIQGWCPTEVDTVETPIMMEAENFTIFIKNSIRFPLFNFEKGNLLPNLTARDMKTCRFHPDKDPFCPILRVGDVVKFAGQDFAKLARTGGVLGI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">KIGWVCDLDKAWDQCIPKYSFTRLDSV</span><span class="topo-unknown">SEKS</span><span class="topo-outside">SVSPGYNFRFAKYYKMENGSEYRTLLKAFGIRFDVLVYGNAGK</span><span class="topo-membrane">FNIIPTIISSVAAFTSVGVGTVLCDIIL</span><span class="topo-inside">LNF</span><span class="topo-unknown">LKGADQYKAKKFEEV</span></span>
+<span class="topo-ruler">   </span>
 <span class="topo-line"><span class="topo-unknown">NET</span></span>
+<details class="topo-details"><summary>Topology coordinates (6 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -425,6 +436,7 @@ The human P2X3 receptor (hP2X3) is a ligand-gated ion channel from Homo sapiens 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -440,13 +452,15 @@ The human P2X3 receptor (hP2X3) is a ligand-gated ion channel from Homo sapiens 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GSRADFFTYETPKVIVVKS</span><span class="topo-inside">WTIGIIN</span><span class="topo-membrane">RVVQLLIISYFVGWVFLHEK</span><span class="topo-outside">AYQVRDTAIESSVV</span></span>
-<span class="topo-line"><span class="topo-outside">TKVKGSGLYANRVMDVSDYVTPPQGTSVFVIITKMIVTENQMQGFCPESEEKYRCVSDSQ</span></span>
-<span class="topo-line"><span class="topo-outside">CGPERLPGGGILTGRCVNYSSVLRTCEIQGWCPTEVDTVETPIMMEAENFTIFIKNSIRF</span></span>
-<span class="topo-line"><span class="topo-outside">PLFNFEKGNLLPNLTARDMKTCRFHPDKDPFCPILRVGDVVKFAGQDFAKLARTGGVLGI</span></span>
-<span class="topo-line"><span class="topo-outside">KIGWVCDLDKAWDQCIPKYSFTRLDSV</span><span class="topo-unknown">SEKS</span><span class="topo-outside">SVSPGYNFRFAKYYKMENGSEYRTLLKAF</span></span>
-<span class="topo-line"><span class="topo-outside">GIRFDVLVYGNAGK</span><span class="topo-membrane">FNIIPTIISSVAAFTSVGVGTVLCDIIL</span><span class="topo-inside">LNF</span><span class="topo-unknown">LKGADQYKAKKFEEV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GSRADFFTYETPKVIVVKS</span><span class="topo-inside">WTIGIIN</span><span class="topo-membrane">RVVQLLIISYFVGWVFLHEK</span><span class="topo-outside">AYQVRDTAIESSVVTKVKGSGLYANRVMDVSDYVTPPQGTSVFVIITKMIVTENQMQGFCPESEEKYRCVSDSQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">CGPERLPGGGILTGRCVNYSSVLRTCEIQGWCPTEVDTVETPIMMEAENFTIFIKNSIRFPLFNFEKGNLLPNLTARDMKTCRFHPDKDPFCPILRVGDVVKFAGQDFAKLARTGGVLGI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">KIGWVCDLDKAWDQCIPKYSFTRLDSV</span><span class="topo-unknown">SEKS</span><span class="topo-outside">SVSPGYNFRFAKYYKMENGSEYRTLLKAFGIRFDVLVYGNAGK</span><span class="topo-membrane">FNIIPTIISSVAAFTSVGVGTVLCDIIL</span><span class="topo-inside">LNF</span><span class="topo-unknown">LKGADQYKAKKFEEV</span></span>
+<span class="topo-ruler">   </span>
 <span class="topo-line"><span class="topo-unknown">NET</span></span>
+<details class="topo-details"><summary>Topology coordinates (6 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -500,6 +514,7 @@ The human P2X3 receptor (hP2X3) is a ligand-gated ion channel from Homo sapiens 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -515,13 +530,15 @@ The human P2X3 receptor (hP2X3) is a ligand-gated ion channel from Homo sapiens 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GSRADFFTYETPKVIVVKS</span><span class="topo-inside">WTIGIIN</span><span class="topo-membrane">RVVQLLIISYFVGWVFLHEK</span><span class="topo-outside">AYQVRDTAIESSVV</span></span>
-<span class="topo-line"><span class="topo-outside">TKVKGSGLYANRVMDVSDYVTPPQGTSVFVIITKMIVTENQMQGFCPESEEKYRCVSDSQ</span></span>
-<span class="topo-line"><span class="topo-outside">CGPERLPGGGILTGRCVNYSSVLRTCEIQGWCPTEVDTVETPIMMEAENFTIFIKNSIRF</span></span>
-<span class="topo-line"><span class="topo-outside">PLFNFEKGNLLPNLTARDMKTCRFHPDKDPFCPILRVGDVVKFAGQDFAKLARTGGVLGI</span></span>
-<span class="topo-line"><span class="topo-outside">KIGWVCDLDKAWDQCIPKYSFTRLDSV</span><span class="topo-unknown">SEKS</span><span class="topo-outside">SVSPGYNFRFAKYYKMENGSEYRTLLKAF</span></span>
-<span class="topo-line"><span class="topo-outside">GIRFDVLVYGNAGK</span><span class="topo-membrane">FNIIPTIISSVAAFTSVGVGTVLCDIIL</span><span class="topo-inside">LNF</span><span class="topo-unknown">LKGADQYKAKKFEEV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GSRADFFTYETPKVIVVKS</span><span class="topo-inside">WTIGIIN</span><span class="topo-membrane">RVVQLLIISYFVGWVFLHEK</span><span class="topo-outside">AYQVRDTAIESSVVTKVKGSGLYANRVMDVSDYVTPPQGTSVFVIITKMIVTENQMQGFCPESEEKYRCVSDSQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">CGPERLPGGGILTGRCVNYSSVLRTCEIQGWCPTEVDTVETPIMMEAENFTIFIKNSIRFPLFNFEKGNLLPNLTARDMKTCRFHPDKDPFCPILRVGDVVKFAGQDFAKLARTGGVLGI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">KIGWVCDLDKAWDQCIPKYSFTRLDSV</span><span class="topo-unknown">SEKS</span><span class="topo-outside">SVSPGYNFRFAKYYKMENGSEYRTLLKAFGIRFDVLVYGNAGK</span><span class="topo-membrane">FNIIPTIISSVAAFTSVGVGTVLCDIIL</span><span class="topo-inside">LNF</span><span class="topo-unknown">LKGADQYKAKKFEEV</span></span>
+<span class="topo-ruler">   </span>
 <span class="topo-line"><span class="topo-unknown">NET</span></span>
+<details class="topo-details"><summary>Topology coordinates (6 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -575,6 +592,7 @@ The human P2X3 receptor (hP2X3) is a ligand-gated ion channel from Homo sapiens 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -590,13 +608,15 @@ The human P2X3 receptor (hP2X3) is a ligand-gated ion channel from Homo sapiens 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GSRADFFTYETPKVIVVKS</span><span class="topo-inside">WTIGIIN</span><span class="topo-membrane">RVVQLLIISYFVGWVFLHEK</span><span class="topo-outside">AYQVRDTAIESSVV</span></span>
-<span class="topo-line"><span class="topo-outside">TKVKGSGLYANRVMDVSDYVTPPQGTSVFVIITKMIVTENQMQGFCPESEEKYRCVSDSQ</span></span>
-<span class="topo-line"><span class="topo-outside">CGPERLPGGGILTGRCVNYSSVLRTCEIQGWCPTEVDTVETPIMMEAENFTIFIKNSIRF</span></span>
-<span class="topo-line"><span class="topo-outside">PLFNFEKGNLLPNLTARDMKTCRFHPDKDPFCPILRVGDVVKFAGQDFAKLARTGGVLGI</span></span>
-<span class="topo-line"><span class="topo-outside">KIGWVCDLDKAWDQCIPKYSFTRLDSV</span><span class="topo-unknown">SEKS</span><span class="topo-outside">SVSPGYNFRFAKYYKMENGSEYRTLLKAF</span></span>
-<span class="topo-line"><span class="topo-outside">GIRFDVLVYGNAGK</span><span class="topo-membrane">FNIIPTIISSVAAFTSVGVGTVLCDIIL</span><span class="topo-inside">LNF</span><span class="topo-unknown">LKGADQYKAKKFEEV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GSRADFFTYETPKVIVVKS</span><span class="topo-inside">WTIGIIN</span><span class="topo-membrane">RVVQLLIISYFVGWVFLHEK</span><span class="topo-outside">AYQVRDTAIESSVVTKVKGSGLYANRVMDVSDYVTPPQGTSVFVIITKMIVTENQMQGFCPESEEKYRCVSDSQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">CGPERLPGGGILTGRCVNYSSVLRTCEIQGWCPTEVDTVETPIMMEAENFTIFIKNSIRFPLFNFEKGNLLPNLTARDMKTCRFHPDKDPFCPILRVGDVVKFAGQDFAKLARTGGVLGI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">KIGWVCDLDKAWDQCIPKYSFTRLDSV</span><span class="topo-unknown">SEKS</span><span class="topo-outside">SVSPGYNFRFAKYYKMENGSEYRTLLKAFGIRFDVLVYGNAGK</span><span class="topo-membrane">FNIIPTIISSVAAFTSVGVGTVLCDIIL</span><span class="topo-inside">LNF</span><span class="topo-unknown">LKGADQYKAKKFEEV</span></span>
+<span class="topo-ruler">   </span>
 <span class="topo-line"><span class="topo-unknown">NET</span></span>
+<details class="topo-details"><summary>Topology coordinates (6 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -650,6 +670,7 @@ The human P2X3 receptor (hP2X3) is a ligand-gated ion channel from Homo sapiens 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -665,13 +686,15 @@ The human P2X3 receptor (hP2X3) is a ligand-gated ion channel from Homo sapiens 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GSRADFFTYETPKVIVVKS</span><span class="topo-inside">WTIGIIN</span><span class="topo-membrane">RVVQLLIISYFVGWVFLHEK</span><span class="topo-outside">AYQVRDTAIESSVV</span></span>
-<span class="topo-line"><span class="topo-outside">TKVKGSGLYANRVMDVSDYVTPPQGTSVFVIITKMIVTENQMQGFCPESEEKYRCVSDSQ</span></span>
-<span class="topo-line"><span class="topo-outside">CGPERLPGGGILTGRCVNYSSVLRTCEIQGWCPTEVDTVETPIMMEAENFTIFIKNSIRF</span></span>
-<span class="topo-line"><span class="topo-outside">PLFNFEKGNLLPNLTARDMKTCRFHPDKDPFCPILRVGDVVKFAGQDFAKLARTGGVLGI</span></span>
-<span class="topo-line"><span class="topo-outside">KIGWVCDLDKAWDQCIPKYSFTRLDSV</span><span class="topo-unknown">SEKS</span><span class="topo-outside">SVSPGYNFRFAKYYKMENGSEYRTLLKAF</span></span>
-<span class="topo-line"><span class="topo-outside">GIRFDVLVYGNAGK</span><span class="topo-membrane">FNIIPTIISSVAAFTSVGVGTVLCDIIL</span><span class="topo-inside">LNF</span><span class="topo-unknown">LKGADQYKAKKFEEV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GSRADFFTYETPKVIVVKS</span><span class="topo-inside">WTIGIIN</span><span class="topo-membrane">RVVQLLIISYFVGWVFLHEK</span><span class="topo-outside">AYQVRDTAIESSVVTKVKGSGLYANRVMDVSDYVTPPQGTSVFVIITKMIVTENQMQGFCPESEEKYRCVSDSQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">CGPERLPGGGILTGRCVNYSSVLRTCEIQGWCPTEVDTVETPIMMEAENFTIFIKNSIRFPLFNFEKGNLLPNLTARDMKTCRFHPDKDPFCPILRVGDVVKFAGQDFAKLARTGGVLGI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">KIGWVCDLDKAWDQCIPKYSFTRLDSV</span><span class="topo-unknown">SEKS</span><span class="topo-outside">SVSPGYNFRFAKYYKMENGSEYRTLLKAFGIRFDVLVYGNAGK</span><span class="topo-membrane">FNIIPTIISSVAAFTSVGVGTVLCDIIL</span><span class="topo-inside">LNF</span><span class="topo-unknown">LKGADQYKAKKFEEV</span></span>
+<span class="topo-ruler">   </span>
 <span class="topo-line"><span class="topo-unknown">NET</span></span>
+<details class="topo-details"><summary>Topology coordinates (6 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -725,6 +748,7 @@ The human P2X3 receptor (hP2X3) is a ligand-gated ion channel from Homo sapiens 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -740,13 +764,15 @@ The human P2X3 receptor (hP2X3) is a ligand-gated ion channel from Homo sapiens 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GSRADFFTYETPKVIVVKS</span><span class="topo-inside">WTIGIIN</span><span class="topo-membrane">RVVQLLIISYFVGWVFLHEK</span><span class="topo-outside">AYQVRDTAIESSVV</span></span>
-<span class="topo-line"><span class="topo-outside">TKVKGSGLYANRVMDVSDYVTPPQGTSVFVIITKMIVTENQMQGFCPESEEKYRCVSDSQ</span></span>
-<span class="topo-line"><span class="topo-outside">CGPERLPGGGILTGRCVNYSSVLRTCEIQGWCPTEVDTVETPIMMEAENFTIFIKNSIRF</span></span>
-<span class="topo-line"><span class="topo-outside">PLFNFEKGNLLPNLTARDMKTCRFHPDKDPFCPILRVGDVVKFAGQDFAKLARTGGVLGI</span></span>
-<span class="topo-line"><span class="topo-outside">KIGWVCDLDKAWDQCIPKYSFTRLDSV</span><span class="topo-unknown">SEKS</span><span class="topo-outside">SVSPGYNFRFAKYYKMENGSEYRTLLKAF</span></span>
-<span class="topo-line"><span class="topo-outside">GIRFDVLVYGNAGK</span><span class="topo-membrane">FNIIPTIISSVAAFTSVGVGTVLCDIIL</span><span class="topo-inside">LNF</span><span class="topo-unknown">LKGADQYKAKKFEEV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GSRADFFTYETPKVIVVKS</span><span class="topo-inside">WTIGIIN</span><span class="topo-membrane">RVVQLLIISYFVGWVFLHEK</span><span class="topo-outside">AYQVRDTAIESSVVTKVKGSGLYANRVMDVSDYVTPPQGTSVFVIITKMIVTENQMQGFCPESEEKYRCVSDSQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">CGPERLPGGGILTGRCVNYSSVLRTCEIQGWCPTEVDTVETPIMMEAENFTIFIKNSIRFPLFNFEKGNLLPNLTARDMKTCRFHPDKDPFCPILRVGDVVKFAGQDFAKLARTGGVLGI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">KIGWVCDLDKAWDQCIPKYSFTRLDSV</span><span class="topo-unknown">SEKS</span><span class="topo-outside">SVSPGYNFRFAKYYKMENGSEYRTLLKAFGIRFDVLVYGNAGK</span><span class="topo-membrane">FNIIPTIISSVAAFTSVGVGTVLCDIIL</span><span class="topo-inside">LNF</span><span class="topo-unknown">LKGADQYKAKKFEEV</span></span>
+<span class="topo-ruler">   </span>
 <span class="topo-line"><span class="topo-unknown">NET</span></span>
+<details class="topo-details"><summary>Topology coordinates (6 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -800,6 +826,7 @@ The human P2X3 receptor (hP2X3) is a ligand-gated ion channel from Homo sapiens 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -815,13 +842,15 @@ The human P2X3 receptor (hP2X3) is a ligand-gated ion channel from Homo sapiens 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GSRADFFTYETPKVIVVKS</span><span class="topo-inside">WTIGIIN</span><span class="topo-membrane">RVVQLLIISYFVGWVFLHEK</span><span class="topo-outside">AYQVRDTAIESSVV</span></span>
-<span class="topo-line"><span class="topo-outside">TKVKGSGLYANRVMDVSDYVTPPQGTSVFVIITKMIVTENQMQGFCPESEEKYRCVSDSQ</span></span>
-<span class="topo-line"><span class="topo-outside">CGPERLPGGGILTGRCVNYSSVLRTCEIQGWCPTEVDTVETPIMMEAENFTIFIKNSIRF</span></span>
-<span class="topo-line"><span class="topo-outside">PLFNFEKGNLLPNLTARDMKTCRFHPDKDPFCPILRVGDVVKFAGQDFAKLARTGGVLGI</span></span>
-<span class="topo-line"><span class="topo-outside">KIGWVCDLDKAWDQCIPKYSFTRLDSV</span><span class="topo-unknown">SEKS</span><span class="topo-outside">SVSPGYNFRFAKYYKMENGSEYRTLLKAF</span></span>
-<span class="topo-line"><span class="topo-outside">GIRFDVLVYGNAGK</span><span class="topo-membrane">FNIIPTIISSVAAFTSVGVGTVLCDIIL</span><span class="topo-inside">LNF</span><span class="topo-unknown">LKGADQYKAKKFEEV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GSRADFFTYETPKVIVVKS</span><span class="topo-inside">WTIGIIN</span><span class="topo-membrane">RVVQLLIISYFVGWVFLHEK</span><span class="topo-outside">AYQVRDTAIESSVVTKVKGSGLYANRVMDVSDYVTPPQGTSVFVIITKMIVTENQMQGFCPESEEKYRCVSDSQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">CGPERLPGGGILTGRCVNYSSVLRTCEIQGWCPTEVDTVETPIMMEAENFTIFIKNSIRFPLFNFEKGNLLPNLTARDMKTCRFHPDKDPFCPILRVGDVVKFAGQDFAKLARTGGVLGI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">KIGWVCDLDKAWDQCIPKYSFTRLDSV</span><span class="topo-unknown">SEKS</span><span class="topo-outside">SVSPGYNFRFAKYYKMENGSEYRTLLKAFGIRFDVLVYGNAGK</span><span class="topo-membrane">FNIIPTIISSVAAFTSVGVGTVLCDIIL</span><span class="topo-inside">LNF</span><span class="topo-unknown">LKGADQYKAKKFEEV</span></span>
+<span class="topo-ruler">   </span>
 <span class="topo-line"><span class="topo-unknown">NET</span></span>
+<details class="topo-details"><summary>Topology coordinates (6 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -875,6 +904,7 @@ The human P2X3 receptor (hP2X3) is a ligand-gated ion channel from Homo sapiens 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -890,13 +920,15 @@ The human P2X3 receptor (hP2X3) is a ligand-gated ion channel from Homo sapiens 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GSRADFFTYETPKVIVVKS</span><span class="topo-inside">WTIGIIN</span><span class="topo-membrane">RVVQLLIISYFVGWVFLHEK</span><span class="topo-outside">AYQVRDTAIESSVV</span></span>
-<span class="topo-line"><span class="topo-outside">TKVKGSGLYANRVMDVSDYVTPPQGTSVFVIITKMIVTENQMQGFCPESEEKYRCVSDSQ</span></span>
-<span class="topo-line"><span class="topo-outside">CGPERLPGGGILTGRCVNYSSVLRTCEIQGWCPTEVDTVETPIMMEAENFTIFIKNSIRF</span></span>
-<span class="topo-line"><span class="topo-outside">PLFNFEKGNLLPNLTARDMKTCRFHPDKDPFCPILRVGDVVKFAGQDFAKLARTGGVLGI</span></span>
-<span class="topo-line"><span class="topo-outside">KIGWVCDLDKAWDQCIPKYSFTRLDSV</span><span class="topo-unknown">SEKS</span><span class="topo-outside">SVSPGYNFRFAKYYKMENGSEYRTLLKAF</span></span>
-<span class="topo-line"><span class="topo-outside">GIRFDVLVYGNAGK</span><span class="topo-membrane">FNIIPTIISSVAAFTSVGVGTVLCDIIL</span><span class="topo-inside">LNF</span><span class="topo-unknown">LKGADQYKAKKFEEV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GSRADFFTYETPKVIVVKS</span><span class="topo-inside">WTIGIIN</span><span class="topo-membrane">RVVQLLIISYFVGWVFLHEK</span><span class="topo-outside">AYQVRDTAIESSVVTKVKGSGLYANRVMDVSDYVTPPQGTSVFVIITKMIVTENQMQGFCPESEEKYRCVSDSQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">CGPERLPGGGILTGRCVNYSSVLRTCEIQGWCPTEVDTVETPIMMEAENFTIFIKNSIRFPLFNFEKGNLLPNLTARDMKTCRFHPDKDPFCPILRVGDVVKFAGQDFAKLARTGGVLGI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">KIGWVCDLDKAWDQCIPKYSFTRLDSV</span><span class="topo-unknown">SEKS</span><span class="topo-outside">SVSPGYNFRFAKYYKMENGSEYRTLLKAFGIRFDVLVYGNAGK</span><span class="topo-membrane">FNIIPTIISSVAAFTSVGVGTVLCDIIL</span><span class="topo-inside">LNF</span><span class="topo-unknown">LKGADQYKAKKFEEV</span></span>
+<span class="topo-ruler">   </span>
 <span class="topo-line"><span class="topo-unknown">NET</span></span>
+<details class="topo-details"><summary>Topology coordinates (6 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -950,6 +982,7 @@ The human P2X3 receptor (hP2X3) is a ligand-gated ion channel from Homo sapiens 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -965,13 +998,15 @@ The human P2X3 receptor (hP2X3) is a ligand-gated ion channel from Homo sapiens 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GSRADFFTYETPKVIVVKS</span><span class="topo-inside">WTIGIIN</span><span class="topo-membrane">RVVQLLIISYFVGWVFLHEK</span><span class="topo-outside">AYQVRDTAIESSVV</span></span>
-<span class="topo-line"><span class="topo-outside">TKVKGSGLYANRVMDVSDYVTPPQGTSVFVIITKMIVTENQMQGFCPESEEKYRCVSDSQ</span></span>
-<span class="topo-line"><span class="topo-outside">CGPERLPGGGILTGRCVNYSSVLRTCEIQGWCPTEVDTVETPIMMEAENFTIFIKNSIRF</span></span>
-<span class="topo-line"><span class="topo-outside">PLFNFEKGNLLPNLTARDMKTCRFHPDKDPFCPILRVGDVVKFAGQDFAKLARTGGVLGI</span></span>
-<span class="topo-line"><span class="topo-outside">KIGWVCDLDKAWDQCIPKYSFTRLDSV</span><span class="topo-unknown">SEKS</span><span class="topo-outside">SVSPGYNFRFAKYYKMENGSEYRTLLKAF</span></span>
-<span class="topo-line"><span class="topo-outside">GIRFDVLVYGNAGK</span><span class="topo-membrane">FNIIPTIISSVAAFTSVGVGTVLCDIIL</span><span class="topo-inside">LNF</span><span class="topo-unknown">LKGADQYKAKKFEEV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GSRADFFTYETPKVIVVKS</span><span class="topo-inside">WTIGIIN</span><span class="topo-membrane">RVVQLLIISYFVGWVFLHEK</span><span class="topo-outside">AYQVRDTAIESSVVTKVKGSGLYANRVMDVSDYVTPPQGTSVFVIITKMIVTENQMQGFCPESEEKYRCVSDSQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">CGPERLPGGGILTGRCVNYSSVLRTCEIQGWCPTEVDTVETPIMMEAENFTIFIKNSIRFPLFNFEKGNLLPNLTARDMKTCRFHPDKDPFCPILRVGDVVKFAGQDFAKLARTGGVLGI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">KIGWVCDLDKAWDQCIPKYSFTRLDSV</span><span class="topo-unknown">SEKS</span><span class="topo-outside">SVSPGYNFRFAKYYKMENGSEYRTLLKAFGIRFDVLVYGNAGK</span><span class="topo-membrane">FNIIPTIISSVAAFTSVGVGTVLCDIIL</span><span class="topo-inside">LNF</span><span class="topo-unknown">LKGADQYKAKKFEEV</span></span>
+<span class="topo-ruler">   </span>
 <span class="topo-line"><span class="topo-unknown">NET</span></span>
+<details class="topo-details"><summary>Topology coordinates (6 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1025,6 +1060,7 @@ The human P2X3 receptor (hP2X3) is a ligand-gated ion channel from Homo sapiens 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1092,13 +1128,15 @@ The human P2X3 receptor (hP2X3) is a ligand-gated ion channel from Homo sapiens 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">SREFD</span><span class="topo-outside">FFTYETPKVIVVKSW</span><span class="topo-membrane">TIGIINRVVQLLIISYFVGWVFLHEK</span><span class="topo-inside">AYQVRDTAIESSVV</span></span>
-<span class="topo-line"><span class="topo-inside">TKVKGSGLYANRVMDVSDYVTPPQGTSVFVIITKMIVTENQMQGFCPESEEKYRCVSDSQ</span></span>
-<span class="topo-line"><span class="topo-inside">CGPERLPGGGILTGRCVNYSSVLRTCEIQGWCPTEVDTVETPIMMEAENFTIFIKNSIRF</span></span>
-<span class="topo-line"><span class="topo-inside">PLFNFEKGNLLPNLTARDMKTCRFHPDKDPFCPILRVGDVVKFAGQDFAKLARTGGVLGI</span></span>
-<span class="topo-line"><span class="topo-inside">KIGWVCDLDKAWDQCIPKYSFTRLDSVSEKSSVSPGYNFRFAKYYKMENGSEYRTLLKAF</span></span>
-<span class="topo-line"><span class="topo-inside">GIRFDVLVYGNAGKF</span><span class="topo-membrane">NIIPTIISSVAAFTSVGVGTVLCDIILLNF</span><span class="topo-outside">LKGADQYKAKKFEEV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">SREFD</span><span class="topo-outside">FFTYETPKVIVVKSW</span><span class="topo-membrane">TIGIINRVVQLLIISYFVGWVFLHEK</span><span class="topo-inside">AYQVRDTAIESSVVTKVKGSGLYANRVMDVSDYVTPPQGTSVFVIITKMIVTENQMQGFCPESEEKYRCVSDSQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">CGPERLPGGGILTGRCVNYSSVLRTCEIQGWCPTEVDTVETPIMMEAENFTIFIKNSIRFPLFNFEKGNLLPNLTARDMKTCRFHPDKDPFCPILRVGDVVKFAGQDFAKLARTGGVLGI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">KIGWVCDLDKAWDQCIPKYSFTRLDSVSEKSSVSPGYNFRFAKYYKMENGSEYRTLLKAFGIRFDVLVYGNAGKF</span><span class="topo-membrane">NIIPTIISSVAAFTSVGVGTVLCDIILLNF</span><span class="topo-outside">LKGADQYKAKKFEEV</span></span>
+<span class="topo-ruler">  </span>
 <span class="topo-line"><span class="topo-outside">NE</span></span>
+<details class="topo-details"><summary>Topology coordinates (6 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1152,6 +1190,7 @@ The human P2X3 receptor (hP2X3) is a ligand-gated ion channel from Homo sapiens 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1167,13 +1206,15 @@ The human P2X3 receptor (hP2X3) is a ligand-gated ion channel from Homo sapiens 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">SREFD</span><span class="topo-outside">FFTYETPKVIVVKSW</span><span class="topo-membrane">TIGIINRVVQLLIISYFVGWVFLHEK</span><span class="topo-inside">AYQVRDTAIESSVV</span></span>
-<span class="topo-line"><span class="topo-inside">TKVKGSGLYANRVMDVSDYVTPPQGTSVFVIITKMIVTENQMQGFCPESEEKYRCVSDSQ</span></span>
-<span class="topo-line"><span class="topo-inside">CGPERLPGGGILTGRCVNYSSVLRTCEIQGWCPTEVDTVETPIMMEAENFTIFIKNSIRF</span></span>
-<span class="topo-line"><span class="topo-inside">PLFNFEKGNLLPNLTARDMKTCRFHPDKDPFCPILRVGDVVKFAGQDFAKLARTGGVLGI</span></span>
-<span class="topo-line"><span class="topo-inside">KIGWVCDLDKAWDQCIPKYSFTRLDSVSEKSSVSPGYNFRFAKYYKMENGSEYRTLLKAF</span></span>
-<span class="topo-line"><span class="topo-inside">GIRFDVLVYGNAGKF</span><span class="topo-membrane">NIIPTIISSVAAFTSVGVGTVLCDIILLNF</span><span class="topo-outside">LKGADQYKAKKFEEV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">SREFD</span><span class="topo-outside">FFTYETPKVIVVKSW</span><span class="topo-membrane">TIGIINRVVQLLIISYFVGWVFLHEK</span><span class="topo-inside">AYQVRDTAIESSVVTKVKGSGLYANRVMDVSDYVTPPQGTSVFVIITKMIVTENQMQGFCPESEEKYRCVSDSQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">CGPERLPGGGILTGRCVNYSSVLRTCEIQGWCPTEVDTVETPIMMEAENFTIFIKNSIRFPLFNFEKGNLLPNLTARDMKTCRFHPDKDPFCPILRVGDVVKFAGQDFAKLARTGGVLGI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">KIGWVCDLDKAWDQCIPKYSFTRLDSVSEKSSVSPGYNFRFAKYYKMENGSEYRTLLKAFGIRFDVLVYGNAGKF</span><span class="topo-membrane">NIIPTIISSVAAFTSVGVGTVLCDIILLNF</span><span class="topo-outside">LKGADQYKAKKFEEV</span></span>
+<span class="topo-ruler">  </span>
 <span class="topo-line"><span class="topo-outside">NE</span></span>
+<details class="topo-details"><summary>Topology coordinates (6 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1227,6 +1268,7 @@ The human P2X3 receptor (hP2X3) is a ligand-gated ion channel from Homo sapiens 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1242,13 +1284,15 @@ The human P2X3 receptor (hP2X3) is a ligand-gated ion channel from Homo sapiens 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">SREFD</span><span class="topo-outside">FFTYETPKVIVVKSW</span><span class="topo-membrane">TIGIINRVVQLLIISYFVGWVFLHEK</span><span class="topo-inside">AYQVRDTAIESSVV</span></span>
-<span class="topo-line"><span class="topo-inside">TKVKGSGLYANRVMDVSDYVTPPQGTSVFVIITKMIVTENQMQGFCPESEEKYRCVSDSQ</span></span>
-<span class="topo-line"><span class="topo-inside">CGPERLPGGGILTGRCVNYSSVLRTCEIQGWCPTEVDTVETPIMMEAENFTIFIKNSIRF</span></span>
-<span class="topo-line"><span class="topo-inside">PLFNFEKGNLLPNLTARDMKTCRFHPDKDPFCPILRVGDVVKFAGQDFAKLARTGGVLGI</span></span>
-<span class="topo-line"><span class="topo-inside">KIGWVCDLDKAWDQCIPKYSFTRLDSVSEKSSVSPGYNFRFAKYYKMENGSEYRTLLKAF</span></span>
-<span class="topo-line"><span class="topo-inside">GIRFDVLVYGNAGKF</span><span class="topo-membrane">NIIPTIISSVAAFTSVGVGTVLCDIILLNF</span><span class="topo-outside">LKGADQYKAKKFEEV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">SREFD</span><span class="topo-outside">FFTYETPKVIVVKSW</span><span class="topo-membrane">TIGIINRVVQLLIISYFVGWVFLHEK</span><span class="topo-inside">AYQVRDTAIESSVVTKVKGSGLYANRVMDVSDYVTPPQGTSVFVIITKMIVTENQMQGFCPESEEKYRCVSDSQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">CGPERLPGGGILTGRCVNYSSVLRTCEIQGWCPTEVDTVETPIMMEAENFTIFIKNSIRFPLFNFEKGNLLPNLTARDMKTCRFHPDKDPFCPILRVGDVVKFAGQDFAKLARTGGVLGI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">KIGWVCDLDKAWDQCIPKYSFTRLDSVSEKSSVSPGYNFRFAKYYKMENGSEYRTLLKAFGIRFDVLVYGNAGKF</span><span class="topo-membrane">NIIPTIISSVAAFTSVGVGTVLCDIILLNF</span><span class="topo-outside">LKGADQYKAKKFEEV</span></span>
+<span class="topo-ruler">  </span>
 <span class="topo-line"><span class="topo-outside">NE</span></span>
+<details class="topo-details"><summary>Topology coordinates (6 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1302,6 +1346,7 @@ The human P2X3 receptor (hP2X3) is a ligand-gated ion channel from Homo sapiens 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1317,13 +1362,15 @@ The human P2X3 receptor (hP2X3) is a ligand-gated ion channel from Homo sapiens 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">SREFD</span><span class="topo-outside">FFTYETPKVIVVKSW</span><span class="topo-membrane">TIGIINRVVQLLIISYFVGWVFLHEK</span><span class="topo-inside">AYQVRDTAIESSVV</span></span>
-<span class="topo-line"><span class="topo-inside">TKVKGSGLYANRVMDVSDYVTPPQGTSVFVIITKMIVTENQMQGFCPESEEKYRCVSDSQ</span></span>
-<span class="topo-line"><span class="topo-inside">CGPERLPGGGILTGRCVNYSSVLRTCEIQGWCPTEVDTVETPIMMEAENFTIFIKNSIRF</span></span>
-<span class="topo-line"><span class="topo-inside">PLFNFEKGNLLPNLTARDMKTCRFHPDKDPFCPILRVGDVVKFAGQDFAKLARTGGVLGI</span></span>
-<span class="topo-line"><span class="topo-inside">KIGWVCDLDKAWDQCIPKYSFTRLDSVSEKSSVSPGYNFRFAKYYKMENGSEYRTLLKAF</span></span>
-<span class="topo-line"><span class="topo-inside">GIRFDVLVYGNAGKFN</span><span class="topo-membrane">IIPTIISSVAAFTSVGVGTVLCDIILLNF</span><span class="topo-outside">LKGADQYKAKKFEEV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">SREFD</span><span class="topo-outside">FFTYETPKVIVVKSW</span><span class="topo-membrane">TIGIINRVVQLLIISYFVGWVFLHEK</span><span class="topo-inside">AYQVRDTAIESSVVTKVKGSGLYANRVMDVSDYVTPPQGTSVFVIITKMIVTENQMQGFCPESEEKYRCVSDSQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">CGPERLPGGGILTGRCVNYSSVLRTCEIQGWCPTEVDTVETPIMMEAENFTIFIKNSIRFPLFNFEKGNLLPNLTARDMKTCRFHPDKDPFCPILRVGDVVKFAGQDFAKLARTGGVLGI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">KIGWVCDLDKAWDQCIPKYSFTRLDSVSEKSSVSPGYNFRFAKYYKMENGSEYRTLLKAFGIRFDVLVYGNAGKFN</span><span class="topo-membrane">IIPTIISSVAAFTSVGVGTVLCDIILLNF</span><span class="topo-outside">LKGADQYKAKKFEEV</span></span>
+<span class="topo-ruler">  </span>
 <span class="topo-line"><span class="topo-outside">NE</span></span>
+<details class="topo-details"><summary>Topology coordinates (6 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1377,6 +1424,7 @@ The human P2X3 receptor (hP2X3) is a ligand-gated ion channel from Homo sapiens 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1392,13 +1440,15 @@ The human P2X3 receptor (hP2X3) is a ligand-gated ion channel from Homo sapiens 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">SREFD</span><span class="topo-outside">FFTYETPKVIVVKSW</span><span class="topo-membrane">TIGIINRVVQLLIISYFVGWVFLHEK</span><span class="topo-inside">AYQVRDTAIESSVV</span></span>
-<span class="topo-line"><span class="topo-inside">TKVKGSGLYANRVMDVSDYVTPPQGTSVFVIITKMIVTENQMQGFCPESEEKYRCVSDSQ</span></span>
-<span class="topo-line"><span class="topo-inside">CGPERLPGGGILTGRCVNYSSVLRTCEIQGWCPTEVDTVETPIMMEAENFTIFIKNSIRF</span></span>
-<span class="topo-line"><span class="topo-inside">PLFNFEKGNLLPNLTARDMKTCRFHPDKDPFCPILRVGDVVKFAGQDFAKLARTGGVLGI</span></span>
-<span class="topo-line"><span class="topo-inside">KIGWVCDLDKAWDQCIPKYSFTRLDSVSEKSSVSPGYNFRFAKYYKMENGSEYRTLLKAF</span></span>
-<span class="topo-line"><span class="topo-inside">GIRFDVLVYGNAGKF</span><span class="topo-membrane">NIIPTIISSVAAFTSVGVGTVLCDIILLNF</span><span class="topo-outside">LKGADQYKAKKFEEV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">SREFD</span><span class="topo-outside">FFTYETPKVIVVKSW</span><span class="topo-membrane">TIGIINRVVQLLIISYFVGWVFLHEK</span><span class="topo-inside">AYQVRDTAIESSVVTKVKGSGLYANRVMDVSDYVTPPQGTSVFVIITKMIVTENQMQGFCPESEEKYRCVSDSQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">CGPERLPGGGILTGRCVNYSSVLRTCEIQGWCPTEVDTVETPIMMEAENFTIFIKNSIRFPLFNFEKGNLLPNLTARDMKTCRFHPDKDPFCPILRVGDVVKFAGQDFAKLARTGGVLGI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">KIGWVCDLDKAWDQCIPKYSFTRLDSVSEKSSVSPGYNFRFAKYYKMENGSEYRTLLKAFGIRFDVLVYGNAGKF</span><span class="topo-membrane">NIIPTIISSVAAFTSVGVGTVLCDIILLNF</span><span class="topo-outside">LKGADQYKAKKFEEV</span></span>
+<span class="topo-ruler">  </span>
 <span class="topo-line"><span class="topo-outside">NE</span></span>
+<details class="topo-details"><summary>Topology coordinates (6 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1452,6 +1502,7 @@ The human P2X3 receptor (hP2X3) is a ligand-gated ion channel from Homo sapiens 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1467,13 +1518,15 @@ The human P2X3 receptor (hP2X3) is a ligand-gated ion channel from Homo sapiens 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">SREFD</span><span class="topo-outside">FFTYETPKVIVVKSW</span><span class="topo-membrane">TIGIINRVVQLLIISYFVGWVFLHEK</span><span class="topo-inside">AYQVRDTAIESSVV</span></span>
-<span class="topo-line"><span class="topo-inside">TKVKGSGLYANRVMDVSDYVTPPQGTSVFVIITKMIVTENQMQGFCPESEEKYRCVSDSQ</span></span>
-<span class="topo-line"><span class="topo-inside">CGPERLPGGGILTGRCVNYSSVLRTCEIQGWCPTEVDTVETPIMMEAENFTIFIKNSIRF</span></span>
-<span class="topo-line"><span class="topo-inside">PLFNFEKGNLLPNLTARDMKTCRFHPDKDPFCPILRVGDVVKFAGQDFAKLARTGGVLGI</span></span>
-<span class="topo-line"><span class="topo-inside">KIGWVCDLDKAWDQCIPKYSFTRLDSVSEKSSVSPGYNFRFAKYYKMENGSEYRTLLKAF</span></span>
-<span class="topo-line"><span class="topo-inside">GIRFDVLVYGNAGKFN</span><span class="topo-membrane">IIPTIISSVAAFTSVGVGTVLCDIILLNF</span><span class="topo-outside">LKGADQYKAKKFEEV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">SREFD</span><span class="topo-outside">FFTYETPKVIVVKSW</span><span class="topo-membrane">TIGIINRVVQLLIISYFVGWVFLHEK</span><span class="topo-inside">AYQVRDTAIESSVVTKVKGSGLYANRVMDVSDYVTPPQGTSVFVIITKMIVTENQMQGFCPESEEKYRCVSDSQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">CGPERLPGGGILTGRCVNYSSVLRTCEIQGWCPTEVDTVETPIMMEAENFTIFIKNSIRFPLFNFEKGNLLPNLTARDMKTCRFHPDKDPFCPILRVGDVVKFAGQDFAKLARTGGVLGI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">KIGWVCDLDKAWDQCIPKYSFTRLDSVSEKSSVSPGYNFRFAKYYKMENGSEYRTLLKAFGIRFDVLVYGNAGKFN</span><span class="topo-membrane">IIPTIISSVAAFTSVGVGTVLCDIILLNF</span><span class="topo-outside">LKGADQYKAKKFEEV</span></span>
+<span class="topo-ruler">  </span>
 <span class="topo-line"><span class="topo-outside">NE</span></span>
+<details class="topo-details"><summary>Topology coordinates (6 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1527,6 +1580,7 @@ The human P2X3 receptor (hP2X3) is a ligand-gated ion channel from Homo sapiens 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1587,13 +1641,15 @@ The human P2X3 receptor (hP2X3) is a ligand-gated ion channel from Homo sapiens 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">SREFDFFTYETPKVIVVKS</span><span class="topo-inside">WTIGI</span><span class="topo-membrane">INRVVQLLIISYFVGWVFLHEK</span><span class="topo-outside">AYQVRDTAIESSVV</span></span>
-<span class="topo-line"><span class="topo-outside">TKVKGSGLYANRVMDVSDYVTPPQGTSVFVIITKMIVTENQMQGFCPESEEKYRCVSDSQ</span></span>
-<span class="topo-line"><span class="topo-outside">CGPERLPGGGILTGRCVNYSSVLRTCEIQGWCPTEVDTVETPIMMEAENFTIFIKNSIRF</span></span>
-<span class="topo-line"><span class="topo-outside">PLFNFEKGNLLPNLTARDMKTCRFHPDKDPFCPILRVGDVVKFAGQDFAKLARTGGVLGI</span></span>
-<span class="topo-line"><span class="topo-outside">KIGWVCDLDKAWDQCIPKYSFTRLDSVSEKSSVSPGYNFRFAKYYKMENGSEYRTLLKAF</span></span>
-<span class="topo-line"><span class="topo-outside">GIRFDVLVYGNAGK</span><span class="topo-membrane">FNIIPTIISSVAAFTSVGVGTVLCDIILLN</span><span class="topo-inside">FL</span><span class="topo-unknown">KGADQYKAKKFEEV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">SREFDFFTYETPKVIVVKS</span><span class="topo-inside">WTIGI</span><span class="topo-membrane">INRVVQLLIISYFVGWVFLHEK</span><span class="topo-outside">AYQVRDTAIESSVVTKVKGSGLYANRVMDVSDYVTPPQGTSVFVIITKMIVTENQMQGFCPESEEKYRCVSDSQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">CGPERLPGGGILTGRCVNYSSVLRTCEIQGWCPTEVDTVETPIMMEAENFTIFIKNSIRFPLFNFEKGNLLPNLTARDMKTCRFHPDKDPFCPILRVGDVVKFAGQDFAKLARTGGVLGI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">KIGWVCDLDKAWDQCIPKYSFTRLDSVSEKSSVSPGYNFRFAKYYKMENGSEYRTLLKAFGIRFDVLVYGNAGK</span><span class="topo-membrane">FNIIPTIISSVAAFTSVGVGTVLCDIILLN</span><span class="topo-inside">FL</span><span class="topo-unknown">KGADQYKAKKFEEV</span></span>
+<span class="topo-ruler">   </span>
 <span class="topo-line"><span class="topo-unknown">NET</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1640,6 +1696,7 @@ The human P2X3 receptor (hP2X3) is a ligand-gated ion channel from Homo sapiens 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1655,13 +1712,15 @@ The human P2X3 receptor (hP2X3) is a ligand-gated ion channel from Homo sapiens 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">SREFDFFTYETPKVIVVKS</span><span class="topo-inside">WTIGI</span><span class="topo-membrane">INRVVQLLIISYFVGWVFLHEK</span><span class="topo-outside">AYQVRDTAIESSVV</span></span>
-<span class="topo-line"><span class="topo-outside">TKVKGSGLYANRVMDVSDYVTPPQGTSVFVIITKMIVTENQMQGFCPESEEKYRCVSDSQ</span></span>
-<span class="topo-line"><span class="topo-outside">CGPERLPGGGILTGRCVNYSSVLRTCEIQGWCPTEVDTVETPIMMEAENFTIFIKNSIRF</span></span>
-<span class="topo-line"><span class="topo-outside">PLFNFEKGNLLPNLTARDMKTCRFHPDKDPFCPILRVGDVVKFAGQDFAKLARTGGVLGI</span></span>
-<span class="topo-line"><span class="topo-outside">KIGWVCDLDKAWDQCIPKYSFTRLDSVSEKSSVSPGYNFRFAKYYKMENGSEYRTLLKAF</span></span>
-<span class="topo-line"><span class="topo-outside">GIRFDVLVYGNAGK</span><span class="topo-membrane">FNIIPTIISSVAAFTSVGVGTVLCDIILLN</span><span class="topo-inside">FL</span><span class="topo-unknown">KGADQYKAKKFEEV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">SREFDFFTYETPKVIVVKS</span><span class="topo-inside">WTIGI</span><span class="topo-membrane">INRVVQLLIISYFVGWVFLHEK</span><span class="topo-outside">AYQVRDTAIESSVVTKVKGSGLYANRVMDVSDYVTPPQGTSVFVIITKMIVTENQMQGFCPESEEKYRCVSDSQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">CGPERLPGGGILTGRCVNYSSVLRTCEIQGWCPTEVDTVETPIMMEAENFTIFIKNSIRFPLFNFEKGNLLPNLTARDMKTCRFHPDKDPFCPILRVGDVVKFAGQDFAKLARTGGVLGI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">KIGWVCDLDKAWDQCIPKYSFTRLDSVSEKSSVSPGYNFRFAKYYKMENGSEYRTLLKAFGIRFDVLVYGNAGK</span><span class="topo-membrane">FNIIPTIISSVAAFTSVGVGTVLCDIILLN</span><span class="topo-inside">FL</span><span class="topo-unknown">KGADQYKAKKFEEV</span></span>
+<span class="topo-ruler">   </span>
 <span class="topo-line"><span class="topo-unknown">NET</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1708,6 +1767,7 @@ The human P2X3 receptor (hP2X3) is a ligand-gated ion channel from Homo sapiens 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1723,13 +1783,15 @@ The human P2X3 receptor (hP2X3) is a ligand-gated ion channel from Homo sapiens 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">SREFDFFTYETPKVIVVKS</span><span class="topo-inside">WTIGI</span><span class="topo-membrane">INRVVQLLIISYFVGWVFLHEK</span><span class="topo-outside">AYQVRDTAIESSVV</span></span>
-<span class="topo-line"><span class="topo-outside">TKVKGSGLYANRVMDVSDYVTPPQGTSVFVIITKMIVTENQMQGFCPESEEKYRCVSDSQ</span></span>
-<span class="topo-line"><span class="topo-outside">CGPERLPGGGILTGRCVNYSSVLRTCEIQGWCPTEVDTVETPIMMEAENFTIFIKNSIRF</span></span>
-<span class="topo-line"><span class="topo-outside">PLFNFEKGNLLPNLTARDMKTCRFHPDKDPFCPILRVGDVVKFAGQDFAKLARTGGVLGI</span></span>
-<span class="topo-line"><span class="topo-outside">KIGWVCDLDKAWDQCIPKYSFTRLDSVSEKSSVSPGYNFRFAKYYKMENGSEYRTLLKAF</span></span>
-<span class="topo-line"><span class="topo-outside">GIRFDVLVYGNAGK</span><span class="topo-membrane">FNIIPTIISSVAAFTSVGVGTVLCDIILLN</span><span class="topo-inside">FL</span><span class="topo-unknown">KGADQYKAKKFEEV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">SREFDFFTYETPKVIVVKS</span><span class="topo-inside">WTIGI</span><span class="topo-membrane">INRVVQLLIISYFVGWVFLHEK</span><span class="topo-outside">AYQVRDTAIESSVVTKVKGSGLYANRVMDVSDYVTPPQGTSVFVIITKMIVTENQMQGFCPESEEKYRCVSDSQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">CGPERLPGGGILTGRCVNYSSVLRTCEIQGWCPTEVDTVETPIMMEAENFTIFIKNSIRFPLFNFEKGNLLPNLTARDMKTCRFHPDKDPFCPILRVGDVVKFAGQDFAKLARTGGVLGI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">KIGWVCDLDKAWDQCIPKYSFTRLDSVSEKSSVSPGYNFRFAKYYKMENGSEYRTLLKAFGIRFDVLVYGNAGK</span><span class="topo-membrane">FNIIPTIISSVAAFTSVGVGTVLCDIILLN</span><span class="topo-inside">FL</span><span class="topo-unknown">KGADQYKAKKFEEV</span></span>
+<span class="topo-ruler">   </span>
 <span class="topo-line"><span class="topo-unknown">NET</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1776,6 +1838,7 @@ The human P2X3 receptor (hP2X3) is a ligand-gated ion channel from Homo sapiens 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

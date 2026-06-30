@@ -104,7 +104,6 @@ The human cholecystokinin A receptor (CCKₐR) is a class A G-protein-coupled re
 
 **Crystallization:**
 
-<<<<<<< HEAD
 <table class="wiki-kv-table">
   <tbody>
     <tr>
@@ -131,14 +130,6 @@ The human cholecystokinin A receptor (CCKₐR) is a class A G-protein-coupled re
 </table>
 <div class="sequences" markdown="1">
 **Sequences (PDBTM):**
-=======
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| 1. Membrane preparation and solubilization | Detergent extraction | — | 50 mM HEPES pH 7.5, 500 mM NaCl, 10% glycerol, 1% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.1% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 10 μM ligand | Sf9 cell membranes solubilized for 2 h at 4°C |
-| 2. Ni-NTA affinity chromatography | Immobilized metal [affinity chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | — | 50 mM HEPES pH 7.5, 500 mM NaCl, 10% glycerol, 0.05% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.005% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 20 mM imidazole | Protein eluted with 200 mM imidazole |
-| 3. PreScission protease cleavage | Protease treatment | — | 50 mM HEPES pH 7.5, 500 mM NaCl, 10% glycerol, 0.05% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.005% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | Overnight cleavage at 4°C to remove N-terminal tag |
-| 4. Size-exclusion chromatography | [Superdex 200](/xray-mp-wiki/reagents/additives/superdex-200/) 10/300 GL | — | 25 mM HEPES pH 7.5, 150 mM NaCl, 0.02% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.002% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 10 μM ligand | Peak fractions concentrated to 20 mg/ml for crystallization |
->>>>>>> d0e2c437136bdf2885afc6a99e0a9d4117821696
 
 <div class="sequence-entry" markdown="1">
 **PDB <a class="pdb-link" href="https://www.rcsb.org/structure/7f8w">7F8W</a> — Chain A (0 TMs, non_tm)**
@@ -151,12 +142,13 @@ The human cholecystokinin A receptor (CCKₐR) is a class A G-protein-coupled re
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGCTLS</span><span class="topo-outside">AEDKAAVERSKMIDRNLRRDKRDARRELKLLLLGTGESGKSTFIKQMRIIHG</span><span class="topo-unknown">SG</span></span>
-<span class="topo-line"><span class="topo-unknown">YSDEDKRGFTKLVYQNIFTAMQAMIRAMDTLKIPYKYEHNKAHAQLVREVDVEKVSAFEN</span></span>
-<span class="topo-line"><span class="topo-unknown">PYVDAIKSLWNDPGIQECYDRRREYQLSDSTKYYLNDLDRVADPAYLPTQQDVLRVRVPT</span></span>
-<span class="topo-line"><span class="topo-unknown">T</span><span class="topo-outside">GIIEYPFDLQSVIFRMVDVGGQRSERRKWIHCFENVTSIMFLVALSEYDQVLVESDNEN</span></span>
-<span class="topo-line"><span class="topo-outside">RMEESKALFRTIITYPWFQNSSVILFLNKKDLLEEKIMYSHLVDYFPEYDGPQRDAQAAR</span></span>
-<span class="topo-line"><span class="topo-outside">EFILKMFVDLNPDSDKIIYSHFTCATDTENIRFVFAAVKDTILQLNLKEYNLV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGCTLS</span><span class="topo-outside">AEDKAAVERSKMIDRNLRRDKRDARRELKLLLLGTGESGKSTFIKQMRIIHG</span><span class="topo-unknown">SGYSDEDKRGFTKLVYQNIFTAMQAMIRAMDTLKIPYKYEHNKAHAQLVREVDVEKVSAFEN</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-unknown">PYVDAIKSLWNDPGIQECYDRRREYQLSDSTKYYLNDLDRVADPAYLPTQQDVLRVRVPTT</span><span class="topo-outside">GIIEYPFDLQSVIFRMVDVGGQRSERRKWIHCFENVTSIMFLVALSEYDQVLVESDNEN</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350   </span>
+<span class="topo-line"><span class="topo-outside">RMEESKALFRTIITYPWFQNSSVILFLNKKDLLEEKIMYSHLVDYFPEYDGPQRDAQAAREFILKMFVDLNPDSDKIIYSHFTCATDTENIRFVFAAVKDTILQLNLKEYNLV</span></span>
+<details class="topo-details"><summary>Topology coordinates (2 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -182,6 +174,7 @@ The human cholecystokinin A receptor (CCKₐR) is a class A G-protein-coupled re
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -189,7 +182,6 @@ The human cholecystokinin A receptor (CCKₐR) is a class A G-protein-coupled re
 <div class="sequence-entry" markdown="1">
 **PDB <a class="pdb-link" href="https://www.rcsb.org/structure/7f8w">7F8W</a> — Chain B (0 TMs, non_tm)**
 
-<<<<<<< HEAD
 <div class="sequence-display">
 <div class="topo-legend">
 <span class="topo-membrane-legend">&#9608; TM Helix</span>
@@ -198,12 +190,13 @@ The human cholecystokinin A receptor (CCKₐR) is a class A G-protein-coupled re
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MHHHHHHGSLLQSELDQLRQEAEQLKNQIRDARKACADATLSQIT</span><span class="topo-outside">NNIDPVGRIQMRTRR</span></span>
-<span class="topo-line"><span class="topo-outside">TLRGHLAKIYAMHWGTDSRLLVSASQDGKLIIWDSYTTNKVHAIPLRSSWVMTCAYAPSG</span></span>
-<span class="topo-line"><span class="topo-outside">NYVACGGLDNICSIYNLKTREGNVRVSRELAGHTGYLSCCRFLDDNQIVTSSGDTTCALW</span></span>
-<span class="topo-line"><span class="topo-outside">DIETGQQTTTFTGHTGDVMSLSLAPDTRLFVSGACDASAKLWDVREGMCRQTFTGHESDI</span></span>
-<span class="topo-line"><span class="topo-outside">NAICFFPNGNAFATGSDDATCRLFDLRADQELMTYSHDNIICGITSVSFSKSGRLLLAGY</span></span>
-<span class="topo-line"><span class="topo-outside">DDFNCNVWDALKADRAGVLAGHDNRVSCLGVTDDGMAVATGSWDSFLKIWN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MHHHHHHGSLLQSELDQLRQEAEQLKNQIRDARKACADATLSQIT</span><span class="topo-outside">NNIDPVGRIQMRTRRTLRGHLAKIYAMHWGTDSRLLVSASQDGKLIIWDSYTTNKVHAIPLRSSWVMTCAYAPSG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">NYVACGGLDNICSIYNLKTREGNVRVSRELAGHTGYLSCCRFLDDNQIVTSSGDTTCALWDIETGQQTTTFTGHTGDVMSLSLAPDTRLFVSGACDASAKLWDVREGMCRQTFTGHESDI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350 </span>
+<span class="topo-line"><span class="topo-outside">NAICFFPNGNAFATGSDDATCRLFDLRADQELMTYSHDNIICGITSVSFSKSGRLLLAGYDDFNCNVWDALKADRAGVLAGHDNRVSCLGVTDDGMAVATGSWDSFLKIWN</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -222,18 +215,10 @@ The human cholecystokinin A receptor (CCKₐR) is a class A G-protein-coupled re
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
-=======
-| Parameter | Value |
-|---|---|
-| Method | [LCP](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) (LCP) |
-| Protein sample | CCKₐR-T4L at ~20 mg/ml in 25 mM HEPES pH 7.5, 150 mM NaCl, 0.02% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.002% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) |
-| Temperature | 20°C |
-| Growth time | 3-7 days |
-| Notes | Data collected at SPring-8 beamline BL41XU. Structures solved by molecular replacement using T4L and a GPCR template. Diffraction data from [LCP](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/)-grown crystals with space group P2₁2₁2. |
->>>>>>> d0e2c437136bdf2885afc6a99e0a9d4117821696
 
 <div class="sequence-entry" markdown="1">
 **PDB <a class="pdb-link" href="https://www.rcsb.org/structure/7f8w">7F8W</a> — Chain C (0 TMs, non_tm)**
@@ -246,8 +231,9 @@ The human cholecystokinin A receptor (CCKₐR) is a class A G-protein-coupled re
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MASNNTASIAQARKLVEQLKMEANIDRI</span><span class="topo-outside">KVSKAAADLMAYCEAHAKEDPLLTPVPASENP</span></span>
-<span class="topo-line"><span class="topo-outside">F</span><span class="topo-unknown">REKKFFCAIL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70 </span>
+<span class="topo-line"><span class="topo-unknown">MASNNTASIAQARKLVEQLKMEANIDRI</span><span class="topo-outside">KVSKAAADLMAYCEAHAKEDPLLTPVPASENPF</span><span class="topo-unknown">REKKFFCAIL</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -266,6 +252,7 @@ The human cholecystokinin A receptor (CCKₐR) is a class A G-protein-coupled re
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -281,11 +268,13 @@ The human cholecystokinin A receptor (CCKₐR) is a class A G-protein-coupled re
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MVRTAVLILLLVRFSEPD</span><span class="topo-outside">VQLVESGGGLVQPGGSRKLSCSASGFAFSSFGMHWVRQAPEK</span></span>
-<span class="topo-line"><span class="topo-outside">GLEWVAYISSGSGTIYYADTVKGRFTISRDDPKNTLFLQMTSLRSEDTAMYYCVRSIYYY</span></span>
-<span class="topo-line"><span class="topo-outside">GSSPFDFWGQGTTLTVSS</span><span class="topo-unknown">GGGGSGGGGSGGGG</span><span class="topo-outside">SDIVMTQATSSVPVTPGESVSISCRSSK</span></span>
-<span class="topo-line"><span class="topo-outside">SLLHSNGNTYLYWFLQRPGQSPQLLIYRMSNLASGVPDRFSGSGSGTAFTLTISRLEAED</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MVRTAVLILLLVRFSEPD</span><span class="topo-outside">VQLVESGGGLVQPGGSRKLSCSASGFAFSSFGMHWVRQAPEKGLEWVAYISSGSGTIYYADTVKGRFTISRDDPKNTLFLQMTSLRSEDTAMYYCVRSIYYY</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">GSSPFDFWGQGTTLTVSS</span><span class="topo-unknown">GGGGSGGGGSGGGG</span><span class="topo-outside">SDIVMTQATSSVPVTPGESVSISCRSSKSLLHSNGNTYLYWFLQRPGQSPQLLIYRMSNLASGVPDRFSGSGSGTAFTLTISRLEAED</span></span>
+<span class="topo-ruler">       250       260        </span>
 <span class="topo-line"><span class="topo-outside">VGVYYCMQHLEYPLTFGAGTKLEL</span><span class="topo-unknown">KAAA</span></span>
+<details class="topo-details"><summary>Topology coordinates (2 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -311,6 +300,7 @@ The human cholecystokinin A receptor (CCKₐR) is a class A G-protein-coupled re
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -326,7 +316,9 @@ The human cholecystokinin A receptor (CCKₐR) is a class A G-protein-coupled re
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10       </span>
 <span class="topo-line"><span class="topo-inside">?GPWLEEEEEAYGWM</span><span class="topo-unknown">D?</span></span>
+<details class="topo-details"><summary>Topology coordinates (2 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -352,6 +344,7 @@ The human cholecystokinin A receptor (CCKₐR) is a class A G-protein-coupled re
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -367,14 +360,15 @@ The human cholecystokinin A receptor (CCKₐR) is a class A G-protein-coupled re
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">DYKDDDDGAPELLKLNRSVQGTGPGPGASLCRPGAPLLNSSSVGNLSCEPPRIRGAGTRE</span></span>
-<span class="topo-line"><span class="topo-unknown">LEL</span><span class="topo-inside">AI</span><span class="topo-membrane">RITLYAVIFLMSVGGNMLIIV</span><span class="topo-outside">VLGLSRRLRTVTNAFLL</span><span class="topo-membrane">SLAVSDLLLAVACMPF</span><span class="topo-inside">T</span></span>
-<span class="topo-line"><span class="topo-inside">LLPNLMGTFIFGTVICKA</span><span class="topo-membrane">VSYLMGVSVSVSTLSLV</span><span class="topo-outside">AIALERYSAICRPLQARVWQTRSHA</span></span>
-<span class="topo-line"><span class="topo-outside">ARVI</span><span class="topo-membrane">VATWLLSGLLMVPYP</span><span class="topo-inside">VYTVVQPVGPRVLQCVHRWPSARVRQ</span><span class="topo-membrane">TWSVLLLLLLFFIPG</span></span>
-<span class="topo-line"><span class="topo-membrane">VVMA</span><span class="topo-outside">VAYGLISRELYLGL</span><span class="topo-unknown">RFDGDSDSDSQSRVRNQGGLPGAVHQNGRCRPETGAVGEDSD</span></span>
-<span class="topo-line"><span class="topo-unknown">GCYVQLPRSRPALELTALTAPGPGSGSRPTQAKL</span><span class="topo-outside">LAKKRVVRMLLV</span><span class="topo-membrane">IVVLFFLCWLPVYS</span></span>
-<span class="topo-line"><span class="topo-membrane">ANT</span><span class="topo-inside">WRAFDGPGAHRALSGAPIS</span><span class="topo-membrane">FIHLLSYASACVNPLV</span><span class="topo-outside">YCFMH</span><span class="topo-unknown">RRFRQACLET</span><span class="topo-outside">C</span><span class="topo-unknown">ARCCPR</span></span>
-<span class="topo-line"><span class="topo-unknown">PPRARPREFLEVLFQGPWSHPQFEKGGGSGGGSGGSAWSHPQFEK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">DYKDDDDGAPELLKLNRSVQGTGPGPGASLCRPGAPLLNSSSVGNLSCEPPRIRGAGTRELEL</span><span class="topo-inside">AI</span><span class="topo-membrane">RITLYAVIFLMSVGGNMLIIV</span><span class="topo-outside">VLGLSRRLRTVTNAFLL</span><span class="topo-membrane">SLAVSDLLLAVACMPF</span><span class="topo-inside">T</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">LLPNLMGTFIFGTVICKA</span><span class="topo-membrane">VSYLMGVSVSVSTLSLV</span><span class="topo-outside">AIALERYSAICRPLQARVWQTRSHAARVI</span><span class="topo-membrane">VATWLLSGLLMVPYP</span><span class="topo-inside">VYTVVQPVGPRVLQCVHRWPSARVRQ</span><span class="topo-membrane">TWSVLLLLLLFFIPG</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">VVMA</span><span class="topo-outside">VAYGLISRELYLGL</span><span class="topo-unknown">RFDGDSDSDSQSRVRNQGGLPGAVHQNGRCRPETGAVGEDSDGCYVQLPRSRPALELTALTAPGPGSGSRPTQAKL</span><span class="topo-outside">LAKKRVVRMLLV</span><span class="topo-membrane">IVVLFFLCWLPVYS</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460     </span>
+<span class="topo-line"><span class="topo-membrane">ANT</span><span class="topo-inside">WRAFDGPGAHRALSGAPIS</span><span class="topo-membrane">FIHLLSYASACVNPLV</span><span class="topo-outside">YCFMH</span><span class="topo-unknown">RRFRQACLET</span><span class="topo-outside">C</span><span class="topo-unknown">ARCCPRPPRARPREFLEVLFQGPWSHPQFEKGGGSGGGSGGSAWSHPQFEK</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -512,6 +506,7 @@ The human cholecystokinin A receptor (CCKₐR) is a class A G-protein-coupled re
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -527,12 +522,13 @@ The human cholecystokinin A receptor (CCKₐR) is a class A G-protein-coupled re
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGCTVSAED</span><span class="topo-outside">KAAAERSKMIDKNLREDGEKAAREVKLLLLGAGESGKNTIVKQM</span><span class="topo-unknown">KIIHEDG</span></span>
-<span class="topo-line"><span class="topo-unknown">YSEEECRQYRAVVYSNTIQSIMAIVKAMGNLQIDFADPSRADDARQLFALSCTAEEQGVL</span></span>
-<span class="topo-line"><span class="topo-unknown">PDDLSGVIRRLWADHGVQACFGRSREYQLNDSAAYYLNDLERIAQSDYIPTQQDVLRTRV</span></span>
-<span class="topo-line"><span class="topo-unknown">KT</span><span class="topo-outside">TGIVETHFTFKDLHFKMFDVGAQRSERKKWIHCFEGVTAIIFCVALSAYDLVLAEDEE</span></span>
-<span class="topo-line"><span class="topo-outside">MNRMHASMKLFDSICNNKWFTDTSIILFLNKKDLFEEKITHSPLTICFPEYTGANKYDEA</span></span>
-<span class="topo-line"><span class="topo-outside">ASYIQSKFEDLNKRKDTKEIYTHFTCSTDTKNVQFVFDAVTDVIIKNNLKDCGLF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGCTVSAED</span><span class="topo-outside">KAAAERSKMIDKNLREDGEKAAREVKLLLLGAGESGKNTIVKQM</span><span class="topo-unknown">KIIHEDGYSEEECRQYRAVVYSNTIQSIMAIVKAMGNLQIDFADPSRADDARQLFALSCTAEEQGVL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-unknown">PDDLSGVIRRLWADHGVQACFGRSREYQLNDSAAYYLNDLERIAQSDYIPTQQDVLRTRVKT</span><span class="topo-outside">TGIVETHFTFKDLHFKMFDVGAQRSERKKWIHCFEGVTAIIFCVALSAYDLVLAEDEE</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350     </span>
+<span class="topo-line"><span class="topo-outside">MNRMHASMKLFDSICNNKWFTDTSIILFLNKKDLFEEKITHSPLTICFPEYTGANKYDEAASYIQSKFEDLNKRKDTKEIYTHFTCSTDTKNVQFVFDAVTDVIIKNNLKDCGLF</span></span>
+<details class="topo-details"><summary>Topology coordinates (2 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -558,6 +554,7 @@ The human cholecystokinin A receptor (CCKₐR) is a class A G-protein-coupled re
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -573,12 +570,13 @@ The human cholecystokinin A receptor (CCKₐR) is a class A G-protein-coupled re
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MHHHHHHGSLLQSELDQLRQEAEQLKNQIRDARKACADATLSQIT</span><span class="topo-outside">NNIDPVGRIQMRTRR</span></span>
-<span class="topo-line"><span class="topo-outside">TLRGHLAKIYAMHWGTDSRLLVSASQDGKLIIWDSYTTNKVHAIPLRSSWVMTCAYAPSG</span></span>
-<span class="topo-line"><span class="topo-outside">NYVACGGLDNICSIYNLKTREGNVRVSRELAGHTGYLSCCRFLDDNQIVTSSGDTTCALW</span></span>
-<span class="topo-line"><span class="topo-outside">DIETGQQTTTFTGHTGDVMSLSLAPDTRLFVSGACDASAKLWDVREGMCRQTFTGHESDI</span></span>
-<span class="topo-line"><span class="topo-outside">NAICFFPNGNAFATGSDDATCRLFDLRADQELMTYSHDNIICGITSVSFSKSGRLLLAGY</span></span>
-<span class="topo-line"><span class="topo-outside">DDFNCNVWDALKADRAGVLAGHDNRVSCLGVTDDGMAVATGSWDSFLKIWN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MHHHHHHGSLLQSELDQLRQEAEQLKNQIRDARKACADATLSQIT</span><span class="topo-outside">NNIDPVGRIQMRTRRTLRGHLAKIYAMHWGTDSRLLVSASQDGKLIIWDSYTTNKVHAIPLRSSWVMTCAYAPSG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">NYVACGGLDNICSIYNLKTREGNVRVSRELAGHTGYLSCCRFLDDNQIVTSSGDTTCALWDIETGQQTTTFTGHTGDVMSLSLAPDTRLFVSGACDASAKLWDVREGMCRQTFTGHESDI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350 </span>
+<span class="topo-line"><span class="topo-outside">NAICFFPNGNAFATGSDDATCRLFDLRADQELMTYSHDNIICGITSVSFSKSGRLLLAGYDDFNCNVWDALKADRAGVLAGHDNRVSCLGVTDDGMAVATGSWDSFLKIWN</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -597,6 +595,7 @@ The human cholecystokinin A receptor (CCKₐR) is a class A G-protein-coupled re
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -612,8 +611,9 @@ The human cholecystokinin A receptor (CCKₐR) is a class A G-protein-coupled re
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MASNNTASIAQARKLVEQLKMEANIDRI</span><span class="topo-outside">KVSKAAADLMAYCEAHAKEDPLLTPVPASENP</span></span>
-<span class="topo-line"><span class="topo-outside">F</span><span class="topo-unknown">REKKFFCAIL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70 </span>
+<span class="topo-line"><span class="topo-unknown">MASNNTASIAQARKLVEQLKMEANIDRI</span><span class="topo-outside">KVSKAAADLMAYCEAHAKEDPLLTPVPASENPF</span><span class="topo-unknown">REKKFFCAIL</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -632,6 +632,7 @@ The human cholecystokinin A receptor (CCKₐR) is a class A G-protein-coupled re
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -647,7 +648,9 @@ The human cholecystokinin A receptor (CCKₐR) is a class A G-protein-coupled re
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10       </span>
 <span class="topo-line"><span class="topo-inside">?GPWLEEEEEAYGWM</span><span class="topo-unknown">D?</span></span>
+<details class="topo-details"><summary>Topology coordinates (2 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -673,6 +676,7 @@ The human cholecystokinin A receptor (CCKₐR) is a class A G-protein-coupled re
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -688,14 +692,15 @@ The human cholecystokinin A receptor (CCKₐR) is a class A G-protein-coupled re
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">DYKDDDDGAPELLKLNRSVQGTGPGPGASLCRPGAPLLNSSSVGNLSCEPPRIRGAGTRE</span></span>
-<span class="topo-line"><span class="topo-unknown">LEL</span><span class="topo-inside">AI</span><span class="topo-membrane">RITLYAVIFLMSVGGNMLIIVVLG</span><span class="topo-outside">LSRRLRTVTNA</span><span class="topo-membrane">FLLSLAVSDLLLAVACMPF</span><span class="topo-inside">T</span></span>
-<span class="topo-line"><span class="topo-inside">LLPNLMGTFIFGTVICKA</span><span class="topo-membrane">VSYLMGVSVSVSTLSLVAIAL</span><span class="topo-outside">ERYSAICRPLQARVWQTRSHA</span></span>
-<span class="topo-line"><span class="topo-outside">A</span><span class="topo-membrane">RVIVATWLLSGLLMVPYP</span><span class="topo-inside">VYTVVQPVGPRVLQCVHRWPSARVRQT</span><span class="topo-membrane">WSVLLLLLLFFIPG</span></span>
-<span class="topo-line"><span class="topo-membrane">VVMAVAY</span><span class="topo-outside">GLISRELYLGL</span><span class="topo-unknown">RFDGDSDSDSQSRVRNQGGLPGAVHQNGRCRPETGAVGEDSD</span></span>
-<span class="topo-line"><span class="topo-unknown">GCYVQLPRSRPALELTALTAPGPGSGSRPTQAKL</span><span class="topo-outside">LAKKRVVR</span><span class="topo-membrane">MLLVIVVLFFLCWLPVYS</span></span>
-<span class="topo-line"><span class="topo-membrane">ANT</span><span class="topo-inside">WRAFDGPGAHRALSGAPISF</span><span class="topo-membrane">IHLLSYASACVNPLVYCFM</span><span class="topo-outside">H</span><span class="topo-unknown">RRFRQACLET</span><span class="topo-outside">C</span><span class="topo-unknown">ARCCPR</span></span>
-<span class="topo-line"><span class="topo-unknown">PPRARPREFLEVLFQGPWSHPQFEKGGGSGGGSGGSAWSHPQFEK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">DYKDDDDGAPELLKLNRSVQGTGPGPGASLCRPGAPLLNSSSVGNLSCEPPRIRGAGTRELEL</span><span class="topo-inside">AI</span><span class="topo-membrane">RITLYAVIFLMSVGGNMLIIVVLG</span><span class="topo-outside">LSRRLRTVTNA</span><span class="topo-membrane">FLLSLAVSDLLLAVACMPF</span><span class="topo-inside">T</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">LLPNLMGTFIFGTVICKA</span><span class="topo-membrane">VSYLMGVSVSVSTLSLVAIAL</span><span class="topo-outside">ERYSAICRPLQARVWQTRSHAA</span><span class="topo-membrane">RVIVATWLLSGLLMVPYP</span><span class="topo-inside">VYTVVQPVGPRVLQCVHRWPSARVRQT</span><span class="topo-membrane">WSVLLLLLLFFIPG</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">VVMAVAY</span><span class="topo-outside">GLISRELYLGL</span><span class="topo-unknown">RFDGDSDSDSQSRVRNQGGLPGAVHQNGRCRPETGAVGEDSDGCYVQLPRSRPALELTALTAPGPGSGSRPTQAKL</span><span class="topo-outside">LAKKRVVR</span><span class="topo-membrane">MLLVIVVLFFLCWLPVYS</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460     </span>
+<span class="topo-line"><span class="topo-membrane">ANT</span><span class="topo-inside">WRAFDGPGAHRALSGAPISF</span><span class="topo-membrane">IHLLSYASACVNPLVYCFM</span><span class="topo-outside">H</span><span class="topo-unknown">RRFRQACLET</span><span class="topo-outside">C</span><span class="topo-unknown">ARCCPRPPRARPREFLEVLFQGPWSHPQFEKGGGSGGGSGGSAWSHPQFEK</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -833,6 +838,7 @@ The human cholecystokinin A receptor (CCKₐR) is a class A G-protein-coupled re
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -848,12 +854,13 @@ The human cholecystokinin A receptor (CCKₐR) is a class A G-protein-coupled re
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGCTLS</span><span class="topo-outside">AEDKAAVERSKMIDRNLRRDKRDARRELKLLLLGTGESGKSTFIKQMRIIHG</span><span class="topo-unknown">SG</span></span>
-<span class="topo-line"><span class="topo-unknown">YSDEDKRGFTKLVYQNIFTAMQAMIRAMDTLKIPYKYEHNKAHAQLVREVDVEKVSAFEN</span></span>
-<span class="topo-line"><span class="topo-unknown">PYVDAIKSLWNDPGIQECYDRRREYQLSDSTKYYLNDLDRVADPAYLPTQQDVLRVRVPT</span></span>
-<span class="topo-line"><span class="topo-unknown">T</span><span class="topo-outside">GIIEYPFDLQSVIFRMVDVGGQRSERRKWIHCFENVTSIMFLVALSEYDQVLVESDNEN</span></span>
-<span class="topo-line"><span class="topo-outside">RMEESKALFRTIITYPWFQNSSVILFLNKKDLLEEKIMYSHLVDYFPEYDGPQRDAQAAR</span></span>
-<span class="topo-line"><span class="topo-outside">EFILKMFVDLNPDSDKIIYSHFTCATDTENIRFVFAAVKDTILQLNLKEYNLV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGCTLS</span><span class="topo-outside">AEDKAAVERSKMIDRNLRRDKRDARRELKLLLLGTGESGKSTFIKQMRIIHG</span><span class="topo-unknown">SGYSDEDKRGFTKLVYQNIFTAMQAMIRAMDTLKIPYKYEHNKAHAQLVREVDVEKVSAFEN</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-unknown">PYVDAIKSLWNDPGIQECYDRRREYQLSDSTKYYLNDLDRVADPAYLPTQQDVLRVRVPTT</span><span class="topo-outside">GIIEYPFDLQSVIFRMVDVGGQRSERRKWIHCFENVTSIMFLVALSEYDQVLVESDNEN</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350   </span>
+<span class="topo-line"><span class="topo-outside">RMEESKALFRTIITYPWFQNSSVILFLNKKDLLEEKIMYSHLVDYFPEYDGPQRDAQAAREFILKMFVDLNPDSDKIIYSHFTCATDTENIRFVFAAVKDTILQLNLKEYNLV</span></span>
+<details class="topo-details"><summary>Topology coordinates (2 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -879,6 +886,7 @@ The human cholecystokinin A receptor (CCKₐR) is a class A G-protein-coupled re
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -894,12 +902,13 @@ The human cholecystokinin A receptor (CCKₐR) is a class A G-protein-coupled re
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MHHHHHHGSLLQSELDQLRQEAEQLKNQIRDARKACADATLSQIT</span><span class="topo-outside">NNIDPVGRIQMRTRR</span></span>
-<span class="topo-line"><span class="topo-outside">TLRGHLAKIYAMHWGTDSRLLVSASQDGKLIIWDSYTTNKVHAIPLRSSWVMTCAYAPSG</span></span>
-<span class="topo-line"><span class="topo-outside">NYVACGGLDNICSIYNLKTREGNVRVSRELAGHTGYLSCCRFLDDNQIVTSSGDTTCALW</span></span>
-<span class="topo-line"><span class="topo-outside">DIETGQQTTTFTGHTGDVMSLSLAPDTRLFVSGACDASAKLWDVREGMCRQTFTGHESDI</span></span>
-<span class="topo-line"><span class="topo-outside">NAICFFPNGNAFATGSDDATCRLFDLRADQELMTYSHDNIICGITSVSFSKSGRLLLAGY</span></span>
-<span class="topo-line"><span class="topo-outside">DDFNCNVWDALKADRAGVLAGHDNRVSCLGVTDDGMAVATGSWDSFLKIWN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MHHHHHHGSLLQSELDQLRQEAEQLKNQIRDARKACADATLSQIT</span><span class="topo-outside">NNIDPVGRIQMRTRRTLRGHLAKIYAMHWGTDSRLLVSASQDGKLIIWDSYTTNKVHAIPLRSSWVMTCAYAPSG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">NYVACGGLDNICSIYNLKTREGNVRVSRELAGHTGYLSCCRFLDDNQIVTSSGDTTCALWDIETGQQTTTFTGHTGDVMSLSLAPDTRLFVSGACDASAKLWDVREGMCRQTFTGHESDI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350 </span>
+<span class="topo-line"><span class="topo-outside">NAICFFPNGNAFATGSDDATCRLFDLRADQELMTYSHDNIICGITSVSFSKSGRLLLAGYDDFNCNVWDALKADRAGVLAGHDNRVSCLGVTDDGMAVATGSWDSFLKIWN</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -918,6 +927,7 @@ The human cholecystokinin A receptor (CCKₐR) is a class A G-protein-coupled re
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -933,8 +943,9 @@ The human cholecystokinin A receptor (CCKₐR) is a class A G-protein-coupled re
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MASNNTASIAQARKLVEQLKMEANIDRI</span><span class="topo-outside">KVSKAAADLMAYCEAHAKEDPLLTPVPASENP</span></span>
-<span class="topo-line"><span class="topo-outside">F</span><span class="topo-unknown">REKKFFCAIL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70 </span>
+<span class="topo-line"><span class="topo-unknown">MASNNTASIAQARKLVEQLKMEANIDRI</span><span class="topo-outside">KVSKAAADLMAYCEAHAKEDPLLTPVPASENPF</span><span class="topo-unknown">REKKFFCAIL</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -953,6 +964,7 @@ The human cholecystokinin A receptor (CCKₐR) is a class A G-protein-coupled re
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -968,11 +980,13 @@ The human cholecystokinin A receptor (CCKₐR) is a class A G-protein-coupled re
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MVRTAVLILLLVRFSEPD</span><span class="topo-outside">VQLVESGGGLVQPGGSRKLSCSASGFAFSSFGMHWVRQAPEK</span></span>
-<span class="topo-line"><span class="topo-outside">GLEWVAYISSGSGTIYYADTVKGRFTISRDDPKNTLFLQMTSLRSEDTAMYYCVRSIYYY</span></span>
-<span class="topo-line"><span class="topo-outside">GSSPFDFWGQGTTLTVSS</span><span class="topo-unknown">GGGGSGGGGSGGGG</span><span class="topo-outside">SDIVMTQATSSVPVTPGESVSISCRSSK</span></span>
-<span class="topo-line"><span class="topo-outside">SLLHSNGNTYLYWFLQRPGQSPQLLIYRMSNLASGVPDRFSGSGSGTAFTLTISRLEAED</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MVRTAVLILLLVRFSEPD</span><span class="topo-outside">VQLVESGGGLVQPGGSRKLSCSASGFAFSSFGMHWVRQAPEKGLEWVAYISSGSGTIYYADTVKGRFTISRDDPKNTLFLQMTSLRSEDTAMYYCVRSIYYY</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">GSSPFDFWGQGTTLTVSS</span><span class="topo-unknown">GGGGSGGGGSGGGG</span><span class="topo-outside">SDIVMTQATSSVPVTPGESVSISCRSSKSLLHSNGNTYLYWFLQRPGQSPQLLIYRMSNLASGVPDRFSGSGSGTAFTLTISRLEAED</span></span>
+<span class="topo-ruler">       250       260        </span>
 <span class="topo-line"><span class="topo-outside">VGVYYCMQHLEYPLTFGAGTKLEL</span><span class="topo-unknown">KAAA</span></span>
+<details class="topo-details"><summary>Topology coordinates (2 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -998,6 +1012,7 @@ The human cholecystokinin A receptor (CCKₐR) is a class A G-protein-coupled re
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1013,7 +1028,9 @@ The human cholecystokinin A receptor (CCKₐR) is a class A G-protein-coupled re
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10       </span>
 <span class="topo-line"><span class="topo-inside">?GPWLEEEEEAYGWM</span><span class="topo-unknown">D?</span></span>
+<details class="topo-details"><summary>Topology coordinates (2 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1039,6 +1056,7 @@ The human cholecystokinin A receptor (CCKₐR) is a class A G-protein-coupled re
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1054,14 +1072,15 @@ The human cholecystokinin A receptor (CCKₐR) is a class A G-protein-coupled re
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">DYKDDDDGAPELLKLNRSVQGTGPGPGASLCRPGAPLLNSSSVGNLSCEPPRIRGAGTRE</span></span>
-<span class="topo-line"><span class="topo-unknown">LEL</span><span class="topo-inside">AI</span><span class="topo-membrane">RITLYAVIFLMSVGGNMLIIV</span><span class="topo-outside">VLGLSRRLRTVTNAFLL</span><span class="topo-membrane">SLAVSDLLLAVACMPF</span><span class="topo-inside">T</span></span>
-<span class="topo-line"><span class="topo-inside">LLPNLMGTFIFGTVICKA</span><span class="topo-membrane">VSYLMGVSVSVSTLSLV</span><span class="topo-outside">AIALERYSAICRPLQARVWQTRSHA</span></span>
-<span class="topo-line"><span class="topo-outside">ARVI</span><span class="topo-membrane">VATWLLSGLLMVPYP</span><span class="topo-inside">VYTVVQPVGPRVLQCVHRWPSARVRQ</span><span class="topo-membrane">TWSVLLLLLLFFIPG</span></span>
-<span class="topo-line"><span class="topo-membrane">VVMA</span><span class="topo-outside">VAYGLISRELYLGL</span><span class="topo-unknown">RFDGDSDSDSQSRVRNQGGLPGAVHQNGRCRPETGAVGEDSD</span></span>
-<span class="topo-line"><span class="topo-unknown">GCYVQLPRSRPALELTALTAPGPGSGSRPTQAKL</span><span class="topo-outside">LAKKRVVRMLLV</span><span class="topo-membrane">IVVLFFLCWLPVYS</span></span>
-<span class="topo-line"><span class="topo-membrane">ANT</span><span class="topo-inside">WRAFDGPGAHRALSGAPIS</span><span class="topo-membrane">FIHLLSYASACVNPLV</span><span class="topo-outside">YCFMH</span><span class="topo-unknown">RRFRQACLET</span><span class="topo-outside">C</span><span class="topo-unknown">ARCCPR</span></span>
-<span class="topo-line"><span class="topo-unknown">PPRARPREFLEVLFQGPWSHPQFEKGGGSGGGSGGSAWSHPQFEK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">DYKDDDDGAPELLKLNRSVQGTGPGPGASLCRPGAPLLNSSSVGNLSCEPPRIRGAGTRELEL</span><span class="topo-inside">AI</span><span class="topo-membrane">RITLYAVIFLMSVGGNMLIIV</span><span class="topo-outside">VLGLSRRLRTVTNAFLL</span><span class="topo-membrane">SLAVSDLLLAVACMPF</span><span class="topo-inside">T</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">LLPNLMGTFIFGTVICKA</span><span class="topo-membrane">VSYLMGVSVSVSTLSLV</span><span class="topo-outside">AIALERYSAICRPLQARVWQTRSHAARVI</span><span class="topo-membrane">VATWLLSGLLMVPYP</span><span class="topo-inside">VYTVVQPVGPRVLQCVHRWPSARVRQ</span><span class="topo-membrane">TWSVLLLLLLFFIPG</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">VVMA</span><span class="topo-outside">VAYGLISRELYLGL</span><span class="topo-unknown">RFDGDSDSDSQSRVRNQGGLPGAVHQNGRCRPETGAVGEDSDGCYVQLPRSRPALELTALTAPGPGSGSRPTQAKL</span><span class="topo-outside">LAKKRVVRMLLV</span><span class="topo-membrane">IVVLFFLCWLPVYS</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460     </span>
+<span class="topo-line"><span class="topo-membrane">ANT</span><span class="topo-inside">WRAFDGPGAHRALSGAPIS</span><span class="topo-membrane">FIHLLSYASACVNPLV</span><span class="topo-outside">YCFMH</span><span class="topo-unknown">RRFRQACLET</span><span class="topo-outside">C</span><span class="topo-unknown">ARCCPRPPRARPREFLEVLFQGPWSHPQFEKGGGSGGGSGGSAWSHPQFEK</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1199,6 +1218,7 @@ The human cholecystokinin A receptor (CCKₐR) is a class A G-protein-coupled re
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

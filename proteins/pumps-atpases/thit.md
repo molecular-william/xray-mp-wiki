@@ -68,10 +68,11 @@ hydrogen bonds and aromatic stacking interactions.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MHHHHHHHHAMSNSKF</span><span class="topo-inside">NVRLL</span><span class="topo-membrane">TEIAFMAALAFIISLIPNTV</span><span class="topo-outside">YGWI</span><span class="topo-membrane">IVEIACIPILLLSL</span><span class="topo-inside">R</span></span>
-<span class="topo-line"><span class="topo-inside">RGL</span><span class="topo-membrane">TAGLVGGLIWGILSMITGHAY</span><span class="topo-outside">ILSL</span><span class="topo-membrane">SQAFLEYLVAPVSLGIAGL</span><span class="topo-inside">FRQKTAPLKLAPV</span></span>
-<span class="topo-line"><span class="topo-membrane">LLGTFVAVLLKYFFHFIA</span><span class="topo-outside">GIIFWSQYAWKGWGAVAYSL</span><span class="topo-membrane">AVNGISGILTAIAAFVILIIF</span><span class="topo-inside">V</span></span>
-<span class="topo-line"><span class="topo-inside">KKFPKLFIHSNY</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MHHHHHHHHAMSNSKF</span><span class="topo-inside">NVRLL</span><span class="topo-membrane">TEIAFMAALAFIISLIPNTV</span><span class="topo-outside">YGWI</span><span class="topo-membrane">IVEIACIPILLLSL</span><span class="topo-inside">RRGL</span><span class="topo-membrane">TAGLVGGLIWGILSMITGHAY</span><span class="topo-outside">ILSL</span><span class="topo-membrane">SQAFLEYLVAPVSLGIAGL</span><span class="topo-inside">FRQKTAPLKLAPV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190  </span>
+<span class="topo-line"><span class="topo-membrane">LLGTFVAVLLKYFFHFIA</span><span class="topo-outside">GIIFWSQYAWKGWGAVAYSL</span><span class="topo-membrane">AVNGISGILTAIAAFVILIIF</span><span class="topo-inside">VKKFPKLFIHSNY</span></span>
+<details class="topo-details"><summary>Topology coordinates (14 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -181,6 +182,7 @@ hydrogen bonds and aromatic stacking interactions.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

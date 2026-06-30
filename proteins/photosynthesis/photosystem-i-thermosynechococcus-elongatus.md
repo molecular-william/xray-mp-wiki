@@ -100,19 +100,21 @@ Photosystem I (PS I) from the thermophilic cyanobacterium Thermosynechococcus el
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MTISPPEREPKV</span><span class="topo-outside">RVVVDNDPVPTSFEKWAKPGHFDRTLARGPQTTTWIWNLHALAHDFDT</span></span>
-<span class="topo-line"><span class="topo-outside">HTSDLEDISRKIF</span><span class="topo-membrane">SAHFGHLAVVFIWLSGMYF</span><span class="topo-inside">HGAKFSNYEAWLADPTGIKPSAQVVWPI</span></span>
-<span class="topo-line"><span class="topo-inside">VGQGILNGDVGGGFHGIQITSGLFQLWRASGITNEFQLY</span><span class="topo-membrane">CTAIGGLVMAGLMLFAGW</span><span class="topo-outside">FHY</span></span>
-<span class="topo-line"><span class="topo-outside">HKRAPKLEWFQNVES</span><span class="topo-membrane">MLNHHLAGLLGLGSLAWAGH</span><span class="topo-inside">QIHVSLPINKLLDAGVAAKDIPLPH</span></span>
-<span class="topo-line"><span class="topo-inside">EFILNPSLMAELYPKVDWGFFS</span><span class="topo-unknown">GVI</span><span class="topo-inside">PFFTFNWAAYSDFLTFNGGLNPVTGGLWLSDTAHH</span></span>
-<span class="topo-line"><span class="topo-membrane">HLAIAVLFIIAGHMY</span><span class="topo-outside">RTNWGIGHSLKEILEAHKGPFTGAGHKGLYEVLTTSWHAQ</span><span class="topo-membrane">LAINL</span></span>
-<span class="topo-line"><span class="topo-membrane">AMMGSLSIIVAQH</span><span class="topo-inside">MYAMPPYPYLATDYPTQLSL</span><span class="topo-membrane">FTHHMWIGGFLVVGGAA</span><span class="topo-outside">HGAIFMVRDY</span></span>
-<span class="topo-line"><span class="topo-outside">DPAMNQNNVLDRVLRHRDAI</span><span class="topo-membrane">ISHLNWVCIFLGFHSFGLYVH</span><span class="topo-inside">NDTMRAFGRPQDMFSDTGI</span></span>
-<span class="topo-line"><span class="topo-inside">QLQPVFAQWVQNLHTLAPGGTAPNAAATASVAFGGDVVAVGGKVAMMPIVLGTADFM</span><span class="topo-membrane">VHH</span></span>
-<span class="topo-line"><span class="topo-membrane">IHAFTIHVTVLILL</span><span class="topo-outside">KGVLFARSSRLIPDKANLGFRFPCDGPGRGGTCQVSGWDH</span><span class="topo-membrane">VFLGLF</span></span>
-<span class="topo-line"><span class="topo-membrane">WMYNCISVVIF</span><span class="topo-inside">HFSWKMQSDVWGTVAPDGTVSHITGGNFAQSAITINGWLRDFLWAQASQ</span></span>
-<span class="topo-line"><span class="topo-inside">VIGSYGSALSAYGLL</span><span class="topo-membrane">FLGAHFIWAFSLMFLFS</span><span class="topo-outside">GRGYWQELIESIVWAHNKLKVAPAIQPR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MTISPPEREPKV</span><span class="topo-outside">RVVVDNDPVPTSFEKWAKPGHFDRTLARGPQTTTWIWNLHALAHDFDTHTSDLEDISRKIF</span><span class="topo-membrane">SAHFGHLAVVFIWLSGMYF</span><span class="topo-inside">HGAKFSNYEAWLADPTGIKPSAQVVWPI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">VGQGILNGDVGGGFHGIQITSGLFQLWRASGITNEFQLY</span><span class="topo-membrane">CTAIGGLVMAGLMLFAGW</span><span class="topo-outside">FHYHKRAPKLEWFQNVES</span><span class="topo-membrane">MLNHHLAGLLGLGSLAWAGH</span><span class="topo-inside">QIHVSLPINKLLDAGVAAKDIPLPH</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">EFILNPSLMAELYPKVDWGFFS</span><span class="topo-unknown">GVI</span><span class="topo-inside">PFFTFNWAAYSDFLTFNGGLNPVTGGLWLSDTAHH</span><span class="topo-membrane">HLAIAVLFIIAGHMY</span><span class="topo-outside">RTNWGIGHSLKEILEAHKGPFTGAGHKGLYEVLTTSWHAQ</span><span class="topo-membrane">LAINL</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">AMMGSLSIIVAQH</span><span class="topo-inside">MYAMPPYPYLATDYPTQLSL</span><span class="topo-membrane">FTHHMWIGGFLVVGGAA</span><span class="topo-outside">HGAIFMVRDYDPAMNQNNVLDRVLRHRDAI</span><span class="topo-membrane">ISHLNWVCIFLGFHSFGLYVH</span><span class="topo-inside">NDTMRAFGRPQDMFSDTGI</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-inside">QLQPVFAQWVQNLHTLAPGGTAPNAAATASVAFGGDVVAVGGKVAMMPIVLGTADFM</span><span class="topo-membrane">VHHIHAFTIHVTVLILL</span><span class="topo-outside">KGVLFARSSRLIPDKANLGFRFPCDGPGRGGTCQVSGWDH</span><span class="topo-membrane">VFLGLF</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-membrane">WMYNCISVVIF</span><span class="topo-inside">HFSWKMQSDVWGTVAPDGTVSHITGGNFAQSAITINGWLRDFLWAQASQVIGSYGSALSAYGLL</span><span class="topo-membrane">FLGAHFIWAFSLMFLFS</span><span class="topo-outside">GRGYWQELIESIVWAHNKLKVAPAIQPR</span></span>
+<span class="topo-ruler">       730       740       750     </span>
 <span class="topo-line"><span class="topo-outside">ALSIIQG</span><span class="topo-membrane">RAVGVAHYLLGGIATTW</span><span class="topo-inside">AFFLARIISVG</span></span>
+<details class="topo-details"><summary>Topology coordinates (26 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -306,6 +308,7 @@ Photosystem I (PS I) from the thermophilic cyanobacterium Thermosynechococcus el
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -321,19 +324,21 @@ Photosystem I (PS I) from the thermophilic cyanobacterium Thermosynechococcus el
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">ATKFPKFSQDLAQDPTTRRIWYAIAMAHDFESHDGMTEENLYQKIF</span><span class="topo-membrane">ASHFGHLAIIFLWV</span></span>
-<span class="topo-line"><span class="topo-membrane">SGSLF</span><span class="topo-inside">HVAWQGNFEQWVQDPVNTRPIAHAIWDPQFGKAAVDAFTQAGASNPVDIAYSGVY</span></span>
-<span class="topo-line"><span class="topo-inside">HWWYTIGMRTNGDLYQ</span><span class="topo-membrane">GAIFLLILASLALFAGWL</span><span class="topo-outside">HLQPKFRPSLSWFKNAESR</span><span class="topo-membrane">LNHHLAG</span></span>
-<span class="topo-line"><span class="topo-membrane">LFGVSSLAWAGH</span><span class="topo-inside">LIHVAIPESRGQHVGWDNFLSTMPHPAGLAPFFTGNWGVYAQNPDTAS</span></span>
-<span class="topo-line"><span class="topo-inside">HVFGTAQGAGTAILTFLGGFHPQTESLWLTDMAHH</span><span class="topo-membrane">HLAIAVLFIVAGHMY</span><span class="topo-outside">RTQFGIGHSI</span></span>
-<span class="topo-line"><span class="topo-outside">KEMMDAKDFFGTKVEGPFNMPHQGIYETYNNSLHFQL</span><span class="topo-membrane">GWHLACLGVITSLVAQH</span><span class="topo-inside">MYSLPP</span></span>
-<span class="topo-line"><span class="topo-inside">YAFIAQDHTTMAAL</span><span class="topo-membrane">YTHHQYIAGFLMVGAFA</span><span class="topo-outside">HGAIFLVRDYDPAQNKGNVLDRVLQHKEA</span></span>
-<span class="topo-line"><span class="topo-outside">II</span><span class="topo-membrane">SHLSWVSLFLGFHTLGLYVH</span><span class="topo-inside">NDVVVAFGTPEKQILIEPVFAQFIQAAHGKLLYGFDTL</span></span>
-<span class="topo-line"><span class="topo-inside">LSNPDSIASTAWPNYGNVWLPGWLDAINSGTNSLFLTIGPGDF</span><span class="topo-membrane">LVHHAIALGLHTTTLIL</span></span>
-<span class="topo-line"><span class="topo-membrane">V</span><span class="topo-outside">KGALDARGSKLMPDKKDFGYAFPCDGPGRGGTCDISAWDA</span><span class="topo-membrane">FYLAMFWMLNTIGWVTF</span><span class="topo-inside">YW</span></span>
-<span class="topo-line"><span class="topo-inside">HWKHLGVWEGNVAQFNESSTYLMGWLRDYLWLNSSQLINGYNPFGTNNLSVWAWM</span><span class="topo-membrane">FLFGH</span></span>
-<span class="topo-line"><span class="topo-membrane">LVWATGFMFLISW</span><span class="topo-outside">RGYWQELIETLVWAHERTPLANLVRWKDKPVALSIVQA</span><span class="topo-membrane">RLVGLAHFS</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">ATKFPKFSQDLAQDPTTRRIWYAIAMAHDFESHDGMTEENLYQKIF</span><span class="topo-membrane">ASHFGHLAIIFLWVSGSLF</span><span class="topo-inside">HVAWQGNFEQWVQDPVNTRPIAHAIWDPQFGKAAVDAFTQAGASNPVDIAYSGVY</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">HWWYTIGMRTNGDLYQ</span><span class="topo-membrane">GAIFLLILASLALFAGWL</span><span class="topo-outside">HLQPKFRPSLSWFKNAESR</span><span class="topo-membrane">LNHHLAGLFGVSSLAWAGH</span><span class="topo-inside">LIHVAIPESRGQHVGWDNFLSTMPHPAGLAPFFTGNWGVYAQNPDTAS</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">HVFGTAQGAGTAILTFLGGFHPQTESLWLTDMAHH</span><span class="topo-membrane">HLAIAVLFIVAGHMY</span><span class="topo-outside">RTQFGIGHSIKEMMDAKDFFGTKVEGPFNMPHQGIYETYNNSLHFQL</span><span class="topo-membrane">GWHLACLGVITSLVAQH</span><span class="topo-inside">MYSLPP</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">YAFIAQDHTTMAAL</span><span class="topo-membrane">YTHHQYIAGFLMVGAFA</span><span class="topo-outside">HGAIFLVRDYDPAQNKGNVLDRVLQHKEAII</span><span class="topo-membrane">SHLSWVSLFLGFHTLGLYVH</span><span class="topo-inside">NDVVVAFGTPEKQILIEPVFAQFIQAAHGKLLYGFDTL</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-inside">LSNPDSIASTAWPNYGNVWLPGWLDAINSGTNSLFLTIGPGDF</span><span class="topo-membrane">LVHHAIALGLHTTTLILV</span><span class="topo-outside">KGALDARGSKLMPDKKDFGYAFPCDGPGRGGTCDISAWDA</span><span class="topo-membrane">FYLAMFWMLNTIGWVTF</span><span class="topo-inside">YW</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-inside">HWKHLGVWEGNVAQFNESSTYLMGWLRDYLWLNSSQLINGYNPFGTNNLSVWAWM</span><span class="topo-membrane">FLFGHLVWATGFMFLISW</span><span class="topo-outside">RGYWQELIETLVWAHERTPLANLVRWKDKPVALSIVQA</span><span class="topo-membrane">RLVGLAHFS</span></span>
+<span class="topo-ruler">       730       740</span>
 <span class="topo-line"><span class="topo-membrane">VGYILTYA</span><span class="topo-inside">AFLIASTAAKF</span><span class="topo-unknown">G</span></span>
+<details class="topo-details"><summary>Topology coordinates (24 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -513,6 +518,7 @@ Photosystem I (PS I) from the thermophilic cyanobacterium Thermosynechococcus el
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -528,8 +534,9 @@ Photosystem I (PS I) from the thermophilic cyanobacterium Thermosynechococcus el
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">AHTVKIYDTCIGCTQCVRACPTDVLEMVPWDGCKAGQIASSPRTEDCVGCKRCETACPTD</span></span>
-<span class="topo-line"><span class="topo-outside">FLSIRVYLGAETTRSMGLAY</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80</span>
+<span class="topo-line"><span class="topo-outside">AHTVKIYDTCIGCTQCVRACPTDVLEMVPWDGCKAGQIASSPRTEDCVGCKRCETACPTDFLSIRVYLGAETTRSMGLAY</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -548,6 +555,7 @@ Photosystem I (PS I) from the thermophilic cyanobacterium Thermosynechococcus el
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -563,9 +571,11 @@ Photosystem I (PS I) from the thermophilic cyanobacterium Thermosynechococcus el
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">TTLTGQPPLYGGSTGGLLSAADTEEKYAITWTSPKEQVFEMPTAGAAVMREGENLVYFAR</span></span>
-<span class="topo-line"><span class="topo-outside">KEQCLALAAQQLRPRKINDYKIYRIFPDGETVLIHPKDGVFPEKVNKGREAVNSVPRSIG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">TTLTGQPPLYGGSTGGLLSAADTEEKYAITWTSPKEQVFEMPTAGAAVMREGENLVYFARKEQCLALAAQQLRPRKINDYKIYRIFPDGETVLIHPKDGVFPEKVNKGREAVNSVPRSIG</span></span>
+<span class="topo-ruler">       130        </span>
 <span class="topo-line"><span class="topo-outside">QNPNPSQLKFTGKKPYDP</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -584,6 +594,7 @@ Photosystem I (PS I) from the thermophilic cyanobacterium Thermosynechococcus el
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -599,8 +610,9 @@ Photosystem I (PS I) from the thermophilic cyanobacterium Thermosynechococcus el
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">VQRGSKVKILRPESYWYNEVGTVASVDQTPGVKYPVIVRFDKVNYTGYSGSASGVNTNNF</span></span>
-<span class="topo-line"><span class="topo-outside">ALHEVQEVA</span><span class="topo-unknown">PPKKGK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70     </span>
+<span class="topo-line"><span class="topo-outside">VQRGSKVKILRPESYWYNEVGTVASVDQTPGVKYPVIVRFDKVNYTGYSGSASGVNTNNFALHEVQEVA</span><span class="topo-unknown">PPKKGK</span></span>
+<details class="topo-details"><summary>Topology coordinates (2 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -626,6 +638,7 @@ Photosystem I (PS I) from the thermophilic cyanobacterium Thermosynechococcus el
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -641,9 +654,11 @@ Photosystem I (PS I) from the thermophilic cyanobacterium Thermosynechococcus el
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MRRFLALLLVLTLWLGFTPLASA</span><span class="topo-inside">DVAGLVPCKDSPAFQKRAAAAVNTTADPASGQKRFER</span></span>
-<span class="topo-line"><span class="topo-inside">YSQALCGEDGLPHLVVDGRLSRAGDF</span><span class="topo-membrane">LIPSVLFLYIAGWIGWVG</span><span class="topo-outside">RAYLIAVRNSGEANEK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MRRFLALLLVLTLWLGFTPLASA</span><span class="topo-inside">DVAGLVPCKDSPAFQKRAAAAVNTTADPASGQKRFERYSQALCGEDGLPHLVVDGRLSRAGDF</span><span class="topo-membrane">LIPSVLFLYIAGWIGWVG</span><span class="topo-outside">RAYLIAVRNSGEANEK</span></span>
+<span class="topo-ruler">       130       140       150       160    </span>
 <span class="topo-line"><span class="topo-outside">EIIIDVPLAIKCMLTGFAWPLAALKELASGELTAKDNEITVSPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -683,6 +698,7 @@ Photosystem I (PS I) from the thermophilic cyanobacterium Thermosynechococcus el
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -698,7 +714,9 @@ Photosystem I (PS I) from the thermophilic cyanobacterium Thermosynechococcus el
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        </span>
 <span class="topo-line"><span class="topo-inside">MMGSYAASFLPWI</span><span class="topo-membrane">FIPVVCWLMPTVVMGLLF</span><span class="topo-outside">LYIEGEA</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -731,6 +749,7 @@ Photosystem I (PS I) from the thermophilic cyanobacterium Thermosynechococcus el
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -746,7 +765,9 @@ Photosystem I (PS I) from the thermophilic cyanobacterium Thermosynechococcus el
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40 </span>
 <span class="topo-line"><span class="topo-outside">MKHFLTYLSTA</span><span class="topo-membrane">PVLAAIWMTITAGILIEFN</span><span class="topo-inside">RFYPDLLFHPL</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -779,6 +800,7 @@ Photosystem I (PS I) from the thermophilic cyanobacterium Thermosynechococcus el
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -794,8 +816,9 @@ Photosystem I (PS I) from the thermophilic cyanobacterium Thermosynechococcus el
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MVLATLPDTTWTPSVGLVV</span><span class="topo-inside">I</span><span class="topo-membrane">LCNLFAIALGRY</span><span class="topo-outside">AIQSRGKGPGL</span><span class="topo-unknown">PIALPALFEGF</span><span class="topo-outside">GLP</span><span class="topo-membrane">ELL</span></span>
-<span class="topo-line"><span class="topo-membrane">ATTSFGHLLAAGVVSG</span><span class="topo-inside">L</span><span class="topo-unknown">QYAGAL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80   </span>
+<span class="topo-line"><span class="topo-unknown">MVLATLPDTTWTPSVGLVV</span><span class="topo-inside">I</span><span class="topo-membrane">LCNLFAIALGRY</span><span class="topo-outside">AIQSRGKGPGL</span><span class="topo-unknown">PIALPALFEGF</span><span class="topo-outside">GLP</span><span class="topo-membrane">ELLATTSFGHLLAAGVVSG</span><span class="topo-inside">L</span><span class="topo-unknown">QYAGAL</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -870,6 +893,7 @@ Photosystem I (PS I) from the thermophilic cyanobacterium Thermosynechococcus el
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -885,9 +909,11 @@ Photosystem I (PS I) from the thermophilic cyanobacterium Thermosynechococcus el
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">AEE</span><span class="topo-outside">LVKPYNGDPFVGHLSTPISDSGLVKTFIGNLPAYRQGLSPI</span><span class="topo-membrane">LRGLEVGMAHGYFLIG</span></span>
-<span class="topo-line"><span class="topo-membrane">PWV</span><span class="topo-inside">KLGPLRDSDVANLG</span><span class="topo-membrane">GLISGIALILVATACLAA</span><span class="topo-outside">YGLVSFQKGGSSSDPLKTSEGWSQF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">AEE</span><span class="topo-outside">LVKPYNGDPFVGHLSTPISDSGLVKTFIGNLPAYRQGLSPI</span><span class="topo-membrane">LRGLEVGMAHGYFLIGPWV</span><span class="topo-inside">KLGPLRDSDVANLG</span><span class="topo-membrane">GLISGIALILVATACLAA</span><span class="topo-outside">YGLVSFQKGGSSSDPLKTSEGWSQF</span></span>
+<span class="topo-ruler">       130       140       150    </span>
 <span class="topo-line"><span class="topo-membrane">TAGFFVGAMGSAFVAFFL</span><span class="topo-inside">LENFLVVDGIMTGLFN</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -955,6 +981,7 @@ Photosystem I (PS I) from the thermophilic cyanobacterium Thermosynechococcus el
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -970,7 +997,9 @@ Photosystem I (PS I) from the thermophilic cyanobacterium Thermosynechococcus el
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30 </span>
 <span class="topo-line"><span class="topo-inside">MALTDTQVY</span><span class="topo-membrane">VALVIALLPAVLAFRLS</span><span class="topo-outside">TELYK</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1003,6 +1032,7 @@ Photosystem I (PS I) from the thermophilic cyanobacterium Thermosynechococcus el
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1018,7 +1048,9 @@ Photosystem I (PS I) from the thermophilic cyanobacterium Thermosynechococcus el
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30     </span>
 <span class="topo-line"><span class="topo-unknown">ATKSAK</span><span class="topo-outside">PTYAFR</span><span class="topo-membrane">TFWAVLLLAINFLVAAYY</span><span class="topo-inside">FGILK</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1058,6 +1090,7 @@ Photosystem I (PS I) from the thermophilic cyanobacterium Thermosynechococcus el
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1073,19 +1106,21 @@ Photosystem I (PS I) from the thermophilic cyanobacterium Thermosynechococcus el
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MTISPPEREPKV</span><span class="topo-outside">RVVVDNDPVPTSFEKWAKPGHFDRTLARGPQTTTWIWNLHALAHDFDT</span></span>
-<span class="topo-line"><span class="topo-outside">HTSDLEDISRKIFSA</span><span class="topo-membrane">HFGHLAVVFIWLSGM</span><span class="topo-inside">YFHGAKFSNYEAWLADPTGIKPSAQVVWPI</span></span>
-<span class="topo-line"><span class="topo-inside">VGQGILNGDVGGGFHGIQITSGLFQLWRASGITNEFQLYCT</span><span class="topo-membrane">AIGGLVMAGLMLFAG</span><span class="topo-outside">WFHY</span></span>
-<span class="topo-line"><span class="topo-outside">HKRAPKLEWFQNVE</span><span class="topo-membrane">SMLNHHLAGLLGLGSLA</span><span class="topo-inside">WAGHQIHVSLPINKLLDAGVAAKDIPLPH</span></span>
-<span class="topo-line"><span class="topo-inside">EFILNPSLMAELYPKVDWGFFS</span><span class="topo-unknown">GVI</span><span class="topo-inside">PFFTFNWAAYSDFLTFNGGLNPVTGGLWLSDTAHH</span></span>
-<span class="topo-line"><span class="topo-inside">HLAI</span><span class="topo-membrane">AVLFIIAGHMYR</span><span class="topo-outside">TNWGIGHSLKEILEAHKGPFTGAGHKGLYEVLTTSWHAQL</span><span class="topo-membrane">AINL</span></span>
-<span class="topo-line"><span class="topo-membrane">AMMGSLSIIVA</span><span class="topo-inside">QHMYAMPPYPYLATDYPTQLSLFT</span><span class="topo-membrane">HHMWIGGFLVVGGA</span><span class="topo-outside">AHGAIFMVRDY</span></span>
-<span class="topo-line"><span class="topo-outside">DPAMNQNNVLDRVLRHRDAI</span><span class="topo-membrane">ISHLNWVCIFLGFHSFG</span><span class="topo-inside">LYVHNDTMRAFGRPQDMFSDTGI</span></span>
-<span class="topo-line"><span class="topo-inside">QLQPVFAQWVQNLHTLAPGGTAPNAAATASVAFGGDVVAVGGKVAMMPIVLGTADFMVH</span><span class="topo-membrane">H</span></span>
-<span class="topo-line"><span class="topo-membrane">IHAFTIHVTVLILL</span><span class="topo-outside">KGVLFARSSRLIPDKANLGFRFPCDGPGRGGTCQVSGWDHV</span><span class="topo-membrane">FLGLF</span></span>
-<span class="topo-line"><span class="topo-membrane">WMYNCISVV</span><span class="topo-inside">IFHFSWKMQSDVWGTVAPDGTVSHITGGNFAQSAITINGWLRDFLWAQASQ</span></span>
-<span class="topo-line"><span class="topo-inside">VIGSYGSALSAYGL</span><span class="topo-membrane">LFLGAHFIWAFSLMFLF</span><span class="topo-outside">SGRGYWQELIESIVWAHNKLKVAPAIQPR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MTISPPEREPKV</span><span class="topo-outside">RVVVDNDPVPTSFEKWAKPGHFDRTLARGPQTTTWIWNLHALAHDFDTHTSDLEDISRKIFSA</span><span class="topo-membrane">HFGHLAVVFIWLSGM</span><span class="topo-inside">YFHGAKFSNYEAWLADPTGIKPSAQVVWPI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">VGQGILNGDVGGGFHGIQITSGLFQLWRASGITNEFQLYCT</span><span class="topo-membrane">AIGGLVMAGLMLFAG</span><span class="topo-outside">WFHYHKRAPKLEWFQNVE</span><span class="topo-membrane">SMLNHHLAGLLGLGSLA</span><span class="topo-inside">WAGHQIHVSLPINKLLDAGVAAKDIPLPH</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">EFILNPSLMAELYPKVDWGFFS</span><span class="topo-unknown">GVI</span><span class="topo-inside">PFFTFNWAAYSDFLTFNGGLNPVTGGLWLSDTAHHHLAI</span><span class="topo-membrane">AVLFIIAGHMYR</span><span class="topo-outside">TNWGIGHSLKEILEAHKGPFTGAGHKGLYEVLTTSWHAQL</span><span class="topo-membrane">AINL</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">AMMGSLSIIVA</span><span class="topo-inside">QHMYAMPPYPYLATDYPTQLSLFT</span><span class="topo-membrane">HHMWIGGFLVVGGA</span><span class="topo-outside">AHGAIFMVRDYDPAMNQNNVLDRVLRHRDAI</span><span class="topo-membrane">ISHLNWVCIFLGFHSFG</span><span class="topo-inside">LYVHNDTMRAFGRPQDMFSDTGI</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-inside">QLQPVFAQWVQNLHTLAPGGTAPNAAATASVAFGGDVVAVGGKVAMMPIVLGTADFMVH</span><span class="topo-membrane">HIHAFTIHVTVLILL</span><span class="topo-outside">KGVLFARSSRLIPDKANLGFRFPCDGPGRGGTCQVSGWDHV</span><span class="topo-membrane">FLGLF</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-membrane">WMYNCISVV</span><span class="topo-inside">IFHFSWKMQSDVWGTVAPDGTVSHITGGNFAQSAITINGWLRDFLWAQASQVIGSYGSALSAYGL</span><span class="topo-membrane">LFLGAHFIWAFSLMFLF</span><span class="topo-outside">SGRGYWQELIESIVWAHNKLKVAPAIQPR</span></span>
+<span class="topo-ruler">       730       740       750     </span>
 <span class="topo-line"><span class="topo-outside">ALSIIQGRA</span><span class="topo-membrane">VGVAHYLLGGIATTW</span><span class="topo-inside">AFFLARIISVG</span></span>
+<details class="topo-details"><summary>Topology coordinates (26 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1279,6 +1314,7 @@ Photosystem I (PS I) from the thermophilic cyanobacterium Thermosynechococcus el
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1294,19 +1330,21 @@ Photosystem I (PS I) from the thermophilic cyanobacterium Thermosynechococcus el
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">ATKFPKFSQDLAQDPTTRRIWYAIAMAHDFESHDGMTEENLYQKIFASHFG</span><span class="topo-membrane">HLAIIFLWV</span></span>
-<span class="topo-line"><span class="topo-membrane">SGSLFH</span><span class="topo-inside">VAWQGNFEQWVQDPVNTRPIAHAIWDPQFGKAAVDAFTQAGASNPVDIAYSGVY</span></span>
-<span class="topo-line"><span class="topo-inside">HWWYTIGMRTNGDL</span><span class="topo-membrane">YQGAIFLLILASLAL</span><span class="topo-outside">FAGWLHLQPKFRPSLSWFKNAESRLNHHLA</span><span class="topo-membrane">G</span></span>
-<span class="topo-line"><span class="topo-membrane">LFGVSSLAWAGHLIH</span><span class="topo-inside">VAIPESRGQHVGWDNFLSTMPHPAGLAPFFTGNWGVYAQNPDTAS</span></span>
-<span class="topo-line"><span class="topo-inside">HVFGTAQGAGTAILTFLGGFHPQTESLWLT</span><span class="topo-membrane">DMAHHHLAIAVLFIV</span><span class="topo-outside">AGHMYRTQFGIGHSI</span></span>
-<span class="topo-line"><span class="topo-outside">KEMMDAKDFFGTKVEGPFNMPHQGIYETYNNSLHFQLGWHLA</span><span class="topo-membrane">CLGVITSLVAQHMYSL</span><span class="topo-inside">PP</span></span>
-<span class="topo-line"><span class="topo-inside">YAFIAQDHTTMAA</span><span class="topo-membrane">LYTHHQYIAGFLMV</span><span class="topo-outside">GAFAHGAIFLVRDYDPAQNKGNVLDRVLQHKEA</span></span>
-<span class="topo-line"><span class="topo-outside">IISHLSWV</span><span class="topo-membrane">SLFLGFHTLGLYVHNDV</span><span class="topo-inside">VVAFGTPEKQILIEPVFAQFIQAAHGKLLYGFDTL</span></span>
-<span class="topo-line"><span class="topo-inside">LSNPDSIASTAWPNYGNVWLPGWLDAINSGTNSLFLTIGP</span><span class="topo-membrane">GDFLVHHAIALGLHTT</span><span class="topo-outside">TLIL</span></span>
-<span class="topo-line"><span class="topo-outside">VKGALDARGSKLMPDKKDFGYAFPCDGPGRGGTCDISAWDAFYL</span><span class="topo-membrane">AMFWMLNTIGWVTFYW</span></span>
-<span class="topo-line"><span class="topo-inside">HWKHLGVWEGNVAQFNESSTYLMGWLRDYLWLNSSQLINGYNPFGTNNLSVWAWM</span><span class="topo-membrane">FLFGH</span></span>
-<span class="topo-line"><span class="topo-membrane">LVWATGFMFLIS</span><span class="topo-outside">WRGYWQELIETLVWAHERTPLANLVRWKDKPVALSIVQARLV</span><span class="topo-membrane">GLAHFS</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">ATKFPKFSQDLAQDPTTRRIWYAIAMAHDFESHDGMTEENLYQKIFASHFG</span><span class="topo-membrane">HLAIIFLWVSGSLFH</span><span class="topo-inside">VAWQGNFEQWVQDPVNTRPIAHAIWDPQFGKAAVDAFTQAGASNPVDIAYSGVY</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">HWWYTIGMRTNGDL</span><span class="topo-membrane">YQGAIFLLILASLAL</span><span class="topo-outside">FAGWLHLQPKFRPSLSWFKNAESRLNHHLA</span><span class="topo-membrane">GLFGVSSLAWAGHLIH</span><span class="topo-inside">VAIPESRGQHVGWDNFLSTMPHPAGLAPFFTGNWGVYAQNPDTAS</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">HVFGTAQGAGTAILTFLGGFHPQTESLWLT</span><span class="topo-membrane">DMAHHHLAIAVLFIV</span><span class="topo-outside">AGHMYRTQFGIGHSIKEMMDAKDFFGTKVEGPFNMPHQGIYETYNNSLHFQLGWHLA</span><span class="topo-membrane">CLGVITSLVAQHMYSL</span><span class="topo-inside">PP</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">YAFIAQDHTTMAA</span><span class="topo-membrane">LYTHHQYIAGFLMV</span><span class="topo-outside">GAFAHGAIFLVRDYDPAQNKGNVLDRVLQHKEAIISHLSWV</span><span class="topo-membrane">SLFLGFHTLGLYVHNDV</span><span class="topo-inside">VVAFGTPEKQILIEPVFAQFIQAAHGKLLYGFDTL</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-inside">LSNPDSIASTAWPNYGNVWLPGWLDAINSGTNSLFLTIGP</span><span class="topo-membrane">GDFLVHHAIALGLHTT</span><span class="topo-outside">TLILVKGALDARGSKLMPDKKDFGYAFPCDGPGRGGTCDISAWDAFYL</span><span class="topo-membrane">AMFWMLNTIGWVTFYW</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-inside">HWKHLGVWEGNVAQFNESSTYLMGWLRDYLWLNSSQLINGYNPFGTNNLSVWAWM</span><span class="topo-membrane">FLFGHLVWATGFMFLIS</span><span class="topo-outside">WRGYWQELIETLVWAHERTPLANLVRWKDKPVALSIVQARLV</span><span class="topo-membrane">GLAHFS</span></span>
+<span class="topo-ruler">       730       740</span>
 <span class="topo-line"><span class="topo-membrane">VGYILTYA</span><span class="topo-inside">AFLIASTAAKF</span><span class="topo-unknown">G</span></span>
+<details class="topo-details"><summary>Topology coordinates (24 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1486,6 +1524,7 @@ Photosystem I (PS I) from the thermophilic cyanobacterium Thermosynechococcus el
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1501,8 +1540,9 @@ Photosystem I (PS I) from the thermophilic cyanobacterium Thermosynechococcus el
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">AHTVKIYDTCIGCTQCVRACPTDVLEMVPWDGCKAGQIASSPRTEDCVGCKRCETACPTD</span></span>
-<span class="topo-line"><span class="topo-outside">FLSIRVYLGAETTRSMGLAY</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80</span>
+<span class="topo-line"><span class="topo-outside">AHTVKIYDTCIGCTQCVRACPTDVLEMVPWDGCKAGQIASSPRTEDCVGCKRCETACPTDFLSIRVYLGAETTRSMGLAY</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1521,6 +1561,7 @@ Photosystem I (PS I) from the thermophilic cyanobacterium Thermosynechococcus el
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1536,9 +1577,11 @@ Photosystem I (PS I) from the thermophilic cyanobacterium Thermosynechococcus el
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">TTLTGQPPLYGGSTGGLLSAADTEEKYAITWTSPKEQVFEMPTAGAAVMREGENLVYFAR</span></span>
-<span class="topo-line"><span class="topo-outside">KEQCLALAAQQLRPRKINDYKIYRIFPDGETVLIHPKDGVFPEKVNKGREAVNSVPRSIG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">TTLTGQPPLYGGSTGGLLSAADTEEKYAITWTSPKEQVFEMPTAGAAVMREGENLVYFARKEQCLALAAQQLRPRKINDYKIYRIFPDGETVLIHPKDGVFPEKVNKGREAVNSVPRSIG</span></span>
+<span class="topo-ruler">       130        </span>
 <span class="topo-line"><span class="topo-outside">QNPNPSQLKFTGKKPYDP</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1557,6 +1600,7 @@ Photosystem I (PS I) from the thermophilic cyanobacterium Thermosynechococcus el
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1572,8 +1616,9 @@ Photosystem I (PS I) from the thermophilic cyanobacterium Thermosynechococcus el
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">VQRGSKVKILRPESYWYNEVGTVASVDQTPGVKYPVIVRFDKVNYTGYSGSASGVNTNNF</span></span>
-<span class="topo-line"><span class="topo-outside">ALHEVQEVA</span><span class="topo-unknown">PPKKGK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70     </span>
+<span class="topo-line"><span class="topo-outside">VQRGSKVKILRPESYWYNEVGTVASVDQTPGVKYPVIVRFDKVNYTGYSGSASGVNTNNFALHEVQEVA</span><span class="topo-unknown">PPKKGK</span></span>
+<details class="topo-details"><summary>Topology coordinates (2 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1599,6 +1644,7 @@ Photosystem I (PS I) from the thermophilic cyanobacterium Thermosynechococcus el
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1614,9 +1660,11 @@ Photosystem I (PS I) from the thermophilic cyanobacterium Thermosynechococcus el
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MRRFLALLLVLTLWLGFTPLASA</span><span class="topo-inside">DVAGLVPCKDSPAFQKRAAAAVNTTADPASGQKRFER</span></span>
-<span class="topo-line"><span class="topo-inside">YSQALCGEDGLPHLVVDGRLSRA</span><span class="topo-membrane">GDFLIPSVLFLYIA</span><span class="topo-outside">GWIGWVGRAYLIAVRNSGEANEK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MRRFLALLLVLTLWLGFTPLASA</span><span class="topo-inside">DVAGLVPCKDSPAFQKRAAAAVNTTADPASGQKRFERYSQALCGEDGLPHLVVDGRLSRA</span><span class="topo-membrane">GDFLIPSVLFLYIA</span><span class="topo-outside">GWIGWVGRAYLIAVRNSGEANEK</span></span>
+<span class="topo-ruler">       130       140       150       160    </span>
 <span class="topo-line"><span class="topo-outside">EIIIDVPLAIKCMLTGFAWPLAALKELASGELTAKDNEITVSPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1656,6 +1704,7 @@ Photosystem I (PS I) from the thermophilic cyanobacterium Thermosynechococcus el
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1671,7 +1720,9 @@ Photosystem I (PS I) from the thermophilic cyanobacterium Thermosynechococcus el
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        </span>
 <span class="topo-line"><span class="topo-inside">MMGSYAASFLPWI</span><span class="topo-membrane">FIPVVCWLMPTVVMG</span><span class="topo-outside">LLFLYIEGEA</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1704,6 +1755,7 @@ Photosystem I (PS I) from the thermophilic cyanobacterium Thermosynechococcus el
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1719,7 +1771,9 @@ Photosystem I (PS I) from the thermophilic cyanobacterium Thermosynechococcus el
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40 </span>
 <span class="topo-line"><span class="topo-outside">MKHFLTYLSTAPVLA</span><span class="topo-membrane">AIWMTITAGILIEFNRFY</span><span class="topo-inside">PDLLFHPL</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1752,6 +1806,7 @@ Photosystem I (PS I) from the thermophilic cyanobacterium Thermosynechococcus el
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1767,8 +1822,9 @@ Photosystem I (PS I) from the thermophilic cyanobacterium Thermosynechococcus el
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MVLATLPDTTWTPSVGLVV</span><span class="topo-inside">ILC</span><span class="topo-membrane">NLFAIALGRYAIQS</span><span class="topo-outside">RGKGPGL</span><span class="topo-unknown">PIALPALFEGF</span><span class="topo-outside">G</span><span class="topo-membrane">LPELL</span></span>
-<span class="topo-line"><span class="topo-membrane">ATTSFGHLL</span><span class="topo-inside">AAGVVSGL</span><span class="topo-unknown">QYAGAL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80   </span>
+<span class="topo-line"><span class="topo-unknown">MVLATLPDTTWTPSVGLVV</span><span class="topo-inside">ILC</span><span class="topo-membrane">NLFAIALGRYAIQS</span><span class="topo-outside">RGKGPGL</span><span class="topo-unknown">PIALPALFEGF</span><span class="topo-outside">G</span><span class="topo-membrane">LPELLATTSFGHLL</span><span class="topo-inside">AAGVVSGL</span><span class="topo-unknown">QYAGAL</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1843,6 +1899,7 @@ Photosystem I (PS I) from the thermophilic cyanobacterium Thermosynechococcus el
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1858,9 +1915,11 @@ Photosystem I (PS I) from the thermophilic cyanobacterium Thermosynechococcus el
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">AEE</span><span class="topo-outside">LVKPYNGDPFVGHLSTPISDSGLVKTFIGNLPAYRQGLSPI</span><span class="topo-membrane">LRGLEVGMAHGYFLI</span><span class="topo-inside">G</span></span>
-<span class="topo-line"><span class="topo-inside">PWVKLGPLRDSDVANLGGL</span><span class="topo-membrane">ISGIALILVATACLA</span><span class="topo-outside">AYGLVSFQKGGSSSDPLKTSEGWSQF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">AEE</span><span class="topo-outside">LVKPYNGDPFVGHLSTPISDSGLVKTFIGNLPAYRQGLSPI</span><span class="topo-membrane">LRGLEVGMAHGYFLI</span><span class="topo-inside">GPWVKLGPLRDSDVANLGGL</span><span class="topo-membrane">ISGIALILVATACLA</span><span class="topo-outside">AYGLVSFQKGGSSSDPLKTSEGWSQF</span></span>
+<span class="topo-ruler">       130       140       150    </span>
 <span class="topo-line"><span class="topo-membrane">TAGFFVGAMGSAFVA</span><span class="topo-inside">FFLLENFLVVDGIMTGLFN</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1928,6 +1987,7 @@ Photosystem I (PS I) from the thermophilic cyanobacterium Thermosynechococcus el
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1943,7 +2003,9 @@ Photosystem I (PS I) from the thermophilic cyanobacterium Thermosynechococcus el
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30 </span>
 <span class="topo-line"><span class="topo-inside">MALTDTQV</span><span class="topo-membrane">YVALVIALLPAVLAF</span><span class="topo-outside">RLSTELYK</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1976,6 +2038,7 @@ Photosystem I (PS I) from the thermophilic cyanobacterium Thermosynechococcus el
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1991,7 +2054,9 @@ Photosystem I (PS I) from the thermophilic cyanobacterium Thermosynechococcus el
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30     </span>
 <span class="topo-line"><span class="topo-unknown">ATKSAK</span><span class="topo-outside">PTYAFRTFWAVLL</span><span class="topo-membrane">LAINFLVAAYYFGIL</span><span class="topo-inside">K</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2031,6 +2096,7 @@ Photosystem I (PS I) from the thermophilic cyanobacterium Thermosynechococcus el
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2046,19 +2112,21 @@ Photosystem I (PS I) from the thermophilic cyanobacterium Thermosynechococcus el
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MTISPPEREPKV</span><span class="topo-outside">RVVVDNDPVPTSFEKWAKPGHFDRTLARGPQTTTWIWNLHALAHDFDT</span></span>
-<span class="topo-line"><span class="topo-outside">HTSDLEDISRKIFS</span><span class="topo-membrane">AHFGHLAVVFIWLSGMYF</span><span class="topo-inside">HGAKFSNYEAWLADPTGIKPSAQVVWPI</span></span>
-<span class="topo-line"><span class="topo-inside">VGQGILNGDVGGGFHGIQITSGLFQLWRASGITNEFQLYC</span><span class="topo-membrane">TAIGGLVMAGLMLFAGW</span><span class="topo-outside">FHY</span></span>
-<span class="topo-line"><span class="topo-outside">HKRAPKLEWFQNVES</span><span class="topo-membrane">MLNHHLAGLLGLGSLAWAGH</span><span class="topo-inside">QIHVSLPINKLLDAGVAAKDIPLPH</span></span>
-<span class="topo-line"><span class="topo-inside">EFILNPSLMAELYPKVDWGFFS</span><span class="topo-unknown">GVI</span><span class="topo-inside">PFFTFNWAAYSDFLTFNGGLNPVTGGLWLSDTAHH</span></span>
-<span class="topo-line"><span class="topo-membrane">HLAIAVLFIIAGHMY</span><span class="topo-outside">RTNWGIGHSLKEILEAHKGPFTGAGHKGLYEVLTTSWHAQ</span><span class="topo-membrane">LAINL</span></span>
-<span class="topo-line"><span class="topo-membrane">AMMGSLSIIVAQH</span><span class="topo-inside">MYAMPPYPYLATDYPTQLSL</span><span class="topo-membrane">FTHHMWIGGFLVVGGAA</span><span class="topo-outside">HGAIFMVRDY</span></span>
-<span class="topo-line"><span class="topo-outside">DPAMNQNNVLDRVLRHRDAI</span><span class="topo-membrane">ISHLNWVCIFLGFHSFGLYVH</span><span class="topo-inside">NDTMRAFGRPQDMFSDTGI</span></span>
-<span class="topo-line"><span class="topo-inside">QLQPVFAQWVQNLHTLAPGGTAPNAAATASVAFGGDVVAVGGKVAMMPIVLGTADFM</span><span class="topo-membrane">VHH</span></span>
-<span class="topo-line"><span class="topo-membrane">IHAFTIHVTVLILL</span><span class="topo-outside">KGVLFARSSRLIPDKANLGFRFPCDGPGRGGTCQVSGWDH</span><span class="topo-membrane">VFLGLF</span></span>
-<span class="topo-line"><span class="topo-membrane">WMYNCISVVIF</span><span class="topo-inside">HFSWKMQSDVWGTVAPDGTVSHITGGNFAQSAITINGWLRDFLWAQASQ</span></span>
-<span class="topo-line"><span class="topo-inside">VIGSYGSALSAYGLL</span><span class="topo-membrane">FLGAHFIWAFSLMFLFS</span><span class="topo-outside">GRGYWQELIESIVWAHNKLKVAPAIQPR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MTISPPEREPKV</span><span class="topo-outside">RVVVDNDPVPTSFEKWAKPGHFDRTLARGPQTTTWIWNLHALAHDFDTHTSDLEDISRKIFS</span><span class="topo-membrane">AHFGHLAVVFIWLSGMYF</span><span class="topo-inside">HGAKFSNYEAWLADPTGIKPSAQVVWPI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">VGQGILNGDVGGGFHGIQITSGLFQLWRASGITNEFQLYC</span><span class="topo-membrane">TAIGGLVMAGLMLFAGW</span><span class="topo-outside">FHYHKRAPKLEWFQNVES</span><span class="topo-membrane">MLNHHLAGLLGLGSLAWAGH</span><span class="topo-inside">QIHVSLPINKLLDAGVAAKDIPLPH</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">EFILNPSLMAELYPKVDWGFFS</span><span class="topo-unknown">GVI</span><span class="topo-inside">PFFTFNWAAYSDFLTFNGGLNPVTGGLWLSDTAHH</span><span class="topo-membrane">HLAIAVLFIIAGHMY</span><span class="topo-outside">RTNWGIGHSLKEILEAHKGPFTGAGHKGLYEVLTTSWHAQ</span><span class="topo-membrane">LAINL</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">AMMGSLSIIVAQH</span><span class="topo-inside">MYAMPPYPYLATDYPTQLSL</span><span class="topo-membrane">FTHHMWIGGFLVVGGAA</span><span class="topo-outside">HGAIFMVRDYDPAMNQNNVLDRVLRHRDAI</span><span class="topo-membrane">ISHLNWVCIFLGFHSFGLYVH</span><span class="topo-inside">NDTMRAFGRPQDMFSDTGI</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-inside">QLQPVFAQWVQNLHTLAPGGTAPNAAATASVAFGGDVVAVGGKVAMMPIVLGTADFM</span><span class="topo-membrane">VHHIHAFTIHVTVLILL</span><span class="topo-outside">KGVLFARSSRLIPDKANLGFRFPCDGPGRGGTCQVSGWDH</span><span class="topo-membrane">VFLGLF</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-membrane">WMYNCISVVIF</span><span class="topo-inside">HFSWKMQSDVWGTVAPDGTVSHITGGNFAQSAITINGWLRDFLWAQASQVIGSYGSALSAYGLL</span><span class="topo-membrane">FLGAHFIWAFSLMFLFS</span><span class="topo-outside">GRGYWQELIESIVWAHNKLKVAPAIQPR</span></span>
+<span class="topo-ruler">       730       740       750     </span>
 <span class="topo-line"><span class="topo-outside">ALSIIQG</span><span class="topo-membrane">RAVGVAHYLLGGIATTW</span><span class="topo-inside">AFFLARIISVG</span></span>
+<details class="topo-details"><summary>Topology coordinates (26 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2252,6 +2320,7 @@ Photosystem I (PS I) from the thermophilic cyanobacterium Thermosynechococcus el
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2267,19 +2336,21 @@ Photosystem I (PS I) from the thermophilic cyanobacterium Thermosynechococcus el
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">ATKFPKFSQDLAQDPTTRRIWYAIAMAHDFESHDGMTEENLYQKIFA</span><span class="topo-membrane">SHFGHLAIIFLWV</span></span>
-<span class="topo-line"><span class="topo-membrane">SGSLF</span><span class="topo-inside">HVAWQGNFEQWVQDPVNTRPIAHAIWDPQFGKAAVDAFTQAGASNPVDIAYSGVY</span></span>
-<span class="topo-line"><span class="topo-inside">HWWYTIGMRTNGDLYQ</span><span class="topo-membrane">GAIFLLILASLALFAGW</span><span class="topo-outside">LHLQPKFRPSLSWFKNAESR</span><span class="topo-membrane">LNHHLAG</span></span>
-<span class="topo-line"><span class="topo-membrane">LFGVSSLAWAGH</span><span class="topo-inside">LIHVAIPESRGQHVGWDNFLSTMPHPAGLAPFFTGNWGVYAQNPDTAS</span></span>
-<span class="topo-line"><span class="topo-inside">HVFGTAQGAGTAILTFLGGFHPQTESLWLTDMAHH</span><span class="topo-membrane">HLAIAVLFIVAGHMY</span><span class="topo-outside">RTQFGIGHSI</span></span>
-<span class="topo-line"><span class="topo-outside">KEMMDAKDFFGTKVEGPFNMPHQGIYETYNNSLHFQL</span><span class="topo-membrane">GWHLACLGVITSLVAQH</span><span class="topo-inside">MYSLPP</span></span>
-<span class="topo-line"><span class="topo-inside">YAFIAQDHTTMAAL</span><span class="topo-membrane">YTHHQYIAGFLMVGAFA</span><span class="topo-outside">HGAIFLVRDYDPAQNKGNVLDRVLQHKEA</span></span>
-<span class="topo-line"><span class="topo-outside">IIS</span><span class="topo-membrane">HLSWVSLFLGFHTLGLYVH</span><span class="topo-inside">NDVVVAFGTPEKQILIEPVFAQFIQAAHGKLLYGFDTL</span></span>
-<span class="topo-line"><span class="topo-inside">LSNPDSIASTAWPNYGNVWLPGWLDAINSGTNSLFLTIGPGDF</span><span class="topo-membrane">LVHHAIALGLHTTTLIL</span></span>
-<span class="topo-line"><span class="topo-membrane">V</span><span class="topo-outside">KGALDARGSKLMPDKKDFGYAFPCDGPGRGGTCDISAWDA</span><span class="topo-membrane">FYLAMFWMLNTIGWVTF</span><span class="topo-inside">YW</span></span>
-<span class="topo-line"><span class="topo-inside">HWKHLGVWEGNVAQFNESSTYLMGWLRDYLWLNSSQLINGYNPFGTNNLSVWAWM</span><span class="topo-membrane">FLFGH</span></span>
-<span class="topo-line"><span class="topo-membrane">LVWATGFMFLISW</span><span class="topo-outside">RGYWQELIETLVWAHERTPLANLVRWKDKPVALSIVQA</span><span class="topo-membrane">RLVGLAHFS</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">ATKFPKFSQDLAQDPTTRRIWYAIAMAHDFESHDGMTEENLYQKIFA</span><span class="topo-membrane">SHFGHLAIIFLWVSGSLF</span><span class="topo-inside">HVAWQGNFEQWVQDPVNTRPIAHAIWDPQFGKAAVDAFTQAGASNPVDIAYSGVY</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">HWWYTIGMRTNGDLYQ</span><span class="topo-membrane">GAIFLLILASLALFAGW</span><span class="topo-outside">LHLQPKFRPSLSWFKNAESR</span><span class="topo-membrane">LNHHLAGLFGVSSLAWAGH</span><span class="topo-inside">LIHVAIPESRGQHVGWDNFLSTMPHPAGLAPFFTGNWGVYAQNPDTAS</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">HVFGTAQGAGTAILTFLGGFHPQTESLWLTDMAHH</span><span class="topo-membrane">HLAIAVLFIVAGHMY</span><span class="topo-outside">RTQFGIGHSIKEMMDAKDFFGTKVEGPFNMPHQGIYETYNNSLHFQL</span><span class="topo-membrane">GWHLACLGVITSLVAQH</span><span class="topo-inside">MYSLPP</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">YAFIAQDHTTMAAL</span><span class="topo-membrane">YTHHQYIAGFLMVGAFA</span><span class="topo-outside">HGAIFLVRDYDPAQNKGNVLDRVLQHKEAIIS</span><span class="topo-membrane">HLSWVSLFLGFHTLGLYVH</span><span class="topo-inside">NDVVVAFGTPEKQILIEPVFAQFIQAAHGKLLYGFDTL</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-inside">LSNPDSIASTAWPNYGNVWLPGWLDAINSGTNSLFLTIGPGDF</span><span class="topo-membrane">LVHHAIALGLHTTTLILV</span><span class="topo-outside">KGALDARGSKLMPDKKDFGYAFPCDGPGRGGTCDISAWDA</span><span class="topo-membrane">FYLAMFWMLNTIGWVTF</span><span class="topo-inside">YW</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-inside">HWKHLGVWEGNVAQFNESSTYLMGWLRDYLWLNSSQLINGYNPFGTNNLSVWAWM</span><span class="topo-membrane">FLFGHLVWATGFMFLISW</span><span class="topo-outside">RGYWQELIETLVWAHERTPLANLVRWKDKPVALSIVQA</span><span class="topo-membrane">RLVGLAHFS</span></span>
+<span class="topo-ruler">       730       740</span>
 <span class="topo-line"><span class="topo-membrane">VGYILTYA</span><span class="topo-inside">AFLIASTAAKF</span><span class="topo-unknown">G</span></span>
+<details class="topo-details"><summary>Topology coordinates (24 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2459,6 +2530,7 @@ Photosystem I (PS I) from the thermophilic cyanobacterium Thermosynechococcus el
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2474,8 +2546,9 @@ Photosystem I (PS I) from the thermophilic cyanobacterium Thermosynechococcus el
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">AHTVKIYDTCIGCTQCVRACPTDVLEMVPWDGCKAGQIASSPRTEDCVGCKRCETACPTD</span></span>
-<span class="topo-line"><span class="topo-outside">FLSIRVYLGAETTRSMGLAY</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80</span>
+<span class="topo-line"><span class="topo-outside">AHTVKIYDTCIGCTQCVRACPTDVLEMVPWDGCKAGQIASSPRTEDCVGCKRCETACPTDFLSIRVYLGAETTRSMGLAY</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2494,6 +2567,7 @@ Photosystem I (PS I) from the thermophilic cyanobacterium Thermosynechococcus el
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2509,9 +2583,11 @@ Photosystem I (PS I) from the thermophilic cyanobacterium Thermosynechococcus el
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">TTLTGQPPLYGGSTGGLLSAADTEEKYAITWTSPKEQVFEMPTAGAAVMREGENLVYFAR</span></span>
-<span class="topo-line"><span class="topo-outside">KEQCLALAAQQLRPRKINDYKIYRIFPDGETVLIHPKDGVFPEKVNKGREAVNSVPRSIG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">TTLTGQPPLYGGSTGGLLSAADTEEKYAITWTSPKEQVFEMPTAGAAVMREGENLVYFARKEQCLALAAQQLRPRKINDYKIYRIFPDGETVLIHPKDGVFPEKVNKGREAVNSVPRSIG</span></span>
+<span class="topo-ruler">       130        </span>
 <span class="topo-line"><span class="topo-outside">QNPNPSQLKFTGKKPYDP</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2530,6 +2606,7 @@ Photosystem I (PS I) from the thermophilic cyanobacterium Thermosynechococcus el
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2545,8 +2622,9 @@ Photosystem I (PS I) from the thermophilic cyanobacterium Thermosynechococcus el
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">VQRGSKVKILRPESYWYNEVGTVASVDQTPGVKYPVIVRFDKVNYTGYSGSASGVNTNNF</span></span>
-<span class="topo-line"><span class="topo-outside">ALHEVQEVA</span><span class="topo-unknown">PPKKGK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70     </span>
+<span class="topo-line"><span class="topo-outside">VQRGSKVKILRPESYWYNEVGTVASVDQTPGVKYPVIVRFDKVNYTGYSGSASGVNTNNFALHEVQEVA</span><span class="topo-unknown">PPKKGK</span></span>
+<details class="topo-details"><summary>Topology coordinates (2 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2572,6 +2650,7 @@ Photosystem I (PS I) from the thermophilic cyanobacterium Thermosynechococcus el
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2587,9 +2666,11 @@ Photosystem I (PS I) from the thermophilic cyanobacterium Thermosynechococcus el
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MRRFLALLLVLTLWLGFTPLASA</span><span class="topo-inside">DVAGLVPCKDSPAFQKRAAAAVNTTADPASGQKRFER</span></span>
-<span class="topo-line"><span class="topo-inside">YSQALCGEDGLPHLVVDGRLSRAGDF</span><span class="topo-membrane">LIPSVLFLYIAGWIGWV</span><span class="topo-outside">GRAYLIAVRNSGEANEK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MRRFLALLLVLTLWLGFTPLASA</span><span class="topo-inside">DVAGLVPCKDSPAFQKRAAAAVNTTADPASGQKRFERYSQALCGEDGLPHLVVDGRLSRAGDF</span><span class="topo-membrane">LIPSVLFLYIAGWIGWV</span><span class="topo-outside">GRAYLIAVRNSGEANEK</span></span>
+<span class="topo-ruler">       130       140       150       160    </span>
 <span class="topo-line"><span class="topo-outside">EIIIDVPLAIKCMLTGFAWPLAALKELASGELTAKDNEITVSPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2629,6 +2710,7 @@ Photosystem I (PS I) from the thermophilic cyanobacterium Thermosynechococcus el
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2644,7 +2726,9 @@ Photosystem I (PS I) from the thermophilic cyanobacterium Thermosynechococcus el
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        </span>
 <span class="topo-line"><span class="topo-inside">MMGSYAASFLPWI</span><span class="topo-membrane">FIPVVCWLMPTVVMGLLF</span><span class="topo-outside">LYIEGEA</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2677,6 +2761,7 @@ Photosystem I (PS I) from the thermophilic cyanobacterium Thermosynechococcus el
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2692,7 +2777,9 @@ Photosystem I (PS I) from the thermophilic cyanobacterium Thermosynechococcus el
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40 </span>
 <span class="topo-line"><span class="topo-outside">MKHFLTYLSTA</span><span class="topo-membrane">PVLAAIWMTITAGILIEFN</span><span class="topo-inside">RFYPDLLFHPL</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2725,6 +2812,7 @@ Photosystem I (PS I) from the thermophilic cyanobacterium Thermosynechococcus el
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2740,8 +2828,9 @@ Photosystem I (PS I) from the thermophilic cyanobacterium Thermosynechococcus el
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MVLATLPDTTWTPSVGLVV</span><span class="topo-inside">I</span><span class="topo-membrane">LCNLFAIALGRY</span><span class="topo-outside">AIQSRGKGPGL</span><span class="topo-unknown">PIALPALFEGF</span><span class="topo-outside">GLP</span><span class="topo-membrane">ELL</span></span>
-<span class="topo-line"><span class="topo-membrane">ATTSFGHLLAAGVVS</span><span class="topo-inside">GL</span><span class="topo-unknown">QYAGAL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80   </span>
+<span class="topo-line"><span class="topo-unknown">MVLATLPDTTWTPSVGLVV</span><span class="topo-inside">I</span><span class="topo-membrane">LCNLFAIALGRY</span><span class="topo-outside">AIQSRGKGPGL</span><span class="topo-unknown">PIALPALFEGF</span><span class="topo-outside">GLP</span><span class="topo-membrane">ELLATTSFGHLLAAGVVS</span><span class="topo-inside">GL</span><span class="topo-unknown">QYAGAL</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2816,6 +2905,7 @@ Photosystem I (PS I) from the thermophilic cyanobacterium Thermosynechococcus el
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2831,9 +2921,11 @@ Photosystem I (PS I) from the thermophilic cyanobacterium Thermosynechococcus el
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">AEE</span><span class="topo-outside">LVKPYNGDPFVGHLSTPISDSGLVKTFIGNLPAYRQGLSPI</span><span class="topo-membrane">LRGLEVGMAHGYFLIG</span></span>
-<span class="topo-line"><span class="topo-membrane">PWV</span><span class="topo-inside">KLGPLRDSDVANLGG</span><span class="topo-membrane">LISGIALILVATACLAA</span><span class="topo-outside">YGLVSFQKGGSSSDPLKTSEGWSQF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">AEE</span><span class="topo-outside">LVKPYNGDPFVGHLSTPISDSGLVKTFIGNLPAYRQGLSPI</span><span class="topo-membrane">LRGLEVGMAHGYFLIGPWV</span><span class="topo-inside">KLGPLRDSDVANLGG</span><span class="topo-membrane">LISGIALILVATACLAA</span><span class="topo-outside">YGLVSFQKGGSSSDPLKTSEGWSQF</span></span>
+<span class="topo-ruler">       130       140       150    </span>
 <span class="topo-line"><span class="topo-membrane">TAGFFVGAMGSAFVAFFL</span><span class="topo-inside">LENFLVVDGIMTGLFN</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2901,6 +2993,7 @@ Photosystem I (PS I) from the thermophilic cyanobacterium Thermosynechococcus el
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2916,7 +3009,9 @@ Photosystem I (PS I) from the thermophilic cyanobacterium Thermosynechococcus el
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30 </span>
 <span class="topo-line"><span class="topo-inside">MALTDTQVY</span><span class="topo-membrane">VALVIALLPAVLAFRLS</span><span class="topo-outside">TELYK</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2949,6 +3044,7 @@ Photosystem I (PS I) from the thermophilic cyanobacterium Thermosynechococcus el
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2964,7 +3060,9 @@ Photosystem I (PS I) from the thermophilic cyanobacterium Thermosynechococcus el
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30     </span>
 <span class="topo-line"><span class="topo-unknown">ATKSAK</span><span class="topo-outside">PTYAFR</span><span class="topo-membrane">TFWAVLLLAINFLVAAYY</span><span class="topo-inside">FGILK</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3004,6 +3102,7 @@ Photosystem I (PS I) from the thermophilic cyanobacterium Thermosynechococcus el
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

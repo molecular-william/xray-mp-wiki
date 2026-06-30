@@ -109,23 +109,25 @@ The Na+,K+-ATPase is a P-type ATPase pump that maintains the electrochemical gra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">AKKERDMDELKKEVSMDDHKLSLDELHRKYGTDLSRGLTPARAAEILARDGPNALTPPPT</span></span>
-<span class="topo-line"><span class="topo-inside">TPEWVKFCRQ</span><span class="topo-membrane">LFGGFSMLLWIGAILCFLAYG</span><span class="topo-outside">IQAATEEEPQN</span><span class="topo-membrane">DNLYLGVVLSAVVIITGC</span></span>
-<span class="topo-line"><span class="topo-membrane">F</span><span class="topo-inside">SYYQEAKSSKIMESFKNMVPQQALVIRNGEKMSINAEEVVVGDLVEVKGGDRIPADLRI</span></span>
-<span class="topo-line"><span class="topo-inside">ISANGCKVDNSSLTGESEPQTRSPDFTNENPLETRNIAFFSTNCVEGTARGIVVYTGDRT</span></span>
-<span class="topo-line"><span class="topo-inside">VMGRIATLASGLEGGQTPIAAEIEHF</span><span class="topo-membrane">IHIITGVAVFLGVSFFILSLI</span><span class="topo-outside">LEYTWL</span><span class="topo-membrane">EAVIFLI</span></span>
-<span class="topo-line"><span class="topo-membrane">GIIVANVPEGLLAT</span><span class="topo-inside">VTVCLTLTAKRMARKNCLVKNLEAVETLGSTSTICSDKTGTLTQNR</span></span>
-<span class="topo-line"><span class="topo-inside">MTVAHMWSDNQIHEADTTENQSGVSFDKTSATWLALSRIAGLCNRAVFQANQENLPILKR</span></span>
-<span class="topo-line"><span class="topo-inside">AVAGDASESALLKCIELCCGSVKEMRERYTKIVEIPFNSTNKYQLSIHKNPNTAEPRHLL</span></span>
-<span class="topo-line"><span class="topo-inside">VMKGAPERILDRCSSILIHGKEQPLDEELKDAFQNAYLELGGLGERVLGFCHLFLPDEQF</span></span>
-<span class="topo-line"><span class="topo-inside">PEGFQFDTDDVNFPLDNLCFVGLISMIDPPRAAVPDAVGKCRSAGIKVIMVTGDHPITAK</span></span>
-<span class="topo-line"><span class="topo-inside">AIAKGVGIISEGNETVEDIAARLNIPVSQVNPRDAKACVVHGSDLKDMTSEQLDDILKYH</span></span>
-<span class="topo-line"><span class="topo-inside">TEIVFARTSPQQKLIIVEGCQRQGAIVAVTGDGVNDSPASKKADIGVAMGIAGSDVSKQA</span></span>
-<span class="topo-line"><span class="topo-inside">ADMILLDDNFASIVTGVEEGRLIFDNLKK</span><span class="topo-membrane">SIAYTLTSNIPEITPFLIFII</span><span class="topo-outside">ANIPLP</span><span class="topo-membrane">LGTV</span></span>
-<span class="topo-line"><span class="topo-membrane">TILCIDLGTDMVPAISL</span><span class="topo-inside">AYEQAESDIMKRQPRNPKTDKLVNE</span><span class="topo-membrane">QLISMAYGQIGMIQALGG</span></span>
-<span class="topo-line"><span class="topo-membrane">FFTY</span><span class="topo-outside">FVILAENGFLPIHLLGLRVNWDDRWINDVEDSYGQQWTYEQRKIVEFTCH</span><span class="topo-membrane">TPFFVT</span></span>
-<span class="topo-line"><span class="topo-membrane">IVVVQWADLVICK</span><span class="topo-inside">TRRNSVFQQGM</span><span class="topo-membrane">KNKILIFGLFEETALAAFLSYCP</span><span class="topo-outside">GMGVALRMYPLKP</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">AKKERDMDELKKEVSMDDHKLSLDELHRKYGTDLSRGLTPARAAEILARDGPNALTPPPTTPEWVKFCRQ</span><span class="topo-membrane">LFGGFSMLLWIGAILCFLAYG</span><span class="topo-outside">IQAATEEEPQN</span><span class="topo-membrane">DNLYLGVVLSAVVIITGC</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">F</span><span class="topo-inside">SYYQEAKSSKIMESFKNMVPQQALVIRNGEKMSINAEEVVVGDLVEVKGGDRIPADLRIISANGCKVDNSSLTGESEPQTRSPDFTNENPLETRNIAFFSTNCVEGTARGIVVYTGDRT</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">VMGRIATLASGLEGGQTPIAAEIEHF</span><span class="topo-membrane">IHIITGVAVFLGVSFFILSLI</span><span class="topo-outside">LEYTWL</span><span class="topo-membrane">EAVIFLIGIIVANVPEGLLAT</span><span class="topo-inside">VTVCLTLTAKRMARKNCLVKNLEAVETLGSTSTICSDKTGTLTQNR</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">MTVAHMWSDNQIHEADTTENQSGVSFDKTSATWLALSRIAGLCNRAVFQANQENLPILKRAVAGDASESALLKCIELCCGSVKEMRERYTKIVEIPFNSTNKYQLSIHKNPNTAEPRHLL</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-inside">VMKGAPERILDRCSSILIHGKEQPLDEELKDAFQNAYLELGGLGERVLGFCHLFLPDEQFPEGFQFDTDDVNFPLDNLCFVGLISMIDPPRAAVPDAVGKCRSAGIKVIMVTGDHPITAK</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-inside">AIAKGVGIISEGNETVEDIAARLNIPVSQVNPRDAKACVVHGSDLKDMTSEQLDDILKYHTEIVFARTSPQQKLIIVEGCQRQGAIVAVTGDGVNDSPASKKADIGVAMGIAGSDVSKQA</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820       830       840</span>
+<span class="topo-line"><span class="topo-inside">ADMILLDDNFASIVTGVEEGRLIFDNLKK</span><span class="topo-membrane">SIAYTLTSNIPEITPFLIFII</span><span class="topo-outside">ANIPLP</span><span class="topo-membrane">LGTVTILCIDLGTDMVPAISL</span><span class="topo-inside">AYEQAESDIMKRQPRNPKTDKLVNE</span><span class="topo-membrane">QLISMAYGQIGMIQALGG</span></span>
+<span class="topo-ruler">       850       860       870       880       890       900       910       920       930       940       950       960</span>
+<span class="topo-line"><span class="topo-membrane">FFTY</span><span class="topo-outside">FVILAENGFLPIHLLGLRVNWDDRWINDVEDSYGQQWTYEQRKIVEFTCH</span><span class="topo-membrane">TPFFVTIVVVQWADLVICK</span><span class="topo-inside">TRRNSVFQQGM</span><span class="topo-membrane">KNKILIFGLFEETALAAFLSYCP</span><span class="topo-outside">GMGVALRMYPLKP</span></span>
+<span class="topo-ruler">       970       980       990        </span>
 <span class="topo-line"><span class="topo-outside">TWW</span><span class="topo-membrane">FCAFPYSLLIFVYDEVRKLI</span><span class="topo-inside">IRRRPGGWVEKETYY</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -284,6 +286,7 @@ The Na+,K+-ATPase is a P-type ATPase pump that maintains the electrochemical gra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -299,7 +302,9 @@ The Na+,K+-ATPase is a P-type ATPase pump that maintains the electrochemical gra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40      </span>
 <span class="topo-line"><span class="topo-inside">TGGS</span><span class="topo-membrane">WFKILLFYVIFYGCLAGIFIGT</span><span class="topo-outside">IQVMLLTISEFKPTYQDRVA</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -332,6 +337,7 @@ The Na+,K+-ATPase is a P-type ATPase pump that maintains the electrochemical gra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -347,7 +353,9 @@ The Na+,K+-ATPase is a P-type ATPase pump that maintains the electrochemical gra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20         </span>
 <span class="topo-line"><span class="topo-outside">YETVRNG</span><span class="topo-membrane">GLIFAALAFIVGLIIILSK</span><span class="topo-inside">RLR</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -380,6 +388,7 @@ The Na+,K+-ATPase is a P-type ATPase pump that maintains the electrochemical gra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -452,23 +461,25 @@ The Na+,K+-ATPase is a P-type ATPase pump that maintains the electrochemical gra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MDELKKEVSMDDHKLSLDELHRKYGTDLSRGLTPARAAEILARDGPNALTPPPTTPE</span><span class="topo-unknown">WVK</span></span>
-<span class="topo-line"><span class="topo-unknown">FCRQL</span><span class="topo-inside">FGGF</span><span class="topo-membrane">SMLLWIGAILCFLAYGIQ</span><span class="topo-outside">AATEEEPQ</span><span class="topo-membrane">NDNLYLGVVLSAVVIIT</span><span class="topo-inside">GCFSYYQE</span></span>
-<span class="topo-line"><span class="topo-inside">AKSSKIMESFKNMVPQQALVIRNGEKMSINAEEVVVGDLVEVKGGDRIPADLRIISANGC</span></span>
-<span class="topo-line"><span class="topo-inside">KVDNSSLTGESEPQTRSPDFTNENPLETRNIAFFSTNCVEGTARGIVVYTGDRTVMGRIA</span></span>
-<span class="topo-line"><span class="topo-inside">TLASGLEGGQTPIAAEIEHFIHI</span><span class="topo-membrane">ITGVAVFLGVSFFILSLI</span><span class="topo-outside">LEYTW</span><span class="topo-membrane">LEAVIFLIGIIVAN</span></span>
-<span class="topo-line"><span class="topo-membrane">VPEGLLAT</span><span class="topo-inside">VTVCLTLTAKRMARKNCLVKNLEAVETLGSTSTICSDKTGTLTQNRMTVAHM</span></span>
-<span class="topo-line"><span class="topo-inside">WSDNQIHEADTTENQSGVSFDKTSATWLALSRIAGLCNRAVFQANQENLPILKRAVAGDA</span></span>
-<span class="topo-line"><span class="topo-inside">SESALLKCIELCCGSVKEMRERYTKIVEIPFNSTNKYQLSIHKNPNTAEPRHLLVMKGAP</span></span>
-<span class="topo-line"><span class="topo-inside">ERILDRCSSILIHGKEQPLDEELKDAFQNAYLELGGLGERVLGFCHLFLPDEQFPEGFQF</span></span>
-<span class="topo-line"><span class="topo-inside">DTDDVNFPLDNLCFVGLISMIDPPRAAVPDAVGKCRSAGIKVIMVTGDHPITAKAIAKGV</span></span>
-<span class="topo-line"><span class="topo-inside">GIISEGNETVEDIAARLNIPVSQVNPRDAKACVVHGSDLKDMTSEQLDDILKYHTEIVFA</span></span>
-<span class="topo-line"><span class="topo-inside">RTSPQQKLIIVEGCQRQGAIVAVTGDGVNDSPASKKADIGVAMGIAGSDVSKQAADMILL</span></span>
-<span class="topo-line"><span class="topo-inside">DDNFASIVTGVEEGRLIFDNLKKSI</span><span class="topo-membrane">AYTLTSNIPEITPFLIFII</span><span class="topo-outside">ANIPLP</span><span class="topo-membrane">LGTVTILCID</span></span>
-<span class="topo-line"><span class="topo-membrane">LGTDMVPAI</span><span class="topo-inside">SLAYEQAESDIMKRQPRNPKTDKLVNEQLI</span><span class="topo-membrane">SMAYGQIGMIQALGGFFTY</span><span class="topo-outside">FV</span></span>
-<span class="topo-line"><span class="topo-outside">ILAENGFLPIHLLGLRVNWDDRWINDVEDSYGQQWTYEQRKIVEFTCH</span><span class="topo-membrane">TPFFVTIVVVQW</span></span>
-<span class="topo-line"><span class="topo-membrane">ADLVIC</span><span class="topo-inside">KTRRNSVFQQGMKNKIL</span><span class="topo-membrane">IFGLFEETALAAFLSYC</span><span class="topo-outside">PGMGVALRMYPLKPTW</span><span class="topo-membrane">WFCA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">MDELKKEVSMDDHKLSLDELHRKYGTDLSRGLTPARAAEILARDGPNALTPPPTTPE</span><span class="topo-unknown">WVKFCRQL</span><span class="topo-inside">FGGF</span><span class="topo-membrane">SMLLWIGAILCFLAYGIQ</span><span class="topo-outside">AATEEEPQ</span><span class="topo-membrane">NDNLYLGVVLSAVVIIT</span><span class="topo-inside">GCFSYYQE</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">AKSSKIMESFKNMVPQQALVIRNGEKMSINAEEVVVGDLVEVKGGDRIPADLRIISANGCKVDNSSLTGESEPQTRSPDFTNENPLETRNIAFFSTNCVEGTARGIVVYTGDRTVMGRIA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">TLASGLEGGQTPIAAEIEHFIHI</span><span class="topo-membrane">ITGVAVFLGVSFFILSLI</span><span class="topo-outside">LEYTW</span><span class="topo-membrane">LEAVIFLIGIIVANVPEGLLAT</span><span class="topo-inside">VTVCLTLTAKRMARKNCLVKNLEAVETLGSTSTICSDKTGTLTQNRMTVAHM</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">WSDNQIHEADTTENQSGVSFDKTSATWLALSRIAGLCNRAVFQANQENLPILKRAVAGDASESALLKCIELCCGSVKEMRERYTKIVEIPFNSTNKYQLSIHKNPNTAEPRHLLVMKGAP</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-inside">ERILDRCSSILIHGKEQPLDEELKDAFQNAYLELGGLGERVLGFCHLFLPDEQFPEGFQFDTDDVNFPLDNLCFVGLISMIDPPRAAVPDAVGKCRSAGIKVIMVTGDHPITAKAIAKGV</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-inside">GIISEGNETVEDIAARLNIPVSQVNPRDAKACVVHGSDLKDMTSEQLDDILKYHTEIVFARTSPQQKLIIVEGCQRQGAIVAVTGDGVNDSPASKKADIGVAMGIAGSDVSKQAADMILL</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820       830       840</span>
+<span class="topo-line"><span class="topo-inside">DDNFASIVTGVEEGRLIFDNLKKSI</span><span class="topo-membrane">AYTLTSNIPEITPFLIFII</span><span class="topo-outside">ANIPLP</span><span class="topo-membrane">LGTVTILCIDLGTDMVPAI</span><span class="topo-inside">SLAYEQAESDIMKRQPRNPKTDKLVNEQLI</span><span class="topo-membrane">SMAYGQIGMIQALGGFFTY</span><span class="topo-outside">FV</span></span>
+<span class="topo-ruler">       850       860       870       880       890       900       910       920       930       940       950       960</span>
+<span class="topo-line"><span class="topo-outside">ILAENGFLPIHLLGLRVNWDDRWINDVEDSYGQQWTYEQRKIVEFTCH</span><span class="topo-membrane">TPFFVTIVVVQWADLVIC</span><span class="topo-inside">KTRRNSVFQQGMKNKIL</span><span class="topo-membrane">IFGLFEETALAAFLSYC</span><span class="topo-outside">PGMGVALRMYPLKPTW</span><span class="topo-membrane">WFCA</span></span>
+<span class="topo-ruler">       970       980       990  </span>
 <span class="topo-line"><span class="topo-membrane">FPYSLLIFVYDEVR</span><span class="topo-inside">KLIIRRRPGGWVEKETYY</span></span>
+<details class="topo-details"><summary>Topology coordinates (23 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -641,6 +652,7 @@ The Na+,K+-ATPase is a P-type ATPase pump that maintains the electrochemical gra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -656,11 +668,13 @@ The Na+,K+-ATPase is a P-type ATPase pump that maintains the electrochemical gra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">RTGGSW</span><span class="topo-membrane">FKILLFYVIFYGCLAGIFIGTI</span><span class="topo-outside">QVMLLTISEFKPTYQDRVAPPGLTQIPQSQKT</span></span>
-<span class="topo-line"><span class="topo-outside">EISFRPNDPQSYESYVVSIVRFLEKYKDLAQKDDMIFEDCGNVPSELKERGEYNNERGER</span></span>
-<span class="topo-line"><span class="topo-outside">KVCRFRLEWLGNC</span><span class="topo-unknown">SGLNDETY</span><span class="topo-outside">GYKDGKPCVIIKLNRVLGFKPKPPKNESLETYPVMKYNP</span></span>
-<span class="topo-line"><span class="topo-outside">YVLPVHCTG</span><span class="topo-unknown">KRDED</span><span class="topo-outside">KEKVGTMEYFGLGGYPGFPLQYYPYYGKLLQPKYLQPLMAVQFTNL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">RTGGSW</span><span class="topo-membrane">FKILLFYVIFYGCLAGIFIGTI</span><span class="topo-outside">QVMLLTISEFKPTYQDRVAPPGLTQIPQSQKTEISFRPNDPQSYESYVVSIVRFLEKYKDLAQKDDMIFEDCGNVPSELKERGEYNNERGER</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">KVCRFRLEWLGNC</span><span class="topo-unknown">SGLNDETY</span><span class="topo-outside">GYKDGKPCVIIKLNRVLGFKPKPPKNESLETYPVMKYNPYVLPVHCTG</span><span class="topo-unknown">KRDED</span><span class="topo-outside">KEKVGTMEYFGLGGYPGFPLQYYPYYGKLLQPKYLQPLMAVQFTNL</span></span>
+<span class="topo-ruler">       250       260       270       </span>
 <span class="topo-line"><span class="topo-outside">TMDTEIRIECKAYGENIGYSEKDRFQGRFDVKIEVKS</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -721,6 +735,7 @@ The Na+,K+-ATPase is a P-type ATPase pump that maintains the electrochemical gra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -736,7 +751,9 @@ The Na+,K+-ATPase is a P-type ATPase pump that maintains the electrochemical gra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30 </span>
 <span class="topo-line"><span class="topo-outside">DPFYYDYETVRNG</span><span class="topo-membrane">GLIFAALAFIVGLIIIL</span><span class="topo-inside">S</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -769,6 +786,7 @@ The Na+,K+-ATPase is a P-type ATPase pump that maintains the electrochemical gra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -853,24 +871,25 @@ The Na+,K+-ATPase is a P-type ATPase pump that maintains the electrochemical gra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGKGVGRDKYEPAAVSEHGDKKKAK</span><span class="topo-outside">KERDMDELKKEVSMDDHKLSLDELHRKYGTDLSRG</span></span>
-<span class="topo-line"><span class="topo-outside">LTPARAAEILARDGPNALTPPPTTPEWVKF</span><span class="topo-membrane">CRQLFGGFSMLLWIGAILCFLAYGIQ</span><span class="topo-inside">AATE</span></span>
-<span class="topo-line"><span class="topo-inside">EEPQN</span><span class="topo-membrane">DNLYLGVVLSAVVIITGCFS</span><span class="topo-outside">YYQEAKSSKIMESFKNMVPQQALVIRNGEKMSINA</span></span>
-<span class="topo-line"><span class="topo-outside">EEVVVGDLVEVKGGDRIPADLRIISANGCKVDNSSLTGESEPQTRSPDFTNENPLETRNI</span></span>
-<span class="topo-line"><span class="topo-outside">AFFSTNCVEGTARGIVVYTGDRTVMGRIATLASGLEGGQTPIAAEI</span><span class="topo-membrane">EHFIHIITGVAVFL</span></span>
-<span class="topo-line"><span class="topo-membrane">GVSFFILSLI</span><span class="topo-inside">LEYTWLEA</span><span class="topo-membrane">VIFLIGIIVANVPEGLLATVTV</span><span class="topo-outside">CLTLTAKRMARKNCLVKNLE</span></span>
-<span class="topo-line"><span class="topo-outside">AVETLGSTSTICSDKTGTLTQNRMTVAHMWSDNQIHEADTTENQSGVSFDKTSATWLALS</span></span>
-<span class="topo-line"><span class="topo-outside">RIAGLCNRAVFQANQENLPILKRAVAGDASESALLKCIELCCGSVKEMRERYTKIVEIPF</span></span>
-<span class="topo-line"><span class="topo-outside">NSTNKYQLSIHKNPNTAEPRHLLVMKGAPERILDRCSSILIHGKEQPLDEELKDAFQNAY</span></span>
-<span class="topo-line"><span class="topo-outside">LELGGLGERVLGFCHLFLPDEQFPEGFQFDTDDVNFPLDNLCFVGLISMIDPPRAAVPDA</span></span>
-<span class="topo-line"><span class="topo-outside">VGKCRSAGIKVIMVTGDHPITAKAIAKGVGIISEGNETVEDIAARLNIPVSQVNPRDAKA</span></span>
-<span class="topo-line"><span class="topo-outside">CVVHGSDLKDMTSEQLDDILKYHTEIVFARTSPQQKLIIVEGCQRQGAIVAVTGDGVNDS</span></span>
-<span class="topo-line"><span class="topo-outside">PASKKADIGVAMGIAGSDVSKQAADMILLDDNFASIVTGVEEGRLIFDNLK</span><span class="topo-membrane">KSIAYTLTS</span></span>
-<span class="topo-line"><span class="topo-membrane">NIPEITPFLIF</span><span class="topo-inside">IIANIPLP</span><span class="topo-membrane">LGTVTILCIDLGTDMVPAISL</span><span class="topo-outside">AYEQAESDIMKRQPRNPKTD</span></span>
-<span class="topo-line"><span class="topo-outside">KLV</span><span class="topo-membrane">NEQLISMAYGQIGMIQALGGFFTY</span><span class="topo-inside">FVILAENGFLPIHLLGLRVNWDDRWINDVEDSY</span></span>
-<span class="topo-line"><span class="topo-inside">GQQWTYEQRKIVEFTCH</span><span class="topo-membrane">TPFFVTIVVVQWADLVICK</span><span class="topo-outside">TRRNSVFQQGMKNK</span><span class="topo-membrane">ILIFGLFEET</span></span>
-<span class="topo-line"><span class="topo-membrane">ALAAFLSYCP</span><span class="topo-inside">GMGVALRMYPLKP</span><span class="topo-membrane">TWWFCAFPYSLLIFVYDEVRKLI</span><span class="topo-outside">IRRRPGGWVEKETY</span></span>
-<span class="topo-line"><span class="topo-outside">Y</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGKGVGRDKYEPAAVSEHGDKKKAK</span><span class="topo-outside">KERDMDELKKEVSMDDHKLSLDELHRKYGTDLSRGLTPARAAEILARDGPNALTPPPTTPEWVKF</span><span class="topo-membrane">CRQLFGGFSMLLWIGAILCFLAYGIQ</span><span class="topo-inside">AATE</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">EEPQN</span><span class="topo-membrane">DNLYLGVVLSAVVIITGCFS</span><span class="topo-outside">YYQEAKSSKIMESFKNMVPQQALVIRNGEKMSINAEEVVVGDLVEVKGGDRIPADLRIISANGCKVDNSSLTGESEPQTRSPDFTNENPLETRNI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">AFFSTNCVEGTARGIVVYTGDRTVMGRIATLASGLEGGQTPIAAEI</span><span class="topo-membrane">EHFIHIITGVAVFLGVSFFILSLI</span><span class="topo-inside">LEYTWLEA</span><span class="topo-membrane">VIFLIGIIVANVPEGLLATVTV</span><span class="topo-outside">CLTLTAKRMARKNCLVKNLE</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">AVETLGSTSTICSDKTGTLTQNRMTVAHMWSDNQIHEADTTENQSGVSFDKTSATWLALSRIAGLCNRAVFQANQENLPILKRAVAGDASESALLKCIELCCGSVKEMRERYTKIVEIPF</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">NSTNKYQLSIHKNPNTAEPRHLLVMKGAPERILDRCSSILIHGKEQPLDEELKDAFQNAYLELGGLGERVLGFCHLFLPDEQFPEGFQFDTDDVNFPLDNLCFVGLISMIDPPRAAVPDA</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-outside">VGKCRSAGIKVIMVTGDHPITAKAIAKGVGIISEGNETVEDIAARLNIPVSQVNPRDAKACVVHGSDLKDMTSEQLDDILKYHTEIVFARTSPQQKLIIVEGCQRQGAIVAVTGDGVNDS</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820       830       840</span>
+<span class="topo-line"><span class="topo-outside">PASKKADIGVAMGIAGSDVSKQAADMILLDDNFASIVTGVEEGRLIFDNLK</span><span class="topo-membrane">KSIAYTLTSNIPEITPFLIF</span><span class="topo-inside">IIANIPLP</span><span class="topo-membrane">LGTVTILCIDLGTDMVPAISL</span><span class="topo-outside">AYEQAESDIMKRQPRNPKTD</span></span>
+<span class="topo-ruler">       850       860       870       880       890       900       910       920       930       940       950       960</span>
+<span class="topo-line"><span class="topo-outside">KLV</span><span class="topo-membrane">NEQLISMAYGQIGMIQALGGFFTY</span><span class="topo-inside">FVILAENGFLPIHLLGLRVNWDDRWINDVEDSYGQQWTYEQRKIVEFTCH</span><span class="topo-membrane">TPFFVTIVVVQWADLVICK</span><span class="topo-outside">TRRNSVFQQGMKNK</span><span class="topo-membrane">ILIFGLFEET</span></span>
+<span class="topo-ruler">       970       980       990      1000      1010      1020 </span>
+<span class="topo-line"><span class="topo-membrane">ALAAFLSYCP</span><span class="topo-inside">GMGVALRMYPLKP</span><span class="topo-membrane">TWWFCAFPYSLLIFVYDEVRKLI</span><span class="topo-outside">IRRRPGGWVEKETYY</span></span>
+<details class="topo-details"><summary>Topology coordinates (22 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1036,6 +1055,7 @@ The Na+,K+-ATPase is a P-type ATPase pump that maintains the electrochemical gra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1051,12 +1071,13 @@ The Na+,K+-ATPase is a P-type ATPase pump that maintains the electrochemical gra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MARGKAKEEGSW</span><span class="topo-outside">KKFIWNSEKKE</span><span class="topo-membrane">FLGRTGGSWFKILLFYVIFYGCLAGIFIGTI</span><span class="topo-inside">QVMLLT</span></span>
-<span class="topo-line"><span class="topo-inside">ISEFKPTYQDRVAPPGLTQIPQSQKTEISFRPNDPQSYESYVVSIVRFLEKYKDLAQKDD</span></span>
-<span class="topo-line"><span class="topo-inside">MIFEDCGNVPSELKERGEYNNERGERKVCRFRLEWLGNCSGLNDETYGYKDGKPCVIIKL</span></span>
-<span class="topo-line"><span class="topo-inside">NRVLGFKPKPPKNESLETYPVMKYNPYVLPVHCTGKRDEDKEKVGTMEYFGLGGYPGFPL</span></span>
-<span class="topo-line"><span class="topo-inside">QYYPYYGKLLQPKYLQPLMAVQFTNLTMDTEIRIECKAYGENIGYSEKDRFQGRFDVKIE</span></span>
-<span class="topo-line"><span class="topo-inside">VKS</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MARGKAKEEGSW</span><span class="topo-outside">KKFIWNSEKKE</span><span class="topo-membrane">FLGRTGGSWFKILLFYVIFYGCLAGIFIGTI</span><span class="topo-inside">QVMLLTISEFKPTYQDRVAPPGLTQIPQSQKTEISFRPNDPQSYESYVVSIVRFLEKYKDLAQKDD</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">MIFEDCGNVPSELKERGEYNNERGERKVCRFRLEWLGNCSGLNDETYGYKDGKPCVIIKLNRVLGFKPKPPKNESLETYPVMKYNPYVLPVHCTGKRDEDKEKVGTMEYFGLGGYPGFPL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300   </span>
+<span class="topo-line"><span class="topo-inside">QYYPYYGKLLQPKYLQPLMAVQFTNLTMDTEIRIECKAYGENIGYSEKDRFQGRFDVKIEVKS</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1096,6 +1117,7 @@ The Na+,K+-ATPase is a P-type ATPase pump that maintains the electrochemical gra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1111,8 +1133,9 @@ The Na+,K+-ATPase is a P-type ATPase pump that maintains the electrochemical gra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAGLSTDDGGSPKGDV</span><span class="topo-inside">DPFYYDYETV</span><span class="topo-membrane">RNGGLIFAALAFIVGLIIILS</span><span class="topo-outside">K</span><span class="topo-unknown">RLRCGGKKHRPI</span></span>
-<span class="topo-line"><span class="topo-unknown">NEDEL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60     </span>
+<span class="topo-line"><span class="topo-unknown">MAGLSTDDGGSPKGDV</span><span class="topo-inside">DPFYYDYETV</span><span class="topo-membrane">RNGGLIFAALAFIVGLIIILS</span><span class="topo-outside">K</span><span class="topo-unknown">RLRCGGKKHRPINEDEL</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1159,6 +1182,7 @@ The Na+,K+-ATPase is a P-type ATPase pump that maintains the electrochemical gra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1174,8 +1198,9 @@ The Na+,K+-ATPase is a P-type ATPase pump that maintains the electrochemical gra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAGLSTDDGGSPKGDV</span><span class="topo-outside">DPFYYDYETVRNG</span><span class="topo-membrane">GLIFAALAFIVGLIIILSK</span><span class="topo-unknown">RLRCGGKKHRPI</span></span>
-<span class="topo-line"><span class="topo-unknown">NEDEL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60     </span>
+<span class="topo-line"><span class="topo-unknown">MAGLSTDDGGSPKGDV</span><span class="topo-outside">DPFYYDYETVRNG</span><span class="topo-membrane">GLIFAALAFIVGLIIILSK</span><span class="topo-unknown">RLRCGGKKHRPINEDEL</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1215,6 +1240,7 @@ The Na+,K+-ATPase is a P-type ATPase pump that maintains the electrochemical gra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1328,24 +1354,25 @@ The Na+,K+-ATPase is a P-type ATPase pump that maintains the electrochemical gra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGKGVGRDKYEPAAVSEHGDKKKAK</span><span class="topo-outside">KERDMDELKKEVSMDDHKLSLDELHRKYGTDLSRG</span></span>
-<span class="topo-line"><span class="topo-outside">LTPARAAEILARDGPNALTPPPTTPEWVKFCRQLFGGF</span><span class="topo-membrane">SMLLWIGAILCFLAYGIQA</span><span class="topo-inside">ATE</span></span>
-<span class="topo-line"><span class="topo-inside">EEP</span><span class="topo-membrane">QNDNLYLGVVLSAVVIITGC</span><span class="topo-outside">FSYYQEAKSSKIMESFKNMVPQQALVIRNGEKMSINA</span></span>
-<span class="topo-line"><span class="topo-outside">EEVVVGDLVEVKGGDRIPADLRIISANGCKVDNSSLTGESEPQTRSPDFTNENPLETRNI</span></span>
-<span class="topo-line"><span class="topo-outside">AFFSTNCVEGTARGIVVYTGDRTVMGRIATLASGLEGGQTPIAAEIEHFI</span><span class="topo-membrane">HIITGVAVFL</span></span>
-<span class="topo-line"><span class="topo-membrane">GVSFFILSLI</span><span class="topo-inside">LEYTW</span><span class="topo-membrane">LEAVIFLIGIIVANVPEGLLAT</span><span class="topo-outside">VTVCLTLTAKRMARKNCLVKNLE</span></span>
-<span class="topo-line"><span class="topo-outside">AVETLGSTSTICSDKTGTLTQNRMTVAHMWSDNQIHEADTTENQSGVSFDKTSATWLALS</span></span>
-<span class="topo-line"><span class="topo-outside">RIAGLCNRAVFQANQENLPILKRAVAGDASESALLKCIELCCGSVKEMRERYTKIVEIPF</span></span>
-<span class="topo-line"><span class="topo-outside">NSTNKYQLSIHKNPNTAEPRHLLVMKGAPERILDRCSSILIHGKEQPLDEELKDAFQNAY</span></span>
-<span class="topo-line"><span class="topo-outside">LELGGLGERVLGFCHLFLPDEQFPEGFQFDTDDVNFPLDNLCFVGLISMIDPPRAAVPDA</span></span>
-<span class="topo-line"><span class="topo-outside">VGKCRSAGIKVIMVTGDHPITAKAIAKGVGIISEGNETVEDIAARLNIPVSQVNPRDAKA</span></span>
-<span class="topo-line"><span class="topo-outside">CVVHGSDLKDMTSEQLDDILKYHTEIVFARTSPQQKLIIVEGCQRQGAIVAVTGDGVNDS</span></span>
-<span class="topo-line"><span class="topo-outside">PASKKADIGVAMGIAGSDVSKQAADMILLDDNFASIVTGVEEGRLIFDNLKKS</span><span class="topo-membrane">IAYTLTS</span></span>
-<span class="topo-line"><span class="topo-membrane">NIPEITPFLI</span><span class="topo-inside">FIIANIPLPL</span><span class="topo-membrane">GTVTILCIDLGTDMVPAISL</span><span class="topo-outside">AYEQAESDIMKRQPRNPKTD</span></span>
-<span class="topo-line"><span class="topo-outside">KLVNE</span><span class="topo-membrane">QLISMAYGQIGMIQALGGFFT</span><span class="topo-inside">YFVILAENGFLPIHLLGLRVNWDDRWINDVEDSY</span></span>
-<span class="topo-line"><span class="topo-inside">GQQWTYEQRKIVEFTCH</span><span class="topo-membrane">TPFFVTIVVVQWADLVICK</span><span class="topo-outside">TRRNSVFQQGMKNK</span><span class="topo-membrane">ILIFGLFEET</span></span>
-<span class="topo-line"><span class="topo-membrane">ALAAFLSYC</span><span class="topo-inside">PGMGVALRMYPLKPTWW</span><span class="topo-membrane">FCAFPYSLLIFVYDEVRKL</span><span class="topo-outside">IIRRRPGGWVEKETY</span></span>
-<span class="topo-line"><span class="topo-outside">Y</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGKGVGRDKYEPAAVSEHGDKKKAK</span><span class="topo-outside">KERDMDELKKEVSMDDHKLSLDELHRKYGTDLSRGLTPARAAEILARDGPNALTPPPTTPEWVKFCRQLFGGF</span><span class="topo-membrane">SMLLWIGAILCFLAYGIQA</span><span class="topo-inside">ATE</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">EEP</span><span class="topo-membrane">QNDNLYLGVVLSAVVIITGC</span><span class="topo-outside">FSYYQEAKSSKIMESFKNMVPQQALVIRNGEKMSINAEEVVVGDLVEVKGGDRIPADLRIISANGCKVDNSSLTGESEPQTRSPDFTNENPLETRNI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">AFFSTNCVEGTARGIVVYTGDRTVMGRIATLASGLEGGQTPIAAEIEHFI</span><span class="topo-membrane">HIITGVAVFLGVSFFILSLI</span><span class="topo-inside">LEYTW</span><span class="topo-membrane">LEAVIFLIGIIVANVPEGLLAT</span><span class="topo-outside">VTVCLTLTAKRMARKNCLVKNLE</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">AVETLGSTSTICSDKTGTLTQNRMTVAHMWSDNQIHEADTTENQSGVSFDKTSATWLALSRIAGLCNRAVFQANQENLPILKRAVAGDASESALLKCIELCCGSVKEMRERYTKIVEIPF</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">NSTNKYQLSIHKNPNTAEPRHLLVMKGAPERILDRCSSILIHGKEQPLDEELKDAFQNAYLELGGLGERVLGFCHLFLPDEQFPEGFQFDTDDVNFPLDNLCFVGLISMIDPPRAAVPDA</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-outside">VGKCRSAGIKVIMVTGDHPITAKAIAKGVGIISEGNETVEDIAARLNIPVSQVNPRDAKACVVHGSDLKDMTSEQLDDILKYHTEIVFARTSPQQKLIIVEGCQRQGAIVAVTGDGVNDS</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820       830       840</span>
+<span class="topo-line"><span class="topo-outside">PASKKADIGVAMGIAGSDVSKQAADMILLDDNFASIVTGVEEGRLIFDNLKKS</span><span class="topo-membrane">IAYTLTSNIPEITPFLI</span><span class="topo-inside">FIIANIPLPL</span><span class="topo-membrane">GTVTILCIDLGTDMVPAISL</span><span class="topo-outside">AYEQAESDIMKRQPRNPKTD</span></span>
+<span class="topo-ruler">       850       860       870       880       890       900       910       920       930       940       950       960</span>
+<span class="topo-line"><span class="topo-outside">KLVNE</span><span class="topo-membrane">QLISMAYGQIGMIQALGGFFT</span><span class="topo-inside">YFVILAENGFLPIHLLGLRVNWDDRWINDVEDSYGQQWTYEQRKIVEFTCH</span><span class="topo-membrane">TPFFVTIVVVQWADLVICK</span><span class="topo-outside">TRRNSVFQQGMKNK</span><span class="topo-membrane">ILIFGLFEET</span></span>
+<span class="topo-ruler">       970       980       990      1000      1010      1020 </span>
+<span class="topo-line"><span class="topo-membrane">ALAAFLSYC</span><span class="topo-inside">PGMGVALRMYPLKPTWW</span><span class="topo-membrane">FCAFPYSLLIFVYDEVRKL</span><span class="topo-outside">IIRRRPGGWVEKETYY</span></span>
+<details class="topo-details"><summary>Topology coordinates (22 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1511,6 +1538,7 @@ The Na+,K+-ATPase is a P-type ATPase pump that maintains the electrochemical gra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1526,12 +1554,13 @@ The Na+,K+-ATPase is a P-type ATPase pump that maintains the electrochemical gra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MARGKAKEEGSWKK</span><span class="topo-outside">FIWNSEKKEFLGRTGGS</span><span class="topo-membrane">WFKILLFYVIFYGCLAGIFIGT</span><span class="topo-inside">IQVMLLT</span></span>
-<span class="topo-line"><span class="topo-inside">ISEFKPTYQDRVAPPGLTQIPQSQKTEISFRPNDPQSYESYVVSIVRFLEKYKDLAQKDD</span></span>
-<span class="topo-line"><span class="topo-inside">MIFEDCGNVPSELKERGEYNNERGERKVCRFRLEWLGNCSGLNDETYGYKDGKPCVIIKL</span></span>
-<span class="topo-line"><span class="topo-inside">NRVLGFKPKPPKNESLETYPVMKYNPYVLPVHCTGKRDEDKEKVGTMEYFGLGGYPGFPL</span></span>
-<span class="topo-line"><span class="topo-inside">QYYPYYGKLLQPKYLQPLMAVQFTNLTMDTEIRIECKAYGENIGYSEKDRFQGRFDVKIE</span></span>
-<span class="topo-line"><span class="topo-inside">VKS</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MARGKAKEEGSWKK</span><span class="topo-outside">FIWNSEKKEFLGRTGGS</span><span class="topo-membrane">WFKILLFYVIFYGCLAGIFIGT</span><span class="topo-inside">IQVMLLTISEFKPTYQDRVAPPGLTQIPQSQKTEISFRPNDPQSYESYVVSIVRFLEKYKDLAQKDD</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">MIFEDCGNVPSELKERGEYNNERGERKVCRFRLEWLGNCSGLNDETYGYKDGKPCVIIKLNRVLGFKPKPPKNESLETYPVMKYNPYVLPVHCTGKRDEDKEKVGTMEYFGLGGYPGFPL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300   </span>
+<span class="topo-line"><span class="topo-inside">QYYPYYGKLLQPKYLQPLMAVQFTNLTMDTEIRIECKAYGENIGYSEKDRFQGRFDVKIEVKS</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1571,6 +1600,7 @@ The Na+,K+-ATPase is a P-type ATPase pump that maintains the electrochemical gra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1586,8 +1616,9 @@ The Na+,K+-ATPase is a P-type ATPase pump that maintains the electrochemical gra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAGLSTDDGGSPKGDV</span><span class="topo-inside">DPFYYDYETVRNG</span><span class="topo-membrane">GLIFAALAFIVGLIIIL</span><span class="topo-outside">SK</span><span class="topo-unknown">RLRCGGKKHRPI</span></span>
-<span class="topo-line"><span class="topo-unknown">NEDEL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60     </span>
+<span class="topo-line"><span class="topo-unknown">MAGLSTDDGGSPKGDV</span><span class="topo-inside">DPFYYDYETVRNG</span><span class="topo-membrane">GLIFAALAFIVGLIIIL</span><span class="topo-outside">SK</span><span class="topo-unknown">RLRCGGKKHRPINEDEL</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1634,6 +1665,7 @@ The Na+,K+-ATPase is a P-type ATPase pump that maintains the electrochemical gra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1649,8 +1681,9 @@ The Na+,K+-ATPase is a P-type ATPase pump that maintains the electrochemical gra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAGLSTDDGGSPKGDV</span><span class="topo-outside">DPFYYDYETVRNG</span><span class="topo-membrane">GLIFAALAFIVGLIIIL</span><span class="topo-inside">SK</span><span class="topo-unknown">RLRCGGKKHRPI</span></span>
-<span class="topo-line"><span class="topo-unknown">NEDEL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60     </span>
+<span class="topo-line"><span class="topo-unknown">MAGLSTDDGGSPKGDV</span><span class="topo-outside">DPFYYDYETVRNG</span><span class="topo-membrane">GLIFAALAFIVGLIIIL</span><span class="topo-inside">SK</span><span class="topo-unknown">RLRCGGKKHRPINEDEL</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1697,6 +1730,7 @@ The Na+,K+-ATPase is a P-type ATPase pump that maintains the electrochemical gra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1812,24 +1846,25 @@ The Na+,K+-ATPase is a P-type ATPase pump that maintains the electrochemical gra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGKGVGRDKYEPAAVSEHGDKKKAK</span><span class="topo-outside">KERDMDELKKEVSMDDHKLSLDELHRKYGTDLSRG</span></span>
-<span class="topo-line"><span class="topo-outside">LTPARAAEILARDGPNALTPPPTTPEWVKF</span><span class="topo-membrane">CRQLFGGFSMLLWIGAILCFLAYGIQ</span><span class="topo-inside">AATE</span></span>
-<span class="topo-line"><span class="topo-inside">EEP</span><span class="topo-membrane">QNDNLYLGVVLSAVVIITGCFS</span><span class="topo-outside">YYQEAKSSKIMESFKNMVPQQALVIRNGEKMSINA</span></span>
-<span class="topo-line"><span class="topo-outside">EEVVVGDLVEVKGGDRIPADLRIISANGCKVDNSSLTGESEPQTRSPDFTNENPLETRNI</span></span>
-<span class="topo-line"><span class="topo-outside">AFFSTNCVEGTARGIVVYTGDRTVMGRIATLASGLEGGQTPIAAEIEHF</span><span class="topo-membrane">IHIITGVAVFL</span></span>
-<span class="topo-line"><span class="topo-membrane">GVSFFILSLIL</span><span class="topo-inside">EYTW</span><span class="topo-membrane">LEAVIFLIGIIVANVPEGLLATVTV</span><span class="topo-outside">CLTLTAKRMARKNCLVKNLE</span></span>
-<span class="topo-line"><span class="topo-outside">AVETLGSTSTICSDKTGTLTQNRMTVAHMWSDNQIHEADTTENQSGVSFDKTSATWLALS</span></span>
-<span class="topo-line"><span class="topo-outside">RIAGLCNRAVFQANQENLPILKRAVAGDASESALLKCIELCCGSVKEMRERYTKIVEIPF</span></span>
-<span class="topo-line"><span class="topo-outside">NSTNKYQLSIHKNPNTAEPRHLLVMKGAPERILDRCSSILIHGKEQPLDEELKDAFQNAY</span></span>
-<span class="topo-line"><span class="topo-outside">LELGGLGERVLGFCHLFLPDEQFPEGFQFDTDDVNFPLDNLCFVGLISMIDPPRAAVPDA</span></span>
-<span class="topo-line"><span class="topo-outside">VGKCRSAGIKVIMVTGDHPITAKAIAKGVGIISEGNETVEDIAARLNIPVSQVNPRDAKA</span></span>
-<span class="topo-line"><span class="topo-outside">CVVHGSDLKDMTSEQLDDILKYHTEIVFARTSPQQKLIIVEGCQRQGAIVAVTGDGVNDS</span></span>
-<span class="topo-line"><span class="topo-outside">PASKKADIGVAMGIAGSDVSKQAADMILLDDNFASIVTGVEEGRLIFDNLKK</span><span class="topo-membrane">SIAYTLTS</span></span>
-<span class="topo-line"><span class="topo-membrane">NIPEITPFLIFIIA</span><span class="topo-inside">NIPL</span><span class="topo-membrane">PLGTVTILCIDLGTDMVPAISL</span><span class="topo-outside">AYEQAESDIMKRQPRNPKTD</span></span>
-<span class="topo-line"><span class="topo-outside">KLVNE</span><span class="topo-membrane">QLISMAYGQIGMIQALGGFFTYFV</span><span class="topo-inside">ILAENGFLPIHLLGLRVNWDDRWINDVEDSY</span></span>
-<span class="topo-line"><span class="topo-inside">GQQWTYEQRKIVEFTC</span><span class="topo-membrane">HTPFFVTIVVVQWADLVICK</span><span class="topo-outside">TRRNSVFQQGMKNK</span><span class="topo-membrane">ILIFGLFEET</span></span>
-<span class="topo-line"><span class="topo-membrane">ALAAFLSYCP</span><span class="topo-inside">GMGVALRMYP</span><span class="topo-membrane">LKPTWWFCAFPYSLLIFVYDEVR</span><span class="topo-outside">KLIIRRRPGGWVEKETY</span></span>
-<span class="topo-line"><span class="topo-outside">Y</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGKGVGRDKYEPAAVSEHGDKKKAK</span><span class="topo-outside">KERDMDELKKEVSMDDHKLSLDELHRKYGTDLSRGLTPARAAEILARDGPNALTPPPTTPEWVKF</span><span class="topo-membrane">CRQLFGGFSMLLWIGAILCFLAYGIQ</span><span class="topo-inside">AATE</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">EEP</span><span class="topo-membrane">QNDNLYLGVVLSAVVIITGCFS</span><span class="topo-outside">YYQEAKSSKIMESFKNMVPQQALVIRNGEKMSINAEEVVVGDLVEVKGGDRIPADLRIISANGCKVDNSSLTGESEPQTRSPDFTNENPLETRNI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">AFFSTNCVEGTARGIVVYTGDRTVMGRIATLASGLEGGQTPIAAEIEHF</span><span class="topo-membrane">IHIITGVAVFLGVSFFILSLIL</span><span class="topo-inside">EYTW</span><span class="topo-membrane">LEAVIFLIGIIVANVPEGLLATVTV</span><span class="topo-outside">CLTLTAKRMARKNCLVKNLE</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">AVETLGSTSTICSDKTGTLTQNRMTVAHMWSDNQIHEADTTENQSGVSFDKTSATWLALSRIAGLCNRAVFQANQENLPILKRAVAGDASESALLKCIELCCGSVKEMRERYTKIVEIPF</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">NSTNKYQLSIHKNPNTAEPRHLLVMKGAPERILDRCSSILIHGKEQPLDEELKDAFQNAYLELGGLGERVLGFCHLFLPDEQFPEGFQFDTDDVNFPLDNLCFVGLISMIDPPRAAVPDA</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-outside">VGKCRSAGIKVIMVTGDHPITAKAIAKGVGIISEGNETVEDIAARLNIPVSQVNPRDAKACVVHGSDLKDMTSEQLDDILKYHTEIVFARTSPQQKLIIVEGCQRQGAIVAVTGDGVNDS</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820       830       840</span>
+<span class="topo-line"><span class="topo-outside">PASKKADIGVAMGIAGSDVSKQAADMILLDDNFASIVTGVEEGRLIFDNLKK</span><span class="topo-membrane">SIAYTLTSNIPEITPFLIFIIA</span><span class="topo-inside">NIPL</span><span class="topo-membrane">PLGTVTILCIDLGTDMVPAISL</span><span class="topo-outside">AYEQAESDIMKRQPRNPKTD</span></span>
+<span class="topo-ruler">       850       860       870       880       890       900       910       920       930       940       950       960</span>
+<span class="topo-line"><span class="topo-outside">KLVNE</span><span class="topo-membrane">QLISMAYGQIGMIQALGGFFTYFV</span><span class="topo-inside">ILAENGFLPIHLLGLRVNWDDRWINDVEDSYGQQWTYEQRKIVEFTC</span><span class="topo-membrane">HTPFFVTIVVVQWADLVICK</span><span class="topo-outside">TRRNSVFQQGMKNK</span><span class="topo-membrane">ILIFGLFEET</span></span>
+<span class="topo-ruler">       970       980       990      1000      1010      1020 </span>
+<span class="topo-line"><span class="topo-membrane">ALAAFLSYCP</span><span class="topo-inside">GMGVALRMYP</span><span class="topo-membrane">LKPTWWFCAFPYSLLIFVYDEVR</span><span class="topo-outside">KLIIRRRPGGWVEKETYY</span></span>
+<details class="topo-details"><summary>Topology coordinates (22 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1995,6 +2030,7 @@ The Na+,K+-ATPase is a P-type ATPase pump that maintains the electrochemical gra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2010,12 +2046,13 @@ The Na+,K+-ATPase is a P-type ATPase pump that maintains the electrochemical gra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MARGKAKEEGSWKKF</span><span class="topo-outside">IWNSEKKEFLGRTGGSW</span><span class="topo-membrane">FKILLFYVIFYGCLAGIFIGTIQVM</span><span class="topo-inside">LLT</span></span>
-<span class="topo-line"><span class="topo-inside">ISEFKPTYQDRVAPPGLTQIPQSQKTEISFRPNDPQSYESYVVSIVRFLEKYKDLAQKDD</span></span>
-<span class="topo-line"><span class="topo-inside">MIFEDCGNVPSELKERGEYNNERGERKVCRFRLEWLGNCSGLNDETYGYKDGKPCVIIKL</span></span>
-<span class="topo-line"><span class="topo-inside">NRVLGFKPKPPKNESLETYPVMKYNPYVLPVHCTGKRDEDKEKVGTMEYFGLGGYPGFPL</span></span>
-<span class="topo-line"><span class="topo-inside">QYYPYYGKLLQPKYLQPLMAVQFTNLTMDTEIRIECKAYGENIGYSEKDRFQGRFDVKIE</span></span>
-<span class="topo-line"><span class="topo-inside">VKS</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MARGKAKEEGSWKKF</span><span class="topo-outside">IWNSEKKEFLGRTGGSW</span><span class="topo-membrane">FKILLFYVIFYGCLAGIFIGTIQVM</span><span class="topo-inside">LLTISEFKPTYQDRVAPPGLTQIPQSQKTEISFRPNDPQSYESYVVSIVRFLEKYKDLAQKDD</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">MIFEDCGNVPSELKERGEYNNERGERKVCRFRLEWLGNCSGLNDETYGYKDGKPCVIIKLNRVLGFKPKPPKNESLETYPVMKYNPYVLPVHCTGKRDEDKEKVGTMEYFGLGGYPGFPL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300   </span>
+<span class="topo-line"><span class="topo-inside">QYYPYYGKLLQPKYLQPLMAVQFTNLTMDTEIRIECKAYGENIGYSEKDRFQGRFDVKIEVKS</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2055,6 +2092,7 @@ The Na+,K+-ATPase is a P-type ATPase pump that maintains the electrochemical gra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2070,8 +2108,9 @@ The Na+,K+-ATPase is a P-type ATPase pump that maintains the electrochemical gra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAGLSTDDGGSPKGDV</span><span class="topo-inside">DPFYYDYETV</span><span class="topo-membrane">RNGGLIFAALAFIVGLIIIL</span><span class="topo-outside">SK</span><span class="topo-unknown">RLRCGGKKHRPI</span></span>
-<span class="topo-line"><span class="topo-unknown">NEDEL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60     </span>
+<span class="topo-line"><span class="topo-unknown">MAGLSTDDGGSPKGDV</span><span class="topo-inside">DPFYYDYETV</span><span class="topo-membrane">RNGGLIFAALAFIVGLIIIL</span><span class="topo-outside">SK</span><span class="topo-unknown">RLRCGGKKHRPINEDEL</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2118,6 +2157,7 @@ The Na+,K+-ATPase is a P-type ATPase pump that maintains the electrochemical gra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2133,24 +2173,25 @@ The Na+,K+-ATPase is a P-type ATPase pump that maintains the electrochemical gra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGKGVGRDKYEPAAVSEHGDKKKAK</span><span class="topo-outside">KERDMDELKKEVSMDDHKLSLDELHRKYGTDLSRG</span></span>
-<span class="topo-line"><span class="topo-outside">LTPARAAEILARDGPNALTPPPTTPEWVKF</span><span class="topo-membrane">CRQLFGGFSMLLWIGAILCFLAYGIQ</span><span class="topo-inside">AATE</span></span>
-<span class="topo-line"><span class="topo-inside">EEP</span><span class="topo-membrane">QNDNLYLGVVLSAVVIITGCFS</span><span class="topo-outside">YYQEAKSSKIMESFKNMVPQQALVIRNGEKMSINA</span></span>
-<span class="topo-line"><span class="topo-outside">EEVVVGDLVEVKGGDRIPADLRIISANGCKVDNSSLTGESEPQTRSPDFTNENPLETRNI</span></span>
-<span class="topo-line"><span class="topo-outside">AFFSTNCVEGTARGIVVYTGDRTVMGRIATLASGLEGGQTPIAAEIEHF</span><span class="topo-membrane">IHIITGVAVFL</span></span>
-<span class="topo-line"><span class="topo-membrane">GVSFFILSLIL</span><span class="topo-inside">EYTW</span><span class="topo-membrane">LEAVIFLIGIIVANVPEGLLATVTV</span><span class="topo-outside">CLTLTAKRMARKNCLVKNLE</span></span>
-<span class="topo-line"><span class="topo-outside">AVETLGSTSTICSDKTGTLTQNRMTVAHMWSDNQIHEADTTENQSGVSFDKTSATWLALS</span></span>
-<span class="topo-line"><span class="topo-outside">RIAGLCNRAVFQANQENLPILKRAVAGDASESALLKCIELCCGSVKEMRERYTKIVEIPF</span></span>
-<span class="topo-line"><span class="topo-outside">NSTNKYQLSIHKNPNTAEPRHLLVMKGAPERILDRCSSILIHGKEQPLDEELKDAFQNAY</span></span>
-<span class="topo-line"><span class="topo-outside">LELGGLGERVLGFCHLFLPDEQFPEGFQFDTDDVNFPLDNLCFVGLISMIDPPRAAVPDA</span></span>
-<span class="topo-line"><span class="topo-outside">VGKCRSAGIKVIMVTGDHPITAKAIAKGVGIISEGNETVEDIAARLNIPVSQVNPRDAKA</span></span>
-<span class="topo-line"><span class="topo-outside">CVVHGSDLKDMTSEQLDDILKYHTEIVFARTSPQQKLIIVEGCQRQGAIVAVTGDGVNDS</span></span>
-<span class="topo-line"><span class="topo-outside">PASKKADIGVAMGIAGSDVSKQAADMILLDDNFASIVTGVEEGRLIFDNLKK</span><span class="topo-membrane">SIAYTLTS</span></span>
-<span class="topo-line"><span class="topo-membrane">NIPEITPFLIFIIA</span><span class="topo-inside">NIPL</span><span class="topo-membrane">PLGTVTILCIDLGTDMVPAISL</span><span class="topo-outside">AYEQAESDIMKRQPRNPKTD</span></span>
-<span class="topo-line"><span class="topo-outside">KLVNE</span><span class="topo-membrane">QLISMAYGQIGMIQALGGFFTYFV</span><span class="topo-inside">ILAENGFLPIHLLGLRVNWDDRWINDVEDSY</span></span>
-<span class="topo-line"><span class="topo-inside">GQQWTYEQRKIVEFTC</span><span class="topo-membrane">HTPFFVTIVVVQWADLVICK</span><span class="topo-outside">TRRNSVFQQGMKNK</span><span class="topo-membrane">ILIFGLFEET</span></span>
-<span class="topo-line"><span class="topo-membrane">ALAAFLSYCP</span><span class="topo-inside">GMGVALRMYP</span><span class="topo-membrane">LKPTWWFCAFPYSLLIFVYDEVR</span><span class="topo-outside">KLIIRRRPGGWVEKETY</span></span>
-<span class="topo-line"><span class="topo-outside">Y</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGKGVGRDKYEPAAVSEHGDKKKAK</span><span class="topo-outside">KERDMDELKKEVSMDDHKLSLDELHRKYGTDLSRGLTPARAAEILARDGPNALTPPPTTPEWVKF</span><span class="topo-membrane">CRQLFGGFSMLLWIGAILCFLAYGIQ</span><span class="topo-inside">AATE</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">EEP</span><span class="topo-membrane">QNDNLYLGVVLSAVVIITGCFS</span><span class="topo-outside">YYQEAKSSKIMESFKNMVPQQALVIRNGEKMSINAEEVVVGDLVEVKGGDRIPADLRIISANGCKVDNSSLTGESEPQTRSPDFTNENPLETRNI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">AFFSTNCVEGTARGIVVYTGDRTVMGRIATLASGLEGGQTPIAAEIEHF</span><span class="topo-membrane">IHIITGVAVFLGVSFFILSLIL</span><span class="topo-inside">EYTW</span><span class="topo-membrane">LEAVIFLIGIIVANVPEGLLATVTV</span><span class="topo-outside">CLTLTAKRMARKNCLVKNLE</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">AVETLGSTSTICSDKTGTLTQNRMTVAHMWSDNQIHEADTTENQSGVSFDKTSATWLALSRIAGLCNRAVFQANQENLPILKRAVAGDASESALLKCIELCCGSVKEMRERYTKIVEIPF</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">NSTNKYQLSIHKNPNTAEPRHLLVMKGAPERILDRCSSILIHGKEQPLDEELKDAFQNAYLELGGLGERVLGFCHLFLPDEQFPEGFQFDTDDVNFPLDNLCFVGLISMIDPPRAAVPDA</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-outside">VGKCRSAGIKVIMVTGDHPITAKAIAKGVGIISEGNETVEDIAARLNIPVSQVNPRDAKACVVHGSDLKDMTSEQLDDILKYHTEIVFARTSPQQKLIIVEGCQRQGAIVAVTGDGVNDS</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820       830       840</span>
+<span class="topo-line"><span class="topo-outside">PASKKADIGVAMGIAGSDVSKQAADMILLDDNFASIVTGVEEGRLIFDNLKK</span><span class="topo-membrane">SIAYTLTSNIPEITPFLIFIIA</span><span class="topo-inside">NIPL</span><span class="topo-membrane">PLGTVTILCIDLGTDMVPAISL</span><span class="topo-outside">AYEQAESDIMKRQPRNPKTD</span></span>
+<span class="topo-ruler">       850       860       870       880       890       900       910       920       930       940       950       960</span>
+<span class="topo-line"><span class="topo-outside">KLVNE</span><span class="topo-membrane">QLISMAYGQIGMIQALGGFFTYFV</span><span class="topo-inside">ILAENGFLPIHLLGLRVNWDDRWINDVEDSYGQQWTYEQRKIVEFTC</span><span class="topo-membrane">HTPFFVTIVVVQWADLVICK</span><span class="topo-outside">TRRNSVFQQGMKNK</span><span class="topo-membrane">ILIFGLFEET</span></span>
+<span class="topo-ruler">       970       980       990      1000      1010      1020 </span>
+<span class="topo-line"><span class="topo-membrane">ALAAFLSYCP</span><span class="topo-inside">GMGVALRMYP</span><span class="topo-membrane">LKPTWWFCAFPYSLLIFVYDEVR</span><span class="topo-outside">KLIIRRRPGGWVEKETYY</span></span>
+<details class="topo-details"><summary>Topology coordinates (22 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2316,6 +2357,7 @@ The Na+,K+-ATPase is a P-type ATPase pump that maintains the electrochemical gra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2331,12 +2373,13 @@ The Na+,K+-ATPase is a P-type ATPase pump that maintains the electrochemical gra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MARGKAKEEGSWKKF</span><span class="topo-outside">IWNSEKKEFLGRTGGSW</span><span class="topo-membrane">FKILLFYVIFYGCLAGIFIGTIQVM</span><span class="topo-inside">LLT</span></span>
-<span class="topo-line"><span class="topo-inside">ISEFKPTYQDRVAPPGLTQIPQSQKTEISFRPNDPQSYESYVVSIVRFLEKYKDLAQKDD</span></span>
-<span class="topo-line"><span class="topo-inside">MIFEDCGNVPSELKERGEYNNERGERKVCRFRLEWLGNCSGLNDETYGYKDGKPCVIIKL</span></span>
-<span class="topo-line"><span class="topo-inside">NRVLGFKPKPPKNESLETYPVMKYNPYVLPVHCTGKRDEDKEKVGTMEYFGLGGYPGFPL</span></span>
-<span class="topo-line"><span class="topo-inside">QYYPYYGKLLQPKYLQPLMAVQFTNLTMDTEIRIECKAYGENIGYSEKDRFQGRFDVKIE</span></span>
-<span class="topo-line"><span class="topo-inside">VKS</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MARGKAKEEGSWKKF</span><span class="topo-outside">IWNSEKKEFLGRTGGSW</span><span class="topo-membrane">FKILLFYVIFYGCLAGIFIGTIQVM</span><span class="topo-inside">LLTISEFKPTYQDRVAPPGLTQIPQSQKTEISFRPNDPQSYESYVVSIVRFLEKYKDLAQKDD</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">MIFEDCGNVPSELKERGEYNNERGERKVCRFRLEWLGNCSGLNDETYGYKDGKPCVIIKLNRVLGFKPKPPKNESLETYPVMKYNPYVLPVHCTGKRDEDKEKVGTMEYFGLGGYPGFPL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300   </span>
+<span class="topo-line"><span class="topo-inside">QYYPYYGKLLQPKYLQPLMAVQFTNLTMDTEIRIECKAYGENIGYSEKDRFQGRFDVKIEVKS</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2376,6 +2419,7 @@ The Na+,K+-ATPase is a P-type ATPase pump that maintains the electrochemical gra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2391,8 +2435,9 @@ The Na+,K+-ATPase is a P-type ATPase pump that maintains the electrochemical gra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAGLSTDDGGSPKGDV</span><span class="topo-inside">DPFYYDYETV</span><span class="topo-membrane">RNGGLIFAALAFIVGLIIIL</span><span class="topo-outside">SK</span><span class="topo-unknown">RLRCGGKKHRPI</span></span>
-<span class="topo-line"><span class="topo-unknown">NEDEL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60     </span>
+<span class="topo-line"><span class="topo-unknown">MAGLSTDDGGSPKGDV</span><span class="topo-inside">DPFYYDYETV</span><span class="topo-membrane">RNGGLIFAALAFIVGLIIIL</span><span class="topo-outside">SK</span><span class="topo-unknown">RLRCGGKKHRPINEDEL</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2439,6 +2484,7 @@ The Na+,K+-ATPase is a P-type ATPase pump that maintains the electrochemical gra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2489,24 +2535,25 @@ The Na+,K+-ATPase is a P-type ATPase pump that maintains the electrochemical gra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGKGVGRDKYEPAAVSEHGDKKKAKKERDMDELK</span><span class="topo-inside">KEVSMDDHKLSLDELHRKYGTDLSRG</span></span>
-<span class="topo-line"><span class="topo-inside">LTPARAAEILARDGPNALTPPPTTPE</span><span class="topo-membrane">WVKFCRQLFGGFSMLLWIGAILCFLAY</span><span class="topo-outside">GIQAATE</span></span>
-<span class="topo-line"><span class="topo-outside">EEPQNDN</span><span class="topo-membrane">LYLGVVLSAVVIITGCFSYYQE</span><span class="topo-inside">AKSSKIMESFKNMVPQQALVIRNGEKMSINA</span></span>
-<span class="topo-line"><span class="topo-inside">EEVVVGDLVEVKGGDRIPADLRIISANGCKVDNSSLTGESEPQTRSPDFTNENPLETRNI</span></span>
-<span class="topo-line"><span class="topo-inside">AFFSTNCVEGTARGIVVYTGDRTVMGRIATLASGLEGGQTPIAAEIE</span><span class="topo-membrane">HFIHIITGVAVFL</span></span>
-<span class="topo-line"><span class="topo-membrane">GVSFFILSLI</span><span class="topo-outside">LEYTW</span><span class="topo-membrane">LEAVIFLIGIIVANVPEGLLATVTV</span><span class="topo-inside">CLTLTAKRMARKNCLVKNLE</span></span>
-<span class="topo-line"><span class="topo-inside">AVETLGSTSTICSDKTGTLTQNRMTVAHMWSDNQIHEADTTENQSGVSFDKTSATWLALS</span></span>
-<span class="topo-line"><span class="topo-inside">RIAGLCNRAVFQANQENLPILKRAVAGDASESALLKCIELCCGSVKEMRERYTKIVEIPF</span></span>
-<span class="topo-line"><span class="topo-inside">NSTNKYQLSIHKNPNTAEPRHLLVMKGAPERILDRCSSILIHGKEQPLDEELKDAFQNAY</span></span>
-<span class="topo-line"><span class="topo-inside">LELGGLGERVLGFCHLFLPDEQFPEGFQFDTDDVNFPLDNLCFVGLISMIDPPRAAVPDA</span></span>
-<span class="topo-line"><span class="topo-inside">VGKCRSAGIKVIMVTGDHPITAKAIAKGVGIISEGNETVEDIAARLNIPVSQVNPRDAKA</span></span>
-<span class="topo-line"><span class="topo-inside">CVVHGSDLKDMTSEQLDDILKYHTEIVFARTSPQQKLIIVEGCQRQGAIVAVTGDGVNDS</span></span>
-<span class="topo-line"><span class="topo-inside">PASKKADIGVAMGIAGSDVSKQAADMILLDDNFASIVTGVEEGRLIFDNL</span><span class="topo-membrane">KKSIAYTLTS</span></span>
-<span class="topo-line"><span class="topo-membrane">NIPEITPFLIFIIA</span><span class="topo-outside">NIPL</span><span class="topo-membrane">PLGTVTILCIDLGTDMVPAISLAYE</span><span class="topo-inside">QAESDIMKRQPRNPKTD</span></span>
-<span class="topo-line"><span class="topo-inside">KLV</span><span class="topo-membrane">NEQLISMAYGQIGMIQALGGFFTYFV</span><span class="topo-outside">ILAENGFLPIHLLGLRVNWDDRWINDVEDSY</span></span>
-<span class="topo-line"><span class="topo-outside">GQQWTYEQRKIVEFTC</span><span class="topo-membrane">HTPFFVTIVVVQWADLVICKT</span><span class="topo-inside">RRNSVFQQG</span><span class="topo-membrane">MKNKILIFGLFEET</span></span>
-<span class="topo-line"><span class="topo-membrane">ALAAFLSYC</span><span class="topo-outside">PGMGVALRMYPLKP</span><span class="topo-membrane">TWWFCAFPYSLLIFVYDEVRKL</span><span class="topo-inside">IIRRRPGGWVEKETY</span></span>
-<span class="topo-line"><span class="topo-inside">Y</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGKGVGRDKYEPAAVSEHGDKKKAKKERDMDELK</span><span class="topo-inside">KEVSMDDHKLSLDELHRKYGTDLSRGLTPARAAEILARDGPNALTPPPTTPE</span><span class="topo-membrane">WVKFCRQLFGGFSMLLWIGAILCFLAY</span><span class="topo-outside">GIQAATE</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">EEPQNDN</span><span class="topo-membrane">LYLGVVLSAVVIITGCFSYYQE</span><span class="topo-inside">AKSSKIMESFKNMVPQQALVIRNGEKMSINAEEVVVGDLVEVKGGDRIPADLRIISANGCKVDNSSLTGESEPQTRSPDFTNENPLETRNI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">AFFSTNCVEGTARGIVVYTGDRTVMGRIATLASGLEGGQTPIAAEIE</span><span class="topo-membrane">HFIHIITGVAVFLGVSFFILSLI</span><span class="topo-outside">LEYTW</span><span class="topo-membrane">LEAVIFLIGIIVANVPEGLLATVTV</span><span class="topo-inside">CLTLTAKRMARKNCLVKNLE</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">AVETLGSTSTICSDKTGTLTQNRMTVAHMWSDNQIHEADTTENQSGVSFDKTSATWLALSRIAGLCNRAVFQANQENLPILKRAVAGDASESALLKCIELCCGSVKEMRERYTKIVEIPF</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-inside">NSTNKYQLSIHKNPNTAEPRHLLVMKGAPERILDRCSSILIHGKEQPLDEELKDAFQNAYLELGGLGERVLGFCHLFLPDEQFPEGFQFDTDDVNFPLDNLCFVGLISMIDPPRAAVPDA</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-inside">VGKCRSAGIKVIMVTGDHPITAKAIAKGVGIISEGNETVEDIAARLNIPVSQVNPRDAKACVVHGSDLKDMTSEQLDDILKYHTEIVFARTSPQQKLIIVEGCQRQGAIVAVTGDGVNDS</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820       830       840</span>
+<span class="topo-line"><span class="topo-inside">PASKKADIGVAMGIAGSDVSKQAADMILLDDNFASIVTGVEEGRLIFDNL</span><span class="topo-membrane">KKSIAYTLTSNIPEITPFLIFIIA</span><span class="topo-outside">NIPL</span><span class="topo-membrane">PLGTVTILCIDLGTDMVPAISLAYE</span><span class="topo-inside">QAESDIMKRQPRNPKTD</span></span>
+<span class="topo-ruler">       850       860       870       880       890       900       910       920       930       940       950       960</span>
+<span class="topo-line"><span class="topo-inside">KLV</span><span class="topo-membrane">NEQLISMAYGQIGMIQALGGFFTYFV</span><span class="topo-outside">ILAENGFLPIHLLGLRVNWDDRWINDVEDSYGQQWTYEQRKIVEFTC</span><span class="topo-membrane">HTPFFVTIVVVQWADLVICKT</span><span class="topo-inside">RRNSVFQQG</span><span class="topo-membrane">MKNKILIFGLFEET</span></span>
+<span class="topo-ruler">       970       980       990      1000      1010      1020 </span>
+<span class="topo-line"><span class="topo-membrane">ALAAFLSYC</span><span class="topo-outside">PGMGVALRMYPLKP</span><span class="topo-membrane">TWWFCAFPYSLLIFVYDEVRKL</span><span class="topo-inside">IIRRRPGGWVEKETYY</span></span>
+<details class="topo-details"><summary>Topology coordinates (22 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2672,6 +2719,7 @@ The Na+,K+-ATPase is a P-type ATPase pump that maintains the electrochemical gra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2687,12 +2735,13 @@ The Na+,K+-ATPase is a P-type ATPase pump that maintains the electrochemical gra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MARGKAKEEGSWKKFIWN</span><span class="topo-inside">SEKKEFLGRTGGS</span><span class="topo-membrane">WFKILLFYVIFYGCLAGIFIGTIQVM</span><span class="topo-outside">LLT</span></span>
-<span class="topo-line"><span class="topo-outside">ISEFKPTYQDRVAPPGLTQIPQSQKTEISFRPNDPQSYESYVVSIVRFLEKYKDLAQKDD</span></span>
-<span class="topo-line"><span class="topo-outside">MIFEDCGNVPSELKERGEYNNERGERKVCRSRLEWLGNCSGLNDETYGYKDGKPCVIIKL</span></span>
-<span class="topo-line"><span class="topo-outside">NRVLGFKPKPPKNESLETYPVMKYNPYVLPVHCTGKRDEDKEKVGTMEYFGLGGYPGFPL</span></span>
-<span class="topo-line"><span class="topo-outside">QYYPYYGKLLQPKYLQPLMAVQFTNLTMDTEIRIECKAYGENIGYSEKDRFQGRFDVKIE</span></span>
-<span class="topo-line"><span class="topo-outside">VKS</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MARGKAKEEGSWKKFIWN</span><span class="topo-inside">SEKKEFLGRTGGS</span><span class="topo-membrane">WFKILLFYVIFYGCLAGIFIGTIQVM</span><span class="topo-outside">LLTISEFKPTYQDRVAPPGLTQIPQSQKTEISFRPNDPQSYESYVVSIVRFLEKYKDLAQKDD</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">MIFEDCGNVPSELKERGEYNNERGERKVCRSRLEWLGNCSGLNDETYGYKDGKPCVIIKLNRVLGFKPKPPKNESLETYPVMKYNPYVLPVHCTGKRDEDKEKVGTMEYFGLGGYPGFPL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300   </span>
+<span class="topo-line"><span class="topo-outside">QYYPYYGKLLQPKYLQPLMAVQFTNLTMDTEIRIECKAYGENIGYSEKDRFQGRFDVKIEVKS</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2732,6 +2781,7 @@ The Na+,K+-ATPase is a P-type ATPase pump that maintains the electrochemical gra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2747,8 +2797,9 @@ The Na+,K+-ATPase is a P-type ATPase pump that maintains the electrochemical gra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAGLSTDDGGSPKGDVDP</span><span class="topo-outside">FYYDYETVRNG</span><span class="topo-membrane">GLIFAALAFIVGLIILLS</span><span class="topo-unknown">KRLRCGGKKHRPI</span></span>
-<span class="topo-line"><span class="topo-unknown">NEDEL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60     </span>
+<span class="topo-line"><span class="topo-unknown">MAGLSTDDGGSPKGDVDP</span><span class="topo-outside">FYYDYETVRNG</span><span class="topo-membrane">GLIFAALAFIVGLIILLS</span><span class="topo-unknown">KRLRCGGKKHRPINEDEL</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2788,6 +2839,7 @@ The Na+,K+-ATPase is a P-type ATPase pump that maintains the electrochemical gra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2894,23 +2946,25 @@ The Na+,K+-ATPase is a P-type ATPase pump that maintains the electrochemical gra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GRDKYEPAAVSEHGDKKKAK</span><span class="topo-outside">KERDMDELKKEVSMDDHKLSLDELHRKYGTDLSRGLTPAR</span></span>
-<span class="topo-line"><span class="topo-outside">AAEILARDGPNALTPPPTTP</span><span class="topo-unknown">EWVKFCRQLF</span><span class="topo-outside">GGF</span><span class="topo-membrane">SMLLWIGAILCFLAYGIQA</span><span class="topo-inside">ATEEEPQN</span></span>
-<span class="topo-line"><span class="topo-membrane">DNLYLGVVLSAVVIITGC</span><span class="topo-outside">FSYYQEAKSSKIMESFKNMVPQQALVIRNGEKMSINAEEVVV</span></span>
-<span class="topo-line"><span class="topo-outside">GDLVEVKGGDRIPADLRIISANGCKVDNSSLTGESEPQTRSPDFTNENPLETRNIAFFST</span></span>
-<span class="topo-line"><span class="topo-outside">NCVEGTARGIVVYTGDRTVMGRIATLASGLEGGQTPIAAEIEHFI</span><span class="topo-membrane">HIITGVAVFLGVSFF</span></span>
-<span class="topo-line"><span class="topo-membrane">ILSLIL</span><span class="topo-inside">EYTW</span><span class="topo-membrane">LEAVIFLIGIIVANVPEGLLAT</span><span class="topo-outside">VTVCLTLTAKRMARKNCLVKNLEAVETL</span></span>
-<span class="topo-line"><span class="topo-outside">GSTSTICSDKTGTLTQNRMTVAHMWSDNQIHEADTTENQSGVSFDKTSATWLALSRIAGL</span></span>
-<span class="topo-line"><span class="topo-outside">CNRAVFQANQENLPILKRAVAGDASESALLKCIELCCGSVKEMRERYTKIVEIPFNSTNK</span></span>
-<span class="topo-line"><span class="topo-outside">YQLSIHKNPNTAEPRHLLVMKGAPERILDRCSSILIHGKEQPLDEELKDAFQNAYLELGG</span></span>
-<span class="topo-line"><span class="topo-outside">LGERVLGFCHLFLPDEQFPEGFQFDTDDVNFPLDNLCFVGLISMIDPPRAAVPDAVGKCR</span></span>
-<span class="topo-line"><span class="topo-outside">SAGIKVIMVTGDHPITAKAIAKGVGIISEGNETVEDIAARLNIPVSQVNPRDAKACVVHG</span></span>
-<span class="topo-line"><span class="topo-outside">SDLKDMTSEQLDDILKYHTEIVFARTSPQQKLIIVEGCQRQGAIVAVTGDGVNDSPASKK</span></span>
-<span class="topo-line"><span class="topo-outside">ADIGVAMGIAGSDVSKQAADMILLDDNFASIVTGVEEGRLIFDNLKKS</span><span class="topo-membrane">IAYTLTSNIPEI</span></span>
-<span class="topo-line"><span class="topo-membrane">TPFLIFII</span><span class="topo-inside">ANIPLP</span><span class="topo-membrane">LGTVTILCIDLGTDMVPAIS</span><span class="topo-outside">LAYEQAESDIMKRQPRNPKTDKLVNE</span></span>
-<span class="topo-line"><span class="topo-outside">QL</span><span class="topo-membrane">ISMAYGQIGMIQALGGFFTY</span><span class="topo-inside">FVILAENGFLPIHLLGLRVNWDDRWINDVEDSYGQQWT</span></span>
-<span class="topo-line"><span class="topo-inside">YEQRKIVEFTCH</span><span class="topo-membrane">TPFFVTIVVVQWADLVIC</span><span class="topo-outside">KTRRNSVFQQGMKNKI</span><span class="topo-membrane">LIFGLFEETALAAF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GRDKYEPAAVSEHGDKKKAK</span><span class="topo-outside">KERDMDELKKEVSMDDHKLSLDELHRKYGTDLSRGLTPARAAEILARDGPNALTPPPTTP</span><span class="topo-unknown">EWVKFCRQLF</span><span class="topo-outside">GGF</span><span class="topo-membrane">SMLLWIGAILCFLAYGIQA</span><span class="topo-inside">ATEEEPQN</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">DNLYLGVVLSAVVIITGC</span><span class="topo-outside">FSYYQEAKSSKIMESFKNMVPQQALVIRNGEKMSINAEEVVVGDLVEVKGGDRIPADLRIISANGCKVDNSSLTGESEPQTRSPDFTNENPLETRNIAFFST</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">NCVEGTARGIVVYTGDRTVMGRIATLASGLEGGQTPIAAEIEHFI</span><span class="topo-membrane">HIITGVAVFLGVSFFILSLIL</span><span class="topo-inside">EYTW</span><span class="topo-membrane">LEAVIFLIGIIVANVPEGLLAT</span><span class="topo-outside">VTVCLTLTAKRMARKNCLVKNLEAVETL</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">GSTSTICSDKTGTLTQNRMTVAHMWSDNQIHEADTTENQSGVSFDKTSATWLALSRIAGLCNRAVFQANQENLPILKRAVAGDASESALLKCIELCCGSVKEMRERYTKIVEIPFNSTNK</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">YQLSIHKNPNTAEPRHLLVMKGAPERILDRCSSILIHGKEQPLDEELKDAFQNAYLELGGLGERVLGFCHLFLPDEQFPEGFQFDTDDVNFPLDNLCFVGLISMIDPPRAAVPDAVGKCR</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-outside">SAGIKVIMVTGDHPITAKAIAKGVGIISEGNETVEDIAARLNIPVSQVNPRDAKACVVHGSDLKDMTSEQLDDILKYHTEIVFARTSPQQKLIIVEGCQRQGAIVAVTGDGVNDSPASKK</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820       830       840</span>
+<span class="topo-line"><span class="topo-outside">ADIGVAMGIAGSDVSKQAADMILLDDNFASIVTGVEEGRLIFDNLKKS</span><span class="topo-membrane">IAYTLTSNIPEITPFLIFII</span><span class="topo-inside">ANIPLP</span><span class="topo-membrane">LGTVTILCIDLGTDMVPAIS</span><span class="topo-outside">LAYEQAESDIMKRQPRNPKTDKLVNE</span></span>
+<span class="topo-ruler">       850       860       870       880       890       900       910       920       930       940       950       960</span>
+<span class="topo-line"><span class="topo-outside">QL</span><span class="topo-membrane">ISMAYGQIGMIQALGGFFTY</span><span class="topo-inside">FVILAENGFLPIHLLGLRVNWDDRWINDVEDSYGQQWTYEQRKIVEFTCH</span><span class="topo-membrane">TPFFVTIVVVQWADLVIC</span><span class="topo-outside">KTRRNSVFQQGMKNKI</span><span class="topo-membrane">LIFGLFEETALAAF</span></span>
+<span class="topo-ruler">       970       980       990      1000      1010      </span>
 <span class="topo-line"><span class="topo-membrane">LSYC</span><span class="topo-inside">PGMGVALRMYPLKP</span><span class="topo-membrane">TWWFCAFPYSLLIFVYDEVR</span><span class="topo-outside">KLIIRRRPGGWVEKETYY</span></span>
+<details class="topo-details"><summary>Topology coordinates (23 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3083,6 +3137,7 @@ The Na+,K+-ATPase is a P-type ATPase pump that maintains the electrochemical gra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3098,12 +3153,13 @@ The Na+,K+-ATPase is a P-type ATPase pump that maintains the electrochemical gra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MARGKAKEEGSW</span><span class="topo-outside">KKFIWNSEKKEFLGRTG</span><span class="topo-membrane">GSWFKILLFYVIFYGCLAGIFIGT</span><span class="topo-inside">IQVMLLT</span></span>
-<span class="topo-line"><span class="topo-inside">ISEFKPTYQDRVAPPGLTQIPQSQKTEISFRPNDPQSYESYVVSIVRFLEKYKDLAQKDD</span></span>
-<span class="topo-line"><span class="topo-inside">MIFEDCGNVPSELKERGEYNNERGERKVCRFRLEWLGNCSGLNDETYGYKDGKPCVIIKL</span></span>
-<span class="topo-line"><span class="topo-inside">NRVLGFKPKPPKNESLETYPVMKYNPYVLPVHCTGKRDEDKEKVGTMEYFGLGGYPGFPL</span></span>
-<span class="topo-line"><span class="topo-inside">QYYPYYGKLLQPKYLQPLMAVQFTNLTMDTEIRIECKAYGENIGYSEKDRFQGRFDVKIE</span></span>
-<span class="topo-line"><span class="topo-inside">VKS</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MARGKAKEEGSW</span><span class="topo-outside">KKFIWNSEKKEFLGRTG</span><span class="topo-membrane">GSWFKILLFYVIFYGCLAGIFIGT</span><span class="topo-inside">IQVMLLTISEFKPTYQDRVAPPGLTQIPQSQKTEISFRPNDPQSYESYVVSIVRFLEKYKDLAQKDD</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">MIFEDCGNVPSELKERGEYNNERGERKVCRFRLEWLGNCSGLNDETYGYKDGKPCVIIKLNRVLGFKPKPPKNESLETYPVMKYNPYVLPVHCTGKRDEDKEKVGTMEYFGLGGYPGFPL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300   </span>
+<span class="topo-line"><span class="topo-inside">QYYPYYGKLLQPKYLQPLMAVQFTNLTMDTEIRIECKAYGENIGYSEKDRFQGRFDVKIEVKS</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3136,6 +3192,7 @@ The Na+,K+-ATPase is a P-type ATPase pump that maintains the electrochemical gra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3151,8 +3208,9 @@ The Na+,K+-ATPase is a P-type ATPase pump that maintains the electrochemical gra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAGLSTDDGGSPKGDV</span><span class="topo-inside">DPFYYDYETVRN</span><span class="topo-membrane">GGLIFAALAFIVGLIIIL</span><span class="topo-outside">SK</span><span class="topo-unknown">RLRCGGKKHRPI</span></span>
-<span class="topo-line"><span class="topo-unknown">NEDEL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60     </span>
+<span class="topo-line"><span class="topo-unknown">MAGLSTDDGGSPKGDV</span><span class="topo-inside">DPFYYDYETVRN</span><span class="topo-membrane">GGLIFAALAFIVGLIIIL</span><span class="topo-outside">SK</span><span class="topo-unknown">RLRCGGKKHRPINEDEL</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3185,6 +3243,7 @@ The Na+,K+-ATPase is a P-type ATPase pump that maintains the electrochemical gra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3200,23 +3259,25 @@ The Na+,K+-ATPase is a P-type ATPase pump that maintains the electrochemical gra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GRDKYEPAAVSEHGDKKKAK</span><span class="topo-outside">KERDMDELKKEVSMDDHKLSLDELHRKYGTDLSRGLTPAR</span></span>
-<span class="topo-line"><span class="topo-outside">AAEILARDGPNALTPPPTTP</span><span class="topo-unknown">EWVKFCRQLF</span><span class="topo-outside">GGF</span><span class="topo-membrane">SMLLWIGAILCFLAYGIQA</span><span class="topo-inside">ATEEEPQN</span></span>
-<span class="topo-line"><span class="topo-membrane">DNLYLGVVLSAVVIITGC</span><span class="topo-outside">FSYYQEAKSSKIMESFKNMVPQQALVIRNGEKMSINAEEVVV</span></span>
-<span class="topo-line"><span class="topo-outside">GDLVEVKGGDRIPADLRIISANGCKVDNSSLTGESEPQTRSPDFTNENPLETRNIAFFST</span></span>
-<span class="topo-line"><span class="topo-outside">NCVEGTARGIVVYTGDRTVMGRIATLASGLEGGQTPIAAEIEHFI</span><span class="topo-membrane">HIITGVAVFLGVSFF</span></span>
-<span class="topo-line"><span class="topo-membrane">ILSLIL</span><span class="topo-inside">EYTW</span><span class="topo-membrane">LEAVIFLIGIIVANVPEGLLAT</span><span class="topo-outside">VTVCLTLTAKRMARKNCLVKNLEAVETL</span></span>
-<span class="topo-line"><span class="topo-outside">GSTSTICSDKTGTLTQNRMTVAHMWSDNQIHEADTTENQSGVSFDKTSATWLALSRIAGL</span></span>
-<span class="topo-line"><span class="topo-outside">CNRAVFQANQENLPILKRAVAGDASESALLKCIELCCGSVKEMRERYTKIVEIPFNSTNK</span></span>
-<span class="topo-line"><span class="topo-outside">YQLSIHKNPNTAEPRHLLVMKGAPERILDRCSSILIHGKEQPLDEELKDAFQNAYLELGG</span></span>
-<span class="topo-line"><span class="topo-outside">LGERVLGFCHLFLPDEQFPEGFQFDTDDVNFPLDNLCFVGLISMIDPPRAAVPDAVGKCR</span></span>
-<span class="topo-line"><span class="topo-outside">SAGIKVIMVTGDHPITAKAIAKGVGIISEGNETVEDIAARLNIPVSQVNPRDAKACVVHG</span></span>
-<span class="topo-line"><span class="topo-outside">SDLKDMTSEQLDDILKYHTEIVFARTSPQQKLIIVEGCQRQGAIVAVTGDGVNDSPASKK</span></span>
-<span class="topo-line"><span class="topo-outside">ADIGVAMGIAGSDVSKQAADMILLDDNFASIVTGVEEGRLIFDNLKKS</span><span class="topo-membrane">IAYTLTSNIPEI</span></span>
-<span class="topo-line"><span class="topo-membrane">TPFLIFII</span><span class="topo-inside">ANIPLP</span><span class="topo-membrane">LGTVTILCIDLGTDMVPAIS</span><span class="topo-outside">LAYEQAESDIMKRQPRNPKTDKLVNE</span></span>
-<span class="topo-line"><span class="topo-outside">QL</span><span class="topo-membrane">ISMAYGQIGMIQALGGFFTY</span><span class="topo-inside">FVILAENGFLPIHLLGLRVNWDDRWINDVEDSYGQQWT</span></span>
-<span class="topo-line"><span class="topo-inside">YEQRKIVEFTCH</span><span class="topo-membrane">TPFFVTIVVVQWADLVIC</span><span class="topo-outside">KTRRNSVFQQGMKNKI</span><span class="topo-membrane">LIFGLFEETALAAF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GRDKYEPAAVSEHGDKKKAK</span><span class="topo-outside">KERDMDELKKEVSMDDHKLSLDELHRKYGTDLSRGLTPARAAEILARDGPNALTPPPTTP</span><span class="topo-unknown">EWVKFCRQLF</span><span class="topo-outside">GGF</span><span class="topo-membrane">SMLLWIGAILCFLAYGIQA</span><span class="topo-inside">ATEEEPQN</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">DNLYLGVVLSAVVIITGC</span><span class="topo-outside">FSYYQEAKSSKIMESFKNMVPQQALVIRNGEKMSINAEEVVVGDLVEVKGGDRIPADLRIISANGCKVDNSSLTGESEPQTRSPDFTNENPLETRNIAFFST</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">NCVEGTARGIVVYTGDRTVMGRIATLASGLEGGQTPIAAEIEHFI</span><span class="topo-membrane">HIITGVAVFLGVSFFILSLIL</span><span class="topo-inside">EYTW</span><span class="topo-membrane">LEAVIFLIGIIVANVPEGLLAT</span><span class="topo-outside">VTVCLTLTAKRMARKNCLVKNLEAVETL</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">GSTSTICSDKTGTLTQNRMTVAHMWSDNQIHEADTTENQSGVSFDKTSATWLALSRIAGLCNRAVFQANQENLPILKRAVAGDASESALLKCIELCCGSVKEMRERYTKIVEIPFNSTNK</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">YQLSIHKNPNTAEPRHLLVMKGAPERILDRCSSILIHGKEQPLDEELKDAFQNAYLELGGLGERVLGFCHLFLPDEQFPEGFQFDTDDVNFPLDNLCFVGLISMIDPPRAAVPDAVGKCR</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-outside">SAGIKVIMVTGDHPITAKAIAKGVGIISEGNETVEDIAARLNIPVSQVNPRDAKACVVHGSDLKDMTSEQLDDILKYHTEIVFARTSPQQKLIIVEGCQRQGAIVAVTGDGVNDSPASKK</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820       830       840</span>
+<span class="topo-line"><span class="topo-outside">ADIGVAMGIAGSDVSKQAADMILLDDNFASIVTGVEEGRLIFDNLKKS</span><span class="topo-membrane">IAYTLTSNIPEITPFLIFII</span><span class="topo-inside">ANIPLP</span><span class="topo-membrane">LGTVTILCIDLGTDMVPAIS</span><span class="topo-outside">LAYEQAESDIMKRQPRNPKTDKLVNE</span></span>
+<span class="topo-ruler">       850       860       870       880       890       900       910       920       930       940       950       960</span>
+<span class="topo-line"><span class="topo-outside">QL</span><span class="topo-membrane">ISMAYGQIGMIQALGGFFTY</span><span class="topo-inside">FVILAENGFLPIHLLGLRVNWDDRWINDVEDSYGQQWTYEQRKIVEFTCH</span><span class="topo-membrane">TPFFVTIVVVQWADLVIC</span><span class="topo-outside">KTRRNSVFQQGMKNKI</span><span class="topo-membrane">LIFGLFEETALAAF</span></span>
+<span class="topo-ruler">       970       980       990      1000      1010      </span>
 <span class="topo-line"><span class="topo-membrane">LSYC</span><span class="topo-inside">PGMGVALRMYPLKP</span><span class="topo-membrane">TWWFCAFPYSLLIFVYDEVR</span><span class="topo-outside">KLIIRRRPGGWVEKETYY</span></span>
+<details class="topo-details"><summary>Topology coordinates (23 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3389,6 +3450,7 @@ The Na+,K+-ATPase is a P-type ATPase pump that maintains the electrochemical gra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3404,12 +3466,13 @@ The Na+,K+-ATPase is a P-type ATPase pump that maintains the electrochemical gra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MARGKAKEEGSW</span><span class="topo-outside">KKFIWNSEKKEFLGRTG</span><span class="topo-membrane">GSWFKILLFYVIFYGCLAGIFIGT</span><span class="topo-inside">IQVMLLT</span></span>
-<span class="topo-line"><span class="topo-inside">ISEFKPTYQDRVAPPGLTQIPQSQKTEISFRPNDPQSYESYVVSIVRFLEKYKDLAQKDD</span></span>
-<span class="topo-line"><span class="topo-inside">MIFEDCGNVPSELKERGEYNNERGERKVCRFRLEWLGNCSGLNDETYGYKDGKPCVIIKL</span></span>
-<span class="topo-line"><span class="topo-inside">NRVLGFKPKPPKNESLETYPVMKYNPYVLPVHCTGKRDEDKEKVGTMEYFGLGGYPGFPL</span></span>
-<span class="topo-line"><span class="topo-inside">QYYPYYGKLLQPKYLQPLMAVQFTNLTMDTEIRIECKAYGENIGYSEKDRFQGRFDVKIE</span></span>
-<span class="topo-line"><span class="topo-inside">VKS</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MARGKAKEEGSW</span><span class="topo-outside">KKFIWNSEKKEFLGRTG</span><span class="topo-membrane">GSWFKILLFYVIFYGCLAGIFIGT</span><span class="topo-inside">IQVMLLTISEFKPTYQDRVAPPGLTQIPQSQKTEISFRPNDPQSYESYVVSIVRFLEKYKDLAQKDD</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">MIFEDCGNVPSELKERGEYNNERGERKVCRFRLEWLGNCSGLNDETYGYKDGKPCVIIKLNRVLGFKPKPPKNESLETYPVMKYNPYVLPVHCTGKRDEDKEKVGTMEYFGLGGYPGFPL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300   </span>
+<span class="topo-line"><span class="topo-inside">QYYPYYGKLLQPKYLQPLMAVQFTNLTMDTEIRIECKAYGENIGYSEKDRFQGRFDVKIEVKS</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3442,6 +3505,7 @@ The Na+,K+-ATPase is a P-type ATPase pump that maintains the electrochemical gra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3457,8 +3521,9 @@ The Na+,K+-ATPase is a P-type ATPase pump that maintains the electrochemical gra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAGLSTDDGGSPKGDV</span><span class="topo-inside">DPFYYDYETVRN</span><span class="topo-membrane">GGLIFAALAFIVGLIIIL</span><span class="topo-outside">SK</span><span class="topo-unknown">RLRCGGKKHRPI</span></span>
-<span class="topo-line"><span class="topo-unknown">NEDEL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60     </span>
+<span class="topo-line"><span class="topo-unknown">MAGLSTDDGGSPKGDV</span><span class="topo-inside">DPFYYDYETVRN</span><span class="topo-membrane">GGLIFAALAFIVGLIIIL</span><span class="topo-outside">SK</span><span class="topo-unknown">RLRCGGKKHRPINEDEL</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3491,6 +3556,7 @@ The Na+,K+-ATPase is a P-type ATPase pump that maintains the electrochemical gra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3506,23 +3572,25 @@ The Na+,K+-ATPase is a P-type ATPase pump that maintains the electrochemical gra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GRDKYEPAAVSEHGDKKKAK</span><span class="topo-outside">KERDMDELKKEVSMDDHKLSLDELHRKYGTDLSRGLTPAR</span></span>
-<span class="topo-line"><span class="topo-outside">AAEILARDGPNALTPPPTTP</span><span class="topo-unknown">EWVKFCRQLF</span><span class="topo-outside">GGF</span><span class="topo-membrane">SMLLWIGAILCFLAYGIQA</span><span class="topo-inside">ATEEEPQN</span></span>
-<span class="topo-line"><span class="topo-membrane">DNLYLGVVLSAVVIITGC</span><span class="topo-outside">FSYYQEAKSSKIMESFKNMVPQQALVIRNGEKMSINAEEVVV</span></span>
-<span class="topo-line"><span class="topo-outside">GDLVEVKGGDRIPADLRIISANGCKVDNSSLTGESEPQTRSPDFTNENPLETRNIAFFST</span></span>
-<span class="topo-line"><span class="topo-outside">NCVEGTARGIVVYTGDRTVMGRIATLASGLEGGQTPIAAEIEHFI</span><span class="topo-membrane">HIITGVAVFLGVSFF</span></span>
-<span class="topo-line"><span class="topo-membrane">ILSLIL</span><span class="topo-inside">EYTW</span><span class="topo-membrane">LEAVIFLIGIIVANVPEGLLAT</span><span class="topo-outside">VTVCLTLTAKRMARKNCLVKNLEAVETL</span></span>
-<span class="topo-line"><span class="topo-outside">GSTSTICSDKTGTLTQNRMTVAHMWSDNQIHEADTTENQSGVSFDKTSATWLALSRIAGL</span></span>
-<span class="topo-line"><span class="topo-outside">CNRAVFQANQENLPILKRAVAGDASESALLKCIELCCGSVKEMRERYTKIVEIPFNSTNK</span></span>
-<span class="topo-line"><span class="topo-outside">YQLSIHKNPNTAEPRHLLVMKGAPERILDRCSSILIHGKEQPLDEELKDAFQNAYLELGG</span></span>
-<span class="topo-line"><span class="topo-outside">LGERVLGFCHLFLPDEQFPEGFQFDTDDVNFPLDNLCFVGLISMIDPPRAAVPDAVGKCR</span></span>
-<span class="topo-line"><span class="topo-outside">SAGIKVIMVTGDHPITAKAIAKGVGIISEGNETVEDIAARLNIPVSQVNPRDAKACVVHG</span></span>
-<span class="topo-line"><span class="topo-outside">SDLKDMTSEQLDDILKYHTEIVFARTSPQQKLIIVEGCQRQGAIVAVTGDGVNDSPASKK</span></span>
-<span class="topo-line"><span class="topo-outside">ADIGVAMGIAGSDVSKQAADMILLDDNFASIVTGVEEGRLIFDNLKKS</span><span class="topo-membrane">IAYTLTSNIPEI</span></span>
-<span class="topo-line"><span class="topo-membrane">TPFLIFII</span><span class="topo-inside">ANIPLP</span><span class="topo-membrane">LGTVTILCIDLGTDMVPAIS</span><span class="topo-outside">LAYEQAESDIMKRQPRNPKTDKLVNE</span></span>
-<span class="topo-line"><span class="topo-outside">QL</span><span class="topo-membrane">ISMAYGQIGMIQALGGFFTY</span><span class="topo-inside">FVILAENGFLPIHLLGLRVNWDDRWINDVEDSYGQQWT</span></span>
-<span class="topo-line"><span class="topo-inside">YEQRKIVEFTCH</span><span class="topo-membrane">TPFFVTIVVVQWADLVIC</span><span class="topo-outside">KTRRNSVFQQGMKNKI</span><span class="topo-membrane">LIFGLFEETALAAF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GRDKYEPAAVSEHGDKKKAK</span><span class="topo-outside">KERDMDELKKEVSMDDHKLSLDELHRKYGTDLSRGLTPARAAEILARDGPNALTPPPTTP</span><span class="topo-unknown">EWVKFCRQLF</span><span class="topo-outside">GGF</span><span class="topo-membrane">SMLLWIGAILCFLAYGIQA</span><span class="topo-inside">ATEEEPQN</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">DNLYLGVVLSAVVIITGC</span><span class="topo-outside">FSYYQEAKSSKIMESFKNMVPQQALVIRNGEKMSINAEEVVVGDLVEVKGGDRIPADLRIISANGCKVDNSSLTGESEPQTRSPDFTNENPLETRNIAFFST</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">NCVEGTARGIVVYTGDRTVMGRIATLASGLEGGQTPIAAEIEHFI</span><span class="topo-membrane">HIITGVAVFLGVSFFILSLIL</span><span class="topo-inside">EYTW</span><span class="topo-membrane">LEAVIFLIGIIVANVPEGLLAT</span><span class="topo-outside">VTVCLTLTAKRMARKNCLVKNLEAVETL</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">GSTSTICSDKTGTLTQNRMTVAHMWSDNQIHEADTTENQSGVSFDKTSATWLALSRIAGLCNRAVFQANQENLPILKRAVAGDASESALLKCIELCCGSVKEMRERYTKIVEIPFNSTNK</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">YQLSIHKNPNTAEPRHLLVMKGAPERILDRCSSILIHGKEQPLDEELKDAFQNAYLELGGLGERVLGFCHLFLPDEQFPEGFQFDTDDVNFPLDNLCFVGLISMIDPPRAAVPDAVGKCR</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-outside">SAGIKVIMVTGDHPITAKAIAKGVGIISEGNETVEDIAARLNIPVSQVNPRDAKACVVHGSDLKDMTSEQLDDILKYHTEIVFARTSPQQKLIIVEGCQRQGAIVAVTGDGVNDSPASKK</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820       830       840</span>
+<span class="topo-line"><span class="topo-outside">ADIGVAMGIAGSDVSKQAADMILLDDNFASIVTGVEEGRLIFDNLKKS</span><span class="topo-membrane">IAYTLTSNIPEITPFLIFII</span><span class="topo-inside">ANIPLP</span><span class="topo-membrane">LGTVTILCIDLGTDMVPAIS</span><span class="topo-outside">LAYEQAESDIMKRQPRNPKTDKLVNE</span></span>
+<span class="topo-ruler">       850       860       870       880       890       900       910       920       930       940       950       960</span>
+<span class="topo-line"><span class="topo-outside">QL</span><span class="topo-membrane">ISMAYGQIGMIQALGGFFTY</span><span class="topo-inside">FVILAENGFLPIHLLGLRVNWDDRWINDVEDSYGQQWTYEQRKIVEFTCH</span><span class="topo-membrane">TPFFVTIVVVQWADLVIC</span><span class="topo-outside">KTRRNSVFQQGMKNKI</span><span class="topo-membrane">LIFGLFEETALAAF</span></span>
+<span class="topo-ruler">       970       980       990      1000      1010      </span>
 <span class="topo-line"><span class="topo-membrane">LSYC</span><span class="topo-inside">PGMGVALRMYPLKP</span><span class="topo-membrane">TWWFCAFPYSLLIFVYDEVR</span><span class="topo-outside">KLIIRRRPGGWVEKETYY</span></span>
+<details class="topo-details"><summary>Topology coordinates (23 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3695,6 +3763,7 @@ The Na+,K+-ATPase is a P-type ATPase pump that maintains the electrochemical gra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3710,12 +3779,13 @@ The Na+,K+-ATPase is a P-type ATPase pump that maintains the electrochemical gra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MARGKAKEEGSW</span><span class="topo-outside">KKFIWNSEKKEFLGRTG</span><span class="topo-membrane">GSWFKILLFYVIFYGCLAGIFIGT</span><span class="topo-inside">IQVMLLT</span></span>
-<span class="topo-line"><span class="topo-inside">ISEFKPTYQDRVAPPGLTQIPQSQKTEISFRPNDPQSYESYVVSIVRFLEKYKDLAQKDD</span></span>
-<span class="topo-line"><span class="topo-inside">MIFEDCGNVPSELKERGEYNNERGERKVCRFRLEWLGNCSGLNDETYGYKDGKPCVIIKL</span></span>
-<span class="topo-line"><span class="topo-inside">NRVLGFKPKPPKNESLETYPVMKYNPYVLPVHCTGKRDEDKEKVGTMEYFGLGGYPGFPL</span></span>
-<span class="topo-line"><span class="topo-inside">QYYPYYGKLLQPKYLQPLMAVQFTNLTMDTEIRIECKAYGENIGYSEKDRFQGRFDVKIE</span></span>
-<span class="topo-line"><span class="topo-inside">VKS</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MARGKAKEEGSW</span><span class="topo-outside">KKFIWNSEKKEFLGRTG</span><span class="topo-membrane">GSWFKILLFYVIFYGCLAGIFIGT</span><span class="topo-inside">IQVMLLTISEFKPTYQDRVAPPGLTQIPQSQKTEISFRPNDPQSYESYVVSIVRFLEKYKDLAQKDD</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">MIFEDCGNVPSELKERGEYNNERGERKVCRFRLEWLGNCSGLNDETYGYKDGKPCVIIKLNRVLGFKPKPPKNESLETYPVMKYNPYVLPVHCTGKRDEDKEKVGTMEYFGLGGYPGFPL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300   </span>
+<span class="topo-line"><span class="topo-inside">QYYPYYGKLLQPKYLQPLMAVQFTNLTMDTEIRIECKAYGENIGYSEKDRFQGRFDVKIEVKS</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3748,6 +3818,7 @@ The Na+,K+-ATPase is a P-type ATPase pump that maintains the electrochemical gra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3763,8 +3834,9 @@ The Na+,K+-ATPase is a P-type ATPase pump that maintains the electrochemical gra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAGLSTDDGGSPKGDV</span><span class="topo-inside">DPFYYDYETVRN</span><span class="topo-membrane">GGLIFAALAFIVGLIIIL</span><span class="topo-outside">SK</span><span class="topo-unknown">RLRCGGKKHRPI</span></span>
-<span class="topo-line"><span class="topo-unknown">NEDEL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60     </span>
+<span class="topo-line"><span class="topo-unknown">MAGLSTDDGGSPKGDV</span><span class="topo-inside">DPFYYDYETVRN</span><span class="topo-membrane">GGLIFAALAFIVGLIIIL</span><span class="topo-outside">SK</span><span class="topo-unknown">RLRCGGKKHRPINEDEL</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3797,6 +3869,7 @@ The Na+,K+-ATPase is a P-type ATPase pump that maintains the electrochemical gra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3812,23 +3885,25 @@ The Na+,K+-ATPase is a P-type ATPase pump that maintains the electrochemical gra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GRDKYEPAAVSEHGDKKKAK</span><span class="topo-outside">KERDMDELKKEVSMDDHKLSLDELHRKYGTDLSRGLTPAR</span></span>
-<span class="topo-line"><span class="topo-outside">AAEILARDGPNALTPPPTTP</span><span class="topo-unknown">EWVKFCRQLF</span><span class="topo-outside">GGF</span><span class="topo-membrane">SMLLWIGAILCFLAYGIQA</span><span class="topo-inside">ATEEEPQN</span></span>
-<span class="topo-line"><span class="topo-membrane">DNLYLGVVLSAVVIITGC</span><span class="topo-outside">FSYYQEAKSSKIMESFKNMVPQQALVIRNGEKMSINAEEVVV</span></span>
-<span class="topo-line"><span class="topo-outside">GDLVEVKGGDRIPADLRIISANGCKVDNSSLTGESEPQTRSPDFTNENPLETRNIAFFST</span></span>
-<span class="topo-line"><span class="topo-outside">NCVEGTARGIVVYTGDRTVMGRIATLASGLEGGQTPIAAEIEHFI</span><span class="topo-membrane">HIITGVAVFLGVSFF</span></span>
-<span class="topo-line"><span class="topo-membrane">ILSLIL</span><span class="topo-inside">EYTW</span><span class="topo-membrane">LEAVIFLIGIIVANVPEGLLAT</span><span class="topo-outside">VTVCLTLTAKRMARKNCLVKNLEAVETL</span></span>
-<span class="topo-line"><span class="topo-outside">GSTSTICSDKTGTLTQNRMTVAHMWSDNQIHEADTTENQSGVSFDKTSATWLALSRIAGL</span></span>
-<span class="topo-line"><span class="topo-outside">CNRAVFQANQENLPILKRAVAGDASESALLKCIELCCGSVKEMRERYTKIVEIPFNSTNK</span></span>
-<span class="topo-line"><span class="topo-outside">YQLSIHKNPNTAEPRHLLVMKGAPERILDRCSSILIHGKEQPLDEELKDAFQNAYLELGG</span></span>
-<span class="topo-line"><span class="topo-outside">LGERVLGFCHLFLPDEQFPEGFQFDTDDVNFPLDNLCFVGLISMIDPPRAAVPDAVGKCR</span></span>
-<span class="topo-line"><span class="topo-outside">SAGIKVIMVTGDHPITAKAIAKGVGIISEGNETVEDIAARLNIPVSQVNPRDAKACVVHG</span></span>
-<span class="topo-line"><span class="topo-outside">SDLKDMTSEQLDDILKYHTEIVFARTSPQQKLIIVEGCQRQGAIVAVTGDGVNDSPASKK</span></span>
-<span class="topo-line"><span class="topo-outside">ADIGVAMGIAGSDVSKQAADMILLDDNFASIVTGVEEGRLIFDNLKKS</span><span class="topo-membrane">IAYTLTSNIPEI</span></span>
-<span class="topo-line"><span class="topo-membrane">TPFLIFII</span><span class="topo-inside">ANIPLP</span><span class="topo-membrane">LGTVTILCIDLGTDMVPAIS</span><span class="topo-outside">LAYEQAESDIMKRQPRNPKTDKLVNE</span></span>
-<span class="topo-line"><span class="topo-outside">QL</span><span class="topo-membrane">ISMAYGQIGMIQALGGFFTY</span><span class="topo-inside">FVILAENGFLPIHLLGLRVNWDDRWINDVEDSYGQQWT</span></span>
-<span class="topo-line"><span class="topo-inside">YEQRKIVEFTCH</span><span class="topo-membrane">TPFFVTIVVVQWADLVIC</span><span class="topo-outside">KTRRNSVFQQGMKNKI</span><span class="topo-membrane">LIFGLFEETALAAF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GRDKYEPAAVSEHGDKKKAK</span><span class="topo-outside">KERDMDELKKEVSMDDHKLSLDELHRKYGTDLSRGLTPARAAEILARDGPNALTPPPTTP</span><span class="topo-unknown">EWVKFCRQLF</span><span class="topo-outside">GGF</span><span class="topo-membrane">SMLLWIGAILCFLAYGIQA</span><span class="topo-inside">ATEEEPQN</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">DNLYLGVVLSAVVIITGC</span><span class="topo-outside">FSYYQEAKSSKIMESFKNMVPQQALVIRNGEKMSINAEEVVVGDLVEVKGGDRIPADLRIISANGCKVDNSSLTGESEPQTRSPDFTNENPLETRNIAFFST</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">NCVEGTARGIVVYTGDRTVMGRIATLASGLEGGQTPIAAEIEHFI</span><span class="topo-membrane">HIITGVAVFLGVSFFILSLIL</span><span class="topo-inside">EYTW</span><span class="topo-membrane">LEAVIFLIGIIVANVPEGLLAT</span><span class="topo-outside">VTVCLTLTAKRMARKNCLVKNLEAVETL</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">GSTSTICSDKTGTLTQNRMTVAHMWSDNQIHEADTTENQSGVSFDKTSATWLALSRIAGLCNRAVFQANQENLPILKRAVAGDASESALLKCIELCCGSVKEMRERYTKIVEIPFNSTNK</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">YQLSIHKNPNTAEPRHLLVMKGAPERILDRCSSILIHGKEQPLDEELKDAFQNAYLELGGLGERVLGFCHLFLPDEQFPEGFQFDTDDVNFPLDNLCFVGLISMIDPPRAAVPDAVGKCR</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-outside">SAGIKVIMVTGDHPITAKAIAKGVGIISEGNETVEDIAARLNIPVSQVNPRDAKACVVHGSDLKDMTSEQLDDILKYHTEIVFARTSPQQKLIIVEGCQRQGAIVAVTGDGVNDSPASKK</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820       830       840</span>
+<span class="topo-line"><span class="topo-outside">ADIGVAMGIAGSDVSKQAADMILLDDNFASIVTGVEEGRLIFDNLKKS</span><span class="topo-membrane">IAYTLTSNIPEITPFLIFII</span><span class="topo-inside">ANIPLP</span><span class="topo-membrane">LGTVTILCIDLGTDMVPAIS</span><span class="topo-outside">LAYEQAESDIMKRQPRNPKTDKLVNE</span></span>
+<span class="topo-ruler">       850       860       870       880       890       900       910       920       930       940       950       960</span>
+<span class="topo-line"><span class="topo-outside">QL</span><span class="topo-membrane">ISMAYGQIGMIQALGGFFTY</span><span class="topo-inside">FVILAENGFLPIHLLGLRVNWDDRWINDVEDSYGQQWTYEQRKIVEFTCH</span><span class="topo-membrane">TPFFVTIVVVQWADLVIC</span><span class="topo-outside">KTRRNSVFQQGMKNKI</span><span class="topo-membrane">LIFGLFEETALAAF</span></span>
+<span class="topo-ruler">       970       980       990      1000      1010      </span>
 <span class="topo-line"><span class="topo-membrane">LSYC</span><span class="topo-inside">PGMGVALRMYPLKP</span><span class="topo-membrane">TWWFCAFPYSLLIFVYDEVR</span><span class="topo-outside">KLIIRRRPGGWVEKETYY</span></span>
+<details class="topo-details"><summary>Topology coordinates (23 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4001,6 +4076,7 @@ The Na+,K+-ATPase is a P-type ATPase pump that maintains the electrochemical gra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4016,12 +4092,13 @@ The Na+,K+-ATPase is a P-type ATPase pump that maintains the electrochemical gra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MARGKAKEEGSW</span><span class="topo-outside">KKFIWNSEKKEFLGRTG</span><span class="topo-membrane">GSWFKILLFYVIFYGCLAGIFIGT</span><span class="topo-inside">IQVMLLT</span></span>
-<span class="topo-line"><span class="topo-inside">ISEFKPTYQDRVAPPGLTQIPQSQKTEISFRPNDPQSYESYVVSIVRFLEKYKDLAQKDD</span></span>
-<span class="topo-line"><span class="topo-inside">MIFEDCGNVPSELKERGEYNNERGERKVCRFRLEWLGNCSGLNDETYGYKDGKPCVIIKL</span></span>
-<span class="topo-line"><span class="topo-inside">NRVLGFKPKPPKNESLETYPVMKYNPYVLPVHCTGKRDEDKEKVGTMEYFGLGGYPGFPL</span></span>
-<span class="topo-line"><span class="topo-inside">QYYPYYGKLLQPKYLQPLMAVQFTNLTMDTEIRIECKAYGENIGYSEKDRFQGRFDVKIE</span></span>
-<span class="topo-line"><span class="topo-inside">VKS</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MARGKAKEEGSW</span><span class="topo-outside">KKFIWNSEKKEFLGRTG</span><span class="topo-membrane">GSWFKILLFYVIFYGCLAGIFIGT</span><span class="topo-inside">IQVMLLTISEFKPTYQDRVAPPGLTQIPQSQKTEISFRPNDPQSYESYVVSIVRFLEKYKDLAQKDD</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">MIFEDCGNVPSELKERGEYNNERGERKVCRFRLEWLGNCSGLNDETYGYKDGKPCVIIKLNRVLGFKPKPPKNESLETYPVMKYNPYVLPVHCTGKRDEDKEKVGTMEYFGLGGYPGFPL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300   </span>
+<span class="topo-line"><span class="topo-inside">QYYPYYGKLLQPKYLQPLMAVQFTNLTMDTEIRIECKAYGENIGYSEKDRFQGRFDVKIEVKS</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4054,6 +4131,7 @@ The Na+,K+-ATPase is a P-type ATPase pump that maintains the electrochemical gra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4069,8 +4147,9 @@ The Na+,K+-ATPase is a P-type ATPase pump that maintains the electrochemical gra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAGLSTDDGGSPKGDV</span><span class="topo-inside">DPFYYDYETVRN</span><span class="topo-membrane">GGLIFAALAFIVGLIIIL</span><span class="topo-outside">SK</span><span class="topo-unknown">RLRCGGKKHRPI</span></span>
-<span class="topo-line"><span class="topo-unknown">NEDEL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60     </span>
+<span class="topo-line"><span class="topo-unknown">MAGLSTDDGGSPKGDV</span><span class="topo-inside">DPFYYDYETVRN</span><span class="topo-membrane">GGLIFAALAFIVGLIIIL</span><span class="topo-outside">SK</span><span class="topo-unknown">RLRCGGKKHRPINEDEL</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4103,6 +4182,7 @@ The Na+,K+-ATPase is a P-type ATPase pump that maintains the electrochemical gra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4118,23 +4198,25 @@ The Na+,K+-ATPase is a P-type ATPase pump that maintains the electrochemical gra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GRDKYEPAAVSEHGDKKKAK</span><span class="topo-outside">KERDMDELKKEVSMDDHKLSLDELHRKYGTDLSRGLTPAR</span></span>
-<span class="topo-line"><span class="topo-outside">AAEILARDGPNALTPPPTTP</span><span class="topo-unknown">EWVKFCRQLF</span><span class="topo-outside">GGF</span><span class="topo-membrane">SMLLWIGAILCFLAYGIQA</span><span class="topo-inside">ATEEEPQN</span></span>
-<span class="topo-line"><span class="topo-membrane">DNLYLGVVLSAVVIITGC</span><span class="topo-outside">FSYYQEAKSSKIMESFKNMVPQQALVIRNGEKMSINAEEVVV</span></span>
-<span class="topo-line"><span class="topo-outside">GDLVEVKGGDRIPADLRIISANGCKVDNSSLTGESEPQTRSPDFTNENPLETRNIAFFST</span></span>
-<span class="topo-line"><span class="topo-outside">NCVEGTARGIVVYTGDRTVMGRIATLASGLEGGQTPIAAEIEHFI</span><span class="topo-membrane">HIITGVAVFLGVSFF</span></span>
-<span class="topo-line"><span class="topo-membrane">ILSLIL</span><span class="topo-inside">EYTW</span><span class="topo-membrane">LEAVIFLIGIIVANVPEGLLAT</span><span class="topo-outside">VTVCLTLTAKRMARKNCLVKNLEAVETL</span></span>
-<span class="topo-line"><span class="topo-outside">GSTSTICSDKTGTLTQNRMTVAHMWSDNQIHEADTTENQSGVSFDKTSATWLALSRIAGL</span></span>
-<span class="topo-line"><span class="topo-outside">CNRAVFQANQENLPILKRAVAGDASESALLKCIELCCGSVKEMRERYTKIVEIPFNSTNK</span></span>
-<span class="topo-line"><span class="topo-outside">YQLSIHKNPNTAEPRHLLVMKGAPERILDRCSSILIHGKEQPLDEELKDAFQNAYLELGG</span></span>
-<span class="topo-line"><span class="topo-outside">LGERVLGFCHLFLPDEQFPEGFQFDTDDVNFPLDNLCFVGLISMIDPPRAAVPDAVGKCR</span></span>
-<span class="topo-line"><span class="topo-outside">SAGIKVIMVTGDHPITAKAIAKGVGIISEGNETVEDIAARLNIPVSQVNPRDAKACVVHG</span></span>
-<span class="topo-line"><span class="topo-outside">SDLKDMTSEQLDDILKYHTEIVFARTSPQQKLIIVEGCQRQGAIVAVTGDGVNDSPASKK</span></span>
-<span class="topo-line"><span class="topo-outside">ADIGVAMGIAGSDVSKQAADMILLDDNFASIVTGVEEGRLIFDNLKKS</span><span class="topo-membrane">IAYTLTSNIPEI</span></span>
-<span class="topo-line"><span class="topo-membrane">TPFLIFII</span><span class="topo-inside">ANIPLP</span><span class="topo-membrane">LGTVTILCIDLGTDMVPAIS</span><span class="topo-outside">LAYEQAESDIMKRQPRNPKTDKLVNE</span></span>
-<span class="topo-line"><span class="topo-outside">QL</span><span class="topo-membrane">ISMAYGQIGMIQALGGFFTY</span><span class="topo-inside">FVILAENGFLPIHLLGLRVNWDDRWINDVEDSYGQQWT</span></span>
-<span class="topo-line"><span class="topo-inside">YEQRKIVEFTCH</span><span class="topo-membrane">TPFFVTIVVVQWADLVIC</span><span class="topo-outside">KTRRNSVFQQGMKNKI</span><span class="topo-membrane">LIFGLFEETALAAF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GRDKYEPAAVSEHGDKKKAK</span><span class="topo-outside">KERDMDELKKEVSMDDHKLSLDELHRKYGTDLSRGLTPARAAEILARDGPNALTPPPTTP</span><span class="topo-unknown">EWVKFCRQLF</span><span class="topo-outside">GGF</span><span class="topo-membrane">SMLLWIGAILCFLAYGIQA</span><span class="topo-inside">ATEEEPQN</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">DNLYLGVVLSAVVIITGC</span><span class="topo-outside">FSYYQEAKSSKIMESFKNMVPQQALVIRNGEKMSINAEEVVVGDLVEVKGGDRIPADLRIISANGCKVDNSSLTGESEPQTRSPDFTNENPLETRNIAFFST</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">NCVEGTARGIVVYTGDRTVMGRIATLASGLEGGQTPIAAEIEHFI</span><span class="topo-membrane">HIITGVAVFLGVSFFILSLIL</span><span class="topo-inside">EYTW</span><span class="topo-membrane">LEAVIFLIGIIVANVPEGLLAT</span><span class="topo-outside">VTVCLTLTAKRMARKNCLVKNLEAVETL</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">GSTSTICSDKTGTLTQNRMTVAHMWSDNQIHEADTTENQSGVSFDKTSATWLALSRIAGLCNRAVFQANQENLPILKRAVAGDASESALLKCIELCCGSVKEMRERYTKIVEIPFNSTNK</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">YQLSIHKNPNTAEPRHLLVMKGAPERILDRCSSILIHGKEQPLDEELKDAFQNAYLELGGLGERVLGFCHLFLPDEQFPEGFQFDTDDVNFPLDNLCFVGLISMIDPPRAAVPDAVGKCR</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-outside">SAGIKVIMVTGDHPITAKAIAKGVGIISEGNETVEDIAARLNIPVSQVNPRDAKACVVHGSDLKDMTSEQLDDILKYHTEIVFARTSPQQKLIIVEGCQRQGAIVAVTGDGVNDSPASKK</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820       830       840</span>
+<span class="topo-line"><span class="topo-outside">ADIGVAMGIAGSDVSKQAADMILLDDNFASIVTGVEEGRLIFDNLKKS</span><span class="topo-membrane">IAYTLTSNIPEITPFLIFII</span><span class="topo-inside">ANIPLP</span><span class="topo-membrane">LGTVTILCIDLGTDMVPAIS</span><span class="topo-outside">LAYEQAESDIMKRQPRNPKTDKLVNE</span></span>
+<span class="topo-ruler">       850       860       870       880       890       900       910       920       930       940       950       960</span>
+<span class="topo-line"><span class="topo-outside">QL</span><span class="topo-membrane">ISMAYGQIGMIQALGGFFTY</span><span class="topo-inside">FVILAENGFLPIHLLGLRVNWDDRWINDVEDSYGQQWTYEQRKIVEFTCH</span><span class="topo-membrane">TPFFVTIVVVQWADLVIC</span><span class="topo-outside">KTRRNSVFQQGMKNKI</span><span class="topo-membrane">LIFGLFEETALAAF</span></span>
+<span class="topo-ruler">       970       980       990      1000      1010      </span>
 <span class="topo-line"><span class="topo-membrane">LSYC</span><span class="topo-inside">PGMGVALRMYPLKP</span><span class="topo-membrane">TWWFCAFPYSLLIFVYDEVR</span><span class="topo-outside">KLIIRRRPGGWVEKETYY</span></span>
+<details class="topo-details"><summary>Topology coordinates (23 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4307,6 +4389,7 @@ The Na+,K+-ATPase is a P-type ATPase pump that maintains the electrochemical gra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4322,12 +4405,13 @@ The Na+,K+-ATPase is a P-type ATPase pump that maintains the electrochemical gra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MARGKAKEEGSW</span><span class="topo-outside">KKFIWNSEKKEFLGRTG</span><span class="topo-membrane">GSWFKILLFYVIFYGCLAGIFIGT</span><span class="topo-inside">IQVMLLT</span></span>
-<span class="topo-line"><span class="topo-inside">ISEFKPTYQDRVAPPGLTQIPQSQKTEISFRPNDPQSYESYVVSIVRFLEKYKDLAQKDD</span></span>
-<span class="topo-line"><span class="topo-inside">MIFEDCGNVPSELKERGEYNNERGERKVCRFRLEWLGNCSGLNDETYGYKDGKPCVIIKL</span></span>
-<span class="topo-line"><span class="topo-inside">NRVLGFKPKPPKNESLETYPVMKYNPYVLPVHCTGKRDEDKEKVGTMEYFGLGGYPGFPL</span></span>
-<span class="topo-line"><span class="topo-inside">QYYPYYGKLLQPKYLQPLMAVQFTNLTMDTEIRIECKAYGENIGYSEKDRFQGRFDVKIE</span></span>
-<span class="topo-line"><span class="topo-inside">VKS</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MARGKAKEEGSW</span><span class="topo-outside">KKFIWNSEKKEFLGRTG</span><span class="topo-membrane">GSWFKILLFYVIFYGCLAGIFIGT</span><span class="topo-inside">IQVMLLTISEFKPTYQDRVAPPGLTQIPQSQKTEISFRPNDPQSYESYVVSIVRFLEKYKDLAQKDD</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">MIFEDCGNVPSELKERGEYNNERGERKVCRFRLEWLGNCSGLNDETYGYKDGKPCVIIKLNRVLGFKPKPPKNESLETYPVMKYNPYVLPVHCTGKRDEDKEKVGTMEYFGLGGYPGFPL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300   </span>
+<span class="topo-line"><span class="topo-inside">QYYPYYGKLLQPKYLQPLMAVQFTNLTMDTEIRIECKAYGENIGYSEKDRFQGRFDVKIEVKS</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4360,6 +4444,7 @@ The Na+,K+-ATPase is a P-type ATPase pump that maintains the electrochemical gra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4375,8 +4460,9 @@ The Na+,K+-ATPase is a P-type ATPase pump that maintains the electrochemical gra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAGLSTDDGGSPKGDV</span><span class="topo-inside">DPFYYDYETVRN</span><span class="topo-membrane">GGLIFAALAFIVGLIIIL</span><span class="topo-outside">SK</span><span class="topo-unknown">RLRCGGKKHRPI</span></span>
-<span class="topo-line"><span class="topo-unknown">NEDEL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60     </span>
+<span class="topo-line"><span class="topo-unknown">MAGLSTDDGGSPKGDV</span><span class="topo-inside">DPFYYDYETVRN</span><span class="topo-membrane">GGLIFAALAFIVGLIIIL</span><span class="topo-outside">SK</span><span class="topo-unknown">RLRCGGKKHRPINEDEL</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4409,6 +4495,7 @@ The Na+,K+-ATPase is a P-type ATPase pump that maintains the electrochemical gra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4424,23 +4511,25 @@ The Na+,K+-ATPase is a P-type ATPase pump that maintains the electrochemical gra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GRDKYEPAAVSEHGDKKKAK</span><span class="topo-outside">KERDMDELKKEVSMDDHKLSLDELHRKYGTDLSRGLTPAR</span></span>
-<span class="topo-line"><span class="topo-outside">AAEILARDGPNALTPPPTTP</span><span class="topo-unknown">EWVKFCRQLF</span><span class="topo-outside">GGF</span><span class="topo-membrane">SMLLWIGAILCFLAYGIQA</span><span class="topo-inside">ATEEEPQN</span></span>
-<span class="topo-line"><span class="topo-membrane">DNLYLGVVLSAVVIITGC</span><span class="topo-outside">FSYYQEAKSSKIMESFKNMVPQQALVIRNGEKMSINAEEVVV</span></span>
-<span class="topo-line"><span class="topo-outside">GDLVEVKGGDRIPADLRIISANGCKVDNSSLTGESEPQTRSPDFTNENPLETRNIAFFST</span></span>
-<span class="topo-line"><span class="topo-outside">NCVEGTARGIVVYTGDRTVMGRIATLASGLEGGQTPIAAEIEHFI</span><span class="topo-membrane">HIITGVAVFLGVSFF</span></span>
-<span class="topo-line"><span class="topo-membrane">ILSLIL</span><span class="topo-inside">EYTW</span><span class="topo-membrane">LEAVIFLIGIIVANVPEGLLAT</span><span class="topo-outside">VTVCLTLTAKRMARKNCLVKNLEAVETL</span></span>
-<span class="topo-line"><span class="topo-outside">GSTSTICSDKTGTLTQNRMTVAHMWSDNQIHEADTTENQSGVSFDKTSATWLALSRIAGL</span></span>
-<span class="topo-line"><span class="topo-outside">CNRAVFQANQENLPILKRAVAGDASESALLKCIELCCGSVKEMRERYTKIVEIPFNSTNK</span></span>
-<span class="topo-line"><span class="topo-outside">YQLSIHKNPNTAEPRHLLVMKGAPERILDRCSSILIHGKEQPLDEELKDAFQNAYLELGG</span></span>
-<span class="topo-line"><span class="topo-outside">LGERVLGFCHLFLPDEQFPEGFQFDTDDVNFPLDNLCFVGLISMIDPPRAAVPDAVGKCR</span></span>
-<span class="topo-line"><span class="topo-outside">SAGIKVIMVTGDHPITAKAIAKGVGIISEGNETVEDIAARLNIPVSQVNPRDAKACVVHG</span></span>
-<span class="topo-line"><span class="topo-outside">SDLKDMTSEQLDDILKYHTEIVFARTSPQQKLIIVEGCQRQGAIVAVTGDGVNDSPASKK</span></span>
-<span class="topo-line"><span class="topo-outside">ADIGVAMGIAGSDVSKQAADMILLDDNFASIVTGVEEGRLIFDNLKKS</span><span class="topo-membrane">IAYTLTSNIPEI</span></span>
-<span class="topo-line"><span class="topo-membrane">TPFLIFII</span><span class="topo-inside">ANIPLP</span><span class="topo-membrane">LGTVTILCIDLGTDMVPAIS</span><span class="topo-outside">LAYEQAESDIMKRQPRNPKTDKLVNE</span></span>
-<span class="topo-line"><span class="topo-outside">QL</span><span class="topo-membrane">ISMAYGQIGMIQALGGFFTY</span><span class="topo-inside">FVILAENGFLPIHLLGLRVNWDDRWINDVEDSYGQQWT</span></span>
-<span class="topo-line"><span class="topo-inside">YEQRKIVEFTCH</span><span class="topo-membrane">TPFFVTIVVVQWADLVIC</span><span class="topo-outside">KTRRNSVFQQGMKNKI</span><span class="topo-membrane">LIFGLFEETALAAF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GRDKYEPAAVSEHGDKKKAK</span><span class="topo-outside">KERDMDELKKEVSMDDHKLSLDELHRKYGTDLSRGLTPARAAEILARDGPNALTPPPTTP</span><span class="topo-unknown">EWVKFCRQLF</span><span class="topo-outside">GGF</span><span class="topo-membrane">SMLLWIGAILCFLAYGIQA</span><span class="topo-inside">ATEEEPQN</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">DNLYLGVVLSAVVIITGC</span><span class="topo-outside">FSYYQEAKSSKIMESFKNMVPQQALVIRNGEKMSINAEEVVVGDLVEVKGGDRIPADLRIISANGCKVDNSSLTGESEPQTRSPDFTNENPLETRNIAFFST</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">NCVEGTARGIVVYTGDRTVMGRIATLASGLEGGQTPIAAEIEHFI</span><span class="topo-membrane">HIITGVAVFLGVSFFILSLIL</span><span class="topo-inside">EYTW</span><span class="topo-membrane">LEAVIFLIGIIVANVPEGLLAT</span><span class="topo-outside">VTVCLTLTAKRMARKNCLVKNLEAVETL</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">GSTSTICSDKTGTLTQNRMTVAHMWSDNQIHEADTTENQSGVSFDKTSATWLALSRIAGLCNRAVFQANQENLPILKRAVAGDASESALLKCIELCCGSVKEMRERYTKIVEIPFNSTNK</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">YQLSIHKNPNTAEPRHLLVMKGAPERILDRCSSILIHGKEQPLDEELKDAFQNAYLELGGLGERVLGFCHLFLPDEQFPEGFQFDTDDVNFPLDNLCFVGLISMIDPPRAAVPDAVGKCR</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-outside">SAGIKVIMVTGDHPITAKAIAKGVGIISEGNETVEDIAARLNIPVSQVNPRDAKACVVHGSDLKDMTSEQLDDILKYHTEIVFARTSPQQKLIIVEGCQRQGAIVAVTGDGVNDSPASKK</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820       830       840</span>
+<span class="topo-line"><span class="topo-outside">ADIGVAMGIAGSDVSKQAADMILLDDNFASIVTGVEEGRLIFDNLKKS</span><span class="topo-membrane">IAYTLTSNIPEITPFLIFII</span><span class="topo-inside">ANIPLP</span><span class="topo-membrane">LGTVTILCIDLGTDMVPAIS</span><span class="topo-outside">LAYEQAESDIMKRQPRNPKTDKLVNE</span></span>
+<span class="topo-ruler">       850       860       870       880       890       900       910       920       930       940       950       960</span>
+<span class="topo-line"><span class="topo-outside">QL</span><span class="topo-membrane">ISMAYGQIGMIQALGGFFTY</span><span class="topo-inside">FVILAENGFLPIHLLGLRVNWDDRWINDVEDSYGQQWTYEQRKIVEFTCH</span><span class="topo-membrane">TPFFVTIVVVQWADLVIC</span><span class="topo-outside">KTRRNSVFQQGMKNKI</span><span class="topo-membrane">LIFGLFEETALAAF</span></span>
+<span class="topo-ruler">       970       980       990      1000      1010      </span>
 <span class="topo-line"><span class="topo-membrane">LSYC</span><span class="topo-inside">PGMGVALRMYPLKP</span><span class="topo-membrane">TWWFCAFPYSLLIFVYDEVR</span><span class="topo-outside">KLIIRRRPGGWVEKETYY</span></span>
+<details class="topo-details"><summary>Topology coordinates (23 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4613,6 +4702,7 @@ The Na+,K+-ATPase is a P-type ATPase pump that maintains the electrochemical gra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4628,12 +4718,13 @@ The Na+,K+-ATPase is a P-type ATPase pump that maintains the electrochemical gra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MARGKAKEEGSW</span><span class="topo-outside">KKFIWNSEKKEFLGRTG</span><span class="topo-membrane">GSWFKILLFYVIFYGCLAGIFIGT</span><span class="topo-inside">IQVMLLT</span></span>
-<span class="topo-line"><span class="topo-inside">ISEFKPTYQDRVAPPGLTQIPQSQKTEISFRPNDPQSYESYVVSIVRFLEKYKDLAQKDD</span></span>
-<span class="topo-line"><span class="topo-inside">MIFEDCGNVPSELKERGEYNNERGERKVCRFRLEWLGNCSGLNDETYGYKDGKPCVIIKL</span></span>
-<span class="topo-line"><span class="topo-inside">NRVLGFKPKPPKNESLETYPVMKYNPYVLPVHCTGKRDEDKEKVGTMEYFGLGGYPGFPL</span></span>
-<span class="topo-line"><span class="topo-inside">QYYPYYGKLLQPKYLQPLMAVQFTNLTMDTEIRIECKAYGENIGYSEKDRFQGRFDVKIE</span></span>
-<span class="topo-line"><span class="topo-inside">VKS</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MARGKAKEEGSW</span><span class="topo-outside">KKFIWNSEKKEFLGRTG</span><span class="topo-membrane">GSWFKILLFYVIFYGCLAGIFIGT</span><span class="topo-inside">IQVMLLTISEFKPTYQDRVAPPGLTQIPQSQKTEISFRPNDPQSYESYVVSIVRFLEKYKDLAQKDD</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">MIFEDCGNVPSELKERGEYNNERGERKVCRFRLEWLGNCSGLNDETYGYKDGKPCVIIKLNRVLGFKPKPPKNESLETYPVMKYNPYVLPVHCTGKRDEDKEKVGTMEYFGLGGYPGFPL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300   </span>
+<span class="topo-line"><span class="topo-inside">QYYPYYGKLLQPKYLQPLMAVQFTNLTMDTEIRIECKAYGENIGYSEKDRFQGRFDVKIEVKS</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4666,6 +4757,7 @@ The Na+,K+-ATPase is a P-type ATPase pump that maintains the electrochemical gra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4681,8 +4773,9 @@ The Na+,K+-ATPase is a P-type ATPase pump that maintains the electrochemical gra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAGLSTDDGGSPKGDV</span><span class="topo-inside">DPFYYDYETVRN</span><span class="topo-membrane">GGLIFAALAFIVGLIIIL</span><span class="topo-outside">SK</span><span class="topo-unknown">RLRCGGKKHRPI</span></span>
-<span class="topo-line"><span class="topo-unknown">NEDEL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60     </span>
+<span class="topo-line"><span class="topo-unknown">MAGLSTDDGGSPKGDV</span><span class="topo-inside">DPFYYDYETVRN</span><span class="topo-membrane">GGLIFAALAFIVGLIIIL</span><span class="topo-outside">SK</span><span class="topo-unknown">RLRCGGKKHRPINEDEL</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4715,6 +4808,7 @@ The Na+,K+-ATPase is a P-type ATPase pump that maintains the electrochemical gra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4730,23 +4824,25 @@ The Na+,K+-ATPase is a P-type ATPase pump that maintains the electrochemical gra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GRDKYEPAAVSEHGDKKKAK</span><span class="topo-outside">KERDMDELKKEVSMDDHKLSLDELHRKYGTDLSRGLTPAR</span></span>
-<span class="topo-line"><span class="topo-outside">AAEILARDGPNALTPPPTTP</span><span class="topo-unknown">EWVKFCRQLF</span><span class="topo-outside">GGF</span><span class="topo-membrane">SMLLWIGAILCFLAYGIQA</span><span class="topo-inside">ATEEEPQN</span></span>
-<span class="topo-line"><span class="topo-membrane">DNLYLGVVLSAVVIITGC</span><span class="topo-outside">FSYYQEAKSSKIMESFKNMVPQQALVIRNGEKMSINAEEVVV</span></span>
-<span class="topo-line"><span class="topo-outside">GDLVEVKGGDRIPADLRIISANGCKVDNSSLTGESEPQTRSPDFTNENPLETRNIAFFST</span></span>
-<span class="topo-line"><span class="topo-outside">NCVEGTARGIVVYTGDRTVMGRIATLASGLEGGQTPIAAEIEHFI</span><span class="topo-membrane">HIITGVAVFLGVSFF</span></span>
-<span class="topo-line"><span class="topo-membrane">ILSLIL</span><span class="topo-inside">EYTW</span><span class="topo-membrane">LEAVIFLIGIIVANVPEGLLAT</span><span class="topo-outside">VTVCLTLTAKRMARKNCLVKNLEAVETL</span></span>
-<span class="topo-line"><span class="topo-outside">GSTSTICSDKTGTLTQNRMTVAHMWSDNQIHEADTTENQSGVSFDKTSATWLALSRIAGL</span></span>
-<span class="topo-line"><span class="topo-outside">CNRAVFQANQENLPILKRAVAGDASESALLKCIELCCGSVKEMRERYTKIVEIPFNSTNK</span></span>
-<span class="topo-line"><span class="topo-outside">YQLSIHKNPNTAEPRHLLVMKGAPERILDRCSSILIHGKEQPLDEELKDAFQNAYLELGG</span></span>
-<span class="topo-line"><span class="topo-outside">LGERVLGFCHLFLPDEQFPEGFQFDTDDVNFPLDNLCFVGLISMIDPPRAAVPDAVGKCR</span></span>
-<span class="topo-line"><span class="topo-outside">SAGIKVIMVTGDHPITAKAIAKGVGIISEGNETVEDIAARLNIPVSQVNPRDAKACVVHG</span></span>
-<span class="topo-line"><span class="topo-outside">SDLKDMTSEQLDDILKYHTEIVFARTSPQQKLIIVEGCQRQGAIVAVTGDGVNDSPASKK</span></span>
-<span class="topo-line"><span class="topo-outside">ADIGVAMGIAGSDVSKQAADMILLDDNFASIVTGVEEGRLIFDNLKKS</span><span class="topo-membrane">IAYTLTSNIPEI</span></span>
-<span class="topo-line"><span class="topo-membrane">TPFLIFII</span><span class="topo-inside">ANIPLP</span><span class="topo-membrane">LGTVTILCIDLGTDMVPAIS</span><span class="topo-outside">LAYEQAESDIMKRQPRNPKTDKLVNE</span></span>
-<span class="topo-line"><span class="topo-outside">QL</span><span class="topo-membrane">ISMAYGQIGMIQALGGFFTY</span><span class="topo-inside">FVILAENGFLPIHLLGLRVNWDDRWINDVEDSYGQQWT</span></span>
-<span class="topo-line"><span class="topo-inside">YEQRKIVEFTCH</span><span class="topo-membrane">TPFFVTIVVVQWADLVIC</span><span class="topo-outside">KTRRNSVFQQGMKNKI</span><span class="topo-membrane">LIFGLFEETALAAF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GRDKYEPAAVSEHGDKKKAK</span><span class="topo-outside">KERDMDELKKEVSMDDHKLSLDELHRKYGTDLSRGLTPARAAEILARDGPNALTPPPTTP</span><span class="topo-unknown">EWVKFCRQLF</span><span class="topo-outside">GGF</span><span class="topo-membrane">SMLLWIGAILCFLAYGIQA</span><span class="topo-inside">ATEEEPQN</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">DNLYLGVVLSAVVIITGC</span><span class="topo-outside">FSYYQEAKSSKIMESFKNMVPQQALVIRNGEKMSINAEEVVVGDLVEVKGGDRIPADLRIISANGCKVDNSSLTGESEPQTRSPDFTNENPLETRNIAFFST</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">NCVEGTARGIVVYTGDRTVMGRIATLASGLEGGQTPIAAEIEHFI</span><span class="topo-membrane">HIITGVAVFLGVSFFILSLIL</span><span class="topo-inside">EYTW</span><span class="topo-membrane">LEAVIFLIGIIVANVPEGLLAT</span><span class="topo-outside">VTVCLTLTAKRMARKNCLVKNLEAVETL</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">GSTSTICSDKTGTLTQNRMTVAHMWSDNQIHEADTTENQSGVSFDKTSATWLALSRIAGLCNRAVFQANQENLPILKRAVAGDASESALLKCIELCCGSVKEMRERYTKIVEIPFNSTNK</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">YQLSIHKNPNTAEPRHLLVMKGAPERILDRCSSILIHGKEQPLDEELKDAFQNAYLELGGLGERVLGFCHLFLPDEQFPEGFQFDTDDVNFPLDNLCFVGLISMIDPPRAAVPDAVGKCR</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-outside">SAGIKVIMVTGDHPITAKAIAKGVGIISEGNETVEDIAARLNIPVSQVNPRDAKACVVHGSDLKDMTSEQLDDILKYHTEIVFARTSPQQKLIIVEGCQRQGAIVAVTGDGVNDSPASKK</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820       830       840</span>
+<span class="topo-line"><span class="topo-outside">ADIGVAMGIAGSDVSKQAADMILLDDNFASIVTGVEEGRLIFDNLKKS</span><span class="topo-membrane">IAYTLTSNIPEITPFLIFII</span><span class="topo-inside">ANIPLP</span><span class="topo-membrane">LGTVTILCIDLGTDMVPAIS</span><span class="topo-outside">LAYEQAESDIMKRQPRNPKTDKLVNE</span></span>
+<span class="topo-ruler">       850       860       870       880       890       900       910       920       930       940       950       960</span>
+<span class="topo-line"><span class="topo-outside">QL</span><span class="topo-membrane">ISMAYGQIGMIQALGGFFTY</span><span class="topo-inside">FVILAENGFLPIHLLGLRVNWDDRWINDVEDSYGQQWTYEQRKIVEFTCH</span><span class="topo-membrane">TPFFVTIVVVQWADLVIC</span><span class="topo-outside">KTRRNSVFQQGMKNKI</span><span class="topo-membrane">LIFGLFEETALAAF</span></span>
+<span class="topo-ruler">       970       980       990      1000      1010      </span>
 <span class="topo-line"><span class="topo-membrane">LSYC</span><span class="topo-inside">PGMGVALRMYPLKP</span><span class="topo-membrane">TWWFCAFPYSLLIFVYDEVR</span><span class="topo-outside">KLIIRRRPGGWVEKETYY</span></span>
+<details class="topo-details"><summary>Topology coordinates (23 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4919,6 +5015,7 @@ The Na+,K+-ATPase is a P-type ATPase pump that maintains the electrochemical gra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4934,12 +5031,13 @@ The Na+,K+-ATPase is a P-type ATPase pump that maintains the electrochemical gra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MARGKAKEEGSW</span><span class="topo-outside">KKFIWNSEKKEFLGRTG</span><span class="topo-membrane">GSWFKILLFYVIFYGCLAGIFIGT</span><span class="topo-inside">IQVMLLT</span></span>
-<span class="topo-line"><span class="topo-inside">ISEFKPTYQDRVAPPGLTQIPQSQKTEISFRPNDPQSYESYVVSIVRFLEKYKDLAQKDD</span></span>
-<span class="topo-line"><span class="topo-inside">MIFEDCGNVPSELKERGEYNNERGERKVCRFRLEWLGNCSGLNDETYGYKDGKPCVIIKL</span></span>
-<span class="topo-line"><span class="topo-inside">NRVLGFKPKPPKNESLETYPVMKYNPYVLPVHCTGKRDEDKEKVGTMEYFGLGGYPGFPL</span></span>
-<span class="topo-line"><span class="topo-inside">QYYPYYGKLLQPKYLQPLMAVQFTNLTMDTEIRIECKAYGENIGYSEKDRFQGRFDVKIE</span></span>
-<span class="topo-line"><span class="topo-inside">VKS</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MARGKAKEEGSW</span><span class="topo-outside">KKFIWNSEKKEFLGRTG</span><span class="topo-membrane">GSWFKILLFYVIFYGCLAGIFIGT</span><span class="topo-inside">IQVMLLTISEFKPTYQDRVAPPGLTQIPQSQKTEISFRPNDPQSYESYVVSIVRFLEKYKDLAQKDD</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">MIFEDCGNVPSELKERGEYNNERGERKVCRFRLEWLGNCSGLNDETYGYKDGKPCVIIKLNRVLGFKPKPPKNESLETYPVMKYNPYVLPVHCTGKRDEDKEKVGTMEYFGLGGYPGFPL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300   </span>
+<span class="topo-line"><span class="topo-inside">QYYPYYGKLLQPKYLQPLMAVQFTNLTMDTEIRIECKAYGENIGYSEKDRFQGRFDVKIEVKS</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4972,6 +5070,7 @@ The Na+,K+-ATPase is a P-type ATPase pump that maintains the electrochemical gra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4987,8 +5086,9 @@ The Na+,K+-ATPase is a P-type ATPase pump that maintains the electrochemical gra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAGLSTDDGGSPKGDV</span><span class="topo-inside">DPFYYDYETVRN</span><span class="topo-membrane">GGLIFAALAFIVGLIIIL</span><span class="topo-outside">SK</span><span class="topo-unknown">RLRCGGKKHRPI</span></span>
-<span class="topo-line"><span class="topo-unknown">NEDEL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60     </span>
+<span class="topo-line"><span class="topo-unknown">MAGLSTDDGGSPKGDV</span><span class="topo-inside">DPFYYDYETVRN</span><span class="topo-membrane">GGLIFAALAFIVGLIIIL</span><span class="topo-outside">SK</span><span class="topo-unknown">RLRCGGKKHRPINEDEL</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -5021,6 +5121,7 @@ The Na+,K+-ATPase is a P-type ATPase pump that maintains the electrochemical gra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -5036,23 +5137,25 @@ The Na+,K+-ATPase is a P-type ATPase pump that maintains the electrochemical gra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GRDKYEPAAVSEHGDKKKAK</span><span class="topo-outside">KERDMDELKKEVSMDDHKLSLDELHRKYGTDLSRGLTPAR</span></span>
-<span class="topo-line"><span class="topo-outside">AAEILARDGPNALTPPPTTP</span><span class="topo-unknown">EWVKFCRQLF</span><span class="topo-outside">GGF</span><span class="topo-membrane">SMLLWIGAILCFLAYGIQA</span><span class="topo-inside">ATEEEPQN</span></span>
-<span class="topo-line"><span class="topo-membrane">DNLYLGVVLSAVVIITGC</span><span class="topo-outside">FSYYQEAKSSKIMESFKNMVPQQALVIRNGEKMSINAEEVVV</span></span>
-<span class="topo-line"><span class="topo-outside">GDLVEVKGGDRIPADLRIISANGCKVDNSSLTGESEPQTRSPDFTNENPLETRNIAFFST</span></span>
-<span class="topo-line"><span class="topo-outside">NCVEGTARGIVVYTGDRTVMGRIATLASGLEGGQTPIAAEIEHFI</span><span class="topo-membrane">HIITGVAVFLGVSFF</span></span>
-<span class="topo-line"><span class="topo-membrane">ILSLIL</span><span class="topo-inside">EYTW</span><span class="topo-membrane">LEAVIFLIGIIVANVPEGLLAT</span><span class="topo-outside">VTVCLTLTAKRMARKNCLVKNLEAVETL</span></span>
-<span class="topo-line"><span class="topo-outside">GSTSTICSDKTGTLTQNRMTVAHMWSDNQIHEADTTENQSGVSFDKTSATWLALSRIAGL</span></span>
-<span class="topo-line"><span class="topo-outside">CNRAVFQANQENLPILKRAVAGDASESALLKCIELCCGSVKEMRERYTKIVEIPFNSTNK</span></span>
-<span class="topo-line"><span class="topo-outside">YQLSIHKNPNTAEPRHLLVMKGAPERILDRCSSILIHGKEQPLDEELKDAFQNAYLELGG</span></span>
-<span class="topo-line"><span class="topo-outside">LGERVLGFCHLFLPDEQFPEGFQFDTDDVNFPLDNLCFVGLISMIDPPRAAVPDAVGKCR</span></span>
-<span class="topo-line"><span class="topo-outside">SAGIKVIMVTGDHPITAKAIAKGVGIISEGNETVEDIAARLNIPVSQVNPRDAKACVVHG</span></span>
-<span class="topo-line"><span class="topo-outside">SDLKDMTSEQLDDILKYHTEIVFARTSPQQKLIIVEGCQRQGAIVAVTGDGVNDSPASKK</span></span>
-<span class="topo-line"><span class="topo-outside">ADIGVAMGIAGSDVSKQAADMILLDDNFASIVTGVEEGRLIFDNLKKS</span><span class="topo-membrane">IAYTLTSNIPEI</span></span>
-<span class="topo-line"><span class="topo-membrane">TPFLIFII</span><span class="topo-inside">ANIPLP</span><span class="topo-membrane">LGTVTILCIDLGTDMVPAIS</span><span class="topo-outside">LAYEQAESDIMKRQPRNPKTDKLVNE</span></span>
-<span class="topo-line"><span class="topo-outside">QL</span><span class="topo-membrane">ISMAYGQIGMIQALGGFFTY</span><span class="topo-inside">FVILAENGFLPIHLLGLRVNWDDRWINDVEDSYGQQWT</span></span>
-<span class="topo-line"><span class="topo-inside">YEQRKIVEFTCH</span><span class="topo-membrane">TPFFVTIVVVQWADLVIC</span><span class="topo-outside">KTRRNSVFQQGMKNKI</span><span class="topo-membrane">LIFGLFEETALAAF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GRDKYEPAAVSEHGDKKKAK</span><span class="topo-outside">KERDMDELKKEVSMDDHKLSLDELHRKYGTDLSRGLTPARAAEILARDGPNALTPPPTTP</span><span class="topo-unknown">EWVKFCRQLF</span><span class="topo-outside">GGF</span><span class="topo-membrane">SMLLWIGAILCFLAYGIQA</span><span class="topo-inside">ATEEEPQN</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">DNLYLGVVLSAVVIITGC</span><span class="topo-outside">FSYYQEAKSSKIMESFKNMVPQQALVIRNGEKMSINAEEVVVGDLVEVKGGDRIPADLRIISANGCKVDNSSLTGESEPQTRSPDFTNENPLETRNIAFFST</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">NCVEGTARGIVVYTGDRTVMGRIATLASGLEGGQTPIAAEIEHFI</span><span class="topo-membrane">HIITGVAVFLGVSFFILSLIL</span><span class="topo-inside">EYTW</span><span class="topo-membrane">LEAVIFLIGIIVANVPEGLLAT</span><span class="topo-outside">VTVCLTLTAKRMARKNCLVKNLEAVETL</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">GSTSTICSDKTGTLTQNRMTVAHMWSDNQIHEADTTENQSGVSFDKTSATWLALSRIAGLCNRAVFQANQENLPILKRAVAGDASESALLKCIELCCGSVKEMRERYTKIVEIPFNSTNK</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">YQLSIHKNPNTAEPRHLLVMKGAPERILDRCSSILIHGKEQPLDEELKDAFQNAYLELGGLGERVLGFCHLFLPDEQFPEGFQFDTDDVNFPLDNLCFVGLISMIDPPRAAVPDAVGKCR</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-outside">SAGIKVIMVTGDHPITAKAIAKGVGIISEGNETVEDIAARLNIPVSQVNPRDAKACVVHGSDLKDMTSEQLDDILKYHTEIVFARTSPQQKLIIVEGCQRQGAIVAVTGDGVNDSPASKK</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820       830       840</span>
+<span class="topo-line"><span class="topo-outside">ADIGVAMGIAGSDVSKQAADMILLDDNFASIVTGVEEGRLIFDNLKKS</span><span class="topo-membrane">IAYTLTSNIPEITPFLIFII</span><span class="topo-inside">ANIPLP</span><span class="topo-membrane">LGTVTILCIDLGTDMVPAIS</span><span class="topo-outside">LAYEQAESDIMKRQPRNPKTDKLVNE</span></span>
+<span class="topo-ruler">       850       860       870       880       890       900       910       920       930       940       950       960</span>
+<span class="topo-line"><span class="topo-outside">QL</span><span class="topo-membrane">ISMAYGQIGMIQALGGFFTY</span><span class="topo-inside">FVILAENGFLPIHLLGLRVNWDDRWINDVEDSYGQQWTYEQRKIVEFTCH</span><span class="topo-membrane">TPFFVTIVVVQWADLVIC</span><span class="topo-outside">KTRRNSVFQQGMKNKI</span><span class="topo-membrane">LIFGLFEETALAAF</span></span>
+<span class="topo-ruler">       970       980       990      1000      1010      </span>
 <span class="topo-line"><span class="topo-membrane">LSYC</span><span class="topo-inside">PGMGVALRMYPLKP</span><span class="topo-membrane">TWWFCAFPYSLLIFVYDEVR</span><span class="topo-outside">KLIIRRRPGGWVEKETYY</span></span>
+<details class="topo-details"><summary>Topology coordinates (23 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -5225,6 +5328,7 @@ The Na+,K+-ATPase is a P-type ATPase pump that maintains the electrochemical gra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -5240,12 +5344,13 @@ The Na+,K+-ATPase is a P-type ATPase pump that maintains the electrochemical gra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MARGKAKEEGSW</span><span class="topo-outside">KKFIWNSEKKEFLGRTG</span><span class="topo-membrane">GSWFKILLFYVIFYGCLAGIFIGT</span><span class="topo-inside">IQVMLLT</span></span>
-<span class="topo-line"><span class="topo-inside">ISEFKPTYQDRVAPPGLTQIPQSQKTEISFRPNDPQSYESYVVSIVRFLEKYKDLAQKDD</span></span>
-<span class="topo-line"><span class="topo-inside">MIFEDCGNVPSELKERGEYNNERGERKVCRFRLEWLGNCSGLNDETYGYKDGKPCVIIKL</span></span>
-<span class="topo-line"><span class="topo-inside">NRVLGFKPKPPKNESLETYPVMKYNPYVLPVHCTGKRDEDKEKVGTMEYFGLGGYPGFPL</span></span>
-<span class="topo-line"><span class="topo-inside">QYYPYYGKLLQPKYLQPLMAVQFTNLTMDTEIRIECKAYGENIGYSEKDRFQGRFDVKIE</span></span>
-<span class="topo-line"><span class="topo-inside">VKS</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MARGKAKEEGSW</span><span class="topo-outside">KKFIWNSEKKEFLGRTG</span><span class="topo-membrane">GSWFKILLFYVIFYGCLAGIFIGT</span><span class="topo-inside">IQVMLLTISEFKPTYQDRVAPPGLTQIPQSQKTEISFRPNDPQSYESYVVSIVRFLEKYKDLAQKDD</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">MIFEDCGNVPSELKERGEYNNERGERKVCRFRLEWLGNCSGLNDETYGYKDGKPCVIIKLNRVLGFKPKPPKNESLETYPVMKYNPYVLPVHCTGKRDEDKEKVGTMEYFGLGGYPGFPL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300   </span>
+<span class="topo-line"><span class="topo-inside">QYYPYYGKLLQPKYLQPLMAVQFTNLTMDTEIRIECKAYGENIGYSEKDRFQGRFDVKIEVKS</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -5278,6 +5383,7 @@ The Na+,K+-ATPase is a P-type ATPase pump that maintains the electrochemical gra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -5293,8 +5399,9 @@ The Na+,K+-ATPase is a P-type ATPase pump that maintains the electrochemical gra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAGLSTDDGGSPKGDV</span><span class="topo-inside">DPFYYDYETVRN</span><span class="topo-membrane">GGLIFAALAFIVGLIIIL</span><span class="topo-outside">SK</span><span class="topo-unknown">RLRCGGKKHRPI</span></span>
-<span class="topo-line"><span class="topo-unknown">NEDEL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60     </span>
+<span class="topo-line"><span class="topo-unknown">MAGLSTDDGGSPKGDV</span><span class="topo-inside">DPFYYDYETVRN</span><span class="topo-membrane">GGLIFAALAFIVGLIIIL</span><span class="topo-outside">SK</span><span class="topo-unknown">RLRCGGKKHRPINEDEL</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -5327,6 +5434,7 @@ The Na+,K+-ATPase is a P-type ATPase pump that maintains the electrochemical gra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -5342,23 +5450,25 @@ The Na+,K+-ATPase is a P-type ATPase pump that maintains the electrochemical gra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GRDKYEPAAVSEHGDKKKAK</span><span class="topo-outside">KERDMDELKKEVSMDDHKLSLDELHRKYGTDLSRGLTPAR</span></span>
-<span class="topo-line"><span class="topo-outside">AAEILARDGPNALTPPPTTP</span><span class="topo-unknown">EWVKFCRQLF</span><span class="topo-outside">GGF</span><span class="topo-membrane">SMLLWIGAILCFLAYGIQA</span><span class="topo-inside">ATEEEPQN</span></span>
-<span class="topo-line"><span class="topo-membrane">DNLYLGVVLSAVVIITGC</span><span class="topo-outside">FSYYQEAKSSKIMESFKNMVPQQALVIRNGEKMSINAEEVVV</span></span>
-<span class="topo-line"><span class="topo-outside">GDLVEVKGGDRIPADLRIISANGCKVDNSSLTGESEPQTRSPDFTNENPLETRNIAFFST</span></span>
-<span class="topo-line"><span class="topo-outside">NCVEGTARGIVVYTGDRTVMGRIATLASGLEGGQTPIAAEIEHFI</span><span class="topo-membrane">HIITGVAVFLGVSFF</span></span>
-<span class="topo-line"><span class="topo-membrane">ILSLIL</span><span class="topo-inside">EYTW</span><span class="topo-membrane">LEAVIFLIGIIVANVPEGLLAT</span><span class="topo-outside">VTVCLTLTAKRMARKNCLVKNLEAVETL</span></span>
-<span class="topo-line"><span class="topo-outside">GSTSTICSDKTGTLTQNRMTVAHMWSDNQIHEADTTENQSGVSFDKTSATWLALSRIAGL</span></span>
-<span class="topo-line"><span class="topo-outside">CNRAVFQANQENLPILKRAVAGDASESALLKCIELCCGSVKEMRERYTKIVEIPFNSTNK</span></span>
-<span class="topo-line"><span class="topo-outside">YQLSIHKNPNTAEPRHLLVMKGAPERILDRCSSILIHGKEQPLDEELKDAFQNAYLELGG</span></span>
-<span class="topo-line"><span class="topo-outside">LGERVLGFCHLFLPDEQFPEGFQFDTDDVNFPLDNLCFVGLISMIDPPRAAVPDAVGKCR</span></span>
-<span class="topo-line"><span class="topo-outside">SAGIKVIMVTGDHPITAKAIAKGVGIISEGNETVEDIAARLNIPVSQVNPRDAKACVVHG</span></span>
-<span class="topo-line"><span class="topo-outside">SDLKDMTSEQLDDILKYHTEIVFARTSPQQKLIIVEGCQRQGAIVAVTGDGVNDSPASKK</span></span>
-<span class="topo-line"><span class="topo-outside">ADIGVAMGIAGSDVSKQAADMILLDDNFASIVTGVEEGRLIFDNLKKS</span><span class="topo-membrane">IAYTLTSNIPEI</span></span>
-<span class="topo-line"><span class="topo-membrane">TPFLIFII</span><span class="topo-inside">ANIPLP</span><span class="topo-membrane">LGTVTILCIDLGTDMVPAIS</span><span class="topo-outside">LAYEQAESDIMKRQPRNPKTDKLVNE</span></span>
-<span class="topo-line"><span class="topo-outside">QL</span><span class="topo-membrane">ISMAYGQIGMIQALGGFFTY</span><span class="topo-inside">FVILAENGFLPIHLLGLRVNWDDRWINDVEDSYGQQWT</span></span>
-<span class="topo-line"><span class="topo-inside">YEQRKIVEFTCH</span><span class="topo-membrane">TPFFVTIVVVQWADLVIC</span><span class="topo-outside">KTRRNSVFQQGMKNKI</span><span class="topo-membrane">LIFGLFEETALAAF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GRDKYEPAAVSEHGDKKKAK</span><span class="topo-outside">KERDMDELKKEVSMDDHKLSLDELHRKYGTDLSRGLTPARAAEILARDGPNALTPPPTTP</span><span class="topo-unknown">EWVKFCRQLF</span><span class="topo-outside">GGF</span><span class="topo-membrane">SMLLWIGAILCFLAYGIQA</span><span class="topo-inside">ATEEEPQN</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">DNLYLGVVLSAVVIITGC</span><span class="topo-outside">FSYYQEAKSSKIMESFKNMVPQQALVIRNGEKMSINAEEVVVGDLVEVKGGDRIPADLRIISANGCKVDNSSLTGESEPQTRSPDFTNENPLETRNIAFFST</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">NCVEGTARGIVVYTGDRTVMGRIATLASGLEGGQTPIAAEIEHFI</span><span class="topo-membrane">HIITGVAVFLGVSFFILSLIL</span><span class="topo-inside">EYTW</span><span class="topo-membrane">LEAVIFLIGIIVANVPEGLLAT</span><span class="topo-outside">VTVCLTLTAKRMARKNCLVKNLEAVETL</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">GSTSTICSDKTGTLTQNRMTVAHMWSDNQIHEADTTENQSGVSFDKTSATWLALSRIAGLCNRAVFQANQENLPILKRAVAGDASESALLKCIELCCGSVKEMRERYTKIVEIPFNSTNK</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">YQLSIHKNPNTAEPRHLLVMKGAPERILDRCSSILIHGKEQPLDEELKDAFQNAYLELGGLGERVLGFCHLFLPDEQFPEGFQFDTDDVNFPLDNLCFVGLISMIDPPRAAVPDAVGKCR</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-outside">SAGIKVIMVTGDHPITAKAIAKGVGIISEGNETVEDIAARLNIPVSQVNPRDAKACVVHGSDLKDMTSEQLDDILKYHTEIVFARTSPQQKLIIVEGCQRQGAIVAVTGDGVNDSPASKK</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820       830       840</span>
+<span class="topo-line"><span class="topo-outside">ADIGVAMGIAGSDVSKQAADMILLDDNFASIVTGVEEGRLIFDNLKKS</span><span class="topo-membrane">IAYTLTSNIPEITPFLIFII</span><span class="topo-inside">ANIPLP</span><span class="topo-membrane">LGTVTILCIDLGTDMVPAIS</span><span class="topo-outside">LAYEQAESDIMKRQPRNPKTDKLVNE</span></span>
+<span class="topo-ruler">       850       860       870       880       890       900       910       920       930       940       950       960</span>
+<span class="topo-line"><span class="topo-outside">QL</span><span class="topo-membrane">ISMAYGQIGMIQALGGFFTY</span><span class="topo-inside">FVILAENGFLPIHLLGLRVNWDDRWINDVEDSYGQQWTYEQRKIVEFTCH</span><span class="topo-membrane">TPFFVTIVVVQWADLVIC</span><span class="topo-outside">KTRRNSVFQQGMKNKI</span><span class="topo-membrane">LIFGLFEETALAAF</span></span>
+<span class="topo-ruler">       970       980       990      1000      1010      </span>
 <span class="topo-line"><span class="topo-membrane">LSYC</span><span class="topo-inside">PGMGVALRMYPLKP</span><span class="topo-membrane">TWWFCAFPYSLLIFVYDEVR</span><span class="topo-outside">KLIIRRRPGGWVEKETYY</span></span>
+<details class="topo-details"><summary>Topology coordinates (23 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -5531,6 +5641,7 @@ The Na+,K+-ATPase is a P-type ATPase pump that maintains the electrochemical gra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -5546,12 +5657,13 @@ The Na+,K+-ATPase is a P-type ATPase pump that maintains the electrochemical gra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MARGKAKEEGSW</span><span class="topo-outside">KKFIWNSEKKEFLGRTG</span><span class="topo-membrane">GSWFKILLFYVIFYGCLAGIFIGT</span><span class="topo-inside">IQVMLLT</span></span>
-<span class="topo-line"><span class="topo-inside">ISEFKPTYQDRVAPPGLTQIPQSQKTEISFRPNDPQSYESYVVSIVRFLEKYKDLAQKDD</span></span>
-<span class="topo-line"><span class="topo-inside">MIFEDCGNVPSELKERGEYNNERGERKVCRFRLEWLGNCSGLNDETYGYKDGKPCVIIKL</span></span>
-<span class="topo-line"><span class="topo-inside">NRVLGFKPKPPKNESLETYPVMKYNPYVLPVHCTGKRDEDKEKVGTMEYFGLGGYPGFPL</span></span>
-<span class="topo-line"><span class="topo-inside">QYYPYYGKLLQPKYLQPLMAVQFTNLTMDTEIRIECKAYGENIGYSEKDRFQGRFDVKIE</span></span>
-<span class="topo-line"><span class="topo-inside">VKS</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MARGKAKEEGSW</span><span class="topo-outside">KKFIWNSEKKEFLGRTG</span><span class="topo-membrane">GSWFKILLFYVIFYGCLAGIFIGT</span><span class="topo-inside">IQVMLLTISEFKPTYQDRVAPPGLTQIPQSQKTEISFRPNDPQSYESYVVSIVRFLEKYKDLAQKDD</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">MIFEDCGNVPSELKERGEYNNERGERKVCRFRLEWLGNCSGLNDETYGYKDGKPCVIIKLNRVLGFKPKPPKNESLETYPVMKYNPYVLPVHCTGKRDEDKEKVGTMEYFGLGGYPGFPL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300   </span>
+<span class="topo-line"><span class="topo-inside">QYYPYYGKLLQPKYLQPLMAVQFTNLTMDTEIRIECKAYGENIGYSEKDRFQGRFDVKIEVKS</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -5584,6 +5696,7 @@ The Na+,K+-ATPase is a P-type ATPase pump that maintains the electrochemical gra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -5599,8 +5712,9 @@ The Na+,K+-ATPase is a P-type ATPase pump that maintains the electrochemical gra
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAGLSTDDGGSPKGDV</span><span class="topo-inside">DPFYYDYETVRN</span><span class="topo-membrane">GGLIFAALAFIVGLIIIL</span><span class="topo-outside">SK</span><span class="topo-unknown">RLRCGGKKHRPI</span></span>
-<span class="topo-line"><span class="topo-unknown">NEDEL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60     </span>
+<span class="topo-line"><span class="topo-unknown">MAGLSTDDGGSPKGDV</span><span class="topo-inside">DPFYYDYETVRN</span><span class="topo-membrane">GGLIFAALAFIVGLIIIL</span><span class="topo-outside">SK</span><span class="topo-unknown">RLRCGGKKHRPINEDEL</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -5633,6 +5747,7 @@ The Na+,K+-ATPase is a P-type ATPase pump that maintains the electrochemical gra
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

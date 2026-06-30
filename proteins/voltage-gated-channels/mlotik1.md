@@ -118,12 +118,13 @@ MlotiK1 is a bacterial cyclic nucleotide-regulated potassium channel from Mesorh
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSVLPF</span><span class="topo-outside">LRIYAPLNA</span><span class="topo-membrane">VLAAPGLLAVAALT</span><span class="topo-inside">IPDMSGRS</span><span class="topo-membrane">RLALAALLAVIWGAYL</span><span class="topo-outside">LQLAATL</span></span>
-<span class="topo-line"><span class="topo-outside">LKRRAGVVRDRTPKIAIDVL</span><span class="topo-membrane">AVLVPLAAFLLDG</span><span class="topo-inside">SP</span><span class="topo-membrane">DWSLYCAVWLLKP</span><span class="topo-outside">LRDSTFFPVLGR</span></span>
-<span class="topo-line"><span class="topo-outside">VLANEARNLIGVT</span><span class="topo-membrane">TLFGVVLFAVALAAYVI</span><span class="topo-inside">ERDIQPEKFGSI</span><span class="topo-unknown">PQAMWWAVVTLSTTGY</span><span class="topo-inside">GD</span></span>
-<span class="topo-line"><span class="topo-inside">TIPQSF</span><span class="topo-membrane">AGRVLAGAVMMSGIGIF</span><span class="topo-outside">GLWAGILATGFYQEVRRGDFVRNWQ</span><span class="topo-unknown">LVAAVPLFQKLG</span></span>
-<span class="topo-line"><span class="topo-unknown">PAVLVEIVRALRARTVPAGAVICRIGEPGDRMFFVVEGSVSVATPNPVELGPGAFFGEMA</span></span>
-<span class="topo-line"><span class="topo-unknown">LISGEPRSATVSAATTVSLLSLHSADFQMLCSSSPEIAEIFRKTALERRGAAASA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSVLPF</span><span class="topo-outside">LRIYAPLNA</span><span class="topo-membrane">VLAAPGLLAVAALT</span><span class="topo-inside">IPDMSGRS</span><span class="topo-membrane">RLALAALLAVIWGAYL</span><span class="topo-outside">LQLAATLLKRRAGVVRDRTPKIAIDVL</span><span class="topo-membrane">AVLVPLAAFLLDG</span><span class="topo-inside">SP</span><span class="topo-membrane">DWSLYCAVWLLKP</span><span class="topo-outside">LRDSTFFPVLGR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">VLANEARNLIGVT</span><span class="topo-membrane">TLFGVVLFAVALAAYVI</span><span class="topo-inside">ERDIQPEKFGSI</span><span class="topo-unknown">PQAMWWAVVTLSTTGY</span><span class="topo-inside">GDTIPQSF</span><span class="topo-membrane">AGRVLAGAVMMSGIGIF</span><span class="topo-outside">GLWAGILATGFYQEVRRGDFVRNWQ</span><span class="topo-unknown">LVAAVPLFQKLG</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350     </span>
+<span class="topo-line"><span class="topo-unknown">PAVLVEIVRALRARTVPAGAVICRIGEPGDRMFFVVEGSVSVATPNPVELGPGAFFGEMALISGEPRSATVSAATTVSLLSLHSADFQMLCSSSPEIAEIFRKTALERRGAAASA</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -254,6 +255,7 @@ MlotiK1 is a bacterial cyclic nucleotide-regulated potassium channel from Mesorh
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -269,12 +271,13 @@ MlotiK1 is a bacterial cyclic nucleotide-regulated potassium channel from Mesorh
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSVLPFLR</span><span class="topo-outside">IYAPLN</span><span class="topo-membrane">AVLAAPGLLAVAALT</span><span class="topo-inside">IPDMSGRSRL</span><span class="topo-membrane">ALAALLAVIWGAYLL</span><span class="topo-outside">QLAATL</span></span>
-<span class="topo-line"><span class="topo-outside">LKRRAGVVRDRTPKIAIDV</span><span class="topo-membrane">LAVLVPLAAFLLD</span><span class="topo-inside">GSPD</span><span class="topo-membrane">WSLYCAVWLLKP</span><span class="topo-outside">LRDSTFFPVLGR</span></span>
-<span class="topo-line"><span class="topo-outside">VLANEARNLIGVT</span><span class="topo-membrane">TLFGVVLFAVALAAYVI</span><span class="topo-inside">ERDIQPEKFGSI</span><span class="topo-unknown">PQAMWWAVVTLSTTGY</span><span class="topo-inside">GD</span></span>
-<span class="topo-line"><span class="topo-inside">TIPQSF</span><span class="topo-membrane">AGRVLAGAVMMSGIGIF</span><span class="topo-outside">GLWAGILATGFYQEVRRGDFVRNWQLV</span><span class="topo-unknown">AAVPLFQKLG</span></span>
-<span class="topo-line"><span class="topo-unknown">PAVLVEIVRALRARTVPAGAVICRIGEPGDRMFFVVEGSVSVATPNPVELGPGAFFGEMA</span></span>
-<span class="topo-line"><span class="topo-unknown">LISGEPRSATVSAATTVSLLSLHSADFQMLCSSSPEIAEIFRKTALERRGAAASA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSVLPFLR</span><span class="topo-outside">IYAPLN</span><span class="topo-membrane">AVLAAPGLLAVAALT</span><span class="topo-inside">IPDMSGRSRL</span><span class="topo-membrane">ALAALLAVIWGAYLL</span><span class="topo-outside">QLAATLLKRRAGVVRDRTPKIAIDV</span><span class="topo-membrane">LAVLVPLAAFLLD</span><span class="topo-inside">GSPD</span><span class="topo-membrane">WSLYCAVWLLKP</span><span class="topo-outside">LRDSTFFPVLGR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">VLANEARNLIGVT</span><span class="topo-membrane">TLFGVVLFAVALAAYVI</span><span class="topo-inside">ERDIQPEKFGSI</span><span class="topo-unknown">PQAMWWAVVTLSTTGY</span><span class="topo-inside">GDTIPQSF</span><span class="topo-membrane">AGRVLAGAVMMSGIGIF</span><span class="topo-outside">GLWAGILATGFYQEVRRGDFVRNWQLV</span><span class="topo-unknown">AAVPLFQKLG</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350     </span>
+<span class="topo-line"><span class="topo-unknown">PAVLVEIVRALRARTVPAGAVICRIGEPGDRMFFVVEGSVSVATPNPVELGPGAFFGEMALISGEPRSATVSAATTVSLLSLHSADFQMLCSSSPEIAEIFRKTALERRGAAASA</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -405,6 +408,7 @@ MlotiK1 is a bacterial cyclic nucleotide-regulated potassium channel from Mesorh
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -420,12 +424,13 @@ MlotiK1 is a bacterial cyclic nucleotide-regulated potassium channel from Mesorh
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSVL</span><span class="topo-outside">PFLRIYAPLNA</span><span class="topo-membrane">VLAAPGLLAVAALT</span><span class="topo-inside">IPDMSGRSRL</span><span class="topo-membrane">ALAALLAVIWGAYLL</span><span class="topo-outside">QLAATL</span></span>
-<span class="topo-line"><span class="topo-outside">LKRRAGVVRDRTPKIAIDV</span><span class="topo-membrane">LAVLVPLAAFLLD</span><span class="topo-inside">GSPD</span><span class="topo-membrane">WSLYCAVWLLKP</span><span class="topo-outside">LRDSTFFPVLGR</span></span>
-<span class="topo-line"><span class="topo-outside">VLANEARNLIGVT</span><span class="topo-membrane">TLFGVVLFAVALAAYVI</span><span class="topo-inside">ERDIQPEKFGSI</span><span class="topo-unknown">PQAMWWAVVTLSTTGYG</span><span class="topo-inside">D</span></span>
-<span class="topo-line"><span class="topo-inside">TIPQSF</span><span class="topo-membrane">AGRVLAGAVMMSGIGIF</span><span class="topo-outside">GLWAGILATGFYQEVRRGDFVRNWQLV</span><span class="topo-unknown">AAVPLFQKLG</span></span>
-<span class="topo-line"><span class="topo-unknown">PAVLVEIVRALRARTVPAGAVICRIGEPGDRMFFVVEGSVSVATPNPVELGPGAFFGEMA</span></span>
-<span class="topo-line"><span class="topo-unknown">LISGEPRSATVSAATTVSLLSLHSADFQMLCSSSPEIAEIFRKTALERRGAAASA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSVL</span><span class="topo-outside">PFLRIYAPLNA</span><span class="topo-membrane">VLAAPGLLAVAALT</span><span class="topo-inside">IPDMSGRSRL</span><span class="topo-membrane">ALAALLAVIWGAYLL</span><span class="topo-outside">QLAATLLKRRAGVVRDRTPKIAIDV</span><span class="topo-membrane">LAVLVPLAAFLLD</span><span class="topo-inside">GSPD</span><span class="topo-membrane">WSLYCAVWLLKP</span><span class="topo-outside">LRDSTFFPVLGR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">VLANEARNLIGVT</span><span class="topo-membrane">TLFGVVLFAVALAAYVI</span><span class="topo-inside">ERDIQPEKFGSI</span><span class="topo-unknown">PQAMWWAVVTLSTTGYG</span><span class="topo-inside">DTIPQSF</span><span class="topo-membrane">AGRVLAGAVMMSGIGIF</span><span class="topo-outside">GLWAGILATGFYQEVRRGDFVRNWQLV</span><span class="topo-unknown">AAVPLFQKLG</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350     </span>
+<span class="topo-line"><span class="topo-unknown">PAVLVEIVRALRARTVPAGAVICRIGEPGDRMFFVVEGSVSVATPNPVELGPGAFFGEMALISGEPRSATVSAATTVSLLSLHSADFQMLCSSSPEIAEIFRKTALERRGAAASA</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -556,6 +561,7 @@ MlotiK1 is a bacterial cyclic nucleotide-regulated potassium channel from Mesorh
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -571,12 +577,13 @@ MlotiK1 is a bacterial cyclic nucleotide-regulated potassium channel from Mesorh
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSVL</span><span class="topo-outside">PFLRIYAPLNA</span><span class="topo-membrane">VLAAPGLLAVAALT</span><span class="topo-inside">IPDMSGRSRL</span><span class="topo-membrane">ALAALLAVIWGAYLL</span><span class="topo-outside">QLAATL</span></span>
-<span class="topo-line"><span class="topo-outside">LKRRAGVVRDRTPKIAID</span><span class="topo-membrane">VLAVLVPLAAFLLD</span><span class="topo-inside">GSPD</span><span class="topo-membrane">WSLYCAVWLLKP</span><span class="topo-outside">LRDSTFFPVLGR</span></span>
-<span class="topo-line"><span class="topo-outside">VLANEARNLIGVT</span><span class="topo-membrane">TLFGVVLFAVALAAYVI</span><span class="topo-inside">ERDIQPEKFGSI</span><span class="topo-unknown">PQAMWWAVVTLSTTGYG</span><span class="topo-inside">D</span></span>
-<span class="topo-line"><span class="topo-inside">TIPQSF</span><span class="topo-membrane">AGRVLAGAVMMSGIGIF</span><span class="topo-outside">GLWAGILATGFYQEVRRGDFVRNWQL</span><span class="topo-unknown">VAAVPLFQKLG</span></span>
-<span class="topo-line"><span class="topo-unknown">PAVLVEIVRALRARTVPAGAVICRIGEPGDRMFFVVEGSVSVATPNPVELGPGAFFGEMA</span></span>
-<span class="topo-line"><span class="topo-unknown">LISGEPRSATVSAATTVSLLSLHSADFQMLCSSSPEIAEIFRKTALERRGAAASA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSVL</span><span class="topo-outside">PFLRIYAPLNA</span><span class="topo-membrane">VLAAPGLLAVAALT</span><span class="topo-inside">IPDMSGRSRL</span><span class="topo-membrane">ALAALLAVIWGAYLL</span><span class="topo-outside">QLAATLLKRRAGVVRDRTPKIAID</span><span class="topo-membrane">VLAVLVPLAAFLLD</span><span class="topo-inside">GSPD</span><span class="topo-membrane">WSLYCAVWLLKP</span><span class="topo-outside">LRDSTFFPVLGR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">VLANEARNLIGVT</span><span class="topo-membrane">TLFGVVLFAVALAAYVI</span><span class="topo-inside">ERDIQPEKFGSI</span><span class="topo-unknown">PQAMWWAVVTLSTTGYG</span><span class="topo-inside">DTIPQSF</span><span class="topo-membrane">AGRVLAGAVMMSGIGIF</span><span class="topo-outside">GLWAGILATGFYQEVRRGDFVRNWQL</span><span class="topo-unknown">VAAVPLFQKLG</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350     </span>
+<span class="topo-line"><span class="topo-unknown">PAVLVEIVRALRARTVPAGAVICRIGEPGDRMFFVVEGSVSVATPNPVELGPGAFFGEMALISGEPRSATVSAATTVSLLSLHSADFQMLCSSSPEIAEIFRKTALERRGAAASA</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -707,6 +714,7 @@ MlotiK1 is a bacterial cyclic nucleotide-regulated potassium channel from Mesorh
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

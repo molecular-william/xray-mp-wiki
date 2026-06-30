@@ -152,12 +152,13 @@ The [Angiotensin II](/xray-mp-wiki/reagents/ligands/angiotensin-ii/) type 2 rece
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">CSQKPSDKHLDA</span><span class="topo-membrane">IPILYYIIFVIGFLVNIVVVTLFC</span><span class="topo-inside">CQKGPKKVSSI</span><span class="topo-membrane">YIFNLAVADLLLL</span></span>
-<span class="topo-line"><span class="topo-membrane">ATLPLWATYYS</span><span class="topo-outside">YRYDWL</span><span class="topo-membrane">FGPVMCKVFGSFLTLNMFASIFFITCMSV</span><span class="topo-inside">DRYQSVIYPFLSQR</span></span>
-<span class="topo-line"><span class="topo-inside">RNPWQASY</span><span class="topo-membrane">IVPLVWCMACLSSLPTFYFRDV</span><span class="topo-outside">RTIEYLGVNACIMAFPPEKYAQ</span><span class="topo-membrane">WAAGIALM</span></span>
-<span class="topo-line"><span class="topo-membrane">KNILGFIIPLIFIATCYFG</span><span class="topo-inside">IRKHLLKTNSYGKNRITRDQVL</span><span class="topo-membrane">KMAAAVVLAFIICWLPFHV</span></span>
-<span class="topo-line"><span class="topo-membrane">LTFLDAL</span><span class="topo-outside">AWMGVINSCEVIAVIDLA</span><span class="topo-membrane">LPFAILLGFTNSCVNPFLYCFV</span><span class="topo-inside">G</span><span class="topo-unknown">NRFQQKLRSVF</span><span class="topo-inside">R</span></span>
-<span class="topo-line"><span class="topo-inside">VPITWL</span><span class="topo-unknown">QGKRES</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">CSQKPSDKHLDA</span><span class="topo-membrane">IPILYYIIFVIGFLVNIVVVTLFC</span><span class="topo-inside">CQKGPKKVSSI</span><span class="topo-membrane">YIFNLAVADLLLLATLPLWATYYS</span><span class="topo-outside">YRYDWL</span><span class="topo-membrane">FGPVMCKVFGSFLTLNMFASIFFITCMSV</span><span class="topo-inside">DRYQSVIYPFLSQR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">RNPWQASY</span><span class="topo-membrane">IVPLVWCMACLSSLPTFYFRDV</span><span class="topo-outside">RTIEYLGVNACIMAFPPEKYAQ</span><span class="topo-membrane">WAAGIALMKNILGFIIPLIFIATCYFG</span><span class="topo-inside">IRKHLLKTNSYGKNRITRDQVL</span><span class="topo-membrane">KMAAAVVLAFIICWLPFHV</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310  </span>
+<span class="topo-line"><span class="topo-membrane">LTFLDAL</span><span class="topo-outside">AWMGVINSCEVIAVIDLA</span><span class="topo-membrane">LPFAILLGFTNSCVNPFLYCFV</span><span class="topo-inside">G</span><span class="topo-unknown">NRFQQKLRSVF</span><span class="topo-inside">RVPITWL</span><span class="topo-unknown">QGKRES</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -288,6 +289,7 @@ The [Angiotensin II](/xray-mp-wiki/reagents/ligands/angiotensin-ii/) type 2 rece
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -303,8 +305,9 @@ The [Angiotensin II](/xray-mp-wiki/reagents/ligands/angiotensin-ii/) type 2 rece
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">ADLEDNW</span><span class="topo-outside">ETLNDNLKVIEKADNAAQVKDALTKMRAAALD</span><span class="topo-unknown">AGSGSGD</span><span class="topo-outside">ILVGQIDDALKLAN</span></span>
-<span class="topo-line"><span class="topo-outside">EGKVKEAQAAAEQ</span><span class="topo-unknown">LKTTINAYIQKYG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80      </span>
+<span class="topo-line"><span class="topo-unknown">ADLEDNW</span><span class="topo-outside">ETLNDNLKVIEKADNAAQVKDALTKMRAAALD</span><span class="topo-unknown">AGSGSGD</span><span class="topo-outside">ILVGQIDDALKLANEGKVKEAQAAAEQ</span><span class="topo-unknown">LKTTINAYIQKYG</span></span>
+<details class="topo-details"><summary>Topology coordinates (2 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -330,6 +333,7 @@ The [Angiotensin II](/xray-mp-wiki/reagents/ligands/angiotensin-ii/) type 2 rece
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -507,13 +511,15 @@ The [Angiotensin II](/xray-mp-wiki/reagents/ligands/angiotensin-ii/) type 2 rece
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">ADLEDNWETLNDNLKVIEKADNAAQVKDALTKMRAAALDAQKATPPKLEDKSPDSPEMKD</span></span>
-<span class="topo-line"><span class="topo-outside">FRHGFDILVGQIDDALKLANEGK</span><span class="topo-unknown">VKEAQAAA</span><span class="topo-outside">EQLKTTRN</span><span class="topo-unknown">AYIQKYLGSGSCSQKPSDK</span><span class="topo-outside">HL</span></span>
-<span class="topo-line"><span class="topo-outside">D</span><span class="topo-membrane">AIPILYYIIFVIGFLVNIVVVTL</span><span class="topo-inside">FCCQKGPKKVSSI</span><span class="topo-membrane">YIFNLAVADLLLLATLPLWATYY</span></span>
-<span class="topo-line"><span class="topo-membrane">S</span><span class="topo-outside">YRYDW</span><span class="topo-membrane">LFGPVMCKVFGSFLTLNMFASIFFITCMSV</span><span class="topo-inside">DRYQSVIYPF</span><span class="topo-unknown">LSQRRN</span><span class="topo-inside">PWQASY</span><span class="topo-membrane">IV</span></span>
-<span class="topo-line"><span class="topo-membrane">PLVWCMACLSSLPTFYFRD</span><span class="topo-outside">VRTIEYLGVNACIMAFPPEKYAQ</span><span class="topo-membrane">WSAGIALMKNILGFIIPL</span></span>
-<span class="topo-line"><span class="topo-membrane">IFIATCYFG</span><span class="topo-inside">IRKHLLKTNSYGKNRITRDQVL</span><span class="topo-membrane">KMAAAVVLAFIICWLPFHVLTFLDAL</span><span class="topo-outside">AWM</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">ADLEDNWETLNDNLKVIEKADNAAQVKDALTKMRAAALDAQKATPPKLEDKSPDSPEMKDFRHGFDILVGQIDDALKLANEGK</span><span class="topo-unknown">VKEAQAAA</span><span class="topo-outside">EQLKTTRN</span><span class="topo-unknown">AYIQKYLGSGSCSQKPSDK</span><span class="topo-outside">HL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">D</span><span class="topo-membrane">AIPILYYIIFVIGFLVNIVVVTL</span><span class="topo-inside">FCCQKGPKKVSSI</span><span class="topo-membrane">YIFNLAVADLLLLATLPLWATYYS</span><span class="topo-outside">YRYDW</span><span class="topo-membrane">LFGPVMCKVFGSFLTLNMFASIFFITCMSV</span><span class="topo-inside">DRYQSVIYPF</span><span class="topo-unknown">LSQRRN</span><span class="topo-inside">PWQASY</span><span class="topo-membrane">IV</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">PLVWCMACLSSLPTFYFRD</span><span class="topo-outside">VRTIEYLGVNACIMAFPPEKYAQ</span><span class="topo-membrane">WSAGIALMKNILGFIIPLIFIATCYFG</span><span class="topo-inside">IRKHLLKTNSYGKNRITRDQVL</span><span class="topo-membrane">KMAAAVVLAFIICWLPFHVLTFLDAL</span><span class="topo-outside">AWM</span></span>
+<span class="topo-ruler">       370       380       390       400       410 </span>
 <span class="topo-line"><span class="topo-outside">GVINSCEVIAVIDLA</span><span class="topo-membrane">LPFAILLGFTNSCVNPFLYCFVG</span><span class="topo-inside">NRFQQKLRSVFR</span><span class="topo-unknown">V</span></span>
+<details class="topo-details"><summary>Topology coordinates (20 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -665,6 +671,7 @@ The [Angiotensin II](/xray-mp-wiki/reagents/ligands/angiotensin-ii/) type 2 rece
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -680,13 +687,15 @@ The [Angiotensin II](/xray-mp-wiki/reagents/ligands/angiotensin-ii/) type 2 rece
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">ADLEDNWETLNDNLKVIEKADNAAQVKDALTKMRAAALDAQKATPPKLEDKSPDSPEMKD</span></span>
-<span class="topo-line"><span class="topo-outside">FRHGFDILVGQIDDALKLANEGKVKEAQAAAEQLKTTRNAYIQKYLGSGSCSQKPSDKHL</span></span>
-<span class="topo-line"><span class="topo-membrane">DAIPILYYIIFVIGFLVNIVVVTL</span><span class="topo-inside">FCCQKGPKKVSSIY</span><span class="topo-membrane">IFNLAVADLLLLATLPLWATYY</span></span>
-<span class="topo-line"><span class="topo-membrane">S</span><span class="topo-outside">YRYDW</span><span class="topo-membrane">LFGPVMCKVFGSFLTLNMFASIFFITCMSV</span><span class="topo-inside">DRYQSVIYPFLSQRRNPWQASY</span><span class="topo-membrane">IV</span></span>
-<span class="topo-line"><span class="topo-membrane">PLVWCMACLSSLPTFYFRD</span><span class="topo-outside">VRTIEYLGVNACIMAFPPEKYAQ</span><span class="topo-membrane">WSAGIALMKNILGFIIPL</span></span>
-<span class="topo-line"><span class="topo-membrane">IFIATCYF</span><span class="topo-inside">GIRKHLLKTNSYGKNRITRDQVLK</span><span class="topo-membrane">MAAAVVLAFIICWLPFHVLTFLDAL</span><span class="topo-outside">AWM</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">ADLEDNWETLNDNLKVIEKADNAAQVKDALTKMRAAALDAQKATPPKLEDKSPDSPEMKDFRHGFDILVGQIDDALKLANEGKVKEAQAAAEQLKTTRNAYIQKYLGSGSCSQKPSDKHL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">DAIPILYYIIFVIGFLVNIVVVTL</span><span class="topo-inside">FCCQKGPKKVSSIY</span><span class="topo-membrane">IFNLAVADLLLLATLPLWATYYS</span><span class="topo-outside">YRYDW</span><span class="topo-membrane">LFGPVMCKVFGSFLTLNMFASIFFITCMSV</span><span class="topo-inside">DRYQSVIYPFLSQRRNPWQASY</span><span class="topo-membrane">IV</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">PLVWCMACLSSLPTFYFRD</span><span class="topo-outside">VRTIEYLGVNACIMAFPPEKYAQ</span><span class="topo-membrane">WSAGIALMKNILGFIIPLIFIATCYF</span><span class="topo-inside">GIRKHLLKTNSYGKNRITRDQVLK</span><span class="topo-membrane">MAAAVVLAFIICWLPFHVLTFLDAL</span><span class="topo-outside">AWM</span></span>
+<span class="topo-ruler">       370       380       390       400       410 </span>
 <span class="topo-line"><span class="topo-outside">GVINSCEVIAV</span><span class="topo-membrane">IDLALPFAILLGFTNSCVNPFLYCFV</span><span class="topo-inside">GNRFQQKLRSVFR</span><span class="topo-unknown">V</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -803,6 +812,7 @@ The [Angiotensin II](/xray-mp-wiki/reagents/ligands/angiotensin-ii/) type 2 rece
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -818,13 +828,15 @@ The [Angiotensin II](/xray-mp-wiki/reagents/ligands/angiotensin-ii/) type 2 rece
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">ADLEDNWETLNDNLKVIEKADNAAQVKDALTKMRAAALDAQKATPPKLEDKSPDSPEMKD</span></span>
-<span class="topo-line"><span class="topo-inside">FRHGFDILVGQIDDALKLANEGKVKEAQAAAEQLKTTRNAYIQKY</span><span class="topo-unknown">LGSGSCSQK</span><span class="topo-inside">PSDKHL</span></span>
-<span class="topo-line"><span class="topo-inside">D</span><span class="topo-membrane">AIPILYYIIFVIGFLVNIVVVTL</span><span class="topo-outside">FCCQK</span><span class="topo-unknown">GPK</span><span class="topo-outside">KVSSIY</span><span class="topo-membrane">IFNLAVADLLLLATLPLWATYY</span></span>
-<span class="topo-line"><span class="topo-inside">SYRYDW</span><span class="topo-membrane">LFGPVMCKVFGSFLTLNMFASIFFITCMSV</span><span class="topo-outside">DRYQSVIY</span><span class="topo-unknown">PFLSQRRNPWQ</span><span class="topo-outside">ASY</span><span class="topo-membrane">IV</span></span>
-<span class="topo-line"><span class="topo-membrane">PLVWCMACLSSLPTFYFRD</span><span class="topo-inside">VRTIEYLGVNACIMAFPPEKYAQW</span><span class="topo-membrane">SAGIALMKNILGFIIPL</span></span>
-<span class="topo-line"><span class="topo-membrane">IFIATCYFG</span><span class="topo-outside">IRKHLLKT</span><span class="topo-unknown">NS</span><span class="topo-outside">YGKNRITRDQVL</span><span class="topo-membrane">KMAAAVVLAFIICWLPFHVLTFLDAL</span><span class="topo-inside">AWM</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">ADLEDNWETLNDNLKVIEKADNAAQVKDALTKMRAAALDAQKATPPKLEDKSPDSPEMKDFRHGFDILVGQIDDALKLANEGKVKEAQAAAEQLKTTRNAYIQKY</span><span class="topo-unknown">LGSGSCSQK</span><span class="topo-inside">PSDKHL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">D</span><span class="topo-membrane">AIPILYYIIFVIGFLVNIVVVTL</span><span class="topo-outside">FCCQK</span><span class="topo-unknown">GPK</span><span class="topo-outside">KVSSIY</span><span class="topo-membrane">IFNLAVADLLLLATLPLWATYY</span><span class="topo-inside">SYRYDW</span><span class="topo-membrane">LFGPVMCKVFGSFLTLNMFASIFFITCMSV</span><span class="topo-outside">DRYQSVIY</span><span class="topo-unknown">PFLSQRRNPWQ</span><span class="topo-outside">ASY</span><span class="topo-membrane">IV</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">PLVWCMACLSSLPTFYFRD</span><span class="topo-inside">VRTIEYLGVNACIMAFPPEKYAQW</span><span class="topo-membrane">SAGIALMKNILGFIIPLIFIATCYFG</span><span class="topo-outside">IRKHLLKT</span><span class="topo-unknown">NS</span><span class="topo-outside">YGKNRITRDQVL</span><span class="topo-membrane">KMAAAVVLAFIICWLPFHVLTFLDAL</span><span class="topo-inside">AWM</span></span>
+<span class="topo-ruler">       370       380       390       400       410 </span>
 <span class="topo-line"><span class="topo-inside">GVINSCEVIAVIDLA</span><span class="topo-membrane">LPFAILLGFTNSCVNPFLYCFV</span><span class="topo-outside">GNRFQQKLRSVF</span><span class="topo-unknown">RV</span></span>
+<details class="topo-details"><summary>Topology coordinates (20 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -976,6 +988,7 @@ The [Angiotensin II](/xray-mp-wiki/reagents/ligands/angiotensin-ii/) type 2 rece
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1017,7 +1030,6 @@ The [Angiotensin II](/xray-mp-wiki/reagents/ligands/angiotensin-ii/) type 2 rece
 - **Expression construct**: BRIL-AT2R (BRIL replaces ICL3); N-terminal HA signal, [FLAG Tag](/xray-mp-wiki/reagents/protein-tags/flag-tag/), [TEV Protease](/xray-mp-wiki/reagents/additives/tev-protease/) site; C-terminal His6 tag
 - **Tag info**: [FLAG Tag](/xray-mp-wiki/reagents/protein-tags/flag-tag/), His6 (C-terminal)
 
-<<<<<<< HEAD
 <table class="wiki-table">
   <thead><tr>
     <th>Step</th>
@@ -1064,18 +1076,6 @@ The [Angiotensin II](/xray-mp-wiki/reagents/ligands/angiotensin-ii/) type 2 rece
     </tr>
   </tbody>
 </table>
-=======
-##### Steps
-
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Membrane preparation | Cell lysis and membrane isolation |  | 10 mM [HEPES (HEPES Buffer)](/xray-mp-wiki/reagents/buffers/hepes/) pH 7.5, 20 mM KCl, 10 mM [Magnesium Chloride](/xray-mp-wiki/reagents/additives/magnesium-chloride/), protease inhibitor cocktail | [Sf9 Insect Cells](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/) harvested by centrifugation (7,000g, 10 min, 4 C), flash-frozen at -80 C, resuspended and lysed under hypotonic conditions |
-| Solubilization | Detergent solubilization |  | 50 mM [HEPES](/xray-mp-wiki/reagents/buffers/hepes/) pH 7.5, 800 mM [Sodium Chloride](/xray-mp-wiki/reagents/additives/sodium-chloride/), 10% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) + 1.0% [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/), 0.2% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | Membranes solubilized with [DDM](/xray-mp-wiki/reagents/detergents/ddm/) and [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) supplemented with [Iodoacetamide](/xray-mp-wiki/reagents/additives/iodoacetamide/) (100 mg/ml) and excess s-AngII; 1 hour at 4 C |
-| [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | Metal [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | [TALON Cobalt Affinity Resin](/xray-mp-wiki/reagents/additives/talon/) | 50 mM [HEPES](/xray-mp-wiki/reagents/buffers/hepes/) pH 7.5, 200 mM [Sodium Chloride](/xray-mp-wiki/reagents/additives/sodium-chloride/), 10% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/), 0.1% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.02% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), s-AngII + 0.1% [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/), 0.02% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | [TALON Cobalt Affinity Resin](/xray-mp-wiki/reagents/additives/talon/) resin pre-equilibrated; incubation 12-16 hours at 4 C; washed with 10 column volumes of wash buffer, 3 CVs of elution buffer containing s-AngII |
-| Elution | Metal affinity elution | [TALON Cobalt Affinity Resin](/xray-mp-wiki/reagents/additives/talon/) | 25 mM [HEPES](/xray-mp-wiki/reagents/buffers/hepes/) pH 7.5, 200 mM [Sodium Chloride](/xray-mp-wiki/reagents/additives/sodium-chloride/), 10% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/), 0.03% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.006% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), s-AngII + 0.03% [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/), 0.006% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | Elution with buffer containing excess s-AngII to maintain receptor-ligand complex |
-| [Size Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) | [Size Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) | [Superdex 200 Increase SEC Resin](/xray-mp-wiki/reagents/additives/superdex-200/) | 25 mM [HEPES](/xray-mp-wiki/reagents/buffers/hepes/) pH 7.5, 200 mM [Sodium Chloride](/xray-mp-wiki/reagents/additives/sodium-chloride/), 10% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/), 0.03% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.006% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) + 0.03% [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/), 0.006% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | Monodisperse [Angiotensin II Type 2 Receptor](/xray-mp-wiki/proteins/gpcr/at2r/)-[BRIL](/xray-mp-wiki/reagents/protein-tags/bril/)/Fab4A03 complex isolated for crystallization |
-
->>>>>>> d0e2c437136bdf2885afc6a99e0a9d4117821696
 **Final sample**: 10 mg/ml in 25 mM [HEPES](/xray-mp-wiki/reagents/buffers/hepes/) pH 7.5, 200 mM [Sodium Chloride](/xray-mp-wiki/reagents/additives/sodium-chloride/), 10% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/), 0.03% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.006% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)
 **Purity**: Monodisperse peak by [Size Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/)
 
@@ -1119,7 +1119,6 @@ The [Angiotensin II](/xray-mp-wiki/reagents/ligands/angiotensin-ii/) type 2 rece
 <div class="sequence-entry" markdown="1">
 **PDB <a class="pdb-link" href="https://www.rcsb.org/structure/5xjm">5XJM</a> — Chain A (7 TMs, alpha)**
 
-<<<<<<< HEAD
 <div class="sequence-display">
 <div class="topo-legend">
 <span class="topo-membrane-legend">&#9608; TM Helix</span>
@@ -1128,14 +1127,15 @@ The [Angiotensin II](/xray-mp-wiki/reagents/ligands/angiotensin-ii/) type 2 rece
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">G</span><span class="topo-outside">CSQKPSDKHLDA</span><span class="topo-membrane">IPILYYIIFVIGFLVNIVVVT</span><span class="topo-inside">LFCCQKGPKKVSSIYIF</span><span class="topo-membrane">NLAVADLLL</span></span>
-<span class="topo-line"><span class="topo-membrane">LATLPLWATYY</span><span class="topo-outside">SYRYDWLF</span><span class="topo-membrane">GPVMCKVFGSFLTLNMFASIFFIT</span><span class="topo-inside">CMSVDRYQSVIYPFLSQ</span></span>
-<span class="topo-line"><span class="topo-inside">RRNPWQASYIV</span><span class="topo-membrane">PLVWCMACLSSLPTFYFRD</span><span class="topo-outside">VRTIEYLGVNACIMAFPPEKYA</span><span class="topo-membrane">QWSAGIAL</span></span>
-<span class="topo-line"><span class="topo-membrane">MKNILGFIIPLIFIA</span><span class="topo-inside">TCYFGIRKHLLKTNADLEDNWETLNDNLKVIEKADNAAQVKDALT</span></span>
-<span class="topo-line"><span class="topo-inside">KMRAAALDAQKATP</span><span class="topo-unknown">PKLEDKSPDSPEMK</span><span class="topo-inside">DFRHGFDILVGQIDDALKLANEGKVKEAQAAA</span></span>
-<span class="topo-line"><span class="topo-inside">EQLKTTRNAYIQKYLKNRITRDQVLKMAAA</span><span class="topo-membrane">VVLAFIICWLPFHVLTFLDALAWM</span><span class="topo-outside">GVINSC</span></span>
-<span class="topo-line"><span class="topo-outside">EVIAV</span><span class="topo-membrane">IDLALPFAILLGFTNSCVNPFL</span><span class="topo-inside">YCF</span><span class="topo-unknown">VGNRFQQKLRSVFRVPITWLQGKRESENLY</span></span>
-<span class="topo-line"><span class="topo-unknown">FQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">G</span><span class="topo-outside">CSQKPSDKHLDA</span><span class="topo-membrane">IPILYYIIFVIGFLVNIVVVT</span><span class="topo-inside">LFCCQKGPKKVSSIYIF</span><span class="topo-membrane">NLAVADLLLLATLPLWATYY</span><span class="topo-outside">SYRYDWLF</span><span class="topo-membrane">GPVMCKVFGSFLTLNMFASIFFIT</span><span class="topo-inside">CMSVDRYQSVIYPFLSQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">RRNPWQASYIV</span><span class="topo-membrane">PLVWCMACLSSLPTFYFRD</span><span class="topo-outside">VRTIEYLGVNACIMAFPPEKYA</span><span class="topo-membrane">QWSAGIALMKNILGFIIPLIFIA</span><span class="topo-inside">TCYFGIRKHLLKTNADLEDNWETLNDNLKVIEKADNAAQVKDALT</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">KMRAAALDAQKATP</span><span class="topo-unknown">PKLEDKSPDSPEMK</span><span class="topo-inside">DFRHGFDILVGQIDDALKLANEGKVKEAQAAAEQLKTTRNAYIQKYLKNRITRDQVLKMAAA</span><span class="topo-membrane">VVLAFIICWLPFHVLTFLDALAWM</span><span class="topo-outside">GVINSC</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420  </span>
+<span class="topo-line"><span class="topo-outside">EVIAV</span><span class="topo-membrane">IDLALPFAILLGFTNSCVNPFL</span><span class="topo-inside">YCF</span><span class="topo-unknown">VGNRFQQKLRSVFRVPITWLQGKRESENLYFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1294,54 +1294,10 @@ The [Angiotensin II](/xray-mp-wiki/reagents/ligands/angiotensin-ii/) type 2 rece
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
-=======
-| Parameter | Value |
-|---|---|
-| Method | [Lipidic Cubic Phase Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) ([LCP](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/)) |
-| Protein sample | [Angiotensin II Type 2 Receptor](/xray-mp-wiki/proteins/gpcr/at2r/)-mbIIGN-term/Fab4A03 complex + AngII, 10 mg/ml |
-| Lipid | 1:1 [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/):[Cholesterol](/xray-mp-wiki/reagents/lipids/cholesterol/) |
-| Protein-to-lipid ratio | not specified |
-| Temperature | 20 |
-| Growth time | not specified |
-| Notes | Data collected at 100 K at SPring-8 BL32XU micro-focus beamline. Structure solved by [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) with MOLREP. 470 datasets collected with KAMO system and merged. |
-
-### doi/10.1038##nature22035
-
-| Parameter | Value |
-|---|---|
-| Method | [Lipidic Cubic Phase Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) ([LCP](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/)) - SFX at XFEL |
-| Protein sample | [BRIL](/xray-mp-wiki/reagents/protein-tags/bril/)-AT2R + Cpd 1, 15 mg/ml, reconstituted in [Lipidic Cubic Phase](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) with [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) + 10% [Cholesterol](/xray-mp-wiki/reagents/lipids/cholesterol/) at 2:3 protein:lipid ratio |
-| Lipid | [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) + 10% [Cholesterol](/xray-mp-wiki/reagents/lipids/cholesterol/) |
-| Protein-to-lipid ratio | 2:3 (v/v) |
-| Temperature | 20 |
-| Growth time | 5 days |
-| Notes | Microcrystals (5x2x2 um) grown in syringe, injected into [Lipidic Cubic Phase Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) injector at LCLS XFEL. Two lattices observed. Data merged using CrystFEL with Cheetah hit finding. Orthorhombic structure used for description. |
-
-| Parameter | Value |
-|---|---|
-| Method | [Lipidic Cubic Phase Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) ([LCP](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/)) - Synchrotron radiation |
-| Protein sample | [BRIL](/xray-mp-wiki/reagents/protein-tags/bril/)-AT2R + Cpd 2, reconstituted in [Lipidic Cubic Phase](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) with [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) + 10% [Cholesterol](/xray-mp-wiki/reagents/lipids/cholesterol/) at 2:3 protein:lipid ratio |
-| Lipid | [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) + 10% [Cholesterol](/xray-mp-wiki/reagents/lipids/cholesterol/) |
-| Protein-to-lipid ratio | 2:3 (v/v) |
-| Temperature | 20 |
-| Growth time | 21 days |
-| Notes | Crystals (70x40x20 um) harvested with micromounts and flash-frozen in liquid nitrogen. Data collected at 23ID-D beamline (GM/CA) at Advanced Photon Source, Argonne National Laboratory. Integrated and scaled with XDS. |
-
-### doi/10.1038##s41594-018-0079-8
-
-| Parameter | Value |
-|---|---|
-| Method | [Lipidic Cubic Phase Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) ([LCP](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/)) |
-| Protein sample | [Angiotensin II Type 2 Receptor](/xray-mp-wiki/proteins/gpcr/at2r/)-[BRIL](/xray-mp-wiki/reagents/protein-tags/bril/)/Fab4A03 complex + s-AngII, 10 mg/ml |
-| Lipid | not specified |
-| Protein-to-lipid ratio | not specified |
-| Temperature | 20 |
-| Growth time | not specified |
-| Notes | Data collected at 100 K at SPring-8 BL32XU micro-focus beamline. Structure solved by [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) with MOLREP. 470 datasets collected with KAMO system and merged. High Rmerge due to large variety of crystals, not poor datasets. |
->>>>>>> d0e2c437136bdf2885afc6a99e0a9d4117821696
 
 </div>
 

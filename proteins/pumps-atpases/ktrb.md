@@ -145,14 +145,15 @@ KtrB is a membrane protein component of the KtrAB potassium transporter from the
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGSSHHHHHHSSGLVPRGSHMTLQKDKVIKWVRF</span><span class="topo-outside">TPPQVL</span><span class="topo-membrane">AIGFFLTIIIGAVLLML</span><span class="topo-inside">PIS</span></span>
-<span class="topo-line"><span class="topo-inside">TTKPLSWI</span><span class="topo-unknown">DALFTAASATTVTGLA</span><span class="topo-inside">VVDTGTQFTV</span><span class="topo-membrane">FGQTVIMGLIQIGGLGFM</span><span class="topo-outside">TFAVLIVM</span></span>
-<span class="topo-line"><span class="topo-outside">IL</span><span class="topo-unknown">GK</span><span class="topo-outside">KIGLKERMLVQEALNQPTIGGVIGLVKVLF</span><span class="topo-membrane">LFSISIELIAALILSIRLVP</span><span class="topo-inside">QYGWSS</span></span>
-<span class="topo-line"><span class="topo-inside">G</span><span class="topo-unknown">LFASLFHAISAFNNAGFSL</span><span class="topo-inside">WPDNLMSYVG</span><span class="topo-membrane">DPTVNLVITFLFITGGI</span><span class="topo-outside">GFTVLFDVMKNRR</span></span>
-<span class="topo-line"><span class="topo-outside">FKTFSLHTKLMLTG</span><span class="topo-membrane">TLMLNAIAMLTVFILE</span><span class="topo-inside">YSNPGTLGHLHI</span><span class="topo-unknown">VDKLWASYFQAVTPRTAG</span></span>
-<span class="topo-line"><span class="topo-unknown">FNS</span><span class="topo-inside">LDFGSMRE</span><span class="topo-membrane">GTIVFTLLLMFIGAGS</span><span class="topo-outside">ASTASGIKLTTFIVILTSVIAYLRGKKETVIFR</span></span>
-<span class="topo-line"><span class="topo-outside">RSIKYPIIIKALAV</span><span class="topo-membrane">SVTSLFIVFLGIFALTIT</span><span class="topo-inside">EQAPFLQI</span><span class="topo-unknown">VFETFSAFGTVGLT</span><span class="topo-inside">MGLTPE</span></span>
-<span class="topo-line"><span class="topo-inside">LTTA</span><span class="topo-membrane">GKCIIIVIMFIGRIGPLTFV</span><span class="topo-outside">FSFAKTEQSNIRYPDGEVFTG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGSSHHHHHHSSGLVPRGSHMTLQKDKVIKWVRF</span><span class="topo-outside">TPPQVL</span><span class="topo-membrane">AIGFFLTIIIGAVLLML</span><span class="topo-inside">PISTTKPLSWI</span><span class="topo-unknown">DALFTAASATTVTGLA</span><span class="topo-inside">VVDTGTQFTV</span><span class="topo-membrane">FGQTVIMGLIQIGGLGFM</span><span class="topo-outside">TFAVLIVM</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">IL</span><span class="topo-unknown">GK</span><span class="topo-outside">KIGLKERMLVQEALNQPTIGGVIGLVKVLF</span><span class="topo-membrane">LFSISIELIAALILSIRLVP</span><span class="topo-inside">QYGWSSG</span><span class="topo-unknown">LFASLFHAISAFNNAGFSL</span><span class="topo-inside">WPDNLMSYVG</span><span class="topo-membrane">DPTVNLVITFLFITGGI</span><span class="topo-outside">GFTVLFDVMKNRR</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">FKTFSLHTKLMLTG</span><span class="topo-membrane">TLMLNAIAMLTVFILE</span><span class="topo-inside">YSNPGTLGHLHI</span><span class="topo-unknown">VDKLWASYFQAVTPRTAGFNS</span><span class="topo-inside">LDFGSMRE</span><span class="topo-membrane">GTIVFTLLLMFIGAGS</span><span class="topo-outside">ASTASGIKLTTFIVILTSVIAYLRGKKETVIFR</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460     </span>
+<span class="topo-line"><span class="topo-outside">RSIKYPIIIKALAV</span><span class="topo-membrane">SVTSLFIVFLGIFALTIT</span><span class="topo-inside">EQAPFLQI</span><span class="topo-unknown">VFETFSAFGTVGLT</span><span class="topo-inside">MGLTPELTTA</span><span class="topo-membrane">GKCIIIVIMFIGRIGPLTFV</span><span class="topo-outside">FSFAKTEQSNIRYPDGEVFTG</span></span>
+<details class="topo-details"><summary>Topology coordinates (28 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -360,6 +361,7 @@ KtrB is a membrane protein component of the KtrAB potassium transporter from the
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -375,14 +377,15 @@ KtrB is a membrane protein component of the KtrAB potassium transporter from the
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGSSHHHHHHSSGLVPRGSHMTLQKDKVIKWVRF</span><span class="topo-outside">TPPQVLA</span><span class="topo-membrane">IGFFLTIIIGAVLLML</span><span class="topo-inside">PIS</span></span>
-<span class="topo-line"><span class="topo-inside">TTKPLSW</span><span class="topo-unknown">IDALFTAASATTVTGLA</span><span class="topo-inside">VVDTGTQFTV</span><span class="topo-membrane">FGQTVIMGLIQIGGLGF</span><span class="topo-outside">MTFAVLIVM</span></span>
-<span class="topo-line"><span class="topo-outside">IL</span><span class="topo-unknown">GK</span><span class="topo-outside">KIGLKERMLVQEALNQPTIGGVIGLVKVLF</span><span class="topo-membrane">LFSISIELIAALILSIRLV</span><span class="topo-inside">PQYGWSS</span></span>
-<span class="topo-line"><span class="topo-inside">G</span><span class="topo-unknown">LFASLFHAISAFNNAGFSL</span><span class="topo-inside">WPDNLMSYVGD</span><span class="topo-membrane">PTVNLVITFLFITGGIG</span><span class="topo-outside">FTVLFDVMKNRR</span></span>
-<span class="topo-line"><span class="topo-outside">FKTFSLHTKLM</span><span class="topo-membrane">LTGTLMLNAIAMLTVFIL</span><span class="topo-inside">EYSNPGTLGHLHIVDKL</span><span class="topo-unknown">WASYFQAVTPRTAG</span></span>
-<span class="topo-line"><span class="topo-unknown">FNS</span><span class="topo-inside">LDFGSMREG</span><span class="topo-membrane">TIVFTLLLMFIGAGS</span><span class="topo-outside">ASTASGIKLTTFIVILTSVIAYLRGKKETVIFR</span></span>
-<span class="topo-line"><span class="topo-outside">RSIKYPIIIKALAV</span><span class="topo-membrane">SVTSLFIVFLGIFALTIT</span><span class="topo-inside">EQAPFL</span><span class="topo-unknown">QIVFETFSAFGTVGLT</span><span class="topo-inside">MGLTPE</span></span>
-<span class="topo-line"><span class="topo-inside">LTTA</span><span class="topo-membrane">GKCIIIVIMFIGRIGP</span><span class="topo-outside">LTFVFSFAKTEQSNIRYPDGEVFTG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGSSHHHHHHSSGLVPRGSHMTLQKDKVIKWVRF</span><span class="topo-outside">TPPQVLA</span><span class="topo-membrane">IGFFLTIIIGAVLLML</span><span class="topo-inside">PISTTKPLSW</span><span class="topo-unknown">IDALFTAASATTVTGLA</span><span class="topo-inside">VVDTGTQFTV</span><span class="topo-membrane">FGQTVIMGLIQIGGLGF</span><span class="topo-outside">MTFAVLIVM</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">IL</span><span class="topo-unknown">GK</span><span class="topo-outside">KIGLKERMLVQEALNQPTIGGVIGLVKVLF</span><span class="topo-membrane">LFSISIELIAALILSIRLV</span><span class="topo-inside">PQYGWSSG</span><span class="topo-unknown">LFASLFHAISAFNNAGFSL</span><span class="topo-inside">WPDNLMSYVGD</span><span class="topo-membrane">PTVNLVITFLFITGGIG</span><span class="topo-outside">FTVLFDVMKNRR</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">FKTFSLHTKLM</span><span class="topo-membrane">LTGTLMLNAIAMLTVFIL</span><span class="topo-inside">EYSNPGTLGHLHIVDKL</span><span class="topo-unknown">WASYFQAVTPRTAGFNS</span><span class="topo-inside">LDFGSMREG</span><span class="topo-membrane">TIVFTLLLMFIGAGS</span><span class="topo-outside">ASTASGIKLTTFIVILTSVIAYLRGKKETVIFR</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460     </span>
+<span class="topo-line"><span class="topo-outside">RSIKYPIIIKALAV</span><span class="topo-membrane">SVTSLFIVFLGIFALTIT</span><span class="topo-inside">EQAPFL</span><span class="topo-unknown">QIVFETFSAFGTVGLT</span><span class="topo-inside">MGLTPELTTA</span><span class="topo-membrane">GKCIIIVIMFIGRIGP</span><span class="topo-outside">LTFVFSFAKTEQSNIRYPDGEVFTG</span></span>
+<details class="topo-details"><summary>Topology coordinates (28 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -590,6 +593,7 @@ KtrB is a membrane protein component of the KtrAB potassium transporter from the
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

@@ -133,12 +133,13 @@ Alkaline ceramidase 3 (ACER3) is a human integral membrane protein with a seven-
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">FAPAADREGYWGPTTSTLDWCEENYSVTWYIAEFW</span><span class="topo-membrane">NTVSNLIMIIPPMFGAVQSVR</span><span class="topo-inside">DGLE</span></span>
-<span class="topo-line"><span class="topo-membrane">KRYIASYLALTVVGMGSWC</span><span class="topo-outside">FHMTLKYEMQL</span><span class="topo-membrane">LDELPMIYSCCIFVYCMFE</span><span class="topo-inside">CFKIKNSV</span><span class="topo-membrane">NYH</span></span>
-<span class="topo-line"><span class="topo-membrane">LLFTLVLFSLIVTTVY</span><span class="topo-outside">LKVKEPI</span><span class="topo-membrane">FHQVMYGMLVFTLVLRSIY</span><span class="topo-inside">IVTWVYPWLRG</span><span class="topo-membrane">LGYTSLG</span></span>
-<span class="topo-line"><span class="topo-membrane">IFLLGFLFWNID</span><span class="topo-outside">NIFCESLRNFRKKVPPIIGI</span><span class="topo-membrane">TTQFHAWWHILTGLGSYLHILFSL</span><span class="topo-inside">YTRT</span></span>
-<span class="topo-line"><span class="topo-inside">LYLRADLEDNWETLNDNLKVIEKADNAAQVKDALTKMRAAALDAQKATPPKLEDKSPDSP</span></span>
-<span class="topo-line"><span class="topo-inside">EMKDFRHGFDILVGQIDDALKLANEGKVKEAQAAAEQLKTTRNAYIQKYL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">FAPAADREGYWGPTTSTLDWCEENYSVTWYIAEFW</span><span class="topo-membrane">NTVSNLIMIIPPMFGAVQSVR</span><span class="topo-inside">DGLE</span><span class="topo-membrane">KRYIASYLALTVVGMGSWC</span><span class="topo-outside">FHMTLKYEMQL</span><span class="topo-membrane">LDELPMIYSCCIFVYCMFE</span><span class="topo-inside">CFKIKNSV</span><span class="topo-membrane">NYH</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">LLFTLVLFSLIVTTVY</span><span class="topo-outside">LKVKEPI</span><span class="topo-membrane">FHQVMYGMLVFTLVLRSIY</span><span class="topo-inside">IVTWVYPWLRG</span><span class="topo-membrane">LGYTSLGIFLLGFLFWNID</span><span class="topo-outside">NIFCESLRNFRKKVPPIIGI</span><span class="topo-membrane">TTQFHAWWHILTGLGSYLHILFSL</span><span class="topo-inside">YTRT</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350</span>
+<span class="topo-line"><span class="topo-inside">LYLRADLEDNWETLNDNLKVIEKADNAAQVKDALTKMRAAALDAQKATPPKLEDKSPDSPEMKDFRHGFDILVGQIDDALKLANEGKVKEAQAAAEQLKTTRNAYIQKYL</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -255,6 +256,7 @@ Alkaline ceramidase 3 (ACER3) is a human integral membrane protein with a seven-
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

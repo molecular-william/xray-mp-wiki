@@ -145,15 +145,17 @@ Se-Met labeled protein used for phasing. Also tested <a href="/xray-mp-wiki/reag
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MNKHA</span><span class="topo-outside">SQPRAIYYV</span><span class="topo-membrane">VALQIWEYFSFYGMRALL</span><span class="topo-inside">ILYLTNQLKYNDTHAYELF</span><span class="topo-membrane">SAYCSLVYV</span></span>
-<span class="topo-line"><span class="topo-membrane">TPILGGFL</span><span class="topo-outside">ADKVLGNRM</span><span class="topo-membrane">AVMLGALLMAIGHVVLG</span><span class="topo-inside">ASEIHPSFLY</span><span class="topo-membrane">LSLAIIVCGYGLFKSN</span></span>
-<span class="topo-line"><span class="topo-membrane">V</span><span class="topo-outside">SCLLGELYEPTDPRRDGGFSLM</span><span class="topo-membrane">YAAGNVGSIIAPIACGYA</span><span class="topo-inside">QEEYSWAM</span><span class="topo-membrane">GFGLAAVGMIA</span></span>
-<span class="topo-line"><span class="topo-membrane">GLVIFLC</span><span class="topo-outside">GNRHFTHTRGV</span><span class="topo-unknown">NKKVL</span><span class="topo-outside">RATNF</span><span class="topo-membrane">LLPNWGWLLVLLVATPALITIL</span><span class="topo-inside">FWKEW</span><span class="topo-membrane">SVYAL</span></span>
-<span class="topo-line"><span class="topo-membrane">IVATIIGLGVLA</span><span class="topo-outside">KIY</span><span class="topo-unknown">RKA</span><span class="topo-outside">ENQKQR</span><span class="topo-unknown">K</span><span class="topo-outside">ELG</span><span class="topo-membrane">LIVTLTFFSMLFWAFAQQGGS</span><span class="topo-inside">SISLYIDRFVN</span></span>
-<span class="topo-line"><span class="topo-unknown">RDMFGY</span><span class="topo-inside">TVPTA</span><span class="topo-membrane">MFQSINAFAVMLCGVFL</span><span class="topo-outside">AWVV</span><span class="topo-unknown">KESVAG</span><span class="topo-outside">NRTVRI</span><span class="topo-membrane">WGKFALGLGLMSAGFC</span></span>
-<span class="topo-line"><span class="topo-membrane">IL</span><span class="topo-inside">TLSARWSAMYG</span><span class="topo-unknown">HSS</span><span class="topo-inside">LPLMV</span><span class="topo-membrane">LGLAVMGFAELFIDPVAM</span><span class="topo-outside">SQITRIE</span><span class="topo-unknown">IPG</span><span class="topo-outside">VTGVLT</span><span class="topo-membrane">GIYML</span></span>
-<span class="topo-line"><span class="topo-membrane">LSGAIANYLAG</span><span class="topo-inside">VIADQTS</span><span class="topo-unknown">QASFDASGAINY</span><span class="topo-inside">SINAYIEVFDQI</span><span class="topo-membrane">TWGALACVGVVLMIWLY</span><span class="topo-outside">Q</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MNKHA</span><span class="topo-outside">SQPRAIYYV</span><span class="topo-membrane">VALQIWEYFSFYGMRALL</span><span class="topo-inside">ILYLTNQLKYNDTHAYELF</span><span class="topo-membrane">SAYCSLVYVTPILGGFL</span><span class="topo-outside">ADKVLGNRM</span><span class="topo-membrane">AVMLGALLMAIGHVVLG</span><span class="topo-inside">ASEIHPSFLY</span><span class="topo-membrane">LSLAIIVCGYGLFKSN</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">V</span><span class="topo-outside">SCLLGELYEPTDPRRDGGFSLM</span><span class="topo-membrane">YAAGNVGSIIAPIACGYA</span><span class="topo-inside">QEEYSWAM</span><span class="topo-membrane">GFGLAAVGMIAGLVIFLC</span><span class="topo-outside">GNRHFTHTRGV</span><span class="topo-unknown">NKKVL</span><span class="topo-outside">RATNF</span><span class="topo-membrane">LLPNWGWLLVLLVATPALITIL</span><span class="topo-inside">FWKEW</span><span class="topo-membrane">SVYAL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">IVATIIGLGVLA</span><span class="topo-outside">KIY</span><span class="topo-unknown">RKA</span><span class="topo-outside">ENQKQR</span><span class="topo-unknown">K</span><span class="topo-outside">ELG</span><span class="topo-membrane">LIVTLTFFSMLFWAFAQQGGS</span><span class="topo-inside">SISLYIDRFVN</span><span class="topo-unknown">RDMFGY</span><span class="topo-inside">TVPTA</span><span class="topo-membrane">MFQSINAFAVMLCGVFL</span><span class="topo-outside">AWVV</span><span class="topo-unknown">KESVAG</span><span class="topo-outside">NRTVRI</span><span class="topo-membrane">WGKFALGLGLMSAGFC</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">IL</span><span class="topo-inside">TLSARWSAMYG</span><span class="topo-unknown">HSS</span><span class="topo-inside">LPLMV</span><span class="topo-membrane">LGLAVMGFAELFIDPVAM</span><span class="topo-outside">SQITRIE</span><span class="topo-unknown">IPG</span><span class="topo-outside">VTGVLT</span><span class="topo-membrane">GIYMLLSGAIANYLAG</span><span class="topo-inside">VIADQTS</span><span class="topo-unknown">QASFDASGAINY</span><span class="topo-inside">SINAYIEVFDQI</span><span class="topo-membrane">TWGALACVGVVLMIWLY</span><span class="topo-outside">Q</span></span>
+<span class="topo-ruler">       490   </span>
 <span class="topo-line"><span class="topo-outside">A</span><span class="topo-unknown">LKFRNRALALES</span></span>
+<details class="topo-details"><summary>Topology coordinates (47 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -494,6 +496,7 @@ Se-Met labeled protein used for phasing. Also tested <a href="/xray-mp-wiki/reag
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

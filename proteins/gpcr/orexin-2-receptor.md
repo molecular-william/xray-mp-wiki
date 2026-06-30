@@ -68,16 +68,17 @@ The human orexin 2 receptor (OX2R, HCRTR2) is a class A GPCR that binds the neur
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">DYKDDDDAMGTKLEDSPPCRNWSSASELNETQEPFLNPTDY</span><span class="topo-inside">DDEEFLRYLWREYLHPKEY</span></span>
-<span class="topo-line"><span class="topo-inside">EWVLI</span><span class="topo-membrane">AGYIIVFVVALIGNVLVC</span><span class="topo-outside">VAVWKNHHMRTVTNY</span><span class="topo-membrane">FIVNLSLADVLVTITCL</span><span class="topo-inside">PATLV</span></span>
-<span class="topo-line"><span class="topo-inside">VDITETWFFGQSLCKVIP</span><span class="topo-membrane">YLQTVSVSVSVLTLSC</span><span class="topo-outside">IALDRWYAICHPLMFKSTAKRARN</span><span class="topo-membrane">SI</span></span>
-<span class="topo-line"><span class="topo-membrane">VIIWIVSCIIMI</span><span class="topo-inside">PQAIVMECSTVFPGLANKTTLFTVCDERWGGEIYPKMYHI</span><span class="topo-membrane">CFFLVTYM</span></span>
-<span class="topo-line"><span class="topo-membrane">APLCLMVLA</span><span class="topo-outside">YLQIFRKLWCRQGIDCSFWNESYLTGSRDERKKSLLSKFGMDEGVTFMFIG</span></span>
-<span class="topo-line"><span class="topo-outside">RFDRGQKGVDVLLKAIEILSSKKEFQEMRFIIIGKGDPELEGWARSLEEKHGNVKVITEM</span></span>
-<span class="topo-line"><span class="topo-outside">LSREFVRELYGSVDFVIIPSYFEPFGLVALEAMCLGAIPIASAVGGLRDIITNETGILVK</span></span>
-<span class="topo-line"><span class="topo-outside">AGDPGELANAILKALELSRSDLSKFRENCKKRAMSFSKQIRARRKTARML</span><span class="topo-membrane">MVVLLVFAIC</span></span>
-<span class="topo-line"><span class="topo-membrane">YLP</span><span class="topo-inside">ISILNVLKRVFGMFAHTEDRETVYAWFTFSH</span><span class="topo-membrane">WLVYANSAANPII</span><span class="topo-outside">YNFLSGKFREEFK</span></span>
-<span class="topo-line"><span class="topo-outside">AAFSCCC</span><span class="topo-unknown">LGVHHHHHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">DYKDDDDAMGTKLEDSPPCRNWSSASELNETQEPFLNPTDY</span><span class="topo-inside">DDEEFLRYLWREYLHPKEYEWVLI</span><span class="topo-membrane">AGYIIVFVVALIGNVLVC</span><span class="topo-outside">VAVWKNHHMRTVTNY</span><span class="topo-membrane">FIVNLSLADVLVTITCL</span><span class="topo-inside">PATLV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">VDITETWFFGQSLCKVIP</span><span class="topo-membrane">YLQTVSVSVSVLTLSC</span><span class="topo-outside">IALDRWYAICHPLMFKSTAKRARN</span><span class="topo-membrane">SIVIIWIVSCIIMI</span><span class="topo-inside">PQAIVMECSTVFPGLANKTTLFTVCDERWGGEIYPKMYHI</span><span class="topo-membrane">CFFLVTYM</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">APLCLMVLA</span><span class="topo-outside">YLQIFRKLWCRQGIDCSFWNESYLTGSRDERKKSLLSKFGMDEGVTFMFIGRFDRGQKGVDVLLKAIEILSSKKEFQEMRFIIIGKGDPELEGWARSLEEKHGNVKVITEM</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">LSREFVRELYGSVDFVIIPSYFEPFGLVALEAMCLGAIPIASAVGGLRDIITNETGILVKAGDPGELANAILKALELSRSDLSKFRENCKKRAMSFSKQIRARRKTARML</span><span class="topo-membrane">MVVLLVFAIC</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560</span>
+<span class="topo-line"><span class="topo-membrane">YLP</span><span class="topo-inside">ISILNVLKRVFGMFAHTEDRETVYAWFTFSH</span><span class="topo-membrane">WLVYANSAANPII</span><span class="topo-outside">YNFLSGKFREEFKAAFSCCC</span><span class="topo-unknown">LGVHHHHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -208,6 +209,7 @@ The human orexin 2 receptor (OX2R, HCRTR2) is a class A GPCR that binds the neur
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -223,16 +225,17 @@ The human orexin 2 receptor (OX2R, HCRTR2) is a class A GPCR that binds the neur
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">DYKDDDDAMGTKLEDSPPCRNWSSASELNETQEPFLNPTDYDDEE</span><span class="topo-inside">FLRYLWREYLHPKE</span><span class="topo-membrane">Y</span></span>
-<span class="topo-line"><span class="topo-membrane">EWVLIAGYIIVFVVALIGNV</span><span class="topo-outside">LVCVAVWKNHHMRTVTNYFIV</span><span class="topo-membrane">NLSLADVLVTITCLPATLV</span></span>
-<span class="topo-line"><span class="topo-membrane">VDI</span><span class="topo-inside">TETWFFGQ</span><span class="topo-membrane">SLCKVIPYLQTVSVSVSVLTLS</span><span class="topo-outside">CIALDRWYAICHPLMFKSTAKRARNS</span><span class="topo-membrane">I</span></span>
-<span class="topo-line"><span class="topo-membrane">VIIWIVSCIIMIPQAIVM</span><span class="topo-inside">ECSTVFP</span><span class="topo-unknown">GLA</span><span class="topo-inside">NKTTLFTVCDERWGGEI</span><span class="topo-membrane">YPKMYHICFFLVTYM</span></span>
-<span class="topo-line"><span class="topo-membrane">APLCLMVL</span><span class="topo-outside">AYLQIFRKLWCRQGIDCSFWNESYLTGSRDERKKSLLSKFGMDEGVTFMFIG</span></span>
-<span class="topo-line"><span class="topo-outside">RFDRGQKGVDVLLKAIEILSSKKEFQEMRFIIIGKGDPELEGWARSLEEKHGNVKVITEM</span></span>
-<span class="topo-line"><span class="topo-outside">LSREFVRELYGSVDFVIIPSYFEPFGLVALEAMCLGAIPIASAVGGLRDIITNETGILVK</span></span>
-<span class="topo-line"><span class="topo-outside">AGDPGELANAILKALELSRSDLSKFRENCKKRAMSFSKQIRARRKTARMLM</span><span class="topo-membrane">VVLLVFAIC</span></span>
-<span class="topo-line"><span class="topo-membrane">YLPISILNVLKRVF</span><span class="topo-inside">GMFAHTEDRETVY</span><span class="topo-membrane">AWFTFSHWLVYANSAANPII</span><span class="topo-outside">YNFLSGKFREEFK</span></span>
-<span class="topo-line"><span class="topo-outside">AAFSCCC</span><span class="topo-unknown">LGVHHHHHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">DYKDDDDAMGTKLEDSPPCRNWSSASELNETQEPFLNPTDYDDEE</span><span class="topo-inside">FLRYLWREYLHPKE</span><span class="topo-membrane">YEWVLIAGYIIVFVVALIGNV</span><span class="topo-outside">LVCVAVWKNHHMRTVTNYFIV</span><span class="topo-membrane">NLSLADVLVTITCLPATLV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">VDI</span><span class="topo-inside">TETWFFGQ</span><span class="topo-membrane">SLCKVIPYLQTVSVSVSVLTLS</span><span class="topo-outside">CIALDRWYAICHPLMFKSTAKRARNS</span><span class="topo-membrane">IVIIWIVSCIIMIPQAIVM</span><span class="topo-inside">ECSTVFP</span><span class="topo-unknown">GLA</span><span class="topo-inside">NKTTLFTVCDERWGGEI</span><span class="topo-membrane">YPKMYHICFFLVTYM</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">APLCLMVL</span><span class="topo-outside">AYLQIFRKLWCRQGIDCSFWNESYLTGSRDERKKSLLSKFGMDEGVTFMFIGRFDRGQKGVDVLLKAIEILSSKKEFQEMRFIIIGKGDPELEGWARSLEEKHGNVKVITEM</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">LSREFVRELYGSVDFVIIPSYFEPFGLVALEAMCLGAIPIASAVGGLRDIITNETGILVKAGDPGELANAILKALELSRSDLSKFRENCKKRAMSFSKQIRARRKTARMLM</span><span class="topo-membrane">VVLLVFAIC</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560</span>
+<span class="topo-line"><span class="topo-membrane">YLPISILNVLKRVF</span><span class="topo-inside">GMFAHTEDRETVY</span><span class="topo-membrane">AWFTFSHWLVYANSAANPII</span><span class="topo-outside">YNFLSGKFREEFKAAFSCCC</span><span class="topo-unknown">LGVHHHHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -377,6 +380,7 @@ The human orexin 2 receptor (OX2R, HCRTR2) is a class A GPCR that binds the neur
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -424,16 +428,17 @@ The human orexin 2 receptor (OX2R, HCRTR2) is a class A GPCR that binds the neur
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">DYKDDDAMGTKLEDSPPCRNWSSASELNETQEPFLNPTDYDDEEFLRYLWREYLH</span><span class="topo-outside">PKEYE</span></span>
-<span class="topo-line"><span class="topo-outside">W</span><span class="topo-membrane">VLIAGYIIVFVVALIGNVLVC</span><span class="topo-inside">VAVWKNHHMRTVTNY</span><span class="topo-membrane">FIVNLSLADVLVTITCLPAT</span><span class="topo-outside">LVV</span></span>
-<span class="topo-line"><span class="topo-outside">DITETWFFGQSLCK</span><span class="topo-membrane">VIPYLQTVSVSVSVLTLSCIA</span><span class="topo-inside">LDRWYAICHP</span><span class="topo-unknown">LMFK</span><span class="topo-inside">STAKRAR</span><span class="topo-membrane">NSIV</span></span>
-<span class="topo-line"><span class="topo-membrane">IIWIVSCIIMIPQ</span><span class="topo-outside">AIVMECSTVF</span><span class="topo-unknown">PGLAN</span><span class="topo-outside">KTTLFTVCDERWGGEIYPKMYH</span><span class="topo-membrane">ICFFLVTYMA</span></span>
-<span class="topo-line"><span class="topo-membrane">PLCLMVLAYL</span><span class="topo-inside">QIFRKLWCRQGIDCSFWNESYLTGSRDERKKSLLSKFGMDEGVTFMFIGR</span></span>
-<span class="topo-line"><span class="topo-inside">FDRGQKGVDVLLKAIEILSSKKEFQEMRFIIIGKGDPELEGWARSLEEKHGNVKVITEML</span></span>
-<span class="topo-line"><span class="topo-inside">SREFVRELYGSVDFVIIPSYFEPFGLVALEAMCLGAIPIASAVGGLRDIITNETGILVKA</span></span>
-<span class="topo-line"><span class="topo-inside">GDPGELANAILKALELSRSDLSKFRENCKKRAMSFSKQIRARRKTARM</span><span class="topo-membrane">LMVVLLVFAICY</span></span>
-<span class="topo-line"><span class="topo-membrane">LPISI</span><span class="topo-outside">LNVLKRVFGMFAH</span><span class="topo-unknown">TE</span><span class="topo-outside">DRETVYAWFT</span><span class="topo-membrane">FSHWLVYANSAANPII</span><span class="topo-inside">YNFLSGKFREEFKA</span></span>
-<span class="topo-line"><span class="topo-inside">AFSC</span><span class="topo-unknown">CCLGVHHHHHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">DYKDDDAMGTKLEDSPPCRNWSSASELNETQEPFLNPTDYDDEEFLRYLWREYLH</span><span class="topo-outside">PKEYEW</span><span class="topo-membrane">VLIAGYIIVFVVALIGNVLVC</span><span class="topo-inside">VAVWKNHHMRTVTNY</span><span class="topo-membrane">FIVNLSLADVLVTITCLPAT</span><span class="topo-outside">LVV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">DITETWFFGQSLCK</span><span class="topo-membrane">VIPYLQTVSVSVSVLTLSCIA</span><span class="topo-inside">LDRWYAICHP</span><span class="topo-unknown">LMFK</span><span class="topo-inside">STAKRAR</span><span class="topo-membrane">NSIVIIWIVSCIIMIPQ</span><span class="topo-outside">AIVMECSTVF</span><span class="topo-unknown">PGLAN</span><span class="topo-outside">KTTLFTVCDERWGGEIYPKMYH</span><span class="topo-membrane">ICFFLVTYMA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">PLCLMVLAYL</span><span class="topo-inside">QIFRKLWCRQGIDCSFWNESYLTGSRDERKKSLLSKFGMDEGVTFMFIGRFDRGQKGVDVLLKAIEILSSKKEFQEMRFIIIGKGDPELEGWARSLEEKHGNVKVITEML</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">SREFVRELYGSVDFVIIPSYFEPFGLVALEAMCLGAIPIASAVGGLRDIITNETGILVKAGDPGELANAILKALELSRSDLSKFRENCKKRAMSFSKQIRARRKTARM</span><span class="topo-membrane">LMVVLLVFAICY</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550         </span>
+<span class="topo-line"><span class="topo-membrane">LPISI</span><span class="topo-outside">LNVLKRVFGMFAH</span><span class="topo-unknown">TE</span><span class="topo-outside">DRETVYAWFT</span><span class="topo-membrane">FSHWLVYANSAANPII</span><span class="topo-inside">YNFLSGKFREEFKAAFSC</span><span class="topo-unknown">CCLGVHHHHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (25 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -620,6 +625,7 @@ The human orexin 2 receptor (OX2R, HCRTR2) is a class A GPCR that binds the neur
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -750,12 +756,13 @@ The human orexin 2 receptor (OX2R, HCRTR2) is a class A GPCR that binds the neur
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GPLEDYDD</span><span class="topo-inside">EEFLRYLWREYLHPKEY</span><span class="topo-membrane">EWVLIAGYIIVFVVALIGNVLVCVA</span><span class="topo-outside">VWKNHHMRTV</span></span>
-<span class="topo-line"><span class="topo-outside">T</span><span class="topo-membrane">NYFIVNLSLAAVLVTITCLPATLVVDI</span><span class="topo-inside">TETWFFGQS</span><span class="topo-membrane">LCKVIPYLQTVSVSVSVWTLSAI</span></span>
-<span class="topo-line"><span class="topo-membrane">ALD</span><span class="topo-outside">RWYAICHPLMFKSTAKR</span><span class="topo-membrane">ARNSIVIIWIVSCIIMIPQAIVM</span><span class="topo-inside">ECSTV</span><span class="topo-unknown">FPGLAQKT</span><span class="topo-inside">TLFT</span></span>
-<span class="topo-line"><span class="topo-inside">VCDERWGGEIY</span><span class="topo-membrane">PKMYHICFFLVTYMAPLCLMVLAYLQIF</span><span class="topo-outside">RKLWCRQIPGVAAEIKQIRAR</span></span>
-<span class="topo-line"><span class="topo-outside">RKTA</span><span class="topo-membrane">RMLMIVLLVFAICYLPISILNVLKRV</span><span class="topo-inside">FGMFAHTEDRETVYA</span><span class="topo-membrane">WFTFSHWLVYANSAA</span></span>
-<span class="topo-line"><span class="topo-membrane">NPIIYNFL</span><span class="topo-outside">SGKFREEFKAAFSCCCL</span><span class="topo-unknown">GVHHRQEDRLLEVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GPLEDYDD</span><span class="topo-inside">EEFLRYLWREYLHPKEY</span><span class="topo-membrane">EWVLIAGYIIVFVVALIGNVLVCVA</span><span class="topo-outside">VWKNHHMRTVT</span><span class="topo-membrane">NYFIVNLSLAAVLVTITCLPATLVVDI</span><span class="topo-inside">TETWFFGQS</span><span class="topo-membrane">LCKVIPYLQTVSVSVSVWTLSAI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">ALD</span><span class="topo-outside">RWYAICHPLMFKSTAKR</span><span class="topo-membrane">ARNSIVIIWIVSCIIMIPQAIVM</span><span class="topo-inside">ECSTV</span><span class="topo-unknown">FPGLAQKT</span><span class="topo-inside">TLFTVCDERWGGEIY</span><span class="topo-membrane">PKMYHICFFLVTYMAPLCLMVLAYLQIF</span><span class="topo-outside">RKLWCRQIPGVAAEIKQIRAR</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340 </span>
+<span class="topo-line"><span class="topo-outside">RKTA</span><span class="topo-membrane">RMLMIVLLVFAICYLPISILNVLKRV</span><span class="topo-inside">FGMFAHTEDRETVYA</span><span class="topo-membrane">WFTFSHWLVYANSAANPIIYNFL</span><span class="topo-outside">SGKFREEFKAAFSCCCL</span><span class="topo-unknown">GVHHRQEDRLLEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (20 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -907,6 +914,7 @@ The human orexin 2 receptor (OX2R, HCRTR2) is a class A GPCR that binds the neur
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

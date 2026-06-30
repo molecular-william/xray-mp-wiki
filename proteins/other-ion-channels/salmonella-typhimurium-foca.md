@@ -61,11 +61,13 @@ FocA (formate channel) from Salmonella typhimurium is a pentameric integral memb
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MKADNPFDLLLP</span><span class="topo-inside">AAMAKVAEEAGVYKATKHPLKTFYLA</span><span class="topo-membrane">ITAGVFISIAFVFYITATTGT</span><span class="topo-outside">G</span></span>
-<span class="topo-line"><span class="topo-outside">AM</span><span class="topo-membrane">PYGMAKLIGGICFSLGLILCV</span><span class="topo-inside">ICGADLFTSTVLIVVAKASGRITWGQLAKNW</span><span class="topo-membrane">LNVYFG</span></span>
-<span class="topo-line"><span class="topo-membrane">NLIGALLFVLLMWLSGEYMTA</span><span class="topo-outside">NGQW</span><span class="topo-membrane">GLNVLQTADHKMHHTFIEAVCLGILANLMVCLAV</span><span class="topo-inside">W</span></span>
-<span class="topo-line"><span class="topo-inside">MSYSGRSLMDKA</span><span class="topo-membrane">FIMVLPVAMFVASG</span><span class="topo-unknown">F</span><span class="topo-membrane">EHSIANMFMIPMGIVIRDF</span><span class="topo-outside">ATPEFWTAVGSSPE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MKADNPFDLLLP</span><span class="topo-inside">AAMAKVAEEAGVYKATKHPLKTFYLA</span><span class="topo-membrane">ITAGVFISIAFVFYITATTGT</span><span class="topo-outside">GAM</span><span class="topo-membrane">PYGMAKLIGGICFSLGLILCV</span><span class="topo-inside">ICGADLFTSTVLIVVAKASGRITWGQLAKNW</span><span class="topo-membrane">LNVYFG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">NLIGALLFVLLMWLSGEYMTA</span><span class="topo-outside">NGQW</span><span class="topo-membrane">GLNVLQTADHKMHHTFIEAVCLGILANLMVCLAV</span><span class="topo-inside">WMSYSGRSLMDKA</span><span class="topo-membrane">FIMVLPVAMFVASG</span><span class="topo-unknown">F</span><span class="topo-membrane">EHSIANMFMIPMGIVIRDF</span><span class="topo-outside">ATPEFWTAVGSSPE</span></span>
+<span class="topo-ruler">       250       260       270       280       290   </span>
 <span class="topo-line"><span class="topo-outside">SFSH</span><span class="topo-membrane">LTVMSFITDNLIPVTIGNIIGGGLL</span><span class="topo-inside">VGLTY</span><span class="topo-unknown">WVIYLRGNEHHLEHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -189,6 +191,7 @@ FocA (formate channel) from Salmonella typhimurium is a pentameric integral memb
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -204,11 +207,13 @@ FocA (formate channel) from Salmonella typhimurium is a pentameric integral memb
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MKADNPFDLLLP</span><span class="topo-inside">AAMAKVAEEAGVYKATKHPLKTFYLA</span><span class="topo-membrane">ITAGVFISIAFVFYITATTGT</span><span class="topo-outside">G</span></span>
-<span class="topo-line"><span class="topo-outside">AM</span><span class="topo-membrane">PYGMAKLIGGICFSLGLILCV</span><span class="topo-inside">ICGADLFTSTVLIVV</span><span class="topo-unknown">AKASGRITWGQ</span><span class="topo-inside">LAKNW</span><span class="topo-membrane">LNVYFG</span></span>
-<span class="topo-line"><span class="topo-membrane">NLIGALLFVLLMWLSGEYMTA</span><span class="topo-outside">NGQWGLN</span><span class="topo-membrane">VLQTADHKMHHTFIEAVCLGILANLMVCLAV</span><span class="topo-inside">W</span></span>
-<span class="topo-line"><span class="topo-inside">MSYSGRSLMDKA</span><span class="topo-membrane">FIMVLPVAMFVASG</span><span class="topo-unknown">F</span><span class="topo-membrane">EHSIANMFMIPMGIVIRDF</span><span class="topo-outside">ATPEFWTAVGSSPE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MKADNPFDLLLP</span><span class="topo-inside">AAMAKVAEEAGVYKATKHPLKTFYLA</span><span class="topo-membrane">ITAGVFISIAFVFYITATTGT</span><span class="topo-outside">GAM</span><span class="topo-membrane">PYGMAKLIGGICFSLGLILCV</span><span class="topo-inside">ICGADLFTSTVLIVV</span><span class="topo-unknown">AKASGRITWGQ</span><span class="topo-inside">LAKNW</span><span class="topo-membrane">LNVYFG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">NLIGALLFVLLMWLSGEYMTA</span><span class="topo-outside">NGQWGLN</span><span class="topo-membrane">VLQTADHKMHHTFIEAVCLGILANLMVCLAV</span><span class="topo-inside">WMSYSGRSLMDKA</span><span class="topo-membrane">FIMVLPVAMFVASG</span><span class="topo-unknown">F</span><span class="topo-membrane">EHSIANMFMIPMGIVIRDF</span><span class="topo-outside">ATPEFWTAVGSSPE</span></span>
+<span class="topo-ruler">       250       260       270       280       290   </span>
 <span class="topo-line"><span class="topo-outside">SFSH</span><span class="topo-membrane">LTVMSFITDNLIPVTIGNIIGGGLL</span><span class="topo-inside">VG</span><span class="topo-unknown">LTYWVIYLRGNEHHLEHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -346,6 +351,7 @@ FocA (formate channel) from Salmonella typhimurium is a pentameric integral memb
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -361,11 +367,13 @@ FocA (formate channel) from Salmonella typhimurium is a pentameric integral memb
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MKADNPFDLL</span><span class="topo-inside">LPAAMAKVAEEAGVYKATKHPLKTF</span><span class="topo-membrane">YLAITAGVFISIAFVFYITATTGT</span><span class="topo-outside">G</span></span>
-<span class="topo-line"><span class="topo-outside">AM</span><span class="topo-membrane">PYGMAKLIGGICFSLGLILCV</span><span class="topo-inside">ICGADLFTSTVLIVVAKASGRITWGQLAKNW</span><span class="topo-membrane">LNVYFG</span></span>
-<span class="topo-line"><span class="topo-membrane">NLIGALLFVLLMWLSGEYMTA</span><span class="topo-outside">NGQWGLN</span><span class="topo-membrane">VLQTADHKMHHTFIEAVCLGILANLMVCLAV</span><span class="topo-inside">W</span></span>
-<span class="topo-line"><span class="topo-inside">MSYSGRSLMDKA</span><span class="topo-membrane">FIMVLPVAMFVASG</span><span class="topo-unknown">F</span><span class="topo-membrane">EHSIANMFMIPMGIVIRDF</span><span class="topo-outside">ATPEFWTAVGSSPE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MKADNPFDLL</span><span class="topo-inside">LPAAMAKVAEEAGVYKATKHPLKTF</span><span class="topo-membrane">YLAITAGVFISIAFVFYITATTGT</span><span class="topo-outside">GAM</span><span class="topo-membrane">PYGMAKLIGGICFSLGLILCV</span><span class="topo-inside">ICGADLFTSTVLIVVAKASGRITWGQLAKNW</span><span class="topo-membrane">LNVYFG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">NLIGALLFVLLMWLSGEYMTA</span><span class="topo-outside">NGQWGLN</span><span class="topo-membrane">VLQTADHKMHHTFIEAVCLGILANLMVCLAV</span><span class="topo-inside">WMSYSGRSLMDKA</span><span class="topo-membrane">FIMVLPVAMFVASG</span><span class="topo-unknown">F</span><span class="topo-membrane">EHSIANMFMIPMGIVIRDF</span><span class="topo-outside">ATPEFWTAVGSSPE</span></span>
+<span class="topo-ruler">       250       260       270       280       290   </span>
 <span class="topo-line"><span class="topo-outside">SFSH</span><span class="topo-membrane">LTVMSFITDNLIPVTIGNIIGGGLL</span><span class="topo-inside">VGLTYWVIYL</span><span class="topo-unknown">RGNEHHLEHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -489,6 +497,7 @@ FocA (formate channel) from Salmonella typhimurium is a pentameric integral memb
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -504,11 +513,13 @@ FocA (formate channel) from Salmonella typhimurium is a pentameric integral memb
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MKADNPFDLLLPA</span><span class="topo-inside">AMAKVAEEAGVYKATKHPLKTFYLA</span><span class="topo-membrane">ITAGVFISIAFVFYITATTGT</span><span class="topo-outside">G</span></span>
-<span class="topo-line"><span class="topo-outside">AM</span><span class="topo-membrane">PYGMAKLIGGICFSLGLILCV</span><span class="topo-inside">ICGADLFTSTVLIVVA</span><span class="topo-unknown">KASG</span><span class="topo-inside">RITWGQLAKNW</span><span class="topo-membrane">LNVYFG</span></span>
-<span class="topo-line"><span class="topo-membrane">NLIGALLFVLLMWLSGEYMTA</span><span class="topo-outside">NGQWGLN</span><span class="topo-membrane">VLQTADHKMHHTFIEAVCLGILANLMVCLAV</span><span class="topo-inside">W</span></span>
-<span class="topo-line"><span class="topo-inside">MSYSGRSLMDKA</span><span class="topo-membrane">FIMVLPVAMFVASG</span><span class="topo-unknown">F</span><span class="topo-membrane">EHSIANMFMIPMGIVIRDF</span><span class="topo-outside">ATPEFWTAVGSSPE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MKADNPFDLLLPA</span><span class="topo-inside">AMAKVAEEAGVYKATKHPLKTFYLA</span><span class="topo-membrane">ITAGVFISIAFVFYITATTGT</span><span class="topo-outside">GAM</span><span class="topo-membrane">PYGMAKLIGGICFSLGLILCV</span><span class="topo-inside">ICGADLFTSTVLIVVA</span><span class="topo-unknown">KASG</span><span class="topo-inside">RITWGQLAKNW</span><span class="topo-membrane">LNVYFG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">NLIGALLFVLLMWLSGEYMTA</span><span class="topo-outside">NGQWGLN</span><span class="topo-membrane">VLQTADHKMHHTFIEAVCLGILANLMVCLAV</span><span class="topo-inside">WMSYSGRSLMDKA</span><span class="topo-membrane">FIMVLPVAMFVASG</span><span class="topo-unknown">F</span><span class="topo-membrane">EHSIANMFMIPMGIVIRDF</span><span class="topo-outside">ATPEFWTAVGSSPE</span></span>
+<span class="topo-ruler">       250       260       270       280       290   </span>
 <span class="topo-line"><span class="topo-outside">SFSH</span><span class="topo-membrane">LTVMSFITDNLIPVTIGNIIGGGL</span><span class="topo-inside">LVG</span><span class="topo-unknown">LTYWVIYLRGNEHHLEHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -646,6 +657,7 @@ FocA (formate channel) from Salmonella typhimurium is a pentameric integral memb
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -661,11 +673,13 @@ FocA (formate channel) from Salmonella typhimurium is a pentameric integral memb
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MKADNPFDLLLPAAMAKVAEEAGVYKAT</span><span class="topo-inside">KHPLKTFYLA</span><span class="topo-membrane">ITAGVFISIAFVFYITATTGT</span><span class="topo-outside">G</span></span>
-<span class="topo-line"><span class="topo-outside">AM</span><span class="topo-membrane">PYGMAKLIGGICFSLGLILCV</span><span class="topo-inside">ICGADLFTSTVLIVVA</span><span class="topo-unknown">KASGRITW</span><span class="topo-inside">GQLAKNW</span><span class="topo-membrane">LNVYFG</span></span>
-<span class="topo-line"><span class="topo-membrane">NLIGALLFVLLMWLSGEYMTA</span><span class="topo-outside">NGQW</span><span class="topo-membrane">GLNVLQTADHKMHHTFIEAVCLGILANLMVCLAV</span><span class="topo-inside">W</span></span>
-<span class="topo-line"><span class="topo-inside">MSYSGRSLMDKA</span><span class="topo-membrane">FIMVLPVAMFVASG</span><span class="topo-unknown">F</span><span class="topo-membrane">EHSIANMFMIPMGIVIRDF</span><span class="topo-outside">ATPEFWTAVGSSPE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MKADNPFDLLLPAAMAKVAEEAGVYKAT</span><span class="topo-inside">KHPLKTFYLA</span><span class="topo-membrane">ITAGVFISIAFVFYITATTGT</span><span class="topo-outside">GAM</span><span class="topo-membrane">PYGMAKLIGGICFSLGLILCV</span><span class="topo-inside">ICGADLFTSTVLIVVA</span><span class="topo-unknown">KASGRITW</span><span class="topo-inside">GQLAKNW</span><span class="topo-membrane">LNVYFG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">NLIGALLFVLLMWLSGEYMTA</span><span class="topo-outside">NGQW</span><span class="topo-membrane">GLNVLQTADHKMHHTFIEAVCLGILANLMVCLAV</span><span class="topo-inside">WMSYSGRSLMDKA</span><span class="topo-membrane">FIMVLPVAMFVASG</span><span class="topo-unknown">F</span><span class="topo-membrane">EHSIANMFMIPMGIVIRDF</span><span class="topo-outside">ATPEFWTAVGSSPE</span></span>
+<span class="topo-ruler">       250       260       270       280       290   </span>
 <span class="topo-line"><span class="topo-outside">SFSH</span><span class="topo-membrane">LTVMSFITDNLIPVTIGNIIGGGL</span><span class="topo-unknown">LVGLTYWVIYLRGNEHHLEHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -796,6 +810,7 @@ FocA (formate channel) from Salmonella typhimurium is a pentameric integral memb
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

@@ -60,13 +60,15 @@ GlnK is a PII Prostanoid Receptor Family signal transduction Rh Protein from Nit
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">APAVAH</span><span class="topo-outside">HHHHHAVADKADNAFMMI</span><span class="topo-membrane">CTALVLFMTIPGIALFY</span><span class="topo-inside">GGLIRGKNVLSM</span><span class="topo-membrane">LTQVTVT</span></span>
-<span class="topo-line"><span class="topo-membrane">FALVCILWVVYGY</span><span class="topo-outside">SLAFGEGNNFFGNINWLMLKNIELTAVMGSIYQYIHVA</span><span class="topo-membrane">FQGSFACIT</span></span>
-<span class="topo-line"><span class="topo-membrane">VGLIVGA</span><span class="topo-inside">LAERIRF</span><span class="topo-membrane">SAVLIFVVVWLTLSYIPIA</span><span class="topo-outside">HMVWGGGLLASHGALD</span><span class="topo-membrane">FAGGTVVHINA</span></span>
-<span class="topo-line"><span class="topo-membrane">AIAGLVG</span><span class="topo-inside">AYLIGKRVGFGKEAFKPHNLPM</span><span class="topo-membrane">VFTGTAILYIGWFGFNA</span><span class="topo-outside">GSAGTANEIAALA</span><span class="topo-membrane">F</span></span>
-<span class="topo-line"><span class="topo-membrane">VNTVVATAAAILGWIFG</span><span class="topo-inside">EWALRGKPSLLG</span><span class="topo-membrane">ACSGAIAGLVGVTPAC</span><span class="topo-outside">GYIGV</span><span class="topo-membrane">GGALIIGVVA</span></span>
-<span class="topo-line"><span class="topo-membrane">GLAGLWGV</span><span class="topo-inside">TMLKRLLRVDDPC</span><span class="topo-membrane">DVFGVHGVCGIVGCIMTGIF</span><span class="topo-outside">AASSLGGVGFAEGVTMGHQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">APAVAH</span><span class="topo-outside">HHHHHAVADKADNAFMMI</span><span class="topo-membrane">CTALVLFMTIPGIALFY</span><span class="topo-inside">GGLIRGKNVLSM</span><span class="topo-membrane">LTQVTVTFALVCILWVVYGY</span><span class="topo-outside">SLAFGEGNNFFGNINWLMLKNIELTAVMGSIYQYIHVA</span><span class="topo-membrane">FQGSFACIT</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">VGLIVGA</span><span class="topo-inside">LAERIRF</span><span class="topo-membrane">SAVLIFVVVWLTLSYIPIA</span><span class="topo-outside">HMVWGGGLLASHGALD</span><span class="topo-membrane">FAGGTVVHINAAIAGLVG</span><span class="topo-inside">AYLIGKRVGFGKEAFKPHNLPM</span><span class="topo-membrane">VFTGTAILYIGWFGFNA</span><span class="topo-outside">GSAGTANEIAALA</span><span class="topo-membrane">F</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">VNTVVATAAAILGWIFG</span><span class="topo-inside">EWALRGKPSLLG</span><span class="topo-membrane">ACSGAIAGLVGVTPAC</span><span class="topo-outside">GYIGV</span><span class="topo-membrane">GGALIIGVVAGLAGLWGV</span><span class="topo-inside">TMLKRLLRVDDPC</span><span class="topo-membrane">DVFGVHGVCGIVGCIMTGIF</span><span class="topo-outside">AASSLGGVGFAEGVTMGHQ</span></span>
+<span class="topo-ruler">       370       380       390       400       410     </span>
 <span class="topo-line"><span class="topo-outside">L</span><span class="topo-membrane">LVQLESIAITIVWSGVVAFIGYKLA</span><span class="topo-inside">DLTVGLRVPEEQEREGLDVNSHGENAYNA</span></span>
+<details class="topo-details"><summary>Topology coordinates (24 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -246,6 +248,7 @@ GlnK is a PII Prostanoid Receptor Family signal transduction Rh Protein from Nit
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -261,13 +264,15 @@ GlnK is a PII Prostanoid Receptor Family signal transduction Rh Protein from Nit
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">APAVAH</span><span class="topo-outside">HHHHHAVADKADNAFMMI</span><span class="topo-membrane">CTALVLFMTIPGIALFY</span><span class="topo-inside">GGLIRGKNVLSML</span><span class="topo-membrane">TQVTVT</span></span>
-<span class="topo-line"><span class="topo-membrane">FALVCILWVVYGY</span><span class="topo-outside">SLAFGEGNNFFGNINWLMLKNIELTAVMGSIYQYIHV</span><span class="topo-membrane">AFQGSFACIT</span></span>
-<span class="topo-line"><span class="topo-membrane">VGLIVGA</span><span class="topo-inside">LAERIRFSAV</span><span class="topo-membrane">LIFVVVWLTLSYIPIAHMV</span><span class="topo-outside">WGGGLLASHGALD</span><span class="topo-membrane">FAGGTVVHINA</span></span>
-<span class="topo-line"><span class="topo-membrane">AIAGLVG</span><span class="topo-inside">AYLIGKRVGFGKEAFKPHNLPM</span><span class="topo-membrane">VFTGTAILYIGWFGFNAG</span><span class="topo-outside">SAGTANEIAALAF</span></span>
-<span class="topo-line"><span class="topo-membrane">VNTVVATAAAILGWIFGE</span><span class="topo-inside">WALRGKPSL</span><span class="topo-membrane">LGACSGAIAGLVGVTPAC</span><span class="topo-outside">GYIGV</span><span class="topo-membrane">GGALIIGVVA</span></span>
-<span class="topo-line"><span class="topo-membrane">GLAGLWGV</span><span class="topo-inside">TMLKRLLRVDDPC</span><span class="topo-membrane">DVFGVHGVCGIVGCIMTGIF</span><span class="topo-outside">AASSLGGVGFAEGVTMGHQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">APAVAH</span><span class="topo-outside">HHHHHAVADKADNAFMMI</span><span class="topo-membrane">CTALVLFMTIPGIALFY</span><span class="topo-inside">GGLIRGKNVLSML</span><span class="topo-membrane">TQVTVTFALVCILWVVYGY</span><span class="topo-outside">SLAFGEGNNFFGNINWLMLKNIELTAVMGSIYQYIHV</span><span class="topo-membrane">AFQGSFACIT</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">VGLIVGA</span><span class="topo-inside">LAERIRFSAV</span><span class="topo-membrane">LIFVVVWLTLSYIPIAHMV</span><span class="topo-outside">WGGGLLASHGALD</span><span class="topo-membrane">FAGGTVVHINAAIAGLVG</span><span class="topo-inside">AYLIGKRVGFGKEAFKPHNLPM</span><span class="topo-membrane">VFTGTAILYIGWFGFNAG</span><span class="topo-outside">SAGTANEIAALAF</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">VNTVVATAAAILGWIFGE</span><span class="topo-inside">WALRGKPSL</span><span class="topo-membrane">LGACSGAIAGLVGVTPAC</span><span class="topo-outside">GYIGV</span><span class="topo-membrane">GGALIIGVVAGLAGLWGV</span><span class="topo-inside">TMLKRLLRVDDPC</span><span class="topo-membrane">DVFGVHGVCGIVGCIMTGIF</span><span class="topo-outside">AASSLGGVGFAEGVTMGHQ</span></span>
+<span class="topo-ruler">       370       380       390       400       410     </span>
 <span class="topo-line"><span class="topo-outside">L</span><span class="topo-membrane">LVQLESIAITIVWSGVVAFIGYKLA</span><span class="topo-inside">DLTVGLRVPEEQEREGLDVNSHGENAYNA</span></span>
+<details class="topo-details"><summary>Topology coordinates (24 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -447,6 +452,7 @@ GlnK is a PII Prostanoid Receptor Family signal transduction Rh Protein from Nit
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -462,13 +468,15 @@ GlnK is a PII Prostanoid Receptor Family signal transduction Rh Protein from Nit
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">APAVAH</span><span class="topo-outside">HHHHHAVADKADNAFMMI</span><span class="topo-membrane">CTALVLFMTIPGIALFYG</span><span class="topo-inside">GLIRGKNVLSM</span><span class="topo-membrane">LTQVTVT</span></span>
-<span class="topo-line"><span class="topo-membrane">FALVCILWVVYG</span><span class="topo-outside">YSLAFGEGNNFFGNINWLMLKNIELTAVMGSIYQYIHVA</span><span class="topo-membrane">FQGSFACIT</span></span>
-<span class="topo-line"><span class="topo-membrane">VGLIVGAL</span><span class="topo-inside">AERIRF</span><span class="topo-membrane">SAVLIFVVVWLTLSYIPIA</span><span class="topo-outside">HMVWGGGLLASHGALDFA</span><span class="topo-membrane">GGTVVHINA</span></span>
-<span class="topo-line"><span class="topo-membrane">AIAGLVGAYL</span><span class="topo-inside">IGKRVGFGKEAFKPHNLPM</span><span class="topo-membrane">VFTGTAILYIGWFGFN</span><span class="topo-outside">AGSAGTANEIAALAF</span></span>
-<span class="topo-line"><span class="topo-membrane">VNTVVATAAAILGWIFGEWA</span><span class="topo-inside">LRGKPSL</span><span class="topo-membrane">LGACSGAIAGLVGVTPAC</span><span class="topo-outside">GYIGVG</span><span class="topo-membrane">GALIIGVVA</span></span>
-<span class="topo-line"><span class="topo-membrane">GLAGLWGVTMLK</span><span class="topo-inside">RLLRVDDPC</span><span class="topo-membrane">DVFGVHGVCGIVGCIMT</span><span class="topo-outside">GIFAASSLGGVGFAEGVTMGHQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">APAVAH</span><span class="topo-outside">HHHHHAVADKADNAFMMI</span><span class="topo-membrane">CTALVLFMTIPGIALFYG</span><span class="topo-inside">GLIRGKNVLSM</span><span class="topo-membrane">LTQVTVTFALVCILWVVYG</span><span class="topo-outside">YSLAFGEGNNFFGNINWLMLKNIELTAVMGSIYQYIHVA</span><span class="topo-membrane">FQGSFACIT</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">VGLIVGAL</span><span class="topo-inside">AERIRF</span><span class="topo-membrane">SAVLIFVVVWLTLSYIPIA</span><span class="topo-outside">HMVWGGGLLASHGALDFA</span><span class="topo-membrane">GGTVVHINAAIAGLVGAYL</span><span class="topo-inside">IGKRVGFGKEAFKPHNLPM</span><span class="topo-membrane">VFTGTAILYIGWFGFN</span><span class="topo-outside">AGSAGTANEIAALAF</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">VNTVVATAAAILGWIFGEWA</span><span class="topo-inside">LRGKPSL</span><span class="topo-membrane">LGACSGAIAGLVGVTPAC</span><span class="topo-outside">GYIGVG</span><span class="topo-membrane">GALIIGVVAGLAGLWGVTMLK</span><span class="topo-inside">RLLRVDDPC</span><span class="topo-membrane">DVFGVHGVCGIVGCIMT</span><span class="topo-outside">GIFAASSLGGVGFAEGVTMGHQ</span></span>
+<span class="topo-ruler">       370       380       390       400       410     </span>
 <span class="topo-line"><span class="topo-outside">LLVQ</span><span class="topo-membrane">LESIAITIVWSGVVAFIGYKLADLT</span><span class="topo-inside">VGLRVPEEQEREGLDVNSHGENAYNA</span></span>
+<details class="topo-details"><summary>Topology coordinates (24 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -648,6 +656,7 @@ GlnK is a PII Prostanoid Receptor Family signal transduction Rh Protein from Nit
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -663,8 +672,9 @@ GlnK is a PII Prostanoid Receptor Family signal transduction Rh Protein from Nit
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MKLVTVIIKPFKLEDVREALSSIGIQGLTVTEVKGFGRQKGHAELYRGAEYSVNFLPKVK</span></span>
-<span class="topo-line"><span class="topo-inside">IDVAIADDQLDEVIDIVSKAAYTGKIGDGKIFVAELQRVIRIRTGEADEAAL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110  </span>
+<span class="topo-line"><span class="topo-inside">MKLVTVIIKPFKLEDVREALSSIGIQGLTVTEVKGFGRQKGHAELYRGAEYSVNFLPKVKIDVAIADDQLDEVIDIVSKAAYTGKIGDGKIFVAELQRVIRIRTGEADEAAL</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -683,6 +693,7 @@ GlnK is a PII Prostanoid Receptor Family signal transduction Rh Protein from Nit
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -698,8 +709,9 @@ GlnK is a PII Prostanoid Receptor Family signal transduction Rh Protein from Nit
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MKLVTVIIKPFKLEDVREALSSIGIQGLTVTEVKGFGRQKGHAELYRGAEYSVNFLPKVK</span></span>
-<span class="topo-line"><span class="topo-inside">IDVAIADDQLDEVIDIVSKAAYTGKIGDGKIFVAELQRVIRIRTGEADEAAL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110  </span>
+<span class="topo-line"><span class="topo-inside">MKLVTVIIKPFKLEDVREALSSIGIQGLTVTEVKGFGRQKGHAELYRGAEYSVNFLPKVKIDVAIADDQLDEVIDIVSKAAYTGKIGDGKIFVAELQRVIRIRTGEADEAAL</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -718,6 +730,7 @@ GlnK is a PII Prostanoid Receptor Family signal transduction Rh Protein from Nit
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -733,8 +746,9 @@ GlnK is a PII Prostanoid Receptor Family signal transduction Rh Protein from Nit
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MKLVTVIIKPFKLEDVREALSSIGIQGLTVTEVKGFGRQKGHAELYRGAEYSVNFLPKVK</span></span>
-<span class="topo-line"><span class="topo-inside">IDVAIADDQLDEVIDIVSKAAYTGKIGDGKIFVAELQRVIRIRTGEADEAAL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110  </span>
+<span class="topo-line"><span class="topo-inside">MKLVTVIIKPFKLEDVREALSSIGIQGLTVTEVKGFGRQKGHAELYRGAEYSVNFLPKVKIDVAIADDQLDEVIDIVSKAAYTGKIGDGKIFVAELQRVIRIRTGEADEAAL</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -753,6 +767,7 @@ GlnK is a PII Prostanoid Receptor Family signal transduction Rh Protein from Nit
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -800,13 +815,15 @@ GlnK is a PII Prostanoid Receptor Family signal transduction Rh Protein from Nit
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">AP</span><span class="topo-inside">AVADKADNAFM</span><span class="topo-membrane">MICTALVLFMTIPGIALFYGGL</span><span class="topo-outside">IRGKNVL</span><span class="topo-membrane">SMLTQVTVTFALVCILWV</span></span>
-<span class="topo-line"><span class="topo-membrane">VYGYSLAF</span><span class="topo-inside">GEGNNFFGNINWLMLKNIELTAVMGSIYQYIHV</span><span class="topo-membrane">AFQGSFACITVGLIVGALA</span></span>
-<span class="topo-line"><span class="topo-outside">ERI</span><span class="topo-membrane">RFSAVLIFVVVWLTLSYIPIAHMVW</span><span class="topo-inside">GGGLLASHGA</span><span class="topo-membrane">LDFAGGTVVHINAAIAGLVGAY</span></span>
-<span class="topo-line"><span class="topo-membrane">L</span><span class="topo-outside">IGKRVGFGKEAFKPHNL</span><span class="topo-membrane">PMVFTGTAILYIGWFGFNAGS</span><span class="topo-inside">AGTANEIAAL</span><span class="topo-membrane">AFVNTVVATAA</span></span>
-<span class="topo-line"><span class="topo-membrane">AILGWIFGEWAL</span><span class="topo-outside">RGKP</span><span class="topo-membrane">SLLGACSGAIAGLVGVTPACG</span><span class="topo-inside">YI</span><span class="topo-membrane">GVGGALIIGVVAGLAGLWGVT</span></span>
-<span class="topo-line"><span class="topo-membrane">MLK</span><span class="topo-outside">RLLRVDD</span><span class="topo-membrane">PCDVFGVHGVCGIVGCIMTGIF</span><span class="topo-inside">AASSLGGVGFAEGVTMGHQ</span><span class="topo-membrane">LLVQLESIA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">AP</span><span class="topo-inside">AVADKADNAFM</span><span class="topo-membrane">MICTALVLFMTIPGIALFYGGL</span><span class="topo-outside">IRGKNVL</span><span class="topo-membrane">SMLTQVTVTFALVCILWVVYGYSLAF</span><span class="topo-inside">GEGNNFFGNINWLMLKNIELTAVMGSIYQYIHV</span><span class="topo-membrane">AFQGSFACITVGLIVGALA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">ERI</span><span class="topo-membrane">RFSAVLIFVVVWLTLSYIPIAHMVW</span><span class="topo-inside">GGGLLASHGA</span><span class="topo-membrane">LDFAGGTVVHINAAIAGLVGAYL</span><span class="topo-outside">IGKRVGFGKEAFKPHNL</span><span class="topo-membrane">PMVFTGTAILYIGWFGFNAGS</span><span class="topo-inside">AGTANEIAAL</span><span class="topo-membrane">AFVNTVVATAA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">AILGWIFGEWAL</span><span class="topo-outside">RGKP</span><span class="topo-membrane">SLLGACSGAIAGLVGVTPACG</span><span class="topo-inside">YI</span><span class="topo-membrane">GVGGALIIGVVAGLAGLWGVTMLK</span><span class="topo-outside">RLLRVDD</span><span class="topo-membrane">PCDVFGVHGVCGIVGCIMTGIF</span><span class="topo-inside">AASSLGGVGFAEGVTMGHQ</span><span class="topo-membrane">LLVQLESIA</span></span>
+<span class="topo-ruler">       370       380       390       400       410  </span>
 <span class="topo-line"><span class="topo-membrane">ITIVWSGVVAFIGYKLADLTV</span><span class="topo-outside">GLRVPEEQEREG</span><span class="topo-unknown">LDVNSH</span><span class="topo-outside">GENAYNA</span><span class="topo-unknown">GTLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (27 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1007,6 +1024,7 @@ GlnK is a PII Prostanoid Receptor Family signal transduction Rh Protein from Nit
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1022,8 +1040,9 @@ GlnK is a PII Prostanoid Receptor Family signal transduction Rh Protein from Nit
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GPG</span><span class="topo-outside">SMKLVTVIIKPFKLEDVREALSSIGIQGLTVTEVKGFGRQKGHAELYRGAEFSVNFL</span></span>
-<span class="topo-line"><span class="topo-outside">PKVKIDVAIADDQLDEVIDIVSKAAYTGKIGDGKIFVAELQRVIRIRTGEADEAAL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110      </span>
+<span class="topo-line"><span class="topo-unknown">GPG</span><span class="topo-outside">SMKLVTVIIKPFKLEDVREALSSIGIQGLTVTEVKGFGRQKGHAELYRGAEFSVNFLPKVKIDVAIADDQLDEVIDIVSKAAYTGKIGDGKIFVAELQRVIRIRTGEADEAAL</span></span>
+<details class="topo-details"><summary>Topology coordinates (2 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1049,6 +1068,7 @@ GlnK is a PII Prostanoid Receptor Family signal transduction Rh Protein from Nit
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1064,13 +1084,15 @@ GlnK is a PII Prostanoid Receptor Family signal transduction Rh Protein from Nit
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">AP</span><span class="topo-inside">AVADKADNAFM</span><span class="topo-membrane">MICTALVLFMTIPGIALFYGGL</span><span class="topo-outside">IRGKNVL</span><span class="topo-membrane">SMLTQVTVTFALVCILWV</span></span>
-<span class="topo-line"><span class="topo-membrane">VYGYSLAF</span><span class="topo-inside">GEGNNFFGNINWLMLKNIELTAVMGSIYQYIHV</span><span class="topo-membrane">AFQGSFACITVGLIVGALA</span></span>
-<span class="topo-line"><span class="topo-outside">ERI</span><span class="topo-membrane">RFSAVLIFVVVWLTLSYIPIAHMVW</span><span class="topo-inside">GGGLLASHGA</span><span class="topo-membrane">LDFAGGTVVHINAAIAGLVGAY</span></span>
-<span class="topo-line"><span class="topo-membrane">L</span><span class="topo-outside">IGKRVGFGKEAFKPHNL</span><span class="topo-membrane">PMVFTGTAILYIGWFGFNAGS</span><span class="topo-inside">AGTANEIAAL</span><span class="topo-membrane">AFVNTVVATAA</span></span>
-<span class="topo-line"><span class="topo-membrane">AILGWIFGEWAL</span><span class="topo-outside">RGKP</span><span class="topo-membrane">SLLGACSGAIAGLVGVTPACG</span><span class="topo-inside">YI</span><span class="topo-membrane">GVGGALIIGVVAGLAGLWGVT</span></span>
-<span class="topo-line"><span class="topo-membrane">MLK</span><span class="topo-outside">RLLRVDD</span><span class="topo-membrane">PCDVFGVHGVCGIVGCIMTGIF</span><span class="topo-inside">AASSLGGVGFAEGVTMGHQ</span><span class="topo-membrane">LLVQLESIA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">AP</span><span class="topo-inside">AVADKADNAFM</span><span class="topo-membrane">MICTALVLFMTIPGIALFYGGL</span><span class="topo-outside">IRGKNVL</span><span class="topo-membrane">SMLTQVTVTFALVCILWVVYGYSLAF</span><span class="topo-inside">GEGNNFFGNINWLMLKNIELTAVMGSIYQYIHV</span><span class="topo-membrane">AFQGSFACITVGLIVGALA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">ERI</span><span class="topo-membrane">RFSAVLIFVVVWLTLSYIPIAHMVW</span><span class="topo-inside">GGGLLASHGA</span><span class="topo-membrane">LDFAGGTVVHINAAIAGLVGAYL</span><span class="topo-outside">IGKRVGFGKEAFKPHNL</span><span class="topo-membrane">PMVFTGTAILYIGWFGFNAGS</span><span class="topo-inside">AGTANEIAAL</span><span class="topo-membrane">AFVNTVVATAA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">AILGWIFGEWAL</span><span class="topo-outside">RGKP</span><span class="topo-membrane">SLLGACSGAIAGLVGVTPACG</span><span class="topo-inside">YI</span><span class="topo-membrane">GVGGALIIGVVAGLAGLWGVTMLK</span><span class="topo-outside">RLLRVDD</span><span class="topo-membrane">PCDVFGVHGVCGIVGCIMTGIF</span><span class="topo-inside">AASSLGGVGFAEGVTMGHQ</span><span class="topo-membrane">LLVQLESIA</span></span>
+<span class="topo-ruler">       370       380       390       400       410  </span>
 <span class="topo-line"><span class="topo-membrane">ITIVWSGVVAFIGYKLADLTV</span><span class="topo-outside">GLRVPEEQEREG</span><span class="topo-unknown">LDVNSH</span><span class="topo-outside">GENAYNA</span><span class="topo-unknown">GTLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (27 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1271,6 +1293,7 @@ GlnK is a PII Prostanoid Receptor Family signal transduction Rh Protein from Nit
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1286,8 +1309,9 @@ GlnK is a PII Prostanoid Receptor Family signal transduction Rh Protein from Nit
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GPG</span><span class="topo-outside">SMKLVTVIIKPFKLEDVREALSSIGIQGLTVTEVKGFGRQKGHAELYRGAEFSVNFL</span></span>
-<span class="topo-line"><span class="topo-outside">PKVKIDVAIADDQLDEVIDIVSKAAYTGKIGDGKIFVAELQRVIRIRTGEADEAAL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110      </span>
+<span class="topo-line"><span class="topo-unknown">GPG</span><span class="topo-outside">SMKLVTVIIKPFKLEDVREALSSIGIQGLTVTEVKGFGRQKGHAELYRGAEFSVNFLPKVKIDVAIADDQLDEVIDIVSKAAYTGKIGDGKIFVAELQRVIRIRTGEADEAAL</span></span>
+<details class="topo-details"><summary>Topology coordinates (2 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1313,6 +1337,7 @@ GlnK is a PII Prostanoid Receptor Family signal transduction Rh Protein from Nit
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1328,13 +1353,15 @@ GlnK is a PII Prostanoid Receptor Family signal transduction Rh Protein from Nit
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">AP</span><span class="topo-inside">AVADKADNAFM</span><span class="topo-membrane">MICTALVLFMTIPGIALFYGGL</span><span class="topo-outside">IRGKNVL</span><span class="topo-membrane">SMLTQVTVTFALVCILWV</span></span>
-<span class="topo-line"><span class="topo-membrane">VYGYSLAF</span><span class="topo-inside">GEGNNFFGNINWLMLKNIELTAVMGSIYQYIHV</span><span class="topo-membrane">AFQGSFACITVGLIVGALA</span></span>
-<span class="topo-line"><span class="topo-outside">ERI</span><span class="topo-membrane">RFSAVLIFVVVWLTLSYIPIAHMVW</span><span class="topo-inside">GGGLLASHGA</span><span class="topo-membrane">LDFAGGTVVHINAAIAGLVGAY</span></span>
-<span class="topo-line"><span class="topo-membrane">L</span><span class="topo-outside">IGKRVGFGKEAFKPHNL</span><span class="topo-membrane">PMVFTGTAILYIGWFGFNAGS</span><span class="topo-inside">AGTANEIAAL</span><span class="topo-membrane">AFVNTVVATAA</span></span>
-<span class="topo-line"><span class="topo-membrane">AILGWIFGEWAL</span><span class="topo-outside">RGKP</span><span class="topo-membrane">SLLGACSGAIAGLVGVTPACG</span><span class="topo-inside">YI</span><span class="topo-membrane">GVGGALIIGVVAGLAGLWGVT</span></span>
-<span class="topo-line"><span class="topo-membrane">MLK</span><span class="topo-outside">RLLRVDD</span><span class="topo-membrane">PCDVFGVHGVCGIVGCIMTGIF</span><span class="topo-inside">AASSLGGVGFAEGVTMGHQ</span><span class="topo-membrane">LLVQLESIA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">AP</span><span class="topo-inside">AVADKADNAFM</span><span class="topo-membrane">MICTALVLFMTIPGIALFYGGL</span><span class="topo-outside">IRGKNVL</span><span class="topo-membrane">SMLTQVTVTFALVCILWVVYGYSLAF</span><span class="topo-inside">GEGNNFFGNINWLMLKNIELTAVMGSIYQYIHV</span><span class="topo-membrane">AFQGSFACITVGLIVGALA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">ERI</span><span class="topo-membrane">RFSAVLIFVVVWLTLSYIPIAHMVW</span><span class="topo-inside">GGGLLASHGA</span><span class="topo-membrane">LDFAGGTVVHINAAIAGLVGAYL</span><span class="topo-outside">IGKRVGFGKEAFKPHNL</span><span class="topo-membrane">PMVFTGTAILYIGWFGFNAGS</span><span class="topo-inside">AGTANEIAAL</span><span class="topo-membrane">AFVNTVVATAA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">AILGWIFGEWAL</span><span class="topo-outside">RGKP</span><span class="topo-membrane">SLLGACSGAIAGLVGVTPACG</span><span class="topo-inside">YI</span><span class="topo-membrane">GVGGALIIGVVAGLAGLWGVTMLK</span><span class="topo-outside">RLLRVDD</span><span class="topo-membrane">PCDVFGVHGVCGIVGCIMTGIF</span><span class="topo-inside">AASSLGGVGFAEGVTMGHQ</span><span class="topo-membrane">LLVQLESIA</span></span>
+<span class="topo-ruler">       370       380       390       400       410  </span>
 <span class="topo-line"><span class="topo-membrane">ITIVWSGVVAFIGYKLADLTV</span><span class="topo-outside">GLRVPEEQEREG</span><span class="topo-unknown">LDVNSH</span><span class="topo-outside">GENAYNA</span><span class="topo-unknown">GTLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (27 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1535,6 +1562,7 @@ GlnK is a PII Prostanoid Receptor Family signal transduction Rh Protein from Nit
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1550,8 +1578,9 @@ GlnK is a PII Prostanoid Receptor Family signal transduction Rh Protein from Nit
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GPG</span><span class="topo-outside">SMKLVTVIIKPFKLEDVREALSSIGIQGLTVTEVKGFGRQKGHAELYRGAEFSVNFL</span></span>
-<span class="topo-line"><span class="topo-outside">PKVKIDVAIADDQLDEVIDIVSKAAYTGKIGDGKIFVAELQRVIRIRTGEADEAAL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110      </span>
+<span class="topo-line"><span class="topo-unknown">GPG</span><span class="topo-outside">SMKLVTVIIKPFKLEDVREALSSIGIQGLTVTEVKGFGRQKGHAELYRGAEFSVNFLPKVKIDVAIADDQLDEVIDIVSKAAYTGKIGDGKIFVAELQRVIRIRTGEADEAAL</span></span>
+<details class="topo-details"><summary>Topology coordinates (2 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1577,6 +1606,7 @@ GlnK is a PII Prostanoid Receptor Family signal transduction Rh Protein from Nit
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

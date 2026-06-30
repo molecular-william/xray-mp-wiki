@@ -128,12 +128,13 @@ _Yf (Apical Sodium-Dependent Bile Acid Transporter from Yersinia frederiksenii)
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MLVKI</span><span class="topo-membrane">TRLFPVWALLLSVA</span><span class="topo-inside">AYFR</span><span class="topo-unknown">PTTFTGIGPY</span><span class="topo-membrane">VGPLLMLIMFAMG</span><span class="topo-outside">VTLR</span><span class="topo-unknown">LDDFKRVLS</span><span class="topo-outside">R</span></span>
-<span class="topo-line"><span class="topo-outside">PAPVAAA</span><span class="topo-membrane">TFLHYLIMPLTAWIL</span><span class="topo-inside">AMLFRMPPDLSAG</span><span class="topo-membrane">MVLVGSVASGTAS</span><span class="topo-outside">NVMIYLAKGDVA</span></span>
-<span class="topo-line"><span class="topo-outside">LSVTIS</span><span class="topo-membrane">AVSTLVGVFATPLLTRLY</span><span class="topo-inside">VDATISVDV</span><span class="topo-membrane">VGMLKSILQIVVIPITAG</span><span class="topo-outside">LVIHHTFTK</span></span>
-<span class="topo-line"><span class="topo-outside">TVKRIEPYL</span><span class="topo-membrane">PAMSMVCILAIISAV</span><span class="topo-inside">VAGS</span><span class="topo-unknown">QSHIASV</span><span class="topo-inside">GFVV</span><span class="topo-membrane">IIAVILHNGIGLLSG</span><span class="topo-outside">YWGGKL</span></span>
-<span class="topo-line"><span class="topo-outside">FGFDESTCRTLA</span><span class="topo-membrane">IEVGMQNSGLAATL</span><span class="topo-inside">GKIYFSPLAAL</span><span class="topo-membrane">PGALFSVWHNLSGSLL</span><span class="topo-outside">AGYWSGK</span></span>
-<span class="topo-line"><span class="topo-outside">PVKKDQE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MLVKI</span><span class="topo-membrane">TRLFPVWALLLSVA</span><span class="topo-inside">AYFR</span><span class="topo-unknown">PTTFTGIGPY</span><span class="topo-membrane">VGPLLMLIMFAMG</span><span class="topo-outside">VTLR</span><span class="topo-unknown">LDDFKRVLS</span><span class="topo-outside">RPAPVAAA</span><span class="topo-membrane">TFLHYLIMPLTAWIL</span><span class="topo-inside">AMLFRMPPDLSAG</span><span class="topo-membrane">MVLVGSVASGTAS</span><span class="topo-outside">NVMIYLAKGDVA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">LSVTIS</span><span class="topo-membrane">AVSTLVGVFATPLLTRLY</span><span class="topo-inside">VDATISVDV</span><span class="topo-membrane">VGMLKSILQIVVIPITAG</span><span class="topo-outside">LVIHHTFTKTVKRIEPYL</span><span class="topo-membrane">PAMSMVCILAIISAV</span><span class="topo-inside">VAGS</span><span class="topo-unknown">QSHIASV</span><span class="topo-inside">GFVV</span><span class="topo-membrane">IIAVILHNGIGLLSG</span><span class="topo-outside">YWGGKL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       </span>
+<span class="topo-line"><span class="topo-outside">FGFDESTCRTLA</span><span class="topo-membrane">IEVGMQNSGLAATL</span><span class="topo-inside">GKIYFSPLAAL</span><span class="topo-membrane">PGALFSVWHNLSGSLL</span><span class="topo-outside">AGYWSGKPVKKDQE</span></span>
+<details class="topo-details"><summary>Topology coordinates (26 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -327,6 +328,7 @@ _Yf (Apical Sodium-Dependent Bile Acid Transporter from Yersinia frederiksenii)
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -342,12 +344,13 @@ _Yf (Apical Sodium-Dependent Bile Acid Transporter from Yersinia frederiksenii)
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">ML</span><span class="topo-outside">VKI</span><span class="topo-membrane">TRLFPVWALLLSVA</span><span class="topo-inside">AYFR</span><span class="topo-unknown">PTTFTGIGPY</span><span class="topo-membrane">VGPLLMLIMFAMGV</span><span class="topo-outside">TLRL</span><span class="topo-unknown">DDFKRVL</span><span class="topo-outside">SR</span></span>
-<span class="topo-line"><span class="topo-outside">PAPVAAA</span><span class="topo-membrane">TFLHYLIMPLTAWIL</span><span class="topo-inside">AMLFRMPPDLSAGM</span><span class="topo-membrane">VLVGSVASGTAS</span><span class="topo-outside">NVMIYLAKGDVA</span></span>
-<span class="topo-line"><span class="topo-outside">LSVTIS</span><span class="topo-membrane">AVSTLVGVFATPLLT</span><span class="topo-inside">RLYVDATISVDVVGM</span><span class="topo-membrane">LKSILQIVVIPITAG</span><span class="topo-outside">LVIHHTF</span><span class="topo-unknown">TK</span></span>
-<span class="topo-line"><span class="topo-unknown">TVKRIEPY</span><span class="topo-membrane">LPAMSMVCILAIIS</span><span class="topo-inside">AVVAGS</span><span class="topo-unknown">QSHIASV</span><span class="topo-inside">GFVV</span><span class="topo-membrane">IIAVILHNGIGLLSG</span><span class="topo-outside">YWGGKL</span></span>
-<span class="topo-line"><span class="topo-outside">FGFDESTCRTLA</span><span class="topo-membrane">IEVGMQNSGLAATL</span><span class="topo-inside">GKIYFSPLAALP</span><span class="topo-membrane">GALFSVWHNLSGSLL</span><span class="topo-outside">AGYWSGK</span></span>
-<span class="topo-line"><span class="topo-outside">PVKKDQ</span><span class="topo-unknown">E</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">ML</span><span class="topo-outside">VKI</span><span class="topo-membrane">TRLFPVWALLLSVA</span><span class="topo-inside">AYFR</span><span class="topo-unknown">PTTFTGIGPY</span><span class="topo-membrane">VGPLLMLIMFAMGV</span><span class="topo-outside">TLRL</span><span class="topo-unknown">DDFKRVL</span><span class="topo-outside">SRPAPVAAA</span><span class="topo-membrane">TFLHYLIMPLTAWIL</span><span class="topo-inside">AMLFRMPPDLSAGM</span><span class="topo-membrane">VLVGSVASGTAS</span><span class="topo-outside">NVMIYLAKGDVA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">LSVTIS</span><span class="topo-membrane">AVSTLVGVFATPLLT</span><span class="topo-inside">RLYVDATISVDVVGM</span><span class="topo-membrane">LKSILQIVVIPITAG</span><span class="topo-outside">LVIHHTF</span><span class="topo-unknown">TKTVKRIEPY</span><span class="topo-membrane">LPAMSMVCILAIIS</span><span class="topo-inside">AVVAGS</span><span class="topo-unknown">QSHIASV</span><span class="topo-inside">GFVV</span><span class="topo-membrane">IIAVILHNGIGLLSG</span><span class="topo-outside">YWGGKL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       </span>
+<span class="topo-line"><span class="topo-outside">FGFDESTCRTLA</span><span class="topo-membrane">IEVGMQNSGLAATL</span><span class="topo-inside">GKIYFSPLAALP</span><span class="topo-membrane">GALFSVWHNLSGSLL</span><span class="topo-outside">AGYWSGKPVKKDQ</span><span class="topo-unknown">E</span></span>
+<details class="topo-details"><summary>Topology coordinates (29 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -562,6 +565,7 @@ _Yf (Apical Sodium-Dependent Bile Acid Transporter from Yersinia frederiksenii)
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

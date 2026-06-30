@@ -88,17 +88,19 @@ Human Protease-Activated Receptor 2 (PAR2) is a class A G protein-coupled recept
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">AMGSRLYDRRSIFDAVAQSNCQELESLLPFLQRSKKRLTDSEFKDPETGKTCLLKAMLNL</span></span>
-<span class="topo-line"><span class="topo-unknown">HNGQNDTIALLLDVARKTDSLKQFVNASYTDSYYKGQTALHIAIERRNMTLVTLLVENGA</span></span>
-<span class="topo-line"><span class="topo-unknown">DVQAAANGDFFKKTKGRPGFYFGELPLSLAACTNQLAIVKFLLQNSWQPADISARDSVGN</span></span>
-<span class="topo-line"><span class="topo-unknown">TVLHALVEVADNTVDNTKFVTSMYNEILILGAKLHPTLKLEEITNRKGL</span><span class="topo-inside">TPLALAASSGK</span></span>
-<span class="topo-line"><span class="topo-inside">IGVLAYILQREIHEPECRHLSRKFTEWAYGPVHSSLYDLSCIDTCEKNSVLEVIAYSSSE</span></span>
-<span class="topo-line"><span class="topo-inside">TPNRHDMLLVEPLNRLLQDKWDRFVKRI</span><span class="topo-membrane">FYFNFFVYCLYMIIFTAAAY</span><span class="topo-outside">YRPVEGLPPYKL</span></span>
-<span class="topo-line"><span class="topo-outside">KNTVGDYF</span><span class="topo-membrane">RVTGEILSVSGGVYFFFRGIQYFL</span><span class="topo-inside">QRRPSLKSLFVDS</span><span class="topo-membrane">YSEILFFVQSLFMLV</span></span>
-<span class="topo-line"><span class="topo-membrane">SVVLY</span><span class="topo-outside">FSQRKEY</span><span class="topo-membrane">VASMVFSLAMGWTNMLYYTR</span><span class="topo-inside">GFQQMGIY</span><span class="topo-membrane">AVMIEKMILRDLCRFMFVYL</span></span>
-<span class="topo-line"><span class="topo-membrane">VFLFGFSTAVVTL</span><span class="topo-outside">IEDGKYNSL</span><span class="topo-unknown">YSTCLELFKFTIGMGDL</span><span class="topo-outside">EFTENYDFKA</span><span class="topo-membrane">VFIILLLAYVI</span></span>
-<span class="topo-line"><span class="topo-membrane">LTYILLLNMLIALMG</span><span class="topo-inside">ETVNKIAQE</span><span class="topo-unknown">SKNIWKLQRAITILDTEKSF</span><span class="topo-inside">LKCMRKAFRSGKLLQV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">AMGSRLYDRRSIFDAVAQSNCQELESLLPFLQRSKKRLTDSEFKDPETGKTCLLKAMLNLHNGQNDTIALLLDVARKTDSLKQFVNASYTDSYYKGQTALHIAIERRNMTLVTLLVENGA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-unknown">DVQAAANGDFFKKTKGRPGFYFGELPLSLAACTNQLAIVKFLLQNSWQPADISARDSVGNTVLHALVEVADNTVDNTKFVTSMYNEILILGAKLHPTLKLEEITNRKGL</span><span class="topo-inside">TPLALAASSGK</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">IGVLAYILQREIHEPECRHLSRKFTEWAYGPVHSSLYDLSCIDTCEKNSVLEVIAYSSSETPNRHDMLLVEPLNRLLQDKWDRFVKRI</span><span class="topo-membrane">FYFNFFVYCLYMIIFTAAAY</span><span class="topo-outside">YRPVEGLPPYKL</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">KNTVGDYF</span><span class="topo-membrane">RVTGEILSVSGGVYFFFRGIQYFL</span><span class="topo-inside">QRRPSLKSLFVDS</span><span class="topo-membrane">YSEILFFVQSLFMLVSVVLY</span><span class="topo-outside">FSQRKEY</span><span class="topo-membrane">VASMVFSLAMGWTNMLYYTR</span><span class="topo-inside">GFQQMGIY</span><span class="topo-membrane">AVMIEKMILRDLCRFMFVYL</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-membrane">VFLFGFSTAVVTL</span><span class="topo-outside">IEDGKYNSL</span><span class="topo-unknown">YSTCLELFKFTIGMGDL</span><span class="topo-outside">EFTENYDFKA</span><span class="topo-membrane">VFIILLLAYVILTYILLLNMLIALMG</span><span class="topo-inside">ETVNKIAQE</span><span class="topo-unknown">SKNIWKLQRAITILDTEKSF</span><span class="topo-inside">LKCMRKAFRSGKLLQV</span></span>
+<span class="topo-ruler">       610       620       630      </span>
 <span class="topo-line"><span class="topo-inside">GFTPDGKDDYRWCFRVDEVNWTT</span><span class="topo-unknown">WNTNVGIINEDPG</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -229,6 +231,7 @@ Human Protease-Activated Receptor 2 (PAR2) is a class A G protein-coupled recept
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -244,17 +247,19 @@ Human Protease-Activated Receptor 2 (PAR2) is a class A G protein-coupled recept
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">AMGSRLYDRRSIFDAVAQSNCQELESLLPFLQRSKKRLTDSEFKDPETGKTCLLKAMLNL</span></span>
-<span class="topo-line"><span class="topo-unknown">HNGQNDTIALLLDVARKTDSLKQFVNASYTDSYYKGQTALHIAIERRNMTLVTLLVENGA</span></span>
-<span class="topo-line"><span class="topo-unknown">DVQAAANGDFFKKTKGRPGFYFGELPLSLAACTNQLAIVKFLLQNSWQPADISARDSVGN</span></span>
-<span class="topo-line"><span class="topo-unknown">TVLHALVEVADNTVDNTKFVTSMYNEILILGAKLHPTLKLEEITNRKGL</span><span class="topo-inside">TPLALAASSGK</span></span>
-<span class="topo-line"><span class="topo-inside">IGVLAYILQREIHEPECRHLSRKFTEWAYGPVHSSLYDLSCIDTCEKNSVLEVIAYSSSE</span></span>
-<span class="topo-line"><span class="topo-inside">TPNRHDMLLVEPLNRLLQDKWDRFVKRI</span><span class="topo-membrane">FYFNFFVYCLYMIIFTAAAY</span><span class="topo-outside">YRPVEGLPPYKL</span></span>
-<span class="topo-line"><span class="topo-outside">KNTVGDYF</span><span class="topo-membrane">RVTGEILSVSGGVYFFFRGIQYFL</span><span class="topo-inside">QRRPSLKSLFVDS</span><span class="topo-membrane">YSEILFFVQSLFMLV</span></span>
-<span class="topo-line"><span class="topo-membrane">SVVLYF</span><span class="topo-outside">SQRKEY</span><span class="topo-membrane">VASMVFSLAMGWTNMLYYTR</span><span class="topo-inside">GFQQMGIY</span><span class="topo-membrane">AVMIEKMILRDLCRFMFVYL</span></span>
-<span class="topo-line"><span class="topo-membrane">VFLFGFSTAVVTL</span><span class="topo-outside">IEDGKYNSL</span><span class="topo-unknown">YSTCLELFKFTIGMGDL</span><span class="topo-outside">EFTENYDFKA</span><span class="topo-membrane">VFIILLLAYVI</span></span>
-<span class="topo-line"><span class="topo-membrane">LTYILLLNMLIALMG</span><span class="topo-inside">ETVNKIAQE</span><span class="topo-unknown">SKNIWKLQRAITILDTEKSF</span><span class="topo-inside">LKCMRKAFRSGKLLQV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">AMGSRLYDRRSIFDAVAQSNCQELESLLPFLQRSKKRLTDSEFKDPETGKTCLLKAMLNLHNGQNDTIALLLDVARKTDSLKQFVNASYTDSYYKGQTALHIAIERRNMTLVTLLVENGA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-unknown">DVQAAANGDFFKKTKGRPGFYFGELPLSLAACTNQLAIVKFLLQNSWQPADISARDSVGNTVLHALVEVADNTVDNTKFVTSMYNEILILGAKLHPTLKLEEITNRKGL</span><span class="topo-inside">TPLALAASSGK</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">IGVLAYILQREIHEPECRHLSRKFTEWAYGPVHSSLYDLSCIDTCEKNSVLEVIAYSSSETPNRHDMLLVEPLNRLLQDKWDRFVKRI</span><span class="topo-membrane">FYFNFFVYCLYMIIFTAAAY</span><span class="topo-outside">YRPVEGLPPYKL</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">KNTVGDYF</span><span class="topo-membrane">RVTGEILSVSGGVYFFFRGIQYFL</span><span class="topo-inside">QRRPSLKSLFVDS</span><span class="topo-membrane">YSEILFFVQSLFMLVSVVLYF</span><span class="topo-outside">SQRKEY</span><span class="topo-membrane">VASMVFSLAMGWTNMLYYTR</span><span class="topo-inside">GFQQMGIY</span><span class="topo-membrane">AVMIEKMILRDLCRFMFVYL</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-membrane">VFLFGFSTAVVTL</span><span class="topo-outside">IEDGKYNSL</span><span class="topo-unknown">YSTCLELFKFTIGMGDL</span><span class="topo-outside">EFTENYDFKA</span><span class="topo-membrane">VFIILLLAYVILTYILLLNMLIALMG</span><span class="topo-inside">ETVNKIAQE</span><span class="topo-unknown">SKNIWKLQRAITILDTEKSF</span><span class="topo-inside">LKCMRKAFRSGKLLQV</span></span>
+<span class="topo-ruler">       610       620       630      </span>
 <span class="topo-line"><span class="topo-inside">GFTPDGKDDYRWCFRVDEVNWTT</span><span class="topo-unknown">WNTNVGIINEDPG</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -385,6 +390,7 @@ Human Protease-Activated Receptor 2 (PAR2) is a class A G protein-coupled recept
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -400,17 +406,19 @@ Human Protease-Activated Receptor 2 (PAR2) is a class A G protein-coupled recept
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">AMGSRLYDRRSIFDAVAQSNCQELESLLPFLQRSKKRLTDSEFKDPETGKTCLLKAMLNL</span></span>
-<span class="topo-line"><span class="topo-unknown">HNGQNDTIALLLDVARKTDSLKQFVNASYTDSYYKGQTALHIAIERRNMTLVTLLVENGA</span></span>
-<span class="topo-line"><span class="topo-unknown">DVQAAANGDFFKKTKGRPGFYFGELPLSLAACTNQLAIVKFLLQNSWQPADISARDSVGN</span></span>
-<span class="topo-line"><span class="topo-unknown">TVLHALVEVADNTVDNTKFVTSMYNEILILGAKLHPTLKLEEITNRKGL</span><span class="topo-inside">TPLALAASSGK</span></span>
-<span class="topo-line"><span class="topo-inside">IGVLAYILQREIHEPECRHLSRKFTEWAYGPVHSSLYDLSCIDTCEKNSVLEVIAYSSSE</span></span>
-<span class="topo-line"><span class="topo-inside">TPNRHDMLLVEPLNRLLQDKWDRFVKRI</span><span class="topo-membrane">FYFNFFVYCLYMIIFTAAAY</span><span class="topo-outside">YRPVEGLPPYKL</span></span>
-<span class="topo-line"><span class="topo-outside">KNTVGDYF</span><span class="topo-membrane">RVTGEILSVSGGVYFFFRGIQYFL</span><span class="topo-inside">QRRPSLKSLFVDS</span><span class="topo-membrane">YSEILFFVQSLFMLV</span></span>
-<span class="topo-line"><span class="topo-membrane">SVVLYF</span><span class="topo-outside">SQRKE</span><span class="topo-membrane">YVASMVFSLAMGWTNMLYYTR</span><span class="topo-inside">GFQQMGIY</span><span class="topo-membrane">AVMIEKMILRDLCRFMFVYL</span></span>
-<span class="topo-line"><span class="topo-membrane">VFLFGFSTAVVTL</span><span class="topo-outside">IEDGKYNSL</span><span class="topo-unknown">YSTCLELFKFTIGMGDL</span><span class="topo-outside">EFTENYDFKA</span><span class="topo-membrane">VFIILLLAYVI</span></span>
-<span class="topo-line"><span class="topo-membrane">LTYILLLNMLIALMG</span><span class="topo-inside">ETVNKIAQE</span><span class="topo-unknown">SKNIWKLQRAITILDTEKSF</span><span class="topo-inside">LKCMRKAFRSGKLLQV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">AMGSRLYDRRSIFDAVAQSNCQELESLLPFLQRSKKRLTDSEFKDPETGKTCLLKAMLNLHNGQNDTIALLLDVARKTDSLKQFVNASYTDSYYKGQTALHIAIERRNMTLVTLLVENGA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-unknown">DVQAAANGDFFKKTKGRPGFYFGELPLSLAACTNQLAIVKFLLQNSWQPADISARDSVGNTVLHALVEVADNTVDNTKFVTSMYNEILILGAKLHPTLKLEEITNRKGL</span><span class="topo-inside">TPLALAASSGK</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">IGVLAYILQREIHEPECRHLSRKFTEWAYGPVHSSLYDLSCIDTCEKNSVLEVIAYSSSETPNRHDMLLVEPLNRLLQDKWDRFVKRI</span><span class="topo-membrane">FYFNFFVYCLYMIIFTAAAY</span><span class="topo-outside">YRPVEGLPPYKL</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">KNTVGDYF</span><span class="topo-membrane">RVTGEILSVSGGVYFFFRGIQYFL</span><span class="topo-inside">QRRPSLKSLFVDS</span><span class="topo-membrane">YSEILFFVQSLFMLVSVVLYF</span><span class="topo-outside">SQRKE</span><span class="topo-membrane">YVASMVFSLAMGWTNMLYYTR</span><span class="topo-inside">GFQQMGIY</span><span class="topo-membrane">AVMIEKMILRDLCRFMFVYL</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-membrane">VFLFGFSTAVVTL</span><span class="topo-outside">IEDGKYNSL</span><span class="topo-unknown">YSTCLELFKFTIGMGDL</span><span class="topo-outside">EFTENYDFKA</span><span class="topo-membrane">VFIILLLAYVILTYILLLNMLIALMG</span><span class="topo-inside">ETVNKIAQE</span><span class="topo-unknown">SKNIWKLQRAITILDTEKSF</span><span class="topo-inside">LKCMRKAFRSGKLLQV</span></span>
+<span class="topo-ruler">       610       620       630      </span>
 <span class="topo-line"><span class="topo-inside">GFTPDGKDDYRWCFRVDEVNWTT</span><span class="topo-unknown">WNTNVGIINEDPG</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -541,6 +549,7 @@ Human Protease-Activated Receptor 2 (PAR2) is a class A G protein-coupled recept
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -556,17 +565,19 @@ Human Protease-Activated Receptor 2 (PAR2) is a class A G protein-coupled recept
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">AMGSRLYDRRSIFDAVAQSNCQELESLLPFLQRSKKRLTDSEFKDPETGKTCLLKAMLNL</span></span>
-<span class="topo-line"><span class="topo-unknown">HNGQNDTIALLLDVARKTDSLKQFVNASYTDSYYKGQTALHIAIERRNMTLVTLLVENGA</span></span>
-<span class="topo-line"><span class="topo-unknown">DVQAAANGDFFKKTKGRPGFYFGELPLSLAACTNQLAIVKFLLQNSWQPADISARDSVGN</span></span>
-<span class="topo-line"><span class="topo-unknown">TVLHALVEVADNTVDNTKFVTSMYNEILILGAKLHPTLKLEEITNRKGL</span><span class="topo-inside">TPLALAASSGK</span></span>
-<span class="topo-line"><span class="topo-inside">IGVLAYILQREIHEPECRHLSRKFTEWAYGPVHSSLYDLSCIDTCEKNSVLEVIAYSSSE</span></span>
-<span class="topo-line"><span class="topo-inside">TPNRHDMLLVEPLNRLLQDKWDRFVKRIF</span><span class="topo-membrane">YFNFFVYCLYMIIFTAAAYY</span><span class="topo-outside">RPVEGLPPYKL</span></span>
-<span class="topo-line"><span class="topo-outside">KNTVGDY</span><span class="topo-membrane">FRVTGEILSVSGGVYFFFRGIQYFL</span><span class="topo-inside">QRRPSLKSLFVDS</span><span class="topo-membrane">YSEILFFVQSLFMLV</span></span>
-<span class="topo-line"><span class="topo-membrane">SVVLYFS</span><span class="topo-outside">QRKE</span><span class="topo-membrane">YVASMVFSLAMGWTNMLYYTR</span><span class="topo-inside">GFQQMGIY</span><span class="topo-membrane">AVMIEKMILRDLCRFMFVYL</span></span>
-<span class="topo-line"><span class="topo-membrane">VFLFGFSTAVVTL</span><span class="topo-outside">IEDGKYNSL</span><span class="topo-unknown">YSTCLELFKFTIGMGDL</span><span class="topo-outside">EFTENYDFKA</span><span class="topo-membrane">VFIILLLAYVI</span></span>
-<span class="topo-line"><span class="topo-membrane">LTYILLLNMLIALMG</span><span class="topo-inside">ETVNKIAQE</span><span class="topo-unknown">SKNIWKLQRAITILDTEKSF</span><span class="topo-inside">LKCMRKAFRSGKLLQV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">AMGSRLYDRRSIFDAVAQSNCQELESLLPFLQRSKKRLTDSEFKDPETGKTCLLKAMLNLHNGQNDTIALLLDVARKTDSLKQFVNASYTDSYYKGQTALHIAIERRNMTLVTLLVENGA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-unknown">DVQAAANGDFFKKTKGRPGFYFGELPLSLAACTNQLAIVKFLLQNSWQPADISARDSVGNTVLHALVEVADNTVDNTKFVTSMYNEILILGAKLHPTLKLEEITNRKGL</span><span class="topo-inside">TPLALAASSGK</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">IGVLAYILQREIHEPECRHLSRKFTEWAYGPVHSSLYDLSCIDTCEKNSVLEVIAYSSSETPNRHDMLLVEPLNRLLQDKWDRFVKRIF</span><span class="topo-membrane">YFNFFVYCLYMIIFTAAAYY</span><span class="topo-outside">RPVEGLPPYKL</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">KNTVGDY</span><span class="topo-membrane">FRVTGEILSVSGGVYFFFRGIQYFL</span><span class="topo-inside">QRRPSLKSLFVDS</span><span class="topo-membrane">YSEILFFVQSLFMLVSVVLYFS</span><span class="topo-outside">QRKE</span><span class="topo-membrane">YVASMVFSLAMGWTNMLYYTR</span><span class="topo-inside">GFQQMGIY</span><span class="topo-membrane">AVMIEKMILRDLCRFMFVYL</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-membrane">VFLFGFSTAVVTL</span><span class="topo-outside">IEDGKYNSL</span><span class="topo-unknown">YSTCLELFKFTIGMGDL</span><span class="topo-outside">EFTENYDFKA</span><span class="topo-membrane">VFIILLLAYVILTYILLLNMLIALMG</span><span class="topo-inside">ETVNKIAQE</span><span class="topo-unknown">SKNIWKLQRAITILDTEKSF</span><span class="topo-inside">LKCMRKAFRSGKLLQV</span></span>
+<span class="topo-ruler">       610       620       630      </span>
 <span class="topo-line"><span class="topo-inside">GFTPDGKDDYRWCFRVDEVNWTT</span><span class="topo-unknown">WNTNVGIINEDPG</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -697,6 +708,7 @@ Human Protease-Activated Receptor 2 (PAR2) is a class A G protein-coupled recept
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -712,8 +724,9 @@ Human Protease-Activated Receptor 2 (PAR2) is a class A G protein-coupled recept
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">DCAKEGEVCSWGKKCCDLDNFYCPMEFIPHCKKYKPYVPVTTNCAKEGEVCGWGSKCCHG</span></span>
-<span class="topo-line"><span class="topo-outside">LDCPLAFIPYCEKYR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70     </span>
+<span class="topo-line"><span class="topo-outside">DCAKEGEVCSWGKKCCDLDNFYCPMEFIPHCKKYKPYVPVTTNCAKEGEVCGWGSKCCHGLDCPLAFIPYCEKYR</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -732,6 +745,7 @@ Human Protease-Activated Receptor 2 (PAR2) is a class A G protein-coupled recept
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -747,8 +761,9 @@ Human Protease-Activated Receptor 2 (PAR2) is a class A G protein-coupled recept
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">DCAKEGEVCSWGKKCCDLDNFYCPMEFIPHCKKYKPYVPVTTNCAKEGEVCGWGSKCCHG</span></span>
-<span class="topo-line"><span class="topo-outside">LDCPLAFIPYCEKYR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70     </span>
+<span class="topo-line"><span class="topo-outside">DCAKEGEVCSWGKKCCDLDNFYCPMEFIPHCKKYKPYVPVTTNCAKEGEVCGWGSKCCHGLDCPLAFIPYCEKYR</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -767,6 +782,7 @@ Human Protease-Activated Receptor 2 (PAR2) is a class A G protein-coupled recept
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

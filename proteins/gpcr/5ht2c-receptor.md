@@ -17,51 +17,11 @@ verified: false
 The 5-HT2C [Serotonin (5-Hydroxytryptamine, 5-HT)](/xray-mp-wiki/reagents/ligands/serotonin/) receptor is a class A G protein-coupled receptor (GPCR) and a validated therapeutic target for anti-obesity medications (e.g., lorcaserin/Belviq), as well as a potential target for depression, schizophrenia, and drug addiction. The 5-HT2C receptor exhibits several RNA-edited isoforms, where the non-edited INI isoform displays high constitutive activity. Crystal structures of the 5-HT2C INI isoform were determined in complex with the polypharmacological agonist [ERG](/xray-mp-wiki/reagents/ligands/ergotamine/) (ERG) at 2.7 Å (PDB: 6BQG) and the selective inverse agonist ritanserin (RIT) at 2.8 Å (PDB: 6BQH), revealing the structural basis of GPCR polypharmacology. The structures reveal key differences in ligand binding modes, activation states, and microswitch conformations between the agonist-bound active-like state and the inverse agonist-bound inactive state.
 
 
-<<<<<<< HEAD
 ## Publications
 
 ### doi/10.1016##j.cell.2018.01.001
 
 **Structures:**
-=======
-## Structure Determination
-
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1016##j.cell.2018.01.001 | 6BQG | 2.7 | unknown | Human 5-HT2C INI isoform with thermostabilizing mutations, expressed in Sf9 insect cells, purified in [DDM](/xray-mp-wiki/reagents/detergents/ddm/)/CHS, crystallized in LCP, complexed with [ERG](/xray-mp-wiki/reagents/ligands/ergotamine/) (ERG) | [ERG](/xray-mp-wiki/reagents/ligands/ergotamine/) (ERG) — polypharmacological agonist |
-| doi/10.1016##j.cell.2018.01.001 | 6BQH | 2.8 | unknown | Human 5-HT2C INI isoform with thermostabilizing mutations, expressed in Sf9 insect cells, purified in [DDM](/xray-mp-wiki/reagents/detergents/ddm/)/CHS, crystallized in LCP, complexed with ritanserin (RIT) | Ritanserin (RIT) — selective inverse agonist |
-
-## Expression and Purification
-
-- **Expression system**: Sf9 insect cells (baculovirus expression system)
-- **Construct**: Human 5-HT2C INI isoform with thermostabilizing mutations. N-terminal HA signal sequence followed by FLAG tag, 10xHis tag, and TEV protease site.
-
-### Purification Workflow
-
-
-##### Steps
-
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Expression | Baculovirus infection of Sf9 insect cells | -- | -- + -- | Cells harvested 48 h post-infection |
-| Membrane preparation and solubilization | Dounce homogenization and ultracentrifugation | -- | 20 mM [HEPES Buffer](/xray-mp-wiki/reagents/buffers/hepes/) pH 7.5, 50 mM NaCl, 2 mM [EDTA](/xray-mp-wiki/reagents/additives/edta/), protease inhibitors + 1% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) (n-dodecyl-β-D-maltopyranoside) + 0.2% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) ([Cholesterol](/xray-mp-wiki/reagents/lipids/cholesterol/) hemisuccinate) | Membranes solubilized for 2 h at 4°C |
-| TALON IMAC affinity purification | Immobilized metal [affinity chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | [TALON Cobalt Affinity Resin](/xray-mp-wiki/reagents/additives/talon/) IMAC resin (Clontech) | 20 mM [HEPES Buffer](/xray-mp-wiki/reagents/buffers/hepes/) pH 7.5, 500 mM NaCl, 10% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/), 0.1% [DDM](/xray-mp-wiki/reagents/detergents/ddm/)/0.02% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 20 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/); elution with 200 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) + 0.1% [DDM](/xray-mp-wiki/reagents/detergents/ddm/)/0.02% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | Receptor eluted and concentrated |
-| TEV protease cleavage and FLAG purification | [TEV](/xray-mp-wiki/reagents/enzymes/tev-protease/) cleavage followed by [FLAG](/xray-mp-wiki/reagents/protein-tags/flag-tag/) [affinity chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | Anti-[FLAG](/xray-mp-wiki/reagents/protein-tags/flag-tag/) M1 agarose resin (Sigma) | 20 mM [HEPES Buffer](/xray-mp-wiki/reagents/buffers/hepes/) pH 7.5, 500 mM NaCl, 10% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/), 0.1% [DDM](/xray-mp-wiki/reagents/detergents/ddm/)/0.02% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) + 0.1% [DDM](/xray-mp-wiki/reagents/detergents/ddm/)/0.02% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | [FLAG](/xray-mp-wiki/reagents/protein-tags/flag-tag/) tag cleaved, receptor concentrated to ~30 mg/mL for crystallization |
-
-
-## Crystallization
-
-### doi/10.1016##j.cell.2018.01.001
-
-| Parameter | Value |
-|---|---|
-| Method | [LCP](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) (LCP) |
-| Protein sample | Purified 5-HT2C at ~30 mg/mL in [DDM](/xray-mp-wiki/reagents/detergents/ddm/)/[CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), reconstituted into [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/)/[Cholesterol](/xray-mp-wiki/reagents/lipids/cholesterol/) (9:1) [LCP](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) |
-| Temperature | 20 |
-| Growth time | Not specified |
-| Cryoprotection | Not specified |
-| Notes | Crystals harvested and flash-cooled in liquid nitrogen. Data collected at SSRF beamline BL17U1 (Shanghai) or APS GM/CA-CAT. Structure solved by molecular replacement using 5-HT2B receptor (PDB: 4IB4) as search model. |
->>>>>>> d0e2c437136bdf2885afc6a99e0a9d4117821696
 
 <table class="wiki-table">
   <thead><tr>
@@ -180,14 +140,15 @@ The 5-HT2C [Serotonin (5-Hydroxytryptamine, 5-HT)](/xray-mp-wiki/reagents/ligand
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MKTIIALSYIFCLVFADYKDDDDGAPTSD</span><span class="topo-outside">GGRFKFPDGVQNWP</span><span class="topo-membrane">ALSIVIIIIMTIGGNIL</span></span>
-<span class="topo-line"><span class="topo-membrane">VIMAVSM</span><span class="topo-inside">EKKLHNAT</span><span class="topo-membrane">NYFLMSLAIADMLVGLLVMPLSLL</span><span class="topo-outside">AILYDYVWPLPRYLC</span><span class="topo-membrane">PVWISL</span></span>
-<span class="topo-line"><span class="topo-membrane">DVLFSTASIMHLCAISLD</span><span class="topo-inside">RYVAIRNPIEH</span><span class="topo-unknown">SRF</span><span class="topo-inside">NSRT</span><span class="topo-membrane">KAIMKIAIVWAISIGVSVPIPVI</span><span class="topo-outside">G</span></span>
-<span class="topo-line"><span class="topo-outside">LRDEEKVFVNNTTCVLND</span><span class="topo-membrane">PNFVLIGSFVAFFIPLTIMVITYC</span><span class="topo-inside">LTIYVLRRQAADLEDNWE</span></span>
-<span class="topo-line"><span class="topo-inside">TLNDNLKVIEKADNAAQVKDALTKMRAAALDAQKA</span><span class="topo-unknown">TPPKLEDKSPDSPE</span><span class="topo-inside">MKDFRHGFDIL</span></span>
-<span class="topo-line"><span class="topo-inside">VGQIDDALKLANEGKVKEAQAAAEQLKTTRNAYIQKYLQAINNERKASKV</span><span class="topo-membrane">LGIVFFVFLI</span></span>
-<span class="topo-line"><span class="topo-membrane">MWCPFFITNILSVLC</span><span class="topo-outside">EKSCNQKL</span><span class="topo-membrane">MEKLLNVFVWIGYVNSGINPLVYTLF</span><span class="topo-inside">NKIYRRAFSNY</span></span>
-<span class="topo-line"><span class="topo-inside">LRCN</span><span class="topo-unknown">YKVEKKPGRPLEVLFQGPHHHHHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MKTIIALSYIFCLVFADYKDDDDGAPTSD</span><span class="topo-outside">GGRFKFPDGVQNWP</span><span class="topo-membrane">ALSIVIIIIMTIGGNILVIMAVSM</span><span class="topo-inside">EKKLHNAT</span><span class="topo-membrane">NYFLMSLAIADMLVGLLVMPLSLL</span><span class="topo-outside">AILYDYVWPLPRYLC</span><span class="topo-membrane">PVWISL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">DVLFSTASIMHLCAISLD</span><span class="topo-inside">RYVAIRNPIEH</span><span class="topo-unknown">SRF</span><span class="topo-inside">NSRT</span><span class="topo-membrane">KAIMKIAIVWAISIGVSVPIPVI</span><span class="topo-outside">GLRDEEKVFVNNTTCVLND</span><span class="topo-membrane">PNFVLIGSFVAFFIPLTIMVITYC</span><span class="topo-inside">LTIYVLRRQAADLEDNWE</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">TLNDNLKVIEKADNAAQVKDALTKMRAAALDAQKA</span><span class="topo-unknown">TPPKLEDKSPDSPE</span><span class="topo-inside">MKDFRHGFDILVGQIDDALKLANEGKVKEAQAAAEQLKTTRNAYIQKYLQAINNERKASKV</span><span class="topo-membrane">LGIVFFVFLI</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450  </span>
+<span class="topo-line"><span class="topo-membrane">MWCPFFITNILSVLC</span><span class="topo-outside">EKSCNQKL</span><span class="topo-membrane">MEKLLNVFVWIGYVNSGINPLVYTLF</span><span class="topo-inside">NKIYRRAFSNYLRCN</span><span class="topo-unknown">YKVEKKPGRPLEVLFQGPHHHHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (23 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -360,6 +321,7 @@ The 5-HT2C [Serotonin (5-Hydroxytryptamine, 5-HT)](/xray-mp-wiki/reagents/ligand
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -375,14 +337,15 @@ The 5-HT2C [Serotonin (5-Hydroxytryptamine, 5-HT)](/xray-mp-wiki/reagents/ligand
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MKTIIALSYIFCLVFADYKDDDDGAPTSDGGR</span><span class="topo-outside">FKFPDGVQNW</span><span class="topo-membrane">PALSIVIIIIMTIGGNIL</span></span>
-<span class="topo-line"><span class="topo-membrane">VIMA</span><span class="topo-inside">VSMEKKLHNATNY</span><span class="topo-membrane">FLMSLAIADMLVGLLVMPLSLLAIL</span><span class="topo-outside">YDYVWPLPRY</span><span class="topo-membrane">LCPVWISL</span></span>
-<span class="topo-line"><span class="topo-membrane">DVLFSTASIMHLCAISL</span><span class="topo-inside">DRYVAIRNPIEHSRFNSRTKAI</span><span class="topo-membrane">MKIAIVWAISIGVSVPIPVIG</span></span>
-<span class="topo-line"><span class="topo-membrane">LR</span><span class="topo-outside">DEEKVFVNNTTC</span><span class="topo-membrane">VLNDPNFVLIGSFVAFFIPLTIMVITYC</span><span class="topo-inside">LTIYVLRRQAADLEDNWE</span></span>
-<span class="topo-line"><span class="topo-inside">TLNDNLKVIEKA</span><span class="topo-unknown">DNAAQ</span><span class="topo-inside">VKDALTKMRAAALDAQKAT</span><span class="topo-unknown">PPKLEDKSPDSPE</span><span class="topo-inside">MKDFRHGFDIL</span></span>
-<span class="topo-line"><span class="topo-unknown">VGQIDDALKLANEGKVKEAQAAAE</span><span class="topo-inside">QLKTTRNAYIQKYLQAINNERKASKV</span><span class="topo-membrane">LGIVFFVFLI</span></span>
-<span class="topo-line"><span class="topo-membrane">MWCPFFITNILSVLCE</span><span class="topo-outside">KSCNQKL</span><span class="topo-membrane">MEKLLNVFVWIGYVNSGINPLVYTL</span><span class="topo-inside">FNKIYRRAFSNY</span></span>
-<span class="topo-line"><span class="topo-inside">LRCNY</span><span class="topo-unknown">KVEKKPGRPLEVLFQGPHHHHHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MKTIIALSYIFCLVFADYKDDDDGAPTSDGGR</span><span class="topo-outside">FKFPDGVQNW</span><span class="topo-membrane">PALSIVIIIIMTIGGNILVIMA</span><span class="topo-inside">VSMEKKLHNATNY</span><span class="topo-membrane">FLMSLAIADMLVGLLVMPLSLLAIL</span><span class="topo-outside">YDYVWPLPRY</span><span class="topo-membrane">LCPVWISL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">DVLFSTASIMHLCAISL</span><span class="topo-inside">DRYVAIRNPIEHSRFNSRTKAI</span><span class="topo-membrane">MKIAIVWAISIGVSVPIPVIGLR</span><span class="topo-outside">DEEKVFVNNTTC</span><span class="topo-membrane">VLNDPNFVLIGSFVAFFIPLTIMVITYC</span><span class="topo-inside">LTIYVLRRQAADLEDNWE</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">TLNDNLKVIEKA</span><span class="topo-unknown">DNAAQ</span><span class="topo-inside">VKDALTKMRAAALDAQKAT</span><span class="topo-unknown">PPKLEDKSPDSPE</span><span class="topo-inside">MKDFRHGFDIL</span><span class="topo-unknown">VGQIDDALKLANEGKVKEAQAAAE</span><span class="topo-inside">QLKTTRNAYIQKYLQAINNERKASKV</span><span class="topo-membrane">LGIVFFVFLI</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450  </span>
+<span class="topo-line"><span class="topo-membrane">MWCPFFITNILSVLCE</span><span class="topo-outside">KSCNQKL</span><span class="topo-membrane">MEKLLNVFVWIGYVNSGINPLVYTL</span><span class="topo-inside">FNKIYRRAFSNYLRCNY</span><span class="topo-unknown">KVEKKPGRPLEVLFQGPHHHHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (25 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -569,6 +532,7 @@ The 5-HT2C [Serotonin (5-Hydroxytryptamine, 5-HT)](/xray-mp-wiki/reagents/ligand
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

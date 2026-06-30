@@ -115,15 +115,17 @@ The F1Fo-ATP synthase from the strictly aerobic yeast Yarrowia lipolytica is a r
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MFKNALRRAGVAAPRISRVAQRGYAEAKATPTEVTSILEERIRGVSGE</span><span class="topo-inside">ANLNETGRVLSV</span></span>
-<span class="topo-line"><span class="topo-inside">GDGIARVFGLNNIQAEELVEFASGVKGMALNLEAGQVGIVLFGSDRLVKEGETVKRSGSI</span></span>
-<span class="topo-line"><span class="topo-inside">VDVPVGPALLGRVVDALGNPIDGKGPIETEFRIRAQVKAPGILPRTSVNEPMQTGLKAVD</span></span>
-<span class="topo-line"><span class="topo-inside">ALVPIGRGQRELIIGDRQTGKTQIAIDTILNQKRWNYGQDEKKKLYCVYVAVGQKRSTVA</span></span>
-<span class="topo-line"><span class="topo-inside">QLVQTLEHHDALKYSIIVAATASEAAPLQYLAPFTGTAMGEWFRDNGKGALIVFDDLSKQ</span></span>
-<span class="topo-line"><span class="topo-inside">AVAYRQMSLLLRRPPGREAYPGDVFYLHSRLLERAAKMNEREGGGSLTALPIIETQGGDV</span></span>
-<span class="topo-line"><span class="topo-inside">SAYIPTNVISITDGQIFLEAELFYKGIRPAINVGLSVSRVGSAAQVKAMKQVAGSLKLFL</span></span>
-<span class="topo-line"><span class="topo-inside">AQYREVAAFAQFGSDLDASTKQTLTRGERLTLLLKQKQASPMSSEEMVPLIYAGVNGYID</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MFKNALRRAGVAAPRISRVAQRGYAEAKATPTEVTSILEERIRGVSGE</span><span class="topo-inside">ANLNETGRVLSVGDGIARVFGLNNIQAEELVEFASGVKGMALNLEAGQVGIVLFGSDRLVKEGETVKRSGSI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">VDVPVGPALLGRVVDALGNPIDGKGPIETEFRIRAQVKAPGILPRTSVNEPMQTGLKAVDALVPIGRGQRELIIGDRQTGKTQIAIDTILNQKRWNYGQDEKKKLYCVYVAVGQKRSTVA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">QLVQTLEHHDALKYSIIVAATASEAAPLQYLAPFTGTAMGEWFRDNGKGALIVFDDLSKQAVAYRQMSLLLRRPPGREAYPGDVFYLHSRLLERAAKMNEREGGGSLTALPIIETQGGDV</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">SAYIPTNVISITDGQIFLEAELFYKGIRPAINVGLSVSRVGSAAQVKAMKQVAGSLKLFLAQYREVAAFAQFGSDLDASTKQTLTRGERLTLLLKQKQASPMSSEEMVPLIYAGVNGYID</span></span>
+<span class="topo-ruler">       490       500       510       520       530      </span>
 <span class="topo-line"><span class="topo-inside">NIPVKQVEKFEAEFVSYLHANESDLLKDIAATGELSKENLEKLKSITENFVGS</span><span class="topo-unknown">FAK</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -156,6 +158,7 @@ The F1Fo-ATP synthase from the strictly aerobic yeast Yarrowia lipolytica is a r
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -171,15 +174,17 @@ The F1Fo-ATP synthase from the strictly aerobic yeast Yarrowia lipolytica is a r
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MFKNALRRAGVAAPRISRVAQRGYAEAKATPTEVTSILEERIRGVSGE</span><span class="topo-inside">ANLNETGRVLSV</span></span>
-<span class="topo-line"><span class="topo-inside">GDGIARVFGLNNIQAEELVEFASGVKGMALNLEAGQVGIVLFGSDRLVKEGETVKRSGSI</span></span>
-<span class="topo-line"><span class="topo-inside">VDVPVGPALLGRVVDALGNPIDGKGPIETEFRIRAQVKAPGILPRTSVNEPMQTGLKAVD</span></span>
-<span class="topo-line"><span class="topo-inside">ALVPIGRGQRELIIGDRQTGKTQIAIDTILNQKRWNYGQDEKKKLYCVYVAVGQKRSTVA</span></span>
-<span class="topo-line"><span class="topo-inside">QLVQTLEHHDALKYSIIVAATASEAAPLQYLAPFTGTAMGEWFRDNGKGALIVFDDLSKQ</span></span>
-<span class="topo-line"><span class="topo-inside">AVAYRQMSLLLRRPPGREAYPGDVFYLHSRLLERAAKMNEREGGGSLTALPIIETQGGDV</span></span>
-<span class="topo-line"><span class="topo-inside">SAYIPTNVISITDGQIFLEAELFYKGIRPAINVGLSVSRVGSAAQVKAMKQVAGSLKLFL</span></span>
-<span class="topo-line"><span class="topo-inside">AQYREVAA</span><span class="topo-unknown">FAQFGS</span><span class="topo-inside">DLDASTKQTLTRGERLTLLLKQKQASPMSSEEMVPLIYAGVNGYID</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MFKNALRRAGVAAPRISRVAQRGYAEAKATPTEVTSILEERIRGVSGE</span><span class="topo-inside">ANLNETGRVLSVGDGIARVFGLNNIQAEELVEFASGVKGMALNLEAGQVGIVLFGSDRLVKEGETVKRSGSI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">VDVPVGPALLGRVVDALGNPIDGKGPIETEFRIRAQVKAPGILPRTSVNEPMQTGLKAVDALVPIGRGQRELIIGDRQTGKTQIAIDTILNQKRWNYGQDEKKKLYCVYVAVGQKRSTVA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">QLVQTLEHHDALKYSIIVAATASEAAPLQYLAPFTGTAMGEWFRDNGKGALIVFDDLSKQAVAYRQMSLLLRRPPGREAYPGDVFYLHSRLLERAAKMNEREGGGSLTALPIIETQGGDV</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">SAYIPTNVISITDGQIFLEAELFYKGIRPAINVGLSVSRVGSAAQVKAMKQVAGSLKLFLAQYREVAA</span><span class="topo-unknown">FAQFGS</span><span class="topo-inside">DLDASTKQTLTRGERLTLLLKQKQASPMSSEEMVPLIYAGVNGYID</span></span>
+<span class="topo-ruler">       490       500       510       520       530      </span>
 <span class="topo-line"><span class="topo-inside">NIPVKQVEKFEAEFVSYLHANESDLLKDIAATGELSKENLEKLKSITENFVGS</span><span class="topo-unknown">FAK</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -226,6 +231,7 @@ The F1Fo-ATP synthase from the strictly aerobic yeast Yarrowia lipolytica is a r
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -241,15 +247,17 @@ The F1Fo-ATP synthase from the strictly aerobic yeast Yarrowia lipolytica is a r
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MFKNALRRAGVAAPRISRVAQRGYAEAKATPTEVTSILEERIRGVSGE</span><span class="topo-inside">ANLNETGRVLSV</span></span>
-<span class="topo-line"><span class="topo-inside">GDGIARVFGLNNIQAEELVEFASGVKGMALNLEAGQVGIVLFGSDRLVKEGETVKRSGSI</span></span>
-<span class="topo-line"><span class="topo-inside">VDVPVGPALLGRVVDALGNPIDGKGPIETEFRIRAQVKAPGILPRTSVNEPMQTGLKAVD</span></span>
-<span class="topo-line"><span class="topo-inside">ALVPIGRGQRELIIGDRQTGKTQIAIDTILNQKRWNYGQDEKKKLYCVYVAVGQKRSTVA</span></span>
-<span class="topo-line"><span class="topo-inside">QLVQTLEHHDALKYSIIVAATASEAAPLQYLAPFTGTAMGEWFRDNGKGALIVFDDLSKQ</span></span>
-<span class="topo-line"><span class="topo-inside">AVAYRQMSLLLRRPPGREAYPGDVFYLHSRLLERAAKMNEREGGGSLTALPIIETQGGDV</span></span>
-<span class="topo-line"><span class="topo-inside">SAYIPTNVISITDGQIFLEAELFYKGIRPAINVGLSVSRVGSAAQVKAMKQVAGSLKLFL</span></span>
-<span class="topo-line"><span class="topo-inside">AQYREVAAFAQFGSDLDASTKQTLTRGERLTLLLKQKQASPMSSEEMVPLIYAGVNGYID</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MFKNALRRAGVAAPRISRVAQRGYAEAKATPTEVTSILEERIRGVSGE</span><span class="topo-inside">ANLNETGRVLSVGDGIARVFGLNNIQAEELVEFASGVKGMALNLEAGQVGIVLFGSDRLVKEGETVKRSGSI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">VDVPVGPALLGRVVDALGNPIDGKGPIETEFRIRAQVKAPGILPRTSVNEPMQTGLKAVDALVPIGRGQRELIIGDRQTGKTQIAIDTILNQKRWNYGQDEKKKLYCVYVAVGQKRSTVA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">QLVQTLEHHDALKYSIIVAATASEAAPLQYLAPFTGTAMGEWFRDNGKGALIVFDDLSKQAVAYRQMSLLLRRPPGREAYPGDVFYLHSRLLERAAKMNEREGGGSLTALPIIETQGGDV</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">SAYIPTNVISITDGQIFLEAELFYKGIRPAINVGLSVSRVGSAAQVKAMKQVAGSLKLFLAQYREVAAFAQFGSDLDASTKQTLTRGERLTLLLKQKQASPMSSEEMVPLIYAGVNGYID</span></span>
+<span class="topo-ruler">       490       500       510       520       530      </span>
 <span class="topo-line"><span class="topo-inside">NIPVKQVEKFEAEFVSYLHANESDLLKDIAATGELSKENLEKLKSITENFVGS</span><span class="topo-unknown">FAK</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -282,6 +290,7 @@ The F1Fo-ATP synthase from the strictly aerobic yeast Yarrowia lipolytica is a r
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -297,15 +306,17 @@ The F1Fo-ATP synthase from the strictly aerobic yeast Yarrowia lipolytica is a r
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MVLPRLIPRLSRSAFKVAQANNRVFNAPFRGMASSA</span><span class="topo-inside">GVGSGKIRTVIGAVVDVQFEQDNL</span></span>
-<span class="topo-line"><span class="topo-inside">PAILNALTIDRGEGNKLVLEVAQHLGENTVRTIAMDGTEGLVRGTSVADTGAPITIPVGR</span></span>
-<span class="topo-line"><span class="topo-inside">GTLGRIINVCGEPIDERGPIEATKFLPIHADPPTFAEQSTTAEVLETGIKVVDLLAPYAR</span></span>
-<span class="topo-line"><span class="topo-inside">GGKIGLFGGAGVGKTVFIQELINNIAKAHGGFSVFCGVGERTREGNDLYREMKETGVINL</span></span>
-<span class="topo-line"><span class="topo-inside">EGESKVTLVFGQMNEPPGARARVALTGLTIAEYFRDEEGQDVLLFVDNIFRFTQAGSEVS</span></span>
-<span class="topo-line"><span class="topo-inside">ALLGRIPSAVGYQPTLATDMGALQERITTTQKGSVTSVQAVYVPADDLTDPAPATTFAHL</span></span>
-<span class="topo-line"><span class="topo-inside">DATTVLSRGISELGIYPAVDPLDSKSRLLDIDVVGQEHYDVASNVQQTLQAYKSLQDIIA</span></span>
-<span class="topo-line"><span class="topo-inside">ILGMDELSEQDKLTVERARKIQRFLSQPFTVAEVFTGIEGRLVSLKDTVRSFKEILDGKH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MVLPRLIPRLSRSAFKVAQANNRVFNAPFRGMASSA</span><span class="topo-inside">GVGSGKIRTVIGAVVDVQFEQDNLPAILNALTIDRGEGNKLVLEVAQHLGENTVRTIAMDGTEGLVRGTSVADTGAPITIPVGR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">GTLGRIINVCGEPIDERGPIEATKFLPIHADPPTFAEQSTTAEVLETGIKVVDLLAPYARGGKIGLFGGAGVGKTVFIQELINNIAKAHGGFSVFCGVGERTREGNDLYREMKETGVINL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">EGESKVTLVFGQMNEPPGARARVALTGLTIAEYFRDEEGQDVLLFVDNIFRFTQAGSEVSALLGRIPSAVGYQPTLATDMGALQERITTTQKGSVTSVQAVYVPADDLTDPAPATTFAHL</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">DATTVLSRGISELGIYPAVDPLDSKSRLLDIDVVGQEHYDVASNVQQTLQAYKSLQDIIAILGMDELSEQDKLTVERARKIQRFLSQPFTVAEVFTGIEGRLVSLKDTVRSFKEILDGKH</span></span>
+<span class="topo-ruler">       490       500         </span>
 <span class="topo-line"><span class="topo-inside">DALPEAAFYMVGGIEEVVAKAEKLAA</span><span class="topo-unknown">ESK</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -338,6 +349,7 @@ The F1Fo-ATP synthase from the strictly aerobic yeast Yarrowia lipolytica is a r
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -353,15 +365,17 @@ The F1Fo-ATP synthase from the strictly aerobic yeast Yarrowia lipolytica is a r
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MVLPRLIPRLSRSAFKVAQANNRVFNAPFRGMASSAGV</span><span class="topo-inside">GSGKIRTVIGAVVDVQFEQDNL</span></span>
-<span class="topo-line"><span class="topo-inside">PAILNALTIDRGEGNKLVLEVAQHLGENTVRTIAMDGTEGLVRGTSVADTGAPITIPVGR</span></span>
-<span class="topo-line"><span class="topo-inside">GTLGRIINVCGEPIDERGPIEATKFLPIHADPPTFAEQSTTAEVLETGIKVVDLLAPYAR</span></span>
-<span class="topo-line"><span class="topo-inside">GGKIGLFGGAGVGKTVFIQELINNIAKAHGGFSVFCGVGERTREGNDLYREMKETGVINL</span></span>
-<span class="topo-line"><span class="topo-inside">EGESKVTLVFGQMNEPPGARARVALTGLTIAEYFRDEEGQDVLLFVDNIFRFTQAGSEVS</span></span>
-<span class="topo-line"><span class="topo-inside">ALLGRIPSAVGYQPTLATDMGALQERITTTQKGSVTSVQAVYVPADDLTDPAPATTFAHL</span></span>
-<span class="topo-line"><span class="topo-inside">DATTVLSRGISELGIYPAVDPLDSKSRLLDIDVVGQEHYDVASNVQQTLQAYKSLQDIIA</span></span>
-<span class="topo-line"><span class="topo-inside">ILGMDELSEQDKLTVERARKIQRFLSQPFTVAEVFTGIEGRLVSLKDTVRSFKEILDGKH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MVLPRLIPRLSRSAFKVAQANNRVFNAPFRGMASSAGV</span><span class="topo-inside">GSGKIRTVIGAVVDVQFEQDNLPAILNALTIDRGEGNKLVLEVAQHLGENTVRTIAMDGTEGLVRGTSVADTGAPITIPVGR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">GTLGRIINVCGEPIDERGPIEATKFLPIHADPPTFAEQSTTAEVLETGIKVVDLLAPYARGGKIGLFGGAGVGKTVFIQELINNIAKAHGGFSVFCGVGERTREGNDLYREMKETGVINL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">EGESKVTLVFGQMNEPPGARARVALTGLTIAEYFRDEEGQDVLLFVDNIFRFTQAGSEVSALLGRIPSAVGYQPTLATDMGALQERITTTQKGSVTSVQAVYVPADDLTDPAPATTFAHL</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">DATTVLSRGISELGIYPAVDPLDSKSRLLDIDVVGQEHYDVASNVQQTLQAYKSLQDIIAILGMDELSEQDKLTVERARKIQRFLSQPFTVAEVFTGIEGRLVSLKDTVRSFKEILDGKH</span></span>
+<span class="topo-ruler">       490       500         </span>
 <span class="topo-line"><span class="topo-inside">DALPEAAFYMVGGIEEVVAKAEKLAA</span><span class="topo-unknown">ESK</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -394,6 +408,7 @@ The F1Fo-ATP synthase from the strictly aerobic yeast Yarrowia lipolytica is a r
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -409,15 +424,17 @@ The F1Fo-ATP synthase from the strictly aerobic yeast Yarrowia lipolytica is a r
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MVLPRLIPRLSRSAFKVAQANNRVFNAPFRGMASSA</span><span class="topo-inside">GVGSGKIRTVIGAVVDVQFEQDNL</span></span>
-<span class="topo-line"><span class="topo-inside">PAILNALTIDRGEGNKLVLEVAQHLGENTVRTIAMDGTEGLVRGTSVADTGAPITIPVGR</span></span>
-<span class="topo-line"><span class="topo-inside">GTLGRIINVCGEPIDERGPIEATKFLPIHADPPTFAEQSTTAEVLETGIKVVDLLAPYAR</span></span>
-<span class="topo-line"><span class="topo-inside">GGKIGLFGGAGVGKTVFIQELINNIAKAHGGFSVFCGVGERTREGNDLYREMKETGVINL</span></span>
-<span class="topo-line"><span class="topo-inside">EGESKVTLVFGQMNEPPGARARVALTGLTIAEYFRDEEGQDVLLFVDNIFRFTQAGSEVS</span></span>
-<span class="topo-line"><span class="topo-inside">ALLGRIPSAVGYQPTLATDMGALQERITTTQKGSVTSVQAVYVPADDLTDPAPATTFAHL</span></span>
-<span class="topo-line"><span class="topo-inside">DATTVLSRGISELGIYPAVDPLDSKSRLLDIDVVGQEHYDVASNVQQTLQAYKSLQDIIA</span></span>
-<span class="topo-line"><span class="topo-inside">ILGMDELSEQDKLTVERARKIQRFLSQPFTVAEVFTGIEGRLVSLKDTVRSFKEILDGKH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MVLPRLIPRLSRSAFKVAQANNRVFNAPFRGMASSA</span><span class="topo-inside">GVGSGKIRTVIGAVVDVQFEQDNLPAILNALTIDRGEGNKLVLEVAQHLGENTVRTIAMDGTEGLVRGTSVADTGAPITIPVGR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">GTLGRIINVCGEPIDERGPIEATKFLPIHADPPTFAEQSTTAEVLETGIKVVDLLAPYARGGKIGLFGGAGVGKTVFIQELINNIAKAHGGFSVFCGVGERTREGNDLYREMKETGVINL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">EGESKVTLVFGQMNEPPGARARVALTGLTIAEYFRDEEGQDVLLFVDNIFRFTQAGSEVSALLGRIPSAVGYQPTLATDMGALQERITTTQKGSVTSVQAVYVPADDLTDPAPATTFAHL</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">DATTVLSRGISELGIYPAVDPLDSKSRLLDIDVVGQEHYDVASNVQQTLQAYKSLQDIIAILGMDELSEQDKLTVERARKIQRFLSQPFTVAEVFTGIEGRLVSLKDTVRSFKEILDGKH</span></span>
+<span class="topo-ruler">       490       500         </span>
 <span class="topo-line"><span class="topo-inside">DALPEAAFYMVGGIEEVVAKAEKLAA</span><span class="topo-unknown">ESK</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -450,6 +467,7 @@ The F1Fo-ATP synthase from the strictly aerobic yeast Yarrowia lipolytica is a r
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -465,11 +483,13 @@ The F1Fo-ATP synthase from the strictly aerobic yeast Yarrowia lipolytica is a r
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MFALRTAARPAARSVGATRNYA</span><span class="topo-inside">TLREIEMRLKSIKNIEKITNTMKIVASTKLGKAQRAMA</span></span>
-<span class="topo-line"><span class="topo-inside">TSKVYNEASEKVFENSETAVPENIEKRLWVVVSSDKGLCGSIHSQLARTVRRKLLD</span><span class="topo-unknown">FES</span><span class="topo-inside">G</span></span>
-<span class="topo-line"><span class="topo-inside">EKLIDIVAVGEKIKAQLGRSNPEQMRLSFGGTGKEAPTFEEAAHIADEILALDTQYDDIE</span></span>
-<span class="topo-line"><span class="topo-inside">IVYNKVLSGISFEPIMKESYSAKAIEDAPKFGQYELEDDVVKNLADFSLANTIYAAMAEG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MFALRTAARPAARSVGATRNYA</span><span class="topo-inside">TLREIEMRLKSIKNIEKITNTMKIVASTKLGKAQRAMATSKVYNEASEKVFENSETAVPENIEKRLWVVVSSDKGLCGSIHSQLARTVRRKLLD</span><span class="topo-unknown">FES</span><span class="topo-inside">G</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">EKLIDIVAVGEKIKAQLGRSNPEQMRLSFGGTGKEAPTFEEAAHIADEILALDTQYDDIEIVYNKVLSGISFEPIMKESYSAKAIEDAPKFGQYELEDDVVKNLADFSLANTIYAAMAEG</span></span>
+<span class="topo-ruler">       250       260       270       280       290   </span>
 <span class="topo-line"><span class="topo-inside">HAAEISARRNAMDNASKNASDMINKYSILYNRTRQAVITNELVDIITGASSL</span><span class="topo-unknown">E</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -516,6 +536,7 @@ The F1Fo-ATP synthase from the strictly aerobic yeast Yarrowia lipolytica is a r
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -531,9 +552,11 @@ The F1Fo-ATP synthase from the strictly aerobic yeast Yarrowia lipolytica is a r
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSDHTRSQNWTNLI</span><span class="topo-inside">LTQSIYNQKEVTQVNIPSTAGELGILANHVPTIQQLKPGVVEVIET</span></span>
-<span class="topo-line"><span class="topo-inside">NGETKSYFISGGFATVQPDSELSVNSIEAFQAED</span><span class="topo-unknown">FSPEAI</span><span class="topo-inside">KSLTAEAQKNAQSADEAVAA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSDHTRSQNWTNLI</span><span class="topo-inside">LTQSIYNQKEVTQVNIPSTAGELGILANHVPTIQQLKPGVVEVIETNGETKSYFISGGFATVQPDSELSVNSIEAFQAED</span><span class="topo-unknown">FSPEAI</span><span class="topo-inside">KSLTAEAQKNAQSADEAVAA</span></span>
+<span class="topo-ruler">       130       </span>
 <span class="topo-line"><span class="topo-inside">EAEIELEVLEALA</span><span class="topo-unknown">HFAK</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -580,6 +603,7 @@ The F1Fo-ATP synthase from the strictly aerobic yeast Yarrowia lipolytica is a r
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -595,7 +619,9 @@ The F1Fo-ATP synthase from the strictly aerobic yeast Yarrowia lipolytica is a r
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10      </span>
 <span class="topo-line"><span class="topo-inside">UUUUUUUUUUUUUUUU</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -614,6 +640,7 @@ The F1Fo-ATP synthase from the strictly aerobic yeast Yarrowia lipolytica is a r
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -629,8 +656,9 @@ The F1Fo-ATP synthase from the strictly aerobic yeast Yarrowia lipolytica is a r
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">QLVLAGKYIGAGL</span><span class="topo-membrane">ASIGLVGAGIGIA</span><span class="topo-inside">IVFAALINGVSRNPALKGQLFTYSILG</span><span class="topo-membrane">FALSEA</span></span>
-<span class="topo-line"><span class="topo-membrane">TGLFALM</span><span class="topo-outside">IAFLLLY</span><span class="topo-unknown">AV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70      </span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">QLVLAGKYIGAGL</span><span class="topo-membrane">ASIGLVGAGIGIA</span><span class="topo-inside">IVFAALINGVSRNPALKGQLFTYSILG</span><span class="topo-membrane">FALSEATGLFALM</span><span class="topo-outside">IAFLLLY</span><span class="topo-unknown">AV</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -691,6 +719,7 @@ The F1Fo-ATP synthase from the strictly aerobic yeast Yarrowia lipolytica is a r
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -706,8 +735,9 @@ The F1Fo-ATP synthase from the strictly aerobic yeast Yarrowia lipolytica is a r
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">QLVLAGKYIGAGL</span><span class="topo-membrane">ASIGLVGAGIGI</span><span class="topo-inside">AIVFAALINGVSRNPALKGQLFTYSILG</span><span class="topo-membrane">FALSEA</span></span>
-<span class="topo-line"><span class="topo-membrane">TGLFALM</span><span class="topo-outside">IAFLLL</span><span class="topo-unknown">YAV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70      </span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">QLVLAGKYIGAGL</span><span class="topo-membrane">ASIGLVGAGIGI</span><span class="topo-inside">AIVFAALINGVSRNPALKGQLFTYSILG</span><span class="topo-membrane">FALSEATGLFALM</span><span class="topo-outside">IAFLLL</span><span class="topo-unknown">YAV</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -768,6 +798,7 @@ The F1Fo-ATP synthase from the strictly aerobic yeast Yarrowia lipolytica is a r
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -783,8 +814,9 @@ The F1Fo-ATP synthase from the strictly aerobic yeast Yarrowia lipolytica is a r
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">QLVLAGKYIGAGL</span><span class="topo-membrane">ASIGLVGAGIGI</span><span class="topo-inside">AIVFAALINGVSRNPALKGQLFTYSILG</span><span class="topo-membrane">FALSEA</span></span>
-<span class="topo-line"><span class="topo-membrane">TGLFALM</span><span class="topo-outside">IAFLLLYAV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70      </span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">QLVLAGKYIGAGL</span><span class="topo-membrane">ASIGLVGAGIGI</span><span class="topo-inside">AIVFAALINGVSRNPALKGQLFTYSILG</span><span class="topo-membrane">FALSEATGLFALM</span><span class="topo-outside">IAFLLLYAV</span></span>
+<details class="topo-details"><summary>Topology coordinates (6 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -838,6 +870,7 @@ The F1Fo-ATP synthase from the strictly aerobic yeast Yarrowia lipolytica is a r
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -853,8 +886,9 @@ The F1Fo-ATP synthase from the strictly aerobic yeast Yarrowia lipolytica is a r
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MQLVLAGKYIGAGL</span><span class="topo-membrane">ASIGLVGAGIGI</span><span class="topo-inside">AIVFAALINGVSRNPALKGQLFTYSILG</span><span class="topo-membrane">FALSEA</span></span>
-<span class="topo-line"><span class="topo-membrane">TGLFALMI</span><span class="topo-outside">AFLLLYA</span><span class="topo-unknown">V</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70      </span>
+<span class="topo-line"><span class="topo-outside">MQLVLAGKYIGAGL</span><span class="topo-membrane">ASIGLVGAGIGI</span><span class="topo-inside">AIVFAALINGVSRNPALKGQLFTYSILG</span><span class="topo-membrane">FALSEATGLFALMI</span><span class="topo-outside">AFLLLYA</span><span class="topo-unknown">V</span></span>
+<details class="topo-details"><summary>Topology coordinates (6 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -908,6 +942,7 @@ The F1Fo-ATP synthase from the strictly aerobic yeast Yarrowia lipolytica is a r
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -923,8 +958,9 @@ The F1Fo-ATP synthase from the strictly aerobic yeast Yarrowia lipolytica is a r
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">QLVLAGKYIGAG</span><span class="topo-membrane">LASIGLVGAGIGI</span><span class="topo-inside">AIVFAALINGVSRNPALKGQLFTYSILGF</span><span class="topo-membrane">ALSEA</span></span>
-<span class="topo-line"><span class="topo-membrane">TGLFALMIA</span><span class="topo-outside">FLLLYAV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70      </span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">QLVLAGKYIGAG</span><span class="topo-membrane">LASIGLVGAGIGI</span><span class="topo-inside">AIVFAALINGVSRNPALKGQLFTYSILGF</span><span class="topo-membrane">ALSEATGLFALMIA</span><span class="topo-outside">FLLLYAV</span></span>
+<details class="topo-details"><summary>Topology coordinates (6 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -978,6 +1014,7 @@ The F1Fo-ATP synthase from the strictly aerobic yeast Yarrowia lipolytica is a r
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -993,8 +1030,9 @@ The F1Fo-ATP synthase from the strictly aerobic yeast Yarrowia lipolytica is a r
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MQLVLAGKYIGAG</span><span class="topo-membrane">LASIGLVGAGIGI</span><span class="topo-inside">AIVFAALINGVSRNPALKGQLFTYSILGF</span><span class="topo-membrane">ALSEA</span></span>
-<span class="topo-line"><span class="topo-membrane">TGLFALMIA</span><span class="topo-outside">FLLLYA</span><span class="topo-unknown">V</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70      </span>
+<span class="topo-line"><span class="topo-outside">MQLVLAGKYIGAG</span><span class="topo-membrane">LASIGLVGAGIGI</span><span class="topo-inside">AIVFAALINGVSRNPALKGQLFTYSILGF</span><span class="topo-membrane">ALSEATGLFALMIA</span><span class="topo-outside">FLLLYA</span><span class="topo-unknown">V</span></span>
+<details class="topo-details"><summary>Topology coordinates (6 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1048,6 +1086,7 @@ The F1Fo-ATP synthase from the strictly aerobic yeast Yarrowia lipolytica is a r
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1063,8 +1102,9 @@ The F1Fo-ATP synthase from the strictly aerobic yeast Yarrowia lipolytica is a r
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MQLVLAGKYIGAG</span><span class="topo-membrane">LASIGLVGAGIG</span><span class="topo-inside">IAIVFAALINGVSRNPALKGQLFTYSILGF</span><span class="topo-membrane">ALSEA</span></span>
-<span class="topo-line"><span class="topo-membrane">TGLFALMIAF</span><span class="topo-outside">LLLYAV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70      </span>
+<span class="topo-line"><span class="topo-outside">MQLVLAGKYIGAG</span><span class="topo-membrane">LASIGLVGAGIG</span><span class="topo-inside">IAIVFAALINGVSRNPALKGQLFTYSILGF</span><span class="topo-membrane">ALSEATGLFALMIAF</span><span class="topo-outside">LLLYAV</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1111,6 +1151,7 @@ The F1Fo-ATP synthase from the strictly aerobic yeast Yarrowia lipolytica is a r
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1126,8 +1167,9 @@ The F1Fo-ATP synthase from the strictly aerobic yeast Yarrowia lipolytica is a r
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">QLVLAGKYIGAG</span><span class="topo-membrane">LASIGLVGAGIG</span><span class="topo-inside">IAIVFAALINGVSRNPALKGQLFTYSILGF</span><span class="topo-membrane">ALSEA</span></span>
-<span class="topo-line"><span class="topo-membrane">TGLFALMIAF</span><span class="topo-outside">LLLYA</span><span class="topo-unknown">V</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70      </span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">QLVLAGKYIGAG</span><span class="topo-membrane">LASIGLVGAGIG</span><span class="topo-inside">IAIVFAALINGVSRNPALKGQLFTYSILGF</span><span class="topo-membrane">ALSEATGLFALMIAF</span><span class="topo-outside">LLLYA</span><span class="topo-unknown">V</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1188,6 +1230,7 @@ The F1Fo-ATP synthase from the strictly aerobic yeast Yarrowia lipolytica is a r
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1203,8 +1246,9 @@ The F1Fo-ATP synthase from the strictly aerobic yeast Yarrowia lipolytica is a r
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">QLVLAGKYIGA</span><span class="topo-membrane">GLASIGLVGAGIGI</span><span class="topo-inside">AIVFAALINGVSRNPALKGQLFTYSILGF</span><span class="topo-membrane">ALSEA</span></span>
-<span class="topo-line"><span class="topo-membrane">TGLFALMIA</span><span class="topo-outside">FLLLYA</span><span class="topo-unknown">V</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70      </span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">QLVLAGKYIGA</span><span class="topo-membrane">GLASIGLVGAGIGI</span><span class="topo-inside">AIVFAALINGVSRNPALKGQLFTYSILGF</span><span class="topo-membrane">ALSEATGLFALMIA</span><span class="topo-outside">FLLLYA</span><span class="topo-unknown">V</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1265,6 +1309,7 @@ The F1Fo-ATP synthase from the strictly aerobic yeast Yarrowia lipolytica is a r
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1280,8 +1325,9 @@ The F1Fo-ATP synthase from the strictly aerobic yeast Yarrowia lipolytica is a r
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">QLVLAGKYIGAG</span><span class="topo-membrane">LASIGLVGAGIGI</span><span class="topo-inside">AIVFAALINGVSRNPALKGQLFTYSILGF</span><span class="topo-membrane">ALSEA</span></span>
-<span class="topo-line"><span class="topo-membrane">TGLFALMI</span><span class="topo-outside">AFLLLYA</span><span class="topo-unknown">V</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70      </span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">QLVLAGKYIGAG</span><span class="topo-membrane">LASIGLVGAGIGI</span><span class="topo-inside">AIVFAALINGVSRNPALKGQLFTYSILGF</span><span class="topo-membrane">ALSEATGLFALMI</span><span class="topo-outside">AFLLLYA</span><span class="topo-unknown">V</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1342,6 +1388,7 @@ The F1Fo-ATP synthase from the strictly aerobic yeast Yarrowia lipolytica is a r
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

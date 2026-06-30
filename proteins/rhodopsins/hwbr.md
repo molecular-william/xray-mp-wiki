@@ -184,11 +184,13 @@ identical to the detergent-based structure.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAQLALQMSS</span><span class="topo-outside">LGVEGEG</span><span class="topo-membrane">IWLALGTIGMLLGMLYFIA</span><span class="topo-inside">DGLDVQDPRQKEFYV</span><span class="topo-membrane">ITILIPAIA</span></span>
-<span class="topo-line"><span class="topo-membrane">AASYLSMFF</span><span class="topo-outside">GFGLTEVSLANGRVVDVY</span><span class="topo-membrane">WARYADWLFTTPLLLL</span><span class="topo-inside">DIGLLAGASQRDIG</span><span class="topo-membrane">ALV</span></span>
-<span class="topo-line"><span class="topo-membrane">GIDAFMIVTGLVATLT</span><span class="topo-outside">KVVVA</span><span class="topo-membrane">RYAFWTISTISMVFLLYYL</span><span class="topo-inside">VAVFGEAVSDADEDTRSTFN</span></span>
-<span class="topo-line"><span class="topo-inside">AL</span><span class="topo-membrane">RNIILVTWAIYPVAWLVG</span><span class="topo-outside">TEGLALTGLYG</span><span class="topo-membrane">ETLLFMVLDLVAKVGFGFI</span><span class="topo-inside">LLRSRAIM</span><span class="topo-unknown">GG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAQLALQMSS</span><span class="topo-outside">LGVEGEG</span><span class="topo-membrane">IWLALGTIGMLLGMLYFIA</span><span class="topo-inside">DGLDVQDPRQKEFYV</span><span class="topo-membrane">ITILIPAIAAASYLSMFF</span><span class="topo-outside">GFGLTEVSLANGRVVDVY</span><span class="topo-membrane">WARYADWLFTTPLLLL</span><span class="topo-inside">DIGLLAGASQRDIG</span><span class="topo-membrane">ALV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GIDAFMIVTGLVATLT</span><span class="topo-outside">KVVVA</span><span class="topo-membrane">RYAFWTISTISMVFLLYYL</span><span class="topo-inside">VAVFGEAVSDADEDTRSTFNAL</span><span class="topo-membrane">RNIILVTWAIYPVAWLVG</span><span class="topo-outside">TEGLALTGLYG</span><span class="topo-membrane">ETLLFMVLDLVAKVGFGFI</span><span class="topo-inside">LLRSRAIM</span><span class="topo-unknown">GG</span></span>
+<span class="topo-ruler">       250       260        </span>
 <span class="topo-line"><span class="topo-unknown">GSEPTPSAQETAADHHHHHHLEHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -305,6 +307,7 @@ identical to the detergent-based structure.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -320,11 +323,13 @@ identical to the detergent-based structure.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAQLALQMSS</span><span class="topo-outside">LGVEGEG</span><span class="topo-membrane">IWLALGTIGMLLGMLYFIA</span><span class="topo-inside">DGLDVQDPRQKEFYV</span><span class="topo-membrane">ITILIPAIA</span></span>
-<span class="topo-line"><span class="topo-membrane">AASYLSMFF</span><span class="topo-outside">GFGLTEVSLANGRVVDVY</span><span class="topo-membrane">WARYADWLFTTPLLLL</span><span class="topo-inside">DIGLLAGASQRDIG</span><span class="topo-membrane">ALV</span></span>
-<span class="topo-line"><span class="topo-membrane">GIDAFMIVTGLVATLT</span><span class="topo-outside">KVVVA</span><span class="topo-membrane">RYAFWTISTISMVFLLYYL</span><span class="topo-inside">VAVFGEAVSDADEDTRSTFN</span></span>
-<span class="topo-line"><span class="topo-inside">AL</span><span class="topo-membrane">RNIILVTWAIYPVAWLVG</span><span class="topo-outside">TEGLALTGLYG</span><span class="topo-membrane">ETLLFMVLDLVAKVGFGFI</span><span class="topo-inside">LLRSRAIM</span><span class="topo-unknown">GG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAQLALQMSS</span><span class="topo-outside">LGVEGEG</span><span class="topo-membrane">IWLALGTIGMLLGMLYFIA</span><span class="topo-inside">DGLDVQDPRQKEFYV</span><span class="topo-membrane">ITILIPAIAAASYLSMFF</span><span class="topo-outside">GFGLTEVSLANGRVVDVY</span><span class="topo-membrane">WARYADWLFTTPLLLL</span><span class="topo-inside">DIGLLAGASQRDIG</span><span class="topo-membrane">ALV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GIDAFMIVTGLVATLT</span><span class="topo-outside">KVVVA</span><span class="topo-membrane">RYAFWTISTISMVFLLYYL</span><span class="topo-inside">VAVFGEAVSDADEDTRSTFNAL</span><span class="topo-membrane">RNIILVTWAIYPVAWLVG</span><span class="topo-outside">TEGLALTGLYG</span><span class="topo-membrane">ETLLFMVLDLVAKVGFGFI</span><span class="topo-inside">LLRSRAIM</span><span class="topo-unknown">GG</span></span>
+<span class="topo-ruler">       250       260        </span>
 <span class="topo-line"><span class="topo-unknown">GSEPTPSAQETAADHHHHHHLEHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -441,6 +446,7 @@ identical to the detergent-based structure.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -456,11 +462,13 @@ identical to the detergent-based structure.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAQLALQMSS</span><span class="topo-outside">LGVEGEG</span><span class="topo-membrane">IWLALGTIGMLLGMLYFIA</span><span class="topo-inside">DGLDVQDPRQKEFYV</span><span class="topo-membrane">ITILIPAIA</span></span>
-<span class="topo-line"><span class="topo-membrane">AASYLSMFF</span><span class="topo-outside">GFGLTEVSLANGRVVDV</span><span class="topo-membrane">YWARYADWLFTTPLLLL</span><span class="topo-inside">DIGLLAGASQRDIG</span><span class="topo-membrane">ALV</span></span>
-<span class="topo-line"><span class="topo-membrane">GIDAFMIVTGLVATLT</span><span class="topo-outside">KVVV</span><span class="topo-membrane">ARYAFWTISTISMVFLLYYL</span><span class="topo-inside">VAVFGEAVSDADEDTRSTFN</span></span>
-<span class="topo-line"><span class="topo-inside">AL</span><span class="topo-membrane">RNIILVTWAIYPVAWLVG</span><span class="topo-outside">TEGLALTGLYG</span><span class="topo-membrane">ETLLFMVLDLVAKVGFGFI</span><span class="topo-inside">LLRSRAIM</span><span class="topo-unknown">GG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAQLALQMSS</span><span class="topo-outside">LGVEGEG</span><span class="topo-membrane">IWLALGTIGMLLGMLYFIA</span><span class="topo-inside">DGLDVQDPRQKEFYV</span><span class="topo-membrane">ITILIPAIAAASYLSMFF</span><span class="topo-outside">GFGLTEVSLANGRVVDV</span><span class="topo-membrane">YWARYADWLFTTPLLLL</span><span class="topo-inside">DIGLLAGASQRDIG</span><span class="topo-membrane">ALV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GIDAFMIVTGLVATLT</span><span class="topo-outside">KVVV</span><span class="topo-membrane">ARYAFWTISTISMVFLLYYL</span><span class="topo-inside">VAVFGEAVSDADEDTRSTFNAL</span><span class="topo-membrane">RNIILVTWAIYPVAWLVG</span><span class="topo-outside">TEGLALTGLYG</span><span class="topo-membrane">ETLLFMVLDLVAKVGFGFI</span><span class="topo-inside">LLRSRAIM</span><span class="topo-unknown">GG</span></span>
+<span class="topo-ruler">       250       260        </span>
 <span class="topo-line"><span class="topo-unknown">GSEPTPSAQETAADHHHHHHLEHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -577,6 +585,7 @@ identical to the detergent-based structure.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -592,11 +601,13 @@ identical to the detergent-based structure.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAQLALQMSS</span><span class="topo-outside">LGVEGEG</span><span class="topo-membrane">IWLALGTIGMLLGMLYFIAD</span><span class="topo-inside">GLDVQDPRQKEFY</span><span class="topo-membrane">VITILIPAIA</span></span>
-<span class="topo-line"><span class="topo-membrane">AASYLSMFF</span><span class="topo-outside">GFGLTEVSLANGRVVDVY</span><span class="topo-membrane">WARYADWLFTTPLLLLD</span><span class="topo-inside">IGLLAGASQRDIG</span><span class="topo-membrane">ALV</span></span>
-<span class="topo-line"><span class="topo-membrane">GIDAFMIVTGLVATLT</span><span class="topo-outside">KVVVA</span><span class="topo-membrane">RYAFWTISTISMVFLLYYL</span><span class="topo-inside">VAVFGEAVSDADEDTRSTFN</span></span>
-<span class="topo-line"><span class="topo-inside">AL</span><span class="topo-membrane">RNIILVTWAIYPVAWLVG</span><span class="topo-outside">TEGLALTGLYG</span><span class="topo-membrane">ETLLFMVLDLVAKVGFGFI</span><span class="topo-inside">LLRSRAIM</span><span class="topo-unknown">GG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAQLALQMSS</span><span class="topo-outside">LGVEGEG</span><span class="topo-membrane">IWLALGTIGMLLGMLYFIAD</span><span class="topo-inside">GLDVQDPRQKEFY</span><span class="topo-membrane">VITILIPAIAAASYLSMFF</span><span class="topo-outside">GFGLTEVSLANGRVVDVY</span><span class="topo-membrane">WARYADWLFTTPLLLLD</span><span class="topo-inside">IGLLAGASQRDIG</span><span class="topo-membrane">ALV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GIDAFMIVTGLVATLT</span><span class="topo-outside">KVVVA</span><span class="topo-membrane">RYAFWTISTISMVFLLYYL</span><span class="topo-inside">VAVFGEAVSDADEDTRSTFNAL</span><span class="topo-membrane">RNIILVTWAIYPVAWLVG</span><span class="topo-outside">TEGLALTGLYG</span><span class="topo-membrane">ETLLFMVLDLVAKVGFGFI</span><span class="topo-inside">LLRSRAIM</span><span class="topo-unknown">GG</span></span>
+<span class="topo-ruler">       250       260        </span>
 <span class="topo-line"><span class="topo-unknown">GSEPTPSAQETAADLVPRGSLEHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -713,6 +724,7 @@ identical to the detergent-based structure.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -728,11 +740,13 @@ identical to the detergent-based structure.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAQLALQMSS</span><span class="topo-outside">LGVEGEG</span><span class="topo-membrane">IWLALGTIGMLLGMLYFIAD</span><span class="topo-inside">GLDVQDPRQKEFY</span><span class="topo-membrane">VITILIPAIA</span></span>
-<span class="topo-line"><span class="topo-membrane">AASYLSMFF</span><span class="topo-outside">GFGLTEVSLANGRVVDVY</span><span class="topo-membrane">WARYADWLFTTPLLLLD</span><span class="topo-inside">IGLLAGASQRDIG</span><span class="topo-membrane">ALV</span></span>
-<span class="topo-line"><span class="topo-membrane">GIDAFMIVTGLVATLT</span><span class="topo-outside">KVVVA</span><span class="topo-membrane">RYAFWTISTISMVFLLYYL</span><span class="topo-inside">VAVFGEAVSDADEDTRSTFN</span></span>
-<span class="topo-line"><span class="topo-inside">AL</span><span class="topo-membrane">RNIILVTWAIYPVAWLVG</span><span class="topo-outside">TEGLALTGLYG</span><span class="topo-membrane">ETLLFMVLDLVAKVGFGFI</span><span class="topo-inside">LLRSRAIM</span><span class="topo-unknown">GG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAQLALQMSS</span><span class="topo-outside">LGVEGEG</span><span class="topo-membrane">IWLALGTIGMLLGMLYFIAD</span><span class="topo-inside">GLDVQDPRQKEFY</span><span class="topo-membrane">VITILIPAIAAASYLSMFF</span><span class="topo-outside">GFGLTEVSLANGRVVDVY</span><span class="topo-membrane">WARYADWLFTTPLLLLD</span><span class="topo-inside">IGLLAGASQRDIG</span><span class="topo-membrane">ALV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GIDAFMIVTGLVATLT</span><span class="topo-outside">KVVVA</span><span class="topo-membrane">RYAFWTISTISMVFLLYYL</span><span class="topo-inside">VAVFGEAVSDADEDTRSTFNAL</span><span class="topo-membrane">RNIILVTWAIYPVAWLVG</span><span class="topo-outside">TEGLALTGLYG</span><span class="topo-membrane">ETLLFMVLDLVAKVGFGFI</span><span class="topo-inside">LLRSRAIM</span><span class="topo-unknown">GG</span></span>
+<span class="topo-ruler">       250       260        </span>
 <span class="topo-line"><span class="topo-unknown">GSEPTPSAQETAADLVPRGSLEHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -849,6 +863,7 @@ identical to the detergent-based structure.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -864,11 +879,13 @@ identical to the detergent-based structure.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAQLALQMSS</span><span class="topo-outside">LGVEGEG</span><span class="topo-membrane">IWLALGTIGMLLGMLYFIAD</span><span class="topo-inside">GLDVQDPRQKEFY</span><span class="topo-membrane">VITILIPAIA</span></span>
-<span class="topo-line"><span class="topo-membrane">AASYLSMFF</span><span class="topo-outside">GFGLTEVSLANGRVVDVY</span><span class="topo-membrane">WARYADWLFTTPLLLLD</span><span class="topo-inside">IGLLAGASQRDIG</span><span class="topo-membrane">ALV</span></span>
-<span class="topo-line"><span class="topo-membrane">GIDAFMIVTGLVATLT</span><span class="topo-outside">KVVVA</span><span class="topo-membrane">RYAFWTISTISMVFLLYYL</span><span class="topo-inside">VAVFGEAVSDADEDTRSTFN</span></span>
-<span class="topo-line"><span class="topo-inside">AL</span><span class="topo-membrane">RNIILVTWAIYPVAWLVG</span><span class="topo-outside">TEGLALTGLYG</span><span class="topo-membrane">ETLLFMVLDLVAKVGFGFI</span><span class="topo-inside">LLRSRAIM</span><span class="topo-unknown">GG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAQLALQMSS</span><span class="topo-outside">LGVEGEG</span><span class="topo-membrane">IWLALGTIGMLLGMLYFIAD</span><span class="topo-inside">GLDVQDPRQKEFY</span><span class="topo-membrane">VITILIPAIAAASYLSMFF</span><span class="topo-outside">GFGLTEVSLANGRVVDVY</span><span class="topo-membrane">WARYADWLFTTPLLLLD</span><span class="topo-inside">IGLLAGASQRDIG</span><span class="topo-membrane">ALV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GIDAFMIVTGLVATLT</span><span class="topo-outside">KVVVA</span><span class="topo-membrane">RYAFWTISTISMVFLLYYL</span><span class="topo-inside">VAVFGEAVSDADEDTRSTFNAL</span><span class="topo-membrane">RNIILVTWAIYPVAWLVG</span><span class="topo-outside">TEGLALTGLYG</span><span class="topo-membrane">ETLLFMVLDLVAKVGFGFI</span><span class="topo-inside">LLRSRAIM</span><span class="topo-unknown">GG</span></span>
+<span class="topo-ruler">       250       260        </span>
 <span class="topo-line"><span class="topo-unknown">GSEPTPSAQETAADLVPRGSLEHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -985,6 +1002,7 @@ identical to the detergent-based structure.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1032,11 +1050,13 @@ identical to the detergent-based structure.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAQLALQMSS</span><span class="topo-outside">LGVEGEG</span><span class="topo-membrane">IWLALGTIGMLLGMLYFIAD</span><span class="topo-inside">GLDVQDPRQKEFY</span><span class="topo-membrane">VITILIPAIA</span></span>
-<span class="topo-line"><span class="topo-membrane">AASYLSMFF</span><span class="topo-outside">GFGLTEVSLANGRVVDVY</span><span class="topo-membrane">WARYADWLFTTPLLLLD</span><span class="topo-inside">IGLLAGASQRDIG</span><span class="topo-membrane">ALV</span></span>
-<span class="topo-line"><span class="topo-membrane">GIDAFMIVTGLVATLT</span><span class="topo-outside">KVVV</span><span class="topo-membrane">ARYAFWTISTISMVFLLYYL</span><span class="topo-inside">VAVFGEAVSDADEDTRSTFN</span></span>
-<span class="topo-line"><span class="topo-inside">AL</span><span class="topo-membrane">RNIILVTWAIYPVAWLVG</span><span class="topo-outside">TEGLALTGLYG</span><span class="topo-membrane">ETLLFMVLDLVAKVGFGFI</span><span class="topo-inside">LLRSRAIM</span><span class="topo-unknown">GG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAQLALQMSS</span><span class="topo-outside">LGVEGEG</span><span class="topo-membrane">IWLALGTIGMLLGMLYFIAD</span><span class="topo-inside">GLDVQDPRQKEFY</span><span class="topo-membrane">VITILIPAIAAASYLSMFF</span><span class="topo-outside">GFGLTEVSLANGRVVDVY</span><span class="topo-membrane">WARYADWLFTTPLLLLD</span><span class="topo-inside">IGLLAGASQRDIG</span><span class="topo-membrane">ALV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GIDAFMIVTGLVATLT</span><span class="topo-outside">KVVV</span><span class="topo-membrane">ARYAFWTISTISMVFLLYYL</span><span class="topo-inside">VAVFGEAVSDADEDTRSTFNAL</span><span class="topo-membrane">RNIILVTWAIYPVAWLVG</span><span class="topo-outside">TEGLALTGLYG</span><span class="topo-membrane">ETLLFMVLDLVAKVGFGFI</span><span class="topo-inside">LLRSRAIM</span><span class="topo-unknown">GG</span></span>
+<span class="topo-ruler">       250       260  </span>
 <span class="topo-line"><span class="topo-unknown">GSEPTPSAQETAADLEHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1153,6 +1173,7 @@ identical to the detergent-based structure.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1168,11 +1189,13 @@ identical to the detergent-based structure.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAQLALQMSS</span><span class="topo-outside">LGVEGEG</span><span class="topo-membrane">IWLALGTIGMLLGMLYFIAD</span><span class="topo-inside">GLDVQDPRQKEFY</span><span class="topo-membrane">VITILIPAIA</span></span>
-<span class="topo-line"><span class="topo-membrane">AASYLSMFF</span><span class="topo-outside">GFGLTEVSLANGRVVDVY</span><span class="topo-membrane">WARYADWLFTTPLLLLD</span><span class="topo-inside">IGLLAGASQRDIG</span><span class="topo-membrane">ALV</span></span>
-<span class="topo-line"><span class="topo-membrane">GIDAFMIVTGLVATLT</span><span class="topo-outside">KVVV</span><span class="topo-membrane">ARYAFWTISTISMVFLLYYL</span><span class="topo-inside">VAVFGEAVSDADEDTRSTFN</span></span>
-<span class="topo-line"><span class="topo-inside">AL</span><span class="topo-membrane">RNIILVTWAIYPVAWLVG</span><span class="topo-outside">TEGLALTGLYG</span><span class="topo-membrane">ETLLFMVLDLVAKVGFGFI</span><span class="topo-inside">LLRSRAIM</span><span class="topo-unknown">GG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAQLALQMSS</span><span class="topo-outside">LGVEGEG</span><span class="topo-membrane">IWLALGTIGMLLGMLYFIAD</span><span class="topo-inside">GLDVQDPRQKEFY</span><span class="topo-membrane">VITILIPAIAAASYLSMFF</span><span class="topo-outside">GFGLTEVSLANGRVVDVY</span><span class="topo-membrane">WARYADWLFTTPLLLLD</span><span class="topo-inside">IGLLAGASQRDIG</span><span class="topo-membrane">ALV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GIDAFMIVTGLVATLT</span><span class="topo-outside">KVVV</span><span class="topo-membrane">ARYAFWTISTISMVFLLYYL</span><span class="topo-inside">VAVFGEAVSDADEDTRSTFNAL</span><span class="topo-membrane">RNIILVTWAIYPVAWLVG</span><span class="topo-outside">TEGLALTGLYG</span><span class="topo-membrane">ETLLFMVLDLVAKVGFGFI</span><span class="topo-inside">LLRSRAIM</span><span class="topo-unknown">GG</span></span>
+<span class="topo-ruler">       250       260  </span>
 <span class="topo-line"><span class="topo-unknown">GSEPTPSAQETAADLEHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1289,6 +1312,7 @@ identical to the detergent-based structure.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1304,11 +1328,13 @@ identical to the detergent-based structure.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAQLALQMSS</span><span class="topo-outside">LGVEGEG</span><span class="topo-membrane">IWLALGTIGMLLGMLYFIAD</span><span class="topo-inside">GLDVQDPRQKEFY</span><span class="topo-membrane">VITILIPAIA</span></span>
-<span class="topo-line"><span class="topo-membrane">AASYLSMFF</span><span class="topo-outside">GFGLTEVSLANGRVVDVY</span><span class="topo-membrane">WARYADWLFTTPLLLLD</span><span class="topo-inside">IGLLAGASQRDIG</span><span class="topo-membrane">ALV</span></span>
-<span class="topo-line"><span class="topo-membrane">GIDAFMIVTGLVATLT</span><span class="topo-outside">KVVV</span><span class="topo-membrane">ARYAFWTISTISMVFLLYYL</span><span class="topo-inside">VAVFGEAVSDADEDTRSTFN</span></span>
-<span class="topo-line"><span class="topo-inside">AL</span><span class="topo-membrane">RNIILVTWAIYPVAWLVG</span><span class="topo-outside">TEGLALTGLYG</span><span class="topo-membrane">ETLLFMVLDLVAKVGFGFI</span><span class="topo-inside">LLRSRAIM</span><span class="topo-unknown">GG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAQLALQMSS</span><span class="topo-outside">LGVEGEG</span><span class="topo-membrane">IWLALGTIGMLLGMLYFIAD</span><span class="topo-inside">GLDVQDPRQKEFY</span><span class="topo-membrane">VITILIPAIAAASYLSMFF</span><span class="topo-outside">GFGLTEVSLANGRVVDVY</span><span class="topo-membrane">WARYADWLFTTPLLLLD</span><span class="topo-inside">IGLLAGASQRDIG</span><span class="topo-membrane">ALV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GIDAFMIVTGLVATLT</span><span class="topo-outside">KVVV</span><span class="topo-membrane">ARYAFWTISTISMVFLLYYL</span><span class="topo-inside">VAVFGEAVSDADEDTRSTFNAL</span><span class="topo-membrane">RNIILVTWAIYPVAWLVG</span><span class="topo-outside">TEGLALTGLYG</span><span class="topo-membrane">ETLLFMVLDLVAKVGFGFI</span><span class="topo-inside">LLRSRAIM</span><span class="topo-unknown">GG</span></span>
+<span class="topo-ruler">       250       260  </span>
 <span class="topo-line"><span class="topo-unknown">GSEPTPSAQETAADLEHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1425,6 +1451,7 @@ identical to the detergent-based structure.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

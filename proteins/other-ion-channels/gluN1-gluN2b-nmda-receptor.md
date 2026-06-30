@@ -124,20 +124,21 @@ The full-length N-methyl-[D Aspartate](/xray-mp-wiki/reagents/substrates/l-aspar
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">DPKIVNIGAVLSTKKHEQIFREAVNQANFFHFTRKIQLNATSVTHRPNAIQMALSVCEDL</span></span>
-<span class="topo-line"><span class="topo-inside">ISSQVYAILVSHPPAPTDHLTPTPISYTAGFYRIPVIGLTTRMSIYSDKSIHLSFLRTVP</span></span>
-<span class="topo-line"><span class="topo-inside">PYSHQALVWFEMMRLFNWNHVILIVSDDHEGRAAQKKLETLLEEKESKADKVLQFEPGTK</span></span>
-<span class="topo-line"><span class="topo-inside">NLTALLLEAKELEARVIILSASEDDATAVYKSAAMLDMTGAGYVWLVGEREISGSALRYA</span></span>
-<span class="topo-line"><span class="topo-inside">PDGIIGLQLINGKNESAHISDAVAVVAQAIHELFEMEQITDPPRGCVGNTNIWKTGPLFK</span></span>
-<span class="topo-line"><span class="topo-inside">RVLMSSKYPDGVTGRIEFNEDGDRKFAQYSIMNLQNRKLVQVGIFDGSYIIQNDRKIIWP</span></span>
-<span class="topo-line"><span class="topo-inside">GGETERPQGYQMSTRLKIVTIHQEPFVYVRPTTSDGTCREEYTINGDPIKKVICNGPDET</span></span>
-<span class="topo-line"><span class="topo-inside">IPGRPTVPQCCYGFCVDLLIKLAREMDFTYEVHLVADGKFGTQERVNNSNAAAWNGMMGE</span></span>
-<span class="topo-line"><span class="topo-inside">LLSGQADMIVAPLTINNERAQYIEFSKPFKYQGLTILVKKEIPRSTLDSFMQPFQS</span><span class="topo-membrane">TLWL</span></span>
-<span class="topo-line"><span class="topo-membrane">LVGLSVHVVAVM</span><span class="topo-outside">LYLLDRF</span><span class="topo-unknown">SPFGRFEDALTLSSAMWFSWRVLLNSGLGEGAPR</span><span class="topo-outside">SFSAR</span><span class="topo-membrane">IL</span></span>
-<span class="topo-line"><span class="topo-membrane">GMVWAGFAMIIVASY</span><span class="topo-inside">TANLAAFLVLRRPEERITGINDPRLRNPSDKFIYATVKQSSVDIY</span></span>
-<span class="topo-line"><span class="topo-inside">FRRQVELSTMYRHMEKHNYESAAEAIQAVRDNKLHAFIWDSAVLEFEASQKCDLVTTGEL</span></span>
-<span class="topo-line"><span class="topo-inside">FFRSGFGIGMRKDSPWKQEVSLNILKSHENGFMEELDKTWVRYQECD</span><span class="topo-unknown">SRSNAPATLTFEN</span></span>
-<span class="topo-line"><span class="topo-unknown">MAGVFMLV</span><span class="topo-inside">A</span><span class="topo-membrane">GGIVAGIFLIFI</span><span class="topo-outside">EIAYKSRA</span><span class="topo-unknown">EAKRMKGLEVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">DPKIVNIGAVLSTKKHEQIFREAVNQANFFHFTRKIQLNATSVTHRPNAIQMALSVCEDLISSQVYAILVSHPPAPTDHLTPTPISYTAGFYRIPVIGLTTRMSIYSDKSIHLSFLRTVP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">PYSHQALVWFEMMRLFNWNHVILIVSDDHEGRAAQKKLETLLEEKESKADKVLQFEPGTKNLTALLLEAKELEARVIILSASEDDATAVYKSAAMLDMTGAGYVWLVGEREISGSALRYA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">PDGIIGLQLINGKNESAHISDAVAVVAQAIHELFEMEQITDPPRGCVGNTNIWKTGPLFKRVLMSSKYPDGVTGRIEFNEDGDRKFAQYSIMNLQNRKLVQVGIFDGSYIIQNDRKIIWP</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">GGETERPQGYQMSTRLKIVTIHQEPFVYVRPTTSDGTCREEYTINGDPIKKVICNGPDETIPGRPTVPQCCYGFCVDLLIKLAREMDFTYEVHLVADGKFGTQERVNNSNAAAWNGMMGE</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-inside">LLSGQADMIVAPLTINNERAQYIEFSKPFKYQGLTILVKKEIPRSTLDSFMQPFQS</span><span class="topo-membrane">TLWLLVGLSVHVVAVM</span><span class="topo-outside">LYLLDRF</span><span class="topo-unknown">SPFGRFEDALTLSSAMWFSWRVLLNSGLGEGAPR</span><span class="topo-outside">SFSAR</span><span class="topo-membrane">IL</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-membrane">GMVWAGFAMIIVASY</span><span class="topo-inside">TANLAAFLVLRRPEERITGINDPRLRNPSDKFIYATVKQSSVDIYFRRQVELSTMYRHMEKHNYESAAEAIQAVRDNKLHAFIWDSAVLEFEASQKCDLVTTGEL</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820  </span>
+<span class="topo-line"><span class="topo-inside">FFRSGFGIGMRKDSPWKQEVSLNILKSHENGFMEELDKTWVRYQECD</span><span class="topo-unknown">SRSNAPATLTFENMAGVFMLV</span><span class="topo-inside">A</span><span class="topo-membrane">GGIVAGIFLIFI</span><span class="topo-outside">EIAYKSRA</span><span class="topo-unknown">EAKRMKGLEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (14 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -247,6 +248,7 @@ The full-length N-methyl-[D Aspartate](/xray-mp-wiki/reagents/substrates/l-aspar
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -262,20 +264,21 @@ The full-length N-methyl-[D Aspartate](/xray-mp-wiki/reagents/substrates/l-aspar
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">KHPNMDIAVILVGTTEEVAIKDVHEKDDFHHLPVTPRVELVTMQESDPKSIITRICDLMS</span></span>
-<span class="topo-line"><span class="topo-inside">DKKVQGVVFGDDTDQEAIAQILDFISVQTLTPILGIHGGSSMIMADKEEASMFFQFGPSI</span></span>
-<span class="topo-line"><span class="topo-inside">EQQASVMLNIMEEYDWYIFSIVTTYFPGYQDFENKVRSTIENSFVGWELEEVIHLDMSLD</span></span>
-<span class="topo-line"><span class="topo-inside">DIDSKIQNQLCKLQSPVILLYCTKEEATYIFEVAHSVGLTGYGFTWIVPSLVAGDTDTVP</span></span>
-<span class="topo-line"><span class="topo-inside">DEFPTGLISVSYDEWDYDLPARVRDGIAIITTAASTMLSEHNSIPQSKSSCNNIQESRVY</span></span>
-<span class="topo-line"><span class="topo-inside">EAHMLKRYLINVTFEGRDLSFSEDGYQMHPKLVIILLNQERKWERVGKYKDRSLKMWPVF</span></span>
-<span class="topo-line"><span class="topo-unknown">DLYPNSEEHKDE</span><span class="topo-inside">HLSIVTLEEAPFVIVEDVDPLSGTCMRNTVPCRKQIRPE</span><span class="topo-unknown">NRTEEG</span><span class="topo-inside">GNY</span></span>
-<span class="topo-line"><span class="topo-inside">IKRCCKGFCIDILKKIAKTVKFTYDLYLVTNGKHGKKINGVWNGMIGEVVTKRAYMAVGS</span></span>
-<span class="topo-line"><span class="topo-inside">LTINEERSEVVDFSVPFIETGISVMVSRSN</span><span class="topo-unknown">GTV</span><span class="topo-inside">SPS</span><span class="topo-unknown">AFLEPF</span><span class="topo-membrane">SADVWVMMFVMLLIVSAV</span></span>
-<span class="topo-line"><span class="topo-outside">AVFV</span><span class="topo-unknown">FEYFSPVGYNGPSFTIGKAIWLLWGLVFNNSLPVQNPKGT</span><span class="topo-outside">TSK</span><span class="topo-membrane">IMVSVWAFFAVIF</span></span>
-<span class="topo-line"><span class="topo-membrane">LASYT</span><span class="topo-inside">ANLAAFMIQRRYVDQVSGLSDKKFQRPNDFSPAFRFGTVPNGSTERNIRNNYLEM</span></span>
-<span class="topo-line"><span class="topo-inside">HSYMVKFNQRSVQDALLSLKSGKLDAFIYDAAVLNYMAGRDEGCKLVTIGSGKVFATTGY</span></span>
-<span class="topo-line"><span class="topo-inside">GIAIQKDSGWKRQVDLAILQLFGDGEMEELEALWLTGICHNEKN</span><span class="topo-unknown">EVMSSQLDIDNMAGV</span><span class="topo-inside">F</span></span>
-<span class="topo-line"><span class="topo-membrane">YMLAAAMALSLIT</span><span class="topo-outside">FIMEHLFY</span><span class="topo-unknown">KSRAEAKRMKGLEVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">KHPNMDIAVILVGTTEEVAIKDVHEKDDFHHLPVTPRVELVTMQESDPKSIITRICDLMSDKKVQGVVFGDDTDQEAIAQILDFISVQTLTPILGIHGGSSMIMADKEEASMFFQFGPSI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">EQQASVMLNIMEEYDWYIFSIVTTYFPGYQDFENKVRSTIENSFVGWELEEVIHLDMSLDDIDSKIQNQLCKLQSPVILLYCTKEEATYIFEVAHSVGLTGYGFTWIVPSLVAGDTDTVP</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">DEFPTGLISVSYDEWDYDLPARVRDGIAIITTAASTMLSEHNSIPQSKSSCNNIQESRVYEAHMLKRYLINVTFEGRDLSFSEDGYQMHPKLVIILLNQERKWERVGKYKDRSLKMWPVF</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-unknown">DLYPNSEEHKDE</span><span class="topo-inside">HLSIVTLEEAPFVIVEDVDPLSGTCMRNTVPCRKQIRPE</span><span class="topo-unknown">NRTEEG</span><span class="topo-inside">GNYIKRCCKGFCIDILKKIAKTVKFTYDLYLVTNGKHGKKINGVWNGMIGEVVTKRAYMAVGS</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-inside">LTINEERSEVVDFSVPFIETGISVMVSRSN</span><span class="topo-unknown">GTV</span><span class="topo-inside">SPS</span><span class="topo-unknown">AFLEPF</span><span class="topo-membrane">SADVWVMMFVMLLIVSAV</span><span class="topo-outside">AVFV</span><span class="topo-unknown">FEYFSPVGYNGPSFTIGKAIWLLWGLVFNNSLPVQNPKGT</span><span class="topo-outside">TSK</span><span class="topo-membrane">IMVSVWAFFAVIF</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-membrane">LASYT</span><span class="topo-inside">ANLAAFMIQRRYVDQVSGLSDKKFQRPNDFSPAFRFGTVPNGSTERNIRNNYLEMHSYMVKFNQRSVQDALLSLKSGKLDAFIYDAAVLNYMAGRDEGCKLVTIGSGKVFATTGY</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810        </span>
+<span class="topo-line"><span class="topo-inside">GIAIQKDSGWKRQVDLAILQLFGDGEMEELEALWLTGICHNEKN</span><span class="topo-unknown">EVMSSQLDIDNMAGV</span><span class="topo-inside">F</span><span class="topo-membrane">YMLAAAMALSLIT</span><span class="topo-outside">FIMEHLFY</span><span class="topo-unknown">KSRAEAKRMKGLEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -434,6 +437,7 @@ The full-length N-methyl-[D Aspartate](/xray-mp-wiki/reagents/substrates/l-aspar
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -449,20 +453,21 @@ The full-length N-methyl-[D Aspartate](/xray-mp-wiki/reagents/substrates/l-aspar
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">DPKIVNIGAVLSTKKHEQIFREAVNQANFFHFTRKIQLNATSVTHRPNAIQMALSVCEDL</span></span>
-<span class="topo-line"><span class="topo-inside">ISSQVYAILVSHPPAPTDHLTPTPISYTAGFYRIPVIGLTTRMSIYSDKSIHLSFLRTVP</span></span>
-<span class="topo-line"><span class="topo-inside">PYSHQALVWFEMMRLFNWNHVILIVSDDHEGRAAQKKLETLLEEKESKADKVLQFEPGTK</span></span>
-<span class="topo-line"><span class="topo-inside">NLTALLLEAKELEARVIILSASEDDATAVYKSAAMLDMTGAGYVWLVGEREISGSALRYA</span></span>
-<span class="topo-line"><span class="topo-inside">PDGIIGLQLINGKNESAHISDAVAVVAQAIHELFEMEQITDPPRGCVGNTNIWKTGPLFK</span></span>
-<span class="topo-line"><span class="topo-inside">RVLMSSKYPDGVTGRIEFNEDGDRKFAQYSIMNLQNRKLVQVGIFDGSYIIQNDRKIIWP</span></span>
-<span class="topo-line"><span class="topo-inside">GGETERPQGYQMSTRLKIVTIHQEPFVYVRPTTSDGTCREEYTINGDPIKKVICNGPD</span><span class="topo-unknown">ET</span></span>
-<span class="topo-line"><span class="topo-unknown">IPGR</span><span class="topo-inside">PTVPQCCYGFCVDLLIKLAREMDFTYEVHLVADGKFGTQERV</span><span class="topo-unknown">NNSNA</span><span class="topo-inside">AAWNGMMGE</span></span>
-<span class="topo-line"><span class="topo-inside">LLSGQADMIVAPLTINNERAQYIEFSKPFKYQGLTILVKKEIPRSTLDSFMQPFQS</span><span class="topo-membrane">TLWL</span></span>
-<span class="topo-line"><span class="topo-membrane">LVGLSVHVVAVMLYLL</span><span class="topo-outside">D</span><span class="topo-unknown">RFSPFGRFEDALTLSSAMWFSWRVLLNSGLGEGAPRSF</span><span class="topo-outside">S</span><span class="topo-membrane">ARIL</span></span>
-<span class="topo-line"><span class="topo-membrane">GMVWAGFAMIIVA</span><span class="topo-inside">SYTANLAAFLVLRRPEERITGINDPRLRNPSDKFIYATVKQSSVDIY</span></span>
-<span class="topo-line"><span class="topo-inside">FRRQVELSTMYRHMEKHNYESAAEAIQAVRDNKLHAFIWDSAVLEFEASQKCDLVTTGEL</span></span>
-<span class="topo-line"><span class="topo-inside">FFRSGFGIGMRKDSPWKQEVSLNILKSHENGFMEELDKTWVRYQECDS</span><span class="topo-unknown">RSNAPATLTFEN</span></span>
-<span class="topo-line"><span class="topo-unknown">MAGVFMLVAGGIVAGIFLIFIEIAYKSRAEAKRMKGLEVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">DPKIVNIGAVLSTKKHEQIFREAVNQANFFHFTRKIQLNATSVTHRPNAIQMALSVCEDLISSQVYAILVSHPPAPTDHLTPTPISYTAGFYRIPVIGLTTRMSIYSDKSIHLSFLRTVP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">PYSHQALVWFEMMRLFNWNHVILIVSDDHEGRAAQKKLETLLEEKESKADKVLQFEPGTKNLTALLLEAKELEARVIILSASEDDATAVYKSAAMLDMTGAGYVWLVGEREISGSALRYA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">PDGIIGLQLINGKNESAHISDAVAVVAQAIHELFEMEQITDPPRGCVGNTNIWKTGPLFKRVLMSSKYPDGVTGRIEFNEDGDRKFAQYSIMNLQNRKLVQVGIFDGSYIIQNDRKIIWP</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">GGETERPQGYQMSTRLKIVTIHQEPFVYVRPTTSDGTCREEYTINGDPIKKVICNGPD</span><span class="topo-unknown">ETIPGR</span><span class="topo-inside">PTVPQCCYGFCVDLLIKLAREMDFTYEVHLVADGKFGTQERV</span><span class="topo-unknown">NNSNA</span><span class="topo-inside">AAWNGMMGE</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-inside">LLSGQADMIVAPLTINNERAQYIEFSKPFKYQGLTILVKKEIPRSTLDSFMQPFQS</span><span class="topo-membrane">TLWLLVGLSVHVVAVMLYLL</span><span class="topo-outside">D</span><span class="topo-unknown">RFSPFGRFEDALTLSSAMWFSWRVLLNSGLGEGAPRSF</span><span class="topo-outside">S</span><span class="topo-membrane">ARIL</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-membrane">GMVWAGFAMIIVA</span><span class="topo-inside">SYTANLAAFLVLRRPEERITGINDPRLRNPSDKFIYATVKQSSVDIYFRRQVELSTMYRHMEKHNYESAAEAIQAVRDNKLHAFIWDSAVLEFEASQKCDLVTTGEL</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820  </span>
+<span class="topo-line"><span class="topo-inside">FFRSGFGIGMRKDSPWKQEVSLNILKSHENGFMEELDKTWVRYQECDS</span><span class="topo-unknown">RSNAPATLTFENMAGVFMLVAGGIVAGIFLIFIEIAYKSRAEAKRMKGLEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (12 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -558,6 +563,7 @@ The full-length N-methyl-[D Aspartate](/xray-mp-wiki/reagents/substrates/l-aspar
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -573,20 +579,21 @@ The full-length N-methyl-[D Aspartate](/xray-mp-wiki/reagents/substrates/l-aspar
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">K</span><span class="topo-inside">HPNMDIAVILVGTTEEVAIKD</span><span class="topo-unknown">VHEKDDF</span><span class="topo-inside">HHLPVTPRVELVTMQESDPKSIITRICDLMS</span></span>
-<span class="topo-line"><span class="topo-inside">DKKVQGVVFGDDTDQEAIAQILDFISVQTLTPILGIHGGSSMIMADKEEASMFFQFGPSI</span></span>
-<span class="topo-line"><span class="topo-inside">EQQASVMLNIMEEYDWYIFSIVTTYFPGYQDFENKVRSTIENSFVGWELEEVIHLDMSLD</span></span>
-<span class="topo-line"><span class="topo-inside">DIDSKIQNQLCKLQSPVILLYCTKEEATYIFEVAHSVGLTGYGFTWIVPSLVAGDTDTVP</span></span>
-<span class="topo-line"><span class="topo-inside">DEFPTGLISVSYDEWDYDLPARVRDGIAIITTAASTMLSEHNS</span><span class="topo-unknown">IPQ</span><span class="topo-inside">SKSSCNNIQESRVY</span></span>
-<span class="topo-line"><span class="topo-inside">EAHMLKRYLINVTFEGRDLSFSEDGYQMHPKLVIILLNQERKWERVGKYKDRSLKMWPVF</span></span>
-<span class="topo-line"><span class="topo-inside">DLYPN</span><span class="topo-unknown">SEEHKD</span><span class="topo-inside">EHLSIVTLEEAPFVIVEDVDPLSGTCMRNTVPCRKQIRPENRTEEGGNY</span></span>
-<span class="topo-line"><span class="topo-inside">IKRCCKGFCIDILKKIAKTVKFTYDLYLVTNGKHGKKINGVWNGMIGEVVTKRAYMAVGS</span></span>
-<span class="topo-line"><span class="topo-inside">LTINEERSEVVDFSVPFIETGISVMVSRSN</span><span class="topo-unknown">GTVSP</span><span class="topo-inside">S</span><span class="topo-unknown">AFLEPF</span><span class="topo-inside">SADV</span><span class="topo-membrane">WVMMFVMLLIVSAV</span></span>
-<span class="topo-line"><span class="topo-membrane">AVF</span><span class="topo-outside">V</span><span class="topo-unknown">FEYFSPVGYNGP</span><span class="topo-outside">SFTI</span><span class="topo-unknown">GKAIWLLWGLVFNN</span><span class="topo-outside">S</span><span class="topo-unknown">LPVQNPKGTT</span><span class="topo-outside">S</span><span class="topo-membrane">KIMVSVWAFFAVIF</span></span>
-<span class="topo-line"><span class="topo-membrane">LASYT</span><span class="topo-inside">ANLAAFMIQRRYVDQVSGLSDKKFQRPNDFSPAFRFGTVPNGSTERNIRNNYLEM</span></span>
-<span class="topo-line"><span class="topo-inside">HSYMVKFNQRSVQDALLSLKSGKLDAFIYDAAVLNYMAGRDEGCKLVTIGSGKVFATTGY</span></span>
-<span class="topo-line"><span class="topo-inside">GIAIQKDSGWKRQVDLAILQLFGDGEMEELEALWLTGICHNEKNEVMSSQLDIDNMAGVF</span></span>
-<span class="topo-line"><span class="topo-membrane">YMLAAAMALSLITFIMEHLF</span><span class="topo-outside">YK</span><span class="topo-unknown">SRAEAKRMKGLEVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">K</span><span class="topo-inside">HPNMDIAVILVGTTEEVAIKD</span><span class="topo-unknown">VHEKDDF</span><span class="topo-inside">HHLPVTPRVELVTMQESDPKSIITRICDLMSDKKVQGVVFGDDTDQEAIAQILDFISVQTLTPILGIHGGSSMIMADKEEASMFFQFGPSI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">EQQASVMLNIMEEYDWYIFSIVTTYFPGYQDFENKVRSTIENSFVGWELEEVIHLDMSLDDIDSKIQNQLCKLQSPVILLYCTKEEATYIFEVAHSVGLTGYGFTWIVPSLVAGDTDTVP</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">DEFPTGLISVSYDEWDYDLPARVRDGIAIITTAASTMLSEHNS</span><span class="topo-unknown">IPQ</span><span class="topo-inside">SKSSCNNIQESRVYEAHMLKRYLINVTFEGRDLSFSEDGYQMHPKLVIILLNQERKWERVGKYKDRSLKMWPVF</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">DLYPN</span><span class="topo-unknown">SEEHKD</span><span class="topo-inside">EHLSIVTLEEAPFVIVEDVDPLSGTCMRNTVPCRKQIRPENRTEEGGNYIKRCCKGFCIDILKKIAKTVKFTYDLYLVTNGKHGKKINGVWNGMIGEVVTKRAYMAVGS</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-inside">LTINEERSEVVDFSVPFIETGISVMVSRSN</span><span class="topo-unknown">GTVSP</span><span class="topo-inside">S</span><span class="topo-unknown">AFLEPF</span><span class="topo-inside">SADV</span><span class="topo-membrane">WVMMFVMLLIVSAVAVF</span><span class="topo-outside">V</span><span class="topo-unknown">FEYFSPVGYNGP</span><span class="topo-outside">SFTI</span><span class="topo-unknown">GKAIWLLWGLVFNN</span><span class="topo-outside">S</span><span class="topo-unknown">LPVQNPKGTT</span><span class="topo-outside">S</span><span class="topo-membrane">KIMVSVWAFFAVIF</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-membrane">LASYT</span><span class="topo-inside">ANLAAFMIQRRYVDQVSGLSDKKFQRPNDFSPAFRFGTVPNGSTERNIRNNYLEMHSYMVKFNQRSVQDALLSLKSGKLDAFIYDAAVLNYMAGRDEGCKLVTIGSGKVFATTGY</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810        </span>
+<span class="topo-line"><span class="topo-inside">GIAIQKDSGWKRQVDLAILQLFGDGEMEELEALWLTGICHNEKNEVMSSQLDIDNMAGVF</span><span class="topo-membrane">YMLAAAMALSLITFIMEHLF</span><span class="topo-outside">YK</span><span class="topo-unknown">SRAEAKRMKGLEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (25 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -773,6 +780,7 @@ The full-length N-methyl-[D Aspartate](/xray-mp-wiki/reagents/substrates/l-aspar
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -788,20 +796,21 @@ The full-length N-methyl-[D Aspartate](/xray-mp-wiki/reagents/substrates/l-aspar
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">DPKIVNIGAVLSTKKHEQIFREAVNQANFFHFTRKIQLNATSVTHRPNAIQMALSVCEDL</span></span>
-<span class="topo-line"><span class="topo-inside">ISSQVYAILVSHPPAPTDHLTPTPISYTAGFYRIPVIGLTTRMSIYSDKSIHLSFLRTVP</span></span>
-<span class="topo-line"><span class="topo-inside">PYSHQALVWFEMMRLFNWNHVILIVSDDHEGRAAQKKLETLLEEKESKADKVLQFEPGTK</span></span>
-<span class="topo-line"><span class="topo-inside">NLTALLLEAKELEARVIILSASEDDATAVYKSAAMLDMTGAGYVWLVGEREISGSALRYA</span></span>
-<span class="topo-line"><span class="topo-inside">PDGIIGLQLINGKNESAHISDAVAVVAQAIHELFEMEQITDPPRGCVGNTNIWKTGPLFK</span></span>
-<span class="topo-line"><span class="topo-inside">RVLMSSKYPDGVTGRIEFNEDGDRKFAQYSIMNLQNRKLVQVGIFDGSYIIQNDRKIIWP</span></span>
-<span class="topo-line"><span class="topo-inside">GGETERPQGYQMSTRLKIVTIHQEPFVYVRPTTSDGTCREEYTINGDPIKKVICNGPDET</span></span>
-<span class="topo-line"><span class="topo-inside">IPGRPTVPQCCYGFCVDLLIKLAREMDFTYEVHLVADGKFGTQERVNNSNAAAWNGMMGE</span></span>
-<span class="topo-line"><span class="topo-inside">LLSGQADMIVAPLTINNERAQYIEFSKPFKYQGLTILVKKEIPRSTLDSFMQPFQS</span><span class="topo-membrane">TLWL</span></span>
-<span class="topo-line"><span class="topo-membrane">LVGLSVHVVAVM</span><span class="topo-outside">LYLLDRF</span><span class="topo-unknown">SPFGRFEDALTLSSAMWFSWRVLLNSGLGEGAPR</span><span class="topo-outside">SFSAR</span><span class="topo-membrane">IL</span></span>
-<span class="topo-line"><span class="topo-membrane">GMVWAGFAMIIVASY</span><span class="topo-inside">TANLAAFLVLRRPEERITGINDPRLRNPSDKFIYATVKQSSVDIY</span></span>
-<span class="topo-line"><span class="topo-inside">FRRQVELSTMYRHMEKHNYESAAEAIQAVRDNKLHAFIWDSAVLEFEASQKCDLVTTGEL</span></span>
-<span class="topo-line"><span class="topo-inside">FFRSGFGIGMRKDSPWKQEVSLNILKSHENGFMEELDKTWVRYQECD</span><span class="topo-unknown">SRSNAPATLTFEN</span></span>
-<span class="topo-line"><span class="topo-unknown">MAGVFMLV</span><span class="topo-inside">A</span><span class="topo-membrane">GGIVAGIFLIFI</span><span class="topo-outside">EIAYKSRA</span><span class="topo-unknown">EAKRMKGLEVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">DPKIVNIGAVLSTKKHEQIFREAVNQANFFHFTRKIQLNATSVTHRPNAIQMALSVCEDLISSQVYAILVSHPPAPTDHLTPTPISYTAGFYRIPVIGLTTRMSIYSDKSIHLSFLRTVP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">PYSHQALVWFEMMRLFNWNHVILIVSDDHEGRAAQKKLETLLEEKESKADKVLQFEPGTKNLTALLLEAKELEARVIILSASEDDATAVYKSAAMLDMTGAGYVWLVGEREISGSALRYA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">PDGIIGLQLINGKNESAHISDAVAVVAQAIHELFEMEQITDPPRGCVGNTNIWKTGPLFKRVLMSSKYPDGVTGRIEFNEDGDRKFAQYSIMNLQNRKLVQVGIFDGSYIIQNDRKIIWP</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">GGETERPQGYQMSTRLKIVTIHQEPFVYVRPTTSDGTCREEYTINGDPIKKVICNGPDETIPGRPTVPQCCYGFCVDLLIKLAREMDFTYEVHLVADGKFGTQERVNNSNAAAWNGMMGE</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-inside">LLSGQADMIVAPLTINNERAQYIEFSKPFKYQGLTILVKKEIPRSTLDSFMQPFQS</span><span class="topo-membrane">TLWLLVGLSVHVVAVM</span><span class="topo-outside">LYLLDRF</span><span class="topo-unknown">SPFGRFEDALTLSSAMWFSWRVLLNSGLGEGAPR</span><span class="topo-outside">SFSAR</span><span class="topo-membrane">IL</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-membrane">GMVWAGFAMIIVASY</span><span class="topo-inside">TANLAAFLVLRRPEERITGINDPRLRNPSDKFIYATVKQSSVDIYFRRQVELSTMYRHMEKHNYESAAEAIQAVRDNKLHAFIWDSAVLEFEASQKCDLVTTGEL</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820  </span>
+<span class="topo-line"><span class="topo-inside">FFRSGFGIGMRKDSPWKQEVSLNILKSHENGFMEELDKTWVRYQECD</span><span class="topo-unknown">SRSNAPATLTFENMAGVFMLV</span><span class="topo-inside">A</span><span class="topo-membrane">GGIVAGIFLIFI</span><span class="topo-outside">EIAYKSRA</span><span class="topo-unknown">EAKRMKGLEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (14 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -911,6 +920,7 @@ The full-length N-methyl-[D Aspartate](/xray-mp-wiki/reagents/substrates/l-aspar
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -926,20 +936,21 @@ The full-length N-methyl-[D Aspartate](/xray-mp-wiki/reagents/substrates/l-aspar
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">KHPNMDIAVILVGTTEEVAIKDVHEKDDFHHLPVTPRVELVTMQESDPKSIITRICDLMS</span></span>
-<span class="topo-line"><span class="topo-inside">DKKVQGVVFGDDTDQEAIAQILDFISVQTLTPILGIHGGSSMIMADKEEASMFFQFGPSI</span></span>
-<span class="topo-line"><span class="topo-inside">EQQASVMLNIMEEYDWYIFSIVTTYFPGYQDFENKVRSTIENSFVGWELEEVIHLDMSLD</span></span>
-<span class="topo-line"><span class="topo-inside">DIDSKIQNQLCKLQSPVILLYCTKEEATYIFEVAHSVGLTGYGFTWIVPSLVAGDTDTVP</span></span>
-<span class="topo-line"><span class="topo-inside">DEFPTGLISVSYDEWDYDLPARVRDGIAIITTAASTMLSEHNSIPQSKSSCNNIQESRVY</span></span>
-<span class="topo-line"><span class="topo-inside">EAHMLKRYLINVTFEGRDLSFSEDGYQMHPKLVIILLNQERKWERVGKYKDRSLKMWPVF</span></span>
-<span class="topo-line"><span class="topo-unknown">DLYPNSEEHKDE</span><span class="topo-inside">HLSIVTLEEAPFVIVEDVDPLSGTCMRNTVPCRKQIRPE</span><span class="topo-unknown">NRTEEG</span><span class="topo-inside">GNY</span></span>
-<span class="topo-line"><span class="topo-inside">IKRCCKGFCIDILKKIAKTVKFTYDLYLVTNGKHGKKINGVWNGMIGEVVTKRAYMAVGS</span></span>
-<span class="topo-line"><span class="topo-inside">LTINEERSEVVDFSVPFIETGISVMVSRSN</span><span class="topo-unknown">GTV</span><span class="topo-inside">SPS</span><span class="topo-unknown">AFLEPF</span><span class="topo-membrane">SADVWVMMFVMLLIVSAV</span></span>
-<span class="topo-line"><span class="topo-outside">AVFV</span><span class="topo-unknown">FEYFSPVGYNGPSFTIGKAIWLLWGLVFNNSLPVQNPKGT</span><span class="topo-outside">TSK</span><span class="topo-membrane">IMVSVWAFFAVIF</span></span>
-<span class="topo-line"><span class="topo-membrane">LASYT</span><span class="topo-inside">ANLAAFMIQRRYVDQVSGLSDKKFQRPNDFSPAFRFGTVPNGSTERNIRNNYLEM</span></span>
-<span class="topo-line"><span class="topo-inside">HSYMVKFNQRSVQDALLSLKSGKLDAFIYDAAVLNYMAGRDEGCKLVTIGSGKVFATTGY</span></span>
-<span class="topo-line"><span class="topo-inside">GIAIQKDSGWKRQVDLAILQLFGDGEMEELEALWLTGICHNEKN</span><span class="topo-unknown">EVMSSQLDIDNMAGV</span><span class="topo-inside">F</span></span>
-<span class="topo-line"><span class="topo-membrane">YMLAAAMALSLIT</span><span class="topo-outside">FIMEHLFY</span><span class="topo-unknown">KSRAEAKRMKGLEVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">KHPNMDIAVILVGTTEEVAIKDVHEKDDFHHLPVTPRVELVTMQESDPKSIITRICDLMSDKKVQGVVFGDDTDQEAIAQILDFISVQTLTPILGIHGGSSMIMADKEEASMFFQFGPSI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">EQQASVMLNIMEEYDWYIFSIVTTYFPGYQDFENKVRSTIENSFVGWELEEVIHLDMSLDDIDSKIQNQLCKLQSPVILLYCTKEEATYIFEVAHSVGLTGYGFTWIVPSLVAGDTDTVP</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">DEFPTGLISVSYDEWDYDLPARVRDGIAIITTAASTMLSEHNSIPQSKSSCNNIQESRVYEAHMLKRYLINVTFEGRDLSFSEDGYQMHPKLVIILLNQERKWERVGKYKDRSLKMWPVF</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-unknown">DLYPNSEEHKDE</span><span class="topo-inside">HLSIVTLEEAPFVIVEDVDPLSGTCMRNTVPCRKQIRPE</span><span class="topo-unknown">NRTEEG</span><span class="topo-inside">GNYIKRCCKGFCIDILKKIAKTVKFTYDLYLVTNGKHGKKINGVWNGMIGEVVTKRAYMAVGS</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-inside">LTINEERSEVVDFSVPFIETGISVMVSRSN</span><span class="topo-unknown">GTV</span><span class="topo-inside">SPS</span><span class="topo-unknown">AFLEPF</span><span class="topo-membrane">SADVWVMMFVMLLIVSAV</span><span class="topo-outside">AVFV</span><span class="topo-unknown">FEYFSPVGYNGPSFTIGKAIWLLWGLVFNNSLPVQNPKGT</span><span class="topo-outside">TSK</span><span class="topo-membrane">IMVSVWAFFAVIF</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-membrane">LASYT</span><span class="topo-inside">ANLAAFMIQRRYVDQVSGLSDKKFQRPNDFSPAFRFGTVPNGSTERNIRNNYLEMHSYMVKFNQRSVQDALLSLKSGKLDAFIYDAAVLNYMAGRDEGCKLVTIGSGKVFATTGY</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810        </span>
+<span class="topo-line"><span class="topo-inside">GIAIQKDSGWKRQVDLAILQLFGDGEMEELEALWLTGICHNEKN</span><span class="topo-unknown">EVMSSQLDIDNMAGV</span><span class="topo-inside">F</span><span class="topo-membrane">YMLAAAMALSLIT</span><span class="topo-outside">FIMEHLFY</span><span class="topo-unknown">KSRAEAKRMKGLEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1098,6 +1109,7 @@ The full-length N-methyl-[D Aspartate](/xray-mp-wiki/reagents/substrates/l-aspar
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1113,20 +1125,21 @@ The full-length N-methyl-[D Aspartate](/xray-mp-wiki/reagents/substrates/l-aspar
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">DPKIVNIGAVLSTKKHEQIFREAVNQANFFHFTRKIQLNATSVTHRPNAIQMALSVCEDL</span></span>
-<span class="topo-line"><span class="topo-inside">ISSQVYAILVSHPPAPTDHLTPTPISYTAGFYRIPVIGLTTRMSIYSDKSIHLSFLRTVP</span></span>
-<span class="topo-line"><span class="topo-inside">PYSHQALVWFEMMRLFNWNHVILIVSDDHEGRAAQKKLETLLEEKESKADKVLQFEPGTK</span></span>
-<span class="topo-line"><span class="topo-inside">NLTALLLEAKELEARVIILSASEDDATAVYKSAAMLDMTGAGYVWLVGEREISGSALRYA</span></span>
-<span class="topo-line"><span class="topo-inside">PDGIIGLQLINGKNESAHISDAVAVVAQAIHELFEMEQITDPPRGCVGNTNIWKTGPLFK</span></span>
-<span class="topo-line"><span class="topo-inside">RVLMSSKYPDGVTGRIEFNEDGDRKFAQYSIMNLQNRKLVQVGIFDGSYIIQNDRKIIWP</span></span>
-<span class="topo-line"><span class="topo-inside">GGETERPQGYQMSTRLKIVTIHQEPFVYVRPTTSDGTCREEYTINGDPIKKVICNGPD</span><span class="topo-unknown">ET</span></span>
-<span class="topo-line"><span class="topo-unknown">IPGR</span><span class="topo-inside">PTVPQCCYGFCVDLLIKLAREMDFTYEVHLVADGKFGTQERV</span><span class="topo-unknown">NNSNA</span><span class="topo-inside">AAWNGMMGE</span></span>
-<span class="topo-line"><span class="topo-inside">LLSGQADMIVAPLTINNERAQYIEFSKPFKYQGLTILVKKEIPRSTLDSFMQPFQS</span><span class="topo-membrane">TLWL</span></span>
-<span class="topo-line"><span class="topo-membrane">LVGLSVHVVAVMLYLL</span><span class="topo-outside">D</span><span class="topo-unknown">RFSPFGRFEDALTLSSAMWFSWRVLLNSGLGEGAPRSF</span><span class="topo-outside">S</span><span class="topo-membrane">ARIL</span></span>
-<span class="topo-line"><span class="topo-membrane">GMVWAGFAMIIVA</span><span class="topo-inside">SYTANLAAFLVLRRPEERITGINDPRLRNPSDKFIYATVKQSSVDIY</span></span>
-<span class="topo-line"><span class="topo-inside">FRRQVELSTMYRHMEKHNYESAAEAIQAVRDNKLHAFIWDSAVLEFEASQKCDLVTTGEL</span></span>
-<span class="topo-line"><span class="topo-inside">FFRSGFGIGMRKDSPWKQEVSLNILKSHENGFMEELDKTWVRYQECDS</span><span class="topo-unknown">RSNAPATLTFEN</span></span>
-<span class="topo-line"><span class="topo-unknown">MAGVFMLVAGGIVAGIFLIFIEIAYKSRAEAKRMKGLEVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">DPKIVNIGAVLSTKKHEQIFREAVNQANFFHFTRKIQLNATSVTHRPNAIQMALSVCEDLISSQVYAILVSHPPAPTDHLTPTPISYTAGFYRIPVIGLTTRMSIYSDKSIHLSFLRTVP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">PYSHQALVWFEMMRLFNWNHVILIVSDDHEGRAAQKKLETLLEEKESKADKVLQFEPGTKNLTALLLEAKELEARVIILSASEDDATAVYKSAAMLDMTGAGYVWLVGEREISGSALRYA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">PDGIIGLQLINGKNESAHISDAVAVVAQAIHELFEMEQITDPPRGCVGNTNIWKTGPLFKRVLMSSKYPDGVTGRIEFNEDGDRKFAQYSIMNLQNRKLVQVGIFDGSYIIQNDRKIIWP</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">GGETERPQGYQMSTRLKIVTIHQEPFVYVRPTTSDGTCREEYTINGDPIKKVICNGPD</span><span class="topo-unknown">ETIPGR</span><span class="topo-inside">PTVPQCCYGFCVDLLIKLAREMDFTYEVHLVADGKFGTQERV</span><span class="topo-unknown">NNSNA</span><span class="topo-inside">AAWNGMMGE</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-inside">LLSGQADMIVAPLTINNERAQYIEFSKPFKYQGLTILVKKEIPRSTLDSFMQPFQS</span><span class="topo-membrane">TLWLLVGLSVHVVAVMLYLL</span><span class="topo-outside">D</span><span class="topo-unknown">RFSPFGRFEDALTLSSAMWFSWRVLLNSGLGEGAPRSF</span><span class="topo-outside">S</span><span class="topo-membrane">ARIL</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-membrane">GMVWAGFAMIIVA</span><span class="topo-inside">SYTANLAAFLVLRRPEERITGINDPRLRNPSDKFIYATVKQSSVDIYFRRQVELSTMYRHMEKHNYESAAEAIQAVRDNKLHAFIWDSAVLEFEASQKCDLVTTGEL</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820  </span>
+<span class="topo-line"><span class="topo-inside">FFRSGFGIGMRKDSPWKQEVSLNILKSHENGFMEELDKTWVRYQECDS</span><span class="topo-unknown">RSNAPATLTFENMAGVFMLVAGGIVAGIFLIFIEIAYKSRAEAKRMKGLEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (12 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1222,6 +1235,7 @@ The full-length N-methyl-[D Aspartate](/xray-mp-wiki/reagents/substrates/l-aspar
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1237,20 +1251,21 @@ The full-length N-methyl-[D Aspartate](/xray-mp-wiki/reagents/substrates/l-aspar
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">K</span><span class="topo-inside">HPNMDIAVILVGTTEEVAIKD</span><span class="topo-unknown">VHEKDDF</span><span class="topo-inside">HHLPVTPRVELVTMQESDPKSIITRICDLMS</span></span>
-<span class="topo-line"><span class="topo-inside">DKKVQGVVFGDDTDQEAIAQILDFISVQTLTPILGIHGGSSMIMADKEEASMFFQFGPSI</span></span>
-<span class="topo-line"><span class="topo-inside">EQQASVMLNIMEEYDWYIFSIVTTYFPGYQDFENKVRSTIENSFVGWELEEVIHLDMSLD</span></span>
-<span class="topo-line"><span class="topo-inside">DIDSKIQNQLCKLQSPVILLYCTKEEATYIFEVAHSVGLTGYGFTWIVPSLVAGDTDTVP</span></span>
-<span class="topo-line"><span class="topo-inside">DEFPTGLISVSYDEWDYDLPARVRDGIAIITTAASTMLSEHNS</span><span class="topo-unknown">IPQ</span><span class="topo-inside">SKSSCNNIQESRVY</span></span>
-<span class="topo-line"><span class="topo-inside">EAHMLKRYLINVTFEGRDLSFSEDGYQMHPKLVIILLNQERKWERVGKYKDRSLKMWPVF</span></span>
-<span class="topo-line"><span class="topo-inside">DLYPN</span><span class="topo-unknown">SEEHKD</span><span class="topo-inside">EHLSIVTLEEAPFVIVEDVDPLSGTCMRNTVPCRKQIRPENRTEEGGNY</span></span>
-<span class="topo-line"><span class="topo-inside">IKRCCKGFCIDILKKIAKTVKFTYDLYLVTNGKHGKKINGVWNGMIGEVVTKRAYMAVGS</span></span>
-<span class="topo-line"><span class="topo-inside">LTINEERSEVVDFSVPFIETGISVMVSRSN</span><span class="topo-unknown">GTVSP</span><span class="topo-inside">S</span><span class="topo-unknown">AFLEPF</span><span class="topo-inside">SADV</span><span class="topo-membrane">WVMMFVMLLIVSAV</span></span>
-<span class="topo-line"><span class="topo-membrane">AVF</span><span class="topo-outside">V</span><span class="topo-unknown">FEYFSPVGYNGP</span><span class="topo-outside">SFTI</span><span class="topo-unknown">GKAIWLLWGLVFNN</span><span class="topo-outside">S</span><span class="topo-unknown">LPVQNPKGTT</span><span class="topo-outside">S</span><span class="topo-membrane">KIMVSVWAFFAVIF</span></span>
-<span class="topo-line"><span class="topo-membrane">LASYT</span><span class="topo-inside">ANLAAFMIQRRYVDQVSGLSDKKFQRPNDFSPAFRFGTVPNGSTERNIRNNYLEM</span></span>
-<span class="topo-line"><span class="topo-inside">HSYMVKFNQRSVQDALLSLKSGKLDAFIYDAAVLNYMAGRDEGCKLVTIGSGKVFATTGY</span></span>
-<span class="topo-line"><span class="topo-inside">GIAIQKDSGWKRQVDLAILQLFGDGEMEELEALWLTGICHNEKNEVMSSQLDIDNMAGVF</span></span>
-<span class="topo-line"><span class="topo-membrane">YMLAAAMALSLITFIMEHLF</span><span class="topo-outside">YK</span><span class="topo-unknown">SRAEAKRMKGLEVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">K</span><span class="topo-inside">HPNMDIAVILVGTTEEVAIKD</span><span class="topo-unknown">VHEKDDF</span><span class="topo-inside">HHLPVTPRVELVTMQESDPKSIITRICDLMSDKKVQGVVFGDDTDQEAIAQILDFISVQTLTPILGIHGGSSMIMADKEEASMFFQFGPSI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">EQQASVMLNIMEEYDWYIFSIVTTYFPGYQDFENKVRSTIENSFVGWELEEVIHLDMSLDDIDSKIQNQLCKLQSPVILLYCTKEEATYIFEVAHSVGLTGYGFTWIVPSLVAGDTDTVP</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">DEFPTGLISVSYDEWDYDLPARVRDGIAIITTAASTMLSEHNS</span><span class="topo-unknown">IPQ</span><span class="topo-inside">SKSSCNNIQESRVYEAHMLKRYLINVTFEGRDLSFSEDGYQMHPKLVIILLNQERKWERVGKYKDRSLKMWPVF</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">DLYPN</span><span class="topo-unknown">SEEHKD</span><span class="topo-inside">EHLSIVTLEEAPFVIVEDVDPLSGTCMRNTVPCRKQIRPENRTEEGGNYIKRCCKGFCIDILKKIAKTVKFTYDLYLVTNGKHGKKINGVWNGMIGEVVTKRAYMAVGS</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-inside">LTINEERSEVVDFSVPFIETGISVMVSRSN</span><span class="topo-unknown">GTVSP</span><span class="topo-inside">S</span><span class="topo-unknown">AFLEPF</span><span class="topo-inside">SADV</span><span class="topo-membrane">WVMMFVMLLIVSAVAVF</span><span class="topo-outside">V</span><span class="topo-unknown">FEYFSPVGYNGP</span><span class="topo-outside">SFTI</span><span class="topo-unknown">GKAIWLLWGLVFNN</span><span class="topo-outside">S</span><span class="topo-unknown">LPVQNPKGTT</span><span class="topo-outside">S</span><span class="topo-membrane">KIMVSVWAFFAVIF</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-membrane">LASYT</span><span class="topo-inside">ANLAAFMIQRRYVDQVSGLSDKKFQRPNDFSPAFRFGTVPNGSTERNIRNNYLEMHSYMVKFNQRSVQDALLSLKSGKLDAFIYDAAVLNYMAGRDEGCKLVTIGSGKVFATTGY</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810        </span>
+<span class="topo-line"><span class="topo-inside">GIAIQKDSGWKRQVDLAILQLFGDGEMEELEALWLTGICHNEKNEVMSSQLDIDNMAGVF</span><span class="topo-membrane">YMLAAAMALSLITFIMEHLF</span><span class="topo-outside">YK</span><span class="topo-unknown">SRAEAKRMKGLEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (25 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1437,6 +1452,7 @@ The full-length N-methyl-[D Aspartate](/xray-mp-wiki/reagents/substrates/l-aspar
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1452,20 +1468,21 @@ The full-length N-methyl-[D Aspartate](/xray-mp-wiki/reagents/substrates/l-aspar
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">DPKIVNIGAVLSTKKHEQIFREAVNQANFFHFTRKIQLNATSVTHRPNAIQMALSVCEDL</span></span>
-<span class="topo-line"><span class="topo-inside">ISSQVYAILVSHPPAPTDHLTPTPISYTAGFYRIPVIGLTTRMSIYSDKSIHLSFLRTVP</span></span>
-<span class="topo-line"><span class="topo-inside">PYSHQALVWFEMMRLFNWNHVILIVSDDHEGRAAQKKLETLLEEKESKADKVLQFEPGTK</span></span>
-<span class="topo-line"><span class="topo-inside">NLTALLLEAKELEARVIILSASEDDATAVYKSAAMLDMTGAGYVWLVGEREISGSALRYA</span></span>
-<span class="topo-line"><span class="topo-inside">PDGIIGLQLINGKNESAHISDAVAVVAQAIHELFEMEQITDPPRGCVGNTNIWKTGPLFK</span></span>
-<span class="topo-line"><span class="topo-inside">RVLMSSKYPDGVTGRIEFNEDGDRKFAQYSIMNLQNRKLVQVGIFDGSYIIQNDRKIIWP</span></span>
-<span class="topo-line"><span class="topo-inside">GGETERPQGYQMSTRLKIVTIHQEPFVYVRPTTSDGTCREEYTINGDPIKKVICNGPDET</span></span>
-<span class="topo-line"><span class="topo-inside">IPGRPTVPQCCYGFCVDLLIKLAREMDFTYEVHLVADGKFGTQERVNNSNAAAWNGMMGE</span></span>
-<span class="topo-line"><span class="topo-inside">LLSGQADMIVAPLTINNERAQYIEFSKPFKYQGLTILVKKEIPRSTLDSFMQPFQS</span><span class="topo-membrane">TLWL</span></span>
-<span class="topo-line"><span class="topo-membrane">LVGLSVHVVAVM</span><span class="topo-outside">LYLLDRF</span><span class="topo-unknown">SPFGRFEDALTLSSAMWFSWRVLLNSGLGEGAPR</span><span class="topo-outside">SFSAR</span><span class="topo-membrane">IL</span></span>
-<span class="topo-line"><span class="topo-membrane">GMVWAGFAMIIVASY</span><span class="topo-inside">TANLAAFLVLRRPEERITGINDPRLRNPSDKFIYATVKQSSVDIY</span></span>
-<span class="topo-line"><span class="topo-inside">FRRQVELSTMYRHMEKHNYESAAEAIQAVRDNKLHAFIWDSAVLEFEASQKCDLVTTGEL</span></span>
-<span class="topo-line"><span class="topo-inside">FFRSGFGIGMRKDSPWKQEVSLNILKSHENGFMEELDKTWVRYQECD</span><span class="topo-unknown">SRSNAPATLTFEN</span></span>
-<span class="topo-line"><span class="topo-unknown">MAGVFMLV</span><span class="topo-inside">A</span><span class="topo-membrane">GGIVAGIFLIFI</span><span class="topo-outside">EIAYKSRA</span><span class="topo-unknown">EAKRMKGLEVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">DPKIVNIGAVLSTKKHEQIFREAVNQANFFHFTRKIQLNATSVTHRPNAIQMALSVCEDLISSQVYAILVSHPPAPTDHLTPTPISYTAGFYRIPVIGLTTRMSIYSDKSIHLSFLRTVP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">PYSHQALVWFEMMRLFNWNHVILIVSDDHEGRAAQKKLETLLEEKESKADKVLQFEPGTKNLTALLLEAKELEARVIILSASEDDATAVYKSAAMLDMTGAGYVWLVGEREISGSALRYA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">PDGIIGLQLINGKNESAHISDAVAVVAQAIHELFEMEQITDPPRGCVGNTNIWKTGPLFKRVLMSSKYPDGVTGRIEFNEDGDRKFAQYSIMNLQNRKLVQVGIFDGSYIIQNDRKIIWP</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">GGETERPQGYQMSTRLKIVTIHQEPFVYVRPTTSDGTCREEYTINGDPIKKVICNGPDETIPGRPTVPQCCYGFCVDLLIKLAREMDFTYEVHLVADGKFGTQERVNNSNAAAWNGMMGE</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-inside">LLSGQADMIVAPLTINNERAQYIEFSKPFKYQGLTILVKKEIPRSTLDSFMQPFQS</span><span class="topo-membrane">TLWLLVGLSVHVVAVM</span><span class="topo-outside">LYLLDRF</span><span class="topo-unknown">SPFGRFEDALTLSSAMWFSWRVLLNSGLGEGAPR</span><span class="topo-outside">SFSAR</span><span class="topo-membrane">IL</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-membrane">GMVWAGFAMIIVASY</span><span class="topo-inside">TANLAAFLVLRRPEERITGINDPRLRNPSDKFIYATVKQSSVDIYFRRQVELSTMYRHMEKHNYESAAEAIQAVRDNKLHAFIWDSAVLEFEASQKCDLVTTGEL</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820  </span>
+<span class="topo-line"><span class="topo-inside">FFRSGFGIGMRKDSPWKQEVSLNILKSHENGFMEELDKTWVRYQECD</span><span class="topo-unknown">SRSNAPATLTFENMAGVFMLV</span><span class="topo-inside">A</span><span class="topo-membrane">GGIVAGIFLIFI</span><span class="topo-outside">EIAYKSRA</span><span class="topo-unknown">EAKRMKGLEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (14 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1575,6 +1592,7 @@ The full-length N-methyl-[D Aspartate](/xray-mp-wiki/reagents/substrates/l-aspar
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1590,20 +1608,21 @@ The full-length N-methyl-[D Aspartate](/xray-mp-wiki/reagents/substrates/l-aspar
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">KHPNMDIAVILVGTTEEVAIKDVHEKDDFHHLPVTPRVELVTMQESDPKSIITRICDLMS</span></span>
-<span class="topo-line"><span class="topo-inside">DKKVQGVVFGDDTDQEAIAQILDFISVQTLTPILGIHGGSSMIMADKEEASMFFQFGPSI</span></span>
-<span class="topo-line"><span class="topo-inside">EQQASVMLNIMEEYDWYIFSIVTTYFPGYQDFENKVRSTIENSFVGWELEEVIHLDMSLD</span></span>
-<span class="topo-line"><span class="topo-inside">DIDSKIQNQLCKLQSPVILLYCTKEEATYIFEVAHSVGLTGYGFTWIVPSLVAGDTDTVP</span></span>
-<span class="topo-line"><span class="topo-inside">DEFPTGLISVSYDEWDYDLPARVRDGIAIITTAASTMLSEHNSIPQSKSSCNNIQESRVY</span></span>
-<span class="topo-line"><span class="topo-inside">EAHMLKRYLINVTFEGRDLSFSEDGYQMHPKLVIILLNQERKWERVGKYKDRSLKMWPVF</span></span>
-<span class="topo-line"><span class="topo-unknown">DLYPNSEEHKDE</span><span class="topo-inside">HLSIVTLEEAPFVIVEDVDPLSGTCMRNTVPCRKQIRPE</span><span class="topo-unknown">NRTEEG</span><span class="topo-inside">GNY</span></span>
-<span class="topo-line"><span class="topo-inside">IKRCCKGFCIDILKKIAKTVKFTYDLYLVTNGKHGKKINGVWNGMIGEVVTKRAYMAVGS</span></span>
-<span class="topo-line"><span class="topo-inside">LTINEERSEVVDFSVPFIETGISVMVSRSN</span><span class="topo-unknown">GTV</span><span class="topo-inside">SPS</span><span class="topo-unknown">AFLEPF</span><span class="topo-membrane">SADVWVMMFVMLLIVSAV</span></span>
-<span class="topo-line"><span class="topo-outside">AVFV</span><span class="topo-unknown">FEYFSPVGYNGPSFTIGKAIWLLWGLVFNNSLPVQNPKGT</span><span class="topo-outside">TSK</span><span class="topo-membrane">IMVSVWAFFAVIF</span></span>
-<span class="topo-line"><span class="topo-membrane">LASYT</span><span class="topo-inside">ANLAAFMIQRRYVDQVSGLSDKKFQRPNDFSPAFRFGTVPNGSTERNIRNNYLEM</span></span>
-<span class="topo-line"><span class="topo-inside">HSYMVKFNQRSVQDALLSLKSGKLDAFIYDAAVLNYMAGRDEGCKLVTIGSGKVFATTGY</span></span>
-<span class="topo-line"><span class="topo-inside">GIAIQKDSGWKRQVDLAILQLFGDGEMEELEALWLTGICHNEKN</span><span class="topo-unknown">EVMSSQLDIDNMAGV</span><span class="topo-inside">F</span></span>
-<span class="topo-line"><span class="topo-membrane">YMLAAAMALSLIT</span><span class="topo-outside">FIMEHLFY</span><span class="topo-unknown">KSRAEAKRMKGLEVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">KHPNMDIAVILVGTTEEVAIKDVHEKDDFHHLPVTPRVELVTMQESDPKSIITRICDLMSDKKVQGVVFGDDTDQEAIAQILDFISVQTLTPILGIHGGSSMIMADKEEASMFFQFGPSI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">EQQASVMLNIMEEYDWYIFSIVTTYFPGYQDFENKVRSTIENSFVGWELEEVIHLDMSLDDIDSKIQNQLCKLQSPVILLYCTKEEATYIFEVAHSVGLTGYGFTWIVPSLVAGDTDTVP</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">DEFPTGLISVSYDEWDYDLPARVRDGIAIITTAASTMLSEHNSIPQSKSSCNNIQESRVYEAHMLKRYLINVTFEGRDLSFSEDGYQMHPKLVIILLNQERKWERVGKYKDRSLKMWPVF</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-unknown">DLYPNSEEHKDE</span><span class="topo-inside">HLSIVTLEEAPFVIVEDVDPLSGTCMRNTVPCRKQIRPE</span><span class="topo-unknown">NRTEEG</span><span class="topo-inside">GNYIKRCCKGFCIDILKKIAKTVKFTYDLYLVTNGKHGKKINGVWNGMIGEVVTKRAYMAVGS</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-inside">LTINEERSEVVDFSVPFIETGISVMVSRSN</span><span class="topo-unknown">GTV</span><span class="topo-inside">SPS</span><span class="topo-unknown">AFLEPF</span><span class="topo-membrane">SADVWVMMFVMLLIVSAV</span><span class="topo-outside">AVFV</span><span class="topo-unknown">FEYFSPVGYNGPSFTIGKAIWLLWGLVFNNSLPVQNPKGT</span><span class="topo-outside">TSK</span><span class="topo-membrane">IMVSVWAFFAVIF</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-membrane">LASYT</span><span class="topo-inside">ANLAAFMIQRRYVDQVSGLSDKKFQRPNDFSPAFRFGTVPNGSTERNIRNNYLEMHSYMVKFNQRSVQDALLSLKSGKLDAFIYDAAVLNYMAGRDEGCKLVTIGSGKVFATTGY</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810        </span>
+<span class="topo-line"><span class="topo-inside">GIAIQKDSGWKRQVDLAILQLFGDGEMEELEALWLTGICHNEKN</span><span class="topo-unknown">EVMSSQLDIDNMAGV</span><span class="topo-inside">F</span><span class="topo-membrane">YMLAAAMALSLIT</span><span class="topo-outside">FIMEHLFY</span><span class="topo-unknown">KSRAEAKRMKGLEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1762,6 +1781,7 @@ The full-length N-methyl-[D Aspartate](/xray-mp-wiki/reagents/substrates/l-aspar
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1777,20 +1797,21 @@ The full-length N-methyl-[D Aspartate](/xray-mp-wiki/reagents/substrates/l-aspar
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">DPKIVNIGAVLSTKKHEQIFREAVNQANFFHFTRKIQLNATSVTHRPNAIQMALSVCEDL</span></span>
-<span class="topo-line"><span class="topo-inside">ISSQVYAILVSHPPAPTDHLTPTPISYTAGFYRIPVIGLTTRMSIYSDKSIHLSFLRTVP</span></span>
-<span class="topo-line"><span class="topo-inside">PYSHQALVWFEMMRLFNWNHVILIVSDDHEGRAAQKKLETLLEEKESKADKVLQFEPGTK</span></span>
-<span class="topo-line"><span class="topo-inside">NLTALLLEAKELEARVIILSASEDDATAVYKSAAMLDMTGAGYVWLVGEREISGSALRYA</span></span>
-<span class="topo-line"><span class="topo-inside">PDGIIGLQLINGKNESAHISDAVAVVAQAIHELFEMEQITDPPRGCVGNTNIWKTGPLFK</span></span>
-<span class="topo-line"><span class="topo-inside">RVLMSSKYPDGVTGRIEFNEDGDRKFAQYSIMNLQNRKLVQVGIFDGSYIIQNDRKIIWP</span></span>
-<span class="topo-line"><span class="topo-inside">GGETERPQGYQMSTRLKIVTIHQEPFVYVRPTTSDGTCREEYTINGDPIKKVICNGPD</span><span class="topo-unknown">ET</span></span>
-<span class="topo-line"><span class="topo-unknown">IPGR</span><span class="topo-inside">PTVPQCCYGFCVDLLIKLAREMDFTYEVHLVADGKFGTQERV</span><span class="topo-unknown">NNSNA</span><span class="topo-inside">AAWNGMMGE</span></span>
-<span class="topo-line"><span class="topo-inside">LLSGQADMIVAPLTINNERAQYIEFSKPFKYQGLTILVKKEIPRSTLDSFMQPFQS</span><span class="topo-membrane">TLWL</span></span>
-<span class="topo-line"><span class="topo-membrane">LVGLSVHVVAVMLYLL</span><span class="topo-outside">D</span><span class="topo-unknown">RFSPFGRFEDALTLSSAMWFSWRVLLNSGLGEGAPRSF</span><span class="topo-outside">S</span><span class="topo-membrane">ARIL</span></span>
-<span class="topo-line"><span class="topo-membrane">GMVWAGFAMIIVA</span><span class="topo-inside">SYTANLAAFLVLRRPEERITGINDPRLRNPSDKFIYATVKQSSVDIY</span></span>
-<span class="topo-line"><span class="topo-inside">FRRQVELSTMYRHMEKHNYESAAEAIQAVRDNKLHAFIWDSAVLEFEASQKCDLVTTGEL</span></span>
-<span class="topo-line"><span class="topo-inside">FFRSGFGIGMRKDSPWKQEVSLNILKSHENGFMEELDKTWVRYQECDS</span><span class="topo-unknown">RSNAPATLTFEN</span></span>
-<span class="topo-line"><span class="topo-unknown">MAGVFMLVAGGIVAGIFLIFIEIAYKSRAEAKRMKGLEVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">DPKIVNIGAVLSTKKHEQIFREAVNQANFFHFTRKIQLNATSVTHRPNAIQMALSVCEDLISSQVYAILVSHPPAPTDHLTPTPISYTAGFYRIPVIGLTTRMSIYSDKSIHLSFLRTVP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">PYSHQALVWFEMMRLFNWNHVILIVSDDHEGRAAQKKLETLLEEKESKADKVLQFEPGTKNLTALLLEAKELEARVIILSASEDDATAVYKSAAMLDMTGAGYVWLVGEREISGSALRYA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">PDGIIGLQLINGKNESAHISDAVAVVAQAIHELFEMEQITDPPRGCVGNTNIWKTGPLFKRVLMSSKYPDGVTGRIEFNEDGDRKFAQYSIMNLQNRKLVQVGIFDGSYIIQNDRKIIWP</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">GGETERPQGYQMSTRLKIVTIHQEPFVYVRPTTSDGTCREEYTINGDPIKKVICNGPD</span><span class="topo-unknown">ETIPGR</span><span class="topo-inside">PTVPQCCYGFCVDLLIKLAREMDFTYEVHLVADGKFGTQERV</span><span class="topo-unknown">NNSNA</span><span class="topo-inside">AAWNGMMGE</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-inside">LLSGQADMIVAPLTINNERAQYIEFSKPFKYQGLTILVKKEIPRSTLDSFMQPFQS</span><span class="topo-membrane">TLWLLVGLSVHVVAVMLYLL</span><span class="topo-outside">D</span><span class="topo-unknown">RFSPFGRFEDALTLSSAMWFSWRVLLNSGLGEGAPRSF</span><span class="topo-outside">S</span><span class="topo-membrane">ARIL</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-membrane">GMVWAGFAMIIVA</span><span class="topo-inside">SYTANLAAFLVLRRPEERITGINDPRLRNPSDKFIYATVKQSSVDIYFRRQVELSTMYRHMEKHNYESAAEAIQAVRDNKLHAFIWDSAVLEFEASQKCDLVTTGEL</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820  </span>
+<span class="topo-line"><span class="topo-inside">FFRSGFGIGMRKDSPWKQEVSLNILKSHENGFMEELDKTWVRYQECDS</span><span class="topo-unknown">RSNAPATLTFENMAGVFMLVAGGIVAGIFLIFIEIAYKSRAEAKRMKGLEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (12 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1886,6 +1907,7 @@ The full-length N-methyl-[D Aspartate](/xray-mp-wiki/reagents/substrates/l-aspar
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1901,20 +1923,21 @@ The full-length N-methyl-[D Aspartate](/xray-mp-wiki/reagents/substrates/l-aspar
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">K</span><span class="topo-inside">HPNMDIAVILVGTTEEVAIKD</span><span class="topo-unknown">VHEKDDF</span><span class="topo-inside">HHLPVTPRVELVTMQESDPKSIITRICDLMS</span></span>
-<span class="topo-line"><span class="topo-inside">DKKVQGVVFGDDTDQEAIAQILDFISVQTLTPILGIHGGSSMIMADKEEASMFFQFGPSI</span></span>
-<span class="topo-line"><span class="topo-inside">EQQASVMLNIMEEYDWYIFSIVTTYFPGYQDFENKVRSTIENSFVGWELEEVIHLDMSLD</span></span>
-<span class="topo-line"><span class="topo-inside">DIDSKIQNQLCKLQSPVILLYCTKEEATYIFEVAHSVGLTGYGFTWIVPSLVAGDTDTVP</span></span>
-<span class="topo-line"><span class="topo-inside">DEFPTGLISVSYDEWDYDLPARVRDGIAIITTAASTMLSEHNS</span><span class="topo-unknown">IPQ</span><span class="topo-inside">SKSSCNNIQESRVY</span></span>
-<span class="topo-line"><span class="topo-inside">EAHMLKRYLINVTFEGRDLSFSEDGYQMHPKLVIILLNQERKWERVGKYKDRSLKMWPVF</span></span>
-<span class="topo-line"><span class="topo-inside">DLYPN</span><span class="topo-unknown">SEEHKD</span><span class="topo-inside">EHLSIVTLEEAPFVIVEDVDPLSGTCMRNTVPCRKQIRPENRTEEGGNY</span></span>
-<span class="topo-line"><span class="topo-inside">IKRCCKGFCIDILKKIAKTVKFTYDLYLVTNGKHGKKINGVWNGMIGEVVTKRAYMAVGS</span></span>
-<span class="topo-line"><span class="topo-inside">LTINEERSEVVDFSVPFIETGISVMVSRSN</span><span class="topo-unknown">GTVSP</span><span class="topo-inside">S</span><span class="topo-unknown">AFLEPF</span><span class="topo-inside">SADV</span><span class="topo-membrane">WVMMFVMLLIVSAV</span></span>
-<span class="topo-line"><span class="topo-membrane">AVF</span><span class="topo-outside">V</span><span class="topo-unknown">FEYFSPVGYNGP</span><span class="topo-outside">SFTI</span><span class="topo-unknown">GKAIWLLWGLVFNN</span><span class="topo-outside">S</span><span class="topo-unknown">LPVQNPKGTT</span><span class="topo-outside">S</span><span class="topo-membrane">KIMVSVWAFFAVIF</span></span>
-<span class="topo-line"><span class="topo-membrane">LASYT</span><span class="topo-inside">ANLAAFMIQRRYVDQVSGLSDKKFQRPNDFSPAFRFGTVPNGSTERNIRNNYLEM</span></span>
-<span class="topo-line"><span class="topo-inside">HSYMVKFNQRSVQDALLSLKSGKLDAFIYDAAVLNYMAGRDEGCKLVTIGSGKVFATTGY</span></span>
-<span class="topo-line"><span class="topo-inside">GIAIQKDSGWKRQVDLAILQLFGDGEMEELEALWLTGICHNEKNEVMSSQLDIDNMAGVF</span></span>
-<span class="topo-line"><span class="topo-membrane">YMLAAAMALSLITFIMEHLF</span><span class="topo-outside">YK</span><span class="topo-unknown">SRAEAKRMKGLEVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">K</span><span class="topo-inside">HPNMDIAVILVGTTEEVAIKD</span><span class="topo-unknown">VHEKDDF</span><span class="topo-inside">HHLPVTPRVELVTMQESDPKSIITRICDLMSDKKVQGVVFGDDTDQEAIAQILDFISVQTLTPILGIHGGSSMIMADKEEASMFFQFGPSI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">EQQASVMLNIMEEYDWYIFSIVTTYFPGYQDFENKVRSTIENSFVGWELEEVIHLDMSLDDIDSKIQNQLCKLQSPVILLYCTKEEATYIFEVAHSVGLTGYGFTWIVPSLVAGDTDTVP</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">DEFPTGLISVSYDEWDYDLPARVRDGIAIITTAASTMLSEHNS</span><span class="topo-unknown">IPQ</span><span class="topo-inside">SKSSCNNIQESRVYEAHMLKRYLINVTFEGRDLSFSEDGYQMHPKLVIILLNQERKWERVGKYKDRSLKMWPVF</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">DLYPN</span><span class="topo-unknown">SEEHKD</span><span class="topo-inside">EHLSIVTLEEAPFVIVEDVDPLSGTCMRNTVPCRKQIRPENRTEEGGNYIKRCCKGFCIDILKKIAKTVKFTYDLYLVTNGKHGKKINGVWNGMIGEVVTKRAYMAVGS</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-inside">LTINEERSEVVDFSVPFIETGISVMVSRSN</span><span class="topo-unknown">GTVSP</span><span class="topo-inside">S</span><span class="topo-unknown">AFLEPF</span><span class="topo-inside">SADV</span><span class="topo-membrane">WVMMFVMLLIVSAVAVF</span><span class="topo-outside">V</span><span class="topo-unknown">FEYFSPVGYNGP</span><span class="topo-outside">SFTI</span><span class="topo-unknown">GKAIWLLWGLVFNN</span><span class="topo-outside">S</span><span class="topo-unknown">LPVQNPKGTT</span><span class="topo-outside">S</span><span class="topo-membrane">KIMVSVWAFFAVIF</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-membrane">LASYT</span><span class="topo-inside">ANLAAFMIQRRYVDQVSGLSDKKFQRPNDFSPAFRFGTVPNGSTERNIRNNYLEMHSYMVKFNQRSVQDALLSLKSGKLDAFIYDAAVLNYMAGRDEGCKLVTIGSGKVFATTGY</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810        </span>
+<span class="topo-line"><span class="topo-inside">GIAIQKDSGWKRQVDLAILQLFGDGEMEELEALWLTGICHNEKNEVMSSQLDIDNMAGVF</span><span class="topo-membrane">YMLAAAMALSLITFIMEHLF</span><span class="topo-outside">YK</span><span class="topo-unknown">SRAEAKRMKGLEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (25 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2101,6 +2124,7 @@ The full-length N-methyl-[D Aspartate](/xray-mp-wiki/reagents/substrates/l-aspar
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2116,20 +2140,21 @@ The full-length N-methyl-[D Aspartate](/xray-mp-wiki/reagents/substrates/l-aspar
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">DPKIVNIGAVLSTKKHEQIFREAVNQANFFHFTRKIQLNATSVTHRPNAIQMALSVCEDL</span></span>
-<span class="topo-line"><span class="topo-inside">ISSQVYAILVSHPPAPTDHLTPTPISYTAGFYRIPVIGLTTRMSIYSDKSIHLSFLRTVP</span></span>
-<span class="topo-line"><span class="topo-inside">PYSHQALVWFEMMRLFNWNHVILIVSDDHEGRAAQKKLETLLEEKESKADKVLQFEPGTK</span></span>
-<span class="topo-line"><span class="topo-inside">NLTALLLEAKELEARVIILSASEDDATAVYKSAAMLDMTGAGYVWLVGEREISGSALRYA</span></span>
-<span class="topo-line"><span class="topo-inside">PDGIIGLQLINGKNESAHISDAVAVVAQAIHELFEMEQITDPPRGCVGNTNIWKTGPLFK</span></span>
-<span class="topo-line"><span class="topo-inside">RVLMSSKYPDGVTGRIEFNEDGDRKFAQYSIMNLQNRKLVQVGIFDGSYIIQNDRKIIWP</span></span>
-<span class="topo-line"><span class="topo-inside">GGETERPQGYQMSTRLKIVTIHQEPFVYVRPTTSDGTCREEYTINGDPIKKVICNGPDET</span></span>
-<span class="topo-line"><span class="topo-inside">IPGRPTVPQCCYGFCVDLLIKLAREMDFTYEVHLVADGKFGTQERVNNSNAAAWNGMMGE</span></span>
-<span class="topo-line"><span class="topo-inside">LLSGQADMIVAPLTINNERAQYIEFSKPFKYQGLTILVKKEIPRSTLDSFMQPFQS</span><span class="topo-membrane">TLWL</span></span>
-<span class="topo-line"><span class="topo-membrane">LVGLSVHVVAVM</span><span class="topo-outside">LYLLDRF</span><span class="topo-unknown">SPFGRFEDALTLSSAMWFSWRVLLNSGLGEGAPR</span><span class="topo-outside">SFSAR</span><span class="topo-membrane">IL</span></span>
-<span class="topo-line"><span class="topo-membrane">GMVWAGFAMIIVASY</span><span class="topo-inside">TANLAAFLVLRRPEERITGINDPRLRNPSDKFIYATVKQSSVDIY</span></span>
-<span class="topo-line"><span class="topo-inside">FRRQVELSTMYRHMEKHNYESAAEAIQAVRDNKLHAFIWDSAVLEFEASQKCDLVTTGEL</span></span>
-<span class="topo-line"><span class="topo-inside">FFRSGFGIGMRKDSPWKQEVSLNILKSHENGFMEELDKTWVRYQECD</span><span class="topo-unknown">SRSNAPATLTFEN</span></span>
-<span class="topo-line"><span class="topo-unknown">MAGVFMLV</span><span class="topo-inside">A</span><span class="topo-membrane">GGIVAGIFLIFI</span><span class="topo-outside">EIAYKSRA</span><span class="topo-unknown">EAKRMKGLEVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">DPKIVNIGAVLSTKKHEQIFREAVNQANFFHFTRKIQLNATSVTHRPNAIQMALSVCEDLISSQVYAILVSHPPAPTDHLTPTPISYTAGFYRIPVIGLTTRMSIYSDKSIHLSFLRTVP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">PYSHQALVWFEMMRLFNWNHVILIVSDDHEGRAAQKKLETLLEEKESKADKVLQFEPGTKNLTALLLEAKELEARVIILSASEDDATAVYKSAAMLDMTGAGYVWLVGEREISGSALRYA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">PDGIIGLQLINGKNESAHISDAVAVVAQAIHELFEMEQITDPPRGCVGNTNIWKTGPLFKRVLMSSKYPDGVTGRIEFNEDGDRKFAQYSIMNLQNRKLVQVGIFDGSYIIQNDRKIIWP</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">GGETERPQGYQMSTRLKIVTIHQEPFVYVRPTTSDGTCREEYTINGDPIKKVICNGPDETIPGRPTVPQCCYGFCVDLLIKLAREMDFTYEVHLVADGKFGTQERVNNSNAAAWNGMMGE</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-inside">LLSGQADMIVAPLTINNERAQYIEFSKPFKYQGLTILVKKEIPRSTLDSFMQPFQS</span><span class="topo-membrane">TLWLLVGLSVHVVAVM</span><span class="topo-outside">LYLLDRF</span><span class="topo-unknown">SPFGRFEDALTLSSAMWFSWRVLLNSGLGEGAPR</span><span class="topo-outside">SFSAR</span><span class="topo-membrane">IL</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-membrane">GMVWAGFAMIIVASY</span><span class="topo-inside">TANLAAFLVLRRPEERITGINDPRLRNPSDKFIYATVKQSSVDIYFRRQVELSTMYRHMEKHNYESAAEAIQAVRDNKLHAFIWDSAVLEFEASQKCDLVTTGEL</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820  </span>
+<span class="topo-line"><span class="topo-inside">FFRSGFGIGMRKDSPWKQEVSLNILKSHENGFMEELDKTWVRYQECD</span><span class="topo-unknown">SRSNAPATLTFENMAGVFMLV</span><span class="topo-inside">A</span><span class="topo-membrane">GGIVAGIFLIFI</span><span class="topo-outside">EIAYKSRA</span><span class="topo-unknown">EAKRMKGLEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (14 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2239,6 +2264,7 @@ The full-length N-methyl-[D Aspartate](/xray-mp-wiki/reagents/substrates/l-aspar
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2254,20 +2280,21 @@ The full-length N-methyl-[D Aspartate](/xray-mp-wiki/reagents/substrates/l-aspar
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">KHPNMDIAVILVGTTEEVAIKDVHEKDDFHHLPVTPRVELVTMQESDPKSIITRICDLMS</span></span>
-<span class="topo-line"><span class="topo-inside">DKKVQGVVFGDDTDQEAIAQILDFISVQTLTPILGIHGGSSMIMADKEEASMFFQFGPSI</span></span>
-<span class="topo-line"><span class="topo-inside">EQQASVMLNIMEEYDWYIFSIVTTYFPGYQDFENKVRSTIENSFVGWELEEVIHLDMSLD</span></span>
-<span class="topo-line"><span class="topo-inside">DIDSKIQNQLCKLQSPVILLYCTKEEATYIFEVAHSVGLTGYGFTWIVPSLVAGDTDTVP</span></span>
-<span class="topo-line"><span class="topo-inside">DEFPTGLISVSYDEWDYDLPARVRDGIAIITTAASTMLSEHNSIPQSKSSCNNIQESRVY</span></span>
-<span class="topo-line"><span class="topo-inside">EAHMLKRYLINVTFEGRDLSFSEDGYQMHPKLVIILLNQERKWERVGKYKDRSLKMWPVF</span></span>
-<span class="topo-line"><span class="topo-unknown">DLYPNSEEHKDE</span><span class="topo-inside">HLSIVTLEEAPFVIVEDVDPLSGTCMRNTVPCRKQIRPE</span><span class="topo-unknown">NRTEEG</span><span class="topo-inside">GNY</span></span>
-<span class="topo-line"><span class="topo-inside">IKRCCKGFCIDILKKIAKTVKFTYDLYLVTNGKHGKKINGVWNGMIGEVVTKRAYMAVGS</span></span>
-<span class="topo-line"><span class="topo-inside">LTINEERSEVVDFSVPFIETGISVMVSRSN</span><span class="topo-unknown">GTV</span><span class="topo-inside">SPS</span><span class="topo-unknown">AFLEPF</span><span class="topo-membrane">SADVWVMMFVMLLIVSAV</span></span>
-<span class="topo-line"><span class="topo-outside">AVFV</span><span class="topo-unknown">FEYFSPVGYNGPSFTIGKAIWLLWGLVFNNSLPVQNPKGT</span><span class="topo-outside">TSK</span><span class="topo-membrane">IMVSVWAFFAVIF</span></span>
-<span class="topo-line"><span class="topo-membrane">LASYT</span><span class="topo-inside">ANLAAFMIQRRYVDQVSGLSDKKFQRPNDFSPAFRFGTVPNGSTERNIRNNYLEM</span></span>
-<span class="topo-line"><span class="topo-inside">HSYMVKFNQRSVQDALLSLKSGKLDAFIYDAAVLNYMAGRDEGCKLVTIGSGKVFATTGY</span></span>
-<span class="topo-line"><span class="topo-inside">GIAIQKDSGWKRQVDLAILQLFGDGEMEELEALWLTGICHNEKN</span><span class="topo-unknown">EVMSSQLDIDNMAGV</span><span class="topo-inside">F</span></span>
-<span class="topo-line"><span class="topo-membrane">YMLAAAMALSLIT</span><span class="topo-outside">FIMEHLFY</span><span class="topo-unknown">KSRAEAKRMKGLEVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">KHPNMDIAVILVGTTEEVAIKDVHEKDDFHHLPVTPRVELVTMQESDPKSIITRICDLMSDKKVQGVVFGDDTDQEAIAQILDFISVQTLTPILGIHGGSSMIMADKEEASMFFQFGPSI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">EQQASVMLNIMEEYDWYIFSIVTTYFPGYQDFENKVRSTIENSFVGWELEEVIHLDMSLDDIDSKIQNQLCKLQSPVILLYCTKEEATYIFEVAHSVGLTGYGFTWIVPSLVAGDTDTVP</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">DEFPTGLISVSYDEWDYDLPARVRDGIAIITTAASTMLSEHNSIPQSKSSCNNIQESRVYEAHMLKRYLINVTFEGRDLSFSEDGYQMHPKLVIILLNQERKWERVGKYKDRSLKMWPVF</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-unknown">DLYPNSEEHKDE</span><span class="topo-inside">HLSIVTLEEAPFVIVEDVDPLSGTCMRNTVPCRKQIRPE</span><span class="topo-unknown">NRTEEG</span><span class="topo-inside">GNYIKRCCKGFCIDILKKIAKTVKFTYDLYLVTNGKHGKKINGVWNGMIGEVVTKRAYMAVGS</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-inside">LTINEERSEVVDFSVPFIETGISVMVSRSN</span><span class="topo-unknown">GTV</span><span class="topo-inside">SPS</span><span class="topo-unknown">AFLEPF</span><span class="topo-membrane">SADVWVMMFVMLLIVSAV</span><span class="topo-outside">AVFV</span><span class="topo-unknown">FEYFSPVGYNGPSFTIGKAIWLLWGLVFNNSLPVQNPKGT</span><span class="topo-outside">TSK</span><span class="topo-membrane">IMVSVWAFFAVIF</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-membrane">LASYT</span><span class="topo-inside">ANLAAFMIQRRYVDQVSGLSDKKFQRPNDFSPAFRFGTVPNGSTERNIRNNYLEMHSYMVKFNQRSVQDALLSLKSGKLDAFIYDAAVLNYMAGRDEGCKLVTIGSGKVFATTGY</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810        </span>
+<span class="topo-line"><span class="topo-inside">GIAIQKDSGWKRQVDLAILQLFGDGEMEELEALWLTGICHNEKN</span><span class="topo-unknown">EVMSSQLDIDNMAGV</span><span class="topo-inside">F</span><span class="topo-membrane">YMLAAAMALSLIT</span><span class="topo-outside">FIMEHLFY</span><span class="topo-unknown">KSRAEAKRMKGLEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2426,6 +2453,7 @@ The full-length N-methyl-[D Aspartate](/xray-mp-wiki/reagents/substrates/l-aspar
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2441,20 +2469,21 @@ The full-length N-methyl-[D Aspartate](/xray-mp-wiki/reagents/substrates/l-aspar
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">DPKIVNIGAVLSTKKHEQIFREAVNQANFFHFTRKIQLNATSVTHRPNAIQMALSVCEDL</span></span>
-<span class="topo-line"><span class="topo-inside">ISSQVYAILVSHPPAPTDHLTPTPISYTAGFYRIPVIGLTTRMSIYSDKSIHLSFLRTVP</span></span>
-<span class="topo-line"><span class="topo-inside">PYSHQALVWFEMMRLFNWNHVILIVSDDHEGRAAQKKLETLLEEKESKADKVLQFEPGTK</span></span>
-<span class="topo-line"><span class="topo-inside">NLTALLLEAKELEARVIILSASEDDATAVYKSAAMLDMTGAGYVWLVGEREISGSALRYA</span></span>
-<span class="topo-line"><span class="topo-inside">PDGIIGLQLINGKNESAHISDAVAVVAQAIHELFEMEQITDPPRGCVGNTNIWKTGPLFK</span></span>
-<span class="topo-line"><span class="topo-inside">RVLMSSKYPDGVTGRIEFNEDGDRKFAQYSIMNLQNRKLVQVGIFDGSYIIQNDRKIIWP</span></span>
-<span class="topo-line"><span class="topo-inside">GGETERPQGYQMSTRLKIVTIHQEPFVYVRPTTSDGTCREEYTINGDPIKKVICNGPD</span><span class="topo-unknown">ET</span></span>
-<span class="topo-line"><span class="topo-unknown">IPGR</span><span class="topo-inside">PTVPQCCYGFCVDLLIKLAREMDFTYEVHLVADGKFGTQERV</span><span class="topo-unknown">NNSNA</span><span class="topo-inside">AAWNGMMGE</span></span>
-<span class="topo-line"><span class="topo-inside">LLSGQADMIVAPLTINNERAQYIEFSKPFKYQGLTILVKKEIPRSTLDSFMQPFQS</span><span class="topo-membrane">TLWL</span></span>
-<span class="topo-line"><span class="topo-membrane">LVGLSVHVVAVMLYLL</span><span class="topo-outside">D</span><span class="topo-unknown">RFSPFGRFEDALTLSSAMWFSWRVLLNSGLGEGAPRSF</span><span class="topo-outside">S</span><span class="topo-membrane">ARIL</span></span>
-<span class="topo-line"><span class="topo-membrane">GMVWAGFAMIIVA</span><span class="topo-inside">SYTANLAAFLVLRRPEERITGINDPRLRNPSDKFIYATVKQSSVDIY</span></span>
-<span class="topo-line"><span class="topo-inside">FRRQVELSTMYRHMEKHNYESAAEAIQAVRDNKLHAFIWDSAVLEFEASQKCDLVTTGEL</span></span>
-<span class="topo-line"><span class="topo-inside">FFRSGFGIGMRKDSPWKQEVSLNILKSHENGFMEELDKTWVRYQECDS</span><span class="topo-unknown">RSNAPATLTFEN</span></span>
-<span class="topo-line"><span class="topo-unknown">MAGVFMLVAGGIVAGIFLIFIEIAYKSRAEAKRMKGLEVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">DPKIVNIGAVLSTKKHEQIFREAVNQANFFHFTRKIQLNATSVTHRPNAIQMALSVCEDLISSQVYAILVSHPPAPTDHLTPTPISYTAGFYRIPVIGLTTRMSIYSDKSIHLSFLRTVP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">PYSHQALVWFEMMRLFNWNHVILIVSDDHEGRAAQKKLETLLEEKESKADKVLQFEPGTKNLTALLLEAKELEARVIILSASEDDATAVYKSAAMLDMTGAGYVWLVGEREISGSALRYA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">PDGIIGLQLINGKNESAHISDAVAVVAQAIHELFEMEQITDPPRGCVGNTNIWKTGPLFKRVLMSSKYPDGVTGRIEFNEDGDRKFAQYSIMNLQNRKLVQVGIFDGSYIIQNDRKIIWP</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">GGETERPQGYQMSTRLKIVTIHQEPFVYVRPTTSDGTCREEYTINGDPIKKVICNGPD</span><span class="topo-unknown">ETIPGR</span><span class="topo-inside">PTVPQCCYGFCVDLLIKLAREMDFTYEVHLVADGKFGTQERV</span><span class="topo-unknown">NNSNA</span><span class="topo-inside">AAWNGMMGE</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-inside">LLSGQADMIVAPLTINNERAQYIEFSKPFKYQGLTILVKKEIPRSTLDSFMQPFQS</span><span class="topo-membrane">TLWLLVGLSVHVVAVMLYLL</span><span class="topo-outside">D</span><span class="topo-unknown">RFSPFGRFEDALTLSSAMWFSWRVLLNSGLGEGAPRSF</span><span class="topo-outside">S</span><span class="topo-membrane">ARIL</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-membrane">GMVWAGFAMIIVA</span><span class="topo-inside">SYTANLAAFLVLRRPEERITGINDPRLRNPSDKFIYATVKQSSVDIYFRRQVELSTMYRHMEKHNYESAAEAIQAVRDNKLHAFIWDSAVLEFEASQKCDLVTTGEL</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820  </span>
+<span class="topo-line"><span class="topo-inside">FFRSGFGIGMRKDSPWKQEVSLNILKSHENGFMEELDKTWVRYQECDS</span><span class="topo-unknown">RSNAPATLTFENMAGVFMLVAGGIVAGIFLIFIEIAYKSRAEAKRMKGLEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (12 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2550,6 +2579,7 @@ The full-length N-methyl-[D Aspartate](/xray-mp-wiki/reagents/substrates/l-aspar
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2565,20 +2595,21 @@ The full-length N-methyl-[D Aspartate](/xray-mp-wiki/reagents/substrates/l-aspar
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">K</span><span class="topo-inside">HPNMDIAVILVGTTEEVAIKD</span><span class="topo-unknown">VHEKDDF</span><span class="topo-inside">HHLPVTPRVELVTMQESDPKSIITRICDLMS</span></span>
-<span class="topo-line"><span class="topo-inside">DKKVQGVVFGDDTDQEAIAQILDFISVQTLTPILGIHGGSSMIMADKEEASMFFQFGPSI</span></span>
-<span class="topo-line"><span class="topo-inside">EQQASVMLNIMEEYDWYIFSIVTTYFPGYQDFENKVRSTIENSFVGWELEEVIHLDMSLD</span></span>
-<span class="topo-line"><span class="topo-inside">DIDSKIQNQLCKLQSPVILLYCTKEEATYIFEVAHSVGLTGYGFTWIVPSLVAGDTDTVP</span></span>
-<span class="topo-line"><span class="topo-inside">DEFPTGLISVSYDEWDYDLPARVRDGIAIITTAASTMLSEHNS</span><span class="topo-unknown">IPQ</span><span class="topo-inside">SKSSCNNIQESRVY</span></span>
-<span class="topo-line"><span class="topo-inside">EAHMLKRYLINVTFEGRDLSFSEDGYQMHPKLVIILLNQERKWERVGKYKDRSLKMWPVF</span></span>
-<span class="topo-line"><span class="topo-inside">DLYPN</span><span class="topo-unknown">SEEHKD</span><span class="topo-inside">EHLSIVTLEEAPFVIVEDVDPLSGTCMRNTVPCRKQIRPENRTEEGGNY</span></span>
-<span class="topo-line"><span class="topo-inside">IKRCCKGFCIDILKKIAKTVKFTYDLYLVTNGKHGKKINGVWNGMIGEVVTKRAYMAVGS</span></span>
-<span class="topo-line"><span class="topo-inside">LTINEERSEVVDFSVPFIETGISVMVSRSN</span><span class="topo-unknown">GTVSP</span><span class="topo-inside">S</span><span class="topo-unknown">AFLEPF</span><span class="topo-inside">SADV</span><span class="topo-membrane">WVMMFVMLLIVSAV</span></span>
-<span class="topo-line"><span class="topo-membrane">AVF</span><span class="topo-outside">V</span><span class="topo-unknown">FEYFSPVGYNGP</span><span class="topo-outside">SFTI</span><span class="topo-unknown">GKAIWLLWGLVFNN</span><span class="topo-outside">S</span><span class="topo-unknown">LPVQNPKGTT</span><span class="topo-outside">S</span><span class="topo-membrane">KIMVSVWAFFAVIF</span></span>
-<span class="topo-line"><span class="topo-membrane">LASYT</span><span class="topo-inside">ANLAAFMIQRRYVDQVSGLSDKKFQRPNDFSPAFRFGTVPNGSTERNIRNNYLEM</span></span>
-<span class="topo-line"><span class="topo-inside">HSYMVKFNQRSVQDALLSLKSGKLDAFIYDAAVLNYMAGRDEGCKLVTIGSGKVFATTGY</span></span>
-<span class="topo-line"><span class="topo-inside">GIAIQKDSGWKRQVDLAILQLFGDGEMEELEALWLTGICHNEKNEVMSSQLDIDNMAGVF</span></span>
-<span class="topo-line"><span class="topo-membrane">YMLAAAMALSLITFIMEHLF</span><span class="topo-outside">YK</span><span class="topo-unknown">SRAEAKRMKGLEVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">K</span><span class="topo-inside">HPNMDIAVILVGTTEEVAIKD</span><span class="topo-unknown">VHEKDDF</span><span class="topo-inside">HHLPVTPRVELVTMQESDPKSIITRICDLMSDKKVQGVVFGDDTDQEAIAQILDFISVQTLTPILGIHGGSSMIMADKEEASMFFQFGPSI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">EQQASVMLNIMEEYDWYIFSIVTTYFPGYQDFENKVRSTIENSFVGWELEEVIHLDMSLDDIDSKIQNQLCKLQSPVILLYCTKEEATYIFEVAHSVGLTGYGFTWIVPSLVAGDTDTVP</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">DEFPTGLISVSYDEWDYDLPARVRDGIAIITTAASTMLSEHNS</span><span class="topo-unknown">IPQ</span><span class="topo-inside">SKSSCNNIQESRVYEAHMLKRYLINVTFEGRDLSFSEDGYQMHPKLVIILLNQERKWERVGKYKDRSLKMWPVF</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">DLYPN</span><span class="topo-unknown">SEEHKD</span><span class="topo-inside">EHLSIVTLEEAPFVIVEDVDPLSGTCMRNTVPCRKQIRPENRTEEGGNYIKRCCKGFCIDILKKIAKTVKFTYDLYLVTNGKHGKKINGVWNGMIGEVVTKRAYMAVGS</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-inside">LTINEERSEVVDFSVPFIETGISVMVSRSN</span><span class="topo-unknown">GTVSP</span><span class="topo-inside">S</span><span class="topo-unknown">AFLEPF</span><span class="topo-inside">SADV</span><span class="topo-membrane">WVMMFVMLLIVSAVAVF</span><span class="topo-outside">V</span><span class="topo-unknown">FEYFSPVGYNGP</span><span class="topo-outside">SFTI</span><span class="topo-unknown">GKAIWLLWGLVFNN</span><span class="topo-outside">S</span><span class="topo-unknown">LPVQNPKGTT</span><span class="topo-outside">S</span><span class="topo-membrane">KIMVSVWAFFAVIF</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-membrane">LASYT</span><span class="topo-inside">ANLAAFMIQRRYVDQVSGLSDKKFQRPNDFSPAFRFGTVPNGSTERNIRNNYLEMHSYMVKFNQRSVQDALLSLKSGKLDAFIYDAAVLNYMAGRDEGCKLVTIGSGKVFATTGY</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810        </span>
+<span class="topo-line"><span class="topo-inside">GIAIQKDSGWKRQVDLAILQLFGDGEMEELEALWLTGICHNEKNEVMSSQLDIDNMAGVF</span><span class="topo-membrane">YMLAAAMALSLITFIMEHLF</span><span class="topo-outside">YK</span><span class="topo-unknown">SRAEAKRMKGLEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (25 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2765,6 +2796,7 @@ The full-length N-methyl-[D Aspartate](/xray-mp-wiki/reagents/substrates/l-aspar
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2875,21 +2907,23 @@ The full-length N-methyl-[D Aspartate](/xray-mp-wiki/reagents/substrates/l-aspar
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">DP</span><span class="topo-inside">KIVNIGAVLSTRKHEQMFREAVNQANKR</span><span class="topo-unknown">HGSWK</span><span class="topo-inside">IQLQATSVTHKPNAIQMALSVCEDL</span></span>
-<span class="topo-line"><span class="topo-inside">ISSQVYAILVSHP</span><span class="topo-unknown">PTPND</span><span class="topo-inside">HFTPTPVSYTAGFYRIPVLGLTTRMSIYSDKSIHLSFLRTVP</span></span>
-<span class="topo-line"><span class="topo-inside">PYSHQSSVWFEMMRVYNWNHIILLVSDDHEGRAAQKRLETLLEERESKS</span><span class="topo-unknown">KKRNYENLDQL</span></span>
-<span class="topo-line"><span class="topo-unknown">SYDNKR</span><span class="topo-inside">GPKAEKVLQFDPGTKNVTALLMEARELEARVIILSASEDDAATVYRAAAMLDMT</span></span>
-<span class="topo-line"><span class="topo-inside">GSGYVWLVGEREISGNALRYAPDGIIGLQLINGKNESAHISDAVGVVAQAVHELLEKENI</span></span>
-<span class="topo-line"><span class="topo-inside">TDPPRGCVGNTNIWKTGPLFKRVLMSSKYADGVTGRVEFNEDGDRKFAQYSIMNLQNRKL</span></span>
-<span class="topo-line"><span class="topo-inside">VQVGIYNGTHVIPNDRKIIWPGGETEKPRGYQMSTRLKIVTIHQEPFVYVKPTMSDGTCK</span></span>
-<span class="topo-line"><span class="topo-inside">EEFTVNGDPVKKVICTGPND</span><span class="topo-unknown">TSPGSPRH</span><span class="topo-inside">TVPQCCYGFCIDLLIKLARTMQFTYEVHLVAD</span></span>
-<span class="topo-line"><span class="topo-inside">GKFGTQERVQNSNKKEWNGMMGELLSGQADMIVAPLTINNERAQYIEFSKPFKYQGLTIL</span></span>
-<span class="topo-line"><span class="topo-inside">VKKEIPRSTLDSFMQPFQS</span><span class="topo-membrane">TLWLLVGLSVHVVAVML</span><span class="topo-outside">YLLDRFS</span><span class="topo-unknown">PFGRFKVNSQSESTDA</span><span class="topo-outside">L</span></span>
-<span class="topo-line"><span class="topo-outside">TLSS</span><span class="topo-unknown">AMWFSWGVLLNSGIGEGAPR</span><span class="topo-outside">SF</span><span class="topo-membrane">SARILGMVWAGFAMIIVA</span><span class="topo-inside">SYTANLAAFLVLDRPE</span></span>
-<span class="topo-line"><span class="topo-inside">ERITGINDPRLRNPSDKFIYATVKQSSVDIYFRRQVELSTMYRHMEKHNYESAAEAIQAV</span></span>
-<span class="topo-line"><span class="topo-inside">RDNKLHAFIWDSAVLEFEASQKCDLVTTGELFFRSGFGIGMRKDSPWKQQVSLSILKSHE</span></span>
-<span class="topo-line"><span class="topo-inside">NGFMEDLDKTWVRYQECDSRSNAPATLTCENM</span><span class="topo-membrane">AGVFMLVAGGIVAGIFLI</span><span class="topo-outside">FIEIAYKRHK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">DP</span><span class="topo-inside">KIVNIGAVLSTRKHEQMFREAVNQANKR</span><span class="topo-unknown">HGSWK</span><span class="topo-inside">IQLQATSVTHKPNAIQMALSVCEDLISSQVYAILVSHP</span><span class="topo-unknown">PTPND</span><span class="topo-inside">HFTPTPVSYTAGFYRIPVLGLTTRMSIYSDKSIHLSFLRTVP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">PYSHQSSVWFEMMRVYNWNHIILLVSDDHEGRAAQKRLETLLEERESKS</span><span class="topo-unknown">KKRNYENLDQLSYDNKR</span><span class="topo-inside">GPKAEKVLQFDPGTKNVTALLMEARELEARVIILSASEDDAATVYRAAAMLDMT</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">GSGYVWLVGEREISGNALRYAPDGIIGLQLINGKNESAHISDAVGVVAQAVHELLEKENITDPPRGCVGNTNIWKTGPLFKRVLMSSKYADGVTGRVEFNEDGDRKFAQYSIMNLQNRKL</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">VQVGIYNGTHVIPNDRKIIWPGGETEKPRGYQMSTRLKIVTIHQEPFVYVKPTMSDGTCKEEFTVNGDPVKKVICTGPND</span><span class="topo-unknown">TSPGSPRH</span><span class="topo-inside">TVPQCCYGFCIDLLIKLARTMQFTYEVHLVAD</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-inside">GKFGTQERVQNSNKKEWNGMMGELLSGQADMIVAPLTINNERAQYIEFSKPFKYQGLTILVKKEIPRSTLDSFMQPFQS</span><span class="topo-membrane">TLWLLVGLSVHVVAVML</span><span class="topo-outside">YLLDRFS</span><span class="topo-unknown">PFGRFKVNSQSESTDA</span><span class="topo-outside">L</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-outside">TLSS</span><span class="topo-unknown">AMWFSWGVLLNSGIGEGAPR</span><span class="topo-outside">SF</span><span class="topo-membrane">SARILGMVWAGFAMIIVA</span><span class="topo-inside">SYTANLAAFLVLDRPEERITGINDPRLRNPSDKFIYATVKQSSVDIYFRRQVELSTMYRHMEKHNYESAAEAIQAV</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820       830       840</span>
+<span class="topo-line"><span class="topo-inside">RDNKLHAFIWDSAVLEFEASQKCDLVTTGELFFRSGFGIGMRKDSPWKQQVSLSILKSHENGFMEDLDKTWVRYQECDSRSNAPATLTCENM</span><span class="topo-membrane">AGVFMLVAGGIVAGIFLI</span><span class="topo-outside">FIEIAYKRHK</span></span>
+<span class="topo-ruler">      </span>
 <span class="topo-line"><span class="topo-outside">DA</span><span class="topo-unknown">NGAQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (22 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3055,6 +3089,7 @@ The full-length N-methyl-[D Aspartate](/xray-mp-wiki/reagents/substrates/l-aspar
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3070,20 +3105,21 @@ The full-length N-methyl-[D Aspartate](/xray-mp-wiki/reagents/substrates/l-aspar
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GRSQKS</span><span class="topo-inside">PPSIGIAVILVGTSDEVAIKDAHEKDDFHHLSVVPRVELVAMNETDPKSIITRI</span></span>
-<span class="topo-line"><span class="topo-inside">CDLMSDRKIQGVVFADDTDQEAIAQILDFISAQTLTPILGIHGGSSMIMADKDESSMFFQ</span></span>
-<span class="topo-line"><span class="topo-inside">FGPSIEQQASVMLNIMEEYDWYIFSIVTTYFPGYQDFVNKIRSTIENSFVGWELEEVLLL</span></span>
-<span class="topo-line"><span class="topo-inside">DMSLDDGDSKIQNQLKKLQSPIILLYCTKEEATYIFEVANSVGLTGYGYTWIVPSLVAGD</span></span>
-<span class="topo-line"><span class="topo-inside">TDTVPSEFPTGLISVSYDEWDYGLPARVRDGIAIITTAASDMLSEHSFIPEPKSSCYNTH</span></span>
-<span class="topo-line"><span class="topo-inside">EKRIYQSNMLNRYLINVTFEGRDLSFSEDGYQMHPKLVIILLNKERKWERVGKWKDKSLQ</span></span>
-<span class="topo-line"><span class="topo-inside">MKYYVWPRM</span><span class="topo-unknown">CPETEEQ</span><span class="topo-inside">EDDHLSIVTLEEAPFVIVESVDPLSGTCMRNTVPCQKR</span><span class="topo-unknown">IISENK</span></span>
-<span class="topo-line"><span class="topo-unknown">TDEEPG</span><span class="topo-inside">YIKKCCKGFCIDILKKISKSVKFTYDLYLVTNGKHGKKINGTWNGMIGEVVMKR</span></span>
-<span class="topo-line"><span class="topo-inside">AYMAVGSLTINEERSEVVDFSVPFIETGISVMVSRSN</span><span class="topo-unknown">GTV</span><span class="topo-inside">SPSAFL</span><span class="topo-unknown">EPFS</span><span class="topo-inside">A</span><span class="topo-membrane">CVWVMMFVM</span></span>
-<span class="topo-line"><span class="topo-membrane">LLIVSAV</span><span class="topo-outside">AVFVFE</span><span class="topo-unknown">YFSPVGYNRSLADGREPGGPS</span><span class="topo-outside">FTIGK</span><span class="topo-unknown">AIWLLWGLVFNNSVP</span><span class="topo-outside">VQNPKG</span></span>
-<span class="topo-line"><span class="topo-outside">TTS</span><span class="topo-membrane">KIMVSVWAFFAVIFLASY</span><span class="topo-inside">TANLAAFMIQEEYVDQVSGLSDKKFQRPNDFSPPFRFGT</span></span>
-<span class="topo-line"><span class="topo-inside">VPNGSTERNIRNNYAEMHAYMGKFNQRGVDDALLSLKTGKLDAFIYDAAVLNYMAGRDEG</span></span>
-<span class="topo-line"><span class="topo-inside">CKLVTIGSGKVFASTGYGIAIQKDSGWKRQVDLAILQLFGDGEMEELEALWLTGICHNEK</span></span>
-<span class="topo-line"><span class="topo-inside">NEVMSSQLDIDNMAG</span><span class="topo-membrane">VFYMLGAAMALSLITFIS</span><span class="topo-outside">EHL</span><span class="topo-unknown">FYWQFRHSFMG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GRSQKS</span><span class="topo-inside">PPSIGIAVILVGTSDEVAIKDAHEKDDFHHLSVVPRVELVAMNETDPKSIITRICDLMSDRKIQGVVFADDTDQEAIAQILDFISAQTLTPILGIHGGSSMIMADKDESSMFFQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FGPSIEQQASVMLNIMEEYDWYIFSIVTTYFPGYQDFVNKIRSTIENSFVGWELEEVLLLDMSLDDGDSKIQNQLKKLQSPIILLYCTKEEATYIFEVANSVGLTGYGYTWIVPSLVAGD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">TDTVPSEFPTGLISVSYDEWDYGLPARVRDGIAIITTAASDMLSEHSFIPEPKSSCYNTHEKRIYQSNMLNRYLINVTFEGRDLSFSEDGYQMHPKLVIILLNKERKWERVGKWKDKSLQ</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">MKYYVWPRM</span><span class="topo-unknown">CPETEEQ</span><span class="topo-inside">EDDHLSIVTLEEAPFVIVESVDPLSGTCMRNTVPCQKR</span><span class="topo-unknown">IISENKTDEEPG</span><span class="topo-inside">YIKKCCKGFCIDILKKISKSVKFTYDLYLVTNGKHGKKINGTWNGMIGEVVMKR</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-inside">AYMAVGSLTINEERSEVVDFSVPFIETGISVMVSRSN</span><span class="topo-unknown">GTV</span><span class="topo-inside">SPSAFL</span><span class="topo-unknown">EPFS</span><span class="topo-inside">A</span><span class="topo-membrane">CVWVMMFVMLLIVSAV</span><span class="topo-outside">AVFVFE</span><span class="topo-unknown">YFSPVGYNRSLADGREPGGPS</span><span class="topo-outside">FTIGK</span><span class="topo-unknown">AIWLLWGLVFNNSVP</span><span class="topo-outside">VQNPKG</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-outside">TTS</span><span class="topo-membrane">KIMVSVWAFFAVIFLASY</span><span class="topo-inside">TANLAAFMIQEEYVDQVSGLSDKKFQRPNDFSPPFRFGTVPNGSTERNIRNNYAEMHAYMGKFNQRGVDDALLSLKTGKLDAFIYDAAVLNYMAGRDEG</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820       </span>
+<span class="topo-line"><span class="topo-inside">CKLVTIGSGKVFASTGYGIAIQKDSGWKRQVDLAILQLFGDGEMEELEALWLTGICHNEKNEVMSSQLDIDNMAG</span><span class="topo-membrane">VFYMLGAAMALSLITFIS</span><span class="topo-outside">EHL</span><span class="topo-unknown">FYWQFRHSFMG</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3242,6 +3278,7 @@ The full-length N-methyl-[D Aspartate](/xray-mp-wiki/reagents/substrates/l-aspar
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3257,21 +3294,23 @@ The full-length N-methyl-[D Aspartate](/xray-mp-wiki/reagents/substrates/l-aspar
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">DP</span><span class="topo-inside">KIVNIGAVLSTRKHEQMFREAVNQANKR</span><span class="topo-unknown">HGSWK</span><span class="topo-inside">IQLQATSVTHKPNAIQMALSVCEDL</span></span>
-<span class="topo-line"><span class="topo-inside">ISSQVYAILVSHP</span><span class="topo-unknown">PTPNDHF</span><span class="topo-inside">TPTPVSYTAGFYRIPVLGLTTRMSIYSDKSIHLSFLRTVP</span></span>
-<span class="topo-line"><span class="topo-inside">PYSHQSSVWFEMMRVYNWNHIILLVSDDHEGRAAQKRLETLLEERESKSK</span><span class="topo-unknown">KRNYENLDQL</span></span>
-<span class="topo-line"><span class="topo-unknown">SYDNKR</span><span class="topo-inside">GPKAEKVLQFDPGTKNVTALLMEARELEARVIILSASEDDAATVYRAAAMLDMT</span></span>
-<span class="topo-line"><span class="topo-inside">GSGYVWLVGEREISGNALRYAPDGIIGLQLINGKNESAHISDAVGVVAQAVHELLEKENI</span></span>
-<span class="topo-line"><span class="topo-inside">TDPPRGCVGNTNIWKTGPLFKRVLMSSKYADGVTGRVEFNEDGDRKFAQYSIMNLQNRKL</span></span>
-<span class="topo-line"><span class="topo-inside">VQVGIYNGTHVIPNDRKIIWPGGETEKPRGYQMSTRLKIVTIHQEPFVYVKPTMSDGTCK</span></span>
-<span class="topo-line"><span class="topo-inside">EEFTVNGDPVKKVICTGPND</span><span class="topo-unknown">TSPGSPRH</span><span class="topo-inside">TVPQCCYGFCIDLLIKLARTMQFTYEVHLVAD</span></span>
-<span class="topo-line"><span class="topo-inside">GKFGTQERVQNSNKKEWNGMMGELLSGQADMIVAPLTINNERAQYIEFSKPFKYQGLTIL</span></span>
-<span class="topo-line"><span class="topo-inside">VKKEIPRSTLDSFMQPFQS</span><span class="topo-membrane">TLWLLVGLSVHVVAVML</span><span class="topo-outside">YLLDR</span><span class="topo-unknown">FSPFGRFKVNSQSESTDA</span><span class="topo-outside">L</span></span>
-<span class="topo-line"><span class="topo-outside">TLSS</span><span class="topo-unknown">AMWFSWGVLLNSGIGEGAPR</span><span class="topo-outside">SF</span><span class="topo-membrane">SARILGMVWAGFAMIIVA</span><span class="topo-inside">SYTANLAAFLVLDRPE</span></span>
-<span class="topo-line"><span class="topo-inside">ERITGINDPRLRNPSDKFIYATVKQSSVDIYFRRQVELSTMYRHMEKHNYESAAEAIQAV</span></span>
-<span class="topo-line"><span class="topo-inside">RDNKLHAFIWDSAVLEFEASQKCDLVTTGELFFRSGFGIGMRKDSPWKQQVSLSILKSHE</span></span>
-<span class="topo-line"><span class="topo-inside">NGFMEDLDKTWVRYQECDSRSNAPATLTCENM</span><span class="topo-membrane">AGVFMLVAGGIVAGIFLI</span><span class="topo-outside">FIEIAYKRHK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">DP</span><span class="topo-inside">KIVNIGAVLSTRKHEQMFREAVNQANKR</span><span class="topo-unknown">HGSWK</span><span class="topo-inside">IQLQATSVTHKPNAIQMALSVCEDLISSQVYAILVSHP</span><span class="topo-unknown">PTPNDHF</span><span class="topo-inside">TPTPVSYTAGFYRIPVLGLTTRMSIYSDKSIHLSFLRTVP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">PYSHQSSVWFEMMRVYNWNHIILLVSDDHEGRAAQKRLETLLEERESKSK</span><span class="topo-unknown">KRNYENLDQLSYDNKR</span><span class="topo-inside">GPKAEKVLQFDPGTKNVTALLMEARELEARVIILSASEDDAATVYRAAAMLDMT</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">GSGYVWLVGEREISGNALRYAPDGIIGLQLINGKNESAHISDAVGVVAQAVHELLEKENITDPPRGCVGNTNIWKTGPLFKRVLMSSKYADGVTGRVEFNEDGDRKFAQYSIMNLQNRKL</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">VQVGIYNGTHVIPNDRKIIWPGGETEKPRGYQMSTRLKIVTIHQEPFVYVKPTMSDGTCKEEFTVNGDPVKKVICTGPND</span><span class="topo-unknown">TSPGSPRH</span><span class="topo-inside">TVPQCCYGFCIDLLIKLARTMQFTYEVHLVAD</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-inside">GKFGTQERVQNSNKKEWNGMMGELLSGQADMIVAPLTINNERAQYIEFSKPFKYQGLTILVKKEIPRSTLDSFMQPFQS</span><span class="topo-membrane">TLWLLVGLSVHVVAVML</span><span class="topo-outside">YLLDR</span><span class="topo-unknown">FSPFGRFKVNSQSESTDA</span><span class="topo-outside">L</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-outside">TLSS</span><span class="topo-unknown">AMWFSWGVLLNSGIGEGAPR</span><span class="topo-outside">SF</span><span class="topo-membrane">SARILGMVWAGFAMIIVA</span><span class="topo-inside">SYTANLAAFLVLDRPEERITGINDPRLRNPSDKFIYATVKQSSVDIYFRRQVELSTMYRHMEKHNYESAAEAIQAV</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820       830       840</span>
+<span class="topo-line"><span class="topo-inside">RDNKLHAFIWDSAVLEFEASQKCDLVTTGELFFRSGFGIGMRKDSPWKQQVSLSILKSHENGFMEDLDKTWVRYQECDSRSNAPATLTCENM</span><span class="topo-membrane">AGVFMLVAGGIVAGIFLI</span><span class="topo-outside">FIEIAYKRHK</span></span>
+<span class="topo-ruler">      </span>
 <span class="topo-line"><span class="topo-unknown">DANGAQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (22 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3437,6 +3476,7 @@ The full-length N-methyl-[D Aspartate](/xray-mp-wiki/reagents/substrates/l-aspar
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3452,20 +3492,21 @@ The full-length N-methyl-[D Aspartate](/xray-mp-wiki/reagents/substrates/l-aspar
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GRSQKS</span><span class="topo-inside">PPSIGIAVILVGTSDEVAIKDAHEKDDFHHLSVVPRVELVAMNETDPKSIITRI</span></span>
-<span class="topo-line"><span class="topo-inside">CDLMSDRKIQGVVFADDTDQEAIAQILDFISAQTLTPILGIHGGSSMIMADKDESSMFFQ</span></span>
-<span class="topo-line"><span class="topo-inside">FGPSIEQQASVMLNIMEEYDWYIFSIVTTYFPGYQDFVNKIRSTIENSFVGWELEEVLLL</span></span>
-<span class="topo-line"><span class="topo-inside">DMSLDDGDSKIQNQLKKLQSPIILLYCTKEEATYIFEVANSVGLTGYGYTWIVPSLVAGD</span></span>
-<span class="topo-line"><span class="topo-inside">TDTVPSEFPTGLISVSYDEWDYGLPARVRDGIAIITTAASDMLSEHSFIPEPKSSCYNTH</span></span>
-<span class="topo-line"><span class="topo-inside">E</span><span class="topo-unknown">KRIYQ</span><span class="topo-inside">SNMLNRYLINVTFEGRDLSFSEDGYQMHPKLVIILLNKERKWERVGKWKDKSLQ</span></span>
-<span class="topo-line"><span class="topo-inside">MKYYVWPRM</span><span class="topo-unknown">CPETEEQ</span><span class="topo-inside">EDDHLSIVTLEEAPFVIVESVDPLSGTCMRNTVPCQKR</span><span class="topo-unknown">IISENK</span></span>
-<span class="topo-line"><span class="topo-unknown">TDEEPG</span><span class="topo-inside">YIKKCCKGFCIDILKKISKSVKFTYDLYLVTNGKHGKKINGTWNGMIGEVVMKR</span></span>
-<span class="topo-line"><span class="topo-inside">AYMAVGSLTINEERSEVVDFSVPFIETGISVMVSRS</span><span class="topo-unknown">NGTV</span><span class="topo-inside">SPSAFL</span><span class="topo-unknown">EPFS</span><span class="topo-inside">A</span><span class="topo-membrane">CVWVMMFVM</span></span>
-<span class="topo-line"><span class="topo-membrane">LLIVSAV</span><span class="topo-outside">AVFVFE</span><span class="topo-unknown">YFSPVGYNRSLADGREPGGPS</span><span class="topo-outside">FTIGK</span><span class="topo-unknown">AIWLLWGLVFNNSVPVQ</span><span class="topo-outside">NPKG</span></span>
-<span class="topo-line"><span class="topo-outside">TTS</span><span class="topo-membrane">KIMVSVWAFFAVIFLASY</span><span class="topo-inside">TANLAAFMIQEEYVDQVSGLSDKKFQRPNDFSPPFRFGT</span></span>
-<span class="topo-line"><span class="topo-inside">VPNGSTERNIRNNYAEMHAYMGKFNQRGVDDALLSLKTGKLDAFIYDAAVLNYMAGRDEG</span></span>
-<span class="topo-line"><span class="topo-inside">CKLVTIGSGKVFASTGYGIAIQKDSGWKRQVDLAILQLFGDGEMEELEALWLTGICHNEK</span></span>
-<span class="topo-line"><span class="topo-inside">NEVMSSQLDIDNMAG</span><span class="topo-membrane">VFYMLGAAMALSLITFIS</span><span class="topo-outside">EHL</span><span class="topo-unknown">FYWQFRHSFMG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GRSQKS</span><span class="topo-inside">PPSIGIAVILVGTSDEVAIKDAHEKDDFHHLSVVPRVELVAMNETDPKSIITRICDLMSDRKIQGVVFADDTDQEAIAQILDFISAQTLTPILGIHGGSSMIMADKDESSMFFQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FGPSIEQQASVMLNIMEEYDWYIFSIVTTYFPGYQDFVNKIRSTIENSFVGWELEEVLLLDMSLDDGDSKIQNQLKKLQSPIILLYCTKEEATYIFEVANSVGLTGYGYTWIVPSLVAGD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">TDTVPSEFPTGLISVSYDEWDYGLPARVRDGIAIITTAASDMLSEHSFIPEPKSSCYNTHE</span><span class="topo-unknown">KRIYQ</span><span class="topo-inside">SNMLNRYLINVTFEGRDLSFSEDGYQMHPKLVIILLNKERKWERVGKWKDKSLQ</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">MKYYVWPRM</span><span class="topo-unknown">CPETEEQ</span><span class="topo-inside">EDDHLSIVTLEEAPFVIVESVDPLSGTCMRNTVPCQKR</span><span class="topo-unknown">IISENKTDEEPG</span><span class="topo-inside">YIKKCCKGFCIDILKKISKSVKFTYDLYLVTNGKHGKKINGTWNGMIGEVVMKR</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-inside">AYMAVGSLTINEERSEVVDFSVPFIETGISVMVSRS</span><span class="topo-unknown">NGTV</span><span class="topo-inside">SPSAFL</span><span class="topo-unknown">EPFS</span><span class="topo-inside">A</span><span class="topo-membrane">CVWVMMFVMLLIVSAV</span><span class="topo-outside">AVFVFE</span><span class="topo-unknown">YFSPVGYNRSLADGREPGGPS</span><span class="topo-outside">FTIGK</span><span class="topo-unknown">AIWLLWGLVFNNSVPVQ</span><span class="topo-outside">NPKG</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-outside">TTS</span><span class="topo-membrane">KIMVSVWAFFAVIFLASY</span><span class="topo-inside">TANLAAFMIQEEYVDQVSGLSDKKFQRPNDFSPPFRFGTVPNGSTERNIRNNYAEMHAYMGKFNQRGVDDALLSLKTGKLDAFIYDAAVLNYMAGRDEG</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820       </span>
+<span class="topo-line"><span class="topo-inside">CKLVTIGSGKVFASTGYGIAIQKDSGWKRQVDLAILQLFGDGEMEELEALWLTGICHNEKNEVMSSQLDIDNMAG</span><span class="topo-membrane">VFYMLGAAMALSLITFIS</span><span class="topo-outside">EHL</span><span class="topo-unknown">FYWQFRHSFMG</span></span>
+<details class="topo-details"><summary>Topology coordinates (24 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3645,6 +3686,7 @@ The full-length N-methyl-[D Aspartate](/xray-mp-wiki/reagents/substrates/l-aspar
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3660,21 +3702,23 @@ The full-length N-methyl-[D Aspartate](/xray-mp-wiki/reagents/substrates/l-aspar
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">DP</span><span class="topo-inside">KIVNIGAVLSTRKHEQMFREAVNQANKR</span><span class="topo-unknown">HGSWK</span><span class="topo-inside">IQLQATSVTHKPNAIQMALSVCEDL</span></span>
-<span class="topo-line"><span class="topo-inside">ISSQVYAILVSHPP</span><span class="topo-unknown">TPND</span><span class="topo-inside">HFTPTPVSYTAGFYRIPVLGLTTRMSIYSDKSIHLSFLRTVP</span></span>
-<span class="topo-line"><span class="topo-inside">PYSHQSSVWFEMMRVYNWNHIILLVSDDHEGRAAQKRLETLLEERESK</span><span class="topo-unknown">SKKRNYENLDQL</span></span>
-<span class="topo-line"><span class="topo-unknown">SYDNKR</span><span class="topo-inside">GPKAEKVLQFDPGTKNVTALLMEARELEARVIILSASEDDAATVYRAAAMLDMT</span></span>
-<span class="topo-line"><span class="topo-inside">GSGYVWLVGEREISGNALRYAPDGIIGLQLINGKNESAHISDAVGVVAQAVHELLEKENI</span></span>
-<span class="topo-line"><span class="topo-inside">TDPPRGCVGNTNIWKTGPLFKRVLMSSKYADGVTGRVEFNEDGDRKFAQYSIMNLQNRKL</span></span>
-<span class="topo-line"><span class="topo-inside">VQVGIYNGTHVIPNDRKIIWPGGETEKPRGYQMSTRLKIVTIHQEPFVYVKPTMSDGTCK</span></span>
-<span class="topo-line"><span class="topo-inside">EEFTVNGDPVKKVICTGPND</span><span class="topo-unknown">TSPGSPRH</span><span class="topo-inside">TVPQCCYGFCIDLLIKLARTMQFTYEVHLVAD</span></span>
-<span class="topo-line"><span class="topo-inside">GKFGTQERVQNSNKKEWNGMMGELLSGQADMIVAPLTINNERAQYIEFSKPFKYQGLTIL</span></span>
-<span class="topo-line"><span class="topo-inside">VKKEIPRSTLDSFMQ</span><span class="topo-membrane">PFQSTLWLLVGLSVHVVAVMLYLL</span><span class="topo-outside">DRFS</span><span class="topo-unknown">PFGRFKVNSQSESTDA</span><span class="topo-outside">L</span></span>
-<span class="topo-line"><span class="topo-outside">TLSSA</span><span class="topo-unknown">MWFSWGVLLNSGI</span><span class="topo-outside">GEGAPRS</span><span class="topo-membrane">FSARILGMVWAGFAMIIVASYTANLAAFLV</span><span class="topo-inside">LDRPE</span></span>
-<span class="topo-line"><span class="topo-inside">ERITGINDPRLRNPSDKFIYATVKQSSVDIYFRRQVELSTMYRHMEKHNYESAAEAIQAV</span></span>
-<span class="topo-line"><span class="topo-inside">RDNKLHAFIWDSAVLEFEASQKCDLVTTGELFFRSGFGIGMRKDSPWKQQVSLSILKSHE</span></span>
-<span class="topo-line"><span class="topo-inside">NGFMEDLDKTWVRYQECDSRSNAP</span><span class="topo-membrane">ATLTCENMAGVFMLVAGGIVAGIFL</span><span class="topo-outside">IFIEIAYK</span><span class="topo-unknown">RHK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">DP</span><span class="topo-inside">KIVNIGAVLSTRKHEQMFREAVNQANKR</span><span class="topo-unknown">HGSWK</span><span class="topo-inside">IQLQATSVTHKPNAIQMALSVCEDLISSQVYAILVSHPP</span><span class="topo-unknown">TPND</span><span class="topo-inside">HFTPTPVSYTAGFYRIPVLGLTTRMSIYSDKSIHLSFLRTVP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">PYSHQSSVWFEMMRVYNWNHIILLVSDDHEGRAAQKRLETLLEERESK</span><span class="topo-unknown">SKKRNYENLDQLSYDNKR</span><span class="topo-inside">GPKAEKVLQFDPGTKNVTALLMEARELEARVIILSASEDDAATVYRAAAMLDMT</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">GSGYVWLVGEREISGNALRYAPDGIIGLQLINGKNESAHISDAVGVVAQAVHELLEKENITDPPRGCVGNTNIWKTGPLFKRVLMSSKYADGVTGRVEFNEDGDRKFAQYSIMNLQNRKL</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">VQVGIYNGTHVIPNDRKIIWPGGETEKPRGYQMSTRLKIVTIHQEPFVYVKPTMSDGTCKEEFTVNGDPVKKVICTGPND</span><span class="topo-unknown">TSPGSPRH</span><span class="topo-inside">TVPQCCYGFCIDLLIKLARTMQFTYEVHLVAD</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-inside">GKFGTQERVQNSNKKEWNGMMGELLSGQADMIVAPLTINNERAQYIEFSKPFKYQGLTILVKKEIPRSTLDSFMQ</span><span class="topo-membrane">PFQSTLWLLVGLSVHVVAVMLYLL</span><span class="topo-outside">DRFS</span><span class="topo-unknown">PFGRFKVNSQSESTDA</span><span class="topo-outside">L</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-outside">TLSSA</span><span class="topo-unknown">MWFSWGVLLNSGI</span><span class="topo-outside">GEGAPRS</span><span class="topo-membrane">FSARILGMVWAGFAMIIVASYTANLAAFLV</span><span class="topo-inside">LDRPEERITGINDPRLRNPSDKFIYATVKQSSVDIYFRRQVELSTMYRHMEKHNYESAAEAIQAV</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820       830       840</span>
+<span class="topo-line"><span class="topo-inside">RDNKLHAFIWDSAVLEFEASQKCDLVTTGELFFRSGFGIGMRKDSPWKQQVSLSILKSHENGFMEDLDKTWVRYQECDSRSNAP</span><span class="topo-membrane">ATLTCENMAGVFMLVAGGIVAGIFL</span><span class="topo-outside">IFIEIAYK</span><span class="topo-unknown">RHK</span></span>
+<span class="topo-ruler">      </span>
 <span class="topo-line"><span class="topo-unknown">DANGAQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3833,6 +3877,7 @@ The full-length N-methyl-[D Aspartate](/xray-mp-wiki/reagents/substrates/l-aspar
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3848,20 +3893,21 @@ The full-length N-methyl-[D Aspartate](/xray-mp-wiki/reagents/substrates/l-aspar
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GRSQKS</span><span class="topo-inside">PPSIGIAVILVGTSDEVAIKDAHEKDDFHHLSVVPRVELVAMNETDPKSIITRI</span></span>
-<span class="topo-line"><span class="topo-inside">CDLMSDRKIQGVVFADDTDQEAIAQILDFISAQTLTPILGIHGGSSMIMADKDESSMFFQ</span></span>
-<span class="topo-line"><span class="topo-inside">FGPSIEQQASVMLNIMEEYDWYIFSIVTTYFPGYQDFVNKIRSTIENSFVGWELEEVLLL</span></span>
-<span class="topo-line"><span class="topo-inside">DMSLDDGDSKIQNQLKKLQSPIILLYCTKEEATYIFEVANSVGLTGYGYTWIVPSLVAGD</span></span>
-<span class="topo-line"><span class="topo-inside">TDTVPSEFPTGLISVSYDEWDYGLPARVRDGIAIITTAASDMLSEHSFIPEPKSSCYNTH</span></span>
-<span class="topo-line"><span class="topo-inside">EKRIYQSNMLNRYLINVTFEGRDLSFSEDGYQMHPKLVIILLNKERKWERVGKWKDKSLQ</span></span>
-<span class="topo-line"><span class="topo-inside">MKYYVWPRMC</span><span class="topo-unknown">PETEEQED</span><span class="topo-inside">DHLSIVTLEEAPFVIVESVDPLSGTCMRNTVPCQKR</span><span class="topo-unknown">IISENK</span></span>
-<span class="topo-line"><span class="topo-unknown">TDEEP</span><span class="topo-inside">GYIKKCCKGFCIDILKKISKSVKFTYDLYLVTNGKHGKKINGTWNGMIGEVVMKR</span></span>
-<span class="topo-line"><span class="topo-inside">AYMAVGSLTINEERSEVVDFSVPFIETGISVMVSRSN</span><span class="topo-unknown">GTV</span><span class="topo-inside">SPSAFLEPF</span><span class="topo-membrane">SACVWVMMFVM</span></span>
-<span class="topo-line"><span class="topo-membrane">LLIVSAVAVF</span><span class="topo-outside">VFEYFS</span><span class="topo-unknown">PVGYNRSLADGREPGG</span><span class="topo-outside">PSFTI</span><span class="topo-unknown">GKAIWLLWGLVFNNSVP</span><span class="topo-outside">VQNPKG</span></span>
-<span class="topo-line"><span class="topo-outside">TT</span><span class="topo-membrane">SKIMVSVWAFFAVIFLASYTANLAAFM</span><span class="topo-inside">IQEEYVDQVSGLSDKKFQRPNDFSPPFRFGT</span></span>
-<span class="topo-line"><span class="topo-inside">VPNGSTERNIRNNYAEMHAYMGKFNQRGVDDALLSLKTGKLDAFIYDAAVLNYMAGRDEG</span></span>
-<span class="topo-line"><span class="topo-inside">CKLVTIGSGKVFASTGYGIAIQKDSGWKRQVDLAILQLFGDGEMEELEALWLTGICHNEK</span></span>
-<span class="topo-line"><span class="topo-unknown">NEV</span><span class="topo-inside">MSS</span><span class="topo-membrane">QLDIDNMAGVFYMLGAAMALSLITFISEHLF</span><span class="topo-unknown">YWQFRHSFMG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GRSQKS</span><span class="topo-inside">PPSIGIAVILVGTSDEVAIKDAHEKDDFHHLSVVPRVELVAMNETDPKSIITRICDLMSDRKIQGVVFADDTDQEAIAQILDFISAQTLTPILGIHGGSSMIMADKDESSMFFQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FGPSIEQQASVMLNIMEEYDWYIFSIVTTYFPGYQDFVNKIRSTIENSFVGWELEEVLLLDMSLDDGDSKIQNQLKKLQSPIILLYCTKEEATYIFEVANSVGLTGYGYTWIVPSLVAGD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">TDTVPSEFPTGLISVSYDEWDYGLPARVRDGIAIITTAASDMLSEHSFIPEPKSSCYNTHEKRIYQSNMLNRYLINVTFEGRDLSFSEDGYQMHPKLVIILLNKERKWERVGKWKDKSLQ</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">MKYYVWPRMC</span><span class="topo-unknown">PETEEQED</span><span class="topo-inside">DHLSIVTLEEAPFVIVESVDPLSGTCMRNTVPCQKR</span><span class="topo-unknown">IISENKTDEEP</span><span class="topo-inside">GYIKKCCKGFCIDILKKISKSVKFTYDLYLVTNGKHGKKINGTWNGMIGEVVMKR</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-inside">AYMAVGSLTINEERSEVVDFSVPFIETGISVMVSRSN</span><span class="topo-unknown">GTV</span><span class="topo-inside">SPSAFLEPF</span><span class="topo-membrane">SACVWVMMFVMLLIVSAVAVF</span><span class="topo-outside">VFEYFS</span><span class="topo-unknown">PVGYNRSLADGREPGG</span><span class="topo-outside">PSFTI</span><span class="topo-unknown">GKAIWLLWGLVFNNSVP</span><span class="topo-outside">VQNPKG</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-outside">TT</span><span class="topo-membrane">SKIMVSVWAFFAVIFLASYTANLAAFM</span><span class="topo-inside">IQEEYVDQVSGLSDKKFQRPNDFSPPFRFGTVPNGSTERNIRNNYAEMHAYMGKFNQRGVDDALLSLKTGKLDAFIYDAAVLNYMAGRDEG</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820       </span>
+<span class="topo-line"><span class="topo-inside">CKLVTIGSGKVFASTGYGIAIQKDSGWKRQVDLAILQLFGDGEMEELEALWLTGICHNEK</span><span class="topo-unknown">NEV</span><span class="topo-inside">MSS</span><span class="topo-membrane">QLDIDNMAGVFYMLGAAMALSLITFISEHLF</span><span class="topo-unknown">YWQFRHSFMG</span></span>
+<details class="topo-details"><summary>Topology coordinates (20 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4013,6 +4059,7 @@ The full-length N-methyl-[D Aspartate](/xray-mp-wiki/reagents/substrates/l-aspar
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4028,21 +4075,23 @@ The full-length N-methyl-[D Aspartate](/xray-mp-wiki/reagents/substrates/l-aspar
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">DP</span><span class="topo-inside">KIVNIGAVLSTRKHEQMFREAVNQANKRHGSWKIQLQATSVTHKPNAIQMALSVCEDL</span></span>
-<span class="topo-line"><span class="topo-inside">ISSQVYAILVSH</span><span class="topo-unknown">PPTPNDHF</span><span class="topo-inside">TPTPVSYTAGFYRIPVLGLTTRMSIYSDKSIHLSFLRTVP</span></span>
-<span class="topo-line"><span class="topo-inside">PYSHQSSVWFEMMRVYNWNHIILLVSDDHEGRAAQKRLETLLEERESK</span><span class="topo-unknown">SKKRNYENLDQL</span></span>
-<span class="topo-line"><span class="topo-unknown">SYDNKR</span><span class="topo-inside">GPKAEKVLQFDPGTKNVTALLMEARELEARVIILSASEDDAATVYRAAAMLDMT</span></span>
-<span class="topo-line"><span class="topo-inside">GSGYVWLVGEREISGNALRYAPDGIIGLQLINGKNESAHISDAVGVVAQAVHELLEKENI</span></span>
-<span class="topo-line"><span class="topo-inside">TDPPRGCVGNTNIWKTGPLFKRVLMSSKYADGVTGRVEFNEDGDRKFAQYSIMNLQNRKL</span></span>
-<span class="topo-line"><span class="topo-inside">VQVGIYNGTHVIPNDRKIIWPGGETEKPRGYQMSTRLKIVTIHQEPFVYVKPTMSDGTCK</span></span>
-<span class="topo-line"><span class="topo-inside">EEFTVNGDPVKKVICTGPND</span><span class="topo-unknown">TSP</span><span class="topo-inside">GSPRHTVPQCCYGFCIDLLIKLARTMQFTYEVHLVAD</span></span>
-<span class="topo-line"><span class="topo-inside">GKFGTQERVQNSNKKEWNGMMGELLSGQADMIVAPLTINNERAQYIEFSKPFKYQGLTIL</span></span>
-<span class="topo-line"><span class="topo-inside">VKKEIPRSTLDSFMQP</span><span class="topo-membrane">FQSTLWLLVGLSVHVVAVML</span><span class="topo-outside">YLLDRFS</span><span class="topo-unknown">PFGRFKVNSQSESTDAL</span></span>
-<span class="topo-line"><span class="topo-outside">TLSSAM</span><span class="topo-unknown">WFSWGVLLNSGI</span><span class="topo-outside">GEGAPRSFSAR</span><span class="topo-membrane">ILGMVWAGFAMIIVASYTANLAAFLV</span><span class="topo-inside">LDRPE</span></span>
-<span class="topo-line"><span class="topo-inside">ERITGINDPRLRNPSDKFIYATVKQSSVDIYFRRQVELSTMYRHMEKHNYESAAEAIQAV</span></span>
-<span class="topo-line"><span class="topo-inside">RDNKLHAFIWDSAVLEFEASQKCDLVTTGELFFRSGFGIGMRKDSPWKQQVSLSILKSHE</span></span>
-<span class="topo-line"><span class="topo-inside">NGFMEDLDKTWVRYQECDSRSNAPAT</span><span class="topo-membrane">LTCENMAGVFMLVAGGIVAGIFLIFI</span><span class="topo-outside">EIA</span><span class="topo-unknown">YKRHK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">DP</span><span class="topo-inside">KIVNIGAVLSTRKHEQMFREAVNQANKRHGSWKIQLQATSVTHKPNAIQMALSVCEDLISSQVYAILVSH</span><span class="topo-unknown">PPTPNDHF</span><span class="topo-inside">TPTPVSYTAGFYRIPVLGLTTRMSIYSDKSIHLSFLRTVP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">PYSHQSSVWFEMMRVYNWNHIILLVSDDHEGRAAQKRLETLLEERESK</span><span class="topo-unknown">SKKRNYENLDQLSYDNKR</span><span class="topo-inside">GPKAEKVLQFDPGTKNVTALLMEARELEARVIILSASEDDAATVYRAAAMLDMT</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">GSGYVWLVGEREISGNALRYAPDGIIGLQLINGKNESAHISDAVGVVAQAVHELLEKENITDPPRGCVGNTNIWKTGPLFKRVLMSSKYADGVTGRVEFNEDGDRKFAQYSIMNLQNRKL</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">VQVGIYNGTHVIPNDRKIIWPGGETEKPRGYQMSTRLKIVTIHQEPFVYVKPTMSDGTCKEEFTVNGDPVKKVICTGPND</span><span class="topo-unknown">TSP</span><span class="topo-inside">GSPRHTVPQCCYGFCIDLLIKLARTMQFTYEVHLVAD</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-inside">GKFGTQERVQNSNKKEWNGMMGELLSGQADMIVAPLTINNERAQYIEFSKPFKYQGLTILVKKEIPRSTLDSFMQP</span><span class="topo-membrane">FQSTLWLLVGLSVHVVAVML</span><span class="topo-outside">YLLDRFS</span><span class="topo-unknown">PFGRFKVNSQSESTDAL</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-outside">TLSSAM</span><span class="topo-unknown">WFSWGVLLNSGI</span><span class="topo-outside">GEGAPRSFSAR</span><span class="topo-membrane">ILGMVWAGFAMIIVASYTANLAAFLV</span><span class="topo-inside">LDRPEERITGINDPRLRNPSDKFIYATVKQSSVDIYFRRQVELSTMYRHMEKHNYESAAEAIQAV</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820       830       840</span>
+<span class="topo-line"><span class="topo-inside">RDNKLHAFIWDSAVLEFEASQKCDLVTTGELFFRSGFGIGMRKDSPWKQQVSLSILKSHENGFMEDLDKTWVRYQECDSRSNAPAT</span><span class="topo-membrane">LTCENMAGVFMLVAGGIVAGIFLIFI</span><span class="topo-outside">EIA</span><span class="topo-unknown">YKRHK</span></span>
+<span class="topo-ruler">      </span>
 <span class="topo-line"><span class="topo-unknown">DANGAQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4187,6 +4236,7 @@ The full-length N-methyl-[D Aspartate](/xray-mp-wiki/reagents/substrates/l-aspar
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4202,20 +4252,21 @@ The full-length N-methyl-[D Aspartate](/xray-mp-wiki/reagents/substrates/l-aspar
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GRSQKS</span><span class="topo-inside">PPSIGIAVILVGTSDEVAIKDAHEKDDFHHLSVVPRVELVAMNETDPKSIITRI</span></span>
-<span class="topo-line"><span class="topo-inside">CDLMSDRKIQGVVFADDTDQEAIAQILDFISAQTLTPILGIHGGSSMIMADKDESSMFFQ</span></span>
-<span class="topo-line"><span class="topo-inside">FGPSIEQQASVMLNIMEEYDWYIFSIVTTYFPGYQDFVNKIRSTIENSFVGWELEEVLLL</span></span>
-<span class="topo-line"><span class="topo-inside">DMSLDDGDSKIQNQLKKLQSPIILLYCTKEEATYIFEVANSVGLTGYGYTWIVPSLVAGD</span></span>
-<span class="topo-line"><span class="topo-inside">TDTVPSEFPTGLISVSYDEWDYGLPARVRDGIAIITTAASDMLSEHSFIPEPKSSCYNTH</span></span>
-<span class="topo-line"><span class="topo-inside">EKRIYQSNMLNRYLINVTFEGRDLSFSEDGYQMHPKLVIILLNKERKWERVGKWKDKSLQ</span></span>
-<span class="topo-line"><span class="topo-inside">MKYYVWPRMC</span><span class="topo-unknown">PETEEQED</span><span class="topo-inside">DHLSIVTLEEAPFVIVESVDPLSGTCMRNTVPCQKR</span><span class="topo-unknown">IISENK</span></span>
-<span class="topo-line"><span class="topo-unknown">TDEEPG</span><span class="topo-inside">YIKKCCKGFCIDILKKISKSVKFTYDLYLVTNGKHGKKINGTWNGMIGEVVMKR</span></span>
-<span class="topo-line"><span class="topo-inside">AYMAVGSLTINEERSEVVDFSVPFIETGISVMVSRSN</span><span class="topo-unknown">GTV</span><span class="topo-inside">SPSAFLEPF</span><span class="topo-membrane">SACVWVMMFVM</span></span>
-<span class="topo-line"><span class="topo-membrane">LLIVSAV</span><span class="topo-outside">AVFVFE</span><span class="topo-unknown">YFSPVGYNRSLADGREPGGPS</span><span class="topo-outside">FTIGKAI</span><span class="topo-unknown">WLLWGLVFNNSVP</span><span class="topo-outside">VQNPKG</span></span>
-<span class="topo-line"><span class="topo-outside">TTSK</span><span class="topo-membrane">IMVSVWAFFAVIFLASYTANLAAFMIQ</span><span class="topo-inside">EEYVDQVSGLSDKKFQRPNDFSPPFRFGT</span></span>
-<span class="topo-line"><span class="topo-inside">VPNGSTERNIRNNYAEMHAYMGKFNQRGVDDALLSLKTGKLDAFIYDAAVLNYMAGRDEG</span></span>
-<span class="topo-line"><span class="topo-inside">CKLVTIGSGKVFASTGYGIAIQKDSGWKRQVDLAILQLFGDGEMEELEALWLTGICHNEK</span></span>
-<span class="topo-line"><span class="topo-unknown">NEV</span><span class="topo-inside">MSS</span><span class="topo-membrane">QLDIDNMAGVFYMLGAAMALSLIT</span><span class="topo-outside">FISEHLF</span><span class="topo-unknown">YWQFRHSFMG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GRSQKS</span><span class="topo-inside">PPSIGIAVILVGTSDEVAIKDAHEKDDFHHLSVVPRVELVAMNETDPKSIITRICDLMSDRKIQGVVFADDTDQEAIAQILDFISAQTLTPILGIHGGSSMIMADKDESSMFFQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FGPSIEQQASVMLNIMEEYDWYIFSIVTTYFPGYQDFVNKIRSTIENSFVGWELEEVLLLDMSLDDGDSKIQNQLKKLQSPIILLYCTKEEATYIFEVANSVGLTGYGYTWIVPSLVAGD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">TDTVPSEFPTGLISVSYDEWDYGLPARVRDGIAIITTAASDMLSEHSFIPEPKSSCYNTHEKRIYQSNMLNRYLINVTFEGRDLSFSEDGYQMHPKLVIILLNKERKWERVGKWKDKSLQ</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">MKYYVWPRMC</span><span class="topo-unknown">PETEEQED</span><span class="topo-inside">DHLSIVTLEEAPFVIVESVDPLSGTCMRNTVPCQKR</span><span class="topo-unknown">IISENKTDEEPG</span><span class="topo-inside">YIKKCCKGFCIDILKKISKSVKFTYDLYLVTNGKHGKKINGTWNGMIGEVVMKR</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-inside">AYMAVGSLTINEERSEVVDFSVPFIETGISVMVSRSN</span><span class="topo-unknown">GTV</span><span class="topo-inside">SPSAFLEPF</span><span class="topo-membrane">SACVWVMMFVMLLIVSAV</span><span class="topo-outside">AVFVFE</span><span class="topo-unknown">YFSPVGYNRSLADGREPGGPS</span><span class="topo-outside">FTIGKAI</span><span class="topo-unknown">WLLWGLVFNNSVP</span><span class="topo-outside">VQNPKG</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-outside">TTSK</span><span class="topo-membrane">IMVSVWAFFAVIFLASYTANLAAFMIQ</span><span class="topo-inside">EEYVDQVSGLSDKKFQRPNDFSPPFRFGTVPNGSTERNIRNNYAEMHAYMGKFNQRGVDDALLSLKTGKLDAFIYDAAVLNYMAGRDEG</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820       </span>
+<span class="topo-line"><span class="topo-inside">CKLVTIGSGKVFASTGYGIAIQKDSGWKRQVDLAILQLFGDGEMEELEALWLTGICHNEK</span><span class="topo-unknown">NEV</span><span class="topo-inside">MSS</span><span class="topo-membrane">QLDIDNMAGVFYMLGAAMALSLIT</span><span class="topo-outside">FISEHLF</span><span class="topo-unknown">YWQFRHSFMG</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4374,6 +4425,7 @@ The full-length N-methyl-[D Aspartate](/xray-mp-wiki/reagents/substrates/l-aspar
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4389,21 +4441,23 @@ The full-length N-methyl-[D Aspartate](/xray-mp-wiki/reagents/substrates/l-aspar
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">DP</span><span class="topo-inside">KIVNIGAVLSTRKHEQMFREAVNQANKR</span><span class="topo-unknown">HGSWK</span><span class="topo-inside">IQLQATSVTHKPNAIQMALSVCEDL</span></span>
-<span class="topo-line"><span class="topo-inside">ISSQVYAILVSHPPT</span><span class="topo-unknown">PN</span><span class="topo-inside">DHFTPTPVSYTAGFYRIPVLGLTTRMSIYSDKSIHLSFLRTVP</span></span>
-<span class="topo-line"><span class="topo-inside">PYSHQSSVWFEMMRVYNWNHIILLVSDDHEGRAAQKRLETLLEERES</span><span class="topo-unknown">KSKKRNYENLDQL</span></span>
-<span class="topo-line"><span class="topo-unknown">SYDNK</span><span class="topo-inside">RGPKAEKVLQFDPGTKNVTALLMEARELEARVIILSASEDDAATVYRAAAMLDMT</span></span>
-<span class="topo-line"><span class="topo-inside">GSGYVWLVGEREISGNALRYAPDGIIGLQLINGKNESAHISDAVGVVAQAVHELLEKENI</span></span>
-<span class="topo-line"><span class="topo-inside">TDPPRGCVGNTNIWKTGPLFKRVLMSSKYADGVTGRVEFNEDGDRKFAQYSIMNLQNRKL</span></span>
-<span class="topo-line"><span class="topo-inside">VQVGIYNGTHVIPNDRKIIWPGGETEKPRGYQMSTRLKIVTIHQEPFVYVKPTMSDGTCK</span></span>
-<span class="topo-line"><span class="topo-inside">EEFTVNGDPVKKVICTGPND</span><span class="topo-unknown">TSPGSPRH</span><span class="topo-inside">TVPQCCYGFCIDLLIKLARTMQFTYEVHLVAD</span></span>
-<span class="topo-line"><span class="topo-inside">GKFGTQERVQNSNKKEWNGMMGELLSGQADMIVAPLTINNERAQYIEFSKPFKYQGLTIL</span></span>
-<span class="topo-line"><span class="topo-inside">VKKEIPRSTLDSFMQPFQ</span><span class="topo-membrane">STLWLLVGLSVHVVAVMLY</span><span class="topo-outside">LLDRFS</span><span class="topo-unknown">PFGRFKVNSQSESTDA</span><span class="topo-outside">L</span></span>
-<span class="topo-line"><span class="topo-outside">TLSS</span><span class="topo-unknown">AMWFSWGVLLNSGI</span><span class="topo-outside">GEGAPRS</span><span class="topo-membrane">FSARILGMVWAGFAMIIVASY</span><span class="topo-inside">TANLAAFLVLDRPE</span></span>
-<span class="topo-line"><span class="topo-inside">ERITGINDPRLRNPSDKFIYATVKQSSVDIYFRRQVELSTMYRHMEKHNYESAAEAIQAV</span></span>
-<span class="topo-line"><span class="topo-inside">RDNKLHAFIWDSAVLEFEASQKCDLVTTGELFFRSGFGIGMRKDSPWKQQVSLSILKSHE</span></span>
-<span class="topo-line"><span class="topo-inside">NGFMEDLDKTWVRYQECDSRSNAPATLTCEN</span><span class="topo-membrane">MAGVFMLVAGGIVAGIFLI</span><span class="topo-outside">FIEIAYKR</span><span class="topo-unknown">HK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">DP</span><span class="topo-inside">KIVNIGAVLSTRKHEQMFREAVNQANKR</span><span class="topo-unknown">HGSWK</span><span class="topo-inside">IQLQATSVTHKPNAIQMALSVCEDLISSQVYAILVSHPPT</span><span class="topo-unknown">PN</span><span class="topo-inside">DHFTPTPVSYTAGFYRIPVLGLTTRMSIYSDKSIHLSFLRTVP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">PYSHQSSVWFEMMRVYNWNHIILLVSDDHEGRAAQKRLETLLEERES</span><span class="topo-unknown">KSKKRNYENLDQLSYDNK</span><span class="topo-inside">RGPKAEKVLQFDPGTKNVTALLMEARELEARVIILSASEDDAATVYRAAAMLDMT</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">GSGYVWLVGEREISGNALRYAPDGIIGLQLINGKNESAHISDAVGVVAQAVHELLEKENITDPPRGCVGNTNIWKTGPLFKRVLMSSKYADGVTGRVEFNEDGDRKFAQYSIMNLQNRKL</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">VQVGIYNGTHVIPNDRKIIWPGGETEKPRGYQMSTRLKIVTIHQEPFVYVKPTMSDGTCKEEFTVNGDPVKKVICTGPND</span><span class="topo-unknown">TSPGSPRH</span><span class="topo-inside">TVPQCCYGFCIDLLIKLARTMQFTYEVHLVAD</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-inside">GKFGTQERVQNSNKKEWNGMMGELLSGQADMIVAPLTINNERAQYIEFSKPFKYQGLTILVKKEIPRSTLDSFMQPFQ</span><span class="topo-membrane">STLWLLVGLSVHVVAVMLY</span><span class="topo-outside">LLDRFS</span><span class="topo-unknown">PFGRFKVNSQSESTDA</span><span class="topo-outside">L</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-outside">TLSS</span><span class="topo-unknown">AMWFSWGVLLNSGI</span><span class="topo-outside">GEGAPRS</span><span class="topo-membrane">FSARILGMVWAGFAMIIVASY</span><span class="topo-inside">TANLAAFLVLDRPEERITGINDPRLRNPSDKFIYATVKQSSVDIYFRRQVELSTMYRHMEKHNYESAAEAIQAV</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820       830       840</span>
+<span class="topo-line"><span class="topo-inside">RDNKLHAFIWDSAVLEFEASQKCDLVTTGELFFRSGFGIGMRKDSPWKQQVSLSILKSHENGFMEDLDKTWVRYQECDSRSNAPATLTCEN</span><span class="topo-membrane">MAGVFMLVAGGIVAGIFLI</span><span class="topo-outside">FIEIAYKR</span><span class="topo-unknown">HK</span></span>
+<span class="topo-ruler">      </span>
 <span class="topo-line"><span class="topo-unknown">DANGAQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4562,6 +4616,7 @@ The full-length N-methyl-[D Aspartate](/xray-mp-wiki/reagents/substrates/l-aspar
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4577,21 +4632,23 @@ The full-length N-methyl-[D Aspartate](/xray-mp-wiki/reagents/substrates/l-aspar
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">DP</span><span class="topo-inside">KIVNIGAVLSTRKHEQMFREAVNQANKR</span><span class="topo-unknown">HGSWK</span><span class="topo-inside">IQLQATSVTHKPNAIQMALSVCEDL</span></span>
-<span class="topo-line"><span class="topo-inside">ISSQVYAILVSHPPT</span><span class="topo-unknown">PN</span><span class="topo-inside">DHFTPTPVSYTAGFYRIPVLGLTTRMSIYSDKSIHLSFLRTVP</span></span>
-<span class="topo-line"><span class="topo-inside">PYSHQSSVWFEMMRVYNWNHIILLVSDDHEGRAAQKRLETLLEERE</span><span class="topo-unknown">SKSKKRNYENLDQL</span></span>
-<span class="topo-line"><span class="topo-unknown">SYDNK</span><span class="topo-inside">RGPKAEKVLQFDPGTKNVTALLMEARELEARVIILSASEDDAATVYRAAAMLDMT</span></span>
-<span class="topo-line"><span class="topo-inside">GSGYVWLVGEREISGNALRYAPDGIIGLQLINGKNESAHISDAVGVVAQAVHELL</span><span class="topo-unknown">EKE</span><span class="topo-inside">NI</span></span>
-<span class="topo-line"><span class="topo-inside">TDPPRGCVGNTNIWKTGPLFKRVLMSSKYADGVTGRVEFNEDGDRKFAQYSIMNLQNRKL</span></span>
-<span class="topo-line"><span class="topo-inside">VQVGIYNGTHVIPNDRKIIWPGGETEKPRGYQMSTRLKIVTIHQEPFVYVKPTMSDGTCK</span></span>
-<span class="topo-line"><span class="topo-inside">EEFTVNGDPVKKVICTGPND</span><span class="topo-unknown">TSPGSPRH</span><span class="topo-inside">TVPQCCYGFCIDLLIKLARTMQFTYEVHLVAD</span></span>
-<span class="topo-line"><span class="topo-inside">GKFGTQERVQNSNKKEWNGMMGELLSGQADMIVAPLTINNERAQYIEFSKPFKYQGLTIL</span></span>
-<span class="topo-line"><span class="topo-inside">VKKEIPRSTLDSFMQPFQ</span><span class="topo-membrane">STLWLLVGLSVHVVAVML</span><span class="topo-outside">YLLDRFS</span><span class="topo-unknown">PFGRFKVNSQSESTDA</span><span class="topo-outside">L</span></span>
-<span class="topo-line"><span class="topo-outside">TLSS</span><span class="topo-unknown">AMWFSWGVLLNSGI</span><span class="topo-outside">GEGAPRSF</span><span class="topo-membrane">SARILGMVWAGFAMIIVASY</span><span class="topo-inside">TANLAAFLVLDRPE</span></span>
-<span class="topo-line"><span class="topo-inside">ERITGINDPRLRNPSDKFIYATVKQSSVDIYFRRQVELSTMYRHMEKHNYESAAEAIQAV</span></span>
-<span class="topo-line"><span class="topo-inside">RDNKLHAFIWDSAVLEFEASQKCDLVTTGELFFRSGFGIGMRKDSPWKQQVSLSILKSHE</span></span>
-<span class="topo-line"><span class="topo-inside">NGFMEDLDKTWVRYQECDSRSNAPATLTCEN</span><span class="topo-membrane">MAGVFMLVAGGIVAGIFLI</span><span class="topo-outside">FIEIAYKRHK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">DP</span><span class="topo-inside">KIVNIGAVLSTRKHEQMFREAVNQANKR</span><span class="topo-unknown">HGSWK</span><span class="topo-inside">IQLQATSVTHKPNAIQMALSVCEDLISSQVYAILVSHPPT</span><span class="topo-unknown">PN</span><span class="topo-inside">DHFTPTPVSYTAGFYRIPVLGLTTRMSIYSDKSIHLSFLRTVP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">PYSHQSSVWFEMMRVYNWNHIILLVSDDHEGRAAQKRLETLLEERE</span><span class="topo-unknown">SKSKKRNYENLDQLSYDNK</span><span class="topo-inside">RGPKAEKVLQFDPGTKNVTALLMEARELEARVIILSASEDDAATVYRAAAMLDMT</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">GSGYVWLVGEREISGNALRYAPDGIIGLQLINGKNESAHISDAVGVVAQAVHELL</span><span class="topo-unknown">EKE</span><span class="topo-inside">NITDPPRGCVGNTNIWKTGPLFKRVLMSSKYADGVTGRVEFNEDGDRKFAQYSIMNLQNRKL</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">VQVGIYNGTHVIPNDRKIIWPGGETEKPRGYQMSTRLKIVTIHQEPFVYVKPTMSDGTCKEEFTVNGDPVKKVICTGPND</span><span class="topo-unknown">TSPGSPRH</span><span class="topo-inside">TVPQCCYGFCIDLLIKLARTMQFTYEVHLVAD</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-inside">GKFGTQERVQNSNKKEWNGMMGELLSGQADMIVAPLTINNERAQYIEFSKPFKYQGLTILVKKEIPRSTLDSFMQPFQ</span><span class="topo-membrane">STLWLLVGLSVHVVAVML</span><span class="topo-outside">YLLDRFS</span><span class="topo-unknown">PFGRFKVNSQSESTDA</span><span class="topo-outside">L</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-outside">TLSS</span><span class="topo-unknown">AMWFSWGVLLNSGI</span><span class="topo-outside">GEGAPRSF</span><span class="topo-membrane">SARILGMVWAGFAMIIVASY</span><span class="topo-inside">TANLAAFLVLDRPEERITGINDPRLRNPSDKFIYATVKQSSVDIYFRRQVELSTMYRHMEKHNYESAAEAIQAV</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820       830       840</span>
+<span class="topo-line"><span class="topo-inside">RDNKLHAFIWDSAVLEFEASQKCDLVTTGELFFRSGFGIGMRKDSPWKQQVSLSILKSHENGFMEDLDKTWVRYQECDSRSNAPATLTCEN</span><span class="topo-membrane">MAGVFMLVAGGIVAGIFLI</span><span class="topo-outside">FIEIAYKRHK</span></span>
+<span class="topo-ruler">      </span>
 <span class="topo-line"><span class="topo-outside">DA</span><span class="topo-unknown">NGAQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (23 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4764,6 +4821,7 @@ The full-length N-methyl-[D Aspartate](/xray-mp-wiki/reagents/substrates/l-aspar
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4779,20 +4837,21 @@ The full-length N-methyl-[D Aspartate](/xray-mp-wiki/reagents/substrates/l-aspar
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GRSQKS</span><span class="topo-inside">PPSIGIAVILVGTSDEVAIKDAHEKDDFHHLSVVPRVELVAMNETDPKSIITRI</span></span>
-<span class="topo-line"><span class="topo-inside">CDLMSDRKIQGVVFADDTDQEAIAQILDFISAQTLTPILGIHGGSSMIMADKDESSMFFQ</span></span>
-<span class="topo-line"><span class="topo-inside">FGPSIEQQASVMLNIMEEYDWYIFSIVTTYFPGYQDFVNKIRSTIENSFVGWELEEVLLL</span></span>
-<span class="topo-line"><span class="topo-inside">DMSLDDGDSKIQNQLKKLQSPIILLYCTKEEATYIFEVANSVGLTGYGYTWIVPSLVAGD</span></span>
-<span class="topo-line"><span class="topo-inside">TDTVPSEFPTGLISVSYDEWDYGLPARVRDGIAIITTAASDMLSEHSFIPEPKSSCYNTH</span></span>
-<span class="topo-line"><span class="topo-inside">EKRIYQSNMLNRYLINVTFEGRDLSFSEDGYQMHPKLVIILLNKERKWERVGKWKDKSLQ</span></span>
-<span class="topo-line"><span class="topo-inside">MKYYVWPR</span><span class="topo-unknown">MCPETEEQ</span><span class="topo-inside">EDDHLSIVTLEEAPFVIVESVDPLSGTCMRNTVPCQKR</span><span class="topo-unknown">IISENK</span></span>
-<span class="topo-line"><span class="topo-unknown">TDEEPG</span><span class="topo-inside">YIKKCCKGFCIDILKKISKSVKFTYDLYLVTNGKHGKKINGTWNGMIGEVVMKR</span></span>
-<span class="topo-line"><span class="topo-inside">AYMAVGSLTINEERSEVVDFSVPFIETGISVMVSRSN</span><span class="topo-unknown">GTVS</span><span class="topo-inside">PSAFLEPFS</span><span class="topo-membrane">ACVWVMMFVM</span></span>
-<span class="topo-line"><span class="topo-membrane">LLIVSAVA</span><span class="topo-outside">VFVFE</span><span class="topo-unknown">YFSPVGYNRSLADGREPGGPS</span><span class="topo-outside">FTIGKA</span><span class="topo-unknown">IWLLWGLVFNNSVP</span><span class="topo-outside">VQNPKG</span></span>
-<span class="topo-line"><span class="topo-outside">T</span><span class="topo-membrane">TSKIMVSVWAFFAVIFLASYT</span><span class="topo-inside">ANLAAFMIQEEYVDQVSGLSDKKFQRPNDFSPPFRFGT</span></span>
-<span class="topo-line"><span class="topo-inside">VPNGSTERNIRNNYAEMHAYMGKFNQRGVDDALLSLKTGKLDAFIYDAAVLNYMAGRDEG</span></span>
-<span class="topo-line"><span class="topo-inside">CKLVTIGSGKVFASTGYGIAIQKDSGWKRQVDLAILQLFGDGEMEELEALWLTGICHNEK</span></span>
-<span class="topo-line"><span class="topo-inside">NEVMSSQLDIDN</span><span class="topo-membrane">MAGVFYMLGAAMALSLITFIS</span><span class="topo-outside">EHLFYWQ</span><span class="topo-unknown">FRHSFMG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GRSQKS</span><span class="topo-inside">PPSIGIAVILVGTSDEVAIKDAHEKDDFHHLSVVPRVELVAMNETDPKSIITRICDLMSDRKIQGVVFADDTDQEAIAQILDFISAQTLTPILGIHGGSSMIMADKDESSMFFQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FGPSIEQQASVMLNIMEEYDWYIFSIVTTYFPGYQDFVNKIRSTIENSFVGWELEEVLLLDMSLDDGDSKIQNQLKKLQSPIILLYCTKEEATYIFEVANSVGLTGYGYTWIVPSLVAGD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">TDTVPSEFPTGLISVSYDEWDYGLPARVRDGIAIITTAASDMLSEHSFIPEPKSSCYNTHEKRIYQSNMLNRYLINVTFEGRDLSFSEDGYQMHPKLVIILLNKERKWERVGKWKDKSLQ</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">MKYYVWPR</span><span class="topo-unknown">MCPETEEQ</span><span class="topo-inside">EDDHLSIVTLEEAPFVIVESVDPLSGTCMRNTVPCQKR</span><span class="topo-unknown">IISENKTDEEPG</span><span class="topo-inside">YIKKCCKGFCIDILKKISKSVKFTYDLYLVTNGKHGKKINGTWNGMIGEVVMKR</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-inside">AYMAVGSLTINEERSEVVDFSVPFIETGISVMVSRSN</span><span class="topo-unknown">GTVS</span><span class="topo-inside">PSAFLEPFS</span><span class="topo-membrane">ACVWVMMFVMLLIVSAVA</span><span class="topo-outside">VFVFE</span><span class="topo-unknown">YFSPVGYNRSLADGREPGGPS</span><span class="topo-outside">FTIGKA</span><span class="topo-unknown">IWLLWGLVFNNSVP</span><span class="topo-outside">VQNPKG</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-outside">T</span><span class="topo-membrane">TSKIMVSVWAFFAVIFLASYT</span><span class="topo-inside">ANLAAFMIQEEYVDQVSGLSDKKFQRPNDFSPPFRFGTVPNGSTERNIRNNYAEMHAYMGKFNQRGVDDALLSLKTGKLDAFIYDAAVLNYMAGRDEG</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820       </span>
+<span class="topo-line"><span class="topo-inside">CKLVTIGSGKVFASTGYGIAIQKDSGWKRQVDLAILQLFGDGEMEELEALWLTGICHNEKNEVMSSQLDIDN</span><span class="topo-membrane">MAGVFYMLGAAMALSLITFIS</span><span class="topo-outside">EHLFYWQ</span><span class="topo-unknown">FRHSFMG</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4937,6 +4996,7 @@ The full-length N-methyl-[D Aspartate](/xray-mp-wiki/reagents/substrates/l-aspar
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4952,20 +5012,21 @@ The full-length N-methyl-[D Aspartate](/xray-mp-wiki/reagents/substrates/l-aspar
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GRSQKS</span><span class="topo-inside">PPSIGIAVILVGTSDEVAIKDAHEKDDFHHLSVVPRVELVAMNETDPKSIITRI</span></span>
-<span class="topo-line"><span class="topo-inside">CDLMSDRKIQGVVFADDTDQEAIAQILDFISAQTLTPILGIHGGSSMIMADKDESSMFFQ</span></span>
-<span class="topo-line"><span class="topo-inside">FGPSIEQQASVMLNIMEEYDWYIFSIVTTYFPGYQDFVNKIRSTIEN</span><span class="topo-unknown">SFVGW</span><span class="topo-inside">ELEEVLLL</span></span>
-<span class="topo-line"><span class="topo-inside">DMSLDDGDSKIQNQLKKLQSPIILLYCTKEEATYIFEVANSVGLTGYGYTWIVPSLVAGD</span></span>
-<span class="topo-line"><span class="topo-inside">TDTVPSEFPTGLISVSYDEWDYGLPARVRDGIAIITTAASDMLSEHSFIPEPKSSCYNTH</span></span>
-<span class="topo-line"><span class="topo-inside">EKRIYQSNMLNRYLINVTFEGRDLSFSEDGYQMHPKLVIILLNKERKWERVGKWKDKSLQ</span></span>
-<span class="topo-line"><span class="topo-inside">MKYYVWPRM</span><span class="topo-unknown">CPETEE</span><span class="topo-inside">QEDDHLSIVTLEEAPFVIVESVDPLSGTCMRNTVPCQKR</span><span class="topo-unknown">IISENK</span></span>
-<span class="topo-line"><span class="topo-unknown">TDEEPG</span><span class="topo-inside">YIKKCCKGFCIDILKKISKSVKFTYDLYLVTNGKHGKKINGTWNGMIGEVVMKR</span></span>
-<span class="topo-line"><span class="topo-inside">AYMAVGSLTINEERSEVVDFSVPFIETGISVMVSRSNGTVSPSAFLEPFS</span><span class="topo-membrane">ACVWVMMFVM</span></span>
-<span class="topo-line"><span class="topo-membrane">LLIVSAVA</span><span class="topo-outside">VFVFE</span><span class="topo-unknown">YFSPVGYNRSLADGREPGGPS</span><span class="topo-outside">FTIGKA</span><span class="topo-unknown">IWLLWGLVFNNSVP</span><span class="topo-outside">VQNPKG</span></span>
-<span class="topo-line"><span class="topo-outside">T</span><span class="topo-membrane">TSKIMVSVWAFFAVIFLASYT</span><span class="topo-inside">ANLAAFMIQEEYVDQVSGLSDKKFQRPNDFSPPFRFGT</span></span>
-<span class="topo-line"><span class="topo-inside">VPNGSTERNIRNNYAEMHAYMGKFNQRGVDDALLSLKTGKLDAFIYDAAVLNYMAGRDEG</span></span>
-<span class="topo-line"><span class="topo-inside">CKLVTIGSGKVFASTGYGIAIQKDSGWKRQVDLAILQLFGDGEMEELEALWLTGICHNEK</span></span>
-<span class="topo-line"><span class="topo-inside">NEVMSSQLDIDN</span><span class="topo-membrane">MAGVFYMLGAAMALSLITFI</span><span class="topo-unknown">SEHLFYWQFRHSFMG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GRSQKS</span><span class="topo-inside">PPSIGIAVILVGTSDEVAIKDAHEKDDFHHLSVVPRVELVAMNETDPKSIITRICDLMSDRKIQGVVFADDTDQEAIAQILDFISAQTLTPILGIHGGSSMIMADKDESSMFFQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FGPSIEQQASVMLNIMEEYDWYIFSIVTTYFPGYQDFVNKIRSTIEN</span><span class="topo-unknown">SFVGW</span><span class="topo-inside">ELEEVLLLDMSLDDGDSKIQNQLKKLQSPIILLYCTKEEATYIFEVANSVGLTGYGYTWIVPSLVAGD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">TDTVPSEFPTGLISVSYDEWDYGLPARVRDGIAIITTAASDMLSEHSFIPEPKSSCYNTHEKRIYQSNMLNRYLINVTFEGRDLSFSEDGYQMHPKLVIILLNKERKWERVGKWKDKSLQ</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">MKYYVWPRM</span><span class="topo-unknown">CPETEE</span><span class="topo-inside">QEDDHLSIVTLEEAPFVIVESVDPLSGTCMRNTVPCQKR</span><span class="topo-unknown">IISENKTDEEPG</span><span class="topo-inside">YIKKCCKGFCIDILKKISKSVKFTYDLYLVTNGKHGKKINGTWNGMIGEVVMKR</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-inside">AYMAVGSLTINEERSEVVDFSVPFIETGISVMVSRSNGTVSPSAFLEPFS</span><span class="topo-membrane">ACVWVMMFVMLLIVSAVA</span><span class="topo-outside">VFVFE</span><span class="topo-unknown">YFSPVGYNRSLADGREPGGPS</span><span class="topo-outside">FTIGKA</span><span class="topo-unknown">IWLLWGLVFNNSVP</span><span class="topo-outside">VQNPKG</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-outside">T</span><span class="topo-membrane">TSKIMVSVWAFFAVIFLASYT</span><span class="topo-inside">ANLAAFMIQEEYVDQVSGLSDKKFQRPNDFSPPFRFGTVPNGSTERNIRNNYAEMHAYMGKFNQRGVDDALLSLKTGKLDAFIYDAAVLNYMAGRDEG</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820       </span>
+<span class="topo-line"><span class="topo-inside">CKLVTIGSGKVFASTGYGIAIQKDSGWKRQVDLAILQLFGDGEMEELEALWLTGICHNEKNEVMSSQLDIDN</span><span class="topo-membrane">MAGVFYMLGAAMALSLITFI</span><span class="topo-unknown">SEHLFYWQFRHSFMG</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -5103,6 +5164,7 @@ The full-length N-methyl-[D Aspartate](/xray-mp-wiki/reagents/substrates/l-aspar
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -5118,21 +5180,23 @@ The full-length N-methyl-[D Aspartate](/xray-mp-wiki/reagents/substrates/l-aspar
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">DP</span><span class="topo-inside">KIVNIGAVLSTRKHEQMFREAVNQANKR</span><span class="topo-unknown">HGSWK</span><span class="topo-inside">IQLQATSVTHKPNAIQMALSVCEDL</span></span>
-<span class="topo-line"><span class="topo-inside">ISSQVYAILVSHPP</span><span class="topo-unknown">TPNDHF</span><span class="topo-inside">TPTPVSYTAGFYRIPVLGLTTRMSIYSDKSIHLSFLRTVP</span></span>
-<span class="topo-line"><span class="topo-inside">PYSHQSSVWFEMMRVYNWNHIILLVSDDHEGRAAQKRLETLLEERESKSKK</span><span class="topo-unknown">RNYENLDQL</span></span>
-<span class="topo-line"><span class="topo-unknown">SYD</span><span class="topo-inside">NKRGPKAEKVLQFDPGTKNVTALLMEARELEARVIILSASEDDAATVYRAAAMLDMT</span></span>
-<span class="topo-line"><span class="topo-inside">GSGYVWLVGEREISGNALRYAPDGIIGLQLINGKNESAHISDAVGVVAQAVHELLEKENI</span></span>
-<span class="topo-line"><span class="topo-inside">TDPPRGCVGNTNIWKTGPLFKRVLMSSKYADGVTGRVEFNEDGDRKFAQYSIMNLQNRKL</span></span>
-<span class="topo-line"><span class="topo-inside">VQVGIYNGTHVIPNDRKIIWPGGETEKPRGYQMSTRLKIVTIHQEPFVYVKPTMSDGTCK</span></span>
-<span class="topo-line"><span class="topo-inside">EEFTVNGDPVKKVICTGPND</span><span class="topo-unknown">TSPGSPRH</span><span class="topo-inside">TVPQCCYGFCIDLLIKLARTMQFTYEVHLVAD</span></span>
-<span class="topo-line"><span class="topo-inside">GKFGTQERVQNSNKKEWNGMMGELLSGQADMIVAPLTINNERAQYIEFSKPFKYQGLTIL</span></span>
-<span class="topo-line"><span class="topo-inside">VKKEIPRSTLDSFMQPFQSTL</span><span class="topo-membrane">WLLVGLSVHVVAVMLYLL</span><span class="topo-outside">DRFS</span><span class="topo-unknown">PFGRFKVNSQSESTDA</span><span class="topo-outside">L</span></span>
-<span class="topo-line"><span class="topo-outside">T</span><span class="topo-unknown">LSSAMWFSWGVLLNSGIG</span><span class="topo-outside">EGAPRS</span><span class="topo-membrane">FSARILGMVWAGFAMIIV</span><span class="topo-inside">ASYTANLAAFLVLDRPE</span></span>
-<span class="topo-line"><span class="topo-inside">ERITGINDPRLRNPSDKFIYATVKQSSVDIYFRRQVELSTMYRHMEKHNYESAAEAIQAV</span></span>
-<span class="topo-line"><span class="topo-inside">RDNKLHAFIWDSAVLEFEASQKCDLVTTGELFFRSGFGIGMRKDSPWKQQVSLSILKSHE</span></span>
-<span class="topo-line"><span class="topo-inside">NGFMEDLDKTWVRYQECDSRSNAPATLTCENMAGV</span><span class="topo-membrane">FMLVAGGIVAGIFLIFIEI</span><span class="topo-outside">AYKRHK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">DP</span><span class="topo-inside">KIVNIGAVLSTRKHEQMFREAVNQANKR</span><span class="topo-unknown">HGSWK</span><span class="topo-inside">IQLQATSVTHKPNAIQMALSVCEDLISSQVYAILVSHPP</span><span class="topo-unknown">TPNDHF</span><span class="topo-inside">TPTPVSYTAGFYRIPVLGLTTRMSIYSDKSIHLSFLRTVP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">PYSHQSSVWFEMMRVYNWNHIILLVSDDHEGRAAQKRLETLLEERESKSKK</span><span class="topo-unknown">RNYENLDQLSYD</span><span class="topo-inside">NKRGPKAEKVLQFDPGTKNVTALLMEARELEARVIILSASEDDAATVYRAAAMLDMT</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">GSGYVWLVGEREISGNALRYAPDGIIGLQLINGKNESAHISDAVGVVAQAVHELLEKENITDPPRGCVGNTNIWKTGPLFKRVLMSSKYADGVTGRVEFNEDGDRKFAQYSIMNLQNRKL</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">VQVGIYNGTHVIPNDRKIIWPGGETEKPRGYQMSTRLKIVTIHQEPFVYVKPTMSDGTCKEEFTVNGDPVKKVICTGPND</span><span class="topo-unknown">TSPGSPRH</span><span class="topo-inside">TVPQCCYGFCIDLLIKLARTMQFTYEVHLVAD</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-inside">GKFGTQERVQNSNKKEWNGMMGELLSGQADMIVAPLTINNERAQYIEFSKPFKYQGLTILVKKEIPRSTLDSFMQPFQSTL</span><span class="topo-membrane">WLLVGLSVHVVAVMLYLL</span><span class="topo-outside">DRFS</span><span class="topo-unknown">PFGRFKVNSQSESTDA</span><span class="topo-outside">L</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-outside">T</span><span class="topo-unknown">LSSAMWFSWGVLLNSGIG</span><span class="topo-outside">EGAPRS</span><span class="topo-membrane">FSARILGMVWAGFAMIIV</span><span class="topo-inside">ASYTANLAAFLVLDRPEERITGINDPRLRNPSDKFIYATVKQSSVDIYFRRQVELSTMYRHMEKHNYESAAEAIQAV</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820       830       840</span>
+<span class="topo-line"><span class="topo-inside">RDNKLHAFIWDSAVLEFEASQKCDLVTTGELFFRSGFGIGMRKDSPWKQQVSLSILKSHENGFMEDLDKTWVRYQECDSRSNAPATLTCENMAGV</span><span class="topo-membrane">FMLVAGGIVAGIFLIFIEI</span><span class="topo-outside">AYKRHK</span></span>
+<span class="topo-ruler">      </span>
 <span class="topo-line"><span class="topo-outside">DA</span><span class="topo-unknown">NGAQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -5291,6 +5355,7 @@ The full-length N-methyl-[D Aspartate](/xray-mp-wiki/reagents/substrates/l-aspar
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -5306,20 +5371,21 @@ The full-length N-methyl-[D Aspartate](/xray-mp-wiki/reagents/substrates/l-aspar
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GRSQKS</span><span class="topo-inside">PPSIGIAVILVGTSDEVAIKDAHEKDDFHHLSVVPRVELVAMNETDPKSIITRI</span></span>
-<span class="topo-line"><span class="topo-inside">CDLMSDRKIQGVVFADDTDQEAIAQILDFISAQTLTPILGIHGGSSMIMADKDESSMFFQ</span></span>
-<span class="topo-line"><span class="topo-inside">FGPSIEQQASVMLNIMEEYDWYIFSIVTTYFPGYQDFVNKIRSTIENSFVGWELEEVLLL</span></span>
-<span class="topo-line"><span class="topo-inside">D</span><span class="topo-unknown">MSLDDGD</span><span class="topo-inside">SKIQNQLKKLQSPIILLYCTKEEATYIFEVANSVGLTGYGYTWIVPSLVAGD</span></span>
-<span class="topo-line"><span class="topo-inside">TDTVPSEFPTGLISVSYDEWDYGLPARVRDGIAIITTAASDMLSEHSFIPEPKSSCYNTH</span></span>
-<span class="topo-line"><span class="topo-inside">EKRIYQSNMLNRYLINVTFEGRDLSFSEDGYQMHPKLVIILLNKERKWERVGKWKDKSLQ</span></span>
-<span class="topo-line"><span class="topo-inside">MKYYVWPR</span><span class="topo-unknown">MCPETEE</span><span class="topo-inside">QEDDHLSIVTLEEAPFVIVESVDPLSGTCMRNTVPCQKR</span><span class="topo-unknown">IISENK</span></span>
-<span class="topo-line"><span class="topo-unknown">TDEEPG</span><span class="topo-inside">YIKKCCKGFCIDILKKISKSVKFTYDLYLVTNGKHGKKINGTWNGMIGEVVMKR</span></span>
-<span class="topo-line"><span class="topo-inside">AYMAVGSLTINEERSEVVDFSVPFIETGISVMVSRSNGTVSPSAFLEPFSA</span><span class="topo-membrane">CVWVMMFVM</span></span>
-<span class="topo-line"><span class="topo-membrane">LLIVSAVA</span><span class="topo-outside">VFVFE</span><span class="topo-unknown">YFSPVGYNRSLADGREPGGPS</span><span class="topo-outside">FTI</span><span class="topo-unknown">GKAIWLLWGLVFNNSVPV</span><span class="topo-outside">QNPKG</span></span>
-<span class="topo-line"><span class="topo-outside">T</span><span class="topo-membrane">TSKIMVSVWAFFAVIFLA</span><span class="topo-inside">SYTANLAAFMIQEEYVDQVSGLSDKKFQRPNDFSPPFRFGT</span></span>
-<span class="topo-line"><span class="topo-inside">VPNGSTERNIRNNYAEMHAYMGKFNQRGVDDALLSLKTGKLDAFIYDAAVLNYMAGRDEG</span></span>
-<span class="topo-line"><span class="topo-inside">CKLVTIGSGKVFASTGYGIAIQKDSGWKRQVDLAILQLFGDGEMEELEALWLTGICHNEK</span></span>
-<span class="topo-line"><span class="topo-inside">NEVMSSQLDIDNMAGV</span><span class="topo-membrane">FYMLGAAMALSLITFISE</span><span class="topo-outside">HLFYWQ</span><span class="topo-unknown">FRHSFMG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GRSQKS</span><span class="topo-inside">PPSIGIAVILVGTSDEVAIKDAHEKDDFHHLSVVPRVELVAMNETDPKSIITRICDLMSDRKIQGVVFADDTDQEAIAQILDFISAQTLTPILGIHGGSSMIMADKDESSMFFQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FGPSIEQQASVMLNIMEEYDWYIFSIVTTYFPGYQDFVNKIRSTIENSFVGWELEEVLLLD</span><span class="topo-unknown">MSLDDGD</span><span class="topo-inside">SKIQNQLKKLQSPIILLYCTKEEATYIFEVANSVGLTGYGYTWIVPSLVAGD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">TDTVPSEFPTGLISVSYDEWDYGLPARVRDGIAIITTAASDMLSEHSFIPEPKSSCYNTHEKRIYQSNMLNRYLINVTFEGRDLSFSEDGYQMHPKLVIILLNKERKWERVGKWKDKSLQ</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">MKYYVWPR</span><span class="topo-unknown">MCPETEE</span><span class="topo-inside">QEDDHLSIVTLEEAPFVIVESVDPLSGTCMRNTVPCQKR</span><span class="topo-unknown">IISENKTDEEPG</span><span class="topo-inside">YIKKCCKGFCIDILKKISKSVKFTYDLYLVTNGKHGKKINGTWNGMIGEVVMKR</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-inside">AYMAVGSLTINEERSEVVDFSVPFIETGISVMVSRSNGTVSPSAFLEPFSA</span><span class="topo-membrane">CVWVMMFVMLLIVSAVA</span><span class="topo-outside">VFVFE</span><span class="topo-unknown">YFSPVGYNRSLADGREPGGPS</span><span class="topo-outside">FTI</span><span class="topo-unknown">GKAIWLLWGLVFNNSVPV</span><span class="topo-outside">QNPKG</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-outside">T</span><span class="topo-membrane">TSKIMVSVWAFFAVIFLA</span><span class="topo-inside">SYTANLAAFMIQEEYVDQVSGLSDKKFQRPNDFSPPFRFGTVPNGSTERNIRNNYAEMHAYMGKFNQRGVDDALLSLKTGKLDAFIYDAAVLNYMAGRDEG</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820       </span>
+<span class="topo-line"><span class="topo-inside">CKLVTIGSGKVFASTGYGIAIQKDSGWKRQVDLAILQLFGDGEMEELEALWLTGICHNEKNEVMSSQLDIDNMAGV</span><span class="topo-membrane">FYMLGAAMALSLITFISE</span><span class="topo-outside">HLFYWQ</span><span class="topo-unknown">FRHSFMG</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -5464,6 +5530,7 @@ The full-length N-methyl-[D Aspartate](/xray-mp-wiki/reagents/substrates/l-aspar
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -5479,21 +5546,23 @@ The full-length N-methyl-[D Aspartate](/xray-mp-wiki/reagents/substrates/l-aspar
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">DP</span><span class="topo-inside">KIVNIGAVLSTRKHEQMFREAVNQANKR</span><span class="topo-unknown">HGSWK</span><span class="topo-inside">IQLQATSVTHKPNAIQMALSVCEDL</span></span>
-<span class="topo-line"><span class="topo-inside">ISSQVYAILVSHPP</span><span class="topo-unknown">TPNDHFT</span><span class="topo-inside">PTPVSYTAGFYRIPVLGLTTRMSIYSDKSIHLSFLRTVP</span></span>
-<span class="topo-line"><span class="topo-inside">PYSHQSSVWFEMMRVYNWNHIILLVSDDHEGRAAQKRLETLLEERESKSKK</span><span class="topo-unknown">RNYENLDQL</span></span>
-<span class="topo-line"><span class="topo-unknown">SYD</span><span class="topo-inside">NKRGPKAEKVLQFDPGTKNVTALLMEARELEARVIILSASEDDAATVYRAAAMLDMT</span></span>
-<span class="topo-line"><span class="topo-inside">GSGYVWLVGEREISGNALRYAPDGIIGLQLINGKNESAHISDAVGVVAQAVHELLEKENI</span></span>
-<span class="topo-line"><span class="topo-inside">TDPPRGCVGNTNIWKTGPLFKRVLMSSKYADGVTGRVEFNEDGDRKFAQYSIMNLQNRKL</span></span>
-<span class="topo-line"><span class="topo-inside">VQVGIYNGTHVIPNDRKIIWPGGETEKPRGYQMSTRLKIVTIHQEPFVYVKPTMSDGTCK</span></span>
-<span class="topo-line"><span class="topo-inside">EEFTVNGDPVKKVICTGPND</span><span class="topo-unknown">TSPGSPRH</span><span class="topo-inside">TVPQCCYGFCIDLLIKLARTMQFTYEVHLVAD</span></span>
-<span class="topo-line"><span class="topo-inside">GKFGTQERVQNSNKKEWNGMMGELLSGQADMIVAPLTINNERAQYIEFSKPFKYQGLTIL</span></span>
-<span class="topo-line"><span class="topo-inside">VKKEIPRSTLDSFMQPFQS</span><span class="topo-membrane">TLWLLVGLSVHVVAVMLYLL</span><span class="topo-outside">DRFS</span><span class="topo-unknown">PFGRFKVNSQSESTDA</span><span class="topo-outside">L</span></span>
-<span class="topo-line"><span class="topo-outside">TLSS</span><span class="topo-unknown">AMWFSWGVLLNSGIG</span><span class="topo-outside">EGAPR</span><span class="topo-membrane">SFSARILGMVWAGFAMIIV</span><span class="topo-inside">ASYTANLAAFLVLDRPE</span></span>
-<span class="topo-line"><span class="topo-inside">ERITGINDPRLRNPSDKFIYATVKQSSVDIYFRRQVELSTMYRHMEKHNYESAAEAIQAV</span></span>
-<span class="topo-line"><span class="topo-inside">RDNKLHAFIWDSAVLEFEASQKCDLVTTGELFFRSGFGIGMRKDSPWKQQVSLSILKSHE</span></span>
-<span class="topo-line"><span class="topo-inside">NGFMEDLDKTWVRYQECDSRSNAPATLTCENMAG</span><span class="topo-membrane">VFMLVAGGIVAGIFLIF</span><span class="topo-outside">IEIAYKRHK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">DP</span><span class="topo-inside">KIVNIGAVLSTRKHEQMFREAVNQANKR</span><span class="topo-unknown">HGSWK</span><span class="topo-inside">IQLQATSVTHKPNAIQMALSVCEDLISSQVYAILVSHPP</span><span class="topo-unknown">TPNDHFT</span><span class="topo-inside">PTPVSYTAGFYRIPVLGLTTRMSIYSDKSIHLSFLRTVP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">PYSHQSSVWFEMMRVYNWNHIILLVSDDHEGRAAQKRLETLLEERESKSKK</span><span class="topo-unknown">RNYENLDQLSYD</span><span class="topo-inside">NKRGPKAEKVLQFDPGTKNVTALLMEARELEARVIILSASEDDAATVYRAAAMLDMT</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">GSGYVWLVGEREISGNALRYAPDGIIGLQLINGKNESAHISDAVGVVAQAVHELLEKENITDPPRGCVGNTNIWKTGPLFKRVLMSSKYADGVTGRVEFNEDGDRKFAQYSIMNLQNRKL</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">VQVGIYNGTHVIPNDRKIIWPGGETEKPRGYQMSTRLKIVTIHQEPFVYVKPTMSDGTCKEEFTVNGDPVKKVICTGPND</span><span class="topo-unknown">TSPGSPRH</span><span class="topo-inside">TVPQCCYGFCIDLLIKLARTMQFTYEVHLVAD</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-inside">GKFGTQERVQNSNKKEWNGMMGELLSGQADMIVAPLTINNERAQYIEFSKPFKYQGLTILVKKEIPRSTLDSFMQPFQS</span><span class="topo-membrane">TLWLLVGLSVHVVAVMLYLL</span><span class="topo-outside">DRFS</span><span class="topo-unknown">PFGRFKVNSQSESTDA</span><span class="topo-outside">L</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-outside">TLSS</span><span class="topo-unknown">AMWFSWGVLLNSGIG</span><span class="topo-outside">EGAPR</span><span class="topo-membrane">SFSARILGMVWAGFAMIIV</span><span class="topo-inside">ASYTANLAAFLVLDRPEERITGINDPRLRNPSDKFIYATVKQSSVDIYFRRQVELSTMYRHMEKHNYESAAEAIQAV</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820       830       840</span>
+<span class="topo-line"><span class="topo-inside">RDNKLHAFIWDSAVLEFEASQKCDLVTTGELFFRSGFGIGMRKDSPWKQQVSLSILKSHENGFMEDLDKTWVRYQECDSRSNAPATLTCENMAG</span><span class="topo-membrane">VFMLVAGGIVAGIFLIF</span><span class="topo-outside">IEIAYKRHK</span></span>
+<span class="topo-ruler">      </span>
 <span class="topo-line"><span class="topo-outside">DA</span><span class="topo-unknown">NGAQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -5652,6 +5721,7 @@ The full-length N-methyl-[D Aspartate](/xray-mp-wiki/reagents/substrates/l-aspar
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -5667,20 +5737,21 @@ The full-length N-methyl-[D Aspartate](/xray-mp-wiki/reagents/substrates/l-aspar
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GRSQKS</span><span class="topo-inside">PPSIGIAVILVGTSDEVAIKDAHEKDDFHHLSVVPRVELVAMNETDPKSIITRI</span></span>
-<span class="topo-line"><span class="topo-inside">CDLMSDRKIQGVVFADDTDQEAIAQILDFISAQTLTPILGIHGGSSMIMADKDESSMFFQ</span></span>
-<span class="topo-line"><span class="topo-inside">FGPSIEQQASVMLNIMEEYDWYIFSIVTTYFPGYQDFVNKIRSTIENSFVGWELEEVLLL</span></span>
-<span class="topo-line"><span class="topo-inside">D</span><span class="topo-unknown">MSLDDGD</span><span class="topo-inside">SKIQNQLKKLQSPIILLYCTKEEATYIFEVANSVGLTGYGYTWIVPSLVAGD</span></span>
-<span class="topo-line"><span class="topo-inside">TDTVPSEFPTGLISVSYDEWDYGLPARVRDGIAIITTAASDMLSEHSFIPEPKSSCYNTH</span></span>
-<span class="topo-line"><span class="topo-inside">EKRIYQSNMLNRYLINVTFEGRDLSFSEDGYQMHPKLVIILLNKERKWERVGKWKDKSLQ</span></span>
-<span class="topo-line"><span class="topo-inside">MKYYVWPR</span><span class="topo-unknown">MCPETEEQ</span><span class="topo-inside">EDDHLSIVTLEEAPFVIVESVDPLSGTCMRNTVPCQKR</span><span class="topo-unknown">IISENK</span></span>
-<span class="topo-line"><span class="topo-unknown">TDEEPG</span><span class="topo-inside">YIKKCCKGFCIDILKKISKSVKFTYDLYLVTNGKHGKKINGTWNGMIGEVVMKR</span></span>
-<span class="topo-line"><span class="topo-inside">AYMAVGSLTINEERSEVVDFSVPFIETGISVMVSRSNGTVSPSAFLEPFSAC</span><span class="topo-membrane">VWVMMFVM</span></span>
-<span class="topo-line"><span class="topo-membrane">LLIVSAVAVF</span><span class="topo-outside">VFE</span><span class="topo-unknown">YFSPVGYNRSLADGREPGGPS</span><span class="topo-outside">FT</span><span class="topo-unknown">IGKAIWLLWGLVFNNSVPV</span><span class="topo-outside">QNPK</span><span class="topo-membrane">G</span></span>
-<span class="topo-line"><span class="topo-membrane">TTSKIMVSVWAFFAVIFL</span><span class="topo-inside">ASYTANLAAFMIQEEYVDQVSGLSDKKFQRPNDFSPPFRFGT</span></span>
-<span class="topo-line"><span class="topo-inside">VPNGSTERNIRNNYAEMHAYMGKFNQRGVDDALLSLKTGKLDAFIYDAAVLNYMAGRDEG</span></span>
-<span class="topo-line"><span class="topo-inside">CKLVTIGSGKVFASTGYGIAIQKDSGWKRQVDLAILQLFGDGEMEELEALWLTGICHNEK</span></span>
-<span class="topo-line"><span class="topo-inside">NEVMSSQLDIDNMAGV</span><span class="topo-membrane">FYMLGAAMALSLITFISE</span><span class="topo-outside">HLFYWQ</span><span class="topo-unknown">FRHSFMG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GRSQKS</span><span class="topo-inside">PPSIGIAVILVGTSDEVAIKDAHEKDDFHHLSVVPRVELVAMNETDPKSIITRICDLMSDRKIQGVVFADDTDQEAIAQILDFISAQTLTPILGIHGGSSMIMADKDESSMFFQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FGPSIEQQASVMLNIMEEYDWYIFSIVTTYFPGYQDFVNKIRSTIENSFVGWELEEVLLLD</span><span class="topo-unknown">MSLDDGD</span><span class="topo-inside">SKIQNQLKKLQSPIILLYCTKEEATYIFEVANSVGLTGYGYTWIVPSLVAGD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">TDTVPSEFPTGLISVSYDEWDYGLPARVRDGIAIITTAASDMLSEHSFIPEPKSSCYNTHEKRIYQSNMLNRYLINVTFEGRDLSFSEDGYQMHPKLVIILLNKERKWERVGKWKDKSLQ</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">MKYYVWPR</span><span class="topo-unknown">MCPETEEQ</span><span class="topo-inside">EDDHLSIVTLEEAPFVIVESVDPLSGTCMRNTVPCQKR</span><span class="topo-unknown">IISENKTDEEPG</span><span class="topo-inside">YIKKCCKGFCIDILKKISKSVKFTYDLYLVTNGKHGKKINGTWNGMIGEVVMKR</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-inside">AYMAVGSLTINEERSEVVDFSVPFIETGISVMVSRSNGTVSPSAFLEPFSAC</span><span class="topo-membrane">VWVMMFVMLLIVSAVAVF</span><span class="topo-outside">VFE</span><span class="topo-unknown">YFSPVGYNRSLADGREPGGPS</span><span class="topo-outside">FT</span><span class="topo-unknown">IGKAIWLLWGLVFNNSVPV</span><span class="topo-outside">QNPK</span><span class="topo-membrane">G</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-membrane">TTSKIMVSVWAFFAVIFL</span><span class="topo-inside">ASYTANLAAFMIQEEYVDQVSGLSDKKFQRPNDFSPPFRFGTVPNGSTERNIRNNYAEMHAYMGKFNQRGVDDALLSLKTGKLDAFIYDAAVLNYMAGRDEG</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820       </span>
+<span class="topo-line"><span class="topo-inside">CKLVTIGSGKVFASTGYGIAIQKDSGWKRQVDLAILQLFGDGEMEELEALWLTGICHNEKNEVMSSQLDIDNMAGV</span><span class="topo-membrane">FYMLGAAMALSLITFISE</span><span class="topo-outside">HLFYWQ</span><span class="topo-unknown">FRHSFMG</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -5825,6 +5896,7 @@ The full-length N-methyl-[D Aspartate](/xray-mp-wiki/reagents/substrates/l-aspar
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -5961,14 +6033,15 @@ The full-length N-methyl-[D Aspartate](/xray-mp-wiki/reagents/substrates/l-aspar
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MSTRLKIVTIHQEPFVYVRPTTSDGTCREEYTINGDPIKKVICNGPDETIPGRPTVPQCC</span></span>
-<span class="topo-line"><span class="topo-outside">YGFCVDLLIKLAREMDFTYEVHLVADGKFGTQERVNNSNAAAWNGMMGELLSGQADMIVA</span></span>
-<span class="topo-line"><span class="topo-outside">PLTINNERAQYIEFSKPFKYQGLTILVKKEIPRSTLDSFMQPFQSTLW</span><span class="topo-membrane">LLVGLSVHVVAV</span></span>
-<span class="topo-line"><span class="topo-membrane">MLYLL</span><span class="topo-inside">DRFS</span><span class="topo-unknown">PFGRFEDAL</span><span class="topo-inside">TLSSA</span><span class="topo-unknown">MWFSWRVLLNSGL</span><span class="topo-inside">GEGAPRSF</span><span class="topo-membrane">SARILGMVWAGFAMII</span></span>
-<span class="topo-line"><span class="topo-membrane">VA</span><span class="topo-outside">SYTANLAAFLVLRRPEERITGINDPRLRNPSDKFIYATVKQSSVDIYFRRQVELSTMY</span></span>
-<span class="topo-line"><span class="topo-outside">RHMEKHNYESAAEAIQAVRDNKLHAFIWDSAVLEFEASQKCDLVTTGELFFRSGFGIGMR</span></span>
-<span class="topo-line"><span class="topo-outside">KDSPWKQEVSLNILKSHENGFMEELDKTWVRYQECDSRSNAPATLTFENMA</span><span class="topo-membrane">GVFMLVAGG</span></span>
-<span class="topo-line"><span class="topo-membrane">IVAGIFLIFI</span><span class="topo-inside">EIA</span><span class="topo-unknown">YKSRAEAKRMKGLEVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MSTRLKIVTIHQEPFVYVRPTTSDGTCREEYTINGDPIKKVICNGPDETIPGRPTVPQCCYGFCVDLLIKLAREMDFTYEVHLVADGKFGTQERVNNSNAAAWNGMMGELLSGQADMIVA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">PLTINNERAQYIEFSKPFKYQGLTILVKKEIPRSTLDSFMQPFQSTLW</span><span class="topo-membrane">LLVGLSVHVVAVMLYLL</span><span class="topo-inside">DRFS</span><span class="topo-unknown">PFGRFEDAL</span><span class="topo-inside">TLSSA</span><span class="topo-unknown">MWFSWRVLLNSGL</span><span class="topo-inside">GEGAPRSF</span><span class="topo-membrane">SARILGMVWAGFAMII</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">VA</span><span class="topo-outside">SYTANLAAFLVLRRPEERITGINDPRLRNPSDKFIYATVKQSSVDIYFRRQVELSTMYRHMEKHNYESAAEAIQAVRDNKLHAFIWDSAVLEFEASQKCDLVTTGELFFRSGFGIGMR</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450 </span>
+<span class="topo-line"><span class="topo-outside">KDSPWKQEVSLNILKSHENGFMEELDKTWVRYQECDSRSNAPATLTFENMA</span><span class="topo-membrane">GVFMLVAGGIVAGIFLIFI</span><span class="topo-inside">EIA</span><span class="topo-unknown">YKSRAEAKRMKGLEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (12 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -6064,6 +6137,7 @@ The full-length N-methyl-[D Aspartate](/xray-mp-wiki/reagents/substrates/l-aspar
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -6079,14 +6153,15 @@ The full-length N-methyl-[D Aspartate](/xray-mp-wiki/reagents/substrates/l-aspar
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">DEHLSIVTLEEAPFVIVEDVDPLSGTCMRNTVPCRKQIRPENRTEEGGNYIKRCCKGFCI</span></span>
-<span class="topo-line"><span class="topo-outside">DILKKIAKTVKFTYDLYLVTNGKHGKKINGVWNGMIGEVVTKRAYMAVGSLTINEERSEV</span></span>
-<span class="topo-line"><span class="topo-outside">VDFSVPFIETGISVMVSRSN</span><span class="topo-unknown">GTVSPSAF</span><span class="topo-outside">LEPFSAD</span><span class="topo-membrane">VWVMMFVMLLIVSAVA</span><span class="topo-inside">VFVFEYFSP</span></span>
-<span class="topo-line"><span class="topo-inside">VG</span><span class="topo-unknown">YNGPS</span><span class="topo-inside">FTIGKA</span><span class="topo-unknown">IWLLWGLVFNNSLP</span><span class="topo-inside">VQNP</span><span class="topo-unknown">KGTTSK</span><span class="topo-inside">I</span><span class="topo-membrane">MVSVWAFFAVIFLA</span><span class="topo-outside">SYTANLAA</span></span>
-<span class="topo-line"><span class="topo-outside">FMIQRRYVDQVSGLSDKKFQRPNDFSPAFRFGTVPNGSTERNIRNNYLEMHSYMVKFNQR</span></span>
-<span class="topo-line"><span class="topo-outside">SVQDALLSLKSGKLDAFIYDAAVLNYMAGRDEGCKLVTIGSGKVFATTGYGIAIQKDSGW</span></span>
-<span class="topo-line"><span class="topo-outside">KRQVDLAILQLFGDGEMEELEALWLTGICHNEKNEVMSSQLDIDNMAGV</span><span class="topo-membrane">FYMLAAAMALS</span></span>
-<span class="topo-line"><span class="topo-membrane">LITFIME</span><span class="topo-inside">H</span><span class="topo-unknown">LFYKSRAEAKRMKGLEVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">DEHLSIVTLEEAPFVIVEDVDPLSGTCMRNTVPCRKQIRPENRTEEGGNYIKRCCKGFCIDILKKIAKTVKFTYDLYLVTNGKHGKKINGVWNGMIGEVVTKRAYMAVGSLTINEERSEV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">VDFSVPFIETGISVMVSRSN</span><span class="topo-unknown">GTVSPSAF</span><span class="topo-outside">LEPFSAD</span><span class="topo-membrane">VWVMMFVMLLIVSAVA</span><span class="topo-inside">VFVFEYFSPVG</span><span class="topo-unknown">YNGPS</span><span class="topo-inside">FTIGKA</span><span class="topo-unknown">IWLLWGLVFNNSLP</span><span class="topo-inside">VQNP</span><span class="topo-unknown">KGTTSK</span><span class="topo-inside">I</span><span class="topo-membrane">MVSVWAFFAVIFLA</span><span class="topo-outside">SYTANLAA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">FMIQRRYVDQVSGLSDKKFQRPNDFSPAFRFGTVPNGSTERNIRNNYLEMHSYMVKFNQRSVQDALLSLKSGKLDAFIYDAAVLNYMAGRDEGCKLVTIGSGKVFATTGYGIAIQKDSGW</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440        </span>
+<span class="topo-line"><span class="topo-outside">KRQVDLAILQLFGDGEMEELEALWLTGICHNEKNEVMSSQLDIDNMAGV</span><span class="topo-membrane">FYMLAAAMALSLITFIME</span><span class="topo-inside">H</span><span class="topo-unknown">LFYKSRAEAKRMKGLEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -6210,6 +6285,7 @@ The full-length N-methyl-[D Aspartate](/xray-mp-wiki/reagents/substrates/l-aspar
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -6225,14 +6301,15 @@ The full-length N-methyl-[D Aspartate](/xray-mp-wiki/reagents/substrates/l-aspar
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MS</span><span class="topo-outside">TRLKIVTIHQEPFVYVRPTTSDGTCREEYTINGDPIKKVICNGPDETIPGRPTVPQCC</span></span>
-<span class="topo-line"><span class="topo-outside">YGFCVDLLIKLAREMDFTYEVHLVADGKFGTQERVNNSNAAAWNGMMGELLSGQADMIVA</span></span>
-<span class="topo-line"><span class="topo-outside">PLTINNERAQYIEFSKPFKYQGLTILVKKE</span><span class="topo-unknown">I</span><span class="topo-outside">PRSTLDSFMQPFQSTLW</span><span class="topo-membrane">LLVGLSVHVVAV</span></span>
-<span class="topo-line"><span class="topo-membrane">MLYLL</span><span class="topo-inside">DR</span><span class="topo-unknown">FSPFGRFEDA</span><span class="topo-inside">LTLSSA</span><span class="topo-unknown">MWFSWRVLLNSGL</span><span class="topo-inside">GEGAPRS</span><span class="topo-membrane">FSARILGMVWAGFAMII</span></span>
-<span class="topo-line"><span class="topo-membrane">VA</span><span class="topo-outside">SYTANLAAFLVLRRPEERITGINDPRLRNPSDKFIYATVKQSSVDIYFRRQVELSTMY</span></span>
-<span class="topo-line"><span class="topo-outside">RHMEKHNYESAAEAIQAVRDNKLHAFIWDSAVLEFEASQKCDLVTTGELFFRSGFGIGMR</span></span>
-<span class="topo-line"><span class="topo-outside">KDSPWKQEVSLNILKSHENGFMEELDKTWVRYQECDSR</span><span class="topo-unknown">SN</span><span class="topo-outside">APATLTFENMAGV</span><span class="topo-membrane">FMLVAGG</span></span>
-<span class="topo-line"><span class="topo-membrane">IVAGIFL</span><span class="topo-unknown">IFIEIAYKSRAEAKRMKGLEVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MS</span><span class="topo-outside">TRLKIVTIHQEPFVYVRPTTSDGTCREEYTINGDPIKKVICNGPDETIPGRPTVPQCCYGFCVDLLIKLAREMDFTYEVHLVADGKFGTQERVNNSNAAAWNGMMGELLSGQADMIVA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">PLTINNERAQYIEFSKPFKYQGLTILVKKE</span><span class="topo-unknown">I</span><span class="topo-outside">PRSTLDSFMQPFQSTLW</span><span class="topo-membrane">LLVGLSVHVVAVMLYLL</span><span class="topo-inside">DR</span><span class="topo-unknown">FSPFGRFEDA</span><span class="topo-inside">LTLSSA</span><span class="topo-unknown">MWFSWRVLLNSGL</span><span class="topo-inside">GEGAPRS</span><span class="topo-membrane">FSARILGMVWAGFAMII</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">VA</span><span class="topo-outside">SYTANLAAFLVLRRPEERITGINDPRLRNPSDKFIYATVKQSSVDIYFRRQVELSTMYRHMEKHNYESAAEAIQAVRDNKLHAFIWDSAVLEFEASQKCDLVTTGELFFRSGFGIGMR</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450 </span>
+<span class="topo-line"><span class="topo-outside">KDSPWKQEVSLNILKSHENGFMEELDKTWVRYQECDSR</span><span class="topo-unknown">SN</span><span class="topo-outside">APATLTFENMAGV</span><span class="topo-membrane">FMLVAGGIVAGIFL</span><span class="topo-unknown">IFIEIAYKSRAEAKRMKGLEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -6356,6 +6433,7 @@ The full-length N-methyl-[D Aspartate](/xray-mp-wiki/reagents/substrates/l-aspar
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -6371,14 +6449,15 @@ The full-length N-methyl-[D Aspartate](/xray-mp-wiki/reagents/substrates/l-aspar
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">D</span><span class="topo-outside">EHLSIVTLEEAPFVIVEDVDPLSGTCMRNTVPCRKQIRPENRTEEGGNYIKRCCKGFCI</span></span>
-<span class="topo-line"><span class="topo-outside">DILKKIAKTVKFTYDLYLVTNGKHGKKINGVWNGMIGEVVTKRAYMAVGSLTINEERSEV</span></span>
-<span class="topo-line"><span class="topo-outside">VDFSVPFIETGISVMVSRSNGTV</span><span class="topo-unknown">SPS</span><span class="topo-outside">AFLEPFSAD</span><span class="topo-membrane">VWVMMFVMLLIVSAVAV</span><span class="topo-inside">FVFE</span><span class="topo-unknown">YFSP</span></span>
-<span class="topo-line"><span class="topo-unknown">VGYNGP</span><span class="topo-inside">SFTIGKA</span><span class="topo-unknown">IWLLWGLVFNNSLPV</span><span class="topo-inside">QNPKGTTS</span><span class="topo-membrane">KIMVSVWAFFAVIFLA</span><span class="topo-outside">SYTANLAA</span></span>
-<span class="topo-line"><span class="topo-outside">FMIQRRYVDQVSGLSDKKFQRPNDFSPAFRFGTVPNGSTERNIRNNYLEMHSYMVKFNQR</span></span>
-<span class="topo-line"><span class="topo-outside">SVQDALLSLKSGKLDAFIYDAAVLNYMAGRDEGCKLVTIGSGKVFATTGYGIAIQKDSGW</span></span>
-<span class="topo-line"><span class="topo-outside">KRQVDLAILQLFGDGEMEELEALWLTGICHNEKNE</span><span class="topo-unknown">VMS</span><span class="topo-outside">SQLDIDNMAGV</span><span class="topo-membrane">FYMLAAAMALS</span></span>
-<span class="topo-line"><span class="topo-membrane">LITFIME</span><span class="topo-inside">HLFYKS</span><span class="topo-unknown">RAEAKRMKGLEVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">D</span><span class="topo-outside">EHLSIVTLEEAPFVIVEDVDPLSGTCMRNTVPCRKQIRPENRTEEGGNYIKRCCKGFCIDILKKIAKTVKFTYDLYLVTNGKHGKKINGVWNGMIGEVVTKRAYMAVGSLTINEERSEV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">VDFSVPFIETGISVMVSRSNGTV</span><span class="topo-unknown">SPS</span><span class="topo-outside">AFLEPFSAD</span><span class="topo-membrane">VWVMMFVMLLIVSAVAV</span><span class="topo-inside">FVFE</span><span class="topo-unknown">YFSPVGYNGP</span><span class="topo-inside">SFTIGKA</span><span class="topo-unknown">IWLLWGLVFNNSLPV</span><span class="topo-inside">QNPKGTTS</span><span class="topo-membrane">KIMVSVWAFFAVIFLA</span><span class="topo-outside">SYTANLAA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">FMIQRRYVDQVSGLSDKKFQRPNDFSPAFRFGTVPNGSTERNIRNNYLEMHSYMVKFNQRSVQDALLSLKSGKLDAFIYDAAVLNYMAGRDEGCKLVTIGSGKVFATTGYGIAIQKDSGW</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440        </span>
+<span class="topo-line"><span class="topo-outside">KRQVDLAILQLFGDGEMEELEALWLTGICHNEKNE</span><span class="topo-unknown">VMS</span><span class="topo-outside">SQLDIDNMAGV</span><span class="topo-membrane">FYMLAAAMALSLITFIME</span><span class="topo-inside">HLFYKS</span><span class="topo-unknown">RAEAKRMKGLEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -6509,6 +6588,7 @@ The full-length N-methyl-[D Aspartate](/xray-mp-wiki/reagents/substrates/l-aspar
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -6559,20 +6639,21 @@ The full-length N-methyl-[D Aspartate](/xray-mp-wiki/reagents/substrates/l-aspar
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">DP</span><span class="topo-outside">KIVNIGAVLSTRKHEQMFREAVNQANKR</span><span class="topo-unknown">HGSWK</span><span class="topo-outside">IQLQATSVTHKPNAIQMALSVCEDL</span></span>
-<span class="topo-line"><span class="topo-outside">ISSQVYAILVSH</span><span class="topo-unknown">PPTPNDHF</span><span class="topo-outside">TPTPVSYTAGFYRIPVLGLTTRMSIYSDKSIHLSFLRTVP</span></span>
-<span class="topo-line"><span class="topo-outside">PYSHQSSVWFEMMRVYNWNHIILLVSDDHEGRAAQKRLETLLEERESKAEKVLQFDPGTK</span></span>
-<span class="topo-line"><span class="topo-outside">NVTALLMEARELEARVIILSASEDDAATVYRAAAMLDMTGSGYVWLVGEREISGNALRYA</span></span>
-<span class="topo-line"><span class="topo-outside">PDGIIGLQLINGKNESAHISDAVGVVAQAVHELLEKENITDPPRGCVGNTNIWKTGPLFK</span></span>
-<span class="topo-line"><span class="topo-outside">RVLMSSKYADGVTGRVEFNEDGDRKFAQYSIMNLQNRKLVQVGIYNGTHVIPNDRKIIWP</span></span>
-<span class="topo-line"><span class="topo-outside">GGETEKPRGYQMSTRLKIVTIHQEPFVYVKPTMSDGTCKEEFTVNGDPVKKVICTGPND</span><span class="topo-unknown">T</span></span>
-<span class="topo-line"><span class="topo-unknown">SPGSPRH</span><span class="topo-outside">TVPQCCYGFCIDLLIKLARTMQFTYEVHLVADGKFGTQERVQNSNKKEWNGMM</span></span>
-<span class="topo-line"><span class="topo-outside">GELLSGQADMIVAPLTINNERAQYIEFSKPFKYQGLTILVKKEIPRSTLDSFMQPFQSCL</span></span>
-<span class="topo-line"><span class="topo-membrane">WLLVGLSVHVVAVMLYLL</span><span class="topo-inside">DR</span><span class="topo-unknown">FSPFGRFKVNSQSESTDALTLS</span><span class="topo-inside">SA</span><span class="topo-unknown">MWFSWGVLLNSGIGEG</span></span>
-<span class="topo-line"><span class="topo-inside">APRSFS</span><span class="topo-membrane">ARILGMVWAGFAMIIVA</span><span class="topo-outside">SYTANLAAFLV</span><span class="topo-unknown">LDRPEER</span><span class="topo-outside">ITGINDPRLRNPSDKFIYA</span></span>
-<span class="topo-line"><span class="topo-outside">TVKQSSVDIYFRRQVELSTMYRHMEKHNYESAAEAIQAVRDNKLHAFIWDSAVLEFEASQ</span></span>
-<span class="topo-line"><span class="topo-outside">KCDLVTTGELFFRSGFGIGMRKDSPWKQQVSLSILKSHENGFMEDLDKTWVRYQECDSR</span><span class="topo-unknown">S</span></span>
-<span class="topo-line"><span class="topo-unknown">NAPATL</span><span class="topo-outside">TCENM</span><span class="topo-membrane">AGVFMLVAGGIVAGIFL</span><span class="topo-unknown">IFIEIAYKRHKDANGAQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">DP</span><span class="topo-outside">KIVNIGAVLSTRKHEQMFREAVNQANKR</span><span class="topo-unknown">HGSWK</span><span class="topo-outside">IQLQATSVTHKPNAIQMALSVCEDLISSQVYAILVSH</span><span class="topo-unknown">PPTPNDHF</span><span class="topo-outside">TPTPVSYTAGFYRIPVLGLTTRMSIYSDKSIHLSFLRTVP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">PYSHQSSVWFEMMRVYNWNHIILLVSDDHEGRAAQKRLETLLEERESKAEKVLQFDPGTKNVTALLMEARELEARVIILSASEDDAATVYRAAAMLDMTGSGYVWLVGEREISGNALRYA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">PDGIIGLQLINGKNESAHISDAVGVVAQAVHELLEKENITDPPRGCVGNTNIWKTGPLFKRVLMSSKYADGVTGRVEFNEDGDRKFAQYSIMNLQNRKLVQVGIYNGTHVIPNDRKIIWP</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">GGETEKPRGYQMSTRLKIVTIHQEPFVYVKPTMSDGTCKEEFTVNGDPVKKVICTGPND</span><span class="topo-unknown">TSPGSPRH</span><span class="topo-outside">TVPQCCYGFCIDLLIKLARTMQFTYEVHLVADGKFGTQERVQNSNKKEWNGMM</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">GELLSGQADMIVAPLTINNERAQYIEFSKPFKYQGLTILVKKEIPRSTLDSFMQPFQSCL</span><span class="topo-membrane">WLLVGLSVHVVAVMLYLL</span><span class="topo-inside">DR</span><span class="topo-unknown">FSPFGRFKVNSQSESTDALTLS</span><span class="topo-inside">SA</span><span class="topo-unknown">MWFSWGVLLNSGIGEG</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-inside">APRSFS</span><span class="topo-membrane">ARILGMVWAGFAMIIVA</span><span class="topo-outside">SYTANLAAFLV</span><span class="topo-unknown">LDRPEER</span><span class="topo-outside">ITGINDPRLRNPSDKFIYATVKQSSVDIYFRRQVELSTMYRHMEKHNYESAAEAIQAVRDNKLHAFIWDSAVLEFEASQ</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820     </span>
+<span class="topo-line"><span class="topo-outside">KCDLVTTGELFFRSGFGIGMRKDSPWKQQVSLSILKSHENGFMEDLDKTWVRYQECDSR</span><span class="topo-unknown">SNAPATL</span><span class="topo-outside">TCENM</span><span class="topo-membrane">AGVFMLVAGGIVAGIFL</span><span class="topo-unknown">IFIEIAYKRHKDANGAQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (23 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -6745,6 +6826,7 @@ The full-length N-methyl-[D Aspartate](/xray-mp-wiki/reagents/substrates/l-aspar
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -6760,20 +6842,21 @@ The full-length N-methyl-[D Aspartate](/xray-mp-wiki/reagents/substrates/l-aspar
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">RSQ</span><span class="topo-outside">KSPPSIGIAVILVGTSDEVAIKDAHEKDDFHHLSVVPRVELVAMNETDPKSIITRIC</span></span>
-<span class="topo-line"><span class="topo-outside">DLMSDRKIQGVVFADDTDQEAIAQILDFISAQTLTPILGIHGGSSMIMADKDESSMFFQF</span></span>
-<span class="topo-line"><span class="topo-outside">GPSIEQQASVMLNIMEEYDWYIFSIVTTYFPGYQDFVNKIRSTIENSFVGWELEEVLLLD</span></span>
-<span class="topo-line"><span class="topo-outside">MSLDDGDCKIQNQLKKLQSPIILLYCTKEEATYIFEVANSVGLTGYGYTWIVPSLVAGDT</span></span>
-<span class="topo-line"><span class="topo-outside">DTVPSEFPTGLISVSYDEWDYGLPARVRDGIAIITTAASDMLSEHSFIPEPKSSCYNTHE</span></span>
-<span class="topo-line"><span class="topo-outside">KRIYQSNMLNRYLINVTFEGRDLSFSEDGYQMHPKLVIILLNKERKWERVGKWKDKSLQM</span></span>
-<span class="topo-line"><span class="topo-outside">KYYVWPRMTQDDHLSIVTLEEAPFVIVESVDPLSGTCMRNTVPCQKR</span><span class="topo-unknown">IISENKTDEEP</span><span class="topo-outside">GY</span></span>
-<span class="topo-line"><span class="topo-outside">IKKCCKGFCIDILKKISKSVKFTYDLYLVTNGKHGKKINGTWNGMIGEVVMKRAYMAVGS</span></span>
-<span class="topo-line"><span class="topo-outside">LTINEERSEVVDFSVPFIETGISVMVS</span><span class="topo-unknown">RSNGTVSPSAF</span><span class="topo-outside">LEPFSAC</span><span class="topo-membrane">VWVMMFVMLLIV</span><span class="topo-unknown">SAV</span></span>
-<span class="topo-line"><span class="topo-unknown">AVFVFEYFSPVGYNRSLADGREPGGPSFT</span><span class="topo-inside">IGK</span><span class="topo-unknown">AIWLLWGLVFNNSVPVQNPKGTTSKI</span><span class="topo-membrane">MV</span></span>
-<span class="topo-line"><span class="topo-membrane">SVWAFFAVIFLA</span><span class="topo-outside">SYTANLAAFMIQEEYVDQVSGLSDKKFQRPNDFSPPFRFGTVPNGSTE</span></span>
-<span class="topo-line"><span class="topo-outside">RNIRNNYAEMHAYMGKFNQRGVDDALLSLKTGKLDAFIYDAAVLNYMAGRDEGCKLVTIG</span></span>
-<span class="topo-line"><span class="topo-outside">SGKVFASTGYGIAIQKDSGWKRQVDLAILQLFGDGEMEELEALWLTGICH</span><span class="topo-unknown">NEKNEVMSSQ</span></span>
-<span class="topo-line"><span class="topo-unknown">LDCDNMAGV</span><span class="topo-membrane">FYMLGAAMALSLITFIS</span><span class="topo-inside">EHL</span><span class="topo-unknown">FYWQFRHSFMG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">RSQ</span><span class="topo-outside">KSPPSIGIAVILVGTSDEVAIKDAHEKDDFHHLSVVPRVELVAMNETDPKSIITRICDLMSDRKIQGVVFADDTDQEAIAQILDFISAQTLTPILGIHGGSSMIMADKDESSMFFQF</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">GPSIEQQASVMLNIMEEYDWYIFSIVTTYFPGYQDFVNKIRSTIENSFVGWELEEVLLLDMSLDDGDCKIQNQLKKLQSPIILLYCTKEEATYIFEVANSVGLTGYGYTWIVPSLVAGDT</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">DTVPSEFPTGLISVSYDEWDYGLPARVRDGIAIITTAASDMLSEHSFIPEPKSSCYNTHEKRIYQSNMLNRYLINVTFEGRDLSFSEDGYQMHPKLVIILLNKERKWERVGKWKDKSLQM</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">KYYVWPRMTQDDHLSIVTLEEAPFVIVESVDPLSGTCMRNTVPCQKR</span><span class="topo-unknown">IISENKTDEEP</span><span class="topo-outside">GYIKKCCKGFCIDILKKISKSVKFTYDLYLVTNGKHGKKINGTWNGMIGEVVMKRAYMAVGS</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">LTINEERSEVVDFSVPFIETGISVMVS</span><span class="topo-unknown">RSNGTVSPSAF</span><span class="topo-outside">LEPFSAC</span><span class="topo-membrane">VWVMMFVMLLIV</span><span class="topo-unknown">SAVAVFVFEYFSPVGYNRSLADGREPGGPSFT</span><span class="topo-inside">IGK</span><span class="topo-unknown">AIWLLWGLVFNNSVPVQNPKGTTSKI</span><span class="topo-membrane">MV</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-membrane">SVWAFFAVIFLA</span><span class="topo-outside">SYTANLAAFMIQEEYVDQVSGLSDKKFQRPNDFSPPFRFGTVPNGSTERNIRNNYAEMHAYMGKFNQRGVDDALLSLKTGKLDAFIYDAAVLNYMAGRDEGCKLVTIG</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820</span>
+<span class="topo-line"><span class="topo-outside">SGKVFASTGYGIAIQKDSGWKRQVDLAILQLFGDGEMEELEALWLTGICH</span><span class="topo-unknown">NEKNEVMSSQLDCDNMAGV</span><span class="topo-membrane">FYMLGAAMALSLITFIS</span><span class="topo-inside">EHL</span><span class="topo-unknown">FYWQFRHSFMG</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -6911,6 +6994,7 @@ The full-length N-methyl-[D Aspartate](/xray-mp-wiki/reagents/substrates/l-aspar
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -6926,20 +7010,21 @@ The full-length N-methyl-[D Aspartate](/xray-mp-wiki/reagents/substrates/l-aspar
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">DP</span><span class="topo-outside">KIVNIGAVLSTRKHEQMFREAVNQANKRHGSWKIQLQATSVTHKPNAIQMALSVCEDL</span></span>
-<span class="topo-line"><span class="topo-outside">ISSQVYAILVSH</span><span class="topo-unknown">PPTPNDHF</span><span class="topo-outside">TPTPVSYTAGFYRIPVLGLTTRMSIYSDKSIHLSFLRTVP</span></span>
-<span class="topo-line"><span class="topo-outside">PYSHQSSVWFEMMRVYNWNHIILLVSDDHEGRAAQKRLETLLEERESKAEKVLQFDPGTK</span></span>
-<span class="topo-line"><span class="topo-outside">NVTALLMEARELEARVIILSASEDDAATVYRAAAMLDMTGSGYVWLVGEREISGNALRYA</span></span>
-<span class="topo-line"><span class="topo-outside">PDGIIGLQLINGKNESAHISDAVGVVAQAVHELLEKENITDPPRGCVGNTNIWKTGPLFK</span></span>
-<span class="topo-line"><span class="topo-outside">RVLMSSKYADGVTGRVEFNEDGDRKFAQYSIMNLQNRKLVQVGIYNGTHVIPNDRKIIWP</span></span>
-<span class="topo-line"><span class="topo-outside">GGETEKPRGYQMSTRLKIVTIHQEPFVYVKPTMSDGTCKEEFTVNGDPVKKVICTGPND</span><span class="topo-unknown">T</span></span>
-<span class="topo-line"><span class="topo-unknown">SP</span><span class="topo-outside">GSPRHTVPQCCYGFCIDLLIKLARTMQFTYEVHLVADGKFGTQERVQNSNKKEWNGMM</span></span>
-<span class="topo-line"><span class="topo-outside">GELLSGQADMIVAPLTINNERAQYIEFSKPFKYQGLTILVKKEIPR</span><span class="topo-unknown">STLDS</span><span class="topo-outside">FMQPFQSCL</span></span>
-<span class="topo-line"><span class="topo-membrane">WLLVGLSVHVVAVMLYLL</span><span class="topo-inside">DR</span><span class="topo-unknown">FSPFGRFKVNSQSESTDALTLS</span><span class="topo-inside">SA</span><span class="topo-unknown">MWFSWGVLLNSGIGEG</span></span>
-<span class="topo-line"><span class="topo-unknown">APRSFSARILGM</span><span class="topo-membrane">VWAGFAMIIVA</span><span class="topo-outside">SYTANLAAFLVLDRPEERITGINDPRLRNPSDKFIYA</span></span>
-<span class="topo-line"><span class="topo-outside">TVKQSSVDIYFRRQVELSTMYRHMEKHNYESAAEAIQAVRDNKLHAFIWDSAVLEFEASQ</span></span>
-<span class="topo-line"><span class="topo-outside">KCDLVTTGELFFRSGFGIGMRKDSPWKQQVSLSILKSHENGFMEDLDKTWVRYQECDSRS</span></span>
-<span class="topo-line"><span class="topo-outside">NAPATLTCENM</span><span class="topo-membrane">AGVFMLVAGGIVAGIFLIF</span><span class="topo-unknown">IEIAYKRHKDANGAQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">DP</span><span class="topo-outside">KIVNIGAVLSTRKHEQMFREAVNQANKRHGSWKIQLQATSVTHKPNAIQMALSVCEDLISSQVYAILVSH</span><span class="topo-unknown">PPTPNDHF</span><span class="topo-outside">TPTPVSYTAGFYRIPVLGLTTRMSIYSDKSIHLSFLRTVP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">PYSHQSSVWFEMMRVYNWNHIILLVSDDHEGRAAQKRLETLLEERESKAEKVLQFDPGTKNVTALLMEARELEARVIILSASEDDAATVYRAAAMLDMTGSGYVWLVGEREISGNALRYA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">PDGIIGLQLINGKNESAHISDAVGVVAQAVHELLEKENITDPPRGCVGNTNIWKTGPLFKRVLMSSKYADGVTGRVEFNEDGDRKFAQYSIMNLQNRKLVQVGIYNGTHVIPNDRKIIWP</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">GGETEKPRGYQMSTRLKIVTIHQEPFVYVKPTMSDGTCKEEFTVNGDPVKKVICTGPND</span><span class="topo-unknown">TSP</span><span class="topo-outside">GSPRHTVPQCCYGFCIDLLIKLARTMQFTYEVHLVADGKFGTQERVQNSNKKEWNGMM</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">GELLSGQADMIVAPLTINNERAQYIEFSKPFKYQGLTILVKKEIPR</span><span class="topo-unknown">STLDS</span><span class="topo-outside">FMQPFQSCL</span><span class="topo-membrane">WLLVGLSVHVVAVMLYLL</span><span class="topo-inside">DR</span><span class="topo-unknown">FSPFGRFKVNSQSESTDALTLS</span><span class="topo-inside">SA</span><span class="topo-unknown">MWFSWGVLLNSGIGEG</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-unknown">APRSFSARILGM</span><span class="topo-membrane">VWAGFAMIIVA</span><span class="topo-outside">SYTANLAAFLVLDRPEERITGINDPRLRNPSDKFIYATVKQSSVDIYFRRQVELSTMYRHMEKHNYESAAEAIQAVRDNKLHAFIWDSAVLEFEASQ</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820     </span>
+<span class="topo-line"><span class="topo-outside">KCDLVTTGELFFRSGFGIGMRKDSPWKQQVSLSILKSHENGFMEDLDKTWVRYQECDSRSNAPATLTCENM</span><span class="topo-membrane">AGVFMLVAGGIVAGIFLIF</span><span class="topo-unknown">IEIAYKRHKDANGAQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -7077,6 +7162,7 @@ The full-length N-methyl-[D Aspartate](/xray-mp-wiki/reagents/substrates/l-aspar
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -7092,20 +7178,21 @@ The full-length N-methyl-[D Aspartate](/xray-mp-wiki/reagents/substrates/l-aspar
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">RSQKS</span><span class="topo-outside">PPSIGIAVILVGTSDEVAIKDAHEKDDFHHLSVVPRVELVAMNETDPKSIITRIC</span></span>
-<span class="topo-line"><span class="topo-outside">DLMSDRKIQGVVFADDTDQEAIAQILDFISAQTLTPILGIHGGSSMIMADKDESSMFFQF</span></span>
-<span class="topo-line"><span class="topo-outside">GPSIEQQASVMLNIMEEYDWYIFSIVTTYFPGYQDFVNKIRSTIENSFVGWELEEVLLLD</span></span>
-<span class="topo-line"><span class="topo-outside">MSLDDGDCKIQNQLKKLQSPIILLYCTKEEATYIFEVANSVGLTGYGYTWIVPSLVAGDT</span></span>
-<span class="topo-line"><span class="topo-outside">DTVPSEFPTGLISVSYDEWDYGLPARVRDGIAIITTAASDMLSEHSFIPEPKSSCYNTHE</span></span>
-<span class="topo-line"><span class="topo-outside">KRIYQSNMLNRYLINVTFEGRDLSFSEDGYQMHPKLVIILLNKERKWERVGKWKDKSLQM</span></span>
-<span class="topo-line"><span class="topo-outside">KYYVWPRMTQDDHLSIVTLEEAPFVIVESVDPLSGTCMRNTVPCQKR</span><span class="topo-unknown">IISENKTDEEPG</span><span class="topo-outside">Y</span></span>
-<span class="topo-line"><span class="topo-outside">IKKCCKGFCIDILKKISKSVKFTYDLYLVTNGKHGKKINGTWNGMIGEVVMKRAYMAVGS</span></span>
-<span class="topo-line"><span class="topo-outside">LTINEERSEVVDFSVPFIETGISVMVSR</span><span class="topo-unknown">SNGTVSPSA</span><span class="topo-outside">FLEPFSAC</span><span class="topo-membrane">VWVMMFVMLL</span><span class="topo-unknown">IVSAV</span></span>
-<span class="topo-line"><span class="topo-unknown">AVFVFEYFSPVGYNRSLADGREPGGPSFT</span><span class="topo-inside">IGK</span><span class="topo-unknown">AIWLLWGLVFNNSVPVQNPKGTTSKI</span><span class="topo-membrane">MV</span></span>
-<span class="topo-line"><span class="topo-membrane">SVWAFFAVIFLA</span><span class="topo-outside">SYTANLAAFMIQEEYVDQVSGLSDKKFQRPNDFSPPFRFGTVPNGSTE</span></span>
-<span class="topo-line"><span class="topo-outside">RNIRNNYAEMHAYMGKFNQRGVDDALLSLKTGKLDAFIYDAAVLNYMAGRDEGCKLVTIG</span></span>
-<span class="topo-line"><span class="topo-outside">SGKVFASTGYGIAIQKDSGWKRQVDLAILQLFGDGEMEELEALWLTGICH</span><span class="topo-unknown">NEKN</span><span class="topo-outside">EVMSSQ</span></span>
-<span class="topo-line"><span class="topo-outside">LDCDNMAGV</span><span class="topo-membrane">FYMLGAAMALSLITFIS</span><span class="topo-unknown">EHLFYWQFRHSFMG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">RSQKS</span><span class="topo-outside">PPSIGIAVILVGTSDEVAIKDAHEKDDFHHLSVVPRVELVAMNETDPKSIITRICDLMSDRKIQGVVFADDTDQEAIAQILDFISAQTLTPILGIHGGSSMIMADKDESSMFFQF</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">GPSIEQQASVMLNIMEEYDWYIFSIVTTYFPGYQDFVNKIRSTIENSFVGWELEEVLLLDMSLDDGDCKIQNQLKKLQSPIILLYCTKEEATYIFEVANSVGLTGYGYTWIVPSLVAGDT</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">DTVPSEFPTGLISVSYDEWDYGLPARVRDGIAIITTAASDMLSEHSFIPEPKSSCYNTHEKRIYQSNMLNRYLINVTFEGRDLSFSEDGYQMHPKLVIILLNKERKWERVGKWKDKSLQM</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">KYYVWPRMTQDDHLSIVTLEEAPFVIVESVDPLSGTCMRNTVPCQKR</span><span class="topo-unknown">IISENKTDEEPG</span><span class="topo-outside">YIKKCCKGFCIDILKKISKSVKFTYDLYLVTNGKHGKKINGTWNGMIGEVVMKRAYMAVGS</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">LTINEERSEVVDFSVPFIETGISVMVSR</span><span class="topo-unknown">SNGTVSPSA</span><span class="topo-outside">FLEPFSAC</span><span class="topo-membrane">VWVMMFVMLL</span><span class="topo-unknown">IVSAVAVFVFEYFSPVGYNRSLADGREPGGPSFT</span><span class="topo-inside">IGK</span><span class="topo-unknown">AIWLLWGLVFNNSVPVQNPKGTTSKI</span><span class="topo-membrane">MV</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-membrane">SVWAFFAVIFLA</span><span class="topo-outside">SYTANLAAFMIQEEYVDQVSGLSDKKFQRPNDFSPPFRFGTVPNGSTERNIRNNYAEMHAYMGKFNQRGVDDALLSLKTGKLDAFIYDAAVLNYMAGRDEGCKLVTIG</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820</span>
+<span class="topo-line"><span class="topo-outside">SGKVFASTGYGIAIQKDSGWKRQVDLAILQLFGDGEMEELEALWLTGICH</span><span class="topo-unknown">NEKN</span><span class="topo-outside">EVMSSQLDCDNMAGV</span><span class="topo-membrane">FYMLGAAMALSLITFIS</span><span class="topo-unknown">EHLFYWQFRHSFMG</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -7243,6 +7330,7 @@ The full-length N-methyl-[D Aspartate](/xray-mp-wiki/reagents/substrates/l-aspar
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

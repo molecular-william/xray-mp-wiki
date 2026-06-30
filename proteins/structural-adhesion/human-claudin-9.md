@@ -149,10 +149,11 @@ junction integrity.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAST</span><span class="topo-inside">GLEL</span><span class="topo-membrane">LGMTLAVLGWLGTLVSCALPLWK</span><span class="topo-outside">VTAFIGNSIVVAQVVWEGLWMSCVVQSTG</span></span>
-<span class="topo-line"><span class="topo-outside">QMQCKVYDSLLAL</span><span class="topo-membrane">PQDLQAARALCVIALLLALLGLLVAI</span><span class="topo-inside">TGAQCTTCVEDEGAKARIVLT</span></span>
-<span class="topo-line"><span class="topo-membrane">AGVILLLAGILVLIPVCWTAHA</span><span class="topo-outside">IIQDFYNPLVAEALKREL</span><span class="topo-membrane">GASLYLGWAAAALLMLGGGL</span></span>
-<span class="topo-line"><span class="topo-membrane">LC</span><span class="topo-inside">CTCP</span><span class="topo-unknown">PPQVERPRGPRLGYSIPSRSGASGLDKRDYV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAST</span><span class="topo-inside">GLEL</span><span class="topo-membrane">LGMTLAVLGWLGTLVSCALPLWK</span><span class="topo-outside">VTAFIGNSIVVAQVVWEGLWMSCVVQSTGQMQCKVYDSLLAL</span><span class="topo-membrane">PQDLQAARALCVIALLLALLGLLVAI</span><span class="topo-inside">TGAQCTTCVEDEGAKARIVLT</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       </span>
+<span class="topo-line"><span class="topo-membrane">AGVILLLAGILVLIPVCWTAHA</span><span class="topo-outside">IIQDFYNPLVAEALKREL</span><span class="topo-membrane">GASLYLGWAAAALLMLGGGLLC</span><span class="topo-inside">CTCP</span><span class="topo-unknown">PPQVERPRGPRLGYSIPSRSGASGLDKRDYV</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -227,6 +228,7 @@ junction integrity.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -242,9 +244,11 @@ junction integrity.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">DIEK</span><span class="topo-outside">EILDLAAATERLNLTDALNSNPAGNLYDWRSSNSYPWTQKLNLHLTITATGQKYRI</span></span>
-<span class="topo-line"><span class="topo-outside">LASKIVDFNIYSNNFNNLVKLEQSLGDGVKDHYVDISLDAGQYVLVMKANSSYSGNYPYS</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">DIEK</span><span class="topo-outside">EILDLAAATERLNLTDALNSNPAGNLYDWRSSNSYPWTQKLNLHLTITATGQKYRILASKIVDFNIYSNNFNNLVKLEQSLGDGVKDHYVDISLDAGQYVLVMKANSSYSGNYPYS</span></span>
+<span class="topo-ruler">       130 </span>
 <span class="topo-line"><span class="topo-outside">ILFQKFGLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -263,6 +267,7 @@ junction integrity.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -278,10 +283,11 @@ junction integrity.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAST</span><span class="topo-inside">GLEL</span><span class="topo-membrane">LGMTLAVLGWLGTLVSCALPLWK</span><span class="topo-outside">VTAFIGNSIVVAQVVWEGLWMSCVVQSTG</span></span>
-<span class="topo-line"><span class="topo-outside">QMQCKVYDSLLAL</span><span class="topo-membrane">PQDLQAARALCVIALLLALLGLLVAI</span><span class="topo-inside">TGAQCTTCVEDEGAKARIVLT</span></span>
-<span class="topo-line"><span class="topo-membrane">AGVILLLAGILVLIPVCWTAHA</span><span class="topo-outside">IIQDFYNPLVAEALKREL</span><span class="topo-membrane">GASLYLGWAAAALLMLGGGL</span></span>
-<span class="topo-line"><span class="topo-membrane">LC</span><span class="topo-inside">CTCP</span><span class="topo-unknown">PPQVERPRGPRLGYSIPSRSGASGLDKRDYV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAST</span><span class="topo-inside">GLEL</span><span class="topo-membrane">LGMTLAVLGWLGTLVSCALPLWK</span><span class="topo-outside">VTAFIGNSIVVAQVVWEGLWMSCVVQSTGQMQCKVYDSLLAL</span><span class="topo-membrane">PQDLQAARALCVIALLLALLGLLVAI</span><span class="topo-inside">TGAQCTTCVEDEGAKARIVLT</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       </span>
+<span class="topo-line"><span class="topo-membrane">AGVILLLAGILVLIPVCWTAHA</span><span class="topo-outside">IIQDFYNPLVAEALKREL</span><span class="topo-membrane">GASLYLGWAAAALLMLGGGLLC</span><span class="topo-inside">CTCP</span><span class="topo-unknown">PPQVERPRGPRLGYSIPSRSGASGLDKRDYV</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -356,6 +362,7 @@ junction integrity.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -371,9 +378,11 @@ junction integrity.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">DIEK</span><span class="topo-outside">EILDLAAATERLNLTDALNSNPAGNLYDWRSSNSYPWTQKLNLHLTITATGQKYRI</span></span>
-<span class="topo-line"><span class="topo-outside">LASKIVDFNIYSNNFNNLVKLEQSLGDGVKDHYVDISLDAGQYVLVMKANSSYSGNYPYS</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">DIEK</span><span class="topo-outside">EILDLAAATERLNLTDALNSNPAGNLYDWRSSNSYPWTQKLNLHLTITATGQKYRILASKIVDFNIYSNNFNNLVKLEQSLGDGVKDHYVDISLDAGQYVLVMKANSSYSGNYPYS</span></span>
+<span class="topo-ruler">       130 </span>
 <span class="topo-line"><span class="topo-outside">ILFQKFGLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -392,6 +401,7 @@ junction integrity.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

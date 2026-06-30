@@ -163,12 +163,13 @@ Vrg4 is a [GDP-Mannose](/xray-mp-wiki/reagents/substrates/gdp-mannose) transport
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSELKTGHAGHNPWA</span><span class="topo-inside">SVANSGP</span><span class="topo-membrane">ISILSYCGSSILMTVTNKFVV</span><span class="topo-outside">NLKDFNM</span><span class="topo-membrane">NFVMLFVQSL</span></span>
-<span class="topo-line"><span class="topo-membrane">VCTITLIILRIL</span><span class="topo-inside">G</span><span class="topo-unknown">YAK</span><span class="topo-inside">FRSLNKTDAKNW</span><span class="topo-membrane">FPISFLLVLMIYTSSKAL</span><span class="topo-outside">QYLAV</span><span class="topo-membrane">PIYTIFKNL</span></span>
-<span class="topo-line"><span class="topo-membrane">TIILIAYG</span><span class="topo-inside">EVLFFGGSVTS</span><span class="topo-membrane">MELSSFLLMVLSSVVATW</span><span class="topo-outside">GDQ</span><span class="topo-unknown">QAVAAKAASLAEGAAG</span><span class="topo-outside">AVAS</span></span>
-<span class="topo-line"><span class="topo-outside">FN</span><span class="topo-membrane">PGYFWMFTNCITSALFVLIM</span><span class="topo-inside">RKRIKLTNFKDFDT</span><span class="topo-membrane">MFYNNVLALPILLLFSFCVE</span><span class="topo-outside">DWS</span><span class="topo-unknown">S</span></span>
-<span class="topo-line"><span class="topo-unknown">VNLTNN</span><span class="topo-outside">FSNDSL</span><span class="topo-membrane">TAMIISGVASVGISYCSGWCV</span><span class="topo-inside">RVTS</span><span class="topo-membrane">STTYSMVGALNKLPIALSGLI</span><span class="topo-outside">FF</span></span>
-<span class="topo-line"><span class="topo-outside">DAPRNFL</span><span class="topo-membrane">SILSIFIGFLSGIIYAVA</span><span class="topo-inside">KQKKQQAQ</span><span class="topo-unknown">PLRK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSELKTGHAGHNPWA</span><span class="topo-inside">SVANSGP</span><span class="topo-membrane">ISILSYCGSSILMTVTNKFVV</span><span class="topo-outside">NLKDFNM</span><span class="topo-membrane">NFVMLFVQSLVCTITLIILRIL</span><span class="topo-inside">G</span><span class="topo-unknown">YAK</span><span class="topo-inside">FRSLNKTDAKNW</span><span class="topo-membrane">FPISFLLVLMIYTSSKAL</span><span class="topo-outside">QYLAV</span><span class="topo-membrane">PIYTIFKNL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">TIILIAYG</span><span class="topo-inside">EVLFFGGSVTS</span><span class="topo-membrane">MELSSFLLMVLSSVVATW</span><span class="topo-outside">GDQ</span><span class="topo-unknown">QAVAAKAASLAEGAAG</span><span class="topo-outside">AVASFN</span><span class="topo-membrane">PGYFWMFTNCITSALFVLIM</span><span class="topo-inside">RKRIKLTNFKDFDT</span><span class="topo-membrane">MFYNNVLALPILLLFSFCVE</span><span class="topo-outside">DWS</span><span class="topo-unknown">S</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       </span>
+<span class="topo-line"><span class="topo-unknown">VNLTNN</span><span class="topo-outside">FSNDSL</span><span class="topo-membrane">TAMIISGVASVGISYCSGWCV</span><span class="topo-inside">RVTS</span><span class="topo-membrane">STTYSMVGALNKLPIALSGLI</span><span class="topo-outside">FFDAPRNFL</span><span class="topo-membrane">SILSIFIGFLSGIIYAVA</span><span class="topo-inside">KQKKQQAQ</span><span class="topo-unknown">PLRK</span></span>
+<details class="topo-details"><summary>Topology coordinates (25 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -355,6 +356,7 @@ Vrg4 is a [GDP-Mannose](/xray-mp-wiki/reagents/substrates/gdp-mannose) transport
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -370,12 +372,13 @@ Vrg4 is a [GDP-Mannose](/xray-mp-wiki/reagents/substrates/gdp-mannose) transport
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSELKTGHAGHNPWASVA</span><span class="topo-inside">NSGPIS</span><span class="topo-membrane">ILSYCGSSILMTVTN</span><span class="topo-outside">KFVVNLKDFNMNF</span><span class="topo-membrane">VMLFVQSL</span></span>
-<span class="topo-line"><span class="topo-membrane">VCTITLIILRIL</span><span class="topo-inside">G</span><span class="topo-unknown">YAK</span><span class="topo-inside">FRSLNKTDA</span><span class="topo-membrane">KNWFPISFLLVLMIYTSS</span><span class="topo-outside">KALQYLAV</span><span class="topo-membrane">PIYTIFKNL</span></span>
-<span class="topo-line"><span class="topo-membrane">TIILIAYG</span><span class="topo-inside">EVLFFGGSVTSME</span><span class="topo-membrane">LSSFLLMVLSSVVATW</span><span class="topo-outside">GDQQ</span><span class="topo-unknown">AVAAKAASLAEGAAGAVAS</span></span>
-<span class="topo-line"><span class="topo-unknown">F</span><span class="topo-outside">NPGY</span><span class="topo-membrane">FWMFTNCITSALFVLIM</span><span class="topo-inside">RKRIKLTNFKDF</span><span class="topo-membrane">DTMFYNNVLALPILLLFS</span><span class="topo-outside">FCVEDWSS</span></span>
-<span class="topo-line"><span class="topo-outside">VNLTNNFSNDSLTAM</span><span class="topo-membrane">IISGVASVGISYCSGWCV</span><span class="topo-inside">RVTSS</span><span class="topo-membrane">TTYSMVGALNKLPIALSGLIF</span><span class="topo-outside">F</span></span>
-<span class="topo-line"><span class="topo-outside">DAPRNF</span><span class="topo-membrane">LSILSIFIGFLSGIIYA</span><span class="topo-inside">VAKQKKQQAQ</span><span class="topo-unknown">PLRK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSELKTGHAGHNPWASVA</span><span class="topo-inside">NSGPIS</span><span class="topo-membrane">ILSYCGSSILMTVTN</span><span class="topo-outside">KFVVNLKDFNMNF</span><span class="topo-membrane">VMLFVQSLVCTITLIILRIL</span><span class="topo-inside">G</span><span class="topo-unknown">YAK</span><span class="topo-inside">FRSLNKTDA</span><span class="topo-membrane">KNWFPISFLLVLMIYTSS</span><span class="topo-outside">KALQYLAV</span><span class="topo-membrane">PIYTIFKNL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">TIILIAYG</span><span class="topo-inside">EVLFFGGSVTSME</span><span class="topo-membrane">LSSFLLMVLSSVVATW</span><span class="topo-outside">GDQQ</span><span class="topo-unknown">AVAAKAASLAEGAAGAVASF</span><span class="topo-outside">NPGY</span><span class="topo-membrane">FWMFTNCITSALFVLIM</span><span class="topo-inside">RKRIKLTNFKDF</span><span class="topo-membrane">DTMFYNNVLALPILLLFS</span><span class="topo-outside">FCVEDWSS</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       </span>
+<span class="topo-line"><span class="topo-outside">VNLTNNFSNDSLTAM</span><span class="topo-membrane">IISGVASVGISYCSGWCV</span><span class="topo-inside">RVTSS</span><span class="topo-membrane">TTYSMVGALNKLPIALSGLIF</span><span class="topo-outside">FDAPRNF</span><span class="topo-membrane">LSILSIFIGFLSGIIYA</span><span class="topo-inside">VAKQKKQQAQ</span><span class="topo-unknown">PLRK</span></span>
+<details class="topo-details"><summary>Topology coordinates (23 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -548,6 +551,7 @@ Vrg4 is a [GDP-Mannose](/xray-mp-wiki/reagents/substrates/gdp-mannose) transport
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -563,12 +567,13 @@ Vrg4 is a [GDP-Mannose](/xray-mp-wiki/reagents/substrates/gdp-mannose) transport
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSELKTGHAGHNPWASVA</span><span class="topo-inside">NSGPIS</span><span class="topo-membrane">ILSYCGSSILMTVTN</span><span class="topo-outside">KFVVNLKDFNMN</span><span class="topo-membrane">FVMLFVQSL</span></span>
-<span class="topo-line"><span class="topo-membrane">VCTITLIILRIL</span><span class="topo-inside">G</span><span class="topo-unknown">YAK</span><span class="topo-inside">FRSLNKTDA</span><span class="topo-membrane">KNWFPISFLLVLMIYTSS</span><span class="topo-outside">KALQYLAV</span><span class="topo-membrane">PIYTIFKNL</span></span>
-<span class="topo-line"><span class="topo-membrane">TIILIAYG</span><span class="topo-inside">EVLFFGGSVTSME</span><span class="topo-membrane">LSSFLLMVLSSVVATW</span><span class="topo-outside">GDQQ</span><span class="topo-unknown">AVAAKAASLAEGAAG</span><span class="topo-outside">AVAS</span></span>
-<span class="topo-line"><span class="topo-outside">FNPGY</span><span class="topo-membrane">FWMFTNCITSALFVLIM</span><span class="topo-inside">RKRIKLTNFKDF</span><span class="topo-membrane">DTMFYNNVLALPILLLFS</span><span class="topo-outside">FCVEDWSS</span></span>
-<span class="topo-line"><span class="topo-outside">VNLTNNFSNDSLTAM</span><span class="topo-membrane">IISGVASVGISYCSGWCV</span><span class="topo-inside">RVTSS</span><span class="topo-membrane">TTYSMVGALNKLPIALSGLIF</span><span class="topo-outside">F</span></span>
-<span class="topo-line"><span class="topo-outside">DAPRNF</span><span class="topo-membrane">LSILSIFIGFLSGIIY</span><span class="topo-inside">AVAKQKKQQAQ</span><span class="topo-unknown">PLRK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSELKTGHAGHNPWASVA</span><span class="topo-inside">NSGPIS</span><span class="topo-membrane">ILSYCGSSILMTVTN</span><span class="topo-outside">KFVVNLKDFNMN</span><span class="topo-membrane">FVMLFVQSLVCTITLIILRIL</span><span class="topo-inside">G</span><span class="topo-unknown">YAK</span><span class="topo-inside">FRSLNKTDA</span><span class="topo-membrane">KNWFPISFLLVLMIYTSS</span><span class="topo-outside">KALQYLAV</span><span class="topo-membrane">PIYTIFKNL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">TIILIAYG</span><span class="topo-inside">EVLFFGGSVTSME</span><span class="topo-membrane">LSSFLLMVLSSVVATW</span><span class="topo-outside">GDQQ</span><span class="topo-unknown">AVAAKAASLAEGAAG</span><span class="topo-outside">AVASFNPGY</span><span class="topo-membrane">FWMFTNCITSALFVLIM</span><span class="topo-inside">RKRIKLTNFKDF</span><span class="topo-membrane">DTMFYNNVLALPILLLFS</span><span class="topo-outside">FCVEDWSS</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       </span>
+<span class="topo-line"><span class="topo-outside">VNLTNNFSNDSLTAM</span><span class="topo-membrane">IISGVASVGISYCSGWCV</span><span class="topo-inside">RVTSS</span><span class="topo-membrane">TTYSMVGALNKLPIALSGLIF</span><span class="topo-outside">FDAPRNF</span><span class="topo-membrane">LSILSIFIGFLSGIIY</span><span class="topo-inside">AVAKQKKQQAQ</span><span class="topo-unknown">PLRK</span></span>
+<details class="topo-details"><summary>Topology coordinates (23 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -741,6 +746,7 @@ Vrg4 is a [GDP-Mannose](/xray-mp-wiki/reagents/substrates/gdp-mannose) transport
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

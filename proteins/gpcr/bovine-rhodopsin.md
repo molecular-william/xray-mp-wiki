@@ -101,15 +101,8 @@ Rhodopsin is the photoreceptor GPCR in vertebrate retina rod cells, responsible 
 <div class="sequences" markdown="1">
 **Sequences (PDBTM):**
 
-<<<<<<< HEAD
 <div class="sequence-entry" markdown="1">
 **PDB <a class="pdb-link" href="https://www.rcsb.org/structure/1f88">1F88</a> — Chain A (7 TMs, alpha)**
-=======
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Rod outer segment (ROS) preparation | [Sucrose](/xray-mp-wiki/reagents/ligands/sucrose/) gradient centrifugation from bovine retina | — | not specified + -- | Standard ROS preparation from fresh bovine retinae under dim red light |
-| Rhodopsin solubilization and purification | Concanavalin A (ConA) [affinity chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | ConA-agarose | not specified + [OTG](/xray-mp-wiki/reagents/detergents/og/) (mixed micelles) | Rhodopsin eluted with methyl-alpha-D-mannopyranoside. Final sample in mixed micelles for crystallization. |
->>>>>>> d0e2c437136bdf2885afc6a99e0a9d4117821696
 
 <div class="sequence-display">
 <div class="topo-legend">
@@ -119,12 +112,13 @@ Rhodopsin is the photoreceptor GPCR in vertebrate retina rod cells, responsible 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MNGTEGPNFYVPFSNKTGVVRSPFEAPQYYLAEPWQFSM</span><span class="topo-membrane">LAAYMFLLIMLGFPINFLTLY</span></span>
-<span class="topo-line"><span class="topo-membrane">VTVQHK</span><span class="topo-outside">KL</span><span class="topo-membrane">RTPLNYILLNLAVADLFMVFGGFT</span><span class="topo-inside">TTLYTSLHGYFVFGPTGCNL</span><span class="topo-membrane">EGFFATLG</span></span>
-<span class="topo-line"><span class="topo-membrane">GEIALWSLVVLAIERYV</span><span class="topo-outside">VVCKPMSNFRFGE</span><span class="topo-membrane">NHAIMGVAFTWVMALACAAP</span><span class="topo-inside">PLVGWSRYIP</span></span>
-<span class="topo-line"><span class="topo-inside">EGMQCSCGIDYYTPHEETNNESFV</span><span class="topo-membrane">IYMFVVHFIIPLIVIFFCYGQLV</span><span class="topo-outside">FTVKEAAA</span><span class="topo-unknown">QQQE</span><span class="topo-outside">S</span></span>
-<span class="topo-line"><span class="topo-outside">ATTQKAEKEV</span><span class="topo-membrane">TRMVIIMVIAFLICWLPYAGVAF</span><span class="topo-inside">YIFTHQGSDFGPIFMTI</span><span class="topo-membrane">PAFFAKTSAV</span></span>
-<span class="topo-line"><span class="topo-membrane">YNPVIYIMMN</span><span class="topo-outside">KQFRNCMVTTLCCGKNP</span><span class="topo-unknown">LGDDEA</span><span class="topo-outside">STTVSKTETSQVAPA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">MNGTEGPNFYVPFSNKTGVVRSPFEAPQYYLAEPWQFSM</span><span class="topo-membrane">LAAYMFLLIMLGFPINFLTLYVTVQHK</span><span class="topo-outside">KL</span><span class="topo-membrane">RTPLNYILLNLAVADLFMVFGGFT</span><span class="topo-inside">TTLYTSLHGYFVFGPTGCNL</span><span class="topo-membrane">EGFFATLG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GEIALWSLVVLAIERYV</span><span class="topo-outside">VVCKPMSNFRFGE</span><span class="topo-membrane">NHAIMGVAFTWVMALACAAP</span><span class="topo-inside">PLVGWSRYIPEGMQCSCGIDYYTPHEETNNESFV</span><span class="topo-membrane">IYMFVVHFIIPLIVIFFCYGQLV</span><span class="topo-outside">FTVKEAAA</span><span class="topo-unknown">QQQE</span><span class="topo-outside">S</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340        </span>
+<span class="topo-line"><span class="topo-outside">ATTQKAEKEV</span><span class="topo-membrane">TRMVIIMVIAFLICWLPYAGVAF</span><span class="topo-inside">YIFTHQGSDFGPIFMTI</span><span class="topo-membrane">PAFFAKTSAVYNPVIYIMMN</span><span class="topo-outside">KQFRNCMVTTLCCGKNP</span><span class="topo-unknown">LGDDEA</span><span class="topo-outside">STTVSKTETSQVAPA</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -269,6 +263,7 @@ Rhodopsin is the photoreceptor GPCR in vertebrate retina rod cells, responsible 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -279,13 +274,7 @@ Rhodopsin is the photoreceptor GPCR in vertebrate retina rod cells, responsible 
 <details class="pub-entry" markdown="1">
 <summary><strong>doi/10.1073##pnas.0608022103 (3 structures, 3 sequences)</strong></summary>
 
-<<<<<<< HEAD
 **Structures:**
-=======
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Purification | Immuno[affinity chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | Rho1D4 antibody column | 25 mM bis-[Tris (Tris-HCl Buffer)](/xray-mp-wiki/reagents/buffers/tris/)-propane (pH 7.5) + n-Octyl-beta-D-glucopyranoside ([OG](/xray-mp-wiki/reagents/detergents/og/)) | Highly delipidated rhodopsin purified from bovine retina. Delipidation critical for crystallizability. |
->>>>>>> d0e2c437136bdf2885afc6a99e0a9d4117821696
 
 <table class="wiki-table">
   <thead><tr>
@@ -325,14 +314,7 @@ Rhodopsin is the photoreceptor GPCR in vertebrate retina rod cells, responsible 
 - **Expression system**: Bovine retina rod cells (disc membrane) for native rhodopsin; HEK293S GnTI- cells for recombinant N2C/D282C stabilized [Opsin (Retinal-Free Rhodopsin Apoprotein)](/xray-mp-wiki/proteins/gpcr/opsin/) mutant; HEK293S-GnTI+ cells for M257Y mutant
 - **Construct**: Native rhodopsin holoprotein with 11-cis [Retinal](/xray-mp-wiki/reagents/ligands/retinal/) chromophore; N2C/D282C [Opsin (Retinal-Free Rhodopsin Apoprotein)](/xray-mp-wiki/proteins/gpcr/opsin/) mutant for pharmacological chaperone studies; N2C/D282C/M257Y triple mutant for constitutively active [Metarhodopsin II](/xray-mp-wiki/proteins/gpcr/metarhodopsin-ii/) structure
 
-<<<<<<< HEAD
 **Purification:**
-=======
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Rod outer segment (ROS) membrane isolation | [Sucrose](/xray-mp-wiki/reagents/ligands/sucrose/) gradient centrifugation | — | 10 mM [MOPS (3-(N-Morpholino)propanesulfonic Acid)](/xray-mp-wiki/reagents/buffers/mops/), 30 mM NaCl, 60 mM KCl, 2 mM [Magnesium Chloride (MgCl₂)](/xray-mp-wiki/reagents/additives/magnesium-chloride/), 1 mM [DTT](/xray-mp-wiki/reagents/additives/dtt/), 40% (w/w) [Sucrose](/xray-mp-wiki/reagents/ligands/sucrose/) + None (native membranes) | 200 frozen bovine retinae used as starting material. Two-step centrifugation: 4,000g for 30 min, then 24,000g for 30 min. ROS membrane layers collected from 23-29% interface on 34%/29% [Sucrose](/xray-mp-wiki/reagents/ligands/sucrose/) gradient, 110,000g for 90 min. |
-| ConA affinity chromatography (optimized) | [affinity chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | Concanavalin A (ConA) resin, scale-up 3x | 50 mM sodium [Acetate Buffer (Sodium Acetate)](/xray-mp-wiki/reagents/buffers/acetate/), 150 mM NaCl, 3 mM [Magnesium Chloride (MgCl₂)](/xray-mp-wiki/reagents/additives/magnesium-chloride/), 3 mM MnCl2, 3 mM CaCl2, 1 mM Na2-[EDTA](/xray-mp-wiki/reagents/additives/edta/), 2 mM 2-mercaptoethanol, pH 6.0 + 1% n-octyl-beta-D-glucopyranoside ([OG](/xray-mp-wiki/reagents/detergents/og/)) | Starting material ~180 mg rhodopsin. Reversed flow used for second half of elution to sharpen elution profile. |
->>>>>>> d0e2c437136bdf2885afc6a99e0a9d4117821696
 
 <table class="wiki-table">
   <thead><tr>
@@ -378,15 +360,8 @@ Rhodopsin is the photoreceptor GPCR in vertebrate retina rod cells, responsible 
 <div class="sequences" markdown="1">
 **Sequences (PDBTM):**
 
-<<<<<<< HEAD
 <div class="sequence-entry" markdown="1">
 **PDB <a class="pdb-link" href="https://www.rcsb.org/structure/2i37">2I37</a> — Chain B (7 TMs, alpha)**
-=======
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Expression and membrane preparation | HEK293S GnTI- cell expression | — | 50 mM [Tris (Tris-HCl Buffer)](/xray-mp-wiki/reagents/buffers/tris/) pH 7.0, 150 mM NaCl, 1 mM [EDTA](/xray-mp-wiki/reagents/additives/edta/) + -- | Cells grown in suspension culture. N2C/D282C double mutant provides thermal stability for crystallization. |
-| ConA affinity chromatography | [affinity chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | Concanavalin A (ConA) resin | 50 mM sodium [Acetate Buffer (Sodium Acetate)](/xray-mp-wiki/reagents/buffers/acetate/) pH 6.0, 150 mM NaCl, 3 mM [Magnesium Chloride (MgCl₂)](/xray-mp-wiki/reagents/additives/magnesium-chloride/), 3 mM MnCl2, 3 mM CaCl2 + 1% n-octyl-beta-D-glucopyranoside ([OG](/xray-mp-wiki/reagents/detergents/og/)) for solubilization, then exchanged to 0.05% n-dodecyl-beta-D-maltopyranoside ([DDM](/xray-mp-wiki/reagents/detergents/ddm/)) during wash | Solubilized in 1% [OG](/xray-mp-wiki/reagents/detergents/og/). Protein eluted with 0.2 M methyl-alpha-D-mannopyranoside. Detergent exchanged to 0.05% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) during on-column washes. |
->>>>>>> d0e2c437136bdf2885afc6a99e0a9d4117821696
 
 <div class="sequence-display">
 <div class="topo-legend">
@@ -396,12 +371,13 @@ Rhodopsin is the photoreceptor GPCR in vertebrate retina rod cells, responsible 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">-</span><span class="topo-inside">MNGTEGPNFYVPFSNKTGVVRSPFEAPQYYLAEPWQFS</span><span class="topo-membrane">MLAAYMFLLIMLGFPINFLTL</span></span>
-<span class="topo-line"><span class="topo-membrane">YVTV</span><span class="topo-outside">QHKKLRTPLN</span><span class="topo-membrane">YILLNLAVADLFMVFGGFTTTLYTSL</span><span class="topo-inside">HGYFVFGPT</span><span class="topo-membrane">GCNLEGFFATL</span></span>
-<span class="topo-line"><span class="topo-membrane">GGEIALWSLVVLAI</span><span class="topo-outside">ERYVVVCKPMS</span><span class="topo-unknown">NFRFG</span><span class="topo-outside">ENHAI</span><span class="topo-membrane">MGVAFTWVMALACAAPPLVGWSRYI</span></span>
-<span class="topo-line"><span class="topo-membrane">PE</span><span class="topo-inside">GMQCSCGIDYYTPHEET</span><span class="topo-membrane">NNESFVIYMFVVHFIIPLIVIFFCYG</span><span class="topo-outside">QLVFTVKEAA</span><span class="topo-unknown">AQQ</span><span class="topo-outside">QE</span></span>
-<span class="topo-line"><span class="topo-outside">SATTQKAEKEVTR</span><span class="topo-membrane">MVIIMVIAFLICWLPYAGVAFYIFT</span><span class="topo-inside">HQGSDFGPI</span><span class="topo-membrane">FMTIPAFFAKTSA</span></span>
-<span class="topo-line"><span class="topo-membrane">VYNPVIYIMM</span><span class="topo-outside">NKQFRNCMVTTLCCGKNP</span><span class="topo-unknown">LGDDEASTTVSKTETSQVAPA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">-</span><span class="topo-inside">MNGTEGPNFYVPFSNKTGVVRSPFEAPQYYLAEPWQFS</span><span class="topo-membrane">MLAAYMFLLIMLGFPINFLTLYVTV</span><span class="topo-outside">QHKKLRTPLN</span><span class="topo-membrane">YILLNLAVADLFMVFGGFTTTLYTSL</span><span class="topo-inside">HGYFVFGPT</span><span class="topo-membrane">GCNLEGFFATL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GGEIALWSLVVLAI</span><span class="topo-outside">ERYVVVCKPMS</span><span class="topo-unknown">NFRFG</span><span class="topo-outside">ENHAI</span><span class="topo-membrane">MGVAFTWVMALACAAPPLVGWSRYIPE</span><span class="topo-inside">GMQCSCGIDYYTPHEET</span><span class="topo-membrane">NNESFVIYMFVVHFIIPLIVIFFCYG</span><span class="topo-outside">QLVFTVKEAA</span><span class="topo-unknown">AQQ</span><span class="topo-outside">QE</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340         </span>
+<span class="topo-line"><span class="topo-outside">SATTQKAEKEVTR</span><span class="topo-membrane">MVIIMVIAFLICWLPYAGVAFYIFT</span><span class="topo-inside">HQGSDFGPI</span><span class="topo-membrane">FMTIPAFFAKTSAVYNPVIYIMM</span><span class="topo-outside">NKQFRNCMVTTLCCGKNP</span><span class="topo-unknown">LGDDEASTTVSKTETSQVAPA</span></span>
+<details class="topo-details"><summary>Topology coordinates (20 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -553,6 +529,7 @@ Rhodopsin is the photoreceptor GPCR in vertebrate retina rod cells, responsible 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -568,12 +545,13 @@ Rhodopsin is the photoreceptor GPCR in vertebrate retina rod cells, responsible 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">-</span><span class="topo-inside">MNGTEGPNFYVPFSNKTGVVRSPFEAPQYYLAEPWQFS</span><span class="topo-membrane">MLAAYMFLLIMLGFPINFLTL</span></span>
-<span class="topo-line"><span class="topo-membrane">YVTVQ</span><span class="topo-outside">HKKLRTP</span><span class="topo-membrane">LNYILLNLAVADLFMVFGGFTTTL</span><span class="topo-inside">YTSLHGYFVFGPTGCNL</span><span class="topo-membrane">EGFFATL</span></span>
-<span class="topo-line"><span class="topo-membrane">GGEIALWSLVVLAIE</span><span class="topo-outside">RY</span><span class="topo-unknown">VVVCKPMSNF</span><span class="topo-outside">RFGE</span><span class="topo-membrane">NHAIMGVAFTWVMALACAAPPL</span><span class="topo-inside">VGWSRYI</span></span>
-<span class="topo-line"><span class="topo-inside">PEGMQCSCGIDYYTPHEETNNES</span><span class="topo-membrane">FVIYMFVVHFIIPLIVIFFCYGQ</span><span class="topo-outside">LVFTVKEAAAQQQE</span></span>
-<span class="topo-line"><span class="topo-outside">SATTQKAEKEVTRM</span><span class="topo-membrane">VIIMVIAFLICWLPYAGVAFY</span><span class="topo-inside">IFTHQGSDFGPIF</span><span class="topo-membrane">MTIPAFFAKTSA</span></span>
-<span class="topo-line"><span class="topo-membrane">VYNPVIYIMMN</span><span class="topo-outside">KQFRNCMVTTLCCG</span><span class="topo-unknown">KNPLGDDEASTTVSKTETSQVAPA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">-</span><span class="topo-inside">MNGTEGPNFYVPFSNKTGVVRSPFEAPQYYLAEPWQFS</span><span class="topo-membrane">MLAAYMFLLIMLGFPINFLTLYVTVQ</span><span class="topo-outside">HKKLRTP</span><span class="topo-membrane">LNYILLNLAVADLFMVFGGFTTTL</span><span class="topo-inside">YTSLHGYFVFGPTGCNL</span><span class="topo-membrane">EGFFATL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GGEIALWSLVVLAIE</span><span class="topo-outside">RY</span><span class="topo-unknown">VVVCKPMSNF</span><span class="topo-outside">RFGE</span><span class="topo-membrane">NHAIMGVAFTWVMALACAAPPL</span><span class="topo-inside">VGWSRYIPEGMQCSCGIDYYTPHEETNNES</span><span class="topo-membrane">FVIYMFVVHFIIPLIVIFFCYGQ</span><span class="topo-outside">LVFTVKEAAAQQQE</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340         </span>
+<span class="topo-line"><span class="topo-outside">SATTQKAEKEVTRM</span><span class="topo-membrane">VIIMVIAFLICWLPYAGVAFY</span><span class="topo-inside">IFTHQGSDFGPIF</span><span class="topo-membrane">MTIPAFFAKTSAVYNPVIYIMMN</span><span class="topo-outside">KQFRNCMVTTLCCG</span><span class="topo-unknown">KNPLGDDEASTTVSKTETSQVAPA</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -711,21 +689,13 @@ Rhodopsin is the photoreceptor GPCR in vertebrate retina rod cells, responsible 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
 
-<<<<<<< HEAD
 <div class="sequence-entry" markdown="1">
 **PDB <a class="pdb-link" href="https://www.rcsb.org/structure/2i35">2I35</a> — Chain A (7 TMs, alpha)**
-=======
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| ROS membrane preparation | Step-[Sucrose](/xray-mp-wiki/reagents/ligands/sucrose/) density gradient centrifugation from dark-adapted bovine retinas | — |  | ROS isolated and washed with isotonic and hypotonic buffers; kept in dark |
-| Nb2 expression and purification | Periplasmic expression in E. coli WK6 cells; [Ni-NTA](/xray-mp-wiki/reagents/additives/nickel-nta/) affinity followed by [SEC](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) | — |  | Nb2 with C-terminal His-tag expressed in E. coli WK6; induced with 1 mM [IPTG (Isopropyl-beta-D-thiogalactopyranoside)](/xray-mp-wiki/reagents/additives/iptg/) overnight at 28 C; periplasmic fraction extracted with [TES Buffer (N-Tris(hydroxymethyl)methyl-2-aminoethanesulfonic acid)](/xray-mp-wiki/reagents/buffers/tes/) buffer |
-| Complex formation | Mixing bRho (from ROS) with Nb2 in detergent solution | — | 10% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) | bRho/Nb2 complex formed in [DDM](/xray-mp-wiki/reagents/detergents/ddm/) |
-| Immunoaffinity chromatography (for recombinant Rho) | 1D4-immuno[affinity chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | 1D4 antibody conjugated to CNBr-activated Sepharose 4B | 10 mM [HEPES Buffer](/xray-mp-wiki/reagents/buffers/hepes/) pH 7.4, 0.25 M NaCl + 10% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) | Used for recombinant Rho expressed in HEK293 cells. Eluted with C-terminal nonapeptide. |
->>>>>>> d0e2c437136bdf2885afc6a99e0a9d4117821696
 
 <div class="sequence-display">
 <div class="topo-legend">
@@ -735,12 +705,13 @@ Rhodopsin is the photoreceptor GPCR in vertebrate retina rod cells, responsible 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">-</span><span class="topo-outside">MNGTEGPNFYVPFSNKTGVVRSPFEAPQYYLAEPWQFSMLAAY</span><span class="topo-membrane">MFLLIMLGFPINFLTL</span></span>
-<span class="topo-line"><span class="topo-membrane">YVTVQH</span><span class="topo-inside">KKL</span><span class="topo-membrane">RTPLNYILLNLAVADLFMVFGGFT</span><span class="topo-outside">TTLYTSLHGYFVFGPTGCNLEGF</span><span class="topo-membrane">FATL</span></span>
-<span class="topo-line"><span class="topo-membrane">GGEIALWSLVVLAIERYV</span><span class="topo-inside">VVCKPMSNFRFGE</span><span class="topo-membrane">NHAIMGVAFTWVMALACAAP</span><span class="topo-outside">PLVGWSRYI</span></span>
-<span class="topo-line"><span class="topo-outside">PEGMQCSCGIDYYTPHEETNNESFVI</span><span class="topo-membrane">YMFVVHFIIPLIVIFFCYGQLVF</span><span class="topo-inside">TVKEAAAQQQE</span></span>
-<span class="topo-line"><span class="topo-inside">SATTQKAEKE</span><span class="topo-membrane">VTRMVIIMVIAFLICWLPYAG</span><span class="topo-outside">VAFYIFTHQGSDFGPIFMTIP</span><span class="topo-membrane">AFFAKTSA</span></span>
-<span class="topo-line"><span class="topo-membrane">VYNPVIYIMMNK</span><span class="topo-inside">QFRNCMVTTLCCGKN</span><span class="topo-unknown">PLG</span><span class="topo-inside">DD</span><span class="topo-unknown">EASTTVSKTETSQVAPA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">-</span><span class="topo-outside">MNGTEGPNFYVPFSNKTGVVRSPFEAPQYYLAEPWQFSMLAAY</span><span class="topo-membrane">MFLLIMLGFPINFLTLYVTVQH</span><span class="topo-inside">KKL</span><span class="topo-membrane">RTPLNYILLNLAVADLFMVFGGFT</span><span class="topo-outside">TTLYTSLHGYFVFGPTGCNLEGF</span><span class="topo-membrane">FATL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GGEIALWSLVVLAIERYV</span><span class="topo-inside">VVCKPMSNFRFGE</span><span class="topo-membrane">NHAIMGVAFTWVMALACAAP</span><span class="topo-outside">PLVGWSRYIPEGMQCSCGIDYYTPHEETNNESFVI</span><span class="topo-membrane">YMFVVHFIIPLIVIFFCYGQLVF</span><span class="topo-inside">TVKEAAAQQQE</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340         </span>
+<span class="topo-line"><span class="topo-inside">SATTQKAEKE</span><span class="topo-membrane">VTRMVIIMVIAFLICWLPYAG</span><span class="topo-outside">VAFYIFTHQGSDFGPIFMTIP</span><span class="topo-membrane">AFFAKTSAVYNPVIYIMMNK</span><span class="topo-inside">QFRNCMVTTLCCGKN</span><span class="topo-unknown">PLG</span><span class="topo-inside">DD</span><span class="topo-unknown">EASTTVSKTETSQVAPA</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -878,6 +849,7 @@ Rhodopsin is the photoreceptor GPCR in vertebrate retina rod cells, responsible 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -888,16 +860,7 @@ Rhodopsin is the photoreceptor GPCR in vertebrate retina rod cells, responsible 
 <details class="pub-entry" markdown="1">
 <summary><strong>doi/10.1016##J.JMB.2004.08.090 (1 structure, 1 sequence)</strong></summary>
 
-<<<<<<< HEAD
 **Structures:**
-=======
-| Parameter | Value |
-|---|---|
-| Method | Mixed micelle crystallization |
-| Protein sample | Bovine rhodopsin, solubilized from rod outer segment membranes, purified by ConA chromatography, in mixed micelles of [OTG](/xray-mp-wiki/reagents/detergents/og/) and other detergents |
-| Cryoprotection | Crystals cryocooled for data collection at 100 K |
-| Notes | Crystals belonged to space group P4(1) with unit cell a=97.25, c=149.54 A. Two molecules per asymmetric unit. Data collected at SPring-8 BL45XU ([MAD](/xray-mp-wiki/methods/structure-determination/mad-phasing/), 3.3 A) and APS 19-ID (high-resolution, 2.8 A). [MAD](/xray-mp-wiki/methods/structure-determination/mad-phasing/) phasing using Hg derivative (soaking). Merohedral twinning was significant; least twinned data selected for phasing. Structure refined to R=23.3%, R_free=28.8% at 2.8 A. |
->>>>>>> d0e2c437136bdf2885afc6a99e0a9d4117821696
 
 <table class="wiki-table">
   <thead><tr>
@@ -918,37 +881,17 @@ Rhodopsin is the photoreceptor GPCR in vertebrate retina rod cells, responsible 
   </tbody>
 </table>
 
-<<<<<<< HEAD
 **Expression:**
-=======
-| Parameter | Value |
-|---|---|
-| Method | Hanging-drop vapor diffusion |
-| Protein sample | Highly delipidated bovine rhodopsin, immunoaffinity purified, in octyl-beta-D-glucopyranoside ([OG](/xray-mp-wiki/reagents/detergents/og/)) detergent |
-| Cryoprotection | Crystals frozen in liquid nitrogen after light exposure for photoactivation |
-| Notes | Two crystal forms obtained: rhombohedral R32 (3.8 A, one molecule per ASU) and trigonal P3(1)12 (4.1-4.2 A, three molecules per ASU). Crystals photoactivated by light exposure. |
->>>>>>> d0e2c437136bdf2885afc6a99e0a9d4117821696
 
 - **Expression system**: Bovine retina rod cells (disc membrane) for native rhodopsin; HEK293S GnTI- cells for recombinant N2C/D282C stabilized [Opsin (Retinal-Free Rhodopsin Apoprotein)](/xray-mp-wiki/proteins/gpcr/opsin/) mutant; HEK293S-GnTI+ cells for M257Y mutant
 - **Construct**: Native rhodopsin holoprotein with 11-cis [Retinal](/xray-mp-wiki/reagents/ligands/retinal/) chromophore; N2C/D282C [Opsin (Retinal-Free Rhodopsin Apoprotein)](/xray-mp-wiki/proteins/gpcr/opsin/) mutant for pharmacological chaperone studies; N2C/D282C/M257Y triple mutant for constitutively active [Metarhodopsin II](/xray-mp-wiki/proteins/gpcr/metarhodopsin-ii/) structure
 
-<<<<<<< HEAD
 <div class="sequences" markdown="1">
 **Sequences (PDBTM):**
-=======
-| Parameter | Value |
-|---|---|
-| Method | [LCP](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) (LCP) crystallization |
-| Protein sample | Bovine rhodopsin purified via ConA [affinity chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/), detergent exchanged to 0.21% n-decyl-N,N-dimethylamine-N-oxide (DAO) in 50 mM sodium [Acetate Buffer (Sodium Acetate)](/xray-mp-wiki/reagents/buffers/acetate/), 150 mM NaCl, 3 mM [Magnesium Chloride (MgCl₂)](/xray-mp-wiki/reagents/additives/magnesium-chloride/), pH 6.0. Concentrated to 20-25 mg/ml. |
-| Temperature | 20 |
-| Cryoprotection | LCP viscous medium (no cryoprotectant, room temperature data collection) |
-| Notes | Crystals grown in [LCP](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) ([Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/)-based) for TR-SFX. Crystal plates approximately 20 um large and 1.5 um thick. Type I lattice (P 2 2 2 space group). Photoactivation at 480 [NM](/xray-mp-wiki/reagents/detergents/nm/) pump laser. Data collected at SwissFEL (1 ps, 10 ps) and SACLA (100 ps) X-ray free-electron lasers. |
->>>>>>> d0e2c437136bdf2885afc6a99e0a9d4117821696
 
 <div class="sequence-entry" markdown="1">
 **PDB <a class="pdb-link" href="https://www.rcsb.org/structure/1gzm">1GZM</a> — Chain A (7 TMs, alpha)**
 
-<<<<<<< HEAD
 <div class="sequence-display">
 <div class="topo-legend">
 <span class="topo-membrane-legend">&#9608; TM Helix</span>
@@ -957,12 +900,13 @@ Rhodopsin is the photoreceptor GPCR in vertebrate retina rod cells, responsible 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">-</span><span class="topo-outside">MNGTEGPNFYVPFSNKTGVVRSPFEAPQYYLAEPWQFSM</span><span class="topo-membrane">LAAYMFLLIMLGFPINFLTL</span></span>
-<span class="topo-line"><span class="topo-membrane">YVTVQH</span><span class="topo-inside">KKL</span><span class="topo-membrane">RTPLNYILLNLAVADLFMVFGGFTTTL</span><span class="topo-outside">YTSLHGYFVFGPTGCN</span><span class="topo-membrane">LEGFFATL</span></span>
-<span class="topo-line"><span class="topo-membrane">GGEIALWSLVVLAIERYV</span><span class="topo-inside">VVCKPMSNFRFGE</span><span class="topo-membrane">NHAIMGVAFTWVMALACAAPPLV</span><span class="topo-outside">GWSRYI</span></span>
-<span class="topo-line"><span class="topo-outside">PEGMQCSCGIDYYTPHEETNNES</span><span class="topo-membrane">FVIYMFVVHFIIPLIVIFFCYGQLV</span><span class="topo-inside">FTVKEAAAQQQE</span></span>
-<span class="topo-line"><span class="topo-inside">SATTQKAEKEV</span><span class="topo-membrane">TRMVIIMVIAFLICWLPYAGVAFY</span><span class="topo-outside">IFTHQGSDFGPIFM</span><span class="topo-membrane">TIPAFFAKTSA</span></span>
-<span class="topo-line"><span class="topo-membrane">VYNPVIYIMMNK</span><span class="topo-inside">QFRNCMVTTLCCGKN</span><span class="topo-unknown">PLG</span><span class="topo-inside">DD</span><span class="topo-unknown">EASTTVSKTETSQVAPA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">-</span><span class="topo-outside">MNGTEGPNFYVPFSNKTGVVRSPFEAPQYYLAEPWQFSM</span><span class="topo-membrane">LAAYMFLLIMLGFPINFLTLYVTVQH</span><span class="topo-inside">KKL</span><span class="topo-membrane">RTPLNYILLNLAVADLFMVFGGFTTTL</span><span class="topo-outside">YTSLHGYFVFGPTGCN</span><span class="topo-membrane">LEGFFATL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GGEIALWSLVVLAIERYV</span><span class="topo-inside">VVCKPMSNFRFGE</span><span class="topo-membrane">NHAIMGVAFTWVMALACAAPPLV</span><span class="topo-outside">GWSRYIPEGMQCSCGIDYYTPHEETNNES</span><span class="topo-membrane">FVIYMFVVHFIIPLIVIFFCYGQLV</span><span class="topo-inside">FTVKEAAAQQQE</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340         </span>
+<span class="topo-line"><span class="topo-inside">SATTQKAEKEV</span><span class="topo-membrane">TRMVIIMVIAFLICWLPYAGVAFY</span><span class="topo-outside">IFTHQGSDFGPIFM</span><span class="topo-membrane">TIPAFFAKTSAVYNPVIYIMMNK</span><span class="topo-inside">QFRNCMVTTLCCGKN</span><span class="topo-unknown">PLG</span><span class="topo-inside">DD</span><span class="topo-unknown">EASTTVSKTETSQVAPA</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1100,39 +1044,19 @@ Rhodopsin is the photoreceptor GPCR in vertebrate retina rod cells, responsible 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
-=======
-| Parameter | Value |
-|---|---|
-| Method | Hanging-drop vapor diffusion |
-| Protein sample | N2C/D282C stabilized [Opsin (Retinal-Free Rhodopsin Apoprotein)](/xray-mp-wiki/proteins/gpcr/opsin/), purified via ConA [affinity chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/), in 0.05% n-dodecyl-beta-D-maltopyranoside ([DDM](/xray-mp-wiki/reagents/detergents/ddm/)) |
-| Reservoir | 0.1 M sodium [Citrate Buffer (Sodium Citrate)](/xray-mp-wiki/reagents/buffers/citrate/) pH 5.5, 0.1 M LiSO4, 24-34% [PEG (Polyethylene Glycol)](/xray-mp-wiki/reagents/additives/peg/) 1000, or 0.1 M sodium [Acetate Buffer (Sodium Acetate)](/xray-mp-wiki/reagents/buffers/acetate/) pH 5.0-5.5, 0.15-0.2 M (NH4)2SO4, 27-32% [PEG (Polyethylene Glycol)](/xray-mp-wiki/reagents/additives/peg/) 1000 |
-| Temperature | 4 |
-| Cryoprotection | Cryoprotected by soaking in reservoir solution supplemented with 25% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) or ethylene glycol |
-| Notes | N2C/D282C double mutant. Co-crystallization with compounds RS01-RS16 at 0.5-1 mM. All structures in P 21 21 21 space group. |
->>>>>>> d0e2c437136bdf2885afc6a99e0a9d4117821696
 
 </div>
 </details>
 
-<<<<<<< HEAD
 <details class="pub-entry" markdown="1">
 <summary><strong>doi/10.1038##NATURE09795 (1 structure, 2 sequences)</strong></summary>
-=======
-| Parameter | Value |
-|---|---|
-| Method | Hanging-drop vapor diffusion |
-| Protein sample | bRho/Nb2 complex (native rhodopsin from ROS, purified by ConA/[SEC](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/), in [DDM](/xray-mp-wiki/reagents/detergents/ddm/) detergent) |
-| Reservoir | 0.1 M Tricine pH 7.8, 25.5% (v/v) [PEG (Polyethylene Glycol)](/xray-mp-wiki/reagents/additives/peg/) 600 |
-| Temperature | 4 |
-| Notes | Ground-state bRho/Nb2 crystals grown in dark. Photoactivated bRho*/Nb2 crystals obtained by illuminating ground-state crystals with intense green light (~200 uW at 500 nm) for 6 min at 4 C. |
->>>>>>> d0e2c437136bdf2885afc6a99e0a9d4117821696
 
 **Structures:**
 
-<<<<<<< HEAD
 <table class="wiki-table">
   <thead><tr>
     <th>PDB ID</th>
@@ -1151,14 +1075,6 @@ Rhodopsin is the photoreceptor GPCR in vertebrate retina rod cells, responsible 
     </tr>
   </tbody>
 </table>
-=======
-| Parameter | Value |
-|---|---|
-| Method | Hanging-drop vapor diffusion |
-| Protein sample | Bovine rhodopsin, purified from rod outer segments by ConA [affinity chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/), in mixed micelles containing nonyl glucoside and heptanetriol |
-| Temperature | 4 |
-| Notes | Crystals obtained at 4 C. Crystal quality was poor with isomorphism issues; twin fractions ranged from 0.1 to 0.4. Three data sets collected independently. |
->>>>>>> d0e2c437136bdf2885afc6a99e0a9d4117821696
 
 **Expression:**
 
@@ -1168,7 +1084,6 @@ Rhodopsin is the photoreceptor GPCR in vertebrate retina rod cells, responsible 
 <div class="sequences" markdown="1">
 **Sequences (PDBTM):**
 
-<<<<<<< HEAD
 <div class="sequence-entry" markdown="1">
 **PDB <a class="pdb-link" href="https://www.rcsb.org/structure/2x72">2X72</a> — Chain A (7 TMs, alpha)**
 
@@ -1180,12 +1095,13 @@ Rhodopsin is the photoreceptor GPCR in vertebrate retina rod cells, responsible 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">-</span><span class="topo-outside">MCGTEGPNFYVPFSNKTGVVRSPFEAPQYYLAEPWQFSMLAA</span><span class="topo-membrane">YMFLLIMLGFPINFLTL</span></span>
-<span class="topo-line"><span class="topo-membrane">YVTVQH</span><span class="topo-inside">KKL</span><span class="topo-membrane">RTPLNYILLNLAVADLFMVFGGFT</span><span class="topo-outside">TTLYTSLHGYFVFGPTGCNLQ</span><span class="topo-membrane">GFFATL</span></span>
-<span class="topo-line"><span class="topo-membrane">GGEIALWSLVVLAIERY</span><span class="topo-inside">VVVCKPMSNFRFGE</span><span class="topo-membrane">NHAIMGVAFTWVMALACAAP</span><span class="topo-outside">PLVGWSRYI</span></span>
-<span class="topo-line"><span class="topo-outside">PEGMQCSCGIDYYTPHEETNNES</span><span class="topo-membrane">FVIYMFVVHFIIPLIVIFFCYG</span><span class="topo-inside">QLVFTVKEAAAQQQE</span></span>
-<span class="topo-line"><span class="topo-inside">SATTQKAEKEVT</span><span class="topo-membrane">RMVIIMVIAFLICWLPYAGVAFY</span><span class="topo-outside">IFTHQGSCFGPIFMTI</span><span class="topo-membrane">PAFFAKTSA</span></span>
-<span class="topo-line"><span class="topo-membrane">VYNPVIYIMMN</span><span class="topo-inside">KQFRNCMVTTLCCGKN</span><span class="topo-unknown">PLGDDEASTTVSKTETSQVAPA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">-</span><span class="topo-outside">MCGTEGPNFYVPFSNKTGVVRSPFEAPQYYLAEPWQFSMLAA</span><span class="topo-membrane">YMFLLIMLGFPINFLTLYVTVQH</span><span class="topo-inside">KKL</span><span class="topo-membrane">RTPLNYILLNLAVADLFMVFGGFT</span><span class="topo-outside">TTLYTSLHGYFVFGPTGCNLQ</span><span class="topo-membrane">GFFATL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GGEIALWSLVVLAIERY</span><span class="topo-inside">VVVCKPMSNFRFGE</span><span class="topo-membrane">NHAIMGVAFTWVMALACAAP</span><span class="topo-outside">PLVGWSRYIPEGMQCSCGIDYYTPHEETNNES</span><span class="topo-membrane">FVIYMFVVHFIIPLIVIFFCYG</span><span class="topo-inside">QLVFTVKEAAAQQQE</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340         </span>
+<span class="topo-line"><span class="topo-inside">SATTQKAEKEVT</span><span class="topo-membrane">RMVIIMVIAFLICWLPYAGVAFY</span><span class="topo-outside">IFTHQGSCFGPIFMTI</span><span class="topo-membrane">PAFFAKTSAVYNPVIYIMMN</span><span class="topo-inside">KQFRNCMVTTLCCGKN</span><span class="topo-unknown">PLGDDEASTTVSKTETSQVAPA</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1309,6 +1225,7 @@ Rhodopsin is the photoreceptor GPCR in vertebrate retina rod cells, responsible 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1324,12 +1241,13 @@ Rhodopsin is the photoreceptor GPCR in vertebrate retina rod cells, responsible 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">-</span><span class="topo-outside">MCGTEGPNFYVPFSNKTGVVRSPFEAPQYYLAEPWQFSMLAA</span><span class="topo-membrane">YMFLLIMLGFPINFLTL</span></span>
-<span class="topo-line"><span class="topo-membrane">YVTVQH</span><span class="topo-inside">KKL</span><span class="topo-membrane">RTPLNYILLNLAVADLFMVFGGFT</span><span class="topo-outside">TTLYTSLHGYFVFGPTGCNLQ</span><span class="topo-membrane">GFFATL</span></span>
-<span class="topo-line"><span class="topo-membrane">GGEIALWSLVVLAIERY</span><span class="topo-inside">VVVCKPMSNFRFGE</span><span class="topo-membrane">NHAIMGVAFTWVMALACAAP</span><span class="topo-outside">PLVGWSRYI</span></span>
-<span class="topo-line"><span class="topo-outside">PEGMQCSCGIDYYTPHEETNNES</span><span class="topo-membrane">FVIYMFVVHFIIPLIVIFFCYG</span><span class="topo-inside">QLVFTVKEAAAQQQE</span></span>
-<span class="topo-line"><span class="topo-inside">SATTQKAEKEVT</span><span class="topo-membrane">RMVIIMVIAFLICWLPYAGVAFY</span><span class="topo-outside">IFTHQGSCFGPIFMTI</span><span class="topo-membrane">PAFFAKTSA</span></span>
-<span class="topo-line"><span class="topo-membrane">VYNPVIYIMMN</span><span class="topo-inside">KQFRNCMVTTLCCGKN</span><span class="topo-unknown">PLGDDEASTTVSKTETSQVAPA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">-</span><span class="topo-outside">MCGTEGPNFYVPFSNKTGVVRSPFEAPQYYLAEPWQFSMLAA</span><span class="topo-membrane">YMFLLIMLGFPINFLTLYVTVQH</span><span class="topo-inside">KKL</span><span class="topo-membrane">RTPLNYILLNLAVADLFMVFGGFT</span><span class="topo-outside">TTLYTSLHGYFVFGPTGCNLQ</span><span class="topo-membrane">GFFATL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GGEIALWSLVVLAIERY</span><span class="topo-inside">VVVCKPMSNFRFGE</span><span class="topo-membrane">NHAIMGVAFTWVMALACAAP</span><span class="topo-outside">PLVGWSRYIPEGMQCSCGIDYYTPHEETNNES</span><span class="topo-membrane">FVIYMFVVHFIIPLIVIFFCYG</span><span class="topo-inside">QLVFTVKEAAAQQQE</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340         </span>
+<span class="topo-line"><span class="topo-inside">SATTQKAEKEVT</span><span class="topo-membrane">RMVIIMVIAFLICWLPYAGVAFY</span><span class="topo-outside">IFTHQGSCFGPIFMTI</span><span class="topo-membrane">PAFFAKTSAVYNPVIYIMMN</span><span class="topo-inside">KQFRNCMVTTLCCGKN</span><span class="topo-unknown">PLGDDEASTTVSKTETSQVAPA</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1453,6 +1371,7 @@ Rhodopsin is the photoreceptor GPCR in vertebrate retina rod cells, responsible 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1585,12 +1504,13 @@ Rhodopsin is the photoreceptor GPCR in vertebrate retina rod cells, responsible 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MNGTEGPNFYVPFSNKTGVVRSPFEAPQYYLAEPWQFSM</span><span class="topo-membrane">LAAYMFLLIMLGFPINFLTLY</span></span>
-<span class="topo-line"><span class="topo-membrane">VTVQ</span><span class="topo-outside">HKKLRTP</span><span class="topo-membrane">LNYILLNLAVADLFMVFGGFTTTLY</span><span class="topo-inside">TSLHGYFVFGPTGCN</span><span class="topo-membrane">LEGFFATLG</span></span>
-<span class="topo-line"><span class="topo-membrane">GEIALWSLVVLAIERY</span><span class="topo-outside">VVVCKP</span><span class="topo-unknown">MSNF</span><span class="topo-outside">RFGEN</span><span class="topo-membrane">HAIMGVAFTWVMALACAAPPLV</span><span class="topo-inside">GWSRYIP</span></span>
-<span class="topo-line"><span class="topo-inside">EGMQCSCGIDYYTPHEETNNE</span><span class="topo-membrane">SFVIYMFVVHFIIPLIVIFFCYGQ</span><span class="topo-outside">LVFT</span><span class="topo-unknown">VKEAAAQQQES</span></span>
-<span class="topo-line"><span class="topo-unknown">ATT</span><span class="topo-outside">QKAEKEVT</span><span class="topo-membrane">RMVIIMVIAFLICWLPYAGVAFYIFT</span><span class="topo-inside">HQGSDFGPIF</span><span class="topo-membrane">MTIPAFFAKTSAV</span></span>
-<span class="topo-line"><span class="topo-membrane">YNPVIYIMMN</span><span class="topo-outside">KQFRNCMVTTLC</span><span class="topo-unknown">CGKNPLGDDEASTTVSKTETSQVAPA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">MNGTEGPNFYVPFSNKTGVVRSPFEAPQYYLAEPWQFSM</span><span class="topo-membrane">LAAYMFLLIMLGFPINFLTLYVTVQ</span><span class="topo-outside">HKKLRTP</span><span class="topo-membrane">LNYILLNLAVADLFMVFGGFTTTLY</span><span class="topo-inside">TSLHGYFVFGPTGCN</span><span class="topo-membrane">LEGFFATLG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GEIALWSLVVLAIERY</span><span class="topo-outside">VVVCKP</span><span class="topo-unknown">MSNF</span><span class="topo-outside">RFGEN</span><span class="topo-membrane">HAIMGVAFTWVMALACAAPPLV</span><span class="topo-inside">GWSRYIPEGMQCSCGIDYYTPHEETNNE</span><span class="topo-membrane">SFVIYMFVVHFIIPLIVIFFCYGQ</span><span class="topo-outside">LVFT</span><span class="topo-unknown">VKEAAAQQQES</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340        </span>
+<span class="topo-line"><span class="topo-unknown">ATT</span><span class="topo-outside">QKAEKEVT</span><span class="topo-membrane">RMVIIMVIAFLICWLPYAGVAFYIFT</span><span class="topo-inside">HQGSDFGPIF</span><span class="topo-membrane">MTIPAFFAKTSAVYNPVIYIMMN</span><span class="topo-outside">KQFRNCMVTTLC</span><span class="topo-unknown">CGKNPLGDDEASTTVSKTETSQVAPA</span></span>
+<details class="topo-details"><summary>Topology coordinates (20 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1742,6 +1662,7 @@ Rhodopsin is the photoreceptor GPCR in vertebrate retina rod cells, responsible 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1757,12 +1678,13 @@ Rhodopsin is the photoreceptor GPCR in vertebrate retina rod cells, responsible 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MNGTEGPNFYVPFSNKTGVVRSPFEAPQYYLAEPWQFSM</span><span class="topo-membrane">LAAYMFLLIMLGFPINFLTLY</span></span>
-<span class="topo-line"><span class="topo-membrane">VTVQ</span><span class="topo-outside">HKKLRTP</span><span class="topo-membrane">LNYILLNLAVADLFMVFGGFTTTLY</span><span class="topo-inside">TSLHGYFVFGPT</span><span class="topo-membrane">GCNLEGFFATLG</span></span>
-<span class="topo-line"><span class="topo-membrane">GEIALWSLVVLAIER</span><span class="topo-outside">YVVVCKP</span><span class="topo-unknown">MSNF</span><span class="topo-outside">RFGENHA</span><span class="topo-membrane">IMGVAFTWVMALACAAPPLVGWSRY</span><span class="topo-inside">IP</span></span>
-<span class="topo-line"><span class="topo-inside">EGMQCSCGIDYYTPHEET</span><span class="topo-membrane">NNESFVIYMFVVHFIIPLIVIFFCYGQ</span><span class="topo-outside">LVFT</span><span class="topo-unknown">VKEAAAQQQES</span></span>
-<span class="topo-line"><span class="topo-unknown">ATTQ</span><span class="topo-outside">KAEKEVT</span><span class="topo-membrane">RMVIIMVIAFLICWLPYAGVAFYIFT</span><span class="topo-inside">HQGSDFGPIFM</span><span class="topo-membrane">TIPAFFAKTSAV</span></span>
-<span class="topo-line"><span class="topo-membrane">YNPVIYIMMN</span><span class="topo-outside">KQFRNCMVTTLC</span><span class="topo-unknown">CGKNPLGDDEASTTVSKTETSQVAPA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">MNGTEGPNFYVPFSNKTGVVRSPFEAPQYYLAEPWQFSM</span><span class="topo-membrane">LAAYMFLLIMLGFPINFLTLYVTVQ</span><span class="topo-outside">HKKLRTP</span><span class="topo-membrane">LNYILLNLAVADLFMVFGGFTTTLY</span><span class="topo-inside">TSLHGYFVFGPT</span><span class="topo-membrane">GCNLEGFFATLG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GEIALWSLVVLAIER</span><span class="topo-outside">YVVVCKP</span><span class="topo-unknown">MSNF</span><span class="topo-outside">RFGENHA</span><span class="topo-membrane">IMGVAFTWVMALACAAPPLVGWSRY</span><span class="topo-inside">IPEGMQCSCGIDYYTPHEET</span><span class="topo-membrane">NNESFVIYMFVVHFIIPLIVIFFCYGQ</span><span class="topo-outside">LVFT</span><span class="topo-unknown">VKEAAAQQQES</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340        </span>
+<span class="topo-line"><span class="topo-unknown">ATTQ</span><span class="topo-outside">KAEKEVT</span><span class="topo-membrane">RMVIIMVIAFLICWLPYAGVAFYIFT</span><span class="topo-inside">HQGSDFGPIFM</span><span class="topo-membrane">TIPAFFAKTSAVYNPVIYIMMN</span><span class="topo-outside">KQFRNCMVTTLC</span><span class="topo-unknown">CGKNPLGDDEASTTVSKTETSQVAPA</span></span>
+<details class="topo-details"><summary>Topology coordinates (20 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1914,6 +1836,7 @@ Rhodopsin is the photoreceptor GPCR in vertebrate retina rod cells, responsible 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1929,12 +1852,13 @@ Rhodopsin is the photoreceptor GPCR in vertebrate retina rod cells, responsible 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MNGTEGPNFYVPFSNKTGVVRSPFEAPQYYLAEPWQFSM</span><span class="topo-membrane">LAAYMFLLIMLGFPINFLTLY</span></span>
-<span class="topo-line"><span class="topo-membrane">VTVQ</span><span class="topo-outside">HKKLRTP</span><span class="topo-membrane">LNYILLNLAVADLFMVFGGFTTTLY</span><span class="topo-inside">TSLHGYFVFGPTGCN</span><span class="topo-membrane">LEGFFATLG</span></span>
-<span class="topo-line"><span class="topo-membrane">GEIALWSLVVLAIERYV</span><span class="topo-outside">VVCKP</span><span class="topo-unknown">MSNF</span><span class="topo-outside">RFGE</span><span class="topo-membrane">NHAIMGVAFTWVMALACAAPPLV</span><span class="topo-inside">GWSRYIP</span></span>
-<span class="topo-line"><span class="topo-inside">EGMQCSCGIDYYTPHEETNNES</span><span class="topo-membrane">FVIYMFVVHFIIPLIVIFFCYGQLVF</span><span class="topo-outside">T</span><span class="topo-unknown">VKEAAAQQQES</span></span>
-<span class="topo-line"><span class="topo-unknown">ATT</span><span class="topo-outside">QKAEKEV</span><span class="topo-membrane">TRMVIIMVIAFLICWLPYAGVAFY</span><span class="topo-inside">IFTHQGSDFGPIFMT</span><span class="topo-membrane">IPAFFAKTSAV</span></span>
-<span class="topo-line"><span class="topo-membrane">YNPVIYIMMN</span><span class="topo-outside">KQFRNCMVTTLC</span><span class="topo-unknown">CGKNPLGDDEASTTVSKTETSQVAPA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">MNGTEGPNFYVPFSNKTGVVRSPFEAPQYYLAEPWQFSM</span><span class="topo-membrane">LAAYMFLLIMLGFPINFLTLYVTVQ</span><span class="topo-outside">HKKLRTP</span><span class="topo-membrane">LNYILLNLAVADLFMVFGGFTTTLY</span><span class="topo-inside">TSLHGYFVFGPTGCN</span><span class="topo-membrane">LEGFFATLG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GEIALWSLVVLAIERYV</span><span class="topo-outside">VVCKP</span><span class="topo-unknown">MSNF</span><span class="topo-outside">RFGE</span><span class="topo-membrane">NHAIMGVAFTWVMALACAAPPLV</span><span class="topo-inside">GWSRYIPEGMQCSCGIDYYTPHEETNNES</span><span class="topo-membrane">FVIYMFVVHFIIPLIVIFFCYGQLVF</span><span class="topo-outside">T</span><span class="topo-unknown">VKEAAAQQQES</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340        </span>
+<span class="topo-line"><span class="topo-unknown">ATT</span><span class="topo-outside">QKAEKEV</span><span class="topo-membrane">TRMVIIMVIAFLICWLPYAGVAFY</span><span class="topo-inside">IFTHQGSDFGPIFMT</span><span class="topo-membrane">IPAFFAKTSAVYNPVIYIMMN</span><span class="topo-outside">KQFRNCMVTTLC</span><span class="topo-unknown">CGKNPLGDDEASTTVSKTETSQVAPA</span></span>
+<details class="topo-details"><summary>Topology coordinates (20 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2086,6 +2010,7 @@ Rhodopsin is the photoreceptor GPCR in vertebrate retina rod cells, responsible 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2101,12 +2026,13 @@ Rhodopsin is the photoreceptor GPCR in vertebrate retina rod cells, responsible 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MNGTEGPNFYVPFSNKTGVVRSPFEAPQYYLAEPWQFSM</span><span class="topo-membrane">LAAYMFLLIMLGFPINFLTLY</span></span>
-<span class="topo-line"><span class="topo-membrane">VTVQ</span><span class="topo-outside">HKKLRTP</span><span class="topo-membrane">LNYILLNLAVADLFMVFGGFTTTLY</span><span class="topo-inside">TSLHGYFVFGPTGCN</span><span class="topo-membrane">LEGFFATLG</span></span>
-<span class="topo-line"><span class="topo-membrane">GEIALWSLVVLAIERYV</span><span class="topo-outside">VVCKP</span><span class="topo-unknown">MSNF</span><span class="topo-outside">RFGEN</span><span class="topo-membrane">HAIMGVAFTWVMALACAAPPLV</span><span class="topo-inside">GWSRYIP</span></span>
-<span class="topo-line"><span class="topo-inside">EGMQCSCGIDYYTPHEETNNES</span><span class="topo-membrane">FVIYMFVVHFIIPLIVIFFCYGQLVF</span><span class="topo-outside">T</span><span class="topo-unknown">VKEAAAQQQES</span></span>
-<span class="topo-line"><span class="topo-unknown">ATTQ</span><span class="topo-outside">KAEKEV</span><span class="topo-membrane">TRMVIIMVIAFLICWLPYAGVAFY</span><span class="topo-inside">IFTHQGSDFGPIFM</span><span class="topo-membrane">TIPAFFAKTSAV</span></span>
-<span class="topo-line"><span class="topo-membrane">YNPVIYIMMN</span><span class="topo-outside">KQFRNCMVTTLC</span><span class="topo-unknown">CGKNPLGDDEASTTVSKTETSQVAPA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">MNGTEGPNFYVPFSNKTGVVRSPFEAPQYYLAEPWQFSM</span><span class="topo-membrane">LAAYMFLLIMLGFPINFLTLYVTVQ</span><span class="topo-outside">HKKLRTP</span><span class="topo-membrane">LNYILLNLAVADLFMVFGGFTTTLY</span><span class="topo-inside">TSLHGYFVFGPTGCN</span><span class="topo-membrane">LEGFFATLG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GEIALWSLVVLAIERYV</span><span class="topo-outside">VVCKP</span><span class="topo-unknown">MSNF</span><span class="topo-outside">RFGEN</span><span class="topo-membrane">HAIMGVAFTWVMALACAAPPLV</span><span class="topo-inside">GWSRYIPEGMQCSCGIDYYTPHEETNNES</span><span class="topo-membrane">FVIYMFVVHFIIPLIVIFFCYGQLVF</span><span class="topo-outside">T</span><span class="topo-unknown">VKEAAAQQQES</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340        </span>
+<span class="topo-line"><span class="topo-unknown">ATTQ</span><span class="topo-outside">KAEKEV</span><span class="topo-membrane">TRMVIIMVIAFLICWLPYAGVAFY</span><span class="topo-inside">IFTHQGSDFGPIFM</span><span class="topo-membrane">TIPAFFAKTSAVYNPVIYIMMN</span><span class="topo-outside">KQFRNCMVTTLC</span><span class="topo-unknown">CGKNPLGDDEASTTVSKTETSQVAPA</span></span>
+<details class="topo-details"><summary>Topology coordinates (20 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2258,6 +2184,7 @@ Rhodopsin is the photoreceptor GPCR in vertebrate retina rod cells, responsible 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2273,12 +2200,13 @@ Rhodopsin is the photoreceptor GPCR in vertebrate retina rod cells, responsible 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">-</span><span class="topo-inside">MNGTEGPNFYVPFSNKTGVVRSPFEAPQYYLAEPWQFSM</span><span class="topo-membrane">LAAYMFLLIMLGFPINFLTL</span></span>
-<span class="topo-line"><span class="topo-membrane">YVTVQ</span><span class="topo-outside">HKKLRTP</span><span class="topo-membrane">LNYILLNLAVADLFMVFGGFTTTLY</span><span class="topo-inside">TSLHGYFVFGPTGCN</span><span class="topo-membrane">LEGFFATL</span></span>
-<span class="topo-line"><span class="topo-membrane">GGEIALWSLVVLAIERYV</span><span class="topo-outside">VVCKP</span><span class="topo-unknown">MSNF</span><span class="topo-outside">RFGE</span><span class="topo-membrane">NHAIMGVAFTWVMALACAAPPLV</span><span class="topo-inside">GWSRYI</span></span>
-<span class="topo-line"><span class="topo-inside">PEGMQCSCGIDYYTPHEETNNES</span><span class="topo-membrane">FVIYMFVVHFIIPLIVIFFCYGQLVF</span><span class="topo-unknown">TVKEAAAQQQE</span></span>
-<span class="topo-line"><span class="topo-unknown">SATTQ</span><span class="topo-outside">KAEKEV</span><span class="topo-membrane">TRMVIIMVIAFLICWLPYAGVAFY</span><span class="topo-inside">IFTHQGSDFGPIFM</span><span class="topo-membrane">TIPAFFAKTSA</span></span>
-<span class="topo-line"><span class="topo-membrane">VYNPVIYIMMN</span><span class="topo-outside">KQFRNCMVTTLC</span><span class="topo-unknown">CGKNPLGDDEASTTVSKTETSQVAPA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">-</span><span class="topo-inside">MNGTEGPNFYVPFSNKTGVVRSPFEAPQYYLAEPWQFSM</span><span class="topo-membrane">LAAYMFLLIMLGFPINFLTLYVTVQ</span><span class="topo-outside">HKKLRTP</span><span class="topo-membrane">LNYILLNLAVADLFMVFGGFTTTLY</span><span class="topo-inside">TSLHGYFVFGPTGCN</span><span class="topo-membrane">LEGFFATL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GGEIALWSLVVLAIERYV</span><span class="topo-outside">VVCKP</span><span class="topo-unknown">MSNF</span><span class="topo-outside">RFGE</span><span class="topo-membrane">NHAIMGVAFTWVMALACAAPPLV</span><span class="topo-inside">GWSRYIPEGMQCSCGIDYYTPHEETNNES</span><span class="topo-membrane">FVIYMFVVHFIIPLIVIFFCYGQLVF</span><span class="topo-unknown">TVKEAAAQQQE</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340         </span>
+<span class="topo-line"><span class="topo-unknown">SATTQ</span><span class="topo-outside">KAEKEV</span><span class="topo-membrane">TRMVIIMVIAFLICWLPYAGVAFY</span><span class="topo-inside">IFTHQGSDFGPIFM</span><span class="topo-membrane">TIPAFFAKTSAVYNPVIYIMMN</span><span class="topo-outside">KQFRNCMVTTLC</span><span class="topo-unknown">CGKNPLGDDEASTTVSKTETSQVAPA</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2423,6 +2351,7 @@ Rhodopsin is the photoreceptor GPCR in vertebrate retina rod cells, responsible 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2580,12 +2509,13 @@ Rhodopsin is the photoreceptor GPCR in vertebrate retina rod cells, responsible 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">-</span><span class="topo-outside">MCGTEGPNFYVPFSNKTGVVRSPFEAPQYYLAEPWQFS</span><span class="topo-membrane">MLAAYMFLLIMLGFPINFLTL</span></span>
-<span class="topo-line"><span class="topo-membrane">YVTVQ</span><span class="topo-inside">HKKLRTP</span><span class="topo-membrane">LNYILLNLAVADLFMVFGGFTTTLY</span><span class="topo-outside">TSLHGYFVFGPTGCN</span><span class="topo-membrane">LEGFFATL</span></span>
-<span class="topo-line"><span class="topo-membrane">GGEIALWSLVVLAIERYV</span><span class="topo-inside">VVCKPMSNFRFGE</span><span class="topo-membrane">NHAIMGVAFTWVMALACAAPPLV</span><span class="topo-outside">GWSRYI</span></span>
-<span class="topo-line"><span class="topo-outside">PEGMQCSCGIDYYTPHEETNNES</span><span class="topo-membrane">FVIYMFVVHFIIPLIVIFFCYGQLVF</span><span class="topo-inside">TVKEAAAQQQE</span></span>
-<span class="topo-line"><span class="topo-inside">SATTQKAEKEV</span><span class="topo-membrane">TRMVIIMVIAFLICWLPYAGVAFY</span><span class="topo-outside">IFTHQGSCFGPIFM</span><span class="topo-membrane">TIPAFFAKTSA</span></span>
-<span class="topo-line"><span class="topo-membrane">VYNPVIYIMMN</span><span class="topo-inside">KQFRNCMVTTLCCGKN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">-</span><span class="topo-outside">MCGTEGPNFYVPFSNKTGVVRSPFEAPQYYLAEPWQFS</span><span class="topo-membrane">MLAAYMFLLIMLGFPINFLTLYVTVQ</span><span class="topo-inside">HKKLRTP</span><span class="topo-membrane">LNYILLNLAVADLFMVFGGFTTTLY</span><span class="topo-outside">TSLHGYFVFGPTGCN</span><span class="topo-membrane">LEGFFATL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GGEIALWSLVVLAIERYV</span><span class="topo-inside">VVCKPMSNFRFGE</span><span class="topo-membrane">NHAIMGVAFTWVMALACAAPPLV</span><span class="topo-outside">GWSRYIPEGMQCSCGIDYYTPHEETNNES</span><span class="topo-membrane">FVIYMFVVHFIIPLIVIFFCYGQLVF</span><span class="topo-inside">TVKEAAAQQQE</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       </span>
+<span class="topo-line"><span class="topo-inside">SATTQKAEKEV</span><span class="topo-membrane">TRMVIIMVIAFLICWLPYAGVAFY</span><span class="topo-outside">IFTHQGSCFGPIFM</span><span class="topo-membrane">TIPAFFAKTSAVYNPVIYIMMN</span><span class="topo-inside">KQFRNCMVTTLCCGKN</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2702,6 +2632,7 @@ Rhodopsin is the photoreceptor GPCR in vertebrate retina rod cells, responsible 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2717,12 +2648,13 @@ Rhodopsin is the photoreceptor GPCR in vertebrate retina rod cells, responsible 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">-</span><span class="topo-outside">MCGTEGPNFYVPFSNKTGVVRSPFEAPQYYLAEPWQFSMLAA</span><span class="topo-membrane">YMFLLIMLGFPINFLTL</span></span>
-<span class="topo-line"><span class="topo-membrane">YVTVQH</span><span class="topo-inside">KKLRTP</span><span class="topo-membrane">LNYILLNLAVADLFMVFGGFT</span><span class="topo-outside">TTLYTSLHGYFVFGPTGCNLEG</span><span class="topo-membrane">FFATL</span></span>
-<span class="topo-line"><span class="topo-membrane">GGEIALWSLVVLAIERY</span><span class="topo-inside">VVVCKPMSNFRFGE</span><span class="topo-membrane">NHAIMGVAFTWVMALACAAP</span><span class="topo-outside">PLVGWSRYI</span></span>
-<span class="topo-line"><span class="topo-outside">PEGMQCSCGIDYYTPHEETNNES</span><span class="topo-membrane">FVIYMFVVHFIIPLIVIFFCYG</span><span class="topo-inside">QLVFTVKEAAAQQQE</span></span>
-<span class="topo-line"><span class="topo-inside">SATTQKAEKEVTR</span><span class="topo-membrane">MVIIMVIAFLICWLPYAGVAFY</span><span class="topo-outside">IFTHQGSCFGPIFM</span><span class="topo-membrane">TIPAFFAKTSA</span></span>
-<span class="topo-line"><span class="topo-membrane">VYNPVIYIMMN</span><span class="topo-inside">KQFRNCMVTTLCCGKN</span><span class="topo-unknown">PLGDDEASTTVSKTETSQVAPA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">-</span><span class="topo-outside">MCGTEGPNFYVPFSNKTGVVRSPFEAPQYYLAEPWQFSMLAA</span><span class="topo-membrane">YMFLLIMLGFPINFLTLYVTVQH</span><span class="topo-inside">KKLRTP</span><span class="topo-membrane">LNYILLNLAVADLFMVFGGFT</span><span class="topo-outside">TTLYTSLHGYFVFGPTGCNLEG</span><span class="topo-membrane">FFATL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GGEIALWSLVVLAIERY</span><span class="topo-inside">VVVCKPMSNFRFGE</span><span class="topo-membrane">NHAIMGVAFTWVMALACAAP</span><span class="topo-outside">PLVGWSRYIPEGMQCSCGIDYYTPHEETNNES</span><span class="topo-membrane">FVIYMFVVHFIIPLIVIFFCYG</span><span class="topo-inside">QLVFTVKEAAAQQQE</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340         </span>
+<span class="topo-line"><span class="topo-inside">SATTQKAEKEVTR</span><span class="topo-membrane">MVIIMVIAFLICWLPYAGVAFY</span><span class="topo-outside">IFTHQGSCFGPIFM</span><span class="topo-membrane">TIPAFFAKTSAVYNPVIYIMMN</span><span class="topo-inside">KQFRNCMVTTLCCGKN</span><span class="topo-unknown">PLGDDEASTTVSKTETSQVAPA</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2846,6 +2778,7 @@ Rhodopsin is the photoreceptor GPCR in vertebrate retina rod cells, responsible 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2861,12 +2794,13 @@ Rhodopsin is the photoreceptor GPCR in vertebrate retina rod cells, responsible 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">-</span><span class="topo-outside">MCGTEGPNFYVPFSNKTGVVRSPFEAPQYYLAEPWQFSMLAA</span><span class="topo-membrane">YMFLLIMLGFPINFLTL</span></span>
-<span class="topo-line"><span class="topo-membrane">YVTVQH</span><span class="topo-inside">KKLRTP</span><span class="topo-membrane">LNYILLNLAVADLFMVFGGFT</span><span class="topo-outside">TTLYTSLHGYFVFGPTGCNLEG</span><span class="topo-membrane">FFATL</span></span>
-<span class="topo-line"><span class="topo-membrane">GGEIALWSLVVLAIERY</span><span class="topo-inside">VVVCKPMSNFRFGE</span><span class="topo-membrane">NHAIMGVAFTWVMALACAAP</span><span class="topo-outside">PLVGWSRYI</span></span>
-<span class="topo-line"><span class="topo-outside">PEGMQCSCGIDYYTPHEETNNES</span><span class="topo-membrane">FVIYMFVVHFIIPLIVIFFCYG</span><span class="topo-inside">QLVFTVKEAAAQQQE</span></span>
-<span class="topo-line"><span class="topo-inside">SATTQKAEKEVTR</span><span class="topo-membrane">MVIIMVIAFLICWLPYAGVAFY</span><span class="topo-outside">IFTHQGSCFGPIFM</span><span class="topo-membrane">TIPAFFAKTSA</span></span>
-<span class="topo-line"><span class="topo-membrane">VYNPVIYIMMN</span><span class="topo-inside">KQFRNCMVTTLCCGKN</span><span class="topo-unknown">PLGDDEASTTVSKTETSQVAPA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">-</span><span class="topo-outside">MCGTEGPNFYVPFSNKTGVVRSPFEAPQYYLAEPWQFSMLAA</span><span class="topo-membrane">YMFLLIMLGFPINFLTLYVTVQH</span><span class="topo-inside">KKLRTP</span><span class="topo-membrane">LNYILLNLAVADLFMVFGGFT</span><span class="topo-outside">TTLYTSLHGYFVFGPTGCNLEG</span><span class="topo-membrane">FFATL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GGEIALWSLVVLAIERY</span><span class="topo-inside">VVVCKPMSNFRFGE</span><span class="topo-membrane">NHAIMGVAFTWVMALACAAP</span><span class="topo-outside">PLVGWSRYIPEGMQCSCGIDYYTPHEETNNES</span><span class="topo-membrane">FVIYMFVVHFIIPLIVIFFCYG</span><span class="topo-inside">QLVFTVKEAAAQQQE</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340         </span>
+<span class="topo-line"><span class="topo-inside">SATTQKAEKEVTR</span><span class="topo-membrane">MVIIMVIAFLICWLPYAGVAFY</span><span class="topo-outside">IFTHQGSCFGPIFM</span><span class="topo-membrane">TIPAFFAKTSAVYNPVIYIMMN</span><span class="topo-inside">KQFRNCMVTTLCCGKN</span><span class="topo-unknown">PLGDDEASTTVSKTETSQVAPA</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2990,6 +2924,7 @@ Rhodopsin is the photoreceptor GPCR in vertebrate retina rod cells, responsible 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3005,12 +2940,13 @@ Rhodopsin is the photoreceptor GPCR in vertebrate retina rod cells, responsible 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">-</span><span class="topo-inside">MCGTEGPNFYVPFSNKTGVVRSPFEAPQYYLAEPW</span><span class="topo-membrane">QFSMLAAYMFLLIMLGFPINFLTL</span></span>
-<span class="topo-line"><span class="topo-membrane">YVTVQ</span><span class="topo-outside">HKKLRTPLN</span><span class="topo-membrane">YILLNLAVADLFMVFGGFTTTLYTSL</span><span class="topo-inside">HGYFVFGPTG</span><span class="topo-membrane">CNLEGFFATL</span></span>
-<span class="topo-line"><span class="topo-membrane">GGEIALWSLVVLAIE</span><span class="topo-outside">RYVVVCKPMSNFRFGEN</span><span class="topo-membrane">HAIMGVAFTWVMALACAAPPLVGWS</span><span class="topo-inside">RYI</span></span>
-<span class="topo-line"><span class="topo-inside">PEGMQCSCGIDYYTPHEETN</span><span class="topo-membrane">NESFVIYMFVVHFIIPLIVIFFCYG</span><span class="topo-outside">QLVFTVKEAAAQQQE</span></span>
-<span class="topo-line"><span class="topo-outside">SATTQKAEKEVTRMV</span><span class="topo-membrane">IIMVIAFLICWLPYAGVAFYIFTHQ</span><span class="topo-inside">GSCFGP</span><span class="topo-membrane">IFMTIPAFFAKTSA</span></span>
-<span class="topo-line"><span class="topo-membrane">VYNPVIYIMM</span><span class="topo-outside">NKQFRNCMVTTLCCGKN</span><span class="topo-unknown">PLGDDEASTTVSKTETSQVAPA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">-</span><span class="topo-inside">MCGTEGPNFYVPFSNKTGVVRSPFEAPQYYLAEPW</span><span class="topo-membrane">QFSMLAAYMFLLIMLGFPINFLTLYVTVQ</span><span class="topo-outside">HKKLRTPLN</span><span class="topo-membrane">YILLNLAVADLFMVFGGFTTTLYTSL</span><span class="topo-inside">HGYFVFGPTG</span><span class="topo-membrane">CNLEGFFATL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GGEIALWSLVVLAIE</span><span class="topo-outside">RYVVVCKPMSNFRFGEN</span><span class="topo-membrane">HAIMGVAFTWVMALACAAPPLVGWS</span><span class="topo-inside">RYIPEGMQCSCGIDYYTPHEETN</span><span class="topo-membrane">NESFVIYMFVVHFIIPLIVIFFCYG</span><span class="topo-outside">QLVFTVKEAAAQQQE</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340         </span>
+<span class="topo-line"><span class="topo-outside">SATTQKAEKEVTRMV</span><span class="topo-membrane">IIMVIAFLICWLPYAGVAFYIFTHQ</span><span class="topo-inside">GSCFGP</span><span class="topo-membrane">IFMTIPAFFAKTSAVYNPVIYIMM</span><span class="topo-outside">NKQFRNCMVTTLCCGKN</span><span class="topo-unknown">PLGDDEASTTVSKTETSQVAPA</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3134,6 +3070,7 @@ Rhodopsin is the photoreceptor GPCR in vertebrate retina rod cells, responsible 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3149,12 +3086,13 @@ Rhodopsin is the photoreceptor GPCR in vertebrate retina rod cells, responsible 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">-</span><span class="topo-outside">MCGTEGPNFYVPFSNKTGVVRSPFEAPQYYLAEPWQFS</span><span class="topo-membrane">MLAAYMFLLIMLGFPINFLTL</span></span>
-<span class="topo-line"><span class="topo-membrane">YVTVQ</span><span class="topo-inside">HKKL</span><span class="topo-membrane">RTPLNYILLNLAVADLFMVFGGFTTTLY</span><span class="topo-outside">TSLHGYFVFGPTGCNL</span><span class="topo-membrane">EGFFATL</span></span>
-<span class="topo-line"><span class="topo-membrane">GGEIALWSLVVLAIERYV</span><span class="topo-inside">VVCKPMSNFRF</span><span class="topo-membrane">GENHAIMGVAFTWVMALACAAP</span><span class="topo-outside">PLVGWSRYI</span></span>
-<span class="topo-line"><span class="topo-outside">PEGMQCSCGIDYYTPHEETNNESF</span><span class="topo-membrane">VIYMFVVHFIIPLIVIFFCYGQLV</span><span class="topo-inside">FTVKEAAAQQQE</span></span>
-<span class="topo-line"><span class="topo-inside">SATTQKAEKEVT</span><span class="topo-membrane">RMVIIMVIAFLICWLPYAGVAFYIFT</span><span class="topo-outside">HQGSCFGPIF</span><span class="topo-membrane">MTIPAFFAKTSA</span></span>
-<span class="topo-line"><span class="topo-membrane">VYNPVIYIMMN</span><span class="topo-inside">KQFRNCMVTTLCCGKN</span><span class="topo-unknown">PLGDDEASTTVSKTETSQVAPA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">-</span><span class="topo-outside">MCGTEGPNFYVPFSNKTGVVRSPFEAPQYYLAEPWQFS</span><span class="topo-membrane">MLAAYMFLLIMLGFPINFLTLYVTVQ</span><span class="topo-inside">HKKL</span><span class="topo-membrane">RTPLNYILLNLAVADLFMVFGGFTTTLY</span><span class="topo-outside">TSLHGYFVFGPTGCNL</span><span class="topo-membrane">EGFFATL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GGEIALWSLVVLAIERYV</span><span class="topo-inside">VVCKPMSNFRF</span><span class="topo-membrane">GENHAIMGVAFTWVMALACAAP</span><span class="topo-outside">PLVGWSRYIPEGMQCSCGIDYYTPHEETNNESF</span><span class="topo-membrane">VIYMFVVHFIIPLIVIFFCYGQLV</span><span class="topo-inside">FTVKEAAAQQQE</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340         </span>
+<span class="topo-line"><span class="topo-inside">SATTQKAEKEVT</span><span class="topo-membrane">RMVIIMVIAFLICWLPYAGVAFYIFT</span><span class="topo-outside">HQGSCFGPIF</span><span class="topo-membrane">MTIPAFFAKTSAVYNPVIYIMMN</span><span class="topo-inside">KQFRNCMVTTLCCGKN</span><span class="topo-unknown">PLGDDEASTTVSKTETSQVAPA</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3278,6 +3216,7 @@ Rhodopsin is the photoreceptor GPCR in vertebrate retina rod cells, responsible 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3293,12 +3232,13 @@ Rhodopsin is the photoreceptor GPCR in vertebrate retina rod cells, responsible 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">-</span><span class="topo-outside">MCGTEGPNFYVPFSNKTGVVRSPFEAPQYYLAEPWQFSML</span><span class="topo-membrane">AAYMFLLIMLGFPINFLTL</span></span>
-<span class="topo-line"><span class="topo-membrane">YVTV</span><span class="topo-inside">QHKKLRTPLNY</span><span class="topo-membrane">ILLNLAVADLFMVFGGFTTTL</span><span class="topo-outside">YTSLHGYFVFGPTGCN</span><span class="topo-membrane">LEGFFATL</span></span>
-<span class="topo-line"><span class="topo-membrane">GGEIALWSLVVLAI</span><span class="topo-inside">ERYVVVCKPMSNFRFGENHAI</span><span class="topo-membrane">MGVAFTWVMALACAAPPLVGWS</span><span class="topo-outside">RYI</span></span>
-<span class="topo-line"><span class="topo-outside">PEGMQCSCGIDYYTPHEETNN</span><span class="topo-membrane">ESFVIYMFVVHFIIPLIVIFF</span><span class="topo-inside">CYGQLVFTVKEAAAQQQE</span></span>
-<span class="topo-line"><span class="topo-inside">SATTQKAEKEVTRMVI</span><span class="topo-membrane">IMVIAFLICWLPYAGVAFYIFT</span><span class="topo-outside">HQGSCFGPIF</span><span class="topo-membrane">MTIPAFFAKTSA</span></span>
-<span class="topo-line"><span class="topo-membrane">VYNPVIYIMM</span><span class="topo-inside">NKQFRNCMVTTLCCGKN</span><span class="topo-unknown">PLGDDEASTTVSKTETSQVAPA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">-</span><span class="topo-outside">MCGTEGPNFYVPFSNKTGVVRSPFEAPQYYLAEPWQFSML</span><span class="topo-membrane">AAYMFLLIMLGFPINFLTLYVTV</span><span class="topo-inside">QHKKLRTPLNY</span><span class="topo-membrane">ILLNLAVADLFMVFGGFTTTL</span><span class="topo-outside">YTSLHGYFVFGPTGCN</span><span class="topo-membrane">LEGFFATL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GGEIALWSLVVLAI</span><span class="topo-inside">ERYVVVCKPMSNFRFGENHAI</span><span class="topo-membrane">MGVAFTWVMALACAAPPLVGWS</span><span class="topo-outside">RYIPEGMQCSCGIDYYTPHEETNN</span><span class="topo-membrane">ESFVIYMFVVHFIIPLIVIFF</span><span class="topo-inside">CYGQLVFTVKEAAAQQQE</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340         </span>
+<span class="topo-line"><span class="topo-inside">SATTQKAEKEVTRMVI</span><span class="topo-membrane">IMVIAFLICWLPYAGVAFYIFT</span><span class="topo-outside">HQGSCFGPIF</span><span class="topo-membrane">MTIPAFFAKTSAVYNPVIYIMM</span><span class="topo-inside">NKQFRNCMVTTLCCGKN</span><span class="topo-unknown">PLGDDEASTTVSKTETSQVAPA</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3422,6 +3362,7 @@ Rhodopsin is the photoreceptor GPCR in vertebrate retina rod cells, responsible 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3437,12 +3378,13 @@ Rhodopsin is the photoreceptor GPCR in vertebrate retina rod cells, responsible 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">-</span><span class="topo-outside">MCGTEGPNFYVPFSNKTGVVRSPFEAPQYYLAEPWQFS</span><span class="topo-membrane">MLAAYMFLLIMLGFPINFLTL</span></span>
-<span class="topo-line"><span class="topo-membrane">YVTV</span><span class="topo-inside">QHKKLRTP</span><span class="topo-membrane">LNYILLNLAVADLFMVFGGFTTTLYTS</span><span class="topo-outside">LHGYFVFGPTGCN</span><span class="topo-membrane">LEGFFATL</span></span>
-<span class="topo-line"><span class="topo-membrane">GGEIALWSLVVLAIERYV</span><span class="topo-inside">VVCKPMSNFRFGE</span><span class="topo-membrane">NHAIMGVAFTWVMALACAAPPLV</span><span class="topo-outside">GWSRYI</span></span>
-<span class="topo-line"><span class="topo-outside">PEGMQCSCGIDYYTPHEETNNES</span><span class="topo-membrane">FVIYMFVVHFIIPLIVIFFCYGQLVF</span><span class="topo-inside">TVKEAAAQQQE</span></span>
-<span class="topo-line"><span class="topo-inside">SATTQKAEKEV</span><span class="topo-membrane">TRMVIIMVIAFLICWLPYAGVAFY</span><span class="topo-outside">IFTHQGSCFGPIFM</span><span class="topo-membrane">TIPAFFAKTSA</span></span>
-<span class="topo-line"><span class="topo-membrane">VYNPVIYIMMN</span><span class="topo-unknown">KQFRNCMVTT</span><span class="topo-inside">LCCGKNPL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">-</span><span class="topo-outside">MCGTEGPNFYVPFSNKTGVVRSPFEAPQYYLAEPWQFS</span><span class="topo-membrane">MLAAYMFLLIMLGFPINFLTLYVTV</span><span class="topo-inside">QHKKLRTP</span><span class="topo-membrane">LNYILLNLAVADLFMVFGGFTTTLYTS</span><span class="topo-outside">LHGYFVFGPTGCN</span><span class="topo-membrane">LEGFFATL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GGEIALWSLVVLAIERYV</span><span class="topo-inside">VVCKPMSNFRFGE</span><span class="topo-membrane">NHAIMGVAFTWVMALACAAPPLV</span><span class="topo-outside">GWSRYIPEGMQCSCGIDYYTPHEETNNES</span><span class="topo-membrane">FVIYMFVVHFIIPLIVIFFCYGQLVF</span><span class="topo-inside">TVKEAAAQQQE</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320         </span>
+<span class="topo-line"><span class="topo-inside">SATTQKAEKEV</span><span class="topo-membrane">TRMVIIMVIAFLICWLPYAGVAFY</span><span class="topo-outside">IFTHQGSCFGPIFM</span><span class="topo-membrane">TIPAFFAKTSAVYNPVIYIMMN</span><span class="topo-unknown">KQFRNCMVTT</span><span class="topo-inside">LCCGKNPL</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3573,6 +3515,7 @@ Rhodopsin is the photoreceptor GPCR in vertebrate retina rod cells, responsible 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3588,12 +3531,13 @@ Rhodopsin is the photoreceptor GPCR in vertebrate retina rod cells, responsible 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">-</span><span class="topo-inside">MCGTEGPNFYVPFSNKTGVVRSPFEAPQYYLAEPW</span><span class="topo-membrane">QFSMLAAYMFLLIMLGFPINFLTL</span></span>
-<span class="topo-line"><span class="topo-membrane">YVTVQ</span><span class="topo-outside">HKKLR</span><span class="topo-membrane">TPLNYILLNLAVADLFMVFGGFTTTLYTSL</span><span class="topo-inside">HGYFVFGPTGCN</span><span class="topo-membrane">LEGFFATL</span></span>
-<span class="topo-line"><span class="topo-membrane">GGEIALWSLVVLAIERYV</span><span class="topo-outside">VVCKPMSNFRF</span><span class="topo-membrane">GENHAIMGVAFTWVMALACAAPPL</span><span class="topo-inside">VGWSRYI</span></span>
-<span class="topo-line"><span class="topo-inside">PEGMQCSCGIDYYTPHEETNNES</span><span class="topo-membrane">FVIYMFVVHFIIPLIVIFFCYGQL</span><span class="topo-outside">VFTVKEAAAQQQE</span></span>
-<span class="topo-line"><span class="topo-outside">SATTQKAEKEVTR</span><span class="topo-membrane">MVIIMVIAFLICWLPYAGVAFYIFTH</span><span class="topo-inside">QGSCFGPI</span><span class="topo-membrane">FMTIPAFFAKTSA</span></span>
-<span class="topo-line"><span class="topo-membrane">VYNPVIYIMMN</span><span class="topo-outside">KQFRNCMVTTLCCGKN</span><span class="topo-unknown">PLGDDEASTTVSKTETSQVAPA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">-</span><span class="topo-inside">MCGTEGPNFYVPFSNKTGVVRSPFEAPQYYLAEPW</span><span class="topo-membrane">QFSMLAAYMFLLIMLGFPINFLTLYVTVQ</span><span class="topo-outside">HKKLR</span><span class="topo-membrane">TPLNYILLNLAVADLFMVFGGFTTTLYTSL</span><span class="topo-inside">HGYFVFGPTGCN</span><span class="topo-membrane">LEGFFATL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GGEIALWSLVVLAIERYV</span><span class="topo-outside">VVCKPMSNFRF</span><span class="topo-membrane">GENHAIMGVAFTWVMALACAAPPL</span><span class="topo-inside">VGWSRYIPEGMQCSCGIDYYTPHEETNNES</span><span class="topo-membrane">FVIYMFVVHFIIPLIVIFFCYGQL</span><span class="topo-outside">VFTVKEAAAQQQE</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340         </span>
+<span class="topo-line"><span class="topo-outside">SATTQKAEKEVTR</span><span class="topo-membrane">MVIIMVIAFLICWLPYAGVAFYIFTH</span><span class="topo-inside">QGSCFGPI</span><span class="topo-membrane">FMTIPAFFAKTSAVYNPVIYIMMN</span><span class="topo-outside">KQFRNCMVTTLCCGKN</span><span class="topo-unknown">PLGDDEASTTVSKTETSQVAPA</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3717,6 +3661,7 @@ Rhodopsin is the photoreceptor GPCR in vertebrate retina rod cells, responsible 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3732,12 +3677,13 @@ Rhodopsin is the photoreceptor GPCR in vertebrate retina rod cells, responsible 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">-</span><span class="topo-outside">MCGTEGPNFYVPFSNKTGVVRSPFEAPQYYLAEPWQFSM</span><span class="topo-membrane">LAAYMFLLIMLGFPINFLTL</span></span>
-<span class="topo-line"><span class="topo-membrane">YVTVQ</span><span class="topo-inside">HKKLRTPL</span><span class="topo-membrane">NYILLNLAVADLFMVFGGFTTTLY</span><span class="topo-outside">TSLHGYFVFGPTG</span><span class="topo-membrane">CNLEGFFATL</span></span>
-<span class="topo-line"><span class="topo-membrane">GGEIALWSLVVLAIERY</span><span class="topo-inside">VVVCKPMSNFRFGEN</span><span class="topo-membrane">HAIMGVAFTWVMALACAAPPLVGWSRY</span><span class="topo-outside">I</span></span>
-<span class="topo-line"><span class="topo-outside">PEGMQCSCGIDYYTPHEETNN</span><span class="topo-membrane">ESFVIYMFVVHFIIPLIVIFFCYGQLV</span><span class="topo-inside">FTVKEAAAQQQE</span></span>
-<span class="topo-line"><span class="topo-inside">SATTQKAEKEVT</span><span class="topo-membrane">RMVIIMVIAFLICWLPYAGVAFYIFT</span><span class="topo-outside">HQGSCFGPIFM</span><span class="topo-membrane">TIPAFFAKTSA</span></span>
-<span class="topo-line"><span class="topo-membrane">VYNPVIYIMMN</span><span class="topo-inside">KQFRNCMVTTLCCGKN</span><span class="topo-unknown">PLGDDEASTTVSKTETSQVAPA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">-</span><span class="topo-outside">MCGTEGPNFYVPFSNKTGVVRSPFEAPQYYLAEPWQFSM</span><span class="topo-membrane">LAAYMFLLIMLGFPINFLTLYVTVQ</span><span class="topo-inside">HKKLRTPL</span><span class="topo-membrane">NYILLNLAVADLFMVFGGFTTTLY</span><span class="topo-outside">TSLHGYFVFGPTG</span><span class="topo-membrane">CNLEGFFATL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GGEIALWSLVVLAIERY</span><span class="topo-inside">VVVCKPMSNFRFGEN</span><span class="topo-membrane">HAIMGVAFTWVMALACAAPPLVGWSRY</span><span class="topo-outside">IPEGMQCSCGIDYYTPHEETNN</span><span class="topo-membrane">ESFVIYMFVVHFIIPLIVIFFCYGQLV</span><span class="topo-inside">FTVKEAAAQQQE</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340         </span>
+<span class="topo-line"><span class="topo-inside">SATTQKAEKEVT</span><span class="topo-membrane">RMVIIMVIAFLICWLPYAGVAFYIFT</span><span class="topo-outside">HQGSCFGPIFM</span><span class="topo-membrane">TIPAFFAKTSAVYNPVIYIMMN</span><span class="topo-inside">KQFRNCMVTTLCCGKN</span><span class="topo-unknown">PLGDDEASTTVSKTETSQVAPA</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3861,6 +3807,7 @@ Rhodopsin is the photoreceptor GPCR in vertebrate retina rod cells, responsible 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3993,12 +3940,13 @@ Rhodopsin is the photoreceptor GPCR in vertebrate retina rod cells, responsible 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MNGTEGPNFYVPFSNKTGVVRSPFEAPQYYLAEPW</span><span class="topo-membrane">QFSMLAAYMFLLIMLGFPINFLTLY</span></span>
-<span class="topo-line"><span class="topo-membrane">VTVQ</span><span class="topo-outside">HKKLRTP</span><span class="topo-membrane">LNYILLNLAVADLFMVFGGFTTTLYTSL</span><span class="topo-inside">HGYFVFGPTG</span><span class="topo-membrane">CNLEGFFATLG</span></span>
-<span class="topo-line"><span class="topo-membrane">GEIALWSLVVLAIE</span><span class="topo-outside">RYVVVCKPMSNFR</span><span class="topo-unknown">FGEN</span><span class="topo-membrane">HAIMGVAFTWVMALACAAPPLV</span><span class="topo-inside">GWSRYIP</span></span>
-<span class="topo-line"><span class="topo-inside">EGMQCSCGIDYYTPHEETNN</span><span class="topo-membrane">ESFVIYMFVVHFIIPLIVIFFCYG</span><span class="topo-outside">QLVFTV</span><span class="topo-unknown">KEAAAQQQES</span></span>
-<span class="topo-line"><span class="topo-outside">ATTQKAEKEVTRM</span><span class="topo-membrane">VIIMVIAFLICWLPYAGVAFYIFTH</span><span class="topo-inside">QGSDF</span><span class="topo-membrane">GPIFMTIPAFFAKTSAV</span></span>
-<span class="topo-line"><span class="topo-membrane">YNPVIYIM</span><span class="topo-outside">MNKQFRNCMVTTLCC</span><span class="topo-unknown">GKNPLGDDEASTTVSKTETSQVAPA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">MNGTEGPNFYVPFSNKTGVVRSPFEAPQYYLAEPW</span><span class="topo-membrane">QFSMLAAYMFLLIMLGFPINFLTLYVTVQ</span><span class="topo-outside">HKKLRTP</span><span class="topo-membrane">LNYILLNLAVADLFMVFGGFTTTLYTSL</span><span class="topo-inside">HGYFVFGPTG</span><span class="topo-membrane">CNLEGFFATLG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GEIALWSLVVLAIE</span><span class="topo-outside">RYVVVCKPMSNFR</span><span class="topo-unknown">FGEN</span><span class="topo-membrane">HAIMGVAFTWVMALACAAPPLV</span><span class="topo-inside">GWSRYIPEGMQCSCGIDYYTPHEETNN</span><span class="topo-membrane">ESFVIYMFVVHFIIPLIVIFFCYG</span><span class="topo-outside">QLVFTV</span><span class="topo-unknown">KEAAAQQQES</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340        </span>
+<span class="topo-line"><span class="topo-outside">ATTQKAEKEVTRM</span><span class="topo-membrane">VIIMVIAFLICWLPYAGVAFYIFTH</span><span class="topo-inside">QGSDF</span><span class="topo-membrane">GPIFMTIPAFFAKTSAVYNPVIYIM</span><span class="topo-outside">MNKQFRNCMVTTLCC</span><span class="topo-unknown">GKNPLGDDEASTTVSKTETSQVAPA</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4143,6 +4091,7 @@ Rhodopsin is the photoreceptor GPCR in vertebrate retina rod cells, responsible 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4158,12 +4107,13 @@ Rhodopsin is the photoreceptor GPCR in vertebrate retina rod cells, responsible 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MNGTEGPNFYVPFSNKTGVVRSPFEAPQYYLAE</span><span class="topo-membrane">PWQFSMLAAYMFLLIMLGFPINFLTLY</span></span>
-<span class="topo-line"><span class="topo-membrane">VTVQ</span><span class="topo-outside">HKKLRTP</span><span class="topo-membrane">LNYILLNLAVADLFMVFGGFTTTLYTSL</span><span class="topo-inside">HGYFVFGPTG</span><span class="topo-membrane">CNLEGFFATLG</span></span>
-<span class="topo-line"><span class="topo-membrane">GEIALWSLVVLAIE</span><span class="topo-outside">RYVVVCKPMS</span><span class="topo-unknown">NFRF</span><span class="topo-outside">GE</span><span class="topo-membrane">NHAIMGVAFTWVMALACAAPPLV</span><span class="topo-inside">GWSRYIP</span></span>
-<span class="topo-line"><span class="topo-inside">EGMQCSCGIDYYTPHEETNN</span><span class="topo-membrane">ESFVIYMFVVHFIIPLIVIFFCYG</span><span class="topo-outside">QLVF</span><span class="topo-unknown">TVKEAAAQQQES</span></span>
-<span class="topo-line"><span class="topo-outside">ATTQKAEKEVTRM</span><span class="topo-membrane">VIIMVIAFLICWLPYAGVAFYIFTH</span><span class="topo-inside">QGSDF</span><span class="topo-membrane">GPIFMTIPAFFAKTSAV</span></span>
-<span class="topo-line"><span class="topo-membrane">YNPVIYIM</span><span class="topo-outside">MNKQFRNCMVTTLCC</span><span class="topo-unknown">GKNPLGDDEASTTVSKTETSQVAPA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">MNGTEGPNFYVPFSNKTGVVRSPFEAPQYYLAE</span><span class="topo-membrane">PWQFSMLAAYMFLLIMLGFPINFLTLYVTVQ</span><span class="topo-outside">HKKLRTP</span><span class="topo-membrane">LNYILLNLAVADLFMVFGGFTTTLYTSL</span><span class="topo-inside">HGYFVFGPTG</span><span class="topo-membrane">CNLEGFFATLG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GEIALWSLVVLAIE</span><span class="topo-outside">RYVVVCKPMS</span><span class="topo-unknown">NFRF</span><span class="topo-outside">GE</span><span class="topo-membrane">NHAIMGVAFTWVMALACAAPPLV</span><span class="topo-inside">GWSRYIPEGMQCSCGIDYYTPHEETNN</span><span class="topo-membrane">ESFVIYMFVVHFIIPLIVIFFCYG</span><span class="topo-outside">QLVF</span><span class="topo-unknown">TVKEAAAQQQES</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340        </span>
+<span class="topo-line"><span class="topo-outside">ATTQKAEKEVTRM</span><span class="topo-membrane">VIIMVIAFLICWLPYAGVAFYIFTH</span><span class="topo-inside">QGSDF</span><span class="topo-membrane">GPIFMTIPAFFAKTSAVYNPVIYIM</span><span class="topo-outside">MNKQFRNCMVTTLCC</span><span class="topo-unknown">GKNPLGDDEASTTVSKTETSQVAPA</span></span>
+<details class="topo-details"><summary>Topology coordinates (20 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4315,6 +4265,7 @@ Rhodopsin is the photoreceptor GPCR in vertebrate retina rod cells, responsible 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4330,12 +4281,13 @@ Rhodopsin is the photoreceptor GPCR in vertebrate retina rod cells, responsible 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MNGTEGPNFYVPFSNKTGVVRSPFEAPQYYLAEPWQFS</span><span class="topo-membrane">MLAAYMFLLIMLGFPINFLTLY</span></span>
-<span class="topo-line"><span class="topo-membrane">VTV</span><span class="topo-unknown">QHKKLR</span><span class="topo-outside">TPLN</span><span class="topo-membrane">YILLNLAVADLFMVFGGFTTTLY</span><span class="topo-inside">TSLHGYFVFGPTGCNL</span><span class="topo-membrane">EGFFATLG</span></span>
-<span class="topo-line"><span class="topo-membrane">GEIALWSLVVLAI</span><span class="topo-outside">ERYVVVCKPMSNFR</span><span class="topo-unknown">FGE</span><span class="topo-outside">NH</span><span class="topo-membrane">AIMGVAFTWVMALACAAP</span><span class="topo-inside">PLVGWSRYIP</span></span>
-<span class="topo-line"><span class="topo-inside">EGMQCSCGIDYYTPHEETNNESF</span><span class="topo-membrane">VIYMFVVHFIIPLIVIFFCY</span><span class="topo-outside">GQLVFTV</span><span class="topo-unknown">KEAAAQQQES</span></span>
-<span class="topo-line"><span class="topo-outside">ATTQKAEKEVTRMV</span><span class="topo-membrane">IIMVIAFLICWLPYAGVAFY</span><span class="topo-inside">IFTHQGSDFGPI</span><span class="topo-membrane">FMTIPAFFAKTSAV</span></span>
-<span class="topo-line"><span class="topo-membrane">YNPVIY</span><span class="topo-outside">IMMNKQFRNCMVTTLCC</span><span class="topo-unknown">GKNPLGDDEASTTVSKTETSQVAPA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">MNGTEGPNFYVPFSNKTGVVRSPFEAPQYYLAEPWQFS</span><span class="topo-membrane">MLAAYMFLLIMLGFPINFLTLYVTV</span><span class="topo-unknown">QHKKLR</span><span class="topo-outside">TPLN</span><span class="topo-membrane">YILLNLAVADLFMVFGGFTTTLY</span><span class="topo-inside">TSLHGYFVFGPTGCNL</span><span class="topo-membrane">EGFFATLG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GEIALWSLVVLAI</span><span class="topo-outside">ERYVVVCKPMSNFR</span><span class="topo-unknown">FGE</span><span class="topo-outside">NH</span><span class="topo-membrane">AIMGVAFTWVMALACAAP</span><span class="topo-inside">PLVGWSRYIPEGMQCSCGIDYYTPHEETNNESF</span><span class="topo-membrane">VIYMFVVHFIIPLIVIFFCY</span><span class="topo-outside">GQLVFTV</span><span class="topo-unknown">KEAAAQQQES</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340        </span>
+<span class="topo-line"><span class="topo-outside">ATTQKAEKEVTRMV</span><span class="topo-membrane">IIMVIAFLICWLPYAGVAFY</span><span class="topo-inside">IFTHQGSDFGPI</span><span class="topo-membrane">FMTIPAFFAKTSAVYNPVIY</span><span class="topo-outside">IMMNKQFRNCMVTTLCC</span><span class="topo-unknown">GKNPLGDDEASTTVSKTETSQVAPA</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4494,6 +4446,7 @@ Rhodopsin is the photoreceptor GPCR in vertebrate retina rod cells, responsible 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4509,12 +4462,13 @@ Rhodopsin is the photoreceptor GPCR in vertebrate retina rod cells, responsible 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MNGTEGPNFYVPFSNKTGVVRSPFEAPQYYLAEPW</span><span class="topo-membrane">QFSMLAAYMFLLIMLGFPINFLTLY</span></span>
-<span class="topo-line"><span class="topo-membrane">VTV</span><span class="topo-outside">QHKKLRTPLNY</span><span class="topo-membrane">ILLNLAVADLFMVFGGFTTTLY</span><span class="topo-inside">TSLHGYFVFGPTGCNL</span><span class="topo-membrane">EGFFATLG</span></span>
-<span class="topo-line"><span class="topo-membrane">GEIALWSLVVLAI</span><span class="topo-outside">ERYVVVCKPMS</span><span class="topo-unknown">NFRF</span><span class="topo-outside">GENHA</span><span class="topo-membrane">IMGVAFTWVMALACAAPP</span><span class="topo-inside">LVGWSRYIP</span></span>
-<span class="topo-line"><span class="topo-inside">EGMQCSCGIDYYTPHEETNNESF</span><span class="topo-membrane">VIYMFVVHFIIPLIVIFFC</span><span class="topo-outside">YGQLVF</span><span class="topo-unknown">TVKEAAAQQQES</span></span>
-<span class="topo-line"><span class="topo-outside">ATTQKAEKEVTRMVI</span><span class="topo-membrane">IMVIAFLICWLPYAGVAFYIFT</span><span class="topo-inside">HQGSDFGPI</span><span class="topo-membrane">FMTIPAFFAKTSAV</span></span>
-<span class="topo-line"><span class="topo-membrane">YNPVIY</span><span class="topo-outside">IMMNKQFRNCMVTTLCC</span><span class="topo-unknown">GKNPLGDDEASTTVSKTETSQVAPA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">MNGTEGPNFYVPFSNKTGVVRSPFEAPQYYLAEPW</span><span class="topo-membrane">QFSMLAAYMFLLIMLGFPINFLTLYVTV</span><span class="topo-outside">QHKKLRTPLNY</span><span class="topo-membrane">ILLNLAVADLFMVFGGFTTTLY</span><span class="topo-inside">TSLHGYFVFGPTGCNL</span><span class="topo-membrane">EGFFATLG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GEIALWSLVVLAI</span><span class="topo-outside">ERYVVVCKPMS</span><span class="topo-unknown">NFRF</span><span class="topo-outside">GENHA</span><span class="topo-membrane">IMGVAFTWVMALACAAPP</span><span class="topo-inside">LVGWSRYIPEGMQCSCGIDYYTPHEETNNESF</span><span class="topo-membrane">VIYMFVVHFIIPLIVIFFC</span><span class="topo-outside">YGQLVF</span><span class="topo-unknown">TVKEAAAQQQES</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340        </span>
+<span class="topo-line"><span class="topo-outside">ATTQKAEKEVTRMVI</span><span class="topo-membrane">IMVIAFLICWLPYAGVAFYIFT</span><span class="topo-inside">HQGSDFGPI</span><span class="topo-membrane">FMTIPAFFAKTSAVYNPVIY</span><span class="topo-outside">IMMNKQFRNCMVTTLCC</span><span class="topo-unknown">GKNPLGDDEASTTVSKTETSQVAPA</span></span>
+<details class="topo-details"><summary>Topology coordinates (20 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4666,6 +4620,7 @@ Rhodopsin is the photoreceptor GPCR in vertebrate retina rod cells, responsible 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4738,12 +4693,13 @@ Rhodopsin is the photoreceptor GPCR in vertebrate retina rod cells, responsible 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">-</span><span class="topo-outside">MNGTEGPNFYVPFSNKTGVVRSPFEAPQYYLAEPWQFS</span><span class="topo-membrane">MLAAYMFLLIMLGFPINFLTL</span></span>
-<span class="topo-line"><span class="topo-membrane">YVTVQ</span><span class="topo-inside">HKKLRTPL</span><span class="topo-membrane">NYILLNLAVADLFMVFGGFTTTLYTS</span><span class="topo-outside">LHGYFVFGPT</span><span class="topo-membrane">GCNLEGFFATL</span></span>
-<span class="topo-line"><span class="topo-membrane">GGEIALWSLVVLAI</span><span class="topo-inside">ERYVVVCKPMSNFRFGENHA</span><span class="topo-membrane">IMGVAFTWVMALACAAPPLVGWS</span><span class="topo-outside">RYI</span></span>
-<span class="topo-line"><span class="topo-outside">PEGMQCSCGIDYYTPHEETN</span><span class="topo-membrane">NESFVIYMFVVHFIIPLIVIFFCYG</span><span class="topo-inside">QLVFTVKEAAA</span><span class="topo-unknown">QQQE</span></span>
-<span class="topo-line"><span class="topo-unknown">S</span><span class="topo-inside">ATTQKAEKEVTR</span><span class="topo-membrane">MVIIMVIAFLICWLPYAGVAFYIFT</span><span class="topo-outside">HQGSDFGPI</span><span class="topo-membrane">FMTIPAFFAKTSA</span></span>
-<span class="topo-line"><span class="topo-membrane">VYNPVIYIMM</span><span class="topo-inside">NKQFRNCMVTTLCCGKNPLGD</span><span class="topo-unknown">DEA</span><span class="topo-inside">STTVSKTETSQVAPA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">-</span><span class="topo-outside">MNGTEGPNFYVPFSNKTGVVRSPFEAPQYYLAEPWQFS</span><span class="topo-membrane">MLAAYMFLLIMLGFPINFLTLYVTVQ</span><span class="topo-inside">HKKLRTPL</span><span class="topo-membrane">NYILLNLAVADLFMVFGGFTTTLYTS</span><span class="topo-outside">LHGYFVFGPT</span><span class="topo-membrane">GCNLEGFFATL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GGEIALWSLVVLAI</span><span class="topo-inside">ERYVVVCKPMSNFRFGENHA</span><span class="topo-membrane">IMGVAFTWVMALACAAPPLVGWS</span><span class="topo-outside">RYIPEGMQCSCGIDYYTPHEETN</span><span class="topo-membrane">NESFVIYMFVVHFIIPLIVIFFCYG</span><span class="topo-inside">QLVFTVKEAAA</span><span class="topo-unknown">QQQE</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340         </span>
+<span class="topo-line"><span class="topo-unknown">S</span><span class="topo-inside">ATTQKAEKEVTR</span><span class="topo-membrane">MVIIMVIAFLICWLPYAGVAFYIFT</span><span class="topo-outside">HQGSDFGPI</span><span class="topo-membrane">FMTIPAFFAKTSAVYNPVIYIMM</span><span class="topo-inside">NKQFRNCMVTTLCCGKNPLGD</span><span class="topo-unknown">DEA</span><span class="topo-inside">STTVSKTETSQVAPA</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4888,6 +4844,7 @@ Rhodopsin is the photoreceptor GPCR in vertebrate retina rod cells, responsible 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4964,12 +4921,13 @@ Rhodopsin is the photoreceptor GPCR in vertebrate retina rod cells, responsible 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">-</span><span class="topo-outside">MCGTEGPNFYVPFSNKTGVVRSPFEAPQYYLAEPWQFSMLAA</span><span class="topo-membrane">YMFLLIMLGFPINFLTL</span></span>
-<span class="topo-line"><span class="topo-membrane">YVTVQH</span><span class="topo-inside">KKLRTP</span><span class="topo-membrane">LNYILLNLAVADLFMVFGGFT</span><span class="topo-outside">TTLYTSLHGYFVFGPTGCNLE</span><span class="topo-membrane">GFFATL</span></span>
-<span class="topo-line"><span class="topo-membrane">GGEIALWSLVVLAIERY</span><span class="topo-inside">VVVCKPMSNFRFGE</span><span class="topo-membrane">NHAIMGVAFTWVMALACAAP</span><span class="topo-outside">PLVGWSRYI</span></span>
-<span class="topo-line"><span class="topo-outside">PEGMQCSCGIDYYTPHEETNNES</span><span class="topo-membrane">FVIYMFVVHFIIPLIVIFFCYG</span><span class="topo-inside">QLVFTVKEAAAQQQE</span></span>
-<span class="topo-line"><span class="topo-inside">SATTQKAEKEVTR</span><span class="topo-membrane">MVIIYVIAFLICWLPYAGVAFY</span><span class="topo-outside">IFTHQGSCFGPIFMTI</span><span class="topo-membrane">PAFFAKTSA</span></span>
-<span class="topo-line"><span class="topo-membrane">VYNPVIYIMMN</span><span class="topo-inside">KQFRNCMVTTLCCGKN</span><span class="topo-unknown">PLGDDEASTTVSKTETSQVAPA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">-</span><span class="topo-outside">MCGTEGPNFYVPFSNKTGVVRSPFEAPQYYLAEPWQFSMLAA</span><span class="topo-membrane">YMFLLIMLGFPINFLTLYVTVQH</span><span class="topo-inside">KKLRTP</span><span class="topo-membrane">LNYILLNLAVADLFMVFGGFT</span><span class="topo-outside">TTLYTSLHGYFVFGPTGCNLE</span><span class="topo-membrane">GFFATL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GGEIALWSLVVLAIERY</span><span class="topo-inside">VVVCKPMSNFRFGE</span><span class="topo-membrane">NHAIMGVAFTWVMALACAAP</span><span class="topo-outside">PLVGWSRYIPEGMQCSCGIDYYTPHEETNNES</span><span class="topo-membrane">FVIYMFVVHFIIPLIVIFFCYG</span><span class="topo-inside">QLVFTVKEAAAQQQE</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340         </span>
+<span class="topo-line"><span class="topo-inside">SATTQKAEKEVTR</span><span class="topo-membrane">MVIIYVIAFLICWLPYAGVAFY</span><span class="topo-outside">IFTHQGSCFGPIFMTI</span><span class="topo-membrane">PAFFAKTSAVYNPVIYIMMN</span><span class="topo-inside">KQFRNCMVTTLCCGKN</span><span class="topo-unknown">PLGDDEASTTVSKTETSQVAPA</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -5093,6 +5051,7 @@ Rhodopsin is the photoreceptor GPCR in vertebrate retina rod cells, responsible 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -5108,12 +5067,13 @@ Rhodopsin is the photoreceptor GPCR in vertebrate retina rod cells, responsible 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">-</span><span class="topo-outside">MCGTEGPNFYVPFSNKTGVVRSPFEAPQYYLAEPWQFSMLAA</span><span class="topo-membrane">YMFLLIMLGFPINFLTL</span></span>
-<span class="topo-line"><span class="topo-membrane">YVTVQH</span><span class="topo-inside">KKLRTP</span><span class="topo-membrane">LNYILLNLAVADLFMVFGGFT</span><span class="topo-outside">TTLYTSLHGYFVFGPTGCNLE</span><span class="topo-membrane">GFFATL</span></span>
-<span class="topo-line"><span class="topo-membrane">GGEIALWSLVVLAIERY</span><span class="topo-inside">VVVCKPMSNFRFGE</span><span class="topo-membrane">NHAIMGVAFTWVMALACAAP</span><span class="topo-outside">PLVGWSRYI</span></span>
-<span class="topo-line"><span class="topo-outside">PEGMQCSCGIDYYTPHEETNNES</span><span class="topo-membrane">FVIYMFVVHFIIPLIVIFFCYG</span><span class="topo-inside">QLVFTVKEAAAQQQE</span></span>
-<span class="topo-line"><span class="topo-inside">SATTQKAEKEVTR</span><span class="topo-membrane">MVIIYVIAFLICWLPYAGVAFY</span><span class="topo-outside">IFTHQGSCFGPIFMTI</span><span class="topo-membrane">PAFFAKTSA</span></span>
-<span class="topo-line"><span class="topo-membrane">VYNPVIYIMMN</span><span class="topo-inside">KQFRNCMVTTLCCGKN</span><span class="topo-unknown">PLGDDEASTTVSKTETSQVAPA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">-</span><span class="topo-outside">MCGTEGPNFYVPFSNKTGVVRSPFEAPQYYLAEPWQFSMLAA</span><span class="topo-membrane">YMFLLIMLGFPINFLTLYVTVQH</span><span class="topo-inside">KKLRTP</span><span class="topo-membrane">LNYILLNLAVADLFMVFGGFT</span><span class="topo-outside">TTLYTSLHGYFVFGPTGCNLE</span><span class="topo-membrane">GFFATL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GGEIALWSLVVLAIERY</span><span class="topo-inside">VVVCKPMSNFRFGE</span><span class="topo-membrane">NHAIMGVAFTWVMALACAAP</span><span class="topo-outside">PLVGWSRYIPEGMQCSCGIDYYTPHEETNNES</span><span class="topo-membrane">FVIYMFVVHFIIPLIVIFFCYG</span><span class="topo-inside">QLVFTVKEAAAQQQE</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340         </span>
+<span class="topo-line"><span class="topo-inside">SATTQKAEKEVTR</span><span class="topo-membrane">MVIIYVIAFLICWLPYAGVAFY</span><span class="topo-outside">IFTHQGSCFGPIFMTI</span><span class="topo-membrane">PAFFAKTSAVYNPVIYIMMN</span><span class="topo-inside">KQFRNCMVTTLCCGKN</span><span class="topo-unknown">PLGDDEASTTVSKTETSQVAPA</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -5237,6 +5197,7 @@ Rhodopsin is the photoreceptor GPCR in vertebrate retina rod cells, responsible 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -5294,12 +5255,13 @@ Rhodopsin is the photoreceptor GPCR in vertebrate retina rod cells, responsible 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MNGTEGPNFYVPFSNKTGVVRSPFEAPQYYLAEPWQFSM</span><span class="topo-membrane">LAAYMFLLIMLGFPINFLTLY</span></span>
-<span class="topo-line"><span class="topo-membrane">VTVQ</span><span class="topo-inside">HKKLRTP</span><span class="topo-membrane">LNYILLNLAVADLFMVFGGFTTTLY</span><span class="topo-outside">TSLHGYFVFGPT</span><span class="topo-membrane">GCNLEGFFATLG</span></span>
-<span class="topo-line"><span class="topo-membrane">GEIALWSLVVLAIERY</span><span class="topo-inside">VVVCKPMSNFRFGENH</span><span class="topo-membrane">AIMGVAFTWVMALACAAPPLVGWS</span><span class="topo-outside">RYIP</span></span>
-<span class="topo-line"><span class="topo-outside">EGMQCSCGIDYYTPHEETNNE</span><span class="topo-membrane">SFVIYMFVVHFIIPLIVIFFCYGQLVF</span><span class="topo-inside">TVKEAAAQQQES</span></span>
-<span class="topo-line"><span class="topo-inside">ATTQKAEKEV</span><span class="topo-membrane">TRMVIIMVIAFLICWLPYAGVAFY</span><span class="topo-outside">IFTHQGSDFGPIFM</span><span class="topo-membrane">TIPAFFAKTSAV</span></span>
-<span class="topo-line"><span class="topo-membrane">YNPVIYIMMN</span><span class="topo-inside">KQFRNCMVTTLCCGKN</span><span class="topo-unknown">PLG</span><span class="topo-inside">DD</span><span class="topo-unknown">EASTTVSKTETSQVAPA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MNGTEGPNFYVPFSNKTGVVRSPFEAPQYYLAEPWQFSM</span><span class="topo-membrane">LAAYMFLLIMLGFPINFLTLYVTVQ</span><span class="topo-inside">HKKLRTP</span><span class="topo-membrane">LNYILLNLAVADLFMVFGGFTTTLY</span><span class="topo-outside">TSLHGYFVFGPT</span><span class="topo-membrane">GCNLEGFFATLG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GEIALWSLVVLAIERY</span><span class="topo-inside">VVVCKPMSNFRFGENH</span><span class="topo-membrane">AIMGVAFTWVMALACAAPPLVGWS</span><span class="topo-outside">RYIPEGMQCSCGIDYYTPHEETNNE</span><span class="topo-membrane">SFVIYMFVVHFIIPLIVIFFCYGQLVF</span><span class="topo-inside">TVKEAAAQQQES</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340        </span>
+<span class="topo-line"><span class="topo-inside">ATTQKAEKEV</span><span class="topo-membrane">TRMVIIMVIAFLICWLPYAGVAFY</span><span class="topo-outside">IFTHQGSDFGPIFM</span><span class="topo-membrane">TIPAFFAKTSAVYNPVIYIMMN</span><span class="topo-inside">KQFRNCMVTTLCCGKN</span><span class="topo-unknown">PLG</span><span class="topo-inside">DD</span><span class="topo-unknown">EASTTVSKTETSQVAPA</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -5437,6 +5399,7 @@ Rhodopsin is the photoreceptor GPCR in vertebrate retina rod cells, responsible 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -5452,12 +5415,13 @@ Rhodopsin is the photoreceptor GPCR in vertebrate retina rod cells, responsible 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MCGTEGPNFYVPFSNKTGVVRSPFEAPQYYLAEPWQFS</span><span class="topo-membrane">MLAAYMFLLIMLGFPINFLTLY</span></span>
-<span class="topo-line"><span class="topo-membrane">VTVQ</span><span class="topo-inside">HKKLRTP</span><span class="topo-membrane">LNYILLNLAVADLFMVFGGFTTTLY</span><span class="topo-outside">TSLHGYFVFGPTG</span><span class="topo-membrane">CNLEGFFATLG</span></span>
-<span class="topo-line"><span class="topo-membrane">GEIALWSLVVLAIERY</span><span class="topo-inside">VVVCKPMSNFRFGEN</span><span class="topo-membrane">HAIMGVAFTWVMALACAAPPLVGWS</span><span class="topo-outside">RYIP</span></span>
-<span class="topo-line"><span class="topo-outside">EGMQCSCGIDYYTPHEETNNE</span><span class="topo-membrane">SFVIYMFVVHFIIPLIVIFFCYGQL</span><span class="topo-inside">VFTVKEAAAQQQES</span></span>
-<span class="topo-line"><span class="topo-inside">ATTQKAEKEVT</span><span class="topo-membrane">RMVIIMVIAFLICWLPYAGVAFYIFT</span><span class="topo-outside">HQGSCFGPIF</span><span class="topo-membrane">MTIPAFFAKTSAV</span></span>
-<span class="topo-line"><span class="topo-membrane">YNPVIYIMMN</span><span class="topo-unknown">KQFRNCMVTTLC</span><span class="topo-inside">CGKN</span><span class="topo-unknown">PLGDDEASTTVSKTETSQVAPA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MCGTEGPNFYVPFSNKTGVVRSPFEAPQYYLAEPWQFS</span><span class="topo-membrane">MLAAYMFLLIMLGFPINFLTLYVTVQ</span><span class="topo-inside">HKKLRTP</span><span class="topo-membrane">LNYILLNLAVADLFMVFGGFTTTLY</span><span class="topo-outside">TSLHGYFVFGPTG</span><span class="topo-membrane">CNLEGFFATLG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GEIALWSLVVLAIERY</span><span class="topo-inside">VVVCKPMSNFRFGEN</span><span class="topo-membrane">HAIMGVAFTWVMALACAAPPLVGWS</span><span class="topo-outside">RYIPEGMQCSCGIDYYTPHEETNNE</span><span class="topo-membrane">SFVIYMFVVHFIIPLIVIFFCYGQL</span><span class="topo-inside">VFTVKEAAAQQQES</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340        </span>
+<span class="topo-line"><span class="topo-inside">ATTQKAEKEVT</span><span class="topo-membrane">RMVIIMVIAFLICWLPYAGVAFYIFT</span><span class="topo-outside">HQGSCFGPIF</span><span class="topo-membrane">MTIPAFFAKTSAVYNPVIYIMMN</span><span class="topo-unknown">KQFRNCMVTTLC</span><span class="topo-inside">CGKN</span><span class="topo-unknown">PLGDDEASTTVSKTETSQVAPA</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -5588,6 +5552,7 @@ Rhodopsin is the photoreceptor GPCR in vertebrate retina rod cells, responsible 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -5634,16 +5599,6 @@ Rhodopsin is the photoreceptor GPCR in vertebrate retina rod cells, responsible 
   </tbody>
 </table>
 </details>
-=======
-| Parameter | Value |
-|---|---|
-| Method | Hanging-drop and sitting-drop vapor diffusion |
-| Protein sample | Rh6mr (bovine rhodopsin regenerated with 6-carbon-ring retinal) or [Opsin (Retinal-Free Rhodopsin Apoprotein)](/xray-mp-wiki/proteins/gpcr/opsin/), solubilized by zinc/alkyl-glucoside extraction method in 1% NG or 1% [OG](/xray-mp-wiki/reagents/detergents/og/), purified by [SEC](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) on [Superdex 200](/xray-mp-wiki/reagents/additives/superdex-200/) 10/300 GL in 50 mM [MES](/xray-mp-wiki/reagents/buffers/mes/) pH 6.4 with 1% NG or 1% [OG](/xray-mp-wiki/reagents/detergents/og/) |
-| Reservoir | 2.8-3.4 M ammonium sulfate in 0.05-0.1 M [MES](/xray-mp-wiki/reagents/buffers/mes/) pH 6.1-6.6 or 0.05-0.1 M NaAcO buffer pH 5.2-5.6 |
-| Temperature | 4 |
-| Cryoprotection | Crystals transferred directly from mother liquor into dual-thickness microloops and plunged into liquid nitrogen |
-| Notes | Crystals appeared after 4-5 days at 4 C, reaching 50-200 um in 7 days. [Opsin (Retinal-Free Rhodopsin Apoprotein)](/xray-mp-wiki/proteins/gpcr/opsin/) was crystallized under the same conditions excluding 6mr. B-factor sharpening (beta_shar = -178 A^2) applied to diffraction data. |
->>>>>>> d0e2c437136bdf2885afc6a99e0a9d4117821696
 
 
 ## Biological / Functional Insights

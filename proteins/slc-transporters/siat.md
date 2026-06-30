@@ -136,15 +136,17 @@ SiaT is a secondary active sialic acid transporter from the uropathogen Proteus 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MQLH</span><span class="topo-inside">DFGFINYA</span><span class="topo-membrane">VLFGYLAAMLLVGVYFSK</span><span class="topo-outside">RQKTADDYFRGGGRVPGW</span><span class="topo-membrane">AAGVSVFATTLS</span></span>
-<span class="topo-line"><span class="topo-membrane">SITFMSI</span><span class="topo-inside">PAKAYTSDW</span><span class="topo-membrane">TFIIGQYLAIAILPLV</span><span class="topo-outside">FYFY</span><span class="topo-unknown">IPFFRK</span><span class="topo-outside">LKITSAYEYLEARFDV</span><span class="topo-membrane">RS</span></span>
-<span class="topo-line"><span class="topo-membrane">RLFASLSFMLFHIGRVAIIT</span><span class="topo-inside">YLTVLALRPFMGIDPVVLI</span><span class="topo-membrane">VLISLLCIIYTWMGGIE</span><span class="topo-outside">G</span><span class="topo-membrane">VIW</span></span>
-<span class="topo-line"><span class="topo-membrane">TDVIQGLLLSGGAVLIFI</span><span class="topo-inside">MICFKVDG</span><span class="topo-unknown">GISEIFTTTAQ</span><span class="topo-inside">ADKFFPTTQWRWSWTDS</span><span class="topo-membrane">TIPVLM</span></span>
-<span class="topo-line"><span class="topo-membrane">IGFLFANIQQFTAS</span><span class="topo-outside">QDVVQRYIVTDSIKETKRT</span><span class="topo-membrane">LITNAKLVAIIPIFFFAI</span><span class="topo-inside">GSALFVYYQ</span></span>
-<span class="topo-line"><span class="topo-inside">QNPSLLPAGFN</span><span class="topo-unknown">TGGILPLFIVTE</span><span class="topo-inside">MPIGIAG</span><span class="topo-membrane">LIIAAIFAAAQSSISSSLNSISSCFNSDIY</span></span>
-<span class="topo-line"><span class="topo-outside">TRLSKSSPSPEQKM</span><span class="topo-membrane">KVAKLVIIVAGIFSSLAA</span><span class="topo-inside">IWLVLSD</span><span class="topo-unknown">EAEI</span><span class="topo-inside">WDA</span><span class="topo-membrane">FNSLIGLMGGPMTG</span></span>
-<span class="topo-line"><span class="topo-membrane">LFML</span><span class="topo-outside">GIFVKRANAG</span><span class="topo-membrane">SAVVGIIVSIIAVLAARY</span><span class="topo-inside">GSDL</span><span class="topo-membrane">NFFFYGVIGSMSVVIAGTIT</span><span class="topo-outside">APLF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MQLH</span><span class="topo-inside">DFGFINYA</span><span class="topo-membrane">VLFGYLAAMLLVGVYFSK</span><span class="topo-outside">RQKTADDYFRGGGRVPGW</span><span class="topo-membrane">AAGVSVFATTLSSITFMSI</span><span class="topo-inside">PAKAYTSDW</span><span class="topo-membrane">TFIIGQYLAIAILPLV</span><span class="topo-outside">FYFY</span><span class="topo-unknown">IPFFRK</span><span class="topo-outside">LKITSAYEYLEARFDV</span><span class="topo-membrane">RS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">RLFASLSFMLFHIGRVAIIT</span><span class="topo-inside">YLTVLALRPFMGIDPVVLI</span><span class="topo-membrane">VLISLLCIIYTWMGGIE</span><span class="topo-outside">G</span><span class="topo-membrane">VIWTDVIQGLLLSGGAVLIFI</span><span class="topo-inside">MICFKVDG</span><span class="topo-unknown">GISEIFTTTAQ</span><span class="topo-inside">ADKFFPTTQWRWSWTDS</span><span class="topo-membrane">TIPVLM</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">IGFLFANIQQFTAS</span><span class="topo-outside">QDVVQRYIVTDSIKETKRT</span><span class="topo-membrane">LITNAKLVAIIPIFFFAI</span><span class="topo-inside">GSALFVYYQQNPSLLPAGFN</span><span class="topo-unknown">TGGILPLFIVTE</span><span class="topo-inside">MPIGIAG</span><span class="topo-membrane">LIIAAIFAAAQSSISSSLNSISSCFNSDIY</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">TRLSKSSPSPEQKM</span><span class="topo-membrane">KVAKLVIIVAGIFSSLAA</span><span class="topo-inside">IWLVLSD</span><span class="topo-unknown">EAEI</span><span class="topo-inside">WDA</span><span class="topo-membrane">FNSLIGLMGGPMTGLFML</span><span class="topo-outside">GIFVKRANAG</span><span class="topo-membrane">SAVVGIIVSIIAVLAARY</span><span class="topo-inside">GSDL</span><span class="topo-membrane">NFFFYGVIGSMSVVIAGTIT</span><span class="topo-outside">APLF</span></span>
+<span class="topo-ruler">       490      </span>
 <span class="topo-line"><span class="topo-outside">APAKQLSL</span><span class="topo-unknown">DDSETSEN</span></span>
+<details class="topo-details"><summary>Topology coordinates (34 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -394,6 +396,7 @@ SiaT is a secondary active sialic acid transporter from the uropathogen Proteus 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -409,15 +412,17 @@ SiaT is a secondary active sialic acid transporter from the uropathogen Proteus 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MQLH</span><span class="topo-inside">DFG</span><span class="topo-membrane">FINYAVLFGYLAAMLLVG</span><span class="topo-outside">VYFSKRQKTADDYFRGGGRVPGWAAG</span><span class="topo-membrane">VSVFATTLS</span></span>
-<span class="topo-line"><span class="topo-membrane">SITFMSI</span><span class="topo-inside">PAKAYTSDW</span><span class="topo-membrane">TFIIGQYLAIAILPLV</span><span class="topo-outside">FYFYIPFFRKLKITSAYEYLEARFDVRS</span></span>
-<span class="topo-line"><span class="topo-outside">RLF</span><span class="topo-membrane">ASLSFMLFHIGRVAIITYLTV</span><span class="topo-unknown">LALRPFM</span><span class="topo-inside">GID</span><span class="topo-membrane">PVVLIVLISLLCIIYTW</span><span class="topo-outside">MGGIEGV</span><span class="topo-membrane">IW</span></span>
-<span class="topo-line"><span class="topo-membrane">TDVIQGLLLSGGAVLIFI</span><span class="topo-inside">MICFKVDG</span><span class="topo-unknown">GISEIFTTTAQ</span><span class="topo-inside">ADKFFPTTQWRWSWTDSTI</span><span class="topo-membrane">PVLM</span></span>
-<span class="topo-line"><span class="topo-membrane">IGFLFANIQQFTAS</span><span class="topo-outside">QDVVQRYIVTDSIKETKRTL</span><span class="topo-membrane">ITNAKLVAIIPIFFFA</span><span class="topo-inside">IGSALFVYYQ</span></span>
-<span class="topo-line"><span class="topo-inside">QNPSLLPAGFNTGGI</span><span class="topo-unknown">LPLFIVT</span><span class="topo-inside">EMPI</span><span class="topo-membrane">GIAGLIIAAIFAAAQSSISSSLNSIS</span><span class="topo-outside">SCFNSDIY</span></span>
-<span class="topo-line"><span class="topo-outside">TRLSKSSPSPEQKMKVAKLV</span><span class="topo-membrane">IIVAGIFSSLAAIWLV</span><span class="topo-inside">LS</span><span class="topo-unknown">DEAEIWDAFN</span><span class="topo-inside">S</span><span class="topo-membrane">LIGLMGGPMTG</span></span>
-<span class="topo-line"><span class="topo-membrane">LFML</span><span class="topo-outside">GIFVKRANAGSA</span><span class="topo-membrane">VVGIIVSIIAVLAARYG</span><span class="topo-inside">SDL</span><span class="topo-membrane">NFFFYGVIGSMSVVIAGTIT</span><span class="topo-outside">APLF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MQLH</span><span class="topo-inside">DFG</span><span class="topo-membrane">FINYAVLFGYLAAMLLVG</span><span class="topo-outside">VYFSKRQKTADDYFRGGGRVPGWAAG</span><span class="topo-membrane">VSVFATTLSSITFMSI</span><span class="topo-inside">PAKAYTSDW</span><span class="topo-membrane">TFIIGQYLAIAILPLV</span><span class="topo-outside">FYFYIPFFRKLKITSAYEYLEARFDVRS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">RLF</span><span class="topo-membrane">ASLSFMLFHIGRVAIITYLTV</span><span class="topo-unknown">LALRPFM</span><span class="topo-inside">GID</span><span class="topo-membrane">PVVLIVLISLLCIIYTW</span><span class="topo-outside">MGGIEGV</span><span class="topo-membrane">IWTDVIQGLLLSGGAVLIFI</span><span class="topo-inside">MICFKVDG</span><span class="topo-unknown">GISEIFTTTAQ</span><span class="topo-inside">ADKFFPTTQWRWSWTDSTI</span><span class="topo-membrane">PVLM</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">IGFLFANIQQFTAS</span><span class="topo-outside">QDVVQRYIVTDSIKETKRTL</span><span class="topo-membrane">ITNAKLVAIIPIFFFA</span><span class="topo-inside">IGSALFVYYQQNPSLLPAGFNTGGI</span><span class="topo-unknown">LPLFIVT</span><span class="topo-inside">EMPI</span><span class="topo-membrane">GIAGLIIAAIFAAAQSSISSSLNSIS</span><span class="topo-outside">SCFNSDIY</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">TRLSKSSPSPEQKMKVAKLV</span><span class="topo-membrane">IIVAGIFSSLAAIWLV</span><span class="topo-inside">LS</span><span class="topo-unknown">DEAEIWDAFN</span><span class="topo-inside">S</span><span class="topo-membrane">LIGLMGGPMTGLFML</span><span class="topo-outside">GIFVKRANAGSA</span><span class="topo-membrane">VVGIIVSIIAVLAARYG</span><span class="topo-inside">SDL</span><span class="topo-membrane">NFFFYGVIGSMSVVIAGTIT</span><span class="topo-outside">APLF</span></span>
+<span class="topo-ruler">       490      </span>
 <span class="topo-line"><span class="topo-outside">APAKQL</span><span class="topo-unknown">SLDDSETSEN</span></span>
+<details class="topo-details"><summary>Topology coordinates (33 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -660,6 +665,7 @@ SiaT is a secondary active sialic acid transporter from the uropathogen Proteus 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

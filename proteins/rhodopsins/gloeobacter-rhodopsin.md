@@ -133,11 +133,13 @@ resolution from crystals grown in bicelles.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MLMTVFSSAPELALLGSTFAQVDPSNLSVS</span><span class="topo-inside">DSLTYGQFNLVYN</span><span class="topo-membrane">AFSFAIAAMFASALFFF</span></span>
-<span class="topo-line"><span class="topo-membrane">SAQALV</span><span class="topo-outside">GQRY</span><span class="topo-membrane">RLALLVSAIVVSIAGYHYFRIFN</span><span class="topo-inside">SWDAAYVLENGVYSLTSEKFND</span><span class="topo-membrane">AYRYV</span></span>
-<span class="topo-line"><span class="topo-membrane">DWLLTVPLLLVETVAVL</span><span class="topo-outside">TLPAKEA</span><span class="topo-membrane">RPLLIKLTVASVLMIATGYPGE</span><span class="topo-inside">ISDDITTR</span><span class="topo-membrane">IIWGTV</span></span>
-<span class="topo-line"><span class="topo-membrane">STIPFAYILYVLWVELSR</span><span class="topo-outside">SLVRQPAAVQ</span><span class="topo-membrane">TLVRNMRWLLLLSWGVYPIAYLL</span><span class="topo-inside">PMLGVSGTS</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MLMTVFSSAPELALLGSTFAQVDPSNLSVS</span><span class="topo-inside">DSLTYGQFNLVYN</span><span class="topo-membrane">AFSFAIAAMFASALFFFSAQALV</span><span class="topo-outside">GQRY</span><span class="topo-membrane">RLALLVSAIVVSIAGYHYFRIFN</span><span class="topo-inside">SWDAAYVLENGVYSLTSEKFND</span><span class="topo-membrane">AYRYV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">DWLLTVPLLLVETVAVL</span><span class="topo-outside">TLPAKEA</span><span class="topo-membrane">RPLLIKLTVASVLMIATGYPGE</span><span class="topo-inside">ISDDITTR</span><span class="topo-membrane">IIWGTVSTIPFAYILYVLWVELSR</span><span class="topo-outside">SLVRQPAAVQ</span><span class="topo-membrane">TLVRNMRWLLLLSWGVYPIAYLL</span><span class="topo-inside">PMLGVSGTS</span></span>
+<span class="topo-ruler">       250       260       270       280       290        </span>
 <span class="topo-line"><span class="topo-inside">AAVG</span><span class="topo-membrane">VQVGYTIADVLAKPVFGLLVFAIAL</span><span class="topo-outside">VKTKADQ</span><span class="topo-unknown">ESSEPHAAIGAAANKSGGSLIS</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -254,6 +256,7 @@ resolution from crystals grown in bicelles.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -269,11 +272,13 @@ resolution from crystals grown in bicelles.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MLMTVFSSAPELALLGSTFAQVDPSNLSVS</span><span class="topo-inside">DSLTYGQFNLVYN</span><span class="topo-membrane">AFSFAIAAMFASALFFF</span></span>
-<span class="topo-line"><span class="topo-membrane">SAQALV</span><span class="topo-outside">GQRY</span><span class="topo-membrane">RLALLVSAIVVSIAGYHYFRIFN</span><span class="topo-inside">SWDAAYVLENGVYSLTSEKFND</span><span class="topo-membrane">AYRYV</span></span>
-<span class="topo-line"><span class="topo-membrane">DWLLTVPLLLVETVAVL</span><span class="topo-outside">TLPAKEA</span><span class="topo-membrane">RPLLIKLTVASVLMIATGYPGE</span><span class="topo-inside">ISDDITTR</span><span class="topo-membrane">IIWGTV</span></span>
-<span class="topo-line"><span class="topo-membrane">STIPFAYILYVLWVELSR</span><span class="topo-outside">SLVRQPAAVQ</span><span class="topo-membrane">TLVRNMRWLLLLSWGVYPIAYLL</span><span class="topo-inside">PMLGVSGTS</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MLMTVFSSAPELALLGSTFAQVDPSNLSVS</span><span class="topo-inside">DSLTYGQFNLVYN</span><span class="topo-membrane">AFSFAIAAMFASALFFFSAQALV</span><span class="topo-outside">GQRY</span><span class="topo-membrane">RLALLVSAIVVSIAGYHYFRIFN</span><span class="topo-inside">SWDAAYVLENGVYSLTSEKFND</span><span class="topo-membrane">AYRYV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">DWLLTVPLLLVETVAVL</span><span class="topo-outside">TLPAKEA</span><span class="topo-membrane">RPLLIKLTVASVLMIATGYPGE</span><span class="topo-inside">ISDDITTR</span><span class="topo-membrane">IIWGTVSTIPFAYILYVLWVELSR</span><span class="topo-outside">SLVRQPAAVQ</span><span class="topo-membrane">TLVRNMRWLLLLSWGVYPIAYLL</span><span class="topo-inside">PMLGVSGTS</span></span>
+<span class="topo-ruler">       250       260       270       280       290        </span>
 <span class="topo-line"><span class="topo-inside">AAVG</span><span class="topo-membrane">VQVGYTIADVLAKPVFGLLVFAIAL</span><span class="topo-outside">VKTKADQ</span><span class="topo-unknown">ESSEPHAAIGAAANKSGGSLIS</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -390,6 +395,7 @@ resolution from crystals grown in bicelles.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

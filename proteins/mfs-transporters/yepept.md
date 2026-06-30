@@ -173,15 +173,17 @@ to the inward-open state, revealing the inhibition mechanism.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MQT</span><span class="topo-outside">STNTPGGRTFFGHPY</span><span class="topo-membrane">PLSGLFLSEMWERFSFYGIRP</span><span class="topo-inside">LLILFMAATVFDGGMGLPREQ</span></span>
-<span class="topo-line"><span class="topo-inside">AS</span><span class="topo-membrane">AIVGIFAGSMYLAALPGGLLA</span><span class="topo-outside">DNWLGQ</span><span class="topo-membrane">QRAVWYGSILIALGHLSI</span><span class="topo-inside">ALSAFFGNDLFF</span><span class="topo-membrane">I</span></span>
-<span class="topo-line"><span class="topo-membrane">GLVFIVLGTGLFKTCISVMV</span><span class="topo-outside">GTLYKPGDARRDGG</span><span class="topo-membrane">FSLFYMGINMGSFIAPLL</span><span class="topo-inside">SGWLLRTH</span></span>
-<span class="topo-line"><span class="topo-inside">GWHWGFG</span><span class="topo-membrane">IGGIGMLVALLIFRGFAIPA</span><span class="topo-outside">MKRYDAEVGLDSSWNKPT</span><span class="topo-unknown">NQRQGV</span><span class="topo-outside">G</span><span class="topo-membrane">RWVTAIMA</span></span>
-<span class="topo-line"><span class="topo-membrane">VVVVIIALIS</span><span class="topo-inside">QGVIPINP</span><span class="topo-membrane">VMIASLLVYVIAASVTLYFI</span><span class="topo-outside">YLFAFAKMSRKDRARLLVC</span><span class="topo-membrane">FIL</span></span>
-<span class="topo-line"><span class="topo-membrane">LVSAAFFWSAFEQKPTSF</span><span class="topo-inside">NLFANDYTDRMVMGFEIPTVW</span><span class="topo-membrane">FQSINALFIILLAPVFSWA</span><span class="topo-unknown">WP</span></span>
-<span class="topo-line"><span class="topo-unknown">ALAKKKIQ</span><span class="topo-outside">PSS</span><span class="topo-membrane">ITKFVIGILCAAAGFAVMM</span><span class="topo-inside">YAAQHVLSSGGAGVSPLW</span><span class="topo-membrane">LVMSILLLTLGE</span></span>
-<span class="topo-line"><span class="topo-membrane">LCLSPIGL</span><span class="topo-outside">ATMTLLAPDRMRGQV</span><span class="topo-membrane">MGLWFCASSLGNLAAGLIG</span><span class="topo-inside">GHVKADQLDMLPTL</span><span class="topo-membrane">FARC</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MQT</span><span class="topo-outside">STNTPGGRTFFGHPY</span><span class="topo-membrane">PLSGLFLSEMWERFSFYGIRP</span><span class="topo-inside">LLILFMAATVFDGGMGLPREQAS</span><span class="topo-membrane">AIVGIFAGSMYLAALPGGLLA</span><span class="topo-outside">DNWLGQ</span><span class="topo-membrane">QRAVWYGSILIALGHLSI</span><span class="topo-inside">ALSAFFGNDLFF</span><span class="topo-membrane">I</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GLVFIVLGTGLFKTCISVMV</span><span class="topo-outside">GTLYKPGDARRDGG</span><span class="topo-membrane">FSLFYMGINMGSFIAPLL</span><span class="topo-inside">SGWLLRTHGWHWGFG</span><span class="topo-membrane">IGGIGMLVALLIFRGFAIPA</span><span class="topo-outside">MKRYDAEVGLDSSWNKPT</span><span class="topo-unknown">NQRQGV</span><span class="topo-outside">G</span><span class="topo-membrane">RWVTAIMA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">VVVVIIALIS</span><span class="topo-inside">QGVIPINP</span><span class="topo-membrane">VMIASLLVYVIAASVTLYFI</span><span class="topo-outside">YLFAFAKMSRKDRARLLVC</span><span class="topo-membrane">FILLVSAAFFWSAFEQKPTSF</span><span class="topo-inside">NLFANDYTDRMVMGFEIPTVW</span><span class="topo-membrane">FQSINALFIILLAPVFSWA</span><span class="topo-unknown">WP</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-unknown">ALAKKKIQ</span><span class="topo-outside">PSS</span><span class="topo-membrane">ITKFVIGILCAAAGFAVMM</span><span class="topo-inside">YAAQHVLSSGGAGVSPLW</span><span class="topo-membrane">LVMSILLLTLGELCLSPIGL</span><span class="topo-outside">ATMTLLAPDRMRGQV</span><span class="topo-membrane">MGLWFCASSLGNLAAGLIG</span><span class="topo-inside">GHVKADQLDMLPTL</span><span class="topo-membrane">FARC</span></span>
+<span class="topo-ruler">       490       500       510         </span>
 <span class="topo-line"><span class="topo-membrane">SIALVICAAVLILL</span><span class="topo-outside">IVPIRRLM</span><span class="topo-unknown">NNTQGQQTALELEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (30 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -403,6 +405,7 @@ to the inward-open state, revealing the inhibition mechanism.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

@@ -136,10 +136,11 @@ ICMT (isoprenylcysteine carboxyl methyltransferase) is an integral membrane meth
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MNEN</span><span class="topo-membrane">LWKICFIVMFIIWVFVRK</span><span class="topo-outside">VYGTRAMKNKSKKKVRPNFEKS</span><span class="topo-membrane">LVFLNFIGMVFLPLTA</span></span>
-<span class="topo-line"><span class="topo-membrane">VFSSYL</span><span class="topo-inside">DSFNINLPDS</span><span class="topo-membrane">IRLFALIVTFLNIGLFT</span><span class="topo-outside">KIHKDLGNNWSAILEIKDGHKLVKEGI</span></span>
-<span class="topo-line"><span class="topo-outside">YKNIRHPM</span><span class="topo-membrane">YAHLWLWVITQGIILSN</span><span class="topo-inside">W</span><span class="topo-membrane">VVLIFGIVAWAILYFI</span><span class="topo-outside">RVPKEEELLIEEFGDEYI</span></span>
-<span class="topo-line"><span class="topo-outside">EYMGKTGRLFPK</span><span class="topo-unknown">VV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">MNEN</span><span class="topo-membrane">LWKICFIVMFIIWVFVRK</span><span class="topo-outside">VYGTRAMKNKSKKKVRPNFEKS</span><span class="topo-membrane">LVFLNFIGMVFLPLTAVFSSYL</span><span class="topo-inside">DSFNINLPDS</span><span class="topo-membrane">IRLFALIVTFLNIGLFT</span><span class="topo-outside">KIHKDLGNNWSAILEIKDGHKLVKEGI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190    </span>
+<span class="topo-line"><span class="topo-outside">YKNIRHPM</span><span class="topo-membrane">YAHLWLWVITQGIILSN</span><span class="topo-inside">W</span><span class="topo-membrane">VVLIFGIVAWAILYFI</span><span class="topo-outside">RVPKEEELLIEEFGDEYIEYMGKTGRLFPK</span><span class="topo-unknown">VV</span></span>
+<details class="topo-details"><summary>Topology coordinates (12 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -235,6 +236,7 @@ ICMT (isoprenylcysteine carboxyl methyltransferase) is an integral membrane meth
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

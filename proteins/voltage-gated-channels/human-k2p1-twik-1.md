@@ -107,11 +107,13 @@ Human K2P1 (also known as TWIK-1, encoded by KCNK1) is a two-pore domain potassi
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GPSREAS</span><span class="topo-inside">NSAT</span><span class="topo-membrane">MFGFLVLGYLLYLVFGAVVFSSV</span><span class="topo-outside">ELPYEDLLRQELRKLKRRFLEEHECL</span></span>
-<span class="topo-line"><span class="topo-outside">SEQQLEQFLGRVLEASNYGVSVL</span><span class="topo-unknown">SQASGN</span><span class="topo-outside">WNWDF</span><span class="topo-unknown">TSALFFASTVLSTTGYG</span><span class="topo-outside">HTVPLSD</span><span class="topo-membrane">GG</span></span>
-<span class="topo-line"><span class="topo-membrane">KAFCIIYSVIGIPFTLLFLTAVVQRIT</span><span class="topo-inside">VHVTRRPVLYF</span><span class="topo-unknown">HIRWGF</span><span class="topo-inside">SKQVVAIV</span><span class="topo-membrane">HAVLLGFV</span></span>
-<span class="topo-line"><span class="topo-membrane">TVSCFFFIPAAVFSVL</span><span class="topo-outside">EDDWNF</span><span class="topo-unknown">LESFYFCFISLSTIGLG</span><span class="topo-outside">DYVPGEGYNQKFRE</span><span class="topo-membrane">LYKIGIT</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GPSREAS</span><span class="topo-inside">NSAT</span><span class="topo-membrane">MFGFLVLGYLLYLVFGAVVFSSV</span><span class="topo-outside">ELPYEDLLRQELRKLKRRFLEEHECLSEQQLEQFLGRVLEASNYGVSVL</span><span class="topo-unknown">SQASGN</span><span class="topo-outside">WNWDF</span><span class="topo-unknown">TSALFFASTVLSTTGYG</span><span class="topo-outside">HTVPLSD</span><span class="topo-membrane">GG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">KAFCIIYSVIGIPFTLLFLTAVVQRIT</span><span class="topo-inside">VHVTRRPVLYF</span><span class="topo-unknown">HIRWGF</span><span class="topo-inside">SKQVVAIV</span><span class="topo-membrane">HAVLLGFVTVSCFFFIPAAVFSVL</span><span class="topo-outside">EDDWNF</span><span class="topo-unknown">LESFYFCFISLSTIGLG</span><span class="topo-outside">DYVPGEGYNQKFRE</span><span class="topo-membrane">LYKIGIT</span></span>
+<span class="topo-ruler">       250       260       270       280</span>
 <span class="topo-line"><span class="topo-membrane">CYLLLGLIAMLVVLETFC</span><span class="topo-inside">EL</span><span class="topo-unknown">HELKKFRK</span><span class="topo-inside">MFY</span><span class="topo-unknown">VKKDKDEVD</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -270,6 +272,7 @@ Human K2P1 (also known as TWIK-1, encoded by KCNK1) is a two-pore domain potassi
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -285,11 +288,13 @@ Human K2P1 (also known as TWIK-1, encoded by KCNK1) is a two-pore domain potassi
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GPSREAS</span><span class="topo-inside">NSAT</span><span class="topo-membrane">MFGFLVLGYLLYLVFGAVVFSSV</span><span class="topo-outside">ELPYEDLLRQELRKLKRRFLEEHECL</span></span>
-<span class="topo-line"><span class="topo-outside">SEQQLEQFLGRVLEASNYGVSVL</span><span class="topo-unknown">SQASGN</span><span class="topo-outside">WNWDF</span><span class="topo-unknown">TSALFFASTVLSTTGYG</span><span class="topo-outside">HTVPLSD</span><span class="topo-membrane">GG</span></span>
-<span class="topo-line"><span class="topo-membrane">KAFCIIYSVIGIPFTLLFLTAVVQRIT</span><span class="topo-inside">VHVTRRPVLYF</span><span class="topo-unknown">HIRWGF</span><span class="topo-inside">SKQVVAIV</span><span class="topo-membrane">HAVLLGFV</span></span>
-<span class="topo-line"><span class="topo-membrane">TVSCFFFIPAAVFSVL</span><span class="topo-outside">EDDWNF</span><span class="topo-unknown">LESFYFCFISLSTIGLG</span><span class="topo-outside">DYVPGEGYNQKFRE</span><span class="topo-membrane">LYKIGIT</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GPSREAS</span><span class="topo-inside">NSAT</span><span class="topo-membrane">MFGFLVLGYLLYLVFGAVVFSSV</span><span class="topo-outside">ELPYEDLLRQELRKLKRRFLEEHECLSEQQLEQFLGRVLEASNYGVSVL</span><span class="topo-unknown">SQASGN</span><span class="topo-outside">WNWDF</span><span class="topo-unknown">TSALFFASTVLSTTGYG</span><span class="topo-outside">HTVPLSD</span><span class="topo-membrane">GG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">KAFCIIYSVIGIPFTLLFLTAVVQRIT</span><span class="topo-inside">VHVTRRPVLYF</span><span class="topo-unknown">HIRWGF</span><span class="topo-inside">SKQVVAIV</span><span class="topo-membrane">HAVLLGFVTVSCFFFIPAAVFSVL</span><span class="topo-outside">EDDWNF</span><span class="topo-unknown">LESFYFCFISLSTIGLG</span><span class="topo-outside">DYVPGEGYNQKFRE</span><span class="topo-membrane">LYKIGIT</span></span>
+<span class="topo-ruler">       250       260       270       280</span>
 <span class="topo-line"><span class="topo-membrane">CYLLLGLIAMLVVLETFC</span><span class="topo-inside">EL</span><span class="topo-unknown">HELKKFRK</span><span class="topo-inside">MFY</span><span class="topo-unknown">VKKDKDEVD</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -448,6 +453,7 @@ Human K2P1 (also known as TWIK-1, encoded by KCNK1) is a two-pore domain potassi
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

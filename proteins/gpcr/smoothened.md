@@ -46,22 +46,7 @@ Smoothened (SMO) is a seven-transmembrane (7TM) oncoprotein and member of the cl
 - **Expression system**: HEK293S GnTI- cells (BacMam expression system) with 10 mM sodium butyrate; also in Sf9 insect cells for nanobody generation
 - **Construct**: Wild-type mouse Smo gene residues 64-566, N-terminal HA/Flag/SBP/TEV tag, C-terminal sortase-3C-Gαo fusion
 
-<<<<<<< HEAD
 **Purification:**
-=======
-### Purification Workflow
-
-
-##### Steps
-
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| 1. Membrane solubilization | [DDM](/xray-mp-wiki/reagents/detergents/ddm/)/[CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) extraction | — | 50 mM HEPES pH 7.5, 300 mM NaCl, 1% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.1% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 5 mM MgCl2, 20 mM KCl, 5 mM ATP, 1 µM vismodegib | Solubilization from frozen cell pellets for 1 h at 4°C |
-| 2. Affinity purification | M1 anti-[FLAG](/xray-mp-wiki/reagents/protein-tags/flag-tag/) antibody Sepharose | — | 50 mM HEPES pH 7.5, 300 mM NaCl, 0.1% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.01% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | Detergent exchange to 0.01% [LMNG](/xray-mp-wiki/reagents/detergents/lmng/)/0.001% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), ligand exchange from vismodegib to SAG21k on-column |
-| 3. Elution and deglycosylation | [FLAG](/xray-mp-wiki/reagents/protein-tags/flag-tag/) peptide elution + endoglycosidase treatment | — | 50 mM HEPES pH 7.5, 150 mM NaCl, 0.01% [LMNG](/xray-mp-wiki/reagents/detergents/lmng/)/0.001% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 1 pM SAG21k | Deglycosylated with endoglycosidase F1 and H for 30 min at RT |
-| 4. Nanobody complex formation | 3-fold molar excess NbSmo8 incubation | — | 20 mM HEPES pH 7.5, 150 mM NaCl, 0.01% [LMNG](/xray-mp-wiki/reagents/detergents/lmng/)/0.001% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | Overnight incubation at 4°C |
-| 5. Size-exclusion chromatography | [Superdex 200](/xray-mp-wiki/reagents/additives/superdex-200/) Increase 10/300 GL | — | 20 mM HEPES pH 7.5, 150 mM NaCl, 0.1 pM SAG21k, 0.01% [LMNG](/xray-mp-wiki/reagents/detergents/lmng/)/0.001% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | Peak fractions concentrated to 50 mg/ml for crystallization |
->>>>>>> d0e2c437136bdf2885afc6a99e0a9d4117821696
 
 <table class="wiki-table">
   <thead><tr>
@@ -139,7 +124,6 @@ Smoothened (SMO) is a seven-transmembrane (7TM) oncoprotein and member of the cl
 <div class="sequence-entry" markdown="1">
 **PDB <a class="pdb-link" href="https://www.rcsb.org/structure/6o3c">6O3C</a> — Chain A (7 TMs, alpha)**
 
-<<<<<<< HEAD
 <div class="sequence-display">
 <div class="topo-legend">
 <span class="topo-membrane-legend">&#9608; TM Helix</span>
@@ -148,15 +132,17 @@ Smoothened (SMO) is a seven-transmembrane (7TM) oncoprotein and member of the cl
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">DYKDDDDAGSENLYFQGSGSPRL</span><span class="topo-outside">LSHCGRAAHCEPLRYNVCLGSALPYGATTTLLAGDSD</span></span>
-<span class="topo-line"><span class="topo-outside">SQEEAHGKLVLWSGLRNAPRCWAVIQPLLCAVYMPKCENDRVELPSRTLCQATRGPCAIV</span></span>
-<span class="topo-line"><span class="topo-outside">ERERGWPDFLRCTPDHFPEGCPNEVQNIKFNSSGQCEAPLVRTDNPKSWYEDVEGCGIQC</span></span>
-<span class="topo-line"><span class="topo-outside">QNPLFTEAEHQDMH</span><span class="topo-membrane">SYIAAFGAVTGLCTLFTLATFV</span><span class="topo-inside">ADWRNSNRYPAVI</span><span class="topo-membrane">LFYVNACFFVG</span></span>
-<span class="topo-line"><span class="topo-membrane">SIGWLA</span><span class="topo-outside">QFMDG</span><span class="topo-unknown">ARREIV</span><span class="topo-outside">CRADGTMRFGEPTSSETLSCVI</span><span class="topo-membrane">IFVIVYYALMAGVVWFVVL</span><span class="topo-inside">TY</span></span>
-<span class="topo-line"><span class="topo-inside">AWHTSFKALGTTYQPLSGKTS</span><span class="topo-membrane">YFHLLTWSLPFVLTVAI</span><span class="topo-outside">LAVAQVDGDSVSGICFVGYKNY</span></span>
-<span class="topo-line"><span class="topo-outside">RY</span><span class="topo-membrane">RAGFVLAPIGLVLIVGGY</span><span class="topo-inside">FLIRGVMTLFSIKSNHPGLLSEKAASKINETMLRLGI</span><span class="topo-membrane">FGF</span></span>
-<span class="topo-line"><span class="topo-membrane">LAFGFVLITFSCHFY</span><span class="topo-outside">DFFNQAEWERSFRDYVLCQANVTIG</span><span class="topo-unknown">LPTKKPIP</span><span class="topo-outside">DCEIKNRPSLL</span><span class="topo-membrane">V</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">DYKDDDDAGSENLYFQGSGSPRL</span><span class="topo-outside">LSHCGRAAHCEPLRYNVCLGSALPYGATTTLLAGDSDSQEEAHGKLVLWSGLRNAPRCWAVIQPLLCAVYMPKCENDRVELPSRTLCQATRGPCAIV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">ERERGWPDFLRCTPDHFPEGCPNEVQNIKFNSSGQCEAPLVRTDNPKSWYEDVEGCGIQCQNPLFTEAEHQDMH</span><span class="topo-membrane">SYIAAFGAVTGLCTLFTLATFV</span><span class="topo-inside">ADWRNSNRYPAVI</span><span class="topo-membrane">LFYVNACFFVG</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">SIGWLA</span><span class="topo-outside">QFMDG</span><span class="topo-unknown">ARREIV</span><span class="topo-outside">CRADGTMRFGEPTSSETLSCVI</span><span class="topo-membrane">IFVIVYYALMAGVVWFVVL</span><span class="topo-inside">TYAWHTSFKALGTTYQPLSGKTS</span><span class="topo-membrane">YFHLLTWSLPFVLTVAI</span><span class="topo-outside">LAVAQVDGDSVSGICFVGYKNY</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">RY</span><span class="topo-membrane">RAGFVLAPIGLVLIVGGY</span><span class="topo-inside">FLIRGVMTLFSIKSNHPGLLSEKAASKINETMLRLGI</span><span class="topo-membrane">FGFLAFGFVLITFSCHFY</span><span class="topo-outside">DFFNQAEWERSFRDYVLCQANVTIG</span><span class="topo-unknown">LPTKKPIP</span><span class="topo-outside">DCEIKNRPSLL</span><span class="topo-membrane">V</span></span>
+<span class="topo-ruler">       490       500       510       520     </span>
 <span class="topo-line"><span class="topo-membrane">EKINLFAMFGTGIAMST</span><span class="topo-inside">WVWT</span><span class="topo-unknown">KATLLIWRRTWC</span><span class="topo-inside">RL</span><span class="topo-unknown">TGHSDDEPKR</span></span>
+<details class="topo-details"><summary>Topology coordinates (20 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -308,17 +294,10 @@ Smoothened (SMO) is a seven-transmembrane (7TM) oncoprotein and member of the cl
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
-=======
-| Parameter | Value |
-|---|---|
-| Method | [LCP](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) ([LCP](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/)) |
-| Protein sample | SMO-SAG21k-NbSmo8 complex at 50 mg/ml in 20 mM HEPES pH 7.5, 150 mM NaCl, 0.01% [LMNG](/xray-mp-wiki/reagents/detergents/lmng/)/0.001% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) |
-| Temperature | 4°C for 10 days, then 20°C for 10 days |
-| Notes | [LCP](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) formed with 90% 9.9 MAG (monoolein) / 10% cholesterol. Data merged from 20 crystals. Structure solved by molecular replacement using hSMO (5L7D) and Nb6B9 (4LDE). Final Rwork/Rfree 24.5%/29.4%. Data collected at APS beamlines 23-ID-B and 23-ID-D. |
->>>>>>> d0e2c437136bdf2885afc6a99e0a9d4117821696
 
 <div class="sequence-entry" markdown="1">
 **PDB <a class="pdb-link" href="https://www.rcsb.org/structure/6o3c">6O3C</a> — Chain B (0 TMs, non_tm)**
@@ -331,9 +310,11 @@ Smoothened (SMO) is a seven-transmembrane (7TM) oncoprotein and member of the cl
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">QVQLQESGGGLVQAGGSLRLSCAASGYIFSSYAMGWYRQAPGKEREFVATIGWGTITYYA</span></span>
-<span class="topo-line"><span class="topo-inside">DSVKGRFTISRDNAKNTVYLQMNSLKPEDTAVYYCAAQDLLYYSFPGDHAYWGQGTQVTV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">QVQLQESGGGLVQAGGSLRLSCAASGYIFSSYAMGWYRQAPGKEREFVATIGWGTITYYADSVKGRFTISRDNAKNTVYLQMNSLKPEDTAVYYCAAQDLLYYSFPGDHAYWGQGTQVTV</span></span>
+<span class="topo-ruler">        </span>
 <span class="topo-line"><span class="topo-inside">SS</span><span class="topo-unknown">HHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -352,6 +333,7 @@ Smoothened (SMO) is a seven-transmembrane (7TM) oncoprotein and member of the cl
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

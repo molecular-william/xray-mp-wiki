@@ -155,21 +155,23 @@ Archaeoglobus fulgidus AglB (AfAglB) is the catalytic subunit of the archaeal ol
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MQNA</span><span class="topo-outside">E</span><span class="topo-membrane">SWFKKYWHLSVLVIAALI</span><span class="topo-inside">SVKLRILNPWNSVFTWTVRLGGNDPWYYYRLIENTIH</span></span>
-<span class="topo-line"><span class="topo-inside">NFPHRIWFDPFTYYPYGSYTHFG</span><span class="topo-unknown">PFLVYLGSIAGII</span><span class="topo-inside">FSATSGESLRAVLAFIPAIGGV</span><span class="topo-membrane">LA</span></span>
-<span class="topo-line"><span class="topo-membrane">ILPVYLLTREVF</span><span class="topo-outside">D</span><span class="topo-membrane">KRAAVIAAFLIAIV</span><span class="topo-inside">PGQFLQRSILGFNDHHIWE</span><span class="topo-membrane">AFWQVSALGTFLLA</span></span>
-<span class="topo-line"><span class="topo-membrane">YNRW</span><span class="topo-outside">KGHDLSHNL</span><span class="topo-membrane">TARQMAYPVIAGITIGLYV</span><span class="topo-inside">LSWGAG</span><span class="topo-membrane">FIIAPIILAFMFFAFVL</span><span class="topo-outside">AGFVN</span></span>
-<span class="topo-line"><span class="topo-outside">ADRKN</span><span class="topo-membrane">LSLVAVVTFAVSALIYLP</span><span class="topo-inside">FAFNYPGFSTIFYSP</span><span class="topo-membrane">FQLLVLLGSAVIAAAFYQ</span><span class="topo-outside">IEKW</span></span>
-<span class="topo-line"><span class="topo-outside">NDVGFFERVGLGRKGMP</span><span class="topo-membrane">LAVIVLTALIMGLFFVI</span><span class="topo-unknown">SPDFARNLLSVVRVVQ</span><span class="topo-inside">PKGGALTIAE</span></span>
-<span class="topo-line"><span class="topo-inside">VYPFFFTHNGEFTL</span><span class="topo-unknown">TNAVLHF</span><span class="topo-membrane">GALFFFGMAGILYSAYRFL</span><span class="topo-outside">KRRS</span><span class="topo-membrane">FPEMALLIWAIAMFIA</span></span>
-<span class="topo-line"><span class="topo-membrane">LW</span><span class="topo-inside">GQNRFAYY</span><span class="topo-membrane">FAAVSAVYSALALSVVFDKL</span><span class="topo-outside">HLYRALENAIGARNKLS</span><span class="topo-membrane">YFRVAFALLIALA</span></span>
-<span class="topo-line"><span class="topo-membrane">AIYPT</span><span class="topo-inside">YILADAQSSYAGGPNKQWYDALTWMRENTPDGEKYDEYYLQLYPTPQSNKEPFSY</span></span>
-<span class="topo-line"><span class="topo-inside">PFETYGVISWWDYGHWIEAVAHRMPIANPFQAGIGNKYNNVPGASSFFTAENESYAEFVA</span></span>
-<span class="topo-line"><span class="topo-inside">EKLNVKYVVSDIEMETCKYYAMAVWAEGDLPLAEKYYGGYFYYSPTGTFGYANSQWDIPL</span></span>
-<span class="topo-line"><span class="topo-inside">NSIIIPLRIPSELYYSTMEAKLHLFDGSGLSHYRMIYESDYPAEWKSYSSQVNLNNESQV</span></span>
-<span class="topo-line"><span class="topo-inside">LQTALYEAVMRARYGVSPTMGTQEVLYKYAYTQLYEKKMGIPVKIAPSGYVKIFERVKGA</span></span>
-<span class="topo-line"><span class="topo-inside">VVTGKVSANVTEVSVNATIKTNQNRTFEYWQTVEVKNGTYTVVLPYSHNSDYPVKPITPY</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MQNA</span><span class="topo-outside">E</span><span class="topo-membrane">SWFKKYWHLSVLVIAALI</span><span class="topo-inside">SVKLRILNPWNSVFTWTVRLGGNDPWYYYRLIENTIHNFPHRIWFDPFTYYPYGSYTHFG</span><span class="topo-unknown">PFLVYLGSIAGII</span><span class="topo-inside">FSATSGESLRAVLAFIPAIGGV</span><span class="topo-membrane">LA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">ILPVYLLTREVF</span><span class="topo-outside">D</span><span class="topo-membrane">KRAAVIAAFLIAIV</span><span class="topo-inside">PGQFLQRSILGFNDHHIWE</span><span class="topo-membrane">AFWQVSALGTFLLAYNRW</span><span class="topo-outside">KGHDLSHNL</span><span class="topo-membrane">TARQMAYPVIAGITIGLYV</span><span class="topo-inside">LSWGAG</span><span class="topo-membrane">FIIAPIILAFMFFAFVL</span><span class="topo-outside">AGFVN</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">ADRKN</span><span class="topo-membrane">LSLVAVVTFAVSALIYLP</span><span class="topo-inside">FAFNYPGFSTIFYSP</span><span class="topo-membrane">FQLLVLLGSAVIAAAFYQ</span><span class="topo-outside">IEKWNDVGFFERVGLGRKGMP</span><span class="topo-membrane">LAVIVLTALIMGLFFVI</span><span class="topo-unknown">SPDFARNLLSVVRVVQ</span><span class="topo-inside">PKGGALTIAE</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">VYPFFFTHNGEFTL</span><span class="topo-unknown">TNAVLHF</span><span class="topo-membrane">GALFFFGMAGILYSAYRFL</span><span class="topo-outside">KRRS</span><span class="topo-membrane">FPEMALLIWAIAMFIALW</span><span class="topo-inside">GQNRFAYY</span><span class="topo-membrane">FAAVSAVYSALALSVVFDKL</span><span class="topo-outside">HLYRALENAIGARNKLS</span><span class="topo-membrane">YFRVAFALLIALA</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-membrane">AIYPT</span><span class="topo-inside">YILADAQSSYAGGPNKQWYDALTWMRENTPDGEKYDEYYLQLYPTPQSNKEPFSYPFETYGVISWWDYGHWIEAVAHRMPIANPFQAGIGNKYNNVPGASSFFTAENESYAEFVA</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-inside">EKLNVKYVVSDIEMETCKYYAMAVWAEGDLPLAEKYYGGYFYYSPTGTFGYANSQWDIPLNSIIIPLRIPSELYYSTMEAKLHLFDGSGLSHYRMIYESDYPAEWKSYSSQVNLNNESQV</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820       830       840</span>
+<span class="topo-line"><span class="topo-inside">LQTALYEAVMRARYGVSPTMGTQEVLYKYAYTQLYEKKMGIPVKIAPSGYVKIFERVKGAVVTGKVSANVTEVSVNATIKTNQNRTFEYWQTVEVKNGTYTVVLPYSHNSDYPVKPITPY</span></span>
+<span class="topo-ruler">       850       860       870     </span>
 <span class="topo-line"><span class="topo-inside">HIKAGNVVKEITIYESQVQNGEIIQLDL</span><span class="topo-unknown">ELALVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (30 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -391,6 +393,7 @@ Archaeoglobus fulgidus AglB (AfAglB) is the catalytic subunit of the archaeal ol
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -438,21 +441,23 @@ Archaeoglobus fulgidus AglB (AfAglB) is the catalytic subunit of the archaeal ol
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MQNA</span><span class="topo-outside">ESW</span><span class="topo-membrane">FKKYWHLSVLVIAALIS</span><span class="topo-inside">VKLRILNPWNSVFTWTVRLGGNDPWYYYRLIENTIH</span></span>
-<span class="topo-line"><span class="topo-inside">NFPHRIWFDPFTYYPYGSYTHFG</span><span class="topo-unknown">PFLVYLGSIAGII</span><span class="topo-inside">FSATSGESLRAVLAFIPAIGG</span><span class="topo-membrane">VLA</span></span>
-<span class="topo-line"><span class="topo-membrane">ILPVYLLTREVFDK</span><span class="topo-outside">R</span><span class="topo-membrane">AAVIAAFLIAIV</span><span class="topo-inside">PGQFLQRSILGFNDHHIWE</span><span class="topo-membrane">AFWQVSALGTFLLA</span></span>
-<span class="topo-line"><span class="topo-membrane">Y</span><span class="topo-outside">NRWKGHDLSHNLTARQM</span><span class="topo-membrane">AYPVIAGITIGLYV</span><span class="topo-inside">LSWGAG</span><span class="topo-membrane">FIIAPIILAFMFFA</span><span class="topo-outside">FVLAGFVN</span></span>
-<span class="topo-line"><span class="topo-outside">ADRKNL</span><span class="topo-membrane">SLVAVVTFAVSALIYL</span><span class="topo-inside">PFAFNYPGFSTIFYSPFQ</span><span class="topo-membrane">LLVLLGSAVIAAAF</span><span class="topo-outside">YQIEKW</span></span>
-<span class="topo-line"><span class="topo-outside">NDVGFFERVGLGRKGMPLAV</span><span class="topo-membrane">IVLTALIMGLFFVIS</span><span class="topo-inside">PD</span><span class="topo-unknown">FARNLLSVV</span><span class="topo-inside">RVVQPKGGALTIAE</span></span>
-<span class="topo-line"><span class="topo-inside">VYPFFFTHNGEFTL</span><span class="topo-unknown">TNAVLHF</span><span class="topo-membrane">GALFFFGMAGILYSAY</span><span class="topo-outside">RFLKRRSFP</span><span class="topo-membrane">EMALLIWAIAMFIA</span></span>
-<span class="topo-line"><span class="topo-membrane">L</span><span class="topo-inside">WGQNRFAYY</span><span class="topo-membrane">FAAVSAVYSALALSVVF</span><span class="topo-outside">DKLHLYRALENAIGARNKLSYF</span><span class="topo-membrane">RVAFALLIALA</span></span>
-<span class="topo-line"><span class="topo-membrane">AIYPTY</span><span class="topo-inside">ILADAQSSYAGGPNKQWYDALTWMRENTPDGEKYDEYYLQLYPTPQSNKEPFSY</span></span>
-<span class="topo-line"><span class="topo-inside">PFETYGVISWWDYGHWIEAVAHRMPIANPFQAGIGNKYNNVPGASSFFTAENESYAEFVA</span></span>
-<span class="topo-line"><span class="topo-inside">EKLNVKYVVSDIEMETGKYYAMAVWAEGDLPLAEKYYGGYFYYSPTGTFGYANSQWDIPL</span></span>
-<span class="topo-line"><span class="topo-inside">NSIIIPLRIPSELYYSTMEAKLHLFDGSGLSHYRMIYESDYPAEWKSYSSQVNLNNESQV</span></span>
-<span class="topo-line"><span class="topo-inside">LQTALYEAVMRARYGVSPTMGTQEVLYKYAYTQLYEKKMGIPVKIAPSGYVKIFERVKGA</span></span>
-<span class="topo-line"><span class="topo-inside">VVTGKVSANVTEVSVNATIKTNQNRTFEYWQTVEVKNGTYTVVLPYSHNSDYPVKPITPY</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MQNA</span><span class="topo-outside">ESW</span><span class="topo-membrane">FKKYWHLSVLVIAALIS</span><span class="topo-inside">VKLRILNPWNSVFTWTVRLGGNDPWYYYRLIENTIHNFPHRIWFDPFTYYPYGSYTHFG</span><span class="topo-unknown">PFLVYLGSIAGII</span><span class="topo-inside">FSATSGESLRAVLAFIPAIGG</span><span class="topo-membrane">VLA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">ILPVYLLTREVFDK</span><span class="topo-outside">R</span><span class="topo-membrane">AAVIAAFLIAIV</span><span class="topo-inside">PGQFLQRSILGFNDHHIWE</span><span class="topo-membrane">AFWQVSALGTFLLAY</span><span class="topo-outside">NRWKGHDLSHNLTARQM</span><span class="topo-membrane">AYPVIAGITIGLYV</span><span class="topo-inside">LSWGAG</span><span class="topo-membrane">FIIAPIILAFMFFA</span><span class="topo-outside">FVLAGFVN</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">ADRKNL</span><span class="topo-membrane">SLVAVVTFAVSALIYL</span><span class="topo-inside">PFAFNYPGFSTIFYSPFQ</span><span class="topo-membrane">LLVLLGSAVIAAAF</span><span class="topo-outside">YQIEKWNDVGFFERVGLGRKGMPLAV</span><span class="topo-membrane">IVLTALIMGLFFVIS</span><span class="topo-inside">PD</span><span class="topo-unknown">FARNLLSVV</span><span class="topo-inside">RVVQPKGGALTIAE</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">VYPFFFTHNGEFTL</span><span class="topo-unknown">TNAVLHF</span><span class="topo-membrane">GALFFFGMAGILYSAY</span><span class="topo-outside">RFLKRRSFP</span><span class="topo-membrane">EMALLIWAIAMFIAL</span><span class="topo-inside">WGQNRFAYY</span><span class="topo-membrane">FAAVSAVYSALALSVVF</span><span class="topo-outside">DKLHLYRALENAIGARNKLSYF</span><span class="topo-membrane">RVAFALLIALA</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-membrane">AIYPTY</span><span class="topo-inside">ILADAQSSYAGGPNKQWYDALTWMRENTPDGEKYDEYYLQLYPTPQSNKEPFSYPFETYGVISWWDYGHWIEAVAHRMPIANPFQAGIGNKYNNVPGASSFFTAENESYAEFVA</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-inside">EKLNVKYVVSDIEMETGKYYAMAVWAEGDLPLAEKYYGGYFYYSPTGTFGYANSQWDIPLNSIIIPLRIPSELYYSTMEAKLHLFDGSGLSHYRMIYESDYPAEWKSYSSQVNLNNESQV</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820       830       840</span>
+<span class="topo-line"><span class="topo-inside">LQTALYEAVMRARYGVSPTMGTQEVLYKYAYTQLYEKKMGIPVKIAPSGYVKIFERVKGAVVTGKVSANVTEVSVNATIKTNQNRTFEYWQTVEVKNGTYTVVLPYSHNSDYPVKPITPY</span></span>
+<span class="topo-ruler">       850       860       870     </span>
 <span class="topo-line"><span class="topo-inside">HIKAGNVVKEITIYESQVQNGEIIQLDL</span><span class="topo-unknown">ELALVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (34 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -702,6 +707,7 @@ Archaeoglobus fulgidus AglB (AfAglB) is the catalytic subunit of the archaeal ol
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -779,21 +785,23 @@ Archaeoglobus fulgidus AglB (AfAglB) is the catalytic subunit of the archaeal ol
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MQNAE</span><span class="topo-inside">SWFKKYW</span><span class="topo-membrane">HLSVLVIAALISVKL</span><span class="topo-outside">RILNPWNSVFTWTVRLGGNDPWYYYRLIENTIH</span></span>
-<span class="topo-line"><span class="topo-outside">NFPHRIWFDPFTYYPYGSYTHFG</span><span class="topo-unknown">PFLVYLGSIAGII</span><span class="topo-outside">FSATSGESLRAVLAFIPAI</span><span class="topo-membrane">GGVLA</span></span>
-<span class="topo-line"><span class="topo-membrane">ILPVYLLTREV</span><span class="topo-inside">FDKRA</span><span class="topo-membrane">AVIAAFLIAIVP</span><span class="topo-outside">GQFLQRSILGFNDHHI</span><span class="topo-membrane">WEAFWQVSALGTFLLA</span></span>
-<span class="topo-line"><span class="topo-inside">YNRWKGHDLSHNLTARQM</span><span class="topo-membrane">AYPVIAGITIGLYVL</span><span class="topo-outside">SWGAG</span><span class="topo-membrane">FIIAPIILAFMFFA</span><span class="topo-inside">FVLAGFVN</span></span>
-<span class="topo-line"><span class="topo-inside">ADRKNLS</span><span class="topo-membrane">LVAVVTFAVSALIYLP</span><span class="topo-outside">FAFNYPGFSTIFYSPFQ</span><span class="topo-membrane">LLVLLGSAVIAAAF</span><span class="topo-inside">YQIEKW</span></span>
-<span class="topo-line"><span class="topo-inside">NDVGFFERVGLGRKGMPL</span><span class="topo-membrane">AVIVLTALIMGLFFV</span><span class="topo-outside">I</span><span class="topo-unknown">SPDFARNLLSVV</span><span class="topo-outside">RVVQPKGGALTIAE</span></span>
-<span class="topo-line"><span class="topo-outside">VYPFFFTHNGEFTL</span><span class="topo-unknown">TNAVLH</span><span class="topo-membrane">FGALFFFGMAGILYSA</span><span class="topo-inside">YRFLKRRSFP</span><span class="topo-membrane">EMALLIWAIAMFIA</span></span>
-<span class="topo-line"><span class="topo-membrane">LW</span><span class="topo-outside">GQNRFA</span><span class="topo-membrane">YYFAAVSAVYSALALS</span><span class="topo-inside">VVFDKLH</span><span class="topo-unknown">LYRALEN</span><span class="topo-inside">AIGARNKLSYFRVA</span><span class="topo-membrane">FALLIALA</span></span>
-<span class="topo-line"><span class="topo-membrane">AIYPTYILA</span><span class="topo-outside">DAQSSYAGGPNKQWYDALTWMRENTPDGEKYDEYYLQLYPTPQSNKEPFSY</span></span>
-<span class="topo-line"><span class="topo-outside">PFETYGVISWWDYGHWIEAVAHRMPIANPFQAGIGNKYNNVPGASSFFTAENESYAEFVA</span></span>
-<span class="topo-line"><span class="topo-outside">EKLNVKYVVSDIEMETCKYYAMAVWAEGDLPLAEKYYGGYFYYSPTGTFGYANSQWDIPL</span></span>
-<span class="topo-line"><span class="topo-outside">NSIIIPLRIPSELYYSTMEAKLHLFDGSGLSHYRMIYESDYPAEWKSYSSQVNLNNESQV</span></span>
-<span class="topo-line"><span class="topo-outside">LQTALYEAVMRARYGVSPTMGTQEVLYKYAYTQLYEKKMGIPVKIAPSGYVKIFERVKGA</span></span>
-<span class="topo-line"><span class="topo-outside">VVTGKVSANVTEVSVNATIKTNQNRTFEYWQTVEVKNGTYTVVLPYSHNSDYPVKPITPY</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MQNAE</span><span class="topo-inside">SWFKKYW</span><span class="topo-membrane">HLSVLVIAALISVKL</span><span class="topo-outside">RILNPWNSVFTWTVRLGGNDPWYYYRLIENTIHNFPHRIWFDPFTYYPYGSYTHFG</span><span class="topo-unknown">PFLVYLGSIAGII</span><span class="topo-outside">FSATSGESLRAVLAFIPAI</span><span class="topo-membrane">GGVLA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">ILPVYLLTREV</span><span class="topo-inside">FDKRA</span><span class="topo-membrane">AVIAAFLIAIVP</span><span class="topo-outside">GQFLQRSILGFNDHHI</span><span class="topo-membrane">WEAFWQVSALGTFLLA</span><span class="topo-inside">YNRWKGHDLSHNLTARQM</span><span class="topo-membrane">AYPVIAGITIGLYVL</span><span class="topo-outside">SWGAG</span><span class="topo-membrane">FIIAPIILAFMFFA</span><span class="topo-inside">FVLAGFVN</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">ADRKNLS</span><span class="topo-membrane">LVAVVTFAVSALIYLP</span><span class="topo-outside">FAFNYPGFSTIFYSPFQ</span><span class="topo-membrane">LLVLLGSAVIAAAF</span><span class="topo-inside">YQIEKWNDVGFFERVGLGRKGMPL</span><span class="topo-membrane">AVIVLTALIMGLFFV</span><span class="topo-outside">I</span><span class="topo-unknown">SPDFARNLLSVV</span><span class="topo-outside">RVVQPKGGALTIAE</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">VYPFFFTHNGEFTL</span><span class="topo-unknown">TNAVLH</span><span class="topo-membrane">FGALFFFGMAGILYSA</span><span class="topo-inside">YRFLKRRSFP</span><span class="topo-membrane">EMALLIWAIAMFIALW</span><span class="topo-outside">GQNRFA</span><span class="topo-membrane">YYFAAVSAVYSALALS</span><span class="topo-inside">VVFDKLH</span><span class="topo-unknown">LYRALEN</span><span class="topo-inside">AIGARNKLSYFRVA</span><span class="topo-membrane">FALLIALA</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-membrane">AIYPTYILA</span><span class="topo-outside">DAQSSYAGGPNKQWYDALTWMRENTPDGEKYDEYYLQLYPTPQSNKEPFSYPFETYGVISWWDYGHWIEAVAHRMPIANPFQAGIGNKYNNVPGASSFFTAENESYAEFVA</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-outside">EKLNVKYVVSDIEMETCKYYAMAVWAEGDLPLAEKYYGGYFYYSPTGTFGYANSQWDIPLNSIIIPLRIPSELYYSTMEAKLHLFDGSGLSHYRMIYESDYPAEWKSYSSQVNLNNESQV</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820       830       840</span>
+<span class="topo-line"><span class="topo-outside">LQTALYEAVMRARYGVSPTMGTQEVLYKYAYTQLYEKKMGIPVKIAPSGYVKIFERVKGAVVTGKVSANVTEVSVNATIKTNQNRTFEYWQTVEVKNGTYTVVLPYSHNSDYPVKPITPY</span></span>
+<span class="topo-ruler">       850       860       870     </span>
 <span class="topo-line"><span class="topo-outside">HIKAGNVVKEITIYESQVQNGEIIQLDLELAL</span><span class="topo-unknown">VPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (34 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1043,6 +1051,7 @@ Archaeoglobus fulgidus AglB (AfAglB) is the catalytic subunit of the archaeal ol
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

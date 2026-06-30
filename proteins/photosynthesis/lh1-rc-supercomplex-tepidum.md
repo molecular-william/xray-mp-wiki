@@ -122,13 +122,15 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSPAQQLTLPAVIVVASVMLLG</span><span class="topo-outside">CEGPPPGTEQIGYRGVGMENYYNKRQRALSIQANQPVE</span></span>
-<span class="topo-line"><span class="topo-outside">SLPAADSTGPKASEVYQNVQVLKDLSVGEFTRTMVAVTTWVSPKEGCNYCHVPGNWASDD</span></span>
-<span class="topo-line"><span class="topo-outside">IYTKVVSRRMFELVRAANSDWKAHVAETGVTCYTCHRGNPVPKYAWVTDPGPKYPSGLKP</span></span>
-<span class="topo-line"><span class="topo-outside">TGQNYGSKTVAYASLPFDPLTPFLDQANEIRITGNAALAGSNPASLKQAEWTFGLMMNIS</span></span>
-<span class="topo-line"><span class="topo-outside">DSLGVGCTFCHNTRAFNDWTQSTPKRTTAWYAIRHVRDINQNYIWPLNDVLPASRKGPYG</span></span>
-<span class="topo-line"><span class="topo-outside">DPLRVSCMTCHQAVNKPLYGAQMAKDYPGLYKT</span><span class="topo-unknown">AVTQEALAGSAPASEAAPAAATEAAPE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSPAQQLTLPAVIVVASVMLLG</span><span class="topo-outside">CEGPPPGTEQIGYRGVGMENYYNKRQRALSIQANQPVESLPAADSTGPKASEVYQNVQVLKDLSVGEFTRTMVAVTTWVSPKEGCNYCHVPGNWASDD</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">IYTKVVSRRMFELVRAANSDWKAHVAETGVTCYTCHRGNPVPKYAWVTDPGPKYPSGLKPTGQNYGSKTVAYASLPFDPLTPFLDQANEIRITGNAALAGSNPASLKQAEWTFGLMMNIS</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">DSLGVGCTFCHNTRAFNDWTQSTPKRTTAWYAIRHVRDINQNYIWPLNDVLPASRKGPYGDPLRVSCMTCHQAVNKPLYGAQMAKDYPGLYKT</span><span class="topo-unknown">AVTQEALAGSAPASEAAPAAATEAAPE</span></span>
+<span class="topo-ruler">       370       380       390       400    </span>
 <span class="topo-line"><span class="topo-unknown">APAQEVPAAEAVPAAAEPGAAEAAGSVEPAPVEEVAPAPAAQRL</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -161,6 +163,7 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -176,11 +179,13 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">AMLSFEKKYRVRGGTLIGGDLFDFWVGPFYVGFFGVV</span><span class="topo-membrane">GFCFTLLGVLLIVW</span><span class="topo-outside">GATIGPTG</span></span>
-<span class="topo-line"><span class="topo-outside">PTSDLQTYNLWRISIAPPDLSYGLRMAPLTEGGLWQ</span><span class="topo-membrane">IITICAAGAFISW</span><span class="topo-inside">ALREVEICRKL</span></span>
-<span class="topo-line"><span class="topo-inside">GIGFHVPFAF</span><span class="topo-membrane">SFAIGAYLVLVFVR</span><span class="topo-outside">PLLMGAWGHGFPYGILSHLDWVSNVGYQFLHFHYN</span><span class="topo-membrane">P</span></span>
-<span class="topo-line"><span class="topo-membrane">AHMLAISFFFTNCL</span><span class="topo-inside">ALSMHGSLILSVTNPQKGEPVKTSEHENTFFRDIVGYSIGALAIHR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">AMLSFEKKYRVRGGTLIGGDLFDFWVGPFYVGFFGVV</span><span class="topo-membrane">GFCFTLLGVLLIVW</span><span class="topo-outside">GATIGPTGPTSDLQTYNLWRISIAPPDLSYGLRMAPLTEGGLWQ</span><span class="topo-membrane">IITICAAGAFISW</span><span class="topo-inside">ALREVEICRKL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">GIGFHVPFAF</span><span class="topo-membrane">SFAIGAYLVLVFVR</span><span class="topo-outside">PLLMGAWGHGFPYGILSHLDWVSNVGYQFLHFHYN</span><span class="topo-membrane">PAHMLAISFFFTNCL</span><span class="topo-inside">ALSMHGSLILSVTNPQKGEPVKTSEHENTFFRDIVGYSIGALAIHR</span></span>
+<span class="topo-ruler">       250       260       270       280 </span>
 <span class="topo-line"><span class="topo-inside">LGLFL</span><span class="topo-membrane">ALSAAFWSAVCILI</span><span class="topo-outside">SGPFWTRGWPEWWNWWLELPLW</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -269,6 +274,7 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -284,12 +290,13 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">PEYQNIFTAVQVRAPAYPGVPLPKGNLPRIGRPIFSYWLGKIGDAQIGPIYLGLTGTL</span><span class="topo-membrane">S</span></span>
-<span class="topo-line"><span class="topo-membrane">IFFGLVAISIIGFNML</span><span class="topo-outside">ASVHWDVFQFLKHFFWLGLEPPPPQYGLRIPPLSEGGW</span><span class="topo-membrane">WLMAGL</span></span>
-<span class="topo-line"><span class="topo-membrane">FLTLSILLW</span><span class="topo-inside">WVRTYKRAEALGMSQHLSWA</span><span class="topo-membrane">FAAAIFFYLVLGFIR</span><span class="topo-outside">PVMMGSWAKAVPFGIF</span></span>
-<span class="topo-line"><span class="topo-outside">PHLDWTAAFSIRYGNLYYNP</span><span class="topo-membrane">FHMLSIAFLYGSAL</span><span class="topo-inside">LFAMHGATILSVSRFGGDREIDQITH</span></span>
-<span class="topo-line"><span class="topo-inside">RGTAAERAALFWRWTMGFNVTMESIHRWAWW</span><span class="topo-membrane">CAVLTVITAGIGIL</span><span class="topo-outside">LSGTVVDNWYLWAVK</span></span>
-<span class="topo-line"><span class="topo-outside">HGMAPAYPEVVTAVNPYET</span><span class="topo-unknown">AAEVMQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">PEYQNIFTAVQVRAPAYPGVPLPKGNLPRIGRPIFSYWLGKIGDAQIGPIYLGLTGTL</span><span class="topo-membrane">SIFFGLVAISIIGFNML</span><span class="topo-outside">ASVHWDVFQFLKHFFWLGLEPPPPQYGLRIPPLSEGGW</span><span class="topo-membrane">WLMAGL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">FLTLSILLW</span><span class="topo-inside">WVRTYKRAEALGMSQHLSWA</span><span class="topo-membrane">FAAAIFFYLVLGFIR</span><span class="topo-outside">PVMMGSWAKAVPFGIFPHLDWTAAFSIRYGNLYYNP</span><span class="topo-membrane">FHMLSIAFLYGSAL</span><span class="topo-inside">LFAMHGATILSVSRFGGDREIDQITH</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320     </span>
+<span class="topo-line"><span class="topo-inside">RGTAAERAALFWRWTMGFNVTMESIHRWAWW</span><span class="topo-membrane">CAVLTVITAGIGIL</span><span class="topo-outside">LSGTVVDNWYLWAVKHGMAPAYPEVVTAVNPYET</span><span class="topo-unknown">AAEVMQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (12 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -385,6 +392,7 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -400,11 +408,13 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSAG</span><span class="topo-outside">ITHYIDAAQ</span><span class="topo-membrane">ITIWAFWLFFFGLI</span><span class="topo-inside">IYLRREDKREGYPLDSDRTERSGGRVKVVGFPD</span></span>
-<span class="topo-line"><span class="topo-inside">LPDPKTFVLPHNGGTVVAPRVEAPVAVNATPFSPAPGSPLVPNGDPMLSGFGPAASPDRP</span></span>
-<span class="topo-line"><span class="topo-inside">KHCDLTFEGLPKIVPMRVAKEFSIAEGDPDPRGMTVVGLDGEVAGTVSDVWVDRSEPQIR</span></span>
-<span class="topo-line"><span class="topo-inside">YLEVEVAANKKKVLLPIGFSRFDKKARKVKVDAIKAAHFANVPTLSNPDQVTLYEEDKVC</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSAG</span><span class="topo-outside">ITHYIDAAQ</span><span class="topo-membrane">ITIWAFWLFFFGLI</span><span class="topo-inside">IYLRREDKREGYPLDSDRTERSGGRVKVVGFPDLPDPKTFVLPHNGGTVVAPRVEAPVAVNATPFSPAPGSPLVPNGDPMLSGFGPAASPDRP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">KHCDLTFEGLPKIVPMRVAKEFSIAEGDPDPRGMTVVGLDGEVAGTVSDVWVDRSEPQIRYLEVEVAANKKKVLLPIGFSRFDKKARKVKVDAIKAAHFANVPTLSNPDQVTLYEEDKVC</span></span>
+<span class="topo-ruler">       250         </span>
 <span class="topo-line"><span class="topo-inside">AYYAGGKLYATAERAGPLL</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -444,6 +454,7 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -459,8 +470,9 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MFTMN</span><span class="topo-inside">ANLYKIWLILDPRRVLVSI</span><span class="topo-membrane">VAFQIVLGLLIHM</span><span class="topo-outside">IVLSTDLNWLDDNIPVSYQALG</span><span class="topo-unknown">K</span></span>
-<span class="topo-line"><span class="topo-unknown">K</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60 </span>
+<span class="topo-line"><span class="topo-unknown">MFTMN</span><span class="topo-inside">ANLYKIWLILDPRRVLVSI</span><span class="topo-membrane">VAFQIVLGLLIHM</span><span class="topo-outside">IVLSTDLNWLDDNIPVSYQALG</span><span class="topo-unknown">KK</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -507,6 +519,7 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -522,7 +535,9 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40       </span>
 <span class="topo-line"><span class="topo-unknown">MAEQK</span><span class="topo-inside">SLTGLTDDEAKEFHAIFMQS</span><span class="topo-membrane">MYAWFGLVVIAHL</span><span class="topo-outside">LAWLYRPWL</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -562,6 +577,7 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -577,8 +593,9 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MFTM</span><span class="topo-inside">NANLYKIWLILDPRRVLVSI</span><span class="topo-membrane">VAFQIVLGLLIHM</span><span class="topo-outside">IVLSTDLNWLDDNIPVSYQALG</span><span class="topo-unknown">K</span></span>
-<span class="topo-line"><span class="topo-unknown">K</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60 </span>
+<span class="topo-line"><span class="topo-unknown">MFTM</span><span class="topo-inside">NANLYKIWLILDPRRVLVSI</span><span class="topo-membrane">VAFQIVLGLLIHM</span><span class="topo-outside">IVLSTDLNWLDDNIPVSYQALG</span><span class="topo-unknown">KK</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -625,6 +642,7 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -640,7 +658,9 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40       </span>
 <span class="topo-line"><span class="topo-unknown">MAEQKSLTG</span><span class="topo-inside">LTDDEAKEFHAIFMQS</span><span class="topo-membrane">MYAWFGLVVIAHL</span><span class="topo-outside">LAWLYRPWL</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -680,6 +700,7 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -695,8 +716,9 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MFTM</span><span class="topo-inside">NANLYKIWLILDPRRVLVSI</span><span class="topo-membrane">VAFQIVLGLLIHMI</span><span class="topo-outside">VLSTDLNWLDDNIPVSYQALG</span><span class="topo-unknown">K</span></span>
-<span class="topo-line"><span class="topo-unknown">K</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60 </span>
+<span class="topo-line"><span class="topo-unknown">MFTM</span><span class="topo-inside">NANLYKIWLILDPRRVLVSI</span><span class="topo-membrane">VAFQIVLGLLIHMI</span><span class="topo-outside">VLSTDLNWLDDNIPVSYQALG</span><span class="topo-unknown">KK</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -743,6 +765,7 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -758,7 +781,9 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40       </span>
 <span class="topo-line"><span class="topo-unknown">MAEQK</span><span class="topo-inside">SLTGLTDDEAKEFHAIFMQSM</span><span class="topo-membrane">YAWFGLVVIAHLL</span><span class="topo-outside">AWLYRPWL</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -798,6 +823,7 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -813,8 +839,9 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MF</span><span class="topo-inside">TMNANLYKIWLILDPRRVLVSIV</span><span class="topo-membrane">AFQIVLGLLIHMI</span><span class="topo-outside">VLSTDLNWLDDNIPVSYQALG</span><span class="topo-unknown">K</span></span>
-<span class="topo-line"><span class="topo-unknown">K</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60 </span>
+<span class="topo-line"><span class="topo-unknown">MF</span><span class="topo-inside">TMNANLYKIWLILDPRRVLVSIV</span><span class="topo-membrane">AFQIVLGLLIHMI</span><span class="topo-outside">VLSTDLNWLDDNIPVSYQALG</span><span class="topo-unknown">KK</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -861,6 +888,7 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -876,7 +904,9 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40       </span>
 <span class="topo-line"><span class="topo-unknown">MAEQK</span><span class="topo-inside">SLTGLTDDEAKEFHAIFMQSMY</span><span class="topo-membrane">AWFGLVVIAHLLA</span><span class="topo-outside">WLYRPWL</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -916,6 +946,7 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -931,8 +962,9 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MF</span><span class="topo-inside">TMNANLYKIWLILDPRRVLVSIVA</span><span class="topo-membrane">FQIVLGLLIHMIV</span><span class="topo-outside">LSTDLNWLDDNIPVSYQALG</span><span class="topo-unknown">K</span></span>
-<span class="topo-line"><span class="topo-unknown">K</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60 </span>
+<span class="topo-line"><span class="topo-unknown">MF</span><span class="topo-inside">TMNANLYKIWLILDPRRVLVSIVA</span><span class="topo-membrane">FQIVLGLLIHMIV</span><span class="topo-outside">LSTDLNWLDDNIPVSYQALG</span><span class="topo-unknown">KK</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -979,6 +1011,7 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -994,7 +1027,9 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40       </span>
 <span class="topo-line"><span class="topo-unknown">MAEQK</span><span class="topo-inside">SLTGLTDDEAKEFHAIFMQSMYA</span><span class="topo-membrane">WFGLVVIAHLLAW</span><span class="topo-outside">LYRPWL</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1034,6 +1069,7 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1049,8 +1085,9 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MFT</span><span class="topo-inside">MNANLYKIWLILDPRRVLVSIVA</span><span class="topo-membrane">FQIVLGLLIHMIV</span><span class="topo-outside">LSTDLNWLDDNIPVSYQALG</span><span class="topo-unknown">K</span></span>
-<span class="topo-line"><span class="topo-unknown">K</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60 </span>
+<span class="topo-line"><span class="topo-unknown">MFT</span><span class="topo-inside">MNANLYKIWLILDPRRVLVSIVA</span><span class="topo-membrane">FQIVLGLLIHMIV</span><span class="topo-outside">LSTDLNWLDDNIPVSYQALG</span><span class="topo-unknown">KK</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1097,6 +1134,7 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1112,7 +1150,9 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40       </span>
 <span class="topo-line"><span class="topo-unknown">MAEQK</span><span class="topo-inside">SLTGLTDDEAKEFHAIFMQSMYAW</span><span class="topo-membrane">FGLVVIAHLLAWL</span><span class="topo-outside">YRPWL</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1152,6 +1192,7 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1167,8 +1208,9 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MF</span><span class="topo-inside">TMNANLYKIWLILDPRRVLVSIVAF</span><span class="topo-membrane">QIVLGLLIHMIVL</span><span class="topo-outside">STDLNWLDDNIPVSYQALG</span><span class="topo-unknown">K</span></span>
-<span class="topo-line"><span class="topo-unknown">K</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60 </span>
+<span class="topo-line"><span class="topo-unknown">MF</span><span class="topo-inside">TMNANLYKIWLILDPRRVLVSIVAF</span><span class="topo-membrane">QIVLGLLIHMIVL</span><span class="topo-outside">STDLNWLDDNIPVSYQALG</span><span class="topo-unknown">KK</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1215,6 +1257,7 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1230,7 +1273,9 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40       </span>
 <span class="topo-line"><span class="topo-unknown">MAEQKS</span><span class="topo-inside">LTGLTDDEAKEFHAIFMQSMYAW</span><span class="topo-membrane">FGLVVIAHLLAWL</span><span class="topo-outside">YRPWL</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1270,6 +1315,7 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1285,8 +1331,9 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MF</span><span class="topo-inside">TMNANLYKIWLILDPRRVLVSIVA</span><span class="topo-membrane">FQIVLGLLIHMIV</span><span class="topo-outside">LSTDLNWLDDNIPVSYQAL</span><span class="topo-unknown">GK</span></span>
-<span class="topo-line"><span class="topo-unknown">K</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60 </span>
+<span class="topo-line"><span class="topo-unknown">MF</span><span class="topo-inside">TMNANLYKIWLILDPRRVLVSIVA</span><span class="topo-membrane">FQIVLGLLIHMIV</span><span class="topo-outside">LSTDLNWLDDNIPVSYQAL</span><span class="topo-unknown">GKK</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1333,6 +1380,7 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1348,7 +1396,9 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40       </span>
 <span class="topo-line"><span class="topo-unknown">MAEQ</span><span class="topo-inside">KSLTGLTDDEAKEFHAIFMQSMYAW</span><span class="topo-membrane">FGLVVIAHLLAWL</span><span class="topo-outside">YRPWL</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1388,6 +1438,7 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1403,8 +1454,9 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MF</span><span class="topo-inside">TMNANLYKIWLILDPRRVLVSIVA</span><span class="topo-membrane">FQIVLGLLIHMIV</span><span class="topo-outside">LSTDLNWLDDNIPVSYQALGK</span></span>
-<span class="topo-line"><span class="topo-unknown">K</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60 </span>
+<span class="topo-line"><span class="topo-unknown">MF</span><span class="topo-inside">TMNANLYKIWLILDPRRVLVSIVA</span><span class="topo-membrane">FQIVLGLLIHMIV</span><span class="topo-outside">LSTDLNWLDDNIPVSYQALGK</span><span class="topo-unknown">K</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1444,6 +1496,7 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1459,7 +1512,9 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40       </span>
 <span class="topo-line"><span class="topo-unknown">MAEQK</span><span class="topo-inside">SLTGLTDDEAKEFHAIFMQSMY</span><span class="topo-membrane">AWFGLVVIAHLLAW</span><span class="topo-outside">LYRPWL</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1499,6 +1554,7 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1514,8 +1570,9 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MFTM</span><span class="topo-inside">NANLYKIWLILDPRRVLVSIV</span><span class="topo-membrane">AFQIVLGLLIHMI</span><span class="topo-outside">VLSTDLNWLDDNIPVSYQALGK</span></span>
-<span class="topo-line"><span class="topo-unknown">K</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60 </span>
+<span class="topo-line"><span class="topo-unknown">MFTM</span><span class="topo-inside">NANLYKIWLILDPRRVLVSIV</span><span class="topo-membrane">AFQIVLGLLIHMI</span><span class="topo-outside">VLSTDLNWLDDNIPVSYQALGK</span><span class="topo-unknown">K</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1555,6 +1612,7 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1570,7 +1628,9 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40       </span>
 <span class="topo-line"><span class="topo-unknown">MAEQKS</span><span class="topo-inside">LTGLTDDEAKEFHAIFMQSMY</span><span class="topo-membrane">AWFGLVVIAHLLA</span><span class="topo-outside">WLYRPWL</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1610,6 +1670,7 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1625,8 +1686,9 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MF</span><span class="topo-inside">TMNANLYKIWLILDPRRVLVSI</span><span class="topo-membrane">VAFQIVLGLLIHMI</span><span class="topo-outside">VLSTDLNWLDDNIPVSYQALG</span><span class="topo-unknown">K</span></span>
-<span class="topo-line"><span class="topo-unknown">K</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60 </span>
+<span class="topo-line"><span class="topo-unknown">MF</span><span class="topo-inside">TMNANLYKIWLILDPRRVLVSI</span><span class="topo-membrane">VAFQIVLGLLIHMI</span><span class="topo-outside">VLSTDLNWLDDNIPVSYQALG</span><span class="topo-unknown">KK</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1673,6 +1735,7 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1688,7 +1751,9 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40       </span>
 <span class="topo-line"><span class="topo-unknown">MAEQKSL</span><span class="topo-inside">TGLTDDEAKEFHAIFMQSM</span><span class="topo-membrane">YAWFGLVVIAHLL</span><span class="topo-outside">AWLYRPWL</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1728,6 +1793,7 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1743,8 +1809,9 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MFT</span><span class="topo-inside">MNANLYKIWLILDPRRVLVSI</span><span class="topo-membrane">VAFQIVLGLLIHMI</span><span class="topo-outside">VLSTDLNWLDDNIPVSYQALG</span><span class="topo-unknown">K</span></span>
-<span class="topo-line"><span class="topo-unknown">K</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60 </span>
+<span class="topo-line"><span class="topo-unknown">MFT</span><span class="topo-inside">MNANLYKIWLILDPRRVLVSI</span><span class="topo-membrane">VAFQIVLGLLIHMI</span><span class="topo-outside">VLSTDLNWLDDNIPVSYQALG</span><span class="topo-unknown">KK</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1791,6 +1858,7 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1806,7 +1874,9 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40       </span>
 <span class="topo-line"><span class="topo-unknown">MAEQKS</span><span class="topo-inside">LTGLTDDEAKEFHAIFMQSM</span><span class="topo-membrane">YAWFGLVVIAHLL</span><span class="topo-outside">AWLYRPWL</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1846,6 +1916,7 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1861,8 +1932,9 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MFT</span><span class="topo-inside">MNANLYKIWLILDPRRVLVSI</span><span class="topo-membrane">VAFQIVLGLLIHMI</span><span class="topo-outside">VLSTDLNWLDDNIPVSYQALG</span><span class="topo-unknown">K</span></span>
-<span class="topo-line"><span class="topo-unknown">K</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60 </span>
+<span class="topo-line"><span class="topo-unknown">MFT</span><span class="topo-inside">MNANLYKIWLILDPRRVLVSI</span><span class="topo-membrane">VAFQIVLGLLIHMI</span><span class="topo-outside">VLSTDLNWLDDNIPVSYQALG</span><span class="topo-unknown">KK</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1909,6 +1981,7 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1924,7 +1997,9 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40       </span>
 <span class="topo-line"><span class="topo-unknown">MAEQK</span><span class="topo-inside">SLTGLTDDEAKEFHAIFMQSM</span><span class="topo-membrane">YAWFGLVVIAHLL</span><span class="topo-outside">AWLYRPWL</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1964,6 +2039,7 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1979,8 +2055,9 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MFTMN</span><span class="topo-inside">ANLYKIWLILDPRRVLVSI</span><span class="topo-membrane">VAFQIVLGLLIHM</span><span class="topo-outside">IVLSTDLNWLDDNIPVSYQALG</span><span class="topo-unknown">K</span></span>
-<span class="topo-line"><span class="topo-unknown">K</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60 </span>
+<span class="topo-line"><span class="topo-unknown">MFTMN</span><span class="topo-inside">ANLYKIWLILDPRRVLVSI</span><span class="topo-membrane">VAFQIVLGLLIHM</span><span class="topo-outside">IVLSTDLNWLDDNIPVSYQALG</span><span class="topo-unknown">KK</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2027,6 +2104,7 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2042,7 +2120,9 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40       </span>
 <span class="topo-line"><span class="topo-unknown">MAEQK</span><span class="topo-inside">SLTGLTDDEAKEFHAIFMQSM</span><span class="topo-membrane">YAWFGLVVIAHLL</span><span class="topo-outside">AWLYRPWL</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2082,6 +2162,7 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2097,8 +2178,9 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MF</span><span class="topo-inside">TMNANLYKIWLILDPRRVLVSI</span><span class="topo-membrane">VAFQIVLGLLIHM</span><span class="topo-outside">IVLSTDLNWLDDNIPVSYQALG</span><span class="topo-unknown">K</span></span>
-<span class="topo-line"><span class="topo-unknown">K</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60 </span>
+<span class="topo-line"><span class="topo-unknown">MF</span><span class="topo-inside">TMNANLYKIWLILDPRRVLVSI</span><span class="topo-membrane">VAFQIVLGLLIHM</span><span class="topo-outside">IVLSTDLNWLDDNIPVSYQALG</span><span class="topo-unknown">KK</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2145,6 +2227,7 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2160,7 +2243,9 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40       </span>
 <span class="topo-line"><span class="topo-unknown">MAEQKS</span><span class="topo-inside">LTGLTDDEAKEFHAIFMQS</span><span class="topo-membrane">MYAWFGLVVIAHL</span><span class="topo-outside">LAWLYRPWL</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2200,6 +2285,7 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2215,8 +2301,9 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MF</span><span class="topo-inside">TMNANLYKIWLILDPRRVLVSI</span><span class="topo-membrane">VAFQIVLGLLIHM</span><span class="topo-outside">IVLSTDLNWLDDNIPVSYQALG</span><span class="topo-unknown">K</span></span>
-<span class="topo-line"><span class="topo-unknown">K</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60 </span>
+<span class="topo-line"><span class="topo-unknown">MF</span><span class="topo-inside">TMNANLYKIWLILDPRRVLVSI</span><span class="topo-membrane">VAFQIVLGLLIHM</span><span class="topo-outside">IVLSTDLNWLDDNIPVSYQALG</span><span class="topo-unknown">KK</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2263,6 +2350,7 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2278,7 +2366,9 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40       </span>
 <span class="topo-line"><span class="topo-unknown">MAEQ</span><span class="topo-inside">KSLTGLTDDEAKEFHAIFMQS</span><span class="topo-membrane">MYAWFGLVVIAHL</span><span class="topo-outside">LAWLYRPWL</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2318,6 +2408,7 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2399,12 +2490,13 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">CEGPPPGTEQIGYRGVGMENYYNKRQRALSIQANQPVESLPAADSTGPKASEVYQNVQVL</span></span>
-<span class="topo-line"><span class="topo-outside">KDLSVGEFTRTMVAVTTWVSPKEGCNYCHVPGNWASDDIYTKVVSRRMFELVRAANSDWK</span></span>
-<span class="topo-line"><span class="topo-outside">AHVAETGVTCYTCHRGNPVPKYAWVTDPGPKYPSGLKPTGQNYGSKTVAYASLPFDPLTP</span></span>
-<span class="topo-line"><span class="topo-outside">FLDQANEIRITGNAALAGSNPASLKQAEWTFGLMMNISDSLGVGCTFCHNTRAFNDWTQS</span></span>
-<span class="topo-line"><span class="topo-outside">TPKRTTAWYAIRHVRDINQNYIWPLNDVLPASRKGPYGDPLRVSCMTCHQAVNKPLYGAQ</span></span>
-<span class="topo-line"><span class="topo-outside">MAKDYPGLYKT</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">CEGPPPGTEQIGYRGVGMENYYNKRQRALSIQANQPVESLPAADSTGPKASEVYQNVQVLKDLSVGEFTRTMVAVTTWVSPKEGCNYCHVPGNWASDDIYTKVVSRRMFELVRAANSDWK</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">AHVAETGVTCYTCHRGNPVPKYAWVTDPGPKYPSGLKPTGQNYGSKTVAYASLPFDPLTPFLDQANEIRITGNAALAGSNPASLKQAEWTFGLMMNISDSLGVGCTFCHNTRAFNDWTQS</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310 </span>
+<span class="topo-line"><span class="topo-outside">TPKRTTAWYAIRHVRDINQNYIWPLNDVLPASRKGPYGDPLRVSCMTCHQAVNKPLYGAQMAKDYPGLYKT</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2423,6 +2515,7 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2438,11 +2531,13 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">AMLSFEKKYRVRGGTLIGGDLFDFWVGPFYVGFFGVV</span><span class="topo-membrane">GFCFTLLGVLLIVWG</span><span class="topo-outside">ATIGPTG</span></span>
-<span class="topo-line"><span class="topo-outside">PTSDLQTYNLWRISIAPPDLSYGLRMAPLTEGGL</span><span class="topo-membrane">WQIITICAAGAFISW</span><span class="topo-inside">ALREVEICRKL</span></span>
-<span class="topo-line"><span class="topo-inside">GIGFHVPFA</span><span class="topo-membrane">FSFAIGAYLVLVFVRPLL</span><span class="topo-outside">MGAWGHGFPYGIL</span><span class="topo-unknown">SHLDWVSNVGYQ</span><span class="topo-outside">FLHFHYNP</span></span>
-<span class="topo-line"><span class="topo-membrane">AHMLAISFFFTNCLALSM</span><span class="topo-inside">HGSLILSVTNPQKGEPVKTSEHENTFFRDIVGYSIGALAIHR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">AMLSFEKKYRVRGGTLIGGDLFDFWVGPFYVGFFGVV</span><span class="topo-membrane">GFCFTLLGVLLIVWG</span><span class="topo-outside">ATIGPTGPTSDLQTYNLWRISIAPPDLSYGLRMAPLTEGGL</span><span class="topo-membrane">WQIITICAAGAFISW</span><span class="topo-inside">ALREVEICRKL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">GIGFHVPFA</span><span class="topo-membrane">FSFAIGAYLVLVFVRPLL</span><span class="topo-outside">MGAWGHGFPYGIL</span><span class="topo-unknown">SHLDWVSNVGYQ</span><span class="topo-outside">FLHFHYNP</span><span class="topo-membrane">AHMLAISFFFTNCLALSM</span><span class="topo-inside">HGSLILSVTNPQKGEPVKTSEHENTFFRDIVGYSIGALAIHR</span></span>
+<span class="topo-ruler">       250       260       270       280 </span>
 <span class="topo-line"><span class="topo-inside">LGLF</span><span class="topo-membrane">LALSAAFWSAVCILI</span><span class="topo-outside">SGPFWTRGWPEWWNWWLELPLW</span></span>
+<details class="topo-details"><summary>Topology coordinates (13 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2545,6 +2640,7 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2560,12 +2656,13 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">PEYQNIFTAVQVRAPAYPGVPLPKGNLPRIGRPIFSYWLGKIGDAQIGPIYLGL</span><span class="topo-membrane">TGTLS</span></span>
-<span class="topo-line"><span class="topo-membrane">IFFGLVAISI</span><span class="topo-outside">IGFNMLASVHWD</span><span class="topo-unknown">VFQFLKH</span><span class="topo-outside">FFWLGLEPPPPQYGLRIPPLSEGGWWLMA</span><span class="topo-membrane">GL</span></span>
-<span class="topo-line"><span class="topo-membrane">FLTLSILLWWVRT</span><span class="topo-inside">YKRAEALGMSQHL</span><span class="topo-membrane">SWAFAAAIFFYLVL</span><span class="topo-outside">GFIRPVMMGSWAKAVPFG</span><span class="topo-unknown">IF</span></span>
-<span class="topo-line"><span class="topo-unknown">PHLDWTAAFSIR</span><span class="topo-outside">YGNLYYNP</span><span class="topo-membrane">FHMLSIAFLYGSALLFA</span><span class="topo-inside">MHGATILSVSRFGGDREIDQITH</span></span>
-<span class="topo-line"><span class="topo-inside">RGTAAERAALFWRWTMGFNVTMESIHRWA</span><span class="topo-membrane">WWCAVLTVITAGIG</span><span class="topo-outside">ILLSGTVVDNWYLWAVK</span></span>
-<span class="topo-line"><span class="topo-outside">HGMAPAYPEVVTAVNPYET</span><span class="topo-unknown">AAEVMQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">PEYQNIFTAVQVRAPAYPGVPLPKGNLPRIGRPIFSYWLGKIGDAQIGPIYLGL</span><span class="topo-membrane">TGTLSIFFGLVAISI</span><span class="topo-outside">IGFNMLASVHWD</span><span class="topo-unknown">VFQFLKH</span><span class="topo-outside">FFWLGLEPPPPQYGLRIPPLSEGGWWLMA</span><span class="topo-membrane">GL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">FLTLSILLWWVRT</span><span class="topo-inside">YKRAEALGMSQHL</span><span class="topo-membrane">SWAFAAAIFFYLVL</span><span class="topo-outside">GFIRPVMMGSWAKAVPFG</span><span class="topo-unknown">IFPHLDWTAAFSIR</span><span class="topo-outside">YGNLYYNP</span><span class="topo-membrane">FHMLSIAFLYGSALLFA</span><span class="topo-inside">MHGATILSVSRFGGDREIDQITH</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320     </span>
+<span class="topo-line"><span class="topo-inside">RGTAAERAALFWRWTMGFNVTMESIHRWA</span><span class="topo-membrane">WWCAVLTVITAGIG</span><span class="topo-outside">ILLSGTVVDNWYLWAVKHGMAPAYPEVVTAVNPYET</span><span class="topo-unknown">AAEVMQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2682,6 +2779,7 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2697,11 +2795,13 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSAG</span><span class="topo-outside">ITHYIDAAQI</span><span class="topo-membrane">TIWAFWLFFFGLII</span><span class="topo-inside">YLRREDKREGYPLDSDRTERSGGRVKVVGFPD</span></span>
-<span class="topo-line"><span class="topo-inside">LPDPKTFVLPHNGGTVVAPRVEAPVAVNATPFSPAPGSPLVPNGDPMLSGFGPAASPDRP</span></span>
-<span class="topo-line"><span class="topo-inside">KHCDLTFEGLPKIVPMRVAKEFSIAEGDPDPRGMTVVGLDGEVAGTVSDVWVDRSEPQIR</span></span>
-<span class="topo-line"><span class="topo-inside">YLEVEVAANKKKVLLPIGFSRFDKKARKVKVDAIKAAHFANVPTLSNPDQVTLYEEDKVC</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSAG</span><span class="topo-outside">ITHYIDAAQI</span><span class="topo-membrane">TIWAFWLFFFGLII</span><span class="topo-inside">YLRREDKREGYPLDSDRTERSGGRVKVVGFPDLPDPKTFVLPHNGGTVVAPRVEAPVAVNATPFSPAPGSPLVPNGDPMLSGFGPAASPDRP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">KHCDLTFEGLPKIVPMRVAKEFSIAEGDPDPRGMTVVGLDGEVAGTVSDVWVDRSEPQIRYLEVEVAANKKKVLLPIGFSRFDKKARKVKVDAIKAAHFANVPTLSNPDQVTLYEEDKVC</span></span>
+<span class="topo-ruler">       250         </span>
 <span class="topo-line"><span class="topo-inside">AYYAGGKLYATAERAGPLL</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2734,6 +2834,7 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2749,8 +2850,9 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MFTMN</span><span class="topo-inside">ANLYKIWLILDPRRVLVSI</span><span class="topo-membrane">VAFQIVLGLLIHMIV</span><span class="topo-outside">LSTDLNWLDDNIPVSYQALG</span><span class="topo-unknown">K</span></span>
-<span class="topo-line"><span class="topo-unknown">K</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60 </span>
+<span class="topo-line"><span class="topo-unknown">MFTMN</span><span class="topo-inside">ANLYKIWLILDPRRVLVSI</span><span class="topo-membrane">VAFQIVLGLLIHMIV</span><span class="topo-outside">LSTDLNWLDDNIPVSYQALG</span><span class="topo-unknown">KK</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2783,6 +2885,7 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2798,7 +2901,9 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40       </span>
 <span class="topo-line"><span class="topo-unknown">MAEQK</span><span class="topo-inside">SLTGLTDDEAKEFHAIFMQSMY</span><span class="topo-membrane">AWFGLVVIAHLLAW</span><span class="topo-outside">LYRPWL</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2831,6 +2936,7 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2846,8 +2952,9 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MFTM</span><span class="topo-inside">NANLYKIWLILDPRRVLVSI</span><span class="topo-membrane">VAFQIVLGLLIHMI</span><span class="topo-outside">VLSTDLNWLDDNIPVSYQALG</span><span class="topo-unknown">K</span></span>
-<span class="topo-line"><span class="topo-unknown">K</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60 </span>
+<span class="topo-line"><span class="topo-unknown">MFTM</span><span class="topo-inside">NANLYKIWLILDPRRVLVSI</span><span class="topo-membrane">VAFQIVLGLLIHMI</span><span class="topo-outside">VLSTDLNWLDDNIPVSYQALG</span><span class="topo-unknown">KK</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2880,6 +2987,7 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2895,7 +3003,9 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40       </span>
 <span class="topo-line"><span class="topo-unknown">MAEQKSLTG</span><span class="topo-inside">LTDDEAKEFHAIFMQSM</span><span class="topo-membrane">YAWFGLVVIAHLLA</span><span class="topo-outside">WLYRPWL</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2928,6 +3038,7 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2943,8 +3054,9 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MFTM</span><span class="topo-inside">NAN</span><span class="topo-unknown">LYKIWL</span><span class="topo-inside">ILDPRRVLVS</span><span class="topo-membrane">IVAFQIVLGLLIHM</span><span class="topo-outside">IVLSTDLNWLDDNIPVSYQALG</span><span class="topo-unknown">K</span></span>
-<span class="topo-line"><span class="topo-unknown">K</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60 </span>
+<span class="topo-line"><span class="topo-unknown">MFTM</span><span class="topo-inside">NAN</span><span class="topo-unknown">LYKIWL</span><span class="topo-inside">ILDPRRVLVS</span><span class="topo-membrane">IVAFQIVLGLLIHM</span><span class="topo-outside">IVLSTDLNWLDDNIPVSYQALG</span><span class="topo-unknown">KK</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2991,6 +3103,7 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3006,7 +3119,9 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40       </span>
 <span class="topo-line"><span class="topo-unknown">MAEQK</span><span class="topo-inside">SLTGLTDDEAKEFHAIFMQS</span><span class="topo-membrane">MYAWFGLVVIAHLL</span><span class="topo-outside">AWLYRPWL</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3039,6 +3154,7 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3054,8 +3170,9 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MF</span><span class="topo-inside">TMNAN</span><span class="topo-unknown">LYKIWL</span><span class="topo-inside">ILDPRRVLVS</span><span class="topo-membrane">IVAFQIVLGLLIHM</span><span class="topo-outside">IVLSTDLNWLDDNIPVSYQALG</span><span class="topo-unknown">K</span></span>
-<span class="topo-line"><span class="topo-unknown">K</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60 </span>
+<span class="topo-line"><span class="topo-unknown">MF</span><span class="topo-inside">TMNAN</span><span class="topo-unknown">LYKIWL</span><span class="topo-inside">ILDPRRVLVS</span><span class="topo-membrane">IVAFQIVLGLLIHM</span><span class="topo-outside">IVLSTDLNWLDDNIPVSYQALG</span><span class="topo-unknown">KK</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3102,6 +3219,7 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3117,7 +3235,9 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40       </span>
 <span class="topo-line"><span class="topo-unknown">MAEQK</span><span class="topo-inside">SLTGLTDDEAKEFHAIFMQ</span><span class="topo-membrane">SMYAWFGLVVIAHL</span><span class="topo-outside">LAWLYRPWL</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3150,6 +3270,7 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3165,8 +3286,9 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MF</span><span class="topo-inside">TMNAN</span><span class="topo-unknown">LYKIWLI</span><span class="topo-inside">LDPRRVLV</span><span class="topo-membrane">SIVAFQIVLGLLIH</span><span class="topo-outside">MIVLSTDLNWLDDNIPVSYQALG</span><span class="topo-unknown">K</span></span>
-<span class="topo-line"><span class="topo-unknown">K</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60 </span>
+<span class="topo-line"><span class="topo-unknown">MF</span><span class="topo-inside">TMNAN</span><span class="topo-unknown">LYKIWLI</span><span class="topo-inside">LDPRRVLV</span><span class="topo-membrane">SIVAFQIVLGLLIH</span><span class="topo-outside">MIVLSTDLNWLDDNIPVSYQALG</span><span class="topo-unknown">KK</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3213,6 +3335,7 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3228,7 +3351,9 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40       </span>
 <span class="topo-line"><span class="topo-unknown">MAEQK</span><span class="topo-inside">SLTGLTDDEAKEFHAIFM</span><span class="topo-membrane">QSMYAWFGLVVIAH</span><span class="topo-outside">LLAWLYRPWL</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3261,6 +3386,7 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3276,8 +3402,9 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MFT</span><span class="topo-inside">MNAN</span><span class="topo-unknown">LYKIWL</span><span class="topo-inside">ILDPRRVL</span><span class="topo-membrane">VSIVAFQIVLGLLI</span><span class="topo-outside">HMIVLSTDLNWLDDNIPVSYQALG</span><span class="topo-unknown">K</span></span>
-<span class="topo-line"><span class="topo-unknown">K</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60 </span>
+<span class="topo-line"><span class="topo-unknown">MFT</span><span class="topo-inside">MNAN</span><span class="topo-unknown">LYKIWL</span><span class="topo-inside">ILDPRRVL</span><span class="topo-membrane">VSIVAFQIVLGLLI</span><span class="topo-outside">HMIVLSTDLNWLDDNIPVSYQALG</span><span class="topo-unknown">KK</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3324,6 +3451,7 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3339,7 +3467,9 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40       </span>
 <span class="topo-line"><span class="topo-unknown">MAEQK</span><span class="topo-inside">SLTGLTDDEAKEFHAIFM</span><span class="topo-membrane">QSMYAWFGLVVIA</span><span class="topo-outside">HLLAWLYRPWL</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3372,6 +3502,7 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3387,8 +3518,9 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MF</span><span class="topo-inside">TMNAN</span><span class="topo-unknown">LYKIWL</span><span class="topo-inside">ILDPRRV</span><span class="topo-membrane">LVSIVAFQIVLGLLI</span><span class="topo-outside">HMIVLSTDLNWLDDNIPVSYQALG</span><span class="topo-unknown">K</span></span>
-<span class="topo-line"><span class="topo-unknown">K</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60 </span>
+<span class="topo-line"><span class="topo-unknown">MF</span><span class="topo-inside">TMNAN</span><span class="topo-unknown">LYKIWL</span><span class="topo-inside">ILDPRRV</span><span class="topo-membrane">LVSIVAFQIVLGLLI</span><span class="topo-outside">HMIVLSTDLNWLDDNIPVSYQALG</span><span class="topo-unknown">KK</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3435,6 +3567,7 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3450,7 +3583,9 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40       </span>
 <span class="topo-line"><span class="topo-unknown">MAEQKS</span><span class="topo-inside">LTGLTDDEAKEFHAIF</span><span class="topo-membrane">MQSMYAWFGLVVIA</span><span class="topo-outside">HLLAWLYRPWL</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3483,6 +3618,7 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3498,8 +3634,9 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MF</span><span class="topo-inside">TMNAN</span><span class="topo-unknown">LYKIWL</span><span class="topo-inside">ILDPRRV</span><span class="topo-membrane">LVSIVAFQIVLGLL</span><span class="topo-outside">IHMIVLSTDLNWLDDNIPVSYQAL</span><span class="topo-unknown">GK</span></span>
-<span class="topo-line"><span class="topo-unknown">K</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60 </span>
+<span class="topo-line"><span class="topo-unknown">MF</span><span class="topo-inside">TMNAN</span><span class="topo-unknown">LYKIWL</span><span class="topo-inside">ILDPRRV</span><span class="topo-membrane">LVSIVAFQIVLGLL</span><span class="topo-outside">IHMIVLSTDLNWLDDNIPVSYQAL</span><span class="topo-unknown">GKK</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3546,6 +3683,7 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3561,7 +3699,9 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40       </span>
 <span class="topo-line"><span class="topo-unknown">MAEQ</span><span class="topo-inside">KSLTGLTDDEAKEFHAIF</span><span class="topo-membrane">MQSMYAWFGLVVI</span><span class="topo-outside">AHLLAWLYRPWL</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3594,6 +3734,7 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3609,8 +3750,9 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MF</span><span class="topo-inside">TMNANLYKIWLILDPRRV</span><span class="topo-membrane">LVSIVAFQIVLGLL</span><span class="topo-outside">IHMIVLSTDLNWLDDNIPVSYQALGK</span></span>
-<span class="topo-line"><span class="topo-unknown">K</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60 </span>
+<span class="topo-line"><span class="topo-unknown">MF</span><span class="topo-inside">TMNANLYKIWLILDPRRV</span><span class="topo-membrane">LVSIVAFQIVLGLL</span><span class="topo-outside">IHMIVLSTDLNWLDDNIPVSYQALGK</span><span class="topo-unknown">K</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3643,6 +3785,7 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3658,7 +3801,9 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40       </span>
 <span class="topo-line"><span class="topo-unknown">MAEQK</span><span class="topo-inside">SLTGLTDDEAKEFHAIF</span><span class="topo-membrane">MQSMYAWFGLVVIA</span><span class="topo-outside">HLLAWLYRPWL</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3691,6 +3836,7 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3706,8 +3852,9 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MFTM</span><span class="topo-inside">NAN</span><span class="topo-unknown">LYKIWL</span><span class="topo-inside">ILDPRRV</span><span class="topo-membrane">LVSIVAFQIVLGLLI</span><span class="topo-outside">HMIVLSTDLNWLDDNIPVSYQALGK</span></span>
-<span class="topo-line"><span class="topo-unknown">K</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60 </span>
+<span class="topo-line"><span class="topo-unknown">MFTM</span><span class="topo-inside">NAN</span><span class="topo-unknown">LYKIWL</span><span class="topo-inside">ILDPRRV</span><span class="topo-membrane">LVSIVAFQIVLGLLI</span><span class="topo-outside">HMIVLSTDLNWLDDNIPVSYQALGK</span><span class="topo-unknown">K</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3754,6 +3901,7 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3769,7 +3917,9 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40       </span>
 <span class="topo-line"><span class="topo-unknown">MAEQKS</span><span class="topo-inside">LTGLTDDEAKEFHAIF</span><span class="topo-membrane">MQSMYAWFGLVVIA</span><span class="topo-outside">HLLAWLYRPWL</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3802,6 +3952,7 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3817,8 +3968,9 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MF</span><span class="topo-inside">TMNAN</span><span class="topo-unknown">LYKIWL</span><span class="topo-inside">ILDPRRVLV</span><span class="topo-membrane">SIVAFQIVLGLLI</span><span class="topo-outside">HMIVLSTDLNWLDDNIPVSYQALG</span><span class="topo-unknown">K</span></span>
-<span class="topo-line"><span class="topo-unknown">K</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60 </span>
+<span class="topo-line"><span class="topo-unknown">MF</span><span class="topo-inside">TMNAN</span><span class="topo-unknown">LYKIWL</span><span class="topo-inside">ILDPRRVLV</span><span class="topo-membrane">SIVAFQIVLGLLI</span><span class="topo-outside">HMIVLSTDLNWLDDNIPVSYQALG</span><span class="topo-unknown">KK</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3865,6 +4017,7 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3880,7 +4033,9 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40       </span>
 <span class="topo-line"><span class="topo-unknown">MAEQKSL</span><span class="topo-inside">TGLTDDEAKEFHAIFM</span><span class="topo-membrane">QSMYAWFGLVVIAH</span><span class="topo-outside">LLAWLYRPWL</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3913,6 +4068,7 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3928,8 +4084,9 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MFT</span><span class="topo-inside">MNANLYKIWLILDPRRVLVS</span><span class="topo-membrane">IVAFQIVLGLLIHM</span><span class="topo-outside">IVLSTDLNWLDDNIPVSYQALG</span><span class="topo-unknown">K</span></span>
-<span class="topo-line"><span class="topo-unknown">K</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60 </span>
+<span class="topo-line"><span class="topo-unknown">MFT</span><span class="topo-inside">MNANLYKIWLILDPRRVLVS</span><span class="topo-membrane">IVAFQIVLGLLIHM</span><span class="topo-outside">IVLSTDLNWLDDNIPVSYQALG</span><span class="topo-unknown">KK</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3962,6 +4119,7 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3977,7 +4135,9 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40       </span>
 <span class="topo-line"><span class="topo-unknown">MAEQKS</span><span class="topo-inside">LTGLTDDEAKEFHAIFMQ</span><span class="topo-membrane">SMYAWFGLVVIAHL</span><span class="topo-outside">LAWLYRPWL</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4010,6 +4170,7 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4025,8 +4186,9 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MFT</span><span class="topo-inside">MNANLYKIWLILDPRRVLVSI</span><span class="topo-membrane">VAFQIVLGLLIHMI</span><span class="topo-outside">VLSTDLNWLDDNIPVSYQALG</span><span class="topo-unknown">K</span></span>
-<span class="topo-line"><span class="topo-unknown">K</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60 </span>
+<span class="topo-line"><span class="topo-unknown">MFT</span><span class="topo-inside">MNANLYKIWLILDPRRVLVSI</span><span class="topo-membrane">VAFQIVLGLLIHMI</span><span class="topo-outside">VLSTDLNWLDDNIPVSYQALG</span><span class="topo-unknown">KK</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4059,6 +4221,7 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4074,7 +4237,9 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40       </span>
 <span class="topo-line"><span class="topo-unknown">MAEQK</span><span class="topo-inside">SLTGLTDDEAKEFHAIFMQSM</span><span class="topo-membrane">YAWFGLVVIAHLL</span><span class="topo-outside">AWLYRPWL</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4107,6 +4272,7 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4122,8 +4288,9 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MFTMN</span><span class="topo-inside">ANLYKIWLILDPRRVLVSIV</span><span class="topo-membrane">AFQIVLGLLIHMIV</span><span class="topo-outside">LSTDLNWLDDNIPVSYQALG</span><span class="topo-unknown">K</span></span>
-<span class="topo-line"><span class="topo-unknown">K</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60 </span>
+<span class="topo-line"><span class="topo-unknown">MFTMN</span><span class="topo-inside">ANLYKIWLILDPRRVLVSIV</span><span class="topo-membrane">AFQIVLGLLIHMIV</span><span class="topo-outside">LSTDLNWLDDNIPVSYQALG</span><span class="topo-unknown">KK</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4156,6 +4323,7 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4171,7 +4339,9 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40       </span>
 <span class="topo-line"><span class="topo-unknown">MAEQK</span><span class="topo-inside">SLTGLTDDEAKEFHAIFMQSMY</span><span class="topo-membrane">AWFGLVVIAHLLAW</span><span class="topo-outside">LYRPWL</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4204,6 +4374,7 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4219,8 +4390,9 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MF</span><span class="topo-inside">TMNANLYKIWLILDPRRVLVSIVA</span><span class="topo-membrane">FQIVLGLLIHMIV</span><span class="topo-outside">LSTDLNWLDDNIPVSYQALG</span><span class="topo-unknown">K</span></span>
-<span class="topo-line"><span class="topo-unknown">K</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60 </span>
+<span class="topo-line"><span class="topo-unknown">MF</span><span class="topo-inside">TMNANLYKIWLILDPRRVLVSIVA</span><span class="topo-membrane">FQIVLGLLIHMIV</span><span class="topo-outside">LSTDLNWLDDNIPVSYQALG</span><span class="topo-unknown">KK</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4253,6 +4425,7 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4268,7 +4441,9 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40       </span>
 <span class="topo-line"><span class="topo-unknown">MAEQKS</span><span class="topo-inside">LTGLTDDEAKEFHAIFMQSMYA</span><span class="topo-membrane">WFGLVVIAHLLAWL</span><span class="topo-outside">YRPWL</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4301,6 +4476,7 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4316,8 +4492,9 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MF</span><span class="topo-inside">TMNANLYKIWLILDPRRVLVSIVA</span><span class="topo-membrane">FQIVLGLLIHMIV</span><span class="topo-outside">LSTDLNWLDDNIPVSYQALG</span><span class="topo-unknown">K</span></span>
-<span class="topo-line"><span class="topo-unknown">K</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60 </span>
+<span class="topo-line"><span class="topo-unknown">MF</span><span class="topo-inside">TMNANLYKIWLILDPRRVLVSIVA</span><span class="topo-membrane">FQIVLGLLIHMIV</span><span class="topo-outside">LSTDLNWLDDNIPVSYQALG</span><span class="topo-unknown">KK</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4350,6 +4527,7 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4365,7 +4543,9 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40       </span>
 <span class="topo-line"><span class="topo-unknown">MAEQ</span><span class="topo-inside">KSLTGLTDDEAKEFHAIFMQSMYA</span><span class="topo-membrane">WFGLVVIAHLLAWL</span><span class="topo-outside">YRPWL</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4398,6 +4578,7 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4413,8 +4594,9 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">AAPANAVTADDPTAIALKYNQDATKSERVAAARPGLPPEEQHCANCQFMQANVGEGDWKG</span></span>
-<span class="topo-line"><span class="topo-outside">CQLFPGKLINVNGWCASWTLKAG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80   </span>
+<span class="topo-line"><span class="topo-outside">AAPANAVTADDPTAIALKYNQDATKSERVAAARPGLPPEEQHCANCQFMQANVGEGDWKGCQLFPGKLINVNGWCASWTLKAG</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4433,6 +4615,7 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

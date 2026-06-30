@@ -189,15 +189,17 @@ is a Parkinson disease risk gene.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GPS</span><span class="topo-inside">QRQLVESGGGLVQPGGSLRLSCAASGSILYFNRMGWYRQAPGKQRELVAAITSGDST</span></span>
-<span class="topo-line"><span class="topo-inside">NYADPVKGRFTISRDNAKNTVYLQMNSLKPEDTAVYYCNAKEKGWSFSLYDYWGQGTPVT</span></span>
-<span class="topo-line"><span class="topo-inside">VVKLVIWINGDKGYNGLAEVGKKFEKDTGIKVTVEHPDKLEEKFPQVAATGDGPDIIFWA</span></span>
-<span class="topo-line"><span class="topo-inside">HDRFGGYAQSGLLAEITPDKAFQDKLYPFTWDAVRYNGKLIAYPIAVEALSLIYNKDLLP</span></span>
-<span class="topo-line"><span class="topo-inside">NPPKTWEEIPALDKELKAKGKSALMFNLQEPYFTWPLIAADG</span><span class="topo-unknown">GYAFKYENGKYDIKDVGV</span></span>
-<span class="topo-line"><span class="topo-unknown">D</span><span class="topo-inside">NAGAKAGLTFLVDLIKNKHMNADTDYSIAEAAFNKGETAMTINGPWAWSNIDTSKVNYG</span></span>
-<span class="topo-line"><span class="topo-inside">VTVLPTFKGQPSKPFVGVLSAGINAASPNKELAKEFLENYLLTDEGLEAVNKDKPLGAVA</span></span>
-<span class="topo-line"><span class="topo-inside">LKSYEEELAKDPRIAATMENAQKGEIMPNIPQMSAFWYAVRTAVINAASGRQTVDEALKD</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GPS</span><span class="topo-inside">QRQLVESGGGLVQPGGSLRLSCAASGSILYFNRMGWYRQAPGKQRELVAAITSGDSTNYADPVKGRFTISRDNAKNTVYLQMNSLKPEDTAVYYCNAKEKGWSFSLYDYWGQGTPVT</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">VVKLVIWINGDKGYNGLAEVGKKFEKDTGIKVTVEHPDKLEEKFPQVAATGDGPDIIFWAHDRFGGYAQSGLLAEITPDKAFQDKLYPFTWDAVRYNGKLIAYPIAVEALSLIYNKDLLP</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">NPPKTWEEIPALDKELKAKGKSALMFNLQEPYFTWPLIAADG</span><span class="topo-unknown">GYAFKYENGKYDIKDVGVD</span><span class="topo-inside">NAGAKAGLTFLVDLIKNKHMNADTDYSIAEAAFNKGETAMTINGPWAWSNIDTSKVNYG</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">VTVLPTFKGQPSKPFVGVLSAGINAASPNKELAKEFLENYLLTDEGLEAVNKDKPLGAVALKSYEEELAKDPRIAATMENAQKGEIMPNIPQMSAFWYAVRTAVINAASGRQTVDEALKD</span></span>
+<span class="topo-ruler">      </span>
 <span class="topo-line"><span class="topo-inside">AQT</span><span class="topo-unknown">PGA</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -244,6 +246,7 @@ is a Parkinson disease risk gene.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -259,11 +262,13 @@ is a Parkinson disease risk gene.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSRKVFETV</span><span class="topo-inside">VGLNPNFSFRGKQQTRI</span><span class="topo-membrane">ETFSDAVFALAITLLVLSSTIP</span><span class="topo-outside">ETFEDLWAS</span><span class="topo-membrane">MRD</span></span>
-<span class="topo-line"><span class="topo-membrane">VIPFAICVALIIVIWYQHY</span><span class="topo-inside">IFFLKYGLQDK</span><span class="topo-membrane">VTILLNTILLFVLLVYVYPLKFLARFLSEI</span></span>
-<span class="topo-line"><span class="topo-membrane">YG</span><span class="topo-outside">GIFGIIETDLSRFGEYSHQNLK</span><span class="topo-membrane">LLMVNYGLGAFAIFLVFSLM</span><span class="topo-inside">YWRAYKMKSLLDLNSY</span></span>
-<span class="topo-line"><span class="topo-inside">EIFDTKSSII</span><span class="topo-membrane">ANLLMCSVPLLSLIITLIDP</span><span class="topo-outside">WGNFR</span><span class="topo-membrane">TTILSGFLYFLYVPIMIVFGRIT</span><span class="topo-inside">SK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSRKVFETV</span><span class="topo-inside">VGLNPNFSFRGKQQTRI</span><span class="topo-membrane">ETFSDAVFALAITLLVLSSTIP</span><span class="topo-outside">ETFEDLWAS</span><span class="topo-membrane">MRDVIPFAICVALIIVIWYQHY</span><span class="topo-inside">IFFLKYGLQDK</span><span class="topo-membrane">VTILLNTILLFVLLVYVYPLKFLARFLSEI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">YG</span><span class="topo-outside">GIFGIIETDLSRFGEYSHQNLK</span><span class="topo-membrane">LLMVNYGLGAFAIFLVFSLM</span><span class="topo-inside">YWRAYKMKSLLDLNSYEIFDTKSSII</span><span class="topo-membrane">ANLLMCSVPLLSLIITLIDP</span><span class="topo-outside">WGNFR</span><span class="topo-membrane">TTILSGFLYFLYVPIMIVFGRIT</span><span class="topo-inside">SK</span></span>
+<span class="topo-ruler">       250     </span>
 <span class="topo-line"><span class="topo-inside">K</span><span class="topo-unknown">SRRLLQDALEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -380,6 +385,7 @@ is a Parkinson disease risk gene.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -395,15 +401,17 @@ is a Parkinson disease risk gene.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GPS</span><span class="topo-inside">QRQLVESGGGLVQPGGSLRLSCAASGSILYFNRMGWYRQAPGKQRELVAAITSGDST</span></span>
-<span class="topo-line"><span class="topo-inside">NYADPVKGRFTISRDNAKNTVYLQMNSLKPEDTAVYYCNAKEKGWSFSLYDYWGQGTPVT</span></span>
-<span class="topo-line"><span class="topo-inside">VVKLVIWINGDKGYNGLAEVGKKFEKDTGIKVTVEHPDKLEEKFPQVAATGDGPDIIFWA</span></span>
-<span class="topo-line"><span class="topo-inside">HDRFGGYAQSGLLAEITPDKAFQDKLYPFTWDAVRYNGKLIAYPIAVEALSLIYNKDLLP</span></span>
-<span class="topo-line"><span class="topo-inside">NPPKTWEEIPALDKELKAKGKSALMFNLQEPYFTWPLIAADG</span><span class="topo-unknown">GYAFKYENGKYDIKDVGV</span></span>
-<span class="topo-line"><span class="topo-unknown">D</span><span class="topo-inside">NAGAKAGLTFLVDLIKNKHMNADTDYSIAEAAFNKGETAMTINGPWAWSNIDTSKVNYG</span></span>
-<span class="topo-line"><span class="topo-inside">VTVLPTFKGQPSKPFVGVLSAGINAASPNKELAKEFLENYLLTDEGLEAVNKDKPLGAVA</span></span>
-<span class="topo-line"><span class="topo-inside">LKSYEEELAKDPRIAATMENAQKGEIMPNIPQMSAFWYAVRTAVINAASGRQTVDEALKD</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GPS</span><span class="topo-inside">QRQLVESGGGLVQPGGSLRLSCAASGSILYFNRMGWYRQAPGKQRELVAAITSGDSTNYADPVKGRFTISRDNAKNTVYLQMNSLKPEDTAVYYCNAKEKGWSFSLYDYWGQGTPVT</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">VVKLVIWINGDKGYNGLAEVGKKFEKDTGIKVTVEHPDKLEEKFPQVAATGDGPDIIFWAHDRFGGYAQSGLLAEITPDKAFQDKLYPFTWDAVRYNGKLIAYPIAVEALSLIYNKDLLP</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">NPPKTWEEIPALDKELKAKGKSALMFNLQEPYFTWPLIAADG</span><span class="topo-unknown">GYAFKYENGKYDIKDVGVD</span><span class="topo-inside">NAGAKAGLTFLVDLIKNKHMNADTDYSIAEAAFNKGETAMTINGPWAWSNIDTSKVNYG</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">VTVLPTFKGQPSKPFVGVLSAGINAASPNKELAKEFLENYLLTDEGLEAVNKDKPLGAVALKSYEEELAKDPRIAATMENAQKGEIMPNIPQMSAFWYAVRTAVINAASGRQTVDEALKD</span></span>
+<span class="topo-ruler">      </span>
 <span class="topo-line"><span class="topo-inside">AQT</span><span class="topo-unknown">PGA</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -450,6 +458,7 @@ is a Parkinson disease risk gene.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -465,11 +474,13 @@ is a Parkinson disease risk gene.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSRKVFETV</span><span class="topo-inside">VGLNPNFSFRGKQQTRI</span><span class="topo-membrane">ETFSDAVFALAITLLVLSSTIP</span><span class="topo-outside">ETFEDLWAS</span><span class="topo-membrane">MRD</span></span>
-<span class="topo-line"><span class="topo-membrane">VIPFAICVALIIVIWYQHY</span><span class="topo-inside">IFFLKYGLQDK</span><span class="topo-membrane">VTILLNTILLFVLLVYVYPLKFLARFLSEI</span></span>
-<span class="topo-line"><span class="topo-membrane">YG</span><span class="topo-outside">GIFGIIETDLSRFGEYSHQNLK</span><span class="topo-membrane">LLMVNYGLGAFAIFLVFSLM</span><span class="topo-inside">YWRAYKMKSLLDLNSY</span></span>
-<span class="topo-line"><span class="topo-inside">EIFDTKSSII</span><span class="topo-membrane">ANLLMCSVPLLSLIITLIDP</span><span class="topo-outside">WGNFR</span><span class="topo-membrane">TTILSGFLYFLYVPIMIVFGRIT</span><span class="topo-inside">SK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSRKVFETV</span><span class="topo-inside">VGLNPNFSFRGKQQTRI</span><span class="topo-membrane">ETFSDAVFALAITLLVLSSTIP</span><span class="topo-outside">ETFEDLWAS</span><span class="topo-membrane">MRDVIPFAICVALIIVIWYQHY</span><span class="topo-inside">IFFLKYGLQDK</span><span class="topo-membrane">VTILLNTILLFVLLVYVYPLKFLARFLSEI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">YG</span><span class="topo-outside">GIFGIIETDLSRFGEYSHQNLK</span><span class="topo-membrane">LLMVNYGLGAFAIFLVFSLM</span><span class="topo-inside">YWRAYKMKSLLDLNSYEIFDTKSSII</span><span class="topo-membrane">ANLLMCSVPLLSLIITLIDP</span><span class="topo-outside">WGNFR</span><span class="topo-membrane">TTILSGFLYFLYVPIMIVFGRIT</span><span class="topo-inside">SK</span></span>
+<span class="topo-ruler">       250     </span>
 <span class="topo-line"><span class="topo-inside">K</span><span class="topo-unknown">SRRLLQDALEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -586,6 +597,7 @@ is a Parkinson disease risk gene.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -601,15 +613,17 @@ is a Parkinson disease risk gene.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GPS</span><span class="topo-inside">QRQLVESGGGLVQPGGSLRLSCAASGSILYFNRMGWYRQAPGKQRELVAAITSGDST</span></span>
-<span class="topo-line"><span class="topo-inside">NYADPVKGRFTISRDNAKNTVYLQMNSLKPEDTAVYYCNAKEKGWSFSLYDYWGQGTPVT</span></span>
-<span class="topo-line"><span class="topo-inside">VVKLVIWINGDKGYNGLAEVGKKFEKDTGIKVTVEHPDKLEEKFPQVAATGDGPDIIFWA</span></span>
-<span class="topo-line"><span class="topo-inside">HDRFGGYAQSGLLAEITPDKAFQDKLYPFTWDAVRYNGKLIAYPIAVEALSLIYNKDLLP</span></span>
-<span class="topo-line"><span class="topo-inside">NPPKTWEEIPALDKELKAKGKSALMFNLQEPYFTWPLIAADG</span><span class="topo-unknown">GYAFKYENGKYDIKDVGV</span></span>
-<span class="topo-line"><span class="topo-unknown">D</span><span class="topo-inside">NAGAKAGLTFLVDLIKNKHMNADTDYSIAEAAFNKGETAMTINGPWAWSNIDTSKVNYG</span></span>
-<span class="topo-line"><span class="topo-inside">VTVLPTFKGQPSKPFVGVLSAGINAASPNKELAKEFLENYLLTDEGLEAVNKDKPLGAVA</span></span>
-<span class="topo-line"><span class="topo-inside">LKSYEEELAKDPRIAATMENAQKGEIMPNIPQMSAFWYAVRTAVINAASGRQTVDEALKD</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GPS</span><span class="topo-inside">QRQLVESGGGLVQPGGSLRLSCAASGSILYFNRMGWYRQAPGKQRELVAAITSGDSTNYADPVKGRFTISRDNAKNTVYLQMNSLKPEDTAVYYCNAKEKGWSFSLYDYWGQGTPVT</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">VVKLVIWINGDKGYNGLAEVGKKFEKDTGIKVTVEHPDKLEEKFPQVAATGDGPDIIFWAHDRFGGYAQSGLLAEITPDKAFQDKLYPFTWDAVRYNGKLIAYPIAVEALSLIYNKDLLP</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">NPPKTWEEIPALDKELKAKGKSALMFNLQEPYFTWPLIAADG</span><span class="topo-unknown">GYAFKYENGKYDIKDVGVD</span><span class="topo-inside">NAGAKAGLTFLVDLIKNKHMNADTDYSIAEAAFNKGETAMTINGPWAWSNIDTSKVNYG</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">VTVLPTFKGQPSKPFVGVLSAGINAASPNKELAKEFLENYLLTDEGLEAVNKDKPLGAVALKSYEEELAKDPRIAATMENAQKGEIMPNIPQMSAFWYAVRTAVINAASGRQTVDEALKD</span></span>
+<span class="topo-ruler">      </span>
 <span class="topo-line"><span class="topo-inside">AQT</span><span class="topo-unknown">PGA</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -656,6 +670,7 @@ is a Parkinson disease risk gene.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -671,11 +686,13 @@ is a Parkinson disease risk gene.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSRKVFETV</span><span class="topo-inside">VGLNPNFSFRGKQQTRI</span><span class="topo-membrane">ETFSDAVFALAITLLVLSSTIP</span><span class="topo-outside">ETFEDLWAS</span><span class="topo-membrane">MRD</span></span>
-<span class="topo-line"><span class="topo-membrane">VIPFAICVALIIVIWYQHY</span><span class="topo-inside">IFFLKYGLQDK</span><span class="topo-membrane">VTILLNTILLFVLLVYVYPLKFLARFLSEI</span></span>
-<span class="topo-line"><span class="topo-membrane">YG</span><span class="topo-outside">GIFGIIETDLSRFGEYSHQNLK</span><span class="topo-membrane">LLMVNYGLGAFAIFLVFSLM</span><span class="topo-inside">YWRAYKMKSLLDLNSY</span></span>
-<span class="topo-line"><span class="topo-inside">EIFDTKSSII</span><span class="topo-membrane">ANLLMCSVPLLSLIITLIDP</span><span class="topo-outside">WGNFR</span><span class="topo-membrane">TTILSGFLYFLYVPIMIVFGRIT</span><span class="topo-inside">SK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSRKVFETV</span><span class="topo-inside">VGLNPNFSFRGKQQTRI</span><span class="topo-membrane">ETFSDAVFALAITLLVLSSTIP</span><span class="topo-outside">ETFEDLWAS</span><span class="topo-membrane">MRDVIPFAICVALIIVIWYQHY</span><span class="topo-inside">IFFLKYGLQDK</span><span class="topo-membrane">VTILLNTILLFVLLVYVYPLKFLARFLSEI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">YG</span><span class="topo-outside">GIFGIIETDLSRFGEYSHQNLK</span><span class="topo-membrane">LLMVNYGLGAFAIFLVFSLM</span><span class="topo-inside">YWRAYKMKSLLDLNSYEIFDTKSSII</span><span class="topo-membrane">ANLLMCSVPLLSLIITLIDP</span><span class="topo-outside">WGNFR</span><span class="topo-membrane">TTILSGFLYFLYVPIMIVFGRIT</span><span class="topo-inside">SK</span></span>
+<span class="topo-ruler">       250     </span>
 <span class="topo-line"><span class="topo-inside">K</span><span class="topo-unknown">SRRLLQDALEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -792,6 +809,7 @@ is a Parkinson disease risk gene.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -807,15 +825,17 @@ is a Parkinson disease risk gene.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GPS</span><span class="topo-inside">QRQLVESGGGLVQPGGSLRLSCAASGSILYFNRMGWYRQAPGKQRELVAAITSGDST</span></span>
-<span class="topo-line"><span class="topo-inside">NYADPVKGRFTISRDNAKNTVYLQMNSLKPEDTAVYYCNAKEKGWSFSLYDYWGQGTPVT</span></span>
-<span class="topo-line"><span class="topo-inside">VVKLVIWINGDKGYNGLAEVGKKFEKDTGIKVTVEHPDKLEEKFPQVAATGDGPDIIFWA</span></span>
-<span class="topo-line"><span class="topo-inside">HDRFGGYAQSGLLAEITPDKAFQDKLYPFTWDAVRYNGKLIAYPIAVEALSLIYNKDLLP</span></span>
-<span class="topo-line"><span class="topo-inside">NPPKTWEEIPALDKELKAKGKSALMFNLQEPYFTWPLIAADG</span><span class="topo-unknown">GYAFKYENGKYDIKDVGV</span></span>
-<span class="topo-line"><span class="topo-unknown">D</span><span class="topo-inside">NAGAKAGLTFLVDLIKNKHMNADTDYSIAEAAFNKGETAMTINGPWAWSNIDTSKVNYG</span></span>
-<span class="topo-line"><span class="topo-inside">VTVLPTFKGQPSKPFVGVLSAGINAASPNKELAKEFLENYLLTDEGLEAVNKDKPLGAVA</span></span>
-<span class="topo-line"><span class="topo-inside">LKSYEEELAKDPRIAATMENAQKGEIMPNIPQMSAFWYAVRTAVINAASGRQTVDEALKD</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GPS</span><span class="topo-inside">QRQLVESGGGLVQPGGSLRLSCAASGSILYFNRMGWYRQAPGKQRELVAAITSGDSTNYADPVKGRFTISRDNAKNTVYLQMNSLKPEDTAVYYCNAKEKGWSFSLYDYWGQGTPVT</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">VVKLVIWINGDKGYNGLAEVGKKFEKDTGIKVTVEHPDKLEEKFPQVAATGDGPDIIFWAHDRFGGYAQSGLLAEITPDKAFQDKLYPFTWDAVRYNGKLIAYPIAVEALSLIYNKDLLP</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">NPPKTWEEIPALDKELKAKGKSALMFNLQEPYFTWPLIAADG</span><span class="topo-unknown">GYAFKYENGKYDIKDVGVD</span><span class="topo-inside">NAGAKAGLTFLVDLIKNKHMNADTDYSIAEAAFNKGETAMTINGPWAWSNIDTSKVNYG</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">VTVLPTFKGQPSKPFVGVLSAGINAASPNKELAKEFLENYLLTDEGLEAVNKDKPLGAVALKSYEEELAKDPRIAATMENAQKGEIMPNIPQMSAFWYAVRTAVINAASGRQTVDEALKD</span></span>
+<span class="topo-ruler">      </span>
 <span class="topo-line"><span class="topo-inside">AQT</span><span class="topo-unknown">PGA</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -862,6 +882,7 @@ is a Parkinson disease risk gene.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -877,11 +898,13 @@ is a Parkinson disease risk gene.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSRKVFETV</span><span class="topo-inside">VGLNPNFSFRGKQQTRI</span><span class="topo-membrane">ETFSDAVFALAITLLVLSSTIP</span><span class="topo-outside">ETFEDLWAS</span><span class="topo-membrane">MRD</span></span>
-<span class="topo-line"><span class="topo-membrane">VIPFAICVALIIVIWYQHY</span><span class="topo-inside">IFFLKYGLQDK</span><span class="topo-membrane">VTILLNTILLFVLLVYVYPLKFLARFLSEI</span></span>
-<span class="topo-line"><span class="topo-membrane">YG</span><span class="topo-outside">GIFGIIETDLSRFGEYSHQNLK</span><span class="topo-membrane">LLMVNYGLGAFAIFLVFSLM</span><span class="topo-inside">YWRAYKMKSLLDLNSY</span></span>
-<span class="topo-line"><span class="topo-inside">EIFDTKSSII</span><span class="topo-membrane">ANLLMCSVPLLSLIITLIDP</span><span class="topo-outside">WGNFR</span><span class="topo-membrane">TTILSGFLYFLYVPIMIVFGRIT</span><span class="topo-inside">SK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSRKVFETV</span><span class="topo-inside">VGLNPNFSFRGKQQTRI</span><span class="topo-membrane">ETFSDAVFALAITLLVLSSTIP</span><span class="topo-outside">ETFEDLWAS</span><span class="topo-membrane">MRDVIPFAICVALIIVIWYQHY</span><span class="topo-inside">IFFLKYGLQDK</span><span class="topo-membrane">VTILLNTILLFVLLVYVYPLKFLARFLSEI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">YG</span><span class="topo-outside">GIFGIIETDLSRFGEYSHQNLK</span><span class="topo-membrane">LLMVNYGLGAFAIFLVFSLM</span><span class="topo-inside">YWRAYKMKSLLDLNSYEIFDTKSSII</span><span class="topo-membrane">ANLLMCSVPLLSLIITLIDP</span><span class="topo-outside">WGNFR</span><span class="topo-membrane">TTILSGFLYFLYVPIMIVFGRIT</span><span class="topo-inside">SK</span></span>
+<span class="topo-ruler">       250     </span>
 <span class="topo-line"><span class="topo-inside">K</span><span class="topo-unknown">SRRLLQDALEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -998,6 +1021,7 @@ is a Parkinson disease risk gene.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1013,15 +1037,17 @@ is a Parkinson disease risk gene.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GPS</span><span class="topo-inside">QRQLVESGGGLVQPGGSLRLSCAASGSILYFNRMGWYRQAPGKQRELVAAITSGDST</span></span>
-<span class="topo-line"><span class="topo-inside">NYADPVKGRFTISRDNAKNTVYLQMNSLKPEDTAVYYCNAKEKGWSFSLYDYWGQGTPVT</span></span>
-<span class="topo-line"><span class="topo-inside">VVKLVIWINGDKGYNGLAEVGKKFEKDTGIKVTVEHPDKLEEKFPQVAATGDGPDIIFWA</span></span>
-<span class="topo-line"><span class="topo-inside">HDRFGGYAQSGLLAEITPDKAFQDKLYPFTWDAVRYNGKLIAYPIAVEALSLIYNKDLLP</span></span>
-<span class="topo-line"><span class="topo-inside">NPPKTWEEIPALDKELKAKGKSALMFNLQEPYFTWPLIAADG</span><span class="topo-unknown">GYAFKYENGKYDIKDVGV</span></span>
-<span class="topo-line"><span class="topo-unknown">D</span><span class="topo-inside">NAGAKAGLTFLVDLIKNKHMNADTDYSIAEAAFNKGETAMTINGPWAWSNIDTSKVNYG</span></span>
-<span class="topo-line"><span class="topo-inside">VTVLPTFKGQPSKPFVGVLSAGINAASPNKELAKEFLENYLLTDEGLEAVNKDKPLGAVA</span></span>
-<span class="topo-line"><span class="topo-inside">LKSYEEELAKDPRIAATMENAQKGEIMPNIPQMSAFWYAVRTAVINAASGRQTVDEALKD</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GPS</span><span class="topo-inside">QRQLVESGGGLVQPGGSLRLSCAASGSILYFNRMGWYRQAPGKQRELVAAITSGDSTNYADPVKGRFTISRDNAKNTVYLQMNSLKPEDTAVYYCNAKEKGWSFSLYDYWGQGTPVT</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">VVKLVIWINGDKGYNGLAEVGKKFEKDTGIKVTVEHPDKLEEKFPQVAATGDGPDIIFWAHDRFGGYAQSGLLAEITPDKAFQDKLYPFTWDAVRYNGKLIAYPIAVEALSLIYNKDLLP</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">NPPKTWEEIPALDKELKAKGKSALMFNLQEPYFTWPLIAADG</span><span class="topo-unknown">GYAFKYENGKYDIKDVGVD</span><span class="topo-inside">NAGAKAGLTFLVDLIKNKHMNADTDYSIAEAAFNKGETAMTINGPWAWSNIDTSKVNYG</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">VTVLPTFKGQPSKPFVGVLSAGINAASPNKELAKEFLENYLLTDEGLEAVNKDKPLGAVALKSYEEELAKDPRIAATMENAQKGEIMPNIPQMSAFWYAVRTAVINAASGRQTVDEALKD</span></span>
+<span class="topo-ruler">      </span>
 <span class="topo-line"><span class="topo-inside">AQT</span><span class="topo-unknown">PGA</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1068,6 +1094,7 @@ is a Parkinson disease risk gene.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1083,11 +1110,13 @@ is a Parkinson disease risk gene.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSRKVFETV</span><span class="topo-inside">VGLNPNFSFRGKQQTR</span><span class="topo-membrane">IETFSDAVFALAITLLVLSS</span><span class="topo-outside">TIPETFEDLWASMRD</span></span>
-<span class="topo-line"><span class="topo-membrane">VIPFAICVALIIVIWYQHY</span><span class="topo-inside">IFFLKYGLQDKVTI</span><span class="topo-membrane">LLNTILLFVLLVYVYPLKFLAR</span><span class="topo-outside">FLSEI</span></span>
-<span class="topo-line"><span class="topo-outside">YGGIFGIIETDLSRFGEYSHQNLK</span><span class="topo-membrane">LLMVNYGLGAFAIFLVFSLM</span><span class="topo-inside">YWRAYKMKSLLDLNSY</span></span>
-<span class="topo-line"><span class="topo-inside">EIFDTKSSII</span><span class="topo-membrane">ANLLMCSVPLLSLIITLIDPW</span><span class="topo-outside">GNFR</span><span class="topo-membrane">TTILSGFLYFLYVPIMIVFGRIT</span><span class="topo-inside">SK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSRKVFETV</span><span class="topo-inside">VGLNPNFSFRGKQQTR</span><span class="topo-membrane">IETFSDAVFALAITLLVLSS</span><span class="topo-outside">TIPETFEDLWASMRD</span><span class="topo-membrane">VIPFAICVALIIVIWYQHY</span><span class="topo-inside">IFFLKYGLQDKVTI</span><span class="topo-membrane">LLNTILLFVLLVYVYPLKFLAR</span><span class="topo-outside">FLSEI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">YGGIFGIIETDLSRFGEYSHQNLK</span><span class="topo-membrane">LLMVNYGLGAFAIFLVFSLM</span><span class="topo-inside">YWRAYKMKSLLDLNSYEIFDTKSSII</span><span class="topo-membrane">ANLLMCSVPLLSLIITLIDPW</span><span class="topo-outside">GNFR</span><span class="topo-membrane">TTILSGFLYFLYVPIMIVFGRIT</span><span class="topo-inside">SK</span></span>
+<span class="topo-ruler">       250     </span>
 <span class="topo-line"><span class="topo-inside">K</span><span class="topo-unknown">SRRLLQDALEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1204,6 +1233,7 @@ is a Parkinson disease risk gene.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1219,15 +1249,17 @@ is a Parkinson disease risk gene.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GPS</span><span class="topo-inside">QRQLVESGGGLVQPGGSLRLSCAASGSILYFNRMGWYRQAPGKQRELVAAITSGDST</span></span>
-<span class="topo-line"><span class="topo-inside">NYADPVKGRFTISRDNAKNTVYLQMNSLKPEDTAVYYCNAKEKGWSFSLYDYWGQGTPVT</span></span>
-<span class="topo-line"><span class="topo-inside">VVKLVIWINGDKGYNGLAEVGKKFEKDTGIKVTVEHPDKLEEKFPQVAATGDGPDIIFWA</span></span>
-<span class="topo-line"><span class="topo-inside">HDRFGGYAQSGLLAEITPDKAFQDKLYPFTWDAVRYNGKLIAYPIAVEALSLIYNKDLLP</span></span>
-<span class="topo-line"><span class="topo-inside">NPPKTWEEIPALDKELKAKGKSALMFNLQEPYFTWPLIAADG</span><span class="topo-unknown">GYAFKYENGKYDIKDVGV</span></span>
-<span class="topo-line"><span class="topo-unknown">D</span><span class="topo-inside">NAGAKAGLTFLVDLIKNKHMNADTDYSIAEAAFNKGETAMTINGPWAWSNIDTSKVNYG</span></span>
-<span class="topo-line"><span class="topo-inside">VTVLPTFKGQPSKPFVGVLSAGINAASPNKELAKEFLENYLLTDEGLEAVNKDKPLGAVA</span></span>
-<span class="topo-line"><span class="topo-inside">LKSYEEELAKDPRIAATMENAQKGEIMPNIPQMSAFWYAVRTAVINAASGRQTVDEALKD</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GPS</span><span class="topo-inside">QRQLVESGGGLVQPGGSLRLSCAASGSILYFNRMGWYRQAPGKQRELVAAITSGDSTNYADPVKGRFTISRDNAKNTVYLQMNSLKPEDTAVYYCNAKEKGWSFSLYDYWGQGTPVT</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">VVKLVIWINGDKGYNGLAEVGKKFEKDTGIKVTVEHPDKLEEKFPQVAATGDGPDIIFWAHDRFGGYAQSGLLAEITPDKAFQDKLYPFTWDAVRYNGKLIAYPIAVEALSLIYNKDLLP</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">NPPKTWEEIPALDKELKAKGKSALMFNLQEPYFTWPLIAADG</span><span class="topo-unknown">GYAFKYENGKYDIKDVGVD</span><span class="topo-inside">NAGAKAGLTFLVDLIKNKHMNADTDYSIAEAAFNKGETAMTINGPWAWSNIDTSKVNYG</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">VTVLPTFKGQPSKPFVGVLSAGINAASPNKELAKEFLENYLLTDEGLEAVNKDKPLGAVALKSYEEELAKDPRIAATMENAQKGEIMPNIPQMSAFWYAVRTAVINAASGRQTVDEALKD</span></span>
+<span class="topo-ruler">      </span>
 <span class="topo-line"><span class="topo-inside">AQT</span><span class="topo-unknown">PGA</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1274,6 +1306,7 @@ is a Parkinson disease risk gene.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1289,11 +1322,13 @@ is a Parkinson disease risk gene.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSRKVFETV</span><span class="topo-inside">VGLNPNFSFRGKQQTR</span><span class="topo-membrane">IETFSDAVFALAITLLVLSSTIP</span><span class="topo-outside">ETFEDLWAS</span><span class="topo-membrane">MRD</span></span>
-<span class="topo-line"><span class="topo-membrane">VIPFAICVALIIVIWYQHY</span><span class="topo-inside">IFFLKYGLQDK</span><span class="topo-membrane">VTILLNTILLFVLLVYVYPLKFLARFLSEI</span></span>
-<span class="topo-line"><span class="topo-membrane">YG</span><span class="topo-outside">GIFGIIETDLSRFGEYSHQNLK</span><span class="topo-membrane">LLMVNYGLGAFAIFLVFSLM</span><span class="topo-inside">YWRAYKMKSLLDLNSY</span></span>
-<span class="topo-line"><span class="topo-inside">EIFDTKSSI</span><span class="topo-membrane">IANLLMCSVPLLSLIITLIDP</span><span class="topo-outside">WGNFR</span><span class="topo-membrane">TTILSGFLYFLYVPIMIVFGRIT</span><span class="topo-inside">SK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSRKVFETV</span><span class="topo-inside">VGLNPNFSFRGKQQTR</span><span class="topo-membrane">IETFSDAVFALAITLLVLSSTIP</span><span class="topo-outside">ETFEDLWAS</span><span class="topo-membrane">MRDVIPFAICVALIIVIWYQHY</span><span class="topo-inside">IFFLKYGLQDK</span><span class="topo-membrane">VTILLNTILLFVLLVYVYPLKFLARFLSEI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">YG</span><span class="topo-outside">GIFGIIETDLSRFGEYSHQNLK</span><span class="topo-membrane">LLMVNYGLGAFAIFLVFSLM</span><span class="topo-inside">YWRAYKMKSLLDLNSYEIFDTKSSI</span><span class="topo-membrane">IANLLMCSVPLLSLIITLIDP</span><span class="topo-outside">WGNFR</span><span class="topo-membrane">TTILSGFLYFLYVPIMIVFGRIT</span><span class="topo-inside">SK</span></span>
+<span class="topo-ruler">       250     </span>
 <span class="topo-line"><span class="topo-inside">K</span><span class="topo-unknown">SRRLLQDALEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1410,6 +1445,7 @@ is a Parkinson disease risk gene.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1425,15 +1461,17 @@ is a Parkinson disease risk gene.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GPS</span><span class="topo-inside">QRQLVESGGGLVQPGGSLRLSCAASGSILYFNRMGWYRQAPGKQRELVAAITSGDST</span></span>
-<span class="topo-line"><span class="topo-inside">NYADPVKGRFTISRDNAKNTVYLQMNSLKPEDTAVYYCNAKEKGWSFSLYDYWGQGTPVT</span></span>
-<span class="topo-line"><span class="topo-inside">VVKLVIWINGDKGYNGLAEVGKKFEKDTGIKVTVEHPDKLEEKFPQVAATGDGPDIIFWA</span></span>
-<span class="topo-line"><span class="topo-inside">HDRFGGYAQSGLLAEITPDKAFQDKLYPFTWDAVRYNGKLIAYPIAVEALSLIYNKDLLP</span></span>
-<span class="topo-line"><span class="topo-inside">NPPKTWEEIPALDKELKAKGKSALMFNLQEPYFTWPLIAADG</span><span class="topo-unknown">GYAFKYENGKYDIKDVGV</span></span>
-<span class="topo-line"><span class="topo-unknown">D</span><span class="topo-inside">NAGAKAGLTFLVDLIKNKHMNADTDYSIAEAAFNKGETAMTINGPWAWSNIDTSKVNYG</span></span>
-<span class="topo-line"><span class="topo-inside">VTVLPTFKGQPSKPFVGVLSAGINAASPNKELAKEFLENYLLTDEGLEAVNKDKPLGAVA</span></span>
-<span class="topo-line"><span class="topo-inside">LKSYEEELAKDPRIAATMENAQKGEIMPNIPQMSAFWYAVRTAVINAASGRQTVDEALKD</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GPS</span><span class="topo-inside">QRQLVESGGGLVQPGGSLRLSCAASGSILYFNRMGWYRQAPGKQRELVAAITSGDSTNYADPVKGRFTISRDNAKNTVYLQMNSLKPEDTAVYYCNAKEKGWSFSLYDYWGQGTPVT</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">VVKLVIWINGDKGYNGLAEVGKKFEKDTGIKVTVEHPDKLEEKFPQVAATGDGPDIIFWAHDRFGGYAQSGLLAEITPDKAFQDKLYPFTWDAVRYNGKLIAYPIAVEALSLIYNKDLLP</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">NPPKTWEEIPALDKELKAKGKSALMFNLQEPYFTWPLIAADG</span><span class="topo-unknown">GYAFKYENGKYDIKDVGVD</span><span class="topo-inside">NAGAKAGLTFLVDLIKNKHMNADTDYSIAEAAFNKGETAMTINGPWAWSNIDTSKVNYG</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">VTVLPTFKGQPSKPFVGVLSAGINAASPNKELAKEFLENYLLTDEGLEAVNKDKPLGAVALKSYEEELAKDPRIAATMENAQKGEIMPNIPQMSAFWYAVRTAVINAASGRQTVDEALKD</span></span>
+<span class="topo-ruler">      </span>
 <span class="topo-line"><span class="topo-inside">AQT</span><span class="topo-unknown">PGA</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1480,6 +1518,7 @@ is a Parkinson disease risk gene.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1495,11 +1534,13 @@ is a Parkinson disease risk gene.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSRKVFETV</span><span class="topo-inside">VGLNPNFSFRGKQQTR</span><span class="topo-membrane">IETFSDAVFALAITLLVLSSTIP</span><span class="topo-outside">ETFEDLWAS</span><span class="topo-membrane">MRD</span></span>
-<span class="topo-line"><span class="topo-membrane">VIPFAICVALIIVIWYQHY</span><span class="topo-inside">IFFLKYGLQDK</span><span class="topo-membrane">VTILLNTILLFVLLVYVYPLKFLARFLSEI</span></span>
-<span class="topo-line"><span class="topo-membrane">YG</span><span class="topo-outside">GIFGIIETDLSRFGEYSHQNLK</span><span class="topo-membrane">LLMVNYGLGAFAIFLVFSLM</span><span class="topo-inside">YWRAYKMKSLLDLNSY</span></span>
-<span class="topo-line"><span class="topo-inside">EIFDTKSSI</span><span class="topo-membrane">IANLLMCSVPLLSLIITLIDP</span><span class="topo-outside">WGNFR</span><span class="topo-membrane">TTILSGFLYFLYVPIMIVFGRIT</span><span class="topo-inside">SK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSRKVFETV</span><span class="topo-inside">VGLNPNFSFRGKQQTR</span><span class="topo-membrane">IETFSDAVFALAITLLVLSSTIP</span><span class="topo-outside">ETFEDLWAS</span><span class="topo-membrane">MRDVIPFAICVALIIVIWYQHY</span><span class="topo-inside">IFFLKYGLQDK</span><span class="topo-membrane">VTILLNTILLFVLLVYVYPLKFLARFLSEI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">YG</span><span class="topo-outside">GIFGIIETDLSRFGEYSHQNLK</span><span class="topo-membrane">LLMVNYGLGAFAIFLVFSLM</span><span class="topo-inside">YWRAYKMKSLLDLNSYEIFDTKSSI</span><span class="topo-membrane">IANLLMCSVPLLSLIITLIDP</span><span class="topo-outside">WGNFR</span><span class="topo-membrane">TTILSGFLYFLYVPIMIVFGRIT</span><span class="topo-inside">SK</span></span>
+<span class="topo-ruler">       250     </span>
 <span class="topo-line"><span class="topo-inside">K</span><span class="topo-unknown">SRRLLQDALEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1616,6 +1657,7 @@ is a Parkinson disease risk gene.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1631,15 +1673,17 @@ is a Parkinson disease risk gene.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GPS</span><span class="topo-inside">QRQLVESGGGLVQPGGSLRLSCAASGSILYFNRMGWYRQAPGKQRELVAAITSGDST</span></span>
-<span class="topo-line"><span class="topo-inside">NYADPVKGRFTISRDNAKNTVYLQMNSLKPEDTAVYYCNAKEKGWSFSLYDYWGQGTPVT</span></span>
-<span class="topo-line"><span class="topo-inside">VVKLVIWINGDKGYNGLAEVGKKFEKDTGIKVTVEHPDKLEEKFPQVAATGDGPDIIFWA</span></span>
-<span class="topo-line"><span class="topo-inside">HDRFGGYAQSGLLAEITPDKAFQDKLYPFTWDAVRYNGKLIAYPIAVEALSLIYNKDLLP</span></span>
-<span class="topo-line"><span class="topo-inside">NPPKTWEEIPALDKELKAKGKSALMFNLQEPYFTWPLIAADG</span><span class="topo-unknown">GYAFKYENGKYDIKDVGV</span></span>
-<span class="topo-line"><span class="topo-unknown">D</span><span class="topo-inside">NAGAKAGLTFLVDLIKNKHMNADTDYSIAEAAFNKGETAMTINGPWAWSNIDTSKVNYG</span></span>
-<span class="topo-line"><span class="topo-inside">VTVLPTFKGQPSKPFVGVLSAGINAASPNKELAKEFLENYLLTDEGLEAVNKDKPLGAVA</span></span>
-<span class="topo-line"><span class="topo-inside">LKSYEEELAKDPRIAATMENAQKGEIMPNIPQMSAFWYAVRTAVINAASGRQTVDEALKD</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GPS</span><span class="topo-inside">QRQLVESGGGLVQPGGSLRLSCAASGSILYFNRMGWYRQAPGKQRELVAAITSGDSTNYADPVKGRFTISRDNAKNTVYLQMNSLKPEDTAVYYCNAKEKGWSFSLYDYWGQGTPVT</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">VVKLVIWINGDKGYNGLAEVGKKFEKDTGIKVTVEHPDKLEEKFPQVAATGDGPDIIFWAHDRFGGYAQSGLLAEITPDKAFQDKLYPFTWDAVRYNGKLIAYPIAVEALSLIYNKDLLP</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">NPPKTWEEIPALDKELKAKGKSALMFNLQEPYFTWPLIAADG</span><span class="topo-unknown">GYAFKYENGKYDIKDVGVD</span><span class="topo-inside">NAGAKAGLTFLVDLIKNKHMNADTDYSIAEAAFNKGETAMTINGPWAWSNIDTSKVNYG</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">VTVLPTFKGQPSKPFVGVLSAGINAASPNKELAKEFLENYLLTDEGLEAVNKDKPLGAVALKSYEEELAKDPRIAATMENAQKGEIMPNIPQMSAFWYAVRTAVINAASGRQTVDEALKD</span></span>
+<span class="topo-ruler">      </span>
 <span class="topo-line"><span class="topo-inside">AQT</span><span class="topo-unknown">PGA</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1686,6 +1730,7 @@ is a Parkinson disease risk gene.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1701,11 +1746,13 @@ is a Parkinson disease risk gene.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSRKVFETV</span><span class="topo-inside">VGLNPNFSFRGKQQTR</span><span class="topo-membrane">IETFSDAVFALAITLLVLSSTIP</span><span class="topo-outside">ETFEDLWAS</span><span class="topo-membrane">MRD</span></span>
-<span class="topo-line"><span class="topo-membrane">VIPFAICVALIIVIWYQHY</span><span class="topo-inside">IFFLKYGLQDK</span><span class="topo-membrane">VTILLNTILLFVLLVYVYPLKFLARFLSEI</span></span>
-<span class="topo-line"><span class="topo-membrane">YG</span><span class="topo-outside">GIFGIIETDLSRFGEYSHQNLK</span><span class="topo-membrane">LLMVNYGLGAFAIFLVFSLM</span><span class="topo-inside">YWRAYKMKSLLDLNSY</span></span>
-<span class="topo-line"><span class="topo-inside">EIFDTKSSI</span><span class="topo-membrane">IANLLMCSVPLLSLIITLIDP</span><span class="topo-outside">WGNFR</span><span class="topo-membrane">TTILSGFLYFLYVPIMIVFGRIT</span><span class="topo-inside">SK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSRKVFETV</span><span class="topo-inside">VGLNPNFSFRGKQQTR</span><span class="topo-membrane">IETFSDAVFALAITLLVLSSTIP</span><span class="topo-outside">ETFEDLWAS</span><span class="topo-membrane">MRDVIPFAICVALIIVIWYQHY</span><span class="topo-inside">IFFLKYGLQDK</span><span class="topo-membrane">VTILLNTILLFVLLVYVYPLKFLARFLSEI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">YG</span><span class="topo-outside">GIFGIIETDLSRFGEYSHQNLK</span><span class="topo-membrane">LLMVNYGLGAFAIFLVFSLM</span><span class="topo-inside">YWRAYKMKSLLDLNSYEIFDTKSSI</span><span class="topo-membrane">IANLLMCSVPLLSLIITLIDP</span><span class="topo-outside">WGNFR</span><span class="topo-membrane">TTILSGFLYFLYVPIMIVFGRIT</span><span class="topo-inside">SK</span></span>
+<span class="topo-ruler">       250     </span>
 <span class="topo-line"><span class="topo-inside">K</span><span class="topo-unknown">SRRLLQDALEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1822,6 +1869,7 @@ is a Parkinson disease risk gene.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1837,15 +1885,17 @@ is a Parkinson disease risk gene.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GPS</span><span class="topo-inside">QRQLVESGGGLVQPGGSLRLSCAASGSILYFNRMGWYRQAPGKQRELVAAITSGDST</span></span>
-<span class="topo-line"><span class="topo-inside">NYADPVKGRFTISRDNAKNTVYLQMNSLKPEDTAVYYCNAKEKGWSFSLYDYWGQGTPVT</span></span>
-<span class="topo-line"><span class="topo-inside">VVKLVIWINGDKGYNGLAEVGKKFEKDTGIKVTVEHPDKLEEKFPQVAATGDGPDIIFWA</span></span>
-<span class="topo-line"><span class="topo-inside">HDRFGGYAQSGLLAEITPDKAFQDKLYPFTWDAVRYNGKLIAYPIAVEALSLIYNKDLLP</span></span>
-<span class="topo-line"><span class="topo-inside">NPPKTWEEIPALDKELKAKGKSALMFNLQEPYFTWPLIAADG</span><span class="topo-unknown">GYAFKYENGKYDIKDVGV</span></span>
-<span class="topo-line"><span class="topo-unknown">D</span><span class="topo-inside">NAGAKAGLTFLVDLIKNKHMNADTDYSIAEAAFNKGETAMTINGPWAWSNIDTSKVNYG</span></span>
-<span class="topo-line"><span class="topo-inside">VTVLPTFKGQPSKPFVGVLSAGINAASPNKELAKEFLENYLLTDEGLEAVNKDKPLGAVA</span></span>
-<span class="topo-line"><span class="topo-inside">LKSYEEELAKDPRIAATMENAQKGEIMPNIPQMSAFWYAVRTAVINAASGRQTVDEALKD</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GPS</span><span class="topo-inside">QRQLVESGGGLVQPGGSLRLSCAASGSILYFNRMGWYRQAPGKQRELVAAITSGDSTNYADPVKGRFTISRDNAKNTVYLQMNSLKPEDTAVYYCNAKEKGWSFSLYDYWGQGTPVT</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">VVKLVIWINGDKGYNGLAEVGKKFEKDTGIKVTVEHPDKLEEKFPQVAATGDGPDIIFWAHDRFGGYAQSGLLAEITPDKAFQDKLYPFTWDAVRYNGKLIAYPIAVEALSLIYNKDLLP</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">NPPKTWEEIPALDKELKAKGKSALMFNLQEPYFTWPLIAADG</span><span class="topo-unknown">GYAFKYENGKYDIKDVGVD</span><span class="topo-inside">NAGAKAGLTFLVDLIKNKHMNADTDYSIAEAAFNKGETAMTINGPWAWSNIDTSKVNYG</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">VTVLPTFKGQPSKPFVGVLSAGINAASPNKELAKEFLENYLLTDEGLEAVNKDKPLGAVALKSYEEELAKDPRIAATMENAQKGEIMPNIPQMSAFWYAVRTAVINAASGRQTVDEALKD</span></span>
+<span class="topo-ruler">      </span>
 <span class="topo-line"><span class="topo-inside">AQT</span><span class="topo-unknown">PGA</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1892,6 +1942,7 @@ is a Parkinson disease risk gene.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1907,11 +1958,13 @@ is a Parkinson disease risk gene.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSRKVFETV</span><span class="topo-inside">VGLNPNFSFRGKQQTR</span><span class="topo-membrane">IETFSDAVFALAITLLVLSSTIP</span><span class="topo-outside">ETFEDLWAS</span><span class="topo-membrane">MRD</span></span>
-<span class="topo-line"><span class="topo-membrane">VIPFAICVALIIVIWYQHY</span><span class="topo-inside">IFFLKYGLQDK</span><span class="topo-membrane">VTILLNTILLFVLLVYVYPLKFLARFLSEI</span></span>
-<span class="topo-line"><span class="topo-membrane">YG</span><span class="topo-outside">GIFGIIETDLSRFGEYSHQNLK</span><span class="topo-membrane">LLMVNYGLGAFAIFLVFSLM</span><span class="topo-inside">YWRAYKMKSLLDLNSY</span></span>
-<span class="topo-line"><span class="topo-inside">EIFDTKSSI</span><span class="topo-membrane">IANLLMCSVPLLSLIITLIDP</span><span class="topo-outside">WGNFR</span><span class="topo-membrane">TTILSGFLYFLYVPIMIVFGRIT</span><span class="topo-inside">SK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSRKVFETV</span><span class="topo-inside">VGLNPNFSFRGKQQTR</span><span class="topo-membrane">IETFSDAVFALAITLLVLSSTIP</span><span class="topo-outside">ETFEDLWAS</span><span class="topo-membrane">MRDVIPFAICVALIIVIWYQHY</span><span class="topo-inside">IFFLKYGLQDK</span><span class="topo-membrane">VTILLNTILLFVLLVYVYPLKFLARFLSEI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">YG</span><span class="topo-outside">GIFGIIETDLSRFGEYSHQNLK</span><span class="topo-membrane">LLMVNYGLGAFAIFLVFSLM</span><span class="topo-inside">YWRAYKMKSLLDLNSYEIFDTKSSI</span><span class="topo-membrane">IANLLMCSVPLLSLIITLIDP</span><span class="topo-outside">WGNFR</span><span class="topo-membrane">TTILSGFLYFLYVPIMIVFGRIT</span><span class="topo-inside">SK</span></span>
+<span class="topo-ruler">       250     </span>
 <span class="topo-line"><span class="topo-inside">K</span><span class="topo-unknown">SRRLLQDALEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2028,6 +2081,7 @@ is a Parkinson disease risk gene.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2043,15 +2097,17 @@ is a Parkinson disease risk gene.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GPS</span><span class="topo-inside">QRQLVESGGGLVQPGGSLRLSCAASGSILYFNRMGWYRQAPGKQRELVAAITSGDST</span></span>
-<span class="topo-line"><span class="topo-inside">NYADPVKGRFTISRDNAKNTVYLQMNSLKPEDTAVYYCNAKEKGWSFSLYDYWGQGTPVT</span></span>
-<span class="topo-line"><span class="topo-inside">VVKLVIWINGDKGYNGLAEVGKKFEKDTGIKVTVEHPDKLEEKFPQVAATGDGPDIIFWA</span></span>
-<span class="topo-line"><span class="topo-inside">HDRFGGYAQSGLLAEITPDKAFQDKLYPFTWDAVRYNGKLIAYPIAVEALSLIYNKDLLP</span></span>
-<span class="topo-line"><span class="topo-inside">NPPKTWEEIPALDKELKAKGKSALMFNLQEPYFTWPLIAADG</span><span class="topo-unknown">GYAFKYENGKYDIKDVGV</span></span>
-<span class="topo-line"><span class="topo-unknown">D</span><span class="topo-inside">NAGAKAGLTFLVDLIKNKHMNADTDYSIAEAAFNKGETAMTINGPWAWSNIDTSKVNYG</span></span>
-<span class="topo-line"><span class="topo-inside">VTVLPTFKGQPSKPFVGVLSAGINAASPNKELAKEFLENYLLTDEGLEAVNKDKPLGAVA</span></span>
-<span class="topo-line"><span class="topo-inside">LKSYEEELAKDPRIAATMENAQKGEIMPNIPQMSAFWYAVRTAVINAASGRQTVDEALKD</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GPS</span><span class="topo-inside">QRQLVESGGGLVQPGGSLRLSCAASGSILYFNRMGWYRQAPGKQRELVAAITSGDSTNYADPVKGRFTISRDNAKNTVYLQMNSLKPEDTAVYYCNAKEKGWSFSLYDYWGQGTPVT</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">VVKLVIWINGDKGYNGLAEVGKKFEKDTGIKVTVEHPDKLEEKFPQVAATGDGPDIIFWAHDRFGGYAQSGLLAEITPDKAFQDKLYPFTWDAVRYNGKLIAYPIAVEALSLIYNKDLLP</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">NPPKTWEEIPALDKELKAKGKSALMFNLQEPYFTWPLIAADG</span><span class="topo-unknown">GYAFKYENGKYDIKDVGVD</span><span class="topo-inside">NAGAKAGLTFLVDLIKNKHMNADTDYSIAEAAFNKGETAMTINGPWAWSNIDTSKVNYG</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">VTVLPTFKGQPSKPFVGVLSAGINAASPNKELAKEFLENYLLTDEGLEAVNKDKPLGAVALKSYEEELAKDPRIAATMENAQKGEIMPNIPQMSAFWYAVRTAVINAASGRQTVDEALKD</span></span>
+<span class="topo-ruler">      </span>
 <span class="topo-line"><span class="topo-inside">AQT</span><span class="topo-unknown">PGA</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2098,6 +2154,7 @@ is a Parkinson disease risk gene.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2113,11 +2170,13 @@ is a Parkinson disease risk gene.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSRKVFETV</span><span class="topo-inside">VGLNPNFSFRGKQQTR</span><span class="topo-membrane">IETFSDAVFALAITLLVLSS</span><span class="topo-outside">TIPETFEDLWASMRD</span></span>
-<span class="topo-line"><span class="topo-membrane">VIPFAICVALIIVIWYQHY</span><span class="topo-inside">IFFLKYGLQDKVTI</span><span class="topo-membrane">LLNTILLFVLLVYVYPLKFLAR</span><span class="topo-outside">FLSEI</span></span>
-<span class="topo-line"><span class="topo-outside">YGGIFGIIETDLSRFGEYSHQNLK</span><span class="topo-membrane">LLMVNYGLGAFAIFLVFSLM</span><span class="topo-inside">YWRAYKMKSLLDLNSY</span></span>
-<span class="topo-line"><span class="topo-inside">EIFDTKSSII</span><span class="topo-membrane">ANLLMCSVPLLSLIITLIDP</span><span class="topo-outside">WGNFRT</span><span class="topo-membrane">TILSGFLYFLYVPIMIVFGRIT</span><span class="topo-inside">SK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSRKVFETV</span><span class="topo-inside">VGLNPNFSFRGKQQTR</span><span class="topo-membrane">IETFSDAVFALAITLLVLSS</span><span class="topo-outside">TIPETFEDLWASMRD</span><span class="topo-membrane">VIPFAICVALIIVIWYQHY</span><span class="topo-inside">IFFLKYGLQDKVTI</span><span class="topo-membrane">LLNTILLFVLLVYVYPLKFLAR</span><span class="topo-outside">FLSEI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">YGGIFGIIETDLSRFGEYSHQNLK</span><span class="topo-membrane">LLMVNYGLGAFAIFLVFSLM</span><span class="topo-inside">YWRAYKMKSLLDLNSYEIFDTKSSII</span><span class="topo-membrane">ANLLMCSVPLLSLIITLIDP</span><span class="topo-outside">WGNFRT</span><span class="topo-membrane">TILSGFLYFLYVPIMIVFGRIT</span><span class="topo-inside">SK</span></span>
+<span class="topo-ruler">       250     </span>
 <span class="topo-line"><span class="topo-inside">K</span><span class="topo-unknown">SRRLLQDALEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2234,6 +2293,7 @@ is a Parkinson disease risk gene.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2249,15 +2309,17 @@ is a Parkinson disease risk gene.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GPS</span><span class="topo-inside">QRQLVESGGGLVQPGGSLRLSCAASGSILYFNRMGWYRQAPGKQRELVAAITSGDST</span></span>
-<span class="topo-line"><span class="topo-inside">NYADPVKGRFTISRDNAKNTVYLQMNSLKPEDTAVYYCNAKEKGWSFSLYDYWGQGTPVT</span></span>
-<span class="topo-line"><span class="topo-inside">VVKLVIWINGDKGYNGLAEVGKKFEKDTGIKVTVEHPDKLEEKFPQVAATGDGPDIIFWA</span></span>
-<span class="topo-line"><span class="topo-inside">HDRFGGYAQSGLLAEITPDKAFQDKLYPFTWDAVRYNGKLIAYPIAVEALSLIYNKDLLP</span></span>
-<span class="topo-line"><span class="topo-inside">NPPKTWEEIPALDKELKAKGKSALMFNLQEPYFTWPLIAADG</span><span class="topo-unknown">GYAFKYENGKYDIKDVGV</span></span>
-<span class="topo-line"><span class="topo-unknown">D</span><span class="topo-inside">NAGAKAGLTFLVDLIKNKHMNADTDYSIAEAAFNKGETAMTINGPWAWSNIDTSKVNYG</span></span>
-<span class="topo-line"><span class="topo-inside">VTVLPTFKGQPSKPFVGVLSAGINAASPNKELAKEFLENYLLTDEGLEAVNKDKPLGAVA</span></span>
-<span class="topo-line"><span class="topo-inside">LKSYEEELAKDPRIAATMENAQKGEIMPNIPQMSAFWYAVRTAVINAASGRQTVDEALKD</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GPS</span><span class="topo-inside">QRQLVESGGGLVQPGGSLRLSCAASGSILYFNRMGWYRQAPGKQRELVAAITSGDSTNYADPVKGRFTISRDNAKNTVYLQMNSLKPEDTAVYYCNAKEKGWSFSLYDYWGQGTPVT</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">VVKLVIWINGDKGYNGLAEVGKKFEKDTGIKVTVEHPDKLEEKFPQVAATGDGPDIIFWAHDRFGGYAQSGLLAEITPDKAFQDKLYPFTWDAVRYNGKLIAYPIAVEALSLIYNKDLLP</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">NPPKTWEEIPALDKELKAKGKSALMFNLQEPYFTWPLIAADG</span><span class="topo-unknown">GYAFKYENGKYDIKDVGVD</span><span class="topo-inside">NAGAKAGLTFLVDLIKNKHMNADTDYSIAEAAFNKGETAMTINGPWAWSNIDTSKVNYG</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">VTVLPTFKGQPSKPFVGVLSAGINAASPNKELAKEFLENYLLTDEGLEAVNKDKPLGAVALKSYEEELAKDPRIAATMENAQKGEIMPNIPQMSAFWYAVRTAVINAASGRQTVDEALKD</span></span>
+<span class="topo-ruler">      </span>
 <span class="topo-line"><span class="topo-inside">AQT</span><span class="topo-unknown">PGA</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2304,6 +2366,7 @@ is a Parkinson disease risk gene.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2319,11 +2382,13 @@ is a Parkinson disease risk gene.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSRKVFETV</span><span class="topo-inside">VGLNPNFSFRGKQQTR</span><span class="topo-membrane">IETFSDAVFALAITLLVLSSTIP</span><span class="topo-outside">ETFEDLWAS</span><span class="topo-membrane">MRD</span></span>
-<span class="topo-line"><span class="topo-membrane">VIPFAICVALIIVIWYQHY</span><span class="topo-inside">IFFLKYGLQD</span><span class="topo-membrane">KVTILLNTILLFVLLVYVYPLKFLARFLSEI</span></span>
-<span class="topo-line"><span class="topo-membrane">YG</span><span class="topo-outside">GIFGIIETDLSRFGEYSHQNLKLL</span><span class="topo-membrane">MVNYGLGAFAIFLVFSLMYWR</span><span class="topo-inside">AYKMKSLLDLNSY</span></span>
-<span class="topo-line"><span class="topo-inside">EIFDTKSS</span><span class="topo-membrane">IIANLLMCSVPLLSLIITLI</span><span class="topo-outside">DPWGNFRT</span><span class="topo-membrane">TILSGFLYFLYVPIMIVFGRITSK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSRKVFETV</span><span class="topo-inside">VGLNPNFSFRGKQQTR</span><span class="topo-membrane">IETFSDAVFALAITLLVLSSTIP</span><span class="topo-outside">ETFEDLWAS</span><span class="topo-membrane">MRDVIPFAICVALIIVIWYQHY</span><span class="topo-inside">IFFLKYGLQD</span><span class="topo-membrane">KVTILLNTILLFVLLVYVYPLKFLARFLSEI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">YG</span><span class="topo-outside">GIFGIIETDLSRFGEYSHQNLKLL</span><span class="topo-membrane">MVNYGLGAFAIFLVFSLMYWR</span><span class="topo-inside">AYKMKSLLDLNSYEIFDTKSS</span><span class="topo-membrane">IIANLLMCSVPLLSLIITLI</span><span class="topo-outside">DPWGNFRT</span><span class="topo-membrane">TILSGFLYFLYVPIMIVFGRITSK</span></span>
+<span class="topo-ruler">       250     </span>
 <span class="topo-line"><span class="topo-membrane">K</span><span class="topo-unknown">SRRLLQDALEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (14 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2433,6 +2498,7 @@ is a Parkinson disease risk gene.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2448,15 +2514,17 @@ is a Parkinson disease risk gene.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GPS</span><span class="topo-inside">QRQLVESGGGLVQPGGSLRLSCAASGSILYFNRMGWYRQAPGKQRELVAAITSGDST</span></span>
-<span class="topo-line"><span class="topo-inside">NYADPVKGRFTISRDNAKNTVYLQMNSLKPEDTAVYYCNAKEKGWSFSLYDYWGQGTPVT</span></span>
-<span class="topo-line"><span class="topo-inside">VVKLVIWINGDKGYNGLAEVGKKFEKDTGIKVTVEHPDKLEEKFPQVAATGDGPDIIFWA</span></span>
-<span class="topo-line"><span class="topo-inside">HDRFGGYAQSGLLAEITPDKAFQDKLYPFTWDAVRYNGKLIAYPIAVEALSLIYNKDLLP</span></span>
-<span class="topo-line"><span class="topo-inside">NPPKTWEEIPALDKELKAKGKSALMFNLQEPYFTWPLIAADG</span><span class="topo-unknown">GYAFKYENGKYDIKDVGV</span></span>
-<span class="topo-line"><span class="topo-unknown">D</span><span class="topo-inside">NAGAKAGLTFLVDLIKNKHMNADTDYSIAEAAFNKGETAMTINGPWAWSNIDTSKVNYG</span></span>
-<span class="topo-line"><span class="topo-inside">VTVLPTFKGQPSKPFVGVLSAGINAASPNKELAKEFLENYLLTDEGLEAVNKDKPLGAVA</span></span>
-<span class="topo-line"><span class="topo-inside">LKSYEEELAKDPRIAATMENAQKGEIMPNIPQMSAFWYAVRTAVINAASGRQTVDEALKD</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GPS</span><span class="topo-inside">QRQLVESGGGLVQPGGSLRLSCAASGSILYFNRMGWYRQAPGKQRELVAAITSGDSTNYADPVKGRFTISRDNAKNTVYLQMNSLKPEDTAVYYCNAKEKGWSFSLYDYWGQGTPVT</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">VVKLVIWINGDKGYNGLAEVGKKFEKDTGIKVTVEHPDKLEEKFPQVAATGDGPDIIFWAHDRFGGYAQSGLLAEITPDKAFQDKLYPFTWDAVRYNGKLIAYPIAVEALSLIYNKDLLP</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">NPPKTWEEIPALDKELKAKGKSALMFNLQEPYFTWPLIAADG</span><span class="topo-unknown">GYAFKYENGKYDIKDVGVD</span><span class="topo-inside">NAGAKAGLTFLVDLIKNKHMNADTDYSIAEAAFNKGETAMTINGPWAWSNIDTSKVNYG</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">VTVLPTFKGQPSKPFVGVLSAGINAASPNKELAKEFLENYLLTDEGLEAVNKDKPLGAVALKSYEEELAKDPRIAATMENAQKGEIMPNIPQMSAFWYAVRTAVINAASGRQTVDEALKD</span></span>
+<span class="topo-ruler">      </span>
 <span class="topo-line"><span class="topo-inside">AQT</span><span class="topo-unknown">PGA</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2503,6 +2571,7 @@ is a Parkinson disease risk gene.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2518,11 +2587,13 @@ is a Parkinson disease risk gene.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSRKVFETV</span><span class="topo-inside">VGLNPNFSFRGKQQTR</span><span class="topo-membrane">IETFSDAVFALAITLLVLSS</span><span class="topo-outside">TIPETFEDLWASMRD</span></span>
-<span class="topo-line"><span class="topo-membrane">VIPFAICVALIIVIWYQHYIFF</span><span class="topo-inside">LKYGLQDK</span><span class="topo-membrane">VTILLNTILLFVLLVYVYPLK</span><span class="topo-outside">FLARFLSEI</span></span>
-<span class="topo-line"><span class="topo-outside">YGGIFGIIETDLSRFGEYSHQNLKLLM</span><span class="topo-membrane">VNYGLGAFAIFLVFSLMYWR</span><span class="topo-inside">AYKMKSLLDLNSY</span></span>
-<span class="topo-line"><span class="topo-inside">EIFDTK</span><span class="topo-membrane">SSIIANLLMCSVPLLSLII</span><span class="topo-outside">TLIDPWGNFRTTILS</span><span class="topo-membrane">GFLYFLYVPIMIVFGRITSK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSRKVFETV</span><span class="topo-inside">VGLNPNFSFRGKQQTR</span><span class="topo-membrane">IETFSDAVFALAITLLVLSS</span><span class="topo-outside">TIPETFEDLWASMRD</span><span class="topo-membrane">VIPFAICVALIIVIWYQHYIFF</span><span class="topo-inside">LKYGLQDK</span><span class="topo-membrane">VTILLNTILLFVLLVYVYPLK</span><span class="topo-outside">FLARFLSEI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">YGGIFGIIETDLSRFGEYSHQNLKLLM</span><span class="topo-membrane">VNYGLGAFAIFLVFSLMYWR</span><span class="topo-inside">AYKMKSLLDLNSYEIFDTK</span><span class="topo-membrane">SSIIANLLMCSVPLLSLII</span><span class="topo-outside">TLIDPWGNFRTTILS</span><span class="topo-membrane">GFLYFLYVPIMIVFGRITSK</span></span>
+<span class="topo-ruler">       250     </span>
 <span class="topo-line"><span class="topo-membrane">K</span><span class="topo-unknown">SRRLLQDALEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (14 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2632,6 +2703,7 @@ is a Parkinson disease risk gene.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2647,15 +2719,17 @@ is a Parkinson disease risk gene.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GPS</span><span class="topo-inside">QRQLVESGGGLVQPGGSLRLSCAASGSILYFNRMGWYRQAPGKQRELVAAITSGDST</span></span>
-<span class="topo-line"><span class="topo-inside">NYADPVKGRFTISRDNAKNTVYLQMNSLKPEDTAVYYCNAKEKGWSFSLYDYWGQGTPVT</span></span>
-<span class="topo-line"><span class="topo-inside">VVKLVIWINGDKGYNGLAEVGKKFEKDTGIKVTVEHPDKLEEKFPQVAATGDGPDIIFWA</span></span>
-<span class="topo-line"><span class="topo-inside">HDRFGGYAQSGLLAEITPDKAFQDKLYPFTWDAVRYNGKLIAYPIAVEALSLIYNKDLLP</span></span>
-<span class="topo-line"><span class="topo-inside">NPPKTWEEIPALDKELKAKGKSALMFNLQEPYFTWPLIAADG</span><span class="topo-unknown">GYAFKYENGKYDIKDVGV</span></span>
-<span class="topo-line"><span class="topo-unknown">D</span><span class="topo-inside">NAGAKAGLTFLVDLIKNKHMNADTDYSIAEAAFNKGETAMTINGPWAWSNIDTSKVNYG</span></span>
-<span class="topo-line"><span class="topo-inside">VTVLPTFKGQPSKPFVGVLSAGINAASPNKELAKEFLENYLLTDEGLEAVNKDKPLGAVA</span></span>
-<span class="topo-line"><span class="topo-inside">LKSYEEELAKDPRIAATMENAQKGEIMPNIPQMSAFWYAVRTAVINAASGRQTVDEALKD</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GPS</span><span class="topo-inside">QRQLVESGGGLVQPGGSLRLSCAASGSILYFNRMGWYRQAPGKQRELVAAITSGDSTNYADPVKGRFTISRDNAKNTVYLQMNSLKPEDTAVYYCNAKEKGWSFSLYDYWGQGTPVT</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">VVKLVIWINGDKGYNGLAEVGKKFEKDTGIKVTVEHPDKLEEKFPQVAATGDGPDIIFWAHDRFGGYAQSGLLAEITPDKAFQDKLYPFTWDAVRYNGKLIAYPIAVEALSLIYNKDLLP</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">NPPKTWEEIPALDKELKAKGKSALMFNLQEPYFTWPLIAADG</span><span class="topo-unknown">GYAFKYENGKYDIKDVGVD</span><span class="topo-inside">NAGAKAGLTFLVDLIKNKHMNADTDYSIAEAAFNKGETAMTINGPWAWSNIDTSKVNYG</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">VTVLPTFKGQPSKPFVGVLSAGINAASPNKELAKEFLENYLLTDEGLEAVNKDKPLGAVALKSYEEELAKDPRIAATMENAQKGEIMPNIPQMSAFWYAVRTAVINAASGRQTVDEALKD</span></span>
+<span class="topo-ruler">      </span>
 <span class="topo-line"><span class="topo-inside">AQT</span><span class="topo-unknown">PGA</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2702,6 +2776,7 @@ is a Parkinson disease risk gene.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2717,11 +2792,13 @@ is a Parkinson disease risk gene.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSRKVFETV</span><span class="topo-inside">VGLNPNFSFRGKQQTR</span><span class="topo-membrane">IETFSDAVFALAITLLVLSSTI</span><span class="topo-outside">PETFEDLWAS</span><span class="topo-membrane">MRD</span></span>
-<span class="topo-line"><span class="topo-membrane">VIPFAICVALIIVIWYQH</span><span class="topo-inside">YIFFLKYGLQDKVTI</span><span class="topo-membrane">LLNTILLFVLLVYVYPLKFLARFLSEI</span></span>
-<span class="topo-line"><span class="topo-membrane">YG</span><span class="topo-outside">GIFGIIETDLSRFGEYSHQN</span><span class="topo-membrane">LKLLMVNYGLGAFAIFLVFSL</span><span class="topo-inside">MYWRAYKMKSLLDLNSY</span></span>
-<span class="topo-line"><span class="topo-inside">EIFDTKSSIIAN</span><span class="topo-membrane">LLMCSVPLLSLIITLIDPWGN</span><span class="topo-unknown">F</span><span class="topo-membrane">RTTILSGFLYFLYVPIMIVF</span><span class="topo-inside">GRITSK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSRKVFETV</span><span class="topo-inside">VGLNPNFSFRGKQQTR</span><span class="topo-membrane">IETFSDAVFALAITLLVLSSTI</span><span class="topo-outside">PETFEDLWAS</span><span class="topo-membrane">MRDVIPFAICVALIIVIWYQH</span><span class="topo-inside">YIFFLKYGLQDKVTI</span><span class="topo-membrane">LLNTILLFVLLVYVYPLKFLARFLSEI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">YG</span><span class="topo-outside">GIFGIIETDLSRFGEYSHQN</span><span class="topo-membrane">LKLLMVNYGLGAFAIFLVFSL</span><span class="topo-inside">MYWRAYKMKSLLDLNSYEIFDTKSSIIAN</span><span class="topo-membrane">LLMCSVPLLSLIITLIDPWGN</span><span class="topo-unknown">F</span><span class="topo-membrane">RTTILSGFLYFLYVPIMIVF</span><span class="topo-inside">GRITSK</span></span>
+<span class="topo-ruler">       250     </span>
 <span class="topo-line"><span class="topo-inside">K</span><span class="topo-unknown">SRRLLQDALEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (14 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2831,6 +2908,7 @@ is a Parkinson disease risk gene.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2846,15 +2924,17 @@ is a Parkinson disease risk gene.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GPS</span><span class="topo-inside">QRQLVESGGGLVQPGGSLRLSCAASGSILYFNRMGWYRQAPGKQRELVAAITSGDST</span></span>
-<span class="topo-line"><span class="topo-inside">NYADPVKGRFTISRDNAKNTVYLQMNSLKPEDTAVYYCNAKEKGWSFSLYDYWGQGTPVT</span></span>
-<span class="topo-line"><span class="topo-inside">VVKLVIWINGDKGYNGLAEVGKKFEKDTGIKVTVEHPDKLEEKFPQVAATGDGPDIIFWA</span></span>
-<span class="topo-line"><span class="topo-inside">HDRFGGYAQSGLLAEITPDKAFQDKLYPFTWDAVRYNGKLIAYPIAVEALSLIYNKDLLP</span></span>
-<span class="topo-line"><span class="topo-inside">NPPKTWEEIPALDKELKAKGKSALMFNLQEPYFTWPLIAADG</span><span class="topo-unknown">GYAFKYENGKYDIKDVGV</span></span>
-<span class="topo-line"><span class="topo-unknown">D</span><span class="topo-inside">NAGAKAGLTFLVDLIKNKHMNADTDYSIAEAAFNKGETAMTINGPWAWSNIDTSKVNYG</span></span>
-<span class="topo-line"><span class="topo-inside">VTVLPTFKGQPSKPFVGVLSAGINAASPNKELAKEFLENYLLTDEGLEAVNKDKPLGAVA</span></span>
-<span class="topo-line"><span class="topo-inside">LKSYEEELAKDPRIAATMENAQKGEIMPNIPQMSAFWYAVRTAVINAASGRQTVDEALKD</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GPS</span><span class="topo-inside">QRQLVESGGGLVQPGGSLRLSCAASGSILYFNRMGWYRQAPGKQRELVAAITSGDSTNYADPVKGRFTISRDNAKNTVYLQMNSLKPEDTAVYYCNAKEKGWSFSLYDYWGQGTPVT</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">VVKLVIWINGDKGYNGLAEVGKKFEKDTGIKVTVEHPDKLEEKFPQVAATGDGPDIIFWAHDRFGGYAQSGLLAEITPDKAFQDKLYPFTWDAVRYNGKLIAYPIAVEALSLIYNKDLLP</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">NPPKTWEEIPALDKELKAKGKSALMFNLQEPYFTWPLIAADG</span><span class="topo-unknown">GYAFKYENGKYDIKDVGVD</span><span class="topo-inside">NAGAKAGLTFLVDLIKNKHMNADTDYSIAEAAFNKGETAMTINGPWAWSNIDTSKVNYG</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">VTVLPTFKGQPSKPFVGVLSAGINAASPNKELAKEFLENYLLTDEGLEAVNKDKPLGAVALKSYEEELAKDPRIAATMENAQKGEIMPNIPQMSAFWYAVRTAVINAASGRQTVDEALKD</span></span>
+<span class="topo-ruler">      </span>
 <span class="topo-line"><span class="topo-inside">AQT</span><span class="topo-unknown">PGA</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2901,6 +2981,7 @@ is a Parkinson disease risk gene.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2916,11 +2997,13 @@ is a Parkinson disease risk gene.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSRKVFETV</span><span class="topo-inside">VGLNPNFSFRGKQQTRI</span><span class="topo-membrane">ETFSDAVFALAIALLVLSSTIP</span><span class="topo-outside">ETFEDLWAS</span><span class="topo-membrane">MRD</span></span>
-<span class="topo-line"><span class="topo-membrane">VIPFAICVALIIVIWYQHY</span><span class="topo-inside">IFFLKYGLQDK</span><span class="topo-membrane">VTILLNTILLFVLLVYVYPLKFLARFLSEI</span></span>
-<span class="topo-line"><span class="topo-membrane">YG</span><span class="topo-outside">GIFGIIETDLSRFGEYSHQNLK</span><span class="topo-membrane">LLMVNYGLGAFAIFLVFSLM</span><span class="topo-inside">YWRAYKMKSLLDLNSY</span></span>
-<span class="topo-line"><span class="topo-inside">EIFDTKSSI</span><span class="topo-membrane">IANLLMCSVPLLSLIITLIDP</span><span class="topo-outside">WGNFR</span><span class="topo-membrane">TTILSGFLYFLYVPIMIVFGRIT</span><span class="topo-inside">SK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSRKVFETV</span><span class="topo-inside">VGLNPNFSFRGKQQTRI</span><span class="topo-membrane">ETFSDAVFALAIALLVLSSTIP</span><span class="topo-outside">ETFEDLWAS</span><span class="topo-membrane">MRDVIPFAICVALIIVIWYQHY</span><span class="topo-inside">IFFLKYGLQDK</span><span class="topo-membrane">VTILLNTILLFVLLVYVYPLKFLARFLSEI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">YG</span><span class="topo-outside">GIFGIIETDLSRFGEYSHQNLK</span><span class="topo-membrane">LLMVNYGLGAFAIFLVFSLM</span><span class="topo-inside">YWRAYKMKSLLDLNSYEIFDTKSSI</span><span class="topo-membrane">IANLLMCSVPLLSLIITLIDP</span><span class="topo-outside">WGNFR</span><span class="topo-membrane">TTILSGFLYFLYVPIMIVFGRIT</span><span class="topo-inside">SK</span></span>
+<span class="topo-ruler">       250     </span>
 <span class="topo-line"><span class="topo-inside">K</span><span class="topo-unknown">SRRLLQDALEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3037,6 +3120,7 @@ is a Parkinson disease risk gene.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3052,15 +3136,17 @@ is a Parkinson disease risk gene.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GPS</span><span class="topo-inside">QRQLVESGGGLVQPGGSLRLSCAASGSILYFNRMGWYRQAPGKQRELVAAITSGDST</span></span>
-<span class="topo-line"><span class="topo-inside">NYADPVKGRFTISRDNAKNTVYLQMNSLKPEDTAVYYCNAKEKGWSFSLYDYWGQGTPVT</span></span>
-<span class="topo-line"><span class="topo-inside">VVKLVIWINGDKGYNGLAEVGKKFEKDTGIKVTVEHPDKLEEKFPQVAATGDGPDIIFWA</span></span>
-<span class="topo-line"><span class="topo-inside">HDRFGGYAQSGLLAEITPDKAFQDKLYPFTWDAVRYNGKLIAYPIAVEALSLIYNKDLLP</span></span>
-<span class="topo-line"><span class="topo-inside">NPPKTWEEIPALDKELKAKGKSALMFNLQEPYFTWPLIAADG</span><span class="topo-unknown">GYAFKYENGKYDIKDVGV</span></span>
-<span class="topo-line"><span class="topo-unknown">D</span><span class="topo-inside">NAGAKAGLTFLVDLIKNKHMNADTDYSIAEAAFNKGETAMTINGPWAWSNIDTSKVNYG</span></span>
-<span class="topo-line"><span class="topo-inside">VTVLPTFKGQPSKPFVGVLSAGINAASPNKELAKEFLENYLLTDEGLEAVNKDKPLGAVA</span></span>
-<span class="topo-line"><span class="topo-inside">LKSYEEELAKDPRIAATMENAQKGEIMPNIPQMSAFWYAVRTAVINAASGRQTVDEALKD</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GPS</span><span class="topo-inside">QRQLVESGGGLVQPGGSLRLSCAASGSILYFNRMGWYRQAPGKQRELVAAITSGDSTNYADPVKGRFTISRDNAKNTVYLQMNSLKPEDTAVYYCNAKEKGWSFSLYDYWGQGTPVT</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">VVKLVIWINGDKGYNGLAEVGKKFEKDTGIKVTVEHPDKLEEKFPQVAATGDGPDIIFWAHDRFGGYAQSGLLAEITPDKAFQDKLYPFTWDAVRYNGKLIAYPIAVEALSLIYNKDLLP</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">NPPKTWEEIPALDKELKAKGKSALMFNLQEPYFTWPLIAADG</span><span class="topo-unknown">GYAFKYENGKYDIKDVGVD</span><span class="topo-inside">NAGAKAGLTFLVDLIKNKHMNADTDYSIAEAAFNKGETAMTINGPWAWSNIDTSKVNYG</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">VTVLPTFKGQPSKPFVGVLSAGINAASPNKELAKEFLENYLLTDEGLEAVNKDKPLGAVALKSYEEELAKDPRIAATMENAQKGEIMPNIPQMSAFWYAVRTAVINAASGRQTVDEALKD</span></span>
+<span class="topo-ruler">      </span>
 <span class="topo-line"><span class="topo-inside">AQT</span><span class="topo-unknown">PGA</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3107,6 +3193,7 @@ is a Parkinson disease risk gene.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3122,11 +3209,13 @@ is a Parkinson disease risk gene.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSRKVFETV</span><span class="topo-inside">VGLNPNFSFRGKQQTRI</span><span class="topo-membrane">ETFSDAVFALAIALLVLSSTIP</span><span class="topo-outside">ETFEDLWAS</span><span class="topo-membrane">MRD</span></span>
-<span class="topo-line"><span class="topo-membrane">VIPFAICVALIIVIWYQHY</span><span class="topo-inside">IFFLKYGLQDK</span><span class="topo-membrane">VTILLNTILLFVLLVYVYPLKFLARFLSEI</span></span>
-<span class="topo-line"><span class="topo-membrane">YG</span><span class="topo-outside">GIFGIIETDLSRFGEYSHQNLK</span><span class="topo-membrane">LLMVNYGLGAFAIFLVFSLM</span><span class="topo-inside">YWRAYKMKSLLDLNSY</span></span>
-<span class="topo-line"><span class="topo-inside">EIFDTKSSI</span><span class="topo-membrane">IANLLMCSVPLLSLIITLIDP</span><span class="topo-outside">WGNFR</span><span class="topo-membrane">TTILSGFLYFLYVPIMIVFGRIT</span><span class="topo-inside">SK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSRKVFETV</span><span class="topo-inside">VGLNPNFSFRGKQQTRI</span><span class="topo-membrane">ETFSDAVFALAIALLVLSSTIP</span><span class="topo-outside">ETFEDLWAS</span><span class="topo-membrane">MRDVIPFAICVALIIVIWYQHY</span><span class="topo-inside">IFFLKYGLQDK</span><span class="topo-membrane">VTILLNTILLFVLLVYVYPLKFLARFLSEI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">YG</span><span class="topo-outside">GIFGIIETDLSRFGEYSHQNLK</span><span class="topo-membrane">LLMVNYGLGAFAIFLVFSLM</span><span class="topo-inside">YWRAYKMKSLLDLNSYEIFDTKSSI</span><span class="topo-membrane">IANLLMCSVPLLSLIITLIDP</span><span class="topo-outside">WGNFR</span><span class="topo-membrane">TTILSGFLYFLYVPIMIVFGRIT</span><span class="topo-inside">SK</span></span>
+<span class="topo-ruler">       250     </span>
 <span class="topo-line"><span class="topo-inside">K</span><span class="topo-unknown">SRRLLQDALEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3243,6 +3332,7 @@ is a Parkinson disease risk gene.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3258,15 +3348,17 @@ is a Parkinson disease risk gene.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GPS</span><span class="topo-inside">QRQLVESGGGLVQPGGSLRLSCAASGSILYFNRMGWYRQAPGKQRELVAAITSGDST</span></span>
-<span class="topo-line"><span class="topo-inside">NYADPVKGRFTISRDNAKNTVYLQMNSLKPEDTAVYYCNAKEKGWSFSLYDYWGQGTPVT</span></span>
-<span class="topo-line"><span class="topo-inside">VVKLVIWINGDKGYNGLAEVGKKFEKDTGIKVTVEHPDKLEEKFPQVAATGDGPDIIFWA</span></span>
-<span class="topo-line"><span class="topo-inside">HDRFGGYAQSGLLAEITPDKAFQDKLYPFTWDAVRYNGKLIAYPIAVEALSLIYNKDLLP</span></span>
-<span class="topo-line"><span class="topo-inside">NPPKTWEEIPALDKELKAKGKSALMFNLQEPYFTWPLIAADG</span><span class="topo-unknown">GYAFKYENGKYDIKDVGV</span></span>
-<span class="topo-line"><span class="topo-unknown">D</span><span class="topo-inside">NAGAKAGLTFLVDLIKNKHMNADTDYSIAEAAFNKGETAMTINGPWAWSNIDTSKVNYG</span></span>
-<span class="topo-line"><span class="topo-inside">VTVLPTFKGQPSKPFVGVLSAGINAASPNKELAKEFLENYLLTDEGLEAVNKDKPLGAVA</span></span>
-<span class="topo-line"><span class="topo-inside">LKSYEEELAKDPRIAATMENAQKGEIMPNIPQMSAFWYAVRTAVINAASGRQTVDEALKD</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GPS</span><span class="topo-inside">QRQLVESGGGLVQPGGSLRLSCAASGSILYFNRMGWYRQAPGKQRELVAAITSGDSTNYADPVKGRFTISRDNAKNTVYLQMNSLKPEDTAVYYCNAKEKGWSFSLYDYWGQGTPVT</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">VVKLVIWINGDKGYNGLAEVGKKFEKDTGIKVTVEHPDKLEEKFPQVAATGDGPDIIFWAHDRFGGYAQSGLLAEITPDKAFQDKLYPFTWDAVRYNGKLIAYPIAVEALSLIYNKDLLP</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">NPPKTWEEIPALDKELKAKGKSALMFNLQEPYFTWPLIAADG</span><span class="topo-unknown">GYAFKYENGKYDIKDVGVD</span><span class="topo-inside">NAGAKAGLTFLVDLIKNKHMNADTDYSIAEAAFNKGETAMTINGPWAWSNIDTSKVNYG</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">VTVLPTFKGQPSKPFVGVLSAGINAASPNKELAKEFLENYLLTDEGLEAVNKDKPLGAVALKSYEEELAKDPRIAATMENAQKGEIMPNIPQMSAFWYAVRTAVINAASGRQTVDEALKD</span></span>
+<span class="topo-ruler">      </span>
 <span class="topo-line"><span class="topo-inside">AQT</span><span class="topo-unknown">PGA</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3313,6 +3405,7 @@ is a Parkinson disease risk gene.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3328,11 +3421,13 @@ is a Parkinson disease risk gene.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSRKVFETV</span><span class="topo-inside">VGLNPNFSFRGKQQTRI</span><span class="topo-membrane">ETFSDAVFALAIALLVLSSTIP</span><span class="topo-outside">ETFEDLWAS</span><span class="topo-membrane">MRD</span></span>
-<span class="topo-line"><span class="topo-membrane">VIPFAICVALIIVIWYQHY</span><span class="topo-inside">IFFLKYGLQDK</span><span class="topo-membrane">VTILLNTILLFVLLVYVYPLKFLARFLSEI</span></span>
-<span class="topo-line"><span class="topo-membrane">YG</span><span class="topo-outside">GIFGIIETDLSRFGEYSHQNLK</span><span class="topo-membrane">LLMVNYGLGAFAIFLVFSLM</span><span class="topo-inside">YWRAYKMKSLLDLNSY</span></span>
-<span class="topo-line"><span class="topo-inside">EIFDTKSSI</span><span class="topo-membrane">IANLLMCSVPLLSLIITLIDP</span><span class="topo-outside">WGNFR</span><span class="topo-membrane">TTILSGFLYFLYVPIMIVFGRIT</span><span class="topo-inside">SK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSRKVFETV</span><span class="topo-inside">VGLNPNFSFRGKQQTRI</span><span class="topo-membrane">ETFSDAVFALAIALLVLSSTIP</span><span class="topo-outside">ETFEDLWAS</span><span class="topo-membrane">MRDVIPFAICVALIIVIWYQHY</span><span class="topo-inside">IFFLKYGLQDK</span><span class="topo-membrane">VTILLNTILLFVLLVYVYPLKFLARFLSEI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">YG</span><span class="topo-outside">GIFGIIETDLSRFGEYSHQNLK</span><span class="topo-membrane">LLMVNYGLGAFAIFLVFSLM</span><span class="topo-inside">YWRAYKMKSLLDLNSYEIFDTKSSI</span><span class="topo-membrane">IANLLMCSVPLLSLIITLIDP</span><span class="topo-outside">WGNFR</span><span class="topo-membrane">TTILSGFLYFLYVPIMIVFGRIT</span><span class="topo-inside">SK</span></span>
+<span class="topo-ruler">       250     </span>
 <span class="topo-line"><span class="topo-inside">K</span><span class="topo-unknown">SRRLLQDALEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3449,6 +3544,7 @@ is a Parkinson disease risk gene.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3464,15 +3560,17 @@ is a Parkinson disease risk gene.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GPS</span><span class="topo-inside">QRQLVESGGGLVQPGGSLRLSCAASGSILYFNRMGWYRQAPGKQRELVAAITSGDST</span></span>
-<span class="topo-line"><span class="topo-inside">NYADPVKGRFTISRDNAKNTVYLQMNSLKPEDTAVYYCNAKEKGWSFSLYDYWGQGTPVT</span></span>
-<span class="topo-line"><span class="topo-inside">VVKLVIWINGDKGYNGLAEVGKKFEKDTGIKVTVEHPDKLEEKFPQVAATGDGPDIIFWA</span></span>
-<span class="topo-line"><span class="topo-inside">HDRFGGYAQSGLLAEITPDKAFQDKLYPFTWDAVRYNGKLIAYPIAVEALSLIYNKDLLP</span></span>
-<span class="topo-line"><span class="topo-inside">NPPKTWEEIPALDKELKAKGKSALMFNLQEPYFTWPLIAADG</span><span class="topo-unknown">GYAFKYENGKYDIKDVGV</span></span>
-<span class="topo-line"><span class="topo-unknown">D</span><span class="topo-inside">NAGAKAGLTFLVDLIKNKHMNADTDYSIAEAAFNKGETAMTINGPWAWSNIDTSKVNYG</span></span>
-<span class="topo-line"><span class="topo-inside">VTVLPTFKGQPSKPFVGVLSAGINAASPNKELAKEFLENYLLTDEGLEAVNKDKPLGAVA</span></span>
-<span class="topo-line"><span class="topo-inside">LKSYEEELAKDPRIAATMENAQKGEIMPNIPQMSAFWYAVRTAVINAASGRQTVDEALKD</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GPS</span><span class="topo-inside">QRQLVESGGGLVQPGGSLRLSCAASGSILYFNRMGWYRQAPGKQRELVAAITSGDSTNYADPVKGRFTISRDNAKNTVYLQMNSLKPEDTAVYYCNAKEKGWSFSLYDYWGQGTPVT</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">VVKLVIWINGDKGYNGLAEVGKKFEKDTGIKVTVEHPDKLEEKFPQVAATGDGPDIIFWAHDRFGGYAQSGLLAEITPDKAFQDKLYPFTWDAVRYNGKLIAYPIAVEALSLIYNKDLLP</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">NPPKTWEEIPALDKELKAKGKSALMFNLQEPYFTWPLIAADG</span><span class="topo-unknown">GYAFKYENGKYDIKDVGVD</span><span class="topo-inside">NAGAKAGLTFLVDLIKNKHMNADTDYSIAEAAFNKGETAMTINGPWAWSNIDTSKVNYG</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">VTVLPTFKGQPSKPFVGVLSAGINAASPNKELAKEFLENYLLTDEGLEAVNKDKPLGAVALKSYEEELAKDPRIAATMENAQKGEIMPNIPQMSAFWYAVRTAVINAASGRQTVDEALKD</span></span>
+<span class="topo-ruler">      </span>
 <span class="topo-line"><span class="topo-inside">AQT</span><span class="topo-unknown">PGA</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3519,6 +3617,7 @@ is a Parkinson disease risk gene.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3534,11 +3633,13 @@ is a Parkinson disease risk gene.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSRKVFETV</span><span class="topo-inside">VGLNPNFSFRGKQQTRI</span><span class="topo-membrane">ETFSDAVFALAIALLVLSSTIP</span><span class="topo-outside">ETFEDLWAS</span><span class="topo-membrane">MRD</span></span>
-<span class="topo-line"><span class="topo-membrane">VIPFAICVALIIVIWYQHY</span><span class="topo-inside">IFFLKYGLQDK</span><span class="topo-membrane">VTILLNTILLFVLLVYVYPLKFLARFLSEI</span></span>
-<span class="topo-line"><span class="topo-membrane">YG</span><span class="topo-outside">GIFGIIETDLSRFGEYSHQNLK</span><span class="topo-membrane">LLMVNYGLGAFAIFLVFSLM</span><span class="topo-inside">YWRAYKMKSLLDLNSY</span></span>
-<span class="topo-line"><span class="topo-inside">EIFDTKSSI</span><span class="topo-membrane">IANLLMCSVPLLSLIITLIDP</span><span class="topo-outside">WGNFR</span><span class="topo-membrane">TTILSGFLYFLYVPIMIVFGRIT</span><span class="topo-inside">SK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSRKVFETV</span><span class="topo-inside">VGLNPNFSFRGKQQTRI</span><span class="topo-membrane">ETFSDAVFALAIALLVLSSTIP</span><span class="topo-outside">ETFEDLWAS</span><span class="topo-membrane">MRDVIPFAICVALIIVIWYQHY</span><span class="topo-inside">IFFLKYGLQDK</span><span class="topo-membrane">VTILLNTILLFVLLVYVYPLKFLARFLSEI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">YG</span><span class="topo-outside">GIFGIIETDLSRFGEYSHQNLK</span><span class="topo-membrane">LLMVNYGLGAFAIFLVFSLM</span><span class="topo-inside">YWRAYKMKSLLDLNSYEIFDTKSSI</span><span class="topo-membrane">IANLLMCSVPLLSLIITLIDP</span><span class="topo-outside">WGNFR</span><span class="topo-membrane">TTILSGFLYFLYVPIMIVFGRIT</span><span class="topo-inside">SK</span></span>
+<span class="topo-ruler">       250     </span>
 <span class="topo-line"><span class="topo-inside">K</span><span class="topo-unknown">SRRLLQDALEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3655,6 +3756,7 @@ is a Parkinson disease risk gene.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3670,15 +3772,17 @@ is a Parkinson disease risk gene.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GPSQ</span><span class="topo-inside">RQLVESGGGLVQPGGSLRLSCAASGSILYFNRMGWYRQAPGKQRELVAAITSGDST</span></span>
-<span class="topo-line"><span class="topo-inside">NYADPVKGRFTISRDNAKNTVYLQMNSLKPEDTAVYYCNAKEKGWSFSLYDYWGQGTPVT</span></span>
-<span class="topo-line"><span class="topo-inside">VVKLVIWINGDKGYNGLAEVGKKFEKDTGIKVTVEHPDKLEEKFPQVAATGDGPDIIFWA</span></span>
-<span class="topo-line"><span class="topo-inside">HDRFGGYAQSGLLAEITPDKAFQDKLYPFTWDAVRYNGKLIAYPIAVEALSLIYNKDLLP</span></span>
-<span class="topo-line"><span class="topo-inside">NPPKTWEEIPALDKELKAKGKSALMFNLQEPYFTWPLIAADG</span><span class="topo-unknown">GYAFKYENGKYDIKDVGV</span></span>
-<span class="topo-line"><span class="topo-unknown">D</span><span class="topo-inside">NAGAKAGLTFLVDLIKNKHMNADTDYSIAEAAFNKGETAMTINGPWAWSNIDTSKVNYG</span></span>
-<span class="topo-line"><span class="topo-inside">VTVLPTFKGQPSKPFVGVLSAGINAASPNKELAKEFLENYLLTDEGLEAVNKDKPLGAVA</span></span>
-<span class="topo-line"><span class="topo-inside">LKSYEEELAKDPRIAATMENAQKGEIMPNIPQMSAFWYAVRTAVINAASGRQTVDEALKD</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GPSQ</span><span class="topo-inside">RQLVESGGGLVQPGGSLRLSCAASGSILYFNRMGWYRQAPGKQRELVAAITSGDSTNYADPVKGRFTISRDNAKNTVYLQMNSLKPEDTAVYYCNAKEKGWSFSLYDYWGQGTPVT</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">VVKLVIWINGDKGYNGLAEVGKKFEKDTGIKVTVEHPDKLEEKFPQVAATGDGPDIIFWAHDRFGGYAQSGLLAEITPDKAFQDKLYPFTWDAVRYNGKLIAYPIAVEALSLIYNKDLLP</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">NPPKTWEEIPALDKELKAKGKSALMFNLQEPYFTWPLIAADG</span><span class="topo-unknown">GYAFKYENGKYDIKDVGVD</span><span class="topo-inside">NAGAKAGLTFLVDLIKNKHMNADTDYSIAEAAFNKGETAMTINGPWAWSNIDTSKVNYG</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">VTVLPTFKGQPSKPFVGVLSAGINAASPNKELAKEFLENYLLTDEGLEAVNKDKPLGAVALKSYEEELAKDPRIAATMENAQKGEIMPNIPQMSAFWYAVRTAVINAASGRQTVDEALKD</span></span>
+<span class="topo-ruler">      </span>
 <span class="topo-line"><span class="topo-inside">AQT</span><span class="topo-unknown">PGA</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3725,6 +3829,7 @@ is a Parkinson disease risk gene.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3740,11 +3845,13 @@ is a Parkinson disease risk gene.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSRKVFETV</span><span class="topo-inside">VGLNPNFSFRGKQQ</span><span class="topo-membrane">TRIETFSDAVFALAIALLVLSSTI</span><span class="topo-outside">PETFEDLWAS</span><span class="topo-membrane">MRD</span></span>
-<span class="topo-line"><span class="topo-membrane">VIPFAICVALIIVIWYQHYIFFL</span><span class="topo-inside">KYGL</span><span class="topo-membrane">QDKVTILLNTILLFVLLVYVYPLKFLARFLS</span><span class="topo-outside">EI</span></span>
-<span class="topo-line"><span class="topo-outside">YGGIFGIIETDLSRFGEYSHQNLK</span><span class="topo-membrane">LLMVNYGLGAFAIFLVFSLMYWRA</span><span class="topo-inside">YKMKSLLDLNSY</span></span>
-<span class="topo-line"><span class="topo-inside">EIFDTKS</span><span class="topo-membrane">SIIANLLMCSVPLLSLIITLIDP</span><span class="topo-outside">WGNFR</span><span class="topo-membrane">TTILSGFLYFLYVPIMIVFGRI</span><span class="topo-inside">TS</span><span class="topo-unknown">K</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSRKVFETV</span><span class="topo-inside">VGLNPNFSFRGKQQ</span><span class="topo-membrane">TRIETFSDAVFALAIALLVLSSTI</span><span class="topo-outside">PETFEDLWAS</span><span class="topo-membrane">MRDVIPFAICVALIIVIWYQHYIFFL</span><span class="topo-inside">KYGL</span><span class="topo-membrane">QDKVTILLNTILLFVLLVYVYPLKFLARFLS</span><span class="topo-outside">EI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">YGGIFGIIETDLSRFGEYSHQNLK</span><span class="topo-membrane">LLMVNYGLGAFAIFLVFSLMYWRA</span><span class="topo-inside">YKMKSLLDLNSYEIFDTKS</span><span class="topo-membrane">SIIANLLMCSVPLLSLIITLIDP</span><span class="topo-outside">WGNFR</span><span class="topo-membrane">TTILSGFLYFLYVPIMIVFGRI</span><span class="topo-inside">TS</span><span class="topo-unknown">K</span></span>
+<span class="topo-ruler">       250     </span>
 <span class="topo-line"><span class="topo-unknown">KSRRLLQDALEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3861,6 +3968,7 @@ is a Parkinson disease risk gene.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

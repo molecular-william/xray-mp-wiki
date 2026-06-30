@@ -174,13 +174,15 @@ AhlABC is a tripartite alpha-pore forming toxin (alpha-PFT) from the Gram-negati
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">TNATTITMDQGMANQASQAMQIQTYCNSVKQQVPVDFSQFPNLKDNQTQINQGLDLAKG</span></span>
-<span class="topo-line"><span class="topo-inside">HADLYLNTIQPQIITNISNISNYFALQNAIPAVLPPGSTKAQWLRQLSVIKEQATEYQRL</span></span>
-<span class="topo-line"><span class="topo-inside">SSDTRLVIVNLNNNLITDSSNFQGIVVNLNSKVQGDNGVLAQLNGDIDKVNAAIDG</span><span class="topo-membrane">AIAG</span></span>
-<span class="topo-line"><span class="topo-membrane">IVAGGLLVIGGAFVTAIGAVADFV</span><span class="topo-outside">T</span><span class="topo-unknown">AG</span><span class="topo-outside">TS</span><span class="topo-membrane">TPVVIGGVAMMVAGAGGITAGAIV</span><span class="topo-inside">LHNSLGA</span></span>
-<span class="topo-line"><span class="topo-inside">RQDLYQKRSSLNSEVLIATQIGNGYKGLQVQAQNAVTAATQMSNAWDSLTSDLGSLITDL</span></span>
-<span class="topo-line"><span class="topo-inside">DKGITSGDDIRQLWLTAADTTVKTVLTDVTTIKAQIAGVSP</span><span class="topo-unknown">LQVPQTDTIANFVARLAAL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">TNATTITMDQGMANQASQAMQIQTYCNSVKQQVPVDFSQFPNLKDNQTQINQGLDLAKGHADLYLNTIQPQIITNISNISNYFALQNAIPAVLPPGSTKAQWLRQLSVIKEQATEYQRL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">SSDTRLVIVNLNNNLITDSSNFQGIVVNLNSKVQGDNGVLAQLNGDIDKVNAAIDG</span><span class="topo-membrane">AIAGIVAGGLLVIGGAFVTAIGAVADFV</span><span class="topo-outside">T</span><span class="topo-unknown">AG</span><span class="topo-outside">TS</span><span class="topo-membrane">TPVVIGGVAMMVAGAGGITAGAIV</span><span class="topo-inside">LHNSLGA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">RQDLYQKRSSLNSEVLIATQIGNGYKGLQVQAQNAVTAATQMSNAWDSLTSDLGSLITDLDKGITSGDDIRQLWLTAADTTVKTVLTDVTTIKAQIAGVSP</span><span class="topo-unknown">LQVPQTDTIANFVARLAAL</span></span>
+<span class="topo-ruler">       </span>
 <span class="topo-line"><span class="topo-unknown">EHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (6 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -234,6 +236,7 @@ AhlABC is a tripartite alpha-pore forming toxin (alpha-PFT) from the Gram-negati
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -249,13 +252,15 @@ AhlABC is a tripartite alpha-pore forming toxin (alpha-PFT) from the Gram-negati
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MTNATTITMDQGMAN</span><span class="topo-inside">QASQAMQIQTYCNSVKQQVPVDFSQFPNLKDNQTQINQGLDLAKG</span></span>
-<span class="topo-line"><span class="topo-inside">HADLYLNTIQPQIITNISNISNYFALQNAIPAVLPPGSTKAQWLRQLSVIKEQATEYQRL</span></span>
-<span class="topo-line"><span class="topo-inside">SSDTRLVIVNLNNNLITDSSNFQGIVVNLNSKVQGDNGVLAQLNGDIDKVNA</span><span class="topo-membrane">AIDGAIAG</span></span>
-<span class="topo-line"><span class="topo-membrane">IVAGGLLVIGGAFVTAIGAVADFV</span><span class="topo-outside">TAGTS</span><span class="topo-membrane">TPVVIGGVAMMVAGAGGITAGAIVLHNS</span><span class="topo-inside">LGA</span></span>
-<span class="topo-line"><span class="topo-inside">RQDLYQKRSSLNSEVLIATQIGNGYKGLQVQAQNAVTAATQMSNAWDSLTSDLGSLITDL</span></span>
-<span class="topo-line"><span class="topo-inside">DKGITSGDDIRQLWLTAADTTVKTVLTDVTTIKAQIA</span><span class="topo-unknown">GVSPLQVPQTDTIANFVARLAAL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MTNATTITMDQGMAN</span><span class="topo-inside">QASQAMQIQTYCNSVKQQVPVDFSQFPNLKDNQTQINQGLDLAKGHADLYLNTIQPQIITNISNISNYFALQNAIPAVLPPGSTKAQWLRQLSVIKEQATEYQRL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">SSDTRLVIVNLNNNLITDSSNFQGIVVNLNSKVQGDNGVLAQLNGDIDKVNA</span><span class="topo-membrane">AIDGAIAGIVAGGLLVIGGAFVTAIGAVADFV</span><span class="topo-outside">TAGTS</span><span class="topo-membrane">TPVVIGGVAMMVAGAGGITAGAIVLHNS</span><span class="topo-inside">LGA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">RQDLYQKRSSLNSEVLIATQIGNGYKGLQVQAQNAVTAATQMSNAWDSLTSDLGSLITDLDKGITSGDDIRQLWLTAADTTVKTVLTDVTTIKAQIA</span><span class="topo-unknown">GVSPLQVPQTDTIANFVARLAAL</span></span>
+<span class="topo-ruler">       </span>
 <span class="topo-line"><span class="topo-unknown">EHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -302,6 +307,7 @@ AhlABC is a tripartite alpha-pore forming toxin (alpha-PFT) from the Gram-negati
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -317,13 +323,15 @@ AhlABC is a tripartite alpha-pore forming toxin (alpha-PFT) from the Gram-negati
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">TNATTITMDQGMANQASQAMQIQTYCNSVKQQVPVDFSQFPNLKDNQTQINQGLDLAKG</span></span>
-<span class="topo-line"><span class="topo-inside">HADLYLNTIQPQIITNISNISNYFALQNAIPAVLPPGSTKAQWLRQLSVIKEQATEYQRL</span></span>
-<span class="topo-line"><span class="topo-inside">SSDTRLVIVNLNNNLITDSSNFQGIVVNLNSKVQGDNGVLAQLNGDIDKVNAAIDG</span><span class="topo-membrane">AIAG</span></span>
-<span class="topo-line"><span class="topo-membrane">IVAGGLLVIGGAFVTAIGAVADF</span><span class="topo-outside">VT</span><span class="topo-unknown">AG</span><span class="topo-outside">TS</span><span class="topo-membrane">TPVVIGGVAMMVAGAGGITAGAI</span><span class="topo-inside">VLHNSLGA</span></span>
-<span class="topo-line"><span class="topo-inside">RQDLYQKRSSLNSEVLIATQIGNGYKGLQVQAQNAVTAATQMSNAWDSLTSDLGSLITDL</span></span>
-<span class="topo-line"><span class="topo-inside">DKGITSGDDIRQLWLTAADTTVKTVLTDVTTIKAQIAGVSP</span><span class="topo-unknown">LQVPQTDTIANFVARLAAL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">TNATTITMDQGMANQASQAMQIQTYCNSVKQQVPVDFSQFPNLKDNQTQINQGLDLAKGHADLYLNTIQPQIITNISNISNYFALQNAIPAVLPPGSTKAQWLRQLSVIKEQATEYQRL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">SSDTRLVIVNLNNNLITDSSNFQGIVVNLNSKVQGDNGVLAQLNGDIDKVNAAIDG</span><span class="topo-membrane">AIAGIVAGGLLVIGGAFVTAIGAVADF</span><span class="topo-outside">VT</span><span class="topo-unknown">AG</span><span class="topo-outside">TS</span><span class="topo-membrane">TPVVIGGVAMMVAGAGGITAGAI</span><span class="topo-inside">VLHNSLGA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">RQDLYQKRSSLNSEVLIATQIGNGYKGLQVQAQNAVTAATQMSNAWDSLTSDLGSLITDLDKGITSGDDIRQLWLTAADTTVKTVLTDVTTIKAQIAGVSP</span><span class="topo-unknown">LQVPQTDTIANFVARLAAL</span></span>
+<span class="topo-ruler">       </span>
 <span class="topo-line"><span class="topo-unknown">EHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (6 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -377,6 +385,7 @@ AhlABC is a tripartite alpha-pore forming toxin (alpha-PFT) from the Gram-negati
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -392,13 +401,15 @@ AhlABC is a tripartite alpha-pore forming toxin (alpha-PFT) from the Gram-negati
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MTNATTITMDQGMAN</span><span class="topo-inside">QASQAMQIQTYCNSVKQQVPVDFSQFPNLKDNQTQINQGLDLAKG</span></span>
-<span class="topo-line"><span class="topo-inside">HADLYLNTIQPQIITNISNISNYFALQNAIPAVLPPGSTKAQWLRQLSVIKEQATEYQRL</span></span>
-<span class="topo-line"><span class="topo-inside">SSDTRLVIVNLNNNLITDSSNFQGIVVNLNSKVQGDNGVLAQLNGDIDKVNA</span><span class="topo-membrane">AIDGAIAG</span></span>
-<span class="topo-line"><span class="topo-membrane">IVAGGLLVIGGAFVTAIGAVA</span><span class="topo-outside">DFVTAGTST</span><span class="topo-membrane">PVVIGGVAMMVAGAGGITAGAIVLHNS</span><span class="topo-inside">LGA</span></span>
-<span class="topo-line"><span class="topo-inside">RQDLYQKRSSLNSEVLIATQIGNGYKGLQVQAQNAVTAATQMSNAWDSLTSDLGSLITDL</span></span>
-<span class="topo-line"><span class="topo-inside">DKGITSGDDIRQLWLTAADTTVKTVLTDVTTIKAQIA</span><span class="topo-unknown">GVSPLQVPQTDTIANFVARLAAL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MTNATTITMDQGMAN</span><span class="topo-inside">QASQAMQIQTYCNSVKQQVPVDFSQFPNLKDNQTQINQGLDLAKGHADLYLNTIQPQIITNISNISNYFALQNAIPAVLPPGSTKAQWLRQLSVIKEQATEYQRL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">SSDTRLVIVNLNNNLITDSSNFQGIVVNLNSKVQGDNGVLAQLNGDIDKVNA</span><span class="topo-membrane">AIDGAIAGIVAGGLLVIGGAFVTAIGAVA</span><span class="topo-outside">DFVTAGTST</span><span class="topo-membrane">PVVIGGVAMMVAGAGGITAGAIVLHNS</span><span class="topo-inside">LGA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">RQDLYQKRSSLNSEVLIATQIGNGYKGLQVQAQNAVTAATQMSNAWDSLTSDLGSLITDLDKGITSGDDIRQLWLTAADTTVKTVLTDVTTIKAQIA</span><span class="topo-unknown">GVSPLQVPQTDTIANFVARLAAL</span></span>
+<span class="topo-ruler">       </span>
 <span class="topo-line"><span class="topo-unknown">EHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -445,6 +456,7 @@ AhlABC is a tripartite alpha-pore forming toxin (alpha-PFT) from the Gram-negati
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -460,13 +472,15 @@ AhlABC is a tripartite alpha-pore forming toxin (alpha-PFT) from the Gram-negati
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">TNATTITMDQGMANQASQAMQIQTYCNSVKQQVPVDFSQFPNLKDNQTQINQGLDLAKG</span></span>
-<span class="topo-line"><span class="topo-inside">HADLYLNTIQPQIITNISNISNYFALQNAIPAVLPPGSTKAQWLRQLSVIKEQATEYQRL</span></span>
-<span class="topo-line"><span class="topo-inside">SSDTRLVIVNLNNNLITDSSNFQGIVVNLNSKVQGDNGVLAQLNGDIDKVNAAIDG</span><span class="topo-membrane">AIAG</span></span>
-<span class="topo-line"><span class="topo-membrane">IVAGGLLVIGGAFVTAIGAVADFV</span><span class="topo-outside">T</span><span class="topo-unknown">AG</span><span class="topo-outside">T</span><span class="topo-membrane">STPVVIGGVAMMVAGAGGITAGAI</span><span class="topo-inside">VLHNSLGA</span></span>
-<span class="topo-line"><span class="topo-inside">RQDLYQKRSSLNSEVLIATQIGNGYKGLQVQAQNAVTAATQMSNAWDSLTSDLGSLITDL</span></span>
-<span class="topo-line"><span class="topo-inside">DKGITSGDDIRQLWLTAADTTVKTVLTDVTTIKAQIAGVSP</span><span class="topo-unknown">LQVPQTDTIANFVARLAAL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">TNATTITMDQGMANQASQAMQIQTYCNSVKQQVPVDFSQFPNLKDNQTQINQGLDLAKGHADLYLNTIQPQIITNISNISNYFALQNAIPAVLPPGSTKAQWLRQLSVIKEQATEYQRL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">SSDTRLVIVNLNNNLITDSSNFQGIVVNLNSKVQGDNGVLAQLNGDIDKVNAAIDG</span><span class="topo-membrane">AIAGIVAGGLLVIGGAFVTAIGAVADFV</span><span class="topo-outside">T</span><span class="topo-unknown">AG</span><span class="topo-outside">T</span><span class="topo-membrane">STPVVIGGVAMMVAGAGGITAGAI</span><span class="topo-inside">VLHNSLGA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">RQDLYQKRSSLNSEVLIATQIGNGYKGLQVQAQNAVTAATQMSNAWDSLTSDLGSLITDLDKGITSGDDIRQLWLTAADTTVKTVLTDVTTIKAQIAGVSP</span><span class="topo-unknown">LQVPQTDTIANFVARLAAL</span></span>
+<span class="topo-ruler">       </span>
 <span class="topo-line"><span class="topo-unknown">EHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (6 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -520,6 +534,7 @@ AhlABC is a tripartite alpha-pore forming toxin (alpha-PFT) from the Gram-negati
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -535,13 +550,15 @@ AhlABC is a tripartite alpha-pore forming toxin (alpha-PFT) from the Gram-negati
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MTNATTITMDQGMA</span><span class="topo-inside">NQASQAMQIQTYCNSVKQQVPVDFSQFPNLKDNQTQINQGLDLAKG</span></span>
-<span class="topo-line"><span class="topo-inside">HADLYLNTIQPQIITNISNISNYFALQNAIPAVLPPGSTKAQWLRQLSVIKEQATEYQRL</span></span>
-<span class="topo-line"><span class="topo-inside">SSDTRLVIVNLNNNLITDSSNFQGIVVNLNSKVQGDNGVLAQLNGDIDKVNA</span><span class="topo-membrane">AIDGAIAG</span></span>
-<span class="topo-line"><span class="topo-membrane">IVAGGLLVIGGAFVTAIGAVADF</span><span class="topo-outside">VT</span><span class="topo-unknown">AGT</span><span class="topo-outside">S</span><span class="topo-membrane">TPVVIGGVAMMVAGAGGITAGAIVLHNS</span><span class="topo-inside">LGA</span></span>
-<span class="topo-line"><span class="topo-inside">RQDLYQKRSSLNSEVLIATQIGNGYKGLQVQAQNAVTAATQMSNAWDSLTSDLGSLITDL</span></span>
-<span class="topo-line"><span class="topo-inside">DKGITSGDDIRQLWLTAADTTVKTVLTDVTTIKAQIA</span><span class="topo-unknown">GVSPLQVPQTDTIANFVARLAAL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MTNATTITMDQGMA</span><span class="topo-inside">NQASQAMQIQTYCNSVKQQVPVDFSQFPNLKDNQTQINQGLDLAKGHADLYLNTIQPQIITNISNISNYFALQNAIPAVLPPGSTKAQWLRQLSVIKEQATEYQRL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">SSDTRLVIVNLNNNLITDSSNFQGIVVNLNSKVQGDNGVLAQLNGDIDKVNA</span><span class="topo-membrane">AIDGAIAGIVAGGLLVIGGAFVTAIGAVADF</span><span class="topo-outside">VT</span><span class="topo-unknown">AGT</span><span class="topo-outside">S</span><span class="topo-membrane">TPVVIGGVAMMVAGAGGITAGAIVLHNS</span><span class="topo-inside">LGA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">RQDLYQKRSSLNSEVLIATQIGNGYKGLQVQAQNAVTAATQMSNAWDSLTSDLGSLITDLDKGITSGDDIRQLWLTAADTTVKTVLTDVTTIKAQIA</span><span class="topo-unknown">GVSPLQVPQTDTIANFVARLAAL</span></span>
+<span class="topo-ruler">       </span>
 <span class="topo-line"><span class="topo-unknown">EHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (6 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -595,6 +612,7 @@ AhlABC is a tripartite alpha-pore forming toxin (alpha-PFT) from the Gram-negati
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -610,13 +628,15 @@ AhlABC is a tripartite alpha-pore forming toxin (alpha-PFT) from the Gram-negati
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">TNATTITMDQGMANQASQAMQIQTYCNSVKQQVPVDFSQFPNLKDNQTQINQGLDLAKG</span></span>
-<span class="topo-line"><span class="topo-inside">HADLYLNTIQPQIITNISNISNYFALQNAIPAVLPPGSTKAQWLRQLSVIKEQATEYQRL</span></span>
-<span class="topo-line"><span class="topo-inside">SSDTRLVIVNLNNNLITDSSNFQGIVVNLNSKVQGDNGVLAQLNGDIDKVNAAIDG</span><span class="topo-membrane">AIAG</span></span>
-<span class="topo-line"><span class="topo-membrane">IVAGGLLVIGGAFVTAIGAVADFV</span><span class="topo-unknown">TA</span><span class="topo-outside">GT</span><span class="topo-membrane">STPVVIGGVAMMVAGAGGITAGAI</span><span class="topo-inside">VLHNSLGA</span></span>
-<span class="topo-line"><span class="topo-inside">RQDLYQKRSSLNSEVLIATQIGNGYKGLQVQAQNAVTAATQMSNAWDSLTSDLGSLITDL</span></span>
-<span class="topo-line"><span class="topo-inside">DKGITSGDDIRQLWLTAADTTVKTVLTDVTTIKAQIAGVSP</span><span class="topo-unknown">LQVPQTDTIANFVARLAAL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">TNATTITMDQGMANQASQAMQIQTYCNSVKQQVPVDFSQFPNLKDNQTQINQGLDLAKGHADLYLNTIQPQIITNISNISNYFALQNAIPAVLPPGSTKAQWLRQLSVIKEQATEYQRL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">SSDTRLVIVNLNNNLITDSSNFQGIVVNLNSKVQGDNGVLAQLNGDIDKVNAAIDG</span><span class="topo-membrane">AIAGIVAGGLLVIGGAFVTAIGAVADFV</span><span class="topo-unknown">TA</span><span class="topo-outside">GT</span><span class="topo-membrane">STPVVIGGVAMMVAGAGGITAGAI</span><span class="topo-inside">VLHNSLGA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">RQDLYQKRSSLNSEVLIATQIGNGYKGLQVQAQNAVTAATQMSNAWDSLTSDLGSLITDLDKGITSGDDIRQLWLTAADTTVKTVLTDVTTIKAQIAGVSP</span><span class="topo-unknown">LQVPQTDTIANFVARLAAL</span></span>
+<span class="topo-ruler">       </span>
 <span class="topo-line"><span class="topo-unknown">EHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -663,6 +683,7 @@ AhlABC is a tripartite alpha-pore forming toxin (alpha-PFT) from the Gram-negati
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -678,13 +699,15 @@ AhlABC is a tripartite alpha-pore forming toxin (alpha-PFT) from the Gram-negati
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MTNATTITMDQGMANQ</span><span class="topo-inside">ASQAMQIQTYCNSVKQQVPVDFSQFPNLKDNQTQINQGLDLAKG</span></span>
-<span class="topo-line"><span class="topo-inside">HADLYLNTIQPQIITNISNISNYFALQNAIPAVLPPGSTKAQWLRQLSVIKEQATEYQRL</span></span>
-<span class="topo-line"><span class="topo-inside">SSDTRLVIVNLNNNLITDSSNFQGIVVNLNSKVQGDNGVLAQLNGDIDKVNA</span><span class="topo-membrane">AIDGAIAG</span></span>
-<span class="topo-line"><span class="topo-membrane">IVAGGLLVIGGAFVTAIGAVA</span><span class="topo-outside">DF</span><span class="topo-unknown">VTAG</span><span class="topo-outside">TS</span><span class="topo-membrane">TPVVIGGVAMMVAGAGGITAGAIVLHNS</span><span class="topo-inside">LGA</span></span>
-<span class="topo-line"><span class="topo-inside">RQDLYQKRSSLNSEVLIATQIGNGYKGLQVQAQNAVTAATQMSNAWDSLTSDLGSLITDL</span></span>
-<span class="topo-line"><span class="topo-inside">DKGITSGDDIRQLWLTAADTTVKTVLTDVTTIKAQIA</span><span class="topo-unknown">GVSPLQVPQTDTIANFVARLAAL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MTNATTITMDQGMANQ</span><span class="topo-inside">ASQAMQIQTYCNSVKQQVPVDFSQFPNLKDNQTQINQGLDLAKGHADLYLNTIQPQIITNISNISNYFALQNAIPAVLPPGSTKAQWLRQLSVIKEQATEYQRL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">SSDTRLVIVNLNNNLITDSSNFQGIVVNLNSKVQGDNGVLAQLNGDIDKVNA</span><span class="topo-membrane">AIDGAIAGIVAGGLLVIGGAFVTAIGAVA</span><span class="topo-outside">DF</span><span class="topo-unknown">VTAG</span><span class="topo-outside">TS</span><span class="topo-membrane">TPVVIGGVAMMVAGAGGITAGAIVLHNS</span><span class="topo-inside">LGA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">RQDLYQKRSSLNSEVLIATQIGNGYKGLQVQAQNAVTAATQMSNAWDSLTSDLGSLITDLDKGITSGDDIRQLWLTAADTTVKTVLTDVTTIKAQIA</span><span class="topo-unknown">GVSPLQVPQTDTIANFVARLAAL</span></span>
+<span class="topo-ruler">       </span>
 <span class="topo-line"><span class="topo-unknown">EHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (6 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -738,6 +761,7 @@ AhlABC is a tripartite alpha-pore forming toxin (alpha-PFT) from the Gram-negati
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -753,13 +777,15 @@ AhlABC is a tripartite alpha-pore forming toxin (alpha-PFT) from the Gram-negati
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">TNATTITMDQGMANQASQAMQIQTYCNSVKQQVPVDFSQFPNLKDNQTQINQGLDLAKG</span></span>
-<span class="topo-line"><span class="topo-inside">HADLYLNTIQPQIITNISNISNYFALQNAIPAVLPPGSTKAQWLRQLSVIKEQATEYQRL</span></span>
-<span class="topo-line"><span class="topo-inside">SSDTRLVIVNLNNNLITDSSNFQGIVVNLNSKVQGDNGVLAQLNGDIDKVNAAIDG</span><span class="topo-membrane">AIAG</span></span>
-<span class="topo-line"><span class="topo-membrane">IVAGGLLVIGGAFVTAIGAVADF</span><span class="topo-outside">VT</span><span class="topo-unknown">AGT</span><span class="topo-outside">S</span><span class="topo-membrane">TPVVIGGVAMMVAGAGGITAGAIV</span><span class="topo-inside">LHNSLGA</span></span>
-<span class="topo-line"><span class="topo-inside">RQDLYQKRSSLNSEVLIATQIGNGYKGLQVQAQNAVTAATQMSNAWDSLTSDLGSLITDL</span></span>
-<span class="topo-line"><span class="topo-inside">DKGITSGDDIRQLWLTAADTTVKTVLTDVTTIKAQIAGVSP</span><span class="topo-unknown">LQVPQTDTIANFVARLAAL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">TNATTITMDQGMANQASQAMQIQTYCNSVKQQVPVDFSQFPNLKDNQTQINQGLDLAKGHADLYLNTIQPQIITNISNISNYFALQNAIPAVLPPGSTKAQWLRQLSVIKEQATEYQRL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">SSDTRLVIVNLNNNLITDSSNFQGIVVNLNSKVQGDNGVLAQLNGDIDKVNAAIDG</span><span class="topo-membrane">AIAGIVAGGLLVIGGAFVTAIGAVADF</span><span class="topo-outside">VT</span><span class="topo-unknown">AGT</span><span class="topo-outside">S</span><span class="topo-membrane">TPVVIGGVAMMVAGAGGITAGAIV</span><span class="topo-inside">LHNSLGA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">RQDLYQKRSSLNSEVLIATQIGNGYKGLQVQAQNAVTAATQMSNAWDSLTSDLGSLITDLDKGITSGDDIRQLWLTAADTTVKTVLTDVTTIKAQIAGVSP</span><span class="topo-unknown">LQVPQTDTIANFVARLAAL</span></span>
+<span class="topo-ruler">       </span>
 <span class="topo-line"><span class="topo-unknown">EHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (6 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -813,6 +839,7 @@ AhlABC is a tripartite alpha-pore forming toxin (alpha-PFT) from the Gram-negati
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -828,13 +855,15 @@ AhlABC is a tripartite alpha-pore forming toxin (alpha-PFT) from the Gram-negati
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MTNATTITMDQGMAN</span><span class="topo-inside">QASQAMQIQTYCNSVKQQVPVDFSQFPNLKDNQTQINQGLDLAKG</span></span>
-<span class="topo-line"><span class="topo-inside">HADLYLNTIQPQIITNISNISNYFALQNAIPAVLPPGSTKAQWLRQLSVIKEQATEYQRL</span></span>
-<span class="topo-line"><span class="topo-inside">SSDTRLVIVNLNNNLITDSSNFQGIVVNLNSKVQGDNGVLAQLNGDIDKVNA</span><span class="topo-membrane">AIDGAIAG</span></span>
-<span class="topo-line"><span class="topo-membrane">IVAGGLLVIGGAFVTAIGAVA</span><span class="topo-unknown">DFVTAGT</span><span class="topo-outside">S</span><span class="topo-membrane">TPVVIGGVAMMVAGAGGITAGAIVLHNS</span><span class="topo-inside">LGA</span></span>
-<span class="topo-line"><span class="topo-inside">RQDLYQKRSSLNSEVLIATQIGNGYKGLQVQAQNAVTAATQMSNAWDSLTSDLGSLITDL</span></span>
-<span class="topo-line"><span class="topo-inside">DKGITSGDDIRQLWLTAADTTVKTVLTDVTTIKAQIA</span><span class="topo-unknown">GVSPLQVPQTDTIANFVARLAAL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MTNATTITMDQGMAN</span><span class="topo-inside">QASQAMQIQTYCNSVKQQVPVDFSQFPNLKDNQTQINQGLDLAKGHADLYLNTIQPQIITNISNISNYFALQNAIPAVLPPGSTKAQWLRQLSVIKEQATEYQRL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">SSDTRLVIVNLNNNLITDSSNFQGIVVNLNSKVQGDNGVLAQLNGDIDKVNA</span><span class="topo-membrane">AIDGAIAGIVAGGLLVIGGAFVTAIGAVA</span><span class="topo-unknown">DFVTAGT</span><span class="topo-outside">S</span><span class="topo-membrane">TPVVIGGVAMMVAGAGGITAGAIVLHNS</span><span class="topo-inside">LGA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">RQDLYQKRSSLNSEVLIATQIGNGYKGLQVQAQNAVTAATQMSNAWDSLTSDLGSLITDLDKGITSGDDIRQLWLTAADTTVKTVLTDVTTIKAQIA</span><span class="topo-unknown">GVSPLQVPQTDTIANFVARLAAL</span></span>
+<span class="topo-ruler">       </span>
 <span class="topo-line"><span class="topo-unknown">EHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -881,6 +910,7 @@ AhlABC is a tripartite alpha-pore forming toxin (alpha-PFT) from the Gram-negati
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -896,13 +926,15 @@ AhlABC is a tripartite alpha-pore forming toxin (alpha-PFT) from the Gram-negati
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">TNATTITMDQGMANQASQAMQIQTYCNSVKQQVPVDFSQFPNLKDNQTQINQGLDLAKG</span></span>
-<span class="topo-line"><span class="topo-inside">HADLYLNTIQPQIITNISNISNYFALQNAIPAVLPPGSTKAQWLRQLSVIKEQATEYQRL</span></span>
-<span class="topo-line"><span class="topo-inside">SSDTRLVIVNLNNNLITDSSNFQGIVVNLNSKVQGDNGVLAQLNGDIDKVNAAID</span><span class="topo-membrane">GAIAG</span></span>
-<span class="topo-line"><span class="topo-membrane">IVAGGLLVIGGAFVTAI</span><span class="topo-outside">GAVA</span><span class="topo-unknown">DFVTAGT</span><span class="topo-outside">STPVV</span><span class="topo-membrane">IGGVAMMVAGAGGITAGAIV</span><span class="topo-inside">LHNSLGA</span></span>
-<span class="topo-line"><span class="topo-inside">RQDLYQKRSSLNSEVLIATQIGNGYKGLQVQAQNAVTAATQMSNAWDSLTSDLGSLITDL</span></span>
-<span class="topo-line"><span class="topo-inside">DKGITSGDDIRQLWLTAADTTVKTVLTDVTTIKAQMAGV</span><span class="topo-unknown">SPLQVPQTDTIANFVARLAAL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">TNATTITMDQGMANQASQAMQIQTYCNSVKQQVPVDFSQFPNLKDNQTQINQGLDLAKGHADLYLNTIQPQIITNISNISNYFALQNAIPAVLPPGSTKAQWLRQLSVIKEQATEYQRL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">SSDTRLVIVNLNNNLITDSSNFQGIVVNLNSKVQGDNGVLAQLNGDIDKVNAAID</span><span class="topo-membrane">GAIAGIVAGGLLVIGGAFVTAI</span><span class="topo-outside">GAVA</span><span class="topo-unknown">DFVTAGT</span><span class="topo-outside">STPVV</span><span class="topo-membrane">IGGVAMMVAGAGGITAGAIV</span><span class="topo-inside">LHNSLGA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">RQDLYQKRSSLNSEVLIATQIGNGYKGLQVQAQNAVTAATQMSNAWDSLTSDLGSLITDLDKGITSGDDIRQLWLTAADTTVKTVLTDVTTIKAQMAGV</span><span class="topo-unknown">SPLQVPQTDTIANFVARLAAL</span></span>
+<span class="topo-ruler">       </span>
 <span class="topo-line"><span class="topo-unknown">EHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -977,6 +1009,7 @@ AhlABC is a tripartite alpha-pore forming toxin (alpha-PFT) from the Gram-negati
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -992,13 +1025,15 @@ AhlABC is a tripartite alpha-pore forming toxin (alpha-PFT) from the Gram-negati
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MTNATTITMDQGMANQ</span><span class="topo-inside">ASQAMQIQTYCNSVKQQVPVDFSQFPNLKDNQTQINQGLDLAKG</span></span>
-<span class="topo-line"><span class="topo-inside">HADLYLNTIQPQIITNISNISNYFALQNAIPAVLPPGSTKAQWLRQLSVIKEQATEYQRL</span></span>
-<span class="topo-line"><span class="topo-inside">SSDTRLVIVNLNNNLITDSSNFQGIVVNLNSKVQGDNGVLAQLNGDIDK</span><span class="topo-membrane">VNAAIDGAIAG</span></span>
-<span class="topo-line"><span class="topo-membrane">IVAGGLLVIGGAFVTA</span><span class="topo-outside">IGAVADFVTAGTSTPVVIGG</span><span class="topo-membrane">VAMMVAGAGGITAGAIVLHNSL</span><span class="topo-inside">GA</span></span>
-<span class="topo-line"><span class="topo-inside">RQDLYQKRSSLNSEVLIATQIGNGYKGLQVQAQNAVTAATQMSNAWDSLTSDLGSLITDL</span></span>
-<span class="topo-line"><span class="topo-inside">DKGITSGDDIRQLWLTAADTTVKTVLTDVTTIKAQMAGVSPLQVPQTDTIANFVARLAAL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MTNATTITMDQGMANQ</span><span class="topo-inside">ASQAMQIQTYCNSVKQQVPVDFSQFPNLKDNQTQINQGLDLAKGHADLYLNTIQPQIITNISNISNYFALQNAIPAVLPPGSTKAQWLRQLSVIKEQATEYQRL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">SSDTRLVIVNLNNNLITDSSNFQGIVVNLNSKVQGDNGVLAQLNGDIDK</span><span class="topo-membrane">VNAAIDGAIAGIVAGGLLVIGGAFVTA</span><span class="topo-outside">IGAVADFVTAGTSTPVVIGG</span><span class="topo-membrane">VAMMVAGAGGITAGAIVLHNSL</span><span class="topo-inside">GA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">RQDLYQKRSSLNSEVLIATQIGNGYKGLQVQAQNAVTAATQMSNAWDSLTSDLGSLITDLDKGITSGDDIRQLWLTAADTTVKTVLTDVTTIKAQMAGVSPLQVPQTDTIANFVARLAAL</span></span>
+<span class="topo-ruler">       </span>
 <span class="topo-line"><span class="topo-unknown">EHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1059,6 +1094,7 @@ AhlABC is a tripartite alpha-pore forming toxin (alpha-PFT) from the Gram-negati
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1074,13 +1110,15 @@ AhlABC is a tripartite alpha-pore forming toxin (alpha-PFT) from the Gram-negati
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">TNATTITMDQGMANQASQAMQIQTYCNSVKQQVPVDFSQFPNLKDNQTQINQGLDLAKG</span></span>
-<span class="topo-line"><span class="topo-inside">HADLYLNTIQPQIITNISNISNYFALQNAIPAVLPPGSTKAQWLRQLSVIKEQATEYQRL</span></span>
-<span class="topo-line"><span class="topo-inside">SSDTRLVIVNLNNNLITDSSNFQGIVVNLNSKVQGDNGVLAQLNGDIDKVNAAID</span><span class="topo-membrane">GAIAG</span></span>
-<span class="topo-line"><span class="topo-membrane">IVAGGLLVIGGAFVTAI</span><span class="topo-outside">GAVADFVTAGTSTPVVI</span><span class="topo-membrane">GGVAMMVAGAGGITAGAIV</span><span class="topo-inside">LHNSLGA</span></span>
-<span class="topo-line"><span class="topo-inside">RQDLYQKRSSLNSEVLIATQIGNGYKGLQVQAQNAVTAATQMSNAWDSLTSDLGSLITDL</span></span>
-<span class="topo-line"><span class="topo-inside">DKGITSGDDIRQLWLTAADTTVKTVLTDVTTIKAQMAGV</span><span class="topo-unknown">SPLQVPQTDTIANFVARLAAL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">TNATTITMDQGMANQASQAMQIQTYCNSVKQQVPVDFSQFPNLKDNQTQINQGLDLAKGHADLYLNTIQPQIITNISNISNYFALQNAIPAVLPPGSTKAQWLRQLSVIKEQATEYQRL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">SSDTRLVIVNLNNNLITDSSNFQGIVVNLNSKVQGDNGVLAQLNGDIDKVNAAID</span><span class="topo-membrane">GAIAGIVAGGLLVIGGAFVTAI</span><span class="topo-outside">GAVADFVTAGTSTPVVI</span><span class="topo-membrane">GGVAMMVAGAGGITAGAIV</span><span class="topo-inside">LHNSLGA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">RQDLYQKRSSLNSEVLIATQIGNGYKGLQVQAQNAVTAATQMSNAWDSLTSDLGSLITDLDKGITSGDDIRQLWLTAADTTVKTVLTDVTTIKAQMAGV</span><span class="topo-unknown">SPLQVPQTDTIANFVARLAAL</span></span>
+<span class="topo-ruler">       </span>
 <span class="topo-line"><span class="topo-unknown">EHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1141,6 +1179,7 @@ AhlABC is a tripartite alpha-pore forming toxin (alpha-PFT) from the Gram-negati
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1156,13 +1195,15 @@ AhlABC is a tripartite alpha-pore forming toxin (alpha-PFT) from the Gram-negati
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MTNATTITMDQGMANQ</span><span class="topo-inside">ASQAMQIQTYCNSVKQQVPVDFSQFPNLKDNQTQINQGLDLAKG</span></span>
-<span class="topo-line"><span class="topo-inside">HADLYLNTIQPQIITNISNISNYFALQNAIPAVLPPGSTKAQWLRQLSVIKEQATEYQRL</span></span>
-<span class="topo-line"><span class="topo-inside">SSDTRLVIVNLNNNLITDSSNFQGIVVNLNSKVQGDNGVLAQLNGDIDKVNA</span><span class="topo-membrane">AIDGAIAG</span></span>
-<span class="topo-line"><span class="topo-membrane">IVAGGLLVIGGAFVTA</span><span class="topo-outside">IGAVA</span><span class="topo-unknown">DFVTAGT</span><span class="topo-outside">STPVVIGG</span><span class="topo-membrane">VAMMVAGAGGITAGAIVLHNSL</span><span class="topo-inside">GA</span></span>
-<span class="topo-line"><span class="topo-inside">RQDLYQKRSSLNSEVLIATQIGNGYKGLQVQAQNAVTAATQMSNAWDSLTSDLGSLITDL</span></span>
-<span class="topo-line"><span class="topo-inside">DKGITSGDDIRQLWLTAADTTVKTVLTDVTTIKAQMAGVSPLQVPQTDTIANFVARLAAL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MTNATTITMDQGMANQ</span><span class="topo-inside">ASQAMQIQTYCNSVKQQVPVDFSQFPNLKDNQTQINQGLDLAKGHADLYLNTIQPQIITNISNISNYFALQNAIPAVLPPGSTKAQWLRQLSVIKEQATEYQRL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">SSDTRLVIVNLNNNLITDSSNFQGIVVNLNSKVQGDNGVLAQLNGDIDKVNA</span><span class="topo-membrane">AIDGAIAGIVAGGLLVIGGAFVTA</span><span class="topo-outside">IGAVA</span><span class="topo-unknown">DFVTAGT</span><span class="topo-outside">STPVVIGG</span><span class="topo-membrane">VAMMVAGAGGITAGAIVLHNSL</span><span class="topo-inside">GA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">RQDLYQKRSSLNSEVLIATQIGNGYKGLQVQAQNAVTAATQMSNAWDSLTSDLGSLITDLDKGITSGDDIRQLWLTAADTTVKTVLTDVTTIKAQMAGVSPLQVPQTDTIANFVARLAAL</span></span>
+<span class="topo-ruler">       </span>
 <span class="topo-line"><span class="topo-inside">E</span><span class="topo-unknown">HHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1237,6 +1278,7 @@ AhlABC is a tripartite alpha-pore forming toxin (alpha-PFT) from the Gram-negati
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1252,13 +1294,15 @@ AhlABC is a tripartite alpha-pore forming toxin (alpha-PFT) from the Gram-negati
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">TNATTITMDQGMANQASQAMQIQTYCNSVKQQVPVDFSQFPNLKDNQTQINQGLDLAKG</span></span>
-<span class="topo-line"><span class="topo-inside">HADLYLNTIQPQIITNISNISNYFALQNAIPAVLPPGSTKAQWLRQLSVIKEQATEYQRL</span></span>
-<span class="topo-line"><span class="topo-inside">SSDTRLVIVNLNNNLITDSSNFQGIVVNLNSKVQGDNGVLAQLNGDIDKVNA</span><span class="topo-membrane">AIDGAIAG</span></span>
-<span class="topo-line"><span class="topo-membrane">IVAGGLLVIGGAFVTAI</span><span class="topo-outside">GA</span><span class="topo-unknown">VADFVTAGT</span><span class="topo-outside">STPVVI</span><span class="topo-membrane">GGVAMMVAGAGGITAGAIV</span><span class="topo-inside">LHNSLGA</span></span>
-<span class="topo-line"><span class="topo-inside">RQDLYQKRSSLNSEVLIATQIGNGYKGLQVQAQNAVTAATQMSNAWDSLTSDLGSLITDL</span></span>
-<span class="topo-line"><span class="topo-inside">DKGITSGDDIRQLWLTAADTTVKTVLTDVTTIKAQMAGV</span><span class="topo-unknown">SPLQVPQTDTIANFVARLAAL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">TNATTITMDQGMANQASQAMQIQTYCNSVKQQVPVDFSQFPNLKDNQTQINQGLDLAKGHADLYLNTIQPQIITNISNISNYFALQNAIPAVLPPGSTKAQWLRQLSVIKEQATEYQRL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">SSDTRLVIVNLNNNLITDSSNFQGIVVNLNSKVQGDNGVLAQLNGDIDKVNA</span><span class="topo-membrane">AIDGAIAGIVAGGLLVIGGAFVTAI</span><span class="topo-outside">GA</span><span class="topo-unknown">VADFVTAGT</span><span class="topo-outside">STPVVI</span><span class="topo-membrane">GGVAMMVAGAGGITAGAIV</span><span class="topo-inside">LHNSLGA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">RQDLYQKRSSLNSEVLIATQIGNGYKGLQVQAQNAVTAATQMSNAWDSLTSDLGSLITDLDKGITSGDDIRQLWLTAADTTVKTVLTDVTTIKAQMAGV</span><span class="topo-unknown">SPLQVPQTDTIANFVARLAAL</span></span>
+<span class="topo-ruler">       </span>
 <span class="topo-line"><span class="topo-unknown">EHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1333,6 +1377,7 @@ AhlABC is a tripartite alpha-pore forming toxin (alpha-PFT) from the Gram-negati
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1348,13 +1393,15 @@ AhlABC is a tripartite alpha-pore forming toxin (alpha-PFT) from the Gram-negati
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MTNATTITMDQGMANQ</span><span class="topo-inside">ASQAMQIQTYCNSVKQQVPVDFSQFPNLKDNQTQINQGLDLAKG</span></span>
-<span class="topo-line"><span class="topo-inside">HADLYLNTIQPQIITNISNISNYFALQNAIPAVLPPGSTKAQWLRQLSVIKEQATEYQRL</span></span>
-<span class="topo-line"><span class="topo-inside">SSDTRLVIVNLNNNLITDSSNFQGIVVNLNSKVQGDNGVLAQLNGDIDKVNA</span><span class="topo-membrane">AIDGAIAG</span></span>
-<span class="topo-line"><span class="topo-membrane">IVAGGLLVIGGAFV</span><span class="topo-outside">TAIGAVADFVTAGTSTPVVIGG</span><span class="topo-membrane">VAMMVAGAGGITAGAIVLHNSL</span><span class="topo-inside">GA</span></span>
-<span class="topo-line"><span class="topo-inside">RQDLYQKRSSLNSEVLIATQIGNGYKGLQVQAQNAVTAATQMSNAWDSLTSDLGSLITDL</span></span>
-<span class="topo-line"><span class="topo-inside">DKGITSGDDIRQLWLTAADTTVKTVLTDVTTIKAQMAGVSPL</span><span class="topo-unknown">QVPQTDTIANFVARLAAL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MTNATTITMDQGMANQ</span><span class="topo-inside">ASQAMQIQTYCNSVKQQVPVDFSQFPNLKDNQTQINQGLDLAKGHADLYLNTIQPQIITNISNISNYFALQNAIPAVLPPGSTKAQWLRQLSVIKEQATEYQRL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">SSDTRLVIVNLNNNLITDSSNFQGIVVNLNSKVQGDNGVLAQLNGDIDKVNA</span><span class="topo-membrane">AIDGAIAGIVAGGLLVIGGAFV</span><span class="topo-outside">TAIGAVADFVTAGTSTPVVIGG</span><span class="topo-membrane">VAMMVAGAGGITAGAIVLHNSL</span><span class="topo-inside">GA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">RQDLYQKRSSLNSEVLIATQIGNGYKGLQVQAQNAVTAATQMSNAWDSLTSDLGSLITDLDKGITSGDDIRQLWLTAADTTVKTVLTDVTTIKAQMAGVSPL</span><span class="topo-unknown">QVPQTDTIANFVARLAAL</span></span>
+<span class="topo-ruler">       </span>
 <span class="topo-line"><span class="topo-unknown">EHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1415,6 +1462,7 @@ AhlABC is a tripartite alpha-pore forming toxin (alpha-PFT) from the Gram-negati
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1430,13 +1478,15 @@ AhlABC is a tripartite alpha-pore forming toxin (alpha-PFT) from the Gram-negati
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MT</span><span class="topo-inside">NATTITMDQGMANQASQAMQIQTYCNSVKQQVPVDFSQFPNLKDNQTQINQGLDLAKG</span></span>
-<span class="topo-line"><span class="topo-inside">HADLYLNTIQPQIITNISNISNYFALQNAIPAVLPPGSTKAQWLRQLSVIKEQATEYQRL</span></span>
-<span class="topo-line"><span class="topo-inside">SSDTRLVIVNLNNNLITDSSNFQGIVVNLNSKVQGDNGVLAQLNGDIDKVNAAID</span><span class="topo-membrane">GAIAG</span></span>
-<span class="topo-line"><span class="topo-membrane">IVAGGLLVIGGAFVTAI</span><span class="topo-outside">GA</span><span class="topo-unknown">VADFVTAGT</span><span class="topo-outside">STPVVI</span><span class="topo-membrane">GGVAMMVAGAGGITAGAIV</span><span class="topo-inside">LHNSLGA</span></span>
-<span class="topo-line"><span class="topo-inside">RQDLYQKRSSLNSEVLIATQIGNGYKGLQVQAQNAVTAATQMSNAWDSLTSDLGSLITDL</span></span>
-<span class="topo-line"><span class="topo-inside">DKGITSGDDIRQLWLTAADTTVKTVLTDVTTIKAQMAGV</span><span class="topo-unknown">SPLQVPQTDTIANFVARLAAL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MT</span><span class="topo-inside">NATTITMDQGMANQASQAMQIQTYCNSVKQQVPVDFSQFPNLKDNQTQINQGLDLAKGHADLYLNTIQPQIITNISNISNYFALQNAIPAVLPPGSTKAQWLRQLSVIKEQATEYQRL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">SSDTRLVIVNLNNNLITDSSNFQGIVVNLNSKVQGDNGVLAQLNGDIDKVNAAID</span><span class="topo-membrane">GAIAGIVAGGLLVIGGAFVTAI</span><span class="topo-outside">GA</span><span class="topo-unknown">VADFVTAGT</span><span class="topo-outside">STPVVI</span><span class="topo-membrane">GGVAMMVAGAGGITAGAIV</span><span class="topo-inside">LHNSLGA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">RQDLYQKRSSLNSEVLIATQIGNGYKGLQVQAQNAVTAATQMSNAWDSLTSDLGSLITDLDKGITSGDDIRQLWLTAADTTVKTVLTDVTTIKAQMAGV</span><span class="topo-unknown">SPLQVPQTDTIANFVARLAAL</span></span>
+<span class="topo-ruler">       </span>
 <span class="topo-line"><span class="topo-unknown">EHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1511,6 +1561,7 @@ AhlABC is a tripartite alpha-pore forming toxin (alpha-PFT) from the Gram-negati
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1526,13 +1577,15 @@ AhlABC is a tripartite alpha-pore forming toxin (alpha-PFT) from the Gram-negati
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MTNATTITMDQGMANQ</span><span class="topo-inside">ASQAMQIQTYCNSVKQQVPVDFSQFPNLKDNQTQINQGLDLAKG</span></span>
-<span class="topo-line"><span class="topo-inside">HADLYLNTIQPQIITNISNISNYFALQNAIPAVLPPGSTKAQWLRQLSVIKEQATEYQRL</span></span>
-<span class="topo-line"><span class="topo-inside">SSDTRLVIVNLNNNLITDSSNFQGIVVNLNSKVQGDNGVLAQLNGDIDKVNA</span><span class="topo-membrane">AIDGAIAG</span></span>
-<span class="topo-line"><span class="topo-membrane">IVAGGLLVIGGAFVTA</span><span class="topo-outside">IGAVADFV</span><span class="topo-unknown">TA</span><span class="topo-outside">GTSTPVVIGG</span><span class="topo-membrane">VAMMVAGAGGITAGAIVLHNS</span><span class="topo-inside">LGA</span></span>
-<span class="topo-line"><span class="topo-inside">RQDLYQKRSSLNSEVLIATQIGNGYKGLQVQAQNAVTAATQMSNAWDSLTSDLGSLITDL</span></span>
-<span class="topo-line"><span class="topo-inside">DKGITSGDDIRQLWLTAADTTVKTVLTDVTTIKAQMAGVSPLQVPQTDTIANFVARLAAL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MTNATTITMDQGMANQ</span><span class="topo-inside">ASQAMQIQTYCNSVKQQVPVDFSQFPNLKDNQTQINQGLDLAKGHADLYLNTIQPQIITNISNISNYFALQNAIPAVLPPGSTKAQWLRQLSVIKEQATEYQRL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">SSDTRLVIVNLNNNLITDSSNFQGIVVNLNSKVQGDNGVLAQLNGDIDKVNA</span><span class="topo-membrane">AIDGAIAGIVAGGLLVIGGAFVTA</span><span class="topo-outside">IGAVADFV</span><span class="topo-unknown">TA</span><span class="topo-outside">GTSTPVVIGG</span><span class="topo-membrane">VAMMVAGAGGITAGAIVLHNS</span><span class="topo-inside">LGA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">RQDLYQKRSSLNSEVLIATQIGNGYKGLQVQAQNAVTAATQMSNAWDSLTSDLGSLITDLDKGITSGDDIRQLWLTAADTTVKTVLTDVTTIKAQMAGVSPLQVPQTDTIANFVARLAAL</span></span>
+<span class="topo-ruler">       </span>
 <span class="topo-line"><span class="topo-inside">EHH</span><span class="topo-unknown">HHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1607,6 +1660,7 @@ AhlABC is a tripartite alpha-pore forming toxin (alpha-PFT) from the Gram-negati
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1622,13 +1676,15 @@ AhlABC is a tripartite alpha-pore forming toxin (alpha-PFT) from the Gram-negati
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">TNATTITMDQGMANQASQAMQIQTYCNSVKQQVPVDFSQFPNLKDNQTQINQGLDLAKG</span></span>
-<span class="topo-line"><span class="topo-inside">HADLYLNTIQPQIITNISNISNYFALQNAIPAVLPPGSTKAQWLRQLSVIKEQATEYQRL</span></span>
-<span class="topo-line"><span class="topo-inside">SSDTRLVIVNLNNNLITDSSNFQGIVVNLNSKVQGDNGVLAQLNGDIDKVNAAID</span><span class="topo-membrane">GAIAG</span></span>
-<span class="topo-line"><span class="topo-membrane">IVAGGLLVIGGAFVTAI</span><span class="topo-outside">GAVADFVTAGTSTPVVI</span><span class="topo-membrane">GGVAMMVAGAGGITAGAIV</span><span class="topo-inside">LHNSLGA</span></span>
-<span class="topo-line"><span class="topo-inside">RQDLYQKRSSLNSEVLIATQIGNGYKGLQVQAQNAVTAATQMSNAWDSLTSDLGSLITDL</span></span>
-<span class="topo-line"><span class="topo-inside">DKGITSGDDIRQLWLTAADTTVKTVLTDVTTIKAQMAGV</span><span class="topo-unknown">SPLQVPQTDTIANFVARLAAL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">TNATTITMDQGMANQASQAMQIQTYCNSVKQQVPVDFSQFPNLKDNQTQINQGLDLAKGHADLYLNTIQPQIITNISNISNYFALQNAIPAVLPPGSTKAQWLRQLSVIKEQATEYQRL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">SSDTRLVIVNLNNNLITDSSNFQGIVVNLNSKVQGDNGVLAQLNGDIDKVNAAID</span><span class="topo-membrane">GAIAGIVAGGLLVIGGAFVTAI</span><span class="topo-outside">GAVADFVTAGTSTPVVI</span><span class="topo-membrane">GGVAMMVAGAGGITAGAIV</span><span class="topo-inside">LHNSLGA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">RQDLYQKRSSLNSEVLIATQIGNGYKGLQVQAQNAVTAATQMSNAWDSLTSDLGSLITDLDKGITSGDDIRQLWLTAADTTVKTVLTDVTTIKAQMAGV</span><span class="topo-unknown">SPLQVPQTDTIANFVARLAAL</span></span>
+<span class="topo-ruler">       </span>
 <span class="topo-line"><span class="topo-unknown">EHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1689,6 +1745,7 @@ AhlABC is a tripartite alpha-pore forming toxin (alpha-PFT) from the Gram-negati
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1704,13 +1761,15 @@ AhlABC is a tripartite alpha-pore forming toxin (alpha-PFT) from the Gram-negati
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MTNATTITMDQGMANQ</span><span class="topo-inside">ASQAMQIQTYCNSVKQQVPVDFSQFPNLKDNQTQINQGLDLAKG</span></span>
-<span class="topo-line"><span class="topo-inside">HADLYLNTIQPQIITNISNISNYFALQNAIPAVLPPGSTKAQWLRQLSVIKEQATEYQRL</span></span>
-<span class="topo-line"><span class="topo-inside">SSDTRLVIVNLNNNLITDSSNFQGIVVNLNSKVQGDNGVLAQLNGDIDKVNA</span><span class="topo-membrane">AIDGAIAG</span></span>
-<span class="topo-line"><span class="topo-membrane">IVAGGLLVIGGAFVTA</span><span class="topo-outside">IGAVADFVTAGTSTPVVIGG</span><span class="topo-membrane">VAMMVAGAGGITAGAIVLHNS</span><span class="topo-inside">LGA</span></span>
-<span class="topo-line"><span class="topo-inside">RQDLYQKRSSLNSEVLIATQIGNGYKGLQVQAQNAVTAATQMSNAWDSLTSDLGSLITDL</span></span>
-<span class="topo-line"><span class="topo-inside">DKGITSGDDIRQLWLTAADTTVKTVLTDVTTIKAQMAGVSPLQVPQTDTIANFVARLAA</span><span class="topo-unknown">L</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MTNATTITMDQGMANQ</span><span class="topo-inside">ASQAMQIQTYCNSVKQQVPVDFSQFPNLKDNQTQINQGLDLAKGHADLYLNTIQPQIITNISNISNYFALQNAIPAVLPPGSTKAQWLRQLSVIKEQATEYQRL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">SSDTRLVIVNLNNNLITDSSNFQGIVVNLNSKVQGDNGVLAQLNGDIDKVNA</span><span class="topo-membrane">AIDGAIAGIVAGGLLVIGGAFVTA</span><span class="topo-outside">IGAVADFVTAGTSTPVVIGG</span><span class="topo-membrane">VAMMVAGAGGITAGAIVLHNS</span><span class="topo-inside">LGA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">RQDLYQKRSSLNSEVLIATQIGNGYKGLQVQAQNAVTAATQMSNAWDSLTSDLGSLITDLDKGITSGDDIRQLWLTAADTTVKTVLTDVTTIKAQMAGVSPLQVPQTDTIANFVARLAA</span><span class="topo-unknown">L</span></span>
+<span class="topo-ruler">       </span>
 <span class="topo-line"><span class="topo-unknown">EHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1771,6 +1830,7 @@ AhlABC is a tripartite alpha-pore forming toxin (alpha-PFT) from the Gram-negati
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1786,13 +1846,15 @@ AhlABC is a tripartite alpha-pore forming toxin (alpha-PFT) from the Gram-negati
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">TNATTITMDQGMANQASQAMQIQTYCNSVKQQVPVDFSQFPNLKDNQTQINQGLDLAKG</span></span>
-<span class="topo-line"><span class="topo-inside">HADLYLNTIQPQIITNISNISNYFALQNAIPAVLPPGSTKAQWLRQLSVIKEQATEYQRL</span></span>
-<span class="topo-line"><span class="topo-inside">SSDTRLVIVNLNNNLITDSSNFQGIVVNLNSKVQGDNGVLAQLNGDIDKVNAAIDG</span><span class="topo-membrane">AIAG</span></span>
-<span class="topo-line"><span class="topo-membrane">IVAGGLLVIGGAFVTAIGAVADFV</span><span class="topo-outside">T</span><span class="topo-unknown">AG</span><span class="topo-outside">TS</span><span class="topo-membrane">TPVVIGGVAMMVAGAGGITAGAIV</span><span class="topo-inside">LHNSLGA</span></span>
-<span class="topo-line"><span class="topo-inside">RQDLYQKRSSLNSEVLIATQIGNGYKGLQVQAQNAVTAATQMSNAWDSLTSDLGSLITDL</span></span>
-<span class="topo-line"><span class="topo-inside">DKGITSGDDIRQLWLTAADTTVKTVLTDVTTIKAQIAGVSP</span><span class="topo-unknown">LQVPQTDTIANFVARLAAL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">TNATTITMDQGMANQASQAMQIQTYCNSVKQQVPVDFSQFPNLKDNQTQINQGLDLAKGHADLYLNTIQPQIITNISNISNYFALQNAIPAVLPPGSTKAQWLRQLSVIKEQATEYQRL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">SSDTRLVIVNLNNNLITDSSNFQGIVVNLNSKVQGDNGVLAQLNGDIDKVNAAIDG</span><span class="topo-membrane">AIAGIVAGGLLVIGGAFVTAIGAVADFV</span><span class="topo-outside">T</span><span class="topo-unknown">AG</span><span class="topo-outside">TS</span><span class="topo-membrane">TPVVIGGVAMMVAGAGGITAGAIV</span><span class="topo-inside">LHNSLGA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">RQDLYQKRSSLNSEVLIATQIGNGYKGLQVQAQNAVTAATQMSNAWDSLTSDLGSLITDLDKGITSGDDIRQLWLTAADTTVKTVLTDVTTIKAQIAGVSP</span><span class="topo-unknown">LQVPQTDTIANFVARLAAL</span></span>
+<span class="topo-ruler">       </span>
 <span class="topo-line"><span class="topo-unknown">EHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (6 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1846,6 +1908,7 @@ AhlABC is a tripartite alpha-pore forming toxin (alpha-PFT) from the Gram-negati
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1861,13 +1924,15 @@ AhlABC is a tripartite alpha-pore forming toxin (alpha-PFT) from the Gram-negati
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MTNATTITMDQGMAN</span><span class="topo-inside">QASQAMQIQTYCNSVKQQVPVDFSQFPNLKDNQTQINQGLDLAKG</span></span>
-<span class="topo-line"><span class="topo-inside">HADLYLNTIQPQIITNISNISNYFALQNAIPAVLPPGSTKAQWLRQLSVIKEQATEYQRL</span></span>
-<span class="topo-line"><span class="topo-inside">SSDTRLVIVNLNNNLITDSSNFQGIVVNLNSKVQGDNGVLAQLNGDIDKVNA</span><span class="topo-membrane">AIDGAIAG</span></span>
-<span class="topo-line"><span class="topo-membrane">IVAGGLLVIGGAFVTAIGAVADFV</span><span class="topo-outside">TAGTS</span><span class="topo-membrane">TPVVIGGVAMMVAGAGGITAGAIVLHNS</span><span class="topo-inside">LGA</span></span>
-<span class="topo-line"><span class="topo-inside">RQDLYQKRSSLNSEVLIATQIGNGYKGLQVQAQNAVTAATQMSNAWDSLTSDLGSLITDL</span></span>
-<span class="topo-line"><span class="topo-inside">DKGITSGDDIRQLWLTAADTTVKTVLTDVTTIKAQIA</span><span class="topo-unknown">GVSPLQVPQTDTIANFVARLAAL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MTNATTITMDQGMAN</span><span class="topo-inside">QASQAMQIQTYCNSVKQQVPVDFSQFPNLKDNQTQINQGLDLAKGHADLYLNTIQPQIITNISNISNYFALQNAIPAVLPPGSTKAQWLRQLSVIKEQATEYQRL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">SSDTRLVIVNLNNNLITDSSNFQGIVVNLNSKVQGDNGVLAQLNGDIDKVNA</span><span class="topo-membrane">AIDGAIAGIVAGGLLVIGGAFVTAIGAVADFV</span><span class="topo-outside">TAGTS</span><span class="topo-membrane">TPVVIGGVAMMVAGAGGITAGAIVLHNS</span><span class="topo-inside">LGA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">RQDLYQKRSSLNSEVLIATQIGNGYKGLQVQAQNAVTAATQMSNAWDSLTSDLGSLITDLDKGITSGDDIRQLWLTAADTTVKTVLTDVTTIKAQIA</span><span class="topo-unknown">GVSPLQVPQTDTIANFVARLAAL</span></span>
+<span class="topo-ruler">       </span>
 <span class="topo-line"><span class="topo-unknown">EHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1914,6 +1979,7 @@ AhlABC is a tripartite alpha-pore forming toxin (alpha-PFT) from the Gram-negati
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1929,13 +1995,15 @@ AhlABC is a tripartite alpha-pore forming toxin (alpha-PFT) from the Gram-negati
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">TNATTITMDQGMANQASQAMQIQTYCNSVKQQVPVDFSQFPNLKDNQTQINQGLDLAKG</span></span>
-<span class="topo-line"><span class="topo-inside">HADLYLNTIQPQIITNISNISNYFALQNAIPAVLPPGSTKAQWLRQLSVIKEQATEYQRL</span></span>
-<span class="topo-line"><span class="topo-inside">SSDTRLVIVNLNNNLITDSSNFQGIVVNLNSKVQGDNGVLAQLNGDIDKVNAAIDG</span><span class="topo-membrane">AIAG</span></span>
-<span class="topo-line"><span class="topo-membrane">IVAGGLLVIGGAFVTAIGAVADF</span><span class="topo-outside">VT</span><span class="topo-unknown">AG</span><span class="topo-outside">TS</span><span class="topo-membrane">TPVVIGGVAMMVAGAGGITAGAI</span><span class="topo-inside">VLHNSLGA</span></span>
-<span class="topo-line"><span class="topo-inside">RQDLYQKRSSLNSEVLIATQIGNGYKGLQVQAQNAVTAATQMSNAWDSLTSDLGSLITDL</span></span>
-<span class="topo-line"><span class="topo-inside">DKGITSGDDIRQLWLTAADTTVKTVLTDVTTIKAQIAGVSP</span><span class="topo-unknown">LQVPQTDTIANFVARLAAL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">TNATTITMDQGMANQASQAMQIQTYCNSVKQQVPVDFSQFPNLKDNQTQINQGLDLAKGHADLYLNTIQPQIITNISNISNYFALQNAIPAVLPPGSTKAQWLRQLSVIKEQATEYQRL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">SSDTRLVIVNLNNNLITDSSNFQGIVVNLNSKVQGDNGVLAQLNGDIDKVNAAIDG</span><span class="topo-membrane">AIAGIVAGGLLVIGGAFVTAIGAVADF</span><span class="topo-outside">VT</span><span class="topo-unknown">AG</span><span class="topo-outside">TS</span><span class="topo-membrane">TPVVIGGVAMMVAGAGGITAGAI</span><span class="topo-inside">VLHNSLGA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">RQDLYQKRSSLNSEVLIATQIGNGYKGLQVQAQNAVTAATQMSNAWDSLTSDLGSLITDLDKGITSGDDIRQLWLTAADTTVKTVLTDVTTIKAQIAGVSP</span><span class="topo-unknown">LQVPQTDTIANFVARLAAL</span></span>
+<span class="topo-ruler">       </span>
 <span class="topo-line"><span class="topo-unknown">EHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (6 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1989,6 +2057,7 @@ AhlABC is a tripartite alpha-pore forming toxin (alpha-PFT) from the Gram-negati
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2004,13 +2073,15 @@ AhlABC is a tripartite alpha-pore forming toxin (alpha-PFT) from the Gram-negati
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MTNATTITMDQGMAN</span><span class="topo-inside">QASQAMQIQTYCNSVKQQVPVDFSQFPNLKDNQTQINQGLDLAKG</span></span>
-<span class="topo-line"><span class="topo-inside">HADLYLNTIQPQIITNISNISNYFALQNAIPAVLPPGSTKAQWLRQLSVIKEQATEYQRL</span></span>
-<span class="topo-line"><span class="topo-inside">SSDTRLVIVNLNNNLITDSSNFQGIVVNLNSKVQGDNGVLAQLNGDIDKVNA</span><span class="topo-membrane">AIDGAIAG</span></span>
-<span class="topo-line"><span class="topo-membrane">IVAGGLLVIGGAFVTAIGAVA</span><span class="topo-outside">DFVTAGTST</span><span class="topo-membrane">PVVIGGVAMMVAGAGGITAGAIVLHNS</span><span class="topo-inside">LGA</span></span>
-<span class="topo-line"><span class="topo-inside">RQDLYQKRSSLNSEVLIATQIGNGYKGLQVQAQNAVTAATQMSNAWDSLTSDLGSLITDL</span></span>
-<span class="topo-line"><span class="topo-inside">DKGITSGDDIRQLWLTAADTTVKTVLTDVTTIKAQIA</span><span class="topo-unknown">GVSPLQVPQTDTIANFVARLAAL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MTNATTITMDQGMAN</span><span class="topo-inside">QASQAMQIQTYCNSVKQQVPVDFSQFPNLKDNQTQINQGLDLAKGHADLYLNTIQPQIITNISNISNYFALQNAIPAVLPPGSTKAQWLRQLSVIKEQATEYQRL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">SSDTRLVIVNLNNNLITDSSNFQGIVVNLNSKVQGDNGVLAQLNGDIDKVNA</span><span class="topo-membrane">AIDGAIAGIVAGGLLVIGGAFVTAIGAVA</span><span class="topo-outside">DFVTAGTST</span><span class="topo-membrane">PVVIGGVAMMVAGAGGITAGAIVLHNS</span><span class="topo-inside">LGA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">RQDLYQKRSSLNSEVLIATQIGNGYKGLQVQAQNAVTAATQMSNAWDSLTSDLGSLITDLDKGITSGDDIRQLWLTAADTTVKTVLTDVTTIKAQIA</span><span class="topo-unknown">GVSPLQVPQTDTIANFVARLAAL</span></span>
+<span class="topo-ruler">       </span>
 <span class="topo-line"><span class="topo-unknown">EHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2057,6 +2128,7 @@ AhlABC is a tripartite alpha-pore forming toxin (alpha-PFT) from the Gram-negati
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2072,13 +2144,15 @@ AhlABC is a tripartite alpha-pore forming toxin (alpha-PFT) from the Gram-negati
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">TNATTITMDQGMANQASQAMQIQTYCNSVKQQVPVDFSQFPNLKDNQTQINQGLDLAKG</span></span>
-<span class="topo-line"><span class="topo-inside">HADLYLNTIQPQIITNISNISNYFALQNAIPAVLPPGSTKAQWLRQLSVIKEQATEYQRL</span></span>
-<span class="topo-line"><span class="topo-inside">SSDTRLVIVNLNNNLITDSSNFQGIVVNLNSKVQGDNGVLAQLNGDIDKVNAAIDG</span><span class="topo-membrane">AIAG</span></span>
-<span class="topo-line"><span class="topo-membrane">IVAGGLLVIGGAFVTAIGAVADFV</span><span class="topo-outside">T</span><span class="topo-unknown">AG</span><span class="topo-outside">T</span><span class="topo-membrane">STPVVIGGVAMMVAGAGGITAGAI</span><span class="topo-inside">VLHNSLGA</span></span>
-<span class="topo-line"><span class="topo-inside">RQDLYQKRSSLNSEVLIATQIGNGYKGLQVQAQNAVTAATQMSNAWDSLTSDLGSLITDL</span></span>
-<span class="topo-line"><span class="topo-inside">DKGITSGDDIRQLWLTAADTTVKTVLTDVTTIKAQIAGVSP</span><span class="topo-unknown">LQVPQTDTIANFVARLAAL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">TNATTITMDQGMANQASQAMQIQTYCNSVKQQVPVDFSQFPNLKDNQTQINQGLDLAKGHADLYLNTIQPQIITNISNISNYFALQNAIPAVLPPGSTKAQWLRQLSVIKEQATEYQRL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">SSDTRLVIVNLNNNLITDSSNFQGIVVNLNSKVQGDNGVLAQLNGDIDKVNAAIDG</span><span class="topo-membrane">AIAGIVAGGLLVIGGAFVTAIGAVADFV</span><span class="topo-outside">T</span><span class="topo-unknown">AG</span><span class="topo-outside">T</span><span class="topo-membrane">STPVVIGGVAMMVAGAGGITAGAI</span><span class="topo-inside">VLHNSLGA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">RQDLYQKRSSLNSEVLIATQIGNGYKGLQVQAQNAVTAATQMSNAWDSLTSDLGSLITDLDKGITSGDDIRQLWLTAADTTVKTVLTDVTTIKAQIAGVSP</span><span class="topo-unknown">LQVPQTDTIANFVARLAAL</span></span>
+<span class="topo-ruler">       </span>
 <span class="topo-line"><span class="topo-unknown">EHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (6 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2132,6 +2206,7 @@ AhlABC is a tripartite alpha-pore forming toxin (alpha-PFT) from the Gram-negati
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2147,13 +2222,15 @@ AhlABC is a tripartite alpha-pore forming toxin (alpha-PFT) from the Gram-negati
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MTNATTITMDQGMA</span><span class="topo-inside">NQASQAMQIQTYCNSVKQQVPVDFSQFPNLKDNQTQINQGLDLAKG</span></span>
-<span class="topo-line"><span class="topo-inside">HADLYLNTIQPQIITNISNISNYFALQNAIPAVLPPGSTKAQWLRQLSVIKEQATEYQRL</span></span>
-<span class="topo-line"><span class="topo-inside">SSDTRLVIVNLNNNLITDSSNFQGIVVNLNSKVQGDNGVLAQLNGDIDKVNA</span><span class="topo-membrane">AIDGAIAG</span></span>
-<span class="topo-line"><span class="topo-membrane">IVAGGLLVIGGAFVTAIGAVADF</span><span class="topo-outside">VT</span><span class="topo-unknown">AGT</span><span class="topo-outside">S</span><span class="topo-membrane">TPVVIGGVAMMVAGAGGITAGAIVLHNS</span><span class="topo-inside">LGA</span></span>
-<span class="topo-line"><span class="topo-inside">RQDLYQKRSSLNSEVLIATQIGNGYKGLQVQAQNAVTAATQMSNAWDSLTSDLGSLITDL</span></span>
-<span class="topo-line"><span class="topo-inside">DKGITSGDDIRQLWLTAADTTVKTVLTDVTTIKAQIA</span><span class="topo-unknown">GVSPLQVPQTDTIANFVARLAAL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MTNATTITMDQGMA</span><span class="topo-inside">NQASQAMQIQTYCNSVKQQVPVDFSQFPNLKDNQTQINQGLDLAKGHADLYLNTIQPQIITNISNISNYFALQNAIPAVLPPGSTKAQWLRQLSVIKEQATEYQRL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">SSDTRLVIVNLNNNLITDSSNFQGIVVNLNSKVQGDNGVLAQLNGDIDKVNA</span><span class="topo-membrane">AIDGAIAGIVAGGLLVIGGAFVTAIGAVADF</span><span class="topo-outside">VT</span><span class="topo-unknown">AGT</span><span class="topo-outside">S</span><span class="topo-membrane">TPVVIGGVAMMVAGAGGITAGAIVLHNS</span><span class="topo-inside">LGA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">RQDLYQKRSSLNSEVLIATQIGNGYKGLQVQAQNAVTAATQMSNAWDSLTSDLGSLITDLDKGITSGDDIRQLWLTAADTTVKTVLTDVTTIKAQIA</span><span class="topo-unknown">GVSPLQVPQTDTIANFVARLAAL</span></span>
+<span class="topo-ruler">       </span>
 <span class="topo-line"><span class="topo-unknown">EHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (6 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2207,6 +2284,7 @@ AhlABC is a tripartite alpha-pore forming toxin (alpha-PFT) from the Gram-negati
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2222,13 +2300,15 @@ AhlABC is a tripartite alpha-pore forming toxin (alpha-PFT) from the Gram-negati
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">TNATTITMDQGMANQASQAMQIQTYCNSVKQQVPVDFSQFPNLKDNQTQINQGLDLAKG</span></span>
-<span class="topo-line"><span class="topo-inside">HADLYLNTIQPQIITNISNISNYFALQNAIPAVLPPGSTKAQWLRQLSVIKEQATEYQRL</span></span>
-<span class="topo-line"><span class="topo-inside">SSDTRLVIVNLNNNLITDSSNFQGIVVNLNSKVQGDNGVLAQLNGDIDKVNAAIDG</span><span class="topo-membrane">AIAG</span></span>
-<span class="topo-line"><span class="topo-membrane">IVAGGLLVIGGAFVTAIGAVADFV</span><span class="topo-unknown">TA</span><span class="topo-outside">GT</span><span class="topo-membrane">STPVVIGGVAMMVAGAGGITAGAI</span><span class="topo-inside">VLHNSLGA</span></span>
-<span class="topo-line"><span class="topo-inside">RQDLYQKRSSLNSEVLIATQIGNGYKGLQVQAQNAVTAATQMSNAWDSLTSDLGSLITDL</span></span>
-<span class="topo-line"><span class="topo-inside">DKGITSGDDIRQLWLTAADTTVKTVLTDVTTIKAQIAGVSP</span><span class="topo-unknown">LQVPQTDTIANFVARLAAL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">TNATTITMDQGMANQASQAMQIQTYCNSVKQQVPVDFSQFPNLKDNQTQINQGLDLAKGHADLYLNTIQPQIITNISNISNYFALQNAIPAVLPPGSTKAQWLRQLSVIKEQATEYQRL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">SSDTRLVIVNLNNNLITDSSNFQGIVVNLNSKVQGDNGVLAQLNGDIDKVNAAIDG</span><span class="topo-membrane">AIAGIVAGGLLVIGGAFVTAIGAVADFV</span><span class="topo-unknown">TA</span><span class="topo-outside">GT</span><span class="topo-membrane">STPVVIGGVAMMVAGAGGITAGAI</span><span class="topo-inside">VLHNSLGA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">RQDLYQKRSSLNSEVLIATQIGNGYKGLQVQAQNAVTAATQMSNAWDSLTSDLGSLITDLDKGITSGDDIRQLWLTAADTTVKTVLTDVTTIKAQIAGVSP</span><span class="topo-unknown">LQVPQTDTIANFVARLAAL</span></span>
+<span class="topo-ruler">       </span>
 <span class="topo-line"><span class="topo-unknown">EHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2275,6 +2355,7 @@ AhlABC is a tripartite alpha-pore forming toxin (alpha-PFT) from the Gram-negati
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2290,13 +2371,15 @@ AhlABC is a tripartite alpha-pore forming toxin (alpha-PFT) from the Gram-negati
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MTNATTITMDQGMANQ</span><span class="topo-inside">ASQAMQIQTYCNSVKQQVPVDFSQFPNLKDNQTQINQGLDLAKG</span></span>
-<span class="topo-line"><span class="topo-inside">HADLYLNTIQPQIITNISNISNYFALQNAIPAVLPPGSTKAQWLRQLSVIKEQATEYQRL</span></span>
-<span class="topo-line"><span class="topo-inside">SSDTRLVIVNLNNNLITDSSNFQGIVVNLNSKVQGDNGVLAQLNGDIDKVNA</span><span class="topo-membrane">AIDGAIAG</span></span>
-<span class="topo-line"><span class="topo-membrane">IVAGGLLVIGGAFVTAIGAVA</span><span class="topo-outside">DF</span><span class="topo-unknown">VTAG</span><span class="topo-outside">TS</span><span class="topo-membrane">TPVVIGGVAMMVAGAGGITAGAIVLHNS</span><span class="topo-inside">LGA</span></span>
-<span class="topo-line"><span class="topo-inside">RQDLYQKRSSLNSEVLIATQIGNGYKGLQVQAQNAVTAATQMSNAWDSLTSDLGSLITDL</span></span>
-<span class="topo-line"><span class="topo-inside">DKGITSGDDIRQLWLTAADTTVKTVLTDVTTIKAQIA</span><span class="topo-unknown">GVSPLQVPQTDTIANFVARLAAL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MTNATTITMDQGMANQ</span><span class="topo-inside">ASQAMQIQTYCNSVKQQVPVDFSQFPNLKDNQTQINQGLDLAKGHADLYLNTIQPQIITNISNISNYFALQNAIPAVLPPGSTKAQWLRQLSVIKEQATEYQRL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">SSDTRLVIVNLNNNLITDSSNFQGIVVNLNSKVQGDNGVLAQLNGDIDKVNA</span><span class="topo-membrane">AIDGAIAGIVAGGLLVIGGAFVTAIGAVA</span><span class="topo-outside">DF</span><span class="topo-unknown">VTAG</span><span class="topo-outside">TS</span><span class="topo-membrane">TPVVIGGVAMMVAGAGGITAGAIVLHNS</span><span class="topo-inside">LGA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">RQDLYQKRSSLNSEVLIATQIGNGYKGLQVQAQNAVTAATQMSNAWDSLTSDLGSLITDLDKGITSGDDIRQLWLTAADTTVKTVLTDVTTIKAQIA</span><span class="topo-unknown">GVSPLQVPQTDTIANFVARLAAL</span></span>
+<span class="topo-ruler">       </span>
 <span class="topo-line"><span class="topo-unknown">EHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (6 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2350,6 +2433,7 @@ AhlABC is a tripartite alpha-pore forming toxin (alpha-PFT) from the Gram-negati
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2365,13 +2449,15 @@ AhlABC is a tripartite alpha-pore forming toxin (alpha-PFT) from the Gram-negati
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">TNATTITMDQGMANQASQAMQIQTYCNSVKQQVPVDFSQFPNLKDNQTQINQGLDLAKG</span></span>
-<span class="topo-line"><span class="topo-inside">HADLYLNTIQPQIITNISNISNYFALQNAIPAVLPPGSTKAQWLRQLSVIKEQATEYQRL</span></span>
-<span class="topo-line"><span class="topo-inside">SSDTRLVIVNLNNNLITDSSNFQGIVVNLNSKVQGDNGVLAQLNGDIDKVNAAIDG</span><span class="topo-membrane">AIAG</span></span>
-<span class="topo-line"><span class="topo-membrane">IVAGGLLVIGGAFVTAIGAVADF</span><span class="topo-outside">VT</span><span class="topo-unknown">AGT</span><span class="topo-outside">S</span><span class="topo-membrane">TPVVIGGVAMMVAGAGGITAGAIV</span><span class="topo-inside">LHNSLGA</span></span>
-<span class="topo-line"><span class="topo-inside">RQDLYQKRSSLNSEVLIATQIGNGYKGLQVQAQNAVTAATQMSNAWDSLTSDLGSLITDL</span></span>
-<span class="topo-line"><span class="topo-inside">DKGITSGDDIRQLWLTAADTTVKTVLTDVTTIKAQIAGVSP</span><span class="topo-unknown">LQVPQTDTIANFVARLAAL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">TNATTITMDQGMANQASQAMQIQTYCNSVKQQVPVDFSQFPNLKDNQTQINQGLDLAKGHADLYLNTIQPQIITNISNISNYFALQNAIPAVLPPGSTKAQWLRQLSVIKEQATEYQRL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">SSDTRLVIVNLNNNLITDSSNFQGIVVNLNSKVQGDNGVLAQLNGDIDKVNAAIDG</span><span class="topo-membrane">AIAGIVAGGLLVIGGAFVTAIGAVADF</span><span class="topo-outside">VT</span><span class="topo-unknown">AGT</span><span class="topo-outside">S</span><span class="topo-membrane">TPVVIGGVAMMVAGAGGITAGAIV</span><span class="topo-inside">LHNSLGA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">RQDLYQKRSSLNSEVLIATQIGNGYKGLQVQAQNAVTAATQMSNAWDSLTSDLGSLITDLDKGITSGDDIRQLWLTAADTTVKTVLTDVTTIKAQIAGVSP</span><span class="topo-unknown">LQVPQTDTIANFVARLAAL</span></span>
+<span class="topo-ruler">       </span>
 <span class="topo-line"><span class="topo-unknown">EHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (6 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2425,6 +2511,7 @@ AhlABC is a tripartite alpha-pore forming toxin (alpha-PFT) from the Gram-negati
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2440,13 +2527,15 @@ AhlABC is a tripartite alpha-pore forming toxin (alpha-PFT) from the Gram-negati
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MTNATTITMDQGMAN</span><span class="topo-inside">QASQAMQIQTYCNSVKQQVPVDFSQFPNLKDNQTQINQGLDLAKG</span></span>
-<span class="topo-line"><span class="topo-inside">HADLYLNTIQPQIITNISNISNYFALQNAIPAVLPPGSTKAQWLRQLSVIKEQATEYQRL</span></span>
-<span class="topo-line"><span class="topo-inside">SSDTRLVIVNLNNNLITDSSNFQGIVVNLNSKVQGDNGVLAQLNGDIDKVNA</span><span class="topo-membrane">AIDGAIAG</span></span>
-<span class="topo-line"><span class="topo-membrane">IVAGGLLVIGGAFVTAIGAVA</span><span class="topo-unknown">DFVTAGT</span><span class="topo-outside">S</span><span class="topo-membrane">TPVVIGGVAMMVAGAGGITAGAIVLHNS</span><span class="topo-inside">LGA</span></span>
-<span class="topo-line"><span class="topo-inside">RQDLYQKRSSLNSEVLIATQIGNGYKGLQVQAQNAVTAATQMSNAWDSLTSDLGSLITDL</span></span>
-<span class="topo-line"><span class="topo-inside">DKGITSGDDIRQLWLTAADTTVKTVLTDVTTIKAQIA</span><span class="topo-unknown">GVSPLQVPQTDTIANFVARLAAL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MTNATTITMDQGMAN</span><span class="topo-inside">QASQAMQIQTYCNSVKQQVPVDFSQFPNLKDNQTQINQGLDLAKGHADLYLNTIQPQIITNISNISNYFALQNAIPAVLPPGSTKAQWLRQLSVIKEQATEYQRL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">SSDTRLVIVNLNNNLITDSSNFQGIVVNLNSKVQGDNGVLAQLNGDIDKVNA</span><span class="topo-membrane">AIDGAIAGIVAGGLLVIGGAFVTAIGAVA</span><span class="topo-unknown">DFVTAGT</span><span class="topo-outside">S</span><span class="topo-membrane">TPVVIGGVAMMVAGAGGITAGAIVLHNS</span><span class="topo-inside">LGA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">RQDLYQKRSSLNSEVLIATQIGNGYKGLQVQAQNAVTAATQMSNAWDSLTSDLGSLITDLDKGITSGDDIRQLWLTAADTTVKTVLTDVTTIKAQIA</span><span class="topo-unknown">GVSPLQVPQTDTIANFVARLAAL</span></span>
+<span class="topo-ruler">       </span>
 <span class="topo-line"><span class="topo-unknown">EHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2493,6 +2582,7 @@ AhlABC is a tripartite alpha-pore forming toxin (alpha-PFT) from the Gram-negati
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2508,13 +2598,15 @@ AhlABC is a tripartite alpha-pore forming toxin (alpha-PFT) from the Gram-negati
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">TNATTITMDQGMANQASQAMQIQTYCNSVKQQVPVDFSQFPNLKDNQTQINQGLDLAKG</span></span>
-<span class="topo-line"><span class="topo-inside">HADLYLNTIQPQIITNISNISNYFALQNAIPAVLPPGSTKAQWLRQLSVIKEQATEYQRL</span></span>
-<span class="topo-line"><span class="topo-inside">SSDTRLVIVNLNNNLITDSSNFQGIVVNLNSKVQGDNGVLAQLNGDIDKVNAAIDG</span><span class="topo-membrane">AIAG</span></span>
-<span class="topo-line"><span class="topo-membrane">IVAGGLLVIGGAFVTAIGAVADFV</span><span class="topo-outside">T</span><span class="topo-unknown">AG</span><span class="topo-outside">TS</span><span class="topo-membrane">TPVVIGGVAMMVAGAGGITAGAIV</span><span class="topo-inside">LHNSLGA</span></span>
-<span class="topo-line"><span class="topo-inside">RQDLYQKRSSLNSEVLIATQIGNGYKGLQVQAQNAVTAATQMSNAWDSLTSDLGSLITDL</span></span>
-<span class="topo-line"><span class="topo-inside">DKGITSGDDIRQLWLTAADTTVKTVLTDVTTIKAQIAGVSP</span><span class="topo-unknown">LQVPQTDTIANFVARLAAL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">TNATTITMDQGMANQASQAMQIQTYCNSVKQQVPVDFSQFPNLKDNQTQINQGLDLAKGHADLYLNTIQPQIITNISNISNYFALQNAIPAVLPPGSTKAQWLRQLSVIKEQATEYQRL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">SSDTRLVIVNLNNNLITDSSNFQGIVVNLNSKVQGDNGVLAQLNGDIDKVNAAIDG</span><span class="topo-membrane">AIAGIVAGGLLVIGGAFVTAIGAVADFV</span><span class="topo-outside">T</span><span class="topo-unknown">AG</span><span class="topo-outside">TS</span><span class="topo-membrane">TPVVIGGVAMMVAGAGGITAGAIV</span><span class="topo-inside">LHNSLGA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">RQDLYQKRSSLNSEVLIATQIGNGYKGLQVQAQNAVTAATQMSNAWDSLTSDLGSLITDLDKGITSGDDIRQLWLTAADTTVKTVLTDVTTIKAQIAGVSP</span><span class="topo-unknown">LQVPQTDTIANFVARLAAL</span></span>
+<span class="topo-ruler">       </span>
 <span class="topo-line"><span class="topo-unknown">EHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (6 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2568,6 +2660,7 @@ AhlABC is a tripartite alpha-pore forming toxin (alpha-PFT) from the Gram-negati
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2583,13 +2676,15 @@ AhlABC is a tripartite alpha-pore forming toxin (alpha-PFT) from the Gram-negati
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MTNATTITMDQGMAN</span><span class="topo-inside">QASQAMQIQTYCNSVKQQVPVDFSQFPNLKDNQTQINQGLDLAKG</span></span>
-<span class="topo-line"><span class="topo-inside">HADLYLNTIQPQIITNISNISNYFALQNAIPAVLPPGSTKAQWLRQLSVIKEQATEYQRL</span></span>
-<span class="topo-line"><span class="topo-inside">SSDTRLVIVNLNNNLITDSSNFQGIVVNLNSKVQGDNGVLAQLNGDIDKVNA</span><span class="topo-membrane">AIDGAIAG</span></span>
-<span class="topo-line"><span class="topo-membrane">IVAGGLLVIGGAFVTAIGAVADFV</span><span class="topo-outside">TAGTS</span><span class="topo-membrane">TPVVIGGVAMMVAGAGGITAGAIVLHNS</span><span class="topo-inside">LGA</span></span>
-<span class="topo-line"><span class="topo-inside">RQDLYQKRSSLNSEVLIATQIGNGYKGLQVQAQNAVTAATQMSNAWDSLTSDLGSLITDL</span></span>
-<span class="topo-line"><span class="topo-inside">DKGITSGDDIRQLWLTAADTTVKTVLTDVTTIKAQIA</span><span class="topo-unknown">GVSPLQVPQTDTIANFVARLAAL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MTNATTITMDQGMAN</span><span class="topo-inside">QASQAMQIQTYCNSVKQQVPVDFSQFPNLKDNQTQINQGLDLAKGHADLYLNTIQPQIITNISNISNYFALQNAIPAVLPPGSTKAQWLRQLSVIKEQATEYQRL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">SSDTRLVIVNLNNNLITDSSNFQGIVVNLNSKVQGDNGVLAQLNGDIDKVNA</span><span class="topo-membrane">AIDGAIAGIVAGGLLVIGGAFVTAIGAVADFV</span><span class="topo-outside">TAGTS</span><span class="topo-membrane">TPVVIGGVAMMVAGAGGITAGAIVLHNS</span><span class="topo-inside">LGA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">RQDLYQKRSSLNSEVLIATQIGNGYKGLQVQAQNAVTAATQMSNAWDSLTSDLGSLITDLDKGITSGDDIRQLWLTAADTTVKTVLTDVTTIKAQIA</span><span class="topo-unknown">GVSPLQVPQTDTIANFVARLAAL</span></span>
+<span class="topo-ruler">       </span>
 <span class="topo-line"><span class="topo-unknown">EHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2636,6 +2731,7 @@ AhlABC is a tripartite alpha-pore forming toxin (alpha-PFT) from the Gram-negati
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2651,13 +2747,15 @@ AhlABC is a tripartite alpha-pore forming toxin (alpha-PFT) from the Gram-negati
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">TNATTITMDQGMANQASQAMQIQTYCNSVKQQVPVDFSQFPNLKDNQTQINQGLDLAKG</span></span>
-<span class="topo-line"><span class="topo-inside">HADLYLNTIQPQIITNISNISNYFALQNAIPAVLPPGSTKAQWLRQLSVIKEQATEYQRL</span></span>
-<span class="topo-line"><span class="topo-inside">SSDTRLVIVNLNNNLITDSSNFQGIVVNLNSKVQGDNGVLAQLNGDIDKVNAAIDG</span><span class="topo-membrane">AIAG</span></span>
-<span class="topo-line"><span class="topo-membrane">IVAGGLLVIGGAFVTAIGAVADF</span><span class="topo-outside">VT</span><span class="topo-unknown">AG</span><span class="topo-outside">TS</span><span class="topo-membrane">TPVVIGGVAMMVAGAGGITAGAI</span><span class="topo-inside">VLHNSLGA</span></span>
-<span class="topo-line"><span class="topo-inside">RQDLYQKRSSLNSEVLIATQIGNGYKGLQVQAQNAVTAATQMSNAWDSLTSDLGSLITDL</span></span>
-<span class="topo-line"><span class="topo-inside">DKGITSGDDIRQLWLTAADTTVKTVLTDVTTIKAQIAGVSP</span><span class="topo-unknown">LQVPQTDTIANFVARLAAL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">TNATTITMDQGMANQASQAMQIQTYCNSVKQQVPVDFSQFPNLKDNQTQINQGLDLAKGHADLYLNTIQPQIITNISNISNYFALQNAIPAVLPPGSTKAQWLRQLSVIKEQATEYQRL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">SSDTRLVIVNLNNNLITDSSNFQGIVVNLNSKVQGDNGVLAQLNGDIDKVNAAIDG</span><span class="topo-membrane">AIAGIVAGGLLVIGGAFVTAIGAVADF</span><span class="topo-outside">VT</span><span class="topo-unknown">AG</span><span class="topo-outside">TS</span><span class="topo-membrane">TPVVIGGVAMMVAGAGGITAGAI</span><span class="topo-inside">VLHNSLGA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">RQDLYQKRSSLNSEVLIATQIGNGYKGLQVQAQNAVTAATQMSNAWDSLTSDLGSLITDLDKGITSGDDIRQLWLTAADTTVKTVLTDVTTIKAQIAGVSP</span><span class="topo-unknown">LQVPQTDTIANFVARLAAL</span></span>
+<span class="topo-ruler">       </span>
 <span class="topo-line"><span class="topo-unknown">EHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (6 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2711,6 +2809,7 @@ AhlABC is a tripartite alpha-pore forming toxin (alpha-PFT) from the Gram-negati
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2726,13 +2825,15 @@ AhlABC is a tripartite alpha-pore forming toxin (alpha-PFT) from the Gram-negati
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MTNATTITMDQGMAN</span><span class="topo-inside">QASQAMQIQTYCNSVKQQVPVDFSQFPNLKDNQTQINQGLDLAKG</span></span>
-<span class="topo-line"><span class="topo-inside">HADLYLNTIQPQIITNISNISNYFALQNAIPAVLPPGSTKAQWLRQLSVIKEQATEYQRL</span></span>
-<span class="topo-line"><span class="topo-inside">SSDTRLVIVNLNNNLITDSSNFQGIVVNLNSKVQGDNGVLAQLNGDIDKVNA</span><span class="topo-membrane">AIDGAIAG</span></span>
-<span class="topo-line"><span class="topo-membrane">IVAGGLLVIGGAFVTAIGAVA</span><span class="topo-outside">DFVTAGTST</span><span class="topo-membrane">PVVIGGVAMMVAGAGGITAGAIVLHNS</span><span class="topo-inside">LGA</span></span>
-<span class="topo-line"><span class="topo-inside">RQDLYQKRSSLNSEVLIATQIGNGYKGLQVQAQNAVTAATQMSNAWDSLTSDLGSLITDL</span></span>
-<span class="topo-line"><span class="topo-inside">DKGITSGDDIRQLWLTAADTTVKTVLTDVTTIKAQIA</span><span class="topo-unknown">GVSPLQVPQTDTIANFVARLAAL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MTNATTITMDQGMAN</span><span class="topo-inside">QASQAMQIQTYCNSVKQQVPVDFSQFPNLKDNQTQINQGLDLAKGHADLYLNTIQPQIITNISNISNYFALQNAIPAVLPPGSTKAQWLRQLSVIKEQATEYQRL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">SSDTRLVIVNLNNNLITDSSNFQGIVVNLNSKVQGDNGVLAQLNGDIDKVNA</span><span class="topo-membrane">AIDGAIAGIVAGGLLVIGGAFVTAIGAVA</span><span class="topo-outside">DFVTAGTST</span><span class="topo-membrane">PVVIGGVAMMVAGAGGITAGAIVLHNS</span><span class="topo-inside">LGA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">RQDLYQKRSSLNSEVLIATQIGNGYKGLQVQAQNAVTAATQMSNAWDSLTSDLGSLITDLDKGITSGDDIRQLWLTAADTTVKTVLTDVTTIKAQIA</span><span class="topo-unknown">GVSPLQVPQTDTIANFVARLAAL</span></span>
+<span class="topo-ruler">       </span>
 <span class="topo-line"><span class="topo-unknown">EHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2779,6 +2880,7 @@ AhlABC is a tripartite alpha-pore forming toxin (alpha-PFT) from the Gram-negati
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2794,13 +2896,15 @@ AhlABC is a tripartite alpha-pore forming toxin (alpha-PFT) from the Gram-negati
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">TNATTITMDQGMANQASQAMQIQTYCNSVKQQVPVDFSQFPNLKDNQTQINQGLDLAKG</span></span>
-<span class="topo-line"><span class="topo-inside">HADLYLNTIQPQIITNISNISNYFALQNAIPAVLPPGSTKAQWLRQLSVIKEQATEYQRL</span></span>
-<span class="topo-line"><span class="topo-inside">SSDTRLVIVNLNNNLITDSSNFQGIVVNLNSKVQGDNGVLAQLNGDIDKVNAAIDG</span><span class="topo-membrane">AIAG</span></span>
-<span class="topo-line"><span class="topo-membrane">IVAGGLLVIGGAFVTAIGAVADFV</span><span class="topo-outside">T</span><span class="topo-unknown">AG</span><span class="topo-outside">T</span><span class="topo-membrane">STPVVIGGVAMMVAGAGGITAGAI</span><span class="topo-inside">VLHNSLGA</span></span>
-<span class="topo-line"><span class="topo-inside">RQDLYQKRSSLNSEVLIATQIGNGYKGLQVQAQNAVTAATQMSNAWDSLTSDLGSLITDL</span></span>
-<span class="topo-line"><span class="topo-inside">DKGITSGDDIRQLWLTAADTTVKTVLTDVTTIKAQIAGVSP</span><span class="topo-unknown">LQVPQTDTIANFVARLAAL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">TNATTITMDQGMANQASQAMQIQTYCNSVKQQVPVDFSQFPNLKDNQTQINQGLDLAKGHADLYLNTIQPQIITNISNISNYFALQNAIPAVLPPGSTKAQWLRQLSVIKEQATEYQRL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">SSDTRLVIVNLNNNLITDSSNFQGIVVNLNSKVQGDNGVLAQLNGDIDKVNAAIDG</span><span class="topo-membrane">AIAGIVAGGLLVIGGAFVTAIGAVADFV</span><span class="topo-outside">T</span><span class="topo-unknown">AG</span><span class="topo-outside">T</span><span class="topo-membrane">STPVVIGGVAMMVAGAGGITAGAI</span><span class="topo-inside">VLHNSLGA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">RQDLYQKRSSLNSEVLIATQIGNGYKGLQVQAQNAVTAATQMSNAWDSLTSDLGSLITDLDKGITSGDDIRQLWLTAADTTVKTVLTDVTTIKAQIAGVSP</span><span class="topo-unknown">LQVPQTDTIANFVARLAAL</span></span>
+<span class="topo-ruler">       </span>
 <span class="topo-line"><span class="topo-unknown">EHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (6 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2854,6 +2958,7 @@ AhlABC is a tripartite alpha-pore forming toxin (alpha-PFT) from the Gram-negati
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2869,13 +2974,15 @@ AhlABC is a tripartite alpha-pore forming toxin (alpha-PFT) from the Gram-negati
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MTNATTITMDQGMA</span><span class="topo-inside">NQASQAMQIQTYCNSVKQQVPVDFSQFPNLKDNQTQINQGLDLAKG</span></span>
-<span class="topo-line"><span class="topo-inside">HADLYLNTIQPQIITNISNISNYFALQNAIPAVLPPGSTKAQWLRQLSVIKEQATEYQRL</span></span>
-<span class="topo-line"><span class="topo-inside">SSDTRLVIVNLNNNLITDSSNFQGIVVNLNSKVQGDNGVLAQLNGDIDKVNA</span><span class="topo-membrane">AIDGAIAG</span></span>
-<span class="topo-line"><span class="topo-membrane">IVAGGLLVIGGAFVTAIGAVADF</span><span class="topo-outside">VT</span><span class="topo-unknown">AGT</span><span class="topo-outside">S</span><span class="topo-membrane">TPVVIGGVAMMVAGAGGITAGAIVLHNS</span><span class="topo-inside">LGA</span></span>
-<span class="topo-line"><span class="topo-inside">RQDLYQKRSSLNSEVLIATQIGNGYKGLQVQAQNAVTAATQMSNAWDSLTSDLGSLITDL</span></span>
-<span class="topo-line"><span class="topo-inside">DKGITSGDDIRQLWLTAADTTVKTVLTDVTTIKAQIA</span><span class="topo-unknown">GVSPLQVPQTDTIANFVARLAAL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MTNATTITMDQGMA</span><span class="topo-inside">NQASQAMQIQTYCNSVKQQVPVDFSQFPNLKDNQTQINQGLDLAKGHADLYLNTIQPQIITNISNISNYFALQNAIPAVLPPGSTKAQWLRQLSVIKEQATEYQRL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">SSDTRLVIVNLNNNLITDSSNFQGIVVNLNSKVQGDNGVLAQLNGDIDKVNA</span><span class="topo-membrane">AIDGAIAGIVAGGLLVIGGAFVTAIGAVADF</span><span class="topo-outside">VT</span><span class="topo-unknown">AGT</span><span class="topo-outside">S</span><span class="topo-membrane">TPVVIGGVAMMVAGAGGITAGAIVLHNS</span><span class="topo-inside">LGA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">RQDLYQKRSSLNSEVLIATQIGNGYKGLQVQAQNAVTAATQMSNAWDSLTSDLGSLITDLDKGITSGDDIRQLWLTAADTTVKTVLTDVTTIKAQIA</span><span class="topo-unknown">GVSPLQVPQTDTIANFVARLAAL</span></span>
+<span class="topo-ruler">       </span>
 <span class="topo-line"><span class="topo-unknown">EHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (6 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2929,6 +3036,7 @@ AhlABC is a tripartite alpha-pore forming toxin (alpha-PFT) from the Gram-negati
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2944,13 +3052,15 @@ AhlABC is a tripartite alpha-pore forming toxin (alpha-PFT) from the Gram-negati
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">TNATTITMDQGMANQASQAMQIQTYCNSVKQQVPVDFSQFPNLKDNQTQINQGLDLAKG</span></span>
-<span class="topo-line"><span class="topo-inside">HADLYLNTIQPQIITNISNISNYFALQNAIPAVLPPGSTKAQWLRQLSVIKEQATEYQRL</span></span>
-<span class="topo-line"><span class="topo-inside">SSDTRLVIVNLNNNLITDSSNFQGIVVNLNSKVQGDNGVLAQLNGDIDKVNAAIDG</span><span class="topo-membrane">AIAG</span></span>
-<span class="topo-line"><span class="topo-membrane">IVAGGLLVIGGAFVTAIGAVADFV</span><span class="topo-unknown">TA</span><span class="topo-outside">GT</span><span class="topo-membrane">STPVVIGGVAMMVAGAGGITAGAI</span><span class="topo-inside">VLHNSLGA</span></span>
-<span class="topo-line"><span class="topo-inside">RQDLYQKRSSLNSEVLIATQIGNGYKGLQVQAQNAVTAATQMSNAWDSLTSDLGSLITDL</span></span>
-<span class="topo-line"><span class="topo-inside">DKGITSGDDIRQLWLTAADTTVKTVLTDVTTIKAQIAGVSP</span><span class="topo-unknown">LQVPQTDTIANFVARLAAL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">TNATTITMDQGMANQASQAMQIQTYCNSVKQQVPVDFSQFPNLKDNQTQINQGLDLAKGHADLYLNTIQPQIITNISNISNYFALQNAIPAVLPPGSTKAQWLRQLSVIKEQATEYQRL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">SSDTRLVIVNLNNNLITDSSNFQGIVVNLNSKVQGDNGVLAQLNGDIDKVNAAIDG</span><span class="topo-membrane">AIAGIVAGGLLVIGGAFVTAIGAVADFV</span><span class="topo-unknown">TA</span><span class="topo-outside">GT</span><span class="topo-membrane">STPVVIGGVAMMVAGAGGITAGAI</span><span class="topo-inside">VLHNSLGA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">RQDLYQKRSSLNSEVLIATQIGNGYKGLQVQAQNAVTAATQMSNAWDSLTSDLGSLITDLDKGITSGDDIRQLWLTAADTTVKTVLTDVTTIKAQIAGVSP</span><span class="topo-unknown">LQVPQTDTIANFVARLAAL</span></span>
+<span class="topo-ruler">       </span>
 <span class="topo-line"><span class="topo-unknown">EHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2997,6 +3107,7 @@ AhlABC is a tripartite alpha-pore forming toxin (alpha-PFT) from the Gram-negati
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3012,13 +3123,15 @@ AhlABC is a tripartite alpha-pore forming toxin (alpha-PFT) from the Gram-negati
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MTNATTITMDQGMANQ</span><span class="topo-inside">ASQAMQIQTYCNSVKQQVPVDFSQFPNLKDNQTQINQGLDLAKG</span></span>
-<span class="topo-line"><span class="topo-inside">HADLYLNTIQPQIITNISNISNYFALQNAIPAVLPPGSTKAQWLRQLSVIKEQATEYQRL</span></span>
-<span class="topo-line"><span class="topo-inside">SSDTRLVIVNLNNNLITDSSNFQGIVVNLNSKVQGDNGVLAQLNGDIDKVNA</span><span class="topo-membrane">AIDGAIAG</span></span>
-<span class="topo-line"><span class="topo-membrane">IVAGGLLVIGGAFVTAIGAVA</span><span class="topo-outside">DF</span><span class="topo-unknown">VTAG</span><span class="topo-outside">TS</span><span class="topo-membrane">TPVVIGGVAMMVAGAGGITAGAIVLHNS</span><span class="topo-inside">LGA</span></span>
-<span class="topo-line"><span class="topo-inside">RQDLYQKRSSLNSEVLIATQIGNGYKGLQVQAQNAVTAATQMSNAWDSLTSDLGSLITDL</span></span>
-<span class="topo-line"><span class="topo-inside">DKGITSGDDIRQLWLTAADTTVKTVLTDVTTIKAQIA</span><span class="topo-unknown">GVSPLQVPQTDTIANFVARLAAL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MTNATTITMDQGMANQ</span><span class="topo-inside">ASQAMQIQTYCNSVKQQVPVDFSQFPNLKDNQTQINQGLDLAKGHADLYLNTIQPQIITNISNISNYFALQNAIPAVLPPGSTKAQWLRQLSVIKEQATEYQRL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">SSDTRLVIVNLNNNLITDSSNFQGIVVNLNSKVQGDNGVLAQLNGDIDKVNA</span><span class="topo-membrane">AIDGAIAGIVAGGLLVIGGAFVTAIGAVA</span><span class="topo-outside">DF</span><span class="topo-unknown">VTAG</span><span class="topo-outside">TS</span><span class="topo-membrane">TPVVIGGVAMMVAGAGGITAGAIVLHNS</span><span class="topo-inside">LGA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">RQDLYQKRSSLNSEVLIATQIGNGYKGLQVQAQNAVTAATQMSNAWDSLTSDLGSLITDLDKGITSGDDIRQLWLTAADTTVKTVLTDVTTIKAQIA</span><span class="topo-unknown">GVSPLQVPQTDTIANFVARLAAL</span></span>
+<span class="topo-ruler">       </span>
 <span class="topo-line"><span class="topo-unknown">EHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (6 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3072,6 +3185,7 @@ AhlABC is a tripartite alpha-pore forming toxin (alpha-PFT) from the Gram-negati
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3087,13 +3201,15 @@ AhlABC is a tripartite alpha-pore forming toxin (alpha-PFT) from the Gram-negati
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">TNATTITMDQGMANQASQAMQIQTYCNSVKQQVPVDFSQFPNLKDNQTQINQGLDLAKG</span></span>
-<span class="topo-line"><span class="topo-inside">HADLYLNTIQPQIITNISNISNYFALQNAIPAVLPPGSTKAQWLRQLSVIKEQATEYQRL</span></span>
-<span class="topo-line"><span class="topo-inside">SSDTRLVIVNLNNNLITDSSNFQGIVVNLNSKVQGDNGVLAQLNGDIDKVNAAIDG</span><span class="topo-membrane">AIAG</span></span>
-<span class="topo-line"><span class="topo-membrane">IVAGGLLVIGGAFVTAIGAVADF</span><span class="topo-outside">VT</span><span class="topo-unknown">AGT</span><span class="topo-outside">S</span><span class="topo-membrane">TPVVIGGVAMMVAGAGGITAGAIV</span><span class="topo-inside">LHNSLGA</span></span>
-<span class="topo-line"><span class="topo-inside">RQDLYQKRSSLNSEVLIATQIGNGYKGLQVQAQNAVTAATQMSNAWDSLTSDLGSLITDL</span></span>
-<span class="topo-line"><span class="topo-inside">DKGITSGDDIRQLWLTAADTTVKTVLTDVTTIKAQIAGVSP</span><span class="topo-unknown">LQVPQTDTIANFVARLAAL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">TNATTITMDQGMANQASQAMQIQTYCNSVKQQVPVDFSQFPNLKDNQTQINQGLDLAKGHADLYLNTIQPQIITNISNISNYFALQNAIPAVLPPGSTKAQWLRQLSVIKEQATEYQRL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">SSDTRLVIVNLNNNLITDSSNFQGIVVNLNSKVQGDNGVLAQLNGDIDKVNAAIDG</span><span class="topo-membrane">AIAGIVAGGLLVIGGAFVTAIGAVADF</span><span class="topo-outside">VT</span><span class="topo-unknown">AGT</span><span class="topo-outside">S</span><span class="topo-membrane">TPVVIGGVAMMVAGAGGITAGAIV</span><span class="topo-inside">LHNSLGA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">RQDLYQKRSSLNSEVLIATQIGNGYKGLQVQAQNAVTAATQMSNAWDSLTSDLGSLITDLDKGITSGDDIRQLWLTAADTTVKTVLTDVTTIKAQIAGVSP</span><span class="topo-unknown">LQVPQTDTIANFVARLAAL</span></span>
+<span class="topo-ruler">       </span>
 <span class="topo-line"><span class="topo-unknown">EHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (6 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3147,6 +3263,7 @@ AhlABC is a tripartite alpha-pore forming toxin (alpha-PFT) from the Gram-negati
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3162,13 +3279,15 @@ AhlABC is a tripartite alpha-pore forming toxin (alpha-PFT) from the Gram-negati
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MTNATTITMDQGMAN</span><span class="topo-inside">QASQAMQIQTYCNSVKQQVPVDFSQFPNLKDNQTQINQGLDLAKG</span></span>
-<span class="topo-line"><span class="topo-inside">HADLYLNTIQPQIITNISNISNYFALQNAIPAVLPPGSTKAQWLRQLSVIKEQATEYQRL</span></span>
-<span class="topo-line"><span class="topo-inside">SSDTRLVIVNLNNNLITDSSNFQGIVVNLNSKVQGDNGVLAQLNGDIDKVNA</span><span class="topo-membrane">AIDGAIAG</span></span>
-<span class="topo-line"><span class="topo-membrane">IVAGGLLVIGGAFVTAIGAVA</span><span class="topo-unknown">DFVTAGT</span><span class="topo-outside">S</span><span class="topo-membrane">TPVVIGGVAMMVAGAGGITAGAIVLHNS</span><span class="topo-inside">LGA</span></span>
-<span class="topo-line"><span class="topo-inside">RQDLYQKRSSLNSEVLIATQIGNGYKGLQVQAQNAVTAATQMSNAWDSLTSDLGSLITDL</span></span>
-<span class="topo-line"><span class="topo-inside">DKGITSGDDIRQLWLTAADTTVKTVLTDVTTIKAQIA</span><span class="topo-unknown">GVSPLQVPQTDTIANFVARLAAL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MTNATTITMDQGMAN</span><span class="topo-inside">QASQAMQIQTYCNSVKQQVPVDFSQFPNLKDNQTQINQGLDLAKGHADLYLNTIQPQIITNISNISNYFALQNAIPAVLPPGSTKAQWLRQLSVIKEQATEYQRL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">SSDTRLVIVNLNNNLITDSSNFQGIVVNLNSKVQGDNGVLAQLNGDIDKVNA</span><span class="topo-membrane">AIDGAIAGIVAGGLLVIGGAFVTAIGAVA</span><span class="topo-unknown">DFVTAGT</span><span class="topo-outside">S</span><span class="topo-membrane">TPVVIGGVAMMVAGAGGITAGAIVLHNS</span><span class="topo-inside">LGA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">RQDLYQKRSSLNSEVLIATQIGNGYKGLQVQAQNAVTAATQMSNAWDSLTSDLGSLITDLDKGITSGDDIRQLWLTAADTTVKTVLTDVTTIKAQIA</span><span class="topo-unknown">GVSPLQVPQTDTIANFVARLAAL</span></span>
+<span class="topo-ruler">       </span>
 <span class="topo-line"><span class="topo-unknown">EHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3215,6 +3334,7 @@ AhlABC is a tripartite alpha-pore forming toxin (alpha-PFT) from the Gram-negati
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

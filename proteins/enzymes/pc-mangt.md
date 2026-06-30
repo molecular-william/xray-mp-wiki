@@ -172,12 +172,13 @@ PcManGT is a crenarchaeal membrane glycosyltransferase from Pyrobaculum calidifo
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MLL</span><span class="topo-membrane">EAIAIALTAAHFGAPLLYYWR</span><span class="topo-inside">AKRWLKKPWDVAPDPTYRPRVTVIVPTYNEAPLIEE</span></span>
-<span class="topo-line"><span class="topo-inside">KLDNIYEQDYPRDKLEVVVVDSASTDGTPSAVRRWAETHPDLALTLVEETERRGKAHALN</span></span>
-<span class="topo-line"><span class="topo-inside">TALRHATGEIVVITDADALWPARDTLANAVKWLADPTVGAVSCVKRP</span><span class="topo-unknown">AGPAGVEDSY</span><span class="topo-inside">RDF</span></span>
-<span class="topo-line"><span class="topo-inside">YNVLRVAESKAWATPIFHGELAAFKRELLERLGGFPTDVGADDSHTATKIAMMGYRAITP</span></span>
-<span class="topo-line"><span class="topo-inside">PDVVCVEAVPKRGYHAWRIRRAQHLVQHFAKAIRDGKAPPPFKPILHAEA</span><span class="topo-membrane">YLHLANPWAL</span></span>
-<span class="topo-line"><span class="topo-membrane">PTAAAALAAAAA</span><span class="topo-outside">AGSLP</span><span class="topo-membrane">AAALLATGAALALYKPYR</span><span class="topo-unknown">T</span><span class="topo-inside">WTTMQAYLIAAAVKNLWDK</span><span class="topo-unknown">E</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MLL</span><span class="topo-membrane">EAIAIALTAAHFGAPLLYYWR</span><span class="topo-inside">AKRWLKKPWDVAPDPTYRPRVTVIVPTYNEAPLIEEKLDNIYEQDYPRDKLEVVVVDSASTDGTPSAVRRWAETHPDLALTLVEETERRGKAHALN</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">TALRHATGEIVVITDADALWPARDTLANAVKWLADPTVGAVSCVKRP</span><span class="topo-unknown">AGPAGVEDSY</span><span class="topo-inside">RDFYNVLRVAESKAWATPIFHGELAAFKRELLERLGGFPTDVGADDSHTATKIAMMGYRAITP</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350      </span>
+<span class="topo-line"><span class="topo-inside">PDVVCVEAVPKRGYHAWRIRRAQHLVQHFAKAIRDGKAPPPFKPILHAEA</span><span class="topo-membrane">YLHLANPWALPTAAAALAAAAA</span><span class="topo-outside">AGSLP</span><span class="topo-membrane">AAALLATGAALALYKPYR</span><span class="topo-unknown">T</span><span class="topo-inside">WTTMQAYLIAAAVKNLWDK</span><span class="topo-unknown">E</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -252,6 +253,7 @@ PcManGT is a crenarchaeal membrane glycosyltransferase from Pyrobaculum calidifo
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -267,12 +269,13 @@ PcManGT is a crenarchaeal membrane glycosyltransferase from Pyrobaculum calidifo
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">ML</span><span class="topo-membrane">LEAIAIALTAAHFGAPLL</span><span class="topo-inside">YYWRAKRWLKKPWDVAPDPTYRPRVTVIVPTYNEAPLIEE</span></span>
-<span class="topo-line"><span class="topo-inside">KLDNIYEQDYPRDKLEVVVVDSASTDGTPSAVRRWAETHPDLALTLVEETERRGKAHALN</span></span>
-<span class="topo-line"><span class="topo-inside">TALRHATGEIVVITDADALWPARDTLANAVKWLADPTVGAVSCVKRP</span><span class="topo-unknown">AGPAGVEDSY</span><span class="topo-inside">RDF</span></span>
-<span class="topo-line"><span class="topo-inside">YNVLRVAESKAWATPIFHGELAAFKRELLERLGGFPTDVGADDSHTATKIAMMGYRAITP</span></span>
-<span class="topo-line"><span class="topo-inside">PDVVCVEAVPKRGYHAWRIRRAQHLVQHFAKAIRDGKAPPPFKPILHAEAYLHL</span><span class="topo-membrane">ANPWAL</span></span>
-<span class="topo-line"><span class="topo-membrane">PTAAAALAAAAA</span><span class="topo-outside">AGSL</span><span class="topo-membrane">PAAALLATGAALALYKPYR</span><span class="topo-unknown">T</span><span class="topo-inside">WTTMQAYLIAAAVKNLWDK</span><span class="topo-unknown">E</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">ML</span><span class="topo-membrane">LEAIAIALTAAHFGAPLL</span><span class="topo-inside">YYWRAKRWLKKPWDVAPDPTYRPRVTVIVPTYNEAPLIEEKLDNIYEQDYPRDKLEVVVVDSASTDGTPSAVRRWAETHPDLALTLVEETERRGKAHALN</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">TALRHATGEIVVITDADALWPARDTLANAVKWLADPTVGAVSCVKRP</span><span class="topo-unknown">AGPAGVEDSY</span><span class="topo-inside">RDFYNVLRVAESKAWATPIFHGELAAFKRELLERLGGFPTDVGADDSHTATKIAMMGYRAITP</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350      </span>
+<span class="topo-line"><span class="topo-inside">PDVVCVEAVPKRGYHAWRIRRAQHLVQHFAKAIRDGKAPPPFKPILHAEAYLHL</span><span class="topo-membrane">ANPWALPTAAAALAAAAA</span><span class="topo-outside">AGSL</span><span class="topo-membrane">PAAALLATGAALALYKPYR</span><span class="topo-unknown">T</span><span class="topo-inside">WTTMQAYLIAAAVKNLWDK</span><span class="topo-unknown">E</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -347,6 +350,7 @@ PcManGT is a crenarchaeal membrane glycosyltransferase from Pyrobaculum calidifo
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -362,12 +366,13 @@ PcManGT is a crenarchaeal membrane glycosyltransferase from Pyrobaculum calidifo
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">ML</span><span class="topo-membrane">LEAIAIALTAAHFGAPLLYYW</span><span class="topo-outside">RAKRWLKKPWDVAPDPTYRPRVTVIVPTYNEAPLIEE</span></span>
-<span class="topo-line"><span class="topo-outside">KLDNIYEQDYPRDKLEVVVVDSASTDGTPSAVRRWAETHPDLALTLVEETERRGKAHALN</span></span>
-<span class="topo-line"><span class="topo-outside">TALRHATGEIVVITDADALWPARDTLANAVKWLADPTVGAVSCVKRP</span><span class="topo-unknown">AGPAGVEDSY</span><span class="topo-outside">RDF</span></span>
-<span class="topo-line"><span class="topo-outside">YNVLRVAESKAWATPIFHGELAAFKRELLERLGGFPTDVGADDSHTATKIAMMGYRAITP</span></span>
-<span class="topo-line"><span class="topo-outside">PDVVCVEAVPKRGYHAWRIRRAQHLVQHFAKAIRDGKAPPPFKPILHAEAY</span><span class="topo-membrane">LHLANPWAL</span></span>
-<span class="topo-line"><span class="topo-membrane">PTAAAALAAAAA</span><span class="topo-inside">AGSL</span><span class="topo-membrane">PAAALLATGAALALYKPYR</span><span class="topo-unknown">T</span><span class="topo-outside">WTTMQAYLIAAAVKNLWDK</span><span class="topo-unknown">E</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">ML</span><span class="topo-membrane">LEAIAIALTAAHFGAPLLYYW</span><span class="topo-outside">RAKRWLKKPWDVAPDPTYRPRVTVIVPTYNEAPLIEEKLDNIYEQDYPRDKLEVVVVDSASTDGTPSAVRRWAETHPDLALTLVEETERRGKAHALN</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">TALRHATGEIVVITDADALWPARDTLANAVKWLADPTVGAVSCVKRP</span><span class="topo-unknown">AGPAGVEDSY</span><span class="topo-outside">RDFYNVLRVAESKAWATPIFHGELAAFKRELLERLGGFPTDVGADDSHTATKIAMMGYRAITP</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350      </span>
+<span class="topo-line"><span class="topo-outside">PDVVCVEAVPKRGYHAWRIRRAQHLVQHFAKAIRDGKAPPPFKPILHAEAY</span><span class="topo-membrane">LHLANPWALPTAAAALAAAAA</span><span class="topo-inside">AGSL</span><span class="topo-membrane">PAAALLATGAALALYKPYR</span><span class="topo-unknown">T</span><span class="topo-outside">WTTMQAYLIAAAVKNLWDK</span><span class="topo-unknown">E</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -442,6 +447,7 @@ PcManGT is a crenarchaeal membrane glycosyltransferase from Pyrobaculum calidifo
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

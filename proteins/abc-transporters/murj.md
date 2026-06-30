@@ -153,14 +153,15 @@ MurJ is an essential integral membrane protein in Gram-negative bacteria that fl
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSI</span><span class="topo-outside">LFSSILFSIA</span><span class="topo-membrane">TFFSRILGLFRDV</span><span class="topo-inside">LFAKYFGVSYELDAYF</span><span class="topo-membrane">IAIMFPFFLRKVFG</span><span class="topo-outside">EGAM</span></span>
-<span class="topo-line"><span class="topo-outside">SSAFVPLYSEKSGEEKDKFLSSVIN</span><span class="topo-membrane">GFSLIILALVILSY</span><span class="topo-inside">FFP</span><span class="topo-unknown">ELIINLFG</span><span class="topo-inside">AGSSHETKIL</span></span>
-<span class="topo-line"><span class="topo-inside">AKKLL</span><span class="topo-membrane">LITSPSIYFIFLWA</span><span class="topo-outside">ISYSILNTNNKFFWPAL</span><span class="topo-membrane">TPSISNITIIIG</span><span class="topo-inside">TFLSTKYGIISP</span></span>
-<span class="topo-line"><span class="topo-membrane">TIGFLIGSILMFFS</span><span class="topo-outside">IIKSIIKHKYYFTIKH</span><span class="topo-unknown">FPHFLKLFFPTF</span><span class="topo-membrane">MTMVVSQINTVVDMN</span><span class="topo-inside">VVS</span></span>
-<span class="topo-line"><span class="topo-inside">FYDKGSISYL</span><span class="topo-membrane">QYASRFYLLPYGLFA</span><span class="topo-outside">VSVSTVVLSKISNDRKNFNYHLNDALKTTLFF</span><span class="topo-membrane">TIP</span></span>
-<span class="topo-line"><span class="topo-membrane">SMVGLIFLS</span><span class="topo-unknown">TPIIRFFY</span><span class="topo-inside">EHGAFTSKDTLITSKI</span><span class="topo-membrane">LIAYTLGLPFYG</span><span class="topo-outside">IYSTISRSYHAIKNT</span></span>
-<span class="topo-line"><span class="topo-outside">KTPFIA</span><span class="topo-membrane">ATIVSLSNIILDII</span><span class="topo-inside">FGLKYGPIG</span><span class="topo-membrane">VALATSIAGIIGVLY</span><span class="topo-outside">LLFSVKTFPIKDFLKI</span></span>
-<span class="topo-line"><span class="topo-membrane">SLNSLIMLFVIYLTD</span><span class="topo-inside">FTDNEF</span><span class="topo-membrane">WFLIQILIGILVYLIF</span><span class="topo-outside">SSIFYRDLIRRFL</span><span class="topo-unknown">YARKK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSI</span><span class="topo-outside">LFSSILFSIA</span><span class="topo-membrane">TFFSRILGLFRDV</span><span class="topo-inside">LFAKYFGVSYELDAYF</span><span class="topo-membrane">IAIMFPFFLRKVFG</span><span class="topo-outside">EGAMSSAFVPLYSEKSGEEKDKFLSSVIN</span><span class="topo-membrane">GFSLIILALVILSY</span><span class="topo-inside">FFP</span><span class="topo-unknown">ELIINLFG</span><span class="topo-inside">AGSSHETKIL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">AKKLL</span><span class="topo-membrane">LITSPSIYFIFLWA</span><span class="topo-outside">ISYSILNTNNKFFWPAL</span><span class="topo-membrane">TPSISNITIIIG</span><span class="topo-inside">TFLSTKYGIISP</span><span class="topo-membrane">TIGFLIGSILMFFS</span><span class="topo-outside">IIKSIIKHKYYFTIKH</span><span class="topo-unknown">FPHFLKLFFPTF</span><span class="topo-membrane">MTMVVSQINTVVDMN</span><span class="topo-inside">VVS</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">FYDKGSISYL</span><span class="topo-membrane">QYASRFYLLPYGLFA</span><span class="topo-outside">VSVSTVVLSKISNDRKNFNYHLNDALKTTLFF</span><span class="topo-membrane">TIPSMVGLIFLS</span><span class="topo-unknown">TPIIRFFY</span><span class="topo-inside">EHGAFTSKDTLITSKI</span><span class="topo-membrane">LIAYTLGLPFYG</span><span class="topo-outside">IYSTISRSYHAIKNT</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470     </span>
+<span class="topo-line"><span class="topo-outside">KTPFIA</span><span class="topo-membrane">ATIVSLSNIILDII</span><span class="topo-inside">FGLKYGPIG</span><span class="topo-membrane">VALATSIAGIIGVLY</span><span class="topo-outside">LLFSVKTFPIKDFLKI</span><span class="topo-membrane">SLNSLIMLFVIYLTD</span><span class="topo-inside">FTDNEF</span><span class="topo-membrane">WFLIQILIGILVYLIF</span><span class="topo-outside">SSIFYRDLIRRFL</span><span class="topo-unknown">YARKK</span></span>
+<details class="topo-details"><summary>Topology coordinates (33 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -403,6 +404,7 @@ MurJ is an essential integral membrane protein in Gram-negative bacteria that fl
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -529,15 +531,17 @@ MurJ is an essential integral membrane protein in Gram-negative bacteria that fl
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">NLLKSLAAGR</span><span class="topo-membrane">CSMTMFSRVLGFARDAIVAR</span><span class="topo-outside">IFGAGMAT</span><span class="topo-membrane">DAFFVAFKLPNLLRRIFAEGAF</span></span>
-<span class="topo-line"><span class="topo-membrane">S</span><span class="topo-inside">QAFVPILAEYKSKQGEDATRVFVSYVS</span><span class="topo-membrane">GLLTLALAVVTVAGMLAAPWVI</span><span class="topo-outside">MVTAPGFADT</span></span>
-<span class="topo-line"><span class="topo-outside">ADKFALT</span><span class="topo-membrane">SQLLKITFPYILLISLASLVG</span><span class="topo-inside">AILNTWNRFS</span><span class="topo-membrane">IPAFAPTLLNISMIGFALFAA</span><span class="topo-outside">P</span></span>
-<span class="topo-line"><span class="topo-outside">YFNPPV</span><span class="topo-membrane">LALAWAVTVGGVLQLVYQLP</span><span class="topo-inside">HLKKIGMLVLPRINFHDAGAMRVV</span><span class="topo-membrane">KQMGPAILGV</span></span>
-<span class="topo-line"><span class="topo-membrane">SVSQISLIINTIFA</span><span class="topo-outside">SFLASGSV</span><span class="topo-membrane">SWMYYADRLMEFPSGVLGVALG</span><span class="topo-inside">TILLPSLSKSFASGNH</span></span>
-<span class="topo-line"><span class="topo-inside">DEYNRLMDWGL</span><span class="topo-membrane">RLCFLLALPSAVALGILSGPLTVSLF</span><span class="topo-outside">QYGKFTAFDALMT</span><span class="topo-membrane">QRALIAYSVG</span></span>
-<span class="topo-line"><span class="topo-membrane">LIGLIVVKVLA</span><span class="topo-inside">PGFYSRQDI</span><span class="topo-membrane">KTPVKIAIVTLILTQLMNLAFI</span><span class="topo-outside">GPLKH</span><span class="topo-membrane">AGLSLSIGLAACL</span></span>
-<span class="topo-line"><span class="topo-membrane">NASLLYWQ</span><span class="topo-inside">LRKQKIFTPQPGW</span><span class="topo-membrane">MAFLLRLVVAVLVMSGVLLGMLHIM</span><span class="topo-outside">PEWSLGT</span><span class="topo-membrane">MPWRLLR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">NLLKSLAAGR</span><span class="topo-membrane">CSMTMFSRVLGFARDAIVAR</span><span class="topo-outside">IFGAGMAT</span><span class="topo-membrane">DAFFVAFKLPNLLRRIFAEGAFS</span><span class="topo-inside">QAFVPILAEYKSKQGEDATRVFVSYVS</span><span class="topo-membrane">GLLTLALAVVTVAGMLAAPWVI</span><span class="topo-outside">MVTAPGFADT</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">ADKFALT</span><span class="topo-membrane">SQLLKITFPYILLISLASLVG</span><span class="topo-inside">AILNTWNRFS</span><span class="topo-membrane">IPAFAPTLLNISMIGFALFAA</span><span class="topo-outside">PYFNPPV</span><span class="topo-membrane">LALAWAVTVGGVLQLVYQLP</span><span class="topo-inside">HLKKIGMLVLPRINFHDAGAMRVV</span><span class="topo-membrane">KQMGPAILGV</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">SVSQISLIINTIFA</span><span class="topo-outside">SFLASGSV</span><span class="topo-membrane">SWMYYADRLMEFPSGVLGVALG</span><span class="topo-inside">TILLPSLSKSFASGNHDEYNRLMDWGL</span><span class="topo-membrane">RLCFLLALPSAVALGILSGPLTVSLF</span><span class="topo-outside">QYGKFTAFDALMT</span><span class="topo-membrane">QRALIAYSVG</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">LIGLIVVKVLA</span><span class="topo-inside">PGFYSRQDI</span><span class="topo-membrane">KTPVKIAIVTLILTQLMNLAFI</span><span class="topo-outside">GPLKH</span><span class="topo-membrane">AGLSLSIGLAACLNASLLYWQ</span><span class="topo-inside">LRKQKIFTPQPGW</span><span class="topo-membrane">MAFLLRLVVAVLVMSGVLLGMLHIM</span><span class="topo-outside">PEWSLGT</span><span class="topo-membrane">MPWRLLR</span></span>
+<span class="topo-ruler">       490       500       510       520  </span>
 <span class="topo-line"><span class="topo-membrane">LMAVVLAGIAAYFAALAVLGF</span><span class="topo-inside">KVKEFARRTVLESSGENLYFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (29 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -752,6 +756,7 @@ MurJ is an essential integral membrane protein in Gram-negative bacteria that fl
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -767,15 +772,17 @@ MurJ is an essential integral membrane protein in Gram-negative bacteria that fl
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MNLLKSLA</span><span class="topo-inside">AISS</span><span class="topo-membrane">MTMFSRILGFIRDAII</span><span class="topo-outside">ARFFGAGAATDAF</span><span class="topo-membrane">FVAFRLPNLLRRIFAE</span><span class="topo-inside">GAF</span></span>
-<span class="topo-line"><span class="topo-inside">SQAFVPILAEYKNQQGDEATRTFIAYVSGLL</span><span class="topo-membrane">TLILAIVTLAGILAAPWI</span><span class="topo-outside">IYITAPGFTDT</span></span>
-<span class="topo-line"><span class="topo-outside">PDKFDLT</span><span class="topo-membrane">VRLLRITFPYILLISLAS</span><span class="topo-inside">LAGAILNTWNRFSVP</span><span class="topo-membrane">AFAPTLLNISMIISVL</span><span class="topo-outside">LLAP</span></span>
-<span class="topo-line"><span class="topo-outside">YCEPPIIA</span><span class="topo-membrane">LGWGVFAGGILQLLYQ</span><span class="topo-inside">LPYLQKIGMLVLPRISFRNSGVWRVLKLMGPAII</span><span class="topo-membrane">GV</span></span>
-<span class="topo-line"><span class="topo-membrane">SVSQISLIINTIFAS</span><span class="topo-outside">FLQSGSV</span><span class="topo-membrane">SWMYYADRLMELPTGVLG</span><span class="topo-inside">VALGTILLPSLAKSFSTGDH</span></span>
-<span class="topo-line"><span class="topo-inside">KEYQRLMDWGLRLCF</span><span class="topo-membrane">LLALPCAIALAILAEPLT</span><span class="topo-outside">VSLFQYGNFTAYDAVMT</span><span class="topo-membrane">QRALIAYCVG</span></span>
-<span class="topo-line"><span class="topo-membrane">LMGLIVV</span><span class="topo-inside">KVLAPGFYSRQDIKTPVKI</span><span class="topo-membrane">AIITLILTQLMNLAFI</span><span class="topo-outside">GSLKH</span><span class="topo-membrane">AGLALSISLAACF</span></span>
-<span class="topo-line"><span class="topo-membrane">NAL</span><span class="topo-inside">MLYWQLRRQAIFSPLVGWGKFL</span><span class="topo-membrane">LKLIAALIVMVAVLLLLL</span><span class="topo-outside">NFMPPWEQGNM</span><span class="topo-membrane">LVRITR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MNLLKSLA</span><span class="topo-inside">AISS</span><span class="topo-membrane">MTMFSRILGFIRDAII</span><span class="topo-outside">ARFFGAGAATDAF</span><span class="topo-membrane">FVAFRLPNLLRRIFAE</span><span class="topo-inside">GAFSQAFVPILAEYKNQQGDEATRTFIAYVSGLL</span><span class="topo-membrane">TLILAIVTLAGILAAPWI</span><span class="topo-outside">IYITAPGFTDT</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">PDKFDLT</span><span class="topo-membrane">VRLLRITFPYILLISLAS</span><span class="topo-inside">LAGAILNTWNRFSVP</span><span class="topo-membrane">AFAPTLLNISMIISVL</span><span class="topo-outside">LLAPYCEPPIIA</span><span class="topo-membrane">LGWGVFAGGILQLLYQ</span><span class="topo-inside">LPYLQKIGMLVLPRISFRNSGVWRVLKLMGPAII</span><span class="topo-membrane">GV</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">SVSQISLIINTIFAS</span><span class="topo-outside">FLQSGSV</span><span class="topo-membrane">SWMYYADRLMELPTGVLG</span><span class="topo-inside">VALGTILLPSLAKSFSTGDHKEYQRLMDWGLRLCF</span><span class="topo-membrane">LLALPCAIALAILAEPLT</span><span class="topo-outside">VSLFQYGNFTAYDAVMT</span><span class="topo-membrane">QRALIAYCVG</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">LMGLIVV</span><span class="topo-inside">KVLAPGFYSRQDIKTPVKI</span><span class="topo-membrane">AIITLILTQLMNLAFI</span><span class="topo-outside">GSLKH</span><span class="topo-membrane">AGLALSISLAACFNAL</span><span class="topo-inside">MLYWQLRRQAIFSPLVGWGKFL</span><span class="topo-membrane">LKLIAALIVMVAVLLLLL</span><span class="topo-outside">NFMPPWEQGNM</span><span class="topo-membrane">LVRITR</span></span>
+<span class="topo-ruler">       490       500       510 </span>
 <span class="topo-line"><span class="topo-membrane">LLLVVFAGAMSYFAAL</span><span class="topo-inside">FIFGFRLR</span><span class="topo-unknown">DFSQRAI</span></span>
+<details class="topo-details"><summary>Topology coordinates (31 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1004,6 +1011,7 @@ MurJ is an essential integral membrane protein in Gram-negative bacteria that fl
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1019,15 +1027,17 @@ MurJ is an essential integral membrane protein in Gram-negative bacteria that fl
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">NLLKSL</span><span class="topo-membrane">AAISSMTMFSRILGFIRDAIIA</span><span class="topo-outside">RFFGAGAAT</span><span class="topo-membrane">DAFFVAFRLPNLLRRIFAEGAF</span></span>
-<span class="topo-line"><span class="topo-membrane">S</span><span class="topo-inside">QAFVPILAEYKNQQGDEATRTFIAYVS</span><span class="topo-membrane">GLLTLILAIVTLAGILAAPWII</span><span class="topo-outside">YITAPGFTDT</span></span>
-<span class="topo-line"><span class="topo-outside">PDKFDLT</span><span class="topo-membrane">VRLLRITFPYILLISLASLAGA</span><span class="topo-inside">ILNTWNRF</span><span class="topo-membrane">SVPAFAPTLLNISMIISVLL</span><span class="topo-outside">LAP</span></span>
-<span class="topo-line"><span class="topo-outside">YCEPPIIA</span><span class="topo-membrane">LGWGVFAGGILQLLYQLPY</span><span class="topo-inside">LQKIGMLVLPRISFRNSGVWRVLKLMGPA</span><span class="topo-membrane">IIGV</span></span>
-<span class="topo-line"><span class="topo-membrane">SVSQISLIINTIFAS</span><span class="topo-outside">FLQSGSV</span><span class="topo-membrane">SWMYYADRLMELPTGVLGVALG</span><span class="topo-inside">TILLPSLAKSFSTGDH</span></span>
-<span class="topo-line"><span class="topo-inside">KEYQRLMDWGL</span><span class="topo-membrane">RLCFLLALPCAIALAILAEPLTVSLF</span><span class="topo-outside">QYGNFTAYDAVMT</span><span class="topo-membrane">QRALIAYCVG</span></span>
-<span class="topo-line"><span class="topo-membrane">LMGLIVVKVLA</span><span class="topo-inside">PGFYSRQDIKTP</span><span class="topo-membrane">VKIAIITLILTQLMNLAFI</span><span class="topo-outside">GSLKH</span><span class="topo-membrane">AGLALSISLAACF</span></span>
-<span class="topo-line"><span class="topo-membrane">NALMLYW</span><span class="topo-inside">QLRRQAIFSPLVGWGKF</span><span class="topo-membrane">LLKLIAALIVMVAVLLLLLNFM</span><span class="topo-outside">PPWEQGNM</span><span class="topo-membrane">LVRITR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">NLLKSL</span><span class="topo-membrane">AAISSMTMFSRILGFIRDAIIA</span><span class="topo-outside">RFFGAGAAT</span><span class="topo-membrane">DAFFVAFRLPNLLRRIFAEGAFS</span><span class="topo-inside">QAFVPILAEYKNQQGDEATRTFIAYVS</span><span class="topo-membrane">GLLTLILAIVTLAGILAAPWII</span><span class="topo-outside">YITAPGFTDT</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">PDKFDLT</span><span class="topo-membrane">VRLLRITFPYILLISLASLAGA</span><span class="topo-inside">ILNTWNRF</span><span class="topo-membrane">SVPAFAPTLLNISMIISVLL</span><span class="topo-outside">LAPYCEPPIIA</span><span class="topo-membrane">LGWGVFAGGILQLLYQLPY</span><span class="topo-inside">LQKIGMLVLPRISFRNSGVWRVLKLMGPA</span><span class="topo-membrane">IIGV</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">SVSQISLIINTIFAS</span><span class="topo-outside">FLQSGSV</span><span class="topo-membrane">SWMYYADRLMELPTGVLGVALG</span><span class="topo-inside">TILLPSLAKSFSTGDHKEYQRLMDWGL</span><span class="topo-membrane">RLCFLLALPCAIALAILAEPLTVSLF</span><span class="topo-outside">QYGNFTAYDAVMT</span><span class="topo-membrane">QRALIAYCVG</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">LMGLIVVKVLA</span><span class="topo-inside">PGFYSRQDIKTP</span><span class="topo-membrane">VKIAIITLILTQLMNLAFI</span><span class="topo-outside">GSLKH</span><span class="topo-membrane">AGLALSISLAACFNALMLYW</span><span class="topo-inside">QLRRQAIFSPLVGWGKF</span><span class="topo-membrane">LLKLIAALIVMVAVLLLLLNFM</span><span class="topo-outside">PPWEQGNM</span><span class="topo-membrane">LVRITR</span></span>
+<span class="topo-ruler">       490       500       510 </span>
 <span class="topo-line"><span class="topo-membrane">LLLVVFAGAMSYFAALFIF</span><span class="topo-inside">GFRLRDFSQRAI</span></span>
+<details class="topo-details"><summary>Topology coordinates (30 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1249,6 +1259,7 @@ MurJ is an essential integral membrane protein in Gram-negative bacteria that fl
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1297,17 +1308,19 @@ MurJ is an essential integral membrane protein in Gram-negative bacteria that fl
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MA</span><span class="topo-outside">DLEDNWETLNDNLKVIEKADNAAQVKDALTKMRAAALDAQKATPPKLEDKSPDSPEMK</span></span>
-<span class="topo-line"><span class="topo-outside">DFRHGFDILVGQIDDALKLANEGKVKEAQAAAEQLKTTRNAYIQKYLKSLA</span><span class="topo-membrane">AVSSMTMFS</span></span>
-<span class="topo-line"><span class="topo-membrane">RVLGFARDA</span><span class="topo-inside">IVARIFGAGMATDAFF</span><span class="topo-membrane">VAFKLPNLLRRIFAEGAFS</span><span class="topo-outside">QAFVPILAEYKSKQGE</span></span>
-<span class="topo-line"><span class="topo-outside">DATRVFV</span><span class="topo-membrane">SYVSGLLTLALAVVTVAGM</span><span class="topo-inside">LA</span><span class="topo-unknown">APWVIMVT</span><span class="topo-inside">APGFADTADKFALTSQLLKIT</span><span class="topo-membrane">FPY</span></span>
-<span class="topo-line"><span class="topo-membrane">ILLISLASLVGAIL</span><span class="topo-outside">NTWNRF</span><span class="topo-membrane">SIPAFAPTLLNISMI</span><span class="topo-inside">GFALFAAPYFNPPVLALAWA</span><span class="topo-membrane">VTVGG</span></span>
-<span class="topo-line"><span class="topo-membrane">VLQLVYQLPHLKK</span><span class="topo-outside">IGMLVLPRINFHD</span><span class="topo-unknown">AGAMRVVKQM</span><span class="topo-membrane">GPAILGVSVSQISLIINTIF</span><span class="topo-inside">ASFL</span></span>
-<span class="topo-line"><span class="topo-inside">ASGSVSWM</span><span class="topo-membrane">YYADRLMEFPSGVLGVAL</span><span class="topo-outside">GTILLPSLSKSFASGNHDEYNRLMDWGLRLC</span><span class="topo-membrane">FLL</span></span>
-<span class="topo-line"><span class="topo-membrane">ALPSAVALGILSGPLT</span><span class="topo-inside">VSLFQYGKFTAFDALMTQ</span><span class="topo-membrane">RALIAYSVGLIGLIVVK</span><span class="topo-outside">VLAPGFYSR</span></span>
-<span class="topo-line"><span class="topo-outside">QDIKTP</span><span class="topo-membrane">VKIAIVTLILTQLMNLAFI</span><span class="topo-inside">GPLKHA</span><span class="topo-membrane">GLSLSIGLAACLNASLL</span><span class="topo-outside">YWQLRKQKIFTP</span></span>
-<span class="topo-line"><span class="topo-outside">QPGWMAFL</span><span class="topo-membrane">LRLVVAVLVMSGVLLGMLHIM</span><span class="topo-inside">PEWSLGTMPWRL</span><span class="topo-membrane">LRLMAVVLAGIAAYFAALA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MA</span><span class="topo-outside">DLEDNWETLNDNLKVIEKADNAAQVKDALTKMRAAALDAQKATPPKLEDKSPDSPEMKDFRHGFDILVGQIDDALKLANEGKVKEAQAAAEQLKTTRNAYIQKYLKSLA</span><span class="topo-membrane">AVSSMTMFS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">RVLGFARDA</span><span class="topo-inside">IVARIFGAGMATDAFF</span><span class="topo-membrane">VAFKLPNLLRRIFAEGAFS</span><span class="topo-outside">QAFVPILAEYKSKQGEDATRVFV</span><span class="topo-membrane">SYVSGLLTLALAVVTVAGM</span><span class="topo-inside">LA</span><span class="topo-unknown">APWVIMVT</span><span class="topo-inside">APGFADTADKFALTSQLLKIT</span><span class="topo-membrane">FPY</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">ILLISLASLVGAIL</span><span class="topo-outside">NTWNRF</span><span class="topo-membrane">SIPAFAPTLLNISMI</span><span class="topo-inside">GFALFAAPYFNPPVLALAWA</span><span class="topo-membrane">VTVGGVLQLVYQLPHLKK</span><span class="topo-outside">IGMLVLPRINFHD</span><span class="topo-unknown">AGAMRVVKQM</span><span class="topo-membrane">GPAILGVSVSQISLIINTIF</span><span class="topo-inside">ASFL</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">ASGSVSWM</span><span class="topo-membrane">YYADRLMEFPSGVLGVAL</span><span class="topo-outside">GTILLPSLSKSFASGNHDEYNRLMDWGLRLC</span><span class="topo-membrane">FLLALPSAVALGILSGPLT</span><span class="topo-inside">VSLFQYGKFTAFDALMTQ</span><span class="topo-membrane">RALIAYSVGLIGLIVVK</span><span class="topo-outside">VLAPGFYSR</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">QDIKTP</span><span class="topo-membrane">VKIAIVTLILTQLMNLAFI</span><span class="topo-inside">GPLKHA</span><span class="topo-membrane">GLSLSIGLAACLNASLL</span><span class="topo-outside">YWQLRKQKIFTPQPGWMAFL</span><span class="topo-membrane">LRLVVAVLVMSGVLLGMLHIM</span><span class="topo-inside">PEWSLGTMPWRL</span><span class="topo-membrane">LRLMAVVLAGIAAYFAALA</span></span>
+<span class="topo-ruler">       610    </span>
 <span class="topo-line"><span class="topo-membrane">VL</span><span class="topo-outside">GFKVKEFA</span><span class="topo-unknown">RRTV</span></span>
+<details class="topo-details"><summary>Topology coordinates (32 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1543,6 +1556,7 @@ MurJ is an essential integral membrane protein in Gram-negative bacteria that fl
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

@@ -124,14 +124,15 @@ pmUlaA is the EIIC component of the L-ascorbate (vitamin C) phosphoenolpyruvate-
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">METLYNLFLSFNNQVLSKAPFLLGIVACIGYILLKK</span><span class="topo-outside">DT</span><span class="topo-membrane">TTVIKGTIKTIVGFMIVQAGSG</span></span>
-<span class="topo-line"><span class="topo-membrane">FLV</span><span class="topo-inside">ANFKPIIEGLSKYHNLTGA</span><span class="topo-unknown">VIDPYTSMQATIQ</span><span class="topo-inside">TM</span><span class="topo-membrane">ADNYAWVGYAVILALFLNILL</span><span class="topo-outside">VV</span></span>
-<span class="topo-line"><span class="topo-outside">CRRITGIRTIM</span><span class="topo-membrane">LTGHIMFQQAGLVAVFY</span><span class="topo-inside">MIIGASM</span><span class="topo-membrane">WETVIYTAVLMALYWGISS</span><span class="topo-outside">NIMYKP</span></span>
-<span class="topo-line"><span class="topo-outside">TQAVTGGAGFSIG</span><span class="topo-unknown">HQQQIASWIA</span><span class="topo-outside">VKLAPKLGDK</span><span class="topo-unknown">NDTVDKMKLPKWLH</span><span class="topo-outside">I</span><span class="topo-membrane">FHDSISATALVM</span></span>
-<span class="topo-line"><span class="topo-membrane">TVFFGIILL</span><span class="topo-inside">S</span><span class="topo-unknown">FGLDNLQQMAG</span><span class="topo-inside">K</span><span class="topo-membrane">THWFMYIFEMGLKFAVAIQIIVTGVRMFVAELS</span><span class="topo-outside">EAFKG</span></span>
-<span class="topo-line"><span class="topo-outside">ISERVIPNSVLAIDCAAIYAFSPNAMVFG</span><span class="topo-membrane">FMWGAIGQFVAVGLLL</span><span class="topo-inside">GFSSPIL</span><span class="topo-membrane">IIPGFIPM</span></span>
-<span class="topo-line"><span class="topo-membrane">FFSNA</span><span class="topo-outside">TIGVFANQFGGWKSVM</span><span class="topo-membrane">KICFIMGIIEVLGSAWVI</span><span class="topo-inside">HLLATQGTTFN</span><span class="topo-unknown">GWMGMADWAL</span></span>
-<span class="topo-line"><span class="topo-unknown">FFPPILQGI</span><span class="topo-inside">VSIP</span><span class="topo-membrane">GFFFVLLTLAIVYMV</span><span class="topo-outside">FASKQLRSEEAA</span><span class="topo-unknown">AAALG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">METLYNLFLSFNNQVLSKAPFLLGIVACIGYILLKK</span><span class="topo-outside">DT</span><span class="topo-membrane">TTVIKGTIKTIVGFMIVQAGSGFLV</span><span class="topo-inside">ANFKPIIEGLSKYHNLTGA</span><span class="topo-unknown">VIDPYTSMQATIQ</span><span class="topo-inside">TM</span><span class="topo-membrane">ADNYAWVGYAVILALFLNILL</span><span class="topo-outside">VV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">CRRITGIRTIM</span><span class="topo-membrane">LTGHIMFQQAGLVAVFY</span><span class="topo-inside">MIIGASM</span><span class="topo-membrane">WETVIYTAVLMALYWGISS</span><span class="topo-outside">NIMYKPTQAVTGGAGFSIG</span><span class="topo-unknown">HQQQIASWIA</span><span class="topo-outside">VKLAPKLGDK</span><span class="topo-unknown">NDTVDKMKLPKWLH</span><span class="topo-outside">I</span><span class="topo-membrane">FHDSISATALVM</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">TVFFGIILL</span><span class="topo-inside">S</span><span class="topo-unknown">FGLDNLQQMAG</span><span class="topo-inside">K</span><span class="topo-membrane">THWFMYIFEMGLKFAVAIQIIVTGVRMFVAELS</span><span class="topo-outside">EAFKGISERVIPNSVLAIDCAAIYAFSPNAMVFG</span><span class="topo-membrane">FMWGAIGQFVAVGLLL</span><span class="topo-inside">GFSSPIL</span><span class="topo-membrane">IIPGFIPM</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460     </span>
+<span class="topo-line"><span class="topo-membrane">FFSNA</span><span class="topo-outside">TIGVFANQFGGWKSVM</span><span class="topo-membrane">KICFIMGIIEVLGSAWVI</span><span class="topo-inside">HLLATQGTTFN</span><span class="topo-unknown">GWMGMADWALFFPPILQGI</span><span class="topo-inside">VSIP</span><span class="topo-membrane">GFFFVLLTLAIVYMV</span><span class="topo-outside">FASKQLRSEEAA</span><span class="topo-unknown">AAALG</span></span>
+<details class="topo-details"><summary>Topology coordinates (29 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -346,6 +347,7 @@ pmUlaA is the EIIC component of the L-ascorbate (vitamin C) phosphoenolpyruvate-
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -361,14 +363,15 @@ pmUlaA is the EIIC component of the L-ascorbate (vitamin C) phosphoenolpyruvate-
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">METLYNLFLSFNNQVLSKAPFLLGIVACIGYILLKK</span><span class="topo-outside">DT</span><span class="topo-membrane">TTVIKGTIKTIVGFMIVQAGSG</span></span>
-<span class="topo-line"><span class="topo-membrane">FLV</span><span class="topo-inside">ANFKPIIEGLSKYHNLTGA</span><span class="topo-unknown">VIDPYTSMQATIQ</span><span class="topo-inside">TM</span><span class="topo-membrane">ADNYAWVGYAVILALFLNILL</span><span class="topo-outside">VV</span></span>
-<span class="topo-line"><span class="topo-outside">CRRITGIRTIM</span><span class="topo-membrane">LTGHIMFQQAGLVAVFY</span><span class="topo-inside">MIIGASM</span><span class="topo-membrane">WETVIYTAVLMALYWGIS</span><span class="topo-outside">SNIMYKP</span></span>
-<span class="topo-line"><span class="topo-outside">TQAVTGGAGFSIG</span><span class="topo-unknown">HQQQIASWIA</span><span class="topo-outside">VKLAPKLGDK</span><span class="topo-unknown">NDTVDKMKLPKWLH</span><span class="topo-outside">I</span><span class="topo-membrane">FHDSISATALVM</span></span>
-<span class="topo-line"><span class="topo-membrane">TVFFGIILL</span><span class="topo-inside">S</span><span class="topo-unknown">FGLDNLQQMAG</span><span class="topo-inside">K</span><span class="topo-membrane">THWFMYIFEMGLKFAVAIQIIVTGVRMFVAELS</span><span class="topo-outside">EAFKG</span></span>
-<span class="topo-line"><span class="topo-outside">ISERVIPNSVLAIDCAAIYAFSPNAMVFG</span><span class="topo-membrane">FMWGAIGQFVAVGLLL</span><span class="topo-inside">GFSSPIL</span><span class="topo-membrane">IIPGFIPM</span></span>
-<span class="topo-line"><span class="topo-membrane">FFSNA</span><span class="topo-outside">TIGVFANQFGGWKSVM</span><span class="topo-membrane">KICFIMGIIEVLGSAWVI</span><span class="topo-inside">HLLATQGTTFN</span><span class="topo-unknown">GWMGMADWAL</span></span>
-<span class="topo-line"><span class="topo-unknown">FFPPILQGI</span><span class="topo-inside">VSIP</span><span class="topo-membrane">GFFFVLLTLAIVYMV</span><span class="topo-outside">FASKQLRSEEAA</span><span class="topo-unknown">AAALG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">METLYNLFLSFNNQVLSKAPFLLGIVACIGYILLKK</span><span class="topo-outside">DT</span><span class="topo-membrane">TTVIKGTIKTIVGFMIVQAGSGFLV</span><span class="topo-inside">ANFKPIIEGLSKYHNLTGA</span><span class="topo-unknown">VIDPYTSMQATIQ</span><span class="topo-inside">TM</span><span class="topo-membrane">ADNYAWVGYAVILALFLNILL</span><span class="topo-outside">VV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">CRRITGIRTIM</span><span class="topo-membrane">LTGHIMFQQAGLVAVFY</span><span class="topo-inside">MIIGASM</span><span class="topo-membrane">WETVIYTAVLMALYWGIS</span><span class="topo-outside">SNIMYKPTQAVTGGAGFSIG</span><span class="topo-unknown">HQQQIASWIA</span><span class="topo-outside">VKLAPKLGDK</span><span class="topo-unknown">NDTVDKMKLPKWLH</span><span class="topo-outside">I</span><span class="topo-membrane">FHDSISATALVM</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">TVFFGIILL</span><span class="topo-inside">S</span><span class="topo-unknown">FGLDNLQQMAG</span><span class="topo-inside">K</span><span class="topo-membrane">THWFMYIFEMGLKFAVAIQIIVTGVRMFVAELS</span><span class="topo-outside">EAFKGISERVIPNSVLAIDCAAIYAFSPNAMVFG</span><span class="topo-membrane">FMWGAIGQFVAVGLLL</span><span class="topo-inside">GFSSPIL</span><span class="topo-membrane">IIPGFIPM</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460     </span>
+<span class="topo-line"><span class="topo-membrane">FFSNA</span><span class="topo-outside">TIGVFANQFGGWKSVM</span><span class="topo-membrane">KICFIMGIIEVLGSAWVI</span><span class="topo-inside">HLLATQGTTFN</span><span class="topo-unknown">GWMGMADWALFFPPILQGI</span><span class="topo-inside">VSIP</span><span class="topo-membrane">GFFFVLLTLAIVYMV</span><span class="topo-outside">FASKQLRSEEAA</span><span class="topo-unknown">AAALG</span></span>
+<details class="topo-details"><summary>Topology coordinates (29 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -583,6 +586,7 @@ pmUlaA is the EIIC component of the L-ascorbate (vitamin C) phosphoenolpyruvate-
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

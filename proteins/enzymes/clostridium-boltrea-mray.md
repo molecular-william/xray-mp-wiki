@@ -56,13 +56,15 @@ MraY (phospho-MurNAc-pentapeptide translocase) is an essential integral membrane
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGTSRDHMVLHEYVNAAGITGGSGGS</span><span class="topo-outside">ENLYFQSMIHETI</span><span class="topo-membrane">LAIIIAFAISALLC</span><span class="topo-inside">PIIIPFL</span></span>
-<span class="topo-line"><span class="topo-inside">HKLKF</span><span class="topo-unknown">GQQVRDDGPESHLKKQ</span><span class="topo-inside">GTPTMG</span><span class="topo-membrane">GLIILSSIIITSV</span><span class="topo-outside">FYIPSYPKIIP</span><span class="topo-membrane">VLFVTVGFG</span></span>
-<span class="topo-line"><span class="topo-membrane">IIGFL</span><span class="topo-inside">DDYIKIV</span><span class="topo-unknown">MKRSEGL</span><span class="topo-inside">KPM</span><span class="topo-membrane">QKLVGQFIITGIFA</span><span class="topo-outside">WYLLNSGEVGTDMLIPFTGGFDGG</span></span>
-<span class="topo-line"><span class="topo-outside">SFLSLGIFFV</span><span class="topo-membrane">PALFFIMLGTDNGVN</span><span class="topo-inside">FTDGLDGL</span><span class="topo-membrane">CTSVTILVATFLTI</span><span class="topo-outside">VAIGEDMGISP</span><span class="topo-membrane">IT</span></span>
-<span class="topo-line"><span class="topo-membrane">GAVVGSLLGFLL</span><span class="topo-inside">FNVYPAKVFM</span><span class="topo-membrane">GDTGSLALGGFVAASCY</span><span class="topo-outside">MMRM</span><span class="topo-membrane">PLFIPVIGLIYLVEVL</span><span class="topo-inside">S</span></span>
-<span class="topo-line"><span class="topo-inside">VIIQVTYFKRTGGKRIFKMAPIHHHFELCGWSETRVVA</span><span class="topo-membrane">VFAIVTAILCMVAYL</span><span class="topo-outside">GLG</span><span class="topo-unknown">SGSE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGTSRDHMVLHEYVNAAGITGGSGGS</span><span class="topo-outside">ENLYFQSMIHETI</span><span class="topo-membrane">LAIIIAFAISALLC</span><span class="topo-inside">PIIIPFLHKLKF</span><span class="topo-unknown">GQQVRDDGPESHLKKQ</span><span class="topo-inside">GTPTMG</span><span class="topo-membrane">GLIILSSIIITSV</span><span class="topo-outside">FYIPSYPKIIP</span><span class="topo-membrane">VLFVTVGFG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">IIGFL</span><span class="topo-inside">DDYIKIV</span><span class="topo-unknown">MKRSEGL</span><span class="topo-inside">KPM</span><span class="topo-membrane">QKLVGQFIITGIFA</span><span class="topo-outside">WYLLNSGEVGTDMLIPFTGGFDGGSFLSLGIFFV</span><span class="topo-membrane">PALFFIMLGTDNGVN</span><span class="topo-inside">FTDGLDGL</span><span class="topo-membrane">CTSVTILVATFLTI</span><span class="topo-outside">VAIGEDMGISP</span><span class="topo-membrane">IT</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">GAVVGSLLGFLL</span><span class="topo-inside">FNVYPAKVFM</span><span class="topo-membrane">GDTGSLALGGFVAASCY</span><span class="topo-outside">MMRM</span><span class="topo-membrane">PLFIPVIGLIYLVEVL</span><span class="topo-inside">SVIIQVTYFKRTGGKRIFKMAPIHHHFELCGWSETRVVA</span><span class="topo-membrane">VFAIVTAILCMVAYL</span><span class="topo-outside">GLG</span><span class="topo-unknown">SGSE</span></span>
+<span class="topo-ruler">       370      </span>
 <span class="topo-line"><span class="topo-unknown">NLYFQSHHHHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (23 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -235,6 +237,7 @@ MraY (phospho-MurNAc-pentapeptide translocase) is an essential integral membrane
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -250,13 +253,15 @@ MraY (phospho-MurNAc-pentapeptide translocase) is an essential integral membrane
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGTSRDHMVLHEYVNAAGITGGSGGS</span><span class="topo-outside">ENLYFQSMIHET</span><span class="topo-membrane">ILAIIIAFAISALL</span><span class="topo-inside">CPIIIPFL</span></span>
-<span class="topo-line"><span class="topo-inside">HKLKF</span><span class="topo-unknown">GQQVRDDGPESHLKKQ</span><span class="topo-inside">GTPTMGG</span><span class="topo-membrane">LIILSSIIITSVFY</span><span class="topo-outside">IPSYPKI</span><span class="topo-membrane">IPVLFVTVGFG</span></span>
-<span class="topo-line"><span class="topo-membrane">IIG</span><span class="topo-inside">FLDDYIKIV</span><span class="topo-unknown">MKRSEGL</span><span class="topo-inside">KPMQK</span><span class="topo-membrane">LVGQFIITGIFAWY</span><span class="topo-outside">LLNSGEVGTDMLIPFTGGFDGG</span></span>
-<span class="topo-line"><span class="topo-outside">SFLSLGIF</span><span class="topo-membrane">FVPALFFIMLGTDNGVN</span><span class="topo-inside">FTDGLDGLC</span><span class="topo-membrane">TSVTILVATFLTI</span><span class="topo-outside">VAIGEDMGI</span><span class="topo-membrane">SPIT</span></span>
-<span class="topo-line"><span class="topo-membrane">GAVVGSLLGFL</span><span class="topo-inside">LFNVYPAKVFMGDT</span><span class="topo-membrane">GSLALGGFVAASCY</span><span class="topo-outside">MMRM</span><span class="topo-membrane">PLFIPVIGLIYLVEVL</span><span class="topo-inside">S</span></span>
-<span class="topo-line"><span class="topo-inside">VIIQVTYFKRTGGKRIFKMAPIHHHFELCGWSETRVVA</span><span class="topo-membrane">VFAIVTAILCMVAY</span><span class="topo-outside">LGLG</span><span class="topo-unknown">SGSE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGTSRDHMVLHEYVNAAGITGGSGGS</span><span class="topo-outside">ENLYFQSMIHET</span><span class="topo-membrane">ILAIIIAFAISALL</span><span class="topo-inside">CPIIIPFLHKLKF</span><span class="topo-unknown">GQQVRDDGPESHLKKQ</span><span class="topo-inside">GTPTMGG</span><span class="topo-membrane">LIILSSIIITSVFY</span><span class="topo-outside">IPSYPKI</span><span class="topo-membrane">IPVLFVTVGFG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">IIG</span><span class="topo-inside">FLDDYIKIV</span><span class="topo-unknown">MKRSEGL</span><span class="topo-inside">KPMQK</span><span class="topo-membrane">LVGQFIITGIFAWY</span><span class="topo-outside">LLNSGEVGTDMLIPFTGGFDGGSFLSLGIF</span><span class="topo-membrane">FVPALFFIMLGTDNGVN</span><span class="topo-inside">FTDGLDGLC</span><span class="topo-membrane">TSVTILVATFLTI</span><span class="topo-outside">VAIGEDMGI</span><span class="topo-membrane">SPIT</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">GAVVGSLLGFL</span><span class="topo-inside">LFNVYPAKVFMGDT</span><span class="topo-membrane">GSLALGGFVAASCY</span><span class="topo-outside">MMRM</span><span class="topo-membrane">PLFIPVIGLIYLVEVL</span><span class="topo-inside">SVIIQVTYFKRTGGKRIFKMAPIHHHFELCGWSETRVVA</span><span class="topo-membrane">VFAIVTAILCMVAY</span><span class="topo-outside">LGLG</span><span class="topo-unknown">SGSE</span></span>
+<span class="topo-ruler">       370      </span>
 <span class="topo-line"><span class="topo-unknown">NLYFQSHHHHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (23 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -429,6 +434,7 @@ MraY (phospho-MurNAc-pentapeptide translocase) is an essential integral membrane
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

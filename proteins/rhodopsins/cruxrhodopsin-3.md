@@ -132,11 +132,13 @@ Cruxrhodopsin-3 (cR3) is a light-driven proton pump from the archaeon Haloarcula
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MPAPEGE</span><span class="topo-membrane">AIWLWLGTAGMFLGMLYFIARGW</span><span class="topo-outside">GETDSRRQK</span><span class="topo-membrane">FYIATILITAIAFVNYLAMAL</span></span>
-<span class="topo-line"><span class="topo-inside">GFGLTIVEIAGEQRPIY</span><span class="topo-membrane">WARYSDWLFTTPLLLYDLG</span><span class="topo-outside">LLAGADRNT</span><span class="topo-membrane">ISSLVSLDVLMIGTG</span></span>
-<span class="topo-line"><span class="topo-membrane">LVATLS</span><span class="topo-inside">AGSGVLSAGAE</span><span class="topo-membrane">RLVWWGISTAFLLVLLYFLFS</span><span class="topo-outside">SLSGRVADLPSDTRSTFK</span><span class="topo-membrane">TLRN</span></span>
-<span class="topo-line"><span class="topo-membrane">LVTVVWLVYPVWWLVG</span><span class="topo-inside">TEGIGLVGIG</span><span class="topo-membrane">IETAGFMVIDLVAKVGFGIILLR</span><span class="topo-outside">SHGVLDGAAET</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">MPAPEGE</span><span class="topo-membrane">AIWLWLGTAGMFLGMLYFIARGW</span><span class="topo-outside">GETDSRRQK</span><span class="topo-membrane">FYIATILITAIAFVNYLAMAL</span><span class="topo-inside">GFGLTIVEIAGEQRPIY</span><span class="topo-membrane">WARYSDWLFTTPLLLYDLG</span><span class="topo-outside">LLAGADRNT</span><span class="topo-membrane">ISSLVSLDVLMIGTG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">LVATLS</span><span class="topo-inside">AGSGVLSAGAE</span><span class="topo-membrane">RLVWWGISTAFLLVLLYFLFS</span><span class="topo-outside">SLSGRVADLPSDTRSTFK</span><span class="topo-membrane">TLRNLVTVVWLVYPVWWLVG</span><span class="topo-inside">TEGIGLVGIG</span><span class="topo-membrane">IETAGFMVIDLVAKVGFGIILLR</span><span class="topo-outside">SHGVLDGAAET</span></span>
+<span class="topo-ruler">       250</span>
 <span class="topo-line"><span class="topo-outside">TGAG</span><span class="topo-unknown">ATATAD</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -260,6 +262,7 @@ Cruxrhodopsin-3 (cR3) is a light-driven proton pump from the archaeon Haloarcula
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -275,11 +278,13 @@ Cruxrhodopsin-3 (cR3) is a light-driven proton pump from the archaeon Haloarcula
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MPAPEGE</span><span class="topo-membrane">AIWLWLGTAGMFLGMLYFIARGW</span><span class="topo-outside">GETDSRRQK</span><span class="topo-membrane">FYIATILITAIAFVNYLAMAL</span></span>
-<span class="topo-line"><span class="topo-inside">GFGLTIVEIAGEQRPIY</span><span class="topo-membrane">WARYSDWLFTTPLLLYDLG</span><span class="topo-outside">LLAGADRNT</span><span class="topo-membrane">ISSLVSLDVLMIGTG</span></span>
-<span class="topo-line"><span class="topo-membrane">LVATLS</span><span class="topo-inside">AGSGVLSAGAE</span><span class="topo-membrane">RLVWWGISTAFLLVLLYFLFS</span><span class="topo-outside">SLSGRVADLPSDTRSTFK</span><span class="topo-membrane">TLRN</span></span>
-<span class="topo-line"><span class="topo-membrane">LVTVVWLVYPVWWLVG</span><span class="topo-inside">TEGIGLVGIG</span><span class="topo-membrane">IETAGFMVIDLVAKVGFGIILLR</span><span class="topo-outside">SHGVLDGAAET</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">MPAPEGE</span><span class="topo-membrane">AIWLWLGTAGMFLGMLYFIARGW</span><span class="topo-outside">GETDSRRQK</span><span class="topo-membrane">FYIATILITAIAFVNYLAMAL</span><span class="topo-inside">GFGLTIVEIAGEQRPIY</span><span class="topo-membrane">WARYSDWLFTTPLLLYDLG</span><span class="topo-outside">LLAGADRNT</span><span class="topo-membrane">ISSLVSLDVLMIGTG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">LVATLS</span><span class="topo-inside">AGSGVLSAGAE</span><span class="topo-membrane">RLVWWGISTAFLLVLLYFLFS</span><span class="topo-outside">SLSGRVADLPSDTRSTFK</span><span class="topo-membrane">TLRNLVTVVWLVYPVWWLVG</span><span class="topo-inside">TEGIGLVGIG</span><span class="topo-membrane">IETAGFMVIDLVAKVGFGIILLR</span><span class="topo-outside">SHGVLDGAAET</span></span>
+<span class="topo-ruler">       250</span>
 <span class="topo-line"><span class="topo-outside">TGAG</span><span class="topo-unknown">ATATAD</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -403,6 +408,7 @@ Cruxrhodopsin-3 (cR3) is a light-driven proton pump from the archaeon Haloarcula
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -418,11 +424,13 @@ Cruxrhodopsin-3 (cR3) is a light-driven proton pump from the archaeon Haloarcula
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MPAPEGE</span><span class="topo-membrane">AIWLWLGTAGMFLGMLYFIARGW</span><span class="topo-outside">GETDSRRQK</span><span class="topo-membrane">FYIATILITAIAFVNYLAMAL</span></span>
-<span class="topo-line"><span class="topo-inside">GFGLTIVEIAGEQRPIY</span><span class="topo-membrane">WARYSDWLFTTPLLLYDLG</span><span class="topo-outside">LLAGADRNT</span><span class="topo-membrane">ISSLVSLDVLMIGTG</span></span>
-<span class="topo-line"><span class="topo-membrane">LVATLS</span><span class="topo-inside">AGSGVLSAGAE</span><span class="topo-membrane">RLVWWGISTAFLLVLLYFLFS</span><span class="topo-outside">SLSGRVADLPSDTRSTFK</span><span class="topo-membrane">TLRN</span></span>
-<span class="topo-line"><span class="topo-membrane">LVTVVWLVYPVWWLVG</span><span class="topo-inside">TEGIGLVGIG</span><span class="topo-membrane">IETAGFMVIDLVAKVGFGIILLR</span><span class="topo-outside">SHGVLDGAAET</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">MPAPEGE</span><span class="topo-membrane">AIWLWLGTAGMFLGMLYFIARGW</span><span class="topo-outside">GETDSRRQK</span><span class="topo-membrane">FYIATILITAIAFVNYLAMAL</span><span class="topo-inside">GFGLTIVEIAGEQRPIY</span><span class="topo-membrane">WARYSDWLFTTPLLLYDLG</span><span class="topo-outside">LLAGADRNT</span><span class="topo-membrane">ISSLVSLDVLMIGTG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">LVATLS</span><span class="topo-inside">AGSGVLSAGAE</span><span class="topo-membrane">RLVWWGISTAFLLVLLYFLFS</span><span class="topo-outside">SLSGRVADLPSDTRSTFK</span><span class="topo-membrane">TLRNLVTVVWLVYPVWWLVG</span><span class="topo-inside">TEGIGLVGIG</span><span class="topo-membrane">IETAGFMVIDLVAKVGFGIILLR</span><span class="topo-outside">SHGVLDGAAET</span></span>
+<span class="topo-ruler">       250</span>
 <span class="topo-line"><span class="topo-outside">TGAG</span><span class="topo-unknown">ATATAD</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -546,6 +554,7 @@ Cruxrhodopsin-3 (cR3) is a light-driven proton pump from the archaeon Haloarcula
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

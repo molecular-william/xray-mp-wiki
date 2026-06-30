@@ -144,10 +144,11 @@ Photosystem I (PSI) is one of the two photosystems in oxygenic photosynthesis, p
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">ADWMPGQPRPSYLDGSAPGDFGFDPLRLGEVPENLERFKESELIH</span><span class="topo-membrane">CRWAMLAVPGILVPE</span></span>
-<span class="topo-line"><span class="topo-membrane">AL</span><span class="topo-inside">GLGNWVKAQEWAALPGGQATYLGN</span><span class="topo-membrane">PVPWGTLPTILVIEFLSIA</span><span class="topo-outside">FVEHQRSMEKDPEKK</span></span>
-<span class="topo-line"><span class="topo-outside">KYPGGAFDPLGYSKDPKKFHEYKIKEVKN</span><span class="topo-membrane">GRLALLAFVGICVQQSA</span><span class="topo-inside">YPGTG</span><span class="topo-unknown">PLENLATHL</span></span>
-<span class="topo-line"><span class="topo-unknown">A</span><span class="topo-inside">DPWHNTIGNVLIPA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">ADWMPGQPRPSYLDGSAPGDFGFDPLRLGEVPENLERFKESELIH</span><span class="topo-membrane">CRWAMLAVPGILVPEAL</span><span class="topo-inside">GLGNWVKAQEWAALPGGQATYLGN</span><span class="topo-membrane">PVPWGTLPTILVIEFLSIA</span><span class="topo-outside">FVEHQRSMEKDPEKK</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190     </span>
+<span class="topo-line"><span class="topo-outside">KYPGGAFDPLGYSKDPKKFHEYKIKEVKN</span><span class="topo-membrane">GRLALLAFVGICVQQSA</span><span class="topo-inside">YPGTG</span><span class="topo-unknown">PLENLATHLA</span><span class="topo-inside">DPWHNTIGNVLIPA</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -222,6 +223,7 @@ Photosystem I (PSI) is one of the two photosystems in oxygenic photosynthesis, p
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -237,11 +239,13 @@ Photosystem I (PSI) is one of the two photosystems in oxygenic photosynthesis, p
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MASACASSAIAAVAISTPSSQKNGSPSGTSKAFLGRKLKVNSSTASPSRVRSTSTVCTVA</span></span>
-<span class="topo-line"><span class="topo-unknown">E</span><span class="topo-outside">PDRPLWFPGSTPPPWLDGSLPGDFGFDPLGLGSDPESLRW</span><span class="topo-membrane">NVQAELVHSRWAMLGAA</span><span class="topo-inside">GI</span></span>
-<span class="topo-line"><span class="topo-inside">FIPEFLTKLGILNTPSWYTAGEQEYFTDTTTLFI</span><span class="topo-membrane">VELVFIGWAEGRRWADI</span><span class="topo-outside">LNPGCVNTD</span></span>
-<span class="topo-line"><span class="topo-outside">PIFPNNKLTGTDVGYPGGLWFDPLGWGSASPQKLKE</span><span class="topo-membrane">LRTKEIKNGRLAMLAVMG</span><span class="topo-inside">AWFQHI</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MASACASSAIAAVAISTPSSQKNGSPSGTSKAFLGRKLKVNSSTASPSRVRSTSTVCTVAE</span><span class="topo-outside">PDRPLWFPGSTPPPWLDGSLPGDFGFDPLGLGSDPESLRW</span><span class="topo-membrane">NVQAELVHSRWAMLGAA</span><span class="topo-inside">GI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FIPEFLTKLGILNTPSWYTAGEQEYFTDTTTLFI</span><span class="topo-membrane">VELVFIGWAEGRRWADI</span><span class="topo-outside">LNPGCVNTDPIFPNNKLTGTDVGYPGGLWFDPLGWGSASPQKLKE</span><span class="topo-membrane">LRTKEIKNGRLAMLAVMG</span><span class="topo-inside">AWFQHI</span></span>
+<span class="topo-ruler">       250       260         </span>
 <span class="topo-line"><span class="topo-inside">YTGTG</span><span class="topo-unknown">PIDNLFAHLA</span><span class="topo-inside">DPGHATIFAA</span><span class="topo-unknown">FTPK</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -316,6 +320,7 @@ Photosystem I (PSI) is one of the two photosystems in oxygenic photosynthesis, p
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -331,11 +336,13 @@ Photosystem I (PSI) is one of the two photosystems in oxygenic photosynthesis, p
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MATQALVSSSSLTFAAEAVRQSFRARSLPSSVGCSRKGLVRAAATPPVKQGGVDR</span><span class="topo-outside">PLWFA</span></span>
-<span class="topo-line"><span class="topo-outside">SKQSLSYLDGSLPGDYGFDPLGLSDPEGTGGFIEPRWLAYG</span><span class="topo-membrane">EVINGRFAMLGAVGAIA</span><span class="topo-inside">PE</span></span>
-<span class="topo-line"><span class="topo-inside">YLGKVGLIPQETALAWFQTGVIPPAGTYNYWADNYTL</span><span class="topo-membrane">FVLEMALMGFAEHRR</span><span class="topo-outside">FQDWAKPG</span></span>
-<span class="topo-line"><span class="topo-outside">SMGKQYFLGLEKGFGGSGNPAYPGGPFFNPLGFGKDEKSLKELKLKE</span><span class="topo-membrane">VKNGRLAMLAILG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MATQALVSSSSLTFAAEAVRQSFRARSLPSSVGCSRKGLVRAAATPPVKQGGVDR</span><span class="topo-outside">PLWFASKQSLSYLDGSLPGDYGFDPLGLSDPEGTGGFIEPRWLAYG</span><span class="topo-membrane">EVINGRFAMLGAVGAIA</span><span class="topo-inside">PE</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">YLGKVGLIPQETALAWFQTGVIPPAGTYNYWADNYTL</span><span class="topo-membrane">FVLEMALMGFAEHRR</span><span class="topo-outside">FQDWAKPGSMGKQYFLGLEKGFGGSGNPAYPGGPFFNPLGFGKDEKSLKELKLKE</span><span class="topo-membrane">VKNGRLAMLAILG</span></span>
+<span class="topo-ruler">       250       260       270     </span>
 <span class="topo-line"><span class="topo-membrane">YFIQ</span><span class="topo-inside">GLVTGVG</span><span class="topo-unknown">PYQNLLDHVA</span><span class="topo-inside">DPVNNNVLTS</span><span class="topo-unknown">LKFH</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -410,6 +417,7 @@ Photosystem I (PSI) is one of the two photosystems in oxygenic photosynthesis, p
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -425,10 +433,11 @@ Photosystem I (PSI) is one of the two photosystems in oxygenic photosynthesis, p
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">K</span><span class="topo-outside">KGEWLPGLASPGYLTGSLPGDNGFDPLGLAEDPENLKWFVQ</span><span class="topo-membrane">AELVNGRWAMLGVAG</span><span class="topo-inside">MLL</span></span>
-<span class="topo-line"><span class="topo-inside">PEVFTSIGIINVPKWYDAGKEEYFASSST</span><span class="topo-membrane">LFVIEFILFHYVEIRR</span><span class="topo-outside">WQDIKNPGSVNQDPI</span></span>
-<span class="topo-line"><span class="topo-outside">FKQYSLPAGEVGYPGGIFNPLNFAPTLE</span><span class="topo-membrane">AKEKEIANGRLAMLAFLGFI</span><span class="topo-inside">IQHNVTGKG</span><span class="topo-unknown">PFD</span></span>
-<span class="topo-line"><span class="topo-unknown">NLLQHIS</span><span class="topo-inside">DPWHNTIVQ</span><span class="topo-unknown">TL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">K</span><span class="topo-outside">KGEWLPGLASPGYLTGSLPGDNGFDPLGLAEDPENLKWFVQ</span><span class="topo-membrane">AELVNGRWAMLGVAG</span><span class="topo-inside">MLLPEVFTSIGIINVPKWYDAGKEEYFASSST</span><span class="topo-membrane">LFVIEFILFHYVEIRR</span><span class="topo-outside">WQDIKNPGSVNQDPI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190        </span>
+<span class="topo-line"><span class="topo-outside">FKQYSLPAGEVGYPGGIFNPLNFAPTLE</span><span class="topo-membrane">AKEKEIANGRLAMLAFLGFI</span><span class="topo-inside">IQHNVTGKG</span><span class="topo-unknown">PFDNLLQHIS</span><span class="topo-inside">DPWHNTIVQ</span><span class="topo-unknown">TL</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -503,6 +512,7 @@ Photosystem I (PSI) is one of the two photosystems in oxygenic photosynthesis, p
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -518,19 +528,21 @@ Photosystem I (PSI) is one of the two photosystems in oxygenic photosynthesis, p
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MIIRSPEPKVQILADP</span><span class="topo-outside">EVKILVDRDPIKTSFEQWAKPGHFSRTIAKGPDTT</span><span class="topo-unknown">TWIWNLHA</span><span class="topo-outside">D</span></span>
-<span class="topo-line"><span class="topo-outside">AHDFDSHTSDLEEISRKVFSAH</span><span class="topo-membrane">FGQLSIIFLWLSGM</span><span class="topo-inside">YFHGARFSNYEAWLNDPTHIRPSA</span></span>
-<span class="topo-line"><span class="topo-inside">QVVWPIVGQEILNGDVGGGFRGIQITSG</span><span class="topo-unknown">FFQIWRA</span><span class="topo-inside">SGITSELQLYCT</span><span class="topo-membrane">AIGALVFAALMLF</span></span>
-<span class="topo-line"><span class="topo-membrane">AG</span><span class="topo-outside">WFHYHKAAPKLVWFQDVESM</span><span class="topo-membrane">LNHHLAGLLGLGSLSWA</span><span class="topo-inside">GHQIHVSLPINQFLNAGVDPK</span></span>
-<span class="topo-line"><span class="topo-inside">EIPLPHEFILNRDLLAQLYPSFAEGATPFFTLNWSKYADFLTFRGGLDPLTGGLWLTDIA</span></span>
-<span class="topo-line"><span class="topo-inside">HH</span><span class="topo-membrane">HLAIAILFLIAGHM</span><span class="topo-outside">YRTNWGIGHG</span><span class="topo-unknown">IKDILE</span><span class="topo-outside">AHKGPFTGQGHKGLYEILTTSWHAQLSI</span></span>
-<span class="topo-line"><span class="topo-membrane">NLAMLGSLTIIVAHH</span><span class="topo-inside">MYAMPPYPYLATDYGTQLSL</span><span class="topo-membrane">FTHHMWIGGFLIVGA</span><span class="topo-outside">AAHAAIFMVR</span></span>
-<span class="topo-line"><span class="topo-outside">DYDPTTRYNDLLDRVLRHRDAIISHLNW</span><span class="topo-membrane">VCIFLGFHSFGLYIHNDTM</span><span class="topo-inside">SALGRPQDMFSDT</span></span>
-<span class="topo-line"><span class="topo-inside">AIQLQPVFAQWIQNTHALAPGTTAPGATTSTSLTWGGGDLVSVGGKVALLPIPLGTADF</span><span class="topo-membrane">L</span></span>
-<span class="topo-line"><span class="topo-membrane">VHHIHAFTIHVTVL</span><span class="topo-outside">ILLKGVLFARSSRLIPDKANLGFRFPCDGPGRGGTCQVSAWDHVFL</span></span>
-<span class="topo-line"><span class="topo-membrane">GLFWMYNAISVVIFH</span><span class="topo-inside">FSWKMQSDVWGSINDQGVVTHITGGNFAQSSITINGWLRDFLWAQ</span></span>
-<span class="topo-line"><span class="topo-inside">ASQVIQSYGSSLSAYGL</span><span class="topo-membrane">FFLGAHFVWAFSLMFLF</span><span class="topo-outside">SG</span><span class="topo-unknown">RGYWQELIESIVWAHNK</span><span class="topo-outside">LKVAPAT</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MIIRSPEPKVQILADP</span><span class="topo-outside">EVKILVDRDPIKTSFEQWAKPGHFSRTIAKGPDTT</span><span class="topo-unknown">TWIWNLHA</span><span class="topo-outside">DAHDFDSHTSDLEEISRKVFSAH</span><span class="topo-membrane">FGQLSIIFLWLSGM</span><span class="topo-inside">YFHGARFSNYEAWLNDPTHIRPSA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">QVVWPIVGQEILNGDVGGGFRGIQITSG</span><span class="topo-unknown">FFQIWRA</span><span class="topo-inside">SGITSELQLYCT</span><span class="topo-membrane">AIGALVFAALMLFAG</span><span class="topo-outside">WFHYHKAAPKLVWFQDVESM</span><span class="topo-membrane">LNHHLAGLLGLGSLSWA</span><span class="topo-inside">GHQIHVSLPINQFLNAGVDPK</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">EIPLPHEFILNRDLLAQLYPSFAEGATPFFTLNWSKYADFLTFRGGLDPLTGGLWLTDIAHH</span><span class="topo-membrane">HLAIAILFLIAGHM</span><span class="topo-outside">YRTNWGIGHG</span><span class="topo-unknown">IKDILE</span><span class="topo-outside">AHKGPFTGQGHKGLYEILTTSWHAQLSI</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">NLAMLGSLTIIVAHH</span><span class="topo-inside">MYAMPPYPYLATDYGTQLSL</span><span class="topo-membrane">FTHHMWIGGFLIVGA</span><span class="topo-outside">AAHAAIFMVRDYDPTTRYNDLLDRVLRHRDAIISHLNW</span><span class="topo-membrane">VCIFLGFHSFGLYIHNDTM</span><span class="topo-inside">SALGRPQDMFSDT</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-inside">AIQLQPVFAQWIQNTHALAPGTTAPGATTSTSLTWGGGDLVSVGGKVALLPIPLGTADF</span><span class="topo-membrane">LVHHIHAFTIHVTVL</span><span class="topo-outside">ILLKGVLFARSSRLIPDKANLGFRFPCDGPGRGGTCQVSAWDHVFL</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-membrane">GLFWMYNAISVVIFH</span><span class="topo-inside">FSWKMQSDVWGSINDQGVVTHITGGNFAQSSITINGWLRDFLWAQASQVIQSYGSSLSAYGL</span><span class="topo-membrane">FFLGAHFVWAFSLMFLF</span><span class="topo-outside">SG</span><span class="topo-unknown">RGYWQELIESIVWAHNK</span><span class="topo-outside">LKVAPAT</span></span>
+<span class="topo-ruler">       730       740       750        </span>
 <span class="topo-line"><span class="topo-outside">QPRALSIVQGRAV</span><span class="topo-membrane">GVTHYLLGGIATTWA</span><span class="topo-inside">FFLARIIAVG</span></span>
+<details class="topo-details"><summary>Topology coordinates (31 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -759,6 +771,7 @@ Photosystem I (PSI) is one of the two photosystems in oxygenic photosynthesis, p
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -774,19 +787,21 @@ Photosystem I (PSI) is one of the two photosystems in oxygenic photosynthesis, p
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">ALRFPRFSQGLAQDPTTRRIWFGIATAHDFESHDDITEGRLYQNIFASHFGQ</span><span class="topo-membrane">LAIIFLW</span></span>
-<span class="topo-line"><span class="topo-membrane">TSGNLFHVAW</span><span class="topo-inside">QGNFEAWVQDPLHVRPIAHAIWDPHFG</span><span class="topo-unknown">QPAVEA</span><span class="topo-inside">FTRGGALGPVNIAYSG</span><span class="topo-unknown">V</span></span>
-<span class="topo-line"><span class="topo-unknown">YQWWYT</span><span class="topo-inside">IGLRTNE</span><span class="topo-membrane">DLYTGAIFLLFLSFIS</span><span class="topo-outside">LLAGWLHLQPKWKPSVSWFKNAESRLNHHL</span><span class="topo-membrane">S</span></span>
-<span class="topo-line"><span class="topo-membrane">GLFGVSSLAWAGHLVHV</span><span class="topo-inside">AIPGSRGEYVRWNNFLSVLPHPQGLGPLFTGQWNLYAQNPDSS</span></span>
-<span class="topo-line"><span class="topo-inside">NHLFSTSQGAGTAILTLLGGFHPQTQSLWLTDM</span><span class="topo-membrane">AHHHLAIAILFLIGG</span><span class="topo-outside">HMYRTNFGIGHS</span></span>
-<span class="topo-line"><span class="topo-outside">IKYILEAHIPPGGRLGRGHKGLYDTINNSIHFQLGLAL</span><span class="topo-membrane">ASLGVITSLVAQHMY</span><span class="topo-inside">SLPAYAF</span></span>
-<span class="topo-line"><span class="topo-inside">IAQDFTTQA</span><span class="topo-membrane">ALYTHHQYIAGFIMT</span><span class="topo-outside">GAFAHGAIFFIRDYNPEQNADNVLARMLEHKEAIIS</span></span>
-<span class="topo-line"><span class="topo-outside">HL</span><span class="topo-membrane">SWASLFLGFHTLGLYVH</span><span class="topo-inside">NDVMLAFGTPEKQILIEP</span><span class="topo-unknown">IFAQWIQSA</span><span class="topo-inside">HGKTSYGFDVLLSS</span></span>
-<span class="topo-line"><span class="topo-inside">TNS</span><span class="topo-unknown">PALNAG</span><span class="topo-inside">RSIW</span><span class="topo-unknown">LPGWLNAI</span><span class="topo-inside">NENSNSLFLTIGPGD</span><span class="topo-membrane">FLVHHAIALGLHTTT</span><span class="topo-outside">LILVKGALD</span></span>
-<span class="topo-line"><span class="topo-outside">ARGSKLMPDKKDFGYSFPCDGPGRGGTCDISAWDAFYLA</span><span class="topo-membrane">VFWMLNTIGWVTFYW</span><span class="topo-inside">HWKHIT</span></span>
-<span class="topo-line"><span class="topo-inside">LWQGNVSQFNESSTY</span><span class="topo-unknown">LMGWLRD</span><span class="topo-inside">YLWLNSSQLINGYNPFGMNSLSVWAW</span><span class="topo-membrane">MFLFGHLVWATG</span></span>
-<span class="topo-line"><span class="topo-membrane">FMFLI</span><span class="topo-outside">SW</span><span class="topo-unknown">RGYWQELIETLAWAHE</span><span class="topo-outside">RTPLANLIRWRDKPVALSIVQARLVG</span><span class="topo-membrane">LVHFSVGYIFT</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">ALRFPRFSQGLAQDPTTRRIWFGIATAHDFESHDDITEGRLYQNIFASHFGQ</span><span class="topo-membrane">LAIIFLWTSGNLFHVAW</span><span class="topo-inside">QGNFEAWVQDPLHVRPIAHAIWDPHFG</span><span class="topo-unknown">QPAVEA</span><span class="topo-inside">FTRGGALGPVNIAYSG</span><span class="topo-unknown">V</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-unknown">YQWWYT</span><span class="topo-inside">IGLRTNE</span><span class="topo-membrane">DLYTGAIFLLFLSFIS</span><span class="topo-outside">LLAGWLHLQPKWKPSVSWFKNAESRLNHHL</span><span class="topo-membrane">SGLFGVSSLAWAGHLVHV</span><span class="topo-inside">AIPGSRGEYVRWNNFLSVLPHPQGLGPLFTGQWNLYAQNPDSS</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">NHLFSTSQGAGTAILTLLGGFHPQTQSLWLTDM</span><span class="topo-membrane">AHHHLAIAILFLIGG</span><span class="topo-outside">HMYRTNFGIGHSIKYILEAHIPPGGRLGRGHKGLYDTINNSIHFQLGLAL</span><span class="topo-membrane">ASLGVITSLVAQHMY</span><span class="topo-inside">SLPAYAF</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">IAQDFTTQA</span><span class="topo-membrane">ALYTHHQYIAGFIMT</span><span class="topo-outside">GAFAHGAIFFIRDYNPEQNADNVLARMLEHKEAIISHL</span><span class="topo-membrane">SWASLFLGFHTLGLYVH</span><span class="topo-inside">NDVMLAFGTPEKQILIEP</span><span class="topo-unknown">IFAQWIQSA</span><span class="topo-inside">HGKTSYGFDVLLSS</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-inside">TNS</span><span class="topo-unknown">PALNAG</span><span class="topo-inside">RSIW</span><span class="topo-unknown">LPGWLNAI</span><span class="topo-inside">NENSNSLFLTIGPGD</span><span class="topo-membrane">FLVHHAIALGLHTTT</span><span class="topo-outside">LILVKGALDARGSKLMPDKKDFGYSFPCDGPGRGGTCDISAWDAFYLA</span><span class="topo-membrane">VFWMLNTIGWVTFYW</span><span class="topo-inside">HWKHIT</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-inside">LWQGNVSQFNESSTY</span><span class="topo-unknown">LMGWLRD</span><span class="topo-inside">YLWLNSSQLINGYNPFGMNSLSVWAW</span><span class="topo-membrane">MFLFGHLVWATGFMFLI</span><span class="topo-outside">SW</span><span class="topo-unknown">RGYWQELIETLAWAHE</span><span class="topo-outside">RTPLANLIRWRDKPVALSIVQARLVG</span><span class="topo-membrane">LVHFSVGYIFT</span></span>
+<span class="topo-ruler">       730    </span>
 <span class="topo-line"><span class="topo-membrane">YAAFL</span><span class="topo-inside">IASTSGKFG</span></span>
+<details class="topo-details"><summary>Topology coordinates (37 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1057,6 +1072,7 @@ Photosystem I (PSI) is one of the two photosystems in oxygenic photosynthesis, p
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1072,8 +1088,9 @@ Photosystem I (PSI) is one of the two photosystems in oxygenic photosynthesis, p
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">SHSVKIYDTCIGCTQCVRACPTDVLEMIPWGGCKAKQIASAPRTEDCVGCKRCESACPT</span></span>
-<span class="topo-line"><span class="topo-outside">DFLSVRVYLWHETTRSMGLAY</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80 </span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">SHSVKIYDTCIGCTQCVRACPTDVLEMIPWGGCKAKQIASAPRTEDCVGCKRCESACPTDFLSVRVYLWHETTRSMGLAY</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1092,6 +1109,7 @@ Photosystem I (PSI) is one of the two photosystems in oxygenic photosynthesis, p
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1107,9 +1125,11 @@ Photosystem I (PSI) is one of the two photosystems in oxygenic photosynthesis, p
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GFT</span><span class="topo-outside">PPELDPNTPSPIFGGSTGGLLRKAQVEEFYVITWESPKEQIFEMPTGGAAIMREGPN</span></span>
-<span class="topo-line"><span class="topo-outside">LLKLARKEQCLALGTRLRSKYKIKYQFYRVFPSGEVQYLHPKDGVYPEKVNPGRQGVGVN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GFT</span><span class="topo-outside">PPELDPNTPSPIFGGSTGGLLRKAQVEEFYVITWESPKEQIFEMPTGGAAIMREGPNLLKLARKEQCLALGTRLRSKYKIKYQFYRVFPSGEVQYLHPKDGVYPEKVNPGRQGVGVN</span></span>
+<span class="topo-ruler">       130       140   </span>
 <span class="topo-line"><span class="topo-outside">FRSIGKNVSPIEVKFTGKQPYDL</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1128,6 +1148,7 @@ Photosystem I (PSI) is one of the two photosystems in oxygenic photosynthesis, p
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1143,8 +1164,9 @@ Photosystem I (PSI) is one of the two photosystems in oxygenic photosynthesis, p
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">PP</span><span class="topo-outside">IGPKRGAKVKILRQESYWYKGTGSVVAVDQDPNTRYPVVVRFNKVNYANVSTNNYALD</span></span>
-<span class="topo-line"><span class="topo-outside">EVEEV</span><span class="topo-unknown">K</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60      </span>
+<span class="topo-line"><span class="topo-unknown">PP</span><span class="topo-outside">IGPKRGAKVKILRQESYWYKGTGSVVAVDQDPNTRYPVVVRFNKVNYANVSTNNYALDEVEEV</span><span class="topo-unknown">K</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1163,6 +1185,7 @@ Photosystem I (PSI) is one of the two photosystems in oxygenic photosynthesis, p
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1178,9 +1201,11 @@ Photosystem I (PSI) is one of the two photosystems in oxygenic photosynthesis, p
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">DIAGLTPCKDSKQFAKREKQSIKKLESSLKLYAPDSAPALAINATIEKTKRRFDNYGKQG</span></span>
-<span class="topo-line"><span class="topo-inside">LLCGADGLPHLIVSGDQRHWGE</span><span class="topo-membrane">FITPGILFLYIAGWIG</span><span class="topo-outside">WVGRSYLIAIRDDKKPTQKEII</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">DIAGLTPCKDSKQFAKREKQSIKKLESSLKLYAPDSAPALAINATIEKTKRRFDNYGKQGLLCGADGLPHLIVSGDQRHWGE</span><span class="topo-membrane">FITPGILFLYIAGWIG</span><span class="topo-outside">WVGRSYLIAIRDDKKPTQKEII</span></span>
+<span class="topo-ruler">       130       140       150    </span>
 <span class="topo-line"><span class="topo-outside">ID</span><span class="topo-unknown">VPLATRLVFRGFS</span><span class="topo-outside">WPIAAYRELLNGELVAK</span><span class="topo-unknown">DV</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1227,6 +1252,7 @@ Photosystem I (PSI) is one of the two photosystems in oxygenic photosynthesis, p
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1242,8 +1268,9 @@ Photosystem I (PSI) is one of the two photosystems in oxygenic photosynthesis, p
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">L</span><span class="topo-membrane">NPSLVISLSTGLS</span><span class="topo-outside">LFLGRFVFFNFQRENVAKQGLPEQNGVTHFEAGDTRAKEYVSLLKS</span></span>
-<span class="topo-line"><span class="topo-outside">NDPVGFNIVDVLAWG</span><span class="topo-membrane">SIGHIVAYYILATSS</span><span class="topo-inside">NGYDP</span><span class="topo-unknown">KF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       </span>
+<span class="topo-line"><span class="topo-inside">L</span><span class="topo-membrane">NPSLVISLSTGLS</span><span class="topo-outside">LFLGRFVFFNFQRENVAKQGLPEQNGVTHFEAGDTRAKEYVSLLKSNDPVGFNIVDVLAWG</span><span class="topo-membrane">SIGHIVAYYILATSS</span><span class="topo-inside">NGYDP</span><span class="topo-unknown">KF</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1290,6 +1317,7 @@ Photosystem I (PSI) is one of the two photosystems in oxygenic photosynthesis, p
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1305,8 +1333,9 @@ Photosystem I (PSI) is one of the two photosystems in oxygenic photosynthesis, p
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">VYFDLEDLGNTTGQWDLYGSDAPSPYN</span><span class="topo-unknown">SLQSKFFETF</span><span class="topo-outside">AAPFTKRGLLLKF</span><span class="topo-membrane">LILGGGSTLA</span></span>
-<span class="topo-line"><span class="topo-membrane">YFSATA</span><span class="topo-inside">SGDILPIKKGPQLPPQLGPRLG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        </span>
+<span class="topo-line"><span class="topo-outside">VYFDLEDLGNTTGQWDLYGSDAPSPYN</span><span class="topo-unknown">SLQSKFFETF</span><span class="topo-outside">AAPFTKRGLLLKF</span><span class="topo-membrane">LILGGGSTLAYFSATA</span><span class="topo-inside">SGDILPIKKGPQLPPQLGPRLG</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1353,6 +1382,7 @@ Photosystem I (PSI) is one of the two photosystems in oxygenic photosynthesis, p
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1368,7 +1398,9 @@ Photosystem I (PSI) is one of the two photosystems in oxygenic photosynthesis, p
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40</span>
 <span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">IN</span><span class="topo-membrane">LPSLFVPLVGLLFPAV</span><span class="topo-outside">AMASLFLHVEKR</span><span class="topo-unknown">LLFSTKKIN</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1401,6 +1433,7 @@ Photosystem I (PSI) is one of the two photosystems in oxygenic photosynthesis, p
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1416,7 +1449,9 @@ Photosystem I (PSI) is one of the two photosystems in oxygenic photosynthesis, p
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40  </span>
 <span class="topo-line"><span class="topo-outside">M</span><span class="topo-unknown">RDLKTYL</span><span class="topo-outside">SVAP</span><span class="topo-membrane">VASTLWFAALAGLLIEI</span><span class="topo-inside">NRFFPDALTF</span><span class="topo-unknown">PFF</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1463,6 +1498,7 @@ Photosystem I (PSI) is one of the two photosystems in oxygenic photosynthesis, p
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1478,9 +1514,11 @@ Photosystem I (PSI) is one of the two photosystems in oxygenic photosynthesis, p
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">YQ</span><span class="topo-outside">VVQPINGDPFIGSLETPVTSS</span><span class="topo-unknown">PLVAWYLSN</span><span class="topo-outside">LPGYRTAVNPLLRGIEVG</span><span class="topo-membrane">LAHGFLLVGP</span></span>
-<span class="topo-line"><span class="topo-membrane">FVKAGP</span><span class="topo-inside">LRNTEIA</span><span class="topo-membrane">GQAGSLAAGGLVVIL</span><span class="topo-outside">SICLTIYGISSFNEGDPSTAPSLTLTGRKKQP</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">YQ</span><span class="topo-outside">VVQPINGDPFIGSLETPVTSS</span><span class="topo-unknown">PLVAWYLSN</span><span class="topo-outside">LPGYRTAVNPLLRGIEVG</span><span class="topo-membrane">LAHGFLLVGPFVKAGP</span><span class="topo-inside">LRNTEIA</span><span class="topo-membrane">GQAGSLAAGGLVVIL</span><span class="topo-outside">SICLTIYGISSFNEGDPSTAPSLTLTGRKKQP</span></span>
+<span class="topo-ruler">       130       140       150       </span>
 <span class="topo-line"><span class="topo-outside">DQLQTADGWAKFTGGFF</span><span class="topo-membrane">FGGISGVIWAFFLLYV</span><span class="topo-unknown">LDLP</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1548,6 +1586,7 @@ Photosystem I (PSI) is one of the two photosystems in oxygenic photosynthesis, p
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1563,8 +1602,9 @@ Photosystem I (PSI) is one of the two photosystems in oxygenic photosynthesis, p
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">IGSPTN</span><span class="topo-membrane">LIMVTSTSLMLFAGR</span><span class="topo-outside">FGLAPSANRKATA</span><span class="topo-unknown">GLK</span><span class="topo-outside">LEARDSGLQTGDPAGFTL</span><span class="topo-membrane">ADTLA</span></span>
-<span class="topo-line"><span class="topo-membrane">CGVVGHIIGVGVV</span><span class="topo-inside">LGLKNIG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80</span>
+<span class="topo-line"><span class="topo-inside">IGSPTN</span><span class="topo-membrane">LIMVTSTSLMLFAGR</span><span class="topo-outside">FGLAPSANRKATA</span><span class="topo-unknown">GLK</span><span class="topo-outside">LEARDSGLQTGDPAGFTL</span><span class="topo-membrane">ADTLACGVVGHIIGVGVV</span><span class="topo-inside">LGLKNIG</span></span>
+<details class="topo-details"><summary>Topology coordinates (6 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1618,6 +1658,7 @@ Photosystem I (PSI) is one of the two photosystems in oxygenic photosynthesis, p
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

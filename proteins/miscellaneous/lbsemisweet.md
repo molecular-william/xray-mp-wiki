@@ -153,8 +153,9 @@ LbSemiSWEET is a sugar transporter from the SWEET family found in the bacterium 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MENL</span><span class="topo-membrane">IGYVAAFLTTVSFLPQVLRVV</span><span class="topo-outside">MTKQTRDI</span><span class="topo-membrane">SRNMYIMFFLGVVLWFVYGI</span><span class="topo-inside">LRSAL</span><span class="topo-membrane">PI</span></span>
-<span class="topo-line"><span class="topo-membrane">ILANVVTLFFVTIILYYKLT</span><span class="topo-outside">E</span><span class="topo-unknown">GNQTGSLEVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90   </span>
+<span class="topo-line"><span class="topo-inside">MENL</span><span class="topo-membrane">IGYVAAFLTTVSFLPQVLRVV</span><span class="topo-outside">MTKQTRDI</span><span class="topo-membrane">SRNMYIMFFLGVVLWFVYGI</span><span class="topo-inside">LRSAL</span><span class="topo-membrane">PIILANVVTLFFVTIILYYKLT</span><span class="topo-outside">E</span><span class="topo-unknown">GNQTGSLEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -215,6 +216,7 @@ LbSemiSWEET is a sugar transporter from the SWEET family found in the bacterium 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -230,8 +232,9 @@ LbSemiSWEET is a sugar transporter from the SWEET family found in the bacterium 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MENL</span><span class="topo-membrane">IGYVAAFLTTVSFLPQVLRVV</span><span class="topo-outside">MTKQTRDI</span><span class="topo-membrane">SRNMYIMFFLGVVLWFVYGI</span><span class="topo-inside">LRSAL</span><span class="topo-membrane">PI</span></span>
-<span class="topo-line"><span class="topo-membrane">ILANVVTLFFVTIILYYKL</span><span class="topo-outside">TE</span><span class="topo-unknown">GNQTGSLEVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90   </span>
+<span class="topo-line"><span class="topo-inside">MENL</span><span class="topo-membrane">IGYVAAFLTTVSFLPQVLRVV</span><span class="topo-outside">MTKQTRDI</span><span class="topo-membrane">SRNMYIMFFLGVVLWFVYGI</span><span class="topo-inside">LRSAL</span><span class="topo-membrane">PIILANVVTLFFVTIILYYKL</span><span class="topo-outside">TE</span><span class="topo-unknown">GNQTGSLEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -292,6 +295,7 @@ LbSemiSWEET is a sugar transporter from the SWEET family found in the bacterium 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -307,8 +311,9 @@ LbSemiSWEET is a sugar transporter from the SWEET family found in the bacterium 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MENLIGYVAAFLTTVSFLPAVLRVVMTKQTRD</span><span class="topo-membrane">ISRNMYIMFFLGVVLWFVYGIL</span><span class="topo-outside">RSDL</span><span class="topo-membrane">PI</span></span>
-<span class="topo-line"><span class="topo-membrane">ILANVVTLFFVTIILYYKLTE</span><span class="topo-inside">GNQTGSLEVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90   </span>
+<span class="topo-line"><span class="topo-inside">MENLIGYVAAFLTTVSFLPAVLRVVMTKQTRD</span><span class="topo-membrane">ISRNMYIMFFLGVVLWFVYGIL</span><span class="topo-outside">RSDL</span><span class="topo-membrane">PIILANVVTLFFVTIILYYKLTE</span><span class="topo-inside">GNQTGSLEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -355,6 +360,7 @@ LbSemiSWEET is a sugar transporter from the SWEET family found in the bacterium 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

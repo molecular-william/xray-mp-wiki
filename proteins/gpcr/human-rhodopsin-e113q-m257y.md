@@ -156,22 +156,23 @@ Human rhodopsin is the visual pigment [GPCR](/xray-mp-wiki/concepts/signaling-re
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">NIFEMLRIDEGLRLKIYKDTEGYYTIGIGHLLTKSPS</span><span class="topo-unknown">LNAAKSELDKAI</span><span class="topo-inside">GRNTNGVITKD</span></span>
-<span class="topo-line"><span class="topo-inside">EAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVFQMGETGVAGFTNSLRML</span></span>
-<span class="topo-line"><span class="topo-inside">QQKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWDAYMCGTEGPNFYVPFSNATGVV</span></span>
-<span class="topo-line"><span class="topo-inside">RSPFEYPQYYLAEPWQFSM</span><span class="topo-membrane">LAAYMFLLIVLGFPINFLTLYVTVQH</span><span class="topo-outside">KKL</span><span class="topo-membrane">RTPLNYILLNLA</span></span>
-<span class="topo-line"><span class="topo-membrane">VADLFMVLGGFTSTL</span><span class="topo-inside">YTSLHGYFVFGPTGCNL</span><span class="topo-membrane">QGFFATLGGEIALWSLVVLAIERYV</span><span class="topo-outside">VVC</span></span>
-<span class="topo-line"><span class="topo-outside">KPMSNFRFGE</span><span class="topo-membrane">NHAIMGVAFTWVMALACAAPPLA</span><span class="topo-inside">GWSRYIPEGLQCSCGIDYYTLKPEVNN</span></span>
-<span class="topo-line"><span class="topo-inside">ES</span><span class="topo-membrane">FVIYMFVVHFTIPMIIIFFCYGQLVF</span><span class="topo-outside">TVKEAAAQQQESATTQKAEKEV</span><span class="topo-membrane">TRMVIIYVIA</span></span>
-<span class="topo-line"><span class="topo-membrane">FLICWVPYASVAFY</span><span class="topo-inside">IFTHQGSCFGPIFMT</span><span class="topo-membrane">IPAFFAKSAAIYNPVIYIMMNKQFR</span><span class="topo-unknown">NCMLTT</span></span>
-<span class="topo-line"><span class="topo-unknown">I</span><span class="topo-outside">CCGKN</span><span class="topo-unknown">PLGDDEASATVSKTETSQVAPAAAAGSAGSAGSAGSASH</span><span class="topo-outside">VIFKKVSRDKSVTIY</span></span>
-<span class="topo-line"><span class="topo-outside">LGKRDYVDHVSQVEPVDGVVLVDPELVKGKKVYVTLTCAFRYGQEDIDVMGLTFRRDLYF</span></span>
-<span class="topo-line"><span class="topo-outside">SRVQVYPPVGAMSVLTQLQESLLKKLGDNTYPFLLTFPDYLPCSVMLQPAPQDVGKSCGV</span></span>
-<span class="topo-line"><span class="topo-outside">DFEVKAFASDITDPEEDKIPKKSSVRLLIRKVQHAPPEMGPQPSAEASWQFFMSDKPLNL</span></span>
-<span class="topo-line"><span class="topo-outside">SVSLSKEIYFHGEPIPVTVTVTNNTDKVVKKIKVSVEQIANVVLYSSDYYVKPVASEETQ</span></span>
-<span class="topo-line"><span class="topo-outside">EKVQPNSTLTKTLVLVPLLANNRERRGIALDGKIKHEDTNLASSTIIKEGIDRTVMGILV</span></span>
-<span class="topo-line"><span class="topo-outside">SYHIKVKLTVSGF</span><span class="topo-unknown">LGE</span><span class="topo-outside">LTSSEVATEVPFRLMHPQP</span><span class="topo-unknown">EDPAKESVQDENAAAEEFARQNLKD</span></span>
-<span class="topo-line"><span class="topo-unknown">TGENTE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">NIFEMLRIDEGLRLKIYKDTEGYYTIGIGHLLTKSPS</span><span class="topo-unknown">LNAAKSELDKAI</span><span class="topo-inside">GRNTNGVITKDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVFQMGETGVAGFTNSLRML</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">QQKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWDAYMCGTEGPNFYVPFSNATGVVRSPFEYPQYYLAEPWQFSM</span><span class="topo-membrane">LAAYMFLLIVLGFPINFLTLYVTVQH</span><span class="topo-outside">KKL</span><span class="topo-membrane">RTPLNYILLNLA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">VADLFMVLGGFTSTL</span><span class="topo-inside">YTSLHGYFVFGPTGCNL</span><span class="topo-membrane">QGFFATLGGEIALWSLVVLAIERYV</span><span class="topo-outside">VVCKPMSNFRFGE</span><span class="topo-membrane">NHAIMGVAFTWVMALACAAPPLA</span><span class="topo-inside">GWSRYIPEGLQCSCGIDYYTLKPEVNN</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">ES</span><span class="topo-membrane">FVIYMFVVHFTIPMIIIFFCYGQLVF</span><span class="topo-outside">TVKEAAAQQQESATTQKAEKEV</span><span class="topo-membrane">TRMVIIYVIAFLICWVPYASVAFY</span><span class="topo-inside">IFTHQGSCFGPIFMT</span><span class="topo-membrane">IPAFFAKSAAIYNPVIYIMMNKQFR</span><span class="topo-unknown">NCMLTT</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-unknown">I</span><span class="topo-outside">CCGKN</span><span class="topo-unknown">PLGDDEASATVSKTETSQVAPAAAAGSAGSAGSAGSASH</span><span class="topo-outside">VIFKKVSRDKSVTIYLGKRDYVDHVSQVEPVDGVVLVDPELVKGKKVYVTLTCAFRYGQEDIDVMGLTFRRDLYF</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-outside">SRVQVYPPVGAMSVLTQLQESLLKKLGDNTYPFLLTFPDYLPCSVMLQPAPQDVGKSCGVDFEVKAFASDITDPEEDKIPKKSSVRLLIRKVQHAPPEMGPQPSAEASWQFFMSDKPLNL</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820       830       840</span>
+<span class="topo-line"><span class="topo-outside">SVSLSKEIYFHGEPIPVTVTVTNNTDKVVKKIKVSVEQIANVVLYSSDYYVKPVASEETQEKVQPNSTLTKTLVLVPLLANNRERRGIALDGKIKHEDTNLASSTIIKEGIDRTVMGILV</span></span>
+<span class="topo-ruler">       850       860       870       880       890       900      </span>
+<span class="topo-line"><span class="topo-outside">SYHIKVKLTVSGF</span><span class="topo-unknown">LGE</span><span class="topo-outside">LTSSEVATEVPFRLMHPQP</span><span class="topo-unknown">EDPAKESVQDENAAAEEFARQNLKDTGENTE</span></span>
+<details class="topo-details"><summary>Topology coordinates (20 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -323,6 +324,7 @@ Human rhodopsin is the visual pigment [GPCR](/xray-mp-wiki/concepts/signaling-re
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

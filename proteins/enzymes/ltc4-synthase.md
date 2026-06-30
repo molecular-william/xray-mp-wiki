@@ -61,9 +61,11 @@ Leukotriene C4 synthase (LTC4S) is a membrane-bound enzyme in the MAPEG (Membran
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">KDEVAL</span><span class="topo-membrane">LAAVTLLGVLLQAY</span><span class="topo-outside">FSLQVISARRAFRVSPPLTTGPPEFERVYRAQVNCS</span><span class="topo-membrane">EYF</span></span>
-<span class="topo-line"><span class="topo-membrane">PLFLATLWVAG</span><span class="topo-inside">IFFHEGA</span><span class="topo-membrane">AALCGLVYLFARL</span><span class="topo-outside">RYFQGYARSAQLRLAPLYA</span><span class="topo-membrane">SARALWLLVA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">KDEVAL</span><span class="topo-membrane">LAAVTLLGVLLQAY</span><span class="topo-outside">FSLQVISARRAFRVSPPLTTGPPEFERVYRAQVNCS</span><span class="topo-membrane">EYFPLFLATLWVAG</span><span class="topo-inside">IFFHEGA</span><span class="topo-membrane">AALCGLVYLFARL</span><span class="topo-outside">RYFQGYARSAQLRLAPLYA</span><span class="topo-membrane">SARALWLLVA</span></span>
+<span class="topo-ruler">       130       140       150      </span>
 <span class="topo-line"><span class="topo-membrane">LAAL</span><span class="topo-inside">GLLAHFLPAALRAALLGRLRTLL</span><span class="topo-unknown">PWAHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -152,6 +154,7 @@ Leukotriene C4 synthase (LTC4S) is a membrane-bound enzyme in the MAPEG (Membran
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -167,9 +170,11 @@ Leukotriene C4 synthase (LTC4S) is a membrane-bound enzyme in the MAPEG (Membran
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">KDEVAL</span><span class="topo-membrane">LAAVTLLGVLLQAY</span><span class="topo-outside">FSLQVISARRAFRVSPPLTTGPPEFERVYRAQVNCS</span><span class="topo-membrane">EYF</span></span>
-<span class="topo-line"><span class="topo-membrane">PLFLATLWVAG</span><span class="topo-inside">IFFHEG</span><span class="topo-membrane">AAALCGLVYLFARL</span><span class="topo-outside">RYFQGYARSAQLRLAPLYA</span><span class="topo-membrane">SARALWLLVA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">KDEVAL</span><span class="topo-membrane">LAAVTLLGVLLQAY</span><span class="topo-outside">FSLQVISARRAFRVSPPLTTGPPEFERVYRAQVNCS</span><span class="topo-membrane">EYFPLFLATLWVAG</span><span class="topo-inside">IFFHEG</span><span class="topo-membrane">AAALCGLVYLFARL</span><span class="topo-outside">RYFQGYARSAQLRLAPLYA</span><span class="topo-membrane">SARALWLLVA</span></span>
+<span class="topo-ruler">       130       140       150      </span>
 <span class="topo-line"><span class="topo-membrane">LAAL</span><span class="topo-inside">GLLAHFLPAALRAALLGRLRTLL</span><span class="topo-unknown">PWAHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -258,6 +263,7 @@ Leukotriene C4 synthase (LTC4S) is a membrane-bound enzyme in the MAPEG (Membran
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -273,9 +279,11 @@ Leukotriene C4 synthase (LTC4S) is a membrane-bound enzyme in the MAPEG (Membran
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">KDEVAL</span><span class="topo-membrane">LAAVTLLGVLLQAY</span><span class="topo-outside">FSLQVISARRAFRVSPPLTTGPPEFERVYRAQVNCS</span><span class="topo-membrane">EYF</span></span>
-<span class="topo-line"><span class="topo-membrane">PLFLATLWVAG</span><span class="topo-inside">IFFHEGA</span><span class="topo-membrane">AALCGLVYLFARL</span><span class="topo-outside">RYFQGYARSAQLRLAPLY</span><span class="topo-membrane">ASARALWLLVA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">KDEVAL</span><span class="topo-membrane">LAAVTLLGVLLQAY</span><span class="topo-outside">FSLQVISARRAFRVSPPLTTGPPEFERVYRAQVNCS</span><span class="topo-membrane">EYFPLFLATLWVAG</span><span class="topo-inside">IFFHEGA</span><span class="topo-membrane">AALCGLVYLFARL</span><span class="topo-outside">RYFQGYARSAQLRLAPLY</span><span class="topo-membrane">ASARALWLLVA</span></span>
+<span class="topo-ruler">       130       140       150      </span>
 <span class="topo-line"><span class="topo-membrane">LAAL</span><span class="topo-inside">GLLAHFLPAALRAALLGRLRTLL</span><span class="topo-unknown">PWAHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -364,6 +372,7 @@ Leukotriene C4 synthase (LTC4S) is a membrane-bound enzyme in the MAPEG (Membran
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -418,9 +427,11 @@ Leukotriene C4 synthase (LTC4S) is a membrane-bound enzyme in the MAPEG (Membran
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">HHHHHHKDEVALL</span><span class="topo-membrane">AAVTLLGVLLQAYF</span><span class="topo-inside">SLQVISARRAFRVSPPLTTGPPEFERVYRAQV</span></span>
-<span class="topo-line"><span class="topo-inside">NC</span><span class="topo-membrane">SEYFPLFLATLWVAG</span><span class="topo-outside">IFFHEGA</span><span class="topo-membrane">AALCGLVYLFARLR</span><span class="topo-inside">YFQGYARSAQLRLAP</span><span class="topo-membrane">LYASARA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">HHHHHHKDEVALL</span><span class="topo-membrane">AAVTLLGVLLQAYF</span><span class="topo-inside">SLQVISARRAFRVSPPLTTGPPEFERVYRAQVNC</span><span class="topo-membrane">SEYFPLFLATLWVAG</span><span class="topo-outside">IFFHEGA</span><span class="topo-membrane">AALCGLVYLFARLR</span><span class="topo-inside">YFQGYARSAQLRLAP</span><span class="topo-membrane">LYASARA</span></span>
+<span class="topo-ruler">       130       140       150      </span>
 <span class="topo-line"><span class="topo-membrane">LWLLVALAAL</span><span class="topo-unknown">GLLAHFLPAALRAALLGRL</span><span class="topo-outside">RT</span><span class="topo-unknown">LLPWA</span></span>
+<details class="topo-details"><summary>Topology coordinates (12 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -516,6 +527,7 @@ Leukotriene C4 synthase (LTC4S) is a membrane-bound enzyme in the MAPEG (Membran
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -531,9 +543,11 @@ Leukotriene C4 synthase (LTC4S) is a membrane-bound enzyme in the MAPEG (Membran
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">HHHHHHKDEVALL</span><span class="topo-membrane">AAVTLLGVLLQAYF</span><span class="topo-inside">SLQVISARRAFRVSPPLTTGPPEFERVYRAQV</span></span>
-<span class="topo-line"><span class="topo-inside">NC</span><span class="topo-membrane">SEYFPLFLATLWVAG</span><span class="topo-outside">IFFHEGA</span><span class="topo-membrane">AALCGLVYLFARLR</span><span class="topo-inside">YFQGYARSAQLRLAP</span><span class="topo-membrane">LYASARA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">HHHHHHKDEVALL</span><span class="topo-membrane">AAVTLLGVLLQAYF</span><span class="topo-inside">SLQVISARRAFRVSPPLTTGPPEFERVYRAQVNC</span><span class="topo-membrane">SEYFPLFLATLWVAG</span><span class="topo-outside">IFFHEGA</span><span class="topo-membrane">AALCGLVYLFARLR</span><span class="topo-inside">YFQGYARSAQLRLAP</span><span class="topo-membrane">LYASARA</span></span>
+<span class="topo-ruler">       130       140       150      </span>
 <span class="topo-line"><span class="topo-membrane">LWLLVALAAL</span><span class="topo-unknown">GLLAHFLPAALRAALLGRL</span><span class="topo-outside">RT</span><span class="topo-unknown">LLPWA</span></span>
+<details class="topo-details"><summary>Topology coordinates (12 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -629,6 +643,7 @@ Leukotriene C4 synthase (LTC4S) is a membrane-bound enzyme in the MAPEG (Membran
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -644,9 +659,11 @@ Leukotriene C4 synthase (LTC4S) is a membrane-bound enzyme in the MAPEG (Membran
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">HHHHHHKDEVALL</span><span class="topo-membrane">AAVTLLGVLLQAYF</span><span class="topo-inside">SLQVISARRAFRVSPPLTTGPPEFERVYRAQV</span></span>
-<span class="topo-line"><span class="topo-inside">NC</span><span class="topo-membrane">SEYFPLFLATLWVAG</span><span class="topo-outside">IFFHEGA</span><span class="topo-membrane">AALCGLVYLFARLR</span><span class="topo-inside">YFQGYARSAQLRLAP</span><span class="topo-membrane">LYASARA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">HHHHHHKDEVALL</span><span class="topo-membrane">AAVTLLGVLLQAYF</span><span class="topo-inside">SLQVISARRAFRVSPPLTTGPPEFERVYRAQVNC</span><span class="topo-membrane">SEYFPLFLATLWVAG</span><span class="topo-outside">IFFHEGA</span><span class="topo-membrane">AALCGLVYLFARLR</span><span class="topo-inside">YFQGYARSAQLRLAP</span><span class="topo-membrane">LYASARA</span></span>
+<span class="topo-ruler">       130       140       150      </span>
 <span class="topo-line"><span class="topo-membrane">LWLLVALAAL</span><span class="topo-unknown">GLLAHFLPAALRAALLGRL</span><span class="topo-outside">RT</span><span class="topo-unknown">LLPWA</span></span>
+<details class="topo-details"><summary>Topology coordinates (12 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -742,6 +759,7 @@ Leukotriene C4 synthase (LTC4S) is a membrane-bound enzyme in the MAPEG (Membran
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -757,9 +775,11 @@ Leukotriene C4 synthase (LTC4S) is a membrane-bound enzyme in the MAPEG (Membran
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">HHHHHHKDEVALL</span><span class="topo-membrane">AAVTLLGVLLQAYF</span><span class="topo-inside">SLQVISARRAFRVSPPLTTGPPEFERVYRAQV</span></span>
-<span class="topo-line"><span class="topo-inside">NC</span><span class="topo-membrane">SEYFPLFLATLWVAG</span><span class="topo-outside">IFFHEGA</span><span class="topo-membrane">AALCGLVYLFARLR</span><span class="topo-inside">YFQGYARSAQLRLAP</span><span class="topo-membrane">LYASARA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">HHHHHHKDEVALL</span><span class="topo-membrane">AAVTLLGVLLQAYF</span><span class="topo-inside">SLQVISARRAFRVSPPLTTGPPEFERVYRAQVNC</span><span class="topo-membrane">SEYFPLFLATLWVAG</span><span class="topo-outside">IFFHEGA</span><span class="topo-membrane">AALCGLVYLFARLR</span><span class="topo-inside">YFQGYARSAQLRLAP</span><span class="topo-membrane">LYASARA</span></span>
+<span class="topo-ruler">       130       140       150      </span>
 <span class="topo-line"><span class="topo-membrane">LWLLVALAAL</span><span class="topo-unknown">GLLAHFLPAALRAALLGRL</span><span class="topo-outside">RT</span><span class="topo-unknown">LLPWA</span></span>
+<details class="topo-details"><summary>Topology coordinates (12 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -855,6 +875,7 @@ Leukotriene C4 synthase (LTC4S) is a membrane-bound enzyme in the MAPEG (Membran
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -870,9 +891,11 @@ Leukotriene C4 synthase (LTC4S) is a membrane-bound enzyme in the MAPEG (Membran
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">HHHHHHKDEVALL</span><span class="topo-membrane">AAVTLLGVLLQAYF</span><span class="topo-inside">SLQVISARRAFRVSPPLTTGPPEFERVYRAQV</span></span>
-<span class="topo-line"><span class="topo-inside">NC</span><span class="topo-membrane">SEYFPLFLATLWVAG</span><span class="topo-outside">IFFHEGA</span><span class="topo-membrane">AALCGLVYLFARLR</span><span class="topo-inside">YFQGYARSAQLRLAP</span><span class="topo-membrane">LYASARA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">HHHHHHKDEVALL</span><span class="topo-membrane">AAVTLLGVLLQAYF</span><span class="topo-inside">SLQVISARRAFRVSPPLTTGPPEFERVYRAQVNC</span><span class="topo-membrane">SEYFPLFLATLWVAG</span><span class="topo-outside">IFFHEGA</span><span class="topo-membrane">AALCGLVYLFARLR</span><span class="topo-inside">YFQGYARSAQLRLAP</span><span class="topo-membrane">LYASARA</span></span>
+<span class="topo-ruler">       130       140       150      </span>
 <span class="topo-line"><span class="topo-membrane">LWLLVALAAL</span><span class="topo-unknown">GLLAHFLPAALRAALLGRL</span><span class="topo-outside">RT</span><span class="topo-unknown">LLPWA</span></span>
+<details class="topo-details"><summary>Topology coordinates (12 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -968,6 +991,7 @@ Leukotriene C4 synthase (LTC4S) is a membrane-bound enzyme in the MAPEG (Membran
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -983,9 +1007,11 @@ Leukotriene C4 synthase (LTC4S) is a membrane-bound enzyme in the MAPEG (Membran
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">HHHHHHKDEVALL</span><span class="topo-membrane">AAVTLLGVLLQAYF</span><span class="topo-inside">SLQVISARRAFRVSPPLTTGPPEFERVYRAQV</span></span>
-<span class="topo-line"><span class="topo-inside">NC</span><span class="topo-membrane">SEYFPLFLATLWVAG</span><span class="topo-outside">IFFHEGA</span><span class="topo-membrane">AALCGLVYLFARLR</span><span class="topo-inside">YFQGYARSAQLRLAP</span><span class="topo-membrane">LYASARA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">HHHHHHKDEVALL</span><span class="topo-membrane">AAVTLLGVLLQAYF</span><span class="topo-inside">SLQVISARRAFRVSPPLTTGPPEFERVYRAQVNC</span><span class="topo-membrane">SEYFPLFLATLWVAG</span><span class="topo-outside">IFFHEGA</span><span class="topo-membrane">AALCGLVYLFARLR</span><span class="topo-inside">YFQGYARSAQLRLAP</span><span class="topo-membrane">LYASARA</span></span>
+<span class="topo-ruler">       130       140       150      </span>
 <span class="topo-line"><span class="topo-membrane">LWLLVALAAL</span><span class="topo-unknown">GLLAHFLPAALRAALLGRL</span><span class="topo-outside">RT</span><span class="topo-unknown">LLPWA</span></span>
+<details class="topo-details"><summary>Topology coordinates (12 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1081,6 +1107,7 @@ Leukotriene C4 synthase (LTC4S) is a membrane-bound enzyme in the MAPEG (Membran
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1218,9 +1245,11 @@ Leukotriene C4 synthase (LTC4S) is a membrane-bound enzyme in the MAPEG (Membran
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MHHHH</span><span class="topo-outside">HHKDEVAL</span><span class="topo-membrane">LAAVTLLGVLLQAYFSLQ</span><span class="topo-inside">VISARRAFRVSPPLTTGPPEFERVYRA</span><span class="topo-membrane">QV</span></span>
-<span class="topo-line"><span class="topo-membrane">NCSEYFPLFLATLWVAG</span><span class="topo-outside">IFFHEGA</span><span class="topo-membrane">AALCGLVYLFARLRYFQG</span><span class="topo-inside">YARSAQLR</span><span class="topo-membrane">LAPLYASARA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MHHHH</span><span class="topo-outside">HHKDEVAL</span><span class="topo-membrane">LAAVTLLGVLLQAYFSLQ</span><span class="topo-inside">VISARRAFRVSPPLTTGPPEFERVYRA</span><span class="topo-membrane">QVNCSEYFPLFLATLWVAG</span><span class="topo-outside">IFFHEGA</span><span class="topo-membrane">AALCGLVYLFARLRYFQG</span><span class="topo-inside">YARSAQLR</span><span class="topo-membrane">LAPLYASARA</span></span>
+<span class="topo-ruler">       130       140       150      </span>
 <span class="topo-line"><span class="topo-membrane">LWLLVALAAL</span><span class="topo-outside">GLLAHFLPAALRAALLGRLRTL</span><span class="topo-unknown">LPWA</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1309,6 +1338,7 @@ Leukotriene C4 synthase (LTC4S) is a membrane-bound enzyme in the MAPEG (Membran
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1324,9 +1354,11 @@ Leukotriene C4 synthase (LTC4S) is a membrane-bound enzyme in the MAPEG (Membran
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MHHHH</span><span class="topo-outside">HHKDEVAL</span><span class="topo-membrane">LAAVTLLGVLLQAYFSLQ</span><span class="topo-inside">VISARRAFRVSPPLTTGPPEFERVYRA</span><span class="topo-membrane">QV</span></span>
-<span class="topo-line"><span class="topo-membrane">NCSEYFPLFLATLWVAG</span><span class="topo-outside">IFFHEGA</span><span class="topo-membrane">AALCGLVYLFARLRYFQG</span><span class="topo-inside">YARSAQLR</span><span class="topo-membrane">LAPLYASARA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MHHHH</span><span class="topo-outside">HHKDEVAL</span><span class="topo-membrane">LAAVTLLGVLLQAYFSLQ</span><span class="topo-inside">VISARRAFRVSPPLTTGPPEFERVYRA</span><span class="topo-membrane">QVNCSEYFPLFLATLWVAG</span><span class="topo-outside">IFFHEGA</span><span class="topo-membrane">AALCGLVYLFARLRYFQG</span><span class="topo-inside">YARSAQLR</span><span class="topo-membrane">LAPLYASARA</span></span>
+<span class="topo-ruler">       130       140       150      </span>
 <span class="topo-line"><span class="topo-membrane">LWLLVALAAL</span><span class="topo-outside">GLLAHFLPAALRAALLGRLRTL</span><span class="topo-unknown">LPWA</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1415,6 +1447,7 @@ Leukotriene C4 synthase (LTC4S) is a membrane-bound enzyme in the MAPEG (Membran
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1430,9 +1463,11 @@ Leukotriene C4 synthase (LTC4S) is a membrane-bound enzyme in the MAPEG (Membran
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MHHHH</span><span class="topo-outside">HHKDEVAL</span><span class="topo-membrane">LAAVTLLGVLLQAYFSLQ</span><span class="topo-inside">VISARRAFRVSPPLTTGPPEFERVYRA</span><span class="topo-membrane">QV</span></span>
-<span class="topo-line"><span class="topo-membrane">NCSEYFPLFLATLWVAG</span><span class="topo-outside">IFFHEGA</span><span class="topo-membrane">AALCGLVYLFARLRYFQG</span><span class="topo-inside">YARSAQLR</span><span class="topo-membrane">LAPLYASARA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MHHHH</span><span class="topo-outside">HHKDEVAL</span><span class="topo-membrane">LAAVTLLGVLLQAYFSLQ</span><span class="topo-inside">VISARRAFRVSPPLTTGPPEFERVYRA</span><span class="topo-membrane">QVNCSEYFPLFLATLWVAG</span><span class="topo-outside">IFFHEGA</span><span class="topo-membrane">AALCGLVYLFARLRYFQG</span><span class="topo-inside">YARSAQLR</span><span class="topo-membrane">LAPLYASARA</span></span>
+<span class="topo-ruler">       130       140       150      </span>
 <span class="topo-line"><span class="topo-membrane">LWLLVALAAL</span><span class="topo-outside">GLLAHFLPAALRAALLGRLRTL</span><span class="topo-unknown">LPWA</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1521,6 +1556,7 @@ Leukotriene C4 synthase (LTC4S) is a membrane-bound enzyme in the MAPEG (Membran
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1536,9 +1572,11 @@ Leukotriene C4 synthase (LTC4S) is a membrane-bound enzyme in the MAPEG (Membran
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MHHHH</span><span class="topo-outside">HHKDEVAL</span><span class="topo-membrane">LAAVTLLGVLLQAYFSLQ</span><span class="topo-inside">VISARRAFRVSPPLTTGPPEFERVYRA</span><span class="topo-membrane">QV</span></span>
-<span class="topo-line"><span class="topo-membrane">NCSEYFPLFLATLWVAG</span><span class="topo-outside">IFFHEGA</span><span class="topo-membrane">AALCGLVYLFARLRYFQG</span><span class="topo-inside">YARSAQLR</span><span class="topo-membrane">LAPLYASARA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MHHHH</span><span class="topo-outside">HHKDEVAL</span><span class="topo-membrane">LAAVTLLGVLLQAYFSLQ</span><span class="topo-inside">VISARRAFRVSPPLTTGPPEFERVYRA</span><span class="topo-membrane">QVNCSEYFPLFLATLWVAG</span><span class="topo-outside">IFFHEGA</span><span class="topo-membrane">AALCGLVYLFARLRYFQG</span><span class="topo-inside">YARSAQLR</span><span class="topo-membrane">LAPLYASARA</span></span>
+<span class="topo-ruler">       130       140       150      </span>
 <span class="topo-line"><span class="topo-membrane">LWLLVALAAL</span><span class="topo-outside">GLLAHFLPAALRAALLGRLRTL</span><span class="topo-unknown">LPWA</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1627,6 +1665,7 @@ Leukotriene C4 synthase (LTC4S) is a membrane-bound enzyme in the MAPEG (Membran
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1642,9 +1681,11 @@ Leukotriene C4 synthase (LTC4S) is a membrane-bound enzyme in the MAPEG (Membran
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MHHHH</span><span class="topo-outside">HHKDEVAL</span><span class="topo-membrane">LAAVTLLGVLLQAYFSLQ</span><span class="topo-inside">VISARRAFRVSPPLTTGPPEFERVYRA</span><span class="topo-membrane">QV</span></span>
-<span class="topo-line"><span class="topo-membrane">NCSEYFPLFLATLWVAG</span><span class="topo-outside">IFFHEGA</span><span class="topo-membrane">AALCGLVYLFARLRYFQG</span><span class="topo-inside">YARSAQLR</span><span class="topo-membrane">LAPLYASARA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MHHHH</span><span class="topo-outside">HHKDEVAL</span><span class="topo-membrane">LAAVTLLGVLLQAYFSLQ</span><span class="topo-inside">VISARRAFRVSPPLTTGPPEFERVYRA</span><span class="topo-membrane">QVNCSEYFPLFLATLWVAG</span><span class="topo-outside">IFFHEGA</span><span class="topo-membrane">AALCGLVYLFARLRYFQG</span><span class="topo-inside">YARSAQLR</span><span class="topo-membrane">LAPLYASARA</span></span>
+<span class="topo-ruler">       130       140       150      </span>
 <span class="topo-line"><span class="topo-membrane">LWLLVALAAL</span><span class="topo-outside">GLLAHFLPAALRAALLGRLRTL</span><span class="topo-unknown">LPWA</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1733,6 +1774,7 @@ Leukotriene C4 synthase (LTC4S) is a membrane-bound enzyme in the MAPEG (Membran
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1748,9 +1790,11 @@ Leukotriene C4 synthase (LTC4S) is a membrane-bound enzyme in the MAPEG (Membran
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MHHHH</span><span class="topo-outside">HHKDEVAL</span><span class="topo-membrane">LAAVTLLGVLLQAYFSLQ</span><span class="topo-inside">VISARRAFRVSPPLTTGPPEFERVYRA</span><span class="topo-membrane">QV</span></span>
-<span class="topo-line"><span class="topo-membrane">NCSEYFPLFLATLWVAG</span><span class="topo-outside">IFFHEGA</span><span class="topo-membrane">AALCGLVYLFARLRYFQG</span><span class="topo-inside">YARSAQLR</span><span class="topo-membrane">LAPLYASARA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MHHHH</span><span class="topo-outside">HHKDEVAL</span><span class="topo-membrane">LAAVTLLGVLLQAYFSLQ</span><span class="topo-inside">VISARRAFRVSPPLTTGPPEFERVYRA</span><span class="topo-membrane">QVNCSEYFPLFLATLWVAG</span><span class="topo-outside">IFFHEGA</span><span class="topo-membrane">AALCGLVYLFARLRYFQG</span><span class="topo-inside">YARSAQLR</span><span class="topo-membrane">LAPLYASARA</span></span>
+<span class="topo-ruler">       130       140       150      </span>
 <span class="topo-line"><span class="topo-membrane">LWLLVALAAL</span><span class="topo-outside">GLLAHFLPAALRAALLGRLRTL</span><span class="topo-unknown">LPWA</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1839,6 +1883,7 @@ Leukotriene C4 synthase (LTC4S) is a membrane-bound enzyme in the MAPEG (Membran
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1854,9 +1899,11 @@ Leukotriene C4 synthase (LTC4S) is a membrane-bound enzyme in the MAPEG (Membran
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MHHHH</span><span class="topo-outside">HHKDEVAL</span><span class="topo-membrane">LAAVTLLGVLLQAYFSLQ</span><span class="topo-inside">VISARRAFRVSPPLTTGPPEFERVYRA</span><span class="topo-membrane">QV</span></span>
-<span class="topo-line"><span class="topo-membrane">NCSEYFPLFLATLWVAG</span><span class="topo-outside">IFFHEGA</span><span class="topo-membrane">AALCGLVYLFARLRYFQG</span><span class="topo-inside">YARSAQLR</span><span class="topo-membrane">LAPLYASARA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MHHHH</span><span class="topo-outside">HHKDEVAL</span><span class="topo-membrane">LAAVTLLGVLLQAYFSLQ</span><span class="topo-inside">VISARRAFRVSPPLTTGPPEFERVYRA</span><span class="topo-membrane">QVNCSEYFPLFLATLWVAG</span><span class="topo-outside">IFFHEGA</span><span class="topo-membrane">AALCGLVYLFARLRYFQG</span><span class="topo-inside">YARSAQLR</span><span class="topo-membrane">LAPLYASARA</span></span>
+<span class="topo-ruler">       130       140       150      </span>
 <span class="topo-line"><span class="topo-membrane">LWLLVALAAL</span><span class="topo-outside">GLLAHFLPAALRAALLGRLRTL</span><span class="topo-unknown">LPWA</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1945,6 +1992,7 @@ Leukotriene C4 synthase (LTC4S) is a membrane-bound enzyme in the MAPEG (Membran
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1960,9 +2008,11 @@ Leukotriene C4 synthase (LTC4S) is a membrane-bound enzyme in the MAPEG (Membran
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MHHHH</span><span class="topo-outside">HHKDEVAL</span><span class="topo-membrane">LAAVTLLGVLLQAYFSLQ</span><span class="topo-inside">VISARRAFRVSPPLTTGPPEFERVYRA</span><span class="topo-membrane">QV</span></span>
-<span class="topo-line"><span class="topo-membrane">NCSEYFPLFLATLWVAG</span><span class="topo-outside">IFFHEGA</span><span class="topo-membrane">AALCGLVYLFARLRYFQG</span><span class="topo-inside">YARSAQLR</span><span class="topo-membrane">LAPLYASARA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MHHHH</span><span class="topo-outside">HHKDEVAL</span><span class="topo-membrane">LAAVTLLGVLLQAYFSLQ</span><span class="topo-inside">VISARRAFRVSPPLTTGPPEFERVYRA</span><span class="topo-membrane">QVNCSEYFPLFLATLWVAG</span><span class="topo-outside">IFFHEGA</span><span class="topo-membrane">AALCGLVYLFARLRYFQG</span><span class="topo-inside">YARSAQLR</span><span class="topo-membrane">LAPLYASARA</span></span>
+<span class="topo-ruler">       130       140       150      </span>
 <span class="topo-line"><span class="topo-membrane">LWLLVALAAL</span><span class="topo-outside">GLLAHFLPAALRAALLGRLRTL</span><span class="topo-unknown">LPWA</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2051,6 +2101,7 @@ Leukotriene C4 synthase (LTC4S) is a membrane-bound enzyme in the MAPEG (Membran
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2066,9 +2117,11 @@ Leukotriene C4 synthase (LTC4S) is a membrane-bound enzyme in the MAPEG (Membran
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MHHHH</span><span class="topo-outside">HHKDEVAL</span><span class="topo-membrane">LAAVTLLGVLLQAYFSLQ</span><span class="topo-inside">VISARRAFRVSPPLTTGPPEFERVYRA</span><span class="topo-membrane">QV</span></span>
-<span class="topo-line"><span class="topo-membrane">NCSEYFPLFLATLWVAG</span><span class="topo-outside">IFFHEGA</span><span class="topo-membrane">AALCGLVYLFARLRYFQG</span><span class="topo-inside">YARSAQLR</span><span class="topo-membrane">LAPLYASARA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MHHHH</span><span class="topo-outside">HHKDEVAL</span><span class="topo-membrane">LAAVTLLGVLLQAYFSLQ</span><span class="topo-inside">VISARRAFRVSPPLTTGPPEFERVYRA</span><span class="topo-membrane">QVNCSEYFPLFLATLWVAG</span><span class="topo-outside">IFFHEGA</span><span class="topo-membrane">AALCGLVYLFARLRYFQG</span><span class="topo-inside">YARSAQLR</span><span class="topo-membrane">LAPLYASARA</span></span>
+<span class="topo-ruler">       130       140       150      </span>
 <span class="topo-line"><span class="topo-membrane">LWLLVALAAL</span><span class="topo-outside">GLLAHFLPAALRAALLGRLRTL</span><span class="topo-unknown">LPWA</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2157,6 +2210,7 @@ Leukotriene C4 synthase (LTC4S) is a membrane-bound enzyme in the MAPEG (Membran
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2172,9 +2226,11 @@ Leukotriene C4 synthase (LTC4S) is a membrane-bound enzyme in the MAPEG (Membran
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MHHHH</span><span class="topo-outside">HHKDEVAL</span><span class="topo-membrane">LAAVTLLGVLLQAYFSLQ</span><span class="topo-inside">VISARRAFRVSPPLTTGPPEFERVYRA</span><span class="topo-membrane">QV</span></span>
-<span class="topo-line"><span class="topo-membrane">NCSEYFPLFLATLWVAG</span><span class="topo-outside">IFFHEGA</span><span class="topo-membrane">AALCGLVYLFARLRYFQG</span><span class="topo-inside">YARSAQLR</span><span class="topo-membrane">LAPLYASARA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MHHHH</span><span class="topo-outside">HHKDEVAL</span><span class="topo-membrane">LAAVTLLGVLLQAYFSLQ</span><span class="topo-inside">VISARRAFRVSPPLTTGPPEFERVYRA</span><span class="topo-membrane">QVNCSEYFPLFLATLWVAG</span><span class="topo-outside">IFFHEGA</span><span class="topo-membrane">AALCGLVYLFARLRYFQG</span><span class="topo-inside">YARSAQLR</span><span class="topo-membrane">LAPLYASARA</span></span>
+<span class="topo-ruler">       130       140       150      </span>
 <span class="topo-line"><span class="topo-membrane">LWLLVALAAL</span><span class="topo-outside">GLLAHFLPAALRAALLGRLRTL</span><span class="topo-unknown">LPWA</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2263,6 +2319,7 @@ Leukotriene C4 synthase (LTC4S) is a membrane-bound enzyme in the MAPEG (Membran
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2278,9 +2335,11 @@ Leukotriene C4 synthase (LTC4S) is a membrane-bound enzyme in the MAPEG (Membran
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MHHHH</span><span class="topo-outside">HHKDEVAL</span><span class="topo-membrane">LAAVTLLGVLLQAYFSLQ</span><span class="topo-inside">VISARRAFRVSPPLTTGPPEFERVYRA</span><span class="topo-membrane">QV</span></span>
-<span class="topo-line"><span class="topo-membrane">NCSEYFPLFLATLWVAG</span><span class="topo-outside">IFFHEGA</span><span class="topo-membrane">AALCGLVYLFARLRYFQG</span><span class="topo-inside">YARSAQLR</span><span class="topo-membrane">LAPLYASARA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MHHHH</span><span class="topo-outside">HHKDEVAL</span><span class="topo-membrane">LAAVTLLGVLLQAYFSLQ</span><span class="topo-inside">VISARRAFRVSPPLTTGPPEFERVYRA</span><span class="topo-membrane">QVNCSEYFPLFLATLWVAG</span><span class="topo-outside">IFFHEGA</span><span class="topo-membrane">AALCGLVYLFARLRYFQG</span><span class="topo-inside">YARSAQLR</span><span class="topo-membrane">LAPLYASARA</span></span>
+<span class="topo-ruler">       130       140       150      </span>
 <span class="topo-line"><span class="topo-membrane">LWLLVALAAL</span><span class="topo-outside">GLLAHFLPAALRAALLGRLRTL</span><span class="topo-unknown">LPWA</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2369,6 +2428,7 @@ Leukotriene C4 synthase (LTC4S) is a membrane-bound enzyme in the MAPEG (Membran
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2384,9 +2444,11 @@ Leukotriene C4 synthase (LTC4S) is a membrane-bound enzyme in the MAPEG (Membran
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MHHHH</span><span class="topo-outside">HHKDEVAL</span><span class="topo-membrane">LAAVTLLGVLLQAYFSLQ</span><span class="topo-inside">VISARRAFRVSPPLTTGPPEFERVYRA</span><span class="topo-membrane">QV</span></span>
-<span class="topo-line"><span class="topo-membrane">NCSEYFPLFLATLWVAG</span><span class="topo-outside">IFFHEGA</span><span class="topo-membrane">AALCGLVYLFARLRYFQG</span><span class="topo-inside">YARSAQLR</span><span class="topo-membrane">LAPLYASARA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MHHHH</span><span class="topo-outside">HHKDEVAL</span><span class="topo-membrane">LAAVTLLGVLLQAYFSLQ</span><span class="topo-inside">VISARRAFRVSPPLTTGPPEFERVYRA</span><span class="topo-membrane">QVNCSEYFPLFLATLWVAG</span><span class="topo-outside">IFFHEGA</span><span class="topo-membrane">AALCGLVYLFARLRYFQG</span><span class="topo-inside">YARSAQLR</span><span class="topo-membrane">LAPLYASARA</span></span>
+<span class="topo-ruler">       130       140       150      </span>
 <span class="topo-line"><span class="topo-membrane">LWLLVALAAL</span><span class="topo-outside">GLLAHFLPAALRAALLGRLRTL</span><span class="topo-unknown">LPWA</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2475,6 +2537,7 @@ Leukotriene C4 synthase (LTC4S) is a membrane-bound enzyme in the MAPEG (Membran
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2490,9 +2553,11 @@ Leukotriene C4 synthase (LTC4S) is a membrane-bound enzyme in the MAPEG (Membran
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MHHHH</span><span class="topo-outside">HHKDEVAL</span><span class="topo-membrane">LAAVTLLGVLLQAYFSLQ</span><span class="topo-inside">VISARRAFRVSPPLTTGPPEFERVYRA</span><span class="topo-membrane">QV</span></span>
-<span class="topo-line"><span class="topo-membrane">NCSEYFPLFLATLWVAG</span><span class="topo-outside">IFFHEGA</span><span class="topo-membrane">AALCGLVYLFARLRYFQG</span><span class="topo-inside">YARSAQLR</span><span class="topo-membrane">LAPLYASARA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MHHHH</span><span class="topo-outside">HHKDEVAL</span><span class="topo-membrane">LAAVTLLGVLLQAYFSLQ</span><span class="topo-inside">VISARRAFRVSPPLTTGPPEFERVYRA</span><span class="topo-membrane">QVNCSEYFPLFLATLWVAG</span><span class="topo-outside">IFFHEGA</span><span class="topo-membrane">AALCGLVYLFARLRYFQG</span><span class="topo-inside">YARSAQLR</span><span class="topo-membrane">LAPLYASARA</span></span>
+<span class="topo-ruler">       130       140       150      </span>
 <span class="topo-line"><span class="topo-membrane">LWLLVALAAL</span><span class="topo-outside">GLLAHFLPAALRAALLGRLRTL</span><span class="topo-unknown">LPWA</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2581,6 +2646,7 @@ Leukotriene C4 synthase (LTC4S) is a membrane-bound enzyme in the MAPEG (Membran
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2596,9 +2662,11 @@ Leukotriene C4 synthase (LTC4S) is a membrane-bound enzyme in the MAPEG (Membran
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MHHHH</span><span class="topo-outside">HHKDEVAL</span><span class="topo-membrane">LAAVTLLGVLLQAYFSLQ</span><span class="topo-inside">VISARRAFRVSPPLTTGPPEFERVYRA</span><span class="topo-membrane">QV</span></span>
-<span class="topo-line"><span class="topo-membrane">NCSEYFPLFLATLWVAG</span><span class="topo-outside">IFFHEGA</span><span class="topo-membrane">AALCGLVYLFARLRYFQG</span><span class="topo-inside">YARSAQLR</span><span class="topo-membrane">LAPLYASARA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MHHHH</span><span class="topo-outside">HHKDEVAL</span><span class="topo-membrane">LAAVTLLGVLLQAYFSLQ</span><span class="topo-inside">VISARRAFRVSPPLTTGPPEFERVYRA</span><span class="topo-membrane">QVNCSEYFPLFLATLWVAG</span><span class="topo-outside">IFFHEGA</span><span class="topo-membrane">AALCGLVYLFARLRYFQG</span><span class="topo-inside">YARSAQLR</span><span class="topo-membrane">LAPLYASARA</span></span>
+<span class="topo-ruler">       130       140       150      </span>
 <span class="topo-line"><span class="topo-membrane">LWLLVALAAL</span><span class="topo-outside">GLLAHFLPAALRAALLGRLRTL</span><span class="topo-unknown">LPWA</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2687,6 +2755,7 @@ Leukotriene C4 synthase (LTC4S) is a membrane-bound enzyme in the MAPEG (Membran
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2702,9 +2771,11 @@ Leukotriene C4 synthase (LTC4S) is a membrane-bound enzyme in the MAPEG (Membran
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MHHHH</span><span class="topo-outside">HHKDEVAL</span><span class="topo-membrane">LAAVTLLGVLLQAYFSLQ</span><span class="topo-inside">VISARRAFRVSPPLTTGPPEFERVYRA</span><span class="topo-membrane">QV</span></span>
-<span class="topo-line"><span class="topo-membrane">NCSEYFPLFLATLWVAG</span><span class="topo-outside">IFFHEGA</span><span class="topo-membrane">AALCGLVYLFARLRYFQG</span><span class="topo-inside">YARSAQLR</span><span class="topo-membrane">LAPLYASARA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MHHHH</span><span class="topo-outside">HHKDEVAL</span><span class="topo-membrane">LAAVTLLGVLLQAYFSLQ</span><span class="topo-inside">VISARRAFRVSPPLTTGPPEFERVYRA</span><span class="topo-membrane">QVNCSEYFPLFLATLWVAG</span><span class="topo-outside">IFFHEGA</span><span class="topo-membrane">AALCGLVYLFARLRYFQG</span><span class="topo-inside">YARSAQLR</span><span class="topo-membrane">LAPLYASARA</span></span>
+<span class="topo-ruler">       130       140       150      </span>
 <span class="topo-line"><span class="topo-membrane">LWLLVALAAL</span><span class="topo-outside">GLLAHFLPAALRAALLGRLRTL</span><span class="topo-unknown">LPWA</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2793,6 +2864,7 @@ Leukotriene C4 synthase (LTC4S) is a membrane-bound enzyme in the MAPEG (Membran
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

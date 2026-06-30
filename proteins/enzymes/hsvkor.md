@@ -211,13 +211,15 @@ Human [Vitamin K](/xray-mp-wiki/reagents/cofactors/vitamin-k/) epoxide reductase
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MS</span><span class="topo-inside">KGEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATNGKLTLKFICTTGKLPVPWPTL</span></span>
-<span class="topo-line"><span class="topo-inside">VTTL</span><span class="topo-unknown">G</span><span class="topo-inside">VQCFSRYPDHMKRHDFFKSAMPEGYVQERTISFKDDGTYKTRAEVKFEGDTLVNR</span></span>
-<span class="topo-line"><span class="topo-inside">IELKGIDFKEDGNILGHKLEYNSTWGS</span><span class="topo-membrane">PGWVRLALCLTGLVLSL</span><span class="topo-outside">YALHVKAARARDRDYR</span></span>
-<span class="topo-line"><span class="topo-outside">ALCDVGTAISCSRVFSSRWGRGFGLVEHVLGQDSILNQSN</span><span class="topo-membrane">SIFGCIFYTLQLLLGCL</span><span class="topo-inside">RTR</span></span>
-<span class="topo-line"><span class="topo-inside">W</span><span class="topo-membrane">ASVLMLLSSLVSLAGSVYLAW</span><span class="topo-outside">ILFFVLYDFCIV</span><span class="topo-membrane">CITTYAINVSLMWLSFRKV</span><span class="topo-inside">QENSHNV</span></span>
-<span class="topo-line"><span class="topo-inside">YITADKQKNGIKANFKIRHNVEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQSVLSKD</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MS</span><span class="topo-inside">KGEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATNGKLTLKFICTTGKLPVPWPTLVTTL</span><span class="topo-unknown">G</span><span class="topo-inside">VQCFSRYPDHMKRHDFFKSAMPEGYVQERTISFKDDGTYKTRAEVKFEGDTLVNR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">IELKGIDFKEDGNILGHKLEYNSTWGS</span><span class="topo-membrane">PGWVRLALCLTGLVLSL</span><span class="topo-outside">YALHVKAARARDRDYRALCDVGTAISCSRVFSSRWGRGFGLVEHVLGQDSILNQSN</span><span class="topo-membrane">SIFGCIFYTLQLLLGCL</span><span class="topo-inside">RTR</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">W</span><span class="topo-membrane">ASVLMLLSSLVSLAGSVYLAW</span><span class="topo-outside">ILFFVLYDFCIV</span><span class="topo-membrane">CITTYAINVSLMWLSFRKV</span><span class="topo-inside">QENSHNVYITADKQKNGIKANFKIRHNVEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQSVLSKD</span></span>
+<span class="topo-ruler">       370       380       390</span>
 <span class="topo-line"><span class="topo-inside">PNEKRDHMVLLEFVTAAGITHHH</span><span class="topo-unknown">HHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (10 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -299,6 +301,7 @@ Human [Vitamin K](/xray-mp-wiki/reagents/cofactors/vitamin-k/) epoxide reductase
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -314,13 +317,15 @@ Human [Vitamin K](/xray-mp-wiki/reagents/cofactors/vitamin-k/) epoxide reductase
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">SKGEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATNGKLTLKFICTTGKLPVPWPTL</span></span>
-<span class="topo-line"><span class="topo-outside">VTTL</span><span class="topo-unknown">G</span><span class="topo-outside">VQCFSRYPDHMKRHDFFKSAMPEGYVQERTISFKDDGTYKTRAEVKFEGDTLVNR</span></span>
-<span class="topo-line"><span class="topo-outside">IELKGIDFKEDGNILGHKLEYNSTWGS</span><span class="topo-membrane">PGWVRLALCLTGLVLSLYALHVKA</span><span class="topo-inside">ARARDRDYR</span></span>
-<span class="topo-line"><span class="topo-inside">ALCDVGTAISCSRVFSSRWGRGFGLV</span><span class="topo-membrane">EHVLGQDSILNQSNSIFGCIFYTLQLLLGCL</span><span class="topo-outside">RTR</span></span>
-<span class="topo-line"><span class="topo-outside">W</span><span class="topo-membrane">ASVLMLLSSLVSLAGSVYLAWILFF</span><span class="topo-inside">VLYDF</span><span class="topo-membrane">CIVCITTYAINVSLMWLSFRKVQ</span><span class="topo-outside">ENSHNV</span></span>
-<span class="topo-line"><span class="topo-outside">YITADKQKNGIKANFKIRHNVEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQSVLSKD</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">SKGEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATNGKLTLKFICTTGKLPVPWPTLVTTL</span><span class="topo-unknown">G</span><span class="topo-outside">VQCFSRYPDHMKRHDFFKSAMPEGYVQERTISFKDDGTYKTRAEVKFEGDTLVNR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">IELKGIDFKEDGNILGHKLEYNSTWGS</span><span class="topo-membrane">PGWVRLALCLTGLVLSLYALHVKA</span><span class="topo-inside">ARARDRDYRALCDVGTAISCSRVFSSRWGRGFGLV</span><span class="topo-membrane">EHVLGQDSILNQSNSIFGCIFYTLQLLLGCL</span><span class="topo-outside">RTR</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">W</span><span class="topo-membrane">ASVLMLLSSLVSLAGSVYLAWILFF</span><span class="topo-inside">VLYDF</span><span class="topo-membrane">CIVCITTYAINVSLMWLSFRKVQ</span><span class="topo-outside">ENSHNVYITADKQKNGIKANFKIRHNVEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQSVLSKD</span></span>
+<span class="topo-ruler">       370       380       390</span>
 <span class="topo-line"><span class="topo-outside">PNEKRDHMVLLEFVTAAGITHHH</span><span class="topo-unknown">HHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (10 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -402,6 +407,7 @@ Human [Vitamin K](/xray-mp-wiki/reagents/cofactors/vitamin-k/) epoxide reductase
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -417,13 +423,15 @@ Human [Vitamin K](/xray-mp-wiki/reagents/cofactors/vitamin-k/) epoxide reductase
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">SKGEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATNGKLTLKFICTTGKLPVPWPTL</span></span>
-<span class="topo-line"><span class="topo-inside">VTTL</span><span class="topo-unknown">G</span><span class="topo-inside">VQCFSRYPDHMKRHDFFKSAMPEGYVQERTISFKDDGTYKTRAEVKFEGDTLVNR</span></span>
-<span class="topo-line"><span class="topo-inside">IELKGIDFKEDGNILGHKLEYNSTWGS</span><span class="topo-membrane">PGWVRLALCLTGLVLSLYALHVKA</span><span class="topo-outside">ARARDRDYR</span></span>
-<span class="topo-line"><span class="topo-outside">ALCDVGTAIS</span><span class="topo-unknown">CSRVFS</span><span class="topo-outside">SRWGRGFGLV</span><span class="topo-membrane">EHVLGQDSILNQSNSIFGCIFYTLQLLLGCL</span><span class="topo-inside">RTR</span></span>
-<span class="topo-line"><span class="topo-inside">W</span><span class="topo-membrane">ASVLMLLSSLVSLAGSVYLAWILF</span><span class="topo-outside">FVLYDF</span><span class="topo-membrane">CIVCITTYAINVSLMWLSFRKVQ</span><span class="topo-inside">ENSHNV</span></span>
-<span class="topo-line"><span class="topo-inside">YITADKQKNGIKANFKIRHNVEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQSVLSKD</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">SKGEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATNGKLTLKFICTTGKLPVPWPTLVTTL</span><span class="topo-unknown">G</span><span class="topo-inside">VQCFSRYPDHMKRHDFFKSAMPEGYVQERTISFKDDGTYKTRAEVKFEGDTLVNR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">IELKGIDFKEDGNILGHKLEYNSTWGS</span><span class="topo-membrane">PGWVRLALCLTGLVLSLYALHVKA</span><span class="topo-outside">ARARDRDYRALCDVGTAIS</span><span class="topo-unknown">CSRVFS</span><span class="topo-outside">SRWGRGFGLV</span><span class="topo-membrane">EHVLGQDSILNQSNSIFGCIFYTLQLLLGCL</span><span class="topo-inside">RTR</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">W</span><span class="topo-membrane">ASVLMLLSSLVSLAGSVYLAWILF</span><span class="topo-outside">FVLYDF</span><span class="topo-membrane">CIVCITTYAINVSLMWLSFRKVQ</span><span class="topo-inside">ENSHNVYITADKQKNGIKANFKIRHNVEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQSVLSKD</span></span>
+<span class="topo-ruler">       370       380       390</span>
 <span class="topo-line"><span class="topo-inside">PNEKRDHMVLLEFVTAAGITHH</span><span class="topo-unknown">HHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (12 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -519,6 +527,7 @@ Human [Vitamin K](/xray-mp-wiki/reagents/cofactors/vitamin-k/) epoxide reductase
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -534,13 +543,15 @@ Human [Vitamin K](/xray-mp-wiki/reagents/cofactors/vitamin-k/) epoxide reductase
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">SKGEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATNGKLTLKFICTTGKLPVPWPTL</span></span>
-<span class="topo-line"><span class="topo-outside">VTTL</span><span class="topo-unknown">G</span><span class="topo-outside">VQCFSRYPDHMKRHDFFKSAMPEGYVQERTISFKDDGTYKTRAEVKFEGDTLVNR</span></span>
-<span class="topo-line"><span class="topo-outside">IELKGIDFKEDGNILGHKLEYNSTWGS</span><span class="topo-membrane">PGWVRLALCLTGLVLSLYALHV</span><span class="topo-inside">KAARARDRDYR</span></span>
-<span class="topo-line"><span class="topo-inside">ALCDVGTAISCSRVFSSRWGRGFGLV</span><span class="topo-membrane">EHVLGQDSILNQSNSIFGCIFYTLQLLLGCL</span><span class="topo-outside">RTR</span></span>
-<span class="topo-line"><span class="topo-outside">W</span><span class="topo-membrane">ASVLMLLSSLVSLAGSVYLAWIL</span><span class="topo-inside">FFVLYDFC</span><span class="topo-membrane">IVCITTYAINVSLMWLSFRKVQ</span><span class="topo-outside">ENSHNV</span></span>
-<span class="topo-line"><span class="topo-outside">YITADKQKNGIKANFKIRHNVEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQSVLSKD</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">SKGEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATNGKLTLKFICTTGKLPVPWPTLVTTL</span><span class="topo-unknown">G</span><span class="topo-outside">VQCFSRYPDHMKRHDFFKSAMPEGYVQERTISFKDDGTYKTRAEVKFEGDTLVNR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">IELKGIDFKEDGNILGHKLEYNSTWGS</span><span class="topo-membrane">PGWVRLALCLTGLVLSLYALHV</span><span class="topo-inside">KAARARDRDYRALCDVGTAISCSRVFSSRWGRGFGLV</span><span class="topo-membrane">EHVLGQDSILNQSNSIFGCIFYTLQLLLGCL</span><span class="topo-outside">RTR</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">W</span><span class="topo-membrane">ASVLMLLSSLVSLAGSVYLAWIL</span><span class="topo-inside">FFVLYDFC</span><span class="topo-membrane">IVCITTYAINVSLMWLSFRKVQ</span><span class="topo-outside">ENSHNVYITADKQKNGIKANFKIRHNVEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQSVLSKD</span></span>
+<span class="topo-ruler">       370       380       390</span>
 <span class="topo-line"><span class="topo-outside">PNEKRDHMVLLEFVTAAGITHH</span><span class="topo-unknown">HHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (10 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -622,6 +633,7 @@ Human [Vitamin K](/xray-mp-wiki/reagents/cofactors/vitamin-k/) epoxide reductase
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -637,13 +649,15 @@ Human [Vitamin K](/xray-mp-wiki/reagents/cofactors/vitamin-k/) epoxide reductase
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">SKGEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATNGKLTLKFICT</span><span class="topo-unknown">T</span><span class="topo-inside">GKLPVPWPTL</span></span>
-<span class="topo-line"><span class="topo-inside">VTTL</span><span class="topo-unknown">G</span><span class="topo-inside">VQCFSRYPDHMKRHDFFKSAMPEGYVQERTISFKDDGTYKTRAEVKFEGDTLVNR</span></span>
-<span class="topo-line"><span class="topo-inside">IELKGIDFKEDGNILGHKLEYNSTWGS</span><span class="topo-membrane">PGWVRLALCLTGLVLSLYAL</span><span class="topo-outside">HVKAA</span><span class="topo-unknown">RARDRDYR</span></span>
-<span class="topo-line"><span class="topo-unknown">ALSDV</span><span class="topo-outside">GTAISCSRVFSSRWGRGFGLVEHVLGQDS</span><span class="topo-membrane">ILNQSNSIFGCIFYTLQLLLGCL</span><span class="topo-inside">RTR</span></span>
-<span class="topo-line"><span class="topo-inside">W</span><span class="topo-membrane">ASVLMLLSSLVSLAGSVYLA</span><span class="topo-outside">WILFFVLYDFCIV</span><span class="topo-membrane">CITTYAINVSLMWLSFRKVQ</span><span class="topo-inside">ENSHNV</span></span>
-<span class="topo-line"><span class="topo-inside">YITADKQKNGIKANFKIRHNVEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQSVLSKD</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">SKGEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATNGKLTLKFICT</span><span class="topo-unknown">T</span><span class="topo-inside">GKLPVPWPTLVTTL</span><span class="topo-unknown">G</span><span class="topo-inside">VQCFSRYPDHMKRHDFFKSAMPEGYVQERTISFKDDGTYKTRAEVKFEGDTLVNR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">IELKGIDFKEDGNILGHKLEYNSTWGS</span><span class="topo-membrane">PGWVRLALCLTGLVLSLYAL</span><span class="topo-outside">HVKAA</span><span class="topo-unknown">RARDRDYRALSDV</span><span class="topo-outside">GTAISCSRVFSSRWGRGFGLVEHVLGQDS</span><span class="topo-membrane">ILNQSNSIFGCIFYTLQLLLGCL</span><span class="topo-inside">RTR</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">W</span><span class="topo-membrane">ASVLMLLSSLVSLAGSVYLA</span><span class="topo-outside">WILFFVLYDFCIV</span><span class="topo-membrane">CITTYAINVSLMWLSFRKVQ</span><span class="topo-inside">ENSHNVYITADKQKNGIKANFKIRHNVEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQSVLSKD</span></span>
+<span class="topo-ruler">       370       380       390</span>
 <span class="topo-line"><span class="topo-inside">PNEKRDHMVLLEFVTAAGI</span><span class="topo-unknown">THHHHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (12 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -739,6 +753,7 @@ Human [Vitamin K](/xray-mp-wiki/reagents/cofactors/vitamin-k/) epoxide reductase
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -754,13 +769,15 @@ Human [Vitamin K](/xray-mp-wiki/reagents/cofactors/vitamin-k/) epoxide reductase
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MS</span><span class="topo-inside">KGEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATNGKLTLKFICTTGKLPVPWPTL</span></span>
-<span class="topo-line"><span class="topo-inside">VTTL</span><span class="topo-unknown">G</span><span class="topo-inside">VQCFSRYPDHMKRHDFFKSAMPEGYVQERTISFKDDGTYKTRAEVKFEGDTLVNR</span></span>
-<span class="topo-line"><span class="topo-inside">IELKGIDFKEDGNILGHKLEYNSTWGS</span><span class="topo-membrane">PGWVRLALCLTGLVLSLYALHVKA</span><span class="topo-outside">ARARDRDYR</span></span>
-<span class="topo-line"><span class="topo-unknown">ALSDVGTAI</span><span class="topo-outside">SCSRVFSSRWGRGFGLVEHVLGQDSILNQ</span><span class="topo-membrane">SNSIFGCIFYTLQLLLGCL</span><span class="topo-inside">RTR</span></span>
-<span class="topo-line"><span class="topo-inside">W</span><span class="topo-membrane">ASVLMLLSSLVSLAGSVYLAWILF</span><span class="topo-outside">FVLYDF</span><span class="topo-membrane">CIVCITTYAINVSLMWLSFRKVQ</span><span class="topo-inside">ENSHNV</span></span>
-<span class="topo-line"><span class="topo-inside">YITADKQKNGIKANFKIRHNVEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQSVLSKD</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MS</span><span class="topo-inside">KGEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATNGKLTLKFICTTGKLPVPWPTLVTTL</span><span class="topo-unknown">G</span><span class="topo-inside">VQCFSRYPDHMKRHDFFKSAMPEGYVQERTISFKDDGTYKTRAEVKFEGDTLVNR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">IELKGIDFKEDGNILGHKLEYNSTWGS</span><span class="topo-membrane">PGWVRLALCLTGLVLSLYALHVKA</span><span class="topo-outside">ARARDRDYR</span><span class="topo-unknown">ALSDVGTAI</span><span class="topo-outside">SCSRVFSSRWGRGFGLVEHVLGQDSILNQ</span><span class="topo-membrane">SNSIFGCIFYTLQLLLGCL</span><span class="topo-inside">RTR</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">W</span><span class="topo-membrane">ASVLMLLSSLVSLAGSVYLAWILF</span><span class="topo-outside">FVLYDF</span><span class="topo-membrane">CIVCITTYAINVSLMWLSFRKVQ</span><span class="topo-inside">ENSHNVYITADKQKNGIKANFKIRHNVEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQSVLSKD</span></span>
+<span class="topo-ruler">       370       380       390</span>
 <span class="topo-line"><span class="topo-inside">PNEKRDHMVLLEFVTAAGITHH</span><span class="topo-unknown">HHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -849,6 +866,7 @@ Human [Vitamin K](/xray-mp-wiki/reagents/cofactors/vitamin-k/) epoxide reductase
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

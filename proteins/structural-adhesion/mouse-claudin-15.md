@@ -95,10 +95,11 @@ Mouse claudin-15 (mCldn15) is a tight junction membrane protein belonging to the
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">G</span><span class="topo-outside">SEFMSVA</span><span class="topo-membrane">VETFGFFMSALGLLMLGLTLSNSYW</span><span class="topo-inside">RVST</span><span class="topo-unknown">VHGNVITT</span><span class="topo-inside">NTIFENLWYSCATDS</span></span>
-<span class="topo-line"><span class="topo-inside">LGVSNCWDFP</span><span class="topo-unknown">SMLALS</span><span class="topo-inside">GYVQG</span><span class="topo-membrane">CRALMITAILLGFLGLFLGMVGL</span><span class="topo-outside">RATNVGNMDLSK</span><span class="topo-membrane">KAKL</span></span>
-<span class="topo-line"><span class="topo-membrane">LAIAGTLHILAGACGMVAISWYA</span><span class="topo-inside">VNITTDFFNPLYAGTKYELG</span><span class="topo-membrane">PALYLGWSASLLSILGG</span></span>
-<span class="topo-line"><span class="topo-membrane">ICVFSTAA</span><span class="topo-outside">AS</span><span class="topo-unknown">SKEEPATR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">G</span><span class="topo-outside">SEFMSVA</span><span class="topo-membrane">VETFGFFMSALGLLMLGLTLSNSYW</span><span class="topo-inside">RVST</span><span class="topo-unknown">VHGNVITT</span><span class="topo-inside">NTIFENLWYSCATDSLGVSNCWDFP</span><span class="topo-unknown">SMLALS</span><span class="topo-inside">GYVQG</span><span class="topo-membrane">CRALMITAILLGFLGLFLGMVGL</span><span class="topo-outside">RATNVGNMDLSK</span><span class="topo-membrane">KAKL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190        </span>
+<span class="topo-line"><span class="topo-membrane">LAIAGTLHILAGACGMVAISWYA</span><span class="topo-inside">VNITTDFFNPLYAGTKYELG</span><span class="topo-membrane">PALYLGWSASLLSILGGICVFSTAA</span><span class="topo-outside">AS</span><span class="topo-unknown">SKEEPATR</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -215,6 +216,7 @@ Mouse claudin-15 (mCldn15) is a tight junction membrane protein belonging to the
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

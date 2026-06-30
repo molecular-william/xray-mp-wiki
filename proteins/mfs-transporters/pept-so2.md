@@ -117,15 +117,17 @@ PepT_So2 is a proton-dependent oligopeptide transporter from Shewanella oneidens
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MTLGTNQV</span><span class="topo-inside">SKTHSFMTVS</span><span class="topo-membrane">LIELWERFGYYGMQA</span><span class="topo-outside">LIVYFMVQRLGFDDSRANLVW</span><span class="topo-membrane">SACAAL</span></span>
-<span class="topo-line"><span class="topo-membrane">IYVSPAIGG</span><span class="topo-inside">WVGDKILGTKRT</span><span class="topo-membrane">MLLGAGILSVGYAL</span><span class="topo-outside">MTVPTENTWFMFS</span><span class="topo-membrane">ALGVIVVGNGLF</span></span>
-<span class="topo-line"><span class="topo-membrane">KP</span><span class="topo-inside">NAGNLVRKIYEGDDSKIDSAFTIY</span><span class="topo-membrane">YMAVNVGSTFSMLLT</span><span class="topo-outside">PWIKDYVNAQYGNEFGWHA</span></span>
-<span class="topo-line"><span class="topo-outside">AF</span><span class="topo-membrane">AVCCVGILVGLGNYAL</span><span class="topo-inside">MHKSLANYG</span><span class="topo-unknown">SEPDTRP</span><span class="topo-inside">VNKKSL</span><span class="topo-membrane">AIVLALAALSVVASAIIL</span><span class="topo-outside">EY</span></span>
-<span class="topo-line"><span class="topo-outside">EDV</span><span class="topo-membrane">ARVFVYAAGVAVLGIFFH</span><span class="topo-inside">LIR</span><span class="topo-unknown">TSE</span><span class="topo-inside">PSERAGLIAA</span><span class="topo-membrane">LILTVQTVFFFIFYQQMS</span><span class="topo-outside">TSLAL</span></span>
-<span class="topo-line"><span class="topo-outside">FALRNVDWDF</span><span class="topo-unknown">QVFGTHL</span><span class="topo-outside">WTWSPAQ</span><span class="topo-membrane">FQALNPIWIMVLSPVL</span><span class="topo-inside">AWSYSW</span><span class="topo-unknown">AGRNNK</span><span class="topo-inside">DFSIAA</span><span class="topo-membrane">KF</span></span>
-<span class="topo-line"><span class="topo-membrane">ALGFAVVAIGFFI</span><span class="topo-outside">YGFAGQFAVNGKTSSWVM</span><span class="topo-membrane">IWGYASYSLGELLVS</span><span class="topo-inside">GLGLAMIARY</span><span class="topo-unknown">VPAR</span></span>
-<span class="topo-line"><span class="topo-unknown">MG</span><span class="topo-inside">GFMMG</span><span class="topo-membrane">AYFVASGISQYLGG</span><span class="topo-outside">VVANFASVPQDLVDPLQTLPVYTNLFNKL</span><span class="topo-membrane">GVAAVVCTII</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MTLGTNQV</span><span class="topo-inside">SKTHSFMTVS</span><span class="topo-membrane">LIELWERFGYYGMQA</span><span class="topo-outside">LIVYFMVQRLGFDDSRANLVW</span><span class="topo-membrane">SACAALIYVSPAIGG</span><span class="topo-inside">WVGDKILGTKRT</span><span class="topo-membrane">MLLGAGILSVGYAL</span><span class="topo-outside">MTVPTENTWFMFS</span><span class="topo-membrane">ALGVIVVGNGLF</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">KP</span><span class="topo-inside">NAGNLVRKIYEGDDSKIDSAFTIY</span><span class="topo-membrane">YMAVNVGSTFSMLLT</span><span class="topo-outside">PWIKDYVNAQYGNEFGWHAAF</span><span class="topo-membrane">AVCCVGILVGLGNYAL</span><span class="topo-inside">MHKSLANYG</span><span class="topo-unknown">SEPDTRP</span><span class="topo-inside">VNKKSL</span><span class="topo-membrane">AIVLALAALSVVASAIIL</span><span class="topo-outside">EY</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">EDV</span><span class="topo-membrane">ARVFVYAAGVAVLGIFFH</span><span class="topo-inside">LIR</span><span class="topo-unknown">TSE</span><span class="topo-inside">PSERAGLIAA</span><span class="topo-membrane">LILTVQTVFFFIFYQQMS</span><span class="topo-outside">TSLALFALRNVDWDF</span><span class="topo-unknown">QVFGTHL</span><span class="topo-outside">WTWSPAQ</span><span class="topo-membrane">FQALNPIWIMVLSPVL</span><span class="topo-inside">AWSYSW</span><span class="topo-unknown">AGRNNK</span><span class="topo-inside">DFSIAA</span><span class="topo-membrane">KF</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">ALGFAVVAIGFFI</span><span class="topo-outside">YGFAGQFAVNGKTSSWVM</span><span class="topo-membrane">IWGYASYSLGELLVS</span><span class="topo-inside">GLGLAMIARY</span><span class="topo-unknown">VPARMG</span><span class="topo-inside">GFMMG</span><span class="topo-membrane">AYFVASGISQYLGG</span><span class="topo-outside">VVANFASVPQDLVDPLQTLPVYTNLFNKL</span><span class="topo-membrane">GVAAVVCTII</span></span>
+<span class="topo-ruler">       490       500       510       520   </span>
 <span class="topo-line"><span class="topo-membrane">ALAV</span><span class="topo-inside">LPLMRRLT</span><span class="topo-unknown">ESHHAHSSIENNAAASLRDVKAEQAENLYFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (41 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -424,6 +426,7 @@ PepT_So2 is a proton-dependent oligopeptide transporter from Shewanella oneidens
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -439,15 +442,17 @@ PepT_So2 is a proton-dependent oligopeptide transporter from Shewanella oneidens
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MTLGTNQVS</span><span class="topo-inside">KTHSFMTVS</span><span class="topo-membrane">LIELWERFGYYGMQA</span><span class="topo-outside">LIVYFMVQRLGFDDSRANLVW</span><span class="topo-membrane">SACAAL</span></span>
-<span class="topo-line"><span class="topo-membrane">IYVSPAIGG</span><span class="topo-inside">WVGDKILGTKRT</span><span class="topo-membrane">MLLGAGILSVGYALM</span><span class="topo-outside">TVPTENTWFMFS</span><span class="topo-membrane">ALGVIVVGNGLF</span></span>
-<span class="topo-line"><span class="topo-membrane">KP</span><span class="topo-inside">NAGNLVRKIYEGDDSKIDSAFTIY</span><span class="topo-membrane">YMAVNVGSTFSMLLT</span><span class="topo-outside">PWIKDYVNAQYGNEFGWHA</span></span>
-<span class="topo-line"><span class="topo-outside">AF</span><span class="topo-membrane">AVCCVGILVGLGNYAL</span><span class="topo-inside">MHKSLANYGS</span><span class="topo-unknown">EPDTR</span><span class="topo-inside">PVNKKSL</span><span class="topo-membrane">AIVLALAALSVVASAIIL</span><span class="topo-outside">EY</span></span>
-<span class="topo-line"><span class="topo-outside">EDV</span><span class="topo-membrane">ARVFVYAAGVAVLGIFFH</span><span class="topo-inside">LIRT</span><span class="topo-unknown">SE</span><span class="topo-inside">PSERAGLIAA</span><span class="topo-membrane">LILTVQTVFFFIFYQQMS</span><span class="topo-outside">TSLAL</span></span>
-<span class="topo-line"><span class="topo-outside">FALRNVDWDF</span><span class="topo-unknown">QVFGTH</span><span class="topo-outside">LWTWSPAQ</span><span class="topo-membrane">FQALNPIWIMVLSPVL</span><span class="topo-inside">AWS</span><span class="topo-unknown">YSWAGRNNKDF</span><span class="topo-inside">SIAA</span><span class="topo-membrane">KF</span></span>
-<span class="topo-line"><span class="topo-membrane">ALGFAVVAIGFFI</span><span class="topo-outside">YGFAGQFAVNGKTSSWVMI</span><span class="topo-membrane">WGYASYSLGELLVSGL</span><span class="topo-inside">GLAMIAR</span><span class="topo-unknown">YVPAR</span></span>
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">GGFMMG</span><span class="topo-membrane">AYFVASGISQYLGG</span><span class="topo-outside">VVANFASVPQDLVDPLQTLPVYTNLFNKL</span><span class="topo-membrane">GVAAVVCTII</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MTLGTNQVS</span><span class="topo-inside">KTHSFMTVS</span><span class="topo-membrane">LIELWERFGYYGMQA</span><span class="topo-outside">LIVYFMVQRLGFDDSRANLVW</span><span class="topo-membrane">SACAALIYVSPAIGG</span><span class="topo-inside">WVGDKILGTKRT</span><span class="topo-membrane">MLLGAGILSVGYALM</span><span class="topo-outside">TVPTENTWFMFS</span><span class="topo-membrane">ALGVIVVGNGLF</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">KP</span><span class="topo-inside">NAGNLVRKIYEGDDSKIDSAFTIY</span><span class="topo-membrane">YMAVNVGSTFSMLLT</span><span class="topo-outside">PWIKDYVNAQYGNEFGWHAAF</span><span class="topo-membrane">AVCCVGILVGLGNYAL</span><span class="topo-inside">MHKSLANYGS</span><span class="topo-unknown">EPDTR</span><span class="topo-inside">PVNKKSL</span><span class="topo-membrane">AIVLALAALSVVASAIIL</span><span class="topo-outside">EY</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">EDV</span><span class="topo-membrane">ARVFVYAAGVAVLGIFFH</span><span class="topo-inside">LIRT</span><span class="topo-unknown">SE</span><span class="topo-inside">PSERAGLIAA</span><span class="topo-membrane">LILTVQTVFFFIFYQQMS</span><span class="topo-outside">TSLALFALRNVDWDF</span><span class="topo-unknown">QVFGTH</span><span class="topo-outside">LWTWSPAQ</span><span class="topo-membrane">FQALNPIWIMVLSPVL</span><span class="topo-inside">AWS</span><span class="topo-unknown">YSWAGRNNKDF</span><span class="topo-inside">SIAA</span><span class="topo-membrane">KF</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">ALGFAVVAIGFFI</span><span class="topo-outside">YGFAGQFAVNGKTSSWVMI</span><span class="topo-membrane">WGYASYSLGELLVSGL</span><span class="topo-inside">GLAMIAR</span><span class="topo-unknown">YVPARM</span><span class="topo-inside">GGFMMG</span><span class="topo-membrane">AYFVASGISQYLGG</span><span class="topo-outside">VVANFASVPQDLVDPLQTLPVYTNLFNKL</span><span class="topo-membrane">GVAAVVCTII</span></span>
+<span class="topo-ruler">       490       500       510       520   </span>
 <span class="topo-line"><span class="topo-membrane">ALAV</span><span class="topo-inside">LPLMRRL</span><span class="topo-unknown">TESHHAHSSIENNAAASLRDVKAEQAENLYFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (41 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -746,6 +751,7 @@ PepT_So2 is a proton-dependent oligopeptide transporter from Shewanella oneidens
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -761,15 +767,17 @@ PepT_So2 is a proton-dependent oligopeptide transporter from Shewanella oneidens
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MTLGTNQV</span><span class="topo-inside">SKTHSFMTVS</span><span class="topo-membrane">LIELWERFGYYGMQA</span><span class="topo-outside">LIVYFMVQRLGFDDSRANLVW</span><span class="topo-membrane">SACAAL</span></span>
-<span class="topo-line"><span class="topo-membrane">IYVSPAIGG</span><span class="topo-inside">WVGDKILGTKRT</span><span class="topo-membrane">MLLGAGILSVGYAL</span><span class="topo-outside">MTVPTENTWFMFS</span><span class="topo-membrane">ALGVIVVGNGLF</span></span>
-<span class="topo-line"><span class="topo-membrane">KP</span><span class="topo-inside">NAGNLVRKIYEGDDSKIDSAFTIY</span><span class="topo-membrane">YMAVNVGSTFSMLLT</span><span class="topo-outside">PWIKDYVNAQYGNEFGWHA</span></span>
-<span class="topo-line"><span class="topo-outside">AF</span><span class="topo-membrane">AVCCVGILVGLGNYAL</span><span class="topo-inside">MHKSLANYG</span><span class="topo-unknown">SEPDTRP</span><span class="topo-inside">VNKKSL</span><span class="topo-membrane">AIVLALAALSVVASAIIL</span><span class="topo-outside">EY</span></span>
-<span class="topo-line"><span class="topo-outside">EDV</span><span class="topo-membrane">ARVFVYAAGVAVLGIFFH</span><span class="topo-inside">LIR</span><span class="topo-unknown">TSE</span><span class="topo-inside">PSERAGLIAA</span><span class="topo-membrane">LILTVQTVFFFIFYQQMS</span><span class="topo-outside">TSLAL</span></span>
-<span class="topo-line"><span class="topo-outside">FALRNVDWDF</span><span class="topo-unknown">QVFGTHL</span><span class="topo-outside">WTWSPAQ</span><span class="topo-membrane">FQALNPIWIMVLSPVL</span><span class="topo-inside">AWSYSW</span><span class="topo-unknown">AGRNNK</span><span class="topo-inside">DFSIAA</span><span class="topo-membrane">KF</span></span>
-<span class="topo-line"><span class="topo-membrane">ALGFAVVAIGFFI</span><span class="topo-outside">YGFAGQFAVNGKTSSWVM</span><span class="topo-membrane">IWGYASYSLGELLVS</span><span class="topo-inside">GLGLAMIARY</span><span class="topo-unknown">VPAR</span></span>
-<span class="topo-line"><span class="topo-unknown">MG</span><span class="topo-inside">GFMMG</span><span class="topo-membrane">AYFVASGISQYLGG</span><span class="topo-outside">VVANFASVPQDLVDPLQTLPVYTNLFNKL</span><span class="topo-membrane">GVAAVVCTII</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MTLGTNQV</span><span class="topo-inside">SKTHSFMTVS</span><span class="topo-membrane">LIELWERFGYYGMQA</span><span class="topo-outside">LIVYFMVQRLGFDDSRANLVW</span><span class="topo-membrane">SACAALIYVSPAIGG</span><span class="topo-inside">WVGDKILGTKRT</span><span class="topo-membrane">MLLGAGILSVGYAL</span><span class="topo-outside">MTVPTENTWFMFS</span><span class="topo-membrane">ALGVIVVGNGLF</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">KP</span><span class="topo-inside">NAGNLVRKIYEGDDSKIDSAFTIY</span><span class="topo-membrane">YMAVNVGSTFSMLLT</span><span class="topo-outside">PWIKDYVNAQYGNEFGWHAAF</span><span class="topo-membrane">AVCCVGILVGLGNYAL</span><span class="topo-inside">MHKSLANYG</span><span class="topo-unknown">SEPDTRP</span><span class="topo-inside">VNKKSL</span><span class="topo-membrane">AIVLALAALSVVASAIIL</span><span class="topo-outside">EY</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">EDV</span><span class="topo-membrane">ARVFVYAAGVAVLGIFFH</span><span class="topo-inside">LIR</span><span class="topo-unknown">TSE</span><span class="topo-inside">PSERAGLIAA</span><span class="topo-membrane">LILTVQTVFFFIFYQQMS</span><span class="topo-outside">TSLALFALRNVDWDF</span><span class="topo-unknown">QVFGTHL</span><span class="topo-outside">WTWSPAQ</span><span class="topo-membrane">FQALNPIWIMVLSPVL</span><span class="topo-inside">AWSYSW</span><span class="topo-unknown">AGRNNK</span><span class="topo-inside">DFSIAA</span><span class="topo-membrane">KF</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">ALGFAVVAIGFFI</span><span class="topo-outside">YGFAGQFAVNGKTSSWVM</span><span class="topo-membrane">IWGYASYSLGELLVS</span><span class="topo-inside">GLGLAMIARY</span><span class="topo-unknown">VPARMG</span><span class="topo-inside">GFMMG</span><span class="topo-membrane">AYFVASGISQYLGG</span><span class="topo-outside">VVANFASVPQDLVDPLQTLPVYTNLFNKL</span><span class="topo-membrane">GVAAVVCTII</span></span>
+<span class="topo-ruler">       490       500       510       520   </span>
 <span class="topo-line"><span class="topo-membrane">ALAV</span><span class="topo-inside">LPLMRRLT</span><span class="topo-unknown">ESHHAHSSIENNAAASLRDVKAEQAENLYFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (41 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1068,6 +1076,7 @@ PepT_So2 is a proton-dependent oligopeptide transporter from Shewanella oneidens
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1083,15 +1092,17 @@ PepT_So2 is a proton-dependent oligopeptide transporter from Shewanella oneidens
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MTLGTNQVS</span><span class="topo-inside">KTHSFMTVS</span><span class="topo-membrane">LIELWERFGYYGMQA</span><span class="topo-outside">LIVYFMVQRLGFDDSRANLVW</span><span class="topo-membrane">SACAAL</span></span>
-<span class="topo-line"><span class="topo-membrane">IYVSPAIGG</span><span class="topo-inside">WVGDKILGTKRT</span><span class="topo-membrane">MLLGAGILSVGYALM</span><span class="topo-outside">TVPTENTWFMFS</span><span class="topo-membrane">ALGVIVVGNGLF</span></span>
-<span class="topo-line"><span class="topo-membrane">KP</span><span class="topo-inside">NAGNLVRKIYEGDDSKIDSAFTIY</span><span class="topo-membrane">YMAVNVGSTFSMLLT</span><span class="topo-outside">PWIKDYVNAQYGNEFGWHA</span></span>
-<span class="topo-line"><span class="topo-outside">AF</span><span class="topo-membrane">AVCCVGILVGLGNYAL</span><span class="topo-inside">MHKSLANYGS</span><span class="topo-unknown">EPDTR</span><span class="topo-inside">PVNKKSL</span><span class="topo-membrane">AIVLALAALSVVASAIIL</span><span class="topo-outside">EY</span></span>
-<span class="topo-line"><span class="topo-outside">EDV</span><span class="topo-membrane">ARVFVYAAGVAVLGIFFH</span><span class="topo-inside">LIRT</span><span class="topo-unknown">SE</span><span class="topo-inside">PSERAGLIAA</span><span class="topo-membrane">LILTVQTVFFFIFYQQMS</span><span class="topo-outside">TSLAL</span></span>
-<span class="topo-line"><span class="topo-outside">FALRNVDWDF</span><span class="topo-unknown">QVFGTH</span><span class="topo-outside">LWTWSPAQ</span><span class="topo-membrane">FQALNPIWIMVLSPVL</span><span class="topo-inside">AWS</span><span class="topo-unknown">YSWAGRNNKDF</span><span class="topo-inside">SIAA</span><span class="topo-membrane">KF</span></span>
-<span class="topo-line"><span class="topo-membrane">ALGFAVVAIGFFI</span><span class="topo-outside">YGFAGQFAVNGKTSSWVMI</span><span class="topo-membrane">WGYASYSLGELLVSGL</span><span class="topo-inside">GLAMIAR</span><span class="topo-unknown">YVPAR</span></span>
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">GGFMMG</span><span class="topo-membrane">AYFVASGISQYLGG</span><span class="topo-outside">VVANFASVPQDLVDPLQTLPVYTNLFNKL</span><span class="topo-membrane">GVAAVVCTII</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MTLGTNQVS</span><span class="topo-inside">KTHSFMTVS</span><span class="topo-membrane">LIELWERFGYYGMQA</span><span class="topo-outside">LIVYFMVQRLGFDDSRANLVW</span><span class="topo-membrane">SACAALIYVSPAIGG</span><span class="topo-inside">WVGDKILGTKRT</span><span class="topo-membrane">MLLGAGILSVGYALM</span><span class="topo-outside">TVPTENTWFMFS</span><span class="topo-membrane">ALGVIVVGNGLF</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">KP</span><span class="topo-inside">NAGNLVRKIYEGDDSKIDSAFTIY</span><span class="topo-membrane">YMAVNVGSTFSMLLT</span><span class="topo-outside">PWIKDYVNAQYGNEFGWHAAF</span><span class="topo-membrane">AVCCVGILVGLGNYAL</span><span class="topo-inside">MHKSLANYGS</span><span class="topo-unknown">EPDTR</span><span class="topo-inside">PVNKKSL</span><span class="topo-membrane">AIVLALAALSVVASAIIL</span><span class="topo-outside">EY</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">EDV</span><span class="topo-membrane">ARVFVYAAGVAVLGIFFH</span><span class="topo-inside">LIRT</span><span class="topo-unknown">SE</span><span class="topo-inside">PSERAGLIAA</span><span class="topo-membrane">LILTVQTVFFFIFYQQMS</span><span class="topo-outside">TSLALFALRNVDWDF</span><span class="topo-unknown">QVFGTH</span><span class="topo-outside">LWTWSPAQ</span><span class="topo-membrane">FQALNPIWIMVLSPVL</span><span class="topo-inside">AWS</span><span class="topo-unknown">YSWAGRNNKDF</span><span class="topo-inside">SIAA</span><span class="topo-membrane">KF</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">ALGFAVVAIGFFI</span><span class="topo-outside">YGFAGQFAVNGKTSSWVMI</span><span class="topo-membrane">WGYASYSLGELLVSGL</span><span class="topo-inside">GLAMIAR</span><span class="topo-unknown">YVPARM</span><span class="topo-inside">GGFMMG</span><span class="topo-membrane">AYFVASGISQYLGG</span><span class="topo-outside">VVANFASVPQDLVDPLQTLPVYTNLFNKL</span><span class="topo-membrane">GVAAVVCTII</span></span>
+<span class="topo-ruler">       490       500       510       520   </span>
 <span class="topo-line"><span class="topo-membrane">ALAV</span><span class="topo-inside">LPLMRRL</span><span class="topo-unknown">TESHHAHSSIENNAAASLRDVKAEQAENLYFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (41 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1390,6 +1401,7 @@ PepT_So2 is a proton-dependent oligopeptide transporter from Shewanella oneidens
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1451,15 +1463,17 @@ PepT_So2 is a proton-dependent oligopeptide transporter from Shewanella oneidens
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MTLGTNQ</span><span class="topo-outside">VSKTHSFMT</span><span class="topo-membrane">VSLIELWERFGYYGMQALIV</span><span class="topo-inside">YFMVQRLGFDDSR</span><span class="topo-membrane">ANLVWSACAAL</span></span>
-<span class="topo-line"><span class="topo-membrane">IYVSPAIGGWV</span><span class="topo-outside">GDKILGTK</span><span class="topo-membrane">RTMLLGAGILSVGYALMTV</span><span class="topo-inside">PTENT</span><span class="topo-membrane">WFMFSALGVIVVGNGLF</span></span>
-<span class="topo-line"><span class="topo-membrane">KPNAG</span><span class="topo-outside">NLVRKIYE</span><span class="topo-unknown">GDD</span><span class="topo-outside">SKIDSAF</span><span class="topo-membrane">TIYYMAVNVGSTFSMLLTPWIK</span><span class="topo-inside">DYVNAQYGNEFG</span><span class="topo-membrane">WHA</span></span>
-<span class="topo-line"><span class="topo-membrane">AFAVCCVGILVGLGNYAL</span><span class="topo-outside">MHKSLANYGSEPDTRPVN</span><span class="topo-membrane">KKSLAIVLALAALSVVASAIILEY</span></span>
-<span class="topo-line"><span class="topo-membrane">EDVARVFVYAAGVAVLGI</span><span class="topo-unknown">FFHLIRTSEPSERAGL</span><span class="topo-outside">IA</span><span class="topo-membrane">ALILTVQTVFFFIFYQQMSTSLA</span><span class="topo-inside">L</span></span>
-<span class="topo-line"><span class="topo-inside">FALRNVDWDFQVFGTHLWT</span><span class="topo-membrane">WSPAQFQALNPIWIMVLSPVLAW</span><span class="topo-unknown">SYSWAGRNNKDFS</span><span class="topo-outside">I</span><span class="topo-membrane">AAKF</span></span>
-<span class="topo-line"><span class="topo-membrane">ALGFAVVAIGFFIYGF</span><span class="topo-inside">AGQFAVNGKTS</span><span class="topo-membrane">SWVMIWGYASYSLGELLVSGLGL</span><span class="topo-outside">AMIARY</span><span class="topo-unknown">VPAR</span></span>
-<span class="topo-line"><span class="topo-unknown">MGGF</span><span class="topo-membrane">MMGAYFVASGISQYLGGVVAN</span><span class="topo-inside">FASVPQDLVDPLQTLPVYTN</span><span class="topo-membrane">LFNKLGVAAVVCTII</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MTLGTNQ</span><span class="topo-outside">VSKTHSFMT</span><span class="topo-membrane">VSLIELWERFGYYGMQALIV</span><span class="topo-inside">YFMVQRLGFDDSR</span><span class="topo-membrane">ANLVWSACAALIYVSPAIGGWV</span><span class="topo-outside">GDKILGTK</span><span class="topo-membrane">RTMLLGAGILSVGYALMTV</span><span class="topo-inside">PTENT</span><span class="topo-membrane">WFMFSALGVIVVGNGLF</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">KPNAG</span><span class="topo-outside">NLVRKIYE</span><span class="topo-unknown">GDD</span><span class="topo-outside">SKIDSAF</span><span class="topo-membrane">TIYYMAVNVGSTFSMLLTPWIK</span><span class="topo-inside">DYVNAQYGNEFG</span><span class="topo-membrane">WHAAFAVCCVGILVGLGNYAL</span><span class="topo-outside">MHKSLANYGSEPDTRPVN</span><span class="topo-membrane">KKSLAIVLALAALSVVASAIILEY</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">EDVARVFVYAAGVAVLGI</span><span class="topo-unknown">FFHLIRTSEPSERAGL</span><span class="topo-outside">IA</span><span class="topo-membrane">ALILTVQTVFFFIFYQQMSTSLA</span><span class="topo-inside">LFALRNVDWDFQVFGTHLWT</span><span class="topo-membrane">WSPAQFQALNPIWIMVLSPVLAW</span><span class="topo-unknown">SYSWAGRNNKDFS</span><span class="topo-outside">I</span><span class="topo-membrane">AAKF</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">ALGFAVVAIGFFIYGF</span><span class="topo-inside">AGQFAVNGKTS</span><span class="topo-membrane">SWVMIWGYASYSLGELLVSGLGL</span><span class="topo-outside">AMIARY</span><span class="topo-unknown">VPARMGGF</span><span class="topo-membrane">MMGAYFVASGISQYLGGVVAN</span><span class="topo-inside">FASVPQDLVDPLQTLPVYTN</span><span class="topo-membrane">LFNKLGVAAVVCTII</span></span>
+<span class="topo-ruler">       490       500       510       520   </span>
 <span class="topo-line"><span class="topo-membrane">ALAVL</span><span class="topo-outside">PLMRRLT</span><span class="topo-unknown">ESHHAHSSIENNAAASLRDVKAEQAENLYFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (34 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1709,6 +1723,7 @@ PepT_So2 is a proton-dependent oligopeptide transporter from Shewanella oneidens
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1724,15 +1739,17 @@ PepT_So2 is a proton-dependent oligopeptide transporter from Shewanella oneidens
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MTLGTNQ</span><span class="topo-outside">VSKTHSF</span><span class="topo-membrane">MTVSLIELWERFGYYGMQALI</span><span class="topo-inside">VYFMVQRLGFDDSRA</span><span class="topo-membrane">NLVWSACAAL</span></span>
-<span class="topo-line"><span class="topo-membrane">IYVSPAIGGWVG</span><span class="topo-outside">DK</span><span class="topo-membrane">ILGTKRTMLLGAGILSVGYALMT</span><span class="topo-inside">VPTENTWF</span><span class="topo-membrane">MFSALGVIVVGNGLF</span></span>
-<span class="topo-line"><span class="topo-membrane">KPNAGN</span><span class="topo-outside">LVRKIYE</span><span class="topo-unknown">GDD</span><span class="topo-outside">SKIDSA</span><span class="topo-membrane">FTIYYMAVNVGSTFSMLLTP</span><span class="topo-inside">WIKDYVNAQYGNEFGWHA</span></span>
-<span class="topo-line"><span class="topo-membrane">AFAVCCVGILVGLGNYALMH</span><span class="topo-outside">KSLANYGSEPDTRP</span><span class="topo-membrane">VNKKSLAIVLALAALSVVASAIILEY</span></span>
-<span class="topo-line"><span class="topo-membrane">EDVARVFVYAAGVAVLGIFFH</span><span class="topo-unknown">LIRTSEPSERA</span><span class="topo-outside">GLIA</span><span class="topo-membrane">ALILTVQTVFFFIFYQQMSTSLA</span><span class="topo-inside">L</span></span>
-<span class="topo-line"><span class="topo-inside">FALRNVDWDFQVFGTHLWTWSP</span><span class="topo-membrane">AQFQALNPIWIMVLSPVLAW</span><span class="topo-unknown">SYSWAGRNNKDFS</span><span class="topo-outside">I</span><span class="topo-membrane">AAKF</span></span>
-<span class="topo-line"><span class="topo-membrane">ALGFAVVAIGFFIYGF</span><span class="topo-inside">AGQFAVNGKTSS</span><span class="topo-membrane">WVMIWGYASYSLGELLVSGLGLA</span><span class="topo-outside">MIARY</span><span class="topo-unknown">VPAR</span></span>
-<span class="topo-line"><span class="topo-unknown">MGGF</span><span class="topo-membrane">MMGAYFVASGISQYLGGVVA</span><span class="topo-inside">NFASVPQDLVDPLQTLPVYTN</span><span class="topo-membrane">LFNKLGVAAVVCTII</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MTLGTNQ</span><span class="topo-outside">VSKTHSF</span><span class="topo-membrane">MTVSLIELWERFGYYGMQALI</span><span class="topo-inside">VYFMVQRLGFDDSRA</span><span class="topo-membrane">NLVWSACAALIYVSPAIGGWVG</span><span class="topo-outside">DK</span><span class="topo-membrane">ILGTKRTMLLGAGILSVGYALMT</span><span class="topo-inside">VPTENTWF</span><span class="topo-membrane">MFSALGVIVVGNGLF</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">KPNAGN</span><span class="topo-outside">LVRKIYE</span><span class="topo-unknown">GDD</span><span class="topo-outside">SKIDSA</span><span class="topo-membrane">FTIYYMAVNVGSTFSMLLTP</span><span class="topo-inside">WIKDYVNAQYGNEFGWHA</span><span class="topo-membrane">AFAVCCVGILVGLGNYALMH</span><span class="topo-outside">KSLANYGSEPDTRP</span><span class="topo-membrane">VNKKSLAIVLALAALSVVASAIILEY</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">EDVARVFVYAAGVAVLGIFFH</span><span class="topo-unknown">LIRTSEPSERA</span><span class="topo-outside">GLIA</span><span class="topo-membrane">ALILTVQTVFFFIFYQQMSTSLA</span><span class="topo-inside">LFALRNVDWDFQVFGTHLWTWSP</span><span class="topo-membrane">AQFQALNPIWIMVLSPVLAW</span><span class="topo-unknown">SYSWAGRNNKDFS</span><span class="topo-outside">I</span><span class="topo-membrane">AAKF</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">ALGFAVVAIGFFIYGF</span><span class="topo-inside">AGQFAVNGKTSS</span><span class="topo-membrane">WVMIWGYASYSLGELLVSGLGLA</span><span class="topo-outside">MIARY</span><span class="topo-unknown">VPARMGGF</span><span class="topo-membrane">MMGAYFVASGISQYLGGVVA</span><span class="topo-inside">NFASVPQDLVDPLQTLPVYTN</span><span class="topo-membrane">LFNKLGVAAVVCTII</span></span>
+<span class="topo-ruler">       490       500       510       520   </span>
 <span class="topo-line"><span class="topo-membrane">ALAVL</span><span class="topo-outside">PLMRRLT</span><span class="topo-unknown">ESHHAHSSIENNAAASLRDVKAEQAENLYFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (34 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1982,6 +1999,7 @@ PepT_So2 is a proton-dependent oligopeptide transporter from Shewanella oneidens
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1997,15 +2015,17 @@ PepT_So2 is a proton-dependent oligopeptide transporter from Shewanella oneidens
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MTLGTNQ</span><span class="topo-inside">VSKTHSFMTVSL</span><span class="topo-membrane">IELWERFGYYGMQA</span><span class="topo-outside">LIVYFMVQRLGFDDSRANLVW</span><span class="topo-membrane">SACAAL</span></span>
-<span class="topo-line"><span class="topo-membrane">IYVSPAIG</span><span class="topo-inside">GWVGDKILGTKRT</span><span class="topo-membrane">MLLGAGILSVGYAL</span><span class="topo-outside">MTVPTENTWFMFS</span><span class="topo-membrane">ALGVIVVGNGLF</span></span>
-<span class="topo-line"><span class="topo-membrane">KP</span><span class="topo-inside">NAGNLVRKIYE</span><span class="topo-unknown">GDD</span><span class="topo-inside">SKIDSAFTIYY</span><span class="topo-membrane">MAVNVGSTFSMLLT</span><span class="topo-outside">PWIKDYVNAQYGNEFGWHA</span></span>
-<span class="topo-line"><span class="topo-outside">AF</span><span class="topo-membrane">AVCCVGILVGLGNYA</span><span class="topo-inside">LMHKSLANYGSEPDTRPVNKKSL</span><span class="topo-membrane">AIVLALAALSVVASAIIL</span><span class="topo-outside">EY</span></span>
-<span class="topo-line"><span class="topo-outside">EDV</span><span class="topo-membrane">ARVFVYAAGVAVLGIFF</span><span class="topo-inside">HLIR</span><span class="topo-unknown">TSE</span><span class="topo-inside">PSERAGLIAAL</span><span class="topo-membrane">ILTVQTVFFFIFYQQMS</span><span class="topo-outside">TSLAL</span></span>
-<span class="topo-line"><span class="topo-outside">FALRNVDWDFQVFGTHLWTWSPAQ</span><span class="topo-membrane">FQALNPIWIMVLSPVL</span><span class="topo-inside">AW</span><span class="topo-unknown">SYSWAGRNNKDFS</span><span class="topo-inside">IAA</span><span class="topo-membrane">KF</span></span>
-<span class="topo-line"><span class="topo-membrane">ALGFAVVAIGFFI</span><span class="topo-outside">YGFAGQFAVNGKTSSWVMI</span><span class="topo-membrane">WGYASYSLGELLVS</span><span class="topo-inside">GLGLAMIARY</span><span class="topo-unknown">VPAR</span></span>
-<span class="topo-line"><span class="topo-unknown">MGG</span><span class="topo-inside">FMMGA</span><span class="topo-membrane">YFVASGISQYLGG</span><span class="topo-outside">VVANFASVPQDLVDPLQTLPVYTNLFNKL</span><span class="topo-membrane">GVAAVVCTII</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MTLGTNQ</span><span class="topo-inside">VSKTHSFMTVSL</span><span class="topo-membrane">IELWERFGYYGMQA</span><span class="topo-outside">LIVYFMVQRLGFDDSRANLVW</span><span class="topo-membrane">SACAALIYVSPAIG</span><span class="topo-inside">GWVGDKILGTKRT</span><span class="topo-membrane">MLLGAGILSVGYAL</span><span class="topo-outside">MTVPTENTWFMFS</span><span class="topo-membrane">ALGVIVVGNGLF</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">KP</span><span class="topo-inside">NAGNLVRKIYE</span><span class="topo-unknown">GDD</span><span class="topo-inside">SKIDSAFTIYY</span><span class="topo-membrane">MAVNVGSTFSMLLT</span><span class="topo-outside">PWIKDYVNAQYGNEFGWHAAF</span><span class="topo-membrane">AVCCVGILVGLGNYA</span><span class="topo-inside">LMHKSLANYGSEPDTRPVNKKSL</span><span class="topo-membrane">AIVLALAALSVVASAIIL</span><span class="topo-outside">EY</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">EDV</span><span class="topo-membrane">ARVFVYAAGVAVLGIFF</span><span class="topo-inside">HLIR</span><span class="topo-unknown">TSE</span><span class="topo-inside">PSERAGLIAAL</span><span class="topo-membrane">ILTVQTVFFFIFYQQMS</span><span class="topo-outside">TSLALFALRNVDWDFQVFGTHLWTWSPAQ</span><span class="topo-membrane">FQALNPIWIMVLSPVL</span><span class="topo-inside">AW</span><span class="topo-unknown">SYSWAGRNNKDFS</span><span class="topo-inside">IAA</span><span class="topo-membrane">KF</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">ALGFAVVAIGFFI</span><span class="topo-outside">YGFAGQFAVNGKTSSWVMI</span><span class="topo-membrane">WGYASYSLGELLVS</span><span class="topo-inside">GLGLAMIARY</span><span class="topo-unknown">VPARMGG</span><span class="topo-inside">FMMGA</span><span class="topo-membrane">YFVASGISQYLGG</span><span class="topo-outside">VVANFASVPQDLVDPLQTLPVYTNLFNKL</span><span class="topo-membrane">GVAAVVCTII</span></span>
+<span class="topo-ruler">       490       500       510       520   </span>
 <span class="topo-line"><span class="topo-membrane">ALAV</span><span class="topo-inside">LPLMRRLT</span><span class="topo-unknown">ESHHAHSSIENNAAASLRDVKAEQAENLYFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (39 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2290,6 +2310,7 @@ PepT_So2 is a proton-dependent oligopeptide transporter from Shewanella oneidens
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2305,15 +2326,17 @@ PepT_So2 is a proton-dependent oligopeptide transporter from Shewanella oneidens
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MTLGTNQ</span><span class="topo-inside">VSKTHSFMTVSL</span><span class="topo-membrane">IELWERFGYYGMQA</span><span class="topo-outside">LIVYFMVQRLGFDDSRANLVW</span><span class="topo-membrane">SACAAL</span></span>
-<span class="topo-line"><span class="topo-membrane">IYVSPAIG</span><span class="topo-inside">GWVGDKILGTKRT</span><span class="topo-membrane">MLLGAGILSVGYAL</span><span class="topo-outside">MTVPTENTWFMFS</span><span class="topo-membrane">ALGVIVVGNGLF</span></span>
-<span class="topo-line"><span class="topo-membrane">KP</span><span class="topo-inside">NAGNLVRKIYE</span><span class="topo-unknown">GDD</span><span class="topo-inside">SKIDSAFTIYY</span><span class="topo-membrane">MAVNVGSTFSMLLT</span><span class="topo-outside">PWIKDYVNAQYGNEFGWHA</span></span>
-<span class="topo-line"><span class="topo-outside">AF</span><span class="topo-membrane">AVCCVGILVGLGNYA</span><span class="topo-inside">LMHKSLANYGSEPDTRPVNKKSL</span><span class="topo-membrane">AIVLALAALSVVASAIIL</span><span class="topo-outside">EY</span></span>
-<span class="topo-line"><span class="topo-outside">EDV</span><span class="topo-membrane">ARVFVYAAGVAVLGIFF</span><span class="topo-inside">HLIR</span><span class="topo-unknown">TSE</span><span class="topo-inside">PSERAGLIAAL</span><span class="topo-membrane">ILTVQTVFFFIFYQQMS</span><span class="topo-outside">TSLAL</span></span>
-<span class="topo-line"><span class="topo-outside">FALRNVDWDFQVFGTHLWTWSPAQ</span><span class="topo-membrane">FQALNPIWIMVLSPVL</span><span class="topo-inside">AW</span><span class="topo-unknown">SYSWAGRNNKDFS</span><span class="topo-inside">IAA</span><span class="topo-membrane">KF</span></span>
-<span class="topo-line"><span class="topo-membrane">ALGFAVVAIGFFI</span><span class="topo-outside">YGFAGQFAVNGKTSSWVMI</span><span class="topo-membrane">WGYASYSLGELLVS</span><span class="topo-inside">GLGLAMIARY</span><span class="topo-unknown">VPAR</span></span>
-<span class="topo-line"><span class="topo-unknown">MGG</span><span class="topo-inside">FMMGA</span><span class="topo-membrane">YFVASGISQYLGG</span><span class="topo-outside">VVANFASVPQDLVDPLQTLPVYTNLFNKL</span><span class="topo-membrane">GVAAVVCTII</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MTLGTNQ</span><span class="topo-inside">VSKTHSFMTVSL</span><span class="topo-membrane">IELWERFGYYGMQA</span><span class="topo-outside">LIVYFMVQRLGFDDSRANLVW</span><span class="topo-membrane">SACAALIYVSPAIG</span><span class="topo-inside">GWVGDKILGTKRT</span><span class="topo-membrane">MLLGAGILSVGYAL</span><span class="topo-outside">MTVPTENTWFMFS</span><span class="topo-membrane">ALGVIVVGNGLF</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">KP</span><span class="topo-inside">NAGNLVRKIYE</span><span class="topo-unknown">GDD</span><span class="topo-inside">SKIDSAFTIYY</span><span class="topo-membrane">MAVNVGSTFSMLLT</span><span class="topo-outside">PWIKDYVNAQYGNEFGWHAAF</span><span class="topo-membrane">AVCCVGILVGLGNYA</span><span class="topo-inside">LMHKSLANYGSEPDTRPVNKKSL</span><span class="topo-membrane">AIVLALAALSVVASAIIL</span><span class="topo-outside">EY</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">EDV</span><span class="topo-membrane">ARVFVYAAGVAVLGIFF</span><span class="topo-inside">HLIR</span><span class="topo-unknown">TSE</span><span class="topo-inside">PSERAGLIAAL</span><span class="topo-membrane">ILTVQTVFFFIFYQQMS</span><span class="topo-outside">TSLALFALRNVDWDFQVFGTHLWTWSPAQ</span><span class="topo-membrane">FQALNPIWIMVLSPVL</span><span class="topo-inside">AW</span><span class="topo-unknown">SYSWAGRNNKDFS</span><span class="topo-inside">IAA</span><span class="topo-membrane">KF</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">ALGFAVVAIGFFI</span><span class="topo-outside">YGFAGQFAVNGKTSSWVMI</span><span class="topo-membrane">WGYASYSLGELLVS</span><span class="topo-inside">GLGLAMIARY</span><span class="topo-unknown">VPARMGG</span><span class="topo-inside">FMMGA</span><span class="topo-membrane">YFVASGISQYLGG</span><span class="topo-outside">VVANFASVPQDLVDPLQTLPVYTNLFNKL</span><span class="topo-membrane">GVAAVVCTII</span></span>
+<span class="topo-ruler">       490       500       510       520   </span>
 <span class="topo-line"><span class="topo-membrane">ALAV</span><span class="topo-inside">LPLMRRLT</span><span class="topo-unknown">ESHHAHSSIENNAAASLRDVKAEQAENLYFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (39 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2598,6 +2621,7 @@ PepT_So2 is a proton-dependent oligopeptide transporter from Shewanella oneidens
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2613,15 +2637,17 @@ PepT_So2 is a proton-dependent oligopeptide transporter from Shewanella oneidens
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MTLGTNQ</span><span class="topo-inside">VSKTHSFMTVSL</span><span class="topo-membrane">IELWERFGYYGMQA</span><span class="topo-outside">LIVYFMVQRLGFDDSRANLVW</span><span class="topo-membrane">SACAAL</span></span>
-<span class="topo-line"><span class="topo-membrane">IYVSPAIG</span><span class="topo-inside">GWVGDKILGTKRTM</span><span class="topo-membrane">LLGAGILSVGYALM</span><span class="topo-outside">TVPTENTWFMFS</span><span class="topo-membrane">ALGVIVVGNGLF</span></span>
-<span class="topo-line"><span class="topo-membrane">KP</span><span class="topo-inside">NAGNLVRKIYE</span><span class="topo-unknown">GDD</span><span class="topo-inside">SKIDSAFTIYY</span><span class="topo-membrane">MAVNVGSTFSMLLT</span><span class="topo-outside">PWIKDYVNAQYGNEFGWHA</span></span>
-<span class="topo-line"><span class="topo-outside">AF</span><span class="topo-membrane">AVCCVGILVGLGNYA</span><span class="topo-inside">LMHKSLANYGSEPDTRPVNKKSL</span><span class="topo-membrane">AIVLALAALSVVASAIIL</span><span class="topo-outside">EY</span></span>
-<span class="topo-line"><span class="topo-outside">EDV</span><span class="topo-membrane">ARVFVYAAGVAVLGIFF</span><span class="topo-inside">HL</span><span class="topo-unknown">IRTSEPS</span><span class="topo-inside">ERAGLIAAL</span><span class="topo-membrane">ILTVQTVFFFIFYQQMS</span><span class="topo-outside">TSLAL</span></span>
-<span class="topo-line"><span class="topo-outside">FALRNVDWDFQVFGTHLWTWSPAQ</span><span class="topo-membrane">FQALNPIWIMVLSPVL</span><span class="topo-inside">AW</span><span class="topo-unknown">SYSWAGRNNKDFS</span><span class="topo-inside">IAA</span><span class="topo-membrane">KF</span></span>
-<span class="topo-line"><span class="topo-membrane">ALGFAVVAIGFFI</span><span class="topo-outside">YGFAGQFAVNGKTSSWVMI</span><span class="topo-membrane">WGYASYSLGELLVS</span><span class="topo-inside">GLGLAMIAR</span><span class="topo-unknown">YVPAR</span></span>
-<span class="topo-line"><span class="topo-unknown">MGGF</span><span class="topo-inside">MMG</span><span class="topo-membrane">AYFVASGISQYLGG</span><span class="topo-outside">VVANFASVPQDLVDPLQTLPVYTNLFNKL</span><span class="topo-membrane">GVAAVVCTII</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MTLGTNQ</span><span class="topo-inside">VSKTHSFMTVSL</span><span class="topo-membrane">IELWERFGYYGMQA</span><span class="topo-outside">LIVYFMVQRLGFDDSRANLVW</span><span class="topo-membrane">SACAALIYVSPAIG</span><span class="topo-inside">GWVGDKILGTKRTM</span><span class="topo-membrane">LLGAGILSVGYALM</span><span class="topo-outside">TVPTENTWFMFS</span><span class="topo-membrane">ALGVIVVGNGLF</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">KP</span><span class="topo-inside">NAGNLVRKIYE</span><span class="topo-unknown">GDD</span><span class="topo-inside">SKIDSAFTIYY</span><span class="topo-membrane">MAVNVGSTFSMLLT</span><span class="topo-outside">PWIKDYVNAQYGNEFGWHAAF</span><span class="topo-membrane">AVCCVGILVGLGNYA</span><span class="topo-inside">LMHKSLANYGSEPDTRPVNKKSL</span><span class="topo-membrane">AIVLALAALSVVASAIIL</span><span class="topo-outside">EY</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">EDV</span><span class="topo-membrane">ARVFVYAAGVAVLGIFF</span><span class="topo-inside">HL</span><span class="topo-unknown">IRTSEPS</span><span class="topo-inside">ERAGLIAAL</span><span class="topo-membrane">ILTVQTVFFFIFYQQMS</span><span class="topo-outside">TSLALFALRNVDWDFQVFGTHLWTWSPAQ</span><span class="topo-membrane">FQALNPIWIMVLSPVL</span><span class="topo-inside">AW</span><span class="topo-unknown">SYSWAGRNNKDFS</span><span class="topo-inside">IAA</span><span class="topo-membrane">KF</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">ALGFAVVAIGFFI</span><span class="topo-outside">YGFAGQFAVNGKTSSWVMI</span><span class="topo-membrane">WGYASYSLGELLVS</span><span class="topo-inside">GLGLAMIAR</span><span class="topo-unknown">YVPARMGGF</span><span class="topo-inside">MMG</span><span class="topo-membrane">AYFVASGISQYLGG</span><span class="topo-outside">VVANFASVPQDLVDPLQTLPVYTNLFNKL</span><span class="topo-membrane">GVAAVVCTII</span></span>
+<span class="topo-ruler">       490       500       510       520   </span>
 <span class="topo-line"><span class="topo-membrane">ALAV</span><span class="topo-inside">LPLMRRLT</span><span class="topo-unknown">ESHHAHSSIENNAAASLRDVKAEQAENLYFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (39 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2906,6 +2932,7 @@ PepT_So2 is a proton-dependent oligopeptide transporter from Shewanella oneidens
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2921,15 +2948,17 @@ PepT_So2 is a proton-dependent oligopeptide transporter from Shewanella oneidens
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MTLGTNQ</span><span class="topo-inside">VSKTHSFMTVSL</span><span class="topo-membrane">IELWERFGYYGMQA</span><span class="topo-outside">LIVYFMVQRLGFDDSRANLVW</span><span class="topo-membrane">SACAAL</span></span>
-<span class="topo-line"><span class="topo-membrane">IYVSPAIG</span><span class="topo-inside">GWVGDKILGTKRTM</span><span class="topo-membrane">LLGAGILSVGYALM</span><span class="topo-outside">TVPTENTWFMFS</span><span class="topo-membrane">ALGVIVVGNGLF</span></span>
-<span class="topo-line"><span class="topo-membrane">KP</span><span class="topo-inside">NAGNLVRKIYE</span><span class="topo-unknown">GDD</span><span class="topo-inside">SKIDSAFTIYY</span><span class="topo-membrane">MAVNVGSTFSMLLT</span><span class="topo-outside">PWIKDYVNAQYGNEFGWHA</span></span>
-<span class="topo-line"><span class="topo-outside">AF</span><span class="topo-membrane">AVCCVGILVGLGNY</span><span class="topo-inside">ALMHKSLANYGSEPDTRPVNKKSL</span><span class="topo-membrane">AIVLALAALSVVASAIIL</span><span class="topo-outside">EY</span></span>
-<span class="topo-line"><span class="topo-outside">EDV</span><span class="topo-membrane">ARVFVYAAGVAVLGIFF</span><span class="topo-inside">HL</span><span class="topo-unknown">IRTSEPS</span><span class="topo-inside">ERAGLIAAL</span><span class="topo-membrane">ILTVQTVFFFIFYQQMS</span><span class="topo-outside">TSLAL</span></span>
-<span class="topo-line"><span class="topo-outside">FALRNVDWDFQVFGTHLWTWSPAQ</span><span class="topo-membrane">FQALNPIWIMVLSPVL</span><span class="topo-inside">AW</span><span class="topo-unknown">SYSWAGRNNKDFS</span><span class="topo-inside">IAAK</span><span class="topo-membrane">F</span></span>
-<span class="topo-line"><span class="topo-membrane">ALGFAVVAIGFFI</span><span class="topo-outside">YGFAGQFAVNGKTSSWVMI</span><span class="topo-membrane">WGYASYSLGELLVS</span><span class="topo-inside">GLGLAMIAR</span><span class="topo-unknown">YVPAR</span></span>
-<span class="topo-line"><span class="topo-unknown">MGGF</span><span class="topo-inside">MMG</span><span class="topo-membrane">AYFVASGISQYLGG</span><span class="topo-outside">VVANFASVPQDLVDPLQTLPVYTNLFNKL</span><span class="topo-membrane">GVAAVVCTII</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MTLGTNQ</span><span class="topo-inside">VSKTHSFMTVSL</span><span class="topo-membrane">IELWERFGYYGMQA</span><span class="topo-outside">LIVYFMVQRLGFDDSRANLVW</span><span class="topo-membrane">SACAALIYVSPAIG</span><span class="topo-inside">GWVGDKILGTKRTM</span><span class="topo-membrane">LLGAGILSVGYALM</span><span class="topo-outside">TVPTENTWFMFS</span><span class="topo-membrane">ALGVIVVGNGLF</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">KP</span><span class="topo-inside">NAGNLVRKIYE</span><span class="topo-unknown">GDD</span><span class="topo-inside">SKIDSAFTIYY</span><span class="topo-membrane">MAVNVGSTFSMLLT</span><span class="topo-outside">PWIKDYVNAQYGNEFGWHAAF</span><span class="topo-membrane">AVCCVGILVGLGNY</span><span class="topo-inside">ALMHKSLANYGSEPDTRPVNKKSL</span><span class="topo-membrane">AIVLALAALSVVASAIIL</span><span class="topo-outside">EY</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">EDV</span><span class="topo-membrane">ARVFVYAAGVAVLGIFF</span><span class="topo-inside">HL</span><span class="topo-unknown">IRTSEPS</span><span class="topo-inside">ERAGLIAAL</span><span class="topo-membrane">ILTVQTVFFFIFYQQMS</span><span class="topo-outside">TSLALFALRNVDWDFQVFGTHLWTWSPAQ</span><span class="topo-membrane">FQALNPIWIMVLSPVL</span><span class="topo-inside">AW</span><span class="topo-unknown">SYSWAGRNNKDFS</span><span class="topo-inside">IAAK</span><span class="topo-membrane">F</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">ALGFAVVAIGFFI</span><span class="topo-outside">YGFAGQFAVNGKTSSWVMI</span><span class="topo-membrane">WGYASYSLGELLVS</span><span class="topo-inside">GLGLAMIAR</span><span class="topo-unknown">YVPARMGGF</span><span class="topo-inside">MMG</span><span class="topo-membrane">AYFVASGISQYLGG</span><span class="topo-outside">VVANFASVPQDLVDPLQTLPVYTNLFNKL</span><span class="topo-membrane">GVAAVVCTII</span></span>
+<span class="topo-ruler">       490       500       510       520   </span>
 <span class="topo-line"><span class="topo-membrane">ALAV</span><span class="topo-inside">LPLMRRLT</span><span class="topo-unknown">ESHHAHSSIENNAAASLRDVKAEQAENLYFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (39 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3214,6 +3243,7 @@ PepT_So2 is a proton-dependent oligopeptide transporter from Shewanella oneidens
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

@@ -156,18 +156,19 @@ MacB from Acinetobacter baumannii is an ATP-binding cassette (ABC) transporter t
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MHHHHHHMT</span><span class="topo-inside">KQALLEVSNLVREFPAGESTIQILKGIDLTIYEGELVAIVGQSGSGKSTLM</span></span>
-<span class="topo-line"><span class="topo-inside">NILGCLDRPTSGSYKVNGQETGKLEPDQLAQLRREYFGFIFQRYHLLGDLSAEGNVEVPA</span></span>
-<span class="topo-line"><span class="topo-inside">VYAGVTPADRKQRATALLTELGLGTKTQNRPSQLSGGQQQRVSIARALMNGGDVILADEP</span></span>
-<span class="topo-line"><span class="topo-inside">TGALDSHSGVEVMRILRELNAAGHTIILVTHDMQVAKNATRIIEISDGEIISDRPNVPDQ</span></span>
-<span class="topo-line"><span class="topo-inside">SLEEVKSDPDAAPA</span><span class="topo-unknown">LQNKQKKGKSIS</span><span class="topo-inside">AWR</span><span class="topo-unknown">STLDRLSEAFQMALLSMNA</span><span class="topo-inside">H</span><span class="topo-membrane">RMRTFLTMLGI</span></span>
-<span class="topo-line"><span class="topo-membrane">IIGIASVVTVVAL</span><span class="topo-outside">GNGSQQQILSNISSLGTNTITVFQGRGFGDNSKTANFKTLVPADADA</span></span>
-<span class="topo-line"><span class="topo-outside">LMTQPYVSAVSPMVSTSKTMRYQQNEANATINGVSNDYFDVKGLVFKDGQTFDQRSVRDR</span></span>
-<span class="topo-line"><span class="topo-outside">SQDVVIDTNTQKQFFSDGTNPIGQVVLLGSVPARIIGIVEPQTSGMGSDDTLNVYMPYTT</span></span>
-<span class="topo-line"><span class="topo-outside">VMSRMLGQAHVRNIVVRINDKYSTSAAENAIVNLLTQRHGAQDIFTMNSDSIRQTIEKTT</span></span>
-<span class="topo-line"><span class="topo-outside">STMTL</span><span class="topo-membrane">LVSAIAVISLVVGGIGVMNIMLV</span><span class="topo-inside">SVTERTQEIGVRMAVGARQSDIL</span><span class="topo-membrane">QQFLIEAIL</span></span>
-<span class="topo-line"><span class="topo-membrane">VCLIGGVLGVLLSLGLGQLI</span><span class="topo-outside">NKFAGGNFAVA</span><span class="topo-membrane">YSTTSIVAAFVCSTLIGVVFGFLPAK</span><span class="topo-inside">NAA</span></span>
-<span class="topo-line"><span class="topo-inside">KLDPVAALSRE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MHHHHHHMT</span><span class="topo-inside">KQALLEVSNLVREFPAGESTIQILKGIDLTIYEGELVAIVGQSGSGKSTLMNILGCLDRPTSGSYKVNGQETGKLEPDQLAQLRREYFGFIFQRYHLLGDLSAEGNVEVPA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">VYAGVTPADRKQRATALLTELGLGTKTQNRPSQLSGGQQQRVSIARALMNGGDVILADEPTGALDSHSGVEVMRILRELNAAGHTIILVTHDMQVAKNATRIIEISDGEIISDRPNVPDQ</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">SLEEVKSDPDAAPA</span><span class="topo-unknown">LQNKQKKGKSIS</span><span class="topo-inside">AWR</span><span class="topo-unknown">STLDRLSEAFQMALLSMNA</span><span class="topo-inside">H</span><span class="topo-membrane">RMRTFLTMLGIIIGIASVVTVVAL</span><span class="topo-outside">GNGSQQQILSNISSLGTNTITVFQGRGFGDNSKTANFKTLVPADADA</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">LMTQPYVSAVSPMVSTSKTMRYQQNEANATINGVSNDYFDVKGLVFKDGQTFDQRSVRDRSQDVVIDTNTQKQFFSDGTNPIGQVVLLGSVPARIIGIVEPQTSGMGSDDTLNVYMPYTT</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">VMSRMLGQAHVRNIVVRINDKYSTSAAENAIVNLLTQRHGAQDIFTMNSDSIRQTIEKTTSTMTL</span><span class="topo-membrane">LVSAIAVISLVVGGIGVMNIMLV</span><span class="topo-inside">SVTERTQEIGVRMAVGARQSDIL</span><span class="topo-membrane">QQFLIEAIL</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670 </span>
+<span class="topo-line"><span class="topo-membrane">VCLIGGVLGVLLSLGLGQLI</span><span class="topo-outside">NKFAGGNFAVA</span><span class="topo-membrane">YSTTSIVAAFVCSTLIGVVFGFLPAK</span><span class="topo-inside">NAAKLDPVAALSRE</span></span>
+<details class="topo-details"><summary>Topology coordinates (12 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -263,6 +264,7 @@ MacB from Acinetobacter baumannii is an ATP-binding cassette (ABC) transporter t
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -278,18 +280,19 @@ MacB from Acinetobacter baumannii is an ATP-binding cassette (ABC) transporter t
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MHHHHHHMT</span><span class="topo-inside">KQALLEVSNLVREFPAGESTIQILKGIDLTIYEGELVAIVGQSGSGKSTLM</span></span>
-<span class="topo-line"><span class="topo-inside">NILGCLDRPTSGSYKVNGQETGKLEPDQLAQLRREYFGFIFQRYHLLGDLSAEGNVEVPA</span></span>
-<span class="topo-line"><span class="topo-inside">VYAGVTPADRKQRATALLTELGLGTKTQNRPSQLSGGQQQRVSIARALMNGGDVILADEP</span></span>
-<span class="topo-line"><span class="topo-inside">TGALDSHSGVEVMRILRELNAAGHTIILVTHDMQVAKNATRIIEISDGEIISDRPNVPDQ</span></span>
-<span class="topo-line"><span class="topo-inside">SLEEVKSDPDAAPA</span><span class="topo-unknown">LQNKQKKGKSIS</span><span class="topo-inside">AWRS</span><span class="topo-unknown">TLDRLSEAFQMALLSMNA</span><span class="topo-inside">HR</span><span class="topo-membrane">MRTFLTMLGI</span></span>
-<span class="topo-line"><span class="topo-membrane">IIGIASVVTVVAL</span><span class="topo-outside">GNGSQQQILSNISSLGTNTITVFQGRGFGDNSKTANFKTLVPADADA</span></span>
-<span class="topo-line"><span class="topo-outside">LMTQPYVSAVSPMVSTSKTMRYQQNEANATINGVSNDYFDVKGLVFKDGQTFDQRSVRDR</span></span>
-<span class="topo-line"><span class="topo-outside">SQDVVIDTNTQKQFFSDGTNPIGQVVLLGSVPARIIGIVEPQTSGMGSDDTLNVYMPYTT</span></span>
-<span class="topo-line"><span class="topo-outside">VMSRMLGQAHVRNIVVRINDKYSTSAAENAIVNLLTQRHGAQDIFTMNSDSIRQTIEKTT</span></span>
-<span class="topo-line"><span class="topo-outside">STMTL</span><span class="topo-membrane">LVSAIAVISLVVGGIGVMNIMLV</span><span class="topo-inside">SVTERTQEIGVRMAVGARQSDILQQF</span><span class="topo-membrane">LIEAIL</span></span>
-<span class="topo-line"><span class="topo-membrane">VCLIGGVLGVLLSLGLGQLI</span><span class="topo-outside">NKFAGGNFAVA</span><span class="topo-membrane">YSTTSIVAAFVCSTLIGVVFGFLPAK</span><span class="topo-inside">NAA</span></span>
-<span class="topo-line"><span class="topo-inside">KLDPVAALSRE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MHHHHHHMT</span><span class="topo-inside">KQALLEVSNLVREFPAGESTIQILKGIDLTIYEGELVAIVGQSGSGKSTLMNILGCLDRPTSGSYKVNGQETGKLEPDQLAQLRREYFGFIFQRYHLLGDLSAEGNVEVPA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">VYAGVTPADRKQRATALLTELGLGTKTQNRPSQLSGGQQQRVSIARALMNGGDVILADEPTGALDSHSGVEVMRILRELNAAGHTIILVTHDMQVAKNATRIIEISDGEIISDRPNVPDQ</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">SLEEVKSDPDAAPA</span><span class="topo-unknown">LQNKQKKGKSIS</span><span class="topo-inside">AWRS</span><span class="topo-unknown">TLDRLSEAFQMALLSMNA</span><span class="topo-inside">HR</span><span class="topo-membrane">MRTFLTMLGIIIGIASVVTVVAL</span><span class="topo-outside">GNGSQQQILSNISSLGTNTITVFQGRGFGDNSKTANFKTLVPADADA</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">LMTQPYVSAVSPMVSTSKTMRYQQNEANATINGVSNDYFDVKGLVFKDGQTFDQRSVRDRSQDVVIDTNTQKQFFSDGTNPIGQVVLLGSVPARIIGIVEPQTSGMGSDDTLNVYMPYTT</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">VMSRMLGQAHVRNIVVRINDKYSTSAAENAIVNLLTQRHGAQDIFTMNSDSIRQTIEKTTSTMTL</span><span class="topo-membrane">LVSAIAVISLVVGGIGVMNIMLV</span><span class="topo-inside">SVTERTQEIGVRMAVGARQSDILQQF</span><span class="topo-membrane">LIEAIL</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670 </span>
+<span class="topo-line"><span class="topo-membrane">VCLIGGVLGVLLSLGLGQLI</span><span class="topo-outside">NKFAGGNFAVA</span><span class="topo-membrane">YSTTSIVAAFVCSTLIGVVFGFLPAK</span><span class="topo-inside">NAAKLDPVAALSRE</span></span>
+<details class="topo-details"><summary>Topology coordinates (12 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -385,6 +388,7 @@ MacB from Acinetobacter baumannii is an ATP-binding cassette (ABC) transporter t
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -400,18 +404,19 @@ MacB from Acinetobacter baumannii is an ATP-binding cassette (ABC) transporter t
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MHHHHHHMT</span><span class="topo-inside">KQALLEVSNLVREFPAGESTIQILKGIDLTIYEGELVAIVGQSGSGKSTLM</span></span>
-<span class="topo-line"><span class="topo-inside">NILGCLDRPTSGSYKVNGQETGKLEPDQLAQLRREYFGFIFQRYHLLGDLSAEGNVEVPA</span></span>
-<span class="topo-line"><span class="topo-inside">VYAGVTPADRKQRATALLTELGLGTKTQNRPSQLSGGQQQRVSIARALMNGGDVILADEP</span></span>
-<span class="topo-line"><span class="topo-inside">TGALDSHSGVEVMRILRELNAAGHTIILVTHDMQVAKNATRIIEISDGEIISDRPNVPDQ</span></span>
-<span class="topo-line"><span class="topo-inside">SLEEVKSDPDAAPA</span><span class="topo-unknown">LQNKQKKGKSIS</span><span class="topo-inside">AWR</span><span class="topo-unknown">STLDRLSEAFQMALLSMNA</span><span class="topo-inside">HR</span><span class="topo-membrane">MRTFLTMLGI</span></span>
-<span class="topo-line"><span class="topo-membrane">IIGIASVVTVVAL</span><span class="topo-outside">GNGSQQQILSNISSLGTNTITVFQGRGFGDNSKTANFKTLVPADADA</span></span>
-<span class="topo-line"><span class="topo-outside">LMTQPYVSAVSPMVSTSKTMRYQQNEANATINGVSNDYFDVKGLVFKDGQTFDQRSVRDR</span></span>
-<span class="topo-line"><span class="topo-outside">SQDVVIDTNTQKQFFSDGTNPIGQVVLLGSVPARIIGIVEPQTSGMGSDDTLNVYMPYTT</span></span>
-<span class="topo-line"><span class="topo-outside">VMSRMLGQAHVRNIVVRINDKYSTSAAENAIVNLLTQRHGAQDIFTMNSDSIRQTIEKTT</span></span>
-<span class="topo-line"><span class="topo-outside">STMT</span><span class="topo-membrane">LLVSAIAVISLVVGGIGVMNIM</span><span class="topo-inside">LVSVTERTQEIGVRMAVGARQSDILQQFL</span><span class="topo-membrane">IEAIL</span></span>
-<span class="topo-line"><span class="topo-membrane">VCLIGGVLGVLLSLGLGQLINKF</span><span class="topo-outside">AGGNFAV</span><span class="topo-membrane">AYSTTSIVAAFVCSTLIGVVFGFLP</span><span class="topo-inside">AKNAA</span></span>
-<span class="topo-line"><span class="topo-inside">KLDPVAALSRE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MHHHHHHMT</span><span class="topo-inside">KQALLEVSNLVREFPAGESTIQILKGIDLTIYEGELVAIVGQSGSGKSTLMNILGCLDRPTSGSYKVNGQETGKLEPDQLAQLRREYFGFIFQRYHLLGDLSAEGNVEVPA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">VYAGVTPADRKQRATALLTELGLGTKTQNRPSQLSGGQQQRVSIARALMNGGDVILADEPTGALDSHSGVEVMRILRELNAAGHTIILVTHDMQVAKNATRIIEISDGEIISDRPNVPDQ</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">SLEEVKSDPDAAPA</span><span class="topo-unknown">LQNKQKKGKSIS</span><span class="topo-inside">AWR</span><span class="topo-unknown">STLDRLSEAFQMALLSMNA</span><span class="topo-inside">HR</span><span class="topo-membrane">MRTFLTMLGIIIGIASVVTVVAL</span><span class="topo-outside">GNGSQQQILSNISSLGTNTITVFQGRGFGDNSKTANFKTLVPADADA</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">LMTQPYVSAVSPMVSTSKTMRYQQNEANATINGVSNDYFDVKGLVFKDGQTFDQRSVRDRSQDVVIDTNTQKQFFSDGTNPIGQVVLLGSVPARIIGIVEPQTSGMGSDDTLNVYMPYTT</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">VMSRMLGQAHVRNIVVRINDKYSTSAAENAIVNLLTQRHGAQDIFTMNSDSIRQTIEKTTSTMT</span><span class="topo-membrane">LLVSAIAVISLVVGGIGVMNIM</span><span class="topo-inside">LVSVTERTQEIGVRMAVGARQSDILQQFL</span><span class="topo-membrane">IEAIL</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670 </span>
+<span class="topo-line"><span class="topo-membrane">VCLIGGVLGVLLSLGLGQLINKF</span><span class="topo-outside">AGGNFAV</span><span class="topo-membrane">AYSTTSIVAAFVCSTLIGVVFGFLP</span><span class="topo-inside">AKNAAKLDPVAALSRE</span></span>
+<details class="topo-details"><summary>Topology coordinates (12 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -507,6 +512,7 @@ MacB from Acinetobacter baumannii is an ATP-binding cassette (ABC) transporter t
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -522,18 +528,19 @@ MacB from Acinetobacter baumannii is an ATP-binding cassette (ABC) transporter t
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MHHHHHHMT</span><span class="topo-inside">KQALLEVSNLVREFPAGESTIQILKGIDLTIYEGELVAIVGQSGSGKSTLM</span></span>
-<span class="topo-line"><span class="topo-inside">NILGCLDRPTSGSYKVNGQETGKLEPDQLAQLRREYFGFIFQRYHLLGDLSAEGNVEVPA</span></span>
-<span class="topo-line"><span class="topo-inside">VYAGVTPADRKQRATALLTELGLGTKTQNRPSQLSGGQQQRVSIARALMNGGDVILADEP</span></span>
-<span class="topo-line"><span class="topo-inside">TGALDSHSGVEVMRILRELNAAGHTIILVTHDMQVAKNATRIIEISDGEIISDRPNVPDQ</span></span>
-<span class="topo-line"><span class="topo-inside">SLEEVKSDPDAAPA</span><span class="topo-unknown">LQNKQKKGKSIS</span><span class="topo-inside">AWRS</span><span class="topo-unknown">TLDRLSEAFQMALLSMNA</span><span class="topo-inside">HR</span><span class="topo-membrane">MRTFLTMLGI</span></span>
-<span class="topo-line"><span class="topo-membrane">IIGIASVVTVVAL</span><span class="topo-outside">GNGSQQQILSNISSLGTNTITVFQGRGFGDNSKTANFKTLVPADADA</span></span>
-<span class="topo-line"><span class="topo-outside">LMTQPYVSAVSPMVSTSKTMRYQQNEANATINGVSNDYFDVKGLVFKDGQTFDQRSVRDR</span></span>
-<span class="topo-line"><span class="topo-outside">SQDVVIDTNTQKQFFSDGTNPIGQVVLLGSVPARIIGIVEPQTSGMGSDDTLNVYMPYTT</span></span>
-<span class="topo-line"><span class="topo-outside">VMSRMLGQAHVRNIVVRINDKYSTSAAENAIVNLLTQRHGAQDIFTMNSDSIRQTIEKTT</span></span>
-<span class="topo-line"><span class="topo-outside">STMT</span><span class="topo-membrane">LLVSAIAVISLVVGGIGVMNIM</span><span class="topo-inside">LVSVTERTQEIGVRMAVGARQSDILQQFL</span><span class="topo-membrane">IEAIL</span></span>
-<span class="topo-line"><span class="topo-membrane">VCLIGGVLGVLLSLGLGQLINK</span><span class="topo-outside">FAGGNFAV</span><span class="topo-membrane">AYSTTSIVAAFVCSTLIGVVFGFLP</span><span class="topo-inside">AKNAA</span></span>
-<span class="topo-line"><span class="topo-inside">KLDPVAALSRE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MHHHHHHMT</span><span class="topo-inside">KQALLEVSNLVREFPAGESTIQILKGIDLTIYEGELVAIVGQSGSGKSTLMNILGCLDRPTSGSYKVNGQETGKLEPDQLAQLRREYFGFIFQRYHLLGDLSAEGNVEVPA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">VYAGVTPADRKQRATALLTELGLGTKTQNRPSQLSGGQQQRVSIARALMNGGDVILADEPTGALDSHSGVEVMRILRELNAAGHTIILVTHDMQVAKNATRIIEISDGEIISDRPNVPDQ</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">SLEEVKSDPDAAPA</span><span class="topo-unknown">LQNKQKKGKSIS</span><span class="topo-inside">AWRS</span><span class="topo-unknown">TLDRLSEAFQMALLSMNA</span><span class="topo-inside">HR</span><span class="topo-membrane">MRTFLTMLGIIIGIASVVTVVAL</span><span class="topo-outside">GNGSQQQILSNISSLGTNTITVFQGRGFGDNSKTANFKTLVPADADA</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">LMTQPYVSAVSPMVSTSKTMRYQQNEANATINGVSNDYFDVKGLVFKDGQTFDQRSVRDRSQDVVIDTNTQKQFFSDGTNPIGQVVLLGSVPARIIGIVEPQTSGMGSDDTLNVYMPYTT</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">VMSRMLGQAHVRNIVVRINDKYSTSAAENAIVNLLTQRHGAQDIFTMNSDSIRQTIEKTTSTMT</span><span class="topo-membrane">LLVSAIAVISLVVGGIGVMNIM</span><span class="topo-inside">LVSVTERTQEIGVRMAVGARQSDILQQFL</span><span class="topo-membrane">IEAIL</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670 </span>
+<span class="topo-line"><span class="topo-membrane">VCLIGGVLGVLLSLGLGQLINK</span><span class="topo-outside">FAGGNFAV</span><span class="topo-membrane">AYSTTSIVAAFVCSTLIGVVFGFLP</span><span class="topo-inside">AKNAAKLDPVAALSRE</span></span>
+<details class="topo-details"><summary>Topology coordinates (12 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -629,6 +636,7 @@ MacB from Acinetobacter baumannii is an ATP-binding cassette (ABC) transporter t
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

@@ -152,14 +152,15 @@ movement of transmembrane helices and key residues in the substrate-binding site
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GSHMSHSSAPERAT</span><span class="topo-outside">GAVITDWRPEDPAFWQQRGQRIASRNLWI</span><span class="topo-membrane">SVPCLLLAFCVWMLFSA</span></span>
-<span class="topo-line"><span class="topo-inside">VAVNLPKVGFNFTTDQLFM</span><span class="topo-membrane">LTALPSVSGALLRVPYS</span><span class="topo-outside">FMVPIFGGRRW</span><span class="topo-membrane">TAFSTGILIIPCV</span></span>
-<span class="topo-line"><span class="topo-membrane">WLG</span><span class="topo-inside">FAVQDTSTPYSVFI</span><span class="topo-membrane">IISLLCGFAGANFASS</span><span class="topo-outside">MANISFFFPKQKQGGALGL</span><span class="topo-membrane">NGGLGNMG</span></span>
-<span class="topo-line"><span class="topo-membrane">VSVMQLVAPLV</span><span class="topo-inside">VS</span><span class="topo-unknown">LSIFAVFGSQGVKQPDGTELY</span><span class="topo-inside">LAN</span><span class="topo-membrane">ASWIWVPFLAIFTIAAW</span><span class="topo-outside">FGMNDL</span></span>
-<span class="topo-line"><span class="topo-outside">A</span><span class="topo-unknown">TSKASIKEQLPVLKRGH</span><span class="topo-outside">LW</span><span class="topo-membrane">IMSLLYLATFGSFIGFSAGF</span><span class="topo-inside">AMLSKTQFPDVQILQ</span><span class="topo-membrane">YAFFG</span></span>
-<span class="topo-line"><span class="topo-membrane">PFIGALARSAGG</span><span class="topo-outside">ALSDRLGGT</span><span class="topo-membrane">RVTLVNFILMAIFSGLL</span><span class="topo-inside">FLTLPTDGQGGSFMAFF</span><span class="topo-membrane">AVFLA</span></span>
-<span class="topo-line"><span class="topo-membrane">LFLTAGLGSGSTF</span><span class="topo-outside">QMISVIFRKLTMDRVKAEGGSDERAMREAATDTAAALG</span><span class="topo-membrane">FISAIGAIG</span></span>
-<span class="topo-line"><span class="topo-membrane">GFFIPKA</span><span class="topo-inside">FGSSLALTGSPVGA</span><span class="topo-membrane">MKVFLIFYIACVVITWAV</span><span class="topo-outside">YG</span><span class="topo-unknown">RHSKK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GSHMSHSSAPERAT</span><span class="topo-outside">GAVITDWRPEDPAFWQQRGQRIASRNLWI</span><span class="topo-membrane">SVPCLLLAFCVWMLFSA</span><span class="topo-inside">VAVNLPKVGFNFTTDQLFM</span><span class="topo-membrane">LTALPSVSGALLRVPYS</span><span class="topo-outside">FMVPIFGGRRW</span><span class="topo-membrane">TAFSTGILIIPCV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">WLG</span><span class="topo-inside">FAVQDTSTPYSVFI</span><span class="topo-membrane">IISLLCGFAGANFASS</span><span class="topo-outside">MANISFFFPKQKQGGALGL</span><span class="topo-membrane">NGGLGNMGVSVMQLVAPLV</span><span class="topo-inside">VS</span><span class="topo-unknown">LSIFAVFGSQGVKQPDGTELY</span><span class="topo-inside">LAN</span><span class="topo-membrane">ASWIWVPFLAIFTIAAW</span><span class="topo-outside">FGMNDL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">A</span><span class="topo-unknown">TSKASIKEQLPVLKRGH</span><span class="topo-outside">LW</span><span class="topo-membrane">IMSLLYLATFGSFIGFSAGF</span><span class="topo-inside">AMLSKTQFPDVQILQ</span><span class="topo-membrane">YAFFGPFIGALARSAGG</span><span class="topo-outside">ALSDRLGGT</span><span class="topo-membrane">RVTLVNFILMAIFSGLL</span><span class="topo-inside">FLTLPTDGQGGSFMAFF</span><span class="topo-membrane">AVFLA</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460      </span>
+<span class="topo-line"><span class="topo-membrane">LFLTAGLGSGSTF</span><span class="topo-outside">QMISVIFRKLTMDRVKAEGGSDERAMREAATDTAAALG</span><span class="topo-membrane">FISAIGAIGGFFIPKA</span><span class="topo-inside">FGSSLALTGSPVGA</span><span class="topo-membrane">MKVFLIFYIACVVITWAV</span><span class="topo-outside">YG</span><span class="topo-unknown">RHSKK</span></span>
+<details class="topo-details"><summary>Topology coordinates (31 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -388,6 +389,7 @@ movement of transmembrane helices and key residues in the substrate-binding site
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -403,14 +405,15 @@ movement of transmembrane helices and key residues in the substrate-binding site
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GSHMSHSSAPERAT</span><span class="topo-outside">GAVITDWRPEDPAFWQQRGQRIASRNLWI</span><span class="topo-membrane">SVPCLLLAFCVWMLFSA</span></span>
-<span class="topo-line"><span class="topo-inside">VAVNLPKVGFNFTTDQLFM</span><span class="topo-membrane">LTALPSVSGALLRVPYS</span><span class="topo-outside">FMVPIFGGRRW</span><span class="topo-membrane">TAFSTGILIIPCV</span></span>
-<span class="topo-line"><span class="topo-membrane">WLG</span><span class="topo-inside">FAVQDTSTPYSVFI</span><span class="topo-membrane">IISLLCGFAGANFASS</span><span class="topo-outside">MANISFFFPKQKQGGALGL</span><span class="topo-membrane">NGGLGNMG</span></span>
-<span class="topo-line"><span class="topo-membrane">VSVMQLVAPLV</span><span class="topo-inside">VS</span><span class="topo-unknown">LSIFAVFGSQGVKQPDGTELY</span><span class="topo-inside">LAN</span><span class="topo-membrane">ASWIWVPFLAIFTIAAW</span><span class="topo-outside">FGMNDL</span></span>
-<span class="topo-line"><span class="topo-outside">A</span><span class="topo-unknown">TSKASIKEQLPVLKRGH</span><span class="topo-outside">LW</span><span class="topo-membrane">IMSLLYLATFGSFIGFSAGF</span><span class="topo-inside">AMLSKTQFPDVQILQ</span><span class="topo-membrane">YAFFG</span></span>
-<span class="topo-line"><span class="topo-membrane">PFIGALARSAGG</span><span class="topo-outside">ALSDRLGGT</span><span class="topo-membrane">RVTLVNFILMAIFSGLL</span><span class="topo-inside">FLTLPTDGQGGSFMAFF</span><span class="topo-membrane">AVFLA</span></span>
-<span class="topo-line"><span class="topo-membrane">LFLTAGLGSGSTF</span><span class="topo-outside">QMISVIFRKLTMDRVKAEGGSDERAMREAATDTAAALG</span><span class="topo-membrane">FISAIGAIG</span></span>
-<span class="topo-line"><span class="topo-membrane">GFFIPKA</span><span class="topo-inside">FGSSLALTGSPVGA</span><span class="topo-membrane">MKVFLIFYIACVVITWAV</span><span class="topo-outside">YG</span><span class="topo-unknown">RHSKK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GSHMSHSSAPERAT</span><span class="topo-outside">GAVITDWRPEDPAFWQQRGQRIASRNLWI</span><span class="topo-membrane">SVPCLLLAFCVWMLFSA</span><span class="topo-inside">VAVNLPKVGFNFTTDQLFM</span><span class="topo-membrane">LTALPSVSGALLRVPYS</span><span class="topo-outside">FMVPIFGGRRW</span><span class="topo-membrane">TAFSTGILIIPCV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">WLG</span><span class="topo-inside">FAVQDTSTPYSVFI</span><span class="topo-membrane">IISLLCGFAGANFASS</span><span class="topo-outside">MANISFFFPKQKQGGALGL</span><span class="topo-membrane">NGGLGNMGVSVMQLVAPLV</span><span class="topo-inside">VS</span><span class="topo-unknown">LSIFAVFGSQGVKQPDGTELY</span><span class="topo-inside">LAN</span><span class="topo-membrane">ASWIWVPFLAIFTIAAW</span><span class="topo-outside">FGMNDL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">A</span><span class="topo-unknown">TSKASIKEQLPVLKRGH</span><span class="topo-outside">LW</span><span class="topo-membrane">IMSLLYLATFGSFIGFSAGF</span><span class="topo-inside">AMLSKTQFPDVQILQ</span><span class="topo-membrane">YAFFGPFIGALARSAGG</span><span class="topo-outside">ALSDRLGGT</span><span class="topo-membrane">RVTLVNFILMAIFSGLL</span><span class="topo-inside">FLTLPTDGQGGSFMAFF</span><span class="topo-membrane">AVFLA</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460      </span>
+<span class="topo-line"><span class="topo-membrane">LFLTAGLGSGSTF</span><span class="topo-outside">QMISVIFRKLTMDRVKAEGGSDERAMREAATDTAAALG</span><span class="topo-membrane">FISAIGAIGGFFIPKA</span><span class="topo-inside">FGSSLALTGSPVGA</span><span class="topo-membrane">MKVFLIFYIACVVITWAV</span><span class="topo-outside">YG</span><span class="topo-unknown">RHSKK</span></span>
+<details class="topo-details"><summary>Topology coordinates (31 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -639,6 +642,7 @@ movement of transmembrane helices and key residues in the substrate-binding site
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -792,14 +796,15 @@ movement of transmembrane helices and key residues in the substrate-binding site
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSHSSAPERATG</span><span class="topo-inside">AVITDWRPEDPAFWQQRGQRIASRNLW</span><span class="topo-membrane">ISVPCLLLAFCVWMLFS</span><span class="topo-outside">AVAV</span></span>
-<span class="topo-line"><span class="topo-outside">NLPKVGFNFTTDQLFML</span><span class="topo-membrane">TALPSVSGALLRVPY</span><span class="topo-inside">SFMVPIFGGRRW</span><span class="topo-membrane">TAFSTGILIIPCVWL</span><span class="topo-outside">G</span></span>
-<span class="topo-line"><span class="topo-outside">FAVQDTSTPYSVF</span><span class="topo-membrane">IIISLLCGFAGANFASS</span><span class="topo-inside">MANISFFFPKQKQGGAL</span><span class="topo-membrane">GLNGGLGNMGVSV</span></span>
-<span class="topo-line"><span class="topo-membrane">MQLVA</span><span class="topo-outside">PLVVSLSIFAVFGSQGVKQPDGTELYLANA</span><span class="topo-membrane">SWIWVPFLAIFTIAA</span><span class="topo-inside">WFGMNDLAT</span><span class="topo-unknown">S</span></span>
-<span class="topo-line"><span class="topo-unknown">KASIKEQ</span><span class="topo-inside">LPVLKRGHL</span><span class="topo-membrane">WIMSLLYLATFGSFIGFSA</span><span class="topo-outside">GFAMLSKTQFPDVQILQYA</span><span class="topo-membrane">FFGPFI</span></span>
-<span class="topo-line"><span class="topo-membrane">GALARSAGGALS</span><span class="topo-inside">DRLG</span><span class="topo-membrane">GTRVTLVNFILMAIFS</span><span class="topo-outside">GLLFLTLPTD</span><span class="topo-unknown">G</span><span class="topo-outside">QGGSFMAFFAV</span><span class="topo-membrane">FLALFL</span></span>
-<span class="topo-line"><span class="topo-membrane">TAGLGSGSTF</span><span class="topo-inside">QMISVIFRKLTMDRVKAEGGSDERAMREAATDTAAALG</span><span class="topo-membrane">FISAIGAIGGFF</span></span>
-<span class="topo-line"><span class="topo-membrane">IP</span><span class="topo-outside">KAFGSSLALTGSPVGAMK</span><span class="topo-membrane">VFLIFYIACVVITWAVY</span><span class="topo-inside">GRHSKK</span><span class="topo-unknown">LESSGENLYFQG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSHSSAPERATG</span><span class="topo-inside">AVITDWRPEDPAFWQQRGQRIASRNLW</span><span class="topo-membrane">ISVPCLLLAFCVWMLFS</span><span class="topo-outside">AVAVNLPKVGFNFTTDQLFML</span><span class="topo-membrane">TALPSVSGALLRVPY</span><span class="topo-inside">SFMVPIFGGRRW</span><span class="topo-membrane">TAFSTGILIIPCVWL</span><span class="topo-outside">G</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">FAVQDTSTPYSVF</span><span class="topo-membrane">IIISLLCGFAGANFASS</span><span class="topo-inside">MANISFFFPKQKQGGAL</span><span class="topo-membrane">GLNGGLGNMGVSVMQLVA</span><span class="topo-outside">PLVVSLSIFAVFGSQGVKQPDGTELYLANA</span><span class="topo-membrane">SWIWVPFLAIFTIAA</span><span class="topo-inside">WFGMNDLAT</span><span class="topo-unknown">S</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-unknown">KASIKEQ</span><span class="topo-inside">LPVLKRGHL</span><span class="topo-membrane">WIMSLLYLATFGSFIGFSA</span><span class="topo-outside">GFAMLSKTQFPDVQILQYA</span><span class="topo-membrane">FFGPFIGALARSAGGALS</span><span class="topo-inside">DRLG</span><span class="topo-membrane">GTRVTLVNFILMAIFS</span><span class="topo-outside">GLLFLTLPTD</span><span class="topo-unknown">G</span><span class="topo-outside">QGGSFMAFFAV</span><span class="topo-membrane">FLALFL</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470     </span>
+<span class="topo-line"><span class="topo-membrane">TAGLGSGSTF</span><span class="topo-inside">QMISVIFRKLTMDRVKAEGGSDERAMREAATDTAAALG</span><span class="topo-membrane">FISAIGAIGGFFIP</span><span class="topo-outside">KAFGSSLALTGSPVGAMK</span><span class="topo-membrane">VFLIFYIACVVITWAVY</span><span class="topo-inside">GRHSKK</span><span class="topo-unknown">LESSGENLYFQG</span></span>
+<details class="topo-details"><summary>Topology coordinates (31 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1028,6 +1033,7 @@ movement of transmembrane helices and key residues in the substrate-binding site
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1043,14 +1049,15 @@ movement of transmembrane helices and key residues in the substrate-binding site
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSHSSAPERATG</span><span class="topo-inside">AVITDWRPEDPAFWQQRGQRIASRNLW</span><span class="topo-membrane">ISVPCLLLAFCVWMLFS</span><span class="topo-outside">AVAV</span></span>
-<span class="topo-line"><span class="topo-outside">NLPKVGFNFTTDQLFML</span><span class="topo-membrane">TALPSVSGALLRVPY</span><span class="topo-inside">SFMVPIFGGRRW</span><span class="topo-membrane">TAFSTGILIIPCVWL</span><span class="topo-outside">G</span></span>
-<span class="topo-line"><span class="topo-outside">FAVQDTSTPYSVF</span><span class="topo-membrane">IIISLLCGFAGANFASS</span><span class="topo-inside">MANISFFFPKQKQGGAL</span><span class="topo-membrane">GLNGGLGNMGVSV</span></span>
-<span class="topo-line"><span class="topo-membrane">MQLVA</span><span class="topo-outside">PLVVSLSIFAVFGSQGVKQPDGTELYLANA</span><span class="topo-membrane">SWIWVPFLAIFTIAA</span><span class="topo-inside">WFGMNDLAT</span><span class="topo-unknown">S</span></span>
-<span class="topo-line"><span class="topo-unknown">KASIKEQ</span><span class="topo-inside">LPVLKRGHL</span><span class="topo-membrane">WIMSLLYLATFGSFIGFSA</span><span class="topo-outside">GFAMLSKTQFPDVQILQYA</span><span class="topo-membrane">FFGPFI</span></span>
-<span class="topo-line"><span class="topo-membrane">GALARSAGGALS</span><span class="topo-inside">DRLG</span><span class="topo-membrane">GTRVTLVNFILMAIFS</span><span class="topo-outside">GLLFLTLPTD</span><span class="topo-unknown">G</span><span class="topo-outside">QGGSFMAFFAV</span><span class="topo-membrane">FLALFL</span></span>
-<span class="topo-line"><span class="topo-membrane">TAGLGSGSTF</span><span class="topo-inside">QMISVIFRKLTMDRVKAEGGSDERAMREAATDTAAALG</span><span class="topo-membrane">FISAIGAIGGFF</span></span>
-<span class="topo-line"><span class="topo-membrane">IP</span><span class="topo-outside">KAFGSSLALTGSPVGAMK</span><span class="topo-membrane">VFLIFYIACVVITWAVY</span><span class="topo-inside">GRHSKK</span><span class="topo-unknown">LESSGENLYFQG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSHSSAPERATG</span><span class="topo-inside">AVITDWRPEDPAFWQQRGQRIASRNLW</span><span class="topo-membrane">ISVPCLLLAFCVWMLFS</span><span class="topo-outside">AVAVNLPKVGFNFTTDQLFML</span><span class="topo-membrane">TALPSVSGALLRVPY</span><span class="topo-inside">SFMVPIFGGRRW</span><span class="topo-membrane">TAFSTGILIIPCVWL</span><span class="topo-outside">G</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">FAVQDTSTPYSVF</span><span class="topo-membrane">IIISLLCGFAGANFASS</span><span class="topo-inside">MANISFFFPKQKQGGAL</span><span class="topo-membrane">GLNGGLGNMGVSVMQLVA</span><span class="topo-outside">PLVVSLSIFAVFGSQGVKQPDGTELYLANA</span><span class="topo-membrane">SWIWVPFLAIFTIAA</span><span class="topo-inside">WFGMNDLAT</span><span class="topo-unknown">S</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-unknown">KASIKEQ</span><span class="topo-inside">LPVLKRGHL</span><span class="topo-membrane">WIMSLLYLATFGSFIGFSA</span><span class="topo-outside">GFAMLSKTQFPDVQILQYA</span><span class="topo-membrane">FFGPFIGALARSAGGALS</span><span class="topo-inside">DRLG</span><span class="topo-membrane">GTRVTLVNFILMAIFS</span><span class="topo-outside">GLLFLTLPTD</span><span class="topo-unknown">G</span><span class="topo-outside">QGGSFMAFFAV</span><span class="topo-membrane">FLALFL</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470     </span>
+<span class="topo-line"><span class="topo-membrane">TAGLGSGSTF</span><span class="topo-inside">QMISVIFRKLTMDRVKAEGGSDERAMREAATDTAAALG</span><span class="topo-membrane">FISAIGAIGGFFIP</span><span class="topo-outside">KAFGSSLALTGSPVGAMK</span><span class="topo-membrane">VFLIFYIACVVITWAVY</span><span class="topo-inside">GRHSKK</span><span class="topo-unknown">LESSGENLYFQG</span></span>
+<details class="topo-details"><summary>Topology coordinates (31 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1279,6 +1286,7 @@ movement of transmembrane helices and key residues in the substrate-binding site
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1294,14 +1302,15 @@ movement of transmembrane helices and key residues in the substrate-binding site
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSHSSAPERATG</span><span class="topo-inside">AVITDWRPEDPAFWQQRGQRIASRNLW</span><span class="topo-membrane">ISVPCLLLAFCVWMLFS</span><span class="topo-outside">AVAV</span></span>
-<span class="topo-line"><span class="topo-outside">NLPKVGFNFTTDQLFML</span><span class="topo-membrane">TALPSVSGALLRVPY</span><span class="topo-inside">SFMVPIFGGRRW</span><span class="topo-membrane">TAFSTGILIIPCVWL</span><span class="topo-outside">G</span></span>
-<span class="topo-line"><span class="topo-outside">FAVQDTSTPYSVF</span><span class="topo-membrane">IIISLLCGFAGANFASS</span><span class="topo-inside">MANISFFFPKQKQGGAL</span><span class="topo-membrane">GLNGGLGNMGVSV</span></span>
-<span class="topo-line"><span class="topo-membrane">MQLVA</span><span class="topo-outside">PLVVSLSIFAVFGSQGVKQPDGTELYLANA</span><span class="topo-membrane">SWIWVPFLAIFTIAA</span><span class="topo-inside">WFGMNDLAT</span><span class="topo-unknown">S</span></span>
-<span class="topo-line"><span class="topo-unknown">KASIKEQ</span><span class="topo-inside">LPVLKRGHL</span><span class="topo-membrane">WIMSLLYLATFGSFIGFSA</span><span class="topo-outside">GFAMLSKTQFPDVQILQYA</span><span class="topo-membrane">FFGPFI</span></span>
-<span class="topo-line"><span class="topo-membrane">GALARSAGGALS</span><span class="topo-inside">DRLG</span><span class="topo-membrane">GTRVTLVNFILMAIFS</span><span class="topo-outside">GLLFLTLPTD</span><span class="topo-unknown">G</span><span class="topo-outside">QGGSFMAFFAV</span><span class="topo-membrane">FLALFL</span></span>
-<span class="topo-line"><span class="topo-membrane">TAGLGSGSTF</span><span class="topo-inside">QMISVIFRKLTMDRVKAEGGSDERAMREAATDTAAALG</span><span class="topo-membrane">FISAIGAIGGFF</span></span>
-<span class="topo-line"><span class="topo-membrane">IP</span><span class="topo-outside">KAFGSSLALTGSPVGAMK</span><span class="topo-membrane">VFLIFYIACVVITWAVY</span><span class="topo-inside">GRHSKK</span><span class="topo-unknown">LESSGENLYFQG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSHSSAPERATG</span><span class="topo-inside">AVITDWRPEDPAFWQQRGQRIASRNLW</span><span class="topo-membrane">ISVPCLLLAFCVWMLFS</span><span class="topo-outside">AVAVNLPKVGFNFTTDQLFML</span><span class="topo-membrane">TALPSVSGALLRVPY</span><span class="topo-inside">SFMVPIFGGRRW</span><span class="topo-membrane">TAFSTGILIIPCVWL</span><span class="topo-outside">G</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">FAVQDTSTPYSVF</span><span class="topo-membrane">IIISLLCGFAGANFASS</span><span class="topo-inside">MANISFFFPKQKQGGAL</span><span class="topo-membrane">GLNGGLGNMGVSVMQLVA</span><span class="topo-outside">PLVVSLSIFAVFGSQGVKQPDGTELYLANA</span><span class="topo-membrane">SWIWVPFLAIFTIAA</span><span class="topo-inside">WFGMNDLAT</span><span class="topo-unknown">S</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-unknown">KASIKEQ</span><span class="topo-inside">LPVLKRGHL</span><span class="topo-membrane">WIMSLLYLATFGSFIGFSA</span><span class="topo-outside">GFAMLSKTQFPDVQILQYA</span><span class="topo-membrane">FFGPFIGALARSAGGALS</span><span class="topo-inside">DRLG</span><span class="topo-membrane">GTRVTLVNFILMAIFS</span><span class="topo-outside">GLLFLTLPTD</span><span class="topo-unknown">G</span><span class="topo-outside">QGGSFMAFFAV</span><span class="topo-membrane">FLALFL</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470     </span>
+<span class="topo-line"><span class="topo-membrane">TAGLGSGSTF</span><span class="topo-inside">QMISVIFRKLTMDRVKAEGGSDERAMREAATDTAAALG</span><span class="topo-membrane">FISAIGAIGGFFIP</span><span class="topo-outside">KAFGSSLALTGSPVGAMK</span><span class="topo-membrane">VFLIFYIACVVITWAVY</span><span class="topo-inside">GRHSKK</span><span class="topo-unknown">LESSGENLYFQG</span></span>
+<details class="topo-details"><summary>Topology coordinates (31 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1530,6 +1539,7 @@ movement of transmembrane helices and key residues in the substrate-binding site
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

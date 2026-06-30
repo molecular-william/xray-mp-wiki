@@ -200,13 +200,15 @@ Lactose permease (LacY) from Escherichia coli is a galactoside/H+ symporter and 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MYYLKNT</span><span class="topo-membrane">NFWMFGLFFFFYFFIMGAYFPFFP</span><span class="topo-inside">IWLHDINHISKS</span><span class="topo-membrane">DTGIIFAAISLFSLLFQ</span></span>
-<span class="topo-line"><span class="topo-membrane">PLFG</span><span class="topo-outside">LLSDKLGLRK</span><span class="topo-membrane">YLLWIITGMLVMFAPFF</span><span class="topo-inside">IFI</span><span class="topo-unknown">FGPLLQ</span><span class="topo-inside">YNILV</span><span class="topo-membrane">GSIVGGIYLGFCFNA</span></span>
-<span class="topo-line"><span class="topo-membrane">GAPAVEAFI</span><span class="topo-outside">EKVSRRSNFEFG</span><span class="topo-membrane">RARMFGCVGWALGASIVGI</span><span class="topo-inside">MFTINNQFV</span><span class="topo-membrane">FWLGSGCALIL</span></span>
-<span class="topo-line"><span class="topo-membrane">AVLLFFAK</span><span class="topo-outside">TDAPSSATVANAVGANHSAFS</span><span class="topo-unknown">LKLALEL</span><span class="topo-outside">FRQPKLWF</span><span class="topo-membrane">LSLYVIGVSCTYDVFD</span></span>
-<span class="topo-line"><span class="topo-membrane">QQFA</span><span class="topo-inside">NFFTSFFATGEQGTR</span><span class="topo-membrane">VFGYVTTMGELLNASIMFFA</span><span class="topo-unknown">PLIINRI</span><span class="topo-outside">GGKN</span><span class="topo-membrane">ALLLAGTIMS</span></span>
-<span class="topo-line"><span class="topo-membrane">VRIIGSSFA</span><span class="topo-inside">TSAL</span><span class="topo-membrane">EVVILKTLHMFEVPFLLVGC</span><span class="topo-outside">FKYITSQFEVRFSATIYL</span><span class="topo-membrane">VCFCFFKQL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MYYLKNT</span><span class="topo-membrane">NFWMFGLFFFFYFFIMGAYFPFFP</span><span class="topo-inside">IWLHDINHISKS</span><span class="topo-membrane">DTGIIFAAISLFSLLFQPLFG</span><span class="topo-outside">LLSDKLGLRK</span><span class="topo-membrane">YLLWIITGMLVMFAPFF</span><span class="topo-inside">IFI</span><span class="topo-unknown">FGPLLQ</span><span class="topo-inside">YNILV</span><span class="topo-membrane">GSIVGGIYLGFCFNA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GAPAVEAFI</span><span class="topo-outside">EKVSRRSNFEFG</span><span class="topo-membrane">RARMFGCVGWALGASIVGI</span><span class="topo-inside">MFTINNQFV</span><span class="topo-membrane">FWLGSGCALILAVLLFFAK</span><span class="topo-outside">TDAPSSATVANAVGANHSAFS</span><span class="topo-unknown">LKLALEL</span><span class="topo-outside">FRQPKLWF</span><span class="topo-membrane">LSLYVIGVSCTYDVFD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">QQFA</span><span class="topo-inside">NFFTSFFATGEQGTR</span><span class="topo-membrane">VFGYVTTMGELLNASIMFFA</span><span class="topo-unknown">PLIINRI</span><span class="topo-outside">GGKN</span><span class="topo-membrane">ALLLAGTIMSVRIIGSSFA</span><span class="topo-inside">TSAL</span><span class="topo-membrane">EVVILKTLHMFEVPFLLVGC</span><span class="topo-outside">FKYITSQFEVRFSATIYL</span><span class="topo-membrane">VCFCFFKQL</span></span>
+<span class="topo-ruler">       370       380       390       400       410       </span>
 <span class="topo-line"><span class="topo-membrane">AMIFMSVLAGNMY</span><span class="topo-inside">ESIGF</span><span class="topo-membrane">QGAYLVLGLVALGFTLISVFT</span><span class="topo-outside">LSGPGPLSLLRRQVNEVA</span></span>
+<details class="topo-details"><summary>Topology coordinates (30 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -428,6 +430,7 @@ Lactose permease (LacY) from Escherichia coli is a galactoside/H+ symporter and 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -443,13 +446,15 @@ Lactose permease (LacY) from Escherichia coli is a galactoside/H+ symporter and 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MYYLKNT</span><span class="topo-membrane">NFWMFGLFFFFYFFIMGAYFPFFP</span><span class="topo-inside">IWLHDINHISKS</span><span class="topo-membrane">DTGIIFAAISLFSLLFQ</span></span>
-<span class="topo-line"><span class="topo-membrane">PLFG</span><span class="topo-outside">LLSDKLGLRK</span><span class="topo-membrane">YLLWIITGMLVMFAPFF</span><span class="topo-inside">IFI</span><span class="topo-unknown">FGPLLQ</span><span class="topo-inside">YNILV</span><span class="topo-membrane">GSIVGGIYLGFCFNA</span></span>
-<span class="topo-line"><span class="topo-membrane">GAPAVEAFI</span><span class="topo-outside">EKVSRRSNFEFG</span><span class="topo-membrane">RARMFGCVGWALGASIVGI</span><span class="topo-inside">MFTINNQFV</span><span class="topo-membrane">FWLGSGCALIL</span></span>
-<span class="topo-line"><span class="topo-membrane">AVLLFFAK</span><span class="topo-outside">TDAPSSATVANAVGANHSAFS</span><span class="topo-unknown">LKLALEL</span><span class="topo-outside">FRQPKLWF</span><span class="topo-membrane">LSLYVIGVSCTYDVFD</span></span>
-<span class="topo-line"><span class="topo-membrane">QQFA</span><span class="topo-inside">NFFTSFFATGEQGTR</span><span class="topo-membrane">VFGYVTTMGELLNASIMFFA</span><span class="topo-unknown">PLIINRI</span><span class="topo-outside">GGKN</span><span class="topo-membrane">ALLLAGTIMS</span></span>
-<span class="topo-line"><span class="topo-membrane">VRIIGSSFA</span><span class="topo-inside">TSAL</span><span class="topo-membrane">EVVILKTLHMFEVPFLLVGC</span><span class="topo-outside">FKYITSQFEVRFSATIYL</span><span class="topo-membrane">VCFCFFKQL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MYYLKNT</span><span class="topo-membrane">NFWMFGLFFFFYFFIMGAYFPFFP</span><span class="topo-inside">IWLHDINHISKS</span><span class="topo-membrane">DTGIIFAAISLFSLLFQPLFG</span><span class="topo-outside">LLSDKLGLRK</span><span class="topo-membrane">YLLWIITGMLVMFAPFF</span><span class="topo-inside">IFI</span><span class="topo-unknown">FGPLLQ</span><span class="topo-inside">YNILV</span><span class="topo-membrane">GSIVGGIYLGFCFNA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GAPAVEAFI</span><span class="topo-outside">EKVSRRSNFEFG</span><span class="topo-membrane">RARMFGCVGWALGASIVGI</span><span class="topo-inside">MFTINNQFV</span><span class="topo-membrane">FWLGSGCALILAVLLFFAK</span><span class="topo-outside">TDAPSSATVANAVGANHSAFS</span><span class="topo-unknown">LKLALEL</span><span class="topo-outside">FRQPKLWF</span><span class="topo-membrane">LSLYVIGVSCTYDVFD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">QQFA</span><span class="topo-inside">NFFTSFFATGEQGTR</span><span class="topo-membrane">VFGYVTTMGELLNASIMFFA</span><span class="topo-unknown">PLIINRI</span><span class="topo-outside">GGKN</span><span class="topo-membrane">ALLLAGTIMSVRIIGSSFA</span><span class="topo-inside">TSAL</span><span class="topo-membrane">EVVILKTLHMFEVPFLLVGC</span><span class="topo-outside">FKYITSQFEVRFSATIYL</span><span class="topo-membrane">VCFCFFKQL</span></span>
+<span class="topo-ruler">       370       380       390       400       410       </span>
 <span class="topo-line"><span class="topo-membrane">AMIFMSVLAGNMY</span><span class="topo-inside">ESIGF</span><span class="topo-membrane">QGAYLVLGLVALGFTLISVFT</span><span class="topo-outside">LSGPGPLSLLRRQVNEVA</span></span>
+<details class="topo-details"><summary>Topology coordinates (30 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -671,6 +676,7 @@ Lactose permease (LacY) from Escherichia coli is a galactoside/H+ symporter and 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -686,13 +692,15 @@ Lactose permease (LacY) from Escherichia coli is a galactoside/H+ symporter and 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MYYLKNTN</span><span class="topo-membrane">FWMFGLFFFFYFFIMGAYFPFFPIWL</span><span class="topo-outside">HDINHISKS</span><span class="topo-membrane">DTGIIFAAISLFSLLFQ</span></span>
-<span class="topo-line"><span class="topo-membrane">PLFGLLS</span><span class="topo-inside">DKLGLRK</span><span class="topo-membrane">YLLWIITGMLVMFAPFFIFIF</span><span class="topo-outside">GPLLQYNIL</span><span class="topo-membrane">VGSIVGGIYLGFCFNA</span></span>
-<span class="topo-line"><span class="topo-membrane">GAPAVEAFI</span><span class="topo-inside">EKVSRRSNFEF</span><span class="topo-membrane">GRARMFGCVGWALGASIVGIMF</span><span class="topo-outside">TINN</span><span class="topo-membrane">QFVFWLGSGCALIL</span></span>
-<span class="topo-line"><span class="topo-membrane">AVLLFFAK</span><span class="topo-inside">TDAPSSATVANAVGANHSAFSLKLALELFRQP</span><span class="topo-membrane">KLWFLSLYVIGVSCTYDVFD</span></span>
-<span class="topo-line"><span class="topo-membrane">QQFANFF</span><span class="topo-outside">TSFFATGEQGT</span><span class="topo-membrane">RVFGYVTTMGELLNASIMFFA</span><span class="topo-inside">PLIINRIGG</span><span class="topo-membrane">KNALLLAGTIMS</span></span>
-<span class="topo-line"><span class="topo-membrane">VRIIGSSFA</span><span class="topo-outside">TSAL</span><span class="topo-membrane">EVVILKTLHMFEVPFLLVGCF</span><span class="topo-inside">KYITSQFEVRFSATI</span><span class="topo-membrane">YLVCFCFFKQL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">MYYLKNTN</span><span class="topo-membrane">FWMFGLFFFFYFFIMGAYFPFFPIWL</span><span class="topo-outside">HDINHISKS</span><span class="topo-membrane">DTGIIFAAISLFSLLFQPLFGLLS</span><span class="topo-inside">DKLGLRK</span><span class="topo-membrane">YLLWIITGMLVMFAPFFIFIF</span><span class="topo-outside">GPLLQYNIL</span><span class="topo-membrane">VGSIVGGIYLGFCFNA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GAPAVEAFI</span><span class="topo-inside">EKVSRRSNFEF</span><span class="topo-membrane">GRARMFGCVGWALGASIVGIMF</span><span class="topo-outside">TINN</span><span class="topo-membrane">QFVFWLGSGCALILAVLLFFAK</span><span class="topo-inside">TDAPSSATVANAVGANHSAFSLKLALELFRQP</span><span class="topo-membrane">KLWFLSLYVIGVSCTYDVFD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">QQFANFF</span><span class="topo-outside">TSFFATGEQGT</span><span class="topo-membrane">RVFGYVTTMGELLNASIMFFA</span><span class="topo-inside">PLIINRIGG</span><span class="topo-membrane">KNALLLAGTIMSVRIIGSSFA</span><span class="topo-outside">TSAL</span><span class="topo-membrane">EVVILKTLHMFEVPFLLVGCF</span><span class="topo-inside">KYITSQFEVRFSATI</span><span class="topo-membrane">YLVCFCFFKQL</span></span>
+<span class="topo-ruler">       370       380       390       400       410       </span>
 <span class="topo-line"><span class="topo-membrane">AMIFMSVLAGNM</span><span class="topo-outside">YESIGFQGA</span><span class="topo-membrane">YLVLGLVALGFTLISVFTLS</span><span class="topo-inside">GPGPLSLLRRQVNEVA</span></span>
+<details class="topo-details"><summary>Topology coordinates (25 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -879,6 +887,7 @@ Lactose permease (LacY) from Escherichia coli is a galactoside/H+ symporter and 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1021,13 +1030,15 @@ Lactose permease (LacY) from Escherichia coli is a galactoside/H+ symporter and 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MYYLK</span><span class="topo-inside">NTNF</span><span class="topo-membrane">WMFGLFFFFYFFIMGAYFPFF</span><span class="topo-outside">PIWLHDINHISKSDTWII</span><span class="topo-membrane">FAAISLFSLLFQ</span></span>
-<span class="topo-line"><span class="topo-membrane">PLFGLLS</span><span class="topo-inside">DKLGLRK</span><span class="topo-membrane">YLLWIITGMLVMFAPFF</span><span class="topo-outside">IFIFGPLLQYNILVGSI</span><span class="topo-membrane">VGGIYLGFCFNA</span></span>
-<span class="topo-line"><span class="topo-membrane">GAPAVEAFIE</span><span class="topo-inside">KVSRRSNFEF</span><span class="topo-membrane">GRARMFGCVGWALCASIV</span><span class="topo-outside">GIMFTINNQFV</span><span class="topo-membrane">FWLGSGCALIL</span></span>
-<span class="topo-line"><span class="topo-membrane">AVLLFFA</span><span class="topo-inside">KTD</span><span class="topo-unknown">APSSATVANAVGANHS</span><span class="topo-inside">AFS</span><span class="topo-unknown">LKLALELF</span><span class="topo-inside">RQPKLW</span><span class="topo-membrane">FLSLYVIGVSCTYDVFD</span></span>
-<span class="topo-line"><span class="topo-membrane">QQF</span><span class="topo-outside">ANFFTSFFATGEQGTRVFW</span><span class="topo-membrane">YVTTMGELLNASIMFFAP</span><span class="topo-inside">LIINRIGGKN</span><span class="topo-membrane">ALLLAGTIMS</span></span>
-<span class="topo-line"><span class="topo-membrane">VRIIGSSFA</span><span class="topo-outside">TSAL</span><span class="topo-membrane">EVVILKTLHMFEVPFLLVGCF</span><span class="topo-inside">KYITSQFEVRFSA</span><span class="topo-membrane">TIYLVCFCFFKQL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MYYLK</span><span class="topo-inside">NTNF</span><span class="topo-membrane">WMFGLFFFFYFFIMGAYFPFF</span><span class="topo-outside">PIWLHDINHISKSDTWII</span><span class="topo-membrane">FAAISLFSLLFQPLFGLLS</span><span class="topo-inside">DKLGLRK</span><span class="topo-membrane">YLLWIITGMLVMFAPFF</span><span class="topo-outside">IFIFGPLLQYNILVGSI</span><span class="topo-membrane">VGGIYLGFCFNA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GAPAVEAFIE</span><span class="topo-inside">KVSRRSNFEF</span><span class="topo-membrane">GRARMFGCVGWALCASIV</span><span class="topo-outside">GIMFTINNQFV</span><span class="topo-membrane">FWLGSGCALILAVLLFFA</span><span class="topo-inside">KTD</span><span class="topo-unknown">APSSATVANAVGANHS</span><span class="topo-inside">AFS</span><span class="topo-unknown">LKLALELF</span><span class="topo-inside">RQPKLW</span><span class="topo-membrane">FLSLYVIGVSCTYDVFD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">QQF</span><span class="topo-outside">ANFFTSFFATGEQGTRVFW</span><span class="topo-membrane">YVTTMGELLNASIMFFAP</span><span class="topo-inside">LIINRIGGKN</span><span class="topo-membrane">ALLLAGTIMSVRIIGSSFA</span><span class="topo-outside">TSAL</span><span class="topo-membrane">EVVILKTLHMFEVPFLLVGCF</span><span class="topo-inside">KYITSQFEVRFSA</span><span class="topo-membrane">TIYLVCFCFFKQL</span></span>
+<span class="topo-ruler">       370       380       390       400       410       </span>
 <span class="topo-line"><span class="topo-membrane">AMIFMSVLA</span><span class="topo-outside">GNMYESIGFQ</span><span class="topo-membrane">GAYLVLGLVALGFTLISV</span><span class="topo-inside">FTLSGPGPLSL</span><span class="topo-unknown">LRRQVNEVA</span></span>
+<details class="topo-details"><summary>Topology coordinates (28 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1235,6 +1246,7 @@ Lactose permease (LacY) from Escherichia coli is a galactoside/H+ symporter and 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1352,13 +1364,15 @@ Lactose permease (LacY) from Escherichia coli is a galactoside/H+ symporter and 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MYYLKNTNFW</span><span class="topo-membrane">MFGLFFFFYFFIMGAYFPFFPIWL</span><span class="topo-outside">HDINHISK</span><span class="topo-membrane">SDTGIIFAAISLFSLLFQ</span></span>
-<span class="topo-line"><span class="topo-membrane">PLFG</span><span class="topo-inside">LLSDKLGLRK</span><span class="topo-membrane">YLLWIITGMLVMFAPFFIFIFG</span><span class="topo-outside">PLLQYNIL</span><span class="topo-membrane">VGSIVGGIYLGFCFNA</span></span>
-<span class="topo-line"><span class="topo-membrane">GAPAVEAFI</span><span class="topo-inside">EKVSRRSNFEFGR</span><span class="topo-membrane">ARMFGCVGWALCASIVGIMF</span><span class="topo-outside">TINNQ</span><span class="topo-membrane">FVFWLGSGCALIL</span></span>
-<span class="topo-line"><span class="topo-membrane">AVLLFFAK</span><span class="topo-inside">TDAPSSATVANAVGANHSAFS</span><span class="topo-unknown">LKLALEL</span><span class="topo-inside">FRQPKL</span><span class="topo-membrane">WFLSLYVIGVSCTYDVFD</span></span>
-<span class="topo-line"><span class="topo-membrane">QQFANFF</span><span class="topo-outside">TSFFATGEQGT</span><span class="topo-membrane">RVFGYVTTMGELLNASIMFFA</span><span class="topo-unknown">PLIINRI</span><span class="topo-inside">GG</span><span class="topo-membrane">KNALLLAGTIMS</span></span>
-<span class="topo-line"><span class="topo-membrane">VRIIGSSFA</span><span class="topo-outside">TSAL</span><span class="topo-membrane">EVVILKTLHMFEVPFLLVGC</span><span class="topo-inside">FKYITSQFEVRFSATIY</span><span class="topo-membrane">LVCFCFFKQL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">MYYLKNTNFW</span><span class="topo-membrane">MFGLFFFFYFFIMGAYFPFFPIWL</span><span class="topo-outside">HDINHISK</span><span class="topo-membrane">SDTGIIFAAISLFSLLFQPLFG</span><span class="topo-inside">LLSDKLGLRK</span><span class="topo-membrane">YLLWIITGMLVMFAPFFIFIFG</span><span class="topo-outside">PLLQYNIL</span><span class="topo-membrane">VGSIVGGIYLGFCFNA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GAPAVEAFI</span><span class="topo-inside">EKVSRRSNFEFGR</span><span class="topo-membrane">ARMFGCVGWALCASIVGIMF</span><span class="topo-outside">TINNQ</span><span class="topo-membrane">FVFWLGSGCALILAVLLFFAK</span><span class="topo-inside">TDAPSSATVANAVGANHSAFS</span><span class="topo-unknown">LKLALEL</span><span class="topo-inside">FRQPKL</span><span class="topo-membrane">WFLSLYVIGVSCTYDVFD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">QQFANFF</span><span class="topo-outside">TSFFATGEQGT</span><span class="topo-membrane">RVFGYVTTMGELLNASIMFFA</span><span class="topo-unknown">PLIINRI</span><span class="topo-inside">GG</span><span class="topo-membrane">KNALLLAGTIMSVRIIGSSFA</span><span class="topo-outside">TSAL</span><span class="topo-membrane">EVVILKTLHMFEVPFLLVGC</span><span class="topo-inside">FKYITSQFEVRFSATIY</span><span class="topo-membrane">LVCFCFFKQL</span></span>
+<span class="topo-ruler">       370       380       390       400       410       </span>
 <span class="topo-line"><span class="topo-membrane">AMIFMSVLAGNMY</span><span class="topo-outside">ESIGF</span><span class="topo-membrane">QGAYLVLGLVALGFTLISVFTL</span><span class="topo-inside">SGPGPLSLLRRQVNEVA</span></span>
+<details class="topo-details"><summary>Topology coordinates (28 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1566,6 +1580,7 @@ Lactose permease (LacY) from Escherichia coli is a galactoside/H+ symporter and 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

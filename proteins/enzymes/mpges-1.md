@@ -107,9 +107,11 @@ Human microsomal prostaglandin E2 synthase 1 (mPGES-1) is a 152 amino-acid membe
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GSLPAHSL</span><span class="topo-inside">VMSSPALPA</span><span class="topo-membrane">FLLCSTLLVIKMYVVAI</span><span class="topo-outside">ITGQVRLRKKAFANPEDALRHGGPQY</span></span>
-<span class="topo-line"><span class="topo-outside">CRSDPDVERCLRAH</span><span class="topo-membrane">RNDMETIYPFLFLGFVYS</span><span class="topo-inside">FLGPNPF</span><span class="topo-membrane">VAWMHFLVFLVGRVAHTV</span><span class="topo-outside">AYL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GSLPAHSL</span><span class="topo-inside">VMSSPALPA</span><span class="topo-membrane">FLLCSTLLVIKMYVVAI</span><span class="topo-outside">ITGQVRLRKKAFANPEDALRHGGPQYCRSDPDVERCLRAH</span><span class="topo-membrane">RNDMETIYPFLFLGFVYS</span><span class="topo-inside">FLGPNPF</span><span class="topo-membrane">VAWMHFLVFLVGRVAHTV</span><span class="topo-outside">AYL</span></span>
+<span class="topo-ruler">       130       140       150    </span>
 <span class="topo-line"><span class="topo-outside">GKLRAPIRSV</span><span class="topo-membrane">TYTLAQLPCASMALQILW</span><span class="topo-inside">EAARHL</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -184,6 +186,7 @@ Human microsomal prostaglandin E2 synthase 1 (mPGES-1) is a 152 amino-acid membe
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -199,9 +202,11 @@ Human microsomal prostaglandin E2 synthase 1 (mPGES-1) is a 152 amino-acid membe
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GSLPAHSL</span><span class="topo-inside">VMSSPALPA</span><span class="topo-membrane">FLLCSTLLVIKMYVVAI</span><span class="topo-outside">ITGQVRLRKKAFANPEDALRHGGPQY</span></span>
-<span class="topo-line"><span class="topo-outside">CRSDPDVERCLRAH</span><span class="topo-membrane">RNDMETIYPFLFLGFVYS</span><span class="topo-inside">FLGPNPF</span><span class="topo-membrane">VAWMHFLVFLVGRVAHTV</span><span class="topo-outside">AYL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GSLPAHSL</span><span class="topo-inside">VMSSPALPA</span><span class="topo-membrane">FLLCSTLLVIKMYVVAI</span><span class="topo-outside">ITGQVRLRKKAFANPEDALRHGGPQYCRSDPDVERCLRAH</span><span class="topo-membrane">RNDMETIYPFLFLGFVYS</span><span class="topo-inside">FLGPNPF</span><span class="topo-membrane">VAWMHFLVFLVGRVAHTV</span><span class="topo-outside">AYL</span></span>
+<span class="topo-ruler">       130       140       150    </span>
 <span class="topo-line"><span class="topo-outside">GKLRAPIRSV</span><span class="topo-membrane">TYTLAQLPCASMALQILW</span><span class="topo-inside">EAARHL</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -276,6 +281,7 @@ Human microsomal prostaglandin E2 synthase 1 (mPGES-1) is a 152 amino-acid membe
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -291,9 +297,11 @@ Human microsomal prostaglandin E2 synthase 1 (mPGES-1) is a 152 amino-acid membe
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GSLPAHSL</span><span class="topo-inside">VMSSPALPA</span><span class="topo-membrane">FLLCSTLLVIKMYVVAI</span><span class="topo-outside">ITGQVRLRKKAFANPEDALRHGGPQY</span></span>
-<span class="topo-line"><span class="topo-outside">CRSDPDVERCLRAH</span><span class="topo-membrane">RNDMETIYPFLFLGFVYS</span><span class="topo-inside">FLGPNPF</span><span class="topo-membrane">VAWMHFLVFLVGRVAHTV</span><span class="topo-outside">AYL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GSLPAHSL</span><span class="topo-inside">VMSSPALPA</span><span class="topo-membrane">FLLCSTLLVIKMYVVAI</span><span class="topo-outside">ITGQVRLRKKAFANPEDALRHGGPQYCRSDPDVERCLRAH</span><span class="topo-membrane">RNDMETIYPFLFLGFVYS</span><span class="topo-inside">FLGPNPF</span><span class="topo-membrane">VAWMHFLVFLVGRVAHTV</span><span class="topo-outside">AYL</span></span>
+<span class="topo-ruler">       130       140       150    </span>
 <span class="topo-line"><span class="topo-outside">GKLRAPIRSV</span><span class="topo-membrane">TYTLAQLPCASMALQILW</span><span class="topo-inside">EAARHL</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -368,6 +376,7 @@ Human microsomal prostaglandin E2 synthase 1 (mPGES-1) is a 152 amino-acid membe
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -383,9 +392,11 @@ Human microsomal prostaglandin E2 synthase 1 (mPGES-1) is a 152 amino-acid membe
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">SLVMSSPALPA</span><span class="topo-membrane">FLLCSTLLVIKMYVVAIITG</span><span class="topo-outside">QVRLRKKAFAN</span><span class="topo-unknown">PEDALR</span><span class="topo-outside">HGGPQYCRSDPD</span></span>
-<span class="topo-line"><span class="topo-outside">VERC</span><span class="topo-membrane">LRAHRNDMETIYPFLFLGFVYS</span><span class="topo-inside">FLGPNPFV</span><span class="topo-membrane">AWMHFLVFLVGRVAHTVAYLG</span><span class="topo-outside">KLRAP</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">SLVMSSPALPA</span><span class="topo-membrane">FLLCSTLLVIKMYVVAIITG</span><span class="topo-outside">QVRLRKKAFAN</span><span class="topo-unknown">PEDALR</span><span class="topo-outside">HGGPQYCRSDPDVERC</span><span class="topo-membrane">LRAHRNDMETIYPFLFLGFVYS</span><span class="topo-inside">FLGPNPFV</span><span class="topo-membrane">AWMHFLVFLVGRVAHTVAYLG</span><span class="topo-outside">KLRAP</span></span>
+<span class="topo-ruler">       130       140        </span>
 <span class="topo-line"><span class="topo-membrane">IRSVTYTLAQLPCASMALQILW</span><span class="topo-inside">EAARHL</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -474,6 +485,7 @@ Human microsomal prostaglandin E2 synthase 1 (mPGES-1) is a 152 amino-acid membe
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -489,9 +501,11 @@ Human microsomal prostaglandin E2 synthase 1 (mPGES-1) is a 152 amino-acid membe
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">SLVMSSPALPA</span><span class="topo-membrane">FLLCSTLLVIKMYVVAIITG</span><span class="topo-outside">QVRLRKKAFAN</span><span class="topo-unknown">PEDALR</span><span class="topo-outside">HGGPQYCRSDPD</span></span>
-<span class="topo-line"><span class="topo-outside">VERC</span><span class="topo-membrane">LRAHRNDMETIYPFLFLGFVYS</span><span class="topo-inside">FLGPNPFV</span><span class="topo-membrane">AWMHFLVFLVGRVAHTVAYLG</span><span class="topo-outside">KLRAP</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">SLVMSSPALPA</span><span class="topo-membrane">FLLCSTLLVIKMYVVAIITG</span><span class="topo-outside">QVRLRKKAFAN</span><span class="topo-unknown">PEDALR</span><span class="topo-outside">HGGPQYCRSDPDVERC</span><span class="topo-membrane">LRAHRNDMETIYPFLFLGFVYS</span><span class="topo-inside">FLGPNPFV</span><span class="topo-membrane">AWMHFLVFLVGRVAHTVAYLG</span><span class="topo-outside">KLRAP</span></span>
+<span class="topo-ruler">       130       140        </span>
 <span class="topo-line"><span class="topo-membrane">IRSVTYTLAQLPCASMALQILW</span><span class="topo-inside">EAARHL</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -580,6 +594,7 @@ Human microsomal prostaglandin E2 synthase 1 (mPGES-1) is a 152 amino-acid membe
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -595,9 +610,11 @@ Human microsomal prostaglandin E2 synthase 1 (mPGES-1) is a 152 amino-acid membe
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">SLVMSSPALPA</span><span class="topo-membrane">FLLCSTLLVIKMYVVAIITG</span><span class="topo-outside">QVRLRKKAFAN</span><span class="topo-unknown">PEDALR</span><span class="topo-outside">HGGPQYCRSDPD</span></span>
-<span class="topo-line"><span class="topo-outside">VERC</span><span class="topo-membrane">LRAHRNDMETIYPFLFLGFVYS</span><span class="topo-inside">FLGPNPFV</span><span class="topo-membrane">AWMHFLVFLVGRVAHTVAYLG</span><span class="topo-outside">KLRAP</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">SLVMSSPALPA</span><span class="topo-membrane">FLLCSTLLVIKMYVVAIITG</span><span class="topo-outside">QVRLRKKAFAN</span><span class="topo-unknown">PEDALR</span><span class="topo-outside">HGGPQYCRSDPDVERC</span><span class="topo-membrane">LRAHRNDMETIYPFLFLGFVYS</span><span class="topo-inside">FLGPNPFV</span><span class="topo-membrane">AWMHFLVFLVGRVAHTVAYLG</span><span class="topo-outside">KLRAP</span></span>
+<span class="topo-ruler">       130       140        </span>
 <span class="topo-line"><span class="topo-membrane">IRSVTYTLAQLPCASMALQILW</span><span class="topo-inside">EAARHL</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -686,6 +703,7 @@ Human microsomal prostaglandin E2 synthase 1 (mPGES-1) is a 152 amino-acid membe
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -701,9 +719,11 @@ Human microsomal prostaglandin E2 synthase 1 (mPGES-1) is a 152 amino-acid membe
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">SLVMSSPAL</span><span class="topo-membrane">PAFLLCSTLLVIKMYVVAIITGQ</span><span class="topo-outside">VRLRKKAFAN</span><span class="topo-unknown">PEDALR</span><span class="topo-outside">HGGPQYCRSDPD</span></span>
-<span class="topo-line"><span class="topo-outside">VERC</span><span class="topo-membrane">LRAHRNDMETIYPFLFLGFVYS</span><span class="topo-inside">FLGPNPF</span><span class="topo-membrane">VAWMHFLVFLVGRVAHTVAYLG</span><span class="topo-outside">KLRAP</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">SLVMSSPAL</span><span class="topo-membrane">PAFLLCSTLLVIKMYVVAIITGQ</span><span class="topo-outside">VRLRKKAFAN</span><span class="topo-unknown">PEDALR</span><span class="topo-outside">HGGPQYCRSDPDVERC</span><span class="topo-membrane">LRAHRNDMETIYPFLFLGFVYS</span><span class="topo-inside">FLGPNPF</span><span class="topo-membrane">VAWMHFLVFLVGRVAHTVAYLG</span><span class="topo-outside">KLRAP</span></span>
+<span class="topo-ruler">       130       140        </span>
 <span class="topo-line"><span class="topo-membrane">IRSVTYTLAQLPCASMALQILWEAA</span><span class="topo-inside">RHL</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -792,6 +812,7 @@ Human microsomal prostaglandin E2 synthase 1 (mPGES-1) is a 152 amino-acid membe
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -807,9 +828,11 @@ Human microsomal prostaglandin E2 synthase 1 (mPGES-1) is a 152 amino-acid membe
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">SLVMSSPAL</span><span class="topo-membrane">PAFLLCSTLLVIKMYVVAIITGQ</span><span class="topo-outside">VRLRKKAFAN</span><span class="topo-unknown">PEDALR</span><span class="topo-outside">HGGPQYCRSDPD</span></span>
-<span class="topo-line"><span class="topo-outside">VERC</span><span class="topo-membrane">LRAHRNDMETIYPFLFLGFVYS</span><span class="topo-inside">FLGPNPF</span><span class="topo-membrane">VAWMHFLVFLVGRVAHTVAYLG</span><span class="topo-outside">KLRAP</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">SLVMSSPAL</span><span class="topo-membrane">PAFLLCSTLLVIKMYVVAIITGQ</span><span class="topo-outside">VRLRKKAFAN</span><span class="topo-unknown">PEDALR</span><span class="topo-outside">HGGPQYCRSDPDVERC</span><span class="topo-membrane">LRAHRNDMETIYPFLFLGFVYS</span><span class="topo-inside">FLGPNPF</span><span class="topo-membrane">VAWMHFLVFLVGRVAHTVAYLG</span><span class="topo-outside">KLRAP</span></span>
+<span class="topo-ruler">       130       140        </span>
 <span class="topo-line"><span class="topo-membrane">IRSVTYTLAQLPCASMALQILWEAA</span><span class="topo-inside">RHL</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -898,6 +921,7 @@ Human microsomal prostaglandin E2 synthase 1 (mPGES-1) is a 152 amino-acid membe
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -913,9 +937,11 @@ Human microsomal prostaglandin E2 synthase 1 (mPGES-1) is a 152 amino-acid membe
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">SLVMSSPAL</span><span class="topo-membrane">PAFLLCSTLLVIKMYVVAIITGQ</span><span class="topo-outside">VRLRKKAFAN</span><span class="topo-unknown">PEDALR</span><span class="topo-outside">HGGPQYCRSDPD</span></span>
-<span class="topo-line"><span class="topo-outside">VERC</span><span class="topo-membrane">LRAHRNDMETIYPFLFLGFVYS</span><span class="topo-inside">FLGPNPF</span><span class="topo-membrane">VAWMHFLVFLVGRVAHTVAYLG</span><span class="topo-outside">KLRAP</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">SLVMSSPAL</span><span class="topo-membrane">PAFLLCSTLLVIKMYVVAIITGQ</span><span class="topo-outside">VRLRKKAFAN</span><span class="topo-unknown">PEDALR</span><span class="topo-outside">HGGPQYCRSDPDVERC</span><span class="topo-membrane">LRAHRNDMETIYPFLFLGFVYS</span><span class="topo-inside">FLGPNPF</span><span class="topo-membrane">VAWMHFLVFLVGRVAHTVAYLG</span><span class="topo-outside">KLRAP</span></span>
+<span class="topo-ruler">       130       140        </span>
 <span class="topo-line"><span class="topo-membrane">IRSVTYTLAQLPCASMALQILWEAA</span><span class="topo-inside">RHL</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1004,6 +1030,7 @@ Human microsomal prostaglandin E2 synthase 1 (mPGES-1) is a 152 amino-acid membe
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1019,9 +1046,11 @@ Human microsomal prostaglandin E2 synthase 1 (mPGES-1) is a 152 amino-acid membe
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">SL</span><span class="topo-inside">VMSSPALPA</span><span class="topo-membrane">FLLCSTLLVIKMYVVAI</span><span class="topo-outside">ITGQVRLRKKAFANPEDALRHGGPQYCRSDPD</span></span>
-<span class="topo-line"><span class="topo-outside">VERCLRA</span><span class="topo-membrane">HRNDMETIYPFLFLGFVYS</span><span class="topo-inside">FLGPNPFV</span><span class="topo-membrane">AWMHFLVFLVGRVAHTV</span><span class="topo-outside">AYLGKLRAP</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">SL</span><span class="topo-inside">VMSSPALPA</span><span class="topo-membrane">FLLCSTLLVIKMYVVAI</span><span class="topo-outside">ITGQVRLRKKAFANPEDALRHGGPQYCRSDPDVERCLRA</span><span class="topo-membrane">HRNDMETIYPFLFLGFVYS</span><span class="topo-inside">FLGPNPFV</span><span class="topo-membrane">AWMHFLVFLVGRVAHTV</span><span class="topo-outside">AYLGKLRAP</span></span>
+<span class="topo-ruler">       130       140        </span>
 <span class="topo-line"><span class="topo-outside">IR</span><span class="topo-membrane">SVTYTLAQLPCASMALQILW</span><span class="topo-inside">EAARHL</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1096,6 +1125,7 @@ Human microsomal prostaglandin E2 synthase 1 (mPGES-1) is a 152 amino-acid membe
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1111,9 +1141,11 @@ Human microsomal prostaglandin E2 synthase 1 (mPGES-1) is a 152 amino-acid membe
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">SL</span><span class="topo-inside">VMSSPALPA</span><span class="topo-membrane">FLLCSTLLVIKMYVVAI</span><span class="topo-outside">ITGQVRLRKKAFANPEDALRHGGPQYCRSDPD</span></span>
-<span class="topo-line"><span class="topo-outside">VERCLRA</span><span class="topo-membrane">HRNDMETIYPFLFLGFVYS</span><span class="topo-inside">FLGPNPFV</span><span class="topo-membrane">AWMHFLVFLVGRVAHTV</span><span class="topo-outside">AYLGKLRAP</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">SL</span><span class="topo-inside">VMSSPALPA</span><span class="topo-membrane">FLLCSTLLVIKMYVVAI</span><span class="topo-outside">ITGQVRLRKKAFANPEDALRHGGPQYCRSDPDVERCLRA</span><span class="topo-membrane">HRNDMETIYPFLFLGFVYS</span><span class="topo-inside">FLGPNPFV</span><span class="topo-membrane">AWMHFLVFLVGRVAHTV</span><span class="topo-outside">AYLGKLRAP</span></span>
+<span class="topo-ruler">       130       140        </span>
 <span class="topo-line"><span class="topo-outside">IR</span><span class="topo-membrane">SVTYTLAQLPCASMALQILW</span><span class="topo-inside">EAARHL</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1188,6 +1220,7 @@ Human microsomal prostaglandin E2 synthase 1 (mPGES-1) is a 152 amino-acid membe
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1203,9 +1236,11 @@ Human microsomal prostaglandin E2 synthase 1 (mPGES-1) is a 152 amino-acid membe
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">SL</span><span class="topo-inside">VMSSPALPA</span><span class="topo-membrane">FLLCSTLLVIKMYVVAI</span><span class="topo-outside">ITGQVRLRKKAFANPEDALRHGGPQYCRSDPD</span></span>
-<span class="topo-line"><span class="topo-outside">VERCLRA</span><span class="topo-membrane">HRNDMETIYPFLFLGFVYS</span><span class="topo-inside">FLGPNPFV</span><span class="topo-membrane">AWMHFLVFLVGRVAHTV</span><span class="topo-outside">AYLGKLRAP</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">SL</span><span class="topo-inside">VMSSPALPA</span><span class="topo-membrane">FLLCSTLLVIKMYVVAI</span><span class="topo-outside">ITGQVRLRKKAFANPEDALRHGGPQYCRSDPDVERCLRA</span><span class="topo-membrane">HRNDMETIYPFLFLGFVYS</span><span class="topo-inside">FLGPNPFV</span><span class="topo-membrane">AWMHFLVFLVGRVAHTV</span><span class="topo-outside">AYLGKLRAP</span></span>
+<span class="topo-ruler">       130       140        </span>
 <span class="topo-line"><span class="topo-outside">IR</span><span class="topo-membrane">SVTYTLAQLPCASMALQILW</span><span class="topo-inside">EAARHL</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1280,6 +1315,7 @@ Human microsomal prostaglandin E2 synthase 1 (mPGES-1) is a 152 amino-acid membe
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

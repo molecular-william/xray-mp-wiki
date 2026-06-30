@@ -122,15 +122,17 @@ TrkH is a potassium channel protein from the bacterium Klebsiella pneumoniae tha
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MQFRSI</span><span class="topo-membrane">IRIVGLLLALFSVTMLAPALV</span><span class="topo-outside">ALLYRDGAGVP</span><span class="topo-membrane">FVTTFFVLLFCGAMCWFPN</span><span class="topo-inside">RRH</span></span>
-<span class="topo-line"><span class="topo-inside">KH</span><span class="topo-unknown">ELK</span><span class="topo-inside">SRDGF</span><span class="topo-membrane">LIVVLFWTVLGSAGSLP</span><span class="topo-outside">FLIADNPNISVTDA</span><span class="topo-unknown">FFESFSALTTTGA</span><span class="topo-outside">TVIVGL</span></span>
-<span class="topo-line"><span class="topo-outside">DELPKAILF</span><span class="topo-membrane">YRQFLQWFGGMGIIVLAVA</span><span class="topo-inside">ILPVLGIGGM</span><span class="topo-unknown">QLYRAEIPGPVKDTKMTPR</span><span class="topo-inside">IAE</span></span>
-<span class="topo-line"><span class="topo-inside">TA</span><span class="topo-membrane">KALWYIYLSLTIACAVAFWLA</span><span class="topo-outside">GMTPFDA</span><span class="topo-unknown">ISHSFSTIAIGGFS</span><span class="topo-outside">THDASMGYFDSYA</span><span class="topo-membrane">INL</span></span>
-<span class="topo-line"><span class="topo-membrane">ITVVFLLISACNFTLHF</span><span class="topo-inside">AAFASGGVHPKYYWKDP</span><span class="topo-membrane">EFRAFIFIQVLLFLVCFLL</span><span class="topo-outside">LLKHHSY</span></span>
-<span class="topo-line"><span class="topo-outside">TSPYDAFDQA</span><span class="topo-unknown">LFQTVSISTTAGF</span><span class="topo-outside">TTTGFADWPLF</span><span class="topo-membrane">LPVLLLFSSFIGGCAG</span><span class="topo-inside">STGGGMKVIR</span></span>
-<span class="topo-line"><span class="topo-inside">ILLLTLQGARELKRLVHPRAVYTIKVGGSALPQRVVDAV</span><span class="topo-membrane">WGFFSAYALVFVVCMLGLIA</span><span class="topo-outside">T</span></span>
-<span class="topo-line"><span class="topo-outside">GMDELSA</span><span class="topo-unknown">FSAVAATLNNLGP</span><span class="topo-outside">GLGEVALHFGDVNDK</span><span class="topo-membrane">AKWVLIVSMLFGRLEIFTLL</span><span class="topo-inside">ILLTP</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">MQFRSI</span><span class="topo-membrane">IRIVGLLLALFSVTMLAPALV</span><span class="topo-outside">ALLYRDGAGVP</span><span class="topo-membrane">FVTTFFVLLFCGAMCWFPN</span><span class="topo-inside">RRHKH</span><span class="topo-unknown">ELK</span><span class="topo-inside">SRDGF</span><span class="topo-membrane">LIVVLFWTVLGSAGSLP</span><span class="topo-outside">FLIADNPNISVTDA</span><span class="topo-unknown">FFESFSALTTTGA</span><span class="topo-outside">TVIVGL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">DELPKAILF</span><span class="topo-membrane">YRQFLQWFGGMGIIVLAVA</span><span class="topo-inside">ILPVLGIGGM</span><span class="topo-unknown">QLYRAEIPGPVKDTKMTPR</span><span class="topo-inside">IAETA</span><span class="topo-membrane">KALWYIYLSLTIACAVAFWLA</span><span class="topo-outside">GMTPFDA</span><span class="topo-unknown">ISHSFSTIAIGGFS</span><span class="topo-outside">THDASMGYFDSYA</span><span class="topo-membrane">INL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">ITVVFLLISACNFTLHF</span><span class="topo-inside">AAFASGGVHPKYYWKDP</span><span class="topo-membrane">EFRAFIFIQVLLFLVCFLL</span><span class="topo-outside">LLKHHSYTSPYDAFDQA</span><span class="topo-unknown">LFQTVSISTTAGF</span><span class="topo-outside">TTTGFADWPLF</span><span class="topo-membrane">LPVLLLFSSFIGGCAG</span><span class="topo-inside">STGGGMKVIR</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">ILLLTLQGARELKRLVHPRAVYTIKVGGSALPQRVVDAV</span><span class="topo-membrane">WGFFSAYALVFVVCMLGLIA</span><span class="topo-outside">TGMDELSA</span><span class="topo-unknown">FSAVAATLNNLGP</span><span class="topo-outside">GLGEVALHFGDVNDK</span><span class="topo-membrane">AKWVLIVSMLFGRLEIFTLL</span><span class="topo-inside">ILLTP</span></span>
+<span class="topo-ruler">     </span>
 <span class="topo-line"><span class="topo-inside">TFWR</span><span class="topo-unknown">S</span></span>
+<details class="topo-details"><summary>Topology coordinates (34 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -380,6 +382,7 @@ TrkH is a potassium channel protein from the bacterium Klebsiella pneumoniae tha
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -395,15 +398,17 @@ TrkH is a potassium channel protein from the bacterium Klebsiella pneumoniae tha
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MQFRSI</span><span class="topo-membrane">IRIVGLLLALFSVTMLAPALV</span><span class="topo-outside">ALLYRDGAGVP</span><span class="topo-membrane">FVTTFFVLLFCGAMCWFPN</span><span class="topo-inside">RRH</span></span>
-<span class="topo-line"><span class="topo-inside">KH</span><span class="topo-unknown">ELK</span><span class="topo-inside">SRDGF</span><span class="topo-membrane">LIVVLFWTVLGSAGSLP</span><span class="topo-outside">FLIADNPNISVTDA</span><span class="topo-unknown">FFESFSALTTTGA</span><span class="topo-outside">TVIVGL</span></span>
-<span class="topo-line"><span class="topo-outside">DELPKAILF</span><span class="topo-membrane">YRQFLQWFGGMGIIVLAVA</span><span class="topo-inside">ILPVLGIGGM</span><span class="topo-unknown">QLYRAEIPGPVKDTKMTPR</span><span class="topo-inside">IAE</span></span>
-<span class="topo-line"><span class="topo-inside">TA</span><span class="topo-membrane">KALWYIYLSLTIACAVAFWLA</span><span class="topo-outside">GMTPFDA</span><span class="topo-unknown">ISHSFSTIAIGGFS</span><span class="topo-outside">THDASMGYFDSYA</span><span class="topo-membrane">INL</span></span>
-<span class="topo-line"><span class="topo-membrane">ITVVFLLISACNFTLHF</span><span class="topo-inside">AAFASGGVHPKYYWKDP</span><span class="topo-membrane">EFRAFIFIQVLLFLVCFLL</span><span class="topo-outside">LLKHHSY</span></span>
-<span class="topo-line"><span class="topo-outside">TSPYDAFDQA</span><span class="topo-unknown">LFQTVSISTTAGF</span><span class="topo-outside">TTTGFADWPLF</span><span class="topo-membrane">LPVLLLFSSFIGGCAG</span><span class="topo-inside">STGGGMKVIR</span></span>
-<span class="topo-line"><span class="topo-inside">ILLLTLQGARELKRLVHPRAVYTIKVGGSALPQRVVDAV</span><span class="topo-membrane">WGFFSAYALVFVVCMLGLIA</span><span class="topo-outside">T</span></span>
-<span class="topo-line"><span class="topo-outside">GMDELSA</span><span class="topo-unknown">FSAVAATLNNLGP</span><span class="topo-outside">GLGEVALHFGDVNDK</span><span class="topo-membrane">AKWVLIVSMLFGRLEIFTLL</span><span class="topo-inside">ILLTP</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">MQFRSI</span><span class="topo-membrane">IRIVGLLLALFSVTMLAPALV</span><span class="topo-outside">ALLYRDGAGVP</span><span class="topo-membrane">FVTTFFVLLFCGAMCWFPN</span><span class="topo-inside">RRHKH</span><span class="topo-unknown">ELK</span><span class="topo-inside">SRDGF</span><span class="topo-membrane">LIVVLFWTVLGSAGSLP</span><span class="topo-outside">FLIADNPNISVTDA</span><span class="topo-unknown">FFESFSALTTTGA</span><span class="topo-outside">TVIVGL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">DELPKAILF</span><span class="topo-membrane">YRQFLQWFGGMGIIVLAVA</span><span class="topo-inside">ILPVLGIGGM</span><span class="topo-unknown">QLYRAEIPGPVKDTKMTPR</span><span class="topo-inside">IAETA</span><span class="topo-membrane">KALWYIYLSLTIACAVAFWLA</span><span class="topo-outside">GMTPFDA</span><span class="topo-unknown">ISHSFSTIAIGGFS</span><span class="topo-outside">THDASMGYFDSYA</span><span class="topo-membrane">INL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">ITVVFLLISACNFTLHF</span><span class="topo-inside">AAFASGGVHPKYYWKDP</span><span class="topo-membrane">EFRAFIFIQVLLFLVCFLL</span><span class="topo-outside">LLKHHSYTSPYDAFDQA</span><span class="topo-unknown">LFQTVSISTTAGF</span><span class="topo-outside">TTTGFADWPLF</span><span class="topo-membrane">LPVLLLFSSFIGGCAG</span><span class="topo-inside">STGGGMKVIR</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">ILLLTLQGARELKRLVHPRAVYTIKVGGSALPQRVVDAV</span><span class="topo-membrane">WGFFSAYALVFVVCMLGLIA</span><span class="topo-outside">TGMDELSA</span><span class="topo-unknown">FSAVAATLNNLGP</span><span class="topo-outside">GLGEVALHFGDVNDK</span><span class="topo-membrane">AKWVLIVSMLFGRLEIFTLL</span><span class="topo-inside">ILLTP</span></span>
+<span class="topo-ruler">     </span>
 <span class="topo-line"><span class="topo-inside">TFWR</span><span class="topo-unknown">S</span></span>
+<details class="topo-details"><summary>Topology coordinates (34 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -653,6 +658,7 @@ TrkH is a potassium channel protein from the bacterium Klebsiella pneumoniae tha
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -668,14 +674,15 @@ TrkH is a potassium channel protein from the bacterium Klebsiella pneumoniae tha
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MKIIILGAGQVGGTLAENLVGENNDITIVDNNADRLRELQDKYDLRVVNGHASHPDVLHE</span></span>
-<span class="topo-line"><span class="topo-inside">AGAQDADMLVAVTNTDETNMAACQVAFTLFNTPNRVARIRSPEYLAEKEALFKSGAIPVD</span></span>
-<span class="topo-line"><span class="topo-inside">HLIAPEELVTSYIERLIQYPGALQVVSFAEQKVSLVAVKAY</span><span class="topo-unknown">YG</span><span class="topo-inside">GPLVGNALSALREH</span><span class="topo-unknown">MPH</span></span>
-<span class="topo-line"><span class="topo-unknown">I</span><span class="topo-inside">DTRVAAIFRQGRPIRPQGTTIIEADDEVFFVAASNHIRSVMSELQRLEKPYRRIMIVGG</span></span>
-<span class="topo-line"><span class="topo-inside">GNIGASLAKRLEQTYSVKLIERDYQRAEKLSEQLENTIVFCGDAADQELLTEENIDQVDV</span></span>
-<span class="topo-line"><span class="topo-inside">FIALTNEDETNIMSAMLAKRMGAKKVMVLIQRGAYVDLVQGGVIDVAISPQQATISALLT</span></span>
-<span class="topo-line"><span class="topo-inside">HVRRADIVNVSSLRRGAAEAIEAVAHGDETTSKVVGRAIGDIKLPPGTTIGAVVRGEEVL</span></span>
-<span class="topo-line"><span class="topo-inside">IAHDRTVIEQDDHVVMFLVDKKYVPDVEALFQPSPFF</span><span class="topo-unknown">L</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">MKIIILGAGQVGGTLAENLVGENNDITIVDNNADRLRELQDKYDLRVVNGHASHPDVLHEAGAQDADMLVAVTNTDETNMAACQVAFTLFNTPNRVARIRSPEYLAEKEALFKSGAIPVD</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">HLIAPEELVTSYIERLIQYPGALQVVSFAEQKVSLVAVKAY</span><span class="topo-unknown">YG</span><span class="topo-inside">GPLVGNALSALREH</span><span class="topo-unknown">MPHI</span><span class="topo-inside">DTRVAAIFRQGRPIRPQGTTIIEADDEVFFVAASNHIRSVMSELQRLEKPYRRIMIVGG</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">GNIGASLAKRLEQTYSVKLIERDYQRAEKLSEQLENTIVFCGDAADQELLTEENIDQVDVFIALTNEDETNIMSAMLAKRMGAKKVMVLIQRGAYVDLVQGGVIDVAISPQQATISALLT</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450        </span>
+<span class="topo-line"><span class="topo-inside">HVRRADIVNVSSLRRGAAEAIEAVAHGDETTSKVVGRAIGDIKLPPGTTIGAVVRGEEVLIAHDRTVIEQDDHVVMFLVDKKYVPDVEALFQPSPFF</span><span class="topo-unknown">L</span></span>
+<details class="topo-details"><summary>Topology coordinates (6 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -729,6 +736,7 @@ TrkH is a potassium channel protein from the bacterium Klebsiella pneumoniae tha
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -744,14 +752,15 @@ TrkH is a potassium channel protein from the bacterium Klebsiella pneumoniae tha
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MKIIILGAGQVGGTLAENLVGENNDITIVDNNADRLRELQDKYDLRVVNGHASHPDVLHE</span></span>
-<span class="topo-line"><span class="topo-inside">AGAQDADMLVAVTNTDETNMAACQVAFTLFNTPNRVARIRSPEYLAEKEALFKSGAIPVD</span></span>
-<span class="topo-line"><span class="topo-inside">HLIAPEELVTSYIERLIQYPGALQVVSFAEQKVSLVAVKAYYGGPLVGNALSALREH</span><span class="topo-unknown">MPH</span></span>
-<span class="topo-line"><span class="topo-unknown">I</span><span class="topo-inside">DTRVAAIFRQGRPIRPQGTTIIEADDEVFFVAASNHIRSVMSELQRLEKPYRRIMIVGG</span></span>
-<span class="topo-line"><span class="topo-inside">GNIGASLAKRLEQTYSVKLIERDYQRAEKLSEQLENTIVFCGDAADQELLTEENIDQVDV</span></span>
-<span class="topo-line"><span class="topo-inside">FIALTNEDETNIMSAMLAKRMGAKKVMVLIQRGAYVDLVQGGVIDVAISPQQATISALLT</span></span>
-<span class="topo-line"><span class="topo-inside">HVRRADIVNVSSLRRGAAEAIEAVA</span><span class="topo-unknown">HGD</span><span class="topo-inside">ETTSKVVGRAIGDIKLPPGTTIGAVVRGEEVL</span></span>
-<span class="topo-line"><span class="topo-inside">I</span><span class="topo-unknown">AH</span><span class="topo-inside">DRTVIEQDDHVVMFLVDKKYVPDVEALFQP</span><span class="topo-unknown">SPFFL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">MKIIILGAGQVGGTLAENLVGENNDITIVDNNADRLRELQDKYDLRVVNGHASHPDVLHEAGAQDADMLVAVTNTDETNMAACQVAFTLFNTPNRVARIRSPEYLAEKEALFKSGAIPVD</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">HLIAPEELVTSYIERLIQYPGALQVVSFAEQKVSLVAVKAYYGGPLVGNALSALREH</span><span class="topo-unknown">MPHI</span><span class="topo-inside">DTRVAAIFRQGRPIRPQGTTIIEADDEVFFVAASNHIRSVMSELQRLEKPYRRIMIVGG</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">GNIGASLAKRLEQTYSVKLIERDYQRAEKLSEQLENTIVFCGDAADQELLTEENIDQVDVFIALTNEDETNIMSAMLAKRMGAKKVMVLIQRGAYVDLVQGGVIDVAISPQQATISALLT</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450        </span>
+<span class="topo-line"><span class="topo-inside">HVRRADIVNVSSLRRGAAEAIEAVA</span><span class="topo-unknown">HGD</span><span class="topo-inside">ETTSKVVGRAIGDIKLPPGTTIGAVVRGEEVLI</span><span class="topo-unknown">AH</span><span class="topo-inside">DRTVIEQDDHVVMFLVDKKYVPDVEALFQP</span><span class="topo-unknown">SPFFL</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -819,6 +828,7 @@ TrkH is a potassium channel protein from the bacterium Klebsiella pneumoniae tha
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -834,14 +844,15 @@ TrkH is a potassium channel protein from the bacterium Klebsiella pneumoniae tha
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MKIIILGAGQVGGTLAENLVGENNDITIVDNNADRLRELQDKYDLRVVNGHASHPDVLHE</span></span>
-<span class="topo-line"><span class="topo-inside">AGAQDADMLVAVTNTDETNMAACQVAFTLFNTPNRVARIRSPEYLAEKEALFKSGAIPVD</span></span>
-<span class="topo-line"><span class="topo-inside">HLIAPEELVTSYIERLIQYPGALQVVSFAEQKVSLVAVKAY</span><span class="topo-unknown">YG</span><span class="topo-inside">GPLVGNALSALREH</span><span class="topo-unknown">MPH</span></span>
-<span class="topo-line"><span class="topo-inside">IDTRVAAIFRQGRPIRPQGTTIIEADDEVFFVAASNHIRSVMSELQRLEKPYRRIMIVGG</span></span>
-<span class="topo-line"><span class="topo-inside">GNIGASLAKRLEQTYSVKLIERDYQRAEKLSEQLENTIVFCGDAADQELLTEENIDQVDV</span></span>
-<span class="topo-line"><span class="topo-inside">FIALTNEDETNIMSAMLAKRMGAKKVMVLIQRGAYVDLVQGGVIDVAISPQQATISALLT</span></span>
-<span class="topo-line"><span class="topo-inside">HVRRADIVNVSSLRRGAAEAIEAVAHGDETTSKVVGRAIGDIKLPPGTTIGAVVRGEEVL</span></span>
-<span class="topo-line"><span class="topo-inside">IAHDRTVIEQDDHVVMFLVDKKYVPDVEALFQPSPFF</span><span class="topo-unknown">L</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">MKIIILGAGQVGGTLAENLVGENNDITIVDNNADRLRELQDKYDLRVVNGHASHPDVLHEAGAQDADMLVAVTNTDETNMAACQVAFTLFNTPNRVARIRSPEYLAEKEALFKSGAIPVD</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">HLIAPEELVTSYIERLIQYPGALQVVSFAEQKVSLVAVKAY</span><span class="topo-unknown">YG</span><span class="topo-inside">GPLVGNALSALREH</span><span class="topo-unknown">MPH</span><span class="topo-inside">IDTRVAAIFRQGRPIRPQGTTIIEADDEVFFVAASNHIRSVMSELQRLEKPYRRIMIVGG</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">GNIGASLAKRLEQTYSVKLIERDYQRAEKLSEQLENTIVFCGDAADQELLTEENIDQVDVFIALTNEDETNIMSAMLAKRMGAKKVMVLIQRGAYVDLVQGGVIDVAISPQQATISALLT</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450        </span>
+<span class="topo-line"><span class="topo-inside">HVRRADIVNVSSLRRGAAEAIEAVAHGDETTSKVVGRAIGDIKLPPGTTIGAVVRGEEVLIAHDRTVIEQDDHVVMFLVDKKYVPDVEALFQPSPFF</span><span class="topo-unknown">L</span></span>
+<details class="topo-details"><summary>Topology coordinates (6 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -895,6 +906,7 @@ TrkH is a potassium channel protein from the bacterium Klebsiella pneumoniae tha
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -910,14 +922,15 @@ TrkH is a potassium channel protein from the bacterium Klebsiella pneumoniae tha
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MKIIILGAGQVGGTLAENLVGENNDITIVDNNADRLRELQDKYDLRVVNGHASHPDVLHE</span></span>
-<span class="topo-line"><span class="topo-inside">AGAQDADMLVAVTNTDETNMAACQVAFTLFNTPNRVARIRSPEYLAEKEALFKSGAIPVD</span></span>
-<span class="topo-line"><span class="topo-inside">HLIAPEELVTSYIERLIQYPGALQVVSFAEQKVSLVAVKAYYGGPLVGNALSALREH</span><span class="topo-unknown">MPH</span></span>
-<span class="topo-line"><span class="topo-inside">IDTRVAAIFRQGRPIRPQGTTIIEADDEVFFVAASNHIRSVMSELQRLEKPYRRIMIVGG</span></span>
-<span class="topo-line"><span class="topo-inside">GNIGASLAKRLEQTYSVKLIERDYQRAEKLSEQLENTIVFCGDAADQELLTEENIDQVDV</span></span>
-<span class="topo-line"><span class="topo-inside">FIALTNEDETNIMSAMLAKRMGAKKVMVLIQRGAYVDLVQGGVIDVAISPQQATISALLT</span></span>
-<span class="topo-line"><span class="topo-inside">HVRRADIVNVSSLRRGAAEAIEAVAHGDETTSKVVGRAIGDIKLPPGTTIGAVVRGEEVL</span></span>
-<span class="topo-line"><span class="topo-inside">IAHDRTVIEQDDHVVMFLVDKKYVPDVEALFQP</span><span class="topo-unknown">SPFFL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">MKIIILGAGQVGGTLAENLVGENNDITIVDNNADRLRELQDKYDLRVVNGHASHPDVLHEAGAQDADMLVAVTNTDETNMAACQVAFTLFNTPNRVARIRSPEYLAEKEALFKSGAIPVD</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">HLIAPEELVTSYIERLIQYPGALQVVSFAEQKVSLVAVKAYYGGPLVGNALSALREH</span><span class="topo-unknown">MPH</span><span class="topo-inside">IDTRVAAIFRQGRPIRPQGTTIIEADDEVFFVAASNHIRSVMSELQRLEKPYRRIMIVGG</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">GNIGASLAKRLEQTYSVKLIERDYQRAEKLSEQLENTIVFCGDAADQELLTEENIDQVDVFIALTNEDETNIMSAMLAKRMGAKKVMVLIQRGAYVDLVQGGVIDVAISPQQATISALLT</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450        </span>
+<span class="topo-line"><span class="topo-inside">HVRRADIVNVSSLRRGAAEAIEAVAHGDETTSKVVGRAIGDIKLPPGTTIGAVVRGEEVLIAHDRTVIEQDDHVVMFLVDKKYVPDVEALFQP</span><span class="topo-unknown">SPFFL</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -957,6 +970,7 @@ TrkH is a potassium channel protein from the bacterium Klebsiella pneumoniae tha
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -972,15 +986,17 @@ TrkH is a potassium channel protein from the bacterium Klebsiella pneumoniae tha
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MQFRSI</span><span class="topo-membrane">IRIVGLLLALFSVTMLAPALVALLY</span><span class="topo-inside">RDGAG</span><span class="topo-membrane">VPFVTTFFVLLFCGAMCWFPNR</span><span class="topo-outside">RH</span></span>
-<span class="topo-line"><span class="topo-outside">KHELKSRDG</span><span class="topo-membrane">FLIVVLFWTVLGSAGSLPFLIA</span><span class="topo-inside">DNPNISV</span><span class="topo-unknown">TDAFFESFSALTTTGATV</span><span class="topo-inside">IVGL</span></span>
-<span class="topo-line"><span class="topo-inside">DELPK</span><span class="topo-membrane">AILFYRQFLQWFGGMGIIVLAVAI</span><span class="topo-outside">LPVLGIGG</span><span class="topo-unknown">MQLYRAEIPGPVKDTK</span><span class="topo-outside">MTPRIAE</span></span>
-<span class="topo-line"><span class="topo-outside">TA</span><span class="topo-membrane">KALWYIYLSLTIACAVAFWLAGMT</span><span class="topo-inside">P</span><span class="topo-unknown">FDAISHSFSTIAIGGFST</span><span class="topo-inside">HDASMGYFDS</span><span class="topo-membrane">YAINL</span></span>
-<span class="topo-line"><span class="topo-membrane">ITVVFLLISACNFTLHF</span><span class="topo-outside">AAFASGGVHPKYYWKDP</span><span class="topo-membrane">EFRAFIFIQVLLFLVCFLLLLK</span><span class="topo-inside">HHSY</span></span>
-<span class="topo-line"><span class="topo-inside">TSP</span><span class="topo-unknown">YDAFDQALFQTVSISTTAGFTTT</span><span class="topo-inside">GFADWP</span><span class="topo-membrane">LFLPVLLLFSSFIGGCAG</span><span class="topo-outside">STGGGMKVIR</span></span>
-<span class="topo-line"><span class="topo-outside">ILLLTLQGARELKRLVHPRAVYTIKVGGSALPQRVVDAV</span><span class="topo-membrane">WGFFSAYALVFVVCMLGLIAT</span></span>
-<span class="topo-line"><span class="topo-membrane">GMD</span><span class="topo-inside">E</span><span class="topo-unknown">LSAFSAVAATLNNLGPGLG</span><span class="topo-inside">EVALHFGDVND</span><span class="topo-membrane">KAKWVLIVSMLFGRLEIFTLL</span><span class="topo-outside">ILLTP</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MQFRSI</span><span class="topo-membrane">IRIVGLLLALFSVTMLAPALVALLY</span><span class="topo-inside">RDGAG</span><span class="topo-membrane">VPFVTTFFVLLFCGAMCWFPNR</span><span class="topo-outside">RHKHELKSRDG</span><span class="topo-membrane">FLIVVLFWTVLGSAGSLPFLIA</span><span class="topo-inside">DNPNISV</span><span class="topo-unknown">TDAFFESFSALTTTGATV</span><span class="topo-inside">IVGL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">DELPK</span><span class="topo-membrane">AILFYRQFLQWFGGMGIIVLAVAI</span><span class="topo-outside">LPVLGIGG</span><span class="topo-unknown">MQLYRAEIPGPVKDTK</span><span class="topo-outside">MTPRIAETA</span><span class="topo-membrane">KALWYIYLSLTIACAVAFWLAGMT</span><span class="topo-inside">P</span><span class="topo-unknown">FDAISHSFSTIAIGGFST</span><span class="topo-inside">HDASMGYFDS</span><span class="topo-membrane">YAINL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">ITVVFLLISACNFTLHF</span><span class="topo-outside">AAFASGGVHPKYYWKDP</span><span class="topo-membrane">EFRAFIFIQVLLFLVCFLLLLK</span><span class="topo-inside">HHSYTSP</span><span class="topo-unknown">YDAFDQALFQTVSISTTAGFTTT</span><span class="topo-inside">GFADWP</span><span class="topo-membrane">LFLPVLLLFSSFIGGCAG</span><span class="topo-outside">STGGGMKVIR</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">ILLLTLQGARELKRLVHPRAVYTIKVGGSALPQRVVDAV</span><span class="topo-membrane">WGFFSAYALVFVVCMLGLIATGMD</span><span class="topo-inside">E</span><span class="topo-unknown">LSAFSAVAATLNNLGPGLG</span><span class="topo-inside">EVALHFGDVND</span><span class="topo-membrane">KAKWVLIVSMLFGRLEIFTLL</span><span class="topo-outside">ILLTP</span></span>
+<span class="topo-ruler">       490    </span>
 <span class="topo-line"><span class="topo-outside">TFWR</span><span class="topo-unknown">SAAAENLYFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (32 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1216,6 +1232,7 @@ TrkH is a potassium channel protein from the bacterium Klebsiella pneumoniae tha
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1231,15 +1248,17 @@ TrkH is a potassium channel protein from the bacterium Klebsiella pneumoniae tha
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MQFRSI</span><span class="topo-membrane">IRIVGLLLALFSVTMLAPALVALLY</span><span class="topo-inside">RDGAG</span><span class="topo-membrane">VPFVTTFFVLLFCGAMCWFPNR</span><span class="topo-outside">RH</span></span>
-<span class="topo-line"><span class="topo-outside">KHELKSRDG</span><span class="topo-membrane">FLIVVLFWTVLGSAGSLPFLIA</span><span class="topo-inside">DNPNISV</span><span class="topo-unknown">TDAFFESFSALTTTGATV</span><span class="topo-inside">IVGL</span></span>
-<span class="topo-line"><span class="topo-inside">DELPK</span><span class="topo-membrane">AILFYRQFLQWFGGMGIIVLAV</span><span class="topo-outside">AILPVLGIGG</span><span class="topo-unknown">MQLYRAEIPGPVKDTK</span><span class="topo-outside">MTPRIAE</span></span>
-<span class="topo-line"><span class="topo-outside">TA</span><span class="topo-membrane">KALWYIYLSLTIACAVAFWLAGMT</span><span class="topo-inside">P</span><span class="topo-unknown">FDAISHSFSTIAIGGFST</span><span class="topo-inside">HDASMGYFDS</span><span class="topo-membrane">YAINL</span></span>
-<span class="topo-line"><span class="topo-membrane">ITVVFLLISACNFTLHF</span><span class="topo-outside">AAFASGGVHPKYYWKDP</span><span class="topo-membrane">EFRAFIFIQVLLFLVCFLLLLK</span><span class="topo-inside">HHSY</span></span>
-<span class="topo-line"><span class="topo-inside">TSP</span><span class="topo-unknown">YDAFDQALFQTVSISTTAGFTTT</span><span class="topo-inside">GFADWP</span><span class="topo-membrane">LFLPVLLLFSSFIGGCAG</span><span class="topo-outside">STGGGMKVIR</span></span>
-<span class="topo-line"><span class="topo-outside">ILLLTLQGARELKRLVHPRAVYTIKVGGSALPQRVVDAV</span><span class="topo-membrane">WGFFSAYALVFVVCMLGLIAT</span></span>
-<span class="topo-line"><span class="topo-membrane">GMD</span><span class="topo-inside">E</span><span class="topo-unknown">LSAFSAVAATLNNLGPGLG</span><span class="topo-inside">EVALHFGDVND</span><span class="topo-membrane">KAKWVLIVSMLFGRLEIFTLL</span><span class="topo-outside">ILLTP</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MQFRSI</span><span class="topo-membrane">IRIVGLLLALFSVTMLAPALVALLY</span><span class="topo-inside">RDGAG</span><span class="topo-membrane">VPFVTTFFVLLFCGAMCWFPNR</span><span class="topo-outside">RHKHELKSRDG</span><span class="topo-membrane">FLIVVLFWTVLGSAGSLPFLIA</span><span class="topo-inside">DNPNISV</span><span class="topo-unknown">TDAFFESFSALTTTGATV</span><span class="topo-inside">IVGL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">DELPK</span><span class="topo-membrane">AILFYRQFLQWFGGMGIIVLAV</span><span class="topo-outside">AILPVLGIGG</span><span class="topo-unknown">MQLYRAEIPGPVKDTK</span><span class="topo-outside">MTPRIAETA</span><span class="topo-membrane">KALWYIYLSLTIACAVAFWLAGMT</span><span class="topo-inside">P</span><span class="topo-unknown">FDAISHSFSTIAIGGFST</span><span class="topo-inside">HDASMGYFDS</span><span class="topo-membrane">YAINL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">ITVVFLLISACNFTLHF</span><span class="topo-outside">AAFASGGVHPKYYWKDP</span><span class="topo-membrane">EFRAFIFIQVLLFLVCFLLLLK</span><span class="topo-inside">HHSYTSP</span><span class="topo-unknown">YDAFDQALFQTVSISTTAGFTTT</span><span class="topo-inside">GFADWP</span><span class="topo-membrane">LFLPVLLLFSSFIGGCAG</span><span class="topo-outside">STGGGMKVIR</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">ILLLTLQGARELKRLVHPRAVYTIKVGGSALPQRVVDAV</span><span class="topo-membrane">WGFFSAYALVFVVCMLGLIATGMD</span><span class="topo-inside">E</span><span class="topo-unknown">LSAFSAVAATLNNLGPGLG</span><span class="topo-inside">EVALHFGDVND</span><span class="topo-membrane">KAKWVLIVSMLFGRLEIFTLL</span><span class="topo-outside">ILLTP</span></span>
+<span class="topo-ruler">       490    </span>
 <span class="topo-line"><span class="topo-outside">TFWR</span><span class="topo-unknown">SAAAENLYFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (32 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1475,6 +1494,7 @@ TrkH is a potassium channel protein from the bacterium Klebsiella pneumoniae tha
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

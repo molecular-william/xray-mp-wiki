@@ -154,12 +154,13 @@ AlgM1M2SS is an [ATP](/xray-mp-wiki/reagents/ligands/atp/)-binding cassette (ABC
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">ERLWKDIKRDWLLY</span><span class="topo-membrane">AMLLPTIIWFLIFLYKPMIGLQM</span><span class="topo-outside">AF</span><span class="topo-unknown">KQYSAWKGIAGS</span><span class="topo-outside">PWIGFDHF</span></span>
-<span class="topo-line"><span class="topo-outside">VTLFQSEQFIRAI</span><span class="topo-membrane">KNTLTLSGLSLLFGFPMPILLALMI</span><span class="topo-inside">NEVYSKG</span><span class="topo-membrane">YRKAVQTIVYLPHFI</span></span>
-<span class="topo-line"><span class="topo-membrane">SIVIVA</span><span class="topo-outside">GLVVTFLSPSTGVVNNMLSWIGLDRVYFLTQPEWFR</span><span class="topo-membrane">PIYISSNIWKEAGFDSIV</span></span>
-<span class="topo-line"><span class="topo-membrane">YL</span><span class="topo-inside">AAIMSINPALYESAQVDGATRWQMITRITLPCIVPTI</span><span class="topo-membrane">AVLLVIRLGHILEVGFEY</span><span class="topo-outside">IIL</span></span>
-<span class="topo-line"><span class="topo-outside">LYQPTTYETADVISTYIYRLGLQGARYDIAT</span><span class="topo-membrane">AAGIFNAVVALVIVLFANHMS</span><span class="topo-inside">RRITK</span><span class="topo-unknown">TGV</span></span>
-<span class="topo-line"><span class="topo-unknown">F</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">ERLWKDIKRDWLLY</span><span class="topo-membrane">AMLLPTIIWFLIFLYKPMIGLQM</span><span class="topo-outside">AF</span><span class="topo-unknown">KQYSAWKGIAGS</span><span class="topo-outside">PWIGFDHFVTLFQSEQFIRAI</span><span class="topo-membrane">KNTLTLSGLSLLFGFPMPILLALMI</span><span class="topo-inside">NEVYSKG</span><span class="topo-membrane">YRKAVQTIVYLPHFI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">SIVIVA</span><span class="topo-outside">GLVVTFLSPSTGVVNNMLSWIGLDRVYFLTQPEWFR</span><span class="topo-membrane">PIYISSNIWKEAGFDSIVYL</span><span class="topo-inside">AAIMSINPALYESAQVDGATRWQMITRITLPCIVPTI</span><span class="topo-membrane">AVLLVIRLGHILEVGFEY</span><span class="topo-outside">IIL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300 </span>
+<span class="topo-line"><span class="topo-outside">LYQPTTYETADVISTYIYRLGLQGARYDIAT</span><span class="topo-membrane">AAGIFNAVVALVIVLFANHMS</span><span class="topo-inside">RRITK</span><span class="topo-unknown">TGVF</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -283,6 +284,7 @@ AlgM1M2SS is an [ATP](/xray-mp-wiki/reagents/ligands/atp/)-binding cassette (ABC
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -298,12 +300,13 @@ AlgM1M2SS is an [ATP](/xray-mp-wiki/reagents/ligands/atp/)-binding cassette (ABC
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">LATPFYSRSDRIFGI</span><span class="topo-membrane">VNAVLLGIFALCALYPIIYIFS</span><span class="topo-outside">MSISSGAAVTQGRVFLLPVDID</span></span>
-<span class="topo-line"><span class="topo-outside">FSAYGRVLHDKLFWTSY</span><span class="topo-membrane">ANTIFYTVFGVVTSLIFIVPGA</span><span class="topo-inside">YALSKPRIRGRRV</span><span class="topo-membrane">FGFIIAFT</span></span>
-<span class="topo-line"><span class="topo-membrane">MWFNAGMIPFF</span><span class="topo-outside">LNMRDLGLLDN</span><span class="topo-membrane">RFGILIGFACNAFNIILM</span><span class="topo-inside">RNYFESISASFEEAARMDGA</span></span>
-<span class="topo-line"><span class="topo-inside">NDLQILWKVYIPLAKPA</span><span class="topo-membrane">LATITLLCAISRWNGYFWA</span><span class="topo-outside">MVLLRAEEKIPLQVYLKKTIVDLN</span></span>
-<span class="topo-line"><span class="topo-outside">VNEEFAGALLTNSYSMETVVGAII</span><span class="topo-membrane">VMSIIPVIIVYPVVQKYFT</span><span class="topo-unknown">KGVMLGGVKELEHHHHH</span></span>
-<span class="topo-line"><span class="topo-unknown">HHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">LATPFYSRSDRIFGI</span><span class="topo-membrane">VNAVLLGIFALCALYPIIYIFS</span><span class="topo-outside">MSISSGAAVTQGRVFLLPVDIDFSAYGRVLHDKLFWTSY</span><span class="topo-membrane">ANTIFYTVFGVVTSLIFIVPGA</span><span class="topo-inside">YALSKPRIRGRRV</span><span class="topo-membrane">FGFIIAFT</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">MWFNAGMIPFF</span><span class="topo-outside">LNMRDLGLLDN</span><span class="topo-membrane">RFGILIGFACNAFNIILM</span><span class="topo-inside">RNYFESISASFEEAARMDGANDLQILWKVYIPLAKPA</span><span class="topo-membrane">LATITLLCAISRWNGYFWA</span><span class="topo-outside">MVLLRAEEKIPLQVYLKKTIVDLN</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300     </span>
+<span class="topo-line"><span class="topo-outside">VNEEFAGALLTNSYSMETVVGAII</span><span class="topo-membrane">VMSIIPVIIVYPVVQKYFT</span><span class="topo-unknown">KGVMLGGVKELEHHHHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (13 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -406,6 +409,7 @@ AlgM1M2SS is an [ATP](/xray-mp-wiki/reagents/ligands/atp/)-binding cassette (ABC
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -421,13 +425,15 @@ AlgM1M2SS is an [ATP](/xray-mp-wiki/reagents/ligands/atp/)-binding cassette (ABC
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MVASVSIQNVVKRYDKTTVVHGVSLDIEPGEFVVLVGPSGCGKSTTLRMVAGLEEISGGT</span></span>
-<span class="topo-line"><span class="topo-inside">IRIDGRVINDLAPKDRDVAMVFQNYALYPHLNVRDNISFGLRLKRTKKSVIDAAVKTAAD</span></span>
-<span class="topo-line"><span class="topo-inside">ILGLQPLLERKPSDLSGGQRQRVAMGRAIVRDPKVFLFDQPLSNLDAKLRTQMRAEIKRL</span></span>
-<span class="topo-line"><span class="topo-inside">HQRLGTTVIYVTHDQVEAMTLADRIVVMRDGLIEQIGKPMDLFLHPANTFVASFIGSPPM</span></span>
-<span class="topo-line"><span class="topo-inside">NLMPARIAVDSTQHVELNGGNRISLLPRAGTHLAPGQEVVFGIRPEDVTLDGVEGSERAQ</span></span>
-<span class="topo-line"><span class="topo-inside">IKATVDIVEPLGSESILHATVGDHSLVVKVGGLNEVHPGDPVTLHVDLTRVHLFDAQSQA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">MVASVSIQNVVKRYDKTTVVHGVSLDIEPGEFVVLVGPSGCGKSTTLRMVAGLEEISGGTIRIDGRVINDLAPKDRDVAMVFQNYALYPHLNVRDNISFGLRLKRTKKSVIDAAVKTAAD</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">ILGLQPLLERKPSDLSGGQRQRVAMGRAIVRDPKVFLFDQPLSNLDAKLRTQMRAEIKRLHQRLGTTVIYVTHDQVEAMTLADRIVVMRDGLIEQIGKPMDLFLHPANTFVASFIGSPPM</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">NLMPARIAVDSTQHVELNGGNRISLLPRAGTHLAPGQEVVFGIRPEDVTLDGVEGSERAQIKATVDIVEPLGSESILHATVGDHSLVVKVGGLNEVHPGDPVTLHVDLTRVHLFDAQSQA</span></span>
+<span class="topo-ruler">   </span>
 <span class="topo-line"><span class="topo-inside">SIY</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -446,6 +452,7 @@ AlgM1M2SS is an [ATP](/xray-mp-wiki/reagents/ligands/atp/)-binding cassette (ABC
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -461,15 +468,17 @@ AlgM1M2SS is an [ATP](/xray-mp-wiki/reagents/ligands/atp/)-binding cassette (ABC
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MKKMMLSVAAVATLMAFAAPVATA</span><span class="topo-outside">KEATWVTDKPLTLKIHMHFRDKWVWDENWPVAKESF</span></span>
-<span class="topo-line"><span class="topo-outside">RLTNVKLQSVANKAATNSQEQFNLMMASGDLPDVVGGDNLKDKFIQYGQEGAFVPLNKLI</span></span>
-<span class="topo-line"><span class="topo-outside">DQYAPHIKAFFKSHPEVERAIKAPDGNIYFIPYVPDGVVARGYFIREDWLKKLNLKPPQN</span></span>
-<span class="topo-line"><span class="topo-outside">IDELYTVLKAFKEKDPNGNGKADEVPFIDRHPDEVFRLVNFWGARSSGSDNYMDFYIDNG</span></span>
-<span class="topo-line"><span class="topo-outside">RVKHPWAETAFRDGMKHVAQWYKEGLIDKEIFTRKARAREQMFGGNLGGFTHDWFASTMT</span></span>
-<span class="topo-line"><span class="topo-outside">FNEGLAKTVPGFKLIPIAPPTNSKGQRWEEDSRQKVRPDGWAITVKNKNPVETIKFFDFY</span></span>
-<span class="topo-line"><span class="topo-outside">FSRPGRDISNFGVPGVTYDIKNGKAVFKDSVLKSPQPVNNQLYDMGAQIPIGFWQDYDYE</span></span>
-<span class="topo-line"><span class="topo-outside">RQWTTPEAQAGIDMYVKGKYVMPGFEGVNMTREERAIYDKYWADVRTYMYEMGQAWVMGT</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MKKMMLSVAAVATLMAFAAPVATA</span><span class="topo-outside">KEATWVTDKPLTLKIHMHFRDKWVWDENWPVAKESFRLTNVKLQSVANKAATNSQEQFNLMMASGDLPDVVGGDNLKDKFIQYGQEGAFVPLNKLI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">DQYAPHIKAFFKSHPEVERAIKAPDGNIYFIPYVPDGVVARGYFIREDWLKKLNLKPPQNIDELYTVLKAFKEKDPNGNGKADEVPFIDRHPDEVFRLVNFWGARSSGSDNYMDFYIDNG</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">RVKHPWAETAFRDGMKHVAQWYKEGLIDKEIFTRKARAREQMFGGNLGGFTHDWFASTMTFNEGLAKTVPGFKLIPIAPPTNSKGQRWEEDSRQKVRPDGWAITVKNKNPVETIKFFDFY</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">FSRPGRDISNFGVPGVTYDIKNGKAVFKDSVLKSPQPVNNQLYDMGAQIPIGFWQDYDYERQWTTPEAQAGIDMYVKGKYVMPGFEGVNMTREERAIYDKYWADVRTYMYEMGQAWVMGT</span></span>
+<span class="topo-ruler">       490       500       510      </span>
 <span class="topo-line"><span class="topo-outside">KDVDKTWDEYQRQLKLRGLYQVLQMMQQAYDRQYKN</span></span>
+<details class="topo-details"><summary>Topology coordinates (2 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -495,6 +504,7 @@ AlgM1M2SS is an [ATP](/xray-mp-wiki/reagents/ligands/atp/)-binding cassette (ABC
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -510,13 +520,15 @@ AlgM1M2SS is an [ATP](/xray-mp-wiki/reagents/ligands/atp/)-binding cassette (ABC
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MVASVSIQNVVKRYDKTTVVHGVSLDIEPGEFVVLVGPSGCGKSTTLRMVAGLEEISGGT</span></span>
-<span class="topo-line"><span class="topo-inside">IRIDGRVINDLAPKDRDVAMVFQNYALYPHLNVRDNISFGLRLKRTKKSVIDAAVKTAAD</span></span>
-<span class="topo-line"><span class="topo-inside">ILGLQPLLERKPSDLSGGQRQRVAMGRAIVRDPKVFLFDQPLSNLDAKLRTQMRAEIKRL</span></span>
-<span class="topo-line"><span class="topo-inside">HQRLGTTVIYVTHDQVEAMTLADRIVVMRDGLIEQIGKPMDLFLHPANTFVASFIGSPPM</span></span>
-<span class="topo-line"><span class="topo-inside">NLMPARIAVDSTQHVELNGGNRISLLPRAGTHLAPGQEVVFGIRPEDVTLDGVEGSERAQ</span></span>
-<span class="topo-line"><span class="topo-inside">IKATVDIVEPLGSESILHATVGDHSLVVKVGGLNEVHPGDPVTLHVDLTRVHLFDAQSQA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">MVASVSIQNVVKRYDKTTVVHGVSLDIEPGEFVVLVGPSGCGKSTTLRMVAGLEEISGGTIRIDGRVINDLAPKDRDVAMVFQNYALYPHLNVRDNISFGLRLKRTKKSVIDAAVKTAAD</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">ILGLQPLLERKPSDLSGGQRQRVAMGRAIVRDPKVFLFDQPLSNLDAKLRTQMRAEIKRLHQRLGTTVIYVTHDQVEAMTLADRIVVMRDGLIEQIGKPMDLFLHPANTFVASFIGSPPM</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">NLMPARIAVDSTQHVELNGGNRISLLPRAGTHLAPGQEVVFGIRPEDVTLDGVEGSERAQIKATVDIVEPLGSESILHATVGDHSLVVKVGGLNEVHPGDPVTLHVDLTRVHLFDAQSQA</span></span>
+<span class="topo-ruler">   </span>
 <span class="topo-line"><span class="topo-inside">SIY</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -535,6 +547,7 @@ AlgM1M2SS is an [ATP](/xray-mp-wiki/reagents/ligands/atp/)-binding cassette (ABC
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

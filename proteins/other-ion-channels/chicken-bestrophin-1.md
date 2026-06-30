@@ -116,13 +116,15 @@ Bestrophin-1 (BEST1) is a calcium-activated chloride channel (CaCC) that regulat
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">TVTYTNRVADARLGTFSQLLLQWKGSIYKLL</span><span class="topo-membrane">YSEFLIFISLYFAISLVYRLIL</span><span class="topo-inside">SESQ</span><span class="topo-membrane">RLM</span></span>
-<span class="topo-line"><span class="topo-membrane">FEKLALYCNSYAELIPVSF</span><span class="topo-outside">VLGFYVSLVVSRWWAQYESIPWPDRIMNLVSCNVDGEDEYG</span></span>
-<span class="topo-line"><span class="topo-outside">RLLRRTLMRYSNLCSVLILRSVSTAVYKRFPSMEHVVRAGLMTPEEHKKFESLNSPHNKF</span></span>
-<span class="topo-line"><span class="topo-outside">WIPCVWFSNLAVKARNEGRIRDSVLLQGILNELNTLRSQCGRLYGYDWISIPLVYTQVVT</span></span>
-<span class="topo-line"><span class="topo-membrane">VAVYSFFLACLIGRQFLDP</span><span class="topo-inside">EKAY</span><span class="topo-membrane">PGHELDLFVPVFTFLQFFFYAG</span><span class="topo-outside">WLKVAEQLINPFGED</span></span>
-<span class="topo-line"><span class="topo-outside">DDDFETNWLIDRNLQVSLMAVDEMHQDLPILEKDLYWNEPDPQPPYTAATAEYKRPSFLG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">TVTYTNRVADARLGTFSQLLLQWKGSIYKLL</span><span class="topo-membrane">YSEFLIFISLYFAISLVYRLIL</span><span class="topo-inside">SESQ</span><span class="topo-membrane">RLMFEKLALYCNSYAELIPVSF</span><span class="topo-outside">VLGFYVSLVVSRWWAQYESIPWPDRIMNLVSCNVDGEDEYG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">RLLRRTLMRYSNLCSVLILRSVSTAVYKRFPSMEHVVRAGLMTPEEHKKFESLNSPHNKFWIPCVWFSNLAVKARNEGRIRDSVLLQGILNELNTLRSQCGRLYGYDWISIPLVYTQVVT</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">VAVYSFFLACLIGRQFLDP</span><span class="topo-inside">EKAY</span><span class="topo-membrane">PGHELDLFVPVFTFLQFFFYAG</span><span class="topo-outside">WLKVAEQLINPFGEDDDDFETNWLIDRNLQVSLMAVDEMHQDLPILEKDLYWNEPDPQPPYTAATAEYKRPSFLG</span></span>
+<span class="topo-ruler">       370       380       390       400         </span>
 <span class="topo-line"><span class="topo-outside">STFDIS</span><span class="topo-unknown">MQKEEMEFQPLEQIKENEEANHSTPLLGHLGRLLGVQSEGEEF</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -197,6 +199,7 @@ Bestrophin-1 (BEST1) is a calcium-activated chloride channel (CaCC) that regulat
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -212,13 +215,15 @@ Bestrophin-1 (BEST1) is a calcium-activated chloride channel (CaCC) that regulat
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">TVTYTNRVADARLGTFSQLLLQWKGSIYKLL</span><span class="topo-membrane">YSEFLIFISLYFAISLVYRLIL</span><span class="topo-inside">SESQRLM</span></span>
-<span class="topo-line"><span class="topo-membrane">FEKLALYCNSYAELIPVSFV</span><span class="topo-outside">LGFYVSLVVSRWWAQYESIPWPDRIMNLVSCNVDGEDEYG</span></span>
-<span class="topo-line"><span class="topo-outside">RLLRRTLMRYSNLCSVLILRSVSTAVYKRFPSMEHVVRAGLMTPEEHKKFESLNSPHNKF</span></span>
-<span class="topo-line"><span class="topo-outside">WIPCVWFSNLAVKARNEGRIRDSVLLQGILNELNTLRSQCGRLYGYDWISIPLVYTQV</span><span class="topo-membrane">VT</span></span>
-<span class="topo-line"><span class="topo-membrane">VAVYSFFLACLIGRQFL</span><span class="topo-inside">DPEKAY</span><span class="topo-membrane">PGHELDLFVPVFTFLQFFFYAGW</span><span class="topo-outside">LKVAEQLINPFGED</span></span>
-<span class="topo-line"><span class="topo-outside">DDDFETNWLIDRNLQVSLMAVDEMHQDLPILEKDLYWNEPDPQPPYTAATAEYKRPSFLG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">TVTYTNRVADARLGTFSQLLLQWKGSIYKLL</span><span class="topo-membrane">YSEFLIFISLYFAISLVYRLIL</span><span class="topo-inside">SESQRLM</span><span class="topo-membrane">FEKLALYCNSYAELIPVSFV</span><span class="topo-outside">LGFYVSLVVSRWWAQYESIPWPDRIMNLVSCNVDGEDEYG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">RLLRRTLMRYSNLCSVLILRSVSTAVYKRFPSMEHVVRAGLMTPEEHKKFESLNSPHNKFWIPCVWFSNLAVKARNEGRIRDSVLLQGILNELNTLRSQCGRLYGYDWISIPLVYTQV</span><span class="topo-membrane">VT</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">VAVYSFFLACLIGRQFL</span><span class="topo-inside">DPEKAY</span><span class="topo-membrane">PGHELDLFVPVFTFLQFFFYAGW</span><span class="topo-outside">LKVAEQLINPFGEDDDDFETNWLIDRNLQVSLMAVDEMHQDLPILEKDLYWNEPDPQPPYTAATAEYKRPSFLG</span></span>
+<span class="topo-ruler">       370       380       390       400         </span>
 <span class="topo-line"><span class="topo-outside">STFDIS</span><span class="topo-unknown">MQKEEMEFQPLEQIKENEEANHSTPLLGHLGRLLGVQSEGEEF</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -293,6 +298,7 @@ Bestrophin-1 (BEST1) is a calcium-activated chloride channel (CaCC) that regulat
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -308,13 +314,15 @@ Bestrophin-1 (BEST1) is a calcium-activated chloride channel (CaCC) that regulat
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">TVTYTNRVADARLGTFSQLLLQWKGSIYKLL</span><span class="topo-membrane">YSEFLIFISLYFAISLVYRLI</span><span class="topo-inside">LSESQRLM</span></span>
-<span class="topo-line"><span class="topo-membrane">FEKLALYCNSYAELIPVSFV</span><span class="topo-outside">LGFYVSLVVSRWWAQYESIPWPDRIMNLVSCNVDGEDEYG</span></span>
-<span class="topo-line"><span class="topo-outside">RLLRRTLMRYSNLCSVLILRSVSTAVYKRFPSMEHVVRAGLMTPEEHKKFESLNSPHNKF</span></span>
-<span class="topo-line"><span class="topo-outside">WIPCVWFSNLAVKARNEGRIRDSVLLQGILNELNTLRSQCGRLYGYDWISIPLVYTQV</span><span class="topo-membrane">VT</span></span>
-<span class="topo-line"><span class="topo-membrane">VAVYSFFLACLIGRQFL</span><span class="topo-inside">DPEKAY</span><span class="topo-membrane">PGHELDLFVPVFTFLQFFFYAG</span><span class="topo-outside">WLKVAEQLINPFGED</span></span>
-<span class="topo-line"><span class="topo-outside">DDDFETNWLIDRNLQVSLMAVDEMHQDLPILEKDLYWNEPDPQPPYTAATAEYKRPSFLG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">TVTYTNRVADARLGTFSQLLLQWKGSIYKLL</span><span class="topo-membrane">YSEFLIFISLYFAISLVYRLI</span><span class="topo-inside">LSESQRLM</span><span class="topo-membrane">FEKLALYCNSYAELIPVSFV</span><span class="topo-outside">LGFYVSLVVSRWWAQYESIPWPDRIMNLVSCNVDGEDEYG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">RLLRRTLMRYSNLCSVLILRSVSTAVYKRFPSMEHVVRAGLMTPEEHKKFESLNSPHNKFWIPCVWFSNLAVKARNEGRIRDSVLLQGILNELNTLRSQCGRLYGYDWISIPLVYTQV</span><span class="topo-membrane">VT</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">VAVYSFFLACLIGRQFL</span><span class="topo-inside">DPEKAY</span><span class="topo-membrane">PGHELDLFVPVFTFLQFFFYAG</span><span class="topo-outside">WLKVAEQLINPFGEDDDDFETNWLIDRNLQVSLMAVDEMHQDLPILEKDLYWNEPDPQPPYTAATAEYKRPSFLG</span></span>
+<span class="topo-ruler">       370       380       390       400         </span>
 <span class="topo-line"><span class="topo-outside">STFDIS</span><span class="topo-unknown">MQKEEMEFQPLEQIKENEEANHSTPLLGHLGRLLGVQSEGEEF</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -389,6 +397,7 @@ Bestrophin-1 (BEST1) is a calcium-activated chloride channel (CaCC) that regulat
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -404,13 +413,15 @@ Bestrophin-1 (BEST1) is a calcium-activated chloride channel (CaCC) that regulat
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">TVTYTNRVADARLGTFSQLLLQWKGSIYKLL</span><span class="topo-membrane">YSEFLIFISLYFAISLVYRLIL</span><span class="topo-inside">SESQRLM</span></span>
-<span class="topo-line"><span class="topo-membrane">FEKLALYCNSYAELIPVSFV</span><span class="topo-outside">LGFYVSLVVSRWWAQYESIPWPDRIMNLVSCNVDGEDEYG</span></span>
-<span class="topo-line"><span class="topo-outside">RLLRRTLMRYSNLCSVLILRSVSTAVYKRFPSMEHVVRAGLMTPEEHKKFESLNSPHNKF</span></span>
-<span class="topo-line"><span class="topo-outside">WIPCVWFSNLAVKARNEGRIRDSVLLQGILNELNTLRSQCGRLYGYDWISIPLVYTQV</span><span class="topo-membrane">VT</span></span>
-<span class="topo-line"><span class="topo-membrane">VAVYSFFLACLIGRQFLDP</span><span class="topo-inside">EKAY</span><span class="topo-membrane">PGHELDLFVPVFTFLQFFFYA</span><span class="topo-outside">GWLKVAEQLINPFGED</span></span>
-<span class="topo-line"><span class="topo-outside">DDDFETNWLIDRNLQVSLMAVDEMHQDLPILEKDLYWNEPDPQPPYTAATAEYKRPSFLG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">TVTYTNRVADARLGTFSQLLLQWKGSIYKLL</span><span class="topo-membrane">YSEFLIFISLYFAISLVYRLIL</span><span class="topo-inside">SESQRLM</span><span class="topo-membrane">FEKLALYCNSYAELIPVSFV</span><span class="topo-outside">LGFYVSLVVSRWWAQYESIPWPDRIMNLVSCNVDGEDEYG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">RLLRRTLMRYSNLCSVLILRSVSTAVYKRFPSMEHVVRAGLMTPEEHKKFESLNSPHNKFWIPCVWFSNLAVKARNEGRIRDSVLLQGILNELNTLRSQCGRLYGYDWISIPLVYTQV</span><span class="topo-membrane">VT</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">VAVYSFFLACLIGRQFLDP</span><span class="topo-inside">EKAY</span><span class="topo-membrane">PGHELDLFVPVFTFLQFFFYA</span><span class="topo-outside">GWLKVAEQLINPFGEDDDDFETNWLIDRNLQVSLMAVDEMHQDLPILEKDLYWNEPDPQPPYTAATAEYKRPSFLG</span></span>
+<span class="topo-ruler">       370       380       390       400         </span>
 <span class="topo-line"><span class="topo-outside">STFDIS</span><span class="topo-unknown">MQKEEMEFQPLEQIKENEEANHSTPLLGHLGRLLGVQSEGEEF</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -485,6 +496,7 @@ Bestrophin-1 (BEST1) is a calcium-activated chloride channel (CaCC) that regulat
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -500,13 +512,15 @@ Bestrophin-1 (BEST1) is a calcium-activated chloride channel (CaCC) that regulat
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">TVTYTNRVADARLGTFSQLLLQWKGS</span><span class="topo-unknown">IYKLLY</span><span class="topo-membrane">SEFLIFISLYFAISLVYRLILS</span><span class="topo-inside">ESQ</span><span class="topo-membrane">RLM</span></span>
-<span class="topo-line"><span class="topo-membrane">FEKLALYCNSYAELIPVSF</span><span class="topo-outside">VLGFYVSLVVSRWWAQYESIPWPDRIMNLVSCNVDGEDEYG</span></span>
-<span class="topo-line"><span class="topo-outside">RLLRRTLMRYSNLCSVLILRSVSTAVYKRFPSMEHVVRAGLMTPEEHKKFESLNSPHNKF</span></span>
-<span class="topo-line"><span class="topo-outside">WIPCVWFSNLAVKARNEGRIRDSVLLQGILNELNTLRSQCGRLYGYDWISIPLVYTQVVT</span></span>
-<span class="topo-line"><span class="topo-outside">V</span><span class="topo-membrane">AVYSFFLACLIGRQFLDP</span><span class="topo-inside">EKAY</span><span class="topo-membrane">PGHELDLFVPVFTFLQFFFYA</span><span class="topo-outside">GWLKVAEQLINPFGED</span></span>
-<span class="topo-line"><span class="topo-outside">DDDFETNWLIDRNLQVSLMAVDEMHQDLPILEKDLYWNEPDPQPPYTAATAEYKRPSFLG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">TVTYTNRVADARLGTFSQLLLQWKGS</span><span class="topo-unknown">IYKLLY</span><span class="topo-membrane">SEFLIFISLYFAISLVYRLILS</span><span class="topo-inside">ESQ</span><span class="topo-membrane">RLMFEKLALYCNSYAELIPVSF</span><span class="topo-outside">VLGFYVSLVVSRWWAQYESIPWPDRIMNLVSCNVDGEDEYG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">RLLRRTLMRYSNLCSVLILRSVSTAVYKRFPSMEHVVRAGLMTPEEHKKFESLNSPHNKFWIPCVWFSNLAVKARNEGRIRDSVLLQGILNELNTLRSQCGRLYGYDWISIPLVYTQVVT</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">V</span><span class="topo-membrane">AVYSFFLACLIGRQFLDP</span><span class="topo-inside">EKAY</span><span class="topo-membrane">PGHELDLFVPVFTFLQFFFYA</span><span class="topo-outside">GWLKVAEQLINPFGEDDDDFETNWLIDRNLQVSLMAVDEMHQDLPILEKDLYWNEPDPQPPYTAATAEYKRPSFLG</span></span>
+<span class="topo-ruler">       370       380       390       400         </span>
 <span class="topo-line"><span class="topo-outside">STFDIS</span><span class="topo-unknown">MQKEEMEFQPLEQIKENEEANHSTPLLGHLGRLLGVQSEGEEF</span></span>
+<details class="topo-details"><summary>Topology coordinates (10 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -588,6 +602,7 @@ Bestrophin-1 (BEST1) is a calcium-activated chloride channel (CaCC) that regulat
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -701,13 +716,15 @@ Bestrophin-1 (BEST1) is a calcium-activated chloride channel (CaCC) that regulat
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">TVTYTNRVADARLGTFSQLLLQWKGSIYKLL</span><span class="topo-membrane">YSEFLIFISLYFAISLVYRLIL</span><span class="topo-outside">SESQRLM</span></span>
-<span class="topo-line"><span class="topo-membrane">FEKLALYCNSYAELAPVSAV</span><span class="topo-inside">LGAYVSLVVSRWWAQYESIPWPDRIMNLVSCNVDGEDEYG</span></span>
-<span class="topo-line"><span class="topo-inside">RLLRRTLMRYSNLCSVLILRSVSTAVYKRFPSMEHVVRAGLMTPEEHKKFESLNSPHNKF</span></span>
-<span class="topo-line"><span class="topo-inside">WIPCVWFSNLAVKARNEGRIRDSVLLQGILNELNTLRSQCGRLYGYDWISIPLVYTQV</span><span class="topo-membrane">VT</span></span>
-<span class="topo-line"><span class="topo-membrane">VAVYSFFLACLIGRQFLD</span><span class="topo-outside">PEKAY</span><span class="topo-membrane">PGHELDLFVPVFTFLQFFFYAG</span><span class="topo-inside">WLKVAEQLINPFGED</span></span>
-<span class="topo-line"><span class="topo-inside">DDDFETNWLIDRNLQVSLMAVDEMHQDLPILEKDLYWNEPDPQPPYTAATAEYKRPSFLG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">TVTYTNRVADARLGTFSQLLLQWKGSIYKLL</span><span class="topo-membrane">YSEFLIFISLYFAISLVYRLIL</span><span class="topo-outside">SESQRLM</span><span class="topo-membrane">FEKLALYCNSYAELAPVSAV</span><span class="topo-inside">LGAYVSLVVSRWWAQYESIPWPDRIMNLVSCNVDGEDEYG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">RLLRRTLMRYSNLCSVLILRSVSTAVYKRFPSMEHVVRAGLMTPEEHKKFESLNSPHNKFWIPCVWFSNLAVKARNEGRIRDSVLLQGILNELNTLRSQCGRLYGYDWISIPLVYTQV</span><span class="topo-membrane">VT</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">VAVYSFFLACLIGRQFLD</span><span class="topo-outside">PEKAY</span><span class="topo-membrane">PGHELDLFVPVFTFLQFFFYAG</span><span class="topo-inside">WLKVAEQLINPFGEDDDDFETNWLIDRNLQVSLMAVDEMHQDLPILEKDLYWNEPDPQPPYTAATAEYKRPSFLG</span></span>
+<span class="topo-ruler">       370       380       390       400         </span>
 <span class="topo-line"><span class="topo-inside">STFDIS</span><span class="topo-unknown">MQKEEMEFQPLEQIKENEEANHSTPLLGHLGRLLGVQSEGEEF</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -782,6 +799,7 @@ Bestrophin-1 (BEST1) is a calcium-activated chloride channel (CaCC) that regulat
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -797,13 +815,15 @@ Bestrophin-1 (BEST1) is a calcium-activated chloride channel (CaCC) that regulat
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">TVTYTNRVADARLGTFSQLLLQWKGS</span><span class="topo-unknown">IYKLLY</span><span class="topo-membrane">SEFLIFISLYFAISLVYRLIL</span><span class="topo-outside">SESQ</span><span class="topo-membrane">RLM</span></span>
-<span class="topo-line"><span class="topo-membrane">FEKLALYCNSYAELAPVSAV</span><span class="topo-inside">LGAYVSLVVSRWWAQYESIPWPDRIMNLVSCNVDGEDEYG</span></span>
-<span class="topo-line"><span class="topo-inside">RLLRRTLMRYSNLCSVLILRSVSTAVYKRFPSMEHVVRAGLMTPEEHKKFESLNSPHNKF</span></span>
-<span class="topo-line"><span class="topo-inside">WIPCVWFSNLAVKARNEGRIRDSVLLQGILNELNTLRSQCGRLYGYDWISIPLVYTQVVT</span></span>
-<span class="topo-line"><span class="topo-membrane">VAVYSFFLACLIGRQFLDP</span><span class="topo-outside">EKAY</span><span class="topo-membrane">PGHELDLFVPVFTFLQFFFYA</span><span class="topo-inside">GWLKVAEQLINPFGED</span></span>
-<span class="topo-line"><span class="topo-inside">DDDFETNWLIDRNLQVSLMAVDEMHQDLPILEKDLYWNEPDPQPPYTAATAEYKRPSFLG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">TVTYTNRVADARLGTFSQLLLQWKGS</span><span class="topo-unknown">IYKLLY</span><span class="topo-membrane">SEFLIFISLYFAISLVYRLIL</span><span class="topo-outside">SESQ</span><span class="topo-membrane">RLMFEKLALYCNSYAELAPVSAV</span><span class="topo-inside">LGAYVSLVVSRWWAQYESIPWPDRIMNLVSCNVDGEDEYG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">RLLRRTLMRYSNLCSVLILRSVSTAVYKRFPSMEHVVRAGLMTPEEHKKFESLNSPHNKFWIPCVWFSNLAVKARNEGRIRDSVLLQGILNELNTLRSQCGRLYGYDWISIPLVYTQVVT</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">VAVYSFFLACLIGRQFLDP</span><span class="topo-outside">EKAY</span><span class="topo-membrane">PGHELDLFVPVFTFLQFFFYA</span><span class="topo-inside">GWLKVAEQLINPFGEDDDDFETNWLIDRNLQVSLMAVDEMHQDLPILEKDLYWNEPDPQPPYTAATAEYKRPSFLG</span></span>
+<span class="topo-ruler">       370       380       390       400         </span>
 <span class="topo-line"><span class="topo-inside">STFDIS</span><span class="topo-unknown">MQKEEMEFQPLEQIKENEEANHSTPLLGHLGRLLGVQSEGEEF</span></span>
+<details class="topo-details"><summary>Topology coordinates (10 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -885,6 +905,7 @@ Bestrophin-1 (BEST1) is a calcium-activated chloride channel (CaCC) that regulat
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -900,13 +921,15 @@ Bestrophin-1 (BEST1) is a calcium-activated chloride channel (CaCC) that regulat
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">TVTYTNRVADARLGTFSQLLLQWKGS</span><span class="topo-unknown">IYKLLY</span><span class="topo-membrane">SEFLIFISLYFAISLVYRLILS</span><span class="topo-outside">ESQ</span><span class="topo-membrane">RLM</span></span>
-<span class="topo-line"><span class="topo-membrane">FEKLALYCNSYAELAPVSA</span><span class="topo-inside">VLGAYVSLVVSRWWAQYESIPWPDRIMNLVSCNVDGEDEYG</span></span>
-<span class="topo-line"><span class="topo-inside">RLLRRTLMRYSNLCSVLILRSVSTAVYKRFPSMEHVVRAGLMTPEEHKKFESLNSPHNKF</span></span>
-<span class="topo-line"><span class="topo-inside">WIPCVWFSNLAVKARNEGRIRDSVLLQGILNELNTLRSQCGRLYGYDWISIPLVYTQVVT</span></span>
-<span class="topo-line"><span class="topo-inside">V</span><span class="topo-membrane">AVYSFFLACLIGRQFLDP</span><span class="topo-outside">EKAY</span><span class="topo-membrane">PGHELDLFVPVFTFLQFFFYA</span><span class="topo-inside">GWLKVAEQLINPFGED</span></span>
-<span class="topo-line"><span class="topo-inside">DDDFETNWLIDRNLQVSLMAVDEMHQDLPILEKDLYWNEPDPQPPYTAATAEYKRPSFLG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">TVTYTNRVADARLGTFSQLLLQWKGS</span><span class="topo-unknown">IYKLLY</span><span class="topo-membrane">SEFLIFISLYFAISLVYRLILS</span><span class="topo-outside">ESQ</span><span class="topo-membrane">RLMFEKLALYCNSYAELAPVSA</span><span class="topo-inside">VLGAYVSLVVSRWWAQYESIPWPDRIMNLVSCNVDGEDEYG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">RLLRRTLMRYSNLCSVLILRSVSTAVYKRFPSMEHVVRAGLMTPEEHKKFESLNSPHNKFWIPCVWFSNLAVKARNEGRIRDSVLLQGILNELNTLRSQCGRLYGYDWISIPLVYTQVVT</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">V</span><span class="topo-membrane">AVYSFFLACLIGRQFLDP</span><span class="topo-outside">EKAY</span><span class="topo-membrane">PGHELDLFVPVFTFLQFFFYA</span><span class="topo-inside">GWLKVAEQLINPFGEDDDDFETNWLIDRNLQVSLMAVDEMHQDLPILEKDLYWNEPDPQPPYTAATAEYKRPSFLG</span></span>
+<span class="topo-ruler">       370       380       390       400         </span>
 <span class="topo-line"><span class="topo-inside">STFDIS</span><span class="topo-unknown">MQKEEMEFQPLEQIKENEEANHSTPLLGHLGRLLGVQSEGEEF</span></span>
+<details class="topo-details"><summary>Topology coordinates (10 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -988,6 +1011,7 @@ Bestrophin-1 (BEST1) is a calcium-activated chloride channel (CaCC) that regulat
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1003,13 +1027,15 @@ Bestrophin-1 (BEST1) is a calcium-activated chloride channel (CaCC) that regulat
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">TVTYTNRVADARLGTFSQLLLQWKGSIYKLL</span><span class="topo-membrane">YSEFLIFISLYFAISLVYRLIL</span><span class="topo-outside">SESQ</span><span class="topo-membrane">RLM</span></span>
-<span class="topo-line"><span class="topo-membrane">FEKLALYCNSYAELAPVSA</span><span class="topo-inside">VLGAYVSLVVSRWWAQYESIPWPDRIMNLVSCNVDGEDEYG</span></span>
-<span class="topo-line"><span class="topo-inside">RLLRRTLMRYSNLCSVLILRSVSTAVYKRFPSMEHVVRAGLMTPEEHKKFESLNSPHNKF</span></span>
-<span class="topo-line"><span class="topo-inside">WIPCVWFSNLAVKARNEGRIRDSVLLQGILNELNTLRSQCGRLYGYDWISIPLVYTQVVT</span></span>
-<span class="topo-line"><span class="topo-membrane">VAVYSFFLACLIGRQFLD</span><span class="topo-outside">PEKAY</span><span class="topo-membrane">PGHELDLFVPVFTFLQFFFYAG</span><span class="topo-inside">WLKVAEQLINPFGED</span></span>
-<span class="topo-line"><span class="topo-inside">DDDFETNWLIDRNLQVSLMAVDEMHQDLPILEKDLYWNEPDPQPPYTAATAEYKRPSFLG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">TVTYTNRVADARLGTFSQLLLQWKGSIYKLL</span><span class="topo-membrane">YSEFLIFISLYFAISLVYRLIL</span><span class="topo-outside">SESQ</span><span class="topo-membrane">RLMFEKLALYCNSYAELAPVSA</span><span class="topo-inside">VLGAYVSLVVSRWWAQYESIPWPDRIMNLVSCNVDGEDEYG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">RLLRRTLMRYSNLCSVLILRSVSTAVYKRFPSMEHVVRAGLMTPEEHKKFESLNSPHNKFWIPCVWFSNLAVKARNEGRIRDSVLLQGILNELNTLRSQCGRLYGYDWISIPLVYTQVVT</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">VAVYSFFLACLIGRQFLD</span><span class="topo-outside">PEKAY</span><span class="topo-membrane">PGHELDLFVPVFTFLQFFFYAG</span><span class="topo-inside">WLKVAEQLINPFGEDDDDFETNWLIDRNLQVSLMAVDEMHQDLPILEKDLYWNEPDPQPPYTAATAEYKRPSFLG</span></span>
+<span class="topo-ruler">       370       380       390       400         </span>
 <span class="topo-line"><span class="topo-inside">STFDIS</span><span class="topo-unknown">MQKEEMEFQPLEQIKENEEANHSTPLLGHLGRLLGVQSEGEEF</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1084,6 +1110,7 @@ Bestrophin-1 (BEST1) is a calcium-activated chloride channel (CaCC) that regulat
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1099,13 +1126,15 @@ Bestrophin-1 (BEST1) is a calcium-activated chloride channel (CaCC) that regulat
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">TVTYTNRVADARLGTFSQLLLQWKGSIYKLL</span><span class="topo-membrane">YSEFLIFISLYFAISLVYRLI</span><span class="topo-outside">LSESQRLM</span></span>
-<span class="topo-line"><span class="topo-membrane">FEKLALYCNSYAELAPVSAVL</span><span class="topo-inside">GAYVSLVVSRWWAQYESIPWPDRIMNLVSCNVDGEDEYG</span></span>
-<span class="topo-line"><span class="topo-inside">RLLRRTLMRYSNLCSVLILRSVSTAVYKRFPSMEHVVRAGLMTPEEHKKFESLNSPHNKF</span></span>
-<span class="topo-line"><span class="topo-inside">WIPCVWFSNLAVKARNEGRIRDSVLLQGILNELNTLRSQCGRLYGYDWISIPLVYTQV</span><span class="topo-membrane">VT</span></span>
-<span class="topo-line"><span class="topo-membrane">VAVYSFFLACLIGRQFL</span><span class="topo-outside">DPEKAY</span><span class="topo-membrane">PGHELDLFVPVFTFLQFFFYAGW</span><span class="topo-inside">LKVAEQLINPFGED</span></span>
-<span class="topo-line"><span class="topo-inside">DDDFETNWLIDRNLQVSLMAVDEMHQDLPILEKDLYWNEPDPQPPYTAATAEYKRPSFLG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">TVTYTNRVADARLGTFSQLLLQWKGSIYKLL</span><span class="topo-membrane">YSEFLIFISLYFAISLVYRLI</span><span class="topo-outside">LSESQRLM</span><span class="topo-membrane">FEKLALYCNSYAELAPVSAVL</span><span class="topo-inside">GAYVSLVVSRWWAQYESIPWPDRIMNLVSCNVDGEDEYG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">RLLRRTLMRYSNLCSVLILRSVSTAVYKRFPSMEHVVRAGLMTPEEHKKFESLNSPHNKFWIPCVWFSNLAVKARNEGRIRDSVLLQGILNELNTLRSQCGRLYGYDWISIPLVYTQV</span><span class="topo-membrane">VT</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">VAVYSFFLACLIGRQFL</span><span class="topo-outside">DPEKAY</span><span class="topo-membrane">PGHELDLFVPVFTFLQFFFYAGW</span><span class="topo-inside">LKVAEQLINPFGEDDDDFETNWLIDRNLQVSLMAVDEMHQDLPILEKDLYWNEPDPQPPYTAATAEYKRPSFLG</span></span>
+<span class="topo-ruler">       370       380       390       400         </span>
 <span class="topo-line"><span class="topo-inside">STFDIS</span><span class="topo-unknown">MQKEEMEFQPLEQIKENEEANHSTPLLGHLGRLLGVQSEGEEF</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1180,6 +1209,7 @@ Bestrophin-1 (BEST1) is a calcium-activated chloride channel (CaCC) that regulat
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

@@ -160,21 +160,23 @@ AglB-L (archaeal glycosylation B, Long form) from Archaeoglobus fulgidus is a si
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MQNAESWFKKYWHL</span><span class="topo-outside">S</span><span class="topo-membrane">VLVIAALISV</span><span class="topo-inside">KLRILNPWNSVFTWTVRLGGNDPWYYYRLIENTIH</span></span>
-<span class="topo-line"><span class="topo-inside">NFPHRIWFDPFTYYPYGSYTHFG</span><span class="topo-unknown">PFLVYLGSIAGII</span><span class="topo-inside">FSATSGESLRAVLAFIPAI</span><span class="topo-membrane">GGVLA</span></span>
-<span class="topo-line"><span class="topo-membrane">ILPVYLLTREVFDK</span><span class="topo-outside">R</span><span class="topo-membrane">AAVIAAFLIAIV</span><span class="topo-inside">PGQFLQRSILGFNDHHI</span><span class="topo-membrane">WEAFWQVSALGTFLLA</span></span>
-<span class="topo-line"><span class="topo-membrane">YNRW</span><span class="topo-outside">KGHD</span><span class="topo-unknown">LSHN</span><span class="topo-outside">LT</span><span class="topo-membrane">ARQMAYPVIAGITIGLYVLS</span><span class="topo-inside">WGA</span><span class="topo-membrane">GFIIAPIILAFMFFAFVL</span><span class="topo-outside">AGFVN</span></span>
-<span class="topo-line"><span class="topo-outside">ADRKN</span><span class="topo-membrane">LSLVAVVTFAVSALIYLP</span><span class="topo-inside">FAFNYPGFSTIFYSP</span><span class="topo-membrane">FQLLVLLGSAVIAAAFYQI</span><span class="topo-outside">EKW</span></span>
-<span class="topo-line"><span class="topo-outside">NDVGFFERVGLGRKGMP</span><span class="topo-membrane">LAVIVLTALIMGLFFV</span><span class="topo-unknown">ISPDFARNLLSVVRVVQPKGGALTIAE</span></span>
-<span class="topo-line"><span class="topo-unknown">VYPFFFTHNGEFT</span><span class="topo-inside">LT</span><span class="topo-unknown">NAVLHF</span><span class="topo-membrane">GALFFFGMAGILYSAYRFL</span><span class="topo-outside">KRRS</span><span class="topo-membrane">FPEMALLIWAIAMFIA</span></span>
-<span class="topo-line"><span class="topo-membrane">LW</span><span class="topo-inside">GQNRFAY</span><span class="topo-membrane">YFAAVSAVYSALALSVVFDKLH</span><span class="topo-unknown">LYRALENAIGARNKLSY</span><span class="topo-outside">F</span><span class="topo-membrane">RVAFALLIALA</span></span>
-<span class="topo-line"><span class="topo-membrane">AIYPTY</span><span class="topo-inside">ILADAQSSYAGGPNKQWYDALTWMRENTPDGEKYDEYYLQLYPTPQSNKEPFSY</span></span>
-<span class="topo-line"><span class="topo-inside">PFETYGVISWWDYGHWIEAVAHRMPIANPFQAGIGNKYNNVPGASSFFTAENESYAEFVA</span></span>
-<span class="topo-line"><span class="topo-inside">EKLNVKYVVSDIEMETGKYYAMAVWAEGDLPLAEKYYGGYFYYSPTGTFGYANSQWDIPL</span></span>
-<span class="topo-line"><span class="topo-inside">NSIIIPLRIPSELYYSTMEAKLHLFDGSGLSHYRMIYESDYPAEWKSYSSQVNLNNESQV</span></span>
-<span class="topo-line"><span class="topo-inside">LQTALYEAVMRARYGVSPTMGTQEVLYKYAYTQLYEKKMGIPVKIAPSGYVKIFERVKGA</span></span>
-<span class="topo-line"><span class="topo-inside">VVTGKVSANVTEVSVNATIKTNQNRTFEYWQTVEVKNGTYTVVLPYSHNSDYPVKPITPY</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MQNAESWFKKYWHL</span><span class="topo-outside">S</span><span class="topo-membrane">VLVIAALISV</span><span class="topo-inside">KLRILNPWNSVFTWTVRLGGNDPWYYYRLIENTIHNFPHRIWFDPFTYYPYGSYTHFG</span><span class="topo-unknown">PFLVYLGSIAGII</span><span class="topo-inside">FSATSGESLRAVLAFIPAI</span><span class="topo-membrane">GGVLA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">ILPVYLLTREVFDK</span><span class="topo-outside">R</span><span class="topo-membrane">AAVIAAFLIAIV</span><span class="topo-inside">PGQFLQRSILGFNDHHI</span><span class="topo-membrane">WEAFWQVSALGTFLLAYNRW</span><span class="topo-outside">KGHD</span><span class="topo-unknown">LSHN</span><span class="topo-outside">LT</span><span class="topo-membrane">ARQMAYPVIAGITIGLYVLS</span><span class="topo-inside">WGA</span><span class="topo-membrane">GFIIAPIILAFMFFAFVL</span><span class="topo-outside">AGFVN</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">ADRKN</span><span class="topo-membrane">LSLVAVVTFAVSALIYLP</span><span class="topo-inside">FAFNYPGFSTIFYSP</span><span class="topo-membrane">FQLLVLLGSAVIAAAFYQI</span><span class="topo-outside">EKWNDVGFFERVGLGRKGMP</span><span class="topo-membrane">LAVIVLTALIMGLFFV</span><span class="topo-unknown">ISPDFARNLLSVVRVVQPKGGALTIAE</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-unknown">VYPFFFTHNGEFT</span><span class="topo-inside">LT</span><span class="topo-unknown">NAVLHF</span><span class="topo-membrane">GALFFFGMAGILYSAYRFL</span><span class="topo-outside">KRRS</span><span class="topo-membrane">FPEMALLIWAIAMFIALW</span><span class="topo-inside">GQNRFAY</span><span class="topo-membrane">YFAAVSAVYSALALSVVFDKLH</span><span class="topo-unknown">LYRALENAIGARNKLSY</span><span class="topo-outside">F</span><span class="topo-membrane">RVAFALLIALA</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-membrane">AIYPTY</span><span class="topo-inside">ILADAQSSYAGGPNKQWYDALTWMRENTPDGEKYDEYYLQLYPTPQSNKEPFSYPFETYGVISWWDYGHWIEAVAHRMPIANPFQAGIGNKYNNVPGASSFFTAENESYAEFVA</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-inside">EKLNVKYVVSDIEMETGKYYAMAVWAEGDLPLAEKYYGGYFYYSPTGTFGYANSQWDIPLNSIIIPLRIPSELYYSTMEAKLHLFDGSGLSHYRMIYESDYPAEWKSYSSQVNLNNESQV</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820       830       840</span>
+<span class="topo-line"><span class="topo-inside">LQTALYEAVMRARYGVSPTMGTQEVLYKYAYTQLYEKKMGIPVKIAPSGYVKIFERVKGAVVTGKVSANVTEVSVNATIKTNQNRTFEYWQTVEVKNGTYTVVLPYSHNSDYPVKPITPY</span></span>
+<span class="topo-ruler">       850       860       870     </span>
 <span class="topo-line"><span class="topo-inside">HIKAGNVVKEITIYESQVQNGEIIQLDL</span><span class="topo-unknown">ELALVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (36 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -438,6 +440,7 @@ AglB-L (archaeal glycosylation B, Long form) from Archaeoglobus fulgidus is a si
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -453,21 +456,23 @@ AglB-L (archaeal glycosylation B, Long form) from Archaeoglobus fulgidus is a si
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MQNAESWFKKYWHL</span><span class="topo-outside">S</span><span class="topo-membrane">VLVIAALISV</span><span class="topo-inside">KLRILNPWNSVFTWTVRLGGNDPWYYYRLIENTIH</span></span>
-<span class="topo-line"><span class="topo-inside">NFPHRIWFDPFTYYPYGSYTHFG</span><span class="topo-unknown">PFLVYLGSIAGII</span><span class="topo-inside">FSATSGESLRAVLAFIPAI</span><span class="topo-membrane">GGVLA</span></span>
-<span class="topo-line"><span class="topo-membrane">ILPVYLLTREVFDK</span><span class="topo-outside">R</span><span class="topo-membrane">AAVIAAFLIAIV</span><span class="topo-inside">PGQFLQRSILGFNDHHI</span><span class="topo-membrane">WEAFWQVSALGTFLLA</span></span>
-<span class="topo-line"><span class="topo-membrane">YNRW</span><span class="topo-outside">KGHD</span><span class="topo-unknown">LSHN</span><span class="topo-outside">LT</span><span class="topo-membrane">ARQMAYPVIAGITIGLYVLS</span><span class="topo-inside">WGA</span><span class="topo-membrane">GFIIAPIILAFMFFAFVL</span><span class="topo-outside">AGFVN</span></span>
-<span class="topo-line"><span class="topo-outside">ADRKN</span><span class="topo-membrane">LSLVAVVTFAVSALIYLP</span><span class="topo-inside">FAFNYPGFSTIFYSP</span><span class="topo-membrane">FQLLVLLGSAVIAAAFYQI</span><span class="topo-outside">EKW</span></span>
-<span class="topo-line"><span class="topo-outside">NDVGFFERVGLGRKGMP</span><span class="topo-membrane">LAVIVLTALIMGLFFV</span><span class="topo-unknown">ISPDFARNLLSVVRVVQPKGGALTIAE</span></span>
-<span class="topo-line"><span class="topo-unknown">VYPFFFTHNGEFT</span><span class="topo-inside">LT</span><span class="topo-unknown">NAVLHF</span><span class="topo-membrane">GALFFFGMAGILYSAYRFL</span><span class="topo-outside">KRRS</span><span class="topo-membrane">FPEMALLIWAIAMFIA</span></span>
-<span class="topo-line"><span class="topo-membrane">LW</span><span class="topo-inside">GQNRFAY</span><span class="topo-membrane">YFAAVSAVYSALALSVVFDKLH</span><span class="topo-unknown">LYRALENAIGARNKLSY</span><span class="topo-outside">F</span><span class="topo-membrane">RVAFALLIALA</span></span>
-<span class="topo-line"><span class="topo-membrane">AIYPTY</span><span class="topo-inside">ILADAQSSYAGGPNKQWYDALTWMRENTPDGEKYDEYYLQLYPTPQSNKEPFSY</span></span>
-<span class="topo-line"><span class="topo-inside">PFETYGVISWWDYGHWIEAVAHRMPIANPFQAGIGNKYNNVPGASSFFTAENESYAEFVA</span></span>
-<span class="topo-line"><span class="topo-inside">EKLNVKYVVSDIEMETGKYYAMAVWAEGDLPLAEKYYGGYFYYSPTGTFGYANSQWDIPL</span></span>
-<span class="topo-line"><span class="topo-inside">NSIIIPLRIPSELYYSTMEAKLHLFDGSGLSHYRMIYESDYPAEWKSYSSQVNLNNESQV</span></span>
-<span class="topo-line"><span class="topo-inside">LQTALYEAVMRARYGVSPTMGTQEVLYKYAYTQLYEKKMGIPVKIAPSGYVKIFERVKGA</span></span>
-<span class="topo-line"><span class="topo-inside">VVTGKVSANVTEVSVNATIKTNQNRTFEYWQTVEVKNGTYTVVLPYSHNSDYPVKPITPY</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MQNAESWFKKYWHL</span><span class="topo-outside">S</span><span class="topo-membrane">VLVIAALISV</span><span class="topo-inside">KLRILNPWNSVFTWTVRLGGNDPWYYYRLIENTIHNFPHRIWFDPFTYYPYGSYTHFG</span><span class="topo-unknown">PFLVYLGSIAGII</span><span class="topo-inside">FSATSGESLRAVLAFIPAI</span><span class="topo-membrane">GGVLA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">ILPVYLLTREVFDK</span><span class="topo-outside">R</span><span class="topo-membrane">AAVIAAFLIAIV</span><span class="topo-inside">PGQFLQRSILGFNDHHI</span><span class="topo-membrane">WEAFWQVSALGTFLLAYNRW</span><span class="topo-outside">KGHD</span><span class="topo-unknown">LSHN</span><span class="topo-outside">LT</span><span class="topo-membrane">ARQMAYPVIAGITIGLYVLS</span><span class="topo-inside">WGA</span><span class="topo-membrane">GFIIAPIILAFMFFAFVL</span><span class="topo-outside">AGFVN</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">ADRKN</span><span class="topo-membrane">LSLVAVVTFAVSALIYLP</span><span class="topo-inside">FAFNYPGFSTIFYSP</span><span class="topo-membrane">FQLLVLLGSAVIAAAFYQI</span><span class="topo-outside">EKWNDVGFFERVGLGRKGMP</span><span class="topo-membrane">LAVIVLTALIMGLFFV</span><span class="topo-unknown">ISPDFARNLLSVVRVVQPKGGALTIAE</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-unknown">VYPFFFTHNGEFT</span><span class="topo-inside">LT</span><span class="topo-unknown">NAVLHF</span><span class="topo-membrane">GALFFFGMAGILYSAYRFL</span><span class="topo-outside">KRRS</span><span class="topo-membrane">FPEMALLIWAIAMFIALW</span><span class="topo-inside">GQNRFAY</span><span class="topo-membrane">YFAAVSAVYSALALSVVFDKLH</span><span class="topo-unknown">LYRALENAIGARNKLSY</span><span class="topo-outside">F</span><span class="topo-membrane">RVAFALLIALA</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-membrane">AIYPTY</span><span class="topo-inside">ILADAQSSYAGGPNKQWYDALTWMRENTPDGEKYDEYYLQLYPTPQSNKEPFSYPFETYGVISWWDYGHWIEAVAHRMPIANPFQAGIGNKYNNVPGASSFFTAENESYAEFVA</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-inside">EKLNVKYVVSDIEMETGKYYAMAVWAEGDLPLAEKYYGGYFYYSPTGTFGYANSQWDIPLNSIIIPLRIPSELYYSTMEAKLHLFDGSGLSHYRMIYESDYPAEWKSYSSQVNLNNESQV</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820       830       840</span>
+<span class="topo-line"><span class="topo-inside">LQTALYEAVMRARYGVSPTMGTQEVLYKYAYTQLYEKKMGIPVKIAPSGYVKIFERVKGAVVTGKVSANVTEVSVNATIKTNQNRTFEYWQTVEVKNGTYTVVLPYSHNSDYPVKPITPY</span></span>
+<span class="topo-ruler">       850       860       870     </span>
 <span class="topo-line"><span class="topo-inside">HIKAGNVVKEITIYESQVQNGEIIQLDL</span><span class="topo-unknown">ELALVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (36 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -731,6 +736,7 @@ AglB-L (archaeal glycosylation B, Long form) from Archaeoglobus fulgidus is a si
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

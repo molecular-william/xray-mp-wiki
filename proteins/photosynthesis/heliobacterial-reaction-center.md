@@ -118,16 +118,17 @@ common ancestor of all photosynthetic reaction centers.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">NPRAQVFEYFKLKVPATRGAVLK</span><span class="topo-membrane">AHINHLGNVAAMVSF</span><span class="topo-outside">ILVHHLSWDPATQGVLWAP</span><span class="topo-unknown">ATM</span></span>
-<span class="topo-line"><span class="topo-unknown">FYARLYQ</span><span class="topo-outside">LGLDAVALSPDALFVARM</span><span class="topo-membrane">HLLAAIILWGFGH</span><span class="topo-inside">VKS</span><span class="topo-unknown">PAEEKFL</span><span class="topo-inside">EKVTMGKA</span><span class="topo-membrane">LVAQ</span></span>
-<span class="topo-line"><span class="topo-membrane">FHFFALIATL</span><span class="topo-outside">WGLHMAFYGILGPSGKLEPTGLSFDMFGPITPATMAGNHVA</span><span class="topo-membrane">FGAVFFLGG</span></span>
-<span class="topo-line"><span class="topo-membrane">IFHY</span><span class="topo-inside">FAGFNTKRFAFFEKDWEAVL</span><span class="topo-membrane">SVSCQILAFHFATV</span><span class="topo-outside">VFAMIIWQHPQLGFGFMREYAV</span></span>
-<span class="topo-line"><span class="topo-outside">SQYAGPELKMIAQSNPGLLVKQAILG</span><span class="topo-membrane">HLVMGIMFWIGGV</span><span class="topo-inside">FHGAHFMLRVLNDPKLAEEMK</span></span>
-<span class="topo-line"><span class="topo-inside">DFKFIKRCYDHEFQKKFLA</span><span class="topo-membrane">LIMFGAFLPIFVSYG</span><span class="topo-outside">IATHNTIADIHAASKTGLFAHMTYIN</span></span>
-<span class="topo-line"><span class="topo-outside">IGT</span><span class="topo-unknown">PLHDAIF</span><span class="topo-outside">GSKGSISEFVAAH</span><span class="topo-membrane">AIAGGLHFTMVPMW</span><span class="topo-inside">RMVFFSKVSPWTTKVGMKAKRDG</span></span>
-<span class="topo-line"><span class="topo-inside">EFPCLGPAYGGTCSISLVDQF</span><span class="topo-membrane">YLAIFFSLQVIA</span><span class="topo-outside">PAWFYIDGCWMGSFVAVAAPYNDIYQA</span></span>
-<span class="topo-line"><span class="topo-outside">ALATFNSHNPLHQLSPLTNMGYFSYIIQQTTAMFSRYDGHMIQALLG</span><span class="topo-membrane">AHFIWAFTFSMLF</span></span>
-<span class="topo-line"><span class="topo-inside">QY</span><span class="topo-unknown">RGSRDEGAMVLKWAHQQV</span><span class="topo-inside">GV</span><span class="topo-unknown">GFAGKMY</span><span class="topo-inside">NRALSLKEG</span><span class="topo-membrane">KAIGCFLFFKMTIV</span><span class="topo-outside">CMWALAMV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">NPRAQVFEYFKLKVPATRGAVLK</span><span class="topo-membrane">AHINHLGNVAAMVSF</span><span class="topo-outside">ILVHHLSWDPATQGVLWAP</span><span class="topo-unknown">ATMFYARLYQ</span><span class="topo-outside">LGLDAVALSPDALFVARM</span><span class="topo-membrane">HLLAAIILWGFGH</span><span class="topo-inside">VKS</span><span class="topo-unknown">PAEEKFL</span><span class="topo-inside">EKVTMGKA</span><span class="topo-membrane">LVAQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">FHFFALIATL</span><span class="topo-outside">WGLHMAFYGILGPSGKLEPTGLSFDMFGPITPATMAGNHVA</span><span class="topo-membrane">FGAVFFLGGIFHY</span><span class="topo-inside">FAGFNTKRFAFFEKDWEAVL</span><span class="topo-membrane">SVSCQILAFHFATV</span><span class="topo-outside">VFAMIIWQHPQLGFGFMREYAV</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">SQYAGPELKMIAQSNPGLLVKQAILG</span><span class="topo-membrane">HLVMGIMFWIGGV</span><span class="topo-inside">FHGAHFMLRVLNDPKLAEEMKDFKFIKRCYDHEFQKKFLA</span><span class="topo-membrane">LIMFGAFLPIFVSYG</span><span class="topo-outside">IATHNTIADIHAASKTGLFAHMTYIN</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">IGT</span><span class="topo-unknown">PLHDAIF</span><span class="topo-outside">GSKGSISEFVAAH</span><span class="topo-membrane">AIAGGLHFTMVPMW</span><span class="topo-inside">RMVFFSKVSPWTTKVGMKAKRDGEFPCLGPAYGGTCSISLVDQF</span><span class="topo-membrane">YLAIFFSLQVIA</span><span class="topo-outside">PAWFYIDGCWMGSFVAVAAPYNDIYQA</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">ALATFNSHNPLHQLSPLTNMGYFSYIIQQTTAMFSRYDGHMIQALLG</span><span class="topo-membrane">AHFIWAFTFSMLF</span><span class="topo-inside">QY</span><span class="topo-unknown">RGSRDEGAMVLKWAHQQV</span><span class="topo-inside">GV</span><span class="topo-unknown">GFAGKMY</span><span class="topo-inside">NRALSLKEG</span><span class="topo-membrane">KAIGCFLFFKMTIV</span><span class="topo-outside">CMWALAMV</span></span>
+<details class="topo-details"><summary>Topology coordinates (33 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -370,6 +371,7 @@ common ancestor of all photosynthetic reaction centers.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -385,7 +387,9 @@ common ancestor of all photosynthetic reaction centers.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20     </span>
 <span class="topo-line"><span class="topo-outside">YSPTFNVAH</span><span class="topo-membrane">ILAFFFLFLHIPFY</span><span class="topo-inside">FV</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -418,6 +422,7 @@ common ancestor of all photosynthetic reaction centers.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -433,16 +438,17 @@ common ancestor of all photosynthetic reaction centers.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">NPRAQVFEYFKLKVPATRGAVLK</span><span class="topo-membrane">AHINHLGNVAAMVSF</span><span class="topo-outside">ILVHHLSWDPATQGVLWAP</span><span class="topo-unknown">ATM</span></span>
-<span class="topo-line"><span class="topo-unknown">FYARLYQ</span><span class="topo-outside">LGLDAVALSPDALFVARM</span><span class="topo-membrane">HLLAAIILWGFGH</span><span class="topo-inside">VKS</span><span class="topo-unknown">PAEEKFL</span><span class="topo-inside">EKVTMGKA</span><span class="topo-membrane">LVAQ</span></span>
-<span class="topo-line"><span class="topo-membrane">FHFFALIATL</span><span class="topo-outside">WGLHMAFYGILGPSGKLEPTGLSFDMFGPITPATMAGNHVA</span><span class="topo-membrane">FGAVFFLGG</span></span>
-<span class="topo-line"><span class="topo-membrane">IFHY</span><span class="topo-inside">FAGFNTKRFAFFEKDWEAVL</span><span class="topo-membrane">SVSCQILAFHFATV</span><span class="topo-outside">VFAMIIWQHPQLGFGFMREYAV</span></span>
-<span class="topo-line"><span class="topo-outside">SQYAGPELKMIAQSNPGLLVKQAILG</span><span class="topo-membrane">HLVMGIMFWIGGV</span><span class="topo-inside">FHGAHFMLRVLNDPKLAEEMK</span></span>
-<span class="topo-line"><span class="topo-inside">DFKFIKRCYDHEFQKKFLA</span><span class="topo-membrane">LIMFGAFLPIFVSYG</span><span class="topo-outside">IATHNTIADIHAASKTGLFAHMTYIN</span></span>
-<span class="topo-line"><span class="topo-outside">IGT</span><span class="topo-unknown">PLHDAIF</span><span class="topo-outside">GSKGSISEFVAAH</span><span class="topo-membrane">AIAGGLHFTMVPMW</span><span class="topo-inside">RMVFFSKVSPWTTKVGMKAKRDG</span></span>
-<span class="topo-line"><span class="topo-inside">EFPCLGPAYGGTCSISLVDQF</span><span class="topo-membrane">YLAIFFSLQVIA</span><span class="topo-outside">PAWFYIDGCWMGSFVAVAAPYNDIYQA</span></span>
-<span class="topo-line"><span class="topo-outside">ALATFNSHNPLHQLSPLTNMGYFSYIIQQTTAMFSRYDGHMIQALLG</span><span class="topo-membrane">AHFIWAFTFSMLF</span></span>
-<span class="topo-line"><span class="topo-inside">QY</span><span class="topo-unknown">RGSRDEGAMVLKWAHQQV</span><span class="topo-inside">GV</span><span class="topo-unknown">GFAGKMY</span><span class="topo-inside">NRALSLKEG</span><span class="topo-membrane">KAIGCFLFFKMTIV</span><span class="topo-outside">CMWALAMV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">NPRAQVFEYFKLKVPATRGAVLK</span><span class="topo-membrane">AHINHLGNVAAMVSF</span><span class="topo-outside">ILVHHLSWDPATQGVLWAP</span><span class="topo-unknown">ATMFYARLYQ</span><span class="topo-outside">LGLDAVALSPDALFVARM</span><span class="topo-membrane">HLLAAIILWGFGH</span><span class="topo-inside">VKS</span><span class="topo-unknown">PAEEKFL</span><span class="topo-inside">EKVTMGKA</span><span class="topo-membrane">LVAQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">FHFFALIATL</span><span class="topo-outside">WGLHMAFYGILGPSGKLEPTGLSFDMFGPITPATMAGNHVA</span><span class="topo-membrane">FGAVFFLGGIFHY</span><span class="topo-inside">FAGFNTKRFAFFEKDWEAVL</span><span class="topo-membrane">SVSCQILAFHFATV</span><span class="topo-outside">VFAMIIWQHPQLGFGFMREYAV</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">SQYAGPELKMIAQSNPGLLVKQAILG</span><span class="topo-membrane">HLVMGIMFWIGGV</span><span class="topo-inside">FHGAHFMLRVLNDPKLAEEMKDFKFIKRCYDHEFQKKFLA</span><span class="topo-membrane">LIMFGAFLPIFVSYG</span><span class="topo-outside">IATHNTIADIHAASKTGLFAHMTYIN</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">IGT</span><span class="topo-unknown">PLHDAIF</span><span class="topo-outside">GSKGSISEFVAAH</span><span class="topo-membrane">AIAGGLHFTMVPMW</span><span class="topo-inside">RMVFFSKVSPWTTKVGMKAKRDGEFPCLGPAYGGTCSISLVDQF</span><span class="topo-membrane">YLAIFFSLQVIA</span><span class="topo-outside">PAWFYIDGCWMGSFVAVAAPYNDIYQA</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">ALATFNSHNPLHQLSPLTNMGYFSYIIQQTTAMFSRYDGHMIQALLG</span><span class="topo-membrane">AHFIWAFTFSMLF</span><span class="topo-inside">QY</span><span class="topo-unknown">RGSRDEGAMVLKWAHQQV</span><span class="topo-inside">GV</span><span class="topo-unknown">GFAGKMY</span><span class="topo-inside">NRALSLKEG</span><span class="topo-membrane">KAIGCFLFFKMTIV</span><span class="topo-outside">CMWALAMV</span></span>
+<details class="topo-details"><summary>Topology coordinates (33 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -685,6 +691,7 @@ common ancestor of all photosynthetic reaction centers.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -700,7 +707,9 @@ common ancestor of all photosynthetic reaction centers.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20     </span>
 <span class="topo-line"><span class="topo-outside">YSPTFNVAH</span><span class="topo-membrane">ILAFFFLFLHIPFY</span><span class="topo-inside">FV</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -733,6 +742,7 @@ common ancestor of all photosynthetic reaction centers.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

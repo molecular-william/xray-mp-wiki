@@ -243,15 +243,17 @@ BetP is a Na+-coupled glycine betaine symporter from the bacterium [Corynebacter
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">ADAEEEIILEGEDTQASL</span><span class="topo-membrane">NWSVIVPALVIVLATVV</span><span class="topo-outside">WGIGFKDSFTNFASSALSAVVDN</span><span class="topo-membrane">LG</span></span>
-<span class="topo-line"><span class="topo-membrane">WAFILFGTVFVFFIVVIA</span><span class="topo-inside">ASKFGTIRLGRIDEAPEFRTV</span><span class="topo-membrane">SWISMMFAAGMGIGLMF</span><span class="topo-outside">YGTT</span></span>
-<span class="topo-line"><span class="topo-outside">EPLTFYRNGVPGHDEHNVGVAMS</span><span class="topo-membrane">TTMFHWTLHPWAIYAIVGLA</span><span class="topo-inside">IAYSTFRVGRKQLLSSA</span></span>
-<span class="topo-line"><span class="topo-inside">FVPLIGEKGAEGW</span><span class="topo-membrane">LGKLIDILAIIATVFGTACSLG</span><span class="topo-outside">LGALQIGAGLSAAN</span><span class="topo-unknown">II</span><span class="topo-outside">EDPSDWTIV</span></span>
-<span class="topo-line"><span class="topo-outside">G</span><span class="topo-membrane">IVSVLTLAFIFSAIS</span><span class="topo-unknown">GVGK</span><span class="topo-membrane">GIQYLSNANMVLAALLAIFVFV</span><span class="topo-outside">VGPTVSILNLLPGSIGNY</span></span>
-<span class="topo-line"><span class="topo-outside">LSNFFQMAGRTAMSADGTAGEWLGSWT</span><span class="topo-membrane">IFYWAWWISWSPFVGMFL</span><span class="topo-inside">ARISRGRSIREF</span><span class="topo-membrane">ILG</span></span>
-<span class="topo-line"><span class="topo-membrane">VLLVPAGVSTVWFSI</span><span class="topo-outside">FGGTAIVFEQNGESIWGDGAAEEQLFGLLHALPGGQIMGII</span><span class="topo-membrane">AMIL</span></span>
-<span class="topo-line"><span class="topo-membrane">LGTFFITSADSASTVMGTMS</span><span class="topo-inside">QHGQLEA</span><span class="topo-membrane">NKWVTAAWGVATAAIGL</span><span class="topo-outside">TLLLS</span><span class="topo-unknown">GGDNA</span><span class="topo-outside">LSNLQN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">ADAEEEIILEGEDTQASL</span><span class="topo-membrane">NWSVIVPALVIVLATVV</span><span class="topo-outside">WGIGFKDSFTNFASSALSAVVDN</span><span class="topo-membrane">LGWAFILFGTVFVFFIVVIA</span><span class="topo-inside">ASKFGTIRLGRIDEAPEFRTV</span><span class="topo-membrane">SWISMMFAAGMGIGLMF</span><span class="topo-outside">YGTT</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">EPLTFYRNGVPGHDEHNVGVAMS</span><span class="topo-membrane">TTMFHWTLHPWAIYAIVGLA</span><span class="topo-inside">IAYSTFRVGRKQLLSSAFVPLIGEKGAEGW</span><span class="topo-membrane">LGKLIDILAIIATVFGTACSLG</span><span class="topo-outside">LGALQIGAGLSAAN</span><span class="topo-unknown">II</span><span class="topo-outside">EDPSDWTIV</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">G</span><span class="topo-membrane">IVSVLTLAFIFSAIS</span><span class="topo-unknown">GVGK</span><span class="topo-membrane">GIQYLSNANMVLAALLAIFVFV</span><span class="topo-outside">VGPTVSILNLLPGSIGNYLSNFFQMAGRTAMSADGTAGEWLGSWT</span><span class="topo-membrane">IFYWAWWISWSPFVGMFL</span><span class="topo-inside">ARISRGRSIREF</span><span class="topo-membrane">ILG</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">VLLVPAGVSTVWFSI</span><span class="topo-outside">FGGTAIVFEQNGESIWGDGAAEEQLFGLLHALPGGQIMGII</span><span class="topo-membrane">AMILLGTFFITSADSASTVMGTMS</span><span class="topo-inside">QHGQLEA</span><span class="topo-membrane">NKWVTAAWGVATAAIGL</span><span class="topo-outside">TLLLS</span><span class="topo-unknown">GGDNA</span><span class="topo-outside">LSNLQN</span></span>
+<span class="topo-ruler">       490       500       510       520       530         </span>
 <span class="topo-line"><span class="topo-outside">V</span><span class="topo-membrane">TIVAATPFLFVVIGLMF</span><span class="topo-inside">ALVKDLSNDVIYLEYREQQRFNARLARERRVHNEHRKRELA</span></span>
+<details class="topo-details"><summary>Topology coordinates (29 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -466,6 +468,7 @@ BetP is a Na+-coupled glycine betaine symporter from the bacterium [Corynebacter
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -481,15 +484,17 @@ BetP is a Na+-coupled glycine betaine symporter from the bacterium [Corynebacter
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">ADAEEEIILEGEDTQ</span><span class="topo-inside">ASL</span><span class="topo-membrane">NWSVIVPALVIVLATVV</span><span class="topo-outside">WGIGFKDSFTNFASSALSAVVDN</span><span class="topo-membrane">LG</span></span>
-<span class="topo-line"><span class="topo-membrane">WAFILFGTVFVFFIVVIA</span><span class="topo-inside">ASKFGTIRLGR</span><span class="topo-unknown">IDEAP</span><span class="topo-inside">EFRTV</span><span class="topo-membrane">SWISMMFAAGMGIGLM</span><span class="topo-outside">FYGTT</span></span>
-<span class="topo-line"><span class="topo-outside">EPLTFYRNGVPGHDEHNVGVAMS</span><span class="topo-membrane">TTMFHWTLHPWAIYAIVGLA</span><span class="topo-inside">IAYSTFRVGRKQLLSSA</span></span>
-<span class="topo-line"><span class="topo-inside">FVPLIGEKGAEGW</span><span class="topo-membrane">LGKLIDILAIIATVFGTACSLG</span><span class="topo-outside">LGALQIGAGLSAANIIEDPSDWTIV</span></span>
-<span class="topo-line"><span class="topo-outside">G</span><span class="topo-membrane">IVSVLTLAFIFSAISGVG</span><span class="topo-unknown">K</span><span class="topo-membrane">GIQYLSNANMVLAALLAIFVFV</span><span class="topo-outside">VGPTVSILNLLPGSIGNY</span></span>
-<span class="topo-line"><span class="topo-outside">LSNFFQMAGRTAMSADGTAGEWLGSWT</span><span class="topo-membrane">IFYWAWWISWSPFVGMFLA</span><span class="topo-inside">RISRGRSIREF</span><span class="topo-membrane">ILG</span></span>
-<span class="topo-line"><span class="topo-membrane">VLLVPAGVSTVWFSI</span><span class="topo-outside">FGGTAIVFEQNGESIWGDGAAEEQLFGLLHALPGGQIMGII</span><span class="topo-membrane">AMIL</span></span>
-<span class="topo-line"><span class="topo-membrane">LGTFFITSADSASTVMGTMS</span><span class="topo-inside">QHGQLEAN</span><span class="topo-membrane">KWVTAAWGVATAAIGL</span><span class="topo-outside">TLLLSGGDNALSNLQN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">ADAEEEIILEGEDTQ</span><span class="topo-inside">ASL</span><span class="topo-membrane">NWSVIVPALVIVLATVV</span><span class="topo-outside">WGIGFKDSFTNFASSALSAVVDN</span><span class="topo-membrane">LGWAFILFGTVFVFFIVVIA</span><span class="topo-inside">ASKFGTIRLGR</span><span class="topo-unknown">IDEAP</span><span class="topo-inside">EFRTV</span><span class="topo-membrane">SWISMMFAAGMGIGLM</span><span class="topo-outside">FYGTT</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">EPLTFYRNGVPGHDEHNVGVAMS</span><span class="topo-membrane">TTMFHWTLHPWAIYAIVGLA</span><span class="topo-inside">IAYSTFRVGRKQLLSSAFVPLIGEKGAEGW</span><span class="topo-membrane">LGKLIDILAIIATVFGTACSLG</span><span class="topo-outside">LGALQIGAGLSAANIIEDPSDWTIV</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">G</span><span class="topo-membrane">IVSVLTLAFIFSAISGVG</span><span class="topo-unknown">K</span><span class="topo-membrane">GIQYLSNANMVLAALLAIFVFV</span><span class="topo-outside">VGPTVSILNLLPGSIGNYLSNFFQMAGRTAMSADGTAGEWLGSWT</span><span class="topo-membrane">IFYWAWWISWSPFVGMFLA</span><span class="topo-inside">RISRGRSIREF</span><span class="topo-membrane">ILG</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">VLLVPAGVSTVWFSI</span><span class="topo-outside">FGGTAIVFEQNGESIWGDGAAEEQLFGLLHALPGGQIMGII</span><span class="topo-membrane">AMILLGTFFITSADSASTVMGTMS</span><span class="topo-inside">QHGQLEAN</span><span class="topo-membrane">KWVTAAWGVATAAIGL</span><span class="topo-outside">TLLLSGGDNALSNLQN</span></span>
+<span class="topo-ruler">       490       500       510       520       530         </span>
 <span class="topo-line"><span class="topo-outside">V</span><span class="topo-membrane">TIVAATPFLFVVIGLMF</span><span class="topo-inside">ALVKDLSNDVIYLEYREQQ</span><span class="topo-unknown">RFNARLARERRVHNEHRKRELA</span></span>
+<details class="topo-details"><summary>Topology coordinates (28 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -697,6 +702,7 @@ BetP is a Na+-coupled glycine betaine symporter from the bacterium [Corynebacter
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -712,15 +718,17 @@ BetP is a Na+-coupled glycine betaine symporter from the bacterium [Corynebacter
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">ADAEEEIILEGEDT</span><span class="topo-inside">QASLNW</span><span class="topo-membrane">SVIVPALVIVLATVVW</span><span class="topo-outside">GIGFKDSFTNFASSALSAVVDN</span><span class="topo-membrane">LG</span></span>
-<span class="topo-line"><span class="topo-membrane">WAFILFGTVFVFFIVVIAA</span><span class="topo-inside">SKFGTIRLGRIDEAPEFRTVSW</span><span class="topo-membrane">ISMMFAAGMGIGLMFYG</span><span class="topo-outside">TT</span></span>
-<span class="topo-line"><span class="topo-outside">EPLTFYRNGVPGHDEHNVGVAM</span><span class="topo-membrane">STTMFHWTLHPWAIYAIVGL</span><span class="topo-inside">AIAYSTFRVGRKQLLSSA</span></span>
-<span class="topo-line"><span class="topo-inside">FVPLIGEKGAEGW</span><span class="topo-membrane">LGKLIDILAIIATVFGTACSLGLGA</span><span class="topo-outside">LQIGAGLSAANIIEDPSDWTIV</span></span>
-<span class="topo-line"><span class="topo-outside">GI</span><span class="topo-membrane">VSVLTLAFIFSAISGV</span><span class="topo-unknown">G</span><span class="topo-membrane">KGIQYLSNANMVLAALLAIFVFV</span><span class="topo-outside">VGPTVSILNLLPGSIGNY</span></span>
-<span class="topo-line"><span class="topo-outside">LSNFFQMAGRTAMSADGTAGEWLGSWT</span><span class="topo-membrane">IFYWAWWISWSPFVGMFL</span><span class="topo-inside">ARISRGRSIREFI</span><span class="topo-membrane">LG</span></span>
-<span class="topo-line"><span class="topo-membrane">VLLVPAGVSTVWFSI</span><span class="topo-outside">FGGTAIVFEQNGESIWGDGAAEEQLFGLLHALPGGQIMGII</span><span class="topo-membrane">AMIL</span></span>
-<span class="topo-line"><span class="topo-membrane">LGTFFITSADSASTVMGTMS</span><span class="topo-inside">QHGQLEAN</span><span class="topo-membrane">KWVTAAWGVATAAIGLTL</span><span class="topo-outside">LLSGGDNALSNLQN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">ADAEEEIILEGEDT</span><span class="topo-inside">QASLNW</span><span class="topo-membrane">SVIVPALVIVLATVVW</span><span class="topo-outside">GIGFKDSFTNFASSALSAVVDN</span><span class="topo-membrane">LGWAFILFGTVFVFFIVVIAA</span><span class="topo-inside">SKFGTIRLGRIDEAPEFRTVSW</span><span class="topo-membrane">ISMMFAAGMGIGLMFYG</span><span class="topo-outside">TT</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">EPLTFYRNGVPGHDEHNVGVAM</span><span class="topo-membrane">STTMFHWTLHPWAIYAIVGL</span><span class="topo-inside">AIAYSTFRVGRKQLLSSAFVPLIGEKGAEGW</span><span class="topo-membrane">LGKLIDILAIIATVFGTACSLGLGA</span><span class="topo-outside">LQIGAGLSAANIIEDPSDWTIV</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">GI</span><span class="topo-membrane">VSVLTLAFIFSAISGV</span><span class="topo-unknown">G</span><span class="topo-membrane">KGIQYLSNANMVLAALLAIFVFV</span><span class="topo-outside">VGPTVSILNLLPGSIGNYLSNFFQMAGRTAMSADGTAGEWLGSWT</span><span class="topo-membrane">IFYWAWWISWSPFVGMFL</span><span class="topo-inside">ARISRGRSIREFI</span><span class="topo-membrane">LG</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">VLLVPAGVSTVWFSI</span><span class="topo-outside">FGGTAIVFEQNGESIWGDGAAEEQLFGLLHALPGGQIMGII</span><span class="topo-membrane">AMILLGTFFITSADSASTVMGTMS</span><span class="topo-inside">QHGQLEAN</span><span class="topo-membrane">KWVTAAWGVATAAIGLTL</span><span class="topo-outside">LLSGGDNALSNLQN</span></span>
+<span class="topo-ruler">       490       500       510       520       530         </span>
 <span class="topo-line"><span class="topo-outside">V</span><span class="topo-membrane">TIVAATPFLFVVIGLMF</span><span class="topo-inside">ALVKDLSNDVIYLEY</span><span class="topo-unknown">REQQRFNARLARERRVHNEHRKRELA</span></span>
+<details class="topo-details"><summary>Topology coordinates (26 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -914,6 +922,7 @@ BetP is a Na+-coupled glycine betaine symporter from the bacterium [Corynebacter
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1019,16 +1028,17 @@ BetP is a Na+-coupled glycine betaine symporter from the bacterium [Corynebacter
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">LENPTNLEGKLADAAAAIILEGEDTQ</span><span class="topo-inside">ASL</span><span class="topo-membrane">NWSVIVPALVIVLATVVW</span><span class="topo-outside">GIGFKDSFTNFAS</span></span>
-<span class="topo-line"><span class="topo-outside">SALSAVVDN</span><span class="topo-membrane">LGWAFILFGTVFVFFIVVIAA</span><span class="topo-inside">SKFGTIRLGRIDEAPEFRTV</span><span class="topo-membrane">SWISMMFAAG</span></span>
-<span class="topo-line"><span class="topo-membrane">MGIGLMFYG</span><span class="topo-outside">TTEPLTFYRNGVPGHDEHNVGVAM</span><span class="topo-membrane">STTMFHWTLHPWAIYAIVGLAI</span><span class="topo-inside">AYSTF</span></span>
-<span class="topo-line"><span class="topo-inside">RVGRKQLLSSAFVPLIGEKGAEGW</span><span class="topo-membrane">LGKLIDILAIIATVFGTACSLGLGA</span><span class="topo-outside">LQIGAGLSAAN</span></span>
-<span class="topo-line"><span class="topo-outside">IIEDPSDWTIVGI</span><span class="topo-membrane">VSVLTLAFIFSAISGVG</span><span class="topo-unknown">K</span><span class="topo-membrane">GIQYLSNANMVLAALLAIFVFV</span><span class="topo-outside">VGPTVSI</span></span>
-<span class="topo-line"><span class="topo-outside">LNLLPGSIGNYLSNFFQMAGRTAMSADGTAGEWLGSWT</span><span class="topo-membrane">IFYWAWWISWSPFVGMFLA</span><span class="topo-inside">RIS</span></span>
-<span class="topo-line"><span class="topo-inside">RGRSIREF</span><span class="topo-membrane">ILGVLLVPAGVSTVWFSIF</span><span class="topo-outside">GGTAIVFEQNGESIWGDGAAEEQLFGLLHALPG</span></span>
-<span class="topo-line"><span class="topo-outside">GQIMGI</span><span class="topo-membrane">IAMILLGTFFITSADSASTVMGTMSQ</span><span class="topo-inside">HGQLEA</span><span class="topo-membrane">NKWVTAAWGVATAAIGLT</span><span class="topo-outside">LLLS</span></span>
-<span class="topo-line"><span class="topo-outside">GGDNALSNLQNV</span><span class="topo-membrane">TIVAATPFLFVVIGLMFA</span><span class="topo-inside">LVKDLSNDVIYLEYREQQRFNARLARERRV</span></span>
-<span class="topo-line"><span class="topo-inside">HNEHRKRELAAKRRRER</span><span class="topo-unknown">KASGAGKRR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">LENPTNLEGKLADAAAAIILEGEDTQ</span><span class="topo-inside">ASL</span><span class="topo-membrane">NWSVIVPALVIVLATVVW</span><span class="topo-outside">GIGFKDSFTNFASSALSAVVDN</span><span class="topo-membrane">LGWAFILFGTVFVFFIVVIAA</span><span class="topo-inside">SKFGTIRLGRIDEAPEFRTV</span><span class="topo-membrane">SWISMMFAAG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">MGIGLMFYG</span><span class="topo-outside">TTEPLTFYRNGVPGHDEHNVGVAM</span><span class="topo-membrane">STTMFHWTLHPWAIYAIVGLAI</span><span class="topo-inside">AYSTFRVGRKQLLSSAFVPLIGEKGAEGW</span><span class="topo-membrane">LGKLIDILAIIATVFGTACSLGLGA</span><span class="topo-outside">LQIGAGLSAAN</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">IIEDPSDWTIVGI</span><span class="topo-membrane">VSVLTLAFIFSAISGVG</span><span class="topo-unknown">K</span><span class="topo-membrane">GIQYLSNANMVLAALLAIFVFV</span><span class="topo-outside">VGPTVSILNLLPGSIGNYLSNFFQMAGRTAMSADGTAGEWLGSWT</span><span class="topo-membrane">IFYWAWWISWSPFVGMFLA</span><span class="topo-inside">RIS</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">RGRSIREF</span><span class="topo-membrane">ILGVLLVPAGVSTVWFSIF</span><span class="topo-outside">GGTAIVFEQNGESIWGDGAAEEQLFGLLHALPGGQIMGI</span><span class="topo-membrane">IAMILLGTFFITSADSASTVMGTMSQ</span><span class="topo-inside">HGQLEA</span><span class="topo-membrane">NKWVTAAWGVATAAIGLT</span><span class="topo-outside">LLLS</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560      </span>
+<span class="topo-line"><span class="topo-outside">GGDNALSNLQNV</span><span class="topo-membrane">TIVAATPFLFVVIGLMFA</span><span class="topo-inside">LVKDLSNDVIYLEYREQQRFNARLARERRVHNEHRKRELAAKRRRER</span><span class="topo-unknown">KASGAGKRR</span></span>
+<details class="topo-details"><summary>Topology coordinates (26 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1222,6 +1232,7 @@ BetP is a Na+-coupled glycine betaine symporter from the bacterium [Corynebacter
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1237,16 +1248,17 @@ BetP is a Na+-coupled glycine betaine symporter from the bacterium [Corynebacter
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">LENPTNLEGKLADAAAAIILEGEDTQ</span><span class="topo-inside">ASL</span><span class="topo-membrane">NWSVIVPALVIVLATVVW</span><span class="topo-outside">GIGFKDSFTNFAS</span></span>
-<span class="topo-line"><span class="topo-outside">SALSAVVDN</span><span class="topo-membrane">LGWAFILFGTVFVFFIVVIAA</span><span class="topo-inside">SKFGTIRLGRIDEAPEFRTV</span><span class="topo-membrane">SWISMMFAAG</span></span>
-<span class="topo-line"><span class="topo-membrane">MGIGLMFYG</span><span class="topo-outside">TTEPLTFYRNGVPGHDEHNVGVAM</span><span class="topo-membrane">STTMFHWTLHPWAIYAIVGLA</span><span class="topo-inside">IAYSTF</span></span>
-<span class="topo-line"><span class="topo-inside">RVGRKQLLSSAFVPLIGEKGAEGW</span><span class="topo-membrane">LGKLIDILAIIATVFGTACSLGLGA</span><span class="topo-outside">LQIGAGLSAAN</span></span>
-<span class="topo-line"><span class="topo-outside">IIEDPSDWTIVGI</span><span class="topo-membrane">VSVLTLAFIFSAISGV</span><span class="topo-unknown">G</span><span class="topo-membrane">KGIQYLSNANMVLAALLAIFVFV</span><span class="topo-outside">VGPTVSI</span></span>
-<span class="topo-line"><span class="topo-outside">LNLLPGSIGNYLSNFFQMAGRTAMSADGTAGEWLGSWT</span><span class="topo-membrane">IFYWAWWISWSPFVGMFLA</span><span class="topo-inside">RIS</span></span>
-<span class="topo-line"><span class="topo-inside">RGRSIREF</span><span class="topo-membrane">ILGVLLVPAGVSTVWFSIF</span><span class="topo-outside">GGTAIVFEQNGESIWGDGAAEEQLFGLLHALPG</span></span>
-<span class="topo-line"><span class="topo-outside">GQIMGI</span><span class="topo-membrane">IAMILLGTFFITSADSASTVMGTMSQ</span><span class="topo-inside">HGQLEA</span><span class="topo-membrane">NKWVTAAWGVATAAIGLT</span><span class="topo-outside">LLLS</span></span>
-<span class="topo-line"><span class="topo-outside">GGDNALSNLQNV</span><span class="topo-membrane">TIVAATPFLFVVIGLMFA</span><span class="topo-inside">LVKDLSNDVIYLE</span><span class="topo-unknown">YREQQRFNARLARERRV</span></span>
-<span class="topo-line"><span class="topo-unknown">HNEHRKRELAAKRRRERKASGAGKRR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">LENPTNLEGKLADAAAAIILEGEDTQ</span><span class="topo-inside">ASL</span><span class="topo-membrane">NWSVIVPALVIVLATVVW</span><span class="topo-outside">GIGFKDSFTNFASSALSAVVDN</span><span class="topo-membrane">LGWAFILFGTVFVFFIVVIAA</span><span class="topo-inside">SKFGTIRLGRIDEAPEFRTV</span><span class="topo-membrane">SWISMMFAAG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">MGIGLMFYG</span><span class="topo-outside">TTEPLTFYRNGVPGHDEHNVGVAM</span><span class="topo-membrane">STTMFHWTLHPWAIYAIVGLA</span><span class="topo-inside">IAYSTFRVGRKQLLSSAFVPLIGEKGAEGW</span><span class="topo-membrane">LGKLIDILAIIATVFGTACSLGLGA</span><span class="topo-outside">LQIGAGLSAAN</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">IIEDPSDWTIVGI</span><span class="topo-membrane">VSVLTLAFIFSAISGV</span><span class="topo-unknown">G</span><span class="topo-membrane">KGIQYLSNANMVLAALLAIFVFV</span><span class="topo-outside">VGPTVSILNLLPGSIGNYLSNFFQMAGRTAMSADGTAGEWLGSWT</span><span class="topo-membrane">IFYWAWWISWSPFVGMFLA</span><span class="topo-inside">RIS</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">RGRSIREF</span><span class="topo-membrane">ILGVLLVPAGVSTVWFSIF</span><span class="topo-outside">GGTAIVFEQNGESIWGDGAAEEQLFGLLHALPGGQIMGI</span><span class="topo-membrane">IAMILLGTFFITSADSASTVMGTMSQ</span><span class="topo-inside">HGQLEA</span><span class="topo-membrane">NKWVTAAWGVATAAIGLT</span><span class="topo-outside">LLLS</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560      </span>
+<span class="topo-line"><span class="topo-outside">GGDNALSNLQNV</span><span class="topo-membrane">TIVAATPFLFVVIGLMFA</span><span class="topo-inside">LVKDLSNDVIYLE</span><span class="topo-unknown">YREQQRFNARLARERRVHNEHRKRELAAKRRRERKASGAGKRR</span></span>
+<details class="topo-details"><summary>Topology coordinates (26 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1440,6 +1452,7 @@ BetP is a Na+-coupled glycine betaine symporter from the bacterium [Corynebacter
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1455,16 +1468,17 @@ BetP is a Na+-coupled glycine betaine symporter from the bacterium [Corynebacter
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">LENPTNLEGKLADAAAAIILEGEDTQ</span><span class="topo-inside">ASL</span><span class="topo-membrane">NWSVIVPALVIVLATVVW</span><span class="topo-outside">GIGFKDSFTNFAS</span></span>
-<span class="topo-line"><span class="topo-outside">SALSAVVDN</span><span class="topo-membrane">LGWAFILFGTVFVFFIVVIAA</span><span class="topo-inside">SKFGTIRLGRIDEAPEFRTV</span><span class="topo-membrane">SWISMMFAAG</span></span>
-<span class="topo-line"><span class="topo-membrane">MGIGLMFYG</span><span class="topo-outside">TTEPLTFYRNGVPGHDEHNVGVAM</span><span class="topo-membrane">STTMFHWTLHPWAIYAIVGLA</span><span class="topo-inside">IAYSTF</span></span>
-<span class="topo-line"><span class="topo-inside">RVGRKQLLSSAFVPLIGEKGAEGW</span><span class="topo-membrane">LGKLIDILAIIATVFGTACSLGLGA</span><span class="topo-outside">LQIGAGLSAAN</span></span>
-<span class="topo-line"><span class="topo-outside">IIEDPSDWTIVGI</span><span class="topo-membrane">VSVLTLAFIFSAISGVG</span><span class="topo-unknown">K</span><span class="topo-membrane">GIQYLSNANMVLAALLAIFVFV</span><span class="topo-outside">VGPTVSI</span></span>
-<span class="topo-line"><span class="topo-outside">LNLLPGSIGNYLSNFFQMAGRTAMSADGTAGEWLGSWT</span><span class="topo-membrane">IFYWAWWISWSPFVGMFLA</span><span class="topo-inside">RIS</span></span>
-<span class="topo-line"><span class="topo-inside">RGRSIREF</span><span class="topo-membrane">ILGVLLVPAGVSTVWFSIF</span><span class="topo-outside">GGTAIVFEQNGESIWGDGAAEEQLFGLLHALPG</span></span>
-<span class="topo-line"><span class="topo-outside">GQIMGII</span><span class="topo-membrane">AMILLGTFFITSADSASTVMGTMSQ</span><span class="topo-inside">HGQLEA</span><span class="topo-membrane">NKWVTAAWGVATAAIGLTL</span><span class="topo-outside">LLS</span></span>
-<span class="topo-line"><span class="topo-outside">GGDNALSNLQNV</span><span class="topo-membrane">TIVAATPFLFVVIGLMFA</span><span class="topo-inside">LVKDLSNDVIYLEYREQQRFNA</span><span class="topo-unknown">RLARERRV</span></span>
-<span class="topo-line"><span class="topo-unknown">HNEHRKRELAAKRRRERKASGAGKRR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">LENPTNLEGKLADAAAAIILEGEDTQ</span><span class="topo-inside">ASL</span><span class="topo-membrane">NWSVIVPALVIVLATVVW</span><span class="topo-outside">GIGFKDSFTNFASSALSAVVDN</span><span class="topo-membrane">LGWAFILFGTVFVFFIVVIAA</span><span class="topo-inside">SKFGTIRLGRIDEAPEFRTV</span><span class="topo-membrane">SWISMMFAAG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">MGIGLMFYG</span><span class="topo-outside">TTEPLTFYRNGVPGHDEHNVGVAM</span><span class="topo-membrane">STTMFHWTLHPWAIYAIVGLA</span><span class="topo-inside">IAYSTFRVGRKQLLSSAFVPLIGEKGAEGW</span><span class="topo-membrane">LGKLIDILAIIATVFGTACSLGLGA</span><span class="topo-outside">LQIGAGLSAAN</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">IIEDPSDWTIVGI</span><span class="topo-membrane">VSVLTLAFIFSAISGVG</span><span class="topo-unknown">K</span><span class="topo-membrane">GIQYLSNANMVLAALLAIFVFV</span><span class="topo-outside">VGPTVSILNLLPGSIGNYLSNFFQMAGRTAMSADGTAGEWLGSWT</span><span class="topo-membrane">IFYWAWWISWSPFVGMFLA</span><span class="topo-inside">RIS</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">RGRSIREF</span><span class="topo-membrane">ILGVLLVPAGVSTVWFSIF</span><span class="topo-outside">GGTAIVFEQNGESIWGDGAAEEQLFGLLHALPGGQIMGII</span><span class="topo-membrane">AMILLGTFFITSADSASTVMGTMSQ</span><span class="topo-inside">HGQLEA</span><span class="topo-membrane">NKWVTAAWGVATAAIGLTL</span><span class="topo-outside">LLS</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560      </span>
+<span class="topo-line"><span class="topo-outside">GGDNALSNLQNV</span><span class="topo-membrane">TIVAATPFLFVVIGLMFA</span><span class="topo-inside">LVKDLSNDVIYLEYREQQRFNA</span><span class="topo-unknown">RLARERRVHNEHRKRELAAKRRRERKASGAGKRR</span></span>
+<details class="topo-details"><summary>Topology coordinates (26 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1658,6 +1672,7 @@ BetP is a Na+-coupled glycine betaine symporter from the bacterium [Corynebacter
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

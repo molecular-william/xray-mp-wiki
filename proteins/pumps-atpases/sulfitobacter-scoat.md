@@ -144,18 +144,19 @@ sCoaT is a PIB-4-type ATPase from Sulfitobacter sp. NAS14-1 (UniProt ID A3T2G5) 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MRKVVADLNAVEEENMPENHTPDDGHNHAHGGFLNRILGG</span><span class="topo-outside">RAE</span><span class="topo-membrane">VIFAVLCGICLLLGWLG</span></span>
-<span class="topo-line"><span class="topo-inside">PKYGIMSEQ</span><span class="topo-membrane">FGFGLLLAAYFFGGYFTLREAV</span><span class="topo-outside">EKISKGQ</span><span class="topo-membrane">FQIDFLMLVAASGAAILG</span><span class="topo-inside">E</span><span class="topo-membrane">WAE</span></span>
-<span class="topo-line"><span class="topo-membrane">GAFLLFLFSVGHAL</span><span class="topo-outside">ENYAMGRARNAVAALAGLTPDEALVRRGDKTETVLIENLLVGDIVV</span></span>
-<span class="topo-line"><span class="topo-outside">VRSNERLPADGFVVKGSSAVNQAPITGESAPVDKLPVDDPEFAAANLDKLTPQTRVFAGS</span></span>
-<span class="topo-line"><span class="topo-outside">INGSGSLDVQVTKLSGESTLARVVTLVAEAQTRQSPTQNFTKKF</span><span class="topo-membrane">EKIFVPCVIALAFVTS</span></span>
-<span class="topo-line"><span class="topo-membrane">FSFL</span><span class="topo-inside">ILDETAAQS</span><span class="topo-membrane">FYRAMAVLVAASPCALAIAT</span><span class="topo-outside">PSAVLSGVARAARGGVLIKGGAPLEAM</span></span>
-<span class="topo-line"><span class="topo-outside">GHLDAIAFDKTGTLTIGEPHLVEITPYGDATETELLQVSAAVEMLSDHPLAQAVVRDVKD</span></span>
-<span class="topo-line"><span class="topo-outside">RLGDLPSEASDFANIIGQGVSAKVDSKVVHIGKTALFESVAGLPLPDDLRGTVEAMSQNG</span></span>
-<span class="topo-line"><span class="topo-outside">RTTMIVRSGDRYLGAIGLMDTPREDARSVIAALRDLGLKRMMMISGDNQNVANAVAKEVG</span></span>
-<span class="topo-line"><span class="topo-outside">LDTAFGDLMPEDKVTKIAALKADGGVAMVGDGVNDAPAMANATVGIAMGAAGSDVALETA</span></span>
-<span class="topo-line"><span class="topo-outside">DIALMADDLQTLPFAVGLSRKTSRIIRL</span><span class="topo-membrane">NLWFSLGVVALLIPATLFGL</span><span class="topo-inside">G</span><span class="topo-membrane">IGPAVLVHEGS</span></span>
-<span class="topo-line"><span class="topo-membrane">TLVVVANALR</span><span class="topo-outside">LLAFKDNR</span><span class="topo-unknown">VKSA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MRKVVADLNAVEEENMPENHTPDDGHNHAHGGFLNRILGG</span><span class="topo-outside">RAE</span><span class="topo-membrane">VIFAVLCGICLLLGWLG</span><span class="topo-inside">PKYGIMSEQ</span><span class="topo-membrane">FGFGLLLAAYFFGGYFTLREAV</span><span class="topo-outside">EKISKGQ</span><span class="topo-membrane">FQIDFLMLVAASGAAILG</span><span class="topo-inside">E</span><span class="topo-membrane">WAE</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GAFLLFLFSVGHAL</span><span class="topo-outside">ENYAMGRARNAVAALAGLTPDEALVRRGDKTETVLIENLLVGDIVVVRSNERLPADGFVVKGSSAVNQAPITGESAPVDKLPVDDPEFAAANLDKLTPQTRVFAGS</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">INGSGSLDVQVTKLSGESTLARVVTLVAEAQTRQSPTQNFTKKF</span><span class="topo-membrane">EKIFVPCVIALAFVTSFSFL</span><span class="topo-inside">ILDETAAQS</span><span class="topo-membrane">FYRAMAVLVAASPCALAIAT</span><span class="topo-outside">PSAVLSGVARAARGGVLIKGGAPLEAM</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">GHLDAIAFDKTGTLTIGEPHLVEITPYGDATETELLQVSAAVEMLSDHPLAQAVVRDVKDRLGDLPSEASDFANIIGQGVSAKVDSKVVHIGKTALFESVAGLPLPDDLRGTVEAMSQNG</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">RTTMIVRSGDRYLGAIGLMDTPREDARSVIAALRDLGLKRMMMISGDNQNVANAVAKEVGLDTAFGDLMPEDKVTKIAALKADGGVAMVGDGVNDAPAMANATVGIAMGAAGSDVALETA</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680  </span>
+<span class="topo-line"><span class="topo-outside">DIALMADDLQTLPFAVGLSRKTSRIIRL</span><span class="topo-membrane">NLWFSLGVVALLIPATLFGL</span><span class="topo-inside">G</span><span class="topo-membrane">IGPAVLVHEGSTLVVVANALR</span><span class="topo-outside">LLAFKDNR</span><span class="topo-unknown">VKSA</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -300,6 +301,7 @@ sCoaT is a PIB-4-type ATPase from Sulfitobacter sp. NAS14-1 (UniProt ID A3T2G5) 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -315,18 +317,19 @@ sCoaT is a PIB-4-type ATPase from Sulfitobacter sp. NAS14-1 (UniProt ID A3T2G5) 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MRKVVADLNAVEEENMPENHTPDDGHNHAHGGFLNRILGG</span><span class="topo-outside">RAE</span><span class="topo-membrane">VIFAVLCGICLLLGWLG</span></span>
-<span class="topo-line"><span class="topo-inside">PKYGIMSEQF</span><span class="topo-membrane">GFGLLLAAYFFGGYFTLREAV</span><span class="topo-outside">EKISKGQF</span><span class="topo-membrane">QIDFLMLVAASGAAILGE</span><span class="topo-inside">W</span><span class="topo-membrane">AE</span></span>
-<span class="topo-line"><span class="topo-membrane">GAFLLFLFSVGHA</span><span class="topo-outside">LENYAMGRARNAVAALAGLTPDEALVRRGDKTETVLIENLLVGDIVV</span></span>
-<span class="topo-line"><span class="topo-outside">VRSNERLPADGFVVKGSSAVNQAPITGESAPVDKLPVDDPEFAAANLDKLTPQTRVFAGS</span></span>
-<span class="topo-line"><span class="topo-outside">INGSGSLDVQVTKLSGESTLARVVTLVAEAQTRQSPTQNFTKKFEKI</span><span class="topo-membrane">FVPCVIALAFVTS</span></span>
-<span class="topo-line"><span class="topo-membrane">FSFLIL</span><span class="topo-inside">DETAA</span><span class="topo-membrane">QSFYRAMAVLVAASPCALAIA</span><span class="topo-outside">TPSAVLSGVARAARGGVLIKGGAPLEAM</span></span>
-<span class="topo-line"><span class="topo-outside">GHLDAIAFDKTGTLTIGEPHLVEITPYGDATETELLQVSAAVEMLSDHPLAQAVVRDVKD</span></span>
-<span class="topo-line"><span class="topo-outside">RLGDLPSEASDFANIIGQGVSAKVDSKVVHIGKTALFESVAGLPLPDDLRGTVEAMSQNG</span></span>
-<span class="topo-line"><span class="topo-outside">RTTMIVRSGDRYLGAIGLMDTPREDARSVIAALRDLGLKRMMMISGDNQNVANAVAKEVG</span></span>
-<span class="topo-line"><span class="topo-outside">LDTAFGDLMPEDKVTKIAALKADGGVAMVGDGVNDAPAMANATVGIAMGAAGSDVALETA</span></span>
-<span class="topo-line"><span class="topo-outside">DIALMADDLQTLPFAVGLSRKTSRIIRL</span><span class="topo-membrane">NLWFSLGVVALLIPATLFGL</span><span class="topo-inside">G</span><span class="topo-membrane">IGPAVLVHEGS</span></span>
-<span class="topo-line"><span class="topo-membrane">TLVVVANALR</span><span class="topo-outside">LLAFKDNR</span><span class="topo-unknown">VKSA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MRKVVADLNAVEEENMPENHTPDDGHNHAHGGFLNRILGG</span><span class="topo-outside">RAE</span><span class="topo-membrane">VIFAVLCGICLLLGWLG</span><span class="topo-inside">PKYGIMSEQF</span><span class="topo-membrane">GFGLLLAAYFFGGYFTLREAV</span><span class="topo-outside">EKISKGQF</span><span class="topo-membrane">QIDFLMLVAASGAAILGE</span><span class="topo-inside">W</span><span class="topo-membrane">AE</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GAFLLFLFSVGHA</span><span class="topo-outside">LENYAMGRARNAVAALAGLTPDEALVRRGDKTETVLIENLLVGDIVVVRSNERLPADGFVVKGSSAVNQAPITGESAPVDKLPVDDPEFAAANLDKLTPQTRVFAGS</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">INGSGSLDVQVTKLSGESTLARVVTLVAEAQTRQSPTQNFTKKFEKI</span><span class="topo-membrane">FVPCVIALAFVTSFSFLIL</span><span class="topo-inside">DETAA</span><span class="topo-membrane">QSFYRAMAVLVAASPCALAIA</span><span class="topo-outside">TPSAVLSGVARAARGGVLIKGGAPLEAM</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">GHLDAIAFDKTGTLTIGEPHLVEITPYGDATETELLQVSAAVEMLSDHPLAQAVVRDVKDRLGDLPSEASDFANIIGQGVSAKVDSKVVHIGKTALFESVAGLPLPDDLRGTVEAMSQNG</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">RTTMIVRSGDRYLGAIGLMDTPREDARSVIAALRDLGLKRMMMISGDNQNVANAVAKEVGLDTAFGDLMPEDKVTKIAALKADGGVAMVGDGVNDAPAMANATVGIAMGAAGSDVALETA</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680  </span>
+<span class="topo-line"><span class="topo-outside">DIALMADDLQTLPFAVGLSRKTSRIIRL</span><span class="topo-membrane">NLWFSLGVVALLIPATLFGL</span><span class="topo-inside">G</span><span class="topo-membrane">IGPAVLVHEGSTLVVVANALR</span><span class="topo-outside">LLAFKDNR</span><span class="topo-unknown">VKSA</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -471,6 +474,7 @@ sCoaT is a PIB-4-type ATPase from Sulfitobacter sp. NAS14-1 (UniProt ID A3T2G5) 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

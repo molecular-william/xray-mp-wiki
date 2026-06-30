@@ -156,12 +156,13 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GQDMVSP</span><span class="topo-outside">PPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSG</span></span>
-<span class="topo-line"><span class="topo-outside">VRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
-<span class="topo-line"><span class="topo-outside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRL</span></span>
-<span class="topo-line"><span class="topo-outside">ESKLDYQLRISRQY</span><span class="topo-membrane">FSYIPNIILPMLFILFISWTAFW</span><span class="topo-inside">STSY</span><span class="topo-membrane">EANVTLVVSTLIAHIAFNI</span></span>
-<span class="topo-line"><span class="topo-membrane">LVET</span><span class="topo-outside">NLPKTPY</span><span class="topo-membrane">MTYTGAIIFMIYLFYFVAVIEVTV</span><span class="topo-inside">QHYLKVESQPARAASITRA</span><span class="topo-membrane">SRIAFP</span></span>
-<span class="topo-line"><span class="topo-membrane">VVFLLANIILAFLFFGF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GQDMVSP</span><span class="topo-outside">PPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSGVRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRLESKLDYQLRISRQY</span><span class="topo-membrane">FSYIPNIILPMLFILFISWTAFW</span><span class="topo-inside">STSY</span><span class="topo-membrane">EANVTLVVSTLIAHIAFNI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       </span>
+<span class="topo-line"><span class="topo-membrane">LVET</span><span class="topo-outside">NLPKTPY</span><span class="topo-membrane">MTYTGAIIFMIYLFYFVAVIEVTV</span><span class="topo-inside">QHYLKVESQPARAASITRA</span><span class="topo-membrane">SRIAFPVVFLLANIILAFLFFGF</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -236,6 +237,7 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -251,12 +253,13 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GQDMVSP</span><span class="topo-outside">PPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSG</span></span>
-<span class="topo-line"><span class="topo-outside">VRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
-<span class="topo-line"><span class="topo-outside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRL</span></span>
-<span class="topo-line"><span class="topo-outside">ESKLDYQLRISRQY</span><span class="topo-membrane">FSYIPNIILPMLFILFISWTAFW</span><span class="topo-inside">STSY</span><span class="topo-membrane">EANVTLVVSTLIAHIAFNI</span></span>
-<span class="topo-line"><span class="topo-membrane">LVET</span><span class="topo-outside">NLPKTPY</span><span class="topo-membrane">MTYTGAIIFMIYLFYFVAVIEVTV</span><span class="topo-inside">QHYLKVESQPARAASITRA</span><span class="topo-membrane">SRIAFP</span></span>
-<span class="topo-line"><span class="topo-membrane">VVFLLANIILAFLFFGF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GQDMVSP</span><span class="topo-outside">PPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSGVRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRLESKLDYQLRISRQY</span><span class="topo-membrane">FSYIPNIILPMLFILFISWTAFW</span><span class="topo-inside">STSY</span><span class="topo-membrane">EANVTLVVSTLIAHIAFNI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       </span>
+<span class="topo-line"><span class="topo-membrane">LVET</span><span class="topo-outside">NLPKTPY</span><span class="topo-membrane">MTYTGAIIFMIYLFYFVAVIEVTV</span><span class="topo-inside">QHYLKVESQPARAASITRA</span><span class="topo-membrane">SRIAFPVVFLLANIILAFLFFGF</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -331,6 +334,7 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -346,12 +350,13 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GQDMVSP</span><span class="topo-outside">PPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSG</span></span>
-<span class="topo-line"><span class="topo-outside">VRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
-<span class="topo-line"><span class="topo-outside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRL</span></span>
-<span class="topo-line"><span class="topo-outside">ESKLDYQLRISRQY</span><span class="topo-membrane">FSYIPNIILPMLFILFISWTAFW</span><span class="topo-inside">STSY</span><span class="topo-membrane">EANVTLVVSTLIAHIAFNI</span></span>
-<span class="topo-line"><span class="topo-membrane">LVET</span><span class="topo-outside">NLPKTPY</span><span class="topo-membrane">MTYTGAIIFMIYLFYFVAVIEVTV</span><span class="topo-inside">QHYLKVESQPARAASITRA</span><span class="topo-membrane">SRIAFP</span></span>
-<span class="topo-line"><span class="topo-membrane">VVFLLANIILAFLFFGF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GQDMVSP</span><span class="topo-outside">PPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSGVRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRLESKLDYQLRISRQY</span><span class="topo-membrane">FSYIPNIILPMLFILFISWTAFW</span><span class="topo-inside">STSY</span><span class="topo-membrane">EANVTLVVSTLIAHIAFNI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       </span>
+<span class="topo-line"><span class="topo-membrane">LVET</span><span class="topo-outside">NLPKTPY</span><span class="topo-membrane">MTYTGAIIFMIYLFYFVAVIEVTV</span><span class="topo-inside">QHYLKVESQPARAASITRA</span><span class="topo-membrane">SRIAFPVVFLLANIILAFLFFGF</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -426,6 +431,7 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -441,12 +447,13 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GQDMVSP</span><span class="topo-outside">PPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSG</span></span>
-<span class="topo-line"><span class="topo-outside">VRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
-<span class="topo-line"><span class="topo-outside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRL</span></span>
-<span class="topo-line"><span class="topo-outside">ESKLDYQLRISRQY</span><span class="topo-membrane">FSYIPNIILPMLFILFISWTAFW</span><span class="topo-inside">STSY</span><span class="topo-membrane">EANVTLVVSTLIAHIAFNI</span></span>
-<span class="topo-line"><span class="topo-membrane">LVET</span><span class="topo-outside">NLPKTPY</span><span class="topo-membrane">MTYTGAIIFMIYLFYFVAVIEVTV</span><span class="topo-inside">QHYLKVESQPARAASITRA</span><span class="topo-membrane">SRIAFP</span></span>
-<span class="topo-line"><span class="topo-membrane">VVFLLANIILAFLFFGF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GQDMVSP</span><span class="topo-outside">PPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSGVRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRLESKLDYQLRISRQY</span><span class="topo-membrane">FSYIPNIILPMLFILFISWTAFW</span><span class="topo-inside">STSY</span><span class="topo-membrane">EANVTLVVSTLIAHIAFNI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       </span>
+<span class="topo-line"><span class="topo-membrane">LVET</span><span class="topo-outside">NLPKTPY</span><span class="topo-membrane">MTYTGAIIFMIYLFYFVAVIEVTV</span><span class="topo-inside">QHYLKVESQPARAASITRA</span><span class="topo-membrane">SRIAFPVVFLLANIILAFLFFGF</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -521,6 +528,7 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -536,12 +544,13 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GQDMVSP</span><span class="topo-outside">PPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSG</span></span>
-<span class="topo-line"><span class="topo-outside">VRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
-<span class="topo-line"><span class="topo-outside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRL</span></span>
-<span class="topo-line"><span class="topo-outside">ESKLDYQLRISRQY</span><span class="topo-membrane">FSYIPNIILPMLFILFISWTAFW</span><span class="topo-inside">STSY</span><span class="topo-membrane">EANVTLVVSTLIAHIAFNI</span></span>
-<span class="topo-line"><span class="topo-membrane">LVET</span><span class="topo-outside">NLPKTPY</span><span class="topo-membrane">MTYTGAIIFMIYLFYFVAVIEVTV</span><span class="topo-inside">QHYLKVESQPARAASITRA</span><span class="topo-membrane">SRIAFP</span></span>
-<span class="topo-line"><span class="topo-membrane">VVFLLANIILAFLFFGF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GQDMVSP</span><span class="topo-outside">PPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSGVRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRLESKLDYQLRISRQY</span><span class="topo-membrane">FSYIPNIILPMLFILFISWTAFW</span><span class="topo-inside">STSY</span><span class="topo-membrane">EANVTLVVSTLIAHIAFNI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       </span>
+<span class="topo-line"><span class="topo-membrane">LVET</span><span class="topo-outside">NLPKTPY</span><span class="topo-membrane">MTYTGAIIFMIYLFYFVAVIEVTV</span><span class="topo-inside">QHYLKVESQPARAASITRA</span><span class="topo-membrane">SRIAFPVVFLLANIILAFLFFGF</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -616,6 +625,7 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -708,12 +718,13 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">AQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSG</span></span>
-<span class="topo-line"><span class="topo-inside">VRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
-<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRL</span></span>
-<span class="topo-line"><span class="topo-inside">ESKLDYQLRISRQYFSYI</span><span class="topo-membrane">PNIILPMLFILFISWTAFWS</span><span class="topo-outside">TSY</span><span class="topo-membrane">EANVTLVVSTLIAHIAFNI</span></span>
-<span class="topo-line"><span class="topo-inside">LVETNLPKTPYMTYT</span><span class="topo-membrane">GAIIFMIYLFYFVAVIEVTV</span><span class="topo-outside">QHYLKVESQPARAASI</span><span class="topo-membrane">TRASRIAFP</span></span>
-<span class="topo-line"><span class="topo-membrane">VVFLLANIILAFL</span><span class="topo-inside">FF</span><span class="topo-unknown">GF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">AQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSGVRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRLESKLDYQLRISRQYFSYI</span><span class="topo-membrane">PNIILPMLFILFISWTAFWS</span><span class="topo-outside">TSY</span><span class="topo-membrane">EANVTLVVSTLIAHIAFNI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       </span>
+<span class="topo-line"><span class="topo-inside">LVETNLPKTPYMTYT</span><span class="topo-membrane">GAIIFMIYLFYFVAVIEVTV</span><span class="topo-outside">QHYLKVESQPARAASI</span><span class="topo-membrane">TRASRIAFPVVFLLANIILAFL</span><span class="topo-inside">FF</span><span class="topo-unknown">GF</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -802,6 +813,7 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -817,12 +829,13 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">AQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSG</span></span>
-<span class="topo-line"><span class="topo-inside">VRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
-<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRL</span></span>
-<span class="topo-line"><span class="topo-inside">ESKLDYQLRISRQYFSYI</span><span class="topo-membrane">PNIILPMLFILFISWTAFWS</span><span class="topo-outside">TSY</span><span class="topo-membrane">EANVTLVVSTLIAHIAFNI</span></span>
-<span class="topo-line"><span class="topo-inside">LVETNLPKTPYMTYT</span><span class="topo-membrane">GAIIFMIYLFYFVAVIEVTV</span><span class="topo-outside">QHYLKVESQPARAASI</span><span class="topo-membrane">TRASRIAFP</span></span>
-<span class="topo-line"><span class="topo-membrane">VVFLLANIILAFL</span><span class="topo-inside">FF</span><span class="topo-unknown">GF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">AQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSGVRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRLESKLDYQLRISRQYFSYI</span><span class="topo-membrane">PNIILPMLFILFISWTAFWS</span><span class="topo-outside">TSY</span><span class="topo-membrane">EANVTLVVSTLIAHIAFNI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       </span>
+<span class="topo-line"><span class="topo-inside">LVETNLPKTPYMTYT</span><span class="topo-membrane">GAIIFMIYLFYFVAVIEVTV</span><span class="topo-outside">QHYLKVESQPARAASI</span><span class="topo-membrane">TRASRIAFPVVFLLANIILAFL</span><span class="topo-inside">FF</span><span class="topo-unknown">GF</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -911,6 +924,7 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -926,12 +940,13 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">AQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSG</span></span>
-<span class="topo-line"><span class="topo-inside">VRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
-<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRL</span></span>
-<span class="topo-line"><span class="topo-inside">ESKLDYQLRISRQYFSYI</span><span class="topo-membrane">PNIILPMLFILFISWTAFWS</span><span class="topo-outside">TSY</span><span class="topo-membrane">EANVTLVVSTLIAHIAFNI</span></span>
-<span class="topo-line"><span class="topo-inside">LVETNLPKTPYMTYT</span><span class="topo-membrane">GAIIFMIYLFYFVAVIEVTV</span><span class="topo-outside">QHYLKVESQPARAASI</span><span class="topo-membrane">TRASRIAFP</span></span>
-<span class="topo-line"><span class="topo-membrane">VVFLLANIILAFL</span><span class="topo-inside">FF</span><span class="topo-unknown">GF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">AQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSGVRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRLESKLDYQLRISRQYFSYI</span><span class="topo-membrane">PNIILPMLFILFISWTAFWS</span><span class="topo-outside">TSY</span><span class="topo-membrane">EANVTLVVSTLIAHIAFNI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       </span>
+<span class="topo-line"><span class="topo-inside">LVETNLPKTPYMTYT</span><span class="topo-membrane">GAIIFMIYLFYFVAVIEVTV</span><span class="topo-outside">QHYLKVESQPARAASI</span><span class="topo-membrane">TRASRIAFPVVFLLANIILAFL</span><span class="topo-inside">FF</span><span class="topo-unknown">GF</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1020,6 +1035,7 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1035,12 +1051,13 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">AQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSG</span></span>
-<span class="topo-line"><span class="topo-inside">VRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
-<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRL</span></span>
-<span class="topo-line"><span class="topo-inside">ESKLDYQLRISRQYFSYI</span><span class="topo-membrane">PNIILPMLFILFISWTAFWS</span><span class="topo-outside">TSY</span><span class="topo-membrane">EANVTLVVSTLIAHIAFNI</span></span>
-<span class="topo-line"><span class="topo-inside">LVETNLPKTPYMTYT</span><span class="topo-membrane">GAIIFMIYLFYFVAVIEVTV</span><span class="topo-outside">QHYLKVESQPARAASI</span><span class="topo-membrane">TRASRIAFP</span></span>
-<span class="topo-line"><span class="topo-membrane">VVFLLANIILAFL</span><span class="topo-inside">FF</span><span class="topo-unknown">GF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">AQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSGVRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRLESKLDYQLRISRQYFSYI</span><span class="topo-membrane">PNIILPMLFILFISWTAFWS</span><span class="topo-outside">TSY</span><span class="topo-membrane">EANVTLVVSTLIAHIAFNI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       </span>
+<span class="topo-line"><span class="topo-inside">LVETNLPKTPYMTYT</span><span class="topo-membrane">GAIIFMIYLFYFVAVIEVTV</span><span class="topo-outside">QHYLKVESQPARAASI</span><span class="topo-membrane">TRASRIAFPVVFLLANIILAFL</span><span class="topo-inside">FF</span><span class="topo-unknown">GF</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1129,6 +1146,7 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1144,12 +1162,13 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">AQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSG</span></span>
-<span class="topo-line"><span class="topo-inside">VRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
-<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRL</span></span>
-<span class="topo-line"><span class="topo-inside">ESKLDYQLRISRQYFSYI</span><span class="topo-membrane">PNIILPMLFILFISWTAFWS</span><span class="topo-outside">TSY</span><span class="topo-membrane">EANVTLVVSTLIAHIAFNI</span></span>
-<span class="topo-line"><span class="topo-inside">LVETNLPKTPYMTYT</span><span class="topo-membrane">GAIIFMIYLFYFVAVIEVTV</span><span class="topo-outside">QHYLKVESQPARAASI</span><span class="topo-membrane">TRASRIAFP</span></span>
-<span class="topo-line"><span class="topo-membrane">VVFLLANIILAFL</span><span class="topo-inside">FF</span><span class="topo-unknown">GF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">AQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSGVRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRLESKLDYQLRISRQYFSYI</span><span class="topo-membrane">PNIILPMLFILFISWTAFWS</span><span class="topo-outside">TSY</span><span class="topo-membrane">EANVTLVVSTLIAHIAFNI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       </span>
+<span class="topo-line"><span class="topo-inside">LVETNLPKTPYMTYT</span><span class="topo-membrane">GAIIFMIYLFYFVAVIEVTV</span><span class="topo-outside">QHYLKVESQPARAASI</span><span class="topo-membrane">TRASRIAFPVVFLLANIILAFL</span><span class="topo-inside">FF</span><span class="topo-unknown">GF</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1238,6 +1257,7 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1253,12 +1273,13 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSG</span></span>
-<span class="topo-line"><span class="topo-inside">VRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
-<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRL</span></span>
-<span class="topo-line"><span class="topo-inside">ESKLDYQLRISRQYFSYI</span><span class="topo-membrane">PNIILPMLFILFISWTAFWS</span><span class="topo-outside">TSY</span><span class="topo-membrane">EANVTLVVSTLIAHIAFNI</span></span>
-<span class="topo-line"><span class="topo-inside">LVETNLPKTPYMTYT</span><span class="topo-membrane">GAIIFMIYLFYFVAVIEVTV</span><span class="topo-outside">QHYLKVESQPARAASIT</span><span class="topo-membrane">RASRIAFP</span></span>
-<span class="topo-line"><span class="topo-membrane">VVFLLANIILAFL</span><span class="topo-inside">FF</span><span class="topo-unknown">GF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSGVRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRLESKLDYQLRISRQYFSYI</span><span class="topo-membrane">PNIILPMLFILFISWTAFWS</span><span class="topo-outside">TSY</span><span class="topo-membrane">EANVTLVVSTLIAHIAFNI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       </span>
+<span class="topo-line"><span class="topo-inside">LVETNLPKTPYMTYT</span><span class="topo-membrane">GAIIFMIYLFYFVAVIEVTV</span><span class="topo-outside">QHYLKVESQPARAASIT</span><span class="topo-membrane">RASRIAFPVVFLLANIILAFL</span><span class="topo-inside">FF</span><span class="topo-unknown">GF</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1347,6 +1368,7 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1362,12 +1384,13 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSG</span></span>
-<span class="topo-line"><span class="topo-inside">VRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
-<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRL</span></span>
-<span class="topo-line"><span class="topo-inside">ESKLDYQLRISRQYFSYI</span><span class="topo-membrane">PNIILPMLFILFISWTAFWS</span><span class="topo-outside">TSY</span><span class="topo-membrane">EANVTLVVSTLIAHIAFNI</span></span>
-<span class="topo-line"><span class="topo-inside">LVETNLPKTPYMTYT</span><span class="topo-membrane">GAIIFMIYLFYFVAVIEVTV</span><span class="topo-outside">QHYLKVESQPARAASI</span><span class="topo-membrane">TRASRIAFP</span></span>
-<span class="topo-line"><span class="topo-membrane">VVFLLANIILAFL</span><span class="topo-inside">FF</span><span class="topo-unknown">GF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSGVRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRLESKLDYQLRISRQYFSYI</span><span class="topo-membrane">PNIILPMLFILFISWTAFWS</span><span class="topo-outside">TSY</span><span class="topo-membrane">EANVTLVVSTLIAHIAFNI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       </span>
+<span class="topo-line"><span class="topo-inside">LVETNLPKTPYMTYT</span><span class="topo-membrane">GAIIFMIYLFYFVAVIEVTV</span><span class="topo-outside">QHYLKVESQPARAASI</span><span class="topo-membrane">TRASRIAFPVVFLLANIILAFL</span><span class="topo-inside">FF</span><span class="topo-unknown">GF</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1456,6 +1479,7 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1471,12 +1495,13 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSG</span></span>
-<span class="topo-line"><span class="topo-inside">VRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
-<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRL</span></span>
-<span class="topo-line"><span class="topo-inside">ESKLDYQLRISRQYFSYI</span><span class="topo-membrane">PNIILPMLFILFISWTAFWS</span><span class="topo-outside">TSY</span><span class="topo-membrane">EANVTLVVSTLIAHIAFNI</span></span>
-<span class="topo-line"><span class="topo-inside">LVETNLPKTPYMTYT</span><span class="topo-membrane">GAIIFMIYLFYFVAVIEVTV</span><span class="topo-outside">QHYLKVESQPARAASI</span><span class="topo-membrane">TRASRIAFP</span></span>
-<span class="topo-line"><span class="topo-membrane">VVFLLANIILAFL</span><span class="topo-inside">FF</span><span class="topo-unknown">GF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSGVRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRLESKLDYQLRISRQYFSYI</span><span class="topo-membrane">PNIILPMLFILFISWTAFWS</span><span class="topo-outside">TSY</span><span class="topo-membrane">EANVTLVVSTLIAHIAFNI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       </span>
+<span class="topo-line"><span class="topo-inside">LVETNLPKTPYMTYT</span><span class="topo-membrane">GAIIFMIYLFYFVAVIEVTV</span><span class="topo-outside">QHYLKVESQPARAASI</span><span class="topo-membrane">TRASRIAFPVVFLLANIILAFL</span><span class="topo-inside">FF</span><span class="topo-unknown">GF</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1565,6 +1590,7 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1580,12 +1606,13 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSG</span></span>
-<span class="topo-line"><span class="topo-inside">VRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
-<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRL</span></span>
-<span class="topo-line"><span class="topo-inside">ESKLDYQLRISRQYFSYI</span><span class="topo-membrane">PNIILPMLFILFISWTAFWS</span><span class="topo-outside">TSY</span><span class="topo-membrane">EANVTLVVSTLIAHIAFNI</span></span>
-<span class="topo-line"><span class="topo-inside">LVETNLPKTPYMTYT</span><span class="topo-membrane">GAIIFMIYLFYFVAVIEVTV</span><span class="topo-outside">QHYLKVESQPARAASIT</span><span class="topo-membrane">RASRIAFP</span></span>
-<span class="topo-line"><span class="topo-membrane">VVFLLANIILAFL</span><span class="topo-inside">FF</span><span class="topo-unknown">GF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSGVRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRLESKLDYQLRISRQYFSYI</span><span class="topo-membrane">PNIILPMLFILFISWTAFWS</span><span class="topo-outside">TSY</span><span class="topo-membrane">EANVTLVVSTLIAHIAFNI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       </span>
+<span class="topo-line"><span class="topo-inside">LVETNLPKTPYMTYT</span><span class="topo-membrane">GAIIFMIYLFYFVAVIEVTV</span><span class="topo-outside">QHYLKVESQPARAASIT</span><span class="topo-membrane">RASRIAFPVVFLLANIILAFL</span><span class="topo-inside">FF</span><span class="topo-unknown">GF</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1674,6 +1701,7 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1689,12 +1717,13 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSG</span></span>
-<span class="topo-line"><span class="topo-inside">VRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
-<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRL</span></span>
-<span class="topo-line"><span class="topo-inside">ESKLDYQLRISRQYFSYI</span><span class="topo-membrane">PNIILPMLFILFISWTAFWS</span><span class="topo-outside">TSY</span><span class="topo-membrane">EANVTLVVSTLIAHIAFNI</span></span>
-<span class="topo-line"><span class="topo-inside">LVETNLPKTPYMTYT</span><span class="topo-membrane">GAIIFMIYLFYFVAVIEVTV</span><span class="topo-outside">QHYLKVESQPARAASIT</span><span class="topo-membrane">RASRIAFP</span></span>
-<span class="topo-line"><span class="topo-membrane">VVFLLANIILAFL</span><span class="topo-inside">FF</span><span class="topo-unknown">GF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSGVRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRLESKLDYQLRISRQYFSYI</span><span class="topo-membrane">PNIILPMLFILFISWTAFWS</span><span class="topo-outside">TSY</span><span class="topo-membrane">EANVTLVVSTLIAHIAFNI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       </span>
+<span class="topo-line"><span class="topo-inside">LVETNLPKTPYMTYT</span><span class="topo-membrane">GAIIFMIYLFYFVAVIEVTV</span><span class="topo-outside">QHYLKVESQPARAASIT</span><span class="topo-membrane">RASRIAFPVVFLLANIILAFL</span><span class="topo-inside">FF</span><span class="topo-unknown">GF</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1783,6 +1812,7 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1841,12 +1871,13 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">AQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIESYSLDDCAETFKVNAFLSLSWKDRRLAFDPVRSG</span></span>
-<span class="topo-line"><span class="topo-inside">VRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
-<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRL</span></span>
-<span class="topo-line"><span class="topo-inside">ESKLDYQLRISRQYFSYI</span><span class="topo-membrane">PNIILPMLFILFISWTAFWS</span><span class="topo-outside">TSY</span><span class="topo-membrane">EANVTLVVSTLIAHIAFNI</span></span>
-<span class="topo-line"><span class="topo-membrane">LV</span><span class="topo-inside">ETNCPKTPYMTYT</span><span class="topo-membrane">GAIIFMIYLFYFVAVIEVTVQ</span><span class="topo-outside">HYLKVESQPARAASI</span><span class="topo-membrane">TRASRIAFP</span></span>
-<span class="topo-line"><span class="topo-membrane">VVFLLANIILAFL</span><span class="topo-inside">FF</span><span class="topo-unknown">GF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">AQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIESYSLDDCAETFKVNAFLSLSWKDRRLAFDPVRSGVRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRLESKLDYQLRISRQYFSYI</span><span class="topo-membrane">PNIILPMLFILFISWTAFWS</span><span class="topo-outside">TSY</span><span class="topo-membrane">EANVTLVVSTLIAHIAFNI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       </span>
+<span class="topo-line"><span class="topo-membrane">LV</span><span class="topo-inside">ETNCPKTPYMTYT</span><span class="topo-membrane">GAIIFMIYLFYFVAVIEVTVQ</span><span class="topo-outside">HYLKVESQPARAASI</span><span class="topo-membrane">TRASRIAFPVVFLLANIILAFL</span><span class="topo-inside">FF</span><span class="topo-unknown">GF</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1921,6 +1952,7 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1936,12 +1968,13 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">AQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIESYSLDDCAETFKVNAFLSLSWKDRRLAFDPVRSG</span></span>
-<span class="topo-line"><span class="topo-inside">VRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
-<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRL</span></span>
-<span class="topo-line"><span class="topo-inside">ESKLDYQLRISRQYFSYI</span><span class="topo-membrane">PNIILPMLFILFISWTAFWS</span><span class="topo-outside">TSY</span><span class="topo-membrane">EANVTLVVSTLIAHIAFNI</span></span>
-<span class="topo-line"><span class="topo-membrane">LV</span><span class="topo-inside">ETNCPKTPYMTYT</span><span class="topo-membrane">GAIIFMIYLFYFVAVIEVTVQ</span><span class="topo-outside">HYLKVESQPARAASI</span><span class="topo-membrane">TRASRIAFP</span></span>
-<span class="topo-line"><span class="topo-membrane">VVFLLANIILAFL</span><span class="topo-inside">FF</span><span class="topo-unknown">GF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">AQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIESYSLDDCAETFKVNAFLSLSWKDRRLAFDPVRSGVRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRLESKLDYQLRISRQYFSYI</span><span class="topo-membrane">PNIILPMLFILFISWTAFWS</span><span class="topo-outside">TSY</span><span class="topo-membrane">EANVTLVVSTLIAHIAFNI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       </span>
+<span class="topo-line"><span class="topo-membrane">LV</span><span class="topo-inside">ETNCPKTPYMTYT</span><span class="topo-membrane">GAIIFMIYLFYFVAVIEVTVQ</span><span class="topo-outside">HYLKVESQPARAASI</span><span class="topo-membrane">TRASRIAFPVVFLLANIILAFL</span><span class="topo-inside">FF</span><span class="topo-unknown">GF</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2016,6 +2049,7 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2031,12 +2065,13 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">AQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIESYSLDDCAETFKVNAFLSLSWKDRRLAFDPVRSG</span></span>
-<span class="topo-line"><span class="topo-inside">VRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
-<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRL</span></span>
-<span class="topo-line"><span class="topo-inside">ESKLDYQLRISRQYFSYI</span><span class="topo-membrane">PNIILPMLFILFISWTAFWS</span><span class="topo-outside">TSY</span><span class="topo-membrane">EANVTLVVSTLIAHIAFNI</span></span>
-<span class="topo-line"><span class="topo-membrane">LV</span><span class="topo-inside">ETNCPKTPYMTYT</span><span class="topo-membrane">GAIIFMIYLFYFVAVIEVTV</span><span class="topo-outside">QHYLKVESQPARAASI</span><span class="topo-membrane">TRASRIAFP</span></span>
-<span class="topo-line"><span class="topo-membrane">VVFLLANIILAFL</span><span class="topo-inside">FF</span><span class="topo-unknown">GF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">AQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIESYSLDDCAETFKVNAFLSLSWKDRRLAFDPVRSGVRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRLESKLDYQLRISRQYFSYI</span><span class="topo-membrane">PNIILPMLFILFISWTAFWS</span><span class="topo-outside">TSY</span><span class="topo-membrane">EANVTLVVSTLIAHIAFNI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       </span>
+<span class="topo-line"><span class="topo-membrane">LV</span><span class="topo-inside">ETNCPKTPYMTYT</span><span class="topo-membrane">GAIIFMIYLFYFVAVIEVTV</span><span class="topo-outside">QHYLKVESQPARAASI</span><span class="topo-membrane">TRASRIAFPVVFLLANIILAFL</span><span class="topo-inside">FF</span><span class="topo-unknown">GF</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2111,6 +2146,7 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2126,12 +2162,13 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">AQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIESYSLDDCAETFKVNAFLSLSWKDRRLAFDPVRSG</span></span>
-<span class="topo-line"><span class="topo-inside">VRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
-<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRL</span></span>
-<span class="topo-line"><span class="topo-inside">ESKLDYQLRISRQYFSYI</span><span class="topo-membrane">PNIILPMLFILFISWTAFWS</span><span class="topo-outside">TSY</span><span class="topo-membrane">EANVTLVVSTLIAHIAFNI</span></span>
-<span class="topo-line"><span class="topo-membrane">LV</span><span class="topo-inside">ETNCPKTPYMTYT</span><span class="topo-membrane">GAIIFMIYLFYFVAVIEVTVQ</span><span class="topo-outside">HYLKVESQPARAASI</span><span class="topo-membrane">TRASRIAFP</span></span>
-<span class="topo-line"><span class="topo-membrane">VVFLLANIILAFL</span><span class="topo-inside">FF</span><span class="topo-unknown">GF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">AQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIESYSLDDCAETFKVNAFLSLSWKDRRLAFDPVRSGVRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRLESKLDYQLRISRQYFSYI</span><span class="topo-membrane">PNIILPMLFILFISWTAFWS</span><span class="topo-outside">TSY</span><span class="topo-membrane">EANVTLVVSTLIAHIAFNI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       </span>
+<span class="topo-line"><span class="topo-membrane">LV</span><span class="topo-inside">ETNCPKTPYMTYT</span><span class="topo-membrane">GAIIFMIYLFYFVAVIEVTVQ</span><span class="topo-outside">HYLKVESQPARAASI</span><span class="topo-membrane">TRASRIAFPVVFLLANIILAFL</span><span class="topo-inside">FF</span><span class="topo-unknown">GF</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2206,6 +2243,7 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2221,12 +2259,13 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">AQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIESYSLDDCAETFKVNAFLSLSWKDRRLAFDPVRSG</span></span>
-<span class="topo-line"><span class="topo-inside">VRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
-<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRL</span></span>
-<span class="topo-line"><span class="topo-inside">ESKLDYQLRISRQYFSYI</span><span class="topo-membrane">PNIILPMLFILFISWTAFWS</span><span class="topo-outside">TSY</span><span class="topo-membrane">EANVTLVVSTLIAHIAFNI</span></span>
-<span class="topo-line"><span class="topo-membrane">LV</span><span class="topo-inside">ETNCPKTPYMTYT</span><span class="topo-membrane">GAIIFMIYLFYFVAVIEVTVQ</span><span class="topo-outside">HYLKVESQPARAASI</span><span class="topo-membrane">TRASRIAFP</span></span>
-<span class="topo-line"><span class="topo-membrane">VVFLLANIILAFL</span><span class="topo-inside">FF</span><span class="topo-unknown">GF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">AQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIESYSLDDCAETFKVNAFLSLSWKDRRLAFDPVRSGVRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRLESKLDYQLRISRQYFSYI</span><span class="topo-membrane">PNIILPMLFILFISWTAFWS</span><span class="topo-outside">TSY</span><span class="topo-membrane">EANVTLVVSTLIAHIAFNI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       </span>
+<span class="topo-line"><span class="topo-membrane">LV</span><span class="topo-inside">ETNCPKTPYMTYT</span><span class="topo-membrane">GAIIFMIYLFYFVAVIEVTVQ</span><span class="topo-outside">HYLKVESQPARAASI</span><span class="topo-membrane">TRASRIAFPVVFLLANIILAFL</span><span class="topo-inside">FF</span><span class="topo-unknown">GF</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2301,6 +2340,7 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2316,12 +2356,13 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">AQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIESYSLDDCAETFKVNAFLSLSWKDRRLAFDPVRSG</span></span>
-<span class="topo-line"><span class="topo-inside">VRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
-<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRL</span></span>
-<span class="topo-line"><span class="topo-inside">ESKLDYQLRISRQYFSYI</span><span class="topo-membrane">PNIILPMLFILFISWTAFWS</span><span class="topo-outside">TSY</span><span class="topo-membrane">EANVTLVVSTLIAHIAFNI</span></span>
-<span class="topo-line"><span class="topo-membrane">LV</span><span class="topo-inside">ETCLPKTPYMTY</span><span class="topo-membrane">TGAIIFMIYLFYFVAVIEVTVQ</span><span class="topo-outside">HYLKVESQPARAASI</span><span class="topo-membrane">TRASRIAFP</span></span>
-<span class="topo-line"><span class="topo-membrane">VVFLLANIILAFL</span><span class="topo-inside">FF</span><span class="topo-unknown">GF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">AQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIESYSLDDCAETFKVNAFLSLSWKDRRLAFDPVRSGVRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRLESKLDYQLRISRQYFSYI</span><span class="topo-membrane">PNIILPMLFILFISWTAFWS</span><span class="topo-outside">TSY</span><span class="topo-membrane">EANVTLVVSTLIAHIAFNI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       </span>
+<span class="topo-line"><span class="topo-membrane">LV</span><span class="topo-inside">ETCLPKTPYMTY</span><span class="topo-membrane">TGAIIFMIYLFYFVAVIEVTVQ</span><span class="topo-outside">HYLKVESQPARAASI</span><span class="topo-membrane">TRASRIAFPVVFLLANIILAFL</span><span class="topo-inside">FF</span><span class="topo-unknown">GF</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2396,6 +2437,7 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2411,12 +2453,13 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">AQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIESYSLDDCAETFKVNAFLSLSWKDRRLAFDPVRSG</span></span>
-<span class="topo-line"><span class="topo-inside">VRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
-<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRL</span></span>
-<span class="topo-line"><span class="topo-inside">ESKLDYQLRISRQYFSYI</span><span class="topo-membrane">PNIILPMLFILFISWTAFWS</span><span class="topo-outside">TSY</span><span class="topo-membrane">EANVTLVVSTLIAHIAFNI</span></span>
-<span class="topo-line"><span class="topo-membrane">LV</span><span class="topo-inside">ETCLPKTPYMTY</span><span class="topo-membrane">TGAIIFMIYLFYFVAVIEVTVQ</span><span class="topo-outside">HYLKVESQPARAASI</span><span class="topo-membrane">TRASRIAFP</span></span>
-<span class="topo-line"><span class="topo-membrane">VVFLLANIILAFL</span><span class="topo-inside">FF</span><span class="topo-unknown">GF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">AQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIESYSLDDCAETFKVNAFLSLSWKDRRLAFDPVRSGVRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRLESKLDYQLRISRQYFSYI</span><span class="topo-membrane">PNIILPMLFILFISWTAFWS</span><span class="topo-outside">TSY</span><span class="topo-membrane">EANVTLVVSTLIAHIAFNI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       </span>
+<span class="topo-line"><span class="topo-membrane">LV</span><span class="topo-inside">ETCLPKTPYMTY</span><span class="topo-membrane">TGAIIFMIYLFYFVAVIEVTVQ</span><span class="topo-outside">HYLKVESQPARAASI</span><span class="topo-membrane">TRASRIAFPVVFLLANIILAFL</span><span class="topo-inside">FF</span><span class="topo-unknown">GF</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2491,6 +2534,7 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2506,12 +2550,13 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">AQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIESYSLDDCAETFKVNAFLSLSWKDRRLAFDPVRSG</span></span>
-<span class="topo-line"><span class="topo-inside">VRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
-<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRL</span></span>
-<span class="topo-line"><span class="topo-inside">ESKLDYQLRISRQYFSYI</span><span class="topo-membrane">PNIILPMLFILFISWTAFWS</span><span class="topo-outside">TSY</span><span class="topo-membrane">EANVTLVVSTLIAHIAFNI</span></span>
-<span class="topo-line"><span class="topo-membrane">LV</span><span class="topo-inside">ETCLPKTPYMTY</span><span class="topo-membrane">TGAIIFMIYLFYFVAVIEVTVQ</span><span class="topo-outside">HYLKVESQPARAASI</span><span class="topo-membrane">TRASRIAFP</span></span>
-<span class="topo-line"><span class="topo-membrane">VVFLLANIILAFL</span><span class="topo-inside">FF</span><span class="topo-unknown">GF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">AQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIESYSLDDCAETFKVNAFLSLSWKDRRLAFDPVRSGVRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRLESKLDYQLRISRQYFSYI</span><span class="topo-membrane">PNIILPMLFILFISWTAFWS</span><span class="topo-outside">TSY</span><span class="topo-membrane">EANVTLVVSTLIAHIAFNI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       </span>
+<span class="topo-line"><span class="topo-membrane">LV</span><span class="topo-inside">ETCLPKTPYMTY</span><span class="topo-membrane">TGAIIFMIYLFYFVAVIEVTVQ</span><span class="topo-outside">HYLKVESQPARAASI</span><span class="topo-membrane">TRASRIAFPVVFLLANIILAFL</span><span class="topo-inside">FF</span><span class="topo-unknown">GF</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2586,6 +2631,7 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2601,12 +2647,13 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">AQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIESYSLDDCAETFKVNAFLSLSWKDRRLAFDPVRSG</span></span>
-<span class="topo-line"><span class="topo-inside">VRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
-<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRL</span></span>
-<span class="topo-line"><span class="topo-inside">ESKLDYQLRISRQYFSYI</span><span class="topo-membrane">PNIILPMLFILFISWTAFWS</span><span class="topo-outside">TSY</span><span class="topo-membrane">EANVTLVVSTLIAHIAFNI</span></span>
-<span class="topo-line"><span class="topo-membrane">LV</span><span class="topo-inside">ETCLPKTPYMTYT</span><span class="topo-membrane">GAIIFMIYLFYFVAVIEVTVQ</span><span class="topo-outside">HYLKVESQPARAASI</span><span class="topo-membrane">TRASRIAFP</span></span>
-<span class="topo-line"><span class="topo-membrane">VVFLLANIILAFL</span><span class="topo-inside">FF</span><span class="topo-unknown">GF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">AQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIESYSLDDCAETFKVNAFLSLSWKDRRLAFDPVRSGVRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRLESKLDYQLRISRQYFSYI</span><span class="topo-membrane">PNIILPMLFILFISWTAFWS</span><span class="topo-outside">TSY</span><span class="topo-membrane">EANVTLVVSTLIAHIAFNI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       </span>
+<span class="topo-line"><span class="topo-membrane">LV</span><span class="topo-inside">ETCLPKTPYMTYT</span><span class="topo-membrane">GAIIFMIYLFYFVAVIEVTVQ</span><span class="topo-outside">HYLKVESQPARAASI</span><span class="topo-membrane">TRASRIAFPVVFLLANIILAFL</span><span class="topo-inside">FF</span><span class="topo-unknown">GF</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2681,6 +2728,7 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2696,12 +2744,13 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">AQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIESYSLDDCAETFKVNAFLSLSWKDRRLAFDPVRSG</span></span>
-<span class="topo-line"><span class="topo-inside">VRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
-<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRL</span></span>
-<span class="topo-line"><span class="topo-inside">ESKLDYQLRISRQYFSYI</span><span class="topo-membrane">PNIILPMLFILFISWTAFWS</span><span class="topo-outside">TSY</span><span class="topo-membrane">EANVTLVVSTLIAHIAFNI</span></span>
-<span class="topo-line"><span class="topo-membrane">LV</span><span class="topo-inside">ETCLPKTPYMTY</span><span class="topo-membrane">TGAIIFMIYLFYFVAVIEVTVQ</span><span class="topo-outside">HYLKVESQPARAASI</span><span class="topo-membrane">TRASRIAFP</span></span>
-<span class="topo-line"><span class="topo-membrane">VVFLLANIILAFL</span><span class="topo-inside">FF</span><span class="topo-unknown">GF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">AQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIESYSLDDCAETFKVNAFLSLSWKDRRLAFDPVRSGVRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRLESKLDYQLRISRQYFSYI</span><span class="topo-membrane">PNIILPMLFILFISWTAFWS</span><span class="topo-outside">TSY</span><span class="topo-membrane">EANVTLVVSTLIAHIAFNI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       </span>
+<span class="topo-line"><span class="topo-membrane">LV</span><span class="topo-inside">ETCLPKTPYMTY</span><span class="topo-membrane">TGAIIFMIYLFYFVAVIEVTVQ</span><span class="topo-outside">HYLKVESQPARAASI</span><span class="topo-membrane">TRASRIAFPVVFLLANIILAFL</span><span class="topo-inside">FF</span><span class="topo-unknown">GF</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2776,6 +2825,7 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2827,12 +2877,13 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">PPPIADEPLTVNTGIYLIESYSLDDCAETFKVNAFLSLSWKDRRLAFDPVRSGVRVKTYE</span></span>
-<span class="topo-line"><span class="topo-outside">PEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYPFDSQTLH</span></span>
-<span class="topo-line"><span class="topo-outside">IYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRLESKLDYQ</span></span>
-<span class="topo-line"><span class="topo-outside">LRISRQYFSY</span><span class="topo-membrane">IPNIILPMLFILFISWTAFW</span><span class="topo-inside">STSY</span><span class="topo-membrane">EANVTLVVSTLAAHIAFNIL</span><span class="topo-outside">VETCLP</span></span>
-<span class="topo-line"><span class="topo-outside">KTPYMTY</span><span class="topo-membrane">TGAIIFMIYLFYFVAVIEVTV</span><span class="topo-inside">QHYLKVESQPARAASITRA</span><span class="topo-membrane">SRIAFPVVFLLAN</span></span>
-<span class="topo-line"><span class="topo-membrane">IILAFLF</span><span class="topo-outside">FGF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">PPPIADEPLTVNTGIYLIESYSLDDCAETFKVNAFLSLSWKDRRLAFDPVRSGVRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYPFDSQTLH</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">IYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRLESKLDYQLRISRQYFSY</span><span class="topo-membrane">IPNIILPMLFILFISWTAFW</span><span class="topo-inside">STSY</span><span class="topo-membrane">EANVTLVVSTLAAHIAFNIL</span><span class="topo-outside">VETCLP</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310</span>
+<span class="topo-line"><span class="topo-outside">KTPYMTY</span><span class="topo-membrane">TGAIIFMIYLFYFVAVIEVTV</span><span class="topo-inside">QHYLKVESQPARAASITRA</span><span class="topo-membrane">SRIAFPVVFLLANIILAFLF</span><span class="topo-outside">FGF</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2907,6 +2958,7 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2922,12 +2974,13 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">PPPIADEPLTVNTGIYLIESYSLDDCAETFKVNAFLSLSWKDRRLAFDPVRSGVRVKTYE</span></span>
-<span class="topo-line"><span class="topo-outside">PEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYPFDSQTLH</span></span>
-<span class="topo-line"><span class="topo-outside">IYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRLESKLDYQ</span></span>
-<span class="topo-line"><span class="topo-outside">LRISRQYFSYI</span><span class="topo-membrane">PNIILPMLFILFISWTAFWS</span><span class="topo-inside">TSY</span><span class="topo-membrane">EANVTLVVSTLAAHIAFNIL</span><span class="topo-outside">VETCLP</span></span>
-<span class="topo-line"><span class="topo-outside">KTPYMTY</span><span class="topo-membrane">TGAIIFMIYLFYFVAVIEVTV</span><span class="topo-inside">QHYLKVESQPARAASITRA</span><span class="topo-membrane">SRIAFPVVFLLAN</span></span>
-<span class="topo-line"><span class="topo-membrane">IILAFL</span><span class="topo-outside">FFGF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">PPPIADEPLTVNTGIYLIESYSLDDCAETFKVNAFLSLSWKDRRLAFDPVRSGVRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYPFDSQTLH</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">IYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRLESKLDYQLRISRQYFSYI</span><span class="topo-membrane">PNIILPMLFILFISWTAFWS</span><span class="topo-inside">TSY</span><span class="topo-membrane">EANVTLVVSTLAAHIAFNIL</span><span class="topo-outside">VETCLP</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310</span>
+<span class="topo-line"><span class="topo-outside">KTPYMTY</span><span class="topo-membrane">TGAIIFMIYLFYFVAVIEVTV</span><span class="topo-inside">QHYLKVESQPARAASITRA</span><span class="topo-membrane">SRIAFPVVFLLANIILAFL</span><span class="topo-outside">FFGF</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3002,6 +3055,7 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3017,12 +3071,13 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">PPPIADEPLTVNTGIYLIESYSLDDCAETFKVNAFLSLSWKDRRLAFDPVRSGVRVKTYE</span></span>
-<span class="topo-line"><span class="topo-outside">PEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYPFDSQTLH</span></span>
-<span class="topo-line"><span class="topo-outside">IYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRLESKLDYQ</span></span>
-<span class="topo-line"><span class="topo-outside">LRISRQYFSYI</span><span class="topo-membrane">PNIILPMLFILFISWTAFW</span><span class="topo-inside">STSY</span><span class="topo-membrane">EANVTLVVSTLAAHIAFNIL</span><span class="topo-outside">VETCLP</span></span>
-<span class="topo-line"><span class="topo-outside">KTPYMTY</span><span class="topo-membrane">TGAIIFMIYLFYFVAVIEVTV</span><span class="topo-inside">QHYLKVESQPARAASITRA</span><span class="topo-membrane">SRIAFPVVFLLAN</span></span>
-<span class="topo-line"><span class="topo-membrane">IILAFL</span><span class="topo-outside">FFGF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">PPPIADEPLTVNTGIYLIESYSLDDCAETFKVNAFLSLSWKDRRLAFDPVRSGVRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYPFDSQTLH</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">IYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRLESKLDYQLRISRQYFSYI</span><span class="topo-membrane">PNIILPMLFILFISWTAFW</span><span class="topo-inside">STSY</span><span class="topo-membrane">EANVTLVVSTLAAHIAFNIL</span><span class="topo-outside">VETCLP</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310</span>
+<span class="topo-line"><span class="topo-outside">KTPYMTY</span><span class="topo-membrane">TGAIIFMIYLFYFVAVIEVTV</span><span class="topo-inside">QHYLKVESQPARAASITRA</span><span class="topo-membrane">SRIAFPVVFLLANIILAFL</span><span class="topo-outside">FFGF</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3097,6 +3152,7 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3112,12 +3168,13 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">PPPIADEPLTVNTGIYLIESYSLDDCAETFKVNAFLSLSWKDRRLAFDPVRSGVRVKTYE</span></span>
-<span class="topo-line"><span class="topo-outside">PEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYPFDSQTLH</span></span>
-<span class="topo-line"><span class="topo-outside">IYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRLESKLDYQ</span></span>
-<span class="topo-line"><span class="topo-outside">LRISRQYFSYI</span><span class="topo-membrane">PNIILPMLFILFISWTAFW</span><span class="topo-inside">STSY</span><span class="topo-membrane">EANVTLVVSTLAAHIAFNIL</span><span class="topo-outside">VETCLP</span></span>
-<span class="topo-line"><span class="topo-outside">KTPYMTY</span><span class="topo-membrane">TGAIIFMIYLFYFVAVIEVTV</span><span class="topo-inside">QHYLKVESQPARAASITRA</span><span class="topo-membrane">SRIAFPVVFLLAN</span></span>
-<span class="topo-line"><span class="topo-membrane">IILAFL</span><span class="topo-outside">FFGF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">PPPIADEPLTVNTGIYLIESYSLDDCAETFKVNAFLSLSWKDRRLAFDPVRSGVRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYPFDSQTLH</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">IYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRLESKLDYQLRISRQYFSYI</span><span class="topo-membrane">PNIILPMLFILFISWTAFW</span><span class="topo-inside">STSY</span><span class="topo-membrane">EANVTLVVSTLAAHIAFNIL</span><span class="topo-outside">VETCLP</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310</span>
+<span class="topo-line"><span class="topo-outside">KTPYMTY</span><span class="topo-membrane">TGAIIFMIYLFYFVAVIEVTV</span><span class="topo-inside">QHYLKVESQPARAASITRA</span><span class="topo-membrane">SRIAFPVVFLLANIILAFL</span><span class="topo-outside">FFGF</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3192,6 +3249,7 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3207,12 +3265,13 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">PPPIADEPLTVNTGIYLIESYSLDDCAETFKVNAFLSLSWKDRRLAFDPVRSGVRVKTYE</span></span>
-<span class="topo-line"><span class="topo-outside">PEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYPFDSQTLH</span></span>
-<span class="topo-line"><span class="topo-outside">IYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRLESKLDYQ</span></span>
-<span class="topo-line"><span class="topo-outside">LRISRQYFSYI</span><span class="topo-membrane">PNIILPMLFILFISWTAFWS</span><span class="topo-inside">TSY</span><span class="topo-membrane">EANVTLVVSTLAAHIAFNIL</span><span class="topo-outside">VETCLP</span></span>
-<span class="topo-line"><span class="topo-outside">KTPYMTY</span><span class="topo-membrane">TGAIIFMIYLFYFVAVIEVTV</span><span class="topo-inside">QHYLKVESQPARAASITRA</span><span class="topo-membrane">SRIAFPVVFLLAN</span></span>
-<span class="topo-line"><span class="topo-membrane">IILAFL</span><span class="topo-outside">FFGF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">PPPIADEPLTVNTGIYLIESYSLDDCAETFKVNAFLSLSWKDRRLAFDPVRSGVRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYPFDSQTLH</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">IYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRLESKLDYQLRISRQYFSYI</span><span class="topo-membrane">PNIILPMLFILFISWTAFWS</span><span class="topo-inside">TSY</span><span class="topo-membrane">EANVTLVVSTLAAHIAFNIL</span><span class="topo-outside">VETCLP</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310</span>
+<span class="topo-line"><span class="topo-outside">KTPYMTY</span><span class="topo-membrane">TGAIIFMIYLFYFVAVIEVTV</span><span class="topo-inside">QHYLKVESQPARAASITRA</span><span class="topo-membrane">SRIAFPVVFLLANIILAFL</span><span class="topo-outside">FFGF</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3287,6 +3346,7 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3338,12 +3398,13 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">AQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSG</span></span>
-<span class="topo-line"><span class="topo-inside">VRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
-<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRL</span></span>
-<span class="topo-line"><span class="topo-inside">ESKLDYQLRISRQYFSYI</span><span class="topo-membrane">PNIILPMLFILFISWTAFWS</span><span class="topo-outside">TSY</span><span class="topo-membrane">EANVTLVVSTLIAHIAFNI</span></span>
-<span class="topo-line"><span class="topo-inside">LVETNLPKTPYMTYT</span><span class="topo-membrane">GAIIFMIYLFYFVAVIEVTV</span><span class="topo-outside">QHYLKVESQPARAASIT</span><span class="topo-membrane">RASRIAFP</span></span>
-<span class="topo-line"><span class="topo-membrane">VVFLLANIILAFL</span><span class="topo-inside">FF</span><span class="topo-unknown">GF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">AQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSGVRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRLESKLDYQLRISRQYFSYI</span><span class="topo-membrane">PNIILPMLFILFISWTAFWS</span><span class="topo-outside">TSY</span><span class="topo-membrane">EANVTLVVSTLIAHIAFNI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       </span>
+<span class="topo-line"><span class="topo-inside">LVETNLPKTPYMTYT</span><span class="topo-membrane">GAIIFMIYLFYFVAVIEVTV</span><span class="topo-outside">QHYLKVESQPARAASIT</span><span class="topo-membrane">RASRIAFPVVFLLANIILAFL</span><span class="topo-inside">FF</span><span class="topo-unknown">GF</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3432,6 +3493,7 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3447,12 +3509,13 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">AQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSG</span></span>
-<span class="topo-line"><span class="topo-inside">VRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
-<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRL</span></span>
-<span class="topo-line"><span class="topo-inside">ESKLDYQLRISRQYFSYI</span><span class="topo-membrane">PNIILPMLFILFISWTAFWS</span><span class="topo-outside">TSY</span><span class="topo-membrane">EANVTLVVSTLIAHIAFNI</span></span>
-<span class="topo-line"><span class="topo-inside">LVETNLPKTPYMTYT</span><span class="topo-membrane">GAIIFMIYLFYFVAVIEVTV</span><span class="topo-outside">QHYLKVESQPARAASI</span><span class="topo-membrane">TRASRIAFP</span></span>
-<span class="topo-line"><span class="topo-membrane">VVFLLANIILAFL</span><span class="topo-inside">FF</span><span class="topo-unknown">GF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">AQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSGVRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRLESKLDYQLRISRQYFSYI</span><span class="topo-membrane">PNIILPMLFILFISWTAFWS</span><span class="topo-outside">TSY</span><span class="topo-membrane">EANVTLVVSTLIAHIAFNI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       </span>
+<span class="topo-line"><span class="topo-inside">LVETNLPKTPYMTYT</span><span class="topo-membrane">GAIIFMIYLFYFVAVIEVTV</span><span class="topo-outside">QHYLKVESQPARAASI</span><span class="topo-membrane">TRASRIAFPVVFLLANIILAFL</span><span class="topo-inside">FF</span><span class="topo-unknown">GF</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3541,6 +3604,7 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3556,12 +3620,13 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">AQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSG</span></span>
-<span class="topo-line"><span class="topo-inside">VRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
-<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRL</span></span>
-<span class="topo-line"><span class="topo-inside">ESKLDYQLRISRQYFSYI</span><span class="topo-membrane">PNIILPMLFILFISWTAFWS</span><span class="topo-outside">TSY</span><span class="topo-membrane">EANVTLVVSTLIAHIAFNI</span></span>
-<span class="topo-line"><span class="topo-inside">LVETNLPKTPYMTYT</span><span class="topo-membrane">GAIIFMIYLFYFVAVIEVTV</span><span class="topo-outside">QHYLKVESQPARAASI</span><span class="topo-membrane">TRASRIAFP</span></span>
-<span class="topo-line"><span class="topo-membrane">VVFLLANIILAFL</span><span class="topo-inside">FF</span><span class="topo-unknown">GF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">AQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSGVRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRLESKLDYQLRISRQYFSYI</span><span class="topo-membrane">PNIILPMLFILFISWTAFWS</span><span class="topo-outside">TSY</span><span class="topo-membrane">EANVTLVVSTLIAHIAFNI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       </span>
+<span class="topo-line"><span class="topo-inside">LVETNLPKTPYMTYT</span><span class="topo-membrane">GAIIFMIYLFYFVAVIEVTV</span><span class="topo-outside">QHYLKVESQPARAASI</span><span class="topo-membrane">TRASRIAFPVVFLLANIILAFL</span><span class="topo-inside">FF</span><span class="topo-unknown">GF</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3650,6 +3715,7 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3665,12 +3731,13 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">AQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSG</span></span>
-<span class="topo-line"><span class="topo-inside">VRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
-<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRL</span></span>
-<span class="topo-line"><span class="topo-inside">ESKLDYQLRISRQYFSYI</span><span class="topo-membrane">PNIILPMLFILFISWTAFWS</span><span class="topo-outside">TSY</span><span class="topo-membrane">EANVTLVVSTLIAHIAFNI</span></span>
-<span class="topo-line"><span class="topo-inside">LVETNLPKTPYMTYT</span><span class="topo-membrane">GAIIFMIYLFYFVAVIEVTV</span><span class="topo-outside">QHYLKVESQPARAASI</span><span class="topo-membrane">TRASRIAFP</span></span>
-<span class="topo-line"><span class="topo-membrane">VVFLLANIILAFL</span><span class="topo-inside">FF</span><span class="topo-unknown">GF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">AQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSGVRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRLESKLDYQLRISRQYFSYI</span><span class="topo-membrane">PNIILPMLFILFISWTAFWS</span><span class="topo-outside">TSY</span><span class="topo-membrane">EANVTLVVSTLIAHIAFNI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       </span>
+<span class="topo-line"><span class="topo-inside">LVETNLPKTPYMTYT</span><span class="topo-membrane">GAIIFMIYLFYFVAVIEVTV</span><span class="topo-outside">QHYLKVESQPARAASI</span><span class="topo-membrane">TRASRIAFPVVFLLANIILAFL</span><span class="topo-inside">FF</span><span class="topo-unknown">GF</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3759,6 +3826,7 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3774,12 +3842,13 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">AQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSG</span></span>
-<span class="topo-line"><span class="topo-inside">VRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
-<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRL</span></span>
-<span class="topo-line"><span class="topo-inside">ESKLDYQLRISRQYFSYI</span><span class="topo-membrane">PNIILPMLFILFISWTAFWS</span><span class="topo-outside">TSY</span><span class="topo-membrane">EANVTLVVSTLIAHIAFNI</span></span>
-<span class="topo-line"><span class="topo-inside">LVETNLPKTPYMTYT</span><span class="topo-membrane">GAIIFMIYLFYFVAVIEVTV</span><span class="topo-outside">QHYLKVESQPARAASIT</span><span class="topo-membrane">RASRIAFP</span></span>
-<span class="topo-line"><span class="topo-membrane">VVFLLANIILAFL</span><span class="topo-inside">FF</span><span class="topo-unknown">GF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">AQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSGVRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRLESKLDYQLRISRQYFSYI</span><span class="topo-membrane">PNIILPMLFILFISWTAFWS</span><span class="topo-outside">TSY</span><span class="topo-membrane">EANVTLVVSTLIAHIAFNI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       </span>
+<span class="topo-line"><span class="topo-inside">LVETNLPKTPYMTYT</span><span class="topo-membrane">GAIIFMIYLFYFVAVIEVTV</span><span class="topo-outside">QHYLKVESQPARAASIT</span><span class="topo-membrane">RASRIAFPVVFLLANIILAFL</span><span class="topo-inside">FF</span><span class="topo-unknown">GF</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3868,6 +3937,7 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3999,12 +4069,13 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">AQDM</span><span class="topo-outside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSG</span></span>
-<span class="topo-line"><span class="topo-outside">VRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
-<span class="topo-line"><span class="topo-outside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRL</span></span>
-<span class="topo-line"><span class="topo-outside">ESKLDYQLRISRQYFSYI</span><span class="topo-membrane">PNIILPMLFILFISWTAFWS</span><span class="topo-inside">TSY</span><span class="topo-membrane">EANVTLVVSTLIAHIAFNI</span></span>
-<span class="topo-line"><span class="topo-outside">LVETNLPKTPYMTYT</span><span class="topo-membrane">GAIIFMIYLFYFVAVIEVTV</span><span class="topo-inside">QHYLKVESQPARAASI</span><span class="topo-membrane">TRASRIAFP</span></span>
-<span class="topo-line"><span class="topo-membrane">VVFLLANIILAFL</span><span class="topo-outside">FF</span><span class="topo-unknown">GFGGHHHHHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">AQDM</span><span class="topo-outside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSGVRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRLESKLDYQLRISRQYFSYI</span><span class="topo-membrane">PNIILPMLFILFISWTAFWS</span><span class="topo-inside">TSY</span><span class="topo-membrane">EANVTLVVSTLIAHIAFNI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320         </span>
+<span class="topo-line"><span class="topo-outside">LVETNLPKTPYMTYT</span><span class="topo-membrane">GAIIFMIYLFYFVAVIEVTV</span><span class="topo-inside">QHYLKVESQPARAASI</span><span class="topo-membrane">TRASRIAFPVVFLLANIILAFL</span><span class="topo-outside">FF</span><span class="topo-unknown">GFGGHHHHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4093,6 +4164,7 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4108,12 +4180,13 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">AQDM</span><span class="topo-outside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSG</span></span>
-<span class="topo-line"><span class="topo-outside">VRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
-<span class="topo-line"><span class="topo-outside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRL</span></span>
-<span class="topo-line"><span class="topo-outside">ESKLDYQLRISRQYFSYI</span><span class="topo-membrane">PNIILPMLFILFISWTAFWS</span><span class="topo-inside">TSY</span><span class="topo-membrane">EANVTLVVSTLIAHIAFNI</span></span>
-<span class="topo-line"><span class="topo-outside">LVETNLPKTPYMTYT</span><span class="topo-membrane">GAIIFMIYLFYFVAVIEVTV</span><span class="topo-inside">QHYLKVESQPARAASI</span><span class="topo-membrane">TRASRIAFP</span></span>
-<span class="topo-line"><span class="topo-membrane">VVFLLANIILAFL</span><span class="topo-outside">FF</span><span class="topo-unknown">GFGGHHHHHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">AQDM</span><span class="topo-outside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSGVRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRLESKLDYQLRISRQYFSYI</span><span class="topo-membrane">PNIILPMLFILFISWTAFWS</span><span class="topo-inside">TSY</span><span class="topo-membrane">EANVTLVVSTLIAHIAFNI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320         </span>
+<span class="topo-line"><span class="topo-outside">LVETNLPKTPYMTYT</span><span class="topo-membrane">GAIIFMIYLFYFVAVIEVTV</span><span class="topo-inside">QHYLKVESQPARAASI</span><span class="topo-membrane">TRASRIAFPVVFLLANIILAFL</span><span class="topo-outside">FF</span><span class="topo-unknown">GFGGHHHHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4202,6 +4275,7 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4217,12 +4291,13 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">AQDM</span><span class="topo-outside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSG</span></span>
-<span class="topo-line"><span class="topo-outside">VRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
-<span class="topo-line"><span class="topo-outside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRL</span></span>
-<span class="topo-line"><span class="topo-outside">ESKLDYQLRISRQYFSYI</span><span class="topo-membrane">PNIILPMLFILFISWTAFWS</span><span class="topo-inside">TSY</span><span class="topo-membrane">EANVTLVVSTLIAHIAFNI</span></span>
-<span class="topo-line"><span class="topo-outside">LVETNLPKTPYMTYT</span><span class="topo-membrane">GAIIFMIYLFYFVAVIEVTV</span><span class="topo-inside">QHYLKVESQPARAASI</span><span class="topo-membrane">TRASRIAFP</span></span>
-<span class="topo-line"><span class="topo-membrane">VVFLLANIILAFL</span><span class="topo-outside">FF</span><span class="topo-unknown">GFGGHHHHHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">AQDM</span><span class="topo-outside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSGVRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRLESKLDYQLRISRQYFSYI</span><span class="topo-membrane">PNIILPMLFILFISWTAFWS</span><span class="topo-inside">TSY</span><span class="topo-membrane">EANVTLVVSTLIAHIAFNI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320         </span>
+<span class="topo-line"><span class="topo-outside">LVETNLPKTPYMTYT</span><span class="topo-membrane">GAIIFMIYLFYFVAVIEVTV</span><span class="topo-inside">QHYLKVESQPARAASI</span><span class="topo-membrane">TRASRIAFPVVFLLANIILAFL</span><span class="topo-outside">FF</span><span class="topo-unknown">GFGGHHHHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4311,6 +4386,7 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4326,12 +4402,13 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">AQDM</span><span class="topo-outside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSG</span></span>
-<span class="topo-line"><span class="topo-outside">VRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
-<span class="topo-line"><span class="topo-outside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRL</span></span>
-<span class="topo-line"><span class="topo-outside">ESKLDYQLRISRQYFSYI</span><span class="topo-membrane">PNIILPMLFILFISWTAFWS</span><span class="topo-inside">TSY</span><span class="topo-membrane">EANVTLVVSTLIAHIAFNI</span></span>
-<span class="topo-line"><span class="topo-outside">LVETNLPKTPYMTYT</span><span class="topo-membrane">GAIIFMIYLFYFVAVIEVTV</span><span class="topo-inside">QHYLKVESQPARAASI</span><span class="topo-membrane">TRASRIAFP</span></span>
-<span class="topo-line"><span class="topo-membrane">VVFLLANIILAFL</span><span class="topo-outside">FF</span><span class="topo-unknown">GFGGHHHHHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">AQDM</span><span class="topo-outside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSGVRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRLESKLDYQLRISRQYFSYI</span><span class="topo-membrane">PNIILPMLFILFISWTAFWS</span><span class="topo-inside">TSY</span><span class="topo-membrane">EANVTLVVSTLIAHIAFNI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320         </span>
+<span class="topo-line"><span class="topo-outside">LVETNLPKTPYMTYT</span><span class="topo-membrane">GAIIFMIYLFYFVAVIEVTV</span><span class="topo-inside">QHYLKVESQPARAASI</span><span class="topo-membrane">TRASRIAFPVVFLLANIILAFL</span><span class="topo-outside">FF</span><span class="topo-unknown">GFGGHHHHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4420,6 +4497,7 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4435,12 +4513,13 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">AQDM</span><span class="topo-outside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSG</span></span>
-<span class="topo-line"><span class="topo-outside">VRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
-<span class="topo-line"><span class="topo-outside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRL</span></span>
-<span class="topo-line"><span class="topo-outside">ESKLDYQLRISRQYFSYI</span><span class="topo-membrane">PNIILPMLFILFISWTAFWS</span><span class="topo-inside">TSY</span><span class="topo-membrane">EANVTLVVSTLIAHIAFNI</span></span>
-<span class="topo-line"><span class="topo-outside">LVETNLPKTPYMTYT</span><span class="topo-membrane">GAIIFMIYLFYFVAVIEVTV</span><span class="topo-inside">QHYLKVESQPARAASI</span><span class="topo-membrane">TRASRIAFP</span></span>
-<span class="topo-line"><span class="topo-membrane">VVFLLANIILAFL</span><span class="topo-outside">FF</span><span class="topo-unknown">GFGGHHHHHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">AQDM</span><span class="topo-outside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSGVRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRLESKLDYQLRISRQYFSYI</span><span class="topo-membrane">PNIILPMLFILFISWTAFWS</span><span class="topo-inside">TSY</span><span class="topo-membrane">EANVTLVVSTLIAHIAFNI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320         </span>
+<span class="topo-line"><span class="topo-outside">LVETNLPKTPYMTYT</span><span class="topo-membrane">GAIIFMIYLFYFVAVIEVTV</span><span class="topo-inside">QHYLKVESQPARAASI</span><span class="topo-membrane">TRASRIAFPVVFLLANIILAFL</span><span class="topo-outside">FF</span><span class="topo-unknown">GFGGHHHHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4529,6 +4608,7 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4544,12 +4624,13 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">AQDM</span><span class="topo-outside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSG</span></span>
-<span class="topo-line"><span class="topo-outside">VRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
-<span class="topo-line"><span class="topo-outside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRL</span></span>
-<span class="topo-line"><span class="topo-outside">ESKLDYQLRISRQYFSYI</span><span class="topo-membrane">PNIILPMLFILFISWTAFWS</span><span class="topo-inside">TSY</span><span class="topo-membrane">EANVTLVVSTLIAHIAFNI</span></span>
-<span class="topo-line"><span class="topo-outside">LVETNLPKTPYMTYT</span><span class="topo-membrane">GAIIFMIYLFYFVAVIEVTV</span><span class="topo-inside">QHYLKVESQPARAASI</span><span class="topo-membrane">TRASRIAFP</span></span>
-<span class="topo-line"><span class="topo-membrane">VVFLLANIILAFL</span><span class="topo-outside">FF</span><span class="topo-unknown">GFGGHHHHHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">AQDM</span><span class="topo-outside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSGVRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRLESKLDYQLRISRQYFSYI</span><span class="topo-membrane">PNIILPMLFILFISWTAFWS</span><span class="topo-inside">TSY</span><span class="topo-membrane">EANVTLVVSTLIAHIAFNI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320         </span>
+<span class="topo-line"><span class="topo-outside">LVETNLPKTPYMTYT</span><span class="topo-membrane">GAIIFMIYLFYFVAVIEVTV</span><span class="topo-inside">QHYLKVESQPARAASI</span><span class="topo-membrane">TRASRIAFPVVFLLANIILAFL</span><span class="topo-outside">FF</span><span class="topo-unknown">GFGGHHHHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4638,6 +4719,7 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4653,12 +4735,13 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">AQDM</span><span class="topo-outside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSG</span></span>
-<span class="topo-line"><span class="topo-outside">VRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
-<span class="topo-line"><span class="topo-outside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRL</span></span>
-<span class="topo-line"><span class="topo-outside">ESKLDYQLRISRQYFSYI</span><span class="topo-membrane">PNIILPMLFILFISWTAFWS</span><span class="topo-inside">TSY</span><span class="topo-membrane">EANVTLVVSTLIAHIAFNI</span></span>
-<span class="topo-line"><span class="topo-outside">LVETNLPKTPYMTYT</span><span class="topo-membrane">GAIIFMIYLFYFVAVIEVTV</span><span class="topo-inside">QHYLKVESQPARAASI</span><span class="topo-membrane">TRASRIAFP</span></span>
-<span class="topo-line"><span class="topo-membrane">VVFLLANIILAFL</span><span class="topo-outside">FF</span><span class="topo-unknown">GFGGHHHHHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">AQDM</span><span class="topo-outside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSGVRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRLESKLDYQLRISRQYFSYI</span><span class="topo-membrane">PNIILPMLFILFISWTAFWS</span><span class="topo-inside">TSY</span><span class="topo-membrane">EANVTLVVSTLIAHIAFNI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320         </span>
+<span class="topo-line"><span class="topo-outside">LVETNLPKTPYMTYT</span><span class="topo-membrane">GAIIFMIYLFYFVAVIEVTV</span><span class="topo-inside">QHYLKVESQPARAASI</span><span class="topo-membrane">TRASRIAFPVVFLLANIILAFL</span><span class="topo-outside">FF</span><span class="topo-unknown">GFGGHHHHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4747,6 +4830,7 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4762,12 +4846,13 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">AQDM</span><span class="topo-outside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSG</span></span>
-<span class="topo-line"><span class="topo-outside">VRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
-<span class="topo-line"><span class="topo-outside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRL</span></span>
-<span class="topo-line"><span class="topo-outside">ESKLDYQLRISRQYFSYI</span><span class="topo-membrane">PNIILPMLFILFISWTAFWS</span><span class="topo-inside">TSY</span><span class="topo-membrane">EANVTLVVSTLIAHIAFNI</span></span>
-<span class="topo-line"><span class="topo-outside">LVETNLPKTPYMTYT</span><span class="topo-membrane">GAIIFMIYLFYFVAVIEVTV</span><span class="topo-inside">QHYLKVESQPARAASI</span><span class="topo-membrane">TRASRIAFP</span></span>
-<span class="topo-line"><span class="topo-membrane">VVFLLANIILAFL</span><span class="topo-outside">FF</span><span class="topo-unknown">GFGGHHHHHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">AQDM</span><span class="topo-outside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSGVRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRLESKLDYQLRISRQYFSYI</span><span class="topo-membrane">PNIILPMLFILFISWTAFWS</span><span class="topo-inside">TSY</span><span class="topo-membrane">EANVTLVVSTLIAHIAFNI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320         </span>
+<span class="topo-line"><span class="topo-outside">LVETNLPKTPYMTYT</span><span class="topo-membrane">GAIIFMIYLFYFVAVIEVTV</span><span class="topo-inside">QHYLKVESQPARAASI</span><span class="topo-membrane">TRASRIAFPVVFLLANIILAFL</span><span class="topo-outside">FF</span><span class="topo-unknown">GFGGHHHHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4856,6 +4941,7 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4871,12 +4957,13 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">AQDM</span><span class="topo-outside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSG</span></span>
-<span class="topo-line"><span class="topo-outside">VRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
-<span class="topo-line"><span class="topo-outside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRL</span></span>
-<span class="topo-line"><span class="topo-outside">ESKLDYQLRISRQYFSYI</span><span class="topo-membrane">PNIILPMLFILFISWTAFWS</span><span class="topo-inside">TSY</span><span class="topo-membrane">EANVTLVVSTLIAHIAFNI</span></span>
-<span class="topo-line"><span class="topo-outside">LVETNLPKTPYMTYT</span><span class="topo-membrane">GAIIFMIYLFYFVAVIEVTV</span><span class="topo-inside">QHYLKVESQPARAASI</span><span class="topo-membrane">TRASRIAFP</span></span>
-<span class="topo-line"><span class="topo-membrane">VVFLLANIILAFL</span><span class="topo-outside">FF</span><span class="topo-unknown">GFGGHHHHHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">AQDM</span><span class="topo-outside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSGVRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRLESKLDYQLRISRQYFSYI</span><span class="topo-membrane">PNIILPMLFILFISWTAFWS</span><span class="topo-inside">TSY</span><span class="topo-membrane">EANVTLVVSTLIAHIAFNI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320         </span>
+<span class="topo-line"><span class="topo-outside">LVETNLPKTPYMTYT</span><span class="topo-membrane">GAIIFMIYLFYFVAVIEVTV</span><span class="topo-inside">QHYLKVESQPARAASI</span><span class="topo-membrane">TRASRIAFPVVFLLANIILAFL</span><span class="topo-outside">FF</span><span class="topo-unknown">GFGGHHHHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4965,6 +5052,7 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4980,12 +5068,13 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">AQDM</span><span class="topo-outside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSG</span></span>
-<span class="topo-line"><span class="topo-outside">VRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
-<span class="topo-line"><span class="topo-outside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRL</span></span>
-<span class="topo-line"><span class="topo-outside">ESKLDYQLRISRQYFSYI</span><span class="topo-membrane">PNIILPMLFILFISWTAFWS</span><span class="topo-inside">TSY</span><span class="topo-membrane">EANVTLVVSTLIAHIAFNI</span></span>
-<span class="topo-line"><span class="topo-outside">LVETNLPKTPYMTYT</span><span class="topo-membrane">GAIIFMIYLFYFVAVIEVTV</span><span class="topo-inside">QHYLKVESQPARAASI</span><span class="topo-membrane">TRASRIAFP</span></span>
-<span class="topo-line"><span class="topo-membrane">VVFLLANIILAFL</span><span class="topo-outside">FF</span><span class="topo-unknown">GFGGHHHHHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">AQDM</span><span class="topo-outside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSGVRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRLESKLDYQLRISRQYFSYI</span><span class="topo-membrane">PNIILPMLFILFISWTAFWS</span><span class="topo-inside">TSY</span><span class="topo-membrane">EANVTLVVSTLIAHIAFNI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320         </span>
+<span class="topo-line"><span class="topo-outside">LVETNLPKTPYMTYT</span><span class="topo-membrane">GAIIFMIYLFYFVAVIEVTV</span><span class="topo-inside">QHYLKVESQPARAASI</span><span class="topo-membrane">TRASRIAFPVVFLLANIILAFL</span><span class="topo-outside">FF</span><span class="topo-unknown">GFGGHHHHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -5074,6 +5163,7 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -5167,12 +5257,13 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSG</span></span>
-<span class="topo-line"><span class="topo-inside">VRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
-<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRL</span></span>
-<span class="topo-line"><span class="topo-inside">ESKLDYQLRISRQY</span><span class="topo-membrane">FSYIPNIILPMLFILFISWTAFW</span><span class="topo-outside">STSYE</span><span class="topo-membrane">ANVTLVVSTLIAHIAFNI</span></span>
-<span class="topo-line"><span class="topo-membrane">LVET</span><span class="topo-inside">NLPKTPY</span><span class="topo-membrane">MTYTGAIIFMIYLFYFVAVIEVTV</span><span class="topo-outside">QHYLKVESQPARAASITRA</span><span class="topo-membrane">SRIAFP</span></span>
-<span class="topo-line"><span class="topo-membrane">VVFLLANIILAFLFF</span><span class="topo-unknown">GF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSGVRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRLESKLDYQLRISRQY</span><span class="topo-membrane">FSYIPNIILPMLFILFISWTAFW</span><span class="topo-outside">STSYE</span><span class="topo-membrane">ANVTLVVSTLIAHIAFNI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       </span>
+<span class="topo-line"><span class="topo-membrane">LVET</span><span class="topo-inside">NLPKTPY</span><span class="topo-membrane">MTYTGAIIFMIYLFYFVAVIEVTV</span><span class="topo-outside">QHYLKVESQPARAASITRA</span><span class="topo-membrane">SRIAFPVVFLLANIILAFLFF</span><span class="topo-unknown">GF</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -5240,6 +5331,7 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -5255,12 +5347,13 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSG</span></span>
-<span class="topo-line"><span class="topo-inside">VRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
-<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRL</span></span>
-<span class="topo-line"><span class="topo-inside">ESKLDYQLRISRQY</span><span class="topo-membrane">FSYIPNIILPMLFILFISWTAFW</span><span class="topo-outside">STSYE</span><span class="topo-membrane">ANVTLVVSTLIAHIAFNI</span></span>
-<span class="topo-line"><span class="topo-membrane">LVET</span><span class="topo-inside">NLPKTPY</span><span class="topo-membrane">MTYTGAIIFMIYLFYFVAVIEVT</span><span class="topo-outside">VQHYLKVESQPARAASITRA</span><span class="topo-membrane">SRIAFP</span></span>
-<span class="topo-line"><span class="topo-membrane">VVFLLANIILAFLFF</span><span class="topo-unknown">GF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSGVRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRLESKLDYQLRISRQY</span><span class="topo-membrane">FSYIPNIILPMLFILFISWTAFW</span><span class="topo-outside">STSYE</span><span class="topo-membrane">ANVTLVVSTLIAHIAFNI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       </span>
+<span class="topo-line"><span class="topo-membrane">LVET</span><span class="topo-inside">NLPKTPY</span><span class="topo-membrane">MTYTGAIIFMIYLFYFVAVIEVT</span><span class="topo-outside">VQHYLKVESQPARAASITRA</span><span class="topo-membrane">SRIAFPVVFLLANIILAFLFF</span><span class="topo-unknown">GF</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -5328,6 +5421,7 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -5343,12 +5437,13 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSG</span></span>
-<span class="topo-line"><span class="topo-inside">VRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
-<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRL</span></span>
-<span class="topo-line"><span class="topo-inside">ESKLDYQLRISRQY</span><span class="topo-membrane">FSYIPNIILPMLFILFISWTAFW</span><span class="topo-outside">STSYE</span><span class="topo-membrane">ANVTLVVSTLIAHIAFNI</span></span>
-<span class="topo-line"><span class="topo-membrane">LVET</span><span class="topo-inside">NLPKTPY</span><span class="topo-membrane">MTYTGAIIFMIYLFYFVAVIEVT</span><span class="topo-outside">VQHYLKVESQPARAASITRA</span><span class="topo-membrane">SRIAFP</span></span>
-<span class="topo-line"><span class="topo-membrane">VVFLLANIILAFLFF</span><span class="topo-unknown">GF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSGVRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRLESKLDYQLRISRQY</span><span class="topo-membrane">FSYIPNIILPMLFILFISWTAFW</span><span class="topo-outside">STSYE</span><span class="topo-membrane">ANVTLVVSTLIAHIAFNI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       </span>
+<span class="topo-line"><span class="topo-membrane">LVET</span><span class="topo-inside">NLPKTPY</span><span class="topo-membrane">MTYTGAIIFMIYLFYFVAVIEVT</span><span class="topo-outside">VQHYLKVESQPARAASITRA</span><span class="topo-membrane">SRIAFPVVFLLANIILAFLFF</span><span class="topo-unknown">GF</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -5416,6 +5511,7 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -5431,12 +5527,13 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSG</span></span>
-<span class="topo-line"><span class="topo-inside">VRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
-<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRL</span></span>
-<span class="topo-line"><span class="topo-inside">ESKLDYQLRISRQY</span><span class="topo-membrane">FSYIPNIILPMLFILFISWTAFW</span><span class="topo-outside">STSYE</span><span class="topo-membrane">ANVTLVVSTLIAHIAFNI</span></span>
-<span class="topo-line"><span class="topo-membrane">LVET</span><span class="topo-inside">NLPKTPY</span><span class="topo-membrane">MTYTGAIIFMIYLFYFVAVIEVTV</span><span class="topo-outside">QHYLKVESQPARAASITRA</span><span class="topo-membrane">SRIAFP</span></span>
-<span class="topo-line"><span class="topo-membrane">VVFLLANIILAFLFF</span><span class="topo-unknown">GF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSGVRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRLESKLDYQLRISRQY</span><span class="topo-membrane">FSYIPNIILPMLFILFISWTAFW</span><span class="topo-outside">STSYE</span><span class="topo-membrane">ANVTLVVSTLIAHIAFNI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       </span>
+<span class="topo-line"><span class="topo-membrane">LVET</span><span class="topo-inside">NLPKTPY</span><span class="topo-membrane">MTYTGAIIFMIYLFYFVAVIEVTV</span><span class="topo-outside">QHYLKVESQPARAASITRA</span><span class="topo-membrane">SRIAFPVVFLLANIILAFLFF</span><span class="topo-unknown">GF</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -5504,6 +5601,7 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -5519,12 +5617,13 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSG</span></span>
-<span class="topo-line"><span class="topo-inside">VRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
-<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRL</span></span>
-<span class="topo-line"><span class="topo-inside">ESKLDYQLRISRQY</span><span class="topo-membrane">FSYIPNIILPMLFILFISWTAFW</span><span class="topo-outside">STSYE</span><span class="topo-membrane">ANVTLVVSTLIAHIAFNI</span></span>
-<span class="topo-line"><span class="topo-membrane">LVET</span><span class="topo-inside">NLPKTPY</span><span class="topo-membrane">MTYTGAIIFMIYLFYFVAVIEVTV</span><span class="topo-outside">QHYLKVESQPARAASITRA</span><span class="topo-membrane">SRIAFP</span></span>
-<span class="topo-line"><span class="topo-membrane">VVFLLANIILAFLFF</span><span class="topo-unknown">GF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSGVRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRLESKLDYQLRISRQY</span><span class="topo-membrane">FSYIPNIILPMLFILFISWTAFW</span><span class="topo-outside">STSYE</span><span class="topo-membrane">ANVTLVVSTLIAHIAFNI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       </span>
+<span class="topo-line"><span class="topo-membrane">LVET</span><span class="topo-inside">NLPKTPY</span><span class="topo-membrane">MTYTGAIIFMIYLFYFVAVIEVTV</span><span class="topo-outside">QHYLKVESQPARAASITRA</span><span class="topo-membrane">SRIAFPVVFLLANIILAFLFF</span><span class="topo-unknown">GF</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -5592,6 +5691,7 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -5607,12 +5707,13 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSG</span></span>
-<span class="topo-line"><span class="topo-inside">VRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
-<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRL</span></span>
-<span class="topo-line"><span class="topo-inside">ESKLDYQLRISRQY</span><span class="topo-membrane">FSYIPNIILPMLFILFISWTAFW</span><span class="topo-outside">STSYE</span><span class="topo-membrane">ANVTLVVSTLIAHIAFNI</span></span>
-<span class="topo-line"><span class="topo-membrane">LVET</span><span class="topo-inside">NLPKTPY</span><span class="topo-membrane">MTYTGAIIFMIYLFYFVAVIEVTV</span><span class="topo-outside">QHYLKVESQPARAASITRA</span><span class="topo-membrane">SRIAFP</span></span>
-<span class="topo-line"><span class="topo-membrane">VVFLLANIILAFLFF</span><span class="topo-unknown">GF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSGVRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRLESKLDYQLRISRQY</span><span class="topo-membrane">FSYIPNIILPMLFILFISWTAFW</span><span class="topo-outside">STSYE</span><span class="topo-membrane">ANVTLVVSTLIAHIAFNI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       </span>
+<span class="topo-line"><span class="topo-membrane">LVET</span><span class="topo-inside">NLPKTPY</span><span class="topo-membrane">MTYTGAIIFMIYLFYFVAVIEVTV</span><span class="topo-outside">QHYLKVESQPARAASITRA</span><span class="topo-membrane">SRIAFPVVFLLANIILAFLFF</span><span class="topo-unknown">GF</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -5680,6 +5781,7 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -5695,12 +5797,13 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSG</span></span>
-<span class="topo-line"><span class="topo-inside">VRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
-<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRL</span></span>
-<span class="topo-line"><span class="topo-inside">ESKLDYQLRISRQY</span><span class="topo-membrane">FSYIPNIILPMLFILFISWTAFW</span><span class="topo-outside">STSYE</span><span class="topo-membrane">ANVTLVVSTLIAHIAFNI</span></span>
-<span class="topo-line"><span class="topo-membrane">LVET</span><span class="topo-inside">NLPKTPY</span><span class="topo-membrane">MTYTGAIIFMIYLFYFVAVIEVT</span><span class="topo-outside">VQHYLKVESQPARAASITRA</span><span class="topo-membrane">SRIAFP</span></span>
-<span class="topo-line"><span class="topo-membrane">VVFLLANIILAFLFF</span><span class="topo-unknown">GF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSGVRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRLESKLDYQLRISRQY</span><span class="topo-membrane">FSYIPNIILPMLFILFISWTAFW</span><span class="topo-outside">STSYE</span><span class="topo-membrane">ANVTLVVSTLIAHIAFNI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       </span>
+<span class="topo-line"><span class="topo-membrane">LVET</span><span class="topo-inside">NLPKTPY</span><span class="topo-membrane">MTYTGAIIFMIYLFYFVAVIEVT</span><span class="topo-outside">VQHYLKVESQPARAASITRA</span><span class="topo-membrane">SRIAFPVVFLLANIILAFLFF</span><span class="topo-unknown">GF</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -5768,6 +5871,7 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -5783,12 +5887,13 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSG</span></span>
-<span class="topo-line"><span class="topo-inside">VRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
-<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRL</span></span>
-<span class="topo-line"><span class="topo-inside">ESKLDYQLRISRQY</span><span class="topo-membrane">FSYIPNIILPMLFILFISWTAFW</span><span class="topo-outside">STSYE</span><span class="topo-membrane">ANVTLVVSTLIAHIAFNI</span></span>
-<span class="topo-line"><span class="topo-membrane">LVET</span><span class="topo-inside">NLPKTPY</span><span class="topo-membrane">MTYTGAIIFMIYLFYFVAVIEVT</span><span class="topo-outside">VQHYLKVESQPARAASITRA</span><span class="topo-membrane">SRIAFP</span></span>
-<span class="topo-line"><span class="topo-membrane">VVFLLANIILAFLFF</span><span class="topo-unknown">GF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSGVRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRLESKLDYQLRISRQY</span><span class="topo-membrane">FSYIPNIILPMLFILFISWTAFW</span><span class="topo-outside">STSYE</span><span class="topo-membrane">ANVTLVVSTLIAHIAFNI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       </span>
+<span class="topo-line"><span class="topo-membrane">LVET</span><span class="topo-inside">NLPKTPY</span><span class="topo-membrane">MTYTGAIIFMIYLFYFVAVIEVT</span><span class="topo-outside">VQHYLKVESQPARAASITRA</span><span class="topo-membrane">SRIAFPVVFLLANIILAFLFF</span><span class="topo-unknown">GF</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -5856,6 +5961,7 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -5871,12 +5977,13 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSG</span></span>
-<span class="topo-line"><span class="topo-inside">VRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
-<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRL</span></span>
-<span class="topo-line"><span class="topo-inside">ESKLDYQLRISRQY</span><span class="topo-membrane">FSYIPNIILPMLFILFISWTAFW</span><span class="topo-outside">STSYE</span><span class="topo-membrane">ANVTLVVSTLIAHIAFNI</span></span>
-<span class="topo-line"><span class="topo-membrane">LVET</span><span class="topo-inside">NLPKTPY</span><span class="topo-membrane">MTYTGAIIFMIYLFYFVAVIEVTV</span><span class="topo-outside">QHYLKVESQPARAASITRA</span><span class="topo-membrane">SRIAFP</span></span>
-<span class="topo-line"><span class="topo-membrane">VVFLLANIILAFLFF</span><span class="topo-unknown">GF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSGVRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRLESKLDYQLRISRQY</span><span class="topo-membrane">FSYIPNIILPMLFILFISWTAFW</span><span class="topo-outside">STSYE</span><span class="topo-membrane">ANVTLVVSTLIAHIAFNI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       </span>
+<span class="topo-line"><span class="topo-membrane">LVET</span><span class="topo-inside">NLPKTPY</span><span class="topo-membrane">MTYTGAIIFMIYLFYFVAVIEVTV</span><span class="topo-outside">QHYLKVESQPARAASITRA</span><span class="topo-membrane">SRIAFPVVFLLANIILAFLFF</span><span class="topo-unknown">GF</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -5944,6 +6051,7 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -5959,12 +6067,13 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSG</span></span>
-<span class="topo-line"><span class="topo-inside">VRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
-<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRL</span></span>
-<span class="topo-line"><span class="topo-inside">ESKLDYQLRISRQY</span><span class="topo-membrane">FSYIPNIILPMLFILFISWTAFW</span><span class="topo-outside">STSYE</span><span class="topo-membrane">ANVTLVVSTLIAHIAFNI</span></span>
-<span class="topo-line"><span class="topo-membrane">LVET</span><span class="topo-inside">NLPKTPY</span><span class="topo-membrane">MTYTGAIIFMIYLFYFVAVIEVTV</span><span class="topo-outside">QHYLKVESQPARAASITRA</span><span class="topo-membrane">SRIAFP</span></span>
-<span class="topo-line"><span class="topo-membrane">VVFLLANIILAFLFF</span><span class="topo-unknown">GF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSGVRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRLESKLDYQLRISRQY</span><span class="topo-membrane">FSYIPNIILPMLFILFISWTAFW</span><span class="topo-outside">STSYE</span><span class="topo-membrane">ANVTLVVSTLIAHIAFNI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       </span>
+<span class="topo-line"><span class="topo-membrane">LVET</span><span class="topo-inside">NLPKTPY</span><span class="topo-membrane">MTYTGAIIFMIYLFYFVAVIEVTV</span><span class="topo-outside">QHYLKVESQPARAASITRA</span><span class="topo-membrane">SRIAFPVVFLLANIILAFLFF</span><span class="topo-unknown">GF</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -6032,6 +6141,7 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -6047,12 +6157,13 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSG</span></span>
-<span class="topo-line"><span class="topo-inside">VRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
-<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRL</span></span>
-<span class="topo-line"><span class="topo-inside">ESKLDYQLRISRQY</span><span class="topo-membrane">FSYIPNIILPMLFILFISWTAFW</span><span class="topo-outside">STSYE</span><span class="topo-membrane">ANVTLVVSTLIAHIAFNI</span></span>
-<span class="topo-line"><span class="topo-membrane">LVET</span><span class="topo-inside">NLPKTPY</span><span class="topo-membrane">MTYTGAIIFMIYLFYFVAVIEVTV</span><span class="topo-outside">QHYLKVESQPARAASITRA</span><span class="topo-membrane">SRIAFP</span></span>
-<span class="topo-line"><span class="topo-membrane">VVFLLANIILAFLFF</span><span class="topo-unknown">GF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSGVRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRLESKLDYQLRISRQY</span><span class="topo-membrane">FSYIPNIILPMLFILFISWTAFW</span><span class="topo-outside">STSYE</span><span class="topo-membrane">ANVTLVVSTLIAHIAFNI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       </span>
+<span class="topo-line"><span class="topo-membrane">LVET</span><span class="topo-inside">NLPKTPY</span><span class="topo-membrane">MTYTGAIIFMIYLFYFVAVIEVTV</span><span class="topo-outside">QHYLKVESQPARAASITRA</span><span class="topo-membrane">SRIAFPVVFLLANIILAFLFF</span><span class="topo-unknown">GF</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -6120,6 +6231,7 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -6135,12 +6247,13 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSG</span></span>
-<span class="topo-line"><span class="topo-inside">VRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
-<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRL</span></span>
-<span class="topo-line"><span class="topo-inside">ESKLDYQLRISRQY</span><span class="topo-membrane">FSYIPNIILPMLFILFISWTAFW</span><span class="topo-outside">STSYE</span><span class="topo-membrane">ANVTLVVSTLIAHIAFNI</span></span>
-<span class="topo-line"><span class="topo-membrane">LVET</span><span class="topo-inside">NLPKTPY</span><span class="topo-membrane">MTYTGAIIFMIYLFYFVAVIEVT</span><span class="topo-outside">VQHYLKVESQPARAASITRA</span><span class="topo-membrane">SRIAFP</span></span>
-<span class="topo-line"><span class="topo-membrane">VVFLLANIILAFLFF</span><span class="topo-unknown">GF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSGVRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRLESKLDYQLRISRQY</span><span class="topo-membrane">FSYIPNIILPMLFILFISWTAFW</span><span class="topo-outside">STSYE</span><span class="topo-membrane">ANVTLVVSTLIAHIAFNI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       </span>
+<span class="topo-line"><span class="topo-membrane">LVET</span><span class="topo-inside">NLPKTPY</span><span class="topo-membrane">MTYTGAIIFMIYLFYFVAVIEVT</span><span class="topo-outside">VQHYLKVESQPARAASITRA</span><span class="topo-membrane">SRIAFPVVFLLANIILAFLFF</span><span class="topo-unknown">GF</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -6208,6 +6321,7 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -6223,12 +6337,13 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSG</span></span>
-<span class="topo-line"><span class="topo-inside">VRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
-<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRL</span></span>
-<span class="topo-line"><span class="topo-inside">ESKLDYQLRISRQY</span><span class="topo-membrane">FSYIPNIILPMLFILFISWTAFW</span><span class="topo-outside">STSYE</span><span class="topo-membrane">ANVTLVVSTLIAHIAFNI</span></span>
-<span class="topo-line"><span class="topo-membrane">LVET</span><span class="topo-inside">NLPKTPY</span><span class="topo-membrane">MTYTGAIIFMIYLFYFVAVIEVT</span><span class="topo-outside">VQHYLKVESQPARAASITRA</span><span class="topo-membrane">SRIAFP</span></span>
-<span class="topo-line"><span class="topo-membrane">VVFLLANIILAFLFF</span><span class="topo-unknown">GF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSGVRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRLESKLDYQLRISRQY</span><span class="topo-membrane">FSYIPNIILPMLFILFISWTAFW</span><span class="topo-outside">STSYE</span><span class="topo-membrane">ANVTLVVSTLIAHIAFNI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       </span>
+<span class="topo-line"><span class="topo-membrane">LVET</span><span class="topo-inside">NLPKTPY</span><span class="topo-membrane">MTYTGAIIFMIYLFYFVAVIEVT</span><span class="topo-outside">VQHYLKVESQPARAASITRA</span><span class="topo-membrane">SRIAFPVVFLLANIILAFLFF</span><span class="topo-unknown">GF</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -6296,6 +6411,7 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -6311,12 +6427,13 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSG</span></span>
-<span class="topo-line"><span class="topo-inside">VRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
-<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRL</span></span>
-<span class="topo-line"><span class="topo-inside">ESKLDYQLRISRQY</span><span class="topo-membrane">FSYIPNIILPMLFILFISWTAFW</span><span class="topo-outside">STSYE</span><span class="topo-membrane">ANVTLVVSTLIAHIAFNI</span></span>
-<span class="topo-line"><span class="topo-membrane">LVET</span><span class="topo-inside">NLPKTPY</span><span class="topo-membrane">MTYTGAIIFMIYLFYFVAVIEVTV</span><span class="topo-outside">QHYLKVESQPARAASITRA</span><span class="topo-membrane">SRIAFP</span></span>
-<span class="topo-line"><span class="topo-membrane">VVFLLANIILAFLFF</span><span class="topo-unknown">GF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSGVRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRLESKLDYQLRISRQY</span><span class="topo-membrane">FSYIPNIILPMLFILFISWTAFW</span><span class="topo-outside">STSYE</span><span class="topo-membrane">ANVTLVVSTLIAHIAFNI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       </span>
+<span class="topo-line"><span class="topo-membrane">LVET</span><span class="topo-inside">NLPKTPY</span><span class="topo-membrane">MTYTGAIIFMIYLFYFVAVIEVTV</span><span class="topo-outside">QHYLKVESQPARAASITRA</span><span class="topo-membrane">SRIAFPVVFLLANIILAFLFF</span><span class="topo-unknown">GF</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -6384,6 +6501,7 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -6399,12 +6517,13 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSG</span></span>
-<span class="topo-line"><span class="topo-inside">VRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
-<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRL</span></span>
-<span class="topo-line"><span class="topo-inside">ESKLDYQLRISRQY</span><span class="topo-membrane">FSYIPNIILPMLFILFISWTAFW</span><span class="topo-outside">STSYE</span><span class="topo-membrane">ANVTLVVSTLIAHIAFNI</span></span>
-<span class="topo-line"><span class="topo-membrane">LVET</span><span class="topo-inside">NLPKTPY</span><span class="topo-membrane">MTYTGAIIFMIYLFYFVAVIEVTV</span><span class="topo-outside">QHYLKVESQPARAASITRA</span><span class="topo-membrane">SRIAFP</span></span>
-<span class="topo-line"><span class="topo-membrane">VVFLLANIILAFLFF</span><span class="topo-unknown">GF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSGVRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRLESKLDYQLRISRQY</span><span class="topo-membrane">FSYIPNIILPMLFILFISWTAFW</span><span class="topo-outside">STSYE</span><span class="topo-membrane">ANVTLVVSTLIAHIAFNI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       </span>
+<span class="topo-line"><span class="topo-membrane">LVET</span><span class="topo-inside">NLPKTPY</span><span class="topo-membrane">MTYTGAIIFMIYLFYFVAVIEVTV</span><span class="topo-outside">QHYLKVESQPARAASITRA</span><span class="topo-membrane">SRIAFPVVFLLANIILAFLFF</span><span class="topo-unknown">GF</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -6472,6 +6591,7 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -6487,12 +6607,13 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSG</span></span>
-<span class="topo-line"><span class="topo-inside">VRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
-<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRL</span></span>
-<span class="topo-line"><span class="topo-inside">ESKLDYQLRISRQY</span><span class="topo-membrane">FSYIPNIILPMLFILFISWTAFW</span><span class="topo-outside">STSYE</span><span class="topo-membrane">ANVTLVVSTLIAHIAFNI</span></span>
-<span class="topo-line"><span class="topo-membrane">LVET</span><span class="topo-inside">NLPKTPY</span><span class="topo-membrane">MTYTGAIIFMIYLFYFVAVIEVTV</span><span class="topo-outside">QHYLKVESQPARAASITRA</span><span class="topo-membrane">SRIAFP</span></span>
-<span class="topo-line"><span class="topo-membrane">VVFLLANIILAFLFF</span><span class="topo-unknown">GF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSGVRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRLESKLDYQLRISRQY</span><span class="topo-membrane">FSYIPNIILPMLFILFISWTAFW</span><span class="topo-outside">STSYE</span><span class="topo-membrane">ANVTLVVSTLIAHIAFNI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       </span>
+<span class="topo-line"><span class="topo-membrane">LVET</span><span class="topo-inside">NLPKTPY</span><span class="topo-membrane">MTYTGAIIFMIYLFYFVAVIEVTV</span><span class="topo-outside">QHYLKVESQPARAASITRA</span><span class="topo-membrane">SRIAFPVVFLLANIILAFLFF</span><span class="topo-unknown">GF</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -6560,6 +6681,7 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -6575,12 +6697,13 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSG</span></span>
-<span class="topo-line"><span class="topo-inside">VRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
-<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRL</span></span>
-<span class="topo-line"><span class="topo-inside">ESKLDYQLRISRQY</span><span class="topo-membrane">FSYIPNIILPMLFILFISWTAFW</span><span class="topo-outside">STSYE</span><span class="topo-membrane">ANVTLVVSTLIAHIAFNI</span></span>
-<span class="topo-line"><span class="topo-membrane">LVET</span><span class="topo-inside">NLPKTPY</span><span class="topo-membrane">MTYTGAIIFMIYLFYFVAVIEVT</span><span class="topo-outside">VQHYLKVESQPARAASITRA</span><span class="topo-membrane">SRIAFP</span></span>
-<span class="topo-line"><span class="topo-membrane">VVFLLANIILAFLFF</span><span class="topo-unknown">GF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSGVRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRLESKLDYQLRISRQY</span><span class="topo-membrane">FSYIPNIILPMLFILFISWTAFW</span><span class="topo-outside">STSYE</span><span class="topo-membrane">ANVTLVVSTLIAHIAFNI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       </span>
+<span class="topo-line"><span class="topo-membrane">LVET</span><span class="topo-inside">NLPKTPY</span><span class="topo-membrane">MTYTGAIIFMIYLFYFVAVIEVT</span><span class="topo-outside">VQHYLKVESQPARAASITRA</span><span class="topo-membrane">SRIAFPVVFLLANIILAFLFF</span><span class="topo-unknown">GF</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -6648,6 +6771,7 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -6663,12 +6787,13 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSG</span></span>
-<span class="topo-line"><span class="topo-inside">VRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
-<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRL</span></span>
-<span class="topo-line"><span class="topo-inside">ESKLDYQLRISRQY</span><span class="topo-membrane">FSYIPNIILPMLFILFISWTAFW</span><span class="topo-outside">STSYE</span><span class="topo-membrane">ANVTLVVSTLIAHIAFNI</span></span>
-<span class="topo-line"><span class="topo-membrane">LVET</span><span class="topo-inside">NLPKTPY</span><span class="topo-membrane">MTYTGAIIFMIYLFYFVAVIEVT</span><span class="topo-outside">VQHYLKVESQPARAASITRA</span><span class="topo-membrane">SRIAFP</span></span>
-<span class="topo-line"><span class="topo-membrane">VVFLLANIILAFLFF</span><span class="topo-unknown">GF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSGVRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRLESKLDYQLRISRQY</span><span class="topo-membrane">FSYIPNIILPMLFILFISWTAFW</span><span class="topo-outside">STSYE</span><span class="topo-membrane">ANVTLVVSTLIAHIAFNI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       </span>
+<span class="topo-line"><span class="topo-membrane">LVET</span><span class="topo-inside">NLPKTPY</span><span class="topo-membrane">MTYTGAIIFMIYLFYFVAVIEVT</span><span class="topo-outside">VQHYLKVESQPARAASITRA</span><span class="topo-membrane">SRIAFPVVFLLANIILAFLFF</span><span class="topo-unknown">GF</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -6736,6 +6861,7 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -6751,12 +6877,13 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSG</span></span>
-<span class="topo-line"><span class="topo-inside">VRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
-<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRL</span></span>
-<span class="topo-line"><span class="topo-inside">ESKLDYQLRISRQY</span><span class="topo-membrane">FSYIPNIILPMLFILFISWTAFW</span><span class="topo-outside">STSYE</span><span class="topo-membrane">ANVTLVVSTLIAHIAFNI</span></span>
-<span class="topo-line"><span class="topo-membrane">LVET</span><span class="topo-inside">NLPKTPY</span><span class="topo-membrane">MTYTGAIIFMIYLFYFVAVIEVTV</span><span class="topo-outside">QHYLKVESQPARAASITRA</span><span class="topo-membrane">SRIAFP</span></span>
-<span class="topo-line"><span class="topo-membrane">VVFLLANIILAFLFF</span><span class="topo-unknown">GF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSGVRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRLESKLDYQLRISRQY</span><span class="topo-membrane">FSYIPNIILPMLFILFISWTAFW</span><span class="topo-outside">STSYE</span><span class="topo-membrane">ANVTLVVSTLIAHIAFNI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       </span>
+<span class="topo-line"><span class="topo-membrane">LVET</span><span class="topo-inside">NLPKTPY</span><span class="topo-membrane">MTYTGAIIFMIYLFYFVAVIEVTV</span><span class="topo-outside">QHYLKVESQPARAASITRA</span><span class="topo-membrane">SRIAFPVVFLLANIILAFLFF</span><span class="topo-unknown">GF</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -6824,6 +6951,7 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -6839,12 +6967,13 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSG</span></span>
-<span class="topo-line"><span class="topo-inside">VRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
-<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRL</span></span>
-<span class="topo-line"><span class="topo-inside">ESKLDYQLRISRQY</span><span class="topo-membrane">FSYIPNIILPMLFILFISWTAFW</span><span class="topo-outside">STSYE</span><span class="topo-membrane">ANVTLVVSTLIAHIAFNI</span></span>
-<span class="topo-line"><span class="topo-membrane">LVET</span><span class="topo-inside">NLPKTPY</span><span class="topo-membrane">MTYTGAIIFMIYLFYFVAVIEVTV</span><span class="topo-outside">QHYLKVESQPARAASITRA</span><span class="topo-membrane">SRIAFP</span></span>
-<span class="topo-line"><span class="topo-membrane">VVFLLANIILAFLFF</span><span class="topo-unknown">GF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSGVRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRLESKLDYQLRISRQY</span><span class="topo-membrane">FSYIPNIILPMLFILFISWTAFW</span><span class="topo-outside">STSYE</span><span class="topo-membrane">ANVTLVVSTLIAHIAFNI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       </span>
+<span class="topo-line"><span class="topo-membrane">LVET</span><span class="topo-inside">NLPKTPY</span><span class="topo-membrane">MTYTGAIIFMIYLFYFVAVIEVTV</span><span class="topo-outside">QHYLKVESQPARAASITRA</span><span class="topo-membrane">SRIAFPVVFLLANIILAFLFF</span><span class="topo-unknown">GF</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -6912,6 +7041,7 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -6927,12 +7057,13 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSG</span></span>
-<span class="topo-line"><span class="topo-inside">VRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
-<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRL</span></span>
-<span class="topo-line"><span class="topo-inside">ESKLDYQLRISRQY</span><span class="topo-membrane">FSYIPNIILPMLFILFISWTAFW</span><span class="topo-outside">STSYE</span><span class="topo-membrane">ANVTLVVSTLIAHIAFNI</span></span>
-<span class="topo-line"><span class="topo-membrane">LVET</span><span class="topo-inside">NLPKTPY</span><span class="topo-membrane">MTYTGAIIFMIYLFYFVAVIEVTV</span><span class="topo-outside">QHYLKVESQPARAASITRA</span><span class="topo-membrane">SRIAFP</span></span>
-<span class="topo-line"><span class="topo-membrane">VVFLLANIILAFLFF</span><span class="topo-unknown">GF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSGVRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRLESKLDYQLRISRQY</span><span class="topo-membrane">FSYIPNIILPMLFILFISWTAFW</span><span class="topo-outside">STSYE</span><span class="topo-membrane">ANVTLVVSTLIAHIAFNI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       </span>
+<span class="topo-line"><span class="topo-membrane">LVET</span><span class="topo-inside">NLPKTPY</span><span class="topo-membrane">MTYTGAIIFMIYLFYFVAVIEVTV</span><span class="topo-outside">QHYLKVESQPARAASITRA</span><span class="topo-membrane">SRIAFPVVFLLANIILAFLFF</span><span class="topo-unknown">GF</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -7000,6 +7131,7 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -7015,12 +7147,13 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSG</span></span>
-<span class="topo-line"><span class="topo-inside">VRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
-<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRL</span></span>
-<span class="topo-line"><span class="topo-inside">ESKLDYQLRISRQY</span><span class="topo-membrane">FSYIPNIILPMLFILFISWTAFW</span><span class="topo-outside">STSYE</span><span class="topo-membrane">ANVTLVVSTLIAHIAFNI</span></span>
-<span class="topo-line"><span class="topo-membrane">LVET</span><span class="topo-inside">NLPKTPY</span><span class="topo-membrane">MTYTGAIIFMIYLFYFVAVIEVT</span><span class="topo-outside">VQHYLKVESQPARAASITRA</span><span class="topo-membrane">SRIAFP</span></span>
-<span class="topo-line"><span class="topo-membrane">VVFLLANIILAFLFF</span><span class="topo-unknown">GF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSGVRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRLESKLDYQLRISRQY</span><span class="topo-membrane">FSYIPNIILPMLFILFISWTAFW</span><span class="topo-outside">STSYE</span><span class="topo-membrane">ANVTLVVSTLIAHIAFNI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       </span>
+<span class="topo-line"><span class="topo-membrane">LVET</span><span class="topo-inside">NLPKTPY</span><span class="topo-membrane">MTYTGAIIFMIYLFYFVAVIEVT</span><span class="topo-outside">VQHYLKVESQPARAASITRA</span><span class="topo-membrane">SRIAFPVVFLLANIILAFLFF</span><span class="topo-unknown">GF</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -7088,6 +7221,7 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -7103,12 +7237,13 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSG</span></span>
-<span class="topo-line"><span class="topo-inside">VRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
-<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRL</span></span>
-<span class="topo-line"><span class="topo-inside">ESKLDYQLRISRQY</span><span class="topo-membrane">FSYIPNIILPMLFILFISWTAFW</span><span class="topo-outside">STSYE</span><span class="topo-membrane">ANVTLVVSTLIAHIAFNI</span></span>
-<span class="topo-line"><span class="topo-membrane">LVET</span><span class="topo-inside">NLPKTPY</span><span class="topo-membrane">MTYTGAIIFMIYLFYFVAVIEVT</span><span class="topo-outside">VQHYLKVESQPARAASITRA</span><span class="topo-membrane">SRIAFP</span></span>
-<span class="topo-line"><span class="topo-membrane">VVFLLANIILAFLFF</span><span class="topo-unknown">GF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSGVRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRLESKLDYQLRISRQY</span><span class="topo-membrane">FSYIPNIILPMLFILFISWTAFW</span><span class="topo-outside">STSYE</span><span class="topo-membrane">ANVTLVVSTLIAHIAFNI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       </span>
+<span class="topo-line"><span class="topo-membrane">LVET</span><span class="topo-inside">NLPKTPY</span><span class="topo-membrane">MTYTGAIIFMIYLFYFVAVIEVT</span><span class="topo-outside">VQHYLKVESQPARAASITRA</span><span class="topo-membrane">SRIAFPVVFLLANIILAFLFF</span><span class="topo-unknown">GF</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -7176,6 +7311,7 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -7191,12 +7327,13 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSG</span></span>
-<span class="topo-line"><span class="topo-inside">VRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
-<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRL</span></span>
-<span class="topo-line"><span class="topo-inside">ESKLDYQLRISRQY</span><span class="topo-membrane">FSYIPNIILPMLFILFISWTAFW</span><span class="topo-outside">STSYE</span><span class="topo-membrane">ANVTLVVSTLIAHIAFNI</span></span>
-<span class="topo-line"><span class="topo-membrane">LVET</span><span class="topo-inside">NLPKTPY</span><span class="topo-membrane">MTYTGAIIFMIYLFYFVAVIEVTV</span><span class="topo-outside">QHYLKVESQPARAASITRA</span><span class="topo-membrane">SRIAFP</span></span>
-<span class="topo-line"><span class="topo-membrane">VVFLLANIILAFLFF</span><span class="topo-unknown">GF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSGVRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRLESKLDYQLRISRQY</span><span class="topo-membrane">FSYIPNIILPMLFILFISWTAFW</span><span class="topo-outside">STSYE</span><span class="topo-membrane">ANVTLVVSTLIAHIAFNI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       </span>
+<span class="topo-line"><span class="topo-membrane">LVET</span><span class="topo-inside">NLPKTPY</span><span class="topo-membrane">MTYTGAIIFMIYLFYFVAVIEVTV</span><span class="topo-outside">QHYLKVESQPARAASITRA</span><span class="topo-membrane">SRIAFPVVFLLANIILAFLFF</span><span class="topo-unknown">GF</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -7264,6 +7401,7 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -7279,12 +7417,13 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSG</span></span>
-<span class="topo-line"><span class="topo-inside">VRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
-<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRL</span></span>
-<span class="topo-line"><span class="topo-inside">ESKLDYQLRISRQY</span><span class="topo-membrane">FSYIPNIILPMLFILFISWTAFW</span><span class="topo-outside">STSYE</span><span class="topo-membrane">ANVTLVVSTLIAHIAFNI</span></span>
-<span class="topo-line"><span class="topo-membrane">LVET</span><span class="topo-inside">NLPKTPY</span><span class="topo-membrane">MTYTGAIIFMIYLFYFVAVIEVTV</span><span class="topo-outside">QHYLKVESQPARAASITRA</span><span class="topo-membrane">SRIAFP</span></span>
-<span class="topo-line"><span class="topo-membrane">VVFLLANIILAFLFF</span><span class="topo-unknown">GF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSGVRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRLESKLDYQLRISRQY</span><span class="topo-membrane">FSYIPNIILPMLFILFISWTAFW</span><span class="topo-outside">STSYE</span><span class="topo-membrane">ANVTLVVSTLIAHIAFNI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       </span>
+<span class="topo-line"><span class="topo-membrane">LVET</span><span class="topo-inside">NLPKTPY</span><span class="topo-membrane">MTYTGAIIFMIYLFYFVAVIEVTV</span><span class="topo-outside">QHYLKVESQPARAASITRA</span><span class="topo-membrane">SRIAFPVVFLLANIILAFLFF</span><span class="topo-unknown">GF</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -7352,6 +7491,7 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -7367,12 +7507,13 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSG</span></span>
-<span class="topo-line"><span class="topo-inside">VRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
-<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRL</span></span>
-<span class="topo-line"><span class="topo-inside">ESKLDYQLRISRQY</span><span class="topo-membrane">FSYIPNIILPMLFILFISWTAFW</span><span class="topo-outside">STSYE</span><span class="topo-membrane">ANVTLVVSTLIAHIAFNI</span></span>
-<span class="topo-line"><span class="topo-membrane">LVET</span><span class="topo-inside">NLPKTPY</span><span class="topo-membrane">MTYTGAIIFMIYLFYFVAVIEVTV</span><span class="topo-outside">QHYLKVESQPARAASITRA</span><span class="topo-membrane">SRIAFP</span></span>
-<span class="topo-line"><span class="topo-membrane">VVFLLANIILAFLFF</span><span class="topo-unknown">GF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSGVRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRLESKLDYQLRISRQY</span><span class="topo-membrane">FSYIPNIILPMLFILFISWTAFW</span><span class="topo-outside">STSYE</span><span class="topo-membrane">ANVTLVVSTLIAHIAFNI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       </span>
+<span class="topo-line"><span class="topo-membrane">LVET</span><span class="topo-inside">NLPKTPY</span><span class="topo-membrane">MTYTGAIIFMIYLFYFVAVIEVTV</span><span class="topo-outside">QHYLKVESQPARAASITRA</span><span class="topo-membrane">SRIAFPVVFLLANIILAFLFF</span><span class="topo-unknown">GF</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -7440,6 +7581,7 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -7455,12 +7597,13 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSG</span></span>
-<span class="topo-line"><span class="topo-inside">VRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
-<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRL</span></span>
-<span class="topo-line"><span class="topo-inside">ESKLDYQLRISRQY</span><span class="topo-membrane">FSYIPNIILPMLFILFISWTAFW</span><span class="topo-outside">STSYE</span><span class="topo-membrane">ANVTLVVSTLIAHIAFNI</span></span>
-<span class="topo-line"><span class="topo-membrane">LVET</span><span class="topo-inside">NLPKTPY</span><span class="topo-membrane">MTYTGAIIFMIYLFYFVAVIEVT</span><span class="topo-outside">VQHYLKVESQPARAASITRA</span><span class="topo-membrane">SRIAFP</span></span>
-<span class="topo-line"><span class="topo-membrane">VVFLLANIILAFLFF</span><span class="topo-unknown">GF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSGVRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRLESKLDYQLRISRQY</span><span class="topo-membrane">FSYIPNIILPMLFILFISWTAFW</span><span class="topo-outside">STSYE</span><span class="topo-membrane">ANVTLVVSTLIAHIAFNI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       </span>
+<span class="topo-line"><span class="topo-membrane">LVET</span><span class="topo-inside">NLPKTPY</span><span class="topo-membrane">MTYTGAIIFMIYLFYFVAVIEVT</span><span class="topo-outside">VQHYLKVESQPARAASITRA</span><span class="topo-membrane">SRIAFPVVFLLANIILAFLFF</span><span class="topo-unknown">GF</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -7528,6 +7671,7 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -7543,12 +7687,13 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSG</span></span>
-<span class="topo-line"><span class="topo-inside">VRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
-<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRL</span></span>
-<span class="topo-line"><span class="topo-inside">ESKLDYQLRISRQY</span><span class="topo-membrane">FSYIPNIILPMLFILFISWTAFW</span><span class="topo-outside">STSYE</span><span class="topo-membrane">ANVTLVVSTLIAHIAFNI</span></span>
-<span class="topo-line"><span class="topo-membrane">LVET</span><span class="topo-inside">NLPKTPY</span><span class="topo-membrane">MTYTGAIIFMIYLFYFVAVIEVT</span><span class="topo-outside">VQHYLKVESQPARAASITRA</span><span class="topo-membrane">SRIAFP</span></span>
-<span class="topo-line"><span class="topo-membrane">VVFLLANIILAFLFF</span><span class="topo-unknown">GF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSGVRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRLESKLDYQLRISRQY</span><span class="topo-membrane">FSYIPNIILPMLFILFISWTAFW</span><span class="topo-outside">STSYE</span><span class="topo-membrane">ANVTLVVSTLIAHIAFNI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       </span>
+<span class="topo-line"><span class="topo-membrane">LVET</span><span class="topo-inside">NLPKTPY</span><span class="topo-membrane">MTYTGAIIFMIYLFYFVAVIEVT</span><span class="topo-outside">VQHYLKVESQPARAASITRA</span><span class="topo-membrane">SRIAFPVVFLLANIILAFLFF</span><span class="topo-unknown">GF</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -7616,6 +7761,7 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -7631,12 +7777,13 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSG</span></span>
-<span class="topo-line"><span class="topo-inside">VRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
-<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRL</span></span>
-<span class="topo-line"><span class="topo-inside">ESKLDYQLRISRQY</span><span class="topo-membrane">FSYIPNIILPMLFILFISWTAFW</span><span class="topo-outside">STSYE</span><span class="topo-membrane">ANVTLVVSTLIAHIAFNI</span></span>
-<span class="topo-line"><span class="topo-membrane">LVET</span><span class="topo-inside">NLPKTPY</span><span class="topo-membrane">MTYTGAIIFMIYLFYFVAVIEVTV</span><span class="topo-outside">QHYLKVESQPARAASITRA</span><span class="topo-membrane">SRIAFP</span></span>
-<span class="topo-line"><span class="topo-membrane">VVFLLANIILAFLFF</span><span class="topo-unknown">GF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSGVRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRLESKLDYQLRISRQY</span><span class="topo-membrane">FSYIPNIILPMLFILFISWTAFW</span><span class="topo-outside">STSYE</span><span class="topo-membrane">ANVTLVVSTLIAHIAFNI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       </span>
+<span class="topo-line"><span class="topo-membrane">LVET</span><span class="topo-inside">NLPKTPY</span><span class="topo-membrane">MTYTGAIIFMIYLFYFVAVIEVTV</span><span class="topo-outside">QHYLKVESQPARAASITRA</span><span class="topo-membrane">SRIAFPVVFLLANIILAFLFF</span><span class="topo-unknown">GF</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -7704,6 +7851,7 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -7719,12 +7867,13 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSG</span></span>
-<span class="topo-line"><span class="topo-inside">VRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
-<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRL</span></span>
-<span class="topo-line"><span class="topo-inside">ESKLDYQLRISRQY</span><span class="topo-membrane">FSYIPNIILPMLFILFISWTAFW</span><span class="topo-outside">STSYE</span><span class="topo-membrane">ANVTLVVSTLIAHIAFNI</span></span>
-<span class="topo-line"><span class="topo-membrane">LVET</span><span class="topo-inside">NLPKTPY</span><span class="topo-membrane">MTYTGAIIFMIYLFYFVAVIEVTV</span><span class="topo-outside">QHYLKVESQPARAASITRA</span><span class="topo-membrane">SRIAFP</span></span>
-<span class="topo-line"><span class="topo-membrane">VVFLLANIILAFLFF</span><span class="topo-unknown">GF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSGVRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRLESKLDYQLRISRQY</span><span class="topo-membrane">FSYIPNIILPMLFILFISWTAFW</span><span class="topo-outside">STSYE</span><span class="topo-membrane">ANVTLVVSTLIAHIAFNI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       </span>
+<span class="topo-line"><span class="topo-membrane">LVET</span><span class="topo-inside">NLPKTPY</span><span class="topo-membrane">MTYTGAIIFMIYLFYFVAVIEVTV</span><span class="topo-outside">QHYLKVESQPARAASITRA</span><span class="topo-membrane">SRIAFPVVFLLANIILAFLFF</span><span class="topo-unknown">GF</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -7792,6 +7941,7 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -7807,12 +7957,13 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSG</span></span>
-<span class="topo-line"><span class="topo-inside">VRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
-<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRL</span></span>
-<span class="topo-line"><span class="topo-inside">ESKLDYQLRISRQY</span><span class="topo-membrane">FSYIPNIILPMLFILFISWTAFW</span><span class="topo-outside">STSYE</span><span class="topo-membrane">ANVTLVVSTLIAHIAFNI</span></span>
-<span class="topo-line"><span class="topo-membrane">LVET</span><span class="topo-inside">NLPKTPY</span><span class="topo-membrane">MTYTGAIIFMIYLFYFVAVIEVTV</span><span class="topo-outside">QHYLKVESQPARAASITRA</span><span class="topo-membrane">SRIAFP</span></span>
-<span class="topo-line"><span class="topo-membrane">VVFLLANIILAFLFF</span><span class="topo-unknown">GF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSGVRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRLESKLDYQLRISRQY</span><span class="topo-membrane">FSYIPNIILPMLFILFISWTAFW</span><span class="topo-outside">STSYE</span><span class="topo-membrane">ANVTLVVSTLIAHIAFNI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       </span>
+<span class="topo-line"><span class="topo-membrane">LVET</span><span class="topo-inside">NLPKTPY</span><span class="topo-membrane">MTYTGAIIFMIYLFYFVAVIEVTV</span><span class="topo-outside">QHYLKVESQPARAASITRA</span><span class="topo-membrane">SRIAFPVVFLLANIILAFLFF</span><span class="topo-unknown">GF</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -7880,6 +8031,7 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -7895,12 +8047,13 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSG</span></span>
-<span class="topo-line"><span class="topo-inside">VRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
-<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRL</span></span>
-<span class="topo-line"><span class="topo-inside">ESKLDYQLRISRQY</span><span class="topo-membrane">FSYIPNIILPMLFILFISWTAFW</span><span class="topo-outside">STSYE</span><span class="topo-membrane">ANVTLVVSTLIAHIAFNI</span></span>
-<span class="topo-line"><span class="topo-membrane">LVET</span><span class="topo-inside">NLPKTPY</span><span class="topo-membrane">MTYTGAIIFMIYLFYFVAVIEVT</span><span class="topo-outside">VQHYLKVESQPARAASITRA</span><span class="topo-membrane">SRIAFP</span></span>
-<span class="topo-line"><span class="topo-membrane">VVFLLANIILAFLFF</span><span class="topo-unknown">GF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSGVRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRLESKLDYQLRISRQY</span><span class="topo-membrane">FSYIPNIILPMLFILFISWTAFW</span><span class="topo-outside">STSYE</span><span class="topo-membrane">ANVTLVVSTLIAHIAFNI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       </span>
+<span class="topo-line"><span class="topo-membrane">LVET</span><span class="topo-inside">NLPKTPY</span><span class="topo-membrane">MTYTGAIIFMIYLFYFVAVIEVT</span><span class="topo-outside">VQHYLKVESQPARAASITRA</span><span class="topo-membrane">SRIAFPVVFLLANIILAFLFF</span><span class="topo-unknown">GF</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -7968,6 +8121,7 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -7983,12 +8137,13 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSG</span></span>
-<span class="topo-line"><span class="topo-inside">VRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
-<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRL</span></span>
-<span class="topo-line"><span class="topo-inside">ESKLDYQLRISRQY</span><span class="topo-membrane">FSYIPNIILPMLFILFISWTAFW</span><span class="topo-outside">STSYE</span><span class="topo-membrane">ANVTLVVSTLIAHIAFNI</span></span>
-<span class="topo-line"><span class="topo-membrane">LVET</span><span class="topo-inside">NLPKTPY</span><span class="topo-membrane">MTYTGAIIFMIYLFYFVAVIEVT</span><span class="topo-outside">VQHYLKVESQPARAASITRA</span><span class="topo-membrane">SRIAFP</span></span>
-<span class="topo-line"><span class="topo-membrane">VVFLLANIILAFLFF</span><span class="topo-unknown">GF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSGVRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRLESKLDYQLRISRQY</span><span class="topo-membrane">FSYIPNIILPMLFILFISWTAFW</span><span class="topo-outside">STSYE</span><span class="topo-membrane">ANVTLVVSTLIAHIAFNI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       </span>
+<span class="topo-line"><span class="topo-membrane">LVET</span><span class="topo-inside">NLPKTPY</span><span class="topo-membrane">MTYTGAIIFMIYLFYFVAVIEVT</span><span class="topo-outside">VQHYLKVESQPARAASITRA</span><span class="topo-membrane">SRIAFPVVFLLANIILAFLFF</span><span class="topo-unknown">GF</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -8056,6 +8211,7 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -8071,12 +8227,13 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSG</span></span>
-<span class="topo-line"><span class="topo-inside">VRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
-<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRL</span></span>
-<span class="topo-line"><span class="topo-inside">ESKLDYQLRISRQY</span><span class="topo-membrane">FSYIPNIILPMLFILFISWTAFW</span><span class="topo-outside">STSYE</span><span class="topo-membrane">ANVTLVVSTLIAHIAFNI</span></span>
-<span class="topo-line"><span class="topo-membrane">LVET</span><span class="topo-inside">NLPKTPY</span><span class="topo-membrane">MTYTGAIIFMIYLFYFVAVIEVTV</span><span class="topo-outside">QHYLKVESQPARAASITRA</span><span class="topo-membrane">SRIAFP</span></span>
-<span class="topo-line"><span class="topo-membrane">VVFLLANIILAFLFF</span><span class="topo-unknown">GF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSGVRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRLESKLDYQLRISRQY</span><span class="topo-membrane">FSYIPNIILPMLFILFISWTAFW</span><span class="topo-outside">STSYE</span><span class="topo-membrane">ANVTLVVSTLIAHIAFNI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       </span>
+<span class="topo-line"><span class="topo-membrane">LVET</span><span class="topo-inside">NLPKTPY</span><span class="topo-membrane">MTYTGAIIFMIYLFYFVAVIEVTV</span><span class="topo-outside">QHYLKVESQPARAASITRA</span><span class="topo-membrane">SRIAFPVVFLLANIILAFLFF</span><span class="topo-unknown">GF</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -8144,6 +8301,7 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -8159,12 +8317,13 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSG</span></span>
-<span class="topo-line"><span class="topo-inside">VRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
-<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRL</span></span>
-<span class="topo-line"><span class="topo-inside">ESKLDYQLRISRQY</span><span class="topo-membrane">FSYIPNIILPMLFILFISWTAFW</span><span class="topo-outside">STSYE</span><span class="topo-membrane">ANVTLVVSTLIAHIAFNI</span></span>
-<span class="topo-line"><span class="topo-membrane">LVET</span><span class="topo-inside">NLPKTPY</span><span class="topo-membrane">MTYTGAIIFMIYLFYFVAVIEVTV</span><span class="topo-outside">QHYLKVESQPARAASITRA</span><span class="topo-membrane">SRIAFP</span></span>
-<span class="topo-line"><span class="topo-membrane">VVFLLANIILAFLFF</span><span class="topo-unknown">GF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSGVRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRLESKLDYQLRISRQY</span><span class="topo-membrane">FSYIPNIILPMLFILFISWTAFW</span><span class="topo-outside">STSYE</span><span class="topo-membrane">ANVTLVVSTLIAHIAFNI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       </span>
+<span class="topo-line"><span class="topo-membrane">LVET</span><span class="topo-inside">NLPKTPY</span><span class="topo-membrane">MTYTGAIIFMIYLFYFVAVIEVTV</span><span class="topo-outside">QHYLKVESQPARAASITRA</span><span class="topo-membrane">SRIAFPVVFLLANIILAFLFF</span><span class="topo-unknown">GF</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -8232,6 +8391,7 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -8297,12 +8457,13 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIESYSLDDCAETFKVNAFLSLSWKDRRLAFDPVRSG</span></span>
-<span class="topo-line"><span class="topo-inside">VRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
-<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRL</span></span>
-<span class="topo-line"><span class="topo-inside">ESKLDYQLRISRQYFSYIPNII</span><span class="topo-membrane">LPMLFILFISWTAFWS</span><span class="topo-outside">TSY</span><span class="topo-membrane">EANVTLVVSTLIAHIAFN</span><span class="topo-inside">I</span></span>
-<span class="topo-line"><span class="topo-inside">LVETNCPKTPYMTYTGAI</span><span class="topo-membrane">IFMIYLFYFVAVIEVTVQ</span><span class="topo-outside">HYLKVESQPARAASI</span><span class="topo-membrane">TRASRIAFP</span></span>
-<span class="topo-line"><span class="topo-membrane">VVFLLANIIL</span><span class="topo-inside">AFLFF</span><span class="topo-unknown">GF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIESYSLDDCAETFKVNAFLSLSWKDRRLAFDPVRSGVRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRLESKLDYQLRISRQYFSYIPNII</span><span class="topo-membrane">LPMLFILFISWTAFWS</span><span class="topo-outside">TSY</span><span class="topo-membrane">EANVTLVVSTLIAHIAFN</span><span class="topo-inside">I</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       </span>
+<span class="topo-line"><span class="topo-inside">LVETNCPKTPYMTYTGAI</span><span class="topo-membrane">IFMIYLFYFVAVIEVTVQ</span><span class="topo-outside">HYLKVESQPARAASI</span><span class="topo-membrane">TRASRIAFPVVFLLANIIL</span><span class="topo-inside">AFLFF</span><span class="topo-unknown">GF</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -8377,6 +8538,7 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -8392,12 +8554,13 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIESYSLDDCAETFKVNAFLSLSWKDRRLAFDPVRSG</span></span>
-<span class="topo-line"><span class="topo-inside">VRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
-<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRL</span></span>
-<span class="topo-line"><span class="topo-inside">ESKLDYQLRISRQYFSYIPNII</span><span class="topo-membrane">LPMLFILFISWTAFWS</span><span class="topo-outside">TSY</span><span class="topo-membrane">EANVTLVVSTLIAHIAFN</span><span class="topo-inside">I</span></span>
-<span class="topo-line"><span class="topo-inside">LVETNCPKTPYMTYTGAI</span><span class="topo-membrane">IFMIYLFYFVAVIEVTV</span><span class="topo-outside">QHYLKVESQPARAASI</span><span class="topo-membrane">TRASRIAFP</span></span>
-<span class="topo-line"><span class="topo-membrane">VVFLLANIIL</span><span class="topo-inside">AFLFF</span><span class="topo-unknown">GF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIESYSLDDCAETFKVNAFLSLSWKDRRLAFDPVRSGVRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRLESKLDYQLRISRQYFSYIPNII</span><span class="topo-membrane">LPMLFILFISWTAFWS</span><span class="topo-outside">TSY</span><span class="topo-membrane">EANVTLVVSTLIAHIAFN</span><span class="topo-inside">I</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       </span>
+<span class="topo-line"><span class="topo-inside">LVETNCPKTPYMTYTGAI</span><span class="topo-membrane">IFMIYLFYFVAVIEVTV</span><span class="topo-outside">QHYLKVESQPARAASI</span><span class="topo-membrane">TRASRIAFPVVFLLANIIL</span><span class="topo-inside">AFLFF</span><span class="topo-unknown">GF</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -8472,6 +8635,7 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -8487,12 +8651,13 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIESYSLDDCAETFKVNAFLSLSWKDRRLAFDPVRSG</span></span>
-<span class="topo-line"><span class="topo-inside">VRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
-<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRL</span></span>
-<span class="topo-line"><span class="topo-inside">ESKLDYQLRISRQYFSYIPNII</span><span class="topo-membrane">LPMLFILFISWTAFWS</span><span class="topo-outside">TSY</span><span class="topo-membrane">EANVTLVVSTLIAHIAFN</span><span class="topo-inside">I</span></span>
-<span class="topo-line"><span class="topo-inside">LVETNCPKTPYMTYTGAI</span><span class="topo-membrane">IFMIYLFYFVAVIEVTV</span><span class="topo-outside">QHYLKVESQPARAASI</span><span class="topo-membrane">TRASRIAFP</span></span>
-<span class="topo-line"><span class="topo-membrane">VVFLLANIIL</span><span class="topo-inside">AFLFF</span><span class="topo-unknown">GF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIESYSLDDCAETFKVNAFLSLSWKDRRLAFDPVRSGVRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRLESKLDYQLRISRQYFSYIPNII</span><span class="topo-membrane">LPMLFILFISWTAFWS</span><span class="topo-outside">TSY</span><span class="topo-membrane">EANVTLVVSTLIAHIAFN</span><span class="topo-inside">I</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       </span>
+<span class="topo-line"><span class="topo-inside">LVETNCPKTPYMTYTGAI</span><span class="topo-membrane">IFMIYLFYFVAVIEVTV</span><span class="topo-outside">QHYLKVESQPARAASI</span><span class="topo-membrane">TRASRIAFPVVFLLANIIL</span><span class="topo-inside">AFLFF</span><span class="topo-unknown">GF</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -8567,6 +8732,7 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -8582,12 +8748,13 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIESYSLDDCAETFKVNAFLSLSWKDRRLAFDPVRSG</span></span>
-<span class="topo-line"><span class="topo-inside">VRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
-<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRL</span></span>
-<span class="topo-line"><span class="topo-inside">ESKLDYQLRISRQYFSYIPNII</span><span class="topo-membrane">LPMLFILFISWTAFWS</span><span class="topo-outside">TSY</span><span class="topo-membrane">EANVTLVVSTLIAHIAFN</span><span class="topo-inside">I</span></span>
-<span class="topo-line"><span class="topo-inside">LVETNCPKTPYMTYTGAI</span><span class="topo-membrane">IFMIYLFYFVAVIEVTVQ</span><span class="topo-outside">HYLKVESQPARAASI</span><span class="topo-membrane">TRASRIAFP</span></span>
-<span class="topo-line"><span class="topo-membrane">VVFLLANIIL</span><span class="topo-inside">AFLFF</span><span class="topo-unknown">GF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIESYSLDDCAETFKVNAFLSLSWKDRRLAFDPVRSGVRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRLESKLDYQLRISRQYFSYIPNII</span><span class="topo-membrane">LPMLFILFISWTAFWS</span><span class="topo-outside">TSY</span><span class="topo-membrane">EANVTLVVSTLIAHIAFN</span><span class="topo-inside">I</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       </span>
+<span class="topo-line"><span class="topo-inside">LVETNCPKTPYMTYTGAI</span><span class="topo-membrane">IFMIYLFYFVAVIEVTVQ</span><span class="topo-outside">HYLKVESQPARAASI</span><span class="topo-membrane">TRASRIAFPVVFLLANIIL</span><span class="topo-inside">AFLFF</span><span class="topo-unknown">GF</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -8662,6 +8829,7 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -8677,12 +8845,13 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIESYSLDDCAETFKVNAFLSLSWKDRRLAFDPVRSG</span></span>
-<span class="topo-line"><span class="topo-inside">VRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
-<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRL</span></span>
-<span class="topo-line"><span class="topo-inside">ESKLDYQLRISRQYFSYIPNII</span><span class="topo-membrane">LPMLFILFISWTAFWS</span><span class="topo-outside">TSY</span><span class="topo-membrane">EANVTLVVSTLIAHIAFN</span><span class="topo-inside">I</span></span>
-<span class="topo-line"><span class="topo-inside">LVETNCPKTPYMTYTGAI</span><span class="topo-membrane">IFMIYLFYFVAVIEVTVQ</span><span class="topo-outside">HYLKVESQPARAASI</span><span class="topo-membrane">TRASRIAFP</span></span>
-<span class="topo-line"><span class="topo-membrane">VVFLLANIIL</span><span class="topo-inside">AFLFF</span><span class="topo-unknown">GF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIESYSLDDCAETFKVNAFLSLSWKDRRLAFDPVRSGVRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRLESKLDYQLRISRQYFSYIPNII</span><span class="topo-membrane">LPMLFILFISWTAFWS</span><span class="topo-outside">TSY</span><span class="topo-membrane">EANVTLVVSTLIAHIAFN</span><span class="topo-inside">I</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       </span>
+<span class="topo-line"><span class="topo-inside">LVETNCPKTPYMTYTGAI</span><span class="topo-membrane">IFMIYLFYFVAVIEVTVQ</span><span class="topo-outside">HYLKVESQPARAASI</span><span class="topo-membrane">TRASRIAFPVVFLLANIIL</span><span class="topo-inside">AFLFF</span><span class="topo-unknown">GF</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -8757,6 +8926,7 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -8772,12 +8942,13 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIESYSLDDCAETFKVNAFLSLSWKDRRLAFDPVRSG</span></span>
-<span class="topo-line"><span class="topo-inside">VRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
-<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRL</span></span>
-<span class="topo-line"><span class="topo-inside">ESKLDYQLRISRQYFSYI</span><span class="topo-membrane">PNIILPMLFILFISWTAF</span><span class="topo-outside">WSTSYEA</span><span class="topo-membrane">NVTLVVSTLIAHIAFNI</span></span>
-<span class="topo-line"><span class="topo-membrane">LV</span><span class="topo-inside">ETNCPKTPYMTY</span><span class="topo-membrane">TGAIIFMIYLFYFVAVIEVT</span><span class="topo-outside">VQHYLKVESQPARAASITRA</span><span class="topo-membrane">SRIAFP</span></span>
-<span class="topo-line"><span class="topo-membrane">VVFLLANIILAFL</span><span class="topo-inside">FF</span><span class="topo-unknown">GF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIESYSLDDCAETFKVNAFLSLSWKDRRLAFDPVRSGVRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRLESKLDYQLRISRQYFSYI</span><span class="topo-membrane">PNIILPMLFILFISWTAF</span><span class="topo-outside">WSTSYEA</span><span class="topo-membrane">NVTLVVSTLIAHIAFNI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       </span>
+<span class="topo-line"><span class="topo-membrane">LV</span><span class="topo-inside">ETNCPKTPYMTY</span><span class="topo-membrane">TGAIIFMIYLFYFVAVIEVT</span><span class="topo-outside">VQHYLKVESQPARAASITRA</span><span class="topo-membrane">SRIAFPVVFLLANIILAFL</span><span class="topo-inside">FF</span><span class="topo-unknown">GF</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -8852,6 +9023,7 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -8867,12 +9039,13 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIESYSLDDCAETFKVNAFLSLSWKDRRLAFDPVRSG</span></span>
-<span class="topo-line"><span class="topo-inside">VRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
-<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRL</span></span>
-<span class="topo-line"><span class="topo-inside">ESKLDYQLRISRQYFSYI</span><span class="topo-membrane">PNIILPMLFILFISWTAF</span><span class="topo-outside">WSTSYEA</span><span class="topo-membrane">NVTLVVSTLIAHIAFNI</span></span>
-<span class="topo-line"><span class="topo-membrane">LV</span><span class="topo-inside">ETNCPKTPYMTYT</span><span class="topo-membrane">GAIIFMIYLFYFVAVIEVT</span><span class="topo-outside">VQHYLKVESQPARAASITRA</span><span class="topo-membrane">SRIAFP</span></span>
-<span class="topo-line"><span class="topo-membrane">VVFLLANIILAFL</span><span class="topo-inside">FF</span><span class="topo-unknown">GF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIESYSLDDCAETFKVNAFLSLSWKDRRLAFDPVRSGVRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRLESKLDYQLRISRQYFSYI</span><span class="topo-membrane">PNIILPMLFILFISWTAF</span><span class="topo-outside">WSTSYEA</span><span class="topo-membrane">NVTLVVSTLIAHIAFNI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       </span>
+<span class="topo-line"><span class="topo-membrane">LV</span><span class="topo-inside">ETNCPKTPYMTYT</span><span class="topo-membrane">GAIIFMIYLFYFVAVIEVT</span><span class="topo-outside">VQHYLKVESQPARAASITRA</span><span class="topo-membrane">SRIAFPVVFLLANIILAFL</span><span class="topo-inside">FF</span><span class="topo-unknown">GF</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -8947,6 +9120,7 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -8962,12 +9136,13 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIESYSLDDCAETFKVNAFLSLSWKDRRLAFDPVRSG</span></span>
-<span class="topo-line"><span class="topo-inside">VRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
-<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRL</span></span>
-<span class="topo-line"><span class="topo-inside">ESKLDYQLRISRQYFSYI</span><span class="topo-membrane">PNIILPMLFILFISWTAF</span><span class="topo-outside">WSTSYEA</span><span class="topo-membrane">NVTLVVSTLIAHIAFNI</span></span>
-<span class="topo-line"><span class="topo-membrane">LV</span><span class="topo-inside">ETNCPKTPYMTYT</span><span class="topo-membrane">GAIIFMIYLFYFVAVIEVT</span><span class="topo-outside">VQHYLKVESQPARAASITRA</span><span class="topo-membrane">SRIAFP</span></span>
-<span class="topo-line"><span class="topo-membrane">VVFLLANIILAFL</span><span class="topo-inside">FF</span><span class="topo-unknown">GF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIESYSLDDCAETFKVNAFLSLSWKDRRLAFDPVRSGVRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRLESKLDYQLRISRQYFSYI</span><span class="topo-membrane">PNIILPMLFILFISWTAF</span><span class="topo-outside">WSTSYEA</span><span class="topo-membrane">NVTLVVSTLIAHIAFNI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       </span>
+<span class="topo-line"><span class="topo-membrane">LV</span><span class="topo-inside">ETNCPKTPYMTYT</span><span class="topo-membrane">GAIIFMIYLFYFVAVIEVT</span><span class="topo-outside">VQHYLKVESQPARAASITRA</span><span class="topo-membrane">SRIAFPVVFLLANIILAFL</span><span class="topo-inside">FF</span><span class="topo-unknown">GF</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -9042,6 +9217,7 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -9057,12 +9233,13 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIESYSLDDCAETFKVNAFLSLSWKDRRLAFDPVRSG</span></span>
-<span class="topo-line"><span class="topo-inside">VRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
-<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRL</span></span>
-<span class="topo-line"><span class="topo-inside">ESKLDYQLRISRQYFSYI</span><span class="topo-membrane">PNIILPMLFILFISWTAF</span><span class="topo-outside">WSTSYEA</span><span class="topo-membrane">NVTLVVSTLIAHIAFNI</span></span>
-<span class="topo-line"><span class="topo-membrane">LV</span><span class="topo-inside">ETNCPKTPYMTYT</span><span class="topo-membrane">GAIIFMIYLFYFVAVIEVTV</span><span class="topo-outside">QHYLKVESQPARAASITRA</span><span class="topo-membrane">SRIAFP</span></span>
-<span class="topo-line"><span class="topo-membrane">VVFLLANIILAFL</span><span class="topo-inside">FF</span><span class="topo-unknown">GF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIESYSLDDCAETFKVNAFLSLSWKDRRLAFDPVRSGVRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRLESKLDYQLRISRQYFSYI</span><span class="topo-membrane">PNIILPMLFILFISWTAF</span><span class="topo-outside">WSTSYEA</span><span class="topo-membrane">NVTLVVSTLIAHIAFNI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       </span>
+<span class="topo-line"><span class="topo-membrane">LV</span><span class="topo-inside">ETNCPKTPYMTYT</span><span class="topo-membrane">GAIIFMIYLFYFVAVIEVTV</span><span class="topo-outside">QHYLKVESQPARAASITRA</span><span class="topo-membrane">SRIAFPVVFLLANIILAFL</span><span class="topo-inside">FF</span><span class="topo-unknown">GF</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -9137,6 +9314,7 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -9152,12 +9330,13 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIESYSLDDCAETFKVNAFLSLSWKDRRLAFDPVRSG</span></span>
-<span class="topo-line"><span class="topo-inside">VRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
-<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRL</span></span>
-<span class="topo-line"><span class="topo-inside">ESKLDYQLRISRQYFSYI</span><span class="topo-membrane">PNIILPMLFILFISWTAF</span><span class="topo-outside">WSTSYEA</span><span class="topo-membrane">NVTLVVSTLIAHIAFNI</span></span>
-<span class="topo-line"><span class="topo-membrane">LV</span><span class="topo-inside">ETNCPKTPYMTY</span><span class="topo-membrane">TGAIIFMIYLFYFVAVIEVT</span><span class="topo-outside">VQHYLKVESQPARAASITRA</span><span class="topo-membrane">SRIAFP</span></span>
-<span class="topo-line"><span class="topo-membrane">VVFLLANIILAFL</span><span class="topo-inside">FF</span><span class="topo-unknown">GF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIESYSLDDCAETFKVNAFLSLSWKDRRLAFDPVRSGVRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRLESKLDYQLRISRQYFSYI</span><span class="topo-membrane">PNIILPMLFILFISWTAF</span><span class="topo-outside">WSTSYEA</span><span class="topo-membrane">NVTLVVSTLIAHIAFNI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       </span>
+<span class="topo-line"><span class="topo-membrane">LV</span><span class="topo-inside">ETNCPKTPYMTY</span><span class="topo-membrane">TGAIIFMIYLFYFVAVIEVT</span><span class="topo-outside">VQHYLKVESQPARAASITRA</span><span class="topo-membrane">SRIAFPVVFLLANIILAFL</span><span class="topo-inside">FF</span><span class="topo-unknown">GF</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -9232,6 +9411,7 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -9247,12 +9427,13 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIESYSLDDCAETFKVNAFLSLSWKDRRLAFDPVRSG</span></span>
-<span class="topo-line"><span class="topo-inside">VRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
-<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRL</span></span>
-<span class="topo-line"><span class="topo-inside">ESKLDYQLRISRQYFSYI</span><span class="topo-membrane">PNIILPMLFILFISWTAFWS</span><span class="topo-outside">TSY</span><span class="topo-membrane">EANVTLVVSTLIAHIAFNI</span></span>
-<span class="topo-line"><span class="topo-membrane">LV</span><span class="topo-inside">ETNCPKTPYMTYT</span><span class="topo-membrane">GAIIFMIYLFYFVAVIEVTV</span><span class="topo-outside">QHYLKVESQPARAASI</span><span class="topo-membrane">TRASRIAFP</span></span>
-<span class="topo-line"><span class="topo-membrane">VVFLLANIILAFL</span><span class="topo-inside">FF</span><span class="topo-unknown">GF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIESYSLDDCAETFKVNAFLSLSWKDRRLAFDPVRSGVRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRLESKLDYQLRISRQYFSYI</span><span class="topo-membrane">PNIILPMLFILFISWTAFWS</span><span class="topo-outside">TSY</span><span class="topo-membrane">EANVTLVVSTLIAHIAFNI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       </span>
+<span class="topo-line"><span class="topo-membrane">LV</span><span class="topo-inside">ETNCPKTPYMTYT</span><span class="topo-membrane">GAIIFMIYLFYFVAVIEVTV</span><span class="topo-outside">QHYLKVESQPARAASI</span><span class="topo-membrane">TRASRIAFPVVFLLANIILAFL</span><span class="topo-inside">FF</span><span class="topo-unknown">GF</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -9327,6 +9508,7 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -9342,12 +9524,13 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIESYSLDDCAETFKVNAFLSLSWKDRRLAFDPVRSG</span></span>
-<span class="topo-line"><span class="topo-inside">VRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
-<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRL</span></span>
-<span class="topo-line"><span class="topo-inside">ESKLDYQLRISRQYFSYI</span><span class="topo-membrane">PNIILPMLFILFISWTAFWS</span><span class="topo-outside">TSY</span><span class="topo-membrane">EANVTLVVSTLIAHIAFNI</span></span>
-<span class="topo-line"><span class="topo-membrane">LV</span><span class="topo-inside">ETNCPKTPYMTYT</span><span class="topo-membrane">GAIIFMIYLFYFVAVIEVTV</span><span class="topo-outside">QHYLKVESQPARAASI</span><span class="topo-membrane">TRASRIAFP</span></span>
-<span class="topo-line"><span class="topo-membrane">VVFLLANIILAFL</span><span class="topo-inside">FF</span><span class="topo-unknown">GF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIESYSLDDCAETFKVNAFLSLSWKDRRLAFDPVRSGVRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRLESKLDYQLRISRQYFSYI</span><span class="topo-membrane">PNIILPMLFILFISWTAFWS</span><span class="topo-outside">TSY</span><span class="topo-membrane">EANVTLVVSTLIAHIAFNI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       </span>
+<span class="topo-line"><span class="topo-membrane">LV</span><span class="topo-inside">ETNCPKTPYMTYT</span><span class="topo-membrane">GAIIFMIYLFYFVAVIEVTV</span><span class="topo-outside">QHYLKVESQPARAASI</span><span class="topo-membrane">TRASRIAFPVVFLLANIILAFL</span><span class="topo-inside">FF</span><span class="topo-unknown">GF</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -9422,6 +9605,7 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -9437,12 +9621,13 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIESYSLDDCAETFKVNAFLSLSWKDRRLAFDPVRSG</span></span>
-<span class="topo-line"><span class="topo-inside">VRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
-<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRL</span></span>
-<span class="topo-line"><span class="topo-inside">ESKLDYQLRISRQYFSYI</span><span class="topo-membrane">PNIILPMLFILFISWTAFWS</span><span class="topo-outside">TSY</span><span class="topo-membrane">EANVTLVVSTLIAHIAFNI</span></span>
-<span class="topo-line"><span class="topo-membrane">LV</span><span class="topo-inside">ETNCPKTPYMTYT</span><span class="topo-membrane">GAIIFMIYLFYFVAVIEVTV</span><span class="topo-outside">QHYLKVESQPARAASI</span><span class="topo-membrane">TRASRIAFP</span></span>
-<span class="topo-line"><span class="topo-membrane">VVFLLANIILAFL</span><span class="topo-inside">FF</span><span class="topo-unknown">GF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIESYSLDDCAETFKVNAFLSLSWKDRRLAFDPVRSGVRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRLESKLDYQLRISRQYFSYI</span><span class="topo-membrane">PNIILPMLFILFISWTAFWS</span><span class="topo-outside">TSY</span><span class="topo-membrane">EANVTLVVSTLIAHIAFNI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       </span>
+<span class="topo-line"><span class="topo-membrane">LV</span><span class="topo-inside">ETNCPKTPYMTYT</span><span class="topo-membrane">GAIIFMIYLFYFVAVIEVTV</span><span class="topo-outside">QHYLKVESQPARAASI</span><span class="topo-membrane">TRASRIAFPVVFLLANIILAFL</span><span class="topo-inside">FF</span><span class="topo-unknown">GF</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -9517,6 +9702,7 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -9532,12 +9718,13 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIESYSLDDCAETFKVNAFLSLSWKDRRLAFDPVRSG</span></span>
-<span class="topo-line"><span class="topo-inside">VRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
-<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRL</span></span>
-<span class="topo-line"><span class="topo-inside">ESKLDYQLRISRQYFSYI</span><span class="topo-membrane">PNIILPMLFILFISWTAFWS</span><span class="topo-outside">TSY</span><span class="topo-membrane">EANVTLVVSTLIAHIAFNI</span></span>
-<span class="topo-line"><span class="topo-membrane">LV</span><span class="topo-inside">ETNCPKTPYMTYT</span><span class="topo-membrane">GAIIFMIYLFYFVAVIEVTV</span><span class="topo-outside">QHYLKVESQPARAASI</span><span class="topo-membrane">TRASRIAFP</span></span>
-<span class="topo-line"><span class="topo-membrane">VVFLLANIILAFL</span><span class="topo-inside">FF</span><span class="topo-unknown">GF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIESYSLDDCAETFKVNAFLSLSWKDRRLAFDPVRSGVRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRLESKLDYQLRISRQYFSYI</span><span class="topo-membrane">PNIILPMLFILFISWTAFWS</span><span class="topo-outside">TSY</span><span class="topo-membrane">EANVTLVVSTLIAHIAFNI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       </span>
+<span class="topo-line"><span class="topo-membrane">LV</span><span class="topo-inside">ETNCPKTPYMTYT</span><span class="topo-membrane">GAIIFMIYLFYFVAVIEVTV</span><span class="topo-outside">QHYLKVESQPARAASI</span><span class="topo-membrane">TRASRIAFPVVFLLANIILAFL</span><span class="topo-inside">FF</span><span class="topo-unknown">GF</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -9612,6 +9799,7 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -9627,12 +9815,13 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIESYSLDDCAETFKVNAFLSLSWKDRRLAFDPVRSG</span></span>
-<span class="topo-line"><span class="topo-inside">VRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
-<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRL</span></span>
-<span class="topo-line"><span class="topo-inside">ESKLDYQLRISRQYFSYI</span><span class="topo-membrane">PNIILPMLFILFISWTAFWS</span><span class="topo-outside">TSY</span><span class="topo-membrane">EANVTLVVSTLIAHIAFNI</span></span>
-<span class="topo-line"><span class="topo-membrane">LV</span><span class="topo-inside">ETNCPKTPYMTYT</span><span class="topo-membrane">GAIIFMIYLFYFVAVIEVTV</span><span class="topo-outside">QHYLKVESQPARAASI</span><span class="topo-membrane">TRASRIAFP</span></span>
-<span class="topo-line"><span class="topo-membrane">VVFLLANIILAFL</span><span class="topo-inside">FF</span><span class="topo-unknown">GF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GQDM</span><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIESYSLDDCAETFKVNAFLSLSWKDRRLAFDPVRSGVRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FDSQTLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRLESKLDYQLRISRQYFSYI</span><span class="topo-membrane">PNIILPMLFILFISWTAFWS</span><span class="topo-outside">TSY</span><span class="topo-membrane">EANVTLVVSTLIAHIAFNI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       </span>
+<span class="topo-line"><span class="topo-membrane">LV</span><span class="topo-inside">ETNCPKTPYMTYT</span><span class="topo-membrane">GAIIFMIYLFYFVAVIEVTV</span><span class="topo-outside">QHYLKVESQPARAASI</span><span class="topo-membrane">TRASRIAFPVVFLLANIILAFL</span><span class="topo-inside">FF</span><span class="topo-unknown">GF</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -9707,6 +9896,7 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -9853,12 +10043,13 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSGVRVK</span></span>
-<span class="topo-line"><span class="topo-inside">TYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYPFDSQ</span></span>
-<span class="topo-line"><span class="topo-inside">TLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRLESKL</span></span>
-<span class="topo-line"><span class="topo-inside">DYQLRISRQYFSYI</span><span class="topo-membrane">PNIILPMLFILFISWTA</span><span class="topo-outside">FWSTSYEAN</span><span class="topo-membrane">VTLVVSTLIAHIAFNI</span><span class="topo-inside">LVET</span></span>
-<span class="topo-line"><span class="topo-inside">NLPKTPYMTYT</span><span class="topo-membrane">GAIIFMIYLFYFVAVIE</span><span class="topo-outside">VTVQHYLKVESQPARAASITRAS</span><span class="topo-membrane">RIAFPVVFL</span></span>
-<span class="topo-line"><span class="topo-membrane">LANIILAFL</span><span class="topo-inside">FF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSGVRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYPFDSQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">TLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRLESKLDYQLRISRQYFSYI</span><span class="topo-membrane">PNIILPMLFILFISWTA</span><span class="topo-outside">FWSTSYEAN</span><span class="topo-membrane">VTLVVSTLIAHIAFNI</span><span class="topo-inside">LVET</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310 </span>
+<span class="topo-line"><span class="topo-inside">NLPKTPYMTYT</span><span class="topo-membrane">GAIIFMIYLFYFVAVIE</span><span class="topo-outside">VTVQHYLKVESQPARAASITRAS</span><span class="topo-membrane">RIAFPVVFLLANIILAFL</span><span class="topo-inside">FF</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -9933,6 +10124,7 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -9948,12 +10140,13 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSGVRVK</span></span>
-<span class="topo-line"><span class="topo-inside">TYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYPFDSQ</span></span>
-<span class="topo-line"><span class="topo-inside">TLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRLESKL</span></span>
-<span class="topo-line"><span class="topo-inside">DYQLRISRQYFSYI</span><span class="topo-membrane">PNIILPMLFILFISWTA</span><span class="topo-outside">FWSTSYEAN</span><span class="topo-membrane">VTLVVSTLIAHIAFNI</span><span class="topo-inside">LVET</span></span>
-<span class="topo-line"><span class="topo-inside">NLPKTPYMTYT</span><span class="topo-membrane">GAIIFMIYLFYFVAVIE</span><span class="topo-outside">VTVQHYLKVESQPARAASITRAS</span><span class="topo-membrane">RIAFPVVFL</span></span>
-<span class="topo-line"><span class="topo-membrane">LANIILAFL</span><span class="topo-inside">FF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSGVRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYPFDSQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">TLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRLESKLDYQLRISRQYFSYI</span><span class="topo-membrane">PNIILPMLFILFISWTA</span><span class="topo-outside">FWSTSYEAN</span><span class="topo-membrane">VTLVVSTLIAHIAFNI</span><span class="topo-inside">LVET</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310 </span>
+<span class="topo-line"><span class="topo-inside">NLPKTPYMTYT</span><span class="topo-membrane">GAIIFMIYLFYFVAVIE</span><span class="topo-outside">VTVQHYLKVESQPARAASITRAS</span><span class="topo-membrane">RIAFPVVFLLANIILAFL</span><span class="topo-inside">FF</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -10028,6 +10221,7 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -10043,12 +10237,13 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSGVRVK</span></span>
-<span class="topo-line"><span class="topo-inside">TYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYPFDSQ</span></span>
-<span class="topo-line"><span class="topo-inside">TLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRLESKL</span></span>
-<span class="topo-line"><span class="topo-inside">DYQLRISRQYFSYI</span><span class="topo-membrane">PNIILPMLFILFISWTA</span><span class="topo-outside">FWSTSYEANV</span><span class="topo-membrane">TLVVSTLIAHIAFNI</span><span class="topo-inside">LVET</span></span>
-<span class="topo-line"><span class="topo-inside">NLPKTPYMTYT</span><span class="topo-membrane">GAIIFMIYLFYFVAVIE</span><span class="topo-outside">VTVQHYLKVESQPARAASITRAS</span><span class="topo-membrane">RIAFPVVFL</span></span>
-<span class="topo-line"><span class="topo-membrane">LANIILAFL</span><span class="topo-inside">FF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSGVRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYPFDSQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">TLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRLESKLDYQLRISRQYFSYI</span><span class="topo-membrane">PNIILPMLFILFISWTA</span><span class="topo-outside">FWSTSYEANV</span><span class="topo-membrane">TLVVSTLIAHIAFNI</span><span class="topo-inside">LVET</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310 </span>
+<span class="topo-line"><span class="topo-inside">NLPKTPYMTYT</span><span class="topo-membrane">GAIIFMIYLFYFVAVIE</span><span class="topo-outside">VTVQHYLKVESQPARAASITRAS</span><span class="topo-membrane">RIAFPVVFLLANIILAFL</span><span class="topo-inside">FF</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -10123,6 +10318,7 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -10138,12 +10334,13 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSGVRVK</span></span>
-<span class="topo-line"><span class="topo-inside">TYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYPFDSQ</span></span>
-<span class="topo-line"><span class="topo-inside">TLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRLESKL</span></span>
-<span class="topo-line"><span class="topo-inside">DYQLRISRQYFSYI</span><span class="topo-membrane">PNIILPMLFILFISWTA</span><span class="topo-outside">FWSTSYEANV</span><span class="topo-membrane">TLVVSTLIAHIAFNI</span><span class="topo-inside">LVET</span></span>
-<span class="topo-line"><span class="topo-inside">NLPKTPYMTYT</span><span class="topo-membrane">GAIIFMIYLFYFVAVIE</span><span class="topo-outside">VTVQHYLKVESQPARAASITRAS</span><span class="topo-membrane">RIAFPVVFL</span></span>
-<span class="topo-line"><span class="topo-membrane">LANIILAFL</span><span class="topo-inside">FF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSGVRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYPFDSQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">TLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRLESKLDYQLRISRQYFSYI</span><span class="topo-membrane">PNIILPMLFILFISWTA</span><span class="topo-outside">FWSTSYEANV</span><span class="topo-membrane">TLVVSTLIAHIAFNI</span><span class="topo-inside">LVET</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310 </span>
+<span class="topo-line"><span class="topo-inside">NLPKTPYMTYT</span><span class="topo-membrane">GAIIFMIYLFYFVAVIE</span><span class="topo-outside">VTVQHYLKVESQPARAASITRAS</span><span class="topo-membrane">RIAFPVVFLLANIILAFL</span><span class="topo-inside">FF</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -10218,6 +10415,7 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -10233,12 +10431,13 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSGVRVK</span></span>
-<span class="topo-line"><span class="topo-inside">TYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYPFDSQ</span></span>
-<span class="topo-line"><span class="topo-inside">TLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRLESKL</span></span>
-<span class="topo-line"><span class="topo-inside">DYQLRISRQYFSYI</span><span class="topo-membrane">PNIILPMLFILFISWTA</span><span class="topo-outside">FWSTSYEANV</span><span class="topo-membrane">TLVVSTLIAHIAFNI</span><span class="topo-inside">LVET</span></span>
-<span class="topo-line"><span class="topo-inside">NLPKTPYMTYT</span><span class="topo-membrane">GAIIFMIYLFYFVAVIE</span><span class="topo-outside">VTVQHYLKVESQPARAASITRAS</span><span class="topo-membrane">RIAFPVVFL</span></span>
-<span class="topo-line"><span class="topo-membrane">LANIILAFL</span><span class="topo-inside">FF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">VSPPPPIADEPLTVNTGIYLIECYSLDDKAETFKVNAFLSLSWKDRRLAFDPVRSGVRVKTYEPEAIWIPEIRFVNVENARDADVVDISVSPDGTVQYLERFSARVLSPLDFRRYPFDSQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">TLHIYLIVRSVDTRNIVLAVDLEKVGKNDDVFLTGWDIESFTAVVKPANFALEDRLESKLDYQLRISRQYFSYI</span><span class="topo-membrane">PNIILPMLFILFISWTA</span><span class="topo-outside">FWSTSYEANV</span><span class="topo-membrane">TLVVSTLIAHIAFNI</span><span class="topo-inside">LVET</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310 </span>
+<span class="topo-line"><span class="topo-inside">NLPKTPYMTYT</span><span class="topo-membrane">GAIIFMIYLFYFVAVIE</span><span class="topo-outside">VTVQHYLKVESQPARAASITRAS</span><span class="topo-membrane">RIAFPVVFLLANIILAFL</span><span class="topo-inside">FF</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -10313,6 +10512,7 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

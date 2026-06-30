@@ -132,15 +132,17 @@ NtMATE2 is a multidrug and toxic compound extrusion (MATE) family transporter fr
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGKSMKSEVEQPLLAAA</span><span class="topo-outside">HGGSSELEEVLSDSQLP</span><span class="topo-unknown">YFRRLRYASWIEFQLL</span><span class="topo-membrane">YRLAAPSVAV</span></span>
-<span class="topo-line"><span class="topo-membrane">YMINNAMSMSTR</span><span class="topo-inside">IFSGQLGNLQLAAASL</span><span class="topo-membrane">GNQGIQLFAYGLMLGMGSAVE</span><span class="topo-outside">TLCGQAYGAHR</span></span>
-<span class="topo-line"><span class="topo-outside">YEMLGVYLQRA</span><span class="topo-membrane">TVVLSLTGIPLAVVYLFS</span><span class="topo-inside">KNILLALGESKLVASAAA</span><span class="topo-membrane">VFVYGLIPQIFAY</span></span>
-<span class="topo-line"><span class="topo-membrane">AVNFPIQKFLQ</span><span class="topo-outside">SQSI</span><span class="topo-membrane">VAPSAFISLGTLFVHILLSWVV</span><span class="topo-inside">VYKIGLGLL</span><span class="topo-membrane">GASLVLSFSWWIIV</span></span>
-<span class="topo-line"><span class="topo-membrane">VAQFIY</span><span class="topo-outside">ILKSERCKATWAGFRWEAFSGLWQFV</span><span class="topo-membrane">KLSAGSAVMLCLETWYFQILV</span><span class="topo-inside">LLSGLLK</span></span>
-<span class="topo-line"><span class="topo-inside">NPEIALASISVC</span><span class="topo-membrane">LAVNGLMFMVAVGFNAAAS</span><span class="topo-outside">VRVSNELGAAHPKSAAFSV</span><span class="topo-membrane">FMVTFISFLI</span></span>
-<span class="topo-line"><span class="topo-membrane">AVVEAIIVLS</span><span class="topo-inside">L</span><span class="topo-unknown">RNVISYAF</span><span class="topo-inside">TEGEVVAKEVSSLC</span><span class="topo-membrane">PYLAVTLILNGIQPVLSGVAV</span><span class="topo-outside">GCGW</span><span class="topo-membrane">QA</span></span>
-<span class="topo-line"><span class="topo-membrane">FVAYVNVGCYYGVGIPLGCLL</span><span class="topo-inside">GFKFDFGAKG</span><span class="topo-membrane">IWTGMIGGTVMQTIILLWVT</span><span class="topo-outside">FSTDWNKEV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGKSMKSEVEQPLLAAA</span><span class="topo-outside">HGGSSELEEVLSDSQLP</span><span class="topo-unknown">YFRRLRYASWIEFQLL</span><span class="topo-membrane">YRLAAPSVAVYMINNAMSMSTR</span><span class="topo-inside">IFSGQLGNLQLAAASL</span><span class="topo-membrane">GNQGIQLFAYGLMLGMGSAVE</span><span class="topo-outside">TLCGQAYGAHR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">YEMLGVYLQRA</span><span class="topo-membrane">TVVLSLTGIPLAVVYLFS</span><span class="topo-inside">KNILLALGESKLVASAAA</span><span class="topo-membrane">VFVYGLIPQIFAYAVNFPIQKFLQ</span><span class="topo-outside">SQSI</span><span class="topo-membrane">VAPSAFISLGTLFVHILLSWVV</span><span class="topo-inside">VYKIGLGLL</span><span class="topo-membrane">GASLVLSFSWWIIV</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">VAQFIY</span><span class="topo-outside">ILKSERCKATWAGFRWEAFSGLWQFV</span><span class="topo-membrane">KLSAGSAVMLCLETWYFQILV</span><span class="topo-inside">LLSGLLKNPEIALASISVC</span><span class="topo-membrane">LAVNGLMFMVAVGFNAAAS</span><span class="topo-outside">VRVSNELGAAHPKSAAFSV</span><span class="topo-membrane">FMVTFISFLI</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">AVVEAIIVLS</span><span class="topo-inside">L</span><span class="topo-unknown">RNVISYAF</span><span class="topo-inside">TEGEVVAKEVSSLC</span><span class="topo-membrane">PYLAVTLILNGIQPVLSGVAV</span><span class="topo-outside">GCGW</span><span class="topo-membrane">QAFVAYVNVGCYYGVGIPLGCLL</span><span class="topo-inside">GFKFDFGAKG</span><span class="topo-membrane">IWTGMIGGTVMQTIILLWVT</span><span class="topo-outside">FSTDWNKEV</span></span>
+<span class="topo-ruler">       490       500       510</span>
 <span class="topo-line"><span class="topo-outside">ESARKRLDKWENL</span><span class="topo-unknown">KGPLNKEEFPGENLYFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (28 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -348,6 +350,7 @@ NtMATE2 is a multidrug and toxic compound extrusion (MATE) family transporter fr
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

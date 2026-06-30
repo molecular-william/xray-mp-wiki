@@ -130,14 +130,15 @@ BbFPN is a putative bacterial homologue of ferroportin (FPN/SLC40A1) from Bdello
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MKVQSL</span><span class="topo-inside">LRIETQL</span><span class="topo-membrane">LLGRLLTRSGDQAWDFVVPFAL</span><span class="topo-outside">LVIFPGKLQVA</span><span class="topo-membrane">AFYYLIVKIGTFLL</span></span>
-<span class="topo-line"><span class="topo-membrane">TPSSG</span><span class="topo-inside">KWIDTHPRIQV</span><span class="topo-membrane">VKWGVWLQFFAILAGMVFFGML</span><span class="topo-outside">DGLVRAGGRESWLLS</span><span class="topo-membrane">VLFIALA</span></span>
-<span class="topo-line"><span class="topo-membrane">LSGVMASLGSQITDISVG</span><span class="topo-inside">NDLAPSLVAPEKLTHFN</span><span class="topo-membrane">SWLRRIDLATEVGAPILAGALF</span><span class="topo-unknown">AFH</span></span>
-<span class="topo-line"><span class="topo-unknown">PEQL</span><span class="topo-outside">PL</span><span class="topo-membrane">AGLFLIGLWNLVSFVPEYFL</span><span class="topo-inside">LRNVIQRSGLKIKVLTEA</span><span class="topo-unknown">QSWKDTFH</span><span class="topo-inside">INLRGSFS</span></span>
-<span class="topo-line"><span class="topo-inside">DPIF</span><span class="topo-membrane">WLILSYALLWLSVLSPHGVLLA</span><span class="topo-outside">AYLKDEMRLPETEI</span><span class="topo-membrane">GLFRGLGAVFGLISTVSFPY</span></span>
-<span class="topo-line"><span class="topo-membrane">L</span><span class="topo-inside">VRRLGLISS</span><span class="topo-membrane">SRWHLGFQGVTLGIAVTAFAM</span><span class="topo-outside">GSTAS</span><span class="topo-membrane">VYVFLGCILLSRVGLYGFSNGEF</span><span class="topo-inside">E</span></span>
-<span class="topo-line"><span class="topo-inside">LRQRLIPEGRRGELN</span><span class="topo-membrane">SLSSLTTTSATLILFSAGSLL</span><span class="topo-outside">PQTEDF</span><span class="topo-membrane">KYLVYVSLAAVLLANVVF</span></span>
-<span class="topo-line"><span class="topo-membrane">IK</span><span class="topo-inside">WSSR</span><span class="topo-unknown">QGVVTSGSENLYFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MKVQSL</span><span class="topo-inside">LRIETQL</span><span class="topo-membrane">LLGRLLTRSGDQAWDFVVPFAL</span><span class="topo-outside">LVIFPGKLQVA</span><span class="topo-membrane">AFYYLIVKIGTFLLTPSSG</span><span class="topo-inside">KWIDTHPRIQV</span><span class="topo-membrane">VKWGVWLQFFAILAGMVFFGML</span><span class="topo-outside">DGLVRAGGRESWLLS</span><span class="topo-membrane">VLFIALA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">LSGVMASLGSQITDISVG</span><span class="topo-inside">NDLAPSLVAPEKLTHFN</span><span class="topo-membrane">SWLRRIDLATEVGAPILAGALF</span><span class="topo-unknown">AFHPEQL</span><span class="topo-outside">PL</span><span class="topo-membrane">AGLFLIGLWNLVSFVPEYFL</span><span class="topo-inside">LRNVIQRSGLKIKVLTEA</span><span class="topo-unknown">QSWKDTFH</span><span class="topo-inside">INLRGSFS</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">DPIF</span><span class="topo-membrane">WLILSYALLWLSVLSPHGVLLA</span><span class="topo-outside">AYLKDEMRLPETEI</span><span class="topo-membrane">GLFRGLGAVFGLISTVSFPYL</span><span class="topo-inside">VRRLGLISS</span><span class="topo-membrane">SRWHLGFQGVTLGIAVTAFAM</span><span class="topo-outside">GSTAS</span><span class="topo-membrane">VYVFLGCILLSRVGLYGFSNGEF</span><span class="topo-inside">E</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440</span>
+<span class="topo-line"><span class="topo-inside">LRQRLIPEGRRGELN</span><span class="topo-membrane">SLSSLTTTSATLILFSAGSLL</span><span class="topo-outside">PQTEDF</span><span class="topo-membrane">KYLVYVSLAAVLLANVVFIK</span><span class="topo-inside">WSSR</span><span class="topo-unknown">QGVVTSGSENLYFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (26 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -331,6 +332,7 @@ BbFPN is a putative bacterial homologue of ferroportin (FPN/SLC40A1) from Bdello
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -346,14 +348,15 @@ BbFPN is a putative bacterial homologue of ferroportin (FPN/SLC40A1) from Bdello
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MKVQSL</span><span class="topo-outside">LRIETQLL</span><span class="topo-membrane">LGRLLTRSGDQAWDFVV</span><span class="topo-inside">PFALLVIFPGKLQVAAFY</span><span class="topo-membrane">YLIVKIGTFLL</span></span>
-<span class="topo-line"><span class="topo-membrane">TPSSG</span><span class="topo-outside">KWIDTHPRIQVVKW</span><span class="topo-membrane">GVWLQFFAILAGMVFF</span><span class="topo-inside">GMLDGLVRAGGRESWLLSV</span><span class="topo-membrane">LFIALA</span></span>
-<span class="topo-line"><span class="topo-membrane">LSGVMASLGSQITDI</span><span class="topo-outside">SVGNDLAPSLVAPEKLTHFN</span><span class="topo-membrane">SWLRRIDLATEVGAPILA</span><span class="topo-inside">GALF</span><span class="topo-unknown">AFH</span></span>
-<span class="topo-line"><span class="topo-unknown">PEQL</span><span class="topo-inside">PLAGL</span><span class="topo-membrane">FLIGLWNLVSFVPEY</span><span class="topo-outside">FLLRNVIQRSGLKIKVL</span><span class="topo-unknown">TEAQSWKDTFHINLR</span><span class="topo-outside">GSFS</span></span>
-<span class="topo-line"><span class="topo-outside">DPIF</span><span class="topo-membrane">WLILSYALLWLSVLSPH</span><span class="topo-inside">GVLLAAYLKDEMRLPETEIGLFRG</span><span class="topo-membrane">LGAVFGLISTVSFPY</span></span>
-<span class="topo-line"><span class="topo-membrane">L</span><span class="topo-outside">VRRLGLIS</span><span class="topo-membrane">SSRWHLGFQGVTLGI</span><span class="topo-inside">AVTAFAMGSTASVYVFLGC</span><span class="topo-membrane">ILLSRVGLYGFSNGEF</span><span class="topo-outside">E</span></span>
-<span class="topo-line"><span class="topo-outside">LRQRLIPEGRRGELN</span><span class="topo-membrane">SLSSLTTTSATLILFS</span><span class="topo-inside">AGSLLPQTEDFKYLVYV</span><span class="topo-membrane">SLAAVLLANVVF</span></span>
-<span class="topo-line"><span class="topo-membrane">IKW</span><span class="topo-outside">SSR</span><span class="topo-unknown">QGVVTSGSENLYFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MKVQSL</span><span class="topo-outside">LRIETQLL</span><span class="topo-membrane">LGRLLTRSGDQAWDFVV</span><span class="topo-inside">PFALLVIFPGKLQVAAFY</span><span class="topo-membrane">YLIVKIGTFLLTPSSG</span><span class="topo-outside">KWIDTHPRIQVVKW</span><span class="topo-membrane">GVWLQFFAILAGMVFF</span><span class="topo-inside">GMLDGLVRAGGRESWLLSV</span><span class="topo-membrane">LFIALA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">LSGVMASLGSQITDI</span><span class="topo-outside">SVGNDLAPSLVAPEKLTHFN</span><span class="topo-membrane">SWLRRIDLATEVGAPILA</span><span class="topo-inside">GALF</span><span class="topo-unknown">AFHPEQL</span><span class="topo-inside">PLAGL</span><span class="topo-membrane">FLIGLWNLVSFVPEY</span><span class="topo-outside">FLLRNVIQRSGLKIKVL</span><span class="topo-unknown">TEAQSWKDTFHINLR</span><span class="topo-outside">GSFS</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">DPIF</span><span class="topo-membrane">WLILSYALLWLSVLSPH</span><span class="topo-inside">GVLLAAYLKDEMRLPETEIGLFRG</span><span class="topo-membrane">LGAVFGLISTVSFPYL</span><span class="topo-outside">VRRLGLIS</span><span class="topo-membrane">SSRWHLGFQGVTLGI</span><span class="topo-inside">AVTAFAMGSTASVYVFLGC</span><span class="topo-membrane">ILLSRVGLYGFSNGEF</span><span class="topo-outside">E</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440</span>
+<span class="topo-line"><span class="topo-outside">LRQRLIPEGRRGELN</span><span class="topo-membrane">SLSSLTTTSATLILFS</span><span class="topo-inside">AGSLLPQTEDFKYLVYV</span><span class="topo-membrane">SLAAVLLANVVFIKW</span><span class="topo-outside">SSR</span><span class="topo-unknown">QGVVTSGSENLYFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (27 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -554,6 +557,7 @@ BbFPN is a putative bacterial homologue of ferroportin (FPN/SLC40A1) from Bdello
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -569,14 +573,15 @@ BbFPN is a putative bacterial homologue of ferroportin (FPN/SLC40A1) from Bdello
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MKV</span><span class="topo-outside">QSLLRIET</span><span class="topo-membrane">QLLLGRLLTRSGDQAWDFVVPFALL</span><span class="topo-inside">VIFPGKL</span><span class="topo-membrane">QVAAFYYLIVKIGTFLL</span></span>
-<span class="topo-line"><span class="topo-membrane">TPSS</span><span class="topo-outside">GKWIDTHPRIQVV</span><span class="topo-membrane">KWGVWLQFFAILAGMVFFGML</span><span class="topo-inside">DGLVRAGGRESW</span><span class="topo-membrane">LLSVLFIALA</span></span>
-<span class="topo-line"><span class="topo-membrane">LSGVMASLGSQITD</span><span class="topo-outside">ISVGNDLAPSLVAPEKLTHFNSW</span><span class="topo-membrane">LRRIDLATEVGAPILAGALFA</span><span class="topo-inside">FH</span></span>
-<span class="topo-line"><span class="topo-inside">PEQLPL</span><span class="topo-membrane">AGLFLIGLWNLVSFVPEYFL</span><span class="topo-outside">LRNVIQRSGLKIKVLT</span><span class="topo-unknown">EAQSWKDTFHINLRGSF</span><span class="topo-outside">S</span></span>
-<span class="topo-line"><span class="topo-outside">DPIFW</span><span class="topo-membrane">LILSYALLWLSVLSPHGVLLAAYLK</span><span class="topo-inside">DEMRLPE</span><span class="topo-membrane">TEIGLFRGLGAVFGLISTVSFPY</span></span>
-<span class="topo-line"><span class="topo-membrane">L</span><span class="topo-outside">VRRLGLI</span><span class="topo-membrane">SSSRWHLGFQGVTLGIAVTAF</span><span class="topo-inside">AMGSTASV</span><span class="topo-membrane">YVFLGCILLSRVGLYGFSNGE</span><span class="topo-outside">FE</span></span>
-<span class="topo-line"><span class="topo-outside">LRQRLIPEGRRGELNSLS</span><span class="topo-membrane">SLTTTSATLILFSAGSLL</span><span class="topo-inside">PQTED</span><span class="topo-membrane">FKYLVYVSLAAVLLANVVF</span></span>
-<span class="topo-line"><span class="topo-membrane">IKWS</span><span class="topo-outside">SR</span><span class="topo-unknown">QGVVTSGSENLYFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MKV</span><span class="topo-outside">QSLLRIET</span><span class="topo-membrane">QLLLGRLLTRSGDQAWDFVVPFALL</span><span class="topo-inside">VIFPGKL</span><span class="topo-membrane">QVAAFYYLIVKIGTFLLTPSS</span><span class="topo-outside">GKWIDTHPRIQVV</span><span class="topo-membrane">KWGVWLQFFAILAGMVFFGML</span><span class="topo-inside">DGLVRAGGRESW</span><span class="topo-membrane">LLSVLFIALA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">LSGVMASLGSQITD</span><span class="topo-outside">ISVGNDLAPSLVAPEKLTHFNSW</span><span class="topo-membrane">LRRIDLATEVGAPILAGALFA</span><span class="topo-inside">FHPEQLPL</span><span class="topo-membrane">AGLFLIGLWNLVSFVPEYFL</span><span class="topo-outside">LRNVIQRSGLKIKVLT</span><span class="topo-unknown">EAQSWKDTFHINLRGSF</span><span class="topo-outside">S</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">DPIFW</span><span class="topo-membrane">LILSYALLWLSVLSPHGVLLAAYLK</span><span class="topo-inside">DEMRLPE</span><span class="topo-membrane">TEIGLFRGLGAVFGLISTVSFPYL</span><span class="topo-outside">VRRLGLI</span><span class="topo-membrane">SSSRWHLGFQGVTLGIAVTAF</span><span class="topo-inside">AMGSTASV</span><span class="topo-membrane">YVFLGCILLSRVGLYGFSNGE</span><span class="topo-outside">FE</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440</span>
+<span class="topo-line"><span class="topo-outside">LRQRLIPEGRRGELNSLS</span><span class="topo-membrane">SLTTTSATLILFSAGSLL</span><span class="topo-inside">PQTED</span><span class="topo-membrane">FKYLVYVSLAAVLLANVVFIKWS</span><span class="topo-outside">SR</span><span class="topo-unknown">QGVVTSGSENLYFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (26 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -770,6 +775,7 @@ BbFPN is a putative bacterial homologue of ferroportin (FPN/SLC40A1) from Bdello
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

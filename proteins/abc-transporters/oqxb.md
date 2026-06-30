@@ -130,12 +130,13 @@ OqxB is a Resistance-Nodulation-Division (RND) efflux pump from *Klebsiella pneu
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GPGSGP</span><span class="topo-outside">NSDLDVNTDI</span><span class="topo-membrane">YSKVLVTAIYLALFVVGTVGNSV</span><span class="topo-inside">TLFTLAR</span><span class="topo-unknown">KKSLQS</span><span class="topo-inside">LQSTVDYY</span></span>
-<span class="topo-line"><span class="topo-inside">LGS</span><span class="topo-membrane">LALSDLLILLLAMPVELYNFIWV</span><span class="topo-outside">HHPW</span><span class="topo-membrane">AFGDAGCRGYYFLRDACTYATALNVV</span><span class="topo-inside">SLSV</span></span>
-<span class="topo-line"><span class="topo-inside">ERYLAICHPFKAKTLMSRSRTKKFIS</span><span class="topo-membrane">AIWLASALLAIPMLFTMGL</span><span class="topo-outside">QNLSGDGTHPGGLVC</span></span>
-<span class="topo-line"><span class="topo-membrane">TPIVDTATLKVVIQVNTFMSFLFPMLVAS</span><span class="topo-inside">ILNTVIANKLTVMVHQAA</span><span class="topo-unknown">F</span><span class="topo-inside">NMTIEPGRVQAL</span></span>
-<span class="topo-line"><span class="topo-inside">RRGVLVLRA</span><span class="topo-membrane">VVIAFVVCWLPYHVRRLMFCYI</span><span class="topo-outside">SDEQWTTFLFDF</span><span class="topo-membrane">YHYFYMLTNALVYVSAA</span></span>
-<span class="topo-line"><span class="topo-membrane">INPIL</span><span class="topo-inside">YNLVS</span><span class="topo-unknown">ANFRQVFLSTL</span><span class="topo-inside">A</span><span class="topo-unknown">CLCPGTRELEVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GPGSGP</span><span class="topo-outside">NSDLDVNTDI</span><span class="topo-membrane">YSKVLVTAIYLALFVVGTVGNSV</span><span class="topo-inside">TLFTLAR</span><span class="topo-unknown">KKSLQS</span><span class="topo-inside">LQSTVDYYLGS</span><span class="topo-membrane">LALSDLLILLLAMPVELYNFIWV</span><span class="topo-outside">HHPW</span><span class="topo-membrane">AFGDAGCRGYYFLRDACTYATALNVV</span><span class="topo-inside">SLSV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">ERYLAICHPFKAKTLMSRSRTKKFIS</span><span class="topo-membrane">AIWLASALLAIPMLFTMGL</span><span class="topo-outside">QNLSGDGTHPGGLVC</span><span class="topo-membrane">TPIVDTATLKVVIQVNTFMSFLFPMLVAS</span><span class="topo-inside">ILNTVIANKLTVMVHQAA</span><span class="topo-unknown">F</span><span class="topo-inside">NMTIEPGRVQAL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330      </span>
+<span class="topo-line"><span class="topo-inside">RRGVLVLRA</span><span class="topo-membrane">VVIAFVVCWLPYHVRRLMFCYI</span><span class="topo-outside">SDEQWTTFLFDF</span><span class="topo-membrane">YHYFYMLTNALVYVSAAINPIL</span><span class="topo-inside">YNLVS</span><span class="topo-unknown">ANFRQVFLSTL</span><span class="topo-inside">A</span><span class="topo-unknown">CLCPGTRELEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -280,6 +281,7 @@ OqxB is a Resistance-Nodulation-Division (RND) efflux pump from *Klebsiella pneu
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -295,12 +297,13 @@ OqxB is a Resistance-Nodulation-Division (RND) efflux pump from *Klebsiella pneu
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">GCTLSAEDKAAVERSKMIDRNLREDGEKAAREVKLLLLGAGESGKSTIVKQMKII</span><span class="topo-unknown">HEAG</span></span>
-<span class="topo-line"><span class="topo-unknown">YSE</span><span class="topo-inside">EECKQYKAVVYSNTIQSIIAIIRAMGRLKIDFGDSARADDARQLFVLAGAAEEGFMT</span></span>
-<span class="topo-line"><span class="topo-inside">AELAGVIKRLWKDSGVQACFNRSREYQLNDSAAYYLNDLDRIAQPNYIPTQQDVLRT</span><span class="topo-unknown">RVK</span></span>
-<span class="topo-line"><span class="topo-unknown">T</span><span class="topo-inside">TGIVETHFTFKDLHFKMFDVGGQRSERKKWIHCFEGVTAIIFCVALSDYDLVL</span><span class="topo-unknown">AEDEE</span><span class="topo-inside">M</span></span>
-<span class="topo-line"><span class="topo-inside">NRMHESMKLFDSICNNKWFTDTSIILFLNKKDLFEEKIKKSPLTICYPEYAGSNTYEEAA</span></span>
-<span class="topo-line"><span class="topo-inside">AYIQCQFEDLNKRKDTKEIYTHFTCATDTKNVQFVFDAVTDVIIKNNLKDCGLF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">GCTLSAEDKAAVERSKMIDRNLREDGEKAAREVKLLLLGAGESGKSTIVKQMKII</span><span class="topo-unknown">HEAGYSE</span><span class="topo-inside">EECKQYKAVVYSNTIQSIIAIIRAMGRLKIDFGDSARADDARQLFVLAGAAEEGFMT</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">AELAGVIKRLWKDSGVQACFNRSREYQLNDSAAYYLNDLDRIAQPNYIPTQQDVLRT</span><span class="topo-unknown">RVKT</span><span class="topo-inside">TGIVETHFTFKDLHFKMFDVGGQRSERKKWIHCFEGVTAIIFCVALSDYDLVL</span><span class="topo-unknown">AEDEE</span><span class="topo-inside">M</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350    </span>
+<span class="topo-line"><span class="topo-inside">NRMHESMKLFDSICNNKWFTDTSIILFLNKKDLFEEKIKKSPLTICYPEYAGSNTYEEAAAYIQCQFEDLNKRKDTKEIYTHFTCATDTKNVQFVFDAVTDVIIKNNLKDCGLF</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -340,6 +343,7 @@ OqxB is a Resistance-Nodulation-Division (RND) efflux pump from *Klebsiella pneu
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -355,13 +359,15 @@ OqxB is a Resistance-Nodulation-Division (RND) efflux pump from *Klebsiella pneu
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MRGSHHHHHHHHHHLEVLFQGPSELDQLRQEAEQLKNQIRDARKACADAT</span><span class="topo-inside">LSQITNNIDP</span></span>
-<span class="topo-line"><span class="topo-inside">VGRIQMRTRRTLRGHLAKIYAMHWGTDSRLLVSASQDGKLIIWDSYTTNKVHAIPLRSSW</span></span>
-<span class="topo-line"><span class="topo-inside">VMTCAYAPSGNYVACGGLDNICSIYNLKTREGNVRVSRELAGHTGYLSCCRFLDDNQIVT</span></span>
-<span class="topo-line"><span class="topo-inside">SSGDTTCALWDIETGQQTTTFTGHTGDVMSLSLAPDTRLFVSGACDASAKLWDVREGMCR</span></span>
-<span class="topo-line"><span class="topo-inside">QTFTGHESDINAICFFPNGNAFATGSDDATCRLFDLRADQELMTYSHDNIICGITSVSFS</span></span>
-<span class="topo-line"><span class="topo-inside">KSGRLLLAGYDDFNCNVWDALKADRAGVLAGHDNRVSCLGVTDDGMAVATGSWDSFLKIW</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MRGSHHHHHHHHHHLEVLFQGPSELDQLRQEAEQLKNQIRDARKACADAT</span><span class="topo-inside">LSQITNNIDPVGRIQMRTRRTLRGHLAKIYAMHWGTDSRLLVSASQDGKLIIWDSYTTNKVHAIPLRSSW</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">VMTCAYAPSGNYVACGGLDNICSIYNLKTREGNVRVSRELAGHTGYLSCCRFLDDNQIVTSSGDTTCALWDIETGQQTTTFTGHTGDVMSLSLAPDTRLFVSGACDASAKLWDVREGMCR</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">QTFTGHESDINAICFFPNGNAFATGSDDATCRLFDLRADQELMTYSHDNIICGITSVSFSKSGRLLLAGYDDFNCNVWDALKADRAGVLAGHDNRVSCLGVTDDGMAVATGSWDSFLKIW</span></span>
+<span class="topo-ruler"> </span>
 <span class="topo-line"><span class="topo-inside">N</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -380,6 +386,7 @@ OqxB is a Resistance-Nodulation-Division (RND) efflux pump from *Klebsiella pneu
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -395,8 +402,9 @@ OqxB is a Resistance-Nodulation-Division (RND) efflux pump from *Klebsiella pneu
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MYPYDVPDYAPVINIEDLTEKDKLKMEVDQLKKEVTLER</span><span class="topo-inside">MLVSKCCEEVRDYVEERSGED</span></span>
-<span class="topo-line"><span class="topo-inside">PLVKGIPEDKNPFKELKG</span><span class="topo-unknown">GCVIS</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80   </span>
+<span class="topo-line"><span class="topo-unknown">MYPYDVPDYAPVINIEDLTEKDKLKMEVDQLKKEVTLER</span><span class="topo-inside">MLVSKCCEEVRDYVEERSGEDPLVKGIPEDKNPFKELKG</span><span class="topo-unknown">GCVIS</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -415,6 +423,7 @@ OqxB is a Resistance-Nodulation-Division (RND) efflux pump from *Klebsiella pneu
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

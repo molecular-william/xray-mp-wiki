@@ -129,17 +129,19 @@ The X-ray crystal structure of mitochondrial quinol–fumarate reductase (QFR) f
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MLRAVRALICRIGARRTLSVSSSRLDVSTSNI</span><span class="topo-outside">AQYKVIDHAYDVVIIGAGGAGLRAAMGL</span></span>
-<span class="topo-line"><span class="topo-outside">GEAGFKTAVVTKMFPTRSHTTAAQGGINAALGSMNPDDWKWHFYDTAKGSDWLGDQNAMH</span></span>
-<span class="topo-line"><span class="topo-outside">YLTRNAVEAVTELENFGMPFSRTPEGKIYQRSFGGQSNNYGKGGVAKRTCCVADRTGHSM</span></span>
-<span class="topo-line"><span class="topo-outside">LHTLYGNSLRCHCTFFIEYFALDLLMDKGRCVGVIALCLEDGTIHRFRSKRTIVATGGYG</span></span>
-<span class="topo-line"><span class="topo-outside">RAYFSCTTAHMNTGDGTALATRAGIALEDLEFIQFHPTGIYGVGCLITEGSRGEGGFLVN</span></span>
-<span class="topo-line"><span class="topo-outside">SEGERFMERYAPKAKDLASRDVVSRAETIEIMEGRGVGPEKDHIYLQLHHLPAEQLHQRL</span></span>
-<span class="topo-line"><span class="topo-outside">PGISETAKIFAGVDVTKEPIPVIPTVHYNMGGIPTNYKAQVIKYTKEGGDKIVPGLYACG</span></span>
-<span class="topo-line"><span class="topo-outside">ECACHSVHGANRLGANSLLDAVVFGRACSINIKEELKPDEKIPELPEGAGEESIANLDAV</span></span>
-<span class="topo-line"><span class="topo-outside">RYANGDVPTAELRLTMQKTMQKHAGVFRRGDILAEGVKKMMDLSKELKRLKTTDRSLIWN</span></span>
-<span class="topo-line"><span class="topo-outside">SDLTESLELQNLMLNATQTIVAAENRKESRGAHARDDFPKREDEYDYSKPIEGQTKRPFE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MLRAVRALICRIGARRTLSVSSSRLDVSTSNI</span><span class="topo-outside">AQYKVIDHAYDVVIIGAGGAGLRAAMGLGEAGFKTAVVTKMFPTRSHTTAAQGGINAALGSMNPDDWKWHFYDTAKGSDWLGDQNAMH</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">YLTRNAVEAVTELENFGMPFSRTPEGKIYQRSFGGQSNNYGKGGVAKRTCCVADRTGHSMLHTLYGNSLRCHCTFFIEYFALDLLMDKGRCVGVIALCLEDGTIHRFRSKRTIVATGGYG</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">RAYFSCTTAHMNTGDGTALATRAGIALEDLEFIQFHPTGIYGVGCLITEGSRGEGGFLVNSEGERFMERYAPKAKDLASRDVVSRAETIEIMEGRGVGPEKDHIYLQLHHLPAEQLHQRL</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">PGISETAKIFAGVDVTKEPIPVIPTVHYNMGGIPTNYKAQVIKYTKEGGDKIVPGLYACGECACHSVHGANRLGANSLLDAVVFGRACSINIKEELKPDEKIPELPEGAGEESIANLDAV</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">RYANGDVPTAELRLTMQKTMQKHAGVFRRGDILAEGVKKMMDLSKELKRLKTTDRSLIWNSDLTESLELQNLMLNATQTIVAAENRKESRGAHARDDFPKREDEYDYSKPIEGQTKRPFE</span></span>
+<span class="topo-ruler">       610       620       630       640     </span>
 <span class="topo-line"><span class="topo-outside">KHWRKHTLTKQDPRTGHITLDYRPVIDKTLDPAEVDWIPPIIRSY</span></span>
+<details class="topo-details"><summary>Topology coordinates (2 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -165,6 +167,7 @@ The X-ray crystal structure of mitochondrial quinol–fumarate reductase (QFR) f
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -180,11 +183,13 @@ The X-ray crystal structure of mitochondrial quinol–fumarate reductase (QFR) f
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MLRGSTSVCRSLELVTQAARYASAATAAAPTG</span><span class="topo-outside">KRIKTFEIYRFNPEEPGAKPKLQKFDVD</span></span>
-<span class="topo-line"><span class="topo-outside">LDKCGTMVLDALIKIKNEVDPTLTFRRSCREGICGSCAMNIAGENTLACICNIDQNTSKT</span></span>
-<span class="topo-line"><span class="topo-outside">TKIYPLPHMFVIKDLVPDMNLFYAQYASIQPWLQKKTKINLGEKQQYQSIKEQEKLDGLY</span></span>
-<span class="topo-line"><span class="topo-outside">ECILCACCSASC</span><span class="topo-unknown">PSYWWN</span><span class="topo-outside">ADKYLGPAVLMQAYRWIIDSRDDSAAERLARMQDGFSAFKCH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MLRGSTSVCRSLELVTQAARYASAATAAAPTG</span><span class="topo-outside">KRIKTFEIYRFNPEEPGAKPKLQKFDVDLDKCGTMVLDALIKIKNEVDPTLTFRRSCREGICGSCAMNIAGENTLACICNIDQNTSKT</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">TKIYPLPHMFVIKDLVPDMNLFYAQYASIQPWLQKKTKINLGEKQQYQSIKEQEKLDGLYECILCACCSASC</span><span class="topo-unknown">PSYWWN</span><span class="topo-outside">ADKYLGPAVLMQAYRWIIDSRDDSAAERLARMQDGFSAFKCH</span></span>
+<span class="topo-ruler">       250       260       270       280  </span>
 <span class="topo-line"><span class="topo-outside">TIMNCTKTCPKHLN</span><span class="topo-unknown">PARAIGEIKML</span><span class="topo-outside">LTKMKTKPAPLPTPAN</span><span class="topo-unknown">F</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -245,6 +250,7 @@ The X-ray crystal structure of mitochondrial quinol–fumarate reductase (QFR) f
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -260,10 +266,11 @@ The X-ray crystal structure of mitochondrial quinol–fumarate reductase (QFR) f
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSLLPYNATLCRVLRHNVKFIRSVQTSAARVSA</span><span class="topo-outside">EKTPIQVWGWDYLMRQRALKRPIAPHL</span></span>
-<span class="topo-line"><span class="topo-outside">TIYKP</span><span class="topo-membrane">QMTWMVSGLHRVTGCAMAGTLLIGGVGFSV</span><span class="topo-inside">LPLDFTTFVEFIRGLGIPWV</span><span class="topo-membrane">ILDTF</span></span>
-<span class="topo-line"><span class="topo-membrane">KFIIAFPIAFHTLNGIRFIGFDM</span><span class="topo-outside">AKGTDIPS</span><span class="topo-membrane">IYRGAYLVLGLAALISLAVVVY</span><span class="topo-inside">PRWERHK</span></span>
-<span class="topo-line"><span class="topo-inside">KATLPT</span><span class="topo-unknown">NH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSLLPYNATLCRVLRHNVKFIRSVQTSAARVSA</span><span class="topo-outside">EKTPIQVWGWDYLMRQRALKRPIAPHLTIYKP</span><span class="topo-membrane">QMTWMVSGLHRVTGCAMAGTLLIGGVGFSV</span><span class="topo-inside">LPLDFTTFVEFIRGLGIPWV</span><span class="topo-membrane">ILDTF</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180        </span>
+<span class="topo-line"><span class="topo-membrane">KFIIAFPIAFHTLNGIRFIGFDM</span><span class="topo-outside">AKGTDIPS</span><span class="topo-membrane">IYRGAYLVLGLAALISLAVVVY</span><span class="topo-inside">PRWERHKKATLPT</span><span class="topo-unknown">NH</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -338,6 +345,7 @@ The X-ray crystal structure of mitochondrial quinol–fumarate reductase (QFR) f
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -353,9 +361,11 @@ The X-ray crystal structure of mitochondrial quinol–fumarate reductase (QFR) f
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MLSAVRRAIPLSARILRTSLIQRCAGA</span><span class="topo-outside">TSAAVTGAAPPQFDPIAAEKGFKPLHSH</span><span class="topo-membrane">GTLFK</span></span>
-<span class="topo-line"><span class="topo-membrane">IERYFAAAMVPLIPAAYFI</span><span class="topo-inside">HGRE</span><span class="topo-membrane">MDLCLALALTLHVHWGVWGVVNDYGR</span><span class="topo-outside">PFVLGDT</span><span class="topo-membrane">LAAA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MLSAVRRAIPLSARILRTSLIQRCAGA</span><span class="topo-outside">TSAAVTGAAPPQFDPIAAEKGFKPLHSH</span><span class="topo-membrane">GTLFKIERYFAAAMVPLIPAAYFI</span><span class="topo-inside">HGRE</span><span class="topo-membrane">MDLCLALALTLHVHWGVWGVVNDYGR</span><span class="topo-outside">PFVLGDT</span><span class="topo-membrane">LAAA</span></span>
+<span class="topo-ruler">       130       140       150      </span>
 <span class="topo-line"><span class="topo-membrane">VRVGAYIFTACLLAGLLYF</span><span class="topo-inside">NEHDVG</span><span class="topo-unknown">LTRAFEMVW</span><span class="topo-inside">EL</span></span>
+<details class="topo-details"><summary>Topology coordinates (10 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -437,6 +447,7 @@ The X-ray crystal structure of mitochondrial quinol–fumarate reductase (QFR) f
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -452,17 +463,19 @@ The X-ray crystal structure of mitochondrial quinol–fumarate reductase (QFR) f
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MLRAVRALICRIGARRTLSVSSSRLDVSTSNI</span><span class="topo-outside">AQYKVIDHAYDVVIIGAGGAGLRAAMGL</span></span>
-<span class="topo-line"><span class="topo-outside">GEAGFKTAVVTKMFPTRSHTTAAQGGINAALGSMNPDDWKWHFYDTAKGSDWLGDQNAMH</span></span>
-<span class="topo-line"><span class="topo-outside">YLTRNAVEAVTELENFGMPFSRTPEGKIYQRSFGGQSNNYGKGGVAKRTCCVADRTGHSM</span></span>
-<span class="topo-line"><span class="topo-outside">LHTLYGNSLRCHCTFFIEYFALDLLMDKGRCVGVIALCLEDGTIHRFRSKRTIVATGGYG</span></span>
-<span class="topo-line"><span class="topo-outside">RAYFSCTTAHMNTGDGTALATRAGIALEDLEFIQFHPTGIYGVGCLITEGSRGEGGFLVN</span></span>
-<span class="topo-line"><span class="topo-outside">SEGERFMERYAPKAKDLASRDVVSRAETIEIMEGRGVGPEKDHIYLQLHHLPAEQLHQRL</span></span>
-<span class="topo-line"><span class="topo-outside">PGISETAKIFAGVDVTKEPIPVIPTVHYNMGGIPTNYKAQVIKYTKEGGDKIVPGLYACG</span></span>
-<span class="topo-line"><span class="topo-outside">ECACHSVHGANRLGANSLLDAVVFGRACSINIKEELKPDEKIPELPEGAGEESIANLDAV</span></span>
-<span class="topo-line"><span class="topo-outside">RYANGDVPTAELRLTMQKTMQKHAGVFRRGDILAEGVKKMMDLSKELKRLKTTDRSLIWN</span></span>
-<span class="topo-line"><span class="topo-outside">SDLTESLELQNLMLNATQTIVAAENRKESRGAHARDDFPKREDEYDYSKPIEGQTKRPFE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MLRAVRALICRIGARRTLSVSSSRLDVSTSNI</span><span class="topo-outside">AQYKVIDHAYDVVIIGAGGAGLRAAMGLGEAGFKTAVVTKMFPTRSHTTAAQGGINAALGSMNPDDWKWHFYDTAKGSDWLGDQNAMH</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">YLTRNAVEAVTELENFGMPFSRTPEGKIYQRSFGGQSNNYGKGGVAKRTCCVADRTGHSMLHTLYGNSLRCHCTFFIEYFALDLLMDKGRCVGVIALCLEDGTIHRFRSKRTIVATGGYG</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">RAYFSCTTAHMNTGDGTALATRAGIALEDLEFIQFHPTGIYGVGCLITEGSRGEGGFLVNSEGERFMERYAPKAKDLASRDVVSRAETIEIMEGRGVGPEKDHIYLQLHHLPAEQLHQRL</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">PGISETAKIFAGVDVTKEPIPVIPTVHYNMGGIPTNYKAQVIKYTKEGGDKIVPGLYACGECACHSVHGANRLGANSLLDAVVFGRACSINIKEELKPDEKIPELPEGAGEESIANLDAV</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">RYANGDVPTAELRLTMQKTMQKHAGVFRRGDILAEGVKKMMDLSKELKRLKTTDRSLIWNSDLTESLELQNLMLNATQTIVAAENRKESRGAHARDDFPKREDEYDYSKPIEGQTKRPFE</span></span>
+<span class="topo-ruler">       610       620       630       640     </span>
 <span class="topo-line"><span class="topo-outside">KHWRKHTLTKQDPRTGHITLDYRPVIDKTLDPAEVDWIPPIIRSY</span></span>
+<details class="topo-details"><summary>Topology coordinates (2 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -488,6 +501,7 @@ The X-ray crystal structure of mitochondrial quinol–fumarate reductase (QFR) f
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -503,11 +517,13 @@ The X-ray crystal structure of mitochondrial quinol–fumarate reductase (QFR) f
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MLRGSTSVCRSLELVTQAARYASAATAAAPTG</span><span class="topo-outside">KRIKTFEIYRFNPEEPGAKPKLQKFDVD</span></span>
-<span class="topo-line"><span class="topo-outside">LDKCGTMVLDALIKIKNEVDPTLTFRRSCREGICGSCAMNIAGENTLACICNIDQNTSKT</span></span>
-<span class="topo-line"><span class="topo-outside">TKIYPLPHMFVIKDLVPDMNLFYAQYASIQPWLQKKTKINLGEKQQYQSIKEQEKLDGLY</span></span>
-<span class="topo-line"><span class="topo-outside">ECILCACCSASCPSYWWNADKYLGPAVLMQAYRWIIDSRDDSAAERLARMQDGFSAFKCH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MLRGSTSVCRSLELVTQAARYASAATAAAPTG</span><span class="topo-outside">KRIKTFEIYRFNPEEPGAKPKLQKFDVDLDKCGTMVLDALIKIKNEVDPTLTFRRSCREGICGSCAMNIAGENTLACICNIDQNTSKT</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">TKIYPLPHMFVIKDLVPDMNLFYAQYASIQPWLQKKTKINLGEKQQYQSIKEQEKLDGLYECILCACCSASCPSYWWNADKYLGPAVLMQAYRWIIDSRDDSAAERLARMQDGFSAFKCH</span></span>
+<span class="topo-ruler">       250       260       270       280  </span>
 <span class="topo-line"><span class="topo-outside">TIMNCTKTCPKHLNPARAIGEIKMLLTKMKTKPAPLPTPAN</span><span class="topo-unknown">F</span></span>
+<details class="topo-details"><summary>Topology coordinates (2 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -533,6 +549,7 @@ The X-ray crystal structure of mitochondrial quinol–fumarate reductase (QFR) f
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -548,10 +565,11 @@ The X-ray crystal structure of mitochondrial quinol–fumarate reductase (QFR) f
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSLLPYNATLCRVLRHNVKFIRSVQTSAARVSA</span><span class="topo-outside">EKTPIQVWGWDYLMRQRALKRPIAPHL</span></span>
-<span class="topo-line"><span class="topo-outside">TIYKP</span><span class="topo-membrane">QMTWMVSGLHRVTGCAMAGTLLIGGVGFSVL</span><span class="topo-inside">PLDFTTFVEFIRGLGIPWV</span><span class="topo-membrane">ILDTF</span></span>
-<span class="topo-line"><span class="topo-membrane">KFIIAFPIAFHTLNGIRFIGFDM</span><span class="topo-outside">AKGTDIPS</span><span class="topo-membrane">IYRGAYLVLGLAALISLAVVVY</span><span class="topo-inside">PRWERHK</span></span>
-<span class="topo-line"><span class="topo-inside">KATLPT</span><span class="topo-unknown">NH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSLLPYNATLCRVLRHNVKFIRSVQTSAARVSA</span><span class="topo-outside">EKTPIQVWGWDYLMRQRALKRPIAPHLTIYKP</span><span class="topo-membrane">QMTWMVSGLHRVTGCAMAGTLLIGGVGFSVL</span><span class="topo-inside">PLDFTTFVEFIRGLGIPWV</span><span class="topo-membrane">ILDTF</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180        </span>
+<span class="topo-line"><span class="topo-membrane">KFIIAFPIAFHTLNGIRFIGFDM</span><span class="topo-outside">AKGTDIPS</span><span class="topo-membrane">IYRGAYLVLGLAALISLAVVVY</span><span class="topo-inside">PRWERHKKATLPT</span><span class="topo-unknown">NH</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -626,6 +644,7 @@ The X-ray crystal structure of mitochondrial quinol–fumarate reductase (QFR) f
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -641,9 +660,11 @@ The X-ray crystal structure of mitochondrial quinol–fumarate reductase (QFR) f
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MLSAVRRAIPLSARILRTSLIQRCAGA</span><span class="topo-outside">TSAAVTGAAPPQFDPIAAEKGFKPLHSH</span><span class="topo-membrane">GTLFK</span></span>
-<span class="topo-line"><span class="topo-membrane">IERYFAAAMVPLIPAAYF</span><span class="topo-inside">IHGRE</span><span class="topo-membrane">MDLCLALALTLHVHWGVWGVVNDYG</span><span class="topo-outside">RPFVLGDTL</span><span class="topo-membrane">AAA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MLSAVRRAIPLSARILRTSLIQRCAGA</span><span class="topo-outside">TSAAVTGAAPPQFDPIAAEKGFKPLHSH</span><span class="topo-membrane">GTLFKIERYFAAAMVPLIPAAYF</span><span class="topo-inside">IHGRE</span><span class="topo-membrane">MDLCLALALTLHVHWGVWGVVNDYG</span><span class="topo-outside">RPFVLGDTL</span><span class="topo-membrane">AAA</span></span>
+<span class="topo-ruler">       130       140       150      </span>
 <span class="topo-line"><span class="topo-membrane">VRVGAYIFTACLLAGLLYFN</span><span class="topo-inside">EHDVGLTRAFEMVWEL</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -711,6 +732,7 @@ The X-ray crystal structure of mitochondrial quinol–fumarate reductase (QFR) f
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

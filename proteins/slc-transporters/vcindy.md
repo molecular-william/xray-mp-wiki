@@ -130,14 +130,15 @@ VcINDY is a sodium-dependent dicarboxylate transporter from Vibrio cholerae, bel
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">REWFL</span><span class="topo-inside">HRNS</span><span class="topo-membrane">LIVLADVALFLAL</span><span class="topo-outside">YHFLPFEHNVVLGIS</span><span class="topo-membrane">MLAFIAVLWLTEAL</span><span class="topo-inside">H</span><span class="topo-membrane">VTVTAILV</span></span>
-<span class="topo-line"><span class="topo-membrane">PVM</span><span class="topo-outside">AVFFGIFETQAAL</span><span class="topo-membrane">NNFANSIIFLFLGGFAL</span><span class="topo-inside">AAAMHHQGLDKVIADKVLAM</span><span class="topo-unknown">AQGKMS</span><span class="topo-inside">V</span></span>
-<span class="topo-line"><span class="topo-inside">AVFMLFGVTALLSMWISNTATAAMMLPLVLGVLSKV</span><span class="topo-unknown">DADKQ</span><span class="topo-inside">RSTYVFVLLGVAYSASI</span><span class="topo-membrane">GG</span></span>
-<span class="topo-line"><span class="topo-membrane">IATLVGSPPNAIAAAE</span><span class="topo-outside">VGL</span><span class="topo-membrane">SFTDWMKFGLPTAMMM</span><span class="topo-inside">LPMAIAILYFLLK</span><span class="topo-unknown">PTLNGMFELDRA</span></span>
-<span class="topo-line"><span class="topo-unknown">PVNWD</span><span class="topo-inside">KGKVVTLG</span><span class="topo-membrane">IFGLTVFLWIFSS</span><span class="topo-outside">PINAALGGFKS</span><span class="topo-membrane">FDTLVALGAILMLSFA</span><span class="topo-inside">RVVH</span><span class="topo-unknown">WKE</span></span>
-<span class="topo-line"><span class="topo-unknown">IQKT</span><span class="topo-inside">A</span><span class="topo-membrane">DWGVLLLFGGGLCLS</span><span class="topo-outside">NVLKQTG</span><span class="topo-unknown">TSVFLANALSDMVSHM</span><span class="topo-outside">GIF</span><span class="topo-membrane">VVILVVATFVVFLT</span></span>
-<span class="topo-line"><span class="topo-membrane">EF</span><span class="topo-inside">A</span><span class="topo-membrane">SNTASAALLIPVF</span><span class="topo-outside">ATVAEAFGMSPVL</span><span class="topo-membrane">LSVLIAVAASCA</span><span class="topo-inside">FMLPVATPPNAIVFASG</span><span class="topo-unknown">HI</span></span>
-<span class="topo-line"><span class="topo-inside">KQSEMMRVGLYL</span><span class="topo-membrane">NIACIGLLTAIAMLF</span><span class="topo-outside">WQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">REWFL</span><span class="topo-inside">HRNS</span><span class="topo-membrane">LIVLADVALFLAL</span><span class="topo-outside">YHFLPFEHNVVLGIS</span><span class="topo-membrane">MLAFIAVLWLTEAL</span><span class="topo-inside">H</span><span class="topo-membrane">VTVTAILVPVM</span><span class="topo-outside">AVFFGIFETQAAL</span><span class="topo-membrane">NNFANSIIFLFLGGFAL</span><span class="topo-inside">AAAMHHQGLDKVIADKVLAM</span><span class="topo-unknown">AQGKMS</span><span class="topo-inside">V</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">AVFMLFGVTALLSMWISNTATAAMMLPLVLGVLSKV</span><span class="topo-unknown">DADKQ</span><span class="topo-inside">RSTYVFVLLGVAYSASI</span><span class="topo-membrane">GGIATLVGSPPNAIAAAE</span><span class="topo-outside">VGL</span><span class="topo-membrane">SFTDWMKFGLPTAMMM</span><span class="topo-inside">LPMAIAILYFLLK</span><span class="topo-unknown">PTLNGMFELDRA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-unknown">PVNWD</span><span class="topo-inside">KGKVVTLG</span><span class="topo-membrane">IFGLTVFLWIFSS</span><span class="topo-outside">PINAALGGFKS</span><span class="topo-membrane">FDTLVALGAILMLSFA</span><span class="topo-inside">RVVH</span><span class="topo-unknown">WKEIQKT</span><span class="topo-inside">A</span><span class="topo-membrane">DWGVLLLFGGGLCLS</span><span class="topo-outside">NVLKQTG</span><span class="topo-unknown">TSVFLANALSDMVSHM</span><span class="topo-outside">GIF</span><span class="topo-membrane">VVILVVATFVVFLT</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440         </span>
+<span class="topo-line"><span class="topo-membrane">EF</span><span class="topo-inside">A</span><span class="topo-membrane">SNTASAALLIPVF</span><span class="topo-outside">ATVAEAFGMSPVL</span><span class="topo-membrane">LSVLIAVAASCA</span><span class="topo-inside">FMLPVATPPNAIVFASG</span><span class="topo-unknown">HI</span><span class="topo-inside">KQSEMMRVGLYL</span><span class="topo-membrane">NIACIGLLTAIAMLF</span><span class="topo-outside">WQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (40 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -429,6 +430,7 @@ VcINDY is a sodium-dependent dicarboxylate transporter from Vibrio cholerae, bel
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -444,14 +446,15 @@ VcINDY is a sodium-dependent dicarboxylate transporter from Vibrio cholerae, bel
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">REWFL</span><span class="topo-inside">HRNS</span><span class="topo-membrane">LIVLADVALFLAL</span><span class="topo-outside">YHFLPFEHNVVLGIS</span><span class="topo-membrane">MLAFIAVLWLTEAL</span><span class="topo-inside">H</span><span class="topo-membrane">VTVTAILV</span></span>
-<span class="topo-line"><span class="topo-membrane">PVM</span><span class="topo-outside">AVFFGIFETQAAL</span><span class="topo-membrane">NNFANSIIFLFLGGFAL</span><span class="topo-inside">AAAMHHQGLDKVIADKVLAMAQGKMSV</span></span>
-<span class="topo-line"><span class="topo-inside">AVFMLFGVTALLSMWISNTATAAMMLPLVLGVLSKVDADKQRSTYVFVLLGVAYSAS</span><span class="topo-membrane">IGG</span></span>
-<span class="topo-line"><span class="topo-membrane">IATLVGSPPNAIAAAE</span><span class="topo-outside">VGL</span><span class="topo-membrane">SFTDWMKFGLPTAMMML</span><span class="topo-inside">PMAIAILYFLLKP</span><span class="topo-unknown">TLNGMFELDR</span><span class="topo-inside">A</span></span>
-<span class="topo-line"><span class="topo-inside">PVNWDKGKVVTLG</span><span class="topo-membrane">IFGLTVFLWIFSS</span><span class="topo-outside">PINAALGGFKS</span><span class="topo-membrane">FDTLVALGAILMLSFA</span><span class="topo-inside">RVVH</span><span class="topo-unknown">WKE</span></span>
-<span class="topo-line"><span class="topo-unknown">IQKT</span><span class="topo-inside">A</span><span class="topo-membrane">DWGVLLLFGGGLCL</span><span class="topo-outside">SNVLKQTG</span><span class="topo-unknown">TSVFLANALSDMVS</span><span class="topo-outside">HMGIF</span><span class="topo-membrane">VVILVVATFVVFLT</span></span>
-<span class="topo-line"><span class="topo-membrane">EF</span><span class="topo-inside">A</span><span class="topo-membrane">SNTASAALLIPVF</span><span class="topo-outside">ATVAEAFGMSPVL</span><span class="topo-membrane">LSVLIAVAASCA</span><span class="topo-inside">FMLPVATPPNAIVFASGHI</span></span>
-<span class="topo-line"><span class="topo-inside">KQSEMMRVGLYLN</span><span class="topo-membrane">IACIGLLTAIAMLF</span><span class="topo-outside">WQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">REWFL</span><span class="topo-inside">HRNS</span><span class="topo-membrane">LIVLADVALFLAL</span><span class="topo-outside">YHFLPFEHNVVLGIS</span><span class="topo-membrane">MLAFIAVLWLTEAL</span><span class="topo-inside">H</span><span class="topo-membrane">VTVTAILVPVM</span><span class="topo-outside">AVFFGIFETQAAL</span><span class="topo-membrane">NNFANSIIFLFLGGFAL</span><span class="topo-inside">AAAMHHQGLDKVIADKVLAMAQGKMSV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">AVFMLFGVTALLSMWISNTATAAMMLPLVLGVLSKVDADKQRSTYVFVLLGVAYSAS</span><span class="topo-membrane">IGGIATLVGSPPNAIAAAE</span><span class="topo-outside">VGL</span><span class="topo-membrane">SFTDWMKFGLPTAMMML</span><span class="topo-inside">PMAIAILYFLLKP</span><span class="topo-unknown">TLNGMFELDR</span><span class="topo-inside">A</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">PVNWDKGKVVTLG</span><span class="topo-membrane">IFGLTVFLWIFSS</span><span class="topo-outside">PINAALGGFKS</span><span class="topo-membrane">FDTLVALGAILMLSFA</span><span class="topo-inside">RVVH</span><span class="topo-unknown">WKEIQKT</span><span class="topo-inside">A</span><span class="topo-membrane">DWGVLLLFGGGLCL</span><span class="topo-outside">SNVLKQTG</span><span class="topo-unknown">TSVFLANALSDMVS</span><span class="topo-outside">HMGIF</span><span class="topo-membrane">VVILVVATFVVFLT</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440         </span>
+<span class="topo-line"><span class="topo-membrane">EF</span><span class="topo-inside">A</span><span class="topo-membrane">SNTASAALLIPVF</span><span class="topo-outside">ATVAEAFGMSPVL</span><span class="topo-membrane">LSVLIAVAASCA</span><span class="topo-inside">FMLPVATPPNAIVFASGHIKQSEMMRVGLYLN</span><span class="topo-membrane">IACIGLLTAIAMLF</span><span class="topo-outside">WQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (34 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -701,6 +704,7 @@ VcINDY is a sodium-dependent dicarboxylate transporter from Vibrio cholerae, bel
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -800,14 +804,15 @@ VcINDY is a sodium-dependent dicarboxylate transporter from Vibrio cholerae, bel
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">LHRN</span><span class="topo-membrane">SLIVLADVALFLAL</span><span class="topo-outside">YHFLPFEHNVVLGIS</span><span class="topo-membrane">MLAFIAVLWLTEAL</span><span class="topo-inside">H</span><span class="topo-membrane">VTVTAILVPVM</span><span class="topo-outside">A</span></span>
-<span class="topo-line"><span class="topo-outside">VFFGIFETQAALNN</span><span class="topo-membrane">FANSIIFLFLGGFALA</span><span class="topo-inside">AAMHHQGLDKVIADKVLAMAQGKMSVAVFM</span></span>
-<span class="topo-line"><span class="topo-inside">LFGVTALLSMWISNTATAAMMLPLVLGVLSKVDADKQRSTYVFVLLGVAYSAS</span><span class="topo-membrane">IGGIATL</span></span>
-<span class="topo-line"><span class="topo-membrane">VGSPPNAIAAAE</span><span class="topo-outside">VGL</span><span class="topo-membrane">SFTDWMKFGLPTAMMMLPM</span><span class="topo-inside">AIAILYFLLKPTLNGMFELDRAPVNW</span></span>
-<span class="topo-line"><span class="topo-inside">DKGKVVTLG</span><span class="topo-membrane">IFGLTVFLWIFS</span><span class="topo-outside">SPINAALGGFKSF</span><span class="topo-membrane">DTLVALGAILMLSFA</span><span class="topo-inside">RVVH</span><span class="topo-unknown">WKEIQKT</span></span>
-<span class="topo-line"><span class="topo-inside">A</span><span class="topo-membrane">DWGVLLLFGGGLCL</span><span class="topo-outside">SNVLKQTG</span><span class="topo-unknown">TSVFLANAL</span><span class="topo-outside">SDMVSHMGIFVVI</span><span class="topo-membrane">LVVATFVVFLTEFA</span><span class="topo-inside">S</span></span>
-<span class="topo-line"><span class="topo-membrane">NTASAALLIPV</span><span class="topo-outside">FATVAEAFGMSPVLL</span><span class="topo-membrane">SVLIAVAASCA</span><span class="topo-inside">FMLPVATPPNAIVFASGHIKQSE</span></span>
-<span class="topo-line"><span class="topo-inside">MMRVGL</span><span class="topo-membrane">YLNIACIGLLTAIAMLF</span><span class="topo-outside">WQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">LHRN</span><span class="topo-membrane">SLIVLADVALFLAL</span><span class="topo-outside">YHFLPFEHNVVLGIS</span><span class="topo-membrane">MLAFIAVLWLTEAL</span><span class="topo-inside">H</span><span class="topo-membrane">VTVTAILVPVM</span><span class="topo-outside">AVFFGIFETQAALNN</span><span class="topo-membrane">FANSIIFLFLGGFALA</span><span class="topo-inside">AAMHHQGLDKVIADKVLAMAQGKMSVAVFM</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">LFGVTALLSMWISNTATAAMMLPLVLGVLSKVDADKQRSTYVFVLLGVAYSAS</span><span class="topo-membrane">IGGIATLVGSPPNAIAAAE</span><span class="topo-outside">VGL</span><span class="topo-membrane">SFTDWMKFGLPTAMMMLPM</span><span class="topo-inside">AIAILYFLLKPTLNGMFELDRAPVNW</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">DKGKVVTLG</span><span class="topo-membrane">IFGLTVFLWIFS</span><span class="topo-outside">SPINAALGGFKSF</span><span class="topo-membrane">DTLVALGAILMLSFA</span><span class="topo-inside">RVVH</span><span class="topo-unknown">WKEIQKT</span><span class="topo-inside">A</span><span class="topo-membrane">DWGVLLLFGGGLCL</span><span class="topo-outside">SNVLKQTG</span><span class="topo-unknown">TSVFLANAL</span><span class="topo-outside">SDMVSHMGIFVVI</span><span class="topo-membrane">LVVATFVVFLTEFA</span><span class="topo-inside">S</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440     </span>
+<span class="topo-line"><span class="topo-membrane">NTASAALLIPV</span><span class="topo-outside">FATVAEAFGMSPVLL</span><span class="topo-membrane">SVLIAVAASCA</span><span class="topo-inside">FMLPVATPPNAIVFASGHIKQSEMMRVGL</span><span class="topo-membrane">YLNIACIGLLTAIAMLF</span><span class="topo-outside">WQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (31 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1036,6 +1041,7 @@ VcINDY is a sodium-dependent dicarboxylate transporter from Vibrio cholerae, bel
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1051,14 +1057,15 @@ VcINDY is a sodium-dependent dicarboxylate transporter from Vibrio cholerae, bel
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">LHRN</span><span class="topo-membrane">SLIVLADVALFLAL</span><span class="topo-outside">YHFLPFEHNVVLGIS</span><span class="topo-membrane">MLAFIAVLWLTEAL</span><span class="topo-inside">H</span><span class="topo-membrane">VTVTAILVPVM</span><span class="topo-outside">A</span></span>
-<span class="topo-line"><span class="topo-outside">VFFGIFETQAALNN</span><span class="topo-membrane">FANSIIFLFLGGFALA</span><span class="topo-inside">AAMHHQGLDKVIADKVLAMAQGKMSVAVFM</span></span>
-<span class="topo-line"><span class="topo-inside">LFGVTALLSMWISNTATAAMMLPLVLGVLSKVDADKQRSTYVFVLLGVAYSAS</span><span class="topo-membrane">IGGIATL</span></span>
-<span class="topo-line"><span class="topo-membrane">VGSPPNAIAAAE</span><span class="topo-outside">VGL</span><span class="topo-membrane">SFTDWMKFGLPTAMMMLPM</span><span class="topo-inside">AIAILYFLLKPTLNGMFELDRAPVNW</span></span>
-<span class="topo-line"><span class="topo-inside">DKGKVVTLG</span><span class="topo-membrane">IFGLTVFLWIFS</span><span class="topo-outside">SPINAALGGFKSF</span><span class="topo-membrane">DTLVALGAILMLSFA</span><span class="topo-inside">RVVH</span><span class="topo-unknown">WKEIQKT</span></span>
-<span class="topo-line"><span class="topo-inside">A</span><span class="topo-membrane">DWGVLLLFGGGLCL</span><span class="topo-outside">SNVLKQTG</span><span class="topo-unknown">TSVFLANAL</span><span class="topo-outside">SDMVSHMGIFVVI</span><span class="topo-membrane">LVVATFVVFLTEFA</span><span class="topo-inside">S</span></span>
-<span class="topo-line"><span class="topo-membrane">NTASAALLIPV</span><span class="topo-outside">FATVAEAFGMSPVLL</span><span class="topo-membrane">SVLIAVAASCA</span><span class="topo-inside">FMLPVATPPNAIVFASGHIKQSE</span></span>
-<span class="topo-line"><span class="topo-inside">MMRVGL</span><span class="topo-membrane">YLNIACIGLLTAIAMLF</span><span class="topo-outside">WQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">LHRN</span><span class="topo-membrane">SLIVLADVALFLAL</span><span class="topo-outside">YHFLPFEHNVVLGIS</span><span class="topo-membrane">MLAFIAVLWLTEAL</span><span class="topo-inside">H</span><span class="topo-membrane">VTVTAILVPVM</span><span class="topo-outside">AVFFGIFETQAALNN</span><span class="topo-membrane">FANSIIFLFLGGFALA</span><span class="topo-inside">AAMHHQGLDKVIADKVLAMAQGKMSVAVFM</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">LFGVTALLSMWISNTATAAMMLPLVLGVLSKVDADKQRSTYVFVLLGVAYSAS</span><span class="topo-membrane">IGGIATLVGSPPNAIAAAE</span><span class="topo-outside">VGL</span><span class="topo-membrane">SFTDWMKFGLPTAMMMLPM</span><span class="topo-inside">AIAILYFLLKPTLNGMFELDRAPVNW</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">DKGKVVTLG</span><span class="topo-membrane">IFGLTVFLWIFS</span><span class="topo-outside">SPINAALGGFKSF</span><span class="topo-membrane">DTLVALGAILMLSFA</span><span class="topo-inside">RVVH</span><span class="topo-unknown">WKEIQKT</span><span class="topo-inside">A</span><span class="topo-membrane">DWGVLLLFGGGLCL</span><span class="topo-outside">SNVLKQTG</span><span class="topo-unknown">TSVFLANAL</span><span class="topo-outside">SDMVSHMGIFVVI</span><span class="topo-membrane">LVVATFVVFLTEFA</span><span class="topo-inside">S</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440     </span>
+<span class="topo-line"><span class="topo-membrane">NTASAALLIPV</span><span class="topo-outside">FATVAEAFGMSPVLL</span><span class="topo-membrane">SVLIAVAASCA</span><span class="topo-inside">FMLPVATPPNAIVFASGHIKQSEMMRVGL</span><span class="topo-membrane">YLNIACIGLLTAIAMLF</span><span class="topo-outside">WQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (31 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1287,6 +1294,7 @@ VcINDY is a sodium-dependent dicarboxylate transporter from Vibrio cholerae, bel
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1302,14 +1310,15 @@ VcINDY is a sodium-dependent dicarboxylate transporter from Vibrio cholerae, bel
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">LHRN</span><span class="topo-membrane">SLIVLADVALFLAL</span><span class="topo-outside">YHFLPFEHNVVLGIS</span><span class="topo-membrane">MLAFIAVLWLTEAL</span><span class="topo-inside">H</span><span class="topo-membrane">VTVTAILVPVM</span><span class="topo-outside">A</span></span>
-<span class="topo-line"><span class="topo-outside">VFFGIFETQAALNN</span><span class="topo-membrane">FANSIIFLFLGGFALA</span><span class="topo-inside">AAMHHQGLDKVIADKVLAMAQGKMSVAVFM</span></span>
-<span class="topo-line"><span class="topo-inside">LFGVTALLSMWISNTATAAMMLPLVLGVLSKVDADKQRSTYVFVLLGVAYSAS</span><span class="topo-membrane">IGGIATL</span></span>
-<span class="topo-line"><span class="topo-membrane">VGSPPNAIAAAE</span><span class="topo-outside">VGL</span><span class="topo-membrane">SFTDWMKFGLPTAMMMLPM</span><span class="topo-inside">AIAILYFLLKPTLNGMFELDRAPVNW</span></span>
-<span class="topo-line"><span class="topo-inside">DKGKVVTLG</span><span class="topo-membrane">IFGLTVFLWIFS</span><span class="topo-outside">SPINAALGGFKSF</span><span class="topo-membrane">DTLVALGAILMLSFA</span><span class="topo-inside">RVVH</span><span class="topo-unknown">WKEIQKT</span></span>
-<span class="topo-line"><span class="topo-inside">A</span><span class="topo-membrane">DWGVLLLFGGGLCL</span><span class="topo-outside">SNVLKQTG</span><span class="topo-unknown">TSVFLANAL</span><span class="topo-outside">SDMVSHMGIFVVI</span><span class="topo-membrane">LVVATFVVFLTEFA</span><span class="topo-inside">S</span></span>
-<span class="topo-line"><span class="topo-membrane">NTASAALLIPV</span><span class="topo-outside">FATVAEAFGMSPVLL</span><span class="topo-membrane">SVLIAVAASCA</span><span class="topo-inside">FMLPVATPPNAIVFASGHIKQSE</span></span>
-<span class="topo-line"><span class="topo-inside">MMRVGL</span><span class="topo-membrane">YLNIACIGLLTAIAMLF</span><span class="topo-outside">WQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">LHRN</span><span class="topo-membrane">SLIVLADVALFLAL</span><span class="topo-outside">YHFLPFEHNVVLGIS</span><span class="topo-membrane">MLAFIAVLWLTEAL</span><span class="topo-inside">H</span><span class="topo-membrane">VTVTAILVPVM</span><span class="topo-outside">AVFFGIFETQAALNN</span><span class="topo-membrane">FANSIIFLFLGGFALA</span><span class="topo-inside">AAMHHQGLDKVIADKVLAMAQGKMSVAVFM</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">LFGVTALLSMWISNTATAAMMLPLVLGVLSKVDADKQRSTYVFVLLGVAYSAS</span><span class="topo-membrane">IGGIATLVGSPPNAIAAAE</span><span class="topo-outside">VGL</span><span class="topo-membrane">SFTDWMKFGLPTAMMMLPM</span><span class="topo-inside">AIAILYFLLKPTLNGMFELDRAPVNW</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">DKGKVVTLG</span><span class="topo-membrane">IFGLTVFLWIFS</span><span class="topo-outside">SPINAALGGFKSF</span><span class="topo-membrane">DTLVALGAILMLSFA</span><span class="topo-inside">RVVH</span><span class="topo-unknown">WKEIQKT</span><span class="topo-inside">A</span><span class="topo-membrane">DWGVLLLFGGGLCL</span><span class="topo-outside">SNVLKQTG</span><span class="topo-unknown">TSVFLANAL</span><span class="topo-outside">SDMVSHMGIFVVI</span><span class="topo-membrane">LVVATFVVFLTEFA</span><span class="topo-inside">S</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440     </span>
+<span class="topo-line"><span class="topo-membrane">NTASAALLIPV</span><span class="topo-outside">FATVAEAFGMSPVLL</span><span class="topo-membrane">SVLIAVAASCA</span><span class="topo-inside">FMLPVATPPNAIVFASGHIKQSEMMRVGL</span><span class="topo-membrane">YLNIACIGLLTAIAMLF</span><span class="topo-outside">WQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (31 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1538,6 +1547,7 @@ VcINDY is a sodium-dependent dicarboxylate transporter from Vibrio cholerae, bel
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1553,14 +1563,15 @@ VcINDY is a sodium-dependent dicarboxylate transporter from Vibrio cholerae, bel
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">LHRN</span><span class="topo-membrane">SLIVLADVALFLAL</span><span class="topo-outside">YHFLPFEHNVVLGIS</span><span class="topo-membrane">MLAFIAVLWLTEAL</span><span class="topo-inside">H</span><span class="topo-membrane">VTVTAILVPVM</span><span class="topo-outside">A</span></span>
-<span class="topo-line"><span class="topo-outside">VFFGIFETQAALNN</span><span class="topo-membrane">FANSIIFLFLGGFALA</span><span class="topo-inside">AAMHHQGLDKVIADKVLAMAQGKMSVAVFM</span></span>
-<span class="topo-line"><span class="topo-inside">LFGVTALLSMWISNTATAAMMLPLVLGVLSKVDADKQRSTYVFVLLGVAYSAS</span><span class="topo-membrane">IGGIATL</span></span>
-<span class="topo-line"><span class="topo-membrane">VGSPPNAIAAAE</span><span class="topo-outside">VGL</span><span class="topo-membrane">SFTDWMKFGLPTAMMMLPM</span><span class="topo-inside">AIAILYFLLKPTLNGMFELDRAPVNW</span></span>
-<span class="topo-line"><span class="topo-inside">DKGKVVTLG</span><span class="topo-membrane">IFGLTVFLWIFS</span><span class="topo-outside">SPINAALGGFKSF</span><span class="topo-membrane">DTLVALGAILMLSFA</span><span class="topo-inside">RVVH</span><span class="topo-unknown">WKEIQKT</span></span>
-<span class="topo-line"><span class="topo-inside">A</span><span class="topo-membrane">DWGVLLLFGGGLCL</span><span class="topo-outside">SNVLKQTG</span><span class="topo-unknown">TSVFLANAL</span><span class="topo-outside">SDMVSHMGIFVVI</span><span class="topo-membrane">LVVATFVVFLTEFA</span><span class="topo-inside">S</span></span>
-<span class="topo-line"><span class="topo-membrane">NTASAALLIPV</span><span class="topo-outside">FATVAEAFGMSPVLL</span><span class="topo-membrane">SVLIAVAASCA</span><span class="topo-inside">FMLPVATPPNAIVFASGHIKQSE</span></span>
-<span class="topo-line"><span class="topo-inside">MMRVGL</span><span class="topo-membrane">YLNIACIGLLTAIAMLF</span><span class="topo-outside">WQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">LHRN</span><span class="topo-membrane">SLIVLADVALFLAL</span><span class="topo-outside">YHFLPFEHNVVLGIS</span><span class="topo-membrane">MLAFIAVLWLTEAL</span><span class="topo-inside">H</span><span class="topo-membrane">VTVTAILVPVM</span><span class="topo-outside">AVFFGIFETQAALNN</span><span class="topo-membrane">FANSIIFLFLGGFALA</span><span class="topo-inside">AAMHHQGLDKVIADKVLAMAQGKMSVAVFM</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">LFGVTALLSMWISNTATAAMMLPLVLGVLSKVDADKQRSTYVFVLLGVAYSAS</span><span class="topo-membrane">IGGIATLVGSPPNAIAAAE</span><span class="topo-outside">VGL</span><span class="topo-membrane">SFTDWMKFGLPTAMMMLPM</span><span class="topo-inside">AIAILYFLLKPTLNGMFELDRAPVNW</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">DKGKVVTLG</span><span class="topo-membrane">IFGLTVFLWIFS</span><span class="topo-outside">SPINAALGGFKSF</span><span class="topo-membrane">DTLVALGAILMLSFA</span><span class="topo-inside">RVVH</span><span class="topo-unknown">WKEIQKT</span><span class="topo-inside">A</span><span class="topo-membrane">DWGVLLLFGGGLCL</span><span class="topo-outside">SNVLKQTG</span><span class="topo-unknown">TSVFLANAL</span><span class="topo-outside">SDMVSHMGIFVVI</span><span class="topo-membrane">LVVATFVVFLTEFA</span><span class="topo-inside">S</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440     </span>
+<span class="topo-line"><span class="topo-membrane">NTASAALLIPV</span><span class="topo-outside">FATVAEAFGMSPVLL</span><span class="topo-membrane">SVLIAVAASCA</span><span class="topo-inside">FMLPVATPPNAIVFASGHIKQSEMMRVGL</span><span class="topo-membrane">YLNIACIGLLTAIAMLF</span><span class="topo-outside">WQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (31 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1789,6 +1800,7 @@ VcINDY is a sodium-dependent dicarboxylate transporter from Vibrio cholerae, bel
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1804,14 +1816,15 @@ VcINDY is a sodium-dependent dicarboxylate transporter from Vibrio cholerae, bel
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">LHRN</span><span class="topo-membrane">SLIVLADVALFLAL</span><span class="topo-outside">YHFLPFEHNVVLGIS</span><span class="topo-membrane">MLAFIAVLWLTEAL</span><span class="topo-inside">H</span><span class="topo-membrane">VTVTAILVPVM</span><span class="topo-outside">A</span></span>
-<span class="topo-line"><span class="topo-outside">VFFGIFETQAALNN</span><span class="topo-membrane">FANSIIFLFLGGFALA</span><span class="topo-inside">AAMHHQGLDKVIADKVLAMAQGKMSVAVFM</span></span>
-<span class="topo-line"><span class="topo-inside">LFGVTALLSMWISNTATAAMMLPLVLGVLSKVDADKQRSTYVFVLLGVAYSAS</span><span class="topo-membrane">IGGIATL</span></span>
-<span class="topo-line"><span class="topo-membrane">VGSPPNAIAAAE</span><span class="topo-outside">VGL</span><span class="topo-membrane">SFTDWMKFGLPTAMMMLPM</span><span class="topo-inside">AIAILYFLLKPTLNGMFELDRAPVNW</span></span>
-<span class="topo-line"><span class="topo-inside">DKGKVVTLG</span><span class="topo-membrane">IFGLTVFLWIFS</span><span class="topo-outside">SPINAALGGFKSF</span><span class="topo-membrane">DTLVALGAILMLSFA</span><span class="topo-inside">RVVH</span><span class="topo-unknown">WKEIQKT</span></span>
-<span class="topo-line"><span class="topo-inside">A</span><span class="topo-membrane">DWGVLLLFGGGLCL</span><span class="topo-outside">SNVLKQTG</span><span class="topo-unknown">TSVFLANAL</span><span class="topo-outside">SDMVSHMGIFVVI</span><span class="topo-membrane">LVVATFVVFLTEFA</span><span class="topo-inside">S</span></span>
-<span class="topo-line"><span class="topo-membrane">NTASAALLIPV</span><span class="topo-outside">FATVAEAFGMSPVLL</span><span class="topo-membrane">SVLIAVAASCA</span><span class="topo-inside">FMLPVATPPNAIVFASGHIKQSE</span></span>
-<span class="topo-line"><span class="topo-inside">MMRVGL</span><span class="topo-membrane">YLNIACIGLLTAIAMLF</span><span class="topo-outside">WQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">LHRN</span><span class="topo-membrane">SLIVLADVALFLAL</span><span class="topo-outside">YHFLPFEHNVVLGIS</span><span class="topo-membrane">MLAFIAVLWLTEAL</span><span class="topo-inside">H</span><span class="topo-membrane">VTVTAILVPVM</span><span class="topo-outside">AVFFGIFETQAALNN</span><span class="topo-membrane">FANSIIFLFLGGFALA</span><span class="topo-inside">AAMHHQGLDKVIADKVLAMAQGKMSVAVFM</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">LFGVTALLSMWISNTATAAMMLPLVLGVLSKVDADKQRSTYVFVLLGVAYSAS</span><span class="topo-membrane">IGGIATLVGSPPNAIAAAE</span><span class="topo-outside">VGL</span><span class="topo-membrane">SFTDWMKFGLPTAMMMLPM</span><span class="topo-inside">AIAILYFLLKPTLNGMFELDRAPVNW</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">DKGKVVTLG</span><span class="topo-membrane">IFGLTVFLWIFS</span><span class="topo-outside">SPINAALGGFKSF</span><span class="topo-membrane">DTLVALGAILMLSFA</span><span class="topo-inside">RVVH</span><span class="topo-unknown">WKEIQKT</span><span class="topo-inside">A</span><span class="topo-membrane">DWGVLLLFGGGLCL</span><span class="topo-outside">SNVLKQTG</span><span class="topo-unknown">TSVFLANAL</span><span class="topo-outside">SDMVSHMGIFVVI</span><span class="topo-membrane">LVVATFVVFLTEFA</span><span class="topo-inside">S</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440     </span>
+<span class="topo-line"><span class="topo-membrane">NTASAALLIPV</span><span class="topo-outside">FATVAEAFGMSPVLL</span><span class="topo-membrane">SVLIAVAASCA</span><span class="topo-inside">FMLPVATPPNAIVFASGHIKQSEMMRVGL</span><span class="topo-membrane">YLNIACIGLLTAIAMLF</span><span class="topo-outside">WQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (31 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2040,6 +2053,7 @@ VcINDY is a sodium-dependent dicarboxylate transporter from Vibrio cholerae, bel
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2055,14 +2069,15 @@ VcINDY is a sodium-dependent dicarboxylate transporter from Vibrio cholerae, bel
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">LHRN</span><span class="topo-membrane">SLIVLADVALFLAL</span><span class="topo-outside">YHFLPFEHNVVLGIS</span><span class="topo-membrane">MLAFIAVLWLTEAL</span><span class="topo-inside">H</span><span class="topo-membrane">VTVTAILVPVM</span><span class="topo-outside">A</span></span>
-<span class="topo-line"><span class="topo-outside">VFFGIFETQAALNN</span><span class="topo-membrane">FANSIIFLFLGGFALA</span><span class="topo-inside">AAMHHQGLDKVIADKVLAMAQGKMSVAVFM</span></span>
-<span class="topo-line"><span class="topo-inside">LFGVTALLSMWISNTATAAMMLPLVLGVLSKVDADKQRSTYVFVLLGVAYSAS</span><span class="topo-membrane">IGGIATL</span></span>
-<span class="topo-line"><span class="topo-membrane">VGSPPNAIAAAE</span><span class="topo-outside">VGL</span><span class="topo-membrane">SFTDWMKFGLPTAMMMLPM</span><span class="topo-inside">AIAILYFLLKPTLNGMFELDRAPVNW</span></span>
-<span class="topo-line"><span class="topo-inside">DKGKVVTLG</span><span class="topo-membrane">IFGLTVFLWIFS</span><span class="topo-outside">SPINAALGGFKSF</span><span class="topo-membrane">DTLVALGAILMLSFA</span><span class="topo-inside">RVVH</span><span class="topo-unknown">WKEIQKT</span></span>
-<span class="topo-line"><span class="topo-inside">A</span><span class="topo-membrane">DWGVLLLFGGGLCL</span><span class="topo-outside">SNVLKQTG</span><span class="topo-unknown">TSVFLANAL</span><span class="topo-outside">SDMVSHMGIFVVI</span><span class="topo-membrane">LVVATFVVFLTEFA</span><span class="topo-inside">S</span></span>
-<span class="topo-line"><span class="topo-membrane">NTASAALLIPV</span><span class="topo-outside">FATVAEAFGMSPVLL</span><span class="topo-membrane">SVLIAVAASCA</span><span class="topo-inside">FMLPVATPPNAIVFASGHIKQSE</span></span>
-<span class="topo-line"><span class="topo-inside">MMRVGL</span><span class="topo-membrane">YLNIACIGLLTAIAMLF</span><span class="topo-outside">WQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">LHRN</span><span class="topo-membrane">SLIVLADVALFLAL</span><span class="topo-outside">YHFLPFEHNVVLGIS</span><span class="topo-membrane">MLAFIAVLWLTEAL</span><span class="topo-inside">H</span><span class="topo-membrane">VTVTAILVPVM</span><span class="topo-outside">AVFFGIFETQAALNN</span><span class="topo-membrane">FANSIIFLFLGGFALA</span><span class="topo-inside">AAMHHQGLDKVIADKVLAMAQGKMSVAVFM</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">LFGVTALLSMWISNTATAAMMLPLVLGVLSKVDADKQRSTYVFVLLGVAYSAS</span><span class="topo-membrane">IGGIATLVGSPPNAIAAAE</span><span class="topo-outside">VGL</span><span class="topo-membrane">SFTDWMKFGLPTAMMMLPM</span><span class="topo-inside">AIAILYFLLKPTLNGMFELDRAPVNW</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">DKGKVVTLG</span><span class="topo-membrane">IFGLTVFLWIFS</span><span class="topo-outside">SPINAALGGFKSF</span><span class="topo-membrane">DTLVALGAILMLSFA</span><span class="topo-inside">RVVH</span><span class="topo-unknown">WKEIQKT</span><span class="topo-inside">A</span><span class="topo-membrane">DWGVLLLFGGGLCL</span><span class="topo-outside">SNVLKQTG</span><span class="topo-unknown">TSVFLANAL</span><span class="topo-outside">SDMVSHMGIFVVI</span><span class="topo-membrane">LVVATFVVFLTEFA</span><span class="topo-inside">S</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440     </span>
+<span class="topo-line"><span class="topo-membrane">NTASAALLIPV</span><span class="topo-outside">FATVAEAFGMSPVLL</span><span class="topo-membrane">SVLIAVAASCA</span><span class="topo-inside">FMLPVATPPNAIVFASGHIKQSEMMRVGL</span><span class="topo-membrane">YLNIACIGLLTAIAMLF</span><span class="topo-outside">WQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (31 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2291,6 +2306,7 @@ VcINDY is a sodium-dependent dicarboxylate transporter from Vibrio cholerae, bel
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2306,14 +2322,15 @@ VcINDY is a sodium-dependent dicarboxylate transporter from Vibrio cholerae, bel
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">LHRN</span><span class="topo-membrane">SLIVLADVALFLAL</span><span class="topo-outside">YHFLPFEHNVVLGIS</span><span class="topo-membrane">MLAFIAVLWLTEAL</span><span class="topo-inside">H</span><span class="topo-membrane">VTVTAILVPVM</span><span class="topo-outside">A</span></span>
-<span class="topo-line"><span class="topo-outside">VFFGIFETQAALNN</span><span class="topo-membrane">FANSIIFLFLGGFALA</span><span class="topo-inside">AAMHHQGLDKVIADKVLAMAQGKMSVAVFM</span></span>
-<span class="topo-line"><span class="topo-inside">LFGVTALLSMWISNTATAAMMLPLVLGVLSKVDADKQRSTYVFVLLGVAYSAS</span><span class="topo-membrane">IGGIATL</span></span>
-<span class="topo-line"><span class="topo-membrane">VGSPPNAIAAAE</span><span class="topo-outside">VGL</span><span class="topo-membrane">SFTDWMKFGLPTAMMMLPM</span><span class="topo-inside">AIAILYFLLKPTLNGMFELDRAPVNW</span></span>
-<span class="topo-line"><span class="topo-inside">DKGKVVTLG</span><span class="topo-membrane">IFGLTVFLWIFS</span><span class="topo-outside">SPINAALGGFKSF</span><span class="topo-membrane">DTLVALGAILMLSFA</span><span class="topo-inside">RVVH</span><span class="topo-unknown">WKEIQKT</span></span>
-<span class="topo-line"><span class="topo-inside">A</span><span class="topo-membrane">DWGVLLLFGGGLCL</span><span class="topo-outside">SNVLKQTG</span><span class="topo-unknown">TSVFLANAL</span><span class="topo-outside">SDMVSHMGIFVVI</span><span class="topo-membrane">LVVATFVVFLTEFA</span><span class="topo-inside">S</span></span>
-<span class="topo-line"><span class="topo-membrane">NTASAALLIPV</span><span class="topo-outside">FATVAEAFGMSPVLL</span><span class="topo-membrane">SVLIAVAASCA</span><span class="topo-inside">FMLPVATPPNAIVFASGHIKQSE</span></span>
-<span class="topo-line"><span class="topo-inside">MMRVGL</span><span class="topo-membrane">YLNIACIGLLTAIAMLF</span><span class="topo-outside">WQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">LHRN</span><span class="topo-membrane">SLIVLADVALFLAL</span><span class="topo-outside">YHFLPFEHNVVLGIS</span><span class="topo-membrane">MLAFIAVLWLTEAL</span><span class="topo-inside">H</span><span class="topo-membrane">VTVTAILVPVM</span><span class="topo-outside">AVFFGIFETQAALNN</span><span class="topo-membrane">FANSIIFLFLGGFALA</span><span class="topo-inside">AAMHHQGLDKVIADKVLAMAQGKMSVAVFM</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">LFGVTALLSMWISNTATAAMMLPLVLGVLSKVDADKQRSTYVFVLLGVAYSAS</span><span class="topo-membrane">IGGIATLVGSPPNAIAAAE</span><span class="topo-outside">VGL</span><span class="topo-membrane">SFTDWMKFGLPTAMMMLPM</span><span class="topo-inside">AIAILYFLLKPTLNGMFELDRAPVNW</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">DKGKVVTLG</span><span class="topo-membrane">IFGLTVFLWIFS</span><span class="topo-outside">SPINAALGGFKSF</span><span class="topo-membrane">DTLVALGAILMLSFA</span><span class="topo-inside">RVVH</span><span class="topo-unknown">WKEIQKT</span><span class="topo-inside">A</span><span class="topo-membrane">DWGVLLLFGGGLCL</span><span class="topo-outside">SNVLKQTG</span><span class="topo-unknown">TSVFLANAL</span><span class="topo-outside">SDMVSHMGIFVVI</span><span class="topo-membrane">LVVATFVVFLTEFA</span><span class="topo-inside">S</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440     </span>
+<span class="topo-line"><span class="topo-membrane">NTASAALLIPV</span><span class="topo-outside">FATVAEAFGMSPVLL</span><span class="topo-membrane">SVLIAVAASCA</span><span class="topo-inside">FMLPVATPPNAIVFASGHIKQSEMMRVGL</span><span class="topo-membrane">YLNIACIGLLTAIAMLF</span><span class="topo-outside">WQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (31 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2542,6 +2559,7 @@ VcINDY is a sodium-dependent dicarboxylate transporter from Vibrio cholerae, bel
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2557,14 +2575,15 @@ VcINDY is a sodium-dependent dicarboxylate transporter from Vibrio cholerae, bel
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">LHRN</span><span class="topo-membrane">SLIVLADVALFLAL</span><span class="topo-outside">YHFLPFEHNVVLGIS</span><span class="topo-membrane">MLAFIAVLWLTEAL</span><span class="topo-inside">H</span><span class="topo-membrane">VTVTAILVPVM</span><span class="topo-outside">A</span></span>
-<span class="topo-line"><span class="topo-outside">VFFGIFETQAALNN</span><span class="topo-membrane">FANSIIFLFLGGFALA</span><span class="topo-inside">AAMHHQGLDKVIADKVLAMAQGKMSVAVFM</span></span>
-<span class="topo-line"><span class="topo-inside">LFGVTALLSMWISNTATAAMMLPLVLGVLSKVDADKQRSTYVFVLLGVAYSAS</span><span class="topo-membrane">IGGIATL</span></span>
-<span class="topo-line"><span class="topo-membrane">VGSPPNAIAAAE</span><span class="topo-outside">VGL</span><span class="topo-membrane">SFTDWMKFGLPTAMMMLPM</span><span class="topo-inside">AIAILYFLLKPTLNGMFELDRAPVNW</span></span>
-<span class="topo-line"><span class="topo-inside">DKGKVVTLG</span><span class="topo-membrane">IFGLTVFLWIFS</span><span class="topo-outside">SPINAALGGFKSF</span><span class="topo-membrane">DTLVALGAILMLSFA</span><span class="topo-inside">RVVH</span><span class="topo-unknown">WKEIQKT</span></span>
-<span class="topo-line"><span class="topo-inside">A</span><span class="topo-membrane">DWGVLLLFGGGLCL</span><span class="topo-outside">SNVLKQTG</span><span class="topo-unknown">TSVFLANAL</span><span class="topo-outside">SDMVSHMGIFVVI</span><span class="topo-membrane">LVVATFVVFLTEFA</span><span class="topo-inside">S</span></span>
-<span class="topo-line"><span class="topo-membrane">NTASAALLIPV</span><span class="topo-outside">FATVAEAFGMSPVLL</span><span class="topo-membrane">SVLIAVAASCA</span><span class="topo-inside">FMLPVATPPNAIVFASGHIKQSE</span></span>
-<span class="topo-line"><span class="topo-inside">MMRVGL</span><span class="topo-membrane">YLNIACIGLLTAIAMLF</span><span class="topo-outside">WQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">LHRN</span><span class="topo-membrane">SLIVLADVALFLAL</span><span class="topo-outside">YHFLPFEHNVVLGIS</span><span class="topo-membrane">MLAFIAVLWLTEAL</span><span class="topo-inside">H</span><span class="topo-membrane">VTVTAILVPVM</span><span class="topo-outside">AVFFGIFETQAALNN</span><span class="topo-membrane">FANSIIFLFLGGFALA</span><span class="topo-inside">AAMHHQGLDKVIADKVLAMAQGKMSVAVFM</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">LFGVTALLSMWISNTATAAMMLPLVLGVLSKVDADKQRSTYVFVLLGVAYSAS</span><span class="topo-membrane">IGGIATLVGSPPNAIAAAE</span><span class="topo-outside">VGL</span><span class="topo-membrane">SFTDWMKFGLPTAMMMLPM</span><span class="topo-inside">AIAILYFLLKPTLNGMFELDRAPVNW</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">DKGKVVTLG</span><span class="topo-membrane">IFGLTVFLWIFS</span><span class="topo-outside">SPINAALGGFKSF</span><span class="topo-membrane">DTLVALGAILMLSFA</span><span class="topo-inside">RVVH</span><span class="topo-unknown">WKEIQKT</span><span class="topo-inside">A</span><span class="topo-membrane">DWGVLLLFGGGLCL</span><span class="topo-outside">SNVLKQTG</span><span class="topo-unknown">TSVFLANAL</span><span class="topo-outside">SDMVSHMGIFVVI</span><span class="topo-membrane">LVVATFVVFLTEFA</span><span class="topo-inside">S</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440     </span>
+<span class="topo-line"><span class="topo-membrane">NTASAALLIPV</span><span class="topo-outside">FATVAEAFGMSPVLL</span><span class="topo-membrane">SVLIAVAASCA</span><span class="topo-inside">FMLPVATPPNAIVFASGHIKQSEMMRVGL</span><span class="topo-membrane">YLNIACIGLLTAIAMLF</span><span class="topo-outside">WQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (31 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2793,6 +2812,7 @@ VcINDY is a sodium-dependent dicarboxylate transporter from Vibrio cholerae, bel
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

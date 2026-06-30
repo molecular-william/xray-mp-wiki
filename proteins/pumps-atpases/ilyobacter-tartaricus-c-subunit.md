@@ -115,8 +115,9 @@ The crystal structure of the membrane-embedded rotor ring of the sodium ion-tran
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MDMLFAKTVV</span><span class="topo-membrane">LAASAVGAGTAMIAGIGPGVGQ</span><span class="topo-inside">GYAAGKAVESVARQPEAKGDIISTMVLG</span></span>
-<span class="topo-line"><span class="topo-inside">QA</span><span class="topo-membrane">VAESTGIYSLVIALILLYANPF</span><span class="topo-outside">VGLLG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80         </span>
+<span class="topo-line"><span class="topo-outside">MDMLFAKTVV</span><span class="topo-membrane">LAASAVGAGTAMIAGIGPGVGQ</span><span class="topo-inside">GYAAGKAVESVARQPEAKGDIISTMVLGQA</span><span class="topo-membrane">VAESTGIYSLVIALILLYANPF</span><span class="topo-outside">VGLLG</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -163,6 +164,7 @@ The crystal structure of the membrane-embedded rotor ring of the sodium ion-tran
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -178,8 +180,9 @@ The crystal structure of the membrane-embedded rotor ring of the sodium ion-tran
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MDMLFAKTVV</span><span class="topo-membrane">LAASAVGAGTAMIAGIGPGVGQ</span><span class="topo-inside">GYAAGKAVESVARQPEAKGDIISTMVLG</span></span>
-<span class="topo-line"><span class="topo-inside">QA</span><span class="topo-membrane">VAESTGIYSLVIALILLYANPFV</span><span class="topo-outside">GLLG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80         </span>
+<span class="topo-line"><span class="topo-outside">MDMLFAKTVV</span><span class="topo-membrane">LAASAVGAGTAMIAGIGPGVGQ</span><span class="topo-inside">GYAAGKAVESVARQPEAKGDIISTMVLGQA</span><span class="topo-membrane">VAESTGIYSLVIALILLYANPFV</span><span class="topo-outside">GLLG</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -226,6 +229,7 @@ The crystal structure of the membrane-embedded rotor ring of the sodium ion-tran
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -241,8 +245,9 @@ The crystal structure of the membrane-embedded rotor ring of the sodium ion-tran
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MDMLFAKTVV</span><span class="topo-membrane">LAASAVGAGTAMIAGIGPGVG</span><span class="topo-inside">QGYAAGKAVESVARQPEAKGDIISTMVLG</span></span>
-<span class="topo-line"><span class="topo-inside">QA</span><span class="topo-membrane">VAESTGIYSLVIALILLYANPFV</span><span class="topo-outside">GLLG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80         </span>
+<span class="topo-line"><span class="topo-outside">MDMLFAKTVV</span><span class="topo-membrane">LAASAVGAGTAMIAGIGPGVG</span><span class="topo-inside">QGYAAGKAVESVARQPEAKGDIISTMVLGQA</span><span class="topo-membrane">VAESTGIYSLVIALILLYANPFV</span><span class="topo-outside">GLLG</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -289,6 +294,7 @@ The crystal structure of the membrane-embedded rotor ring of the sodium ion-tran
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -304,8 +310,9 @@ The crystal structure of the membrane-embedded rotor ring of the sodium ion-tran
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MDMLFAKTVV</span><span class="topo-membrane">LAASAVGAGTAMIAGIGPGVG</span><span class="topo-inside">QGYAAGKAVESVARQPEAKGDIISTMVLG</span></span>
-<span class="topo-line"><span class="topo-inside">QA</span><span class="topo-membrane">VAESTGIYSLVIALILLYANPFVG</span><span class="topo-outside">LLG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80         </span>
+<span class="topo-line"><span class="topo-outside">MDMLFAKTVV</span><span class="topo-membrane">LAASAVGAGTAMIAGIGPGVG</span><span class="topo-inside">QGYAAGKAVESVARQPEAKGDIISTMVLGQA</span><span class="topo-membrane">VAESTGIYSLVIALILLYANPFVG</span><span class="topo-outside">LLG</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -352,6 +359,7 @@ The crystal structure of the membrane-embedded rotor ring of the sodium ion-tran
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -367,8 +375,9 @@ The crystal structure of the membrane-embedded rotor ring of the sodium ion-tran
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MDMLFAKTVV</span><span class="topo-membrane">LAASAVGAGTAMIAGIGPGVG</span><span class="topo-inside">QGYAAGKAVESVARQPEAKGDIISTMVLG</span></span>
-<span class="topo-line"><span class="topo-inside">QA</span><span class="topo-membrane">VAESTGIYSLVIALILLYANPFVG</span><span class="topo-outside">LLG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80         </span>
+<span class="topo-line"><span class="topo-outside">MDMLFAKTVV</span><span class="topo-membrane">LAASAVGAGTAMIAGIGPGVG</span><span class="topo-inside">QGYAAGKAVESVARQPEAKGDIISTMVLGQA</span><span class="topo-membrane">VAESTGIYSLVIALILLYANPFVG</span><span class="topo-outside">LLG</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -415,6 +424,7 @@ The crystal structure of the membrane-embedded rotor ring of the sodium ion-tran
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -430,8 +440,9 @@ The crystal structure of the membrane-embedded rotor ring of the sodium ion-tran
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MDMLFAKTVV</span><span class="topo-membrane">LAASAVGAGTAMIAGIGPGVG</span><span class="topo-inside">QGYAAGKAVESVARQPEAKGDIISTMVLG</span></span>
-<span class="topo-line"><span class="topo-inside">QA</span><span class="topo-membrane">VAESTGIYSLVIALILLYANPFVG</span><span class="topo-outside">LLG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80         </span>
+<span class="topo-line"><span class="topo-outside">MDMLFAKTVV</span><span class="topo-membrane">LAASAVGAGTAMIAGIGPGVG</span><span class="topo-inside">QGYAAGKAVESVARQPEAKGDIISTMVLGQA</span><span class="topo-membrane">VAESTGIYSLVIALILLYANPFVG</span><span class="topo-outside">LLG</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -478,6 +489,7 @@ The crystal structure of the membrane-embedded rotor ring of the sodium ion-tran
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -493,8 +505,9 @@ The crystal structure of the membrane-embedded rotor ring of the sodium ion-tran
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MDMLFAKTVV</span><span class="topo-membrane">LAASAVGAGTAMIAGIGPGVG</span><span class="topo-inside">QGYAAGKAVESVARQPEAKGDIISTMVLG</span></span>
-<span class="topo-line"><span class="topo-inside">QA</span><span class="topo-membrane">VAESTGIYSLVIALILLYANPFV</span><span class="topo-outside">GLLG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80         </span>
+<span class="topo-line"><span class="topo-outside">MDMLFAKTVV</span><span class="topo-membrane">LAASAVGAGTAMIAGIGPGVG</span><span class="topo-inside">QGYAAGKAVESVARQPEAKGDIISTMVLGQA</span><span class="topo-membrane">VAESTGIYSLVIALILLYANPFV</span><span class="topo-outside">GLLG</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -541,6 +554,7 @@ The crystal structure of the membrane-embedded rotor ring of the sodium ion-tran
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -556,8 +570,9 @@ The crystal structure of the membrane-embedded rotor ring of the sodium ion-tran
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MDMLFAKTVV</span><span class="topo-membrane">LAASAVGAGTAMIAGIGPGVG</span><span class="topo-inside">QGYAAGKAVESVARQPEAKGDIISTMVLG</span></span>
-<span class="topo-line"><span class="topo-inside">QA</span><span class="topo-membrane">VAESTGIYSLVIALILLYANPFV</span><span class="topo-outside">GLLG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80         </span>
+<span class="topo-line"><span class="topo-outside">MDMLFAKTVV</span><span class="topo-membrane">LAASAVGAGTAMIAGIGPGVG</span><span class="topo-inside">QGYAAGKAVESVARQPEAKGDIISTMVLGQA</span><span class="topo-membrane">VAESTGIYSLVIALILLYANPFV</span><span class="topo-outside">GLLG</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -604,6 +619,7 @@ The crystal structure of the membrane-embedded rotor ring of the sodium ion-tran
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -619,8 +635,9 @@ The crystal structure of the membrane-embedded rotor ring of the sodium ion-tran
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MDMLFAKTVV</span><span class="topo-membrane">LAASAVGAGTAMIAGIGPGVGQ</span><span class="topo-inside">GYAAGKAVESVARQPEAKGDIISTMVLG</span></span>
-<span class="topo-line"><span class="topo-inside">QA</span><span class="topo-membrane">VAESTGIYSLVIALILLYANPF</span><span class="topo-outside">VGLLG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80         </span>
+<span class="topo-line"><span class="topo-outside">MDMLFAKTVV</span><span class="topo-membrane">LAASAVGAGTAMIAGIGPGVGQ</span><span class="topo-inside">GYAAGKAVESVARQPEAKGDIISTMVLGQA</span><span class="topo-membrane">VAESTGIYSLVIALILLYANPF</span><span class="topo-outside">VGLLG</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -667,6 +684,7 @@ The crystal structure of the membrane-embedded rotor ring of the sodium ion-tran
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -682,8 +700,9 @@ The crystal structure of the membrane-embedded rotor ring of the sodium ion-tran
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MDMLFAKTVV</span><span class="topo-membrane">LAASAVGAGTAMIAGIGPGVGQ</span><span class="topo-inside">GYAAGKAVESVARQPEAKGDIISTMVLG</span></span>
-<span class="topo-line"><span class="topo-inside">QA</span><span class="topo-membrane">VAESTGIYSLVIALILLYANPF</span><span class="topo-outside">VGLLG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80         </span>
+<span class="topo-line"><span class="topo-outside">MDMLFAKTVV</span><span class="topo-membrane">LAASAVGAGTAMIAGIGPGVGQ</span><span class="topo-inside">GYAAGKAVESVARQPEAKGDIISTMVLGQA</span><span class="topo-membrane">VAESTGIYSLVIALILLYANPF</span><span class="topo-outside">VGLLG</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -730,6 +749,7 @@ The crystal structure of the membrane-embedded rotor ring of the sodium ion-tran
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -745,8 +765,9 @@ The crystal structure of the membrane-embedded rotor ring of the sodium ion-tran
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MDMLFAKTVV</span><span class="topo-membrane">LAASAVGAGTAMIAGIGPGVGQ</span><span class="topo-inside">GYAAGKAVESVARQPEAKGDIISTMVLG</span></span>
-<span class="topo-line"><span class="topo-inside">QA</span><span class="topo-membrane">VAESTGIYSLVIALILLYANPF</span><span class="topo-outside">VGLLG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80         </span>
+<span class="topo-line"><span class="topo-outside">MDMLFAKTVV</span><span class="topo-membrane">LAASAVGAGTAMIAGIGPGVGQ</span><span class="topo-inside">GYAAGKAVESVARQPEAKGDIISTMVLGQA</span><span class="topo-membrane">VAESTGIYSLVIALILLYANPF</span><span class="topo-outside">VGLLG</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -793,6 +814,7 @@ The crystal structure of the membrane-embedded rotor ring of the sodium ion-tran
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

@@ -119,8 +119,9 @@ The c10 ring of the yeast mitochondrial F1Fo ATP synthase is a homomeric ring of
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MQLVLAAKYIGA</span><span class="topo-membrane">GISTIGLLGAGIGIAIVFAAL</span><span class="topo-inside">INGVSRNPSIKDTVF</span><span class="topo-membrane">PMAILGFALSEA</span></span>
-<span class="topo-line"><span class="topo-membrane">TGLFCLMVSFL</span><span class="topo-outside">LLFG</span><span class="topo-unknown">V</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70      </span>
+<span class="topo-line"><span class="topo-outside">MQLVLAAKYIGA</span><span class="topo-membrane">GISTIGLLGAGIGIAIVFAAL</span><span class="topo-inside">INGVSRNPSIKDTVF</span><span class="topo-membrane">PMAILGFALSEATGLFCLMVSFL</span><span class="topo-outside">LLFG</span><span class="topo-unknown">V</span></span>
+<details class="topo-details"><summary>Topology coordinates (6 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -174,6 +175,7 @@ The c10 ring of the yeast mitochondrial F1Fo ATP synthase is a homomeric ring of
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -189,8 +191,9 @@ The c10 ring of the yeast mitochondrial F1Fo ATP synthase is a homomeric ring of
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MQLVLAAKYIGA</span><span class="topo-membrane">GISTIGLLGAGIGIAIVFAAL</span><span class="topo-inside">INGVSRNPSIKDTVF</span><span class="topo-membrane">PMAILGFALSEA</span></span>
-<span class="topo-line"><span class="topo-membrane">TGLFCLMVSFL</span><span class="topo-outside">LLFG</span><span class="topo-unknown">V</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70      </span>
+<span class="topo-line"><span class="topo-outside">MQLVLAAKYIGA</span><span class="topo-membrane">GISTIGLLGAGIGIAIVFAAL</span><span class="topo-inside">INGVSRNPSIKDTVF</span><span class="topo-membrane">PMAILGFALSEATGLFCLMVSFL</span><span class="topo-outside">LLFG</span><span class="topo-unknown">V</span></span>
+<details class="topo-details"><summary>Topology coordinates (6 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -244,6 +247,7 @@ The c10 ring of the yeast mitochondrial F1Fo ATP synthase is a homomeric ring of
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -259,8 +263,9 @@ The c10 ring of the yeast mitochondrial F1Fo ATP synthase is a homomeric ring of
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MQLVLAAKYIGA</span><span class="topo-membrane">GISTIGLLGAGIGIAIVFAAL</span><span class="topo-inside">INGVSRNPSIKDTVF</span><span class="topo-membrane">PMAILGFALSEA</span></span>
-<span class="topo-line"><span class="topo-membrane">TGLFCLMVSFL</span><span class="topo-outside">LLFG</span><span class="topo-unknown">V</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70      </span>
+<span class="topo-line"><span class="topo-outside">MQLVLAAKYIGA</span><span class="topo-membrane">GISTIGLLGAGIGIAIVFAAL</span><span class="topo-inside">INGVSRNPSIKDTVF</span><span class="topo-membrane">PMAILGFALSEATGLFCLMVSFL</span><span class="topo-outside">LLFG</span><span class="topo-unknown">V</span></span>
+<details class="topo-details"><summary>Topology coordinates (6 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -314,6 +319,7 @@ The c10 ring of the yeast mitochondrial F1Fo ATP synthase is a homomeric ring of
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -329,8 +335,9 @@ The c10 ring of the yeast mitochondrial F1Fo ATP synthase is a homomeric ring of
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MQLVLAAKYIGA</span><span class="topo-membrane">GISTIGLLGAGIGIAIVFAAL</span><span class="topo-inside">INGVSRNPSIKDTVF</span><span class="topo-membrane">PMAILGFALSEA</span></span>
-<span class="topo-line"><span class="topo-membrane">TGLFCLMVSFL</span><span class="topo-outside">LLFG</span><span class="topo-unknown">V</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70      </span>
+<span class="topo-line"><span class="topo-outside">MQLVLAAKYIGA</span><span class="topo-membrane">GISTIGLLGAGIGIAIVFAAL</span><span class="topo-inside">INGVSRNPSIKDTVF</span><span class="topo-membrane">PMAILGFALSEATGLFCLMVSFL</span><span class="topo-outside">LLFG</span><span class="topo-unknown">V</span></span>
+<details class="topo-details"><summary>Topology coordinates (6 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -384,6 +391,7 @@ The c10 ring of the yeast mitochondrial F1Fo ATP synthase is a homomeric ring of
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -399,8 +407,9 @@ The c10 ring of the yeast mitochondrial F1Fo ATP synthase is a homomeric ring of
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MQLVLAAKYIGA</span><span class="topo-membrane">GISTIGLLGAGIGIAIVFAAL</span><span class="topo-inside">INGVSRNPSIKDTVF</span><span class="topo-membrane">PMAILGFALSEA</span></span>
-<span class="topo-line"><span class="topo-membrane">TGLFCLMVSFL</span><span class="topo-outside">LLFG</span><span class="topo-unknown">V</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70      </span>
+<span class="topo-line"><span class="topo-outside">MQLVLAAKYIGA</span><span class="topo-membrane">GISTIGLLGAGIGIAIVFAAL</span><span class="topo-inside">INGVSRNPSIKDTVF</span><span class="topo-membrane">PMAILGFALSEATGLFCLMVSFL</span><span class="topo-outside">LLFG</span><span class="topo-unknown">V</span></span>
+<details class="topo-details"><summary>Topology coordinates (6 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -454,6 +463,7 @@ The c10 ring of the yeast mitochondrial F1Fo ATP synthase is a homomeric ring of
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -469,8 +479,9 @@ The c10 ring of the yeast mitochondrial F1Fo ATP synthase is a homomeric ring of
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MQLVLAAKYIGA</span><span class="topo-membrane">GISTIGLLGAGIGIAIVFAAL</span><span class="topo-inside">INGVSRNPSIKDTVF</span><span class="topo-membrane">PMAILGFALSEA</span></span>
-<span class="topo-line"><span class="topo-membrane">TGLFCLMVSFL</span><span class="topo-outside">LLFG</span><span class="topo-unknown">V</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70      </span>
+<span class="topo-line"><span class="topo-outside">MQLVLAAKYIGA</span><span class="topo-membrane">GISTIGLLGAGIGIAIVFAAL</span><span class="topo-inside">INGVSRNPSIKDTVF</span><span class="topo-membrane">PMAILGFALSEATGLFCLMVSFL</span><span class="topo-outside">LLFG</span><span class="topo-unknown">V</span></span>
+<details class="topo-details"><summary>Topology coordinates (6 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -524,6 +535,7 @@ The c10 ring of the yeast mitochondrial F1Fo ATP synthase is a homomeric ring of
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -539,8 +551,9 @@ The c10 ring of the yeast mitochondrial F1Fo ATP synthase is a homomeric ring of
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MQLVLAAKYIGA</span><span class="topo-membrane">GISTIGLLGAGIGIAIVFAAL</span><span class="topo-inside">INGVSRNPSIKDTVF</span><span class="topo-membrane">PMAILGFALSEA</span></span>
-<span class="topo-line"><span class="topo-membrane">TGLFCLMVSFL</span><span class="topo-outside">LLFG</span><span class="topo-unknown">V</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70      </span>
+<span class="topo-line"><span class="topo-outside">MQLVLAAKYIGA</span><span class="topo-membrane">GISTIGLLGAGIGIAIVFAAL</span><span class="topo-inside">INGVSRNPSIKDTVF</span><span class="topo-membrane">PMAILGFALSEATGLFCLMVSFL</span><span class="topo-outside">LLFG</span><span class="topo-unknown">V</span></span>
+<details class="topo-details"><summary>Topology coordinates (6 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -594,6 +607,7 @@ The c10 ring of the yeast mitochondrial F1Fo ATP synthase is a homomeric ring of
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -609,8 +623,9 @@ The c10 ring of the yeast mitochondrial F1Fo ATP synthase is a homomeric ring of
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MQLVLAAKYIGA</span><span class="topo-membrane">GISTIGLLGAGIGIAIVFAAL</span><span class="topo-inside">INGVSRNPSIKDTVF</span><span class="topo-membrane">PMAILGFALSEA</span></span>
-<span class="topo-line"><span class="topo-membrane">TGLFCLMVSFL</span><span class="topo-outside">LLFG</span><span class="topo-unknown">V</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70      </span>
+<span class="topo-line"><span class="topo-outside">MQLVLAAKYIGA</span><span class="topo-membrane">GISTIGLLGAGIGIAIVFAAL</span><span class="topo-inside">INGVSRNPSIKDTVF</span><span class="topo-membrane">PMAILGFALSEATGLFCLMVSFL</span><span class="topo-outside">LLFG</span><span class="topo-unknown">V</span></span>
+<details class="topo-details"><summary>Topology coordinates (6 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -664,6 +679,7 @@ The c10 ring of the yeast mitochondrial F1Fo ATP synthase is a homomeric ring of
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -679,8 +695,9 @@ The c10 ring of the yeast mitochondrial F1Fo ATP synthase is a homomeric ring of
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MQLVLAAKYIGA</span><span class="topo-membrane">GISTIGLLGAGIGIAIVFAAL</span><span class="topo-inside">INGVSRNPSIKDTVF</span><span class="topo-membrane">PMAILGFALSEA</span></span>
-<span class="topo-line"><span class="topo-membrane">TGLFCLMVSFL</span><span class="topo-outside">LLFG</span><span class="topo-unknown">V</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70      </span>
+<span class="topo-line"><span class="topo-outside">MQLVLAAKYIGA</span><span class="topo-membrane">GISTIGLLGAGIGIAIVFAAL</span><span class="topo-inside">INGVSRNPSIKDTVF</span><span class="topo-membrane">PMAILGFALSEATGLFCLMVSFL</span><span class="topo-outside">LLFG</span><span class="topo-unknown">V</span></span>
+<details class="topo-details"><summary>Topology coordinates (6 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -734,6 +751,7 @@ The c10 ring of the yeast mitochondrial F1Fo ATP synthase is a homomeric ring of
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -749,8 +767,9 @@ The c10 ring of the yeast mitochondrial F1Fo ATP synthase is a homomeric ring of
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MQLVLAAKYIGA</span><span class="topo-membrane">GISTIGLLGAGIGIAIVFAAL</span><span class="topo-inside">INGVSRNPSIKDTVF</span><span class="topo-membrane">PMAILGFALSEA</span></span>
-<span class="topo-line"><span class="topo-membrane">TGLFCLMVSFL</span><span class="topo-outside">LLFG</span><span class="topo-unknown">V</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70      </span>
+<span class="topo-line"><span class="topo-outside">MQLVLAAKYIGA</span><span class="topo-membrane">GISTIGLLGAGIGIAIVFAAL</span><span class="topo-inside">INGVSRNPSIKDTVF</span><span class="topo-membrane">PMAILGFALSEATGLFCLMVSFL</span><span class="topo-outside">LLFG</span><span class="topo-unknown">V</span></span>
+<details class="topo-details"><summary>Topology coordinates (6 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -804,6 +823,7 @@ The c10 ring of the yeast mitochondrial F1Fo ATP synthase is a homomeric ring of
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

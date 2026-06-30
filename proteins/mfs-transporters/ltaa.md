@@ -152,13 +152,15 @@ diacylglycerol lipid tails.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">ANHKNFI</span><span class="topo-membrane">LMLIILFLMEFARGMYILSYI</span><span class="topo-outside">NFLPTVTSIAVAITSL</span><span class="topo-membrane">AFSIHFIADASTNFVI</span></span>
-<span class="topo-line"><span class="topo-membrane">G</span><span class="topo-inside">FLLKKFGTKIV</span><span class="topo-membrane">LTTGFILAFTSLFLVIWFP</span><span class="topo-outside">ASPF</span><span class="topo-membrane">VIIFSAMMLGIAVSPIWVIML</span><span class="topo-inside">SSVE</span></span>
-<span class="topo-line"><span class="topo-inside">EDKRG</span><span class="topo-membrane">KQMGYVYFSWLLGLLVGMVFMNLL</span><span class="topo-outside">IKVHPTR</span><span class="topo-membrane">FAFMMSLVVLIAWILY</span><span class="topo-inside">YFVDVKLT</span></span>
-<span class="topo-line"><span class="topo-inside">NYNTRPVKAQ</span><span class="topo-unknown">LRQIVDVTKR</span><span class="topo-inside">HL</span><span class="topo-membrane">LLFPGILLQGAAIAALVP</span><span class="topo-outside">ILPTYATKVINVSTIEYTVA</span></span>
-<span class="topo-line"><span class="topo-outside">III</span><span class="topo-membrane">GGIGCAVSMLFLSKLIDNRS</span><span class="topo-inside">RNFM</span><span class="topo-membrane">YGVILSGFILYMILIFTL</span><span class="topo-outside">SMIVNIHI</span><span class="topo-membrane">LWIIALA</span></span>
-<span class="topo-line"><span class="topo-membrane">IGLMYGILLPAWNTFM</span><span class="topo-inside">ARFIKSDEQEETW</span><span class="topo-membrane">GVFNSIQGFGSMIGPLFG</span><span class="topo-outside">GLITQFTNNLN</span><span class="topo-membrane">NT</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">ANHKNFI</span><span class="topo-membrane">LMLIILFLMEFARGMYILSYI</span><span class="topo-outside">NFLPTVTSIAVAITSL</span><span class="topo-membrane">AFSIHFIADASTNFVIG</span><span class="topo-inside">FLLKKFGTKIV</span><span class="topo-membrane">LTTGFILAFTSLFLVIWFP</span><span class="topo-outside">ASPF</span><span class="topo-membrane">VIIFSAMMLGIAVSPIWVIML</span><span class="topo-inside">SSVE</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">EDKRG</span><span class="topo-membrane">KQMGYVYFSWLLGLLVGMVFMNLL</span><span class="topo-outside">IKVHPTR</span><span class="topo-membrane">FAFMMSLVVLIAWILY</span><span class="topo-inside">YFVDVKLTNYNTRPVKAQ</span><span class="topo-unknown">LRQIVDVTKR</span><span class="topo-inside">HL</span><span class="topo-membrane">LLFPGILLQGAAIAALVP</span><span class="topo-outside">ILPTYATKVINVSTIEYTVA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">III</span><span class="topo-membrane">GGIGCAVSMLFLSKLIDNRS</span><span class="topo-inside">RNFM</span><span class="topo-membrane">YGVILSGFILYMILIFTL</span><span class="topo-outside">SMIVNIHI</span><span class="topo-membrane">LWIIALAIGLMYGILLPAWNTFM</span><span class="topo-inside">ARFIKSDEQEETW</span><span class="topo-membrane">GVFNSIQGFGSMIGPLFG</span><span class="topo-outside">GLITQFTNNLN</span><span class="topo-membrane">NT</span></span>
+<span class="topo-ruler">       370        </span>
 <span class="topo-line"><span class="topo-membrane">FYFSALIFLVLAVFYGS</span><span class="topo-inside">Y</span></span>
+<details class="topo-details"><summary>Topology coordinates (27 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -359,6 +361,7 @@ diacylglycerol lipid tails.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

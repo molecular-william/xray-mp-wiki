@@ -143,11 +143,13 @@ Human [Aquaporin Family](/xray-mp-wiki/concepts/transport-mechanisms/aquaporin/)
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MVREF</span><span class="topo-membrane">LAEFMSTYVMMVFGLGSV</span><span class="topo-outside">AHMVLNKKYGSYL</span><span class="topo-membrane">GVNLGFGFGVTMGVHVAG</span><span class="topo-inside">RISG</span><span class="topo-unknown">AH</span></span>
-<span class="topo-line"><span class="topo-unknown">MNAAVTFANCAL</span><span class="topo-inside">GRVPWRKF</span><span class="topo-membrane">PVYVLGQFLGSFLAAATIYSL</span><span class="topo-outside">FYTAILHFSGGQLMVTGPV</span></span>
-<span class="topo-line"><span class="topo-outside">ATAGIFATYLPDHMTLWRG</span><span class="topo-membrane">FLNEAWLTGMLQLCLFAI</span><span class="topo-inside">TDQENNPALPGT</span><span class="topo-membrane">EALVIGILVVI</span></span>
-<span class="topo-line"><span class="topo-membrane">IGVSLG</span><span class="topo-outside">MNTG</span><span class="topo-unknown">YAINPSRDLPPRIF</span><span class="topo-outside">TFIAGWGKQVFSNGENWW</span><span class="topo-membrane">WVPVVAPLLGAYLGGIIY</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">MVREF</span><span class="topo-membrane">LAEFMSTYVMMVFGLGSV</span><span class="topo-outside">AHMVLNKKYGSYL</span><span class="topo-membrane">GVNLGFGFGVTMGVHVAG</span><span class="topo-inside">RISG</span><span class="topo-unknown">AHMNAAVTFANCAL</span><span class="topo-inside">GRVPWRKF</span><span class="topo-membrane">PVYVLGQFLGSFLAAATIYSL</span><span class="topo-outside">FYTAILHFSGGQLMVTGPV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">ATAGIFATYLPDHMTLWRG</span><span class="topo-membrane">FLNEAWLTGMLQLCLFAI</span><span class="topo-inside">TDQENNPALPGT</span><span class="topo-membrane">EALVIGILVVIIGVSLG</span><span class="topo-outside">MNTG</span><span class="topo-unknown">YAINPSRDLPPRIF</span><span class="topo-outside">TFIAGWGKQVFSNGENWW</span><span class="topo-membrane">WVPVVAPLLGAYLGGIIY</span></span>
+<span class="topo-ruler">       </span>
 <span class="topo-line"><span class="topo-inside">LVFIGST</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -278,6 +280,7 @@ Human [Aquaporin Family](/xray-mp-wiki/concepts/transport-mechanisms/aquaporin/)
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -293,11 +296,13 @@ Human [Aquaporin Family](/xray-mp-wiki/concepts/transport-mechanisms/aquaporin/)
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MVREF</span><span class="topo-membrane">LAEFMSTYVMMVFGLGSV</span><span class="topo-outside">AHMVLNKKYGSYL</span><span class="topo-membrane">GVNLGFGFGVTMGVHVAG</span><span class="topo-inside">RISG</span><span class="topo-unknown">AH</span></span>
-<span class="topo-line"><span class="topo-unknown">MNAAVTFANCAL</span><span class="topo-inside">GRVPWRKF</span><span class="topo-membrane">PVYVLGQFLGSFLAAATIYSL</span><span class="topo-outside">FYTAILHFSGGQLMVTGPV</span></span>
-<span class="topo-line"><span class="topo-outside">ATAGIFATYLPDHMTLWRG</span><span class="topo-membrane">FLNEAWLTGMLQLCLFAI</span><span class="topo-inside">TDQENNPALPGT</span><span class="topo-membrane">EALVIGILVVI</span></span>
-<span class="topo-line"><span class="topo-membrane">IGVSLG</span><span class="topo-outside">MNTG</span><span class="topo-unknown">YAINPSRDLPPRIF</span><span class="topo-outside">TFIAGWGKQVFSNGENWW</span><span class="topo-membrane">WVPVVAPLLGAYLGGIIY</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">MVREF</span><span class="topo-membrane">LAEFMSTYVMMVFGLGSV</span><span class="topo-outside">AHMVLNKKYGSYL</span><span class="topo-membrane">GVNLGFGFGVTMGVHVAG</span><span class="topo-inside">RISG</span><span class="topo-unknown">AHMNAAVTFANCAL</span><span class="topo-inside">GRVPWRKF</span><span class="topo-membrane">PVYVLGQFLGSFLAAATIYSL</span><span class="topo-outside">FYTAILHFSGGQLMVTGPV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">ATAGIFATYLPDHMTLWRG</span><span class="topo-membrane">FLNEAWLTGMLQLCLFAI</span><span class="topo-inside">TDQENNPALPGT</span><span class="topo-membrane">EALVIGILVVIIGVSLG</span><span class="topo-outside">MNTG</span><span class="topo-unknown">YAINPSRDLPPRIF</span><span class="topo-outside">TFIAGWGKQVFSNGENWW</span><span class="topo-membrane">WVPVVAPLLGAYLGGIIY</span></span>
+<span class="topo-ruler">       </span>
 <span class="topo-line"><span class="topo-inside">LVFIGST</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -428,6 +433,7 @@ Human [Aquaporin Family](/xray-mp-wiki/concepts/transport-mechanisms/aquaporin/)
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -443,11 +449,13 @@ Human [Aquaporin Family](/xray-mp-wiki/concepts/transport-mechanisms/aquaporin/)
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MVREF</span><span class="topo-membrane">LAEFMSTYVMMVFGLGSV</span><span class="topo-outside">AHMVLNKKYGSYL</span><span class="topo-membrane">GVNLGFGFGVTMGVHVAG</span><span class="topo-inside">RISG</span><span class="topo-unknown">AH</span></span>
-<span class="topo-line"><span class="topo-unknown">MNAAVTFANCAL</span><span class="topo-inside">GRVPWRKF</span><span class="topo-membrane">PVYVLGQFLGSFLAAATIYSL</span><span class="topo-outside">FYTAILHFSGGQLMVTGPV</span></span>
-<span class="topo-line"><span class="topo-outside">ATAGIFATYLPDHMTLWRG</span><span class="topo-membrane">FLNEAWLTGMLQLCLFAI</span><span class="topo-inside">TDQENNPALPGT</span><span class="topo-membrane">EALVIGILVVI</span></span>
-<span class="topo-line"><span class="topo-membrane">IGVSLG</span><span class="topo-outside">MNTG</span><span class="topo-unknown">YAINPSRDLPPRIF</span><span class="topo-outside">TFIAGWGKQVFSNGENWW</span><span class="topo-membrane">WVPVVAPLLGAYLGGIIY</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">MVREF</span><span class="topo-membrane">LAEFMSTYVMMVFGLGSV</span><span class="topo-outside">AHMVLNKKYGSYL</span><span class="topo-membrane">GVNLGFGFGVTMGVHVAG</span><span class="topo-inside">RISG</span><span class="topo-unknown">AHMNAAVTFANCAL</span><span class="topo-inside">GRVPWRKF</span><span class="topo-membrane">PVYVLGQFLGSFLAAATIYSL</span><span class="topo-outside">FYTAILHFSGGQLMVTGPV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">ATAGIFATYLPDHMTLWRG</span><span class="topo-membrane">FLNEAWLTGMLQLCLFAI</span><span class="topo-inside">TDQENNPALPGT</span><span class="topo-membrane">EALVIGILVVIIGVSLG</span><span class="topo-outside">MNTG</span><span class="topo-unknown">YAINPSRDLPPRIF</span><span class="topo-outside">TFIAGWGKQVFSNGENWW</span><span class="topo-membrane">WVPVVAPLLGAYLGGIIY</span></span>
+<span class="topo-ruler">       </span>
 <span class="topo-line"><span class="topo-inside">LVFIGST</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -578,6 +586,7 @@ Human [Aquaporin Family](/xray-mp-wiki/concepts/transport-mechanisms/aquaporin/)
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -593,11 +602,13 @@ Human [Aquaporin Family](/xray-mp-wiki/concepts/transport-mechanisms/aquaporin/)
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MVREF</span><span class="topo-membrane">LAEFMSTYVMMVFGLGSV</span><span class="topo-outside">AHMVLNKKYGSYL</span><span class="topo-membrane">GVNLGFGFGVTMGVHVAG</span><span class="topo-inside">RISG</span><span class="topo-unknown">AH</span></span>
-<span class="topo-line"><span class="topo-unknown">MNAAVTFANCAL</span><span class="topo-inside">GRVPWRKF</span><span class="topo-membrane">PVYVLGQFLGSFLAAATIYSL</span><span class="topo-outside">FYTAILHFSGGQLMVTGPV</span></span>
-<span class="topo-line"><span class="topo-outside">ATAGIFATYLPDHMTLWRG</span><span class="topo-membrane">FLNEAWLTGMLQLCLFAI</span><span class="topo-inside">TDQENNPALPGT</span><span class="topo-membrane">EALVIGILVVI</span></span>
-<span class="topo-line"><span class="topo-membrane">IGVSLG</span><span class="topo-outside">MNTG</span><span class="topo-unknown">YAINPSRDLPPRIF</span><span class="topo-outside">TFIAGWGKQVFSNGENWW</span><span class="topo-membrane">WVPVVAPLLGAYLGGIIY</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">MVREF</span><span class="topo-membrane">LAEFMSTYVMMVFGLGSV</span><span class="topo-outside">AHMVLNKKYGSYL</span><span class="topo-membrane">GVNLGFGFGVTMGVHVAG</span><span class="topo-inside">RISG</span><span class="topo-unknown">AHMNAAVTFANCAL</span><span class="topo-inside">GRVPWRKF</span><span class="topo-membrane">PVYVLGQFLGSFLAAATIYSL</span><span class="topo-outside">FYTAILHFSGGQLMVTGPV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">ATAGIFATYLPDHMTLWRG</span><span class="topo-membrane">FLNEAWLTGMLQLCLFAI</span><span class="topo-inside">TDQENNPALPGT</span><span class="topo-membrane">EALVIGILVVIIGVSLG</span><span class="topo-outside">MNTG</span><span class="topo-unknown">YAINPSRDLPPRIF</span><span class="topo-outside">TFIAGWGKQVFSNGENWW</span><span class="topo-membrane">WVPVVAPLLGAYLGGIIY</span></span>
+<span class="topo-ruler">       </span>
 <span class="topo-line"><span class="topo-inside">LVFIGST</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -728,6 +739,7 @@ Human [Aquaporin Family](/xray-mp-wiki/concepts/transport-mechanisms/aquaporin/)
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -743,11 +755,13 @@ Human [Aquaporin Family](/xray-mp-wiki/concepts/transport-mechanisms/aquaporin/)
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">VREF</span><span class="topo-membrane">LAEFMSTYVMMVFGLGSV</span><span class="topo-inside">AHMVLNKKYGSYL</span><span class="topo-membrane">GVNLGFGFGVTMGVHVA</span><span class="topo-outside">GRISGA</span><span class="topo-unknown">H</span></span>
-<span class="topo-line"><span class="topo-unknown">MNAAVTFANCA</span><span class="topo-outside">LGRVPWRKF</span><span class="topo-membrane">PVYVLGQFLGSFLAAATIYSL</span><span class="topo-inside">FYTAILHFSGGQLMVTGPV</span></span>
-<span class="topo-line"><span class="topo-inside">ATAGIFATYLPDHMTLWRG</span><span class="topo-membrane">FLNEAWLTGMLQLCLFAI</span><span class="topo-outside">TDQENNPALPGT</span><span class="topo-membrane">EALVIGILVVI</span></span>
-<span class="topo-line"><span class="topo-membrane">IGVSLG</span><span class="topo-inside">MNT</span><span class="topo-unknown">GYAINPSRDLPPRIF</span><span class="topo-inside">TFIAGWGKQVFSNGENWW</span><span class="topo-membrane">WVPVVAPLLGAYLGGIIY</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">VREF</span><span class="topo-membrane">LAEFMSTYVMMVFGLGSV</span><span class="topo-inside">AHMVLNKKYGSYL</span><span class="topo-membrane">GVNLGFGFGVTMGVHVA</span><span class="topo-outside">GRISGA</span><span class="topo-unknown">HMNAAVTFANCA</span><span class="topo-outside">LGRVPWRKF</span><span class="topo-membrane">PVYVLGQFLGSFLAAATIYSL</span><span class="topo-inside">FYTAILHFSGGQLMVTGPV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">ATAGIFATYLPDHMTLWRG</span><span class="topo-membrane">FLNEAWLTGMLQLCLFAI</span><span class="topo-outside">TDQENNPALPGT</span><span class="topo-membrane">EALVIGILVVIIGVSLG</span><span class="topo-inside">MNT</span><span class="topo-unknown">GYAINPSRDLPPRIF</span><span class="topo-inside">TFIAGWGKQVFSNGENWW</span><span class="topo-membrane">WVPVVAPLLGAYLGGIIY</span></span>
+<span class="topo-ruler">       </span>
 <span class="topo-line"><span class="topo-outside">LVFIGS</span><span class="topo-unknown">T</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -878,6 +892,7 @@ Human [Aquaporin Family](/xray-mp-wiki/concepts/transport-mechanisms/aquaporin/)
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -893,11 +908,13 @@ Human [Aquaporin Family](/xray-mp-wiki/concepts/transport-mechanisms/aquaporin/)
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">VREF</span><span class="topo-membrane">LAEFMSTYVMMVFGLGSV</span><span class="topo-inside">AHMVLNKKYGSYL</span><span class="topo-membrane">GVNLGFGFGVTMGVHVA</span><span class="topo-outside">GRISGA</span><span class="topo-unknown">H</span></span>
-<span class="topo-line"><span class="topo-unknown">MNAAVTFANCA</span><span class="topo-outside">LGRVPWRKF</span><span class="topo-membrane">PVYVLGQFLGSFLAAATIYSL</span><span class="topo-inside">FYTAILHFSGGQLMVTGPV</span></span>
-<span class="topo-line"><span class="topo-inside">ATAGIFATYLPDHMTLWRG</span><span class="topo-membrane">FLNEAWLTGMLQLCLFAI</span><span class="topo-outside">TDQENNPALPGT</span><span class="topo-membrane">EALVIGILVVI</span></span>
-<span class="topo-line"><span class="topo-membrane">IGVSLG</span><span class="topo-inside">MNT</span><span class="topo-unknown">GYAINPSRDLPPRIF</span><span class="topo-inside">TFIAGWGKQVFSNGENWW</span><span class="topo-membrane">WVPVVAPLLGAYLGGIIY</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">VREF</span><span class="topo-membrane">LAEFMSTYVMMVFGLGSV</span><span class="topo-inside">AHMVLNKKYGSYL</span><span class="topo-membrane">GVNLGFGFGVTMGVHVA</span><span class="topo-outside">GRISGA</span><span class="topo-unknown">HMNAAVTFANCA</span><span class="topo-outside">LGRVPWRKF</span><span class="topo-membrane">PVYVLGQFLGSFLAAATIYSL</span><span class="topo-inside">FYTAILHFSGGQLMVTGPV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">ATAGIFATYLPDHMTLWRG</span><span class="topo-membrane">FLNEAWLTGMLQLCLFAI</span><span class="topo-outside">TDQENNPALPGT</span><span class="topo-membrane">EALVIGILVVIIGVSLG</span><span class="topo-inside">MNT</span><span class="topo-unknown">GYAINPSRDLPPRIF</span><span class="topo-inside">TFIAGWGKQVFSNGENWW</span><span class="topo-membrane">WVPVVAPLLGAYLGGIIY</span></span>
+<span class="topo-ruler">       </span>
 <span class="topo-line"><span class="topo-outside">LVFIGS</span><span class="topo-unknown">T</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1028,6 +1045,7 @@ Human [Aquaporin Family](/xray-mp-wiki/concepts/transport-mechanisms/aquaporin/)
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1043,11 +1061,13 @@ Human [Aquaporin Family](/xray-mp-wiki/concepts/transport-mechanisms/aquaporin/)
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">VREF</span><span class="topo-membrane">LAEFMSTYVMMVFGLGSV</span><span class="topo-inside">AHMVLNKKYGSYL</span><span class="topo-membrane">GVNLGFGFGVTMGVHVA</span><span class="topo-outside">GRISGA</span><span class="topo-unknown">H</span></span>
-<span class="topo-line"><span class="topo-unknown">MNAAVTFANCA</span><span class="topo-outside">LGRVPWRKF</span><span class="topo-membrane">PVYVLGQFLGSFLAAATIYSL</span><span class="topo-inside">FYTAILHFSGGQLMVTGPV</span></span>
-<span class="topo-line"><span class="topo-inside">ATAGIFATYLPDHMTLWRG</span><span class="topo-membrane">FLNEAWLTGMLQLCLFAI</span><span class="topo-outside">TDQENNPALPGT</span><span class="topo-membrane">EALVIGILVVI</span></span>
-<span class="topo-line"><span class="topo-membrane">IGVSLG</span><span class="topo-inside">MNT</span><span class="topo-unknown">GYAINPSRDLPPRIF</span><span class="topo-inside">TFIAGWGKQVFSNGENWW</span><span class="topo-membrane">WVPVVAPLLGAYLGGIIY</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">VREF</span><span class="topo-membrane">LAEFMSTYVMMVFGLGSV</span><span class="topo-inside">AHMVLNKKYGSYL</span><span class="topo-membrane">GVNLGFGFGVTMGVHVA</span><span class="topo-outside">GRISGA</span><span class="topo-unknown">HMNAAVTFANCA</span><span class="topo-outside">LGRVPWRKF</span><span class="topo-membrane">PVYVLGQFLGSFLAAATIYSL</span><span class="topo-inside">FYTAILHFSGGQLMVTGPV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">ATAGIFATYLPDHMTLWRG</span><span class="topo-membrane">FLNEAWLTGMLQLCLFAI</span><span class="topo-outside">TDQENNPALPGT</span><span class="topo-membrane">EALVIGILVVIIGVSLG</span><span class="topo-inside">MNT</span><span class="topo-unknown">GYAINPSRDLPPRIF</span><span class="topo-inside">TFIAGWGKQVFSNGENWW</span><span class="topo-membrane">WVPVVAPLLGAYLGGIIY</span></span>
+<span class="topo-ruler">       </span>
 <span class="topo-line"><span class="topo-outside">LVFIGS</span><span class="topo-unknown">T</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1178,6 +1198,7 @@ Human [Aquaporin Family](/xray-mp-wiki/concepts/transport-mechanisms/aquaporin/)
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1193,11 +1214,13 @@ Human [Aquaporin Family](/xray-mp-wiki/concepts/transport-mechanisms/aquaporin/)
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">VREF</span><span class="topo-membrane">LAEFMSTYVMMVFGLGSV</span><span class="topo-inside">AHMVLNKKYGSYL</span><span class="topo-membrane">GVNLGFGFGVTMGVHVA</span><span class="topo-outside">GRISGA</span><span class="topo-unknown">H</span></span>
-<span class="topo-line"><span class="topo-unknown">MNAAVTFANCA</span><span class="topo-outside">LGRVPWRKF</span><span class="topo-membrane">PVYVLGQFLGSFLAAATIYSL</span><span class="topo-inside">FYTAILHFSGGQLMVTGPV</span></span>
-<span class="topo-line"><span class="topo-inside">ATAGIFATYLPDHMTLWRG</span><span class="topo-membrane">FLNEAWLTGMLQLCLFAI</span><span class="topo-outside">TDQENNPALPGT</span><span class="topo-membrane">EALVIGILVVI</span></span>
-<span class="topo-line"><span class="topo-membrane">IGVSLG</span><span class="topo-inside">MNT</span><span class="topo-unknown">GYAINPSRDLPPRIF</span><span class="topo-inside">TFIAGWGKQVFSNGENWW</span><span class="topo-membrane">WVPVVAPLLGAYLGGIIY</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">VREF</span><span class="topo-membrane">LAEFMSTYVMMVFGLGSV</span><span class="topo-inside">AHMVLNKKYGSYL</span><span class="topo-membrane">GVNLGFGFGVTMGVHVA</span><span class="topo-outside">GRISGA</span><span class="topo-unknown">HMNAAVTFANCA</span><span class="topo-outside">LGRVPWRKF</span><span class="topo-membrane">PVYVLGQFLGSFLAAATIYSL</span><span class="topo-inside">FYTAILHFSGGQLMVTGPV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">ATAGIFATYLPDHMTLWRG</span><span class="topo-membrane">FLNEAWLTGMLQLCLFAI</span><span class="topo-outside">TDQENNPALPGT</span><span class="topo-membrane">EALVIGILVVIIGVSLG</span><span class="topo-inside">MNT</span><span class="topo-unknown">GYAINPSRDLPPRIF</span><span class="topo-inside">TFIAGWGKQVFSNGENWW</span><span class="topo-membrane">WVPVVAPLLGAYLGGIIY</span></span>
+<span class="topo-ruler">       </span>
 <span class="topo-line"><span class="topo-outside">LVFIGS</span><span class="topo-unknown">T</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1328,6 +1351,7 @@ Human [Aquaporin Family](/xray-mp-wiki/concepts/transport-mechanisms/aquaporin/)
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

@@ -153,12 +153,13 @@ Channelrhodopsin C1C2 is a chimeric construct between Chlamydomonas reinhardtii 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">STGSDATVPVATQDGPDYVFHRAHE</span><span class="topo-inside">RMLFQTSYTLENNGSVICIPNNGQCFCLAWLKSNG</span></span>
-<span class="topo-line"><span class="topo-inside">TNAEKLA</span><span class="topo-membrane">ANILQWITFALSALCLMFY</span><span class="topo-unknown">GYQTWKST</span><span class="topo-outside">CGW</span><span class="topo-membrane">EEIYVATIEMIKFIIEYF</span><span class="topo-inside">HEFDE</span></span>
-<span class="topo-line"><span class="topo-inside">PAVIYSSNGNKT</span><span class="topo-membrane">VWLRYAEWLLTCPVILI</span><span class="topo-outside">HLSNLTGLANDYNKRTM</span><span class="topo-membrane">GLLVSDIGTIVWGT</span></span>
-<span class="topo-line"><span class="topo-membrane">TAAL</span><span class="topo-inside">SKGY</span><span class="topo-membrane">VRVIFFLMGLCYGIYTFFNA</span><span class="topo-outside">AKVYIEAYHTVPKGRCRQVVTG</span><span class="topo-membrane">MAWLFFVSWG</span></span>
-<span class="topo-line"><span class="topo-membrane">MFPILFILG</span><span class="topo-inside">PEGFGVLSVYG</span><span class="topo-membrane">STVGHTIIDLMSKNCWGLL</span><span class="topo-outside">GHYLRVLIHEHILIHGDIRKT</span></span>
-<span class="topo-line"><span class="topo-outside">TKL</span><span class="topo-unknown">NIGGTE</span><span class="topo-outside">IEVETLVEDE</span><span class="topo-unknown">AEAGAVSSEDLYFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">STGSDATVPVATQDGPDYVFHRAHE</span><span class="topo-inside">RMLFQTSYTLENNGSVICIPNNGQCFCLAWLKSNGTNAEKLA</span><span class="topo-membrane">ANILQWITFALSALCLMFY</span><span class="topo-unknown">GYQTWKST</span><span class="topo-outside">CGW</span><span class="topo-membrane">EEIYVATIEMIKFIIEYF</span><span class="topo-inside">HEFDE</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">PAVIYSSNGNKT</span><span class="topo-membrane">VWLRYAEWLLTCPVILI</span><span class="topo-outside">HLSNLTGLANDYNKRTM</span><span class="topo-membrane">GLLVSDIGTIVWGTTAAL</span><span class="topo-inside">SKGY</span><span class="topo-membrane">VRVIFFLMGLCYGIYTFFNA</span><span class="topo-outside">AKVYIEAYHTVPKGRCRQVVTG</span><span class="topo-membrane">MAWLFFVSWG</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330   </span>
+<span class="topo-line"><span class="topo-membrane">MFPILFILG</span><span class="topo-inside">PEGFGVLSVYG</span><span class="topo-membrane">STVGHTIIDLMSKNCWGLL</span><span class="topo-outside">GHYLRVLIHEHILIHGDIRKTTKL</span><span class="topo-unknown">NIGGTE</span><span class="topo-outside">IEVETLVEDE</span><span class="topo-unknown">AEAGAVSSEDLYFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (20 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -310,6 +311,7 @@ Channelrhodopsin C1C2 is a chimeric construct between Chlamydomonas reinhardtii 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -325,12 +327,13 @@ Channelrhodopsin C1C2 is a chimeric construct between Chlamydomonas reinhardtii 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">STGSDATVPVATQDGPDYVFHRAHE</span><span class="topo-inside">RMLFQTSYTLENNGSVICIPNNGQCFCLAWLKSNG</span></span>
-<span class="topo-line"><span class="topo-inside">TNAEKLA</span><span class="topo-membrane">ANILQWITFALSALCLMFY</span><span class="topo-unknown">GYQTWKST</span><span class="topo-outside">CGW</span><span class="topo-membrane">EEIYVATIEMIKFIIEYF</span><span class="topo-inside">HEFDE</span></span>
-<span class="topo-line"><span class="topo-inside">PAVIYSSNGNKT</span><span class="topo-membrane">VWLRYAEWLLTCPVILI</span><span class="topo-outside">HLSNLTGLANDYNKRTM</span><span class="topo-membrane">GLLVSDIGTIVWGT</span></span>
-<span class="topo-line"><span class="topo-membrane">TAAL</span><span class="topo-inside">SKGY</span><span class="topo-membrane">VRVIFFLMGLCYGIYTFFNA</span><span class="topo-outside">AKVYIEAYHTVPKGRCRQVVTG</span><span class="topo-membrane">MAWLFFVSWG</span></span>
-<span class="topo-line"><span class="topo-membrane">MFPILFILG</span><span class="topo-inside">PEGFGVLSVYG</span><span class="topo-membrane">STVGHTIIDLMSKNCWGLL</span><span class="topo-outside">GHYLRVLIHEHILIHGDIRKT</span></span>
-<span class="topo-line"><span class="topo-outside">TKL</span><span class="topo-unknown">NIGGTE</span><span class="topo-outside">IEVETLVEDE</span><span class="topo-unknown">AEAGAVSSEDLYFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">STGSDATVPVATQDGPDYVFHRAHE</span><span class="topo-inside">RMLFQTSYTLENNGSVICIPNNGQCFCLAWLKSNGTNAEKLA</span><span class="topo-membrane">ANILQWITFALSALCLMFY</span><span class="topo-unknown">GYQTWKST</span><span class="topo-outside">CGW</span><span class="topo-membrane">EEIYVATIEMIKFIIEYF</span><span class="topo-inside">HEFDE</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">PAVIYSSNGNKT</span><span class="topo-membrane">VWLRYAEWLLTCPVILI</span><span class="topo-outside">HLSNLTGLANDYNKRTM</span><span class="topo-membrane">GLLVSDIGTIVWGTTAAL</span><span class="topo-inside">SKGY</span><span class="topo-membrane">VRVIFFLMGLCYGIYTFFNA</span><span class="topo-outside">AKVYIEAYHTVPKGRCRQVVTG</span><span class="topo-membrane">MAWLFFVSWG</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330   </span>
+<span class="topo-line"><span class="topo-membrane">MFPILFILG</span><span class="topo-inside">PEGFGVLSVYG</span><span class="topo-membrane">STVGHTIIDLMSKNCWGLL</span><span class="topo-outside">GHYLRVLIHEHILIHGDIRKTTKL</span><span class="topo-unknown">NIGGTE</span><span class="topo-outside">IEVETLVEDE</span><span class="topo-unknown">AEAGAVSSEDLYFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (20 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -482,6 +485,7 @@ Channelrhodopsin C1C2 is a chimeric construct between Chlamydomonas reinhardtii 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -623,12 +627,13 @@ Channelrhodopsin C1C2 is a chimeric construct between Chlamydomonas reinhardtii 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSRRPWLLALALAVALAAGSAGASTGSDATVPVATQDGPDYVFHRAHE</span><span class="topo-inside">RMLFQTSYTLEN</span></span>
-<span class="topo-line"><span class="topo-inside">NGSVICIPNNGQCFCLAWLKSNGTNAEKLA</span><span class="topo-membrane">ANILQWITFALSALCLMF</span><span class="topo-outside">YGY</span><span class="topo-unknown">QTWKST</span><span class="topo-outside">CGW</span></span>
-<span class="topo-line"><span class="topo-outside">E</span><span class="topo-membrane">EIYVATIEMIKFIIEYF</span><span class="topo-inside">HEFDEPAVIYSSNGNKTV</span><span class="topo-membrane">WLRYAEWLLTCPVIL</span><span class="topo-outside">IHLSNLTGL</span></span>
-<span class="topo-line"><span class="topo-outside">ANDYNKRTMG</span><span class="topo-membrane">LLVSDIGTIVWGTTAA</span><span class="topo-inside">LSKGYVRV</span><span class="topo-membrane">IFFLMGLCYGIYTFFNA</span><span class="topo-outside">AKVYIEAYH</span></span>
-<span class="topo-line"><span class="topo-outside">TVPKGRCRQVVTGM</span><span class="topo-membrane">AWLFFVSWGMFPILFIL</span><span class="topo-inside">GPEGFGVLSVYGS</span><span class="topo-membrane">TVGHTIIDLMSKNCWG</span></span>
-<span class="topo-line"><span class="topo-membrane">L</span><span class="topo-outside">LGHYLRVLIHEHILIHGDIRKTTKLNI</span><span class="topo-unknown">GG</span><span class="topo-outside">TEIEVETLVEDEAEAGAVSSED</span><span class="topo-unknown">LYFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSRRPWLLALALAVALAAGSAGASTGSDATVPVATQDGPDYVFHRAHE</span><span class="topo-inside">RMLFQTSYTLENNGSVICIPNNGQCFCLAWLKSNGTNAEKLA</span><span class="topo-membrane">ANILQWITFALSALCLMF</span><span class="topo-outside">YGY</span><span class="topo-unknown">QTWKST</span><span class="topo-outside">CGW</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">E</span><span class="topo-membrane">EIYVATIEMIKFIIEYF</span><span class="topo-inside">HEFDEPAVIYSSNGNKTV</span><span class="topo-membrane">WLRYAEWLLTCPVIL</span><span class="topo-outside">IHLSNLTGLANDYNKRTMG</span><span class="topo-membrane">LLVSDIGTIVWGTTAA</span><span class="topo-inside">LSKGYVRV</span><span class="topo-membrane">IFFLMGLCYGIYTFFNA</span><span class="topo-outside">AKVYIEAYH</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350      </span>
+<span class="topo-line"><span class="topo-outside">TVPKGRCRQVVTGM</span><span class="topo-membrane">AWLFFVSWGMFPILFIL</span><span class="topo-inside">GPEGFGVLSVYGS</span><span class="topo-membrane">TVGHTIIDLMSKNCWGL</span><span class="topo-outside">LGHYLRVLIHEHILIHGDIRKTTKLNI</span><span class="topo-unknown">GG</span><span class="topo-outside">TEIEVETLVEDEAEAGAVSSED</span><span class="topo-unknown">LYFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -787,6 +792,7 @@ Channelrhodopsin C1C2 is a chimeric construct between Chlamydomonas reinhardtii 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -802,12 +808,13 @@ Channelrhodopsin C1C2 is a chimeric construct between Chlamydomonas reinhardtii 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSRRPWLLALALAVALAAGSAGASTGSDATVPVATQDGPDYVFHRAHE</span><span class="topo-inside">RMLFQTSYTLEN</span></span>
-<span class="topo-line"><span class="topo-inside">NGSVICIPNNGQCFCLAWLKSNGTNAEKLA</span><span class="topo-membrane">ANILQWITFALSALCLMFYG</span><span class="topo-unknown">YQTWKST</span><span class="topo-outside">CGW</span></span>
-<span class="topo-line"><span class="topo-membrane">EEIYVATIEMIKFIIEY</span><span class="topo-inside">FHEFDEPAVIYSSNGNKTV</span><span class="topo-membrane">WLRYAEWLLTCPVIL</span><span class="topo-outside">IHLSNLTGL</span></span>
-<span class="topo-line"><span class="topo-outside">ANDYNKRTMG</span><span class="topo-membrane">LLVSDIGTIVWGTTAAL</span><span class="topo-inside">SKGY</span><span class="topo-membrane">VRVIFFLMGLCYGIYTFF</span><span class="topo-outside">NAAKVYIEAYH</span></span>
-<span class="topo-line"><span class="topo-outside">TVPKGRCRQVVTGMAW</span><span class="topo-membrane">LFFVSWGMFPILFILG</span><span class="topo-inside">PEGFGVLSVYG</span><span class="topo-membrane">STVGHTIIDLMSKNCWG</span></span>
-<span class="topo-line"><span class="topo-membrane">L</span><span class="topo-outside">LGHYLRVLIHEHILIHGDIRKTTKLNI</span><span class="topo-unknown">GG</span><span class="topo-outside">TEIEVETLVEDEAEAGAVSSED</span><span class="topo-unknown">LYFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSRRPWLLALALAVALAAGSAGASTGSDATVPVATQDGPDYVFHRAHE</span><span class="topo-inside">RMLFQTSYTLENNGSVICIPNNGQCFCLAWLKSNGTNAEKLA</span><span class="topo-membrane">ANILQWITFALSALCLMFYG</span><span class="topo-unknown">YQTWKST</span><span class="topo-outside">CGW</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">EEIYVATIEMIKFIIEY</span><span class="topo-inside">FHEFDEPAVIYSSNGNKTV</span><span class="topo-membrane">WLRYAEWLLTCPVIL</span><span class="topo-outside">IHLSNLTGLANDYNKRTMG</span><span class="topo-membrane">LLVSDIGTIVWGTTAAL</span><span class="topo-inside">SKGY</span><span class="topo-membrane">VRVIFFLMGLCYGIYTFF</span><span class="topo-outside">NAAKVYIEAYH</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350      </span>
+<span class="topo-line"><span class="topo-outside">TVPKGRCRQVVTGMAW</span><span class="topo-membrane">LFFVSWGMFPILFILG</span><span class="topo-inside">PEGFGVLSVYG</span><span class="topo-membrane">STVGHTIIDLMSKNCWGL</span><span class="topo-outside">LGHYLRVLIHEHILIHGDIRKTTKLNI</span><span class="topo-unknown">GG</span><span class="topo-outside">TEIEVETLVEDEAEAGAVSSED</span><span class="topo-unknown">LYFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (20 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -959,6 +966,7 @@ Channelrhodopsin C1C2 is a chimeric construct between Chlamydomonas reinhardtii 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -974,12 +982,13 @@ Channelrhodopsin C1C2 is a chimeric construct between Chlamydomonas reinhardtii 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSRRPWLLALALAVALAAGSAGASTGSDATVPVATQDGPDYVFHRAHE</span><span class="topo-inside">RMLFQTSYTLEN</span></span>
-<span class="topo-line"><span class="topo-inside">NGSVICIPNNGQCFCLAWLKSNGTNAEKLA</span><span class="topo-membrane">ANILQWITFALSALCLMFYG</span><span class="topo-outside">Y</span><span class="topo-unknown">QTWKST</span><span class="topo-outside">CGW</span></span>
-<span class="topo-line"><span class="topo-membrane">EEIYVATIEMIKFIIEYF</span><span class="topo-inside">HEFDEPAVIYSSNGNKT</span><span class="topo-membrane">VWLRYAEWLLTCPVIL</span><span class="topo-outside">IHLSNLTGL</span></span>
-<span class="topo-line"><span class="topo-outside">ANDYNKRTMG</span><span class="topo-membrane">LLVSDIGTIVWGTTAAL</span><span class="topo-inside">SKGY</span><span class="topo-membrane">VRVIFFLMGLCYGIYTFF</span><span class="topo-outside">NAAKVYIEAYH</span></span>
-<span class="topo-line"><span class="topo-outside">TVPKGRCRQVVTGM</span><span class="topo-membrane">AWLFFVSWGMFPILFILG</span><span class="topo-inside">PEGFGVLSVYG</span><span class="topo-membrane">STVGHTIIDLMSKNCWG</span></span>
-<span class="topo-line"><span class="topo-membrane">LL</span><span class="topo-outside">GHYLRVLIHEHILIHGDIRKTTKLNI</span><span class="topo-unknown">GG</span><span class="topo-outside">TEIEVETLVEDEAEAGAVSSED</span><span class="topo-unknown">LYFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSRRPWLLALALAVALAAGSAGASTGSDATVPVATQDGPDYVFHRAHE</span><span class="topo-inside">RMLFQTSYTLENNGSVICIPNNGQCFCLAWLKSNGTNAEKLA</span><span class="topo-membrane">ANILQWITFALSALCLMFYG</span><span class="topo-outside">Y</span><span class="topo-unknown">QTWKST</span><span class="topo-outside">CGW</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">EEIYVATIEMIKFIIEYF</span><span class="topo-inside">HEFDEPAVIYSSNGNKT</span><span class="topo-membrane">VWLRYAEWLLTCPVIL</span><span class="topo-outside">IHLSNLTGLANDYNKRTMG</span><span class="topo-membrane">LLVSDIGTIVWGTTAAL</span><span class="topo-inside">SKGY</span><span class="topo-membrane">VRVIFFLMGLCYGIYTFF</span><span class="topo-outside">NAAKVYIEAYH</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350      </span>
+<span class="topo-line"><span class="topo-outside">TVPKGRCRQVVTGM</span><span class="topo-membrane">AWLFFVSWGMFPILFILG</span><span class="topo-inside">PEGFGVLSVYG</span><span class="topo-membrane">STVGHTIIDLMSKNCWGLL</span><span class="topo-outside">GHYLRVLIHEHILIHGDIRKTTKLNI</span><span class="topo-unknown">GG</span><span class="topo-outside">TEIEVETLVEDEAEAGAVSSED</span><span class="topo-unknown">LYFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1110,6 +1119,7 @@ Channelrhodopsin C1C2 is a chimeric construct between Chlamydomonas reinhardtii 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1125,12 +1135,13 @@ Channelrhodopsin C1C2 is a chimeric construct between Chlamydomonas reinhardtii 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSRRPWLLALALAVALAAGSAGASTGSDATVPVATQDGPDYVFHRAHE</span><span class="topo-inside">RMLFQTSYTLEN</span></span>
-<span class="topo-line"><span class="topo-inside">NGSVICIPNNGQCFCLAWLKSNGTNAEKLA</span><span class="topo-membrane">ANILQWITFALSALCLMFYG</span><span class="topo-outside">Y</span><span class="topo-unknown">QTWKST</span><span class="topo-outside">CGW</span></span>
-<span class="topo-line"><span class="topo-membrane">EEIYVATIEMIKFIIEYF</span><span class="topo-inside">HEFDEPAVIYSSNGNKT</span><span class="topo-membrane">VWLRYAEWLLTCPVIL</span><span class="topo-outside">IHLSNLTGL</span></span>
-<span class="topo-line"><span class="topo-outside">ANDYNKRTMG</span><span class="topo-membrane">LLVSDIGTIVWGTTAAL</span><span class="topo-inside">SKGY</span><span class="topo-membrane">VRVIFFLMGLCYGIYTFF</span><span class="topo-outside">NAAKVYIEAYH</span></span>
-<span class="topo-line"><span class="topo-outside">TVPKGRCRQVVTGM</span><span class="topo-membrane">AWLFFVSWGMFPILFILG</span><span class="topo-inside">PEGFGVLSVYG</span><span class="topo-membrane">STVGHTIIDLMSKNCWG</span></span>
-<span class="topo-line"><span class="topo-membrane">LL</span><span class="topo-outside">GHYLRVLIHEHILIHGDIRKTTKLNI</span><span class="topo-unknown">GG</span><span class="topo-outside">TEIEVETLVEDEAEAGAVSSED</span><span class="topo-unknown">LYFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSRRPWLLALALAVALAAGSAGASTGSDATVPVATQDGPDYVFHRAHE</span><span class="topo-inside">RMLFQTSYTLENNGSVICIPNNGQCFCLAWLKSNGTNAEKLA</span><span class="topo-membrane">ANILQWITFALSALCLMFYG</span><span class="topo-outside">Y</span><span class="topo-unknown">QTWKST</span><span class="topo-outside">CGW</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">EEIYVATIEMIKFIIEYF</span><span class="topo-inside">HEFDEPAVIYSSNGNKT</span><span class="topo-membrane">VWLRYAEWLLTCPVIL</span><span class="topo-outside">IHLSNLTGLANDYNKRTMG</span><span class="topo-membrane">LLVSDIGTIVWGTTAAL</span><span class="topo-inside">SKGY</span><span class="topo-membrane">VRVIFFLMGLCYGIYTFF</span><span class="topo-outside">NAAKVYIEAYH</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350      </span>
+<span class="topo-line"><span class="topo-outside">TVPKGRCRQVVTGM</span><span class="topo-membrane">AWLFFVSWGMFPILFILG</span><span class="topo-inside">PEGFGVLSVYG</span><span class="topo-membrane">STVGHTIIDLMSKNCWGLL</span><span class="topo-outside">GHYLRVLIHEHILIHGDIRKTTKLNI</span><span class="topo-unknown">GG</span><span class="topo-outside">TEIEVETLVEDEAEAGAVSSED</span><span class="topo-unknown">LYFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1261,6 +1272,7 @@ Channelrhodopsin C1C2 is a chimeric construct between Chlamydomonas reinhardtii 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1276,12 +1288,13 @@ Channelrhodopsin C1C2 is a chimeric construct between Chlamydomonas reinhardtii 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSRRPWLLALALAVALAAGSAGASTGSDATVPVATQDGPDYVFHRAHE</span><span class="topo-inside">RMLFQTSYTLEN</span></span>
-<span class="topo-line"><span class="topo-inside">NGSVICIPNNGQCFCLAWLKSNGTNAEKLA</span><span class="topo-membrane">ANILQWITFALSALCLM</span><span class="topo-outside">FYGY</span><span class="topo-unknown">QTWKST</span><span class="topo-outside">CGW</span></span>
-<span class="topo-line"><span class="topo-outside">EE</span><span class="topo-membrane">IYVATIEMIKFIIEY</span><span class="topo-inside">FHEFDEPAVIYSSNGNKT</span><span class="topo-membrane">VWLRYAEWLLTCPVI</span><span class="topo-outside">LIHLSNLTGL</span></span>
-<span class="topo-line"><span class="topo-outside">ANDYNKRTMGLL</span><span class="topo-membrane">VSDIGTIVWGTTAAL</span><span class="topo-inside">SKGY</span><span class="topo-membrane">VRVIFFLMGLCYGIYTF</span><span class="topo-outside">FNAAKVYIEAYH</span></span>
-<span class="topo-line"><span class="topo-outside">TVPKGRCRQVVTGMAW</span><span class="topo-membrane">LFFVSWGMFPILFILG</span><span class="topo-inside">PEGFGVLSVYG</span><span class="topo-membrane">STVGHTIIDLMSKNCWG</span></span>
-<span class="topo-line"><span class="topo-outside">LLGHYLRVLIHEHILIHGDIRKTTKLNI</span><span class="topo-unknown">GG</span><span class="topo-outside">TEIEVETLVEDEAEAGAVSSED</span><span class="topo-unknown">LYFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSRRPWLLALALAVALAAGSAGASTGSDATVPVATQDGPDYVFHRAHE</span><span class="topo-inside">RMLFQTSYTLENNGSVICIPNNGQCFCLAWLKSNGTNAEKLA</span><span class="topo-membrane">ANILQWITFALSALCLM</span><span class="topo-outside">FYGY</span><span class="topo-unknown">QTWKST</span><span class="topo-outside">CGW</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">EE</span><span class="topo-membrane">IYVATIEMIKFIIEY</span><span class="topo-inside">FHEFDEPAVIYSSNGNKT</span><span class="topo-membrane">VWLRYAEWLLTCPVI</span><span class="topo-outside">LIHLSNLTGLANDYNKRTMGLL</span><span class="topo-membrane">VSDIGTIVWGTTAAL</span><span class="topo-inside">SKGY</span><span class="topo-membrane">VRVIFFLMGLCYGIYTF</span><span class="topo-outside">FNAAKVYIEAYH</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350      </span>
+<span class="topo-line"><span class="topo-outside">TVPKGRCRQVVTGMAW</span><span class="topo-membrane">LFFVSWGMFPILFILG</span><span class="topo-inside">PEGFGVLSVYG</span><span class="topo-membrane">STVGHTIIDLMSKNCWG</span><span class="topo-outside">LLGHYLRVLIHEHILIHGDIRKTTKLNI</span><span class="topo-unknown">GG</span><span class="topo-outside">TEIEVETLVEDEAEAGAVSSED</span><span class="topo-unknown">LYFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1412,6 +1425,7 @@ Channelrhodopsin C1C2 is a chimeric construct between Chlamydomonas reinhardtii 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1427,12 +1441,13 @@ Channelrhodopsin C1C2 is a chimeric construct between Chlamydomonas reinhardtii 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSRRPWLLALALAVALAAGSAGASTGSDATVPVATQDGPDYVFHRAHE</span><span class="topo-inside">RMLFQTSYTLEN</span></span>
-<span class="topo-line"><span class="topo-inside">NGSVICIPNNGQCFCLAWLKSNGTNAEKLA</span><span class="topo-membrane">ANILQWITFALSALCLM</span><span class="topo-outside">FYGY</span><span class="topo-unknown">QTWKST</span><span class="topo-outside">CGW</span></span>
-<span class="topo-line"><span class="topo-outside">EE</span><span class="topo-membrane">IYVATIEMIKFIIEY</span><span class="topo-inside">FHEFDEPAVIYSSNGNKT</span><span class="topo-membrane">VWLRYAEWLLTCPVI</span><span class="topo-outside">LIHLSNLTGL</span></span>
-<span class="topo-line"><span class="topo-outside">ANDYNKRTMGLL</span><span class="topo-membrane">VSDIGTIVWGTTAAL</span><span class="topo-inside">SKGY</span><span class="topo-membrane">VRVIFFLMGLCYGIYTF</span><span class="topo-outside">FNAAKVYIEAYH</span></span>
-<span class="topo-line"><span class="topo-outside">TVPKGRCRQVVTGMAW</span><span class="topo-membrane">LFFVSWGMFPILFILG</span><span class="topo-inside">PEGFGVLSVYG</span><span class="topo-membrane">STVGHTIIDLMSKNCWG</span></span>
-<span class="topo-line"><span class="topo-outside">LLGHYLRVLIHEHILIHGDIRKTTKLNI</span><span class="topo-unknown">GG</span><span class="topo-outside">TEIEVETLVEDEAEAGAVSSED</span><span class="topo-unknown">LYFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSRRPWLLALALAVALAAGSAGASTGSDATVPVATQDGPDYVFHRAHE</span><span class="topo-inside">RMLFQTSYTLENNGSVICIPNNGQCFCLAWLKSNGTNAEKLA</span><span class="topo-membrane">ANILQWITFALSALCLM</span><span class="topo-outside">FYGY</span><span class="topo-unknown">QTWKST</span><span class="topo-outside">CGW</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">EE</span><span class="topo-membrane">IYVATIEMIKFIIEY</span><span class="topo-inside">FHEFDEPAVIYSSNGNKT</span><span class="topo-membrane">VWLRYAEWLLTCPVI</span><span class="topo-outside">LIHLSNLTGLANDYNKRTMGLL</span><span class="topo-membrane">VSDIGTIVWGTTAAL</span><span class="topo-inside">SKGY</span><span class="topo-membrane">VRVIFFLMGLCYGIYTF</span><span class="topo-outside">FNAAKVYIEAYH</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350      </span>
+<span class="topo-line"><span class="topo-outside">TVPKGRCRQVVTGMAW</span><span class="topo-membrane">LFFVSWGMFPILFILG</span><span class="topo-inside">PEGFGVLSVYG</span><span class="topo-membrane">STVGHTIIDLMSKNCWG</span><span class="topo-outside">LLGHYLRVLIHEHILIHGDIRKTTKLNI</span><span class="topo-unknown">GG</span><span class="topo-outside">TEIEVETLVEDEAEAGAVSSED</span><span class="topo-unknown">LYFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1563,6 +1578,7 @@ Channelrhodopsin C1C2 is a chimeric construct between Chlamydomonas reinhardtii 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

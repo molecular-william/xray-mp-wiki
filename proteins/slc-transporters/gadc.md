@@ -149,15 +149,17 @@ GadC is a SLC1/EAAT/GATs antiporter from the Apc (JLK-6 acid-polyamine-organocat
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MATSVQTGKAK</span><span class="topo-outside">QLT</span><span class="topo-unknown">LLGFFAIT</span><span class="topo-membrane">ASMVMAVYEYPTF</span><span class="topo-inside">ATSGFS</span><span class="topo-membrane">LVFFLLLGGILWFIPVG</span><span class="topo-outside">LC</span></span>
-<span class="topo-line"><span class="topo-outside">AAEMATVDGW</span><span class="topo-unknown">EEG</span><span class="topo-outside">G</span><span class="topo-unknown">VFAWVSNTL</span><span class="topo-outside">GPRWGFAAISF</span><span class="topo-membrane">GYLQIAIGFIPMLYFVLGAL</span><span class="topo-inside">SYILKW</span></span>
-<span class="topo-line"><span class="topo-inside">PALNEDPITK</span><span class="topo-membrane">TIAALIILWALALTQFG</span><span class="topo-outside">GTKY</span><span class="topo-membrane">TARIAKVGFFAGILLPAFILIA</span><span class="topo-inside">LAAIYLH</span></span>
-<span class="topo-line"><span class="topo-unknown">SGAPVAIEMDSK</span><span class="topo-inside">TFFPDFSKVGTL</span><span class="topo-membrane">VVFVAFILSYMGV</span><span class="topo-outside">EASATHVNEMSNPGRDYPL</span><span class="topo-membrane">AMLL</span></span>
-<span class="topo-line"><span class="topo-membrane">LMVAAICLSSVGGL</span><span class="topo-inside">SIAMVIPGNEINLSAGVMQTFTVLMSHVAPEIEWTVRV</span><span class="topo-membrane">ISALLLLG</span></span>
-<span class="topo-line"><span class="topo-membrane">VLAEIASWIVGP</span><span class="topo-outside">SRGMYVTAQKNLLPAAFAKMNKNGVPVTLV</span><span class="topo-membrane">ISQLVITSIALIILTNT</span><span class="topo-inside">G</span></span>
-<span class="topo-line"><span class="topo-inside">GGNNMS</span><span class="topo-membrane">FLIALALTVVIYLCAYF</span><span class="topo-outside">MLFIGYIVLVLKHPDLKRTFNIPGGKGVKLV</span><span class="topo-membrane">VAIVGL</span></span>
-<span class="topo-line"><span class="topo-membrane">LTSIMAFIVSFLP</span><span class="topo-inside">PDNIQGDSTDMY</span><span class="topo-membrane">VELLVVSFLVVLAL</span><span class="topo-outside">PFILYAV</span><span class="topo-unknown">HDRKGKANTGVTLE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MATSVQTGKAK</span><span class="topo-outside">QLT</span><span class="topo-unknown">LLGFFAIT</span><span class="topo-membrane">ASMVMAVYEYPTF</span><span class="topo-inside">ATSGFS</span><span class="topo-membrane">LVFFLLLGGILWFIPVG</span><span class="topo-outside">LCAAEMATVDGW</span><span class="topo-unknown">EEG</span><span class="topo-outside">G</span><span class="topo-unknown">VFAWVSNTL</span><span class="topo-outside">GPRWGFAAISF</span><span class="topo-membrane">GYLQIAIGFIPMLYFVLGAL</span><span class="topo-inside">SYILKW</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">PALNEDPITK</span><span class="topo-membrane">TIAALIILWALALTQFG</span><span class="topo-outside">GTKY</span><span class="topo-membrane">TARIAKVGFFAGILLPAFILIA</span><span class="topo-inside">LAAIYLH</span><span class="topo-unknown">SGAPVAIEMDSK</span><span class="topo-inside">TFFPDFSKVGTL</span><span class="topo-membrane">VVFVAFILSYMGV</span><span class="topo-outside">EASATHVNEMSNPGRDYPL</span><span class="topo-membrane">AMLL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">LMVAAICLSSVGGL</span><span class="topo-inside">SIAMVIPGNEINLSAGVMQTFTVLMSHVAPEIEWTVRV</span><span class="topo-membrane">ISALLLLGVLAEIASWIVGP</span><span class="topo-outside">SRGMYVTAQKNLLPAAFAKMNKNGVPVTLV</span><span class="topo-membrane">ISQLVITSIALIILTNT</span><span class="topo-inside">G</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">GGNNMS</span><span class="topo-membrane">FLIALALTVVIYLCAYF</span><span class="topo-outside">MLFIGYIVLVLKHPDLKRTFNIPGGKGVKLV</span><span class="topo-membrane">VAIVGLLTSIMAFIVSFLP</span><span class="topo-inside">PDNIQGDSTDMY</span><span class="topo-membrane">VELLVVSFLVVLAL</span><span class="topo-outside">PFILYAV</span><span class="topo-unknown">HDRKGKANTGVTLE</span></span>
+<span class="topo-ruler">       490       500       510 </span>
 <span class="topo-line"><span class="topo-unknown">PINSQNAPKG</span><span class="topo-outside">HFFLHPRARSP</span><span class="topo-unknown">HYIVMNDKKH</span></span>
+<details class="topo-details"><summary>Topology coordinates (36 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -421,6 +423,7 @@ GadC is a SLC1/EAAT/GATs antiporter from the Apc (JLK-6 acid-polyamine-organocat
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

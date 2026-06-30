@@ -69,10 +69,11 @@ The molybdate/tungstate ABC transporter from Archaeoglobus fulgidus is a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MFLKVRAEKRLGNFRLNVDFEMGRDYCVLLGPTGAGKSVFLELIAGIVKPDRGEVRLNGA</span></span>
-<span class="topo-line"><span class="topo-outside">DITPLPPERRGIGFVPQDYALFPHLSVYRNIAYGLRNVERVERDRRVREMAEKLGIAHLL</span></span>
-<span class="topo-line"><span class="topo-outside">DRKPARLSGGERQRVALARALVIQPRLLLLDEPLSAVDLKTKGVLMEELRFVQREFDVPI</span></span>
-<span class="topo-line"><span class="topo-outside">LHVTHDLIEAAMLADEVAVMLNGRIVEKGKLKELFSAKNGEVAEFLSARNLLLKVSKILD</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MFLKVRAEKRLGNFRLNVDFEMGRDYCVLLGPTGAGKSVFLELIAGIVKPDRGEVRLNGADITPLPPERRGIGFVPQDYALFPHLSVYRNIAYGLRNVERVERDRRVREMAEKLGIAHLL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">DRKPARLSGGERQRVALARALVIQPRLLLLDEPLSAVDLKTKGVLMEELRFVQREFDVPILHVTHDLIEAAMLADEVAVMLNGRIVEKGKLKELFSAKNGEVAEFLSARNLLLKVSKILD</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -91,6 +92,7 @@ The molybdate/tungstate ABC transporter from Archaeoglobus fulgidus is a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -106,10 +108,11 @@ The molybdate/tungstate ABC transporter from Archaeoglobus fulgidus is a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MFLKVRAEKRLGNFRLNVDFEMGRDYCVLLGPTGAGKSVFLELIAGIVKPDRGEVRLNGA</span></span>
-<span class="topo-line"><span class="topo-outside">DITPLPPERRGIGFVPQDYALFPHLSVYRNIAYGLRNVERVERDRRVREMAEKLGIAHLL</span></span>
-<span class="topo-line"><span class="topo-outside">DRKPARLSGGERQRVALARALVIQPRLLLLDEPLSAVDLKTKGVLMEELRFVQREFDVPI</span></span>
-<span class="topo-line"><span class="topo-outside">LHVTHDLIEAAMLADEVAVMLNGRIVEKGKLKELFSAKNGEVAEFLSARNLLLKVSKILD</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MFLKVRAEKRLGNFRLNVDFEMGRDYCVLLGPTGAGKSVFLELIAGIVKPDRGEVRLNGADITPLPPERRGIGFVPQDYALFPHLSVYRNIAYGLRNVERVERDRRVREMAEKLGIAHLL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">DRKPARLSGGERQRVALARALVIQPRLLLLDEPLSAVDLKTKGVLMEELRFVQREFDVPILHVTHDLIEAAMLADEVAVMLNGRIVEKGKLKELFSAKNGEVAEFLSARNLLLKVSKILD</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -128,6 +131,7 @@ The molybdate/tungstate ABC transporter from Archaeoglobus fulgidus is a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -143,11 +147,13 @@ The molybdate/tungstate ABC transporter from Archaeoglobus fulgidus is a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGHHHHHHHHHHSSGENLYFQGH</span><span class="topo-outside">MRLLFSAL</span><span class="topo-membrane">LALLSSIILLFVLLPVAATVTL</span><span class="topo-inside">QLFN</span><span class="topo-unknown">FDE</span></span>
-<span class="topo-line"><span class="topo-unknown">FLKAAS</span><span class="topo-inside">DPAVWKVV</span><span class="topo-membrane">LTTYYAALISTLIAVIFGTPL</span><span class="topo-outside">AYILARKSFPGKS</span><span class="topo-membrane">VVEGIVDLPVVI</span></span>
-<span class="topo-line"><span class="topo-membrane">PHTVAG</span><span class="topo-unknown">IALLVVF</span><span class="topo-inside">GSSGLIGSFSPLKFVDAL</span><span class="topo-membrane">PGIVVAMLFVSVPIYINQA</span><span class="topo-outside">KEGFASVDVR</span></span>
-<span class="topo-line"><span class="topo-outside">LEHVARTLGSS</span><span class="topo-unknown">PLRVFFT</span><span class="topo-outside">VSLPLSVRHI</span><span class="topo-membrane">VAGAIMSWARGISEFGAV</span><span class="topo-inside">VVIAYYPMIAPTLI</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGHHHHHHHHHHSSGENLYFQGH</span><span class="topo-outside">MRLLFSAL</span><span class="topo-membrane">LALLSSIILLFVLLPVAATVTL</span><span class="topo-inside">QLFN</span><span class="topo-unknown">FDEFLKAAS</span><span class="topo-inside">DPAVWKVV</span><span class="topo-membrane">LTTYYAALISTLIAVIFGTPL</span><span class="topo-outside">AYILARKSFPGKS</span><span class="topo-membrane">VVEGIVDLPVVI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">PHTVAG</span><span class="topo-unknown">IALLVVF</span><span class="topo-inside">GSSGLIGSFSPLKFVDAL</span><span class="topo-membrane">PGIVVAMLFVSVPIYINQA</span><span class="topo-outside">KEGFASVDVRLEHVARTLGSS</span><span class="topo-unknown">PLRVFFT</span><span class="topo-outside">VSLPLSVRHI</span><span class="topo-membrane">VAGAIMSWARGISEFGAV</span><span class="topo-inside">VVIAYYPMIAPTLI</span></span>
+<span class="topo-ruler">       250       260       270       280    </span>
 <span class="topo-line"><span class="topo-inside">YERYLSEGLSAAMPVA</span><span class="topo-membrane">AILILLSLAVFVALRII</span><span class="topo-outside">VG</span><span class="topo-unknown">REDVSEGQG</span></span>
+<details class="topo-details"><summary>Topology coordinates (20 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -299,6 +305,7 @@ The molybdate/tungstate ABC transporter from Archaeoglobus fulgidus is a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -314,11 +321,13 @@ The molybdate/tungstate ABC transporter from Archaeoglobus fulgidus is a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGHHHHHHHHHHSSGENLYFQGH</span><span class="topo-outside">MRLLFSAL</span><span class="topo-membrane">LALLSSIILLFVLLPVAATVTL</span><span class="topo-inside">QLFN</span><span class="topo-unknown">FDE</span></span>
-<span class="topo-line"><span class="topo-unknown">FLKAAS</span><span class="topo-inside">DPAVWKVV</span><span class="topo-membrane">LTTYYAALISTLIAVIFGTPL</span><span class="topo-outside">AYILARKSFPGKS</span><span class="topo-membrane">VVEGIVDLPVVI</span></span>
-<span class="topo-line"><span class="topo-membrane">PHTVAG</span><span class="topo-unknown">IALLVVF</span><span class="topo-inside">GSSGLIGSFSPLKFVDAL</span><span class="topo-membrane">PGIVVAMLFVSVPIYINQ</span><span class="topo-outside">AKEGFASVDVR</span></span>
-<span class="topo-line"><span class="topo-outside">LEHVARTLGSSPLRVFFTVSLPLSVRHI</span><span class="topo-membrane">VAGAIMSWARGISEFGAV</span><span class="topo-inside">VVIAYYPMIAPTLI</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGHHHHHHHHHHSSGENLYFQGH</span><span class="topo-outside">MRLLFSAL</span><span class="topo-membrane">LALLSSIILLFVLLPVAATVTL</span><span class="topo-inside">QLFN</span><span class="topo-unknown">FDEFLKAAS</span><span class="topo-inside">DPAVWKVV</span><span class="topo-membrane">LTTYYAALISTLIAVIFGTPL</span><span class="topo-outside">AYILARKSFPGKS</span><span class="topo-membrane">VVEGIVDLPVVI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">PHTVAG</span><span class="topo-unknown">IALLVVF</span><span class="topo-inside">GSSGLIGSFSPLKFVDAL</span><span class="topo-membrane">PGIVVAMLFVSVPIYINQ</span><span class="topo-outside">AKEGFASVDVRLEHVARTLGSSPLRVFFTVSLPLSVRHI</span><span class="topo-membrane">VAGAIMSWARGISEFGAV</span><span class="topo-inside">VVIAYYPMIAPTLI</span></span>
+<span class="topo-ruler">       250       260       270       280    </span>
 <span class="topo-line"><span class="topo-inside">YERYLSEGLSAAMPVA</span><span class="topo-membrane">AILILLSLAVFVALRII</span><span class="topo-outside">VG</span><span class="topo-unknown">REDVSEGQG</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -456,6 +465,7 @@ The molybdate/tungstate ABC transporter from Archaeoglobus fulgidus is a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -471,12 +481,13 @@ The molybdate/tungstate ABC transporter from Archaeoglobus fulgidus is a
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GHM</span><span class="topo-inside">NVKLKVFHAGSLTEPMKAFKRAFEEKHPNVEVQTEAAGSAATIRKVTELGRKADVIA</span></span>
-<span class="topo-line"><span class="topo-inside">TADYTLIQKMMYPEFANWTIMFAKNQIVLAYRNDSRYADEINSQNWYEILKRPDVRFGFS</span></span>
-<span class="topo-line"><span class="topo-inside">NPNDDPCGYRSLMAIQLAELYYNDPTIFDELVAKNSNLRFSEDNGSYVLRMPSSERIEIN</span></span>
-<span class="topo-line"><span class="topo-inside">KSKIMIRSMEMELIHLVESGELDYFFIYKSVAKQHGFNFVELPVEIDLSSPDYAELYSKV</span></span>
-<span class="topo-line"><span class="topo-inside">KVVLANGKEVTGKPIVYGITIPKNAENRELAVEFVKLVISEEGQEILRELGQEPLVPPRA</span></span>
-<span class="topo-line"><span class="topo-inside">DTAVPSLKAMVEVS</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GHM</span><span class="topo-inside">NVKLKVFHAGSLTEPMKAFKRAFEEKHPNVEVQTEAAGSAATIRKVTELGRKADVIATADYTLIQKMMYPEFANWTIMFAKNQIVLAYRNDSRYADEINSQNWYEILKRPDVRFGFS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">NPNDDPCGYRSLMAIQLAELYYNDPTIFDELVAKNSNLRFSEDNGSYVLRMPSSERIEINKSKIMIRSMEMELIHLVESGELDYFFIYKSVAKQHGFNFVELPVEIDLSSPDYAELYSKV</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310    </span>
+<span class="topo-line"><span class="topo-inside">KVVLANGKEVTGKPIVYGITIPKNAENRELAVEFVKLVISEEGQEILRELGQEPLVPPRADTAVPSLKAMVEVS</span></span>
+<details class="topo-details"><summary>Topology coordinates (2 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -502,6 +513,7 @@ The molybdate/tungstate ABC transporter from Archaeoglobus fulgidus is a
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

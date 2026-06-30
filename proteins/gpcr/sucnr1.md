@@ -56,12 +56,13 @@ SUCNR1 ([Succinate (Succinic Acid)](/xray-mp-wiki/reagents/ligands/succinate/) r
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">DYKDDDDKAQNLS</span><span class="topo-inside">CENWLALENILEKY</span><span class="topo-membrane">YLSAFYGIEFIVGMLGNFTVVFGYL</span><span class="topo-outside">FCMKNWNS</span></span>
-<span class="topo-line"><span class="topo-outside">SN</span><span class="topo-membrane">VYLFNLSISDLAFLCTLPMLIRSY</span><span class="topo-inside">ATGNWTY</span><span class="topo-membrane">GDVLCISNRYVLHANLYTSILFLTFIS</span></span>
-<span class="topo-line"><span class="topo-membrane">I</span><span class="topo-outside">DRYLLMKFPFREHILQKKEFA</span><span class="topo-membrane">ILISLAVWVLVTLEVLPMLTFIT</span><span class="topo-inside">STPIEKGDSCVDYAS</span></span>
-<span class="topo-line"><span class="topo-inside">SGNPK</span><span class="topo-membrane">YSLIYSLCLTLLGFLIPLSVMCFFYY</span><span class="topo-outside">KMVVFLKKRS</span><span class="topo-unknown">QQQATVLSL</span><span class="topo-outside">NKPLR</span><span class="topo-membrane">LVVLA</span></span>
-<span class="topo-line"><span class="topo-membrane">VVIFSVLFTPYHIMRNVRIA</span><span class="topo-inside">SRL</span><span class="topo-unknown">DSWPQ</span><span class="topo-inside">GCSQKAINCL</span><span class="topo-membrane">YILTRPLAFLNSAVNPIFYFL</span><span class="topo-outside">V</span></span>
-<span class="topo-line"><span class="topo-outside">GDH</span><span class="topo-unknown">FRDMLFS</span><span class="topo-outside">K</span><span class="topo-unknown">LRQYFKSLTSFRLLEVLFQGPHHHHHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">DYKDDDDKAQNLS</span><span class="topo-inside">CENWLALENILEKY</span><span class="topo-membrane">YLSAFYGIEFIVGMLGNFTVVFGYL</span><span class="topo-outside">FCMKNWNSSN</span><span class="topo-membrane">VYLFNLSISDLAFLCTLPMLIRSY</span><span class="topo-inside">ATGNWTY</span><span class="topo-membrane">GDVLCISNRYVLHANLYTSILFLTFIS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">I</span><span class="topo-outside">DRYLLMKFPFREHILQKKEFA</span><span class="topo-membrane">ILISLAVWVLVTLEVLPMLTFIT</span><span class="topo-inside">STPIEKGDSCVDYASSGNPK</span><span class="topo-membrane">YSLIYSLCLTLLGFLIPLSVMCFFYY</span><span class="topo-outside">KMVVFLKKRS</span><span class="topo-unknown">QQQATVLSL</span><span class="topo-outside">NKPLR</span><span class="topo-membrane">LVVLA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340  </span>
+<span class="topo-line"><span class="topo-membrane">VVIFSVLFTPYHIMRNVRIA</span><span class="topo-inside">SRL</span><span class="topo-unknown">DSWPQ</span><span class="topo-inside">GCSQKAINCL</span><span class="topo-membrane">YILTRPLAFLNSAVNPIFYFL</span><span class="topo-outside">VGDH</span><span class="topo-unknown">FRDMLFS</span><span class="topo-outside">K</span><span class="topo-unknown">LRQYFKSLTSFRLLEVLFQGPHHHHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -206,6 +207,7 @@ SUCNR1 ([Succinate (Succinic Acid)](/xray-mp-wiki/reagents/ligands/succinate/) r
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

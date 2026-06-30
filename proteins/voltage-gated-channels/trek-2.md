@@ -116,11 +116,13 @@ that serve as binding sites for state-dependent inhibitors including
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGLQTVM</span><span class="topo-inside">KWKTV</span><span class="topo-membrane">VAIFVVVVVYLVTGGLVFRAL</span><span class="topo-outside">EQPFESSQKNTIALEKAEFLRDHVCVS</span></span>
-<span class="topo-line"><span class="topo-outside">PQELETLIQHALDADNAGVSPIG</span><span class="topo-unknown">NSSN</span><span class="topo-outside">NSSHWDL</span><span class="topo-unknown">GSAFFFAGTVITTIGYG</span><span class="topo-outside">NIAPSTE</span><span class="topo-membrane">GG</span></span>
-<span class="topo-line"><span class="topo-membrane">KIFCILYAIFGIPLFGFLLAGIG</span><span class="topo-unknown">DQLGTIFGKSIARVEKVFR</span><span class="topo-inside">K</span><span class="topo-unknown">KQVSQTK</span><span class="topo-inside">IRVIST</span><span class="topo-membrane">ILFI</span></span>
-<span class="topo-line"><span class="topo-membrane">LAGCIVFVTIPAVIFK</span><span class="topo-outside">YIEGWTA</span><span class="topo-unknown">LESIYFVVVTLTTVGFG</span><span class="topo-outside">DFVAGGNAGINYRE</span><span class="topo-membrane">WYKPLV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGLQTVM</span><span class="topo-inside">KWKTV</span><span class="topo-membrane">VAIFVVVVVYLVTGGLVFRAL</span><span class="topo-outside">EQPFESSQKNTIALEKAEFLRDHVCVSPQELETLIQHALDADNAGVSPIG</span><span class="topo-unknown">NSSN</span><span class="topo-outside">NSSHWDL</span><span class="topo-unknown">GSAFFFAGTVITTIGYG</span><span class="topo-outside">NIAPSTE</span><span class="topo-membrane">GG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">KIFCILYAIFGIPLFGFLLAGIG</span><span class="topo-unknown">DQLGTIFGKSIARVEKVFR</span><span class="topo-inside">K</span><span class="topo-unknown">KQVSQTK</span><span class="topo-inside">IRVIST</span><span class="topo-membrane">ILFILAGCIVFVTIPAVIFK</span><span class="topo-outside">YIEGWTA</span><span class="topo-unknown">LESIYFVVVTLTTVGFG</span><span class="topo-outside">DFVAGGNAGINYRE</span><span class="topo-membrane">WYKPLV</span></span>
+<span class="topo-ruler">       250       260       270       280  </span>
 <span class="topo-line"><span class="topo-membrane">WFWILVGLAYFAAVLSMIG</span><span class="topo-inside">DWLRVLS</span><span class="topo-unknown">KKTKEEVGEAENLYFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (20 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -272,6 +274,7 @@ that serve as binding sites for state-dependent inhibitors including
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -287,11 +290,13 @@ that serve as binding sites for state-dependent inhibitors including
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGLQTVM</span><span class="topo-inside">KWKTV</span><span class="topo-membrane">VAIFVVVVVYLVTGGLVFRAL</span><span class="topo-outside">EQPFESSQKNTIALEKAEFLRDHVCVS</span></span>
-<span class="topo-line"><span class="topo-outside">PQELETLIQHALDADNAGVSPIG</span><span class="topo-unknown">NSSNNS</span><span class="topo-outside">SHWDL</span><span class="topo-unknown">GSAFFFAGTVITTIGYG</span><span class="topo-outside">NIAPSTEG</span><span class="topo-membrane">G</span></span>
-<span class="topo-line"><span class="topo-membrane">KIFCILYAIFGIPLFGFLLAGIG</span><span class="topo-unknown">DQLGTIFGKSIARVEKVFRK</span><span class="topo-inside">KQVSQTKIRVISTI</span><span class="topo-membrane">LFI</span></span>
-<span class="topo-line"><span class="topo-membrane">LAGCIVFVTIPAVIFKYI</span><span class="topo-outside">EGWTA</span><span class="topo-unknown">LESIYFVVVTLTTVGFG</span><span class="topo-outside">DFVAGGNAGINYR</span><span class="topo-membrane">EWYKPLV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGLQTVM</span><span class="topo-inside">KWKTV</span><span class="topo-membrane">VAIFVVVVVYLVTGGLVFRAL</span><span class="topo-outside">EQPFESSQKNTIALEKAEFLRDHVCVSPQELETLIQHALDADNAGVSPIG</span><span class="topo-unknown">NSSNNS</span><span class="topo-outside">SHWDL</span><span class="topo-unknown">GSAFFFAGTVITTIGYG</span><span class="topo-outside">NIAPSTEG</span><span class="topo-membrane">G</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">KIFCILYAIFGIPLFGFLLAGIG</span><span class="topo-unknown">DQLGTIFGKSIARVEKVFRK</span><span class="topo-inside">KQVSQTKIRVISTI</span><span class="topo-membrane">LFILAGCIVFVTIPAVIFKYI</span><span class="topo-outside">EGWTA</span><span class="topo-unknown">LESIYFVVVTLTTVGFG</span><span class="topo-outside">DFVAGGNAGINYR</span><span class="topo-membrane">EWYKPLV</span></span>
+<span class="topo-ruler">       250       260       270       280  </span>
 <span class="topo-line"><span class="topo-membrane">WFWILVGLAYFAAVLSMIG</span><span class="topo-unknown">DWLRVLS</span><span class="topo-inside">K</span><span class="topo-unknown">KTKEEVGEAENLYFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -436,6 +441,7 @@ that serve as binding sites for state-dependent inhibitors including
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -451,11 +457,13 @@ that serve as binding sites for state-dependent inhibitors including
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGLQTVM</span><span class="topo-inside">KWKTV</span><span class="topo-membrane">VAIFVVVVVYLVTGGLVFRAL</span><span class="topo-outside">EQPFESSQKNTIALEKAEFLRDHVCVS</span></span>
-<span class="topo-line"><span class="topo-outside">PQELETLIQHALDADNAGVSPIG</span><span class="topo-unknown">NSSN</span><span class="topo-outside">NSSHWDL</span><span class="topo-unknown">GSAFFFAGTVITTIGYG</span><span class="topo-outside">NIAPSTE</span><span class="topo-membrane">GG</span></span>
-<span class="topo-line"><span class="topo-membrane">KIFCILYAIFGIPLFGFLLAGIG</span><span class="topo-unknown">DQLGTIFGKSIARVEKVFR</span><span class="topo-inside">K</span><span class="topo-unknown">KQVSQTK</span><span class="topo-inside">IRVIST</span><span class="topo-membrane">ILFI</span></span>
-<span class="topo-line"><span class="topo-membrane">LAGCIVFVTIPAVIFK</span><span class="topo-outside">YIEGWTA</span><span class="topo-unknown">LESIYFVVVTLTTVGFG</span><span class="topo-outside">DFVAGGNAGINYRE</span><span class="topo-membrane">WYKPLV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGLQTVM</span><span class="topo-inside">KWKTV</span><span class="topo-membrane">VAIFVVVVVYLVTGGLVFRAL</span><span class="topo-outside">EQPFESSQKNTIALEKAEFLRDHVCVSPQELETLIQHALDADNAGVSPIG</span><span class="topo-unknown">NSSN</span><span class="topo-outside">NSSHWDL</span><span class="topo-unknown">GSAFFFAGTVITTIGYG</span><span class="topo-outside">NIAPSTE</span><span class="topo-membrane">GG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">KIFCILYAIFGIPLFGFLLAGIG</span><span class="topo-unknown">DQLGTIFGKSIARVEKVFR</span><span class="topo-inside">K</span><span class="topo-unknown">KQVSQTK</span><span class="topo-inside">IRVIST</span><span class="topo-membrane">ILFILAGCIVFVTIPAVIFK</span><span class="topo-outside">YIEGWTA</span><span class="topo-unknown">LESIYFVVVTLTTVGFG</span><span class="topo-outside">DFVAGGNAGINYRE</span><span class="topo-membrane">WYKPLV</span></span>
+<span class="topo-ruler">       250       260       270       280  </span>
 <span class="topo-line"><span class="topo-membrane">WFWILVGLAYFAAVLSMIG</span><span class="topo-inside">DWLRVLS</span><span class="topo-unknown">KKTKEEVGEAENLYFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (20 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -607,6 +615,7 @@ that serve as binding sites for state-dependent inhibitors including
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -622,11 +631,13 @@ that serve as binding sites for state-dependent inhibitors including
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGLQTVM</span><span class="topo-inside">KWKTV</span><span class="topo-membrane">VAIFVVVVVYLVTGGLVFRAL</span><span class="topo-outside">EQPFESSQKNTIALEKAEFLRDHVCVS</span></span>
-<span class="topo-line"><span class="topo-outside">PQELETLIQHALDADNAGVSPIG</span><span class="topo-unknown">NSSNNS</span><span class="topo-outside">SHWDL</span><span class="topo-unknown">GSAFFFAGTVITTIGYG</span><span class="topo-outside">NIAPSTEG</span><span class="topo-membrane">G</span></span>
-<span class="topo-line"><span class="topo-membrane">KIFCILYAIFGIPLFGFLLAGIG</span><span class="topo-unknown">DQLGTIFGKSIARVEKVFRK</span><span class="topo-inside">KQVSQTKIRVISTI</span><span class="topo-membrane">LFI</span></span>
-<span class="topo-line"><span class="topo-membrane">LAGCIVFVTIPAVIFKYI</span><span class="topo-outside">EGWTA</span><span class="topo-unknown">LESIYFVVVTLTTVGFG</span><span class="topo-outside">DFVAGGNAGINYR</span><span class="topo-membrane">EWYKPLV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGLQTVM</span><span class="topo-inside">KWKTV</span><span class="topo-membrane">VAIFVVVVVYLVTGGLVFRAL</span><span class="topo-outside">EQPFESSQKNTIALEKAEFLRDHVCVSPQELETLIQHALDADNAGVSPIG</span><span class="topo-unknown">NSSNNS</span><span class="topo-outside">SHWDL</span><span class="topo-unknown">GSAFFFAGTVITTIGYG</span><span class="topo-outside">NIAPSTEG</span><span class="topo-membrane">G</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">KIFCILYAIFGIPLFGFLLAGIG</span><span class="topo-unknown">DQLGTIFGKSIARVEKVFRK</span><span class="topo-inside">KQVSQTKIRVISTI</span><span class="topo-membrane">LFILAGCIVFVTIPAVIFKYI</span><span class="topo-outside">EGWTA</span><span class="topo-unknown">LESIYFVVVTLTTVGFG</span><span class="topo-outside">DFVAGGNAGINYR</span><span class="topo-membrane">EWYKPLV</span></span>
+<span class="topo-ruler">       250       260       270       280  </span>
 <span class="topo-line"><span class="topo-membrane">WFWILVGLAYFAAVLSMIG</span><span class="topo-unknown">DWLRVLS</span><span class="topo-inside">K</span><span class="topo-unknown">KTKEEVGEAENLYFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -771,6 +782,7 @@ that serve as binding sites for state-dependent inhibitors including
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -786,11 +798,13 @@ that serve as binding sites for state-dependent inhibitors including
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGLQTVM</span><span class="topo-inside">KWKTV</span><span class="topo-membrane">VAIFVVVVVYLVTGGLVFRAL</span><span class="topo-outside">EQPFESSQKNTIALEKAEFLRDHVCVS</span></span>
-<span class="topo-line"><span class="topo-outside">PQELETLIQHALDADNAGVSPIG</span><span class="topo-unknown">NSSN</span><span class="topo-outside">NSSHWDL</span><span class="topo-unknown">GSAFFFAGTVITTIGYG</span><span class="topo-outside">NIAPSTE</span><span class="topo-membrane">GG</span></span>
-<span class="topo-line"><span class="topo-membrane">KIFCILYAIFGIPLFGFLLAGIG</span><span class="topo-unknown">DQLGTIFGKSIARVEKVFR</span><span class="topo-inside">K</span><span class="topo-unknown">KQVSQTK</span><span class="topo-inside">IRVIST</span><span class="topo-membrane">ILFI</span></span>
-<span class="topo-line"><span class="topo-membrane">LAGCIVFVTIPAVIFK</span><span class="topo-outside">YIEGWTA</span><span class="topo-unknown">LESIYFVVVTLTTVGFG</span><span class="topo-outside">DFVAGGNAGINYRE</span><span class="topo-membrane">WYKPLV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGLQTVM</span><span class="topo-inside">KWKTV</span><span class="topo-membrane">VAIFVVVVVYLVTGGLVFRAL</span><span class="topo-outside">EQPFESSQKNTIALEKAEFLRDHVCVSPQELETLIQHALDADNAGVSPIG</span><span class="topo-unknown">NSSN</span><span class="topo-outside">NSSHWDL</span><span class="topo-unknown">GSAFFFAGTVITTIGYG</span><span class="topo-outside">NIAPSTE</span><span class="topo-membrane">GG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">KIFCILYAIFGIPLFGFLLAGIG</span><span class="topo-unknown">DQLGTIFGKSIARVEKVFR</span><span class="topo-inside">K</span><span class="topo-unknown">KQVSQTK</span><span class="topo-inside">IRVIST</span><span class="topo-membrane">ILFILAGCIVFVTIPAVIFK</span><span class="topo-outside">YIEGWTA</span><span class="topo-unknown">LESIYFVVVTLTTVGFG</span><span class="topo-outside">DFVAGGNAGINYRE</span><span class="topo-membrane">WYKPLV</span></span>
+<span class="topo-ruler">       250       260       270       280  </span>
 <span class="topo-line"><span class="topo-membrane">WFWILVGLAYFAAVLSMIG</span><span class="topo-inside">DWLRVLS</span><span class="topo-unknown">KKTKEEVGEAENLYFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (20 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -942,6 +956,7 @@ that serve as binding sites for state-dependent inhibitors including
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -957,11 +972,13 @@ that serve as binding sites for state-dependent inhibitors including
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGLQTVM</span><span class="topo-inside">KWKTV</span><span class="topo-membrane">VAIFVVVVVYLVTGGLVFRAL</span><span class="topo-outside">EQPFESSQKNTIALEKAEFLRDHVCVS</span></span>
-<span class="topo-line"><span class="topo-outside">PQELETLIQHALDADNAGVSPIG</span><span class="topo-unknown">NSSNNS</span><span class="topo-outside">SHWDL</span><span class="topo-unknown">GSAFFFAGTVITTIGYG</span><span class="topo-outside">NIAPSTEG</span><span class="topo-membrane">G</span></span>
-<span class="topo-line"><span class="topo-membrane">KIFCILYAIFGIPLFGFLLAGIG</span><span class="topo-unknown">DQLGTIFGKSIARVEKVFRK</span><span class="topo-inside">KQVSQTKIRVISTI</span><span class="topo-membrane">LFI</span></span>
-<span class="topo-line"><span class="topo-membrane">LAGCIVFVTIPAVIFKYI</span><span class="topo-outside">EGWTA</span><span class="topo-unknown">LESIYFVVVTLTTVGFG</span><span class="topo-outside">DFVAGGNAGINYR</span><span class="topo-membrane">EWYKPLV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGLQTVM</span><span class="topo-inside">KWKTV</span><span class="topo-membrane">VAIFVVVVVYLVTGGLVFRAL</span><span class="topo-outside">EQPFESSQKNTIALEKAEFLRDHVCVSPQELETLIQHALDADNAGVSPIG</span><span class="topo-unknown">NSSNNS</span><span class="topo-outside">SHWDL</span><span class="topo-unknown">GSAFFFAGTVITTIGYG</span><span class="topo-outside">NIAPSTEG</span><span class="topo-membrane">G</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">KIFCILYAIFGIPLFGFLLAGIG</span><span class="topo-unknown">DQLGTIFGKSIARVEKVFRK</span><span class="topo-inside">KQVSQTKIRVISTI</span><span class="topo-membrane">LFILAGCIVFVTIPAVIFKYI</span><span class="topo-outside">EGWTA</span><span class="topo-unknown">LESIYFVVVTLTTVGFG</span><span class="topo-outside">DFVAGGNAGINYR</span><span class="topo-membrane">EWYKPLV</span></span>
+<span class="topo-ruler">       250       260       270       280  </span>
 <span class="topo-line"><span class="topo-membrane">WFWILVGLAYFAAVLSMIG</span><span class="topo-unknown">DWLRVLS</span><span class="topo-inside">K</span><span class="topo-unknown">KTKEEVGEAENLYFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1106,6 +1123,7 @@ that serve as binding sites for state-dependent inhibitors including
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1121,11 +1139,13 @@ that serve as binding sites for state-dependent inhibitors including
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGLQTVM</span><span class="topo-inside">KWKTV</span><span class="topo-membrane">VAIFVVVVVYLVTGGLVFRAL</span><span class="topo-outside">EQPFESSQKNTIALEKAEFLRDHVCVS</span></span>
-<span class="topo-line"><span class="topo-outside">PQELETLIQHALDADNAGVSPIG</span><span class="topo-unknown">NSSN</span><span class="topo-outside">NSSHWDL</span><span class="topo-unknown">GSAFFFAGTVITTIGYG</span><span class="topo-outside">NIAPSTE</span><span class="topo-membrane">GG</span></span>
-<span class="topo-line"><span class="topo-membrane">KIFCILYAIFGIPLFGFLLAGIG</span><span class="topo-unknown">DQLGTIFGKSIARVEKVFR</span><span class="topo-inside">K</span><span class="topo-unknown">KQVSQTK</span><span class="topo-inside">IRVIST</span><span class="topo-membrane">ILFI</span></span>
-<span class="topo-line"><span class="topo-membrane">LAGCIVFVTIPAVIFK</span><span class="topo-outside">YIEGWTA</span><span class="topo-unknown">LESIYFVVVTLTTVGFG</span><span class="topo-outside">DFVAGGNAGINYRE</span><span class="topo-membrane">WYKPLV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGLQTVM</span><span class="topo-inside">KWKTV</span><span class="topo-membrane">VAIFVVVVVYLVTGGLVFRAL</span><span class="topo-outside">EQPFESSQKNTIALEKAEFLRDHVCVSPQELETLIQHALDADNAGVSPIG</span><span class="topo-unknown">NSSN</span><span class="topo-outside">NSSHWDL</span><span class="topo-unknown">GSAFFFAGTVITTIGYG</span><span class="topo-outside">NIAPSTE</span><span class="topo-membrane">GG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">KIFCILYAIFGIPLFGFLLAGIG</span><span class="topo-unknown">DQLGTIFGKSIARVEKVFR</span><span class="topo-inside">K</span><span class="topo-unknown">KQVSQTK</span><span class="topo-inside">IRVIST</span><span class="topo-membrane">ILFILAGCIVFVTIPAVIFK</span><span class="topo-outside">YIEGWTA</span><span class="topo-unknown">LESIYFVVVTLTTVGFG</span><span class="topo-outside">DFVAGGNAGINYRE</span><span class="topo-membrane">WYKPLV</span></span>
+<span class="topo-ruler">       250       260       270       280  </span>
 <span class="topo-line"><span class="topo-membrane">WFWILVGLAYFAAVLSMIG</span><span class="topo-inside">DWLRVLS</span><span class="topo-unknown">KKTKEEVGEAENLYFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (20 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1277,6 +1297,7 @@ that serve as binding sites for state-dependent inhibitors including
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1292,11 +1313,13 @@ that serve as binding sites for state-dependent inhibitors including
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGLQTVM</span><span class="topo-inside">KWKTV</span><span class="topo-membrane">VAIFVVVVVYLVTGGLVFRAL</span><span class="topo-outside">EQPFESSQKNTIALEKAEFLRDHVCVS</span></span>
-<span class="topo-line"><span class="topo-outside">PQELETLIQHALDADNAGVSPIG</span><span class="topo-unknown">NSSNNS</span><span class="topo-outside">SHWDL</span><span class="topo-unknown">GSAFFFAGTVITTIGYG</span><span class="topo-outside">NIAPSTEG</span><span class="topo-membrane">G</span></span>
-<span class="topo-line"><span class="topo-membrane">KIFCILYAIFGIPLFGFLLAGIG</span><span class="topo-unknown">DQLGTIFGKSIARVEKVFRK</span><span class="topo-inside">KQVSQTKIRVISTI</span><span class="topo-membrane">LFI</span></span>
-<span class="topo-line"><span class="topo-membrane">LAGCIVFVTIPAVIFKYI</span><span class="topo-outside">EGWTA</span><span class="topo-unknown">LESIYFVVVTLTTVGFG</span><span class="topo-outside">DFVAGGNAGINYR</span><span class="topo-membrane">EWYKPLV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGLQTVM</span><span class="topo-inside">KWKTV</span><span class="topo-membrane">VAIFVVVVVYLVTGGLVFRAL</span><span class="topo-outside">EQPFESSQKNTIALEKAEFLRDHVCVSPQELETLIQHALDADNAGVSPIG</span><span class="topo-unknown">NSSNNS</span><span class="topo-outside">SHWDL</span><span class="topo-unknown">GSAFFFAGTVITTIGYG</span><span class="topo-outside">NIAPSTEG</span><span class="topo-membrane">G</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">KIFCILYAIFGIPLFGFLLAGIG</span><span class="topo-unknown">DQLGTIFGKSIARVEKVFRK</span><span class="topo-inside">KQVSQTKIRVISTI</span><span class="topo-membrane">LFILAGCIVFVTIPAVIFKYI</span><span class="topo-outside">EGWTA</span><span class="topo-unknown">LESIYFVVVTLTTVGFG</span><span class="topo-outside">DFVAGGNAGINYR</span><span class="topo-membrane">EWYKPLV</span></span>
+<span class="topo-ruler">       250       260       270       280  </span>
 <span class="topo-line"><span class="topo-membrane">WFWILVGLAYFAAVLSMIG</span><span class="topo-unknown">DWLRVLS</span><span class="topo-inside">K</span><span class="topo-unknown">KTKEEVGEAENLYFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1441,6 +1464,7 @@ that serve as binding sites for state-dependent inhibitors including
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1532,11 +1556,13 @@ that serve as binding sites for state-dependent inhibitors including
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGLQTVM</span><span class="topo-inside">KW</span><span class="topo-membrane">KTVVAIFVVVVVYLVTGGLVF</span><span class="topo-outside">RALEQPFESSQKNTIALEKAEFLRDHVCVS</span></span>
-<span class="topo-line"><span class="topo-outside">PQELETLIQHALDADNAGVSPIGN</span><span class="topo-unknown">SSNNS</span><span class="topo-outside">SHWDLGSA</span><span class="topo-unknown">FFFAGTVITTIGY</span><span class="topo-outside">GNIAPSTEGG</span></span>
-<span class="topo-line"><span class="topo-outside">K</span><span class="topo-membrane">IFCILYAIFGIPLFGFLLAGIG</span><span class="topo-inside">DQLGTIFGK</span><span class="topo-unknown">SIARVEKVFRKKQV</span><span class="topo-inside">SQTKIRVIST</span><span class="topo-membrane">ILFI</span></span>
-<span class="topo-line"><span class="topo-membrane">LAGCIVFVTIPAVIF</span><span class="topo-outside">KYIEGWTALES</span><span class="topo-unknown">IYFVVVTLTTVGF</span><span class="topo-outside">GDFVAGG</span><span class="topo-unknown">NAGIN</span><span class="topo-outside">YREW</span><span class="topo-membrane">YKPLV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGLQTVM</span><span class="topo-inside">KW</span><span class="topo-membrane">KTVVAIFVVVVVYLVTGGLVF</span><span class="topo-outside">RALEQPFESSQKNTIALEKAEFLRDHVCVSPQELETLIQHALDADNAGVSPIGN</span><span class="topo-unknown">SSNNS</span><span class="topo-outside">SHWDLGSA</span><span class="topo-unknown">FFFAGTVITTIGY</span><span class="topo-outside">GNIAPSTEGG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">K</span><span class="topo-membrane">IFCILYAIFGIPLFGFLLAGIG</span><span class="topo-inside">DQLGTIFGK</span><span class="topo-unknown">SIARVEKVFRKKQV</span><span class="topo-inside">SQTKIRVIST</span><span class="topo-membrane">ILFILAGCIVFVTIPAVIF</span><span class="topo-outside">KYIEGWTALES</span><span class="topo-unknown">IYFVVVTLTTVGF</span><span class="topo-outside">GDFVAGG</span><span class="topo-unknown">NAGIN</span><span class="topo-outside">YREW</span><span class="topo-membrane">YKPLV</span></span>
+<span class="topo-ruler">       250       260       270       280  </span>
 <span class="topo-line"><span class="topo-membrane">WFWILVGLAYFAAVLS</span><span class="topo-inside">MIGDWLRVLSKKTKEEV</span><span class="topo-unknown">GEAENLYFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1695,6 +1721,7 @@ that serve as binding sites for state-dependent inhibitors including
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1710,11 +1737,13 @@ that serve as binding sites for state-dependent inhibitors including
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGLQTVM</span><span class="topo-inside">KWK</span><span class="topo-membrane">TVVAIFVVVVVYLVTGGLVF</span><span class="topo-outside">RALEQPFESSQKNTIALEKAEFLRDHVCVS</span></span>
-<span class="topo-line"><span class="topo-outside">PQELETLIQHALDADNAGVSPIGNSS</span><span class="topo-unknown">NN</span><span class="topo-outside">SSHWDLGSA</span><span class="topo-unknown">FFFAGTVITTIGY</span><span class="topo-outside">GNIAPSTEGG</span></span>
-<span class="topo-line"><span class="topo-membrane">KIFCILYAIFGIPLFGFLLAGIGDQL</span><span class="topo-inside">GTIFGKSIAR</span><span class="topo-unknown">VEKVFRKKQVSQTKI</span><span class="topo-inside">RVIST</span><span class="topo-membrane">ILFI</span></span>
-<span class="topo-line"><span class="topo-membrane">LAGCIVFVTIPAVIF</span><span class="topo-outside">KYIEGWTALES</span><span class="topo-unknown">IYFVVVTLTTVGF</span><span class="topo-outside">GDFVAGGNA</span><span class="topo-unknown">GINY</span><span class="topo-outside">REW</span><span class="topo-membrane">YKPLV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGLQTVM</span><span class="topo-inside">KWK</span><span class="topo-membrane">TVVAIFVVVVVYLVTGGLVF</span><span class="topo-outside">RALEQPFESSQKNTIALEKAEFLRDHVCVSPQELETLIQHALDADNAGVSPIGNSS</span><span class="topo-unknown">NN</span><span class="topo-outside">SSHWDLGSA</span><span class="topo-unknown">FFFAGTVITTIGY</span><span class="topo-outside">GNIAPSTEGG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">KIFCILYAIFGIPLFGFLLAGIGDQL</span><span class="topo-inside">GTIFGKSIAR</span><span class="topo-unknown">VEKVFRKKQVSQTKI</span><span class="topo-inside">RVIST</span><span class="topo-membrane">ILFILAGCIVFVTIPAVIF</span><span class="topo-outside">KYIEGWTALES</span><span class="topo-unknown">IYFVVVTLTTVGF</span><span class="topo-outside">GDFVAGGNA</span><span class="topo-unknown">GINY</span><span class="topo-outside">REW</span><span class="topo-membrane">YKPLV</span></span>
+<span class="topo-ruler">       250       260       270       280  </span>
 <span class="topo-line"><span class="topo-membrane">WFWILVGLAYFAAVLSMIG</span><span class="topo-inside">DWLRVL</span><span class="topo-unknown">SKKTKEEVGEAENLYFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1873,6 +1902,7 @@ that serve as binding sites for state-dependent inhibitors including
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1888,11 +1918,13 @@ that serve as binding sites for state-dependent inhibitors including
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-membrane">KTVVAIFVVVVVYLVTGGLVF</span><span class="topo-inside">RALEQPFESSQKNTIALEKAEFLRDHVCVSPQELETLI</span></span>
-<span class="topo-line"><span class="topo-inside">QHALDADNAGVSPIGQSSQQSSHWDL</span><span class="topo-unknown">GSAFFFAGTVITTIGYG</span><span class="topo-inside">NIAPSTEG</span><span class="topo-membrane">GKIFCILYA</span></span>
-<span class="topo-line"><span class="topo-membrane">IFGIPLFGFLLAGIG</span><span class="topo-outside">DQLGTIFGKSIARVEKV</span><span class="topo-unknown">FRKKQVSQTKI</span><span class="topo-outside">RVISTI</span><span class="topo-membrane">LFILAGCIVFV</span></span>
-<span class="topo-line"><span class="topo-membrane">TIPAVIFKYI</span><span class="topo-inside">EGWTA</span><span class="topo-unknown">LESIYFVVVTLTTVGFG</span><span class="topo-inside">DFVAGGNAGINYR</span><span class="topo-membrane">EWYKPLVWFWILVGL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-membrane">KTVVAIFVVVVVYLVTGGLVF</span><span class="topo-inside">RALEQPFESSQKNTIALEKAEFLRDHVCVSPQELETLIQHALDADNAGVSPIGQSSQQSSHWDL</span><span class="topo-unknown">GSAFFFAGTVITTIGYG</span><span class="topo-inside">NIAPSTEG</span><span class="topo-membrane">GKIFCILYA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">IFGIPLFGFLLAGIG</span><span class="topo-outside">DQLGTIFGKSIARVEKV</span><span class="topo-unknown">FRKKQVSQTKI</span><span class="topo-outside">RVISTI</span><span class="topo-membrane">LFILAGCIVFVTIPAVIFKYI</span><span class="topo-inside">EGWTA</span><span class="topo-unknown">LESIYFVVVTLTTVGFG</span><span class="topo-inside">DFVAGGNAGINYR</span><span class="topo-membrane">EWYKPLVWFWILVGL</span></span>
+<span class="topo-ruler">       250       260       270    </span>
 <span class="topo-line"><span class="topo-membrane">AYFAAVLSMI</span><span class="topo-unknown">GDWLRVLSKKTKEEVGEAENLYFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (14 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2002,6 +2034,7 @@ that serve as binding sites for state-dependent inhibitors including
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2017,11 +2050,13 @@ that serve as binding sites for state-dependent inhibitors including
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">KTV</span><span class="topo-membrane">VAIFVVVVVYLVTGGLVFRA</span><span class="topo-inside">LEQPFESSQKNTIALEKAEFLRDHVCVSPQELETLI</span></span>
-<span class="topo-line"><span class="topo-inside">QHALDADNAGVSPIGQSSQQSSHWDL</span><span class="topo-unknown">GSAFFFAGTVITTIGYG</span><span class="topo-inside">NIAPSTEG</span><span class="topo-membrane">GKIFCILYA</span></span>
-<span class="topo-line"><span class="topo-membrane">IFGIPLFGFLLAGIGDQL</span><span class="topo-outside">GTIFGKSIARVEKVF</span><span class="topo-unknown">RKKQ</span><span class="topo-outside">VSQTKIRVI</span><span class="topo-membrane">STILFILAGCIVFV</span></span>
-<span class="topo-line"><span class="topo-membrane">TIPAVIF</span><span class="topo-inside">KYIEGWTA</span><span class="topo-unknown">LESIYFVVVTLTTVGFG</span><span class="topo-inside">DFVAGGNAGINYREW</span><span class="topo-membrane">YKPLVWFWILVGL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">KTV</span><span class="topo-membrane">VAIFVVVVVYLVTGGLVFRA</span><span class="topo-inside">LEQPFESSQKNTIALEKAEFLRDHVCVSPQELETLIQHALDADNAGVSPIGQSSQQSSHWDL</span><span class="topo-unknown">GSAFFFAGTVITTIGYG</span><span class="topo-inside">NIAPSTEG</span><span class="topo-membrane">GKIFCILYA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">IFGIPLFGFLLAGIGDQL</span><span class="topo-outside">GTIFGKSIARVEKVF</span><span class="topo-unknown">RKKQ</span><span class="topo-outside">VSQTKIRVI</span><span class="topo-membrane">STILFILAGCIVFVTIPAVIF</span><span class="topo-inside">KYIEGWTA</span><span class="topo-unknown">LESIYFVVVTLTTVGFG</span><span class="topo-inside">DFVAGGNAGINYREW</span><span class="topo-membrane">YKPLVWFWILVGL</span></span>
+<span class="topo-ruler">       250       260       270    </span>
 <span class="topo-line"><span class="topo-membrane">AYFAAVLS</span><span class="topo-outside">MIG</span><span class="topo-unknown">DWLRVLSKKTKEEVGEAENLYFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2145,6 +2180,7 @@ that serve as binding sites for state-dependent inhibitors including
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2160,11 +2196,13 @@ that serve as binding sites for state-dependent inhibitors including
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MKTV</span><span class="topo-membrane">VAIFVVVVVYLVTGGLVF</span><span class="topo-inside">RALEQPFESSQKNTIALEKAEFLRDHVCVSPQELETLI</span></span>
-<span class="topo-line"><span class="topo-inside">QHALDADNAGVSPIGQSSQQSSHWDL</span><span class="topo-unknown">GSAFFFAGTVITTIGYG</span><span class="topo-inside">NIAPSTE</span><span class="topo-membrane">GGKIFCILYA</span></span>
-<span class="topo-line"><span class="topo-membrane">IFGIPLFGFLLA</span><span class="topo-outside">GIGDQLGTIFGKSIARVEKVFRKKQVSQTKIRVISTI</span><span class="topo-membrane">LFILAGCIVFV</span></span>
-<span class="topo-line"><span class="topo-membrane">TIPAVIFK</span><span class="topo-inside">YIEGWTA</span><span class="topo-unknown">LESIYFVVVTLTTVGFG</span><span class="topo-inside">DFVAGGNAGINYRE</span><span class="topo-membrane">WYKPLVWFWILVGL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MKTV</span><span class="topo-membrane">VAIFVVVVVYLVTGGLVF</span><span class="topo-inside">RALEQPFESSQKNTIALEKAEFLRDHVCVSPQELETLIQHALDADNAGVSPIGQSSQQSSHWDL</span><span class="topo-unknown">GSAFFFAGTVITTIGYG</span><span class="topo-inside">NIAPSTE</span><span class="topo-membrane">GGKIFCILYA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">IFGIPLFGFLLA</span><span class="topo-outside">GIGDQLGTIFGKSIARVEKVFRKKQVSQTKIRVISTI</span><span class="topo-membrane">LFILAGCIVFVTIPAVIFK</span><span class="topo-inside">YIEGWTA</span><span class="topo-unknown">LESIYFVVVTLTTVGFG</span><span class="topo-inside">DFVAGGNAGINYRE</span><span class="topo-membrane">WYKPLVWFWILVGL</span></span>
+<span class="topo-ruler">       250       260       270    </span>
 <span class="topo-line"><span class="topo-membrane">AYFAAVLSMIG</span><span class="topo-outside">DWLRVLSKK</span><span class="topo-unknown">TKEEVGEAENLYFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (14 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2274,6 +2312,7 @@ that serve as binding sites for state-dependent inhibitors including
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2289,11 +2328,13 @@ that serve as binding sites for state-dependent inhibitors including
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MKTVV</span><span class="topo-membrane">AIFVVVVVYLVTGGLVFRAL</span><span class="topo-inside">EQPFESSQKNTIALEKAEFLRDHVCVSPQELETLI</span></span>
-<span class="topo-line"><span class="topo-inside">QHALDADNAGVSPIGQSSQQSSHWDL</span><span class="topo-unknown">GSAFFFAGTVITTIGYG</span><span class="topo-inside">NIAPSTEG</span><span class="topo-membrane">GKIFCILYA</span></span>
-<span class="topo-line"><span class="topo-membrane">IFGIPLFGFLLAGIG</span><span class="topo-outside">DQLGTIFGKSIARVEKVFRKKQVSQTKIRVISTILFI</span><span class="topo-membrane">LAGCIVFV</span></span>
-<span class="topo-line"><span class="topo-membrane">TIPAVIFKY</span><span class="topo-inside">IEGWTA</span><span class="topo-unknown">LESIYFVVVTLTTVGFG</span><span class="topo-inside">DFVAGGNAGINYRE</span><span class="topo-membrane">WYKPLVWFWILVGL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MKTVV</span><span class="topo-membrane">AIFVVVVVYLVTGGLVFRAL</span><span class="topo-inside">EQPFESSQKNTIALEKAEFLRDHVCVSPQELETLIQHALDADNAGVSPIGQSSQQSSHWDL</span><span class="topo-unknown">GSAFFFAGTVITTIGYG</span><span class="topo-inside">NIAPSTEG</span><span class="topo-membrane">GKIFCILYA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">IFGIPLFGFLLAGIG</span><span class="topo-outside">DQLGTIFGKSIARVEKVFRKKQVSQTKIRVISTILFI</span><span class="topo-membrane">LAGCIVFVTIPAVIFKY</span><span class="topo-inside">IEGWTA</span><span class="topo-unknown">LESIYFVVVTLTTVGFG</span><span class="topo-inside">DFVAGGNAGINYRE</span><span class="topo-membrane">WYKPLVWFWILVGL</span></span>
+<span class="topo-ruler">       250       260       270    </span>
 <span class="topo-line"><span class="topo-membrane">AYFAAVLS</span><span class="topo-outside">MIGDWLRVLSKKTKEEVG</span><span class="topo-unknown">EAENLYFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (14 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2403,6 +2444,7 @@ that serve as binding sites for state-dependent inhibitors including
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2418,11 +2460,13 @@ that serve as binding sites for state-dependent inhibitors including
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGLQT</span><span class="topo-outside">VMKWKTV</span><span class="topo-membrane">VAIFVVVVVYLVTGGLVFRAL</span><span class="topo-inside">EQPFESSQKNTIALEKAEFLRDHVCVS</span></span>
-<span class="topo-line"><span class="topo-inside">PQELETLIQHALDADNAGVSPIGN</span><span class="topo-unknown">SSNN</span><span class="topo-inside">SSHWDL</span><span class="topo-unknown">GSAFFFAGTVITTIGYG</span><span class="topo-inside">NIAPSTE</span><span class="topo-membrane">GG</span></span>
-<span class="topo-line"><span class="topo-membrane">KIFCILYAIFGIPLFGFLLAGIG</span><span class="topo-outside">DQLGTIFGKSIARVE</span><span class="topo-unknown">KVFRKKQVSQTKI</span><span class="topo-outside">RVISTI</span><span class="topo-membrane">LFI</span></span>
-<span class="topo-line"><span class="topo-membrane">LAGCIVFVTIPAVIFKY</span><span class="topo-inside">IEGWTA</span><span class="topo-unknown">LESIYFVVVTLTTVGFG</span><span class="topo-inside">DFVAGGNAGINYR</span><span class="topo-membrane">EWYKPLV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGLQT</span><span class="topo-outside">VMKWKTV</span><span class="topo-membrane">VAIFVVVVVYLVTGGLVFRAL</span><span class="topo-inside">EQPFESSQKNTIALEKAEFLRDHVCVSPQELETLIQHALDADNAGVSPIGN</span><span class="topo-unknown">SSNN</span><span class="topo-inside">SSHWDL</span><span class="topo-unknown">GSAFFFAGTVITTIGYG</span><span class="topo-inside">NIAPSTE</span><span class="topo-membrane">GG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">KIFCILYAIFGIPLFGFLLAGIG</span><span class="topo-outside">DQLGTIFGKSIARVE</span><span class="topo-unknown">KVFRKKQVSQTKI</span><span class="topo-outside">RVISTI</span><span class="topo-membrane">LFILAGCIVFVTIPAVIFKY</span><span class="topo-inside">IEGWTA</span><span class="topo-unknown">LESIYFVVVTLTTVGFG</span><span class="topo-inside">DFVAGGNAGINYR</span><span class="topo-membrane">EWYKPLV</span></span>
+<span class="topo-ruler">       250       260       270       280  </span>
 <span class="topo-line"><span class="topo-membrane">WFWILVGLAYFAAVLSMIG</span><span class="topo-outside">DWLRVLSKKTKEE</span><span class="topo-unknown">VGEAENLYFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2567,6 +2611,7 @@ that serve as binding sites for state-dependent inhibitors including
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2582,11 +2627,13 @@ that serve as binding sites for state-dependent inhibitors including
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGLQTVMK</span><span class="topo-outside">WKTV</span><span class="topo-membrane">VAIFVVVVVYLVTGGLVFRAL</span><span class="topo-inside">EQPFESSQKNTIALEKAEFLRDHVCVS</span></span>
-<span class="topo-line"><span class="topo-inside">PQELETLIQHALDADNAGVSPIGNSS</span><span class="topo-unknown">NN</span><span class="topo-inside">SSHWDL</span><span class="topo-unknown">GSAFFFAGTVITTIGYG</span><span class="topo-inside">NIAPSTE</span><span class="topo-membrane">GG</span></span>
-<span class="topo-line"><span class="topo-membrane">KIFCILYAIFGIPLFGFLLAGIG</span><span class="topo-outside">DQLGTIFGKSIARVEKVFRKKQVSQTKIRVISTI</span><span class="topo-membrane">LFI</span></span>
-<span class="topo-line"><span class="topo-membrane">LAGCIVFVTIPAVIFKYI</span><span class="topo-inside">EGWTA</span><span class="topo-unknown">LESIYFVVVTLTTVGFG</span><span class="topo-inside">DFVAGGNA</span><span class="topo-unknown">GIN</span><span class="topo-inside">YR</span><span class="topo-membrane">EWYKPLV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGLQTVMK</span><span class="topo-outside">WKTV</span><span class="topo-membrane">VAIFVVVVVYLVTGGLVFRAL</span><span class="topo-inside">EQPFESSQKNTIALEKAEFLRDHVCVSPQELETLIQHALDADNAGVSPIGNSS</span><span class="topo-unknown">NN</span><span class="topo-inside">SSHWDL</span><span class="topo-unknown">GSAFFFAGTVITTIGYG</span><span class="topo-inside">NIAPSTE</span><span class="topo-membrane">GG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">KIFCILYAIFGIPLFGFLLAGIG</span><span class="topo-outside">DQLGTIFGKSIARVEKVFRKKQVSQTKIRVISTI</span><span class="topo-membrane">LFILAGCIVFVTIPAVIFKYI</span><span class="topo-inside">EGWTA</span><span class="topo-unknown">LESIYFVVVTLTTVGFG</span><span class="topo-inside">DFVAGGNA</span><span class="topo-unknown">GIN</span><span class="topo-inside">YR</span><span class="topo-membrane">EWYKPLV</span></span>
+<span class="topo-ruler">       250       260       270       280  </span>
 <span class="topo-line"><span class="topo-membrane">WFWILVGLAYFAAVLSMIG</span><span class="topo-outside">DWLRVLSKKTKEE</span><span class="topo-unknown">VGEAENLYFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2731,6 +2778,7 @@ that serve as binding sites for state-dependent inhibitors including
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

@@ -145,14 +145,15 @@ Metabotropic glutamate receptor 5 (mGlu5) is a Class C G protein-coupled recepto
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">AA</span><span class="topo-outside">SPVQYLRWGDP</span><span class="topo-membrane">APIAAVVFACLGLLATLFVTVVFII</span><span class="topo-inside">YRDTPVVKSSSR</span><span class="topo-membrane">ELCYIILAGI</span></span>
-<span class="topo-line"><span class="topo-membrane">CLGYLCTFCLIA</span><span class="topo-outside">KPKQI</span><span class="topo-membrane">YCYLQRIGIGLSPAMSYSALVTKTY</span><span class="topo-inside">RAARILAMSKKNIFEMLR</span></span>
-<span class="topo-line"><span class="topo-inside">IDEGLRLKIYKDTEGYYTIGIGHLLTKSPSLNAAKSELDKAIGRNTNGVITKDEAEKLFN</span></span>
-<span class="topo-line"><span class="topo-inside">QDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVFQMGETGVAGFTNSLRMLQQKRWDE</span></span>
-<span class="topo-line"><span class="topo-inside">AAVNLAKSRWYNQTPNRAKRVITTFRTGTWDAYK</span><span class="topo-unknown">ICTKKPRFM</span><span class="topo-inside">SAC</span><span class="topo-membrane">AQLVIAFILICIQL</span></span>
-<span class="topo-line"><span class="topo-membrane">GIIVALFIME</span><span class="topo-outside">PPDIM</span><span class="topo-unknown">HDYPSIRE</span><span class="topo-outside">VYLICNT</span><span class="topo-membrane">TNLGVVAPLGYNGLLILACTFYAF</span><span class="topo-inside">KTRNVP</span></span>
-<span class="topo-line"><span class="topo-inside">ANFNEA</span><span class="topo-membrane">KYIAFTMYTTCIIWLAFVPIYFGS</span><span class="topo-outside">NYK</span><span class="topo-membrane">IITMCFSVSLSATVALGCMFVPKVY</span><span class="topo-inside">II</span></span>
-<span class="topo-line"><span class="topo-inside">LAKPERN</span><span class="topo-unknown">VRSAAAAHHHHHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">AA</span><span class="topo-outside">SPVQYLRWGDP</span><span class="topo-membrane">APIAAVVFACLGLLATLFVTVVFII</span><span class="topo-inside">YRDTPVVKSSSR</span><span class="topo-membrane">ELCYIILAGICLGYLCTFCLIA</span><span class="topo-outside">KPKQI</span><span class="topo-membrane">YCYLQRIGIGLSPAMSYSALVTKTY</span><span class="topo-inside">RAARILAMSKKNIFEMLR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">IDEGLRLKIYKDTEGYYTIGIGHLLTKSPSLNAAKSELDKAIGRNTNGVITKDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVFQMGETGVAGFTNSLRMLQQKRWDE</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">AAVNLAKSRWYNQTPNRAKRVITTFRTGTWDAYK</span><span class="topo-unknown">ICTKKPRFM</span><span class="topo-inside">SAC</span><span class="topo-membrane">AQLVIAFILICIQLGIIVALFIME</span><span class="topo-outside">PPDIM</span><span class="topo-unknown">HDYPSIRE</span><span class="topo-outside">VYLICNT</span><span class="topo-membrane">TNLGVVAPLGYNGLLILACTFYAF</span><span class="topo-inside">KTRNVP</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440    </span>
+<span class="topo-line"><span class="topo-inside">ANFNEA</span><span class="topo-membrane">KYIAFTMYTTCIIWLAFVPIYFGS</span><span class="topo-outside">NYK</span><span class="topo-membrane">IITMCFSVSLSATVALGCMFVPKVY</span><span class="topo-inside">IILAKPERN</span><span class="topo-unknown">VRSAAAAHHHHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (22 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -318,6 +319,7 @@ Metabotropic glutamate receptor 5 (mGlu5) is a Class C G protein-coupled recepto
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -375,14 +377,15 @@ Metabotropic glutamate receptor 5 (mGlu5) is a Class C G protein-coupled recepto
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">AA</span><span class="topo-outside">SPVQYLRWGDPA</span><span class="topo-membrane">PIAAVVFACLGLLATLFVTVVFII</span><span class="topo-inside">YRDTPVVKSSSR</span><span class="topo-membrane">ELCYIILAGI</span></span>
-<span class="topo-line"><span class="topo-membrane">CLGYLCTFCLIA</span><span class="topo-outside">KPKQI</span><span class="topo-membrane">YCYLQRIGIGLSPAMSYSALVTKTY</span><span class="topo-inside">RAARILAMSKKNIFEMLR</span></span>
-<span class="topo-line"><span class="topo-inside">IDEGLRLKIYKDTEGYYTIGIGHLLTKSPSLNAAKSELDKAIGRNTNGVITKDEAEKLFN</span></span>
-<span class="topo-line"><span class="topo-inside">QDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVFQMGETGVAGFTNSLRMLQQKRWDE</span></span>
-<span class="topo-line"><span class="topo-inside">AAVNLAKSRWYNQTPNRAKRVITTFRTGTWDAYKI</span><span class="topo-unknown">CTKKPRFM</span><span class="topo-inside">SACA</span><span class="topo-membrane">QLVIAFILICIQL</span></span>
-<span class="topo-line"><span class="topo-membrane">GIIVALFIMEPP</span><span class="topo-outside">DIM</span><span class="topo-unknown">HDYPSIR</span><span class="topo-outside">EVYLICNT</span><span class="topo-membrane">TNLGVVAPLGYNGLLILACTFYAFK</span><span class="topo-inside">TRNVP</span></span>
-<span class="topo-line"><span class="topo-inside">ANFNEA</span><span class="topo-membrane">KYIAFTMYTTCIIWLAFVPIYFGS</span><span class="topo-outside">NYK</span><span class="topo-membrane">IITMCFSVSLSATVALGCMFVPKVY</span><span class="topo-inside">II</span></span>
-<span class="topo-line"><span class="topo-inside">LAKPERN</span><span class="topo-unknown">VRSAAAAHHHHHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">AA</span><span class="topo-outside">SPVQYLRWGDPA</span><span class="topo-membrane">PIAAVVFACLGLLATLFVTVVFII</span><span class="topo-inside">YRDTPVVKSSSR</span><span class="topo-membrane">ELCYIILAGICLGYLCTFCLIA</span><span class="topo-outside">KPKQI</span><span class="topo-membrane">YCYLQRIGIGLSPAMSYSALVTKTY</span><span class="topo-inside">RAARILAMSKKNIFEMLR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">IDEGLRLKIYKDTEGYYTIGIGHLLTKSPSLNAAKSELDKAIGRNTNGVITKDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVFQMGETGVAGFTNSLRMLQQKRWDE</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">AAVNLAKSRWYNQTPNRAKRVITTFRTGTWDAYKI</span><span class="topo-unknown">CTKKPRFM</span><span class="topo-inside">SACA</span><span class="topo-membrane">QLVIAFILICIQLGIIVALFIMEPP</span><span class="topo-outside">DIM</span><span class="topo-unknown">HDYPSIR</span><span class="topo-outside">EVYLICNT</span><span class="topo-membrane">TNLGVVAPLGYNGLLILACTFYAFK</span><span class="topo-inside">TRNVP</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440    </span>
+<span class="topo-line"><span class="topo-inside">ANFNEA</span><span class="topo-membrane">KYIAFTMYTTCIIWLAFVPIYFGS</span><span class="topo-outside">NYK</span><span class="topo-membrane">IITMCFSVSLSATVALGCMFVPKVY</span><span class="topo-inside">IILAKPERN</span><span class="topo-unknown">VRSAAAAHHHHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -541,6 +544,7 @@ Metabotropic glutamate receptor 5 (mGlu5) is a Class C G protein-coupled recepto
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -556,14 +560,15 @@ Metabotropic glutamate receptor 5 (mGlu5) is a Class C G protein-coupled recepto
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">AA</span><span class="topo-outside">SPVQYLRWGDP</span><span class="topo-membrane">APIAAVVFACLGLLATLFVTVVFII</span><span class="topo-inside">YRDTPVVKSSS</span><span class="topo-membrane">RELCYIILAGI</span></span>
-<span class="topo-line"><span class="topo-membrane">CLGYLCTFCLIA</span><span class="topo-outside">KPKQI</span><span class="topo-membrane">YCYLQRIGIGLSPAMSYSALVTKTY</span><span class="topo-inside">RAARILAMSKKNIFEMLR</span></span>
-<span class="topo-line"><span class="topo-inside">IDEGLRLKIYKDTEGYYTIGIGHLLTKSPSLNAAKSELDKAIGRNTNGVITKDEAEKLFN</span></span>
-<span class="topo-line"><span class="topo-inside">QDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVFQMGETGVAGFTNSLRMLQQKRWDE</span></span>
-<span class="topo-line"><span class="topo-inside">AAVNLAKSRWYNQTPNRAKRVITTFRTGTWDAYKI</span><span class="topo-unknown">CTKKPRFM</span><span class="topo-inside">SAC</span><span class="topo-membrane">AQLVIAFILICIQL</span></span>
-<span class="topo-line"><span class="topo-membrane">GIIVALFIMEPP</span><span class="topo-outside">DIMHDYP</span><span class="topo-unknown">SIR</span><span class="topo-outside">EVYLICNT</span><span class="topo-membrane">TNLGVVAPLGYNGLLILACTFYAFK</span><span class="topo-inside">TRNVP</span></span>
-<span class="topo-line"><span class="topo-inside">ANFNEA</span><span class="topo-membrane">KYIAFTMYTTCIIWLAFVPIYFGS</span><span class="topo-outside">NYK</span><span class="topo-membrane">IITMCFSVSLSATVALGCMFVPKVY</span><span class="topo-inside">II</span></span>
-<span class="topo-line"><span class="topo-inside">LAKPERN</span><span class="topo-unknown">VRSAAAAHHHHHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">AA</span><span class="topo-outside">SPVQYLRWGDP</span><span class="topo-membrane">APIAAVVFACLGLLATLFVTVVFII</span><span class="topo-inside">YRDTPVVKSSS</span><span class="topo-membrane">RELCYIILAGICLGYLCTFCLIA</span><span class="topo-outside">KPKQI</span><span class="topo-membrane">YCYLQRIGIGLSPAMSYSALVTKTY</span><span class="topo-inside">RAARILAMSKKNIFEMLR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">IDEGLRLKIYKDTEGYYTIGIGHLLTKSPSLNAAKSELDKAIGRNTNGVITKDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVFQMGETGVAGFTNSLRMLQQKRWDE</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">AAVNLAKSRWYNQTPNRAKRVITTFRTGTWDAYKI</span><span class="topo-unknown">CTKKPRFM</span><span class="topo-inside">SAC</span><span class="topo-membrane">AQLVIAFILICIQLGIIVALFIMEPP</span><span class="topo-outside">DIMHDYP</span><span class="topo-unknown">SIR</span><span class="topo-outside">EVYLICNT</span><span class="topo-membrane">TNLGVVAPLGYNGLLILACTFYAFK</span><span class="topo-inside">TRNVP</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440    </span>
+<span class="topo-line"><span class="topo-inside">ANFNEA</span><span class="topo-membrane">KYIAFTMYTTCIIWLAFVPIYFGS</span><span class="topo-outside">NYK</span><span class="topo-membrane">IITMCFSVSLSATVALGCMFVPKVY</span><span class="topo-inside">IILAKPERN</span><span class="topo-unknown">VRSAAAAHHHHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (23 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -736,6 +741,7 @@ Metabotropic glutamate receptor 5 (mGlu5) is a Class C G protein-coupled recepto
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

@@ -128,14 +128,15 @@ The Human glucagon Mouse 5-HT3A Receptor (GCGR, UniProt P47871) is a class B G-R
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">ADLEDNWETLNDNLKVIEKADNAAQVKDALTKMRAAALDAQKATPPKLEDKSPDSPEMKD</span></span>
-<span class="topo-line"><span class="topo-outside">FRHGFDILVGQIDDALKLANEGKVKEAQAAAEQLKTTRNAYIQKYLMDGEEIEVQKEVAK</span></span>
-<span class="topo-line"><span class="topo-outside">MYS</span><span class="topo-membrane">SFQVMYTVGYSLSLGALLLALAILGG</span><span class="topo-inside">LSKLHCTRN</span><span class="topo-membrane">AIHANLFASFVLKASSVLVIDG</span></span>
-<span class="topo-line"><span class="topo-membrane">L</span><span class="topo-outside">LRT</span><span class="topo-unknown">RYSQKIGDDLSVSTW</span><span class="topo-outside">LSDGAVAG</span><span class="topo-membrane">CRVAAVFMQYGIVANYCWLLVEGLY</span><span class="topo-inside">LHNLLGLA</span></span>
-<span class="topo-line"><span class="topo-inside">TLPERSFFS</span><span class="topo-membrane">LYLGIGWGAPMLFVVPWAVVKC</span><span class="topo-outside">LFENVQCWTSNDN</span><span class="topo-membrane">MGFWWILRFPVFLAIL</span></span>
-<span class="topo-line"><span class="topo-membrane">INFFIFVRIV</span><span class="topo-inside">QLLVAKLRARQMHHTDYKFRLAK</span><span class="topo-membrane">STLTLIPLLGVHEVVFAFVTDE</span><span class="topo-outside">HAQGT</span></span>
-<span class="topo-line"><span class="topo-outside">LRS</span><span class="topo-membrane">AKLFFDLFLSSFQGLLVAVLYCFL</span><span class="topo-inside">N</span><span class="topo-unknown">KEVQSELRRRWHRWRLGKVLWEER</span><span class="topo-inside">N</span><span class="topo-unknown">TSNGRPL</span></span>
-<span class="topo-line"><span class="topo-unknown">EVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">ADLEDNWETLNDNLKVIEKADNAAQVKDALTKMRAAALDAQKATPPKLEDKSPDSPEMKDFRHGFDILVGQIDDALKLANEGKVKEAQAAAEQLKTTRNAYIQKYLMDGEEIEVQKEVAK</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">MYS</span><span class="topo-membrane">SFQVMYTVGYSLSLGALLLALAILGG</span><span class="topo-inside">LSKLHCTRN</span><span class="topo-membrane">AIHANLFASFVLKASSVLVIDGL</span><span class="topo-outside">LRT</span><span class="topo-unknown">RYSQKIGDDLSVSTW</span><span class="topo-outside">LSDGAVAG</span><span class="topo-membrane">CRVAAVFMQYGIVANYCWLLVEGLY</span><span class="topo-inside">LHNLLGLA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">TLPERSFFS</span><span class="topo-membrane">LYLGIGWGAPMLFVVPWAVVKC</span><span class="topo-outside">LFENVQCWTSNDN</span><span class="topo-membrane">MGFWWILRFPVFLAILINFFIFVRIV</span><span class="topo-inside">QLLVAKLRARQMHHTDYKFRLAK</span><span class="topo-membrane">STLTLIPLLGVHEVVFAFVTDE</span><span class="topo-outside">HAQGT</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420     </span>
+<span class="topo-line"><span class="topo-outside">LRS</span><span class="topo-membrane">AKLFFDLFLSSFQGLLVAVLYCFL</span><span class="topo-inside">N</span><span class="topo-unknown">KEVQSELRRRWHRWRLGKVLWEER</span><span class="topo-inside">N</span><span class="topo-unknown">TSNGRPLEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (20 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -287,6 +288,7 @@ The Human glucagon Mouse 5-HT3A Receptor (GCGR, UniProt P47871) is a class B G-R
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -352,14 +354,15 @@ The Human glucagon Mouse 5-HT3A Receptor (GCGR, UniProt P47871) is a class B G-R
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">KG</span><span class="topo-inside">YSS</span><span class="topo-membrane">FQVMYTVGYSLSLAALLLALAILGG</span><span class="topo-outside">LSKLHCT</span><span class="topo-membrane">ANAIHANLFLSFVLKASAVLFID</span></span>
-<span class="topo-line"><span class="topo-membrane">G</span><span class="topo-inside">LLRT</span><span class="topo-unknown">RYSQKIEDDLS</span><span class="topo-inside">VSTWLSDGAVAACRV</span><span class="topo-membrane">AAVFMQYGIVANYCWLLVEGLYLHN</span><span class="topo-outside">LLGL</span></span>
-<span class="topo-line"><span class="topo-outside">NIFEMLRIDEGLRLKIYKD</span><span class="topo-unknown">TEG</span><span class="topo-outside">YYTIGIGHLLTKSPSLNAAKSELDKAIGRNTNGVITKD</span></span>
-<span class="topo-line"><span class="topo-outside">EAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVFQMGETGVAGFTNSLRML</span></span>
-<span class="topo-line"><span class="topo-outside">QQKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWDAYPERS</span><span class="topo-membrane">FFSLYLGIGWGAPALF</span></span>
-<span class="topo-line"><span class="topo-membrane">VVPWAV</span><span class="topo-inside">VKCLFENVQCWT</span><span class="topo-unknown">SND</span><span class="topo-inside">NMG</span><span class="topo-membrane">FWWILRFPVFLAILINFFIFVRIVQLL</span><span class="topo-outside">VAKLRARQM</span></span>
-<span class="topo-line"><span class="topo-outside">HHTDYAFR</span><span class="topo-membrane">LAKSTLTLIPLLGVHFVVFAFV</span><span class="topo-inside">TDEH</span><span class="topo-unknown">AQGTL</span><span class="topo-inside">RSAK</span><span class="topo-membrane">LFFDLALSSFQGLLVAV</span></span>
-<span class="topo-line"><span class="topo-membrane">LYCFLN</span><span class="topo-outside">KEVQSELRRRWHRA</span><span class="topo-unknown">AAHHHHHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">KG</span><span class="topo-inside">YSS</span><span class="topo-membrane">FQVMYTVGYSLSLAALLLALAILGG</span><span class="topo-outside">LSKLHCT</span><span class="topo-membrane">ANAIHANLFLSFVLKASAVLFIDG</span><span class="topo-inside">LLRT</span><span class="topo-unknown">RYSQKIEDDLS</span><span class="topo-inside">VSTWLSDGAVAACRV</span><span class="topo-membrane">AAVFMQYGIVANYCWLLVEGLYLHN</span><span class="topo-outside">LLGL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">NIFEMLRIDEGLRLKIYKD</span><span class="topo-unknown">TEG</span><span class="topo-outside">YYTIGIGHLLTKSPSLNAAKSELDKAIGRNTNGVITKDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVFQMGETGVAGFTNSLRML</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">QQKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWDAYPERS</span><span class="topo-membrane">FFSLYLGIGWGAPALFVVPWAV</span><span class="topo-inside">VKCLFENVQCWT</span><span class="topo-unknown">SND</span><span class="topo-inside">NMG</span><span class="topo-membrane">FWWILRFPVFLAILINFFIFVRIVQLL</span><span class="topo-outside">VAKLRARQM</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450  </span>
+<span class="topo-line"><span class="topo-outside">HHTDYAFR</span><span class="topo-membrane">LAKSTLTLIPLLGVHFVVFAFV</span><span class="topo-inside">TDEH</span><span class="topo-unknown">AQGTL</span><span class="topo-inside">RSAK</span><span class="topo-membrane">LFFDLALSSFQGLLVAVLYCFLN</span><span class="topo-outside">KEVQSELRRRWHRA</span><span class="topo-unknown">AAHHHHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (27 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -560,6 +563,7 @@ The Human glucagon Mouse 5-HT3A Receptor (GCGR, UniProt P47871) is a class B G-R
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -660,16 +664,17 @@ The Human glucagon Mouse 5-HT3A Receptor (GCGR, UniProt P47871) is a class B G-R
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GAP</span><span class="topo-outside">QVMDFLFEKWKLYGDQCHHNLSLLPPPTELVCNRTFDKYSCWPDTPANTTANISCPW</span></span>
-<span class="topo-line"><span class="topo-outside">YLPWHHKVQHRFVFKRCGPDGQWVRGPRGQPWRDASQCQMDGEEIEVQKEVAKMYSS</span><span class="topo-membrane">FQV</span></span>
-<span class="topo-line"><span class="topo-membrane">MYTVGYSLSLGALLLALAILGGL</span><span class="topo-inside">SKLHCTRN</span><span class="topo-membrane">AIHANLFASFVLKASSVLVIDGL</span><span class="topo-outside">LRTRYS</span></span>
-<span class="topo-line"><span class="topo-outside">QKIGDDLSVSTWLSDGAVA</span><span class="topo-membrane">GCRVAAVFMQYGIVANYCWLLVEGL</span><span class="topo-inside">YLHNLLGLANIFEMLR</span></span>
-<span class="topo-line"><span class="topo-inside">IDEGLRLKIYKDTEGYYTIGIGHLLTKSPSLNAAKSELDKAIGRN</span><span class="topo-unknown">TNGV</span><span class="topo-inside">ITKDEAEKLFN</span></span>
-<span class="topo-line"><span class="topo-inside">QDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVFQMGETGVAGFTNSLRMLQQKRWDE</span></span>
-<span class="topo-line"><span class="topo-inside">AAVNLAKSRWYNQTPNRAKRVITTFRTGTWDAYERSFFS</span><span class="topo-membrane">LYLGIGWGAPMLFVVPWAVVK</span></span>
-<span class="topo-line"><span class="topo-membrane">CLF</span><span class="topo-outside">ENVQC</span><span class="topo-membrane">WTSNDNMGFWWILRFPVFLAILINFFIFV</span><span class="topo-inside">RIVQLLVAKLRARQMHHTDYKFR</span></span>
-<span class="topo-line"><span class="topo-inside">LA</span><span class="topo-membrane">KSTLTLIPLLGVHEVVFAFVTDE</span><span class="topo-outside">HAQGTLR</span><span class="topo-membrane">SAKLFFDLFLSSFQGLLVAVLYCFLN</span><span class="topo-inside">KE</span></span>
-<span class="topo-line"><span class="topo-inside">VQSELRRRWHRW</span><span class="topo-unknown">RLGKVLWEERNTSNEFLEVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GAP</span><span class="topo-outside">QVMDFLFEKWKLYGDQCHHNLSLLPPPTELVCNRTFDKYSCWPDTPANTTANISCPWYLPWHHKVQHRFVFKRCGPDGQWVRGPRGQPWRDASQCQMDGEEIEVQKEVAKMYSS</span><span class="topo-membrane">FQV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">MYTVGYSLSLGALLLALAILGGL</span><span class="topo-inside">SKLHCTRN</span><span class="topo-membrane">AIHANLFASFVLKASSVLVIDGL</span><span class="topo-outside">LRTRYSQKIGDDLSVSTWLSDGAVA</span><span class="topo-membrane">GCRVAAVFMQYGIVANYCWLLVEGL</span><span class="topo-inside">YLHNLLGLANIFEMLR</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">IDEGLRLKIYKDTEGYYTIGIGHLLTKSPSLNAAKSELDKAIGRN</span><span class="topo-unknown">TNGV</span><span class="topo-inside">ITKDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVFQMGETGVAGFTNSLRMLQQKRWDE</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">AAVNLAKSRWYNQTPNRAKRVITTFRTGTWDAYERSFFS</span><span class="topo-membrane">LYLGIGWGAPMLFVVPWAVVKCLF</span><span class="topo-outside">ENVQC</span><span class="topo-membrane">WTSNDNMGFWWILRFPVFLAILINFFIFV</span><span class="topo-inside">RIVQLLVAKLRARQMHHTDYKFR</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570    </span>
+<span class="topo-line"><span class="topo-inside">LA</span><span class="topo-membrane">KSTLTLIPLLGVHEVVFAFVTDE</span><span class="topo-outside">HAQGTLR</span><span class="topo-membrane">SAKLFFDLFLSSFQGLLVAVLYCFLN</span><span class="topo-inside">KEVQSELRRRWHRW</span><span class="topo-unknown">RLGKVLWEERNTSNEFLEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -828,6 +833,7 @@ The Human glucagon Mouse 5-HT3A Receptor (GCGR, UniProt P47871) is a class B G-R
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

@@ -57,11 +57,13 @@ The murine mu-opioid receptor (muOR, MOP) is a class A G-protein-coupled recepto
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">GSHSLCPQTGSPSMVTAIT</span><span class="topo-membrane">IMALYSIVCVVGLFGNFLVMYV</span><span class="topo-outside">IVRYTKMKTATNIY</span><span class="topo-membrane">IFNLA</span></span>
-<span class="topo-line"><span class="topo-membrane">LADALATSTLPFQSV</span><span class="topo-inside">NYLMGTWPF</span><span class="topo-membrane">GNILCKIVISIDYYNMFTSIFTLCT</span><span class="topo-outside">MSVDRYIAVCH</span></span>
-<span class="topo-line"><span class="topo-outside">PVKALDFRTPRNAKIVN</span><span class="topo-membrane">VCNWILSSAIGLPVMFMAT</span><span class="topo-inside">TKYRQGSIDC</span><span class="topo-membrane">TLTFSHPTWYWENL</span></span>
-<span class="topo-line"><span class="topo-membrane">LKICVFIFAFIMPVLIITV</span><span class="topo-outside">CYGLMILRLKSVRMLSGSKEKDRNLRRITR</span><span class="topo-membrane">MVLVVVAVFIV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">GSHSLCPQTGSPSMVTAIT</span><span class="topo-membrane">IMALYSIVCVVGLFGNFLVMYV</span><span class="topo-outside">IVRYTKMKTATNIY</span><span class="topo-membrane">IFNLALADALATSTLPFQSV</span><span class="topo-inside">NYLMGTWPF</span><span class="topo-membrane">GNILCKIVISIDYYNMFTSIFTLCT</span><span class="topo-outside">MSVDRYIAVCH</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">PVKALDFRTPRNAKIVN</span><span class="topo-membrane">VCNWILSSAIGLPVMFMAT</span><span class="topo-inside">TKYRQGSIDC</span><span class="topo-membrane">TLTFSHPTWYWENLLKICVFIFAFIMPVLIITV</span><span class="topo-outside">CYGLMILRLKSVRMLSGSKEKDRNLRRITR</span><span class="topo-membrane">MVLVVVAVFIV</span></span>
+<span class="topo-ruler">       250       260       270       280       290      </span>
 <span class="topo-line"><span class="topo-membrane">CWTPIHIYVIIKAL</span><span class="topo-inside">ITIPETTFQTV</span><span class="topo-membrane">SWHFCIALGYTNSCLNPVLYAFL</span><span class="topo-outside">DENFKRCF</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -178,6 +180,7 @@ The murine mu-opioid receptor (muOR, MOP) is a class A G-protein-coupled recepto
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -221,14 +224,15 @@ The murine mu-opioid receptor (muOR, MOP) is a class A G-protein-coupled recepto
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GSHSLCPQTGSPS</span><span class="topo-inside">MV</span><span class="topo-membrane">TAITIMALYSIVCVVGLFGNFLVMYVIVR</span><span class="topo-outside">YTKMK</span><span class="topo-membrane">TATNIYIFNLA</span></span>
-<span class="topo-line"><span class="topo-membrane">LADALATSTLPFQS</span><span class="topo-inside">VNYLMGTWPFGNILCKI</span><span class="topo-membrane">VISIDYYNMFTSIFTLCTMSVDRYI</span><span class="topo-outside">AVCH</span></span>
-<span class="topo-line"><span class="topo-unknown">PVKALDF</span><span class="topo-outside">RTP</span><span class="topo-membrane">RNAKIVNVCNWILSSAIGLPVM</span><span class="topo-inside">FMATTKYRQGSIDCTLTFSHPTWYWENL</span></span>
-<span class="topo-line"><span class="topo-inside">L</span><span class="topo-membrane">KICVFIFAFIMPVLIITVCYGLM</span><span class="topo-outside">ILRLKSVRNIFEMLRIDEGLRLKIYKNTEGYYTIGI</span></span>
-<span class="topo-line"><span class="topo-outside">GHLLTKSPSLNAAKSELDKAIGRNTNGVITKDEAEKLFNQDVDAAVRGILRNAKLKPVYD</span></span>
-<span class="topo-line"><span class="topo-outside">SLDAVRRAALINMVFQMGETGVAGFTNSLRMLQQKRWDEAAVNLAKSRWYNQTPNRAKRV</span></span>
-<span class="topo-line"><span class="topo-outside">ITTFRTGTWDAYEKDRNLRRIT</span><span class="topo-membrane">RMVLVVVAVFIVCWTPIHIYVII</span><span class="topo-inside">KALITIPETTFQTV</span><span class="topo-membrane">S</span></span>
-<span class="topo-line"><span class="topo-membrane">WHFCIALGYTNSCLNPVLYAFL</span><span class="topo-outside">D</span><span class="topo-unknown">ENFKRCFREFC</span><span class="topo-outside">I</span><span class="topo-unknown">PTSSTIEQP</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GSHSLCPQTGSPS</span><span class="topo-inside">MV</span><span class="topo-membrane">TAITIMALYSIVCVVGLFGNFLVMYVIVR</span><span class="topo-outside">YTKMK</span><span class="topo-membrane">TATNIYIFNLALADALATSTLPFQS</span><span class="topo-inside">VNYLMGTWPFGNILCKI</span><span class="topo-membrane">VISIDYYNMFTSIFTLCTMSVDRYI</span><span class="topo-outside">AVCH</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-unknown">PVKALDF</span><span class="topo-outside">RTP</span><span class="topo-membrane">RNAKIVNVCNWILSSAIGLPVM</span><span class="topo-inside">FMATTKYRQGSIDCTLTFSHPTWYWENLL</span><span class="topo-membrane">KICVFIFAFIMPVLIITVCYGLM</span><span class="topo-outside">ILRLKSVRNIFEMLRIDEGLRLKIYKNTEGYYTIGI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">GHLLTKSPSLNAAKSELDKAIGRNTNGVITKDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVFQMGETGVAGFTNSLRMLQQKRWDEAAVNLAKSRWYNQTPNRAKRV</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460    </span>
+<span class="topo-line"><span class="topo-outside">ITTFRTGTWDAYEKDRNLRRIT</span><span class="topo-membrane">RMVLVVVAVFIVCWTPIHIYVII</span><span class="topo-inside">KALITIPETTFQTV</span><span class="topo-membrane">SWHFCIALGYTNSCLNPVLYAFL</span><span class="topo-outside">D</span><span class="topo-unknown">ENFKRCFREFC</span><span class="topo-outside">I</span><span class="topo-unknown">PTSSTIEQP</span></span>
+<details class="topo-details"><summary>Topology coordinates (23 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -401,6 +405,7 @@ The murine mu-opioid receptor (muOR, MOP) is a class A G-protein-coupled recepto
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -416,14 +421,15 @@ The murine mu-opioid receptor (muOR, MOP) is a class A G-protein-coupled recepto
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GSHSLCPQTGSPS</span><span class="topo-inside">MV</span><span class="topo-membrane">TAITIMALYSIVCVVGLFGNFLVMYVIVR</span><span class="topo-outside">YTKMK</span><span class="topo-membrane">TATNIYIFNLA</span></span>
-<span class="topo-line"><span class="topo-membrane">LADALATSTLPFQS</span><span class="topo-inside">VNYLMGTWPFGNILCKI</span><span class="topo-membrane">VISIDYYNMFTSIFTLCTMSVDRYI</span><span class="topo-outside">AVCH</span></span>
-<span class="topo-line"><span class="topo-unknown">PVKALDF</span><span class="topo-outside">RTP</span><span class="topo-membrane">RNAKIVNVCNWILSSAIGLPVM</span><span class="topo-inside">FMATTKYRQGSIDCTLTFSHPTWYWENL</span></span>
-<span class="topo-line"><span class="topo-inside">L</span><span class="topo-membrane">KICVFIFAFIMPVLIITVCYGLM</span><span class="topo-outside">ILRLKSVRNIFEMLRIDEGLRLKIYKNTEGYYTIGI</span></span>
-<span class="topo-line"><span class="topo-outside">GHLLTKSPSLNAAKSELDKAIGRNTNGVITKDEAEKLFNQDVDAAVRGILRNAKLKPVYD</span></span>
-<span class="topo-line"><span class="topo-outside">SLDAVRRAALINMVFQMGETGVAGFTNSLRMLQQKRWDEAAVNLAKSRWYNQTPNRAKRV</span></span>
-<span class="topo-line"><span class="topo-outside">ITTFRTGTWDAYEKDRNLRRIT</span><span class="topo-membrane">RMVLVVVAVFIVCWTPIHIYVII</span><span class="topo-inside">KALITIPETTFQTV</span><span class="topo-membrane">S</span></span>
-<span class="topo-line"><span class="topo-membrane">WHFCIALGYTNSCLNPVLYAFL</span><span class="topo-outside">D</span><span class="topo-unknown">ENFKRCFREFC</span><span class="topo-outside">I</span><span class="topo-unknown">PTSSTIEQP</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GSHSLCPQTGSPS</span><span class="topo-inside">MV</span><span class="topo-membrane">TAITIMALYSIVCVVGLFGNFLVMYVIVR</span><span class="topo-outside">YTKMK</span><span class="topo-membrane">TATNIYIFNLALADALATSTLPFQS</span><span class="topo-inside">VNYLMGTWPFGNILCKI</span><span class="topo-membrane">VISIDYYNMFTSIFTLCTMSVDRYI</span><span class="topo-outside">AVCH</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-unknown">PVKALDF</span><span class="topo-outside">RTP</span><span class="topo-membrane">RNAKIVNVCNWILSSAIGLPVM</span><span class="topo-inside">FMATTKYRQGSIDCTLTFSHPTWYWENLL</span><span class="topo-membrane">KICVFIFAFIMPVLIITVCYGLM</span><span class="topo-outside">ILRLKSVRNIFEMLRIDEGLRLKIYKNTEGYYTIGI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">GHLLTKSPSLNAAKSELDKAIGRNTNGVITKDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVFQMGETGVAGFTNSLRMLQQKRWDEAAVNLAKSRWYNQTPNRAKRV</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460    </span>
+<span class="topo-line"><span class="topo-outside">ITTFRTGTWDAYEKDRNLRRIT</span><span class="topo-membrane">RMVLVVVAVFIVCWTPIHIYVII</span><span class="topo-inside">KALITIPETTFQTV</span><span class="topo-membrane">SWHFCIALGYTNSCLNPVLYAFL</span><span class="topo-outside">D</span><span class="topo-unknown">ENFKRCFREFC</span><span class="topo-outside">I</span><span class="topo-unknown">PTSSTIEQP</span></span>
+<details class="topo-details"><summary>Topology coordinates (23 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -596,6 +602,7 @@ The murine mu-opioid receptor (muOR, MOP) is a class A G-protein-coupled recepto
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

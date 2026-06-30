@@ -145,11 +145,13 @@ TRIC-B2 is an intracellular cation channel from Caenorhabditis elegans belonging
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGWVPDEWS</span><span class="topo-outside">I</span><span class="topo-unknown">DHDTLIDAGGYVQK</span><span class="topo-outside">LKLYP</span><span class="topo-membrane">YFDAAHYVLTCLSVRHDL</span><span class="topo-inside">GPDAISF</span><span class="topo-membrane">SRKHPF</span></span>
-<span class="topo-line"><span class="topo-membrane">SCWLSCMLMSFAGSFLS</span><span class="topo-outside">CFLLGEPIISPLKQHADI</span><span class="topo-membrane">LLGSIVWYLVFYSPFD</span><span class="topo-inside">V</span><span class="topo-membrane">VFRLATWF</span></span>
-<span class="topo-line"><span class="topo-membrane">PVKLGLSVLKEVQRT</span><span class="topo-outside">HKIAAGVKHAVRIYPESYLVQI</span><span class="topo-membrane">LVGVAKGAGSGVVKIVEQLARG</span><span class="topo-inside">T</span></span>
-<span class="topo-line"><span class="topo-inside">WHPTNHEILRP</span><span class="topo-membrane">SFTTKACVIASIV</span><span class="topo-outside">FTLERHSMYVTAPHDLVYL</span><span class="topo-membrane">CVVGFFIYFKLASL</span><span class="topo-inside">CLS</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGWVPDEWS</span><span class="topo-outside">I</span><span class="topo-unknown">DHDTLIDAGGYVQK</span><span class="topo-outside">LKLYP</span><span class="topo-membrane">YFDAAHYVLTCLSVRHDL</span><span class="topo-inside">GPDAISF</span><span class="topo-membrane">SRKHPFSCWLSCMLMSFAGSFLS</span><span class="topo-outside">CFLLGEPIISPLKQHADI</span><span class="topo-membrane">LLGSIVWYLVFYSPFD</span><span class="topo-inside">V</span><span class="topo-membrane">VFRLATWF</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">PVKLGLSVLKEVQRT</span><span class="topo-outside">HKIAAGVKHAVRIYPESYLVQI</span><span class="topo-membrane">LVGVAKGAGSGVVKIVEQLARG</span><span class="topo-inside">TWHPTNHEILRP</span><span class="topo-membrane">SFTTKACVIASIV</span><span class="topo-outside">FTLERHSMYVTAPHDLVYL</span><span class="topo-membrane">CVVGFFIYFKLASL</span><span class="topo-inside">CLS</span></span>
+<span class="topo-ruler">       250        </span>
 <span class="topo-line"><span class="topo-inside">VHD</span><span class="topo-unknown">VLMPIENVLHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -280,6 +282,7 @@ TRIC-B2 is an intracellular cation channel from Caenorhabditis elegans belonging
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -295,11 +298,13 @@ TRIC-B2 is an intracellular cation channel from Caenorhabditis elegans belonging
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGWVPDEWS</span><span class="topo-outside">I</span><span class="topo-unknown">DHDTLIDAGGYVQK</span><span class="topo-outside">LKLYP</span><span class="topo-membrane">YFDAAHYVLTCLSVRHDL</span><span class="topo-inside">GPDAISF</span><span class="topo-membrane">SRKHPF</span></span>
-<span class="topo-line"><span class="topo-membrane">SCWLSCMLMSFAGSFLS</span><span class="topo-outside">CFLLGEPIISPLKQHADI</span><span class="topo-membrane">LLGSIVWYLVFYSPFD</span><span class="topo-inside">V</span><span class="topo-membrane">VFRLATWF</span></span>
-<span class="topo-line"><span class="topo-membrane">PVKLGLSVLKEVQRT</span><span class="topo-outside">HKIAAGVKHAVRIYPESYLVQI</span><span class="topo-membrane">LVGVAKGAGSGVVKIVEQLARG</span><span class="topo-inside">T</span></span>
-<span class="topo-line"><span class="topo-inside">WHPTNHEILRP</span><span class="topo-membrane">SFTTKACVIASIV</span><span class="topo-outside">FTLERHSMYVTAPHDLVYL</span><span class="topo-membrane">CVVGFFIYFKLASL</span><span class="topo-inside">CLS</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGWVPDEWS</span><span class="topo-outside">I</span><span class="topo-unknown">DHDTLIDAGGYVQK</span><span class="topo-outside">LKLYP</span><span class="topo-membrane">YFDAAHYVLTCLSVRHDL</span><span class="topo-inside">GPDAISF</span><span class="topo-membrane">SRKHPFSCWLSCMLMSFAGSFLS</span><span class="topo-outside">CFLLGEPIISPLKQHADI</span><span class="topo-membrane">LLGSIVWYLVFYSPFD</span><span class="topo-inside">V</span><span class="topo-membrane">VFRLATWF</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">PVKLGLSVLKEVQRT</span><span class="topo-outside">HKIAAGVKHAVRIYPESYLVQI</span><span class="topo-membrane">LVGVAKGAGSGVVKIVEQLARG</span><span class="topo-inside">TWHPTNHEILRP</span><span class="topo-membrane">SFTTKACVIASIV</span><span class="topo-outside">FTLERHSMYVTAPHDLVYL</span><span class="topo-membrane">CVVGFFIYFKLASL</span><span class="topo-inside">CLS</span></span>
+<span class="topo-ruler">       250        </span>
 <span class="topo-line"><span class="topo-inside">VHD</span><span class="topo-unknown">VLMPIENVLHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -430,6 +435,7 @@ TRIC-B2 is an intracellular cation channel from Caenorhabditis elegans belonging
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -445,11 +451,13 @@ TRIC-B2 is an intracellular cation channel from Caenorhabditis elegans belonging
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGWVPDEWS</span><span class="topo-outside">I</span><span class="topo-unknown">DHDTLIDAGGYVQK</span><span class="topo-outside">LKLYP</span><span class="topo-membrane">YFDAAHYVLTCLSVRHDL</span><span class="topo-inside">GPDAISF</span><span class="topo-membrane">SRKHPF</span></span>
-<span class="topo-line"><span class="topo-membrane">SCWLSCMLMSFAGSFLS</span><span class="topo-outside">CFLLGEPIISPLKQHADI</span><span class="topo-membrane">LLGSIVWYLVFYSPFD</span><span class="topo-inside">V</span><span class="topo-membrane">VFRLATWF</span></span>
-<span class="topo-line"><span class="topo-membrane">PVKLGLSVLKEVQRT</span><span class="topo-outside">HKIAAGVKHAVRIYPESYLVQI</span><span class="topo-membrane">LVGVAKGAGSGVVKIVEQLARG</span><span class="topo-inside">T</span></span>
-<span class="topo-line"><span class="topo-inside">WHPTNHEILRP</span><span class="topo-membrane">SFTTKACVIASIV</span><span class="topo-outside">FTLERHSMYVTAPHDLVYL</span><span class="topo-membrane">CVVGFFIYFKLASL</span><span class="topo-inside">CLS</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGWVPDEWS</span><span class="topo-outside">I</span><span class="topo-unknown">DHDTLIDAGGYVQK</span><span class="topo-outside">LKLYP</span><span class="topo-membrane">YFDAAHYVLTCLSVRHDL</span><span class="topo-inside">GPDAISF</span><span class="topo-membrane">SRKHPFSCWLSCMLMSFAGSFLS</span><span class="topo-outside">CFLLGEPIISPLKQHADI</span><span class="topo-membrane">LLGSIVWYLVFYSPFD</span><span class="topo-inside">V</span><span class="topo-membrane">VFRLATWF</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">PVKLGLSVLKEVQRT</span><span class="topo-outside">HKIAAGVKHAVRIYPESYLVQI</span><span class="topo-membrane">LVGVAKGAGSGVVKIVEQLARG</span><span class="topo-inside">TWHPTNHEILRP</span><span class="topo-membrane">SFTTKACVIASIV</span><span class="topo-outside">FTLERHSMYVTAPHDLVYL</span><span class="topo-membrane">CVVGFFIYFKLASL</span><span class="topo-inside">CLS</span></span>
+<span class="topo-ruler">       250        </span>
 <span class="topo-line"><span class="topo-inside">VHD</span><span class="topo-unknown">VLMPIENVLHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -580,6 +588,7 @@ TRIC-B2 is an intracellular cation channel from Caenorhabditis elegans belonging
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -595,11 +604,13 @@ TRIC-B2 is an intracellular cation channel from Caenorhabditis elegans belonging
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGWVPDEWS</span><span class="topo-outside">I</span><span class="topo-unknown">DHDTLIDAGGYVQK</span><span class="topo-outside">LKLYP</span><span class="topo-membrane">YFDAAHYVLTCLSVRHDL</span><span class="topo-inside">GPDAISF</span><span class="topo-membrane">SRKHPF</span></span>
-<span class="topo-line"><span class="topo-membrane">SCWLSCMLMSFAGSFLS</span><span class="topo-outside">CFLLGEPIISPLKQHADI</span><span class="topo-membrane">LLGSIVWYLVFYSPFD</span><span class="topo-inside">V</span><span class="topo-membrane">VFRLATWF</span></span>
-<span class="topo-line"><span class="topo-membrane">PVKLGLSVLKEVQRT</span><span class="topo-outside">HKIAAGVKHAVRIYPESYLVQI</span><span class="topo-membrane">LVGVAKGAGSGVVKIVEQLARG</span><span class="topo-inside">T</span></span>
-<span class="topo-line"><span class="topo-inside">WHPTNHEILRP</span><span class="topo-membrane">SFTTKACVIASIV</span><span class="topo-outside">FTLERHSMYVTAPHDLVYL</span><span class="topo-membrane">CVVGFFIYFKLASL</span><span class="topo-inside">CLS</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGWVPDEWS</span><span class="topo-outside">I</span><span class="topo-unknown">DHDTLIDAGGYVQK</span><span class="topo-outside">LKLYP</span><span class="topo-membrane">YFDAAHYVLTCLSVRHDL</span><span class="topo-inside">GPDAISF</span><span class="topo-membrane">SRKHPFSCWLSCMLMSFAGSFLS</span><span class="topo-outside">CFLLGEPIISPLKQHADI</span><span class="topo-membrane">LLGSIVWYLVFYSPFD</span><span class="topo-inside">V</span><span class="topo-membrane">VFRLATWF</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">PVKLGLSVLKEVQRT</span><span class="topo-outside">HKIAAGVKHAVRIYPESYLVQI</span><span class="topo-membrane">LVGVAKGAGSGVVKIVEQLARG</span><span class="topo-inside">TWHPTNHEILRP</span><span class="topo-membrane">SFTTKACVIASIV</span><span class="topo-outside">FTLERHSMYVTAPHDLVYL</span><span class="topo-membrane">CVVGFFIYFKLASL</span><span class="topo-inside">CLS</span></span>
+<span class="topo-ruler">       250        </span>
 <span class="topo-line"><span class="topo-inside">VHD</span><span class="topo-unknown">VLMPIENVLHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -730,6 +741,7 @@ TRIC-B2 is an intracellular cation channel from Caenorhabditis elegans belonging
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -745,11 +757,13 @@ TRIC-B2 is an intracellular cation channel from Caenorhabditis elegans belonging
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGWVPDEWS</span><span class="topo-outside">I</span><span class="topo-unknown">DHDTLIDAGGYVQK</span><span class="topo-outside">LKLYP</span><span class="topo-membrane">YFDAAHYVLTCLSVRHDL</span><span class="topo-inside">GPDAISF</span><span class="topo-membrane">SRKHPF</span></span>
-<span class="topo-line"><span class="topo-membrane">SCWLSCMLMSFAGSFLS</span><span class="topo-outside">CFLLGEPIISPLKQHADI</span><span class="topo-membrane">LLGSIVWYLVFYSPFD</span><span class="topo-inside">V</span><span class="topo-membrane">VFRLATWF</span></span>
-<span class="topo-line"><span class="topo-membrane">PVKLGLSVLKEVQRT</span><span class="topo-outside">HKIAAGVKHAVRIYPESYLVQI</span><span class="topo-membrane">LVGVAKGAGSGVVKIVEQLARG</span><span class="topo-inside">T</span></span>
-<span class="topo-line"><span class="topo-inside">WHPTNHEILRP</span><span class="topo-membrane">SFTTKACVIASIV</span><span class="topo-outside">FTLERHSMYVTAPHDLVYL</span><span class="topo-membrane">CVVGFFIYFKLASL</span><span class="topo-inside">CLS</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGWVPDEWS</span><span class="topo-outside">I</span><span class="topo-unknown">DHDTLIDAGGYVQK</span><span class="topo-outside">LKLYP</span><span class="topo-membrane">YFDAAHYVLTCLSVRHDL</span><span class="topo-inside">GPDAISF</span><span class="topo-membrane">SRKHPFSCWLSCMLMSFAGSFLS</span><span class="topo-outside">CFLLGEPIISPLKQHADI</span><span class="topo-membrane">LLGSIVWYLVFYSPFD</span><span class="topo-inside">V</span><span class="topo-membrane">VFRLATWF</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">PVKLGLSVLKEVQRT</span><span class="topo-outside">HKIAAGVKHAVRIYPESYLVQI</span><span class="topo-membrane">LVGVAKGAGSGVVKIVEQLARG</span><span class="topo-inside">TWHPTNHEILRP</span><span class="topo-membrane">SFTTKACVIASIV</span><span class="topo-outside">FTLERHSMYVTAPHDLVYL</span><span class="topo-membrane">CVVGFFIYFKLASL</span><span class="topo-inside">CLS</span></span>
+<span class="topo-ruler">       250        </span>
 <span class="topo-line"><span class="topo-inside">VHD</span><span class="topo-unknown">VLMPIENVLHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -880,6 +894,7 @@ TRIC-B2 is an intracellular cation channel from Caenorhabditis elegans belonging
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -895,11 +910,13 @@ TRIC-B2 is an intracellular cation channel from Caenorhabditis elegans belonging
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGWVPDEWS</span><span class="topo-outside">I</span><span class="topo-unknown">DHDTLIDAGGYVQK</span><span class="topo-outside">LKLYP</span><span class="topo-membrane">YFDAAHYVLTCLSVRHDL</span><span class="topo-inside">GPDAISF</span><span class="topo-membrane">SRKHPF</span></span>
-<span class="topo-line"><span class="topo-membrane">SCWLSCMLMSFAGSFLS</span><span class="topo-outside">CFLLGEPIISPLKQHADI</span><span class="topo-membrane">LLGSIVWYLVFYSPFD</span><span class="topo-inside">V</span><span class="topo-membrane">VFRLATWF</span></span>
-<span class="topo-line"><span class="topo-membrane">PVKLGLSVLKEVQRT</span><span class="topo-outside">HKIAAGVKHAVRIYPESYLVQI</span><span class="topo-membrane">LVGVAKGAGSGVVKIVEQLARG</span><span class="topo-inside">T</span></span>
-<span class="topo-line"><span class="topo-inside">WHPTNHEILRP</span><span class="topo-membrane">SFTTKACVIASIV</span><span class="topo-outside">FTLERHSMYVTAPHDLVYL</span><span class="topo-membrane">CVVGFFIYFKLASL</span><span class="topo-inside">CLS</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGWVPDEWS</span><span class="topo-outside">I</span><span class="topo-unknown">DHDTLIDAGGYVQK</span><span class="topo-outside">LKLYP</span><span class="topo-membrane">YFDAAHYVLTCLSVRHDL</span><span class="topo-inside">GPDAISF</span><span class="topo-membrane">SRKHPFSCWLSCMLMSFAGSFLS</span><span class="topo-outside">CFLLGEPIISPLKQHADI</span><span class="topo-membrane">LLGSIVWYLVFYSPFD</span><span class="topo-inside">V</span><span class="topo-membrane">VFRLATWF</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">PVKLGLSVLKEVQRT</span><span class="topo-outside">HKIAAGVKHAVRIYPESYLVQI</span><span class="topo-membrane">LVGVAKGAGSGVVKIVEQLARG</span><span class="topo-inside">TWHPTNHEILRP</span><span class="topo-membrane">SFTTKACVIASIV</span><span class="topo-outside">FTLERHSMYVTAPHDLVYL</span><span class="topo-membrane">CVVGFFIYFKLASL</span><span class="topo-inside">CLS</span></span>
+<span class="topo-ruler">       250        </span>
 <span class="topo-line"><span class="topo-inside">VHD</span><span class="topo-unknown">VLMPIENVLHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1030,6 +1047,7 @@ TRIC-B2 is an intracellular cation channel from Caenorhabditis elegans belonging
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

@@ -175,14 +175,15 @@ The SecYEG translocon from Thermus thermophilus is a heterotrimeric protein-cond
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">M</span><span class="topo-unknown">VKAFWSALQ</span><span class="topo-outside">IPELRQRVLFT</span><span class="topo-membrane">LLVLAAYRLGAFI</span><span class="topo-inside">PTPGVDLDKIQEFLRTAQGGVFGIIN</span></span>
-<span class="topo-line"><span class="topo-inside">LFSGGNFERFS</span><span class="topo-membrane">IFALGIMPYITAAIIM</span><span class="topo-outside">QILVTVVPALEKLSKEGEEGRRIINQY</span><span class="topo-membrane">TRIGGI</span></span>
-<span class="topo-line"><span class="topo-membrane">ALGAFQGF</span><span class="topo-inside">FLATAFLGAEGGRFLLPGWSPGPFFWFVVV</span><span class="topo-membrane">VTQVAGIALLLWMA</span><span class="topo-outside">ERITEYGI</span></span>
-<span class="topo-line"><span class="topo-outside">GNG</span><span class="topo-membrane">TSLIIFAGIVVEWLPQIL</span><span class="topo-inside">RTIGLIRTGEVNLV</span><span class="topo-membrane">AFLFFLAFIVLAFAGM</span><span class="topo-outside">AAVQQAERR</span></span>
-<span class="topo-line"><span class="topo-outside">IPVQYARKVVGGRVYGGQATYIPIKLNAAGV</span><span class="topo-membrane">IPIIFAAAILQIPIFL</span><span class="topo-inside">AAPFQDNPVLQGI</span></span>
-<span class="topo-line"><span class="topo-inside">ANFFNPTRP</span><span class="topo-membrane">SGLFIEVLLVILF</span><span class="topo-outside">TYVYTAVQFDPKRIAESLREYGGFIPGIRPGEPTVKFL</span></span>
-<span class="topo-line"><span class="topo-outside">EHIVSRLTLWGAL</span><span class="topo-membrane">FLGLVTLLPQIIQ</span><span class="topo-inside">NLTGIHS</span><span class="topo-membrane">IAFSGIGLLIVVGVA</span><span class="topo-outside">LDTLRQVESQLM</span></span>
-<span class="topo-line"><span class="topo-outside">LRSY</span><span class="topo-unknown">EGFLSRGRLRGRNRHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">M</span><span class="topo-unknown">VKAFWSALQ</span><span class="topo-outside">IPELRQRVLFT</span><span class="topo-membrane">LLVLAAYRLGAFI</span><span class="topo-inside">PTPGVDLDKIQEFLRTAQGGVFGIINLFSGGNFERFS</span><span class="topo-membrane">IFALGIMPYITAAIIM</span><span class="topo-outside">QILVTVVPALEKLSKEGEEGRRIINQY</span><span class="topo-membrane">TRIGGI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">ALGAFQGF</span><span class="topo-inside">FLATAFLGAEGGRFLLPGWSPGPFFWFVVV</span><span class="topo-membrane">VTQVAGIALLLWMA</span><span class="topo-outside">ERITEYGIGNG</span><span class="topo-membrane">TSLIIFAGIVVEWLPQIL</span><span class="topo-inside">RTIGLIRTGEVNLV</span><span class="topo-membrane">AFLFFLAFIVLAFAGM</span><span class="topo-outside">AAVQQAERR</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">IPVQYARKVVGGRVYGGQATYIPIKLNAAGV</span><span class="topo-membrane">IPIIFAAAILQIPIFL</span><span class="topo-inside">AAPFQDNPVLQGIANFFNPTRP</span><span class="topo-membrane">SGLFIEVLLVILF</span><span class="topo-outside">TYVYTAVQFDPKRIAESLREYGGFIPGIRPGEPTVKFL</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440    </span>
+<span class="topo-line"><span class="topo-outside">EHIVSRLTLWGAL</span><span class="topo-membrane">FLGLVTLLPQIIQ</span><span class="topo-inside">NLTGIHS</span><span class="topo-membrane">IAFSGIGLLIVVGVA</span><span class="topo-outside">LDTLRQVESQLMLRSY</span><span class="topo-unknown">EGFLSRGRLRGRNRHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (23 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -355,6 +356,7 @@ The SecYEG translocon from Thermus thermophilus is a heterotrimeric protein-cond
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -370,7 +372,9 @@ The SecYEG translocon from Thermus thermophilus is a heterotrimeric protein-cond
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40        50        60</span>
 <span class="topo-line"><span class="topo-outside">M</span><span class="topo-unknown">FARLIRYFQEARAELA</span><span class="topo-outside">RVTWPTREQVVEGTQAI</span><span class="topo-membrane">LLFTLAFMVILGLYDTVF</span><span class="topo-inside">RFLIGLLR</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -417,6 +421,7 @@ The SecYEG translocon from Thermus thermophilus is a heterotrimeric protein-cond
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -432,8 +437,9 @@ The SecYEG translocon from Thermus thermophilus is a heterotrimeric protein-cond
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MDLLYTLVIL</span><span class="topo-membrane">FYLGVAGLLVYLVL</span><span class="topo-outside">VQEPKQGAGDLMGGSADLFSARGVTGGLYR</span><span class="topo-membrane">LTVILG</span></span>
-<span class="topo-line"><span class="topo-membrane">VVFAALA</span><span class="topo-inside">LVIGLWPR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70     </span>
+<span class="topo-line"><span class="topo-inside">MDLLYTLVIL</span><span class="topo-membrane">FYLGVAGLLVYLVL</span><span class="topo-outside">VQEPKQGAGDLMGGSADLFSARGVTGGLYR</span><span class="topo-membrane">LTVILGVVFAALA</span><span class="topo-inside">LVIGLWPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -480,6 +486,7 @@ The SecYEG translocon from Thermus thermophilus is a heterotrimeric protein-cond
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -495,14 +502,15 @@ The SecYEG translocon from Thermus thermophilus is a heterotrimeric protein-cond
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MVKAFWSALQIPELRQRV</span><span class="topo-membrane">LFTLLVLAAYRLGAFI</span><span class="topo-outside">PTPGVD</span><span class="topo-unknown">LDKIQEF</span><span class="topo-outside">LRTAQGGVFGIIN</span></span>
-<span class="topo-line"><span class="topo-outside">LFSGGNFERFS</span><span class="topo-membrane">IFALGIMPYITAAIIM</span><span class="topo-inside">QILVTVVPALEKLSKEGEEGRRIINQY</span><span class="topo-membrane">TRIGGI</span></span>
-<span class="topo-line"><span class="topo-membrane">ALGAFQGFFL</span><span class="topo-outside">ATAFLGAEGGRFLLPGWSPGPFFWFVV</span><span class="topo-membrane">VVTQVAGIALLLWMAERI</span><span class="topo-inside">TEYGI</span></span>
-<span class="topo-line"><span class="topo-inside">GNG</span><span class="topo-membrane">TSLIIFAGIVVEWLPQIL</span><span class="topo-outside">RTIGLIRTGEVNLV</span><span class="topo-membrane">AFLFFLAFIVLAFAGM</span><span class="topo-inside">AAVQQAERR</span></span>
-<span class="topo-line"><span class="topo-inside">IPVQYARGAAGYGGQATYIPIKLNAAGV</span><span class="topo-membrane">IPIIFAAAILQIPIFLA</span><span class="topo-outside">APFQDNPVLQGI</span><span class="topo-membrane">ANF</span></span>
-<span class="topo-line"><span class="topo-membrane">FNPTRPSGLFIEVLLVILF</span><span class="topo-inside">TYVYTAVQFDPKRIAESLREYGGFIPGIRPGEPTVKFLEHI</span></span>
-<span class="topo-line"><span class="topo-inside">VSRLTLWGAL</span><span class="topo-membrane">FLGLVTLLPQIIQNLT</span><span class="topo-outside">GI</span><span class="topo-membrane">HSIAFSGIGLLIVVGVA</span><span class="topo-inside">LDTLRQVESQLMLRS</span></span>
-<span class="topo-line"><span class="topo-inside">Y</span><span class="topo-unknown">EGFLSRGRLRGRNRHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">MVKAFWSALQIPELRQRV</span><span class="topo-membrane">LFTLLVLAAYRLGAFI</span><span class="topo-outside">PTPGVD</span><span class="topo-unknown">LDKIQEF</span><span class="topo-outside">LRTAQGGVFGIINLFSGGNFERFS</span><span class="topo-membrane">IFALGIMPYITAAIIM</span><span class="topo-inside">QILVTVVPALEKLSKEGEEGRRIINQY</span><span class="topo-membrane">TRIGGI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">ALGAFQGFFL</span><span class="topo-outside">ATAFLGAEGGRFLLPGWSPGPFFWFVV</span><span class="topo-membrane">VVTQVAGIALLLWMAERI</span><span class="topo-inside">TEYGIGNG</span><span class="topo-membrane">TSLIIFAGIVVEWLPQIL</span><span class="topo-outside">RTIGLIRTGEVNLV</span><span class="topo-membrane">AFLFFLAFIVLAFAGM</span><span class="topo-inside">AAVQQAERR</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">IPVQYARGAAGYGGQATYIPIKLNAAGV</span><span class="topo-membrane">IPIIFAAAILQIPIFLA</span><span class="topo-outside">APFQDNPVLQGI</span><span class="topo-membrane">ANFFNPTRPSGLFIEVLLVILF</span><span class="topo-inside">TYVYTAVQFDPKRIAESLREYGGFIPGIRPGEPTVKFLEHI</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440 </span>
+<span class="topo-line"><span class="topo-inside">VSRLTLWGAL</span><span class="topo-membrane">FLGLVTLLPQIIQNLT</span><span class="topo-outside">GI</span><span class="topo-membrane">HSIAFSGIGLLIVVGVA</span><span class="topo-inside">LDTLRQVESQLMLRSY</span><span class="topo-unknown">EGFLSRGRLRGRNRHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (23 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -675,6 +683,7 @@ The SecYEG translocon from Thermus thermophilus is a heterotrimeric protein-cond
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -690,7 +699,9 @@ The SecYEG translocon from Thermus thermophilus is a heterotrimeric protein-cond
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40        50        60</span>
 <span class="topo-line"><span class="topo-inside">MFARLIRYFQEARAELARVTWPTREQVVEGTQAI</span><span class="topo-membrane">LLFTLAFMVILGLYDTVF</span><span class="topo-outside">RFLIGLLR</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -723,6 +734,7 @@ The SecYEG translocon from Thermus thermophilus is a heterotrimeric protein-cond
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -738,8 +750,9 @@ The SecYEG translocon from Thermus thermophilus is a heterotrimeric protein-cond
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MDLLYTLVIL</span><span class="topo-membrane">FYLGVAGLLVYLVLV</span><span class="topo-inside">QEPKQGAGDLMGGSADLFSARGVTGGL</span><span class="topo-membrane">YRLTVILG</span></span>
-<span class="topo-line"><span class="topo-membrane">VVFAALA</span><span class="topo-outside">LVIGLWP</span><span class="topo-unknown">R</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70     </span>
+<span class="topo-line"><span class="topo-outside">MDLLYTLVIL</span><span class="topo-membrane">FYLGVAGLLVYLVLV</span><span class="topo-inside">QEPKQGAGDLMGGSADLFSARGVTGGL</span><span class="topo-membrane">YRLTVILGVVFAALA</span><span class="topo-outside">LVIGLWP</span><span class="topo-unknown">R</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -786,6 +799,7 @@ The SecYEG translocon from Thermus thermophilus is a heterotrimeric protein-cond
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -913,14 +927,15 @@ The SecYEG translocon from Thermus thermophilus is a heterotrimeric protein-cond
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MV</span><span class="topo-unknown">KAFWSAL</span><span class="topo-inside">QIPELRQRV</span><span class="topo-membrane">LFTLLVLAAYRLGAFI</span><span class="topo-outside">PTPGVD</span><span class="topo-unknown">LDKIQEFLR</span><span class="topo-outside">TAQGGVFGIIN</span></span>
-<span class="topo-line"><span class="topo-outside">LFSGGNFERFS</span><span class="topo-membrane">IFALGIMPYITAAIIM</span><span class="topo-inside">QILVTVV</span><span class="topo-unknown">PALEKLS</span><span class="topo-inside">KEGEEGRRIINQY</span><span class="topo-membrane">TRIGGI</span></span>
-<span class="topo-line"><span class="topo-membrane">ALGAFQGFFL</span><span class="topo-outside">ATAFLGAEGGRFLLPGWSPGPFFWFVV</span><span class="topo-membrane">VVTQVAGIALLLWMAERI</span><span class="topo-inside">TEYGI</span></span>
-<span class="topo-line"><span class="topo-inside">GN</span><span class="topo-membrane">GTSLIIFAGIVVEWLPQIL</span><span class="topo-outside">RTIGLIRTGEVNL</span><span class="topo-membrane">VAFLFFLAFIVLAFAGM</span><span class="topo-inside">AAVQQAERR</span></span>
-<span class="topo-line"><span class="topo-inside">IPVQYAR</span><span class="topo-unknown">KVVGGRV</span><span class="topo-inside">YGGQATYIPIKLNAAGV</span><span class="topo-membrane">IPIIFAAAILQIPIFLA</span><span class="topo-outside">APFQDNPVLQGI</span></span>
-<span class="topo-line"><span class="topo-outside">ANF</span><span class="topo-membrane">FNPTRPSGLFIEVLLVILFT</span><span class="topo-inside">YVYTAVQFDPKRIAESLREYGGFIPGIRPGEPTVKFL</span></span>
-<span class="topo-line"><span class="topo-inside">EHIVSRLTLWGA</span><span class="topo-membrane">LFLGLVTLLPQIIQNLT</span><span class="topo-outside">GIH</span><span class="topo-membrane">SIAFSGIGLLIVVGVA</span><span class="topo-inside">LDTLRQVESQLM</span></span>
-<span class="topo-line"><span class="topo-inside">LR</span><span class="topo-unknown">SYEGFLSRGRLR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">MV</span><span class="topo-unknown">KAFWSAL</span><span class="topo-inside">QIPELRQRV</span><span class="topo-membrane">LFTLLVLAAYRLGAFI</span><span class="topo-outside">PTPGVD</span><span class="topo-unknown">LDKIQEFLR</span><span class="topo-outside">TAQGGVFGIINLFSGGNFERFS</span><span class="topo-membrane">IFALGIMPYITAAIIM</span><span class="topo-inside">QILVTVV</span><span class="topo-unknown">PALEKLS</span><span class="topo-inside">KEGEEGRRIINQY</span><span class="topo-membrane">TRIGGI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">ALGAFQGFFL</span><span class="topo-outside">ATAFLGAEGGRFLLPGWSPGPFFWFVV</span><span class="topo-membrane">VVTQVAGIALLLWMAERI</span><span class="topo-inside">TEYGIGN</span><span class="topo-membrane">GTSLIIFAGIVVEWLPQIL</span><span class="topo-outside">RTIGLIRTGEVNL</span><span class="topo-membrane">VAFLFFLAFIVLAFAGM</span><span class="topo-inside">AAVQQAERR</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">IPVQYAR</span><span class="topo-unknown">KVVGGRV</span><span class="topo-inside">YGGQATYIPIKLNAAGV</span><span class="topo-membrane">IPIIFAAAILQIPIFLA</span><span class="topo-outside">APFQDNPVLQGIANF</span><span class="topo-membrane">FNPTRPSGLFIEVLLVILFT</span><span class="topo-inside">YVYTAVQFDPKRIAESLREYGGFIPGIRPGEPTVKFL</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430    </span>
+<span class="topo-line"><span class="topo-inside">EHIVSRLTLWGA</span><span class="topo-membrane">LFLGLVTLLPQIIQNLT</span><span class="topo-outside">GIH</span><span class="topo-membrane">SIAFSGIGLLIVVGVA</span><span class="topo-inside">LDTLRQVESQLMLR</span><span class="topo-unknown">SYEGFLSRGRLR</span></span>
+<details class="topo-details"><summary>Topology coordinates (30 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1142,6 +1157,7 @@ The SecYEG translocon from Thermus thermophilus is a heterotrimeric protein-cond
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1157,7 +1173,9 @@ The SecYEG translocon from Thermus thermophilus is a heterotrimeric protein-cond
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40        50        60</span>
 <span class="topo-line"><span class="topo-unknown">MFARLIRYFQE</span><span class="topo-inside">ARAELARVTWPTREQVVEGT</span><span class="topo-membrane">QAILLFTLAFMVILGLYDTVF</span><span class="topo-outside">RFLIG</span><span class="topo-unknown">LLR</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1204,6 +1222,7 @@ The SecYEG translocon from Thermus thermophilus is a heterotrimeric protein-cond
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

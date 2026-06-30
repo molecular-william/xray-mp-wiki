@@ -141,17 +141,19 @@ DeCLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from a Desul
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MHNLQQLLPTRSLIWIFSFLTSISIWCTVAHAETE</span><span class="topo-outside">GRVQHFTGYIEDGRGIFYSLPDMKQ</span></span>
-<span class="topo-line"><span class="topo-outside">GDIIYASMQNTGGNLDPLVGIMAEEIDPAVSLGQVLEKALASENDLISELTAVADRIFLG</span></span>
-<span class="topo-line"><span class="topo-outside">WDDDGGKGYSASLEFTIPRDGTYHIFAGSTITNQRLDKFQPTYTTGSFQLILGLNAPQVI</span></span>
-<span class="topo-line"><span class="topo-outside">SGEGEPEGEVFASLA</span><span class="topo-unknown">SLE</span><span class="topo-outside">IKPEAHVQELEIRLDKDTRYLTQHTRNLQPGDTFHALVEPIG</span></span>
-<span class="topo-line"><span class="topo-outside">EAPLPRLRLTDSGGKPLAFGLIDQPGESVELNYTCDQDICELVVHVDGTDGQKDSGEAVY</span></span>
-<span class="topo-line"><span class="topo-outside">RLLVGINAPNL</span><span class="topo-unknown">RESGQTPVG</span><span class="topo-outside">SSVFLESDLVTVGLAVDQIVGVDQRSENFSVVGTLKLSWH</span></span>
-<span class="topo-line"><span class="topo-outside">DPKLGFSPDQCGCTVKSFEDASIRAVAGEINLPLPSFSFYNQQGNRWSQNQVIFVTPDGR</span></span>
-<span class="topo-line"><span class="topo-outside">ASYFERFTVTLQAPDFDFLAYPFDRQKFSIKVDLAVPTNMFIFNEIERFQQVVGDQLGEE</span></span>
-<span class="topo-line"><span class="topo-outside">EWVVTSYSQEITEVPFERGSTNSRFTTTLLVKRNLEYYI</span><span class="topo-membrane">LRIFVPLFLIISVSWVIF</span><span class="topo-inside">FLK</span></span>
-<span class="topo-line"><span class="topo-inside">DYGRQL</span><span class="topo-membrane">EVASGNLLVFVAFNFTI</span><span class="topo-outside">SGDLPRLGYLTV</span><span class="topo-membrane">LDRFMIVSFCLTAIVVLI</span><span class="topo-inside">SVCQKRL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MHNLQQLLPTRSLIWIFSFLTSISIWCTVAHAETE</span><span class="topo-outside">GRVQHFTGYIEDGRGIFYSLPDMKQGDIIYASMQNTGGNLDPLVGIMAEEIDPAVSLGQVLEKALASENDLISELTAVADRIFLG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">WDDDGGKGYSASLEFTIPRDGTYHIFAGSTITNQRLDKFQPTYTTGSFQLILGLNAPQVISGEGEPEGEVFASLA</span><span class="topo-unknown">SLE</span><span class="topo-outside">IKPEAHVQELEIRLDKDTRYLTQHTRNLQPGDTFHALVEPIG</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">EAPLPRLRLTDSGGKPLAFGLIDQPGESVELNYTCDQDICELVVHVDGTDGQKDSGEAVYRLLVGINAPNL</span><span class="topo-unknown">RESGQTPVG</span><span class="topo-outside">SSVFLESDLVTVGLAVDQIVGVDQRSENFSVVGTLKLSWH</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">DPKLGFSPDQCGCTVKSFEDASIRAVAGEINLPLPSFSFYNQQGNRWSQNQVIFVTPDGRASYFERFTVTLQAPDFDFLAYPFDRQKFSIKVDLAVPTNMFIFNEIERFQQVVGDQLGEE</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">EWVVTSYSQEITEVPFERGSTNSRFTTTLLVKRNLEYYI</span><span class="topo-membrane">LRIFVPLFLIISVSWVIF</span><span class="topo-inside">FLKDYGRQL</span><span class="topo-membrane">EVASGNLLVFVAFNFTI</span><span class="topo-outside">SGDLPRLGYLTV</span><span class="topo-membrane">LDRFMIVSFCLTAIVVLI</span><span class="topo-inside">SVCQKRL</span></span>
+<span class="topo-ruler">       610       620       630       640  </span>
 <span class="topo-line"><span class="topo-inside">GAVGKQAVAAQIDTWV</span><span class="topo-membrane">LVIYPLVYSLYIIWVYLR</span><span class="topo-outside">FF</span><span class="topo-unknown">TDHIGW</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -240,6 +242,7 @@ DeCLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from a Desul
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -255,17 +258,19 @@ DeCLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from a Desul
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MHNLQQLLPTRSLIWIFSFLTSISIWCTVAHAETE</span><span class="topo-outside">GRVQHFTGYIEDGRGIFYSLPDMKQ</span></span>
-<span class="topo-line"><span class="topo-outside">GDIIYASMQNTGGNLDPLVGIMAEEIDPAVSLGQVLEKALASENDLISELTAVADRIFLG</span></span>
-<span class="topo-line"><span class="topo-outside">WDDDGGKGYSASLEFTIPRDGTYHIFAGSTITNQRLDKFQPTYTTGSFQLILGLNAPQVI</span></span>
-<span class="topo-line"><span class="topo-outside">SGEGEPEGEVFASLA</span><span class="topo-unknown">SLEI</span><span class="topo-outside">KPEAHVQELEIRLDKDTRYLTQHTRNLQPGDTFHALVEPIG</span></span>
-<span class="topo-line"><span class="topo-outside">EAPLPRLRLTDSGGKPLAFGLIDQPGESVELNYTCDQDICELVVHVDGTDGQKDSGEAVY</span></span>
-<span class="topo-line"><span class="topo-outside">RLLVGINAPNLRESG</span><span class="topo-unknown">QTPVG</span><span class="topo-outside">SSVFLESDLVTVGLAVDQIVGVDQRSENFSVVGTLKLSWH</span></span>
-<span class="topo-line"><span class="topo-outside">DPKLGFSPDQCGCTVKSFEDASIRAVAGEINLPLPSFSFYNQQGNRWSQNQVIFVTPDGR</span></span>
-<span class="topo-line"><span class="topo-outside">ASYFERFTVTLQAPDFDFLAYPFDRQKFSIKVDLAVPTNMFIFNEIERFQQVVGDQLGEE</span></span>
-<span class="topo-line"><span class="topo-outside">EWVVTSYSQEITEVPFERGSTNSRFTTTLLVKRNLEYYI</span><span class="topo-membrane">LRIFVPLFLIISVSWVIF</span><span class="topo-inside">FLK</span></span>
-<span class="topo-line"><span class="topo-inside">DYGRQL</span><span class="topo-membrane">EVASGNLLVFVAFNFTI</span><span class="topo-outside">SGDLPRLGYLTV</span><span class="topo-membrane">LDRFMIVSFCLTAIVVLIS</span><span class="topo-inside">VCQKRL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MHNLQQLLPTRSLIWIFSFLTSISIWCTVAHAETE</span><span class="topo-outside">GRVQHFTGYIEDGRGIFYSLPDMKQGDIIYASMQNTGGNLDPLVGIMAEEIDPAVSLGQVLEKALASENDLISELTAVADRIFLG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">WDDDGGKGYSASLEFTIPRDGTYHIFAGSTITNQRLDKFQPTYTTGSFQLILGLNAPQVISGEGEPEGEVFASLA</span><span class="topo-unknown">SLEI</span><span class="topo-outside">KPEAHVQELEIRLDKDTRYLTQHTRNLQPGDTFHALVEPIG</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">EAPLPRLRLTDSGGKPLAFGLIDQPGESVELNYTCDQDICELVVHVDGTDGQKDSGEAVYRLLVGINAPNLRESG</span><span class="topo-unknown">QTPVG</span><span class="topo-outside">SSVFLESDLVTVGLAVDQIVGVDQRSENFSVVGTLKLSWH</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">DPKLGFSPDQCGCTVKSFEDASIRAVAGEINLPLPSFSFYNQQGNRWSQNQVIFVTPDGRASYFERFTVTLQAPDFDFLAYPFDRQKFSIKVDLAVPTNMFIFNEIERFQQVVGDQLGEE</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">EWVVTSYSQEITEVPFERGSTNSRFTTTLLVKRNLEYYI</span><span class="topo-membrane">LRIFVPLFLIISVSWVIF</span><span class="topo-inside">FLKDYGRQL</span><span class="topo-membrane">EVASGNLLVFVAFNFTI</span><span class="topo-outside">SGDLPRLGYLTV</span><span class="topo-membrane">LDRFMIVSFCLTAIVVLIS</span><span class="topo-inside">VCQKRL</span></span>
+<span class="topo-ruler">       610       620       630       640  </span>
 <span class="topo-line"><span class="topo-inside">GAVGKQAVAAQIDTWV</span><span class="topo-membrane">LVIYPLVYSLYIIWVYLR</span><span class="topo-outside">FF</span><span class="topo-unknown">TDHIGW</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -354,6 +359,7 @@ DeCLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from a Desul
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -369,17 +375,19 @@ DeCLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from a Desul
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MHNLQQLLPTRSLIWIFSFLTSISIWCTVAHAETE</span><span class="topo-outside">GRVQHFTGYIEDGRGIFYSLPDMKQ</span></span>
-<span class="topo-line"><span class="topo-outside">GDIIYASMQNTGGNLDPLVGIMAEEIDPAVSLGQVLEKALASENDLISELTAVADRIFLG</span></span>
-<span class="topo-line"><span class="topo-outside">WDDDGGKGYSASLEFTIPRDGTYHIFAGSTITNQRLDKFQPTYTTGSFQLILGLNAPQVI</span></span>
-<span class="topo-line"><span class="topo-outside">SGEGEPEGEVFASLA</span><span class="topo-unknown">SLEI</span><span class="topo-outside">KPEAHVQELEIRLDKDTRYLTQHTRNLQPGDTFHALVEPIG</span></span>
-<span class="topo-line"><span class="topo-outside">EAPLPRLRLTDSGGKPLAFGLIDQPGESVELNYTCDQDICELVVHVDGTDGQKDSGEAVY</span></span>
-<span class="topo-line"><span class="topo-outside">RLLVGINAPNLRESG</span><span class="topo-unknown">QTPVG</span><span class="topo-outside">SSVFLESDLVTVGLAVDQIVGVDQRSENFSVVGTLKLSWH</span></span>
-<span class="topo-line"><span class="topo-outside">DPKLGFSPDQCGCTVKSFEDASIRAVAGEINLPLPSFSFYNQQGNRWSQNQVIFVTPDGR</span></span>
-<span class="topo-line"><span class="topo-outside">ASYFERFTVTLQAPDFDFLAYPFDRQKFSIKVDLAVPTNMFIFNEIERFQQVVGDQLGEE</span></span>
-<span class="topo-line"><span class="topo-outside">EWVVTSYSQEITEVPFERGSTNSRFTTTLLVKRNLEYYI</span><span class="topo-membrane">LRIFVPLFLIISVSWVIFF</span><span class="topo-inside">LK</span></span>
-<span class="topo-line"><span class="topo-inside">DYGRQ</span><span class="topo-membrane">LEVASGNLLVFVAFNFTI</span><span class="topo-outside">SGDLPRLGYLTVLD</span><span class="topo-membrane">RFMIVSFCLTAIVVLISV</span><span class="topo-inside">CQKRL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MHNLQQLLPTRSLIWIFSFLTSISIWCTVAHAETE</span><span class="topo-outside">GRVQHFTGYIEDGRGIFYSLPDMKQGDIIYASMQNTGGNLDPLVGIMAEEIDPAVSLGQVLEKALASENDLISELTAVADRIFLG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">WDDDGGKGYSASLEFTIPRDGTYHIFAGSTITNQRLDKFQPTYTTGSFQLILGLNAPQVISGEGEPEGEVFASLA</span><span class="topo-unknown">SLEI</span><span class="topo-outside">KPEAHVQELEIRLDKDTRYLTQHTRNLQPGDTFHALVEPIG</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">EAPLPRLRLTDSGGKPLAFGLIDQPGESVELNYTCDQDICELVVHVDGTDGQKDSGEAVYRLLVGINAPNLRESG</span><span class="topo-unknown">QTPVG</span><span class="topo-outside">SSVFLESDLVTVGLAVDQIVGVDQRSENFSVVGTLKLSWH</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">DPKLGFSPDQCGCTVKSFEDASIRAVAGEINLPLPSFSFYNQQGNRWSQNQVIFVTPDGRASYFERFTVTLQAPDFDFLAYPFDRQKFSIKVDLAVPTNMFIFNEIERFQQVVGDQLGEE</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">EWVVTSYSQEITEVPFERGSTNSRFTTTLLVKRNLEYYI</span><span class="topo-membrane">LRIFVPLFLIISVSWVIFF</span><span class="topo-inside">LKDYGRQ</span><span class="topo-membrane">LEVASGNLLVFVAFNFTI</span><span class="topo-outside">SGDLPRLGYLTVLD</span><span class="topo-membrane">RFMIVSFCLTAIVVLISV</span><span class="topo-inside">CQKRL</span></span>
+<span class="topo-ruler">       610       620       630       640  </span>
 <span class="topo-line"><span class="topo-inside">GAVGKQAVAAQI</span><span class="topo-membrane">DTWVLVIYPLVYSLYIIWV</span><span class="topo-outside">YLRFF</span><span class="topo-unknown">TDHIGW</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -468,6 +476,7 @@ DeCLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from a Desul
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -483,17 +492,19 @@ DeCLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from a Desul
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MHNLQQLLPTRSLIWIFSFLTSISIWCTVAHAETE</span><span class="topo-outside">GRVQHFTGYIEDGRGIFYSLPDMKQ</span></span>
-<span class="topo-line"><span class="topo-outside">GDIIYASMQNTGGNLDPLVGIMAEEIDPAVSLGQVLEKALASENDLISELTAVADRIFLG</span></span>
-<span class="topo-line"><span class="topo-outside">WDDDGGKGYSASLEFTIPRDGTYHIFAGSTITNQRLDKFQPTYTTGSFQLILGLNAPQVI</span></span>
-<span class="topo-line"><span class="topo-outside">SGEGEPEGEVFASLA</span><span class="topo-unknown">SLE</span><span class="topo-outside">IKPEAHVQELEIRLDKDTRYLTQHTRNLQPGDTFHALVEPIG</span></span>
-<span class="topo-line"><span class="topo-outside">EAPLPRLRLTDSGGKPLAFGLIDQPGESVELNYTCDQDICELVVHVDGTDGQKDSGEAVY</span></span>
-<span class="topo-line"><span class="topo-outside">RLLVGINAPNLRESG</span><span class="topo-unknown">QTPVG</span><span class="topo-outside">SSVFLESDLVTVGLAVDQIVGVDQRSENFSVVGTLKLSWH</span></span>
-<span class="topo-line"><span class="topo-outside">DPKLGFSPDQCGCTVKSFEDASIRAVAGEINLPLPSFSFYNQQGNRWSQNQVIFVTPDGR</span></span>
-<span class="topo-line"><span class="topo-outside">ASYFERFTVTLQAPDFDFLAYPFDRQKFSIKVDLAVPTNMFIFNEIERFQQVVGDQLGEE</span></span>
-<span class="topo-line"><span class="topo-outside">EWVVTSYSQEITEVPFERGSTNSRFTTTLLVKRNLEYYILR</span><span class="topo-membrane">IFVPLFLIISVSWVIFFL</span><span class="topo-inside">K</span></span>
-<span class="topo-line"><span class="topo-inside">DYGRQ</span><span class="topo-membrane">LEVASGNLLVFVAFNFTI</span><span class="topo-outside">SGDLPRLGYLTVLDR</span><span class="topo-membrane">FMIVSFCLTAIVVLISVC</span><span class="topo-inside">QKRL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MHNLQQLLPTRSLIWIFSFLTSISIWCTVAHAETE</span><span class="topo-outside">GRVQHFTGYIEDGRGIFYSLPDMKQGDIIYASMQNTGGNLDPLVGIMAEEIDPAVSLGQVLEKALASENDLISELTAVADRIFLG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">WDDDGGKGYSASLEFTIPRDGTYHIFAGSTITNQRLDKFQPTYTTGSFQLILGLNAPQVISGEGEPEGEVFASLA</span><span class="topo-unknown">SLE</span><span class="topo-outside">IKPEAHVQELEIRLDKDTRYLTQHTRNLQPGDTFHALVEPIG</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">EAPLPRLRLTDSGGKPLAFGLIDQPGESVELNYTCDQDICELVVHVDGTDGQKDSGEAVYRLLVGINAPNLRESG</span><span class="topo-unknown">QTPVG</span><span class="topo-outside">SSVFLESDLVTVGLAVDQIVGVDQRSENFSVVGTLKLSWH</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">DPKLGFSPDQCGCTVKSFEDASIRAVAGEINLPLPSFSFYNQQGNRWSQNQVIFVTPDGRASYFERFTVTLQAPDFDFLAYPFDRQKFSIKVDLAVPTNMFIFNEIERFQQVVGDQLGEE</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">EWVVTSYSQEITEVPFERGSTNSRFTTTLLVKRNLEYYILR</span><span class="topo-membrane">IFVPLFLIISVSWVIFFL</span><span class="topo-inside">KDYGRQ</span><span class="topo-membrane">LEVASGNLLVFVAFNFTI</span><span class="topo-outside">SGDLPRLGYLTVLDR</span><span class="topo-membrane">FMIVSFCLTAIVVLISVC</span><span class="topo-inside">QKRL</span></span>
+<span class="topo-ruler">       610       620       630       640  </span>
 <span class="topo-line"><span class="topo-inside">GAVGKQAVAAQI</span><span class="topo-membrane">DTWVLVIYPLVYSLYIIW</span><span class="topo-outside">VYLRFF</span><span class="topo-unknown">TDHIGW</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -582,6 +593,7 @@ DeCLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from a Desul
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -597,17 +609,19 @@ DeCLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from a Desul
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MHNLQQLLPTRSLIWIFSFLTSISIWCTVAHAETE</span><span class="topo-outside">GRVQHFTGYIEDGRGIFYSLPDMKQ</span></span>
-<span class="topo-line"><span class="topo-outside">GDIIYASMQNTGGNLDPLVGIMAEEIDPAVSLGQVLEKALASENDLISELTAVADRIFLG</span></span>
-<span class="topo-line"><span class="topo-outside">WDDDGGKGYSASLEFTIPRDGTYHIFAGSTITNQRLDKFQPTYTTGSFQLILGLNAPQVI</span></span>
-<span class="topo-line"><span class="topo-outside">SGEGEPEGEVFASLA</span><span class="topo-unknown">SLE</span><span class="topo-outside">IKPEAHVQELEIRLDKDTRYLTQHTRNLQPGDTFHALVEPIG</span></span>
-<span class="topo-line"><span class="topo-outside">EAPLPRLRLTDSGGKPLAFGLIDQPGESVELNYTCDQDICELVVHVDGTDGQKDSGEAVY</span></span>
-<span class="topo-line"><span class="topo-outside">RLLVGINAPNL</span><span class="topo-unknown">RESGQTPVG</span><span class="topo-outside">SSVFLESDLVTVGLAVDQIVGVDQRSENFSVVGTLKLSWH</span></span>
-<span class="topo-line"><span class="topo-outside">DPKLGFSPDQCGCTVKSFEDASIRAVAGEINLPLPSFSFYNQQGNRWSQNQVIFVTPDGR</span></span>
-<span class="topo-line"><span class="topo-outside">ASYFERFTVTLQAPDFDFLAYPFDRQKFSIKVDLAVPTNMFIFNEIERFQQVVGDQLGEE</span></span>
-<span class="topo-line"><span class="topo-outside">EWVVTSYSQEITEVPFERGSTNSRFTTTLLVKRNLEYYIL</span><span class="topo-membrane">RIFVPLFLIISVSWVIFFL</span><span class="topo-inside">K</span></span>
-<span class="topo-line"><span class="topo-inside">DYGRQ</span><span class="topo-membrane">LEVASGNLLVFVAFNFTI</span><span class="topo-outside">SGDLPRLGYLTVL</span><span class="topo-membrane">DRFMIVSFCLTAIVVLIS</span><span class="topo-inside">VCQKRL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MHNLQQLLPTRSLIWIFSFLTSISIWCTVAHAETE</span><span class="topo-outside">GRVQHFTGYIEDGRGIFYSLPDMKQGDIIYASMQNTGGNLDPLVGIMAEEIDPAVSLGQVLEKALASENDLISELTAVADRIFLG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">WDDDGGKGYSASLEFTIPRDGTYHIFAGSTITNQRLDKFQPTYTTGSFQLILGLNAPQVISGEGEPEGEVFASLA</span><span class="topo-unknown">SLE</span><span class="topo-outside">IKPEAHVQELEIRLDKDTRYLTQHTRNLQPGDTFHALVEPIG</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">EAPLPRLRLTDSGGKPLAFGLIDQPGESVELNYTCDQDICELVVHVDGTDGQKDSGEAVYRLLVGINAPNL</span><span class="topo-unknown">RESGQTPVG</span><span class="topo-outside">SSVFLESDLVTVGLAVDQIVGVDQRSENFSVVGTLKLSWH</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">DPKLGFSPDQCGCTVKSFEDASIRAVAGEINLPLPSFSFYNQQGNRWSQNQVIFVTPDGRASYFERFTVTLQAPDFDFLAYPFDRQKFSIKVDLAVPTNMFIFNEIERFQQVVGDQLGEE</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">EWVVTSYSQEITEVPFERGSTNSRFTTTLLVKRNLEYYIL</span><span class="topo-membrane">RIFVPLFLIISVSWVIFFL</span><span class="topo-inside">KDYGRQ</span><span class="topo-membrane">LEVASGNLLVFVAFNFTI</span><span class="topo-outside">SGDLPRLGYLTVL</span><span class="topo-membrane">DRFMIVSFCLTAIVVLIS</span><span class="topo-inside">VCQKRL</span></span>
+<span class="topo-ruler">       610       620       630       640  </span>
 <span class="topo-line"><span class="topo-inside">GAVGKQAVAAQID</span><span class="topo-membrane">TWVLVIYPLVYSLYIIWVY</span><span class="topo-outside">LRFF</span><span class="topo-unknown">TDHIGW</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -696,6 +710,7 @@ DeCLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from a Desul
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

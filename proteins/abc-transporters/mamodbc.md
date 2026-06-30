@@ -121,12 +121,13 @@ intracellular substrate accumulation downregulates further uptake.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MIEIESLSRKWKNFSLDNLSLKVESGEYFVILGPTGAGKTLFLELIAGFHVPDSGRILLD</span></span>
-<span class="topo-line"><span class="topo-inside">GKDVTDLSPEKHDIAFVYQNYSLFPHMNVKKNLEFGMRMKKIKDPKRVLDTARDLKIEHL</span></span>
-<span class="topo-line"><span class="topo-inside">LDRNPLTLSGGEQQRVALARALVTNPKILLLDEPLSALDPRTQENAREMLSVLHKKNKLT</span></span>
-<span class="topo-line"><span class="topo-inside">VLHITHDQTEARIMADRIAVVMDGKLIQVGKPEEIFEKPVEGRVASFVGFENVLKGRVIS</span></span>
-<span class="topo-line"><span class="topo-inside">AEQGLLRIRVGEVVIDAAGDMEVGDQVYAFLRPENIALSKSSTQSSIRNSLQGRVTEAWV</span></span>
-<span class="topo-line"><span class="topo-inside">LGALVRVKVDCGVPLNVLITRRSAEEMELSPGVQIYARFKASSVHVLR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">MIEIESLSRKWKNFSLDNLSLKVESGEYFVILGPTGAGKTLFLELIAGFHVPDSGRILLDGKDVTDLSPEKHDIAFVYQNYSLFPHMNVKKNLEFGMRMKKIKDPKRVLDTARDLKIEHL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">LDRNPLTLSGGEQQRVALARALVTNPKILLLDEPLSALDPRTQENAREMLSVLHKKNKLTVLHITHDQTEARIMADRIAVVMDGKLIQVGKPEEIFEKPVEGRVASFVGFENVLKGRVIS</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340        </span>
+<span class="topo-line"><span class="topo-inside">AEQGLLRIRVGEVVIDAAGDMEVGDQVYAFLRPENIALSKSSTQSSIRNSLQGRVTEAWVLGALVRVKVDCGVPLNVLITRRSAEEMELSPGVQIYARFKASSVHVLR</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -145,6 +146,7 @@ intracellular substrate accumulation downregulates further uptake.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -160,12 +162,13 @@ intracellular substrate accumulation downregulates further uptake.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MIEIESLSRKWKNFSLDNLSLKVESGEYFVILGPTGAGKTLFLELIAGFHVPDSGRILLD</span></span>
-<span class="topo-line"><span class="topo-inside">GKDVTDLSPEKHDIAFVYQNYSLFPHMNVKKNLEFGMRMKKIKDPKRVLDTARDLKIEHL</span></span>
-<span class="topo-line"><span class="topo-inside">LDRNPLTLSGGEQQRVALARALVTNPKILLLDEPLSALDPRTQENAREMLSVLHKKNKLT</span></span>
-<span class="topo-line"><span class="topo-inside">VLHITHDQTEARIMADRIAVVMDGKLIQVGKPEEIFEKPVEGRVASFVGFENVLKGRVIS</span></span>
-<span class="topo-line"><span class="topo-inside">AEQGLLRIRVGEVVIDAAGDMEVGDQVYAFLRPENIALSKSSTQSSIRNSLQGRVTEAWV</span></span>
-<span class="topo-line"><span class="topo-inside">LGALVRVKVDCGVPLNVLITRRSAEEMELSPGVQIYARFKASSVHVLR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">MIEIESLSRKWKNFSLDNLSLKVESGEYFVILGPTGAGKTLFLELIAGFHVPDSGRILLDGKDVTDLSPEKHDIAFVYQNYSLFPHMNVKKNLEFGMRMKKIKDPKRVLDTARDLKIEHL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">LDRNPLTLSGGEQQRVALARALVTNPKILLLDEPLSALDPRTQENAREMLSVLHKKNKLTVLHITHDQTEARIMADRIAVVMDGKLIQVGKPEEIFEKPVEGRVASFVGFENVLKGRVIS</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340        </span>
+<span class="topo-line"><span class="topo-inside">AEQGLLRIRVGEVVIDAAGDMEVGDQVYAFLRPENIALSKSSTQSSIRNSLQGRVTEAWVLGALVRVKVDCGVPLNVLITRRSAEEMELSPGVQIYARFKASSVHVLR</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -184,6 +187,7 @@ intracellular substrate accumulation downregulates further uptake.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -199,11 +203,13 @@ intracellular substrate accumulation downregulates further uptake.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGHHHHHHHHHHSSGENLYFQGHMKAKNRKTRKFE</span><span class="topo-inside">PLTFV</span><span class="topo-membrane">FSFLLLVLFLFIFLTLSNMI</span></span>
-<span class="topo-line"><span class="topo-membrane">FE</span><span class="topo-outside">QITED</span><span class="topo-unknown">FSGLVKAAG</span><span class="topo-outside">NRSVISSI</span><span class="topo-membrane">FLSLYAGFLATLLALLLGAPTG</span><span class="topo-inside">YILARFDFPGKR</span><span class="topo-membrane">LV</span></span>
-<span class="topo-line"><span class="topo-membrane">ESIIDVPVVVPHTVAGIAL</span><span class="topo-outside">LTVFGSRGLIGEPLESYIQFRDAL</span><span class="topo-membrane">PGIVVAMLFVSMPYLAN</span></span>
-<span class="topo-line"><span class="topo-membrane">SA</span><span class="topo-inside">REGFKSVDPRLENAARSLGAP</span><span class="topo-unknown">LWKAFFF</span><span class="topo-inside">VTLPLSARYL</span><span class="topo-membrane">LIGSVMTWARAISEFGAV</span><span class="topo-outside">VI</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGHHHHHHHHHHSSGENLYFQGHMKAKNRKTRKFE</span><span class="topo-inside">PLTFV</span><span class="topo-membrane">FSFLLLVLFLFIFLTLSNMIFE</span><span class="topo-outside">QITED</span><span class="topo-unknown">FSGLVKAAG</span><span class="topo-outside">NRSVISSI</span><span class="topo-membrane">FLSLYAGFLATLLALLLGAPTG</span><span class="topo-inside">YILARFDFPGKR</span><span class="topo-membrane">LV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">ESIIDVPVVVPHTVAGIAL</span><span class="topo-outside">LTVFGSRGLIGEPLESYIQFRDAL</span><span class="topo-membrane">PGIVVAMLFVSMPYLANSA</span><span class="topo-inside">REGFKSVDPRLENAARSLGAP</span><span class="topo-unknown">LWKAFFF</span><span class="topo-inside">VTLPLSARYL</span><span class="topo-membrane">LIGSVMTWARAISEFGAV</span><span class="topo-outside">VI</span></span>
+<span class="topo-ruler">       250       260       270       280       290     </span>
 <span class="topo-line"><span class="topo-outside">LAYYPMVGPTLIYDRFISYGLSASRPIA</span><span class="topo-membrane">VLLILVTLSIFLVIR</span><span class="topo-unknown">TLSAGWSIYDRD</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -341,6 +347,7 @@ intracellular substrate accumulation downregulates further uptake.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -356,11 +363,13 @@ intracellular substrate accumulation downregulates further uptake.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGHHHHHHHHHHSSGENLYFQGHMKAKNRKTRKFE</span><span class="topo-inside">PLTF</span><span class="topo-membrane">VFSFLLLVLFLFIFLTLSNMI</span></span>
-<span class="topo-line"><span class="topo-membrane">FE</span><span class="topo-outside">QITED</span><span class="topo-unknown">FSGLVKAAG</span><span class="topo-outside">NRSVISSI</span><span class="topo-membrane">FLSLYAGFLATLLALLLGAPTG</span><span class="topo-inside">YILARFDFPGKR</span><span class="topo-membrane">LV</span></span>
-<span class="topo-line"><span class="topo-membrane">ESIIDVPVVVPHTVAGIAL</span><span class="topo-outside">LTVFGSRGLIGEPLESYIQFRDAL</span><span class="topo-membrane">PGIVVAMLFVSMPYLAN</span></span>
-<span class="topo-line"><span class="topo-membrane">SA</span><span class="topo-inside">REGFKSVDPRLENAARSLGAP</span><span class="topo-unknown">LWKAFFF</span><span class="topo-inside">VTLPLSARYL</span><span class="topo-membrane">LIGSVMTWARAISEFGAV</span><span class="topo-outside">VI</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGHHHHHHHHHHSSGENLYFQGHMKAKNRKTRKFE</span><span class="topo-inside">PLTF</span><span class="topo-membrane">VFSFLLLVLFLFIFLTLSNMIFE</span><span class="topo-outside">QITED</span><span class="topo-unknown">FSGLVKAAG</span><span class="topo-outside">NRSVISSI</span><span class="topo-membrane">FLSLYAGFLATLLALLLGAPTG</span><span class="topo-inside">YILARFDFPGKR</span><span class="topo-membrane">LV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">ESIIDVPVVVPHTVAGIAL</span><span class="topo-outside">LTVFGSRGLIGEPLESYIQFRDAL</span><span class="topo-membrane">PGIVVAMLFVSMPYLANSA</span><span class="topo-inside">REGFKSVDPRLENAARSLGAP</span><span class="topo-unknown">LWKAFFF</span><span class="topo-inside">VTLPLSARYL</span><span class="topo-membrane">LIGSVMTWARAISEFGAV</span><span class="topo-outside">VI</span></span>
+<span class="topo-ruler">       250       260       270       280       290     </span>
 <span class="topo-line"><span class="topo-outside">LAYYPMVGPTLIYDRFISYGLSASRPIA</span><span class="topo-membrane">VLLILVTLSIFLVIR</span><span class="topo-unknown">TLSAGWSIYDRD</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -498,6 +507,7 @@ intracellular substrate accumulation downregulates further uptake.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -513,12 +523,13 @@ intracellular substrate accumulation downregulates further uptake.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MIEIESLSRKWKNFSLDNLSLKVESGEYFVILGPTGAGKTLFLELIAGFHVPDSGRILLD</span></span>
-<span class="topo-line"><span class="topo-inside">GKDVTDLSPEKHDIAFVYQNYSLFPHMNVKKNLEFGMRMKKIKDPKRVLDTARDLKIEHL</span></span>
-<span class="topo-line"><span class="topo-inside">LDRNPLTLSGGEQQRVALARALVTNPKILLLDEPLSALDPRTQENAREMLSVLHKKNKLT</span></span>
-<span class="topo-line"><span class="topo-inside">VLHITHDQTEARIMADRIAVVMDGKLIQVGKPEEIFEKPVEGRVASFVGFENVLKGRVIS</span></span>
-<span class="topo-line"><span class="topo-inside">AEQGLLRIRVGEVVIDAAGDMEVGDQVYAFLRPENIALSKSSTQSSIRNSLQGRVTEAWV</span></span>
-<span class="topo-line"><span class="topo-inside">LGALVRVKVDCGVPLNVLITRRSAEEMELSPGVQIYARFKASSVHVLR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">MIEIESLSRKWKNFSLDNLSLKVESGEYFVILGPTGAGKTLFLELIAGFHVPDSGRILLDGKDVTDLSPEKHDIAFVYQNYSLFPHMNVKKNLEFGMRMKKIKDPKRVLDTARDLKIEHL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">LDRNPLTLSGGEQQRVALARALVTNPKILLLDEPLSALDPRTQENAREMLSVLHKKNKLTVLHITHDQTEARIMADRIAVVMDGKLIQVGKPEEIFEKPVEGRVASFVGFENVLKGRVIS</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340        </span>
+<span class="topo-line"><span class="topo-inside">AEQGLLRIRVGEVVIDAAGDMEVGDQVYAFLRPENIALSKSSTQSSIRNSLQGRVTEAWVLGALVRVKVDCGVPLNVLITRRSAEEMELSPGVQIYARFKASSVHVLR</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -537,6 +548,7 @@ intracellular substrate accumulation downregulates further uptake.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -552,12 +564,13 @@ intracellular substrate accumulation downregulates further uptake.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MIEIESLSRKWKNFSLDNLSLKVESGEYFVILGPTGAGKTLFLELIAGFHVPDSGRILLD</span></span>
-<span class="topo-line"><span class="topo-inside">GKDVTDLSPEKHDIAFVYQNYSLFPHMNVKKNLEFGMRMKKIKDPKRVLDTARDLKIEHL</span></span>
-<span class="topo-line"><span class="topo-inside">LDRNPLTLSGGEQQRVALARALVTNPKILLLDEPLSALDPRTQENAREMLSVLHKKNKLT</span></span>
-<span class="topo-line"><span class="topo-inside">VLHITHDQTEARIMADRIAVVMDGKLIQVGKPEEIFEKPVEGRVASFVGFENVLKGRVIS</span></span>
-<span class="topo-line"><span class="topo-inside">AEQGLLRIRVGEVVIDAAGDMEVGDQVYAFLRPENIALSKSSTQSSIRNSLQGRVTEAWV</span></span>
-<span class="topo-line"><span class="topo-inside">LGALVRVKVDCGVPLNVLITRRSAEEMELSPGVQIYARFKASSVHVLR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">MIEIESLSRKWKNFSLDNLSLKVESGEYFVILGPTGAGKTLFLELIAGFHVPDSGRILLDGKDVTDLSPEKHDIAFVYQNYSLFPHMNVKKNLEFGMRMKKIKDPKRVLDTARDLKIEHL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">LDRNPLTLSGGEQQRVALARALVTNPKILLLDEPLSALDPRTQENAREMLSVLHKKNKLTVLHITHDQTEARIMADRIAVVMDGKLIQVGKPEEIFEKPVEGRVASFVGFENVLKGRVIS</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340        </span>
+<span class="topo-line"><span class="topo-inside">AEQGLLRIRVGEVVIDAAGDMEVGDQVYAFLRPENIALSKSSTQSSIRNSLQGRVTEAWVLGALVRVKVDCGVPLNVLITRRSAEEMELSPGVQIYARFKASSVHVLR</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -576,6 +589,7 @@ intracellular substrate accumulation downregulates further uptake.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -591,11 +605,13 @@ intracellular substrate accumulation downregulates further uptake.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGHHHHHHHHHHSSGENLYFQGHMKAKNRKTRKFE</span><span class="topo-inside">PLTFV</span><span class="topo-membrane">FSFLLLVLFLFIFLTLSNMI</span></span>
-<span class="topo-line"><span class="topo-membrane">FE</span><span class="topo-outside">QITED</span><span class="topo-unknown">FSGLVKAAG</span><span class="topo-outside">NRSVISSI</span><span class="topo-membrane">FLSLYAGFLATLLALLLGAPTG</span><span class="topo-inside">YILARFDFPGKR</span><span class="topo-membrane">LV</span></span>
-<span class="topo-line"><span class="topo-membrane">ESIIDVPVVVPHTVAGIAL</span><span class="topo-outside">LTVFGSRGLIGEPLESYIQFRDAL</span><span class="topo-membrane">PGIVVAMLFVSMPYLAN</span></span>
-<span class="topo-line"><span class="topo-membrane">SA</span><span class="topo-inside">REGFKSVDPRLENAARSLGAP</span><span class="topo-unknown">LWKAFFF</span><span class="topo-inside">VTLPLSARYL</span><span class="topo-membrane">LIGSVMTWARAISEFGAV</span><span class="topo-outside">VI</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGHHHHHHHHHHSSGENLYFQGHMKAKNRKTRKFE</span><span class="topo-inside">PLTFV</span><span class="topo-membrane">FSFLLLVLFLFIFLTLSNMIFE</span><span class="topo-outside">QITED</span><span class="topo-unknown">FSGLVKAAG</span><span class="topo-outside">NRSVISSI</span><span class="topo-membrane">FLSLYAGFLATLLALLLGAPTG</span><span class="topo-inside">YILARFDFPGKR</span><span class="topo-membrane">LV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">ESIIDVPVVVPHTVAGIAL</span><span class="topo-outside">LTVFGSRGLIGEPLESYIQFRDAL</span><span class="topo-membrane">PGIVVAMLFVSMPYLANSA</span><span class="topo-inside">REGFKSVDPRLENAARSLGAP</span><span class="topo-unknown">LWKAFFF</span><span class="topo-inside">VTLPLSARYL</span><span class="topo-membrane">LIGSVMTWARAISEFGAV</span><span class="topo-outside">VI</span></span>
+<span class="topo-ruler">       250       260       270       280       290     </span>
 <span class="topo-line"><span class="topo-outside">LAYYPMVGPTLIYDRFISYGLSASRPIA</span><span class="topo-membrane">VLLILVTLSIFLVIR</span><span class="topo-unknown">TLSAGWSIYDRD</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -733,6 +749,7 @@ intracellular substrate accumulation downregulates further uptake.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -748,11 +765,13 @@ intracellular substrate accumulation downregulates further uptake.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGHHHHHHHHHHSSGENLYFQGHMKAKNRKTRKFE</span><span class="topo-inside">PLTF</span><span class="topo-membrane">VFSFLLLVLFLFIFLTLSNMI</span></span>
-<span class="topo-line"><span class="topo-membrane">FE</span><span class="topo-outside">QITED</span><span class="topo-unknown">FSGLVKAAG</span><span class="topo-outside">NRSVISSI</span><span class="topo-membrane">FLSLYAGFLATLLALLLGAPTG</span><span class="topo-inside">YILARFDFPGKR</span><span class="topo-membrane">LV</span></span>
-<span class="topo-line"><span class="topo-membrane">ESIIDVPVVVPHTVAGIAL</span><span class="topo-outside">LTVFGSRGLIGEPLESYIQFRDAL</span><span class="topo-membrane">PGIVVAMLFVSMPYLAN</span></span>
-<span class="topo-line"><span class="topo-membrane">SA</span><span class="topo-inside">REGFKSVDPRLENAARSLGAP</span><span class="topo-unknown">LWKAFFF</span><span class="topo-inside">VTLPLSARYL</span><span class="topo-membrane">LIGSVMTWARAISEFGAV</span><span class="topo-outside">VI</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGHHHHHHHHHHSSGENLYFQGHMKAKNRKTRKFE</span><span class="topo-inside">PLTF</span><span class="topo-membrane">VFSFLLLVLFLFIFLTLSNMIFE</span><span class="topo-outside">QITED</span><span class="topo-unknown">FSGLVKAAG</span><span class="topo-outside">NRSVISSI</span><span class="topo-membrane">FLSLYAGFLATLLALLLGAPTG</span><span class="topo-inside">YILARFDFPGKR</span><span class="topo-membrane">LV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">ESIIDVPVVVPHTVAGIAL</span><span class="topo-outside">LTVFGSRGLIGEPLESYIQFRDAL</span><span class="topo-membrane">PGIVVAMLFVSMPYLANSA</span><span class="topo-inside">REGFKSVDPRLENAARSLGAP</span><span class="topo-unknown">LWKAFFF</span><span class="topo-inside">VTLPLSARYL</span><span class="topo-membrane">LIGSVMTWARAISEFGAV</span><span class="topo-outside">VI</span></span>
+<span class="topo-ruler">       250       260       270       280       290     </span>
 <span class="topo-line"><span class="topo-outside">LAYYPMVGPTLIYDRFISYGLSASRPIA</span><span class="topo-membrane">VLLILVTLSIFLVIR</span><span class="topo-unknown">TLSAGWSIYDRD</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -890,6 +909,7 @@ intracellular substrate accumulation downregulates further uptake.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

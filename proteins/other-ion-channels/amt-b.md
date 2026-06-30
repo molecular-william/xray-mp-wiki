@@ -129,13 +129,15 @@ ordered water/ammonia molecules in the central pore.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">AP</span><span class="topo-outside">AVADKADNAFMMI</span><span class="topo-membrane">CTALVLFMTIPGIALFYG</span><span class="topo-inside">GLIRGKNVLSM</span><span class="topo-membrane">LTQVTVTFALVCILWV</span></span>
-<span class="topo-line"><span class="topo-membrane">VYG</span><span class="topo-outside">YSLASGEGNNFFGNINWLMLKNIELTAVMGSIYQYIHVA</span><span class="topo-membrane">FQGSFACITVGLIVGALA</span></span>
-<span class="topo-line"><span class="topo-inside">ERIRF</span><span class="topo-membrane">PAVLIFVVVWLTLSYIPIA</span><span class="topo-outside">HMVWGGGLLASHGALDFA</span><span class="topo-membrane">GGTVVHINAAIAGLVGAY</span></span>
-<span class="topo-line"><span class="topo-inside">LIGKRVGFGKEAFKPHNLP</span><span class="topo-membrane">MVFTGTAILYIGWFGFN</span><span class="topo-outside">AGSAGTANEIAALAF</span><span class="topo-membrane">VNTVVATAA</span></span>
-<span class="topo-line"><span class="topo-membrane">AILGWIFGEWA</span><span class="topo-inside">LRGLPSL</span><span class="topo-membrane">LGACSGAIAGLVGVTPAC</span><span class="topo-outside">GYIGV</span><span class="topo-membrane">GGALIIGVVAGLAGLWGVT</span></span>
-<span class="topo-line"><span class="topo-membrane">ML</span><span class="topo-inside">KRLLRVDDP</span><span class="topo-membrane">CDVFGVHGVCGIVGCIMT</span><span class="topo-outside">GIFAASSLGGVGFAEGVTMGHQLLVQ</span><span class="topo-membrane">LESIA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">AP</span><span class="topo-outside">AVADKADNAFMMI</span><span class="topo-membrane">CTALVLFMTIPGIALFYG</span><span class="topo-inside">GLIRGKNVLSM</span><span class="topo-membrane">LTQVTVTFALVCILWVVYG</span><span class="topo-outside">YSLASGEGNNFFGNINWLMLKNIELTAVMGSIYQYIHVA</span><span class="topo-membrane">FQGSFACITVGLIVGALA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">ERIRF</span><span class="topo-membrane">PAVLIFVVVWLTLSYIPIA</span><span class="topo-outside">HMVWGGGLLASHGALDFA</span><span class="topo-membrane">GGTVVHINAAIAGLVGAY</span><span class="topo-inside">LIGKRVGFGKEAFKPHNLP</span><span class="topo-membrane">MVFTGTAILYIGWFGFN</span><span class="topo-outside">AGSAGTANEIAALAF</span><span class="topo-membrane">VNTVVATAA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">AILGWIFGEWA</span><span class="topo-inside">LRGLPSL</span><span class="topo-membrane">LGACSGAIAGLVGVTPAC</span><span class="topo-outside">GYIGV</span><span class="topo-membrane">GGALIIGVVAGLAGLWGVTML</span><span class="topo-inside">KRLLRVDDP</span><span class="topo-membrane">CDVFGVHGVCGIVGCIMT</span><span class="topo-outside">GIFAASSLGGVGFAEGVTMGHQLLVQ</span><span class="topo-membrane">LESIA</span></span>
+<span class="topo-ruler">       370       380     </span>
 <span class="topo-line"><span class="topo-membrane">ITIVWSGVVAFIGYKLADLTV</span><span class="topo-inside">GLRV</span></span>
+<details class="topo-details"><summary>Topology coordinates (24 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -315,6 +317,7 @@ ordered water/ammonia molecules in the central pore.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -330,13 +333,15 @@ ordered water/ammonia molecules in the central pore.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">AP</span><span class="topo-outside">AVADKADNAFMMI</span><span class="topo-membrane">CTALVLFMTIPGIALFYG</span><span class="topo-inside">GLIRGKNVLSM</span><span class="topo-membrane">LTQVTVTFALVCILWV</span></span>
-<span class="topo-line"><span class="topo-membrane">VYG</span><span class="topo-outside">YSLASGEGNNFFGNINWLMLKNIELTAVMGSIYQYIHVA</span><span class="topo-membrane">FQGSFACITVGLIVGALA</span></span>
-<span class="topo-line"><span class="topo-inside">ERIRF</span><span class="topo-membrane">PAVLIFVVVWLTLSYIPIA</span><span class="topo-outside">HMVWGGGLLASHGALDFA</span><span class="topo-membrane">GGTVVHINAAIAGLVGAY</span></span>
-<span class="topo-line"><span class="topo-inside">LIGKRVGFGKEAFKPHNLP</span><span class="topo-membrane">MVFTGTAILYIGWFGFN</span><span class="topo-outside">AGSAGTANEIAALAF</span><span class="topo-membrane">VNTVVATAA</span></span>
-<span class="topo-line"><span class="topo-membrane">AILGWIFGEWA</span><span class="topo-inside">LRGLPSL</span><span class="topo-membrane">LGACSGAIAGLVGVTPAC</span><span class="topo-outside">GYIGV</span><span class="topo-membrane">GGALIIGVVAGLAGLWGVT</span></span>
-<span class="topo-line"><span class="topo-membrane">ML</span><span class="topo-inside">KRLLRVDDP</span><span class="topo-membrane">CDVFGVHGVCGIVGCIMT</span><span class="topo-outside">GIFAASSLGGVGFAEGVTMGHQLLVQ</span><span class="topo-membrane">LESIA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">AP</span><span class="topo-outside">AVADKADNAFMMI</span><span class="topo-membrane">CTALVLFMTIPGIALFYG</span><span class="topo-inside">GLIRGKNVLSM</span><span class="topo-membrane">LTQVTVTFALVCILWVVYG</span><span class="topo-outside">YSLASGEGNNFFGNINWLMLKNIELTAVMGSIYQYIHVA</span><span class="topo-membrane">FQGSFACITVGLIVGALA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">ERIRF</span><span class="topo-membrane">PAVLIFVVVWLTLSYIPIA</span><span class="topo-outside">HMVWGGGLLASHGALDFA</span><span class="topo-membrane">GGTVVHINAAIAGLVGAY</span><span class="topo-inside">LIGKRVGFGKEAFKPHNLP</span><span class="topo-membrane">MVFTGTAILYIGWFGFN</span><span class="topo-outside">AGSAGTANEIAALAF</span><span class="topo-membrane">VNTVVATAA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">AILGWIFGEWA</span><span class="topo-inside">LRGLPSL</span><span class="topo-membrane">LGACSGAIAGLVGVTPAC</span><span class="topo-outside">GYIGV</span><span class="topo-membrane">GGALIIGVVAGLAGLWGVTML</span><span class="topo-inside">KRLLRVDDP</span><span class="topo-membrane">CDVFGVHGVCGIVGCIMT</span><span class="topo-outside">GIFAASSLGGVGFAEGVTMGHQLLVQ</span><span class="topo-membrane">LESIA</span></span>
+<span class="topo-ruler">       370       380     </span>
 <span class="topo-line"><span class="topo-membrane">ITIVWSGVVAFIGYKLADLTV</span><span class="topo-inside">GLRV</span></span>
+<details class="topo-details"><summary>Topology coordinates (24 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -516,6 +521,7 @@ ordered water/ammonia molecules in the central pore.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -531,13 +537,15 @@ ordered water/ammonia molecules in the central pore.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">AP</span><span class="topo-outside">AVADKADNAFMMI</span><span class="topo-membrane">CTALVLFMTIPGIALFYG</span><span class="topo-inside">GLIRGKNVLSM</span><span class="topo-membrane">LTQVTVTFALVCILWV</span></span>
-<span class="topo-line"><span class="topo-membrane">VYG</span><span class="topo-outside">YSLASGEGNNFFGNINWLMLKNIELTAVMGSIYQYIHVA</span><span class="topo-membrane">FQGSFACITVGLIVGALA</span></span>
-<span class="topo-line"><span class="topo-inside">ERIRF</span><span class="topo-membrane">PAVLIFVVVWLTLSYIPIA</span><span class="topo-outside">HMVWGGGLLASHGALDFA</span><span class="topo-membrane">GGTVVHINAAIAGLVGAY</span></span>
-<span class="topo-line"><span class="topo-inside">LIGKRVGFGKEAFKPHNLP</span><span class="topo-membrane">MVFTGTAILYIGWFGFN</span><span class="topo-outside">AGSAGTANEIAALAF</span><span class="topo-membrane">VNTVVATAA</span></span>
-<span class="topo-line"><span class="topo-membrane">AILGWIFGEWA</span><span class="topo-inside">LRGLPSL</span><span class="topo-membrane">LGACSGAIAGLVGVTPAC</span><span class="topo-outside">GYIGV</span><span class="topo-membrane">GGALIIGVVAGLAGLWGVT</span></span>
-<span class="topo-line"><span class="topo-membrane">ML</span><span class="topo-inside">KRLLRVDDP</span><span class="topo-membrane">CDVFGVHGVCGIVGCIMT</span><span class="topo-outside">GIFAASSLGGVGFAEGVTMGHQLLVQ</span><span class="topo-membrane">LESIA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">AP</span><span class="topo-outside">AVADKADNAFMMI</span><span class="topo-membrane">CTALVLFMTIPGIALFYG</span><span class="topo-inside">GLIRGKNVLSM</span><span class="topo-membrane">LTQVTVTFALVCILWVVYG</span><span class="topo-outside">YSLASGEGNNFFGNINWLMLKNIELTAVMGSIYQYIHVA</span><span class="topo-membrane">FQGSFACITVGLIVGALA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">ERIRF</span><span class="topo-membrane">PAVLIFVVVWLTLSYIPIA</span><span class="topo-outside">HMVWGGGLLASHGALDFA</span><span class="topo-membrane">GGTVVHINAAIAGLVGAY</span><span class="topo-inside">LIGKRVGFGKEAFKPHNLP</span><span class="topo-membrane">MVFTGTAILYIGWFGFN</span><span class="topo-outside">AGSAGTANEIAALAF</span><span class="topo-membrane">VNTVVATAA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">AILGWIFGEWA</span><span class="topo-inside">LRGLPSL</span><span class="topo-membrane">LGACSGAIAGLVGVTPAC</span><span class="topo-outside">GYIGV</span><span class="topo-membrane">GGALIIGVVAGLAGLWGVTML</span><span class="topo-inside">KRLLRVDDP</span><span class="topo-membrane">CDVFGVHGVCGIVGCIMT</span><span class="topo-outside">GIFAASSLGGVGFAEGVTMGHQLLVQ</span><span class="topo-membrane">LESIA</span></span>
+<span class="topo-ruler">       370       380     </span>
 <span class="topo-line"><span class="topo-membrane">ITIVWSGVVAFIGYKLADLTV</span><span class="topo-inside">GLRV</span></span>
+<details class="topo-details"><summary>Topology coordinates (24 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -717,6 +725,7 @@ ordered water/ammonia molecules in the central pore.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -793,13 +802,15 @@ ordered water/ammonia molecules in the central pore.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">AP</span><span class="topo-inside">AVADKADNAFM</span><span class="topo-membrane">MICTALVLFMTIPGIALFYGGL</span><span class="topo-outside">IRGKNVL</span><span class="topo-membrane">SMLTQVTVTFALVCILWV</span></span>
-<span class="topo-line"><span class="topo-membrane">VYGYSLAF</span><span class="topo-inside">GEGNNFFGNINWLMLKNIELTAVMGSIYQYIHV</span><span class="topo-membrane">AFQGSFACITVGLIVGALA</span></span>
-<span class="topo-line"><span class="topo-outside">ERI</span><span class="topo-membrane">RFSAVLIFVVVWLTLSYIPIAHMVW</span><span class="topo-inside">GGGLLASHGA</span><span class="topo-membrane">LDFAGGTVVHINAAIAGLVGAY</span></span>
-<span class="topo-line"><span class="topo-membrane">L</span><span class="topo-outside">IGKRVGFGKEAFKPHNL</span><span class="topo-membrane">PMVFTGTAILYIGWFGFNAGS</span><span class="topo-inside">AGTANEIAAL</span><span class="topo-membrane">AFVNTVVATAA</span></span>
-<span class="topo-line"><span class="topo-membrane">AILGWIFGEWAL</span><span class="topo-outside">RGKP</span><span class="topo-membrane">SLLGACSGAIAGLVGVTPACG</span><span class="topo-inside">YI</span><span class="topo-membrane">GVGGALIIGVVAGLAGLWGVT</span></span>
-<span class="topo-line"><span class="topo-membrane">MLK</span><span class="topo-outside">RLLRVDD</span><span class="topo-membrane">PCDVFGVHGVCGIVGCIMTGIF</span><span class="topo-inside">AASSLGGVGFAEGVTMGHQ</span><span class="topo-membrane">LLVQLESIA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">AP</span><span class="topo-inside">AVADKADNAFM</span><span class="topo-membrane">MICTALVLFMTIPGIALFYGGL</span><span class="topo-outside">IRGKNVL</span><span class="topo-membrane">SMLTQVTVTFALVCILWVVYGYSLAF</span><span class="topo-inside">GEGNNFFGNINWLMLKNIELTAVMGSIYQYIHV</span><span class="topo-membrane">AFQGSFACITVGLIVGALA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">ERI</span><span class="topo-membrane">RFSAVLIFVVVWLTLSYIPIAHMVW</span><span class="topo-inside">GGGLLASHGA</span><span class="topo-membrane">LDFAGGTVVHINAAIAGLVGAYL</span><span class="topo-outside">IGKRVGFGKEAFKPHNL</span><span class="topo-membrane">PMVFTGTAILYIGWFGFNAGS</span><span class="topo-inside">AGTANEIAAL</span><span class="topo-membrane">AFVNTVVATAA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">AILGWIFGEWAL</span><span class="topo-outside">RGKP</span><span class="topo-membrane">SLLGACSGAIAGLVGVTPACG</span><span class="topo-inside">YI</span><span class="topo-membrane">GVGGALIIGVVAGLAGLWGVTMLK</span><span class="topo-outside">RLLRVDD</span><span class="topo-membrane">PCDVFGVHGVCGIVGCIMTGIF</span><span class="topo-inside">AASSLGGVGFAEGVTMGHQ</span><span class="topo-membrane">LLVQLESIA</span></span>
+<span class="topo-ruler">       370       380       390       400       410  </span>
 <span class="topo-line"><span class="topo-membrane">ITIVWSGVVAFIGYKLADLTV</span><span class="topo-outside">GLRVPEEQEREG</span><span class="topo-unknown">LDVNSH</span><span class="topo-outside">GENAYNA</span><span class="topo-unknown">GTLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (27 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1000,6 +1011,7 @@ ordered water/ammonia molecules in the central pore.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1015,8 +1027,9 @@ ordered water/ammonia molecules in the central pore.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GPG</span><span class="topo-outside">SMKLVTVIIKPFKLEDVREALSSIGIQGLTVTEVKGFGRQKGHAELYRGAEFSVNFL</span></span>
-<span class="topo-line"><span class="topo-outside">PKVKIDVAIADDQLDEVIDIVSKAAYTGKIGDGKIFVAELQRVIRIRTGEADEAAL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110      </span>
+<span class="topo-line"><span class="topo-unknown">GPG</span><span class="topo-outside">SMKLVTVIIKPFKLEDVREALSSIGIQGLTVTEVKGFGRQKGHAELYRGAEFSVNFLPKVKIDVAIADDQLDEVIDIVSKAAYTGKIGDGKIFVAELQRVIRIRTGEADEAAL</span></span>
+<details class="topo-details"><summary>Topology coordinates (2 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1042,6 +1055,7 @@ ordered water/ammonia molecules in the central pore.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1057,13 +1071,15 @@ ordered water/ammonia molecules in the central pore.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">AP</span><span class="topo-inside">AVADKADNAFM</span><span class="topo-membrane">MICTALVLFMTIPGIALFYGGL</span><span class="topo-outside">IRGKNVL</span><span class="topo-membrane">SMLTQVTVTFALVCILWV</span></span>
-<span class="topo-line"><span class="topo-membrane">VYGYSLAF</span><span class="topo-inside">GEGNNFFGNINWLMLKNIELTAVMGSIYQYIHV</span><span class="topo-membrane">AFQGSFACITVGLIVGALA</span></span>
-<span class="topo-line"><span class="topo-outside">ERI</span><span class="topo-membrane">RFSAVLIFVVVWLTLSYIPIAHMVW</span><span class="topo-inside">GGGLLASHGA</span><span class="topo-membrane">LDFAGGTVVHINAAIAGLVGAY</span></span>
-<span class="topo-line"><span class="topo-membrane">L</span><span class="topo-outside">IGKRVGFGKEAFKPHNL</span><span class="topo-membrane">PMVFTGTAILYIGWFGFNAGS</span><span class="topo-inside">AGTANEIAAL</span><span class="topo-membrane">AFVNTVVATAA</span></span>
-<span class="topo-line"><span class="topo-membrane">AILGWIFGEWAL</span><span class="topo-outside">RGKP</span><span class="topo-membrane">SLLGACSGAIAGLVGVTPACG</span><span class="topo-inside">YI</span><span class="topo-membrane">GVGGALIIGVVAGLAGLWGVT</span></span>
-<span class="topo-line"><span class="topo-membrane">MLK</span><span class="topo-outside">RLLRVDD</span><span class="topo-membrane">PCDVFGVHGVCGIVGCIMTGIF</span><span class="topo-inside">AASSLGGVGFAEGVTMGHQ</span><span class="topo-membrane">LLVQLESIA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">AP</span><span class="topo-inside">AVADKADNAFM</span><span class="topo-membrane">MICTALVLFMTIPGIALFYGGL</span><span class="topo-outside">IRGKNVL</span><span class="topo-membrane">SMLTQVTVTFALVCILWVVYGYSLAF</span><span class="topo-inside">GEGNNFFGNINWLMLKNIELTAVMGSIYQYIHV</span><span class="topo-membrane">AFQGSFACITVGLIVGALA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">ERI</span><span class="topo-membrane">RFSAVLIFVVVWLTLSYIPIAHMVW</span><span class="topo-inside">GGGLLASHGA</span><span class="topo-membrane">LDFAGGTVVHINAAIAGLVGAYL</span><span class="topo-outside">IGKRVGFGKEAFKPHNL</span><span class="topo-membrane">PMVFTGTAILYIGWFGFNAGS</span><span class="topo-inside">AGTANEIAAL</span><span class="topo-membrane">AFVNTVVATAA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">AILGWIFGEWAL</span><span class="topo-outside">RGKP</span><span class="topo-membrane">SLLGACSGAIAGLVGVTPACG</span><span class="topo-inside">YI</span><span class="topo-membrane">GVGGALIIGVVAGLAGLWGVTMLK</span><span class="topo-outside">RLLRVDD</span><span class="topo-membrane">PCDVFGVHGVCGIVGCIMTGIF</span><span class="topo-inside">AASSLGGVGFAEGVTMGHQ</span><span class="topo-membrane">LLVQLESIA</span></span>
+<span class="topo-ruler">       370       380       390       400       410  </span>
 <span class="topo-line"><span class="topo-membrane">ITIVWSGVVAFIGYKLADLTV</span><span class="topo-outside">GLRVPEEQEREG</span><span class="topo-unknown">LDVNSH</span><span class="topo-outside">GENAYNA</span><span class="topo-unknown">GTLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (27 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1264,6 +1280,7 @@ ordered water/ammonia molecules in the central pore.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1279,8 +1296,9 @@ ordered water/ammonia molecules in the central pore.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GPG</span><span class="topo-outside">SMKLVTVIIKPFKLEDVREALSSIGIQGLTVTEVKGFGRQKGHAELYRGAEFSVNFL</span></span>
-<span class="topo-line"><span class="topo-outside">PKVKIDVAIADDQLDEVIDIVSKAAYTGKIGDGKIFVAELQRVIRIRTGEADEAAL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110      </span>
+<span class="topo-line"><span class="topo-unknown">GPG</span><span class="topo-outside">SMKLVTVIIKPFKLEDVREALSSIGIQGLTVTEVKGFGRQKGHAELYRGAEFSVNFLPKVKIDVAIADDQLDEVIDIVSKAAYTGKIGDGKIFVAELQRVIRIRTGEADEAAL</span></span>
+<details class="topo-details"><summary>Topology coordinates (2 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1306,6 +1324,7 @@ ordered water/ammonia molecules in the central pore.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1321,13 +1340,15 @@ ordered water/ammonia molecules in the central pore.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">AP</span><span class="topo-inside">AVADKADNAFM</span><span class="topo-membrane">MICTALVLFMTIPGIALFYGGL</span><span class="topo-outside">IRGKNVL</span><span class="topo-membrane">SMLTQVTVTFALVCILWV</span></span>
-<span class="topo-line"><span class="topo-membrane">VYGYSLAF</span><span class="topo-inside">GEGNNFFGNINWLMLKNIELTAVMGSIYQYIHV</span><span class="topo-membrane">AFQGSFACITVGLIVGALA</span></span>
-<span class="topo-line"><span class="topo-outside">ERI</span><span class="topo-membrane">RFSAVLIFVVVWLTLSYIPIAHMVW</span><span class="topo-inside">GGGLLASHGA</span><span class="topo-membrane">LDFAGGTVVHINAAIAGLVGAY</span></span>
-<span class="topo-line"><span class="topo-membrane">L</span><span class="topo-outside">IGKRVGFGKEAFKPHNL</span><span class="topo-membrane">PMVFTGTAILYIGWFGFNAGS</span><span class="topo-inside">AGTANEIAAL</span><span class="topo-membrane">AFVNTVVATAA</span></span>
-<span class="topo-line"><span class="topo-membrane">AILGWIFGEWAL</span><span class="topo-outside">RGKP</span><span class="topo-membrane">SLLGACSGAIAGLVGVTPACG</span><span class="topo-inside">YI</span><span class="topo-membrane">GVGGALIIGVVAGLAGLWGVT</span></span>
-<span class="topo-line"><span class="topo-membrane">MLK</span><span class="topo-outside">RLLRVDD</span><span class="topo-membrane">PCDVFGVHGVCGIVGCIMTGIF</span><span class="topo-inside">AASSLGGVGFAEGVTMGHQ</span><span class="topo-membrane">LLVQLESIA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">AP</span><span class="topo-inside">AVADKADNAFM</span><span class="topo-membrane">MICTALVLFMTIPGIALFYGGL</span><span class="topo-outside">IRGKNVL</span><span class="topo-membrane">SMLTQVTVTFALVCILWVVYGYSLAF</span><span class="topo-inside">GEGNNFFGNINWLMLKNIELTAVMGSIYQYIHV</span><span class="topo-membrane">AFQGSFACITVGLIVGALA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">ERI</span><span class="topo-membrane">RFSAVLIFVVVWLTLSYIPIAHMVW</span><span class="topo-inside">GGGLLASHGA</span><span class="topo-membrane">LDFAGGTVVHINAAIAGLVGAYL</span><span class="topo-outside">IGKRVGFGKEAFKPHNL</span><span class="topo-membrane">PMVFTGTAILYIGWFGFNAGS</span><span class="topo-inside">AGTANEIAAL</span><span class="topo-membrane">AFVNTVVATAA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">AILGWIFGEWAL</span><span class="topo-outside">RGKP</span><span class="topo-membrane">SLLGACSGAIAGLVGVTPACG</span><span class="topo-inside">YI</span><span class="topo-membrane">GVGGALIIGVVAGLAGLWGVTMLK</span><span class="topo-outside">RLLRVDD</span><span class="topo-membrane">PCDVFGVHGVCGIVGCIMTGIF</span><span class="topo-inside">AASSLGGVGFAEGVTMGHQ</span><span class="topo-membrane">LLVQLESIA</span></span>
+<span class="topo-ruler">       370       380       390       400       410  </span>
 <span class="topo-line"><span class="topo-membrane">ITIVWSGVVAFIGYKLADLTV</span><span class="topo-outside">GLRVPEEQEREG</span><span class="topo-unknown">LDVNSH</span><span class="topo-outside">GENAYNA</span><span class="topo-unknown">GTLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (27 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1528,6 +1549,7 @@ ordered water/ammonia molecules in the central pore.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1543,8 +1565,9 @@ ordered water/ammonia molecules in the central pore.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GPG</span><span class="topo-outside">SMKLVTVIIKPFKLEDVREALSSIGIQGLTVTEVKGFGRQKGHAELYRGAEFSVNFL</span></span>
-<span class="topo-line"><span class="topo-outside">PKVKIDVAIADDQLDEVIDIVSKAAYTGKIGDGKIFVAELQRVIRIRTGEADEAAL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110      </span>
+<span class="topo-line"><span class="topo-unknown">GPG</span><span class="topo-outside">SMKLVTVIIKPFKLEDVREALSSIGIQGLTVTEVKGFGRQKGHAELYRGAEFSVNFLPKVKIDVAIADDQLDEVIDIVSKAAYTGKIGDGKIFVAELQRVIRIRTGEADEAAL</span></span>
+<details class="topo-details"><summary>Topology coordinates (2 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1570,6 +1593,7 @@ ordered water/ammonia molecules in the central pore.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1654,13 +1678,15 @@ ordered water/ammonia molecules in the central pore.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">GASVADKADNAFMM</span><span class="topo-membrane">ICTALVLFMTIPGIALF</span><span class="topo-inside">YGGLIRGKNVLSMLTQ</span><span class="topo-membrane">VTVTFALVCILWV</span></span>
-<span class="topo-line"><span class="topo-membrane">VYGY</span><span class="topo-outside">SLAFGEGNNFFGNINWLMLKNIELTAVMGSIYQYIHV</span><span class="topo-membrane">AFQGSFACITVGLIVG</span><span class="topo-inside">ALA</span></span>
-<span class="topo-line"><span class="topo-inside">ERIRFSAV</span><span class="topo-membrane">LIFVVVWLTLSYIPIAHMV</span><span class="topo-outside">WGGGLLASHGALD</span><span class="topo-membrane">FAGGTVVHINAAIAGLV</span><span class="topo-inside">GAY</span></span>
-<span class="topo-line"><span class="topo-inside">LIG</span><span class="topo-unknown">KRVGFGKEAF</span><span class="topo-inside">KPHNLPMVF</span><span class="topo-membrane">TGTAILYIGWFGFNAGS</span><span class="topo-outside">AGTANEIAALA</span><span class="topo-membrane">FVNTVVATAA</span></span>
-<span class="topo-line"><span class="topo-membrane">AILGWIFG</span><span class="topo-inside">EWALRGKPSLLGA</span><span class="topo-membrane">CSGAIAGLVGVTPAC</span><span class="topo-outside">GYIGV</span><span class="topo-membrane">GGALIIGVVAGLAGLWG</span><span class="topo-inside">VT</span></span>
-<span class="topo-line"><span class="topo-inside">MLKR</span><span class="topo-unknown">LLRVDD</span><span class="topo-inside">PCDV</span><span class="topo-membrane">FGVHGVCGIVGCIMTGIF</span><span class="topo-outside">AASSLGGVGFAEGVTMGHQL</span><span class="topo-membrane">LVQLESIA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">GASVADKADNAFMM</span><span class="topo-membrane">ICTALVLFMTIPGIALF</span><span class="topo-inside">YGGLIRGKNVLSMLTQ</span><span class="topo-membrane">VTVTFALVCILWVVYGY</span><span class="topo-outside">SLAFGEGNNFFGNINWLMLKNIELTAVMGSIYQYIHV</span><span class="topo-membrane">AFQGSFACITVGLIVG</span><span class="topo-inside">ALA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">ERIRFSAV</span><span class="topo-membrane">LIFVVVWLTLSYIPIAHMV</span><span class="topo-outside">WGGGLLASHGALD</span><span class="topo-membrane">FAGGTVVHINAAIAGLV</span><span class="topo-inside">GAYLIG</span><span class="topo-unknown">KRVGFGKEAF</span><span class="topo-inside">KPHNLPMVF</span><span class="topo-membrane">TGTAILYIGWFGFNAGS</span><span class="topo-outside">AGTANEIAALA</span><span class="topo-membrane">FVNTVVATAA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">AILGWIFG</span><span class="topo-inside">EWALRGKPSLLGA</span><span class="topo-membrane">CSGAIAGLVGVTPAC</span><span class="topo-outside">GYIGV</span><span class="topo-membrane">GGALIIGVVAGLAGLWG</span><span class="topo-inside">VTMLKR</span><span class="topo-unknown">LLRVDD</span><span class="topo-inside">PCDV</span><span class="topo-membrane">FGVHGVCGIVGCIMTGIF</span><span class="topo-outside">AASSLGGVGFAEGVTMGHQL</span><span class="topo-membrane">LVQLESIA</span></span>
+<span class="topo-ruler">       370       380       390       400      </span>
 <span class="topo-line"><span class="topo-membrane">ITIVWSGVVAFIGYKLA</span><span class="topo-inside">DLTVGLRV</span><span class="topo-unknown">PEEQEREGLDVNSHGENAYNA</span></span>
+<details class="topo-details"><summary>Topology coordinates (25 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1847,6 +1873,7 @@ ordered water/ammonia molecules in the central pore.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1862,13 +1889,15 @@ ordered water/ammonia molecules in the central pore.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">GASVADKADNAFMM</span><span class="topo-membrane">ICTALVLFMTIPGIALF</span><span class="topo-inside">YGGLIRGKNVLSMLTQ</span><span class="topo-membrane">VTVTFALVCILWV</span></span>
-<span class="topo-line"><span class="topo-membrane">VYGY</span><span class="topo-outside">SLAFGEGNNFFGNINWLMLKNIELTAVMGSIYQYIHV</span><span class="topo-membrane">AFQGSFACITVGLIVG</span><span class="topo-inside">ALA</span></span>
-<span class="topo-line"><span class="topo-inside">ERIRFSAV</span><span class="topo-membrane">LIFVVVWLTLSYIPIAHMV</span><span class="topo-outside">WGGGLLASHGALD</span><span class="topo-membrane">FAGGTVVHINAAIAGLV</span><span class="topo-inside">GAY</span></span>
-<span class="topo-line"><span class="topo-inside">LIG</span><span class="topo-unknown">KRVGFGKEAF</span><span class="topo-inside">KPHNLPMVF</span><span class="topo-membrane">TGTAILYIGWFGFNAGS</span><span class="topo-outside">AGTANEIAALA</span><span class="topo-membrane">FVNTVVATAA</span></span>
-<span class="topo-line"><span class="topo-membrane">AILGWIFG</span><span class="topo-inside">EWALRGKPSLLGA</span><span class="topo-membrane">CSGAIAGLVGVTPAC</span><span class="topo-outside">GYIGV</span><span class="topo-membrane">GGALIIGVVAGLAGLWG</span><span class="topo-inside">VT</span></span>
-<span class="topo-line"><span class="topo-inside">MLKR</span><span class="topo-unknown">LLRVDD</span><span class="topo-inside">PCDV</span><span class="topo-membrane">FGVHGVCGIVGCIMTGIF</span><span class="topo-outside">AASSLGGVGFAEGVTMGHQL</span><span class="topo-membrane">LVQLESIA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">GASVADKADNAFMM</span><span class="topo-membrane">ICTALVLFMTIPGIALF</span><span class="topo-inside">YGGLIRGKNVLSMLTQ</span><span class="topo-membrane">VTVTFALVCILWVVYGY</span><span class="topo-outside">SLAFGEGNNFFGNINWLMLKNIELTAVMGSIYQYIHV</span><span class="topo-membrane">AFQGSFACITVGLIVG</span><span class="topo-inside">ALA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">ERIRFSAV</span><span class="topo-membrane">LIFVVVWLTLSYIPIAHMV</span><span class="topo-outside">WGGGLLASHGALD</span><span class="topo-membrane">FAGGTVVHINAAIAGLV</span><span class="topo-inside">GAYLIG</span><span class="topo-unknown">KRVGFGKEAF</span><span class="topo-inside">KPHNLPMVF</span><span class="topo-membrane">TGTAILYIGWFGFNAGS</span><span class="topo-outside">AGTANEIAALA</span><span class="topo-membrane">FVNTVVATAA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">AILGWIFG</span><span class="topo-inside">EWALRGKPSLLGA</span><span class="topo-membrane">CSGAIAGLVGVTPAC</span><span class="topo-outside">GYIGV</span><span class="topo-membrane">GGALIIGVVAGLAGLWG</span><span class="topo-inside">VTMLKR</span><span class="topo-unknown">LLRVDD</span><span class="topo-inside">PCDV</span><span class="topo-membrane">FGVHGVCGIVGCIMTGIF</span><span class="topo-outside">AASSLGGVGFAEGVTMGHQL</span><span class="topo-membrane">LVQLESIA</span></span>
+<span class="topo-ruler">       370       380       390       400      </span>
 <span class="topo-line"><span class="topo-membrane">ITIVWSGVVAFIGYKLA</span><span class="topo-inside">DLTVGLRV</span><span class="topo-unknown">PEEQEREGLDVNSHGENAYNA</span></span>
+<details class="topo-details"><summary>Topology coordinates (25 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2055,6 +2084,7 @@ ordered water/ammonia molecules in the central pore.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2070,13 +2100,15 @@ ordered water/ammonia molecules in the central pore.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">GASVADKADNAFMM</span><span class="topo-membrane">ICTALVLFMTIPGIALF</span><span class="topo-inside">YGGLIRGKNVLSMLTQ</span><span class="topo-membrane">VTVTFALVCILWV</span></span>
-<span class="topo-line"><span class="topo-membrane">VYGY</span><span class="topo-outside">SLAFGEGNNFFGNINWLMLKNIELTAVMGSIYQYIHV</span><span class="topo-membrane">AFQGSFACITVGLIVG</span><span class="topo-inside">ALA</span></span>
-<span class="topo-line"><span class="topo-inside">ERIRFSAV</span><span class="topo-membrane">LIFVVVWLTLSYIPIAHMV</span><span class="topo-outside">WGGGLLASHGALD</span><span class="topo-membrane">FAGGTVVHINAAIAGLV</span><span class="topo-inside">GAY</span></span>
-<span class="topo-line"><span class="topo-inside">LIG</span><span class="topo-unknown">KRVGFGKEAF</span><span class="topo-inside">KPHNLPMVF</span><span class="topo-membrane">TGTAILYIGWFGFNAGS</span><span class="topo-outside">AGTANEIAALA</span><span class="topo-membrane">FVNTVVATAA</span></span>
-<span class="topo-line"><span class="topo-membrane">AILGWIFG</span><span class="topo-inside">EWALRGKPSLLGA</span><span class="topo-membrane">CSGAIAGLVGVTPAC</span><span class="topo-outside">GYIGV</span><span class="topo-membrane">GGALIIGVVAGLAGLWG</span><span class="topo-inside">VT</span></span>
-<span class="topo-line"><span class="topo-inside">MLKR</span><span class="topo-unknown">LLRVDD</span><span class="topo-inside">PCDV</span><span class="topo-membrane">FGVHGVCGIVGCIMTGIF</span><span class="topo-outside">AASSLGGVGFAEGVTMGHQL</span><span class="topo-membrane">LVQLESIA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">GASVADKADNAFMM</span><span class="topo-membrane">ICTALVLFMTIPGIALF</span><span class="topo-inside">YGGLIRGKNVLSMLTQ</span><span class="topo-membrane">VTVTFALVCILWVVYGY</span><span class="topo-outside">SLAFGEGNNFFGNINWLMLKNIELTAVMGSIYQYIHV</span><span class="topo-membrane">AFQGSFACITVGLIVG</span><span class="topo-inside">ALA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">ERIRFSAV</span><span class="topo-membrane">LIFVVVWLTLSYIPIAHMV</span><span class="topo-outside">WGGGLLASHGALD</span><span class="topo-membrane">FAGGTVVHINAAIAGLV</span><span class="topo-inside">GAYLIG</span><span class="topo-unknown">KRVGFGKEAF</span><span class="topo-inside">KPHNLPMVF</span><span class="topo-membrane">TGTAILYIGWFGFNAGS</span><span class="topo-outside">AGTANEIAALA</span><span class="topo-membrane">FVNTVVATAA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">AILGWIFG</span><span class="topo-inside">EWALRGKPSLLGA</span><span class="topo-membrane">CSGAIAGLVGVTPAC</span><span class="topo-outside">GYIGV</span><span class="topo-membrane">GGALIIGVVAGLAGLWG</span><span class="topo-inside">VTMLKR</span><span class="topo-unknown">LLRVDD</span><span class="topo-inside">PCDV</span><span class="topo-membrane">FGVHGVCGIVGCIMTGIF</span><span class="topo-outside">AASSLGGVGFAEGVTMGHQL</span><span class="topo-membrane">LVQLESIA</span></span>
+<span class="topo-ruler">       370       380       390       400      </span>
 <span class="topo-line"><span class="topo-membrane">ITIVWSGVVAFIGYKLA</span><span class="topo-inside">DLTVGLRV</span><span class="topo-unknown">PEEQEREGLDVNSHGENAYNA</span></span>
+<details class="topo-details"><summary>Topology coordinates (25 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2263,6 +2295,7 @@ ordered water/ammonia molecules in the central pore.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2393,13 +2426,15 @@ ordered water/ammonia molecules in the central pore.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">GASVADKADNAFMMI</span><span class="topo-membrane">CTALVLFMTIPGIALFY</span><span class="topo-inside">GGLIRGKNVLSML</span><span class="topo-membrane">TQVTVTFALVCILWV</span></span>
-<span class="topo-line"><span class="topo-membrane">VYGY</span><span class="topo-outside">SLAFGEGNNFFGNINWLMLKNIELTAVMGSIYQYIHVA</span><span class="topo-membrane">FQGSFACITVGLIVGA</span><span class="topo-inside">LA</span></span>
-<span class="topo-line"><span class="topo-inside">ERIRFS</span><span class="topo-membrane">AVLIFVVVWLTLSYIPIA</span><span class="topo-outside">HMVWGGGLLASHGALD</span><span class="topo-membrane">FAGGTVVHINAAIAGLVG</span><span class="topo-inside">AY</span></span>
-<span class="topo-line"><span class="topo-inside">LI</span><span class="topo-unknown">GKRVGFGKEAFK</span><span class="topo-inside">PHNLPMV</span><span class="topo-membrane">FTGTAILYIGWFGFNA</span><span class="topo-outside">GSAGTANEIAALA</span><span class="topo-membrane">FVNTVVATAA</span></span>
-<span class="topo-line"><span class="topo-membrane">AILGWIFG</span><span class="topo-inside">EWALRGKPSLLG</span><span class="topo-membrane">ACSGAIAGLVGVTPAC</span><span class="topo-outside">GYIGV</span><span class="topo-membrane">GGALIIGVVAGLAGLWGV</span><span class="topo-inside">T</span></span>
-<span class="topo-line"><span class="topo-inside">M</span><span class="topo-unknown">LKRLLRVDDP</span><span class="topo-inside">CD</span><span class="topo-membrane">VFGVHGVCGIVGCIMTGI</span><span class="topo-outside">FAASSLGGVGFAEGVTMGHQLLVQ</span><span class="topo-membrane">LESIA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">GASVADKADNAFMMI</span><span class="topo-membrane">CTALVLFMTIPGIALFY</span><span class="topo-inside">GGLIRGKNVLSML</span><span class="topo-membrane">TQVTVTFALVCILWVVYGY</span><span class="topo-outside">SLAFGEGNNFFGNINWLMLKNIELTAVMGSIYQYIHVA</span><span class="topo-membrane">FQGSFACITVGLIVGA</span><span class="topo-inside">LA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">ERIRFS</span><span class="topo-membrane">AVLIFVVVWLTLSYIPIA</span><span class="topo-outside">HMVWGGGLLASHGALD</span><span class="topo-membrane">FAGGTVVHINAAIAGLVG</span><span class="topo-inside">AYLI</span><span class="topo-unknown">GKRVGFGKEAFK</span><span class="topo-inside">PHNLPMV</span><span class="topo-membrane">FTGTAILYIGWFGFNA</span><span class="topo-outside">GSAGTANEIAALA</span><span class="topo-membrane">FVNTVVATAA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">AILGWIFG</span><span class="topo-inside">EWALRGKPSLLG</span><span class="topo-membrane">ACSGAIAGLVGVTPAC</span><span class="topo-outside">GYIGV</span><span class="topo-membrane">GGALIIGVVAGLAGLWGV</span><span class="topo-inside">TM</span><span class="topo-unknown">LKRLLRVDDP</span><span class="topo-inside">CD</span><span class="topo-membrane">VFGVHGVCGIVGCIMTGI</span><span class="topo-outside">FAASSLGGVGFAEGVTMGHQLLVQ</span><span class="topo-membrane">LESIA</span></span>
+<span class="topo-ruler">       370       380       390       400      </span>
 <span class="topo-line"><span class="topo-membrane">ITIVWSGVVAFIGYKLA</span><span class="topo-inside">DLTVGLRV</span><span class="topo-unknown">PEEQEREGLDVNSHGENAYNA</span></span>
+<details class="topo-details"><summary>Topology coordinates (28 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2607,6 +2642,7 @@ ordered water/ammonia molecules in the central pore.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2622,13 +2658,15 @@ ordered water/ammonia molecules in the central pore.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">GASVADKADNAFMMI</span><span class="topo-membrane">CTALVLFMTIPGIALFY</span><span class="topo-inside">GGLIRGKNVLSML</span><span class="topo-membrane">TQVTVTFALVCILWV</span></span>
-<span class="topo-line"><span class="topo-membrane">VYGY</span><span class="topo-outside">SLAFGEGNNFFGNINWLMLKNIELTAVMGSIYQYIHVA</span><span class="topo-membrane">FQGSFACITVGLIVGA</span><span class="topo-inside">LA</span></span>
-<span class="topo-line"><span class="topo-inside">ERIRFS</span><span class="topo-membrane">AVLIFVVVWLTLSYIPIA</span><span class="topo-outside">HMVWGGGLLASHGALD</span><span class="topo-membrane">FAGGTVVHINAAIAGLVG</span><span class="topo-inside">AY</span></span>
-<span class="topo-line"><span class="topo-inside">LIGK</span><span class="topo-unknown">RVGFGKEAFKP</span><span class="topo-inside">HNLPMV</span><span class="topo-membrane">FTGTAILYIGWFGFNA</span><span class="topo-outside">GSAGTANEIAALA</span><span class="topo-membrane">FVNTVVATAA</span></span>
-<span class="topo-line"><span class="topo-membrane">AILGWIFG</span><span class="topo-inside">EWALRGKPSLLG</span><span class="topo-membrane">ACSGAIAGLVGVTPAC</span><span class="topo-outside">GYIGV</span><span class="topo-membrane">GGALIIGVVAGLAGLWGV</span><span class="topo-inside">T</span></span>
-<span class="topo-line"><span class="topo-inside">ML</span><span class="topo-unknown">KRLLRVD</span><span class="topo-inside">DPCD</span><span class="topo-membrane">VFGVHGVCGIVGCIMTGI</span><span class="topo-outside">FAASSLGGVGFAEGVTMGHQLLVQ</span><span class="topo-membrane">LESIA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">GASVADKADNAFMMI</span><span class="topo-membrane">CTALVLFMTIPGIALFY</span><span class="topo-inside">GGLIRGKNVLSML</span><span class="topo-membrane">TQVTVTFALVCILWVVYGY</span><span class="topo-outside">SLAFGEGNNFFGNINWLMLKNIELTAVMGSIYQYIHVA</span><span class="topo-membrane">FQGSFACITVGLIVGA</span><span class="topo-inside">LA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">ERIRFS</span><span class="topo-membrane">AVLIFVVVWLTLSYIPIA</span><span class="topo-outside">HMVWGGGLLASHGALD</span><span class="topo-membrane">FAGGTVVHINAAIAGLVG</span><span class="topo-inside">AYLIGK</span><span class="topo-unknown">RVGFGKEAFKP</span><span class="topo-inside">HNLPMV</span><span class="topo-membrane">FTGTAILYIGWFGFNA</span><span class="topo-outside">GSAGTANEIAALA</span><span class="topo-membrane">FVNTVVATAA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">AILGWIFG</span><span class="topo-inside">EWALRGKPSLLG</span><span class="topo-membrane">ACSGAIAGLVGVTPAC</span><span class="topo-outside">GYIGV</span><span class="topo-membrane">GGALIIGVVAGLAGLWGV</span><span class="topo-inside">TML</span><span class="topo-unknown">KRLLRVD</span><span class="topo-inside">DPCD</span><span class="topo-membrane">VFGVHGVCGIVGCIMTGI</span><span class="topo-outside">FAASSLGGVGFAEGVTMGHQLLVQ</span><span class="topo-membrane">LESIA</span></span>
+<span class="topo-ruler">       370       380       390       400      </span>
 <span class="topo-line"><span class="topo-membrane">ITIVWSGVVAFIGYKLA</span><span class="topo-inside">DLTVGLRV</span><span class="topo-unknown">PEEQEREGLDVNSHGENAYNA</span></span>
+<details class="topo-details"><summary>Topology coordinates (28 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2836,6 +2874,7 @@ ordered water/ammonia molecules in the central pore.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2851,13 +2890,15 @@ ordered water/ammonia molecules in the central pore.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">GASVADKADNAFMMI</span><span class="topo-membrane">CTALVLFMTIPGIALFY</span><span class="topo-inside">GGLIRGKNVLSML</span><span class="topo-membrane">TQVTVTFALVCILWV</span></span>
-<span class="topo-line"><span class="topo-membrane">VYGY</span><span class="topo-outside">SLAFGEGNNFFGNINWLMLKNIELTAVMGSIYQYIHVA</span><span class="topo-membrane">FQGSFACITVGLIVGA</span><span class="topo-inside">LA</span></span>
-<span class="topo-line"><span class="topo-inside">ERIRFS</span><span class="topo-membrane">AVLIFVVVWLTLSYIPIA</span><span class="topo-outside">HMVWGGGLLASHGALD</span><span class="topo-membrane">FAGGTVVHINAAIAGLVG</span><span class="topo-inside">AY</span></span>
-<span class="topo-line"><span class="topo-inside">LIG</span><span class="topo-unknown">KRVGFGKEAFK</span><span class="topo-inside">PHNLPMV</span><span class="topo-membrane">FTGTAILYIGWFGFNA</span><span class="topo-outside">GSAGTANEIAALA</span><span class="topo-membrane">FVNTVVATAA</span></span>
-<span class="topo-line"><span class="topo-membrane">AILGWIFG</span><span class="topo-inside">EWALRGKPSLLG</span><span class="topo-membrane">ACSGAIAGLVGVTPAC</span><span class="topo-outside">GYIGV</span><span class="topo-membrane">GGALIIGVVAGLAGLWGV</span><span class="topo-inside">T</span></span>
-<span class="topo-line"><span class="topo-inside">ML</span><span class="topo-unknown">KRLLRV</span><span class="topo-inside">DDPCD</span><span class="topo-membrane">VFGVHGVCGIVGCIMTGI</span><span class="topo-outside">FAASSLGGVGFAEGVTMGHQLLVQ</span><span class="topo-membrane">LESIA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">GASVADKADNAFMMI</span><span class="topo-membrane">CTALVLFMTIPGIALFY</span><span class="topo-inside">GGLIRGKNVLSML</span><span class="topo-membrane">TQVTVTFALVCILWVVYGY</span><span class="topo-outside">SLAFGEGNNFFGNINWLMLKNIELTAVMGSIYQYIHVA</span><span class="topo-membrane">FQGSFACITVGLIVGA</span><span class="topo-inside">LA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">ERIRFS</span><span class="topo-membrane">AVLIFVVVWLTLSYIPIA</span><span class="topo-outside">HMVWGGGLLASHGALD</span><span class="topo-membrane">FAGGTVVHINAAIAGLVG</span><span class="topo-inside">AYLIG</span><span class="topo-unknown">KRVGFGKEAFK</span><span class="topo-inside">PHNLPMV</span><span class="topo-membrane">FTGTAILYIGWFGFNA</span><span class="topo-outside">GSAGTANEIAALA</span><span class="topo-membrane">FVNTVVATAA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">AILGWIFG</span><span class="topo-inside">EWALRGKPSLLG</span><span class="topo-membrane">ACSGAIAGLVGVTPAC</span><span class="topo-outside">GYIGV</span><span class="topo-membrane">GGALIIGVVAGLAGLWGV</span><span class="topo-inside">TML</span><span class="topo-unknown">KRLLRV</span><span class="topo-inside">DDPCD</span><span class="topo-membrane">VFGVHGVCGIVGCIMTGI</span><span class="topo-outside">FAASSLGGVGFAEGVTMGHQLLVQ</span><span class="topo-membrane">LESIA</span></span>
+<span class="topo-ruler">       370       380       390       400      </span>
 <span class="topo-line"><span class="topo-membrane">ITIVWSGVVAFIGYKLA</span><span class="topo-inside">DLTVGLRV</span><span class="topo-unknown">PEEQEREGLDVNSHGENAYNA</span></span>
+<details class="topo-details"><summary>Topology coordinates (28 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3065,6 +3106,7 @@ ordered water/ammonia molecules in the central pore.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3080,13 +3122,15 @@ ordered water/ammonia molecules in the central pore.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">GASVADKADNAFMMI</span><span class="topo-membrane">CTALVLFMTIPGIALFY</span><span class="topo-inside">GGLIRGKNVLSML</span><span class="topo-membrane">TQVTVTFALVCILWV</span></span>
-<span class="topo-line"><span class="topo-membrane">VYGY</span><span class="topo-outside">SLAFGEGNNFFGNINWLMLKNIELTAVMGSIYQYIHVA</span><span class="topo-membrane">FQGSFACITVGLIVGA</span><span class="topo-inside">LA</span></span>
-<span class="topo-line"><span class="topo-inside">ERIRFS</span><span class="topo-membrane">AVLIFVVVWLTLSYIPIAH</span><span class="topo-outside">MVWGGGLLASHGALD</span><span class="topo-membrane">FAGGTVVHINAAIAGLVG</span><span class="topo-inside">AY</span></span>
-<span class="topo-line"><span class="topo-inside">LI</span><span class="topo-unknown">GKRVGFGKEAFK</span><span class="topo-inside">PHNLPMV</span><span class="topo-membrane">FTGTAILYIGWFGFNA</span><span class="topo-outside">GSAGTANEIAALA</span><span class="topo-membrane">FVNTVVATAA</span></span>
-<span class="topo-line"><span class="topo-membrane">AILGWIFG</span><span class="topo-inside">EWALRGKPSLLG</span><span class="topo-membrane">ACSGAIAGLVGVTPAC</span><span class="topo-outside">GYIGV</span><span class="topo-membrane">GGALIIGVVAGLAGLWGV</span><span class="topo-inside">T</span></span>
-<span class="topo-line"><span class="topo-inside">ML</span><span class="topo-unknown">KRLLRVD</span><span class="topo-inside">DPCD</span><span class="topo-membrane">VFGVHGVCGIVGCIMTGI</span><span class="topo-outside">FAASSLGGVGFAEGVTMGHQLLVQ</span><span class="topo-membrane">LESIA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">GASVADKADNAFMMI</span><span class="topo-membrane">CTALVLFMTIPGIALFY</span><span class="topo-inside">GGLIRGKNVLSML</span><span class="topo-membrane">TQVTVTFALVCILWVVYGY</span><span class="topo-outside">SLAFGEGNNFFGNINWLMLKNIELTAVMGSIYQYIHVA</span><span class="topo-membrane">FQGSFACITVGLIVGA</span><span class="topo-inside">LA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">ERIRFS</span><span class="topo-membrane">AVLIFVVVWLTLSYIPIAH</span><span class="topo-outside">MVWGGGLLASHGALD</span><span class="topo-membrane">FAGGTVVHINAAIAGLVG</span><span class="topo-inside">AYLI</span><span class="topo-unknown">GKRVGFGKEAFK</span><span class="topo-inside">PHNLPMV</span><span class="topo-membrane">FTGTAILYIGWFGFNA</span><span class="topo-outside">GSAGTANEIAALA</span><span class="topo-membrane">FVNTVVATAA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">AILGWIFG</span><span class="topo-inside">EWALRGKPSLLG</span><span class="topo-membrane">ACSGAIAGLVGVTPAC</span><span class="topo-outside">GYIGV</span><span class="topo-membrane">GGALIIGVVAGLAGLWGV</span><span class="topo-inside">TML</span><span class="topo-unknown">KRLLRVD</span><span class="topo-inside">DPCD</span><span class="topo-membrane">VFGVHGVCGIVGCIMTGI</span><span class="topo-outside">FAASSLGGVGFAEGVTMGHQLLVQ</span><span class="topo-membrane">LESIA</span></span>
+<span class="topo-ruler">       370       380       390       400      </span>
 <span class="topo-line"><span class="topo-membrane">ITIVWSGVVAFIGYKLA</span><span class="topo-inside">DLTVGLRV</span><span class="topo-unknown">PEEQEREGLDVNSHGENAYNA</span></span>
+<details class="topo-details"><summary>Topology coordinates (28 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3294,6 +3338,7 @@ ordered water/ammonia molecules in the central pore.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3309,13 +3354,15 @@ ordered water/ammonia molecules in the central pore.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">GASVADKADNAFMMI</span><span class="topo-membrane">CTALVLFMTIPGIALFY</span><span class="topo-inside">GGLIRGKNVLSML</span><span class="topo-membrane">TQVTVTFALVCILWV</span></span>
-<span class="topo-line"><span class="topo-membrane">VYGY</span><span class="topo-outside">SLAFGEGNNFFGNINWLMLKNIELTAVMGSIYQYIHVA</span><span class="topo-membrane">FQGSFACITVGLIVGA</span><span class="topo-inside">LA</span></span>
-<span class="topo-line"><span class="topo-inside">ERIRFS</span><span class="topo-membrane">AVLIFVVVWLTLSYIPIA</span><span class="topo-outside">HMVWGGGLLASHGALD</span><span class="topo-membrane">FAGGTVVHINAAIAGLVG</span><span class="topo-inside">AY</span></span>
-<span class="topo-line"><span class="topo-inside">LIGKRV</span><span class="topo-unknown">GFGKEAFK</span><span class="topo-inside">PHNLPMV</span><span class="topo-membrane">FTGTAILYIGWFGFNA</span><span class="topo-outside">GSAGTANEIAALA</span><span class="topo-membrane">FVNTVVATAA</span></span>
-<span class="topo-line"><span class="topo-membrane">AILGWIFG</span><span class="topo-inside">EWALRGKPSLLG</span><span class="topo-membrane">ACSGAIAGLVGVTPAC</span><span class="topo-outside">GYIGV</span><span class="topo-membrane">GGALIIGVVAGLAGLWGV</span><span class="topo-inside">T</span></span>
-<span class="topo-line"><span class="topo-inside">MLK</span><span class="topo-unknown">RLLRVD</span><span class="topo-inside">DPCD</span><span class="topo-membrane">VFGVHGVCGIVGCIMTGI</span><span class="topo-outside">FAASSLGGVGFAEGVTMGHQLLVQ</span><span class="topo-membrane">LESIA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">GASVADKADNAFMMI</span><span class="topo-membrane">CTALVLFMTIPGIALFY</span><span class="topo-inside">GGLIRGKNVLSML</span><span class="topo-membrane">TQVTVTFALVCILWVVYGY</span><span class="topo-outside">SLAFGEGNNFFGNINWLMLKNIELTAVMGSIYQYIHVA</span><span class="topo-membrane">FQGSFACITVGLIVGA</span><span class="topo-inside">LA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">ERIRFS</span><span class="topo-membrane">AVLIFVVVWLTLSYIPIA</span><span class="topo-outside">HMVWGGGLLASHGALD</span><span class="topo-membrane">FAGGTVVHINAAIAGLVG</span><span class="topo-inside">AYLIGKRV</span><span class="topo-unknown">GFGKEAFK</span><span class="topo-inside">PHNLPMV</span><span class="topo-membrane">FTGTAILYIGWFGFNA</span><span class="topo-outside">GSAGTANEIAALA</span><span class="topo-membrane">FVNTVVATAA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">AILGWIFG</span><span class="topo-inside">EWALRGKPSLLG</span><span class="topo-membrane">ACSGAIAGLVGVTPAC</span><span class="topo-outside">GYIGV</span><span class="topo-membrane">GGALIIGVVAGLAGLWGV</span><span class="topo-inside">TMLK</span><span class="topo-unknown">RLLRVD</span><span class="topo-inside">DPCD</span><span class="topo-membrane">VFGVHGVCGIVGCIMTGI</span><span class="topo-outside">FAASSLGGVGFAEGVTMGHQLLVQ</span><span class="topo-membrane">LESIA</span></span>
+<span class="topo-ruler">       370       380       390       400      </span>
 <span class="topo-line"><span class="topo-membrane">ITIVWSGVVAFIGYKLA</span><span class="topo-inside">DLTVGLRV</span><span class="topo-unknown">PEEQEREGLDVNSHGENAYNA</span></span>
+<details class="topo-details"><summary>Topology coordinates (28 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3523,6 +3570,7 @@ ordered water/ammonia molecules in the central pore.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3538,13 +3586,15 @@ ordered water/ammonia molecules in the central pore.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">GASVADKADNAFMMI</span><span class="topo-membrane">CTALVLFMTIPGIALFY</span><span class="topo-inside">GGLIRGKNVLSML</span><span class="topo-membrane">TQVTVTFALVCILWV</span></span>
-<span class="topo-line"><span class="topo-membrane">VYGY</span><span class="topo-outside">SLAFGEGNNFFGNINWLMLKNIELTAVMGSIYQYIHVA</span><span class="topo-membrane">FQGSFACITVGLIVGA</span><span class="topo-inside">LA</span></span>
-<span class="topo-line"><span class="topo-inside">ERIRFS</span><span class="topo-membrane">AVLIFVVVWLTLSYIPIA</span><span class="topo-outside">HMVWGGGLLASHGALD</span><span class="topo-membrane">FAGGTVVHINAAIAGLVG</span><span class="topo-inside">AY</span></span>
-<span class="topo-line"><span class="topo-inside">LI</span><span class="topo-unknown">GKRVGFGKEAFK</span><span class="topo-inside">PHNLPMV</span><span class="topo-membrane">FTGTAILYIGWFGFNA</span><span class="topo-outside">GSAGTANEIAALA</span><span class="topo-membrane">FVNTVVATAA</span></span>
-<span class="topo-line"><span class="topo-membrane">AILGWIFG</span><span class="topo-inside">EWALRGKPSLLG</span><span class="topo-membrane">ACSGAIAGLVGVTPAC</span><span class="topo-outside">GYIGV</span><span class="topo-membrane">GGALIIGVVAGLAGLWGV</span><span class="topo-inside">T</span></span>
-<span class="topo-line"><span class="topo-inside">ML</span><span class="topo-unknown">KRLLRVDDP</span><span class="topo-inside">CD</span><span class="topo-membrane">VFGVHGVCGIVGCIMTGI</span><span class="topo-outside">FAASSLGGVGFAEGVTMGHQLLVQ</span><span class="topo-membrane">LESIA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">GASVADKADNAFMMI</span><span class="topo-membrane">CTALVLFMTIPGIALFY</span><span class="topo-inside">GGLIRGKNVLSML</span><span class="topo-membrane">TQVTVTFALVCILWVVYGY</span><span class="topo-outside">SLAFGEGNNFFGNINWLMLKNIELTAVMGSIYQYIHVA</span><span class="topo-membrane">FQGSFACITVGLIVGA</span><span class="topo-inside">LA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">ERIRFS</span><span class="topo-membrane">AVLIFVVVWLTLSYIPIA</span><span class="topo-outside">HMVWGGGLLASHGALD</span><span class="topo-membrane">FAGGTVVHINAAIAGLVG</span><span class="topo-inside">AYLI</span><span class="topo-unknown">GKRVGFGKEAFK</span><span class="topo-inside">PHNLPMV</span><span class="topo-membrane">FTGTAILYIGWFGFNA</span><span class="topo-outside">GSAGTANEIAALA</span><span class="topo-membrane">FVNTVVATAA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">AILGWIFG</span><span class="topo-inside">EWALRGKPSLLG</span><span class="topo-membrane">ACSGAIAGLVGVTPAC</span><span class="topo-outside">GYIGV</span><span class="topo-membrane">GGALIIGVVAGLAGLWGV</span><span class="topo-inside">TML</span><span class="topo-unknown">KRLLRVDDP</span><span class="topo-inside">CD</span><span class="topo-membrane">VFGVHGVCGIVGCIMTGI</span><span class="topo-outside">FAASSLGGVGFAEGVTMGHQLLVQ</span><span class="topo-membrane">LESIA</span></span>
+<span class="topo-ruler">       370       380       390       400      </span>
 <span class="topo-line"><span class="topo-membrane">ITIVWSGVVAFIGYKLA</span><span class="topo-inside">DLTVGLRV</span><span class="topo-unknown">PEEQEREGLDVNSHGENAYNA</span></span>
+<details class="topo-details"><summary>Topology coordinates (28 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3752,6 +3802,7 @@ ordered water/ammonia molecules in the central pore.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3820,14 +3871,15 @@ ordered water/ammonia molecules in the central pore.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">A</span><span class="topo-outside">PAVADKADNAFMM</span><span class="topo-membrane">ICTALVLFMTIPGIALFY</span><span class="topo-inside">GGLIRGKNVLSML</span><span class="topo-membrane">TQVTVTFALVCILWV</span></span>
-<span class="topo-line"><span class="topo-membrane">VYGY</span><span class="topo-outside">SLAFGEGNNFFGNINWLMLKNIELTAVMGSIYQYIHV</span><span class="topo-membrane">AFQGSFACITVGLIVGAL</span><span class="topo-inside">A</span></span>
-<span class="topo-line"><span class="topo-inside">ERIRFS</span><span class="topo-membrane">AVLIFVVVWLTLSYIPIAHMV</span><span class="topo-outside">WGGGLLASHGALD</span><span class="topo-membrane">FAGGTVVHINAAIAGLVG</span><span class="topo-inside">AY</span></span>
-<span class="topo-line"><span class="topo-inside">L</span><span class="topo-unknown">IGKRVGFGKEAFK</span><span class="topo-inside">PHNLPMV</span><span class="topo-membrane">FTGTAILYIGWFGFNAGS</span><span class="topo-outside">AGTANEIAALA</span><span class="topo-membrane">FVNTVVATAA</span></span>
-<span class="topo-line"><span class="topo-membrane">AILGWIFG</span><span class="topo-inside">EWALRGKPSLLG</span><span class="topo-membrane">ACSGAIAGLVGVTPAC</span><span class="topo-outside">GYIGV</span><span class="topo-membrane">GGALIIGVVAGLAGLWGV</span><span class="topo-inside">T</span></span>
-<span class="topo-line"><span class="topo-inside">M</span><span class="topo-unknown">LKRLLRVDD</span><span class="topo-inside">PC</span><span class="topo-membrane">DVFGVHGVCGIVGCIMTGIF</span><span class="topo-outside">AASSLGGVGFAEGVTMGHQL</span><span class="topo-membrane">LVQLESIA</span></span>
-<span class="topo-line"><span class="topo-membrane">ITIVWSGVVAFIGYKLA</span><span class="topo-inside">DLTVGLRVP</span><span class="topo-unknown">EEQEREGLDVNSHGENAYNADQAQQPAQADLEHH</span></span>
-<span class="topo-line"><span class="topo-unknown">HHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">A</span><span class="topo-outside">PAVADKADNAFMM</span><span class="topo-membrane">ICTALVLFMTIPGIALFY</span><span class="topo-inside">GGLIRGKNVLSML</span><span class="topo-membrane">TQVTVTFALVCILWVVYGY</span><span class="topo-outside">SLAFGEGNNFFGNINWLMLKNIELTAVMGSIYQYIHV</span><span class="topo-membrane">AFQGSFACITVGLIVGAL</span><span class="topo-inside">A</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">ERIRFS</span><span class="topo-membrane">AVLIFVVVWLTLSYIPIAHMV</span><span class="topo-outside">WGGGLLASHGALD</span><span class="topo-membrane">FAGGTVVHINAAIAGLVG</span><span class="topo-inside">AYL</span><span class="topo-unknown">IGKRVGFGKEAFK</span><span class="topo-inside">PHNLPMV</span><span class="topo-membrane">FTGTAILYIGWFGFNAGS</span><span class="topo-outside">AGTANEIAALA</span><span class="topo-membrane">FVNTVVATAA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">AILGWIFG</span><span class="topo-inside">EWALRGKPSLLG</span><span class="topo-membrane">ACSGAIAGLVGVTPAC</span><span class="topo-outside">GYIGV</span><span class="topo-membrane">GGALIIGVVAGLAGLWGV</span><span class="topo-inside">TM</span><span class="topo-unknown">LKRLLRVDD</span><span class="topo-inside">PC</span><span class="topo-membrane">DVFGVHGVCGIVGCIMTGIF</span><span class="topo-outside">AASSLGGVGFAEGVTMGHQL</span><span class="topo-membrane">LVQLESIA</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420    </span>
+<span class="topo-line"><span class="topo-membrane">ITIVWSGVVAFIGYKLA</span><span class="topo-inside">DLTVGLRVP</span><span class="topo-unknown">EEQEREGLDVNSHGENAYNADQAQQPAQADLEHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (29 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4042,6 +4094,7 @@ ordered water/ammonia molecules in the central pore.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4057,14 +4110,15 @@ ordered water/ammonia molecules in the central pore.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">A</span><span class="topo-outside">PAVADKADNAFMM</span><span class="topo-membrane">ICTALVLFMTIPGIALFY</span><span class="topo-inside">GGLIRGKNVLSML</span><span class="topo-membrane">TQVTVTFALVCILWV</span></span>
-<span class="topo-line"><span class="topo-membrane">VYGY</span><span class="topo-outside">SLAFGEGNNFFGNINWLMLKNIELTAVMGSIYQYIHV</span><span class="topo-membrane">AFQGSFACITVGLIVGAL</span><span class="topo-inside">A</span></span>
-<span class="topo-line"><span class="topo-inside">ERIRFS</span><span class="topo-membrane">AVLIFVVVWLTLSYIPIAHMV</span><span class="topo-outside">WGGGLLASHGALD</span><span class="topo-membrane">FAGGTVVHINAAIAGLVG</span><span class="topo-inside">AY</span></span>
-<span class="topo-line"><span class="topo-inside">L</span><span class="topo-unknown">IGKRVGFGKEAFK</span><span class="topo-inside">PHNLPMV</span><span class="topo-membrane">FTGTAILYIGWFGFNAGS</span><span class="topo-outside">AGTANEIAALA</span><span class="topo-membrane">FVNTVVATAA</span></span>
-<span class="topo-line"><span class="topo-membrane">AILGWIFG</span><span class="topo-inside">EWALRGKPSLLG</span><span class="topo-membrane">ACSGAIAGLVGVTPAC</span><span class="topo-outside">GYIGV</span><span class="topo-membrane">GGALIIGVVAGLAGLWGV</span><span class="topo-inside">T</span></span>
-<span class="topo-line"><span class="topo-inside">M</span><span class="topo-unknown">LKRLLRVDD</span><span class="topo-inside">PC</span><span class="topo-membrane">DVFGVHGVCGIVGCIMTGIF</span><span class="topo-outside">AASSLGGVGFAEGVTMGHQL</span><span class="topo-membrane">LVQLESIA</span></span>
-<span class="topo-line"><span class="topo-membrane">ITIVWSGVVAFIGYKLA</span><span class="topo-inside">DLTVGLRVP</span><span class="topo-unknown">EEQEREGLDVNSHGENAYNADQAQQPAQADLEHH</span></span>
-<span class="topo-line"><span class="topo-unknown">HHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">A</span><span class="topo-outside">PAVADKADNAFMM</span><span class="topo-membrane">ICTALVLFMTIPGIALFY</span><span class="topo-inside">GGLIRGKNVLSML</span><span class="topo-membrane">TQVTVTFALVCILWVVYGY</span><span class="topo-outside">SLAFGEGNNFFGNINWLMLKNIELTAVMGSIYQYIHV</span><span class="topo-membrane">AFQGSFACITVGLIVGAL</span><span class="topo-inside">A</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">ERIRFS</span><span class="topo-membrane">AVLIFVVVWLTLSYIPIAHMV</span><span class="topo-outside">WGGGLLASHGALD</span><span class="topo-membrane">FAGGTVVHINAAIAGLVG</span><span class="topo-inside">AYL</span><span class="topo-unknown">IGKRVGFGKEAFK</span><span class="topo-inside">PHNLPMV</span><span class="topo-membrane">FTGTAILYIGWFGFNAGS</span><span class="topo-outside">AGTANEIAALA</span><span class="topo-membrane">FVNTVVATAA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">AILGWIFG</span><span class="topo-inside">EWALRGKPSLLG</span><span class="topo-membrane">ACSGAIAGLVGVTPAC</span><span class="topo-outside">GYIGV</span><span class="topo-membrane">GGALIIGVVAGLAGLWGV</span><span class="topo-inside">TM</span><span class="topo-unknown">LKRLLRVDD</span><span class="topo-inside">PC</span><span class="topo-membrane">DVFGVHGVCGIVGCIMTGIF</span><span class="topo-outside">AASSLGGVGFAEGVTMGHQL</span><span class="topo-membrane">LVQLESIA</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420    </span>
+<span class="topo-line"><span class="topo-membrane">ITIVWSGVVAFIGYKLA</span><span class="topo-inside">DLTVGLRVP</span><span class="topo-unknown">EEQEREGLDVNSHGENAYNADQAQQPAQADLEHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (29 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4279,6 +4333,7 @@ ordered water/ammonia molecules in the central pore.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4294,14 +4349,15 @@ ordered water/ammonia molecules in the central pore.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">A</span><span class="topo-outside">PAVADKADNAFMM</span><span class="topo-membrane">ICTALVLFMTIPGIALFY</span><span class="topo-inside">GGLIRGKNVLSML</span><span class="topo-membrane">TQVTVTFALVCILWV</span></span>
-<span class="topo-line"><span class="topo-membrane">VYGY</span><span class="topo-outside">SLAFGEGNNFFGNINWLMLKNIELTAVMGSIYQYIHV</span><span class="topo-membrane">AFQGSFACITVGLIVGAL</span><span class="topo-inside">A</span></span>
-<span class="topo-line"><span class="topo-inside">ERIRFS</span><span class="topo-membrane">AVLIFVVVWLTLSYIPIAHMV</span><span class="topo-outside">WGGGLLASHGALD</span><span class="topo-membrane">FAGGTVVHINAAIAGLVG</span><span class="topo-inside">AY</span></span>
-<span class="topo-line"><span class="topo-inside">L</span><span class="topo-unknown">IGKRVGFGKEAFK</span><span class="topo-inside">PHNLPMV</span><span class="topo-membrane">FTGTAILYIGWFGFNAGS</span><span class="topo-outside">AGTANEIAALA</span><span class="topo-membrane">FVNTVVATAA</span></span>
-<span class="topo-line"><span class="topo-membrane">AILGWIFG</span><span class="topo-inside">EWALRGKPSLLG</span><span class="topo-membrane">ACSGAIAGLVGVTPAC</span><span class="topo-outside">GYIGV</span><span class="topo-membrane">GGALIIGVVAGLAGLWGV</span><span class="topo-inside">T</span></span>
-<span class="topo-line"><span class="topo-inside">M</span><span class="topo-unknown">LKRLLRVDD</span><span class="topo-inside">PC</span><span class="topo-membrane">DVFGVHGVCGIVGCIMTGIF</span><span class="topo-outside">AASSLGGVGFAEGVTMGHQL</span><span class="topo-membrane">LVQLESIA</span></span>
-<span class="topo-line"><span class="topo-membrane">ITIVWSGVVAFIGYKLA</span><span class="topo-inside">DLTVGLRVP</span><span class="topo-unknown">EEQEREGLDVNSHGENAYNADQAQQPAQADLEHH</span></span>
-<span class="topo-line"><span class="topo-unknown">HHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">A</span><span class="topo-outside">PAVADKADNAFMM</span><span class="topo-membrane">ICTALVLFMTIPGIALFY</span><span class="topo-inside">GGLIRGKNVLSML</span><span class="topo-membrane">TQVTVTFALVCILWVVYGY</span><span class="topo-outside">SLAFGEGNNFFGNINWLMLKNIELTAVMGSIYQYIHV</span><span class="topo-membrane">AFQGSFACITVGLIVGAL</span><span class="topo-inside">A</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">ERIRFS</span><span class="topo-membrane">AVLIFVVVWLTLSYIPIAHMV</span><span class="topo-outside">WGGGLLASHGALD</span><span class="topo-membrane">FAGGTVVHINAAIAGLVG</span><span class="topo-inside">AYL</span><span class="topo-unknown">IGKRVGFGKEAFK</span><span class="topo-inside">PHNLPMV</span><span class="topo-membrane">FTGTAILYIGWFGFNAGS</span><span class="topo-outside">AGTANEIAALA</span><span class="topo-membrane">FVNTVVATAA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">AILGWIFG</span><span class="topo-inside">EWALRGKPSLLG</span><span class="topo-membrane">ACSGAIAGLVGVTPAC</span><span class="topo-outside">GYIGV</span><span class="topo-membrane">GGALIIGVVAGLAGLWGV</span><span class="topo-inside">TM</span><span class="topo-unknown">LKRLLRVDD</span><span class="topo-inside">PC</span><span class="topo-membrane">DVFGVHGVCGIVGCIMTGIF</span><span class="topo-outside">AASSLGGVGFAEGVTMGHQL</span><span class="topo-membrane">LVQLESIA</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420    </span>
+<span class="topo-line"><span class="topo-membrane">ITIVWSGVVAFIGYKLA</span><span class="topo-inside">DLTVGLRVP</span><span class="topo-unknown">EEQEREGLDVNSHGENAYNADQAQQPAQADLEHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (29 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4516,6 +4572,7 @@ ordered water/ammonia molecules in the central pore.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4566,13 +4623,15 @@ ordered water/ammonia molecules in the central pore.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">AP</span><span class="topo-outside">AVADKADNAFMM</span><span class="topo-membrane">ICTALVLFMTIPGIALFY</span><span class="topo-inside">GGLIRGKNVLSML</span><span class="topo-membrane">TQVTVTFALVCILWV</span></span>
-<span class="topo-line"><span class="topo-membrane">VYGY</span><span class="topo-outside">SLAFGEGNNFFGNINWLMLKNIELTAVMGSIYQYIHV</span><span class="topo-membrane">AFQGSFACITVGLIVGA</span><span class="topo-inside">LA</span></span>
-<span class="topo-line"><span class="topo-inside">ERIRFS</span><span class="topo-membrane">AVLIFVVVWLTLSYIPIAHMV</span><span class="topo-outside">WGGGLLASHGALD</span><span class="topo-membrane">FAGGTVVHINAAIAGLVG</span><span class="topo-inside">AY</span></span>
-<span class="topo-line"><span class="topo-inside">L</span><span class="topo-unknown">IGKRVGFGKEAFK</span><span class="topo-inside">PHNLPMV</span><span class="topo-membrane">FTGTAILYIGWFGFNAGS</span><span class="topo-outside">AGTANEIAALA</span><span class="topo-membrane">FVNTVVATAA</span></span>
-<span class="topo-line"><span class="topo-membrane">AILGWIFG</span><span class="topo-inside">EWALRGKPSLLG</span><span class="topo-membrane">ACSGAIAGLVGVTPAC</span><span class="topo-outside">GYIGV</span><span class="topo-membrane">GGALIIGVVAGLAGLWGV</span><span class="topo-inside">T</span></span>
-<span class="topo-line"><span class="topo-inside">M</span><span class="topo-unknown">LKRLLRVDD</span><span class="topo-inside">PCD</span><span class="topo-membrane">VFGVHGVCGIVGCIMTGIF</span><span class="topo-outside">AASSLGGVGFAEGVTMGHQL</span><span class="topo-membrane">LVQLESIA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">AP</span><span class="topo-outside">AVADKADNAFMM</span><span class="topo-membrane">ICTALVLFMTIPGIALFY</span><span class="topo-inside">GGLIRGKNVLSML</span><span class="topo-membrane">TQVTVTFALVCILWVVYGY</span><span class="topo-outside">SLAFGEGNNFFGNINWLMLKNIELTAVMGSIYQYIHV</span><span class="topo-membrane">AFQGSFACITVGLIVGA</span><span class="topo-inside">LA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">ERIRFS</span><span class="topo-membrane">AVLIFVVVWLTLSYIPIAHMV</span><span class="topo-outside">WGGGLLASHGALD</span><span class="topo-membrane">FAGGTVVHINAAIAGLVG</span><span class="topo-inside">AYL</span><span class="topo-unknown">IGKRVGFGKEAFK</span><span class="topo-inside">PHNLPMV</span><span class="topo-membrane">FTGTAILYIGWFGFNAGS</span><span class="topo-outside">AGTANEIAALA</span><span class="topo-membrane">FVNTVVATAA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">AILGWIFG</span><span class="topo-inside">EWALRGKPSLLG</span><span class="topo-membrane">ACSGAIAGLVGVTPAC</span><span class="topo-outside">GYIGV</span><span class="topo-membrane">GGALIIGVVAGLAGLWGV</span><span class="topo-inside">TM</span><span class="topo-unknown">LKRLLRVDD</span><span class="topo-inside">PCD</span><span class="topo-membrane">VFGVHGVCGIVGCIMTGIF</span><span class="topo-outside">AASSLGGVGFAEGVTMGHQL</span><span class="topo-membrane">LVQLESIA</span></span>
+<span class="topo-ruler">       370       380       390       400       410        </span>
 <span class="topo-line"><span class="topo-membrane">ITIVWSGVVAFIGYKLA</span><span class="topo-inside">DLTVGLRVP</span><span class="topo-unknown">EEQEREGLDVNSHGENAYNADQAQQPAQADLE</span></span>
+<details class="topo-details"><summary>Topology coordinates (29 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4787,6 +4846,7 @@ ordered water/ammonia molecules in the central pore.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4802,13 +4862,15 @@ ordered water/ammonia molecules in the central pore.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">AP</span><span class="topo-outside">AVADKADNAFMM</span><span class="topo-membrane">ICTALVLFMTIPGIALFY</span><span class="topo-inside">GGLIRGKNVLSML</span><span class="topo-membrane">TQVTVTFALVCILWV</span></span>
-<span class="topo-line"><span class="topo-membrane">VYGY</span><span class="topo-outside">SLAFGEGNNFFGNINWLMLKNIELTAVMGSIYQYIHV</span><span class="topo-membrane">AFQGSFACITVGLIVGA</span><span class="topo-inside">LA</span></span>
-<span class="topo-line"><span class="topo-inside">ERIRFS</span><span class="topo-membrane">AVLIFVVVWLTLSYIPIAHMV</span><span class="topo-outside">WGGGLLASHGALD</span><span class="topo-membrane">FAGGTVVHINAAIAGLVG</span><span class="topo-inside">AY</span></span>
-<span class="topo-line"><span class="topo-inside">L</span><span class="topo-unknown">IGKRVGFGKEAFK</span><span class="topo-inside">PHNLPMV</span><span class="topo-membrane">FTGTAILYIGWFGFNAGS</span><span class="topo-outside">AGTANEIAALA</span><span class="topo-membrane">FVNTVVATAA</span></span>
-<span class="topo-line"><span class="topo-membrane">AILGWIFG</span><span class="topo-inside">EWALRGKPSLLG</span><span class="topo-membrane">ACSGAIAGLVGVTPAC</span><span class="topo-outside">GYIGV</span><span class="topo-membrane">GGALIIGVVAGLAGLWGV</span><span class="topo-inside">T</span></span>
-<span class="topo-line"><span class="topo-inside">M</span><span class="topo-unknown">LKRLLRVDD</span><span class="topo-inside">PCD</span><span class="topo-membrane">VFGVHGVCGIVGCIMTGIF</span><span class="topo-outside">AASSLGGVGFAEGVTMGHQL</span><span class="topo-membrane">LVQLESIA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">AP</span><span class="topo-outside">AVADKADNAFMM</span><span class="topo-membrane">ICTALVLFMTIPGIALFY</span><span class="topo-inside">GGLIRGKNVLSML</span><span class="topo-membrane">TQVTVTFALVCILWVVYGY</span><span class="topo-outside">SLAFGEGNNFFGNINWLMLKNIELTAVMGSIYQYIHV</span><span class="topo-membrane">AFQGSFACITVGLIVGA</span><span class="topo-inside">LA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">ERIRFS</span><span class="topo-membrane">AVLIFVVVWLTLSYIPIAHMV</span><span class="topo-outside">WGGGLLASHGALD</span><span class="topo-membrane">FAGGTVVHINAAIAGLVG</span><span class="topo-inside">AYL</span><span class="topo-unknown">IGKRVGFGKEAFK</span><span class="topo-inside">PHNLPMV</span><span class="topo-membrane">FTGTAILYIGWFGFNAGS</span><span class="topo-outside">AGTANEIAALA</span><span class="topo-membrane">FVNTVVATAA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">AILGWIFG</span><span class="topo-inside">EWALRGKPSLLG</span><span class="topo-membrane">ACSGAIAGLVGVTPAC</span><span class="topo-outside">GYIGV</span><span class="topo-membrane">GGALIIGVVAGLAGLWGV</span><span class="topo-inside">TM</span><span class="topo-unknown">LKRLLRVDD</span><span class="topo-inside">PCD</span><span class="topo-membrane">VFGVHGVCGIVGCIMTGIF</span><span class="topo-outside">AASSLGGVGFAEGVTMGHQL</span><span class="topo-membrane">LVQLESIA</span></span>
+<span class="topo-ruler">       370       380       390       400       410        </span>
 <span class="topo-line"><span class="topo-membrane">ITIVWSGVVAFIGYKLA</span><span class="topo-inside">DLTVGLRVP</span><span class="topo-unknown">EEQEREGLDVNSHGENAYNADQAQQPAQADLE</span></span>
+<details class="topo-details"><summary>Topology coordinates (29 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -5023,6 +5085,7 @@ ordered water/ammonia molecules in the central pore.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -5038,13 +5101,15 @@ ordered water/ammonia molecules in the central pore.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">AP</span><span class="topo-outside">AVADKADNAFMM</span><span class="topo-membrane">ICTALVLFMTIPGIALFY</span><span class="topo-inside">GGLIRGKNVLSML</span><span class="topo-membrane">TQVTVTFALVCILWV</span></span>
-<span class="topo-line"><span class="topo-membrane">VYGY</span><span class="topo-outside">SLAFGEGNNFFGNINWLMLKNIELTAVMGSIYQYIHV</span><span class="topo-membrane">AFQGSFACITVGLIVGA</span><span class="topo-inside">LA</span></span>
-<span class="topo-line"><span class="topo-inside">ERIRFS</span><span class="topo-membrane">AVLIFVVVWLTLSYIPIAHMV</span><span class="topo-outside">WGGGLLASHGALD</span><span class="topo-membrane">FAGGTVVHINAAIAGLVG</span><span class="topo-inside">AY</span></span>
-<span class="topo-line"><span class="topo-inside">L</span><span class="topo-unknown">IGKRVGFGKEAFK</span><span class="topo-inside">PHNLPMV</span><span class="topo-membrane">FTGTAILYIGWFGFNAGS</span><span class="topo-outside">AGTANEIAALA</span><span class="topo-membrane">FVNTVVATAA</span></span>
-<span class="topo-line"><span class="topo-membrane">AILGWIFG</span><span class="topo-inside">EWALRGKPSLLG</span><span class="topo-membrane">ACSGAIAGLVGVTPAC</span><span class="topo-outside">GYIGV</span><span class="topo-membrane">GGALIIGVVAGLAGLWGV</span><span class="topo-inside">T</span></span>
-<span class="topo-line"><span class="topo-inside">M</span><span class="topo-unknown">LKRLLRVDD</span><span class="topo-inside">PCD</span><span class="topo-membrane">VFGVHGVCGIVGCIMTGIF</span><span class="topo-outside">AASSLGGVGFAEGVTMGHQL</span><span class="topo-membrane">LVQLESIA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">AP</span><span class="topo-outside">AVADKADNAFMM</span><span class="topo-membrane">ICTALVLFMTIPGIALFY</span><span class="topo-inside">GGLIRGKNVLSML</span><span class="topo-membrane">TQVTVTFALVCILWVVYGY</span><span class="topo-outside">SLAFGEGNNFFGNINWLMLKNIELTAVMGSIYQYIHV</span><span class="topo-membrane">AFQGSFACITVGLIVGA</span><span class="topo-inside">LA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">ERIRFS</span><span class="topo-membrane">AVLIFVVVWLTLSYIPIAHMV</span><span class="topo-outside">WGGGLLASHGALD</span><span class="topo-membrane">FAGGTVVHINAAIAGLVG</span><span class="topo-inside">AYL</span><span class="topo-unknown">IGKRVGFGKEAFK</span><span class="topo-inside">PHNLPMV</span><span class="topo-membrane">FTGTAILYIGWFGFNAGS</span><span class="topo-outside">AGTANEIAALA</span><span class="topo-membrane">FVNTVVATAA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">AILGWIFG</span><span class="topo-inside">EWALRGKPSLLG</span><span class="topo-membrane">ACSGAIAGLVGVTPAC</span><span class="topo-outside">GYIGV</span><span class="topo-membrane">GGALIIGVVAGLAGLWGV</span><span class="topo-inside">TM</span><span class="topo-unknown">LKRLLRVDD</span><span class="topo-inside">PCD</span><span class="topo-membrane">VFGVHGVCGIVGCIMTGIF</span><span class="topo-outside">AASSLGGVGFAEGVTMGHQL</span><span class="topo-membrane">LVQLESIA</span></span>
+<span class="topo-ruler">       370       380       390       400       410        </span>
 <span class="topo-line"><span class="topo-membrane">ITIVWSGVVAFIGYKLA</span><span class="topo-inside">DLTVGLRVP</span><span class="topo-unknown">EEQEREGLDVNSHGENAYNADQAQQPAQADLE</span></span>
+<details class="topo-details"><summary>Topology coordinates (29 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -5259,6 +5324,7 @@ ordered water/ammonia molecules in the central pore.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

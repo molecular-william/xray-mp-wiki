@@ -122,14 +122,15 @@ CLC-sy1 (SY) is a CLC Cl-/H+ exchange transporter from the cyanobacterium Synech
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAADFETSNRRWLDKLPRNLTDSAR</span><span class="topo-inside">SLHPRTL</span><span class="topo-membrane">VAAIVVGLITGVLGAGFKSAVN</span><span class="topo-outside">NMLQWR</span></span>
-<span class="topo-line"><span class="topo-outside">SQLAQILAPIPPLAWL</span><span class="topo-membrane">VTALISGGMVALSFWL</span><span class="topo-inside">MKRFAPDTSGSGIPQIEGHLEGKLPLVW</span></span>
-<span class="topo-line"><span class="topo-inside">QRVL</span><span class="topo-membrane">PIKLVGGFLSLGAG</span><span class="topo-outside">M</span><span class="topo-membrane">LAGFEGPTIQMGG</span><span class="topo-inside">SIGQMTGGWFKATQENQRILIAV</span><span class="topo-unknown">GAGAG</span></span>
-<span class="topo-line"><span class="topo-unknown">LATAFNAPLAGVALIGEE</span><span class="topo-inside">MHPRFRSQTLAY</span><span class="topo-membrane">HSLLFGCVMATIILRMI</span><span class="topo-outside">RGQSAIISLTEFK</span></span>
-<span class="topo-line"><span class="topo-outside">RVPLDSL</span><span class="topo-membrane">WMFIILGILFGVMGYTFNRGL</span><span class="topo-inside">FKVLDWFDRLPPLATK</span><span class="topo-membrane">WKGFLLGSIIGIL</span><span class="topo-outside">SLF</span></span>
-<span class="topo-line"><span class="topo-outside">PLPLTDGGDNAVLWAFNSQSHFSTLILVF</span><span class="topo-membrane">CGRFLLTLICYGSG</span><span class="topo-inside">A</span><span class="topo-membrane">IGGIFAPMLGIAS</span><span class="topo-outside">IVS</span></span>
-<span class="topo-line"><span class="topo-outside">VAMARHFHLLFPSQIPEPAVMAIA</span><span class="topo-unknown">GMGALVAATVRAPLTAILLTIEM</span><span class="topo-outside">TDNYFVI</span><span class="topo-membrane">LPLLVT</span></span>
-<span class="topo-line"><span class="topo-membrane">CLVASVVAEAL</span><span class="topo-inside">GGKPIYTVLLERTLAKQNR</span><span class="topo-unknown">GSLVPRGSGGHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAADFETSNRRWLDKLPRNLTDSAR</span><span class="topo-inside">SLHPRTL</span><span class="topo-membrane">VAAIVVGLITGVLGAGFKSAVN</span><span class="topo-outside">NMLQWRSQLAQILAPIPPLAWL</span><span class="topo-membrane">VTALISGGMVALSFWL</span><span class="topo-inside">MKRFAPDTSGSGIPQIEGHLEGKLPLVW</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">QRVL</span><span class="topo-membrane">PIKLVGGFLSLGAG</span><span class="topo-outside">M</span><span class="topo-membrane">LAGFEGPTIQMGG</span><span class="topo-inside">SIGQMTGGWFKATQENQRILIAV</span><span class="topo-unknown">GAGAGLATAFNAPLAGVALIGEE</span><span class="topo-inside">MHPRFRSQTLAY</span><span class="topo-membrane">HSLLFGCVMATIILRMI</span><span class="topo-outside">RGQSAIISLTEFK</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">RVPLDSL</span><span class="topo-membrane">WMFIILGILFGVMGYTFNRGL</span><span class="topo-inside">FKVLDWFDRLPPLATK</span><span class="topo-membrane">WKGFLLGSIIGIL</span><span class="topo-outside">SLFPLPLTDGGDNAVLWAFNSQSHFSTLILVF</span><span class="topo-membrane">CGRFLLTLICYGSG</span><span class="topo-inside">A</span><span class="topo-membrane">IGGIFAPMLGIAS</span><span class="topo-outside">IVS</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460      </span>
+<span class="topo-line"><span class="topo-outside">VAMARHFHLLFPSQIPEPAVMAIA</span><span class="topo-unknown">GMGALVAATVRAPLTAILLTIEM</span><span class="topo-outside">TDNYFVI</span><span class="topo-membrane">LPLLVTCLVASVVAEAL</span><span class="topo-inside">GGKPIYTVLLERTLAKQNR</span><span class="topo-unknown">GSLVPRGSGGHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (27 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -330,6 +331,7 @@ CLC-sy1 (SY) is a CLC Cl-/H+ exchange transporter from the cyanobacterium Synech
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -345,14 +347,15 @@ CLC-sy1 (SY) is a CLC Cl-/H+ exchange transporter from the cyanobacterium Synech
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAADFETSNRRWLDKLPRNLTDSAR</span><span class="topo-inside">SLHPRTL</span><span class="topo-membrane">VAAIVVGLITGVLGAGFKSAVN</span><span class="topo-outside">NMLQWR</span></span>
-<span class="topo-line"><span class="topo-outside">SQLAQILAPIPPLAWL</span><span class="topo-membrane">VTALISGGMVALSFWL</span><span class="topo-inside">MKRFAPDTSGSGIPQIEGHLEGKLPLVW</span></span>
-<span class="topo-line"><span class="topo-inside">QRVL</span><span class="topo-membrane">PIKLVGGFLSLGAG</span><span class="topo-outside">M</span><span class="topo-membrane">LAGFEGPTIQMGG</span><span class="topo-inside">SIGQMTGGWFKATQENQRILIAV</span><span class="topo-unknown">GAGAG</span></span>
-<span class="topo-line"><span class="topo-unknown">LATAFNAPLAGVALIGEE</span><span class="topo-inside">MHPRFRSQTLAY</span><span class="topo-membrane">HSLLFGCVMATIILRMI</span><span class="topo-outside">RGQSAIISLTEFK</span></span>
-<span class="topo-line"><span class="topo-outside">RVPLDSL</span><span class="topo-membrane">WMFIILGILFGVMGYTFNRGL</span><span class="topo-inside">FKVLDWFDRLPPLATK</span><span class="topo-membrane">WKGFLLGSIIGIL</span><span class="topo-outside">SLF</span></span>
-<span class="topo-line"><span class="topo-outside">PLPLTDGGDNAVLWAFNSQSHFSTLILVF</span><span class="topo-membrane">CGRFLLTLICYGSG</span><span class="topo-inside">A</span><span class="topo-membrane">IGGIFAPMLGIAS</span><span class="topo-outside">IVS</span></span>
-<span class="topo-line"><span class="topo-outside">VAMARHFHLLFPSQIPEPAVMAIA</span><span class="topo-unknown">GMGALVAATVRAPLTAILLTIEM</span><span class="topo-outside">TDNYFVI</span><span class="topo-membrane">LPLLVT</span></span>
-<span class="topo-line"><span class="topo-membrane">CLVASVVAEAL</span><span class="topo-inside">GGKPIYTVLLERTLAKQNR</span><span class="topo-unknown">GSLVPRGSGGHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAADFETSNRRWLDKLPRNLTDSAR</span><span class="topo-inside">SLHPRTL</span><span class="topo-membrane">VAAIVVGLITGVLGAGFKSAVN</span><span class="topo-outside">NMLQWRSQLAQILAPIPPLAWL</span><span class="topo-membrane">VTALISGGMVALSFWL</span><span class="topo-inside">MKRFAPDTSGSGIPQIEGHLEGKLPLVW</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">QRVL</span><span class="topo-membrane">PIKLVGGFLSLGAG</span><span class="topo-outside">M</span><span class="topo-membrane">LAGFEGPTIQMGG</span><span class="topo-inside">SIGQMTGGWFKATQENQRILIAV</span><span class="topo-unknown">GAGAGLATAFNAPLAGVALIGEE</span><span class="topo-inside">MHPRFRSQTLAY</span><span class="topo-membrane">HSLLFGCVMATIILRMI</span><span class="topo-outside">RGQSAIISLTEFK</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">RVPLDSL</span><span class="topo-membrane">WMFIILGILFGVMGYTFNRGL</span><span class="topo-inside">FKVLDWFDRLPPLATK</span><span class="topo-membrane">WKGFLLGSIIGIL</span><span class="topo-outside">SLFPLPLTDGGDNAVLWAFNSQSHFSTLILVF</span><span class="topo-membrane">CGRFLLTLICYGSG</span><span class="topo-inside">A</span><span class="topo-membrane">IGGIFAPMLGIAS</span><span class="topo-outside">IVS</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460      </span>
+<span class="topo-line"><span class="topo-outside">VAMARHFHLLFPSQIPEPAVMAIA</span><span class="topo-unknown">GMGALVAATVRAPLTAILLTIEM</span><span class="topo-outside">TDNYFVI</span><span class="topo-membrane">LPLLVTCLVASVVAEAL</span><span class="topo-inside">GGKPIYTVLLERTLAKQNR</span><span class="topo-unknown">GSLVPRGSGGHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (27 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -553,6 +556,7 @@ CLC-sy1 (SY) is a CLC Cl-/H+ exchange transporter from the cyanobacterium Synech
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

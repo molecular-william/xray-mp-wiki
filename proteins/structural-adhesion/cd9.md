@@ -135,10 +135,11 @@ CD9 is a member of the tetraspanin family, a class of four-transmembrane domain 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GSREF</span><span class="topo-inside">MPVKGGTKC</span><span class="topo-membrane">IKYLLFGFNFIFWLAGIAVLAIGLWLRFDSQTK</span><span class="topo-outside">SIFEQETNNNNSS</span></span>
-<span class="topo-line"><span class="topo-outside">FY</span><span class="topo-membrane">TGVYILIGAGALMMLVGFLGCCGAV</span><span class="topo-inside">QESQ</span><span class="topo-membrane">CMLGLFFGFLLVIFAIEIAAAIWG</span><span class="topo-outside">YSH</span><span class="topo-unknown">KD</span></span>
-<span class="topo-line"><span class="topo-unknown">EVIKEVQEFYKDTYNKLK</span><span class="topo-outside">TKD</span><span class="topo-unknown">EPQRETLKAIHYAL</span><span class="topo-outside">NCCGLAGGVEQFISDICPKKDVLES</span></span>
-<span class="topo-line"><span class="topo-unknown">CPDAIKEVFDN</span><span class="topo-outside">KFH</span><span class="topo-membrane">IIGAVGIGIAVVMIFGMIFSMILC</span><span class="topo-inside">CAIRRNR</span><span class="topo-unknown">EMV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GSREF</span><span class="topo-inside">MPVKGGTKC</span><span class="topo-membrane">IKYLLFGFNFIFWLAGIAVLAIGLWLRFDSQTK</span><span class="topo-outside">SIFEQETNNNNSSFY</span><span class="topo-membrane">TGVYILIGAGALMMLVGFLGCCGAV</span><span class="topo-inside">QESQ</span><span class="topo-membrane">CMLGLFFGFLLVIFAIEIAAAIWG</span><span class="topo-outside">YSH</span><span class="topo-unknown">KD</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220        </span>
+<span class="topo-line"><span class="topo-unknown">EVIKEVQEFYKDTYNKLK</span><span class="topo-outside">TKD</span><span class="topo-unknown">EPQRETLKAIHYAL</span><span class="topo-outside">NCCGLAGGVEQFISDICPKKDVLES</span><span class="topo-unknown">CPDAIKEVFDN</span><span class="topo-outside">KFH</span><span class="topo-membrane">IIGAVGIGIAVVMIFGMIFSMILC</span><span class="topo-inside">CAIRRNR</span><span class="topo-unknown">EMV</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -255,6 +256,7 @@ CD9 is a member of the tetraspanin family, a class of four-transmembrane domain 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -270,10 +272,11 @@ CD9 is a member of the tetraspanin family, a class of four-transmembrane domain 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GSREF</span><span class="topo-inside">MPVKGGTKC</span><span class="topo-membrane">IKYLLFGFNFIFWLAGIAVLAIGLWLRFDSQTK</span><span class="topo-outside">SIFEQETNNNNSS</span></span>
-<span class="topo-line"><span class="topo-outside">FY</span><span class="topo-membrane">TGVYILIGAGALMMLVGFLGCCGAV</span><span class="topo-inside">QESQ</span><span class="topo-membrane">CMLGLFFGFLLVIFAIEIAAAIWG</span><span class="topo-outside">YSH</span><span class="topo-unknown">KD</span></span>
-<span class="topo-line"><span class="topo-unknown">EVIKEVQEFYKDTYNKLK</span><span class="topo-outside">TKD</span><span class="topo-unknown">EPQRETLKAIHYAL</span><span class="topo-outside">NCCGLAGGVEQFISDICPKKDVLES</span></span>
-<span class="topo-line"><span class="topo-unknown">CPDAIKEVFDN</span><span class="topo-outside">KFH</span><span class="topo-membrane">IIGAVGIGIAVVMIFGMIFSMILC</span><span class="topo-inside">CAIRRNR</span><span class="topo-unknown">EMV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GSREF</span><span class="topo-inside">MPVKGGTKC</span><span class="topo-membrane">IKYLLFGFNFIFWLAGIAVLAIGLWLRFDSQTK</span><span class="topo-outside">SIFEQETNNNNSSFY</span><span class="topo-membrane">TGVYILIGAGALMMLVGFLGCCGAV</span><span class="topo-inside">QESQ</span><span class="topo-membrane">CMLGLFFGFLLVIFAIEIAAAIWG</span><span class="topo-outside">YSH</span><span class="topo-unknown">KD</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220        </span>
+<span class="topo-line"><span class="topo-unknown">EVIKEVQEFYKDTYNKLK</span><span class="topo-outside">TKD</span><span class="topo-unknown">EPQRETLKAIHYAL</span><span class="topo-outside">NCCGLAGGVEQFISDICPKKDVLES</span><span class="topo-unknown">CPDAIKEVFDN</span><span class="topo-outside">KFH</span><span class="topo-membrane">IIGAVGIGIAVVMIFGMIFSMILC</span><span class="topo-inside">CAIRRNR</span><span class="topo-unknown">EMV</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -390,6 +393,7 @@ CD9 is a member of the tetraspanin family, a class of four-transmembrane domain 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

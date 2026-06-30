@@ -134,9 +134,11 @@ Microsomal [GSH](/xray-mp-wiki/reagents/additives/glutathione/) S-transferase 2 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MHHHHHHA</span><span class="topo-inside">GNSIL</span><span class="topo-membrane">LAAVSILSACQQSYFALQVGK</span><span class="topo-outside">ARLKYKVTPPAVTGSPEFERV</span><span class="topo-membrane">FRAQQ</span></span>
-<span class="topo-line"><span class="topo-membrane">NCVEFYPIFIITLWMAG</span><span class="topo-inside">WYFNQVF</span><span class="topo-membrane">ATCLGLVYIYGRHLYFWGYS</span><span class="topo-outside">EAAKK</span><span class="topo-membrane">RITGFRLSLGI</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MHHHHHHA</span><span class="topo-inside">GNSIL</span><span class="topo-membrane">LAAVSILSACQQSYFALQVGK</span><span class="topo-outside">ARLKYKVTPPAVTGSPEFERV</span><span class="topo-membrane">FRAQQNCVEFYPIFIITLWMAG</span><span class="topo-inside">WYFNQVF</span><span class="topo-membrane">ATCLGLVYIYGRHLYFWGYS</span><span class="topo-outside">EAAKK</span><span class="topo-membrane">RITGFRLSLGI</span></span>
+<span class="topo-ruler">       130       140       150   </span>
 <span class="topo-line"><span class="topo-membrane">LALLTLLGAL</span><span class="topo-inside">GIANSFLDEYLDLN</span><span class="topo-unknown">IAKKLRRQF</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -225,6 +227,7 @@ Microsomal [GSH](/xray-mp-wiki/reagents/additives/glutathione/) S-transferase 2 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -240,9 +243,11 @@ Microsomal [GSH](/xray-mp-wiki/reagents/additives/glutathione/) S-transferase 2 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MHHHHHHAG</span><span class="topo-inside">NSIL</span><span class="topo-membrane">LAAVSILSACQQSYFALQVGK</span><span class="topo-outside">ARLKYKVTPPAVTGSPEFERV</span><span class="topo-membrane">FRAQQ</span></span>
-<span class="topo-line"><span class="topo-membrane">NCVEFYPIFIITLWMAG</span><span class="topo-inside">WYFNQVF</span><span class="topo-membrane">ATCLGLVYIYGRHLYFWGY</span><span class="topo-outside">SEAAKK</span><span class="topo-membrane">RITGFRLSLGI</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MHHHHHHAG</span><span class="topo-inside">NSIL</span><span class="topo-membrane">LAAVSILSACQQSYFALQVGK</span><span class="topo-outside">ARLKYKVTPPAVTGSPEFERV</span><span class="topo-membrane">FRAQQNCVEFYPIFIITLWMAG</span><span class="topo-inside">WYFNQVF</span><span class="topo-membrane">ATCLGLVYIYGRHLYFWGY</span><span class="topo-outside">SEAAKK</span><span class="topo-membrane">RITGFRLSLGI</span></span>
+<span class="topo-ruler">       130       140       150   </span>
 <span class="topo-line"><span class="topo-membrane">LALLTLLGAL</span><span class="topo-inside">GIANSFLDE</span><span class="topo-unknown">YLDLNIAKKLRRQF</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -331,6 +336,7 @@ Microsomal [GSH](/xray-mp-wiki/reagents/additives/glutathione/) S-transferase 2 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -346,9 +352,11 @@ Microsomal [GSH](/xray-mp-wiki/reagents/additives/glutathione/) S-transferase 2 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MHHHHHHA</span><span class="topo-inside">GNSIL</span><span class="topo-membrane">LAAVSILSACQQSYFALQVGK</span><span class="topo-outside">ARLKYKVTPPAVTGSPEFERV</span><span class="topo-membrane">FRAQQ</span></span>
-<span class="topo-line"><span class="topo-membrane">NCVEFYPIFIITLWMAG</span><span class="topo-inside">WYFNQVF</span><span class="topo-membrane">ATCLGLVYIYGRHLYFWGY</span><span class="topo-outside">SEAAKK</span><span class="topo-membrane">RITGFRLSLGI</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MHHHHHHA</span><span class="topo-inside">GNSIL</span><span class="topo-membrane">LAAVSILSACQQSYFALQVGK</span><span class="topo-outside">ARLKYKVTPPAVTGSPEFERV</span><span class="topo-membrane">FRAQQNCVEFYPIFIITLWMAG</span><span class="topo-inside">WYFNQVF</span><span class="topo-membrane">ATCLGLVYIYGRHLYFWGY</span><span class="topo-outside">SEAAKK</span><span class="topo-membrane">RITGFRLSLGI</span></span>
+<span class="topo-ruler">       130       140       150   </span>
 <span class="topo-line"><span class="topo-membrane">LALLTLLGAL</span><span class="topo-inside">GIANSFLDEYL</span><span class="topo-unknown">DLNIAKKLRRQF</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -437,6 +445,7 @@ Microsomal [GSH](/xray-mp-wiki/reagents/additives/glutathione/) S-transferase 2 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -452,9 +461,11 @@ Microsomal [GSH](/xray-mp-wiki/reagents/additives/glutathione/) S-transferase 2 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MHHHHHHAG</span><span class="topo-inside">NS</span><span class="topo-membrane">ILLAAVSILSACQQSYFALQVGK</span><span class="topo-outside">ARLKYKVTPPAVTGSPEFERV</span><span class="topo-membrane">FRAQQ</span></span>
-<span class="topo-line"><span class="topo-membrane">NCVEFYPIFIITLWMAGWYF</span><span class="topo-inside">N</span><span class="topo-membrane">QVFATCLGLVYIYGRHLYFWGY</span><span class="topo-outside">SEAAKK</span><span class="topo-membrane">RITGFRLSLGI</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MHHHHHHAG</span><span class="topo-inside">NS</span><span class="topo-membrane">ILLAAVSILSACQQSYFALQVGK</span><span class="topo-outside">ARLKYKVTPPAVTGSPEFERV</span><span class="topo-membrane">FRAQQNCVEFYPIFIITLWMAGWYF</span><span class="topo-inside">N</span><span class="topo-membrane">QVFATCLGLVYIYGRHLYFWGY</span><span class="topo-outside">SEAAKK</span><span class="topo-membrane">RITGFRLSLGI</span></span>
+<span class="topo-ruler">       130       140       150   </span>
 <span class="topo-line"><span class="topo-membrane">LALLTLLGALGIA</span><span class="topo-inside">NSFLDEYLDLNIAKK</span><span class="topo-unknown">LRRQF</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -529,6 +540,7 @@ Microsomal [GSH](/xray-mp-wiki/reagents/additives/glutathione/) S-transferase 2 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -544,9 +556,11 @@ Microsomal [GSH](/xray-mp-wiki/reagents/additives/glutathione/) S-transferase 2 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MHHHHHHA</span><span class="topo-inside">GNS</span><span class="topo-membrane">ILLAAVSILSACQQSYFALQVGK</span><span class="topo-outside">ARLKYKVTPPAVTGSPEFERVFR</span><span class="topo-membrane">AQQ</span></span>
-<span class="topo-line"><span class="topo-membrane">NCVEFYPIFIITLWMAGWYF</span><span class="topo-inside">N</span><span class="topo-membrane">QVFATCLGLVYIYGRHLYFWGY</span><span class="topo-outside">SEAAKK</span><span class="topo-membrane">RITGFRLSLGI</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MHHHHHHA</span><span class="topo-inside">GNS</span><span class="topo-membrane">ILLAAVSILSACQQSYFALQVGK</span><span class="topo-outside">ARLKYKVTPPAVTGSPEFERVFR</span><span class="topo-membrane">AQQNCVEFYPIFIITLWMAGWYF</span><span class="topo-inside">N</span><span class="topo-membrane">QVFATCLGLVYIYGRHLYFWGY</span><span class="topo-outside">SEAAKK</span><span class="topo-membrane">RITGFRLSLGI</span></span>
+<span class="topo-ruler">       130       140       150   </span>
 <span class="topo-line"><span class="topo-membrane">LALLTLLGALGIA</span><span class="topo-inside">NSFLDEYLDLNIAK</span><span class="topo-unknown">KLRRQF</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -621,6 +635,7 @@ Microsomal [GSH](/xray-mp-wiki/reagents/additives/glutathione/) S-transferase 2 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -636,9 +651,11 @@ Microsomal [GSH](/xray-mp-wiki/reagents/additives/glutathione/) S-transferase 2 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MHHHHHHAG</span><span class="topo-inside">NS</span><span class="topo-membrane">ILLAAVSILSACQQSYFALQVGK</span><span class="topo-outside">ARLKYKVTPPAVTGSPEFERV</span><span class="topo-membrane">FRAQQ</span></span>
-<span class="topo-line"><span class="topo-membrane">NCVEFYPIFIITLWMAGWYF</span><span class="topo-inside">N</span><span class="topo-membrane">QVFATCLGLVYIYGRHLYFWGYS</span><span class="topo-outside">EAAKK</span><span class="topo-membrane">RITGFRLSLGI</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MHHHHHHAG</span><span class="topo-inside">NS</span><span class="topo-membrane">ILLAAVSILSACQQSYFALQVGK</span><span class="topo-outside">ARLKYKVTPPAVTGSPEFERV</span><span class="topo-membrane">FRAQQNCVEFYPIFIITLWMAGWYF</span><span class="topo-inside">N</span><span class="topo-membrane">QVFATCLGLVYIYGRHLYFWGYS</span><span class="topo-outside">EAAKK</span><span class="topo-membrane">RITGFRLSLGI</span></span>
+<span class="topo-ruler">       130       140       150   </span>
 <span class="topo-line"><span class="topo-membrane">LALLTLLGALGIA</span><span class="topo-inside">NSFLDE</span><span class="topo-unknown">YLDLNIAKKLRRQF</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -713,6 +730,7 @@ Microsomal [GSH](/xray-mp-wiki/reagents/additives/glutathione/) S-transferase 2 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -728,9 +746,11 @@ Microsomal [GSH](/xray-mp-wiki/reagents/additives/glutathione/) S-transferase 2 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MHHHHHHAG</span><span class="topo-inside">NSIL</span><span class="topo-membrane">LAAVSILSACQQSYFALQVGK</span><span class="topo-outside">ARLKYKVTPPAVTGSPEFERV</span><span class="topo-membrane">FRAQQ</span></span>
-<span class="topo-line"><span class="topo-membrane">NCVEFYPIFIITLWMAG</span><span class="topo-inside">WYFNQVF</span><span class="topo-membrane">ATCLGLVYIYGRHLYFWGYS</span><span class="topo-outside">EAAKK</span><span class="topo-membrane">RITGFRLSLGI</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MHHHHHHAG</span><span class="topo-inside">NSIL</span><span class="topo-membrane">LAAVSILSACQQSYFALQVGK</span><span class="topo-outside">ARLKYKVTPPAVTGSPEFERV</span><span class="topo-membrane">FRAQQNCVEFYPIFIITLWMAG</span><span class="topo-inside">WYFNQVF</span><span class="topo-membrane">ATCLGLVYIYGRHLYFWGYS</span><span class="topo-outside">EAAKK</span><span class="topo-membrane">RITGFRLSLGI</span></span>
+<span class="topo-ruler">       130       140       150   </span>
 <span class="topo-line"><span class="topo-membrane">LALLTLLGAL</span><span class="topo-inside">GIANSFLDEYLDLNI</span><span class="topo-unknown">AKKLRRQF</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -805,6 +825,7 @@ Microsomal [GSH](/xray-mp-wiki/reagents/additives/glutathione/) S-transferase 2 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -820,9 +841,11 @@ Microsomal [GSH](/xray-mp-wiki/reagents/additives/glutathione/) S-transferase 2 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MHHHHHHA</span><span class="topo-inside">GNSIL</span><span class="topo-membrane">LAAVSILSACQQSYFALQVGK</span><span class="topo-outside">ARLKYKVTPPAVTGSPEFERVFR</span><span class="topo-membrane">AQQ</span></span>
-<span class="topo-line"><span class="topo-membrane">NCVEFYPIFIITLWMAG</span><span class="topo-inside">WYFNQVF</span><span class="topo-membrane">ATCLGLVYIYGRHLYFWGY</span><span class="topo-outside">SEAAKKR</span><span class="topo-membrane">ITGFRLSLGI</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MHHHHHHA</span><span class="topo-inside">GNSIL</span><span class="topo-membrane">LAAVSILSACQQSYFALQVGK</span><span class="topo-outside">ARLKYKVTPPAVTGSPEFERVFR</span><span class="topo-membrane">AQQNCVEFYPIFIITLWMAG</span><span class="topo-inside">WYFNQVF</span><span class="topo-membrane">ATCLGLVYIYGRHLYFWGY</span><span class="topo-outside">SEAAKKR</span><span class="topo-membrane">ITGFRLSLGI</span></span>
+<span class="topo-ruler">       130       140       150   </span>
 <span class="topo-line"><span class="topo-membrane">LALLTLLGAL</span><span class="topo-inside">GIANSFLDEYLDLNIAKK</span><span class="topo-unknown">LRRQF</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -897,6 +920,7 @@ Microsomal [GSH](/xray-mp-wiki/reagents/additives/glutathione/) S-transferase 2 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -912,9 +936,11 @@ Microsomal [GSH](/xray-mp-wiki/reagents/additives/glutathione/) S-transferase 2 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MHHHHHHAG</span><span class="topo-inside">NSIL</span><span class="topo-membrane">LAAVSILSACQQSYFALQVGK</span><span class="topo-outside">ARLKYKVTPPAVTGSPEFERV</span><span class="topo-membrane">FRAQQ</span></span>
-<span class="topo-line"><span class="topo-membrane">NCVEFYPIFIITLWMAG</span><span class="topo-inside">WYFNQVF</span><span class="topo-membrane">ATCLGLVYIYGRHLYFWGYS</span><span class="topo-outside">EAAKK</span><span class="topo-membrane">RITGFRLSLGI</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MHHHHHHAG</span><span class="topo-inside">NSIL</span><span class="topo-membrane">LAAVSILSACQQSYFALQVGK</span><span class="topo-outside">ARLKYKVTPPAVTGSPEFERV</span><span class="topo-membrane">FRAQQNCVEFYPIFIITLWMAG</span><span class="topo-inside">WYFNQVF</span><span class="topo-membrane">ATCLGLVYIYGRHLYFWGYS</span><span class="topo-outside">EAAKK</span><span class="topo-membrane">RITGFRLSLGI</span></span>
+<span class="topo-ruler">       130       140       150   </span>
 <span class="topo-line"><span class="topo-membrane">LALLTLLGAL</span><span class="topo-inside">GIANSFLDE</span><span class="topo-unknown">YLDLNIAKKLRRQF</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -989,6 +1015,7 @@ Microsomal [GSH](/xray-mp-wiki/reagents/additives/glutathione/) S-transferase 2 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1004,9 +1031,11 @@ Microsomal [GSH](/xray-mp-wiki/reagents/additives/glutathione/) S-transferase 2 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MHHHHHHAG</span><span class="topo-inside">NSIL</span><span class="topo-membrane">LAAVSILSACQQSYFALQVGK</span><span class="topo-outside">ARLKYKVTPPAVTGSPEFERVF</span><span class="topo-membrane">RAQQ</span></span>
-<span class="topo-line"><span class="topo-membrane">NCVEFYPIFIITLWMAG</span><span class="topo-inside">WYFNQVF</span><span class="topo-membrane">ATCLGLVYIYGRHLYFWGY</span><span class="topo-outside">SEAAKK</span><span class="topo-membrane">RITGFRLSLGI</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MHHHHHHAG</span><span class="topo-inside">NSIL</span><span class="topo-membrane">LAAVSILSACQQSYFALQVGK</span><span class="topo-outside">ARLKYKVTPPAVTGSPEFERVF</span><span class="topo-membrane">RAQQNCVEFYPIFIITLWMAG</span><span class="topo-inside">WYFNQVF</span><span class="topo-membrane">ATCLGLVYIYGRHLYFWGY</span><span class="topo-outside">SEAAKK</span><span class="topo-membrane">RITGFRLSLGI</span></span>
+<span class="topo-ruler">       130       140       150   </span>
 <span class="topo-line"><span class="topo-membrane">LALLTLLGAL</span><span class="topo-inside">GIANSFLDEYLDLN</span><span class="topo-unknown">IAKKLRRQF</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1081,6 +1110,7 @@ Microsomal [GSH](/xray-mp-wiki/reagents/additives/glutathione/) S-transferase 2 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1096,9 +1126,11 @@ Microsomal [GSH](/xray-mp-wiki/reagents/additives/glutathione/) S-transferase 2 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MHHHHHHA</span><span class="topo-inside">GNSIL</span><span class="topo-membrane">LAAVSILSACQQSYFALQVGK</span><span class="topo-outside">ARLKYKVTPPAVTGSPEFERVF</span><span class="topo-membrane">RAQQ</span></span>
-<span class="topo-line"><span class="topo-membrane">NCVEFYPIFIITLWMAG</span><span class="topo-inside">WYFNQVF</span><span class="topo-membrane">ATCLGLVYIYGRHLYFWGY</span><span class="topo-outside">SEAAKK</span><span class="topo-membrane">RITGFRLSLGI</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MHHHHHHA</span><span class="topo-inside">GNSIL</span><span class="topo-membrane">LAAVSILSACQQSYFALQVGK</span><span class="topo-outside">ARLKYKVTPPAVTGSPEFERVF</span><span class="topo-membrane">RAQQNCVEFYPIFIITLWMAG</span><span class="topo-inside">WYFNQVF</span><span class="topo-membrane">ATCLGLVYIYGRHLYFWGY</span><span class="topo-outside">SEAAKK</span><span class="topo-membrane">RITGFRLSLGI</span></span>
+<span class="topo-ruler">       130       140       150   </span>
 <span class="topo-line"><span class="topo-membrane">LALLTLLGAL</span><span class="topo-inside">GIANSFLDEYLDLN</span><span class="topo-unknown">IAKKLRRQF</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1173,6 +1205,7 @@ Microsomal [GSH](/xray-mp-wiki/reagents/additives/glutathione/) S-transferase 2 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1188,9 +1221,11 @@ Microsomal [GSH](/xray-mp-wiki/reagents/additives/glutathione/) S-transferase 2 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MHHHHHHAG</span><span class="topo-inside">NSIL</span><span class="topo-membrane">LAAVSILSACQQSYFALQVGK</span><span class="topo-outside">ARLKYKVTPPAVTGSPEFERVF</span><span class="topo-membrane">RAQQ</span></span>
-<span class="topo-line"><span class="topo-membrane">NCVEFYPIFIITLWMAG</span><span class="topo-inside">WYFNQVF</span><span class="topo-membrane">ATCLGLVYIYGRHLYFWGY</span><span class="topo-outside">SEAAKK</span><span class="topo-membrane">RITGFRLSLGI</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MHHHHHHAG</span><span class="topo-inside">NSIL</span><span class="topo-membrane">LAAVSILSACQQSYFALQVGK</span><span class="topo-outside">ARLKYKVTPPAVTGSPEFERVF</span><span class="topo-membrane">RAQQNCVEFYPIFIITLWMAG</span><span class="topo-inside">WYFNQVF</span><span class="topo-membrane">ATCLGLVYIYGRHLYFWGY</span><span class="topo-outside">SEAAKK</span><span class="topo-membrane">RITGFRLSLGI</span></span>
+<span class="topo-ruler">       130       140       150   </span>
 <span class="topo-line"><span class="topo-membrane">LALLTLLGAL</span><span class="topo-inside">GIANSFLDE</span><span class="topo-unknown">YLDLNIAKKLRRQF</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1265,6 +1300,7 @@ Microsomal [GSH](/xray-mp-wiki/reagents/additives/glutathione/) S-transferase 2 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

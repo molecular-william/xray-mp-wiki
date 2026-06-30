@@ -130,19 +130,21 @@ SecDF is a membrane protein belonging to the resistance-nodulation-division (RND
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">DRKNLTSL</span><span class="topo-membrane">FLLGVFLLALLFVWK</span><span class="topo-inside">PWAPEEPKVRLGLDLKGGLRIVLEADVENPTLDDLE</span></span>
-<span class="topo-line"><span class="topo-inside">KARTVLENRINALGVAEPLIQIQGQKRIVVELPGLSQADQDRALKLIGQRAVLEFRIVKE</span></span>
-<span class="topo-line"><span class="topo-inside">GATGTTVAQINQALRENPRLNREELEKDLIKPEDLGPPLLTGADLADARAVFDQFGRPQV</span></span>
-<span class="topo-line"><span class="topo-inside">SLTFTPEGAKKFEEVTRQNIGKRLAIVLDGRVYTAPVIRQAITGGQAVIEGLSSVEEASE</span></span>
-<span class="topo-line"><span class="topo-inside">IALVLRSGSLPVPLKVAEIRAIGPTLGQDAIQA</span><span class="topo-membrane">GIRSALIGTLAIFLLI</span><span class="topo-outside">FAYYGPHLGLV</span></span>
-<span class="topo-line"><span class="topo-outside">A</span><span class="topo-membrane">SLGLLYTSALILGLLSGL</span><span class="topo-inside">GATLTLP</span><span class="topo-membrane">GIAGLVLTLGAAVDGN</span><span class="topo-outside">VLSFERIKEELRAGKKLR</span></span>
-<span class="topo-line"><span class="topo-outside">QAIPEGFRHSTLTI</span><span class="topo-membrane">MDVNIAHLLAAAALYQY</span><span class="topo-inside">ATGPVR</span><span class="topo-membrane">GFAVILAIGVVASVFSN</span><span class="topo-outside">LVFSRH</span></span>
-<span class="topo-line"><span class="topo-outside">LLERLADRGEIRPPMWLVDPRFNFMGPARYV</span><span class="topo-membrane">TAATLLLAALAAGVVFA</span><span class="topo-inside">KGFNYSIDFTGG</span></span>
-<span class="topo-line"><span class="topo-inside">TAYTLRAEPNVEVETLRRFLEEKGFPGKEAVITQV</span><span class="topo-unknown">QAPTAA</span><span class="topo-inside">YREFLVKLPPLSDERRLEL</span></span>
-<span class="topo-line"><span class="topo-inside">ERLFASELKATVLASETVGPAIGEELRRNA</span><span class="topo-membrane">VMAVLVGLGLILLYVAF</span><span class="topo-outside">RFDWTFG</span><span class="topo-membrane">VASILA</span></span>
-<span class="topo-line"><span class="topo-membrane">VAHDVAIVAGMYSLL</span><span class="topo-inside">GLEFSIP</span><span class="topo-membrane">TIAALLTIVGYSINDS</span><span class="topo-outside">IVVSDRIRENQKLLRHLPYAEL</span></span>
-<span class="topo-line"><span class="topo-outside">VNRSINQTLSRTVM</span><span class="topo-membrane">TSLTTLLPILALLFLG</span><span class="topo-inside">GSVL</span><span class="topo-membrane">RDFALAIFVGIFVGTYSS</span><span class="topo-unknown">IYVVSALV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">DRKNLTSL</span><span class="topo-membrane">FLLGVFLLALLFVWK</span><span class="topo-inside">PWAPEEPKVRLGLDLKGGLRIVLEADVENPTLDDLEKARTVLENRINALGVAEPLIQIQGQKRIVVELPGLSQADQDRALKLIGQRAVLEFRIVKE</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">GATGTTVAQINQALRENPRLNREELEKDLIKPEDLGPPLLTGADLADARAVFDQFGRPQVSLTFTPEGAKKFEEVTRQNIGKRLAIVLDGRVYTAPVIRQAITGGQAVIEGLSSVEEASE</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">IALVLRSGSLPVPLKVAEIRAIGPTLGQDAIQA</span><span class="topo-membrane">GIRSALIGTLAIFLLI</span><span class="topo-outside">FAYYGPHLGLVA</span><span class="topo-membrane">SLGLLYTSALILGLLSGL</span><span class="topo-inside">GATLTLP</span><span class="topo-membrane">GIAGLVLTLGAAVDGN</span><span class="topo-outside">VLSFERIKEELRAGKKLR</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">QAIPEGFRHSTLTI</span><span class="topo-membrane">MDVNIAHLLAAAALYQY</span><span class="topo-inside">ATGPVR</span><span class="topo-membrane">GFAVILAIGVVASVFSN</span><span class="topo-outside">LVFSRHLLERLADRGEIRPPMWLVDPRFNFMGPARYV</span><span class="topo-membrane">TAATLLLAALAAGVVFA</span><span class="topo-inside">KGFNYSIDFTGG</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-inside">TAYTLRAEPNVEVETLRRFLEEKGFPGKEAVITQV</span><span class="topo-unknown">QAPTAA</span><span class="topo-inside">YREFLVKLPPLSDERRLELERLFASELKATVLASETVGPAIGEELRRNA</span><span class="topo-membrane">VMAVLVGLGLILLYVAF</span><span class="topo-outside">RFDWTFG</span><span class="topo-membrane">VASILA</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-membrane">VAHDVAIVAGMYSLL</span><span class="topo-inside">GLEFSIP</span><span class="topo-membrane">TIAALLTIVGYSINDS</span><span class="topo-outside">IVVSDRIRENQKLLRHLPYAELVNRSINQTLSRTVM</span><span class="topo-membrane">TSLTTLLPILALLFLG</span><span class="topo-inside">GSVL</span><span class="topo-membrane">RDFALAIFVGIFVGTYSS</span><span class="topo-unknown">IYVVSALV</span></span>
+<span class="topo-ruler">       730       740 </span>
 <span class="topo-line"><span class="topo-unknown">VAWKN</span><span class="topo-outside">R</span><span class="topo-unknown">RKAQEASKAHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (30 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -364,6 +366,7 @@ SecDF is a membrane protein belonging to the resistance-nodulation-division (RND
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -469,19 +472,21 @@ SecDF is a membrane protein belonging to the resistance-nodulation-division (RND
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">DRKN</span><span class="topo-membrane">LTSLFLLGVFLLALLFV</span><span class="topo-inside">WKPWAPEEPKVRLGLDLKGGLRIVLEADVENPTLDDLE</span></span>
-<span class="topo-line"><span class="topo-inside">KARTVLENRINALGVAEPLIQIQGQKRIVVELPGLSQADQDRALKLIGQRAVLEFRIVKE</span></span>
-<span class="topo-line"><span class="topo-inside">GATGTTVAQINQALRENPRLNREELEKDLIKPEDLGPPLLTGADLADARAVFDQFGRPQV</span></span>
-<span class="topo-line"><span class="topo-inside">SLTFTPEGAKKFEEVTRQNIGKRLAIVLDGRVYTAPVIRQAITGGQAVIEGLSSVEEASE</span></span>
-<span class="topo-line"><span class="topo-inside">IALVLRSGSLPVPLKVAEIRAIGPTLGQDAIQAGIR</span><span class="topo-membrane">SALIGTLAIFLLIFA</span><span class="topo-outside">YYGPHLG</span><span class="topo-membrane">LV</span></span>
-<span class="topo-line"><span class="topo-membrane">ASLGLLYTSALILGLLSGL</span><span class="topo-inside">GATLTLP</span><span class="topo-membrane">GIAGLVLTLGAAVDGN</span><span class="topo-outside">VLSFERIKEELRAGKKLR</span></span>
-<span class="topo-line"><span class="topo-outside">QAIPEGFRHSTLTI</span><span class="topo-membrane">MDVNIAHLLAAAALYQYA</span><span class="topo-inside">TGPV</span><span class="topo-membrane">RGFAVILAIGVVASVFSNLVFS</span><span class="topo-outside">RH</span></span>
-<span class="topo-line"><span class="topo-outside">LLERLADRGEIRPPMWLVDPRFNFMGPARYVTAA</span><span class="topo-membrane">TLLLAALAAGVVFAKG</span><span class="topo-inside">FNYSIDFTGG</span></span>
-<span class="topo-line"><span class="topo-inside">TAYTLRAEPNVEVETLRRFLEEKGFPGKEAVITQVQAPTAAYREFLVKLPPLSDERRLEL</span></span>
-<span class="topo-line"><span class="topo-inside">ERLFASELKATVLASETVGPAIGEELRRN</span><span class="topo-membrane">AVMAVLVGLGLILLYV</span><span class="topo-outside">AFRFDWTFGVAS</span><span class="topo-membrane">ILA</span></span>
-<span class="topo-line"><span class="topo-membrane">VAHDVAIVAGMYSLLGL</span><span class="topo-inside">EFSIP</span><span class="topo-membrane">TIAALLTIVGYSINDS</span><span class="topo-outside">IVVSDRIRENQKLLRHLPYAEL</span></span>
-<span class="topo-line"><span class="topo-outside">VNRSINQTLSRTV</span><span class="topo-membrane">MTSLTTLLPILALLFLG</span><span class="topo-inside">GSVLR</span><span class="topo-membrane">DFALAIFVGIFVGTYS</span><span class="topo-outside">SIYVVSALV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">DRKN</span><span class="topo-membrane">LTSLFLLGVFLLALLFV</span><span class="topo-inside">WKPWAPEEPKVRLGLDLKGGLRIVLEADVENPTLDDLEKARTVLENRINALGVAEPLIQIQGQKRIVVELPGLSQADQDRALKLIGQRAVLEFRIVKE</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">GATGTTVAQINQALRENPRLNREELEKDLIKPEDLGPPLLTGADLADARAVFDQFGRPQVSLTFTPEGAKKFEEVTRQNIGKRLAIVLDGRVYTAPVIRQAITGGQAVIEGLSSVEEASE</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">IALVLRSGSLPVPLKVAEIRAIGPTLGQDAIQAGIR</span><span class="topo-membrane">SALIGTLAIFLLIFA</span><span class="topo-outside">YYGPHLG</span><span class="topo-membrane">LVASLGLLYTSALILGLLSGL</span><span class="topo-inside">GATLTLP</span><span class="topo-membrane">GIAGLVLTLGAAVDGN</span><span class="topo-outside">VLSFERIKEELRAGKKLR</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">QAIPEGFRHSTLTI</span><span class="topo-membrane">MDVNIAHLLAAAALYQYA</span><span class="topo-inside">TGPV</span><span class="topo-membrane">RGFAVILAIGVVASVFSNLVFS</span><span class="topo-outside">RHLLERLADRGEIRPPMWLVDPRFNFMGPARYVTAA</span><span class="topo-membrane">TLLLAALAAGVVFAKG</span><span class="topo-inside">FNYSIDFTGG</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-inside">TAYTLRAEPNVEVETLRRFLEEKGFPGKEAVITQVQAPTAAYREFLVKLPPLSDERRLELERLFASELKATVLASETVGPAIGEELRRN</span><span class="topo-membrane">AVMAVLVGLGLILLYV</span><span class="topo-outside">AFRFDWTFGVAS</span><span class="topo-membrane">ILA</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-membrane">VAHDVAIVAGMYSLLGL</span><span class="topo-inside">EFSIP</span><span class="topo-membrane">TIAALLTIVGYSINDS</span><span class="topo-outside">IVVSDRIRENQKLLRHLPYAELVNRSINQTLSRTV</span><span class="topo-membrane">MTSLTTLLPILALLFLG</span><span class="topo-inside">GSVLR</span><span class="topo-membrane">DFALAIFVGIFVGTYS</span><span class="topo-outside">SIYVVSALV</span></span>
+<span class="topo-ruler">       730       740 </span>
 <span class="topo-line"><span class="topo-outside">VAWKNRRKAQEASKA</span><span class="topo-unknown">HHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (27 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -682,6 +687,7 @@ SecDF is a membrane protein belonging to the resistance-nodulation-division (RND
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -805,19 +811,21 @@ SecDF is a membrane protein belonging to the resistance-nodulation-division (RND
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MS</span><span class="topo-outside">RPNPWT</span><span class="topo-membrane">ALLLLLTLLGSLLYIWRP</span><span class="topo-inside">WEHKNDPWSLWNDQYQFMTLGLDLKGGLRIELAP</span></span>
-<span class="topo-line"><span class="topo-inside">ESGTATRDELDRVKTVIENRINALGVAEPTVTVSGGKRVVVEIPGATPAVQDRARSIIQQ</span></span>
-<span class="topo-line"><span class="topo-inside">TARLEFRIVNSDAKPDPAVREKNPRSSGYTLAQLGPVVATGETIADATSGTDQRSGQWVV</span></span>
-<span class="topo-line"><span class="topo-inside">NFKTTDAGAKTFGDFTGKNV</span><span class="topo-unknown">NR</span><span class="topo-inside">LMAVVLDDQIQSVATINQRLFRDIQISGNFTPEEASQL</span></span>
-<span class="topo-line"><span class="topo-inside">ALVLKSGALPIKIVTAAERSIGPSLGADAIRSG</span><span class="topo-membrane">AIAALVGIGLVFVMLFAY</span><span class="topo-outside">YGLWFG</span><span class="topo-membrane">LVG</span></span>
-<span class="topo-line"><span class="topo-membrane">ALGLLFSSIIILGILGGF</span><span class="topo-inside">GATLTLP</span><span class="topo-membrane">GIAGLVLTIGAAVDGNV</span><span class="topo-outside">ISFERIKEELARGKGIKN</span></span>
-<span class="topo-line"><span class="topo-outside">AIGAGYEHSTAAI</span><span class="topo-membrane">LDVNASHLLSALALYNY</span><span class="topo-inside">STGAV</span><span class="topo-membrane">KGFAVTLIIGVIASTFSNLVFA</span><span class="topo-outside">KWF</span></span>
-<span class="topo-line"><span class="topo-outside">MQWLAQRRPNMSAPQWIKHTHFDFMKPAKV</span><span class="topo-membrane">ITTLSVLLALAGAALVATR</span><span class="topo-inside">GLNYGVDFAPG</span></span>
-<span class="topo-line"><span class="topo-inside">TTLTARVDRQVTTEQLRNSVIGAGVSKVTGQSATI</span><span class="topo-unknown">Q</span><span class="topo-inside">RDTTPGQQGQNFTVKVPELNDAEV</span></span>
-<span class="topo-line"><span class="topo-inside">KQIGAAIGKLPQGQVLASETVGPAVGKELTQKT</span><span class="topo-membrane">IYAVLLGLGLILVYVGFR</span><span class="topo-outside">FDFIMG</span><span class="topo-membrane">LGS</span></span>
-<span class="topo-line"><span class="topo-membrane">IIAAIHDVAIAMGLFSLL</span><span class="topo-inside">GLEFTVAS</span><span class="topo-membrane">VAALLTLIGYSLNDSII</span><span class="topo-outside">VSDRIRENMKTMRGHSY</span></span>
-<span class="topo-line"><span class="topo-outside">REIVNAAINQTLSRT</span><span class="topo-membrane">VMTSVSTMLPLISLLIF</span><span class="topo-inside">GGPVL</span><span class="topo-membrane">RDFSLILLVGILVGTYSSIYI</span><span class="topo-outside">VA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MS</span><span class="topo-outside">RPNPWT</span><span class="topo-membrane">ALLLLLTLLGSLLYIWRP</span><span class="topo-inside">WEHKNDPWSLWNDQYQFMTLGLDLKGGLRIELAPESGTATRDELDRVKTVIENRINALGVAEPTVTVSGGKRVVVEIPGATPAVQDRARSIIQQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">TARLEFRIVNSDAKPDPAVREKNPRSSGYTLAQLGPVVATGETIADATSGTDQRSGQWVVNFKTTDAGAKTFGDFTGKNV</span><span class="topo-unknown">NR</span><span class="topo-inside">LMAVVLDDQIQSVATINQRLFRDIQISGNFTPEEASQL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">ALVLKSGALPIKIVTAAERSIGPSLGADAIRSG</span><span class="topo-membrane">AIAALVGIGLVFVMLFAY</span><span class="topo-outside">YGLWFG</span><span class="topo-membrane">LVGALGLLFSSIIILGILGGF</span><span class="topo-inside">GATLTLP</span><span class="topo-membrane">GIAGLVLTIGAAVDGNV</span><span class="topo-outside">ISFERIKEELARGKGIKN</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">AIGAGYEHSTAAI</span><span class="topo-membrane">LDVNASHLLSALALYNY</span><span class="topo-inside">STGAV</span><span class="topo-membrane">KGFAVTLIIGVIASTFSNLVFA</span><span class="topo-outside">KWFMQWLAQRRPNMSAPQWIKHTHFDFMKPAKV</span><span class="topo-membrane">ITTLSVLLALAGAALVATR</span><span class="topo-inside">GLNYGVDFAPG</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-inside">TTLTARVDRQVTTEQLRNSVIGAGVSKVTGQSATI</span><span class="topo-unknown">Q</span><span class="topo-inside">RDTTPGQQGQNFTVKVPELNDAEVKQIGAAIGKLPQGQVLASETVGPAVGKELTQKT</span><span class="topo-membrane">IYAVLLGLGLILVYVGFR</span><span class="topo-outside">FDFIMG</span><span class="topo-membrane">LGS</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-membrane">IIAAIHDVAIAMGLFSLL</span><span class="topo-inside">GLEFTVAS</span><span class="topo-membrane">VAALLTLIGYSLNDSII</span><span class="topo-outside">VSDRIRENMKTMRGHSYREIVNAAINQTLSRT</span><span class="topo-membrane">VMTSVSTMLPLISLLIF</span><span class="topo-inside">GGPVL</span><span class="topo-membrane">RDFSLILLVGILVGTYSSIYI</span><span class="topo-outside">VA</span></span>
+<span class="topo-ruler">       730       740       750</span>
 <span class="topo-line"><span class="topo-outside">PLVVYFEEWRDK</span><span class="topo-unknown">NRAAKPVTNSHHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (27 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1018,6 +1026,7 @@ SecDF is a membrane protein belonging to the resistance-nodulation-division (RND
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1033,19 +1042,21 @@ SecDF is a membrane protein belonging to the resistance-nodulation-division (RND
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSR</span><span class="topo-outside">PNPW</span><span class="topo-membrane">TALLLLLTLLGSLLYIW</span><span class="topo-inside">RPWEHKNDPWSLWNDQYQFMTLGLDLKGGLRIELAP</span></span>
-<span class="topo-line"><span class="topo-inside">ESGTATRDELDRVKTVIENRINALGVAEPTVTVSGGKRVVVEIPGATPAVQDRARSCIQQ</span></span>
-<span class="topo-line"><span class="topo-inside">TARLEFRIVNSDAKPDPAVREKNPRSSGYTLAQLGPVVATGETIADATSGTDQRSGQWVV</span></span>
-<span class="topo-line"><span class="topo-inside">NFKTTDAGAKTFGDFTGKNVNRLMAVVLDDQIQSVATINQRLFRDIQISGNFTPEEASQL</span></span>
-<span class="topo-line"><span class="topo-inside">ACVLKSGALPIKIVTAAERSIGPSLGADAIRSGAI</span><span class="topo-membrane">AALVGIGLVFVMLFA</span><span class="topo-outside">YYGLWFG</span><span class="topo-membrane">LVG</span></span>
-<span class="topo-line"><span class="topo-membrane">ALGLLFSSIIILGIL</span><span class="topo-inside">GGFGATLTLPGIA</span><span class="topo-membrane">GLVLTIGAAVDGN</span><span class="topo-outside">VISFERIKEELARGKGIKN</span></span>
-<span class="topo-line"><span class="topo-outside">AIGAGYEHSTAAI</span><span class="topo-membrane">LDVNASHLLSALALY</span><span class="topo-inside">NYSTGAVKGF</span><span class="topo-membrane">AVTLIIGVIASTFSNLVFA</span><span class="topo-outside">KWF</span></span>
-<span class="topo-line"><span class="topo-outside">MQWLAQRRPNMSAPQWIKHTHFDFMKPAKV</span><span class="topo-membrane">ITTLSVLLALAGAALV</span><span class="topo-inside">ATRGLNYGVDFAPG</span></span>
-<span class="topo-line"><span class="topo-inside">TTLTARVDRQVTTEQLRNSVIGAGVSKVTGQSATIQRDTTPGQQGQNFTVKVPELNDAEV</span></span>
-<span class="topo-line"><span class="topo-inside">KQIGAAIGKLPQGQVLASETVGPAVGKELTQKTIYA</span><span class="topo-membrane">VLLGLGLILVYVGFR</span><span class="topo-outside">FDFIMG</span><span class="topo-membrane">LGS</span></span>
-<span class="topo-line"><span class="topo-membrane">IIAAIHDVAIAMGLF</span><span class="topo-inside">SLLGLEFTVASV</span><span class="topo-membrane">AALLTLIGYSLNDS</span><span class="topo-outside">IIVSDRIRENMKTMRGHSY</span></span>
-<span class="topo-line"><span class="topo-outside">REIVNAAINQTLSRT</span><span class="topo-membrane">VMTSVSTMLPLISLLIF</span><span class="topo-inside">GGPVLRDF</span><span class="topo-membrane">SLILLVGILVGTYSS</span><span class="topo-outside">IYI</span><span class="topo-unknown">VA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSR</span><span class="topo-outside">PNPW</span><span class="topo-membrane">TALLLLLTLLGSLLYIW</span><span class="topo-inside">RPWEHKNDPWSLWNDQYQFMTLGLDLKGGLRIELAPESGTATRDELDRVKTVIENRINALGVAEPTVTVSGGKRVVVEIPGATPAVQDRARSCIQQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">TARLEFRIVNSDAKPDPAVREKNPRSSGYTLAQLGPVVATGETIADATSGTDQRSGQWVVNFKTTDAGAKTFGDFTGKNVNRLMAVVLDDQIQSVATINQRLFRDIQISGNFTPEEASQL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">ACVLKSGALPIKIVTAAERSIGPSLGADAIRSGAI</span><span class="topo-membrane">AALVGIGLVFVMLFA</span><span class="topo-outside">YYGLWFG</span><span class="topo-membrane">LVGALGLLFSSIIILGIL</span><span class="topo-inside">GGFGATLTLPGIA</span><span class="topo-membrane">GLVLTIGAAVDGN</span><span class="topo-outside">VISFERIKEELARGKGIKN</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">AIGAGYEHSTAAI</span><span class="topo-membrane">LDVNASHLLSALALY</span><span class="topo-inside">NYSTGAVKGF</span><span class="topo-membrane">AVTLIIGVIASTFSNLVFA</span><span class="topo-outside">KWFMQWLAQRRPNMSAPQWIKHTHFDFMKPAKV</span><span class="topo-membrane">ITTLSVLLALAGAALV</span><span class="topo-inside">ATRGLNYGVDFAPG</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-inside">TTLTARVDRQVTTEQLRNSVIGAGVSKVTGQSATIQRDTTPGQQGQNFTVKVPELNDAEVKQIGAAIGKLPQGQVLASETVGPAVGKELTQKTIYA</span><span class="topo-membrane">VLLGLGLILVYVGFR</span><span class="topo-outside">FDFIMG</span><span class="topo-membrane">LGS</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-membrane">IIAAIHDVAIAMGLF</span><span class="topo-inside">SLLGLEFTVASV</span><span class="topo-membrane">AALLTLIGYSLNDS</span><span class="topo-outside">IIVSDRIRENMKTMRGHSYREIVNAAINQTLSRT</span><span class="topo-membrane">VMTSVSTMLPLISLLIF</span><span class="topo-inside">GGPVLRDF</span><span class="topo-membrane">SLILLVGILVGTYSS</span><span class="topo-outside">IYI</span><span class="topo-unknown">VA</span></span>
+<span class="topo-ruler">       730       740       750</span>
 <span class="topo-line"><span class="topo-unknown">PLVVYFEEWR</span><span class="topo-outside">D</span><span class="topo-unknown">KNRAAKPVTNSHHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (27 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1246,6 +1257,7 @@ SecDF is a membrane protein belonging to the resistance-nodulation-division (RND
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1261,19 +1273,21 @@ SecDF is a membrane protein belonging to the resistance-nodulation-division (RND
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">SRPNPW</span><span class="topo-membrane">TALLLLLTLLGSLLYI</span><span class="topo-inside">WRPWEHKNDPWSLWNDQYQFMTLGLDLKGGLRIELAP</span></span>
-<span class="topo-line"><span class="topo-inside">ESGTATRDELDRVKTVIENRINALGVAEPTVTVSGGKRVVVEIPGATPAVQDRARSCIQQ</span></span>
-<span class="topo-line"><span class="topo-inside">TARLEFRIVNSDAKPDPAVREKNPRSSGYTLAQLGPVVATGETIADATSGTDQRSGQWVV</span></span>
-<span class="topo-line"><span class="topo-inside">NFKTTDAGAKTFGDFTGKNVNRLMAVVLDDQIQSVATINQRLFRDIQISGNFTPEEASQL</span></span>
-<span class="topo-line"><span class="topo-inside">ACVLKSGALPIKIVTAAERSIGPSLGADAIRSGAI</span><span class="topo-membrane">AALVGIGLVFVMLF</span><span class="topo-outside">AYYGLWFG</span><span class="topo-membrane">LVG</span></span>
-<span class="topo-line"><span class="topo-membrane">ALGLLFSSIIILGIL</span><span class="topo-inside">GGFGATLTLPGIA</span><span class="topo-membrane">GLVLTIGAAVDGN</span><span class="topo-outside">VISFERIKEELARGKGIKN</span></span>
-<span class="topo-line"><span class="topo-outside">AIGAGYEHSTAAI</span><span class="topo-membrane">LDVNASHLLSALAL</span><span class="topo-inside">YNYSTGAVKGF</span><span class="topo-membrane">AVTLIIGVIASTFSNLVFA</span><span class="topo-outside">KWF</span></span>
-<span class="topo-line"><span class="topo-outside">MQWLAQRRPNMSAPQWIKHTHFDFMKPAKVI</span><span class="topo-membrane">TTLSVLLALAGAALVA</span><span class="topo-inside">TRGLNYGVDFAPG</span></span>
-<span class="topo-line"><span class="topo-inside">TTLTARVDRQVTTEQLRNSVIGAGVSKVTGQSATIQRDTTPGQQGQNFTVKVPELNDAEV</span></span>
-<span class="topo-line"><span class="topo-inside">KQIGAAIGKLPQGQVLASETVGPAVGKELTQKTIYA</span><span class="topo-membrane">VLLGLGLILVYVGFR</span><span class="topo-outside">FDFIMG</span><span class="topo-membrane">LGS</span></span>
-<span class="topo-line"><span class="topo-membrane">IIAAIHDVAIAMGLF</span><span class="topo-inside">SLLGLEFTVASV</span><span class="topo-membrane">AALLTLIGYSLNDSI</span><span class="topo-outside">IVSDRIRENMKTMRGHSY</span></span>
-<span class="topo-line"><span class="topo-outside">REIVNAAINQTLSRTV</span><span class="topo-membrane">MTSVSTMLPLISLLIF</span><span class="topo-inside">GGPVLRDF</span><span class="topo-membrane">SLILLVGILVGTYSS</span><span class="topo-outside">IYIVA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">SRPNPW</span><span class="topo-membrane">TALLLLLTLLGSLLYI</span><span class="topo-inside">WRPWEHKNDPWSLWNDQYQFMTLGLDLKGGLRIELAPESGTATRDELDRVKTVIENRINALGVAEPTVTVSGGKRVVVEIPGATPAVQDRARSCIQQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">TARLEFRIVNSDAKPDPAVREKNPRSSGYTLAQLGPVVATGETIADATSGTDQRSGQWVVNFKTTDAGAKTFGDFTGKNVNRLMAVVLDDQIQSVATINQRLFRDIQISGNFTPEEASQL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">ACVLKSGALPIKIVTAAERSIGPSLGADAIRSGAI</span><span class="topo-membrane">AALVGIGLVFVMLF</span><span class="topo-outside">AYYGLWFG</span><span class="topo-membrane">LVGALGLLFSSIIILGIL</span><span class="topo-inside">GGFGATLTLPGIA</span><span class="topo-membrane">GLVLTIGAAVDGN</span><span class="topo-outside">VISFERIKEELARGKGIKN</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">AIGAGYEHSTAAI</span><span class="topo-membrane">LDVNASHLLSALAL</span><span class="topo-inside">YNYSTGAVKGF</span><span class="topo-membrane">AVTLIIGVIASTFSNLVFA</span><span class="topo-outside">KWFMQWLAQRRPNMSAPQWIKHTHFDFMKPAKVI</span><span class="topo-membrane">TTLSVLLALAGAALVA</span><span class="topo-inside">TRGLNYGVDFAPG</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-inside">TTLTARVDRQVTTEQLRNSVIGAGVSKVTGQSATIQRDTTPGQQGQNFTVKVPELNDAEVKQIGAAIGKLPQGQVLASETVGPAVGKELTQKTIYA</span><span class="topo-membrane">VLLGLGLILVYVGFR</span><span class="topo-outside">FDFIMG</span><span class="topo-membrane">LGS</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-membrane">IIAAIHDVAIAMGLF</span><span class="topo-inside">SLLGLEFTVASV</span><span class="topo-membrane">AALLTLIGYSLNDSI</span><span class="topo-outside">IVSDRIRENMKTMRGHSYREIVNAAINQTLSRTV</span><span class="topo-membrane">MTSVSTMLPLISLLIF</span><span class="topo-inside">GGPVLRDF</span><span class="topo-membrane">SLILLVGILVGTYSS</span><span class="topo-outside">IYIVA</span></span>
+<span class="topo-ruler">       730       740       750</span>
 <span class="topo-line"><span class="topo-outside">PLVVYFEEWRDKNR</span><span class="topo-unknown">AAKPVTNSHHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (25 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1460,6 +1474,7 @@ SecDF is a membrane protein belonging to the resistance-nodulation-division (RND
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1475,19 +1490,21 @@ SecDF is a membrane protein belonging to the resistance-nodulation-division (RND
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MS</span><span class="topo-inside">RPNPWT</span><span class="topo-membrane">ALLLLLTLLGSLLYIW</span><span class="topo-outside">RPWEHKNDPWSLWNDQYQFMTLGLDLKGGLRIELAP</span></span>
-<span class="topo-line"><span class="topo-outside">ESGTATRDELDRVKTVIENRINALGVAEPTVTVSGGKRVVVEIPGATPAVQDRARSCIQQ</span></span>
-<span class="topo-line"><span class="topo-outside">TARLEFRIVNSDAKPDPAVREKNPRSSGYTLAQLGPVVATGETIADATSGTDQRSGQWVV</span></span>
-<span class="topo-line"><span class="topo-outside">NFKTTDAGAKTFGDFTGKNVNRLMAVVLDDQIQSVATINQRLFRDIQISGNFTPEEASQL</span></span>
-<span class="topo-line"><span class="topo-outside">ACVLKSGALPIKIVTAAERSIGPSLGADAIRSG</span><span class="topo-membrane">AIAALVGIGLVFVMLF</span><span class="topo-inside">AYYGLWFGL</span><span class="topo-membrane">VG</span></span>
-<span class="topo-line"><span class="topo-membrane">ALGLLFSSIIILGILGG</span><span class="topo-outside">FGATLTLPG</span><span class="topo-membrane">IAGLVLTIGAAVDGN</span><span class="topo-inside">VISFERIKEELARGKGIKN</span></span>
-<span class="topo-line"><span class="topo-inside">AIGAGYEHSTAAI</span><span class="topo-membrane">LDVNASHLLSALALYN</span><span class="topo-outside">YSTGAVKGF</span><span class="topo-membrane">AVTLIIGVIASTFSNLVFA</span><span class="topo-inside">KWF</span></span>
-<span class="topo-line"><span class="topo-inside">MQWLAQRRPNMSAPQWIKHTHFDFMKPAKVI</span><span class="topo-membrane">TTLSVLLALAGAALVA</span><span class="topo-outside">TRGLNYGVDFAPG</span></span>
-<span class="topo-line"><span class="topo-outside">TTLTARVDRQVTTEQLRNSVIGAGVSKVTGQSATIQRDTTPGQQGQNFTVKVPELNDAEV</span></span>
-<span class="topo-line"><span class="topo-outside">KQIGAAIGKLPQGQVLASETVGPAVGKELTQKTIYA</span><span class="topo-membrane">VLLGLGLILVYVGFR</span><span class="topo-inside">FDFIMG</span><span class="topo-membrane">LGS</span></span>
-<span class="topo-line"><span class="topo-membrane">IIAAIHDVAIAMGLFSLL</span><span class="topo-outside">GLEFTVASV</span><span class="topo-membrane">AALLTLIGYSLNDSI</span><span class="topo-inside">IVSDRIRENMKTMRGHSY</span></span>
-<span class="topo-line"><span class="topo-inside">REIVNAAINQTLSRTV</span><span class="topo-membrane">MTSVSTMLPLISLLIF</span><span class="topo-outside">GGPVLR</span><span class="topo-membrane">DFSLILLVGILVGTYSS</span><span class="topo-inside">IYIVA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MS</span><span class="topo-inside">RPNPWT</span><span class="topo-membrane">ALLLLLTLLGSLLYIW</span><span class="topo-outside">RPWEHKNDPWSLWNDQYQFMTLGLDLKGGLRIELAPESGTATRDELDRVKTVIENRINALGVAEPTVTVSGGKRVVVEIPGATPAVQDRARSCIQQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">TARLEFRIVNSDAKPDPAVREKNPRSSGYTLAQLGPVVATGETIADATSGTDQRSGQWVVNFKTTDAGAKTFGDFTGKNVNRLMAVVLDDQIQSVATINQRLFRDIQISGNFTPEEASQL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">ACVLKSGALPIKIVTAAERSIGPSLGADAIRSG</span><span class="topo-membrane">AIAALVGIGLVFVMLF</span><span class="topo-inside">AYYGLWFGL</span><span class="topo-membrane">VGALGLLFSSIIILGILGG</span><span class="topo-outside">FGATLTLPG</span><span class="topo-membrane">IAGLVLTIGAAVDGN</span><span class="topo-inside">VISFERIKEELARGKGIKN</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">AIGAGYEHSTAAI</span><span class="topo-membrane">LDVNASHLLSALALYN</span><span class="topo-outside">YSTGAVKGF</span><span class="topo-membrane">AVTLIIGVIASTFSNLVFA</span><span class="topo-inside">KWFMQWLAQRRPNMSAPQWIKHTHFDFMKPAKVI</span><span class="topo-membrane">TTLSVLLALAGAALVA</span><span class="topo-outside">TRGLNYGVDFAPG</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">TTLTARVDRQVTTEQLRNSVIGAGVSKVTGQSATIQRDTTPGQQGQNFTVKVPELNDAEVKQIGAAIGKLPQGQVLASETVGPAVGKELTQKTIYA</span><span class="topo-membrane">VLLGLGLILVYVGFR</span><span class="topo-inside">FDFIMG</span><span class="topo-membrane">LGS</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-membrane">IIAAIHDVAIAMGLFSLL</span><span class="topo-outside">GLEFTVASV</span><span class="topo-membrane">AALLTLIGYSLNDSI</span><span class="topo-inside">IVSDRIRENMKTMRGHSYREIVNAAINQTLSRTV</span><span class="topo-membrane">MTSVSTMLPLISLLIF</span><span class="topo-outside">GGPVLR</span><span class="topo-membrane">DFSLILLVGILVGTYSS</span><span class="topo-inside">IYIVA</span></span>
+<span class="topo-ruler">       730       740       750</span>
 <span class="topo-line"><span class="topo-inside">PLVVYFEEWRDKNR</span><span class="topo-unknown">AAKPVTNSHHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (25 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1674,6 +1691,7 @@ SecDF is a membrane protein belonging to the resistance-nodulation-division (RND
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

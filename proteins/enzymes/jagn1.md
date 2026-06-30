@@ -95,13 +95,15 @@ JAGN1 (Jagunal Homolog 1) is a human four-transmembrane helix protein involved i
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MSKGEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATNGKLTLKFICTTGKLPVPWPTL</span></span>
-<span class="topo-line"><span class="topo-outside">VTTL</span><span class="topo-unknown">G</span><span class="topo-outside">VQCFSRYPDHMKRHDFFKSAMPEGYVQERTISFKDDGTYKTRAEVKFEGDTLVNR</span></span>
-<span class="topo-line"><span class="topo-outside">IELKGIDFKEDGNILGHKLEYNMASR</span><span class="topo-unknown">AGPRAAGTDGSDF</span><span class="topo-outside">QHRERVAMHYQMSVTL</span><span class="topo-membrane">KYEIK</span></span>
-<span class="topo-line"><span class="topo-membrane">KLIYVHLVIWLLLVAKMSVGH</span><span class="topo-inside">LRLLSHDQVAMP</span><span class="topo-membrane">YQWEYPYLLSILPSLLGLLSF</span><span class="topo-outside">PRNNI</span><span class="topo-membrane">S</span></span>
-<span class="topo-line"><span class="topo-membrane">YLVLSMISMGLFSIAPLIYGSMEMF</span><span class="topo-unknown">PAAQQLYRH</span><span class="topo-inside">GKAYRFLFGFSA</span><span class="topo-membrane">VSIMYLVLVLAVQV</span></span>
-<span class="topo-line"><span class="topo-membrane">HAWQLYYSKKLL</span><span class="topo-outside">DSWFTSTQEKKHKNSHNVYITADKQKNGIKANFKIRHNVEDGSVQLAD</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MSKGEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATNGKLTLKFICTTGKLPVPWPTLVTTL</span><span class="topo-unknown">G</span><span class="topo-outside">VQCFSRYPDHMKRHDFFKSAMPEGYVQERTISFKDDGTYKTRAEVKFEGDTLVNR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">IELKGIDFKEDGNILGHKLEYNMASR</span><span class="topo-unknown">AGPRAAGTDGSDF</span><span class="topo-outside">QHRERVAMHYQMSVTL</span><span class="topo-membrane">KYEIKKLIYVHLVIWLLLVAKMSVGH</span><span class="topo-inside">LRLLSHDQVAMP</span><span class="topo-membrane">YQWEYPYLLSILPSLLGLLSF</span><span class="topo-outside">PRNNI</span><span class="topo-membrane">S</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">YLVLSMISMGLFSIAPLIYGSMEMF</span><span class="topo-unknown">PAAQQLYRH</span><span class="topo-inside">GKAYRFLFGFSA</span><span class="topo-membrane">VSIMYLVLVLAVQVHAWQLYYSKKLL</span><span class="topo-outside">DSWFTSTQEKKHKNSHNVYITADKQKNGIKANFKIRHNVEDGSVQLAD</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420</span>
 <span class="topo-line"><span class="topo-outside">HYQQNTPIGDGPVLLPDNHYLSTQSVLSKDPNEKRDHMVLLEFVTAAGITH</span><span class="topo-unknown">HHHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (12 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -197,6 +199,7 @@ JAGN1 (Jagunal Homolog 1) is a human four-transmembrane helix protein involved i
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

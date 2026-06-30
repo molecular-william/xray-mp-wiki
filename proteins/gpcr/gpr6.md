@@ -174,14 +174,15 @@ intrinsic conformational preference of the protein itself.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MKTIIALSYIFCLVFAGGANGSLELSSQLSAGPPGLLL</span><span class="topo-outside">PAVNP</span><span class="topo-membrane">WDVLLCVSGTVIAGENA</span></span>
-<span class="topo-line"><span class="topo-membrane">LVVALIAS</span><span class="topo-inside">TPALRTPMFV</span><span class="topo-membrane">LVGSLATADLLAGLGLILHFVFQYLV</span><span class="topo-outside">PSET</span><span class="topo-membrane">VSLLTVGFLVAS</span></span>
-<span class="topo-line"><span class="topo-membrane">FAASVSSLLAITV</span><span class="topo-inside">DRYLSLYNPLTYYSRRTLLGV</span><span class="topo-membrane">HLLLAATWTVSLGLGLLPVLGWN</span><span class="topo-outside">CLA</span></span>
-<span class="topo-line"><span class="topo-outside">ERAACS</span><span class="topo-membrane">VVRPLARSHVALLSAAFFMVFGIMLHLYV</span><span class="topo-inside">RICQVVWRHAADLEDNWETLNDNLK</span></span>
-<span class="topo-line"><span class="topo-inside">VIEKADNAAQVKDALTKMRAAALDAQKATPPKLE</span><span class="topo-unknown">DKSPDSPE</span><span class="topo-inside">MKDFRHGFDILVGQIDDA</span></span>
-<span class="topo-line"><span class="topo-inside">LKLANEGKVKEAQAAAEQLKTTRNAYIQKYL</span><span class="topo-unknown">A</span><span class="topo-inside">HLAATRKGVR</span><span class="topo-membrane">TLAVVLGTFGACWLPFAI</span></span>
-<span class="topo-line"><span class="topo-membrane">YCVVGS</span><span class="topo-outside">HEDPA</span><span class="topo-membrane">VYTYATLLPATLNSMINPIIYAFR</span><span class="topo-inside">NQEIQRALWLLLDGC</span><span class="topo-unknown">FQSKVPFRSR</span></span>
-<span class="topo-line"><span class="topo-unknown">SPSEVEFHHHHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MKTIIALSYIFCLVFAGGANGSLELSSQLSAGPPGLLL</span><span class="topo-outside">PAVNP</span><span class="topo-membrane">WDVLLCVSGTVIAGENALVVALIAS</span><span class="topo-inside">TPALRTPMFV</span><span class="topo-membrane">LVGSLATADLLAGLGLILHFVFQYLV</span><span class="topo-outside">PSET</span><span class="topo-membrane">VSLLTVGFLVAS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">FAASVSSLLAITV</span><span class="topo-inside">DRYLSLYNPLTYYSRRTLLGV</span><span class="topo-membrane">HLLLAATWTVSLGLGLLPVLGWN</span><span class="topo-outside">CLAERAACS</span><span class="topo-membrane">VVRPLARSHVALLSAAFFMVFGIMLHLYV</span><span class="topo-inside">RICQVVWRHAADLEDNWETLNDNLK</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">VIEKADNAAQVKDALTKMRAAALDAQKATPPKLE</span><span class="topo-unknown">DKSPDSPE</span><span class="topo-inside">MKDFRHGFDILVGQIDDALKLANEGKVKEAQAAAEQLKTTRNAYIQKYL</span><span class="topo-unknown">A</span><span class="topo-inside">HLAATRKGVR</span><span class="topo-membrane">TLAVVLGTFGACWLPFAI</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430      </span>
+<span class="topo-line"><span class="topo-membrane">YCVVGS</span><span class="topo-outside">HEDPA</span><span class="topo-membrane">VYTYATLLPATLNSMINPIIYAFR</span><span class="topo-inside">NQEIQRALWLLLDGC</span><span class="topo-unknown">FQSKVPFRSRSPSEVEFHHHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -340,6 +341,7 @@ intrinsic conformational preference of the protein itself.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -355,14 +357,15 @@ intrinsic conformational preference of the protein itself.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MKTIIALSYIFCLVFADYKDDDDAGRAGGANGSLELSSQLSAGPPGL</span><span class="topo-outside">LLPAVN</span><span class="topo-membrane">PWDVLLC</span></span>
-<span class="topo-line"><span class="topo-membrane">VSGTVIAGENALVVALIAS</span><span class="topo-inside">TPALRTP</span><span class="topo-membrane">MFVLVGSLATADLLAGLGLILHFVF</span><span class="topo-outside">QYLVPSETV</span></span>
-<span class="topo-line"><span class="topo-membrane">SLLTVGFLVASFAASVSSLLAITVD</span><span class="topo-inside">RYLSLYNPLTYYSRRTLL</span><span class="topo-membrane">GVHLLLAATWTVSLGLG</span></span>
-<span class="topo-line"><span class="topo-membrane">LLPVLGW</span><span class="topo-outside">NCLAERAACSVVRPL</span><span class="topo-membrane">ARSHVALLSAAFFMVFGIMLHLYVR</span><span class="topo-inside">ICQVVWRHAADLE</span></span>
-<span class="topo-line"><span class="topo-inside">DNWETLNDNLKVIEKADNAAQVKDALTKMRAAALDAQKATP</span><span class="topo-unknown">PKLEDKSPDSPEMKDFRHG</span></span>
-<span class="topo-line"><span class="topo-unknown">F</span><span class="topo-inside">DILVGQIDDALKLANEGKVKEAQAAAEQLKTTRNAYIQKYL</span><span class="topo-unknown">A</span><span class="topo-inside">HLAATRKGVR</span><span class="topo-membrane">TLAVVLG</span></span>
-<span class="topo-line"><span class="topo-membrane">TFGACWLPFAIYCVVG</span><span class="topo-outside">SHEDPAV</span><span class="topo-membrane">YTYATLLPATLNSMINPIIYAFR</span><span class="topo-inside">NQEIQRALWLLLDG</span></span>
-<span class="topo-line"><span class="topo-unknown">CFQSKVPFRSRSPSEVEFLEVLFQGPHHHHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MKTIIALSYIFCLVFADYKDDDDAGRAGGANGSLELSSQLSAGPPGL</span><span class="topo-outside">LLPAVN</span><span class="topo-membrane">PWDVLLCVSGTVIAGENALVVALIAS</span><span class="topo-inside">TPALRTP</span><span class="topo-membrane">MFVLVGSLATADLLAGLGLILHFVF</span><span class="topo-outside">QYLVPSETV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">SLLTVGFLVASFAASVSSLLAITVD</span><span class="topo-inside">RYLSLYNPLTYYSRRTLL</span><span class="topo-membrane">GVHLLLAATWTVSLGLGLLPVLGW</span><span class="topo-outside">NCLAERAACSVVRPL</span><span class="topo-membrane">ARSHVALLSAAFFMVFGIMLHLYVR</span><span class="topo-inside">ICQVVWRHAADLE</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">DNWETLNDNLKVIEKADNAAQVKDALTKMRAAALDAQKATP</span><span class="topo-unknown">PKLEDKSPDSPEMKDFRHGF</span><span class="topo-inside">DILVGQIDDALKLANEGKVKEAQAAAEQLKTTRNAYIQKYL</span><span class="topo-unknown">A</span><span class="topo-inside">HLAATRKGVR</span><span class="topo-membrane">TLAVVLG</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450     </span>
+<span class="topo-line"><span class="topo-membrane">TFGACWLPFAIYCVVG</span><span class="topo-outside">SHEDPAV</span><span class="topo-membrane">YTYATLLPATLNSMINPIIYAFR</span><span class="topo-inside">NQEIQRALWLLLDG</span><span class="topo-unknown">CFQSKVPFRSRSPSEVEFLEVLFQGPHHHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -521,6 +524,7 @@ intrinsic conformational preference of the protein itself.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -536,14 +540,15 @@ intrinsic conformational preference of the protein itself.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MKTIIALSYIFCLVFADYKDDDDAGRAGGANGSLELSSQLSAGPPGLL</span><span class="topo-outside">LPAVNPW</span><span class="topo-membrane">DVLLC</span></span>
-<span class="topo-line"><span class="topo-membrane">VSGTVIAGENALVVALIAST</span><span class="topo-inside">PALRTP</span><span class="topo-membrane">MFVLVGSLATADLLAGLGLILHFV</span><span class="topo-outside">FQYLVPSETV</span></span>
-<span class="topo-line"><span class="topo-outside">SLL</span><span class="topo-membrane">TVGFLVASFAASVSSLLAITVDRY</span><span class="topo-inside">LSLYNPLTYYSRRTL</span><span class="topo-membrane">LGVHLLLAATWTVSLGLG</span></span>
-<span class="topo-line"><span class="topo-membrane">LLPVL</span><span class="topo-outside">GWNCLAERAACSVVRPLARS</span><span class="topo-membrane">HVALLSAAFFMVFGIMLHLYVRI</span><span class="topo-inside">CQVVWRHAADLE</span></span>
-<span class="topo-line"><span class="topo-inside">DNWETLNDNLKVIEKADNAAQVKDALTKMRAAALDAQKATPP</span><span class="topo-unknown">KLEDKSPDSPEMKDFR</span><span class="topo-inside">HG</span></span>
-<span class="topo-line"><span class="topo-inside">FDILVGQIDDALKLANEGKVKEAQAAAEQLKTTRNAYIQKYL</span><span class="topo-unknown">A</span><span class="topo-inside">HLAATRKGV</span><span class="topo-membrane">RTLAVVLG</span></span>
-<span class="topo-line"><span class="topo-membrane">TFGACWLPFAIYCVV</span><span class="topo-outside">GSHEDPAVY</span><span class="topo-membrane">TYATLLPATLNSMINPIIYAFRN</span><span class="topo-inside">QEIQRALWLLLDG</span></span>
-<span class="topo-line"><span class="topo-inside">C</span><span class="topo-unknown">FQSKVPFRSRSPSEVEFLEVLFQGPHHHHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MKTIIALSYIFCLVFADYKDDDDAGRAGGANGSLELSSQLSAGPPGLL</span><span class="topo-outside">LPAVNPW</span><span class="topo-membrane">DVLLCVSGTVIAGENALVVALIAST</span><span class="topo-inside">PALRTP</span><span class="topo-membrane">MFVLVGSLATADLLAGLGLILHFV</span><span class="topo-outside">FQYLVPSETV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">SLL</span><span class="topo-membrane">TVGFLVASFAASVSSLLAITVDRY</span><span class="topo-inside">LSLYNPLTYYSRRTL</span><span class="topo-membrane">LGVHLLLAATWTVSLGLGLLPVL</span><span class="topo-outside">GWNCLAERAACSVVRPLARS</span><span class="topo-membrane">HVALLSAAFFMVFGIMLHLYVRI</span><span class="topo-inside">CQVVWRHAADLE</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">DNWETLNDNLKVIEKADNAAQVKDALTKMRAAALDAQKATPP</span><span class="topo-unknown">KLEDKSPDSPEMKDFR</span><span class="topo-inside">HGFDILVGQIDDALKLANEGKVKEAQAAAEQLKTTRNAYIQKYL</span><span class="topo-unknown">A</span><span class="topo-inside">HLAATRKGV</span><span class="topo-membrane">RTLAVVLG</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450     </span>
+<span class="topo-line"><span class="topo-membrane">TFGACWLPFAIYCVV</span><span class="topo-outside">GSHEDPAVY</span><span class="topo-membrane">TYATLLPATLNSMINPIIYAFRN</span><span class="topo-inside">QEIQRALWLLLDGC</span><span class="topo-unknown">FQSKVPFRSRSPSEVEFLEVLFQGPHHHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -702,6 +707,7 @@ intrinsic conformational preference of the protein itself.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -717,13 +723,15 @@ intrinsic conformational preference of the protein itself.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MNASAASLNDSQVVVVAAEGAAAAATAAGGPDTGEWGPPAAAALGAGGGANGSLELSSQL</span></span>
-<span class="topo-line"><span class="topo-unknown">SAGPPGLLLPA</span><span class="topo-inside">VNP</span><span class="topo-membrane">WDVLLCVSGTVIAGENALVVALIAS</span><span class="topo-outside">TPALRTPMF</span><span class="topo-membrane">VLVGSLATADLL</span></span>
-<span class="topo-line"><span class="topo-membrane">AGCGLILHFVFQ</span><span class="topo-inside">YLVPSET</span><span class="topo-membrane">VSLLTVGFLVASFAASVSSLLAITV</span><span class="topo-outside">DRYLSLYNALTYYSRR</span></span>
-<span class="topo-line"><span class="topo-outside">TLLGV</span><span class="topo-membrane">HLLLAATWTVSLGLGLLPVLGWNC</span><span class="topo-inside">LAERAAC</span><span class="topo-membrane">SVVRPLARSHVALLSAAFFMVFGI</span></span>
-<span class="topo-line"><span class="topo-membrane">MLHLY</span><span class="topo-outside">VRICQVVWRHAHQIALQQH</span><span class="topo-unknown">CLAPPHLAA</span><span class="topo-outside">TRKGV</span><span class="topo-membrane">GTLAVVLGTFGASWLPFAIYCV</span></span>
-<span class="topo-line"><span class="topo-membrane">VGS</span><span class="topo-inside">HEDPA</span><span class="topo-membrane">VYTYATLLPATYNSMINPIIYAFR</span><span class="topo-outside">NQEIQRALWLLL</span><span class="topo-unknown">CGCFQSKVPFRSRSPS</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MNASAASLNDSQVVVVAAEGAAAAATAAGGPDTGEWGPPAAAALGAGGGANGSLELSSQLSAGPPGLLLPA</span><span class="topo-inside">VNP</span><span class="topo-membrane">WDVLLCVSGTVIAGENALVVALIAS</span><span class="topo-outside">TPALRTPMF</span><span class="topo-membrane">VLVGSLATADLL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">AGCGLILHFVFQ</span><span class="topo-inside">YLVPSET</span><span class="topo-membrane">VSLLTVGFLVASFAASVSSLLAITV</span><span class="topo-outside">DRYLSLYNALTYYSRRTLLGV</span><span class="topo-membrane">HLLLAATWTVSLGLGLLPVLGWNC</span><span class="topo-inside">LAERAAC</span><span class="topo-membrane">SVVRPLARSHVALLSAAFFMVFGI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">MLHLY</span><span class="topo-outside">VRICQVVWRHAHQIALQQH</span><span class="topo-unknown">CLAPPHLAA</span><span class="topo-outside">TRKGV</span><span class="topo-membrane">GTLAVVLGTFGASWLPFAIYCVVGS</span><span class="topo-inside">HEDPA</span><span class="topo-membrane">VYTYATLLPATYNSMINPIIYAFR</span><span class="topo-outside">NQEIQRALWLLL</span><span class="topo-unknown">CGCFQSKVPFRSRSPS</span></span>
+<span class="topo-ruler">       370  </span>
 <span class="topo-line"><span class="topo-unknown">EVHHHHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -868,6 +876,7 @@ intrinsic conformational preference of the protein itself.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -883,12 +892,13 @@ intrinsic conformational preference of the protein itself.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MHHHHHHGSSG</span><span class="topo-outside">SELDQLRQEAEQLKNQIRDARKACADATLSQITNNIDPVGRIQMRTRRT</span></span>
-<span class="topo-line"><span class="topo-outside">LRGHLAKIYAMHWGTDSRLLVSASQDGKLIIWDSYTTNKVHAIPLRSSWVMTCAYAPSGN</span></span>
-<span class="topo-line"><span class="topo-outside">YVACGGLDNICSIYNLKTREGNVRVSRELAGHTGYLSCCRFLDDNQIVTSSGDTTCALWD</span></span>
-<span class="topo-line"><span class="topo-outside">IETGQQTTTFTGHTGDVMSLSLAPDTRLFVSGACDASAKLWDVREGMCRQTFTGHESDIN</span></span>
-<span class="topo-line"><span class="topo-outside">AICFFPNGNAFATGSDDATCRLFDLRADQELMTYSHDNIICGITSVSFSKSGRLLLAGYD</span></span>
-<span class="topo-line"><span class="topo-outside">DFNCNVWDALKADRAGVLAGHDNRVSCLGVTDDGMAVATGSWDSFLKIWN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MHHHHHHGSSG</span><span class="topo-outside">SELDQLRQEAEQLKNQIRDARKACADATLSQITNNIDPVGRIQMRTRRTLRGHLAKIYAMHWGTDSRLLVSASQDGKLIIWDSYTTNKVHAIPLRSSWVMTCAYAPSGN</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">YVACGGLDNICSIYNLKTREGNVRVSRELAGHTGYLSCCRFLDDNQIVTSSGDTTCALWDIETGQQTTTFTGHTGDVMSLSLAPDTRLFVSGACDASAKLWDVREGMCRQTFTGHESDIN</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350</span>
+<span class="topo-line"><span class="topo-outside">AICFFPNGNAFATGSDDATCRLFDLRADQELMTYSHDNIICGITSVSFSKSGRLLLAGYDDFNCNVWDALKADRAGVLAGHDNRVSCLGVTDDGMAVATGSWDSFLKIWN</span></span>
+<details class="topo-details"><summary>Topology coordinates (2 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -914,6 +924,7 @@ intrinsic conformational preference of the protein itself.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -929,13 +940,15 @@ intrinsic conformational preference of the protein itself.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGCLGNS</span><span class="topo-outside">KTEDQRNEEKAQREANKKIEKQLQKDKQVYRATHRLLLLG</span><span class="topo-unknown">AGE</span><span class="topo-outside">SGKNTIVKQM</span></span>
-<span class="topo-line"><span class="topo-outside">RIL</span><span class="topo-unknown">LVNGFNGEGGEEDPQAARSNSDGEKATKVQDIKNNLKEAIETIVAAMSNLVPPVELA</span></span>
-<span class="topo-line"><span class="topo-unknown">NPENQFRVDYILSVMNVPDFDFPPEFYEHAKALWEDEGVRACYERSNEYQLIDCAQYFLD</span></span>
-<span class="topo-line"><span class="topo-unknown">KIDVIKQADYVPSDQDLLRCRVLH</span><span class="topo-outside">TSGIFETKFQVDKVNFHMFDVGAQRDERRKWIQCFN</span></span>
-<span class="topo-line"><span class="topo-outside">DVTAIIFVVASSSY</span><span class="topo-unknown">NMVIREDN</span><span class="topo-outside">QTNRLQAALKLFDSIWNNKWLRDTSVILFLNKQDLLAE</span></span>
-<span class="topo-line"><span class="topo-outside">KVLAGKSKIEDYFPEFARYTTPEDATPEPGEDPRVTRAKYFIRDEFLRISTASGDGRHYC</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGCLGNS</span><span class="topo-outside">KTEDQRNEEKAQREANKKIEKQLQKDKQVYRATHRLLLLG</span><span class="topo-unknown">AGE</span><span class="topo-outside">SGKNTIVKQMRIL</span><span class="topo-unknown">LVNGFNGEGGEEDPQAARSNSDGEKATKVQDIKNNLKEAIETIVAAMSNLVPPVELA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-unknown">NPENQFRVDYILSVMNVPDFDFPPEFYEHAKALWEDEGVRACYERSNEYQLIDCAQYFLDKIDVIKQADYVPSDQDLLRCRVLH</span><span class="topo-outside">TSGIFETKFQVDKVNFHMFDVGAQRDERRKWIQCFN</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">DVTAIIFVVASSSY</span><span class="topo-unknown">NMVIREDN</span><span class="topo-outside">QTNRLQAALKLFDSIWNNKWLRDTSVILFLNKQDLLAEKVLAGKSKIEDYFPEFARYTTPEDATPEPGEDPRVTRAKYFIRDEFLRISTASGDGRHYC</span></span>
+<span class="topo-ruler">       370       380       390     </span>
 <span class="topo-line"><span class="topo-outside">YPHFTCAVDTENIRRVFNDCRDIIQRMHLRQYELL</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -996,6 +1009,7 @@ intrinsic conformational preference of the protein itself.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1011,8 +1025,9 @@ intrinsic conformational preference of the protein itself.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MASN</span><span class="topo-outside">NTASIAQARKLVEQLKMEANIDRIKVSKAAADLMAYCEAHAKEDPLLTPVPASENP</span></span>
-<span class="topo-line"><span class="topo-outside">FR</span><span class="topo-unknown">EKKFFCAIL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70 </span>
+<span class="topo-line"><span class="topo-unknown">MASN</span><span class="topo-outside">NTASIAQARKLVEQLKMEANIDRIKVSKAAADLMAYCEAHAKEDPLLTPVPASENPFR</span><span class="topo-unknown">EKKFFCAIL</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1045,6 +1060,7 @@ intrinsic conformational preference of the protein itself.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

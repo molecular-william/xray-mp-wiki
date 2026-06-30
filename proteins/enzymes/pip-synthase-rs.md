@@ -118,12 +118,13 @@ Phosphatidylinositol-phosphate (PIP) synthase catalyses the first step of [Phosp
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MRLAYVKNHEIYGEKLLGLTLRERIEKTLQRAGFDVRFFDELSLEEAEDYLIILEPVLIL</span></span>
-<span class="topo-line"><span class="topo-inside">ERDLLLEGRKILVSDGFTVGYFFGGDFRTVFDGNLQSSIEKYLSLNNLESYEIWAIKLSN</span></span>
-<span class="topo-line"><span class="topo-inside">DNLKTAEKLLLSSLIGSRGLFAAIF</span><span class="topo-unknown">LPIARLLAD</span><span class="topo-inside">WGVSPDAVTV</span><span class="topo-membrane">VGTLGVMAGALIFYPM</span></span>
-<span class="topo-line"><span class="topo-membrane">GQ</span><span class="topo-outside">L</span><span class="topo-membrane">FWGTVVITVFVFSD</span><span class="topo-inside">IIDGLMARLLFREGPWGAFLDSYL</span><span class="topo-membrane">DRVGDSSVFTGIVIWFFL</span><span class="topo-outside">G</span></span>
-<span class="topo-line"><span class="topo-outside">GANP</span><span class="topo-membrane">TIAILALICLVLSSLV</span><span class="topo-inside">SYSKARAEGLGLTANVGI</span><span class="topo-membrane">AERSERLVVVLVATGLVGL</span><span class="topo-outside">GIP</span></span>
-<span class="topo-line"><span class="topo-outside">S</span><span class="topo-membrane">WVLLVVLIVLAIASVVT</span><span class="topo-inside">IFQRVLTVREQAKAWTA</span><span class="topo-unknown">S</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">MRLAYVKNHEIYGEKLLGLTLRERIEKTLQRAGFDVRFFDELSLEEAEDYLIILEPVLILERDLLLEGRKILVSDGFTVGYFFGGDFRTVFDGNLQSSIEKYLSLNNLESYEIWAIKLSN</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">DNLKTAEKLLLSSLIGSRGLFAAIF</span><span class="topo-unknown">LPIARLLAD</span><span class="topo-inside">WGVSPDAVTV</span><span class="topo-membrane">VGTLGVMAGALIFYPMGQ</span><span class="topo-outside">L</span><span class="topo-membrane">FWGTVVITVFVFSD</span><span class="topo-inside">IIDGLMARLLFREGPWGAFLDSYL</span><span class="topo-membrane">DRVGDSSVFTGIVIWFFL</span><span class="topo-outside">G</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330      </span>
+<span class="topo-line"><span class="topo-outside">GANP</span><span class="topo-membrane">TIAILALICLVLSSLV</span><span class="topo-inside">SYSKARAEGLGLTANVGI</span><span class="topo-membrane">AERSERLVVVLVATGLVGL</span><span class="topo-outside">GIPS</span><span class="topo-membrane">WVLLVVLIVLAIASVVT</span><span class="topo-inside">IFQRVLTVREQAKAWTA</span><span class="topo-unknown">S</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -240,6 +241,7 @@ Phosphatidylinositol-phosphate (PIP) synthase catalyses the first step of [Phosp
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -255,12 +257,13 @@ Phosphatidylinositol-phosphate (PIP) synthase catalyses the first step of [Phosp
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MRLAYVKNHEIYGEKLLGLTLRERIEKTLQRAGFDVRFFDELSLEEAEDYLIILEPVLIL</span></span>
-<span class="topo-line"><span class="topo-inside">ERDLLLEGRKILVSDGFTVGYFFGGDFRTVFDGNLQSSIEKYLSLNNLESYEIWAIKLSN</span></span>
-<span class="topo-line"><span class="topo-inside">DNLKTAEKLLLSSLIGSRGLFAAIF</span><span class="topo-unknown">LPIARLLAD</span><span class="topo-inside">WGVSPDAVTV</span><span class="topo-membrane">VGTLGVMAGALIFYPM</span></span>
-<span class="topo-line"><span class="topo-membrane">GQ</span><span class="topo-outside">L</span><span class="topo-membrane">FWGTVVITVFVFSD</span><span class="topo-inside">IIDGLMARLLFREGPWGAFLDSYL</span><span class="topo-membrane">DRVGDSSVFTGIVIWFFL</span><span class="topo-outside">G</span></span>
-<span class="topo-line"><span class="topo-outside">GANP</span><span class="topo-membrane">TIAILALICLVLSSLV</span><span class="topo-inside">SYSKARAEGLGLTANVGI</span><span class="topo-membrane">AERSERLVVVLVATGLVGL</span><span class="topo-outside">GIP</span></span>
-<span class="topo-line"><span class="topo-outside">S</span><span class="topo-membrane">WVLLVVLIVLAIASVVT</span><span class="topo-inside">IFQRVLTVREQAKAWTA</span><span class="topo-unknown">S</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">MRLAYVKNHEIYGEKLLGLTLRERIEKTLQRAGFDVRFFDELSLEEAEDYLIILEPVLILERDLLLEGRKILVSDGFTVGYFFGGDFRTVFDGNLQSSIEKYLSLNNLESYEIWAIKLSN</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">DNLKTAEKLLLSSLIGSRGLFAAIF</span><span class="topo-unknown">LPIARLLAD</span><span class="topo-inside">WGVSPDAVTV</span><span class="topo-membrane">VGTLGVMAGALIFYPMGQ</span><span class="topo-outside">L</span><span class="topo-membrane">FWGTVVITVFVFSD</span><span class="topo-inside">IIDGLMARLLFREGPWGAFLDSYL</span><span class="topo-membrane">DRVGDSSVFTGIVIWFFL</span><span class="topo-outside">G</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330      </span>
+<span class="topo-line"><span class="topo-outside">GANP</span><span class="topo-membrane">TIAILALICLVLSSLV</span><span class="topo-inside">SYSKARAEGLGLTANVGI</span><span class="topo-membrane">AERSERLVVVLVATGLVGL</span><span class="topo-outside">GIPS</span><span class="topo-membrane">WVLLVVLIVLAIASVVT</span><span class="topo-inside">IFQRVLTVREQAKAWTA</span><span class="topo-unknown">S</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -377,6 +380,7 @@ Phosphatidylinositol-phosphate (PIP) synthase catalyses the first step of [Phosp
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

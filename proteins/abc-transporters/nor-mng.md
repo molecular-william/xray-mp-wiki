@@ -179,14 +179,15 @@ NorM-NG is a multidrug and toxic compound extrusion (MATE) family transporter fr
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">LDRFSFSVFLKEIRLLTALAL</span><span class="topo-membrane">PMLLAQVAQVGIGFVDTVM</span><span class="topo-outside">AGGAGKEDLAAVALG</span><span class="topo-membrane">SSAFA</span></span>
-<span class="topo-line"><span class="topo-membrane">TVYITFMGIMAA</span><span class="topo-inside">LNPMIAQLYGAGKTGEAGETGRQG</span><span class="topo-membrane">IWFGLILGIFGMILMWAAI</span><span class="topo-outside">TPFRN</span></span>
-<span class="topo-line"><span class="topo-outside">WLTLSDYVEGTMAQYMLF</span><span class="topo-membrane">TSLAMPAAMVHRALHAYA</span><span class="topo-inside">SSLNRPR</span><span class="topo-membrane">LIMLVSFAAFVLNVPLN</span></span>
-<span class="topo-line"><span class="topo-membrane">Y</span><span class="topo-outside">IFVYGKFGMPALGGAGC</span><span class="topo-membrane">GVATMAVFWFSALALWIY</span><span class="topo-inside">IAKEKFFRPFGLTAKFGKPDWAVF</span></span>
-<span class="topo-line"><span class="topo-inside">KQIWKI</span><span class="topo-membrane">GAPIGLSYFLEASAFSFIV</span><span class="topo-outside">FLIAPFGEDYVAAQQ</span><span class="topo-membrane">VGISLSGILYMIPQSVGSAG</span></span>
-<span class="topo-line"><span class="topo-inside">TVRIGFSLGRREFSRARYISGVSL</span><span class="topo-membrane">VSGWVLAVITVLSLVLFR</span><span class="topo-outside">SPLASMYNDDPAVLSIAS</span></span>
-<span class="topo-line"><span class="topo-outside">TV</span><span class="topo-membrane">LLFAGLFQPADFTQCIASY</span><span class="topo-inside">ALRGYKVTK</span><span class="topo-membrane">VPMFIHAAAFWGCGLLPGYLL</span><span class="topo-outside">AYRFDMGIY</span></span>
-<span class="topo-line"><span class="topo-membrane">GFWTALIASLTIAAVALV</span><span class="topo-inside">WCLEKYSMELVKSHKAVSSGL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">LDRFSFSVFLKEIRLLTALAL</span><span class="topo-membrane">PMLLAQVAQVGIGFVDTVM</span><span class="topo-outside">AGGAGKEDLAAVALG</span><span class="topo-membrane">SSAFATVYITFMGIMAA</span><span class="topo-inside">LNPMIAQLYGAGKTGEAGETGRQG</span><span class="topo-membrane">IWFGLILGIFGMILMWAAI</span><span class="topo-outside">TPFRN</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">WLTLSDYVEGTMAQYMLF</span><span class="topo-membrane">TSLAMPAAMVHRALHAYA</span><span class="topo-inside">SSLNRPR</span><span class="topo-membrane">LIMLVSFAAFVLNVPLNY</span><span class="topo-outside">IFVYGKFGMPALGGAGC</span><span class="topo-membrane">GVATMAVFWFSALALWIY</span><span class="topo-inside">IAKEKFFRPFGLTAKFGKPDWAVF</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">KQIWKI</span><span class="topo-membrane">GAPIGLSYFLEASAFSFIV</span><span class="topo-outside">FLIAPFGEDYVAAQQ</span><span class="topo-membrane">VGISLSGILYMIPQSVGSAG</span><span class="topo-inside">TVRIGFSLGRREFSRARYISGVSL</span><span class="topo-membrane">VSGWVLAVITVLSLVLFR</span><span class="topo-outside">SPLASMYNDDPAVLSIAS</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450         </span>
+<span class="topo-line"><span class="topo-outside">TV</span><span class="topo-membrane">LLFAGLFQPADFTQCIASY</span><span class="topo-inside">ALRGYKVTK</span><span class="topo-membrane">VPMFIHAAAFWGCGLLPGYLL</span><span class="topo-outside">AYRFDMGIY</span><span class="topo-membrane">GFWTALIASLTIAAVALV</span><span class="topo-inside">WCLEKYSMELVKSHKAVSSGL</span></span>
+<details class="topo-details"><summary>Topology coordinates (25 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -373,6 +374,7 @@ NorM-NG is a multidrug and toxic compound extrusion (MATE) family transporter fr
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -388,8 +390,9 @@ NorM-NG is a multidrug and toxic compound extrusion (MATE) family transporter fr
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">ENLYFQGS</span><span class="topo-inside">VSSVPTKLEVVAATPTSLLISWDARGEYVVYYRITYGETGGNSPVQEFTVPG</span></span>
-<span class="topo-line"><span class="topo-inside">SSSTATISGLSPGVDYTITVYARSYYWGWYSPISINYRT</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90         </span>
+<span class="topo-line"><span class="topo-unknown">ENLYFQGS</span><span class="topo-inside">VSSVPTKLEVVAATPTSLLISWDARGEYVVYYRITYGETGGNSPVQEFTVPGSSSTATISGLSPGVDYTITVYARSYYWGWYSPISINYRT</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -408,6 +411,7 @@ NorM-NG is a multidrug and toxic compound extrusion (MATE) family transporter fr
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -563,14 +567,15 @@ NorM-NG is a multidrug and toxic compound extrusion (MATE) family transporter fr
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">LDRFSFSVFLKEIRLLTALALP</span><span class="topo-membrane">MLLAQVAQVGIGFVD</span><span class="topo-outside">TVMAGGAGKEDLAAVALGSSAF</span><span class="topo-membrane">A</span></span>
-<span class="topo-line"><span class="topo-membrane">TVYITFMGIMAA</span><span class="topo-inside">LNPMIAQLYGAGKTGEAGETGR</span><span class="topo-membrane">QGIWFGLILGIFGMILM</span><span class="topo-outside">WAAITPFRN</span></span>
-<span class="topo-line"><span class="topo-outside">WLTLSDYVEGTMAQYMLFTSLA</span><span class="topo-membrane">MPAAMVHRALHAYASS</span><span class="topo-inside">LNRPR</span><span class="topo-membrane">LIMLVSFAAFVLN</span><span class="topo-outside">VPLN</span></span>
-<span class="topo-line"><span class="topo-outside">YIFVYGKFGMPALGGAGCGVAT</span><span class="topo-membrane">MAVFWFSALALWIYIA</span><span class="topo-inside">KEKFFRPFGLTAKFGKPDWAVF</span></span>
-<span class="topo-line"><span class="topo-inside">KQIWKIG</span><span class="topo-membrane">APIGLSYFLEASAFSFI</span><span class="topo-outside">VFLIAPFGEDYVAAQQVG</span><span class="topo-membrane">ISLSGILYMIPQSVGSA</span><span class="topo-inside">G</span></span>
-<span class="topo-line"><span class="topo-inside">TVRIGFSLGRREFSRARYISGVSLVSG</span><span class="topo-membrane">WVLAVITVLSLVLF</span><span class="topo-outside">RSPLASMYNDDPAVLSIAS</span></span>
-<span class="topo-line"><span class="topo-outside">TV</span><span class="topo-membrane">LLFAGLFQPADFTQCI</span><span class="topo-inside">ASYALRGYKVTKVPM</span><span class="topo-membrane">FIHAAAFWGCGLLPGYLL</span><span class="topo-outside">AYRFDMGIY</span></span>
-<span class="topo-line"><span class="topo-membrane">GFWTALIASLTIAA</span><span class="topo-inside">VALVWCLEKYSMELVKSHKAVSSGL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">LDRFSFSVFLKEIRLLTALALP</span><span class="topo-membrane">MLLAQVAQVGIGFVD</span><span class="topo-outside">TVMAGGAGKEDLAAVALGSSAF</span><span class="topo-membrane">ATVYITFMGIMAA</span><span class="topo-inside">LNPMIAQLYGAGKTGEAGETGR</span><span class="topo-membrane">QGIWFGLILGIFGMILM</span><span class="topo-outside">WAAITPFRN</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">WLTLSDYVEGTMAQYMLFTSLA</span><span class="topo-membrane">MPAAMVHRALHAYASS</span><span class="topo-inside">LNRPR</span><span class="topo-membrane">LIMLVSFAAFVLN</span><span class="topo-outside">VPLNYIFVYGKFGMPALGGAGCGVAT</span><span class="topo-membrane">MAVFWFSALALWIYIA</span><span class="topo-inside">KEKFFRPFGLTAKFGKPDWAVF</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">KQIWKIG</span><span class="topo-membrane">APIGLSYFLEASAFSFI</span><span class="topo-outside">VFLIAPFGEDYVAAQQVG</span><span class="topo-membrane">ISLSGILYMIPQSVGSA</span><span class="topo-inside">GTVRIGFSLGRREFSRARYISGVSLVSG</span><span class="topo-membrane">WVLAVITVLSLVLF</span><span class="topo-outside">RSPLASMYNDDPAVLSIAS</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450         </span>
+<span class="topo-line"><span class="topo-outside">TV</span><span class="topo-membrane">LLFAGLFQPADFTQCI</span><span class="topo-inside">ASYALRGYKVTKVPM</span><span class="topo-membrane">FIHAAAFWGCGLLPGYLL</span><span class="topo-outside">AYRFDMGIY</span><span class="topo-membrane">GFWTALIASLTIAA</span><span class="topo-inside">VALVWCLEKYSMELVKSHKAVSSGL</span></span>
+<details class="topo-details"><summary>Topology coordinates (25 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -757,6 +762,7 @@ NorM-NG is a multidrug and toxic compound extrusion (MATE) family transporter fr
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -772,8 +778,9 @@ NorM-NG is a multidrug and toxic compound extrusion (MATE) family transporter fr
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">ENLYFQGS</span><span class="topo-inside">VSSVPTKLEVVAATPTSLLISWDARGEYVVYYRITYGETGGNSPVQEFTVPG</span></span>
-<span class="topo-line"><span class="topo-inside">SSSTATISGLSPGVDYTITVYARSYYWGWYSPISINYRT</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90         </span>
+<span class="topo-line"><span class="topo-unknown">ENLYFQGS</span><span class="topo-inside">VSSVPTKLEVVAATPTSLLISWDARGEYVVYYRITYGETGGNSPVQEFTVPGSSSTATISGLSPGVDYTITVYARSYYWGWYSPISINYRT</span></span>
+<details class="topo-details"><summary>Topology coordinates (2 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -799,6 +806,7 @@ NorM-NG is a multidrug and toxic compound extrusion (MATE) family transporter fr
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -814,14 +822,15 @@ NorM-NG is a multidrug and toxic compound extrusion (MATE) family transporter fr
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">LDRFSFSVFLKEIRLLTALAL</span><span class="topo-membrane">PMLLAQVAQVGIGFVD</span><span class="topo-outside">TVMAGGAGKEDLAAVALGSSAF</span><span class="topo-membrane">A</span></span>
-<span class="topo-line"><span class="topo-membrane">TVYITFMGIMAALN</span><span class="topo-inside">PMIAQLYGAGKTGEAGET</span><span class="topo-membrane">GRQGIWFGLILGIFGMILM</span><span class="topo-outside">WAAITPFRN</span></span>
-<span class="topo-line"><span class="topo-outside">WLTLSDYVEGTMAQYMLFTSLA</span><span class="topo-membrane">MPAAMVHRALHAYASSL</span><span class="topo-inside">NRP</span><span class="topo-membrane">RLIMLVSFAAFVLN</span><span class="topo-outside">VPLN</span></span>
-<span class="topo-line"><span class="topo-outside">YIFVYGKFGMPALGGAGCGVAT</span><span class="topo-membrane">MAVFWFSALALWIYIAK</span><span class="topo-inside">EKFFRPFGLTAKFGKPDWAVF</span></span>
-<span class="topo-line"><span class="topo-inside">KQI</span><span class="topo-membrane">WKIGAPIGLSYFLEASAFSFI</span><span class="topo-outside">VFLIAPFGEDYVAAQQVG</span><span class="topo-membrane">ISLSGILYMIPQSVGSAG</span></span>
-<span class="topo-line"><span class="topo-membrane">T</span><span class="topo-inside">VRIGFSLGRREFSRARYISGVSLV</span><span class="topo-membrane">SGWVLAVITVLSLVLFR</span><span class="topo-outside">SPLASMYNDDPAVLSIAS</span></span>
-<span class="topo-line"><span class="topo-outside">TV</span><span class="topo-membrane">LLFAGLFQPADFTQCIASY</span><span class="topo-inside">ALRGYKVTK</span><span class="topo-membrane">VPMFIHAAAFWGCGLLPGYLL</span><span class="topo-outside">AYRFDMGIY</span></span>
-<span class="topo-line"><span class="topo-membrane">GFWTALIASLTIAAVAL</span><span class="topo-inside">VWCLEKYSMELVKSHKAVSSGL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">LDRFSFSVFLKEIRLLTALAL</span><span class="topo-membrane">PMLLAQVAQVGIGFVD</span><span class="topo-outside">TVMAGGAGKEDLAAVALGSSAF</span><span class="topo-membrane">ATVYITFMGIMAALN</span><span class="topo-inside">PMIAQLYGAGKTGEAGET</span><span class="topo-membrane">GRQGIWFGLILGIFGMILM</span><span class="topo-outside">WAAITPFRN</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">WLTLSDYVEGTMAQYMLFTSLA</span><span class="topo-membrane">MPAAMVHRALHAYASSL</span><span class="topo-inside">NRP</span><span class="topo-membrane">RLIMLVSFAAFVLN</span><span class="topo-outside">VPLNYIFVYGKFGMPALGGAGCGVAT</span><span class="topo-membrane">MAVFWFSALALWIYIAK</span><span class="topo-inside">EKFFRPFGLTAKFGKPDWAVF</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">KQI</span><span class="topo-membrane">WKIGAPIGLSYFLEASAFSFI</span><span class="topo-outside">VFLIAPFGEDYVAAQQVG</span><span class="topo-membrane">ISLSGILYMIPQSVGSAGT</span><span class="topo-inside">VRIGFSLGRREFSRARYISGVSLV</span><span class="topo-membrane">SGWVLAVITVLSLVLFR</span><span class="topo-outside">SPLASMYNDDPAVLSIAS</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450         </span>
+<span class="topo-line"><span class="topo-outside">TV</span><span class="topo-membrane">LLFAGLFQPADFTQCIASY</span><span class="topo-inside">ALRGYKVTK</span><span class="topo-membrane">VPMFIHAAAFWGCGLLPGYLL</span><span class="topo-outside">AYRFDMGIY</span><span class="topo-membrane">GFWTALIASLTIAAVAL</span><span class="topo-inside">VWCLEKYSMELVKSHKAVSSGL</span></span>
+<details class="topo-details"><summary>Topology coordinates (25 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1008,6 +1017,7 @@ NorM-NG is a multidrug and toxic compound extrusion (MATE) family transporter fr
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1023,8 +1033,9 @@ NorM-NG is a multidrug and toxic compound extrusion (MATE) family transporter fr
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">ENLYFQGS</span><span class="topo-inside">VSSVPTKLEVVAATPTSLLISWDARGEYVVYYRITYGETGGNSPVQEFTVPG</span></span>
-<span class="topo-line"><span class="topo-inside">SSSTATISGLSPGVDYTITVYARSYYWGWYSPISINYRT</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90         </span>
+<span class="topo-line"><span class="topo-unknown">ENLYFQGS</span><span class="topo-inside">VSSVPTKLEVVAATPTSLLISWDARGEYVVYYRITYGETGGNSPVQEFTVPGSSSTATISGLSPGVDYTITVYARSYYWGWYSPISINYRT</span></span>
+<details class="topo-details"><summary>Topology coordinates (2 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1050,6 +1061,7 @@ NorM-NG is a multidrug and toxic compound extrusion (MATE) family transporter fr
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1065,14 +1077,15 @@ NorM-NG is a multidrug and toxic compound extrusion (MATE) family transporter fr
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">LDRFSFSVFLKEIRLLTALALPML</span><span class="topo-membrane">LAQVAQVGIGFVDTVMAGG</span><span class="topo-outside">AGKEDLAAVA</span><span class="topo-membrane">LGSSAFA</span></span>
-<span class="topo-line"><span class="topo-membrane">TVYITFMGIMA</span><span class="topo-inside">ALNPMIAQLYGAGKTGEAGETGRQGIWF</span><span class="topo-membrane">GLILGIFGMILMWAAIT</span><span class="topo-outside">PFRN</span></span>
-<span class="topo-line"><span class="topo-outside">WLTLSDYVEGTMAQY</span><span class="topo-membrane">MLFTSLAMPAAMVHRALH</span><span class="topo-inside">AYASSLNRPRLI</span><span class="topo-membrane">MLVSFAAFVLNVPLN</span></span>
-<span class="topo-line"><span class="topo-membrane">YIFV</span><span class="topo-outside">YGKFGMPALGGA</span><span class="topo-membrane">GCGVATMAVFWFSALA</span><span class="topo-inside">LWIYIAKEKFFRPFGLTAKFGKPDWAVF</span></span>
-<span class="topo-line"><span class="topo-inside">KQIWKIG</span><span class="topo-membrane">APIGLSYFLEASAFSFIV</span><span class="topo-outside">FLIAPFGEDYVAAQQ</span><span class="topo-membrane">VGISLSGILYMIPQSVGS</span><span class="topo-inside">AG</span></span>
-<span class="topo-line"><span class="topo-inside">TVRIGFSLGRREFSRARYISGVSLV</span><span class="topo-membrane">SGWVLAVITVLSLVLFR</span><span class="topo-outside">SPLASMYNDDPAVLSIAS</span></span>
-<span class="topo-line"><span class="topo-outside">TV</span><span class="topo-membrane">LLFAGLFQPADFTQCIASY</span><span class="topo-inside">ALRGYKVTKVP</span><span class="topo-membrane">MFIHAAAFWGCGLLPGYL</span><span class="topo-outside">LAYRFDMGIY</span></span>
-<span class="topo-line"><span class="topo-membrane">GFWTALIASLTIAAVAL</span><span class="topo-inside">VWCLEKYSMELVKSHKAVSSGL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">LDRFSFSVFLKEIRLLTALALPML</span><span class="topo-membrane">LAQVAQVGIGFVDTVMAGG</span><span class="topo-outside">AGKEDLAAVA</span><span class="topo-membrane">LGSSAFATVYITFMGIMA</span><span class="topo-inside">ALNPMIAQLYGAGKTGEAGETGRQGIWF</span><span class="topo-membrane">GLILGIFGMILMWAAIT</span><span class="topo-outside">PFRN</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">WLTLSDYVEGTMAQY</span><span class="topo-membrane">MLFTSLAMPAAMVHRALH</span><span class="topo-inside">AYASSLNRPRLI</span><span class="topo-membrane">MLVSFAAFVLNVPLNYIFV</span><span class="topo-outside">YGKFGMPALGGA</span><span class="topo-membrane">GCGVATMAVFWFSALA</span><span class="topo-inside">LWIYIAKEKFFRPFGLTAKFGKPDWAVF</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">KQIWKIG</span><span class="topo-membrane">APIGLSYFLEASAFSFIV</span><span class="topo-outside">FLIAPFGEDYVAAQQ</span><span class="topo-membrane">VGISLSGILYMIPQSVGS</span><span class="topo-inside">AGTVRIGFSLGRREFSRARYISGVSLV</span><span class="topo-membrane">SGWVLAVITVLSLVLFR</span><span class="topo-outside">SPLASMYNDDPAVLSIAS</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450         </span>
+<span class="topo-line"><span class="topo-outside">TV</span><span class="topo-membrane">LLFAGLFQPADFTQCIASY</span><span class="topo-inside">ALRGYKVTKVP</span><span class="topo-membrane">MFIHAAAFWGCGLLPGYL</span><span class="topo-outside">LAYRFDMGIY</span><span class="topo-membrane">GFWTALIASLTIAAVAL</span><span class="topo-inside">VWCLEKYSMELVKSHKAVSSGL</span></span>
+<details class="topo-details"><summary>Topology coordinates (25 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1259,6 +1272,7 @@ NorM-NG is a multidrug and toxic compound extrusion (MATE) family transporter fr
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1274,8 +1288,9 @@ NorM-NG is a multidrug and toxic compound extrusion (MATE) family transporter fr
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">ENLYFQGS</span><span class="topo-inside">VSSVPTKLEVVAATPTSLLISWDARGEYVVYYRITYGETGGNSPVQEFTVPG</span></span>
-<span class="topo-line"><span class="topo-inside">SSSTATISGLSPGVDYTITVYARSYYWGWYSPISINYRT</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90         </span>
+<span class="topo-line"><span class="topo-unknown">ENLYFQGS</span><span class="topo-inside">VSSVPTKLEVVAATPTSLLISWDARGEYVVYYRITYGETGGNSPVQEFTVPGSSSTATISGLSPGVDYTITVYARSYYWGWYSPISINYRT</span></span>
+<details class="topo-details"><summary>Topology coordinates (2 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1301,6 +1316,7 @@ NorM-NG is a multidrug and toxic compound extrusion (MATE) family transporter fr
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1316,14 +1332,15 @@ NorM-NG is a multidrug and toxic compound extrusion (MATE) family transporter fr
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">LDRFSFSVFLKEIRLLTALA</span><span class="topo-membrane">LPMLLAQVAQVGIGFVDTVMA</span><span class="topo-outside">GGAGKEDLAAVA</span><span class="topo-membrane">LGSSAFA</span></span>
-<span class="topo-line"><span class="topo-membrane">TVYITFMGIMAALN</span><span class="topo-inside">PMIAQLYGAGKTGEAGETGRQG</span><span class="topo-membrane">IWFGLILGIFGMILMWAAITP</span><span class="topo-outside">FRN</span></span>
-<span class="topo-line"><span class="topo-outside">WLTLSDYVEGTMAQ</span><span class="topo-membrane">YMLFTSLAMPAAMVHRALHAYASS</span><span class="topo-inside">LNRP</span><span class="topo-membrane">RLIMLVSFAAFVLNVPLN</span></span>
-<span class="topo-line"><span class="topo-membrane">YIF</span><span class="topo-outside">VYGKFGMPALGGA</span><span class="topo-membrane">GCGVATMAVFWFSALALWIY</span><span class="topo-inside">IAKEKFFRPFGLTAKFGKPDWAVF</span></span>
-<span class="topo-line"><span class="topo-inside">KQIW</span><span class="topo-membrane">KIGAPIGLSYFLEASAFSFIVF</span><span class="topo-outside">LIAPFGEDYVAAQ</span><span class="topo-membrane">QVGISLSGILYMIPQSVGSAG</span></span>
-<span class="topo-line"><span class="topo-membrane">T</span><span class="topo-inside">VRIGFSLGRREFSRARYISG</span><span class="topo-membrane">VSLVSGWVLAVITVLSLVLFR</span><span class="topo-outside">SPLASMYNDDPAVLSIAS</span></span>
-<span class="topo-line"><span class="topo-outside">TV</span><span class="topo-membrane">LLFAGLFQPADFTQCIASYALRG</span><span class="topo-inside">YKVTK</span><span class="topo-membrane">VPMFIHAAAFWGCGLLPGYLL</span><span class="topo-outside">AYRFDMGIY</span></span>
-<span class="topo-line"><span class="topo-membrane">GFWTALIASLTIAAVALVWC</span><span class="topo-inside">LEKYSMELVKSHKAVSSGL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">LDRFSFSVFLKEIRLLTALA</span><span class="topo-membrane">LPMLLAQVAQVGIGFVDTVMA</span><span class="topo-outside">GGAGKEDLAAVA</span><span class="topo-membrane">LGSSAFATVYITFMGIMAALN</span><span class="topo-inside">PMIAQLYGAGKTGEAGETGRQG</span><span class="topo-membrane">IWFGLILGIFGMILMWAAITP</span><span class="topo-outside">FRN</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">WLTLSDYVEGTMAQ</span><span class="topo-membrane">YMLFTSLAMPAAMVHRALHAYASS</span><span class="topo-inside">LNRP</span><span class="topo-membrane">RLIMLVSFAAFVLNVPLNYIF</span><span class="topo-outside">VYGKFGMPALGGA</span><span class="topo-membrane">GCGVATMAVFWFSALALWIY</span><span class="topo-inside">IAKEKFFRPFGLTAKFGKPDWAVF</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">KQIW</span><span class="topo-membrane">KIGAPIGLSYFLEASAFSFIVF</span><span class="topo-outside">LIAPFGEDYVAAQ</span><span class="topo-membrane">QVGISLSGILYMIPQSVGSAGT</span><span class="topo-inside">VRIGFSLGRREFSRARYISG</span><span class="topo-membrane">VSLVSGWVLAVITVLSLVLFR</span><span class="topo-outside">SPLASMYNDDPAVLSIAS</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450         </span>
+<span class="topo-line"><span class="topo-outside">TV</span><span class="topo-membrane">LLFAGLFQPADFTQCIASYALRG</span><span class="topo-inside">YKVTK</span><span class="topo-membrane">VPMFIHAAAFWGCGLLPGYLL</span><span class="topo-outside">AYRFDMGIY</span><span class="topo-membrane">GFWTALIASLTIAAVALVWC</span><span class="topo-inside">LEKYSMELVKSHKAVSSGL</span></span>
+<details class="topo-details"><summary>Topology coordinates (25 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1510,6 +1527,7 @@ NorM-NG is a multidrug and toxic compound extrusion (MATE) family transporter fr
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1525,8 +1543,9 @@ NorM-NG is a multidrug and toxic compound extrusion (MATE) family transporter fr
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">ENLYFQGS</span><span class="topo-inside">VSSVPTKLEVVAATPTSLLISWDARGEYVVYYRITYGETGGNSPVQEFTVPG</span></span>
-<span class="topo-line"><span class="topo-inside">SSSTATISGLSPGVDYTITVYARSYYWGWYSPISINYRT</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90         </span>
+<span class="topo-line"><span class="topo-unknown">ENLYFQGS</span><span class="topo-inside">VSSVPTKLEVVAATPTSLLISWDARGEYVVYYRITYGETGGNSPVQEFTVPGSSSTATISGLSPGVDYTITVYARSYYWGWYSPISINYRT</span></span>
+<details class="topo-details"><summary>Topology coordinates (2 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1552,6 +1571,7 @@ NorM-NG is a multidrug and toxic compound extrusion (MATE) family transporter fr
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

@@ -167,14 +167,15 @@ The human MT2 melatonin receptor (type 1B, MTNR1B) is a class A G-protein-couple
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">ADLEDNWETLNDNLKVIEKADNAAQVKDALTKMRAAALDAQKATPPKLEDKSPDSPEMKD</span></span>
-<span class="topo-line"><span class="topo-inside">FRHGFDILVGQIDDALKLANEGK</span><span class="topo-unknown">VKEAQA</span><span class="topo-inside">AAEQLKTTRNAYIQKYLGDGARPSW</span><span class="topo-membrane">VAPALS</span></span>
-<span class="topo-line"><span class="topo-membrane">AVLIVTTAVDVVGNLLVIL</span><span class="topo-outside">SVLRNRKLRNAGNLF</span><span class="topo-membrane">LVSLALANLVVAFYPYPLILVAI</span><span class="topo-inside">FYD</span></span>
-<span class="topo-line"><span class="topo-inside">GWAFGEE</span><span class="topo-membrane">HCKASAFVMGLSVIGSVWNITAIAI</span><span class="topo-outside">DRYLYICHSMAYHRIYRRWHTP</span><span class="topo-membrane">LHICLI</span></span>
-<span class="topo-line"><span class="topo-membrane">WLLTVVALLPNFFVG</span><span class="topo-inside">SLEYDPRIYSCTFIQTAS</span><span class="topo-membrane">TQYTAAVVVIHFLLPIAVVSFC</span><span class="topo-outside">YLRIW</span></span>
-<span class="topo-line"><span class="topo-outside">VLVLQARMKKYTCTVCGYIYNPEDGDPDNGVNPGTDFKDIPDDWVCPLCGVGKDQFEEVE</span></span>
-<span class="topo-line"><span class="topo-outside">CLKPSDLRSFLTM</span><span class="topo-membrane">FVVFVIFAICFAPLNCIGLAVAIN</span><span class="topo-inside">PQEMAPQIPEG</span><span class="topo-membrane">LFVTSYLLAYFN</span></span>
-<span class="topo-line"><span class="topo-membrane">SCLNPIVYGL</span><span class="topo-outside">LD</span><span class="topo-unknown">QNFRREYKRILLALW</span><span class="topo-outside">N</span><span class="topo-unknown">PRHCIQDASKGS</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">ADLEDNWETLNDNLKVIEKADNAAQVKDALTKMRAAALDAQKATPPKLEDKSPDSPEMKDFRHGFDILVGQIDDALKLANEGK</span><span class="topo-unknown">VKEAQA</span><span class="topo-inside">AAEQLKTTRNAYIQKYLGDGARPSW</span><span class="topo-membrane">VAPALS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">AVLIVTTAVDVVGNLLVIL</span><span class="topo-outside">SVLRNRKLRNAGNLF</span><span class="topo-membrane">LVSLALANLVVAFYPYPLILVAI</span><span class="topo-inside">FYDGWAFGEE</span><span class="topo-membrane">HCKASAFVMGLSVIGSVWNITAIAI</span><span class="topo-outside">DRYLYICHSMAYHRIYRRWHTP</span><span class="topo-membrane">LHICLI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">WLLTVVALLPNFFVG</span><span class="topo-inside">SLEYDPRIYSCTFIQTAS</span><span class="topo-membrane">TQYTAAVVVIHFLLPIAVVSFC</span><span class="topo-outside">YLRIWVLVLQARMKKYTCTVCGYIYNPEDGDPDNGVNPGTDFKDIPDDWVCPLCGVGKDQFEEVE</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460</span>
+<span class="topo-line"><span class="topo-outside">CLKPSDLRSFLTM</span><span class="topo-membrane">FVVFVIFAICFAPLNCIGLAVAIN</span><span class="topo-inside">PQEMAPQIPEG</span><span class="topo-membrane">LFVTSYLLAYFNSCLNPIVYGL</span><span class="topo-outside">LD</span><span class="topo-unknown">QNFRREYKRILLALW</span><span class="topo-outside">N</span><span class="topo-unknown">PRHCIQDASKGS</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -319,6 +320,7 @@ The human MT2 melatonin receptor (type 1B, MTNR1B) is a class A G-protein-couple
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -334,14 +336,15 @@ The human MT2 melatonin receptor (type 1B, MTNR1B) is a class A G-protein-couple
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">ADLEDNWETLNDNLKVIEKADNAAQVKDALTKMRAAALDAQKATPPKLEDKSPDSPEMKD</span></span>
-<span class="topo-line"><span class="topo-inside">FRHGFDILVGQIDDALKLANEGK</span><span class="topo-unknown">VKEAQAAAEQLKTTRNA</span><span class="topo-inside">YIQKYLGDGARPSW</span><span class="topo-membrane">VAPALS</span></span>
-<span class="topo-line"><span class="topo-membrane">AVLIVTTAVDVVGNLLVIL</span><span class="topo-outside">SVLRN</span><span class="topo-unknown">RKLRNAG</span><span class="topo-outside">NL</span><span class="topo-membrane">FLVSLALANLVVAFYPYPLILVAIF</span><span class="topo-inside">YD</span></span>
-<span class="topo-line"><span class="topo-inside">GWAFGE</span><span class="topo-membrane">EHCKASAFVMGLSVIGSVWNITAIAI</span><span class="topo-outside">DRYLYICHSMAYHRIYRRWHT</span><span class="topo-membrane">PLHICLI</span></span>
-<span class="topo-line"><span class="topo-membrane">WLLTVVALLPNFFVG</span><span class="topo-inside">SLEYDPRIYSCTFIQTAS</span><span class="topo-membrane">TQYTAAVVVIAFLLPIAVVSFCYLR</span><span class="topo-outside">IW</span></span>
-<span class="topo-line"><span class="topo-outside">VLVLQARMKKYTCTVCGYIYNPEDGDPDNGVNPGTDFKDIPDDWVCPLCGVGKDQFEEVE</span></span>
-<span class="topo-line"><span class="topo-outside">CLKPSDLRSFL</span><span class="topo-membrane">TMFVVFVIFAICFAPLNCIGLAVAIN</span><span class="topo-inside">PQEMAPQIPEG</span><span class="topo-membrane">LFVTSYLLAYFN</span></span>
-<span class="topo-line"><span class="topo-membrane">SCLNPIVYGLL</span><span class="topo-outside">D</span><span class="topo-unknown">QNFRREYKRILLAL</span><span class="topo-outside">WN</span><span class="topo-unknown">PRHCIQDASKGS</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">ADLEDNWETLNDNLKVIEKADNAAQVKDALTKMRAAALDAQKATPPKLEDKSPDSPEMKDFRHGFDILVGQIDDALKLANEGK</span><span class="topo-unknown">VKEAQAAAEQLKTTRNA</span><span class="topo-inside">YIQKYLGDGARPSW</span><span class="topo-membrane">VAPALS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">AVLIVTTAVDVVGNLLVIL</span><span class="topo-outside">SVLRN</span><span class="topo-unknown">RKLRNAG</span><span class="topo-outside">NL</span><span class="topo-membrane">FLVSLALANLVVAFYPYPLILVAIF</span><span class="topo-inside">YDGWAFGE</span><span class="topo-membrane">EHCKASAFVMGLSVIGSVWNITAIAI</span><span class="topo-outside">DRYLYICHSMAYHRIYRRWHT</span><span class="topo-membrane">PLHICLI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">WLLTVVALLPNFFVG</span><span class="topo-inside">SLEYDPRIYSCTFIQTAS</span><span class="topo-membrane">TQYTAAVVVIAFLLPIAVVSFCYLR</span><span class="topo-outside">IWVLVLQARMKKYTCTVCGYIYNPEDGDPDNGVNPGTDFKDIPDDWVCPLCGVGKDQFEEVE</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460</span>
+<span class="topo-line"><span class="topo-outside">CLKPSDLRSFL</span><span class="topo-membrane">TMFVVFVIFAICFAPLNCIGLAVAIN</span><span class="topo-inside">PQEMAPQIPEG</span><span class="topo-membrane">LFVTSYLLAYFNSCLNPIVYGLL</span><span class="topo-outside">D</span><span class="topo-unknown">QNFRREYKRILLAL</span><span class="topo-outside">WN</span><span class="topo-unknown">PRHCIQDASKGS</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -500,6 +503,7 @@ The human MT2 melatonin receptor (type 1B, MTNR1B) is a class A G-protein-couple
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -515,14 +519,15 @@ The human MT2 melatonin receptor (type 1B, MTNR1B) is a class A G-protein-couple
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">ADLEDNWETLNDNLKVIEKADNAAQVKDALTKMRAAALDAQKATPPKLEDKSPDSPEMKD</span></span>
-<span class="topo-line"><span class="topo-inside">FRHGFDILVGQIDDALKLANEGK</span><span class="topo-unknown">VKEAQAAAEQLKTTRNA</span><span class="topo-inside">YIQKYLGDGARPSW</span><span class="topo-membrane">VAPALS</span></span>
-<span class="topo-line"><span class="topo-membrane">AVLIVTTAVDVVGNLLVIL</span><span class="topo-outside">SVLRNRKLRNAGNLF</span><span class="topo-membrane">LVSLALADLVVAFYPYPLILVAIF</span><span class="topo-inside">YD</span></span>
-<span class="topo-line"><span class="topo-inside">GWAFGEE</span><span class="topo-membrane">HCKASAFVMGLSVIGSVWNITAIAI</span><span class="topo-outside">DRYLYICHSMAYHRIYRRWHTP</span><span class="topo-membrane">LHICLI</span></span>
-<span class="topo-line"><span class="topo-membrane">WLLTVVALLPNFFVG</span><span class="topo-inside">SLEYDPRIYSCTFIQTAS</span><span class="topo-membrane">TQYTAAVVVIHFLLPIAVVSFCYL</span><span class="topo-outside">RIW</span></span>
-<span class="topo-line"><span class="topo-outside">VLVLQARMKKYTCTVCGYIYNPEDGDPDNGVNPGTDFKDIPDDWVCPLCGVGKDQFEEVE</span></span>
-<span class="topo-line"><span class="topo-outside">CLKPSDLRSFLT</span><span class="topo-membrane">MFVVFVIFAICFAPLNCIGLAVAI</span><span class="topo-inside">NPQEMAPQIPEG</span><span class="topo-membrane">LFVTSYLLAYFN</span></span>
-<span class="topo-line"><span class="topo-membrane">SCLNPIVYGLL</span><span class="topo-outside">D</span><span class="topo-unknown">QNFRREYKRILLALW</span><span class="topo-outside">NP</span><span class="topo-unknown">RHCIQDASKGS</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">ADLEDNWETLNDNLKVIEKADNAAQVKDALTKMRAAALDAQKATPPKLEDKSPDSPEMKDFRHGFDILVGQIDDALKLANEGK</span><span class="topo-unknown">VKEAQAAAEQLKTTRNA</span><span class="topo-inside">YIQKYLGDGARPSW</span><span class="topo-membrane">VAPALS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">AVLIVTTAVDVVGNLLVIL</span><span class="topo-outside">SVLRNRKLRNAGNLF</span><span class="topo-membrane">LVSLALADLVVAFYPYPLILVAIF</span><span class="topo-inside">YDGWAFGEE</span><span class="topo-membrane">HCKASAFVMGLSVIGSVWNITAIAI</span><span class="topo-outside">DRYLYICHSMAYHRIYRRWHTP</span><span class="topo-membrane">LHICLI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">WLLTVVALLPNFFVG</span><span class="topo-inside">SLEYDPRIYSCTFIQTAS</span><span class="topo-membrane">TQYTAAVVVIHFLLPIAVVSFCYL</span><span class="topo-outside">RIWVLVLQARMKKYTCTVCGYIYNPEDGDPDNGVNPGTDFKDIPDDWVCPLCGVGKDQFEEVE</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460</span>
+<span class="topo-line"><span class="topo-outside">CLKPSDLRSFLT</span><span class="topo-membrane">MFVVFVIFAICFAPLNCIGLAVAI</span><span class="topo-inside">NPQEMAPQIPEG</span><span class="topo-membrane">LFVTSYLLAYFNSCLNPIVYGLL</span><span class="topo-outside">D</span><span class="topo-unknown">QNFRREYKRILLALW</span><span class="topo-outside">NP</span><span class="topo-unknown">RHCIQDASKGS</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -667,6 +672,7 @@ The human MT2 melatonin receptor (type 1B, MTNR1B) is a class A G-protein-couple
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -682,14 +688,15 @@ The human MT2 melatonin receptor (type 1B, MTNR1B) is a class A G-protein-couple
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">ADLEDNWETLNDNLKVIEKADNAAQVKDALTKMRAAALDAQKATPPKLEDKSPDSPEMKD</span></span>
-<span class="topo-line"><span class="topo-inside">FRHGFDILVGQIDDALKLANEGKVKEAQAAAEQLKTTRNAYIQKYLGDGARPSW</span><span class="topo-membrane">VAPALS</span></span>
-<span class="topo-line"><span class="topo-membrane">AVLIVTTAVDVVGNLLVIL</span><span class="topo-outside">SVLRNRKLRNAGNLF</span><span class="topo-membrane">LVSLALANLVVAFYPYPLILV</span><span class="topo-inside">AIFYD</span></span>
-<span class="topo-line"><span class="topo-inside">GWAFGEE</span><span class="topo-membrane">HCKASAFVMGLSVIGSVWNITAIAI</span><span class="topo-outside">DRYLYICHSMAYHRIYRRWHTP</span><span class="topo-membrane">LHICLI</span></span>
-<span class="topo-line"><span class="topo-membrane">WLLTVVALLPNFFV</span><span class="topo-inside">GSLEYDPRIYSCTFIQTAS</span><span class="topo-membrane">TQYTAAVVVIHFLLPIAVVSFC</span><span class="topo-outside">YLRIW</span></span>
-<span class="topo-line"><span class="topo-outside">VLVLQARMKKYTCTVCGYIYNPEDGDPDNGVNPGTDFKDIPDDWVCPLCGVGKDQFEEVE</span></span>
-<span class="topo-line"><span class="topo-outside">CLKPSDLRSFLTM</span><span class="topo-membrane">FVVFVIFAICFAPLNCIGLAVAI</span><span class="topo-inside">NPQEMAPQIPEG</span><span class="topo-membrane">LFVTSYLLAYFN</span></span>
-<span class="topo-line"><span class="topo-membrane">SCLNPIVYGL</span><span class="topo-outside">LD</span><span class="topo-unknown">QNFRREYKRILLALW</span><span class="topo-outside">N</span><span class="topo-unknown">PRHCIQDASKGS</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">ADLEDNWETLNDNLKVIEKADNAAQVKDALTKMRAAALDAQKATPPKLEDKSPDSPEMKDFRHGFDILVGQIDDALKLANEGKVKEAQAAAEQLKTTRNAYIQKYLGDGARPSW</span><span class="topo-membrane">VAPALS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">AVLIVTTAVDVVGNLLVIL</span><span class="topo-outside">SVLRNRKLRNAGNLF</span><span class="topo-membrane">LVSLALANLVVAFYPYPLILV</span><span class="topo-inside">AIFYDGWAFGEE</span><span class="topo-membrane">HCKASAFVMGLSVIGSVWNITAIAI</span><span class="topo-outside">DRYLYICHSMAYHRIYRRWHTP</span><span class="topo-membrane">LHICLI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">WLLTVVALLPNFFV</span><span class="topo-inside">GSLEYDPRIYSCTFIQTAS</span><span class="topo-membrane">TQYTAAVVVIHFLLPIAVVSFC</span><span class="topo-outside">YLRIWVLVLQARMKKYTCTVCGYIYNPEDGDPDNGVNPGTDFKDIPDDWVCPLCGVGKDQFEEVE</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460</span>
+<span class="topo-line"><span class="topo-outside">CLKPSDLRSFLTM</span><span class="topo-membrane">FVVFVIFAICFAPLNCIGLAVAI</span><span class="topo-inside">NPQEMAPQIPEG</span><span class="topo-membrane">LFVTSYLLAYFNSCLNPIVYGL</span><span class="topo-outside">LD</span><span class="topo-unknown">QNFRREYKRILLALW</span><span class="topo-outside">N</span><span class="topo-unknown">PRHCIQDASKGS</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -820,6 +827,7 @@ The human MT2 melatonin receptor (type 1B, MTNR1B) is a class A G-protein-couple
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

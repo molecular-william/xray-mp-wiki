@@ -81,12 +81,13 @@ AmP2X is an invertebrate P2X receptor from the Gulf Coast tick Amblyomma maculat
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GSREFDQKIGV</span><span class="topo-inside">L</span><span class="topo-membrane">NRLIQLLILGYIIGYVIIYQK</span><span class="topo-outside">GYQQFSTFNAATTTKVKGVVSTKNLSD</span></span>
-<span class="topo-line"><span class="topo-outside">DAFYPFLSDKTVYKRVWDIADIVVPPEESNQFFVTTNLIITPSQEIKTCPEDPSIKEAHC</span></span>
-<span class="topo-line"><span class="topo-outside">KSENDTTSCTAGKSIMIGNGVMTGRCVQAAKPQETLHVCEISGWCPVEQDYGPLKDGTPL</span></span>
-<span class="topo-line"><span class="topo-outside">LSDVQNFTVLIKNYIEFSLFHVRRSNLHDIENSTYLKYCRYHPEKDPHCPVFRIGDMVDA</span></span>
-<span class="topo-line"><span class="topo-outside">AGEDFDDVAAKGGVIQVLISWDCNLDYDVKYCIPNYSFLRLDDPKTVLAKGWNFRYPKYY</span></span>
-<span class="topo-line"><span class="topo-outside">NEKERSLVKAYGITFVILVQGRAG</span><span class="topo-membrane">KLSPIPIAINIGSGLGLMVVATVL</span><span class="topo-inside">CDLVVL</span><span class="topo-unknown">NLLK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GSREFDQKIGV</span><span class="topo-inside">L</span><span class="topo-membrane">NRLIQLLILGYIIGYVIIYQK</span><span class="topo-outside">GYQQFSTFNAATTTKVKGVVSTKNLSDDAFYPFLSDKTVYKRVWDIADIVVPPEESNQFFVTTNLIITPSQEIKTCPEDPSIKEAHC</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">KSENDTTSCTAGKSIMIGNGVMTGRCVQAAKPQETLHVCEISGWCPVEQDYGPLKDGTPLLSDVQNFTVLIKNYIEFSLFHVRRSNLHDIENSTYLKYCRYHPEKDPHCPVFRIGDMVDA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350        </span>
+<span class="topo-line"><span class="topo-outside">AGEDFDDVAAKGGVIQVLISWDCNLDYDVKYCIPNYSFLRLDDPKTVLAKGWNFRYPKYYNEKERSLVKAYGITFVILVQGRAG</span><span class="topo-membrane">KLSPIPIAINIGSGLGLMVVATVL</span><span class="topo-inside">CDLVVL</span><span class="topo-unknown">NLLK</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -133,6 +134,7 @@ AmP2X is an invertebrate P2X receptor from the Gulf Coast tick Amblyomma maculat
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -148,12 +150,13 @@ AmP2X is an invertebrate P2X receptor from the Gulf Coast tick Amblyomma maculat
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">GSREFDQKIGVL</span><span class="topo-membrane">NRLIQLLILGYIIGYVIIYQK</span><span class="topo-outside">GYQQFSTFNAATTTKVKGVVSTKNLSD</span></span>
-<span class="topo-line"><span class="topo-outside">DAFYPFLSDKTVYKRVWDIADIVVPPEESNQFFVTTNLIITPSQEIKTCPEDPSIKEAHC</span></span>
-<span class="topo-line"><span class="topo-outside">KSENDTTSCTAGKSIMIGNGVMTGRCVQAAKPQETLHVCEISGWCPVEQDYGPLKDGTPL</span></span>
-<span class="topo-line"><span class="topo-outside">LSDVQNFTVLIKNYIEFSLFHVRRSNLHDIENSTYLKYCRYHPEKDPHCPVFRIGDMVDA</span></span>
-<span class="topo-line"><span class="topo-outside">AGEDFDDVAAKGGVIQVLISWDCNLDYDVKYCIPNYSFLRLDDPKTVLAKGWNFRYPKYY</span></span>
-<span class="topo-line"><span class="topo-outside">NEKERSLVKAYGITFVILVQGRAG</span><span class="topo-membrane">KLSPIPIAINIGSGLGLMVVATVL</span><span class="topo-inside">CDLVVLN</span><span class="topo-unknown">LLK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">GSREFDQKIGVL</span><span class="topo-membrane">NRLIQLLILGYIIGYVIIYQK</span><span class="topo-outside">GYQQFSTFNAATTTKVKGVVSTKNLSDDAFYPFLSDKTVYKRVWDIADIVVPPEESNQFFVTTNLIITPSQEIKTCPEDPSIKEAHC</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">KSENDTTSCTAGKSIMIGNGVMTGRCVQAAKPQETLHVCEISGWCPVEQDYGPLKDGTPLLSDVQNFTVLIKNYIEFSLFHVRRSNLHDIENSTYLKYCRYHPEKDPHCPVFRIGDMVDA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350        </span>
+<span class="topo-line"><span class="topo-outside">AGEDFDDVAAKGGVIQVLISWDCNLDYDVKYCIPNYSFLRLDDPKTVLAKGWNFRYPKYYNEKERSLVKAYGITFVILVQGRAG</span><span class="topo-membrane">KLSPIPIAINIGSGLGLMVVATVL</span><span class="topo-inside">CDLVVLN</span><span class="topo-unknown">LLK</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -200,6 +203,7 @@ AmP2X is an invertebrate P2X receptor from the Gulf Coast tick Amblyomma maculat
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -215,12 +219,13 @@ AmP2X is an invertebrate P2X receptor from the Gulf Coast tick Amblyomma maculat
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GSREFDQKIG</span><span class="topo-inside">VL</span><span class="topo-membrane">NRLIQLLILGYIIGYVIIYQK</span><span class="topo-outside">GYQQFSTFNAATTTKVKGVVSTKNLSD</span></span>
-<span class="topo-line"><span class="topo-outside">DAFYPFLSDKTVYKRVWDIADIVVPPEESNQFFVTTNLIITPSQEIKTCPEDPSIKEAHC</span></span>
-<span class="topo-line"><span class="topo-outside">KSENDTTSCTAGKSIMIGNGVMTGRCVQAAKPQETLHVCEISGWCPVEQDYGPLKDGTPL</span></span>
-<span class="topo-line"><span class="topo-outside">LSDVQNFTVLIKNYIEFSLFHVRRSNLHDIENSTYLKYCRYHPEKDPHCPVFRIGDMVDA</span></span>
-<span class="topo-line"><span class="topo-outside">AGEDFDDVAAKGGVIQVLISWDCNLDYDVKYCIPNYSFLRLDDPKTVLAKGWNFRYPKYY</span></span>
-<span class="topo-line"><span class="topo-outside">NEKERSLVKAYGITFVILVQGRAG</span><span class="topo-membrane">KLSPIPIAINIGSGLGLMVVATVL</span><span class="topo-inside">CDLVVL</span><span class="topo-unknown">NLLK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GSREFDQKIG</span><span class="topo-inside">VL</span><span class="topo-membrane">NRLIQLLILGYIIGYVIIYQK</span><span class="topo-outside">GYQQFSTFNAATTTKVKGVVSTKNLSDDAFYPFLSDKTVYKRVWDIADIVVPPEESNQFFVTTNLIITPSQEIKTCPEDPSIKEAHC</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">KSENDTTSCTAGKSIMIGNGVMTGRCVQAAKPQETLHVCEISGWCPVEQDYGPLKDGTPLLSDVQNFTVLIKNYIEFSLFHVRRSNLHDIENSTYLKYCRYHPEKDPHCPVFRIGDMVDA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350        </span>
+<span class="topo-line"><span class="topo-outside">AGEDFDDVAAKGGVIQVLISWDCNLDYDVKYCIPNYSFLRLDDPKTVLAKGWNFRYPKYYNEKERSLVKAYGITFVILVQGRAG</span><span class="topo-membrane">KLSPIPIAINIGSGLGLMVVATVL</span><span class="topo-inside">CDLVVL</span><span class="topo-unknown">NLLK</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -267,6 +272,7 @@ AmP2X is an invertebrate P2X receptor from the Gulf Coast tick Amblyomma maculat
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

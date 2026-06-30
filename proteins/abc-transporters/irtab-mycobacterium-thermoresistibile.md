@@ -162,22 +162,23 @@ to capture membrane-embedded mycobactin.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MARGFQGVMLRGLGARDHQATVVDKEYIAPHFVRVRLVSPTLFDEVIVEPTSWLRFWFPD</span></span>
-<span class="topo-line"><span class="topo-unknown">PDGSDTEFQRAYTITESDPETGRFAVDMVLHEPAGPASTWARTVEPGATIAVMSMGSRGF</span></span>
-<span class="topo-line"><span class="topo-unknown">SVPEDPEDRPVGYLLIGDSASTPAINGIIEVVPHDIPIELYLEQHHDDDVLIPLAEHPRL</span></span>
-<span class="topo-line"><span class="topo-unknown">RVHRVSRDDASSLAAALELRDWSNWYCWAGPEAGALKQVRTRLRDEFGFPKREVYAQAYW</span></span>
-<span class="topo-line"><span class="topo-unknown">TEGRAMGSSRGETSTPAKPAAKTAPAKAAAKPAAASGAGTPEHAAAPAAATTGAPQAAPA</span></span>
-<span class="topo-line"><span class="topo-unknown">PGAAQPRTPVRGRWR</span><span class="topo-outside">AEAGSRLLAPLKKPLIVSG</span><span class="topo-membrane">VLQALITLIELAPFV</span><span class="topo-inside">LLVELARLLLG</span></span>
-<span class="topo-line"><span class="topo-inside">GAEAERLWTLGLT</span><span class="topo-membrane">AVSLIGLGAVLAAA</span><span class="topo-outside">MTLWLHRVDARFAHELRGRLLTKLSRLPLGWFT</span></span>
-<span class="topo-line"><span class="topo-outside">RRGSASTKQLVQDDTLALHYLITHAIPDA</span><span class="topo-membrane">VAAVVAPVAVLVYLFV</span><span class="topo-inside">AD</span><span class="topo-membrane">WRVALVLFIPVLV</span></span>
-<span class="topo-line"><span class="topo-membrane">YL</span><span class="topo-outside">VLMSVMTIQSGSKIAQAPRWAERMGGEAGAFLEGQPVIRIFGGAAASRFRRRLDDYID</span></span>
-<span class="topo-line"><span class="topo-outside">FLVSWQRPFVGKKT</span><span class="topo-membrane">LMDLVTRPATFLWII</span><span class="topo-inside">LVAGVPLVVTGRMDPVNLL</span><span class="topo-membrane">PFLLLGTTFGAR</span></span>
-<span class="topo-line"><span class="topo-membrane">LL</span><span class="topo-outside">GIGYGLSGIQTGMLAARRIQTVLDEPELVVRDRT</span><span class="topo-unknown">GQAGTDHASGDQAR</span><span class="topo-outside">PGTVELDRVS</span></span>
-<span class="topo-line"><span class="topo-outside">FEYRPGVPVIRDVTLTLRPGTVTALVGPSGSGKSTLAALVARFHDVTQGAIRVDGRDIRT</span></span>
-<span class="topo-line"><span class="topo-outside">LTADELYRRVGFVLQDAQLVHGSVAENIALAEPDAGLERIRTAARDAQIHDRITRMPDGY</span></span>
-<span class="topo-line"><span class="topo-outside">DSVLGAGSALSGGERQRVTIARAILADTPVLVLDEATAFADPESEYLVQQAINRLTRDRT</span></span>
-<span class="topo-line"><span class="topo-outside">VLVIAHRLHTITHADQIVVLDDGRIVEVGTHDELLAAGGRYRGLWDSGRY</span><span class="topo-unknown">SSPDAGRPVS</span></span>
-<span class="topo-line"><span class="topo-unknown">ADAVEVGR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MARGFQGVMLRGLGARDHQATVVDKEYIAPHFVRVRLVSPTLFDEVIVEPTSWLRFWFPDPDGSDTEFQRAYTITESDPETGRFAVDMVLHEPAGPASTWARTVEPGATIAVMSMGSRGF</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-unknown">SVPEDPEDRPVGYLLIGDSASTPAINGIIEVVPHDIPIELYLEQHHDDDVLIPLAEHPRLRVHRVSRDDASSLAAALELRDWSNWYCWAGPEAGALKQVRTRLRDEFGFPKREVYAQAYW</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-unknown">TEGRAMGSSRGETSTPAKPAAKTAPAKAAAKPAAASGAGTPEHAAAPAAATTGAPQAAPAPGAAQPRTPVRGRWR</span><span class="topo-outside">AEAGSRLLAPLKKPLIVSG</span><span class="topo-membrane">VLQALITLIELAPFV</span><span class="topo-inside">LLVELARLLLG</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">GAEAERLWTLGLT</span><span class="topo-membrane">AVSLIGLGAVLAAA</span><span class="topo-outside">MTLWLHRVDARFAHELRGRLLTKLSRLPLGWFTRRGSASTKQLVQDDTLALHYLITHAIPDA</span><span class="topo-membrane">VAAVVAPVAVLVYLFV</span><span class="topo-inside">AD</span><span class="topo-membrane">WRVALVLFIPVLV</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-membrane">YL</span><span class="topo-outside">VLMSVMTIQSGSKIAQAPRWAERMGGEAGAFLEGQPVIRIFGGAAASRFRRRLDDYIDFLVSWQRPFVGKKT</span><span class="topo-membrane">LMDLVTRPATFLWII</span><span class="topo-inside">LVAGVPLVVTGRMDPVNLL</span><span class="topo-membrane">PFLLLGTTFGAR</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-membrane">LL</span><span class="topo-outside">GIGYGLSGIQTGMLAARRIQTVLDEPELVVRDRT</span><span class="topo-unknown">GQAGTDHASGDQAR</span><span class="topo-outside">PGTVELDRVSFEYRPGVPVIRDVTLTLRPGTVTALVGPSGSGKSTLAALVARFHDVTQGAIRVDGRDIRT</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820       830       840</span>
+<span class="topo-line"><span class="topo-outside">LTADELYRRVGFVLQDAQLVHGSVAENIALAEPDAGLERIRTAARDAQIHDRITRMPDGYDSVLGAGSALSGGERQRVTIARAILADTPVLVLDEATAFADPESEYLVQQAINRLTRDRT</span></span>
+<span class="topo-ruler">       850       860       870       880       890       900        </span>
+<span class="topo-line"><span class="topo-outside">VLVIAHRLHTITHADQIVVLDDGRIVEVGTHDELLAAGGRYRGLWDSGRY</span><span class="topo-unknown">SSPDAGRPVSADAVEVGR</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -308,6 +309,7 @@ to capture membrane-embedded mycobactin.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -323,16 +325,17 @@ to capture membrane-embedded mycobactin.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">IRTLLRLVPAEKRGAVA</span><span class="topo-membrane">GYAVLTLLSVLLRAVGA</span><span class="topo-inside">VLLIPLLAALFSDTPSDAWLWLGWL</span></span>
-<span class="topo-line"><span class="topo-membrane">TAVTLAGWVTDTNT</span><span class="topo-outside">ARLGFDLGFAVLSRTQHDMADRLPNVAMSWFTPDNTATARQAIAAT</span></span>
-<span class="topo-line"><span class="topo-outside">GPELAGLVVNLL</span><span class="topo-membrane">TPLIGAALLPAAIGVA</span><span class="topo-inside">LLFVSVPLG</span><span class="topo-membrane">LAALAGVAVLFGALALS</span><span class="topo-outside">GRLSRA</span></span>
-<span class="topo-line"><span class="topo-outside">ADKVAGETNSAFTERIIEFARTQQALRAARRVEPARSQVGSALAAQHGAGLRLLTMQI</span><span class="topo-membrane">PG</span></span>
-<span class="topo-line"><span class="topo-membrane">QVLFSLAGQVALIG</span><span class="topo-inside">FAGMAVWLTVRGQLGVPEAI</span><span class="topo-membrane">ALIVVLVRYLEPFA</span><span class="topo-outside">AIADLAPALETT</span></span>
-<span class="topo-line"><span class="topo-outside">RATLNRIQAVLDAPTLPAGRRRLDRTGAAPSIEFDDVRFSYGDEVVLDGVSFTLRPGNTT</span></span>
-<span class="topo-line"><span class="topo-outside">AIVGPSGSGKTTILSLIAGLQQPASGRVLLDGVDVTTLDPEARRAAVSVVFQHPYLFDGT</span></span>
-<span class="topo-line"><span class="topo-outside">LRDNVLVGDPEADPDDVTAAMRLARVDELLDRLPDGDATVVGEGGTALSGGERQRVSIAR</span></span>
-<span class="topo-line"><span class="topo-outside">ALLKPAPVLLVDEATSALDNANEAAVVDALTADPRPRTRVIVAHRLASIRHADRVLFVEA</span></span>
-<span class="topo-line"><span class="topo-outside">GRVVEDGAIDELLAAGGRFAQFWAQQQAASEWAIGSTARALEVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">IRTLLRLVPAEKRGAVA</span><span class="topo-membrane">GYAVLTLLSVLLRAVGA</span><span class="topo-inside">VLLIPLLAALFSDTPSDAWLWLGWL</span><span class="topo-membrane">TAVTLAGWVTDTNT</span><span class="topo-outside">ARLGFDLGFAVLSRTQHDMADRLPNVAMSWFTPDNTATARQAIAAT</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">GPELAGLVVNLL</span><span class="topo-membrane">TPLIGAALLPAAIGVA</span><span class="topo-inside">LLFVSVPLG</span><span class="topo-membrane">LAALAGVAVLFGALALS</span><span class="topo-outside">GRLSRAADKVAGETNSAFTERIIEFARTQQALRAARRVEPARSQVGSALAAQHGAGLRLLTMQI</span><span class="topo-membrane">PG</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">QVLFSLAGQVALIG</span><span class="topo-inside">FAGMAVWLTVRGQLGVPEAI</span><span class="topo-membrane">ALIVVLVRYLEPFA</span><span class="topo-outside">AIADLAPALETTRATLNRIQAVLDAPTLPAGRRRLDRTGAAPSIEFDDVRFSYGDEVVLDGVSFTLRPGNTT</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">AIVGPSGSGKTTILSLIAGLQQPASGRVLLDGVDVTTLDPEARRAAVSVVFQHPYLFDGTLRDNVLVGDPEADPDDVTAAMRLARVDELLDRLPDGDATVVGEGGTALSGGERQRVSIAR</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580      </span>
+<span class="topo-line"><span class="topo-outside">ALLKPAPVLLVDEATSALDNANEAAVVDALTADPRPRTRVIVAHRLASIRHADRVLFVEAGRVVEDGAIDELLAAGGRFAQFWAQQQAASEWAIGSTARALEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (14 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -442,6 +445,7 @@ to capture membrane-embedded mycobactin.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -457,22 +461,23 @@ to capture membrane-embedded mycobactin.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MARGFQGVMLRGLGARDHQATVVDKEYIAPHFVRVRLVSPTLFDEVIVEPTSWLRFWFPD</span></span>
-<span class="topo-line"><span class="topo-unknown">PDGSDTEFQRAYTITESDPETGRFAVDMVLHEPAGPASTWARTVEPGATIAVMSMGSRGF</span></span>
-<span class="topo-line"><span class="topo-unknown">SVPEDPEDRPVGYLLIGDSASTPAINGIIEVVPHDIPIELYLEQHHDDDVLIPLAEHPRL</span></span>
-<span class="topo-line"><span class="topo-unknown">RVHRVSRDDASSLAAALELRDWSNWYCWAGPEAGALKQVRTRLRDEFGFPKREVYAQAYW</span></span>
-<span class="topo-line"><span class="topo-unknown">TEGRAMGSSRGETSTPAKPAAKTAPAKAAAKPAAASGAGTPEHAAAPAAATTGAPQAAPA</span></span>
-<span class="topo-line"><span class="topo-unknown">PGAAQPRTPVRGRWR</span><span class="topo-outside">AEAGSRLLAPLKKPLIVSG</span><span class="topo-membrane">VLQALITLIELAPFV</span><span class="topo-inside">LLVELARLLLG</span></span>
-<span class="topo-line"><span class="topo-inside">GAEAERLWTLGLT</span><span class="topo-membrane">AVSLIGLGAVLAAA</span><span class="topo-outside">MTLWLHRVDARFAHELRGRLLTKLSRLPLGWFT</span></span>
-<span class="topo-line"><span class="topo-outside">RRGSASTKQLVQDDTLALHYLITHAIPDA</span><span class="topo-membrane">VAAVVAPVAVLVYLFV</span><span class="topo-inside">AD</span><span class="topo-membrane">WRVALVLFIPVLV</span></span>
-<span class="topo-line"><span class="topo-membrane">YL</span><span class="topo-outside">VLMSVMTIQSGSKIAQAPRWAERMGGEAGAFLEGQPVIRIFGGAAASRFRRRLDDYID</span></span>
-<span class="topo-line"><span class="topo-outside">FLVSWQRPFVGKKT</span><span class="topo-membrane">LMDLVTRPATFLWII</span><span class="topo-inside">LVAGVPLVVTGRMDPVNLL</span><span class="topo-membrane">PFLLLGTTFGAR</span></span>
-<span class="topo-line"><span class="topo-membrane">LL</span><span class="topo-outside">GIGYGLSGIQTGMLAARRIQTVLDEPELVVRDRT</span><span class="topo-unknown">GQAGTDHASGDQAR</span><span class="topo-outside">PGTVELDRVS</span></span>
-<span class="topo-line"><span class="topo-outside">FEYRPGVPVIRDVTLTLRPGTVTALVGPSGSGKSTLAALVARFHDVTQGAIRVDGRDIRT</span></span>
-<span class="topo-line"><span class="topo-outside">LTADELYRRVGFVLQDAQLVHGSVAENIALAEPDAGLERIRTAARDAQIHDRITRMPDGY</span></span>
-<span class="topo-line"><span class="topo-outside">DSVLGAGSALSGGERQRVTIARAILADTPVLVLDEATAFADPESEYLVQQAINRLTRDRT</span></span>
-<span class="topo-line"><span class="topo-outside">VLVIAHRLHTITHADQIVVLDDGRIVEVGTHDELLAAGGRYRGLWDSGRY</span><span class="topo-unknown">SSPDAGRPVS</span></span>
-<span class="topo-line"><span class="topo-unknown">ADAVEVGR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MARGFQGVMLRGLGARDHQATVVDKEYIAPHFVRVRLVSPTLFDEVIVEPTSWLRFWFPDPDGSDTEFQRAYTITESDPETGRFAVDMVLHEPAGPASTWARTVEPGATIAVMSMGSRGF</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-unknown">SVPEDPEDRPVGYLLIGDSASTPAINGIIEVVPHDIPIELYLEQHHDDDVLIPLAEHPRLRVHRVSRDDASSLAAALELRDWSNWYCWAGPEAGALKQVRTRLRDEFGFPKREVYAQAYW</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-unknown">TEGRAMGSSRGETSTPAKPAAKTAPAKAAAKPAAASGAGTPEHAAAPAAATTGAPQAAPAPGAAQPRTPVRGRWR</span><span class="topo-outside">AEAGSRLLAPLKKPLIVSG</span><span class="topo-membrane">VLQALITLIELAPFV</span><span class="topo-inside">LLVELARLLLG</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">GAEAERLWTLGLT</span><span class="topo-membrane">AVSLIGLGAVLAAA</span><span class="topo-outside">MTLWLHRVDARFAHELRGRLLTKLSRLPLGWFTRRGSASTKQLVQDDTLALHYLITHAIPDA</span><span class="topo-membrane">VAAVVAPVAVLVYLFV</span><span class="topo-inside">AD</span><span class="topo-membrane">WRVALVLFIPVLV</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-membrane">YL</span><span class="topo-outside">VLMSVMTIQSGSKIAQAPRWAERMGGEAGAFLEGQPVIRIFGGAAASRFRRRLDDYIDFLVSWQRPFVGKKT</span><span class="topo-membrane">LMDLVTRPATFLWII</span><span class="topo-inside">LVAGVPLVVTGRMDPVNLL</span><span class="topo-membrane">PFLLLGTTFGAR</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-membrane">LL</span><span class="topo-outside">GIGYGLSGIQTGMLAARRIQTVLDEPELVVRDRT</span><span class="topo-unknown">GQAGTDHASGDQAR</span><span class="topo-outside">PGTVELDRVSFEYRPGVPVIRDVTLTLRPGTVTALVGPSGSGKSTLAALVARFHDVTQGAIRVDGRDIRT</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820       830       840</span>
+<span class="topo-line"><span class="topo-outside">LTADELYRRVGFVLQDAQLVHGSVAENIALAEPDAGLERIRTAARDAQIHDRITRMPDGYDSVLGAGSALSGGERQRVTIARAILADTPVLVLDEATAFADPESEYLVQQAINRLTRDRT</span></span>
+<span class="topo-ruler">       850       860       870       880       890       900        </span>
+<span class="topo-line"><span class="topo-outside">VLVIAHRLHTITHADQIVVLDDGRIVEVGTHDELLAAGGRYRGLWDSGRY</span><span class="topo-unknown">SSPDAGRPVSADAVEVGR</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -603,6 +608,7 @@ to capture membrane-embedded mycobactin.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -618,16 +624,17 @@ to capture membrane-embedded mycobactin.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">IRTLLRLVPAEKRGAVA</span><span class="topo-membrane">GYAVLTLLSVLLRAVGA</span><span class="topo-inside">VLLIPLLAALFSDTPSDAWLWLGWL</span></span>
-<span class="topo-line"><span class="topo-membrane">TAVTLAGWVTDTNT</span><span class="topo-outside">ARLGFDLGFAVLSRTQHDMADRLPNVAMSWFTPDNTATARQAIAAT</span></span>
-<span class="topo-line"><span class="topo-outside">GPELAGLVVNLL</span><span class="topo-membrane">TPLIGAALLPAAIGVA</span><span class="topo-inside">LLFVSVPLG</span><span class="topo-membrane">LAALAGVAVLFGALALS</span><span class="topo-outside">GRLSRA</span></span>
-<span class="topo-line"><span class="topo-outside">ADKVAGETNSAFTERIIEFARTQQALRAARRVEPARSQVGSALAAQHGAGLRLLTMQI</span><span class="topo-membrane">PG</span></span>
-<span class="topo-line"><span class="topo-membrane">QVLFSLAGQVALIG</span><span class="topo-inside">FAGMAVWLTVRGQLGVPEAI</span><span class="topo-membrane">ALIVVLVRYLEPFA</span><span class="topo-outside">AIADLAPALETT</span></span>
-<span class="topo-line"><span class="topo-outside">RATLNRIQAVLDAPTLPAGRRRLDRTGAAPSIEFDDVRFSYGDEVVLDGVSFTLRPGNTT</span></span>
-<span class="topo-line"><span class="topo-outside">AIVGPSGSGKTTILSLIAGLQQPASGRVLLDGVDVTTLDPEARRAAVSVVFQHPYLFDGT</span></span>
-<span class="topo-line"><span class="topo-outside">LRDNVLVGDPEADPDDVTAAMRLARVDELLDRLPDGDATVVGEGGTALSGGERQRVSIAR</span></span>
-<span class="topo-line"><span class="topo-outside">ALLKPAPVLLVDEATSALDNANEAAVVDALTADPRPRTRVIVAHRLASIRHADRVLFVEA</span></span>
-<span class="topo-line"><span class="topo-outside">GRVVEDGAIDELLAAGGRFAQFWAQQQAASEWAIGSTARALEVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">IRTLLRLVPAEKRGAVA</span><span class="topo-membrane">GYAVLTLLSVLLRAVGA</span><span class="topo-inside">VLLIPLLAALFSDTPSDAWLWLGWL</span><span class="topo-membrane">TAVTLAGWVTDTNT</span><span class="topo-outside">ARLGFDLGFAVLSRTQHDMADRLPNVAMSWFTPDNTATARQAIAAT</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">GPELAGLVVNLL</span><span class="topo-membrane">TPLIGAALLPAAIGVA</span><span class="topo-inside">LLFVSVPLG</span><span class="topo-membrane">LAALAGVAVLFGALALS</span><span class="topo-outside">GRLSRAADKVAGETNSAFTERIIEFARTQQALRAARRVEPARSQVGSALAAQHGAGLRLLTMQI</span><span class="topo-membrane">PG</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">QVLFSLAGQVALIG</span><span class="topo-inside">FAGMAVWLTVRGQLGVPEAI</span><span class="topo-membrane">ALIVVLVRYLEPFA</span><span class="topo-outside">AIADLAPALETTRATLNRIQAVLDAPTLPAGRRRLDRTGAAPSIEFDDVRFSYGDEVVLDGVSFTLRPGNTT</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">AIVGPSGSGKTTILSLIAGLQQPASGRVLLDGVDVTTLDPEARRAAVSVVFQHPYLFDGTLRDNVLVGDPEADPDDVTAAMRLARVDELLDRLPDGDATVVGEGGTALSGGERQRVSIAR</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580      </span>
+<span class="topo-line"><span class="topo-outside">ALLKPAPVLLVDEATSALDNANEAAVVDALTADPRPRTRVIVAHRLASIRHADRVLFVEAGRVVEDGAIDELLAAGGRFAQFWAQQQAASEWAIGSTARALEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (14 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -737,6 +744,7 @@ to capture membrane-embedded mycobactin.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -752,22 +760,23 @@ to capture membrane-embedded mycobactin.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MARGFQGVMLRGLGARDHQATVVDKEYIAPHFVRVRLVSPTLFDEVIVEPTSWLRFWFPD</span></span>
-<span class="topo-line"><span class="topo-unknown">PDGSDTEFQRAYTITESDPETGRFAVDMVLHEPAGPASTWARTVEPGATIAVMSMGSRGF</span></span>
-<span class="topo-line"><span class="topo-unknown">SVPEDPEDRPVGYLLIGDSASTPAINGIIEVVPHDIPIELYLEQHHDDDVLIPLAEHPRL</span></span>
-<span class="topo-line"><span class="topo-unknown">RVHRVSRDDASSLAAALELRDWSNWYCWAGPEAGALKQVRTRLRDEFGFPKREVYAQAYW</span></span>
-<span class="topo-line"><span class="topo-unknown">TEGRAMGSSRGETSTPAKPAAKTAPAKAAAKPAAASGAGTPEHAAAPAAATTGAPQAAPA</span></span>
-<span class="topo-line"><span class="topo-unknown">PGAAQPRTPVRGRWR</span><span class="topo-outside">AEAGSRLLAPLKKPLIVSG</span><span class="topo-membrane">VLQALITLIELAPFV</span><span class="topo-inside">LLVELARLLLG</span></span>
-<span class="topo-line"><span class="topo-inside">GAEAERLWTLGLT</span><span class="topo-membrane">AVSLIGLGAVLAAA</span><span class="topo-outside">MTLWLHRVDARFAHELRGRLLTKLSRLPLGWFT</span></span>
-<span class="topo-line"><span class="topo-outside">RRGSASTKQLVQDDTLALHYLITHAIPDA</span><span class="topo-membrane">VAAVVAPVAVLVYLFV</span><span class="topo-inside">AD</span><span class="topo-membrane">WRVALVLFIPVLV</span></span>
-<span class="topo-line"><span class="topo-membrane">YL</span><span class="topo-outside">VLMSVMTIQSGSKIAQAPRWAERMGGEAGAFLEGQPVIRIFGGAAASRFRRRLDDYID</span></span>
-<span class="topo-line"><span class="topo-outside">FLVSWQRPFVGKKT</span><span class="topo-membrane">LMDLVTRPATFLWII</span><span class="topo-inside">LVAGVPLVVTGRMDPVNLL</span><span class="topo-membrane">PFLLLGTTFGAR</span></span>
-<span class="topo-line"><span class="topo-membrane">LL</span><span class="topo-outside">GIGYGLSGIQTGMLAARRIQTVLDEPELVVRDRT</span><span class="topo-unknown">GQAGTDHASGDQAR</span><span class="topo-outside">PGTVELDRVS</span></span>
-<span class="topo-line"><span class="topo-outside">FEYRPGVPVIRDVTLTLRPGTVTALVGPSGSGKSTLAALVARFHDVTQGAIRVDGRDIRT</span></span>
-<span class="topo-line"><span class="topo-outside">LTADELYRRVGFVLQDAQLVHGSVAENIALAEPDAGLERIRTAARDAQIHDRITRMPDGY</span></span>
-<span class="topo-line"><span class="topo-outside">DSVLGAGSALSGGERQRVTIARAILADTPVLVLDEATAFADPESEYLVQQAINRLTRDRT</span></span>
-<span class="topo-line"><span class="topo-outside">VLVIAHRLHTITHADQIVVLDDGRIVEVGTHDELLAAGGRYRGLWDSGRY</span><span class="topo-unknown">SSPDAGRPVS</span></span>
-<span class="topo-line"><span class="topo-unknown">ADAVEVGR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MARGFQGVMLRGLGARDHQATVVDKEYIAPHFVRVRLVSPTLFDEVIVEPTSWLRFWFPDPDGSDTEFQRAYTITESDPETGRFAVDMVLHEPAGPASTWARTVEPGATIAVMSMGSRGF</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-unknown">SVPEDPEDRPVGYLLIGDSASTPAINGIIEVVPHDIPIELYLEQHHDDDVLIPLAEHPRLRVHRVSRDDASSLAAALELRDWSNWYCWAGPEAGALKQVRTRLRDEFGFPKREVYAQAYW</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-unknown">TEGRAMGSSRGETSTPAKPAAKTAPAKAAAKPAAASGAGTPEHAAAPAAATTGAPQAAPAPGAAQPRTPVRGRWR</span><span class="topo-outside">AEAGSRLLAPLKKPLIVSG</span><span class="topo-membrane">VLQALITLIELAPFV</span><span class="topo-inside">LLVELARLLLG</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">GAEAERLWTLGLT</span><span class="topo-membrane">AVSLIGLGAVLAAA</span><span class="topo-outside">MTLWLHRVDARFAHELRGRLLTKLSRLPLGWFTRRGSASTKQLVQDDTLALHYLITHAIPDA</span><span class="topo-membrane">VAAVVAPVAVLVYLFV</span><span class="topo-inside">AD</span><span class="topo-membrane">WRVALVLFIPVLV</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-membrane">YL</span><span class="topo-outside">VLMSVMTIQSGSKIAQAPRWAERMGGEAGAFLEGQPVIRIFGGAAASRFRRRLDDYIDFLVSWQRPFVGKKT</span><span class="topo-membrane">LMDLVTRPATFLWII</span><span class="topo-inside">LVAGVPLVVTGRMDPVNLL</span><span class="topo-membrane">PFLLLGTTFGAR</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-membrane">LL</span><span class="topo-outside">GIGYGLSGIQTGMLAARRIQTVLDEPELVVRDRT</span><span class="topo-unknown">GQAGTDHASGDQAR</span><span class="topo-outside">PGTVELDRVSFEYRPGVPVIRDVTLTLRPGTVTALVGPSGSGKSTLAALVARFHDVTQGAIRVDGRDIRT</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820       830       840</span>
+<span class="topo-line"><span class="topo-outside">LTADELYRRVGFVLQDAQLVHGSVAENIALAEPDAGLERIRTAARDAQIHDRITRMPDGYDSVLGAGSALSGGERQRVTIARAILADTPVLVLDEATAFADPESEYLVQQAINRLTRDRT</span></span>
+<span class="topo-ruler">       850       860       870       880       890       900        </span>
+<span class="topo-line"><span class="topo-outside">VLVIAHRLHTITHADQIVVLDDGRIVEVGTHDELLAAGGRYRGLWDSGRY</span><span class="topo-unknown">SSPDAGRPVSADAVEVGR</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -898,6 +907,7 @@ to capture membrane-embedded mycobactin.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -913,16 +923,17 @@ to capture membrane-embedded mycobactin.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">IRTLLRLVPAEKRGAVA</span><span class="topo-membrane">GYAVLTLLSVLLRAVGA</span><span class="topo-inside">VLLIPLLAALFSDTPSDAWLWLGWL</span></span>
-<span class="topo-line"><span class="topo-membrane">TAVTLAGWVTDTNT</span><span class="topo-outside">ARLGFDLGFAVLSRTQHDMADRLPNVAMSWFTPDNTATARQAIAAT</span></span>
-<span class="topo-line"><span class="topo-outside">GPELAGLVVNLL</span><span class="topo-membrane">TPLIGAALLPAAIGVA</span><span class="topo-inside">LLFVSVPLG</span><span class="topo-membrane">LAALAGVAVLFGALALS</span><span class="topo-outside">GRLSRA</span></span>
-<span class="topo-line"><span class="topo-outside">ADKVAGETNSAFTERIIEFARTQQALRAARRVEPARSQVGSALAAQHGAGLRLLTMQI</span><span class="topo-membrane">PG</span></span>
-<span class="topo-line"><span class="topo-membrane">QVLFSLAGQVALIG</span><span class="topo-inside">FAGMAVWLTVRGQLGVPEAI</span><span class="topo-membrane">ALIVVLVRYLEPFA</span><span class="topo-outside">AIADLAPALETT</span></span>
-<span class="topo-line"><span class="topo-outside">RATLNRIQAVLDAPTLPAGRRRLDRTGAAPSIEFDDVRFSYGDEVVLDGVSFTLRPGNTT</span></span>
-<span class="topo-line"><span class="topo-outside">AIVGPSGSGKTTILSLIAGLQQPASGRVLLDGVDVTTLDPEARRAAVSVVFQHPYLFDGT</span></span>
-<span class="topo-line"><span class="topo-outside">LRDNVLVGDPEADPDDVTAAMRLARVDELLDRLPDGDATVVGEGGTALSGGERQRVSIAR</span></span>
-<span class="topo-line"><span class="topo-outside">ALLKPAPVLLVDEATSALDNANEAAVVDALTADPRPRTRVIVAHRLASIRHADRVLFVEA</span></span>
-<span class="topo-line"><span class="topo-outside">GRVVEDGAIDELLAAGGRFAQFWAQQQAASEWAIGSTARALEVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">IRTLLRLVPAEKRGAVA</span><span class="topo-membrane">GYAVLTLLSVLLRAVGA</span><span class="topo-inside">VLLIPLLAALFSDTPSDAWLWLGWL</span><span class="topo-membrane">TAVTLAGWVTDTNT</span><span class="topo-outside">ARLGFDLGFAVLSRTQHDMADRLPNVAMSWFTPDNTATARQAIAAT</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">GPELAGLVVNLL</span><span class="topo-membrane">TPLIGAALLPAAIGVA</span><span class="topo-inside">LLFVSVPLG</span><span class="topo-membrane">LAALAGVAVLFGALALS</span><span class="topo-outside">GRLSRAADKVAGETNSAFTERIIEFARTQQALRAARRVEPARSQVGSALAAQHGAGLRLLTMQI</span><span class="topo-membrane">PG</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">QVLFSLAGQVALIG</span><span class="topo-inside">FAGMAVWLTVRGQLGVPEAI</span><span class="topo-membrane">ALIVVLVRYLEPFA</span><span class="topo-outside">AIADLAPALETTRATLNRIQAVLDAPTLPAGRRRLDRTGAAPSIEFDDVRFSYGDEVVLDGVSFTLRPGNTT</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">AIVGPSGSGKTTILSLIAGLQQPASGRVLLDGVDVTTLDPEARRAAVSVVFQHPYLFDGTLRDNVLVGDPEADPDDVTAAMRLARVDELLDRLPDGDATVVGEGGTALSGGERQRVSIAR</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580      </span>
+<span class="topo-line"><span class="topo-outside">ALLKPAPVLLVDEATSALDNANEAAVVDALTADPRPRTRVIVAHRLASIRHADRVLFVEAGRVVEDGAIDELLAAGGRFAQFWAQQQAASEWAIGSTARALEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (14 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1032,6 +1043,7 @@ to capture membrane-embedded mycobactin.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

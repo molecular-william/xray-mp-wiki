@@ -130,15 +130,17 @@ The bovine mitochondrial F-ATPase (ATP synthase) c8-ring is part of the membrane
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">ADTSVDLEETGRVLSIGDGIARVHGLRNVQAEEMVEFSSGLKGMSLNLEPDNVGVVVFGN</span></span>
-<span class="topo-line"><span class="topo-inside">DKLIKEGDIVKRTGAIVDVPVGEELLGRVVDALGNAIDGKGPIGSKARRRVGLKAPGIIP</span></span>
-<span class="topo-line"><span class="topo-inside">RISVREPMQTGIKAVDSLVPIGRGQRELIIGDRQTGKTSIAIDTIINQKRFNDGTDEKKK</span></span>
-<span class="topo-line"><span class="topo-inside">LYCIYVAIGQKRSTVAQLVKRLTDADAMKYTIVVSATASDAAPLQYLAPYSGCSMGEYFR</span></span>
-<span class="topo-line"><span class="topo-inside">DNGKHALIIYDDLSKQAVAYRQMSLLLRRPPGREAYPGDVFYLHSRLLERAAKMNDAFGG</span></span>
-<span class="topo-line"><span class="topo-inside">GSLTALPVIETQAGDVSAYIPTNVISITDGQIFLETELFYKGIRPAINVGLSVSRVGSAA</span></span>
-<span class="topo-line"><span class="topo-inside">QTRAMKQVAGTMKLELAQYREVAAFAQFGSDLDAATQQLLSRGVRLTELLKQGQYSPMAI</span></span>
-<span class="topo-line"><span class="topo-inside">EEQVAVIYAGVRGYLDKLEPSKITKFENAFLSHVISQHQALLGKIRTDGKISEESDAKLK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">ADTSVDLEETGRVLSIGDGIARVHGLRNVQAEEMVEFSSGLKGMSLNLEPDNVGVVVFGNDKLIKEGDIVKRTGAIVDVPVGEELLGRVVDALGNAIDGKGPIGSKARRRVGLKAPGIIP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">RISVREPMQTGIKAVDSLVPIGRGQRELIIGDRQTGKTSIAIDTIINQKRFNDGTDEKKKLYCIYVAIGQKRSTVAQLVKRLTDADAMKYTIVVSATASDAAPLQYLAPYSGCSMGEYFR</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">DNGKHALIIYDDLSKQAVAYRQMSLLLRRPPGREAYPGDVFYLHSRLLERAAKMNDAFGGGSLTALPVIETQAGDVSAYIPTNVISITDGQIFLETELFYKGIRPAINVGLSVSRVGSAA</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">QTRAMKQVAGTMKLELAQYREVAAFAQFGSDLDAATQQLLSRGVRLTELLKQGQYSPMAIEEQVAVIYAGVRGYLDKLEPSKITKFENAFLSHVISQHQALLGKIRTDGKISEESDAKLK</span></span>
+<span class="topo-ruler">       490  </span>
 <span class="topo-line"><span class="topo-inside">EIVTNFLAGFEA</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -157,6 +159,7 @@ The bovine mitochondrial F-ATPase (ATP synthase) c8-ring is part of the membrane
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -172,15 +175,17 @@ The bovine mitochondrial F-ATPase (ATP synthase) c8-ring is part of the membrane
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">ADTSVDLEETGRVLSIGDGIARVHGLRNVQAEEMVEFSSGLKGMSLNLEPDNVGVVVFGN</span></span>
-<span class="topo-line"><span class="topo-inside">DKLIKEGDIVKRTGAIVDVPVGEELLGRVVDALGNAIDGKGPIGSKARRRVGLKAPGIIP</span></span>
-<span class="topo-line"><span class="topo-inside">RISVREPMQTGIKAVDSLVPIGRGQRELIIGDRQTGKTSIAIDTIINQKRFNDGTDEKKK</span></span>
-<span class="topo-line"><span class="topo-inside">LYCIYVAIGQKRSTVAQLVKRLTDADAMKYTIVVSATASDAAPLQYLAPYSGCSMGEYFR</span></span>
-<span class="topo-line"><span class="topo-inside">DNGKHALIIYDDLSKQAVAYRQMSLLLRRPPGREAYPGDVFYLHSRLLERAAKMNDAFGG</span></span>
-<span class="topo-line"><span class="topo-inside">GSLTALPVIETQAGDVSAYIPTNVISITDGQIFLETELFYKGIRPAINVGLSVSRVGSAA</span></span>
-<span class="topo-line"><span class="topo-inside">QTRAMKQVAGTMKLELAQYREVAAFAQFGSDLDAATQQLLSRGVRLTELLKQGQYSPMAI</span></span>
-<span class="topo-line"><span class="topo-inside">EEQVAVIYAGVRGYLDKLEPSKITKFENAFLSHVISQHQALLGKIRTDGKISEESDAKLK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">ADTSVDLEETGRVLSIGDGIARVHGLRNVQAEEMVEFSSGLKGMSLNLEPDNVGVVVFGNDKLIKEGDIVKRTGAIVDVPVGEELLGRVVDALGNAIDGKGPIGSKARRRVGLKAPGIIP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">RISVREPMQTGIKAVDSLVPIGRGQRELIIGDRQTGKTSIAIDTIINQKRFNDGTDEKKKLYCIYVAIGQKRSTVAQLVKRLTDADAMKYTIVVSATASDAAPLQYLAPYSGCSMGEYFR</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">DNGKHALIIYDDLSKQAVAYRQMSLLLRRPPGREAYPGDVFYLHSRLLERAAKMNDAFGGGSLTALPVIETQAGDVSAYIPTNVISITDGQIFLETELFYKGIRPAINVGLSVSRVGSAA</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">QTRAMKQVAGTMKLELAQYREVAAFAQFGSDLDAATQQLLSRGVRLTELLKQGQYSPMAIEEQVAVIYAGVRGYLDKLEPSKITKFENAFLSHVISQHQALLGKIRTDGKISEESDAKLK</span></span>
+<span class="topo-ruler">       490  </span>
 <span class="topo-line"><span class="topo-inside">EIVTNFLAGFEA</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -199,6 +204,7 @@ The bovine mitochondrial F-ATPase (ATP synthase) c8-ring is part of the membrane
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -214,15 +220,17 @@ The bovine mitochondrial F-ATPase (ATP synthase) c8-ring is part of the membrane
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">ADTSVDLEETGRVLSIGDGIARVHGLRNVQAEEMVEFSSGLKGMSLNLEPDNVGVVVFGN</span></span>
-<span class="topo-line"><span class="topo-inside">DKLIKEGDIVKRTGAIVDVPVGEELLGRVVDALGNAIDGKGPIGSKARRRVGLKAPGIIP</span></span>
-<span class="topo-line"><span class="topo-inside">RISVREPMQTGIKAVDSLVPIGRGQRELIIGDRQTGKTSIAIDTIINQKRFNDGTDEKKK</span></span>
-<span class="topo-line"><span class="topo-inside">LYCIYVAIGQKRSTVAQLVKRLTDADAMKYTIVVSATASDAAPLQYLAPYSGCSMGEYFR</span></span>
-<span class="topo-line"><span class="topo-inside">DNGKHALIIYDDLSKQAVAYRQMSLLLRRPPGREAYPGDVFYLHSRLLERAAKMNDAFGG</span></span>
-<span class="topo-line"><span class="topo-inside">GSLTALPVIETQAGDVSAYIPTNVISITDGQIFLETELFYKGIRPAINVGLSVSRVGSAA</span></span>
-<span class="topo-line"><span class="topo-inside">QTRAMKQVAGTMKLELAQYREVAAFAQFGSDLDAATQQLLSRGVRLTELLKQGQYSPMAI</span></span>
-<span class="topo-line"><span class="topo-inside">EEQVAVIYAGVRGYLDKLEPSKITKFENAFLSHVISQHQALLGKIRTDGKISEESDAKLK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">ADTSVDLEETGRVLSIGDGIARVHGLRNVQAEEMVEFSSGLKGMSLNLEPDNVGVVVFGNDKLIKEGDIVKRTGAIVDVPVGEELLGRVVDALGNAIDGKGPIGSKARRRVGLKAPGIIP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">RISVREPMQTGIKAVDSLVPIGRGQRELIIGDRQTGKTSIAIDTIINQKRFNDGTDEKKKLYCIYVAIGQKRSTVAQLVKRLTDADAMKYTIVVSATASDAAPLQYLAPYSGCSMGEYFR</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">DNGKHALIIYDDLSKQAVAYRQMSLLLRRPPGREAYPGDVFYLHSRLLERAAKMNDAFGGGSLTALPVIETQAGDVSAYIPTNVISITDGQIFLETELFYKGIRPAINVGLSVSRVGSAA</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">QTRAMKQVAGTMKLELAQYREVAAFAQFGSDLDAATQQLLSRGVRLTELLKQGQYSPMAIEEQVAVIYAGVRGYLDKLEPSKITKFENAFLSHVISQHQALLGKIRTDGKISEESDAKLK</span></span>
+<span class="topo-ruler">       490  </span>
 <span class="topo-line"><span class="topo-inside">EIVTNFLAGFEA</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -241,6 +249,7 @@ The bovine mitochondrial F-ATPase (ATP synthase) c8-ring is part of the membrane
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -256,14 +265,15 @@ The bovine mitochondrial F-ATPase (ATP synthase) c8-ring is part of the membrane
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">TTGRIVAVIGAVVDVQFDEGLPPILNALEVQGRETRLVLEVAQHLGESTVRTIAMDGTEG</span></span>
-<span class="topo-line"><span class="topo-inside">LVRGQKVLDSGAPIRIPVGPETLGRIMNVIGEPIDERGPIKTKQFAAIHAEAPEFVEMSV</span></span>
-<span class="topo-line"><span class="topo-inside">EQEILVTGIKVVDLLAPYAKGGKIGLFGGAGVGKTVLIMELINNVAKAHGGYSVFAGVGE</span></span>
-<span class="topo-line"><span class="topo-inside">RTREGNDLYHEMIESGVINLKDATSKVALVYGQMNEPPGARARVALTGLTVAEYFRDQEG</span></span>
-<span class="topo-line"><span class="topo-inside">QDVLLFIDNIFRFTQAGSEVSALLGRIPSAVGYQPTLATDMGTMQERITTTKKGSITSVQ</span></span>
-<span class="topo-line"><span class="topo-inside">AIYVPADDLTDPAPATTFAHLDATTVLSRAIAELGIYPAVDPLDSTSRIMDPNIVGSEHY</span></span>
-<span class="topo-line"><span class="topo-inside">DVARGVQKILQDYKSLQDIIAILGMDELSEEDKLTVSRARKIQRFLSQPFQVAEVFTGHL</span></span>
-<span class="topo-line"><span class="topo-inside">GKLVPLKETIKGFQQILAGEYDHLPEQAFYMVGPIEEAVAKADKLAE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">TTGRIVAVIGAVVDVQFDEGLPPILNALEVQGRETRLVLEVAQHLGESTVRTIAMDGTEGLVRGQKVLDSGAPIRIPVGPETLGRIMNVIGEPIDERGPIKTKQFAAIHAEAPEFVEMSV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">EQEILVTGIKVVDLLAPYAKGGKIGLFGGAGVGKTVLIMELINNVAKAHGGYSVFAGVGERTREGNDLYHEMIESGVINLKDATSKVALVYGQMNEPPGARARVALTGLTVAEYFRDQEG</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">QDVLLFIDNIFRFTQAGSEVSALLGRIPSAVGYQPTLATDMGTMQERITTTKKGSITSVQAIYVPADDLTDPAPATTFAHLDATTVLSRAIAELGIYPAVDPLDSTSRIMDPNIVGSEHY</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       </span>
+<span class="topo-line"><span class="topo-inside">DVARGVQKILQDYKSLQDIIAILGMDELSEEDKLTVSRARKIQRFLSQPFQVAEVFTGHLGKLVPLKETIKGFQQILAGEYDHLPEQAFYMVGPIEEAVAKADKLAE</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -282,6 +292,7 @@ The bovine mitochondrial F-ATPase (ATP synthase) c8-ring is part of the membrane
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -297,14 +308,15 @@ The bovine mitochondrial F-ATPase (ATP synthase) c8-ring is part of the membrane
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">TTGRIVAVIGAVVDVQFDEGLPPILNALEVQGRETRLVLEVAQHLGESTVRTIAMDGTEG</span></span>
-<span class="topo-line"><span class="topo-inside">LVRGQKVLDSGAPIRIPVGPETLGRIMNVIGEPIDERGPIKTKQFAAIHAEAPEFVEMSV</span></span>
-<span class="topo-line"><span class="topo-inside">EQEILVTGIKVVDLLAPYAKGGKIGLFGGAGVGKTVLIMELINNVAKAHGGYSVFAGVGE</span></span>
-<span class="topo-line"><span class="topo-inside">RTREGNDLYHEMIESGVINLKDATSKVALVYGQMNEPPGARARVALTGLTVAEYFRDQEG</span></span>
-<span class="topo-line"><span class="topo-inside">QDVLLFIDNIFRFTQAGSEVSALLGRIPSAVGYQPTLATDMGTMQERITTTKKGSITSVQ</span></span>
-<span class="topo-line"><span class="topo-inside">AIYVPADDLTDPAPATTFAHLDATTVLSRAIAELGIYPAVDPLDSTSRIMDPNIVGSEHY</span></span>
-<span class="topo-line"><span class="topo-inside">DVARGVQKILQDYKSLQDIIAILGMDELSEEDKLTVSRARKIQRFLSQPFQVAEVFTGHL</span></span>
-<span class="topo-line"><span class="topo-inside">GKLVPLKETIKGFQQILAGEYDHLPEQAFYMVGPIEEAVAKADKLA</span><span class="topo-unknown">E</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">TTGRIVAVIGAVVDVQFDEGLPPILNALEVQGRETRLVLEVAQHLGESTVRTIAMDGTEGLVRGQKVLDSGAPIRIPVGPETLGRIMNVIGEPIDERGPIKTKQFAAIHAEAPEFVEMSV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">EQEILVTGIKVVDLLAPYAKGGKIGLFGGAGVGKTVLIMELINNVAKAHGGYSVFAGVGERTREGNDLYHEMIESGVINLKDATSKVALVYGQMNEPPGARARVALTGLTVAEYFRDQEG</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">QDVLLFIDNIFRFTQAGSEVSALLGRIPSAVGYQPTLATDMGTMQERITTTKKGSITSVQAIYVPADDLTDPAPATTFAHLDATTVLSRAIAELGIYPAVDPLDSTSRIMDPNIVGSEHY</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       </span>
+<span class="topo-line"><span class="topo-inside">DVARGVQKILQDYKSLQDIIAILGMDELSEEDKLTVSRARKIQRFLSQPFQVAEVFTGHLGKLVPLKETIKGFQQILAGEYDHLPEQAFYMVGPIEEAVAKADKLA</span><span class="topo-unknown">E</span></span>
+<details class="topo-details"><summary>Topology coordinates (2 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -330,6 +342,7 @@ The bovine mitochondrial F-ATPase (ATP synthase) c8-ring is part of the membrane
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -345,14 +358,15 @@ The bovine mitochondrial F-ATPase (ATP synthase) c8-ring is part of the membrane
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">TTGRIVAVIGAVVDVQFDEGLPPILNALEVQGRETRLVLEVAQHLGESTVRTIAMDGTEG</span></span>
-<span class="topo-line"><span class="topo-inside">LVRGQKVLDSGAPIRIPVGPETLGRIMNVIGEPIDERGPIKTKQFAAIHAEAPEFVEMSV</span></span>
-<span class="topo-line"><span class="topo-inside">EQEILVTGIKVVDLLAPYAKGGKIGLFGGAGVGKTVLIMELINNVAKAHGGYSVFAGVGE</span></span>
-<span class="topo-line"><span class="topo-inside">RTREGNDLYHEMIESGVINLKDATSKVALVYGQMNEPPGARARVALTGLTVAEYFRDQEG</span></span>
-<span class="topo-line"><span class="topo-inside">QDVLLFIDNIFRFTQAGSEVSALLGRIPSAVGYQPTLATDMGTMQERITTTKKGSITSVQ</span></span>
-<span class="topo-line"><span class="topo-inside">AIYVPADDLTDPAPATTFAHLDATTVLSRAIAELGIYPAVDPLDSTSRIMDPNIVGSEHY</span></span>
-<span class="topo-line"><span class="topo-inside">DVARGVQKILQDYKSLQDIIAILGMDELSEEDKLTVSRARKIQRFLSQPFQVAEVFTGHL</span></span>
-<span class="topo-line"><span class="topo-inside">GKLVPLKETIKGFQQILAGEYDHLPEQAFYMVGPIEEAVAKADKLA</span><span class="topo-unknown">E</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">TTGRIVAVIGAVVDVQFDEGLPPILNALEVQGRETRLVLEVAQHLGESTVRTIAMDGTEGLVRGQKVLDSGAPIRIPVGPETLGRIMNVIGEPIDERGPIKTKQFAAIHAEAPEFVEMSV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">EQEILVTGIKVVDLLAPYAKGGKIGLFGGAGVGKTVLIMELINNVAKAHGGYSVFAGVGERTREGNDLYHEMIESGVINLKDATSKVALVYGQMNEPPGARARVALTGLTVAEYFRDQEG</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">QDVLLFIDNIFRFTQAGSEVSALLGRIPSAVGYQPTLATDMGTMQERITTTKKGSITSVQAIYVPADDLTDPAPATTFAHLDATTVLSRAIAELGIYPAVDPLDSTSRIMDPNIVGSEHY</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       </span>
+<span class="topo-line"><span class="topo-inside">DVARGVQKILQDYKSLQDIIAILGMDELSEEDKLTVSRARKIQRFLSQPFQVAEVFTGHLGKLVPLKETIKGFQQILAGEYDHLPEQAFYMVGPIEEAVAKADKLA</span><span class="topo-unknown">E</span></span>
+<details class="topo-details"><summary>Topology coordinates (2 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -378,6 +392,7 @@ The bovine mitochondrial F-ATPase (ATP synthase) c8-ring is part of the membrane
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -393,11 +408,13 @@ The bovine mitochondrial F-ATPase (ATP synthase) c8-ring is part of the membrane
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">ATLKDITRRLKSIKNIQKITKSMKMVAAAKYARAERELKPARVYGVGSLALYEKADIKTP</span></span>
-<span class="topo-line"><span class="topo-inside">E</span><span class="topo-unknown">DKKKH</span><span class="topo-inside">LIIGVSSDRGLCGAIHSSVAKQMKSEAANL</span><span class="topo-unknown">AAAG</span><span class="topo-inside">KEVKIIGVGDKIRSILHRTH</span></span>
-<span class="topo-line"><span class="topo-inside">SDQFLVTFKEVGRRPPTFGDASVIALELLNSGYEFDEGSIIFNRFRSVISYKTEEKPIFS</span></span>
-<span class="topo-line"><span class="topo-inside">LDTISSAESMSIYDDIDADVLRNYQEYSLANIIYYSLKESTTSEQSARMTAMDNASKNAS</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">ATLKDITRRLKSIKNIQKITKSMKMVAAAKYARAERELKPARVYGVGSLALYEKADIKTPE</span><span class="topo-unknown">DKKKH</span><span class="topo-inside">LIIGVSSDRGLCGAIHSSVAKQMKSEAANL</span><span class="topo-unknown">AAAG</span><span class="topo-inside">KEVKIIGVGDKIRSILHRTH</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">SDQFLVTFKEVGRRPPTFGDASVIALELLNSGYEFDEGSIIFNRFRSVISYKTEEKPIFSLDTISSAESMSIYDDIDADVLRNYQEYSLANIIYYSLKESTTSEQSARMTAMDNASKNAS</span></span>
+<span class="topo-ruler">       250       260       270  </span>
 <span class="topo-line"><span class="topo-inside">EMIDKLTLTFNRTRQAVITKELIEIISGAAAL</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -444,6 +461,7 @@ The bovine mitochondrial F-ATPase (ATP synthase) c8-ring is part of the membrane
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -459,9 +477,11 @@ The bovine mitochondrial F-ATPase (ATP synthase) c8-ring is part of the membrane
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">QMSFTFASPTQVFFNSANVRQVDVPTQTGAFGILAAHVPTLQVLRPGLVVVHAEDGTTSK</span></span>
-<span class="topo-line"><span class="topo-inside">YFVSSGSVTVNADSSVQLLAEEAVTLDMLDLGAAKANLEKAQSELLGAADEATRAEIQIR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">QMSFTFASPTQVFFNSANVRQVDVPTQTGAFGILAAHVPTLQVLRPGLVVVHAEDGTTSKYFVSSGSVTVNADSSVQLLAEEAVTLDMLDLGAAKANLEKAQSELLGAADEATRAEIQIR</span></span>
+<span class="topo-ruler">       130 </span>
 <span class="topo-line"><span class="topo-inside">IEANEALVKAL</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -480,6 +500,7 @@ The bovine mitochondrial F-ATPase (ATP synthase) c8-ring is part of the membrane
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -495,7 +516,9 @@ The bovine mitochondrial F-ATPase (ATP synthase) c8-ring is part of the membrane
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40       </span>
 <span class="topo-line"><span class="topo-inside">VAYWRQAGLSYIRYSQICAKAVRDALKTEFKANAMKTSGSTIKIVKV</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -514,6 +537,7 @@ The bovine mitochondrial F-ATPase (ATP synthase) c8-ring is part of the membrane
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -529,8 +553,9 @@ The bovine mitochondrial F-ATPase (ATP synthase) c8-ring is part of the membrane
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">IDTAAKFIGAGAAT</span><span class="topo-membrane">VGVAGSGAGIGTV</span><span class="topo-inside">FGSLIIGYARNPSLKQQLFSYAI</span><span class="topo-membrane">LGFALSEAMG</span></span>
-<span class="topo-line"><span class="topo-membrane">LFCL</span><span class="topo-outside">MVAFLILF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70  </span>
+<span class="topo-line"><span class="topo-outside">IDTAAKFIGAGAAT</span><span class="topo-membrane">VGVAGSGAGIGTV</span><span class="topo-inside">FGSLIIGYARNPSLKQQLFSYAI</span><span class="topo-membrane">LGFALSEAMGLFCL</span><span class="topo-outside">MVAFLILF</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -577,6 +602,7 @@ The bovine mitochondrial F-ATPase (ATP synthase) c8-ring is part of the membrane
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -592,8 +618,9 @@ The bovine mitochondrial F-ATPase (ATP synthase) c8-ring is part of the membrane
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">IDTAAKFIGAGAAT</span><span class="topo-membrane">VGVAGSGAGIGTVF</span><span class="topo-inside">GSLIIGYARNPSLKQQLFSYA</span><span class="topo-membrane">ILGFALSEAMG</span></span>
-<span class="topo-line"><span class="topo-membrane">LFCL</span><span class="topo-outside">MVAFLILF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70  </span>
+<span class="topo-line"><span class="topo-outside">IDTAAKFIGAGAAT</span><span class="topo-membrane">VGVAGSGAGIGTVF</span><span class="topo-inside">GSLIIGYARNPSLKQQLFSYA</span><span class="topo-membrane">ILGFALSEAMGLFCL</span><span class="topo-outside">MVAFLILF</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -640,6 +667,7 @@ The bovine mitochondrial F-ATPase (ATP synthase) c8-ring is part of the membrane
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -655,8 +683,9 @@ The bovine mitochondrial F-ATPase (ATP synthase) c8-ring is part of the membrane
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">IDTAAKFIGAGAATV</span><span class="topo-membrane">GVAGSGAGIGTVF</span><span class="topo-inside">GSLIIGYARNPSLKQQLFSYA</span><span class="topo-membrane">ILGFALSEAMG</span></span>
-<span class="topo-line"><span class="topo-membrane">LFC</span><span class="topo-outside">LMVAFLILF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70  </span>
+<span class="topo-line"><span class="topo-outside">IDTAAKFIGAGAATV</span><span class="topo-membrane">GVAGSGAGIGTVF</span><span class="topo-inside">GSLIIGYARNPSLKQQLFSYA</span><span class="topo-membrane">ILGFALSEAMGLFC</span><span class="topo-outside">LMVAFLILF</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -703,6 +732,7 @@ The bovine mitochondrial F-ATPase (ATP synthase) c8-ring is part of the membrane
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -718,8 +748,9 @@ The bovine mitochondrial F-ATPase (ATP synthase) c8-ring is part of the membrane
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">IDTAAKFIGAGAATV</span><span class="topo-membrane">GVAGSGAGIGTVFG</span><span class="topo-inside">SLIIGYARNPSLKQQLFSY</span><span class="topo-membrane">AILGFALSEAMG</span></span>
-<span class="topo-line"><span class="topo-membrane">LFC</span><span class="topo-outside">LMVAFLILF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70  </span>
+<span class="topo-line"><span class="topo-outside">IDTAAKFIGAGAATV</span><span class="topo-membrane">GVAGSGAGIGTVFG</span><span class="topo-inside">SLIIGYARNPSLKQQLFSY</span><span class="topo-membrane">AILGFALSEAMGLFC</span><span class="topo-outside">LMVAFLILF</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -766,6 +797,7 @@ The bovine mitochondrial F-ATPase (ATP synthase) c8-ring is part of the membrane
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -781,8 +813,9 @@ The bovine mitochondrial F-ATPase (ATP synthase) c8-ring is part of the membrane
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">IDTAAKFIGAGAATV</span><span class="topo-membrane">GVAGSGAGIGTVFG</span><span class="topo-inside">SLIIGYARNPSLKQQLFSY</span><span class="topo-membrane">AILGFALSEAMG</span></span>
-<span class="topo-line"><span class="topo-membrane">LF</span><span class="topo-outside">CLMVAFLILF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70  </span>
+<span class="topo-line"><span class="topo-outside">IDTAAKFIGAGAATV</span><span class="topo-membrane">GVAGSGAGIGTVFG</span><span class="topo-inside">SLIIGYARNPSLKQQLFSY</span><span class="topo-membrane">AILGFALSEAMGLF</span><span class="topo-outside">CLMVAFLILF</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -829,6 +862,7 @@ The bovine mitochondrial F-ATPase (ATP synthase) c8-ring is part of the membrane
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -844,8 +878,9 @@ The bovine mitochondrial F-ATPase (ATP synthase) c8-ring is part of the membrane
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">IDTAAKFIGAGAATV</span><span class="topo-membrane">GVAGSGAGIGTVF</span><span class="topo-inside">GSLIIGYARNPSLKQQLFSY</span><span class="topo-membrane">AILGFALSEAMG</span></span>
-<span class="topo-line"><span class="topo-membrane">LF</span><span class="topo-outside">CLMVAFLILF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70  </span>
+<span class="topo-line"><span class="topo-outside">IDTAAKFIGAGAATV</span><span class="topo-membrane">GVAGSGAGIGTVF</span><span class="topo-inside">GSLIIGYARNPSLKQQLFSY</span><span class="topo-membrane">AILGFALSEAMGLF</span><span class="topo-outside">CLMVAFLILF</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -892,6 +927,7 @@ The bovine mitochondrial F-ATPase (ATP synthase) c8-ring is part of the membrane
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -907,8 +943,9 @@ The bovine mitochondrial F-ATPase (ATP synthase) c8-ring is part of the membrane
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">IDTAAKFIGAGAAT</span><span class="topo-membrane">VGVAGSGAGIGTVF</span><span class="topo-inside">GSLIIGYARNPSLKQQLFSYA</span><span class="topo-membrane">ILGFALSEAMG</span></span>
-<span class="topo-line"><span class="topo-membrane">LFCL</span><span class="topo-outside">MVAFLILF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70  </span>
+<span class="topo-line"><span class="topo-outside">IDTAAKFIGAGAAT</span><span class="topo-membrane">VGVAGSGAGIGTVF</span><span class="topo-inside">GSLIIGYARNPSLKQQLFSYA</span><span class="topo-membrane">ILGFALSEAMGLFCL</span><span class="topo-outside">MVAFLILF</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -955,6 +992,7 @@ The bovine mitochondrial F-ATPase (ATP synthase) c8-ring is part of the membrane
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -970,8 +1008,9 @@ The bovine mitochondrial F-ATPase (ATP synthase) c8-ring is part of the membrane
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">IDTAAKFIGAGAAT</span><span class="topo-membrane">VGVAGSGAGIGTV</span><span class="topo-inside">FGSLIIGYARNPSLKQQLFSYAI</span><span class="topo-membrane">LGFALSEAMG</span></span>
-<span class="topo-line"><span class="topo-membrane">LFCL</span><span class="topo-outside">MVAFLILF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70  </span>
+<span class="topo-line"><span class="topo-outside">IDTAAKFIGAGAAT</span><span class="topo-membrane">VGVAGSGAGIGTV</span><span class="topo-inside">FGSLIIGYARNPSLKQQLFSYAI</span><span class="topo-membrane">LGFALSEAMGLFCL</span><span class="topo-outside">MVAFLILF</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1018,6 +1057,7 @@ The bovine mitochondrial F-ATPase (ATP synthase) c8-ring is part of the membrane
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

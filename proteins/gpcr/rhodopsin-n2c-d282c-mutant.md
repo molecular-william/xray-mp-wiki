@@ -136,12 +136,13 @@ The N2C/D282C mutant of rhodopsin is a thermally stabilized recombinant form wit
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">-</span><span class="topo-inside">MCGTEGPNFYVPFSNKTGVVRSPFEAPQYYLAEPWQFS</span><span class="topo-membrane">MLAAYMFLLIMLGFPINFLTL</span></span>
-<span class="topo-line"><span class="topo-membrane">YVTVQ</span><span class="topo-outside">HKKLRTPL</span><span class="topo-membrane">NYILLNLAVADLFMVFGGFTTTLYTS</span><span class="topo-inside">LHGYFVFGPTG</span><span class="topo-membrane">CNLEGFFATL</span></span>
-<span class="topo-line"><span class="topo-membrane">GGEIALWSLVVLAI</span><span class="topo-outside">ERYVVVCKPMSNFRFGENH</span><span class="topo-membrane">AIMGVAFTWVMALACAAPPLVGWS</span><span class="topo-inside">RYI</span></span>
-<span class="topo-line"><span class="topo-inside">PEGMQCSCGIDYYTPHEET</span><span class="topo-membrane">NNESFVIYMFVVHFIIPLIVIFFCYG</span><span class="topo-outside">QLVFTVKEAAAQQQE</span></span>
-<span class="topo-line"><span class="topo-outside">SATTQKAEKEVTRM</span><span class="topo-membrane">VIIMVIAFLICWLPYAGVAFYIFTH</span><span class="topo-inside">QGSCFGPI</span><span class="topo-membrane">FMTIPAFFAKTSA</span></span>
-<span class="topo-line"><span class="topo-membrane">VYNPVIYIMM</span><span class="topo-outside">NKQFRNCMVTTLCCGKN</span><span class="topo-unknown">PLGDDEASTTVSKTETSQVAPA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">-</span><span class="topo-inside">MCGTEGPNFYVPFSNKTGVVRSPFEAPQYYLAEPWQFS</span><span class="topo-membrane">MLAAYMFLLIMLGFPINFLTLYVTVQ</span><span class="topo-outside">HKKLRTPL</span><span class="topo-membrane">NYILLNLAVADLFMVFGGFTTTLYTS</span><span class="topo-inside">LHGYFVFGPTG</span><span class="topo-membrane">CNLEGFFATL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GGEIALWSLVVLAI</span><span class="topo-outside">ERYVVVCKPMSNFRFGENH</span><span class="topo-membrane">AIMGVAFTWVMALACAAPPLVGWS</span><span class="topo-inside">RYIPEGMQCSCGIDYYTPHEET</span><span class="topo-membrane">NNESFVIYMFVVHFIIPLIVIFFCYG</span><span class="topo-outside">QLVFTVKEAAAQQQE</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340         </span>
+<span class="topo-line"><span class="topo-outside">SATTQKAEKEVTRM</span><span class="topo-membrane">VIIMVIAFLICWLPYAGVAFYIFTH</span><span class="topo-inside">QGSCFGPI</span><span class="topo-membrane">FMTIPAFFAKTSAVYNPVIYIMM</span><span class="topo-outside">NKQFRNCMVTTLCCGKN</span><span class="topo-unknown">PLGDDEASTTVSKTETSQVAPA</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -265,6 +266,7 @@ The N2C/D282C mutant of rhodopsin is a thermally stabilized recombinant form wit
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

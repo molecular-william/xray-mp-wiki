@@ -123,14 +123,15 @@ CD47 is the only 5-transmembrane (5-TM) spanning receptor of the immune system. 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">QLLFNKTKSVEFTFCNDTVVIPCFVTNMEAQNTTEVYVKWKFKGRDIYTFDGALNKSTVP</span></span>
-<span class="topo-line"><span class="topo-outside">TDFSSAKIEVSQLLKGDASLKMDKSDAVSHTGNYTCEVTELTREGETIIELKYRVVSWFS</span></span>
-<span class="topo-line"><span class="topo-outside">P</span><span class="topo-membrane">NENILIVIFPIFAILLFWGQFG</span><span class="topo-inside">IKT</span><span class="topo-unknown">LKYRSGADLEDNWETLNDNLKVIEKADNAAQVKD</span></span>
-<span class="topo-line"><span class="topo-unknown">ALTKMRAAALDAQKATPPKLEDKSPDSPEMKDFRHGFDILVGQIDDALKLANEGKVKEAQ</span></span>
-<span class="topo-line"><span class="topo-unknown">AAAEQLKTTRNAYIQKYLGMDEK</span><span class="topo-inside">TIA</span><span class="topo-membrane">LLVAGLVITVIVIVGAILFVP</span><span class="topo-outside">GEYS</span><span class="topo-membrane">LKNATGLGL</span></span>
-<span class="topo-line"><span class="topo-membrane">IVTSTGILILLHYYV</span><span class="topo-inside">F</span><span class="topo-unknown">STAIG</span><span class="topo-inside">LTS</span><span class="topo-membrane">FVIAILVIQVIAYILAVVGLSLCI</span><span class="topo-outside">AACIPMH</span><span class="topo-membrane">GPLLI</span></span>
-<span class="topo-line"><span class="topo-membrane">SGLSILALAQLLGLVYMK</span><span class="topo-inside">FVASNQ</span><span class="topo-unknown">KTIQPPRKAVEEPLNAFKESKGMMNDEHHHHHHHHH</span></span>
-<span class="topo-line"><span class="topo-unknown">H</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">QLLFNKTKSVEFTFCNDTVVIPCFVTNMEAQNTTEVYVKWKFKGRDIYTFDGALNKSTVPTDFSSAKIEVSQLLKGDASLKMDKSDAVSHTGNYTCEVTELTREGETIIELKYRVVSWFS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">P</span><span class="topo-membrane">NENILIVIFPIFAILLFWGQFG</span><span class="topo-inside">IKT</span><span class="topo-unknown">LKYRSGADLEDNWETLNDNLKVIEKADNAAQVKDALTKMRAAALDAQKATPPKLEDKSPDSPEMKDFRHGFDILVGQIDDALKLANEGKVKEAQ</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-unknown">AAAEQLKTTRNAYIQKYLGMDEK</span><span class="topo-inside">TIA</span><span class="topo-membrane">LLVAGLVITVIVIVGAILFVP</span><span class="topo-outside">GEYS</span><span class="topo-membrane">LKNATGLGLIVTSTGILILLHYYV</span><span class="topo-inside">F</span><span class="topo-unknown">STAIG</span><span class="topo-inside">LTS</span><span class="topo-membrane">FVIAILVIQVIAYILAVVGLSLCI</span><span class="topo-outside">AACIPMH</span><span class="topo-membrane">GPLLI</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420 </span>
+<span class="topo-line"><span class="topo-membrane">SGLSILALAQLLGLVYMK</span><span class="topo-inside">FVASNQ</span><span class="topo-unknown">KTIQPPRKAVEEPLNAFKESKGMMNDEHHHHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (14 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -240,6 +241,7 @@ CD47 is the only 5-transmembrane (5-TM) spanning receptor of the immune system. 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -255,14 +257,15 @@ CD47 is the only 5-transmembrane (5-TM) spanning receptor of the immune system. 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">QLLFNKTKSVEFTFCNDTVVIPCFVTNMEAQNTTEVYVKWKFKGRDIYTFDGALNKSTVP</span></span>
-<span class="topo-line"><span class="topo-outside">TDFSSAKIEVSQLLKGDASLKMDKSDAVSHTGNYTCEVTELTREGETIIELKYRVVS</span><span class="topo-unknown">WFS</span></span>
-<span class="topo-line"><span class="topo-unknown">PNENILIVIFPIFAILLFWGQFGIKTLKYRSGADLEDNWETLNDNLKVIEKADNAAQVKD</span></span>
-<span class="topo-line"><span class="topo-unknown">ALTKMRAAALDAQKATPPKLEDKSPDSPEMKDFRHGFDILVGQIDDALKLANEGKVKEAQ</span></span>
-<span class="topo-line"><span class="topo-unknown">AAAEQLKTTRNAYIQKYLGMDEKTIALLVAGLVITVIVIVGAILFVPGEYSLKNATGLGL</span></span>
-<span class="topo-line"><span class="topo-unknown">IVTSTGILILLHYYVFSTAIGLTSFVIAILVIQVIAYILAVVGLSLCIAACIPMHGPLLI</span></span>
-<span class="topo-line"><span class="topo-unknown">SGLSILALAQLLGLVYMKFVASNQKTIQPPRKAVEEPLNAFKESKGMMNDEHHHHHHHHH</span></span>
-<span class="topo-line"><span class="topo-unknown">H</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">QLLFNKTKSVEFTFCNDTVVIPCFVTNMEAQNTTEVYVKWKFKGRDIYTFDGALNKSTVPTDFSSAKIEVSQLLKGDASLKMDKSDAVSHTGNYTCEVTELTREGETIIELKYRVVS</span><span class="topo-unknown">WFS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-unknown">PNENILIVIFPIFAILLFWGQFGIKTLKYRSGADLEDNWETLNDNLKVIEKADNAAQVKDALTKMRAAALDAQKATPPKLEDKSPDSPEMKDFRHGFDILVGQIDDALKLANEGKVKEAQ</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-unknown">AAAEQLKTTRNAYIQKYLGMDEKTIALLVAGLVITVIVIVGAILFVPGEYSLKNATGLGLIVTSTGILILLHYYVFSTAIGLTSFVIAILVIQVIAYILAVVGLSLCIAACIPMHGPLLI</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420 </span>
+<span class="topo-line"><span class="topo-unknown">SGLSILALAQLLGLVYMKFVASNQKTIQPPRKAVEEPLNAFKESKGMMNDEHHHHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -281,6 +284,7 @@ CD47 is the only 5-transmembrane (5-TM) spanning receptor of the immune system. 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

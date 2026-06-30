@@ -148,13 +148,15 @@ NapA from Thermus thermophilus is a Na+/H+ antiporter belonging to the CPA2 clad
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MH</span><span class="topo-outside">G</span><span class="topo-membrane">AEHLLEIFYLLLAAQVCAFIF</span><span class="topo-inside">KRLNQ</span><span class="topo-membrane">PVVIGEVLAGVLVGPAL</span><span class="topo-outside">L</span><span class="topo-membrane">GLVHEGEILEFLA</span></span>
-<span class="topo-line"><span class="topo-membrane">ELGAVFLLFMVG</span><span class="topo-inside">LETRLKDILAVG</span><span class="topo-membrane">KEAFLVAVLGVALPFLGGYLY</span><span class="topo-outside">GLEIGFETLPALFL</span><span class="topo-membrane">G</span></span>
-<span class="topo-line"><span class="topo-membrane">TALVATSVGITARV</span><span class="topo-inside">LQELGVLSRPYSRI</span><span class="topo-membrane">ILGAAVIDDVLGLIVLA</span><span class="topo-outside">CVNGVAETGQVEVGA</span></span>
-<span class="topo-line"><span class="topo-outside">I</span><span class="topo-membrane">TRLIVLSVVFVGLAVFL</span><span class="topo-inside">STLIARLPLERLPVGSPLG</span><span class="topo-membrane">FALALGVGMAALAASI</span><span class="topo-outside">G</span><span class="topo-membrane">LAPIVG</span></span>
-<span class="topo-line"><span class="topo-membrane">AFLGGML</span><span class="topo-inside">LSEVREKYRLEEPIFAI</span><span class="topo-membrane">ESFLAPIFFAMVGVRLEL</span><span class="topo-outside">SALASPVVL</span><span class="topo-membrane">VAGTVVTVI</span></span>
-<span class="topo-line"><span class="topo-membrane">AILGKVLGGFLGA</span><span class="topo-inside">LTQGVRSA</span><span class="topo-membrane">LTVGCGMAPRGEVGLIVA</span><span class="topo-outside">ALGLKAGAVNEEEYAI</span><span class="topo-membrane">VLFMV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MH</span><span class="topo-outside">G</span><span class="topo-membrane">AEHLLEIFYLLLAAQVCAFIF</span><span class="topo-inside">KRLNQ</span><span class="topo-membrane">PVVIGEVLAGVLVGPAL</span><span class="topo-outside">L</span><span class="topo-membrane">GLVHEGEILEFLAELGAVFLLFMVG</span><span class="topo-inside">LETRLKDILAVG</span><span class="topo-membrane">KEAFLVAVLGVALPFLGGYLY</span><span class="topo-outside">GLEIGFETLPALFL</span><span class="topo-membrane">G</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">TALVATSVGITARV</span><span class="topo-inside">LQELGVLSRPYSRI</span><span class="topo-membrane">ILGAAVIDDVLGLIVLA</span><span class="topo-outside">CVNGVAETGQVEVGAI</span><span class="topo-membrane">TRLIVLSVVFVGLAVFL</span><span class="topo-inside">STLIARLPLERLPVGSPLG</span><span class="topo-membrane">FALALGVGMAALAASI</span><span class="topo-outside">G</span><span class="topo-membrane">LAPIVG</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">AFLGGML</span><span class="topo-inside">LSEVREKYRLEEPIFAI</span><span class="topo-membrane">ESFLAPIFFAMVGVRLEL</span><span class="topo-outside">SALASPVVL</span><span class="topo-membrane">VAGTVVTVIAILGKVLGGFLGA</span><span class="topo-inside">LTQGVRSA</span><span class="topo-membrane">LTVGCGMAPRGEVGLIVA</span><span class="topo-outside">ALGLKAGAVNEEEYAI</span><span class="topo-membrane">VLFMV</span></span>
+<span class="topo-ruler">       370       380       390    </span>
 <span class="topo-line"><span class="topo-membrane">VFTTLFAPFAL</span><span class="topo-inside">KPLIAWTERERAAKE</span><span class="topo-unknown">GSENLYFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (29 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -369,6 +371,7 @@ NapA from Thermus thermophilus is a Na+/H+ antiporter belonging to the CPA2 clad
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -569,13 +572,15 @@ NapA from Thermus thermophilus is a Na+/H+ antiporter belonging to the CPA2 clad
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MH</span><span class="topo-outside">GAEH</span><span class="topo-membrane">LLEIFYLLLAAQVMAFIFKRL</span><span class="topo-inside">N</span><span class="topo-membrane">QPCVIGEVLAGVLVG</span><span class="topo-outside">PALLGLVHEGEIL</span><span class="topo-membrane">EFLA</span></span>
-<span class="topo-line"><span class="topo-membrane">ELGAVFLLFMVGLET</span><span class="topo-inside">RLKDILAVGKEA</span><span class="topo-membrane">FLVAVLGVALPFLGGYLYG</span><span class="topo-outside">LEIGFETLPAL</span><span class="topo-membrane">FLG</span></span>
-<span class="topo-line"><span class="topo-membrane">TALVATSVGCT</span><span class="topo-inside">ARVLQELGVLSRPYSRII</span><span class="topo-membrane">LGAAVIDDVLGLIVLAVV</span><span class="topo-outside">NGVAETGQVEVGA</span></span>
-<span class="topo-line"><span class="topo-outside">I</span><span class="topo-membrane">TRLIVLSVVFVGLAVFLS</span><span class="topo-inside">TLIARLPLER</span><span class="topo-membrane">LPVGSPLGFALALGVGMAALAASI</span><span class="topo-outside">G</span><span class="topo-membrane">LAPIVG</span></span>
-<span class="topo-line"><span class="topo-membrane">AFLGGMLLS</span><span class="topo-inside">EVREKYRLEEP</span><span class="topo-membrane">IFAIESFLAPIFFAMVGV</span><span class="topo-outside">RLELSALASPVV</span><span class="topo-membrane">LVAGTVVTVI</span></span>
-<span class="topo-line"><span class="topo-membrane">AILGKVLGGFLG</span><span class="topo-inside">ALTQGVRSALTVG</span><span class="topo-membrane">VGMAPRGEVGLIVAAL</span><span class="topo-outside">GLKAGAVNEEEY</span><span class="topo-membrane">AIVLFMV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MH</span><span class="topo-outside">GAEH</span><span class="topo-membrane">LLEIFYLLLAAQVMAFIFKRL</span><span class="topo-inside">N</span><span class="topo-membrane">QPCVIGEVLAGVLVG</span><span class="topo-outside">PALLGLVHEGEIL</span><span class="topo-membrane">EFLAELGAVFLLFMVGLET</span><span class="topo-inside">RLKDILAVGKEA</span><span class="topo-membrane">FLVAVLGVALPFLGGYLYG</span><span class="topo-outside">LEIGFETLPAL</span><span class="topo-membrane">FLG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">TALVATSVGCT</span><span class="topo-inside">ARVLQELGVLSRPYSRII</span><span class="topo-membrane">LGAAVIDDVLGLIVLAVV</span><span class="topo-outside">NGVAETGQVEVGAI</span><span class="topo-membrane">TRLIVLSVVFVGLAVFLS</span><span class="topo-inside">TLIARLPLER</span><span class="topo-membrane">LPVGSPLGFALALGVGMAALAASI</span><span class="topo-outside">G</span><span class="topo-membrane">LAPIVG</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">AFLGGMLLS</span><span class="topo-inside">EVREKYRLEEP</span><span class="topo-membrane">IFAIESFLAPIFFAMVGV</span><span class="topo-outside">RLELSALASPVV</span><span class="topo-membrane">LVAGTVVTVIAILGKVLGGFLG</span><span class="topo-inside">ALTQGVRSALTVG</span><span class="topo-membrane">VGMAPRGEVGLIVAAL</span><span class="topo-outside">GLKAGAVNEEEY</span><span class="topo-membrane">AIVLFMV</span></span>
+<span class="topo-ruler">       370       380      </span>
 <span class="topo-line"><span class="topo-membrane">VFTTLFAPFA</span><span class="topo-inside">LKPLIAWTERERAAKE</span></span>
+<details class="topo-details"><summary>Topology coordinates (27 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -776,6 +781,7 @@ NapA from Thermus thermophilus is a Na+/H+ antiporter belonging to the CPA2 clad
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -791,13 +797,15 @@ NapA from Thermus thermophilus is a Na+/H+ antiporter belonging to the CPA2 clad
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MH</span><span class="topo-outside">GAEH</span><span class="topo-membrane">LLEIFYLLLAAQVMAFIFKRL</span><span class="topo-inside">N</span><span class="topo-membrane">QPCVIGEVLAGVLV</span><span class="topo-outside">GPALLGLVHEGEILEF</span><span class="topo-membrane">LA</span></span>
-<span class="topo-line"><span class="topo-membrane">ELGAVFLLFMVGLET</span><span class="topo-inside">RLKDILAVG</span><span class="topo-membrane">KEAFLVAVLGVALPFLGG</span><span class="topo-outside">YLYGLEIGFETLPALFLG</span></span>
-<span class="topo-line"><span class="topo-membrane">TALVATSVGCTARV</span><span class="topo-inside">LQELGVLSRPYSRI</span><span class="topo-membrane">ILGAAVIDDVLGLIVLA</span><span class="topo-outside">VVNGVAETGQVEVGA</span></span>
-<span class="topo-line"><span class="topo-outside">ITRL</span><span class="topo-membrane">IVLSVVFVGLAVFLSTLI</span><span class="topo-inside">ARLPLER</span><span class="topo-membrane">LPVGSPLGFALALGVGMAALAASI</span><span class="topo-outside">GL</span><span class="topo-membrane">APIVG</span></span>
-<span class="topo-line"><span class="topo-membrane">AFLGGMLLS</span><span class="topo-inside">EVREKYRL</span><span class="topo-membrane">EEPIFAIESFLAPIFFAMVG</span><span class="topo-outside">VRLELSALASPVVLVAG</span><span class="topo-membrane">TVVTVI</span></span>
-<span class="topo-line"><span class="topo-membrane">AILGKVLGGFLGAL</span><span class="topo-inside">TQGVRSA</span><span class="topo-membrane">LTVGVGMAPRGEVGLIVAA</span><span class="topo-outside">LGLKAGAVNEEEYAIV</span><span class="topo-membrane">LFMV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MH</span><span class="topo-outside">GAEH</span><span class="topo-membrane">LLEIFYLLLAAQVMAFIFKRL</span><span class="topo-inside">N</span><span class="topo-membrane">QPCVIGEVLAGVLV</span><span class="topo-outside">GPALLGLVHEGEILEF</span><span class="topo-membrane">LAELGAVFLLFMVGLET</span><span class="topo-inside">RLKDILAVG</span><span class="topo-membrane">KEAFLVAVLGVALPFLGG</span><span class="topo-outside">YLYGLEIGFETLPALFLG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">TALVATSVGCTARV</span><span class="topo-inside">LQELGVLSRPYSRI</span><span class="topo-membrane">ILGAAVIDDVLGLIVLA</span><span class="topo-outside">VVNGVAETGQVEVGAITRL</span><span class="topo-membrane">IVLSVVFVGLAVFLSTLI</span><span class="topo-inside">ARLPLER</span><span class="topo-membrane">LPVGSPLGFALALGVGMAALAASI</span><span class="topo-outside">GL</span><span class="topo-membrane">APIVG</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">AFLGGMLLS</span><span class="topo-inside">EVREKYRL</span><span class="topo-membrane">EEPIFAIESFLAPIFFAMVG</span><span class="topo-outside">VRLELSALASPVVLVAG</span><span class="topo-membrane">TVVTVIAILGKVLGGFLGAL</span><span class="topo-inside">TQGVRSA</span><span class="topo-membrane">LTVGVGMAPRGEVGLIVAA</span><span class="topo-outside">LGLKAGAVNEEEYAIV</span><span class="topo-membrane">LFMV</span></span>
+<span class="topo-ruler">       370       380      </span>
 <span class="topo-line"><span class="topo-membrane">VFTTLFAPFALK</span><span class="topo-inside">PLIAWTERERAAKE</span></span>
+<details class="topo-details"><summary>Topology coordinates (27 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -998,6 +1006,7 @@ NapA from Thermus thermophilus is a Na+/H+ antiporter belonging to the CPA2 clad
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1013,13 +1022,15 @@ NapA from Thermus thermophilus is a Na+/H+ antiporter belonging to the CPA2 clad
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">G</span><span class="topo-membrane">AEHLLEIFYLLLAAQVCAFIF</span><span class="topo-outside">KRLNQ</span><span class="topo-membrane">PVVIGEVLAGVLVGPAL</span><span class="topo-inside">L</span><span class="topo-membrane">GLVHEGEILEFLAE</span></span>
-<span class="topo-line"><span class="topo-membrane">LGAVFLLFMVG</span><span class="topo-outside">LETRLKDILAVG</span><span class="topo-membrane">KEAFLVAVLGVALPFLGGYLYG</span><span class="topo-inside">LEIGFETLPAL</span><span class="topo-membrane">FLGT</span></span>
-<span class="topo-line"><span class="topo-membrane">ALVATSVGITARV</span><span class="topo-outside">LQELGVLSRPYSRI</span><span class="topo-membrane">ILGAAVIDDVLGLIVLACV</span><span class="topo-inside">NGVAETGQVEV</span><span class="topo-membrane">GAI</span></span>
-<span class="topo-line"><span class="topo-membrane">TRLIVLSVVFVGLAVFL</span><span class="topo-outside">STLIARLPLERLPVGSPLG</span><span class="topo-membrane">FALALGVGMAALAASI</span><span class="topo-inside">G</span><span class="topo-membrane">LAPIVGA</span></span>
-<span class="topo-line"><span class="topo-membrane">FLGG</span><span class="topo-outside">MLLSEVREKYRLEEPIFAI</span><span class="topo-membrane">ESFLAPIFFAMVGVRLELSAL</span><span class="topo-inside">ASPVV</span><span class="topo-membrane">LVAGTVVTVIA</span></span>
-<span class="topo-line"><span class="topo-membrane">ILGKVLGGFLGA</span><span class="topo-outside">LTQGVRSA</span><span class="topo-membrane">LTVGCGMAPRGEVGLIVA</span><span class="topo-inside">ALGLKAGAVNEEEYA</span><span class="topo-membrane">IVLFMVV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">G</span><span class="topo-membrane">AEHLLEIFYLLLAAQVCAFIF</span><span class="topo-outside">KRLNQ</span><span class="topo-membrane">PVVIGEVLAGVLVGPAL</span><span class="topo-inside">L</span><span class="topo-membrane">GLVHEGEILEFLAELGAVFLLFMVG</span><span class="topo-outside">LETRLKDILAVG</span><span class="topo-membrane">KEAFLVAVLGVALPFLGGYLYG</span><span class="topo-inside">LEIGFETLPAL</span><span class="topo-membrane">FLGT</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">ALVATSVGITARV</span><span class="topo-outside">LQELGVLSRPYSRI</span><span class="topo-membrane">ILGAAVIDDVLGLIVLACV</span><span class="topo-inside">NGVAETGQVEV</span><span class="topo-membrane">GAITRLIVLSVVFVGLAVFL</span><span class="topo-outside">STLIARLPLERLPVGSPLG</span><span class="topo-membrane">FALALGVGMAALAASI</span><span class="topo-inside">G</span><span class="topo-membrane">LAPIVGA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">FLGG</span><span class="topo-outside">MLLSEVREKYRLEEPIFAI</span><span class="topo-membrane">ESFLAPIFFAMVGVRLELSAL</span><span class="topo-inside">ASPVV</span><span class="topo-membrane">LVAGTVVTVIAILGKVLGGFLGA</span><span class="topo-outside">LTQGVRSA</span><span class="topo-membrane">LTVGCGMAPRGEVGLIVA</span><span class="topo-inside">ALGLKAGAVNEEEYA</span><span class="topo-membrane">IVLFMVV</span></span>
+<span class="topo-ruler">       370       380     </span>
 <span class="topo-line"><span class="topo-membrane">FTTLFAPFALK</span><span class="topo-outside">PLIAWTERERAAKE</span></span>
+<details class="topo-details"><summary>Topology coordinates (27 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1220,6 +1231,7 @@ NapA from Thermus thermophilus is a Na+/H+ antiporter belonging to the CPA2 clad
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1235,13 +1247,15 @@ NapA from Thermus thermophilus is a Na+/H+ antiporter belonging to the CPA2 clad
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">G</span><span class="topo-membrane">AEHLLEIFYLLLAAQVCAFIF</span><span class="topo-outside">KRLNQ</span><span class="topo-membrane">PVVIGEVLAGVLVGPAL</span><span class="topo-inside">L</span><span class="topo-membrane">GLVHEGEILEFLAE</span></span>
-<span class="topo-line"><span class="topo-membrane">LGAVFLLFMVG</span><span class="topo-outside">LETRLKDILAVG</span><span class="topo-membrane">KEAFLVAVLGVALPFLGGYLYG</span><span class="topo-inside">LEIGFETLPAL</span><span class="topo-membrane">FLGT</span></span>
-<span class="topo-line"><span class="topo-membrane">ALVATSVGITARV</span><span class="topo-outside">LQELGVLSRPYSRI</span><span class="topo-membrane">ILGAAVIDDVLGLIVLACV</span><span class="topo-inside">NGVAETGQVEV</span><span class="topo-membrane">GAI</span></span>
-<span class="topo-line"><span class="topo-membrane">TRLIVLSVVFVGLAVFL</span><span class="topo-outside">STLIARLPLERLPVGSPLG</span><span class="topo-membrane">FALALGVGMAALAASI</span><span class="topo-inside">G</span><span class="topo-membrane">LAPIVGA</span></span>
-<span class="topo-line"><span class="topo-membrane">FLGG</span><span class="topo-outside">MLLSEVREKYRLEEPIFAI</span><span class="topo-membrane">ESFLAPIFFAMVGVRLELSAL</span><span class="topo-inside">ASPVV</span><span class="topo-membrane">LVAGTVVTVIA</span></span>
-<span class="topo-line"><span class="topo-membrane">ILGKVLGGFLGA</span><span class="topo-outside">LTQGVRSA</span><span class="topo-membrane">LTVGCGMAPRGEVGLIVA</span><span class="topo-inside">ALGLKAGAVNEEEYA</span><span class="topo-membrane">IVLFMVV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">G</span><span class="topo-membrane">AEHLLEIFYLLLAAQVCAFIF</span><span class="topo-outside">KRLNQ</span><span class="topo-membrane">PVVIGEVLAGVLVGPAL</span><span class="topo-inside">L</span><span class="topo-membrane">GLVHEGEILEFLAELGAVFLLFMVG</span><span class="topo-outside">LETRLKDILAVG</span><span class="topo-membrane">KEAFLVAVLGVALPFLGGYLYG</span><span class="topo-inside">LEIGFETLPAL</span><span class="topo-membrane">FLGT</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">ALVATSVGITARV</span><span class="topo-outside">LQELGVLSRPYSRI</span><span class="topo-membrane">ILGAAVIDDVLGLIVLACV</span><span class="topo-inside">NGVAETGQVEV</span><span class="topo-membrane">GAITRLIVLSVVFVGLAVFL</span><span class="topo-outside">STLIARLPLERLPVGSPLG</span><span class="topo-membrane">FALALGVGMAALAASI</span><span class="topo-inside">G</span><span class="topo-membrane">LAPIVGA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">FLGG</span><span class="topo-outside">MLLSEVREKYRLEEPIFAI</span><span class="topo-membrane">ESFLAPIFFAMVGVRLELSAL</span><span class="topo-inside">ASPVV</span><span class="topo-membrane">LVAGTVVTVIAILGKVLGGFLGA</span><span class="topo-outside">LTQGVRSA</span><span class="topo-membrane">LTVGCGMAPRGEVGLIVA</span><span class="topo-inside">ALGLKAGAVNEEEYA</span><span class="topo-membrane">IVLFMVV</span></span>
+<span class="topo-ruler">       370       380     </span>
 <span class="topo-line"><span class="topo-membrane">FTTLFAPFALK</span><span class="topo-outside">PLIAWTERERAAKE</span></span>
+<details class="topo-details"><summary>Topology coordinates (27 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1442,6 +1456,7 @@ NapA from Thermus thermophilus is a Na+/H+ antiporter belonging to the CPA2 clad
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

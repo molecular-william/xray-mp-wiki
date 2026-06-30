@@ -111,7 +111,9 @@ The B800-850 light-harvesting complex II (LH2) from Rhodopseudomonas acidophila 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40        50   </span>
 <span class="topo-line"><span class="topo-outside">MNQGKIWTVVNPAIGIPA</span><span class="topo-membrane">LLGSVTVIAILVHLAILSH</span><span class="topo-inside">TTWFPAYWQGGV</span><span class="topo-unknown">KKAA</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -151,6 +153,7 @@ The B800-850 light-harvesting complex II (LH2) from Rhodopseudomonas acidophila 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -166,7 +169,9 @@ The B800-850 light-harvesting complex II (LH2) from Rhodopseudomonas acidophila 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40 </span>
 <span class="topo-line"><span class="topo-outside">ATLTAEQSEELHKYVIDG</span><span class="topo-membrane">TRVFLGLALVAHFLAFSAT</span><span class="topo-inside">PWLH</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -199,6 +204,7 @@ The B800-850 light-harvesting complex II (LH2) from Rhodopseudomonas acidophila 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -214,7 +220,9 @@ The B800-850 light-harvesting complex II (LH2) from Rhodopseudomonas acidophila 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40        50   </span>
 <span class="topo-line"><span class="topo-outside">MNQGKIWTVVNPAIGIPA</span><span class="topo-membrane">LLGSVTVIAILVHLAILSH</span><span class="topo-inside">TTWFPAYWQGGV</span><span class="topo-unknown">KKAA</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -254,6 +262,7 @@ The B800-850 light-harvesting complex II (LH2) from Rhodopseudomonas acidophila 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -269,7 +278,9 @@ The B800-850 light-harvesting complex II (LH2) from Rhodopseudomonas acidophila 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40 </span>
 <span class="topo-line"><span class="topo-outside">ATLTAEQSEELHKYVIDG</span><span class="topo-membrane">TRVFLGLALVAHFLAFSAT</span><span class="topo-inside">PWLH</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -302,6 +313,7 @@ The B800-850 light-harvesting complex II (LH2) from Rhodopseudomonas acidophila 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -317,7 +329,9 @@ The B800-850 light-harvesting complex II (LH2) from Rhodopseudomonas acidophila 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40        50   </span>
 <span class="topo-line"><span class="topo-outside">MNQGKIWTVVNPAIGIPA</span><span class="topo-membrane">LLGSVTVIAILVHLAILSH</span><span class="topo-inside">TTWFPAYWQGGV</span><span class="topo-unknown">KKAA</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -357,6 +371,7 @@ The B800-850 light-harvesting complex II (LH2) from Rhodopseudomonas acidophila 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -372,7 +387,9 @@ The B800-850 light-harvesting complex II (LH2) from Rhodopseudomonas acidophila 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40 </span>
 <span class="topo-line"><span class="topo-outside">ATLTAEQSEELHKYVIDG</span><span class="topo-membrane">TRVFLGLALVAHFLAFSAT</span><span class="topo-inside">PWLH</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -405,6 +422,7 @@ The B800-850 light-harvesting complex II (LH2) from Rhodopseudomonas acidophila 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -420,7 +438,9 @@ The B800-850 light-harvesting complex II (LH2) from Rhodopseudomonas acidophila 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40        50   </span>
 <span class="topo-line"><span class="topo-outside">MNQGKIWTVVNPAIGIPA</span><span class="topo-membrane">LLGSVTVIAILVHLAILSH</span><span class="topo-inside">TTWFPAYWQGGV</span><span class="topo-unknown">KKAA</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -460,6 +480,7 @@ The B800-850 light-harvesting complex II (LH2) from Rhodopseudomonas acidophila 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -475,7 +496,9 @@ The B800-850 light-harvesting complex II (LH2) from Rhodopseudomonas acidophila 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40 </span>
 <span class="topo-line"><span class="topo-outside">ATLTAEQSEELHKYVIDG</span><span class="topo-membrane">TRVFLGLALVAHFLAFSAT</span><span class="topo-inside">PWLH</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -508,6 +531,7 @@ The B800-850 light-harvesting complex II (LH2) from Rhodopseudomonas acidophila 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -523,7 +547,9 @@ The B800-850 light-harvesting complex II (LH2) from Rhodopseudomonas acidophila 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40        50   </span>
 <span class="topo-line"><span class="topo-outside">MNQGKIWTVVNPAIGIPA</span><span class="topo-membrane">LLGSVTVIAILVHLAILSH</span><span class="topo-inside">TTWFPAYWQGGV</span><span class="topo-unknown">KKAA</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -563,6 +589,7 @@ The B800-850 light-harvesting complex II (LH2) from Rhodopseudomonas acidophila 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -578,7 +605,9 @@ The B800-850 light-harvesting complex II (LH2) from Rhodopseudomonas acidophila 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40 </span>
 <span class="topo-line"><span class="topo-outside">ATLTAEQSEELHKYVIDG</span><span class="topo-membrane">TRVFLGLALVAHFLAFSAT</span><span class="topo-inside">PWLH</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -611,6 +640,7 @@ The B800-850 light-harvesting complex II (LH2) from Rhodopseudomonas acidophila 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -626,7 +656,9 @@ The B800-850 light-harvesting complex II (LH2) from Rhodopseudomonas acidophila 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40        50   </span>
 <span class="topo-line"><span class="topo-outside">MNQGKIWTVVNPAIGIPA</span><span class="topo-membrane">LLGSVTVIAILVHLAILSH</span><span class="topo-inside">TTWFPAYWQGGV</span><span class="topo-unknown">KKAA</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -666,6 +698,7 @@ The B800-850 light-harvesting complex II (LH2) from Rhodopseudomonas acidophila 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -681,7 +714,9 @@ The B800-850 light-harvesting complex II (LH2) from Rhodopseudomonas acidophila 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40 </span>
 <span class="topo-line"><span class="topo-outside">ATLTAEQSEELHKYVIDG</span><span class="topo-membrane">TRVFLGLALVAHFLAFSAT</span><span class="topo-inside">PWLH</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -714,6 +749,7 @@ The B800-850 light-harvesting complex II (LH2) from Rhodopseudomonas acidophila 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -729,7 +765,9 @@ The B800-850 light-harvesting complex II (LH2) from Rhodopseudomonas acidophila 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40        50   </span>
 <span class="topo-line"><span class="topo-outside">MNQGKIWTVVNPAIGIPA</span><span class="topo-membrane">LLGSVTVIAILVHLAILSH</span><span class="topo-inside">TTWFPAYWQGGV</span><span class="topo-unknown">KKAA</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -769,6 +807,7 @@ The B800-850 light-harvesting complex II (LH2) from Rhodopseudomonas acidophila 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -784,7 +823,9 @@ The B800-850 light-harvesting complex II (LH2) from Rhodopseudomonas acidophila 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40 </span>
 <span class="topo-line"><span class="topo-outside">ATLTAEQSEELHKYVIDG</span><span class="topo-membrane">TRVFLGLALVAHFLAFSAT</span><span class="topo-inside">PWLH</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -817,6 +858,7 @@ The B800-850 light-harvesting complex II (LH2) from Rhodopseudomonas acidophila 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -832,7 +874,9 @@ The B800-850 light-harvesting complex II (LH2) from Rhodopseudomonas acidophila 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40        50   </span>
 <span class="topo-line"><span class="topo-outside">MNQGKIWTVVNPAIGIPA</span><span class="topo-membrane">LLGSVTVIAILVHLAILSH</span><span class="topo-inside">TTWFPAYWQGGV</span><span class="topo-unknown">KKAA</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -872,6 +916,7 @@ The B800-850 light-harvesting complex II (LH2) from Rhodopseudomonas acidophila 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -887,7 +932,9 @@ The B800-850 light-harvesting complex II (LH2) from Rhodopseudomonas acidophila 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40 </span>
 <span class="topo-line"><span class="topo-outside">ATLTAEQSEELHKYVIDG</span><span class="topo-membrane">TRVFLGLALVAHFLAFSAT</span><span class="topo-inside">PWLH</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -920,6 +967,7 @@ The B800-850 light-harvesting complex II (LH2) from Rhodopseudomonas acidophila 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -935,7 +983,9 @@ The B800-850 light-harvesting complex II (LH2) from Rhodopseudomonas acidophila 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40        50   </span>
 <span class="topo-line"><span class="topo-outside">MNQGKIWTVVNPAIGIPA</span><span class="topo-membrane">LLGSVTVIAILVHLAILSH</span><span class="topo-inside">TTWFPAYWQGGV</span><span class="topo-unknown">KKAA</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -975,6 +1025,7 @@ The B800-850 light-harvesting complex II (LH2) from Rhodopseudomonas acidophila 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -990,7 +1041,9 @@ The B800-850 light-harvesting complex II (LH2) from Rhodopseudomonas acidophila 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40 </span>
 <span class="topo-line"><span class="topo-outside">ATLTAEQSEELHKYVIDG</span><span class="topo-membrane">TRVFLGLALVAHFLAFSAT</span><span class="topo-inside">PWLH</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1023,6 +1076,7 @@ The B800-850 light-harvesting complex II (LH2) from Rhodopseudomonas acidophila 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1125,7 +1179,9 @@ The B800-850 light-harvesting complex II (LH2) from Rhodopseudomonas acidophila 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40        50   </span>
 <span class="topo-line"><span class="topo-outside">MNQGKIWTVVNPAIGIPAL</span><span class="topo-membrane">LGSVTVIAILVHLAILSH</span><span class="topo-inside">TT</span><span class="topo-unknown">WFPAYWQ</span><span class="topo-inside">GGVKKAA</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1172,6 +1228,7 @@ The B800-850 light-harvesting complex II (LH2) from Rhodopseudomonas acidophila 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1187,7 +1244,9 @@ The B800-850 light-harvesting complex II (LH2) from Rhodopseudomonas acidophila 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40 </span>
 <span class="topo-line"><span class="topo-outside">ATLTAEQSEELHKYVIDGT</span><span class="topo-membrane">RVFLGLALVAHFLAFSAT</span><span class="topo-inside">PWLH</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1220,6 +1279,7 @@ The B800-850 light-harvesting complex II (LH2) from Rhodopseudomonas acidophila 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1235,7 +1295,9 @@ The B800-850 light-harvesting complex II (LH2) from Rhodopseudomonas acidophila 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40        50   </span>
 <span class="topo-line"><span class="topo-outside">MNQGKIWTVVNPAIGIPAL</span><span class="topo-membrane">LGSVTVIAILVHLAILSH</span><span class="topo-inside">TT</span><span class="topo-unknown">WFPAYWQ</span><span class="topo-inside">GGVKKAA</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1282,6 +1344,7 @@ The B800-850 light-harvesting complex II (LH2) from Rhodopseudomonas acidophila 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1297,7 +1360,9 @@ The B800-850 light-harvesting complex II (LH2) from Rhodopseudomonas acidophila 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40 </span>
 <span class="topo-line"><span class="topo-outside">ATLTAEQSEELHKYVIDGT</span><span class="topo-membrane">RVFLGLALVAHFLAFSAT</span><span class="topo-inside">PWLH</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1330,6 +1395,7 @@ The B800-850 light-harvesting complex II (LH2) from Rhodopseudomonas acidophila 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1345,7 +1411,9 @@ The B800-850 light-harvesting complex II (LH2) from Rhodopseudomonas acidophila 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40        50   </span>
 <span class="topo-line"><span class="topo-outside">MNQGKIWTVVNPAIGIPAL</span><span class="topo-membrane">LGSVTVIAILVHLAILSH</span><span class="topo-inside">T</span><span class="topo-unknown">TWFPAYWQ</span><span class="topo-inside">GGVKKAA</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1392,6 +1460,7 @@ The B800-850 light-harvesting complex II (LH2) from Rhodopseudomonas acidophila 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1407,7 +1476,9 @@ The B800-850 light-harvesting complex II (LH2) from Rhodopseudomonas acidophila 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40 </span>
 <span class="topo-line"><span class="topo-outside">ATLTAEQSEELHKYVIDGT</span><span class="topo-membrane">RVFLGLALVAHFLAFSAT</span><span class="topo-inside">PWLH</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1440,6 +1511,7 @@ The B800-850 light-harvesting complex II (LH2) from Rhodopseudomonas acidophila 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1455,7 +1527,9 @@ The B800-850 light-harvesting complex II (LH2) from Rhodopseudomonas acidophila 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40        50   </span>
 <span class="topo-line"><span class="topo-outside">MNQGKIWTVVNPAIGIPAL</span><span class="topo-membrane">LGSVTVIAILVHLAILSH</span><span class="topo-inside">TT</span><span class="topo-unknown">WFPAYWQ</span><span class="topo-inside">GGVKKAA</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1502,6 +1576,7 @@ The B800-850 light-harvesting complex II (LH2) from Rhodopseudomonas acidophila 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1517,7 +1592,9 @@ The B800-850 light-harvesting complex II (LH2) from Rhodopseudomonas acidophila 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40 </span>
 <span class="topo-line"><span class="topo-outside">ATLTAEQSEELHKYVIDGT</span><span class="topo-membrane">RVFLGLALVAHFLAFSAT</span><span class="topo-inside">PWLH</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1550,6 +1627,7 @@ The B800-850 light-harvesting complex II (LH2) from Rhodopseudomonas acidophila 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1565,7 +1643,9 @@ The B800-850 light-harvesting complex II (LH2) from Rhodopseudomonas acidophila 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40        50   </span>
 <span class="topo-line"><span class="topo-outside">MNQGKIWTVVNPAIGIPAL</span><span class="topo-membrane">LGSVTVIAILVHLAILS</span><span class="topo-inside">HTT</span><span class="topo-unknown">WFPAYWQ</span><span class="topo-inside">GGVKKAA</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1612,6 +1692,7 @@ The B800-850 light-harvesting complex II (LH2) from Rhodopseudomonas acidophila 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1627,7 +1708,9 @@ The B800-850 light-harvesting complex II (LH2) from Rhodopseudomonas acidophila 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40 </span>
 <span class="topo-line"><span class="topo-outside">ATLTAEQSEELHKYVIDG</span><span class="topo-membrane">TRVFLGLALVAHFLAFSA</span><span class="topo-inside">TPWLH</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1660,6 +1743,7 @@ The B800-850 light-harvesting complex II (LH2) from Rhodopseudomonas acidophila 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1675,7 +1759,9 @@ The B800-850 light-harvesting complex II (LH2) from Rhodopseudomonas acidophila 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40        50   </span>
 <span class="topo-line"><span class="topo-outside">MNQGKIWTVVNPAIGIPAL</span><span class="topo-membrane">LGSVTVIAILVHLAILS</span><span class="topo-inside">HT</span><span class="topo-unknown">TWFPAYWQ</span><span class="topo-inside">GGVKKAA</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1722,6 +1808,7 @@ The B800-850 light-harvesting complex II (LH2) from Rhodopseudomonas acidophila 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1737,7 +1824,9 @@ The B800-850 light-harvesting complex II (LH2) from Rhodopseudomonas acidophila 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40 </span>
 <span class="topo-line"><span class="topo-outside">ATLTAEQSEELHKYVIDG</span><span class="topo-membrane">TRVFLGLALVAHFLAFSA</span><span class="topo-inside">TPWLH</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1770,6 +1859,7 @@ The B800-850 light-harvesting complex II (LH2) from Rhodopseudomonas acidophila 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1785,7 +1875,9 @@ The B800-850 light-harvesting complex II (LH2) from Rhodopseudomonas acidophila 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40        50   </span>
 <span class="topo-line"><span class="topo-outside">MNQGKIWTVVNPAIGIPAL</span><span class="topo-membrane">LGSVTVIAILVHLAILS</span><span class="topo-inside">HTT</span><span class="topo-unknown">WFPAYWQ</span><span class="topo-inside">GGVKKAA</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1832,6 +1924,7 @@ The B800-850 light-harvesting complex II (LH2) from Rhodopseudomonas acidophila 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1847,7 +1940,9 @@ The B800-850 light-harvesting complex II (LH2) from Rhodopseudomonas acidophila 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40 </span>
 <span class="topo-line"><span class="topo-outside">ATLTAEQSEELHKYVIDG</span><span class="topo-membrane">TRVFLGLALVAHFLAFSA</span><span class="topo-inside">TPWLH</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1880,6 +1975,7 @@ The B800-850 light-harvesting complex II (LH2) from Rhodopseudomonas acidophila 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1895,7 +1991,9 @@ The B800-850 light-harvesting complex II (LH2) from Rhodopseudomonas acidophila 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40        50   </span>
 <span class="topo-line"><span class="topo-outside">MNQGKIWTVVNPAIGIPAL</span><span class="topo-membrane">LGSVTVIAILVHLAILS</span><span class="topo-inside">HTT</span><span class="topo-unknown">WFPAYWQ</span><span class="topo-inside">GGVKKAA</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1942,6 +2040,7 @@ The B800-850 light-harvesting complex II (LH2) from Rhodopseudomonas acidophila 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1957,7 +2056,9 @@ The B800-850 light-harvesting complex II (LH2) from Rhodopseudomonas acidophila 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40 </span>
 <span class="topo-line"><span class="topo-outside">ATLTAEQSEELHKYVIDG</span><span class="topo-membrane">TRVFLGLALVAHFLAFSA</span><span class="topo-inside">TPWLH</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1990,6 +2091,7 @@ The B800-850 light-harvesting complex II (LH2) from Rhodopseudomonas acidophila 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2005,7 +2107,9 @@ The B800-850 light-harvesting complex II (LH2) from Rhodopseudomonas acidophila 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40        50   </span>
 <span class="topo-line"><span class="topo-outside">MNQGKIWTVVNPAIGIPAL</span><span class="topo-membrane">LGSVTVIAILVHLAILSH</span><span class="topo-inside">T</span><span class="topo-unknown">TWFPAYWQ</span><span class="topo-inside">GGVKKAA</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2052,6 +2156,7 @@ The B800-850 light-harvesting complex II (LH2) from Rhodopseudomonas acidophila 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2067,7 +2172,9 @@ The B800-850 light-harvesting complex II (LH2) from Rhodopseudomonas acidophila 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40 </span>
 <span class="topo-line"><span class="topo-outside">ATLTAEQSEELHKYVIDGT</span><span class="topo-membrane">RVFLGLALVAHFLAFSAT</span><span class="topo-inside">PWLH</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2100,6 +2207,7 @@ The B800-850 light-harvesting complex II (LH2) from Rhodopseudomonas acidophila 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

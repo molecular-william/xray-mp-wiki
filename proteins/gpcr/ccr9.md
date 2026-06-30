@@ -87,12 +87,13 @@ CC Chemokine Receptor 9 (CCR9) is a G-protein-coupled receptor (GPCR) activated 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">ASMEDYVNFNFEDFYCEKNNV</span><span class="topo-outside">RQFASHF</span><span class="topo-membrane">LPPLYWLVFIVGALGNSLVILVYWY</span><span class="topo-inside">CARAKTA</span></span>
-<span class="topo-line"><span class="topo-membrane">TDMFLLNLAIADLLFLVTLPFWAI</span><span class="topo-outside">A</span><span class="topo-unknown">AADQWKFQ</span><span class="topo-outside">TFM</span><span class="topo-membrane">CKVVNSMYKMNFYSCVLLIMCICV</span></span>
-<span class="topo-line"><span class="topo-membrane">DRY</span><span class="topo-inside">IAIAQAMRAHTWREKRL</span><span class="topo-membrane">LYSKMVCFTIWVLAAALCIPEIL</span><span class="topo-outside">Y</span><span class="topo-unknown">SQIKEESGIAI</span><span class="topo-outside">CT</span><span class="topo-unknown">MVY</span></span>
-<span class="topo-line"><span class="topo-unknown">PSDES</span><span class="topo-outside">TKLKSA</span><span class="topo-membrane">VLALKVILGFFLPFVVMACCYTIIIHTL</span><span class="topo-inside">IQAKKSSKHKAL</span><span class="topo-membrane">KATITVLTV</span></span>
-<span class="topo-line"><span class="topo-membrane">FVLSQFPYNCILLV</span><span class="topo-outside">QTIDAYAMFISNCAVSTAIDIC</span><span class="topo-membrane">FQVTQAIAFFHSCLNPVLYVFVG</span><span class="topo-unknown">E</span></span>
-<span class="topo-line"><span class="topo-unknown">RFRRDLVKTLKNLGAISQAAAH</span><span class="topo-inside">H</span><span class="topo-unknown">HHHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">ASMEDYVNFNFEDFYCEKNNV</span><span class="topo-outside">RQFASHF</span><span class="topo-membrane">LPPLYWLVFIVGALGNSLVILVYWY</span><span class="topo-inside">CARAKTA</span><span class="topo-membrane">TDMFLLNLAIADLLFLVTLPFWAI</span><span class="topo-outside">A</span><span class="topo-unknown">AADQWKFQ</span><span class="topo-outside">TFM</span><span class="topo-membrane">CKVVNSMYKMNFYSCVLLIMCICV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">DRY</span><span class="topo-inside">IAIAQAMRAHTWREKRL</span><span class="topo-membrane">LYSKMVCFTIWVLAAALCIPEIL</span><span class="topo-outside">Y</span><span class="topo-unknown">SQIKEESGIAI</span><span class="topo-outside">CT</span><span class="topo-unknown">MVYPSDES</span><span class="topo-outside">TKLKSA</span><span class="topo-membrane">VLALKVILGFFLPFVVMACCYTIIIHTL</span><span class="topo-inside">IQAKKSSKHKAL</span><span class="topo-membrane">KATITVLTV</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330 </span>
+<span class="topo-line"><span class="topo-membrane">FVLSQFPYNCILLV</span><span class="topo-outside">QTIDAYAMFISNCAVSTAIDIC</span><span class="topo-membrane">FQVTQAIAFFHSCLNPVLYVFVG</span><span class="topo-unknown">ERFRRDLVKTLKNLGAISQAAAH</span><span class="topo-inside">H</span><span class="topo-unknown">HHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -237,6 +238,7 @@ CC Chemokine Receptor 9 (CCR9) is a G-protein-coupled receptor (GPCR) activated 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -252,12 +254,13 @@ CC Chemokine Receptor 9 (CCR9) is a G-protein-coupled receptor (GPCR) activated 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">ASMEDYVNF</span><span class="topo-outside">NFEDFYCEKNNVRQFASHF</span><span class="topo-membrane">LPPLYWLVFIVGALGNSLVILVYW</span><span class="topo-inside">YCARAKTA</span></span>
-<span class="topo-line"><span class="topo-inside">T</span><span class="topo-membrane">DMFLLNLAIADLLFLVTLPFWAIAA</span><span class="topo-outside">A</span><span class="topo-unknown">DQWKFQ</span><span class="topo-outside">TFM</span><span class="topo-membrane">CKVVNSMYKMNFYSCVLLIMCICV</span></span>
-<span class="topo-line"><span class="topo-membrane">D</span><span class="topo-inside">RYIAIAQAMRAHTWREKRLLY</span><span class="topo-membrane">SKMVCFTIWVLAAALCIPEIL</span><span class="topo-unknown">YSQIKEESGIAICTMVY</span></span>
-<span class="topo-line"><span class="topo-unknown">PSDES</span><span class="topo-outside">TKLKSA</span><span class="topo-membrane">VLALKVILGFFLPFVVMACCYTIIIH</span><span class="topo-inside">TLIQAKKSSKHKAL</span><span class="topo-membrane">KATITVLTV</span></span>
-<span class="topo-line"><span class="topo-membrane">FVLSQFPYNCILLVQTI</span><span class="topo-outside">DAYAMFISNCAVSTAIDIC</span><span class="topo-membrane">FQVTQAIAFFHSCLNPVLYVFVG</span><span class="topo-inside">E</span></span>
-<span class="topo-line"><span class="topo-inside">R</span><span class="topo-unknown">FRRDLVKTLKNLGAISQAAA</span><span class="topo-inside">H</span><span class="topo-unknown">HHHHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">ASMEDYVNF</span><span class="topo-outside">NFEDFYCEKNNVRQFASHF</span><span class="topo-membrane">LPPLYWLVFIVGALGNSLVILVYW</span><span class="topo-inside">YCARAKTAT</span><span class="topo-membrane">DMFLLNLAIADLLFLVTLPFWAIAA</span><span class="topo-outside">A</span><span class="topo-unknown">DQWKFQ</span><span class="topo-outside">TFM</span><span class="topo-membrane">CKVVNSMYKMNFYSCVLLIMCICV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">D</span><span class="topo-inside">RYIAIAQAMRAHTWREKRLLY</span><span class="topo-membrane">SKMVCFTIWVLAAALCIPEIL</span><span class="topo-unknown">YSQIKEESGIAICTMVYPSDES</span><span class="topo-outside">TKLKSA</span><span class="topo-membrane">VLALKVILGFFLPFVVMACCYTIIIH</span><span class="topo-inside">TLIQAKKSSKHKAL</span><span class="topo-membrane">KATITVLTV</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330 </span>
+<span class="topo-line"><span class="topo-membrane">FVLSQFPYNCILLVQTI</span><span class="topo-outside">DAYAMFISNCAVSTAIDIC</span><span class="topo-membrane">FQVTQAIAFFHSCLNPVLYVFVG</span><span class="topo-inside">ER</span><span class="topo-unknown">FRRDLVKTLKNLGAISQAAA</span><span class="topo-inside">H</span><span class="topo-unknown">HHHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -395,6 +398,7 @@ CC Chemokine Receptor 9 (CCR9) is a G-protein-coupled receptor (GPCR) activated 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

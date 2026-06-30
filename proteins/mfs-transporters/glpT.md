@@ -108,14 +108,15 @@ GlpT (glycerol-3-phosphate transporter) from the E. coli inner Solid-Supported M
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GSI</span><span class="topo-inside">FKPAPHKARLPAAEIDPTYRRLRWQ</span><span class="topo-membrane">IFLGIFFGYAAYYLVRKNFALAM</span><span class="topo-outside">PYLVEQGFS</span></span>
-<span class="topo-line"><span class="topo-outside">RG</span><span class="topo-membrane">DLGFALSGISIAYGFSKFIMG</span><span class="topo-inside">SVSDRS</span><span class="topo-membrane">NPRVFLPAGLILAAAVMLFMG</span><span class="topo-outside">FVPWATSSIA</span></span>
-<span class="topo-line"><span class="topo-membrane">VMFVLLFLCGWFQGMGWPPC</span><span class="topo-inside">GRTMVHWWSQKERGGIVS</span><span class="topo-membrane">VWNCAHNVGGGIPPLLFLLG</span><span class="topo-outside">MA</span></span>
-<span class="topo-line"><span class="topo-outside">WFNDWHAA</span><span class="topo-membrane">LYMPAFCAILVALFAFAMM</span><span class="topo-inside">RDTPQSCGLPPIEEYKND</span><span class="topo-unknown">YPDDYNEKAEQEL</span><span class="topo-inside">TA</span></span>
-<span class="topo-line"><span class="topo-inside">K</span><span class="topo-unknown">QIFMQY</span><span class="topo-inside">VLPNKLLW</span><span class="topo-membrane">YIAIANVFVYLLRYGILDWSPTYL</span><span class="topo-outside">KEVKHFALDK</span><span class="topo-membrane">SSWAYFLYEYA</span></span>
-<span class="topo-line"><span class="topo-membrane">GIPGTLLCG</span><span class="topo-inside">WMSDKVFRGNRG</span><span class="topo-membrane">ATGVFFMTLVTIATIVYWMN</span><span class="topo-outside">PAGN</span><span class="topo-membrane">PTVDMICMIVIGFLI</span></span>
-<span class="topo-line"><span class="topo-membrane">YGPVMLIG</span><span class="topo-inside">LHALELAPKKAAGTAAG</span><span class="topo-membrane">FTGLFGYLGGSVAASAIVGYTV</span><span class="topo-outside">DFFGW</span><span class="topo-membrane">DGGFMVMI</span></span>
-<span class="topo-line"><span class="topo-membrane">GGSILAVILLIV</span><span class="topo-inside">VMIGEKRRHEQLLQELVP</span><span class="topo-unknown">R</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GSI</span><span class="topo-inside">FKPAPHKARLPAAEIDPTYRRLRWQ</span><span class="topo-membrane">IFLGIFFGYAAYYLVRKNFALAM</span><span class="topo-outside">PYLVEQGFSRG</span><span class="topo-membrane">DLGFALSGISIAYGFSKFIMG</span><span class="topo-inside">SVSDRS</span><span class="topo-membrane">NPRVFLPAGLILAAAVMLFMG</span><span class="topo-outside">FVPWATSSIA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">VMFVLLFLCGWFQGMGWPPC</span><span class="topo-inside">GRTMVHWWSQKERGGIVS</span><span class="topo-membrane">VWNCAHNVGGGIPPLLFLLG</span><span class="topo-outside">MAWFNDWHAA</span><span class="topo-membrane">LYMPAFCAILVALFAFAMM</span><span class="topo-inside">RDTPQSCGLPPIEEYKND</span><span class="topo-unknown">YPDDYNEKAEQEL</span><span class="topo-inside">TA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">K</span><span class="topo-unknown">QIFMQY</span><span class="topo-inside">VLPNKLLW</span><span class="topo-membrane">YIAIANVFVYLLRYGILDWSPTYL</span><span class="topo-outside">KEVKHFALDK</span><span class="topo-membrane">SSWAYFLYEYAGIPGTLLCG</span><span class="topo-inside">WMSDKVFRGNRG</span><span class="topo-membrane">ATGVFFMTLVTIATIVYWMN</span><span class="topo-outside">PAGN</span><span class="topo-membrane">PTVDMICMIVIGFLI</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450 </span>
+<span class="topo-line"><span class="topo-membrane">YGPVMLIG</span><span class="topo-inside">LHALELAPKKAAGTAAG</span><span class="topo-membrane">FTGLFGYLGGSVAASAIVGYTV</span><span class="topo-outside">DFFGW</span><span class="topo-membrane">DGGFMVMIGGSILAVILLIV</span><span class="topo-inside">VMIGEKRRHEQLLQELVP</span><span class="topo-unknown">R</span></span>
+<details class="topo-details"><summary>Topology coordinates (31 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -344,6 +345,7 @@ GlpT (glycerol-3-phosphate transporter) from the E. coli inner Solid-Supported M
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

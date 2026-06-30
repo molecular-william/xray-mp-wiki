@@ -161,16 +161,17 @@ MsbA is an essential ATP-binding cassette (ABC) transporter in Gram-negative bac
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">LS</span><span class="topo-unknown">TWQTFRRLWPTIAPFK</span><span class="topo-membrane">AGLIVAGIALILNAASDTFMLSLLKPLLD</span><span class="topo-outside">DGFGATDRSV</span><span class="topo-membrane">LLW</span></span>
-<span class="topo-line"><span class="topo-membrane">MPLVVIGLMILRGITSYISSYCI</span><span class="topo-inside">SWVSGKVVMTMRRRLFGHMMGMPVAFFDKQSTGTLLS</span></span>
-<span class="topo-line"><span class="topo-inside">RITYDSEQVASSSSGAL</span><span class="topo-membrane">ITVVREGASIIGLFIMMFYYSW</span><span class="topo-outside">Q</span><span class="topo-membrane">LSIILVVLAPIVSIAIRVVS</span></span>
-<span class="topo-line"><span class="topo-inside">KRFRSISKNMQNTMGQVTTSAEQMLKGHKEVLIFGGQEVETKRFDKVSNKMRLQGMKMVS</span></span>
-<span class="topo-line"><span class="topo-inside">ASS</span><span class="topo-membrane">ISDPIIQLIASLALAFVLYAASF</span><span class="topo-outside">PSVMDS</span><span class="topo-membrane">LTAGTITVVFSSMIALMRPLKSLT</span><span class="topo-inside">NVNA</span></span>
-<span class="topo-line"><span class="topo-inside">QFQRGMAACQTLFAILDSEQEKDEGKRVIDRATGDLEFRNVTFTYPGREVPALRNINLKI</span></span>
-<span class="topo-line"><span class="topo-inside">PAGKTVALVGRSGSGKSTIASLITRFYDIDEGHILMDGHDLREYTLASLRNQVALVSQNV</span></span>
-<span class="topo-line"><span class="topo-inside">HLFNDTVANNIAYARTEEYSREQIEEAARMAYAMDFINKMDNGLDTIIGENGVLLSGGQR</span></span>
-<span class="topo-line"><span class="topo-inside">QRIAIARALLRDSPILILDEATSALDTESERAIQAALDELQKNRTSLVIAHRLSTIEQAD</span></span>
-<span class="topo-line"><span class="topo-inside">EIVVVEDGIIVERGTHSELLAQHGVYAQLHKMQFG</span><span class="topo-unknown">Q</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">LS</span><span class="topo-unknown">TWQTFRRLWPTIAPFK</span><span class="topo-membrane">AGLIVAGIALILNAASDTFMLSLLKPLLD</span><span class="topo-outside">DGFGATDRSV</span><span class="topo-membrane">LLWMPLVVIGLMILRGITSYISSYCI</span><span class="topo-inside">SWVSGKVVMTMRRRLFGHMMGMPVAFFDKQSTGTLLS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">RITYDSEQVASSSSGAL</span><span class="topo-membrane">ITVVREGASIIGLFIMMFYYSW</span><span class="topo-outside">Q</span><span class="topo-membrane">LSIILVVLAPIVSIAIRVVS</span><span class="topo-inside">KRFRSISKNMQNTMGQVTTSAEQMLKGHKEVLIFGGQEVETKRFDKVSNKMRLQGMKMVS</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">ASS</span><span class="topo-membrane">ISDPIIQLIASLALAFVLYAASF</span><span class="topo-outside">PSVMDS</span><span class="topo-membrane">LTAGTITVVFSSMIALMRPLKSLT</span><span class="topo-inside">NVNAQFQRGMAACQTLFAILDSEQEKDEGKRVIDRATGDLEFRNVTFTYPGREVPALRNINLKI</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">PAGKTVALVGRSGSGKSTIASLITRFYDIDEGHILMDGHDLREYTLASLRNQVALVSQNVHLFNDTVANNIAYARTEEYSREQIEEAARMAYAMDFINKMDNGLDTIIGENGVLLSGGQR</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570      </span>
+<span class="topo-line"><span class="topo-inside">QRIAIARALLRDSPILILDEATSALDTESERAIQAALDELQKNRTSLVIAHRLSTIEQADEIVVVEDGIIVERGTHSELLAQHGVYAQLHKMQFG</span><span class="topo-unknown">Q</span></span>
+<details class="topo-details"><summary>Topology coordinates (14 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -280,6 +281,7 @@ MsbA is an essential ATP-binding cassette (ABC) transporter in Gram-negative bac
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -295,16 +297,17 @@ MsbA is an essential ATP-binding cassette (ABC) transporter in Gram-negative bac
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">LS</span><span class="topo-unknown">TWQTFRRLWPTIAPFK</span><span class="topo-membrane">AGLIVAGIALILNAASDTFMLSLLKPLLD</span><span class="topo-outside">DGFGATDRSV</span><span class="topo-membrane">LLW</span></span>
-<span class="topo-line"><span class="topo-membrane">MPLVVIGLMILRGITSYISSYCI</span><span class="topo-inside">SWVSGKVVMTMRRRLFGHMMGMPVAFFDKQSTGTLLS</span></span>
-<span class="topo-line"><span class="topo-inside">RITYDSEQVASSSSGAL</span><span class="topo-membrane">ITVVREGASIIGLFIMMFYYSW</span><span class="topo-outside">Q</span><span class="topo-membrane">LSIILVVLAPIVSIAIRVVS</span></span>
-<span class="topo-line"><span class="topo-inside">KRFRSISKNMQNTMGQVTTSAEQMLKGHKEVLIFGGQEVETKRFDKVSNKMRLQGMKMVS</span></span>
-<span class="topo-line"><span class="topo-inside">ASS</span><span class="topo-membrane">ISDPIIQLIASLALAFVLYAASF</span><span class="topo-outside">PSVMDS</span><span class="topo-membrane">LTAGTITVVFSSMIALMRPLKSLT</span><span class="topo-inside">NVNA</span></span>
-<span class="topo-line"><span class="topo-inside">QFQRGMAACQTLFAILDSEQEKDEGKRVIDRATGDLEFRNVTFTYPGREVPALRNINLKI</span></span>
-<span class="topo-line"><span class="topo-inside">PAGKTVALVGRSGSGKSTIASLITRFYDIDEGHILMDGHDLREYTLASLRNQVALVSQNV</span></span>
-<span class="topo-line"><span class="topo-inside">HLFNDTVANNIAYARTEEYSREQIEEAARMAYAMDFINKMDNGLDTIIGENGVLLSGGQR</span></span>
-<span class="topo-line"><span class="topo-inside">QRIAIARALLRDSPILILDEATSALDTESERAIQAALDELQKNRTSLVIAHRLSTIEQAD</span></span>
-<span class="topo-line"><span class="topo-inside">EIVVVEDGIIVERGTHSELLAQHGVYAQLHKMQFG</span><span class="topo-unknown">Q</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">LS</span><span class="topo-unknown">TWQTFRRLWPTIAPFK</span><span class="topo-membrane">AGLIVAGIALILNAASDTFMLSLLKPLLD</span><span class="topo-outside">DGFGATDRSV</span><span class="topo-membrane">LLWMPLVVIGLMILRGITSYISSYCI</span><span class="topo-inside">SWVSGKVVMTMRRRLFGHMMGMPVAFFDKQSTGTLLS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">RITYDSEQVASSSSGAL</span><span class="topo-membrane">ITVVREGASIIGLFIMMFYYSW</span><span class="topo-outside">Q</span><span class="topo-membrane">LSIILVVLAPIVSIAIRVVS</span><span class="topo-inside">KRFRSISKNMQNTMGQVTTSAEQMLKGHKEVLIFGGQEVETKRFDKVSNKMRLQGMKMVS</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">ASS</span><span class="topo-membrane">ISDPIIQLIASLALAFVLYAASF</span><span class="topo-outside">PSVMDS</span><span class="topo-membrane">LTAGTITVVFSSMIALMRPLKSLT</span><span class="topo-inside">NVNAQFQRGMAACQTLFAILDSEQEKDEGKRVIDRATGDLEFRNVTFTYPGREVPALRNINLKI</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">PAGKTVALVGRSGSGKSTIASLITRFYDIDEGHILMDGHDLREYTLASLRNQVALVSQNVHLFNDTVANNIAYARTEEYSREQIEEAARMAYAMDFINKMDNGLDTIIGENGVLLSGGQR</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570      </span>
+<span class="topo-line"><span class="topo-inside">QRIAIARALLRDSPILILDEATSALDTESERAIQAALDELQKNRTSLVIAHRLSTIEQADEIVVVEDGIIVERGTHSELLAQHGVYAQLHKMQFG</span><span class="topo-unknown">Q</span></span>
+<details class="topo-details"><summary>Topology coordinates (14 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -414,6 +417,7 @@ MsbA is an essential ATP-binding cassette (ABC) transporter in Gram-negative bac
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -429,16 +433,17 @@ MsbA is an essential ATP-binding cassette (ABC) transporter in Gram-negative bac
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">LS</span><span class="topo-unknown">TWQTFRRLWPTIAPFK</span><span class="topo-membrane">AGLIVAGIALILNAASDTFMLSLLKPLLD</span><span class="topo-outside">DGFGKTDRSV</span><span class="topo-membrane">LLW</span></span>
-<span class="topo-line"><span class="topo-membrane">MPLVVIGLMILRGITSYISSYCI</span><span class="topo-inside">SWVSGKVVMTMRRRLFGHMMGMPVAFFDKQSTGTLLS</span></span>
-<span class="topo-line"><span class="topo-inside">RITYDSEQVASSSSGA</span><span class="topo-membrane">LITVVREGASIIGLFIMMFYYSW</span><span class="topo-outside">Q</span><span class="topo-membrane">LSIILVVLAPIVSIAIRVVS</span></span>
-<span class="topo-line"><span class="topo-inside">KRFRSISKNMQNTMGQVTTSAEQMLKGHKEVLIFGGQEVETKRFDKVSNKMRLQGMKMVS</span></span>
-<span class="topo-line"><span class="topo-inside">ASS</span><span class="topo-membrane">ISDPIIQLIASLALAFVLYAASF</span><span class="topo-outside">PSVMDS</span><span class="topo-membrane">LTAGTITVVFSSMIALMRPLKSLT</span><span class="topo-inside">NVNA</span></span>
-<span class="topo-line"><span class="topo-inside">QFQRGMAACQTLFAILDSEQEKDEGKRVIDRATGDLEFRNVTFTYPGREVPALRNINLKI</span></span>
-<span class="topo-line"><span class="topo-inside">PAGKTVALVGRSGSGKSTIASLITRFYDIDEGHILMDGHDLREYTLASLRNQVALVSQNV</span></span>
-<span class="topo-line"><span class="topo-inside">HLFNDTVANNIAYARTEEYSREQIEEAARMAYAMDFINKMDNGLDTIIGENGVLLSGGQR</span></span>
-<span class="topo-line"><span class="topo-inside">QRIAIARALLRDSPILILDEATSALDTESERAIQAALDELQKNRTSLVIAHRLSTIEQAD</span></span>
-<span class="topo-line"><span class="topo-inside">EIVVVEDGIIVERGTHSELLAQHGVYAQLHKMQFG</span><span class="topo-unknown">Q</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">LS</span><span class="topo-unknown">TWQTFRRLWPTIAPFK</span><span class="topo-membrane">AGLIVAGIALILNAASDTFMLSLLKPLLD</span><span class="topo-outside">DGFGKTDRSV</span><span class="topo-membrane">LLWMPLVVIGLMILRGITSYISSYCI</span><span class="topo-inside">SWVSGKVVMTMRRRLFGHMMGMPVAFFDKQSTGTLLS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">RITYDSEQVASSSSGA</span><span class="topo-membrane">LITVVREGASIIGLFIMMFYYSW</span><span class="topo-outside">Q</span><span class="topo-membrane">LSIILVVLAPIVSIAIRVVS</span><span class="topo-inside">KRFRSISKNMQNTMGQVTTSAEQMLKGHKEVLIFGGQEVETKRFDKVSNKMRLQGMKMVS</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">ASS</span><span class="topo-membrane">ISDPIIQLIASLALAFVLYAASF</span><span class="topo-outside">PSVMDS</span><span class="topo-membrane">LTAGTITVVFSSMIALMRPLKSLT</span><span class="topo-inside">NVNAQFQRGMAACQTLFAILDSEQEKDEGKRVIDRATGDLEFRNVTFTYPGREVPALRNINLKI</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">PAGKTVALVGRSGSGKSTIASLITRFYDIDEGHILMDGHDLREYTLASLRNQVALVSQNVHLFNDTVANNIAYARTEEYSREQIEEAARMAYAMDFINKMDNGLDTIIGENGVLLSGGQR</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570      </span>
+<span class="topo-line"><span class="topo-inside">QRIAIARALLRDSPILILDEATSALDTESERAIQAALDELQKNRTSLVIAHRLSTIEQADEIVVVEDGIIVERGTHSELLAQHGVYAQLHKMQFG</span><span class="topo-unknown">Q</span></span>
+<details class="topo-details"><summary>Topology coordinates (14 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -548,6 +553,7 @@ MsbA is an essential ATP-binding cassette (ABC) transporter in Gram-negative bac
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -563,16 +569,17 @@ MsbA is an essential ATP-binding cassette (ABC) transporter in Gram-negative bac
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">LS</span><span class="topo-unknown">TWQTFRRLWPTIAPFK</span><span class="topo-membrane">AGLIVAGIALILNAASDTFMLSLLKPLLD</span><span class="topo-outside">DGFGKTDRSV</span><span class="topo-membrane">LLW</span></span>
-<span class="topo-line"><span class="topo-membrane">MPLVVIGLMILRGITSYISSYCI</span><span class="topo-inside">SWVSGKVVMTMRRRLFGHMMGMPVAFFDKQSTGTLLS</span></span>
-<span class="topo-line"><span class="topo-inside">RITYDSEQVASSSSGA</span><span class="topo-membrane">LITVVREGASIIGLFIMMFYYSW</span><span class="topo-outside">Q</span><span class="topo-membrane">LSIILVVLAPIVSIAIRVVS</span></span>
-<span class="topo-line"><span class="topo-inside">KRFRSISKNMQNTMGQVTTSAEQMLKGHKEVLIFGGQEVETKRFDKVSNKMRLQGMKMVS</span></span>
-<span class="topo-line"><span class="topo-inside">ASS</span><span class="topo-membrane">ISDPIIQLIASLALAFVLYAASF</span><span class="topo-outside">PSVMDS</span><span class="topo-membrane">LTAGTITVVFSSMIALMRPLKSLT</span><span class="topo-inside">NVNA</span></span>
-<span class="topo-line"><span class="topo-inside">QFQRGMAACQTLFAILDSEQEKDEGKRVIDRATGDLEFRNVTFTYPGREVPALRNINLKI</span></span>
-<span class="topo-line"><span class="topo-inside">PAGKTVALVGRSGSGKSTIASLITRFYDIDEGHILMDGHDLREYTLASLRNQVALVSQNV</span></span>
-<span class="topo-line"><span class="topo-inside">HLFNDTVANNIAYARTEEYSREQIEEAARMAYAMDFINKMDNGLDTIIGENGVLLSGGQR</span></span>
-<span class="topo-line"><span class="topo-inside">QRIAIARALLRDSPILILDEATSALDTESERAIQAALDELQKNRTSLVIAHRLSTIEQAD</span></span>
-<span class="topo-line"><span class="topo-inside">EIVVVEDGIIVERGTHSELLAQHGVYAQLHKMQFG</span><span class="topo-unknown">Q</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">LS</span><span class="topo-unknown">TWQTFRRLWPTIAPFK</span><span class="topo-membrane">AGLIVAGIALILNAASDTFMLSLLKPLLD</span><span class="topo-outside">DGFGKTDRSV</span><span class="topo-membrane">LLWMPLVVIGLMILRGITSYISSYCI</span><span class="topo-inside">SWVSGKVVMTMRRRLFGHMMGMPVAFFDKQSTGTLLS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">RITYDSEQVASSSSGA</span><span class="topo-membrane">LITVVREGASIIGLFIMMFYYSW</span><span class="topo-outside">Q</span><span class="topo-membrane">LSIILVVLAPIVSIAIRVVS</span><span class="topo-inside">KRFRSISKNMQNTMGQVTTSAEQMLKGHKEVLIFGGQEVETKRFDKVSNKMRLQGMKMVS</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">ASS</span><span class="topo-membrane">ISDPIIQLIASLALAFVLYAASF</span><span class="topo-outside">PSVMDS</span><span class="topo-membrane">LTAGTITVVFSSMIALMRPLKSLT</span><span class="topo-inside">NVNAQFQRGMAACQTLFAILDSEQEKDEGKRVIDRATGDLEFRNVTFTYPGREVPALRNINLKI</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">PAGKTVALVGRSGSGKSTIASLITRFYDIDEGHILMDGHDLREYTLASLRNQVALVSQNVHLFNDTVANNIAYARTEEYSREQIEEAARMAYAMDFINKMDNGLDTIIGENGVLLSGGQR</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570      </span>
+<span class="topo-line"><span class="topo-inside">QRIAIARALLRDSPILILDEATSALDTESERAIQAALDELQKNRTSLVIAHRLSTIEQADEIVVVEDGIIVERGTHSELLAQHGVYAQLHKMQFG</span><span class="topo-unknown">Q</span></span>
+<details class="topo-details"><summary>Topology coordinates (14 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -682,6 +689,7 @@ MsbA is an essential ATP-binding cassette (ABC) transporter in Gram-negative bac
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -744,16 +752,17 @@ MsbA is an essential ATP-binding cassette (ABC) transporter in Gram-negative bac
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">SHN</span><span class="topo-inside">DKDLSTWQTFRRLWPTIAPFKAGLI</span><span class="topo-membrane">VAGVALILNAASDTFMLSLLKPLLD</span><span class="topo-outside">DGFGKTD</span></span>
-<span class="topo-line"><span class="topo-outside">RS</span><span class="topo-membrane">VLVWMPLVVIGLMILRGITSYVSS</span><span class="topo-inside">YCISWVSGKVVMTMRRRLFGHMMGMPVSFFDKQS</span></span>
-<span class="topo-line"><span class="topo-inside">TGTLLSRITYDSEQVASSSSGALI</span><span class="topo-membrane">TVVREGASIIGLFIMMFYYSW</span><span class="topo-unknown">Q</span><span class="topo-membrane">LSIILIVLAPIVSI</span></span>
-<span class="topo-line"><span class="topo-membrane">AIRVVS</span><span class="topo-inside">KRFRNISKNMQNTMGQVTTSAEQMLKGHKEVLIFGGQEVETKRFDKVSNRMRLQ</span></span>
-<span class="topo-line"><span class="topo-inside">GMKMVSASSI</span><span class="topo-membrane">SDPIIQLIASLALAFVLYAASF</span><span class="topo-outside">PSVMDSL</span><span class="topo-membrane">TAGTITVVFSSMIALMRPLKS</span></span>
-<span class="topo-line"><span class="topo-membrane">LT</span><span class="topo-inside">NVNAQFQRGMAACQTLFTILDSEQEKDEGKRVIERATGDVEFRNVTFTYPGRDVPALR</span></span>
-<span class="topo-line"><span class="topo-inside">NINLKIPAGKTVALVGRSGSGKSTIASLITRFYDIDEGEILMDGHDLREYTLASLRNQVA</span></span>
-<span class="topo-line"><span class="topo-inside">LVSQNVHLFNDTVANNIAYARTEQYSREQIEEAARMAYAMDFINKMDNGLDTVIGENGVL</span></span>
-<span class="topo-line"><span class="topo-inside">LSGGQRQRIAIARALLRDSPILILDEATSALDTESERAIQAALDELQKNRTSLVIAHRLS</span></span>
-<span class="topo-line"><span class="topo-inside">TIEKADEIVVVEDGVIVERGTHNDLLEHRGVYAQLHKMQ</span><span class="topo-unknown">FGQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">SHN</span><span class="topo-inside">DKDLSTWQTFRRLWPTIAPFKAGLI</span><span class="topo-membrane">VAGVALILNAASDTFMLSLLKPLLD</span><span class="topo-outside">DGFGKTDRS</span><span class="topo-membrane">VLVWMPLVVIGLMILRGITSYVSS</span><span class="topo-inside">YCISWVSGKVVMTMRRRLFGHMMGMPVSFFDKQS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">TGTLLSRITYDSEQVASSSSGALI</span><span class="topo-membrane">TVVREGASIIGLFIMMFYYSW</span><span class="topo-unknown">Q</span><span class="topo-membrane">LSIILIVLAPIVSIAIRVVS</span><span class="topo-inside">KRFRNISKNMQNTMGQVTTSAEQMLKGHKEVLIFGGQEVETKRFDKVSNRMRLQ</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">GMKMVSASSI</span><span class="topo-membrane">SDPIIQLIASLALAFVLYAASF</span><span class="topo-outside">PSVMDSL</span><span class="topo-membrane">TAGTITVVFSSMIALMRPLKSLT</span><span class="topo-inside">NVNAQFQRGMAACQTLFTILDSEQEKDEGKRVIERATGDVEFRNVTFTYPGRDVPALR</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">NINLKIPAGKTVALVGRSGSGKSTIASLITRFYDIDEGEILMDGHDLREYTLASLRNQVALVSQNVHLFNDTVANNIAYARTEQYSREQIEEAARMAYAMDFINKMDNGLDTVIGENGVL</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580  </span>
+<span class="topo-line"><span class="topo-inside">LSGGQRQRIAIARALLRDSPILILDEATSALDTESERAIQAALDELQKNRTSLVIAHRLSTIEKADEIVVVEDGVIVERGTHNDLLEHRGVYAQLHKMQ</span><span class="topo-unknown">FGQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (14 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -863,6 +872,7 @@ MsbA is an essential ATP-binding cassette (ABC) transporter in Gram-negative bac
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -878,16 +888,17 @@ MsbA is an essential ATP-binding cassette (ABC) transporter in Gram-negative bac
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">SHNDKD</span><span class="topo-inside">LSTWQTFRRLWPTIAPFKAGLIVAG</span><span class="topo-membrane">VALILNAASDTFMLSLLKPLLDDGF</span><span class="topo-outside">GKTD</span></span>
-<span class="topo-line"><span class="topo-membrane">RSVLVWMPLVVIGLMILRGITSYVS</span><span class="topo-inside">SYCISWVSGKVVMTMRRRLFGHMMGMPVSFFDKQS</span></span>
-<span class="topo-line"><span class="topo-inside">TGTLLSRITYDSEQVASSSSGALIT</span><span class="topo-membrane">VVREGASIIGLFIMMFYYSW</span><span class="topo-unknown">Q</span><span class="topo-membrane">LSIILIVLAPIVSI</span></span>
-<span class="topo-line"><span class="topo-membrane">AIRVVS</span><span class="topo-inside">KRF</span><span class="topo-unknown">RNISKNMQ</span><span class="topo-inside">NTMGQVTTSAEQMLKGHKEVLIFGGQEVETKRFDKVSNRMRLQ</span></span>
-<span class="topo-line"><span class="topo-inside">GMKMVSASS</span><span class="topo-membrane">ISDPIIQLIASLALAFVLYAASF</span><span class="topo-outside">PSVMDS</span><span class="topo-membrane">LTAGTITVVFSSMIALMRPLKS</span></span>
-<span class="topo-line"><span class="topo-membrane">LT</span><span class="topo-inside">NVNAQFQRGMAACQTLFTILDSEQEKDEGKRVIERATGDVEFRNVTFTYPGRDVPALR</span></span>
-<span class="topo-line"><span class="topo-inside">NINLKIPAGKTVALVGRSGSGKSTIASLITRFYDIDEGEILMDGHDLREYTLASLRNQVA</span></span>
-<span class="topo-line"><span class="topo-inside">LVSQNVHLFNDTVANNIAYARTEQYSREQIEEAARMAYAMDFINKMDNGLDTVIGENGVL</span></span>
-<span class="topo-line"><span class="topo-inside">LSGGQRQRIAIARALLRDSPILILDEATSALDTESERAIQAALDELQKNRTSLVIAHRLS</span></span>
-<span class="topo-line"><span class="topo-inside">TIEKADEIVVVEDGVIVERGTHNDLLEHRGVYAQLHKMQ</span><span class="topo-unknown">FGQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">SHNDKD</span><span class="topo-inside">LSTWQTFRRLWPTIAPFKAGLIVAG</span><span class="topo-membrane">VALILNAASDTFMLSLLKPLLDDGF</span><span class="topo-outside">GKTD</span><span class="topo-membrane">RSVLVWMPLVVIGLMILRGITSYVS</span><span class="topo-inside">SYCISWVSGKVVMTMRRRLFGHMMGMPVSFFDKQS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">TGTLLSRITYDSEQVASSSSGALIT</span><span class="topo-membrane">VVREGASIIGLFIMMFYYSW</span><span class="topo-unknown">Q</span><span class="topo-membrane">LSIILIVLAPIVSIAIRVVS</span><span class="topo-inside">KRF</span><span class="topo-unknown">RNISKNMQ</span><span class="topo-inside">NTMGQVTTSAEQMLKGHKEVLIFGGQEVETKRFDKVSNRMRLQ</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">GMKMVSASS</span><span class="topo-membrane">ISDPIIQLIASLALAFVLYAASF</span><span class="topo-outside">PSVMDS</span><span class="topo-membrane">LTAGTITVVFSSMIALMRPLKSLT</span><span class="topo-inside">NVNAQFQRGMAACQTLFTILDSEQEKDEGKRVIERATGDVEFRNVTFTYPGRDVPALR</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">NINLKIPAGKTVALVGRSGSGKSTIASLITRFYDIDEGEILMDGHDLREYTLASLRNQVALVSQNVHLFNDTVANNIAYARTEQYSREQIEEAARMAYAMDFINKMDNGLDTVIGENGVL</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580  </span>
+<span class="topo-line"><span class="topo-inside">LSGGQRQRIAIARALLRDSPILILDEATSALDTESERAIQAALDELQKNRTSLVIAHRLSTIEKADEIVVVEDGVIVERGTHNDLLEHRGVYAQLHKMQ</span><span class="topo-unknown">FGQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1011,6 +1022,7 @@ MsbA is an essential ATP-binding cassette (ABC) transporter in Gram-negative bac
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1026,16 +1038,17 @@ MsbA is an essential ATP-binding cassette (ABC) transporter in Gram-negative bac
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">SHN</span><span class="topo-inside">DKDLSTWQTFRRLWPTIAPF</span><span class="topo-membrane">KAGLIVAGVALILNAASDTFMLSLL</span><span class="topo-outside">KPLLDDGFGKTD</span></span>
-<span class="topo-line"><span class="topo-outside">RSVLVWMP</span><span class="topo-membrane">LVVIGLMILRGITSYVSSYCISW</span><span class="topo-inside">VSGKVVMTMRRRLFGHMMGMPVSFFDKQS</span></span>
-<span class="topo-line"><span class="topo-inside">TGTLLSRITYDSEQVASSSS</span><span class="topo-membrane">GALITVVREGASIIGLFIMMFY</span><span class="topo-outside">YSW</span><span class="topo-membrane">QLSIILIVLAPIVSI</span></span>
-<span class="topo-line"><span class="topo-membrane">AIRVVSKRF</span><span class="topo-inside">RNISKNMQNTMGQVTTSAEQMLKGHKEVLIFGGQEVETKRFDKVSNRMRLQ</span></span>
-<span class="topo-line"><span class="topo-inside">GMKMVS</span><span class="topo-membrane">ASSISDPIIQLIASLALAFVLYA</span><span class="topo-outside">ASFPSVMDSLTAGTIT</span><span class="topo-membrane">VVFSSMIALMRPLKS</span></span>
-<span class="topo-line"><span class="topo-membrane">LTNVN</span><span class="topo-inside">AQFQRGMAACQTLFTILDSEQEKDEGKRVIERATGDVEFRNVTFTYPGRDVPALR</span></span>
-<span class="topo-line"><span class="topo-inside">NINLKIPAGKTVALVGRSGSGKSTIASLITRFYDIDEGEILMDGHDLREYTLASLRNQVA</span></span>
-<span class="topo-line"><span class="topo-inside">LVSQNVHLFNDTVANNIAYARTEQYSREQIEEAARMAYAMDFINKMDNGLDTVIGENGVL</span></span>
-<span class="topo-line"><span class="topo-inside">LSGGQRQRIAIARALLRDSPILILDEATSALDTESERAIQAALDELQKNRTSLVIAHRLS</span></span>
-<span class="topo-line"><span class="topo-inside">TIEKADEIVVVEDGVIVERGTHNDLLEHRGVYAQLHKMQ</span><span class="topo-unknown">FGQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">SHN</span><span class="topo-inside">DKDLSTWQTFRRLWPTIAPF</span><span class="topo-membrane">KAGLIVAGVALILNAASDTFMLSLL</span><span class="topo-outside">KPLLDDGFGKTDRSVLVWMP</span><span class="topo-membrane">LVVIGLMILRGITSYVSSYCISW</span><span class="topo-inside">VSGKVVMTMRRRLFGHMMGMPVSFFDKQS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">TGTLLSRITYDSEQVASSSS</span><span class="topo-membrane">GALITVVREGASIIGLFIMMFY</span><span class="topo-outside">YSW</span><span class="topo-membrane">QLSIILIVLAPIVSIAIRVVSKRF</span><span class="topo-inside">RNISKNMQNTMGQVTTSAEQMLKGHKEVLIFGGQEVETKRFDKVSNRMRLQ</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">GMKMVS</span><span class="topo-membrane">ASSISDPIIQLIASLALAFVLYA</span><span class="topo-outside">ASFPSVMDSLTAGTIT</span><span class="topo-membrane">VVFSSMIALMRPLKSLTNVN</span><span class="topo-inside">AQFQRGMAACQTLFTILDSEQEKDEGKRVIERATGDVEFRNVTFTYPGRDVPALR</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">NINLKIPAGKTVALVGRSGSGKSTIASLITRFYDIDEGEILMDGHDLREYTLASLRNQVALVSQNVHLFNDTVANNIAYARTEQYSREQIEEAARMAYAMDFINKMDNGLDTVIGENGVL</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580  </span>
+<span class="topo-line"><span class="topo-inside">LSGGQRQRIAIARALLRDSPILILDEATSALDTESERAIQAALDELQKNRTSLVIAHRLSTIEKADEIVVVEDGVIVERGTHNDLLEHRGVYAQLHKMQ</span><span class="topo-unknown">FGQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1152,6 +1165,7 @@ MsbA is an essential ATP-binding cassette (ABC) transporter in Gram-negative bac
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1167,16 +1181,17 @@ MsbA is an essential ATP-binding cassette (ABC) transporter in Gram-negative bac
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">SHNDKDL</span><span class="topo-inside">STWQTFRRLWPTIAPFKA</span><span class="topo-membrane">GLIVAGVALILNAASDTFMLSLL</span><span class="topo-outside">KPLLDDGFGKTD</span></span>
-<span class="topo-line"><span class="topo-outside">RSVLV</span><span class="topo-membrane">WMPLVVIGLMILRGITSYVSSYCI</span><span class="topo-inside">SWVSGKVVMTMRRRLFGHMMGMPVSFFDKQS</span></span>
-<span class="topo-line"><span class="topo-inside">TGTLLSRITYDSEQVASSSS</span><span class="topo-membrane">GALITVVREGASIIGLFIMMF</span><span class="topo-outside">YYSWQLS</span><span class="topo-membrane">IILIVLAPIVSI</span></span>
-<span class="topo-line"><span class="topo-membrane">AIRVVS</span><span class="topo-unknown">KRFRNISKNMQ</span><span class="topo-inside">NTMGQVTTSAEQMLKGHKEVLIFGGQEVETKRFDKVSNRMRLQ</span></span>
-<span class="topo-line"><span class="topo-inside">GMKMV</span><span class="topo-membrane">SASSISDPIIQLIASLALAFV</span><span class="topo-outside">LYAASFPSVMDSLTAGTIT</span><span class="topo-membrane">VVFSSMIALMRPLKS</span></span>
-<span class="topo-line"><span class="topo-membrane">LTNVNAQF</span><span class="topo-inside">QRGMAACQTLFTILDSEQEKDEGKRVIERATGDVEFRNVTFTYPGRDVPALR</span></span>
-<span class="topo-line"><span class="topo-inside">NINLKIPAGKTVALVGRSGSGKSTIASLITRFYDIDEGEILMDGHDLREYTLASLRNQVA</span></span>
-<span class="topo-line"><span class="topo-inside">LVSQNVHLFNDTVANNIAYARTEQYSREQIEEAARMAYAMDFINKMDNGLDTVIGENGVL</span></span>
-<span class="topo-line"><span class="topo-inside">LSGGQRQRIAIARALLRDSPILILDEATSALDTESERAIQAALDELQKNRTSLVIAHRLS</span></span>
-<span class="topo-line"><span class="topo-inside">TIEKADEIVVVEDGVIVERGTHNDLLEHRGVYAQLHKMQ</span><span class="topo-unknown">FGQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">SHNDKDL</span><span class="topo-inside">STWQTFRRLWPTIAPFKA</span><span class="topo-membrane">GLIVAGVALILNAASDTFMLSLL</span><span class="topo-outside">KPLLDDGFGKTDRSVLV</span><span class="topo-membrane">WMPLVVIGLMILRGITSYVSSYCI</span><span class="topo-inside">SWVSGKVVMTMRRRLFGHMMGMPVSFFDKQS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">TGTLLSRITYDSEQVASSSS</span><span class="topo-membrane">GALITVVREGASIIGLFIMMF</span><span class="topo-outside">YYSWQLS</span><span class="topo-membrane">IILIVLAPIVSIAIRVVS</span><span class="topo-unknown">KRFRNISKNMQ</span><span class="topo-inside">NTMGQVTTSAEQMLKGHKEVLIFGGQEVETKRFDKVSNRMRLQ</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">GMKMV</span><span class="topo-membrane">SASSISDPIIQLIASLALAFV</span><span class="topo-outside">LYAASFPSVMDSLTAGTIT</span><span class="topo-membrane">VVFSSMIALMRPLKSLTNVNAQF</span><span class="topo-inside">QRGMAACQTLFTILDSEQEKDEGKRVIERATGDVEFRNVTFTYPGRDVPALR</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">NINLKIPAGKTVALVGRSGSGKSTIASLITRFYDIDEGEILMDGHDLREYTLASLRNQVALVSQNVHLFNDTVANNIAYARTEQYSREQIEEAARMAYAMDFINKMDNGLDTVIGENGVL</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580  </span>
+<span class="topo-line"><span class="topo-inside">LSGGQRQRIAIARALLRDSPILILDEATSALDTESERAIQAALDELQKNRTSLVIAHRLSTIEKADEIVVVEDGVIVERGTHNDLLEHRGVYAQLHKMQ</span><span class="topo-unknown">FGQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1300,6 +1315,7 @@ MsbA is an essential ATP-binding cassette (ABC) transporter in Gram-negative bac
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

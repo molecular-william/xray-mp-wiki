@@ -126,16 +126,17 @@ UapA from Aspergillus nidulans is a high-affinity purine/H+ symporter specific f
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MDNSIHSTDGPDSVIPNSNPKKTVRQRVRLLARHLTTREGLIGDYDYGFLFRPELPFMKK</span></span>
-<span class="topo-line"><span class="topo-unknown">DPRAP</span><span class="topo-outside">PFFGLNEKIPVLLAFILGL</span><span class="topo-membrane">QHALAMLAGVVTPPLIISSS</span><span class="topo-inside">LSLPSDL</span><span class="topo-membrane">QQYLVSTSL</span></span>
-<span class="topo-line"><span class="topo-membrane">IVCGLLSMV</span><span class="topo-outside">QITRFHIYKTPYYIGSGVLSV</span><span class="topo-membrane">MGVSFSIISVASGAF</span><span class="topo-inside">NQMYSNGFCQLDEAG</span></span>
-<span class="topo-line"><span class="topo-inside">NRLPCPEA</span><span class="topo-membrane">YGALIGTSACCALVEIL</span><span class="topo-outside">LAFVPPKVIQKIFPPIV</span><span class="topo-membrane">TGPTVMLIGISLIGTGFK</span></span>
-<span class="topo-line"><span class="topo-membrane">DWA</span><span class="topo-inside">GGSACMDDGMLCPSATAPRPLPWGSPEF</span><span class="topo-membrane">IGLGFLVFVSIILCERF</span><span class="topo-outside">GAPIMKS</span><span class="topo-membrane">CSVVI</span></span>
-<span class="topo-line"><span class="topo-membrane">GLLVGCIVAAA</span><span class="topo-inside">CGYFSHADIDAAPAASFIWVKTFP</span><span class="topo-membrane">LSVYGPMVLPIIAVFIICA</span><span class="topo-outside">CECIGD</span></span>
-<span class="topo-line"><span class="topo-outside">VTATCDVSRLEVRGGTFESRIQGAVLAD</span><span class="topo-unknown">GINSVVAALATMTPMTTF</span><span class="topo-outside">AQNNVVIALTRCAN</span></span>
-<span class="topo-line"><span class="topo-outside">RWAGYCC</span><span class="topo-membrane">CLILIVAGIFAKFAAAIVAIP</span><span class="topo-inside">N</span><span class="topo-membrane">SVMGGMKTFLFASVVISGQ</span><span class="topo-outside">AIVAKAPFTRRN</span></span>
-<span class="topo-line"><span class="topo-outside">RF</span><span class="topo-membrane">ILTASMALGYGATLV</span><span class="topo-inside">PTWFGNVFPQTENRDLEGF</span><span class="topo-membrane">ENAIELVLETGFAVTAFVAMLL</span><span class="topo-outside">NA</span></span>
-<span class="topo-line"><span class="topo-outside">IMPAE</span><span class="topo-unknown">VEEIGAVTPMPVSAHDNRDGEAEYQSKQA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MDNSIHSTDGPDSVIPNSNPKKTVRQRVRLLARHLTTREGLIGDYDYGFLFRPELPFMKKDPRAP</span><span class="topo-outside">PFFGLNEKIPVLLAFILGL</span><span class="topo-membrane">QHALAMLAGVVTPPLIISSS</span><span class="topo-inside">LSLPSDL</span><span class="topo-membrane">QQYLVSTSL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">IVCGLLSMV</span><span class="topo-outside">QITRFHIYKTPYYIGSGVLSV</span><span class="topo-membrane">MGVSFSIISVASGAF</span><span class="topo-inside">NQMYSNGFCQLDEAGNRLPCPEA</span><span class="topo-membrane">YGALIGTSACCALVEIL</span><span class="topo-outside">LAFVPPKVIQKIFPPIV</span><span class="topo-membrane">TGPTVMLIGISLIGTGFK</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">DWA</span><span class="topo-inside">GGSACMDDGMLCPSATAPRPLPWGSPEF</span><span class="topo-membrane">IGLGFLVFVSIILCERF</span><span class="topo-outside">GAPIMKS</span><span class="topo-membrane">CSVVIGLLVGCIVAAA</span><span class="topo-inside">CGYFSHADIDAAPAASFIWVKTFP</span><span class="topo-membrane">LSVYGPMVLPIIAVFIICA</span><span class="topo-outside">CECIGD</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">VTATCDVSRLEVRGGTFESRIQGAVLAD</span><span class="topo-unknown">GINSVVAALATMTPMTTF</span><span class="topo-outside">AQNNVVIALTRCANRWAGYCC</span><span class="topo-membrane">CLILIVAGIFAKFAAAIVAIP</span><span class="topo-inside">N</span><span class="topo-membrane">SVMGGMKTFLFASVVISGQ</span><span class="topo-outside">AIVAKAPFTRRN</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570    </span>
+<span class="topo-line"><span class="topo-outside">RF</span><span class="topo-membrane">ILTASMALGYGATLV</span><span class="topo-inside">PTWFGNVFPQTENRDLEGF</span><span class="topo-membrane">ENAIELVLETGFAVTAFVAMLL</span><span class="topo-outside">NAIMPAE</span><span class="topo-unknown">VEEIGAVTPMPVSAHDNRDGEAEYQSKQA</span></span>
+<details class="topo-details"><summary>Topology coordinates (29 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -350,6 +351,7 @@ UapA from Aspergillus nidulans is a high-affinity purine/H+ symporter specific f
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -365,16 +367,17 @@ UapA from Aspergillus nidulans is a high-affinity purine/H+ symporter specific f
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MDNSIHSTDGPDSVIPNSNPKKTVRQRVRLLARHLTTREGLIGDYDYGFLFRPELPFMKK</span></span>
-<span class="topo-line"><span class="topo-unknown">DPRAP</span><span class="topo-outside">PFFGLNEKIPVLLAFILGL</span><span class="topo-membrane">QHALAMLAGVVTPPLIISSS</span><span class="topo-inside">LSLPSDL</span><span class="topo-membrane">QQYLVSTSL</span></span>
-<span class="topo-line"><span class="topo-membrane">IVCGLLSMV</span><span class="topo-outside">QIT</span><span class="topo-unknown">RFHIYKTPYYIG</span><span class="topo-outside">SGVLSVM</span><span class="topo-membrane">GVSFSIISVASGAF</span><span class="topo-inside">NQMYSNGFCQLDEAG</span></span>
-<span class="topo-line"><span class="topo-inside">NRLPCPEA</span><span class="topo-membrane">YGALIGTSACCALVEIL</span><span class="topo-outside">LAFVPPKVIQKIFPPIV</span><span class="topo-membrane">TGPTVMLIGISLIGTGFK</span></span>
-<span class="topo-line"><span class="topo-membrane">DWA</span><span class="topo-inside">GGSACMDDGMLCPSATAPRPLPWGSPEF</span><span class="topo-membrane">IGLGFLVFVSIILCERF</span><span class="topo-outside">GAPIMKS</span><span class="topo-membrane">CSVVI</span></span>
-<span class="topo-line"><span class="topo-membrane">GLLVGCIVAAAC</span><span class="topo-inside">GYFSHADIDAAPAASFIWVKTFP</span><span class="topo-membrane">LSVYGPMVLPIIAVFIICA</span><span class="topo-outside">CECIGD</span></span>
-<span class="topo-line"><span class="topo-outside">VTATCDVSRLEVRGGTFESRIQGAVLAD</span><span class="topo-unknown">GINSVVAALATMTPMTTF</span><span class="topo-outside">AQNNVVIALTRCAN</span></span>
-<span class="topo-line"><span class="topo-outside">RWAGYCC</span><span class="topo-membrane">CLILIVAGIFAKFAAAIVAIP</span><span class="topo-inside">N</span><span class="topo-membrane">SVMGGMKTFLFASVVISGQ</span><span class="topo-outside">AIVAKAPFTRRN</span></span>
-<span class="topo-line"><span class="topo-outside">RF</span><span class="topo-membrane">ILTASMALGYGATLVPTW</span><span class="topo-inside">FGNVFPQTENRDLEGF</span><span class="topo-membrane">ENAIELVLETGFAVTAFVAMLL</span><span class="topo-outside">NA</span></span>
-<span class="topo-line"><span class="topo-outside">IMPAE</span><span class="topo-unknown">VEEIGAVTPMPVSAHDNRDGEAEYQSKQA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MDNSIHSTDGPDSVIPNSNPKKTVRQRVRLLARHLTTREGLIGDYDYGFLFRPELPFMKKDPRAP</span><span class="topo-outside">PFFGLNEKIPVLLAFILGL</span><span class="topo-membrane">QHALAMLAGVVTPPLIISSS</span><span class="topo-inside">LSLPSDL</span><span class="topo-membrane">QQYLVSTSL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">IVCGLLSMV</span><span class="topo-outside">QIT</span><span class="topo-unknown">RFHIYKTPYYIG</span><span class="topo-outside">SGVLSVM</span><span class="topo-membrane">GVSFSIISVASGAF</span><span class="topo-inside">NQMYSNGFCQLDEAGNRLPCPEA</span><span class="topo-membrane">YGALIGTSACCALVEIL</span><span class="topo-outside">LAFVPPKVIQKIFPPIV</span><span class="topo-membrane">TGPTVMLIGISLIGTGFK</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">DWA</span><span class="topo-inside">GGSACMDDGMLCPSATAPRPLPWGSPEF</span><span class="topo-membrane">IGLGFLVFVSIILCERF</span><span class="topo-outside">GAPIMKS</span><span class="topo-membrane">CSVVIGLLVGCIVAAAC</span><span class="topo-inside">GYFSHADIDAAPAASFIWVKTFP</span><span class="topo-membrane">LSVYGPMVLPIIAVFIICA</span><span class="topo-outside">CECIGD</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">VTATCDVSRLEVRGGTFESRIQGAVLAD</span><span class="topo-unknown">GINSVVAALATMTPMTTF</span><span class="topo-outside">AQNNVVIALTRCANRWAGYCC</span><span class="topo-membrane">CLILIVAGIFAKFAAAIVAIP</span><span class="topo-inside">N</span><span class="topo-membrane">SVMGGMKTFLFASVVISGQ</span><span class="topo-outside">AIVAKAPFTRRN</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570    </span>
+<span class="topo-line"><span class="topo-outside">RF</span><span class="topo-membrane">ILTASMALGYGATLVPTW</span><span class="topo-inside">FGNVFPQTENRDLEGF</span><span class="topo-membrane">ENAIELVLETGFAVTAFVAMLL</span><span class="topo-outside">NAIMPAE</span><span class="topo-unknown">VEEIGAVTPMPVSAHDNRDGEAEYQSKQA</span></span>
+<details class="topo-details"><summary>Topology coordinates (31 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -603,6 +606,7 @@ UapA from Aspergillus nidulans is a high-affinity purine/H+ symporter specific f
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

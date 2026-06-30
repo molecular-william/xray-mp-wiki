@@ -119,13 +119,15 @@ Amt-1 is one of three ammonium transporters (Amts) encoded in the genome of the 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MSDGNVAWIL</span><span class="topo-membrane">ASTALVMLMVPGVGFFYA</span><span class="topo-inside">GMVRRKNAVNM</span><span class="topo-membrane">IALSFISLIITVLLWIFYGYS</span></span>
-<span class="topo-line"><span class="topo-membrane">VS</span><span class="topo-outside">FGNDISGIIGGLNYALLSGVKGEDLLFM</span><span class="topo-membrane">MYQMMFAAVTIAILTSAI</span><span class="topo-inside">AERAKV</span><span class="topo-membrane">SSFILL</span></span>
-<span class="topo-line"><span class="topo-membrane">SALWLTFVYAPFAHWL</span><span class="topo-outside">WGGGWLAKLGALD</span><span class="topo-membrane">FAGGMVVHISSGFAALAVAMT</span><span class="topo-inside">IGKRAGFEEY</span></span>
-<span class="topo-line"><span class="topo-inside">SIEPHSIP</span><span class="topo-membrane">LTLIGAALLWFGWFGFNGGS</span><span class="topo-outside">ALAANDVAINA</span><span class="topo-membrane">VVVTNTSAAVAGFVWMVIGWI</span></span>
-<span class="topo-line"><span class="topo-inside">KGKPGS</span><span class="topo-membrane">LGIVSGAIAGLAAITPAA</span><span class="topo-outside">GFVDV</span><span class="topo-membrane">KGAIVIGLVAGIVCYLAMDFR</span><span class="topo-inside">IKKKIDE</span><span class="topo-membrane">SLD</span></span>
-<span class="topo-line"><span class="topo-membrane">AWAIHGIGGLWGSVAVGIL</span><span class="topo-outside">ANPEVNGYAGLLFGNPQLLVSQ</span><span class="topo-membrane">LIAVASTTAYAFLVTLILA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MSDGNVAWIL</span><span class="topo-membrane">ASTALVMLMVPGVGFFYA</span><span class="topo-inside">GMVRRKNAVNM</span><span class="topo-membrane">IALSFISLIITVLLWIFYGYSVS</span><span class="topo-outside">FGNDISGIIGGLNYALLSGVKGEDLLFM</span><span class="topo-membrane">MYQMMFAAVTIAILTSAI</span><span class="topo-inside">AERAKV</span><span class="topo-membrane">SSFILL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">SALWLTFVYAPFAHWL</span><span class="topo-outside">WGGGWLAKLGALD</span><span class="topo-membrane">FAGGMVVHISSGFAALAVAMT</span><span class="topo-inside">IGKRAGFEEYSIEPHSIP</span><span class="topo-membrane">LTLIGAALLWFGWFGFNGGS</span><span class="topo-outside">ALAANDVAINA</span><span class="topo-membrane">VVVTNTSAAVAGFVWMVIGWI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">KGKPGS</span><span class="topo-membrane">LGIVSGAIAGLAAITPAA</span><span class="topo-outside">GFVDV</span><span class="topo-membrane">KGAIVIGLVAGIVCYLAMDFR</span><span class="topo-inside">IKKKIDE</span><span class="topo-membrane">SLDAWAIHGIGGLWGSVAVGIL</span><span class="topo-outside">ANPEVNGYAGLLFGNPQLLVSQ</span><span class="topo-membrane">LIAVASTTAYAFLVTLILA</span></span>
+<span class="topo-ruler">       370       380       390         </span>
 <span class="topo-line"><span class="topo-membrane">KAVDAAV</span><span class="topo-inside">GLRVSSQEEYVG</span><span class="topo-unknown">LDLSQH</span><span class="topo-inside">EEVAYT</span><span class="topo-unknown">LEHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (26 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -319,6 +321,7 @@ Amt-1 is one of three ammonium transporters (Amts) encoded in the genome of the 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -334,13 +337,15 @@ Amt-1 is one of three ammonium transporters (Amts) encoded in the genome of the 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MSDGNVAWIL</span><span class="topo-membrane">ASTALVMLMVPGVGFFYA</span><span class="topo-inside">GMVRRKNAVNM</span><span class="topo-membrane">IALSFISLIITVLLWIFYGYS</span></span>
-<span class="topo-line"><span class="topo-membrane">VS</span><span class="topo-outside">FGNDISGIIGGLNYALLSGVKGEDLLFM</span><span class="topo-membrane">MYQMMFAAVTIAILTSAI</span><span class="topo-inside">AERAKV</span><span class="topo-membrane">SSFILL</span></span>
-<span class="topo-line"><span class="topo-membrane">SALWLTFVYAPFAHWL</span><span class="topo-outside">WGGGWLAKLGALD</span><span class="topo-membrane">FAGGMVVHISSGFAALAVAMT</span><span class="topo-inside">IGKRAGFEEY</span></span>
-<span class="topo-line"><span class="topo-inside">SIEPHSIP</span><span class="topo-membrane">LTLIGAALLWFGWFGFNGGS</span><span class="topo-outside">ALAANDVAINA</span><span class="topo-membrane">VVVTNTSAAVAGFVWMVIGWI</span></span>
-<span class="topo-line"><span class="topo-inside">KGKPGS</span><span class="topo-membrane">LGIVSGAIAGLAAITPAA</span><span class="topo-outside">GFVDV</span><span class="topo-membrane">KGAIVIGLVAGIVCYLAMDFR</span><span class="topo-inside">IKKKIDE</span><span class="topo-membrane">SLD</span></span>
-<span class="topo-line"><span class="topo-membrane">AWAIHGIGGLWGSVAVGIL</span><span class="topo-outside">ANPEVNGYAGLLFGNPQLLVSQ</span><span class="topo-membrane">LIAVASTTAYAFLVTLILA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MSDGNVAWIL</span><span class="topo-membrane">ASTALVMLMVPGVGFFYA</span><span class="topo-inside">GMVRRKNAVNM</span><span class="topo-membrane">IALSFISLIITVLLWIFYGYSVS</span><span class="topo-outside">FGNDISGIIGGLNYALLSGVKGEDLLFM</span><span class="topo-membrane">MYQMMFAAVTIAILTSAI</span><span class="topo-inside">AERAKV</span><span class="topo-membrane">SSFILL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">SALWLTFVYAPFAHWL</span><span class="topo-outside">WGGGWLAKLGALD</span><span class="topo-membrane">FAGGMVVHISSGFAALAVAMT</span><span class="topo-inside">IGKRAGFEEYSIEPHSIP</span><span class="topo-membrane">LTLIGAALLWFGWFGFNGGS</span><span class="topo-outside">ALAANDVAINA</span><span class="topo-membrane">VVVTNTSAAVAGFVWMVIGWI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">KGKPGS</span><span class="topo-membrane">LGIVSGAIAGLAAITPAA</span><span class="topo-outside">GFVDV</span><span class="topo-membrane">KGAIVIGLVAGIVCYLAMDFR</span><span class="topo-inside">IKKKIDE</span><span class="topo-membrane">SLDAWAIHGIGGLWGSVAVGIL</span><span class="topo-outside">ANPEVNGYAGLLFGNPQLLVSQ</span><span class="topo-membrane">LIAVASTTAYAFLVTLILA</span></span>
+<span class="topo-ruler">       370       380       390         </span>
 <span class="topo-line"><span class="topo-membrane">KAVDAAV</span><span class="topo-inside">GLRVSSQEEYVG</span><span class="topo-unknown">LDLSQH</span><span class="topo-inside">EEVAYT</span><span class="topo-unknown">LEHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (26 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -534,6 +539,7 @@ Amt-1 is one of three ammonium transporters (Amts) encoded in the genome of the 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -549,13 +555,15 @@ Amt-1 is one of three ammonium transporters (Amts) encoded in the genome of the 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MSDGNVAWIL</span><span class="topo-membrane">ASTALVMLMVPGVGFFYA</span><span class="topo-inside">GMVRRKNAVNM</span><span class="topo-membrane">IALSFISLIITVLLWIFYGYS</span></span>
-<span class="topo-line"><span class="topo-membrane">VS</span><span class="topo-outside">FGNDISGIIGGLNYALLSGVKGEDLLFM</span><span class="topo-membrane">MYQMMFAAVTIAILTSAI</span><span class="topo-inside">AERAKV</span><span class="topo-membrane">SSFILL</span></span>
-<span class="topo-line"><span class="topo-membrane">SALWLTFVYAPFAHWL</span><span class="topo-outside">WGGGWLAKLGALD</span><span class="topo-membrane">FAGGMVVHISSGFAALAVAMT</span><span class="topo-inside">IGKRAGFEEY</span></span>
-<span class="topo-line"><span class="topo-inside">SIEPHSIP</span><span class="topo-membrane">LTLIGAALLWFGWFGFNGGS</span><span class="topo-outside">ALAANDVAINA</span><span class="topo-membrane">VVVTNTSAAVAGFVWMVIGWI</span></span>
-<span class="topo-line"><span class="topo-inside">KGKPGS</span><span class="topo-membrane">LGIVSGAIAGLAAITPAA</span><span class="topo-outside">GFVDV</span><span class="topo-membrane">KGAIVIGLVAGIVCYLAMDFR</span><span class="topo-inside">IKKKIDE</span><span class="topo-membrane">SLD</span></span>
-<span class="topo-line"><span class="topo-membrane">AWAIHGIGGLWGSVAVGIL</span><span class="topo-outside">ANPEVNGYAGLLFGNPQLLVSQ</span><span class="topo-membrane">LIAVASTTAYAFLVTLILA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MSDGNVAWIL</span><span class="topo-membrane">ASTALVMLMVPGVGFFYA</span><span class="topo-inside">GMVRRKNAVNM</span><span class="topo-membrane">IALSFISLIITVLLWIFYGYSVS</span><span class="topo-outside">FGNDISGIIGGLNYALLSGVKGEDLLFM</span><span class="topo-membrane">MYQMMFAAVTIAILTSAI</span><span class="topo-inside">AERAKV</span><span class="topo-membrane">SSFILL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">SALWLTFVYAPFAHWL</span><span class="topo-outside">WGGGWLAKLGALD</span><span class="topo-membrane">FAGGMVVHISSGFAALAVAMT</span><span class="topo-inside">IGKRAGFEEYSIEPHSIP</span><span class="topo-membrane">LTLIGAALLWFGWFGFNGGS</span><span class="topo-outside">ALAANDVAINA</span><span class="topo-membrane">VVVTNTSAAVAGFVWMVIGWI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">KGKPGS</span><span class="topo-membrane">LGIVSGAIAGLAAITPAA</span><span class="topo-outside">GFVDV</span><span class="topo-membrane">KGAIVIGLVAGIVCYLAMDFR</span><span class="topo-inside">IKKKIDE</span><span class="topo-membrane">SLDAWAIHGIGGLWGSVAVGIL</span><span class="topo-outside">ANPEVNGYAGLLFGNPQLLVSQ</span><span class="topo-membrane">LIAVASTTAYAFLVTLILA</span></span>
+<span class="topo-ruler">       370       380       390         </span>
 <span class="topo-line"><span class="topo-membrane">KAVDAAV</span><span class="topo-inside">GLRVSSQEEYVG</span><span class="topo-unknown">LDLSQH</span><span class="topo-inside">EEVAYT</span><span class="topo-unknown">LEHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (26 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -749,6 +757,7 @@ Amt-1 is one of three ammonium transporters (Amts) encoded in the genome of the 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

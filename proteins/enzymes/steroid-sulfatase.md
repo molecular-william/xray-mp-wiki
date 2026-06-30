@@ -94,16 +94,17 @@ Steroid sulfatase (hSTS) from human placenta is an integral membrane enzyme of t
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">H</span><span class="topo-inside">AASRPNIILVMADDLGIGDPGCYGNKTIRTPNIDRLASGGVKLTQHLAASPL</span><span class="topo-unknown">A</span><span class="topo-inside">TPSRAA</span></span>
-<span class="topo-line"><span class="topo-inside">FMTGRYPVRSGMASWSRTGVFLFTASSGGLPTDEITFAKLLKDQGYSTALIGKWHLGMSC</span></span>
-<span class="topo-line"><span class="topo-inside">HSKTDFCHHPLHHGFNYFYGISLTNLRDCKPGEGSVFTT</span><span class="topo-membrane">GFKRLVFLPLQIVGVTLLTLA</span></span>
-<span class="topo-line"><span class="topo-membrane">ALNC</span><span class="topo-outside">LGLLHV</span><span class="topo-membrane">PLGVFFSLLFLAALILTLFLGF</span><span class="topo-inside">LHYFRPLNCFMMRNYEIIQQPMSYDNLT</span></span>
-<span class="topo-line"><span class="topo-inside">QRLTVEAAQFIQRNTETPFLLVLSYLHVHTALFSSKDFAGKSQHGVYGDAVEEMDWSVGQ</span></span>
-<span class="topo-line"><span class="topo-inside">ILNLLDELRLANDTLIYFTSDQGAHVEEVSSKGEIHGGSNGIYKGGKANNWEGGIRVPGI</span></span>
-<span class="topo-line"><span class="topo-inside">LRWPRVIQAGQKIDEPTSNMDIFPTVAKLAGAPLPEDRIIDGRDLMPLLEGKSQRSDHEF</span></span>
-<span class="topo-line"><span class="topo-inside">LFHYCNAYLNAVRWHPQNSTSIWKAFFFTPNFNPV</span><span class="topo-unknown">GSNG</span><span class="topo-inside">CFATHVCFCFGSYVTHHDPPL</span></span>
-<span class="topo-line"><span class="topo-inside">LFDISKDPRERNPLTPASEPRFYEILKVMQEAADRHTQTLPEVPDQFSWNNFLWKPWLQL</span></span>
-<span class="topo-line"><span class="topo-inside">CCPSTGLSCQCDRE</span><span class="topo-unknown">KQDKRLSR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">H</span><span class="topo-inside">AASRPNIILVMADDLGIGDPGCYGNKTIRTPNIDRLASGGVKLTQHLAASPL</span><span class="topo-unknown">A</span><span class="topo-inside">TPSRAAFMTGRYPVRSGMASWSRTGVFLFTASSGGLPTDEITFAKLLKDQGYSTALIGKWHLGMSC</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">HSKTDFCHHPLHHGFNYFYGISLTNLRDCKPGEGSVFTT</span><span class="topo-membrane">GFKRLVFLPLQIVGVTLLTLAALNC</span><span class="topo-outside">LGLLHV</span><span class="topo-membrane">PLGVFFSLLFLAALILTLFLGF</span><span class="topo-inside">LHYFRPLNCFMMRNYEIIQQPMSYDNLT</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">QRLTVEAAQFIQRNTETPFLLVLSYLHVHTALFSSKDFAGKSQHGVYGDAVEEMDWSVGQILNLLDELRLANDTLIYFTSDQGAHVEEVSSKGEIHGGSNGIYKGGKANNWEGGIRVPGI</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">LRWPRVIQAGQKIDEPTSNMDIFPTVAKLAGAPLPEDRIIDGRDLMPLLEGKSQRSDHEFLFHYCNAYLNAVRWHPQNSTSIWKAFFFTPNFNPV</span><span class="topo-unknown">GSNG</span><span class="topo-inside">CFATHVCFCFGSYVTHHDPPL</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560  </span>
+<span class="topo-line"><span class="topo-inside">LFDISKDPRERNPLTPASEPRFYEILKVMQEAADRHTQTLPEVPDQFSWNNFLWKPWLQLCCPSTGLSCQCDRE</span><span class="topo-unknown">KQDKRLSR</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -192,6 +193,7 @@ Steroid sulfatase (hSTS) from human placenta is an integral membrane enzyme of t
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -294,16 +296,17 @@ Steroid sulfatase (hSTS) from human placenta is an integral membrane enzyme of t
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MPLRKMKIPFLLLFFLWEAESH</span><span class="topo-inside">AASRPNIILVMADDLGIGDPGCYGNKTIRTPNIDRLAS</span></span>
-<span class="topo-line"><span class="topo-inside">GGVKLTQHLAASPL?TPSRAAFMTGRYPVRSGMASWSRTGVFLFTASSGGLPTDEITFAK</span></span>
-<span class="topo-line"><span class="topo-inside">LLKDQGYSTALIGKWHLGMSCHSKTDFCHHPLHHGFNYFYGISLTNLRDCKPGEGSVFTT</span></span>
-<span class="topo-line"><span class="topo-inside">G</span><span class="topo-membrane">FKRLVFLPLQIVGVTLLTLAALNC</span><span class="topo-outside">LGLL</span><span class="topo-membrane">HVPLGVFFSLLFLAALILTLFLGFLH</span><span class="topo-inside">YFRPL</span></span>
-<span class="topo-line"><span class="topo-inside">NCFMMRNYEIIQQPMSYDNLTQRLTVEAAQFIQRNTETPFLLVLSYLHVHTALFSSKDFA</span></span>
-<span class="topo-line"><span class="topo-inside">GKSQHGVYGDAVEEMDWSVGQILNLLDELRLANDTLIYFTSDQGAHVEEVSSKGEIHGGS</span></span>
-<span class="topo-line"><span class="topo-inside">NGIYKGGKANNWEGGIRVPGILRWPRVIQAGQKIDEPTSNMDIFPTVAKLAGAPLPEDRI</span></span>
-<span class="topo-line"><span class="topo-inside">IDGRDLMPLLEGKSQRSDHEFLFHYCNAYLNAVRWHPQNSTSIWKAFFFTPNFNPVGSNG</span></span>
-<span class="topo-line"><span class="topo-inside">CFATHVCFCFGSYVTHHDPPLLFDISKDPRERNPLTPASEPRFYEILKVMQEAADRHTQT</span></span>
-<span class="topo-line"><span class="topo-inside">LPEVPDQFSWNNFLWKPWLQLCCPSTGLSCQCDREK</span><span class="topo-unknown">QDKRLSR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MPLRKMKIPFLLLFFLWEAESH</span><span class="topo-inside">AASRPNIILVMADDLGIGDPGCYGNKTIRTPNIDRLASGGVKLTQHLAASPL?TPSRAAFMTGRYPVRSGMASWSRTGVFLFTASSGGLPTDEITFAK</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">LLKDQGYSTALIGKWHLGMSCHSKTDFCHHPLHHGFNYFYGISLTNLRDCKPGEGSVFTTG</span><span class="topo-membrane">FKRLVFLPLQIVGVTLLTLAALNC</span><span class="topo-outside">LGLL</span><span class="topo-membrane">HVPLGVFFSLLFLAALILTLFLGFLH</span><span class="topo-inside">YFRPL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">NCFMMRNYEIIQQPMSYDNLTQRLTVEAAQFIQRNTETPFLLVLSYLHVHTALFSSKDFAGKSQHGVYGDAVEEMDWSVGQILNLLDELRLANDTLIYFTSDQGAHVEEVSSKGEIHGGS</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">NGIYKGGKANNWEGGIRVPGILRWPRVIQAGQKIDEPTSNMDIFPTVAKLAGAPLPEDRIIDGRDLMPLLEGKSQRSDHEFLFHYCNAYLNAVRWHPQNSTSIWKAFFFTPNFNPVGSNG</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580   </span>
+<span class="topo-line"><span class="topo-inside">CFATHVCFCFGSYVTHHDPPLLFDISKDPRERNPLTPASEPRFYEILKVMQEAADRHTQTLPEVPDQFSWNNFLWKPWLQLCCPSTGLSCQCDREK</span><span class="topo-unknown">QDKRLSR</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -364,6 +367,7 @@ Steroid sulfatase (hSTS) from human placenta is an integral membrane enzyme of t
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

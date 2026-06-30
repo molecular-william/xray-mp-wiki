@@ -122,15 +122,17 @@ NrfH is a membrane-bound cytochrome c quinol dehydrogenase from Desulfovibrio vu
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">AGCSDVSTELKTPVYKTKLTAEEIRNSAFKPEFPKQYASYERNDETTVMTEYKGSVPFNK</span></span>
-<span class="topo-line"><span class="topo-outside">NDNVNPLPEGYRHAQPYLKNLWLGYPFMYEYREARGHTYAIQDFLHIDRINRYAEKGGLP</span></span>
-<span class="topo-line"><span class="topo-outside">ATCWNCKTPKMMEWVKESGDGFWAKDVNEFRDKIDMKDHTIGCATCHDPQTMELRITSVP</span></span>
-<span class="topo-line"><span class="topo-outside">LTDYLVSQGKDPKKLPRNEMRALVCGQCHVEYYFNGPTMGVNKKPVFPWAEGFDPADMYR</span></span>
-<span class="topo-line"><span class="topo-outside">YYDKHGDLQVKGFEGKFADWTHPASKTPMIKAQHPEYETWINGTHGAAGVTCADCHMSYT</span></span>
-<span class="topo-line"><span class="topo-outside">RSDDKKKISSHWWTSPMKDPEMRACRQCHSDKTPDYLKSRVLFTQKRTFDLLLAAQEVSV</span></span>
-<span class="topo-line"><span class="topo-outside">KAHEAVRLANEYQGAKAAGYDDLMIQAREMVRKGQFFWDYVSAENSVGFHNPAKALDTLA</span></span>
-<span class="topo-line"><span class="topo-outside">QSQQFSQKAIDLAMEATQYGIGKDLSGDIKTIVPPILKMNRKLQQDPEFMKTHKWFQYLP</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">AGCSDVSTELKTPVYKTKLTAEEIRNSAFKPEFPKQYASYERNDETTVMTEYKGSVPFNKNDNVNPLPEGYRHAQPYLKNLWLGYPFMYEYREARGHTYAIQDFLHIDRINRYAEKGGLP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">ATCWNCKTPKMMEWVKESGDGFWAKDVNEFRDKIDMKDHTIGCATCHDPQTMELRITSVPLTDYLVSQGKDPKKLPRNEMRALVCGQCHVEYYFNGPTMGVNKKPVFPWAEGFDPADMYR</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">YYDKHGDLQVKGFEGKFADWTHPASKTPMIKAQHPEYETWINGTHGAAGVTCADCHMSYTRSDDKKKISSHWWTSPMKDPEMRACRQCHSDKTPDYLKSRVLFTQKRTFDLLLAAQEVSV</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">KAHEAVRLANEYQGAKAAGYDDLMIQAREMVRKGQFFWDYVSAENSVGFHNPAKALDTLAQSQQFSQKAIDLAMEATQYGIGKDLSGDIKTIVPPILKMNRKLQQDPEFMKTHKWFQYLP</span></span>
+<span class="topo-ruler">       490       500</span>
 <span class="topo-line"><span class="topo-outside">VLPKADQVWDGQKRLVSA</span><span class="topo-unknown">KQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (2 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -156,6 +158,7 @@ NrfH is a membrane-bound cytochrome c quinol dehydrogenase from Desulfovibrio vu
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -171,9 +174,11 @@ NrfH is a membrane-bound cytochrome c quinol dehydrogenase from Desulfovibrio vu
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSEEKSRNGPARL</span><span class="topo-inside">KLV</span><span class="topo-membrane">LGGATLGVVALATVAFGM</span><span class="topo-outside">KYTDQRPFCTSCHIMNPVGVTHKLSG</span></span>
-<span class="topo-line"><span class="topo-outside">HANISCNDCHAPHNLLAKLPFKAIAGARDVYMNTLGHPGDLILAGMETKEVVNANCKACH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSEEKSRNGPARL</span><span class="topo-inside">KLV</span><span class="topo-membrane">LGGATLGVVALATVAFGM</span><span class="topo-outside">KYTDQRPFCTSCHIMNPVGVTHKLSGHANISCNDCHAPHNLLAKLPFKAIAGARDVYMNTLGHPGDLILAGMETKEVVNANCKACH</span></span>
+<span class="topo-ruler">       130       140       150         </span>
 <span class="topo-line"><span class="topo-outside">TMTNVEVASMEAKKYCTDCHRNVQHMRMKPISTREVAD</span><span class="topo-unknown">E</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -213,6 +218,7 @@ NrfH is a membrane-bound cytochrome c quinol dehydrogenase from Desulfovibrio vu
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

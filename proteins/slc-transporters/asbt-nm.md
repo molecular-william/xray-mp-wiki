@@ -138,12 +138,13 @@ ASBT-NM is a bacterial homologue of the apical sodium-dependent bile acid transp
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">NILSKI</span><span class="topo-membrane">SSFIGKTFSLWAALFAAAA</span><span class="topo-outside">FFAPDTF</span><span class="topo-unknown">KWAGPY</span><span class="topo-membrane">IPWLLGIIMFGMGLTL</span><span class="topo-inside">KPSDF</span></span>
-<span class="topo-line"><span class="topo-inside">DILFKHPKVV</span><span class="topo-membrane">IIGVIAQFAIMPATAWLL</span><span class="topo-outside">SKLLNLPAEIAVGV</span><span class="topo-membrane">ILVGCCPGGTASNVMT</span><span class="topo-inside">YL</span></span>
-<span class="topo-line"><span class="topo-inside">ARGNVALS</span><span class="topo-membrane">VAVTSVSTLISPLLTPAIF</span><span class="topo-outside">LMLAGEMLEIQAAGM</span><span class="topo-membrane">LMSIVKMVLLPIVLGLIV</span></span>
-<span class="topo-line"><span class="topo-membrane">H</span><span class="topo-inside">KVLGSKTEKL</span><span class="topo-membrane">TDALPLVSVAAIVLIIGA</span><span class="topo-outside">VVGAS</span><span class="topo-unknown">KGKIMES</span><span class="topo-outside">GLLIF</span><span class="topo-membrane">AVVVLHNGIGYLLG</span></span>
-<span class="topo-line"><span class="topo-membrane">FFAAKWT</span><span class="topo-inside">GLPYDAQ</span><span class="topo-membrane">KTLTIEVGMQNSGLAAAL</span><span class="topo-outside">AAAHFAAAPVVAVP</span><span class="topo-membrane">GALFSVWHNISGSL</span></span>
-<span class="topo-line"><span class="topo-membrane">LATY</span><span class="topo-inside">WAAKA</span><span class="topo-unknown">GKHKKPGSENLYFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">NILSKI</span><span class="topo-membrane">SSFIGKTFSLWAALFAAAA</span><span class="topo-outside">FFAPDTF</span><span class="topo-unknown">KWAGPY</span><span class="topo-membrane">IPWLLGIIMFGMGLTL</span><span class="topo-inside">KPSDFDILFKHPKVV</span><span class="topo-membrane">IIGVIAQFAIMPATAWLL</span><span class="topo-outside">SKLLNLPAEIAVGV</span><span class="topo-membrane">ILVGCCPGGTASNVMT</span><span class="topo-inside">YL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">ARGNVALS</span><span class="topo-membrane">VAVTSVSTLISPLLTPAIF</span><span class="topo-outside">LMLAGEMLEIQAAGM</span><span class="topo-membrane">LMSIVKMVLLPIVLGLIVH</span><span class="topo-inside">KVLGSKTEKL</span><span class="topo-membrane">TDALPLVSVAAIVLIIGA</span><span class="topo-outside">VVGAS</span><span class="topo-unknown">KGKIMES</span><span class="topo-outside">GLLIF</span><span class="topo-membrane">AVVVLHNGIGYLLG</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320   </span>
+<span class="topo-line"><span class="topo-membrane">FFAAKWT</span><span class="topo-inside">GLPYDAQ</span><span class="topo-membrane">KTLTIEVGMQNSGLAAAL</span><span class="topo-outside">AAAHFAAAPVVAVP</span><span class="topo-membrane">GALFSVWHNISGSLLATY</span><span class="topo-inside">WAAKA</span><span class="topo-unknown">GKHKKPGSENLYFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (26 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -337,6 +338,7 @@ ASBT-NM is a bacterial homologue of the apical sodium-dependent bile acid transp
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

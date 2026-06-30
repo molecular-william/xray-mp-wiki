@@ -94,17 +94,19 @@ CmCLC is a CLC Cl-/H+ antiporter from the red alga Cyanidioschyzon merolae. Unli
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MG</span><span class="topo-outside">SLMYL</span><span class="topo-membrane">LRLVCFLTLLGVTAALFIFAVDLAVHGLEELR</span><span class="topo-inside">MKISRLAGRFAGYI</span><span class="topo-membrane">LYVVSGV</span></span>
-<span class="topo-line"><span class="topo-membrane">ALCLLSTFWCAV</span><span class="topo-outside">LSTEAEGSGLPQMKSILSGFYDKMRSALELRV</span><span class="topo-membrane">LFAKALGLICAIGG</span><span class="topo-inside">G</span><span class="topo-membrane">L</span></span>
-<span class="topo-line"><span class="topo-membrane">PVGWEGPNVHIACIIA</span><span class="topo-outside">HQFYRLGVFKELCTDRALRLQTLA</span><span class="topo-unknown">AACAVGLASSFGAPLGGVLY</span></span>
-<span class="topo-line"><span class="topo-unknown">SIETI</span><span class="topo-outside">ASFYLV</span><span class="topo-membrane">QAFWKGVLSALSGAIVYEL</span><span class="topo-unknown">LYTTPLVEAFEGTNFDAS</span><span class="topo-inside">DVSRT</span><span class="topo-membrane">QTLLYAI</span></span>
-<span class="topo-line"><span class="topo-membrane">LGALMGVLGALFIRCVRSIY</span><span class="topo-outside">ELRMRHYPGTNR</span><span class="topo-membrane">YFLVGVVALFASALQY</span><span class="topo-inside">PF</span><span class="topo-unknown">RLFALD</span><span class="topo-inside">PRAT</span></span>
-<span class="topo-line"><span class="topo-inside">INDLFKAV</span><span class="topo-unknown">PLYQTDHFGW</span><span class="topo-inside">TELI</span><span class="topo-membrane">LMPIIKFILVALSIGLP</span><span class="topo-outside">L</span><span class="topo-membrane">PAGVFVPSFLIGAGFGRLY</span><span class="topo-inside">G</span></span>
-<span class="topo-line"><span class="topo-inside">ELMRVVFGNAIVPGSY</span><span class="topo-membrane">AVVGAAAFTAGVTR</span><span class="topo-outside">A</span><span class="topo-membrane">LSCAVIIFEVTG</span><span class="topo-inside">QIRH</span><span class="topo-membrane">LVPVLISVLLAVI</span></span>
-<span class="topo-line"><span class="topo-membrane">VGNAFN</span><span class="topo-outside">RSLYETLVLMKHLPYMPILRRDRSPEMTAREIMHPIEGEPHLFPDSEPQHIKGI</span></span>
-<span class="topo-line"><span class="topo-outside">LEKFPNRLVFPVIDANGYLLGAISRKEIVDRLQHV</span><span class="topo-unknown">LEDVPEPIAGHRTLVLLDAADLSEN</span></span>
-<span class="topo-line"><span class="topo-unknown">IEGLVDETPSGEHSSKGKRTATVLEPTSSL</span><span class="topo-outside">VVPCDVSPIVVTSYSLVRQLHFLFVMLMPS</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MG</span><span class="topo-outside">SLMYL</span><span class="topo-membrane">LRLVCFLTLLGVTAALFIFAVDLAVHGLEELR</span><span class="topo-inside">MKISRLAGRFAGYI</span><span class="topo-membrane">LYVVSGVALCLLSTFWCAV</span><span class="topo-outside">LSTEAEGSGLPQMKSILSGFYDKMRSALELRV</span><span class="topo-membrane">LFAKALGLICAIGG</span><span class="topo-inside">G</span><span class="topo-membrane">L</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">PVGWEGPNVHIACIIA</span><span class="topo-outside">HQFYRLGVFKELCTDRALRLQTLA</span><span class="topo-unknown">AACAVGLASSFGAPLGGVLYSIETI</span><span class="topo-outside">ASFYLV</span><span class="topo-membrane">QAFWKGVLSALSGAIVYEL</span><span class="topo-unknown">LYTTPLVEAFEGTNFDAS</span><span class="topo-inside">DVSRT</span><span class="topo-membrane">QTLLYAI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">LGALMGVLGALFIRCVRSIY</span><span class="topo-outside">ELRMRHYPGTNR</span><span class="topo-membrane">YFLVGVVALFASALQY</span><span class="topo-inside">PF</span><span class="topo-unknown">RLFALD</span><span class="topo-inside">PRATINDLFKAV</span><span class="topo-unknown">PLYQTDHFGW</span><span class="topo-inside">TELI</span><span class="topo-membrane">LMPIIKFILVALSIGLP</span><span class="topo-outside">L</span><span class="topo-membrane">PAGVFVPSFLIGAGFGRLY</span><span class="topo-inside">G</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">ELMRVVFGNAIVPGSY</span><span class="topo-membrane">AVVGAAAFTAGVTR</span><span class="topo-outside">A</span><span class="topo-membrane">LSCAVIIFEVTG</span><span class="topo-inside">QIRH</span><span class="topo-membrane">LVPVLISVLLAVIVGNAFN</span><span class="topo-outside">RSLYETLVLMKHLPYMPILRRDRSPEMTAREIMHPIEGEPHLFPDSEPQHIKGI</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">LEKFPNRLVFPVIDANGYLLGAISRKEIVDRLQHV</span><span class="topo-unknown">LEDVPEPIAGHRTLVLLDAADLSENIEGLVDETPSGEHSSKGKRTATVLEPTSSL</span><span class="topo-outside">VVPCDVSPIVVTSYSLVRQLHFLFVMLMPS</span></span>
+<span class="topo-ruler">       610       620       630  </span>
 <span class="topo-line"><span class="topo-outside">MIYVTERGKLVGIVEREDVAYGYSN</span><span class="topo-unknown">SLEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (36 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -368,6 +370,7 @@ CmCLC is a CLC Cl-/H+ antiporter from the red alga Cyanidioschyzon merolae. Unli
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -383,17 +386,19 @@ CmCLC is a CLC Cl-/H+ antiporter from the red alga Cyanidioschyzon merolae. Unli
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MG</span><span class="topo-outside">SLMYL</span><span class="topo-membrane">LRLVCFLTLLGVTAALFIFAVDLAVHGLEELR</span><span class="topo-inside">MKISRLAGRFAGYI</span><span class="topo-membrane">LYVVSGV</span></span>
-<span class="topo-line"><span class="topo-membrane">ALCLLSTFWCAV</span><span class="topo-outside">LSTEAEGSGLPQMKSILSGFYDKMRSALELRV</span><span class="topo-membrane">LFAKALGLICAIGG</span><span class="topo-inside">G</span><span class="topo-membrane">L</span></span>
-<span class="topo-line"><span class="topo-membrane">PVGWEGPNVHIACIIA</span><span class="topo-outside">HQFYRLGVFKELCTDRALRLQTLA</span><span class="topo-unknown">AACAVGLASSFGAPLGGVLY</span></span>
-<span class="topo-line"><span class="topo-unknown">SIETI</span><span class="topo-outside">ASFYLV</span><span class="topo-membrane">QAFWKGVLSALSGAIVYEL</span><span class="topo-unknown">LYTTPLVEAFEGTNFDAS</span><span class="topo-inside">DVSRTQT</span><span class="topo-membrane">LLYAI</span></span>
-<span class="topo-line"><span class="topo-membrane">LGALMGVLGALFIRCVRSIY</span><span class="topo-outside">ELRMRHYPGTNR</span><span class="topo-membrane">YFLVGVVALFASALQY</span><span class="topo-inside">PF</span><span class="topo-unknown">RLFALD</span><span class="topo-inside">PRAT</span></span>
-<span class="topo-line"><span class="topo-inside">INDLFKAV</span><span class="topo-unknown">PLYQTDHFGW</span><span class="topo-inside">TELI</span><span class="topo-membrane">LMPIIKFILVALSIGLP</span><span class="topo-outside">L</span><span class="topo-membrane">PAGVFVPSFLIGAGFGRLY</span><span class="topo-inside">G</span></span>
-<span class="topo-line"><span class="topo-inside">ELMRVVFGNAIVPGSY</span><span class="topo-membrane">AVVGAAAFTAGVTR</span><span class="topo-outside">A</span><span class="topo-membrane">LSCAVIIFEVTG</span><span class="topo-inside">QIRH</span><span class="topo-membrane">LVPVLISVLLAVI</span></span>
-<span class="topo-line"><span class="topo-membrane">VGNAFN</span><span class="topo-outside">RSLYETLVLMKHLPYMPILRRDRSPEMTAREIMHPIEGEPHLFPDSEPQHIKGI</span></span>
-<span class="topo-line"><span class="topo-outside">LEKFPNRLVFPVIDANGYLLGAISRKEIVDRLQHV</span><span class="topo-unknown">LEDVPEPIAGHRTLVLLDAADLSEN</span></span>
-<span class="topo-line"><span class="topo-unknown">IEGLVDETPSGEHSSKGKRTATVLEPTSSL</span><span class="topo-outside">VVPCDVSPIVVTSYSLVRQLHFLFVMLMPS</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MG</span><span class="topo-outside">SLMYL</span><span class="topo-membrane">LRLVCFLTLLGVTAALFIFAVDLAVHGLEELR</span><span class="topo-inside">MKISRLAGRFAGYI</span><span class="topo-membrane">LYVVSGVALCLLSTFWCAV</span><span class="topo-outside">LSTEAEGSGLPQMKSILSGFYDKMRSALELRV</span><span class="topo-membrane">LFAKALGLICAIGG</span><span class="topo-inside">G</span><span class="topo-membrane">L</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">PVGWEGPNVHIACIIA</span><span class="topo-outside">HQFYRLGVFKELCTDRALRLQTLA</span><span class="topo-unknown">AACAVGLASSFGAPLGGVLYSIETI</span><span class="topo-outside">ASFYLV</span><span class="topo-membrane">QAFWKGVLSALSGAIVYEL</span><span class="topo-unknown">LYTTPLVEAFEGTNFDAS</span><span class="topo-inside">DVSRTQT</span><span class="topo-membrane">LLYAI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">LGALMGVLGALFIRCVRSIY</span><span class="topo-outside">ELRMRHYPGTNR</span><span class="topo-membrane">YFLVGVVALFASALQY</span><span class="topo-inside">PF</span><span class="topo-unknown">RLFALD</span><span class="topo-inside">PRATINDLFKAV</span><span class="topo-unknown">PLYQTDHFGW</span><span class="topo-inside">TELI</span><span class="topo-membrane">LMPIIKFILVALSIGLP</span><span class="topo-outside">L</span><span class="topo-membrane">PAGVFVPSFLIGAGFGRLY</span><span class="topo-inside">G</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">ELMRVVFGNAIVPGSY</span><span class="topo-membrane">AVVGAAAFTAGVTR</span><span class="topo-outside">A</span><span class="topo-membrane">LSCAVIIFEVTG</span><span class="topo-inside">QIRH</span><span class="topo-membrane">LVPVLISVLLAVIVGNAFN</span><span class="topo-outside">RSLYETLVLMKHLPYMPILRRDRSPEMTAREIMHPIEGEPHLFPDSEPQHIKGI</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">LEKFPNRLVFPVIDANGYLLGAISRKEIVDRLQHV</span><span class="topo-unknown">LEDVPEPIAGHRTLVLLDAADLSENIEGLVDETPSGEHSSKGKRTATVLEPTSSL</span><span class="topo-outside">VVPCDVSPIVVTSYSLVRQLHFLFVMLMPS</span></span>
+<span class="topo-ruler">       610       620       630  </span>
 <span class="topo-line"><span class="topo-outside">MIYVTERGKLVGIVEREDVAYGYSN</span><span class="topo-unknown">SLEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (36 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -657,6 +662,7 @@ CmCLC is a CLC Cl-/H+ antiporter from the red alga Cyanidioschyzon merolae. Unli
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

@@ -95,12 +95,13 @@ SPCS1 (Signal Peptidase Complex Subunit 1) from Gallus gallus (chicken) is a sma
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSK</span><span class="topo-inside">GEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATNGKLTLKFICTTGKLPVPWPTL</span></span>
-<span class="topo-line"><span class="topo-inside">VTTL</span><span class="topo-unknown">G</span><span class="topo-inside">VQCFSRYPDHMKRHDFFKSAMPEGYVQERTISFKDDGTYKTRAEVKFEGDTLVNR</span></span>
-<span class="topo-line"><span class="topo-inside">IELKGIDFKEDGNILGHKLEYNVLDVFRSIPT</span><span class="topo-unknown">QM</span><span class="topo-inside">DYKGQK</span><span class="topo-membrane">LAEQIFQGIILVSAVIGFIY</span></span>
-<span class="topo-line"><span class="topo-membrane">GYV</span><span class="topo-outside">TEQ</span><span class="topo-membrane">FGWTVYIVMAGFAVSCLLTLP</span><span class="topo-inside">PWPMYRRNPLNSHNVYITADKQKNGIKANFKIR</span></span>
-<span class="topo-line"><span class="topo-inside">HNVEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQSVLSKDPNEKRDHMVLLEFVTAAG</span></span>
-<span class="topo-line"><span class="topo-inside">IT</span><span class="topo-unknown">HHHHHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSK</span><span class="topo-inside">GEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATNGKLTLKFICTTGKLPVPWPTLVTTL</span><span class="topo-unknown">G</span><span class="topo-inside">VQCFSRYPDHMKRHDFFKSAMPEGYVQERTISFKDDGTYKTRAEVKFEGDTLVNR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">IELKGIDFKEDGNILGHKLEYNVLDVFRSIPT</span><span class="topo-unknown">QM</span><span class="topo-inside">DYKGQK</span><span class="topo-membrane">LAEQIFQGIILVSAVIGFIYGYV</span><span class="topo-outside">TEQ</span><span class="topo-membrane">FGWTVYIVMAGFAVSCLLTLP</span><span class="topo-inside">PWPMYRRNPLNSHNVYITADKQKNGIKANFKIR</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310  </span>
+<span class="topo-line"><span class="topo-inside">HNVEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQSVLSKDPNEKRDHMVLLEFVTAAGIT</span><span class="topo-unknown">HHHHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -161,6 +162,7 @@ SPCS1 (Signal Peptidase Complex Subunit 1) from Gallus gallus (chicken) is a sma
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

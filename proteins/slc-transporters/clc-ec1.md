@@ -133,15 +133,17 @@ CLC-ec1 is a prokaryotic CLC Cl-/H+ antiporter from Escherichia coli that has se
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MKTDTPSLETPQAARLRRRQLIRQLLERD</span><span class="topo-inside">KTPL</span><span class="topo-membrane">AILFMAAVVGTLVGLAAVAFDKGVAWL</span></span>
-<span class="topo-line"><span class="topo-membrane">Q</span><span class="topo-outside">NQRMGALVHTADNYPLLLT</span><span class="topo-membrane">VAFLCSAVLAMFGYFLVRKYAP</span><span class="topo-inside">EAGGSGIPEIQGALEDQR</span></span>
-<span class="topo-line"><span class="topo-inside">PVRW</span><span class="topo-membrane">WRVLPVKFFGGLGTLGGG</span><span class="topo-outside">M</span><span class="topo-membrane">VLGRQGPTVQIGGNIGRMV</span><span class="topo-inside">LDIFRLKGDEARHTL</span><span class="topo-membrane">LAT</span></span>
-<span class="topo-line"><span class="topo-membrane">GAAAGLAAAFN</span><span class="topo-outside">A</span><span class="topo-membrane">PLAGILFIIEQMR</span><span class="topo-inside">PQFRYTL</span><span class="topo-membrane">ISIKAVFIGVIMSTIMYRIFN</span><span class="topo-outside">HEVALID</span></span>
-<span class="topo-line"><span class="topo-outside">VGKLSDAPL</span><span class="topo-membrane">NTLWLYLILGIIFGIFGPIFNKWVLGMQ</span><span class="topo-unknown">DLLHRVH</span><span class="topo-inside">GGNI</span><span class="topo-membrane">TKWVLMGGAIGG</span></span>
-<span class="topo-line"><span class="topo-membrane">LCGLLG</span><span class="topo-outside">FVAPATSGGG</span><span class="topo-unknown">FNLIPIAT</span><span class="topo-outside">AGNFSMGML</span><span class="topo-membrane">VFIFVARVITTLLCFSSG</span><span class="topo-inside">A</span><span class="topo-membrane">PGGIFAPM</span></span>
-<span class="topo-line"><span class="topo-membrane">LALGTVLGTAFG</span><span class="topo-outside">MVAVELFPQYHLEAGT</span><span class="topo-membrane">FAIAGMGALLAASIR</span><span class="topo-inside">A</span><span class="topo-membrane">PLTGIILVLEMTDNY</span><span class="topo-outside">Q</span></span>
-<span class="topo-line"><span class="topo-membrane">LILPMIITGLGATLLAQFTGGK</span><span class="topo-inside">PLYSAILARTLAKQEAEQLARS</span><span class="topo-unknown">KAASKGSGTLVPRGSG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MKTDTPSLETPQAARLRRRQLIRQLLERD</span><span class="topo-inside">KTPL</span><span class="topo-membrane">AILFMAAVVGTLVGLAAVAFDKGVAWLQ</span><span class="topo-outside">NQRMGALVHTADNYPLLLT</span><span class="topo-membrane">VAFLCSAVLAMFGYFLVRKYAP</span><span class="topo-inside">EAGGSGIPEIQGALEDQR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">PVRW</span><span class="topo-membrane">WRVLPVKFFGGLGTLGGG</span><span class="topo-outside">M</span><span class="topo-membrane">VLGRQGPTVQIGGNIGRMV</span><span class="topo-inside">LDIFRLKGDEARHTL</span><span class="topo-membrane">LATGAAAGLAAAFN</span><span class="topo-outside">A</span><span class="topo-membrane">PLAGILFIIEQMR</span><span class="topo-inside">PQFRYTL</span><span class="topo-membrane">ISIKAVFIGVIMSTIMYRIFN</span><span class="topo-outside">HEVALID</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">VGKLSDAPL</span><span class="topo-membrane">NTLWLYLILGIIFGIFGPIFNKWVLGMQ</span><span class="topo-unknown">DLLHRVH</span><span class="topo-inside">GGNI</span><span class="topo-membrane">TKWVLMGGAIGGLCGLLG</span><span class="topo-outside">FVAPATSGGG</span><span class="topo-unknown">FNLIPIAT</span><span class="topo-outside">AGNFSMGML</span><span class="topo-membrane">VFIFVARVITTLLCFSSG</span><span class="topo-inside">A</span><span class="topo-membrane">PGGIFAPM</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">LALGTVLGTAFG</span><span class="topo-outside">MVAVELFPQYHLEAGT</span><span class="topo-membrane">FAIAGMGALLAASIR</span><span class="topo-inside">A</span><span class="topo-membrane">PLTGIILVLEMTDNY</span><span class="topo-outside">Q</span><span class="topo-membrane">LILPMIITGLGATLLAQFTGGK</span><span class="topo-inside">PLYSAILARTLAKQEAEQLARS</span><span class="topo-unknown">KAASKGSGTLVPRGSG</span></span>
+<span class="topo-ruler">         </span>
 <span class="topo-line"><span class="topo-unknown">GLEHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (32 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -377,6 +379,7 @@ CLC-ec1 is a prokaryotic CLC Cl-/H+ antiporter from Escherichia coli that has se
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -392,15 +395,17 @@ CLC-ec1 is a prokaryotic CLC Cl-/H+ antiporter from Escherichia coli that has se
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MKTDTPSLETPQAARLRRRQLIRQLLERD</span><span class="topo-inside">KTPL</span><span class="topo-membrane">AILFMAAVVGTLVGLAAVAFDKGVAWL</span></span>
-<span class="topo-line"><span class="topo-membrane">Q</span><span class="topo-outside">NQRMGALVHTADNYPLLLT</span><span class="topo-membrane">VAFLCSAVLAMFGYFLVRKYAP</span><span class="topo-inside">EAGGSGIPEIQGALEDQR</span></span>
-<span class="topo-line"><span class="topo-inside">PVRW</span><span class="topo-membrane">WRVLPVKFFGGLGTLGGG</span><span class="topo-outside">M</span><span class="topo-membrane">VLGRQGPTVQIGGNIGRMV</span><span class="topo-inside">LDIFRLKGDEARHTL</span><span class="topo-membrane">LAT</span></span>
-<span class="topo-line"><span class="topo-membrane">GAAAGLAAAFN</span><span class="topo-outside">A</span><span class="topo-membrane">PLAGILFIIEQMR</span><span class="topo-inside">PQFRYTL</span><span class="topo-membrane">ISIKAVFIGVIMSTIMYRIFN</span><span class="topo-outside">HEVALID</span></span>
-<span class="topo-line"><span class="topo-outside">VGKLSDAPL</span><span class="topo-membrane">NTLWLYLILGIIFGIFGPIFNKWVLGMQ</span><span class="topo-unknown">DLLHRVH</span><span class="topo-inside">GGNI</span><span class="topo-membrane">TKWVLMGGAIGG</span></span>
-<span class="topo-line"><span class="topo-membrane">LCGLLG</span><span class="topo-outside">FVAPATSGGG</span><span class="topo-unknown">FNLIPIAT</span><span class="topo-outside">AGNFSMGML</span><span class="topo-membrane">VFIFVARVITTLLCFSSG</span><span class="topo-inside">A</span><span class="topo-membrane">PGGIFAPM</span></span>
-<span class="topo-line"><span class="topo-membrane">LALGTVLGTAFG</span><span class="topo-outside">MVAVELFPQYHLEAGT</span><span class="topo-membrane">FAIAGMGALLAASIR</span><span class="topo-inside">A</span><span class="topo-membrane">PLTGIILVLEMTDNY</span><span class="topo-outside">Q</span></span>
-<span class="topo-line"><span class="topo-membrane">LILPMIITGLGATLLAQFTGGK</span><span class="topo-inside">PLYSAILARTLAKQEAEQLARS</span><span class="topo-unknown">KAASKGSGTLVPRGSG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MKTDTPSLETPQAARLRRRQLIRQLLERD</span><span class="topo-inside">KTPL</span><span class="topo-membrane">AILFMAAVVGTLVGLAAVAFDKGVAWLQ</span><span class="topo-outside">NQRMGALVHTADNYPLLLT</span><span class="topo-membrane">VAFLCSAVLAMFGYFLVRKYAP</span><span class="topo-inside">EAGGSGIPEIQGALEDQR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">PVRW</span><span class="topo-membrane">WRVLPVKFFGGLGTLGGG</span><span class="topo-outside">M</span><span class="topo-membrane">VLGRQGPTVQIGGNIGRMV</span><span class="topo-inside">LDIFRLKGDEARHTL</span><span class="topo-membrane">LATGAAAGLAAAFN</span><span class="topo-outside">A</span><span class="topo-membrane">PLAGILFIIEQMR</span><span class="topo-inside">PQFRYTL</span><span class="topo-membrane">ISIKAVFIGVIMSTIMYRIFN</span><span class="topo-outside">HEVALID</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">VGKLSDAPL</span><span class="topo-membrane">NTLWLYLILGIIFGIFGPIFNKWVLGMQ</span><span class="topo-unknown">DLLHRVH</span><span class="topo-inside">GGNI</span><span class="topo-membrane">TKWVLMGGAIGGLCGLLG</span><span class="topo-outside">FVAPATSGGG</span><span class="topo-unknown">FNLIPIAT</span><span class="topo-outside">AGNFSMGML</span><span class="topo-membrane">VFIFVARVITTLLCFSSG</span><span class="topo-inside">A</span><span class="topo-membrane">PGGIFAPM</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">LALGTVLGTAFG</span><span class="topo-outside">MVAVELFPQYHLEAGT</span><span class="topo-membrane">FAIAGMGALLAASIR</span><span class="topo-inside">A</span><span class="topo-membrane">PLTGIILVLEMTDNY</span><span class="topo-outside">Q</span><span class="topo-membrane">LILPMIITGLGATLLAQFTGGK</span><span class="topo-inside">PLYSAILARTLAKQEAEQLARS</span><span class="topo-unknown">KAASKGSGTLVPRGSG</span></span>
+<span class="topo-ruler">         </span>
 <span class="topo-line"><span class="topo-unknown">GLEHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (32 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -636,6 +641,7 @@ CLC-ec1 is a prokaryotic CLC Cl-/H+ antiporter from Escherichia coli that has se
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -755,14 +761,15 @@ CLC-ec1 is a prokaryotic CLC Cl-/H+ antiporter from Escherichia coli that has se
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MKTDTPSLETPQAARL</span><span class="topo-outside">RRRQLIRQLLERDKTPLAIL</span><span class="topo-membrane">FMAAVVGTLVGLAAVAFDKGVAWL</span></span>
-<span class="topo-line"><span class="topo-inside">QNQRMGALVHTADNYPLLLTVAF</span><span class="topo-membrane">LCSAVLAMFGYFLV</span><span class="topo-outside">RKYAPEAGGSGIPEIEGALEDQR</span></span>
-<span class="topo-line"><span class="topo-outside">PVRWWRVL</span><span class="topo-membrane">PVKFFGGLGTLGGG</span><span class="topo-inside">M</span><span class="topo-membrane">VLGREGPTVQIGG</span><span class="topo-outside">NIGRMVLDIFRLKGDEARHTLLAT</span></span>
-<span class="topo-line"><span class="topo-unknown">GAAAGLAAAFNAPLAGILFIIEE</span><span class="topo-outside">MRPQFRYTLISI</span><span class="topo-membrane">KAVFIGVIMSTIMYRIF</span><span class="topo-inside">NHEVALID</span></span>
-<span class="topo-line"><span class="topo-inside">VGKLSDAPLNTL</span><span class="topo-membrane">WLYLILGIIFGIFGPIFNKWVLGMQ</span><span class="topo-unknown">DLLHRVH</span><span class="topo-outside">GGNIT</span><span class="topo-membrane">KWVLMGGAIGG</span></span>
-<span class="topo-line"><span class="topo-membrane">LCGL</span><span class="topo-inside">LGFVAPATSGGG</span><span class="topo-unknown">FNLIPIATA</span><span class="topo-inside">GNFSMGMLVFIF</span><span class="topo-membrane">VARVITTLLCFSSG</span><span class="topo-outside">A</span><span class="topo-membrane">PGGIFAPM</span></span>
-<span class="topo-line"><span class="topo-membrane">LALGT</span><span class="topo-inside">VLGTAFGMVAVELFPQYHLEAGTFAIA</span><span class="topo-unknown">GMGALLAASIRAPLTGIILVLEM</span><span class="topo-inside">TDNYQ</span></span>
-<span class="topo-line"><span class="topo-inside">LI</span><span class="topo-membrane">LPMIITGLGATLLAQFT</span><span class="topo-outside">GGKPLYSAILARTLAKQEAEQ</span><span class="topo-unknown">LARSK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MKTDTPSLETPQAARL</span><span class="topo-outside">RRRQLIRQLLERDKTPLAIL</span><span class="topo-membrane">FMAAVVGTLVGLAAVAFDKGVAWL</span><span class="topo-inside">QNQRMGALVHTADNYPLLLTVAF</span><span class="topo-membrane">LCSAVLAMFGYFLV</span><span class="topo-outside">RKYAPEAGGSGIPEIEGALEDQR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">PVRWWRVL</span><span class="topo-membrane">PVKFFGGLGTLGGG</span><span class="topo-inside">M</span><span class="topo-membrane">VLGREGPTVQIGG</span><span class="topo-outside">NIGRMVLDIFRLKGDEARHTLLAT</span><span class="topo-unknown">GAAAGLAAAFNAPLAGILFIIEE</span><span class="topo-outside">MRPQFRYTLISI</span><span class="topo-membrane">KAVFIGVIMSTIMYRIF</span><span class="topo-inside">NHEVALID</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">VGKLSDAPLNTL</span><span class="topo-membrane">WLYLILGIIFGIFGPIFNKWVLGMQ</span><span class="topo-unknown">DLLHRVH</span><span class="topo-outside">GGNIT</span><span class="topo-membrane">KWVLMGGAIGGLCGL</span><span class="topo-inside">LGFVAPATSGGG</span><span class="topo-unknown">FNLIPIATA</span><span class="topo-inside">GNFSMGMLVFIF</span><span class="topo-membrane">VARVITTLLCFSSG</span><span class="topo-outside">A</span><span class="topo-membrane">PGGIFAPM</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460     </span>
+<span class="topo-line"><span class="topo-membrane">LALGT</span><span class="topo-inside">VLGTAFGMVAVELFPQYHLEAGTFAIA</span><span class="topo-unknown">GMGALLAASIRAPLTGIILVLEM</span><span class="topo-inside">TDNYQLI</span><span class="topo-membrane">LPMIITGLGATLLAQFT</span><span class="topo-outside">GGKPLYSAILARTLAKQEAEQ</span><span class="topo-unknown">LARSK</span></span>
+<details class="topo-details"><summary>Topology coordinates (30 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -984,6 +991,7 @@ CLC-ec1 is a prokaryotic CLC Cl-/H+ antiporter from Escherichia coli that has se
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -999,14 +1007,15 @@ CLC-ec1 is a prokaryotic CLC Cl-/H+ antiporter from Escherichia coli that has se
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MKTDTPSLETPQAARLR</span><span class="topo-outside">RRQLIRQLLERDKTPLAIL</span><span class="topo-membrane">FMAAVVGTLVGLAAVAFDKGVAWL</span></span>
-<span class="topo-line"><span class="topo-inside">QNQRMGALVHTADNYPLLLTVAF</span><span class="topo-membrane">LCSAVLAMFGYFLV</span><span class="topo-outside">RKYAPEAGGSGIPEIEGALEDQR</span></span>
-<span class="topo-line"><span class="topo-outside">PVRWWRVL</span><span class="topo-membrane">PVKFFGGLGTLGGG</span><span class="topo-inside">M</span><span class="topo-membrane">VLGREGPTVQIGG</span><span class="topo-outside">NIGRMVLDIFRLKGDEARHTLLAT</span></span>
-<span class="topo-line"><span class="topo-unknown">GAAAGLAAAFNAPLAGILFIIEE</span><span class="topo-outside">MRPQFRYTLISI</span><span class="topo-membrane">KAVFIGVIMSTIMYRI</span><span class="topo-inside">FNHEVALID</span></span>
-<span class="topo-line"><span class="topo-inside">VGKLSDAPLNTL</span><span class="topo-membrane">WLYLILGIIFGIFGPIFNKWV</span><span class="topo-unknown">LGMQDLLHRVH</span><span class="topo-outside">GGNIT</span><span class="topo-membrane">KWVLMGGAIGG</span></span>
-<span class="topo-line"><span class="topo-membrane">LCGL</span><span class="topo-inside">LGFVAPATSGGG</span><span class="topo-unknown">FNLIPIAT</span><span class="topo-inside">AGNFSMGMLVFIF</span><span class="topo-membrane">VARVITTLLCFSSG</span><span class="topo-outside">A</span><span class="topo-membrane">PGGIFAPM</span></span>
-<span class="topo-line"><span class="topo-membrane">LALGT</span><span class="topo-inside">VLGTAFGMVAVELFPQYHLEAGTFAIA</span><span class="topo-unknown">GMGALLAASIRAPLTGIILVLEM</span><span class="topo-inside">TDNYQ</span></span>
-<span class="topo-line"><span class="topo-inside">LI</span><span class="topo-membrane">LPMIITGLGATLLAQFT</span><span class="topo-outside">GGKPLYSAILARTLAKQEA</span><span class="topo-unknown">EQLARSK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MKTDTPSLETPQAARLR</span><span class="topo-outside">RRQLIRQLLERDKTPLAIL</span><span class="topo-membrane">FMAAVVGTLVGLAAVAFDKGVAWL</span><span class="topo-inside">QNQRMGALVHTADNYPLLLTVAF</span><span class="topo-membrane">LCSAVLAMFGYFLV</span><span class="topo-outside">RKYAPEAGGSGIPEIEGALEDQR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">PVRWWRVL</span><span class="topo-membrane">PVKFFGGLGTLGGG</span><span class="topo-inside">M</span><span class="topo-membrane">VLGREGPTVQIGG</span><span class="topo-outside">NIGRMVLDIFRLKGDEARHTLLAT</span><span class="topo-unknown">GAAAGLAAAFNAPLAGILFIIEE</span><span class="topo-outside">MRPQFRYTLISI</span><span class="topo-membrane">KAVFIGVIMSTIMYRI</span><span class="topo-inside">FNHEVALID</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">VGKLSDAPLNTL</span><span class="topo-membrane">WLYLILGIIFGIFGPIFNKWV</span><span class="topo-unknown">LGMQDLLHRVH</span><span class="topo-outside">GGNIT</span><span class="topo-membrane">KWVLMGGAIGGLCGL</span><span class="topo-inside">LGFVAPATSGGG</span><span class="topo-unknown">FNLIPIAT</span><span class="topo-inside">AGNFSMGMLVFIF</span><span class="topo-membrane">VARVITTLLCFSSG</span><span class="topo-outside">A</span><span class="topo-membrane">PGGIFAPM</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460     </span>
+<span class="topo-line"><span class="topo-membrane">LALGT</span><span class="topo-inside">VLGTAFGMVAVELFPQYHLEAGTFAIA</span><span class="topo-unknown">GMGALLAASIRAPLTGIILVLEM</span><span class="topo-inside">TDNYQLI</span><span class="topo-membrane">LPMIITGLGATLLAQFT</span><span class="topo-outside">GGKPLYSAILARTLAKQEA</span><span class="topo-unknown">EQLARSK</span></span>
+<details class="topo-details"><summary>Topology coordinates (30 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1228,6 +1237,7 @@ CLC-ec1 is a prokaryotic CLC Cl-/H+ antiporter from Escherichia coli that has se
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1292,14 +1302,15 @@ CLC-ec1 is a prokaryotic CLC Cl-/H+ antiporter from Escherichia coli that has se
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MKTDTPSLETPQAARL</span><span class="topo-outside">RRRQLIRQLLERDKTPLAIL</span><span class="topo-membrane">FMAAVVGTLVGLAAVAFDKGVAWL</span></span>
-<span class="topo-line"><span class="topo-inside">QNQRMGALVHTADNYPLLLTVAF</span><span class="topo-membrane">LCSAVLAMFGYFLV</span><span class="topo-outside">RKYAPEAGGSGIPEIEGALEDQR</span></span>
-<span class="topo-line"><span class="topo-outside">PVRWWRV</span><span class="topo-membrane">LPVKFFGGLGTLGGG</span><span class="topo-inside">M</span><span class="topo-membrane">VLGRDGPTVQIGGNIG</span><span class="topo-outside">RMVLDIFRLKGDEARHTLLA</span><span class="topo-unknown">T</span></span>
-<span class="topo-line"><span class="topo-unknown">GAAAGLAAAFNAPLAGILFIIEEM</span><span class="topo-outside">RPQFRYTLISI</span><span class="topo-membrane">KAVFIGVIMSTIMYRIF</span><span class="topo-inside">NHEVALID</span></span>
-<span class="topo-line"><span class="topo-inside">VGKLSDAPLNTL</span><span class="topo-membrane">WLYLILGIIFGIFGPIFNKWVLGMQ</span><span class="topo-outside">DLLHRVHGGNIT</span><span class="topo-membrane">KWVLMGGAIGG</span></span>
-<span class="topo-line"><span class="topo-membrane">LCGL</span><span class="topo-inside">LGFVAPATSGGGFNLIPIATAGNFSMGMLVFIF</span><span class="topo-membrane">VARVITTLLCFSSG</span><span class="topo-outside">A</span><span class="topo-membrane">PGGIFAPM</span></span>
-<span class="topo-line"><span class="topo-membrane">LALGT</span><span class="topo-inside">VLGTAFGMVAVELFPQYHLEAGTFAIA</span><span class="topo-unknown">GMGALLAASIRAPLTGIILVLEM</span><span class="topo-inside">TDNYQ</span></span>
-<span class="topo-line"><span class="topo-inside">LI</span><span class="topo-membrane">LPMIITGLGATLLAQFTGG</span><span class="topo-outside">KPLYSAILARTLAKQEAEQ</span><span class="topo-unknown">LARSKAASASENT</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MKTDTPSLETPQAARL</span><span class="topo-outside">RRRQLIRQLLERDKTPLAIL</span><span class="topo-membrane">FMAAVVGTLVGLAAVAFDKGVAWL</span><span class="topo-inside">QNQRMGALVHTADNYPLLLTVAF</span><span class="topo-membrane">LCSAVLAMFGYFLV</span><span class="topo-outside">RKYAPEAGGSGIPEIEGALEDQR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">PVRWWRV</span><span class="topo-membrane">LPVKFFGGLGTLGGG</span><span class="topo-inside">M</span><span class="topo-membrane">VLGRDGPTVQIGGNIG</span><span class="topo-outside">RMVLDIFRLKGDEARHTLLA</span><span class="topo-unknown">TGAAAGLAAAFNAPLAGILFIIEEM</span><span class="topo-outside">RPQFRYTLISI</span><span class="topo-membrane">KAVFIGVIMSTIMYRIF</span><span class="topo-inside">NHEVALID</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">VGKLSDAPLNTL</span><span class="topo-membrane">WLYLILGIIFGIFGPIFNKWVLGMQ</span><span class="topo-outside">DLLHRVHGGNIT</span><span class="topo-membrane">KWVLMGGAIGGLCGL</span><span class="topo-inside">LGFVAPATSGGGFNLIPIATAGNFSMGMLVFIF</span><span class="topo-membrane">VARVITTLLCFSSG</span><span class="topo-outside">A</span><span class="topo-membrane">PGGIFAPM</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470   </span>
+<span class="topo-line"><span class="topo-membrane">LALGT</span><span class="topo-inside">VLGTAFGMVAVELFPQYHLEAGTFAIA</span><span class="topo-unknown">GMGALLAASIRAPLTGIILVLEM</span><span class="topo-inside">TDNYQLI</span><span class="topo-membrane">LPMIITGLGATLLAQFTGG</span><span class="topo-outside">KPLYSAILARTLAKQEAEQ</span><span class="topo-unknown">LARSKAASASENT</span></span>
+<details class="topo-details"><summary>Topology coordinates (27 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1500,6 +1511,7 @@ CLC-ec1 is a prokaryotic CLC Cl-/H+ antiporter from Escherichia coli that has se
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1515,14 +1527,15 @@ CLC-ec1 is a prokaryotic CLC Cl-/H+ antiporter from Escherichia coli that has se
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MKTDTPSLETPQAARL</span><span class="topo-outside">RRRQLIRQLLERDKTPLAIL</span><span class="topo-membrane">FMAAVVGTLVGLAAVAFDKGVAWL</span></span>
-<span class="topo-line"><span class="topo-inside">QNQRMGALVHTADNYPLLLTVAF</span><span class="topo-membrane">LCSAVLAMFGYFLV</span><span class="topo-outside">RKYAPEAGGSGIPEIEGALEDQR</span></span>
-<span class="topo-line"><span class="topo-outside">PVRWWRV</span><span class="topo-membrane">LPVKFFGGLGTLGGG</span><span class="topo-inside">M</span><span class="topo-membrane">VLGRDGPTVQIGGNIG</span><span class="topo-outside">RMVLDIFRLKGDEARHTLLA</span><span class="topo-unknown">T</span></span>
-<span class="topo-line"><span class="topo-unknown">GAAAGLAAAFNAPLAGILFIIEEM</span><span class="topo-outside">RPQFRYTLISI</span><span class="topo-membrane">KAVFIGVIMSTIMYRIF</span><span class="topo-inside">NHEVALID</span></span>
-<span class="topo-line"><span class="topo-inside">VGKLSDAPLNTL</span><span class="topo-membrane">WLYLILGIIFGIFGPIFNKWVLGMQ</span><span class="topo-outside">DLLHRVHGGNIT</span><span class="topo-membrane">KWVLMGGAIGG</span></span>
-<span class="topo-line"><span class="topo-membrane">LCGL</span><span class="topo-inside">LGFVAPATSGGGFNLIPIATAGNFSMGMLVFIF</span><span class="topo-membrane">VARVITTLLCFSSG</span><span class="topo-outside">A</span><span class="topo-membrane">PGGIFAPM</span></span>
-<span class="topo-line"><span class="topo-membrane">LALGTVLG</span><span class="topo-inside">TAFGMVAVELFPQYHLEAGTFAIA</span><span class="topo-unknown">GMGALLAASIRAPLTGIILVLEM</span><span class="topo-inside">TDNYQ</span></span>
-<span class="topo-line"><span class="topo-inside">LI</span><span class="topo-membrane">LPMIITGLGATLLAQFTGGK</span><span class="topo-outside">PLYSAILARTLAKQEA</span><span class="topo-unknown">EQLARSKAASASENT</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MKTDTPSLETPQAARL</span><span class="topo-outside">RRRQLIRQLLERDKTPLAIL</span><span class="topo-membrane">FMAAVVGTLVGLAAVAFDKGVAWL</span><span class="topo-inside">QNQRMGALVHTADNYPLLLTVAF</span><span class="topo-membrane">LCSAVLAMFGYFLV</span><span class="topo-outside">RKYAPEAGGSGIPEIEGALEDQR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">PVRWWRV</span><span class="topo-membrane">LPVKFFGGLGTLGGG</span><span class="topo-inside">M</span><span class="topo-membrane">VLGRDGPTVQIGGNIG</span><span class="topo-outside">RMVLDIFRLKGDEARHTLLA</span><span class="topo-unknown">TGAAAGLAAAFNAPLAGILFIIEEM</span><span class="topo-outside">RPQFRYTLISI</span><span class="topo-membrane">KAVFIGVIMSTIMYRIF</span><span class="topo-inside">NHEVALID</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">VGKLSDAPLNTL</span><span class="topo-membrane">WLYLILGIIFGIFGPIFNKWVLGMQ</span><span class="topo-outside">DLLHRVHGGNIT</span><span class="topo-membrane">KWVLMGGAIGGLCGL</span><span class="topo-inside">LGFVAPATSGGGFNLIPIATAGNFSMGMLVFIF</span><span class="topo-membrane">VARVITTLLCFSSG</span><span class="topo-outside">A</span><span class="topo-membrane">PGGIFAPM</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470   </span>
+<span class="topo-line"><span class="topo-membrane">LALGTVLG</span><span class="topo-inside">TAFGMVAVELFPQYHLEAGTFAIA</span><span class="topo-unknown">GMGALLAASIRAPLTGIILVLEM</span><span class="topo-inside">TDNYQLI</span><span class="topo-membrane">LPMIITGLGATLLAQFTGGK</span><span class="topo-outside">PLYSAILARTLAKQEA</span><span class="topo-unknown">EQLARSKAASASENT</span></span>
+<details class="topo-details"><summary>Topology coordinates (27 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1723,6 +1736,7 @@ CLC-ec1 is a prokaryotic CLC Cl-/H+ antiporter from Escherichia coli that has se
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1738,14 +1752,15 @@ CLC-ec1 is a prokaryotic CLC Cl-/H+ antiporter from Escherichia coli that has se
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MKTDTPSLETPQAARL</span><span class="topo-outside">RRRQLIRQLLERDKTPLAIL</span><span class="topo-membrane">FMAAVVGTLVGLAAVAFDKGVAWL</span></span>
-<span class="topo-line"><span class="topo-inside">QNQRMGALVHTADNYPLLLTVAF</span><span class="topo-membrane">LCSAVLAMFGYFLV</span><span class="topo-outside">RKYAPEAGGSGIPEIEGALEDQR</span></span>
-<span class="topo-line"><span class="topo-outside">PVRWWRV</span><span class="topo-membrane">LPVKFFGGLGTLGGG</span><span class="topo-inside">M</span><span class="topo-membrane">VLGRDGPTVQIGGNIG</span><span class="topo-outside">RMVLDIFRLKGDEARHTLLA</span><span class="topo-unknown">T</span></span>
-<span class="topo-line"><span class="topo-unknown">GAAAGLAAAFNAPLAGILFIIEEM</span><span class="topo-outside">RPQFRYTLISI</span><span class="topo-membrane">KAVFIGVIMSTIMYRIF</span><span class="topo-inside">NHEVALID</span></span>
-<span class="topo-line"><span class="topo-inside">VGKLSDAPLNTL</span><span class="topo-membrane">WLYLILGIIFGIFGPIFNKWVLGMQ</span><span class="topo-outside">DLLHRVHGGNIT</span><span class="topo-membrane">KWVLMGGAIGG</span></span>
-<span class="topo-line"><span class="topo-membrane">LCGL</span><span class="topo-inside">LGFVAPATSGGGFNLIPIATAGNFSMGMLVFIF</span><span class="topo-membrane">VARVITTLLCFSSG</span><span class="topo-outside">A</span><span class="topo-membrane">PGGIFAPM</span></span>
-<span class="topo-line"><span class="topo-membrane">LALGT</span><span class="topo-inside">VLGTAFGMVAVELFPQYHLEAGTFAIA</span><span class="topo-unknown">GMGALLAASIRAPLTGIILVLEM</span><span class="topo-inside">TDNYQ</span></span>
-<span class="topo-line"><span class="topo-inside">LI</span><span class="topo-membrane">LPMIITGLGATLLAQFTGG</span><span class="topo-outside">KPLYSAILARTLAKQEAEQ</span><span class="topo-unknown">LARSKAASASENT</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MKTDTPSLETPQAARL</span><span class="topo-outside">RRRQLIRQLLERDKTPLAIL</span><span class="topo-membrane">FMAAVVGTLVGLAAVAFDKGVAWL</span><span class="topo-inside">QNQRMGALVHTADNYPLLLTVAF</span><span class="topo-membrane">LCSAVLAMFGYFLV</span><span class="topo-outside">RKYAPEAGGSGIPEIEGALEDQR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">PVRWWRV</span><span class="topo-membrane">LPVKFFGGLGTLGGG</span><span class="topo-inside">M</span><span class="topo-membrane">VLGRDGPTVQIGGNIG</span><span class="topo-outside">RMVLDIFRLKGDEARHTLLA</span><span class="topo-unknown">TGAAAGLAAAFNAPLAGILFIIEEM</span><span class="topo-outside">RPQFRYTLISI</span><span class="topo-membrane">KAVFIGVIMSTIMYRIF</span><span class="topo-inside">NHEVALID</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">VGKLSDAPLNTL</span><span class="topo-membrane">WLYLILGIIFGIFGPIFNKWVLGMQ</span><span class="topo-outside">DLLHRVHGGNIT</span><span class="topo-membrane">KWVLMGGAIGGLCGL</span><span class="topo-inside">LGFVAPATSGGGFNLIPIATAGNFSMGMLVFIF</span><span class="topo-membrane">VARVITTLLCFSSG</span><span class="topo-outside">A</span><span class="topo-membrane">PGGIFAPM</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470   </span>
+<span class="topo-line"><span class="topo-membrane">LALGT</span><span class="topo-inside">VLGTAFGMVAVELFPQYHLEAGTFAIA</span><span class="topo-unknown">GMGALLAASIRAPLTGIILVLEM</span><span class="topo-inside">TDNYQLI</span><span class="topo-membrane">LPMIITGLGATLLAQFTGG</span><span class="topo-outside">KPLYSAILARTLAKQEAEQ</span><span class="topo-unknown">LARSKAASASENT</span></span>
+<details class="topo-details"><summary>Topology coordinates (27 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1946,6 +1961,7 @@ CLC-ec1 is a prokaryotic CLC Cl-/H+ antiporter from Escherichia coli that has se
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1961,14 +1977,15 @@ CLC-ec1 is a prokaryotic CLC Cl-/H+ antiporter from Escherichia coli that has se
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MKTDTPSLETPQAARL</span><span class="topo-outside">RRRQLIRQLLERDKTPLAIL</span><span class="topo-membrane">FMAAVVGTLVGLAAVAFDKGVAWL</span></span>
-<span class="topo-line"><span class="topo-inside">QNQRMGALVHTADNYPLLLTVAF</span><span class="topo-membrane">LCSAVLAMFGYFLV</span><span class="topo-outside">RKYAPEAGGSGIPEIEGALEDQR</span></span>
-<span class="topo-line"><span class="topo-outside">PVRWWRV</span><span class="topo-membrane">LPVKFFGGLGTLGGG</span><span class="topo-inside">M</span><span class="topo-membrane">VLGRDGPTVQIGGNIG</span><span class="topo-outside">RMVLDIFRLKGDEARHTLLA</span><span class="topo-unknown">T</span></span>
-<span class="topo-line"><span class="topo-unknown">GAAAGLAAAFNAPLAGILFIIEEM</span><span class="topo-outside">RPQFRYTLISI</span><span class="topo-membrane">KAVFIGVIMSTIMYRIF</span><span class="topo-inside">NHEVALID</span></span>
-<span class="topo-line"><span class="topo-inside">VGKLSDAPLNTL</span><span class="topo-membrane">WLYLILGIIFGIFGPIFNKWVLGMQ</span><span class="topo-outside">DLLHRVHGGNIT</span><span class="topo-membrane">KWVLMGGAIGG</span></span>
-<span class="topo-line"><span class="topo-membrane">LCGL</span><span class="topo-inside">LGFVAPATSGGGFNLIPIATAGNFSMGMLVFIF</span><span class="topo-membrane">VARVITTLLCFSSG</span><span class="topo-outside">A</span><span class="topo-membrane">PGGIFAPM</span></span>
-<span class="topo-line"><span class="topo-membrane">LALGTVLG</span><span class="topo-inside">TAFGMVAVELFPQYHLEAGTFAIA</span><span class="topo-unknown">GMGALLAASIRAPLTGIILVLEM</span><span class="topo-inside">TDNYQ</span></span>
-<span class="topo-line"><span class="topo-inside">LI</span><span class="topo-membrane">LPMIITGLGATLLAQFTGGK</span><span class="topo-outside">PLYSAILARTLAKQEA</span><span class="topo-unknown">EQLARSKAASASENT</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MKTDTPSLETPQAARL</span><span class="topo-outside">RRRQLIRQLLERDKTPLAIL</span><span class="topo-membrane">FMAAVVGTLVGLAAVAFDKGVAWL</span><span class="topo-inside">QNQRMGALVHTADNYPLLLTVAF</span><span class="topo-membrane">LCSAVLAMFGYFLV</span><span class="topo-outside">RKYAPEAGGSGIPEIEGALEDQR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">PVRWWRV</span><span class="topo-membrane">LPVKFFGGLGTLGGG</span><span class="topo-inside">M</span><span class="topo-membrane">VLGRDGPTVQIGGNIG</span><span class="topo-outside">RMVLDIFRLKGDEARHTLLA</span><span class="topo-unknown">TGAAAGLAAAFNAPLAGILFIIEEM</span><span class="topo-outside">RPQFRYTLISI</span><span class="topo-membrane">KAVFIGVIMSTIMYRIF</span><span class="topo-inside">NHEVALID</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">VGKLSDAPLNTL</span><span class="topo-membrane">WLYLILGIIFGIFGPIFNKWVLGMQ</span><span class="topo-outside">DLLHRVHGGNIT</span><span class="topo-membrane">KWVLMGGAIGGLCGL</span><span class="topo-inside">LGFVAPATSGGGFNLIPIATAGNFSMGMLVFIF</span><span class="topo-membrane">VARVITTLLCFSSG</span><span class="topo-outside">A</span><span class="topo-membrane">PGGIFAPM</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470   </span>
+<span class="topo-line"><span class="topo-membrane">LALGTVLG</span><span class="topo-inside">TAFGMVAVELFPQYHLEAGTFAIA</span><span class="topo-unknown">GMGALLAASIRAPLTGIILVLEM</span><span class="topo-inside">TDNYQLI</span><span class="topo-membrane">LPMIITGLGATLLAQFTGGK</span><span class="topo-outside">PLYSAILARTLAKQEA</span><span class="topo-unknown">EQLARSKAASASENT</span></span>
+<details class="topo-details"><summary>Topology coordinates (27 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2169,6 +2186,7 @@ CLC-ec1 is a prokaryotic CLC Cl-/H+ antiporter from Escherichia coli that has se
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2184,14 +2202,15 @@ CLC-ec1 is a prokaryotic CLC Cl-/H+ antiporter from Escherichia coli that has se
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MKTDTPSLETPQAARL</span><span class="topo-outside">RRRQLIRQLLERDKTPLAIL</span><span class="topo-membrane">FMAAVVGTLVGLAAVAFDKGVAWL</span></span>
-<span class="topo-line"><span class="topo-inside">QNQRMGALVHTADNYPLLLTVAF</span><span class="topo-membrane">LCSAVLAMFGYFLV</span><span class="topo-outside">RKYAPEAGGSGIPEIEGALEDQR</span></span>
-<span class="topo-line"><span class="topo-outside">PVRWWRV</span><span class="topo-membrane">LPVKFFGGLGTLGGG</span><span class="topo-inside">M</span><span class="topo-membrane">VLGRDGPTVQIGGNIG</span><span class="topo-outside">RMVLDIFRLKGDEARHTLLA</span><span class="topo-unknown">T</span></span>
-<span class="topo-line"><span class="topo-unknown">GAAAGLAAAFNAPLAGILFIIEEM</span><span class="topo-outside">RPQFRYTLISI</span><span class="topo-membrane">KAVFIGVIMSTIMYRIF</span><span class="topo-inside">NHEVALID</span></span>
-<span class="topo-line"><span class="topo-inside">VGKLSDAPLNTL</span><span class="topo-membrane">WLYLILGIIFGIFGPIFNKWVLGMQ</span><span class="topo-outside">DLLHRVHGGNIT</span><span class="topo-membrane">KWVLMGGAIGG</span></span>
-<span class="topo-line"><span class="topo-membrane">LCGL</span><span class="topo-inside">LGFVAPATSGGGFNLIPIATAGNFSMGMLVFIF</span><span class="topo-membrane">VARVITTLLCFSSG</span><span class="topo-outside">A</span><span class="topo-membrane">PGGIFAPM</span></span>
-<span class="topo-line"><span class="topo-membrane">LALGT</span><span class="topo-inside">VLGTAFGMVAVELFPQYHLEAGTFAIA</span><span class="topo-unknown">GMGALLAASIRAPLTGIILVLEM</span><span class="topo-inside">TDNYQ</span></span>
-<span class="topo-line"><span class="topo-inside">LI</span><span class="topo-membrane">LPMIITGLGATLLAQFTGG</span><span class="topo-outside">KPLYSAILARTLAKQEAEQ</span><span class="topo-unknown">LARSKAASASENT</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MKTDTPSLETPQAARL</span><span class="topo-outside">RRRQLIRQLLERDKTPLAIL</span><span class="topo-membrane">FMAAVVGTLVGLAAVAFDKGVAWL</span><span class="topo-inside">QNQRMGALVHTADNYPLLLTVAF</span><span class="topo-membrane">LCSAVLAMFGYFLV</span><span class="topo-outside">RKYAPEAGGSGIPEIEGALEDQR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">PVRWWRV</span><span class="topo-membrane">LPVKFFGGLGTLGGG</span><span class="topo-inside">M</span><span class="topo-membrane">VLGRDGPTVQIGGNIG</span><span class="topo-outside">RMVLDIFRLKGDEARHTLLA</span><span class="topo-unknown">TGAAAGLAAAFNAPLAGILFIIEEM</span><span class="topo-outside">RPQFRYTLISI</span><span class="topo-membrane">KAVFIGVIMSTIMYRIF</span><span class="topo-inside">NHEVALID</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">VGKLSDAPLNTL</span><span class="topo-membrane">WLYLILGIIFGIFGPIFNKWVLGMQ</span><span class="topo-outside">DLLHRVHGGNIT</span><span class="topo-membrane">KWVLMGGAIGGLCGL</span><span class="topo-inside">LGFVAPATSGGGFNLIPIATAGNFSMGMLVFIF</span><span class="topo-membrane">VARVITTLLCFSSG</span><span class="topo-outside">A</span><span class="topo-membrane">PGGIFAPM</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470   </span>
+<span class="topo-line"><span class="topo-membrane">LALGT</span><span class="topo-inside">VLGTAFGMVAVELFPQYHLEAGTFAIA</span><span class="topo-unknown">GMGALLAASIRAPLTGIILVLEM</span><span class="topo-inside">TDNYQLI</span><span class="topo-membrane">LPMIITGLGATLLAQFTGG</span><span class="topo-outside">KPLYSAILARTLAKQEAEQ</span><span class="topo-unknown">LARSKAASASENT</span></span>
+<details class="topo-details"><summary>Topology coordinates (27 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2392,6 +2411,7 @@ CLC-ec1 is a prokaryotic CLC Cl-/H+ antiporter from Escherichia coli that has se
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2407,14 +2427,15 @@ CLC-ec1 is a prokaryotic CLC Cl-/H+ antiporter from Escherichia coli that has se
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MKTDTPSLETPQAARL</span><span class="topo-outside">RRRQLIRQLLERDKTPLAIL</span><span class="topo-membrane">FMAAVVGTLVGLAAVAFDKGVAWL</span></span>
-<span class="topo-line"><span class="topo-inside">QNQRMGALVHTADNYPLLLTVAF</span><span class="topo-membrane">LCSAVLAMFGYFLV</span><span class="topo-outside">RKYAPEAGGSGIPEIEGALEDQR</span></span>
-<span class="topo-line"><span class="topo-outside">PVRWWRV</span><span class="topo-membrane">LPVKFFGGLGTLGGG</span><span class="topo-inside">M</span><span class="topo-membrane">VLGRDGPTVQIGGNIG</span><span class="topo-outside">RMVLDIFRLKGDEARHTLLA</span><span class="topo-unknown">T</span></span>
-<span class="topo-line"><span class="topo-unknown">GAAAGLAAAFNAPLAGILFIIEEM</span><span class="topo-outside">RPQFRYTLISI</span><span class="topo-membrane">KAVFIGVIMSTIMYRIF</span><span class="topo-inside">NHEVALID</span></span>
-<span class="topo-line"><span class="topo-inside">VGKLSDAPLNTL</span><span class="topo-membrane">WLYLILGIIFGIFGPIFNKWVLGMQ</span><span class="topo-outside">DLLHRVHGGNIT</span><span class="topo-membrane">KWVLMGGAIGG</span></span>
-<span class="topo-line"><span class="topo-membrane">LCGL</span><span class="topo-inside">LGFVAPATSGGGFNLIPIATAGNFSMGMLVFIF</span><span class="topo-membrane">VARVITTLLCFSSG</span><span class="topo-outside">A</span><span class="topo-membrane">PGGIFAPM</span></span>
-<span class="topo-line"><span class="topo-membrane">LALGTVLG</span><span class="topo-inside">TAFGMVAVELFPQYHLEAGTFAIA</span><span class="topo-unknown">GMGALLAASIRAPLTGIILVLEM</span><span class="topo-inside">TDNYQ</span></span>
-<span class="topo-line"><span class="topo-inside">LI</span><span class="topo-membrane">LPMIITGLGATLLAQFTGGK</span><span class="topo-outside">PLYSAILARTLAKQEA</span><span class="topo-unknown">EQLARSKAASASENT</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MKTDTPSLETPQAARL</span><span class="topo-outside">RRRQLIRQLLERDKTPLAIL</span><span class="topo-membrane">FMAAVVGTLVGLAAVAFDKGVAWL</span><span class="topo-inside">QNQRMGALVHTADNYPLLLTVAF</span><span class="topo-membrane">LCSAVLAMFGYFLV</span><span class="topo-outside">RKYAPEAGGSGIPEIEGALEDQR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">PVRWWRV</span><span class="topo-membrane">LPVKFFGGLGTLGGG</span><span class="topo-inside">M</span><span class="topo-membrane">VLGRDGPTVQIGGNIG</span><span class="topo-outside">RMVLDIFRLKGDEARHTLLA</span><span class="topo-unknown">TGAAAGLAAAFNAPLAGILFIIEEM</span><span class="topo-outside">RPQFRYTLISI</span><span class="topo-membrane">KAVFIGVIMSTIMYRIF</span><span class="topo-inside">NHEVALID</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">VGKLSDAPLNTL</span><span class="topo-membrane">WLYLILGIIFGIFGPIFNKWVLGMQ</span><span class="topo-outside">DLLHRVHGGNIT</span><span class="topo-membrane">KWVLMGGAIGGLCGL</span><span class="topo-inside">LGFVAPATSGGGFNLIPIATAGNFSMGMLVFIF</span><span class="topo-membrane">VARVITTLLCFSSG</span><span class="topo-outside">A</span><span class="topo-membrane">PGGIFAPM</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470   </span>
+<span class="topo-line"><span class="topo-membrane">LALGTVLG</span><span class="topo-inside">TAFGMVAVELFPQYHLEAGTFAIA</span><span class="topo-unknown">GMGALLAASIRAPLTGIILVLEM</span><span class="topo-inside">TDNYQLI</span><span class="topo-membrane">LPMIITGLGATLLAQFTGGK</span><span class="topo-outside">PLYSAILARTLAKQEA</span><span class="topo-unknown">EQLARSKAASASENT</span></span>
+<details class="topo-details"><summary>Topology coordinates (27 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2615,6 +2636,7 @@ CLC-ec1 is a prokaryotic CLC Cl-/H+ antiporter from Escherichia coli that has se
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2834,14 +2856,15 @@ CLC-ec1 is a prokaryotic CLC Cl-/H+ antiporter from Escherichia coli that has se
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MKTDTPSLETPQAARLRRRQL</span><span class="topo-outside">IRQLLERDKTPLAIL</span><span class="topo-membrane">FMAAVVGTLVGLAAVAFDKGVAWL</span></span>
-<span class="topo-line"><span class="topo-membrane">Q</span><span class="topo-inside">NQRMGALVHTADNYPLLLT</span><span class="topo-membrane">VAFLCSAVLAMFGYFLV</span><span class="topo-outside">RKYAPEAGGSGIPEIEGALEDQR</span></span>
-<span class="topo-line"><span class="topo-outside">PVRWWRVL</span><span class="topo-membrane">PVKFFGGLGTLGGG</span><span class="topo-inside">M</span><span class="topo-membrane">VLGREGPTVQIGG</span><span class="topo-outside">NIGRMVLDIFRLKGDEARHTLLAT</span></span>
-<span class="topo-line"><span class="topo-unknown">GAAAGLAAAFNAPLAGILFIWEE</span><span class="topo-outside">MRPQFRYTLISI</span><span class="topo-membrane">KAVFIGVIMSTIMYR</span><span class="topo-inside">IFNHEVALID</span></span>
-<span class="topo-line"><span class="topo-inside">VGKLSDAPLNTL</span><span class="topo-membrane">WLYLILGIIFGIFGPIFN</span><span class="topo-outside">KWVLGMQDLLHRVHGGNITKW</span><span class="topo-membrane">VLMGGAIGG</span></span>
-<span class="topo-line"><span class="topo-membrane">LCGLL</span><span class="topo-inside">GFVAPATSGGGFNLIPIATAGNFSMGMLV</span><span class="topo-membrane">FIFVARVITTLLCFSSG</span><span class="topo-outside">A</span><span class="topo-membrane">PGGIFAPM</span></span>
-<span class="topo-line"><span class="topo-membrane">LALGTVLG</span><span class="topo-inside">TAFGMVAVELFPQYHLEAGTFAI</span><span class="topo-unknown">AGMGALLAASIRAPLTGIILVLEM</span><span class="topo-inside">TDNYQ</span></span>
-<span class="topo-line"><span class="topo-inside">LW</span><span class="topo-membrane">LPMIITGLGATLLA</span><span class="topo-outside">QFTGGKPLYSAILARTLAKQEAEQ</span><span class="topo-unknown">LARSK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MKTDTPSLETPQAARLRRRQL</span><span class="topo-outside">IRQLLERDKTPLAIL</span><span class="topo-membrane">FMAAVVGTLVGLAAVAFDKGVAWLQ</span><span class="topo-inside">NQRMGALVHTADNYPLLLT</span><span class="topo-membrane">VAFLCSAVLAMFGYFLV</span><span class="topo-outside">RKYAPEAGGSGIPEIEGALEDQR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">PVRWWRVL</span><span class="topo-membrane">PVKFFGGLGTLGGG</span><span class="topo-inside">M</span><span class="topo-membrane">VLGREGPTVQIGG</span><span class="topo-outside">NIGRMVLDIFRLKGDEARHTLLAT</span><span class="topo-unknown">GAAAGLAAAFNAPLAGILFIWEE</span><span class="topo-outside">MRPQFRYTLISI</span><span class="topo-membrane">KAVFIGVIMSTIMYR</span><span class="topo-inside">IFNHEVALID</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">VGKLSDAPLNTL</span><span class="topo-membrane">WLYLILGIIFGIFGPIFN</span><span class="topo-outside">KWVLGMQDLLHRVHGGNITKW</span><span class="topo-membrane">VLMGGAIGGLCGLL</span><span class="topo-inside">GFVAPATSGGGFNLIPIATAGNFSMGMLV</span><span class="topo-membrane">FIFVARVITTLLCFSSG</span><span class="topo-outside">A</span><span class="topo-membrane">PGGIFAPM</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460     </span>
+<span class="topo-line"><span class="topo-membrane">LALGTVLG</span><span class="topo-inside">TAFGMVAVELFPQYHLEAGTFAI</span><span class="topo-unknown">AGMGALLAASIRAPLTGIILVLEM</span><span class="topo-inside">TDNYQLW</span><span class="topo-membrane">LPMIITGLGATLLA</span><span class="topo-outside">QFTGGKPLYSAILARTLAKQEAEQ</span><span class="topo-unknown">LARSK</span></span>
+<details class="topo-details"><summary>Topology coordinates (27 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3042,6 +3065,7 @@ CLC-ec1 is a prokaryotic CLC Cl-/H+ antiporter from Escherichia coli that has se
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3131,14 +3155,15 @@ CLC-ec1 is a prokaryotic CLC Cl-/H+ antiporter from Escherichia coli that has se
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MKTDTPSLETPQAARL</span><span class="topo-outside">RRRQLIRQLLERDKTPLAIL</span><span class="topo-membrane">FMAAVVGTLVGLAAVAFDKGVAWL</span></span>
-<span class="topo-line"><span class="topo-membrane">Q</span><span class="topo-inside">NQRMGALVHTADNYPLLLTVAF</span><span class="topo-membrane">LASAVLAMFGYFLV</span><span class="topo-outside">RKYAPEAGGSGIPEIEGALEDQR</span></span>
-<span class="topo-line"><span class="topo-outside">PVRWWRVL</span><span class="topo-membrane">PVKFFGGLGTLGGG</span><span class="topo-inside">M</span><span class="topo-membrane">VLGREGPTVQIGG</span><span class="topo-outside">NIGRMVLDIFRLKGDEARHTLLA</span><span class="topo-unknown">T</span></span>
-<span class="topo-line"><span class="topo-unknown">GAAAGLAAAFNAPLAGILFIIEE</span><span class="topo-outside">MRPQFRYTLISI</span><span class="topo-membrane">KAVFIGVIMSTIMYRIF</span><span class="topo-inside">NHEVALID</span></span>
-<span class="topo-line"><span class="topo-inside">VGKLSDAPLNTL</span><span class="topo-membrane">WLYLILGIIFGIFGPIFNKWVLGMQ</span><span class="topo-outside">DLLHRVHGGNIT</span><span class="topo-membrane">KWVLMGGAIGG</span></span>
-<span class="topo-line"><span class="topo-membrane">LAGLL</span><span class="topo-inside">GFVAPATSGGGFNLIPIATAGNFSMGMLVFIF</span><span class="topo-membrane">VARVITTLLSFSSG</span><span class="topo-outside">A</span><span class="topo-membrane">PGGIFAPM</span></span>
-<span class="topo-line"><span class="topo-membrane">LALGTVLG</span><span class="topo-inside">TAFGMVAVELFPQYHLEAGTFAI</span><span class="topo-unknown">AGMGALLCASIRAPLTGIILVLEM</span><span class="topo-inside">TDNYQ</span></span>
-<span class="topo-line"><span class="topo-inside">LI</span><span class="topo-membrane">LPMIITGLGCTLLAQFT</span><span class="topo-outside">GGKPLYSAILARTLAKQEAEQ</span><span class="topo-unknown">LARSK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MKTDTPSLETPQAARL</span><span class="topo-outside">RRRQLIRQLLERDKTPLAIL</span><span class="topo-membrane">FMAAVVGTLVGLAAVAFDKGVAWLQ</span><span class="topo-inside">NQRMGALVHTADNYPLLLTVAF</span><span class="topo-membrane">LASAVLAMFGYFLV</span><span class="topo-outside">RKYAPEAGGSGIPEIEGALEDQR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">PVRWWRVL</span><span class="topo-membrane">PVKFFGGLGTLGGG</span><span class="topo-inside">M</span><span class="topo-membrane">VLGREGPTVQIGG</span><span class="topo-outside">NIGRMVLDIFRLKGDEARHTLLA</span><span class="topo-unknown">TGAAAGLAAAFNAPLAGILFIIEE</span><span class="topo-outside">MRPQFRYTLISI</span><span class="topo-membrane">KAVFIGVIMSTIMYRIF</span><span class="topo-inside">NHEVALID</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">VGKLSDAPLNTL</span><span class="topo-membrane">WLYLILGIIFGIFGPIFNKWVLGMQ</span><span class="topo-outside">DLLHRVHGGNIT</span><span class="topo-membrane">KWVLMGGAIGGLAGLL</span><span class="topo-inside">GFVAPATSGGGFNLIPIATAGNFSMGMLVFIF</span><span class="topo-membrane">VARVITTLLSFSSG</span><span class="topo-outside">A</span><span class="topo-membrane">PGGIFAPM</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460     </span>
+<span class="topo-line"><span class="topo-membrane">LALGTVLG</span><span class="topo-inside">TAFGMVAVELFPQYHLEAGTFAI</span><span class="topo-unknown">AGMGALLCASIRAPLTGIILVLEM</span><span class="topo-inside">TDNYQLI</span><span class="topo-membrane">LPMIITGLGCTLLAQFT</span><span class="topo-outside">GGKPLYSAILARTLAKQEAEQ</span><span class="topo-unknown">LARSK</span></span>
+<details class="topo-details"><summary>Topology coordinates (27 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3339,6 +3364,7 @@ CLC-ec1 is a prokaryotic CLC Cl-/H+ antiporter from Escherichia coli that has se
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3354,14 +3380,15 @@ CLC-ec1 is a prokaryotic CLC Cl-/H+ antiporter from Escherichia coli that has se
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MKTDTPSLETPQAARLR</span><span class="topo-outside">RRQLIRQLLERDKTPLAIL</span><span class="topo-membrane">FMAAVVGTLVGLAAVAFDKGVAWL</span></span>
-<span class="topo-line"><span class="topo-membrane">Q</span><span class="topo-inside">NQRMGALVHTADNYPLLLTVAF</span><span class="topo-membrane">LASAVLAMFGYFLV</span><span class="topo-outside">RKYAPEAGGSGIPEIEGALEDQR</span></span>
-<span class="topo-line"><span class="topo-outside">PVRWWRVL</span><span class="topo-membrane">PVKFFGGLGTLGGG</span><span class="topo-inside">M</span><span class="topo-membrane">VLGREGPTVQIGG</span><span class="topo-outside">NIGRMVLDIFRLKGDEARHTLLAT</span></span>
-<span class="topo-line"><span class="topo-unknown">GAAAGLAAAFNAPLAGILFIIEE</span><span class="topo-outside">MRPQFRYTLISI</span><span class="topo-membrane">KAVFIGVIMSTIMYRIF</span><span class="topo-inside">NHEVALID</span></span>
-<span class="topo-line"><span class="topo-inside">VGKLSDAPLNTL</span><span class="topo-membrane">WLYLILGIIFGIFGPIFNKWVLGMQ</span><span class="topo-outside">DLLHRVHGGNIT</span><span class="topo-membrane">KWVLMGGAIGG</span></span>
-<span class="topo-line"><span class="topo-membrane">LAGLL</span><span class="topo-inside">GFVAPATSGGGFNLIPIATAGNFSMGMLVFIF</span><span class="topo-membrane">VARVITTLLSFSSG</span><span class="topo-outside">A</span><span class="topo-membrane">PGGIFAPM</span></span>
-<span class="topo-line"><span class="topo-membrane">LALGTVLG</span><span class="topo-inside">TAFGMVAVELFPQYHLEAGTFAI</span><span class="topo-unknown">AGMGALLCASIRAPLTGIILVLEM</span><span class="topo-inside">TDNYQ</span></span>
-<span class="topo-line"><span class="topo-inside">LI</span><span class="topo-membrane">LPMIITGLGCTLLAQFT</span><span class="topo-outside">GGKPLYSAILARTLAKQEA</span><span class="topo-unknown">EQLARSK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MKTDTPSLETPQAARLR</span><span class="topo-outside">RRQLIRQLLERDKTPLAIL</span><span class="topo-membrane">FMAAVVGTLVGLAAVAFDKGVAWLQ</span><span class="topo-inside">NQRMGALVHTADNYPLLLTVAF</span><span class="topo-membrane">LASAVLAMFGYFLV</span><span class="topo-outside">RKYAPEAGGSGIPEIEGALEDQR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">PVRWWRVL</span><span class="topo-membrane">PVKFFGGLGTLGGG</span><span class="topo-inside">M</span><span class="topo-membrane">VLGREGPTVQIGG</span><span class="topo-outside">NIGRMVLDIFRLKGDEARHTLLAT</span><span class="topo-unknown">GAAAGLAAAFNAPLAGILFIIEE</span><span class="topo-outside">MRPQFRYTLISI</span><span class="topo-membrane">KAVFIGVIMSTIMYRIF</span><span class="topo-inside">NHEVALID</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">VGKLSDAPLNTL</span><span class="topo-membrane">WLYLILGIIFGIFGPIFNKWVLGMQ</span><span class="topo-outside">DLLHRVHGGNIT</span><span class="topo-membrane">KWVLMGGAIGGLAGLL</span><span class="topo-inside">GFVAPATSGGGFNLIPIATAGNFSMGMLVFIF</span><span class="topo-membrane">VARVITTLLSFSSG</span><span class="topo-outside">A</span><span class="topo-membrane">PGGIFAPM</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460     </span>
+<span class="topo-line"><span class="topo-membrane">LALGTVLG</span><span class="topo-inside">TAFGMVAVELFPQYHLEAGTFAI</span><span class="topo-unknown">AGMGALLCASIRAPLTGIILVLEM</span><span class="topo-inside">TDNYQLI</span><span class="topo-membrane">LPMIITGLGCTLLAQFT</span><span class="topo-outside">GGKPLYSAILARTLAKQEA</span><span class="topo-unknown">EQLARSK</span></span>
+<details class="topo-details"><summary>Topology coordinates (27 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3562,6 +3589,7 @@ CLC-ec1 is a prokaryotic CLC Cl-/H+ antiporter from Escherichia coli that has se
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3626,14 +3654,15 @@ CLC-ec1 is a prokaryotic CLC Cl-/H+ antiporter from Escherichia coli that has se
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MKTDTPSLETPQAARL</span><span class="topo-outside">RRRQLIRQLLERDKTPLAIL</span><span class="topo-membrane">FMAAVVGTLVGLAAVAFDKGVAWL</span></span>
-<span class="topo-line"><span class="topo-inside">QNQRMGALVHTADNYPLLLTVAF</span><span class="topo-membrane">LCSAVLAMFGYFLV</span><span class="topo-outside">RKYAPEAGGSGIPEIEGALEDQR</span></span>
-<span class="topo-line"><span class="topo-outside">PVRWWRVL</span><span class="topo-membrane">PVKFFGGLGTLGGG</span><span class="topo-inside">M</span><span class="topo-membrane">VLGREGPTVQIGG</span><span class="topo-outside">NIGRMVLDIFRLKGDEARHTLLAT</span></span>
-<span class="topo-line"><span class="topo-unknown">GAAAGLAAAFNAPLAGILFIIEE</span><span class="topo-outside">MRPQFRYTLISI</span><span class="topo-membrane">KAVFIGVIMSTIMYRIF</span><span class="topo-inside">NHEVALID</span></span>
-<span class="topo-line"><span class="topo-inside">VGKLSDAPLNTL</span><span class="topo-membrane">WLYLILGIIFGIFGPIFNKWVLGMQ</span><span class="topo-unknown">DLLHRVH</span><span class="topo-outside">GGNIT</span><span class="topo-membrane">KWVLMGGAIGG</span></span>
-<span class="topo-line"><span class="topo-membrane">LCGL</span><span class="topo-inside">LGFVAPATSGGG</span><span class="topo-unknown">FNLIPIATA</span><span class="topo-inside">GNFSMGMLVFIF</span><span class="topo-membrane">VARVITTLLCFSSG</span><span class="topo-outside">A</span><span class="topo-membrane">PGGIFAPM</span></span>
-<span class="topo-line"><span class="topo-membrane">LALGT</span><span class="topo-inside">VLGTAFGMVAVELFPQYHLEAGTFAIA</span><span class="topo-unknown">GMGALLAASIRAPLTGIILVLEM</span><span class="topo-inside">TDNYQ</span></span>
-<span class="topo-line"><span class="topo-inside">LI</span><span class="topo-membrane">LPMIITGLGATLLAQFT</span><span class="topo-outside">GGKPLYSAILARTLAKQEAEQ</span><span class="topo-unknown">LARSK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MKTDTPSLETPQAARL</span><span class="topo-outside">RRRQLIRQLLERDKTPLAIL</span><span class="topo-membrane">FMAAVVGTLVGLAAVAFDKGVAWL</span><span class="topo-inside">QNQRMGALVHTADNYPLLLTVAF</span><span class="topo-membrane">LCSAVLAMFGYFLV</span><span class="topo-outside">RKYAPEAGGSGIPEIEGALEDQR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">PVRWWRVL</span><span class="topo-membrane">PVKFFGGLGTLGGG</span><span class="topo-inside">M</span><span class="topo-membrane">VLGREGPTVQIGG</span><span class="topo-outside">NIGRMVLDIFRLKGDEARHTLLAT</span><span class="topo-unknown">GAAAGLAAAFNAPLAGILFIIEE</span><span class="topo-outside">MRPQFRYTLISI</span><span class="topo-membrane">KAVFIGVIMSTIMYRIF</span><span class="topo-inside">NHEVALID</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">VGKLSDAPLNTL</span><span class="topo-membrane">WLYLILGIIFGIFGPIFNKWVLGMQ</span><span class="topo-unknown">DLLHRVH</span><span class="topo-outside">GGNIT</span><span class="topo-membrane">KWVLMGGAIGGLCGL</span><span class="topo-inside">LGFVAPATSGGG</span><span class="topo-unknown">FNLIPIATA</span><span class="topo-inside">GNFSMGMLVFIF</span><span class="topo-membrane">VARVITTLLCFSSG</span><span class="topo-outside">A</span><span class="topo-membrane">PGGIFAPM</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460     </span>
+<span class="topo-line"><span class="topo-membrane">LALGT</span><span class="topo-inside">VLGTAFGMVAVELFPQYHLEAGTFAIA</span><span class="topo-unknown">GMGALLAASIRAPLTGIILVLEM</span><span class="topo-inside">TDNYQLI</span><span class="topo-membrane">LPMIITGLGATLLAQFT</span><span class="topo-outside">GGKPLYSAILARTLAKQEAEQ</span><span class="topo-unknown">LARSK</span></span>
+<details class="topo-details"><summary>Topology coordinates (30 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3855,6 +3884,7 @@ CLC-ec1 is a prokaryotic CLC Cl-/H+ antiporter from Escherichia coli that has se
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3870,14 +3900,15 @@ CLC-ec1 is a prokaryotic CLC Cl-/H+ antiporter from Escherichia coli that has se
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MKTDTPSLETPQAARLR</span><span class="topo-outside">RRQLIRQLLERDKTPLAIL</span><span class="topo-membrane">FMAAVVGTLVGLAAVAFDKGVAWL</span></span>
-<span class="topo-line"><span class="topo-inside">QNQRMGALVHTADNYPLLLTVAF</span><span class="topo-membrane">LCSAVLAMFGYFLV</span><span class="topo-outside">RKYAPEAGGSGIPEIEGALEDQR</span></span>
-<span class="topo-line"><span class="topo-outside">PVRWWRVL</span><span class="topo-membrane">PVKFFGGLGTLGGG</span><span class="topo-inside">M</span><span class="topo-membrane">VLGREGPTVQIGG</span><span class="topo-outside">NIGRMVLDIFRLKGDEARHTLLAT</span></span>
-<span class="topo-line"><span class="topo-unknown">GAAAGLAAAFNAPLAGILFIIEE</span><span class="topo-outside">MRPQFRYTLISI</span><span class="topo-membrane">KAVFIGVIMSTIMYRI</span><span class="topo-inside">FNHEVALID</span></span>
-<span class="topo-line"><span class="topo-inside">VGKLSDAPLNTL</span><span class="topo-membrane">WLYLILGIIFGIFGPIFNKWV</span><span class="topo-unknown">LGMQDLLHRVH</span><span class="topo-outside">GGNIT</span><span class="topo-membrane">KWVLMGGAIGG</span></span>
-<span class="topo-line"><span class="topo-membrane">LCGL</span><span class="topo-inside">LGFVAPATSGGG</span><span class="topo-unknown">FNLIPIAT</span><span class="topo-inside">AGNFSMGMLVFIF</span><span class="topo-membrane">VARVITTLLCFSSG</span><span class="topo-outside">A</span><span class="topo-membrane">PGGIFAPM</span></span>
-<span class="topo-line"><span class="topo-membrane">LALGT</span><span class="topo-inside">VLGTAFGMVAVELFPQYHLEAGTFAIA</span><span class="topo-unknown">GMGALLAASIRAPLTGIILVLEM</span><span class="topo-inside">TDNYQ</span></span>
-<span class="topo-line"><span class="topo-inside">LI</span><span class="topo-membrane">LPMIITGLGATLLAQFT</span><span class="topo-outside">GGKPLYSAILARTLAKQEA</span><span class="topo-unknown">EQLARSK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MKTDTPSLETPQAARLR</span><span class="topo-outside">RRQLIRQLLERDKTPLAIL</span><span class="topo-membrane">FMAAVVGTLVGLAAVAFDKGVAWL</span><span class="topo-inside">QNQRMGALVHTADNYPLLLTVAF</span><span class="topo-membrane">LCSAVLAMFGYFLV</span><span class="topo-outside">RKYAPEAGGSGIPEIEGALEDQR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">PVRWWRVL</span><span class="topo-membrane">PVKFFGGLGTLGGG</span><span class="topo-inside">M</span><span class="topo-membrane">VLGREGPTVQIGG</span><span class="topo-outside">NIGRMVLDIFRLKGDEARHTLLAT</span><span class="topo-unknown">GAAAGLAAAFNAPLAGILFIIEE</span><span class="topo-outside">MRPQFRYTLISI</span><span class="topo-membrane">KAVFIGVIMSTIMYRI</span><span class="topo-inside">FNHEVALID</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">VGKLSDAPLNTL</span><span class="topo-membrane">WLYLILGIIFGIFGPIFNKWV</span><span class="topo-unknown">LGMQDLLHRVH</span><span class="topo-outside">GGNIT</span><span class="topo-membrane">KWVLMGGAIGGLCGL</span><span class="topo-inside">LGFVAPATSGGG</span><span class="topo-unknown">FNLIPIAT</span><span class="topo-inside">AGNFSMGMLVFIF</span><span class="topo-membrane">VARVITTLLCFSSG</span><span class="topo-outside">A</span><span class="topo-membrane">PGGIFAPM</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460     </span>
+<span class="topo-line"><span class="topo-membrane">LALGT</span><span class="topo-inside">VLGTAFGMVAVELFPQYHLEAGTFAIA</span><span class="topo-unknown">GMGALLAASIRAPLTGIILVLEM</span><span class="topo-inside">TDNYQLI</span><span class="topo-membrane">LPMIITGLGATLLAQFT</span><span class="topo-outside">GGKPLYSAILARTLAKQEA</span><span class="topo-unknown">EQLARSK</span></span>
+<details class="topo-details"><summary>Topology coordinates (30 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4099,6 +4130,7 @@ CLC-ec1 is a prokaryotic CLC Cl-/H+ antiporter from Escherichia coli that has se
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4114,14 +4146,15 @@ CLC-ec1 is a prokaryotic CLC Cl-/H+ antiporter from Escherichia coli that has se
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MKTDTPSLETPQAARL</span><span class="topo-outside">RRRQLIRQLLERDKTPLAIL</span><span class="topo-membrane">FMAAVVGTLVGLAAVAFDKGVAWL</span></span>
-<span class="topo-line"><span class="topo-inside">QNQRMGALVHTADNYPLLLTVAF</span><span class="topo-membrane">LCSAVLAMFGYFLV</span><span class="topo-outside">RKYAPEAGGSGIPEIEGALEDQR</span></span>
-<span class="topo-line"><span class="topo-outside">PVRWWRVL</span><span class="topo-membrane">PVKFFGGLGTLGGG</span><span class="topo-inside">M</span><span class="topo-membrane">VLGREGPTVQIGG</span><span class="topo-outside">NIGRMVLDIFRLKGDEARHTLLAT</span></span>
-<span class="topo-line"><span class="topo-unknown">GAAAGLAAAFNAPLAGILFIIEE</span><span class="topo-outside">MRPQFRYTLISI</span><span class="topo-membrane">KAVFIGVIMSTIMYRIF</span><span class="topo-inside">NHEVALID</span></span>
-<span class="topo-line"><span class="topo-inside">VGKLSDAPLNTL</span><span class="topo-membrane">WLYLILGIIFGIFGPIFNKWVLGMQ</span><span class="topo-unknown">DLLHRVH</span><span class="topo-outside">GGNIT</span><span class="topo-membrane">KWVLMGGAIGG</span></span>
-<span class="topo-line"><span class="topo-membrane">LCGL</span><span class="topo-inside">LGFVAPATSGGG</span><span class="topo-unknown">FNLIPIATA</span><span class="topo-inside">GNFSMGMLVFIF</span><span class="topo-membrane">VARVITTLLCFSSG</span><span class="topo-outside">A</span><span class="topo-membrane">PGGIFAPM</span></span>
-<span class="topo-line"><span class="topo-membrane">LALGT</span><span class="topo-inside">VLGTAFGMVAVELFPQYHLEAGTFAIA</span><span class="topo-unknown">GMGALLAASIRAPLTGIILVLEM</span><span class="topo-inside">TDNYQ</span></span>
-<span class="topo-line"><span class="topo-inside">LI</span><span class="topo-membrane">LPMIITGLGATLLAQFT</span><span class="topo-outside">GGKPLYSAILARTLAKQEAEQ</span><span class="topo-unknown">LARSK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MKTDTPSLETPQAARL</span><span class="topo-outside">RRRQLIRQLLERDKTPLAIL</span><span class="topo-membrane">FMAAVVGTLVGLAAVAFDKGVAWL</span><span class="topo-inside">QNQRMGALVHTADNYPLLLTVAF</span><span class="topo-membrane">LCSAVLAMFGYFLV</span><span class="topo-outside">RKYAPEAGGSGIPEIEGALEDQR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">PVRWWRVL</span><span class="topo-membrane">PVKFFGGLGTLGGG</span><span class="topo-inside">M</span><span class="topo-membrane">VLGREGPTVQIGG</span><span class="topo-outside">NIGRMVLDIFRLKGDEARHTLLAT</span><span class="topo-unknown">GAAAGLAAAFNAPLAGILFIIEE</span><span class="topo-outside">MRPQFRYTLISI</span><span class="topo-membrane">KAVFIGVIMSTIMYRIF</span><span class="topo-inside">NHEVALID</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">VGKLSDAPLNTL</span><span class="topo-membrane">WLYLILGIIFGIFGPIFNKWVLGMQ</span><span class="topo-unknown">DLLHRVH</span><span class="topo-outside">GGNIT</span><span class="topo-membrane">KWVLMGGAIGGLCGL</span><span class="topo-inside">LGFVAPATSGGG</span><span class="topo-unknown">FNLIPIATA</span><span class="topo-inside">GNFSMGMLVFIF</span><span class="topo-membrane">VARVITTLLCFSSG</span><span class="topo-outside">A</span><span class="topo-membrane">PGGIFAPM</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460     </span>
+<span class="topo-line"><span class="topo-membrane">LALGT</span><span class="topo-inside">VLGTAFGMVAVELFPQYHLEAGTFAIA</span><span class="topo-unknown">GMGALLAASIRAPLTGIILVLEM</span><span class="topo-inside">TDNYQLI</span><span class="topo-membrane">LPMIITGLGATLLAQFT</span><span class="topo-outside">GGKPLYSAILARTLAKQEAEQ</span><span class="topo-unknown">LARSK</span></span>
+<details class="topo-details"><summary>Topology coordinates (30 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4343,6 +4376,7 @@ CLC-ec1 is a prokaryotic CLC Cl-/H+ antiporter from Escherichia coli that has se
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4358,14 +4392,15 @@ CLC-ec1 is a prokaryotic CLC Cl-/H+ antiporter from Escherichia coli that has se
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MKTDTPSLETPQAARLR</span><span class="topo-outside">RRQLIRQLLERDKTPLAIL</span><span class="topo-membrane">FMAAVVGTLVGLAAVAFDKGVAWL</span></span>
-<span class="topo-line"><span class="topo-inside">QNQRMGALVHTADNYPLLLTVAF</span><span class="topo-membrane">LCSAVLAMFGYFLV</span><span class="topo-outside">RKYAPEAGGSGIPEIEGALEDQR</span></span>
-<span class="topo-line"><span class="topo-outside">PVRWWRVL</span><span class="topo-membrane">PVKFFGGLGTLGGG</span><span class="topo-inside">M</span><span class="topo-membrane">VLGREGPTVQIGG</span><span class="topo-outside">NIGRMVLDIFRLKGDEARHTLLAT</span></span>
-<span class="topo-line"><span class="topo-unknown">GAAAGLAAAFNAPLAGILFIIEE</span><span class="topo-outside">MRPQFRYTLISI</span><span class="topo-membrane">KAVFIGVIMSTIMYRI</span><span class="topo-inside">FNHEVALID</span></span>
-<span class="topo-line"><span class="topo-inside">VGKLSDAPLNTL</span><span class="topo-membrane">WLYLILGIIFGIFGPIFNKWV</span><span class="topo-unknown">LGMQDLLHRVH</span><span class="topo-outside">GGNIT</span><span class="topo-membrane">KWVLMGGAIGG</span></span>
-<span class="topo-line"><span class="topo-membrane">LCGL</span><span class="topo-inside">LGFVAPATSGGG</span><span class="topo-unknown">FNLIPIAT</span><span class="topo-inside">AGNFSMGMLVFIF</span><span class="topo-membrane">VARVITTLLCFSSG</span><span class="topo-outside">A</span><span class="topo-membrane">PGGIFAPM</span></span>
-<span class="topo-line"><span class="topo-membrane">LALGT</span><span class="topo-inside">VLGTAFGMVAVELFPQYHLEAGTFAIA</span><span class="topo-unknown">GMGALLAASIRAPLTGIILVLEM</span><span class="topo-inside">TDNYQ</span></span>
-<span class="topo-line"><span class="topo-inside">LI</span><span class="topo-membrane">LPMIITGLGATLLAQFT</span><span class="topo-outside">GGKPLYSAILARTLAKQEA</span><span class="topo-unknown">EQLARSK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MKTDTPSLETPQAARLR</span><span class="topo-outside">RRQLIRQLLERDKTPLAIL</span><span class="topo-membrane">FMAAVVGTLVGLAAVAFDKGVAWL</span><span class="topo-inside">QNQRMGALVHTADNYPLLLTVAF</span><span class="topo-membrane">LCSAVLAMFGYFLV</span><span class="topo-outside">RKYAPEAGGSGIPEIEGALEDQR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">PVRWWRVL</span><span class="topo-membrane">PVKFFGGLGTLGGG</span><span class="topo-inside">M</span><span class="topo-membrane">VLGREGPTVQIGG</span><span class="topo-outside">NIGRMVLDIFRLKGDEARHTLLAT</span><span class="topo-unknown">GAAAGLAAAFNAPLAGILFIIEE</span><span class="topo-outside">MRPQFRYTLISI</span><span class="topo-membrane">KAVFIGVIMSTIMYRI</span><span class="topo-inside">FNHEVALID</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">VGKLSDAPLNTL</span><span class="topo-membrane">WLYLILGIIFGIFGPIFNKWV</span><span class="topo-unknown">LGMQDLLHRVH</span><span class="topo-outside">GGNIT</span><span class="topo-membrane">KWVLMGGAIGGLCGL</span><span class="topo-inside">LGFVAPATSGGG</span><span class="topo-unknown">FNLIPIAT</span><span class="topo-inside">AGNFSMGMLVFIF</span><span class="topo-membrane">VARVITTLLCFSSG</span><span class="topo-outside">A</span><span class="topo-membrane">PGGIFAPM</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460     </span>
+<span class="topo-line"><span class="topo-membrane">LALGT</span><span class="topo-inside">VLGTAFGMVAVELFPQYHLEAGTFAIA</span><span class="topo-unknown">GMGALLAASIRAPLTGIILVLEM</span><span class="topo-inside">TDNYQLI</span><span class="topo-membrane">LPMIITGLGATLLAQFT</span><span class="topo-outside">GGKPLYSAILARTLAKQEA</span><span class="topo-unknown">EQLARSK</span></span>
+<details class="topo-details"><summary>Topology coordinates (30 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4587,6 +4622,7 @@ CLC-ec1 is a prokaryotic CLC Cl-/H+ antiporter from Escherichia coli that has se
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4602,14 +4638,15 @@ CLC-ec1 is a prokaryotic CLC Cl-/H+ antiporter from Escherichia coli that has se
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MKTDTPSLETPQAARL</span><span class="topo-outside">RRRQLIRQLLERDKTPLAIL</span><span class="topo-membrane">FMAAVVGTLVGLAAVAFDKGVAWL</span></span>
-<span class="topo-line"><span class="topo-inside">QNQRMGALVHTADNYPLLLTVAF</span><span class="topo-membrane">LCSAVLAMFGYFLV</span><span class="topo-outside">RKYAPEAGGSGIPEIEGALEDQR</span></span>
-<span class="topo-line"><span class="topo-outside">PVRWWRVL</span><span class="topo-membrane">PVKFFGGLGTLGGG</span><span class="topo-inside">M</span><span class="topo-membrane">VLGREGPTVQIGG</span><span class="topo-outside">NIGRMVLDIFRLKGDEARHTLLAT</span></span>
-<span class="topo-line"><span class="topo-unknown">GAAAGLAAAFNAPLAGILFIIEE</span><span class="topo-outside">MRPQFRYTLISI</span><span class="topo-membrane">KAVFIGVIMSTIMYRIF</span><span class="topo-inside">NHEVALID</span></span>
-<span class="topo-line"><span class="topo-inside">VGKLSDAPLNTL</span><span class="topo-membrane">WLYLILGIIFGIFGPIFNKWVLGMQ</span><span class="topo-unknown">DLLHRVH</span><span class="topo-outside">GGNIT</span><span class="topo-membrane">KWVLMGGAIGG</span></span>
-<span class="topo-line"><span class="topo-membrane">LCGL</span><span class="topo-inside">LGFVAPATSGGG</span><span class="topo-unknown">FNLIPIATA</span><span class="topo-inside">GNFSMGMLVFIF</span><span class="topo-membrane">VARVITTLLCFSSG</span><span class="topo-outside">A</span><span class="topo-membrane">PGGIFAPM</span></span>
-<span class="topo-line"><span class="topo-membrane">LALGT</span><span class="topo-inside">VLGTAFGMVAVELFPQYHLEAGTFAIA</span><span class="topo-unknown">GMGALLAASIRAPLTGIILVLEM</span><span class="topo-inside">TDNYQ</span></span>
-<span class="topo-line"><span class="topo-inside">LI</span><span class="topo-membrane">LPMIITGLGATLLAQFT</span><span class="topo-outside">GGKPLYSAILARTLAKQEAEQ</span><span class="topo-unknown">LARSK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MKTDTPSLETPQAARL</span><span class="topo-outside">RRRQLIRQLLERDKTPLAIL</span><span class="topo-membrane">FMAAVVGTLVGLAAVAFDKGVAWL</span><span class="topo-inside">QNQRMGALVHTADNYPLLLTVAF</span><span class="topo-membrane">LCSAVLAMFGYFLV</span><span class="topo-outside">RKYAPEAGGSGIPEIEGALEDQR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">PVRWWRVL</span><span class="topo-membrane">PVKFFGGLGTLGGG</span><span class="topo-inside">M</span><span class="topo-membrane">VLGREGPTVQIGG</span><span class="topo-outside">NIGRMVLDIFRLKGDEARHTLLAT</span><span class="topo-unknown">GAAAGLAAAFNAPLAGILFIIEE</span><span class="topo-outside">MRPQFRYTLISI</span><span class="topo-membrane">KAVFIGVIMSTIMYRIF</span><span class="topo-inside">NHEVALID</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">VGKLSDAPLNTL</span><span class="topo-membrane">WLYLILGIIFGIFGPIFNKWVLGMQ</span><span class="topo-unknown">DLLHRVH</span><span class="topo-outside">GGNIT</span><span class="topo-membrane">KWVLMGGAIGGLCGL</span><span class="topo-inside">LGFVAPATSGGG</span><span class="topo-unknown">FNLIPIATA</span><span class="topo-inside">GNFSMGMLVFIF</span><span class="topo-membrane">VARVITTLLCFSSG</span><span class="topo-outside">A</span><span class="topo-membrane">PGGIFAPM</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460     </span>
+<span class="topo-line"><span class="topo-membrane">LALGT</span><span class="topo-inside">VLGTAFGMVAVELFPQYHLEAGTFAIA</span><span class="topo-unknown">GMGALLAASIRAPLTGIILVLEM</span><span class="topo-inside">TDNYQLI</span><span class="topo-membrane">LPMIITGLGATLLAQFT</span><span class="topo-outside">GGKPLYSAILARTLAKQEAEQ</span><span class="topo-unknown">LARSK</span></span>
+<details class="topo-details"><summary>Topology coordinates (30 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4831,6 +4868,7 @@ CLC-ec1 is a prokaryotic CLC Cl-/H+ antiporter from Escherichia coli that has se
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4846,14 +4884,15 @@ CLC-ec1 is a prokaryotic CLC Cl-/H+ antiporter from Escherichia coli that has se
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MKTDTPSLETPQAARLR</span><span class="topo-outside">RRQLIRQLLERDKTPLAIL</span><span class="topo-membrane">FMAAVVGTLVGLAAVAFDKGVAWL</span></span>
-<span class="topo-line"><span class="topo-inside">QNQRMGALVHTADNYPLLLTVAF</span><span class="topo-membrane">LCSAVLAMFGYFLV</span><span class="topo-outside">RKYAPEAGGSGIPEIEGALEDQR</span></span>
-<span class="topo-line"><span class="topo-outside">PVRWWRVL</span><span class="topo-membrane">PVKFFGGLGTLGGG</span><span class="topo-inside">M</span><span class="topo-membrane">VLGREGPTVQIGG</span><span class="topo-outside">NIGRMVLDIFRLKGDEARHTLLAT</span></span>
-<span class="topo-line"><span class="topo-unknown">GAAAGLAAAFNAPLAGILFIIEE</span><span class="topo-outside">MRPQFRYTLISI</span><span class="topo-membrane">KAVFIGVIMSTIMYRI</span><span class="topo-inside">FNHEVALID</span></span>
-<span class="topo-line"><span class="topo-inside">VGKLSDAPLNTL</span><span class="topo-membrane">WLYLILGIIFGIFGPIFNKWV</span><span class="topo-unknown">LGMQDLLHRVH</span><span class="topo-outside">GGNIT</span><span class="topo-membrane">KWVLMGGAIGG</span></span>
-<span class="topo-line"><span class="topo-membrane">LCGL</span><span class="topo-inside">LGFVAPATSGGG</span><span class="topo-unknown">FNLIPIAT</span><span class="topo-inside">AGNFSMGMLVFIF</span><span class="topo-membrane">VARVITTLLCFSSG</span><span class="topo-outside">A</span><span class="topo-membrane">PGGIFAPM</span></span>
-<span class="topo-line"><span class="topo-membrane">LALGT</span><span class="topo-inside">VLGTAFGMVAVELFPQYHLEAGTFAIA</span><span class="topo-unknown">GMGALLAASIRAPLTGIILVLEM</span><span class="topo-inside">TDNYQ</span></span>
-<span class="topo-line"><span class="topo-inside">LI</span><span class="topo-membrane">LPMIITGLGATLLAQFT</span><span class="topo-outside">GGKPLYSAILARTLAKQEA</span><span class="topo-unknown">EQLARSK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MKTDTPSLETPQAARLR</span><span class="topo-outside">RRQLIRQLLERDKTPLAIL</span><span class="topo-membrane">FMAAVVGTLVGLAAVAFDKGVAWL</span><span class="topo-inside">QNQRMGALVHTADNYPLLLTVAF</span><span class="topo-membrane">LCSAVLAMFGYFLV</span><span class="topo-outside">RKYAPEAGGSGIPEIEGALEDQR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">PVRWWRVL</span><span class="topo-membrane">PVKFFGGLGTLGGG</span><span class="topo-inside">M</span><span class="topo-membrane">VLGREGPTVQIGG</span><span class="topo-outside">NIGRMVLDIFRLKGDEARHTLLAT</span><span class="topo-unknown">GAAAGLAAAFNAPLAGILFIIEE</span><span class="topo-outside">MRPQFRYTLISI</span><span class="topo-membrane">KAVFIGVIMSTIMYRI</span><span class="topo-inside">FNHEVALID</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">VGKLSDAPLNTL</span><span class="topo-membrane">WLYLILGIIFGIFGPIFNKWV</span><span class="topo-unknown">LGMQDLLHRVH</span><span class="topo-outside">GGNIT</span><span class="topo-membrane">KWVLMGGAIGGLCGL</span><span class="topo-inside">LGFVAPATSGGG</span><span class="topo-unknown">FNLIPIAT</span><span class="topo-inside">AGNFSMGMLVFIF</span><span class="topo-membrane">VARVITTLLCFSSG</span><span class="topo-outside">A</span><span class="topo-membrane">PGGIFAPM</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460     </span>
+<span class="topo-line"><span class="topo-membrane">LALGT</span><span class="topo-inside">VLGTAFGMVAVELFPQYHLEAGTFAIA</span><span class="topo-unknown">GMGALLAASIRAPLTGIILVLEM</span><span class="topo-inside">TDNYQLI</span><span class="topo-membrane">LPMIITGLGATLLAQFT</span><span class="topo-outside">GGKPLYSAILARTLAKQEA</span><span class="topo-unknown">EQLARSK</span></span>
+<details class="topo-details"><summary>Topology coordinates (30 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -5075,6 +5114,7 @@ CLC-ec1 is a prokaryotic CLC Cl-/H+ antiporter from Escherichia coli that has se
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

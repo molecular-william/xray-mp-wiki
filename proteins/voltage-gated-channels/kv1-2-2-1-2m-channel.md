@@ -114,12 +114,13 @@ The Kv1.2-2.1-2m channel is a double mutant (W362F, S367T) of the Kv1.2-2.1 chim
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">LQFYRNLGKSGLRVSCLGLGTWVTFGGQITDEMAEHLMTLAYDNGINLFDTAEVYAAGK</span></span>
-<span class="topo-line"><span class="topo-inside">AEVVLGNIIKKKGWRRSSLVITTKIFWGGKAETERGLSRKHIIEGLKASLERLQLEYVDV</span></span>
-<span class="topo-line"><span class="topo-inside">VFANRPDPNTPMEETVRAMTHVINQGMAMYWGTSRWSSMEIMEAYSVARQFNLIPPICEQ</span></span>
-<span class="topo-line"><span class="topo-inside">AEYHMFQREKVEVQLPELFHKIGVGAMTWSPLACGIVSGKYDSGIPPYSRASLKGYQWLK</span></span>
-<span class="topo-line"><span class="topo-inside">DKILSEEGRRQQAKLKELQAIAERLGCTLPQLAIAWCLRNEGVSSVLLGASNAEQLMENI</span></span>
-<span class="topo-line"><span class="topo-inside">GAIQVLPKLSSSIVHEIDSILGNKPYS</span><span class="topo-unknown">KKDYRS</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">LQFYRNLGKSGLRVSCLGLGTWVTFGGQITDEMAEHLMTLAYDNGINLFDTAEVYAAGKAEVVLGNIIKKKGWRRSSLVITTKIFWGGKAETERGLSRKHIIEGLKASLERLQLEYVDV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">VFANRPDPNTPMEETVRAMTHVINQGMAMYWGTSRWSSMEIMEAYSVARQFNLIPPICEQAEYHMFQREKVEVQLPELFHKIGVGAMTWSPLACGIVSGKYDSGIPPYSRASLKGYQWLK</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330   </span>
+<span class="topo-line"><span class="topo-inside">DKILSEEGRRQQAKLKELQAIAERLGCTLPQLAIAWCLRNEGVSSVLLGASNAEQLMENIGAIQVLPKLSSSIVHEIDSILGNKPYS</span><span class="topo-unknown">KKDYRS</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -152,6 +153,7 @@ The Kv1.2-2.1-2m channel is a double mutant (W362F, S367T) of the Kv1.2-2.1 chim
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -167,15 +169,17 @@ The Kv1.2-2.1-2m channel is a double mutant (W362F, S367T) of the Kv1.2-2.1 chim
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAHHHHHHHHHHGLVPRGSMTVATGDPVDEAAAHPGHPQDTYDPEAD</span><span class="topo-inside">HESSERVVINISG</span></span>
-<span class="topo-line"><span class="topo-inside">LRFETQLKTLAQFPETLLGDPKKRMRYFDPLRNEYFFDRNRPSFDAILYYYQSGGRLRRP</span></span>
-<span class="topo-line"><span class="topo-inside">VNVPLDIFSEEIRFYELGEEAMEMFREDEGY</span><span class="topo-unknown">IKEEERPLPEN</span><span class="topo-inside">EFQRQVWLLFEYPESSGP</span></span>
-<span class="topo-line"><span class="topo-inside">AR</span><span class="topo-membrane">IIAIVSVMVILISIVSFCL</span><span class="topo-outside">ETLPIF</span><span class="topo-unknown">RDENEDMHGGGVTFHTYSQSTIGYQQSTSF</span><span class="topo-outside">TDP</span></span>
-<span class="topo-line"><span class="topo-outside">FF</span><span class="topo-membrane">IVETLCIIWFSFEFLVRFF</span><span class="topo-inside">ACPSKAGFFTN</span><span class="topo-membrane">IMNIIDIVAIIPYYVTI</span><span class="topo-unknown">FLTESNKSVLQ</span></span>
-<span class="topo-line"><span class="topo-unknown">FQN</span><span class="topo-outside">VRRV</span><span class="topo-membrane">VQIFRIMRILRIFKLSRHSK</span><span class="topo-inside">GLQILGQTLKASM</span><span class="topo-membrane">RELGLLIFFLFIGVILFSSA</span></span>
-<span class="topo-line"><span class="topo-membrane">VYFA</span><span class="topo-outside">EADERDSQFPSIPDA</span><span class="topo-unknown">FFWAVVTMTTVGY</span><span class="topo-outside">GDMVPTTI</span><span class="topo-membrane">GGKIVGSLCAIAGVLTIALP</span></span>
-<span class="topo-line"><span class="topo-membrane">V</span><span class="topo-inside">PVIVSNFNYFYHRET</span><span class="topo-unknown">EGEEQAQYLQVTSSPKIPSSPDLKKSRSASTISKSDYMEIQEGV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAHHHHHHHHHHGLVPRGSMTVATGDPVDEAAAHPGHPQDTYDPEAD</span><span class="topo-inside">HESSERVVINISGLRFETQLKTLAQFPETLLGDPKKRMRYFDPLRNEYFFDRNRPSFDAILYYYQSGGRLRRP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">VNVPLDIFSEEIRFYELGEEAMEMFREDEGY</span><span class="topo-unknown">IKEEERPLPEN</span><span class="topo-inside">EFQRQVWLLFEYPESSGPAR</span><span class="topo-membrane">IIAIVSVMVILISIVSFCL</span><span class="topo-outside">ETLPIF</span><span class="topo-unknown">RDENEDMHGGGVTFHTYSQSTIGYQQSTSF</span><span class="topo-outside">TDP</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">FF</span><span class="topo-membrane">IVETLCIIWFSFEFLVRFF</span><span class="topo-inside">ACPSKAGFFTN</span><span class="topo-membrane">IMNIIDIVAIIPYYVTI</span><span class="topo-unknown">FLTESNKSVLQFQN</span><span class="topo-outside">VRRV</span><span class="topo-membrane">VQIFRIMRILRIFKLSRHSK</span><span class="topo-inside">GLQILGQTLKASM</span><span class="topo-membrane">RELGLLIFFLFIGVILFSSA</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">VYFA</span><span class="topo-outside">EADERDSQFPSIPDA</span><span class="topo-unknown">FFWAVVTMTTVGY</span><span class="topo-outside">GDMVPTTI</span><span class="topo-membrane">GGKIVGSLCAIAGVLTIALPV</span><span class="topo-inside">PVIVSNFNYFYHRET</span><span class="topo-unknown">EGEEQAQYLQVTSSPKIPSSPDLKKSRSASTISKSDYMEIQEGV</span></span>
+<span class="topo-ruler">       490       500       510    </span>
 <span class="topo-line"><span class="topo-unknown">NNSNEDFREENLKTANSTLANTNYVNITKMLTDV</span></span>
+<details class="topo-details"><summary>Topology coordinates (22 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -341,6 +345,7 @@ The Kv1.2-2.1-2m channel is a double mutant (W362F, S367T) of the Kv1.2-2.1 chim
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -356,12 +361,13 @@ The Kv1.2-2.1-2m channel is a double mutant (W362F, S367T) of the Kv1.2-2.1 chim
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">LQFYRNLGKSGLRVSCLGLGTWVTFGGQITDEMAEHLMTLAYDNGINLFDTAEVYAAGK</span></span>
-<span class="topo-line"><span class="topo-inside">AEVVLGNIIKKKGWRRSSLVITTKIFWGGKAETERGLSRKHIIEGLKASLERLQLEYVDV</span></span>
-<span class="topo-line"><span class="topo-inside">VFANRPDPNTPMEETVRAMTHVINQGMAMYWGTSRWSSMEIMEAYSVARQFNLIPPICEQ</span></span>
-<span class="topo-line"><span class="topo-inside">AEYHMFQREKVEVQLPELFHKIGVGAMTWSPLACGIVSGKYDSGIPPYSRASLKGYQWLK</span></span>
-<span class="topo-line"><span class="topo-inside">DKILSEEGRRQQAKLKELQAIAERLGCTLPQLAIAWCLRNEGVSSVLLGASNAEQLMENI</span></span>
-<span class="topo-line"><span class="topo-inside">GAIQVLPKLSSSIVHEIDSILGNKPYS</span><span class="topo-unknown">KKDYRS</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">LQFYRNLGKSGLRVSCLGLGTWVTFGGQITDEMAEHLMTLAYDNGINLFDTAEVYAAGKAEVVLGNIIKKKGWRRSSLVITTKIFWGGKAETERGLSRKHIIEGLKASLERLQLEYVDV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">VFANRPDPNTPMEETVRAMTHVINQGMAMYWGTSRWSSMEIMEAYSVARQFNLIPPICEQAEYHMFQREKVEVQLPELFHKIGVGAMTWSPLACGIVSGKYDSGIPPYSRASLKGYQWLK</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330   </span>
+<span class="topo-line"><span class="topo-inside">DKILSEEGRRQQAKLKELQAIAERLGCTLPQLAIAWCLRNEGVSSVLLGASNAEQLMENIGAIQVLPKLSSSIVHEIDSILGNKPYS</span><span class="topo-unknown">KKDYRS</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -394,6 +400,7 @@ The Kv1.2-2.1-2m channel is a double mutant (W362F, S367T) of the Kv1.2-2.1 chim
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -409,15 +416,17 @@ The Kv1.2-2.1-2m channel is a double mutant (W362F, S367T) of the Kv1.2-2.1 chim
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAHHHHHHHHHHGLVPRGSMTVATGDPVDEAAAHPGHPQDTYDPEAD</span><span class="topo-inside">HESSERVVINISG</span></span>
-<span class="topo-line"><span class="topo-inside">LRFETQLKTLAQFPETLLGDPKKRMRYFDPLRNEYFFDRNRPSFDAILYYYQSGGRLRRP</span></span>
-<span class="topo-line"><span class="topo-inside">VNVPLDIFSEEIRFYELGEEAMEMFREDEGY</span><span class="topo-unknown">IKEEERPLPEN</span><span class="topo-inside">EFQRQVWLLFEYPESSGP</span></span>
-<span class="topo-line"><span class="topo-inside">AR</span><span class="topo-membrane">IIAIVSVMVILISIVSFCL</span><span class="topo-outside">ETLPIF</span><span class="topo-unknown">RDENEDMHGGGVTFHTYSQSTIGYQQSTSF</span><span class="topo-outside">TDP</span></span>
-<span class="topo-line"><span class="topo-outside">FF</span><span class="topo-membrane">IVETLCIIWFSFEFLVRFF</span><span class="topo-inside">ACPSKAGFFTN</span><span class="topo-membrane">IMNIIDIVAIIPYYVTI</span><span class="topo-unknown">FLTESNKSVLQ</span></span>
-<span class="topo-line"><span class="topo-unknown">FQN</span><span class="topo-outside">VRRV</span><span class="topo-membrane">VQIFRIMRILRIFKLSRHSK</span><span class="topo-inside">GLQILGQTLKASM</span><span class="topo-membrane">RELGLLIFFLFIGVILFSSA</span></span>
-<span class="topo-line"><span class="topo-membrane">VYFA</span><span class="topo-outside">EADERDSQFPSIPDA</span><span class="topo-unknown">FFWAVVTMTTVGY</span><span class="topo-outside">GDMVPTTI</span><span class="topo-membrane">GGKIVGSLCAIAGVLTIALP</span></span>
-<span class="topo-line"><span class="topo-membrane">V</span><span class="topo-inside">PVIVSNFNYFYHRET</span><span class="topo-unknown">EGEEQAQYLQVTSSPKIPSSPDLKKSRSASTISKSDYMEIQEGV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAHHHHHHHHHHGLVPRGSMTVATGDPVDEAAAHPGHPQDTYDPEAD</span><span class="topo-inside">HESSERVVINISGLRFETQLKTLAQFPETLLGDPKKRMRYFDPLRNEYFFDRNRPSFDAILYYYQSGGRLRRP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">VNVPLDIFSEEIRFYELGEEAMEMFREDEGY</span><span class="topo-unknown">IKEEERPLPEN</span><span class="topo-inside">EFQRQVWLLFEYPESSGPAR</span><span class="topo-membrane">IIAIVSVMVILISIVSFCL</span><span class="topo-outside">ETLPIF</span><span class="topo-unknown">RDENEDMHGGGVTFHTYSQSTIGYQQSTSF</span><span class="topo-outside">TDP</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">FF</span><span class="topo-membrane">IVETLCIIWFSFEFLVRFF</span><span class="topo-inside">ACPSKAGFFTN</span><span class="topo-membrane">IMNIIDIVAIIPYYVTI</span><span class="topo-unknown">FLTESNKSVLQFQN</span><span class="topo-outside">VRRV</span><span class="topo-membrane">VQIFRIMRILRIFKLSRHSK</span><span class="topo-inside">GLQILGQTLKASM</span><span class="topo-membrane">RELGLLIFFLFIGVILFSSA</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">VYFA</span><span class="topo-outside">EADERDSQFPSIPDA</span><span class="topo-unknown">FFWAVVTMTTVGY</span><span class="topo-outside">GDMVPTTI</span><span class="topo-membrane">GGKIVGSLCAIAGVLTIALPV</span><span class="topo-inside">PVIVSNFNYFYHRET</span><span class="topo-unknown">EGEEQAQYLQVTSSPKIPSSPDLKKSRSASTISKSDYMEIQEGV</span></span>
+<span class="topo-ruler">       490       500       510    </span>
 <span class="topo-line"><span class="topo-unknown">NNSNEDFREENLKTANSTLANTNYVNITKMLTDV</span></span>
+<details class="topo-details"><summary>Topology coordinates (22 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -583,6 +592,7 @@ The Kv1.2-2.1-2m channel is a double mutant (W362F, S367T) of the Kv1.2-2.1 chim
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -598,12 +608,13 @@ The Kv1.2-2.1-2m channel is a double mutant (W362F, S367T) of the Kv1.2-2.1 chim
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">LQFYRNLGKSGLRVSCLGLGTWVTFGGQITDEMAEHLMTLAYDNGINLFDTAEVYAAGK</span></span>
-<span class="topo-line"><span class="topo-inside">AEVVLGNIIKKKGWRRSSLVITTKIFWGGKAETERGLSRKHIIEGLKASLERLQLEYVDV</span></span>
-<span class="topo-line"><span class="topo-inside">VFANRPDPNTPMEETVRAMTHVINQGMAMYWGTSRWSSMEIMEAYSVARQFNLIPPICEQ</span></span>
-<span class="topo-line"><span class="topo-inside">AEYHMFQREKVEVQLPELFHKIGVGAMTWSPLACGIVSGKYDSGIPPYSRASLKGYQWLK</span></span>
-<span class="topo-line"><span class="topo-inside">DKILSEEGRRQQAKLKELQAIAERLGCTLPQLAIAWCLRNEGVSSVLLGASNAEQLMENI</span></span>
-<span class="topo-line"><span class="topo-inside">GAIQVLPKLSSSIVHEIDSILGNKPYS</span><span class="topo-unknown">KKDYRS</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">LQFYRNLGKSGLRVSCLGLGTWVTFGGQITDEMAEHLMTLAYDNGINLFDTAEVYAAGKAEVVLGNIIKKKGWRRSSLVITTKIFWGGKAETERGLSRKHIIEGLKASLERLQLEYVDV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">VFANRPDPNTPMEETVRAMTHVINQGMAMYWGTSRWSSMEIMEAYSVARQFNLIPPICEQAEYHMFQREKVEVQLPELFHKIGVGAMTWSPLACGIVSGKYDSGIPPYSRASLKGYQWLK</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330   </span>
+<span class="topo-line"><span class="topo-inside">DKILSEEGRRQQAKLKELQAIAERLGCTLPQLAIAWCLRNEGVSSVLLGASNAEQLMENIGAIQVLPKLSSSIVHEIDSILGNKPYS</span><span class="topo-unknown">KKDYRS</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -636,6 +647,7 @@ The Kv1.2-2.1-2m channel is a double mutant (W362F, S367T) of the Kv1.2-2.1 chim
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -651,15 +663,17 @@ The Kv1.2-2.1-2m channel is a double mutant (W362F, S367T) of the Kv1.2-2.1 chim
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAHHHHHHHHHHGLVPRGSMTVATGDPVDEAAAHPGHPQDTYDPEAD</span><span class="topo-inside">HESSERVVINISG</span></span>
-<span class="topo-line"><span class="topo-inside">LRFETQLKTLAQFPETLLGDPKKRMRYFDPLRNEYFFDRNRPSFDAILYYYQSGGRLRRP</span></span>
-<span class="topo-line"><span class="topo-inside">VNVPLDIFSEEIRFYELGEEAMEMFREDEGY</span><span class="topo-unknown">IKEEERPLPEN</span><span class="topo-inside">EFQRQVWLLFEYPESSGP</span></span>
-<span class="topo-line"><span class="topo-inside">AR</span><span class="topo-membrane">IIAIVSVMVILISIVSFCL</span><span class="topo-outside">ETLPIF</span><span class="topo-unknown">RDENEDMHGGGVTFHTYSQSTIGYQQSTSF</span><span class="topo-outside">TDP</span></span>
-<span class="topo-line"><span class="topo-outside">FF</span><span class="topo-membrane">IVETLCIIWFSFEFLVRFF</span><span class="topo-inside">ACPSKAGFFTN</span><span class="topo-membrane">IMNIIDIVAIIPYYVTI</span><span class="topo-unknown">FLTESNKSVLQ</span></span>
-<span class="topo-line"><span class="topo-unknown">FQN</span><span class="topo-outside">VRRV</span><span class="topo-membrane">VQIFRIMRILRIFKLSRHSK</span><span class="topo-inside">GLQILGQTLKASM</span><span class="topo-membrane">RELGLLIFFLFIGVILFSSA</span></span>
-<span class="topo-line"><span class="topo-membrane">VYFA</span><span class="topo-outside">EADERDSQFPSIPDA</span><span class="topo-unknown">FFWAVVTMTTVGY</span><span class="topo-outside">GDMVPTTI</span><span class="topo-membrane">GGKIVGSLCAIAGVLTIALP</span></span>
-<span class="topo-line"><span class="topo-membrane">V</span><span class="topo-inside">PVIVSNFNYFYHRET</span><span class="topo-unknown">EGEEQAQYLQVTSSPKIPSSPDLKKSRSASTISKSDYMEIQEGV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAHHHHHHHHHHGLVPRGSMTVATGDPVDEAAAHPGHPQDTYDPEAD</span><span class="topo-inside">HESSERVVINISGLRFETQLKTLAQFPETLLGDPKKRMRYFDPLRNEYFFDRNRPSFDAILYYYQSGGRLRRP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">VNVPLDIFSEEIRFYELGEEAMEMFREDEGY</span><span class="topo-unknown">IKEEERPLPEN</span><span class="topo-inside">EFQRQVWLLFEYPESSGPAR</span><span class="topo-membrane">IIAIVSVMVILISIVSFCL</span><span class="topo-outside">ETLPIF</span><span class="topo-unknown">RDENEDMHGGGVTFHTYSQSTIGYQQSTSF</span><span class="topo-outside">TDP</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">FF</span><span class="topo-membrane">IVETLCIIWFSFEFLVRFF</span><span class="topo-inside">ACPSKAGFFTN</span><span class="topo-membrane">IMNIIDIVAIIPYYVTI</span><span class="topo-unknown">FLTESNKSVLQFQN</span><span class="topo-outside">VRRV</span><span class="topo-membrane">VQIFRIMRILRIFKLSRHSK</span><span class="topo-inside">GLQILGQTLKASM</span><span class="topo-membrane">RELGLLIFFLFIGVILFSSA</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">VYFA</span><span class="topo-outside">EADERDSQFPSIPDA</span><span class="topo-unknown">FFWAVVTMTTVGY</span><span class="topo-outside">GDMVPTTI</span><span class="topo-membrane">GGKIVGSLCAIAGVLTIALPV</span><span class="topo-inside">PVIVSNFNYFYHRET</span><span class="topo-unknown">EGEEQAQYLQVTSSPKIPSSPDLKKSRSASTISKSDYMEIQEGV</span></span>
+<span class="topo-ruler">       490       500       510    </span>
 <span class="topo-line"><span class="topo-unknown">NNSNEDFREENLKTANSTLANTNYVNITKMLTDV</span></span>
+<details class="topo-details"><summary>Topology coordinates (22 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -825,6 +839,7 @@ The Kv1.2-2.1-2m channel is a double mutant (W362F, S367T) of the Kv1.2-2.1 chim
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -840,12 +855,13 @@ The Kv1.2-2.1-2m channel is a double mutant (W362F, S367T) of the Kv1.2-2.1 chim
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">LQFYRNLGKSGLRVSCLGLGTWVTFGGQITDEMAEHLMTLAYDNGINLFDTAEVYAAGK</span></span>
-<span class="topo-line"><span class="topo-inside">AEVVLGNIIKKKGWRRSSLVITTKIFWGGKAETERGLSRKHIIEGLKASLERLQLEYVDV</span></span>
-<span class="topo-line"><span class="topo-inside">VFANRPDPNTPMEETVRAMTHVINQGMAMYWGTSRWSSMEIMEAYSVARQFNLIPPICEQ</span></span>
-<span class="topo-line"><span class="topo-inside">AEYHMFQREKVEVQLPELFHKIGVGAMTWSPLACGIVSGKYDSGIPPYSRASLKGYQWLK</span></span>
-<span class="topo-line"><span class="topo-inside">DKILSEEGRRQQAKLKELQAIAERLGCTLPQLAIAWCLRNEGVSSVLLGASNAEQLMENI</span></span>
-<span class="topo-line"><span class="topo-inside">GAIQVLPKLSSSIVHEIDSILGNKPYS</span><span class="topo-unknown">KKDYRS</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">LQFYRNLGKSGLRVSCLGLGTWVTFGGQITDEMAEHLMTLAYDNGINLFDTAEVYAAGKAEVVLGNIIKKKGWRRSSLVITTKIFWGGKAETERGLSRKHIIEGLKASLERLQLEYVDV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">VFANRPDPNTPMEETVRAMTHVINQGMAMYWGTSRWSSMEIMEAYSVARQFNLIPPICEQAEYHMFQREKVEVQLPELFHKIGVGAMTWSPLACGIVSGKYDSGIPPYSRASLKGYQWLK</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330   </span>
+<span class="topo-line"><span class="topo-inside">DKILSEEGRRQQAKLKELQAIAERLGCTLPQLAIAWCLRNEGVSSVLLGASNAEQLMENIGAIQVLPKLSSSIVHEIDSILGNKPYS</span><span class="topo-unknown">KKDYRS</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -878,6 +894,7 @@ The Kv1.2-2.1-2m channel is a double mutant (W362F, S367T) of the Kv1.2-2.1 chim
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -893,15 +910,17 @@ The Kv1.2-2.1-2m channel is a double mutant (W362F, S367T) of the Kv1.2-2.1 chim
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAHHHHHHHHHHGLVPRGSMTVATGDPVDEAAAHPGHPQDTYDPEAD</span><span class="topo-inside">HESSERVVINISG</span></span>
-<span class="topo-line"><span class="topo-inside">LRFETQLKTLAQFPETLLGDPKKRMRYFDPLRNEYFFDRNRPSFDAILYYYQSGGRLRRP</span></span>
-<span class="topo-line"><span class="topo-inside">VNVPLDIFSEEIRFYELGEEAMEMFREDEGY</span><span class="topo-unknown">IKEEERPLPEN</span><span class="topo-inside">EFQRQVWLLFEYPESSGP</span></span>
-<span class="topo-line"><span class="topo-inside">AR</span><span class="topo-membrane">IIAIVSVMVILISIVSFCL</span><span class="topo-outside">ETLPIF</span><span class="topo-unknown">RDENEDMHGGGVTFHTYSQSTIGYQQSTSF</span><span class="topo-outside">TDP</span></span>
-<span class="topo-line"><span class="topo-outside">FF</span><span class="topo-membrane">IVETLCIIWFSFEFLVRFF</span><span class="topo-inside">ACPSKAGFFTN</span><span class="topo-membrane">IMNIIDIVAIIPYYVTI</span><span class="topo-unknown">FLTESNKSVLQ</span></span>
-<span class="topo-line"><span class="topo-unknown">FQN</span><span class="topo-outside">VRRV</span><span class="topo-membrane">VQIFRIMRILRIFKLSRHSK</span><span class="topo-inside">GLQILGQTLKASM</span><span class="topo-membrane">RELGLLIFFLFIGVILFSSA</span></span>
-<span class="topo-line"><span class="topo-membrane">VYFA</span><span class="topo-outside">EADERDSQFPSIPDA</span><span class="topo-unknown">FFWAVVTMTTVGY</span><span class="topo-outside">GDMVPTTI</span><span class="topo-membrane">GGKIVGSLCAIAGVLTIALP</span></span>
-<span class="topo-line"><span class="topo-membrane">V</span><span class="topo-inside">PVIVSNFNYFYHRET</span><span class="topo-unknown">EGEEQAQYLQVTSSPKIPSSPDLKKSRSASTISKSDYMEIQEGV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAHHHHHHHHHHGLVPRGSMTVATGDPVDEAAAHPGHPQDTYDPEAD</span><span class="topo-inside">HESSERVVINISGLRFETQLKTLAQFPETLLGDPKKRMRYFDPLRNEYFFDRNRPSFDAILYYYQSGGRLRRP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">VNVPLDIFSEEIRFYELGEEAMEMFREDEGY</span><span class="topo-unknown">IKEEERPLPEN</span><span class="topo-inside">EFQRQVWLLFEYPESSGPAR</span><span class="topo-membrane">IIAIVSVMVILISIVSFCL</span><span class="topo-outside">ETLPIF</span><span class="topo-unknown">RDENEDMHGGGVTFHTYSQSTIGYQQSTSF</span><span class="topo-outside">TDP</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">FF</span><span class="topo-membrane">IVETLCIIWFSFEFLVRFF</span><span class="topo-inside">ACPSKAGFFTN</span><span class="topo-membrane">IMNIIDIVAIIPYYVTI</span><span class="topo-unknown">FLTESNKSVLQFQN</span><span class="topo-outside">VRRV</span><span class="topo-membrane">VQIFRIMRILRIFKLSRHSK</span><span class="topo-inside">GLQILGQTLKASM</span><span class="topo-membrane">RELGLLIFFLFIGVILFSSA</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">VYFA</span><span class="topo-outside">EADERDSQFPSIPDA</span><span class="topo-unknown">FFWAVVTMTTVGY</span><span class="topo-outside">GDMVPTTI</span><span class="topo-membrane">GGKIVGSLCAIAGVLTIALPV</span><span class="topo-inside">PVIVSNFNYFYHRET</span><span class="topo-unknown">EGEEQAQYLQVTSSPKIPSSPDLKKSRSASTISKSDYMEIQEGV</span></span>
+<span class="topo-ruler">       490       500       510    </span>
 <span class="topo-line"><span class="topo-unknown">NNSNEDFREENLKTANSTLANTNYVNITKMLTDV</span></span>
+<details class="topo-details"><summary>Topology coordinates (22 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1067,6 +1086,7 @@ The Kv1.2-2.1-2m channel is a double mutant (W362F, S367T) of the Kv1.2-2.1 chim
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

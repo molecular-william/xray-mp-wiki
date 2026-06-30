@@ -195,15 +195,17 @@ XylE is an Escherichia coli homologue of the human [Glucose](/xray-mp-wiki/reage
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MNTQ</span><span class="topo-inside">YNSSYIFSIT</span><span class="topo-membrane">LVATLGGLLFGYDTAVISGTV</span><span class="topo-unknown">ESLNTV</span><span class="topo-outside">FVAPQNLSESAANS</span><span class="topo-membrane">LLGFC</span></span>
-<span class="topo-line"><span class="topo-membrane">VASALIGCIIGGALG</span><span class="topo-inside">GYCSNRFGRRDS</span><span class="topo-membrane">LKIAAVLFFISGVGSAWP</span><span class="topo-outside">ELGFTSINPDNTVPV</span></span>
-<span class="topo-line"><span class="topo-outside">YLAG</span><span class="topo-membrane">YVPEFVIYRIIGGIGVGLASMLSP</span><span class="topo-inside">MYIAELAPAHIRG</span><span class="topo-membrane">KLVSFNQFAIIFGQLLVYC</span></span>
-<span class="topo-line"><span class="topo-membrane">VNYFI</span><span class="topo-outside">ARSGDASWLNTDG</span><span class="topo-membrane">WRYMFASECIPALLFLMLLY</span><span class="topo-inside">TVPESPRWLMSRGKQEQAEGIL</span></span>
-<span class="topo-line"><span class="topo-inside">RKIMGNTLATQAVQEIKHSLDHGRKTGGRLLMFGVGVIV</span><span class="topo-membrane">IGVMLSIFQQFVGINVVLYYA</span></span>
-<span class="topo-line"><span class="topo-membrane">PE</span><span class="topo-outside">VFKTLGASTDIAL</span><span class="topo-membrane">LQTIIVGVINLTFTVLAIMTV</span><span class="topo-inside">DKFGR</span><span class="topo-membrane">KPLQIIGALGMAIGMFSLG</span></span>
-<span class="topo-line"><span class="topo-membrane">TAFY</span><span class="topo-outside">TQAPGIV</span><span class="topo-membrane">ALLSMLFYVAAFAMSWGPVCWVLL</span><span class="topo-inside">SEIFPNAIRGKALA</span><span class="topo-membrane">IAVAAQWLANY</span></span>
-<span class="topo-line"><span class="topo-membrane">FVSWTFPMMDK</span><span class="topo-unknown">NSWLVAHF</span><span class="topo-outside">HN</span><span class="topo-membrane">GFSYWIYGCMGVLAALFMW</span><span class="topo-inside">KFVPETKGKTLEELEALWE</span><span class="topo-unknown">P</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MNTQ</span><span class="topo-inside">YNSSYIFSIT</span><span class="topo-membrane">LVATLGGLLFGYDTAVISGTV</span><span class="topo-unknown">ESLNTV</span><span class="topo-outside">FVAPQNLSESAANS</span><span class="topo-membrane">LLGFCVASALIGCIIGGALG</span><span class="topo-inside">GYCSNRFGRRDS</span><span class="topo-membrane">LKIAAVLFFISGVGSAWP</span><span class="topo-outside">ELGFTSINPDNTVPV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">YLAG</span><span class="topo-membrane">YVPEFVIYRIIGGIGVGLASMLSP</span><span class="topo-inside">MYIAELAPAHIRG</span><span class="topo-membrane">KLVSFNQFAIIFGQLLVYCVNYFI</span><span class="topo-outside">ARSGDASWLNTDG</span><span class="topo-membrane">WRYMFASECIPALLFLMLLY</span><span class="topo-inside">TVPESPRWLMSRGKQEQAEGIL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">RKIMGNTLATQAVQEIKHSLDHGRKTGGRLLMFGVGVIV</span><span class="topo-membrane">IGVMLSIFQQFVGINVVLYYAPE</span><span class="topo-outside">VFKTLGASTDIAL</span><span class="topo-membrane">LQTIIVGVINLTFTVLAIMTV</span><span class="topo-inside">DKFGR</span><span class="topo-membrane">KPLQIIGALGMAIGMFSLG</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">TAFY</span><span class="topo-outside">TQAPGIV</span><span class="topo-membrane">ALLSMLFYVAAFAMSWGPVCWVLL</span><span class="topo-inside">SEIFPNAIRGKALA</span><span class="topo-membrane">IAVAAQWLANYFVSWTFPMMDK</span><span class="topo-unknown">NSWLVAHF</span><span class="topo-outside">HN</span><span class="topo-membrane">GFSYWIYGCMGVLAALFMW</span><span class="topo-inside">KFVPETKGKTLEELEALWE</span><span class="topo-unknown">P</span></span>
+<span class="topo-ruler">       490 </span>
 <span class="topo-line"><span class="topo-unknown">ETKKTQQTATL</span></span>
+<details class="topo-details"><summary>Topology coordinates (29 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -418,6 +420,7 @@ XylE is an Escherichia coli homologue of the human [Glucose](/xray-mp-wiki/reage
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -433,15 +436,17 @@ XylE is an Escherichia coli homologue of the human [Glucose](/xray-mp-wiki/reage
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MNTQ</span><span class="topo-outside">YNSSYIF</span><span class="topo-membrane">SITLVATLGGLLFGYDTAVIS</span><span class="topo-inside">GTVESLNTVFVAPQNLSESAANSLLG</span><span class="topo-membrane">FC</span></span>
-<span class="topo-line"><span class="topo-membrane">VASALIGCIIGGALGGYCS</span><span class="topo-outside">NRFGR</span><span class="topo-membrane">RDSLKIAAVLFFISGVGSAWPE</span><span class="topo-inside">LGFTSINPDNTVPV</span></span>
-<span class="topo-line"><span class="topo-inside">YLAGYVP</span><span class="topo-membrane">EFVIYRIIGGIGVGLASMLSPMYI</span><span class="topo-outside">AELAPAHIRG</span><span class="topo-membrane">KLVSFNQFAIIFGQLLVYC</span></span>
-<span class="topo-line"><span class="topo-membrane">VN</span><span class="topo-inside">YFIARSGDASWLNTDGWRY</span><span class="topo-membrane">MFASECIPALLFLMLLYTV</span><span class="topo-outside">PESPRWLMSRGKQEQAEGIL</span></span>
-<span class="topo-line"><span class="topo-outside">RKIMGNTLATQAVQEIKHSLDHGRKTGGRLLMFGVGVIV</span><span class="topo-membrane">IGVMLSIFQQFVGINVVLYYA</span></span>
-<span class="topo-line"><span class="topo-membrane">P</span><span class="topo-inside">EVFKTLGASTDIALLQ</span><span class="topo-membrane">TIIVGVINLTFTVLAIMTV</span><span class="topo-outside">DKFGR</span><span class="topo-membrane">KPLQIIGALGMAIGMFSLG</span></span>
-<span class="topo-line"><span class="topo-membrane">TA</span><span class="topo-inside">FYTQAPGIV</span><span class="topo-membrane">ALLSMLFYVAAFAMSWGPVCWVLLS</span><span class="topo-outside">EIFPNAIRGKAL</span><span class="topo-membrane">AIAVAAQWLANY</span></span>
-<span class="topo-line"><span class="topo-membrane">FVSWTFPMMD</span><span class="topo-inside">KNSWLVAHFHNG</span><span class="topo-membrane">FSYWIYGCMGVLAALFMW</span><span class="topo-outside">KFVPETKGKTLEELEALWE</span><span class="topo-unknown">P</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MNTQ</span><span class="topo-outside">YNSSYIF</span><span class="topo-membrane">SITLVATLGGLLFGYDTAVIS</span><span class="topo-inside">GTVESLNTVFVAPQNLSESAANSLLG</span><span class="topo-membrane">FCVASALIGCIIGGALGGYCS</span><span class="topo-outside">NRFGR</span><span class="topo-membrane">RDSLKIAAVLFFISGVGSAWPE</span><span class="topo-inside">LGFTSINPDNTVPV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">YLAGYVP</span><span class="topo-membrane">EFVIYRIIGGIGVGLASMLSPMYI</span><span class="topo-outside">AELAPAHIRG</span><span class="topo-membrane">KLVSFNQFAIIFGQLLVYCVN</span><span class="topo-inside">YFIARSGDASWLNTDGWRY</span><span class="topo-membrane">MFASECIPALLFLMLLYTV</span><span class="topo-outside">PESPRWLMSRGKQEQAEGIL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">RKIMGNTLATQAVQEIKHSLDHGRKTGGRLLMFGVGVIV</span><span class="topo-membrane">IGVMLSIFQQFVGINVVLYYAP</span><span class="topo-inside">EVFKTLGASTDIALLQ</span><span class="topo-membrane">TIIVGVINLTFTVLAIMTV</span><span class="topo-outside">DKFGR</span><span class="topo-membrane">KPLQIIGALGMAIGMFSLG</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">TA</span><span class="topo-inside">FYTQAPGIV</span><span class="topo-membrane">ALLSMLFYVAAFAMSWGPVCWVLLS</span><span class="topo-outside">EIFPNAIRGKAL</span><span class="topo-membrane">AIAVAAQWLANYFVSWTFPMMD</span><span class="topo-inside">KNSWLVAHFHNG</span><span class="topo-membrane">FSYWIYGCMGVLAALFMW</span><span class="topo-outside">KFVPETKGKTLEELEALWE</span><span class="topo-unknown">P</span></span>
+<span class="topo-ruler">       490 </span>
 <span class="topo-line"><span class="topo-unknown">ETKKTQQTATL</span></span>
+<details class="topo-details"><summary>Topology coordinates (27 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -642,6 +647,7 @@ XylE is an Escherichia coli homologue of the human [Glucose](/xray-mp-wiki/reage
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -781,14 +787,15 @@ XylE is an Escherichia coli homologue of the human [Glucose](/xray-mp-wiki/reage
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GSHMNS</span><span class="topo-outside">SYIFSITL</span><span class="topo-membrane">VATLGGLLFGYDTAVISGTVESLN</span><span class="topo-inside">TVFVAPQNLSES</span><span class="topo-membrane">AANSLLGFCV</span></span>
-<span class="topo-line"><span class="topo-membrane">ASALIGCIIGGALG</span><span class="topo-outside">GYCSNRFGRRD</span><span class="topo-membrane">SLKIAAVLFFISGVGSAWPE</span><span class="topo-inside">LGFTSINPDNTVPVY</span></span>
-<span class="topo-line"><span class="topo-inside">L</span><span class="topo-membrane">AGYVPEFVIYRIIGGIGVGLASM</span><span class="topo-outside">LSPMYIAELAPAHIRGKLVS</span><span class="topo-membrane">FNQFAIIFGQLLVYCV</span></span>
-<span class="topo-line"><span class="topo-membrane">NYFIAR</span><span class="topo-inside">SGDASWLNTD</span><span class="topo-membrane">GWRYMFASECIPALLFLMLLY</span><span class="topo-outside">TVPESPRWLM</span><span class="topo-unknown">SRGKQEQAEGILR</span></span>
-<span class="topo-line"><span class="topo-unknown">KIMGN</span><span class="topo-outside">TLATQAVQEIKHSLD</span><span class="topo-unknown">HGRKTGG</span><span class="topo-outside">RLLMFGVGVIV</span><span class="topo-membrane">IGVMLSIFQQFVGINVVLYYAP</span></span>
-<span class="topo-line"><span class="topo-membrane">EVFK</span><span class="topo-inside">TLGAST</span><span class="topo-membrane">DIALLQTIIVGVINLTFTVLAIMTV</span><span class="topo-outside">DKFGRK</span><span class="topo-membrane">PLQIIGALGMAIGMFSLGT</span></span>
-<span class="topo-line"><span class="topo-membrane">AFY</span><span class="topo-inside">TQAPG</span><span class="topo-membrane">IVALLSMLFYVAAFAMSWGPVCW</span><span class="topo-outside">VLLSEIFPNAIRGKALAI</span><span class="topo-membrane">AVAAQWLANYF</span></span>
-<span class="topo-line"><span class="topo-membrane">VSWTFPMMDKN</span><span class="topo-unknown">SWLVAHF</span><span class="topo-inside">HN</span><span class="topo-membrane">GFSYWIYGCMGVLAALFMWKF</span><span class="topo-outside">VPETKGKTL</span><span class="topo-unknown">EELEALWEP</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GSHMNS</span><span class="topo-outside">SYIFSITL</span><span class="topo-membrane">VATLGGLLFGYDTAVISGTVESLN</span><span class="topo-inside">TVFVAPQNLSES</span><span class="topo-membrane">AANSLLGFCVASALIGCIIGGALG</span><span class="topo-outside">GYCSNRFGRRD</span><span class="topo-membrane">SLKIAAVLFFISGVGSAWPE</span><span class="topo-inside">LGFTSINPDNTVPVY</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">L</span><span class="topo-membrane">AGYVPEFVIYRIIGGIGVGLASM</span><span class="topo-outside">LSPMYIAELAPAHIRGKLVS</span><span class="topo-membrane">FNQFAIIFGQLLVYCVNYFIAR</span><span class="topo-inside">SGDASWLNTD</span><span class="topo-membrane">GWRYMFASECIPALLFLMLLY</span><span class="topo-outside">TVPESPRWLM</span><span class="topo-unknown">SRGKQEQAEGILR</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-unknown">KIMGN</span><span class="topo-outside">TLATQAVQEIKHSLD</span><span class="topo-unknown">HGRKTGG</span><span class="topo-outside">RLLMFGVGVIV</span><span class="topo-membrane">IGVMLSIFQQFVGINVVLYYAPEVFK</span><span class="topo-inside">TLGAST</span><span class="topo-membrane">DIALLQTIIVGVINLTFTVLAIMTV</span><span class="topo-outside">DKFGRK</span><span class="topo-membrane">PLQIIGALGMAIGMFSLGT</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470         </span>
+<span class="topo-line"><span class="topo-membrane">AFY</span><span class="topo-inside">TQAPG</span><span class="topo-membrane">IVALLSMLFYVAAFAMSWGPVCW</span><span class="topo-outside">VLLSEIFPNAIRGKALAI</span><span class="topo-membrane">AVAAQWLANYFVSWTFPMMDKN</span><span class="topo-unknown">SWLVAHF</span><span class="topo-inside">HN</span><span class="topo-membrane">GFSYWIYGCMGVLAALFMWKF</span><span class="topo-outside">VPETKGKTL</span><span class="topo-unknown">EELEALWEP</span></span>
+<details class="topo-details"><summary>Topology coordinates (32 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1024,6 +1031,7 @@ XylE is an Escherichia coli homologue of the human [Glucose](/xray-mp-wiki/reage
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1190,15 +1198,17 @@ XylE is an Escherichia coli homologue of the human [Glucose](/xray-mp-wiki/reage
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GNTQYNSS</span><span class="topo-outside">YIF</span><span class="topo-membrane">SITLVATLGGLLFGYDTAVISG</span><span class="topo-inside">TVESLNTVFVAPQNLSESAANSLLG</span><span class="topo-membrane">FC</span></span>
-<span class="topo-line"><span class="topo-membrane">VASALIGCIIGGALG</span><span class="topo-outside">GYCSNRFGRR</span><span class="topo-membrane">DSLKIAAVLFFISGVGSAWP</span><span class="topo-inside">ELGFTSINPDNTVPV</span></span>
-<span class="topo-line"><span class="topo-inside">YLAGYV</span><span class="topo-membrane">PEFVIYRIIGGIGVGLASMLSP</span><span class="topo-outside">MYIAELAPAHIRGKLV</span><span class="topo-membrane">SFNQFAIIFGQLLVYC</span></span>
-<span class="topo-line"><span class="topo-membrane">VN</span><span class="topo-inside">YFIARSGDASWLNTDGWRYM</span><span class="topo-membrane">FASECIPALLFLMLLYTV</span><span class="topo-outside">PESPRWLM</span><span class="topo-unknown">SRGK</span><span class="topo-outside">QEQAEGIL</span></span>
-<span class="topo-line"><span class="topo-outside">RKIMGNTLATQAVQEIKHSLDHG</span><span class="topo-unknown">RKTGGRLL</span><span class="topo-outside">MFGVGVIV</span><span class="topo-membrane">IGVMLSIFQQFVGINVVLYYA</span></span>
-<span class="topo-line"><span class="topo-inside">PEV</span><span class="topo-unknown">FKTLGASTDIA</span><span class="topo-inside">LLQ</span><span class="topo-membrane">TIIVGVINLTFTVLAIMTV</span><span class="topo-outside">DKFGRK</span><span class="topo-membrane">PLQIIGALGMAIGMFSLG</span></span>
-<span class="topo-line"><span class="topo-membrane">T</span><span class="topo-inside">AFYTQAPGIVA</span><span class="topo-membrane">LLSMLFYVAAFAMSWGPVCW</span><span class="topo-outside">VLLSEIFPNAIRGKALA</span><span class="topo-membrane">IAVAAQWLANY</span></span>
-<span class="topo-line"><span class="topo-membrane">FVSWTFPMM</span><span class="topo-inside">DKNSW</span><span class="topo-unknown">LVAHFH</span><span class="topo-inside">NGF</span><span class="topo-membrane">SYWIYGCMGVLAALFMWKF</span><span class="topo-outside">VPETKGKTLEELEALWE</span><span class="topo-unknown">P</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GNTQYNSS</span><span class="topo-outside">YIF</span><span class="topo-membrane">SITLVATLGGLLFGYDTAVISG</span><span class="topo-inside">TVESLNTVFVAPQNLSESAANSLLG</span><span class="topo-membrane">FCVASALIGCIIGGALG</span><span class="topo-outside">GYCSNRFGRR</span><span class="topo-membrane">DSLKIAAVLFFISGVGSAWP</span><span class="topo-inside">ELGFTSINPDNTVPV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">YLAGYV</span><span class="topo-membrane">PEFVIYRIIGGIGVGLASMLSP</span><span class="topo-outside">MYIAELAPAHIRGKLV</span><span class="topo-membrane">SFNQFAIIFGQLLVYCVN</span><span class="topo-inside">YFIARSGDASWLNTDGWRYM</span><span class="topo-membrane">FASECIPALLFLMLLYTV</span><span class="topo-outside">PESPRWLM</span><span class="topo-unknown">SRGK</span><span class="topo-outside">QEQAEGIL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">RKIMGNTLATQAVQEIKHSLDHG</span><span class="topo-unknown">RKTGGRLL</span><span class="topo-outside">MFGVGVIV</span><span class="topo-membrane">IGVMLSIFQQFVGINVVLYYA</span><span class="topo-inside">PEV</span><span class="topo-unknown">FKTLGASTDIA</span><span class="topo-inside">LLQ</span><span class="topo-membrane">TIIVGVINLTFTVLAIMTV</span><span class="topo-outside">DKFGRK</span><span class="topo-membrane">PLQIIGALGMAIGMFSLG</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">T</span><span class="topo-inside">AFYTQAPGIVA</span><span class="topo-membrane">LLSMLFYVAAFAMSWGPVCW</span><span class="topo-outside">VLLSEIFPNAIRGKALA</span><span class="topo-membrane">IAVAAQWLANYFVSWTFPMM</span><span class="topo-inside">DKNSW</span><span class="topo-unknown">LVAHFH</span><span class="topo-inside">NGF</span><span class="topo-membrane">SYWIYGCMGVLAALFMWKF</span><span class="topo-outside">VPETKGKTLEELEALWE</span><span class="topo-unknown">P</span></span>
+<span class="topo-ruler">     </span>
 <span class="topo-line"><span class="topo-unknown">ETKKT</span></span>
+<details class="topo-details"><summary>Topology coordinates (35 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1455,6 +1465,7 @@ XylE is an Escherichia coli homologue of the human [Glucose](/xray-mp-wiki/reage
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1470,15 +1481,17 @@ XylE is an Escherichia coli homologue of the human [Glucose](/xray-mp-wiki/reage
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GNTQYNS</span><span class="topo-inside">SYIFSITL</span><span class="topo-membrane">VATLGGLLFGYDTAVISGTVESLN</span><span class="topo-outside">TVFVAPQNLSES</span><span class="topo-membrane">AANSLLGFC</span></span>
-<span class="topo-line"><span class="topo-membrane">VASALIGCIIGGALG</span><span class="topo-inside">GYCSNRFGRRDS</span><span class="topo-membrane">LKIAAVLFFISGVGSAWPE</span><span class="topo-outside">LGFTSINPDNTVPV</span></span>
-<span class="topo-line"><span class="topo-outside">YL</span><span class="topo-membrane">AGYVPEFVIYRIIGGIGVGLASMLS</span><span class="topo-inside">PMYIAELAPAHIRGKLVS</span><span class="topo-membrane">FNQFAIIFGQLLVYC</span></span>
-<span class="topo-line"><span class="topo-membrane">VNYFIARS</span><span class="topo-outside">GDASWLNTD</span><span class="topo-membrane">GWRYMFASECIPALLFLMLLY</span><span class="topo-inside">TVPESPRWLMSRGKQEQAEGIL</span></span>
-<span class="topo-line"><span class="topo-inside">RKIMGNTLATQAVQEIKHSLDHGR</span><span class="topo-unknown">KTGGRLLMFGV</span><span class="topo-inside">GVIV</span><span class="topo-membrane">IGVMLSIFQQFVGINVVLYYA</span></span>
-<span class="topo-line"><span class="topo-membrane">PEV</span><span class="topo-unknown">FKTLGA</span><span class="topo-outside">ST</span><span class="topo-membrane">DIALLQTIIVGVINLTFTVLAIMTV</span><span class="topo-inside">DKFGRK</span><span class="topo-membrane">PLQIIGALGMAIGMFSLG</span></span>
-<span class="topo-line"><span class="topo-membrane">TAFY</span><span class="topo-outside">TQAPG</span><span class="topo-membrane">IVALLSMLFYVAAFAMSWGPVCW</span><span class="topo-inside">VLLSE</span><span class="topo-unknown">IFPNAIRGK</span><span class="topo-inside">ALA</span><span class="topo-membrane">IAVAAQWLANY</span></span>
-<span class="topo-line"><span class="topo-membrane">FVSWTFPMMDK</span><span class="topo-outside">NS</span><span class="topo-unknown">WLVAHF</span><span class="topo-outside">HN</span><span class="topo-membrane">GFSYWIYGCMGVLAALFMWKF</span><span class="topo-inside">VPE</span><span class="topo-unknown">TKGKTLEELEALWEP</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GNTQYNS</span><span class="topo-inside">SYIFSITL</span><span class="topo-membrane">VATLGGLLFGYDTAVISGTVESLN</span><span class="topo-outside">TVFVAPQNLSES</span><span class="topo-membrane">AANSLLGFCVASALIGCIIGGALG</span><span class="topo-inside">GYCSNRFGRRDS</span><span class="topo-membrane">LKIAAVLFFISGVGSAWPE</span><span class="topo-outside">LGFTSINPDNTVPV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">YL</span><span class="topo-membrane">AGYVPEFVIYRIIGGIGVGLASMLS</span><span class="topo-inside">PMYIAELAPAHIRGKLVS</span><span class="topo-membrane">FNQFAIIFGQLLVYCVNYFIARS</span><span class="topo-outside">GDASWLNTD</span><span class="topo-membrane">GWRYMFASECIPALLFLMLLY</span><span class="topo-inside">TVPESPRWLMSRGKQEQAEGIL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">RKIMGNTLATQAVQEIKHSLDHGR</span><span class="topo-unknown">KTGGRLLMFGV</span><span class="topo-inside">GVIV</span><span class="topo-membrane">IGVMLSIFQQFVGINVVLYYAPEV</span><span class="topo-unknown">FKTLGA</span><span class="topo-outside">ST</span><span class="topo-membrane">DIALLQTIIVGVINLTFTVLAIMTV</span><span class="topo-inside">DKFGRK</span><span class="topo-membrane">PLQIIGALGMAIGMFSLG</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">TAFY</span><span class="topo-outside">TQAPG</span><span class="topo-membrane">IVALLSMLFYVAAFAMSWGPVCW</span><span class="topo-inside">VLLSE</span><span class="topo-unknown">IFPNAIRGK</span><span class="topo-inside">ALA</span><span class="topo-membrane">IAVAAQWLANYFVSWTFPMMDK</span><span class="topo-outside">NS</span><span class="topo-unknown">WLVAHF</span><span class="topo-outside">HN</span><span class="topo-membrane">GFSYWIYGCMGVLAALFMWKF</span><span class="topo-inside">VPE</span><span class="topo-unknown">TKGKTLEELEALWEP</span></span>
+<span class="topo-ruler">     </span>
 <span class="topo-line"><span class="topo-unknown">ETKKT</span></span>
+<details class="topo-details"><summary>Topology coordinates (34 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1728,6 +1741,7 @@ XylE is an Escherichia coli homologue of the human [Glucose](/xray-mp-wiki/reage
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

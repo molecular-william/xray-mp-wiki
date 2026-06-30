@@ -56,24 +56,25 @@ BpeF is a Resistance-Nodulation-Division (RND) superfamily multidrug efflux tran
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MNISKFFIDRPI</span><span class="topo-membrane">FAGVLSVIILLAGMIAM</span><span class="topo-inside">FLLPISEYPEVVPPSVIVKAQYPGANPKVIA</span></span>
-<span class="topo-line"><span class="topo-inside">ETVASPLEEQINGVEDMLYMQSQANSDGNMTITVTFKLGTDPDKATQLVQNRVNQALPRL</span></span>
-<span class="topo-line"><span class="topo-inside">PEDVQRLGITTVKSSPTLTMVVHLISPNDSYDMTYLRNYALINVKDRLSRIQGVGQVQLW</span></span>
-<span class="topo-line"><span class="topo-inside">GAGDYAMRVWLDPQKVAQRNLTADDVVRAIREQNVQVAAGVIGASPTLPGTPLQLSVNAR</span></span>
-<span class="topo-line"><span class="topo-inside">GRLQNEDEFGDIVVKTAPDGGVTHLRDIARIELDASEYGLRSLLDNKPAVAMAINQSPGA</span></span>
-<span class="topo-line"><span class="topo-inside">NSLAISDEVRKTMAELKQDFPAGVDYRIVYDPTQFVRSSIKA</span><span class="topo-membrane">VVHTLLEAIALVVIVV</span><span class="topo-outside">IV</span></span>
-<span class="topo-line"><span class="topo-outside">FLQTWRAS</span><span class="topo-membrane">IIPLIAVPVSIVGTFSLLLLF</span><span class="topo-inside">GYSINALSL</span><span class="topo-membrane">FGMVLAIGIVVDDAIV</span><span class="topo-outside">VVENVE</span></span>
-<span class="topo-line"><span class="topo-outside">RNIENGLTARAATYKAMQEVSGP</span><span class="topo-membrane">IIAIALTLVAVFVPLA</span><span class="topo-inside">FMSGLTGQFYKQF</span><span class="topo-membrane">AMTIAIST</span></span>
-<span class="topo-line"><span class="topo-membrane">VISAFNSLTLS</span><span class="topo-outside">PALSAILLKGHGDKEDWLTRVMNRVLGGFFRGFNKVFHRGAENYGRGVR</span></span>
-<span class="topo-line"><span class="topo-outside">GVLSRKAVM</span><span class="topo-membrane">LGLYLVLVGATLMVSKI</span><span class="topo-inside">VPGGFVPAQDKEYLIAFAQLPNGASLDRTEKVIR</span></span>
-<span class="topo-line"><span class="topo-inside">DMGAIALKQPGVESAVAFPGLSVNGFTNSSSAGIVFVTLKPFDQRHGKALSAGAIAGALN</span></span>
-<span class="topo-line"><span class="topo-inside">QKYAALKDSFVAVFPPPPVLGLGTLGGFKMQIEDRGAVGYARLADATNDFIKRAQQAPEL</span></span>
-<span class="topo-line"><span class="topo-inside">GPLFTSYQINVPQLNVDLDRVKAKQLGVNVTDVFDTMQIYLGSLYVNDFNRFGRVYQVRV</span></span>
-<span class="topo-line"><span class="topo-inside">QADAPFRQRADDILQLKTRNAAGEMVPLSSLVTVSPTFGPEMVVRYNAYTAADVNGGPAP</span></span>
-<span class="topo-line"><span class="topo-inside">GYSSGQAQAAVERIAAQTLPRGVKFEWTDLTYQQILAGDSAF</span><span class="topo-membrane">WVFPISVLLVFLVLAAL</span><span class="topo-outside">Y</span></span>
-<span class="topo-line"><span class="topo-outside">ESLTLP</span><span class="topo-membrane">LAVILIVPMSILSALTGVWLT</span><span class="topo-inside">QGDNNIFT</span><span class="topo-membrane">QIGLMVLVGLSAKNAI</span><span class="topo-outside">LIVEFAREL</span></span>
-<span class="topo-line"><span class="topo-outside">EHDGKTPFEAAVEASRLRLRPI</span><span class="topo-membrane">LMTSIAFIMGVVPLVLS</span><span class="topo-inside">TGAGAEMR</span><span class="topo-membrane">HAMGVAVFFGMLG</span></span>
-<span class="topo-line"><span class="topo-membrane">VTLFGL</span><span class="topo-outside">MLTPVFYVVLRTLAGG</span><span class="topo-unknown">KIHVAQKDSAGYGVPAPDAHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MNISKFFIDRPI</span><span class="topo-membrane">FAGVLSVIILLAGMIAM</span><span class="topo-inside">FLLPISEYPEVVPPSVIVKAQYPGANPKVIAETVASPLEEQINGVEDMLYMQSQANSDGNMTITVTFKLGTDPDKATQLVQNRVNQALPRL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">PEDVQRLGITTVKSSPTLTMVVHLISPNDSYDMTYLRNYALINVKDRLSRIQGVGQVQLWGAGDYAMRVWLDPQKVAQRNLTADDVVRAIREQNVQVAAGVIGASPTLPGTPLQLSVNAR</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">GRLQNEDEFGDIVVKTAPDGGVTHLRDIARIELDASEYGLRSLLDNKPAVAMAINQSPGANSLAISDEVRKTMAELKQDFPAGVDYRIVYDPTQFVRSSIKA</span><span class="topo-membrane">VVHTLLEAIALVVIVV</span><span class="topo-outside">IV</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">FLQTWRAS</span><span class="topo-membrane">IIPLIAVPVSIVGTFSLLLLF</span><span class="topo-inside">GYSINALSL</span><span class="topo-membrane">FGMVLAIGIVVDDAIV</span><span class="topo-outside">VVENVERNIENGLTARAATYKAMQEVSGP</span><span class="topo-membrane">IIAIALTLVAVFVPLA</span><span class="topo-inside">FMSGLTGQFYKQF</span><span class="topo-membrane">AMTIAIST</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-membrane">VISAFNSLTLS</span><span class="topo-outside">PALSAILLKGHGDKEDWLTRVMNRVLGGFFRGFNKVFHRGAENYGRGVRGVLSRKAVM</span><span class="topo-membrane">LGLYLVLVGATLMVSKI</span><span class="topo-inside">VPGGFVPAQDKEYLIAFAQLPNGASLDRTEKVIR</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-inside">DMGAIALKQPGVESAVAFPGLSVNGFTNSSSAGIVFVTLKPFDQRHGKALSAGAIAGALNQKYAALKDSFVAVFPPPPVLGLGTLGGFKMQIEDRGAVGYARLADATNDFIKRAQQAPEL</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820       830       840</span>
+<span class="topo-line"><span class="topo-inside">GPLFTSYQINVPQLNVDLDRVKAKQLGVNVTDVFDTMQIYLGSLYVNDFNRFGRVYQVRVQADAPFRQRADDILQLKTRNAAGEMVPLSSLVTVSPTFGPEMVVRYNAYTAADVNGGPAP</span></span>
+<span class="topo-ruler">       850       860       870       880       890       900       910       920       930       940       950       960</span>
+<span class="topo-line"><span class="topo-inside">GYSSGQAQAAVERIAAQTLPRGVKFEWTDLTYQQILAGDSAF</span><span class="topo-membrane">WVFPISVLLVFLVLAAL</span><span class="topo-outside">YESLTLP</span><span class="topo-membrane">LAVILIVPMSILSALTGVWLT</span><span class="topo-inside">QGDNNIFT</span><span class="topo-membrane">QIGLMVLVGLSAKNAI</span><span class="topo-outside">LIVEFAREL</span></span>
+<span class="topo-ruler">       970       980       990      1000      1010      1020      1030      1040      1050      1060       </span>
+<span class="topo-line"><span class="topo-outside">EHDGKTPFEAAVEASRLRLRPI</span><span class="topo-membrane">LMTSIAFIMGVVPLVLS</span><span class="topo-inside">TGAGAEMR</span><span class="topo-membrane">HAMGVAVFFGMLGVTLFGL</span><span class="topo-outside">MLTPVFYVVLRTLAGG</span><span class="topo-unknown">KIHVAQKDSAGYGVPAPDAHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (26 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -267,6 +268,7 @@ BpeF is a Resistance-Nodulation-Division (RND) superfamily multidrug efflux tran
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -282,24 +284,25 @@ BpeF is a Resistance-Nodulation-Division (RND) superfamily multidrug efflux tran
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MNISKFFIDRPI</span><span class="topo-membrane">FAGVLSVIILLAGMIAM</span><span class="topo-inside">FLLPISEYPEVVPPSVIVKAQYPGANPKVIA</span></span>
-<span class="topo-line"><span class="topo-inside">ETVASPLEEQINGVEDMLYMQSQANSDGNMTITVTFKLGTDPDKATQLVQNRVNQALPRL</span></span>
-<span class="topo-line"><span class="topo-inside">PEDVQRLGITTVKSSPTLTMVVHLISPNDSYDMTYLRNYALINVKDRLSRIQGVGQVQLW</span></span>
-<span class="topo-line"><span class="topo-inside">GAGDYAMRVWLDPQKVAQRNLTADDVVRAIREQNVQVAAGVIGASPTLPGTPLQLSVNAR</span></span>
-<span class="topo-line"><span class="topo-inside">GRLQNEDEFGDIVVKTAPDGGVTHLRDIARIELDASEYGLRSLLDNKPAVAMAINQSPGA</span></span>
-<span class="topo-line"><span class="topo-inside">NSLAISDEVRKTMAELKQDFPAGVDYRIVYDPTQFVRSSIKA</span><span class="topo-membrane">VVHTLLEAIALVVIVV</span><span class="topo-outside">IV</span></span>
-<span class="topo-line"><span class="topo-outside">FLQTWRAS</span><span class="topo-membrane">IIPLIAVPVSIVGTFSLL</span><span class="topo-inside">LLFGYSINALSL</span><span class="topo-membrane">FGMVLAIGIVVDDAIV</span><span class="topo-outside">VVENVE</span></span>
-<span class="topo-line"><span class="topo-outside">RNIENGLTARAATYKAMQEVSGP</span><span class="topo-membrane">IIAIALTLVAVFVPLA</span><span class="topo-inside">FMSGLTGQFYKQF</span><span class="topo-membrane">AMTIAIST</span></span>
-<span class="topo-line"><span class="topo-membrane">VISAFNSLTLS</span><span class="topo-outside">PALSAILLKGHGDKEDWLTRVMNRVLGGFFRGFNKVFHRGAENYGRGVR</span></span>
-<span class="topo-line"><span class="topo-outside">GVLSRKAVM</span><span class="topo-membrane">LGLYLVLVGATLMVSK</span><span class="topo-inside">IVPGGFVPAQDKEYLIAFAQLPNGASLDRTEKVIR</span></span>
-<span class="topo-line"><span class="topo-inside">DMGAIALKQPGVESAVAFPGLSVNGFTNSSSAGIVFVTLKPFDQRHGKALSAGAIAGALN</span></span>
-<span class="topo-line"><span class="topo-inside">QKYAALKDSFVAVFPPPPVLGLGTLGGFKMQIEDRGAVGYARLADATNDFIKRAQQAPEL</span></span>
-<span class="topo-line"><span class="topo-inside">GPLFTSYQINVPQLNVDLDRVKAKQLGVNVTDVFDTMQIYLGSLYVNDFNRFGRVYQVRV</span></span>
-<span class="topo-line"><span class="topo-inside">QADAPFRQRADDILQLKTRNAAGEMVPLSSLVTVSPTFGPEMVVRYNAYTAADVNGGPAP</span></span>
-<span class="topo-line"><span class="topo-inside">GYSSGQAQAAVERIAAQTLPRGVKFEWTDLTYQQILAGDSAF</span><span class="topo-membrane">WVFPISVLLVFLVLAAL</span><span class="topo-outside">Y</span></span>
-<span class="topo-line"><span class="topo-outside">ESL</span><span class="topo-membrane">TLPLAVILIVPMSILSALTGVWLT</span><span class="topo-inside">QGDNNIFT</span><span class="topo-membrane">QIGLMVLVGLSAKNAI</span><span class="topo-outside">LIVEFAREL</span></span>
-<span class="topo-line"><span class="topo-outside">EHDGKTPFEAAVEASRLRLRPI</span><span class="topo-membrane">LMTSIAFIMGVVPLVLS</span><span class="topo-inside">TGAGAEMR</span><span class="topo-membrane">HAMGVAVFFGMLG</span></span>
-<span class="topo-line"><span class="topo-membrane">VTLFGLMLT</span><span class="topo-outside">PVFYVVLRTLAGG</span><span class="topo-unknown">KIHVAQKDSAGYGVPAPDAHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MNISKFFIDRPI</span><span class="topo-membrane">FAGVLSVIILLAGMIAM</span><span class="topo-inside">FLLPISEYPEVVPPSVIVKAQYPGANPKVIAETVASPLEEQINGVEDMLYMQSQANSDGNMTITVTFKLGTDPDKATQLVQNRVNQALPRL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">PEDVQRLGITTVKSSPTLTMVVHLISPNDSYDMTYLRNYALINVKDRLSRIQGVGQVQLWGAGDYAMRVWLDPQKVAQRNLTADDVVRAIREQNVQVAAGVIGASPTLPGTPLQLSVNAR</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">GRLQNEDEFGDIVVKTAPDGGVTHLRDIARIELDASEYGLRSLLDNKPAVAMAINQSPGANSLAISDEVRKTMAELKQDFPAGVDYRIVYDPTQFVRSSIKA</span><span class="topo-membrane">VVHTLLEAIALVVIVV</span><span class="topo-outside">IV</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">FLQTWRAS</span><span class="topo-membrane">IIPLIAVPVSIVGTFSLL</span><span class="topo-inside">LLFGYSINALSL</span><span class="topo-membrane">FGMVLAIGIVVDDAIV</span><span class="topo-outside">VVENVERNIENGLTARAATYKAMQEVSGP</span><span class="topo-membrane">IIAIALTLVAVFVPLA</span><span class="topo-inside">FMSGLTGQFYKQF</span><span class="topo-membrane">AMTIAIST</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-membrane">VISAFNSLTLS</span><span class="topo-outside">PALSAILLKGHGDKEDWLTRVMNRVLGGFFRGFNKVFHRGAENYGRGVRGVLSRKAVM</span><span class="topo-membrane">LGLYLVLVGATLMVSK</span><span class="topo-inside">IVPGGFVPAQDKEYLIAFAQLPNGASLDRTEKVIR</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-inside">DMGAIALKQPGVESAVAFPGLSVNGFTNSSSAGIVFVTLKPFDQRHGKALSAGAIAGALNQKYAALKDSFVAVFPPPPVLGLGTLGGFKMQIEDRGAVGYARLADATNDFIKRAQQAPEL</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820       830       840</span>
+<span class="topo-line"><span class="topo-inside">GPLFTSYQINVPQLNVDLDRVKAKQLGVNVTDVFDTMQIYLGSLYVNDFNRFGRVYQVRVQADAPFRQRADDILQLKTRNAAGEMVPLSSLVTVSPTFGPEMVVRYNAYTAADVNGGPAP</span></span>
+<span class="topo-ruler">       850       860       870       880       890       900       910       920       930       940       950       960</span>
+<span class="topo-line"><span class="topo-inside">GYSSGQAQAAVERIAAQTLPRGVKFEWTDLTYQQILAGDSAF</span><span class="topo-membrane">WVFPISVLLVFLVLAAL</span><span class="topo-outside">YESL</span><span class="topo-membrane">TLPLAVILIVPMSILSALTGVWLT</span><span class="topo-inside">QGDNNIFT</span><span class="topo-membrane">QIGLMVLVGLSAKNAI</span><span class="topo-outside">LIVEFAREL</span></span>
+<span class="topo-ruler">       970       980       990      1000      1010      1020      1030      1040      1050      1060       </span>
+<span class="topo-line"><span class="topo-outside">EHDGKTPFEAAVEASRLRLRPI</span><span class="topo-membrane">LMTSIAFIMGVVPLVLS</span><span class="topo-inside">TGAGAEMR</span><span class="topo-membrane">HAMGVAVFFGMLGVTLFGLMLT</span><span class="topo-outside">PVFYVVLRTLAGG</span><span class="topo-unknown">KIHVAQKDSAGYGVPAPDAHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (26 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -493,6 +496,7 @@ BpeF is a Resistance-Nodulation-Division (RND) superfamily multidrug efflux tran
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -508,24 +512,25 @@ BpeF is a Resistance-Nodulation-Division (RND) superfamily multidrug efflux tran
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MNISKFFIDRPI</span><span class="topo-membrane">FAGVLSVIILLAGMIAM</span><span class="topo-inside">FLLPISEYPEVVPPSVIVKAQYPGANPKVIA</span></span>
-<span class="topo-line"><span class="topo-inside">ETVASPLEEQINGVEDMLYMQSQANSDGNMTITVTFKLGTDPDKATQLVQNRVNQALPRL</span></span>
-<span class="topo-line"><span class="topo-inside">PEDVQRLGITTVKSSPTLTMVVHLISPNDSYDMTYLRNYALINVKDRLSRIQGVGQVQLW</span></span>
-<span class="topo-line"><span class="topo-inside">GAGDYAMRVWLDPQKVAQRNLTADDVVRAIREQNVQVAAGVIGASPTLPGTPLQLSVNAR</span></span>
-<span class="topo-line"><span class="topo-inside">GRLQNEDEFGDIVVKTAPDGGVTHLRDIARIELDASEYGLRSLLDNKPAVAMAINQSPGA</span></span>
-<span class="topo-line"><span class="topo-inside">NSLAISDEVRKTMAELKQDFPAGVDYRIVYDPTQFVRSSIKAV</span><span class="topo-membrane">VHTLLEAIALVVIVVIV</span></span>
-<span class="topo-line"><span class="topo-outside">FLQTWRAS</span><span class="topo-membrane">IIPLIAVPVSIVGTFSLL</span><span class="topo-inside">LLFGYSINALSLF</span><span class="topo-membrane">GMVLAIGIVVDDAIVV</span><span class="topo-outside">VENVE</span></span>
-<span class="topo-line"><span class="topo-outside">RNIENGLTARAATYKAMQEVSGP</span><span class="topo-membrane">IIAIALTLVAVFVPL</span><span class="topo-inside">AFMSGLTGQFYKQF</span><span class="topo-membrane">AMTIAIST</span></span>
-<span class="topo-line"><span class="topo-membrane">VISAFNSLTLS</span><span class="topo-outside">PALSAILLKGHGDKEDWLTRVMNRVLGGFFRGFNKVFHRGAENYGRGVR</span></span>
-<span class="topo-line"><span class="topo-outside">GVLSRKAV</span><span class="topo-membrane">MLGLYLVLVGATLMVS</span><span class="topo-inside">KIVPGGFVPAQDKEYLIAFAQLPNGASLDRTEKVIR</span></span>
-<span class="topo-line"><span class="topo-inside">DMGAIALKQPGVESAVAFPGLSVNGFTNSSSAGIVFVTLKPFDQRHGKALSAGAIAGALN</span></span>
-<span class="topo-line"><span class="topo-inside">QKYAALKDSFVAVFPPPPVLGLGTLGGFKMQIEDRGAVGYARLADATNDFIKRAQQAPEL</span></span>
-<span class="topo-line"><span class="topo-inside">GPLFTSYQINVPQLNVDLDRVKAKQLGVNVTDVFDTMQIYLGSLYVNDFNRFGRVYQVRV</span></span>
-<span class="topo-line"><span class="topo-inside">QADAPFRQRADDILQLKTRNAAGEMVPLSSLVTVSPTFGPEMVVRYNAYTAADVNGGPAP</span></span>
-<span class="topo-line"><span class="topo-inside">GYSSGQAQAAVERIAAQTLPRGVKFEWTDLTYQQILAGDSAFW</span><span class="topo-membrane">VFPISVLLVFLVLAAL</span><span class="topo-outside">Y</span></span>
-<span class="topo-line"><span class="topo-outside">ESL</span><span class="topo-membrane">TLPLAVILIVPMSILSALTGVWLT</span><span class="topo-inside">QGDNNIFT</span><span class="topo-membrane">QIGLMVLVGLSAKNAIL</span><span class="topo-outside">IVEFAREL</span></span>
-<span class="topo-line"><span class="topo-outside">EHDGKTPFEAAVEASRLRLRP</span><span class="topo-membrane">ILMTSIAFIMGVVPLVLS</span><span class="topo-inside">TGAGAEMRHAM</span><span class="topo-membrane">GVAVFFGMLG</span></span>
-<span class="topo-line"><span class="topo-membrane">VTLFGLMLT</span><span class="topo-outside">PVFYVVLRTLAGGK</span><span class="topo-unknown">IHVAQKDSAGYGVPAPDAHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MNISKFFIDRPI</span><span class="topo-membrane">FAGVLSVIILLAGMIAM</span><span class="topo-inside">FLLPISEYPEVVPPSVIVKAQYPGANPKVIAETVASPLEEQINGVEDMLYMQSQANSDGNMTITVTFKLGTDPDKATQLVQNRVNQALPRL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">PEDVQRLGITTVKSSPTLTMVVHLISPNDSYDMTYLRNYALINVKDRLSRIQGVGQVQLWGAGDYAMRVWLDPQKVAQRNLTADDVVRAIREQNVQVAAGVIGASPTLPGTPLQLSVNAR</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">GRLQNEDEFGDIVVKTAPDGGVTHLRDIARIELDASEYGLRSLLDNKPAVAMAINQSPGANSLAISDEVRKTMAELKQDFPAGVDYRIVYDPTQFVRSSIKAV</span><span class="topo-membrane">VHTLLEAIALVVIVVIV</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">FLQTWRAS</span><span class="topo-membrane">IIPLIAVPVSIVGTFSLL</span><span class="topo-inside">LLFGYSINALSLF</span><span class="topo-membrane">GMVLAIGIVVDDAIVV</span><span class="topo-outside">VENVERNIENGLTARAATYKAMQEVSGP</span><span class="topo-membrane">IIAIALTLVAVFVPL</span><span class="topo-inside">AFMSGLTGQFYKQF</span><span class="topo-membrane">AMTIAIST</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-membrane">VISAFNSLTLS</span><span class="topo-outside">PALSAILLKGHGDKEDWLTRVMNRVLGGFFRGFNKVFHRGAENYGRGVRGVLSRKAV</span><span class="topo-membrane">MLGLYLVLVGATLMVS</span><span class="topo-inside">KIVPGGFVPAQDKEYLIAFAQLPNGASLDRTEKVIR</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-inside">DMGAIALKQPGVESAVAFPGLSVNGFTNSSSAGIVFVTLKPFDQRHGKALSAGAIAGALNQKYAALKDSFVAVFPPPPVLGLGTLGGFKMQIEDRGAVGYARLADATNDFIKRAQQAPEL</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820       830       840</span>
+<span class="topo-line"><span class="topo-inside">GPLFTSYQINVPQLNVDLDRVKAKQLGVNVTDVFDTMQIYLGSLYVNDFNRFGRVYQVRVQADAPFRQRADDILQLKTRNAAGEMVPLSSLVTVSPTFGPEMVVRYNAYTAADVNGGPAP</span></span>
+<span class="topo-ruler">       850       860       870       880       890       900       910       920       930       940       950       960</span>
+<span class="topo-line"><span class="topo-inside">GYSSGQAQAAVERIAAQTLPRGVKFEWTDLTYQQILAGDSAFW</span><span class="topo-membrane">VFPISVLLVFLVLAAL</span><span class="topo-outside">YESL</span><span class="topo-membrane">TLPLAVILIVPMSILSALTGVWLT</span><span class="topo-inside">QGDNNIFT</span><span class="topo-membrane">QIGLMVLVGLSAKNAIL</span><span class="topo-outside">IVEFAREL</span></span>
+<span class="topo-ruler">       970       980       990      1000      1010      1020      1030      1040      1050      1060       </span>
+<span class="topo-line"><span class="topo-outside">EHDGKTPFEAAVEASRLRLRP</span><span class="topo-membrane">ILMTSIAFIMGVVPLVLS</span><span class="topo-inside">TGAGAEMRHAM</span><span class="topo-membrane">GVAVFFGMLGVTLFGLMLT</span><span class="topo-outside">PVFYVVLRTLAGGK</span><span class="topo-unknown">IHVAQKDSAGYGVPAPDAHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (26 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -719,6 +724,7 @@ BpeF is a Resistance-Nodulation-Division (RND) superfamily multidrug efflux tran
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

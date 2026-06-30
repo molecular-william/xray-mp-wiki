@@ -120,16 +120,17 @@ The KdpFABC complex is a four-subunit potassium pump from Escherichia coli that 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MAA</span><span class="topo-membrane">QGFLLIATFLLVLMVLA</span><span class="topo-inside">RPLGSGLARLINDIPLPGTTGVERVLFRALGVSDREMNWK</span></span>
-<span class="topo-line"><span class="topo-inside">QYLCAILGL</span><span class="topo-membrane">NMLGLAVLFFMLLGQ</span><span class="topo-outside">HYLPLNPQQLPGLSWDLA</span><span class="topo-unknown">LNTAVSFVTNTNW</span><span class="topo-outside">RSYSG</span></span>
-<span class="topo-line"><span class="topo-outside">ETTLSY</span><span class="topo-membrane">FSQMAGLTVQNFLSAASG</span><span class="topo-inside">IAVIFALIRAFTRQSMSTLGNAWVDLLRITLWV</span><span class="topo-membrane">LVP</span></span>
-<span class="topo-line"><span class="topo-membrane">VALLIALFFIQ</span><span class="topo-outside">QGALQNFLPYQAVNTVEGAQQLLPMGP</span><span class="topo-unknown">VASQEAIKMLGTNGGG</span><span class="topo-outside">FFNANS</span></span>
-<span class="topo-line"><span class="topo-outside">SHPFENPTAL</span><span class="topo-membrane">TNFVQMLAIFLIPTA</span><span class="topo-inside">LCFAFGEVMGDRRQGRMLL</span><span class="topo-membrane">WAMSVIFVICVGVV</span><span class="topo-outside">MW</span></span>
-<span class="topo-line"><span class="topo-outside">AEVQGNPHLLALGTDSSINMEGKESRFGVLVSSL</span><span class="topo-unknown">FAVVTTAASCGA</span><span class="topo-outside">VIAMHDSFTALGGM</span></span>
-<span class="topo-line"><span class="topo-membrane">VPMWLMQIGEVVFGGVGSGL</span><span class="topo-inside">YGMMLFVLLAVFIAGLMIGRTPEYLGKKIDVREMKLTALA</span></span>
-<span class="topo-line"><span class="topo-membrane">ILVTPTLVLMGAAL</span><span class="topo-outside">AMMTDAGRSAMLNPGPHGFSEVL</span><span class="topo-unknown">YAVSSAANNNGS</span><span class="topo-outside">AFAGLSANSPF</span></span>
-<span class="topo-line"><span class="topo-outside">WN</span><span class="topo-membrane">CLLAFCMFVGRFGV</span><span class="topo-inside">IIPVMAIAGSLVSKKSQAASSGTLPTHGPLFVGLL</span><span class="topo-membrane">IGTVLLVGA</span></span>
-<span class="topo-line"><span class="topo-membrane">LTFIPAL</span><span class="topo-outside">ALGPVAEYLS</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MAA</span><span class="topo-membrane">QGFLLIATFLLVLMVLA</span><span class="topo-inside">RPLGSGLARLINDIPLPGTTGVERVLFRALGVSDREMNWKQYLCAILGL</span><span class="topo-membrane">NMLGLAVLFFMLLGQ</span><span class="topo-outside">HYLPLNPQQLPGLSWDLA</span><span class="topo-unknown">LNTAVSFVTNTNW</span><span class="topo-outside">RSYSG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">ETTLSY</span><span class="topo-membrane">FSQMAGLTVQNFLSAASG</span><span class="topo-inside">IAVIFALIRAFTRQSMSTLGNAWVDLLRITLWV</span><span class="topo-membrane">LVPVALLIALFFIQ</span><span class="topo-outside">QGALQNFLPYQAVNTVEGAQQLLPMGP</span><span class="topo-unknown">VASQEAIKMLGTNGGG</span><span class="topo-outside">FFNANS</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">SHPFENPTAL</span><span class="topo-membrane">TNFVQMLAIFLIPTA</span><span class="topo-inside">LCFAFGEVMGDRRQGRMLL</span><span class="topo-membrane">WAMSVIFVICVGVV</span><span class="topo-outside">MWAEVQGNPHLLALGTDSSINMEGKESRFGVLVSSL</span><span class="topo-unknown">FAVVTTAASCGA</span><span class="topo-outside">VIAMHDSFTALGGM</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">VPMWLMQIGEVVFGGVGSGL</span><span class="topo-inside">YGMMLFVLLAVFIAGLMIGRTPEYLGKKIDVREMKLTALA</span><span class="topo-membrane">ILVTPTLVLMGAAL</span><span class="topo-outside">AMMTDAGRSAMLNPGPHGFSEVL</span><span class="topo-unknown">YAVSSAANNNGS</span><span class="topo-outside">AFAGLSANSPF</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       </span>
+<span class="topo-line"><span class="topo-outside">WN</span><span class="topo-membrane">CLLAFCMFVGRFGV</span><span class="topo-inside">IIPVMAIAGSLVSKKSQAASSGTLPTHGPLFVGLL</span><span class="topo-membrane">IGTVLLVGALTFIPAL</span><span class="topo-outside">ALGPVAEYLS</span></span>
+<details class="topo-details"><summary>Topology coordinates (29 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -344,6 +345,7 @@ The KdpFABC complex is a four-subunit potassium pump from Escherichia coli that 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -359,18 +361,19 @@ The KdpFABC complex is a four-subunit potassium pump from Escherichia coli that 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">FEPTLVVQALKEAVKKLNPQAQWRNPV</span><span class="topo-membrane">MFIVWIGSLLTTCISIA</span><span class="topo-outside">MASGAMPGNALF</span><span class="topo-membrane">SAAI</span></span>
-<span class="topo-line"><span class="topo-membrane">SGWLWITVLF</span><span class="topo-inside">ANFAEALAEGRSKAQANSLKGVKKTAFARKLREPKYGAAADKVPADQLRK</span></span>
-<span class="topo-line"><span class="topo-inside">GDIVLVEAGDIIPCDGEVIEGGASVDESAITGESAPVIRESGGDFASVTGGTRILSDWLV</span></span>
-<span class="topo-line"><span class="topo-inside">IECSVNPGETFLDRMIAMVEGAQRRKTPNEIALTILLI</span><span class="topo-membrane">ALTIVFLLATATL</span><span class="topo-outside">WPFSAWGGN</span></span>
-<span class="topo-line"><span class="topo-outside">AVSV</span><span class="topo-membrane">TVLVALLVCLIPTT</span><span class="topo-inside">IGGLLSAIGVAGMSRMLGANVIATSGRAVEAAGDVDVLLLDK</span></span>
-<span class="topo-line"><span class="topo-inside">TGTITLGNRQASEFIPAQGVDEKTLADAAQLASLADETPEGRSIVILAKQRFNLRERDVQ</span></span>
-<span class="topo-line"><span class="topo-inside">SLHATFVPFTAQSRMSGINIDNRMIRKGSVDAIRRHVEANGGHFPTDVDQKVDQVARQGA</span></span>
-<span class="topo-line"><span class="topo-inside">TPLVVVEGSRVLGVIALKDIVKGGIKERFAQLRKMGIKTVMITGDNRLTAAAIAAEAGVD</span></span>
-<span class="topo-line"><span class="topo-inside">DFLAEATPEAKLALIRQYQAEGRLVAMTGDGTNDAPALAQADVAVAMNSGTQAAKEAGNM</span></span>
-<span class="topo-line"><span class="topo-inside">VDLDSNPTKLIEVVHIGKQMLMTRGSLTTF</span><span class="topo-membrane">SIANDVAKYFAII</span><span class="topo-outside">PAAFAATYPQLNALNIM</span></span>
-<span class="topo-line"><span class="topo-outside">CLHSPDS</span><span class="topo-membrane">AILSAVIFNALIIVF</span><span class="topo-inside">LIPLALKGVSYKPLTASAMLRRNLWIYG</span><span class="topo-membrane">LGGLLVPFIG</span></span>
-<span class="topo-line"><span class="topo-membrane">IKVIDLLL</span><span class="topo-outside">TVCGLV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">FEPTLVVQALKEAVKKLNPQAQWRNPV</span><span class="topo-membrane">MFIVWIGSLLTTCISIA</span><span class="topo-outside">MASGAMPGNALF</span><span class="topo-membrane">SAAISGWLWITVLF</span><span class="topo-inside">ANFAEALAEGRSKAQANSLKGVKKTAFARKLREPKYGAAADKVPADQLRK</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">GDIVLVEAGDIIPCDGEVIEGGASVDESAITGESAPVIRESGGDFASVTGGTRILSDWLVIECSVNPGETFLDRMIAMVEGAQRRKTPNEIALTILLI</span><span class="topo-membrane">ALTIVFLLATATL</span><span class="topo-outside">WPFSAWGGN</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">AVSV</span><span class="topo-membrane">TVLVALLVCLIPTT</span><span class="topo-inside">IGGLLSAIGVAGMSRMLGANVIATSGRAVEAAGDVDVLLLDKTGTITLGNRQASEFIPAQGVDEKTLADAAQLASLADETPEGRSIVILAKQRFNLRERDVQ</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">SLHATFVPFTAQSRMSGINIDNRMIRKGSVDAIRRHVEANGGHFPTDVDQKVDQVARQGATPLVVVEGSRVLGVIALKDIVKGGIKERFAQLRKMGIKTVMITGDNRLTAAAIAAEAGVD</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-inside">DFLAEATPEAKLALIRQYQAEGRLVAMTGDGTNDAPALAQADVAVAMNSGTQAAKEAGNMVDLDSNPTKLIEVVHIGKQMLMTRGSLTTF</span><span class="topo-membrane">SIANDVAKYFAII</span><span class="topo-outside">PAAFAATYPQLNALNIM</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670    </span>
+<span class="topo-line"><span class="topo-outside">CLHSPDS</span><span class="topo-membrane">AILSAVIFNALIIVF</span><span class="topo-inside">LIPLALKGVSYKPLTASAMLRRNLWIYG</span><span class="topo-membrane">LGGLLVPFIGIKVIDLLL</span><span class="topo-outside">TVCGLV</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -487,6 +490,7 @@ The KdpFABC complex is a four-subunit potassium pump from Escherichia coli that 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -502,10 +506,11 @@ The KdpFABC complex is a four-subunit potassium pump from Escherichia coli that 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">LRPALSTF</span><span class="topo-membrane">IFLLLITGGVYPLLTTVLGQWWF</span><span class="topo-outside">PWQANGSLIREGDTVRGSALIGQNFTGNG</span></span>
-<span class="topo-line"><span class="topo-outside">YFHGRPSATAEMPYNPQASGGSNLAVSNPELDKLIAARVAALRAANPDASASVPVELVTA</span></span>
-<span class="topo-line"><span class="topo-outside">SASGLDNNITPQAAAWQIPRVAKARNLSVEQLTQLIAKYSQQPLVKYIGQPVVNIVELNL</span></span>
-<span class="topo-line"><span class="topo-outside">ALDKLDE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">LRPALSTF</span><span class="topo-membrane">IFLLLITGGVYPLLTTVLGQWWF</span><span class="topo-outside">PWQANGSLIREGDTVRGSALIGQNFTGNGYFHGRPSATAEMPYNPQASGGSNLAVSNPELDKLIAARVAALRAANPDASASVPVELVTA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       </span>
+<span class="topo-line"><span class="topo-outside">SASGLDNNITPQAAAWQIPRVAKARNLSVEQLTQLIAKYSQQPLVKYIGQPVVNIVELNLALDKLDE</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -538,6 +543,7 @@ The KdpFABC complex is a four-subunit potassium pump from Escherichia coli that 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -553,7 +559,9 @@ The KdpFABC complex is a four-subunit potassium pump from Escherichia coli that 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20       </span>
 <span class="topo-line"><span class="topo-outside">MSAGV</span><span class="topo-membrane">ITGVLLVFLLLGYLV</span><span class="topo-inside">YALINAE</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -586,6 +594,7 @@ The KdpFABC complex is a four-subunit potassium pump from Escherichia coli that 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

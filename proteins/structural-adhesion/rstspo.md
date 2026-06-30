@@ -120,9 +120,11 @@ The 18-kDa translocator protein (TSPO) from *Rhodobacter sphaeroides* (RsTSPO) i
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MDW</span><span class="topo-membrane">ALFLTFLAACGAPATTGA</span><span class="topo-inside">LLKPD</span><span class="topo-unknown">EWYDNLNKPWWN</span><span class="topo-inside">PPRW</span><span class="topo-membrane">VFPLAWTSLYFLMSLAAM</span></span>
-<span class="topo-line"><span class="topo-outside">RVAQLEGSG</span><span class="topo-membrane">QALAFYAAQLAFNTLWT</span><span class="topo-inside">PVFFGMKRMAT</span><span class="topo-membrane">ALAVVMVMWLFVAATMWAFF</span><span class="topo-outside">QLD</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MDW</span><span class="topo-membrane">ALFLTFLAACGAPATTGA</span><span class="topo-inside">LLKPD</span><span class="topo-unknown">EWYDNLNKPWWN</span><span class="topo-inside">PPRW</span><span class="topo-membrane">VFPLAWTSLYFLMSLAAM</span><span class="topo-outside">RVAQLEGSG</span><span class="topo-membrane">QALAFYAAQLAFNTLWT</span><span class="topo-inside">PVFFGMKRMAT</span><span class="topo-membrane">ALAVVMVMWLFVAATMWAFF</span><span class="topo-outside">QLD</span></span>
+<span class="topo-ruler">       130       140       150     </span>
 <span class="topo-line"><span class="topo-outside">TW</span><span class="topo-membrane">AGVLFVPYLIWATAATGLNF</span><span class="topo-inside">EAMRLNWNRPEAR</span></span>
+<details class="topo-details"><summary>Topology coordinates (12 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -218,6 +220,7 @@ The 18-kDa translocator protein (TSPO) from *Rhodobacter sphaeroides* (RsTSPO) i
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -233,9 +236,11 @@ The 18-kDa translocator protein (TSPO) from *Rhodobacter sphaeroides* (RsTSPO) i
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MDW</span><span class="topo-membrane">ALFLTFLAACGAPATTGA</span><span class="topo-inside">LLKPD</span><span class="topo-unknown">EWYDNLNKPWWN</span><span class="topo-inside">PPRW</span><span class="topo-membrane">VFPLAWTSLYFLMSLAAM</span></span>
-<span class="topo-line"><span class="topo-outside">RVAQLEGSG</span><span class="topo-membrane">QALAFYAAQLAFNTLWTP</span><span class="topo-inside">VFFGMKRMAT</span><span class="topo-membrane">ALAVVMVMWLFVAATMWAFF</span><span class="topo-outside">QLD</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MDW</span><span class="topo-membrane">ALFLTFLAACGAPATTGA</span><span class="topo-inside">LLKPD</span><span class="topo-unknown">EWYDNLNKPWWN</span><span class="topo-inside">PPRW</span><span class="topo-membrane">VFPLAWTSLYFLMSLAAM</span><span class="topo-outside">RVAQLEGSG</span><span class="topo-membrane">QALAFYAAQLAFNTLWTP</span><span class="topo-inside">VFFGMKRMAT</span><span class="topo-membrane">ALAVVMVMWLFVAATMWAFF</span><span class="topo-outside">QLD</span></span>
+<span class="topo-ruler">       130       140       150     </span>
 <span class="topo-line"><span class="topo-outside">TW</span><span class="topo-membrane">AGVLFVPYLIWATAATGLNF</span><span class="topo-inside">EA</span><span class="topo-unknown">MRLNWNRPEAR</span></span>
+<details class="topo-details"><summary>Topology coordinates (12 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -331,6 +336,7 @@ The 18-kDa translocator protein (TSPO) from *Rhodobacter sphaeroides* (RsTSPO) i
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -346,9 +352,11 @@ The 18-kDa translocator protein (TSPO) from *Rhodobacter sphaeroides* (RsTSPO) i
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MNM</span><span class="topo-membrane">DWALFLTFLAACGAPATTGAL</span><span class="topo-inside">LKPDEWYDNLNKPWW</span><span class="topo-membrane">NPPRWVFPLAWTSLYFLMSLA</span></span>
-<span class="topo-line"><span class="topo-membrane">AMRVA</span><span class="topo-outside">QLEGSG</span><span class="topo-membrane">QALAFYAAQLAFNTLWTPVF</span><span class="topo-inside">FGMKRMA</span><span class="topo-membrane">TALAVVMVMWLFVAATMWAFF</span><span class="topo-outside">Q</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MNM</span><span class="topo-membrane">DWALFLTFLAACGAPATTGAL</span><span class="topo-inside">LKPDEWYDNLNKPWW</span><span class="topo-membrane">NPPRWVFPLAWTSLYFLMSLAAMRVA</span><span class="topo-outside">QLEGSG</span><span class="topo-membrane">QALAFYAAQLAFNTLWTPVF</span><span class="topo-inside">FGMKRMA</span><span class="topo-membrane">TALAVVMVMWLFVAATMWAFF</span><span class="topo-outside">Q</span></span>
+<span class="topo-ruler">       130       140       150       </span>
 <span class="topo-line"><span class="topo-outside">LDT</span><span class="topo-membrane">WAGVLFVPYLIWATATTGLNFE</span><span class="topo-inside">AMRLNWNRPEAR</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -437,6 +445,7 @@ The 18-kDa translocator protein (TSPO) from *Rhodobacter sphaeroides* (RsTSPO) i
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -452,9 +461,11 @@ The 18-kDa translocator protein (TSPO) from *Rhodobacter sphaeroides* (RsTSPO) i
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">NMD</span><span class="topo-membrane">WALFLTFLAACGAPATTGALLK</span><span class="topo-inside">PDEWYDNLNKP</span><span class="topo-membrane">WWNPPRWVFPLAWTSLYFLMSLA</span></span>
-<span class="topo-line"><span class="topo-membrane">AMRVA</span><span class="topo-outside">QLEGSG</span><span class="topo-membrane">QALAFYAAQLAFNTLWTPVF</span><span class="topo-inside">FGMKRM</span><span class="topo-membrane">ATALAVVMVMWLFVAATMWAFF</span><span class="topo-outside">Q</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">NMD</span><span class="topo-membrane">WALFLTFLAACGAPATTGALLK</span><span class="topo-inside">PDEWYDNLNKP</span><span class="topo-membrane">WWNPPRWVFPLAWTSLYFLMSLAAMRVA</span><span class="topo-outside">QLEGSG</span><span class="topo-membrane">QALAFYAAQLAFNTLWTPVF</span><span class="topo-inside">FGMKRM</span><span class="topo-membrane">ATALAVVMVMWLFVAATMWAFF</span><span class="topo-outside">Q</span></span>
+<span class="topo-ruler">       130       140       150       </span>
 <span class="topo-line"><span class="topo-outside">LDTW</span><span class="topo-membrane">AGVLFVPYLIWATATTGLNFE</span><span class="topo-inside">AMRLNWNRPEAR</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -543,6 +554,7 @@ The 18-kDa translocator protein (TSPO) from *Rhodobacter sphaeroides* (RsTSPO) i
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -558,9 +570,11 @@ The 18-kDa translocator protein (TSPO) from *Rhodobacter sphaeroides* (RsTSPO) i
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">NMDW</span><span class="topo-membrane">ALFLTFLAACGAPATTGAL</span><span class="topo-outside">LKPDEWYDNLNKPWW</span><span class="topo-membrane">NPPRWVFPLAWTSLYFLMSLAA</span></span>
-<span class="topo-line"><span class="topo-membrane">M</span><span class="topo-inside">RVAQLEGSG</span><span class="topo-membrane">QALAFYAAQLAFNTLWTPVF</span><span class="topo-outside">FGMKRMA</span><span class="topo-membrane">TALAVVMVMWLFVAATMWAFF</span><span class="topo-inside">QL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">NMDW</span><span class="topo-membrane">ALFLTFLAACGAPATTGAL</span><span class="topo-outside">LKPDEWYDNLNKPWW</span><span class="topo-membrane">NPPRWVFPLAWTSLYFLMSLAAM</span><span class="topo-inside">RVAQLEGSG</span><span class="topo-membrane">QALAFYAAQLAFNTLWTPVF</span><span class="topo-outside">FGMKRMA</span><span class="topo-membrane">TALAVVMVMWLFVAATMWAFF</span><span class="topo-inside">QL</span></span>
+<span class="topo-ruler">       130       140       150      </span>
 <span class="topo-line"><span class="topo-inside">DTW</span><span class="topo-membrane">AGVLFVPYLIWATATTGLNFE</span><span class="topo-outside">AMRLNWNRPEAR</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -649,6 +663,7 @@ The 18-kDa translocator protein (TSPO) from *Rhodobacter sphaeroides* (RsTSPO) i
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -664,9 +679,11 @@ The 18-kDa translocator protein (TSPO) from *Rhodobacter sphaeroides* (RsTSPO) i
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">N</span><span class="topo-inside">MDW</span><span class="topo-membrane">ALFLTFLAACGAPATTGAL</span><span class="topo-outside">LKPDEWYDNLNKPWW</span><span class="topo-membrane">NPPRWVFPLAWTSLYFLMSLAA</span></span>
-<span class="topo-line"><span class="topo-membrane">M</span><span class="topo-inside">RVAQLEGSG</span><span class="topo-membrane">QALAFYAAQLAFNTLWTPVF</span><span class="topo-outside">FGMKRMA</span><span class="topo-membrane">TALAVVMVMWLFVAATMWAFF</span><span class="topo-inside">QL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">N</span><span class="topo-inside">MDW</span><span class="topo-membrane">ALFLTFLAACGAPATTGAL</span><span class="topo-outside">LKPDEWYDNLNKPWW</span><span class="topo-membrane">NPPRWVFPLAWTSLYFLMSLAAM</span><span class="topo-inside">RVAQLEGSG</span><span class="topo-membrane">QALAFYAAQLAFNTLWTPVF</span><span class="topo-outside">FGMKRMA</span><span class="topo-membrane">TALAVVMVMWLFVAATMWAFF</span><span class="topo-inside">QL</span></span>
+<span class="topo-ruler">       130       140       150      </span>
 <span class="topo-line"><span class="topo-inside">DTW</span><span class="topo-membrane">AGVLFVPYLIWATATTGLNFE</span><span class="topo-outside">AMRLNWNRPEAR</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -755,6 +772,7 @@ The 18-kDa translocator protein (TSPO) from *Rhodobacter sphaeroides* (RsTSPO) i
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

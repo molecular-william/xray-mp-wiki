@@ -144,13 +144,15 @@ Squid rhodopsin from Todarodes pacificus is an invertebrate visual pigment that 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GR</span><span class="topo-inside">DLRDNETWWYNPSIIVHPHWREFDQVPDA</span><span class="topo-membrane">VYYSLGIFIGICGIIGCGGNGIVIY</span><span class="topo-outside">LFTK</span></span>
-<span class="topo-line"><span class="topo-outside">TKSLQTPANM</span><span class="topo-membrane">FIINLAFSDFTFSLVNGFPLMTISCF</span><span class="topo-inside">LKKWIFGFA</span><span class="topo-membrane">ACKVYGFIGGIFGFM</span></span>
-<span class="topo-line"><span class="topo-membrane">SIMTMAMISI</span><span class="topo-outside">DRYNVIGRPMAASKKMSHRRA</span><span class="topo-membrane">FIMIIFVWLWSVLWAIGPIFGWG</span><span class="topo-inside">AYTLEG</span></span>
-<span class="topo-line"><span class="topo-inside">VLCNCSFDYISRDSTT</span><span class="topo-membrane">RSNILCMFILGFFGPILIIFFCYF</span><span class="topo-outside">NIVMSVSNHEKEMAAMAKRL</span></span>
-<span class="topo-line"><span class="topo-outside">NAKELRKAQAGANAEMRLAKI</span><span class="topo-membrane">SIVIVSQFLLSWSPYAVVALL</span><span class="topo-inside">AQFGPLEWVTPY</span><span class="topo-membrane">AAQLPV</span></span>
-<span class="topo-line"><span class="topo-membrane">MFAKASAIHNPMIYSV</span><span class="topo-outside">SHPKFREAISQTFPWVLTCCQFDDKETEDDKDAETEIPAGESSD</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GR</span><span class="topo-inside">DLRDNETWWYNPSIIVHPHWREFDQVPDA</span><span class="topo-membrane">VYYSLGIFIGICGIIGCGGNGIVIY</span><span class="topo-outside">LFTKTKSLQTPANM</span><span class="topo-membrane">FIINLAFSDFTFSLVNGFPLMTISCF</span><span class="topo-inside">LKKWIFGFA</span><span class="topo-membrane">ACKVYGFIGGIFGFM</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">SIMTMAMISI</span><span class="topo-outside">DRYNVIGRPMAASKKMSHRRA</span><span class="topo-membrane">FIMIIFVWLWSVLWAIGPIFGWG</span><span class="topo-inside">AYTLEGVLCNCSFDYISRDSTT</span><span class="topo-membrane">RSNILCMFILGFFGPILIIFFCYF</span><span class="topo-outside">NIVMSVSNHEKEMAAMAKRL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">NAKELRKAQAGANAEMRLAKI</span><span class="topo-membrane">SIVIVSQFLLSWSPYAVVALL</span><span class="topo-inside">AQFGPLEWVTPY</span><span class="topo-membrane">AAQLPVMFAKASAIHNPMIYSV</span><span class="topo-outside">SHPKFREAISQTFPWVLTCCQFDDKETEDDKDAETEIPAGESSD</span></span>
+<span class="topo-ruler">       370  </span>
 <span class="topo-line"><span class="topo-outside">AAPSADAAQMKE</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -274,6 +276,7 @@ Squid rhodopsin from Todarodes pacificus is an invertebrate visual pigment that 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

@@ -139,14 +139,15 @@ The human ghrelin receptor (GHSR, growth hormone secretagogue receptor) is a cla
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">A</span><span class="topo-inside">DLEDNWETLNDNLKVIEKADNAAQVKDALTKMRAAALDAQKATPPKLEDKSPDSPEMKD</span></span>
-<span class="topo-line"><span class="topo-inside">FRHGFDILVGQIDDALKLANEGKVKEAQAAAEQLKTTRNAYIQKY</span><span class="topo-unknown">LSLGDELLQLF</span><span class="topo-inside">PAP</span><span class="topo-membrane">L</span></span>
-<span class="topo-line"><span class="topo-membrane">LAGVTATCVALFVVGIAGNLLTML</span><span class="topo-outside">VVSRFRELRTTTNLYL</span><span class="topo-membrane">SSMAFSDLLIFLCMPLDLVR</span></span>
-<span class="topo-line"><span class="topo-membrane">LW</span><span class="topo-inside">QYRPWNFG</span><span class="topo-membrane">DLLCKLFQFVSESCTYAKVLTIT</span><span class="topo-outside">ALSVERYFAICFPLRAKVVVTKGRVKL</span></span>
-<span class="topo-line"><span class="topo-outside">VI</span><span class="topo-membrane">FVIWAVAFCSAGPIFVLVG</span><span class="topo-inside">VEHEQGTDPWDTNECRPTEF</span><span class="topo-membrane">AVRSGLLTVMVWVSSIFFF</span></span>
-<span class="topo-line"><span class="topo-membrane">LPVFCLT</span><span class="topo-outside">VLYSLIGRKLWRRRRGDAVVGASLRDQNHKQTVKMLAV</span><span class="topo-membrane">VVFAFILCWLPFHVG</span></span>
-<span class="topo-line"><span class="topo-membrane">RYLFSKSFE</span><span class="topo-inside">P</span><span class="topo-unknown">GSLEIAQI</span><span class="topo-inside">S</span><span class="topo-membrane">QYCNLVSFVLFYLSAAINPIL</span><span class="topo-outside">YNIMS</span><span class="topo-unknown">KKYRVAVFRLL</span><span class="topo-outside">G</span><span class="topo-unknown">FEP</span></span>
-<span class="topo-line"><span class="topo-unknown">FSQR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">A</span><span class="topo-inside">DLEDNWETLNDNLKVIEKADNAAQVKDALTKMRAAALDAQKATPPKLEDKSPDSPEMKDFRHGFDILVGQIDDALKLANEGKVKEAQAAAEQLKTTRNAYIQKY</span><span class="topo-unknown">LSLGDELLQLF</span><span class="topo-inside">PAP</span><span class="topo-membrane">L</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">LAGVTATCVALFVVGIAGNLLTML</span><span class="topo-outside">VVSRFRELRTTTNLYL</span><span class="topo-membrane">SSMAFSDLLIFLCMPLDLVRLW</span><span class="topo-inside">QYRPWNFG</span><span class="topo-membrane">DLLCKLFQFVSESCTYAKVLTIT</span><span class="topo-outside">ALSVERYFAICFPLRAKVVVTKGRVKL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">VI</span><span class="topo-membrane">FVIWAVAFCSAGPIFVLVG</span><span class="topo-inside">VEHEQGTDPWDTNECRPTEF</span><span class="topo-membrane">AVRSGLLTVMVWVSSIFFFLPVFCLT</span><span class="topo-outside">VLYSLIGRKLWRRRRGDAVVGASLRDQNHKQTVKMLAV</span><span class="topo-membrane">VVFAFILCWLPFHVG</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420    </span>
+<span class="topo-line"><span class="topo-membrane">RYLFSKSFE</span><span class="topo-inside">P</span><span class="topo-unknown">GSLEIAQI</span><span class="topo-inside">S</span><span class="topo-membrane">QYCNLVSFVLFYLSAAINPIL</span><span class="topo-outside">YNIMS</span><span class="topo-unknown">KKYRVAVFRLL</span><span class="topo-outside">G</span><span class="topo-unknown">FEPFSQR</span></span>
+<details class="topo-details"><summary>Topology coordinates (20 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -298,6 +299,7 @@ The human ghrelin receptor (GHSR, growth hormone secretagogue receptor) is a cla
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

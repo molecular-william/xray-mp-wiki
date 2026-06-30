@@ -206,12 +206,13 @@ SLC35A1 is the human CMP-sialic acid transporter, a member of the SLC35 family o
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAPARENVSLFFKL</span><span class="topo-inside">Y</span><span class="topo-membrane">CLTVMTLVAAAYT</span><span class="topo-outside">VALRYTRTTAEELYF</span><span class="topo-membrane">STTAVCITEVIKLLIS</span><span class="topo-inside">V</span></span>
-<span class="topo-line"><span class="topo-inside">GLLAKETGSLGRFKASLSENVLGSPKELAKLS</span><span class="topo-membrane">VPSLVYAVQNNMAFLA</span><span class="topo-outside">LSNLDAAVY</span><span class="topo-membrane">QVT</span></span>
-<span class="topo-line"><span class="topo-membrane">YQLKIPCTALCTVL</span><span class="topo-inside">MLNRTL</span><span class="topo-membrane">SKLQWISVFMLCGGVTLVQ</span><span class="topo-outside">WKPA</span><span class="topo-unknown">QATK</span><span class="topo-outside">VVVAQNPLLGFG</span><span class="topo-membrane">A</span></span>
-<span class="topo-line"><span class="topo-membrane">IAIAVLCSGFAGVYF</span><span class="topo-inside">EKVLKSSDTS</span><span class="topo-unknown">LWVRNIQM</span><span class="topo-membrane">YLSGIVVTLAGTYLSDGA</span><span class="topo-outside">EIQEKGFFY</span></span>
-<span class="topo-line"><span class="topo-outside">GYTY</span><span class="topo-membrane">YVWFVIFLASVGGLYTSVVV</span><span class="topo-inside">KYTD</span><span class="topo-membrane">NIMKGFSAAAAIVLSTIASVLL</span><span class="topo-outside">FGLQITLSF</span><span class="topo-membrane">A</span></span>
-<span class="topo-line"><span class="topo-membrane">LGALLVCVSIYLYGL</span><span class="topo-inside">PR</span><span class="topo-unknown">QDTTSNSLEVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAPARENVSLFFKL</span><span class="topo-inside">Y</span><span class="topo-membrane">CLTVMTLVAAAYT</span><span class="topo-outside">VALRYTRTTAEELYF</span><span class="topo-membrane">STTAVCITEVIKLLIS</span><span class="topo-inside">VGLLAKETGSLGRFKASLSENVLGSPKELAKLS</span><span class="topo-membrane">VPSLVYAVQNNMAFLA</span><span class="topo-outside">LSNLDAAVY</span><span class="topo-membrane">QVT</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">YQLKIPCTALCTVL</span><span class="topo-inside">MLNRTL</span><span class="topo-membrane">SKLQWISVFMLCGGVTLVQ</span><span class="topo-outside">WKPA</span><span class="topo-unknown">QATK</span><span class="topo-outside">VVVAQNPLLGFG</span><span class="topo-membrane">AIAIAVLCSGFAGVYF</span><span class="topo-inside">EKVLKSSDTS</span><span class="topo-unknown">LWVRNIQM</span><span class="topo-membrane">YLSGIVVTLAGTYLSDGA</span><span class="topo-outside">EIQEKGFFY</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330</span>
+<span class="topo-line"><span class="topo-outside">GYTY</span><span class="topo-membrane">YVWFVIFLASVGGLYTSVVV</span><span class="topo-inside">KYTD</span><span class="topo-membrane">NIMKGFSAAAAIVLSTIASVLL</span><span class="topo-outside">FGLQITLSF</span><span class="topo-membrane">ALGALLVCVSIYLYGL</span><span class="topo-inside">PR</span><span class="topo-unknown">QDTTSNSLEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (23 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -384,6 +385,7 @@ SLC35A1 is the human CMP-sialic acid transporter, a member of the SLC35 family o
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -399,12 +401,13 @@ SLC35A1 is the human CMP-sialic acid transporter, a member of the SLC35 family o
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAPARE</span><span class="topo-inside">NVSLF</span><span class="topo-membrane">FKLYCLTVMTLVAAAYTVAL</span><span class="topo-outside">RYTRTTAEELYF</span><span class="topo-membrane">STTAVCITEVIKLLIS</span><span class="topo-inside">V</span></span>
-<span class="topo-line"><span class="topo-inside">GLLAKETGSLGRFKASLSENVLGSPKELAKLSV</span><span class="topo-membrane">PSLVYAVQNNMAFLAL</span><span class="topo-outside">SNLDA</span><span class="topo-membrane">AVYQVT</span></span>
-<span class="topo-line"><span class="topo-membrane">YQLKIPCTALC</span><span class="topo-inside">TVLMLNRTLSK</span><span class="topo-membrane">LQWISVFMLCGGVTLVQW</span><span class="topo-unknown">KPAQATK</span><span class="topo-outside">VVVAQNPLL</span><span class="topo-membrane">GFGA</span></span>
-<span class="topo-line"><span class="topo-membrane">IAIAVLCSGFAG</span><span class="topo-inside">VYFEKVLKSSDTS</span><span class="topo-unknown">LWVRNIQM</span><span class="topo-membrane">YLSGIVVTLAGTYLSDGAEIQ</span><span class="topo-outside">EKGFFY</span></span>
-<span class="topo-line"><span class="topo-outside">GYTY</span><span class="topo-membrane">YVWFVIFLASVGGLYTSVVV</span><span class="topo-inside">KYTDN</span><span class="topo-membrane">IMKGFSAAAAIVLSTIASVLL</span><span class="topo-outside">FGLQITLS</span><span class="topo-membrane">FA</span></span>
-<span class="topo-line"><span class="topo-membrane">LGALLVCVSIYLY</span><span class="topo-inside">GLPR</span><span class="topo-unknown">QDTTSNSLEVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAPARE</span><span class="topo-inside">NVSLF</span><span class="topo-membrane">FKLYCLTVMTLVAAAYTVAL</span><span class="topo-outside">RYTRTTAEELYF</span><span class="topo-membrane">STTAVCITEVIKLLIS</span><span class="topo-inside">VGLLAKETGSLGRFKASLSENVLGSPKELAKLSV</span><span class="topo-membrane">PSLVYAVQNNMAFLAL</span><span class="topo-outside">SNLDA</span><span class="topo-membrane">AVYQVT</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">YQLKIPCTALC</span><span class="topo-inside">TVLMLNRTLSK</span><span class="topo-membrane">LQWISVFMLCGGVTLVQW</span><span class="topo-unknown">KPAQATK</span><span class="topo-outside">VVVAQNPLL</span><span class="topo-membrane">GFGAIAIAVLCSGFAG</span><span class="topo-inside">VYFEKVLKSSDTS</span><span class="topo-unknown">LWVRNIQM</span><span class="topo-membrane">YLSGIVVTLAGTYLSDGAEIQ</span><span class="topo-outside">EKGFFY</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330</span>
+<span class="topo-line"><span class="topo-outside">GYTY</span><span class="topo-membrane">YVWFVIFLASVGGLYTSVVV</span><span class="topo-inside">KYTDN</span><span class="topo-membrane">IMKGFSAAAAIVLSTIASVLL</span><span class="topo-outside">FGLQITLS</span><span class="topo-membrane">FALGALLVCVSIYLY</span><span class="topo-inside">GLPR</span><span class="topo-unknown">QDTTSNSLEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (22 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -570,6 +573,7 @@ SLC35A1 is the human CMP-sialic acid transporter, a member of the SLC35 family o
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -585,12 +589,13 @@ SLC35A1 is the human CMP-sialic acid transporter, a member of the SLC35 family o
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAPARENVSLFFKL</span><span class="topo-inside">Y</span><span class="topo-membrane">CLTVMTLVAAAYTVAL</span><span class="topo-outside">RYTRTTAEELYF</span><span class="topo-membrane">STTAVCITEVIKLLISV</span></span>
-<span class="topo-line"><span class="topo-membrane">GL</span><span class="topo-inside">LAKETGS</span><span class="topo-unknown">LGRFKASLSE</span><span class="topo-inside">NVLGSPKELAKL</span><span class="topo-membrane">SVPSLVYAVQNNMAFLAL</span><span class="topo-outside">SNLDA</span><span class="topo-membrane">AVYQVT</span></span>
-<span class="topo-line"><span class="topo-membrane">YQLKIPCTALCT</span><span class="topo-inside">VLMLNRTLSK</span><span class="topo-membrane">LQWISVFMLCGGVTLVQW</span><span class="topo-outside">KPA</span><span class="topo-unknown">QATK</span><span class="topo-outside">VVVAQNPLL</span><span class="topo-membrane">GFGA</span></span>
-<span class="topo-line"><span class="topo-membrane">IAIAVLCSGFAGVYF</span><span class="topo-inside">EKVLKSSDTS</span><span class="topo-unknown">LWVRNIQM</span><span class="topo-membrane">YLSGIVVTLAGTYLSDGA</span><span class="topo-outside">EIQEKGFFY</span></span>
-<span class="topo-line"><span class="topo-outside">GYTY</span><span class="topo-membrane">YVWFVIFLASVGGLYTSVVV</span><span class="topo-inside">KYTD</span><span class="topo-membrane">NIMKGFSAAAAIVLSTIASVLLF</span><span class="topo-outside">GLQITL</span><span class="topo-membrane">SFA</span></span>
-<span class="topo-line"><span class="topo-membrane">LGALLVCVSIYLYG</span><span class="topo-inside">LPR</span><span class="topo-unknown">QDTTSIQQEATSKERIIGVSNSLEVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAPARENVSLFFKL</span><span class="topo-inside">Y</span><span class="topo-membrane">CLTVMTLVAAAYTVAL</span><span class="topo-outside">RYTRTTAEELYF</span><span class="topo-membrane">STTAVCITEVIKLLISVGL</span><span class="topo-inside">LAKETGS</span><span class="topo-unknown">LGRFKASLSE</span><span class="topo-inside">NVLGSPKELAKL</span><span class="topo-membrane">SVPSLVYAVQNNMAFLAL</span><span class="topo-outside">SNLDA</span><span class="topo-membrane">AVYQVT</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">YQLKIPCTALCT</span><span class="topo-inside">VLMLNRTLSK</span><span class="topo-membrane">LQWISVFMLCGGVTLVQW</span><span class="topo-outside">KPA</span><span class="topo-unknown">QATK</span><span class="topo-outside">VVVAQNPLL</span><span class="topo-membrane">GFGAIAIAVLCSGFAGVYF</span><span class="topo-inside">EKVLKSSDTS</span><span class="topo-unknown">LWVRNIQM</span><span class="topo-membrane">YLSGIVVTLAGTYLSDGA</span><span class="topo-outside">EIQEKGFFY</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340     </span>
+<span class="topo-line"><span class="topo-outside">GYTY</span><span class="topo-membrane">YVWFVIFLASVGGLYTSVVV</span><span class="topo-inside">KYTD</span><span class="topo-membrane">NIMKGFSAAAAIVLSTIASVLLF</span><span class="topo-outside">GLQITL</span><span class="topo-membrane">SFALGALLVCVSIYLYG</span><span class="topo-inside">LPR</span><span class="topo-unknown">QDTTSIQQEATSKERIIGVSNSLEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (25 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -777,6 +782,7 @@ SLC35A1 is the human CMP-sialic acid transporter, a member of the SLC35 family o
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

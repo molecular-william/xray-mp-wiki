@@ -136,12 +136,13 @@ GtACR1 is a natural light-gated anion channelrhodopsin from the cryptophyte alga
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSSIT</span><span class="topo-outside">CDPAIYGEWSRENQFCVEKSLITLDG</span><span class="topo-membrane">IKYVQLVMAVVSACQVFFMV</span><span class="topo-inside">TRAPKVPW</span><span class="topo-membrane">E</span></span>
-<span class="topo-line"><span class="topo-membrane">AIYLPTTEMITYSLAFT</span><span class="topo-outside">GNGYIRVANGKYL</span><span class="topo-membrane">PWARMASWLCTCPIMLG</span><span class="topo-inside">LVSNMALVKYKSI</span></span>
-<span class="topo-line"><span class="topo-inside">PLNP</span><span class="topo-membrane">MMIAASSICTVFGITAS</span><span class="topo-outside">VVLDPLH</span><span class="topo-membrane">VWLYCFISSIFFIFEMVVAF</span><span class="topo-inside">AIFAITIHDFQT</span></span>
-<span class="topo-line"><span class="topo-inside">IGSPMSLKVVERLKL</span><span class="topo-membrane">MRIVFYVSWMAYPILWSFS</span><span class="topo-outside">STGACIMSE</span><span class="topo-membrane">NTSSVLYLLGDALCKNT</span></span>
-<span class="topo-line"><span class="topo-membrane">YGI</span><span class="topo-inside">LLWATTWGLLNGKWDRDYVKGRNVDGTLM</span><span class="topo-unknown">PEYEQDLEKGNTERYEDARAGETHHHHH</span></span>
-<span class="topo-line"><span class="topo-unknown">HHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSSIT</span><span class="topo-outside">CDPAIYGEWSRENQFCVEKSLITLDG</span><span class="topo-membrane">IKYVQLVMAVVSACQVFFMV</span><span class="topo-inside">TRAPKVPW</span><span class="topo-membrane">EAIYLPTTEMITYSLAFT</span><span class="topo-outside">GNGYIRVANGKYL</span><span class="topo-membrane">PWARMASWLCTCPIMLG</span><span class="topo-inside">LVSNMALVKYKSI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">PLNP</span><span class="topo-membrane">MMIAASSICTVFGITAS</span><span class="topo-outside">VVLDPLH</span><span class="topo-membrane">VWLYCFISSIFFIFEMVVAF</span><span class="topo-inside">AIFAITIHDFQTIGSPMSLKVVERLKL</span><span class="topo-membrane">MRIVFYVSWMAYPILWSFS</span><span class="topo-outside">STGACIMSE</span><span class="topo-membrane">NTSSVLYLLGDALCKNT</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300   </span>
+<span class="topo-line"><span class="topo-membrane">YGI</span><span class="topo-inside">LLWATTWGLLNGKWDRDYVKGRNVDGTLM</span><span class="topo-unknown">PEYEQDLEKGNTERYEDARAGETHHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -258,6 +259,7 @@ GtACR1 is a natural light-gated anion channelrhodopsin from the cryptophyte alga
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -273,12 +275,13 @@ GtACR1 is a natural light-gated anion channelrhodopsin from the cryptophyte alga
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSSI</span><span class="topo-outside">TCDPAIYGEWSRENQFCVEKSLITLDG</span><span class="topo-membrane">IKYVQLVMAVVSACQVFFMV</span><span class="topo-inside">TRAPKVPW</span><span class="topo-membrane">E</span></span>
-<span class="topo-line"><span class="topo-membrane">AIYLPTTEMITYSLAFT</span><span class="topo-outside">GNGYIRVANGKYL</span><span class="topo-membrane">PWARMASWLCTCPIMLG</span><span class="topo-inside">LVSNMALVKYKSI</span></span>
-<span class="topo-line"><span class="topo-inside">PLNP</span><span class="topo-membrane">MMIAASSICTVFGITAS</span><span class="topo-outside">VVLDPLH</span><span class="topo-membrane">VWLYCFISSIFFIFEMVVAF</span><span class="topo-inside">AIFAITIHDFQT</span></span>
-<span class="topo-line"><span class="topo-inside">IGSPMSLKVVERLKLM</span><span class="topo-membrane">RIVFYVSWMAYPILWSFS</span><span class="topo-outside">STGACIMSE</span><span class="topo-membrane">NTSSVLYLLGDALCKNT</span></span>
-<span class="topo-line"><span class="topo-membrane">YGI</span><span class="topo-inside">LLWATTWGLLNGKWDRDYVKGRNVDGTLMPEYEQDL</span><span class="topo-unknown">EKGNTERYEDARAGETHHHHH</span></span>
-<span class="topo-line"><span class="topo-unknown">HHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSSI</span><span class="topo-outside">TCDPAIYGEWSRENQFCVEKSLITLDG</span><span class="topo-membrane">IKYVQLVMAVVSACQVFFMV</span><span class="topo-inside">TRAPKVPW</span><span class="topo-membrane">EAIYLPTTEMITYSLAFT</span><span class="topo-outside">GNGYIRVANGKYL</span><span class="topo-membrane">PWARMASWLCTCPIMLG</span><span class="topo-inside">LVSNMALVKYKSI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">PLNP</span><span class="topo-membrane">MMIAASSICTVFGITAS</span><span class="topo-outside">VVLDPLH</span><span class="topo-membrane">VWLYCFISSIFFIFEMVVAF</span><span class="topo-inside">AIFAITIHDFQTIGSPMSLKVVERLKLM</span><span class="topo-membrane">RIVFYVSWMAYPILWSFS</span><span class="topo-outside">STGACIMSE</span><span class="topo-membrane">NTSSVLYLLGDALCKNT</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300   </span>
+<span class="topo-line"><span class="topo-membrane">YGI</span><span class="topo-inside">LLWATTWGLLNGKWDRDYVKGRNVDGTLMPEYEQDL</span><span class="topo-unknown">EKGNTERYEDARAGETHHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -395,6 +398,7 @@ GtACR1 is a natural light-gated anion channelrhodopsin from the cryptophyte alga
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -482,11 +486,13 @@ GtACR1 is a natural light-gated anion channelrhodopsin from the cryptophyte alga
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">IT</span><span class="topo-outside">CDPAIYGEWSRENQFCVEKSLITLDG</span><span class="topo-membrane">IKYVQLVMAVVSACQVFFMVTR</span><span class="topo-inside">APKV</span><span class="topo-membrane">PWEAIY</span></span>
-<span class="topo-line"><span class="topo-membrane">LPTTEMITYSLAFTGNGY</span><span class="topo-outside">IRVANGKYL</span><span class="topo-membrane">PWARMASWLCTCPIMLGLVSN</span><span class="topo-inside">MALVKYKSIP</span><span class="topo-membrane">LN</span></span>
-<span class="topo-line"><span class="topo-membrane">PMMIAASSICTVFGITAS</span><span class="topo-outside">VVLDPLH</span><span class="topo-membrane">VWLYCFISSIFFIFEMVVAFAIFA</span><span class="topo-inside">ITIHDFQTIGS</span></span>
-<span class="topo-line"><span class="topo-inside">PMSLKVVER</span><span class="topo-membrane">LKLMRIVFYVSWMAYPILWSFS</span><span class="topo-outside">STGACIMSE</span><span class="topo-membrane">NTSSVLYLLGDALCKNTYGI</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">IT</span><span class="topo-outside">CDPAIYGEWSRENQFCVEKSLITLDG</span><span class="topo-membrane">IKYVQLVMAVVSACQVFFMVTR</span><span class="topo-inside">APKV</span><span class="topo-membrane">PWEAIYLPTTEMITYSLAFTGNGY</span><span class="topo-outside">IRVANGKYL</span><span class="topo-membrane">PWARMASWLCTCPIMLGLVSN</span><span class="topo-inside">MALVKYKSIP</span><span class="topo-membrane">LN</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">PMMIAASSICTVFGITAS</span><span class="topo-outside">VVLDPLH</span><span class="topo-membrane">VWLYCFISSIFFIFEMVVAFAIFA</span><span class="topo-inside">ITIHDFQTIGSPMSLKVVER</span><span class="topo-membrane">LKLMRIVFYVSWMAYPILWSFS</span><span class="topo-outside">STGACIMSE</span><span class="topo-membrane">NTSSVLYLLGDALCKNTYGI</span></span>
+<span class="topo-ruler">       250       260         </span>
 <span class="topo-line"><span class="topo-membrane">LLWA</span><span class="topo-inside">TTWGLLNGKWDRDYVKGRNVDGT</span><span class="topo-unknown">LM</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -603,6 +609,7 @@ GtACR1 is a natural light-gated anion channelrhodopsin from the cryptophyte alga
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -618,11 +625,13 @@ GtACR1 is a natural light-gated anion channelrhodopsin from the cryptophyte alga
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">ITCDPAIYGEWSRENQFCVEKSLITLDGI</span><span class="topo-membrane">KYVQLVMAVVSACQVFFMVTR</span><span class="topo-inside">APKV</span><span class="topo-membrane">PWEAIY</span></span>
-<span class="topo-line"><span class="topo-membrane">LPTTEMITYSLAFT</span><span class="topo-outside">GNGYIRVANGKYL</span><span class="topo-membrane">PWARMASWLCTCPIMLGLVSN</span><span class="topo-inside">MALVKYKSIP</span><span class="topo-membrane">LN</span></span>
-<span class="topo-line"><span class="topo-membrane">PMMIAASSICTVFGITAS</span><span class="topo-outside">VVLDPL</span><span class="topo-membrane">HVWLYCFISSIFFIFEMVVAFAIF</span><span class="topo-inside">AITIHDFQTIGS</span></span>
-<span class="topo-line"><span class="topo-inside">PMSLKVVER</span><span class="topo-membrane">LKLMRIVFYVSWMAYPILWSFS</span><span class="topo-outside">STGACIMSE</span><span class="topo-membrane">NTSSVLYLLGDALCKNTYGI</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">ITCDPAIYGEWSRENQFCVEKSLITLDGI</span><span class="topo-membrane">KYVQLVMAVVSACQVFFMVTR</span><span class="topo-inside">APKV</span><span class="topo-membrane">PWEAIYLPTTEMITYSLAFT</span><span class="topo-outside">GNGYIRVANGKYL</span><span class="topo-membrane">PWARMASWLCTCPIMLGLVSN</span><span class="topo-inside">MALVKYKSIP</span><span class="topo-membrane">LN</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">PMMIAASSICTVFGITAS</span><span class="topo-outside">VVLDPL</span><span class="topo-membrane">HVWLYCFISSIFFIFEMVVAFAIF</span><span class="topo-inside">AITIHDFQTIGSPMSLKVVER</span><span class="topo-membrane">LKLMRIVFYVSWMAYPILWSFS</span><span class="topo-outside">STGACIMSE</span><span class="topo-membrane">NTSSVLYLLGDALCKNTYGI</span></span>
+<span class="topo-ruler">       250       260         </span>
 <span class="topo-line"><span class="topo-membrane">LLWA</span><span class="topo-inside">TTWGLLNGKWDRDYVKGRNVDGTLM</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -739,6 +748,7 @@ GtACR1 is a natural light-gated anion channelrhodopsin from the cryptophyte alga
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

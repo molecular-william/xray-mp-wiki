@@ -97,7 +97,6 @@ The human thromboxane A2 receptor (TP) is a class A G-protein-coupled receptor t
 
 **Crystallization:**
 
-<<<<<<< HEAD
 <table class="wiki-kv-table">
   <tbody>
     <tr>
@@ -128,14 +127,6 @@ The human thromboxane A2 receptor (TP) is a class A G-protein-coupled receptor t
 </table>
 <div class="sequences" markdown="1">
 **Sequences (PDBTM):**
-=======
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Membrane preparation | Hypotonic lysis and centrifugation | — | 10 mM HEPES pH 7.5, 10 mM MgCl2, 20 mM KCl, protease inhibitors | Washed with high-salt buffer (1 M NaCl) to remove membrane-associated proteins |
-| Solubilization | [DDM](/xray-mp-wiki/reagents/detergents/ddm/) solubilization | — | 50 mM HEPES pH 7.5, 150 mM NaCl, 0.5% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.1% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | Incubated 3 h at 4°C with 100 uM ramatroban or daltroban |
-| Affinity chromatography | [TALON](/xray-mp-wiki/reagents/additives/talon/) IMAC | [TALON](/xray-mp-wiki/reagents/additives/talon/) IMAC resin (Clontech) | 20 mM HEPES pH 7.5, 150 mM NaCl, 10% glycerol, 0.05% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.01% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 30 mM imidazole | Washed with 30 column volumes; eluted with 200-300 mM imidazole |
-| Final purification | Size-exclusion chromatography | [Superdex 200](/xray-mp-wiki/reagents/additives/superdex-200/) Increase 10/300 GL | 25 mM HEPES pH 7.5, 150 mM NaCl, 10% glycerol, 0.05% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.01% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | Peak fractions pooled and concentrated |
->>>>>>> d0e2c437136bdf2885afc6a99e0a9d4117821696
 
 <div class="sequence-entry" markdown="1">
 **PDB <a class="pdb-link" href="https://www.rcsb.org/structure/6iiu">6IIU</a> — Chain A (7 TMs, alpha)**
@@ -148,15 +139,17 @@ The human thromboxane A2 receptor (TP) is a class A G-protein-coupled receptor t
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">DYKDDDDGAP</span><span class="topo-inside">ADLEDNWETLNDNLKVIEKADNAAQVKDALTKMRAAALDAQKATPPKLED</span></span>
-<span class="topo-line"><span class="topo-inside">KSPDSPEMKDFRHGFDILVGQIDDALKLANEGKVKEAQAAAEQLKTTRNAYIQKYLPCFR</span></span>
-<span class="topo-line"><span class="topo-inside">PTNITLEERRLIAS</span><span class="topo-membrane">PWFAASFCVVGLASNLLALSVLA</span><span class="topo-outside">GA</span><span class="topo-unknown">RQGGSH</span><span class="topo-outside">TRSS</span><span class="topo-membrane">FLTFLCGLVLT</span></span>
-<span class="topo-line"><span class="topo-membrane">DFLGLLVTGTIVVSQHA</span><span class="topo-inside">ALFEWHAVDPGCRL</span><span class="topo-membrane">CRFMGVVMIFFGLSPLLLGAAMASERYL</span><span class="topo-outside">G</span></span>
-<span class="topo-line"><span class="topo-outside">ITRPFSRPAVASQ</span><span class="topo-membrane">RRAWATVGLVWAAALALGLLPLL</span><span class="topo-inside">GVGRYTVQYPGSWCFLTLGAESGD</span></span>
-<span class="topo-line"><span class="topo-inside">V</span><span class="topo-membrane">AFGLLFSMLGGLSVGLSFLLNTVSVA</span><span class="topo-outside">TLCHVYHGMKKYTCTVCGYIYNPEDGDPDNGVN</span></span>
-<span class="topo-line"><span class="topo-outside">PGTDFKDIPDDWVCPLCGVGKDQFEEVEERDSEVEM</span><span class="topo-membrane">MAQALGIMVVASVCWLPLLVFIAQ</span></span>
-<span class="topo-line"><span class="topo-inside">TVLRNPPAMSPAGQLSRTTEKE</span><span class="topo-membrane">LLIYLRVATWNQILDPWVYILF</span><span class="topo-outside">R</span><span class="topo-unknown">RAVLRRLQ</span><span class="topo-outside">PRL</span><span class="topo-unknown">EFLE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">DYKDDDDGAP</span><span class="topo-inside">ADLEDNWETLNDNLKVIEKADNAAQVKDALTKMRAAALDAQKATPPKLEDKSPDSPEMKDFRHGFDILVGQIDDALKLANEGKVKEAQAAAEQLKTTRNAYIQKYLPCFR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">PTNITLEERRLIAS</span><span class="topo-membrane">PWFAASFCVVGLASNLLALSVLA</span><span class="topo-outside">GA</span><span class="topo-unknown">RQGGSH</span><span class="topo-outside">TRSS</span><span class="topo-membrane">FLTFLCGLVLTDFLGLLVTGTIVVSQHA</span><span class="topo-inside">ALFEWHAVDPGCRL</span><span class="topo-membrane">CRFMGVVMIFFGLSPLLLGAAMASERYL</span><span class="topo-outside">G</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">ITRPFSRPAVASQ</span><span class="topo-membrane">RRAWATVGLVWAAALALGLLPLL</span><span class="topo-inside">GVGRYTVQYPGSWCFLTLGAESGDV</span><span class="topo-membrane">AFGLLFSMLGGLSVGLSFLLNTVSVA</span><span class="topo-outside">TLCHVYHGMKKYTCTVCGYIYNPEDGDPDNGVN</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">PGTDFKDIPDDWVCPLCGVGKDQFEEVEERDSEVEM</span><span class="topo-membrane">MAQALGIMVVASVCWLPLLVFIAQ</span><span class="topo-inside">TVLRNPPAMSPAGQLSRTTEKE</span><span class="topo-membrane">LLIYLRVATWNQILDPWVYILF</span><span class="topo-outside">R</span><span class="topo-unknown">RAVLRRLQ</span><span class="topo-outside">PRL</span><span class="topo-unknown">EFLE</span></span>
+<span class="topo-ruler">    </span>
 <span class="topo-line"><span class="topo-unknown">VLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -294,6 +287,7 @@ The human thromboxane A2 receptor (TP) is a class A G-protein-coupled receptor t
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -301,7 +295,6 @@ The human thromboxane A2 receptor (TP) is a class A G-protein-coupled receptor t
 <div class="sequence-entry" markdown="1">
 **PDB <a class="pdb-link" href="https://www.rcsb.org/structure/6iiv">6IIV</a> — Chain A (7 TMs, alpha)**
 
-<<<<<<< HEAD
 <div class="sequence-display">
 <div class="topo-legend">
 <span class="topo-membrane-legend">&#9608; TM Helix</span>
@@ -310,15 +303,17 @@ The human thromboxane A2 receptor (TP) is a class A G-protein-coupled receptor t
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">DYKDDDDGA</span><span class="topo-outside">PADLEDNWETLNDNLKVIEKADNAAQVKDALTKMRAAALDAQKATPPKLED</span></span>
-<span class="topo-line"><span class="topo-outside">KSPDSPEMKDFRHGFDILVGQIDDALKLANEGKVKEAQAAAEQLKTTRNAYIQKYLPCFR</span></span>
-<span class="topo-line"><span class="topo-outside">PTNITLEERRLIASP</span><span class="topo-membrane">WFAASFCVVGLASNLLALSVL</span><span class="topo-inside">AGAR</span><span class="topo-unknown">QGGSHT</span><span class="topo-inside">RSSFLT</span><span class="topo-membrane">FLCGLVLT</span></span>
-<span class="topo-line"><span class="topo-membrane">DFLGLLVTGTIVV</span><span class="topo-outside">SQHAALFEWHAVDPGCRLCR</span><span class="topo-membrane">FMGVVMIFFGLSPLLLGAAMAS</span><span class="topo-inside">ERYLG</span></span>
-<span class="topo-line"><span class="topo-inside">ITRPFSRPAVASQRRAW</span><span class="topo-membrane">ATVGLVWAAALALGLLPLLGVG</span><span class="topo-outside">RYTVQYPGSWCFLTLGAESG</span><span class="topo-membrane">D</span></span>
-<span class="topo-line"><span class="topo-membrane">VAFGLLFSMLGGLSVGLSFLLNT</span><span class="topo-inside">VSVATLCHVYHGMKKYTCTVCGYIYNPEDGDPDNGVN</span></span>
-<span class="topo-line"><span class="topo-inside">PGTDFKDIPDDWVCPLCGVGKDQFEEVEERDSEVEMMAQ</span><span class="topo-membrane">ALGIMVVASVCWLPLLVFIAQ</span></span>
-<span class="topo-line"><span class="topo-outside">TVLRNPPAMSPAGQLSRTTEKEL</span><span class="topo-membrane">LIYLRVATWNQILDPWVYILF</span><span class="topo-inside">R</span><span class="topo-unknown">RAVLRR</span><span class="topo-inside">LQPRL</span><span class="topo-unknown">EFLE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">DYKDDDDGA</span><span class="topo-outside">PADLEDNWETLNDNLKVIEKADNAAQVKDALTKMRAAALDAQKATPPKLEDKSPDSPEMKDFRHGFDILVGQIDDALKLANEGKVKEAQAAAEQLKTTRNAYIQKYLPCFR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">PTNITLEERRLIASP</span><span class="topo-membrane">WFAASFCVVGLASNLLALSVL</span><span class="topo-inside">AGAR</span><span class="topo-unknown">QGGSHT</span><span class="topo-inside">RSSFLT</span><span class="topo-membrane">FLCGLVLTDFLGLLVTGTIVV</span><span class="topo-outside">SQHAALFEWHAVDPGCRLCR</span><span class="topo-membrane">FMGVVMIFFGLSPLLLGAAMAS</span><span class="topo-inside">ERYLG</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">ITRPFSRPAVASQRRAW</span><span class="topo-membrane">ATVGLVWAAALALGLLPLLGVG</span><span class="topo-outside">RYTVQYPGSWCFLTLGAESG</span><span class="topo-membrane">DVAFGLLFSMLGGLSVGLSFLLNT</span><span class="topo-inside">VSVATLCHVYHGMKKYTCTVCGYIYNPEDGDPDNGVN</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">PGTDFKDIPDDWVCPLCGVGKDQFEEVEERDSEVEMMAQ</span><span class="topo-membrane">ALGIMVVASVCWLPLLVFIAQ</span><span class="topo-outside">TVLRNPPAMSPAGQLSRTTEKEL</span><span class="topo-membrane">LIYLRVATWNQILDPWVYILF</span><span class="topo-inside">R</span><span class="topo-unknown">RAVLRR</span><span class="topo-inside">LQPRL</span><span class="topo-unknown">EFLE</span></span>
+<span class="topo-ruler">    </span>
 <span class="topo-line"><span class="topo-unknown">VLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -456,19 +451,10 @@ The human thromboxane A2 receptor (TP) is a class A G-protein-coupled receptor t
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
-=======
-| Parameter | Value |
-|---|---|
-| Method | [LCP](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) (LCP) |
-| Protein sample | TP-ramatroban complex at ~25 mg/mL |
-| Temperature | 20\u00B0C |
-| Growth time | 3-4 weeks |
-| Cryoprotection | PEG 400 as cryoprotectant (by LCP method) |
-| Notes | Crystals grew in [LCP](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) with monoolein (9.5 A/0.9 A); data collected from 16 crystals for ramatroban, 49 crystals for daltroban |
->>>>>>> d0e2c437136bdf2885afc6a99e0a9d4117821696
 
 </div>
 

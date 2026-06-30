@@ -60,7 +60,6 @@ The human 5-HT1B receptor is a class A G protein-coupled receptor for serotonin 
 - **Expression construct**: 5-HT1B-BRIL fusion (ICL3 replacement) with N-terminal HA-Flag-10×His-TEV tag
 - **Tag info**: 10×His tag + Flag tag, cleaved by AcTEV protease
 
-<<<<<<< HEAD
 <table class="wiki-table">
   <thead><tr>
     <th>Step</th>
@@ -121,20 +120,6 @@ The human 5-HT1B receptor is a class A G protein-coupled receptor for serotonin 
     </tr>
   </tbody>
 </table>
-=======
-##### Steps
-
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Cell culture and expression | Baculovirus infection (P2, MOI 5) | -- | Sf9 cells in suspension + -- | 48 h post-infection at 27 °C |
-| Membrane preparation | Hypotonic lysis and high-salt wash | -- | 10 mM HEPES pH 7.5, 10 mM MgCl₂, 20 mM KCl + protease inhibitors; then 1.0 M NaCl, 10 mM HEPES pH 7.5, 10 mM MgCl₂, 20 mM KCl + -- | Washed membranes resuspended in buffer with 50 µM ligand (ERG or DHE) + 2 mg/ml iodoacetamide |
-| Solubilization | Detergent extraction | -- | 50 mM HEPES pH 7.5, 200 mM NaCl, 20 mM imidazole + 1% (w/v) [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.2% (w/v) [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | 4 °C, 1 h incubation; supernatant clarified at 160,000×g for 30 min |
-| Immobilized metal affinity chromatography | [TALON](/xray-mp-wiki/reagents/additives/talon/) IMAC | [TALON](/xray-mp-wiki/reagents/additives/talon/) IMAC resin (Clontech) | Wash I: 50 mM HEPES pH 7.5, 800 mM NaCl, 50 µM ligand, 20 mM imidazole, 10% glycerol, 0.1% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.02% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 10 mM ATP, 10 mM MgCl₂; Wash II: 50 mM HEPES pH 7.5, 500 mM NaCl, 50 mM imidazole, 50 µM ligand, 10% glycerol, 0.05% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.01% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) + 0.1% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) / 0.02% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) (Wash I); 0.05% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) / 0.01% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) (Wash II) | Eluted with 250 mM imidazole in 50 mM HEPES pH 7.5, 500 mM NaCl, 50 µM ligand, 10% glycerol, 0.05% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.01% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) |
-| Buffer exchange | PD MiniTrap G-25 desalting | PD MiniTrap G-25 (GE Healthcare) | 50 mM HEPES pH 7.5, 500 mM NaCl, 50 µM ligand, 10% glycerol, 0.05% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.01% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) + 0.05% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.01% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | Removes imidazole |
-| Tag cleavage | AcTEV protease treatment | -- | 50 mM HEPES pH 7.5, 500 mM NaCl, 50 µM ligand, 10% glycerol, 0.05% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.01% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) + 0.05% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.01% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | Overnight at 4 °C; His-tagged AcTEV and cleaved fragment removed by second [TALON](/xray-mp-wiki/reagents/additives/talon/) IMAC incubation |
-| Concentration | Centrifugal concentration | -- | 50 mM HEPES pH 7.5, 500 mM NaCl, 50 µM ligand, 10% glycerol, 0.05% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.01% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) + 0.05% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.01% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | Concentrated to 50-80 mg/ml using 100 kDa MWCO Vivaspin; purity >95% by SDS-PAGE; single peak by aSEC |
-
->>>>>>> d0e2c437136bdf2885afc6a99e0a9d4117821696
 **Final sample**: 50-80 mg/ml in 50 mM HEPES pH 7.5, 500 mM NaCl, 50 µM ligand (ERG or DHE), 10% glycerol, 0.05% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.01% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)
 **Yield**: --
 **Purity**: >95% by SDS-PAGE; monodisperse by aSEC
@@ -219,7 +204,6 @@ The human 5-HT1B receptor is a class A G protein-coupled receptor for serotonin 
 <div class="sequence-entry" markdown="1">
 **PDB <a class="pdb-link" href="https://www.rcsb.org/structure/4iar">4IAR</a> — Chain A (7 TMs, alpha)**
 
-<<<<<<< HEAD
 <div class="sequence-display">
 <div class="topo-legend">
 <span class="topo-membrane-legend">&#9608; TM Helix</span>
@@ -228,13 +212,15 @@ The human 5-HT1B receptor is a class A G protein-coupled receptor for serotonin 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GGTCSAKD</span><span class="topo-inside">YIYQDSISLPWKVL</span><span class="topo-membrane">LVMLLALITLATTLSNAFVIA</span><span class="topo-outside">TVYRTRKLHTPANYLI</span><span class="topo-membrane">A</span></span>
-<span class="topo-line"><span class="topo-membrane">SLAVTDLLVSILVMPIST</span><span class="topo-inside">MYTVTGRWTLGQV</span><span class="topo-membrane">VCDFWLSSDITCCTASIWHLCV</span><span class="topo-outside">IALDRYW</span></span>
-<span class="topo-line"><span class="topo-outside">AITDAVEYSAKRTPKRAAVM</span><span class="topo-membrane">IALVWVFSISISLPPFF</span><span class="topo-inside">WRQA</span><span class="topo-unknown">KAEEEV</span><span class="topo-inside">SECVVNTDH</span><span class="topo-membrane">ILYT</span></span>
-<span class="topo-line"><span class="topo-membrane">VYSTVGAFYFPTLLLIA</span><span class="topo-outside">LYGRIYVEARSRIADLEDNWETLNDNLKVIEKADNAAQVKDAL</span></span>
-<span class="topo-line"><span class="topo-outside">TKMRAAALDAQKATPPKLEDKSPDSPEMKDFRHGFDILVGQIDDALKLANEGKVKEAQAA</span></span>
-<span class="topo-line"><span class="topo-outside">AEQLKTTRNAYIQKYLAARERKATKTL</span><span class="topo-membrane">GIILGAFIVCWLPFFIISLV</span><span class="topo-inside">MPI</span><span class="topo-unknown">CKDAC</span><span class="topo-inside">WFHLA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GGTCSAKD</span><span class="topo-inside">YIYQDSISLPWKVL</span><span class="topo-membrane">LVMLLALITLATTLSNAFVIA</span><span class="topo-outside">TVYRTRKLHTPANYLI</span><span class="topo-membrane">ASLAVTDLLVSILVMPIST</span><span class="topo-inside">MYTVTGRWTLGQV</span><span class="topo-membrane">VCDFWLSSDITCCTASIWHLCV</span><span class="topo-outside">IALDRYW</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">AITDAVEYSAKRTPKRAAVM</span><span class="topo-membrane">IALVWVFSISISLPPFF</span><span class="topo-inside">WRQA</span><span class="topo-unknown">KAEEEV</span><span class="topo-inside">SECVVNTDH</span><span class="topo-membrane">ILYTVYSTVGAFYFPTLLLIA</span><span class="topo-outside">LYGRIYVEARSRIADLEDNWETLNDNLKVIEKADNAAQVKDAL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">TKMRAAALDAQKATPPKLEDKSPDSPEMKDFRHGFDILVGQIDDALKLANEGKVKEAQAAAEQLKTTRNAYIQKYLAARERKATKTL</span><span class="topo-membrane">GIILGAFIVCWLPFFIISLV</span><span class="topo-inside">MPI</span><span class="topo-unknown">CKDAC</span><span class="topo-inside">WFHLA</span></span>
+<span class="topo-ruler">       370       380       390       400 </span>
 <span class="topo-line"><span class="topo-inside">I</span><span class="topo-membrane">FDFFTWLGYLNSLINPIIYTM</span><span class="topo-outside">SN</span><span class="topo-unknown">EDFKQAFHKL</span><span class="topo-outside">IRFK</span><span class="topo-unknown">CTS</span></span>
+<details class="topo-details"><summary>Topology coordinates (23 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -407,35 +393,13 @@ The human 5-HT1B receptor is a class A G protein-coupled receptor for serotonin 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
 
 <div class="sequence-entry" markdown="1">
 **PDB <a class="pdb-link" href="https://www.rcsb.org/structure/4iar">4IAR</a> — Chain A (7 TMs, alpha)**
-=======
-| Parameter | Value |
-|---|---|
-| Method | [LCP](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) ([LCP](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/)) |
-| Protein sample | 5-HT1B-1/ERG complex (construct 5-HT1B-1) |
-| Lipid | Monoolein (54% w/w) + cholesterol (6% w/w) |
-| Protein-to-lipid ratio | 40% (w/w) protein solution, 54% monoolein, 6% cholesterol |
-| Temperature | 20 °C |
-| Growth time | 2-3 days |
-| Cryoprotection | Crystals harvested from LCP matrix; flash frozen in liquid nitrogen |
-| Notes | Crystals grew to 20-50 µm; 40 nL protein-lipid overlaid with 800 nL precipitant; 96-well glass sandwich plates |
-
-| Parameter | Value |
-|---|---|
-| Method | [LCP](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) ([LCP](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/)) |
-| Protein sample | 5-HT1B-2/DHE complex (construct 5-HT1B-2) |
-| Lipid | Monoolein (54% w/w) + cholesterol (6% w/w) |
-| Protein-to-lipid ratio | 40% (w/w) protein solution, 54% monoolein, 6% cholesterol |
-| Temperature | 20 °C |
-| Growth time | 2-3 days |
-| Cryoprotection | Crystals harvested from LCP matrix; flash frozen in liquid nitrogen |
-| Notes | Crystals grew to 20-50 µm; data from 56 crystals merged for 2.8 Å structure |
->>>>>>> d0e2c437136bdf2885afc6a99e0a9d4117821696
 
 <div class="sequence-display">
 <div class="topo-legend">
@@ -445,13 +409,15 @@ The human 5-HT1B receptor is a class A G protein-coupled receptor for serotonin 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GGTCSAKD</span><span class="topo-inside">YIYQDSISLPWKVL</span><span class="topo-membrane">LVMLLALITLATTLSNAFVIA</span><span class="topo-outside">TVYRTRKLHTPANYLI</span><span class="topo-membrane">A</span></span>
-<span class="topo-line"><span class="topo-membrane">SLAVTDLLVSILVMPIST</span><span class="topo-inside">MYTVTGRWTLGQV</span><span class="topo-membrane">VCDFWLSSDITCCTASIWHLCV</span><span class="topo-outside">IALDRYW</span></span>
-<span class="topo-line"><span class="topo-outside">AITDAVEYSAKRTPKRAAVM</span><span class="topo-membrane">IALVWVFSISISLPPFF</span><span class="topo-inside">WRQA</span><span class="topo-unknown">KAEEEV</span><span class="topo-inside">SECVVNTDH</span><span class="topo-membrane">ILYT</span></span>
-<span class="topo-line"><span class="topo-membrane">VYSTVGAFYFPTLLLIA</span><span class="topo-outside">LYGRIYVEARSRIADLEDNWETLNDNLKVIEKADNAAQVKDAL</span></span>
-<span class="topo-line"><span class="topo-outside">TKMRAAALDAQKATPPKLEDKSPDSPEMKDFRHGFDILVGQIDDALKLANEGKVKEAQAA</span></span>
-<span class="topo-line"><span class="topo-outside">AEQLKTTRNAYIQKYLAARERKATKTL</span><span class="topo-membrane">GIILGAFIVCWLPFFIISLV</span><span class="topo-inside">MPI</span><span class="topo-unknown">CKDAC</span><span class="topo-inside">WFHLA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GGTCSAKD</span><span class="topo-inside">YIYQDSISLPWKVL</span><span class="topo-membrane">LVMLLALITLATTLSNAFVIA</span><span class="topo-outside">TVYRTRKLHTPANYLI</span><span class="topo-membrane">ASLAVTDLLVSILVMPIST</span><span class="topo-inside">MYTVTGRWTLGQV</span><span class="topo-membrane">VCDFWLSSDITCCTASIWHLCV</span><span class="topo-outside">IALDRYW</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">AITDAVEYSAKRTPKRAAVM</span><span class="topo-membrane">IALVWVFSISISLPPFF</span><span class="topo-inside">WRQA</span><span class="topo-unknown">KAEEEV</span><span class="topo-inside">SECVVNTDH</span><span class="topo-membrane">ILYTVYSTVGAFYFPTLLLIA</span><span class="topo-outside">LYGRIYVEARSRIADLEDNWETLNDNLKVIEKADNAAQVKDAL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">TKMRAAALDAQKATPPKLEDKSPDSPEMKDFRHGFDILVGQIDDALKLANEGKVKEAQAAAEQLKTTRNAYIQKYLAARERKATKTL</span><span class="topo-membrane">GIILGAFIVCWLPFFIISLV</span><span class="topo-inside">MPI</span><span class="topo-unknown">CKDAC</span><span class="topo-inside">WFHLA</span></span>
+<span class="topo-ruler">       370       380       390       400 </span>
 <span class="topo-line"><span class="topo-inside">I</span><span class="topo-membrane">FDFFTWLGYLNSLINPIIYTM</span><span class="topo-outside">SN</span><span class="topo-unknown">EDFKQAFHKL</span><span class="topo-outside">IRFK</span><span class="topo-unknown">CTS</span></span>
+<details class="topo-details"><summary>Topology coordinates (23 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -624,6 +590,7 @@ The human 5-HT1B receptor is a class A G protein-coupled receptor for serotonin 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

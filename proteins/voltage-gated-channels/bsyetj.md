@@ -69,10 +69,11 @@ BsYetJ is a transmembrane Bax inhibitor motif (TMBIM) protein from Bacillus subt
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">HESK</span><span class="topo-inside">QSIMQRILTV</span><span class="topo-membrane">FVFTLLIATVGLFIGQFVP</span><span class="topo-outside">VAL</span><span class="topo-membrane">MLPLSILEVAMIILAFWMRRR</span><span class="topo-inside">KAV</span></span>
-<span class="topo-line"><span class="topo-inside">GY</span><span class="topo-membrane">AFVYTFAFVSGITLFPIVSHYA</span><span class="topo-outside">SIAGA</span><span class="topo-membrane">YVVLEAFGSTFVIFAVLGTIG</span><span class="topo-inside">AKMKKDLSFL</span></span>
-<span class="topo-line"><span class="topo-membrane">WSFLLVAVLALAVVGIFNIF</span><span class="topo-outside">SPLNSAA</span><span class="topo-membrane">MMAYSVIGTIVFSLYILYD</span><span class="topo-inside">LNQIKHRHITEDLI</span></span>
-<span class="topo-line"><span class="topo-inside">PVMA</span><span class="topo-membrane">LSLYLDFINLFINLLRFFG</span><span class="topo-outside">ILSSD</span><span class="topo-unknown">D</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">HESK</span><span class="topo-inside">QSIMQRILTV</span><span class="topo-membrane">FVFTLLIATVGLFIGQFVP</span><span class="topo-outside">VAL</span><span class="topo-membrane">MLPLSILEVAMIILAFWMRRR</span><span class="topo-inside">KAVGY</span><span class="topo-membrane">AFVYTFAFVSGITLFPIVSHYA</span><span class="topo-outside">SIAGA</span><span class="topo-membrane">YVVLEAFGSTFVIFAVLGTIG</span><span class="topo-inside">AKMKKDLSFL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200         </span>
+<span class="topo-line"><span class="topo-membrane">WSFLLVAVLALAVVGIFNIF</span><span class="topo-outside">SPLNSAA</span><span class="topo-membrane">MMAYSVIGTIVFSLYILYD</span><span class="topo-inside">LNQIKHRHITEDLIPVMA</span><span class="topo-membrane">LSLYLDFINLFINLLRFFG</span><span class="topo-outside">ILSSD</span><span class="topo-unknown">D</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -189,6 +190,7 @@ BsYetJ is a transmembrane Bax inhibitor motif (TMBIM) protein from Bacillus subt
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -204,10 +206,11 @@ BsYetJ is a transmembrane Bax inhibitor motif (TMBIM) protein from Bacillus subt
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MQATVH</span><span class="topo-outside">ESKQSIMQRI</span><span class="topo-membrane">LTVFVFTLLIATVGLFIGQ</span><span class="topo-inside">FVPVAL</span><span class="topo-membrane">MLPLSILEVAMIILAFWMR</span></span>
-<span class="topo-line"><span class="topo-membrane">R</span><span class="topo-outside">RKAV</span><span class="topo-membrane">GYAFVYTFAFVSGITLFPIV</span><span class="topo-inside">SHYASIAGA</span><span class="topo-membrane">YVVLEAFGSTFVIFAVLGTI</span><span class="topo-outside">GAKMKK</span></span>
-<span class="topo-line"><span class="topo-outside">DLSFL</span><span class="topo-membrane">WSFLLVAVLALAVVGIFNI</span><span class="topo-inside">FSPLNSAA</span><span class="topo-membrane">MMAYSVIGTIVFSLYILYEL</span><span class="topo-outside">NQIKHRHI</span></span>
-<span class="topo-line"><span class="topo-outside">TEDLIP</span><span class="topo-membrane">VMALSLYLDFINLFINLLRFFG</span><span class="topo-inside">ILSSDD</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MQATVH</span><span class="topo-outside">ESKQSIMQRI</span><span class="topo-membrane">LTVFVFTLLIATVGLFIGQ</span><span class="topo-inside">FVPVAL</span><span class="topo-membrane">MLPLSILEVAMIILAFWMRR</span><span class="topo-outside">RKAV</span><span class="topo-membrane">GYAFVYTFAFVSGITLFPIV</span><span class="topo-inside">SHYASIAGA</span><span class="topo-membrane">YVVLEAFGSTFVIFAVLGTI</span><span class="topo-outside">GAKMKK</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210    </span>
+<span class="topo-line"><span class="topo-outside">DLSFL</span><span class="topo-membrane">WSFLLVAVLALAVVGIFNI</span><span class="topo-inside">FSPLNSAA</span><span class="topo-membrane">MMAYSVIGTIVFSLYILYEL</span><span class="topo-outside">NQIKHRHITEDLIP</span><span class="topo-membrane">VMALSLYLDFINLFINLLRFFG</span><span class="topo-inside">ILSSDD</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -324,6 +327,7 @@ BsYetJ is a transmembrane Bax inhibitor motif (TMBIM) protein from Bacillus subt
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -339,10 +343,11 @@ BsYetJ is a transmembrane Bax inhibitor motif (TMBIM) protein from Bacillus subt
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MQATVH</span><span class="topo-outside">ESKQSIM</span><span class="topo-membrane">QRILTVFVFTLLIATVGLFIGQ</span><span class="topo-inside">FVPVAL</span><span class="topo-membrane">MLPLSILEVAMIILAFWMR</span></span>
-<span class="topo-line"><span class="topo-membrane">R</span><span class="topo-outside">RKA</span><span class="topo-membrane">VGYAFVYTFAFVSGITLFPIV</span><span class="topo-inside">SHYASIAGAY</span><span class="topo-membrane">VVLEAFGSTFVIFAVLGTIGAK</span><span class="topo-outside">MKK</span></span>
-<span class="topo-line"><span class="topo-outside">DLSF</span><span class="topo-membrane">LWSFLLVAVLALAVVGIFNIF</span><span class="topo-inside">SPLNSAA</span><span class="topo-membrane">MMAYSVIGTIVFSLYILYDLNQ</span><span class="topo-outside">IKHRHI</span></span>
-<span class="topo-line"><span class="topo-outside">TEDLI</span><span class="topo-membrane">PVMALSLYLEFINLFINLLRFFG</span><span class="topo-inside">ILSSDD</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MQATVH</span><span class="topo-outside">ESKQSIM</span><span class="topo-membrane">QRILTVFVFTLLIATVGLFIGQ</span><span class="topo-inside">FVPVAL</span><span class="topo-membrane">MLPLSILEVAMIILAFWMRR</span><span class="topo-outside">RKA</span><span class="topo-membrane">VGYAFVYTFAFVSGITLFPIV</span><span class="topo-inside">SHYASIAGAY</span><span class="topo-membrane">VVLEAFGSTFVIFAVLGTIGAK</span><span class="topo-outside">MKK</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210    </span>
+<span class="topo-line"><span class="topo-outside">DLSF</span><span class="topo-membrane">LWSFLLVAVLALAVVGIFNIF</span><span class="topo-inside">SPLNSAA</span><span class="topo-membrane">MMAYSVIGTIVFSLYILYDLNQ</span><span class="topo-outside">IKHRHITEDLI</span><span class="topo-membrane">PVMALSLYLEFINLFINLLRFFG</span><span class="topo-inside">ILSSDD</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -459,6 +464,7 @@ BsYetJ is a transmembrane Bax inhibitor motif (TMBIM) protein from Bacillus subt
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -508,10 +514,11 @@ BsYetJ is a transmembrane Bax inhibitor motif (TMBIM) protein from Bacillus subt
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">SNAMQATV</span><span class="topo-inside">HESKQSIMQRIL</span><span class="topo-membrane">TVFVFTLLIATVGLFIGQFVP</span><span class="topo-outside">VAL</span><span class="topo-membrane">MLPLSILEVAMIILAF</span></span>
-<span class="topo-line"><span class="topo-membrane">WMRR</span><span class="topo-inside">RKAVGY</span><span class="topo-membrane">AFVYTFAFVSGITLFPIVS</span><span class="topo-outside">HYASIAGA</span><span class="topo-membrane">YVVLEAFGSTFVIFAVLGTIGA</span><span class="topo-inside">K</span></span>
-<span class="topo-line"><span class="topo-inside">MKKDL</span><span class="topo-membrane">SFLWSFLLVAVLALAVVGIF</span><span class="topo-outside">NIFSPLNSAAMMA</span><span class="topo-membrane">YSVIGTIVFSLYILYDLN</span><span class="topo-inside">QIKH</span></span>
-<span class="topo-line"><span class="topo-inside">RHITEDLIP</span><span class="topo-membrane">VMALSLYLDFINLFINLLRFF</span><span class="topo-outside">GILSS</span><span class="topo-unknown">DD</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">SNAMQATV</span><span class="topo-inside">HESKQSIMQRIL</span><span class="topo-membrane">TVFVFTLLIATVGLFIGQFVP</span><span class="topo-outside">VAL</span><span class="topo-membrane">MLPLSILEVAMIILAFWMRR</span><span class="topo-inside">RKAVGY</span><span class="topo-membrane">AFVYTFAFVSGITLFPIVS</span><span class="topo-outside">HYASIAGA</span><span class="topo-membrane">YVVLEAFGSTFVIFAVLGTIGA</span><span class="topo-inside">K</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       </span>
+<span class="topo-line"><span class="topo-inside">MKKDL</span><span class="topo-membrane">SFLWSFLLVAVLALAVVGIF</span><span class="topo-outside">NIFSPLNSAAMMA</span><span class="topo-membrane">YSVIGTIVFSLYILYDLN</span><span class="topo-inside">QIKHRHITEDLIP</span><span class="topo-membrane">VMALSLYLDFINLFINLLRFF</span><span class="topo-outside">GILSS</span><span class="topo-unknown">DD</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -642,6 +649,7 @@ BsYetJ is a transmembrane Bax inhibitor motif (TMBIM) protein from Bacillus subt
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -657,10 +665,11 @@ BsYetJ is a transmembrane Bax inhibitor motif (TMBIM) protein from Bacillus subt
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">SNAMQATV</span><span class="topo-outside">HESKQSIMQRIL</span><span class="topo-membrane">TVFVFTLLIATVGLFIGQFV</span><span class="topo-inside">PVAL</span><span class="topo-membrane">MLPLSILEVAMIILAF</span></span>
-<span class="topo-line"><span class="topo-membrane">WMRR</span><span class="topo-outside">RKAV</span><span class="topo-membrane">GYAFVYTFAFVSGITLFPIVS</span><span class="topo-inside">HYASIAGA</span><span class="topo-membrane">YVVLEAFGSTFVIFAVLG</span><span class="topo-outside">TIGAK</span></span>
-<span class="topo-line"><span class="topo-outside">MKKDLSFL</span><span class="topo-membrane">WSFLLVAVLALAVVGIFNI</span><span class="topo-inside">FSPLNSAA</span><span class="topo-membrane">MMAYSVIGTIVFSLYILYD</span><span class="topo-outside">LNQIKH</span></span>
-<span class="topo-line"><span class="topo-outside">RHITEDLIP</span><span class="topo-membrane">VMALSLYLDFINLFINLLRFFGIL</span><span class="topo-inside">SS</span><span class="topo-unknown">DD</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">SNAMQATV</span><span class="topo-outside">HESKQSIMQRIL</span><span class="topo-membrane">TVFVFTLLIATVGLFIGQFV</span><span class="topo-inside">PVAL</span><span class="topo-membrane">MLPLSILEVAMIILAFWMRR</span><span class="topo-outside">RKAV</span><span class="topo-membrane">GYAFVYTFAFVSGITLFPIVS</span><span class="topo-inside">HYASIAGA</span><span class="topo-membrane">YVVLEAFGSTFVIFAVLG</span><span class="topo-outside">TIGAK</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       </span>
+<span class="topo-line"><span class="topo-outside">MKKDLSFL</span><span class="topo-membrane">WSFLLVAVLALAVVGIFNI</span><span class="topo-inside">FSPLNSAA</span><span class="topo-membrane">MMAYSVIGTIVFSLYILYD</span><span class="topo-outside">LNQIKHRHITEDLIP</span><span class="topo-membrane">VMALSLYLDFINLFINLLRFFGIL</span><span class="topo-inside">SS</span><span class="topo-unknown">DD</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -791,6 +800,7 @@ BsYetJ is a transmembrane Bax inhibitor motif (TMBIM) protein from Bacillus subt
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -847,10 +857,11 @@ BsYetJ is a transmembrane Bax inhibitor motif (TMBIM) protein from Bacillus subt
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">SNAMQATV</span><span class="topo-inside">HESKQSIMQRIL</span><span class="topo-membrane">TVFVFTLLIATVGLFIGQFVP</span><span class="topo-outside">VAL</span><span class="topo-membrane">MLPLSILEVAMIILAF</span></span>
-<span class="topo-line"><span class="topo-membrane">WMRR</span><span class="topo-inside">RKAVGY</span><span class="topo-membrane">AFVYTFAFVSGITLFPIVS</span><span class="topo-outside">HYASIAGA</span><span class="topo-membrane">YVVLEAFGSTFVIFAVLGTIGA</span><span class="topo-inside">K</span></span>
-<span class="topo-line"><span class="topo-inside">MKKDL</span><span class="topo-membrane">SFLWSFLLVAVLALAVVGIF</span><span class="topo-outside">NIFSPLNSAAMMA</span><span class="topo-membrane">YSVIGTIVFSLYILYDLN</span><span class="topo-inside">QIKH</span></span>
-<span class="topo-line"><span class="topo-inside">RHITEDLIP</span><span class="topo-membrane">VMALSLYLDFINLFINLLRFF</span><span class="topo-outside">GILSS</span><span class="topo-unknown">DD</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">SNAMQATV</span><span class="topo-inside">HESKQSIMQRIL</span><span class="topo-membrane">TVFVFTLLIATVGLFIGQFVP</span><span class="topo-outside">VAL</span><span class="topo-membrane">MLPLSILEVAMIILAFWMRR</span><span class="topo-inside">RKAVGY</span><span class="topo-membrane">AFVYTFAFVSGITLFPIVS</span><span class="topo-outside">HYASIAGA</span><span class="topo-membrane">YVVLEAFGSTFVIFAVLGTIGA</span><span class="topo-inside">K</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       </span>
+<span class="topo-line"><span class="topo-inside">MKKDL</span><span class="topo-membrane">SFLWSFLLVAVLALAVVGIF</span><span class="topo-outside">NIFSPLNSAAMMA</span><span class="topo-membrane">YSVIGTIVFSLYILYDLN</span><span class="topo-inside">QIKHRHITEDLIP</span><span class="topo-membrane">VMALSLYLDFINLFINLLRFF</span><span class="topo-outside">GILSS</span><span class="topo-unknown">DD</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -981,6 +992,7 @@ BsYetJ is a transmembrane Bax inhibitor motif (TMBIM) protein from Bacillus subt
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -996,10 +1008,11 @@ BsYetJ is a transmembrane Bax inhibitor motif (TMBIM) protein from Bacillus subt
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">SNAMQATV</span><span class="topo-inside">HESKQSIMQRIL</span><span class="topo-membrane">TVFVFTLLIATVGLFIGQFVP</span><span class="topo-outside">VAL</span><span class="topo-membrane">MLPLSILEVAMIILAF</span></span>
-<span class="topo-line"><span class="topo-membrane">WMRR</span><span class="topo-inside">RKAVGY</span><span class="topo-membrane">AFVYTFAFVSGITLFPIVS</span><span class="topo-outside">HYASIAGA</span><span class="topo-membrane">YVVLEAFGSTFVIFAVLGTIGA</span><span class="topo-inside">K</span></span>
-<span class="topo-line"><span class="topo-inside">MKKDL</span><span class="topo-membrane">SFLWSFLLVAVLALAVVGIF</span><span class="topo-outside">NIFSPLNSAAMMA</span><span class="topo-membrane">YSVIGTIVFSLYILYDLN</span><span class="topo-inside">QIKH</span></span>
-<span class="topo-line"><span class="topo-inside">RHITEDLIP</span><span class="topo-membrane">VMALSLYLDFINLFINLLRFF</span><span class="topo-outside">GILSS</span><span class="topo-unknown">DD</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">SNAMQATV</span><span class="topo-inside">HESKQSIMQRIL</span><span class="topo-membrane">TVFVFTLLIATVGLFIGQFVP</span><span class="topo-outside">VAL</span><span class="topo-membrane">MLPLSILEVAMIILAFWMRR</span><span class="topo-inside">RKAVGY</span><span class="topo-membrane">AFVYTFAFVSGITLFPIVS</span><span class="topo-outside">HYASIAGA</span><span class="topo-membrane">YVVLEAFGSTFVIFAVLGTIGA</span><span class="topo-inside">K</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       </span>
+<span class="topo-line"><span class="topo-inside">MKKDL</span><span class="topo-membrane">SFLWSFLLVAVLALAVVGIF</span><span class="topo-outside">NIFSPLNSAAMMA</span><span class="topo-membrane">YSVIGTIVFSLYILYDLN</span><span class="topo-inside">QIKHRHITEDLIP</span><span class="topo-membrane">VMALSLYLDFINLFINLLRFF</span><span class="topo-outside">GILSS</span><span class="topo-unknown">DD</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1130,6 +1143,7 @@ BsYetJ is a transmembrane Bax inhibitor motif (TMBIM) protein from Bacillus subt
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1145,10 +1159,11 @@ BsYetJ is a transmembrane Bax inhibitor motif (TMBIM) protein from Bacillus subt
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">SNAMQATV</span><span class="topo-inside">HESKQSIMQRIL</span><span class="topo-membrane">TVFVFTLLIATVGLFIGQFVP</span><span class="topo-outside">VAL</span><span class="topo-membrane">MLPLSILEVAMIILAF</span></span>
-<span class="topo-line"><span class="topo-membrane">WMRR</span><span class="topo-inside">RKAVGY</span><span class="topo-membrane">AFVYTFAFVSGITLFPIVS</span><span class="topo-outside">HYASIAGA</span><span class="topo-membrane">YVVLEAFGSTFVIFAVLGTIGA</span><span class="topo-inside">K</span></span>
-<span class="topo-line"><span class="topo-inside">MKKDL</span><span class="topo-membrane">SFLWSFLLVAVLALAVVGIF</span><span class="topo-outside">NIFSPLNSAAMMA</span><span class="topo-membrane">YSVIGTIVFSLYILYDLN</span><span class="topo-inside">QIKH</span></span>
-<span class="topo-line"><span class="topo-inside">RHITEDLIP</span><span class="topo-membrane">VMALSLYLDFINLFINLLRFF</span><span class="topo-outside">GILSS</span><span class="topo-unknown">DD</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">SNAMQATV</span><span class="topo-inside">HESKQSIMQRIL</span><span class="topo-membrane">TVFVFTLLIATVGLFIGQFVP</span><span class="topo-outside">VAL</span><span class="topo-membrane">MLPLSILEVAMIILAFWMRR</span><span class="topo-inside">RKAVGY</span><span class="topo-membrane">AFVYTFAFVSGITLFPIVS</span><span class="topo-outside">HYASIAGA</span><span class="topo-membrane">YVVLEAFGSTFVIFAVLGTIGA</span><span class="topo-inside">K</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       </span>
+<span class="topo-line"><span class="topo-inside">MKKDL</span><span class="topo-membrane">SFLWSFLLVAVLALAVVGIF</span><span class="topo-outside">NIFSPLNSAAMMA</span><span class="topo-membrane">YSVIGTIVFSLYILYDLN</span><span class="topo-inside">QIKHRHITEDLIP</span><span class="topo-membrane">VMALSLYLDFINLFINLLRFF</span><span class="topo-outside">GILSS</span><span class="topo-unknown">DD</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1279,6 +1294,7 @@ BsYetJ is a transmembrane Bax inhibitor motif (TMBIM) protein from Bacillus subt
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

@@ -139,13 +139,15 @@ NupG is a nucleoside proton symporter from [Escherichia coli](/xray-mp-wiki/prot
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MNLKLQLK</span><span class="topo-membrane">ILSFLQFCLWGSWLTTLG</span><span class="topo-outside">SYMFVTLKFDGA</span><span class="topo-membrane">SIGAVYSSLGIAAVFM</span><span class="topo-inside">PALLGI</span></span>
-<span class="topo-line"><span class="topo-inside">VADKWLSAKWV</span><span class="topo-membrane">YAICHTIGAITLFMAAQV</span><span class="topo-outside">TTP</span><span class="topo-membrane">EAMFLVILINSFAYMPTL</span><span class="topo-inside">GLINTISYYR</span></span>
-<span class="topo-line"><span class="topo-inside">LQNAGMDIVTDFPPIR</span><span class="topo-membrane">IWGTIGFIMAMWVVSLS</span><span class="topo-outside">GFELSH</span><span class="topo-membrane">MQLYIGAALSAILVLFTLT</span><span class="topo-inside">LP</span></span>
-<span class="topo-line"><span class="topo-inside">HIPVAKQQANQSWTTLLGLD</span><span class="topo-unknown">AFALFK</span><span class="topo-inside">NKRMAI</span><span class="topo-membrane">FFIFSMLLGAELQITNMFGN</span><span class="topo-outside">TFLHSFDK</span></span>
-<span class="topo-line"><span class="topo-outside">DPMFASSFIVQHA</span><span class="topo-membrane">SIIMSISQISETLFILTI</span><span class="topo-unknown">PFFLSRY</span><span class="topo-inside">GIK</span><span class="topo-membrane">NVMMISIVAWILRFALF</span><span class="topo-outside">AY</span></span>
-<span class="topo-line"><span class="topo-outside">GDPTPFGTV</span><span class="topo-membrane">LLVLSMIVYGCAFDFFNISG</span><span class="topo-inside">SVFVEKEVSPAIRASAQGMF</span><span class="topo-membrane">LMMTNGFGCIL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">MNLKLQLK</span><span class="topo-membrane">ILSFLQFCLWGSWLTTLG</span><span class="topo-outside">SYMFVTLKFDGA</span><span class="topo-membrane">SIGAVYSSLGIAAVFM</span><span class="topo-inside">PALLGIVADKWLSAKWV</span><span class="topo-membrane">YAICHTIGAITLFMAAQV</span><span class="topo-outside">TTP</span><span class="topo-membrane">EAMFLVILINSFAYMPTL</span><span class="topo-inside">GLINTISYYR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">LQNAGMDIVTDFPPIR</span><span class="topo-membrane">IWGTIGFIMAMWVVSLS</span><span class="topo-outside">GFELSH</span><span class="topo-membrane">MQLYIGAALSAILVLFTLT</span><span class="topo-inside">LPHIPVAKQQANQSWTTLLGLD</span><span class="topo-unknown">AFALFK</span><span class="topo-inside">NKRMAI</span><span class="topo-membrane">FFIFSMLLGAELQITNMFGN</span><span class="topo-outside">TFLHSFDK</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">DPMFASSFIVQHA</span><span class="topo-membrane">SIIMSISQISETLFILTI</span><span class="topo-unknown">PFFLSRY</span><span class="topo-inside">GIK</span><span class="topo-membrane">NVMMISIVAWILRFALF</span><span class="topo-outside">AYGDPTPFGTV</span><span class="topo-membrane">LLVLSMIVYGCAFDFFNISG</span><span class="topo-inside">SVFVEKEVSPAIRASAQGMF</span><span class="topo-membrane">LMMTNGFGCIL</span></span>
+<span class="topo-ruler">       370       380       390       400       410        </span>
 <span class="topo-line"><span class="topo-membrane">GGIVSGKV</span><span class="topo-outside">VEMYTQNGITDWQTVW</span><span class="topo-membrane">LIFAGYSVVLAFAFMAMFK</span><span class="topo-inside">YK</span><span class="topo-unknown">HVRVPTGTQTVSH</span></span>
+<details class="topo-details"><summary>Topology coordinates (28 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -353,6 +355,7 @@ NupG is a nucleoside proton symporter from [Escherichia coli](/xray-mp-wiki/prot
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -368,13 +371,15 @@ NupG is a nucleoside proton symporter from [Escherichia coli](/xray-mp-wiki/prot
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MNLKLQLK</span><span class="topo-membrane">ILSFLQFCLWGSWLTTLG</span><span class="topo-outside">SYMFVTLKFDGA</span><span class="topo-membrane">SIGAVYSSLGIAAVFM</span><span class="topo-inside">PALLGI</span></span>
-<span class="topo-line"><span class="topo-inside">VADKWLSAKWV</span><span class="topo-membrane">YAICHTIGAITLFMAAQV</span><span class="topo-outside">TTP</span><span class="topo-membrane">EAMFLVILINSFAYMPTL</span><span class="topo-inside">GLINTISYYR</span></span>
-<span class="topo-line"><span class="topo-inside">LQNAGMDIVTDFPPIR</span><span class="topo-membrane">IWGTIGFIMAMWVVSLS</span><span class="topo-outside">GFELSH</span><span class="topo-membrane">MQLYIGAALSAILVLFTLT</span><span class="topo-inside">LP</span></span>
-<span class="topo-line"><span class="topo-inside">HIPVAKQQANQSWTTLLGLD</span><span class="topo-unknown">AFALFK</span><span class="topo-inside">NKRMAI</span><span class="topo-membrane">FFIFSMLLGAELQITNMFGN</span><span class="topo-outside">TFLHSFDK</span></span>
-<span class="topo-line"><span class="topo-outside">DPMFASSFIVQHA</span><span class="topo-membrane">SIIMSISQISETLFILTI</span><span class="topo-unknown">PFFLSRY</span><span class="topo-inside">GIK</span><span class="topo-membrane">NVMMISIVAWILRFALF</span><span class="topo-outside">AY</span></span>
-<span class="topo-line"><span class="topo-outside">GDPTPFGTV</span><span class="topo-membrane">LLVLSMIVYGCAFDFFNISG</span><span class="topo-inside">SVFVEKEVSPAIRASAQGMF</span><span class="topo-membrane">LMMTNGFGCIL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">MNLKLQLK</span><span class="topo-membrane">ILSFLQFCLWGSWLTTLG</span><span class="topo-outside">SYMFVTLKFDGA</span><span class="topo-membrane">SIGAVYSSLGIAAVFM</span><span class="topo-inside">PALLGIVADKWLSAKWV</span><span class="topo-membrane">YAICHTIGAITLFMAAQV</span><span class="topo-outside">TTP</span><span class="topo-membrane">EAMFLVILINSFAYMPTL</span><span class="topo-inside">GLINTISYYR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">LQNAGMDIVTDFPPIR</span><span class="topo-membrane">IWGTIGFIMAMWVVSLS</span><span class="topo-outside">GFELSH</span><span class="topo-membrane">MQLYIGAALSAILVLFTLT</span><span class="topo-inside">LPHIPVAKQQANQSWTTLLGLD</span><span class="topo-unknown">AFALFK</span><span class="topo-inside">NKRMAI</span><span class="topo-membrane">FFIFSMLLGAELQITNMFGN</span><span class="topo-outside">TFLHSFDK</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">DPMFASSFIVQHA</span><span class="topo-membrane">SIIMSISQISETLFILTI</span><span class="topo-unknown">PFFLSRY</span><span class="topo-inside">GIK</span><span class="topo-membrane">NVMMISIVAWILRFALF</span><span class="topo-outside">AYGDPTPFGTV</span><span class="topo-membrane">LLVLSMIVYGCAFDFFNISG</span><span class="topo-inside">SVFVEKEVSPAIRASAQGMF</span><span class="topo-membrane">LMMTNGFGCIL</span></span>
+<span class="topo-ruler">       370       380       390       400       410        </span>
 <span class="topo-line"><span class="topo-membrane">GGIVSGKV</span><span class="topo-outside">VEMYTQNGITDWQTVW</span><span class="topo-membrane">LIFAGYSVVLAFAFMAMFK</span><span class="topo-inside">YK</span><span class="topo-unknown">HVRVPTGTQTVSH</span></span>
+<details class="topo-details"><summary>Topology coordinates (28 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -582,6 +587,7 @@ NupG is a nucleoside proton symporter from [Escherichia coli](/xray-mp-wiki/prot
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

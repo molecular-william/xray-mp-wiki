@@ -119,11 +119,13 @@ pharaonis [Halorhodopsin (HR) from Halobacterium salinarum](/xray-mp-wiki/protei
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MTETLPPVTESAVALQAE</span><span class="topo-inside">VTQRELFEFVLNDPLLAS</span><span class="topo-membrane">SLYINIALAGLSILLFVF</span><span class="topo-outside">MTRGLD</span></span>
-<span class="topo-line"><span class="topo-outside">DPRAKLIAV</span><span class="topo-membrane">STILVPVVSIASYTGLAS</span><span class="topo-inside">GLTISVLEMPAGHFAEGSSVMLGGEEVDGVVTM</span></span>
-<span class="topo-line"><span class="topo-membrane">WGRYLTWALSTPMILL</span><span class="topo-outside">ALGLLAGSNATKLF</span><span class="topo-membrane">TAITFDIAMCVTGLAAALT</span><span class="topo-inside">TSSHL</span><span class="topo-membrane">MRWFWY</span></span>
-<span class="topo-line"><span class="topo-membrane">AISCACFIVVLY</span><span class="topo-outside">ILLVEWAQDAKAAGTADIFSTL</span><span class="topo-membrane">KLLTVVMWLGYPIVWALG</span><span class="topo-inside">VEGVAVLP</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MTETLPPVTESAVALQAE</span><span class="topo-inside">VTQRELFEFVLNDPLLAS</span><span class="topo-membrane">SLYINIALAGLSILLFVF</span><span class="topo-outside">MTRGLDDPRAKLIAV</span><span class="topo-membrane">STILVPVVSIASYTGLAS</span><span class="topo-inside">GLTISVLEMPAGHFAEGSSVMLGGEEVDGVVTM</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">WGRYLTWALSTPMILL</span><span class="topo-outside">ALGLLAGSNATKLF</span><span class="topo-membrane">TAITFDIAMCVTGLAAALT</span><span class="topo-inside">TSSHL</span><span class="topo-membrane">MRWFWYAISCACFIVVLY</span><span class="topo-outside">ILLVEWAQDAKAAGTADIFSTL</span><span class="topo-membrane">KLLTVVMWLGYPIVWALG</span><span class="topo-inside">VEGVAVLP</span></span>
+<span class="topo-ruler">       250       260       270       280       290 </span>
 <span class="topo-line"><span class="topo-inside">VGY</span><span class="topo-membrane">TSWAYSALDIVAKYIFAFL</span><span class="topo-outside">LLNYLTSNEGVVSGS</span><span class="topo-unknown">ILDVPSASGAPADD</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -254,6 +256,7 @@ pharaonis [Halorhodopsin (HR) from Halobacterium salinarum](/xray-mp-wiki/protei
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -269,11 +272,13 @@ pharaonis [Halorhodopsin (HR) from Halobacterium salinarum](/xray-mp-wiki/protei
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MTETLPPVTESAVALQAE</span><span class="topo-inside">VTQRELFEFVLNDPLLA</span><span class="topo-membrane">SSLYINIALAGLSILLFVF</span><span class="topo-outside">MTRGLD</span></span>
-<span class="topo-line"><span class="topo-outside">DPRAKLIAV</span><span class="topo-membrane">STILVPVVSIASYTGLAS</span><span class="topo-inside">GLTISVLEMPAGHFAEGSSVMLGGEEVDGVVTM</span></span>
-<span class="topo-line"><span class="topo-membrane">WGRYLTWALSTPMILL</span><span class="topo-outside">ALGLLAGSNATKLF</span><span class="topo-membrane">TAITFDIAMCVTGLAAAL</span><span class="topo-inside">TTSSHL</span><span class="topo-membrane">MRWFWY</span></span>
-<span class="topo-line"><span class="topo-membrane">AISCACFIVVLY</span><span class="topo-outside">ILLVEWAQDAKAAGTADIFSTL</span><span class="topo-membrane">KLLTVVMWLGYPIVWALG</span><span class="topo-inside">VEGVAVLP</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MTETLPPVTESAVALQAE</span><span class="topo-inside">VTQRELFEFVLNDPLLA</span><span class="topo-membrane">SSLYINIALAGLSILLFVF</span><span class="topo-outside">MTRGLDDPRAKLIAV</span><span class="topo-membrane">STILVPVVSIASYTGLAS</span><span class="topo-inside">GLTISVLEMPAGHFAEGSSVMLGGEEVDGVVTM</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">WGRYLTWALSTPMILL</span><span class="topo-outside">ALGLLAGSNATKLF</span><span class="topo-membrane">TAITFDIAMCVTGLAAAL</span><span class="topo-inside">TTSSHL</span><span class="topo-membrane">MRWFWYAISCACFIVVLY</span><span class="topo-outside">ILLVEWAQDAKAAGTADIFSTL</span><span class="topo-membrane">KLLTVVMWLGYPIVWALG</span><span class="topo-inside">VEGVAVLP</span></span>
+<span class="topo-ruler">       250       260       270       280       290 </span>
 <span class="topo-line"><span class="topo-inside">VGY</span><span class="topo-membrane">TSWAYSALDIVAKYIFAFL</span><span class="topo-outside">LLNYLTSNEGVVSG</span><span class="topo-unknown">SILDVPSASGAPADD</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -404,6 +409,7 @@ pharaonis [Halorhodopsin (HR) from Halobacterium salinarum](/xray-mp-wiki/protei
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -419,11 +425,13 @@ pharaonis [Halorhodopsin (HR) from Halobacterium salinarum](/xray-mp-wiki/protei
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MTETLPPVTESAVALQAE</span><span class="topo-inside">VTQRELFEFVLNDPLLAS</span><span class="topo-membrane">SLYINIALAGLSILLFVF</span><span class="topo-outside">MTRGLD</span></span>
-<span class="topo-line"><span class="topo-outside">DPRAKLIAV</span><span class="topo-membrane">STILVPVVSIASYTGLAS</span><span class="topo-inside">GLTISVLEMPAGHFAEGSSVMLGGEEVDGVVTM</span></span>
-<span class="topo-line"><span class="topo-membrane">WGRYLTWALSTPMILL</span><span class="topo-outside">ALGLLAGSNATKLF</span><span class="topo-membrane">TAITFDIAMCVTGLAAAL</span><span class="topo-inside">TTSSHL</span><span class="topo-membrane">MRWFWY</span></span>
-<span class="topo-line"><span class="topo-membrane">AISCACFIVVLY</span><span class="topo-outside">ILLVEWAQDAKAAGTADIFSTL</span><span class="topo-membrane">KLLTVVMWLGYPIVWALG</span><span class="topo-inside">VEGVAVLP</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MTETLPPVTESAVALQAE</span><span class="topo-inside">VTQRELFEFVLNDPLLAS</span><span class="topo-membrane">SLYINIALAGLSILLFVF</span><span class="topo-outside">MTRGLDDPRAKLIAV</span><span class="topo-membrane">STILVPVVSIASYTGLAS</span><span class="topo-inside">GLTISVLEMPAGHFAEGSSVMLGGEEVDGVVTM</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">WGRYLTWALSTPMILL</span><span class="topo-outside">ALGLLAGSNATKLF</span><span class="topo-membrane">TAITFDIAMCVTGLAAAL</span><span class="topo-inside">TTSSHL</span><span class="topo-membrane">MRWFWYAISCACFIVVLY</span><span class="topo-outside">ILLVEWAQDAKAAGTADIFSTL</span><span class="topo-membrane">KLLTVVMWLGYPIVWALG</span><span class="topo-inside">VEGVAVLP</span></span>
+<span class="topo-ruler">       250       260       270       280       290 </span>
 <span class="topo-line"><span class="topo-inside">VGY</span><span class="topo-membrane">TSWAYSALDIVAKYIFAFL</span><span class="topo-outside">LLNYLTSNEGVVSGS</span><span class="topo-unknown">ILDVPSASGAPADD</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -554,6 +562,7 @@ pharaonis [Halorhodopsin (HR) from Halobacterium salinarum](/xray-mp-wiki/protei
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

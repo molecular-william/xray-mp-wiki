@@ -133,14 +133,15 @@ UraA from Escherichia coli is a [URACIL](/xray-mp-wiki/reagents/ligands/uracil/)
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MTR</span><span class="topo-outside">RAIGVSERPPLLQTIPLSL</span><span class="topo-membrane">QHLFAMFGATVLVPV</span><span class="topo-inside">LFHIN</span><span class="topo-membrane">PATVLLFNGIGTLLY</span><span class="topo-outside">LFI</span></span>
-<span class="topo-line"><span class="topo-outside">CKGKIP</span><span class="topo-membrane">AYLGSSFAFI</span><span class="topo-inside">SPVLLLLPLGYEVALGG</span><span class="topo-membrane">FIMCGVLFCLVSFIVKKA</span><span class="topo-outside">GT</span><span class="topo-unknown">GWLDVL</span><span class="topo-outside">F</span></span>
-<span class="topo-line"><span class="topo-outside">PPA</span><span class="topo-membrane">AMGAIVAVIGLELAGVAA</span><span class="topo-inside">GMAGLLPAEGQTPDSKT</span><span class="topo-membrane">IIISITTLAVTVLGSVL</span><span class="topo-outside">FRGFL</span></span>
-<span class="topo-line"><span class="topo-outside">AI</span><span class="topo-membrane">IPILIGVLVGYALSFAMGIVD</span><span class="topo-inside">TTPIINAHWFALPTLYTPRFEWFAILTIL</span><span class="topo-membrane">PAALVVIA</span></span>
-<span class="topo-line"><span class="topo-membrane">EHVGHL</span><span class="topo-outside">VVTANIVKKDLLRDPGL</span><span class="topo-membrane">HRSMFANGLSTVISGFF</span><span class="topo-inside">G</span><span class="topo-membrane">STPNTTYGEN</span><span class="topo-outside">IGVMAITRV</span></span>
-<span class="topo-line"><span class="topo-outside">YSTWVIGGA</span><span class="topo-membrane">AIFAILLSCVGKLAAAIQMIP</span><span class="topo-inside">L</span><span class="topo-membrane">PVMGGVSLLLYGVIGASGI</span><span class="topo-outside">RVLIESKVDY</span></span>
-<span class="topo-line"><span class="topo-outside">NKAQNL</span><span class="topo-membrane">ILTSVILIIGVSGAKV</span><span class="topo-inside">NIGAAEL</span><span class="topo-membrane">KGMALATIVGIGLSLIFKL</span><span class="topo-outside">IS</span><span class="topo-unknown">VLRPEEVVLD</span></span>
-<span class="topo-line"><span class="topo-unknown">AEDADITDK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MTR</span><span class="topo-outside">RAIGVSERPPLLQTIPLSL</span><span class="topo-membrane">QHLFAMFGATVLVPV</span><span class="topo-inside">LFHIN</span><span class="topo-membrane">PATVLLFNGIGTLLY</span><span class="topo-outside">LFICKGKIP</span><span class="topo-membrane">AYLGSSFAFI</span><span class="topo-inside">SPVLLLLPLGYEVALGG</span><span class="topo-membrane">FIMCGVLFCLVSFIVKKA</span><span class="topo-outside">GT</span><span class="topo-unknown">GWLDVL</span><span class="topo-outside">F</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">PPA</span><span class="topo-membrane">AMGAIVAVIGLELAGVAA</span><span class="topo-inside">GMAGLLPAEGQTPDSKT</span><span class="topo-membrane">IIISITTLAVTVLGSVL</span><span class="topo-outside">FRGFLAI</span><span class="topo-membrane">IPILIGVLVGYALSFAMGIVD</span><span class="topo-inside">TTPIINAHWFALPTLYTPRFEWFAILTIL</span><span class="topo-membrane">PAALVVIA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">EHVGHL</span><span class="topo-outside">VVTANIVKKDLLRDPGL</span><span class="topo-membrane">HRSMFANGLSTVISGFF</span><span class="topo-inside">G</span><span class="topo-membrane">STPNTTYGEN</span><span class="topo-outside">IGVMAITRVYSTWVIGGA</span><span class="topo-membrane">AIFAILLSCVGKLAAAIQMIP</span><span class="topo-inside">L</span><span class="topo-membrane">PVMGGVSLLLYGVIGASGI</span><span class="topo-outside">RVLIESKVDY</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420         </span>
+<span class="topo-line"><span class="topo-outside">NKAQNL</span><span class="topo-membrane">ILTSVILIIGVSGAKV</span><span class="topo-inside">NIGAAEL</span><span class="topo-membrane">KGMALATIVGIGLSLIFKL</span><span class="topo-outside">IS</span><span class="topo-unknown">VLRPEEVVLDAEDADITDK</span></span>
+<details class="topo-details"><summary>Topology coordinates (33 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -383,6 +384,7 @@ UraA from Escherichia coli is a [URACIL](/xray-mp-wiki/reagents/ligands/uracil/)
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -398,14 +400,15 @@ UraA from Escherichia coli is a [URACIL](/xray-mp-wiki/reagents/ligands/uracil/)
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MTR</span><span class="topo-outside">RAIGVSERPPLLQTIPLSL</span><span class="topo-membrane">QHLFAMFGATVLVPV</span><span class="topo-inside">LFHIN</span><span class="topo-membrane">PATVLLFNGIGTLLY</span><span class="topo-outside">LFI</span></span>
-<span class="topo-line"><span class="topo-outside">CKGKIP</span><span class="topo-membrane">AYLGSSFAFI</span><span class="topo-inside">SPVLLLLPLGYEVALGG</span><span class="topo-membrane">FIMCGVLFCLVSFIVKKA</span><span class="topo-outside">GT</span><span class="topo-unknown">GWLDVL</span><span class="topo-outside">F</span></span>
-<span class="topo-line"><span class="topo-outside">PPA</span><span class="topo-membrane">AMGAIVAVIGLELAGVAA</span><span class="topo-inside">GMAGLLPAEGQTPDSKT</span><span class="topo-membrane">IIISITTLAVTVLGSVL</span><span class="topo-outside">FRGFL</span></span>
-<span class="topo-line"><span class="topo-outside">AI</span><span class="topo-membrane">IPILIGVLVGYALSFAMGIVD</span><span class="topo-inside">TTPIINAHWFALPTLYTPRFEWFAILTIL</span><span class="topo-membrane">PAALVVIA</span></span>
-<span class="topo-line"><span class="topo-membrane">EHVGHL</span><span class="topo-outside">VVTANIVKKDLLRDPGL</span><span class="topo-membrane">HRSMFANGLSTVISGFF</span><span class="topo-inside">G</span><span class="topo-membrane">STPNTTYGEN</span><span class="topo-outside">IGVMAITRV</span></span>
-<span class="topo-line"><span class="topo-outside">YSTWVIGGA</span><span class="topo-membrane">AIFAILLSCVGKLAAAIQMIP</span><span class="topo-inside">L</span><span class="topo-membrane">PVMGGVSLLLYGVIGASGI</span><span class="topo-outside">RVLIESKVDY</span></span>
-<span class="topo-line"><span class="topo-outside">NKAQNL</span><span class="topo-membrane">ILTSVILIIGVSGAKV</span><span class="topo-inside">NIGAAEL</span><span class="topo-membrane">KGMALATIVGIGLSLIFKL</span><span class="topo-outside">IS</span><span class="topo-unknown">VLRPEEVVLD</span></span>
-<span class="topo-line"><span class="topo-unknown">AEDADITDK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MTR</span><span class="topo-outside">RAIGVSERPPLLQTIPLSL</span><span class="topo-membrane">QHLFAMFGATVLVPV</span><span class="topo-inside">LFHIN</span><span class="topo-membrane">PATVLLFNGIGTLLY</span><span class="topo-outside">LFICKGKIP</span><span class="topo-membrane">AYLGSSFAFI</span><span class="topo-inside">SPVLLLLPLGYEVALGG</span><span class="topo-membrane">FIMCGVLFCLVSFIVKKA</span><span class="topo-outside">GT</span><span class="topo-unknown">GWLDVL</span><span class="topo-outside">F</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">PPA</span><span class="topo-membrane">AMGAIVAVIGLELAGVAA</span><span class="topo-inside">GMAGLLPAEGQTPDSKT</span><span class="topo-membrane">IIISITTLAVTVLGSVL</span><span class="topo-outside">FRGFLAI</span><span class="topo-membrane">IPILIGVLVGYALSFAMGIVD</span><span class="topo-inside">TTPIINAHWFALPTLYTPRFEWFAILTIL</span><span class="topo-membrane">PAALVVIA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">EHVGHL</span><span class="topo-outside">VVTANIVKKDLLRDPGL</span><span class="topo-membrane">HRSMFANGLSTVISGFF</span><span class="topo-inside">G</span><span class="topo-membrane">STPNTTYGEN</span><span class="topo-outside">IGVMAITRVYSTWVIGGA</span><span class="topo-membrane">AIFAILLSCVGKLAAAIQMIP</span><span class="topo-inside">L</span><span class="topo-membrane">PVMGGVSLLLYGVIGASGI</span><span class="topo-outside">RVLIESKVDY</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420         </span>
+<span class="topo-line"><span class="topo-outside">NKAQNL</span><span class="topo-membrane">ILTSVILIIGVSGAKV</span><span class="topo-inside">NIGAAEL</span><span class="topo-membrane">KGMALATIVGIGLSLIFKL</span><span class="topo-outside">IS</span><span class="topo-unknown">VLRPEEVVLDAEDADITDK</span></span>
+<details class="topo-details"><summary>Topology coordinates (33 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -648,6 +651,7 @@ UraA from Escherichia coli is a [URACIL](/xray-mp-wiki/reagents/ligands/uracil/)
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -767,14 +771,15 @@ UraA from Escherichia coli is a [URACIL](/xray-mp-wiki/reagents/ligands/uracil/)
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MTRR</span><span class="topo-outside">AIGVSERPPL</span><span class="topo-membrane">LQTIPLSLQHLFAMFGATVLV</span><span class="topo-inside">PVLFHINP</span><span class="topo-membrane">ATVLLFNGIGTLLYLFI</span></span>
-<span class="topo-line"><span class="topo-outside">CKGKIP</span><span class="topo-membrane">AYLGSSFAFISP</span><span class="topo-inside">VLLLLPLGYEVAL</span><span class="topo-membrane">GGFIMCGVLFCLVSFI</span><span class="topo-outside">VKKAGTGWLDVL</span><span class="topo-membrane">F</span></span>
-<span class="topo-line"><span class="topo-membrane">PPAAMGAIVAVIGLELAGVAA</span><span class="topo-inside">GMAGLLPAEGQTPDSKTII</span><span class="topo-membrane">ISITTLAVTVLGSVLF</span><span class="topo-outside">RGF</span><span class="topo-membrane">L</span></span>
-<span class="topo-line"><span class="topo-membrane">AIIPILIGVLVGYALS</span><span class="topo-inside">FAMGIVDTTPIINAHWFALPTLYTPRFEWFAI</span><span class="topo-membrane">LTILPAALVVIA</span></span>
-<span class="topo-line"><span class="topo-membrane">EHVGH</span><span class="topo-outside">LVVTANIVKKDLLRDPGLHRS</span><span class="topo-membrane">MFANGLSTVISGFFG</span><span class="topo-inside">S</span><span class="topo-membrane">TPNTTYGENIGVM</span><span class="topo-outside">AITRV</span></span>
-<span class="topo-line"><span class="topo-outside">YSTW</span><span class="topo-membrane">VIGGAAIFAILLSCV</span><span class="topo-unknown">GKLAAAIQM</span><span class="topo-inside">IPLP</span><span class="topo-membrane">VMGGVSLLLYGVIGASGIRVL</span><span class="topo-outside">IESKVDY</span></span>
-<span class="topo-line"><span class="topo-outside">NKA</span><span class="topo-membrane">QNLILTSVILIIGVSGAKV</span><span class="topo-inside">NIGAAEL</span><span class="topo-membrane">KGMALATIVGIGLSLIFKLI</span><span class="topo-outside">SVL</span><span class="topo-unknown">RPEEVVLD</span></span>
-<span class="topo-line"><span class="topo-unknown">EVDADITDKHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MTRR</span><span class="topo-outside">AIGVSERPPL</span><span class="topo-membrane">LQTIPLSLQHLFAMFGATVLV</span><span class="topo-inside">PVLFHINP</span><span class="topo-membrane">ATVLLFNGIGTLLYLFI</span><span class="topo-outside">CKGKIP</span><span class="topo-membrane">AYLGSSFAFISP</span><span class="topo-inside">VLLLLPLGYEVAL</span><span class="topo-membrane">GGFIMCGVLFCLVSFI</span><span class="topo-outside">VKKAGTGWLDVL</span><span class="topo-membrane">F</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">PPAAMGAIVAVIGLELAGVAA</span><span class="topo-inside">GMAGLLPAEGQTPDSKTII</span><span class="topo-membrane">ISITTLAVTVLGSVLF</span><span class="topo-outside">RGF</span><span class="topo-membrane">LAIIPILIGVLVGYALS</span><span class="topo-inside">FAMGIVDTTPIINAHWFALPTLYTPRFEWFAI</span><span class="topo-membrane">LTILPAALVVIA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">EHVGH</span><span class="topo-outside">LVVTANIVKKDLLRDPGLHRS</span><span class="topo-membrane">MFANGLSTVISGFFG</span><span class="topo-inside">S</span><span class="topo-membrane">TPNTTYGENIGVM</span><span class="topo-outside">AITRVYSTW</span><span class="topo-membrane">VIGGAAIFAILLSCV</span><span class="topo-unknown">GKLAAAIQM</span><span class="topo-inside">IPLP</span><span class="topo-membrane">VMGGVSLLLYGVIGASGIRVL</span><span class="topo-outside">IESKVDY</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430     </span>
+<span class="topo-line"><span class="topo-outside">NKA</span><span class="topo-membrane">QNLILTSVILIIGVSGAKV</span><span class="topo-inside">NIGAAEL</span><span class="topo-membrane">KGMALATIVGIGLSLIFKLI</span><span class="topo-outside">SVL</span><span class="topo-unknown">RPEEVVLDEVDADITDKHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (30 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -996,6 +1001,7 @@ UraA from Escherichia coli is a [URACIL](/xray-mp-wiki/reagents/ligands/uracil/)
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1043,14 +1049,15 @@ UraA from Escherichia coli is a [URACIL](/xray-mp-wiki/reagents/ligands/uracil/)
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MTR</span><span class="topo-outside">RAIGVSERPPLLQTIPLSL</span><span class="topo-membrane">QHLFAMFGATVLVPV</span><span class="topo-inside">LFHIN</span><span class="topo-membrane">PATVLLFNGIGTLLY</span><span class="topo-outside">LFI</span></span>
-<span class="topo-line"><span class="topo-outside">CKGKIP</span><span class="topo-membrane">AYLGSSFAFI</span><span class="topo-inside">SPVLLLLPLGYEVALGG</span><span class="topo-membrane">FIMCGVLFCLVSFIVKKA</span><span class="topo-outside">GT</span><span class="topo-unknown">GWLDVL</span><span class="topo-outside">F</span></span>
-<span class="topo-line"><span class="topo-outside">PPA</span><span class="topo-membrane">AMGAIVAVIGLELAGVAA</span><span class="topo-inside">GMAGLLPAEGQTPDSKT</span><span class="topo-membrane">IIISITTLAVTVLGSVL</span><span class="topo-outside">FRGFL</span></span>
-<span class="topo-line"><span class="topo-outside">AI</span><span class="topo-membrane">IPILIGVLVGYALSFAMGIVD</span><span class="topo-inside">TTPIINAHWFALPTLYTPRFEWFAILTIL</span><span class="topo-membrane">PAALVVIA</span></span>
-<span class="topo-line"><span class="topo-membrane">EHVGHL</span><span class="topo-outside">VVTANIVKKDLLRDPGL</span><span class="topo-membrane">HRSMFANGLSTVISGFF</span><span class="topo-inside">G</span><span class="topo-membrane">STPNTTYGEN</span><span class="topo-outside">IGVMAITRV</span></span>
-<span class="topo-line"><span class="topo-outside">YSTWVIGGA</span><span class="topo-membrane">AIFAILLSCVGKLAAAIQMIP</span><span class="topo-inside">L</span><span class="topo-membrane">PVMGGVSLLLYGVIGASGI</span><span class="topo-outside">RVLIESKVDY</span></span>
-<span class="topo-line"><span class="topo-outside">NKAQNL</span><span class="topo-membrane">ILTSVILIIGVSGAKV</span><span class="topo-inside">NIGAAEL</span><span class="topo-membrane">KGMALATIVGIGLSLIFKL</span><span class="topo-outside">IS</span><span class="topo-unknown">VLRPEEVVLD</span></span>
-<span class="topo-line"><span class="topo-unknown">AEDADITDK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MTR</span><span class="topo-outside">RAIGVSERPPLLQTIPLSL</span><span class="topo-membrane">QHLFAMFGATVLVPV</span><span class="topo-inside">LFHIN</span><span class="topo-membrane">PATVLLFNGIGTLLY</span><span class="topo-outside">LFICKGKIP</span><span class="topo-membrane">AYLGSSFAFI</span><span class="topo-inside">SPVLLLLPLGYEVALGG</span><span class="topo-membrane">FIMCGVLFCLVSFIVKKA</span><span class="topo-outside">GT</span><span class="topo-unknown">GWLDVL</span><span class="topo-outside">F</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">PPA</span><span class="topo-membrane">AMGAIVAVIGLELAGVAA</span><span class="topo-inside">GMAGLLPAEGQTPDSKT</span><span class="topo-membrane">IIISITTLAVTVLGSVL</span><span class="topo-outside">FRGFLAI</span><span class="topo-membrane">IPILIGVLVGYALSFAMGIVD</span><span class="topo-inside">TTPIINAHWFALPTLYTPRFEWFAILTIL</span><span class="topo-membrane">PAALVVIA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">EHVGHL</span><span class="topo-outside">VVTANIVKKDLLRDPGL</span><span class="topo-membrane">HRSMFANGLSTVISGFF</span><span class="topo-inside">G</span><span class="topo-membrane">STPNTTYGEN</span><span class="topo-outside">IGVMAITRVYSTWVIGGA</span><span class="topo-membrane">AIFAILLSCVGKLAAAIQMIP</span><span class="topo-inside">L</span><span class="topo-membrane">PVMGGVSLLLYGVIGASGI</span><span class="topo-outside">RVLIESKVDY</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420         </span>
+<span class="topo-line"><span class="topo-outside">NKAQNL</span><span class="topo-membrane">ILTSVILIIGVSGAKV</span><span class="topo-inside">NIGAAEL</span><span class="topo-membrane">KGMALATIVGIGLSLIFKL</span><span class="topo-outside">IS</span><span class="topo-unknown">VLRPEEVVLDAEDADITDK</span></span>
+<details class="topo-details"><summary>Topology coordinates (33 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1293,6 +1300,7 @@ UraA from Escherichia coli is a [URACIL](/xray-mp-wiki/reagents/ligands/uracil/)
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1308,14 +1316,15 @@ UraA from Escherichia coli is a [URACIL](/xray-mp-wiki/reagents/ligands/uracil/)
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MTR</span><span class="topo-outside">RAIGVSERPPLLQTIPLSL</span><span class="topo-membrane">QHLFAMFGATVLVPV</span><span class="topo-inside">LFHIN</span><span class="topo-membrane">PATVLLFNGIGTLLY</span><span class="topo-outside">LFI</span></span>
-<span class="topo-line"><span class="topo-outside">CKGKIP</span><span class="topo-membrane">AYLGSSFAFI</span><span class="topo-inside">SPVLLLLPLGYEVALGG</span><span class="topo-membrane">FIMCGVLFCLVSFIVKKA</span><span class="topo-outside">GT</span><span class="topo-unknown">GWLDVL</span><span class="topo-outside">F</span></span>
-<span class="topo-line"><span class="topo-outside">PPA</span><span class="topo-membrane">AMGAIVAVIGLELAGVAA</span><span class="topo-inside">GMAGLLPAEGQTPDSKT</span><span class="topo-membrane">IIISITTLAVTVLGSVL</span><span class="topo-outside">FRGFL</span></span>
-<span class="topo-line"><span class="topo-outside">AI</span><span class="topo-membrane">IPILIGVLVGYALSFAMGIVD</span><span class="topo-inside">TTPIINAHWFALPTLYTPRFEWFAILTIL</span><span class="topo-membrane">PAALVVIA</span></span>
-<span class="topo-line"><span class="topo-membrane">EHVGHL</span><span class="topo-outside">VVTANIVKKDLLRDPGL</span><span class="topo-membrane">HRSMFANGLSTVISGFF</span><span class="topo-inside">G</span><span class="topo-membrane">STPNTTYGEN</span><span class="topo-outside">IGVMAITRV</span></span>
-<span class="topo-line"><span class="topo-outside">YSTWVIGGA</span><span class="topo-membrane">AIFAILLSCVGKLAAAIQMIP</span><span class="topo-inside">L</span><span class="topo-membrane">PVMGGVSLLLYGVIGASGI</span><span class="topo-outside">RVLIESKVDY</span></span>
-<span class="topo-line"><span class="topo-outside">NKAQNL</span><span class="topo-membrane">ILTSVILIIGVSGAKV</span><span class="topo-inside">NIGAAEL</span><span class="topo-membrane">KGMALATIVGIGLSLIFKL</span><span class="topo-outside">IS</span><span class="topo-unknown">VLRPEEVVLD</span></span>
-<span class="topo-line"><span class="topo-unknown">AEDADITDK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MTR</span><span class="topo-outside">RAIGVSERPPLLQTIPLSL</span><span class="topo-membrane">QHLFAMFGATVLVPV</span><span class="topo-inside">LFHIN</span><span class="topo-membrane">PATVLLFNGIGTLLY</span><span class="topo-outside">LFICKGKIP</span><span class="topo-membrane">AYLGSSFAFI</span><span class="topo-inside">SPVLLLLPLGYEVALGG</span><span class="topo-membrane">FIMCGVLFCLVSFIVKKA</span><span class="topo-outside">GT</span><span class="topo-unknown">GWLDVL</span><span class="topo-outside">F</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">PPA</span><span class="topo-membrane">AMGAIVAVIGLELAGVAA</span><span class="topo-inside">GMAGLLPAEGQTPDSKT</span><span class="topo-membrane">IIISITTLAVTVLGSVL</span><span class="topo-outside">FRGFLAI</span><span class="topo-membrane">IPILIGVLVGYALSFAMGIVD</span><span class="topo-inside">TTPIINAHWFALPTLYTPRFEWFAILTIL</span><span class="topo-membrane">PAALVVIA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">EHVGHL</span><span class="topo-outside">VVTANIVKKDLLRDPGL</span><span class="topo-membrane">HRSMFANGLSTVISGFF</span><span class="topo-inside">G</span><span class="topo-membrane">STPNTTYGEN</span><span class="topo-outside">IGVMAITRVYSTWVIGGA</span><span class="topo-membrane">AIFAILLSCVGKLAAAIQMIP</span><span class="topo-inside">L</span><span class="topo-membrane">PVMGGVSLLLYGVIGASGI</span><span class="topo-outside">RVLIESKVDY</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420         </span>
+<span class="topo-line"><span class="topo-outside">NKAQNL</span><span class="topo-membrane">ILTSVILIIGVSGAKV</span><span class="topo-inside">NIGAAEL</span><span class="topo-membrane">KGMALATIVGIGLSLIFKL</span><span class="topo-outside">IS</span><span class="topo-unknown">VLRPEEVVLDAEDADITDK</span></span>
+<details class="topo-details"><summary>Topology coordinates (33 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1558,6 +1567,7 @@ UraA from Escherichia coli is a [URACIL](/xray-mp-wiki/reagents/ligands/uracil/)
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1642,14 +1652,15 @@ UraA from Escherichia coli is a [URACIL](/xray-mp-wiki/reagents/ligands/uracil/)
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MST</span><span class="topo-inside">RRAIGVSERPPL</span><span class="topo-membrane">LQTIPLSLQHLFAMFGATVLV</span><span class="topo-outside">PVLFHINPATV</span><span class="topo-membrane">LLFNGIGTLLYLF</span></span>
-<span class="topo-line"><span class="topo-membrane">IC</span><span class="topo-inside">KGKIP</span><span class="topo-membrane">AYLGSSFAFISP</span><span class="topo-outside">VLLLLPLGYEVALGG</span><span class="topo-membrane">FIMCGVLFCLVSFI</span><span class="topo-inside">VKKAGTGWLDV</span><span class="topo-membrane">L</span></span>
-<span class="topo-line"><span class="topo-membrane">FPPAAMGAIVAVIGLELA</span><span class="topo-outside">GVAAGMAGLLPAEGQTPDSKTIIISIT</span><span class="topo-membrane">TLAVTVLGSVLFRG</span><span class="topo-unknown">F</span></span>
-<span class="topo-line"><span class="topo-membrane">LAIIPILIGVLV</span><span class="topo-outside">GYALSFAMGIVDTTPIINAHWFALPTLYTPRFEWFAI</span><span class="topo-membrane">LTILPAALVVI</span></span>
-<span class="topo-line"><span class="topo-membrane">AEHVGH</span><span class="topo-inside">LVVTANIVKKDLLRDPGLH</span><span class="topo-membrane">RSMFANGLSTVISG</span><span class="topo-outside">FFGS</span><span class="topo-membrane">TPNTTYGENIGV</span><span class="topo-inside">MAITR</span></span>
-<span class="topo-line"><span class="topo-inside">VYST</span><span class="topo-membrane">WVIGGAAIFAILLS</span><span class="topo-outside">CVPKLAAAIQMIPLPVMGG</span><span class="topo-membrane">VSLLLYGVIGASGIRVLI</span><span class="topo-inside">ESKVD</span></span>
-<span class="topo-line"><span class="topo-inside">YNKA</span><span class="topo-membrane">QNLILTSVILIIGVS</span><span class="topo-outside">GAKVNIGAAELKG</span><span class="topo-membrane">MALATIVGIGLSLIFKLI</span><span class="topo-inside">SVL</span><span class="topo-unknown">RPEEVVL</span></span>
-<span class="topo-line"><span class="topo-unknown">DAEDADITDKALEVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MST</span><span class="topo-inside">RRAIGVSERPPL</span><span class="topo-membrane">LQTIPLSLQHLFAMFGATVLV</span><span class="topo-outside">PVLFHINPATV</span><span class="topo-membrane">LLFNGIGTLLYLFIC</span><span class="topo-inside">KGKIP</span><span class="topo-membrane">AYLGSSFAFISP</span><span class="topo-outside">VLLLLPLGYEVALGG</span><span class="topo-membrane">FIMCGVLFCLVSFI</span><span class="topo-inside">VKKAGTGWLDV</span><span class="topo-membrane">L</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">FPPAAMGAIVAVIGLELA</span><span class="topo-outside">GVAAGMAGLLPAEGQTPDSKTIIISIT</span><span class="topo-membrane">TLAVTVLGSVLFRG</span><span class="topo-unknown">F</span><span class="topo-membrane">LAIIPILIGVLV</span><span class="topo-outside">GYALSFAMGIVDTTPIINAHWFALPTLYTPRFEWFAI</span><span class="topo-membrane">LTILPAALVVI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">AEHVGH</span><span class="topo-inside">LVVTANIVKKDLLRDPGLH</span><span class="topo-membrane">RSMFANGLSTVISG</span><span class="topo-outside">FFGS</span><span class="topo-membrane">TPNTTYGENIGV</span><span class="topo-inside">MAITRVYST</span><span class="topo-membrane">WVIGGAAIFAILLS</span><span class="topo-outside">CVPKLAAAIQMIPLPVMGG</span><span class="topo-membrane">VSLLLYGVIGASGIRVLI</span><span class="topo-inside">ESKVD</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       </span>
+<span class="topo-line"><span class="topo-inside">YNKA</span><span class="topo-membrane">QNLILTSVILIIGVS</span><span class="topo-outside">GAKVNIGAAELKG</span><span class="topo-membrane">MALATIVGIGLSLIFKLI</span><span class="topo-inside">SVL</span><span class="topo-unknown">RPEEVVLDAEDADITDKALEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (30 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1871,6 +1882,7 @@ UraA from Escherichia coli is a [URACIL](/xray-mp-wiki/reagents/ligands/uracil/)
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1886,9 +1898,11 @@ UraA from Escherichia coli is a [URACIL](/xray-mp-wiki/reagents/ligands/uracil/)
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GS</span><span class="topo-inside">SSQVQLVESGGGSVQAGGSLRLSCAASGNIAYIHYLGWFRQAPGKEREGVAALSTTLG</span></span>
-<span class="topo-line"><span class="topo-inside">NTYYADSVKGRFTVSLDNAKNTVYLQMNSLKPEDTALYYCAAAYFGYSSPLAHERYMYWG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GS</span><span class="topo-inside">SSQVQLVESGGGSVQAGGSLRLSCAASGNIAYIHYLGWFRQAPGKEREGVAALSTTLGNTYYADSVKGRFTVSLDNAKNTVYLQMNSLKPEDTALYYCAAAYFGYSSPLAHERYMYWG</span></span>
+<span class="topo-ruler">       130       140       150    </span>
 <span class="topo-line"><span class="topo-inside">QGTQVTVSA</span><span class="topo-unknown">GRAGEQKLISEEDLNSAVDHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1921,6 +1935,7 @@ UraA from Escherichia coli is a [URACIL](/xray-mp-wiki/reagents/ligands/uracil/)
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1936,14 +1951,15 @@ UraA from Escherichia coli is a [URACIL](/xray-mp-wiki/reagents/ligands/uracil/)
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MST</span><span class="topo-inside">RRAIGVSERPPL</span><span class="topo-membrane">LQTIPLSLQHLFAMFGATVLV</span><span class="topo-outside">PVLFHINPATV</span><span class="topo-membrane">LLFNGIGTLLYLF</span></span>
-<span class="topo-line"><span class="topo-membrane">IC</span><span class="topo-inside">KGKIP</span><span class="topo-membrane">AYLGSSFAFISP</span><span class="topo-outside">VLLLLPLGYEVALGG</span><span class="topo-membrane">FIMCGVLFCLVSFI</span><span class="topo-inside">VKKAGTGWLDV</span><span class="topo-membrane">L</span></span>
-<span class="topo-line"><span class="topo-membrane">FPPAAMGAIVAVIGLELA</span><span class="topo-outside">GVAAGMAGLLPAEGQTPDSKTIIISIT</span><span class="topo-membrane">TLAVTVLGSVLFRG</span><span class="topo-unknown">F</span></span>
-<span class="topo-line"><span class="topo-membrane">LAIIPILIGVLV</span><span class="topo-outside">GYALSFAMGIVDTTPIINAHWFALPTLYTPRFEWFAI</span><span class="topo-membrane">LTILPAALVVI</span></span>
-<span class="topo-line"><span class="topo-membrane">AEHVGH</span><span class="topo-inside">LVVTANIVKKDLLRDPGLH</span><span class="topo-membrane">RSMFANGLSTVISG</span><span class="topo-outside">FFGS</span><span class="topo-membrane">TPNTTYGENIGV</span><span class="topo-inside">MAITR</span></span>
-<span class="topo-line"><span class="topo-inside">VYST</span><span class="topo-membrane">WVIGGAAIFAILLS</span><span class="topo-outside">CVPKLAAAIQMIPLPVMGG</span><span class="topo-membrane">VSLLLYGVIGASGIRVLI</span><span class="topo-inside">ESKVD</span></span>
-<span class="topo-line"><span class="topo-inside">YNKA</span><span class="topo-membrane">QNLILTSVILIIGVS</span><span class="topo-outside">GAKVNIGAAELKG</span><span class="topo-membrane">MALATIVGIGLSLIFKLI</span><span class="topo-inside">SVL</span><span class="topo-unknown">RPEEVVL</span></span>
-<span class="topo-line"><span class="topo-unknown">DAEDADITDKALEVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MST</span><span class="topo-inside">RRAIGVSERPPL</span><span class="topo-membrane">LQTIPLSLQHLFAMFGATVLV</span><span class="topo-outside">PVLFHINPATV</span><span class="topo-membrane">LLFNGIGTLLYLFIC</span><span class="topo-inside">KGKIP</span><span class="topo-membrane">AYLGSSFAFISP</span><span class="topo-outside">VLLLLPLGYEVALGG</span><span class="topo-membrane">FIMCGVLFCLVSFI</span><span class="topo-inside">VKKAGTGWLDV</span><span class="topo-membrane">L</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">FPPAAMGAIVAVIGLELA</span><span class="topo-outside">GVAAGMAGLLPAEGQTPDSKTIIISIT</span><span class="topo-membrane">TLAVTVLGSVLFRG</span><span class="topo-unknown">F</span><span class="topo-membrane">LAIIPILIGVLV</span><span class="topo-outside">GYALSFAMGIVDTTPIINAHWFALPTLYTPRFEWFAI</span><span class="topo-membrane">LTILPAALVVI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">AEHVGH</span><span class="topo-inside">LVVTANIVKKDLLRDPGLH</span><span class="topo-membrane">RSMFANGLSTVISG</span><span class="topo-outside">FFGS</span><span class="topo-membrane">TPNTTYGENIGV</span><span class="topo-inside">MAITRVYST</span><span class="topo-membrane">WVIGGAAIFAILLS</span><span class="topo-outside">CVPKLAAAIQMIPLPVMGG</span><span class="topo-membrane">VSLLLYGVIGASGIRVLI</span><span class="topo-inside">ESKVD</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       </span>
+<span class="topo-line"><span class="topo-inside">YNKA</span><span class="topo-membrane">QNLILTSVILIIGVS</span><span class="topo-outside">GAKVNIGAAELKG</span><span class="topo-membrane">MALATIVGIGLSLIFKLI</span><span class="topo-inside">SVL</span><span class="topo-unknown">RPEEVVLDAEDADITDKALEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (30 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2165,6 +2181,7 @@ UraA from Escherichia coli is a [URACIL](/xray-mp-wiki/reagents/ligands/uracil/)
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2180,9 +2197,11 @@ UraA from Escherichia coli is a [URACIL](/xray-mp-wiki/reagents/ligands/uracil/)
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GS</span><span class="topo-inside">SSQVQLVESGGGSVQAGGSLRLSCAASGNIAYIHYLGWFRQAPGKEREGVAALSTTLG</span></span>
-<span class="topo-line"><span class="topo-inside">NTYYADSVKGRFTVSLDNAKNTVYLQMNSLKPEDTALYYCAAAYFGYSSPLAHERYMYWG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GS</span><span class="topo-inside">SSQVQLVESGGGSVQAGGSLRLSCAASGNIAYIHYLGWFRQAPGKEREGVAALSTTLGNTYYADSVKGRFTVSLDNAKNTVYLQMNSLKPEDTALYYCAAAYFGYSSPLAHERYMYWG</span></span>
+<span class="topo-ruler">       130       140       150    </span>
 <span class="topo-line"><span class="topo-inside">QGTQVTVSA</span><span class="topo-unknown">GRAGEQKLISEEDLNSAVDHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2215,6 +2234,7 @@ UraA from Escherichia coli is a [URACIL](/xray-mp-wiki/reagents/ligands/uracil/)
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

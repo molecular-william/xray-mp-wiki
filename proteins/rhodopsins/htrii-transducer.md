@@ -129,10 +129,11 @@ unimpaired complex with SRII.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MVGL</span><span class="topo-membrane">TTLFWLGAIGMLVGTLAFA</span><span class="topo-inside">WAGRDAGSGERRYYV</span><span class="topo-membrane">TLVGISGIAAVAYVVMAL</span><span class="topo-outside">GVGW</span></span>
-<span class="topo-line"><span class="topo-outside">VPVAERTVF</span><span class="topo-membrane">APRYIDWILTTPLIVY</span><span class="topo-inside">FLGLLAGLDSREFG</span><span class="topo-membrane">IVITLNTVVMLAGFAGA</span><span class="topo-outside">MVPG</span></span>
-<span class="topo-line"><span class="topo-outside">IER</span><span class="topo-membrane">YALFGMGAVAFLGLVYY</span><span class="topo-inside">LVGPMTESASQRSSGIKSLYVRLRN</span><span class="topo-membrane">LTVILWAIYPFIWLL</span></span>
-<span class="topo-line"><span class="topo-membrane">G</span><span class="topo-outside">PPGVALLTPT</span><span class="topo-membrane">VDVALIVYLDLVTKVGFGF</span><span class="topo-inside">IALDAAATLRAEHGE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MVGL</span><span class="topo-membrane">TTLFWLGAIGMLVGTLAFA</span><span class="topo-inside">WAGRDAGSGERRYYV</span><span class="topo-membrane">TLVGISGIAAVAYVVMAL</span><span class="topo-outside">GVGWVPVAERTVF</span><span class="topo-membrane">APRYIDWILTTPLIVY</span><span class="topo-inside">FLGLLAGLDSREFG</span><span class="topo-membrane">IVITLNTVVMLAGFAGA</span><span class="topo-outside">MVPG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220     </span>
+<span class="topo-line"><span class="topo-outside">IER</span><span class="topo-membrane">YALFGMGAVAFLGLVYY</span><span class="topo-inside">LVGPMTESASQRSSGIKSLYVRLRN</span><span class="topo-membrane">LTVILWAIYPFIWLLG</span><span class="topo-outside">PPGVALLTPT</span><span class="topo-membrane">VDVALIVYLDLVTKVGFGF</span><span class="topo-inside">IALDAAATLRAEHGE</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -249,6 +250,7 @@ unimpaired complex with SRII.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -264,7 +266,9 @@ unimpaired complex with SRII.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40        50        60</span>
 <span class="topo-line"><span class="topo-inside">G</span><span class="topo-membrane">AVFIFVGALTVLFGAIA</span><span class="topo-outside">YGEVTAAAATGDAAAVQEAAVS</span><span class="topo-membrane">AILGLIILLGINLGLVAA</span><span class="topo-inside">TL</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -311,6 +315,7 @@ unimpaired complex with SRII.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -326,10 +331,11 @@ unimpaired complex with SRII.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MVGL</span><span class="topo-membrane">TTLFWLGAIGMLVGTLAFA</span><span class="topo-inside">WAGRDAGSGERRYYV</span><span class="topo-membrane">TLVGISGIAAVAYVVMAL</span><span class="topo-outside">GVGW</span></span>
-<span class="topo-line"><span class="topo-outside">VPVAERTVF</span><span class="topo-membrane">APRYIDWILTTPLIVY</span><span class="topo-inside">FLGLLAGLDSREFG</span><span class="topo-membrane">IVITLNTVVMLAGFAGA</span><span class="topo-outside">MVPG</span></span>
-<span class="topo-line"><span class="topo-outside">IER</span><span class="topo-membrane">YALFGMGAVAFLGLVYY</span><span class="topo-inside">LVGPMTESASQRSSGIKSLYVRLRN</span><span class="topo-membrane">LTVILWAIYPFIWLL</span></span>
-<span class="topo-line"><span class="topo-membrane">G</span><span class="topo-outside">PPGVALLTPT</span><span class="topo-membrane">VDVALIVYLDLVTKVGFGF</span><span class="topo-inside">IALDAAATLRAEHGE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MVGL</span><span class="topo-membrane">TTLFWLGAIGMLVGTLAFA</span><span class="topo-inside">WAGRDAGSGERRYYV</span><span class="topo-membrane">TLVGISGIAAVAYVVMAL</span><span class="topo-outside">GVGWVPVAERTVF</span><span class="topo-membrane">APRYIDWILTTPLIVY</span><span class="topo-inside">FLGLLAGLDSREFG</span><span class="topo-membrane">IVITLNTVVMLAGFAGA</span><span class="topo-outside">MVPG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220     </span>
+<span class="topo-line"><span class="topo-outside">IER</span><span class="topo-membrane">YALFGMGAVAFLGLVYY</span><span class="topo-inside">LVGPMTESASQRSSGIKSLYVRLRN</span><span class="topo-membrane">LTVILWAIYPFIWLLG</span><span class="topo-outside">PPGVALLTPT</span><span class="topo-membrane">VDVALIVYLDLVTKVGFGF</span><span class="topo-inside">IALDAAATLRAEHGE</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -446,6 +452,7 @@ unimpaired complex with SRII.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -461,7 +468,9 @@ unimpaired complex with SRII.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40        50        60</span>
 <span class="topo-line"><span class="topo-inside">G</span><span class="topo-membrane">AVFIFVGALTVLFGAIA</span><span class="topo-outside">YGEVTAAAATGDAAAVQEAAVS</span><span class="topo-membrane">AILGLIILLGINLGLVAA</span><span class="topo-inside">TL</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -508,6 +517,7 @@ unimpaired complex with SRII.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

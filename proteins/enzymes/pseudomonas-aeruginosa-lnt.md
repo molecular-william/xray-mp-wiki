@@ -135,15 +135,17 @@ Pseudomonas aeruginosa apolipoprotein N-acyltransferase (LntPae) is a 57 kDa int
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGSSHHHHH</span><span class="topo-outside">HSSGLVPRGSHMRWISRPGW</span><span class="topo-membrane">PGHLLALAAGALTPLAL</span><span class="topo-inside">APF</span><span class="topo-membrane">DYWPLAILSIA</span></span>
-<span class="topo-line"><span class="topo-membrane">LLYLGLR</span><span class="topo-outside">GLPG</span><span class="topo-membrane">KSALWRGWWYGFGAFGAGTS</span><span class="topo-inside">WIYVSIHDYGAASVPLAS</span><span class="topo-membrane">LLMLGFTAGVA</span></span>
-<span class="topo-line"><span class="topo-membrane">FFFALPAWLWARCLR</span><span class="topo-outside">RDNAP</span><span class="topo-membrane">LGDALAFAALWLALELFRSWFL</span><span class="topo-inside">TGFPWLYAGYSQLQGPLA</span></span>
-<span class="topo-line"><span class="topo-inside">GLVPV</span><span class="topo-membrane">GGVWLSSFVIALSAALLVNLP</span><span class="topo-outside">RLFPHGA</span><span class="topo-membrane">SLLLGLVLLLGPWAAGLYL</span><span class="topo-inside">KGHAWTHS</span></span>
-<span class="topo-line"><span class="topo-inside">AGEPLRVVAIQGNIAQELKWDPNQVRAQLDLYRDLSLPQQDVDLIVWPETAVPILQDMAS</span></span>
-<span class="topo-line"><span class="topo-inside">GYLGAMGQVADEKNAALITGVPVRERLADGKSRYFNGITVVGEGAGTYLKQKLVPFGEYV</span></span>
-<span class="topo-line"><span class="topo-inside">PLQDLLRGLIAFFDLPMSDFARGPADQPLLKAKGYQIAPYICYEVVYPEFAAALAAQSQV</span></span>
-<span class="topo-line"><span class="topo-inside">LLTVSNDTWFGTSIGPLQHLQMAQMRALESGRWMIRATNNGVTGLIDPYGRIVRQIPQFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGSSHHHHH</span><span class="topo-outside">HSSGLVPRGSHMRWISRPGW</span><span class="topo-membrane">PGHLLALAAGALTPLAL</span><span class="topo-inside">APF</span><span class="topo-membrane">DYWPLAILSIALLYLGLR</span><span class="topo-outside">GLPG</span><span class="topo-membrane">KSALWRGWWYGFGAFGAGTS</span><span class="topo-inside">WIYVSIHDYGAASVPLAS</span><span class="topo-membrane">LLMLGFTAGVA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">FFFALPAWLWARCLR</span><span class="topo-outside">RDNAP</span><span class="topo-membrane">LGDALAFAALWLALELFRSWFL</span><span class="topo-inside">TGFPWLYAGYSQLQGPLAGLVPV</span><span class="topo-membrane">GGVWLSSFVIALSAALLVNLP</span><span class="topo-outside">RLFPHGA</span><span class="topo-membrane">SLLLGLVLLLGPWAAGLYL</span><span class="topo-inside">KGHAWTHS</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">AGEPLRVVAIQGNIAQELKWDPNQVRAQLDLYRDLSLPQQDVDLIVWPETAVPILQDMASGYLGAMGQVADEKNAALITGVPVRERLADGKSRYFNGITVVGEGAGTYLKQKLVPFGEYV</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">PLQDLLRGLIAFFDLPMSDFARGPADQPLLKAKGYQIAPYICYEVVYPEFAAALAAQSQVLLTVSNDTWFGTSIGPLQHLQMAQMRALESGRWMIRATNNGVTGLIDPYGRIVRQIPQFQ</span></span>
+<span class="topo-ruler">       490       500       510       520       530 </span>
 <span class="topo-line"><span class="topo-inside">QGILRGEVIPMQGLTPYLQYRV</span><span class="topo-membrane">WPLAGLAGVLLLWALL</span><span class="topo-outside">GRQLRPQERRL</span><span class="topo-unknown">FG</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -288,6 +290,7 @@ Pseudomonas aeruginosa apolipoprotein N-acyltransferase (LntPae) is a 57 kDa int
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

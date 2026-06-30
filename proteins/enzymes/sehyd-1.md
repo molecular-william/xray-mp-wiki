@@ -84,12 +84,13 @@ SeHyd-1 is an O2-tolerant membrane-bound hydrogenase from the prevalent human pa
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">LEN</span><span class="topo-outside">KPRIPVVWIHGLECTCCTESFIRSAHPLAKDVILSLISLDYDDTLMAAAGTQAEEVF</span></span>
-<span class="topo-line"><span class="topo-outside">EDIITQYNGKYILAVEGNPPLGEQGMFCISSGRPFIEKLKRAAAGASAIIAWGTCASWGC</span></span>
-<span class="topo-line"><span class="topo-outside">VQAARPNPTQATPIDKVITDKPIIKVPGCPPIPDVMSAIITYMVTFDRLPDVDRMGRPLM</span></span>
-<span class="topo-line"><span class="topo-outside">FYGQRIHDKCYRRAHFDAGEFVQSWDDDAARKGYCLYKMGCKGPTTYNACSSTRWNDGVS</span></span>
-<span class="topo-line"><span class="topo-outside">FCIQSGHGCLGCAENGFWDRGSFYSRVVDIPQMGTHST</span><span class="topo-membrane">ADTVGLTALGVVAAAVG</span><span class="topo-inside">VHAVA</span></span>
-<span class="topo-line"><span class="topo-inside">SAVDQRR</span><span class="topo-unknown">RHNQQPTETEHQPGNEDKQARSHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">LEN</span><span class="topo-outside">KPRIPVVWIHGLECTCCTESFIRSAHPLAKDVILSLISLDYDDTLMAAAGTQAEEVFEDIITQYNGKYILAVEGNPPLGEQGMFCISSGRPFIEKLKRAAAGASAIIAWGTCASWGC</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">VQAARPNPTQATPIDKVITDKPIIKVPGCPPIPDVMSAIITYMVTFDRLPDVDRMGRPLMFYGQRIHDKCYRRAHFDAGEFVQSWDDDAARKGYCLYKMGCKGPTTYNACSSTRWNDGVS</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330     </span>
+<span class="topo-line"><span class="topo-outside">FCIQSGHGCLGCAENGFWDRGSFYSRVVDIPQMGTHST</span><span class="topo-membrane">ADTVGLTALGVVAAAVG</span><span class="topo-inside">VHAVASAVDQRR</span><span class="topo-unknown">RHNQQPTETEHQPGNEDKQARSHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -136,6 +137,7 @@ SeHyd-1 is an O2-tolerant membrane-bound hydrogenase from the prevalent human pa
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -151,16 +153,17 @@ SeHyd-1 is an O2-tolerant membrane-bound hydrogenase from the prevalent human pa
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">STQYETQGYTINNAGRRLVVDPITRIEGHMRCEVNINDQNVITNAVSCGTMFRGLEIIL</span></span>
-<span class="topo-line"><span class="topo-outside">QGRDPRDAWAFVERICGVCTGVHALASVYAIEDAIGIKVPDNANIIRNIMLATLWCHDHL</span></span>
-<span class="topo-line"><span class="topo-outside">VHFYQLAGMDWIDVLDALKADPRKTSELAQSLSSWPKSSPGYFFDVQNRLKKFVEGGQLG</span></span>
-<span class="topo-line"><span class="topo-outside">IFRNGYWGHPQYKLPPEANLMGFAHYLEALDFQREIVKIHAVFGGKNPHPNWIVGGMPCA</span></span>
-<span class="topo-line"><span class="topo-outside">INIDESGAVGAVNMERLNLVQSIITRTADFINNVMIPDALAIGQFNKPWSEIGTGLSDKC</span></span>
-<span class="topo-line"><span class="topo-outside">VLSYGAFPDIANDFGEKSLLMPGGAVINGDFNNVLPVDLVDPQQVQEFVDHAWYRYPNDQ</span></span>
-<span class="topo-line"><span class="topo-outside">VGRHPFDGITDPWYNPGDVKGSDTNIQQLNEQERYSWIKAPRWRGNAMEVGPLARTLIAY</span></span>
-<span class="topo-line"><span class="topo-outside">HKGDAATVESVDRMMSALNLPLSGIQSTLGRILCRAHEAQWAAGKLQYFFDKLMTNLKNG</span></span>
-<span class="topo-line"><span class="topo-outside">NLATASTEKWEPATWPTECRGVGFTEAPRGALGHWAAIRDGKIDLYQCVVPTTWNASPRD</span></span>
-<span class="topo-line"><span class="topo-outside">PKGQIGAYEAALMNTKMAIPEQPLEILRTLHSFDPCLACSTH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">STQYETQGYTINNAGRRLVVDPITRIEGHMRCEVNINDQNVITNAVSCGTMFRGLEIILQGRDPRDAWAFVERICGVCTGVHALASVYAIEDAIGIKVPDNANIIRNIMLATLWCHDHL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">VHFYQLAGMDWIDVLDALKADPRKTSELAQSLSSWPKSSPGYFFDVQNRLKKFVEGGQLGIFRNGYWGHPQYKLPPEANLMGFAHYLEALDFQREIVKIHAVFGGKNPHPNWIVGGMPCA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">INIDESGAVGAVNMERLNLVQSIITRTADFINNVMIPDALAIGQFNKPWSEIGTGLSDKCVLSYGAFPDIANDFGEKSLLMPGGAVINGDFNNVLPVDLVDPQQVQEFVDHAWYRYPNDQ</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">VGRHPFDGITDPWYNPGDVKGSDTNIQQLNEQERYSWIKAPRWRGNAMEVGPLARTLIAYHKGDAATVESVDRMMSALNLPLSGIQSTLGRILCRAHEAQWAAGKLQYFFDKLMTNLKNG</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580  </span>
+<span class="topo-line"><span class="topo-outside">NLATASTEKWEPATWPTECRGVGFTEAPRGALGHWAAIRDGKIDLYQCVVPTTWNASPRDPKGQIGAYEAALMNTKMAIPEQPLEILRTLHSFDPCLACSTH</span></span>
+<details class="topo-details"><summary>Topology coordinates (2 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -186,6 +189,7 @@ SeHyd-1 is an O2-tolerant membrane-bound hydrogenase from the prevalent human pa
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -201,12 +205,13 @@ SeHyd-1 is an O2-tolerant membrane-bound hydrogenase from the prevalent human pa
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">LEN</span><span class="topo-outside">KPRIPVVWIHGLECTCCTESFIRSAHPLAKDVILSLISLDYDDTLMAAAGTQAEEVF</span></span>
-<span class="topo-line"><span class="topo-outside">EDIITQYNGKYILAVEGNPPLGEQGMFCISSGRPFIEKLKRAAAGASAIIAWGTCASWGC</span></span>
-<span class="topo-line"><span class="topo-outside">VQAARPNPTQATPIDKVITDKPIIKVPGCPPIPDVMSAIITYMVTFDRLPDVDRMGRPLM</span></span>
-<span class="topo-line"><span class="topo-outside">FYGQRIHDKCYRRAHFDAGEFVQSWDDDAARKGYCLYKMGCKGPTTYNACSSTRWNDGVS</span></span>
-<span class="topo-line"><span class="topo-outside">FCIQSGHGCLGCAENGFWDRGSFYSRVVDIPQMGTHSTA</span><span class="topo-membrane">DTVGLTALGVVAAAVGVHAVA</span></span>
-<span class="topo-line"><span class="topo-inside">SAV</span><span class="topo-unknown">DQRRRHNQQPTETEHQPGNEDKQARSHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">LEN</span><span class="topo-outside">KPRIPVVWIHGLECTCCTESFIRSAHPLAKDVILSLISLDYDDTLMAAAGTQAEEVFEDIITQYNGKYILAVEGNPPLGEQGMFCISSGRPFIEKLKRAAAGASAIIAWGTCASWGC</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">VQAARPNPTQATPIDKVITDKPIIKVPGCPPIPDVMSAIITYMVTFDRLPDVDRMGRPLMFYGQRIHDKCYRRAHFDAGEFVQSWDDDAARKGYCLYKMGCKGPTTYNACSSTRWNDGVS</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330     </span>
+<span class="topo-line"><span class="topo-outside">FCIQSGHGCLGCAENGFWDRGSFYSRVVDIPQMGTHSTA</span><span class="topo-membrane">DTVGLTALGVVAAAVGVHAVA</span><span class="topo-inside">SAV</span><span class="topo-unknown">DQRRRHNQQPTETEHQPGNEDKQARSHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -253,6 +258,7 @@ SeHyd-1 is an O2-tolerant membrane-bound hydrogenase from the prevalent human pa
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -268,16 +274,17 @@ SeHyd-1 is an O2-tolerant membrane-bound hydrogenase from the prevalent human pa
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">STQYETQGYTINNAGRRLVVDPITRIEGHMRCEVNINDQNVITNAVSCGTMFRGLEIIL</span></span>
-<span class="topo-line"><span class="topo-outside">QGRDPRDAWAFVERICGVCTGVHALASVYAIEDAIGIKVPDNANIIRNIMLATLWCHDHL</span></span>
-<span class="topo-line"><span class="topo-outside">VHFYQLAGMDWIDVLDALKADPRKTSELAQSLSSWPKSSPGYFFDVQNRLKKFVEGGQLG</span></span>
-<span class="topo-line"><span class="topo-outside">IFRNGYWGHPQYKLPPEANLMGFAHYLEALDFQREIVKIHAVFGGKNPHPNWIVGGMPCA</span></span>
-<span class="topo-line"><span class="topo-outside">INIDESGAVGAVNMERLNLVQSIITRTADFINNVMIPDALAIGQFNKPWSEIGTGLSDKC</span></span>
-<span class="topo-line"><span class="topo-outside">VLSYGAFPDIANDFGEKSLLMPGGAVINGDFNNVLPVDLVDPQQVQEFVDHAWYRYPNDQ</span></span>
-<span class="topo-line"><span class="topo-outside">VGRHPFDGITDPWYNPGDVKGSDTNIQQLNEQERYSWIKAPRWRGNAMEVGPLARTLIAY</span></span>
-<span class="topo-line"><span class="topo-outside">HKGDAATVESVDRMMSALNLPLSGIQSTLGRILCRAHEAQWAAGKLQYFFDKLMTNLKNG</span></span>
-<span class="topo-line"><span class="topo-outside">NLATASTEKWEPATWPTECRGVGFTEAPRGALGHWAAIRDGKIDLYQCVVPTTWNASPRD</span></span>
-<span class="topo-line"><span class="topo-outside">PKGQIGAYEAALMNTKMAIPEQPLEILRTLHSFDPCLACSTH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">STQYETQGYTINNAGRRLVVDPITRIEGHMRCEVNINDQNVITNAVSCGTMFRGLEIILQGRDPRDAWAFVERICGVCTGVHALASVYAIEDAIGIKVPDNANIIRNIMLATLWCHDHL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">VHFYQLAGMDWIDVLDALKADPRKTSELAQSLSSWPKSSPGYFFDVQNRLKKFVEGGQLGIFRNGYWGHPQYKLPPEANLMGFAHYLEALDFQREIVKIHAVFGGKNPHPNWIVGGMPCA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">INIDESGAVGAVNMERLNLVQSIITRTADFINNVMIPDALAIGQFNKPWSEIGTGLSDKCVLSYGAFPDIANDFGEKSLLMPGGAVINGDFNNVLPVDLVDPQQVQEFVDHAWYRYPNDQ</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">VGRHPFDGITDPWYNPGDVKGSDTNIQQLNEQERYSWIKAPRWRGNAMEVGPLARTLIAYHKGDAATVESVDRMMSALNLPLSGIQSTLGRILCRAHEAQWAAGKLQYFFDKLMTNLKNG</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580  </span>
+<span class="topo-line"><span class="topo-outside">NLATASTEKWEPATWPTECRGVGFTEAPRGALGHWAAIRDGKIDLYQCVVPTTWNASPRDPKGQIGAYEAALMNTKMAIPEQPLEILRTLHSFDPCLACSTH</span></span>
+<details class="topo-details"><summary>Topology coordinates (2 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -303,6 +310,7 @@ SeHyd-1 is an O2-tolerant membrane-bound hydrogenase from the prevalent human pa
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -318,12 +326,13 @@ SeHyd-1 is an O2-tolerant membrane-bound hydrogenase from the prevalent human pa
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">LEN</span><span class="topo-outside">KPRIPVVWIHGLECTCCTESFIRSAHPLAKDVILSLISLDYDDTLMAAAGTQAEEVF</span></span>
-<span class="topo-line"><span class="topo-outside">EDIITQYNGKYILAVEGNPPLGEQGMFCISSGRPFIEKLKRAAAGASAIIAWGTCASWGC</span></span>
-<span class="topo-line"><span class="topo-outside">VQAARPNPTQATPIDKVITDKPIIKVPGCPPIPDVMSAIITYMVTFDRLPDVDRMGRPLM</span></span>
-<span class="topo-line"><span class="topo-outside">FYGQRIHDKCYRRAHFDAGEFVQSWDDDAARKGYCLYKMGCKGPTTYNACSSTRWNDGVS</span></span>
-<span class="topo-line"><span class="topo-outside">FCIQSGHGCLGCAENGFWDRGSFYSRVVDIPQMGTHST</span><span class="topo-membrane">ADTVGLTALGVVAAAVG</span><span class="topo-inside">VHAVA</span></span>
-<span class="topo-line"><span class="topo-inside">SAVDQRR</span><span class="topo-unknown">RHNQQPTETEHQPGNEDKQARSHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">LEN</span><span class="topo-outside">KPRIPVVWIHGLECTCCTESFIRSAHPLAKDVILSLISLDYDDTLMAAAGTQAEEVFEDIITQYNGKYILAVEGNPPLGEQGMFCISSGRPFIEKLKRAAAGASAIIAWGTCASWGC</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">VQAARPNPTQATPIDKVITDKPIIKVPGCPPIPDVMSAIITYMVTFDRLPDVDRMGRPLMFYGQRIHDKCYRRAHFDAGEFVQSWDDDAARKGYCLYKMGCKGPTTYNACSSTRWNDGVS</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330     </span>
+<span class="topo-line"><span class="topo-outside">FCIQSGHGCLGCAENGFWDRGSFYSRVVDIPQMGTHST</span><span class="topo-membrane">ADTVGLTALGVVAAAVG</span><span class="topo-inside">VHAVASAVDQRR</span><span class="topo-unknown">RHNQQPTETEHQPGNEDKQARSHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -370,6 +379,7 @@ SeHyd-1 is an O2-tolerant membrane-bound hydrogenase from the prevalent human pa
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -385,16 +395,17 @@ SeHyd-1 is an O2-tolerant membrane-bound hydrogenase from the prevalent human pa
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">STQYETQGYTINNAGRRLVVDPITRIEGHMRCEVNINDQNVITNAVSCGTMFRGLEIIL</span></span>
-<span class="topo-line"><span class="topo-outside">QGRDPRDAWAFVERICGVCTGVHALASVYAIEDAIGIKVPDNANIIRNIMLATLWCHDHL</span></span>
-<span class="topo-line"><span class="topo-outside">VHFYQLAGMDWIDVLDALKADPRKTSELAQSLSSWPKSSPGYFFDVQNRLKKFVEGGQLG</span></span>
-<span class="topo-line"><span class="topo-outside">IFRNGYWGHPQYKLPPEANLMGFAHYLEALDFQREIVKIHAVFGGKNPHPNWIVGGMPCA</span></span>
-<span class="topo-line"><span class="topo-outside">INIDESGAVGAVNMERLNLVQSIITRTADFINNVMIPDALAIGQFNKPWSEIGTGLSDKC</span></span>
-<span class="topo-line"><span class="topo-outside">VLSYGAFPDIANDFGEKSLLMPGGAVINGDFNNVLPVDLVDPQQVQEFVDHAWYRYPNDQ</span></span>
-<span class="topo-line"><span class="topo-outside">VGRHPFDGITDPWYNPGDVKGSDTNIQQLNEQERYSWIKAPRWRGNAMEVGPLARTLIAY</span></span>
-<span class="topo-line"><span class="topo-outside">HKGDAATVESVDRMMSALNLPLSGIQSTLGRILCRAHEAQWAAGKLQYFFDKLMTNLKNG</span></span>
-<span class="topo-line"><span class="topo-outside">NLATASTEKWEPATWPTECRGVGFTEAPRGALGHWAAIRDGKIDLYQCVVPTTWNASPRD</span></span>
-<span class="topo-line"><span class="topo-outside">PKGQIGAYEAALMNTKMAIPEQPLEILRTLHSFDPCLACSTH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">STQYETQGYTINNAGRRLVVDPITRIEGHMRCEVNINDQNVITNAVSCGTMFRGLEIILQGRDPRDAWAFVERICGVCTGVHALASVYAIEDAIGIKVPDNANIIRNIMLATLWCHDHL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">VHFYQLAGMDWIDVLDALKADPRKTSELAQSLSSWPKSSPGYFFDVQNRLKKFVEGGQLGIFRNGYWGHPQYKLPPEANLMGFAHYLEALDFQREIVKIHAVFGGKNPHPNWIVGGMPCA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">INIDESGAVGAVNMERLNLVQSIITRTADFINNVMIPDALAIGQFNKPWSEIGTGLSDKCVLSYGAFPDIANDFGEKSLLMPGGAVINGDFNNVLPVDLVDPQQVQEFVDHAWYRYPNDQ</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">VGRHPFDGITDPWYNPGDVKGSDTNIQQLNEQERYSWIKAPRWRGNAMEVGPLARTLIAYHKGDAATVESVDRMMSALNLPLSGIQSTLGRILCRAHEAQWAAGKLQYFFDKLMTNLKNG</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580  </span>
+<span class="topo-line"><span class="topo-outside">NLATASTEKWEPATWPTECRGVGFTEAPRGALGHWAAIRDGKIDLYQCVVPTTWNASPRDPKGQIGAYEAALMNTKMAIPEQPLEILRTLHSFDPCLACSTH</span></span>
+<details class="topo-details"><summary>Topology coordinates (2 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -420,6 +431,7 @@ SeHyd-1 is an O2-tolerant membrane-bound hydrogenase from the prevalent human pa
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -435,12 +447,13 @@ SeHyd-1 is an O2-tolerant membrane-bound hydrogenase from the prevalent human pa
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">LEN</span><span class="topo-outside">KPRIPVVWIHGLECTCCTESFIRSAHPLAKDVILSLISLDYDDTLMAAAGTQAEEVF</span></span>
-<span class="topo-line"><span class="topo-outside">EDIITQYNGKYILAVEGNPPLGEQGMFCISSGRPFIEKLKRAAAGASAIIAWGTCASWGC</span></span>
-<span class="topo-line"><span class="topo-outside">VQAARPNPTQATPIDKVITDKPIIKVPGCPPIPDVMSAIITYMVTFDRLPDVDRMGRPLM</span></span>
-<span class="topo-line"><span class="topo-outside">FYGQRIHDKCYRRAHFDAGEFVQSWDDDAARKGYCLYKMGCKGPTTYNACSSTRWNDGVS</span></span>
-<span class="topo-line"><span class="topo-outside">FCIQSGHGCLGCAENGFWDRGSFYSRVVDIPQMGTHSTA</span><span class="topo-membrane">DTVGLTALGVVAAAVGVHAVA</span></span>
-<span class="topo-line"><span class="topo-inside">SAV</span><span class="topo-unknown">DQRRRHNQQPTETEHQPGNEDKQARSHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">LEN</span><span class="topo-outside">KPRIPVVWIHGLECTCCTESFIRSAHPLAKDVILSLISLDYDDTLMAAAGTQAEEVFEDIITQYNGKYILAVEGNPPLGEQGMFCISSGRPFIEKLKRAAAGASAIIAWGTCASWGC</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">VQAARPNPTQATPIDKVITDKPIIKVPGCPPIPDVMSAIITYMVTFDRLPDVDRMGRPLMFYGQRIHDKCYRRAHFDAGEFVQSWDDDAARKGYCLYKMGCKGPTTYNACSSTRWNDGVS</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330     </span>
+<span class="topo-line"><span class="topo-outside">FCIQSGHGCLGCAENGFWDRGSFYSRVVDIPQMGTHSTA</span><span class="topo-membrane">DTVGLTALGVVAAAVGVHAVA</span><span class="topo-inside">SAV</span><span class="topo-unknown">DQRRRHNQQPTETEHQPGNEDKQARSHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -487,6 +500,7 @@ SeHyd-1 is an O2-tolerant membrane-bound hydrogenase from the prevalent human pa
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -502,16 +516,17 @@ SeHyd-1 is an O2-tolerant membrane-bound hydrogenase from the prevalent human pa
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">STQYETQGYTINNAGRRLVVDPITRIEGHMRCEVNINDQNVITNAVSCGTMFRGLEIIL</span></span>
-<span class="topo-line"><span class="topo-outside">QGRDPRDAWAFVERICGVCTGVHALASVYAIEDAIGIKVPDNANIIRNIMLATLWCHDHL</span></span>
-<span class="topo-line"><span class="topo-outside">VHFYQLAGMDWIDVLDALKADPRKTSELAQSLSSWPKSSPGYFFDVQNRLKKFVEGGQLG</span></span>
-<span class="topo-line"><span class="topo-outside">IFRNGYWGHPQYKLPPEANLMGFAHYLEALDFQREIVKIHAVFGGKNPHPNWIVGGMPCA</span></span>
-<span class="topo-line"><span class="topo-outside">INIDESGAVGAVNMERLNLVQSIITRTADFINNVMIPDALAIGQFNKPWSEIGTGLSDKC</span></span>
-<span class="topo-line"><span class="topo-outside">VLSYGAFPDIANDFGEKSLLMPGGAVINGDFNNVLPVDLVDPQQVQEFVDHAWYRYPNDQ</span></span>
-<span class="topo-line"><span class="topo-outside">VGRHPFDGITDPWYNPGDVKGSDTNIQQLNEQERYSWIKAPRWRGNAMEVGPLARTLIAY</span></span>
-<span class="topo-line"><span class="topo-outside">HKGDAATVESVDRMMSALNLPLSGIQSTLGRILCRAHEAQWAAGKLQYFFDKLMTNLKNG</span></span>
-<span class="topo-line"><span class="topo-outside">NLATASTEKWEPATWPTECRGVGFTEAPRGALGHWAAIRDGKIDLYQCVVPTTWNASPRD</span></span>
-<span class="topo-line"><span class="topo-outside">PKGQIGAYEAALMNTKMAIPEQPLEILRTLHSFDPCLACSTH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">STQYETQGYTINNAGRRLVVDPITRIEGHMRCEVNINDQNVITNAVSCGTMFRGLEIILQGRDPRDAWAFVERICGVCTGVHALASVYAIEDAIGIKVPDNANIIRNIMLATLWCHDHL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">VHFYQLAGMDWIDVLDALKADPRKTSELAQSLSSWPKSSPGYFFDVQNRLKKFVEGGQLGIFRNGYWGHPQYKLPPEANLMGFAHYLEALDFQREIVKIHAVFGGKNPHPNWIVGGMPCA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">INIDESGAVGAVNMERLNLVQSIITRTADFINNVMIPDALAIGQFNKPWSEIGTGLSDKCVLSYGAFPDIANDFGEKSLLMPGGAVINGDFNNVLPVDLVDPQQVQEFVDHAWYRYPNDQ</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">VGRHPFDGITDPWYNPGDVKGSDTNIQQLNEQERYSWIKAPRWRGNAMEVGPLARTLIAYHKGDAATVESVDRMMSALNLPLSGIQSTLGRILCRAHEAQWAAGKLQYFFDKLMTNLKNG</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580  </span>
+<span class="topo-line"><span class="topo-outside">NLATASTEKWEPATWPTECRGVGFTEAPRGALGHWAAIRDGKIDLYQCVVPTTWNASPRDPKGQIGAYEAALMNTKMAIPEQPLEILRTLHSFDPCLACSTH</span></span>
+<details class="topo-details"><summary>Topology coordinates (2 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -537,6 +552,7 @@ SeHyd-1 is an O2-tolerant membrane-bound hydrogenase from the prevalent human pa
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -552,10 +568,11 @@ SeHyd-1 is an O2-tolerant membrane-bound hydrogenase from the prevalent human pa
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MQQKSDN</span><span class="topo-inside">VVSHYVFEAPV</span><span class="topo-membrane">RIWHWLTVLCMAVLMVTGY</span><span class="topo-outside">FIGKPLPSVSGEATYLFYMGYIR</span></span>
-<span class="topo-line"><span class="topo-outside">LI</span><span class="topo-membrane">HFSAGMVFTVVLLMRIYW</span><span class="topo-inside">AFVGNRYSR</span><span class="topo-unknown">ELFIVPVWRKSWW</span><span class="topo-inside">QGVWYEIRWYLFL</span><span class="topo-unknown">AKRPS</span></span>
-<span class="topo-line"><span class="topo-unknown">ADIGHN</span><span class="topo-inside">PIA</span><span class="topo-membrane">QAAMFGYFLMSVFMIITGFALYS</span><span class="topo-outside">EHSQYAI</span><span class="topo-unknown">FAPFRYVVEFFYWT</span><span class="topo-outside">GGNSMDI</span></span>
-<span class="topo-line"><span class="topo-outside">HSW</span><span class="topo-membrane">HRLGMWLIGAFVIGHVYMALR</span><span class="topo-inside">EDIMSD</span><span class="topo-unknown">DTVISTMVNGYRSHKFGKISNKERS</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MQQKSDN</span><span class="topo-inside">VVSHYVFEAPV</span><span class="topo-membrane">RIWHWLTVLCMAVLMVTGY</span><span class="topo-outside">FIGKPLPSVSGEATYLFYMGYIRLI</span><span class="topo-membrane">HFSAGMVFTVVLLMRIYW</span><span class="topo-inside">AFVGNRYSR</span><span class="topo-unknown">ELFIVPVWRKSWW</span><span class="topo-inside">QGVWYEIRWYLFL</span><span class="topo-unknown">AKRPS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230     </span>
+<span class="topo-line"><span class="topo-unknown">ADIGHN</span><span class="topo-inside">PIA</span><span class="topo-membrane">QAAMFGYFLMSVFMIITGFALYS</span><span class="topo-outside">EHSQYAI</span><span class="topo-unknown">FAPFRYVVEFFYWT</span><span class="topo-outside">GGNSMDIHSW</span><span class="topo-membrane">HRLGMWLIGAFVIGHVYMALR</span><span class="topo-inside">EDIMSD</span><span class="topo-unknown">DTVISTMVNGYRSHKFGKISNKERS</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -686,6 +703,7 @@ SeHyd-1 is an O2-tolerant membrane-bound hydrogenase from the prevalent human pa
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -701,10 +719,11 @@ SeHyd-1 is an O2-tolerant membrane-bound hydrogenase from the prevalent human pa
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MQQKSDN</span><span class="topo-inside">VVSHYVFEAPV</span><span class="topo-membrane">RIWHWLTVLCMAVLMVTGY</span><span class="topo-outside">FIGKPLPSVSGEATYLFYMGYIR</span></span>
-<span class="topo-line"><span class="topo-outside">LI</span><span class="topo-membrane">HFSAGMVFTVVLLMRIYW</span><span class="topo-inside">AFVGNRYSR</span><span class="topo-unknown">ELFIVPVWRKSWW</span><span class="topo-inside">QGVWYEIRWYLFL</span><span class="topo-unknown">AKRPS</span></span>
-<span class="topo-line"><span class="topo-unknown">ADIGHN</span><span class="topo-inside">PIA</span><span class="topo-membrane">QAAMFGYFLMSVFMIITGFA</span><span class="topo-outside">LYSEHSQYAI</span><span class="topo-unknown">FAPFRYVVEFFYWT</span><span class="topo-outside">GGNSMDI</span></span>
-<span class="topo-line"><span class="topo-outside">HSW</span><span class="topo-membrane">HRLGMWLIGAFVIGHVYMALR</span><span class="topo-inside">EDIMSD</span><span class="topo-unknown">DTVISTMVNGYRSHKFGKISNKERS</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MQQKSDN</span><span class="topo-inside">VVSHYVFEAPV</span><span class="topo-membrane">RIWHWLTVLCMAVLMVTGY</span><span class="topo-outside">FIGKPLPSVSGEATYLFYMGYIRLI</span><span class="topo-membrane">HFSAGMVFTVVLLMRIYW</span><span class="topo-inside">AFVGNRYSR</span><span class="topo-unknown">ELFIVPVWRKSWW</span><span class="topo-inside">QGVWYEIRWYLFL</span><span class="topo-unknown">AKRPS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230     </span>
+<span class="topo-line"><span class="topo-unknown">ADIGHN</span><span class="topo-inside">PIA</span><span class="topo-membrane">QAAMFGYFLMSVFMIITGFA</span><span class="topo-outside">LYSEHSQYAI</span><span class="topo-unknown">FAPFRYVVEFFYWT</span><span class="topo-outside">GGNSMDIHSW</span><span class="topo-membrane">HRLGMWLIGAFVIGHVYMALR</span><span class="topo-inside">EDIMSD</span><span class="topo-unknown">DTVISTMVNGYRSHKFGKISNKERS</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -835,6 +854,7 @@ SeHyd-1 is an O2-tolerant membrane-bound hydrogenase from the prevalent human pa
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

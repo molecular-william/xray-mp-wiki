@@ -140,11 +140,13 @@ ions, potentially increasing net ammonia permeation.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSHHHHHHHHHHDSNGIPTENLYFQ</span><span class="topo-inside">GAGVAFGSFDDSFSLASLRA</span><span class="topo-membrane">YLAEFISTLLFVFAG</span></span>
-<span class="topo-line"><span class="topo-membrane">VGS</span><span class="topo-outside">AIAYAKLTSDAALDTPGLV</span><span class="topo-membrane">AIAVCHGFALFVAVAIGA</span><span class="topo-inside">NIS</span><span class="topo-unknown">GGHVNPAVTFGLAV</span><span class="topo-inside">GGQ</span></span>
-<span class="topo-line"><span class="topo-inside">ITV</span><span class="topo-membrane">ITGVFYWIAQLLGSTAACFLLKYV</span><span class="topo-outside">TGGLAVPTHSVAAGLGSI</span><span class="topo-membrane">EGVVMEIIITFALVY</span></span>
-<span class="topo-line"><span class="topo-membrane">TVYATA</span><span class="topo-inside">ADPKKGSLGTI</span><span class="topo-membrane">APLAIGLIVGANILAAG</span><span class="topo-outside">PFS</span><span class="topo-unknown">GGSMNPARSFGPAVA</span><span class="topo-outside">AGDFSGH</span><span class="topo-membrane">W</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSHHHHHHHHHHDSNGIPTENLYFQ</span><span class="topo-inside">GAGVAFGSFDDSFSLASLRA</span><span class="topo-membrane">YLAEFISTLLFVFAGVGS</span><span class="topo-outside">AIAYAKLTSDAALDTPGLV</span><span class="topo-membrane">AIAVCHGFALFVAVAIGA</span><span class="topo-inside">NIS</span><span class="topo-unknown">GGHVNPAVTFGLAV</span><span class="topo-inside">GGQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">ITV</span><span class="topo-membrane">ITGVFYWIAQLLGSTAACFLLKYV</span><span class="topo-outside">TGGLAVPTHSVAAGLGSI</span><span class="topo-membrane">EGVVMEIIITFALVYTVYATA</span><span class="topo-inside">ADPKKGSLGTI</span><span class="topo-membrane">APLAIGLIVGANILAAG</span><span class="topo-outside">PFS</span><span class="topo-unknown">GGSMNPARSFGPAVA</span><span class="topo-outside">AGDFSGH</span><span class="topo-membrane">W</span></span>
+<span class="topo-ruler">       250       260       270     </span>
 <span class="topo-line"><span class="topo-membrane">VYWVGPLIGGGLAGLIY</span><span class="topo-inside">GNVFMG</span><span class="topo-unknown">SSEHVPLASADF</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -275,6 +277,7 @@ ions, potentially increasing net ammonia permeation.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -290,11 +293,13 @@ ions, potentially increasing net ammonia permeation.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSHHHHHHHHHHDSNGIPTENLYFQ</span><span class="topo-inside">GAGVAFGSFDDSFSLASLRA</span><span class="topo-membrane">YLAEFISTLLFVFAG</span></span>
-<span class="topo-line"><span class="topo-membrane">VGS</span><span class="topo-outside">AIAYAKLTSDAALDTPGLV</span><span class="topo-membrane">AIAVCHGFALFVAVAIGA</span><span class="topo-inside">NIS</span><span class="topo-unknown">GGHVNPAVTFGLAV</span><span class="topo-inside">GGQ</span></span>
-<span class="topo-line"><span class="topo-inside">ITV</span><span class="topo-membrane">ITGVFYWIAQLLGSTAACFLLKYV</span><span class="topo-outside">TGGLAVPTHSVAAGLGSI</span><span class="topo-membrane">EGVVMEIIITFALVY</span></span>
-<span class="topo-line"><span class="topo-membrane">TVYATA</span><span class="topo-inside">ADPKKGSLGTI</span><span class="topo-membrane">APLAIGLIVGANILAAG</span><span class="topo-outside">PFS</span><span class="topo-unknown">GGSMNPARSFGPAVA</span><span class="topo-outside">AGDFSGH</span><span class="topo-membrane">W</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSHHHHHHHHHHDSNGIPTENLYFQ</span><span class="topo-inside">GAGVAFGSFDDSFSLASLRA</span><span class="topo-membrane">YLAEFISTLLFVFAGVGS</span><span class="topo-outside">AIAYAKLTSDAALDTPGLV</span><span class="topo-membrane">AIAVCHGFALFVAVAIGA</span><span class="topo-inside">NIS</span><span class="topo-unknown">GGHVNPAVTFGLAV</span><span class="topo-inside">GGQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">ITV</span><span class="topo-membrane">ITGVFYWIAQLLGSTAACFLLKYV</span><span class="topo-outside">TGGLAVPTHSVAAGLGSI</span><span class="topo-membrane">EGVVMEIIITFALVYTVYATA</span><span class="topo-inside">ADPKKGSLGTI</span><span class="topo-membrane">APLAIGLIVGANILAAG</span><span class="topo-outside">PFS</span><span class="topo-unknown">GGSMNPARSFGPAVA</span><span class="topo-outside">AGDFSGH</span><span class="topo-membrane">W</span></span>
+<span class="topo-ruler">       250       260       270     </span>
 <span class="topo-line"><span class="topo-membrane">VYWVGPLIGGGLAGLIY</span><span class="topo-inside">GNVFMG</span><span class="topo-unknown">SSEHVPLASADF</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -425,6 +430,7 @@ ions, potentially increasing net ammonia permeation.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -440,11 +446,13 @@ ions, potentially increasing net ammonia permeation.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSHHHHHHHHHHDSNGIPTENLYFQ</span><span class="topo-inside">GAGVAFGSFDDSFSLASLRA</span><span class="topo-membrane">YLAEFISTLLFVFAG</span></span>
-<span class="topo-line"><span class="topo-membrane">VGS</span><span class="topo-outside">AIAYAKLTSDAALDTPGLV</span><span class="topo-membrane">AIAVCHGFALFVAVAIGA</span><span class="topo-inside">NIS</span><span class="topo-unknown">GGHVNPAVTFGLAV</span><span class="topo-inside">GGQ</span></span>
-<span class="topo-line"><span class="topo-inside">ITV</span><span class="topo-membrane">ITGVFYWIAQLLGSTAACFLLKYV</span><span class="topo-outside">TGGLAVPTHSVAAGLGSI</span><span class="topo-membrane">EGVVMEIIITFALVY</span></span>
-<span class="topo-line"><span class="topo-membrane">TVYATA</span><span class="topo-inside">ADPKKGSLGTI</span><span class="topo-membrane">APLAIGLIVGANILAAG</span><span class="topo-outside">PFS</span><span class="topo-unknown">GGSMNPARSFGPAVA</span><span class="topo-outside">AGDFSGH</span><span class="topo-membrane">W</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSHHHHHHHHHHDSNGIPTENLYFQ</span><span class="topo-inside">GAGVAFGSFDDSFSLASLRA</span><span class="topo-membrane">YLAEFISTLLFVFAGVGS</span><span class="topo-outside">AIAYAKLTSDAALDTPGLV</span><span class="topo-membrane">AIAVCHGFALFVAVAIGA</span><span class="topo-inside">NIS</span><span class="topo-unknown">GGHVNPAVTFGLAV</span><span class="topo-inside">GGQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">ITV</span><span class="topo-membrane">ITGVFYWIAQLLGSTAACFLLKYV</span><span class="topo-outside">TGGLAVPTHSVAAGLGSI</span><span class="topo-membrane">EGVVMEIIITFALVYTVYATA</span><span class="topo-inside">ADPKKGSLGTI</span><span class="topo-membrane">APLAIGLIVGANILAAG</span><span class="topo-outside">PFS</span><span class="topo-unknown">GGSMNPARSFGPAVA</span><span class="topo-outside">AGDFSGH</span><span class="topo-membrane">W</span></span>
+<span class="topo-ruler">       250       260       270     </span>
 <span class="topo-line"><span class="topo-membrane">VYWVGPLIGGGLAGLIY</span><span class="topo-inside">GNVFMG</span><span class="topo-unknown">SSEHVPLASADF</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -575,6 +583,7 @@ ions, potentially increasing net ammonia permeation.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -590,11 +599,13 @@ ions, potentially increasing net ammonia permeation.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSHHHHHHHHHHDSNGIPTENLYFQ</span><span class="topo-inside">GAGVAFGSFDDSFSLASLRA</span><span class="topo-membrane">YLAEFISTLLFVFAG</span></span>
-<span class="topo-line"><span class="topo-membrane">VGS</span><span class="topo-outside">AIAYAKLTSDAALDTPGLV</span><span class="topo-membrane">AIAVCHGFALFVAVAIGA</span><span class="topo-inside">NIS</span><span class="topo-unknown">GGHVNPAVTFGLAV</span><span class="topo-inside">GGQ</span></span>
-<span class="topo-line"><span class="topo-inside">ITV</span><span class="topo-membrane">ITGVFYWIAQLLGSTAACFLLKYV</span><span class="topo-outside">TGGLAVPTHSVAAGLGSI</span><span class="topo-membrane">EGVVMEIIITFALVY</span></span>
-<span class="topo-line"><span class="topo-membrane">TVYATA</span><span class="topo-inside">ADPKKGSLGTI</span><span class="topo-membrane">APLAIGLIVGANILAAG</span><span class="topo-outside">PFS</span><span class="topo-unknown">GGSMNPARSFGPAVA</span><span class="topo-outside">AGDFSGH</span><span class="topo-membrane">W</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSHHHHHHHHHHDSNGIPTENLYFQ</span><span class="topo-inside">GAGVAFGSFDDSFSLASLRA</span><span class="topo-membrane">YLAEFISTLLFVFAGVGS</span><span class="topo-outside">AIAYAKLTSDAALDTPGLV</span><span class="topo-membrane">AIAVCHGFALFVAVAIGA</span><span class="topo-inside">NIS</span><span class="topo-unknown">GGHVNPAVTFGLAV</span><span class="topo-inside">GGQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">ITV</span><span class="topo-membrane">ITGVFYWIAQLLGSTAACFLLKYV</span><span class="topo-outside">TGGLAVPTHSVAAGLGSI</span><span class="topo-membrane">EGVVMEIIITFALVYTVYATA</span><span class="topo-inside">ADPKKGSLGTI</span><span class="topo-membrane">APLAIGLIVGANILAAG</span><span class="topo-outside">PFS</span><span class="topo-unknown">GGSMNPARSFGPAVA</span><span class="topo-outside">AGDFSGH</span><span class="topo-membrane">W</span></span>
+<span class="topo-ruler">       250       260       270     </span>
 <span class="topo-line"><span class="topo-membrane">VYWVGPLIGGGLAGLIY</span><span class="topo-inside">GNVFMG</span><span class="topo-unknown">SSEHVPLASADF</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -725,6 +736,7 @@ ions, potentially increasing net ammonia permeation.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

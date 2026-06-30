@@ -126,10 +126,11 @@ CmTMEM175 is a prokaryotic homologue of the lysosomal potassium channel TMEM175 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MVEAPE</span><span class="topo-outside">QSETGRIEAF</span><span class="topo-membrane">SDGVFAIAITLLVLEIKVP</span><span class="topo-inside">Q</span><span class="topo-unknown">HKIVETV</span><span class="topo-inside">GLVSSL</span><span class="topo-membrane">LSLWPSYLAFL</span></span>
-<span class="topo-line"><span class="topo-membrane">TSFASILVMWVNH</span><span class="topo-outside">HRIFSLVARTDHAFFY</span><span class="topo-membrane">WNGLLLMLVTFVPFPTALLAEYLI</span><span class="topo-inside">HPQA</span><span class="topo-membrane">RVA</span></span>
-<span class="topo-line"><span class="topo-membrane">ASVYAGIFLAIAIVFNRL</span><span class="topo-outside">WKHAAT</span><span class="topo-unknown">ADRLLAQKA</span><span class="topo-outside">DRHEVDAITKQ</span><span class="topo-membrane">YRFGPGLYLVAFALSF</span></span>
-<span class="topo-line"><span class="topo-membrane">IS</span><span class="topo-inside">V</span><span class="topo-membrane">WLSVGVCFVLAIYFALRS</span><span class="topo-outside">NA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MVEAPE</span><span class="topo-outside">QSETGRIEAF</span><span class="topo-membrane">SDGVFAIAITLLVLEIKVP</span><span class="topo-inside">Q</span><span class="topo-unknown">HKIVETV</span><span class="topo-inside">GLVSSL</span><span class="topo-membrane">LSLWPSYLAFLTSFASILVMWVNH</span><span class="topo-outside">HRIFSLVARTDHAFFY</span><span class="topo-membrane">WNGLLLMLVTFVPFPTALLAEYLI</span><span class="topo-inside">HPQA</span><span class="topo-membrane">RVA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200   </span>
+<span class="topo-line"><span class="topo-membrane">ASVYAGIFLAIAIVFNRL</span><span class="topo-outside">WKHAAT</span><span class="topo-unknown">ADRLLAQKA</span><span class="topo-outside">DRHEVDAITKQ</span><span class="topo-membrane">YRFGPGLYLVAFALSFIS</span><span class="topo-inside">V</span><span class="topo-membrane">WLSVGVCFVLAIYFALRS</span><span class="topo-outside">NA</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -253,6 +254,7 @@ CmTMEM175 is a prokaryotic homologue of the lysosomal potassium channel TMEM175 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -268,10 +270,11 @@ CmTMEM175 is a prokaryotic homologue of the lysosomal potassium channel TMEM175 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MVEAPE</span><span class="topo-outside">QSETGRIEAF</span><span class="topo-membrane">SDGVFAIAITLLVLEIKVP</span><span class="topo-inside">Q</span><span class="topo-unknown">HKIVETV</span><span class="topo-inside">GLVSSL</span><span class="topo-membrane">LSLWPSYLAFL</span></span>
-<span class="topo-line"><span class="topo-membrane">TSFASILVMWVNH</span><span class="topo-outside">HRIFSLVARTDHAFFY</span><span class="topo-membrane">WNGLLLMLVTFVPFPTALLAEYLI</span><span class="topo-inside">HPQA</span><span class="topo-membrane">RVA</span></span>
-<span class="topo-line"><span class="topo-membrane">ASVYAGIFLAIAIVFNRL</span><span class="topo-outside">WKHAAT</span><span class="topo-unknown">ADRLLAQKA</span><span class="topo-outside">DRHEVDAITKQ</span><span class="topo-membrane">YRFGPGLYLVAFALSF</span></span>
-<span class="topo-line"><span class="topo-membrane">IS</span><span class="topo-inside">V</span><span class="topo-membrane">WLSVGVCFVLAIYFALRS</span><span class="topo-outside">NA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MVEAPE</span><span class="topo-outside">QSETGRIEAF</span><span class="topo-membrane">SDGVFAIAITLLVLEIKVP</span><span class="topo-inside">Q</span><span class="topo-unknown">HKIVETV</span><span class="topo-inside">GLVSSL</span><span class="topo-membrane">LSLWPSYLAFLTSFASILVMWVNH</span><span class="topo-outside">HRIFSLVARTDHAFFY</span><span class="topo-membrane">WNGLLLMLVTFVPFPTALLAEYLI</span><span class="topo-inside">HPQA</span><span class="topo-membrane">RVA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200   </span>
+<span class="topo-line"><span class="topo-membrane">ASVYAGIFLAIAIVFNRL</span><span class="topo-outside">WKHAAT</span><span class="topo-unknown">ADRLLAQKA</span><span class="topo-outside">DRHEVDAITKQ</span><span class="topo-membrane">YRFGPGLYLVAFALSFIS</span><span class="topo-inside">V</span><span class="topo-membrane">WLSVGVCFVLAIYFALRS</span><span class="topo-outside">NA</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -395,6 +398,7 @@ CmTMEM175 is a prokaryotic homologue of the lysosomal potassium channel TMEM175 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -410,10 +414,11 @@ CmTMEM175 is a prokaryotic homologue of the lysosomal potassium channel TMEM175 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MVEAPE</span><span class="topo-outside">QSETGRIEAF</span><span class="topo-membrane">SDGVFAIAITLLVLEIKVP</span><span class="topo-inside">Q</span><span class="topo-unknown">HKIVETV</span><span class="topo-inside">GLVSSL</span><span class="topo-membrane">LSLWPSYLAFL</span></span>
-<span class="topo-line"><span class="topo-membrane">TSFASILVMWVNH</span><span class="topo-outside">HRIFSLVARTDHAFFY</span><span class="topo-membrane">WNGLLLMLVTFVPFPTALLAEYLI</span><span class="topo-inside">HPQA</span><span class="topo-membrane">RVA</span></span>
-<span class="topo-line"><span class="topo-membrane">ASVYAGIFLAIAIVFNRL</span><span class="topo-outside">WKHAAT</span><span class="topo-unknown">ADRLLAQKA</span><span class="topo-outside">DRHEVDAITKQ</span><span class="topo-membrane">YRFGPGLYLVAFALSF</span></span>
-<span class="topo-line"><span class="topo-membrane">IS</span><span class="topo-inside">V</span><span class="topo-membrane">WLSVGVCFVLAIYFALRS</span><span class="topo-outside">NA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MVEAPE</span><span class="topo-outside">QSETGRIEAF</span><span class="topo-membrane">SDGVFAIAITLLVLEIKVP</span><span class="topo-inside">Q</span><span class="topo-unknown">HKIVETV</span><span class="topo-inside">GLVSSL</span><span class="topo-membrane">LSLWPSYLAFLTSFASILVMWVNH</span><span class="topo-outside">HRIFSLVARTDHAFFY</span><span class="topo-membrane">WNGLLLMLVTFVPFPTALLAEYLI</span><span class="topo-inside">HPQA</span><span class="topo-membrane">RVA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200   </span>
+<span class="topo-line"><span class="topo-membrane">ASVYAGIFLAIAIVFNRL</span><span class="topo-outside">WKHAAT</span><span class="topo-unknown">ADRLLAQKA</span><span class="topo-outside">DRHEVDAITKQ</span><span class="topo-membrane">YRFGPGLYLVAFALSFIS</span><span class="topo-inside">V</span><span class="topo-membrane">WLSVGVCFVLAIYFALRS</span><span class="topo-outside">NA</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -537,6 +542,7 @@ CmTMEM175 is a prokaryotic homologue of the lysosomal potassium channel TMEM175 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -552,10 +558,11 @@ CmTMEM175 is a prokaryotic homologue of the lysosomal potassium channel TMEM175 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MVEAPE</span><span class="topo-outside">QSETGRIEAF</span><span class="topo-membrane">SDGVFAIAITLLVLEIKVP</span><span class="topo-inside">Q</span><span class="topo-unknown">HKIVETV</span><span class="topo-inside">GLVSSL</span><span class="topo-membrane">LSLWPSYLAFL</span></span>
-<span class="topo-line"><span class="topo-membrane">TSFASILVMWVNH</span><span class="topo-outside">HRIFSLVARTDHAFFY</span><span class="topo-membrane">WNGLLLMLVTFVPFPTALLAEYLI</span><span class="topo-inside">HPQA</span><span class="topo-membrane">RVA</span></span>
-<span class="topo-line"><span class="topo-membrane">ASVYAGIFLAIAIVFNRL</span><span class="topo-outside">WKHAAT</span><span class="topo-unknown">ADRLLAQKA</span><span class="topo-outside">DRHEVDAITKQ</span><span class="topo-membrane">YRFGPGLYLVAFALSF</span></span>
-<span class="topo-line"><span class="topo-membrane">IS</span><span class="topo-inside">V</span><span class="topo-membrane">WLSVGVCFVLAIYFALRS</span><span class="topo-outside">NA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MVEAPE</span><span class="topo-outside">QSETGRIEAF</span><span class="topo-membrane">SDGVFAIAITLLVLEIKVP</span><span class="topo-inside">Q</span><span class="topo-unknown">HKIVETV</span><span class="topo-inside">GLVSSL</span><span class="topo-membrane">LSLWPSYLAFLTSFASILVMWVNH</span><span class="topo-outside">HRIFSLVARTDHAFFY</span><span class="topo-membrane">WNGLLLMLVTFVPFPTALLAEYLI</span><span class="topo-inside">HPQA</span><span class="topo-membrane">RVA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200   </span>
+<span class="topo-line"><span class="topo-membrane">ASVYAGIFLAIAIVFNRL</span><span class="topo-outside">WKHAAT</span><span class="topo-unknown">ADRLLAQKA</span><span class="topo-outside">DRHEVDAITKQ</span><span class="topo-membrane">YRFGPGLYLVAFALSFIS</span><span class="topo-inside">V</span><span class="topo-membrane">WLSVGVCFVLAIYFALRS</span><span class="topo-outside">NA</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -679,6 +686,7 @@ CmTMEM175 is a prokaryotic homologue of the lysosomal potassium channel TMEM175 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

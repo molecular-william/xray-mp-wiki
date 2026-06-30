@@ -149,24 +149,25 @@ YajC is a single transmembrane (TM) protein from Escherichia coli that associate
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MPNFFIDRPI</span><span class="topo-membrane">FAWVIAIIIMLAGGLA</span><span class="topo-outside">ILKLPVAQYPTIAPPAVTISASYPGADAKTVQDT</span></span>
-<span class="topo-line"><span class="topo-outside">VTQVIEQNMNGIDNLMYMSSNSDSTGTVQITLTFESGTDADIAQVQVQNKLQLAMPLLPQ</span></span>
-<span class="topo-line"><span class="topo-outside">EVQQQGVSVEKSSSSFLMVVGVINTDGTMTQEDISDYVAANMKDAISRTSGVGDVQLFGS</span></span>
-<span class="topo-line"><span class="topo-outside">QYAMRIWMNPNELNKFQLTPVDVITAIKAQNAQVAAGQLGGTPPVKGQQLNASIIAQTRL</span></span>
-<span class="topo-line"><span class="topo-outside">TSTEEFGKILLKVNQDGSRVLLRDVAKIELGGENYDIIAEFNGQPASGLGIKLA</span><span class="topo-unknown">TG</span><span class="topo-outside">ANAL</span></span>
-<span class="topo-line"><span class="topo-outside">DTAAAIRAELAKMEPFFPSGLKIVYPYDTTPFVKISIHEV</span><span class="topo-membrane">VKTLVEAIILVFLVMYL</span><span class="topo-inside">FLQ</span></span>
-<span class="topo-line"><span class="topo-inside">NFRAT</span><span class="topo-membrane">LIPTIAVPVVLLGTFAVL</span><span class="topo-outside">AAFGFSINTLTMFG</span><span class="topo-membrane">MVLAIGLLVDDAIVV</span><span class="topo-inside">VENVERVM</span></span>
-<span class="topo-line"><span class="topo-inside">AEEGLPPKEATRKSMGQIQG</span><span class="topo-membrane">ALVGIAMVLSAVFVPM</span><span class="topo-outside">AFFGGSTGAIYRQFS</span><span class="topo-membrane">ITIVSAMAL</span></span>
-<span class="topo-line"><span class="topo-membrane">SVLVALILT</span><span class="topo-inside">PALCATMLKPIAK</span><span class="topo-unknown">GDHGEGK</span><span class="topo-inside">KGFFGW</span><span class="topo-unknown">FNRMFEKSTHHYTDSVGGILR</span><span class="topo-inside">STGR</span></span>
-<span class="topo-line"><span class="topo-inside">Y</span><span class="topo-membrane">LVLYLIIVVGMAYLF</span><span class="topo-outside">VRLPSSFLPDEDQGVFMTMVQLPAGATQERTQKVLNEVTHYYLT</span></span>
-<span class="topo-line"><span class="topo-outside">KEKNNVESVFAVNGFGFAGRGQNTGIAFVSLKDWADRPGEENKVEAITMRATRAFSQIKD</span></span>
-<span class="topo-line"><span class="topo-outside">AMVFAFNLPAIVE</span><span class="topo-unknown">LGTATG</span><span class="topo-outside">FDFELIDQAGLGHEKLTQARNQLLAEAAKHPDM</span><span class="topo-unknown">LTS</span><span class="topo-outside">VRPNG</span></span>
-<span class="topo-line"><span class="topo-outside">LEDTPQFKIDIDQEKAQALGVSINDINTTLGAAWGGSYVNDFIDRGRVKKVYVMSEAKYR</span></span>
-<span class="topo-line"><span class="topo-outside">MLPDDIGDWYVRAADGQMVPFSAFSSSRWEYGSPRLERYNGLPSMEILGQAAPGKSTGEA</span></span>
-<span class="topo-line"><span class="topo-outside">MELMEQLASKLPTGVGYDWTGMSYQERLSGNQAPSL</span><span class="topo-membrane">YAISLIVVFLCLAAL</span><span class="topo-inside">YES</span><span class="topo-membrane">WSIPFS</span></span>
-<span class="topo-line"><span class="topo-membrane">VMLVVPLGVIGALLAATF</span><span class="topo-outside">RGLTNDVYFQV</span><span class="topo-membrane">GLLTTIGLSAKNAIL</span><span class="topo-inside">IVEFAKDLMDKEGKG</span><span class="topo-unknown">L</span></span>
-<span class="topo-line"><span class="topo-unknown">IEATLDAVRM</span><span class="topo-inside">RLRP</span><span class="topo-membrane">ILMTSLAFILGVMPLVI</span><span class="topo-outside">STGAGSGAQNAV</span><span class="topo-membrane">GTGVMGGMVTATVLAIF</span></span>
-<span class="topo-line"><span class="topo-membrane">FV</span><span class="topo-unknown">PVFFVVVR</span><span class="topo-inside">RRFSRK</span><span class="topo-unknown">NEDIEHSHTVDHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">MPNFFIDRPI</span><span class="topo-membrane">FAWVIAIIIMLAGGLA</span><span class="topo-outside">ILKLPVAQYPTIAPPAVTISASYPGADAKTVQDTVTQVIEQNMNGIDNLMYMSSNSDSTGTVQITLTFESGTDADIAQVQVQNKLQLAMPLLPQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">EVQQQGVSVEKSSSSFLMVVGVINTDGTMTQEDISDYVAANMKDAISRTSGVGDVQLFGSQYAMRIWMNPNELNKFQLTPVDVITAIKAQNAQVAAGQLGGTPPVKGQQLNASIIAQTRL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">TSTEEFGKILLKVNQDGSRVLLRDVAKIELGGENYDIIAEFNGQPASGLGIKLA</span><span class="topo-unknown">TG</span><span class="topo-outside">ANALDTAAAIRAELAKMEPFFPSGLKIVYPYDTTPFVKISIHEV</span><span class="topo-membrane">VKTLVEAIILVFLVMYL</span><span class="topo-inside">FLQ</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">NFRAT</span><span class="topo-membrane">LIPTIAVPVVLLGTFAVL</span><span class="topo-outside">AAFGFSINTLTMFG</span><span class="topo-membrane">MVLAIGLLVDDAIVV</span><span class="topo-inside">VENVERVMAEEGLPPKEATRKSMGQIQG</span><span class="topo-membrane">ALVGIAMVLSAVFVPM</span><span class="topo-outside">AFFGGSTGAIYRQFS</span><span class="topo-membrane">ITIVSAMAL</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-membrane">SVLVALILT</span><span class="topo-inside">PALCATMLKPIAK</span><span class="topo-unknown">GDHGEGK</span><span class="topo-inside">KGFFGW</span><span class="topo-unknown">FNRMFEKSTHHYTDSVGGILR</span><span class="topo-inside">STGRY</span><span class="topo-membrane">LVLYLIIVVGMAYLF</span><span class="topo-outside">VRLPSSFLPDEDQGVFMTMVQLPAGATQERTQKVLNEVTHYYLT</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-outside">KEKNNVESVFAVNGFGFAGRGQNTGIAFVSLKDWADRPGEENKVEAITMRATRAFSQIKDAMVFAFNLPAIVE</span><span class="topo-unknown">LGTATG</span><span class="topo-outside">FDFELIDQAGLGHEKLTQARNQLLAEAAKHPDM</span><span class="topo-unknown">LTS</span><span class="topo-outside">VRPNG</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820       830       840</span>
+<span class="topo-line"><span class="topo-outside">LEDTPQFKIDIDQEKAQALGVSINDINTTLGAAWGGSYVNDFIDRGRVKKVYVMSEAKYRMLPDDIGDWYVRAADGQMVPFSAFSSSRWEYGSPRLERYNGLPSMEILGQAAPGKSTGEA</span></span>
+<span class="topo-ruler">       850       860       870       880       890       900       910       920       930       940       950       960</span>
+<span class="topo-line"><span class="topo-outside">MELMEQLASKLPTGVGYDWTGMSYQERLSGNQAPSL</span><span class="topo-membrane">YAISLIVVFLCLAAL</span><span class="topo-inside">YES</span><span class="topo-membrane">WSIPFSVMLVVPLGVIGALLAATF</span><span class="topo-outside">RGLTNDVYFQV</span><span class="topo-membrane">GLLTTIGLSAKNAIL</span><span class="topo-inside">IVEFAKDLMDKEGKG</span><span class="topo-unknown">L</span></span>
+<span class="topo-ruler">       970       980       990      1000      1010      1020      1030      1040         </span>
+<span class="topo-line"><span class="topo-unknown">IEATLDAVRM</span><span class="topo-inside">RLRP</span><span class="topo-membrane">ILMTSLAFILGVMPLVI</span><span class="topo-outside">STGAGSGAQNAV</span><span class="topo-membrane">GTGVMGGMVTATVLAIFFV</span><span class="topo-unknown">PVFFVVVR</span><span class="topo-inside">RRFSRK</span><span class="topo-unknown">NEDIEHSHTVDHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (39 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -451,6 +452,7 @@ YajC is a single transmembrane (TM) protein from Escherichia coli that associate
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -466,7 +468,9 @@ YajC is a single transmembrane (TM) protein from Escherichia coli that associate
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30       </span>
 <span class="topo-line"><span class="topo-outside">SP</span><span class="topo-membrane">MSLILMLVVFGLIFYFMILRPQQK</span><span class="topo-inside">RTKEHKKLMDS</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -499,6 +503,7 @@ YajC is a single transmembrane (TM) protein from Escherichia coli that associate
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -514,24 +519,25 @@ YajC is a single transmembrane (TM) protein from Escherichia coli that associate
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MPNFFIDRPI</span><span class="topo-membrane">FAWVIAIIIMLAGGLA</span><span class="topo-outside">ILKLPVAQYPTIAPPAVTISASYPGADAKTVQDT</span></span>
-<span class="topo-line"><span class="topo-outside">VTQVIEQNMNGIDNLMYMSSNSDSTGTVQITLTFESGTDADIAQVQVQNKLQLAMPLLPQ</span></span>
-<span class="topo-line"><span class="topo-outside">EVQQQGVSVEKSSSSFLMVVGVINTDGTMTQEDISDYVAANMKDAISRTSGVGDVQLFGS</span></span>
-<span class="topo-line"><span class="topo-outside">QYAMRIWMNPNELNKFQLTPVDVITAIKAQNAQVAAGQLGGTPPVKGQQLNASIIAQTRL</span></span>
-<span class="topo-line"><span class="topo-outside">TSTEEFGKILLKVNQDGSRVLLRDVAKIELGGENYDIIAEFNGQPASGLGIKLA</span><span class="topo-unknown">TG</span><span class="topo-outside">ANAL</span></span>
-<span class="topo-line"><span class="topo-outside">DTAAAIRAELAKMEPFFPSGLKIVYPYDTTPFVKISIHEV</span><span class="topo-membrane">VKTLVEAIILVFLVMYL</span><span class="topo-inside">FLQ</span></span>
-<span class="topo-line"><span class="topo-inside">NFRAT</span><span class="topo-membrane">LIPTIAVPVVLLGTFAVL</span><span class="topo-outside">AAFGFSINTLTMFG</span><span class="topo-membrane">MVLAIGLLVDDAIVV</span><span class="topo-inside">VENVERVM</span></span>
-<span class="topo-line"><span class="topo-inside">AEEGLPPKEATRKSMGQIQG</span><span class="topo-membrane">ALVGIAMVLSAVFVPM</span><span class="topo-outside">AFFGGSTGAIYRQFS</span><span class="topo-membrane">ITIVSAMAL</span></span>
-<span class="topo-line"><span class="topo-membrane">SVLVALILT</span><span class="topo-inside">PALCATMLKPIAK</span><span class="topo-unknown">GDHGEGK</span><span class="topo-inside">KGFFGW</span><span class="topo-unknown">FNRMFEKSTHHYTDSVGGILR</span><span class="topo-inside">STGR</span></span>
-<span class="topo-line"><span class="topo-inside">Y</span><span class="topo-membrane">LVLYLIIVVGMAYLF</span><span class="topo-outside">VRLPSSFLPDEDQGVFMTMVQLPAGATQERTQKVLNEVTHYYLT</span></span>
-<span class="topo-line"><span class="topo-outside">KEKNNVESVFAVNGFGFAGRGQNTGIAFVSLKDWADRPGEENKVEAITMRATRAFSQIKD</span></span>
-<span class="topo-line"><span class="topo-outside">AMVFAFNLPAIVE</span><span class="topo-unknown">LGTATG</span><span class="topo-outside">FDFELIDQAGLGHEKLTQARNQLLAEAAKHPDM</span><span class="topo-unknown">LTS</span><span class="topo-outside">VRPNG</span></span>
-<span class="topo-line"><span class="topo-outside">LEDTPQFKIDIDQEKAQALGVSINDINTTLGAAWGGSYVNDFIDRGRVKKVYVMSEAKYR</span></span>
-<span class="topo-line"><span class="topo-outside">MLPDDIGDWYVRAADGQMVPFSAFSSSRWEYGSPRLERYNGLPSMEILGQAAPGKSTGEA</span></span>
-<span class="topo-line"><span class="topo-outside">MELMEQLASKLPTGVGYDWTGMSYQERLSGNQAPSL</span><span class="topo-membrane">YAISLIVVFLCLAAL</span><span class="topo-inside">YES</span><span class="topo-membrane">WSIPFS</span></span>
-<span class="topo-line"><span class="topo-membrane">VMLVVPLGVIGALLAATF</span><span class="topo-outside">RGLTNDVYFQV</span><span class="topo-membrane">GLLTTIGLSAKNAIL</span><span class="topo-inside">IVEFAKDLMDKEGKG</span><span class="topo-unknown">L</span></span>
-<span class="topo-line"><span class="topo-unknown">IEATLDAVRM</span><span class="topo-inside">RLRP</span><span class="topo-membrane">ILMTSLAFILGVMPLVI</span><span class="topo-outside">STGAGSGAQNAV</span><span class="topo-membrane">GTGVMGGMVTATVLAIF</span></span>
-<span class="topo-line"><span class="topo-membrane">FV</span><span class="topo-unknown">PVFFVVVR</span><span class="topo-inside">RRFSRK</span><span class="topo-unknown">NEDIEHSHTVDHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">MPNFFIDRPI</span><span class="topo-membrane">FAWVIAIIIMLAGGLA</span><span class="topo-outside">ILKLPVAQYPTIAPPAVTISASYPGADAKTVQDTVTQVIEQNMNGIDNLMYMSSNSDSTGTVQITLTFESGTDADIAQVQVQNKLQLAMPLLPQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">EVQQQGVSVEKSSSSFLMVVGVINTDGTMTQEDISDYVAANMKDAISRTSGVGDVQLFGSQYAMRIWMNPNELNKFQLTPVDVITAIKAQNAQVAAGQLGGTPPVKGQQLNASIIAQTRL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">TSTEEFGKILLKVNQDGSRVLLRDVAKIELGGENYDIIAEFNGQPASGLGIKLA</span><span class="topo-unknown">TG</span><span class="topo-outside">ANALDTAAAIRAELAKMEPFFPSGLKIVYPYDTTPFVKISIHEV</span><span class="topo-membrane">VKTLVEAIILVFLVMYL</span><span class="topo-inside">FLQ</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">NFRAT</span><span class="topo-membrane">LIPTIAVPVVLLGTFAVL</span><span class="topo-outside">AAFGFSINTLTMFG</span><span class="topo-membrane">MVLAIGLLVDDAIVV</span><span class="topo-inside">VENVERVMAEEGLPPKEATRKSMGQIQG</span><span class="topo-membrane">ALVGIAMVLSAVFVPM</span><span class="topo-outside">AFFGGSTGAIYRQFS</span><span class="topo-membrane">ITIVSAMAL</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-membrane">SVLVALILT</span><span class="topo-inside">PALCATMLKPIAK</span><span class="topo-unknown">GDHGEGK</span><span class="topo-inside">KGFFGW</span><span class="topo-unknown">FNRMFEKSTHHYTDSVGGILR</span><span class="topo-inside">STGRY</span><span class="topo-membrane">LVLYLIIVVGMAYLF</span><span class="topo-outside">VRLPSSFLPDEDQGVFMTMVQLPAGATQERTQKVLNEVTHYYLT</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-outside">KEKNNVESVFAVNGFGFAGRGQNTGIAFVSLKDWADRPGEENKVEAITMRATRAFSQIKDAMVFAFNLPAIVE</span><span class="topo-unknown">LGTATG</span><span class="topo-outside">FDFELIDQAGLGHEKLTQARNQLLAEAAKHPDM</span><span class="topo-unknown">LTS</span><span class="topo-outside">VRPNG</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820       830       840</span>
+<span class="topo-line"><span class="topo-outside">LEDTPQFKIDIDQEKAQALGVSINDINTTLGAAWGGSYVNDFIDRGRVKKVYVMSEAKYRMLPDDIGDWYVRAADGQMVPFSAFSSSRWEYGSPRLERYNGLPSMEILGQAAPGKSTGEA</span></span>
+<span class="topo-ruler">       850       860       870       880       890       900       910       920       930       940       950       960</span>
+<span class="topo-line"><span class="topo-outside">MELMEQLASKLPTGVGYDWTGMSYQERLSGNQAPSL</span><span class="topo-membrane">YAISLIVVFLCLAAL</span><span class="topo-inside">YES</span><span class="topo-membrane">WSIPFSVMLVVPLGVIGALLAATF</span><span class="topo-outside">RGLTNDVYFQV</span><span class="topo-membrane">GLLTTIGLSAKNAIL</span><span class="topo-inside">IVEFAKDLMDKEGKG</span><span class="topo-unknown">L</span></span>
+<span class="topo-ruler">       970       980       990      1000      1010      1020      1030      1040         </span>
+<span class="topo-line"><span class="topo-unknown">IEATLDAVRM</span><span class="topo-inside">RLRP</span><span class="topo-membrane">ILMTSLAFILGVMPLVI</span><span class="topo-outside">STGAGSGAQNAV</span><span class="topo-membrane">GTGVMGGMVTATVLAIFFV</span><span class="topo-unknown">PVFFVVVR</span><span class="topo-inside">RRFSRK</span><span class="topo-unknown">NEDIEHSHTVDHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (39 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -816,6 +822,7 @@ YajC is a single transmembrane (TM) protein from Escherichia coli that associate
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -831,7 +838,9 @@ YajC is a single transmembrane (TM) protein from Escherichia coli that associate
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30       </span>
 <span class="topo-line"><span class="topo-outside">SP</span><span class="topo-membrane">MSLILMLVVFGLIFYFMILRPQQK</span><span class="topo-inside">RTKEHKKLMDS</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -864,6 +873,7 @@ YajC is a single transmembrane (TM) protein from Escherichia coli that associate
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -879,24 +889,25 @@ YajC is a single transmembrane (TM) protein from Escherichia coli that associate
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MPNFFIDRPI</span><span class="topo-membrane">FAWVIAIIIMLAGGLA</span><span class="topo-outside">ILKLPVAQYPTIAPPAVTISASYPGADAKTVQDT</span></span>
-<span class="topo-line"><span class="topo-outside">VTQVIEQNMNGIDNLMYMSSNSDSTGTVQITLTFESGTDADIAQVQVQNKLQLAMPLLPQ</span></span>
-<span class="topo-line"><span class="topo-outside">EVQQQGVSVEKSSSSFLMVVGVINTDGTMTQEDISDYVAANMKDAISRTSGVGDVQLFGS</span></span>
-<span class="topo-line"><span class="topo-outside">QYAMRIWMNPNELNKFQLTPVDVITAIKAQNAQVAAGQLGGTPPVKGQQLNASIIAQTRL</span></span>
-<span class="topo-line"><span class="topo-outside">TSTEEFGKILLKVNQDGSRVLLRDVAKIELGGENYDIIAEFNGQPASGLGIKLA</span><span class="topo-unknown">TG</span><span class="topo-outside">ANAL</span></span>
-<span class="topo-line"><span class="topo-outside">DTAAAIRAELAKMEPFFPSGLKIVYPYDTTPFVKISIHEV</span><span class="topo-membrane">VKTLVEAIILVFLVMYL</span><span class="topo-inside">FLQ</span></span>
-<span class="topo-line"><span class="topo-inside">NFRAT</span><span class="topo-membrane">LIPTIAVPVVLLGTFAVL</span><span class="topo-outside">AAFGFSINTLTMFG</span><span class="topo-membrane">MVLAIGLLVDDAIVV</span><span class="topo-inside">VENVERVM</span></span>
-<span class="topo-line"><span class="topo-inside">AEEGLPPKEATRKSMGQIQG</span><span class="topo-membrane">ALVGIAMVLSAVFVPM</span><span class="topo-outside">AFFGGSTGAIYRQFS</span><span class="topo-membrane">ITIVSAMAL</span></span>
-<span class="topo-line"><span class="topo-membrane">SVLVALILT</span><span class="topo-inside">PALCATMLKPIAK</span><span class="topo-unknown">GDHGEGK</span><span class="topo-inside">KGFFGW</span><span class="topo-unknown">FNRMFEKSTHHYTDSVGGILR</span><span class="topo-inside">STGR</span></span>
-<span class="topo-line"><span class="topo-inside">Y</span><span class="topo-membrane">LVLYLIIVVGMAYLF</span><span class="topo-outside">VRLPSSFLPDEDQGVFMTMVQLPAGATQERTQKVLNEVTHYYLT</span></span>
-<span class="topo-line"><span class="topo-outside">KEKNNVESVFAVNGFGFAGRGQNTGIAFVSLKDWADRPGEENKVEAITMRATRAFSQIKD</span></span>
-<span class="topo-line"><span class="topo-outside">AMVFAFNLPAIVE</span><span class="topo-unknown">LGTATG</span><span class="topo-outside">FDFELIDQAGLGHEKLTQARNQLLAEAAKHPDM</span><span class="topo-unknown">LTS</span><span class="topo-outside">VRPNG</span></span>
-<span class="topo-line"><span class="topo-outside">LEDTPQFKIDIDQEKAQALGVSINDINTTLGAAWGGSYVNDFIDRGRVKKVYVMSEAKYR</span></span>
-<span class="topo-line"><span class="topo-outside">MLPDDIGDWYVRAADGQMVPFSAFSSSRWEYGSPRLERYNGLPSMEILGQAAPGKSTGEA</span></span>
-<span class="topo-line"><span class="topo-outside">MELMEQLASKLPTGVGYDWTGMSYQERLSGNQAPSL</span><span class="topo-membrane">YAISLIVVFLCLAAL</span><span class="topo-inside">YES</span><span class="topo-membrane">WSIPFS</span></span>
-<span class="topo-line"><span class="topo-membrane">VMLVVPLGVIGALLAATF</span><span class="topo-outside">RGLTNDVYFQV</span><span class="topo-membrane">GLLTTIGLSAKNAIL</span><span class="topo-inside">IVEFAKDLMDKEGKG</span><span class="topo-unknown">L</span></span>
-<span class="topo-line"><span class="topo-unknown">IEATLDAVRM</span><span class="topo-inside">RLRP</span><span class="topo-membrane">ILMTSLAFILGVMPLVI</span><span class="topo-outside">STGAGSGAQNAV</span><span class="topo-membrane">GTGVMGGMVTATVLAIF</span></span>
-<span class="topo-line"><span class="topo-membrane">FV</span><span class="topo-unknown">PVFFVVVR</span><span class="topo-inside">RRFSRK</span><span class="topo-unknown">NEDIEHSHTVDHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">MPNFFIDRPI</span><span class="topo-membrane">FAWVIAIIIMLAGGLA</span><span class="topo-outside">ILKLPVAQYPTIAPPAVTISASYPGADAKTVQDTVTQVIEQNMNGIDNLMYMSSNSDSTGTVQITLTFESGTDADIAQVQVQNKLQLAMPLLPQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">EVQQQGVSVEKSSSSFLMVVGVINTDGTMTQEDISDYVAANMKDAISRTSGVGDVQLFGSQYAMRIWMNPNELNKFQLTPVDVITAIKAQNAQVAAGQLGGTPPVKGQQLNASIIAQTRL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">TSTEEFGKILLKVNQDGSRVLLRDVAKIELGGENYDIIAEFNGQPASGLGIKLA</span><span class="topo-unknown">TG</span><span class="topo-outside">ANALDTAAAIRAELAKMEPFFPSGLKIVYPYDTTPFVKISIHEV</span><span class="topo-membrane">VKTLVEAIILVFLVMYL</span><span class="topo-inside">FLQ</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">NFRAT</span><span class="topo-membrane">LIPTIAVPVVLLGTFAVL</span><span class="topo-outside">AAFGFSINTLTMFG</span><span class="topo-membrane">MVLAIGLLVDDAIVV</span><span class="topo-inside">VENVERVMAEEGLPPKEATRKSMGQIQG</span><span class="topo-membrane">ALVGIAMVLSAVFVPM</span><span class="topo-outside">AFFGGSTGAIYRQFS</span><span class="topo-membrane">ITIVSAMAL</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-membrane">SVLVALILT</span><span class="topo-inside">PALCATMLKPIAK</span><span class="topo-unknown">GDHGEGK</span><span class="topo-inside">KGFFGW</span><span class="topo-unknown">FNRMFEKSTHHYTDSVGGILR</span><span class="topo-inside">STGRY</span><span class="topo-membrane">LVLYLIIVVGMAYLF</span><span class="topo-outside">VRLPSSFLPDEDQGVFMTMVQLPAGATQERTQKVLNEVTHYYLT</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-outside">KEKNNVESVFAVNGFGFAGRGQNTGIAFVSLKDWADRPGEENKVEAITMRATRAFSQIKDAMVFAFNLPAIVE</span><span class="topo-unknown">LGTATG</span><span class="topo-outside">FDFELIDQAGLGHEKLTQARNQLLAEAAKHPDM</span><span class="topo-unknown">LTS</span><span class="topo-outside">VRPNG</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820       830       840</span>
+<span class="topo-line"><span class="topo-outside">LEDTPQFKIDIDQEKAQALGVSINDINTTLGAAWGGSYVNDFIDRGRVKKVYVMSEAKYRMLPDDIGDWYVRAADGQMVPFSAFSSSRWEYGSPRLERYNGLPSMEILGQAAPGKSTGEA</span></span>
+<span class="topo-ruler">       850       860       870       880       890       900       910       920       930       940       950       960</span>
+<span class="topo-line"><span class="topo-outside">MELMEQLASKLPTGVGYDWTGMSYQERLSGNQAPSL</span><span class="topo-membrane">YAISLIVVFLCLAAL</span><span class="topo-inside">YES</span><span class="topo-membrane">WSIPFSVMLVVPLGVIGALLAATF</span><span class="topo-outside">RGLTNDVYFQV</span><span class="topo-membrane">GLLTTIGLSAKNAIL</span><span class="topo-inside">IVEFAKDLMDKEGKG</span><span class="topo-unknown">L</span></span>
+<span class="topo-ruler">       970       980       990      1000      1010      1020      1030      1040         </span>
+<span class="topo-line"><span class="topo-unknown">IEATLDAVRM</span><span class="topo-inside">RLRP</span><span class="topo-membrane">ILMTSLAFILGVMPLVI</span><span class="topo-outside">STGAGSGAQNAV</span><span class="topo-membrane">GTGVMGGMVTATVLAIFFV</span><span class="topo-unknown">PVFFVVVR</span><span class="topo-inside">RRFSRK</span><span class="topo-unknown">NEDIEHSHTVDHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (39 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1181,6 +1192,7 @@ YajC is a single transmembrane (TM) protein from Escherichia coli that associate
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1196,7 +1208,9 @@ YajC is a single transmembrane (TM) protein from Escherichia coli that associate
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30       </span>
 <span class="topo-line"><span class="topo-outside">SP</span><span class="topo-membrane">MSLILMLVVFGLIFYFMILRPQQK</span><span class="topo-inside">RTKEHKKLMDS</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1229,6 +1243,7 @@ YajC is a single transmembrane (TM) protein from Escherichia coli that associate
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

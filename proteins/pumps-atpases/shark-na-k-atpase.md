@@ -97,24 +97,25 @@ Na+,K+-ATPase from the shark rectal gland (Squalus acanthias) is a P-type ATPase
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGKGTASDKYEPAATSENATKSKKKGKKDKIDKKRD</span><span class="topo-outside">LDELKKEVSMDDHKLSLDELHNKY</span></span>
-<span class="topo-line"><span class="topo-outside">GTDLTRGLTNARAKEILARDGPNSLTPPPTTPEWIKF</span><span class="topo-membrane">CRQLFGGFSILLWIGAILCFLA</span><span class="topo-inside">Y</span></span>
-<span class="topo-line"><span class="topo-inside">GIQAATEDEPANDN</span><span class="topo-membrane">LYLGVVLSTVVIVTGCFS</span><span class="topo-outside">YYQEAKSSRIMDSFKNMVPQQALVIRDG</span></span>
-<span class="topo-line"><span class="topo-outside">EKSTINAEFVVAGDLVEVKGGDRIPADLRIISAHGCKVDNSSLTGESEPQTRSPEFSSEN</span></span>
-<span class="topo-line"><span class="topo-outside">PLETRNIAFFSTNCVEGTARGVVVYTGDRTVMGRIATLASGLEVGRTPIAIEIEHF</span><span class="topo-membrane">IHII</span></span>
-<span class="topo-line"><span class="topo-membrane">TGVAVFLGVSFFILSL</span><span class="topo-inside">ILGYSWLEA</span><span class="topo-membrane">VIFLIGIIVANVPEGLLAT</span><span class="topo-outside">VTVCLTLTAKRMARKN</span></span>
-<span class="topo-line"><span class="topo-outside">CLVKNLEAVETLGSTSTICSDKTGTLTQNRMTVAHMWFDNQIHEADTTENQSGAAFDKTS</span></span>
-<span class="topo-line"><span class="topo-outside">ATWSALSRIAALCNRAVFQAGQDNVPILKRSVAGDASESALLKCIELCCGSVQGMRDRNP</span></span>
-<span class="topo-line"><span class="topo-outside">KIVEIPFNSTNKYQLSIHENEKSSESRYLLVMKGAPERILDRCSTILLNGAEEPLKEDMK</span></span>
-<span class="topo-line"><span class="topo-outside">EAFQNAYLELGGLGERVLGFCHFALPEDKYNEGYPFDADEPNFPTTDLCFVGLMAMIDPP</span></span>
-<span class="topo-line"><span class="topo-outside">RAAVPDAVGKCRSAGIKVIMVTGDHPITAKAIAKGVGIISEGNETIEDIAARLNIPIGQV</span></span>
-<span class="topo-line"><span class="topo-outside">NPRDAKACVVHGSDLKDLSTEVLDDILHYHTEIVFARTSPQQKLIIVEGCQRQGAIVAVT</span></span>
-<span class="topo-line"><span class="topo-outside">GDGVNDSPALKKADIGVAMGISGSDVSKQAADMILLDDNFASIVTGVEEGRLIFDNLKKS</span></span>
-<span class="topo-line"><span class="topo-membrane">IAYTLTSNIPEITPFLVFII</span><span class="topo-inside">GNVPLP</span><span class="topo-membrane">LGTVTILCIDLGTDMVPAIS</span><span class="topo-outside">LAYEQAESDIMKRQ</span></span>
-<span class="topo-line"><span class="topo-outside">PRNPKTDKLVNERL</span><span class="topo-membrane">ISMAYGQIGMIQALGGFFSY</span><span class="topo-inside">FVILAENGFLPMDLIGKRVRWDDRWI</span></span>
-<span class="topo-line"><span class="topo-inside">SDVEDSFGQQWTYEQRKIVEFTCH</span><span class="topo-membrane">TSFFISIVVVQWADLIIC</span><span class="topo-outside">KTRRNSIFQQGMKNK</span><span class="topo-membrane">ILI</span></span>
-<span class="topo-line"><span class="topo-membrane">FGLFEETALAAFLSYC</span><span class="topo-inside">PGTDVALRMYPLKP</span><span class="topo-membrane">SWWFCAFPYSLIIFLYDEMR</span><span class="topo-outside">RFIIRRSPGG</span></span>
-<span class="topo-line"><span class="topo-outside">WVEQETYY</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGKGTASDKYEPAATSENATKSKKKGKKDKIDKKRD</span><span class="topo-outside">LDELKKEVSMDDHKLSLDELHNKYGTDLTRGLTNARAKEILARDGPNSLTPPPTTPEWIKF</span><span class="topo-membrane">CRQLFGGFSILLWIGAILCFLA</span><span class="topo-inside">Y</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">GIQAATEDEPANDN</span><span class="topo-membrane">LYLGVVLSTVVIVTGCFS</span><span class="topo-outside">YYQEAKSSRIMDSFKNMVPQQALVIRDGEKSTINAEFVVAGDLVEVKGGDRIPADLRIISAHGCKVDNSSLTGESEPQTRSPEFSSEN</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">PLETRNIAFFSTNCVEGTARGVVVYTGDRTVMGRIATLASGLEVGRTPIAIEIEHF</span><span class="topo-membrane">IHIITGVAVFLGVSFFILSL</span><span class="topo-inside">ILGYSWLEA</span><span class="topo-membrane">VIFLIGIIVANVPEGLLAT</span><span class="topo-outside">VTVCLTLTAKRMARKN</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">CLVKNLEAVETLGSTSTICSDKTGTLTQNRMTVAHMWFDNQIHEADTTENQSGAAFDKTSATWSALSRIAALCNRAVFQAGQDNVPILKRSVAGDASESALLKCIELCCGSVQGMRDRNP</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">KIVEIPFNSTNKYQLSIHENEKSSESRYLLVMKGAPERILDRCSTILLNGAEEPLKEDMKEAFQNAYLELGGLGERVLGFCHFALPEDKYNEGYPFDADEPNFPTTDLCFVGLMAMIDPP</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-outside">RAAVPDAVGKCRSAGIKVIMVTGDHPITAKAIAKGVGIISEGNETIEDIAARLNIPIGQVNPRDAKACVVHGSDLKDLSTEVLDDILHYHTEIVFARTSPQQKLIIVEGCQRQGAIVAVT</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820       830       840</span>
+<span class="topo-line"><span class="topo-outside">GDGVNDSPALKKADIGVAMGISGSDVSKQAADMILLDDNFASIVTGVEEGRLIFDNLKKS</span><span class="topo-membrane">IAYTLTSNIPEITPFLVFII</span><span class="topo-inside">GNVPLP</span><span class="topo-membrane">LGTVTILCIDLGTDMVPAIS</span><span class="topo-outside">LAYEQAESDIMKRQ</span></span>
+<span class="topo-ruler">       850       860       870       880       890       900       910       920       930       940       950       960</span>
+<span class="topo-line"><span class="topo-outside">PRNPKTDKLVNERL</span><span class="topo-membrane">ISMAYGQIGMIQALGGFFSY</span><span class="topo-inside">FVILAENGFLPMDLIGKRVRWDDRWISDVEDSFGQQWTYEQRKIVEFTCH</span><span class="topo-membrane">TSFFISIVVVQWADLIIC</span><span class="topo-outside">KTRRNSIFQQGMKNK</span><span class="topo-membrane">ILI</span></span>
+<span class="topo-ruler">       970       980       990      1000      1010      1020        </span>
+<span class="topo-line"><span class="topo-membrane">FGLFEETALAAFLSYC</span><span class="topo-inside">PGTDVALRMYPLKP</span><span class="topo-membrane">SWWFCAFPYSLIIFLYDEMR</span><span class="topo-outside">RFIIRRSPGGWVEQETYY</span></span>
+<details class="topo-details"><summary>Topology coordinates (22 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -280,6 +281,7 @@ Na+,K+-ATPase from the shark rectal gland (Squalus acanthias) is a P-type ATPase
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -295,12 +297,13 @@ Na+,K+-ATPase from the shark rectal gland (Squalus acanthias) is a P-type ATPase
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MARGKSKETDGGWKKFLWDSEKKE</span><span class="topo-outside">FLGRTGSSW</span><span class="topo-membrane">FKIFLFYLIFYGCLAGIFIGTI</span><span class="topo-inside">QVLLL</span></span>
-<span class="topo-line"><span class="topo-inside">TLSDFEPKYQDRVAPPGLSHAPYAIKTEISFSISNPKSYESFVKSMHKLMDLYNESSQAG</span></span>
-<span class="topo-line"><span class="topo-inside">NSPFEDCSDTPADYIKRGDLDDSQGQKKACRFSRMWLKNC</span><span class="topo-unknown">SGLDDTTY</span><span class="topo-inside">GYAEGKPCVVAK</span></span>
-<span class="topo-line"><span class="topo-inside">LNRIIGFYPKPLKNTTDLPEELQANYNQYVLPLRCAA</span><span class="topo-unknown">KREED</span><span class="topo-inside">REKIGSIEYFGLGGYAGF</span></span>
-<span class="topo-line"><span class="topo-inside">PLQYYPYYGKRLQKKYLQPLLAIQFTNLTQNMELRIECKVYGENIDYSEKDRFRGRFEVK</span></span>
-<span class="topo-line"><span class="topo-inside">IEVKS</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MARGKSKETDGGWKKFLWDSEKKE</span><span class="topo-outside">FLGRTGSSW</span><span class="topo-membrane">FKIFLFYLIFYGCLAGIFIGTI</span><span class="topo-inside">QVLLLTLSDFEPKYQDRVAPPGLSHAPYAIKTEISFSISNPKSYESFVKSMHKLMDLYNESSQAG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">NSPFEDCSDTPADYIKRGDLDDSQGQKKACRFSRMWLKNC</span><span class="topo-unknown">SGLDDTTY</span><span class="topo-inside">GYAEGKPCVVAKLNRIIGFYPKPLKNTTDLPEELQANYNQYVLPLRCAA</span><span class="topo-unknown">KREED</span><span class="topo-inside">REKIGSIEYFGLGGYAGF</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300     </span>
+<span class="topo-line"><span class="topo-inside">PLQYYPYYGKRLQKKYLQPLLAIQFTNLTQNMELRIECKVYGENIDYSEKDRFRGRFEVKIEVKS</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -368,6 +371,7 @@ Na+,K+-ATPase from the shark rectal gland (Squalus acanthias) is a P-type ATPase
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -383,8 +387,9 @@ Na+,K+-ATPase from the shark rectal gland (Squalus acanthias) is a P-type ATPase
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MDP</span><span class="topo-inside">EGPDNDERFTYDYYRLRVV</span><span class="topo-membrane">GLIVAAVLCVIGIIILL</span><span class="topo-outside">AGK</span><span class="topo-unknown">CRCKFNQNKRTRSNSGTA</span></span>
-<span class="topo-line"><span class="topo-unknown">TAQHLLQPGEATEC</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70    </span>
+<span class="topo-line"><span class="topo-unknown">MDP</span><span class="topo-inside">EGPDNDERFTYDYYRLRVV</span><span class="topo-membrane">GLIVAAVLCVIGIIILL</span><span class="topo-outside">AGK</span><span class="topo-unknown">CRCKFNQNKRTRSNSGTATAQHLLQPGEATEC</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -431,6 +436,7 @@ Na+,K+-ATPase from the shark rectal gland (Squalus acanthias) is a P-type ATPase
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -446,24 +452,25 @@ Na+,K+-ATPase from the shark rectal gland (Squalus acanthias) is a P-type ATPase
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGKGTASDKYEPAATSENATKSKKKGKKDKIDKKRD</span><span class="topo-outside">LDELKKEVSMDDHKLSLDELHNKY</span></span>
-<span class="topo-line"><span class="topo-outside">GTDLTRGLTNARAKEILARDGPNSLTPPPTTPEWIKFCRQL</span><span class="topo-membrane">FGGFSILLWIGAILCFLAY</span></span>
-<span class="topo-line"><span class="topo-inside">GIQAATEDEPANDN</span><span class="topo-membrane">LYLGVVLSTVVIVTGCF</span><span class="topo-outside">SYYQEAKSSRIMDSFKNMVPQQALVIRDG</span></span>
-<span class="topo-line"><span class="topo-outside">EKSTINAEFVVAGDLVEVKGGDRIPADLRIISAHGCKVDNSSLTGESEPQTRSPEFSSEN</span></span>
-<span class="topo-line"><span class="topo-outside">PLETRNIAFFSTNCVEGTARGVVVYTGDRTVMGRIATLASGLEVGRTPIAIEIEHFIHI</span><span class="topo-membrane">I</span></span>
-<span class="topo-line"><span class="topo-membrane">TGVAVFLGVSFFILSLI</span><span class="topo-inside">LGYSWLEA</span><span class="topo-membrane">VIFLIGIIVANVPEGLLAT</span><span class="topo-outside">VTVCLTLTAKRMARKN</span></span>
-<span class="topo-line"><span class="topo-outside">CLVKNLEAVETLGSTSTICSDKTGTLTQNRMTVAHMWFDNQIHEADTTENQSGAAFDKTS</span></span>
-<span class="topo-line"><span class="topo-outside">ATWSALSRIAALCNRAVFQAGQDNVPILKRSVAGDASESALLKCIELCCGSVQGMRDRNP</span></span>
-<span class="topo-line"><span class="topo-outside">KIVEIPFNSTNKYQLSIHENEKSSESRYLLVMKGAPERILDRCSTILLNGAEEPLKEDMK</span></span>
-<span class="topo-line"><span class="topo-outside">EAFQNAYLELGGLGERVLGFCHFALPEDKYNEGYPFDADEPNFPTTDLCFVGLMAMIDPP</span></span>
-<span class="topo-line"><span class="topo-outside">RAAVPDAVGKCRSAGIKVIMVTGDHPITAKAIAKGVGIISEGNETIEDIAARLNIPIGQV</span></span>
-<span class="topo-line"><span class="topo-outside">NPRDAKACVVHGSDLKDLSTEVLDDILHYHTEIVFARTSPQQKLIIVEGCQRQGAIVAVT</span></span>
-<span class="topo-line"><span class="topo-outside">GDGVNDSPALKKADIGVAMGISGSDVSKQAADMILLDDNFASIVTGVEEGRLIFDNLKKS</span></span>
-<span class="topo-line"><span class="topo-outside">I</span><span class="topo-membrane">AYTLTSNIPEITPFLVFII</span><span class="topo-inside">GNVPLP</span><span class="topo-membrane">LGTVTILCIDLGTDMVPAIS</span><span class="topo-outside">LAYEQAESDIMKRQ</span></span>
-<span class="topo-line"><span class="topo-outside">PRNPKTDKLVNERLI</span><span class="topo-membrane">SMAYGQIGMIQALGGFFS</span><span class="topo-inside">YFVILAENGFLPMDLIGKRVRWDDRWI</span></span>
-<span class="topo-line"><span class="topo-inside">SDVEDSFGQQWTYEQRKIVEFTCH</span><span class="topo-membrane">TSFFISIVVVQWADLIIC</span><span class="topo-outside">KTRRNSIFQQGMKNK</span><span class="topo-membrane">ILI</span></span>
-<span class="topo-line"><span class="topo-membrane">FGLFEETALAAFLS</span><span class="topo-inside">YCPGTDVALRMYPLKPSWW</span><span class="topo-membrane">FCAFPYSLIIFLYDEM</span><span class="topo-outside">RRFIIRRSPGG</span></span>
-<span class="topo-line"><span class="topo-outside">WVEQETYY</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGKGTASDKYEPAATSENATKSKKKGKKDKIDKKRD</span><span class="topo-outside">LDELKKEVSMDDHKLSLDELHNKYGTDLTRGLTNARAKEILARDGPNSLTPPPTTPEWIKFCRQL</span><span class="topo-membrane">FGGFSILLWIGAILCFLAY</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">GIQAATEDEPANDN</span><span class="topo-membrane">LYLGVVLSTVVIVTGCF</span><span class="topo-outside">SYYQEAKSSRIMDSFKNMVPQQALVIRDGEKSTINAEFVVAGDLVEVKGGDRIPADLRIISAHGCKVDNSSLTGESEPQTRSPEFSSEN</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">PLETRNIAFFSTNCVEGTARGVVVYTGDRTVMGRIATLASGLEVGRTPIAIEIEHFIHI</span><span class="topo-membrane">ITGVAVFLGVSFFILSLI</span><span class="topo-inside">LGYSWLEA</span><span class="topo-membrane">VIFLIGIIVANVPEGLLAT</span><span class="topo-outside">VTVCLTLTAKRMARKN</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">CLVKNLEAVETLGSTSTICSDKTGTLTQNRMTVAHMWFDNQIHEADTTENQSGAAFDKTSATWSALSRIAALCNRAVFQAGQDNVPILKRSVAGDASESALLKCIELCCGSVQGMRDRNP</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">KIVEIPFNSTNKYQLSIHENEKSSESRYLLVMKGAPERILDRCSTILLNGAEEPLKEDMKEAFQNAYLELGGLGERVLGFCHFALPEDKYNEGYPFDADEPNFPTTDLCFVGLMAMIDPP</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-outside">RAAVPDAVGKCRSAGIKVIMVTGDHPITAKAIAKGVGIISEGNETIEDIAARLNIPIGQVNPRDAKACVVHGSDLKDLSTEVLDDILHYHTEIVFARTSPQQKLIIVEGCQRQGAIVAVT</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820       830       840</span>
+<span class="topo-line"><span class="topo-outside">GDGVNDSPALKKADIGVAMGISGSDVSKQAADMILLDDNFASIVTGVEEGRLIFDNLKKSI</span><span class="topo-membrane">AYTLTSNIPEITPFLVFII</span><span class="topo-inside">GNVPLP</span><span class="topo-membrane">LGTVTILCIDLGTDMVPAIS</span><span class="topo-outside">LAYEQAESDIMKRQ</span></span>
+<span class="topo-ruler">       850       860       870       880       890       900       910       920       930       940       950       960</span>
+<span class="topo-line"><span class="topo-outside">PRNPKTDKLVNERLI</span><span class="topo-membrane">SMAYGQIGMIQALGGFFS</span><span class="topo-inside">YFVILAENGFLPMDLIGKRVRWDDRWISDVEDSFGQQWTYEQRKIVEFTCH</span><span class="topo-membrane">TSFFISIVVVQWADLIIC</span><span class="topo-outside">KTRRNSIFQQGMKNK</span><span class="topo-membrane">ILI</span></span>
+<span class="topo-ruler">       970       980       990      1000      1010      1020        </span>
+<span class="topo-line"><span class="topo-membrane">FGLFEETALAAFLS</span><span class="topo-inside">YCPGTDVALRMYPLKPSWW</span><span class="topo-membrane">FCAFPYSLIIFLYDEM</span><span class="topo-outside">RRFIIRRSPGGWVEQETYY</span></span>
+<details class="topo-details"><summary>Topology coordinates (22 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -629,6 +636,7 @@ Na+,K+-ATPase from the shark rectal gland (Squalus acanthias) is a P-type ATPase
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -644,12 +652,13 @@ Na+,K+-ATPase from the shark rectal gland (Squalus acanthias) is a P-type ATPase
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MARGKSKETDGGWKKFLWDSEKKEFLG</span><span class="topo-outside">RTGSSWFKI</span><span class="topo-membrane">FLFYLIFYGCLAGIFIGT</span><span class="topo-inside">IQVLLL</span></span>
-<span class="topo-line"><span class="topo-inside">TLSDFEPKYQDRVAPPGLSHAPYAIKTEISFSISNPKSYESFVKSMHKLMDLYNESSQAG</span></span>
-<span class="topo-line"><span class="topo-inside">NSPFEDCSDTPADYIKRGDLDDSQGQKKACRFSRMWLKNC</span><span class="topo-unknown">SGLDDTTY</span><span class="topo-inside">GYAEGKPCVVAK</span></span>
-<span class="topo-line"><span class="topo-inside">LNRIIGFYPKPLKNTTDLPEELQANYNQYVLPLRCAA</span><span class="topo-unknown">KREED</span><span class="topo-inside">REKIGSIEYFGLGGYAGF</span></span>
-<span class="topo-line"><span class="topo-inside">PLQYYPYYGKRLQKKYLQPLLAIQFTNLTQNMELRIECKVYGENIDYSEKDRFRGRFEVK</span></span>
-<span class="topo-line"><span class="topo-inside">IEVKS</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MARGKSKETDGGWKKFLWDSEKKEFLG</span><span class="topo-outside">RTGSSWFKI</span><span class="topo-membrane">FLFYLIFYGCLAGIFIGT</span><span class="topo-inside">IQVLLLTLSDFEPKYQDRVAPPGLSHAPYAIKTEISFSISNPKSYESFVKSMHKLMDLYNESSQAG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">NSPFEDCSDTPADYIKRGDLDDSQGQKKACRFSRMWLKNC</span><span class="topo-unknown">SGLDDTTY</span><span class="topo-inside">GYAEGKPCVVAKLNRIIGFYPKPLKNTTDLPEELQANYNQYVLPLRCAA</span><span class="topo-unknown">KREED</span><span class="topo-inside">REKIGSIEYFGLGGYAGF</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300     </span>
+<span class="topo-line"><span class="topo-inside">PLQYYPYYGKRLQKKYLQPLLAIQFTNLTQNMELRIECKVYGENIDYSEKDRFRGRFEVKIEVKS</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -717,6 +726,7 @@ Na+,K+-ATPase from the shark rectal gland (Squalus acanthias) is a P-type ATPase
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -732,8 +742,9 @@ Na+,K+-ATPase from the shark rectal gland (Squalus acanthias) is a P-type ATPase
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MDP</span><span class="topo-inside">EGPDNDERFTYDYYRLRVVG</span><span class="topo-membrane">LIVAAVLCVIGIIILLA</span><span class="topo-outside">GK</span><span class="topo-unknown">CRCKFNQNKRTRSNSGTA</span></span>
-<span class="topo-line"><span class="topo-unknown">TAQHLLQPGEATEC</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70    </span>
+<span class="topo-line"><span class="topo-unknown">MDP</span><span class="topo-inside">EGPDNDERFTYDYYRLRVVG</span><span class="topo-membrane">LIVAAVLCVIGIIILLA</span><span class="topo-outside">GK</span><span class="topo-unknown">CRCKFNQNKRTRSNSGTATAQHLLQPGEATEC</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -780,6 +791,7 @@ Na+,K+-ATPase from the shark rectal gland (Squalus acanthias) is a P-type ATPase
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -827,24 +839,25 @@ Na+,K+-ATPase from the shark rectal gland (Squalus acanthias) is a P-type ATPase
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGKGTASDKYEPAATSENATKSKKKGKKDKIDKKRD</span><span class="topo-outside">LDELKKEVSMDDHKLSLDELHNKY</span></span>
-<span class="topo-line"><span class="topo-outside">GTDLTRGLTNARAKEILARDGPNSLTPPPTTP</span><span class="topo-unknown">EWIKFC</span><span class="topo-outside">RQLFGG</span><span class="topo-membrane">FSILLWIGAILCFLAY</span></span>
-<span class="topo-line"><span class="topo-membrane">GIQAA</span><span class="topo-inside">TEDEPA</span><span class="topo-membrane">NDNLYLGVVLSTVVIVT</span><span class="topo-outside">GCFSYYQEAKSSRIMDSFKNMVPQQALVIRDG</span></span>
-<span class="topo-line"><span class="topo-outside">EKSTINAEFVVAGDLVEVKGGDRIPADLRIISAHGCKVDNSSLTGESEPQTRSPEFSSEN</span></span>
-<span class="topo-line"><span class="topo-outside">PLETRNIAFFSTNCVEGTARGVVVYTGDRTVMGRIATLASGLEVGRTPIAIEIEHFIHII</span></span>
-<span class="topo-line"><span class="topo-membrane">TGVAVFLGVSFFILSLILGY</span><span class="topo-inside">S</span><span class="topo-membrane">WLEAVIFLIGIIVANVPEGLLAT</span><span class="topo-outside">VTVCLTLTAKRMARKN</span></span>
-<span class="topo-line"><span class="topo-outside">CLVKNLEAVETLGSTSTICSDKTGTLTQNRMTVAHMWFDNQIHEADTTENQSGAAFDKTS</span></span>
-<span class="topo-line"><span class="topo-outside">ATWSALSRIAALCNRAVFQAGQDNVPILKRSVAGDASESALLKCIELCCGSVQGMRDRNP</span></span>
-<span class="topo-line"><span class="topo-outside">KIVEIPFNSTNKYQLSIHENEKSSESRYLLVMKGAPERILDRCSTILLNGAEEPLKEDMK</span></span>
-<span class="topo-line"><span class="topo-outside">EAFQNAYLELGGLGERVLGFCHFALPEDKYNEGYPFDADEPNFPTTDLCFVGLMAMIDPP</span></span>
-<span class="topo-line"><span class="topo-outside">RAAVPDAVGKCRSAGIKVIMVTGDHPITAKAIAKGVGIISEGNETIEDIAARLNIPIGQV</span></span>
-<span class="topo-line"><span class="topo-outside">NPRDAKACVVHGSDLKDLSTEVLDDILHYHTEIVFARTSPQQKLIIVEGCQRQGAIVAVT</span></span>
-<span class="topo-line"><span class="topo-outside">GDGVNDSPALKKADIGVAMGISGSDVSKQAADMILLDDNFASIVTGVEEGRLIFDNLKKS</span></span>
-<span class="topo-line"><span class="topo-membrane">IAYTLTSNIPEITPFLVFIIG</span><span class="topo-inside">NVPL</span><span class="topo-membrane">PLGTVTILCIDLGTDMVPAIS</span><span class="topo-outside">LAYEQAESDIMKRQ</span></span>
-<span class="topo-line"><span class="topo-outside">PRNPKTDKLVNERL</span><span class="topo-membrane">ISMAYGQIGMIQALGGFFSY</span><span class="topo-inside">FVILAENGFLPMDLIGKRVRWDDRWI</span></span>
-<span class="topo-line"><span class="topo-inside">SDVEDSFGQQWTYEQRKIVEFTCH</span><span class="topo-membrane">TSFFISIVVVQWADLIICK</span><span class="topo-outside">TRRNSIFQQGMKNK</span><span class="topo-membrane">ILI</span></span>
-<span class="topo-line"><span class="topo-membrane">FGLFEETALAAFLSYC</span><span class="topo-inside">PGTDVALRMYPLKPSW</span><span class="topo-membrane">WFCAFPYSLIIFLYDEMRRFI</span><span class="topo-outside">IRRSPGG</span></span>
-<span class="topo-line"><span class="topo-unknown">WVEQET</span><span class="topo-outside">YY</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGKGTASDKYEPAATSENATKSKKKGKKDKIDKKRD</span><span class="topo-outside">LDELKKEVSMDDHKLSLDELHNKYGTDLTRGLTNARAKEILARDGPNSLTPPPTTP</span><span class="topo-unknown">EWIKFC</span><span class="topo-outside">RQLFGG</span><span class="topo-membrane">FSILLWIGAILCFLAY</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GIQAA</span><span class="topo-inside">TEDEPA</span><span class="topo-membrane">NDNLYLGVVLSTVVIVT</span><span class="topo-outside">GCFSYYQEAKSSRIMDSFKNMVPQQALVIRDGEKSTINAEFVVAGDLVEVKGGDRIPADLRIISAHGCKVDNSSLTGESEPQTRSPEFSSEN</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">PLETRNIAFFSTNCVEGTARGVVVYTGDRTVMGRIATLASGLEVGRTPIAIEIEHFIHII</span><span class="topo-membrane">TGVAVFLGVSFFILSLILGY</span><span class="topo-inside">S</span><span class="topo-membrane">WLEAVIFLIGIIVANVPEGLLAT</span><span class="topo-outside">VTVCLTLTAKRMARKN</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">CLVKNLEAVETLGSTSTICSDKTGTLTQNRMTVAHMWFDNQIHEADTTENQSGAAFDKTSATWSALSRIAALCNRAVFQAGQDNVPILKRSVAGDASESALLKCIELCCGSVQGMRDRNP</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">KIVEIPFNSTNKYQLSIHENEKSSESRYLLVMKGAPERILDRCSTILLNGAEEPLKEDMKEAFQNAYLELGGLGERVLGFCHFALPEDKYNEGYPFDADEPNFPTTDLCFVGLMAMIDPP</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-outside">RAAVPDAVGKCRSAGIKVIMVTGDHPITAKAIAKGVGIISEGNETIEDIAARLNIPIGQVNPRDAKACVVHGSDLKDLSTEVLDDILHYHTEIVFARTSPQQKLIIVEGCQRQGAIVAVT</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820       830       840</span>
+<span class="topo-line"><span class="topo-outside">GDGVNDSPALKKADIGVAMGISGSDVSKQAADMILLDDNFASIVTGVEEGRLIFDNLKKS</span><span class="topo-membrane">IAYTLTSNIPEITPFLVFIIG</span><span class="topo-inside">NVPL</span><span class="topo-membrane">PLGTVTILCIDLGTDMVPAIS</span><span class="topo-outside">LAYEQAESDIMKRQ</span></span>
+<span class="topo-ruler">       850       860       870       880       890       900       910       920       930       940       950       960</span>
+<span class="topo-line"><span class="topo-outside">PRNPKTDKLVNERL</span><span class="topo-membrane">ISMAYGQIGMIQALGGFFSY</span><span class="topo-inside">FVILAENGFLPMDLIGKRVRWDDRWISDVEDSFGQQWTYEQRKIVEFTCH</span><span class="topo-membrane">TSFFISIVVVQWADLIICK</span><span class="topo-outside">TRRNSIFQQGMKNK</span><span class="topo-membrane">ILI</span></span>
+<span class="topo-ruler">       970       980       990      1000      1010      1020        </span>
+<span class="topo-line"><span class="topo-membrane">FGLFEETALAAFLSYC</span><span class="topo-inside">PGTDVALRMYPLKPSW</span><span class="topo-membrane">WFCAFPYSLIIFLYDEMRRFI</span><span class="topo-outside">IRRSPGG</span><span class="topo-unknown">WVEQET</span><span class="topo-outside">YY</span></span>
+<details class="topo-details"><summary>Topology coordinates (26 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1038,6 +1051,7 @@ Na+,K+-ATPase from the shark rectal gland (Squalus acanthias) is a P-type ATPase
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1053,12 +1067,13 @@ Na+,K+-ATPase from the shark rectal gland (Squalus acanthias) is a P-type ATPase
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MARGKSKETDGGWKKFLWDSEKKEFLG</span><span class="topo-outside">RTGSSW</span><span class="topo-membrane">FKIFLFYLIFYGCLAGIFIGT</span><span class="topo-inside">IQVLLL</span></span>
-<span class="topo-line"><span class="topo-inside">TLSDFEPKYQDRVAPPGLSHAPYAIKTEISFSISNPKSYESFVKSMHKLMDLYNESSQAG</span></span>
-<span class="topo-line"><span class="topo-inside">NSPFEDCSDTPADYIKRGDLDDSQGQKKACRFSRMWLKNC</span><span class="topo-unknown">SGLDDTTY</span><span class="topo-inside">GYAEGKPCVVAK</span></span>
-<span class="topo-line"><span class="topo-inside">LNRIIGFYPKPLKNTTDLPEQLQANYNQYVLPLRCAA</span><span class="topo-unknown">KREED</span><span class="topo-inside">REKIGSIEYFGLGGYAGF</span></span>
-<span class="topo-line"><span class="topo-inside">PLQYYPYYGKRLQKKYLQPLLAIQFTNLTQNMELRIECKVYGENIDYSEKDRFRGRFEVK</span></span>
-<span class="topo-line"><span class="topo-inside">IEVKS</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MARGKSKETDGGWKKFLWDSEKKEFLG</span><span class="topo-outside">RTGSSW</span><span class="topo-membrane">FKIFLFYLIFYGCLAGIFIGT</span><span class="topo-inside">IQVLLLTLSDFEPKYQDRVAPPGLSHAPYAIKTEISFSISNPKSYESFVKSMHKLMDLYNESSQAG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">NSPFEDCSDTPADYIKRGDLDDSQGQKKACRFSRMWLKNC</span><span class="topo-unknown">SGLDDTTY</span><span class="topo-inside">GYAEGKPCVVAKLNRIIGFYPKPLKNTTDLPEQLQANYNQYVLPLRCAA</span><span class="topo-unknown">KREED</span><span class="topo-inside">REKIGSIEYFGLGGYAGF</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300     </span>
+<span class="topo-line"><span class="topo-inside">PLQYYPYYGKRLQKKYLQPLLAIQFTNLTQNMELRIECKVYGENIDYSEKDRFRGRFEVKIEVKS</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1126,6 +1141,7 @@ Na+,K+-ATPase from the shark rectal gland (Squalus acanthias) is a P-type ATPase
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1141,8 +1157,9 @@ Na+,K+-ATPase from the shark rectal gland (Squalus acanthias) is a P-type ATPase
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MDPE</span><span class="topo-inside">GPDNDERFTYDYYRLRVV</span><span class="topo-membrane">GLIVAAVLCVIGIIILLA</span><span class="topo-outside">GK</span><span class="topo-unknown">CRCKFNQNKRTRSNSGTA</span></span>
-<span class="topo-line"><span class="topo-unknown">TAQHLLQPGEATEC</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70    </span>
+<span class="topo-line"><span class="topo-unknown">MDPE</span><span class="topo-inside">GPDNDERFTYDYYRLRVV</span><span class="topo-membrane">GLIVAAVLCVIGIIILLA</span><span class="topo-outside">GK</span><span class="topo-unknown">CRCKFNQNKRTRSNSGTATAQHLLQPGEATEC</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1189,6 +1206,7 @@ Na+,K+-ATPase from the shark rectal gland (Squalus acanthias) is a P-type ATPase
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1278,23 +1296,25 @@ Na+,K+-ATPase from the shark rectal gland (Squalus acanthias) is a P-type ATPase
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GRDKYEPAAVSEHGDKKKAK</span><span class="topo-outside">KERDMDELKKEVSMDDHKLSLDELHRKYGTDLSRGLTPAR</span></span>
-<span class="topo-line"><span class="topo-outside">AAEILARDGPNALTPPPTTPEWVKF</span><span class="topo-membrane">CRQLFGGFSMLLWIGAILCFLAYGI</span><span class="topo-inside">QAATEEEPQN</span></span>
-<span class="topo-line"><span class="topo-membrane">DNLYLGVVLSAVVIITGCFSYY</span><span class="topo-outside">QEAKSSKIMESFKNMVPQQALVIRNGEKMSINAEEVVV</span></span>
-<span class="topo-line"><span class="topo-outside">GDLVEVKGGDRIPADLRIISANGCKVDNSSLTGESEPQTRSPDFTNENPLETRNIAFFST</span></span>
-<span class="topo-line"><span class="topo-outside">NCVEGTARGIVVYTGDRTVMGRIATLASGLEGGQTPIAAEI</span><span class="topo-membrane">EHFIHIITGVAVFLGVSFF</span></span>
-<span class="topo-line"><span class="topo-membrane">ILSL</span><span class="topo-inside">ILEYTWLEA</span><span class="topo-membrane">VIFLIGIIVANVPEGLLATVTVC</span><span class="topo-outside">LTLTAKRMARKNCLVKNLEAVETL</span></span>
-<span class="topo-line"><span class="topo-outside">GSTSTICSDKTGTLTQNRMTVAHMWSDNQIHEADTTENQSGVSFDKTSATWLALSRIAGL</span></span>
-<span class="topo-line"><span class="topo-outside">CNRAVFQANQENLPILKRAVAGDASESALLKCIELCCGSVKEMRERYTKIVEIPFNSTNK</span></span>
-<span class="topo-line"><span class="topo-outside">YQLSIHKNPNTAEPRHLLVMKGAPERILDRCSSILIHGKEQPLDEELKDAFQNAYLELGG</span></span>
-<span class="topo-line"><span class="topo-outside">LGERVLGFCHLFLPDEQFPEGFQFDTDDVNFPLDNLCFVGLISMIDPPRAAVPDAVGKCR</span></span>
-<span class="topo-line"><span class="topo-outside">SAGIKVIMVTGDHPITAKAIAKGVGIISEGNETVEDIAARLNIPVSQVNPRDAKACVVHG</span></span>
-<span class="topo-line"><span class="topo-outside">SDLKDMTSEQLDDILKYHTEIVFARTSPQQKLIIVEGCQRQGAIVAVTGDGVNDSPASKK</span></span>
-<span class="topo-line"><span class="topo-outside">ADIGVAMGIAGSDVSKQAADMILLDDNFASIVTGVEEGRLIFDNLK</span><span class="topo-membrane">KSIAYTLTSNIPEI</span></span>
-<span class="topo-line"><span class="topo-membrane">TPFLIFII</span><span class="topo-inside">ANIPLP</span><span class="topo-membrane">LGTVTILCIDLGTDMVPAISL</span><span class="topo-outside">AYEQAESDIMKRQPRNPKTDKLV</span><span class="topo-membrane">NE</span></span>
-<span class="topo-line"><span class="topo-membrane">QLISMAYGQIGMIQALGGFFTY</span><span class="topo-inside">FVILAENGFLPIHLLGLRVNWDDRWINDVEDSYGQQWT</span></span>
-<span class="topo-line"><span class="topo-inside">YEQRKIVEFTCH</span><span class="topo-membrane">TPFFVTIVVVQWADLVICK</span><span class="topo-outside">TRRNSVFQQGMKNK</span><span class="topo-membrane">ILIFGLFEETALAAF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GRDKYEPAAVSEHGDKKKAK</span><span class="topo-outside">KERDMDELKKEVSMDDHKLSLDELHRKYGTDLSRGLTPARAAEILARDGPNALTPPPTTPEWVKF</span><span class="topo-membrane">CRQLFGGFSMLLWIGAILCFLAYGI</span><span class="topo-inside">QAATEEEPQN</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">DNLYLGVVLSAVVIITGCFSYY</span><span class="topo-outside">QEAKSSKIMESFKNMVPQQALVIRNGEKMSINAEEVVVGDLVEVKGGDRIPADLRIISANGCKVDNSSLTGESEPQTRSPDFTNENPLETRNIAFFST</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">NCVEGTARGIVVYTGDRTVMGRIATLASGLEGGQTPIAAEI</span><span class="topo-membrane">EHFIHIITGVAVFLGVSFFILSL</span><span class="topo-inside">ILEYTWLEA</span><span class="topo-membrane">VIFLIGIIVANVPEGLLATVTVC</span><span class="topo-outside">LTLTAKRMARKNCLVKNLEAVETL</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">GSTSTICSDKTGTLTQNRMTVAHMWSDNQIHEADTTENQSGVSFDKTSATWLALSRIAGLCNRAVFQANQENLPILKRAVAGDASESALLKCIELCCGSVKEMRERYTKIVEIPFNSTNK</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">YQLSIHKNPNTAEPRHLLVMKGAPERILDRCSSILIHGKEQPLDEELKDAFQNAYLELGGLGERVLGFCHLFLPDEQFPEGFQFDTDDVNFPLDNLCFVGLISMIDPPRAAVPDAVGKCR</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-outside">SAGIKVIMVTGDHPITAKAIAKGVGIISEGNETVEDIAARLNIPVSQVNPRDAKACVVHGSDLKDMTSEQLDDILKYHTEIVFARTSPQQKLIIVEGCQRQGAIVAVTGDGVNDSPASKK</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820       830       840</span>
+<span class="topo-line"><span class="topo-outside">ADIGVAMGIAGSDVSKQAADMILLDDNFASIVTGVEEGRLIFDNLK</span><span class="topo-membrane">KSIAYTLTSNIPEITPFLIFII</span><span class="topo-inside">ANIPLP</span><span class="topo-membrane">LGTVTILCIDLGTDMVPAISL</span><span class="topo-outside">AYEQAESDIMKRQPRNPKTDKLV</span><span class="topo-membrane">NE</span></span>
+<span class="topo-ruler">       850       860       870       880       890       900       910       920       930       940       950       960</span>
+<span class="topo-line"><span class="topo-membrane">QLISMAYGQIGMIQALGGFFTY</span><span class="topo-inside">FVILAENGFLPIHLLGLRVNWDDRWINDVEDSYGQQWTYEQRKIVEFTCH</span><span class="topo-membrane">TPFFVTIVVVQWADLVICK</span><span class="topo-outside">TRRNSVFQQGMKNK</span><span class="topo-membrane">ILIFGLFEETALAAF</span></span>
+<span class="topo-ruler">       970       980       990      1000      1010      </span>
 <span class="topo-line"><span class="topo-membrane">LSYCP</span><span class="topo-inside">GMGVALRMYPLKP</span><span class="topo-membrane">TWWFCAFPYSLLIFVYDEVRK</span><span class="topo-outside">LIIRRRPGGWVEKETYY</span></span>
+<details class="topo-details"><summary>Topology coordinates (22 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1460,6 +1480,7 @@ Na+,K+-ATPase from the shark rectal gland (Squalus acanthias) is a P-type ATPase
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1475,12 +1496,13 @@ Na+,K+-ATPase from the shark rectal gland (Squalus acanthias) is a P-type ATPase
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MARGKAKEEGSW</span><span class="topo-outside">KKFIWNSEKKE</span><span class="topo-membrane">FLGRTGGSWFKILLFYVIFYGCLAGIFIGTIQV</span><span class="topo-inside">MLLT</span></span>
-<span class="topo-line"><span class="topo-inside">ISEFKPTYQDRVAPPGLTQIPQSQKTEISFRPNDPQSYESYVVSIVRFLEKYKDLAQKDD</span></span>
-<span class="topo-line"><span class="topo-inside">MIFEDCGNVPSELKERGEYNNERGERKVCRFRLEWLGNCSGLNDETYGYKDGKPCVIIKL</span></span>
-<span class="topo-line"><span class="topo-inside">NRVLGFKPKPPKNESLETYPVMKYNPYVLPVHCTGKRDEDKEKVGTMEYFGLGGYPGFPL</span></span>
-<span class="topo-line"><span class="topo-inside">QYYPYYGKLLQPKYLQPLMAVQFTNLTMDTEIRIECKAYGENIGYSEKDRFQGRFDVKIE</span></span>
-<span class="topo-line"><span class="topo-inside">VKS</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MARGKAKEEGSW</span><span class="topo-outside">KKFIWNSEKKE</span><span class="topo-membrane">FLGRTGGSWFKILLFYVIFYGCLAGIFIGTIQV</span><span class="topo-inside">MLLTISEFKPTYQDRVAPPGLTQIPQSQKTEISFRPNDPQSYESYVVSIVRFLEKYKDLAQKDD</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">MIFEDCGNVPSELKERGEYNNERGERKVCRFRLEWLGNCSGLNDETYGYKDGKPCVIIKLNRVLGFKPKPPKNESLETYPVMKYNPYVLPVHCTGKRDEDKEKVGTMEYFGLGGYPGFPL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300   </span>
+<span class="topo-line"><span class="topo-inside">QYYPYYGKLLQPKYLQPLMAVQFTNLTMDTEIRIECKAYGENIGYSEKDRFQGRFDVKIEVKS</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1520,6 +1542,7 @@ Na+,K+-ATPase from the shark rectal gland (Squalus acanthias) is a P-type ATPase
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1535,8 +1558,9 @@ Na+,K+-ATPase from the shark rectal gland (Squalus acanthias) is a P-type ATPase
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAGLSTDDGGSPKGDV</span><span class="topo-inside">DPFYYDYETV</span><span class="topo-membrane">RNGGLIFAALAFIVGLIIIL</span><span class="topo-outside">SK</span><span class="topo-unknown">RLRCGGKKHRPI</span></span>
-<span class="topo-line"><span class="topo-unknown">NEDEL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60     </span>
+<span class="topo-line"><span class="topo-unknown">MAGLSTDDGGSPKGDV</span><span class="topo-inside">DPFYYDYETV</span><span class="topo-membrane">RNGGLIFAALAFIVGLIIIL</span><span class="topo-outside">SK</span><span class="topo-unknown">RLRCGGKKHRPINEDEL</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1583,6 +1607,7 @@ Na+,K+-ATPase from the shark rectal gland (Squalus acanthias) is a P-type ATPase
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1598,8 +1623,9 @@ Na+,K+-ATPase from the shark rectal gland (Squalus acanthias) is a P-type ATPase
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAGLSTDDGGSPKGDV</span><span class="topo-outside">DPFYYDYETVRNGG</span><span class="topo-membrane">LIFAALAFIVGLIIILSK</span><span class="topo-unknown">RLRCGGKKHRPI</span></span>
-<span class="topo-line"><span class="topo-unknown">NEDEL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60     </span>
+<span class="topo-line"><span class="topo-unknown">MAGLSTDDGGSPKGDV</span><span class="topo-outside">DPFYYDYETVRNGG</span><span class="topo-membrane">LIFAALAFIVGLIIILSK</span><span class="topo-unknown">RLRCGGKKHRPINEDEL</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1639,6 +1665,7 @@ Na+,K+-ATPase from the shark rectal gland (Squalus acanthias) is a P-type ATPase
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

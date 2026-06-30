@@ -132,12 +132,13 @@ Chrimson is a red light-activated channelrhodopsin from the algae *Chlamydomonas
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSRRPWLLALALAVALAAGSAGASTGSDATVPVATQDGPDYVFHRAHERMLFQT</span><span class="topo-outside">SYTLEN</span></span>
-<span class="topo-line"><span class="topo-outside">NGSVICIPNNGQCFCLAWLHSRGTPGEKIG</span><span class="topo-membrane">AQVCQWIAFSIAIALLTFYGF</span><span class="topo-unknown">SAWKA</span><span class="topo-inside">TCGW</span></span>
-<span class="topo-line"><span class="topo-inside">E</span><span class="topo-membrane">EVYVCCVEVLFVTLEIFKE</span><span class="topo-outside">FSSPATVYLSTGNHA</span><span class="topo-membrane">YCLRYFEWLLSCPVIL</span><span class="topo-inside">IKLSNLSGL</span></span>
-<span class="topo-line"><span class="topo-inside">KNDYSKRTMG</span><span class="topo-membrane">LIVSCVGMIVFGMAAGLA</span><span class="topo-outside">TDWL</span><span class="topo-membrane">KWLLYIVSCIYGGYMYF</span><span class="topo-inside">QAAKCYVEANH</span></span>
-<span class="topo-line"><span class="topo-inside">SVPKGHCRMVVKLM</span><span class="topo-membrane">AYAYFASWGSYPILWAVG</span><span class="topo-outside">PEGLLKLSPYA</span><span class="topo-membrane">NSIGHSICDIIA?EFWT</span></span>
-<span class="topo-line"><span class="topo-membrane">F</span><span class="topo-inside">LAHHLRIKIHEHILIHGDIRKTTKMEIGGEEVEVEEF</span><span class="topo-unknown">VEEEDEDTV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSRRPWLLALALAVALAAGSAGASTGSDATVPVATQDGPDYVFHRAHERMLFQT</span><span class="topo-outside">SYTLENNGSVICIPNNGQCFCLAWLHSRGTPGEKIG</span><span class="topo-membrane">AQVCQWIAFSIAIALLTFYGF</span><span class="topo-unknown">SAWKA</span><span class="topo-inside">TCGW</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">E</span><span class="topo-membrane">EVYVCCVEVLFVTLEIFKE</span><span class="topo-outside">FSSPATVYLSTGNHA</span><span class="topo-membrane">YCLRYFEWLLSCPVIL</span><span class="topo-inside">IKLSNLSGLKNDYSKRTMG</span><span class="topo-membrane">LIVSCVGMIVFGMAAGLA</span><span class="topo-outside">TDWL</span><span class="topo-membrane">KWLLYIVSCIYGGYMYF</span><span class="topo-inside">QAAKCYVEANH</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       </span>
+<span class="topo-line"><span class="topo-inside">SVPKGHCRMVVKLM</span><span class="topo-membrane">AYAYFASWGSYPILWAVG</span><span class="topo-outside">PEGLLKLSPYA</span><span class="topo-membrane">NSIGHSICDIIA?EFWTF</span><span class="topo-inside">LAHHLRIKIHEHILIHGDIRKTTKMEIGGEEVEVEEF</span><span class="topo-unknown">VEEEDEDTV</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -254,6 +255,7 @@ Chrimson is a red light-activated channelrhodopsin from the algae *Chlamydomonas
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -269,12 +271,13 @@ Chrimson is a red light-activated channelrhodopsin from the algae *Chlamydomonas
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSRRPWLLALALAVALAAGSAGASTGSDATVPVATQDGPDYVFHRAHERM</span><span class="topo-outside">LFQTSYTLEN</span></span>
-<span class="topo-line"><span class="topo-outside">NGSVICIPNNGQCFCLAWLHSRGTPGEKIG</span><span class="topo-membrane">AQVCQWIAFSIAIALLTFYGF</span><span class="topo-inside">S</span><span class="topo-unknown">AWK</span><span class="topo-inside">ATCGW</span></span>
-<span class="topo-line"><span class="topo-inside">E</span><span class="topo-membrane">EVYVCCVEVLFVTLEIFKE</span><span class="topo-outside">FSSPATVYLSTGNHA</span><span class="topo-membrane">YCLRYFEWLLSCPVIL</span><span class="topo-inside">IKLSNLSGL</span></span>
-<span class="topo-line"><span class="topo-inside">KNDYSKRTMG</span><span class="topo-membrane">LIVSCVGMIVFGMAAGLA</span><span class="topo-outside">TDW</span><span class="topo-membrane">LKWLLYIVSCIYGGYMYF</span><span class="topo-inside">QAAKCYVEANH</span></span>
-<span class="topo-line"><span class="topo-inside">SVPKGHCRMVVKLM</span><span class="topo-membrane">AYAYFASWGSYPILWAVG</span><span class="topo-outside">PEGLLKLSPYA</span><span class="topo-membrane">NSIGHSICDIIA?EFWT</span></span>
-<span class="topo-line"><span class="topo-membrane">F</span><span class="topo-inside">LAHHLRIKIHEHILIHGDIRKTTKMEIGGEEVEVEEF</span><span class="topo-unknown">VEEEDEDTV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSRRPWLLALALAVALAAGSAGASTGSDATVPVATQDGPDYVFHRAHERM</span><span class="topo-outside">LFQTSYTLENNGSVICIPNNGQCFCLAWLHSRGTPGEKIG</span><span class="topo-membrane">AQVCQWIAFSIAIALLTFYGF</span><span class="topo-inside">S</span><span class="topo-unknown">AWK</span><span class="topo-inside">ATCGW</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">E</span><span class="topo-membrane">EVYVCCVEVLFVTLEIFKE</span><span class="topo-outside">FSSPATVYLSTGNHA</span><span class="topo-membrane">YCLRYFEWLLSCPVIL</span><span class="topo-inside">IKLSNLSGLKNDYSKRTMG</span><span class="topo-membrane">LIVSCVGMIVFGMAAGLA</span><span class="topo-outside">TDW</span><span class="topo-membrane">LKWLLYIVSCIYGGYMYF</span><span class="topo-inside">QAAKCYVEANH</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       </span>
+<span class="topo-line"><span class="topo-inside">SVPKGHCRMVVKLM</span><span class="topo-membrane">AYAYFASWGSYPILWAVG</span><span class="topo-outside">PEGLLKLSPYA</span><span class="topo-membrane">NSIGHSICDIIA?EFWTF</span><span class="topo-inside">LAHHLRIKIHEHILIHGDIRKTTKMEIGGEEVEVEEF</span><span class="topo-unknown">VEEEDEDTV</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -398,6 +401,7 @@ Chrimson is a red light-activated channelrhodopsin from the algae *Chlamydomonas
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

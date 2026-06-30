@@ -157,9 +157,11 @@ helix required for inactivation.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGS</span><span class="topo-outside">M</span><span class="topo-unknown">LSFILTLKRMLKACLRAW</span><span class="topo-outside">KDKEFQ</span><span class="topo-membrane">VLFVLTFLTLTSGTIFYSTV</span><span class="topo-inside">EGLRP</span><span class="topo-unknown">LDALYFS</span></span>
-<span class="topo-line"><span class="topo-unknown">VVTLTTVGDG</span><span class="topo-inside">NFSPQTD</span><span class="topo-membrane">FGKVFTILYIFIGIGLVFGFI</span><span class="topo-outside">HKLAVNVQLPSILSNRKKETDA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGS</span><span class="topo-outside">M</span><span class="topo-unknown">LSFILTLKRMLKACLRAW</span><span class="topo-outside">KDKEFQ</span><span class="topo-membrane">VLFVLTFLTLTSGTIFYSTV</span><span class="topo-inside">EGLRP</span><span class="topo-unknown">LDALYFSVVTLTTVGDG</span><span class="topo-inside">NFSPQTD</span><span class="topo-membrane">FGKVFTILYIFIGIGLVFGFI</span><span class="topo-outside">HKLAVNVQLPSILSNRKKETDA</span></span>
+<span class="topo-ruler">       130       140        </span>
 <span class="topo-line"><span class="topo-outside">YRLEVMEKLEAIEKKLAEHSRQ</span><span class="topo-unknown">GSLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -248,6 +250,7 @@ helix required for inactivation.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -263,9 +266,11 @@ helix required for inactivation.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGS</span><span class="topo-outside">M</span><span class="topo-unknown">LSFILTLKRMLKACLRA</span><span class="topo-outside">WKDKEFQ</span><span class="topo-membrane">VLFVLTFLTLTSGTIFYSTV</span><span class="topo-inside">EGLRP</span><span class="topo-unknown">LDALYFS</span></span>
-<span class="topo-line"><span class="topo-unknown">VVTLTTVGDG</span><span class="topo-inside">NFSPQTDF</span><span class="topo-membrane">GKVFTILYIFIGIGLVFGFI</span><span class="topo-outside">HKLAV</span><span class="topo-unknown">NVQ</span><span class="topo-outside">LPSILSNRKKETDA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGS</span><span class="topo-outside">M</span><span class="topo-unknown">LSFILTLKRMLKACLRA</span><span class="topo-outside">WKDKEFQ</span><span class="topo-membrane">VLFVLTFLTLTSGTIFYSTV</span><span class="topo-inside">EGLRP</span><span class="topo-unknown">LDALYFSVVTLTTVGDG</span><span class="topo-inside">NFSPQTDF</span><span class="topo-membrane">GKVFTILYIFIGIGLVFGFI</span><span class="topo-outside">HKLAV</span><span class="topo-unknown">NVQ</span><span class="topo-outside">LPSILSNRKKETDA</span></span>
+<span class="topo-ruler">       130       140        </span>
 <span class="topo-line"><span class="topo-outside">YRLEVMEKLEAIEKKLAEHSRQ</span><span class="topo-unknown">GSLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (13 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -368,6 +373,7 @@ helix required for inactivation.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -383,9 +389,11 @@ helix required for inactivation.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGS</span><span class="topo-outside">M</span><span class="topo-unknown">LSFILTLKRMLKACLRAW</span><span class="topo-outside">KDKEFQ</span><span class="topo-membrane">VLFVLTFLTLTSGTIFYSTV</span><span class="topo-inside">EGLRP</span><span class="topo-unknown">LDALYFS</span></span>
-<span class="topo-line"><span class="topo-unknown">VVTLTTVGDG</span><span class="topo-inside">NFSPQTD</span><span class="topo-membrane">FGKVFTILYIFIGIGLVFGFI</span><span class="topo-outside">HKLAVNVQLPSILSNRKKETDA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGS</span><span class="topo-outside">M</span><span class="topo-unknown">LSFILTLKRMLKACLRAW</span><span class="topo-outside">KDKEFQ</span><span class="topo-membrane">VLFVLTFLTLTSGTIFYSTV</span><span class="topo-inside">EGLRP</span><span class="topo-unknown">LDALYFSVVTLTTVGDG</span><span class="topo-inside">NFSPQTD</span><span class="topo-membrane">FGKVFTILYIFIGIGLVFGFI</span><span class="topo-outside">HKLAVNVQLPSILSNRKKETDA</span></span>
+<span class="topo-ruler">       130       140        </span>
 <span class="topo-line"><span class="topo-outside">YRLEVMEKLEAIEKKLAEHSRQ</span><span class="topo-unknown">GSLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -474,6 +482,7 @@ helix required for inactivation.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -489,9 +498,11 @@ helix required for inactivation.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGS</span><span class="topo-outside">M</span><span class="topo-unknown">LSFILTLKRMLKACLRA</span><span class="topo-outside">WKDKEFQ</span><span class="topo-membrane">VLFVLTFLTLTSGTIFYSTV</span><span class="topo-inside">EGLRP</span><span class="topo-unknown">LDALYFS</span></span>
-<span class="topo-line"><span class="topo-unknown">VVTLTTVGDG</span><span class="topo-inside">NFSPQTDF</span><span class="topo-membrane">GKVFTILYIFIGIGLVFGFI</span><span class="topo-outside">HKLAV</span><span class="topo-unknown">NVQ</span><span class="topo-outside">LPSILSNRKKETDA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGS</span><span class="topo-outside">M</span><span class="topo-unknown">LSFILTLKRMLKACLRA</span><span class="topo-outside">WKDKEFQ</span><span class="topo-membrane">VLFVLTFLTLTSGTIFYSTV</span><span class="topo-inside">EGLRP</span><span class="topo-unknown">LDALYFSVVTLTTVGDG</span><span class="topo-inside">NFSPQTDF</span><span class="topo-membrane">GKVFTILYIFIGIGLVFGFI</span><span class="topo-outside">HKLAV</span><span class="topo-unknown">NVQ</span><span class="topo-outside">LPSILSNRKKETDA</span></span>
+<span class="topo-ruler">       130       140        </span>
 <span class="topo-line"><span class="topo-outside">YRLEVMEKLEAIEKKLAEHSRQ</span><span class="topo-unknown">GSLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (13 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -594,6 +605,7 @@ helix required for inactivation.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

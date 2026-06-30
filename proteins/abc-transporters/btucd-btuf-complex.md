@@ -82,12 +82,13 @@ The BtuCD-BtuF complex is the membrane-bound vitamin B12 (cyanocobalamin) ABC tr
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MLTLARQQQRQNIRWLL</span><span class="topo-membrane">SLSVLMLLALLLS</span><span class="topo-outside">LSAGEQWISPGDWFTPRGELFVWQIRLPR</span><span class="topo-membrane">T</span></span>
-<span class="topo-line"><span class="topo-membrane">LAVLLVGAALAISG</span><span class="topo-inside">AVMQALFENPLA</span><span class="topo-membrane">EPGLLGVSNGAGVGL</span><span class="topo-outside">IAAVLLGQGQLPNWALG</span><span class="topo-membrane">LS</span></span>
-<span class="topo-line"><span class="topo-membrane">AIAGALIITLIL</span><span class="topo-inside">LRFARRHLSTSRLLLA</span><span class="topo-membrane">GVALGIISSALMTW</span><span class="topo-outside">AIYFSTSVDLRQLMYWMM</span></span>
-<span class="topo-line"><span class="topo-outside">GGFGGVDWRQS</span><span class="topo-membrane">WLMLALIPVLLW</span><span class="topo-inside">ISSQSRPMNMLALGEISARQLGLPLWFWRNVLV</span><span class="topo-membrane">AATG</span></span>
-<span class="topo-line"><span class="topo-membrane">WMVGVSVAL</span><span class="topo-outside">A</span><span class="topo-membrane">GAIGFIGLVI</span><span class="topo-inside">PHILRLSGLTDHRVLLPG</span><span class="topo-membrane">CALAGASALLLADIV</span><span class="topo-outside">ARLALAA</span></span>
-<span class="topo-line"><span class="topo-outside">AELPI</span><span class="topo-membrane">GVVTATLGAPVFIW</span><span class="topo-inside">LLLKA</span><span class="topo-unknown">GR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">MLTLARQQQRQNIRWLL</span><span class="topo-membrane">SLSVLMLLALLLS</span><span class="topo-outside">LSAGEQWISPGDWFTPRGELFVWQIRLPR</span><span class="topo-membrane">TLAVLLVGAALAISG</span><span class="topo-inside">AVMQALFENPLA</span><span class="topo-membrane">EPGLLGVSNGAGVGL</span><span class="topo-outside">IAAVLLGQGQLPNWALG</span><span class="topo-membrane">LS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">AIAGALIITLIL</span><span class="topo-inside">LRFARRHLSTSRLLLA</span><span class="topo-membrane">GVALGIISSALMTW</span><span class="topo-outside">AIYFSTSVDLRQLMYWMMGGFGGVDWRQS</span><span class="topo-membrane">WLMLALIPVLLW</span><span class="topo-inside">ISSQSRPMNMLALGEISARQLGLPLWFWRNVLV</span><span class="topo-membrane">AATG</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320      </span>
+<span class="topo-line"><span class="topo-membrane">WMVGVSVAL</span><span class="topo-outside">A</span><span class="topo-membrane">GAIGFIGLVI</span><span class="topo-inside">PHILRLSGLTDHRVLLPG</span><span class="topo-membrane">CALAGASALLLADIV</span><span class="topo-outside">ARLALAAAELPI</span><span class="topo-membrane">GVVTATLGAPVFIW</span><span class="topo-inside">LLLKA</span><span class="topo-unknown">GR</span></span>
+<details class="topo-details"><summary>Topology coordinates (22 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -253,6 +254,7 @@ The BtuCD-BtuF complex is the membrane-bound vitamin B12 (cyanocobalamin) ABC tr
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -268,12 +270,13 @@ The BtuCD-BtuF complex is the membrane-bound vitamin B12 (cyanocobalamin) ABC tr
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MLTLARQQQRQNIRWLLS</span><span class="topo-membrane">LSVLMLLALLLSL</span><span class="topo-outside">SAGEQWISPGDWFTPRGELFVWQIRL</span><span class="topo-membrane">PRT</span></span>
-<span class="topo-line"><span class="topo-membrane">LAVLLVGAALAISG</span><span class="topo-inside">AVMQALFENPLAE</span><span class="topo-membrane">PGLLGVSNGAGVGLIAA</span><span class="topo-outside">VLLGQGQLPNW</span><span class="topo-membrane">ALGLS</span></span>
-<span class="topo-line"><span class="topo-membrane">AIAGALIITLI</span><span class="topo-inside">LLRFARRHLSTSRLLL</span><span class="topo-membrane">AGVALGIISSALMTW</span><span class="topo-outside">AIYFSTSVDLRQLMYWMM</span></span>
-<span class="topo-line"><span class="topo-outside">GGFGGVDWRQS</span><span class="topo-membrane">WLMLALIPVLLW</span><span class="topo-inside">ISSQSRPMNMLALGEISARQLGLPLWFWRNVLV</span><span class="topo-membrane">AATG</span></span>
-<span class="topo-line"><span class="topo-membrane">WMVGVSVAL</span><span class="topo-outside">A</span><span class="topo-membrane">GAIGFIGLVI</span><span class="topo-inside">PHILRLSGLTDHRVLLPGC</span><span class="topo-membrane">ALAGASALLLADIVA</span><span class="topo-outside">RLALAA</span></span>
-<span class="topo-line"><span class="topo-outside">AELP</span><span class="topo-membrane">IGVVTATLGAPVFI</span><span class="topo-inside">WLLLKA</span><span class="topo-unknown">GR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">MLTLARQQQRQNIRWLLS</span><span class="topo-membrane">LSVLMLLALLLSL</span><span class="topo-outside">SAGEQWISPGDWFTPRGELFVWQIRL</span><span class="topo-membrane">PRTLAVLLVGAALAISG</span><span class="topo-inside">AVMQALFENPLAE</span><span class="topo-membrane">PGLLGVSNGAGVGLIAA</span><span class="topo-outside">VLLGQGQLPNW</span><span class="topo-membrane">ALGLS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">AIAGALIITLI</span><span class="topo-inside">LLRFARRHLSTSRLLL</span><span class="topo-membrane">AGVALGIISSALMTW</span><span class="topo-outside">AIYFSTSVDLRQLMYWMMGGFGGVDWRQS</span><span class="topo-membrane">WLMLALIPVLLW</span><span class="topo-inside">ISSQSRPMNMLALGEISARQLGLPLWFWRNVLV</span><span class="topo-membrane">AATG</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320      </span>
+<span class="topo-line"><span class="topo-membrane">WMVGVSVAL</span><span class="topo-outside">A</span><span class="topo-membrane">GAIGFIGLVI</span><span class="topo-inside">PHILRLSGLTDHRVLLPGC</span><span class="topo-membrane">ALAGASALLLADIVA</span><span class="topo-outside">RLALAAAELP</span><span class="topo-membrane">IGVVTATLGAPVFI</span><span class="topo-inside">WLLLKA</span><span class="topo-unknown">GR</span></span>
+<details class="topo-details"><summary>Topology coordinates (22 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -439,6 +442,7 @@ The BtuCD-BtuF complex is the membrane-bound vitamin B12 (cyanocobalamin) ABC tr
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -454,11 +458,13 @@ The BtuCD-BtuF complex is the membrane-bound vitamin B12 (cyanocobalamin) ABC tr
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">SIVMQLQDVAESTRLGPLSGEVRAGEILHLVGPNGAGKSTLLARMAGMTSGKGSIQFAG</span></span>
-<span class="topo-line"><span class="topo-inside">QPLEAWSATKLALHRAYLSQQQTPPFATPVWHYLTLHQHDKTRTELLNDVAGALALDDKL</span></span>
-<span class="topo-line"><span class="topo-inside">GRSTNQLSGGEWQRVRLAAVVLQITPQANPAGQLLLLDEPMNSLDVAQQSALDKILSALS</span></span>
-<span class="topo-line"><span class="topo-inside">QQGLAIVMSSHDLNHTLRHAHRAWLLKGGKMLASGRREEVLTPPNLAQAYGMNFRRLDIE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">SIVMQLQDVAESTRLGPLSGEVRAGEILHLVGPNGAGKSTLLARMAGMTSGKGSIQFAGQPLEAWSATKLALHRAYLSQQQTPPFATPVWHYLTLHQHDKTRTELLNDVAGALALDDKL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">GRSTNQLSGGEWQRVRLAAVVLQITPQANPAGQLLLLDEPMNSLDVAQQSALDKILSALSQQGLAIVMSSHDLNHTLRHAHRAWLLKGGKMLASGRREEVLTPPNLAQAYGMNFRRLDIE</span></span>
+<span class="topo-ruler">         </span>
 <span class="topo-line"><span class="topo-inside">GHRMLISTI</span></span>
+<details class="topo-details"><summary>Topology coordinates (2 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -484,6 +490,7 @@ The BtuCD-BtuF complex is the membrane-bound vitamin B12 (cyanocobalamin) ABC tr
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -499,11 +506,13 @@ The BtuCD-BtuF complex is the membrane-bound vitamin B12 (cyanocobalamin) ABC tr
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">SIVMQLQDVAESTRLGPLSGEVRAGEILHLVGPNGAGKSTLLARMAGMTSGKGSIQFAG</span></span>
-<span class="topo-line"><span class="topo-inside">QPLEAWSATKLALHRAYLSQQQTPPFATPVWHYLTLHQHDKTRTELLNDVAGALALDDKL</span></span>
-<span class="topo-line"><span class="topo-inside">GRSTNQLSGGEWQRVRLAAVVLQITPQANPAGQLLLLDEPMNSLDVAQQSALDKILSALS</span></span>
-<span class="topo-line"><span class="topo-inside">QQGLAIVMSSHDLNHTLRHAHRAWLLKGGKMLASGRREEVLTPPNLAQAYGMNFRRLDIE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">SIVMQLQDVAESTRLGPLSGEVRAGEILHLVGPNGAGKSTLLARMAGMTSGKGSIQFAGQPLEAWSATKLALHRAYLSQQQTPPFATPVWHYLTLHQHDKTRTELLNDVAGALALDDKL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">GRSTNQLSGGEWQRVRLAAVVLQITPQANPAGQLLLLDEPMNSLDVAQQSALDKILSALSQQGLAIVMSSHDLNHTLRHAHRAWLLKGGKMLASGRREEVLTPPNLAQAYGMNFRRLDIE</span></span>
+<span class="topo-ruler">         </span>
 <span class="topo-line"><span class="topo-inside">GHRMLISTI</span></span>
+<details class="topo-details"><summary>Topology coordinates (2 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -529,6 +538,7 @@ The BtuCD-BtuF complex is the membrane-bound vitamin B12 (cyanocobalamin) ABC tr
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -544,11 +554,13 @@ The BtuCD-BtuF complex is the membrane-bound vitamin B12 (cyanocobalamin) ABC tr
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">AAPRVITLSPANTELAFAAGITPVGVSSYSDYPPQAQKIEQVSTWQGMNLERIVALKPDL</span></span>
-<span class="topo-line"><span class="topo-outside">VIAWRGGNAERQVDQLASLGIKVMWVDATSIEQIANALRQLAPWSPQPDKAEQAAQSLLD</span></span>
-<span class="topo-line"><span class="topo-outside">QYAQLKAQYADKPKKRVFLQFGINPPFTSGKESIQNQVLEVCGGENIFKDSRVPWPQVSR</span></span>
-<span class="topo-line"><span class="topo-outside">EQVLARSPQAIVITGGPDQIPKIKQYWGEQLKIPVIPLTSDWFERASPRIILAAQQLCNA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">AAPRVITLSPANTELAFAAGITPVGVSSYSDYPPQAQKIEQVSTWQGMNLERIVALKPDLVIAWRGGNAERQVDQLASLGIKVMWVDATSIEQIANALRQLAPWSPQPDKAEQAAQSLLD</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">QYAQLKAQYADKPKKRVFLQFGINPPFTSGKESIQNQVLEVCGGENIFKDSRVPWPQVSREQVLARSPQAIVITGGPDQIPKIKQYWGEQLKIPVIPLTSDWFERASPRIILAAQQLCNA</span></span>
+<span class="topo-ruler">     </span>
 <span class="topo-line"><span class="topo-outside">LSQVD</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -567,6 +579,7 @@ The BtuCD-BtuF complex is the membrane-bound vitamin B12 (cyanocobalamin) ABC tr
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -691,12 +704,13 @@ The BtuCD-BtuF complex is the membrane-bound vitamin B12 (cyanocobalamin) ABC tr
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGHHHHHHHHHHSSGENLYFQGH</span><span class="topo-outside">MLTLARQQQRQNIRWL</span><span class="topo-membrane">LSLSVLMLLALLLSLSAGEQW</span></span>
-<span class="topo-line"><span class="topo-inside">ISPGDWFTPRG</span><span class="topo-membrane">ELFVWQIRLPRTLAVLLVGAALAISGAVMQ</span><span class="topo-outside">ALFENP</span><span class="topo-membrane">LAEPGLLGVSNGA</span></span>
-<span class="topo-line"><span class="topo-membrane">GVGLIAAVLLG</span><span class="topo-inside">QGQLP</span><span class="topo-membrane">NWALGLSAIAGALIITLILLRFA</span><span class="topo-outside">RRHLSTSRL</span><span class="topo-membrane">LLAGVALGIISS</span></span>
-<span class="topo-line"><span class="topo-membrane">ALMTWAIYF</span><span class="topo-inside">STSVDLRQLMYWMMGG</span><span class="topo-membrane">FGGVDWRQSWLMLALIPVLLWIS</span><span class="topo-outside">SQS</span><span class="topo-unknown">RPMNML</span><span class="topo-outside">ALG</span></span>
-<span class="topo-line"><span class="topo-outside">EISARQLGLPLWFWRN</span><span class="topo-membrane">VLVAATGWMVGVSVALA</span><span class="topo-inside">G</span><span class="topo-membrane">AIGFIGLVIPHIL</span><span class="topo-outside">RLSGLTDHRVLL</span><span class="topo-membrane">P</span></span>
-<span class="topo-line"><span class="topo-membrane">GCALAGASALLLADIVARLAL</span><span class="topo-inside">AAAE</span><span class="topo-membrane">LPIGVVTATLGAPVFIWLLL</span><span class="topo-outside">KA</span><span class="topo-unknown">GR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGHHHHHHHHHHSSGENLYFQGH</span><span class="topo-outside">MLTLARQQQRQNIRWL</span><span class="topo-membrane">LSLSVLMLLALLLSLSAGEQW</span><span class="topo-inside">ISPGDWFTPRG</span><span class="topo-membrane">ELFVWQIRLPRTLAVLLVGAALAISGAVMQ</span><span class="topo-outside">ALFENP</span><span class="topo-membrane">LAEPGLLGVSNGA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GVGLIAAVLLG</span><span class="topo-inside">QGQLP</span><span class="topo-membrane">NWALGLSAIAGALIITLILLRFA</span><span class="topo-outside">RRHLSTSRL</span><span class="topo-membrane">LLAGVALGIISSALMTWAIYF</span><span class="topo-inside">STSVDLRQLMYWMMGG</span><span class="topo-membrane">FGGVDWRQSWLMLALIPVLLWIS</span><span class="topo-outside">SQS</span><span class="topo-unknown">RPMNML</span><span class="topo-outside">ALG</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340         </span>
+<span class="topo-line"><span class="topo-outside">EISARQLGLPLWFWRN</span><span class="topo-membrane">VLVAATGWMVGVSVALA</span><span class="topo-inside">G</span><span class="topo-membrane">AIGFIGLVIPHIL</span><span class="topo-outside">RLSGLTDHRVLL</span><span class="topo-membrane">PGCALAGASALLLADIVARLAL</span><span class="topo-inside">AAAE</span><span class="topo-membrane">LPIGVVTATLGAPVFIWLLL</span><span class="topo-outside">KA</span><span class="topo-unknown">GR</span></span>
+<details class="topo-details"><summary>Topology coordinates (25 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -883,6 +897,7 @@ The BtuCD-BtuF complex is the membrane-bound vitamin B12 (cyanocobalamin) ABC tr
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -898,12 +913,13 @@ The BtuCD-BtuF complex is the membrane-bound vitamin B12 (cyanocobalamin) ABC tr
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGHHHHHHHHHHSSGENLYFQGH</span><span class="topo-outside">MLTLARQQQRQNIRWL</span><span class="topo-membrane">LSLSVLMLLALLLSLSAGEQW</span></span>
-<span class="topo-line"><span class="topo-inside">ISPGDWFTPRG</span><span class="topo-membrane">ELFVWQIRLPRTLAVLLVGAALAISGAVMQ</span><span class="topo-outside">ALFENP</span><span class="topo-membrane">LAEPGLLGVSNGA</span></span>
-<span class="topo-line"><span class="topo-membrane">GVGLIAAVLLG</span><span class="topo-inside">QGQLP</span><span class="topo-membrane">NWALGLSAIAGALIITLILLRF</span><span class="topo-outside">ARRHLSTSRL</span><span class="topo-membrane">LLAGVALGIISS</span></span>
-<span class="topo-line"><span class="topo-membrane">ALMTWAIYF</span><span class="topo-inside">STSVDLRQLMYWMMGG</span><span class="topo-membrane">FGGVDWRQSWLMLALIPVLLWIS</span><span class="topo-outside">SQS</span><span class="topo-unknown">RPMNML</span><span class="topo-outside">ALG</span></span>
-<span class="topo-line"><span class="topo-outside">EISARQLGLPLWFWRN</span><span class="topo-membrane">VLVAATGWMVGVSVALA</span><span class="topo-inside">G</span><span class="topo-membrane">AIGFIGLVIPHIL</span><span class="topo-outside">RLSGLTDHRVLL</span><span class="topo-membrane">P</span></span>
-<span class="topo-line"><span class="topo-membrane">GCALAGASALLLADIVARLAL</span><span class="topo-inside">AAAE</span><span class="topo-membrane">LPIGVVTATLGAPVFIWLLL</span><span class="topo-outside">KA</span><span class="topo-unknown">GR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGHHHHHHHHHHSSGENLYFQGH</span><span class="topo-outside">MLTLARQQQRQNIRWL</span><span class="topo-membrane">LSLSVLMLLALLLSLSAGEQW</span><span class="topo-inside">ISPGDWFTPRG</span><span class="topo-membrane">ELFVWQIRLPRTLAVLLVGAALAISGAVMQ</span><span class="topo-outside">ALFENP</span><span class="topo-membrane">LAEPGLLGVSNGA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GVGLIAAVLLG</span><span class="topo-inside">QGQLP</span><span class="topo-membrane">NWALGLSAIAGALIITLILLRF</span><span class="topo-outside">ARRHLSTSRL</span><span class="topo-membrane">LLAGVALGIISSALMTWAIYF</span><span class="topo-inside">STSVDLRQLMYWMMGG</span><span class="topo-membrane">FGGVDWRQSWLMLALIPVLLWIS</span><span class="topo-outside">SQS</span><span class="topo-unknown">RPMNML</span><span class="topo-outside">ALG</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340         </span>
+<span class="topo-line"><span class="topo-outside">EISARQLGLPLWFWRN</span><span class="topo-membrane">VLVAATGWMVGVSVALA</span><span class="topo-inside">G</span><span class="topo-membrane">AIGFIGLVIPHIL</span><span class="topo-outside">RLSGLTDHRVLL</span><span class="topo-membrane">PGCALAGASALLLADIVARLAL</span><span class="topo-inside">AAAE</span><span class="topo-membrane">LPIGVVTATLGAPVFIWLLL</span><span class="topo-outside">KA</span><span class="topo-unknown">GR</span></span>
+<details class="topo-details"><summary>Topology coordinates (25 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1090,6 +1106,7 @@ The BtuCD-BtuF complex is the membrane-bound vitamin B12 (cyanocobalamin) ABC tr
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1105,11 +1122,13 @@ The BtuCD-BtuF complex is the membrane-bound vitamin B12 (cyanocobalamin) ABC tr
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">SIVMQLQDVAESTRLGPLSGEVRAGEILHLVGPNGAGKSTLLARMAGMTSGKGSIQFAG</span></span>
-<span class="topo-line"><span class="topo-outside">QPLEAWSATKLALHRAYLSQQQTPPFATPVWHYLTLHQHDKTRTELLNDVAGALALDDKL</span></span>
-<span class="topo-line"><span class="topo-outside">GRSTNQLSGGEWQRVRLAAVVLQITPQANPAGQLLLLDQPMCSLDVAQQSALDKILSALS</span></span>
-<span class="topo-line"><span class="topo-outside">QQGLAIVMSSHDLNHTLRHAHRAWLLKGGKMLASGRREEVLTPPNLAQAYGMNFRRLDIE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">SIVMQLQDVAESTRLGPLSGEVRAGEILHLVGPNGAGKSTLLARMAGMTSGKGSIQFAGQPLEAWSATKLALHRAYLSQQQTPPFATPVWHYLTLHQHDKTRTELLNDVAGALALDDKL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">GRSTNQLSGGEWQRVRLAAVVLQITPQANPAGQLLLLDQPMCSLDVAQQSALDKILSALSQQGLAIVMSSHDLNHTLRHAHRAWLLKGGKMLASGRREEVLTPPNLAQAYGMNFRRLDIE</span></span>
+<span class="topo-ruler">         </span>
 <span class="topo-line"><span class="topo-outside">GHRMLISTI</span></span>
+<details class="topo-details"><summary>Topology coordinates (2 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1135,6 +1154,7 @@ The BtuCD-BtuF complex is the membrane-bound vitamin B12 (cyanocobalamin) ABC tr
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1150,11 +1170,13 @@ The BtuCD-BtuF complex is the membrane-bound vitamin B12 (cyanocobalamin) ABC tr
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">SIVMQLQDVAESTRLGPLSGEVRAGEILHLVGPNGAGKSTLLARMAGMTSGKGSIQFAG</span></span>
-<span class="topo-line"><span class="topo-outside">QPLEAWSATKLALHRAYLSQQQTPPFATPVWHYLTLHQHDKTRTELLNDVAGALALDDKL</span></span>
-<span class="topo-line"><span class="topo-outside">GRSTNQLSGGEWQRVRLAAVVLQITPQANPAGQLLLLDQPMCSLDVAQQSALDKILSALS</span></span>
-<span class="topo-line"><span class="topo-outside">QQGLAIVMSSHDLNHTLRHAHRAWLLKGGKMLASGRREEVLTPPNLAQAYGMNFRRLDIE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">SIVMQLQDVAESTRLGPLSGEVRAGEILHLVGPNGAGKSTLLARMAGMTSGKGSIQFAGQPLEAWSATKLALHRAYLSQQQTPPFATPVWHYLTLHQHDKTRTELLNDVAGALALDDKL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">GRSTNQLSGGEWQRVRLAAVVLQITPQANPAGQLLLLDQPMCSLDVAQQSALDKILSALSQQGLAIVMSSHDLNHTLRHAHRAWLLKGGKMLASGRREEVLTPPNLAQAYGMNFRRLDIE</span></span>
+<span class="topo-ruler">         </span>
 <span class="topo-line"><span class="topo-outside">GHRMLISTI</span></span>
+<details class="topo-details"><summary>Topology coordinates (2 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1180,6 +1202,7 @@ The BtuCD-BtuF complex is the membrane-bound vitamin B12 (cyanocobalamin) ABC tr
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1195,11 +1218,13 @@ The BtuCD-BtuF complex is the membrane-bound vitamin B12 (cyanocobalamin) ABC tr
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">AAPRVITLSPANTELAFAAGITPVGVSSYSDYPPQAQKIEQVSTWQGMNLERIVALKPD</span></span>
-<span class="topo-line"><span class="topo-inside">LVIAWRGGNAERQVDQLASLGIKVMWVDATSIEQIANALRQLAPWSPQPDKAEQAAQSLL</span></span>
-<span class="topo-line"><span class="topo-inside">DQYAQLKAQYADKPKKRVFLQFGINPPFTSGKESIQNQVLEVCGGENIFKDSRVPWPQVS</span></span>
-<span class="topo-line"><span class="topo-inside">REQVLARSPQAIVITGGPDQI</span><span class="topo-unknown">PKIKQY</span><span class="topo-inside">WGEQLKIPVIPLTSDWFERASPRIILAAQQLCN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">AAPRVITLSPANTELAFAAGITPVGVSSYSDYPPQAQKIEQVSTWQGMNLERIVALKPDLVIAWRGGNAERQVDQLASLGIKVMWVDATSIEQIANALRQLAPWSPQPDKAEQAAQSLL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">DQYAQLKAQYADKPKKRVFLQFGINPPFTSGKESIQNQVLEVCGGENIFKDSRVPWPQVSREQVLARSPQAIVITGGPDQI</span><span class="topo-unknown">PKIKQY</span><span class="topo-inside">WGEQLKIPVIPLTSDWFERASPRIILAAQQLCN</span></span>
+<span class="topo-ruler">       250     </span>
 <span class="topo-line"><span class="topo-inside">ALSQVD</span><span class="topo-unknown">SGSHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1246,6 +1271,7 @@ The BtuCD-BtuF complex is the membrane-bound vitamin B12 (cyanocobalamin) ABC tr
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

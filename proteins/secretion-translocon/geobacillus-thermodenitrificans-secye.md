@@ -159,20 +159,21 @@ Ta6Br12 [Manganese-Calcium Cluster (Mn4Ca Cluster)](/xray-mp-wiki/concepts/misce
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MLGILNKMFDPTK</span><span class="topo-inside">RTLNRYEKIANDIDAIRGDYENLSDDALKHKTIEFKERLEKGATTDD</span></span>
-<span class="topo-line"><span class="topo-inside">LLVEAFAVVREASRRVTGMFPFKVQLMGGVALHDGNIAEMKTGEGKTLTSTLPVYLNALT</span></span>
-<span class="topo-line"><span class="topo-inside">GKGVHVVTVNEYLASRDAEQMGKIFEFLGLTVGLNLNSMSKDEKREAYAADITYSTNNEL</span></span>
-<span class="topo-line"><span class="topo-inside">GFDYLRDNMVLYKEQMVQRPLHFAVIDEVDSILIDEARTPLIISGQAAKSTKLYVQANAF</span></span>
-<span class="topo-line"><span class="topo-inside">VRTLK</span><span class="topo-unknown">AEKD</span><span class="topo-inside">YTYDIKTKAVQLTEEGMTKAEKAFGIDNLFDVKHVALNHHINQALKAHVAM</span></span>
-<span class="topo-line"><span class="topo-inside">QKDVDYVVEDGQVVIVDSFTGRLMKGRRYSEGLHQAIEAKEGLEIQNESMTLATITFQNY</span></span>
-<span class="topo-line"><span class="topo-inside">FRMYEKLAGMTGTAKTEEEEFRNIYNMQVVTIPTNRPVVRDDRPDLIYRTMEGKFKAVAE</span></span>
-<span class="topo-line"><span class="topo-inside">DVAQRYMTGQPVLVGTVAVETSELISKLLKNKGIPHQVLNAKNHEREAQIIEEAGQKGAV</span></span>
-<span class="topo-line"><span class="topo-inside">TIATNMAG</span><span class="topo-unknown">RG</span><span class="topo-inside">TDIKLGEGVKELGGLAVVGTERHESRRIDNQLRGRSGRQGDPGITQFYLS</span></span>
-<span class="topo-line"><span class="topo-inside">MEDELMRRFGAERTMAMLDRFGMDDSTPIQSKMVSRAVESSQKRVEGNNFDSRKQLLQYD</span></span>
-<span class="topo-line"><span class="topo-inside">DVLRQQREVIYKQRFEVID</span><span class="topo-unknown">SENLR</span><span class="topo-inside">EIVENMIKSSLERAIAAY</span><span class="topo-unknown">TPREELPEEWKLDGLVDL</span></span>
-<span class="topo-line"><span class="topo-unknown">INTTYLDEGALEKSDIFGKEPDE</span><span class="topo-inside">MLELIMDRIITKYNEK</span><span class="topo-unknown">EEQFGK</span><span class="topo-inside">EQMREFEKVIVLRAV</span></span>
-<span class="topo-line"><span class="topo-inside">DSKWMDHIDAMDQLRQGIHLRGS</span><span class="topo-unknown">GGSGG</span><span class="topo-inside">KKT</span><span class="topo-membrane">AIAIAVALAGFATVAS</span><span class="topo-outside">YAQYEDGCSGE</span><span class="topo-membrane">LE</span></span>
-<span class="topo-line"><span class="topo-membrane">RQHTFAG</span><span class="topo-inside">GPGA</span><span class="topo-unknown">QTN</span><span class="topo-inside">PLREYQMEGFAMFEHMIESIEDEVAKFVMKA</span><span class="topo-unknown">EITSLEVLFQG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MLGILNKMFDPTK</span><span class="topo-inside">RTLNRYEKIANDIDAIRGDYENLSDDALKHKTIEFKERLEKGATTDDLLVEAFAVVREASRRVTGMFPFKVQLMGGVALHDGNIAEMKTGEGKTLTSTLPVYLNALT</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">GKGVHVVTVNEYLASRDAEQMGKIFEFLGLTVGLNLNSMSKDEKREAYAADITYSTNNELGFDYLRDNMVLYKEQMVQRPLHFAVIDEVDSILIDEARTPLIISGQAAKSTKLYVQANAF</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">VRTLK</span><span class="topo-unknown">AEKD</span><span class="topo-inside">YTYDIKTKAVQLTEEGMTKAEKAFGIDNLFDVKHVALNHHINQALKAHVAMQKDVDYVVEDGQVVIVDSFTGRLMKGRRYSEGLHQAIEAKEGLEIQNESMTLATITFQNY</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">FRMYEKLAGMTGTAKTEEEEFRNIYNMQVVTIPTNRPVVRDDRPDLIYRTMEGKFKAVAEDVAQRYMTGQPVLVGTVAVETSELISKLLKNKGIPHQVLNAKNHEREAQIIEEAGQKGAV</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-inside">TIATNMAG</span><span class="topo-unknown">RG</span><span class="topo-inside">TDIKLGEGVKELGGLAVVGTERHESRRIDNQLRGRSGRQGDPGITQFYLSMEDELMRRFGAERTMAMLDRFGMDDSTPIQSKMVSRAVESSQKRVEGNNFDSRKQLLQYD</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-inside">DVLRQQREVIYKQRFEVID</span><span class="topo-unknown">SENLR</span><span class="topo-inside">EIVENMIKSSLERAIAAY</span><span class="topo-unknown">TPREELPEEWKLDGLVDLINTTYLDEGALEKSDIFGKEPDE</span><span class="topo-inside">MLELIMDRIITKYNEK</span><span class="topo-unknown">EEQFGK</span><span class="topo-inside">EQMREFEKVIVLRAV</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820       830      </span>
+<span class="topo-line"><span class="topo-inside">DSKWMDHIDAMDQLRQGIHLRGS</span><span class="topo-unknown">GGSGG</span><span class="topo-inside">KKT</span><span class="topo-membrane">AIAIAVALAGFATVAS</span><span class="topo-outside">YAQYEDGCSGE</span><span class="topo-membrane">LERQHTFAG</span><span class="topo-inside">GPGA</span><span class="topo-unknown">QTN</span><span class="topo-inside">PLREYQMEGFAMFEHMIESIEDEVAKFVMKA</span><span class="topo-unknown">EITSLEVLFQG</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -331,6 +332,7 @@ Ta6Br12 [Manganese-Calcium Cluster (Mn4Ca Cluster)](/xray-mp-wiki/concepts/misce
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -346,14 +348,15 @@ Ta6Br12 [Manganese-Calcium Cluster (Mn4Ca Cluster)](/xray-mp-wiki/concepts/misce
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MFRTISNFMRVS</span><span class="topo-inside">DIRNKIIFT</span><span class="topo-membrane">LLMLIVFRIGTFI</span><span class="topo-outside">PVPSVNTDVLKLQDQLNAFGVLNIFC</span></span>
-<span class="topo-line"><span class="topo-outside">GG</span><span class="topo-membrane">ALQNFSIFAMGVMPYITASII</span><span class="topo-inside">VQLLQMDVVPKFAEWSKQGEMGRRKLAQFTR</span><span class="topo-membrane">YFTIVL</span></span>
-<span class="topo-line"><span class="topo-membrane">GFIQAL</span><span class="topo-outside">GMSYGFNNLAGGMLIQNP</span><span class="topo-unknown">G</span><span class="topo-outside">IGTY</span><span class="topo-membrane">LLIAVVLTAGTAFLMWL</span><span class="topo-inside">GEQITAKGVGNGIS</span></span>
-<span class="topo-line"><span class="topo-membrane">IIIFAGIVSGIPTI</span><span class="topo-outside">LNQIYA</span><span class="topo-unknown">QTFGGLN</span><span class="topo-outside">IV</span><span class="topo-membrane">RLLLVALAVVAVIVGV</span><span class="topo-inside">IYIQQAFRKIPIQ</span><span class="topo-unknown">YA</span></span>
-<span class="topo-line"><span class="topo-unknown">KRLEGRNPVGGH</span><span class="topo-inside">STHLPLKVN</span><span class="topo-unknown">PAGVI</span><span class="topo-inside">PV</span><span class="topo-membrane">IFAVSFLIAPPTIA</span><span class="topo-outside">SFFGTND</span><span class="topo-unknown">VTLWI</span><span class="topo-outside">RRTFDY</span></span>
-<span class="topo-line"><span class="topo-outside">THP</span><span class="topo-membrane">VGMTIYVVLIIAFT</span><span class="topo-inside">YFYAFVQVNPEQMADNLKKQGGYIPGIRPGKNTQEYVTRILYR</span></span>
-<span class="topo-line"><span class="topo-inside">LTLVG</span><span class="topo-membrane">SLFLAFIAVLPVFF</span><span class="topo-outside">VNFANLPPS</span><span class="topo-membrane">AQIGGTSLLIVV</span><span class="topo-inside">GVALETMKQLESQLVKRHYR</span></span>
-<span class="topo-line"><span class="topo-inside">GFIK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MFRTISNFMRVS</span><span class="topo-inside">DIRNKIIFT</span><span class="topo-membrane">LLMLIVFRIGTFI</span><span class="topo-outside">PVPSVNTDVLKLQDQLNAFGVLNIFCGG</span><span class="topo-membrane">ALQNFSIFAMGVMPYITASII</span><span class="topo-inside">VQLLQMDVVPKFAEWSKQGEMGRRKLAQFTR</span><span class="topo-membrane">YFTIVL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GFIQAL</span><span class="topo-outside">GMSYGFNNLAGGMLIQNP</span><span class="topo-unknown">G</span><span class="topo-outside">IGTY</span><span class="topo-membrane">LLIAVVLTAGTAFLMWL</span><span class="topo-inside">GEQITAKGVGNGIS</span><span class="topo-membrane">IIIFAGIVSGIPTI</span><span class="topo-outside">LNQIYA</span><span class="topo-unknown">QTFGGLN</span><span class="topo-outside">IV</span><span class="topo-membrane">RLLLVALAVVAVIVGV</span><span class="topo-inside">IYIQQAFRKIPIQ</span><span class="topo-unknown">YA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-unknown">KRLEGRNPVGGH</span><span class="topo-inside">STHLPLKVN</span><span class="topo-unknown">PAGVI</span><span class="topo-inside">PV</span><span class="topo-membrane">IFAVSFLIAPPTIA</span><span class="topo-outside">SFFGTND</span><span class="topo-unknown">VTLWI</span><span class="topo-outside">RRTFDYTHP</span><span class="topo-membrane">VGMTIYVVLIIAFT</span><span class="topo-inside">YFYAFVQVNPEQMADNLKKQGGYIPGIRPGKNTQEYVTRILYR</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420    </span>
+<span class="topo-line"><span class="topo-inside">LTLVG</span><span class="topo-membrane">SLFLAFIAVLPVFF</span><span class="topo-outside">VNFANLPPS</span><span class="topo-membrane">AQIGGTSLLIVV</span><span class="topo-inside">GVALETMKQLESQLVKRHYRGFIK</span></span>
+<details class="topo-details"><summary>Topology coordinates (32 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -589,6 +592,7 @@ Ta6Br12 [Manganese-Calcium Cluster (Mn4Ca Cluster)](/xray-mp-wiki/concepts/misce
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -604,8 +608,9 @@ Ta6Br12 [Manganese-Calcium Cluster (Mn4Ca Cluster)](/xray-mp-wiki/concepts/misce
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">QRVTNFFKEVVRELKKVSWPNRKELVNYTAVV</span><span class="topo-membrane">LATVAFFTVFFAVIDLGISQLI</span><span class="topo-outside">RL</span><span class="topo-unknown">VFE</span></span>
-<span class="topo-line"><span class="topo-unknown">GGHHHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">QRVTNFFKEVVRELKKVSWPNRKELVNYTAVV</span><span class="topo-membrane">LATVAFFTVFFAVIDLGISQLI</span><span class="topo-outside">RL</span><span class="topo-unknown">VFEGGHHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -652,6 +657,7 @@ Ta6Br12 [Manganese-Calcium Cluster (Mn4Ca Cluster)](/xray-mp-wiki/concepts/misce
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -667,9 +673,11 @@ Ta6Br12 [Manganese-Calcium Cluster (Mn4Ca Cluster)](/xray-mp-wiki/concepts/misce
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">QVQLVETGGGLVQPGGSLRLSCGASGSIFN</span><span class="topo-unknown">M</span><span class="topo-outside">YAMGWYRQAPGKQREVVARIATDDSTMYP</span></span>
-<span class="topo-line"><span class="topo-outside">DSVKGRFTISRDNAKNTVYLQMNSLKPEDTAVYYCYYQRTVMSQPYWGQGTQVTVS</span><span class="topo-unknown">SGGL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">QVQLVETGGGLVQPGGSLRLSCGASGSIFN</span><span class="topo-unknown">M</span><span class="topo-outside">YAMGWYRQAPGKQREVVARIATDDSTMYPDSVKGRFTISRDNAKNTVYLQMNSLKPEDTAVYYCYYQRTVMSQPYWGQGTQVTVS</span><span class="topo-unknown">SGGL</span></span>
+<span class="topo-ruler">       130 </span>
 <span class="topo-line"><span class="topo-unknown">PETGGHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -709,6 +717,7 @@ Ta6Br12 [Manganese-Calcium Cluster (Mn4Ca Cluster)](/xray-mp-wiki/concepts/misce
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

@@ -122,14 +122,15 @@ The human beta-2 adrenergic receptor (β2AR) is a prototypic class A G-protein-c
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">DYKDDD</span><span class="topo-inside">DAENLYFQGNIFEMLRIDEGLRLKIYKDTEGYYTIGIGHLLTKSPSLNAAKSEL</span></span>
-<span class="topo-line"><span class="topo-inside">DKAIGRNTNGVITKDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVFQM</span></span>
-<span class="topo-line"><span class="topo-inside">GETGVAGFTNSLRMLQQKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWDAYAADEV</span></span>
-<span class="topo-line"><span class="topo-membrane">WVVGMGIVMSLIVLAIVFGNVLVIT</span><span class="topo-outside">AIAKFERLQTVTNYFI</span><span class="topo-membrane">TSLACADLVMGLAVVPFGA</span></span>
-<span class="topo-line"><span class="topo-membrane">AHIL</span><span class="topo-inside">TKTWTFGNF</span><span class="topo-membrane">WCEFWTSIDVLCVTASIETLCV</span><span class="topo-outside">IAVDRYFAITSPFKYQSLLTKNKAR</span></span>
-<span class="topo-line"><span class="topo-outside">VII</span><span class="topo-membrane">LMVWIVSGLTSFLPIQMHWYRA</span><span class="topo-inside">TH</span><span class="topo-unknown">QEAINCYA</span><span class="topo-inside">EETCCD</span><span class="topo-membrane">FFTNQAYAIASSIVSFYVP</span></span>
-<span class="topo-line"><span class="topo-membrane">LVIMVF</span><span class="topo-outside">VYSRVFQEAKRQLQ</span><span class="topo-unknown">KID</span><span class="topo-outside">KFALKEHKALKTLG</span><span class="topo-membrane">IIMGTFTLCWLPFFIVNIVHVIQ</span></span>
-<span class="topo-line"><span class="topo-inside">DNL</span><span class="topo-membrane">IRKEVYILLNWIGYVNSGFNPLI</span><span class="topo-outside">YCRS</span><span class="topo-unknown">PDFRIAFQEL</span><span class="topo-outside">LCL</span><span class="topo-unknown">RRSSLK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">DYKDDD</span><span class="topo-inside">DAENLYFQGNIFEMLRIDEGLRLKIYKDTEGYYTIGIGHLLTKSPSLNAAKSELDKAIGRNTNGVITKDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVFQM</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">GETGVAGFTNSLRMLQQKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWDAYAADEV</span><span class="topo-membrane">WVVGMGIVMSLIVLAIVFGNVLVIT</span><span class="topo-outside">AIAKFERLQTVTNYFI</span><span class="topo-membrane">TSLACADLVMGLAVVPFGA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">AHIL</span><span class="topo-inside">TKTWTFGNF</span><span class="topo-membrane">WCEFWTSIDVLCVTASIETLCV</span><span class="topo-outside">IAVDRYFAITSPFKYQSLLTKNKARVII</span><span class="topo-membrane">LMVWIVSGLTSFLPIQMHWYRA</span><span class="topo-inside">TH</span><span class="topo-unknown">QEAINCYA</span><span class="topo-inside">EETCCD</span><span class="topo-membrane">FFTNQAYAIASSIVSFYVP</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460         </span>
+<span class="topo-line"><span class="topo-membrane">LVIMVF</span><span class="topo-outside">VYSRVFQEAKRQLQ</span><span class="topo-unknown">KID</span><span class="topo-outside">KFALKEHKALKTLG</span><span class="topo-membrane">IIMGTFTLCWLPFFIVNIVHVIQ</span><span class="topo-inside">DNL</span><span class="topo-membrane">IRKEVYILLNWIGYVNSGFNPLI</span><span class="topo-outside">YCRS</span><span class="topo-unknown">PDFRIAFQEL</span><span class="topo-outside">LCL</span><span class="topo-unknown">RRSSLK</span></span>
+<details class="topo-details"><summary>Topology coordinates (20 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -281,6 +282,7 @@ The human beta-2 adrenergic receptor (β2AR) is a prototypic class A G-protein-c
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -438,15 +440,17 @@ The human beta-2 adrenergic receptor (β2AR) is a prototypic class A G-protein-c
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MKTIIALSYIFCLVFADYKDDDDAMGQPGNGSAFLLAPNRSHAPDHDVTQQRDE</span><span class="topo-outside">VWVV</span><span class="topo-membrane">GM</span></span>
-<span class="topo-line"><span class="topo-membrane">GIVMSLIVLAIVFGNVLVITAIA</span><span class="topo-inside">KFERLQTVTNY</span><span class="topo-membrane">FITSLACADLVMGLAVVPFGA</span><span class="topo-outside">AHILM</span></span>
-<span class="topo-line"><span class="topo-outside">KMWTFGNFWCEF</span><span class="topo-membrane">WTSIDVLCVTASIWTLCVIAV</span><span class="topo-inside">DRYFAITSPFKYQSLLTKNKA</span><span class="topo-membrane">RVIILM</span></span>
-<span class="topo-line"><span class="topo-membrane">VWIVSGLTSFLPIQ</span><span class="topo-outside">MHWYRATHQEAINCYAEETCCDFFTNQA</span><span class="topo-membrane">YAIASSIVSFYVPLVIMV</span></span>
-<span class="topo-line"><span class="topo-membrane">FVYS</span><span class="topo-inside">RVFQEAKRQLNIFEMLRIDEGLRLKIYKDTEGYYTIGIGHLLTKSPSLNAAKSELD</span></span>
-<span class="topo-line"><span class="topo-inside">KAIGRNTNGVITKDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVFQMG</span></span>
-<span class="topo-line"><span class="topo-inside">ETGVAGFTNSLRMLQQKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWDAYKFCLKE</span></span>
-<span class="topo-line"><span class="topo-inside">HKALKTL</span><span class="topo-membrane">GIIMGTFTLCWLPFFIVNIVHVI</span><span class="topo-outside">QDNLIRKEV</span><span class="topo-membrane">YILLNWIGYVNSGFNPLIYC</span><span class="topo-inside">R</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MKTIIALSYIFCLVFADYKDDDDAMGQPGNGSAFLLAPNRSHAPDHDVTQQRDE</span><span class="topo-outside">VWVV</span><span class="topo-membrane">GMGIVMSLIVLAIVFGNVLVITAIA</span><span class="topo-inside">KFERLQTVTNY</span><span class="topo-membrane">FITSLACADLVMGLAVVPFGA</span><span class="topo-outside">AHILM</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">KMWTFGNFWCEF</span><span class="topo-membrane">WTSIDVLCVTASIWTLCVIAV</span><span class="topo-inside">DRYFAITSPFKYQSLLTKNKA</span><span class="topo-membrane">RVIILMVWIVSGLTSFLPIQ</span><span class="topo-outside">MHWYRATHQEAINCYAEETCCDFFTNQA</span><span class="topo-membrane">YAIASSIVSFYVPLVIMV</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">FVYS</span><span class="topo-inside">RVFQEAKRQLNIFEMLRIDEGLRLKIYKDTEGYYTIGIGHLLTKSPSLNAAKSELDKAIGRNTNGVITKDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVFQMG</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">ETGVAGFTNSLRMLQQKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWDAYKFCLKEHKALKTL</span><span class="topo-membrane">GIIMGTFTLCWLPFFIVNIVHVI</span><span class="topo-outside">QDNLIRKEV</span><span class="topo-membrane">YILLNWIGYVNSGFNPLIYC</span><span class="topo-inside">R</span></span>
+<span class="topo-ruler">       490       500      </span>
 <span class="topo-line"><span class="topo-inside">S</span><span class="topo-unknown">PDFRIAFQEL</span><span class="topo-inside">LCL</span><span class="topo-unknown">RRSSLKHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -577,6 +581,7 @@ The human beta-2 adrenergic receptor (β2AR) is a prototypic class A G-protein-c
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -592,15 +597,17 @@ The human beta-2 adrenergic receptor (β2AR) is a prototypic class A G-protein-c
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MKTIIALSYIFCLVFADYKDDDDAMGQPGNGSAFLLAPNRSHAPDHDVTQQRDE</span><span class="topo-outside">VWVVG</span><span class="topo-membrane">M</span></span>
-<span class="topo-line"><span class="topo-membrane">GIVMSLIVLAIVFGNVLVITAIA</span><span class="topo-inside">KFERLQTVTNY</span><span class="topo-membrane">FITSLACADLVMGLAVVPFGA</span><span class="topo-outside">AHILM</span></span>
-<span class="topo-line"><span class="topo-outside">KMWTFGNFWCEF</span><span class="topo-membrane">WTSIDVLCVTASIWTLCVIAV</span><span class="topo-inside">DRYFAITSPFKYQSLLTKNKA</span><span class="topo-membrane">RVIILM</span></span>
-<span class="topo-line"><span class="topo-membrane">VWIVSGLTSFLPI</span><span class="topo-outside">QMHWYRATHQEAINCYAEETCCDFFTNQA</span><span class="topo-membrane">YAIASSIVSFYVPLVIMV</span></span>
-<span class="topo-line"><span class="topo-membrane">FVY</span><span class="topo-inside">SRVFQEAKRQLNIFEMLRIDEGLRLKIYKDTEGYYTIGIGHLLTKSPSLNAAKSELD</span></span>
-<span class="topo-line"><span class="topo-inside">KAIGRNTNGVITKDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVFQMG</span></span>
-<span class="topo-line"><span class="topo-inside">ETGVAGFTNSLRMLQQKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWDAYKFCLKE</span></span>
-<span class="topo-line"><span class="topo-inside">HKALKTL</span><span class="topo-membrane">GIIMGTFTLCWLPFFIVNIVHV</span><span class="topo-outside">IQDNLIRKEV</span><span class="topo-membrane">YILLNWIGYVNSGFNPLIYC</span><span class="topo-inside">R</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MKTIIALSYIFCLVFADYKDDDDAMGQPGNGSAFLLAPNRSHAPDHDVTQQRDE</span><span class="topo-outside">VWVVG</span><span class="topo-membrane">MGIVMSLIVLAIVFGNVLVITAIA</span><span class="topo-inside">KFERLQTVTNY</span><span class="topo-membrane">FITSLACADLVMGLAVVPFGA</span><span class="topo-outside">AHILM</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">KMWTFGNFWCEF</span><span class="topo-membrane">WTSIDVLCVTASIWTLCVIAV</span><span class="topo-inside">DRYFAITSPFKYQSLLTKNKA</span><span class="topo-membrane">RVIILMVWIVSGLTSFLPI</span><span class="topo-outside">QMHWYRATHQEAINCYAEETCCDFFTNQA</span><span class="topo-membrane">YAIASSIVSFYVPLVIMV</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">FVY</span><span class="topo-inside">SRVFQEAKRQLNIFEMLRIDEGLRLKIYKDTEGYYTIGIGHLLTKSPSLNAAKSELDKAIGRNTNGVITKDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVFQMG</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">ETGVAGFTNSLRMLQQKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWDAYKFCLKEHKALKTL</span><span class="topo-membrane">GIIMGTFTLCWLPFFIVNIVHV</span><span class="topo-outside">IQDNLIRKEV</span><span class="topo-membrane">YILLNWIGYVNSGFNPLIYC</span><span class="topo-inside">R</span></span>
+<span class="topo-ruler">       490       500      </span>
 <span class="topo-line"><span class="topo-inside">S</span><span class="topo-unknown">PDFRIAFQEL</span><span class="topo-inside">LCL</span><span class="topo-unknown">RRSSLKHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -731,6 +738,7 @@ The human beta-2 adrenergic receptor (β2AR) is a prototypic class A G-protein-c
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -746,15 +754,17 @@ The human beta-2 adrenergic receptor (β2AR) is a prototypic class A G-protein-c
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MKTIIALSYIFCLVFADYKDDDDAMGQPGNGSAFLLAPNRSHAPDHDVTQQR</span><span class="topo-outside">DEV</span><span class="topo-membrane">WVVGM</span></span>
-<span class="topo-line"><span class="topo-membrane">GIVMSLIVLAIVFGNVLVITAIA</span><span class="topo-inside">KFERLQTVTNY</span><span class="topo-membrane">FITSLACADLVMGLAVVPFGAAHIL</span><span class="topo-outside">M</span></span>
-<span class="topo-line"><span class="topo-outside">KMWTFGNFW</span><span class="topo-membrane">CEFWTSIDVLCVTASIWTLCVIAV</span><span class="topo-inside">DRYFAITSPFKYQSLLTKNKA</span><span class="topo-membrane">RVIILM</span></span>
-<span class="topo-line"><span class="topo-membrane">VWIVSGLTSFLPIQMHWY</span><span class="topo-outside">RATH</span><span class="topo-unknown">QEAINCYA</span><span class="topo-outside">EETCCDFFTNQ</span><span class="topo-membrane">AYAIASSIVSFYVPLVIMV</span></span>
-<span class="topo-line"><span class="topo-membrane">FVY</span><span class="topo-inside">SRVFQEAKRQLNIFEMLRIDEGLRLKIYKDTEGYYTIGIGHLLTKSPSLNAAKSELD</span></span>
-<span class="topo-line"><span class="topo-inside">KAIGRNTNGVITKDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVFQMG</span></span>
-<span class="topo-line"><span class="topo-inside">ETGVAGFTNSLRMLQQKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWDAYKFCLKE</span></span>
-<span class="topo-line"><span class="topo-inside">HKALKTL</span><span class="topo-membrane">GIIMGTFTLCWLPFFIVNIVHVIQ</span><span class="topo-outside">DNLIRKE</span><span class="topo-membrane">VYILLNWIGYVNSGFNPLIY</span><span class="topo-inside">CR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MKTIIALSYIFCLVFADYKDDDDAMGQPGNGSAFLLAPNRSHAPDHDVTQQR</span><span class="topo-outside">DEV</span><span class="topo-membrane">WVVGMGIVMSLIVLAIVFGNVLVITAIA</span><span class="topo-inside">KFERLQTVTNY</span><span class="topo-membrane">FITSLACADLVMGLAVVPFGAAHIL</span><span class="topo-outside">M</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">KMWTFGNFW</span><span class="topo-membrane">CEFWTSIDVLCVTASIWTLCVIAV</span><span class="topo-inside">DRYFAITSPFKYQSLLTKNKA</span><span class="topo-membrane">RVIILMVWIVSGLTSFLPIQMHWY</span><span class="topo-outside">RATH</span><span class="topo-unknown">QEAINCYA</span><span class="topo-outside">EETCCDFFTNQ</span><span class="topo-membrane">AYAIASSIVSFYVPLVIMV</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">FVY</span><span class="topo-inside">SRVFQEAKRQLNIFEMLRIDEGLRLKIYKDTEGYYTIGIGHLLTKSPSLNAAKSELDKAIGRNTNGVITKDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVFQMG</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">ETGVAGFTNSLRMLQQKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWDAYKFCLKEHKALKTL</span><span class="topo-membrane">GIIMGTFTLCWLPFFIVNIVHVIQ</span><span class="topo-outside">DNLIRKE</span><span class="topo-membrane">VYILLNWIGYVNSGFNPLIY</span><span class="topo-inside">CR</span></span>
+<span class="topo-ruler">       490       500      </span>
 <span class="topo-line"><span class="topo-inside">S</span><span class="topo-unknown">PDFRIAFQELL</span><span class="topo-inside">CL</span><span class="topo-unknown">RRSSLKHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -899,6 +909,7 @@ The human beta-2 adrenergic receptor (β2AR) is a prototypic class A G-protein-c
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -914,15 +925,17 @@ The human beta-2 adrenergic receptor (β2AR) is a prototypic class A G-protein-c
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MKTIIALSYIFCLVFADYKDDDDAMGQPGNGSAFLLAPNRSHAPDHDVTQQ</span><span class="topo-outside">RDEVW</span><span class="topo-membrane">VVGM</span></span>
-<span class="topo-line"><span class="topo-membrane">GIVMSLIVLAIVFGNVLVITA</span><span class="topo-inside">IAKFERLQTVTNY</span><span class="topo-membrane">FITSLACADLVMGLAVVPFGAA</span><span class="topo-outside">HILM</span></span>
-<span class="topo-line"><span class="topo-outside">KMWTFGNFWCE</span><span class="topo-membrane">FWTSIDVLCVTASIWTLCVIAV</span><span class="topo-inside">DRYFAITSPFKYQSLLTKNKA</span><span class="topo-membrane">RVIILM</span></span>
-<span class="topo-line"><span class="topo-membrane">VWIVSGLTSFLPIQM</span><span class="topo-outside">HWYRATHQEAINCYAEETCCDFFTNQ</span><span class="topo-membrane">AYAIASSIVSFYVPLVIMV</span></span>
-<span class="topo-line"><span class="topo-membrane">FVY</span><span class="topo-inside">SRVFQEAKRQLNIFEMLRIDEGLRLKIYKDTEGYYTIGIGHLLTKSPSLNAAKSELD</span></span>
-<span class="topo-line"><span class="topo-inside">KAIGRNTNGVITKDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVFQMG</span></span>
-<span class="topo-line"><span class="topo-inside">ETGVAGFTNSLRMLQQKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWDAYKFCLKE</span></span>
-<span class="topo-line"><span class="topo-inside">HKALKTL</span><span class="topo-membrane">GIIMGTFTLCWLPFFIVNIVHVIQ</span><span class="topo-outside">DNLIRKE</span><span class="topo-membrane">VYILLNWIGYVNSGFNPLIY</span><span class="topo-inside">CR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MKTIIALSYIFCLVFADYKDDDDAMGQPGNGSAFLLAPNRSHAPDHDVTQQ</span><span class="topo-outside">RDEVW</span><span class="topo-membrane">VVGMGIVMSLIVLAIVFGNVLVITA</span><span class="topo-inside">IAKFERLQTVTNY</span><span class="topo-membrane">FITSLACADLVMGLAVVPFGAA</span><span class="topo-outside">HILM</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">KMWTFGNFWCE</span><span class="topo-membrane">FWTSIDVLCVTASIWTLCVIAV</span><span class="topo-inside">DRYFAITSPFKYQSLLTKNKA</span><span class="topo-membrane">RVIILMVWIVSGLTSFLPIQM</span><span class="topo-outside">HWYRATHQEAINCYAEETCCDFFTNQ</span><span class="topo-membrane">AYAIASSIVSFYVPLVIMV</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">FVY</span><span class="topo-inside">SRVFQEAKRQLNIFEMLRIDEGLRLKIYKDTEGYYTIGIGHLLTKSPSLNAAKSELDKAIGRNTNGVITKDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVFQMG</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">ETGVAGFTNSLRMLQQKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWDAYKFCLKEHKALKTL</span><span class="topo-membrane">GIIMGTFTLCWLPFFIVNIVHVIQ</span><span class="topo-outside">DNLIRKE</span><span class="topo-membrane">VYILLNWIGYVNSGFNPLIY</span><span class="topo-inside">CR</span></span>
+<span class="topo-ruler">       490       500      </span>
 <span class="topo-line"><span class="topo-inside">S</span><span class="topo-unknown">PDFRIAFQEL</span><span class="topo-inside">LCL</span><span class="topo-unknown">RRSSLKHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1053,6 +1066,7 @@ The human beta-2 adrenergic receptor (β2AR) is a prototypic class A G-protein-c
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1068,15 +1082,17 @@ The human beta-2 adrenergic receptor (β2AR) is a prototypic class A G-protein-c
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MKTIIALSYIFCLVFADYKDDDDAMGQPGNGSAFLLAPNRSHAPDHDVTQQR</span><span class="topo-outside">DEV</span><span class="topo-membrane">WVVGM</span></span>
-<span class="topo-line"><span class="topo-membrane">GIVMSLIVLAIVFGNVLVITA</span><span class="topo-inside">IAKFERLQTVTNY</span><span class="topo-membrane">FITSLACADLVMGLAVVPFGAAHIL</span><span class="topo-outside">M</span></span>
-<span class="topo-line"><span class="topo-outside">KMWTFGNFW</span><span class="topo-membrane">CEFWTSIDVLCVTASIWTLCVIAV</span><span class="topo-inside">DRYFAITSPFKYQSLLTKNKA</span><span class="topo-membrane">RVIILM</span></span>
-<span class="topo-line"><span class="topo-membrane">VWIVSGLTSFLPIQM</span><span class="topo-outside">HWYRATH</span><span class="topo-unknown">QEAINCYA</span><span class="topo-outside">EETCCDFFTNQ</span><span class="topo-membrane">AYAIASSIVSFYVPLVIMV</span></span>
-<span class="topo-line"><span class="topo-membrane">FVY</span><span class="topo-inside">SRVFQEAKRQLNIFEMLRIDEGLRLKIYKDTEGYYTIGIGHLLTKSPSLNAAKSELD</span></span>
-<span class="topo-line"><span class="topo-inside">KAIGRNTNGVITKDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVFQMG</span></span>
-<span class="topo-line"><span class="topo-inside">ETGVAGFTNSLRMLQQKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWDAYKFCLKE</span></span>
-<span class="topo-line"><span class="topo-inside">HKALKTL</span><span class="topo-membrane">GIIMGTFTLCWLPFFIVNIVHVIQ</span><span class="topo-outside">DNL</span><span class="topo-membrane">IRKEVYILLNWIGYVNSGFNPLIY</span><span class="topo-inside">CR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MKTIIALSYIFCLVFADYKDDDDAMGQPGNGSAFLLAPNRSHAPDHDVTQQR</span><span class="topo-outside">DEV</span><span class="topo-membrane">WVVGMGIVMSLIVLAIVFGNVLVITA</span><span class="topo-inside">IAKFERLQTVTNY</span><span class="topo-membrane">FITSLACADLVMGLAVVPFGAAHIL</span><span class="topo-outside">M</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">KMWTFGNFW</span><span class="topo-membrane">CEFWTSIDVLCVTASIWTLCVIAV</span><span class="topo-inside">DRYFAITSPFKYQSLLTKNKA</span><span class="topo-membrane">RVIILMVWIVSGLTSFLPIQM</span><span class="topo-outside">HWYRATH</span><span class="topo-unknown">QEAINCYA</span><span class="topo-outside">EETCCDFFTNQ</span><span class="topo-membrane">AYAIASSIVSFYVPLVIMV</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">FVY</span><span class="topo-inside">SRVFQEAKRQLNIFEMLRIDEGLRLKIYKDTEGYYTIGIGHLLTKSPSLNAAKSELDKAIGRNTNGVITKDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVFQMG</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">ETGVAGFTNSLRMLQQKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWDAYKFCLKEHKALKTL</span><span class="topo-membrane">GIIMGTFTLCWLPFFIVNIVHVIQ</span><span class="topo-outside">DNL</span><span class="topo-membrane">IRKEVYILLNWIGYVNSGFNPLIY</span><span class="topo-inside">CR</span></span>
+<span class="topo-ruler">       490       500      </span>
 <span class="topo-line"><span class="topo-inside">S</span><span class="topo-unknown">PDFRIAFQEL</span><span class="topo-inside">LCL</span><span class="topo-unknown">RRSSLKHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1221,6 +1237,7 @@ The human beta-2 adrenergic receptor (β2AR) is a prototypic class A G-protein-c
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1236,15 +1253,17 @@ The human beta-2 adrenergic receptor (β2AR) is a prototypic class A G-protein-c
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MKTIIALSYIFCLVFADYKDDDDAMGQPGNGSAFLLAPNRSHAPDHDVTQQR</span><span class="topo-outside">DEV</span><span class="topo-membrane">WVVGM</span></span>
-<span class="topo-line"><span class="topo-membrane">GIVMSLIVLAIVFGNVLVITA</span><span class="topo-inside">IAKFERLQTVTNY</span><span class="topo-membrane">FITSLACADLVMGLAVVPFGAAHIL</span><span class="topo-outside">M</span></span>
-<span class="topo-line"><span class="topo-outside">KMWTFGNFW</span><span class="topo-membrane">CEFWTSIDVLCVTASIWTLCVIAV</span><span class="topo-inside">DRYFAITSPFKYQSLLTKNKA</span><span class="topo-membrane">RVIILM</span></span>
-<span class="topo-line"><span class="topo-membrane">VWIVSGLTSFLPIQM</span><span class="topo-outside">HWYRATH</span><span class="topo-unknown">QEAINCYA</span><span class="topo-outside">EETCCDFFTNQ</span><span class="topo-membrane">AYAIASSIVSFYVPLVIMV</span></span>
-<span class="topo-line"><span class="topo-membrane">FVY</span><span class="topo-inside">SRVFQEAKRQLNIFEMLRIDEGLRLKIYKDTEGYYTIGIGHLLTKSPSLNAAKSELD</span></span>
-<span class="topo-line"><span class="topo-inside">KAIGRNTNGVITKDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVFQMG</span></span>
-<span class="topo-line"><span class="topo-inside">ETGVAGFTNSLRMLQQKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWDAYKFCLKE</span></span>
-<span class="topo-line"><span class="topo-inside">HKALKTL</span><span class="topo-membrane">GIIMGTFTLCWLPFFIVNIVHVIQ</span><span class="topo-outside">DNLIRKE</span><span class="topo-membrane">VYILLNWIGYVNSGFNPLIY</span><span class="topo-inside">CR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MKTIIALSYIFCLVFADYKDDDDAMGQPGNGSAFLLAPNRSHAPDHDVTQQR</span><span class="topo-outside">DEV</span><span class="topo-membrane">WVVGMGIVMSLIVLAIVFGNVLVITA</span><span class="topo-inside">IAKFERLQTVTNY</span><span class="topo-membrane">FITSLACADLVMGLAVVPFGAAHIL</span><span class="topo-outside">M</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">KMWTFGNFW</span><span class="topo-membrane">CEFWTSIDVLCVTASIWTLCVIAV</span><span class="topo-inside">DRYFAITSPFKYQSLLTKNKA</span><span class="topo-membrane">RVIILMVWIVSGLTSFLPIQM</span><span class="topo-outside">HWYRATH</span><span class="topo-unknown">QEAINCYA</span><span class="topo-outside">EETCCDFFTNQ</span><span class="topo-membrane">AYAIASSIVSFYVPLVIMV</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">FVY</span><span class="topo-inside">SRVFQEAKRQLNIFEMLRIDEGLRLKIYKDTEGYYTIGIGHLLTKSPSLNAAKSELDKAIGRNTNGVITKDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVFQMG</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">ETGVAGFTNSLRMLQQKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWDAYKFCLKEHKALKTL</span><span class="topo-membrane">GIIMGTFTLCWLPFFIVNIVHVIQ</span><span class="topo-outside">DNLIRKE</span><span class="topo-membrane">VYILLNWIGYVNSGFNPLIY</span><span class="topo-inside">CR</span></span>
+<span class="topo-ruler">       490       500      </span>
 <span class="topo-line"><span class="topo-inside">S</span><span class="topo-unknown">PDFRIAFQEL</span><span class="topo-inside">LCL</span><span class="topo-unknown">RRSSLKHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1389,6 +1408,7 @@ The human beta-2 adrenergic receptor (β2AR) is a prototypic class A G-protein-c
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1404,15 +1424,17 @@ The human beta-2 adrenergic receptor (β2AR) is a prototypic class A G-protein-c
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MKTIIALSYIFCLVFADYKDDDDAMGQPGNGSAFLLAPNRSHAPDHDVTQQR</span><span class="topo-outside">DEV</span><span class="topo-membrane">WVVGM</span></span>
-<span class="topo-line"><span class="topo-membrane">GIVMSLIVLAIVFGNVLVITAIA</span><span class="topo-inside">KFERLQTVTNY</span><span class="topo-membrane">FITSLACADLVMGLAVVPFGAAHIL</span><span class="topo-outside">M</span></span>
-<span class="topo-line"><span class="topo-outside">KMWTFGNFW</span><span class="topo-membrane">CEFWTSIDVLCVTASIWTLCVIAV</span><span class="topo-inside">DRYFAITSPFKYQSLLTKNKA</span><span class="topo-membrane">RVIILM</span></span>
-<span class="topo-line"><span class="topo-membrane">VWIVSGLTSFLPIQMHWY</span><span class="topo-outside">RATH</span><span class="topo-unknown">QEAINCYA</span><span class="topo-outside">EETCCDFFT</span><span class="topo-membrane">NQAYAIASSIVSFYVPLVIMV</span></span>
-<span class="topo-line"><span class="topo-membrane">FVY</span><span class="topo-inside">SRVFQEAKRQLNIFEMLRIDEGLRLKIYKDTEGYYTIGIGHLLTKSPSLNAAKSELD</span></span>
-<span class="topo-line"><span class="topo-inside">KAIGRNTNGVITKDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVFQMG</span></span>
-<span class="topo-line"><span class="topo-inside">ETGVAGFTNSLRMLQQKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWDAYKFCLKE</span></span>
-<span class="topo-line"><span class="topo-inside">HKALKTL</span><span class="topo-membrane">GIIMGTFTLCWLPFFIVNIVHVIQ</span><span class="topo-outside">DNL</span><span class="topo-membrane">IRKEVYILLNWIGYVNSGFNPLIY</span><span class="topo-inside">CR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MKTIIALSYIFCLVFADYKDDDDAMGQPGNGSAFLLAPNRSHAPDHDVTQQR</span><span class="topo-outside">DEV</span><span class="topo-membrane">WVVGMGIVMSLIVLAIVFGNVLVITAIA</span><span class="topo-inside">KFERLQTVTNY</span><span class="topo-membrane">FITSLACADLVMGLAVVPFGAAHIL</span><span class="topo-outside">M</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">KMWTFGNFW</span><span class="topo-membrane">CEFWTSIDVLCVTASIWTLCVIAV</span><span class="topo-inside">DRYFAITSPFKYQSLLTKNKA</span><span class="topo-membrane">RVIILMVWIVSGLTSFLPIQMHWY</span><span class="topo-outside">RATH</span><span class="topo-unknown">QEAINCYA</span><span class="topo-outside">EETCCDFFT</span><span class="topo-membrane">NQAYAIASSIVSFYVPLVIMV</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">FVY</span><span class="topo-inside">SRVFQEAKRQLNIFEMLRIDEGLRLKIYKDTEGYYTIGIGHLLTKSPSLNAAKSELDKAIGRNTNGVITKDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVFQMG</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">ETGVAGFTNSLRMLQQKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWDAYKFCLKEHKALKTL</span><span class="topo-membrane">GIIMGTFTLCWLPFFIVNIVHVIQ</span><span class="topo-outside">DNL</span><span class="topo-membrane">IRKEVYILLNWIGYVNSGFNPLIY</span><span class="topo-inside">CR</span></span>
+<span class="topo-ruler">       490       500      </span>
 <span class="topo-line"><span class="topo-inside">S</span><span class="topo-unknown">PDFRIAFQEL</span><span class="topo-inside">LCL</span><span class="topo-unknown">RRSSLKHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1557,6 +1579,7 @@ The human beta-2 adrenergic receptor (β2AR) is a prototypic class A G-protein-c
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1572,15 +1595,17 @@ The human beta-2 adrenergic receptor (β2AR) is a prototypic class A G-protein-c
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MKTIIALSYIFCLVFADYKDDDDAMGQPGNGSAFLLAPNRSHAPDHDVTQQ</span><span class="topo-outside">RDEV</span><span class="topo-membrane">WVVGM</span></span>
-<span class="topo-line"><span class="topo-membrane">GIVMSLIVLAIVFGNVLVITAIA</span><span class="topo-inside">KFERLQTVTN</span><span class="topo-membrane">YFITSLACADLVMGLAVVPFGAAHIL</span><span class="topo-outside">M</span></span>
-<span class="topo-line"><span class="topo-outside">KMWTFGNFW</span><span class="topo-membrane">CEFWTSIDVLCVTASIWTLCVIAV</span><span class="topo-inside">DRYFAITSPFKYQSLLTKNK</span><span class="topo-membrane">ARVIILM</span></span>
-<span class="topo-line"><span class="topo-membrane">VWIVSGLTSFLPIQMHWY</span><span class="topo-outside">RATH</span><span class="topo-unknown">QEAINCYA</span><span class="topo-outside">EETCCDFFT</span><span class="topo-membrane">NQAYAIASSIVSFYVPLVIMV</span></span>
-<span class="topo-line"><span class="topo-membrane">FVYS</span><span class="topo-inside">RVFQEAKRQLNIFEMLRIDEGLRLKIYKDTEGYYTIGIGHLLTKSPSLNAAKSELD</span></span>
-<span class="topo-line"><span class="topo-inside">KAIGRNTNGVITKDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVFQMG</span></span>
-<span class="topo-line"><span class="topo-inside">ETGVAGFTNSLRMLQQKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWDAYKFCLKE</span></span>
-<span class="topo-line"><span class="topo-inside">HKALKTL</span><span class="topo-membrane">GIIMGTFTLCWLPFFIVNIVHVIQ</span><span class="topo-outside">DNL</span><span class="topo-membrane">IRKEVYILLNWIGYVNSGFNPLIYC</span><span class="topo-inside">R</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MKTIIALSYIFCLVFADYKDDDDAMGQPGNGSAFLLAPNRSHAPDHDVTQQ</span><span class="topo-outside">RDEV</span><span class="topo-membrane">WVVGMGIVMSLIVLAIVFGNVLVITAIA</span><span class="topo-inside">KFERLQTVTN</span><span class="topo-membrane">YFITSLACADLVMGLAVVPFGAAHIL</span><span class="topo-outside">M</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">KMWTFGNFW</span><span class="topo-membrane">CEFWTSIDVLCVTASIWTLCVIAV</span><span class="topo-inside">DRYFAITSPFKYQSLLTKNK</span><span class="topo-membrane">ARVIILMVWIVSGLTSFLPIQMHWY</span><span class="topo-outside">RATH</span><span class="topo-unknown">QEAINCYA</span><span class="topo-outside">EETCCDFFT</span><span class="topo-membrane">NQAYAIASSIVSFYVPLVIMV</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">FVYS</span><span class="topo-inside">RVFQEAKRQLNIFEMLRIDEGLRLKIYKDTEGYYTIGIGHLLTKSPSLNAAKSELDKAIGRNTNGVITKDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVFQMG</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">ETGVAGFTNSLRMLQQKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWDAYKFCLKEHKALKTL</span><span class="topo-membrane">GIIMGTFTLCWLPFFIVNIVHVIQ</span><span class="topo-outside">DNL</span><span class="topo-membrane">IRKEVYILLNWIGYVNSGFNPLIYC</span><span class="topo-inside">R</span></span>
+<span class="topo-ruler">       490       500      </span>
 <span class="topo-line"><span class="topo-inside">S</span><span class="topo-unknown">PDFRIAFQELL</span><span class="topo-inside">CL</span><span class="topo-unknown">RRSSLKHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1725,6 +1750,7 @@ The human beta-2 adrenergic receptor (β2AR) is a prototypic class A G-protein-c
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

@@ -128,14 +128,15 @@ verified: false
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSI</span><span class="topo-outside">LFSSILFSIA</span><span class="topo-membrane">TFFSRILGLFRDV</span><span class="topo-inside">LFAKYFGVSYELDAYF</span><span class="topo-membrane">IAIMFPFFLRKVFG</span><span class="topo-outside">EGAM</span></span>
-<span class="topo-line"><span class="topo-outside">SSAFVPLYSEKSGEEKDKFLSSVIN</span><span class="topo-membrane">GFSLIILALVILSY</span><span class="topo-inside">FFP</span><span class="topo-unknown">ELIINLFG</span><span class="topo-inside">AGSSHETKIL</span></span>
-<span class="topo-line"><span class="topo-inside">AKKLL</span><span class="topo-membrane">LITSPSIYFIFLWA</span><span class="topo-outside">ISYSILNTNNKFFWPAL</span><span class="topo-membrane">TPSISNITIIIG</span><span class="topo-inside">TFLSTKYGIISP</span></span>
-<span class="topo-line"><span class="topo-membrane">TIGFLIGSILMFFS</span><span class="topo-outside">IIKSIIKHKYYFTIKH</span><span class="topo-unknown">FPHFLKLFFPTF</span><span class="topo-membrane">MTMVVSQINTVVDMN</span><span class="topo-inside">VVS</span></span>
-<span class="topo-line"><span class="topo-inside">FYDKGSISYL</span><span class="topo-membrane">QYASRFYLLPYGLFA</span><span class="topo-outside">VSVSTVVLSKISNDRKNFNYHLNDALKTTLFF</span><span class="topo-membrane">TIP</span></span>
-<span class="topo-line"><span class="topo-membrane">SMVGLIFLS</span><span class="topo-unknown">TPIIRFFY</span><span class="topo-inside">EHGAFTSKDTLITSKI</span><span class="topo-membrane">LIAYTLGLPFYG</span><span class="topo-outside">IYSTISRSYHAIKNT</span></span>
-<span class="topo-line"><span class="topo-outside">KTPFIA</span><span class="topo-membrane">ATIVSLSNIILDII</span><span class="topo-inside">FGLKYGPIG</span><span class="topo-membrane">VALATSIAGIIGVLY</span><span class="topo-outside">LLFSVKTFPIKDFLKI</span></span>
-<span class="topo-line"><span class="topo-membrane">SLNSLIMLFVIYLTD</span><span class="topo-inside">FTDNEF</span><span class="topo-membrane">WFLIQILIGILVYLIF</span><span class="topo-outside">SSIFYRDLIRRFL</span><span class="topo-unknown">YARKK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSI</span><span class="topo-outside">LFSSILFSIA</span><span class="topo-membrane">TFFSRILGLFRDV</span><span class="topo-inside">LFAKYFGVSYELDAYF</span><span class="topo-membrane">IAIMFPFFLRKVFG</span><span class="topo-outside">EGAMSSAFVPLYSEKSGEEKDKFLSSVIN</span><span class="topo-membrane">GFSLIILALVILSY</span><span class="topo-inside">FFP</span><span class="topo-unknown">ELIINLFG</span><span class="topo-inside">AGSSHETKIL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">AKKLL</span><span class="topo-membrane">LITSPSIYFIFLWA</span><span class="topo-outside">ISYSILNTNNKFFWPAL</span><span class="topo-membrane">TPSISNITIIIG</span><span class="topo-inside">TFLSTKYGIISP</span><span class="topo-membrane">TIGFLIGSILMFFS</span><span class="topo-outside">IIKSIIKHKYYFTIKH</span><span class="topo-unknown">FPHFLKLFFPTF</span><span class="topo-membrane">MTMVVSQINTVVDMN</span><span class="topo-inside">VVS</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">FYDKGSISYL</span><span class="topo-membrane">QYASRFYLLPYGLFA</span><span class="topo-outside">VSVSTVVLSKISNDRKNFNYHLNDALKTTLFF</span><span class="topo-membrane">TIPSMVGLIFLS</span><span class="topo-unknown">TPIIRFFY</span><span class="topo-inside">EHGAFTSKDTLITSKI</span><span class="topo-membrane">LIAYTLGLPFYG</span><span class="topo-outside">IYSTISRSYHAIKNT</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470     </span>
+<span class="topo-line"><span class="topo-outside">KTPFIA</span><span class="topo-membrane">ATIVSLSNIILDII</span><span class="topo-inside">FGLKYGPIG</span><span class="topo-membrane">VALATSIAGIIGVLY</span><span class="topo-outside">LLFSVKTFPIKDFLKI</span><span class="topo-membrane">SLNSLIMLFVIYLTD</span><span class="topo-inside">FTDNEF</span><span class="topo-membrane">WFLIQILIGILVYLIF</span><span class="topo-outside">SSIFYRDLIRRFL</span><span class="topo-unknown">YARKK</span></span>
+<details class="topo-details"><summary>Topology coordinates (33 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -378,6 +379,7 @@ verified: false
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

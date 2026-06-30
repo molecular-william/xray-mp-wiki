@@ -108,11 +108,13 @@ MscS (mechanosensitive channel of small conductance) is a mechanosensitive ion c
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MEDLNVVDSINGAGSWL</span><span class="topo-inside">VANQALLLSYAVNIVAA</span><span class="topo-membrane">LAIIIVGLIIARMISNAVNRLMISR</span><span class="topo-outside">K</span></span>
-<span class="topo-line"><span class="topo-outside">IDATVA</span><span class="topo-membrane">CFLSALVRYGIIAFTLIAALG</span><span class="topo-inside">RVGV</span><span class="topo-membrane">QTASVIAVLGAAGLAVG</span><span class="topo-outside">LALQGSLSNLAA</span></span>
-<span class="topo-line"><span class="topo-outside">GVLLVMFRPFRAGEYVDLGGVAGTVLSVQIFSTTMRTADGKIIVIPNGKIIAGNIINFSR</span></span>
-<span class="topo-line"><span class="topo-outside">EPVRRNEFIIGVAYDSDIDQVKQILTNIIQSEDRILKDREMTVRLNELGASSINFVVRVW</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MEDLNVVDSINGAGSWL</span><span class="topo-inside">VANQALLLSYAVNIVAA</span><span class="topo-membrane">LAIIIVGLIIARMISNAVNRLMISR</span><span class="topo-outside">KIDATVA</span><span class="topo-membrane">CFLSALVRYGIIAFTLIAALG</span><span class="topo-inside">RVGV</span><span class="topo-membrane">QTASVIAVLGAAGLAVG</span><span class="topo-outside">LALQGSLSNLAA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">GVLLVMFRPFRAGEYVDLGGVAGTVLSVQIFSTTMRTADGKIIVIPNGKIIAGNIINFSREPVRRNEFIIGVAYDSDIDQVKQILTNIIQSEDRILKDREMTVRLNELGASSINFVVRVW</span></span>
+<span class="topo-ruler">       250       260       270       280      </span>
 <span class="topo-line"><span class="topo-outside">SNSGDLQNVYWDVLERIKREFDAAGISFPYPQMDVNFKRVK</span><span class="topo-unknown">EDKAA</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -173,6 +175,7 @@ MscS (mechanosensitive channel of small conductance) is a mechanosensitive ion c
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -188,11 +191,13 @@ MscS (mechanosensitive channel of small conductance) is a mechanosensitive ion c
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MEDLNVVDSINGAGSWLVANQALL</span><span class="topo-inside">LSYAVNIVAA</span><span class="topo-membrane">LAIIIVGLIIARMISNAVNRLMISR</span><span class="topo-outside">K</span></span>
-<span class="topo-line"><span class="topo-outside">IDATVA</span><span class="topo-membrane">CFLSALVRYGIIAFTLIAALG</span><span class="topo-inside">RVGV</span><span class="topo-membrane">QTASVIAVLGAAGLAVG</span><span class="topo-outside">LALQGSLSNLAA</span></span>
-<span class="topo-line"><span class="topo-outside">GVLLVMFRPFRAGEYVDLGGVAGTVLSVQIFSTTMRTADGKIIVIPNGKIIAGNIINFSR</span></span>
-<span class="topo-line"><span class="topo-outside">EPVRRNEFIIGVAYDSDIDQVKQILTNIIQSEDRILKDREMTVRLNELGASSINFVVRVW</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MEDLNVVDSINGAGSWLVANQALL</span><span class="topo-inside">LSYAVNIVAA</span><span class="topo-membrane">LAIIIVGLIIARMISNAVNRLMISR</span><span class="topo-outside">KIDATVA</span><span class="topo-membrane">CFLSALVRYGIIAFTLIAALG</span><span class="topo-inside">RVGV</span><span class="topo-membrane">QTASVIAVLGAAGLAVG</span><span class="topo-outside">LALQGSLSNLAA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">GVLLVMFRPFRAGEYVDLGGVAGTVLSVQIFSTTMRTADGKIIVIPNGKIIAGNIINFSREPVRRNEFIIGVAYDSDIDQVKQILTNIIQSEDRILKDREMTVRLNELGASSINFVVRVW</span></span>
+<span class="topo-ruler">       250       260       270       280      </span>
 <span class="topo-line"><span class="topo-outside">SNSGDLQNVYWDVLERIKREFDAAGISFPYPQMDVNFKR</span><span class="topo-unknown">VKEDKAA</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -253,6 +258,7 @@ MscS (mechanosensitive channel of small conductance) is a mechanosensitive ion c
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -268,11 +274,13 @@ MscS (mechanosensitive channel of small conductance) is a mechanosensitive ion c
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MEDLNVVDSINGAGSWLVANQALL</span><span class="topo-inside">LSYAVNIVAA</span><span class="topo-membrane">LAIIIVGLIIARMISNAVNRLMISR</span><span class="topo-outside">K</span></span>
-<span class="topo-line"><span class="topo-outside">IDATVA</span><span class="topo-membrane">CFLSALVRYGIIAFTLIAALG</span><span class="topo-inside">RVGV</span><span class="topo-membrane">QTASVIAVLGAAGLAVG</span><span class="topo-outside">LALQGSLSNLAA</span></span>
-<span class="topo-line"><span class="topo-outside">GVLLVMFRPFRAGEYVDLGGVAGTVLSVQIFSTTMRTADGKIIVIPNGKIIAGNIINFSR</span></span>
-<span class="topo-line"><span class="topo-outside">EPVRRNEFIIGVAYDSDIDQVKQILTNIIQSEDRILKDREMTVRLNELGASSINFVVRVW</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MEDLNVVDSINGAGSWLVANQALL</span><span class="topo-inside">LSYAVNIVAA</span><span class="topo-membrane">LAIIIVGLIIARMISNAVNRLMISR</span><span class="topo-outside">KIDATVA</span><span class="topo-membrane">CFLSALVRYGIIAFTLIAALG</span><span class="topo-inside">RVGV</span><span class="topo-membrane">QTASVIAVLGAAGLAVG</span><span class="topo-outside">LALQGSLSNLAA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">GVLLVMFRPFRAGEYVDLGGVAGTVLSVQIFSTTMRTADGKIIVIPNGKIIAGNIINFSREPVRRNEFIIGVAYDSDIDQVKQILTNIIQSEDRILKDREMTVRLNELGASSINFVVRVW</span></span>
+<span class="topo-ruler">       250       260       270       280      </span>
 <span class="topo-line"><span class="topo-outside">SNSGDLQNVYWDVLERIKREFDAAGISFPYPQMDVNFKR</span><span class="topo-unknown">VKEDKAA</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -333,6 +341,7 @@ MscS (mechanosensitive channel of small conductance) is a mechanosensitive ion c
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -348,11 +357,13 @@ MscS (mechanosensitive channel of small conductance) is a mechanosensitive ion c
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MEDLNVVDSINGAGSW</span><span class="topo-inside">LVANQALLLSYAVNIVAA</span><span class="topo-membrane">LAIIIVGLIIARMISNAVNRLMISR</span><span class="topo-outside">K</span></span>
-<span class="topo-line"><span class="topo-outside">IDATVA</span><span class="topo-membrane">CFLSALVRYGIIAFTLIAALG</span><span class="topo-inside">RVGV</span><span class="topo-membrane">QTASVIAVLGAAGLAVG</span><span class="topo-outside">LALQGSLSNLAA</span></span>
-<span class="topo-line"><span class="topo-outside">GVLLVMFRPFRAGEYVDLGGVAGTVLSVQIFSTTMRTADGKIIVIPNGKIIAGNIINFSR</span></span>
-<span class="topo-line"><span class="topo-outside">EPVRRNEFIIGVAYDSDIDQVKQILTNIIQSEDRILKDREMTVRLNELGASSINFVVRVW</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MEDLNVVDSINGAGSW</span><span class="topo-inside">LVANQALLLSYAVNIVAA</span><span class="topo-membrane">LAIIIVGLIIARMISNAVNRLMISR</span><span class="topo-outside">KIDATVA</span><span class="topo-membrane">CFLSALVRYGIIAFTLIAALG</span><span class="topo-inside">RVGV</span><span class="topo-membrane">QTASVIAVLGAAGLAVG</span><span class="topo-outside">LALQGSLSNLAA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">GVLLVMFRPFRAGEYVDLGGVAGTVLSVQIFSTTMRTADGKIIVIPNGKIIAGNIINFSREPVRRNEFIIGVAYDSDIDQVKQILTNIIQSEDRILKDREMTVRLNELGASSINFVVRVW</span></span>
+<span class="topo-ruler">       250       260       270       280      </span>
 <span class="topo-line"><span class="topo-outside">SNSGDLQNVYWDVLERIKREFDAAGISFPYPQMDVNFKR</span><span class="topo-unknown">VKEDKAA</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -413,6 +424,7 @@ MscS (mechanosensitive channel of small conductance) is a mechanosensitive ion c
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -428,11 +440,13 @@ MscS (mechanosensitive channel of small conductance) is a mechanosensitive ion c
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MEDLNVVDSINGAGSW</span><span class="topo-inside">LVANQALLLSYAVNIVAA</span><span class="topo-membrane">LAIIIVGLIIARMISNAVNRLMISR</span><span class="topo-outside">K</span></span>
-<span class="topo-line"><span class="topo-outside">IDATVA</span><span class="topo-membrane">CFLSALVRYGIIAFTLIAALG</span><span class="topo-inside">RVGV</span><span class="topo-membrane">QTASVIAVLGAAGLAVG</span><span class="topo-outside">LALQGSLSNLAA</span></span>
-<span class="topo-line"><span class="topo-outside">GVLLVMFRPFRAGEYVDLGGVAGTVLSVQIFSTTMRTADGKIIVIPNGKIIAGNIINFSR</span></span>
-<span class="topo-line"><span class="topo-outside">EPVRRNEFIIGVAYDSDIDQVKQILTNIIQSEDRILKDREMTVRLNELGASSINFVVRVW</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MEDLNVVDSINGAGSW</span><span class="topo-inside">LVANQALLLSYAVNIVAA</span><span class="topo-membrane">LAIIIVGLIIARMISNAVNRLMISR</span><span class="topo-outside">KIDATVA</span><span class="topo-membrane">CFLSALVRYGIIAFTLIAALG</span><span class="topo-inside">RVGV</span><span class="topo-membrane">QTASVIAVLGAAGLAVG</span><span class="topo-outside">LALQGSLSNLAA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">GVLLVMFRPFRAGEYVDLGGVAGTVLSVQIFSTTMRTADGKIIVIPNGKIIAGNIINFSREPVRRNEFIIGVAYDSDIDQVKQILTNIIQSEDRILKDREMTVRLNELGASSINFVVRVW</span></span>
+<span class="topo-ruler">       250       260       270       280      </span>
 <span class="topo-line"><span class="topo-outside">SNSGDLQNVYWDVLERIKREFDAAGISFPYPQMDVNFK</span><span class="topo-unknown">RVKEDKAA</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -493,6 +507,7 @@ MscS (mechanosensitive channel of small conductance) is a mechanosensitive ion c
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -508,11 +523,13 @@ MscS (mechanosensitive channel of small conductance) is a mechanosensitive ion c
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MEDLNVVDSINGAGSWLVANQALL</span><span class="topo-inside">LSYAVNIVAA</span><span class="topo-membrane">LAIIIVGLIIARMISNAVNRLMISR</span><span class="topo-outside">K</span></span>
-<span class="topo-line"><span class="topo-outside">IDATVA</span><span class="topo-membrane">CFLSALVRYGIIAFTLIAALG</span><span class="topo-inside">RVGV</span><span class="topo-membrane">QTASVIAVLGAAGLAVG</span><span class="topo-outside">LALQGSLSNLAA</span></span>
-<span class="topo-line"><span class="topo-outside">GVLLVMFRPFRAGEYVDLGGVAGTVLSVQIFSTTMRTADGKIIVIPNGKIIAGNIINFSR</span></span>
-<span class="topo-line"><span class="topo-outside">EPVRRNEFIIGVAYDSDIDQVKQILTNIIQSEDRILKDREMTVRLNELGASSINFVVRVW</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MEDLNVVDSINGAGSWLVANQALL</span><span class="topo-inside">LSYAVNIVAA</span><span class="topo-membrane">LAIIIVGLIIARMISNAVNRLMISR</span><span class="topo-outside">KIDATVA</span><span class="topo-membrane">CFLSALVRYGIIAFTLIAALG</span><span class="topo-inside">RVGV</span><span class="topo-membrane">QTASVIAVLGAAGLAVG</span><span class="topo-outside">LALQGSLSNLAA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">GVLLVMFRPFRAGEYVDLGGVAGTVLSVQIFSTTMRTADGKIIVIPNGKIIAGNIINFSREPVRRNEFIIGVAYDSDIDQVKQILTNIIQSEDRILKDREMTVRLNELGASSINFVVRVW</span></span>
+<span class="topo-ruler">       250       260       270       280      </span>
 <span class="topo-line"><span class="topo-outside">SNSGDLQNVYWDVLERIKREFDAAGISFPYPQMDVNFKRV</span><span class="topo-unknown">KEDKAA</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -573,6 +590,7 @@ MscS (mechanosensitive channel of small conductance) is a mechanosensitive ion c
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -588,11 +606,13 @@ MscS (mechanosensitive channel of small conductance) is a mechanosensitive ion c
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MEDLNVVDSINGAGSWLVANQALL</span><span class="topo-inside">LSYAVNIVAA</span><span class="topo-membrane">LAIIIVGLIIARMISNAVNRLMISR</span><span class="topo-outside">K</span></span>
-<span class="topo-line"><span class="topo-outside">IDATVA</span><span class="topo-membrane">CFLSALVRYGIIAFTLIAALG</span><span class="topo-inside">RVGV</span><span class="topo-membrane">QTASVIAVLGAAGLAVG</span><span class="topo-outside">LALQGSLSNLAA</span></span>
-<span class="topo-line"><span class="topo-outside">GVLLVMFRPFRAGEYVDLGGVAGTVLSVQIFSTTMRTADGKIIVIPNGKIIAGNIINFSR</span></span>
-<span class="topo-line"><span class="topo-outside">EPVRRNEFIIGVAYDSDIDQVKQILTNIIQSEDRILKDREMTVRLNELGASSINFVVRVW</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MEDLNVVDSINGAGSWLVANQALL</span><span class="topo-inside">LSYAVNIVAA</span><span class="topo-membrane">LAIIIVGLIIARMISNAVNRLMISR</span><span class="topo-outside">KIDATVA</span><span class="topo-membrane">CFLSALVRYGIIAFTLIAALG</span><span class="topo-inside">RVGV</span><span class="topo-membrane">QTASVIAVLGAAGLAVG</span><span class="topo-outside">LALQGSLSNLAA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">GVLLVMFRPFRAGEYVDLGGVAGTVLSVQIFSTTMRTADGKIIVIPNGKIIAGNIINFSREPVRRNEFIIGVAYDSDIDQVKQILTNIIQSEDRILKDREMTVRLNELGASSINFVVRVW</span></span>
+<span class="topo-ruler">       250       260       270       280      </span>
 <span class="topo-line"><span class="topo-outside">SNSGDLQNVYWDVLERIKREFDAAGISFPYPQMDVNFK</span><span class="topo-unknown">RVKEDKAA</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -653,6 +673,7 @@ MscS (mechanosensitive channel of small conductance) is a mechanosensitive ion c
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

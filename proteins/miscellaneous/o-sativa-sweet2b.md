@@ -169,10 +169,11 @@ OsSWEET2b is a vacuolar glucose transporter from the SWEET family found in rice 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">DSLYDISCF</span><span class="topo-membrane">AAGLAGNIFALALFLSPV</span><span class="topo-inside">TTFKRILKAKSTERFDG</span><span class="topo-membrane">LPYLFSLLNCLICLW</span></span>
-<span class="topo-line"><span class="topo-membrane">YGL</span><span class="topo-outside">PWVADGR</span><span class="topo-membrane">LLVATVNGIGAVFQLAYICLFI</span><span class="topo-inside">FYADSRKTRMK</span><span class="topo-membrane">IIGLLVLVVCGFALVSH</span></span>
-<span class="topo-line"><span class="topo-membrane">AS</span><span class="topo-outside">VFFFDQPLRQQ</span><span class="topo-membrane">FVGAVSMASLISMFASPLAVM</span><span class="topo-inside">GVVIRSESVEFM</span><span class="topo-membrane">PFYLSLSTFLMSAS</span></span>
-<span class="topo-line"><span class="topo-membrane">FALYGL</span><span class="topo-outside">LLRD</span><span class="topo-membrane">FFIYFPNGLGLILGAMQLALYAY</span><span class="topo-inside">YS</span><span class="topo-unknown">SNSLEVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">DSLYDISCF</span><span class="topo-membrane">AAGLAGNIFALALFLSPV</span><span class="topo-inside">TTFKRILKAKSTERFDG</span><span class="topo-membrane">LPYLFSLLNCLICLWYGL</span><span class="topo-outside">PWVADGR</span><span class="topo-membrane">LLVATVNGIGAVFQLAYICLFI</span><span class="topo-inside">FYADSRKTRMK</span><span class="topo-membrane">IIGLLVLVVCGFALVSH</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220    </span>
+<span class="topo-line"><span class="topo-membrane">AS</span><span class="topo-outside">VFFFDQPLRQQ</span><span class="topo-membrane">FVGAVSMASLISMFASPLAVM</span><span class="topo-inside">GVVIRSESVEFM</span><span class="topo-membrane">PFYLSLSTFLMSASFALYGL</span><span class="topo-outside">LLRD</span><span class="topo-membrane">FFIYFPNGLGLILGAMQLALYAY</span><span class="topo-inside">YS</span><span class="topo-unknown">SNSLEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -289,6 +290,7 @@ OsSWEET2b is a vacuolar glucose transporter from the SWEET family found in rice 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -304,10 +306,11 @@ OsSWEET2b is a vacuolar glucose transporter from the SWEET family found in rice 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">DSLYDISCF</span><span class="topo-membrane">AAGLAGNIFALALFLSPV</span><span class="topo-inside">TTFKRILKAKSTERFDG</span><span class="topo-membrane">LPYLFSLLNCLICLW</span></span>
-<span class="topo-line"><span class="topo-membrane">YGL</span><span class="topo-outside">PWVADGR</span><span class="topo-membrane">LLVATVNGIGAVFQLAYICLFI</span><span class="topo-inside">FYADSRKTRM</span><span class="topo-membrane">KIIGLLVLVVCGFALVSH</span></span>
-<span class="topo-line"><span class="topo-membrane">AS</span><span class="topo-outside">VFFFDQPLRQQ</span><span class="topo-membrane">FVGAVSMASLISMFASPLAVM</span><span class="topo-inside">GVVIRSESVEFM</span><span class="topo-membrane">PFYLSLSTFLMSAS</span></span>
-<span class="topo-line"><span class="topo-membrane">FALYGL</span><span class="topo-outside">LLRD</span><span class="topo-membrane">FFIYFPNGLGLILGAMQLALYAY</span><span class="topo-inside">YSSNSLEV</span><span class="topo-unknown">LFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">DSLYDISCF</span><span class="topo-membrane">AAGLAGNIFALALFLSPV</span><span class="topo-inside">TTFKRILKAKSTERFDG</span><span class="topo-membrane">LPYLFSLLNCLICLWYGL</span><span class="topo-outside">PWVADGR</span><span class="topo-membrane">LLVATVNGIGAVFQLAYICLFI</span><span class="topo-inside">FYADSRKTRM</span><span class="topo-membrane">KIIGLLVLVVCGFALVSH</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220    </span>
+<span class="topo-line"><span class="topo-membrane">AS</span><span class="topo-outside">VFFFDQPLRQQ</span><span class="topo-membrane">FVGAVSMASLISMFASPLAVM</span><span class="topo-inside">GVVIRSESVEFM</span><span class="topo-membrane">PFYLSLSTFLMSASFALYGL</span><span class="topo-outside">LLRD</span><span class="topo-membrane">FFIYFPNGLGLILGAMQLALYAY</span><span class="topo-inside">YSSNSLEV</span><span class="topo-unknown">LFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -424,6 +427,7 @@ OsSWEET2b is a vacuolar glucose transporter from the SWEET family found in rice 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -439,10 +443,11 @@ OsSWEET2b is a vacuolar glucose transporter from the SWEET family found in rice 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MD</span><span class="topo-outside">SLYDISCF</span><span class="topo-membrane">AAGLAGNIFALALFLSPV</span><span class="topo-inside">TTFKRILKAKSTERFDG</span><span class="topo-membrane">LPYLFSLLNCLICLW</span></span>
-<span class="topo-line"><span class="topo-membrane">YGL</span><span class="topo-outside">PWVADGR</span><span class="topo-membrane">LLVATVNGIGAVFQLAYICLFI</span><span class="topo-inside">FYADSRKTRMK</span><span class="topo-membrane">IIGLLVLVVCGFALVSH</span></span>
-<span class="topo-line"><span class="topo-membrane">AS</span><span class="topo-outside">VFFFDQPLRQQ</span><span class="topo-membrane">FVGAVSMASLISMFASPLAVM</span><span class="topo-inside">GVVIRSESVEFM</span><span class="topo-membrane">PFYLSLSTFLMSAS</span></span>
-<span class="topo-line"><span class="topo-membrane">FALYGL</span><span class="topo-outside">LLRD</span><span class="topo-membrane">FFIYFPNGLGLILGAMQLALYAY</span><span class="topo-inside">YSSN</span><span class="topo-unknown">SLEVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MD</span><span class="topo-outside">SLYDISCF</span><span class="topo-membrane">AAGLAGNIFALALFLSPV</span><span class="topo-inside">TTFKRILKAKSTERFDG</span><span class="topo-membrane">LPYLFSLLNCLICLWYGL</span><span class="topo-outside">PWVADGR</span><span class="topo-membrane">LLVATVNGIGAVFQLAYICLFI</span><span class="topo-inside">FYADSRKTRMK</span><span class="topo-membrane">IIGLLVLVVCGFALVSH</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220    </span>
+<span class="topo-line"><span class="topo-membrane">AS</span><span class="topo-outside">VFFFDQPLRQQ</span><span class="topo-membrane">FVGAVSMASLISMFASPLAVM</span><span class="topo-inside">GVVIRSESVEFM</span><span class="topo-membrane">PFYLSLSTFLMSASFALYGL</span><span class="topo-outside">LLRD</span><span class="topo-membrane">FFIYFPNGLGLILGAMQLALYAY</span><span class="topo-inside">YSSN</span><span class="topo-unknown">SLEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -559,6 +564,7 @@ OsSWEET2b is a vacuolar glucose transporter from the SWEET family found in rice 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -574,10 +580,11 @@ OsSWEET2b is a vacuolar glucose transporter from the SWEET family found in rice 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">DSLYDISCF</span><span class="topo-membrane">AAGLAGNIFALALFLSPV</span><span class="topo-inside">TTFKRILKAKSTERFDGL</span><span class="topo-membrane">PYLFSLLNCLICLW</span></span>
-<span class="topo-line"><span class="topo-membrane">YGL</span><span class="topo-outside">PWVADGR</span><span class="topo-membrane">LLVATVNGIGAVFQLAYICL</span><span class="topo-inside">FIFYADSRKTRMKI</span><span class="topo-membrane">IGLLVLVVCGFALVSH</span></span>
-<span class="topo-line"><span class="topo-membrane">AS</span><span class="topo-outside">VFFFDQPLRQQ</span><span class="topo-membrane">FVGAVSMASLISMFASPLA</span><span class="topo-inside">VMGVVIRSESVEFM</span><span class="topo-membrane">PFYLSLSTFLMSAS</span></span>
-<span class="topo-line"><span class="topo-membrane">FALYGL</span><span class="topo-outside">LLRD</span><span class="topo-membrane">FFIYFPNGLGLILGAMQLALYA</span><span class="topo-inside">Y</span><span class="topo-unknown">YSSNSLEVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">DSLYDISCF</span><span class="topo-membrane">AAGLAGNIFALALFLSPV</span><span class="topo-inside">TTFKRILKAKSTERFDGL</span><span class="topo-membrane">PYLFSLLNCLICLWYGL</span><span class="topo-outside">PWVADGR</span><span class="topo-membrane">LLVATVNGIGAVFQLAYICL</span><span class="topo-inside">FIFYADSRKTRMKI</span><span class="topo-membrane">IGLLVLVVCGFALVSH</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220    </span>
+<span class="topo-line"><span class="topo-membrane">AS</span><span class="topo-outside">VFFFDQPLRQQ</span><span class="topo-membrane">FVGAVSMASLISMFASPLA</span><span class="topo-inside">VMGVVIRSESVEFM</span><span class="topo-membrane">PFYLSLSTFLMSASFALYGL</span><span class="topo-outside">LLRD</span><span class="topo-membrane">FFIYFPNGLGLILGAMQLALYA</span><span class="topo-inside">Y</span><span class="topo-unknown">YSSNSLEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -694,6 +701,7 @@ OsSWEET2b is a vacuolar glucose transporter from the SWEET family found in rice 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -709,10 +717,11 @@ OsSWEET2b is a vacuolar glucose transporter from the SWEET family found in rice 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MD</span><span class="topo-outside">SLYDISCF</span><span class="topo-membrane">AAGLAGNIFALALFLSPV</span><span class="topo-inside">TTFKRILKAKSTERFDGL</span><span class="topo-membrane">PYLFSLLNCLICLW</span></span>
-<span class="topo-line"><span class="topo-membrane">YGL</span><span class="topo-outside">PWVADGR</span><span class="topo-membrane">LLVATVNGIGAVFQLAYICL</span><span class="topo-inside">FIFYADSRKTRMKI</span><span class="topo-membrane">IGLLVLVVCGFALVSH</span></span>
-<span class="topo-line"><span class="topo-membrane">AS</span><span class="topo-outside">VFFFDQPLRQQ</span><span class="topo-membrane">FVGAVSMASLISMFASPLA</span><span class="topo-inside">VMGVVIRSESVEFMP</span><span class="topo-membrane">FYLSLSTFLMSAS</span></span>
-<span class="topo-line"><span class="topo-membrane">FALYGL</span><span class="topo-outside">LLRD</span><span class="topo-membrane">FFIYFPNGLGLILGAMQLALYA</span><span class="topo-inside">YYSSN</span><span class="topo-unknown">SLEVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MD</span><span class="topo-outside">SLYDISCF</span><span class="topo-membrane">AAGLAGNIFALALFLSPV</span><span class="topo-inside">TTFKRILKAKSTERFDGL</span><span class="topo-membrane">PYLFSLLNCLICLWYGL</span><span class="topo-outside">PWVADGR</span><span class="topo-membrane">LLVATVNGIGAVFQLAYICL</span><span class="topo-inside">FIFYADSRKTRMKI</span><span class="topo-membrane">IGLLVLVVCGFALVSH</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220    </span>
+<span class="topo-line"><span class="topo-membrane">AS</span><span class="topo-outside">VFFFDQPLRQQ</span><span class="topo-membrane">FVGAVSMASLISMFASPLA</span><span class="topo-inside">VMGVVIRSESVEFMP</span><span class="topo-membrane">FYLSLSTFLMSASFALYGL</span><span class="topo-outside">LLRD</span><span class="topo-membrane">FFIYFPNGLGLILGAMQLALYA</span><span class="topo-inside">YYSSN</span><span class="topo-unknown">SLEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -829,6 +838,7 @@ OsSWEET2b is a vacuolar glucose transporter from the SWEET family found in rice 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -844,10 +854,11 @@ OsSWEET2b is a vacuolar glucose transporter from the SWEET family found in rice 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MDSL</span><span class="topo-outside">YDISCF</span><span class="topo-membrane">AAGLAGNIFALALFLSPV</span><span class="topo-inside">TTFKRILKAKSTERFDGL</span><span class="topo-membrane">PYLFSLLNCLICLW</span></span>
-<span class="topo-line"><span class="topo-membrane">YGL</span><span class="topo-outside">PWVADGRL</span><span class="topo-membrane">LVATVNGIGAVFQLAYICL</span><span class="topo-inside">FIFYADSRKTRMKI</span><span class="topo-membrane">IGLLVLVVCGFALVSH</span></span>
-<span class="topo-line"><span class="topo-membrane">AS</span><span class="topo-outside">VFFFDQPLRQQ</span><span class="topo-membrane">FVGAVSMASLISMFASPLA</span><span class="topo-inside">VMGVVIRSESVEFMPF</span><span class="topo-membrane">YLSLSTFLMSAS</span></span>
-<span class="topo-line"><span class="topo-membrane">FALYGL</span><span class="topo-outside">LLRD</span><span class="topo-membrane">FFIYFPNGLGLILGAMQLALYA</span><span class="topo-inside">YYSSN</span><span class="topo-unknown">SLEVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MDSL</span><span class="topo-outside">YDISCF</span><span class="topo-membrane">AAGLAGNIFALALFLSPV</span><span class="topo-inside">TTFKRILKAKSTERFDGL</span><span class="topo-membrane">PYLFSLLNCLICLWYGL</span><span class="topo-outside">PWVADGRL</span><span class="topo-membrane">LVATVNGIGAVFQLAYICL</span><span class="topo-inside">FIFYADSRKTRMKI</span><span class="topo-membrane">IGLLVLVVCGFALVSH</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220    </span>
+<span class="topo-line"><span class="topo-membrane">AS</span><span class="topo-outside">VFFFDQPLRQQ</span><span class="topo-membrane">FVGAVSMASLISMFASPLA</span><span class="topo-inside">VMGVVIRSESVEFMPF</span><span class="topo-membrane">YLSLSTFLMSASFALYGL</span><span class="topo-outside">LLRD</span><span class="topo-membrane">FFIYFPNGLGLILGAMQLALYA</span><span class="topo-inside">YYSSN</span><span class="topo-unknown">SLEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -964,6 +975,7 @@ OsSWEET2b is a vacuolar glucose transporter from the SWEET family found in rice 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

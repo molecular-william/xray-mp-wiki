@@ -118,16 +118,17 @@ NmEptA is a [Lipid A](/xray-mp-wiki/reagents/lipids/lipid-a/) phosphoethanolamin
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MIKPNLR</span><span class="topo-inside">PKLG</span><span class="topo-membrane">SSALIAFLSLYSSLVLNY</span><span class="topo-outside">AFFAKVVELHPFNGTGADIFLY</span><span class="topo-membrane">TMPVVLFFL</span></span>
-<span class="topo-line"><span class="topo-membrane">SNFVFHVIALPF</span><span class="topo-inside">V</span><span class="topo-membrane">HKVLIPLILVISAAVSY</span><span class="topo-outside">QEIFFNIYFN</span><span class="topo-unknown">KSMLNNVLQ</span><span class="topo-outside">TTAAESARLIT</span></span>
-<span class="topo-line"><span class="topo-outside">P</span><span class="topo-membrane">GYVLWIVCLGVLPALAYIAV</span><span class="topo-inside">KVKYRVWYKEFL</span><span class="topo-membrane">TRLVLAAVSFLCALGIAML</span><span class="topo-outside">Q</span><span class="topo-unknown">YQDYASF</span></span>
-<span class="topo-line"><span class="topo-unknown">FRN</span><span class="topo-outside">NKSVTHLIVPSNFI</span><span class="topo-unknown">GAGVSKYKDWKRSNI</span><span class="topo-outside">PYTQLDMAVVQNRPAGSLRRFVVLVVGE</span></span>
-<span class="topo-line"><span class="topo-outside">TTRAANWGLNGYSRQTTPLLAARGDEIVNFPQVRSCGTSTAHSLPCMFSTFDRTDYDEIK</span></span>
-<span class="topo-line"><span class="topo-outside">AEHQDNLLDIVQRAGVEVTWLENDSGCKGVCGKVPNTDVTSLNLPEYCRNGECLDNILLT</span></span>
-<span class="topo-line"><span class="topo-outside">KFDEVLNKNDKDAVLILHTIGSHGPTYYERYTEAERKFTPTCDTNEINKCTRATLVNTYD</span></span>
-<span class="topo-line"><span class="topo-outside">NTVLYVDQFIDKVIRKLENRDDLESVVHYVSDHGESLGENGMYLHAAPYAIAPSGQTHIP</span></span>
-<span class="topo-line"><span class="topo-outside">MVMWFSKAFRQHGGIDFQCLKQKAAENEYSHDHYFSTVLGLMDISNSQTYRKEMDILAAC</span></span>
-<span class="topo-line"><span class="topo-outside">RRP</span><span class="topo-unknown">RHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MIKPNLR</span><span class="topo-inside">PKLG</span><span class="topo-membrane">SSALIAFLSLYSSLVLNY</span><span class="topo-outside">AFFAKVVELHPFNGTGADIFLY</span><span class="topo-membrane">TMPVVLFFLSNFVFHVIALPF</span><span class="topo-inside">V</span><span class="topo-membrane">HKVLIPLILVISAAVSY</span><span class="topo-outside">QEIFFNIYFN</span><span class="topo-unknown">KSMLNNVLQ</span><span class="topo-outside">TTAAESARLIT</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">P</span><span class="topo-membrane">GYVLWIVCLGVLPALAYIAV</span><span class="topo-inside">KVKYRVWYKEFL</span><span class="topo-membrane">TRLVLAAVSFLCALGIAML</span><span class="topo-outside">Q</span><span class="topo-unknown">YQDYASFFRN</span><span class="topo-outside">NKSVTHLIVPSNFI</span><span class="topo-unknown">GAGVSKYKDWKRSNI</span><span class="topo-outside">PYTQLDMAVVQNRPAGSLRRFVVLVVGE</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">TTRAANWGLNGYSRQTTPLLAARGDEIVNFPQVRSCGTSTAHSLPCMFSTFDRTDYDEIKAEHQDNLLDIVQRAGVEVTWLENDSGCKGVCGKVPNTDVTSLNLPEYCRNGECLDNILLT</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">KFDEVLNKNDKDAVLILHTIGSHGPTYYERYTEAERKFTPTCDTNEINKCTRATLVNTYDNTVLYVDQFIDKVIRKLENRDDLESVVHYVSDHGESLGENGMYLHAAPYAIAPSGQTHIP</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550</span>
+<span class="topo-line"><span class="topo-outside">MVMWFSKAFRQHGGIDFQCLKQKAAENEYSHDHYFSTVLGLMDISNSQTYRKEMDILAACRRP</span><span class="topo-unknown">RHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -258,6 +259,7 @@ NmEptA is a [Lipid A](/xray-mp-wiki/reagents/lipids/lipid-a/) phosphoethanolamin
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

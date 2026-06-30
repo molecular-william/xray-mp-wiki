@@ -161,11 +161,13 @@ solved from bovine red blood cells.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGHHHHHHSSGVDLGTENLYFQSMA</span><span class="topo-inside">SEFKKKLFWRA</span><span class="topo-membrane">VVAEFLATTLFVFISIGSA</span><span class="topo-outside">LGFKY</span></span>
-<span class="topo-line"><span class="topo-outside">PVGNNQTAVQDN</span><span class="topo-membrane">VKVSLAFGLSIATLAQSVG</span><span class="topo-inside">HIS</span><span class="topo-unknown">GAHLNPAVTLGLLL</span><span class="topo-inside">SCQISIF</span><span class="topo-membrane">RALMY</span></span>
-<span class="topo-line"><span class="topo-membrane">IIAQCVGAIVATAIL</span><span class="topo-outside">SGITSSLTGNSLGRNDLADGVNSGQ</span><span class="topo-membrane">GLGIEIIGTLQLVLCVLAT</span><span class="topo-inside">T</span></span>
-<span class="topo-line"><span class="topo-inside">DRRRRDLGG</span><span class="topo-membrane">SAPLAIGLSVALGHLLAI</span><span class="topo-outside">DYTG</span><span class="topo-unknown">CGINPARSFGSAVI</span><span class="topo-outside">THNFSNH</span><span class="topo-membrane">WIFWVGPF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGHHHHHHSSGVDLGTENLYFQSMA</span><span class="topo-inside">SEFKKKLFWRA</span><span class="topo-membrane">VVAEFLATTLFVFISIGSA</span><span class="topo-outside">LGFKYPVGNNQTAVQDN</span><span class="topo-membrane">VKVSLAFGLSIATLAQSVG</span><span class="topo-inside">HIS</span><span class="topo-unknown">GAHLNPAVTLGLLL</span><span class="topo-inside">SCQISIF</span><span class="topo-membrane">RALMY</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">IIAQCVGAIVATAIL</span><span class="topo-outside">SGITSSLTGNSLGRNDLADGVNSGQ</span><span class="topo-membrane">GLGIEIIGTLQLVLCVLAT</span><span class="topo-inside">TDRRRRDLGG</span><span class="topo-membrane">SAPLAIGLSVALGHLLAI</span><span class="topo-outside">DYTG</span><span class="topo-unknown">CGINPARSFGSAVI</span><span class="topo-outside">THNFSNH</span><span class="topo-membrane">WIFWVGPF</span></span>
+<span class="topo-ruler">       250       260       270       280       290  </span>
 <span class="topo-line"><span class="topo-membrane">IGGALAVLIY</span><span class="topo-inside">DFILAPRS</span><span class="topo-unknown">SDLTDRVKVWTSGQVEEYDLDADDINSRVEMKPK</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -296,6 +298,7 @@ solved from bovine red blood cells.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -311,11 +314,13 @@ solved from bovine red blood cells.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGHHHHHHSSGVDLGTENLYFQSMA</span><span class="topo-inside">SEFKKKLFWRA</span><span class="topo-membrane">VVAEFLATTLFVFISIGSA</span><span class="topo-outside">LGFKY</span></span>
-<span class="topo-line"><span class="topo-outside">PVGNNQTAVQDN</span><span class="topo-membrane">VKVSLAFGLSIATLAQSVG</span><span class="topo-inside">HIS</span><span class="topo-unknown">GAHLNPAVTLGLLL</span><span class="topo-inside">SCQISIF</span><span class="topo-membrane">RALMY</span></span>
-<span class="topo-line"><span class="topo-membrane">IIAQCVGAIVATAIL</span><span class="topo-outside">SGITSSLTGNSLGRNDLADGVNSGQ</span><span class="topo-membrane">GLGIEIIGTLQLVLCVLAT</span><span class="topo-inside">T</span></span>
-<span class="topo-line"><span class="topo-inside">DRRRRDLGG</span><span class="topo-membrane">SAPLAIGLSVALGHLLAI</span><span class="topo-outside">DYTG</span><span class="topo-unknown">CGINPARSFGSAVI</span><span class="topo-outside">THNFSNH</span><span class="topo-membrane">WIFWVGPF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGHHHHHHSSGVDLGTENLYFQSMA</span><span class="topo-inside">SEFKKKLFWRA</span><span class="topo-membrane">VVAEFLATTLFVFISIGSA</span><span class="topo-outside">LGFKYPVGNNQTAVQDN</span><span class="topo-membrane">VKVSLAFGLSIATLAQSVG</span><span class="topo-inside">HIS</span><span class="topo-unknown">GAHLNPAVTLGLLL</span><span class="topo-inside">SCQISIF</span><span class="topo-membrane">RALMY</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">IIAQCVGAIVATAIL</span><span class="topo-outside">SGITSSLTGNSLGRNDLADGVNSGQ</span><span class="topo-membrane">GLGIEIIGTLQLVLCVLAT</span><span class="topo-inside">TDRRRRDLGG</span><span class="topo-membrane">SAPLAIGLSVALGHLLAI</span><span class="topo-outside">DYTG</span><span class="topo-unknown">CGINPARSFGSAVI</span><span class="topo-outside">THNFSNH</span><span class="topo-membrane">WIFWVGPF</span></span>
+<span class="topo-ruler">       250       260       270       280       290  </span>
 <span class="topo-line"><span class="topo-membrane">IGGALAVLIY</span><span class="topo-inside">DFILAPRS</span><span class="topo-unknown">SDLTDRVKVWTSGQVEEYDLDADDINSRVEMKPK</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -446,6 +451,7 @@ solved from bovine red blood cells.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -461,11 +467,13 @@ solved from bovine red blood cells.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGHHHHHHSSGVDLGTENLYFQSMA</span><span class="topo-inside">SEFKKKLFWRA</span><span class="topo-membrane">VVAEFLATTLFVFISIGSA</span><span class="topo-outside">LGFKY</span></span>
-<span class="topo-line"><span class="topo-outside">PVGNNQTAVQDN</span><span class="topo-membrane">VKVSLAFGLSIATLAQSVG</span><span class="topo-inside">HIS</span><span class="topo-unknown">GAHLNPAVTLGLLL</span><span class="topo-inside">SCQISIF</span><span class="topo-membrane">RALMY</span></span>
-<span class="topo-line"><span class="topo-membrane">IIAQCVGAIVATAIL</span><span class="topo-outside">SGITSSLTGNSLGRNDLADGVNSGQ</span><span class="topo-membrane">GLGIEIIGTLQLVLCVLAT</span><span class="topo-inside">T</span></span>
-<span class="topo-line"><span class="topo-inside">DRRRRDLGG</span><span class="topo-membrane">SAPLAIGLSVALGHLLAI</span><span class="topo-outside">DYTG</span><span class="topo-unknown">CGINPARSFGSAVI</span><span class="topo-outside">THNFSNH</span><span class="topo-membrane">WIFWVGPF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGHHHHHHSSGVDLGTENLYFQSMA</span><span class="topo-inside">SEFKKKLFWRA</span><span class="topo-membrane">VVAEFLATTLFVFISIGSA</span><span class="topo-outside">LGFKYPVGNNQTAVQDN</span><span class="topo-membrane">VKVSLAFGLSIATLAQSVG</span><span class="topo-inside">HIS</span><span class="topo-unknown">GAHLNPAVTLGLLL</span><span class="topo-inside">SCQISIF</span><span class="topo-membrane">RALMY</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">IIAQCVGAIVATAIL</span><span class="topo-outside">SGITSSLTGNSLGRNDLADGVNSGQ</span><span class="topo-membrane">GLGIEIIGTLQLVLCVLAT</span><span class="topo-inside">TDRRRRDLGG</span><span class="topo-membrane">SAPLAIGLSVALGHLLAI</span><span class="topo-outside">DYTG</span><span class="topo-unknown">CGINPARSFGSAVI</span><span class="topo-outside">THNFSNH</span><span class="topo-membrane">WIFWVGPF</span></span>
+<span class="topo-ruler">       250       260       270       280       290  </span>
 <span class="topo-line"><span class="topo-membrane">IGGALAVLIY</span><span class="topo-inside">DFILAPRS</span><span class="topo-unknown">SDLTDRVKVWTSGQVEEYDLDADDINSRVEMKPK</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -596,6 +604,7 @@ solved from bovine red blood cells.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -611,11 +620,13 @@ solved from bovine red blood cells.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGHHHHHHSSGVDLGTENLYFQSMA</span><span class="topo-inside">SEFKKKLFWRA</span><span class="topo-membrane">VVAEFLATTLFVFISIGSA</span><span class="topo-outside">LGFKY</span></span>
-<span class="topo-line"><span class="topo-outside">PVGNNQTAVQDN</span><span class="topo-membrane">VKVSLAFGLSIATLAQSVG</span><span class="topo-inside">HIS</span><span class="topo-unknown">GAHLNPAVTLGLLL</span><span class="topo-inside">SCQISIF</span><span class="topo-membrane">RALMY</span></span>
-<span class="topo-line"><span class="topo-membrane">IIAQCVGAIVATAIL</span><span class="topo-outside">SGITSSLTGNSLGRNDLADGVNSGQ</span><span class="topo-membrane">GLGIEIIGTLQLVLCVLAT</span><span class="topo-inside">T</span></span>
-<span class="topo-line"><span class="topo-inside">DRRRRDLGG</span><span class="topo-membrane">SAPLAIGLSVALGHLLAI</span><span class="topo-outside">DYTG</span><span class="topo-unknown">CGINPARSFGSAVI</span><span class="topo-outside">THNFSNH</span><span class="topo-membrane">WIFWVGPF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGHHHHHHSSGVDLGTENLYFQSMA</span><span class="topo-inside">SEFKKKLFWRA</span><span class="topo-membrane">VVAEFLATTLFVFISIGSA</span><span class="topo-outside">LGFKYPVGNNQTAVQDN</span><span class="topo-membrane">VKVSLAFGLSIATLAQSVG</span><span class="topo-inside">HIS</span><span class="topo-unknown">GAHLNPAVTLGLLL</span><span class="topo-inside">SCQISIF</span><span class="topo-membrane">RALMY</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">IIAQCVGAIVATAIL</span><span class="topo-outside">SGITSSLTGNSLGRNDLADGVNSGQ</span><span class="topo-membrane">GLGIEIIGTLQLVLCVLAT</span><span class="topo-inside">TDRRRRDLGG</span><span class="topo-membrane">SAPLAIGLSVALGHLLAI</span><span class="topo-outside">DYTG</span><span class="topo-unknown">CGINPARSFGSAVI</span><span class="topo-outside">THNFSNH</span><span class="topo-membrane">WIFWVGPF</span></span>
+<span class="topo-ruler">       250       260       270       280       290  </span>
 <span class="topo-line"><span class="topo-membrane">IGGALAVLIY</span><span class="topo-inside">DFILAPRS</span><span class="topo-unknown">SDLTDRVKVWTSGQVEEYDLDADDINSRVEMKPK</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -746,6 +757,7 @@ solved from bovine red blood cells.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

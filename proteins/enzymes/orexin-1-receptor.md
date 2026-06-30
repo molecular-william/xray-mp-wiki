@@ -62,16 +62,17 @@ The human orexin 1 receptor (OX1R, HCRTR1) is a class A [G Protein-Coupled Recep
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">DYKDDDDAMEPSATPGAQMGVPPGSREPSPVPP</span><span class="topo-inside">DYEDEFLRYLWRDYLYPKQY</span><span class="topo-membrane">EWVLIAA</span></span>
-<span class="topo-line"><span class="topo-membrane">YVAVFVVALVGNTLVCLAVWR</span><span class="topo-outside">NHHMRTV</span><span class="topo-membrane">TNYFIVNLSLADVLVTAICLPASLL</span><span class="topo-inside">VDITESW</span></span>
-<span class="topo-line"><span class="topo-inside">LFGHA</span><span class="topo-membrane">LCKVIPYLQAVSVSVAVLTLSFIALD</span><span class="topo-outside">RWYAICHPLLFKSTARR</span><span class="topo-membrane">ARGSILGIWAVS</span></span>
-<span class="topo-line"><span class="topo-membrane">LAIMVPQAAVM</span><span class="topo-inside">ECSSVLPELANRTRLFSVCDERWADDL</span><span class="topo-membrane">YPKIYHSCFFIVTYLAPLGLMA</span></span>
-<span class="topo-line"><span class="topo-membrane">MAYF</span><span class="topo-outside">QIFRKLWGRQGIDCSFWNESYLTGSRDERKKSLLSKFGMDEGVTFMFIGRFDRGQK</span></span>
-<span class="topo-line"><span class="topo-outside">GVDVLLKAIEILSSKKEFQEMRFIIIGKGDPELEGWARSLEEKHGNVKVITEMLSREFVR</span></span>
-<span class="topo-line"><span class="topo-outside">ELYGSVDFVIIPSYFEPFGLVALEAMCLGAIPIASAVGGLRDIITNETGILVKAGDPGEL</span></span>
-<span class="topo-line"><span class="topo-outside">ANAILKALELSRSDLSKFRENCKKRAMSFSKQMRARRKTAK</span><span class="topo-membrane">MLMVVLLVFALCYLPISVL</span></span>
-<span class="topo-line"><span class="topo-membrane">NILKRVF</span><span class="topo-inside">GMFRQASDREAVYA</span><span class="topo-membrane">CFTFSHWLVYANSAANPIIYNFLS</span><span class="topo-outside">GKFREQFKAAF</span><span class="topo-unknown">SCCL</span></span>
-<span class="topo-line"><span class="topo-unknown">PGLHHHHHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">DYKDDDDAMEPSATPGAQMGVPPGSREPSPVPP</span><span class="topo-inside">DYEDEFLRYLWRDYLYPKQY</span><span class="topo-membrane">EWVLIAAYVAVFVVALVGNTLVCLAVWR</span><span class="topo-outside">NHHMRTV</span><span class="topo-membrane">TNYFIVNLSLADVLVTAICLPASLL</span><span class="topo-inside">VDITESW</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">LFGHA</span><span class="topo-membrane">LCKVIPYLQAVSVSVAVLTLSFIALD</span><span class="topo-outside">RWYAICHPLLFKSTARR</span><span class="topo-membrane">ARGSILGIWAVSLAIMVPQAAVM</span><span class="topo-inside">ECSSVLPELANRTRLFSVCDERWADDL</span><span class="topo-membrane">YPKIYHSCFFIVTYLAPLGLMA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">MAYF</span><span class="topo-outside">QIFRKLWGRQGIDCSFWNESYLTGSRDERKKSLLSKFGMDEGVTFMFIGRFDRGQKGVDVLLKAIEILSSKKEFQEMRFIIIGKGDPELEGWARSLEEKHGNVKVITEMLSREFVR</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">ELYGSVDFVIIPSYFEPFGLVALEAMCLGAIPIASAVGGLRDIITNETGILVKAGDPGELANAILKALELSRSDLSKFRENCKKRAMSFSKQMRARRKTAK</span><span class="topo-membrane">MLMVVLLVFALCYLPISVL</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550   </span>
+<span class="topo-line"><span class="topo-membrane">NILKRVF</span><span class="topo-inside">GMFRQASDREAVYA</span><span class="topo-membrane">CFTFSHWLVYANSAANPIIYNFLS</span><span class="topo-outside">GKFREQFKAAF</span><span class="topo-unknown">SCCLPGLHHHHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -216,6 +217,7 @@ The human orexin 1 receptor (OX1R, HCRTR1) is a class A [G Protein-Coupled Recep
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -231,16 +233,17 @@ The human orexin 1 receptor (OX1R, HCRTR1) is a class A [G Protein-Coupled Recep
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">DYKDDDDAMEPSATPGAQMGVPPGSREPSPVPP</span><span class="topo-inside">DYEDEFLRYLWRDYLYPKQY</span><span class="topo-membrane">EWVLIAA</span></span>
-<span class="topo-line"><span class="topo-membrane">YVAVFVVALVGNTLVCLAVWR</span><span class="topo-outside">NHHMRTV</span><span class="topo-membrane">TNYFIVNLSLADVLVTAICLPASLL</span><span class="topo-inside">VDITESW</span></span>
-<span class="topo-line"><span class="topo-inside">LFGHALCK</span><span class="topo-membrane">VIPYLQAVSVSVAVLTLSFIALDRW</span><span class="topo-outside">YAICHPLLFKSTA</span><span class="topo-membrane">RRARGSILGIWAVS</span></span>
-<span class="topo-line"><span class="topo-membrane">LAIMVPQA</span><span class="topo-inside">AVMECSSVLPELANRTRLFSVCDERWADDLYPK</span><span class="topo-membrane">IYHSCFFIVTYLAPLGLMA</span></span>
-<span class="topo-line"><span class="topo-membrane">MAYFQIF</span><span class="topo-outside">RKLWGRQGIDCSFWNESYLTGSRDERKKSLLSKFGMDEGVTFMFIGRFDRGQK</span></span>
-<span class="topo-line"><span class="topo-outside">GVDVLLKAIEILSSKKEFQEMRFIIIGKGDPELEGWARSLEEKHGNVKVITEMLSREFVR</span></span>
-<span class="topo-line"><span class="topo-outside">ELYGSVDFVIIPSYFEPFGLVALEAMCLGAIPIASAVGGLRDIITNETGILVKAGDPGEL</span></span>
-<span class="topo-line"><span class="topo-outside">ANAILKALELSRSDLSKFRENCKKRAMSFSKQMRARRKTA</span><span class="topo-membrane">KMLMVVLLVFALCYLPISVL</span></span>
-<span class="topo-line"><span class="topo-membrane">NIL</span><span class="topo-inside">KRVFGMFRQASDREAVYA</span><span class="topo-membrane">CFTFSHWLVYANSAANPIIYNFLS</span><span class="topo-outside">GKFREQFKAAF</span><span class="topo-unknown">SCCL</span></span>
-<span class="topo-line"><span class="topo-unknown">PGLHHHHHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">DYKDDDDAMEPSATPGAQMGVPPGSREPSPVPP</span><span class="topo-inside">DYEDEFLRYLWRDYLYPKQY</span><span class="topo-membrane">EWVLIAAYVAVFVVALVGNTLVCLAVWR</span><span class="topo-outside">NHHMRTV</span><span class="topo-membrane">TNYFIVNLSLADVLVTAICLPASLL</span><span class="topo-inside">VDITESW</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">LFGHALCK</span><span class="topo-membrane">VIPYLQAVSVSVAVLTLSFIALDRW</span><span class="topo-outside">YAICHPLLFKSTA</span><span class="topo-membrane">RRARGSILGIWAVSLAIMVPQA</span><span class="topo-inside">AVMECSSVLPELANRTRLFSVCDERWADDLYPK</span><span class="topo-membrane">IYHSCFFIVTYLAPLGLMA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">MAYFQIF</span><span class="topo-outside">RKLWGRQGIDCSFWNESYLTGSRDERKKSLLSKFGMDEGVTFMFIGRFDRGQKGVDVLLKAIEILSSKKEFQEMRFIIIGKGDPELEGWARSLEEKHGNVKVITEMLSREFVR</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">ELYGSVDFVIIPSYFEPFGLVALEAMCLGAIPIASAVGGLRDIITNETGILVKAGDPGELANAILKALELSRSDLSKFRENCKKRAMSFSKQMRARRKTA</span><span class="topo-membrane">KMLMVVLLVFALCYLPISVL</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550   </span>
+<span class="topo-line"><span class="topo-membrane">NIL</span><span class="topo-inside">KRVFGMFRQASDREAVYA</span><span class="topo-membrane">CFTFSHWLVYANSAANPIIYNFLS</span><span class="topo-outside">GKFREQFKAAF</span><span class="topo-unknown">SCCLPGLHHHHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -385,6 +388,7 @@ The human orexin 1 receptor (OX1R, HCRTR1) is a class A [G Protein-Coupled Recep
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -427,16 +431,17 @@ The human orexin 1 receptor (OX1R, HCRTR1) is a class A [G Protein-Coupled Recep
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">DYKDDDDAMEPSATPGAQMGVPPGSREPSPVPP</span><span class="topo-inside">DYEDEFLRYLWRDYLYPKQY</span><span class="topo-membrane">EWVLIAA</span></span>
-<span class="topo-line"><span class="topo-membrane">YVAVFVVALVGNTLVCLAVWR</span><span class="topo-outside">NHHMRTV</span><span class="topo-membrane">TNYFIVNLSLADVLVTAICLPASLL</span><span class="topo-inside">VDITESW</span></span>
-<span class="topo-line"><span class="topo-inside">LFGHALCK</span><span class="topo-membrane">VIPYLQAVSVSVAVLTLSFIALDRW</span><span class="topo-outside">YAICHPLLFKSTA</span><span class="topo-membrane">RRARGSILGIWAVS</span></span>
-<span class="topo-line"><span class="topo-membrane">LAIMVPQA</span><span class="topo-inside">AVMECSSVLPELANRTRLFSVCDERWADDLYPK</span><span class="topo-membrane">IYHSCFFIVTYLAPLGLMA</span></span>
-<span class="topo-line"><span class="topo-membrane">MAYFQIF</span><span class="topo-outside">RKLWGRQGIDCSFWNESYLTGSRDERKKSLLSKFGMDEGVTFMFIGRFDRGQK</span></span>
-<span class="topo-line"><span class="topo-outside">GVDVLLKAIEILSSKKEFQEMRFIIIGKGDPELEGWARSLEEKHGNVKVITEMLSREFVR</span></span>
-<span class="topo-line"><span class="topo-outside">ELYGSVDFVIIPSYFEPFGLVALEAMCLGAIPIASAVGGLRDIITNETGILVKAGDPGEL</span></span>
-<span class="topo-line"><span class="topo-outside">ANAILKALELSRSDLSKFRENCKKRAMSFSKQMRARRKTA</span><span class="topo-membrane">KMLMVVLLVFALCYLPISVL</span></span>
-<span class="topo-line"><span class="topo-membrane">NIL</span><span class="topo-inside">KRVFGMFRQASDREAVYA</span><span class="topo-membrane">CFTFSHWLVYANSAANPIIYNFLS</span><span class="topo-outside">GKFREQFKAAF</span><span class="topo-unknown">SCCL</span></span>
-<span class="topo-line"><span class="topo-unknown">PGLHHHHHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">DYKDDDDAMEPSATPGAQMGVPPGSREPSPVPP</span><span class="topo-inside">DYEDEFLRYLWRDYLYPKQY</span><span class="topo-membrane">EWVLIAAYVAVFVVALVGNTLVCLAVWR</span><span class="topo-outside">NHHMRTV</span><span class="topo-membrane">TNYFIVNLSLADVLVTAICLPASLL</span><span class="topo-inside">VDITESW</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">LFGHALCK</span><span class="topo-membrane">VIPYLQAVSVSVAVLTLSFIALDRW</span><span class="topo-outside">YAICHPLLFKSTA</span><span class="topo-membrane">RRARGSILGIWAVSLAIMVPQA</span><span class="topo-inside">AVMECSSVLPELANRTRLFSVCDERWADDLYPK</span><span class="topo-membrane">IYHSCFFIVTYLAPLGLMA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">MAYFQIF</span><span class="topo-outside">RKLWGRQGIDCSFWNESYLTGSRDERKKSLLSKFGMDEGVTFMFIGRFDRGQKGVDVLLKAIEILSSKKEFQEMRFIIIGKGDPELEGWARSLEEKHGNVKVITEMLSREFVR</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">ELYGSVDFVIIPSYFEPFGLVALEAMCLGAIPIASAVGGLRDIITNETGILVKAGDPGELANAILKALELSRSDLSKFRENCKKRAMSFSKQMRARRKTA</span><span class="topo-membrane">KMLMVVLLVFALCYLPISVL</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550   </span>
+<span class="topo-line"><span class="topo-membrane">NIL</span><span class="topo-inside">KRVFGMFRQASDREAVYA</span><span class="topo-membrane">CFTFSHWLVYANSAANPIIYNFLS</span><span class="topo-outside">GKFREQFKAAF</span><span class="topo-unknown">SCCLPGLHHHHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -581,6 +586,7 @@ The human orexin 1 receptor (OX1R, HCRTR1) is a class A [G Protein-Coupled Recep
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -693,14 +699,15 @@ The human orexin 1 receptor (OX1R, HCRTR1) is a class A [G Protein-Coupled Recep
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MATATEQWVLVEMVQAL</span><span class="topo-outside">YEAPAY</span><span class="topo-membrane">HLILEGILILWIIR</span><span class="topo-inside">LLFSKTYK</span><span class="topo-unknown">LQERSDL</span><span class="topo-inside">TVKEKEEL</span></span>
-<span class="topo-line"><span class="topo-inside">IEEWQPEPLVPPVPKDHPALNYNIVSGPPSHKTVVNGKECINFASFNFLGLLDNPRVKAA</span></span>
-<span class="topo-line"><span class="topo-inside">ALASLKKYGVGTCGPRGFYGTFDVHLDLEDRLAKFMKTEEAIIYSYGFATIASAIPAYSK</span></span>
-<span class="topo-line"><span class="topo-inside">RGDIVFVDRAACFAIQKGLQASRSDIKLFKHNDMADLERLLKEQEIEDQKNPRKARVTRR</span></span>
-<span class="topo-line"><span class="topo-inside">FIVVEGLYMNTGTICPLPELVKLKYKYKARIFLEESLSFGVLGEHGRGVTEHYGINIDDI</span></span>
-<span class="topo-line"><span class="topo-inside">DLISANMENALASIGGFCCGRSFVIDHQRLSGQGYCFSASLPPLLAAAAIEALNIMEENP</span></span>
-<span class="topo-line"><span class="topo-inside">GIFAVLKEKCGQIHKALQGISGLKVVGESLSPAFHLQLEESTGSREQDVRLLQEIVDQCM</span></span>
-<span class="topo-line"><span class="topo-inside">NRSIALTQARYLEKEEKCLPPPSIRVVVTVEQTEEELERAASTIKEVAQAVL</span><span class="topo-unknown">L</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MATATEQWVLVEMVQAL</span><span class="topo-outside">YEAPAY</span><span class="topo-membrane">HLILEGILILWIIR</span><span class="topo-inside">LLFSKTYK</span><span class="topo-unknown">LQERSDL</span><span class="topo-inside">TVKEKEELIEEWQPEPLVPPVPKDHPALNYNIVSGPPSHKTVVNGKECINFASFNFLGLLDNPRVKAA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">ALASLKKYGVGTCGPRGFYGTFDVHLDLEDRLAKFMKTEEAIIYSYGFATIASAIPAYSKRGDIVFVDRAACFAIQKGLQASRSDIKLFKHNDMADLERLLKEQEIEDQKNPRKARVTRR</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">FIVVEGLYMNTGTICPLPELVKLKYKYKARIFLEESLSFGVLGEHGRGVTEHYGINIDDIDLISANMENALASIGGFCCGRSFVIDHQRLSGQGYCFSASLPPLLAAAAIEALNIMEENP</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470   </span>
+<span class="topo-line"><span class="topo-inside">GIFAVLKEKCGQIHKALQGISGLKVVGESLSPAFHLQLEESTGSREQDVRLLQEIVDQCMNRSIALTQARYLEKEEKCLPPPSIRVVVTVEQTEEELERAASTIKEVAQAVL</span><span class="topo-unknown">L</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -740,6 +747,7 @@ The human orexin 1 receptor (OX1R, HCRTR1) is a class A [G Protein-Coupled Recep
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -755,16 +763,17 @@ The human orexin 1 receptor (OX1R, HCRTR1) is a class A [G Protein-Coupled Recep
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MRPEPGGCCCRRTVRANGCVANGEVRNGYVRSSAAAAAAAAAGQ</span><span class="topo-inside">IHHVTQNGGLYKRPFN</span></span>
-<span class="topo-line"><span class="topo-inside">EAFEETP</span><span class="topo-unknown">MLVAVLTYVGYGVLTLFGYLRDFL</span><span class="topo-inside">RYWR</span><span class="topo-unknown">IEK</span><span class="topo-inside">CHHATEREEQKDFVSLYQDFEN</span></span>
-<span class="topo-line"><span class="topo-inside">FYTRNLYMRIRDNWNRPICSVPGARVDIMERQSHDYNWSFKYTGNIIKGVINMGSYNYLG</span></span>
-<span class="topo-line"><span class="topo-inside">FARNTGSCQEAAAKVLEEYGAGVCSTRQEIGNLDKHEELEELVARFLGVEAAMAYGMGFA</span></span>
-<span class="topo-line"><span class="topo-inside">TNSMNIPALVGKGCLILSDELNHASLVLGARLSGATIRIFKHNNMQSLEKLLKDAIVYGQ</span></span>
-<span class="topo-line"><span class="topo-inside">PRTRRPWKKILILVEGIYSMEGSIVRLPEVIALKKKYKAYLYLDEAHSIGALGPTGRGVV</span></span>
-<span class="topo-line"><span class="topo-inside">EYFGLDPEDVDVMMGTFTKSFGASGGYIGGKKELIDYLRTHSHSAVYATSLSPPVVEQII</span></span>
-<span class="topo-line"><span class="topo-inside">TSMKCIMG</span><span class="topo-unknown">QDGT</span><span class="topo-inside">SLGKECVQQLAENTRYFRRRLKEMGFIIYGNEDSPVVPLMLYMPAKIG</span></span>
-<span class="topo-line"><span class="topo-inside">AFGREMLKRNIGVVVVGFPATPIIESRARFCLSAAHTKEILDTALKEIDEVGDLLQLKYS</span></span>
-<span class="topo-line"><span class="topo-inside">RH</span><span class="topo-unknown">RLVPLLDRPFDETTYEETED</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MRPEPGGCCCRRTVRANGCVANGEVRNGYVRSSAAAAAAAAAGQ</span><span class="topo-inside">IHHVTQNGGLYKRPFNEAFEETP</span><span class="topo-unknown">MLVAVLTYVGYGVLTLFGYLRDFL</span><span class="topo-inside">RYWR</span><span class="topo-unknown">IEK</span><span class="topo-inside">CHHATEREEQKDFVSLYQDFEN</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FYTRNLYMRIRDNWNRPICSVPGARVDIMERQSHDYNWSFKYTGNIIKGVINMGSYNYLGFARNTGSCQEAAAKVLEEYGAGVCSTRQEIGNLDKHEELEELVARFLGVEAAMAYGMGFA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">TNSMNIPALVGKGCLILSDELNHASLVLGARLSGATIRIFKHNNMQSLEKLLKDAIVYGQPRTRRPWKKILILVEGIYSMEGSIVRLPEVIALKKKYKAYLYLDEAHSIGALGPTGRGVV</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">EYFGLDPEDVDVMMGTFTKSFGASGGYIGGKKELIDYLRTHSHSAVYATSLSPPVVEQIITSMKCIMG</span><span class="topo-unknown">QDGT</span><span class="topo-inside">SLGKECVQQLAENTRYFRRRLKEMGFIIYGNEDSPVVPLMLYMPAKIG</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560  </span>
+<span class="topo-line"><span class="topo-inside">AFGREMLKRNIGVVVVGFPATPIIESRARFCLSAAHTKEILDTALKEIDEVGDLLQLKYSRH</span><span class="topo-unknown">RLVPLLDRPFDETTYEETED</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -811,6 +820,7 @@ The human orexin 1 receptor (OX1R, HCRTR1) is a class A [G Protein-Coupled Recep
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -826,9 +836,11 @@ The human orexin 1 receptor (OX1R, HCRTR1) is a class A [G Protein-Coupled Recep
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MNVGTAHSEVN</span><span class="topo-inside">PNTRVMNSRGIWLSY</span><span class="topo-membrane">VLAIGLLHIVLLSI</span><span class="topo-outside">PFVSVPV</span><span class="topo-membrane">VWTLTNLIHNMGM</span></span>
-<span class="topo-line"><span class="topo-membrane">YI</span><span class="topo-inside">FLHTVKGTPFETPDQGKARLLTHWEQMDYGVQFTASRKFLT</span><span class="topo-membrane">ITPIVLYFLTSFY</span><span class="topo-outside">TKYD</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MNVGTAHSEVN</span><span class="topo-inside">PNTRVMNSRGIWLSY</span><span class="topo-membrane">VLAIGLLHIVLLSI</span><span class="topo-outside">PFVSVPV</span><span class="topo-membrane">VWTLTNLIHNMGMYI</span><span class="topo-inside">FLHTVKGTPFETPDQGKARLLTHWEQMDYGVQFTASRKFLT</span><span class="topo-membrane">ITPIVLYFLTSFY</span><span class="topo-outside">TKYD</span></span>
+<span class="topo-ruler">       130       140       150   </span>
 <span class="topo-line"><span class="topo-outside">QIH</span><span class="topo-membrane">FVLNTVSLMSVLIP</span><span class="topo-inside">KLPQLHGVRIFGI</span><span class="topo-unknown">NKY</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -903,6 +915,7 @@ The human orexin 1 receptor (OX1R, HCRTR1) is a class A [G Protein-Coupled Recep
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -918,8 +931,9 @@ The human orexin 1 receptor (OX1R, HCRTR1) is a class A [G Protein-Coupled Recep
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MADYKDDDDKSGPDEVDASGRMAGMAL</span><span class="topo-inside">AR</span><span class="topo-unknown">AWKQMSWFYYQYLLVTA</span><span class="topo-inside">LYMLEP</span><span class="topo-membrane">WERTVFNS</span></span>
-<span class="topo-line"><span class="topo-membrane">MLVSIVGMAL</span><span class="topo-outside">YTGYVF</span><span class="topo-unknown">MPQHIMAILHYFEIVQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90  </span>
+<span class="topo-line"><span class="topo-unknown">MADYKDDDDKSGPDEVDASGRMAGMAL</span><span class="topo-inside">AR</span><span class="topo-unknown">AWKQMSWFYYQYLLVTA</span><span class="topo-inside">LYMLEP</span><span class="topo-membrane">WERTVFNSMLVSIVGMAL</span><span class="topo-outside">YTGYVF</span><span class="topo-unknown">MPQHIMAILHYFEIVQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -966,6 +980,7 @@ The human orexin 1 receptor (OX1R, HCRTR1) is a class A [G Protein-Coupled Recep
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -981,14 +996,15 @@ The human orexin 1 receptor (OX1R, HCRTR1) is a class A [G Protein-Coupled Recep
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MATATEQWVLVEMVQAL</span><span class="topo-outside">YEAPAY</span><span class="topo-membrane">HLILEGILILWIIR</span><span class="topo-inside">LLFSKTYK</span><span class="topo-unknown">LQERSDL</span><span class="topo-inside">TVKEKEEL</span></span>
-<span class="topo-line"><span class="topo-inside">IEEWQPEPLVPPVPKDHPALNYNIVSGPPSHKTVVNGKECINFASFNFLGLLDNPRVKAA</span></span>
-<span class="topo-line"><span class="topo-inside">ALASLKKYGVGTCGPRGFYGTFDVHLDLEDRLAKFMKTEEAIIYSYGFATIASAIPAYSK</span></span>
-<span class="topo-line"><span class="topo-inside">RGDIVFVDRAACFAIQKGLQASRSDIKLFKHNDMADLERLLKEQEIEDQKNPRKARVTRR</span></span>
-<span class="topo-line"><span class="topo-inside">FIVVEGLYMNTGTICPLPELVKLKYKYKARIFLEESLSFGVLGEHGRGVTEHYGINIDDI</span></span>
-<span class="topo-line"><span class="topo-inside">DLISANMENALASIGGFCCGRSFVIDHQRLSGQGYCFSASLPPLLAAAAIEALNIMEENP</span></span>
-<span class="topo-line"><span class="topo-inside">GIFAVLKEKCGQIHKALQGISGLKVVGESLSPAFHLQLEESTGSREQDVRLLQEIVDQCM</span></span>
-<span class="topo-line"><span class="topo-inside">NRSIALTQARYLEKEEKCLPPPSIRVVVTVEQTEEELERAASTIKEVAQAVL</span><span class="topo-unknown">L</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MATATEQWVLVEMVQAL</span><span class="topo-outside">YEAPAY</span><span class="topo-membrane">HLILEGILILWIIR</span><span class="topo-inside">LLFSKTYK</span><span class="topo-unknown">LQERSDL</span><span class="topo-inside">TVKEKEELIEEWQPEPLVPPVPKDHPALNYNIVSGPPSHKTVVNGKECINFASFNFLGLLDNPRVKAA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">ALASLKKYGVGTCGPRGFYGTFDVHLDLEDRLAKFMKTEEAIIYSYGFATIASAIPAYSKRGDIVFVDRAACFAIQKGLQASRSDIKLFKHNDMADLERLLKEQEIEDQKNPRKARVTRR</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">FIVVEGLYMNTGTICPLPELVKLKYKYKARIFLEESLSFGVLGEHGRGVTEHYGINIDDIDLISANMENALASIGGFCCGRSFVIDHQRLSGQGYCFSASLPPLLAAAAIEALNIMEENP</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470   </span>
+<span class="topo-line"><span class="topo-inside">GIFAVLKEKCGQIHKALQGISGLKVVGESLSPAFHLQLEESTGSREQDVRLLQEIVDQCMNRSIALTQARYLEKEEKCLPPPSIRVVVTVEQTEEELERAASTIKEVAQAVL</span><span class="topo-unknown">L</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1028,6 +1044,7 @@ The human orexin 1 receptor (OX1R, HCRTR1) is a class A [G Protein-Coupled Recep
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1043,16 +1060,17 @@ The human orexin 1 receptor (OX1R, HCRTR1) is a class A [G Protein-Coupled Recep
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MRPEPGGCCCRRTVRANGCVANGEVRNGYVRSSAAAAAAAAAGQ</span><span class="topo-inside">IHHVTQNGGLYKRPFN</span></span>
-<span class="topo-line"><span class="topo-inside">EAFEETP</span><span class="topo-unknown">MLVAVLTYVGYGVLTLFGYLRDFL</span><span class="topo-inside">RYWR</span><span class="topo-unknown">IEK</span><span class="topo-inside">CHHATEREEQKDFVSLYQDFEN</span></span>
-<span class="topo-line"><span class="topo-inside">FYTRNLYMRIRDNWNRPICSVPGARVDIMERQSHDYNWSFKYTGNIIKGVINMGSYNYLG</span></span>
-<span class="topo-line"><span class="topo-inside">FARNTGSCQEAAAKVLEEYGAGVCSTRQEIGNLDKHEELEELVARFLGVEAAMAYGMGFA</span></span>
-<span class="topo-line"><span class="topo-inside">TNSMNIPALVGKGCLILSDELNHASLVLGARLSGATIRIFKHNNMQSLEKLLKDAIVYGQ</span></span>
-<span class="topo-line"><span class="topo-inside">PRTRRPWKKILILVEGIYSMEGSIVRLPEVIALKKKYKAYLYLDEAHSIGALGPTGRGVV</span></span>
-<span class="topo-line"><span class="topo-inside">EYFGLDPEDVDVMMGTFTKSFGASGGYIGGKKELIDYLRTHSHSAVYATSLSPPVVEQII</span></span>
-<span class="topo-line"><span class="topo-inside">TSMKCIMG</span><span class="topo-unknown">QDGT</span><span class="topo-inside">SLGKECVQQLAENTRYFRRRLKEMGFIIYGNEDSPVVPLMLYMPAKIG</span></span>
-<span class="topo-line"><span class="topo-inside">AFGREMLKRNIGVVVVGFPATPIIESRARFCLSAAHTKEILDTALKEIDEVGDLLQLKYS</span></span>
-<span class="topo-line"><span class="topo-inside">RH</span><span class="topo-unknown">RLVPLLDRPFDETTYEETED</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MRPEPGGCCCRRTVRANGCVANGEVRNGYVRSSAAAAAAAAAGQ</span><span class="topo-inside">IHHVTQNGGLYKRPFNEAFEETP</span><span class="topo-unknown">MLVAVLTYVGYGVLTLFGYLRDFL</span><span class="topo-inside">RYWR</span><span class="topo-unknown">IEK</span><span class="topo-inside">CHHATEREEQKDFVSLYQDFEN</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FYTRNLYMRIRDNWNRPICSVPGARVDIMERQSHDYNWSFKYTGNIIKGVINMGSYNYLGFARNTGSCQEAAAKVLEEYGAGVCSTRQEIGNLDKHEELEELVARFLGVEAAMAYGMGFA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">TNSMNIPALVGKGCLILSDELNHASLVLGARLSGATIRIFKHNNMQSLEKLLKDAIVYGQPRTRRPWKKILILVEGIYSMEGSIVRLPEVIALKKKYKAYLYLDEAHSIGALGPTGRGVV</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">EYFGLDPEDVDVMMGTFTKSFGASGGYIGGKKELIDYLRTHSHSAVYATSLSPPVVEQIITSMKCIMG</span><span class="topo-unknown">QDGT</span><span class="topo-inside">SLGKECVQQLAENTRYFRRRLKEMGFIIYGNEDSPVVPLMLYMPAKIG</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560  </span>
+<span class="topo-line"><span class="topo-inside">AFGREMLKRNIGVVVVGFPATPIIESRARFCLSAAHTKEILDTALKEIDEVGDLLQLKYSRH</span><span class="topo-unknown">RLVPLLDRPFDETTYEETED</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1099,6 +1117,7 @@ The human orexin 1 receptor (OX1R, HCRTR1) is a class A [G Protein-Coupled Recep
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1114,9 +1133,11 @@ The human orexin 1 receptor (OX1R, HCRTR1) is a class A [G Protein-Coupled Recep
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MNVGTAHSEVN</span><span class="topo-inside">PNTRVMNSRGIWLSY</span><span class="topo-membrane">VLAIGLLHIVLLSI</span><span class="topo-outside">PFVSVPV</span><span class="topo-membrane">VWTLTNLIHNMGM</span></span>
-<span class="topo-line"><span class="topo-membrane">YI</span><span class="topo-inside">FLHTVKGTPFETPDQGKARLLTHWEQMDYGVQFTASRKFLT</span><span class="topo-membrane">ITPIVLYFLTSFY</span><span class="topo-outside">TKYD</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MNVGTAHSEVN</span><span class="topo-inside">PNTRVMNSRGIWLSY</span><span class="topo-membrane">VLAIGLLHIVLLSI</span><span class="topo-outside">PFVSVPV</span><span class="topo-membrane">VWTLTNLIHNMGMYI</span><span class="topo-inside">FLHTVKGTPFETPDQGKARLLTHWEQMDYGVQFTASRKFLT</span><span class="topo-membrane">ITPIVLYFLTSFY</span><span class="topo-outside">TKYD</span></span>
+<span class="topo-ruler">       130       140       150   </span>
 <span class="topo-line"><span class="topo-outside">QIH</span><span class="topo-membrane">FVLNTVSLMSVLI</span><span class="topo-inside">PKLPQLHGVRIFGI</span><span class="topo-unknown">NKY</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1191,6 +1212,7 @@ The human orexin 1 receptor (OX1R, HCRTR1) is a class A [G Protein-Coupled Recep
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1206,8 +1228,9 @@ The human orexin 1 receptor (OX1R, HCRTR1) is a class A [G Protein-Coupled Recep
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MADYKDDDDKSGPDEVDASGRMAGMAL</span><span class="topo-inside">AR</span><span class="topo-unknown">AWKQMSWFYYQYLLVTA</span><span class="topo-inside">LYMLEP</span><span class="topo-membrane">WERTVFNS</span></span>
-<span class="topo-line"><span class="topo-membrane">MLVSIVGMAL</span><span class="topo-outside">YTGYVF</span><span class="topo-unknown">MPQHIMAILHYFEIVQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90  </span>
+<span class="topo-line"><span class="topo-unknown">MADYKDDDDKSGPDEVDASGRMAGMAL</span><span class="topo-inside">AR</span><span class="topo-unknown">AWKQMSWFYYQYLLVTA</span><span class="topo-inside">LYMLEP</span><span class="topo-membrane">WERTVFNSMLVSIVGMAL</span><span class="topo-outside">YTGYVF</span><span class="topo-unknown">MPQHIMAILHYFEIVQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1254,6 +1277,7 @@ The human orexin 1 receptor (OX1R, HCRTR1) is a class A [G Protein-Coupled Recep
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1269,14 +1293,15 @@ The human orexin 1 receptor (OX1R, HCRTR1) is a class A [G Protein-Coupled Recep
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MATATEQWVLVEMVQALYEAPAYHLILEGILILWIIRLLFSKTYKLQERSDL</span><span class="topo-inside">TVKEKEEL</span></span>
-<span class="topo-line"><span class="topo-inside">IEEWQPEPLVPPVPKDHPALNYNIVSGPPSHKTVVNGKECINFASFNFLGLLDNPRVKAA</span></span>
-<span class="topo-line"><span class="topo-inside">ALASLKKYGVGTCGPRGFYGTFDVHLDLEDRLAKFMKTEEAIIYSYGFATIASAIPAYSK</span></span>
-<span class="topo-line"><span class="topo-inside">RGDIVFVDRAACFAIQKGLQASRSDIKLFKHNDMADLERLLKEQEIEDQKNPRKARVTRR</span></span>
-<span class="topo-line"><span class="topo-inside">FIVVEGLYMNTGTICPLPELVKLKYKYKARIFLEESLSFGVLGEHGRGVTEHYGINIDDI</span></span>
-<span class="topo-line"><span class="topo-inside">DLISANMENALASIGGFCCGRSFVIDHQRLSGQGYCFSASLPPLLAAAAIEALNIMEENP</span></span>
-<span class="topo-line"><span class="topo-inside">GIFAVLKEKCGQIHKALQGISGLKVVGESLSPAFHLQLEESTGSREQDVRLLQEIVDQCM</span></span>
-<span class="topo-line"><span class="topo-inside">NRSIALTQARYLEKEEKCLPPPSIRVVVTVEQTEEELERAASTIKEVAQAVL</span><span class="topo-unknown">L</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MATATEQWVLVEMVQALYEAPAYHLILEGILILWIIRLLFSKTYKLQERSDL</span><span class="topo-inside">TVKEKEELIEEWQPEPLVPPVPKDHPALNYNIVSGPPSHKTVVNGKECINFASFNFLGLLDNPRVKAA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">ALASLKKYGVGTCGPRGFYGTFDVHLDLEDRLAKFMKTEEAIIYSYGFATIASAIPAYSKRGDIVFVDRAACFAIQKGLQASRSDIKLFKHNDMADLERLLKEQEIEDQKNPRKARVTRR</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">FIVVEGLYMNTGTICPLPELVKLKYKYKARIFLEESLSFGVLGEHGRGVTEHYGINIDDIDLISANMENALASIGGFCCGRSFVIDHQRLSGQGYCFSASLPPLLAAAAIEALNIMEENP</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470   </span>
+<span class="topo-line"><span class="topo-inside">GIFAVLKEKCGQIHKALQGISGLKVVGESLSPAFHLQLEESTGSREQDVRLLQEIVDQCMNRSIALTQARYLEKEEKCLPPPSIRVVVTVEQTEEELERAASTIKEVAQAVL</span><span class="topo-unknown">L</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1295,6 +1320,7 @@ The human orexin 1 receptor (OX1R, HCRTR1) is a class A [G Protein-Coupled Recep
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1310,16 +1336,17 @@ The human orexin 1 receptor (OX1R, HCRTR1) is a class A [G Protein-Coupled Recep
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MRPEPGGCCCRRTVRANGCVANGEVRNGYVRSSAAAAAAAAAGQ</span><span class="topo-inside">IHHVTQNGGLYKRPFN</span></span>
-<span class="topo-line"><span class="topo-inside">EAFEETPML</span><span class="topo-unknown">VAVLTYVGYGVLTLFGYLRDF</span><span class="topo-inside">LRYWR</span><span class="topo-unknown">IEK</span><span class="topo-inside">CHHATEREEQKDFVSLYQDFEN</span></span>
-<span class="topo-line"><span class="topo-inside">FYTRNLYMRIRDNWNRPICSVPGARVDIMERQSHDYNWSFKYTGNIIKGVINMGSYNYLG</span></span>
-<span class="topo-line"><span class="topo-inside">FARNTGSCQEAAAKVLEEYGAGVCSTRQEIGNLDKHEELEELVARFLGVEAAMAYGMGFA</span></span>
-<span class="topo-line"><span class="topo-inside">TNSMNIPALVGKGCLILSDELNHASLVLGARLSGATIRIFKHNNMQSLEKLLKDAIVYGQ</span></span>
-<span class="topo-line"><span class="topo-inside">PRTRRPWKKILILVEGIYSMEGSIVRLPEVIALKKKYKAYLYLDEAHSIGALGPTGRGVV</span></span>
-<span class="topo-line"><span class="topo-inside">EYFGLDPEDVDVMMGTFTKSFGASGGYIGGKKELIDYLRTHSHSAVYATSLSPPVVEQII</span></span>
-<span class="topo-line"><span class="topo-inside">TSMKCIMG</span><span class="topo-unknown">QDGT</span><span class="topo-inside">SLGKECVQQLAENTRYFRRRLKEMGFIIYGNEDSPVVPLMLYMPAKIG</span></span>
-<span class="topo-line"><span class="topo-inside">AFGREMLKRNIGVVVVGFPATPIIESRARFCLSAAHTKEILDTALKEIDEVGDLLQLKYS</span></span>
-<span class="topo-line"><span class="topo-inside">RH</span><span class="topo-unknown">RLVPLLDRPFDETTYEETED</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MRPEPGGCCCRRTVRANGCVANGEVRNGYVRSSAAAAAAAAAGQ</span><span class="topo-inside">IHHVTQNGGLYKRPFNEAFEETPML</span><span class="topo-unknown">VAVLTYVGYGVLTLFGYLRDF</span><span class="topo-inside">LRYWR</span><span class="topo-unknown">IEK</span><span class="topo-inside">CHHATEREEQKDFVSLYQDFEN</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">FYTRNLYMRIRDNWNRPICSVPGARVDIMERQSHDYNWSFKYTGNIIKGVINMGSYNYLGFARNTGSCQEAAAKVLEEYGAGVCSTRQEIGNLDKHEELEELVARFLGVEAAMAYGMGFA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">TNSMNIPALVGKGCLILSDELNHASLVLGARLSGATIRIFKHNNMQSLEKLLKDAIVYGQPRTRRPWKKILILVEGIYSMEGSIVRLPEVIALKKKYKAYLYLDEAHSIGALGPTGRGVV</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">EYFGLDPEDVDVMMGTFTKSFGASGGYIGGKKELIDYLRTHSHSAVYATSLSPPVVEQIITSMKCIMG</span><span class="topo-unknown">QDGT</span><span class="topo-inside">SLGKECVQQLAENTRYFRRRLKEMGFIIYGNEDSPVVPLMLYMPAKIG</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560  </span>
+<span class="topo-line"><span class="topo-inside">AFGREMLKRNIGVVVVGFPATPIIESRARFCLSAAHTKEILDTALKEIDEVGDLLQLKYSRH</span><span class="topo-unknown">RLVPLLDRPFDETTYEETED</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1366,6 +1393,7 @@ The human orexin 1 receptor (OX1R, HCRTR1) is a class A [G Protein-Coupled Recep
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1381,9 +1409,11 @@ The human orexin 1 receptor (OX1R, HCRTR1) is a class A [G Protein-Coupled Recep
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MNVGTAHSEVN</span><span class="topo-inside">PNTRVMNSRGI</span><span class="topo-membrane">WLSYVLAIGLLHIVLLSI</span><span class="topo-outside">PFVSVPV</span><span class="topo-membrane">VWTLTNLIHNMGM</span></span>
-<span class="topo-line"><span class="topo-membrane">YIF</span><span class="topo-inside">LHTVKGTPFETPDQGKARLLTHWEQMDYGVQFTASRK</span><span class="topo-membrane">FLTITPIVLYFLTS</span><span class="topo-outside">FYTKYD</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MNVGTAHSEVN</span><span class="topo-inside">PNTRVMNSRGI</span><span class="topo-membrane">WLSYVLAIGLLHIVLLSI</span><span class="topo-outside">PFVSVPV</span><span class="topo-membrane">VWTLTNLIHNMGMYIF</span><span class="topo-inside">LHTVKGTPFETPDQGKARLLTHWEQMDYGVQFTASRK</span><span class="topo-membrane">FLTITPIVLYFLTS</span><span class="topo-outside">FYTKYD</span></span>
+<span class="topo-ruler">       130       140       150   </span>
 <span class="topo-line"><span class="topo-outside">QIH</span><span class="topo-membrane">FVLNTVSLMSVLIPKL</span><span class="topo-inside">PQLHGVRIFGI</span><span class="topo-unknown">NKY</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1458,6 +1488,7 @@ The human orexin 1 receptor (OX1R, HCRTR1) is a class A [G Protein-Coupled Recep
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1473,8 +1504,9 @@ The human orexin 1 receptor (OX1R, HCRTR1) is a class A [G Protein-Coupled Recep
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MADYKDDDDKSGPDEVDASGRMAGMAL</span><span class="topo-inside">A</span><span class="topo-unknown">RAWKQMSWFYYQYLLVTA</span><span class="topo-inside">LYMLEPW</span><span class="topo-membrane">ERTVFNS</span></span>
-<span class="topo-line"><span class="topo-membrane">MLVSIVGMAL</span><span class="topo-outside">YTGYVF</span><span class="topo-unknown">MPQHIMAILHYFEIVQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90  </span>
+<span class="topo-line"><span class="topo-unknown">MADYKDDDDKSGPDEVDASGRMAGMAL</span><span class="topo-inside">A</span><span class="topo-unknown">RAWKQMSWFYYQYLLVTA</span><span class="topo-inside">LYMLEPW</span><span class="topo-membrane">ERTVFNSMLVSIVGMAL</span><span class="topo-outside">YTGYVF</span><span class="topo-unknown">MPQHIMAILHYFEIVQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1521,6 +1553,7 @@ The human orexin 1 receptor (OX1R, HCRTR1) is a class A [G Protein-Coupled Recep
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1536,14 +1569,15 @@ The human orexin 1 receptor (OX1R, HCRTR1) is a class A [G Protein-Coupled Recep
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MATATEQWVLVEMVQAL</span><span class="topo-outside">YEAPAYH</span><span class="topo-membrane">LILEGILILWIIRLLFS</span><span class="topo-inside">KTYK</span><span class="topo-unknown">LQERSDLTVKEKEEL</span></span>
-<span class="topo-line"><span class="topo-unknown">IEEWQPEPLVPPVPKDHPALNYNIVSGPPSHKTVVNGKECINFASFNFLGLLDNPRVKAA</span></span>
-<span class="topo-line"><span class="topo-unknown">ALASLKKYGVGTCGPRGFYGTFDVHLDLEDRLAKFMKTEEAIIYSYGFATIASAIPAYSK</span></span>
-<span class="topo-line"><span class="topo-unknown">RGDIVFVDRAACFAIQKGLQASRSDIKLFKHNDMADLERLLKEQEIEDQKNPRKARVTRR</span></span>
-<span class="topo-line"><span class="topo-unknown">FIVVEGLYMNTGTICPLPELVKLKYKYKARIFLEESLSFGVLGEHGRGVTEHYGINIDDI</span></span>
-<span class="topo-line"><span class="topo-unknown">DLISANMENALASIGGFCCGRSFVIDHQRLSGQGYCFSASLPPLLAAAAIEALNIMEENP</span></span>
-<span class="topo-line"><span class="topo-unknown">GIFAVLKEKCGQIHKALQGISGLKVVGESLSPAFHLQLEESTGSREQDVRLLQEIVDQCM</span></span>
-<span class="topo-line"><span class="topo-unknown">NRSIALTQARYLEKEEKCLPPPSIRVVVTVEQTEEELERAASTIKEVAQAVLL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MATATEQWVLVEMVQAL</span><span class="topo-outside">YEAPAYH</span><span class="topo-membrane">LILEGILILWIIRLLFS</span><span class="topo-inside">KTYK</span><span class="topo-unknown">LQERSDLTVKEKEELIEEWQPEPLVPPVPKDHPALNYNIVSGPPSHKTVVNGKECINFASFNFLGLLDNPRVKAA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-unknown">ALASLKKYGVGTCGPRGFYGTFDVHLDLEDRLAKFMKTEEAIIYSYGFATIASAIPAYSKRGDIVFVDRAACFAIQKGLQASRSDIKLFKHNDMADLERLLKEQEIEDQKNPRKARVTRR</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-unknown">FIVVEGLYMNTGTICPLPELVKLKYKYKARIFLEESLSFGVLGEHGRGVTEHYGINIDDIDLISANMENALASIGGFCCGRSFVIDHQRLSGQGYCFSASLPPLLAAAAIEALNIMEENP</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470   </span>
+<span class="topo-line"><span class="topo-unknown">GIFAVLKEKCGQIHKALQGISGLKVVGESLSPAFHLQLEESTGSREQDVRLLQEIVDQCMNRSIALTQARYLEKEEKCLPPPSIRVVVTVEQTEEELERAASTIKEVAQAVLL</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1576,6 +1610,7 @@ The human orexin 1 receptor (OX1R, HCRTR1) is a class A [G Protein-Coupled Recep
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

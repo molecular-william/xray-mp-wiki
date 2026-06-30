@@ -151,14 +151,15 @@ CRTH2 (chemoattractant receptor-homologous molecule expressed on Th2 cells, also
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GMSAN</span><span class="topo-inside">ATLKPLCPILEQMSRLQSHSATSIRYIDH</span><span class="topo-membrane">AAVLLHGLASLLGLVENGVILFVVGC</span></span>
-<span class="topo-line"><span class="topo-outside">RMRQTVV</span><span class="topo-membrane">TTWVLHLALSDLLASASLPFFTYFL</span><span class="topo-inside">AVGHSWELGTT</span><span class="topo-membrane">FCKLHSSIFFLNMFASG</span></span>
-<span class="topo-line"><span class="topo-membrane">FLLSAISLD</span><span class="topo-outside">RCLQVVRPVWAQNHRTVAA</span><span class="topo-membrane">AHKVCLVLWALAVLNTVPYFVFR</span><span class="topo-inside">DTISRLDGR</span></span>
-<span class="topo-line"><span class="topo-inside">IMCYYNVLLLNPGPDRDATCNSR</span><span class="topo-membrane">QAALAVSKFLLAFLVPLAIIASSHAA</span><span class="topo-outside">VSLRLQHRADL</span></span>
-<span class="topo-line"><span class="topo-outside">GLQHRNIFEMLRIDEGGGSGGDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAAL</span></span>
-<span class="topo-line"><span class="topo-outside">INMVFQMGETGVAGFTNSLRMLQQKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWD</span></span>
-<span class="topo-line"><span class="topo-outside">AYRRRPGRFV</span><span class="topo-membrane">RLVAAVVAAFALCWGPYHVFSLLEA</span><span class="topo-inside">RAHANPGLRPLVWRG</span><span class="topo-membrane">LPFVTSLAFF</span></span>
-<span class="topo-line"><span class="topo-membrane">NSVANPVLYVLTC</span><span class="topo-outside">PDMLRKLRRSLRTVLESVL</span><span class="topo-unknown">VDDSELGGAGSSLEVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GMSAN</span><span class="topo-inside">ATLKPLCPILEQMSRLQSHSATSIRYIDH</span><span class="topo-membrane">AAVLLHGLASLLGLVENGVILFVVGC</span><span class="topo-outside">RMRQTVV</span><span class="topo-membrane">TTWVLHLALSDLLASASLPFFTYFL</span><span class="topo-inside">AVGHSWELGTT</span><span class="topo-membrane">FCKLHSSIFFLNMFASG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">FLLSAISLD</span><span class="topo-outside">RCLQVVRPVWAQNHRTVAA</span><span class="topo-membrane">AHKVCLVLWALAVLNTVPYFVFR</span><span class="topo-inside">DTISRLDGRIMCYYNVLLLNPGPDRDATCNSR</span><span class="topo-membrane">QAALAVSKFLLAFLVPLAIIASSHAA</span><span class="topo-outside">VSLRLQHRADL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">GLQHRNIFEMLRIDEGGGSGGDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVFQMGETGVAGFTNSLRMLQQKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWD</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470</span>
+<span class="topo-line"><span class="topo-outside">AYRRRPGRFV</span><span class="topo-membrane">RLVAAVVAAFALCWGPYHVFSLLEA</span><span class="topo-inside">RAHANPGLRPLVWRG</span><span class="topo-membrane">LPFVTSLAFFNSVANPVLYVLTC</span><span class="topo-outside">PDMLRKLRRSLRTVLESVL</span><span class="topo-unknown">VDDSELGGAGSSLEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -303,6 +304,7 @@ CRTH2 (chemoattractant receptor-homologous molecule expressed on Th2 cells, also
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -318,14 +320,15 @@ CRTH2 (chemoattractant receptor-homologous molecule expressed on Th2 cells, also
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GMSAN</span><span class="topo-inside">ATLKPLCPILEQMSRL</span><span class="topo-unknown">QSHS</span><span class="topo-inside">ATSIRYIDHA</span><span class="topo-membrane">AVLLHGLASLLGLVENGVILFVVGC</span></span>
-<span class="topo-line"><span class="topo-outside">RMRQTVVT</span><span class="topo-membrane">TWVLHLALSDLLASASLPFFTY</span><span class="topo-inside">FLAVGHSWELGTT</span><span class="topo-membrane">FCKLHSSIFFLNMFASG</span></span>
-<span class="topo-line"><span class="topo-membrane">FLLSAISL</span><span class="topo-outside">DRCLQVVRPVWAQNHRTVAAA</span><span class="topo-membrane">HKVCLVLWALAVLNTVPYFVFR</span><span class="topo-inside">DTISRLDGR</span></span>
-<span class="topo-line"><span class="topo-inside">IMCYYNVLLLNPGPDRDATCN</span><span class="topo-membrane">SRQAALAVSKFLLAFLVPLAIIASSH</span><span class="topo-outside">AAVSLRLQHRADL</span></span>
-<span class="topo-line"><span class="topo-outside">GLQHRNIFEMLRIDEGGGSGGDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAAL</span></span>
-<span class="topo-line"><span class="topo-outside">INMVFQMGETGVAGFTNSLRMLQQKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWD</span></span>
-<span class="topo-line"><span class="topo-outside">AYRRRPGRFVR</span><span class="topo-membrane">LVAAVVAAFALCWGPYHVFSLLEAR</span><span class="topo-inside">AHANPGLRPLVWR</span><span class="topo-membrane">GLPFVTSLAFF</span></span>
-<span class="topo-line"><span class="topo-membrane">NSVANPVLYVLTC</span><span class="topo-outside">PDMLRKLRRSLRTVLESVL</span><span class="topo-unknown">VDDSELGGAGSSLEVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GMSAN</span><span class="topo-inside">ATLKPLCPILEQMSRL</span><span class="topo-unknown">QSHS</span><span class="topo-inside">ATSIRYIDHA</span><span class="topo-membrane">AVLLHGLASLLGLVENGVILFVVGC</span><span class="topo-outside">RMRQTVVT</span><span class="topo-membrane">TWVLHLALSDLLASASLPFFTY</span><span class="topo-inside">FLAVGHSWELGTT</span><span class="topo-membrane">FCKLHSSIFFLNMFASG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">FLLSAISL</span><span class="topo-outside">DRCLQVVRPVWAQNHRTVAAA</span><span class="topo-membrane">HKVCLVLWALAVLNTVPYFVFR</span><span class="topo-inside">DTISRLDGRIMCYYNVLLLNPGPDRDATCN</span><span class="topo-membrane">SRQAALAVSKFLLAFLVPLAIIASSH</span><span class="topo-outside">AAVSLRLQHRADL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">GLQHRNIFEMLRIDEGGGSGGDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVFQMGETGVAGFTNSLRMLQQKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWD</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470</span>
+<span class="topo-line"><span class="topo-outside">AYRRRPGRFVR</span><span class="topo-membrane">LVAAVVAAFALCWGPYHVFSLLEAR</span><span class="topo-inside">AHANPGLRPLVWR</span><span class="topo-membrane">GLPFVTSLAFFNSVANPVLYVLTC</span><span class="topo-outside">PDMLRKLRRSLRTVLESVL</span><span class="topo-unknown">VDDSELGGAGSSLEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -484,6 +487,7 @@ CRTH2 (chemoattractant receptor-homologous molecule expressed on Th2 cells, also
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -531,14 +535,15 @@ CRTH2 (chemoattractant receptor-homologous molecule expressed on Th2 cells, also
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GMS</span><span class="topo-inside">ANATLKPLCPILEQMSRLQSHSATSIRYIDHA</span><span class="topo-membrane">AVLLHGLASLLGLVENGVILFVVGC</span></span>
-<span class="topo-line"><span class="topo-membrane">R</span><span class="topo-outside">MRQTV</span><span class="topo-membrane">VTTWVLHLALSDLLASASLPFFTY</span><span class="topo-inside">FLAVGHSWELGTTF</span><span class="topo-membrane">CKLHSSIFFLNMFASG</span></span>
-<span class="topo-line"><span class="topo-membrane">FLLSAISLDRC</span><span class="topo-outside">LQVVRPVWAQNHRTVA</span><span class="topo-membrane">AAHKVCLVLWALAVLNTVPYFV</span><span class="topo-inside">FRDTISRLDGR</span></span>
-<span class="topo-line"><span class="topo-inside">IMCYYNVLLLNPGPDRDATCNSRQA</span><span class="topo-membrane">ALAVSKFLLAFLVPLAIIASSHAA</span><span class="topo-outside">VSLRLQHRADL</span></span>
-<span class="topo-line"><span class="topo-outside">GLQHRNIFE</span><span class="topo-unknown">MLRIDEGGGSGGDEA</span><span class="topo-outside">EKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAAL</span></span>
-<span class="topo-line"><span class="topo-outside">INMVFQMGETGVAGFTNSLRMLQQKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWD</span></span>
-<span class="topo-line"><span class="topo-outside">AYRRRPGRF</span><span class="topo-membrane">VRLVAAVVAAFALCWGPYHVFSLL</span><span class="topo-inside">EARAHANPGLRPLVWRG</span><span class="topo-membrane">LPFVTSLAFF</span></span>
-<span class="topo-line"><span class="topo-membrane">NSVANPVLYVLTC</span><span class="topo-outside">PDMLRKLRRSLRTVLESVLVDD</span><span class="topo-unknown">SELGGAGSSLEVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GMS</span><span class="topo-inside">ANATLKPLCPILEQMSRLQSHSATSIRYIDHA</span><span class="topo-membrane">AVLLHGLASLLGLVENGVILFVVGCR</span><span class="topo-outside">MRQTV</span><span class="topo-membrane">VTTWVLHLALSDLLASASLPFFTY</span><span class="topo-inside">FLAVGHSWELGTTF</span><span class="topo-membrane">CKLHSSIFFLNMFASG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">FLLSAISLDRC</span><span class="topo-outside">LQVVRPVWAQNHRTVA</span><span class="topo-membrane">AAHKVCLVLWALAVLNTVPYFV</span><span class="topo-inside">FRDTISRLDGRIMCYYNVLLLNPGPDRDATCNSRQA</span><span class="topo-membrane">ALAVSKFLLAFLVPLAIIASSHAA</span><span class="topo-outside">VSLRLQHRADL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">GLQHRNIFE</span><span class="topo-unknown">MLRIDEGGGSGGDEA</span><span class="topo-outside">EKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVFQMGETGVAGFTNSLRMLQQKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWD</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470</span>
+<span class="topo-line"><span class="topo-outside">AYRRRPGRF</span><span class="topo-membrane">VRLVAAVVAAFALCWGPYHVFSLL</span><span class="topo-inside">EARAHANPGLRPLVWRG</span><span class="topo-membrane">LPFVTSLAFFNSVANPVLYVLTC</span><span class="topo-outside">PDMLRKLRRSLRTVLESVLVDD</span><span class="topo-unknown">SELGGAGSSLEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (22 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -704,6 +709,7 @@ CRTH2 (chemoattractant receptor-homologous molecule expressed on Th2 cells, also
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

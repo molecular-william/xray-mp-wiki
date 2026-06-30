@@ -132,12 +132,13 @@ The turkey beta1-adrenergic receptor (beta1AR) is a class A G-protein-coupled re
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGAELLSQQ</span><span class="topo-inside">W</span><span class="topo-membrane">EAGMSLLMALVVLLIVAGNVLVI</span><span class="topo-outside">AAIGSTQRLQTLTNLFIT</span><span class="topo-membrane">SLACADLVV</span></span>
-<span class="topo-line"><span class="topo-membrane">GLLVVPFGATLVV</span><span class="topo-inside">RGTW</span><span class="topo-membrane">LWGSFLCELWTSLDVLCVTASIETLC</span><span class="topo-outside">VIAIDRYLAITSPFRYQ</span></span>
-<span class="topo-line"><span class="topo-outside">SLMTRARAKVII</span><span class="topo-membrane">CTVWAISALVSFLPIMMHWWRD</span><span class="topo-inside">ED</span><span class="topo-unknown">PQALKCYQ</span><span class="topo-inside">DPGCC</span><span class="topo-membrane">DFVTNRAYAIA</span></span>
-<span class="topo-line"><span class="topo-membrane">SSIISFYIPLLIMIF</span><span class="topo-outside">VALRVYREAKEQI</span><span class="topo-unknown">RKIDRASKRKRVMLM</span><span class="topo-outside">REHKALKTLG</span><span class="topo-membrane">IIMGVFT</span></span>
-<span class="topo-line"><span class="topo-membrane">LCWLPFFLVNIVNVFN</span><span class="topo-inside">RDLVPD</span><span class="topo-membrane">WLFVAFNWLGYANSAMNPII</span><span class="topo-outside">YCRS</span><span class="topo-unknown">PDFRKAFKRL</span><span class="topo-outside">LA</span><span class="topo-unknown">FP</span></span>
-<span class="topo-line"><span class="topo-unknown">RKADRRLHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGAELLSQQ</span><span class="topo-inside">W</span><span class="topo-membrane">EAGMSLLMALVVLLIVAGNVLVI</span><span class="topo-outside">AAIGSTQRLQTLTNLFIT</span><span class="topo-membrane">SLACADLVVGLLVVPFGATLVV</span><span class="topo-inside">RGTW</span><span class="topo-membrane">LWGSFLCELWTSLDVLCVTASIETLC</span><span class="topo-outside">VIAIDRYLAITSPFRYQ</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">SLMTRARAKVII</span><span class="topo-membrane">CTVWAISALVSFLPIMMHWWRD</span><span class="topo-inside">ED</span><span class="topo-unknown">PQALKCYQ</span><span class="topo-inside">DPGCC</span><span class="topo-membrane">DFVTNRAYAIASSIISFYIPLLIMIF</span><span class="topo-outside">VALRVYREAKEQI</span><span class="topo-unknown">RKIDRASKRKRVMLM</span><span class="topo-outside">REHKALKTLG</span><span class="topo-membrane">IIMGVFT</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310   </span>
+<span class="topo-line"><span class="topo-membrane">LCWLPFFLVNIVNVFN</span><span class="topo-inside">RDLVPD</span><span class="topo-membrane">WLFVAFNWLGYANSAMNPII</span><span class="topo-outside">YCRS</span><span class="topo-unknown">PDFRKAFKRL</span><span class="topo-outside">LA</span><span class="topo-unknown">FPRKADRRLHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (23 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -310,6 +311,7 @@ The turkey beta1-adrenergic receptor (beta1AR) is a class A G-protein-coupled re
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -434,8 +436,9 @@ The turkey beta1-adrenergic receptor (beta1AR) is a class A G-protein-coupled re
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">SD</span><span class="topo-outside">KIIHLTDDSFDTDVLKADGAILVDFWAEWSGPSKMIAPILDEIADEYQGKLTVAKLNI</span></span>
-<span class="topo-line"><span class="topo-outside">DQNPGTAPKYGIRGIPTLLLFKNGEVAATKVGALS</span><span class="topo-unknown">KGQLKEFLDAN</span><span class="topo-outside">LA</span><span class="topo-unknown">E</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100         </span>
+<span class="topo-line"><span class="topo-unknown">SD</span><span class="topo-outside">KIIHLTDDSFDTDVLKADGAILVDFWAEWSGPSKMIAPILDEIADEYQGKLTVAKLNIDQNPGTAPKYGIRGIPTLLLFKNGEVAATKVGALS</span><span class="topo-unknown">KGQLKEFLDAN</span><span class="topo-outside">LA</span><span class="topo-unknown">E</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -468,6 +471,7 @@ The turkey beta1-adrenergic receptor (beta1AR) is a class A G-protein-coupled re
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -483,12 +487,13 @@ The turkey beta1-adrenergic receptor (beta1AR) is a class A G-protein-coupled re
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">A</span><span class="topo-outside">AAKV</span><span class="topo-membrane">MSLLMALVVLLIVAGNVLV</span><span class="topo-inside">IAAIGSTQRLQTLTNLFITS</span><span class="topo-membrane">LACADLVVGLLVVPFG</span></span>
-<span class="topo-line"><span class="topo-membrane">AT</span><span class="topo-outside">LVVRGTWLWGSF</span><span class="topo-membrane">LCELWTSLDVLCVTASIETLC</span><span class="topo-inside">VIAIDRYLAITSPFRYQSLMTRARA</span></span>
-<span class="topo-line"><span class="topo-inside">KVIIC</span><span class="topo-membrane">TVWAISALVSFLPIMMHWWR</span><span class="topo-outside">DED</span><span class="topo-unknown">PQALKCYQ</span><span class="topo-outside">DPGCCDFVT</span><span class="topo-membrane">NRAYAIASSIISFYI</span></span>
-<span class="topo-line"><span class="topo-membrane">PLLIMIF</span><span class="topo-inside">VYLRVYREAKEQIRKIDRASKRKTSRVMAMKEHKALKTLG</span><span class="topo-membrane">IIMGVFTLCWLPF</span></span>
-<span class="topo-line"><span class="topo-membrane">FLVNIVNV</span><span class="topo-outside">FNRDLVPDWL</span><span class="topo-membrane">FVAFNWLGYANSAMNPII</span><span class="topo-inside">YCRS</span><span class="topo-unknown">PDFRKAFKRL</span><span class="topo-inside">L</span><span class="topo-unknown">AFPRKADRR</span></span>
-<span class="topo-line"><span class="topo-unknown">LHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">A</span><span class="topo-outside">AAKV</span><span class="topo-membrane">MSLLMALVVLLIVAGNVLV</span><span class="topo-inside">IAAIGSTQRLQTLTNLFITS</span><span class="topo-membrane">LACADLVVGLLVVPFGAT</span><span class="topo-outside">LVVRGTWLWGSF</span><span class="topo-membrane">LCELWTSLDVLCVTASIETLC</span><span class="topo-inside">VIAIDRYLAITSPFRYQSLMTRARA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">KVIIC</span><span class="topo-membrane">TVWAISALVSFLPIMMHWWR</span><span class="topo-outside">DED</span><span class="topo-unknown">PQALKCYQ</span><span class="topo-outside">DPGCCDFVT</span><span class="topo-membrane">NRAYAIASSIISFYIPLLIMIF</span><span class="topo-inside">VYLRVYREAKEQIRKIDRASKRKTSRVMAMKEHKALKTLG</span><span class="topo-membrane">IIMGVFTLCWLPF</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       </span>
+<span class="topo-line"><span class="topo-membrane">FLVNIVNV</span><span class="topo-outside">FNRDLVPDWL</span><span class="topo-membrane">FVAFNWLGYANSAMNPII</span><span class="topo-inside">YCRS</span><span class="topo-unknown">PDFRKAFKRL</span><span class="topo-inside">L</span><span class="topo-unknown">AFPRKADRRLHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -633,6 +638,7 @@ The turkey beta1-adrenergic receptor (beta1AR) is a class A G-protein-coupled re
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -648,8 +654,9 @@ The turkey beta1-adrenergic receptor (beta1AR) is a class A G-protein-coupled re
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">SD</span><span class="topo-outside">KIIHLTDDSFDTDVLKADGAILVDFWAEWSGPSKMIAPILDEIADEYQGKLTVAKLNI</span></span>
-<span class="topo-line"><span class="topo-outside">DQNPGTAPKYGIRGIPTLLLFKNGEVAATKVGALS</span><span class="topo-unknown">KGQLKEFLDANL</span><span class="topo-outside">AE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100         </span>
+<span class="topo-line"><span class="topo-unknown">SD</span><span class="topo-outside">KIIHLTDDSFDTDVLKADGAILVDFWAEWSGPSKMIAPILDEIADEYQGKLTVAKLNIDQNPGTAPKYGIRGIPTLLLFKNGEVAATKVGALS</span><span class="topo-unknown">KGQLKEFLDANL</span><span class="topo-outside">AE</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -682,6 +689,7 @@ The turkey beta1-adrenergic receptor (beta1AR) is a class A G-protein-coupled re
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -697,12 +705,13 @@ The turkey beta1-adrenergic receptor (beta1AR) is a class A G-protein-coupled re
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">A</span><span class="topo-outside">AAKV</span><span class="topo-membrane">MSLLMALVVLLIVAGNVLVIA</span><span class="topo-inside">AIGSTQRLQTLTNLFI</span><span class="topo-membrane">TSLACADLVVGLLVVPFG</span></span>
-<span class="topo-line"><span class="topo-membrane">AT</span><span class="topo-outside">LVVRGTWLWGSF</span><span class="topo-membrane">LCELWTSLDVLCVTASIETLCV</span><span class="topo-inside">IAIDRYLAITSPFRYQSLMTRARA</span></span>
-<span class="topo-line"><span class="topo-inside">KVII</span><span class="topo-membrane">CTVWAISALVSFLPIMMHWW</span><span class="topo-outside">RDED</span><span class="topo-unknown">PQALKCYQ</span><span class="topo-outside">DPGCCDFVT</span><span class="topo-membrane">NRAYAIASSIISFYI</span></span>
-<span class="topo-line"><span class="topo-membrane">PLLIMIF</span><span class="topo-inside">VYLRVYREAKEQIRKIDRASKRKTSRVMAMKEHKALK</span><span class="topo-membrane">TLGIIMGVFTLCWLPF</span></span>
-<span class="topo-line"><span class="topo-membrane">FLVNIV</span><span class="topo-outside">NVFNRDLVPDWLF</span><span class="topo-membrane">VAFNWLGYANSAMNPIIY</span><span class="topo-inside">CRS</span><span class="topo-unknown">PDFRKAFKRL</span><span class="topo-inside">LA</span><span class="topo-unknown">FPRKADRR</span></span>
-<span class="topo-line"><span class="topo-unknown">LHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">A</span><span class="topo-outside">AAKV</span><span class="topo-membrane">MSLLMALVVLLIVAGNVLVIA</span><span class="topo-inside">AIGSTQRLQTLTNLFI</span><span class="topo-membrane">TSLACADLVVGLLVVPFGAT</span><span class="topo-outside">LVVRGTWLWGSF</span><span class="topo-membrane">LCELWTSLDVLCVTASIETLCV</span><span class="topo-inside">IAIDRYLAITSPFRYQSLMTRARA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">KVII</span><span class="topo-membrane">CTVWAISALVSFLPIMMHWW</span><span class="topo-outside">RDED</span><span class="topo-unknown">PQALKCYQ</span><span class="topo-outside">DPGCCDFVT</span><span class="topo-membrane">NRAYAIASSIISFYIPLLIMIF</span><span class="topo-inside">VYLRVYREAKEQIRKIDRASKRKTSRVMAMKEHKALK</span><span class="topo-membrane">TLGIIMGVFTLCWLPF</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       </span>
+<span class="topo-line"><span class="topo-membrane">FLVNIV</span><span class="topo-outside">NVFNRDLVPDWLF</span><span class="topo-membrane">VAFNWLGYANSAMNPIIY</span><span class="topo-inside">CRS</span><span class="topo-unknown">PDFRKAFKRL</span><span class="topo-inside">LA</span><span class="topo-unknown">FPRKADRRLHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -847,6 +856,7 @@ The turkey beta1-adrenergic receptor (beta1AR) is a class A G-protein-coupled re
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -862,8 +872,9 @@ The turkey beta1-adrenergic receptor (beta1AR) is a class A G-protein-coupled re
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">SD</span><span class="topo-inside">KIIHLTDDSFDTDVLKADGAILVDFWAEWSGPSKMIAPILDEIADEYQGKLTVAKLNI</span></span>
-<span class="topo-line"><span class="topo-inside">DQNPGTAPKYGIRGIPTLLLFKNGEVAATKVGALS</span><span class="topo-unknown">KGQLKEFLDANL</span><span class="topo-inside">AE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100         </span>
+<span class="topo-line"><span class="topo-unknown">SD</span><span class="topo-inside">KIIHLTDDSFDTDVLKADGAILVDFWAEWSGPSKMIAPILDEIADEYQGKLTVAKLNIDQNPGTAPKYGIRGIPTLLLFKNGEVAATKVGALS</span><span class="topo-unknown">KGQLKEFLDANL</span><span class="topo-inside">AE</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -896,6 +907,7 @@ The turkey beta1-adrenergic receptor (beta1AR) is a class A G-protein-coupled re
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -911,12 +923,13 @@ The turkey beta1-adrenergic receptor (beta1AR) is a class A G-protein-coupled re
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">A</span><span class="topo-inside">AAKV</span><span class="topo-membrane">MSLLMALVVLLIVAGNVLVI</span><span class="topo-outside">AAIGSTQRLQTLTNLFIT</span><span class="topo-membrane">SLACADLVVGLLVVPFG</span></span>
-<span class="topo-line"><span class="topo-membrane">AT</span><span class="topo-inside">LVVRGTWLWGSF</span><span class="topo-membrane">LCELWTSLDVLCVTASIETLCV</span><span class="topo-outside">IAIDRYLAITSPFRYQSLMTRARA</span></span>
-<span class="topo-line"><span class="topo-outside">KVII</span><span class="topo-membrane">CTVWAISALVSFLPIMMHWW</span><span class="topo-inside">RDED</span><span class="topo-unknown">PQALKCYQ</span><span class="topo-inside">DPGCCDFVT</span><span class="topo-membrane">NRAYAIASSIISFYI</span></span>
-<span class="topo-line"><span class="topo-membrane">PLLIMIF</span><span class="topo-outside">VYLRVYREAKEQIRKIDRASKRKTSRVMAMKEHKALKTL</span><span class="topo-membrane">GIIMGVFTLCWLPF</span></span>
-<span class="topo-line"><span class="topo-membrane">FLVNIV</span><span class="topo-inside">NVFNRDLVPDWL</span><span class="topo-membrane">FVAFNWLGYANSAMNPIIY</span><span class="topo-outside">CRS</span><span class="topo-unknown">PDFRKAFKRL</span><span class="topo-outside">LA</span><span class="topo-unknown">FPRKADRR</span></span>
-<span class="topo-line"><span class="topo-unknown">LHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">A</span><span class="topo-inside">AAKV</span><span class="topo-membrane">MSLLMALVVLLIVAGNVLVI</span><span class="topo-outside">AAIGSTQRLQTLTNLFIT</span><span class="topo-membrane">SLACADLVVGLLVVPFGAT</span><span class="topo-inside">LVVRGTWLWGSF</span><span class="topo-membrane">LCELWTSLDVLCVTASIETLCV</span><span class="topo-outside">IAIDRYLAITSPFRYQSLMTRARA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">KVII</span><span class="topo-membrane">CTVWAISALVSFLPIMMHWW</span><span class="topo-inside">RDED</span><span class="topo-unknown">PQALKCYQ</span><span class="topo-inside">DPGCCDFVT</span><span class="topo-membrane">NRAYAIASSIISFYIPLLIMIF</span><span class="topo-outside">VYLRVYREAKEQIRKIDRASKRKTSRVMAMKEHKALKTL</span><span class="topo-membrane">GIIMGVFTLCWLPF</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       </span>
+<span class="topo-line"><span class="topo-membrane">FLVNIV</span><span class="topo-inside">NVFNRDLVPDWL</span><span class="topo-membrane">FVAFNWLGYANSAMNPIIY</span><span class="topo-outside">CRS</span><span class="topo-unknown">PDFRKAFKRL</span><span class="topo-outside">LA</span><span class="topo-unknown">FPRKADRRLHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1061,6 +1074,7 @@ The turkey beta1-adrenergic receptor (beta1AR) is a class A G-protein-coupled re
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1076,8 +1090,9 @@ The turkey beta1-adrenergic receptor (beta1AR) is a class A G-protein-coupled re
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">S</span><span class="topo-inside">DKIIHLTDDSFDTDVLKADGAILVDFWAEWSGPSKMIAPILDEIADEYQGKLTVAKLNI</span></span>
-<span class="topo-line"><span class="topo-inside">DQNPGTAPKYGIRGIPTLLLFKNGEVAATKVGALS</span><span class="topo-unknown">KGQLKEFLDANL</span><span class="topo-inside">A</span><span class="topo-unknown">E</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100         </span>
+<span class="topo-line"><span class="topo-unknown">S</span><span class="topo-inside">DKIIHLTDDSFDTDVLKADGAILVDFWAEWSGPSKMIAPILDEIADEYQGKLTVAKLNIDQNPGTAPKYGIRGIPTLLLFKNGEVAATKVGALS</span><span class="topo-unknown">KGQLKEFLDANL</span><span class="topo-inside">A</span><span class="topo-unknown">E</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1110,6 +1125,7 @@ The turkey beta1-adrenergic receptor (beta1AR) is a class A G-protein-coupled re
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1125,12 +1141,13 @@ The turkey beta1-adrenergic receptor (beta1AR) is a class A G-protein-coupled re
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">A</span><span class="topo-inside">AAKV</span><span class="topo-membrane">MSLLMALVVLLIVAGNVLVI</span><span class="topo-outside">AAIGSTQRLQTLTNLFITS</span><span class="topo-membrane">LACADLVVGLLVVPFG</span></span>
-<span class="topo-line"><span class="topo-membrane">AT</span><span class="topo-inside">LVVRGTWLWGSF</span><span class="topo-membrane">LCELWTSLDVLCVTASIETLC</span><span class="topo-outside">VIAIDRYLAITSPFRYQSLMTRARA</span></span>
-<span class="topo-line"><span class="topo-outside">KVIIC</span><span class="topo-membrane">TVWAISALVSFLPIMMHWW</span><span class="topo-inside">RDED</span><span class="topo-unknown">PQALKCYQ</span><span class="topo-inside">DPGCCDFVT</span><span class="topo-membrane">NRAYAIASSIISFYI</span></span>
-<span class="topo-line"><span class="topo-membrane">PLLIMIF</span><span class="topo-outside">VYLRVYREAKEQIRKIDRASKRKTSRVMAMKEHKALKTLG</span><span class="topo-membrane">IIMGVFTLCWLPF</span></span>
-<span class="topo-line"><span class="topo-membrane">FLVNIV</span><span class="topo-inside">NVFNRDLVPDWL</span><span class="topo-membrane">FVAFNWLGYANSAMNPII</span><span class="topo-outside">YCRS</span><span class="topo-unknown">PDFRKAFKRL</span><span class="topo-outside">L</span><span class="topo-unknown">AFPRKADRR</span></span>
-<span class="topo-line"><span class="topo-unknown">LHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">A</span><span class="topo-inside">AAKV</span><span class="topo-membrane">MSLLMALVVLLIVAGNVLVI</span><span class="topo-outside">AAIGSTQRLQTLTNLFITS</span><span class="topo-membrane">LACADLVVGLLVVPFGAT</span><span class="topo-inside">LVVRGTWLWGSF</span><span class="topo-membrane">LCELWTSLDVLCVTASIETLC</span><span class="topo-outside">VIAIDRYLAITSPFRYQSLMTRARA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">KVIIC</span><span class="topo-membrane">TVWAISALVSFLPIMMHWW</span><span class="topo-inside">RDED</span><span class="topo-unknown">PQALKCYQ</span><span class="topo-inside">DPGCCDFVT</span><span class="topo-membrane">NRAYAIASSIISFYIPLLIMIF</span><span class="topo-outside">VYLRVYREAKEQIRKIDRASKRKTSRVMAMKEHKALKTLG</span><span class="topo-membrane">IIMGVFTLCWLPF</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       </span>
+<span class="topo-line"><span class="topo-membrane">FLVNIV</span><span class="topo-inside">NVFNRDLVPDWL</span><span class="topo-membrane">FVAFNWLGYANSAMNPII</span><span class="topo-outside">YCRS</span><span class="topo-unknown">PDFRKAFKRL</span><span class="topo-outside">L</span><span class="topo-unknown">AFPRKADRRLHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1275,6 +1292,7 @@ The turkey beta1-adrenergic receptor (beta1AR) is a class A G-protein-coupled re
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

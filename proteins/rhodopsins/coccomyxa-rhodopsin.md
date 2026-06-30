@@ -140,10 +140,11 @@ Coccomyxa subellipsoidea rhodopsin (CsR) is a light-driven proton pump from the 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">AVHQIGEGG</span><span class="topo-membrane">LVMYWVTFGLMAFSALAFAVMTF</span><span class="topo-outside">TRPLNKRSH</span><span class="topo-membrane">GYITLAIVTIAAIAYYAM</span></span>
-<span class="topo-line"><span class="topo-membrane">AAS</span><span class="topo-inside">GGKALVSNPDGNLRDI</span><span class="topo-membrane">YYARYIDWFFTTPLLLLDII</span><span class="topo-outside">LLTGIPIGV</span><span class="topo-membrane">TLWIVLADVAMI</span></span>
-<span class="topo-line"><span class="topo-membrane">MLGLFGALS</span><span class="topo-inside">TNSY</span><span class="topo-membrane">RWGYYGVSCAFFFVVLWGLFF</span><span class="topo-outside">PGAKGARARGGQVPGLY</span><span class="topo-membrane">FGLAGYLAL</span></span>
-<span class="topo-line"><span class="topo-membrane">LWFGYPIVWGLAEG</span><span class="topo-inside">SDYISVTA</span><span class="topo-membrane">EAASYAGLDIAAKVVFGWAVML</span><span class="topo-outside">SH</span><span class="topo-unknown">PLIAHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">AVHQIGEGG</span><span class="topo-membrane">LVMYWVTFGLMAFSALAFAVMTF</span><span class="topo-outside">TRPLNKRSH</span><span class="topo-membrane">GYITLAIVTIAAIAYYAMAAS</span><span class="topo-inside">GGKALVSNPDGNLRDI</span><span class="topo-membrane">YYARYIDWFFTTPLLLLDII</span><span class="topo-outside">LLTGIPIGV</span><span class="topo-membrane">TLWIVLADVAMI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230      </span>
+<span class="topo-line"><span class="topo-membrane">MLGLFGALS</span><span class="topo-inside">TNSY</span><span class="topo-membrane">RWGYYGVSCAFFFVVLWGLFF</span><span class="topo-outside">PGAKGARARGGQVPGLY</span><span class="topo-membrane">FGLAGYLALLWFGYPIVWGLAEG</span><span class="topo-inside">SDYISVTA</span><span class="topo-membrane">EAASYAGLDIAAKVVFGWAVML</span><span class="topo-outside">SH</span><span class="topo-unknown">PLIAHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -260,6 +261,7 @@ Coccomyxa subellipsoidea rhodopsin (CsR) is a light-driven proton pump from the 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -275,10 +277,11 @@ Coccomyxa subellipsoidea rhodopsin (CsR) is a light-driven proton pump from the 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">AVHQIGEGG</span><span class="topo-membrane">LVMYWVTFGLMAFSALAFAVMTF</span><span class="topo-outside">TRPLNKRSH</span><span class="topo-membrane">GYITLAIVTIAAIAYYAM</span></span>
-<span class="topo-line"><span class="topo-membrane">AAS</span><span class="topo-inside">GGKALVSNPDGNLRDI</span><span class="topo-membrane">YYARYIDWFFTTPLLLLDII</span><span class="topo-outside">LLTGIPIGV</span><span class="topo-membrane">TLWIVLADVAMI</span></span>
-<span class="topo-line"><span class="topo-membrane">MLGLFGALS</span><span class="topo-inside">TNSY</span><span class="topo-membrane">RWGYYGVSCAFFFVVLWGLFF</span><span class="topo-outside">PGAKGARARGGQVPGLY</span><span class="topo-membrane">FGLAGYLAL</span></span>
-<span class="topo-line"><span class="topo-membrane">LWFGYPIVWGLAEG</span><span class="topo-inside">SDYISVTA</span><span class="topo-membrane">EAASYAGLDIAAKVVFGWAVML</span><span class="topo-outside">SH</span><span class="topo-unknown">PLIAHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">AVHQIGEGG</span><span class="topo-membrane">LVMYWVTFGLMAFSALAFAVMTF</span><span class="topo-outside">TRPLNKRSH</span><span class="topo-membrane">GYITLAIVTIAAIAYYAMAAS</span><span class="topo-inside">GGKALVSNPDGNLRDI</span><span class="topo-membrane">YYARYIDWFFTTPLLLLDII</span><span class="topo-outside">LLTGIPIGV</span><span class="topo-membrane">TLWIVLADVAMI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230      </span>
+<span class="topo-line"><span class="topo-membrane">MLGLFGALS</span><span class="topo-inside">TNSY</span><span class="topo-membrane">RWGYYGVSCAFFFVVLWGLFF</span><span class="topo-outside">PGAKGARARGGQVPGLY</span><span class="topo-membrane">FGLAGYLALLWFGYPIVWGLAEG</span><span class="topo-inside">SDYISVTA</span><span class="topo-membrane">EAASYAGLDIAAKVVFGWAVML</span><span class="topo-outside">SH</span><span class="topo-unknown">PLIAHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -395,6 +398,7 @@ Coccomyxa subellipsoidea rhodopsin (CsR) is a light-driven proton pump from the 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -410,10 +414,11 @@ Coccomyxa subellipsoidea rhodopsin (CsR) is a light-driven proton pump from the 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">AVHQIGEGG</span><span class="topo-membrane">LVMYWVTFGLMAFSALAFAVMTF</span><span class="topo-outside">TRPLNKRSH</span><span class="topo-membrane">GYITLAIVTIAAIAYYAM</span></span>
-<span class="topo-line"><span class="topo-membrane">AAS</span><span class="topo-inside">GGKALVSNPDGNLRDI</span><span class="topo-membrane">YYARYIDWFFTTPLLLLDII</span><span class="topo-outside">LLTGIPIGV</span><span class="topo-membrane">TLWIVLADVAMI</span></span>
-<span class="topo-line"><span class="topo-membrane">MLGLFGALS</span><span class="topo-inside">TNSY</span><span class="topo-membrane">RWGYYGVSCAFFFVVLWGLFF</span><span class="topo-outside">PGAKGARARGGQVPGLY</span><span class="topo-membrane">FGLAGYLAL</span></span>
-<span class="topo-line"><span class="topo-membrane">LWFGYPIVWGLAEG</span><span class="topo-inside">SDYISVTA</span><span class="topo-membrane">EAASYAGLDIAAKVVFGWAVML</span><span class="topo-outside">SH</span><span class="topo-unknown">PLIAHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">AVHQIGEGG</span><span class="topo-membrane">LVMYWVTFGLMAFSALAFAVMTF</span><span class="topo-outside">TRPLNKRSH</span><span class="topo-membrane">GYITLAIVTIAAIAYYAMAAS</span><span class="topo-inside">GGKALVSNPDGNLRDI</span><span class="topo-membrane">YYARYIDWFFTTPLLLLDII</span><span class="topo-outside">LLTGIPIGV</span><span class="topo-membrane">TLWIVLADVAMI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230      </span>
+<span class="topo-line"><span class="topo-membrane">MLGLFGALS</span><span class="topo-inside">TNSY</span><span class="topo-membrane">RWGYYGVSCAFFFVVLWGLFF</span><span class="topo-outside">PGAKGARARGGQVPGLY</span><span class="topo-membrane">FGLAGYLALLWFGYPIVWGLAEG</span><span class="topo-inside">SDYISVTA</span><span class="topo-membrane">EAASYAGLDIAAKVVFGWAVML</span><span class="topo-outside">SH</span><span class="topo-unknown">PLIAHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -530,6 +535,7 @@ Coccomyxa subellipsoidea rhodopsin (CsR) is a light-driven proton pump from the 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

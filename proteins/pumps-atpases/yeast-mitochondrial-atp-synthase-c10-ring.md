@@ -56,8 +56,9 @@ The c10 ring is the membrane-embedded rotor component of the mitochondrial ATP s
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MQLVLAAKYIGA</span><span class="topo-membrane">GISTIGLLGAGIGIAIVFA</span><span class="topo-inside">ALINGVSRNPSIKDTVFPMA</span><span class="topo-membrane">ILGFALSEA</span></span>
-<span class="topo-line"><span class="topo-membrane">TGLFCLMVSFL</span><span class="topo-outside">LLF</span><span class="topo-unknown">GV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70      </span>
+<span class="topo-line"><span class="topo-outside">MQLVLAAKYIGA</span><span class="topo-membrane">GISTIGLLGAGIGIAIVFA</span><span class="topo-inside">ALINGVSRNPSIKDTVFPMA</span><span class="topo-membrane">ILGFALSEATGLFCLMVSFL</span><span class="topo-outside">LLF</span><span class="topo-unknown">GV</span></span>
+<details class="topo-details"><summary>Topology coordinates (6 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -111,6 +112,7 @@ The c10 ring is the membrane-embedded rotor component of the mitochondrial ATP s
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -126,8 +128,9 @@ The c10 ring is the membrane-embedded rotor component of the mitochondrial ATP s
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MQLVLAAKYIGA</span><span class="topo-membrane">GISTIGLLGAGIGIAIVFA</span><span class="topo-inside">ALINGVSRNPSIKDTVFPMA</span><span class="topo-membrane">ILGFALSEA</span></span>
-<span class="topo-line"><span class="topo-membrane">TGLFCLMVSFL</span><span class="topo-outside">LLF</span><span class="topo-unknown">GV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70      </span>
+<span class="topo-line"><span class="topo-outside">MQLVLAAKYIGA</span><span class="topo-membrane">GISTIGLLGAGIGIAIVFA</span><span class="topo-inside">ALINGVSRNPSIKDTVFPMA</span><span class="topo-membrane">ILGFALSEATGLFCLMVSFL</span><span class="topo-outside">LLF</span><span class="topo-unknown">GV</span></span>
+<details class="topo-details"><summary>Topology coordinates (6 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -181,6 +184,7 @@ The c10 ring is the membrane-embedded rotor component of the mitochondrial ATP s
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -196,8 +200,9 @@ The c10 ring is the membrane-embedded rotor component of the mitochondrial ATP s
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MQLVLAAKYIGA</span><span class="topo-membrane">GISTIGLLGAGIGIAIVFA</span><span class="topo-inside">ALINGVSRNPSIKDTVFPMA</span><span class="topo-membrane">ILGFALSEA</span></span>
-<span class="topo-line"><span class="topo-membrane">TGLFCLMVSFL</span><span class="topo-outside">LLFG</span><span class="topo-unknown">V</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70      </span>
+<span class="topo-line"><span class="topo-outside">MQLVLAAKYIGA</span><span class="topo-membrane">GISTIGLLGAGIGIAIVFA</span><span class="topo-inside">ALINGVSRNPSIKDTVFPMA</span><span class="topo-membrane">ILGFALSEATGLFCLMVSFL</span><span class="topo-outside">LLFG</span><span class="topo-unknown">V</span></span>
+<details class="topo-details"><summary>Topology coordinates (6 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -251,6 +256,7 @@ The c10 ring is the membrane-embedded rotor component of the mitochondrial ATP s
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -266,8 +272,9 @@ The c10 ring is the membrane-embedded rotor component of the mitochondrial ATP s
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MQLVLAAKYIGA</span><span class="topo-membrane">GISTIGLLGAGIGIAIVFA</span><span class="topo-inside">ALINGVSRNPSIKDTVFPMA</span><span class="topo-membrane">ILGFALSEA</span></span>
-<span class="topo-line"><span class="topo-membrane">TGLFCLMVSFL</span><span class="topo-outside">LLF</span><span class="topo-unknown">GV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70      </span>
+<span class="topo-line"><span class="topo-outside">MQLVLAAKYIGA</span><span class="topo-membrane">GISTIGLLGAGIGIAIVFA</span><span class="topo-inside">ALINGVSRNPSIKDTVFPMA</span><span class="topo-membrane">ILGFALSEATGLFCLMVSFL</span><span class="topo-outside">LLF</span><span class="topo-unknown">GV</span></span>
+<details class="topo-details"><summary>Topology coordinates (6 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -321,6 +328,7 @@ The c10 ring is the membrane-embedded rotor component of the mitochondrial ATP s
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -336,8 +344,9 @@ The c10 ring is the membrane-embedded rotor component of the mitochondrial ATP s
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MQLVLAAKYIGA</span><span class="topo-membrane">GISTIGLLGAGIGIAIVFA</span><span class="topo-inside">ALINGVSRNPSIKDTVFPMA</span><span class="topo-membrane">ILGFALSEA</span></span>
-<span class="topo-line"><span class="topo-membrane">TGLFCLMVSFL</span><span class="topo-outside">LLF</span><span class="topo-unknown">GV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70      </span>
+<span class="topo-line"><span class="topo-outside">MQLVLAAKYIGA</span><span class="topo-membrane">GISTIGLLGAGIGIAIVFA</span><span class="topo-inside">ALINGVSRNPSIKDTVFPMA</span><span class="topo-membrane">ILGFALSEATGLFCLMVSFL</span><span class="topo-outside">LLF</span><span class="topo-unknown">GV</span></span>
+<details class="topo-details"><summary>Topology coordinates (6 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -391,6 +400,7 @@ The c10 ring is the membrane-embedded rotor component of the mitochondrial ATP s
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -406,8 +416,9 @@ The c10 ring is the membrane-embedded rotor component of the mitochondrial ATP s
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MQLVLAAKYIGA</span><span class="topo-membrane">GISTIGLLGAGIGIAIVFA</span><span class="topo-inside">ALINGVSRNPSIKDTVFPMA</span><span class="topo-membrane">ILGFALSEA</span></span>
-<span class="topo-line"><span class="topo-membrane">TGLFCLMVSFL</span><span class="topo-outside">LLF</span><span class="topo-unknown">GV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70      </span>
+<span class="topo-line"><span class="topo-outside">MQLVLAAKYIGA</span><span class="topo-membrane">GISTIGLLGAGIGIAIVFA</span><span class="topo-inside">ALINGVSRNPSIKDTVFPMA</span><span class="topo-membrane">ILGFALSEATGLFCLMVSFL</span><span class="topo-outside">LLF</span><span class="topo-unknown">GV</span></span>
+<details class="topo-details"><summary>Topology coordinates (6 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -461,6 +472,7 @@ The c10 ring is the membrane-embedded rotor component of the mitochondrial ATP s
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -476,8 +488,9 @@ The c10 ring is the membrane-embedded rotor component of the mitochondrial ATP s
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MQLVLAAKYIGA</span><span class="topo-membrane">GISTIGLLGAGIGIAIVFA</span><span class="topo-inside">ALINGVSRNPSIKDTVFPM</span><span class="topo-membrane">AILGFALSEA</span></span>
-<span class="topo-line"><span class="topo-membrane">TGLFCLMVSFL</span><span class="topo-outside">LLF</span><span class="topo-unknown">GV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70      </span>
+<span class="topo-line"><span class="topo-outside">MQLVLAAKYIGA</span><span class="topo-membrane">GISTIGLLGAGIGIAIVFA</span><span class="topo-inside">ALINGVSRNPSIKDTVFPM</span><span class="topo-membrane">AILGFALSEATGLFCLMVSFL</span><span class="topo-outside">LLF</span><span class="topo-unknown">GV</span></span>
+<details class="topo-details"><summary>Topology coordinates (6 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -531,6 +544,7 @@ The c10 ring is the membrane-embedded rotor component of the mitochondrial ATP s
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -546,8 +560,9 @@ The c10 ring is the membrane-embedded rotor component of the mitochondrial ATP s
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MQLVLAAKYIGA</span><span class="topo-membrane">GISTIGLLGAGIGIAIVFA</span><span class="topo-inside">ALINGVSRNPSIKDTVFPM</span><span class="topo-membrane">AILGFALSEA</span></span>
-<span class="topo-line"><span class="topo-membrane">TGLFCLMVSFL</span><span class="topo-outside">LLFG</span><span class="topo-unknown">V</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70      </span>
+<span class="topo-line"><span class="topo-outside">MQLVLAAKYIGA</span><span class="topo-membrane">GISTIGLLGAGIGIAIVFA</span><span class="topo-inside">ALINGVSRNPSIKDTVFPM</span><span class="topo-membrane">AILGFALSEATGLFCLMVSFL</span><span class="topo-outside">LLFG</span><span class="topo-unknown">V</span></span>
+<details class="topo-details"><summary>Topology coordinates (6 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -601,6 +616,7 @@ The c10 ring is the membrane-embedded rotor component of the mitochondrial ATP s
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -616,8 +632,9 @@ The c10 ring is the membrane-embedded rotor component of the mitochondrial ATP s
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MQLVLAAKYIGA</span><span class="topo-membrane">GISTIGLLGAGIGIAIVFA</span><span class="topo-inside">ALINGVSRNPSIKDTVFPM</span><span class="topo-membrane">AILGFALSEA</span></span>
-<span class="topo-line"><span class="topo-membrane">TGLFCLMVSFL</span><span class="topo-outside">LLF</span><span class="topo-unknown">GV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70      </span>
+<span class="topo-line"><span class="topo-outside">MQLVLAAKYIGA</span><span class="topo-membrane">GISTIGLLGAGIGIAIVFA</span><span class="topo-inside">ALINGVSRNPSIKDTVFPM</span><span class="topo-membrane">AILGFALSEATGLFCLMVSFL</span><span class="topo-outside">LLF</span><span class="topo-unknown">GV</span></span>
+<details class="topo-details"><summary>Topology coordinates (6 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -671,6 +688,7 @@ The c10 ring is the membrane-embedded rotor component of the mitochondrial ATP s
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -686,8 +704,9 @@ The c10 ring is the membrane-embedded rotor component of the mitochondrial ATP s
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MQLVLAAKYIGA</span><span class="topo-membrane">GISTIGLLGAGIGIAIVFA</span><span class="topo-inside">ALINGVSRNPSIKDTVFPMA</span><span class="topo-membrane">ILGFALSEA</span></span>
-<span class="topo-line"><span class="topo-membrane">TGLFCLMVSFL</span><span class="topo-outside">LLF</span><span class="topo-unknown">GV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70      </span>
+<span class="topo-line"><span class="topo-outside">MQLVLAAKYIGA</span><span class="topo-membrane">GISTIGLLGAGIGIAIVFA</span><span class="topo-inside">ALINGVSRNPSIKDTVFPMA</span><span class="topo-membrane">ILGFALSEATGLFCLMVSFL</span><span class="topo-outside">LLF</span><span class="topo-unknown">GV</span></span>
+<details class="topo-details"><summary>Topology coordinates (6 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -741,6 +760,7 @@ The c10 ring is the membrane-embedded rotor component of the mitochondrial ATP s
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

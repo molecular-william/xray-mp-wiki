@@ -142,9 +142,11 @@ helix" in the P2 loop.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MLRFLNQAS</span><span class="topo-inside">QGR</span><span class="topo-membrane">GAWLLMAFTALALELT</span><span class="topo-outside">ALWFQHVMLLKPSVLCIYER</span><span class="topo-membrane">VALFGVLGAALI</span></span>
-<span class="topo-line"><span class="topo-membrane">GAIA</span><span class="topo-inside">PKTPL</span><span class="topo-membrane">RYVAMVIWLYSAFRGVQ</span><span class="topo-outside">LTYEHTMLQLYPSPFATCDFMV</span><span class="topo-unknown">RFPEW</span><span class="topo-outside">LPLDKWV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MLRFLNQAS</span><span class="topo-inside">QGR</span><span class="topo-membrane">GAWLLMAFTALALELT</span><span class="topo-outside">ALWFQHVMLLKPSVLCIYER</span><span class="topo-membrane">VALFGVLGAALIGAIA</span><span class="topo-inside">PKTPL</span><span class="topo-membrane">RYVAMVIWLYSAFRGVQ</span><span class="topo-outside">LTYEHTMLQLYPSPFATCDFMV</span><span class="topo-unknown">RFPEW</span><span class="topo-outside">LPLDKWV</span></span>
+<span class="topo-ruler">       130       140       150       160       170      </span>
 <span class="topo-line"><span class="topo-outside">PQVFVASGDCAERQWDFLGLEMPQW</span><span class="topo-membrane">LLGIFIAYLIVAVLVVI</span><span class="topo-unknown">SQPFKAKKRDLFGR</span></span>
+<details class="topo-details"><summary>Topology coordinates (12 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -240,6 +242,7 @@ helix" in the P2 loop.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -255,10 +258,11 @@ helix" in the P2 loop.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">AQYEDGKQYTTLEKPVAGAPQVLEFFSFFCPHAYQFEEVLHISDNVKKKLPEGVKMTKYH</span></span>
-<span class="topo-line"><span class="topo-inside">VNFMGGDLGKDLTQAWAVAMALGVEDKVTVPLFEGVQKTQTIRSASDIRDVFINAGIKGE</span></span>
-<span class="topo-line"><span class="topo-inside">EYDAAWNSFVVKSLVAQQEKAAADVQLRGVPAMFVNGKYQLNPQGMDTSNMDVFVQQYAD</span></span>
-<span class="topo-line"><span class="topo-inside">TVKYLSEK</span><span class="topo-unknown">K</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">AQYEDGKQYTTLEKPVAGAPQVLEFFSFFCPHAYQFEEVLHISDNVKKKLPEGVKMTKYHVNFMGGDLGKDLTQAWAVAMALGVEDKVTVPLFEGVQKTQTIRSASDIRDVFINAGIKGE</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180         </span>
+<span class="topo-line"><span class="topo-inside">EYDAAWNSFVVKSLVAQQEKAAADVQLRGVPAMFVNGKYQLNPQGMDTSNMDVFVQQYADTVKYLSEK</span><span class="topo-unknown">K</span></span>
+<details class="topo-details"><summary>Topology coordinates (2 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -284,6 +288,7 @@ helix" in the P2 loop.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -299,9 +304,11 @@ helix" in the P2 loop.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MLRFLNQASQGRG</span><span class="topo-outside">A</span><span class="topo-membrane">WLLMAFTALALELTALW</span><span class="topo-inside">FQHVMLLKPCVLCIYE</span><span class="topo-membrane">RVALFGVLGAALI</span></span>
-<span class="topo-line"><span class="topo-membrane">GAIAP</span><span class="topo-outside">KTPL</span><span class="topo-membrane">RYVAMVIWLYSAFRGV</span><span class="topo-inside">QLTYEHTMLQLYPSPFATCDFMVRFPEWLPLDKWV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MLRFLNQASQGRG</span><span class="topo-outside">A</span><span class="topo-membrane">WLLMAFTALALELTALW</span><span class="topo-inside">FQHVMLLKPCVLCIYE</span><span class="topo-membrane">RVALFGVLGAALIGAIAP</span><span class="topo-outside">KTPL</span><span class="topo-membrane">RYVAMVIWLYSAFRGV</span><span class="topo-inside">QLTYEHTMLQLYPSPFATCDFMVRFPEWLPLDKWV</span></span>
+<span class="topo-ruler">       130       140       150       160       170      </span>
 <span class="topo-line"><span class="topo-inside">PQVFVA</span><span class="topo-unknown">SGDSAERQWDFLGLE</span><span class="topo-inside">MPQW</span><span class="topo-membrane">LLGIFIAYLIVAVLVVI</span><span class="topo-unknown">SQPFKAKKRDLFGR</span></span>
+<details class="topo-details"><summary>Topology coordinates (12 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -397,6 +404,7 @@ helix" in the P2 loop.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -444,13 +452,15 @@ helix" in the P2 loop.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MS</span><span class="topo-inside">KGEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATNGKLTLKFICTTGKLPVPWPTL</span></span>
-<span class="topo-line"><span class="topo-inside">VTTL</span><span class="topo-unknown">G</span><span class="topo-inside">VQCFSRYPDHMKRHDFFKSAMPEGYVQERTISFKDDGTYKTRAEVKFEGDTLVNR</span></span>
-<span class="topo-line"><span class="topo-inside">IELKGIDFKEDGNILGHKLEYNNQASQGR</span><span class="topo-membrane">GAWLLMAFTALALEL</span><span class="topo-outside">TALWFQHVMLLKPCVL</span></span>
-<span class="topo-line"><span class="topo-outside">CIYE</span><span class="topo-membrane">RVALFGVLGAALIGAI</span><span class="topo-inside">APK</span><span class="topo-unknown">T</span><span class="topo-inside">PL</span><span class="topo-membrane">RYVAMVIWLYSAFRGVQ</span><span class="topo-outside">LTYEHTMLQLYPSPFAT</span></span>
-<span class="topo-line"><span class="topo-outside">SDFMVRFPEWLPLDKWVPQVFVASGDCAERQWDFLGLEMPQWL</span><span class="topo-membrane">LGIFIAYLIVAVLVVI</span><span class="topo-inside">S</span></span>
-<span class="topo-line"><span class="topo-inside">QPFKNSHNVYITADKQKNGIKANFKIRHNVEDGSVQLADHYQQNTPIGDGPVLLPDNHYL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MS</span><span class="topo-inside">KGEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATNGKLTLKFICTTGKLPVPWPTLVTTL</span><span class="topo-unknown">G</span><span class="topo-inside">VQCFSRYPDHMKRHDFFKSAMPEGYVQERTISFKDDGTYKTRAEVKFEGDTLVNR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">IELKGIDFKEDGNILGHKLEYNNQASQGR</span><span class="topo-membrane">GAWLLMAFTALALEL</span><span class="topo-outside">TALWFQHVMLLKPCVLCIYE</span><span class="topo-membrane">RVALFGVLGAALIGAI</span><span class="topo-inside">APK</span><span class="topo-unknown">T</span><span class="topo-inside">PL</span><span class="topo-membrane">RYVAMVIWLYSAFRGVQ</span><span class="topo-outside">LTYEHTMLQLYPSPFAT</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">SDFMVRFPEWLPLDKWVPQVFVASGDCAERQWDFLGLEMPQWL</span><span class="topo-membrane">LGIFIAYLIVAVLVVI</span><span class="topo-inside">SQPFKNSHNVYITADKQKNGIKANFKIRHNVEDGSVQLADHYQQNTPIGDGPVLLPDNHYL</span></span>
+<span class="topo-ruler">       370       380       390         </span>
 <span class="topo-line"><span class="topo-inside">STQSVLSKDPNEKRDHMVLLEFVTAAGITH</span><span class="topo-unknown">HHHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -539,6 +549,7 @@ helix" in the P2 loop.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

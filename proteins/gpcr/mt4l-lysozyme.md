@@ -131,13 +131,15 @@ mT4L is a minimal variant of T4 lysozyme engineered for [GPCR](/xray-mp-wiki/con
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GDPLGGH</span><span class="topo-outside">TIWQVVFIAF</span><span class="topo-membrane">LTGFLALVTIIGNILVIV</span><span class="topo-inside">AFKVNKQLKTVNNYF</span><span class="topo-membrane">LLSLACADLI</span></span>
-<span class="topo-line"><span class="topo-membrane">IGVISMN</span><span class="topo-outside">LFTTYIIMNRWALGNLACD</span><span class="topo-membrane">LWLSIDYVASNASVMNLL</span><span class="topo-inside">VISFDRYFSITRPLTY</span></span>
-<span class="topo-line"><span class="topo-inside">RAKRTTKRAGVM</span><span class="topo-membrane">IGLAWVISFVLWAPAILF</span><span class="topo-outside">WQYFVGKRTVPPGECFIQFLSEPT</span><span class="topo-membrane">ITFGTA</span></span>
-<span class="topo-line"><span class="topo-membrane">IAAFYMPVTIMTI</span><span class="topo-inside">LYWRIYKETEKMNIFEMLRIDEGGGSGGDEAEKLFNQDVDAAVRGIL</span></span>
-<span class="topo-line"><span class="topo-inside">RNAKLKPVYDSLDAVRRAALINMVFQMGETGVAGFTNSLRMLQQKRWDEAAVNLAKSRWY</span></span>
-<span class="topo-line"><span class="topo-inside">NQTPNRAKRVITTFRTGTWDAYLIKEKKAAQTL</span><span class="topo-membrane">SAILLAFIITWTPYNIMVL</span><span class="topo-outside">VNTFCDSC</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GDPLGGH</span><span class="topo-outside">TIWQVVFIAF</span><span class="topo-membrane">LTGFLALVTIIGNILVIV</span><span class="topo-inside">AFKVNKQLKTVNNYF</span><span class="topo-membrane">LLSLACADLIIGVISMN</span><span class="topo-outside">LFTTYIIMNRWALGNLACD</span><span class="topo-membrane">LWLSIDYVASNASVMNLL</span><span class="topo-inside">VISFDRYFSITRPLTY</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">RAKRTTKRAGVM</span><span class="topo-membrane">IGLAWVISFVLWAPAILF</span><span class="topo-outside">WQYFVGKRTVPPGECFIQFLSEPT</span><span class="topo-membrane">ITFGTAIAAFYMPVTIMTI</span><span class="topo-inside">LYWRIYKETEKMNIFEMLRIDEGGGSGGDEAEKLFNQDVDAAVRGIL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">RNAKLKPVYDSLDAVRRAALINMVFQMGETGVAGFTNSLRMLQQKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWDAYLIKEKKAAQTL</span><span class="topo-membrane">SAILLAFIITWTPYNIMVL</span><span class="topo-outside">VNTFCDSC</span></span>
+<span class="topo-ruler">       370       380       390       400       410        </span>
 <span class="topo-line"><span class="topo-outside">IPKTYWNL</span><span class="topo-membrane">GYWLCYINSTVNPVCYAL</span><span class="topo-inside">CNKTFRTTFKTL</span><span class="topo-unknown">LLCQCDKRKRRKHHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -268,6 +270,7 @@ mT4L is a minimal variant of T4 lysozyme engineered for [GPCR](/xray-mp-wiki/con
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -283,13 +286,15 @@ mT4L is a minimal variant of T4 lysozyme engineered for [GPCR](/xray-mp-wiki/con
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GDPLGGH</span><span class="topo-outside">TIWQ</span><span class="topo-membrane">VVFIAFLTGFLALVTIIGNILVIVAFK</span><span class="topo-inside">VNKQLKTVNNY</span><span class="topo-membrane">FLLSLACADLI</span></span>
-<span class="topo-line"><span class="topo-membrane">IGVISMNLFTTYII</span><span class="topo-outside">MNRWALGNL</span><span class="topo-membrane">ACDLWLSIDYVASNASVMNLLVISF</span><span class="topo-inside">DRYFSITRPLTY</span></span>
-<span class="topo-line"><span class="topo-inside">RAKRTTKRA</span><span class="topo-membrane">GVMIGLAWVISFVLWAPAILFW</span><span class="topo-outside">QYFVGKRTVPPGEC</span><span class="topo-membrane">FIQFLSEPTITFGTA</span></span>
-<span class="topo-line"><span class="topo-membrane">IAAFYMPVTIMTILYW</span><span class="topo-inside">RIYKETEKMNIFEMLRIDEGGGSGGDEAEKLFNQDVDAAVRGIL</span></span>
-<span class="topo-line"><span class="topo-inside">RNAKLKPVYDSLDAVRRAALINMVFQMGETGVAGFTNSLRMLQQKRWDEAAVNLAKSRWY</span></span>
-<span class="topo-line"><span class="topo-inside">NQTPNRAKRVITTFRTGTWDAYLIKEKKAAQT</span><span class="topo-membrane">LSAILLAFIITWTPYNIMVLVNTFC</span><span class="topo-outside">DSC</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GDPLGGH</span><span class="topo-outside">TIWQ</span><span class="topo-membrane">VVFIAFLTGFLALVTIIGNILVIVAFK</span><span class="topo-inside">VNKQLKTVNNY</span><span class="topo-membrane">FLLSLACADLIIGVISMNLFTTYII</span><span class="topo-outside">MNRWALGNL</span><span class="topo-membrane">ACDLWLSIDYVASNASVMNLLVISF</span><span class="topo-inside">DRYFSITRPLTY</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">RAKRTTKRA</span><span class="topo-membrane">GVMIGLAWVISFVLWAPAILFW</span><span class="topo-outside">QYFVGKRTVPPGEC</span><span class="topo-membrane">FIQFLSEPTITFGTAIAAFYMPVTIMTILYW</span><span class="topo-inside">RIYKETEKMNIFEMLRIDEGGGSGGDEAEKLFNQDVDAAVRGIL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">RNAKLKPVYDSLDAVRRAALINMVFQMGETGVAGFTNSLRMLQQKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWDAYLIKEKKAAQT</span><span class="topo-membrane">LSAILLAFIITWTPYNIMVLVNTFC</span><span class="topo-outside">DSC</span></span>
+<span class="topo-ruler">       370       380       390       400       410        </span>
 <span class="topo-line"><span class="topo-outside">IPK</span><span class="topo-membrane">TYWNLGYWLCYINSTVNPVCYAL</span><span class="topo-inside">CN</span><span class="topo-unknown">KTFRTTFKTLLLCQCDKRKRRKHHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -406,6 +411,7 @@ mT4L is a minimal variant of T4 lysozyme engineered for [GPCR](/xray-mp-wiki/con
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

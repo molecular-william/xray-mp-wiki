@@ -121,14 +121,15 @@ The M3 muscarinic [Acetylcholine](/xray-mp-wiki/reagents/ligands/acetylcholine) 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GDPLGGHT</span><span class="topo-outside">IWQ</span><span class="topo-membrane">VVFIAFLTGFLALVTIIGNILVIV</span><span class="topo-inside">AFKVNKQLKTVNNYF</span><span class="topo-membrane">LLSLACADLI</span></span>
-<span class="topo-line"><span class="topo-membrane">IGVISMNLFTTYII</span><span class="topo-outside">MNRWALGNLA</span><span class="topo-membrane">CDLWLSIDYVASNASVMNLLVISF</span><span class="topo-inside">DRYFSITRPLTY</span></span>
-<span class="topo-line"><span class="topo-inside">RAKRTTKRAG</span><span class="topo-membrane">VMIGLAWVISFVLWAPAILFW</span><span class="topo-outside">QYFVGKRTVPPGECFIQFLSEP</span><span class="topo-membrane">TITFGTA</span></span>
-<span class="topo-line"><span class="topo-membrane">IAAFYMPVTIMTIL</span><span class="topo-inside">YWRIYKETEKMNIFEMLRIDEGLRLKIYKDTEGYYTIGIGHLLTKS</span></span>
-<span class="topo-line"><span class="topo-inside">PSLNAAKSELDKAIGRNTNGVITKDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRR</span></span>
-<span class="topo-line"><span class="topo-inside">AALINMVFQMGETGVAGFTNSLRMLQQKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTG</span></span>
-<span class="topo-line"><span class="topo-inside">TWDAYLIKE</span><span class="topo-unknown">KKA</span><span class="topo-inside">AQTL</span><span class="topo-membrane">SAILLAFIITWTPYNIMVLVNTFC</span><span class="topo-outside">DSCIPK</span><span class="topo-membrane">TYWNLGYWLCYINS</span></span>
-<span class="topo-line"><span class="topo-membrane">TVNPVCY</span><span class="topo-inside">ALCN</span><span class="topo-unknown">KTFRTTFK</span><span class="topo-inside">T</span><span class="topo-unknown">LLLCQCDKRKRRKQQYQQRQSVIFHKRVPEQALHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GDPLGGHT</span><span class="topo-outside">IWQ</span><span class="topo-membrane">VVFIAFLTGFLALVTIIGNILVIV</span><span class="topo-inside">AFKVNKQLKTVNNYF</span><span class="topo-membrane">LLSLACADLIIGVISMNLFTTYII</span><span class="topo-outside">MNRWALGNLA</span><span class="topo-membrane">CDLWLSIDYVASNASVMNLLVISF</span><span class="topo-inside">DRYFSITRPLTY</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">RAKRTTKRAG</span><span class="topo-membrane">VMIGLAWVISFVLWAPAILFW</span><span class="topo-outside">QYFVGKRTVPPGECFIQFLSEP</span><span class="topo-membrane">TITFGTAIAAFYMPVTIMTIL</span><span class="topo-inside">YWRIYKETEKMNIFEMLRIDEGLRLKIYKDTEGYYTIGIGHLLTKS</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">PSLNAAKSELDKAIGRNTNGVITKDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVFQMGETGVAGFTNSLRMLQQKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTG</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470         </span>
+<span class="topo-line"><span class="topo-inside">TWDAYLIKE</span><span class="topo-unknown">KKA</span><span class="topo-inside">AQTL</span><span class="topo-membrane">SAILLAFIITWTPYNIMVLVNTFC</span><span class="topo-outside">DSCIPK</span><span class="topo-membrane">TYWNLGYWLCYINSTVNPVCY</span><span class="topo-inside">ALCN</span><span class="topo-unknown">KTFRTTFK</span><span class="topo-inside">T</span><span class="topo-unknown">LLLCQCDKRKRRKQQYQQRQSVIFHKRVPEQALHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (23 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -301,6 +302,7 @@ The M3 muscarinic [Acetylcholine](/xray-mp-wiki/reagents/ligands/acetylcholine) 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -455,14 +457,15 @@ The M3 muscarinic [Acetylcholine](/xray-mp-wiki/reagents/ligands/acetylcholine) 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GDPLGGH</span><span class="topo-inside">TIWQ</span><span class="topo-membrane">VVFIAFLTGFLALVTIIGNIL</span><span class="topo-outside">VIVAFKVNKQLKTVNNYFLLS</span><span class="topo-membrane">LACADLI</span></span>
-<span class="topo-line"><span class="topo-membrane">IGVISMNLFTTYII</span><span class="topo-inside">MNRWALGNL</span><span class="topo-membrane">ACDLWLSIDYVASNASVMNLL</span><span class="topo-outside">VISFDRYFSITRPLTY</span></span>
-<span class="topo-line"><span class="topo-outside">RAKRTTKRAGVMIG</span><span class="topo-membrane">LAWVISFVLWAPAILFWQYFV</span><span class="topo-inside">GKRTVPPGEC</span><span class="topo-membrane">FIQFLSEPTITFGTA</span></span>
-<span class="topo-line"><span class="topo-membrane">IAAFYMPVTI</span><span class="topo-outside">MTILYWRIYKETEKMNCFEMLRIDEGLRLKIYKDCEGYYTIGIGHLLTKS</span></span>
-<span class="topo-line"><span class="topo-outside">PSLNAAKSELDKAIGRNTNGVITKDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRR</span></span>
-<span class="topo-line"><span class="topo-outside">CALINMVFQMGETGVAGFTNSLRMLQQKRWDEAAVNLAKSRWYNQCPNRAKRVITTFRTG</span></span>
-<span class="topo-line"><span class="topo-outside">TWDAYLIKEKKAAQTLSAI</span><span class="topo-membrane">LLAFIITWTPYNIMVLVNTFC</span><span class="topo-inside">DSC</span><span class="topo-membrane">IPKTYWNLGYWLCYINS</span></span>
-<span class="topo-line"><span class="topo-membrane">TVNPVC</span><span class="topo-outside">YALCN</span><span class="topo-unknown">KTFRTTFKT</span><span class="topo-outside">LLL</span><span class="topo-unknown">CQCDKRKRRKHHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GDPLGGH</span><span class="topo-inside">TIWQ</span><span class="topo-membrane">VVFIAFLTGFLALVTIIGNIL</span><span class="topo-outside">VIVAFKVNKQLKTVNNYFLLS</span><span class="topo-membrane">LACADLIIGVISMNLFTTYII</span><span class="topo-inside">MNRWALGNL</span><span class="topo-membrane">ACDLWLSIDYVASNASVMNLL</span><span class="topo-outside">VISFDRYFSITRPLTY</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">RAKRTTKRAGVMIG</span><span class="topo-membrane">LAWVISFVLWAPAILFWQYFV</span><span class="topo-inside">GKRTVPPGEC</span><span class="topo-membrane">FIQFLSEPTITFGTAIAAFYMPVTI</span><span class="topo-outside">MTILYWRIYKETEKMNCFEMLRIDEGLRLKIYKDCEGYYTIGIGHLLTKS</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">PSLNAAKSELDKAIGRNTNGVITKDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRCALINMVFQMGETGVAGFTNSLRMLQQKRWDEAAVNLAKSRWYNQCPNRAKRVITTFRTG</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460</span>
+<span class="topo-line"><span class="topo-outside">TWDAYLIKEKKAAQTLSAI</span><span class="topo-membrane">LLAFIITWTPYNIMVLVNTFC</span><span class="topo-inside">DSC</span><span class="topo-membrane">IPKTYWNLGYWLCYINSTVNPVC</span><span class="topo-outside">YALCN</span><span class="topo-unknown">KTFRTTFKT</span><span class="topo-outside">LLL</span><span class="topo-unknown">CQCDKRKRRKHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -593,6 +596,7 @@ The M3 muscarinic [Acetylcholine](/xray-mp-wiki/reagents/ligands/acetylcholine) 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -608,13 +612,15 @@ The M3 muscarinic [Acetylcholine](/xray-mp-wiki/reagents/ligands/acetylcholine) 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GDPLGGH</span><span class="topo-outside">TIWQVVFIAF</span><span class="topo-membrane">LTGFLALVTIIGNILVIV</span><span class="topo-inside">AFKVNKQLKTVNNYF</span><span class="topo-membrane">LLSLACADLI</span></span>
-<span class="topo-line"><span class="topo-membrane">IGVISMN</span><span class="topo-outside">LFTTYIIMNRWALGNLACD</span><span class="topo-membrane">LWLSIDYVASNASVMNLL</span><span class="topo-inside">VISFDRYFSITRPLTY</span></span>
-<span class="topo-line"><span class="topo-inside">RAKRTTKRAGVM</span><span class="topo-membrane">IGLAWVISFVLWAPAILF</span><span class="topo-outside">WQYFVGKRTVPPGECFIQFLSEPT</span><span class="topo-membrane">ITFGTA</span></span>
-<span class="topo-line"><span class="topo-membrane">IAAFYMPVTIMTI</span><span class="topo-inside">LYWRIYKETEKMNIFEMLRIDEGGGSGGDEAEKLFNQDVDAAVRGIL</span></span>
-<span class="topo-line"><span class="topo-inside">RNAKLKPVYDSLDAVRRAALINMVFQMGETGVAGFTNSLRMLQQKRWDEAAVNLAKSRWY</span></span>
-<span class="topo-line"><span class="topo-inside">NQTPNRAKRVITTFRTGTWDAYLIKEKKAAQTL</span><span class="topo-membrane">SAILLAFIITWTPYNIMVL</span><span class="topo-outside">VNTFCDSC</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GDPLGGH</span><span class="topo-outside">TIWQVVFIAF</span><span class="topo-membrane">LTGFLALVTIIGNILVIV</span><span class="topo-inside">AFKVNKQLKTVNNYF</span><span class="topo-membrane">LLSLACADLIIGVISMN</span><span class="topo-outside">LFTTYIIMNRWALGNLACD</span><span class="topo-membrane">LWLSIDYVASNASVMNLL</span><span class="topo-inside">VISFDRYFSITRPLTY</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">RAKRTTKRAGVM</span><span class="topo-membrane">IGLAWVISFVLWAPAILF</span><span class="topo-outside">WQYFVGKRTVPPGECFIQFLSEPT</span><span class="topo-membrane">ITFGTAIAAFYMPVTIMTI</span><span class="topo-inside">LYWRIYKETEKMNIFEMLRIDEGGGSGGDEAEKLFNQDVDAAVRGIL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">RNAKLKPVYDSLDAVRRAALINMVFQMGETGVAGFTNSLRMLQQKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWDAYLIKEKKAAQTL</span><span class="topo-membrane">SAILLAFIITWTPYNIMVL</span><span class="topo-outside">VNTFCDSC</span></span>
+<span class="topo-ruler">       370       380       390       400       410        </span>
 <span class="topo-line"><span class="topo-outside">IPKTYWNL</span><span class="topo-membrane">GYWLCYINSTVNPVCYAL</span><span class="topo-inside">CNKTFRTTFKTL</span><span class="topo-unknown">LLCQCDKRKRRKHHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -745,6 +751,7 @@ The M3 muscarinic [Acetylcholine](/xray-mp-wiki/reagents/ligands/acetylcholine) 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -760,13 +767,15 @@ The M3 muscarinic [Acetylcholine](/xray-mp-wiki/reagents/ligands/acetylcholine) 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GDPLGGH</span><span class="topo-outside">TIWQ</span><span class="topo-membrane">VVFIAFLTGFLALVTIIGNILVIVAFK</span><span class="topo-inside">VNKQLKTVNNY</span><span class="topo-membrane">FLLSLACADLI</span></span>
-<span class="topo-line"><span class="topo-membrane">IGVISMNLFTTYII</span><span class="topo-outside">MNRWALGNL</span><span class="topo-membrane">ACDLWLSIDYVASNASVMNLLVISF</span><span class="topo-inside">DRYFSITRPLTY</span></span>
-<span class="topo-line"><span class="topo-inside">RAKRTTKRA</span><span class="topo-membrane">GVMIGLAWVISFVLWAPAILFW</span><span class="topo-outside">QYFVGKRTVPPGEC</span><span class="topo-membrane">FIQFLSEPTITFGTA</span></span>
-<span class="topo-line"><span class="topo-membrane">IAAFYMPVTIMTILYW</span><span class="topo-inside">RIYKETEKMNIFEMLRIDEGGGSGGDEAEKLFNQDVDAAVRGIL</span></span>
-<span class="topo-line"><span class="topo-inside">RNAKLKPVYDSLDAVRRAALINMVFQMGETGVAGFTNSLRMLQQKRWDEAAVNLAKSRWY</span></span>
-<span class="topo-line"><span class="topo-inside">NQTPNRAKRVITTFRTGTWDAYLIKEKKAAQT</span><span class="topo-membrane">LSAILLAFIITWTPYNIMVLVNTFC</span><span class="topo-outside">DSC</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GDPLGGH</span><span class="topo-outside">TIWQ</span><span class="topo-membrane">VVFIAFLTGFLALVTIIGNILVIVAFK</span><span class="topo-inside">VNKQLKTVNNY</span><span class="topo-membrane">FLLSLACADLIIGVISMNLFTTYII</span><span class="topo-outside">MNRWALGNL</span><span class="topo-membrane">ACDLWLSIDYVASNASVMNLLVISF</span><span class="topo-inside">DRYFSITRPLTY</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">RAKRTTKRA</span><span class="topo-membrane">GVMIGLAWVISFVLWAPAILFW</span><span class="topo-outside">QYFVGKRTVPPGEC</span><span class="topo-membrane">FIQFLSEPTITFGTAIAAFYMPVTIMTILYW</span><span class="topo-inside">RIYKETEKMNIFEMLRIDEGGGSGGDEAEKLFNQDVDAAVRGIL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">RNAKLKPVYDSLDAVRRAALINMVFQMGETGVAGFTNSLRMLQQKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWDAYLIKEKKAAQT</span><span class="topo-membrane">LSAILLAFIITWTPYNIMVLVNTFC</span><span class="topo-outside">DSC</span></span>
+<span class="topo-ruler">       370       380       390       400       410        </span>
 <span class="topo-line"><span class="topo-outside">IPK</span><span class="topo-membrane">TYWNLGYWLCYINSTVNPVCYAL</span><span class="topo-inside">CN</span><span class="topo-unknown">KTFRTTFKTLLLCQCDKRKRRKHHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -883,6 +892,7 @@ The M3 muscarinic [Acetylcholine](/xray-mp-wiki/reagents/ligands/acetylcholine) 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

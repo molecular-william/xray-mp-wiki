@@ -117,19 +117,21 @@ mTMEM16A is the murine ortholog of TMEM16A (Ano1), the long sought-after Ca2+-ac
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSNLKDFSQPGSGQESNF</span><span class="topo-inside">GVDFVIHYKVPAAERDEAEAGFVQLIRALTTVGLATEVRHGE</span></span>
-<span class="topo-line"><span class="topo-inside">NESLLVFVKVASPDLFAKQVYRARLGDWLHGVRVSAPHNDIAQALQDEPVVEAERLRLIY</span></span>
-<span class="topo-line"><span class="topo-inside">LMITKPHNE</span><span class="topo-unknown">GGAGVTPTNAK</span><span class="topo-inside">WKHVESIFPLHSHSFNKEWIKKWSSKYTLEQTDIDNIRDK</span></span>
-<span class="topo-line"><span class="topo-inside">FGESVAFYFAFLRSY</span><span class="topo-membrane">FRFLVIPSAFGFGAWLLLGQ</span><span class="topo-outside">F</span><span class="topo-membrane">SYLYALLCGLWSVVFFE</span><span class="topo-inside">YWKKQEV</span></span>
-<span class="topo-line"><span class="topo-inside">DLAVQWGVRGVSSIQQSRPEFEWEHEAEDPITGEPVKVYPPMKRVK</span><span class="topo-membrane">TQLLQIPFALACVV</span></span>
-<span class="topo-line"><span class="topo-membrane">ALGALIVTCNSLEVFINE</span><span class="topo-outside">VYSGPG</span><span class="topo-membrane">KQYLGFLPTIFLVIGTPTISGVLMGAAEKL</span><span class="topo-inside">NAMENY</span></span>
-<span class="topo-line"><span class="topo-inside">ATVDAHDAAL</span><span class="topo-membrane">IQKQFVLNFMTSYMALFFTAFVYIPFG</span><span class="topo-unknown">HILHPFLNFWRATAQTLT</span><span class="topo-outside">FSEKE</span></span>
-<span class="topo-line"><span class="topo-outside">LPTREFQIN</span><span class="topo-membrane">PARISNQMFYFTVTAQIVNFATEVVV</span><span class="topo-unknown">PYIKQQAF</span><span class="topo-inside">Q</span><span class="topo-unknown">KAKQLKSGSKVQEDHE</span></span>
-<span class="topo-line"><span class="topo-unknown">EE</span><span class="topo-inside">AEFLQRVREECTLEEYDVSGDY</span><span class="topo-membrane">REMVMQFGYVAMFSVAW</span><span class="topo-outside">P</span><span class="topo-membrane">LAACCFLVNNWVE</span><span class="topo-inside">LRSDA</span></span>
-<span class="topo-line"><span class="topo-inside">LKIAISSRRPIPWRTDSIGPW</span><span class="topo-membrane">LTALSFLSWLGSITSSAIVYLCSN</span><span class="topo-unknown">SKNGTQGE</span><span class="topo-outside">ASP</span><span class="topo-membrane">LKAW</span></span>
-<span class="topo-line"><span class="topo-membrane">GLLLSILFAEHFYLVVQLAVR</span><span class="topo-inside">FVLSKLDSPGLQKERKERFQTKKRLLQENLGQDAA</span><span class="topo-unknown">EEA</span><span class="topo-inside">A</span></span>
-<span class="topo-line"><span class="topo-inside">APGIEHSEKITREALEEEARQASI</span><span class="topo-unknown">RGHGTPE</span><span class="topo-inside">EMFWQRQRGMQETIEIGRRMIEQQLAAG</span><span class="topo-unknown">K</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSNLKDFSQPGSGQESNF</span><span class="topo-inside">GVDFVIHYKVPAAERDEAEAGFVQLIRALTTVGLATEVRHGENESLLVFVKVASPDLFAKQVYRARLGDWLHGVRVSAPHNDIAQALQDEPVVEAERLRLIY</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">LMITKPHNE</span><span class="topo-unknown">GGAGVTPTNAK</span><span class="topo-inside">WKHVESIFPLHSHSFNKEWIKKWSSKYTLEQTDIDNIRDKFGESVAFYFAFLRSY</span><span class="topo-membrane">FRFLVIPSAFGFGAWLLLGQ</span><span class="topo-outside">F</span><span class="topo-membrane">SYLYALLCGLWSVVFFE</span><span class="topo-inside">YWKKQEV</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">DLAVQWGVRGVSSIQQSRPEFEWEHEAEDPITGEPVKVYPPMKRVK</span><span class="topo-membrane">TQLLQIPFALACVVALGALIVTCNSLEVFINE</span><span class="topo-outside">VYSGPG</span><span class="topo-membrane">KQYLGFLPTIFLVIGTPTISGVLMGAAEKL</span><span class="topo-inside">NAMENY</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">ATVDAHDAAL</span><span class="topo-membrane">IQKQFVLNFMTSYMALFFTAFVYIPFG</span><span class="topo-unknown">HILHPFLNFWRATAQTLT</span><span class="topo-outside">FSEKELPTREFQIN</span><span class="topo-membrane">PARISNQMFYFTVTAQIVNFATEVVV</span><span class="topo-unknown">PYIKQQAF</span><span class="topo-inside">Q</span><span class="topo-unknown">KAKQLKSGSKVQEDHE</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-unknown">EE</span><span class="topo-inside">AEFLQRVREECTLEEYDVSGDY</span><span class="topo-membrane">REMVMQFGYVAMFSVAW</span><span class="topo-outside">P</span><span class="topo-membrane">LAACCFLVNNWVE</span><span class="topo-inside">LRSDALKIAISSRRPIPWRTDSIGPW</span><span class="topo-membrane">LTALSFLSWLGSITSSAIVYLCSN</span><span class="topo-unknown">SKNGTQGE</span><span class="topo-outside">ASP</span><span class="topo-membrane">LKAW</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-membrane">GLLLSILFAEHFYLVVQLAVR</span><span class="topo-inside">FVLSKLDSPGLQKERKERFQTKKRLLQENLGQDAA</span><span class="topo-unknown">EEA</span><span class="topo-inside">AAPGIEHSEKITREALEEEARQASI</span><span class="topo-unknown">RGHGTPE</span><span class="topo-inside">EMFWQRQRGMQETIEIGRRMIEQQLAAG</span><span class="topo-unknown">K</span></span>
+<span class="topo-ruler">       730     </span>
 <span class="topo-line"><span class="topo-unknown">NGKKSAPAVPSEKAS</span></span>
+<details class="topo-details"><summary>Topology coordinates (27 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -330,6 +332,7 @@ mTMEM16A is the murine ortholog of TMEM16A (Ano1), the long sought-after Ca2+-ac
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -345,19 +348,21 @@ mTMEM16A is the murine ortholog of TMEM16A (Ano1), the long sought-after Ca2+-ac
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSNLKDFSQPGSGQESNF</span><span class="topo-inside">GVDFVIHYKVPAAERDEAEAGFVQLIRALTTVGLATEVRHGE</span></span>
-<span class="topo-line"><span class="topo-inside">NESLLVFVKVASPDLFAKQVYRARLGDWLHGVRVSAPHNDIAQALQDEPVVEAERLRLIY</span></span>
-<span class="topo-line"><span class="topo-inside">LMITKPHNE</span><span class="topo-unknown">GGAGVTPTNAK</span><span class="topo-inside">WKHVESIFPLHSHSFNKEWIKKWSSKYTLEQTDIDNIRDK</span></span>
-<span class="topo-line"><span class="topo-inside">FGESVAFYFAFLRSY</span><span class="topo-membrane">FRFLVIPSAFGFGAWLLLGQ</span><span class="topo-outside">F</span><span class="topo-membrane">SYLYALLCGLWSVVFFE</span><span class="topo-inside">YWKKQEV</span></span>
-<span class="topo-line"><span class="topo-inside">DLAVQWGVRGVSSIQQSRPEFEWEHEAEDPITGEPVKVYPPMKRVK</span><span class="topo-membrane">TQLLQIPFALACVV</span></span>
-<span class="topo-line"><span class="topo-membrane">ALGALIVTCNSLEVFINE</span><span class="topo-outside">VYSGPG</span><span class="topo-membrane">KQYLGFLPTIFLVIGTPTISGVLMGAAEKL</span><span class="topo-inside">NAMENY</span></span>
-<span class="topo-line"><span class="topo-inside">ATVDAHDAAL</span><span class="topo-membrane">IQKQFVLNFMTSYMALFFTAFVYIPFG</span><span class="topo-unknown">HILHPFLNFWRATAQTLT</span><span class="topo-outside">FSEKE</span></span>
-<span class="topo-line"><span class="topo-outside">LPTREFQIN</span><span class="topo-membrane">PARISNQMFYFTVTAQIVNFATEVVV</span><span class="topo-unknown">PYIKQQAF</span><span class="topo-inside">Q</span><span class="topo-unknown">KAKQLKSGSKVQEDHE</span></span>
-<span class="topo-line"><span class="topo-unknown">EE</span><span class="topo-inside">AEFLQRVREECTLEEYDVSGDYR</span><span class="topo-membrane">EMVMQFGYVAMFSVAW</span><span class="topo-outside">P</span><span class="topo-membrane">LAACCFLVNNWVE</span><span class="topo-inside">LRSDA</span></span>
-<span class="topo-line"><span class="topo-inside">LKIAISSRRPIPWRTDSIGPW</span><span class="topo-membrane">LTALSFLSWLGSITSSAIVYLCSN</span><span class="topo-unknown">SKNGTQGE</span><span class="topo-outside">ASP</span><span class="topo-membrane">LKAW</span></span>
-<span class="topo-line"><span class="topo-membrane">GLLLSILFAEHFYLVVQLAVR</span><span class="topo-inside">FVLSKLDSPGLQKERKERFQTKKRLLQENLGQDAA</span><span class="topo-unknown">EEA</span><span class="topo-inside">A</span></span>
-<span class="topo-line"><span class="topo-inside">APGIEHSEKITREALEEEARQASI</span><span class="topo-unknown">RGHGTPE</span><span class="topo-inside">EMFWQRQRGMQETIEIGRRMIEQQLAAG</span><span class="topo-unknown">K</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSNLKDFSQPGSGQESNF</span><span class="topo-inside">GVDFVIHYKVPAAERDEAEAGFVQLIRALTTVGLATEVRHGENESLLVFVKVASPDLFAKQVYRARLGDWLHGVRVSAPHNDIAQALQDEPVVEAERLRLIY</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">LMITKPHNE</span><span class="topo-unknown">GGAGVTPTNAK</span><span class="topo-inside">WKHVESIFPLHSHSFNKEWIKKWSSKYTLEQTDIDNIRDKFGESVAFYFAFLRSY</span><span class="topo-membrane">FRFLVIPSAFGFGAWLLLGQ</span><span class="topo-outside">F</span><span class="topo-membrane">SYLYALLCGLWSVVFFE</span><span class="topo-inside">YWKKQEV</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">DLAVQWGVRGVSSIQQSRPEFEWEHEAEDPITGEPVKVYPPMKRVK</span><span class="topo-membrane">TQLLQIPFALACVVALGALIVTCNSLEVFINE</span><span class="topo-outside">VYSGPG</span><span class="topo-membrane">KQYLGFLPTIFLVIGTPTISGVLMGAAEKL</span><span class="topo-inside">NAMENY</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">ATVDAHDAAL</span><span class="topo-membrane">IQKQFVLNFMTSYMALFFTAFVYIPFG</span><span class="topo-unknown">HILHPFLNFWRATAQTLT</span><span class="topo-outside">FSEKELPTREFQIN</span><span class="topo-membrane">PARISNQMFYFTVTAQIVNFATEVVV</span><span class="topo-unknown">PYIKQQAF</span><span class="topo-inside">Q</span><span class="topo-unknown">KAKQLKSGSKVQEDHE</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-unknown">EE</span><span class="topo-inside">AEFLQRVREECTLEEYDVSGDYR</span><span class="topo-membrane">EMVMQFGYVAMFSVAW</span><span class="topo-outside">P</span><span class="topo-membrane">LAACCFLVNNWVE</span><span class="topo-inside">LRSDALKIAISSRRPIPWRTDSIGPW</span><span class="topo-membrane">LTALSFLSWLGSITSSAIVYLCSN</span><span class="topo-unknown">SKNGTQGE</span><span class="topo-outside">ASP</span><span class="topo-membrane">LKAW</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-membrane">GLLLSILFAEHFYLVVQLAVR</span><span class="topo-inside">FVLSKLDSPGLQKERKERFQTKKRLLQENLGQDAA</span><span class="topo-unknown">EEA</span><span class="topo-inside">AAPGIEHSEKITREALEEEARQASI</span><span class="topo-unknown">RGHGTPE</span><span class="topo-inside">EMFWQRQRGMQETIEIGRRMIEQQLAAG</span><span class="topo-unknown">K</span></span>
+<span class="topo-ruler">       730     </span>
 <span class="topo-line"><span class="topo-unknown">NGKKSAPAVPSEKAS</span></span>
+<details class="topo-details"><summary>Topology coordinates (27 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -558,6 +563,7 @@ mTMEM16A is the murine ortholog of TMEM16A (Ano1), the long sought-after Ca2+-ac
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

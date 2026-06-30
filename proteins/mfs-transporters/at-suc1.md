@@ -97,15 +97,17 @@ Arabidopsis thaliana SUC1 is a low-affinity sucrose-proton symporter from the SU
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGGAYETEKPTKDAAALETQSPEDF</span><span class="topo-outside">DQPSPLRKIISVA</span><span class="topo-membrane">SIAAGVQFGWALQLSLLT</span><span class="topo-inside">PYVQ</span></span>
-<span class="topo-line"><span class="topo-inside">LLGIPHK</span><span class="topo-membrane">WSSLIWLCGPVSGMIVQPIV</span><span class="topo-outside">GFHSDRCRSKFGRRRPF</span><span class="topo-membrane">IATGAALVAVAVFLIG</span></span>
-<span class="topo-line"><span class="topo-membrane">YAADFG</span><span class="topo-inside">YKMGDKLEEKVKV</span><span class="topo-membrane">RAIGIFALGFWILDVANNTLQG</span><span class="topo-outside">PCRAFLADLAAGDAKRTRV</span></span>
-<span class="topo-line"><span class="topo-outside">AN</span><span class="topo-membrane">AFFSFFMAVGNVLGYAAGSYTNL</span><span class="topo-inside">HKMFPFTMTKACDIY</span><span class="topo-membrane">CANLKTCFFLSITLLLIVTV</span></span>
-<span class="topo-line"><span class="topo-membrane">T</span><span class="topo-outside">SLWYVNDKQWSPPPRNADDDEKTSSVPLFGEIFGAFKVMKRPMWM</span><span class="topo-membrane">LLIVTALNWIAWFP</span></span>
-<span class="topo-line"><span class="topo-membrane">FLLFDTDW</span><span class="topo-inside">MGREVFGGDSDGNERSKKLYSLGVQS</span><span class="topo-membrane">GAMGLMFNSIVLGFMSLGVE</span><span class="topo-outside">WIGRKL</span></span>
-<span class="topo-line"><span class="topo-outside">GGAK</span><span class="topo-membrane">RLWGIVNFILAAGLAMTVLV</span><span class="topo-inside">TKFAEDHRKTAGDLAGPSASVKA</span><span class="topo-membrane">GALSLFAVLGIPL</span></span>
-<span class="topo-line"><span class="topo-membrane">AITFSTPF</span><span class="topo-outside">ALASIFSSCSGAGQGLSL</span><span class="topo-membrane">GVLNLAIVIPQMIVSLGGGPFD</span><span class="topo-inside">ALFGGGN</span><span class="topo-membrane">LPAFI</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGGAYETEKPTKDAAALETQSPEDF</span><span class="topo-outside">DQPSPLRKIISVA</span><span class="topo-membrane">SIAAGVQFGWALQLSLLT</span><span class="topo-inside">PYVQLLGIPHK</span><span class="topo-membrane">WSSLIWLCGPVSGMIVQPIV</span><span class="topo-outside">GFHSDRCRSKFGRRRPF</span><span class="topo-membrane">IATGAALVAVAVFLIG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">YAADFG</span><span class="topo-inside">YKMGDKLEEKVKV</span><span class="topo-membrane">RAIGIFALGFWILDVANNTLQG</span><span class="topo-outside">PCRAFLADLAAGDAKRTRVAN</span><span class="topo-membrane">AFFSFFMAVGNVLGYAAGSYTNL</span><span class="topo-inside">HKMFPFTMTKACDIY</span><span class="topo-membrane">CANLKTCFFLSITLLLIVTV</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">T</span><span class="topo-outside">SLWYVNDKQWSPPPRNADDDEKTSSVPLFGEIFGAFKVMKRPMWM</span><span class="topo-membrane">LLIVTALNWIAWFPFLLFDTDW</span><span class="topo-inside">MGREVFGGDSDGNERSKKLYSLGVQS</span><span class="topo-membrane">GAMGLMFNSIVLGFMSLGVE</span><span class="topo-outside">WIGRKL</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">GGAK</span><span class="topo-membrane">RLWGIVNFILAAGLAMTVLV</span><span class="topo-inside">TKFAEDHRKTAGDLAGPSASVKA</span><span class="topo-membrane">GALSLFAVLGIPLAITFSTPF</span><span class="topo-outside">ALASIFSSCSGAGQGLSL</span><span class="topo-membrane">GVLNLAIVIPQMIVSLGGGPFD</span><span class="topo-inside">ALFGGGN</span><span class="topo-membrane">LPAFI</span></span>
+<span class="topo-ruler">       490       500       510         </span>
 <span class="topo-line"><span class="topo-membrane">VAAIAAAISGVLALTV</span><span class="topo-outside">LPSPP</span><span class="topo-unknown">PDAPKATTMGGFHGLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (27 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -306,6 +308,7 @@ Arabidopsis thaliana SUC1 is a low-affinity sucrose-proton symporter from the SU
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

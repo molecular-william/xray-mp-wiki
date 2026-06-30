@@ -220,13 +220,15 @@ NhaA from Escherichia coli is a Na+/H+ antiporter belonging to the Major Facilit
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MKHLHRFFS</span><span class="topo-inside">SDASG</span><span class="topo-membrane">GIILIIAAILAMIM</span><span class="topo-outside">ANSGATSGWYHDFLETPVQLRVGSLEINKNML</span></span>
-<span class="topo-line"><span class="topo-outside">LW</span><span class="topo-membrane">INDALMAVFFLLVGLEV</span><span class="topo-inside">KRELMQGSLASLRQAAFPV</span><span class="topo-membrane">IAAIGGMIVPTLLYLA</span><span class="topo-outside">FNYADP</span></span>
-<span class="topo-line"><span class="topo-outside">ITREG</span><span class="topo-membrane">WAIPAATDIAFALGV</span><span class="topo-inside">LALLGSRVPLALKIFLMA</span><span class="topo-membrane">LAIIDDLGAIIIIALF</span><span class="topo-outside">YTNDLS</span></span>
-<span class="topo-line"><span class="topo-outside">MASL</span><span class="topo-membrane">GVAAVAIAVLAVLN</span><span class="topo-inside">LCGARRT</span><span class="topo-membrane">GVYILVGVVLWTAVL</span><span class="topo-outside">KSG</span><span class="topo-membrane">VHATLAGVIVGFFI</span><span class="topo-inside">PLK</span></span>
-<span class="topo-line"><span class="topo-inside">EKHGRSPAKRLEHVL</span><span class="topo-membrane">HPWVAYLILPLFAFANAG</span><span class="topo-outside">VSLGGVTLDGLTSILP</span><span class="topo-membrane">LGIIAGMLIGK</span></span>
-<span class="topo-line"><span class="topo-membrane">PLGISLF</span><span class="topo-inside">CWLALRLKLAHLPEGTTYQQIMVV</span><span class="topo-membrane">GILCGIGFTMSIFIASL</span><span class="topo-outside">AFGSVDPELINW</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MKHLHRFFS</span><span class="topo-inside">SDASG</span><span class="topo-membrane">GIILIIAAILAMIM</span><span class="topo-outside">ANSGATSGWYHDFLETPVQLRVGSLEINKNMLLW</span><span class="topo-membrane">INDALMAVFFLLVGLEV</span><span class="topo-inside">KRELMQGSLASLRQAAFPV</span><span class="topo-membrane">IAAIGGMIVPTLLYLA</span><span class="topo-outside">FNYADP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">ITREG</span><span class="topo-membrane">WAIPAATDIAFALGV</span><span class="topo-inside">LALLGSRVPLALKIFLMA</span><span class="topo-membrane">LAIIDDLGAIIIIALF</span><span class="topo-outside">YTNDLSMASL</span><span class="topo-membrane">GVAAVAIAVLAVLN</span><span class="topo-inside">LCGARRT</span><span class="topo-membrane">GVYILVGVVLWTAVL</span><span class="topo-outside">KSG</span><span class="topo-membrane">VHATLAGVIVGFFI</span><span class="topo-inside">PLK</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">EKHGRSPAKRLEHVL</span><span class="topo-membrane">HPWVAYLILPLFAFANAG</span><span class="topo-outside">VSLGGVTLDGLTSILP</span><span class="topo-membrane">LGIIAGMLIGKPLGISLF</span><span class="topo-inside">CWLALRLKLAHLPEGTTYQQIMVV</span><span class="topo-membrane">GILCGIGFTMSIFIASL</span><span class="topo-outside">AFGSVDPELINW</span></span>
+<span class="topo-ruler">       370       380       390      </span>
 <span class="topo-line"><span class="topo-outside">A</span><span class="topo-membrane">KLGILVGSISSAVIGY</span><span class="topo-inside">SWLRVRL</span><span class="topo-unknown">RPSVGSENLYFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (27 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -427,6 +429,7 @@ NhaA from Escherichia coli is a Na+/H+ antiporter belonging to the Major Facilit
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -483,13 +486,15 @@ NhaA from Escherichia coli is a Na+/H+ antiporter belonging to the Major Facilit
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MKHLHRFFS</span><span class="topo-outside">SDAS</span><span class="topo-membrane">GGIILIIAAILAMIMANS</span><span class="topo-unknown">GATSGWYHDFL</span><span class="topo-inside">ETPVQLRVGSLEINKNM</span><span class="topo-membrane">L</span></span>
-<span class="topo-line"><span class="topo-membrane">LWINDALMAVFFLLVGL</span><span class="topo-outside">EVKRELMQGSLASLRQAAFPV</span><span class="topo-membrane">IAAIGGMIVPALLYLAFN</span><span class="topo-inside">YADP</span></span>
-<span class="topo-line"><span class="topo-inside">ITR</span><span class="topo-membrane">EGWAIPAATDIAFALGV</span><span class="topo-outside">LALLGSRVPLALKIFLM</span><span class="topo-membrane">ALAIIDDLGAIIIIALFYT</span><span class="topo-inside">NDLS</span></span>
-<span class="topo-line"><span class="topo-inside">M</span><span class="topo-membrane">ASLGVAAVAIAVLAVLNL</span><span class="topo-outside">CGARRT</span><span class="topo-membrane">GVYILVGVVLWTAVLK</span><span class="topo-inside">S</span><span class="topo-membrane">GVHATLAGVIVGFFI</span><span class="topo-outside">PLK</span></span>
-<span class="topo-line"><span class="topo-outside">EKHGRS</span><span class="topo-unknown">PAKRLEHVL</span><span class="topo-membrane">HPWVAYLILPLFAFANAGVSL</span><span class="topo-inside">QGVTLDGLTSI</span><span class="topo-membrane">LPLGIIAGLLIGK</span></span>
-<span class="topo-line"><span class="topo-membrane">PLGISLF</span><span class="topo-outside">CWLALRLKLAHLPEGTTYQQIM</span><span class="topo-membrane">VVGILCGIGFTMSIFIASLA</span><span class="topo-inside">FGSVDPELI</span><span class="topo-membrane">NW</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MKHLHRFFS</span><span class="topo-outside">SDAS</span><span class="topo-membrane">GGIILIIAAILAMIMANS</span><span class="topo-unknown">GATSGWYHDFL</span><span class="topo-inside">ETPVQLRVGSLEINKNM</span><span class="topo-membrane">LLWINDALMAVFFLLVGL</span><span class="topo-outside">EVKRELMQGSLASLRQAAFPV</span><span class="topo-membrane">IAAIGGMIVPALLYLAFN</span><span class="topo-inside">YADP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">ITR</span><span class="topo-membrane">EGWAIPAATDIAFALGV</span><span class="topo-outside">LALLGSRVPLALKIFLM</span><span class="topo-membrane">ALAIIDDLGAIIIIALFYT</span><span class="topo-inside">NDLSM</span><span class="topo-membrane">ASLGVAAVAIAVLAVLNL</span><span class="topo-outside">CGARRT</span><span class="topo-membrane">GVYILVGVVLWTAVLK</span><span class="topo-inside">S</span><span class="topo-membrane">GVHATLAGVIVGFFI</span><span class="topo-outside">PLK</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">EKHGRS</span><span class="topo-unknown">PAKRLEHVL</span><span class="topo-membrane">HPWVAYLILPLFAFANAGVSL</span><span class="topo-inside">QGVTLDGLTSI</span><span class="topo-membrane">LPLGIIAGLLIGKPLGISLF</span><span class="topo-outside">CWLALRLKLAHLPEGTTYQQIM</span><span class="topo-membrane">VVGILCGIGFTMSIFIASLA</span><span class="topo-inside">FGSVDPELI</span><span class="topo-membrane">NW</span></span>
+<span class="topo-ruler">       370       380       390       400 </span>
 <span class="topo-line"><span class="topo-membrane">AKLGILVGSISSAVIGYS</span><span class="topo-outside">WLRVRLRPSVEF</span><span class="topo-unknown">RVPGSENLYFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (29 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -704,6 +709,7 @@ NhaA from Escherichia coli is a Na+/H+ antiporter belonging to the Major Facilit
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -719,13 +725,15 @@ NhaA from Escherichia coli is a Na+/H+ antiporter belonging to the Major Facilit
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MKHLHRFFS</span><span class="topo-outside">SDAS</span><span class="topo-membrane">GGIILIIAAILAMIMANS</span><span class="topo-unknown">GATSGWYHDFL</span><span class="topo-inside">ETPVQLRVGSLEINKNM</span><span class="topo-membrane">L</span></span>
-<span class="topo-line"><span class="topo-membrane">LWINDALMAVFFLLVGLEV</span><span class="topo-outside">KRELMQGSLASLRQAAFPV</span><span class="topo-membrane">IAAIGGMIVPALLYLAFN</span><span class="topo-inside">YADP</span></span>
-<span class="topo-line"><span class="topo-inside">ITR</span><span class="topo-membrane">EGWAIPAATDIAFALGV</span><span class="topo-outside">LALLGSRVPLALKIFLM</span><span class="topo-membrane">ALAIIDDLGAIIIIALFYT</span><span class="topo-inside">NDLS</span></span>
-<span class="topo-line"><span class="topo-inside">M</span><span class="topo-membrane">ASLGVAAVAIAVLAVLNL</span><span class="topo-outside">CGARRT</span><span class="topo-membrane">GVYILVGVVLWTAVLKS</span><span class="topo-inside">G</span><span class="topo-membrane">VHATLAGVIVGFFI</span><span class="topo-outside">PLK</span></span>
-<span class="topo-line"><span class="topo-outside">EKHGRS</span><span class="topo-unknown">PAKRLEHVL</span><span class="topo-membrane">HPWVAYLILPLFAFANAGVSL</span><span class="topo-inside">QGVTLDGLTSI</span><span class="topo-membrane">LPLGIIAGLLIGK</span></span>
-<span class="topo-line"><span class="topo-membrane">PLGISLF</span><span class="topo-outside">CWLALRLKLAHLPEGTTYQQIM</span><span class="topo-membrane">VVGILCGIGFTMSIFIASLA</span><span class="topo-inside">FGSVDPELI</span><span class="topo-membrane">NW</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MKHLHRFFS</span><span class="topo-outside">SDAS</span><span class="topo-membrane">GGIILIIAAILAMIMANS</span><span class="topo-unknown">GATSGWYHDFL</span><span class="topo-inside">ETPVQLRVGSLEINKNM</span><span class="topo-membrane">LLWINDALMAVFFLLVGLEV</span><span class="topo-outside">KRELMQGSLASLRQAAFPV</span><span class="topo-membrane">IAAIGGMIVPALLYLAFN</span><span class="topo-inside">YADP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">ITR</span><span class="topo-membrane">EGWAIPAATDIAFALGV</span><span class="topo-outside">LALLGSRVPLALKIFLM</span><span class="topo-membrane">ALAIIDDLGAIIIIALFYT</span><span class="topo-inside">NDLSM</span><span class="topo-membrane">ASLGVAAVAIAVLAVLNL</span><span class="topo-outside">CGARRT</span><span class="topo-membrane">GVYILVGVVLWTAVLKS</span><span class="topo-inside">G</span><span class="topo-membrane">VHATLAGVIVGFFI</span><span class="topo-outside">PLK</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">EKHGRS</span><span class="topo-unknown">PAKRLEHVL</span><span class="topo-membrane">HPWVAYLILPLFAFANAGVSL</span><span class="topo-inside">QGVTLDGLTSI</span><span class="topo-membrane">LPLGIIAGLLIGKPLGISLF</span><span class="topo-outside">CWLALRLKLAHLPEGTTYQQIM</span><span class="topo-membrane">VVGILCGIGFTMSIFIASLA</span><span class="topo-inside">FGSVDPELI</span><span class="topo-membrane">NW</span></span>
+<span class="topo-ruler">       370       380       390       400 </span>
 <span class="topo-line"><span class="topo-membrane">AKLGILVGSISSAVIGYS</span><span class="topo-outside">WLRVR</span><span class="topo-unknown">LRPSVEFRVPGSENLYFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (29 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -940,6 +948,7 @@ NhaA from Escherichia coli is a Na+/H+ antiporter belonging to the Major Facilit
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -955,13 +964,15 @@ NhaA from Escherichia coli is a Na+/H+ antiporter belonging to the Major Facilit
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MKHLHRFFS</span><span class="topo-outside">SDASG</span><span class="topo-membrane">GIILIIAAILAMIMANS</span><span class="topo-inside">GAT</span><span class="topo-unknown">SGWYHDFL</span><span class="topo-inside">ETPVQLRVGSLEINKNM</span><span class="topo-membrane">L</span></span>
-<span class="topo-line"><span class="topo-membrane">LWINDALMAVFFLLVGL</span><span class="topo-outside">EVKRELMQGSLASLRQAAFPV</span><span class="topo-membrane">IAAIGGMIVPTLLYLAFN</span><span class="topo-inside">YADP</span></span>
-<span class="topo-line"><span class="topo-inside">ITR</span><span class="topo-membrane">EGWAIPAATDIAFALGV</span><span class="topo-outside">LALLGSRVPLALKIFLM</span><span class="topo-membrane">ALAIIDDLGAIIIIALFYT</span><span class="topo-inside">NDLS</span></span>
-<span class="topo-line"><span class="topo-inside">M</span><span class="topo-membrane">ASLGVAAVAIAVLAVLNL</span><span class="topo-outside">CGARRT</span><span class="topo-membrane">GVYILVGVVLWTAVLK</span><span class="topo-inside">S</span><span class="topo-membrane">GVHATLAGVIVGFFI</span><span class="topo-outside">PLK</span></span>
-<span class="topo-line"><span class="topo-outside">EKHGRS</span><span class="topo-unknown">PAKRLEHVL</span><span class="topo-membrane">HPWVAYLILPLFAFANAGVSL</span><span class="topo-inside">GGVTLDGLTSIL</span><span class="topo-membrane">PLGIIAGMLIGK</span></span>
-<span class="topo-line"><span class="topo-membrane">PLGISLF</span><span class="topo-outside">CWLALRLKLAHLPEGTTYQQIM</span><span class="topo-membrane">VVGILCGIGFTMSIFIASLA</span><span class="topo-inside">FGSVDPELI</span><span class="topo-membrane">NW</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MKHLHRFFS</span><span class="topo-outside">SDASG</span><span class="topo-membrane">GIILIIAAILAMIMANS</span><span class="topo-inside">GAT</span><span class="topo-unknown">SGWYHDFL</span><span class="topo-inside">ETPVQLRVGSLEINKNM</span><span class="topo-membrane">LLWINDALMAVFFLLVGL</span><span class="topo-outside">EVKRELMQGSLASLRQAAFPV</span><span class="topo-membrane">IAAIGGMIVPTLLYLAFN</span><span class="topo-inside">YADP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">ITR</span><span class="topo-membrane">EGWAIPAATDIAFALGV</span><span class="topo-outside">LALLGSRVPLALKIFLM</span><span class="topo-membrane">ALAIIDDLGAIIIIALFYT</span><span class="topo-inside">NDLSM</span><span class="topo-membrane">ASLGVAAVAIAVLAVLNL</span><span class="topo-outside">CGARRT</span><span class="topo-membrane">GVYILVGVVLWTAVLK</span><span class="topo-inside">S</span><span class="topo-membrane">GVHATLAGVIVGFFI</span><span class="topo-outside">PLK</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">EKHGRS</span><span class="topo-unknown">PAKRLEHVL</span><span class="topo-membrane">HPWVAYLILPLFAFANAGVSL</span><span class="topo-inside">GGVTLDGLTSIL</span><span class="topo-membrane">PLGIIAGMLIGKPLGISLF</span><span class="topo-outside">CWLALRLKLAHLPEGTTYQQIM</span><span class="topo-membrane">VVGILCGIGFTMSIFIASLA</span><span class="topo-inside">FGSVDPELI</span><span class="topo-membrane">NW</span></span>
+<span class="topo-ruler">       370       380       390       400 </span>
 <span class="topo-line"><span class="topo-membrane">AKLGILVGSISSAVIGYS</span><span class="topo-outside">WLRVRLRPSVEF</span><span class="topo-unknown">RVPGSENLYFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (30 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1183,6 +1194,7 @@ NhaA from Escherichia coli is a Na+/H+ antiporter belonging to the Major Facilit
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1198,13 +1210,15 @@ NhaA from Escherichia coli is a Na+/H+ antiporter belonging to the Major Facilit
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MKHLHRFFS</span><span class="topo-outside">SDAS</span><span class="topo-membrane">GGIILIIAAILAMIMANS</span><span class="topo-inside">GAT</span><span class="topo-unknown">SGWYHDFL</span><span class="topo-inside">ETPVQLRVGSLEINKNM</span><span class="topo-membrane">L</span></span>
-<span class="topo-line"><span class="topo-membrane">LWINDALMAVFFLLVGL</span><span class="topo-outside">EVKRELMQGSLASLRQAAFPV</span><span class="topo-membrane">IAAIGGMIVPTLLYLAFN</span><span class="topo-inside">YADP</span></span>
-<span class="topo-line"><span class="topo-inside">ITR</span><span class="topo-membrane">EGWAIPAATDIAFALGV</span><span class="topo-outside">LALLGSRVPLALKIFLM</span><span class="topo-membrane">ALAIIDDLGAIIIIALFYT</span><span class="topo-inside">NDLS</span></span>
-<span class="topo-line"><span class="topo-inside">M</span><span class="topo-membrane">ASLGVAAVAIAVLAVLNL</span><span class="topo-outside">CGARRT</span><span class="topo-membrane">GVYILVGVVLWTAVLKS</span><span class="topo-inside">G</span><span class="topo-membrane">VHATLAGVIVGFFI</span><span class="topo-outside">PLK</span></span>
-<span class="topo-line"><span class="topo-outside">EKHGRS</span><span class="topo-unknown">PAKRLEHVL</span><span class="topo-membrane">HPWVAYLILPLFAFANAGVSL</span><span class="topo-inside">GGVTLDGLTSIL</span><span class="topo-membrane">PLGIIAGMLIGK</span></span>
-<span class="topo-line"><span class="topo-membrane">PLGISLF</span><span class="topo-outside">CWLALRLKLAHLPEGTTYQQIM</span><span class="topo-membrane">VVGILCGIGFTMSIFIASLA</span><span class="topo-inside">FGSVDPELI</span><span class="topo-membrane">NW</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MKHLHRFFS</span><span class="topo-outside">SDAS</span><span class="topo-membrane">GGIILIIAAILAMIMANS</span><span class="topo-inside">GAT</span><span class="topo-unknown">SGWYHDFL</span><span class="topo-inside">ETPVQLRVGSLEINKNM</span><span class="topo-membrane">LLWINDALMAVFFLLVGL</span><span class="topo-outside">EVKRELMQGSLASLRQAAFPV</span><span class="topo-membrane">IAAIGGMIVPTLLYLAFN</span><span class="topo-inside">YADP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">ITR</span><span class="topo-membrane">EGWAIPAATDIAFALGV</span><span class="topo-outside">LALLGSRVPLALKIFLM</span><span class="topo-membrane">ALAIIDDLGAIIIIALFYT</span><span class="topo-inside">NDLSM</span><span class="topo-membrane">ASLGVAAVAIAVLAVLNL</span><span class="topo-outside">CGARRT</span><span class="topo-membrane">GVYILVGVVLWTAVLKS</span><span class="topo-inside">G</span><span class="topo-membrane">VHATLAGVIVGFFI</span><span class="topo-outside">PLK</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">EKHGRS</span><span class="topo-unknown">PAKRLEHVL</span><span class="topo-membrane">HPWVAYLILPLFAFANAGVSL</span><span class="topo-inside">GGVTLDGLTSIL</span><span class="topo-membrane">PLGIIAGMLIGKPLGISLF</span><span class="topo-outside">CWLALRLKLAHLPEGTTYQQIM</span><span class="topo-membrane">VVGILCGIGFTMSIFIASLA</span><span class="topo-inside">FGSVDPELI</span><span class="topo-membrane">NW</span></span>
+<span class="topo-ruler">       370       380       390       400 </span>
 <span class="topo-line"><span class="topo-membrane">AKLGILVGSISSAVIGYS</span><span class="topo-outside">WLRVR</span><span class="topo-unknown">LRPSVEFRVPGSENLYFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (30 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1426,6 +1440,7 @@ NhaA from Escherichia coli is a Na+/H+ antiporter belonging to the Major Facilit
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

@@ -112,7 +112,6 @@ The human endothelin ETB receptor is a class A G-protein-coupled receptor (GPCR)
 
 **Crystallization:**
 
-<<<<<<< HEAD
 <table class="wiki-kv-table">
   <tbody>
     <tr>
@@ -139,16 +138,6 @@ The human endothelin ETB receptor is a class A G-protein-coupled receptor (GPCR)
 </table>
 <div class="sequences" markdown="1">
 **Sequences (PDBTM):**
-=======
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Membrane preparation | Sonication and ultracentrifugation | -- | 20 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris-hcl) pH 7.5, 20% glycerol + -- | Harvested Sf9 cells disrupted by sonication; crude membrane fraction collected by ultracentrifugation at 180,000g for 1 h |
-| Solubilization | Detergent solubilization | -- | 50 mM Tris-HCl pH 7.5, 200 mM NaCl, 0.5% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.1% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 2 mg/ml [Iodoacetamide](/xray-mp-wiki/reagents/additives/iodoacetamide) + 0.5% [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm), 0.1% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | Solubilized for 2 h at 4 C; antagonists added to 10 uM final concentration |
-| Affinity purification | Immobilized metal [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography) | [TALON Cobalt Affinity Resin](/xray-mp-wiki/reagents/additives/talon) resin (Clontech) | 20 mM Tris-HCl pH 7.5, 500 mM NaCl, 0.1% [LMNG](/xray-mp-wiki/reagents/detergents/lmng/), 0.01% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 20 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole) (wash); 200 mM imidazole (elution) + [LMNG (Lauryl Maltose Neopentyl Glycol)](/xray-mp-wiki/reagents/detergents/lmng), [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | Incubated with resin for 30 min; eluted with 200 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole) |
-| Tag cleavage | Protease digestion and dialysis | -- | 20 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris-hcl) pH 7.5, 500 mM NaCl + -- | Eluate treated with [TEV Protease](/xray-mp-wiki/reagents/additives/tev-protease) and dialyzed to remove imidazole |
-| Tag removal | Immobilized metal [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography) | [Ni-NTA Agarose Resin](/xray-mp-wiki/reagents/additives/nickel-nta) resin | 20 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris-hcl) pH 7.5, 500 mM NaCl + -- | Cleaved GFP-His10 tag and [TEV Protease](/xray-mp-wiki/reagents/additives/tev-protease) removed with [Ni-NTA](/xray-mp-wiki/reagents/additives/nickel-nta/) resin |
-| [Size-Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography) | [Size-Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography) | [Superdex 200 Increase SEC Resin](/xray-mp-wiki/reagents/additives/superdex-200) 10/300 Increase column | 10 mM [HEPES Buffer](/xray-mp-wiki/reagents/buffers/hepes)-NaOH pH 7.5, 200 mM NaCl, 0.01% [LMNG](/xray-mp-wiki/reagents/detergents/lmng/), 0.001% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) + [LMNG (Lauryl Maltose Neopentyl Glycol)](/xray-mp-wiki/reagents/detergents/lmng), [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | Peak fractions concentrated to 40 mg/ml; antagonists added to 100 uM for crystallization |
->>>>>>> d0e2c437136bdf2885afc6a99e0a9d4117821696
 
 <div class="sequence-entry" markdown="1">
 **PDB <a class="pdb-link" href="https://www.rcsb.org/structure/5x93">5X93</a> — Chain A (7 TMs, alpha)**
@@ -161,14 +150,15 @@ The human endothelin ETB receptor is a class A G-protein-coupled receptor (GPCR)
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GGGLAPAEVPKGDRTAGSPPRT</span><span class="topo-inside">ISPPPCQGPIEIKETF</span><span class="topo-membrane">KYINTVVSCLVFVLGIIGNSTL</span></span>
-<span class="topo-line"><span class="topo-membrane">L</span><span class="topo-outside">YIIYKNKCMRNGPNIL</span><span class="topo-membrane">IASLALGDLLHIVIAIPINVYKLL</span><span class="topo-inside">AEDW</span><span class="topo-membrane">PFGAEMCKLVPFIQK</span></span>
-<span class="topo-line"><span class="topo-membrane">ASVGITVLSLCA</span><span class="topo-outside">LSIDRYRAVASWSRIKGIGVPKWTAVE</span><span class="topo-membrane">IVLIWVVSVVLAVPEAIGFD</span><span class="topo-inside">I</span></span>
-<span class="topo-line"><span class="topo-inside">ITMDYKGSYLRICLLHPVQKTAFM</span><span class="topo-membrane">QFYATAKDWWLFSFYFCLPLAITAF</span><span class="topo-outside">FYTLMTCEMLR</span></span>
-<span class="topo-line"><span class="topo-outside">KNIFEMLRIDEGGGSGGDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMV</span></span>
-<span class="topo-line"><span class="topo-outside">FQMGETGVAGFTNSLRMLQQKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWDAYLN</span></span>
-<span class="topo-line"><span class="topo-outside">DHLKQRREVAKTV</span><span class="topo-membrane">FCLVLVFALCWLPLHLARILKLTL</span><span class="topo-inside">YNQNDPNRCELLSF</span><span class="topo-membrane">LLVLDYIGI</span></span>
-<span class="topo-line"><span class="topo-membrane">NMASLNSCANPIALYL</span><span class="topo-outside">VS</span><span class="topo-unknown">KRFKNAFKSAL</span><span class="topo-outside">CCW</span><span class="topo-unknown">AQSPSSENLYFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GGGLAPAEVPKGDRTAGSPPRT</span><span class="topo-inside">ISPPPCQGPIEIKETF</span><span class="topo-membrane">KYINTVVSCLVFVLGIIGNSTLL</span><span class="topo-outside">YIIYKNKCMRNGPNIL</span><span class="topo-membrane">IASLALGDLLHIVIAIPINVYKLL</span><span class="topo-inside">AEDW</span><span class="topo-membrane">PFGAEMCKLVPFIQK</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">ASVGITVLSLCA</span><span class="topo-outside">LSIDRYRAVASWSRIKGIGVPKWTAVE</span><span class="topo-membrane">IVLIWVVSVVLAVPEAIGFD</span><span class="topo-inside">IITMDYKGSYLRICLLHPVQKTAFM</span><span class="topo-membrane">QFYATAKDWWLFSFYFCLPLAITAF</span><span class="topo-outside">FYTLMTCEMLR</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">KNIFEMLRIDEGGGSGGDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVFQMGETGVAGFTNSLRMLQQKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWDAYLN</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460    </span>
+<span class="topo-line"><span class="topo-outside">DHLKQRREVAKTV</span><span class="topo-membrane">FCLVLVFALCWLPLHLARILKLTL</span><span class="topo-inside">YNQNDPNRCELLSF</span><span class="topo-membrane">LLVLDYIGINMASLNSCANPIALYL</span><span class="topo-outside">VS</span><span class="topo-unknown">KRFKNAFKSAL</span><span class="topo-outside">CCW</span><span class="topo-unknown">AQSPSSENLYFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -299,6 +289,7 @@ The human endothelin ETB receptor is a class A G-protein-coupled receptor (GPCR)
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -306,7 +297,6 @@ The human endothelin ETB receptor is a class A G-protein-coupled receptor (GPCR)
 <div class="sequence-entry" markdown="1">
 **PDB <a class="pdb-link" href="https://www.rcsb.org/structure/5xpr">5XPR</a> — Chain A (7 TMs, alpha)**
 
-<<<<<<< HEAD
 <div class="sequence-display">
 <div class="topo-legend">
 <span class="topo-membrane-legend">&#9608; TM Helix</span>
@@ -315,14 +305,15 @@ The human endothelin ETB receptor is a class A G-protein-coupled receptor (GPCR)
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GGGLAPAEVPKGDRTAGSPPRTISPPP</span><span class="topo-outside">CQGPIEIKETFKY</span><span class="topo-membrane">INTVVSCLVFVLGIIGNSTL</span></span>
-<span class="topo-line"><span class="topo-membrane">LYIIYK</span><span class="topo-inside">NKCMRNGPN</span><span class="topo-membrane">ILIASLALGDLLHIVIDIPINVY</span><span class="topo-outside">KLLAEDWPFGAE</span><span class="topo-membrane">MCKLVPFIQK</span></span>
-<span class="topo-line"><span class="topo-membrane">ASVGITVLSLCALSID</span><span class="topo-inside">RYRAVASWSRIKGIGVPKWT</span><span class="topo-membrane">AVEIVLIWVVSVVLAVPEAIGF</span><span class="topo-outside">DI</span></span>
-<span class="topo-line"><span class="topo-outside">ITMDYKGSYLRICLLHPVQKT</span><span class="topo-membrane">AFMQFYATAKDWWLFSFYFCLPLAITAFFYT</span><span class="topo-inside">LMTCEMLR</span></span>
-<span class="topo-line"><span class="topo-inside">KNIFEMLRIDE</span><span class="topo-unknown">GGGSGGDEAEKL</span><span class="topo-inside">FNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMV</span></span>
-<span class="topo-line"><span class="topo-inside">FQMGETGVAGFTNSLRMLQQKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWDAYLN</span></span>
-<span class="topo-line"><span class="topo-inside">DHLKQRREVAK</span><span class="topo-membrane">TVFCLVLVFALCWLPLHLARILKLTL</span><span class="topo-outside">YNQNDPNRCELLSFLLV</span><span class="topo-membrane">LDYIGI</span></span>
-<span class="topo-line"><span class="topo-membrane">NMASLNSCANPIALYLVS</span><span class="topo-inside">KRFKNAFKSALC</span><span class="topo-unknown">CWAQSPSSENLYFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GGGLAPAEVPKGDRTAGSPPRTISPPP</span><span class="topo-outside">CQGPIEIKETFKY</span><span class="topo-membrane">INTVVSCLVFVLGIIGNSTLLYIIYK</span><span class="topo-inside">NKCMRNGPN</span><span class="topo-membrane">ILIASLALGDLLHIVIDIPINVY</span><span class="topo-outside">KLLAEDWPFGAE</span><span class="topo-membrane">MCKLVPFIQK</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">ASVGITVLSLCALSID</span><span class="topo-inside">RYRAVASWSRIKGIGVPKWT</span><span class="topo-membrane">AVEIVLIWVVSVVLAVPEAIGF</span><span class="topo-outside">DIITMDYKGSYLRICLLHPVQKT</span><span class="topo-membrane">AFMQFYATAKDWWLFSFYFCLPLAITAFFYT</span><span class="topo-inside">LMTCEMLR</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">KNIFEMLRIDE</span><span class="topo-unknown">GGGSGGDEAEKL</span><span class="topo-inside">FNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVFQMGETGVAGFTNSLRMLQQKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWDAYLN</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460    </span>
+<span class="topo-line"><span class="topo-inside">DHLKQRREVAK</span><span class="topo-membrane">TVFCLVLVFALCWLPLHLARILKLTL</span><span class="topo-outside">YNQNDPNRCELLSFLLV</span><span class="topo-membrane">LDYIGINMASLNSCANPIALYLVS</span><span class="topo-inside">KRFKNAFKSALC</span><span class="topo-unknown">CWAQSPSSENLYFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -481,18 +472,10 @@ The human endothelin ETB receptor is a class A G-protein-coupled receptor (GPCR)
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
-=======
-| Parameter | Value |
-|---|---|
-| Method | [Lipidic Cubic Phase Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase) ([LCP](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/)) crystallization |
-| Protein sample | ETB receptor at 40 mg/ml reconstituted into [LCP](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) of monoolein with [Cholesterol](/xray-mp-wiki/reagents/additives/cholesterol) at 8:9:1 ratio |
-| Temperature | Not specified |
-| Growth time | Not specified |
-| Notes | Crystals of ETB-Y5-mT4L-K-8794 in space group C2221 (2.2 A); ETB-Y4-mT4L-bosentan in space group P3221 (3.6 A). Molecular replacement used for structure determination. |
->>>>>>> d0e2c437136bdf2885afc6a99e0a9d4117821696
 
 </div>
 

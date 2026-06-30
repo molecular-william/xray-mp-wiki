@@ -132,10 +132,11 @@ PspR is a light-driven outward proton-pumping microbial rhodopsin from Pseudomon
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MIQT</span><span class="topo-membrane">PLLIGFIVMALASLAIYIKGAH</span><span class="topo-inside">YGPL</span><span class="topo-membrane">LGHTLIHAAVPFIAATAYLCMYL</span><span class="topo-outside">GVGNLIK</span></span>
-<span class="topo-line"><span class="topo-outside">VDGSVT</span><span class="topo-membrane">YLARYVDWAFTTPLLLAGVVSS</span><span class="topo-inside">AYYGTRDLYGK</span><span class="topo-membrane">SGYITAIVTLDVIMIVTGLIA</span></span>
-<span class="topo-line"><span class="topo-membrane">SL</span><span class="topo-outside">APYGV</span><span class="topo-membrane">IKWVFFAWSCAAFAGVLYLLWKPVA</span><span class="topo-inside">SIASQQPGVSPA</span><span class="topo-membrane">YRRNVGFLTVLWLIYP</span></span>
-<span class="topo-line"><span class="topo-membrane">VVFAVG</span><span class="topo-outside">PEGFWAVSDAT</span><span class="topo-membrane">TVWVFLVLDVLAKVVYAFTSERNL</span><span class="topo-inside">RAVPV</span><span class="topo-unknown">GRGYLEHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MIQT</span><span class="topo-membrane">PLLIGFIVMALASLAIYIKGAH</span><span class="topo-inside">YGPL</span><span class="topo-membrane">LGHTLIHAAVPFIAATAYLCMYL</span><span class="topo-outside">GVGNLIKVDGSVT</span><span class="topo-membrane">YLARYVDWAFTTPLLLAGVVSS</span><span class="topo-inside">AYYGTRDLYGK</span><span class="topo-membrane">SGYITAIVTLDVIMIVTGLIA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230        </span>
+<span class="topo-line"><span class="topo-membrane">SL</span><span class="topo-outside">APYGV</span><span class="topo-membrane">IKWVFFAWSCAAFAGVLYLLWKPVA</span><span class="topo-inside">SIASQQPGVSPA</span><span class="topo-membrane">YRRNVGFLTVLWLIYPVVFAVG</span><span class="topo-outside">PEGFWAVSDAT</span><span class="topo-membrane">TVWVFLVLDVLAKVVYAFTSERNL</span><span class="topo-inside">RAVPV</span><span class="topo-unknown">GRGYLEHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -259,6 +260,7 @@ PspR is a light-driven outward proton-pumping microbial rhodopsin from Pseudomon
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

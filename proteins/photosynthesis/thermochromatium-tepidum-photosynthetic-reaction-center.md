@@ -56,13 +56,15 @@ The photosynthetic reaction center (RC) from the thermophilic purple sulfur bact
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">CEGPPPGTEQIGYRGVGMENYYVKRQRALSIQANQPVESLPAADSTGPKASEVYQSVQVL</span></span>
-<span class="topo-line"><span class="topo-inside">KDLSVGEFTRTMVAVTTWVSPKEGCNYCHVPGNWASDDIYTKVVSRRMFELVRAANSDWK</span></span>
-<span class="topo-line"><span class="topo-inside">AHVAETGVTCYTCHRGNPVPKYAWVTDPGPKYPSGLKPTGQNYGSKTVAYASLPFDPLTP</span></span>
-<span class="topo-line"><span class="topo-inside">FLDQANEIRITGNAALAGSNPASLKQAEWTFGLMMNISDSLGVGCTSCHNTRAFNDWTQS</span></span>
-<span class="topo-line"><span class="topo-inside">TPKRTTAWYAIRHVRDINQNYIWPLNDVLPASRKGPYGDPLRVSCMTCHQAVNKPLYGAQ</span></span>
-<span class="topo-line"><span class="topo-inside">MAKDYPGLYK</span><span class="topo-unknown">TAVTQEALPGSAPASEAAPAAATEAAPEAPAQEVPAAEAVPAAAEPGAAE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">CEGPPPGTEQIGYRGVGMENYYVKRQRALSIQANQPVESLPAADSTGPKASEVYQSVQVLKDLSVGEFTRTMVAVTTWVSPKEGCNYCHVPGNWASDDIYTKVVSRRMFELVRAANSDWK</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">AHVAETGVTCYTCHRGNPVPKYAWVTDPGPKYPSGLKPTGQNYGSKTVAYASLPFDPLTPFLDQANEIRITGNAALAGSNPASLKQAEWTFGLMMNISDSLGVGCTSCHNTRAFNDWTQS</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">TPKRTTAWYAIRHVRDINQNYIWPLNDVLPASRKGPYGDPLRVSCMTCHQAVNKPLYGAQMAKDYPGLYK</span><span class="topo-unknown">TAVTQEALPGSAPASEAAPAAATEAAPEAPAQEVPAAEAVPAAAEPGAAE</span></span>
+<span class="topo-ruler">       370       380  </span>
 <span class="topo-line"><span class="topo-unknown">AAGSVEPAPVEEVAPAPAAQRL</span></span>
+<details class="topo-details"><summary>Topology coordinates (2 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -88,6 +90,7 @@ The photosynthetic reaction center (RC) from the thermophilic purple sulfur bact
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -103,11 +106,13 @@ The photosynthetic reaction center (RC) from the thermophilic purple sulfur bact
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">AMLSFEKKYRVRGGTLIGGDLFDFWVGPFYVGF</span><span class="topo-membrane">FGVVGFCFTLLGVLLIV</span><span class="topo-inside">WGATIGPTGP</span></span>
-<span class="topo-line"><span class="topo-inside">TSDLQTYNLWRISIAPPDLSYGLRMAPLTEGGLWQI</span><span class="topo-membrane">ITICAAGAFISWALR</span><span class="topo-outside">EVEICRKLG</span></span>
-<span class="topo-line"><span class="topo-outside">IGFHV</span><span class="topo-membrane">PFAFSFAIGAYLVLVFV</span><span class="topo-inside">RPLLMGAWGHGFPYGIL</span><span class="topo-unknown">SHLDWVSNVGYQF</span><span class="topo-inside">LHFHYNP</span><span class="topo-membrane">A</span></span>
-<span class="topo-line"><span class="topo-membrane">HMLAISFFFTNCLALSM</span><span class="topo-outside">HGSLILSVTNPQRGEPVKTSEHENTFFRDIVGYSIGALAIHRL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">AMLSFEKKYRVRGGTLIGGDLFDFWVGPFYVGF</span><span class="topo-membrane">FGVVGFCFTLLGVLLIV</span><span class="topo-inside">WGATIGPTGPTSDLQTYNLWRISIAPPDLSYGLRMAPLTEGGLWQI</span><span class="topo-membrane">ITICAAGAFISWALR</span><span class="topo-outside">EVEICRKLG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">IGFHV</span><span class="topo-membrane">PFAFSFAIGAYLVLVFV</span><span class="topo-inside">RPLLMGAWGHGFPYGIL</span><span class="topo-unknown">SHLDWVSNVGYQF</span><span class="topo-inside">LHFHYNP</span><span class="topo-membrane">AHMLAISFFFTNCLALSM</span><span class="topo-outside">HGSLILSVTNPQRGEPVKTSEHENTFFRDIVGYSIGALAIHRL</span></span>
+<span class="topo-ruler">       250       260       270       280</span>
 <span class="topo-line"><span class="topo-membrane">GLFLALSAAFWSAVCIL</span><span class="topo-inside">ISGPFWTRGW</span><span class="topo-unknown">PEWWNWWL</span><span class="topo-inside">ELPLW</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -224,6 +229,7 @@ The photosynthetic reaction center (RC) from the thermophilic purple sulfur bact
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -239,12 +245,13 @@ The photosynthetic reaction center (RC) from the thermophilic purple sulfur bact
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">PEYQNIFTAVQVRAPAYPGVPLPKGNLPRIGRPIFSYWLGKIGDAQIGPIYLGLT</span><span class="topo-membrane">GTLSI</span></span>
-<span class="topo-line"><span class="topo-membrane">FFGLVAISIIGF</span><span class="topo-inside">NMLASVHWD</span><span class="topo-unknown">VFQFLKH</span><span class="topo-inside">FFWLGLEPPPPQYGLRIPPLSEGGWWL</span><span class="topo-membrane">IAGLF</span></span>
-<span class="topo-line"><span class="topo-membrane">LTLSILLWWV</span><span class="topo-outside">RTYKRAEALGMSQHLS</span><span class="topo-membrane">WAFAAAIFFYLVLGFIR</span><span class="topo-inside">PVMMGSWAKAVPFGIF</span><span class="topo-unknown">P</span></span>
-<span class="topo-line"><span class="topo-unknown">HLDWTAAFSIR</span><span class="topo-inside">YGNLYYNP</span><span class="topo-membrane">FHMLSIAFLYGSALLFAM</span><span class="topo-outside">HGATILSVSRFGGDREIDQITHR</span></span>
-<span class="topo-line"><span class="topo-outside">GTAAEGAALFWRWTMGFNATMESIHRW</span><span class="topo-membrane">AWWCAVLTVITAGIGIL</span><span class="topo-inside">LSGTVVDN</span><span class="topo-unknown">WYLWAVK</span><span class="topo-inside">H</span></span>
-<span class="topo-line"><span class="topo-inside">GMAPAYPEVVTAVNPYET</span><span class="topo-unknown">AAEVMQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">PEYQNIFTAVQVRAPAYPGVPLPKGNLPRIGRPIFSYWLGKIGDAQIGPIYLGLT</span><span class="topo-membrane">GTLSIFFGLVAISIIGF</span><span class="topo-inside">NMLASVHWD</span><span class="topo-unknown">VFQFLKH</span><span class="topo-inside">FFWLGLEPPPPQYGLRIPPLSEGGWWL</span><span class="topo-membrane">IAGLF</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">LTLSILLWWV</span><span class="topo-outside">RTYKRAEALGMSQHLS</span><span class="topo-membrane">WAFAAAIFFYLVLGFIR</span><span class="topo-inside">PVMMGSWAKAVPFGIF</span><span class="topo-unknown">PHLDWTAAFSIR</span><span class="topo-inside">YGNLYYNP</span><span class="topo-membrane">FHMLSIAFLYGSALLFAM</span><span class="topo-outside">HGATILSVSRFGGDREIDQITHR</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320    </span>
+<span class="topo-line"><span class="topo-outside">GTAAEGAALFWRWTMGFNATMESIHRW</span><span class="topo-membrane">AWWCAVLTVITAGIGIL</span><span class="topo-inside">LSGTVVDN</span><span class="topo-unknown">WYLWAVK</span><span class="topo-inside">HGMAPAYPEVVTAVNPYET</span><span class="topo-unknown">AAEVMQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -382,6 +389,7 @@ The photosynthetic reaction center (RC) from the thermophilic purple sulfur bact
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -397,11 +405,13 @@ The photosynthetic reaction center (RC) from the thermophilic purple sulfur bact
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MPAGIT</span><span class="topo-inside">HYIDAAQ</span><span class="topo-membrane">ITIWAFWLFFFGLII</span><span class="topo-outside">YLRREDKREGYPLDS</span><span class="topo-unknown">NRTERSGGRYKVVGF</span><span class="topo-outside">PD</span></span>
-<span class="topo-line"><span class="topo-outside">LPDPKTFVLPHNGGTVVAPRVEAPVAVNATPFSPAPGSPLVPNGDPMLSGFGPAASPDRP</span></span>
-<span class="topo-line"><span class="topo-outside">KHCDLTFEGLPKIVPMRVAKEFSIAEGDPDPRGMTVVGLDGEVAGTVSDVWVDRSEPQIR</span></span>
-<span class="topo-line"><span class="topo-outside">YLEVEVAANKKKVLLPIGFSRFDKKARKVKVDAIKAAHFANVPTLSNPDQVTLYEEDKVC</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MPAGIT</span><span class="topo-inside">HYIDAAQ</span><span class="topo-membrane">ITIWAFWLFFFGLII</span><span class="topo-outside">YLRREDKREGYPLDS</span><span class="topo-unknown">NRTERSGGRYKVVGF</span><span class="topo-outside">PDLPDPKTFVLPHNGGTVVAPRVEAPVAVNATPFSPAPGSPLVPNGDPMLSGFGPAASPDRP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">KHCDLTFEGLPKIVPMRVAKEFSIAEGDPDPRGMTVVGLDGEVAGTVSDVWVDRSEPQIRYLEVEVAANKKKVLLPIGFSRFDKKARKVKVDAIKAAHFANVPTLSNPDQVTLYEEDKVC</span></span>
+<span class="topo-ruler">       250         </span>
 <span class="topo-line"><span class="topo-outside">AYYAGGKLYATAERAGPLL</span></span>
+<details class="topo-details"><summary>Topology coordinates (6 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -455,6 +465,7 @@ The photosynthetic reaction center (RC) from the thermophilic purple sulfur bact
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

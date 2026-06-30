@@ -140,11 +140,13 @@ iC++ is a designed anion-conducting channelrhodopsin (dACR) created by structure
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">LFQTSYTLENQGSVICIPNNGQCFCLAWLKSNGTNAEKLA</span><span class="topo-membrane">ANILQWISFALSALCLMFYG</span></span>
-<span class="topo-line"><span class="topo-inside">Y</span><span class="topo-unknown">QTWKS</span><span class="topo-inside">TCGWE</span><span class="topo-membrane">NIYVATIQMIKFIIEYF</span><span class="topo-outside">HSFDEPAVIYSSNGNKT</span><span class="topo-membrane">RWLRYASWLLTCPVI</span></span>
-<span class="topo-line"><span class="topo-membrane">L</span><span class="topo-inside">IHLSNLTGLANDYNKRTMG</span><span class="topo-membrane">LLVSDIGTIVWGTTAALS</span><span class="topo-outside">KGY</span><span class="topo-membrane">VRVIFFLMGLCYGIYTFF</span><span class="topo-inside">N</span></span>
-<span class="topo-line"><span class="topo-inside">AAKVYIEAYHTVPKGRCRQVVTGMAW</span><span class="topo-membrane">LFFVSWGMFPILFILG</span><span class="topo-outside">PEGFGVLSRYG</span><span class="topo-membrane">SNVGHTI</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">LFQTSYTLENQGSVICIPNNGQCFCLAWLKSNGTNAEKLA</span><span class="topo-membrane">ANILQWISFALSALCLMFYG</span><span class="topo-inside">Y</span><span class="topo-unknown">QTWKS</span><span class="topo-inside">TCGWE</span><span class="topo-membrane">NIYVATIQMIKFIIEYF</span><span class="topo-outside">HSFDEPAVIYSSNGNKT</span><span class="topo-membrane">RWLRYASWLLTCPVI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">L</span><span class="topo-inside">IHLSNLTGLANDYNKRTMG</span><span class="topo-membrane">LLVSDIGTIVWGTTAALS</span><span class="topo-outside">KGY</span><span class="topo-membrane">VRVIFFLMGLCYGIYTFF</span><span class="topo-inside">NAAKVYIEAYHTVPKGRCRQVVTGMAW</span><span class="topo-membrane">LFFVSWGMFPILFILG</span><span class="topo-outside">PEGFGVLSRYG</span><span class="topo-membrane">SNVGHTI</span></span>
+<span class="topo-ruler">       250       260       270       280       290  </span>
 <span class="topo-line"><span class="topo-membrane">IDLMSKQCWGL</span><span class="topo-inside">LGHYLRVLIHSHILIHGDIRKTTKL</span><span class="topo-unknown">NIGGTE</span><span class="topo-inside">IEVETLVEDE</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -275,6 +277,7 @@ iC++ is a designed anion-conducting channelrhodopsin (dACR) created by structure
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -290,11 +293,13 @@ iC++ is a designed anion-conducting channelrhodopsin (dACR) created by structure
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">LFQTSYTLENQGSVICIPNNGQCFCLAWLKSNGTNAEKLA</span><span class="topo-membrane">ANILQWISFALSALCLMFYG</span></span>
-<span class="topo-line"><span class="topo-inside">Y</span><span class="topo-unknown">QTWKS</span><span class="topo-inside">TCGWE</span><span class="topo-membrane">NIYVATIQMIKFIIEYF</span><span class="topo-outside">HSFDEPAVIYSSNGNKT</span><span class="topo-membrane">RWLRYASWLLTCPVI</span></span>
-<span class="topo-line"><span class="topo-membrane">L</span><span class="topo-inside">IHLSNLTGLANDYNKRTMG</span><span class="topo-membrane">LLVSDIGTIVWGTTAALS</span><span class="topo-outside">KGY</span><span class="topo-membrane">VRVIFFLMGLCYGIYTFF</span><span class="topo-inside">N</span></span>
-<span class="topo-line"><span class="topo-inside">AAKVYIEAYHTVPKGRCRQVVTGMAW</span><span class="topo-membrane">LFFVSWGMFPILFILG</span><span class="topo-outside">PEGFGVLSRYG</span><span class="topo-membrane">SNVGHTI</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">LFQTSYTLENQGSVICIPNNGQCFCLAWLKSNGTNAEKLA</span><span class="topo-membrane">ANILQWISFALSALCLMFYG</span><span class="topo-inside">Y</span><span class="topo-unknown">QTWKS</span><span class="topo-inside">TCGWE</span><span class="topo-membrane">NIYVATIQMIKFIIEYF</span><span class="topo-outside">HSFDEPAVIYSSNGNKT</span><span class="topo-membrane">RWLRYASWLLTCPVI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">L</span><span class="topo-inside">IHLSNLTGLANDYNKRTMG</span><span class="topo-membrane">LLVSDIGTIVWGTTAALS</span><span class="topo-outside">KGY</span><span class="topo-membrane">VRVIFFLMGLCYGIYTFF</span><span class="topo-inside">NAAKVYIEAYHTVPKGRCRQVVTGMAW</span><span class="topo-membrane">LFFVSWGMFPILFILG</span><span class="topo-outside">PEGFGVLSRYG</span><span class="topo-membrane">SNVGHTI</span></span>
+<span class="topo-ruler">       250       260       270       280       290  </span>
 <span class="topo-line"><span class="topo-membrane">IDLMSKQCWGL</span><span class="topo-inside">LGHYLRVLIHSHILIHGDIRKTTKL</span><span class="topo-unknown">NIGGTE</span><span class="topo-inside">IEVETLVEDE</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -425,6 +430,7 @@ iC++ is a designed anion-conducting channelrhodopsin (dACR) created by structure
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -440,12 +446,13 @@ iC++ is a designed anion-conducting channelrhodopsin (dACR) created by structure
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MDYGGALSA</span><span class="topo-outside">VGLFQTSYTLENQGSVICIPNNGQCFCLAWLKSNGTNAEKLA</span><span class="topo-membrane">ANILQWISF</span></span>
-<span class="topo-line"><span class="topo-membrane">ALSALCLMFYG</span><span class="topo-unknown">YQTWKS</span><span class="topo-inside">TCGWE</span><span class="topo-membrane">NIYVATIQMIKFIIEYF</span><span class="topo-outside">HSFDEPAVIYSSNGNKT</span><span class="topo-membrane">RWLR</span></span>
-<span class="topo-line"><span class="topo-membrane">YASWLLTCPVILI</span><span class="topo-inside">HLSNLTGLANDYNKRTMG</span><span class="topo-membrane">LLVSDIGTIVWGTTAALS</span><span class="topo-outside">KGY</span><span class="topo-membrane">VRVIFFLM</span></span>
-<span class="topo-line"><span class="topo-membrane">GLCYGIYTFF</span><span class="topo-inside">NAAKVYIEAYHTVPKGRCRQVVTGM</span><span class="topo-membrane">AWLFFVSWGMFPILFILG</span><span class="topo-outside">PEGFGVL</span></span>
-<span class="topo-line"><span class="topo-outside">SRYG</span><span class="topo-membrane">SNVGHTIIDLMSKQCWGL</span><span class="topo-inside">LGHYLRVLIHSHILIHGDIRKTTKL</span><span class="topo-unknown">NIGGTE</span><span class="topo-inside">IEVETLV</span></span>
-<span class="topo-line"><span class="topo-inside">EDE</span><span class="topo-unknown">AEAGAV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MDYGGALSA</span><span class="topo-outside">VGLFQTSYTLENQGSVICIPNNGQCFCLAWLKSNGTNAEKLA</span><span class="topo-membrane">ANILQWISFALSALCLMFYG</span><span class="topo-unknown">YQTWKS</span><span class="topo-inside">TCGWE</span><span class="topo-membrane">NIYVATIQMIKFIIEYF</span><span class="topo-outside">HSFDEPAVIYSSNGNKT</span><span class="topo-membrane">RWLR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">YASWLLTCPVILI</span><span class="topo-inside">HLSNLTGLANDYNKRTMG</span><span class="topo-membrane">LLVSDIGTIVWGTTAALS</span><span class="topo-outside">KGY</span><span class="topo-membrane">VRVIFFLMGLCYGIYTFF</span><span class="topo-inside">NAAKVYIEAYHTVPKGRCRQVVTGM</span><span class="topo-membrane">AWLFFVSWGMFPILFILG</span><span class="topo-outside">PEGFGVL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300         </span>
+<span class="topo-line"><span class="topo-outside">SRYG</span><span class="topo-membrane">SNVGHTIIDLMSKQCWGL</span><span class="topo-inside">LGHYLRVLIHSHILIHGDIRKTTKL</span><span class="topo-unknown">NIGGTE</span><span class="topo-inside">IEVETLVEDE</span><span class="topo-unknown">AEAGAV</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -569,6 +576,7 @@ iC++ is a designed anion-conducting channelrhodopsin (dACR) created by structure
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -584,12 +592,13 @@ iC++ is a designed anion-conducting channelrhodopsin (dACR) created by structure
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MDYGGALSA</span><span class="topo-outside">VGLFQTSYTLENQGSVICIPNNGQCFCLAWLKSNGTNAEKLA</span><span class="topo-membrane">ANILQWISF</span></span>
-<span class="topo-line"><span class="topo-membrane">ALSALCLMFYG</span><span class="topo-unknown">YQTWKS</span><span class="topo-inside">TCGWE</span><span class="topo-membrane">NIYVATIQMIKFIIEYF</span><span class="topo-outside">HSFDEPAVIYSSNGNKT</span><span class="topo-membrane">RWLR</span></span>
-<span class="topo-line"><span class="topo-membrane">YASWLLTCPVILI</span><span class="topo-inside">HLSNLTGLANDYNKRTMG</span><span class="topo-membrane">LLVSDIGTIVWGTTAALS</span><span class="topo-outside">KGY</span><span class="topo-membrane">VRVIFFLM</span></span>
-<span class="topo-line"><span class="topo-membrane">GLCYGIYTFF</span><span class="topo-inside">NAAKVYIEAYHTVPKGRCRQVVTGM</span><span class="topo-membrane">AWLFFVSWGMFPILFILG</span><span class="topo-outside">PEGFGVL</span></span>
-<span class="topo-line"><span class="topo-outside">SRYG</span><span class="topo-membrane">SNVGHTIIDLMSKQCWGL</span><span class="topo-inside">LGHYLRVLIHSHILIHGDIRKTTKL</span><span class="topo-unknown">NIGGTE</span><span class="topo-inside">IEVETLV</span></span>
-<span class="topo-line"><span class="topo-inside">EDE</span><span class="topo-unknown">AEAGAV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MDYGGALSA</span><span class="topo-outside">VGLFQTSYTLENQGSVICIPNNGQCFCLAWLKSNGTNAEKLA</span><span class="topo-membrane">ANILQWISFALSALCLMFYG</span><span class="topo-unknown">YQTWKS</span><span class="topo-inside">TCGWE</span><span class="topo-membrane">NIYVATIQMIKFIIEYF</span><span class="topo-outside">HSFDEPAVIYSSNGNKT</span><span class="topo-membrane">RWLR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">YASWLLTCPVILI</span><span class="topo-inside">HLSNLTGLANDYNKRTMG</span><span class="topo-membrane">LLVSDIGTIVWGTTAALS</span><span class="topo-outside">KGY</span><span class="topo-membrane">VRVIFFLMGLCYGIYTFF</span><span class="topo-inside">NAAKVYIEAYHTVPKGRCRQVVTGM</span><span class="topo-membrane">AWLFFVSWGMFPILFILG</span><span class="topo-outside">PEGFGVL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300         </span>
+<span class="topo-line"><span class="topo-outside">SRYG</span><span class="topo-membrane">SNVGHTIIDLMSKQCWGL</span><span class="topo-inside">LGHYLRVLIHSHILIHGDIRKTTKL</span><span class="topo-unknown">NIGGTE</span><span class="topo-inside">IEVETLVEDE</span><span class="topo-unknown">AEAGAV</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -713,6 +722,7 @@ iC++ is a designed anion-conducting channelrhodopsin (dACR) created by structure
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

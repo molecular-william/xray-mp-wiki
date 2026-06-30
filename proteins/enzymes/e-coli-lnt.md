@@ -142,15 +142,17 @@ Apolipoprotein N-acyl transferase (Lnt) from Escherichia coli is a 512-residue i
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAFASLIE</span><span class="topo-inside">RQR</span><span class="topo-membrane">IRLLLALLFGACGT</span><span class="topo-outside">LAFSPYDVWP</span><span class="topo-membrane">AAIISLMGLQALT</span><span class="topo-inside">FNRRPL</span><span class="topo-membrane">QSAAIG</span></span>
-<span class="topo-line"><span class="topo-membrane">FGWGFGLFGS</span><span class="topo-outside">GINWVYVSIATFGGMPG</span><span class="topo-unknown">PVNIFLVV</span><span class="topo-membrane">LLAAYLSLYTGLFAGVLS</span><span class="topo-inside">RLWPKTT</span></span>
-<span class="topo-line"><span class="topo-inside">W</span><span class="topo-membrane">LRVAIAAPALWQVTEFLR</span><span class="topo-outside">GWVLTGFPWLQFGYSQIDGPLK</span><span class="topo-unknown">GLAPIM</span><span class="topo-outside">GVE</span><span class="topo-membrane">AINFLLMMVS</span></span>
-<span class="topo-line"><span class="topo-membrane">GLLALAL</span><span class="topo-inside">VKRNW</span><span class="topo-membrane">RPLVVAVVLFALPF</span><span class="topo-outside">PLRYIQWFTPQPEKTIQVSMVQGDIPQSLKWDEG</span></span>
-<span class="topo-line"><span class="topo-outside">QLLNTLKIYYNATAPLMGKSSLIIWPESAITDLEINQQPFLKVLDGELRDKGSSLVTGIV</span></span>
-<span class="topo-line"><span class="topo-outside">DARL</span><span class="topo-unknown">NKQNR</span><span class="topo-outside">YDTYNTIITLGKGAPYSYESADRYNKNHLVPFGEFVPLESILRPLAPF</span><span class="topo-unknown">FDL</span></span>
-<span class="topo-line"><span class="topo-outside">PMSSFSRGPYIQPPLSVNGIELTAAICYEIILGEQVRDNFRPDTDYLLTISNDAWFGKSI</span></span>
-<span class="topo-line"><span class="topo-outside">GPWQHFQMARMRALELARPLLRSTNNGITAVIGPQGEIQAMIPQFTREVLTTNVTPTTGL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAFASLIE</span><span class="topo-inside">RQR</span><span class="topo-membrane">IRLLLALLFGACGT</span><span class="topo-outside">LAFSPYDVWP</span><span class="topo-membrane">AAIISLMGLQALT</span><span class="topo-inside">FNRRPL</span><span class="topo-membrane">QSAAIGFGWGFGLFGS</span><span class="topo-outside">GINWVYVSIATFGGMPG</span><span class="topo-unknown">PVNIFLVV</span><span class="topo-membrane">LLAAYLSLYTGLFAGVLS</span><span class="topo-inside">RLWPKTT</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">W</span><span class="topo-membrane">LRVAIAAPALWQVTEFLR</span><span class="topo-outside">GWVLTGFPWLQFGYSQIDGPLK</span><span class="topo-unknown">GLAPIM</span><span class="topo-outside">GVE</span><span class="topo-membrane">AINFLLMMVSGLLALAL</span><span class="topo-inside">VKRNW</span><span class="topo-membrane">RPLVVAVVLFALPF</span><span class="topo-outside">PLRYIQWFTPQPEKTIQVSMVQGDIPQSLKWDEG</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">QLLNTLKIYYNATAPLMGKSSLIIWPESAITDLEINQQPFLKVLDGELRDKGSSLVTGIVDARL</span><span class="topo-unknown">NKQNR</span><span class="topo-outside">YDTYNTIITLGKGAPYSYESADRYNKNHLVPFGEFVPLESILRPLAPF</span><span class="topo-unknown">FDL</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">PMSSFSRGPYIQPPLSVNGIELTAAICYEIILGEQVRDNFRPDTDYLLTISNDAWFGKSIGPWQHFQMARMRALELARPLLRSTNNGITAVIGPQGEIQAMIPQFTREVLTTNVTPTTGL</span></span>
+<span class="topo-ruler">       490       500       510      </span>
 <span class="topo-line"><span class="topo-outside">TPYARTGNW</span><span class="topo-membrane">PLWVLTALFGFAAV</span><span class="topo-inside">L</span><span class="topo-unknown">MSLRGSSGSSGG</span></span>
+<details class="topo-details"><summary>Topology coordinates (22 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -316,6 +318,7 @@ Apolipoprotein N-acyl transferase (Lnt) from Escherichia coli is a 512-residue i
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -460,15 +463,17 @@ Apolipoprotein N-acyl transferase (Lnt) from Escherichia coli is a 512-residue i
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGSSHHHHHHSSGLVPRGSHMAFAS</span><span class="topo-inside">LIERQR</span><span class="topo-membrane">IRLLLALLFGACGTLAF</span><span class="topo-outside">SPY</span><span class="topo-membrane">DVWPAAIIS</span></span>
-<span class="topo-line"><span class="topo-membrane">LMGLQALTF</span><span class="topo-inside">NRRP</span><span class="topo-membrane">LQSAAIGFCWGFGLFGSGIN</span><span class="topo-outside">WVYVSIATFGGMPGP</span><span class="topo-membrane">VNIFLVVLLAAY</span></span>
-<span class="topo-line"><span class="topo-membrane">LSLYTGLFAGVLS</span><span class="topo-inside">RLWPKTTW</span><span class="topo-membrane">LRVAIAAPALWQVTEFLRGWVLTGF</span><span class="topo-outside">PWLQFGYSQIDGPL</span></span>
-<span class="topo-line"><span class="topo-unknown">KGLAPI</span><span class="topo-membrane">MGVEAINFLLMMVSGLLALALV</span><span class="topo-inside">KRNW</span><span class="topo-membrane">RPLVVAVVLFALPFPL</span><span class="topo-outside">RYIQWFTPQPEK</span></span>
-<span class="topo-line"><span class="topo-outside">TIQVSMVQGDIPQSLKWDEGQLLNTLKIYYNATAPLMGKSSLIIWPESAITDLEINQQPF</span></span>
-<span class="topo-line"><span class="topo-outside">LKALDGELRDKGSSLVTGIVDARLNKQNRYDTYNTIITLGKGAPYSYESADRYNKNHLVP</span></span>
-<span class="topo-line"><span class="topo-outside">FGEFVPLESILRPLAPFFDLPMSSFSRGPYIQPPLSANGIELTAAICYEIILGEQVRDNF</span></span>
-<span class="topo-line"><span class="topo-outside">RPDTDYLLTISNDAWFGKSI</span><span class="topo-unknown">GPWQHFQMARMRALEL</span><span class="topo-outside">ARPLLRSTNNGITAVIGPQGEIQA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGSSHHHHHHSSGLVPRGSHMAFAS</span><span class="topo-inside">LIERQR</span><span class="topo-membrane">IRLLLALLFGACGTLAF</span><span class="topo-outside">SPY</span><span class="topo-membrane">DVWPAAIISLMGLQALTF</span><span class="topo-inside">NRRP</span><span class="topo-membrane">LQSAAIGFCWGFGLFGSGIN</span><span class="topo-outside">WVYVSIATFGGMPGP</span><span class="topo-membrane">VNIFLVVLLAAY</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">LSLYTGLFAGVLS</span><span class="topo-inside">RLWPKTTW</span><span class="topo-membrane">LRVAIAAPALWQVTEFLRGWVLTGF</span><span class="topo-outside">PWLQFGYSQIDGPL</span><span class="topo-unknown">KGLAPI</span><span class="topo-membrane">MGVEAINFLLMMVSGLLALALV</span><span class="topo-inside">KRNW</span><span class="topo-membrane">RPLVVAVVLFALPFPL</span><span class="topo-outside">RYIQWFTPQPEK</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">TIQVSMVQGDIPQSLKWDEGQLLNTLKIYYNATAPLMGKSSLIIWPESAITDLEINQQPFLKALDGELRDKGSSLVTGIVDARLNKQNRYDTYNTIITLGKGAPYSYESADRYNKNHLVP</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">FGEFVPLESILRPLAPFFDLPMSSFSRGPYIQPPLSANGIELTAAICYEIILGEQVRDNFRPDTDYLLTISNDAWFGKSI</span><span class="topo-unknown">GPWQHFQMARMRALEL</span><span class="topo-outside">ARPLLRSTNNGITAVIGPQGEIQA</span></span>
+<span class="topo-ruler">       490       500       510       520       530  </span>
 <span class="topo-line"><span class="topo-outside">MIPQFTREVLTTNVTPTTGLTPYART</span><span class="topo-membrane">GNWPLWVLTALFGFAAVL</span><span class="topo-inside">MSLR</span><span class="topo-unknown">QRRK</span></span>
+<details class="topo-details"><summary>Topology coordinates (20 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -620,6 +625,7 @@ Apolipoprotein N-acyl transferase (Lnt) from Escherichia coli is a 512-residue i
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -635,15 +641,17 @@ Apolipoprotein N-acyl transferase (Lnt) from Escherichia coli is a 512-residue i
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGSSHHHHHHSSGLVPRGSHMA</span><span class="topo-inside">FASLIERQ</span><span class="topo-membrane">RIRLLLALLFGACGTLA</span><span class="topo-outside">FSPYDVW</span><span class="topo-membrane">PAAIIS</span></span>
-<span class="topo-line"><span class="topo-membrane">LMGLQALTF</span><span class="topo-inside">NRRP</span><span class="topo-membrane">LQSAAIGFCWGFGLFGS</span><span class="topo-outside">GINWVYVSIATFGGMP</span><span class="topo-unknown">GPVNIFLVV</span><span class="topo-membrane">LLAAY</span></span>
-<span class="topo-line"><span class="topo-membrane">LSLYTGLFAGVLS</span><span class="topo-inside">RLWPKTTW</span><span class="topo-membrane">LRVAIAAPALWQVTEFLRGWV</span><span class="topo-outside">LTGFPWLQFGYSQIDGPL</span></span>
-<span class="topo-line"><span class="topo-outside">K</span><span class="topo-unknown">GLAPIM</span><span class="topo-outside">GVE</span><span class="topo-membrane">AINFLLMMVSGLLALALV</span><span class="topo-inside">KRNW</span><span class="topo-membrane">RPLVVAVVLFALPFP</span><span class="topo-outside">LRYIQWFTPQPEK</span></span>
-<span class="topo-line"><span class="topo-outside">TIQVSMVQGDIPQSLKWDEGQLLNTLKIYYNATAPLMGKSSLIIWPESAITDLEINQQPF</span></span>
-<span class="topo-line"><span class="topo-outside">LKALDGELRDKGSSLVTGIVDARLNKQNRYDTYNTIITLGKGAPYSYESADRYNKNHLVP</span></span>
-<span class="topo-line"><span class="topo-outside">FGEFVPLESILRPLAPFFDLPMSSFSRGPYIQPPLSANGIELTAAIAYEIILGEQVRDNF</span></span>
-<span class="topo-line"><span class="topo-outside">RPDTDYLLTISNDAWFGKSIGPWQHFQMARMRALELARPLLRSTNNGITAVIGPQGEIQA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGSSHHHHHHSSGLVPRGSHMA</span><span class="topo-inside">FASLIERQ</span><span class="topo-membrane">RIRLLLALLFGACGTLA</span><span class="topo-outside">FSPYDVW</span><span class="topo-membrane">PAAIISLMGLQALTF</span><span class="topo-inside">NRRP</span><span class="topo-membrane">LQSAAIGFCWGFGLFGS</span><span class="topo-outside">GINWVYVSIATFGGMP</span><span class="topo-unknown">GPVNIFLVV</span><span class="topo-membrane">LLAAY</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">LSLYTGLFAGVLS</span><span class="topo-inside">RLWPKTTW</span><span class="topo-membrane">LRVAIAAPALWQVTEFLRGWV</span><span class="topo-outside">LTGFPWLQFGYSQIDGPLK</span><span class="topo-unknown">GLAPIM</span><span class="topo-outside">GVE</span><span class="topo-membrane">AINFLLMMVSGLLALALV</span><span class="topo-inside">KRNW</span><span class="topo-membrane">RPLVVAVVLFALPFP</span><span class="topo-outside">LRYIQWFTPQPEK</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">TIQVSMVQGDIPQSLKWDEGQLLNTLKIYYNATAPLMGKSSLIIWPESAITDLEINQQPFLKALDGELRDKGSSLVTGIVDARLNKQNRYDTYNTIITLGKGAPYSYESADRYNKNHLVP</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">FGEFVPLESILRPLAPFFDLPMSSFSRGPYIQPPLSANGIELTAAIAYEIILGEQVRDNFRPDTDYLLTISNDAWFGKSIGPWQHFQMARMRALELARPLLRSTNNGITAVIGPQGEIQA</span></span>
+<span class="topo-ruler">       490       500       510       520       530  </span>
 <span class="topo-line"><span class="topo-outside">MIPQFTREVLTTNVTPTTGLTPYARTGN</span><span class="topo-membrane">WPLWVLTALFGFAAV</span><span class="topo-inside">LMSLR</span><span class="topo-unknown">QRRK</span></span>
+<details class="topo-details"><summary>Topology coordinates (20 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -795,6 +803,7 @@ Apolipoprotein N-acyl transferase (Lnt) from Escherichia coli is a 512-residue i
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -810,15 +819,17 @@ Apolipoprotein N-acyl transferase (Lnt) from Escherichia coli is a 512-residue i
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGSSHHHHHHSSGLVPRGSHMR</span><span class="topo-inside">WISRPG</span><span class="topo-membrane">WPGHLLALAAGALT</span><span class="topo-outside">PLALAPFDYW</span><span class="topo-membrane">PLAILSIA</span></span>
-<span class="topo-line"><span class="topo-membrane">LLYLGLR</span><span class="topo-inside">GLPG</span><span class="topo-membrane">KSALWRGWWYGFGAFGA</span><span class="topo-outside">GTSWIYVSIHDYGAAS</span><span class="topo-unknown">VPLASLLML</span><span class="topo-membrane">GFTAGVA</span></span>
-<span class="topo-line"><span class="topo-membrane">FFFALPAWLWARCL</span><span class="topo-inside">RRDNAP</span><span class="topo-membrane">LGDALAFAALWLALELFR</span><span class="topo-outside">SWFLTGFPWLYAGYSQLQGPL</span><span class="topo-unknown">A</span></span>
-<span class="topo-line"><span class="topo-unknown">GLVPVG</span><span class="topo-outside">GVW</span><span class="topo-membrane">LSSFVIALSAALLVNLP</span><span class="topo-inside">RLFPHGASL</span><span class="topo-membrane">LLGLVLLLGPWAAG</span><span class="topo-outside">LYLKGHAWTHS</span></span>
-<span class="topo-line"><span class="topo-outside">AGEPLRVVAIQGNIAQE</span><span class="topo-unknown">LKWD</span><span class="topo-outside">PNQVRAQLDLYRDLSLPQQDVDLIVWPETAVPILQDMAS</span></span>
-<span class="topo-line"><span class="topo-outside">GYLGAMGQVADEKNAALITGVPVRERLADGKSRYFNGITVVGEGAGTYLKQKLVPFGEYV</span></span>
-<span class="topo-line"><span class="topo-outside">PLQDLLRGLIA</span><span class="topo-unknown">FFDLPM</span><span class="topo-outside">SDFARGPADQPLLKAKGYQIAPYICYEVVYPEFAAALAAQSQV</span></span>
-<span class="topo-line"><span class="topo-outside">LLTVSNDTWFGTSIGPLQHLQMAQMRALESGRWMIRATNNGVTGLIDPYGRIVRQIPQFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGSSHHHHHHSSGLVPRGSHMR</span><span class="topo-inside">WISRPG</span><span class="topo-membrane">WPGHLLALAAGALT</span><span class="topo-outside">PLALAPFDYW</span><span class="topo-membrane">PLAILSIALLYLGLR</span><span class="topo-inside">GLPG</span><span class="topo-membrane">KSALWRGWWYGFGAFGA</span><span class="topo-outside">GTSWIYVSIHDYGAAS</span><span class="topo-unknown">VPLASLLML</span><span class="topo-membrane">GFTAGVA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">FFFALPAWLWARCL</span><span class="topo-inside">RRDNAP</span><span class="topo-membrane">LGDALAFAALWLALELFR</span><span class="topo-outside">SWFLTGFPWLYAGYSQLQGPL</span><span class="topo-unknown">AGLVPVG</span><span class="topo-outside">GVW</span><span class="topo-membrane">LSSFVIALSAALLVNLP</span><span class="topo-inside">RLFPHGASL</span><span class="topo-membrane">LLGLVLLLGPWAAG</span><span class="topo-outside">LYLKGHAWTHS</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">AGEPLRVVAIQGNIAQE</span><span class="topo-unknown">LKWD</span><span class="topo-outside">PNQVRAQLDLYRDLSLPQQDVDLIVWPETAVPILQDMASGYLGAMGQVADEKNAALITGVPVRERLADGKSRYFNGITVVGEGAGTYLKQKLVPFGEYV</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">PLQDLLRGLIA</span><span class="topo-unknown">FFDLPM</span><span class="topo-outside">SDFARGPADQPLLKAKGYQIAPYICYEVVYPEFAAALAAQSQVLLTVSNDTWFGTSIGPLQHLQMAQMRALESGRWMIRATNNGVTGLIDPYGRIVRQIPQFQ</span></span>
+<span class="topo-ruler">       490       500       510       520       530 </span>
 <span class="topo-line"><span class="topo-outside">QGILRGEVIPMQGLTPYLQYRV</span><span class="topo-membrane">WPLAGLAGVLLLWAL</span><span class="topo-inside">LGRQLR</span><span class="topo-unknown">PQERRLFG</span></span>
+<details class="topo-details"><summary>Topology coordinates (22 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -984,6 +995,7 @@ Apolipoprotein N-acyl transferase (Lnt) from Escherichia coli is a 512-residue i
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1089,15 +1101,17 @@ Apolipoprotein N-acyl transferase (Lnt) from Escherichia coli is a 512-residue i
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGSSHHHHHHSSGLVPRGSH</span><span class="topo-outside">MAFASLIERQR</span><span class="topo-membrane">IRLLLALLFGACGTLA</span><span class="topo-inside">FSPYDV</span><span class="topo-membrane">WPAAIIS</span></span>
-<span class="topo-line"><span class="topo-membrane">LMGLQALTF</span><span class="topo-outside">NRRP</span><span class="topo-membrane">LQSAAIGFCWGFGLFGSG</span><span class="topo-inside">INWVYVSIATFGGMPGPVNI</span><span class="topo-membrane">FLVVLLAAY</span></span>
-<span class="topo-line"><span class="topo-membrane">LSLYTGLFAGVLSRLW</span><span class="topo-outside">PKTTW</span><span class="topo-membrane">LRVAIAAPALWQVTEFLRGWV</span><span class="topo-inside">LTGFPWLQFGYSQIDGPL</span></span>
-<span class="topo-line"><span class="topo-inside">KGLAPIMGVE</span><span class="topo-membrane">AINFLLMMVSGLLALAL</span><span class="topo-outside">VKRNW</span><span class="topo-membrane">RPLVVAVVLFALPF</span><span class="topo-inside">PLRYIQWFTPQPEK</span></span>
-<span class="topo-line"><span class="topo-inside">TIQVSMVQGDIPQSLKWDEGQLLNTLKIYYNATAPLMGKSSLIIWPESAITDLEINQQPF</span></span>
-<span class="topo-line"><span class="topo-inside">LKALDGELRDKGSSLVTGIVDARLNKQNRYDTYNTIITLGKGAPYSYESADRYNKNHLVP</span></span>
-<span class="topo-line"><span class="topo-inside">FGEFVPL</span><span class="topo-unknown">ESILRPLAPFFDLPMS</span><span class="topo-inside">SFSRGPYIQPPLSANGIELTAAICYEIILGEQVRDNF</span></span>
-<span class="topo-line"><span class="topo-inside">RPDTDYLLTISNDAWFGKSIGPWQHFQMARMRALELARPLLRSTNNGITAVIGPQGEIQA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGSSHHHHHHSSGLVPRGSH</span><span class="topo-outside">MAFASLIERQR</span><span class="topo-membrane">IRLLLALLFGACGTLA</span><span class="topo-inside">FSPYDV</span><span class="topo-membrane">WPAAIISLMGLQALTF</span><span class="topo-outside">NRRP</span><span class="topo-membrane">LQSAAIGFCWGFGLFGSG</span><span class="topo-inside">INWVYVSIATFGGMPGPVNI</span><span class="topo-membrane">FLVVLLAAY</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">LSLYTGLFAGVLSRLW</span><span class="topo-outside">PKTTW</span><span class="topo-membrane">LRVAIAAPALWQVTEFLRGWV</span><span class="topo-inside">LTGFPWLQFGYSQIDGPLKGLAPIMGVE</span><span class="topo-membrane">AINFLLMMVSGLLALAL</span><span class="topo-outside">VKRNW</span><span class="topo-membrane">RPLVVAVVLFALPF</span><span class="topo-inside">PLRYIQWFTPQPEK</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">TIQVSMVQGDIPQSLKWDEGQLLNTLKIYYNATAPLMGKSSLIIWPESAITDLEINQQPFLKALDGELRDKGSSLVTGIVDARLNKQNRYDTYNTIITLGKGAPYSYESADRYNKNHLVP</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">FGEFVPL</span><span class="topo-unknown">ESILRPLAPFFDLPMS</span><span class="topo-inside">SFSRGPYIQPPLSANGIELTAAICYEIILGEQVRDNFRPDTDYLLTISNDAWFGKSIGPWQHFQMARMRALELARPLLRSTNNGITAVIGPQGEIQA</span></span>
+<span class="topo-ruler">       490       500       510       520       530  </span>
 <span class="topo-line"><span class="topo-inside">MIPQFTREVLTTNVTPTTGLTPYARTGNWP</span><span class="topo-membrane">LWVLTALFGFAAVLM</span><span class="topo-outside">SLR</span><span class="topo-unknown">QRRK</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1256,6 +1270,7 @@ Apolipoprotein N-acyl transferase (Lnt) from Escherichia coli is a 512-residue i
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1271,15 +1286,17 @@ Apolipoprotein N-acyl transferase (Lnt) from Escherichia coli is a 512-residue i
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGSSHHHHHHSSGLVPRGSH</span><span class="topo-inside">MAFASLIERQ</span><span class="topo-membrane">RIRLLLALLFGACGTLA</span><span class="topo-outside">FSPYDV</span><span class="topo-membrane">WPAAIIS</span></span>
-<span class="topo-line"><span class="topo-membrane">LMGLQALTF</span><span class="topo-inside">NRRP</span><span class="topo-membrane">LQSAAIGFCWGFGLFGS</span><span class="topo-outside">GINWVYVSIATFGGMPGPVNIFLVV</span><span class="topo-membrane">LLAAY</span></span>
-<span class="topo-line"><span class="topo-membrane">LSLYTGLFAGVLSRLW</span><span class="topo-inside">PKTTW</span><span class="topo-membrane">LRVAIAAPALWQVTEFLR</span><span class="topo-outside">GWVLTGFPWLQFGYSQIDGPL</span></span>
-<span class="topo-line"><span class="topo-outside">KGLAPIMGVE</span><span class="topo-membrane">AINFLLMMVSGLLALAL</span><span class="topo-inside">VKRNW</span><span class="topo-membrane">RPLVVAVVLFALPFP</span><span class="topo-outside">LRYIQWFTPQPEK</span></span>
-<span class="topo-line"><span class="topo-outside">TIQVSMVQGDIPQSLKWDEGQLLNTLKIYYNATAPLMGKSSLIIWPESAITDLEINQQPF</span></span>
-<span class="topo-line"><span class="topo-outside">LKALDGELRDKGSSLVTGIVDARLNKQNRYDTYNTIITLGKGAPYSYESADRYNKNHLVP</span></span>
-<span class="topo-line"><span class="topo-outside">FGEFVPLESILRPLAPFFDLPMSSFSRGPYIQPPLSANGIELTAAIAYEIILGEQVRDNF</span></span>
-<span class="topo-line"><span class="topo-outside">RPDTDYLLTISNDAWFGKSIGPWQHFQMARMRALELARPLLRSTNNGITAVIGPQGEIQA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGSSHHHHHHSSGLVPRGSH</span><span class="topo-inside">MAFASLIERQ</span><span class="topo-membrane">RIRLLLALLFGACGTLA</span><span class="topo-outside">FSPYDV</span><span class="topo-membrane">WPAAIISLMGLQALTF</span><span class="topo-inside">NRRP</span><span class="topo-membrane">LQSAAIGFCWGFGLFGS</span><span class="topo-outside">GINWVYVSIATFGGMPGPVNIFLVV</span><span class="topo-membrane">LLAAY</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">LSLYTGLFAGVLSRLW</span><span class="topo-inside">PKTTW</span><span class="topo-membrane">LRVAIAAPALWQVTEFLR</span><span class="topo-outside">GWVLTGFPWLQFGYSQIDGPLKGLAPIMGVE</span><span class="topo-membrane">AINFLLMMVSGLLALAL</span><span class="topo-inside">VKRNW</span><span class="topo-membrane">RPLVVAVVLFALPFP</span><span class="topo-outside">LRYIQWFTPQPEK</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">TIQVSMVQGDIPQSLKWDEGQLLNTLKIYYNATAPLMGKSSLIIWPESAITDLEINQQPFLKALDGELRDKGSSLVTGIVDARLNKQNRYDTYNTIITLGKGAPYSYESADRYNKNHLVP</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">FGEFVPLESILRPLAPFFDLPMSSFSRGPYIQPPLSANGIELTAAIAYEIILGEQVRDNFRPDTDYLLTISNDAWFGKSIGPWQHFQMARMRALELARPLLRSTNNGITAVIGPQGEIQA</span></span>
+<span class="topo-ruler">       490       500       510       520       530  </span>
 <span class="topo-line"><span class="topo-outside">MIPQFTREVLTTNVTPTTGLTPYARTGNW</span><span class="topo-membrane">PLWVLTALFGFAAVL</span><span class="topo-inside">MSLR</span><span class="topo-unknown">QRRK</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1424,6 +1441,7 @@ Apolipoprotein N-acyl transferase (Lnt) from Escherichia coli is a 512-residue i
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1439,15 +1457,17 @@ Apolipoprotein N-acyl transferase (Lnt) from Escherichia coli is a 512-residue i
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGSSHHHHHHSSGLVPRGSHM</span><span class="topo-outside">AFASLIERQ</span><span class="topo-membrane">RIRLLLALLFGACGTLA</span><span class="topo-inside">FSPYDVW</span><span class="topo-membrane">PAAIIS</span></span>
-<span class="topo-line"><span class="topo-membrane">LMGLQALTF</span><span class="topo-outside">NRRP</span><span class="topo-membrane">LQSAAIGFCWGFGLFGS</span><span class="topo-inside">GINWVYVSIATFGGMPGPVNIFLVV</span><span class="topo-membrane">LLAAY</span></span>
-<span class="topo-line"><span class="topo-membrane">LSLYTGLFAGVLSRL</span><span class="topo-outside">WPKTTW</span><span class="topo-membrane">LRVAIAAPALWQVTEFLRGWV</span><span class="topo-inside">LTGFPWLQFGYSQIDGPL</span></span>
-<span class="topo-line"><span class="topo-inside">KGLAPIMGVE</span><span class="topo-membrane">AINFLLMMVSGLLALALV</span><span class="topo-outside">KRNW</span><span class="topo-membrane">RPLVVAVVLFALPFP</span><span class="topo-inside">LRYIQWFTPQPEK</span></span>
-<span class="topo-line"><span class="topo-inside">TIQVSMVQGDIPQSLKWDEGQLLNTLKIYYNATAPLMGKSSLIIWPESAITDLEINQQPF</span></span>
-<span class="topo-line"><span class="topo-inside">LKALDGELRDKGSSLVTGIVDARLNKQNRYDTYNTIITLGKGAPYSYESADRYNKNHLVP</span></span>
-<span class="topo-line"><span class="topo-inside">FGEFVPLESILRPLAPFFDLPMSSFSRGPYIQPPLSANGIELTAAISYEIILGEQVRDNF</span></span>
-<span class="topo-line"><span class="topo-inside">RPDTDYLLTISNDAWFGKSIGPWQHFQMARMRALELARPLLRSTNNGITAVIGPQGEIQA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGSSHHHHHHSSGLVPRGSHM</span><span class="topo-outside">AFASLIERQ</span><span class="topo-membrane">RIRLLLALLFGACGTLA</span><span class="topo-inside">FSPYDVW</span><span class="topo-membrane">PAAIISLMGLQALTF</span><span class="topo-outside">NRRP</span><span class="topo-membrane">LQSAAIGFCWGFGLFGS</span><span class="topo-inside">GINWVYVSIATFGGMPGPVNIFLVV</span><span class="topo-membrane">LLAAY</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">LSLYTGLFAGVLSRL</span><span class="topo-outside">WPKTTW</span><span class="topo-membrane">LRVAIAAPALWQVTEFLRGWV</span><span class="topo-inside">LTGFPWLQFGYSQIDGPLKGLAPIMGVE</span><span class="topo-membrane">AINFLLMMVSGLLALALV</span><span class="topo-outside">KRNW</span><span class="topo-membrane">RPLVVAVVLFALPFP</span><span class="topo-inside">LRYIQWFTPQPEK</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">TIQVSMVQGDIPQSLKWDEGQLLNTLKIYYNATAPLMGKSSLIIWPESAITDLEINQQPFLKALDGELRDKGSSLVTGIVDARLNKQNRYDTYNTIITLGKGAPYSYESADRYNKNHLVP</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">FGEFVPLESILRPLAPFFDLPMSSFSRGPYIQPPLSANGIELTAAISYEIILGEQVRDNFRPDTDYLLTISNDAWFGKSIGPWQHFQMARMRALELARPLLRSTNNGITAVIGPQGEIQA</span></span>
+<span class="topo-ruler">       490       500       510       520       530  </span>
 <span class="topo-line"><span class="topo-inside">MIPQFTREVLTTNVTPTTGLTPYARTGN</span><span class="topo-membrane">WPLWVLTALFGFAAV</span><span class="topo-outside">LMSLRQ</span><span class="topo-unknown">RRK</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1592,6 +1612,7 @@ Apolipoprotein N-acyl transferase (Lnt) from Escherichia coli is a 512-residue i
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1607,15 +1628,17 @@ Apolipoprotein N-acyl transferase (Lnt) from Escherichia coli is a 512-residue i
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGSSHHHHHHSSGLVPRGSH</span><span class="topo-outside">MAFASLIERQ</span><span class="topo-membrane">RIRLLLALLFGACGTLA</span><span class="topo-inside">FSPYDV</span><span class="topo-membrane">WPAAIIS</span></span>
-<span class="topo-line"><span class="topo-membrane">LMGLQALTF</span><span class="topo-outside">NRRP</span><span class="topo-membrane">LQSAAIGFCWGFGLFGS</span><span class="topo-inside">GINWVYVSIATFGGMPGPVNIFLVV</span><span class="topo-membrane">LLAAY</span></span>
-<span class="topo-line"><span class="topo-membrane">LSLYTGLFAGVLSRLW</span><span class="topo-outside">PKTTW</span><span class="topo-membrane">LRVAIAAPALWQVTEFLR</span><span class="topo-inside">GWVLTGFPWLQFGYSQIDGPL</span></span>
-<span class="topo-line"><span class="topo-inside">KGLAPIMGVE</span><span class="topo-membrane">AINFLLMMVSGLLALALV</span><span class="topo-outside">KRNW</span><span class="topo-membrane">RPLVVAVVLFALPFP</span><span class="topo-inside">LRYIQWFTPQPEK</span></span>
-<span class="topo-line"><span class="topo-inside">TIQVSMVQGDIPQSLKWDEGQLLNTLKIYYNATAPLMGKSSLIIWPESAITDLEINQQPF</span></span>
-<span class="topo-line"><span class="topo-inside">LKALDGELRDKGSSLVTGIVDARLNKQNRYDTYNTIITLGKGAPYSYESADRYNKNHLVP</span></span>
-<span class="topo-line"><span class="topo-inside">FGEFVPLESILRPLAPFFDLPMSSFSRGPYIQPPLSANGIELTAAIAYEIILGEQVRDNF</span></span>
-<span class="topo-line"><span class="topo-inside">RPDTDYLLTISNDAWFGKSIGPWQHFQMARMRALELARPLLRSTNNGITAVIGPQGEIQA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGSSHHHHHHSSGLVPRGSH</span><span class="topo-outside">MAFASLIERQ</span><span class="topo-membrane">RIRLLLALLFGACGTLA</span><span class="topo-inside">FSPYDV</span><span class="topo-membrane">WPAAIISLMGLQALTF</span><span class="topo-outside">NRRP</span><span class="topo-membrane">LQSAAIGFCWGFGLFGS</span><span class="topo-inside">GINWVYVSIATFGGMPGPVNIFLVV</span><span class="topo-membrane">LLAAY</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">LSLYTGLFAGVLSRLW</span><span class="topo-outside">PKTTW</span><span class="topo-membrane">LRVAIAAPALWQVTEFLR</span><span class="topo-inside">GWVLTGFPWLQFGYSQIDGPLKGLAPIMGVE</span><span class="topo-membrane">AINFLLMMVSGLLALALV</span><span class="topo-outside">KRNW</span><span class="topo-membrane">RPLVVAVVLFALPFP</span><span class="topo-inside">LRYIQWFTPQPEK</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">TIQVSMVQGDIPQSLKWDEGQLLNTLKIYYNATAPLMGKSSLIIWPESAITDLEINQQPFLKALDGELRDKGSSLVTGIVDARLNKQNRYDTYNTIITLGKGAPYSYESADRYNKNHLVP</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">FGEFVPLESILRPLAPFFDLPMSSFSRGPYIQPPLSANGIELTAAIAYEIILGEQVRDNFRPDTDYLLTISNDAWFGKSIGPWQHFQMARMRALELARPLLRSTNNGITAVIGPQGEIQA</span></span>
+<span class="topo-ruler">       490       500       510       520       530  </span>
 <span class="topo-line"><span class="topo-inside">MIPQFTREVLTTNVTPTTGLTPYARTGNW</span><span class="topo-membrane">PLWVLTALFGFAAVL</span><span class="topo-outside">MSLRQR</span><span class="topo-unknown">RK</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1760,6 +1783,7 @@ Apolipoprotein N-acyl transferase (Lnt) from Escherichia coli is a 512-residue i
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1775,15 +1799,17 @@ Apolipoprotein N-acyl transferase (Lnt) from Escherichia coli is a 512-residue i
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGSSHHHHHHSSGLVPRGSH</span><span class="topo-outside">MAFASLIERQRIR</span><span class="topo-membrane">LLLALLFGACGTLAF</span><span class="topo-inside">SPYDV</span><span class="topo-membrane">WPAAIIS</span></span>
-<span class="topo-line"><span class="topo-membrane">LMGLQALT</span><span class="topo-outside">FNRRPLQS</span><span class="topo-membrane">AAIGFCWGFGLFGSGIN</span><span class="topo-inside">WVYVSIATFGGMPG</span><span class="topo-membrane">PVNIFLVVLLAAY</span></span>
-<span class="topo-line"><span class="topo-membrane">LSLYTGLFAGVLSRLW</span><span class="topo-outside">PKTTW</span><span class="topo-membrane">LRVAIAAPALWQVTEFLRGWVL</span><span class="topo-inside">TGFPWLQFGYSQIDGPL</span></span>
-<span class="topo-line"><span class="topo-inside">KGLAPIMGVE</span><span class="topo-membrane">AINFLLMMVSGLLALAL</span><span class="topo-outside">VKRNW</span><span class="topo-membrane">RPLVVAVVLFALPF</span><span class="topo-inside">PLRYIQWFTPQPEK</span></span>
-<span class="topo-line"><span class="topo-inside">TIQVSMVQGDIPQSLKWDEGQLLNTLKIYYNATAPLMGKSSLIIWPESAITDLEINQQPF</span></span>
-<span class="topo-line"><span class="topo-inside">LKALDGELRDKGSSLVTGIVDARLNKQNRYDTYNTIITLGKGAPYSYESADRYNKNHLVP</span></span>
-<span class="topo-line"><span class="topo-inside">FGEFVPLESILRPLAPFFDLPMSSFSRGPYIQPPLSANGIELTAAICYEIILGEQVRDNF</span></span>
-<span class="topo-line"><span class="topo-inside">RPDTDYLLTISNDAWFGKSIGPWQHFQMARMRALELARPLLRSTNNGITAVIGPQGEIQA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGSSHHHHHHSSGLVPRGSH</span><span class="topo-outside">MAFASLIERQRIR</span><span class="topo-membrane">LLLALLFGACGTLAF</span><span class="topo-inside">SPYDV</span><span class="topo-membrane">WPAAIISLMGLQALT</span><span class="topo-outside">FNRRPLQS</span><span class="topo-membrane">AAIGFCWGFGLFGSGIN</span><span class="topo-inside">WVYVSIATFGGMPG</span><span class="topo-membrane">PVNIFLVVLLAAY</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">LSLYTGLFAGVLSRLW</span><span class="topo-outside">PKTTW</span><span class="topo-membrane">LRVAIAAPALWQVTEFLRGWVL</span><span class="topo-inside">TGFPWLQFGYSQIDGPLKGLAPIMGVE</span><span class="topo-membrane">AINFLLMMVSGLLALAL</span><span class="topo-outside">VKRNW</span><span class="topo-membrane">RPLVVAVVLFALPF</span><span class="topo-inside">PLRYIQWFTPQPEK</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">TIQVSMVQGDIPQSLKWDEGQLLNTLKIYYNATAPLMGKSSLIIWPESAITDLEINQQPFLKALDGELRDKGSSLVTGIVDARLNKQNRYDTYNTIITLGKGAPYSYESADRYNKNHLVP</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">FGEFVPLESILRPLAPFFDLPMSSFSRGPYIQPPLSANGIELTAAICYEIILGEQVRDNFRPDTDYLLTISNDAWFGKSIGPWQHFQMARMRALELARPLLRSTNNGITAVIGPQGEIQA</span></span>
+<span class="topo-ruler">       490       500       510       520       530  </span>
 <span class="topo-line"><span class="topo-inside">MIPQFTREVLTTNVTPTTGLTPYARTGNWP</span><span class="topo-membrane">LWVLTALFGFAAVLMS</span><span class="topo-outside">LRQR</span><span class="topo-unknown">RK</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1928,6 +1954,7 @@ Apolipoprotein N-acyl transferase (Lnt) from Escherichia coli is a 512-residue i
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1943,15 +1970,17 @@ Apolipoprotein N-acyl transferase (Lnt) from Escherichia coli is a 512-residue i
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGSSHHHHHHSSGLVPRGSH</span><span class="topo-inside">MAFASLIERQ</span><span class="topo-membrane">RIRLLLALLFGACGTLA</span><span class="topo-outside">FSPYDV</span><span class="topo-membrane">WPAAIIS</span></span>
-<span class="topo-line"><span class="topo-membrane">LMGLQALTF</span><span class="topo-inside">NRRP</span><span class="topo-membrane">LQSAAIGFCWGFGLFGS</span><span class="topo-outside">GINWVYVSIATFGGMPGPVNIFLVV</span><span class="topo-membrane">LLAAY</span></span>
-<span class="topo-line"><span class="topo-membrane">LSLYTGLFAGVLSRLW</span><span class="topo-inside">PKTTW</span><span class="topo-membrane">LRVAIAAPALWQVTEFLRGWV</span><span class="topo-outside">LTGFPWLQFGYSQIDGPL</span></span>
-<span class="topo-line"><span class="topo-outside">KGLAPIMGVE</span><span class="topo-membrane">AINFLLMMVSGLLALALV</span><span class="topo-inside">KRNW</span><span class="topo-membrane">RPLVVAVVLFALPF</span><span class="topo-outside">PLRYIQWFTPQPEK</span></span>
-<span class="topo-line"><span class="topo-outside">TIQVSMVQGDIPQSLKWDEGQLLNTLKIYYNATAPLMGKSSLIIWPESAITDLEINQQPF</span></span>
-<span class="topo-line"><span class="topo-outside">LKALDGELRDKGSSLVTGIVDARLNKQNRYDTYNTIITLGKGAPYSYESADRYNKNHLVP</span></span>
-<span class="topo-line"><span class="topo-outside">FGEFVPLESILRPLAPFFDLPMSSFSRGPYIQPPLSANGIELTAAICYEIILGEQVRDNF</span></span>
-<span class="topo-line"><span class="topo-outside">RPDTDYLLTISNDAWFGKSIGPWQHFQMARMRALELARPLLRSTNNGITAVIGPQGEIQA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGSSHHHHHHSSGLVPRGSH</span><span class="topo-inside">MAFASLIERQ</span><span class="topo-membrane">RIRLLLALLFGACGTLA</span><span class="topo-outside">FSPYDV</span><span class="topo-membrane">WPAAIISLMGLQALTF</span><span class="topo-inside">NRRP</span><span class="topo-membrane">LQSAAIGFCWGFGLFGS</span><span class="topo-outside">GINWVYVSIATFGGMPGPVNIFLVV</span><span class="topo-membrane">LLAAY</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">LSLYTGLFAGVLSRLW</span><span class="topo-inside">PKTTW</span><span class="topo-membrane">LRVAIAAPALWQVTEFLRGWV</span><span class="topo-outside">LTGFPWLQFGYSQIDGPLKGLAPIMGVE</span><span class="topo-membrane">AINFLLMMVSGLLALALV</span><span class="topo-inside">KRNW</span><span class="topo-membrane">RPLVVAVVLFALPF</span><span class="topo-outside">PLRYIQWFTPQPEK</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">TIQVSMVQGDIPQSLKWDEGQLLNTLKIYYNATAPLMGKSSLIIWPESAITDLEINQQPFLKALDGELRDKGSSLVTGIVDARLNKQNRYDTYNTIITLGKGAPYSYESADRYNKNHLVP</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">FGEFVPLESILRPLAPFFDLPMSSFSRGPYIQPPLSANGIELTAAICYEIILGEQVRDNFRPDTDYLLTISNDAWFGKSIGPWQHFQMARMRALELARPLLRSTNNGITAVIGPQGEIQA</span></span>
+<span class="topo-ruler">       490       500       510       520       530  </span>
 <span class="topo-line"><span class="topo-outside">MIPQFTREVLTTNVTPTTGLTPYARTGNW</span><span class="topo-membrane">PLWVLTALFGFAAVL</span><span class="topo-inside">MSLRQ</span><span class="topo-unknown">RRK</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2096,6 +2125,7 @@ Apolipoprotein N-acyl transferase (Lnt) from Escherichia coli is a 512-residue i
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2111,15 +2141,17 @@ Apolipoprotein N-acyl transferase (Lnt) from Escherichia coli is a 512-residue i
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGSSHHHHH</span><span class="topo-outside">HSSGLVPRGSHMRWISRPGW</span><span class="topo-membrane">PGHLLALAAGALTPLAL</span><span class="topo-inside">APF</span><span class="topo-membrane">DYWPLAILSIA</span></span>
-<span class="topo-line"><span class="topo-membrane">LLYLGLR</span><span class="topo-outside">GLPG</span><span class="topo-membrane">KSALWRGWWYGFGAFGAGTS</span><span class="topo-inside">WIYVSIHDYGAASVPLAS</span><span class="topo-membrane">LLMLGFTAGVA</span></span>
-<span class="topo-line"><span class="topo-membrane">FFFALPAWLWARCLR</span><span class="topo-outside">RDNAP</span><span class="topo-membrane">LGDALAFAALWLALELFRSWFL</span><span class="topo-inside">TGFPWLYAGYSQLQGPLA</span></span>
-<span class="topo-line"><span class="topo-inside">GLVPV</span><span class="topo-membrane">GGVWLSSFVIALSAALLVNLP</span><span class="topo-outside">RLFPHGA</span><span class="topo-membrane">SLLLGLVLLLGPWAAGLYL</span><span class="topo-inside">KGHAWTHS</span></span>
-<span class="topo-line"><span class="topo-inside">AGEPLRVVAIQGNIAQELKWDPNQVRAQLDLYRDLSLPQQDVDLIVWPETAVPILQDMAS</span></span>
-<span class="topo-line"><span class="topo-inside">GYLGAMGQVADEKNAALITGVPVRERLADGKSRYFNGITVVGEGAGTYLKQKLVPFGEYV</span></span>
-<span class="topo-line"><span class="topo-inside">PLQDLLRGLIAFFDLPMSDFARGPADQPLLKAKGYQIAPYICYEVVYPEFAAALAAQSQV</span></span>
-<span class="topo-line"><span class="topo-inside">LLTVSNDTWFGTSIGPLQHLQMAQMRALESGRWMIRATNNGVTGLIDPYGRIVRQIPQFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGSSHHHHH</span><span class="topo-outside">HSSGLVPRGSHMRWISRPGW</span><span class="topo-membrane">PGHLLALAAGALTPLAL</span><span class="topo-inside">APF</span><span class="topo-membrane">DYWPLAILSIALLYLGLR</span><span class="topo-outside">GLPG</span><span class="topo-membrane">KSALWRGWWYGFGAFGAGTS</span><span class="topo-inside">WIYVSIHDYGAASVPLAS</span><span class="topo-membrane">LLMLGFTAGVA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">FFFALPAWLWARCLR</span><span class="topo-outside">RDNAP</span><span class="topo-membrane">LGDALAFAALWLALELFRSWFL</span><span class="topo-inside">TGFPWLYAGYSQLQGPLAGLVPV</span><span class="topo-membrane">GGVWLSSFVIALSAALLVNLP</span><span class="topo-outside">RLFPHGA</span><span class="topo-membrane">SLLLGLVLLLGPWAAGLYL</span><span class="topo-inside">KGHAWTHS</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">AGEPLRVVAIQGNIAQELKWDPNQVRAQLDLYRDLSLPQQDVDLIVWPETAVPILQDMASGYLGAMGQVADEKNAALITGVPVRERLADGKSRYFNGITVVGEGAGTYLKQKLVPFGEYV</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">PLQDLLRGLIAFFDLPMSDFARGPADQPLLKAKGYQIAPYICYEVVYPEFAAALAAQSQVLLTVSNDTWFGTSIGPLQHLQMAQMRALESGRWMIRATNNGVTGLIDPYGRIVRQIPQFQ</span></span>
+<span class="topo-ruler">       490       500       510       520       530 </span>
 <span class="topo-line"><span class="topo-inside">QGILRGEVIPMQGLTPYLQYRV</span><span class="topo-membrane">WPLAGLAGVLLLWALL</span><span class="topo-outside">GRQLRPQERRL</span><span class="topo-unknown">FG</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2264,6 +2296,7 @@ Apolipoprotein N-acyl transferase (Lnt) from Escherichia coli is a 512-residue i
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2279,15 +2312,17 @@ Apolipoprotein N-acyl transferase (Lnt) from Escherichia coli is a 512-residue i
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGSSHHHHHHSSGLVPRGSHMAF</span><span class="topo-outside">ASLIERQ</span><span class="topo-membrane">RIRLLLALLFGACGTLA</span><span class="topo-inside">FSPYDVW</span><span class="topo-membrane">PAAIIS</span></span>
-<span class="topo-line"><span class="topo-membrane">LMGLQALTF</span><span class="topo-outside">NRRP</span><span class="topo-membrane">LQSAAIGFCWGFGLFGS</span><span class="topo-inside">GINWVYVSIATFGGMPGPVNIFLVV</span><span class="topo-membrane">LLAAY</span></span>
-<span class="topo-line"><span class="topo-membrane">LSLYTGLFAGVLSRL</span><span class="topo-outside">WPKTTW</span><span class="topo-membrane">LRVAIAAPALWQVTEFLRGWV</span><span class="topo-inside">LTGFPWLQFGYSQIDGPL</span></span>
-<span class="topo-line"><span class="topo-inside">KGLAPIMGVE</span><span class="topo-membrane">AINFLLMMVSGLLALALV</span><span class="topo-outside">KRNW</span><span class="topo-membrane">RPLVVAVVLFALPFP</span><span class="topo-inside">LRYIQWFTPQPEK</span></span>
-<span class="topo-line"><span class="topo-inside">TIQVSMVQGDIPQSLKWDEGQLLNTLKIYYNATAPLMGKSSLIIWPESAITDLEINQQPF</span></span>
-<span class="topo-line"><span class="topo-inside">LKALDGELRDKGSSLVTGIVDARLNKQNRYDTYNTIITLGKGAPYSYESADRYNKNHLVP</span></span>
-<span class="topo-line"><span class="topo-inside">FGEFVPLESILRPLAPFFDLPMSSFSRGPYIQPPLSANGIELTAAIAYEIILGEQVRDNF</span></span>
-<span class="topo-line"><span class="topo-inside">RPDTDYLLTISNDAWFGKSIGPWQHFQMARMRALELARPLLRSTNNGITAVIGPQGEIQA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGSSHHHHHHSSGLVPRGSHMAF</span><span class="topo-outside">ASLIERQ</span><span class="topo-membrane">RIRLLLALLFGACGTLA</span><span class="topo-inside">FSPYDVW</span><span class="topo-membrane">PAAIISLMGLQALTF</span><span class="topo-outside">NRRP</span><span class="topo-membrane">LQSAAIGFCWGFGLFGS</span><span class="topo-inside">GINWVYVSIATFGGMPGPVNIFLVV</span><span class="topo-membrane">LLAAY</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">LSLYTGLFAGVLSRL</span><span class="topo-outside">WPKTTW</span><span class="topo-membrane">LRVAIAAPALWQVTEFLRGWV</span><span class="topo-inside">LTGFPWLQFGYSQIDGPLKGLAPIMGVE</span><span class="topo-membrane">AINFLLMMVSGLLALALV</span><span class="topo-outside">KRNW</span><span class="topo-membrane">RPLVVAVVLFALPFP</span><span class="topo-inside">LRYIQWFTPQPEK</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">TIQVSMVQGDIPQSLKWDEGQLLNTLKIYYNATAPLMGKSSLIIWPESAITDLEINQQPFLKALDGELRDKGSSLVTGIVDARLNKQNRYDTYNTIITLGKGAPYSYESADRYNKNHLVP</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">FGEFVPLESILRPLAPFFDLPMSSFSRGPYIQPPLSANGIELTAAIAYEIILGEQVRDNFRPDTDYLLTISNDAWFGKSIGPWQHFQMARMRALELARPLLRSTNNGITAVIGPQGEIQA</span></span>
+<span class="topo-ruler">       490       500       510       520       530  </span>
 <span class="topo-line"><span class="topo-inside">MIPQFTREVLTTNVTPTTGLTPYARTGN</span><span class="topo-membrane">WPLWVLTALFGFAAV</span><span class="topo-outside">LMSLR</span><span class="topo-unknown">QRRK</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2432,6 +2467,7 @@ Apolipoprotein N-acyl transferase (Lnt) from Escherichia coli is a 512-residue i
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2447,15 +2483,17 @@ Apolipoprotein N-acyl transferase (Lnt) from Escherichia coli is a 512-residue i
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGSSHHHHHHSSGLVPRGSHMA</span><span class="topo-outside">FASLIERQ</span><span class="topo-membrane">RIRLLLALLFGACGTL</span><span class="topo-inside">AFSPYDVW</span><span class="topo-membrane">PAAIIS</span></span>
-<span class="topo-line"><span class="topo-membrane">LMGLQALTF</span><span class="topo-outside">NRRP</span><span class="topo-membrane">LQSAAIGFCWGFGLFGS</span><span class="topo-inside">GINWVYVSIATFGGMPGPVNIFLVV</span><span class="topo-membrane">LLAAY</span></span>
-<span class="topo-line"><span class="topo-membrane">LSLYTGLFAGVLSRL</span><span class="topo-outside">WPKTTW</span><span class="topo-membrane">LRVAIAAPALWQVTEFLRGWV</span><span class="topo-inside">LTGFPWLQFGYSQIDGPL</span></span>
-<span class="topo-line"><span class="topo-inside">KGLAPIMGVE</span><span class="topo-membrane">AINFLLMMVSGLLALALV</span><span class="topo-outside">KRNW</span><span class="topo-membrane">RPLVVAVVLFALPFP</span><span class="topo-inside">LRYIQWFTPQPEK</span></span>
-<span class="topo-line"><span class="topo-inside">TIQVSMVQGDIPQSLKWDEGQLLNTLKIYYNATAPLMGKSSLIIWPESAITDLEINQQPF</span></span>
-<span class="topo-line"><span class="topo-inside">LKALDGELRDKGSSLVTGIVDARLNKQNRYDTYNTIITLGKGAPYSYESADRYNKNHLVP</span></span>
-<span class="topo-line"><span class="topo-inside">FGEFVPLESILRPLAPFFDLPMSSFSRGPYIQPPLSANGIELTAAISYEIILGEQVRDNF</span></span>
-<span class="topo-line"><span class="topo-inside">RPDTDYLLTISNDAWFGKSIGPWQHFQMARMRALELARPLLRSTNNGITAVIGPQGEIQA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGSSHHHHHHSSGLVPRGSHMA</span><span class="topo-outside">FASLIERQ</span><span class="topo-membrane">RIRLLLALLFGACGTL</span><span class="topo-inside">AFSPYDVW</span><span class="topo-membrane">PAAIISLMGLQALTF</span><span class="topo-outside">NRRP</span><span class="topo-membrane">LQSAAIGFCWGFGLFGS</span><span class="topo-inside">GINWVYVSIATFGGMPGPVNIFLVV</span><span class="topo-membrane">LLAAY</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">LSLYTGLFAGVLSRL</span><span class="topo-outside">WPKTTW</span><span class="topo-membrane">LRVAIAAPALWQVTEFLRGWV</span><span class="topo-inside">LTGFPWLQFGYSQIDGPLKGLAPIMGVE</span><span class="topo-membrane">AINFLLMMVSGLLALALV</span><span class="topo-outside">KRNW</span><span class="topo-membrane">RPLVVAVVLFALPFP</span><span class="topo-inside">LRYIQWFTPQPEK</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">TIQVSMVQGDIPQSLKWDEGQLLNTLKIYYNATAPLMGKSSLIIWPESAITDLEINQQPFLKALDGELRDKGSSLVTGIVDARLNKQNRYDTYNTIITLGKGAPYSYESADRYNKNHLVP</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">FGEFVPLESILRPLAPFFDLPMSSFSRGPYIQPPLSANGIELTAAISYEIILGEQVRDNFRPDTDYLLTISNDAWFGKSIGPWQHFQMARMRALELARPLLRSTNNGITAVIGPQGEIQA</span></span>
+<span class="topo-ruler">       490       500       510       520       530  </span>
 <span class="topo-line"><span class="topo-inside">MIPQFTREVLTTNVTPTTGLTPYARTGN</span><span class="topo-membrane">WPLWVLTALFGFAAV</span><span class="topo-outside">LMSLR</span><span class="topo-unknown">QRRK</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2600,6 +2638,7 @@ Apolipoprotein N-acyl transferase (Lnt) from Escherichia coli is a 512-residue i
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

@@ -150,8 +150,9 @@ DltB is a membrane-bound O-acyltransferase (MBOAT) from Streptococcus thermophil
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GSH</span><span class="topo-inside">MDVKAEVIEIIDELFMEDVSDMMDEDLFDAGVLDSMGTVELIVELESRFDIRVPVSE</span></span>
-<span class="topo-line"><span class="topo-inside">FGRDDWNTANKIVEGVTELRNA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80  </span>
+<span class="topo-line"><span class="topo-unknown">GSH</span><span class="topo-inside">MDVKAEVIEIIDELFMEDVSDMMDEDLFDAGVLDSMGTVELIVELESRFDIRVPVSEFGRDDWNTANKIVEGVTELRNA</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -170,6 +171,7 @@ DltB is a membrane-bound O-acyltransferase (MBOAT) from Streptococcus thermophil
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -185,14 +187,15 @@ DltB is a membrane-bound O-acyltransferase (MBOAT) from Streptococcus thermophil
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">M</span><span class="topo-unknown">IDFLKQ</span><span class="topo-outside">LPH</span><span class="topo-membrane">LEPYGNPFYFIYLGIALLPIFI</span><span class="topo-inside">GLFFKKRF</span><span class="topo-membrane">AIYECLVSITFIVLALT</span><span class="topo-outside">GTH</span></span>
-<span class="topo-line"><span class="topo-outside">A</span><span class="topo-membrane">SQILALLFYIVWQIIW</span><span class="topo-inside">VYSYKRYRSQRDNKWVFYL</span><span class="topo-membrane">HSFLVVLPLILVKVEPTI</span><span class="topo-outside">NGTQ</span><span class="topo-membrane">SL</span></span>
-<span class="topo-line"><span class="topo-membrane">LNFLGISYLTFRAV</span><span class="topo-inside">GMIIEMRDGVLKEFTLGEFL</span><span class="topo-unknown">RFMLFMPTFTSGPI</span><span class="topo-inside">DR</span><span class="topo-unknown">FKRFNEDYQ</span><span class="topo-inside">S</span></span>
-<span class="topo-line"><span class="topo-inside">IPNRDELLNML</span><span class="topo-membrane">EQAVKYIMLGFLYKFVLAQIFG</span><span class="topo-outside">SML</span><span class="topo-unknown">LPPLKAQALSQ</span><span class="topo-outside">GGIFNLPT</span><span class="topo-membrane">LGVMY</span></span>
-<span class="topo-line"><span class="topo-membrane">VYGFDLFFDFAGYSMFALAVSNLM</span><span class="topo-inside">GIKSPINFDKPFISRDMKEFWNRWHMSLSFWFRDFV</span></span>
-<span class="topo-line"><span class="topo-inside">FMRLVIVLMRNKVFKNRNTTSNVAYI</span><span class="topo-membrane">INMMVMGFWHGITW</span><span class="topo-outside">Y</span><span class="topo-membrane">YIAYGIFHGIGL</span><span class="topo-inside">VINDAWL</span></span>
-<span class="topo-line"><span class="topo-inside">RKKKTINKDRKKAGLKPLPENKWTKA</span><span class="topo-membrane">LGIFITFNTVMLSFLIFSGFL</span><span class="topo-outside">NDLWFTK</span><span class="topo-unknown">KLEHHH</span></span>
-<span class="topo-line"><span class="topo-unknown">HHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">M</span><span class="topo-unknown">IDFLKQ</span><span class="topo-outside">LPH</span><span class="topo-membrane">LEPYGNPFYFIYLGIALLPIFI</span><span class="topo-inside">GLFFKKRF</span><span class="topo-membrane">AIYECLVSITFIVLALT</span><span class="topo-outside">GTHA</span><span class="topo-membrane">SQILALLFYIVWQIIW</span><span class="topo-inside">VYSYKRYRSQRDNKWVFYL</span><span class="topo-membrane">HSFLVVLPLILVKVEPTI</span><span class="topo-outside">NGTQ</span><span class="topo-membrane">SL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">LNFLGISYLTFRAV</span><span class="topo-inside">GMIIEMRDGVLKEFTLGEFL</span><span class="topo-unknown">RFMLFMPTFTSGPI</span><span class="topo-inside">DR</span><span class="topo-unknown">FKRFNEDYQ</span><span class="topo-inside">SIPNRDELLNML</span><span class="topo-membrane">EQAVKYIMLGFLYKFVLAQIFG</span><span class="topo-outside">SML</span><span class="topo-unknown">LPPLKAQALSQ</span><span class="topo-outside">GGIFNLPT</span><span class="topo-membrane">LGVMY</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">VYGFDLFFDFAGYSMFALAVSNLM</span><span class="topo-inside">GIKSPINFDKPFISRDMKEFWNRWHMSLSFWFRDFVFMRLVIVLMRNKVFKNRNTTSNVAYI</span><span class="topo-membrane">INMMVMGFWHGITW</span><span class="topo-outside">Y</span><span class="topo-membrane">YIAYGIFHGIGL</span><span class="topo-inside">VINDAWL</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420     </span>
+<span class="topo-line"><span class="topo-inside">RKKKTINKDRKKAGLKPLPENKWTKA</span><span class="topo-membrane">LGIFITFNTVMLSFLIFSGFL</span><span class="topo-outside">NDLWFTK</span><span class="topo-unknown">KLEHHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (29 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -407,6 +410,7 @@ DltB is a membrane-bound O-acyltransferase (MBOAT) from Streptococcus thermophil
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -422,8 +426,9 @@ DltB is a membrane-bound O-acyltransferase (MBOAT) from Streptococcus thermophil
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GSH</span><span class="topo-inside">MDVKAEVIEIIDELFMEDVSDMMDEDLFDAGVLDSMGTVELIVELESRFDIRVPVSE</span></span>
-<span class="topo-line"><span class="topo-inside">FGRDDWNTANKIVEGVTELRNA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80  </span>
+<span class="topo-line"><span class="topo-unknown">GSH</span><span class="topo-inside">MDVKAEVIEIIDELFMEDVSDMMDEDLFDAGVLDSMGTVELIVELESRFDIRVPVSEFGRDDWNTANKIVEGVTELRNA</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -442,6 +447,7 @@ DltB is a membrane-bound O-acyltransferase (MBOAT) from Streptococcus thermophil
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -457,14 +463,15 @@ DltB is a membrane-bound O-acyltransferase (MBOAT) from Streptococcus thermophil
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">M</span><span class="topo-unknown">IDFLKQ</span><span class="topo-outside">L</span><span class="topo-membrane">PHLEPYGNPFYFIYLGIALLPI</span><span class="topo-inside">FIGLFFKKRFAI</span><span class="topo-membrane">YECLVSITFIVLALT</span><span class="topo-outside">GTH</span></span>
-<span class="topo-line"><span class="topo-outside">ASQ</span><span class="topo-membrane">ILALLFYIVWQIIWVYSY</span><span class="topo-inside">KRYRSQRDNK</span><span class="topo-membrane">WVFYLHSFLVVLPLILVKV</span><span class="topo-outside">EPTINGTQSL</span></span>
-<span class="topo-line"><span class="topo-outside">L</span><span class="topo-membrane">NFLGISYLTFRAVGMI</span><span class="topo-inside">IEMRDGVLKEFTLGEF</span><span class="topo-unknown">LRFMLFMPTFTSGPID</span><span class="topo-inside">R</span><span class="topo-unknown">FKRFNEDYQ</span><span class="topo-inside">S</span></span>
-<span class="topo-line"><span class="topo-inside">IPNRDELLNMLEQA</span><span class="topo-membrane">VKYIMLGFLYKFVLAQIFG</span><span class="topo-outside">SMLLPPLKAQALSQGGIFNLPTLGVM</span><span class="topo-membrane">Y</span></span>
-<span class="topo-line"><span class="topo-membrane">VYGFDLFFDFAGYSMFALAVSNLM</span><span class="topo-inside">GIKSPINFDKPFISRDMKEFWNRWHMSLSFWFRDFV</span></span>
-<span class="topo-line"><span class="topo-unknown">FMRLVIVLMR</span><span class="topo-inside">NKVFKNRN</span><span class="topo-membrane">TTSNVAYIINMMVMGFWHGI</span><span class="topo-outside">TWY</span><span class="topo-membrane">YIAYGIFHGIGLVINDAWL</span></span>
-<span class="topo-line"><span class="topo-inside">RKKKTINKDRKKAGLKPLPENK</span><span class="topo-membrane">WTKALGIFITFNTVMLSFLIFS</span><span class="topo-outside">GFLNDLWFTK</span><span class="topo-unknown">KLEHHH</span></span>
-<span class="topo-line"><span class="topo-unknown">HHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">M</span><span class="topo-unknown">IDFLKQ</span><span class="topo-outside">L</span><span class="topo-membrane">PHLEPYGNPFYFIYLGIALLPI</span><span class="topo-inside">FIGLFFKKRFAI</span><span class="topo-membrane">YECLVSITFIVLALT</span><span class="topo-outside">GTHASQ</span><span class="topo-membrane">ILALLFYIVWQIIWVYSY</span><span class="topo-inside">KRYRSQRDNK</span><span class="topo-membrane">WVFYLHSFLVVLPLILVKV</span><span class="topo-outside">EPTINGTQSL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">L</span><span class="topo-membrane">NFLGISYLTFRAVGMI</span><span class="topo-inside">IEMRDGVLKEFTLGEF</span><span class="topo-unknown">LRFMLFMPTFTSGPID</span><span class="topo-inside">R</span><span class="topo-unknown">FKRFNEDYQ</span><span class="topo-inside">SIPNRDELLNMLEQA</span><span class="topo-membrane">VKYIMLGFLYKFVLAQIFG</span><span class="topo-outside">SMLLPPLKAQALSQGGIFNLPTLGVM</span><span class="topo-membrane">Y</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">VYGFDLFFDFAGYSMFALAVSNLM</span><span class="topo-inside">GIKSPINFDKPFISRDMKEFWNRWHMSLSFWFRDFV</span><span class="topo-unknown">FMRLVIVLMR</span><span class="topo-inside">NKVFKNRN</span><span class="topo-membrane">TTSNVAYIINMMVMGFWHGI</span><span class="topo-outside">TWY</span><span class="topo-membrane">YIAYGIFHGIGLVINDAWL</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420     </span>
+<span class="topo-line"><span class="topo-inside">RKKKTINKDRKKAGLKPLPENK</span><span class="topo-membrane">WTKALGIFITFNTVMLSFLIFS</span><span class="topo-outside">GFLNDLWFTK</span><span class="topo-unknown">KLEHHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (29 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -679,6 +686,7 @@ DltB is a membrane-bound O-acyltransferase (MBOAT) from Streptococcus thermophil
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -694,14 +702,15 @@ DltB is a membrane-bound O-acyltransferase (MBOAT) from Streptococcus thermophil
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MIDFLKQLPHL</span><span class="topo-membrane">EPYGNPFYFIYLGIALLPIFIG</span><span class="topo-outside">LFFKKR</span><span class="topo-membrane">FAIYECLVSITFIVLAL</span><span class="topo-inside">TGTH</span></span>
-<span class="topo-line"><span class="topo-inside">ASQ</span><span class="topo-membrane">ILALLFYIVWQIIW</span><span class="topo-outside">VYSYKRYRSQRDNKWVFYLHSF</span><span class="topo-membrane">LVVLPLILVKVEPTI</span><span class="topo-inside">NGTQ</span><span class="topo-membrane">SL</span></span>
-<span class="topo-line"><span class="topo-membrane">LNFLGISYLTFRAV</span><span class="topo-outside">GMIIEMRDGVLKEFTLGEFL</span><span class="topo-unknown">RFMLFMPTFTSGPI</span><span class="topo-outside">DR</span><span class="topo-unknown">FKRFNEDYQ</span><span class="topo-outside">S</span></span>
-<span class="topo-line"><span class="topo-outside">IPNRDELLNML</span><span class="topo-membrane">EQAVKYIMLGFLYKFVLAQIFG</span><span class="topo-inside">SML</span><span class="topo-unknown">LPPLKAQALSQ</span><span class="topo-inside">GGIFNLPT</span><span class="topo-membrane">LGVMY</span></span>
-<span class="topo-line"><span class="topo-membrane">VYGFDLFFDFAGYSMFALAVSNLM</span><span class="topo-outside">GIKSPINFDKPFISRDMKEFWNRWHMSLSFWFRDFV</span></span>
-<span class="topo-line"><span class="topo-outside">FMRLVIVLMRNKVFKNRNTTSNVAYIINM</span><span class="topo-membrane">MVMGFWHGIT</span><span class="topo-inside">W</span><span class="topo-membrane">YYIAYGIFHGIG</span><span class="topo-outside">LVINDAWL</span></span>
-<span class="topo-line"><span class="topo-outside">RKKKTINKDRKKAGLKPLPENKWTKALGI</span><span class="topo-membrane">FITFNTVMLSFLIFSGFLN</span><span class="topo-inside">DLWFTK</span><span class="topo-unknown">KLEHHH</span></span>
-<span class="topo-line"><span class="topo-unknown">HHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">MIDFLKQLPHL</span><span class="topo-membrane">EPYGNPFYFIYLGIALLPIFIG</span><span class="topo-outside">LFFKKR</span><span class="topo-membrane">FAIYECLVSITFIVLAL</span><span class="topo-inside">TGTHASQ</span><span class="topo-membrane">ILALLFYIVWQIIW</span><span class="topo-outside">VYSYKRYRSQRDNKWVFYLHSF</span><span class="topo-membrane">LVVLPLILVKVEPTI</span><span class="topo-inside">NGTQ</span><span class="topo-membrane">SL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">LNFLGISYLTFRAV</span><span class="topo-outside">GMIIEMRDGVLKEFTLGEFL</span><span class="topo-unknown">RFMLFMPTFTSGPI</span><span class="topo-outside">DR</span><span class="topo-unknown">FKRFNEDYQ</span><span class="topo-outside">SIPNRDELLNML</span><span class="topo-membrane">EQAVKYIMLGFLYKFVLAQIFG</span><span class="topo-inside">SML</span><span class="topo-unknown">LPPLKAQALSQ</span><span class="topo-inside">GGIFNLPT</span><span class="topo-membrane">LGVMY</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">VYGFDLFFDFAGYSMFALAVSNLM</span><span class="topo-outside">GIKSPINFDKPFISRDMKEFWNRWHMSLSFWFRDFVFMRLVIVLMRNKVFKNRNTTSNVAYIINM</span><span class="topo-membrane">MVMGFWHGIT</span><span class="topo-inside">W</span><span class="topo-membrane">YYIAYGIFHGIG</span><span class="topo-outside">LVINDAWL</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420     </span>
+<span class="topo-line"><span class="topo-outside">RKKKTINKDRKKAGLKPLPENKWTKALGI</span><span class="topo-membrane">FITFNTVMLSFLIFSGFLN</span><span class="topo-inside">DLWFTK</span><span class="topo-unknown">KLEHHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (27 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -902,6 +911,7 @@ DltB is a membrane-bound O-acyltransferase (MBOAT) from Streptococcus thermophil
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

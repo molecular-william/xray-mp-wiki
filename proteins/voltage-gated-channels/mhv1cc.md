@@ -97,10 +97,11 @@ mHv1cc is a crystallizable construct of the mouse voltage-gated proton channel (
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGGSHHHHHHHHGENLYFQGLESTPRQSLD</span><span class="topo-outside">FRSRLRKLFS</span><span class="topo-unknown">S</span><span class="topo-outside">HRF</span><span class="topo-membrane">QVIIICLVVLDALLVL</span></span>
-<span class="topo-line"><span class="topo-membrane">AELL</span><span class="topo-inside">LDLK</span><span class="topo-unknown">IIEPDEQDYA</span><span class="topo-inside">VTAFHYM</span><span class="topo-membrane">SFAILVFFMLDLGLRIFAYG</span><span class="topo-unknown">PKN</span><span class="topo-outside">F</span><span class="topo-unknown">F</span><span class="topo-outside">TNP</span><span class="topo-membrane">WEVADGL</span></span>
-<span class="topo-line"><span class="topo-membrane">IVVVSFVLDLVLL</span><span class="topo-inside">F</span><span class="topo-unknown">KSHH</span><span class="topo-inside">FEA</span><span class="topo-membrane">LGLLILLRLWRVARIING</span><span class="topo-outside">IIISRMKQLEDKIEELLSKIY</span></span>
-<span class="topo-line"><span class="topo-outside">HLENEIARL</span><span class="topo-unknown">KKLIGER</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGGSHHHHHHHHGENLYFQGLESTPRQSLD</span><span class="topo-outside">FRSRLRKLFS</span><span class="topo-unknown">S</span><span class="topo-outside">HRF</span><span class="topo-membrane">QVIIICLVVLDALLVLAELL</span><span class="topo-inside">LDLK</span><span class="topo-unknown">IIEPDEQDYA</span><span class="topo-inside">VTAFHYM</span><span class="topo-membrane">SFAILVFFMLDLGLRIFAYG</span><span class="topo-unknown">PKN</span><span class="topo-outside">F</span><span class="topo-unknown">F</span><span class="topo-outside">TNP</span><span class="topo-membrane">WEVADGL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190      </span>
+<span class="topo-line"><span class="topo-membrane">IVVVSFVLDLVLL</span><span class="topo-inside">F</span><span class="topo-unknown">KSHH</span><span class="topo-inside">FEA</span><span class="topo-membrane">LGLLILLRLWRVARIING</span><span class="topo-outside">IIISRMKQLEDKIEELLSKIYHLENEIARL</span><span class="topo-unknown">KKLIGER</span></span>
+<details class="topo-details"><summary>Topology coordinates (20 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -252,6 +253,7 @@ mHv1cc is a crystallizable construct of the mouse voltage-gated proton channel (
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -267,10 +269,11 @@ mHv1cc is a crystallizable construct of the mouse voltage-gated proton channel (
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGGSHHHHHHHHGENLYFQGLESTPRQSLD</span><span class="topo-outside">FRSRLRKLFS</span><span class="topo-unknown">S</span><span class="topo-outside">HRF</span><span class="topo-membrane">QVIIICLVVLDALLVL</span></span>
-<span class="topo-line"><span class="topo-membrane">AELL</span><span class="topo-inside">LDLK</span><span class="topo-unknown">IIEPDEQDYA</span><span class="topo-inside">VTAFHYM</span><span class="topo-membrane">SFAILVFFMLDLGLRIFAYG</span><span class="topo-unknown">PKN</span><span class="topo-outside">F</span><span class="topo-unknown">F</span><span class="topo-outside">TNP</span><span class="topo-membrane">WEVADGL</span></span>
-<span class="topo-line"><span class="topo-membrane">IVVVSFVLDLVLL</span><span class="topo-inside">F</span><span class="topo-unknown">KSHH</span><span class="topo-inside">FEA</span><span class="topo-membrane">LGLLILLRLWRVARIING</span><span class="topo-outside">IIISRMKQLEDKIEELLSKIY</span></span>
-<span class="topo-line"><span class="topo-outside">HLENEIARL</span><span class="topo-unknown">KKLIGER</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGGSHHHHHHHHGENLYFQGLESTPRQSLD</span><span class="topo-outside">FRSRLRKLFS</span><span class="topo-unknown">S</span><span class="topo-outside">HRF</span><span class="topo-membrane">QVIIICLVVLDALLVLAELL</span><span class="topo-inside">LDLK</span><span class="topo-unknown">IIEPDEQDYA</span><span class="topo-inside">VTAFHYM</span><span class="topo-membrane">SFAILVFFMLDLGLRIFAYG</span><span class="topo-unknown">PKN</span><span class="topo-outside">F</span><span class="topo-unknown">F</span><span class="topo-outside">TNP</span><span class="topo-membrane">WEVADGL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190      </span>
+<span class="topo-line"><span class="topo-membrane">IVVVSFVLDLVLL</span><span class="topo-inside">F</span><span class="topo-unknown">KSHH</span><span class="topo-inside">FEA</span><span class="topo-membrane">LGLLILLRLWRVARIING</span><span class="topo-outside">IIISRMKQLEDKIEELLSKIYHLENEIARL</span><span class="topo-unknown">KKLIGER</span></span>
+<details class="topo-details"><summary>Topology coordinates (20 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -422,6 +425,7 @@ mHv1cc is a crystallizable construct of the mouse voltage-gated proton channel (
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -437,10 +441,11 @@ mHv1cc is a crystallizable construct of the mouse voltage-gated proton channel (
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGGSHHHHHHHHGENLYFQGLESTPRQSLD</span><span class="topo-outside">FRSRLRKLFS</span><span class="topo-unknown">S</span><span class="topo-outside">HRF</span><span class="topo-membrane">QVIIICLVVLDALLVL</span></span>
-<span class="topo-line"><span class="topo-membrane">AELL</span><span class="topo-inside">LDLK</span><span class="topo-unknown">IIEPDEQDYA</span><span class="topo-inside">VTAFHYM</span><span class="topo-membrane">SFAILVFFMLDLGLRIFAYG</span><span class="topo-unknown">PKN</span><span class="topo-outside">F</span><span class="topo-unknown">F</span><span class="topo-outside">TNP</span><span class="topo-membrane">WEVADGL</span></span>
-<span class="topo-line"><span class="topo-membrane">IVVVSFVLDLVLL</span><span class="topo-inside">F</span><span class="topo-unknown">KSHH</span><span class="topo-inside">FEA</span><span class="topo-membrane">LGLLILLRLWRVARIING</span><span class="topo-outside">IIISRMKQLEDKIEELLSKIY</span></span>
-<span class="topo-line"><span class="topo-outside">HLENEIARL</span><span class="topo-unknown">KKLIGER</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGGSHHHHHHHHGENLYFQGLESTPRQSLD</span><span class="topo-outside">FRSRLRKLFS</span><span class="topo-unknown">S</span><span class="topo-outside">HRF</span><span class="topo-membrane">QVIIICLVVLDALLVLAELL</span><span class="topo-inside">LDLK</span><span class="topo-unknown">IIEPDEQDYA</span><span class="topo-inside">VTAFHYM</span><span class="topo-membrane">SFAILVFFMLDLGLRIFAYG</span><span class="topo-unknown">PKN</span><span class="topo-outside">F</span><span class="topo-unknown">F</span><span class="topo-outside">TNP</span><span class="topo-membrane">WEVADGL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190      </span>
+<span class="topo-line"><span class="topo-membrane">IVVVSFVLDLVLL</span><span class="topo-inside">F</span><span class="topo-unknown">KSHH</span><span class="topo-inside">FEA</span><span class="topo-membrane">LGLLILLRLWRVARIING</span><span class="topo-outside">IIISRMKQLEDKIEELLSKIYHLENEIARL</span><span class="topo-unknown">KKLIGER</span></span>
+<details class="topo-details"><summary>Topology coordinates (20 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -592,6 +597,7 @@ mHv1cc is a crystallizable construct of the mouse voltage-gated proton channel (
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

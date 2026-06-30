@@ -156,14 +156,15 @@ M1-StaR-[T4L](/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/) is a thermostabi
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">METV</span><span class="topo-membrane">EMVAIATVAGLLSLATVTGNILLML</span><span class="topo-outside">SIKVNRQLQTVNNY</span><span class="topo-membrane">FAFSLACADLIIGAFSM</span></span>
-<span class="topo-line"><span class="topo-membrane">NLYTVYII</span><span class="topo-inside">MGHWALGAL</span><span class="topo-membrane">ACDLALALDYVASNAAVMNLLLISF</span><span class="topo-outside">DRYFSVTRPLSYRAKRTP</span></span>
-<span class="topo-line"><span class="topo-outside">RRAL</span><span class="topo-membrane">LMIGLAWLVSFVLWAPAILFW</span><span class="topo-inside">QYLVGERTVLAGQC</span><span class="topo-membrane">YIQFLSQPIITFGTAMATFYL</span></span>
-<span class="topo-line"><span class="topo-membrane">PVTVMCTLYW</span><span class="topo-outside">RIYRETENRANIFEMLRIDEGLRLKIYKDTEGYYTIGIGHLLTKSPSLNA</span></span>
-<span class="topo-line"><span class="topo-outside">AKSELDKAIGRNTNGVITKDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALIN</span></span>
-<span class="topo-line"><span class="topo-outside">MVFQMGETGVAGFTNSLRMLQQKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWDAY</span></span>
-<span class="topo-line"><span class="topo-outside">TFSLVKEKAALRT</span><span class="topo-membrane">LSAILLAFILTWTPYNIMVLVSTF</span><span class="topo-inside">CKDCVPE</span><span class="topo-membrane">TLWELGYWLCYVNATI</span></span>
-<span class="topo-line"><span class="topo-membrane">NPMCYAL</span><span class="topo-outside">CNKAFRDTFRLLLLARWDH</span><span class="topo-unknown">HHHHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">METV</span><span class="topo-membrane">EMVAIATVAGLLSLATVTGNILLML</span><span class="topo-outside">SIKVNRQLQTVNNY</span><span class="topo-membrane">FAFSLACADLIIGAFSMNLYTVYII</span><span class="topo-inside">MGHWALGAL</span><span class="topo-membrane">ACDLALALDYVASNAAVMNLLLISF</span><span class="topo-outside">DRYFSVTRPLSYRAKRTP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">RRAL</span><span class="topo-membrane">LMIGLAWLVSFVLWAPAILFW</span><span class="topo-inside">QYLVGERTVLAGQC</span><span class="topo-membrane">YIQFLSQPIITFGTAMATFYLPVTVMCTLYW</span><span class="topo-outside">RIYRETENRANIFEMLRIDEGLRLKIYKDTEGYYTIGIGHLLTKSPSLNA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">AKSELDKAIGRNTNGVITKDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVFQMGETGVAGFTNSLRMLQQKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWDAY</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450     </span>
+<span class="topo-line"><span class="topo-outside">TFSLVKEKAALRT</span><span class="topo-membrane">LSAILLAFILTWTPYNIMVLVSTF</span><span class="topo-inside">CKDCVPE</span><span class="topo-membrane">TLWELGYWLCYVNATINPMCYAL</span><span class="topo-outside">CNKAFRDTFRLLLLARWDH</span><span class="topo-unknown">HHHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -301,6 +302,7 @@ M1-StaR-[T4L](/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/) is a thermostabi
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -316,14 +318,15 @@ M1-StaR-[T4L](/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/) is a thermostabi
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">METVEMV</span><span class="topo-membrane">AIATVAGLLSLATVTGNILLMLSIKV</span><span class="topo-inside">NRQLQTVNN</span><span class="topo-membrane">YFAFSLACADLIIGAFSM</span></span>
-<span class="topo-line"><span class="topo-membrane">NLYTVYI</span><span class="topo-outside">IMGHWALGAL</span><span class="topo-membrane">ACDLALALDYVASNAAVMNLLLISF</span><span class="topo-inside">DRYFSVTRPLSYRAKRTP</span></span>
-<span class="topo-line"><span class="topo-inside">RRA</span><span class="topo-membrane">LLMIGLAWLVSFVLWAPAILFWQYL</span><span class="topo-outside">VGERTVLAGQCYIQFL</span><span class="topo-membrane">SQPIITFGTAMATFYL</span></span>
-<span class="topo-line"><span class="topo-membrane">PVTVMCTLY</span><span class="topo-inside">WRIYRETENRANIFEMLRIDEGLRLKIYKDTEGYYTIGIGHLLTKSPSLNA</span></span>
-<span class="topo-line"><span class="topo-inside">AKSELDKAIGRNTNGVITKDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALIN</span></span>
-<span class="topo-line"><span class="topo-inside">MVFQMGETGVAGFTNSLRMLQQKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWDAY</span></span>
-<span class="topo-line"><span class="topo-inside">TFSLVKEKAALRT</span><span class="topo-membrane">LSAILLAFILTWTPYNIMVLVSTFC</span><span class="topo-outside">KDCVPET</span><span class="topo-membrane">LWELGYWLCYVNATI</span></span>
-<span class="topo-line"><span class="topo-membrane">NPMCYALC</span><span class="topo-inside">NKAF</span><span class="topo-unknown">RDTFRLLLLARWDHHHHHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">METVEMV</span><span class="topo-membrane">AIATVAGLLSLATVTGNILLMLSIKV</span><span class="topo-inside">NRQLQTVNN</span><span class="topo-membrane">YFAFSLACADLIIGAFSMNLYTVYI</span><span class="topo-outside">IMGHWALGAL</span><span class="topo-membrane">ACDLALALDYVASNAAVMNLLLISF</span><span class="topo-inside">DRYFSVTRPLSYRAKRTP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">RRA</span><span class="topo-membrane">LLMIGLAWLVSFVLWAPAILFWQYL</span><span class="topo-outside">VGERTVLAGQCYIQFL</span><span class="topo-membrane">SQPIITFGTAMATFYLPVTVMCTLY</span><span class="topo-inside">WRIYRETENRANIFEMLRIDEGLRLKIYKDTEGYYTIGIGHLLTKSPSLNA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">AKSELDKAIGRNTNGVITKDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVFQMGETGVAGFTNSLRMLQQKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWDAY</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450     </span>
+<span class="topo-line"><span class="topo-inside">TFSLVKEKAALRT</span><span class="topo-membrane">LSAILLAFILTWTPYNIMVLVSTFC</span><span class="topo-outside">KDCVPET</span><span class="topo-membrane">LWELGYWLCYVNATINPMCYALC</span><span class="topo-inside">NKAF</span><span class="topo-unknown">RDTFRLLLLARWDHHHHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -447,6 +450,7 @@ M1-StaR-[T4L](/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/) is a thermostabi
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -462,14 +466,15 @@ M1-StaR-[T4L](/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/) is a thermostabi
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">METV</span><span class="topo-membrane">EMVAIATVAGLLSLATVTGNILLM</span><span class="topo-inside">LSIKVNRQLQTVNNYF</span><span class="topo-membrane">AFSLACADLIIGAFSM</span></span>
-<span class="topo-line"><span class="topo-membrane">NLYTVYII</span><span class="topo-outside">MGHWAL</span><span class="topo-membrane">GALACDLALALDYVASNAAVMNLLLIS</span><span class="topo-inside">FDRYFSVTRPLSYRAKRTP</span></span>
-<span class="topo-line"><span class="topo-inside">RRALLM</span><span class="topo-membrane">IGLAWLVSFVLWAPAILFW</span><span class="topo-outside">QYLVGERTVLAGQC</span><span class="topo-membrane">YIQFLSQPIITFGTAMATFYL</span></span>
-<span class="topo-line"><span class="topo-membrane">PVTVMCTLY</span><span class="topo-inside">WRIYRETENRANIFEMLRIDEGLRLKIYKDTEGYYTIGIGHLLTKSPSLNA</span></span>
-<span class="topo-line"><span class="topo-inside">AKSELDKAIGRNTNGVITKDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALIN</span></span>
-<span class="topo-line"><span class="topo-inside">MVFQMGETGVAGFTNSLRMLQQKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWDAY</span></span>
-<span class="topo-line"><span class="topo-inside">TFSLVKEKAALRTL</span><span class="topo-membrane">SAILLAFILTWTPYNIMVLVSTF</span><span class="topo-outside">CKDCVPET</span><span class="topo-membrane">LWELGYWLCYVNATI</span></span>
-<span class="topo-line"><span class="topo-membrane">NPMC</span><span class="topo-inside">YALCN</span><span class="topo-unknown">KAFRDTFRLLLLARW</span><span class="topo-inside">DH</span><span class="topo-unknown">HHHHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">METV</span><span class="topo-membrane">EMVAIATVAGLLSLATVTGNILLM</span><span class="topo-inside">LSIKVNRQLQTVNNYF</span><span class="topo-membrane">AFSLACADLIIGAFSMNLYTVYII</span><span class="topo-outside">MGHWAL</span><span class="topo-membrane">GALACDLALALDYVASNAAVMNLLLIS</span><span class="topo-inside">FDRYFSVTRPLSYRAKRTP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">RRALLM</span><span class="topo-membrane">IGLAWLVSFVLWAPAILFW</span><span class="topo-outside">QYLVGERTVLAGQC</span><span class="topo-membrane">YIQFLSQPIITFGTAMATFYLPVTVMCTLY</span><span class="topo-inside">WRIYRETENRANIFEMLRIDEGLRLKIYKDTEGYYTIGIGHLLTKSPSLNA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">AKSELDKAIGRNTNGVITKDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVFQMGETGVAGFTNSLRMLQQKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWDAY</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450     </span>
+<span class="topo-line"><span class="topo-inside">TFSLVKEKAALRTL</span><span class="topo-membrane">SAILLAFILTWTPYNIMVLVSTF</span><span class="topo-outside">CKDCVPET</span><span class="topo-membrane">LWELGYWLCYVNATINPMC</span><span class="topo-inside">YALCN</span><span class="topo-unknown">KAFRDTFRLLLLARW</span><span class="topo-inside">DH</span><span class="topo-unknown">HHHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -600,6 +605,7 @@ M1-StaR-[T4L](/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/) is a thermostabi
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

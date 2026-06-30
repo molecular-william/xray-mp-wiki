@@ -216,10 +216,11 @@ BcXeR is a light-driven inward proton pump (xenorhodopsin) from Bacillus coahuil
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">?ISI</span><span class="topo-membrane">LHYGYSFIMLLGALYF</span><span class="topo-outside">YLLSKDPKGVPASEYLI</span><span class="topo-membrane">AMVIPLWSGAAYLSIA</span><span class="topo-inside">LGQGLFQ</span></span>
-<span class="topo-line"><span class="topo-inside">YDDTTIYY</span><span class="topo-membrane">ARYIDWVISTPLLLA</span><span class="topo-outside">ALALTAMFGGKKNLTLLF</span><span class="topo-membrane">SLVALDVFMIITGFVA</span><span class="topo-inside">DLS</span></span>
-<span class="topo-line"><span class="topo-inside">IGTTKY</span><span class="topo-membrane">IWYSLGVIALIIILV</span><span class="topo-outside">ITFGPLRRIALSNGTRLARHYTRVAI</span><span class="topo-membrane">YLSALWVCYPTAW</span></span>
-<span class="topo-line"><span class="topo-membrane">LL</span><span class="topo-inside">GPSGLGLAQELTE</span><span class="topo-membrane">VLVFIILPIFS?VGFSI</span><span class="topo-outside">VDLHGLRKLHQS</span><span class="topo-unknown">SYVHN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">?ISI</span><span class="topo-membrane">LHYGYSFIMLLGALYF</span><span class="topo-outside">YLLSKDPKGVPASEYLI</span><span class="topo-membrane">AMVIPLWSGAAYLSIA</span><span class="topo-inside">LGQGLFQYDDTTIYY</span><span class="topo-membrane">ARYIDWVISTPLLLA</span><span class="topo-outside">ALALTAMFGGKKNLTLLF</span><span class="topo-membrane">SLVALDVFMIITGFVA</span><span class="topo-inside">DLS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220         </span>
+<span class="topo-line"><span class="topo-inside">IGTTKY</span><span class="topo-membrane">IWYSLGVIALIIILV</span><span class="topo-outside">ITFGPLRRIALSNGTRLARHYTRVAI</span><span class="topo-membrane">YLSALWVCYPTAWLL</span><span class="topo-inside">GPSGLGLAQELTE</span><span class="topo-membrane">VLVFIILPIFS?VGFSI</span><span class="topo-outside">VDLHGLRKLHQS</span><span class="topo-unknown">SYVHN</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -343,6 +344,7 @@ BcXeR is a light-driven inward proton pump (xenorhodopsin) from Bacillus coahuil
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -358,10 +360,11 @@ BcXeR is a light-driven inward proton pump (xenorhodopsin) from Bacillus coahuil
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">?ISIL</span><span class="topo-membrane">HYGYSFIMLLGALYFY</span><span class="topo-outside">LLSKDPKGVPASEYL</span><span class="topo-membrane">IAMVIPLWSGAAYLS</span><span class="topo-inside">IALGQGLFQ</span></span>
-<span class="topo-line"><span class="topo-inside">Y</span><span class="topo-unknown">DD</span><span class="topo-inside">TTIYY</span><span class="topo-membrane">ARYIDWVISTPLLLA</span><span class="topo-outside">ALALTAMFGGKKNLTLLF</span><span class="topo-membrane">SLVALDVFMIITGFVA</span><span class="topo-inside">DLS</span></span>
-<span class="topo-line"><span class="topo-inside">IGTTKY</span><span class="topo-membrane">IWYSLGVIALIIILV</span><span class="topo-outside">ITFGPLRRIALSNGTRLARHYTRVAI</span><span class="topo-membrane">YLSALWVCYPTAW</span></span>
-<span class="topo-line"><span class="topo-membrane">LL</span><span class="topo-inside">GPSGLGLAQELTE</span><span class="topo-membrane">VLVFIILPIFS?VGFSI</span><span class="topo-outside">VDLHGLRKLHQ</span><span class="topo-unknown">SSYVHN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">?ISIL</span><span class="topo-membrane">HYGYSFIMLLGALYFY</span><span class="topo-outside">LLSKDPKGVPASEYL</span><span class="topo-membrane">IAMVIPLWSGAAYLS</span><span class="topo-inside">IALGQGLFQY</span><span class="topo-unknown">DD</span><span class="topo-inside">TTIYY</span><span class="topo-membrane">ARYIDWVISTPLLLA</span><span class="topo-outside">ALALTAMFGGKKNLTLLF</span><span class="topo-membrane">SLVALDVFMIITGFVA</span><span class="topo-inside">DLS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220         </span>
+<span class="topo-line"><span class="topo-inside">IGTTKY</span><span class="topo-membrane">IWYSLGVIALIIILV</span><span class="topo-outside">ITFGPLRRIALSNGTRLARHYTRVAI</span><span class="topo-membrane">YLSALWVCYPTAWLL</span><span class="topo-inside">GPSGLGLAQELTE</span><span class="topo-membrane">VLVFIILPIFS?VGFSI</span><span class="topo-outside">VDLHGLRKLHQ</span><span class="topo-unknown">SSYVHN</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -499,6 +502,7 @@ BcXeR is a light-driven inward proton pump (xenorhodopsin) from Bacillus coahuil
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -514,10 +518,11 @@ BcXeR is a light-driven inward proton pump (xenorhodopsin) from Bacillus coahuil
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">?ISIL</span><span class="topo-membrane">HYGYSFIMLLGALYFY</span><span class="topo-outside">LLSKDPKGVPASEYL</span><span class="topo-membrane">IAMVIPLWSGAAYLS</span><span class="topo-inside">IALGQGLFQ</span></span>
-<span class="topo-line"><span class="topo-inside">Y</span><span class="topo-unknown">DD</span><span class="topo-inside">TTIYY</span><span class="topo-membrane">ARYIDWVISTPLLLA</span><span class="topo-outside">ALALTAMFGGKKNLTLLF</span><span class="topo-membrane">SLVALDVFMIITGFVA</span><span class="topo-inside">DLS</span></span>
-<span class="topo-line"><span class="topo-inside">IGTTKY</span><span class="topo-membrane">IWYSLGVIALIIILV</span><span class="topo-outside">ITFGPLRRIALSNGTRLARHYTRVA</span><span class="topo-membrane">IYLSALWVCYPTAW</span></span>
-<span class="topo-line"><span class="topo-membrane">L</span><span class="topo-inside">LGPSGLGLAQELTE</span><span class="topo-membrane">VLVFIILPIFS?VGFSI</span><span class="topo-outside">VDLHGLRKLHQS</span><span class="topo-unknown">SYVHN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">?ISIL</span><span class="topo-membrane">HYGYSFIMLLGALYFY</span><span class="topo-outside">LLSKDPKGVPASEYL</span><span class="topo-membrane">IAMVIPLWSGAAYLS</span><span class="topo-inside">IALGQGLFQY</span><span class="topo-unknown">DD</span><span class="topo-inside">TTIYY</span><span class="topo-membrane">ARYIDWVISTPLLLA</span><span class="topo-outside">ALALTAMFGGKKNLTLLF</span><span class="topo-membrane">SLVALDVFMIITGFVA</span><span class="topo-inside">DLS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220         </span>
+<span class="topo-line"><span class="topo-inside">IGTTKY</span><span class="topo-membrane">IWYSLGVIALIIILV</span><span class="topo-outside">ITFGPLRRIALSNGTRLARHYTRVA</span><span class="topo-membrane">IYLSALWVCYPTAWL</span><span class="topo-inside">LGPSGLGLAQELTE</span><span class="topo-membrane">VLVFIILPIFS?VGFSI</span><span class="topo-outside">VDLHGLRKLHQS</span><span class="topo-unknown">SYVHN</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -655,6 +660,7 @@ BcXeR is a light-driven inward proton pump (xenorhodopsin) from Bacillus coahuil
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -670,10 +676,11 @@ BcXeR is a light-driven inward proton pump (xenorhodopsin) from Bacillus coahuil
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">?ISI</span><span class="topo-membrane">LHYGYSFIMLLGALYF</span><span class="topo-outside">YLLSKDPKGVPASEYLI</span><span class="topo-membrane">AMVIPLWSGAAYLSIA</span><span class="topo-inside">LGQGLFQ</span></span>
-<span class="topo-line"><span class="topo-inside">YDDTTIYY</span><span class="topo-membrane">ARYIDWVISTPLLL</span><span class="topo-outside">AALALTAMFGGKKNLTLLF</span><span class="topo-membrane">SLVALDVFMIITGFVA</span><span class="topo-inside">DLS</span></span>
-<span class="topo-line"><span class="topo-inside">IGTTKY</span><span class="topo-membrane">IWYSLGVIALIIILV</span><span class="topo-outside">ITFGPLRRIALSNGTRLARHYTRVAI</span><span class="topo-membrane">YLSALWVCYPTAW</span></span>
-<span class="topo-line"><span class="topo-membrane">LL</span><span class="topo-inside">GPSGLGLAQELT</span><span class="topo-membrane">EVLVFIILPIFS?VGFSI</span><span class="topo-outside">VDLHGLRKLH</span><span class="topo-unknown">QSSYVHN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">?ISI</span><span class="topo-membrane">LHYGYSFIMLLGALYF</span><span class="topo-outside">YLLSKDPKGVPASEYLI</span><span class="topo-membrane">AMVIPLWSGAAYLSIA</span><span class="topo-inside">LGQGLFQYDDTTIYY</span><span class="topo-membrane">ARYIDWVISTPLLL</span><span class="topo-outside">AALALTAMFGGKKNLTLLF</span><span class="topo-membrane">SLVALDVFMIITGFVA</span><span class="topo-inside">DLS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220         </span>
+<span class="topo-line"><span class="topo-inside">IGTTKY</span><span class="topo-membrane">IWYSLGVIALIIILV</span><span class="topo-outside">ITFGPLRRIALSNGTRLARHYTRVAI</span><span class="topo-membrane">YLSALWVCYPTAWLL</span><span class="topo-inside">GPSGLGLAQELT</span><span class="topo-membrane">EVLVFIILPIFS?VGFSI</span><span class="topo-outside">VDLHGLRKLH</span><span class="topo-unknown">QSSYVHN</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -797,6 +804,7 @@ BcXeR is a light-driven inward proton pump (xenorhodopsin) from Bacillus coahuil
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -812,10 +820,11 @@ BcXeR is a light-driven inward proton pump (xenorhodopsin) from Bacillus coahuil
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">?ISIL</span><span class="topo-membrane">HYGYSFIMLLGALYFY</span><span class="topo-outside">LLSKDPKGVPASEYLI</span><span class="topo-membrane">AMVIPLWSGAAYLSI</span><span class="topo-inside">ALGQGLFQ</span></span>
-<span class="topo-line"><span class="topo-unknown">YDD</span><span class="topo-inside">TTIYY</span><span class="topo-membrane">ARYIDWVISTPLLLA</span><span class="topo-outside">ALALTAMFGGKKNLTLLF</span><span class="topo-membrane">SLVALDVFMIITGFVA</span><span class="topo-inside">DLS</span></span>
-<span class="topo-line"><span class="topo-inside">IGTTKY</span><span class="topo-membrane">IWYSLGVIALIIILV</span><span class="topo-outside">ITFGPLRRIALSNGTRLARHYTRVAI</span><span class="topo-membrane">YLSALWVCYPTAW</span></span>
-<span class="topo-line"><span class="topo-membrane">LL</span><span class="topo-inside">GPSGLGLAQELTE</span><span class="topo-membrane">VLVFIILPIFS?VGFSI</span><span class="topo-outside">VDLHGLRKLH</span><span class="topo-unknown">QSSYVHN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">?ISIL</span><span class="topo-membrane">HYGYSFIMLLGALYFY</span><span class="topo-outside">LLSKDPKGVPASEYLI</span><span class="topo-membrane">AMVIPLWSGAAYLSI</span><span class="topo-inside">ALGQGLFQ</span><span class="topo-unknown">YDD</span><span class="topo-inside">TTIYY</span><span class="topo-membrane">ARYIDWVISTPLLLA</span><span class="topo-outside">ALALTAMFGGKKNLTLLF</span><span class="topo-membrane">SLVALDVFMIITGFVA</span><span class="topo-inside">DLS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220         </span>
+<span class="topo-line"><span class="topo-inside">IGTTKY</span><span class="topo-membrane">IWYSLGVIALIIILV</span><span class="topo-outside">ITFGPLRRIALSNGTRLARHYTRVAI</span><span class="topo-membrane">YLSALWVCYPTAWLL</span><span class="topo-inside">GPSGLGLAQELTE</span><span class="topo-membrane">VLVFIILPIFS?VGFSI</span><span class="topo-outside">VDLHGLRKLH</span><span class="topo-unknown">QSSYVHN</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -953,6 +962,7 @@ BcXeR is a light-driven inward proton pump (xenorhodopsin) from Bacillus coahuil
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -968,10 +978,11 @@ BcXeR is a light-driven inward proton pump (xenorhodopsin) from Bacillus coahuil
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">?ISI</span><span class="topo-membrane">LHYGYSFIMLLGALYF</span><span class="topo-outside">YLLSKDPKGVPASEYLI</span><span class="topo-membrane">AMVIPLWSGAAYLSIA</span><span class="topo-inside">LGQGLFQ</span></span>
-<span class="topo-line"><span class="topo-inside">Y</span><span class="topo-unknown">DD</span><span class="topo-inside">TTIYY</span><span class="topo-membrane">ARYIDWVISTPLLL</span><span class="topo-outside">AALALTAMFGGKKNLTLLF</span><span class="topo-membrane">SLVALDVFMIITGFVA</span><span class="topo-inside">DLS</span></span>
-<span class="topo-line"><span class="topo-inside">IGTTKY</span><span class="topo-membrane">IWYSLGVIALIIILV</span><span class="topo-outside">ITFGPLRRIALSNGTRLARHYTRVAI</span><span class="topo-membrane">YLSALWVCYPTAW</span></span>
-<span class="topo-line"><span class="topo-membrane">LL</span><span class="topo-inside">GPSGLGLAQELTE</span><span class="topo-membrane">VLVFIILPIFS?VGFSI</span><span class="topo-outside">VDLHGLRKLHQS</span><span class="topo-unknown">SYVHN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">?ISI</span><span class="topo-membrane">LHYGYSFIMLLGALYF</span><span class="topo-outside">YLLSKDPKGVPASEYLI</span><span class="topo-membrane">AMVIPLWSGAAYLSIA</span><span class="topo-inside">LGQGLFQY</span><span class="topo-unknown">DD</span><span class="topo-inside">TTIYY</span><span class="topo-membrane">ARYIDWVISTPLLL</span><span class="topo-outside">AALALTAMFGGKKNLTLLF</span><span class="topo-membrane">SLVALDVFMIITGFVA</span><span class="topo-inside">DLS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220         </span>
+<span class="topo-line"><span class="topo-inside">IGTTKY</span><span class="topo-membrane">IWYSLGVIALIIILV</span><span class="topo-outside">ITFGPLRRIALSNGTRLARHYTRVAI</span><span class="topo-membrane">YLSALWVCYPTAWLL</span><span class="topo-inside">GPSGLGLAQELTE</span><span class="topo-membrane">VLVFIILPIFS?VGFSI</span><span class="topo-outside">VDLHGLRKLHQS</span><span class="topo-unknown">SYVHN</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1109,6 +1120,7 @@ BcXeR is a light-driven inward proton pump (xenorhodopsin) from Bacillus coahuil
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1124,10 +1136,11 @@ BcXeR is a light-driven inward proton pump (xenorhodopsin) from Bacillus coahuil
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">?ISIL</span><span class="topo-membrane">HYGYSFIMLLGALYF</span><span class="topo-outside">YLLSKDPKGVPASEYLI</span><span class="topo-membrane">AMVIPLWSGAAYLSI</span><span class="topo-inside">ALGQGLFQ</span></span>
-<span class="topo-line"><span class="topo-inside">YDDTTIYY</span><span class="topo-membrane">ARYIDWVISTPLLL</span><span class="topo-outside">AALALTAMFGGKKNLTLLF</span><span class="topo-membrane">SLVALDVFMIITGFVA</span><span class="topo-inside">DLS</span></span>
-<span class="topo-line"><span class="topo-inside">IGTTKY</span><span class="topo-membrane">IWYSLGVIALIIILV</span><span class="topo-outside">ITFGPLRRIALSNGTRLARHYTRVAI</span><span class="topo-membrane">YLSALWVCYPTAW</span></span>
-<span class="topo-line"><span class="topo-membrane">LL</span><span class="topo-inside">GPSGLGLAQELTE</span><span class="topo-membrane">VLVFIILPIFS?VGFS</span><span class="topo-outside">IVDLHGLRKLHQ</span><span class="topo-unknown">SSYVHN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">?ISIL</span><span class="topo-membrane">HYGYSFIMLLGALYF</span><span class="topo-outside">YLLSKDPKGVPASEYLI</span><span class="topo-membrane">AMVIPLWSGAAYLSI</span><span class="topo-inside">ALGQGLFQYDDTTIYY</span><span class="topo-membrane">ARYIDWVISTPLLL</span><span class="topo-outside">AALALTAMFGGKKNLTLLF</span><span class="topo-membrane">SLVALDVFMIITGFVA</span><span class="topo-inside">DLS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220         </span>
+<span class="topo-line"><span class="topo-inside">IGTTKY</span><span class="topo-membrane">IWYSLGVIALIIILV</span><span class="topo-outside">ITFGPLRRIALSNGTRLARHYTRVAI</span><span class="topo-membrane">YLSALWVCYPTAWLL</span><span class="topo-inside">GPSGLGLAQELTE</span><span class="topo-membrane">VLVFIILPIFS?VGFS</span><span class="topo-outside">IVDLHGLRKLHQ</span><span class="topo-unknown">SSYVHN</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1251,6 +1264,7 @@ BcXeR is a light-driven inward proton pump (xenorhodopsin) from Bacillus coahuil
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1266,10 +1280,11 @@ BcXeR is a light-driven inward proton pump (xenorhodopsin) from Bacillus coahuil
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">?ISIL</span><span class="topo-membrane">HYGYSFIMLLGALYFY</span><span class="topo-outside">LLSKDPKGVPASEYL</span><span class="topo-membrane">IAMVIPLWSGAAYLS</span><span class="topo-inside">IALGQGLFQ</span></span>
-<span class="topo-line"><span class="topo-unknown">YDD</span><span class="topo-inside">TTIYY</span><span class="topo-membrane">ARYIDWVISTPLLLA</span><span class="topo-outside">ALALTAMFGGKKNLTLLF</span><span class="topo-membrane">SLVALDVFMIITGFVA</span><span class="topo-inside">DLS</span></span>
-<span class="topo-line"><span class="topo-inside">IGTTKY</span><span class="topo-membrane">IWYSLGVIALIIILV</span><span class="topo-outside">ITFGPLRRIALSNGTRLARHYTRVAI</span><span class="topo-membrane">YLSALWVCYPTAW</span></span>
-<span class="topo-line"><span class="topo-membrane">L</span><span class="topo-inside">LGPSGLGLAQELTE</span><span class="topo-membrane">VLVFIILPIFS?VGFSI</span><span class="topo-outside">VDLHGLRKLHQ</span><span class="topo-unknown">SSYVHN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">?ISIL</span><span class="topo-membrane">HYGYSFIMLLGALYFY</span><span class="topo-outside">LLSKDPKGVPASEYL</span><span class="topo-membrane">IAMVIPLWSGAAYLS</span><span class="topo-inside">IALGQGLFQ</span><span class="topo-unknown">YDD</span><span class="topo-inside">TTIYY</span><span class="topo-membrane">ARYIDWVISTPLLLA</span><span class="topo-outside">ALALTAMFGGKKNLTLLF</span><span class="topo-membrane">SLVALDVFMIITGFVA</span><span class="topo-inside">DLS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220         </span>
+<span class="topo-line"><span class="topo-inside">IGTTKY</span><span class="topo-membrane">IWYSLGVIALIIILV</span><span class="topo-outside">ITFGPLRRIALSNGTRLARHYTRVAI</span><span class="topo-membrane">YLSALWVCYPTAWL</span><span class="topo-inside">LGPSGLGLAQELTE</span><span class="topo-membrane">VLVFIILPIFS?VGFSI</span><span class="topo-outside">VDLHGLRKLHQ</span><span class="topo-unknown">SSYVHN</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1407,6 +1422,7 @@ BcXeR is a light-driven inward proton pump (xenorhodopsin) from Bacillus coahuil
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1422,10 +1438,11 @@ BcXeR is a light-driven inward proton pump (xenorhodopsin) from Bacillus coahuil
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">?ISIL</span><span class="topo-membrane">HYGYSFIMLLGALYFY</span><span class="topo-outside">LLSKDPKGVPASEYLI</span><span class="topo-membrane">AMVIPLWSGAAYLS</span><span class="topo-inside">IALGQGLFQ</span></span>
-<span class="topo-line"><span class="topo-inside">Y</span><span class="topo-unknown">D</span><span class="topo-inside">DTTIYY</span><span class="topo-membrane">ARYIDWVISTPLLLA</span><span class="topo-outside">ALALTAMFGGKKNLTLLF</span><span class="topo-membrane">SLVALDVFMIITGFVA</span><span class="topo-inside">DLS</span></span>
-<span class="topo-line"><span class="topo-inside">IGTTKY</span><span class="topo-membrane">IWYSLGVIALIIILV</span><span class="topo-outside">ITFGPLRRIALSNGTRLARHYTRVAI</span><span class="topo-membrane">YLSALWVCYPTAW</span></span>
-<span class="topo-line"><span class="topo-membrane">L</span><span class="topo-inside">LGPSGLGLAQELTEVL</span><span class="topo-membrane">VFIILPIFS?VGFSI</span><span class="topo-outside">VDLHGLRKLHQS</span><span class="topo-unknown">SYVHN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">?ISIL</span><span class="topo-membrane">HYGYSFIMLLGALYFY</span><span class="topo-outside">LLSKDPKGVPASEYLI</span><span class="topo-membrane">AMVIPLWSGAAYLS</span><span class="topo-inside">IALGQGLFQY</span><span class="topo-unknown">D</span><span class="topo-inside">DTTIYY</span><span class="topo-membrane">ARYIDWVISTPLLLA</span><span class="topo-outside">ALALTAMFGGKKNLTLLF</span><span class="topo-membrane">SLVALDVFMIITGFVA</span><span class="topo-inside">DLS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220         </span>
+<span class="topo-line"><span class="topo-inside">IGTTKY</span><span class="topo-membrane">IWYSLGVIALIIILV</span><span class="topo-outside">ITFGPLRRIALSNGTRLARHYTRVAI</span><span class="topo-membrane">YLSALWVCYPTAWL</span><span class="topo-inside">LGPSGLGLAQELTEVL</span><span class="topo-membrane">VFIILPIFS?VGFSI</span><span class="topo-outside">VDLHGLRKLHQS</span><span class="topo-unknown">SYVHN</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1563,6 +1580,7 @@ BcXeR is a light-driven inward proton pump (xenorhodopsin) from Bacillus coahuil
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1578,10 +1596,11 @@ BcXeR is a light-driven inward proton pump (xenorhodopsin) from Bacillus coahuil
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">?ISI</span><span class="topo-membrane">LHYGYSFIMLLGALYFYLL</span><span class="topo-outside">SKDPKGVPAS</span><span class="topo-membrane">EYLIAMVIPLWSGAAYLSI</span><span class="topo-inside">ALGQGLFQ</span></span>
-<span class="topo-line"><span class="topo-inside">YDDTTIYY</span><span class="topo-membrane">ARYIDWVISTPLLLAALA</span><span class="topo-outside">LTAMFGGKKNLT</span><span class="topo-membrane">LLFSLVALDVFMIITGFVA</span><span class="topo-inside">DLS</span></span>
-<span class="topo-line"><span class="topo-inside">IGTTKY</span><span class="topo-membrane">IWYSLGVIALIIILVITFG</span><span class="topo-outside">PLRRIALSNGTRLARHYTR</span><span class="topo-membrane">VAIYLSALWVCYPTAW</span></span>
-<span class="topo-line"><span class="topo-membrane">LL</span><span class="topo-inside">GPSGLGLAQELTE</span><span class="topo-membrane">VLVFIILPIFS?VGFSIVD</span><span class="topo-outside">LHGLRKLHQS</span><span class="topo-unknown">SYVHN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">?ISI</span><span class="topo-membrane">LHYGYSFIMLLGALYFYLL</span><span class="topo-outside">SKDPKGVPAS</span><span class="topo-membrane">EYLIAMVIPLWSGAAYLSI</span><span class="topo-inside">ALGQGLFQYDDTTIYY</span><span class="topo-membrane">ARYIDWVISTPLLLAALA</span><span class="topo-outside">LTAMFGGKKNLT</span><span class="topo-membrane">LLFSLVALDVFMIITGFVA</span><span class="topo-inside">DLS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220         </span>
+<span class="topo-line"><span class="topo-inside">IGTTKY</span><span class="topo-membrane">IWYSLGVIALIIILVITFG</span><span class="topo-outside">PLRRIALSNGTRLARHYTR</span><span class="topo-membrane">VAIYLSALWVCYPTAWLL</span><span class="topo-inside">GPSGLGLAQELTE</span><span class="topo-membrane">VLVFIILPIFS?VGFSIVD</span><span class="topo-outside">LHGLRKLHQS</span><span class="topo-unknown">SYVHN</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1705,6 +1724,7 @@ BcXeR is a light-driven inward proton pump (xenorhodopsin) from Bacillus coahuil
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1720,10 +1740,11 @@ BcXeR is a light-driven inward proton pump (xenorhodopsin) from Bacillus coahuil
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">?ISIL</span><span class="topo-membrane">HYGYSFIMLLGALYFYLLS</span><span class="topo-outside">KDPKGVPAS</span><span class="topo-membrane">EYLIAMVIPLWSGAAYLS</span><span class="topo-inside">IALGQGLFQ</span></span>
-<span class="topo-line"><span class="topo-inside">Y</span><span class="topo-unknown">DD</span><span class="topo-inside">TTIYY</span><span class="topo-membrane">ARYIDWVISTPLLLAALA</span><span class="topo-outside">LTAMFGGKKNLT</span><span class="topo-membrane">LLFSLVALDVFMIITGFVA</span><span class="topo-inside">DLS</span></span>
-<span class="topo-line"><span class="topo-inside">IGTTKY</span><span class="topo-membrane">IWYSLGVIALIIILVITFG</span><span class="topo-outside">PLRRIALSNGTRLARHYTR</span><span class="topo-membrane">VAIYLSALWVCYPTAW</span></span>
-<span class="topo-line"><span class="topo-membrane">L</span><span class="topo-inside">LGPSGLGLAQELTE</span><span class="topo-membrane">VLVFIILPIFS?VGFSIVDL</span><span class="topo-outside">HGLRKLHQ</span><span class="topo-unknown">SSYVHN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">?ISIL</span><span class="topo-membrane">HYGYSFIMLLGALYFYLLS</span><span class="topo-outside">KDPKGVPAS</span><span class="topo-membrane">EYLIAMVIPLWSGAAYLS</span><span class="topo-inside">IALGQGLFQY</span><span class="topo-unknown">DD</span><span class="topo-inside">TTIYY</span><span class="topo-membrane">ARYIDWVISTPLLLAALA</span><span class="topo-outside">LTAMFGGKKNLT</span><span class="topo-membrane">LLFSLVALDVFMIITGFVA</span><span class="topo-inside">DLS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220         </span>
+<span class="topo-line"><span class="topo-inside">IGTTKY</span><span class="topo-membrane">IWYSLGVIALIIILVITFG</span><span class="topo-outside">PLRRIALSNGTRLARHYTR</span><span class="topo-membrane">VAIYLSALWVCYPTAWL</span><span class="topo-inside">LGPSGLGLAQELTE</span><span class="topo-membrane">VLVFIILPIFS?VGFSIVDL</span><span class="topo-outside">HGLRKLHQ</span><span class="topo-unknown">SSYVHN</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1861,6 +1882,7 @@ BcXeR is a light-driven inward proton pump (xenorhodopsin) from Bacillus coahuil
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1876,10 +1898,11 @@ BcXeR is a light-driven inward proton pump (xenorhodopsin) from Bacillus coahuil
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">?ISIL</span><span class="topo-membrane">HYGYSFIMLLGALYFYLLS</span><span class="topo-outside">KDPKGVPAS</span><span class="topo-membrane">EYLIAMVIPLWSGAAYLS</span><span class="topo-inside">IALGQGLFQ</span></span>
-<span class="topo-line"><span class="topo-inside">Y</span><span class="topo-unknown">DD</span><span class="topo-inside">TTIYY</span><span class="topo-membrane">ARYIDWVISTPLLLAALA</span><span class="topo-outside">LTAMFGGKKNLT</span><span class="topo-membrane">LLFSLVALDVFMIITGFVA</span><span class="topo-inside">DLS</span></span>
-<span class="topo-line"><span class="topo-inside">IGTTKY</span><span class="topo-membrane">IWYSLGVIALIIILVITFG</span><span class="topo-outside">PLRRIALSNGTRLARHYT</span><span class="topo-membrane">RVAIYLSALWVCYPTAW</span></span>
-<span class="topo-line"><span class="topo-membrane">L</span><span class="topo-inside">LGPSGLGLAQELTEV</span><span class="topo-membrane">LVFIILPIFS?VGFSIVDL</span><span class="topo-outside">HGLRKLHQS</span><span class="topo-unknown">SYVHN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">?ISIL</span><span class="topo-membrane">HYGYSFIMLLGALYFYLLS</span><span class="topo-outside">KDPKGVPAS</span><span class="topo-membrane">EYLIAMVIPLWSGAAYLS</span><span class="topo-inside">IALGQGLFQY</span><span class="topo-unknown">DD</span><span class="topo-inside">TTIYY</span><span class="topo-membrane">ARYIDWVISTPLLLAALA</span><span class="topo-outside">LTAMFGGKKNLT</span><span class="topo-membrane">LLFSLVALDVFMIITGFVA</span><span class="topo-inside">DLS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220         </span>
+<span class="topo-line"><span class="topo-inside">IGTTKY</span><span class="topo-membrane">IWYSLGVIALIIILVITFG</span><span class="topo-outside">PLRRIALSNGTRLARHYT</span><span class="topo-membrane">RVAIYLSALWVCYPTAWL</span><span class="topo-inside">LGPSGLGLAQELTEV</span><span class="topo-membrane">LVFIILPIFS?VGFSIVDL</span><span class="topo-outside">HGLRKLHQS</span><span class="topo-unknown">SYVHN</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2017,6 +2040,7 @@ BcXeR is a light-driven inward proton pump (xenorhodopsin) from Bacillus coahuil
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2032,10 +2056,11 @@ BcXeR is a light-driven inward proton pump (xenorhodopsin) from Bacillus coahuil
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">?ISIL</span><span class="topo-membrane">HYGYSFIMLLGALY</span><span class="topo-outside">FYLLSKDPKGVPASEYLI</span><span class="topo-membrane">AMVIPLWSGAAYLS</span><span class="topo-inside">IALGQGLFQ</span></span>
-<span class="topo-line"><span class="topo-inside">YDDTTIYYA</span><span class="topo-membrane">RYIDWVISTPLLL</span><span class="topo-outside">AALALTAMFGGKKNLTLLF</span><span class="topo-membrane">SLVALDVFMIITGFV</span><span class="topo-inside">ADLS</span></span>
-<span class="topo-line"><span class="topo-inside">IGTTKY</span><span class="topo-membrane">IWYSLGVIALIIILV</span><span class="topo-outside">ITFGPLRRIALSNGTRLARHYTRVAI</span><span class="topo-membrane">YLSALWVCYPTAW</span></span>
-<span class="topo-line"><span class="topo-membrane">L</span><span class="topo-inside">LGPSGLGLAQELTEV</span><span class="topo-membrane">LVFIILPIFS?VGFS</span><span class="topo-outside">IVDLHGLRKLHQ</span><span class="topo-unknown">SSYVHN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">?ISIL</span><span class="topo-membrane">HYGYSFIMLLGALY</span><span class="topo-outside">FYLLSKDPKGVPASEYLI</span><span class="topo-membrane">AMVIPLWSGAAYLS</span><span class="topo-inside">IALGQGLFQYDDTTIYYA</span><span class="topo-membrane">RYIDWVISTPLLL</span><span class="topo-outside">AALALTAMFGGKKNLTLLF</span><span class="topo-membrane">SLVALDVFMIITGFV</span><span class="topo-inside">ADLS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220         </span>
+<span class="topo-line"><span class="topo-inside">IGTTKY</span><span class="topo-membrane">IWYSLGVIALIIILV</span><span class="topo-outside">ITFGPLRRIALSNGTRLARHYTRVAI</span><span class="topo-membrane">YLSALWVCYPTAWL</span><span class="topo-inside">LGPSGLGLAQELTEV</span><span class="topo-membrane">LVFIILPIFS?VGFS</span><span class="topo-outside">IVDLHGLRKLHQ</span><span class="topo-unknown">SSYVHN</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2159,6 +2184,7 @@ BcXeR is a light-driven inward proton pump (xenorhodopsin) from Bacillus coahuil
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2174,10 +2200,11 @@ BcXeR is a light-driven inward proton pump (xenorhodopsin) from Bacillus coahuil
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">?ISIL</span><span class="topo-membrane">HYGYSFIMLLGALYFY</span><span class="topo-outside">LLSKDPKGVPASEYLI</span><span class="topo-membrane">AMVIPLWSGAAYLS</span><span class="topo-inside">IALGQGLFQ</span></span>
-<span class="topo-line"><span class="topo-unknown">YDD</span><span class="topo-inside">TTIYYA</span><span class="topo-membrane">RYIDWVISTPLLLA</span><span class="topo-outside">ALALTAMFGGKKNLTLLF</span><span class="topo-membrane">SLVALDVFMIITGFV</span><span class="topo-inside">ADLS</span></span>
-<span class="topo-line"><span class="topo-inside">IGTTKY</span><span class="topo-membrane">IWYSLGVIALIIILV</span><span class="topo-outside">ITFGPLRRIALSNGTRLARHYTRVAI</span><span class="topo-membrane">YLSALWVCYPTAW</span></span>
-<span class="topo-line"><span class="topo-membrane">L</span><span class="topo-inside">LGPSGLGLAQELTEVL</span><span class="topo-membrane">VFIILPIFS?VGFSI</span><span class="topo-outside">VDLHGLRKLHQ</span><span class="topo-unknown">SSYVHN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">?ISIL</span><span class="topo-membrane">HYGYSFIMLLGALYFY</span><span class="topo-outside">LLSKDPKGVPASEYLI</span><span class="topo-membrane">AMVIPLWSGAAYLS</span><span class="topo-inside">IALGQGLFQ</span><span class="topo-unknown">YDD</span><span class="topo-inside">TTIYYA</span><span class="topo-membrane">RYIDWVISTPLLLA</span><span class="topo-outside">ALALTAMFGGKKNLTLLF</span><span class="topo-membrane">SLVALDVFMIITGFV</span><span class="topo-inside">ADLS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220         </span>
+<span class="topo-line"><span class="topo-inside">IGTTKY</span><span class="topo-membrane">IWYSLGVIALIIILV</span><span class="topo-outside">ITFGPLRRIALSNGTRLARHYTRVAI</span><span class="topo-membrane">YLSALWVCYPTAWL</span><span class="topo-inside">LGPSGLGLAQELTEVL</span><span class="topo-membrane">VFIILPIFS?VGFSI</span><span class="topo-outside">VDLHGLRKLHQ</span><span class="topo-unknown">SSYVHN</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2315,6 +2342,7 @@ BcXeR is a light-driven inward proton pump (xenorhodopsin) from Bacillus coahuil
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2330,10 +2358,11 @@ BcXeR is a light-driven inward proton pump (xenorhodopsin) from Bacillus coahuil
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">?ISIL</span><span class="topo-membrane">HYGYSFIMLLGALYFY</span><span class="topo-outside">LLSKDPKGVPASEYLI</span><span class="topo-membrane">AMVIPLWSGAAYLS</span><span class="topo-inside">IALGQGLFQ</span></span>
-<span class="topo-line"><span class="topo-inside">Y</span><span class="topo-unknown">D</span><span class="topo-inside">DTTIYYA</span><span class="topo-membrane">RYIDWVISTPLLLA</span><span class="topo-outside">ALALTAMFGGKKNLTLLF</span><span class="topo-membrane">SLVALDVFMIITGFV</span><span class="topo-inside">ADLS</span></span>
-<span class="topo-line"><span class="topo-inside">IGTTKYI</span><span class="topo-membrane">WYSLGVIALIIILV</span><span class="topo-outside">ITFGPLRRIALSNGTRLARHYTRVAI</span><span class="topo-membrane">YLSALWVCYPTAW</span></span>
-<span class="topo-line"><span class="topo-membrane">L</span><span class="topo-inside">LGPSGLGLAQELTEVL</span><span class="topo-membrane">VFIILPIFS?VGFSI</span><span class="topo-outside">VDLHGLRKLHQS</span><span class="topo-unknown">SYVHN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">?ISIL</span><span class="topo-membrane">HYGYSFIMLLGALYFY</span><span class="topo-outside">LLSKDPKGVPASEYLI</span><span class="topo-membrane">AMVIPLWSGAAYLS</span><span class="topo-inside">IALGQGLFQY</span><span class="topo-unknown">D</span><span class="topo-inside">DTTIYYA</span><span class="topo-membrane">RYIDWVISTPLLLA</span><span class="topo-outside">ALALTAMFGGKKNLTLLF</span><span class="topo-membrane">SLVALDVFMIITGFV</span><span class="topo-inside">ADLS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220         </span>
+<span class="topo-line"><span class="topo-inside">IGTTKYI</span><span class="topo-membrane">WYSLGVIALIIILV</span><span class="topo-outside">ITFGPLRRIALSNGTRLARHYTRVAI</span><span class="topo-membrane">YLSALWVCYPTAWL</span><span class="topo-inside">LGPSGLGLAQELTEVL</span><span class="topo-membrane">VFIILPIFS?VGFSI</span><span class="topo-outside">VDLHGLRKLHQS</span><span class="topo-unknown">SYVHN</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2471,6 +2500,7 @@ BcXeR is a light-driven inward proton pump (xenorhodopsin) from Bacillus coahuil
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2486,10 +2516,11 @@ BcXeR is a light-driven inward proton pump (xenorhodopsin) from Bacillus coahuil
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">?ISIL</span><span class="topo-membrane">HYGYSFIMLLGALYFY</span><span class="topo-outside">LLSKDPKGVPASEYL</span><span class="topo-membrane">IAMVIPLWSGAAYLSI</span><span class="topo-inside">ALGQGLFQ</span></span>
-<span class="topo-line"><span class="topo-inside">YDDTTIYY</span><span class="topo-membrane">ARYIDWVISTPLLLA</span><span class="topo-outside">ALALTAMFGGKKNLTLLF</span><span class="topo-membrane">SLVALDVFMIITGFVA</span><span class="topo-inside">DLS</span></span>
-<span class="topo-line"><span class="topo-inside">IGTTKY</span><span class="topo-membrane">IWYSLGVIALIIILVIT</span><span class="topo-outside">FGPLRRIALSNGTRLARHYTRVA</span><span class="topo-membrane">IYLSALWVCYPTAW</span></span>
-<span class="topo-line"><span class="topo-membrane">LL</span><span class="topo-inside">GPSGLGLAQELTE</span><span class="topo-membrane">VLVFIILPIFS?VGFSI</span><span class="topo-outside">VDLHGLRKLHQS</span><span class="topo-unknown">SYVHN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">?ISIL</span><span class="topo-membrane">HYGYSFIMLLGALYFY</span><span class="topo-outside">LLSKDPKGVPASEYL</span><span class="topo-membrane">IAMVIPLWSGAAYLSI</span><span class="topo-inside">ALGQGLFQYDDTTIYY</span><span class="topo-membrane">ARYIDWVISTPLLLA</span><span class="topo-outside">ALALTAMFGGKKNLTLLF</span><span class="topo-membrane">SLVALDVFMIITGFVA</span><span class="topo-inside">DLS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220         </span>
+<span class="topo-line"><span class="topo-inside">IGTTKY</span><span class="topo-membrane">IWYSLGVIALIIILVIT</span><span class="topo-outside">FGPLRRIALSNGTRLARHYTRVA</span><span class="topo-membrane">IYLSALWVCYPTAWLL</span><span class="topo-inside">GPSGLGLAQELTE</span><span class="topo-membrane">VLVFIILPIFS?VGFSI</span><span class="topo-outside">VDLHGLRKLHQS</span><span class="topo-unknown">SYVHN</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2613,6 +2644,7 @@ BcXeR is a light-driven inward proton pump (xenorhodopsin) from Bacillus coahuil
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2628,10 +2660,11 @@ BcXeR is a light-driven inward proton pump (xenorhodopsin) from Bacillus coahuil
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">?ISI</span><span class="topo-membrane">LHYGYSFIMLLGALYFY</span><span class="topo-outside">LLSKDPKGVPASEYL</span><span class="topo-membrane">IAMVIPLWSGAAYLSIA</span><span class="topo-inside">LGQGLFQ</span></span>
-<span class="topo-line"><span class="topo-inside">Y</span><span class="topo-unknown">DD</span><span class="topo-inside">TTIYY</span><span class="topo-membrane">ARYIDWVISTPLLLA</span><span class="topo-outside">ALALTAMFGGKKNLTLLF</span><span class="topo-membrane">SLVALDVFMIITGFVA</span><span class="topo-inside">DLS</span></span>
-<span class="topo-line"><span class="topo-inside">IGTTKY</span><span class="topo-membrane">IWYSLGVIALIIILVI</span><span class="topo-outside">TFGPLRRIALSNGTRLARHYTRVA</span><span class="topo-membrane">IYLSALWVCYPTAW</span></span>
-<span class="topo-line"><span class="topo-membrane">LL</span><span class="topo-inside">GPSGLGLAQELTE</span><span class="topo-membrane">VLVFIILPIFS?VGFSI</span><span class="topo-outside">VDLHGLRKLHQ</span><span class="topo-unknown">SSYVHN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">?ISI</span><span class="topo-membrane">LHYGYSFIMLLGALYFY</span><span class="topo-outside">LLSKDPKGVPASEYL</span><span class="topo-membrane">IAMVIPLWSGAAYLSIA</span><span class="topo-inside">LGQGLFQY</span><span class="topo-unknown">DD</span><span class="topo-inside">TTIYY</span><span class="topo-membrane">ARYIDWVISTPLLLA</span><span class="topo-outside">ALALTAMFGGKKNLTLLF</span><span class="topo-membrane">SLVALDVFMIITGFVA</span><span class="topo-inside">DLS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220         </span>
+<span class="topo-line"><span class="topo-inside">IGTTKY</span><span class="topo-membrane">IWYSLGVIALIIILVI</span><span class="topo-outside">TFGPLRRIALSNGTRLARHYTRVA</span><span class="topo-membrane">IYLSALWVCYPTAWLL</span><span class="topo-inside">GPSGLGLAQELTE</span><span class="topo-membrane">VLVFIILPIFS?VGFSI</span><span class="topo-outside">VDLHGLRKLHQ</span><span class="topo-unknown">SSYVHN</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2769,6 +2802,7 @@ BcXeR is a light-driven inward proton pump (xenorhodopsin) from Bacillus coahuil
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2784,10 +2818,11 @@ BcXeR is a light-driven inward proton pump (xenorhodopsin) from Bacillus coahuil
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">?ISIL</span><span class="topo-membrane">HYGYSFIMLLGALYFY</span><span class="topo-outside">LLSKDPKGVPASEYL</span><span class="topo-membrane">IAMVIPLWSGAAYLSI</span><span class="topo-inside">ALGQGLFQ</span></span>
-<span class="topo-line"><span class="topo-inside">Y</span><span class="topo-unknown">DD</span><span class="topo-inside">TTIYY</span><span class="topo-membrane">ARYIDWVISTPLLLA</span><span class="topo-outside">ALALTAMFGGKKNLTLLF</span><span class="topo-membrane">SLVALDVFMIITGFVA</span><span class="topo-inside">DLS</span></span>
-<span class="topo-line"><span class="topo-inside">IGTTKY</span><span class="topo-membrane">IWYSLGVIALIIILV</span><span class="topo-outside">ITFGPLRRIALSNGTRLARHYTRVA</span><span class="topo-membrane">IYLSALWVCYPTAW</span></span>
-<span class="topo-line"><span class="topo-membrane">LL</span><span class="topo-inside">GPSGLGLAQELTE</span><span class="topo-membrane">VLVFIILPIFS?VGFSI</span><span class="topo-outside">VDLHGLRKLHQS</span><span class="topo-unknown">SYVHN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">?ISIL</span><span class="topo-membrane">HYGYSFIMLLGALYFY</span><span class="topo-outside">LLSKDPKGVPASEYL</span><span class="topo-membrane">IAMVIPLWSGAAYLSI</span><span class="topo-inside">ALGQGLFQY</span><span class="topo-unknown">DD</span><span class="topo-inside">TTIYY</span><span class="topo-membrane">ARYIDWVISTPLLLA</span><span class="topo-outside">ALALTAMFGGKKNLTLLF</span><span class="topo-membrane">SLVALDVFMIITGFVA</span><span class="topo-inside">DLS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220         </span>
+<span class="topo-line"><span class="topo-inside">IGTTKY</span><span class="topo-membrane">IWYSLGVIALIIILV</span><span class="topo-outside">ITFGPLRRIALSNGTRLARHYTRVA</span><span class="topo-membrane">IYLSALWVCYPTAWLL</span><span class="topo-inside">GPSGLGLAQELTE</span><span class="topo-membrane">VLVFIILPIFS?VGFSI</span><span class="topo-outside">VDLHGLRKLHQS</span><span class="topo-unknown">SYVHN</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2925,6 +2960,7 @@ BcXeR is a light-driven inward proton pump (xenorhodopsin) from Bacillus coahuil
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2940,10 +2976,11 @@ BcXeR is a light-driven inward proton pump (xenorhodopsin) from Bacillus coahuil
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">?ISIL</span><span class="topo-membrane">HYGYSFIMLLGALYF</span><span class="topo-outside">YLLSKDPKGVPASEYLI</span><span class="topo-membrane">AMVIPLWSGAAYLSI</span><span class="topo-inside">ALGQGLFQ</span></span>
-<span class="topo-line"><span class="topo-inside">YDDTTIYY</span><span class="topo-membrane">ARYIDWVISTPLLL</span><span class="topo-outside">AALALTAMFGGKKNLTLLF</span><span class="topo-membrane">SLVALDVFMIITGFVA</span><span class="topo-inside">DLS</span></span>
-<span class="topo-line"><span class="topo-inside">IGTTKY</span><span class="topo-membrane">IWYSLGVIALIIILV</span><span class="topo-outside">ITFGPLRRIALSNGTRLARHYTRVAI</span><span class="topo-membrane">YLSALWVCYPTAW</span></span>
-<span class="topo-line"><span class="topo-membrane">LL</span><span class="topo-inside">GPSGLGLAQELTE</span><span class="topo-membrane">VLVFIILPIFS?VGFS</span><span class="topo-outside">IVDLHGLRKLHQ</span><span class="topo-unknown">SSYVHN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">?ISIL</span><span class="topo-membrane">HYGYSFIMLLGALYF</span><span class="topo-outside">YLLSKDPKGVPASEYLI</span><span class="topo-membrane">AMVIPLWSGAAYLSI</span><span class="topo-inside">ALGQGLFQYDDTTIYY</span><span class="topo-membrane">ARYIDWVISTPLLL</span><span class="topo-outside">AALALTAMFGGKKNLTLLF</span><span class="topo-membrane">SLVALDVFMIITGFVA</span><span class="topo-inside">DLS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220         </span>
+<span class="topo-line"><span class="topo-inside">IGTTKY</span><span class="topo-membrane">IWYSLGVIALIIILV</span><span class="topo-outside">ITFGPLRRIALSNGTRLARHYTRVAI</span><span class="topo-membrane">YLSALWVCYPTAWLL</span><span class="topo-inside">GPSGLGLAQELTE</span><span class="topo-membrane">VLVFIILPIFS?VGFS</span><span class="topo-outside">IVDLHGLRKLHQ</span><span class="topo-unknown">SSYVHN</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3067,6 +3104,7 @@ BcXeR is a light-driven inward proton pump (xenorhodopsin) from Bacillus coahuil
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3082,10 +3120,11 @@ BcXeR is a light-driven inward proton pump (xenorhodopsin) from Bacillus coahuil
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">?ISIL</span><span class="topo-membrane">HYGYSFIMLLGALYFY</span><span class="topo-outside">LLSKDPKGVPASEYL</span><span class="topo-membrane">IAMVIPLWSGAAYLS</span><span class="topo-inside">IALGQGLFQ</span></span>
-<span class="topo-line"><span class="topo-unknown">YDD</span><span class="topo-inside">TTIYY</span><span class="topo-membrane">ARYIDWVISTPLLLA</span><span class="topo-outside">ALALTAMFGGKKNLTLLF</span><span class="topo-membrane">SLVALDVFMIITGFVA</span><span class="topo-inside">DLS</span></span>
-<span class="topo-line"><span class="topo-inside">IGTTKY</span><span class="topo-membrane">IWYSLGVIALIIILV</span><span class="topo-outside">ITFGPLRRIALSNGTRLARHYTRVAI</span><span class="topo-membrane">YLSALWVCYPTAW</span></span>
-<span class="topo-line"><span class="topo-membrane">L</span><span class="topo-inside">LGPSGLGLAQELTE</span><span class="topo-membrane">VLVFIILPIFS?VGFSI</span><span class="topo-outside">VDLHGLRKLHQ</span><span class="topo-unknown">SSYVHN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">?ISIL</span><span class="topo-membrane">HYGYSFIMLLGALYFY</span><span class="topo-outside">LLSKDPKGVPASEYL</span><span class="topo-membrane">IAMVIPLWSGAAYLS</span><span class="topo-inside">IALGQGLFQ</span><span class="topo-unknown">YDD</span><span class="topo-inside">TTIYY</span><span class="topo-membrane">ARYIDWVISTPLLLA</span><span class="topo-outside">ALALTAMFGGKKNLTLLF</span><span class="topo-membrane">SLVALDVFMIITGFVA</span><span class="topo-inside">DLS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220         </span>
+<span class="topo-line"><span class="topo-inside">IGTTKY</span><span class="topo-membrane">IWYSLGVIALIIILV</span><span class="topo-outside">ITFGPLRRIALSNGTRLARHYTRVAI</span><span class="topo-membrane">YLSALWVCYPTAWL</span><span class="topo-inside">LGPSGLGLAQELTE</span><span class="topo-membrane">VLVFIILPIFS?VGFSI</span><span class="topo-outside">VDLHGLRKLHQ</span><span class="topo-unknown">SSYVHN</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3223,6 +3262,7 @@ BcXeR is a light-driven inward proton pump (xenorhodopsin) from Bacillus coahuil
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3238,10 +3278,11 @@ BcXeR is a light-driven inward proton pump (xenorhodopsin) from Bacillus coahuil
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">?ISIL</span><span class="topo-membrane">HYGYSFIMLLGALYFY</span><span class="topo-outside">LLSKDPKGVPASEYLI</span><span class="topo-membrane">AMVIPLWSGAAYLS</span><span class="topo-inside">IALGQGLFQ</span></span>
-<span class="topo-line"><span class="topo-inside">Y</span><span class="topo-unknown">D</span><span class="topo-inside">DTTIYY</span><span class="topo-membrane">ARYIDWVISTPLLLA</span><span class="topo-outside">ALALTAMFGGKKNLTLLF</span><span class="topo-membrane">SLVALDVFMIITGFVA</span><span class="topo-inside">DLS</span></span>
-<span class="topo-line"><span class="topo-inside">IGTTKY</span><span class="topo-membrane">IWYSLGVIALIIILV</span><span class="topo-outside">ITFGPLRRIALSNGTRLARHYTRVAI</span><span class="topo-membrane">YLSALWVCYPTAW</span></span>
-<span class="topo-line"><span class="topo-membrane">L</span><span class="topo-inside">LGPSGLGLAQELTEVL</span><span class="topo-membrane">VFIILPIFS?VGFSI</span><span class="topo-outside">VDLHGLRKLHQS</span><span class="topo-unknown">SYVHN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">?ISIL</span><span class="topo-membrane">HYGYSFIMLLGALYFY</span><span class="topo-outside">LLSKDPKGVPASEYLI</span><span class="topo-membrane">AMVIPLWSGAAYLS</span><span class="topo-inside">IALGQGLFQY</span><span class="topo-unknown">D</span><span class="topo-inside">DTTIYY</span><span class="topo-membrane">ARYIDWVISTPLLLA</span><span class="topo-outside">ALALTAMFGGKKNLTLLF</span><span class="topo-membrane">SLVALDVFMIITGFVA</span><span class="topo-inside">DLS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220         </span>
+<span class="topo-line"><span class="topo-inside">IGTTKY</span><span class="topo-membrane">IWYSLGVIALIIILV</span><span class="topo-outside">ITFGPLRRIALSNGTRLARHYTRVAI</span><span class="topo-membrane">YLSALWVCYPTAWL</span><span class="topo-inside">LGPSGLGLAQELTEVL</span><span class="topo-membrane">VFIILPIFS?VGFSI</span><span class="topo-outside">VDLHGLRKLHQS</span><span class="topo-unknown">SYVHN</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3379,6 +3420,7 @@ BcXeR is a light-driven inward proton pump (xenorhodopsin) from Bacillus coahuil
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3394,10 +3436,11 @@ BcXeR is a light-driven inward proton pump (xenorhodopsin) from Bacillus coahuil
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">?ISI</span><span class="topo-membrane">LHYGYSFIMLLGALYFYL</span><span class="topo-outside">LSKDPKGVPASEY</span><span class="topo-membrane">LIAMVIPLWSGAAYLSIA</span><span class="topo-inside">LGQGLFQ</span></span>
-<span class="topo-line"><span class="topo-inside">YDDTTIYY</span><span class="topo-membrane">ARYIDWVISTPLLLAAL</span><span class="topo-outside">ALTAMFGGKKNLTL</span><span class="topo-membrane">LFSLVALDVFMIITGFVA</span><span class="topo-inside">DLS</span></span>
-<span class="topo-line"><span class="topo-inside">IGTTKY</span><span class="topo-membrane">IWYSLGVIALIIILVITF</span><span class="topo-outside">GPLRRIALSNGTRLARHYTR</span><span class="topo-membrane">VAIYLSALWVCYPTAW</span></span>
-<span class="topo-line"><span class="topo-membrane">LL</span><span class="topo-inside">GPSGLGLAQELTE</span><span class="topo-membrane">VLVFIILPIFS?VGFSIVD</span><span class="topo-outside">LHGLRKLHQS</span><span class="topo-unknown">SYVHN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">?ISI</span><span class="topo-membrane">LHYGYSFIMLLGALYFYL</span><span class="topo-outside">LSKDPKGVPASEY</span><span class="topo-membrane">LIAMVIPLWSGAAYLSIA</span><span class="topo-inside">LGQGLFQYDDTTIYY</span><span class="topo-membrane">ARYIDWVISTPLLLAAL</span><span class="topo-outside">ALTAMFGGKKNLTL</span><span class="topo-membrane">LFSLVALDVFMIITGFVA</span><span class="topo-inside">DLS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220         </span>
+<span class="topo-line"><span class="topo-inside">IGTTKY</span><span class="topo-membrane">IWYSLGVIALIIILVITF</span><span class="topo-outside">GPLRRIALSNGTRLARHYTR</span><span class="topo-membrane">VAIYLSALWVCYPTAWLL</span><span class="topo-inside">GPSGLGLAQELTE</span><span class="topo-membrane">VLVFIILPIFS?VGFSIVD</span><span class="topo-outside">LHGLRKLHQS</span><span class="topo-unknown">SYVHN</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3521,6 +3564,7 @@ BcXeR is a light-driven inward proton pump (xenorhodopsin) from Bacillus coahuil
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3536,10 +3580,11 @@ BcXeR is a light-driven inward proton pump (xenorhodopsin) from Bacillus coahuil
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">?ISI</span><span class="topo-membrane">LHYGYSFIMLLGALYFYL</span><span class="topo-outside">LSKDPKGVPASEY</span><span class="topo-membrane">LIAMVIPLWSGAAYLSIA</span><span class="topo-inside">LGQGLFQ</span></span>
-<span class="topo-line"><span class="topo-inside">Y</span><span class="topo-unknown">D</span><span class="topo-inside">DTTIYY</span><span class="topo-membrane">ARYIDWVISTPLLLAAL</span><span class="topo-outside">ALTAMFGGKKNLTLL</span><span class="topo-membrane">FSLVALDVFMIITGFVA</span><span class="topo-inside">DLS</span></span>
-<span class="topo-line"><span class="topo-inside">IGTTKY</span><span class="topo-membrane">IWYSLGVIALIIILVITF</span><span class="topo-outside">GPLRRIALSNGTRLARHYTR</span><span class="topo-membrane">VAIYLSALWVCYPTAW</span></span>
-<span class="topo-line"><span class="topo-membrane">LL</span><span class="topo-inside">GPSGLGLAQELTE</span><span class="topo-membrane">VLVFIILPIFS?VGFSIVD</span><span class="topo-outside">LHGLRKLHQ</span><span class="topo-unknown">SSYVHN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">?ISI</span><span class="topo-membrane">LHYGYSFIMLLGALYFYL</span><span class="topo-outside">LSKDPKGVPASEY</span><span class="topo-membrane">LIAMVIPLWSGAAYLSIA</span><span class="topo-inside">LGQGLFQY</span><span class="topo-unknown">D</span><span class="topo-inside">DTTIYY</span><span class="topo-membrane">ARYIDWVISTPLLLAAL</span><span class="topo-outside">ALTAMFGGKKNLTLL</span><span class="topo-membrane">FSLVALDVFMIITGFVA</span><span class="topo-inside">DLS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220         </span>
+<span class="topo-line"><span class="topo-inside">IGTTKY</span><span class="topo-membrane">IWYSLGVIALIIILVITF</span><span class="topo-outside">GPLRRIALSNGTRLARHYTR</span><span class="topo-membrane">VAIYLSALWVCYPTAWLL</span><span class="topo-inside">GPSGLGLAQELTE</span><span class="topo-membrane">VLVFIILPIFS?VGFSIVD</span><span class="topo-outside">LHGLRKLHQ</span><span class="topo-unknown">SSYVHN</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3677,6 +3722,7 @@ BcXeR is a light-driven inward proton pump (xenorhodopsin) from Bacillus coahuil
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3692,10 +3738,11 @@ BcXeR is a light-driven inward proton pump (xenorhodopsin) from Bacillus coahuil
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">?ISI</span><span class="topo-membrane">LHYGYSFIMLLGALYFYL</span><span class="topo-outside">LSKDPKGVPASEY</span><span class="topo-membrane">LIAMVIPLWSGAAYLSIA</span><span class="topo-inside">LGQGLFQ</span></span>
-<span class="topo-line"><span class="topo-inside">YDDTTIYY</span><span class="topo-membrane">ARYIDWVISTPLLLAAL</span><span class="topo-outside">ALTAMFGGKKNLTLL</span><span class="topo-membrane">FSLVALDVFMIITGFVA</span><span class="topo-inside">DLS</span></span>
-<span class="topo-line"><span class="topo-inside">IGTTKY</span><span class="topo-membrane">IWYSLGVIALIIILVITF</span><span class="topo-outside">GPLRRIALSNGTRLARHYTRV</span><span class="topo-membrane">AIYLSALWVCYPTAW</span></span>
-<span class="topo-line"><span class="topo-membrane">LL</span><span class="topo-inside">GPSGLGLAQELTE</span><span class="topo-membrane">VLVFIILPIFS?VGFSIVD</span><span class="topo-outside">LHGLRKLHQS</span><span class="topo-unknown">SYVHN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">?ISI</span><span class="topo-membrane">LHYGYSFIMLLGALYFYL</span><span class="topo-outside">LSKDPKGVPASEY</span><span class="topo-membrane">LIAMVIPLWSGAAYLSIA</span><span class="topo-inside">LGQGLFQYDDTTIYY</span><span class="topo-membrane">ARYIDWVISTPLLLAAL</span><span class="topo-outside">ALTAMFGGKKNLTLL</span><span class="topo-membrane">FSLVALDVFMIITGFVA</span><span class="topo-inside">DLS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220         </span>
+<span class="topo-line"><span class="topo-inside">IGTTKY</span><span class="topo-membrane">IWYSLGVIALIIILVITF</span><span class="topo-outside">GPLRRIALSNGTRLARHYTRV</span><span class="topo-membrane">AIYLSALWVCYPTAWLL</span><span class="topo-inside">GPSGLGLAQELTE</span><span class="topo-membrane">VLVFIILPIFS?VGFSIVD</span><span class="topo-outside">LHGLRKLHQS</span><span class="topo-unknown">SYVHN</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3819,6 +3866,7 @@ BcXeR is a light-driven inward proton pump (xenorhodopsin) from Bacillus coahuil
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3834,10 +3882,11 @@ BcXeR is a light-driven inward proton pump (xenorhodopsin) from Bacillus coahuil
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">?ISI</span><span class="topo-membrane">LHYGYSFIMLLGALYF</span><span class="topo-outside">YLLSKDPKGVPASEYLI</span><span class="topo-membrane">AMVIPLWSGAAYLSIA</span><span class="topo-inside">LGQGLFQ</span></span>
-<span class="topo-line"><span class="topo-inside">Y</span><span class="topo-unknown">DD</span><span class="topo-inside">TTIYY</span><span class="topo-membrane">ARYIDWVISTPLLLA</span><span class="topo-outside">ALALTAMFGGKKNLTLLF</span><span class="topo-membrane">SLVALDVFMIITGFVA</span><span class="topo-inside">DLS</span></span>
-<span class="topo-line"><span class="topo-inside">IGTTKY</span><span class="topo-membrane">IWYSLGVIALIIILV</span><span class="topo-outside">ITFGPLRRIALSNGTRLARHYTRVAI</span><span class="topo-membrane">YLSALWVCYPTAW</span></span>
-<span class="topo-line"><span class="topo-membrane">LL</span><span class="topo-inside">GPSGLGLAQELTE</span><span class="topo-membrane">VLVFIILPIFS?VGFSI</span><span class="topo-outside">VDLHGLRKLHQS</span><span class="topo-unknown">SYVHN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">?ISI</span><span class="topo-membrane">LHYGYSFIMLLGALYF</span><span class="topo-outside">YLLSKDPKGVPASEYLI</span><span class="topo-membrane">AMVIPLWSGAAYLSIA</span><span class="topo-inside">LGQGLFQY</span><span class="topo-unknown">DD</span><span class="topo-inside">TTIYY</span><span class="topo-membrane">ARYIDWVISTPLLLA</span><span class="topo-outside">ALALTAMFGGKKNLTLLF</span><span class="topo-membrane">SLVALDVFMIITGFVA</span><span class="topo-inside">DLS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220         </span>
+<span class="topo-line"><span class="topo-inside">IGTTKY</span><span class="topo-membrane">IWYSLGVIALIIILV</span><span class="topo-outside">ITFGPLRRIALSNGTRLARHYTRVAI</span><span class="topo-membrane">YLSALWVCYPTAWLL</span><span class="topo-inside">GPSGLGLAQELTE</span><span class="topo-membrane">VLVFIILPIFS?VGFSI</span><span class="topo-outside">VDLHGLRKLHQS</span><span class="topo-unknown">SYVHN</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3975,6 +4024,7 @@ BcXeR is a light-driven inward proton pump (xenorhodopsin) from Bacillus coahuil
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3990,10 +4040,11 @@ BcXeR is a light-driven inward proton pump (xenorhodopsin) from Bacillus coahuil
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">?ISI</span><span class="topo-membrane">LHYGYSFIMLLGALYF</span><span class="topo-outside">YLLSKDPKGVPASEYLI</span><span class="topo-membrane">AMVIPLWSGAAYLSIA</span><span class="topo-inside">LGQGLFQ</span></span>
-<span class="topo-line"><span class="topo-inside">Y</span><span class="topo-unknown">D</span><span class="topo-inside">DTTIYY</span><span class="topo-membrane">ARYIDWVISTPLLLA</span><span class="topo-outside">ALALTAMFGGKKNLTLLF</span><span class="topo-membrane">SLVALDVFMIITGFVA</span><span class="topo-inside">DLS</span></span>
-<span class="topo-line"><span class="topo-inside">IGTTKY</span><span class="topo-membrane">IWYSLGVIALIIILV</span><span class="topo-outside">ITFGPLRRIALSNGTRLARHYTRVAI</span><span class="topo-membrane">YLSALWVCYPTAW</span></span>
-<span class="topo-line"><span class="topo-membrane">LL</span><span class="topo-inside">GPSGLGLAQELTE</span><span class="topo-membrane">VLVFIILPIFS?VGFSI</span><span class="topo-outside">VDLHGLRKLHQ</span><span class="topo-unknown">SSYVHN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">?ISI</span><span class="topo-membrane">LHYGYSFIMLLGALYF</span><span class="topo-outside">YLLSKDPKGVPASEYLI</span><span class="topo-membrane">AMVIPLWSGAAYLSIA</span><span class="topo-inside">LGQGLFQY</span><span class="topo-unknown">D</span><span class="topo-inside">DTTIYY</span><span class="topo-membrane">ARYIDWVISTPLLLA</span><span class="topo-outside">ALALTAMFGGKKNLTLLF</span><span class="topo-membrane">SLVALDVFMIITGFVA</span><span class="topo-inside">DLS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220         </span>
+<span class="topo-line"><span class="topo-inside">IGTTKY</span><span class="topo-membrane">IWYSLGVIALIIILV</span><span class="topo-outside">ITFGPLRRIALSNGTRLARHYTRVAI</span><span class="topo-membrane">YLSALWVCYPTAWLL</span><span class="topo-inside">GPSGLGLAQELTE</span><span class="topo-membrane">VLVFIILPIFS?VGFSI</span><span class="topo-outside">VDLHGLRKLHQ</span><span class="topo-unknown">SSYVHN</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4131,6 +4182,7 @@ BcXeR is a light-driven inward proton pump (xenorhodopsin) from Bacillus coahuil
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4146,10 +4198,11 @@ BcXeR is a light-driven inward proton pump (xenorhodopsin) from Bacillus coahuil
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">?ISIL</span><span class="topo-membrane">HYGYSFIMLLGALYFY</span><span class="topo-outside">LLSKDPKGVPASEYL</span><span class="topo-membrane">IAMVIPLWSGAAYLSIA</span><span class="topo-inside">LGQGLFQ</span></span>
-<span class="topo-line"><span class="topo-inside">YDDTTIYY</span><span class="topo-membrane">ARYIDWVISTPLLLA</span><span class="topo-outside">ALALTAMFGGKKNLTLLF</span><span class="topo-membrane">SLVALDVFMIITGFVA</span><span class="topo-inside">DLS</span></span>
-<span class="topo-line"><span class="topo-inside">IGTTKY</span><span class="topo-membrane">IWYSLGVIALIIILV</span><span class="topo-outside">ITFGPLRRIALSNGTRLARHYTRVAI</span><span class="topo-membrane">YLSALWVCYPTAW</span></span>
-<span class="topo-line"><span class="topo-membrane">LL</span><span class="topo-inside">GPSGLGLAQELTE</span><span class="topo-membrane">VLVFIILPIFS?VGFSI</span><span class="topo-outside">VDLHGLRKLHQS</span><span class="topo-unknown">SYVHN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">?ISIL</span><span class="topo-membrane">HYGYSFIMLLGALYFY</span><span class="topo-outside">LLSKDPKGVPASEYL</span><span class="topo-membrane">IAMVIPLWSGAAYLSIA</span><span class="topo-inside">LGQGLFQYDDTTIYY</span><span class="topo-membrane">ARYIDWVISTPLLLA</span><span class="topo-outside">ALALTAMFGGKKNLTLLF</span><span class="topo-membrane">SLVALDVFMIITGFVA</span><span class="topo-inside">DLS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220         </span>
+<span class="topo-line"><span class="topo-inside">IGTTKY</span><span class="topo-membrane">IWYSLGVIALIIILV</span><span class="topo-outside">ITFGPLRRIALSNGTRLARHYTRVAI</span><span class="topo-membrane">YLSALWVCYPTAWLL</span><span class="topo-inside">GPSGLGLAQELTE</span><span class="topo-membrane">VLVFIILPIFS?VGFSI</span><span class="topo-outside">VDLHGLRKLHQS</span><span class="topo-unknown">SYVHN</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4273,6 +4326,7 @@ BcXeR is a light-driven inward proton pump (xenorhodopsin) from Bacillus coahuil
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4288,10 +4342,11 @@ BcXeR is a light-driven inward proton pump (xenorhodopsin) from Bacillus coahuil
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">?ISI</span><span class="topo-membrane">LHYGYSFIMLLGALYF</span><span class="topo-outside">YLLSKDPKGVPASEYLI</span><span class="topo-membrane">AMVIPLWSGAAYLSIA</span><span class="topo-inside">LGQGLFQ</span></span>
-<span class="topo-line"><span class="topo-inside">YDDTTIY</span><span class="topo-membrane">YARYIDWVISTPLLL</span><span class="topo-outside">AALALTAMFGGKKNLTLLF</span><span class="topo-membrane">SLVALDVFMIITGFVA</span><span class="topo-inside">DLS</span></span>
-<span class="topo-line"><span class="topo-inside">IGTTKY</span><span class="topo-membrane">IWYSLGVIALIIILV</span><span class="topo-outside">ITFGPLRRIALSNGTRLARHYTRVAI</span><span class="topo-membrane">YLSALWVCYPTAW</span></span>
-<span class="topo-line"><span class="topo-membrane">LL</span><span class="topo-inside">GPSGLGLAQELTE</span><span class="topo-membrane">VLVFIILPIFS?VGFSI</span><span class="topo-outside">VDLHGLRKLH</span><span class="topo-unknown">QSSYVHN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">?ISI</span><span class="topo-membrane">LHYGYSFIMLLGALYF</span><span class="topo-outside">YLLSKDPKGVPASEYLI</span><span class="topo-membrane">AMVIPLWSGAAYLSIA</span><span class="topo-inside">LGQGLFQYDDTTIY</span><span class="topo-membrane">YARYIDWVISTPLLL</span><span class="topo-outside">AALALTAMFGGKKNLTLLF</span><span class="topo-membrane">SLVALDVFMIITGFVA</span><span class="topo-inside">DLS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220         </span>
+<span class="topo-line"><span class="topo-inside">IGTTKY</span><span class="topo-membrane">IWYSLGVIALIIILV</span><span class="topo-outside">ITFGPLRRIALSNGTRLARHYTRVAI</span><span class="topo-membrane">YLSALWVCYPTAWLL</span><span class="topo-inside">GPSGLGLAQELTE</span><span class="topo-membrane">VLVFIILPIFS?VGFSI</span><span class="topo-outside">VDLHGLRKLH</span><span class="topo-unknown">QSSYVHN</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4415,6 +4470,7 @@ BcXeR is a light-driven inward proton pump (xenorhodopsin) from Bacillus coahuil
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4430,10 +4486,11 @@ BcXeR is a light-driven inward proton pump (xenorhodopsin) from Bacillus coahuil
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">?ISI</span><span class="topo-membrane">LHYGYSFIMLLGALYF</span><span class="topo-outside">YLLSKDPKGVPASEYLI</span><span class="topo-membrane">AMVIPLWSGAAYLSIA</span><span class="topo-inside">LGQGLFQ</span></span>
-<span class="topo-line"><span class="topo-unknown">YD</span><span class="topo-inside">DTTIYY</span><span class="topo-membrane">ARYIDWVISTPLLL</span><span class="topo-outside">AALALTAMFGGKKNLTLLF</span><span class="topo-membrane">SLVALDVFMIITGFVA</span><span class="topo-inside">DLS</span></span>
-<span class="topo-line"><span class="topo-inside">IGTTKY</span><span class="topo-membrane">IWYSLGVIALIIILV</span><span class="topo-outside">ITFGPLRRIALSNGTRLARHYTRVAI</span><span class="topo-membrane">YLSALWVCYPTAW</span></span>
-<span class="topo-line"><span class="topo-membrane">LL</span><span class="topo-inside">GPSGLGLAQELTE</span><span class="topo-membrane">VLVFIILPIFS?VGFSI</span><span class="topo-outside">VDLHGLRKLHQ</span><span class="topo-unknown">SSYVHN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">?ISI</span><span class="topo-membrane">LHYGYSFIMLLGALYF</span><span class="topo-outside">YLLSKDPKGVPASEYLI</span><span class="topo-membrane">AMVIPLWSGAAYLSIA</span><span class="topo-inside">LGQGLFQ</span><span class="topo-unknown">YD</span><span class="topo-inside">DTTIYY</span><span class="topo-membrane">ARYIDWVISTPLLL</span><span class="topo-outside">AALALTAMFGGKKNLTLLF</span><span class="topo-membrane">SLVALDVFMIITGFVA</span><span class="topo-inside">DLS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220         </span>
+<span class="topo-line"><span class="topo-inside">IGTTKY</span><span class="topo-membrane">IWYSLGVIALIIILV</span><span class="topo-outside">ITFGPLRRIALSNGTRLARHYTRVAI</span><span class="topo-membrane">YLSALWVCYPTAWLL</span><span class="topo-inside">GPSGLGLAQELTE</span><span class="topo-membrane">VLVFIILPIFS?VGFSI</span><span class="topo-outside">VDLHGLRKLHQ</span><span class="topo-unknown">SSYVHN</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4571,6 +4628,7 @@ BcXeR is a light-driven inward proton pump (xenorhodopsin) from Bacillus coahuil
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4586,10 +4644,11 @@ BcXeR is a light-driven inward proton pump (xenorhodopsin) from Bacillus coahuil
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">?ISI</span><span class="topo-membrane">LHYGYSFIMLLGALYF</span><span class="topo-outside">YLLSKDPKGVPASEYLI</span><span class="topo-membrane">AMVIPLWSGAAYLSIA</span><span class="topo-inside">LGQGLFQ</span></span>
-<span class="topo-line"><span class="topo-inside">YDDTTIY</span><span class="topo-membrane">YARYIDWVISTPLLL</span><span class="topo-outside">AALALTAMFGGKKNLTLLF</span><span class="topo-membrane">SLVALDVFMIITGFVA</span><span class="topo-inside">DLS</span></span>
-<span class="topo-line"><span class="topo-inside">IGTTKY</span><span class="topo-membrane">IWYSLGVIALIIILV</span><span class="topo-outside">ITFGPLRRIALSNGTRLARHYTRVAI</span><span class="topo-membrane">YLSALWVCYPTAW</span></span>
-<span class="topo-line"><span class="topo-membrane">LL</span><span class="topo-inside">GPSGLGLAQELTE</span><span class="topo-membrane">VLVFIILPIFS?VGFSI</span><span class="topo-outside">VDLHGLRKLHQ</span><span class="topo-unknown">SSYVHN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">?ISI</span><span class="topo-membrane">LHYGYSFIMLLGALYF</span><span class="topo-outside">YLLSKDPKGVPASEYLI</span><span class="topo-membrane">AMVIPLWSGAAYLSIA</span><span class="topo-inside">LGQGLFQYDDTTIY</span><span class="topo-membrane">YARYIDWVISTPLLL</span><span class="topo-outside">AALALTAMFGGKKNLTLLF</span><span class="topo-membrane">SLVALDVFMIITGFVA</span><span class="topo-inside">DLS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220         </span>
+<span class="topo-line"><span class="topo-inside">IGTTKY</span><span class="topo-membrane">IWYSLGVIALIIILV</span><span class="topo-outside">ITFGPLRRIALSNGTRLARHYTRVAI</span><span class="topo-membrane">YLSALWVCYPTAWLL</span><span class="topo-inside">GPSGLGLAQELTE</span><span class="topo-membrane">VLVFIILPIFS?VGFSI</span><span class="topo-outside">VDLHGLRKLHQ</span><span class="topo-unknown">SSYVHN</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4713,6 +4772,7 @@ BcXeR is a light-driven inward proton pump (xenorhodopsin) from Bacillus coahuil
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4728,10 +4788,11 @@ BcXeR is a light-driven inward proton pump (xenorhodopsin) from Bacillus coahuil
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">?ISIL</span><span class="topo-membrane">HYGYSFIMLLGALYFYL</span><span class="topo-outside">LSKDPKGVPASEY</span><span class="topo-membrane">LIAMVIPLWSGAAYLSI</span><span class="topo-inside">ALGQGLFQ</span></span>
-<span class="topo-line"><span class="topo-inside">YDDTTIYY</span><span class="topo-membrane">ARYIDWVISTPLLLAAL</span><span class="topo-outside">ALTAMFGGKKNLTLL</span><span class="topo-membrane">FSLVALDVFMIITGFVA</span><span class="topo-inside">DLS</span></span>
-<span class="topo-line"><span class="topo-inside">IGTTKY</span><span class="topo-membrane">IWYSLGVIALIIILVITF</span><span class="topo-outside">GPLRRIALSNGTRLARHYTR</span><span class="topo-membrane">VAIYLSALWVCYPTAW</span></span>
-<span class="topo-line"><span class="topo-membrane">LL</span><span class="topo-inside">GPSGLGLAQELTE</span><span class="topo-membrane">VLVFIILPIFS?VGFSIVD</span><span class="topo-outside">LHGLRKLH</span><span class="topo-unknown">QSSYVHN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">?ISIL</span><span class="topo-membrane">HYGYSFIMLLGALYFYL</span><span class="topo-outside">LSKDPKGVPASEY</span><span class="topo-membrane">LIAMVIPLWSGAAYLSI</span><span class="topo-inside">ALGQGLFQYDDTTIYY</span><span class="topo-membrane">ARYIDWVISTPLLLAAL</span><span class="topo-outside">ALTAMFGGKKNLTLL</span><span class="topo-membrane">FSLVALDVFMIITGFVA</span><span class="topo-inside">DLS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220         </span>
+<span class="topo-line"><span class="topo-inside">IGTTKY</span><span class="topo-membrane">IWYSLGVIALIIILVITF</span><span class="topo-outside">GPLRRIALSNGTRLARHYTR</span><span class="topo-membrane">VAIYLSALWVCYPTAWLL</span><span class="topo-inside">GPSGLGLAQELTE</span><span class="topo-membrane">VLVFIILPIFS?VGFSIVD</span><span class="topo-outside">LHGLRKLH</span><span class="topo-unknown">QSSYVHN</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4855,6 +4916,7 @@ BcXeR is a light-driven inward proton pump (xenorhodopsin) from Bacillus coahuil
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4870,10 +4932,11 @@ BcXeR is a light-driven inward proton pump (xenorhodopsin) from Bacillus coahuil
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">?ISIL</span><span class="topo-membrane">HYGYSFIMLLGALYFYL</span><span class="topo-outside">LSKDPKGVPASEY</span><span class="topo-membrane">LIAMVIPLWSGAAYLSI</span><span class="topo-inside">ALGQGLFQ</span></span>
-<span class="topo-line"><span class="topo-inside">YDDTTIYY</span><span class="topo-membrane">ARYIDWVISTPLLLAAL</span><span class="topo-outside">ALTAMFGGKKNLTLL</span><span class="topo-membrane">FSLVALDVFMIITGFVA</span><span class="topo-inside">DLS</span></span>
-<span class="topo-line"><span class="topo-inside">IGTTKY</span><span class="topo-membrane">IWYSLGVIALIIILVITF</span><span class="topo-outside">GPLRRIALSNGTRLARHYTR</span><span class="topo-membrane">VAIYLSALWVCYPTAW</span></span>
-<span class="topo-line"><span class="topo-membrane">LL</span><span class="topo-inside">GPSGLGLAQELTE</span><span class="topo-membrane">VLVFIILPIFS?VGFSIVD</span><span class="topo-outside">LHGLRKLHQ</span><span class="topo-unknown">SSYVHN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">?ISIL</span><span class="topo-membrane">HYGYSFIMLLGALYFYL</span><span class="topo-outside">LSKDPKGVPASEY</span><span class="topo-membrane">LIAMVIPLWSGAAYLSI</span><span class="topo-inside">ALGQGLFQYDDTTIYY</span><span class="topo-membrane">ARYIDWVISTPLLLAAL</span><span class="topo-outside">ALTAMFGGKKNLTLL</span><span class="topo-membrane">FSLVALDVFMIITGFVA</span><span class="topo-inside">DLS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220         </span>
+<span class="topo-line"><span class="topo-inside">IGTTKY</span><span class="topo-membrane">IWYSLGVIALIIILVITF</span><span class="topo-outside">GPLRRIALSNGTRLARHYTR</span><span class="topo-membrane">VAIYLSALWVCYPTAWLL</span><span class="topo-inside">GPSGLGLAQELTE</span><span class="topo-membrane">VLVFIILPIFS?VGFSIVD</span><span class="topo-outside">LHGLRKLHQ</span><span class="topo-unknown">SSYVHN</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4997,6 +5060,7 @@ BcXeR is a light-driven inward proton pump (xenorhodopsin) from Bacillus coahuil
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -5012,10 +5076,11 @@ BcXeR is a light-driven inward proton pump (xenorhodopsin) from Bacillus coahuil
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">?ISIL</span><span class="topo-membrane">HYGYSFIMLLGALYFYL</span><span class="topo-outside">LSKDPKGVPASEY</span><span class="topo-membrane">LIAMVIPLWSGAAYLSI</span><span class="topo-inside">ALGQGLFQ</span></span>
-<span class="topo-line"><span class="topo-unknown">YD</span><span class="topo-inside">DTTIYY</span><span class="topo-membrane">ARYIDWVISTPLLLAAL</span><span class="topo-outside">ALTAMFGGKKNLTLL</span><span class="topo-membrane">FSLVALDVFMIITGFVA</span><span class="topo-inside">DLS</span></span>
-<span class="topo-line"><span class="topo-inside">IGTTKY</span><span class="topo-membrane">IWYSLGVIALIIILVITF</span><span class="topo-outside">GPLRRIALSNGTRLARHYTR</span><span class="topo-membrane">VAIYLSALWVCYPTAW</span></span>
-<span class="topo-line"><span class="topo-membrane">LL</span><span class="topo-inside">GPSGLGLAQELTE</span><span class="topo-membrane">VLVFIILPIFS?VGFSIVD</span><span class="topo-outside">LHGLRKLHQ</span><span class="topo-unknown">SSYVHN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">?ISIL</span><span class="topo-membrane">HYGYSFIMLLGALYFYL</span><span class="topo-outside">LSKDPKGVPASEY</span><span class="topo-membrane">LIAMVIPLWSGAAYLSI</span><span class="topo-inside">ALGQGLFQ</span><span class="topo-unknown">YD</span><span class="topo-inside">DTTIYY</span><span class="topo-membrane">ARYIDWVISTPLLLAAL</span><span class="topo-outside">ALTAMFGGKKNLTLL</span><span class="topo-membrane">FSLVALDVFMIITGFVA</span><span class="topo-inside">DLS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220         </span>
+<span class="topo-line"><span class="topo-inside">IGTTKY</span><span class="topo-membrane">IWYSLGVIALIIILVITF</span><span class="topo-outside">GPLRRIALSNGTRLARHYTR</span><span class="topo-membrane">VAIYLSALWVCYPTAWLL</span><span class="topo-inside">GPSGLGLAQELTE</span><span class="topo-membrane">VLVFIILPIFS?VGFSIVD</span><span class="topo-outside">LHGLRKLHQ</span><span class="topo-unknown">SSYVHN</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -5153,6 +5218,7 @@ BcXeR is a light-driven inward proton pump (xenorhodopsin) from Bacillus coahuil
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -5168,10 +5234,11 @@ BcXeR is a light-driven inward proton pump (xenorhodopsin) from Bacillus coahuil
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">?ISIL</span><span class="topo-membrane">HYGYSFIMLLGALYFYL</span><span class="topo-outside">LSKDPKGVPASEY</span><span class="topo-membrane">LIAMVIPLWSGAAYLSI</span><span class="topo-inside">ALGQGLFQ</span></span>
-<span class="topo-line"><span class="topo-inside">YDDTTIYY</span><span class="topo-membrane">ARYIDWVISTPLLLAAL</span><span class="topo-outside">ALTAMFGGKKNLTLL</span><span class="topo-membrane">FSLVALDVFMIITGFVA</span><span class="topo-inside">DLS</span></span>
-<span class="topo-line"><span class="topo-inside">IGTTKY</span><span class="topo-membrane">IWYSLGVIALIIILVITF</span><span class="topo-outside">GPLRRIALSNGTRLARHYTRV</span><span class="topo-membrane">AIYLSALWVCYPTAW</span></span>
-<span class="topo-line"><span class="topo-membrane">LL</span><span class="topo-inside">GPSGLGLAQELTE</span><span class="topo-membrane">VLVFIILPIFS?VGFSIVD</span><span class="topo-outside">LHGLRKLHQ</span><span class="topo-unknown">SSYVHNA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">?ISIL</span><span class="topo-membrane">HYGYSFIMLLGALYFYL</span><span class="topo-outside">LSKDPKGVPASEY</span><span class="topo-membrane">LIAMVIPLWSGAAYLSI</span><span class="topo-inside">ALGQGLFQYDDTTIYY</span><span class="topo-membrane">ARYIDWVISTPLLLAAL</span><span class="topo-outside">ALTAMFGGKKNLTLL</span><span class="topo-membrane">FSLVALDVFMIITGFVA</span><span class="topo-inside">DLS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230</span>
+<span class="topo-line"><span class="topo-inside">IGTTKY</span><span class="topo-membrane">IWYSLGVIALIIILVITF</span><span class="topo-outside">GPLRRIALSNGTRLARHYTRV</span><span class="topo-membrane">AIYLSALWVCYPTAWLL</span><span class="topo-inside">GPSGLGLAQELTE</span><span class="topo-membrane">VLVFIILPIFS?VGFSIVD</span><span class="topo-outside">LHGLRKLHQ</span><span class="topo-unknown">SSYVHNA</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -5295,6 +5362,7 @@ BcXeR is a light-driven inward proton pump (xenorhodopsin) from Bacillus coahuil
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -5310,10 +5378,11 @@ BcXeR is a light-driven inward proton pump (xenorhodopsin) from Bacillus coahuil
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">?ISIL</span><span class="topo-membrane">HYGYSFIMLLGALYFYL</span><span class="topo-outside">LSKDPKGVPASEY</span><span class="topo-membrane">LIAMVIPLWSGAAYLSI</span><span class="topo-inside">ALGQGLFQ</span></span>
-<span class="topo-line"><span class="topo-unknown">YD</span><span class="topo-inside">DTTIYY</span><span class="topo-membrane">ARYIDWVISTPLLLAAL</span><span class="topo-outside">ALTAMFGGKKNLTLL</span><span class="topo-membrane">FSLVALDVFMIITGFVA</span><span class="topo-inside">DLS</span></span>
-<span class="topo-line"><span class="topo-inside">IGTTKY</span><span class="topo-membrane">IWYSLGVIALIIILVITF</span><span class="topo-outside">GPLRRIALSNGTRLARHYTRV</span><span class="topo-membrane">AIYLSALWVCYPTAW</span></span>
-<span class="topo-line"><span class="topo-membrane">LL</span><span class="topo-inside">GPSGLGLAQELTE</span><span class="topo-membrane">VLVFIILPIFS?VGFSIVD</span><span class="topo-outside">LHGLRKLHQ</span><span class="topo-unknown">SSYVHNA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">?ISIL</span><span class="topo-membrane">HYGYSFIMLLGALYFYL</span><span class="topo-outside">LSKDPKGVPASEY</span><span class="topo-membrane">LIAMVIPLWSGAAYLSI</span><span class="topo-inside">ALGQGLFQ</span><span class="topo-unknown">YD</span><span class="topo-inside">DTTIYY</span><span class="topo-membrane">ARYIDWVISTPLLLAAL</span><span class="topo-outside">ALTAMFGGKKNLTLL</span><span class="topo-membrane">FSLVALDVFMIITGFVA</span><span class="topo-inside">DLS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230</span>
+<span class="topo-line"><span class="topo-inside">IGTTKY</span><span class="topo-membrane">IWYSLGVIALIIILVITF</span><span class="topo-outside">GPLRRIALSNGTRLARHYTRV</span><span class="topo-membrane">AIYLSALWVCYPTAWLL</span><span class="topo-inside">GPSGLGLAQELTE</span><span class="topo-membrane">VLVFIILPIFS?VGFSIVD</span><span class="topo-outside">LHGLRKLHQ</span><span class="topo-unknown">SSYVHNA</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -5451,6 +5520,7 @@ BcXeR is a light-driven inward proton pump (xenorhodopsin) from Bacillus coahuil
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -5466,10 +5536,11 @@ BcXeR is a light-driven inward proton pump (xenorhodopsin) from Bacillus coahuil
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">?ISIL</span><span class="topo-membrane">HYGYSFIMLLGALYFYL</span><span class="topo-outside">LSKDPKGVPASEY</span><span class="topo-membrane">LIAMVIPLWSGAAYLSI</span><span class="topo-inside">ALGQGLFQ</span></span>
-<span class="topo-line"><span class="topo-inside">YDDTTIYY</span><span class="topo-membrane">ARYIDWVISTPLLLAAL</span><span class="topo-outside">ALTAMFGGKKNLTLL</span><span class="topo-membrane">FSLVALDVFMIITGFVA</span><span class="topo-inside">DLS</span></span>
-<span class="topo-line"><span class="topo-inside">IGTTKY</span><span class="topo-membrane">IWYSLGVIALIIILVITF</span><span class="topo-outside">GPLRRIALSNGTRLARHYTRV</span><span class="topo-membrane">AIYLSALWVCYPTAW</span></span>
-<span class="topo-line"><span class="topo-membrane">LL</span><span class="topo-inside">GPSGLGLAQELTE</span><span class="topo-membrane">VLVFIILPIFS?VGFSIVD</span><span class="topo-outside">LHGLRKLHQ</span><span class="topo-unknown">SSYVHNA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">?ISIL</span><span class="topo-membrane">HYGYSFIMLLGALYFYL</span><span class="topo-outside">LSKDPKGVPASEY</span><span class="topo-membrane">LIAMVIPLWSGAAYLSI</span><span class="topo-inside">ALGQGLFQYDDTTIYY</span><span class="topo-membrane">ARYIDWVISTPLLLAAL</span><span class="topo-outside">ALTAMFGGKKNLTLL</span><span class="topo-membrane">FSLVALDVFMIITGFVA</span><span class="topo-inside">DLS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230</span>
+<span class="topo-line"><span class="topo-inside">IGTTKY</span><span class="topo-membrane">IWYSLGVIALIIILVITF</span><span class="topo-outside">GPLRRIALSNGTRLARHYTRV</span><span class="topo-membrane">AIYLSALWVCYPTAWLL</span><span class="topo-inside">GPSGLGLAQELTE</span><span class="topo-membrane">VLVFIILPIFS?VGFSIVD</span><span class="topo-outside">LHGLRKLHQ</span><span class="topo-unknown">SSYVHNA</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -5593,6 +5664,7 @@ BcXeR is a light-driven inward proton pump (xenorhodopsin) from Bacillus coahuil
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -5608,10 +5680,11 @@ BcXeR is a light-driven inward proton pump (xenorhodopsin) from Bacillus coahuil
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">?ISIL</span><span class="topo-membrane">HYGYSFIMLLGALYFYL</span><span class="topo-outside">LSKDPKGVPASEY</span><span class="topo-membrane">LIAMVIPLWSGAAYLS</span><span class="topo-inside">IALGQGLFQ</span></span>
-<span class="topo-line"><span class="topo-inside">YDDTTIYY</span><span class="topo-membrane">ARYIDWVISTPLLLAAL</span><span class="topo-outside">ALTAMFGGKKNLTLL</span><span class="topo-membrane">FSLVALDVFMIITGFVA</span><span class="topo-inside">DLS</span></span>
-<span class="topo-line"><span class="topo-inside">IGTTKY</span><span class="topo-membrane">IWYSLGVIALIIILVITF</span><span class="topo-outside">GPLRRIALSNGTRLARHYTRV</span><span class="topo-membrane">AIYLSALWVCYPTAW</span></span>
-<span class="topo-line"><span class="topo-membrane">L</span><span class="topo-inside">LGPSGLGLAQELTE</span><span class="topo-membrane">VLVFIILPIFS?VGFSIVD</span><span class="topo-outside">LHGLRKLHQ</span><span class="topo-unknown">SSYVHN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">?ISIL</span><span class="topo-membrane">HYGYSFIMLLGALYFYL</span><span class="topo-outside">LSKDPKGVPASEY</span><span class="topo-membrane">LIAMVIPLWSGAAYLS</span><span class="topo-inside">IALGQGLFQYDDTTIYY</span><span class="topo-membrane">ARYIDWVISTPLLLAAL</span><span class="topo-outside">ALTAMFGGKKNLTLL</span><span class="topo-membrane">FSLVALDVFMIITGFVA</span><span class="topo-inside">DLS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220         </span>
+<span class="topo-line"><span class="topo-inside">IGTTKY</span><span class="topo-membrane">IWYSLGVIALIIILVITF</span><span class="topo-outside">GPLRRIALSNGTRLARHYTRV</span><span class="topo-membrane">AIYLSALWVCYPTAWL</span><span class="topo-inside">LGPSGLGLAQELTE</span><span class="topo-membrane">VLVFIILPIFS?VGFSIVD</span><span class="topo-outside">LHGLRKLHQ</span><span class="topo-unknown">SSYVHN</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -5735,6 +5808,7 @@ BcXeR is a light-driven inward proton pump (xenorhodopsin) from Bacillus coahuil
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -5750,10 +5824,11 @@ BcXeR is a light-driven inward proton pump (xenorhodopsin) from Bacillus coahuil
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">?ISIL</span><span class="topo-membrane">HYGYSFIMLLGALYFYL</span><span class="topo-outside">LSKDPKGVPASEY</span><span class="topo-membrane">LIAMVIPLWSGAAYLS</span><span class="topo-inside">IALGQGLFQ</span></span>
-<span class="topo-line"><span class="topo-unknown">YD</span><span class="topo-inside">DTTIYY</span><span class="topo-membrane">ARYIDWVISTPLLLAAL</span><span class="topo-outside">ALTAMFGGKKNLTLL</span><span class="topo-membrane">FSLVALDVFMIITGFVA</span><span class="topo-inside">DLS</span></span>
-<span class="topo-line"><span class="topo-inside">IGTTKY</span><span class="topo-membrane">IWYSLGVIALIIILVITF</span><span class="topo-outside">GPLRRIALSNGTRLARHYTRV</span><span class="topo-membrane">AIYLSALWVCYPTAW</span></span>
-<span class="topo-line"><span class="topo-membrane">L</span><span class="topo-inside">LGPSGLGLAQELTE</span><span class="topo-membrane">VLVFIILPIFS?VGFSIVD</span><span class="topo-outside">LHGLRKLHQ</span><span class="topo-unknown">SSYVHN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">?ISIL</span><span class="topo-membrane">HYGYSFIMLLGALYFYL</span><span class="topo-outside">LSKDPKGVPASEY</span><span class="topo-membrane">LIAMVIPLWSGAAYLS</span><span class="topo-inside">IALGQGLFQ</span><span class="topo-unknown">YD</span><span class="topo-inside">DTTIYY</span><span class="topo-membrane">ARYIDWVISTPLLLAAL</span><span class="topo-outside">ALTAMFGGKKNLTLL</span><span class="topo-membrane">FSLVALDVFMIITGFVA</span><span class="topo-inside">DLS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220         </span>
+<span class="topo-line"><span class="topo-inside">IGTTKY</span><span class="topo-membrane">IWYSLGVIALIIILVITF</span><span class="topo-outside">GPLRRIALSNGTRLARHYTRV</span><span class="topo-membrane">AIYLSALWVCYPTAWL</span><span class="topo-inside">LGPSGLGLAQELTE</span><span class="topo-membrane">VLVFIILPIFS?VGFSIVD</span><span class="topo-outside">LHGLRKLHQ</span><span class="topo-unknown">SSYVHN</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -5891,6 +5966,7 @@ BcXeR is a light-driven inward proton pump (xenorhodopsin) from Bacillus coahuil
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -5906,10 +5982,11 @@ BcXeR is a light-driven inward proton pump (xenorhodopsin) from Bacillus coahuil
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">?ISIL</span><span class="topo-membrane">HYGYSFIMLLGALYFYL</span><span class="topo-outside">LSKDPKGVPASEY</span><span class="topo-membrane">LIAMVIPLWSGAAYLS</span><span class="topo-inside">IALGQGLFQ</span></span>
-<span class="topo-line"><span class="topo-inside">YDDTTIYY</span><span class="topo-membrane">ARYIDWVISTPLLLAAL</span><span class="topo-outside">ALTAMFGGKKNLTLL</span><span class="topo-membrane">FSLVALDVFMIITGFVA</span><span class="topo-inside">DLS</span></span>
-<span class="topo-line"><span class="topo-inside">IGTTKY</span><span class="topo-membrane">IWYSLGVIALIIILVITF</span><span class="topo-outside">GPLRRIALSNGTRLARHYTRV</span><span class="topo-membrane">AIYLSALWVCYPTAW</span></span>
-<span class="topo-line"><span class="topo-membrane">L</span><span class="topo-inside">LGPSGLGLAQELTE</span><span class="topo-membrane">VLVFIILPIFS?VGFSIVD</span><span class="topo-outside">LHGLRKLHQ</span><span class="topo-unknown">SSYVHN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">?ISIL</span><span class="topo-membrane">HYGYSFIMLLGALYFYL</span><span class="topo-outside">LSKDPKGVPASEY</span><span class="topo-membrane">LIAMVIPLWSGAAYLS</span><span class="topo-inside">IALGQGLFQYDDTTIYY</span><span class="topo-membrane">ARYIDWVISTPLLLAAL</span><span class="topo-outside">ALTAMFGGKKNLTLL</span><span class="topo-membrane">FSLVALDVFMIITGFVA</span><span class="topo-inside">DLS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220         </span>
+<span class="topo-line"><span class="topo-inside">IGTTKY</span><span class="topo-membrane">IWYSLGVIALIIILVITF</span><span class="topo-outside">GPLRRIALSNGTRLARHYTRV</span><span class="topo-membrane">AIYLSALWVCYPTAWL</span><span class="topo-inside">LGPSGLGLAQELTE</span><span class="topo-membrane">VLVFIILPIFS?VGFSIVD</span><span class="topo-outside">LHGLRKLHQ</span><span class="topo-unknown">SSYVHN</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -6033,6 +6110,7 @@ BcXeR is a light-driven inward proton pump (xenorhodopsin) from Bacillus coahuil
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

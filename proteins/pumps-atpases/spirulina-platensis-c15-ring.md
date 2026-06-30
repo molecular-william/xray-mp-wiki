@@ -86,8 +86,9 @@ The c15 ring from the proton-coupled F1Fo ATP synthase of Spirulina platensis is
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MESNLTTAAS</span><span class="topo-membrane">VIAAALAVGIGSIGPGLGQGQAA</span><span class="topo-outside">GQAVEGIARQPEAEGKIRGTL</span><span class="topo-membrane">LLSLAF</span></span>
-<span class="topo-line"><span class="topo-membrane">MEALTIYGLVVALVLLFA</span><span class="topo-inside">NPFV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80  </span>
+<span class="topo-line"><span class="topo-inside">MESNLTTAAS</span><span class="topo-membrane">VIAAALAVGIGSIGPGLGQGQAA</span><span class="topo-outside">GQAVEGIARQPEAEGKIRGTL</span><span class="topo-membrane">LLSLAFMEALTIYGLVVALVLLFA</span><span class="topo-inside">NPFV</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -134,6 +135,7 @@ The c15 ring from the proton-coupled F1Fo ATP synthase of Spirulina platensis is
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -149,8 +151,9 @@ The c15 ring from the proton-coupled F1Fo ATP synthase of Spirulina platensis is
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MESNLTTAAS</span><span class="topo-membrane">VIAAALAVGIGSIGPGLGQGQAA</span><span class="topo-outside">GQAVEGIARQPEAEGKIRGTL</span><span class="topo-membrane">LLSLAF</span></span>
-<span class="topo-line"><span class="topo-membrane">MEALTIYGLVVALVLLFA</span><span class="topo-inside">NPFV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80  </span>
+<span class="topo-line"><span class="topo-inside">MESNLTTAAS</span><span class="topo-membrane">VIAAALAVGIGSIGPGLGQGQAA</span><span class="topo-outside">GQAVEGIARQPEAEGKIRGTL</span><span class="topo-membrane">LLSLAFMEALTIYGLVVALVLLFA</span><span class="topo-inside">NPFV</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -197,6 +200,7 @@ The c15 ring from the proton-coupled F1Fo ATP synthase of Spirulina platensis is
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -212,8 +216,9 @@ The c15 ring from the proton-coupled F1Fo ATP synthase of Spirulina platensis is
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MESNLTTAAS</span><span class="topo-membrane">VIAAALAVGIGSIGPGLGQGQAA</span><span class="topo-outside">GQAVEGIARQPEAEGKIRGTL</span><span class="topo-membrane">LLSLAF</span></span>
-<span class="topo-line"><span class="topo-membrane">MEALTIYGLVVALVLLFAN</span><span class="topo-inside">PFV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80  </span>
+<span class="topo-line"><span class="topo-inside">MESNLTTAAS</span><span class="topo-membrane">VIAAALAVGIGSIGPGLGQGQAA</span><span class="topo-outside">GQAVEGIARQPEAEGKIRGTL</span><span class="topo-membrane">LLSLAFMEALTIYGLVVALVLLFAN</span><span class="topo-inside">PFV</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -260,6 +265,7 @@ The c15 ring from the proton-coupled F1Fo ATP synthase of Spirulina platensis is
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -275,8 +281,9 @@ The c15 ring from the proton-coupled F1Fo ATP synthase of Spirulina platensis is
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MESNLTTAAS</span><span class="topo-membrane">VIAAALAVGIGSIGPGLGQGQAA</span><span class="topo-outside">GQAVEGIARQPEAEGKIRGTL</span><span class="topo-membrane">LLSLAF</span></span>
-<span class="topo-line"><span class="topo-membrane">MEALTIYGLVVALVLLFA</span><span class="topo-inside">NPFV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80  </span>
+<span class="topo-line"><span class="topo-inside">MESNLTTAAS</span><span class="topo-membrane">VIAAALAVGIGSIGPGLGQGQAA</span><span class="topo-outside">GQAVEGIARQPEAEGKIRGTL</span><span class="topo-membrane">LLSLAFMEALTIYGLVVALVLLFA</span><span class="topo-inside">NPFV</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -323,6 +330,7 @@ The c15 ring from the proton-coupled F1Fo ATP synthase of Spirulina platensis is
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -338,8 +346,9 @@ The c15 ring from the proton-coupled F1Fo ATP synthase of Spirulina platensis is
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MESNLTTAAS</span><span class="topo-membrane">VIAAALAVGIGSIGPGLGQGQAA</span><span class="topo-outside">GQAVEGIARQPEAEGKIRGTL</span><span class="topo-membrane">LLSLAF</span></span>
-<span class="topo-line"><span class="topo-membrane">MEALTIYGLVVALVLLFAN</span><span class="topo-inside">PFV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80  </span>
+<span class="topo-line"><span class="topo-inside">MESNLTTAAS</span><span class="topo-membrane">VIAAALAVGIGSIGPGLGQGQAA</span><span class="topo-outside">GQAVEGIARQPEAEGKIRGTL</span><span class="topo-membrane">LLSLAFMEALTIYGLVVALVLLFAN</span><span class="topo-inside">PFV</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -386,6 +395,7 @@ The c15 ring from the proton-coupled F1Fo ATP synthase of Spirulina platensis is
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -401,8 +411,9 @@ The c15 ring from the proton-coupled F1Fo ATP synthase of Spirulina platensis is
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MESNLTTAAS</span><span class="topo-membrane">VIAAALAVGIGSIGPGLGQGQAA</span><span class="topo-outside">GQAVEGIARQPEAEGKIRGTL</span><span class="topo-membrane">LLSLAF</span></span>
-<span class="topo-line"><span class="topo-membrane">MEALTIYGLVVALVLLFAN</span><span class="topo-inside">PFV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80  </span>
+<span class="topo-line"><span class="topo-inside">MESNLTTAAS</span><span class="topo-membrane">VIAAALAVGIGSIGPGLGQGQAA</span><span class="topo-outside">GQAVEGIARQPEAEGKIRGTL</span><span class="topo-membrane">LLSLAFMEALTIYGLVVALVLLFAN</span><span class="topo-inside">PFV</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -449,6 +460,7 @@ The c15 ring from the proton-coupled F1Fo ATP synthase of Spirulina platensis is
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -464,8 +476,9 @@ The c15 ring from the proton-coupled F1Fo ATP synthase of Spirulina platensis is
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MESNLTTAAS</span><span class="topo-membrane">VIAAALAVGIGSIGPGLGQGQAA</span><span class="topo-outside">GQAVEGIARQPEAEGKIRGTL</span><span class="topo-membrane">LLSLAF</span></span>
-<span class="topo-line"><span class="topo-membrane">MEALTIYGLVVALVLLFAN</span><span class="topo-inside">PFV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80  </span>
+<span class="topo-line"><span class="topo-inside">MESNLTTAAS</span><span class="topo-membrane">VIAAALAVGIGSIGPGLGQGQAA</span><span class="topo-outside">GQAVEGIARQPEAEGKIRGTL</span><span class="topo-membrane">LLSLAFMEALTIYGLVVALVLLFAN</span><span class="topo-inside">PFV</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -512,6 +525,7 @@ The c15 ring from the proton-coupled F1Fo ATP synthase of Spirulina platensis is
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -527,8 +541,9 @@ The c15 ring from the proton-coupled F1Fo ATP synthase of Spirulina platensis is
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MESNLTTAAS</span><span class="topo-membrane">VIAAALAVGIGSIGPGLGQGQAA</span><span class="topo-outside">GQAVEGIARQPEAEGKIRGTL</span><span class="topo-membrane">LLSLAF</span></span>
-<span class="topo-line"><span class="topo-membrane">MEALTIYGLVVALVLLFAN</span><span class="topo-inside">PFV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80  </span>
+<span class="topo-line"><span class="topo-inside">MESNLTTAAS</span><span class="topo-membrane">VIAAALAVGIGSIGPGLGQGQAA</span><span class="topo-outside">GQAVEGIARQPEAEGKIRGTL</span><span class="topo-membrane">LLSLAFMEALTIYGLVVALVLLFAN</span><span class="topo-inside">PFV</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -575,6 +590,7 @@ The c15 ring from the proton-coupled F1Fo ATP synthase of Spirulina platensis is
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -590,8 +606,9 @@ The c15 ring from the proton-coupled F1Fo ATP synthase of Spirulina platensis is
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MESNLTTAAS</span><span class="topo-membrane">VIAAALAVGIGSIGPGLGQGQAA</span><span class="topo-outside">GQAVEGIARQPEAEGKIRGTL</span><span class="topo-membrane">LLSLAF</span></span>
-<span class="topo-line"><span class="topo-membrane">MEALTIYGLVVALVLLFA</span><span class="topo-inside">NPFV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80  </span>
+<span class="topo-line"><span class="topo-inside">MESNLTTAAS</span><span class="topo-membrane">VIAAALAVGIGSIGPGLGQGQAA</span><span class="topo-outside">GQAVEGIARQPEAEGKIRGTL</span><span class="topo-membrane">LLSLAFMEALTIYGLVVALVLLFA</span><span class="topo-inside">NPFV</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -638,6 +655,7 @@ The c15 ring from the proton-coupled F1Fo ATP synthase of Spirulina platensis is
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -653,8 +671,9 @@ The c15 ring from the proton-coupled F1Fo ATP synthase of Spirulina platensis is
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MESNLTTAAS</span><span class="topo-membrane">VIAAALAVGIGSIGPGLGQGQAA</span><span class="topo-outside">GQAVEGIARQPEAEGKIRGTL</span><span class="topo-membrane">LLSLAF</span></span>
-<span class="topo-line"><span class="topo-membrane">MEALTIYGLVVALVLLFA</span><span class="topo-inside">NPFV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80  </span>
+<span class="topo-line"><span class="topo-inside">MESNLTTAAS</span><span class="topo-membrane">VIAAALAVGIGSIGPGLGQGQAA</span><span class="topo-outside">GQAVEGIARQPEAEGKIRGTL</span><span class="topo-membrane">LLSLAFMEALTIYGLVVALVLLFA</span><span class="topo-inside">NPFV</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -701,6 +720,7 @@ The c15 ring from the proton-coupled F1Fo ATP synthase of Spirulina platensis is
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -716,8 +736,9 @@ The c15 ring from the proton-coupled F1Fo ATP synthase of Spirulina platensis is
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MESNLTTAAS</span><span class="topo-membrane">VIAAALAVGIGSIGPGLGQGQAA</span><span class="topo-outside">GQAVEGIARQPEAEGKIRGTL</span><span class="topo-membrane">LLSLAF</span></span>
-<span class="topo-line"><span class="topo-membrane">MEALTIYGLVVALVLLFA</span><span class="topo-inside">NPFV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80  </span>
+<span class="topo-line"><span class="topo-inside">MESNLTTAAS</span><span class="topo-membrane">VIAAALAVGIGSIGPGLGQGQAA</span><span class="topo-outside">GQAVEGIARQPEAEGKIRGTL</span><span class="topo-membrane">LLSLAFMEALTIYGLVVALVLLFA</span><span class="topo-inside">NPFV</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -764,6 +785,7 @@ The c15 ring from the proton-coupled F1Fo ATP synthase of Spirulina platensis is
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -779,8 +801,9 @@ The c15 ring from the proton-coupled F1Fo ATP synthase of Spirulina platensis is
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MESNLTTAAS</span><span class="topo-membrane">VIAAALAVGIGSIGPGLGQGQAA</span><span class="topo-outside">GQAVEGIARQPEAEGKIRGTL</span><span class="topo-membrane">LLSLAF</span></span>
-<span class="topo-line"><span class="topo-membrane">MEALTIYGLVVALVLLFA</span><span class="topo-inside">NPFV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80  </span>
+<span class="topo-line"><span class="topo-inside">MESNLTTAAS</span><span class="topo-membrane">VIAAALAVGIGSIGPGLGQGQAA</span><span class="topo-outside">GQAVEGIARQPEAEGKIRGTL</span><span class="topo-membrane">LLSLAFMEALTIYGLVVALVLLFA</span><span class="topo-inside">NPFV</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -827,6 +850,7 @@ The c15 ring from the proton-coupled F1Fo ATP synthase of Spirulina platensis is
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -842,8 +866,9 @@ The c15 ring from the proton-coupled F1Fo ATP synthase of Spirulina platensis is
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MESNLTTAAS</span><span class="topo-membrane">VIAAALAVGIGSIGPGLGQGQAA</span><span class="topo-outside">GQAVEGIARQPEAEGKIRGTL</span><span class="topo-membrane">LLSLAF</span></span>
-<span class="topo-line"><span class="topo-membrane">MEALTIYGLVVALVLLFA</span><span class="topo-inside">NPFV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80  </span>
+<span class="topo-line"><span class="topo-inside">MESNLTTAAS</span><span class="topo-membrane">VIAAALAVGIGSIGPGLGQGQAA</span><span class="topo-outside">GQAVEGIARQPEAEGKIRGTL</span><span class="topo-membrane">LLSLAFMEALTIYGLVVALVLLFA</span><span class="topo-inside">NPFV</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -890,6 +915,7 @@ The c15 ring from the proton-coupled F1Fo ATP synthase of Spirulina platensis is
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -905,8 +931,9 @@ The c15 ring from the proton-coupled F1Fo ATP synthase of Spirulina platensis is
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MESNLTTAAS</span><span class="topo-membrane">VIAAALAVGIGSIGPGLGQGQAA</span><span class="topo-outside">GQAVEGIARQPEAEGKIRGTL</span><span class="topo-membrane">LLSLAF</span></span>
-<span class="topo-line"><span class="topo-membrane">MEALTIYGLVVALVLLFA</span><span class="topo-inside">NPFV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80  </span>
+<span class="topo-line"><span class="topo-inside">MESNLTTAAS</span><span class="topo-membrane">VIAAALAVGIGSIGPGLGQGQAA</span><span class="topo-outside">GQAVEGIARQPEAEGKIRGTL</span><span class="topo-membrane">LLSLAFMEALTIYGLVVALVLLFA</span><span class="topo-inside">NPFV</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -953,6 +980,7 @@ The c15 ring from the proton-coupled F1Fo ATP synthase of Spirulina platensis is
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -968,8 +996,9 @@ The c15 ring from the proton-coupled F1Fo ATP synthase of Spirulina platensis is
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MESNLTTAAS</span><span class="topo-membrane">VIAAALAVGIGSIGPGLGQGQAA</span><span class="topo-outside">GQAVEGIARQPEAEGKIRGTL</span><span class="topo-membrane">LLSLAF</span></span>
-<span class="topo-line"><span class="topo-membrane">MEALTIYGLVVALVLLFA</span><span class="topo-inside">NPFV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80  </span>
+<span class="topo-line"><span class="topo-inside">MESNLTTAAS</span><span class="topo-membrane">VIAAALAVGIGSIGPGLGQGQAA</span><span class="topo-outside">GQAVEGIARQPEAEGKIRGTL</span><span class="topo-membrane">LLSLAFMEALTIYGLVVALVLLFA</span><span class="topo-inside">NPFV</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1016,6 +1045,7 @@ The c15 ring from the proton-coupled F1Fo ATP synthase of Spirulina platensis is
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

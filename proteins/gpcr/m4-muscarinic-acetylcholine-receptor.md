@@ -144,14 +144,15 @@ The human M4 muscarinic [Acetylcholine](/xray-mp-wiki/reagents/ligands/acetylcho
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">GPSSHNRYETVEMV</span><span class="topo-membrane">FIATVTGSLSLVTVVGNILVMLSIK</span><span class="topo-inside">VNRQLQTVNN</span><span class="topo-membrane">YFLFSLACADL</span></span>
-<span class="topo-line"><span class="topo-membrane">IIGAFSMNLYTVYI</span><span class="topo-outside">IKGYWPLGAV</span><span class="topo-membrane">VCDLWLALDYVVSNASVMNLLIISF</span><span class="topo-inside">DRYFCVTKPLT</span></span>
-<span class="topo-line"><span class="topo-inside">YPARRTTKMA</span><span class="topo-membrane">GLMIAAAWVLSFVLWAPAILFWQFVV</span><span class="topo-outside">GKRTVPDNQCFIQFL</span><span class="topo-membrane">SNPAVTFGT</span></span>
-<span class="topo-line"><span class="topo-membrane">AIAAFYLPVVIMTVLYI</span><span class="topo-inside">HISLASRSRVNIFEMLRIDE</span><span class="topo-unknown">GGGSGGD</span><span class="topo-inside">EAEKLFNQDVDAAVRG</span></span>
-<span class="topo-line"><span class="topo-inside">ILRNAKLKPVYDSLDAVRRAALINMVFQMGETGVAGFTNSLRMLQQKRWDEAAVNLAKSR</span></span>
-<span class="topo-line"><span class="topo-inside">WYNQTPNRAKRVITTFRTGTWDAY</span><span class="topo-unknown">QMAARE</span><span class="topo-inside">RKVTR</span><span class="topo-membrane">TIFAILLAFILTWTPYNVMVLVNTF</span></span>
-<span class="topo-line"><span class="topo-membrane">CQ</span><span class="topo-outside">SCIPDT</span><span class="topo-membrane">VWSIGYWLCYVNSTINPACYALCN</span><span class="topo-inside">ATFKKTFRHLLLC</span><span class="topo-unknown">QYRNIGTARHHHHHH</span></span>
-<span class="topo-line"><span class="topo-unknown">HH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">GPSSHNRYETVEMV</span><span class="topo-membrane">FIATVTGSLSLVTVVGNILVMLSIK</span><span class="topo-inside">VNRQLQTVNN</span><span class="topo-membrane">YFLFSLACADLIIGAFSMNLYTVYI</span><span class="topo-outside">IKGYWPLGAV</span><span class="topo-membrane">VCDLWLALDYVVSNASVMNLLIISF</span><span class="topo-inside">DRYFCVTKPLT</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">YPARRTTKMA</span><span class="topo-membrane">GLMIAAAWVLSFVLWAPAILFWQFVV</span><span class="topo-outside">GKRTVPDNQCFIQFL</span><span class="topo-membrane">SNPAVTFGTAIAAFYLPVVIMTVLYI</span><span class="topo-inside">HISLASRSRVNIFEMLRIDE</span><span class="topo-unknown">GGGSGGD</span><span class="topo-inside">EAEKLFNQDVDAAVRG</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">ILRNAKLKPVYDSLDAVRRAALINMVFQMGETGVAGFTNSLRMLQQKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWDAY</span><span class="topo-unknown">QMAARE</span><span class="topo-inside">RKVTR</span><span class="topo-membrane">TIFAILLAFILTWTPYNVMVLVNTF</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420  </span>
+<span class="topo-line"><span class="topo-membrane">CQ</span><span class="topo-outside">SCIPDT</span><span class="topo-membrane">VWSIGYWLCYVNSTINPACYALCN</span><span class="topo-inside">ATFKKTFRHLLLC</span><span class="topo-unknown">QYRNIGTARHHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -296,6 +297,7 @@ The human M4 muscarinic [Acetylcholine](/xray-mp-wiki/reagents/ligands/acetylcho
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

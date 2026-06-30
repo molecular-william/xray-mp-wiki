@@ -61,10 +61,11 @@ Med12BPR is a blue-light-absorbing proteorhodopsin (BPR) isolated from an uncult
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGEILAVD</span><span class="topo-inside">DYVGI</span><span class="topo-membrane">SFWLAAAIMLASTVF</span><span class="topo-outside">FFVERSDVPVKWKTSLTVAG</span><span class="topo-membrane">LVTGVAFWHYLY</span></span>
-<span class="topo-line"><span class="topo-membrane">M</span><span class="topo-inside">RGVWIYAGETPT</span><span class="topo-membrane">VFRYIDWLITVPLQ</span><span class="topo-outside">IIEFYLIIA</span><span class="topo-unknown">AVTAISSA</span><span class="topo-outside">VFWKLL</span><span class="topo-membrane">IASLVMLIGG</span></span>
-<span class="topo-line"><span class="topo-membrane">FIG</span><span class="topo-inside">EAGLGDVV</span><span class="topo-membrane">VWWIVGMIAWLYI</span><span class="topo-outside">IYEIFL</span><span class="topo-unknown">GETAKANAGSGNAASQQA</span><span class="topo-outside">FNTIKWI</span><span class="topo-membrane">VTVGW</span></span>
-<span class="topo-line"><span class="topo-membrane">AIYPIGYAW</span><span class="topo-inside">GYFGDGLNEDA</span><span class="topo-membrane">LNIVYNLADLINKAAF</span><span class="topo-outside">GLAIWAAAMKDKETS</span><span class="topo-unknown">TSHA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGEILAVD</span><span class="topo-inside">DYVGI</span><span class="topo-membrane">SFWLAAAIMLASTVF</span><span class="topo-outside">FFVERSDVPVKWKTSLTVAG</span><span class="topo-membrane">LVTGVAFWHYLYM</span><span class="topo-inside">RGVWIYAGETPT</span><span class="topo-membrane">VFRYIDWLITVPLQ</span><span class="topo-outside">IIEFYLIIA</span><span class="topo-unknown">AVTAISSA</span><span class="topo-outside">VFWKLL</span><span class="topo-membrane">IASLVMLIGG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230     </span>
+<span class="topo-line"><span class="topo-membrane">FIG</span><span class="topo-inside">EAGLGDVV</span><span class="topo-membrane">VWWIVGMIAWLYI</span><span class="topo-outside">IYEIFL</span><span class="topo-unknown">GETAKANAGSGNAASQQA</span><span class="topo-outside">FNTIKWI</span><span class="topo-membrane">VTVGWAIYPIGYAW</span><span class="topo-inside">GYFGDGLNEDA</span><span class="topo-membrane">LNIVYNLADLINKAAF</span><span class="topo-outside">GLAIWAAAMKDKETS</span><span class="topo-unknown">TSHA</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -223,6 +224,7 @@ Med12BPR is a blue-light-absorbing proteorhodopsin (BPR) isolated from an uncult
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -238,10 +240,11 @@ Med12BPR is a blue-light-absorbing proteorhodopsin (BPR) isolated from an uncult
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGEILAVD</span><span class="topo-inside">DYVGIS</span><span class="topo-membrane">FWLAAAIMLASTVF</span><span class="topo-outside">FFVERSDVPVKWKTSLTV</span><span class="topo-membrane">AGLVTGVAFWHYL</span><span class="topo-inside">Y</span></span>
-<span class="topo-line"><span class="topo-inside">MRGVWIYAGETPTVF</span><span class="topo-membrane">RYIDWLITVPLQI</span><span class="topo-outside">IEFYLIIAA</span><span class="topo-unknown">VTAISS</span><span class="topo-outside">AVFW</span><span class="topo-membrane">KLLIASLVMLIGG</span></span>
-<span class="topo-line"><span class="topo-membrane">F</span><span class="topo-inside">IGEAGLGDVVV</span><span class="topo-membrane">WWIVGMIAWLYII</span><span class="topo-outside">YEIFLG</span><span class="topo-unknown">ETAKANAGSGN</span><span class="topo-outside">AASQQAFNTIKWI</span><span class="topo-membrane">VTVGW</span></span>
-<span class="topo-line"><span class="topo-membrane">AIYPIGYAW</span><span class="topo-inside">GYFGDGLNEDAL</span><span class="topo-membrane">NIVYNLADLINKAAFG</span><span class="topo-outside">LAIWAAAMKDK</span><span class="topo-unknown">ETSTSHA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGEILAVD</span><span class="topo-inside">DYVGIS</span><span class="topo-membrane">FWLAAAIMLASTVF</span><span class="topo-outside">FFVERSDVPVKWKTSLTV</span><span class="topo-membrane">AGLVTGVAFWHYL</span><span class="topo-inside">YMRGVWIYAGETPTVF</span><span class="topo-membrane">RYIDWLITVPLQI</span><span class="topo-outside">IEFYLIIAA</span><span class="topo-unknown">VTAISS</span><span class="topo-outside">AVFW</span><span class="topo-membrane">KLLIASLVMLIGG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230     </span>
+<span class="topo-line"><span class="topo-membrane">F</span><span class="topo-inside">IGEAGLGDVVV</span><span class="topo-membrane">WWIVGMIAWLYII</span><span class="topo-outside">YEIFLG</span><span class="topo-unknown">ETAKANAGSGN</span><span class="topo-outside">AASQQAFNTIKWI</span><span class="topo-membrane">VTVGWAIYPIGYAW</span><span class="topo-inside">GYFGDGLNEDAL</span><span class="topo-membrane">NIVYNLADLINKAAFG</span><span class="topo-outside">LAIWAAAMKDK</span><span class="topo-unknown">ETSTSHA</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -400,6 +403,7 @@ Med12BPR is a blue-light-absorbing proteorhodopsin (BPR) isolated from an uncult
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -415,10 +419,11 @@ Med12BPR is a blue-light-absorbing proteorhodopsin (BPR) isolated from an uncult
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGEILAVD</span><span class="topo-inside">DYVGI</span><span class="topo-membrane">SFWLAAAIMLASTVF</span><span class="topo-outside">FFVERSDVPVKWKTSLTV</span><span class="topo-membrane">AGLVTGVAFWHYL</span><span class="topo-inside">Y</span></span>
-<span class="topo-line"><span class="topo-inside">MRGVWIYAGETPTVF</span><span class="topo-membrane">RYIDWLITVPLQI</span><span class="topo-outside">IEFYLIIA</span><span class="topo-unknown">AVTAISSA</span><span class="topo-outside">VFW</span><span class="topo-membrane">KLLIASLVMLIGG</span></span>
-<span class="topo-line"><span class="topo-membrane">F</span><span class="topo-inside">IGEAGLGDVVVW</span><span class="topo-membrane">WIVGMIAWLYIIY</span><span class="topo-outside">EIF</span><span class="topo-unknown">LGETAKANAGSGNAA</span><span class="topo-outside">SQQAFNTIKWI</span><span class="topo-membrane">VTVGW</span></span>
-<span class="topo-line"><span class="topo-membrane">AIYPIGYAW</span><span class="topo-inside">GYFGDGLNEDA</span><span class="topo-membrane">LNIVYNLADLINKAAF</span><span class="topo-outside">GLAIWAAAMKDKET</span><span class="topo-unknown">STSHA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGEILAVD</span><span class="topo-inside">DYVGI</span><span class="topo-membrane">SFWLAAAIMLASTVF</span><span class="topo-outside">FFVERSDVPVKWKTSLTV</span><span class="topo-membrane">AGLVTGVAFWHYL</span><span class="topo-inside">YMRGVWIYAGETPTVF</span><span class="topo-membrane">RYIDWLITVPLQI</span><span class="topo-outside">IEFYLIIA</span><span class="topo-unknown">AVTAISSA</span><span class="topo-outside">VFW</span><span class="topo-membrane">KLLIASLVMLIGG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230     </span>
+<span class="topo-line"><span class="topo-membrane">F</span><span class="topo-inside">IGEAGLGDVVVW</span><span class="topo-membrane">WIVGMIAWLYIIY</span><span class="topo-outside">EIF</span><span class="topo-unknown">LGETAKANAGSGNAA</span><span class="topo-outside">SQQAFNTIKWI</span><span class="topo-membrane">VTVGWAIYPIGYAW</span><span class="topo-inside">GYFGDGLNEDA</span><span class="topo-membrane">LNIVYNLADLINKAAF</span><span class="topo-outside">GLAIWAAAMKDKET</span><span class="topo-unknown">STSHA</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -577,6 +582,7 @@ Med12BPR is a blue-light-absorbing proteorhodopsin (BPR) isolated from an uncult
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -592,10 +598,11 @@ Med12BPR is a blue-light-absorbing proteorhodopsin (BPR) isolated from an uncult
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGEILAVD</span><span class="topo-inside">DYVGI</span><span class="topo-membrane">SFWLAAAIMLASTVF</span><span class="topo-outside">FFVERSDVPVKWKTSLTVA</span><span class="topo-membrane">GLVTGVAFWHYLY</span></span>
-<span class="topo-line"><span class="topo-membrane">M</span><span class="topo-inside">RGVWIYAGETPTV</span><span class="topo-membrane">FRYIDWLITVPLQI</span><span class="topo-outside">IEFYLIIA</span><span class="topo-unknown">AVTAISSA</span><span class="topo-outside">VFWK</span><span class="topo-membrane">LLIASLVMLIGG</span></span>
-<span class="topo-line"><span class="topo-membrane">FI</span><span class="topo-inside">GEAGLGDVV</span><span class="topo-membrane">VWWIVGMIAWLYI</span><span class="topo-outside">IYEIFL</span><span class="topo-unknown">GETAKANAGSGNAASQQA</span><span class="topo-outside">FNTIKWI</span><span class="topo-membrane">VTVGW</span></span>
-<span class="topo-line"><span class="topo-membrane">AIYPIGYAW</span><span class="topo-inside">GYFGDGLNEDA</span><span class="topo-membrane">LNIVYNLADLINKAA</span><span class="topo-outside">FGLAIWAAAMKDKETS</span><span class="topo-unknown">TSHA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGEILAVD</span><span class="topo-inside">DYVGI</span><span class="topo-membrane">SFWLAAAIMLASTVF</span><span class="topo-outside">FFVERSDVPVKWKTSLTVA</span><span class="topo-membrane">GLVTGVAFWHYLYM</span><span class="topo-inside">RGVWIYAGETPTV</span><span class="topo-membrane">FRYIDWLITVPLQI</span><span class="topo-outside">IEFYLIIA</span><span class="topo-unknown">AVTAISSA</span><span class="topo-outside">VFWK</span><span class="topo-membrane">LLIASLVMLIGG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230     </span>
+<span class="topo-line"><span class="topo-membrane">FI</span><span class="topo-inside">GEAGLGDVV</span><span class="topo-membrane">VWWIVGMIAWLYI</span><span class="topo-outside">IYEIFL</span><span class="topo-unknown">GETAKANAGSGNAASQQA</span><span class="topo-outside">FNTIKWI</span><span class="topo-membrane">VTVGWAIYPIGYAW</span><span class="topo-inside">GYFGDGLNEDA</span><span class="topo-membrane">LNIVYNLADLINKAA</span><span class="topo-outside">FGLAIWAAAMKDKETS</span><span class="topo-unknown">TSHA</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -754,6 +761,7 @@ Med12BPR is a blue-light-absorbing proteorhodopsin (BPR) isolated from an uncult
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -769,10 +777,11 @@ Med12BPR is a blue-light-absorbing proteorhodopsin (BPR) isolated from an uncult
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGEILAVD</span><span class="topo-inside">DYVGI</span><span class="topo-membrane">SFWLAAAIMLASTV</span><span class="topo-outside">FFFVERSDVPVKWKTSLTVAG</span><span class="topo-membrane">LVTGVAFWHYLY</span></span>
-<span class="topo-line"><span class="topo-membrane">MR</span><span class="topo-inside">GVWIYAGETPT</span><span class="topo-membrane">VFRYIDWLITVPLQI</span><span class="topo-outside">IEFYLIIAA</span><span class="topo-unknown">VTAISS</span><span class="topo-outside">AVFWK</span><span class="topo-membrane">LLIASLVMLIGG</span></span>
-<span class="topo-line"><span class="topo-membrane">FIG</span><span class="topo-inside">EAGLGDVV</span><span class="topo-membrane">VWWIVGMIAWLYI</span><span class="topo-outside">IYEIFLG</span><span class="topo-unknown">ETAKANAGSGN</span><span class="topo-outside">AASQQAFNTIKWIV</span><span class="topo-membrane">TVGW</span></span>
-<span class="topo-line"><span class="topo-membrane">AIYPIGYAWG</span><span class="topo-inside">YFGDGLNEDA</span><span class="topo-membrane">LNIVYNLADLINKAA</span><span class="topo-outside">FGLAIWAAAMKDK</span><span class="topo-unknown">ETSTSHA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGEILAVD</span><span class="topo-inside">DYVGI</span><span class="topo-membrane">SFWLAAAIMLASTV</span><span class="topo-outside">FFFVERSDVPVKWKTSLTVAG</span><span class="topo-membrane">LVTGVAFWHYLYMR</span><span class="topo-inside">GVWIYAGETPT</span><span class="topo-membrane">VFRYIDWLITVPLQI</span><span class="topo-outside">IEFYLIIAA</span><span class="topo-unknown">VTAISS</span><span class="topo-outside">AVFWK</span><span class="topo-membrane">LLIASLVMLIGG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230     </span>
+<span class="topo-line"><span class="topo-membrane">FIG</span><span class="topo-inside">EAGLGDVV</span><span class="topo-membrane">VWWIVGMIAWLYI</span><span class="topo-outside">IYEIFLG</span><span class="topo-unknown">ETAKANAGSGN</span><span class="topo-outside">AASQQAFNTIKWIV</span><span class="topo-membrane">TVGWAIYPIGYAWG</span><span class="topo-inside">YFGDGLNEDA</span><span class="topo-membrane">LNIVYNLADLINKAA</span><span class="topo-outside">FGLAIWAAAMKDK</span><span class="topo-unknown">ETSTSHA</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -931,6 +940,7 @@ Med12BPR is a blue-light-absorbing proteorhodopsin (BPR) isolated from an uncult
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -946,10 +956,11 @@ Med12BPR is a blue-light-absorbing proteorhodopsin (BPR) isolated from an uncult
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGEILAVD</span><span class="topo-inside">DYVGI</span><span class="topo-membrane">SFWLAAAIMLASTV</span><span class="topo-outside">FFFVERSDVPVKWKTSLTVAG</span><span class="topo-membrane">LVTGVAFWHYLY</span></span>
-<span class="topo-line"><span class="topo-membrane">MR</span><span class="topo-inside">GVWIYAGETPT</span><span class="topo-membrane">VFRYIDWLITVPLQ</span><span class="topo-outside">IIEFYLIIA</span><span class="topo-unknown">AVTAISSA</span><span class="topo-outside">VFWKL</span><span class="topo-membrane">LIASLVMLIGG</span></span>
-<span class="topo-line"><span class="topo-membrane">FIGE</span><span class="topo-inside">AGLGDV</span><span class="topo-membrane">VVWWIVGMIAWLYI</span><span class="topo-outside">IYEIF</span><span class="topo-unknown">LGETAKANAGSGNAA</span><span class="topo-outside">SQQAFNTIKWIVT</span><span class="topo-membrane">VGW</span></span>
-<span class="topo-line"><span class="topo-membrane">AIYPIGYAWG</span><span class="topo-inside">YFGDGLNEDA</span><span class="topo-membrane">LNIVYNLADLINKAA</span><span class="topo-outside">FGLAIWAAAMKDKET</span><span class="topo-unknown">STSHA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGEILAVD</span><span class="topo-inside">DYVGI</span><span class="topo-membrane">SFWLAAAIMLASTV</span><span class="topo-outside">FFFVERSDVPVKWKTSLTVAG</span><span class="topo-membrane">LVTGVAFWHYLYMR</span><span class="topo-inside">GVWIYAGETPT</span><span class="topo-membrane">VFRYIDWLITVPLQ</span><span class="topo-outside">IIEFYLIIA</span><span class="topo-unknown">AVTAISSA</span><span class="topo-outside">VFWKL</span><span class="topo-membrane">LIASLVMLIGG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230     </span>
+<span class="topo-line"><span class="topo-membrane">FIGE</span><span class="topo-inside">AGLGDV</span><span class="topo-membrane">VVWWIVGMIAWLYI</span><span class="topo-outside">IYEIF</span><span class="topo-unknown">LGETAKANAGSGNAA</span><span class="topo-outside">SQQAFNTIKWIVT</span><span class="topo-membrane">VGWAIYPIGYAWG</span><span class="topo-inside">YFGDGLNEDA</span><span class="topo-membrane">LNIVYNLADLINKAA</span><span class="topo-outside">FGLAIWAAAMKDKET</span><span class="topo-unknown">STSHA</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1108,6 +1119,7 @@ Med12BPR is a blue-light-absorbing proteorhodopsin (BPR) isolated from an uncult
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

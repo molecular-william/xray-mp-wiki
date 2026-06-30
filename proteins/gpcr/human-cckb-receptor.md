@@ -127,15 +127,17 @@ The human cholecystokinin B receptor (CCKᴅR) is a class A G-protein-coupled re
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">DYKDDDDGAPDVVDSLLVNGSNITPPCELGLENETLFCLDQPRPS</span><span class="topo-inside">KEW</span><span class="topo-membrane">QPAVQILLYSLI</span></span>
-<span class="topo-line"><span class="topo-membrane">FLLSVLGNTLVITV</span><span class="topo-outside">LIRNKRMRTVTNI</span><span class="topo-membrane">FLLSLAVSDLMLCLFCMPFNLIPNL</span><span class="topo-inside">LKDFIF</span><span class="topo-membrane">GS</span></span>
-<span class="topo-line"><span class="topo-membrane">AVCKTTTYFMGTSVSVSTWNLVAIS</span><span class="topo-outside">LERYGAICKPLQSRVWQTKSHAL</span><span class="topo-membrane">KVIAATWCLSFT</span></span>
-<span class="topo-line"><span class="topo-membrane">IMTPYPIYSN</span><span class="topo-inside">LVPFTKNNNQTANMCRFLLPND</span><span class="topo-membrane">VMQQSWHTFLLLILFLIPGIVMMVAYG</span><span class="topo-outside">L</span></span>
-<span class="topo-line"><span class="topo-outside">ISLELYQGINIFEMLRIDEGLRLKIYKDTEGYYTIGIGHLLTKSPSLNAAKSELDKAIGR</span></span>
-<span class="topo-line"><span class="topo-outside">NTNGVITKDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVFQMGETGVA</span></span>
-<span class="topo-line"><span class="topo-outside">GFTNSLRMLQQKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWDAYAANLMAKKRVI</span></span>
-<span class="topo-line"><span class="topo-outside">R</span><span class="topo-membrane">MLIVIVVLFFLCWMPIFSANAWRAY</span><span class="topo-inside">DTASAERRLSGT</span><span class="topo-membrane">PISFILLLSYTSSCVNPIIYCF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">DYKDDDDGAPDVVDSLLVNGSNITPPCELGLENETLFCLDQPRPS</span><span class="topo-inside">KEW</span><span class="topo-membrane">QPAVQILLYSLIFLLSVLGNTLVITV</span><span class="topo-outside">LIRNKRMRTVTNI</span><span class="topo-membrane">FLLSLAVSDLMLCLFCMPFNLIPNL</span><span class="topo-inside">LKDFIF</span><span class="topo-membrane">GS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">AVCKTTTYFMGTSVSVSTWNLVAIS</span><span class="topo-outside">LERYGAICKPLQSRVWQTKSHAL</span><span class="topo-membrane">KVIAATWCLSFTIMTPYPIYSN</span><span class="topo-inside">LVPFTKNNNQTANMCRFLLPND</span><span class="topo-membrane">VMQQSWHTFLLLILFLIPGIVMMVAYG</span><span class="topo-outside">L</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">ISLELYQGINIFEMLRIDEGLRLKIYKDTEGYYTIGIGHLLTKSPSLNAAKSELDKAIGRNTNGVITKDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVFQMGETGVA</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">GFTNSLRMLQQKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWDAYAANLMAKKRVIR</span><span class="topo-membrane">MLIVIVVLFFLCWMPIFSANAWRAY</span><span class="topo-inside">DTASAERRLSGT</span><span class="topo-membrane">PISFILLLSYTSSCVNPIIYCF</span></span>
+<span class="topo-ruler">       490       500       510       520       530    </span>
 <span class="topo-line"><span class="topo-membrane">M</span><span class="topo-outside">NKRFRLG</span><span class="topo-unknown">FMATFPCCPNPGPPGARGEVGEEEEGEFLEVLFQGPHHHHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -294,6 +296,7 @@ The human cholecystokinin B receptor (CCKᴅR) is a class A G-protein-coupled re
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -309,15 +312,17 @@ The human cholecystokinin B receptor (CCKᴅR) is a class A G-protein-coupled re
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">DYKDDDDGAPDVVDSLLVNGSNITPPCELGLENETLFCLDQPRPS</span><span class="topo-outside">KEW</span><span class="topo-membrane">QPAVQILLYSLI</span></span>
-<span class="topo-line"><span class="topo-membrane">FLLSVLGNTLVITVLI</span><span class="topo-inside">RNKRMRTVT</span><span class="topo-membrane">NIFLLSLAVSNLMLCLFCMPFNLI</span><span class="topo-outside">PNLLKDFIFGS</span></span>
-<span class="topo-line"><span class="topo-outside">A</span><span class="topo-membrane">VCKTTTYFMGTSVSVSTWNLVAISL</span><span class="topo-inside">ERYGAICKPLQSRVWQTKSH</span><span class="topo-membrane">ALKVIAATWCLSFT</span></span>
-<span class="topo-line"><span class="topo-membrane">IMTPYPIYS</span><span class="topo-outside">NLVPFTKNNNQTANMCRFLLPNDVM</span><span class="topo-membrane">QQSWHTFLLLILFLIPGIVMMVAYG</span><span class="topo-inside">L</span></span>
-<span class="topo-line"><span class="topo-inside">ISLELYQGINIFEMLRIDEGLRLKIYKDTEGYYTIGIGHLLTKSPSLNAAKSELDKAIGR</span></span>
-<span class="topo-line"><span class="topo-inside">NTNGVITKDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVFQMGETGVA</span></span>
-<span class="topo-line"><span class="topo-inside">GFTNSLRMLQQKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWDAYAANLMAKKRVI</span></span>
-<span class="topo-line"><span class="topo-membrane">RMLIVIVVLFFLCWMPIFSANAW</span><span class="topo-outside">RAYDTASAERRLSGT</span><span class="topo-membrane">PISFILLLSYTSSCVNPIIYCF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">DYKDDDDGAPDVVDSLLVNGSNITPPCELGLENETLFCLDQPRPS</span><span class="topo-outside">KEW</span><span class="topo-membrane">QPAVQILLYSLIFLLSVLGNTLVITVLI</span><span class="topo-inside">RNKRMRTVT</span><span class="topo-membrane">NIFLLSLAVSNLMLCLFCMPFNLI</span><span class="topo-outside">PNLLKDFIFGS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">A</span><span class="topo-membrane">VCKTTTYFMGTSVSVSTWNLVAISL</span><span class="topo-inside">ERYGAICKPLQSRVWQTKSH</span><span class="topo-membrane">ALKVIAATWCLSFTIMTPYPIYS</span><span class="topo-outside">NLVPFTKNNNQTANMCRFLLPNDVM</span><span class="topo-membrane">QQSWHTFLLLILFLIPGIVMMVAYG</span><span class="topo-inside">L</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">ISLELYQGINIFEMLRIDEGLRLKIYKDTEGYYTIGIGHLLTKSPSLNAAKSELDKAIGRNTNGVITKDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVFQMGETGVA</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">GFTNSLRMLQQKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWDAYAANLMAKKRVI</span><span class="topo-membrane">RMLIVIVVLFFLCWMPIFSANAW</span><span class="topo-outside">RAYDTASAERRLSGT</span><span class="topo-membrane">PISFILLLSYTSSCVNPIIYCF</span></span>
+<span class="topo-ruler">       490       500       510       520       530    </span>
 <span class="topo-line"><span class="topo-membrane">M</span><span class="topo-inside">NK</span><span class="topo-unknown">RFRLGFMATFPCCPNPGPPGARGEVGEEEEGEFLEVLFQGPHHHHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -462,6 +467,7 @@ The human cholecystokinin B receptor (CCKᴅR) is a class A G-protein-coupled re
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

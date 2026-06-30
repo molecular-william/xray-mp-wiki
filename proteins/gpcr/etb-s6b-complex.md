@@ -143,15 +143,17 @@ The human endothelin ETB receptor (ETBR) is a class A GPCR that binds endothelin
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GGGLAPAEVPKGDRTAGSPPRTI</span><span class="topo-outside">SPPPCQGPIEIKETFKYI</span><span class="topo-membrane">NTVVSCLVFVLGIIGNSTL</span></span>
-<span class="topo-line"><span class="topo-membrane">LYIIYK</span><span class="topo-inside">NKCMRNGPN</span><span class="topo-membrane">ILIASLALGDLLHIVIAIPINV</span><span class="topo-outside">YKLLAEDWPFGAEMCK</span><span class="topo-membrane">LVPFIQK</span></span>
-<span class="topo-line"><span class="topo-membrane">ASVGITVLSLCALSI</span><span class="topo-inside">DRYRAVASWSRIK</span><span class="topo-unknown">GIG</span><span class="topo-inside">VPKWT</span><span class="topo-membrane">AVEIVLIWVVSVVLAVPEAIG</span><span class="topo-outside">FDI</span></span>
-<span class="topo-line"><span class="topo-outside">ITMDYKGSYLRICLLHPVQKT</span><span class="topo-membrane">AFMQFYATAKDWWLFSFYFCLPLAITAFFYT</span><span class="topo-inside">LMTCEMLR</span></span>
-<span class="topo-line"><span class="topo-inside">KNIFEMLRIDEGLRLKIYKDTEGYYTIGIGHLLTKSPSLNAAKSELDKAIGRNTNGVITK</span></span>
-<span class="topo-line"><span class="topo-inside">DEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVFQMGETGVAGFTNSLRM</span></span>
-<span class="topo-line"><span class="topo-inside">LQQKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWDAYLNDHLKQRREVAK</span><span class="topo-membrane">TVFCLV</span></span>
-<span class="topo-line"><span class="topo-membrane">LVFALCWLPLHLARIL</span><span class="topo-outside">KLTLYNQNDPNRCELLSFLLVL</span><span class="topo-membrane">DYIGINMASLNSCANPIALYLV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GGGLAPAEVPKGDRTAGSPPRTI</span><span class="topo-outside">SPPPCQGPIEIKETFKYI</span><span class="topo-membrane">NTVVSCLVFVLGIIGNSTLLYIIYK</span><span class="topo-inside">NKCMRNGPN</span><span class="topo-membrane">ILIASLALGDLLHIVIAIPINV</span><span class="topo-outside">YKLLAEDWPFGAEMCK</span><span class="topo-membrane">LVPFIQK</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">ASVGITVLSLCALSI</span><span class="topo-inside">DRYRAVASWSRIK</span><span class="topo-unknown">GIG</span><span class="topo-inside">VPKWT</span><span class="topo-membrane">AVEIVLIWVVSVVLAVPEAIG</span><span class="topo-outside">FDIITMDYKGSYLRICLLHPVQKT</span><span class="topo-membrane">AFMQFYATAKDWWLFSFYFCLPLAITAFFYT</span><span class="topo-inside">LMTCEMLR</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">KNIFEMLRIDEGLRLKIYKDTEGYYTIGIGHLLTKSPSLNAAKSELDKAIGRNTNGVITKDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVFQMGETGVAGFTNSLRM</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">LQQKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWDAYLNDHLKQRREVAK</span><span class="topo-membrane">TVFCLVLVFALCWLPLHLARIL</span><span class="topo-outside">KLTLYNQNDPNRCELLSFLLVL</span><span class="topo-membrane">DYIGINMASLNSCANPIALYLV</span></span>
+<span class="topo-ruler">       490       500    </span>
 <span class="topo-line"><span class="topo-membrane">S</span><span class="topo-inside">KRFKNAFKSALCC</span><span class="topo-unknown">WAQSENLYFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -310,6 +312,7 @@ The human endothelin ETB receptor (ETBR) is a class A GPCR that binds endothelin
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -325,7 +328,9 @@ The human endothelin ETB receptor (ETBR) is a class A GPCR that binds endothelin
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20 </span>
 <span class="topo-line"><span class="topo-outside">CSCKDMTDKECLYFCHQDV</span><span class="topo-unknown">IW</span></span>
+<details class="topo-details"><summary>Topology coordinates (2 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -351,6 +356,7 @@ The human endothelin ETB receptor (ETBR) is a class A GPCR that binds endothelin
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

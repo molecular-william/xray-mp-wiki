@@ -125,11 +125,13 @@ AaWzmWzt is an [ABC Transporter](/xray-mp-wiki/concepts/transport-mechanisms/abc
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MGIRVFDVWKKYKYYKKPQDRLKEIIFRKPFHEELWVLKGINLEIEKGEVLGIVGPNGAG</span></span>
-<span class="topo-line"><span class="topo-outside">KSTLLKVITGVTEPDKGFVERSGKVVGLLELGTGFNYELSGLENIYVNASLLGLSRREID</span></span>
-<span class="topo-line"><span class="topo-outside">EKLESIIEFSELDDFINKPLKTYSSGMIMRLAFSIAIHTEPECFIIDQALAVGDAHFQQK</span></span>
-<span class="topo-line"><span class="topo-outside">CFRKLKEHKQKGGSIIFVSHDMNAVKILCDRAILLHKGEIIEEGSPETVTQAYYKLKL</span><span class="topo-unknown">HH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MGIRVFDVWKKYKYYKKPQDRLKEIIFRKPFHEELWVLKGINLEIEKGEVLGIVGPNGAGKSTLLKVITGVTEPDKGFVERSGKVVGLLELGTGFNYELSGLENIYVNASLLGLSRREID</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">EKLESIIEFSELDDFINKPLKTYSSGMIMRLAFSIAIHTEPECFIIDQALAVGDAHFQQKCFRKLKEHKQKGGSIIFVSHDMNAVKILCDRAILLHKGEIIEEGSPETVTQAYYKLKL</span><span class="topo-unknown">HH</span></span>
+<span class="topo-ruler">    </span>
 <span class="topo-line"><span class="topo-unknown">HHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (2 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -155,6 +157,7 @@ AaWzmWzt is an [ABC Transporter](/xray-mp-wiki/concepts/transport-mechanisms/abc
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -170,11 +173,13 @@ AaWzmWzt is an [ABC Transporter](/xray-mp-wiki/concepts/transport-mechanisms/abc
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MNLSLILELVRQEIKNRYADT</span><span class="topo-membrane">VLGIWWAFLWPILLVLIY</span><span class="topo-inside">TLIFSHLIGAKLGHENTVYAY</span></span>
-<span class="topo-line"><span class="topo-inside">SI</span><span class="topo-membrane">YLSSGIFPWFFFSNSLSRITG</span><span class="topo-outside">IFTEKKFLFTKIPIRLEVFPVVV</span><span class="topo-membrane">IISELINYLIGISL</span></span>
-<span class="topo-line"><span class="topo-membrane">VTLISFI</span><span class="topo-inside">TLGFEG</span><span class="topo-membrane">IKYFYLFPVALYLMIVYSFSIGMVLG</span><span class="topo-outside">TLNVFFRD</span><span class="topo-membrane">IKEIIGVFLQIFF</span></span>
-<span class="topo-line"><span class="topo-membrane">WFTPIV</span><span class="topo-inside">YTLDILPPFVKK</span><span class="topo-unknown">LIYYNPMYPVVSIHHLVFV</span><span class="topo-inside">NYLDL</span><span class="topo-membrane">HLYSLLGFLLASPLVFFV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MNLSLILELVRQEIKNRYADT</span><span class="topo-membrane">VLGIWWAFLWPILLVLIY</span><span class="topo-inside">TLIFSHLIGAKLGHENTVYAYSI</span><span class="topo-membrane">YLSSGIFPWFFFSNSLSRITG</span><span class="topo-outside">IFTEKKFLFTKIPIRLEVFPVVV</span><span class="topo-membrane">IISELINYLIGISL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">VTLISFI</span><span class="topo-inside">TLGFEG</span><span class="topo-membrane">IKYFYLFPVALYLMIVYSFSIGMVLG</span><span class="topo-outside">TLNVFFRD</span><span class="topo-membrane">IKEIIGVFLQIFFWFTPIV</span><span class="topo-inside">YTLDILPPFVKK</span><span class="topo-unknown">LIYYNPMYPVVSIHHLVFV</span><span class="topo-inside">NYLDL</span><span class="topo-membrane">HLYSLLGFLLASPLVFFV</span></span>
+<span class="topo-ruler">       250      </span>
 <span class="topo-line"><span class="topo-membrane">S</span><span class="topo-outside">YYFFKKLEKDIKDFA</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -291,6 +296,7 @@ AaWzmWzt is an [ABC Transporter](/xray-mp-wiki/concepts/transport-mechanisms/abc
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -306,11 +312,13 @@ AaWzmWzt is an [ABC Transporter](/xray-mp-wiki/concepts/transport-mechanisms/abc
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MNLSLILELVRQEIKNRYADT</span><span class="topo-membrane">VLGIWWAFLWPILLVLIY</span><span class="topo-inside">TLIFSHLIGAKLGHENTVYAY</span></span>
-<span class="topo-line"><span class="topo-inside">SIYL</span><span class="topo-membrane">SSGIFPWFFFSNSLSRITG</span><span class="topo-outside">IFTEKKFLFTKIPIRLEVFP</span><span class="topo-membrane">VVVIISELINYLIGISL</span></span>
-<span class="topo-line"><span class="topo-membrane">VTLIS</span><span class="topo-inside">FITLGFEGIKYF</span><span class="topo-membrane">YLFPVALYLMIVYSFSIGMVLGTLN</span><span class="topo-outside">VFF</span><span class="topo-membrane">RDIKEIIGVFLQIFF</span></span>
-<span class="topo-line"><span class="topo-membrane">WFT</span><span class="topo-inside">PIVYTLDILPPFVKKLI</span><span class="topo-unknown">YYNPMYPVVSIH</span><span class="topo-inside">HLVFVNYLDLHLYS</span><span class="topo-membrane">LLGFLLASPLVFFV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MNLSLILELVRQEIKNRYADT</span><span class="topo-membrane">VLGIWWAFLWPILLVLIY</span><span class="topo-inside">TLIFSHLIGAKLGHENTVYAYSIYL</span><span class="topo-membrane">SSGIFPWFFFSNSLSRITG</span><span class="topo-outside">IFTEKKFLFTKIPIRLEVFP</span><span class="topo-membrane">VVVIISELINYLIGISL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">VTLIS</span><span class="topo-inside">FITLGFEGIKYF</span><span class="topo-membrane">YLFPVALYLMIVYSFSIGMVLGTLN</span><span class="topo-outside">VFF</span><span class="topo-membrane">RDIKEIIGVFLQIFFWFT</span><span class="topo-inside">PIVYTLDILPPFVKKLI</span><span class="topo-unknown">YYNPMYPVVSIH</span><span class="topo-inside">HLVFVNYLDLHLYS</span><span class="topo-membrane">LLGFLLASPLVFFV</span></span>
+<span class="topo-ruler">       250      </span>
 <span class="topo-line"><span class="topo-membrane">SYYFF</span><span class="topo-outside">KKLEKDIKDFA</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -427,6 +435,7 @@ AaWzmWzt is an [ABC Transporter](/xray-mp-wiki/concepts/transport-mechanisms/abc
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

@@ -128,15 +128,17 @@ LeuT is a bacterial amino acid transporter from Aquifex aeolicus that belongs to
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MEVK</span><span class="topo-outside">REHWATRL</span><span class="topo-membrane">GLILAMAGNAVGLGNFLRFP</span><span class="topo-inside">VQAAENGGGAF</span><span class="topo-membrane">MIPYIIAFLLVGIPLMW</span></span>
-<span class="topo-line"><span class="topo-membrane">IEW</span><span class="topo-outside">AMGRYGGAQGHGTTPAIFYLLWRNRF</span><span class="topo-membrane">AKILGVFGLWIPLVVAIYYVYIESWTLGFAI</span></span>
-<span class="topo-line"><span class="topo-membrane">KFLV</span><span class="topo-inside">GLVPEPPP</span><span class="topo-unknown">NA</span><span class="topo-inside">TDPDSILRPFKEFLYSYIGVPKGDEPILKPSL</span><span class="topo-membrane">FAYIVFLITMFINV</span></span>
-<span class="topo-line"><span class="topo-membrane">SILIR</span><span class="topo-outside">GISKG</span><span class="topo-membrane">IERFAKIAMPTLFILAVFLVIR</span><span class="topo-inside">VFLLETPNGT</span><span class="topo-unknown">AADGLNFLW</span><span class="topo-inside">TPDFEKLKD</span></span>
-<span class="topo-line"><span class="topo-inside">P</span><span class="topo-membrane">GVWIAAVGQIFFTLSLGFGAIITY</span><span class="topo-outside">ASYVRKDQDIV</span><span class="topo-membrane">LSGLTAATLNEKAEVILGGSI</span><span class="topo-inside">SIP</span></span>
-<span class="topo-line"><span class="topo-inside">AAVAFFGVANAVAIAKAGAFNLGFI</span><span class="topo-unknown">TLPAIF</span><span class="topo-inside">SQTAGGTF</span><span class="topo-membrane">LGFLWFFLLFFAGLTSSIAIM</span></span>
-<span class="topo-line"><span class="topo-membrane">QPMIAFL</span><span class="topo-outside">EDELKLSRKH</span><span class="topo-membrane">AVLWTAAIVFFSAHLVMFL</span><span class="topo-inside">NKS</span><span class="topo-membrane">LDEMDFWAGTIGVVFFGLTEL</span></span>
-<span class="topo-line"><span class="topo-membrane">IIFFWI</span><span class="topo-outside">FG</span><span class="topo-unknown">ADKAWEEIN</span><span class="topo-outside">RGGIIKV</span><span class="topo-membrane">PRIYYYVMRYITPAFLAVLLVVWAR</span><span class="topo-inside">EY</span><span class="topo-unknown">IPKIME</span><span class="topo-inside">ETH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MEVK</span><span class="topo-outside">REHWATRL</span><span class="topo-membrane">GLILAMAGNAVGLGNFLRFP</span><span class="topo-inside">VQAAENGGGAF</span><span class="topo-membrane">MIPYIIAFLLVGIPLMWIEW</span><span class="topo-outside">AMGRYGGAQGHGTTPAIFYLLWRNRF</span><span class="topo-membrane">AKILGVFGLWIPLVVAIYYVYIESWTLGFAI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">KFLV</span><span class="topo-inside">GLVPEPPP</span><span class="topo-unknown">NA</span><span class="topo-inside">TDPDSILRPFKEFLYSYIGVPKGDEPILKPSL</span><span class="topo-membrane">FAYIVFLITMFINVSILIR</span><span class="topo-outside">GISKG</span><span class="topo-membrane">IERFAKIAMPTLFILAVFLVIR</span><span class="topo-inside">VFLLETPNGT</span><span class="topo-unknown">AADGLNFLW</span><span class="topo-inside">TPDFEKLKD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">P</span><span class="topo-membrane">GVWIAAVGQIFFTLSLGFGAIITY</span><span class="topo-outside">ASYVRKDQDIV</span><span class="topo-membrane">LSGLTAATLNEKAEVILGGSI</span><span class="topo-inside">SIPAAVAFFGVANAVAIAKAGAFNLGFI</span><span class="topo-unknown">TLPAIF</span><span class="topo-inside">SQTAGGTF</span><span class="topo-membrane">LGFLWFFLLFFAGLTSSIAIM</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">QPMIAFL</span><span class="topo-outside">EDELKLSRKH</span><span class="topo-membrane">AVLWTAAIVFFSAHLVMFL</span><span class="topo-inside">NKS</span><span class="topo-membrane">LDEMDFWAGTIGVVFFGLTELIIFFWI</span><span class="topo-outside">FG</span><span class="topo-unknown">ADKAWEEIN</span><span class="topo-outside">RGGIIKV</span><span class="topo-membrane">PRIYYYVMRYITPAFLAVLLVVWAR</span><span class="topo-inside">EY</span><span class="topo-unknown">IPKIME</span><span class="topo-inside">ETH</span></span>
+<span class="topo-ruler">       490       500       510         </span>
 <span class="topo-line"><span class="topo-inside">WTV</span><span class="topo-membrane">WITRFYIIGLFLFLTFLVF</span><span class="topo-outside">LAERRRNHESAGTL</span><span class="topo-unknown">VPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (37 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -407,6 +409,7 @@ LeuT is a bacterial amino acid transporter from Aquifex aeolicus that belongs to
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -422,15 +425,17 @@ LeuT is a bacterial amino acid transporter from Aquifex aeolicus that belongs to
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MEVK</span><span class="topo-outside">REHWATRL</span><span class="topo-membrane">GLILAMAGNAVGLGNFLRFP</span><span class="topo-inside">VQAAENGGGAF</span><span class="topo-membrane">MIPYIIAFLLVGIPLMW</span></span>
-<span class="topo-line"><span class="topo-membrane">IEW</span><span class="topo-outside">AMGRYGGAQGHGTTPAIFYLLWRNRF</span><span class="topo-membrane">AKILGVFGLWIPLVVAIYYVYIESWTLGFAI</span></span>
-<span class="topo-line"><span class="topo-membrane">KFLV</span><span class="topo-inside">GLVPEPPP</span><span class="topo-unknown">NA</span><span class="topo-inside">TDPDSILRPFKEFLYSYIGVPKGDEPILKPSL</span><span class="topo-membrane">FAYIVFLITMFINV</span></span>
-<span class="topo-line"><span class="topo-membrane">SILIR</span><span class="topo-outside">GISKG</span><span class="topo-membrane">IERFAKIAMPTLFILAVFLVIR</span><span class="topo-inside">VFLLETPNGT</span><span class="topo-unknown">AADGLNFLW</span><span class="topo-inside">TPDFEKLKD</span></span>
-<span class="topo-line"><span class="topo-inside">P</span><span class="topo-membrane">GVWIAAVGQIFFTLSLGFGAIITY</span><span class="topo-outside">ASYVRKDQDIV</span><span class="topo-membrane">LSGLTAATLNEKAEVILGGSI</span><span class="topo-inside">SIP</span></span>
-<span class="topo-line"><span class="topo-inside">AAVAFFGVANAVAIAKAGAFNLGFI</span><span class="topo-unknown">TLPAIF</span><span class="topo-inside">SQTAGGTF</span><span class="topo-membrane">LGFLWFFLLFFAGLTSSIAIM</span></span>
-<span class="topo-line"><span class="topo-membrane">QPMIAFL</span><span class="topo-outside">EDELKLSRKH</span><span class="topo-membrane">AVLWTAAIVFFSAHLVMFL</span><span class="topo-inside">NKS</span><span class="topo-membrane">LDEMDFWAGTIGVVFFGLTEL</span></span>
-<span class="topo-line"><span class="topo-membrane">IIFFWI</span><span class="topo-outside">FG</span><span class="topo-unknown">ADKAWEEIN</span><span class="topo-outside">RGGIIKV</span><span class="topo-membrane">PRIYYYVMRYITPAFLAVLLVVWAR</span><span class="topo-inside">EY</span><span class="topo-unknown">IPKIME</span><span class="topo-inside">ETH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MEVK</span><span class="topo-outside">REHWATRL</span><span class="topo-membrane">GLILAMAGNAVGLGNFLRFP</span><span class="topo-inside">VQAAENGGGAF</span><span class="topo-membrane">MIPYIIAFLLVGIPLMWIEW</span><span class="topo-outside">AMGRYGGAQGHGTTPAIFYLLWRNRF</span><span class="topo-membrane">AKILGVFGLWIPLVVAIYYVYIESWTLGFAI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">KFLV</span><span class="topo-inside">GLVPEPPP</span><span class="topo-unknown">NA</span><span class="topo-inside">TDPDSILRPFKEFLYSYIGVPKGDEPILKPSL</span><span class="topo-membrane">FAYIVFLITMFINVSILIR</span><span class="topo-outside">GISKG</span><span class="topo-membrane">IERFAKIAMPTLFILAVFLVIR</span><span class="topo-inside">VFLLETPNGT</span><span class="topo-unknown">AADGLNFLW</span><span class="topo-inside">TPDFEKLKD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">P</span><span class="topo-membrane">GVWIAAVGQIFFTLSLGFGAIITY</span><span class="topo-outside">ASYVRKDQDIV</span><span class="topo-membrane">LSGLTAATLNEKAEVILGGSI</span><span class="topo-inside">SIPAAVAFFGVANAVAIAKAGAFNLGFI</span><span class="topo-unknown">TLPAIF</span><span class="topo-inside">SQTAGGTF</span><span class="topo-membrane">LGFLWFFLLFFAGLTSSIAIM</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">QPMIAFL</span><span class="topo-outside">EDELKLSRKH</span><span class="topo-membrane">AVLWTAAIVFFSAHLVMFL</span><span class="topo-inside">NKS</span><span class="topo-membrane">LDEMDFWAGTIGVVFFGLTELIIFFWI</span><span class="topo-outside">FG</span><span class="topo-unknown">ADKAWEEIN</span><span class="topo-outside">RGGIIKV</span><span class="topo-membrane">PRIYYYVMRYITPAFLAVLLVVWAR</span><span class="topo-inside">EY</span><span class="topo-unknown">IPKIME</span><span class="topo-inside">ETH</span></span>
+<span class="topo-ruler">       490       500       510         </span>
 <span class="topo-line"><span class="topo-inside">WTV</span><span class="topo-membrane">WITRFYIIGLFLFLTFLVF</span><span class="topo-outside">LAERRRNHESAGTL</span><span class="topo-unknown">VPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (37 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -701,6 +706,7 @@ LeuT is a bacterial amino acid transporter from Aquifex aeolicus that belongs to
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -832,15 +838,17 @@ LeuT is a bacterial amino acid transporter from Aquifex aeolicus that belongs to
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MEV</span><span class="topo-outside">KREHWATRL</span><span class="topo-membrane">GLILAMAGNAVGLGNFLRFP</span><span class="topo-inside">VQAAENGGGAF</span><span class="topo-membrane">MIPYIIAFLLVGIPLMW</span></span>
-<span class="topo-line"><span class="topo-membrane">IEW</span><span class="topo-outside">AMGRYGGAQGHGTTPAIFYLLWRNRF</span><span class="topo-membrane">AKILGVFGLWIPLVVAIYYVYIESWTLGFAI</span></span>
-<span class="topo-line"><span class="topo-membrane">KFLV</span><span class="topo-inside">GLVPEPPP</span><span class="topo-unknown">NA</span><span class="topo-inside">TDPDSILRPFKEFLYSYIGVPKGDEPILKPSL</span><span class="topo-membrane">FAYIVFLITMFINV</span></span>
-<span class="topo-line"><span class="topo-membrane">SILIR</span><span class="topo-outside">GISKG</span><span class="topo-membrane">IERFAKIAMPTLFILAVFLVIR</span><span class="topo-inside">VFLLETPNGT</span><span class="topo-unknown">AADGLNFL</span><span class="topo-inside">WTPDFEKLKD</span></span>
-<span class="topo-line"><span class="topo-inside">P</span><span class="topo-membrane">GVWIAAVGQIFFTLSLGFGAIITYA</span><span class="topo-outside">SYVRKDQDIV</span><span class="topo-membrane">LSGLTAATLNEKAEVILGGSI</span><span class="topo-inside">SIP</span></span>
-<span class="topo-line"><span class="topo-inside">AAVAFFGVANAVAIAKAGAFNLGFI</span><span class="topo-unknown">TLPAIF</span><span class="topo-inside">SQTAGGTF</span><span class="topo-membrane">LGFLWFFLLFFAGLTSSIAIM</span></span>
-<span class="topo-line"><span class="topo-membrane">QPMIAFL</span><span class="topo-outside">EDELKLSRKH</span><span class="topo-membrane">AVLWTAAIVFFSAHLVMFL</span><span class="topo-inside">NKS</span><span class="topo-membrane">LDEMDFWAGTIGVVFFGLTEL</span></span>
-<span class="topo-line"><span class="topo-membrane">IIFFWI</span><span class="topo-outside">FG</span><span class="topo-unknown">ADKAWEEIN</span><span class="topo-outside">RGGIIKV</span><span class="topo-membrane">PRIYYYVMRYITPAFLAVLLVVWAR</span><span class="topo-inside">EYIPKIMEETH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MEV</span><span class="topo-outside">KREHWATRL</span><span class="topo-membrane">GLILAMAGNAVGLGNFLRFP</span><span class="topo-inside">VQAAENGGGAF</span><span class="topo-membrane">MIPYIIAFLLVGIPLMWIEW</span><span class="topo-outside">AMGRYGGAQGHGTTPAIFYLLWRNRF</span><span class="topo-membrane">AKILGVFGLWIPLVVAIYYVYIESWTLGFAI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">KFLV</span><span class="topo-inside">GLVPEPPP</span><span class="topo-unknown">NA</span><span class="topo-inside">TDPDSILRPFKEFLYSYIGVPKGDEPILKPSL</span><span class="topo-membrane">FAYIVFLITMFINVSILIR</span><span class="topo-outside">GISKG</span><span class="topo-membrane">IERFAKIAMPTLFILAVFLVIR</span><span class="topo-inside">VFLLETPNGT</span><span class="topo-unknown">AADGLNFL</span><span class="topo-inside">WTPDFEKLKD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">P</span><span class="topo-membrane">GVWIAAVGQIFFTLSLGFGAIITYA</span><span class="topo-outside">SYVRKDQDIV</span><span class="topo-membrane">LSGLTAATLNEKAEVILGGSI</span><span class="topo-inside">SIPAAVAFFGVANAVAIAKAGAFNLGFI</span><span class="topo-unknown">TLPAIF</span><span class="topo-inside">SQTAGGTF</span><span class="topo-membrane">LGFLWFFLLFFAGLTSSIAIM</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">QPMIAFL</span><span class="topo-outside">EDELKLSRKH</span><span class="topo-membrane">AVLWTAAIVFFSAHLVMFL</span><span class="topo-inside">NKS</span><span class="topo-membrane">LDEMDFWAGTIGVVFFGLTELIIFFWI</span><span class="topo-outside">FG</span><span class="topo-unknown">ADKAWEEIN</span><span class="topo-outside">RGGIIKV</span><span class="topo-membrane">PRIYYYVMRYITPAFLAVLLVVWAR</span><span class="topo-inside">EYIPKIMEETH</span></span>
+<span class="topo-ruler">       490       500       510         </span>
 <span class="topo-line"><span class="topo-inside">WTV</span><span class="topo-membrane">WITRFYIIGLFLFLTFLVF</span><span class="topo-outside">LAERRRNHESAGTLA</span><span class="topo-unknown">PR</span></span>
+<details class="topo-details"><summary>Topology coordinates (35 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1097,6 +1105,7 @@ LeuT is a bacterial amino acid transporter from Aquifex aeolicus that belongs to
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1112,15 +1121,17 @@ LeuT is a bacterial amino acid transporter from Aquifex aeolicus that belongs to
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MEV</span><span class="topo-outside">KREHWATRL</span><span class="topo-membrane">GLILAMAGNAVGLGNFLRFP</span><span class="topo-inside">VQAAENGGGAF</span><span class="topo-membrane">MIPYIIAFLLVGIPLMW</span></span>
-<span class="topo-line"><span class="topo-membrane">IEW</span><span class="topo-outside">AMGRYGGAQGHGTTPAIFYLLWRNRF</span><span class="topo-membrane">AKILGVFGLWIPLVVAIYYVYIESWTLGFAI</span></span>
-<span class="topo-line"><span class="topo-membrane">KFLV</span><span class="topo-inside">GLVPEPPP</span><span class="topo-unknown">NA</span><span class="topo-inside">TDPDSILRPFKEFLYSYIGVPKGDEPILKPSL</span><span class="topo-membrane">FAYIVFLITMFINV</span></span>
-<span class="topo-line"><span class="topo-membrane">SILIR</span><span class="topo-outside">GISKG</span><span class="topo-membrane">IERFAKIAMPTLFILAVFLVIR</span><span class="topo-inside">VFLLETPNGT</span><span class="topo-unknown">AADGLNFL</span><span class="topo-inside">WTPDFEKLKD</span></span>
-<span class="topo-line"><span class="topo-inside">P</span><span class="topo-membrane">GVWIAAVGQIFFTLSLGFGAIITYA</span><span class="topo-outside">SYVRKDQDIV</span><span class="topo-membrane">LSGLTAATLNEKAEVILGGSI</span><span class="topo-inside">SIP</span></span>
-<span class="topo-line"><span class="topo-inside">AAVAFFGVANAVAIAKAGAFNLGFI</span><span class="topo-unknown">TLPAIF</span><span class="topo-inside">SQTAGGTF</span><span class="topo-membrane">LGFLWFFLLFFAGLTSSIAIM</span></span>
-<span class="topo-line"><span class="topo-membrane">QPMIAFL</span><span class="topo-outside">EDELKLSRKH</span><span class="topo-membrane">AVLWTAAIVFFSAHLVMFL</span><span class="topo-inside">NKS</span><span class="topo-membrane">LDEMDFWAGTIGVVFFGLTEL</span></span>
-<span class="topo-line"><span class="topo-membrane">IIFFWI</span><span class="topo-outside">FG</span><span class="topo-unknown">ADKAWEEIN</span><span class="topo-outside">RGGIIKV</span><span class="topo-membrane">PRIYYYVMRYITPAFLAVLLVVWAR</span><span class="topo-inside">EYIPKIMEETH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MEV</span><span class="topo-outside">KREHWATRL</span><span class="topo-membrane">GLILAMAGNAVGLGNFLRFP</span><span class="topo-inside">VQAAENGGGAF</span><span class="topo-membrane">MIPYIIAFLLVGIPLMWIEW</span><span class="topo-outside">AMGRYGGAQGHGTTPAIFYLLWRNRF</span><span class="topo-membrane">AKILGVFGLWIPLVVAIYYVYIESWTLGFAI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">KFLV</span><span class="topo-inside">GLVPEPPP</span><span class="topo-unknown">NA</span><span class="topo-inside">TDPDSILRPFKEFLYSYIGVPKGDEPILKPSL</span><span class="topo-membrane">FAYIVFLITMFINVSILIR</span><span class="topo-outside">GISKG</span><span class="topo-membrane">IERFAKIAMPTLFILAVFLVIR</span><span class="topo-inside">VFLLETPNGT</span><span class="topo-unknown">AADGLNFL</span><span class="topo-inside">WTPDFEKLKD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">P</span><span class="topo-membrane">GVWIAAVGQIFFTLSLGFGAIITYA</span><span class="topo-outside">SYVRKDQDIV</span><span class="topo-membrane">LSGLTAATLNEKAEVILGGSI</span><span class="topo-inside">SIPAAVAFFGVANAVAIAKAGAFNLGFI</span><span class="topo-unknown">TLPAIF</span><span class="topo-inside">SQTAGGTF</span><span class="topo-membrane">LGFLWFFLLFFAGLTSSIAIM</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">QPMIAFL</span><span class="topo-outside">EDELKLSRKH</span><span class="topo-membrane">AVLWTAAIVFFSAHLVMFL</span><span class="topo-inside">NKS</span><span class="topo-membrane">LDEMDFWAGTIGVVFFGLTELIIFFWI</span><span class="topo-outside">FG</span><span class="topo-unknown">ADKAWEEIN</span><span class="topo-outside">RGGIIKV</span><span class="topo-membrane">PRIYYYVMRYITPAFLAVLLVVWAR</span><span class="topo-inside">EYIPKIMEETH</span></span>
+<span class="topo-ruler">       490       500       510         </span>
 <span class="topo-line"><span class="topo-inside">WTV</span><span class="topo-membrane">WITRFYIIGLFLFLTFLVF</span><span class="topo-outside">LAERRRNHESAGTLA</span><span class="topo-unknown">PR</span></span>
+<details class="topo-details"><summary>Topology coordinates (35 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1377,6 +1388,7 @@ LeuT is a bacterial amino acid transporter from Aquifex aeolicus that belongs to
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1392,15 +1404,17 @@ LeuT is a bacterial amino acid transporter from Aquifex aeolicus that belongs to
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MEV</span><span class="topo-outside">KREHWATRL</span><span class="topo-membrane">GLILAMAGNAVGLGNFLRFP</span><span class="topo-inside">VQAAENGGGAF</span><span class="topo-membrane">MIPYIIAFLLVGIPLMW</span></span>
-<span class="topo-line"><span class="topo-membrane">IEW</span><span class="topo-outside">AMGRYGGAQGHGTTPAIFYLLWRNRF</span><span class="topo-membrane">AKILGVFGLWIPLVVAIYYVYIESWTLGFAI</span></span>
-<span class="topo-line"><span class="topo-membrane">KFLV</span><span class="topo-inside">GLVPEPPP</span><span class="topo-unknown">NA</span><span class="topo-inside">TDPDSILRPFKEFLYSYIGVPKGDEPILKPSL</span><span class="topo-membrane">FAYIVFLITMFINV</span></span>
-<span class="topo-line"><span class="topo-membrane">SILIR</span><span class="topo-outside">GISKG</span><span class="topo-membrane">IERFAKIAMPTLFILAVFLVIR</span><span class="topo-inside">VFLLETPNGT</span><span class="topo-unknown">AADGLNFL</span><span class="topo-inside">WTPDFEKLKD</span></span>
-<span class="topo-line"><span class="topo-inside">P</span><span class="topo-membrane">GVWIAAVGQIFFTLSLGFGAIITYA</span><span class="topo-outside">SYVRKDQDIV</span><span class="topo-membrane">LSGLTAATLNEKAEVILGGSI</span><span class="topo-inside">SIP</span></span>
-<span class="topo-line"><span class="topo-inside">AAVAFFGVANAVAIAKAGAFNLGFI</span><span class="topo-unknown">TLPAIF</span><span class="topo-inside">SQTAGGTF</span><span class="topo-membrane">LGFLWFFLLFFAGLTSSIAIM</span></span>
-<span class="topo-line"><span class="topo-membrane">QPMIAFL</span><span class="topo-outside">EDELKLSRKH</span><span class="topo-membrane">AVLWTAAIVFFSAHLVMFL</span><span class="topo-inside">NKS</span><span class="topo-membrane">LDEMDFWAGTIGVVFFGLTEL</span></span>
-<span class="topo-line"><span class="topo-membrane">IIFFWI</span><span class="topo-outside">FG</span><span class="topo-unknown">ADKAWEEIN</span><span class="topo-outside">RGGIIKV</span><span class="topo-membrane">PRIYYYVMRYITPAFLAVLLVVWAR</span><span class="topo-inside">EYIPKIMEETH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MEV</span><span class="topo-outside">KREHWATRL</span><span class="topo-membrane">GLILAMAGNAVGLGNFLRFP</span><span class="topo-inside">VQAAENGGGAF</span><span class="topo-membrane">MIPYIIAFLLVGIPLMWIEW</span><span class="topo-outside">AMGRYGGAQGHGTTPAIFYLLWRNRF</span><span class="topo-membrane">AKILGVFGLWIPLVVAIYYVYIESWTLGFAI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">KFLV</span><span class="topo-inside">GLVPEPPP</span><span class="topo-unknown">NA</span><span class="topo-inside">TDPDSILRPFKEFLYSYIGVPKGDEPILKPSL</span><span class="topo-membrane">FAYIVFLITMFINVSILIR</span><span class="topo-outside">GISKG</span><span class="topo-membrane">IERFAKIAMPTLFILAVFLVIR</span><span class="topo-inside">VFLLETPNGT</span><span class="topo-unknown">AADGLNFL</span><span class="topo-inside">WTPDFEKLKD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">P</span><span class="topo-membrane">GVWIAAVGQIFFTLSLGFGAIITYA</span><span class="topo-outside">SYVRKDQDIV</span><span class="topo-membrane">LSGLTAATLNEKAEVILGGSI</span><span class="topo-inside">SIPAAVAFFGVANAVAIAKAGAFNLGFI</span><span class="topo-unknown">TLPAIF</span><span class="topo-inside">SQTAGGTF</span><span class="topo-membrane">LGFLWFFLLFFAGLTSSIAIM</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">QPMIAFL</span><span class="topo-outside">EDELKLSRKH</span><span class="topo-membrane">AVLWTAAIVFFSAHLVMFL</span><span class="topo-inside">NKS</span><span class="topo-membrane">LDEMDFWAGTIGVVFFGLTELIIFFWI</span><span class="topo-outside">FG</span><span class="topo-unknown">ADKAWEEIN</span><span class="topo-outside">RGGIIKV</span><span class="topo-membrane">PRIYYYVMRYITPAFLAVLLVVWAR</span><span class="topo-inside">EYIPKIMEETH</span></span>
+<span class="topo-ruler">       490       500       510         </span>
 <span class="topo-line"><span class="topo-inside">WTV</span><span class="topo-membrane">WITRFYIIGLFLFLTFLVF</span><span class="topo-outside">LAERRRNHESAGTLA</span><span class="topo-unknown">PR</span></span>
+<details class="topo-details"><summary>Topology coordinates (35 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1657,6 +1671,7 @@ LeuT is a bacterial amino acid transporter from Aquifex aeolicus that belongs to
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1672,15 +1687,17 @@ LeuT is a bacterial amino acid transporter from Aquifex aeolicus that belongs to
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MEV</span><span class="topo-outside">KREHWATRL</span><span class="topo-membrane">GLILAMAGNAVGLGNFLRFP</span><span class="topo-inside">VQAAENGGGAF</span><span class="topo-membrane">MIPYIIAFLLVGIPLMW</span></span>
-<span class="topo-line"><span class="topo-membrane">IEW</span><span class="topo-outside">AMGRYGGAQGHGTTPAIFYLLWRNRF</span><span class="topo-membrane">AKILGVFGLWIPLVVAIYYVYIESWTLGFAI</span></span>
-<span class="topo-line"><span class="topo-membrane">KFLV</span><span class="topo-inside">GLVPEPPP</span><span class="topo-unknown">NA</span><span class="topo-inside">TDPDSILRPFKEFLYSYIGVPKGDEPILKPSL</span><span class="topo-membrane">FAYIVFLITMFINV</span></span>
-<span class="topo-line"><span class="topo-membrane">SILIR</span><span class="topo-outside">GISKG</span><span class="topo-membrane">IERFAKIAMPTLFILAVFLVIR</span><span class="topo-inside">VFLLETPNGT</span><span class="topo-unknown">AADGLNFL</span><span class="topo-inside">WTPDFEKLKD</span></span>
-<span class="topo-line"><span class="topo-inside">P</span><span class="topo-membrane">GVWIAAVGQIFFTLSLGFGAIITYA</span><span class="topo-outside">SYVRKDQDIV</span><span class="topo-membrane">LSGLTAATLNEKAEVILGGSI</span><span class="topo-inside">SIP</span></span>
-<span class="topo-line"><span class="topo-inside">AAVAFFGVANAVAIAKAGAFNLGFI</span><span class="topo-unknown">TLPAIF</span><span class="topo-inside">SQTAGGTF</span><span class="topo-membrane">LGFLWFFLLFFAGLTSSIAIM</span></span>
-<span class="topo-line"><span class="topo-membrane">QPMIAFL</span><span class="topo-outside">EDELKLSRKH</span><span class="topo-membrane">AVLWTAAIVFFSAHLVMFL</span><span class="topo-inside">NKS</span><span class="topo-membrane">LDEMDFWAGTIGVVFFGLTEL</span></span>
-<span class="topo-line"><span class="topo-membrane">IIFFWI</span><span class="topo-outside">FG</span><span class="topo-unknown">ADKAWEEIN</span><span class="topo-outside">RGGIIKV</span><span class="topo-membrane">PRIYYYVMRYITPAFLAVLLVVWAR</span><span class="topo-inside">EYIPKIMEETH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MEV</span><span class="topo-outside">KREHWATRL</span><span class="topo-membrane">GLILAMAGNAVGLGNFLRFP</span><span class="topo-inside">VQAAENGGGAF</span><span class="topo-membrane">MIPYIIAFLLVGIPLMWIEW</span><span class="topo-outside">AMGRYGGAQGHGTTPAIFYLLWRNRF</span><span class="topo-membrane">AKILGVFGLWIPLVVAIYYVYIESWTLGFAI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">KFLV</span><span class="topo-inside">GLVPEPPP</span><span class="topo-unknown">NA</span><span class="topo-inside">TDPDSILRPFKEFLYSYIGVPKGDEPILKPSL</span><span class="topo-membrane">FAYIVFLITMFINVSILIR</span><span class="topo-outside">GISKG</span><span class="topo-membrane">IERFAKIAMPTLFILAVFLVIR</span><span class="topo-inside">VFLLETPNGT</span><span class="topo-unknown">AADGLNFL</span><span class="topo-inside">WTPDFEKLKD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">P</span><span class="topo-membrane">GVWIAAVGQIFFTLSLGFGAIITYA</span><span class="topo-outside">SYVRKDQDIV</span><span class="topo-membrane">LSGLTAATLNEKAEVILGGSI</span><span class="topo-inside">SIPAAVAFFGVANAVAIAKAGAFNLGFI</span><span class="topo-unknown">TLPAIF</span><span class="topo-inside">SQTAGGTF</span><span class="topo-membrane">LGFLWFFLLFFAGLTSSIAIM</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">QPMIAFL</span><span class="topo-outside">EDELKLSRKH</span><span class="topo-membrane">AVLWTAAIVFFSAHLVMFL</span><span class="topo-inside">NKS</span><span class="topo-membrane">LDEMDFWAGTIGVVFFGLTELIIFFWI</span><span class="topo-outside">FG</span><span class="topo-unknown">ADKAWEEIN</span><span class="topo-outside">RGGIIKV</span><span class="topo-membrane">PRIYYYVMRYITPAFLAVLLVVWAR</span><span class="topo-inside">EYIPKIMEETH</span></span>
+<span class="topo-ruler">       490       500       510         </span>
 <span class="topo-line"><span class="topo-inside">WTV</span><span class="topo-membrane">WITRFYIIGLFLFLTFLVF</span><span class="topo-outside">LAERRRNHESAGTLA</span><span class="topo-unknown">PR</span></span>
+<details class="topo-details"><summary>Topology coordinates (35 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1937,6 +1954,7 @@ LeuT is a bacterial amino acid transporter from Aquifex aeolicus that belongs to
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1952,15 +1970,17 @@ LeuT is a bacterial amino acid transporter from Aquifex aeolicus that belongs to
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MEV</span><span class="topo-outside">KREHWATRL</span><span class="topo-membrane">GLILAMAGNAVGLGNFLRFP</span><span class="topo-inside">VQAAENGGGAF</span><span class="topo-membrane">MIPYIIAFLLVGIPLMW</span></span>
-<span class="topo-line"><span class="topo-membrane">IEW</span><span class="topo-outside">AMGRYGGAQGHGTTPAIFYLLWRNRF</span><span class="topo-membrane">AKILGVFGLWIPLVVAIYYVYIESWTLGFAI</span></span>
-<span class="topo-line"><span class="topo-membrane">KFLV</span><span class="topo-inside">GLVPEPPP</span><span class="topo-unknown">NA</span><span class="topo-inside">TDPDSILRPFKEFLYSYIGVPKGDEPILKPSL</span><span class="topo-membrane">FAYIVFLITMFINV</span></span>
-<span class="topo-line"><span class="topo-membrane">SILIR</span><span class="topo-outside">GISKG</span><span class="topo-membrane">IERFAKIAMPTLFILAVFLVIR</span><span class="topo-inside">VFLLETPNGT</span><span class="topo-unknown">AADGLNFL</span><span class="topo-inside">WTPDFEKLKD</span></span>
-<span class="topo-line"><span class="topo-inside">P</span><span class="topo-membrane">GVWIAAVGQIFFTLSLGFGAIITYA</span><span class="topo-outside">SYVRKDQDIV</span><span class="topo-membrane">LSGLTAATLNEKAEVILGGSI</span><span class="topo-inside">SIP</span></span>
-<span class="topo-line"><span class="topo-inside">AAVAFFGVANAVAIAKAGAFNLGFI</span><span class="topo-unknown">TLPAIF</span><span class="topo-inside">SQTAGGTF</span><span class="topo-membrane">LGFLWFFLLFFAGLTSSIAIM</span></span>
-<span class="topo-line"><span class="topo-membrane">QPMIAFL</span><span class="topo-outside">EDELKLSRKH</span><span class="topo-membrane">AVLWTAAIVFFSAHLVMFL</span><span class="topo-inside">NKS</span><span class="topo-membrane">LDEMDFWAGTIGVVFFGLTEL</span></span>
-<span class="topo-line"><span class="topo-membrane">IIFFWI</span><span class="topo-outside">FG</span><span class="topo-unknown">ADKAWEEIN</span><span class="topo-outside">RGGIIKV</span><span class="topo-membrane">PRIYYYVMRYITPAFLAVLLVVWAR</span><span class="topo-inside">EYIPKIMEETH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MEV</span><span class="topo-outside">KREHWATRL</span><span class="topo-membrane">GLILAMAGNAVGLGNFLRFP</span><span class="topo-inside">VQAAENGGGAF</span><span class="topo-membrane">MIPYIIAFLLVGIPLMWIEW</span><span class="topo-outside">AMGRYGGAQGHGTTPAIFYLLWRNRF</span><span class="topo-membrane">AKILGVFGLWIPLVVAIYYVYIESWTLGFAI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">KFLV</span><span class="topo-inside">GLVPEPPP</span><span class="topo-unknown">NA</span><span class="topo-inside">TDPDSILRPFKEFLYSYIGVPKGDEPILKPSL</span><span class="topo-membrane">FAYIVFLITMFINVSILIR</span><span class="topo-outside">GISKG</span><span class="topo-membrane">IERFAKIAMPTLFILAVFLVIR</span><span class="topo-inside">VFLLETPNGT</span><span class="topo-unknown">AADGLNFL</span><span class="topo-inside">WTPDFEKLKD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">P</span><span class="topo-membrane">GVWIAAVGQIFFTLSLGFGAIITYA</span><span class="topo-outside">SYVRKDQDIV</span><span class="topo-membrane">LSGLTAATLNEKAEVILGGSI</span><span class="topo-inside">SIPAAVAFFGVANAVAIAKAGAFNLGFI</span><span class="topo-unknown">TLPAIF</span><span class="topo-inside">SQTAGGTF</span><span class="topo-membrane">LGFLWFFLLFFAGLTSSIAIM</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">QPMIAFL</span><span class="topo-outside">EDELKLSRKH</span><span class="topo-membrane">AVLWTAAIVFFSAHLVMFL</span><span class="topo-inside">NKS</span><span class="topo-membrane">LDEMDFWAGTIGVVFFGLTELIIFFWI</span><span class="topo-outside">FG</span><span class="topo-unknown">ADKAWEEIN</span><span class="topo-outside">RGGIIKV</span><span class="topo-membrane">PRIYYYVMRYITPAFLAVLLVVWAR</span><span class="topo-inside">EYIPKIMEETH</span></span>
+<span class="topo-ruler">       490       500       510         </span>
 <span class="topo-line"><span class="topo-inside">WTV</span><span class="topo-membrane">WITRFYIIGLFLFLTFLVF</span><span class="topo-outside">LAERRRNHESAGTLA</span><span class="topo-unknown">PR</span></span>
+<details class="topo-details"><summary>Topology coordinates (35 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2217,6 +2237,7 @@ LeuT is a bacterial amino acid transporter from Aquifex aeolicus that belongs to
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2232,15 +2253,17 @@ LeuT is a bacterial amino acid transporter from Aquifex aeolicus that belongs to
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MEV</span><span class="topo-outside">KREHWATRL</span><span class="topo-membrane">GLILAMAGNAVGLGNFLRFP</span><span class="topo-inside">VQAAENGGGAF</span><span class="topo-membrane">MIPYIIAFLLVGIPLMW</span></span>
-<span class="topo-line"><span class="topo-membrane">IEW</span><span class="topo-outside">AMGRYGGAQGHGTTPAIFYLLWRNRF</span><span class="topo-membrane">AKILGVFGLWIPLVVAIYYVYIESWTLGFAI</span></span>
-<span class="topo-line"><span class="topo-membrane">KFLV</span><span class="topo-inside">GLVPEPPP</span><span class="topo-unknown">NA</span><span class="topo-inside">TDPDSILRPFKEFLYSYIGVPKGDEPILKPSL</span><span class="topo-membrane">FAYIVFLITMFINV</span></span>
-<span class="topo-line"><span class="topo-membrane">SILIR</span><span class="topo-outside">GISKG</span><span class="topo-membrane">IERFAKIAMPTLFILAVFLVIR</span><span class="topo-inside">VFLLETPNGT</span><span class="topo-unknown">AADGLNFL</span><span class="topo-inside">WTPDFEKLKD</span></span>
-<span class="topo-line"><span class="topo-inside">P</span><span class="topo-membrane">GVWIAAVGQIFFTLSLGFGAIITYA</span><span class="topo-outside">SYVRKDQDIV</span><span class="topo-membrane">LSGLTAATLNEKAEVILGGSI</span><span class="topo-inside">SIP</span></span>
-<span class="topo-line"><span class="topo-inside">AAVAFFGVANAVAIAKAGAFNLGFI</span><span class="topo-unknown">TLPAIF</span><span class="topo-inside">SQTAGGTF</span><span class="topo-membrane">LGFLWFFLLFFAGLTSSIAIM</span></span>
-<span class="topo-line"><span class="topo-membrane">QPMIAFL</span><span class="topo-outside">EDELKLSRKH</span><span class="topo-membrane">AVLWTAAIVFFSAHLVMFL</span><span class="topo-inside">NKS</span><span class="topo-membrane">LDEMDFWAGTIGVVFFGLTEL</span></span>
-<span class="topo-line"><span class="topo-membrane">IIFFWI</span><span class="topo-outside">FG</span><span class="topo-unknown">ADKAWEEIN</span><span class="topo-outside">RGGIIKV</span><span class="topo-membrane">PRIYYYVMRYITPAFLAVLLVVWAR</span><span class="topo-inside">EYIPKIMEETH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MEV</span><span class="topo-outside">KREHWATRL</span><span class="topo-membrane">GLILAMAGNAVGLGNFLRFP</span><span class="topo-inside">VQAAENGGGAF</span><span class="topo-membrane">MIPYIIAFLLVGIPLMWIEW</span><span class="topo-outside">AMGRYGGAQGHGTTPAIFYLLWRNRF</span><span class="topo-membrane">AKILGVFGLWIPLVVAIYYVYIESWTLGFAI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">KFLV</span><span class="topo-inside">GLVPEPPP</span><span class="topo-unknown">NA</span><span class="topo-inside">TDPDSILRPFKEFLYSYIGVPKGDEPILKPSL</span><span class="topo-membrane">FAYIVFLITMFINVSILIR</span><span class="topo-outside">GISKG</span><span class="topo-membrane">IERFAKIAMPTLFILAVFLVIR</span><span class="topo-inside">VFLLETPNGT</span><span class="topo-unknown">AADGLNFL</span><span class="topo-inside">WTPDFEKLKD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">P</span><span class="topo-membrane">GVWIAAVGQIFFTLSLGFGAIITYA</span><span class="topo-outside">SYVRKDQDIV</span><span class="topo-membrane">LSGLTAATLNEKAEVILGGSI</span><span class="topo-inside">SIPAAVAFFGVANAVAIAKAGAFNLGFI</span><span class="topo-unknown">TLPAIF</span><span class="topo-inside">SQTAGGTF</span><span class="topo-membrane">LGFLWFFLLFFAGLTSSIAIM</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">QPMIAFL</span><span class="topo-outside">EDELKLSRKH</span><span class="topo-membrane">AVLWTAAIVFFSAHLVMFL</span><span class="topo-inside">NKS</span><span class="topo-membrane">LDEMDFWAGTIGVVFFGLTELIIFFWI</span><span class="topo-outside">FG</span><span class="topo-unknown">ADKAWEEIN</span><span class="topo-outside">RGGIIKV</span><span class="topo-membrane">PRIYYYVMRYITPAFLAVLLVVWAR</span><span class="topo-inside">EYIPKIMEETH</span></span>
+<span class="topo-ruler">       490       500       510         </span>
 <span class="topo-line"><span class="topo-inside">WTV</span><span class="topo-membrane">WITRFYIIGLFLFLTFLVF</span><span class="topo-outside">LAERRRNHESAGTLA</span><span class="topo-unknown">PR</span></span>
+<details class="topo-details"><summary>Topology coordinates (35 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2497,6 +2520,7 @@ LeuT is a bacterial amino acid transporter from Aquifex aeolicus that belongs to
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2512,15 +2536,17 @@ LeuT is a bacterial amino acid transporter from Aquifex aeolicus that belongs to
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MEV</span><span class="topo-outside">KREHWATRL</span><span class="topo-membrane">GLILAMAGNAVGLGNFLRFP</span><span class="topo-inside">VQAAENGGGAF</span><span class="topo-membrane">MIPYIIAFLLVGIPLMW</span></span>
-<span class="topo-line"><span class="topo-membrane">IEW</span><span class="topo-outside">AMGRYGGAQGHGTTPAIFYLLWRNRF</span><span class="topo-membrane">AKILGVFGLWIPLVVAIYYVYIESWTLGFAI</span></span>
-<span class="topo-line"><span class="topo-membrane">KFLV</span><span class="topo-inside">GLVPEPPP</span><span class="topo-unknown">NA</span><span class="topo-inside">TDPDSILRPFKEFLYSYIGVPKGDEPILKPSL</span><span class="topo-membrane">FAYIVFLITMFINV</span></span>
-<span class="topo-line"><span class="topo-membrane">SILIR</span><span class="topo-outside">GISKG</span><span class="topo-membrane">IERFAKIAMPTLFILAVFLVIR</span><span class="topo-inside">VFLLETPNGT</span><span class="topo-unknown">AADGLNFL</span><span class="topo-inside">WTPDFEKLKD</span></span>
-<span class="topo-line"><span class="topo-inside">P</span><span class="topo-membrane">GVWIAAVGQIFFTLSLGFGAIITYA</span><span class="topo-outside">SYVRKDQDIV</span><span class="topo-membrane">LSGLTAATLNEKAEVILGGSI</span><span class="topo-inside">SIP</span></span>
-<span class="topo-line"><span class="topo-inside">AAVAFFGVANAVAIAKAGAFNLGFI</span><span class="topo-unknown">TLPAIF</span><span class="topo-inside">SQTAGGTF</span><span class="topo-membrane">LGFLWFFLLFFAGLTSSIAIM</span></span>
-<span class="topo-line"><span class="topo-membrane">QPMIAFL</span><span class="topo-outside">EDELKLSRKH</span><span class="topo-membrane">AVLWTAAIVFFSAHLVMFL</span><span class="topo-inside">NKS</span><span class="topo-membrane">LDEMDFWAGTIGVVFFGLTEL</span></span>
-<span class="topo-line"><span class="topo-membrane">IIFFWI</span><span class="topo-outside">FG</span><span class="topo-unknown">ADKAWEEIN</span><span class="topo-outside">RGGIIKV</span><span class="topo-membrane">PRIYYYVMRYITPAFLAVLLVVWAR</span><span class="topo-inside">EYIPKIMEETH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MEV</span><span class="topo-outside">KREHWATRL</span><span class="topo-membrane">GLILAMAGNAVGLGNFLRFP</span><span class="topo-inside">VQAAENGGGAF</span><span class="topo-membrane">MIPYIIAFLLVGIPLMWIEW</span><span class="topo-outside">AMGRYGGAQGHGTTPAIFYLLWRNRF</span><span class="topo-membrane">AKILGVFGLWIPLVVAIYYVYIESWTLGFAI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">KFLV</span><span class="topo-inside">GLVPEPPP</span><span class="topo-unknown">NA</span><span class="topo-inside">TDPDSILRPFKEFLYSYIGVPKGDEPILKPSL</span><span class="topo-membrane">FAYIVFLITMFINVSILIR</span><span class="topo-outside">GISKG</span><span class="topo-membrane">IERFAKIAMPTLFILAVFLVIR</span><span class="topo-inside">VFLLETPNGT</span><span class="topo-unknown">AADGLNFL</span><span class="topo-inside">WTPDFEKLKD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">P</span><span class="topo-membrane">GVWIAAVGQIFFTLSLGFGAIITYA</span><span class="topo-outside">SYVRKDQDIV</span><span class="topo-membrane">LSGLTAATLNEKAEVILGGSI</span><span class="topo-inside">SIPAAVAFFGVANAVAIAKAGAFNLGFI</span><span class="topo-unknown">TLPAIF</span><span class="topo-inside">SQTAGGTF</span><span class="topo-membrane">LGFLWFFLLFFAGLTSSIAIM</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">QPMIAFL</span><span class="topo-outside">EDELKLSRKH</span><span class="topo-membrane">AVLWTAAIVFFSAHLVMFL</span><span class="topo-inside">NKS</span><span class="topo-membrane">LDEMDFWAGTIGVVFFGLTELIIFFWI</span><span class="topo-outside">FG</span><span class="topo-unknown">ADKAWEEIN</span><span class="topo-outside">RGGIIKV</span><span class="topo-membrane">PRIYYYVMRYITPAFLAVLLVVWAR</span><span class="topo-inside">EYIPKIMEETH</span></span>
+<span class="topo-ruler">       490       500       510         </span>
 <span class="topo-line"><span class="topo-inside">WTV</span><span class="topo-membrane">WITRFYIIGLFLFLTFLVF</span><span class="topo-outside">LAERRRNHESAGTLA</span><span class="topo-unknown">PR</span></span>
+<details class="topo-details"><summary>Topology coordinates (35 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2777,6 +2803,7 @@ LeuT is a bacterial amino acid transporter from Aquifex aeolicus that belongs to
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2792,15 +2819,17 @@ LeuT is a bacterial amino acid transporter from Aquifex aeolicus that belongs to
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MEV</span><span class="topo-outside">KREHWATRL</span><span class="topo-membrane">GLILAMAGNAVGLGNFLRFP</span><span class="topo-inside">VQAAENGGGAF</span><span class="topo-membrane">MIPYIIAFLLVGIPLMW</span></span>
-<span class="topo-line"><span class="topo-membrane">IEW</span><span class="topo-outside">AMGRYGGAQGHGTTPAIFYLLWRNRF</span><span class="topo-membrane">AKILGVFGLWIPLVVAIYYVYIESWTLGFAI</span></span>
-<span class="topo-line"><span class="topo-membrane">KFLV</span><span class="topo-inside">GLVPEPPP</span><span class="topo-unknown">NA</span><span class="topo-inside">TDPDSILRPFKEFLYSYIGVPKGDEPILKPSL</span><span class="topo-membrane">FAYIVFLITMFINV</span></span>
-<span class="topo-line"><span class="topo-membrane">SILIR</span><span class="topo-outside">GISKG</span><span class="topo-membrane">IERFAKIAMPTLFILAVFLVIR</span><span class="topo-inside">VFLLETPNGT</span><span class="topo-unknown">AADGLNFL</span><span class="topo-inside">WTPDFEKLKD</span></span>
-<span class="topo-line"><span class="topo-inside">P</span><span class="topo-membrane">GVWIAAVGQIFFTLSLGFGAIITYA</span><span class="topo-outside">SYVRKDQDIV</span><span class="topo-membrane">LSGLTAATLNEKAEVILGGSI</span><span class="topo-inside">SIP</span></span>
-<span class="topo-line"><span class="topo-inside">AAVAFFGVANAVAIAKAGAFNLGFI</span><span class="topo-unknown">TLPAIF</span><span class="topo-inside">SQTAGGTF</span><span class="topo-membrane">LGFLWFFLLFFAGLTSSIAIM</span></span>
-<span class="topo-line"><span class="topo-membrane">QPMIAFL</span><span class="topo-outside">EDELKLSRKH</span><span class="topo-membrane">AVLWTAAIVFFSAHLVMFL</span><span class="topo-inside">NKS</span><span class="topo-membrane">LDEMDFWAGTIGVVFFGLTEL</span></span>
-<span class="topo-line"><span class="topo-membrane">IIFFWI</span><span class="topo-outside">FG</span><span class="topo-unknown">ADKAWEEIN</span><span class="topo-outside">RGGIIKV</span><span class="topo-membrane">PRIYYYVMRYITPAFLAVLLVVWAR</span><span class="topo-inside">EYIPKIMEETH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MEV</span><span class="topo-outside">KREHWATRL</span><span class="topo-membrane">GLILAMAGNAVGLGNFLRFP</span><span class="topo-inside">VQAAENGGGAF</span><span class="topo-membrane">MIPYIIAFLLVGIPLMWIEW</span><span class="topo-outside">AMGRYGGAQGHGTTPAIFYLLWRNRF</span><span class="topo-membrane">AKILGVFGLWIPLVVAIYYVYIESWTLGFAI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">KFLV</span><span class="topo-inside">GLVPEPPP</span><span class="topo-unknown">NA</span><span class="topo-inside">TDPDSILRPFKEFLYSYIGVPKGDEPILKPSL</span><span class="topo-membrane">FAYIVFLITMFINVSILIR</span><span class="topo-outside">GISKG</span><span class="topo-membrane">IERFAKIAMPTLFILAVFLVIR</span><span class="topo-inside">VFLLETPNGT</span><span class="topo-unknown">AADGLNFL</span><span class="topo-inside">WTPDFEKLKD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">P</span><span class="topo-membrane">GVWIAAVGQIFFTLSLGFGAIITYA</span><span class="topo-outside">SYVRKDQDIV</span><span class="topo-membrane">LSGLTAATLNEKAEVILGGSI</span><span class="topo-inside">SIPAAVAFFGVANAVAIAKAGAFNLGFI</span><span class="topo-unknown">TLPAIF</span><span class="topo-inside">SQTAGGTF</span><span class="topo-membrane">LGFLWFFLLFFAGLTSSIAIM</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">QPMIAFL</span><span class="topo-outside">EDELKLSRKH</span><span class="topo-membrane">AVLWTAAIVFFSAHLVMFL</span><span class="topo-inside">NKS</span><span class="topo-membrane">LDEMDFWAGTIGVVFFGLTELIIFFWI</span><span class="topo-outside">FG</span><span class="topo-unknown">ADKAWEEIN</span><span class="topo-outside">RGGIIKV</span><span class="topo-membrane">PRIYYYVMRYITPAFLAVLLVVWAR</span><span class="topo-inside">EYIPKIMEETH</span></span>
+<span class="topo-ruler">       490       500       510         </span>
 <span class="topo-line"><span class="topo-inside">WTV</span><span class="topo-membrane">WITRFYIIGLFLFLTFLVF</span><span class="topo-outside">LAERRRNHESAGTLA</span><span class="topo-unknown">PR</span></span>
+<details class="topo-details"><summary>Topology coordinates (35 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3057,6 +3086,7 @@ LeuT is a bacterial amino acid transporter from Aquifex aeolicus that belongs to
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3102,15 +3132,17 @@ LeuT is a bacterial amino acid transporter from Aquifex aeolicus that belongs to
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MEVKREHWAT</span><span class="topo-outside">RLGLI</span><span class="topo-membrane">LAMAGNAVGLGNFLRFPVQA</span><span class="topo-inside">AENGGGAF</span><span class="topo-membrane">MIPYIIAFLLVGIPLM</span><span class="topo-outside">W</span></span>
-<span class="topo-line"><span class="topo-outside">IEWAMGRYGGAQGHGTTPAIFYLLWRNRFAKILGV</span><span class="topo-membrane">FGLWIPLVVAIYYVYIESWTLGFAI</span></span>
-<span class="topo-line"><span class="topo-membrane">KFLV</span><span class="topo-inside">GLVPEPPPNATDPDSILRPFKEFLYSYIGVPKGDEPILKPSL</span><span class="topo-membrane">FAYIVFLITMFINV</span></span>
-<span class="topo-line"><span class="topo-membrane">S</span><span class="topo-outside">ILIRGISKGIERF</span><span class="topo-membrane">AKIAMPTLFILAVFLVIR</span><span class="topo-inside">VFLLETPNGT</span><span class="topo-unknown">AADGLNFL</span><span class="topo-inside">WTPDFEKLKD</span></span>
-<span class="topo-line"><span class="topo-inside">P</span><span class="topo-membrane">GVWIAAVGQIFFTLSLGF</span><span class="topo-outside">GAIITYASAVRKDQDIVLSGLTA</span><span class="topo-membrane">ATLNEAAEVILGGSIS</span><span class="topo-inside">IP</span></span>
-<span class="topo-line"><span class="topo-inside">AAVAFFGVANAVAIAKAGAF</span><span class="topo-unknown">NLGFITLPAIF</span><span class="topo-inside">SQTAG</span><span class="topo-membrane">GTFLGFLWFFLLFFAGLVASIAIM</span></span>
-<span class="topo-line"><span class="topo-outside">QPMIAFLEDELKLSRKHAVLW</span><span class="topo-membrane">TAAIVFFSAHLVMFL</span><span class="topo-inside">NKS</span><span class="topo-membrane">LDEMDFWAGTIGVVFFGLT</span><span class="topo-outside">EL</span></span>
-<span class="topo-line"><span class="topo-outside">IIFFWIFGADKAWEEINRGGIIKVPR</span><span class="topo-unknown">IYYYVMR</span><span class="topo-outside">Y</span><span class="topo-membrane">ITPAFLAVLLVVWAREYI</span><span class="topo-inside">PKIMEETH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MEVKREHWAT</span><span class="topo-outside">RLGLI</span><span class="topo-membrane">LAMAGNAVGLGNFLRFPVQA</span><span class="topo-inside">AENGGGAF</span><span class="topo-membrane">MIPYIIAFLLVGIPLM</span><span class="topo-outside">WIEWAMGRYGGAQGHGTTPAIFYLLWRNRFAKILGV</span><span class="topo-membrane">FGLWIPLVVAIYYVYIESWTLGFAI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">KFLV</span><span class="topo-inside">GLVPEPPPNATDPDSILRPFKEFLYSYIGVPKGDEPILKPSL</span><span class="topo-membrane">FAYIVFLITMFINVS</span><span class="topo-outside">ILIRGISKGIERF</span><span class="topo-membrane">AKIAMPTLFILAVFLVIR</span><span class="topo-inside">VFLLETPNGT</span><span class="topo-unknown">AADGLNFL</span><span class="topo-inside">WTPDFEKLKD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">P</span><span class="topo-membrane">GVWIAAVGQIFFTLSLGF</span><span class="topo-outside">GAIITYASAVRKDQDIVLSGLTA</span><span class="topo-membrane">ATLNEAAEVILGGSIS</span><span class="topo-inside">IPAAVAFFGVANAVAIAKAGAF</span><span class="topo-unknown">NLGFITLPAIF</span><span class="topo-inside">SQTAG</span><span class="topo-membrane">GTFLGFLWFFLLFFAGLVASIAIM</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">QPMIAFLEDELKLSRKHAVLW</span><span class="topo-membrane">TAAIVFFSAHLVMFL</span><span class="topo-inside">NKS</span><span class="topo-membrane">LDEMDFWAGTIGVVFFGLT</span><span class="topo-outside">ELIIFFWIFGADKAWEEINRGGIIKVPR</span><span class="topo-unknown">IYYYVMR</span><span class="topo-outside">Y</span><span class="topo-membrane">ITPAFLAVLLVVWAREYI</span><span class="topo-inside">PKIMEETH</span></span>
+<span class="topo-ruler">       490       500       510         </span>
 <span class="topo-line"><span class="topo-inside">WTV</span><span class="topo-membrane">WITRFYIIGLFLFLT</span><span class="topo-outside">FLVFLAERRRNHE</span><span class="topo-unknown">SAGTLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (33 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3353,6 +3385,7 @@ LeuT is a bacterial amino acid transporter from Aquifex aeolicus that belongs to
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3368,15 +3401,17 @@ LeuT is a bacterial amino acid transporter from Aquifex aeolicus that belongs to
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MEVKREHWAT</span><span class="topo-outside">RLGLI</span><span class="topo-membrane">LAMAGNAVGLGNFLRFPVQA</span><span class="topo-inside">AENGGGAF</span><span class="topo-membrane">MIPYIIAFLLVGIPLM</span><span class="topo-outside">W</span></span>
-<span class="topo-line"><span class="topo-outside">IEWAMGRYGGAQGHGTTPAIFYLLWRNRFAKILGV</span><span class="topo-membrane">FGLWIPLVVAIYYVYIESWTLGFAI</span></span>
-<span class="topo-line"><span class="topo-membrane">KFLV</span><span class="topo-inside">GLVPEPPPNATDPDSILRPFKEFLYSYIGVPKGDEPILKPSL</span><span class="topo-membrane">FAYIVFLITMFINV</span></span>
-<span class="topo-line"><span class="topo-membrane">S</span><span class="topo-outside">ILIRGISKGIERF</span><span class="topo-membrane">AKIAMPTLFILAVFLVIR</span><span class="topo-inside">VFLLETPNGT</span><span class="topo-unknown">AADGLNFL</span><span class="topo-inside">WTPDFEKLKD</span></span>
-<span class="topo-line"><span class="topo-inside">P</span><span class="topo-membrane">GVWIAAVGQIFFTLSLGF</span><span class="topo-outside">GAIITYASAVRKDQDIVLSGLTA</span><span class="topo-membrane">ATLNEAAEVILGGSIS</span><span class="topo-inside">IP</span></span>
-<span class="topo-line"><span class="topo-inside">AAVAFFGVANAVAIAKAGAF</span><span class="topo-unknown">NLGFITLPAIF</span><span class="topo-inside">SQTAG</span><span class="topo-membrane">GTFLGFLWFFLLFFAGLVASIAIM</span></span>
-<span class="topo-line"><span class="topo-outside">QPMIAFLEDELKLSRKHAVLW</span><span class="topo-membrane">TAAIVFFSAHLVMFL</span><span class="topo-inside">NKS</span><span class="topo-membrane">LDEMDFWAGTIGVVFFGLT</span><span class="topo-outside">EL</span></span>
-<span class="topo-line"><span class="topo-outside">IIFFWIFGADKAWEEINRGGIIKVPR</span><span class="topo-unknown">IYYYVMR</span><span class="topo-outside">Y</span><span class="topo-membrane">ITPAFLAVLLVVWAREYI</span><span class="topo-inside">PKIMEETH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MEVKREHWAT</span><span class="topo-outside">RLGLI</span><span class="topo-membrane">LAMAGNAVGLGNFLRFPVQA</span><span class="topo-inside">AENGGGAF</span><span class="topo-membrane">MIPYIIAFLLVGIPLM</span><span class="topo-outside">WIEWAMGRYGGAQGHGTTPAIFYLLWRNRFAKILGV</span><span class="topo-membrane">FGLWIPLVVAIYYVYIESWTLGFAI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">KFLV</span><span class="topo-inside">GLVPEPPPNATDPDSILRPFKEFLYSYIGVPKGDEPILKPSL</span><span class="topo-membrane">FAYIVFLITMFINVS</span><span class="topo-outside">ILIRGISKGIERF</span><span class="topo-membrane">AKIAMPTLFILAVFLVIR</span><span class="topo-inside">VFLLETPNGT</span><span class="topo-unknown">AADGLNFL</span><span class="topo-inside">WTPDFEKLKD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">P</span><span class="topo-membrane">GVWIAAVGQIFFTLSLGF</span><span class="topo-outside">GAIITYASAVRKDQDIVLSGLTA</span><span class="topo-membrane">ATLNEAAEVILGGSIS</span><span class="topo-inside">IPAAVAFFGVANAVAIAKAGAF</span><span class="topo-unknown">NLGFITLPAIF</span><span class="topo-inside">SQTAG</span><span class="topo-membrane">GTFLGFLWFFLLFFAGLVASIAIM</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">QPMIAFLEDELKLSRKHAVLW</span><span class="topo-membrane">TAAIVFFSAHLVMFL</span><span class="topo-inside">NKS</span><span class="topo-membrane">LDEMDFWAGTIGVVFFGLT</span><span class="topo-outside">ELIIFFWIFGADKAWEEINRGGIIKVPR</span><span class="topo-unknown">IYYYVMR</span><span class="topo-outside">Y</span><span class="topo-membrane">ITPAFLAVLLVVWAREYI</span><span class="topo-inside">PKIMEETH</span></span>
+<span class="topo-ruler">       490       500       510         </span>
 <span class="topo-line"><span class="topo-inside">WTV</span><span class="topo-membrane">WITRFYIIGLFLFLT</span><span class="topo-outside">FLVFLAERRRNHE</span><span class="topo-unknown">SAGTLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (33 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3619,6 +3654,7 @@ LeuT is a bacterial amino acid transporter from Aquifex aeolicus that belongs to
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3678,15 +3714,17 @@ LeuT is a bacterial amino acid transporter from Aquifex aeolicus that belongs to
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MEVK</span><span class="topo-outside">REHWATRL</span><span class="topo-membrane">GLILAMAGNAVGLGNFLRFP</span><span class="topo-inside">VQAAENGGG</span><span class="topo-membrane">AFMIPYIIAFLLVGIPLMW</span></span>
-<span class="topo-line"><span class="topo-membrane">IEW</span><span class="topo-outside">AMGRYGGAQGHGTTPAIFYLLWRNRF</span><span class="topo-membrane">AKILGVFGLWIPLVVAIYFVYIESWTLGFAI</span></span>
-<span class="topo-line"><span class="topo-membrane">KFLV</span><span class="topo-inside">GLVPE</span><span class="topo-unknown">PPPNA</span><span class="topo-inside">TDPDSILRPFKEFLYSYIGVPKGDEPILKPSL</span><span class="topo-membrane">FAYIVFLITMFINV</span></span>
-<span class="topo-line"><span class="topo-membrane">SILIR</span><span class="topo-outside">GISKG</span><span class="topo-membrane">IERFAKIAMPTLFILAVFLVIRVF</span><span class="topo-inside">LLETPNGT</span><span class="topo-unknown">AADGLNFL</span><span class="topo-inside">WTPDFEKLKD</span></span>
-<span class="topo-line"><span class="topo-inside">P</span><span class="topo-membrane">GVWIAAVGQIFFTLSLGFGAIITY</span><span class="topo-outside">ASYVRKDQDIVL</span><span class="topo-membrane">SGLTAATLNEAAEVILGGSIS</span><span class="topo-inside">IP</span></span>
-<span class="topo-line"><span class="topo-inside">AAVAFFGVANAVAIAKAG</span><span class="topo-unknown">AFNLGF</span><span class="topo-inside">I</span><span class="topo-unknown">TLPAIF</span><span class="topo-inside">SQTAGGTF</span><span class="topo-membrane">LGFLWFFLLFFAGLTSSIAIM</span></span>
-<span class="topo-line"><span class="topo-membrane">QPMIAFL</span><span class="topo-outside">EDELKLSRK</span><span class="topo-membrane">HAVLWTAAIVFFSAHLVMFL</span><span class="topo-inside">NKS</span><span class="topo-membrane">LDEMDFWAGTIGVVFFGLTEL</span></span>
-<span class="topo-line"><span class="topo-membrane">IIFFW</span><span class="topo-outside">IFG</span><span class="topo-unknown">ADKAWEEIN</span><span class="topo-outside">RGGIIKVPRI</span><span class="topo-membrane">YYYVMRYITPAFLAVLLVVWAREYI</span><span class="topo-inside">PKIMEETH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MEVK</span><span class="topo-outside">REHWATRL</span><span class="topo-membrane">GLILAMAGNAVGLGNFLRFP</span><span class="topo-inside">VQAAENGGG</span><span class="topo-membrane">AFMIPYIIAFLLVGIPLMWIEW</span><span class="topo-outside">AMGRYGGAQGHGTTPAIFYLLWRNRF</span><span class="topo-membrane">AKILGVFGLWIPLVVAIYFVYIESWTLGFAI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">KFLV</span><span class="topo-inside">GLVPE</span><span class="topo-unknown">PPPNA</span><span class="topo-inside">TDPDSILRPFKEFLYSYIGVPKGDEPILKPSL</span><span class="topo-membrane">FAYIVFLITMFINVSILIR</span><span class="topo-outside">GISKG</span><span class="topo-membrane">IERFAKIAMPTLFILAVFLVIRVF</span><span class="topo-inside">LLETPNGT</span><span class="topo-unknown">AADGLNFL</span><span class="topo-inside">WTPDFEKLKD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">P</span><span class="topo-membrane">GVWIAAVGQIFFTLSLGFGAIITY</span><span class="topo-outside">ASYVRKDQDIVL</span><span class="topo-membrane">SGLTAATLNEAAEVILGGSIS</span><span class="topo-inside">IPAAVAFFGVANAVAIAKAG</span><span class="topo-unknown">AFNLGF</span><span class="topo-inside">I</span><span class="topo-unknown">TLPAIF</span><span class="topo-inside">SQTAGGTF</span><span class="topo-membrane">LGFLWFFLLFFAGLTSSIAIM</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">QPMIAFL</span><span class="topo-outside">EDELKLSRK</span><span class="topo-membrane">HAVLWTAAIVFFSAHLVMFL</span><span class="topo-inside">NKS</span><span class="topo-membrane">LDEMDFWAGTIGVVFFGLTELIIFFW</span><span class="topo-outside">IFG</span><span class="topo-unknown">ADKAWEEIN</span><span class="topo-outside">RGGIIKVPRI</span><span class="topo-membrane">YYYVMRYITPAFLAVLLVVWAREYI</span><span class="topo-inside">PKIMEETH</span></span>
+<span class="topo-ruler">       490       500       510         </span>
 <span class="topo-line"><span class="topo-inside">WTV</span><span class="topo-membrane">WITRFYIIGLFLFLTFLVF</span><span class="topo-outside">LAERR</span><span class="topo-unknown">RNHESAGTLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (37 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3957,6 +3995,7 @@ LeuT is a bacterial amino acid transporter from Aquifex aeolicus that belongs to
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3972,15 +4011,17 @@ LeuT is a bacterial amino acid transporter from Aquifex aeolicus that belongs to
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MEVK</span><span class="topo-outside">REHWATRLG</span><span class="topo-membrane">LILAMAGNAVGLGNFLRFP</span><span class="topo-inside">VQAAENGGG</span><span class="topo-membrane">AFMIPYIIAFLLVGIPLMW</span></span>
-<span class="topo-line"><span class="topo-membrane">IEW</span><span class="topo-outside">AMGRYGGAQGHGTTPAIFYLLWRNRF</span><span class="topo-membrane">AKILGVFGLWIPLVVAIYFVYIESWTLGFAI</span></span>
-<span class="topo-line"><span class="topo-membrane">KFLV</span><span class="topo-inside">GLVPE</span><span class="topo-unknown">PPPNA</span><span class="topo-inside">TDPDSILRPFKEFLYSYIGVPKGDEPILKPSL</span><span class="topo-membrane">FAYIVFLITMFINV</span></span>
-<span class="topo-line"><span class="topo-membrane">SILIR</span><span class="topo-outside">GISKG</span><span class="topo-membrane">IERFAKIAMPTLFILAVFLVIRVF</span><span class="topo-inside">LLETPNGT</span><span class="topo-unknown">AADGLNFL</span><span class="topo-inside">WTPDFEKLKD</span></span>
-<span class="topo-line"><span class="topo-inside">P</span><span class="topo-membrane">GVWIAAVGQIFFTLSLGFGAIITY</span><span class="topo-outside">ASYVRKDQDIVL</span><span class="topo-membrane">SGLTAATLNEAAEVILGGSIS</span><span class="topo-inside">IP</span></span>
-<span class="topo-line"><span class="topo-inside">AAVAFFGVANAVAIAKAG</span><span class="topo-unknown">AFNLGF</span><span class="topo-inside">I</span><span class="topo-unknown">TLPAIF</span><span class="topo-inside">SQTAGGTF</span><span class="topo-membrane">LGFLWFFLLFFAGLTSSIAIM</span></span>
-<span class="topo-line"><span class="topo-membrane">QPMIAFL</span><span class="topo-outside">EDELKLSRK</span><span class="topo-membrane">HAVLWTAAIVFFSAHLVMFL</span><span class="topo-inside">NKS</span><span class="topo-membrane">LDEMDFWAGTIGVVFFGLTEL</span></span>
-<span class="topo-line"><span class="topo-membrane">IIFFW</span><span class="topo-outside">IFG</span><span class="topo-unknown">ADKAWEEIN</span><span class="topo-outside">RGGIIKVPRI</span><span class="topo-membrane">YYYVMRYITPAFLAVLLVVWAREYI</span><span class="topo-inside">PKIMEETH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MEVK</span><span class="topo-outside">REHWATRLG</span><span class="topo-membrane">LILAMAGNAVGLGNFLRFP</span><span class="topo-inside">VQAAENGGG</span><span class="topo-membrane">AFMIPYIIAFLLVGIPLMWIEW</span><span class="topo-outside">AMGRYGGAQGHGTTPAIFYLLWRNRF</span><span class="topo-membrane">AKILGVFGLWIPLVVAIYFVYIESWTLGFAI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">KFLV</span><span class="topo-inside">GLVPE</span><span class="topo-unknown">PPPNA</span><span class="topo-inside">TDPDSILRPFKEFLYSYIGVPKGDEPILKPSL</span><span class="topo-membrane">FAYIVFLITMFINVSILIR</span><span class="topo-outside">GISKG</span><span class="topo-membrane">IERFAKIAMPTLFILAVFLVIRVF</span><span class="topo-inside">LLETPNGT</span><span class="topo-unknown">AADGLNFL</span><span class="topo-inside">WTPDFEKLKD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">P</span><span class="topo-membrane">GVWIAAVGQIFFTLSLGFGAIITY</span><span class="topo-outside">ASYVRKDQDIVL</span><span class="topo-membrane">SGLTAATLNEAAEVILGGSIS</span><span class="topo-inside">IPAAVAFFGVANAVAIAKAG</span><span class="topo-unknown">AFNLGF</span><span class="topo-inside">I</span><span class="topo-unknown">TLPAIF</span><span class="topo-inside">SQTAGGTF</span><span class="topo-membrane">LGFLWFFLLFFAGLTSSIAIM</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">QPMIAFL</span><span class="topo-outside">EDELKLSRK</span><span class="topo-membrane">HAVLWTAAIVFFSAHLVMFL</span><span class="topo-inside">NKS</span><span class="topo-membrane">LDEMDFWAGTIGVVFFGLTELIIFFW</span><span class="topo-outside">IFG</span><span class="topo-unknown">ADKAWEEIN</span><span class="topo-outside">RGGIIKVPRI</span><span class="topo-membrane">YYYVMRYITPAFLAVLLVVWAREYI</span><span class="topo-inside">PKIMEETH</span></span>
+<span class="topo-ruler">       490       500       510         </span>
 <span class="topo-line"><span class="topo-inside">WTV</span><span class="topo-membrane">WITRFYIIGLFLFLTFLVF</span><span class="topo-outside">LAERR</span><span class="topo-unknown">RNHESAGTLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (37 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4251,6 +4292,7 @@ LeuT is a bacterial amino acid transporter from Aquifex aeolicus that belongs to
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4266,15 +4308,17 @@ LeuT is a bacterial amino acid transporter from Aquifex aeolicus that belongs to
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MEVK</span><span class="topo-outside">REHWATRL</span><span class="topo-membrane">GLILAMAGNAVGLGNFLRFP</span><span class="topo-inside">VQAAENGGG</span><span class="topo-membrane">AFMIPYIIAFLLVGIPLMW</span></span>
-<span class="topo-line"><span class="topo-membrane">IEW</span><span class="topo-outside">AMGRYGGAQGHGTTPAIFYLLWRNRF</span><span class="topo-membrane">AKILGVFGLWIPLVVAIYFVYIESWTLGFAI</span></span>
-<span class="topo-line"><span class="topo-membrane">KFLV</span><span class="topo-inside">GLVPE</span><span class="topo-unknown">PPPNA</span><span class="topo-inside">TDPDSILRPFKEFLYSYIGVPKGDEPILKPSL</span><span class="topo-membrane">FAYIVFLITMFINV</span></span>
-<span class="topo-line"><span class="topo-membrane">SILIR</span><span class="topo-outside">GISKG</span><span class="topo-membrane">IERFAKIAMPTLFILAVFLVIRVF</span><span class="topo-inside">LLETPNGT</span><span class="topo-unknown">AADGLNFL</span><span class="topo-inside">WTPDFEKLKD</span></span>
-<span class="topo-line"><span class="topo-inside">P</span><span class="topo-membrane">GVWIAAVGQIFFTLSLGFGAIITY</span><span class="topo-outside">ASYVRKDQDIVL</span><span class="topo-membrane">SGLTAATLNEAAEVILGGSIS</span><span class="topo-inside">IP</span></span>
-<span class="topo-line"><span class="topo-inside">AAVAFFGVANAVAIAKAG</span><span class="topo-unknown">AFNLGF</span><span class="topo-inside">I</span><span class="topo-unknown">TLPAIF</span><span class="topo-inside">SQTAGGTF</span><span class="topo-membrane">LGFLWFFLLFFAGLTSSIAIM</span></span>
-<span class="topo-line"><span class="topo-membrane">QPMIAFL</span><span class="topo-outside">EDELKLSRK</span><span class="topo-membrane">HAVLWTAAIVFFSAHLVMFL</span><span class="topo-inside">NKS</span><span class="topo-membrane">LDEMDFWAGTIGVVFFGLTEL</span></span>
-<span class="topo-line"><span class="topo-membrane">IIFFW</span><span class="topo-outside">IFG</span><span class="topo-unknown">ADKAWEEIN</span><span class="topo-outside">RGGIIKVPRI</span><span class="topo-membrane">YYYVMRYITPAFLAVLLVVWAREYI</span><span class="topo-inside">PKIMEETH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MEVK</span><span class="topo-outside">REHWATRL</span><span class="topo-membrane">GLILAMAGNAVGLGNFLRFP</span><span class="topo-inside">VQAAENGGG</span><span class="topo-membrane">AFMIPYIIAFLLVGIPLMWIEW</span><span class="topo-outside">AMGRYGGAQGHGTTPAIFYLLWRNRF</span><span class="topo-membrane">AKILGVFGLWIPLVVAIYFVYIESWTLGFAI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">KFLV</span><span class="topo-inside">GLVPE</span><span class="topo-unknown">PPPNA</span><span class="topo-inside">TDPDSILRPFKEFLYSYIGVPKGDEPILKPSL</span><span class="topo-membrane">FAYIVFLITMFINVSILIR</span><span class="topo-outside">GISKG</span><span class="topo-membrane">IERFAKIAMPTLFILAVFLVIRVF</span><span class="topo-inside">LLETPNGT</span><span class="topo-unknown">AADGLNFL</span><span class="topo-inside">WTPDFEKLKD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">P</span><span class="topo-membrane">GVWIAAVGQIFFTLSLGFGAIITY</span><span class="topo-outside">ASYVRKDQDIVL</span><span class="topo-membrane">SGLTAATLNEAAEVILGGSIS</span><span class="topo-inside">IPAAVAFFGVANAVAIAKAG</span><span class="topo-unknown">AFNLGF</span><span class="topo-inside">I</span><span class="topo-unknown">TLPAIF</span><span class="topo-inside">SQTAGGTF</span><span class="topo-membrane">LGFLWFFLLFFAGLTSSIAIM</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">QPMIAFL</span><span class="topo-outside">EDELKLSRK</span><span class="topo-membrane">HAVLWTAAIVFFSAHLVMFL</span><span class="topo-inside">NKS</span><span class="topo-membrane">LDEMDFWAGTIGVVFFGLTELIIFFW</span><span class="topo-outside">IFG</span><span class="topo-unknown">ADKAWEEIN</span><span class="topo-outside">RGGIIKVPRI</span><span class="topo-membrane">YYYVMRYITPAFLAVLLVVWAREYI</span><span class="topo-inside">PKIMEETH</span></span>
+<span class="topo-ruler">       490       500       510         </span>
 <span class="topo-line"><span class="topo-inside">WTV</span><span class="topo-membrane">WITRFYIIGLFLFLTFLVF</span><span class="topo-outside">LAERR</span><span class="topo-unknown">RNHESAGTLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (37 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4545,6 +4589,7 @@ LeuT is a bacterial amino acid transporter from Aquifex aeolicus that belongs to
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4560,15 +4605,17 @@ LeuT is a bacterial amino acid transporter from Aquifex aeolicus that belongs to
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MEVK</span><span class="topo-outside">REHWATRLG</span><span class="topo-membrane">LILAMAGNAVGLGNFLRFP</span><span class="topo-inside">VQAAENGGG</span><span class="topo-membrane">AFMIPYIIAFLLVGIPLMW</span></span>
-<span class="topo-line"><span class="topo-membrane">IEW</span><span class="topo-outside">AMGRYGGAQGHGTTPAIFYLLWRNRF</span><span class="topo-membrane">AKILGVFGLWIPLVVAIYFVYIESWTLGFAI</span></span>
-<span class="topo-line"><span class="topo-membrane">KFLV</span><span class="topo-inside">GLVPE</span><span class="topo-unknown">PPPNA</span><span class="topo-inside">TDPDSILRPFKEFLYSYIGVPKGDEPILKPSL</span><span class="topo-membrane">FAYIVFLITMFINV</span></span>
-<span class="topo-line"><span class="topo-membrane">SILIR</span><span class="topo-outside">GISKG</span><span class="topo-membrane">IERFAKIAMPTLFILAVFLVIRVF</span><span class="topo-inside">LLETPNGT</span><span class="topo-unknown">AADGLNFL</span><span class="topo-inside">WTPDFEKLKD</span></span>
-<span class="topo-line"><span class="topo-inside">P</span><span class="topo-membrane">GVWIAAVGQIFFTLSLGFGAIITY</span><span class="topo-outside">ASYVRKDQDIVL</span><span class="topo-membrane">SGLTAATLNEAAEVILGGSIS</span><span class="topo-inside">IP</span></span>
-<span class="topo-line"><span class="topo-inside">AAVAFFGVANAVAIAKAG</span><span class="topo-unknown">AFNLGF</span><span class="topo-inside">I</span><span class="topo-unknown">TLPAIF</span><span class="topo-inside">SQTAGGTF</span><span class="topo-membrane">LGFLWFFLLFFAGLTSSIAIM</span></span>
-<span class="topo-line"><span class="topo-membrane">QPMIAFL</span><span class="topo-outside">EDELKLSRK</span><span class="topo-membrane">HAVLWTAAIVFFSAHLVMFL</span><span class="topo-inside">NKS</span><span class="topo-membrane">LDEMDFWAGTIGVVFFGLTEL</span></span>
-<span class="topo-line"><span class="topo-membrane">IIFFW</span><span class="topo-outside">IFG</span><span class="topo-unknown">ADKAWEEIN</span><span class="topo-outside">RGGIIKVPRI</span><span class="topo-membrane">YYYVMRYITPAFLAVLLVVWAREYI</span><span class="topo-inside">PKIMEETH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MEVK</span><span class="topo-outside">REHWATRLG</span><span class="topo-membrane">LILAMAGNAVGLGNFLRFP</span><span class="topo-inside">VQAAENGGG</span><span class="topo-membrane">AFMIPYIIAFLLVGIPLMWIEW</span><span class="topo-outside">AMGRYGGAQGHGTTPAIFYLLWRNRF</span><span class="topo-membrane">AKILGVFGLWIPLVVAIYFVYIESWTLGFAI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">KFLV</span><span class="topo-inside">GLVPE</span><span class="topo-unknown">PPPNA</span><span class="topo-inside">TDPDSILRPFKEFLYSYIGVPKGDEPILKPSL</span><span class="topo-membrane">FAYIVFLITMFINVSILIR</span><span class="topo-outside">GISKG</span><span class="topo-membrane">IERFAKIAMPTLFILAVFLVIRVF</span><span class="topo-inside">LLETPNGT</span><span class="topo-unknown">AADGLNFL</span><span class="topo-inside">WTPDFEKLKD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">P</span><span class="topo-membrane">GVWIAAVGQIFFTLSLGFGAIITY</span><span class="topo-outside">ASYVRKDQDIVL</span><span class="topo-membrane">SGLTAATLNEAAEVILGGSIS</span><span class="topo-inside">IPAAVAFFGVANAVAIAKAG</span><span class="topo-unknown">AFNLGF</span><span class="topo-inside">I</span><span class="topo-unknown">TLPAIF</span><span class="topo-inside">SQTAGGTF</span><span class="topo-membrane">LGFLWFFLLFFAGLTSSIAIM</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">QPMIAFL</span><span class="topo-outside">EDELKLSRK</span><span class="topo-membrane">HAVLWTAAIVFFSAHLVMFL</span><span class="topo-inside">NKS</span><span class="topo-membrane">LDEMDFWAGTIGVVFFGLTELIIFFW</span><span class="topo-outside">IFG</span><span class="topo-unknown">ADKAWEEIN</span><span class="topo-outside">RGGIIKVPRI</span><span class="topo-membrane">YYYVMRYITPAFLAVLLVVWAREYI</span><span class="topo-inside">PKIMEETH</span></span>
+<span class="topo-ruler">       490       500       510         </span>
 <span class="topo-line"><span class="topo-inside">WTV</span><span class="topo-membrane">WITRFYIIGLFLFLTFLVF</span><span class="topo-outside">LAERR</span><span class="topo-unknown">RNHESAGTLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (37 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4839,6 +4886,7 @@ LeuT is a bacterial amino acid transporter from Aquifex aeolicus that belongs to
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4854,15 +4902,17 @@ LeuT is a bacterial amino acid transporter from Aquifex aeolicus that belongs to
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MEVK</span><span class="topo-outside">REHWATRL</span><span class="topo-membrane">GLILAMAGNAVGLGNFLRFP</span><span class="topo-inside">VQAAENGGG</span><span class="topo-membrane">AFMIPYIIAFLLVGIPLMW</span></span>
-<span class="topo-line"><span class="topo-membrane">IEW</span><span class="topo-outside">AMGRYGGAQGHGTTPAIFYLLWRNRF</span><span class="topo-membrane">AKILGVFGLWIPLVVAIYFVYIESWTLGFAI</span></span>
-<span class="topo-line"><span class="topo-membrane">KFLV</span><span class="topo-inside">GLVPE</span><span class="topo-unknown">PPPNA</span><span class="topo-inside">TDPDSILRPFKEFLYSYIGVPKGDEPILKPSL</span><span class="topo-membrane">FAYIVFLITMFINV</span></span>
-<span class="topo-line"><span class="topo-membrane">SILIR</span><span class="topo-outside">GISKG</span><span class="topo-membrane">IERFAKIAMPTLFILAVFLVIRVF</span><span class="topo-inside">LLETPNGT</span><span class="topo-unknown">AADGLNFL</span><span class="topo-inside">WTPDFEKLKD</span></span>
-<span class="topo-line"><span class="topo-inside">P</span><span class="topo-membrane">GVWIAAVGQIFFTLSLGFGAIITY</span><span class="topo-outside">ASYVRKDQDIVL</span><span class="topo-membrane">SGLTAATLNEAAEVILGGSIS</span><span class="topo-inside">IP</span></span>
-<span class="topo-line"><span class="topo-inside">AAVAFFGVANAVAIAKAG</span><span class="topo-unknown">AFNLGF</span><span class="topo-inside">I</span><span class="topo-unknown">TLPAIF</span><span class="topo-inside">SQTAGGTF</span><span class="topo-membrane">LGFLWFFLLFFAGLTSSIAIM</span></span>
-<span class="topo-line"><span class="topo-membrane">QPMIAFL</span><span class="topo-outside">EDELKLSRK</span><span class="topo-membrane">HAVLWTAAIVFFSAHLVMFL</span><span class="topo-inside">NKS</span><span class="topo-membrane">LDEMDFWAGTIGVVFFGLTEL</span></span>
-<span class="topo-line"><span class="topo-membrane">IIFFW</span><span class="topo-outside">IFG</span><span class="topo-unknown">ADKAWEEIN</span><span class="topo-outside">RGGIIKVPRI</span><span class="topo-membrane">YYYVMRYITPAFLAVLLVVWAREYI</span><span class="topo-inside">PKIMEETH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MEVK</span><span class="topo-outside">REHWATRL</span><span class="topo-membrane">GLILAMAGNAVGLGNFLRFP</span><span class="topo-inside">VQAAENGGG</span><span class="topo-membrane">AFMIPYIIAFLLVGIPLMWIEW</span><span class="topo-outside">AMGRYGGAQGHGTTPAIFYLLWRNRF</span><span class="topo-membrane">AKILGVFGLWIPLVVAIYFVYIESWTLGFAI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">KFLV</span><span class="topo-inside">GLVPE</span><span class="topo-unknown">PPPNA</span><span class="topo-inside">TDPDSILRPFKEFLYSYIGVPKGDEPILKPSL</span><span class="topo-membrane">FAYIVFLITMFINVSILIR</span><span class="topo-outside">GISKG</span><span class="topo-membrane">IERFAKIAMPTLFILAVFLVIRVF</span><span class="topo-inside">LLETPNGT</span><span class="topo-unknown">AADGLNFL</span><span class="topo-inside">WTPDFEKLKD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">P</span><span class="topo-membrane">GVWIAAVGQIFFTLSLGFGAIITY</span><span class="topo-outside">ASYVRKDQDIVL</span><span class="topo-membrane">SGLTAATLNEAAEVILGGSIS</span><span class="topo-inside">IPAAVAFFGVANAVAIAKAG</span><span class="topo-unknown">AFNLGF</span><span class="topo-inside">I</span><span class="topo-unknown">TLPAIF</span><span class="topo-inside">SQTAGGTF</span><span class="topo-membrane">LGFLWFFLLFFAGLTSSIAIM</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">QPMIAFL</span><span class="topo-outside">EDELKLSRK</span><span class="topo-membrane">HAVLWTAAIVFFSAHLVMFL</span><span class="topo-inside">NKS</span><span class="topo-membrane">LDEMDFWAGTIGVVFFGLTELIIFFW</span><span class="topo-outside">IFG</span><span class="topo-unknown">ADKAWEEIN</span><span class="topo-outside">RGGIIKVPRI</span><span class="topo-membrane">YYYVMRYITPAFLAVLLVVWAREYI</span><span class="topo-inside">PKIMEETH</span></span>
+<span class="topo-ruler">       490       500       510         </span>
 <span class="topo-line"><span class="topo-inside">WTV</span><span class="topo-membrane">WITRFYIIGLFLFLTFLVF</span><span class="topo-outside">LAERR</span><span class="topo-unknown">RNHESAGTLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (37 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -5133,6 +5183,7 @@ LeuT is a bacterial amino acid transporter from Aquifex aeolicus that belongs to
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -5148,15 +5199,17 @@ LeuT is a bacterial amino acid transporter from Aquifex aeolicus that belongs to
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MEVK</span><span class="topo-outside">REHWATRLG</span><span class="topo-membrane">LILAMAGNAVGLGNFLRFP</span><span class="topo-inside">VQAAENGGG</span><span class="topo-membrane">AFMIPYIIAFLLVGIPLMW</span></span>
-<span class="topo-line"><span class="topo-membrane">IEW</span><span class="topo-outside">AMGRYGGAQGHGTTPAIFYLLWRNRF</span><span class="topo-membrane">AKILGVFGLWIPLVVAIYFVYIESWTLGFAI</span></span>
-<span class="topo-line"><span class="topo-membrane">KFLV</span><span class="topo-inside">GLVPE</span><span class="topo-unknown">PPPNA</span><span class="topo-inside">TDPDSILRPFKEFLYSYIGVPKGDEPILKPSL</span><span class="topo-membrane">FAYIVFLITMFINV</span></span>
-<span class="topo-line"><span class="topo-membrane">SILIR</span><span class="topo-outside">GISKG</span><span class="topo-membrane">IERFAKIAMPTLFILAVFLVIRVF</span><span class="topo-inside">LLETPNGT</span><span class="topo-unknown">AADGLNFL</span><span class="topo-inside">WTPDFEKLKD</span></span>
-<span class="topo-line"><span class="topo-inside">P</span><span class="topo-membrane">GVWIAAVGQIFFTLSLGFGAIITY</span><span class="topo-outside">ASYVRKDQDIVL</span><span class="topo-membrane">SGLTAATLNEAAEVILGGSIS</span><span class="topo-inside">IP</span></span>
-<span class="topo-line"><span class="topo-inside">AAVAFFGVANAVAIAKAG</span><span class="topo-unknown">AFNLGF</span><span class="topo-inside">I</span><span class="topo-unknown">TLPAIF</span><span class="topo-inside">SQTAGGTF</span><span class="topo-membrane">LGFLWFFLLFFAGLTSSIAIM</span></span>
-<span class="topo-line"><span class="topo-membrane">QPMIAFL</span><span class="topo-outside">EDELKLSRK</span><span class="topo-membrane">HAVLWTAAIVFFSAHLVMFL</span><span class="topo-inside">NKS</span><span class="topo-membrane">LDEMDFWAGTIGVVFFGLTEL</span></span>
-<span class="topo-line"><span class="topo-membrane">IIFFW</span><span class="topo-outside">IFG</span><span class="topo-unknown">ADKAWEEIN</span><span class="topo-outside">RGGIIKVPRI</span><span class="topo-membrane">YYYVMRYITPAFLAVLLVVWAREYI</span><span class="topo-inside">PKIMEETH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MEVK</span><span class="topo-outside">REHWATRLG</span><span class="topo-membrane">LILAMAGNAVGLGNFLRFP</span><span class="topo-inside">VQAAENGGG</span><span class="topo-membrane">AFMIPYIIAFLLVGIPLMWIEW</span><span class="topo-outside">AMGRYGGAQGHGTTPAIFYLLWRNRF</span><span class="topo-membrane">AKILGVFGLWIPLVVAIYFVYIESWTLGFAI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">KFLV</span><span class="topo-inside">GLVPE</span><span class="topo-unknown">PPPNA</span><span class="topo-inside">TDPDSILRPFKEFLYSYIGVPKGDEPILKPSL</span><span class="topo-membrane">FAYIVFLITMFINVSILIR</span><span class="topo-outside">GISKG</span><span class="topo-membrane">IERFAKIAMPTLFILAVFLVIRVF</span><span class="topo-inside">LLETPNGT</span><span class="topo-unknown">AADGLNFL</span><span class="topo-inside">WTPDFEKLKD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">P</span><span class="topo-membrane">GVWIAAVGQIFFTLSLGFGAIITY</span><span class="topo-outside">ASYVRKDQDIVL</span><span class="topo-membrane">SGLTAATLNEAAEVILGGSIS</span><span class="topo-inside">IPAAVAFFGVANAVAIAKAG</span><span class="topo-unknown">AFNLGF</span><span class="topo-inside">I</span><span class="topo-unknown">TLPAIF</span><span class="topo-inside">SQTAGGTF</span><span class="topo-membrane">LGFLWFFLLFFAGLTSSIAIM</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">QPMIAFL</span><span class="topo-outside">EDELKLSRK</span><span class="topo-membrane">HAVLWTAAIVFFSAHLVMFL</span><span class="topo-inside">NKS</span><span class="topo-membrane">LDEMDFWAGTIGVVFFGLTELIIFFW</span><span class="topo-outside">IFG</span><span class="topo-unknown">ADKAWEEIN</span><span class="topo-outside">RGGIIKVPRI</span><span class="topo-membrane">YYYVMRYITPAFLAVLLVVWAREYI</span><span class="topo-inside">PKIMEETH</span></span>
+<span class="topo-ruler">       490       500       510         </span>
 <span class="topo-line"><span class="topo-inside">WTV</span><span class="topo-membrane">WITRFYIIGLFLFLTFLVF</span><span class="topo-outside">LAERR</span><span class="topo-unknown">RNHESAGTLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (37 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -5427,6 +5480,7 @@ LeuT is a bacterial amino acid transporter from Aquifex aeolicus that belongs to
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -5486,15 +5540,17 @@ LeuT is a bacterial amino acid transporter from Aquifex aeolicus that belongs to
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MEV</span><span class="topo-outside">KREHWATRLG</span><span class="topo-membrane">LILAMAGNAVGLGNFLRFP</span><span class="topo-inside">VQAAENGGGAF</span><span class="topo-membrane">MIPYIIAFLLVGIPLMW</span></span>
-<span class="topo-line"><span class="topo-membrane">IEW</span><span class="topo-outside">AMGRYGGAQGHGTTPAIFYLLWRNRF</span><span class="topo-membrane">AKILGVFGLWIPLVVAIYYVYIESWTLGFAI</span></span>
-<span class="topo-line"><span class="topo-inside">KFLVGLVPEPP</span><span class="topo-unknown">PN</span><span class="topo-inside">ATDPDSILRPFKEFLYSYIGVPKGDEPILKPSL</span><span class="topo-membrane">FAYIVFLITMFINV</span></span>
-<span class="topo-line"><span class="topo-membrane">SILI</span><span class="topo-outside">RGISKG</span><span class="topo-membrane">IERFAKIAMPTLFILAVFLVIR</span><span class="topo-inside">VFLLETPNGT</span><span class="topo-unknown">AADGLN</span><span class="topo-inside">FLWTPDFEKLKD</span></span>
-<span class="topo-line"><span class="topo-inside">PGV</span><span class="topo-membrane">WIAAVGQIFFTLSLGFGAIITY</span><span class="topo-outside">ASYVRKDQDIVLS</span><span class="topo-membrane">GLTAATLNEKAEVILGGSI</span><span class="topo-inside">SIP</span></span>
-<span class="topo-line"><span class="topo-inside">AAVAFFGVANAVAIAKAG</span><span class="topo-unknown">AFNLGF</span><span class="topo-inside">I</span><span class="topo-unknown">TLPAIF</span><span class="topo-inside">SQTAGGTFLGF</span><span class="topo-membrane">LWFFLLFFAGLTSSIAIM</span></span>
-<span class="topo-line"><span class="topo-membrane">QPMIAF</span><span class="topo-outside">LEDELKLSRKH</span><span class="topo-membrane">AVLWTAAIVFFSAHLVM</span><span class="topo-inside">FLNKS</span><span class="topo-membrane">LDEMDFWAGTIGVVFFGLTEL</span></span>
-<span class="topo-line"><span class="topo-membrane">IIFFW</span><span class="topo-outside">IFG</span><span class="topo-unknown">ADKAWEEIN</span><span class="topo-outside">RGGIIKVPRI</span><span class="topo-membrane">YYYVMRYITPAFLAVLLVVWAR</span><span class="topo-inside">EYIPKIMEETH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MEV</span><span class="topo-outside">KREHWATRLG</span><span class="topo-membrane">LILAMAGNAVGLGNFLRFP</span><span class="topo-inside">VQAAENGGGAF</span><span class="topo-membrane">MIPYIIAFLLVGIPLMWIEW</span><span class="topo-outside">AMGRYGGAQGHGTTPAIFYLLWRNRF</span><span class="topo-membrane">AKILGVFGLWIPLVVAIYYVYIESWTLGFAI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">KFLVGLVPEPP</span><span class="topo-unknown">PN</span><span class="topo-inside">ATDPDSILRPFKEFLYSYIGVPKGDEPILKPSL</span><span class="topo-membrane">FAYIVFLITMFINVSILI</span><span class="topo-outside">RGISKG</span><span class="topo-membrane">IERFAKIAMPTLFILAVFLVIR</span><span class="topo-inside">VFLLETPNGT</span><span class="topo-unknown">AADGLN</span><span class="topo-inside">FLWTPDFEKLKD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">PGV</span><span class="topo-membrane">WIAAVGQIFFTLSLGFGAIITY</span><span class="topo-outside">ASYVRKDQDIVLS</span><span class="topo-membrane">GLTAATLNEKAEVILGGSI</span><span class="topo-inside">SIPAAVAFFGVANAVAIAKAG</span><span class="topo-unknown">AFNLGF</span><span class="topo-inside">I</span><span class="topo-unknown">TLPAIF</span><span class="topo-inside">SQTAGGTFLGF</span><span class="topo-membrane">LWFFLLFFAGLTSSIAIM</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">QPMIAF</span><span class="topo-outside">LEDELKLSRKH</span><span class="topo-membrane">AVLWTAAIVFFSAHLVM</span><span class="topo-inside">FLNKS</span><span class="topo-membrane">LDEMDFWAGTIGVVFFGLTELIIFFW</span><span class="topo-outside">IFG</span><span class="topo-unknown">ADKAWEEIN</span><span class="topo-outside">RGGIIKVPRI</span><span class="topo-membrane">YYYVMRYITPAFLAVLLVVWAR</span><span class="topo-inside">EYIPKIMEETH</span></span>
+<span class="topo-ruler">       490       500       510         </span>
 <span class="topo-line"><span class="topo-inside">WTVW</span><span class="topo-membrane">ITRFYIIGLFLFLTFLV</span><span class="topo-outside">FLAERRRNHES</span><span class="topo-unknown">AGTLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (34 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -5744,6 +5800,7 @@ LeuT is a bacterial amino acid transporter from Aquifex aeolicus that belongs to
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -5759,15 +5816,17 @@ LeuT is a bacterial amino acid transporter from Aquifex aeolicus that belongs to
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MEV</span><span class="topo-outside">KREHWATRLG</span><span class="topo-membrane">LILAMAGNAVGLGNFLRFP</span><span class="topo-inside">VQAAENGGG</span><span class="topo-membrane">AFMIPYIIAFLLVGIPLMW</span></span>
-<span class="topo-line"><span class="topo-membrane">IEW</span><span class="topo-outside">AMGRYGGAQGHGTTPAIFYLLWRNRF</span><span class="topo-membrane">AKILGVFGLWIPLVVAIYYVYIESWTLGFAI</span></span>
-<span class="topo-line"><span class="topo-inside">KFLVGLVPEPPPNATDPDSILRPFKEFLYSYIGVPKGDEPILKPSL</span><span class="topo-membrane">FAYIVFLITMFINV</span></span>
-<span class="topo-line"><span class="topo-membrane">SILI</span><span class="topo-outside">RGISKG</span><span class="topo-membrane">IERFAKIAMPTLFILAVFLVIR</span><span class="topo-inside">VFLLETPNGT</span><span class="topo-unknown">AADGLNFLW</span><span class="topo-inside">TPDFEKLKD</span></span>
-<span class="topo-line"><span class="topo-inside">PGV</span><span class="topo-membrane">WIAAVGQIFFTLSLGFGAIITY</span><span class="topo-outside">ASYVRKDQDIVLS</span><span class="topo-membrane">GLTAATLNEKAEVILGGSI</span><span class="topo-inside">SIP</span></span>
-<span class="topo-line"><span class="topo-inside">AAVAFFGVANAVAIAKAGAFNLGFI</span><span class="topo-unknown">TLPAIFS</span><span class="topo-inside">QTAGGTFLGF</span><span class="topo-membrane">LWFFLLFFAGLTSSIAIM</span></span>
-<span class="topo-line"><span class="topo-membrane">QPMIAF</span><span class="topo-outside">LEDELKLSRKH</span><span class="topo-membrane">AVLWTAAIVFFSAHLVM</span><span class="topo-inside">FLNKS</span><span class="topo-membrane">LDEMDFWAGTIGVVFFGLTEL</span></span>
-<span class="topo-line"><span class="topo-membrane">IIFFW</span><span class="topo-outside">IFG</span><span class="topo-unknown">ADKAWEEIN</span><span class="topo-outside">RGGIIKVPRI</span><span class="topo-membrane">YYYVMRYITPAFLAVLLVVWAR</span><span class="topo-inside">EYIPKI</span><span class="topo-unknown">MEET</span><span class="topo-inside">H</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MEV</span><span class="topo-outside">KREHWATRLG</span><span class="topo-membrane">LILAMAGNAVGLGNFLRFP</span><span class="topo-inside">VQAAENGGG</span><span class="topo-membrane">AFMIPYIIAFLLVGIPLMWIEW</span><span class="topo-outside">AMGRYGGAQGHGTTPAIFYLLWRNRF</span><span class="topo-membrane">AKILGVFGLWIPLVVAIYYVYIESWTLGFAI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">KFLVGLVPEPPPNATDPDSILRPFKEFLYSYIGVPKGDEPILKPSL</span><span class="topo-membrane">FAYIVFLITMFINVSILI</span><span class="topo-outside">RGISKG</span><span class="topo-membrane">IERFAKIAMPTLFILAVFLVIR</span><span class="topo-inside">VFLLETPNGT</span><span class="topo-unknown">AADGLNFLW</span><span class="topo-inside">TPDFEKLKD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">PGV</span><span class="topo-membrane">WIAAVGQIFFTLSLGFGAIITY</span><span class="topo-outside">ASYVRKDQDIVLS</span><span class="topo-membrane">GLTAATLNEKAEVILGGSI</span><span class="topo-inside">SIPAAVAFFGVANAVAIAKAGAFNLGFI</span><span class="topo-unknown">TLPAIFS</span><span class="topo-inside">QTAGGTFLGF</span><span class="topo-membrane">LWFFLLFFAGLTSSIAIM</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">QPMIAF</span><span class="topo-outside">LEDELKLSRKH</span><span class="topo-membrane">AVLWTAAIVFFSAHLVM</span><span class="topo-inside">FLNKS</span><span class="topo-membrane">LDEMDFWAGTIGVVFFGLTELIIFFW</span><span class="topo-outside">IFG</span><span class="topo-unknown">ADKAWEEIN</span><span class="topo-outside">RGGIIKVPRI</span><span class="topo-membrane">YYYVMRYITPAFLAVLLVVWAR</span><span class="topo-inside">EYIPKI</span><span class="topo-unknown">MEET</span><span class="topo-inside">H</span></span>
+<span class="topo-ruler">       490       500       510         </span>
 <span class="topo-line"><span class="topo-inside">WTVW</span><span class="topo-membrane">ITRFYIIGLFLFLTFLV</span><span class="topo-outside">FLAERRRNH</span><span class="topo-unknown">ESAGTLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (32 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -6003,6 +6062,7 @@ LeuT is a bacterial amino acid transporter from Aquifex aeolicus that belongs to
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -6018,15 +6078,17 @@ LeuT is a bacterial amino acid transporter from Aquifex aeolicus that belongs to
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MEV</span><span class="topo-outside">KREHWATRL</span><span class="topo-membrane">GLILAMAGNAVGLGNFLRF</span><span class="topo-inside">PVQAAENGGGAF</span><span class="topo-membrane">MIPYIIAFLLVGIPLMW</span></span>
-<span class="topo-line"><span class="topo-membrane">IEW</span><span class="topo-outside">AMGRYGGAQGHGTTPAIFYLLWRNRFAKI</span><span class="topo-membrane">LGVFGLWIPLVVAIYYVYIESWTLG</span><span class="topo-unknown">FAI</span></span>
-<span class="topo-line"><span class="topo-unknown">KFLV</span><span class="topo-inside">GLVPEP</span><span class="topo-unknown">PPNA</span><span class="topo-inside">TDPDSILRPFKEFLYSYIGVPKGDEPILKPSLF</span><span class="topo-membrane">AYIVFLITMFINV</span></span>
-<span class="topo-line"><span class="topo-membrane">SILI</span><span class="topo-outside">RGISKG</span><span class="topo-membrane">IERFAKIAMPTLFILAVFLVI</span><span class="topo-inside">RVFLLETPNGT</span><span class="topo-unknown">AADGLNFL</span><span class="topo-inside">WT</span><span class="topo-unknown">PD</span><span class="topo-inside">FEKLKD</span></span>
-<span class="topo-line"><span class="topo-inside">PGV</span><span class="topo-membrane">WIAAVGQIFFTLSLGFGAIITY</span><span class="topo-outside">ASYVRKDQDIVLS</span><span class="topo-membrane">GLTAATLNEKAEVILGGS</span><span class="topo-inside">ISIP</span></span>
-<span class="topo-line"><span class="topo-inside">AAVAFFGVANAVAIAKAG</span><span class="topo-unknown">AFNLGF</span><span class="topo-inside">I</span><span class="topo-unknown">TLPAIFSQ</span><span class="topo-inside">TAGGTFLGF</span><span class="topo-membrane">LWFFLLFFAGLTSSIAIM</span></span>
-<span class="topo-line"><span class="topo-membrane">QPMI</span><span class="topo-outside">AFLEDELKLSRKHA</span><span class="topo-membrane">VLWTAAIVFFSAHLVM</span><span class="topo-inside">FLNKS</span><span class="topo-membrane">LDEMDFWAGTIGVVFFGLTEL</span></span>
-<span class="topo-line"><span class="topo-membrane">II</span><span class="topo-outside">FFWIFG</span><span class="topo-unknown">ADKAWEEIN</span><span class="topo-outside">RGGIIKVPRI</span><span class="topo-membrane">YYYVMRYITPAFLAVLLVVWAR</span><span class="topo-inside">EYIP</span><span class="topo-unknown">KIMEE</span><span class="topo-inside">TH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MEV</span><span class="topo-outside">KREHWATRL</span><span class="topo-membrane">GLILAMAGNAVGLGNFLRF</span><span class="topo-inside">PVQAAENGGGAF</span><span class="topo-membrane">MIPYIIAFLLVGIPLMWIEW</span><span class="topo-outside">AMGRYGGAQGHGTTPAIFYLLWRNRFAKI</span><span class="topo-membrane">LGVFGLWIPLVVAIYYVYIESWTLG</span><span class="topo-unknown">FAI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-unknown">KFLV</span><span class="topo-inside">GLVPEP</span><span class="topo-unknown">PPNA</span><span class="topo-inside">TDPDSILRPFKEFLYSYIGVPKGDEPILKPSLF</span><span class="topo-membrane">AYIVFLITMFINVSILI</span><span class="topo-outside">RGISKG</span><span class="topo-membrane">IERFAKIAMPTLFILAVFLVI</span><span class="topo-inside">RVFLLETPNGT</span><span class="topo-unknown">AADGLNFL</span><span class="topo-inside">WT</span><span class="topo-unknown">PD</span><span class="topo-inside">FEKLKD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">PGV</span><span class="topo-membrane">WIAAVGQIFFTLSLGFGAIITY</span><span class="topo-outside">ASYVRKDQDIVLS</span><span class="topo-membrane">GLTAATLNEKAEVILGGS</span><span class="topo-inside">ISIPAAVAFFGVANAVAIAKAG</span><span class="topo-unknown">AFNLGF</span><span class="topo-inside">I</span><span class="topo-unknown">TLPAIFSQ</span><span class="topo-inside">TAGGTFLGF</span><span class="topo-membrane">LWFFLLFFAGLTSSIAIM</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">QPMI</span><span class="topo-outside">AFLEDELKLSRKHA</span><span class="topo-membrane">VLWTAAIVFFSAHLVM</span><span class="topo-inside">FLNKS</span><span class="topo-membrane">LDEMDFWAGTIGVVFFGLTELII</span><span class="topo-outside">FFWIFG</span><span class="topo-unknown">ADKAWEEIN</span><span class="topo-outside">RGGIIKVPRI</span><span class="topo-membrane">YYYVMRYITPAFLAVLLVVWAR</span><span class="topo-inside">EYIP</span><span class="topo-unknown">KIMEE</span><span class="topo-inside">TH</span></span>
+<span class="topo-ruler">       490       500       510         </span>
 <span class="topo-line"><span class="topo-inside">WTVW</span><span class="topo-membrane">ITRFYIIGLFLFLTFL</span><span class="topo-outside">VFLAERRR</span><span class="topo-unknown">NHESAGTLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (37 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -6297,6 +6359,7 @@ LeuT is a bacterial amino acid transporter from Aquifex aeolicus that belongs to
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -6312,15 +6375,17 @@ LeuT is a bacterial amino acid transporter from Aquifex aeolicus that belongs to
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MEV</span><span class="topo-outside">KREHWATRLG</span><span class="topo-membrane">LILAMAGNAVGLGNFLRFPVQA</span><span class="topo-inside">AEN</span><span class="topo-membrane">GGGAFMIPYIIAFLLVGIPLMW</span></span>
-<span class="topo-line"><span class="topo-membrane">IEW</span><span class="topo-outside">AMGRYGGAQGHGTTPAIFYLLWRNR</span><span class="topo-membrane">FAKILGVFGLWIPLVVAIYYVYIESWTLGFAI</span></span>
-<span class="topo-line"><span class="topo-inside">KFLVGLVPEPP</span><span class="topo-unknown">PNA</span><span class="topo-inside">TDPDSILRPFKEFLYSYIGVPKGDEPILKPSLF</span><span class="topo-membrane">AYIVFLITMFINV</span></span>
-<span class="topo-line"><span class="topo-membrane">SILIR</span><span class="topo-outside">GISKG</span><span class="topo-membrane">IERFAKIAMPTLFILAVFLVIRVF</span><span class="topo-inside">LLETPNGT</span><span class="topo-unknown">AADGLNFL</span><span class="topo-inside">WTPDFEKL</span><span class="topo-membrane">KD</span></span>
-<span class="topo-line"><span class="topo-membrane">PGVWIAAVGQIFFTLSL</span><span class="topo-outside">GFGAIITYASYVRKDQDIVLSG</span><span class="topo-membrane">LTAATLNEKAEVILGGSIS</span><span class="topo-inside">IP</span></span>
-<span class="topo-line"><span class="topo-inside">AAVAFFGVAN</span><span class="topo-unknown">AVAIAKA</span><span class="topo-inside">G</span><span class="topo-unknown">AFNLGF</span><span class="topo-inside">I</span><span class="topo-unknown">TLPAIFS</span><span class="topo-inside">QTAGGTF</span><span class="topo-membrane">LGFLWFFLLFFAGLHSSIAIM</span></span>
-<span class="topo-line"><span class="topo-membrane">QPMIAFL</span><span class="topo-outside">EDELKLSRK</span><span class="topo-membrane">HAVLWTAAIVFFSAHLVM</span><span class="topo-inside">FLNKS</span><span class="topo-membrane">LDEMDFWAGTIGVVFFGLTEL</span></span>
-<span class="topo-line"><span class="topo-membrane">IIFFW</span><span class="topo-outside">IFG</span><span class="topo-unknown">ADKAWEEIN</span><span class="topo-outside">RGGIIKVPRI</span><span class="topo-membrane">YYYVMRYITPAFLAVLLVVWAR</span><span class="topo-inside">EYIP</span><span class="topo-unknown">KIMEE</span><span class="topo-inside">TH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MEV</span><span class="topo-outside">KREHWATRLG</span><span class="topo-membrane">LILAMAGNAVGLGNFLRFPVQA</span><span class="topo-inside">AEN</span><span class="topo-membrane">GGGAFMIPYIIAFLLVGIPLMWIEW</span><span class="topo-outside">AMGRYGGAQGHGTTPAIFYLLWRNR</span><span class="topo-membrane">FAKILGVFGLWIPLVVAIYYVYIESWTLGFAI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">KFLVGLVPEPP</span><span class="topo-unknown">PNA</span><span class="topo-inside">TDPDSILRPFKEFLYSYIGVPKGDEPILKPSLF</span><span class="topo-membrane">AYIVFLITMFINVSILIR</span><span class="topo-outside">GISKG</span><span class="topo-membrane">IERFAKIAMPTLFILAVFLVIRVF</span><span class="topo-inside">LLETPNGT</span><span class="topo-unknown">AADGLNFL</span><span class="topo-inside">WTPDFEKL</span><span class="topo-membrane">KD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">PGVWIAAVGQIFFTLSL</span><span class="topo-outside">GFGAIITYASYVRKDQDIVLSG</span><span class="topo-membrane">LTAATLNEKAEVILGGSIS</span><span class="topo-inside">IPAAVAFFGVAN</span><span class="topo-unknown">AVAIAKA</span><span class="topo-inside">G</span><span class="topo-unknown">AFNLGF</span><span class="topo-inside">I</span><span class="topo-unknown">TLPAIFS</span><span class="topo-inside">QTAGGTF</span><span class="topo-membrane">LGFLWFFLLFFAGLHSSIAIM</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">QPMIAFL</span><span class="topo-outside">EDELKLSRK</span><span class="topo-membrane">HAVLWTAAIVFFSAHLVM</span><span class="topo-inside">FLNKS</span><span class="topo-membrane">LDEMDFWAGTIGVVFFGLTELIIFFW</span><span class="topo-outside">IFG</span><span class="topo-unknown">ADKAWEEIN</span><span class="topo-outside">RGGIIKVPRI</span><span class="topo-membrane">YYYVMRYITPAFLAVLLVVWAR</span><span class="topo-inside">EYIP</span><span class="topo-unknown">KIMEE</span><span class="topo-inside">TH</span></span>
+<span class="topo-ruler">       490       500       510         </span>
 <span class="topo-line"><span class="topo-inside">WTVW</span><span class="topo-membrane">ITRFYIIGLFLFLTFLVFL</span><span class="topo-outside">AERR</span><span class="topo-unknown">RNHESAGTLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (37 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -6591,6 +6656,7 @@ LeuT is a bacterial amino acid transporter from Aquifex aeolicus that belongs to
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -6643,15 +6709,17 @@ LeuT is a bacterial amino acid transporter from Aquifex aeolicus that belongs to
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">REHWATRL</span><span class="topo-membrane">GLILAMAGNAVGLGNFLRFP</span><span class="topo-inside">VQAAENGGGAF</span><span class="topo-membrane">MIPYIIAFLLVGIPLMWIEW</span><span class="topo-outside">A</span></span>
-<span class="topo-line"><span class="topo-outside">MGRYGGAQGHGTTPAIFYLLWRNRF</span><span class="topo-membrane">AKILGVFGLWIPLVVAIYYVYIESWTLGFAIKFLV</span></span>
-<span class="topo-line"><span class="topo-inside">GLVPEPPP</span><span class="topo-unknown">NA</span><span class="topo-inside">TDPDSILRPFKEFLYSYIGVPKGDEPILKPSL</span><span class="topo-membrane">FAYIVFLITMCINVSILI</span></span>
-<span class="topo-line"><span class="topo-membrane">R</span><span class="topo-outside">GISKG</span><span class="topo-membrane">IERFAKIAMPTLFILAVFLVIR</span><span class="topo-inside">VFLLETPNGTAADGLNFLWTPDFEKLKDPGV</span><span class="topo-membrane">W</span></span>
-<span class="topo-line"><span class="topo-membrane">IAAVGQIFFTLSLGFGAIITYA</span><span class="topo-outside">SYVRKDQDIV</span><span class="topo-membrane">LSGLTAATLNEKAEVILGGSI</span><span class="topo-inside">SIPAAVA</span></span>
-<span class="topo-line"><span class="topo-inside">FFGVANAVAIAKAGAFNLGFITLPAIFSQTAGGTF</span><span class="topo-membrane">LGFLWFFLLFFAGLTSSIAIMQPMI</span></span>
-<span class="topo-line"><span class="topo-membrane">AFL</span><span class="topo-outside">EDELKLSRKH</span><span class="topo-membrane">AVLWTAAIVFFSAHLVMFL</span><span class="topo-inside">NKS</span><span class="topo-membrane">LDEMDFWAGTIGVVFFGLTELIIFF</span></span>
-<span class="topo-line"><span class="topo-membrane">WI</span><span class="topo-outside">FGADKAWEEINRGGIIKV</span><span class="topo-membrane">PRIYYYVMRYITPAFLAVLLVVWAR</span><span class="topo-inside">EYIPKIMEETHWTV</span><span class="topo-membrane">W</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">REHWATRL</span><span class="topo-membrane">GLILAMAGNAVGLGNFLRFP</span><span class="topo-inside">VQAAENGGGAF</span><span class="topo-membrane">MIPYIIAFLLVGIPLMWIEW</span><span class="topo-outside">AMGRYGGAQGHGTTPAIFYLLWRNRF</span><span class="topo-membrane">AKILGVFGLWIPLVVAIYYVYIESWTLGFAIKFLV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">GLVPEPPP</span><span class="topo-unknown">NA</span><span class="topo-inside">TDPDSILRPFKEFLYSYIGVPKGDEPILKPSL</span><span class="topo-membrane">FAYIVFLITMCINVSILIR</span><span class="topo-outside">GISKG</span><span class="topo-membrane">IERFAKIAMPTLFILAVFLVIR</span><span class="topo-inside">VFLLETPNGTAADGLNFLWTPDFEKLKDPGV</span><span class="topo-membrane">W</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">IAAVGQIFFTLSLGFGAIITYA</span><span class="topo-outside">SYVRKDQDIV</span><span class="topo-membrane">LSGLTAATLNEKAEVILGGSI</span><span class="topo-inside">SIPAAVAFFGVANAVAIAKAGAFNLGFITLPAIFSQTAGGTF</span><span class="topo-membrane">LGFLWFFLLFFAGLTSSIAIMQPMI</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">AFL</span><span class="topo-outside">EDELKLSRKH</span><span class="topo-membrane">AVLWTAAIVFFSAHLVMFL</span><span class="topo-inside">NKS</span><span class="topo-membrane">LDEMDFWAGTIGVVFFGLTELIIFFWI</span><span class="topo-outside">FGADKAWEEINRGGIIKV</span><span class="topo-membrane">PRIYYYVMRYITPAFLAVLLVVWAR</span><span class="topo-inside">EYIPKIMEETHWTV</span><span class="topo-membrane">W</span></span>
+<span class="topo-ruler">       490       500       </span>
 <span class="topo-line"><span class="topo-membrane">ITRFYIIGLFLFLTFLVF</span><span class="topo-outside">LAERRRNHE</span></span>
+<details class="topo-details"><summary>Topology coordinates (27 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -6852,6 +6920,7 @@ LeuT is a bacterial amino acid transporter from Aquifex aeolicus that belongs to
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -6867,15 +6936,17 @@ LeuT is a bacterial amino acid transporter from Aquifex aeolicus that belongs to
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">REHWATRL</span><span class="topo-membrane">GLILAMAGNAVGLGNFLRFP</span><span class="topo-inside">VQAAENGGGAF</span><span class="topo-membrane">MIPYIIAFLLVGIPLMWIEW</span><span class="topo-outside">A</span></span>
-<span class="topo-line"><span class="topo-outside">MGRYGGAQGHGTTPAIFYLLWRNRF</span><span class="topo-membrane">AKILGVFGLWIPLVVAIYYVYIESWTLGFAIKFLV</span></span>
-<span class="topo-line"><span class="topo-inside">GLVPEPPP</span><span class="topo-unknown">NA</span><span class="topo-inside">TDPDSILRPFKEFLYSYIGVPKGDEPILKPSL</span><span class="topo-membrane">FAYIVFLITMCINVSILI</span></span>
-<span class="topo-line"><span class="topo-membrane">R</span><span class="topo-outside">GISKG</span><span class="topo-membrane">IERFAKIAMPTLFILAVFLVIR</span><span class="topo-inside">VFLLETPNGTAADGLNFLWTPDFEKLKDPGV</span><span class="topo-membrane">W</span></span>
-<span class="topo-line"><span class="topo-membrane">IAAVGQIFFTLSLGFGAIITYA</span><span class="topo-outside">SYVRKDQDIV</span><span class="topo-membrane">LSGLTAATLNEKAEVILGGSI</span><span class="topo-inside">SIPAAVA</span></span>
-<span class="topo-line"><span class="topo-inside">FFGVANAVAIAKAGAFNLGFITLPAIFSQTAGGTF</span><span class="topo-membrane">LGFLWFFLLFFAGLTSSIAIMQPMI</span></span>
-<span class="topo-line"><span class="topo-membrane">AFL</span><span class="topo-outside">EDELKLSRKH</span><span class="topo-membrane">AVLWTAAIVFFSAHLVMFL</span><span class="topo-inside">NKS</span><span class="topo-membrane">LDEMDFWAGTIGVVFFGLTELIIFF</span></span>
-<span class="topo-line"><span class="topo-membrane">WI</span><span class="topo-outside">FGADKAWEEINRGGIIKV</span><span class="topo-membrane">PRIYYYVMRYITPAFLAVLLVVWAR</span><span class="topo-inside">EYIPKIMEETHWTV</span><span class="topo-membrane">W</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">REHWATRL</span><span class="topo-membrane">GLILAMAGNAVGLGNFLRFP</span><span class="topo-inside">VQAAENGGGAF</span><span class="topo-membrane">MIPYIIAFLLVGIPLMWIEW</span><span class="topo-outside">AMGRYGGAQGHGTTPAIFYLLWRNRF</span><span class="topo-membrane">AKILGVFGLWIPLVVAIYYVYIESWTLGFAIKFLV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">GLVPEPPP</span><span class="topo-unknown">NA</span><span class="topo-inside">TDPDSILRPFKEFLYSYIGVPKGDEPILKPSL</span><span class="topo-membrane">FAYIVFLITMCINVSILIR</span><span class="topo-outside">GISKG</span><span class="topo-membrane">IERFAKIAMPTLFILAVFLVIR</span><span class="topo-inside">VFLLETPNGTAADGLNFLWTPDFEKLKDPGV</span><span class="topo-membrane">W</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">IAAVGQIFFTLSLGFGAIITYA</span><span class="topo-outside">SYVRKDQDIV</span><span class="topo-membrane">LSGLTAATLNEKAEVILGGSI</span><span class="topo-inside">SIPAAVAFFGVANAVAIAKAGAFNLGFITLPAIFSQTAGGTF</span><span class="topo-membrane">LGFLWFFLLFFAGLTSSIAIMQPMI</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">AFL</span><span class="topo-outside">EDELKLSRKH</span><span class="topo-membrane">AVLWTAAIVFFSAHLVMFL</span><span class="topo-inside">NKS</span><span class="topo-membrane">LDEMDFWAGTIGVVFFGLTELIIFFWI</span><span class="topo-outside">FGADKAWEEINRGGIIKV</span><span class="topo-membrane">PRIYYYVMRYITPAFLAVLLVVWAR</span><span class="topo-inside">EYIPKIMEETHWTV</span><span class="topo-membrane">W</span></span>
+<span class="topo-ruler">       490       500       </span>
 <span class="topo-line"><span class="topo-membrane">ITRFYIIGLFLFLTFLVF</span><span class="topo-outside">LAERRRNHE</span></span>
+<details class="topo-details"><summary>Topology coordinates (27 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -7076,6 +7147,7 @@ LeuT is a bacterial amino acid transporter from Aquifex aeolicus that belongs to
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -7091,15 +7163,17 @@ LeuT is a bacterial amino acid transporter from Aquifex aeolicus that belongs to
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">REHWATRL</span><span class="topo-membrane">GLILAMAGNAVGLGNFLRFP</span><span class="topo-inside">VQAAENGGGAF</span><span class="topo-membrane">MIPYIIAFLLVGIPLMWIEW</span><span class="topo-outside">A</span></span>
-<span class="topo-line"><span class="topo-outside">MGRYGGAQGHGTTPAIFYLLWRNRF</span><span class="topo-membrane">AKILGVFGLWIPLVVAIYYVYIESWTLGFAIKFLV</span></span>
-<span class="topo-line"><span class="topo-inside">GLVPEPPP</span><span class="topo-unknown">NA</span><span class="topo-inside">TDPDSILRPFKEFLYSYIGVPKGDEPILKPSL</span><span class="topo-membrane">FAYIVFLITMCINVSILI</span></span>
-<span class="topo-line"><span class="topo-membrane">R</span><span class="topo-outside">GISKG</span><span class="topo-membrane">IERFAKIAMPTLFILAVFLVIR</span><span class="topo-inside">VFLLETPNGTAADGLNFLWTPDFEKLKDPGV</span><span class="topo-membrane">W</span></span>
-<span class="topo-line"><span class="topo-membrane">IAAVGQIFFTLSLGFGAIITYA</span><span class="topo-outside">SYVRKDQDIV</span><span class="topo-membrane">LSGLTAATLNEKAEVILGGSI</span><span class="topo-inside">SIPAAVA</span></span>
-<span class="topo-line"><span class="topo-inside">FFGVANAVAIAKAGAFNLGFITLPAIFSQTAGGTF</span><span class="topo-membrane">LGFLWFFLLFFAGLTSSIAIMQPMI</span></span>
-<span class="topo-line"><span class="topo-membrane">AFL</span><span class="topo-outside">EDELKLSRKH</span><span class="topo-membrane">AVLWTAAIVFFSAHLVMFL</span><span class="topo-inside">NKS</span><span class="topo-membrane">LDEMDFWAGTIGVVFFGLTELIIFF</span></span>
-<span class="topo-line"><span class="topo-membrane">WI</span><span class="topo-outside">FGADKAWEEINRGGIIKV</span><span class="topo-membrane">PRIYYYVMRYITPAFLAVLLVVWAR</span><span class="topo-inside">EYIPKIMEETHWTV</span><span class="topo-membrane">W</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">REHWATRL</span><span class="topo-membrane">GLILAMAGNAVGLGNFLRFP</span><span class="topo-inside">VQAAENGGGAF</span><span class="topo-membrane">MIPYIIAFLLVGIPLMWIEW</span><span class="topo-outside">AMGRYGGAQGHGTTPAIFYLLWRNRF</span><span class="topo-membrane">AKILGVFGLWIPLVVAIYYVYIESWTLGFAIKFLV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">GLVPEPPP</span><span class="topo-unknown">NA</span><span class="topo-inside">TDPDSILRPFKEFLYSYIGVPKGDEPILKPSL</span><span class="topo-membrane">FAYIVFLITMCINVSILIR</span><span class="topo-outside">GISKG</span><span class="topo-membrane">IERFAKIAMPTLFILAVFLVIR</span><span class="topo-inside">VFLLETPNGTAADGLNFLWTPDFEKLKDPGV</span><span class="topo-membrane">W</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">IAAVGQIFFTLSLGFGAIITYA</span><span class="topo-outside">SYVRKDQDIV</span><span class="topo-membrane">LSGLTAATLNEKAEVILGGSI</span><span class="topo-inside">SIPAAVAFFGVANAVAIAKAGAFNLGFITLPAIFSQTAGGTF</span><span class="topo-membrane">LGFLWFFLLFFAGLTSSIAIMQPMI</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">AFL</span><span class="topo-outside">EDELKLSRKH</span><span class="topo-membrane">AVLWTAAIVFFSAHLVMFL</span><span class="topo-inside">NKS</span><span class="topo-membrane">LDEMDFWAGTIGVVFFGLTELIIFFWI</span><span class="topo-outside">FGADKAWEEINRGGIIKV</span><span class="topo-membrane">PRIYYYVMRYITPAFLAVLLVVWAR</span><span class="topo-inside">EYIPKIMEETHWTV</span><span class="topo-membrane">W</span></span>
+<span class="topo-ruler">       490       500       </span>
 <span class="topo-line"><span class="topo-membrane">ITRFYIIGLFLFLTFLVF</span><span class="topo-outside">LAERRRNHE</span></span>
+<details class="topo-details"><summary>Topology coordinates (27 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -7300,6 +7374,7 @@ LeuT is a bacterial amino acid transporter from Aquifex aeolicus that belongs to
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -7315,15 +7390,17 @@ LeuT is a bacterial amino acid transporter from Aquifex aeolicus that belongs to
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">REHWATRL</span><span class="topo-membrane">GLILAMAGNAVGLGNFLRFP</span><span class="topo-inside">VQAAENGGGAF</span><span class="topo-membrane">MIPYIIAFLLVGIPLMWIEW</span><span class="topo-outside">A</span></span>
-<span class="topo-line"><span class="topo-outside">MGRYGGAQGHGTTPAIFYLLWRNRF</span><span class="topo-membrane">AKILGVFGLWIPLVVAIYYVYIESWTLGFAIKFLV</span></span>
-<span class="topo-line"><span class="topo-inside">GLVPEPPP</span><span class="topo-unknown">NA</span><span class="topo-inside">TDPDSILRPFKEFLYSYIGVPKGDEPILKPSL</span><span class="topo-membrane">FAYIVFLITMCINVSILI</span></span>
-<span class="topo-line"><span class="topo-membrane">R</span><span class="topo-outside">GISKG</span><span class="topo-membrane">IERFAKIAMPTLFILAVFLVIR</span><span class="topo-inside">VFLLETPNGTAADGLNFLWTPDFEKLKDPGV</span><span class="topo-membrane">W</span></span>
-<span class="topo-line"><span class="topo-membrane">IAAVGQIFFTLSLGFGAIITYA</span><span class="topo-outside">SYVRKDQDIV</span><span class="topo-membrane">LSGLTAATLNEKAEVILGGSI</span><span class="topo-inside">SIPAAVA</span></span>
-<span class="topo-line"><span class="topo-inside">FFGVANAVAIAKAGAFNLGFITLPAIFSQTAGGTF</span><span class="topo-membrane">LGFLWFFLLFFAGLTSSIAIMQPMI</span></span>
-<span class="topo-line"><span class="topo-membrane">AFL</span><span class="topo-outside">EDELKLSRKH</span><span class="topo-membrane">AVLWTAAIVFFSAHLVMFL</span><span class="topo-inside">NKS</span><span class="topo-membrane">LDEMDFWAGTIGVVFFGLTELIIFF</span></span>
-<span class="topo-line"><span class="topo-membrane">WI</span><span class="topo-outside">FGADKAWEEINRGGIIKV</span><span class="topo-membrane">PRIYYYVMRYITPAFLAVLLVVWAR</span><span class="topo-inside">EYIPKIMEETHWTV</span><span class="topo-membrane">W</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">REHWATRL</span><span class="topo-membrane">GLILAMAGNAVGLGNFLRFP</span><span class="topo-inside">VQAAENGGGAF</span><span class="topo-membrane">MIPYIIAFLLVGIPLMWIEW</span><span class="topo-outside">AMGRYGGAQGHGTTPAIFYLLWRNRF</span><span class="topo-membrane">AKILGVFGLWIPLVVAIYYVYIESWTLGFAIKFLV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">GLVPEPPP</span><span class="topo-unknown">NA</span><span class="topo-inside">TDPDSILRPFKEFLYSYIGVPKGDEPILKPSL</span><span class="topo-membrane">FAYIVFLITMCINVSILIR</span><span class="topo-outside">GISKG</span><span class="topo-membrane">IERFAKIAMPTLFILAVFLVIR</span><span class="topo-inside">VFLLETPNGTAADGLNFLWTPDFEKLKDPGV</span><span class="topo-membrane">W</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">IAAVGQIFFTLSLGFGAIITYA</span><span class="topo-outside">SYVRKDQDIV</span><span class="topo-membrane">LSGLTAATLNEKAEVILGGSI</span><span class="topo-inside">SIPAAVAFFGVANAVAIAKAGAFNLGFITLPAIFSQTAGGTF</span><span class="topo-membrane">LGFLWFFLLFFAGLTSSIAIMQPMI</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">AFL</span><span class="topo-outside">EDELKLSRKH</span><span class="topo-membrane">AVLWTAAIVFFSAHLVMFL</span><span class="topo-inside">NKS</span><span class="topo-membrane">LDEMDFWAGTIGVVFFGLTELIIFFWI</span><span class="topo-outside">FGADKAWEEINRGGIIKV</span><span class="topo-membrane">PRIYYYVMRYITPAFLAVLLVVWAR</span><span class="topo-inside">EYIPKIMEETHWTV</span><span class="topo-membrane">W</span></span>
+<span class="topo-ruler">       490       500       </span>
 <span class="topo-line"><span class="topo-membrane">ITRFYIIGLFLFLTFLVF</span><span class="topo-outside">LAERRRNHE</span></span>
+<details class="topo-details"><summary>Topology coordinates (27 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -7524,6 +7601,7 @@ LeuT is a bacterial amino acid transporter from Aquifex aeolicus that belongs to
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -7590,15 +7668,17 @@ LeuT is a bacterial amino acid transporter from Aquifex aeolicus that belongs to
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MEVK</span><span class="topo-outside">REHWATRLG</span><span class="topo-membrane">LILAMAGNAVGLGNFLRFP</span><span class="topo-inside">VQAAENGGG</span><span class="topo-membrane">AFMIPYIIAFLLVGIPLMW</span></span>
-<span class="topo-line"><span class="topo-membrane">IEW</span><span class="topo-outside">AMGRYGGAQGHGTTPAIFYLLWRNR</span><span class="topo-membrane">FAKILGVFGLWIPLVVAIYYVYIESWTLGFAI</span></span>
-<span class="topo-line"><span class="topo-membrane">KFLV</span><span class="topo-inside">GLVPEPP</span><span class="topo-unknown">PNA</span><span class="topo-inside">TDPDSILRPFKEFLYSYIGVPKGDEPILKPSL</span><span class="topo-membrane">FAYIVFLITMFINV</span></span>
-<span class="topo-line"><span class="topo-membrane">SILIR</span><span class="topo-outside">GISKG</span><span class="topo-membrane">IERFAKIAMPTLFILAVFLVIR</span><span class="topo-inside">VFLLETPNGTAADGLNFLWTPDFEKLKD</span></span>
-<span class="topo-line"><span class="topo-inside">P</span><span class="topo-membrane">GVWIAAVGQIFFTLSLGFGAIITY</span><span class="topo-outside">ASYVRKDQDIVL</span><span class="topo-membrane">SGLTAATLNEKAEVILGGSI</span><span class="topo-inside">SIP</span></span>
-<span class="topo-line"><span class="topo-inside">AAVAFFGVANAVAIAKAGAFNLGFITLPAIFSQTAGGTF</span><span class="topo-membrane">LGFLWFFLLFFAGLTSSIAIM</span></span>
-<span class="topo-line"><span class="topo-membrane">QPMIAFL</span><span class="topo-outside">EDELKLSRK</span><span class="topo-membrane">HAVLWTAAIVFFSAHLVMFL</span><span class="topo-inside">NKS</span><span class="topo-membrane">LDEMDFWAGTIGVVFFGLTEL</span></span>
-<span class="topo-line"><span class="topo-membrane">IIFFW</span><span class="topo-outside">IFGADKAWEEINRGGIIKV</span><span class="topo-membrane">PRIYYYVMRYITPAFLAVLLVVWAREYI</span><span class="topo-inside">PKIMEETH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MEVK</span><span class="topo-outside">REHWATRLG</span><span class="topo-membrane">LILAMAGNAVGLGNFLRFP</span><span class="topo-inside">VQAAENGGG</span><span class="topo-membrane">AFMIPYIIAFLLVGIPLMWIEW</span><span class="topo-outside">AMGRYGGAQGHGTTPAIFYLLWRNR</span><span class="topo-membrane">FAKILGVFGLWIPLVVAIYYVYIESWTLGFAI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">KFLV</span><span class="topo-inside">GLVPEPP</span><span class="topo-unknown">PNA</span><span class="topo-inside">TDPDSILRPFKEFLYSYIGVPKGDEPILKPSL</span><span class="topo-membrane">FAYIVFLITMFINVSILIR</span><span class="topo-outside">GISKG</span><span class="topo-membrane">IERFAKIAMPTLFILAVFLVIR</span><span class="topo-inside">VFLLETPNGTAADGLNFLWTPDFEKLKD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">P</span><span class="topo-membrane">GVWIAAVGQIFFTLSLGFGAIITY</span><span class="topo-outside">ASYVRKDQDIVL</span><span class="topo-membrane">SGLTAATLNEKAEVILGGSI</span><span class="topo-inside">SIPAAVAFFGVANAVAIAKAGAFNLGFITLPAIFSQTAGGTF</span><span class="topo-membrane">LGFLWFFLLFFAGLTSSIAIM</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">QPMIAFL</span><span class="topo-outside">EDELKLSRK</span><span class="topo-membrane">HAVLWTAAIVFFSAHLVMFL</span><span class="topo-inside">NKS</span><span class="topo-membrane">LDEMDFWAGTIGVVFFGLTELIIFFW</span><span class="topo-outside">IFGADKAWEEINRGGIIKV</span><span class="topo-membrane">PRIYYYVMRYITPAFLAVLLVVWAREYI</span><span class="topo-inside">PKIMEETH</span></span>
+<span class="topo-ruler">       490       500       510         </span>
 <span class="topo-line"><span class="topo-inside">WTV</span><span class="topo-membrane">WITRFYIIGLFLFLTFLVF</span><span class="topo-outside">LAERRRN</span><span class="topo-unknown">HESAGTLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (29 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -7813,6 +7893,7 @@ LeuT is a bacterial amino acid transporter from Aquifex aeolicus that belongs to
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -7828,15 +7909,17 @@ LeuT is a bacterial amino acid transporter from Aquifex aeolicus that belongs to
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MEVK</span><span class="topo-outside">REHWATRLG</span><span class="topo-membrane">LILAMAGNAVGLGNFLRFP</span><span class="topo-inside">VQAAENGGG</span><span class="topo-membrane">AFMIPYIIAFLLVGIPLMW</span></span>
-<span class="topo-line"><span class="topo-membrane">IEW</span><span class="topo-outside">AMGRYGGAQGHGTTPAIFYLLWRNR</span><span class="topo-membrane">FAKILGVFGLWIPLVVAIYYVYIESWTLGFAI</span></span>
-<span class="topo-line"><span class="topo-membrane">KFLV</span><span class="topo-inside">GLVPEPP</span><span class="topo-unknown">PNA</span><span class="topo-inside">TDPDSILRPFKEFLYSYIGVPKGDEPILKPSL</span><span class="topo-membrane">FAYIVFLITMFINV</span></span>
-<span class="topo-line"><span class="topo-membrane">SILIR</span><span class="topo-outside">GISKG</span><span class="topo-membrane">IERFAKIAMPTLFILAVFLVIR</span><span class="topo-inside">VFLLETPNGTAADGLNFLWTPDFEKLKD</span></span>
-<span class="topo-line"><span class="topo-inside">P</span><span class="topo-membrane">GVWIAAVGQIFFTLSLGFGAIITY</span><span class="topo-outside">ASYVRKDQDIVL</span><span class="topo-membrane">SGLTAATLNEKAEVILGGSI</span><span class="topo-inside">SIP</span></span>
-<span class="topo-line"><span class="topo-inside">AAVAFFGVANAVAIAKAGAFNLGFITLPAIFSQTAGGTF</span><span class="topo-membrane">LGFLWFFLLFFAGLTSSIAIM</span></span>
-<span class="topo-line"><span class="topo-membrane">QPMIAFL</span><span class="topo-outside">EDELKLSRK</span><span class="topo-membrane">HAVLWTAAIVFFSAHLVMFL</span><span class="topo-inside">NKS</span><span class="topo-membrane">LDEMDFWAGTIGVVFFGLTEL</span></span>
-<span class="topo-line"><span class="topo-membrane">IIFFW</span><span class="topo-outside">IFGADKAWEEINRGGIIKV</span><span class="topo-membrane">PRIYYYVMRYITPAFLAVLLVVWAREYI</span><span class="topo-inside">PKIMEETH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MEVK</span><span class="topo-outside">REHWATRLG</span><span class="topo-membrane">LILAMAGNAVGLGNFLRFP</span><span class="topo-inside">VQAAENGGG</span><span class="topo-membrane">AFMIPYIIAFLLVGIPLMWIEW</span><span class="topo-outside">AMGRYGGAQGHGTTPAIFYLLWRNR</span><span class="topo-membrane">FAKILGVFGLWIPLVVAIYYVYIESWTLGFAI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">KFLV</span><span class="topo-inside">GLVPEPP</span><span class="topo-unknown">PNA</span><span class="topo-inside">TDPDSILRPFKEFLYSYIGVPKGDEPILKPSL</span><span class="topo-membrane">FAYIVFLITMFINVSILIR</span><span class="topo-outside">GISKG</span><span class="topo-membrane">IERFAKIAMPTLFILAVFLVIR</span><span class="topo-inside">VFLLETPNGTAADGLNFLWTPDFEKLKD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">P</span><span class="topo-membrane">GVWIAAVGQIFFTLSLGFGAIITY</span><span class="topo-outside">ASYVRKDQDIVL</span><span class="topo-membrane">SGLTAATLNEKAEVILGGSI</span><span class="topo-inside">SIPAAVAFFGVANAVAIAKAGAFNLGFITLPAIFSQTAGGTF</span><span class="topo-membrane">LGFLWFFLLFFAGLTSSIAIM</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">QPMIAFL</span><span class="topo-outside">EDELKLSRK</span><span class="topo-membrane">HAVLWTAAIVFFSAHLVMFL</span><span class="topo-inside">NKS</span><span class="topo-membrane">LDEMDFWAGTIGVVFFGLTELIIFFW</span><span class="topo-outside">IFGADKAWEEINRGGIIKV</span><span class="topo-membrane">PRIYYYVMRYITPAFLAVLLVVWAREYI</span><span class="topo-inside">PKIMEETH</span></span>
+<span class="topo-ruler">       490       500       510         </span>
 <span class="topo-line"><span class="topo-inside">WTV</span><span class="topo-membrane">WITRFYIIGLFLFLTFLVF</span><span class="topo-outside">LAERRRN</span><span class="topo-unknown">HESAGTLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (29 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -8051,6 +8134,7 @@ LeuT is a bacterial amino acid transporter from Aquifex aeolicus that belongs to
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -8066,15 +8150,17 @@ LeuT is a bacterial amino acid transporter from Aquifex aeolicus that belongs to
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MEVK</span><span class="topo-outside">REHWATRLG</span><span class="topo-membrane">LILAMAGNAVGLGNFLRFP</span><span class="topo-inside">VQAAENGGG</span><span class="topo-membrane">AFMIPYIIAFLLVGIPLMW</span></span>
-<span class="topo-line"><span class="topo-membrane">IEW</span><span class="topo-outside">AMGRYGGAQGHGTTPAIFYLLWRNR</span><span class="topo-membrane">FAKILGVFGLWIPLVVAIYYVYIESWTLGFAI</span></span>
-<span class="topo-line"><span class="topo-membrane">KFLV</span><span class="topo-inside">GLVPEPP</span><span class="topo-unknown">PNA</span><span class="topo-inside">TDPDSILRPFKEFLYSYIGVPKGDEPILKPSL</span><span class="topo-membrane">FAYIVFLITMFINV</span></span>
-<span class="topo-line"><span class="topo-membrane">SILIR</span><span class="topo-outside">GISKG</span><span class="topo-membrane">IERFAKIAMPTLFILAVFLVIR</span><span class="topo-inside">VFLLETPNGTAADGLNFLWTPDFEKLKD</span></span>
-<span class="topo-line"><span class="topo-inside">P</span><span class="topo-membrane">GVWIAAVGQIFFTLSLGFGAIITY</span><span class="topo-outside">ASYVRKDQDIVL</span><span class="topo-membrane">SGLTAATLNEKAEVILGGSI</span><span class="topo-inside">SIP</span></span>
-<span class="topo-line"><span class="topo-inside">AAVAFFGVANAVAIAKAGAFNLGFITLPAIFSQTAGGTF</span><span class="topo-membrane">LGFLWFFLLFFAGLTSSIAIM</span></span>
-<span class="topo-line"><span class="topo-membrane">QPMIAFL</span><span class="topo-outside">EDELKLSRK</span><span class="topo-membrane">HAVLWTAAIVFFSAHLVMFL</span><span class="topo-inside">NKS</span><span class="topo-membrane">LDEMDFWAGTIGVVFFGLTEL</span></span>
-<span class="topo-line"><span class="topo-membrane">IIFFW</span><span class="topo-outside">IFGADKAWEEINRGGIIKV</span><span class="topo-membrane">PRIYYYVMRYITPAFLAVLLVVWAREYI</span><span class="topo-inside">PKIMEETH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MEVK</span><span class="topo-outside">REHWATRLG</span><span class="topo-membrane">LILAMAGNAVGLGNFLRFP</span><span class="topo-inside">VQAAENGGG</span><span class="topo-membrane">AFMIPYIIAFLLVGIPLMWIEW</span><span class="topo-outside">AMGRYGGAQGHGTTPAIFYLLWRNR</span><span class="topo-membrane">FAKILGVFGLWIPLVVAIYYVYIESWTLGFAI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">KFLV</span><span class="topo-inside">GLVPEPP</span><span class="topo-unknown">PNA</span><span class="topo-inside">TDPDSILRPFKEFLYSYIGVPKGDEPILKPSL</span><span class="topo-membrane">FAYIVFLITMFINVSILIR</span><span class="topo-outside">GISKG</span><span class="topo-membrane">IERFAKIAMPTLFILAVFLVIR</span><span class="topo-inside">VFLLETPNGTAADGLNFLWTPDFEKLKD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">P</span><span class="topo-membrane">GVWIAAVGQIFFTLSLGFGAIITY</span><span class="topo-outside">ASYVRKDQDIVL</span><span class="topo-membrane">SGLTAATLNEKAEVILGGSI</span><span class="topo-inside">SIPAAVAFFGVANAVAIAKAGAFNLGFITLPAIFSQTAGGTF</span><span class="topo-membrane">LGFLWFFLLFFAGLTSSIAIM</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">QPMIAFL</span><span class="topo-outside">EDELKLSRK</span><span class="topo-membrane">HAVLWTAAIVFFSAHLVMFL</span><span class="topo-inside">NKS</span><span class="topo-membrane">LDEMDFWAGTIGVVFFGLTELIIFFW</span><span class="topo-outside">IFGADKAWEEINRGGIIKV</span><span class="topo-membrane">PRIYYYVMRYITPAFLAVLLVVWAREYI</span><span class="topo-inside">PKIMEETH</span></span>
+<span class="topo-ruler">       490       500       510         </span>
 <span class="topo-line"><span class="topo-inside">WTV</span><span class="topo-membrane">WITRFYIIGLFLFLTFLVF</span><span class="topo-outside">LAERRRN</span><span class="topo-unknown">HESAGTLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (29 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -8289,6 +8375,7 @@ LeuT is a bacterial amino acid transporter from Aquifex aeolicus that belongs to
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -8304,15 +8391,17 @@ LeuT is a bacterial amino acid transporter from Aquifex aeolicus that belongs to
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MEVK</span><span class="topo-outside">REHWATRLG</span><span class="topo-membrane">LILAMAGNAVGLGNFLRFP</span><span class="topo-inside">VQAAENGGG</span><span class="topo-membrane">AFMIPYIIAFLLVGIPLMW</span></span>
-<span class="topo-line"><span class="topo-membrane">IEW</span><span class="topo-outside">AMGRYGGAQGHGTTPAIFYLLWRNR</span><span class="topo-membrane">FAKILGVFGLWIPLVVAIYYVYIESWTLGFAI</span></span>
-<span class="topo-line"><span class="topo-membrane">KFLV</span><span class="topo-inside">GLVPEPP</span><span class="topo-unknown">PNA</span><span class="topo-inside">TDPDSILRPFKEFLYSYIGVPKGDEPILKPSL</span><span class="topo-membrane">FAYIVFLITMFINV</span></span>
-<span class="topo-line"><span class="topo-membrane">SILIR</span><span class="topo-outside">GISKG</span><span class="topo-membrane">IERFAKIAMPTLFILAVFLVIR</span><span class="topo-inside">VFLLETPNGTAADGLNFLWTPDFEKLKD</span></span>
-<span class="topo-line"><span class="topo-inside">P</span><span class="topo-membrane">GVWIAAVGQIFFTLSLGFGAIITY</span><span class="topo-outside">ASYVRKDQDIVL</span><span class="topo-membrane">SGLTAATLNEKAEVILGGSI</span><span class="topo-inside">SIP</span></span>
-<span class="topo-line"><span class="topo-inside">AAVAFFGVANAVAIAKAGAFNLGFITLPAIFSQTAGGTF</span><span class="topo-membrane">LGFLWFFLLFFAGLTSSIAIM</span></span>
-<span class="topo-line"><span class="topo-membrane">QPMIAFL</span><span class="topo-outside">EDELKLSRK</span><span class="topo-membrane">HAVLWTAAIVFFSAHLVMFL</span><span class="topo-inside">NKS</span><span class="topo-membrane">LDEMDFWAGTIGVVFFGLTEL</span></span>
-<span class="topo-line"><span class="topo-membrane">IIFFW</span><span class="topo-outside">IFGADKAWEEINRGGIIKV</span><span class="topo-membrane">PRIYYYVMRYITPAFLAVLLVVWAREYI</span><span class="topo-inside">PKIMEETH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MEVK</span><span class="topo-outside">REHWATRLG</span><span class="topo-membrane">LILAMAGNAVGLGNFLRFP</span><span class="topo-inside">VQAAENGGG</span><span class="topo-membrane">AFMIPYIIAFLLVGIPLMWIEW</span><span class="topo-outside">AMGRYGGAQGHGTTPAIFYLLWRNR</span><span class="topo-membrane">FAKILGVFGLWIPLVVAIYYVYIESWTLGFAI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">KFLV</span><span class="topo-inside">GLVPEPP</span><span class="topo-unknown">PNA</span><span class="topo-inside">TDPDSILRPFKEFLYSYIGVPKGDEPILKPSL</span><span class="topo-membrane">FAYIVFLITMFINVSILIR</span><span class="topo-outside">GISKG</span><span class="topo-membrane">IERFAKIAMPTLFILAVFLVIR</span><span class="topo-inside">VFLLETPNGTAADGLNFLWTPDFEKLKD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">P</span><span class="topo-membrane">GVWIAAVGQIFFTLSLGFGAIITY</span><span class="topo-outside">ASYVRKDQDIVL</span><span class="topo-membrane">SGLTAATLNEKAEVILGGSI</span><span class="topo-inside">SIPAAVAFFGVANAVAIAKAGAFNLGFITLPAIFSQTAGGTF</span><span class="topo-membrane">LGFLWFFLLFFAGLTSSIAIM</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">QPMIAFL</span><span class="topo-outside">EDELKLSRK</span><span class="topo-membrane">HAVLWTAAIVFFSAHLVMFL</span><span class="topo-inside">NKS</span><span class="topo-membrane">LDEMDFWAGTIGVVFFGLTELIIFFW</span><span class="topo-outside">IFGADKAWEEINRGGIIKV</span><span class="topo-membrane">PRIYYYVMRYITPAFLAVLLVVWAREYI</span><span class="topo-inside">PKIMEETH</span></span>
+<span class="topo-ruler">       490       500       510         </span>
 <span class="topo-line"><span class="topo-inside">WTV</span><span class="topo-membrane">WITRFYIIGLFLFLTFLVF</span><span class="topo-outside">LAERRRN</span><span class="topo-unknown">HESAGTLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (29 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -8527,6 +8616,7 @@ LeuT is a bacterial amino acid transporter from Aquifex aeolicus that belongs to
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -8542,15 +8632,17 @@ LeuT is a bacterial amino acid transporter from Aquifex aeolicus that belongs to
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MEVK</span><span class="topo-outside">REHWATRLG</span><span class="topo-membrane">LILAMAGNAVGLGNFLRFP</span><span class="topo-inside">VQAAENGGG</span><span class="topo-membrane">AFMIPYIIAFLLVGIPLMW</span></span>
-<span class="topo-line"><span class="topo-membrane">IEW</span><span class="topo-outside">AMGRYGGAQGHGTTPAIFYLLWRNR</span><span class="topo-membrane">FAKILGVFGLWIPLVVAIYYVYIESWTLGFAI</span></span>
-<span class="topo-line"><span class="topo-membrane">KFLV</span><span class="topo-inside">GLVPEPP</span><span class="topo-unknown">PNA</span><span class="topo-inside">TDPDSILRPFKEFLYSYIGVPKGDEPILKPSL</span><span class="topo-membrane">FAYIVFLITMFINV</span></span>
-<span class="topo-line"><span class="topo-membrane">SILIR</span><span class="topo-outside">GISKG</span><span class="topo-membrane">IERFAKIAMPTLFILAVFLVIR</span><span class="topo-inside">VFLLETPNGTAADGLNFLWTPDFEKLKD</span></span>
-<span class="topo-line"><span class="topo-inside">P</span><span class="topo-membrane">GVWIAAVGQIFFTLSLGFGAIITY</span><span class="topo-outside">ASYVRKDQDIVL</span><span class="topo-membrane">SGLTAATLNEKAEVILGGSI</span><span class="topo-inside">SIP</span></span>
-<span class="topo-line"><span class="topo-inside">AAVAFFGVANAVAIAKAGAFNLGFITLPAIFSQTAGGTF</span><span class="topo-membrane">LGFLWFFLLFFAGLTSSIAIM</span></span>
-<span class="topo-line"><span class="topo-membrane">QPMIAFL</span><span class="topo-outside">EDELKLSRK</span><span class="topo-membrane">HAVLWTAAIVFFSAHLVMFL</span><span class="topo-inside">NKS</span><span class="topo-membrane">LDEMDFWAGTIGVVFFGLTEL</span></span>
-<span class="topo-line"><span class="topo-membrane">IIFFW</span><span class="topo-outside">IFGADKAWEEINRGGIIKV</span><span class="topo-membrane">PRIYYYVMRYITPAFLAVLLVVWAREYI</span><span class="topo-inside">PKIMEETH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MEVK</span><span class="topo-outside">REHWATRLG</span><span class="topo-membrane">LILAMAGNAVGLGNFLRFP</span><span class="topo-inside">VQAAENGGG</span><span class="topo-membrane">AFMIPYIIAFLLVGIPLMWIEW</span><span class="topo-outside">AMGRYGGAQGHGTTPAIFYLLWRNR</span><span class="topo-membrane">FAKILGVFGLWIPLVVAIYYVYIESWTLGFAI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">KFLV</span><span class="topo-inside">GLVPEPP</span><span class="topo-unknown">PNA</span><span class="topo-inside">TDPDSILRPFKEFLYSYIGVPKGDEPILKPSL</span><span class="topo-membrane">FAYIVFLITMFINVSILIR</span><span class="topo-outside">GISKG</span><span class="topo-membrane">IERFAKIAMPTLFILAVFLVIR</span><span class="topo-inside">VFLLETPNGTAADGLNFLWTPDFEKLKD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">P</span><span class="topo-membrane">GVWIAAVGQIFFTLSLGFGAIITY</span><span class="topo-outside">ASYVRKDQDIVL</span><span class="topo-membrane">SGLTAATLNEKAEVILGGSI</span><span class="topo-inside">SIPAAVAFFGVANAVAIAKAGAFNLGFITLPAIFSQTAGGTF</span><span class="topo-membrane">LGFLWFFLLFFAGLTSSIAIM</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">QPMIAFL</span><span class="topo-outside">EDELKLSRK</span><span class="topo-membrane">HAVLWTAAIVFFSAHLVMFL</span><span class="topo-inside">NKS</span><span class="topo-membrane">LDEMDFWAGTIGVVFFGLTELIIFFW</span><span class="topo-outside">IFGADKAWEEINRGGIIKV</span><span class="topo-membrane">PRIYYYVMRYITPAFLAVLLVVWAREYI</span><span class="topo-inside">PKIMEETH</span></span>
+<span class="topo-ruler">       490       500       510         </span>
 <span class="topo-line"><span class="topo-inside">WTV</span><span class="topo-membrane">WITRFYIIGLFLFLTFLVF</span><span class="topo-outside">LAERRRN</span><span class="topo-unknown">HESAGTLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (29 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -8765,6 +8857,7 @@ LeuT is a bacterial amino acid transporter from Aquifex aeolicus that belongs to
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -8780,15 +8873,17 @@ LeuT is a bacterial amino acid transporter from Aquifex aeolicus that belongs to
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MEVK</span><span class="topo-outside">REHWATRLG</span><span class="topo-membrane">LILAMAGNAVGLGNFLRFP</span><span class="topo-inside">VQAAENGGG</span><span class="topo-membrane">AFMIPYIIAFLLVGIPLMW</span></span>
-<span class="topo-line"><span class="topo-membrane">IEW</span><span class="topo-outside">AMGRYGGAQGHGTTPAIFYLLWRNR</span><span class="topo-membrane">FAKILGVFGLWIPLVVAIYYVYIESWTLGFAI</span></span>
-<span class="topo-line"><span class="topo-membrane">KFLV</span><span class="topo-inside">GLVPEPP</span><span class="topo-unknown">PNA</span><span class="topo-inside">TDPDSILRPFKEFLYSYIGVPKGDEPILKPSL</span><span class="topo-membrane">FAYIVFLITMFINV</span></span>
-<span class="topo-line"><span class="topo-membrane">SILIR</span><span class="topo-outside">GISKG</span><span class="topo-membrane">IERFAKIAMPTLFILAVFLVIR</span><span class="topo-inside">VFLLETPNGTAADGLNFLWTPDFEKLKD</span></span>
-<span class="topo-line"><span class="topo-inside">P</span><span class="topo-membrane">GVWIAAVGQIFFTLSLGFGAIITY</span><span class="topo-outside">ASYVRKDQDIVL</span><span class="topo-membrane">SGLTAATLNEKAEVILGGSI</span><span class="topo-inside">SIP</span></span>
-<span class="topo-line"><span class="topo-inside">AAVAFFGVANAVAIAKAGAFNLGFITLPAIFSQTAGGTF</span><span class="topo-membrane">LGFLWFFLLFFAGLTSSIAIM</span></span>
-<span class="topo-line"><span class="topo-membrane">QPMIAFL</span><span class="topo-outside">EDELKLSRK</span><span class="topo-membrane">HAVLWTAAIVFFSAHLVMFL</span><span class="topo-inside">NKS</span><span class="topo-membrane">LDEMDFWAGTIGVVFFGLTEL</span></span>
-<span class="topo-line"><span class="topo-membrane">IIFFW</span><span class="topo-outside">IFGADKAWEEINRGGIIKV</span><span class="topo-membrane">PRIYYYVMRYITPAFLAVLLVVWAREYI</span><span class="topo-inside">PKIMEETH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MEVK</span><span class="topo-outside">REHWATRLG</span><span class="topo-membrane">LILAMAGNAVGLGNFLRFP</span><span class="topo-inside">VQAAENGGG</span><span class="topo-membrane">AFMIPYIIAFLLVGIPLMWIEW</span><span class="topo-outside">AMGRYGGAQGHGTTPAIFYLLWRNR</span><span class="topo-membrane">FAKILGVFGLWIPLVVAIYYVYIESWTLGFAI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">KFLV</span><span class="topo-inside">GLVPEPP</span><span class="topo-unknown">PNA</span><span class="topo-inside">TDPDSILRPFKEFLYSYIGVPKGDEPILKPSL</span><span class="topo-membrane">FAYIVFLITMFINVSILIR</span><span class="topo-outside">GISKG</span><span class="topo-membrane">IERFAKIAMPTLFILAVFLVIR</span><span class="topo-inside">VFLLETPNGTAADGLNFLWTPDFEKLKD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">P</span><span class="topo-membrane">GVWIAAVGQIFFTLSLGFGAIITY</span><span class="topo-outside">ASYVRKDQDIVL</span><span class="topo-membrane">SGLTAATLNEKAEVILGGSI</span><span class="topo-inside">SIPAAVAFFGVANAVAIAKAGAFNLGFITLPAIFSQTAGGTF</span><span class="topo-membrane">LGFLWFFLLFFAGLTSSIAIM</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">QPMIAFL</span><span class="topo-outside">EDELKLSRK</span><span class="topo-membrane">HAVLWTAAIVFFSAHLVMFL</span><span class="topo-inside">NKS</span><span class="topo-membrane">LDEMDFWAGTIGVVFFGLTELIIFFW</span><span class="topo-outside">IFGADKAWEEINRGGIIKV</span><span class="topo-membrane">PRIYYYVMRYITPAFLAVLLVVWAREYI</span><span class="topo-inside">PKIMEETH</span></span>
+<span class="topo-ruler">       490       500       510         </span>
 <span class="topo-line"><span class="topo-inside">WTV</span><span class="topo-membrane">WITRFYIIGLFLFLTFLVF</span><span class="topo-outside">LAERRRN</span><span class="topo-unknown">HESAGTLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (29 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -9003,6 +9098,7 @@ LeuT is a bacterial amino acid transporter from Aquifex aeolicus that belongs to
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -9018,15 +9114,17 @@ LeuT is a bacterial amino acid transporter from Aquifex aeolicus that belongs to
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MEVK</span><span class="topo-outside">REHWATRLG</span><span class="topo-membrane">LILAMAGNAVGLGNFLRFP</span><span class="topo-inside">VQAAENGGG</span><span class="topo-membrane">AFMIPYIIAFLLVGIPLMW</span></span>
-<span class="topo-line"><span class="topo-membrane">IEW</span><span class="topo-outside">AMGRYGGAQGHGTTPAIFYLLWRNR</span><span class="topo-membrane">FAKILGVFGLWIPLVVAIYYVYIESWTLGFAI</span></span>
-<span class="topo-line"><span class="topo-membrane">KFLV</span><span class="topo-inside">GLVPEPP</span><span class="topo-unknown">PNA</span><span class="topo-inside">TDPDSILRPFKEFLYSYIGVPKGDEPILKPSL</span><span class="topo-membrane">FAYIVFLITMFINV</span></span>
-<span class="topo-line"><span class="topo-membrane">SILIR</span><span class="topo-outside">GISKG</span><span class="topo-membrane">IERFAKIAMPTLFILAVFLVIR</span><span class="topo-inside">VFLLETPNGTAADGLNFLWTPDFEKLKD</span></span>
-<span class="topo-line"><span class="topo-inside">P</span><span class="topo-membrane">GVWIAAVGQIFFTLSLGFGAIITY</span><span class="topo-outside">ASYVRKDQDIVL</span><span class="topo-membrane">SGLTAATLNEKAEVILGGSI</span><span class="topo-inside">SIP</span></span>
-<span class="topo-line"><span class="topo-inside">AAVAFFGVANAVAIAKAGAFNLGFITLPAIFSQTAGGTF</span><span class="topo-membrane">LGFLWFFLLFFAGLTSSIAIM</span></span>
-<span class="topo-line"><span class="topo-membrane">QPMIAFL</span><span class="topo-outside">EDELKLSRK</span><span class="topo-membrane">HAVLWTAAIVFFSAHLVMFL</span><span class="topo-inside">NKS</span><span class="topo-membrane">LDEMDFWAGTIGVVFFGLTEL</span></span>
-<span class="topo-line"><span class="topo-membrane">IIFFW</span><span class="topo-outside">IFGADKAWEEINRGGIIKV</span><span class="topo-membrane">PRIYYYVMRYITPAFLAVLLVVWAREYI</span><span class="topo-inside">PKIMEETH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MEVK</span><span class="topo-outside">REHWATRLG</span><span class="topo-membrane">LILAMAGNAVGLGNFLRFP</span><span class="topo-inside">VQAAENGGG</span><span class="topo-membrane">AFMIPYIIAFLLVGIPLMWIEW</span><span class="topo-outside">AMGRYGGAQGHGTTPAIFYLLWRNR</span><span class="topo-membrane">FAKILGVFGLWIPLVVAIYYVYIESWTLGFAI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">KFLV</span><span class="topo-inside">GLVPEPP</span><span class="topo-unknown">PNA</span><span class="topo-inside">TDPDSILRPFKEFLYSYIGVPKGDEPILKPSL</span><span class="topo-membrane">FAYIVFLITMFINVSILIR</span><span class="topo-outside">GISKG</span><span class="topo-membrane">IERFAKIAMPTLFILAVFLVIR</span><span class="topo-inside">VFLLETPNGTAADGLNFLWTPDFEKLKD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">P</span><span class="topo-membrane">GVWIAAVGQIFFTLSLGFGAIITY</span><span class="topo-outside">ASYVRKDQDIVL</span><span class="topo-membrane">SGLTAATLNEKAEVILGGSI</span><span class="topo-inside">SIPAAVAFFGVANAVAIAKAGAFNLGFITLPAIFSQTAGGTF</span><span class="topo-membrane">LGFLWFFLLFFAGLTSSIAIM</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">QPMIAFL</span><span class="topo-outside">EDELKLSRK</span><span class="topo-membrane">HAVLWTAAIVFFSAHLVMFL</span><span class="topo-inside">NKS</span><span class="topo-membrane">LDEMDFWAGTIGVVFFGLTELIIFFW</span><span class="topo-outside">IFGADKAWEEINRGGIIKV</span><span class="topo-membrane">PRIYYYVMRYITPAFLAVLLVVWAREYI</span><span class="topo-inside">PKIMEETH</span></span>
+<span class="topo-ruler">       490       500       510         </span>
 <span class="topo-line"><span class="topo-inside">WTV</span><span class="topo-membrane">WITRFYIIGLFLFLTFLVF</span><span class="topo-outside">LAERRRN</span><span class="topo-unknown">HESAGTLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (29 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -9241,6 +9339,7 @@ LeuT is a bacterial amino acid transporter from Aquifex aeolicus that belongs to
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -9256,15 +9355,17 @@ LeuT is a bacterial amino acid transporter from Aquifex aeolicus that belongs to
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MEVK</span><span class="topo-outside">REHWATRLG</span><span class="topo-membrane">LILAMAGNAVGLGNFLRFP</span><span class="topo-inside">VQAAENGGG</span><span class="topo-membrane">AFMIPYIIAFLLVGIPLMW</span></span>
-<span class="topo-line"><span class="topo-membrane">IEW</span><span class="topo-outside">AMGRYGGAQGHGTTPAIFYLLWRNR</span><span class="topo-membrane">FAKILGVFGLWIPLVVAIYYVYIESWTLGFAI</span></span>
-<span class="topo-line"><span class="topo-membrane">KFLV</span><span class="topo-inside">GLVPEPP</span><span class="topo-unknown">PNA</span><span class="topo-inside">TDPDSILRPFKEFLYSYIGVPKGDEPILKPSL</span><span class="topo-membrane">FAYIVFLITMFINV</span></span>
-<span class="topo-line"><span class="topo-membrane">SILIR</span><span class="topo-outside">GISKG</span><span class="topo-membrane">IERFAKIAMPTLFILAVFLVIR</span><span class="topo-inside">VFLLETPNGTAADGLNFLWTPDFEKLKD</span></span>
-<span class="topo-line"><span class="topo-inside">P</span><span class="topo-membrane">GVWIAAVGQIFFTLSLGFGAIITY</span><span class="topo-outside">ASYVRKDQDIVL</span><span class="topo-membrane">SGLTAATLNEKAEVILGGSI</span><span class="topo-inside">SIP</span></span>
-<span class="topo-line"><span class="topo-inside">AAVAFFGVANAVAIAKAGAFNLGFITLPAIFSQTAGGTF</span><span class="topo-membrane">LGFLWFFLLFFAGLTSSIAIM</span></span>
-<span class="topo-line"><span class="topo-membrane">QPMIAFL</span><span class="topo-outside">EDELKLSRK</span><span class="topo-membrane">HAVLWTAAIVFFSAHLVMFL</span><span class="topo-inside">NKS</span><span class="topo-membrane">LDEMDFWAGTIGVVFFGLTEL</span></span>
-<span class="topo-line"><span class="topo-membrane">IIFFW</span><span class="topo-outside">IFGADKAWEEINRGGIIKV</span><span class="topo-membrane">PRIYYYVMRYITPAFLAVLLVVWAREYI</span><span class="topo-inside">PKIMEETH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MEVK</span><span class="topo-outside">REHWATRLG</span><span class="topo-membrane">LILAMAGNAVGLGNFLRFP</span><span class="topo-inside">VQAAENGGG</span><span class="topo-membrane">AFMIPYIIAFLLVGIPLMWIEW</span><span class="topo-outside">AMGRYGGAQGHGTTPAIFYLLWRNR</span><span class="topo-membrane">FAKILGVFGLWIPLVVAIYYVYIESWTLGFAI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">KFLV</span><span class="topo-inside">GLVPEPP</span><span class="topo-unknown">PNA</span><span class="topo-inside">TDPDSILRPFKEFLYSYIGVPKGDEPILKPSL</span><span class="topo-membrane">FAYIVFLITMFINVSILIR</span><span class="topo-outside">GISKG</span><span class="topo-membrane">IERFAKIAMPTLFILAVFLVIR</span><span class="topo-inside">VFLLETPNGTAADGLNFLWTPDFEKLKD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">P</span><span class="topo-membrane">GVWIAAVGQIFFTLSLGFGAIITY</span><span class="topo-outside">ASYVRKDQDIVL</span><span class="topo-membrane">SGLTAATLNEKAEVILGGSI</span><span class="topo-inside">SIPAAVAFFGVANAVAIAKAGAFNLGFITLPAIFSQTAGGTF</span><span class="topo-membrane">LGFLWFFLLFFAGLTSSIAIM</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">QPMIAFL</span><span class="topo-outside">EDELKLSRK</span><span class="topo-membrane">HAVLWTAAIVFFSAHLVMFL</span><span class="topo-inside">NKS</span><span class="topo-membrane">LDEMDFWAGTIGVVFFGLTELIIFFW</span><span class="topo-outside">IFGADKAWEEINRGGIIKV</span><span class="topo-membrane">PRIYYYVMRYITPAFLAVLLVVWAREYI</span><span class="topo-inside">PKIMEETH</span></span>
+<span class="topo-ruler">       490       500       510         </span>
 <span class="topo-line"><span class="topo-inside">WTV</span><span class="topo-membrane">WITRFYIIGLFLFLTFLVF</span><span class="topo-outside">LAERRRN</span><span class="topo-unknown">HESAGTLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (29 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -9479,6 +9580,7 @@ LeuT is a bacterial amino acid transporter from Aquifex aeolicus that belongs to
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -9524,15 +9626,17 @@ LeuT is a bacterial amino acid transporter from Aquifex aeolicus that belongs to
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MEVKREHAATRL</span><span class="topo-inside">GLI</span><span class="topo-membrane">LAMAGNAVGLGNFLRFPVQA</span><span class="topo-outside">AENGGGAF</span><span class="topo-membrane">MIPYIIAFLLVGIPLMW</span></span>
-<span class="topo-line"><span class="topo-membrane">IE</span><span class="topo-inside">WAMGRYGGAQGHGTTPAIFYLLWRNRFAKI</span><span class="topo-membrane">LGVFGLWIPLVVAIYYVYIESWTLGFAI</span></span>
-<span class="topo-line"><span class="topo-membrane">KFLV</span><span class="topo-outside">GLVPEPPPNATDPDSILRPFKEFLYSYIGVPKGDEPILKPSL</span><span class="topo-membrane">FAYIVFLITMFINV</span></span>
-<span class="topo-line"><span class="topo-membrane">SIL</span><span class="topo-inside">IRGISKG</span><span class="topo-membrane">IERFAKIAMPTLFILAVFLVI</span><span class="topo-outside">RVFLLETPNGT</span><span class="topo-unknown">AADGLNFLW</span><span class="topo-outside">TPDFEKLKD</span></span>
-<span class="topo-line"><span class="topo-outside">P</span><span class="topo-membrane">GVWIAAVGQIFFTLSLGFGAI</span><span class="topo-inside">ITYASYVRKDQDIVLSG</span><span class="topo-membrane">LTAATLNEKAEVILGGSI</span><span class="topo-outside">SIP</span></span>
-<span class="topo-line"><span class="topo-outside">AAVAFFGVANAVAIAKAGAF</span><span class="topo-unknown">NLGFITLPAIFS</span><span class="topo-outside">QTAGGTF</span><span class="topo-membrane">LGFLWFFLLFFAGLTSSIAIM</span></span>
-<span class="topo-line"><span class="topo-membrane">QPM</span><span class="topo-inside">IAFLEDELKLSRKHAV</span><span class="topo-membrane">LWTAAIVFFSAHLVMFL</span><span class="topo-outside">NKS</span><span class="topo-membrane">LDEMDFWAGTIGVVFFGLTEL</span></span>
-<span class="topo-line"><span class="topo-membrane">I</span><span class="topo-inside">IFFWIFG</span><span class="topo-unknown">ADKAWEEIN</span><span class="topo-inside">RGGIIKVPRI</span><span class="topo-membrane">YYYVMRYITPAFLAVLLVVWAR</span><span class="topo-unknown">EYIPKI</span><span class="topo-outside">MEETH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MEVKREHAATRL</span><span class="topo-inside">GLI</span><span class="topo-membrane">LAMAGNAVGLGNFLRFPVQA</span><span class="topo-outside">AENGGGAF</span><span class="topo-membrane">MIPYIIAFLLVGIPLMWIE</span><span class="topo-inside">WAMGRYGGAQGHGTTPAIFYLLWRNRFAKI</span><span class="topo-membrane">LGVFGLWIPLVVAIYYVYIESWTLGFAI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">KFLV</span><span class="topo-outside">GLVPEPPPNATDPDSILRPFKEFLYSYIGVPKGDEPILKPSL</span><span class="topo-membrane">FAYIVFLITMFINVSIL</span><span class="topo-inside">IRGISKG</span><span class="topo-membrane">IERFAKIAMPTLFILAVFLVI</span><span class="topo-outside">RVFLLETPNGT</span><span class="topo-unknown">AADGLNFLW</span><span class="topo-outside">TPDFEKLKD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">P</span><span class="topo-membrane">GVWIAAVGQIFFTLSLGFGAI</span><span class="topo-inside">ITYASYVRKDQDIVLSG</span><span class="topo-membrane">LTAATLNEKAEVILGGSI</span><span class="topo-outside">SIPAAVAFFGVANAVAIAKAGAF</span><span class="topo-unknown">NLGFITLPAIFS</span><span class="topo-outside">QTAGGTF</span><span class="topo-membrane">LGFLWFFLLFFAGLTSSIAIM</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">QPM</span><span class="topo-inside">IAFLEDELKLSRKHAV</span><span class="topo-membrane">LWTAAIVFFSAHLVMFL</span><span class="topo-outside">NKS</span><span class="topo-membrane">LDEMDFWAGTIGVVFFGLTELI</span><span class="topo-inside">IFFWIFG</span><span class="topo-unknown">ADKAWEEIN</span><span class="topo-inside">RGGIIKVPRI</span><span class="topo-membrane">YYYVMRYITPAFLAVLLVVWAR</span><span class="topo-unknown">EYIPKI</span><span class="topo-outside">MEETH</span></span>
+<span class="topo-ruler">       490       500       510         </span>
 <span class="topo-line"><span class="topo-outside">WTV</span><span class="topo-membrane">WITRFYIIGLFLFLTFL</span><span class="topo-inside">VFLAERRRNH</span><span class="topo-unknown">ESAGTLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (32 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -9768,6 +9872,7 @@ LeuT is a bacterial amino acid transporter from Aquifex aeolicus that belongs to
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -9783,15 +9888,17 @@ LeuT is a bacterial amino acid transporter from Aquifex aeolicus that belongs to
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MEVKREHAATRL</span><span class="topo-inside">GLI</span><span class="topo-membrane">LAMAGNAVGLGNFLRFPVQA</span><span class="topo-outside">AENGGGAF</span><span class="topo-membrane">MIPYIIAFLLVGIPLMW</span></span>
-<span class="topo-line"><span class="topo-membrane">IE</span><span class="topo-inside">WAMGRYGGAQGHGTTPAIFYLLWRNRFAKI</span><span class="topo-membrane">LGVFGLWIPLVVAIYYVYIESWTLGFAI</span></span>
-<span class="topo-line"><span class="topo-membrane">KFLV</span><span class="topo-outside">GLVPEPPPNATDPDSILRPFKEFLYSYIGVPKGDEPILKPSL</span><span class="topo-membrane">FAYIVFLITMFINV</span></span>
-<span class="topo-line"><span class="topo-membrane">SIL</span><span class="topo-inside">IRGISKG</span><span class="topo-membrane">IERFAKIAMPTLFILAVFLVI</span><span class="topo-outside">RVFLLETPNGTAADGLNFLWTPDFEKLKD</span></span>
-<span class="topo-line"><span class="topo-outside">P</span><span class="topo-membrane">GVWIAAVGQIFFTLSLGFGAI</span><span class="topo-inside">ITYASYVRKDQDIVLSG</span><span class="topo-membrane">LTAATLNEKAEVILGGSI</span><span class="topo-outside">SIP</span></span>
-<span class="topo-line"><span class="topo-outside">AAVAFFGVANAVAIAKAGAF</span><span class="topo-unknown">NLGFITLPAIFSQ</span><span class="topo-outside">TAGGTF</span><span class="topo-membrane">LGFLWFFLLFFAGLTSSIAIM</span></span>
-<span class="topo-line"><span class="topo-membrane">QPM</span><span class="topo-inside">IAFLEDELKLSRKHAV</span><span class="topo-membrane">LWTAAIVFFSAHLVMFL</span><span class="topo-outside">NKS</span><span class="topo-membrane">LDEMDFWAGTIGVVFFGLTEL</span></span>
-<span class="topo-line"><span class="topo-membrane">I</span><span class="topo-inside">IFFWIFG</span><span class="topo-unknown">ADKAWEEI</span><span class="topo-inside">NRGGIIKVPRI</span><span class="topo-membrane">YYYVMRYITPAFLAVLLVVWAR</span><span class="topo-unknown">EYIPKIM</span><span class="topo-outside">EETH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MEVKREHAATRL</span><span class="topo-inside">GLI</span><span class="topo-membrane">LAMAGNAVGLGNFLRFPVQA</span><span class="topo-outside">AENGGGAF</span><span class="topo-membrane">MIPYIIAFLLVGIPLMWIE</span><span class="topo-inside">WAMGRYGGAQGHGTTPAIFYLLWRNRFAKI</span><span class="topo-membrane">LGVFGLWIPLVVAIYYVYIESWTLGFAI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">KFLV</span><span class="topo-outside">GLVPEPPPNATDPDSILRPFKEFLYSYIGVPKGDEPILKPSL</span><span class="topo-membrane">FAYIVFLITMFINVSIL</span><span class="topo-inside">IRGISKG</span><span class="topo-membrane">IERFAKIAMPTLFILAVFLVI</span><span class="topo-outside">RVFLLETPNGTAADGLNFLWTPDFEKLKD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">P</span><span class="topo-membrane">GVWIAAVGQIFFTLSLGFGAI</span><span class="topo-inside">ITYASYVRKDQDIVLSG</span><span class="topo-membrane">LTAATLNEKAEVILGGSI</span><span class="topo-outside">SIPAAVAFFGVANAVAIAKAGAF</span><span class="topo-unknown">NLGFITLPAIFSQ</span><span class="topo-outside">TAGGTF</span><span class="topo-membrane">LGFLWFFLLFFAGLTSSIAIM</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">QPM</span><span class="topo-inside">IAFLEDELKLSRKHAV</span><span class="topo-membrane">LWTAAIVFFSAHLVMFL</span><span class="topo-outside">NKS</span><span class="topo-membrane">LDEMDFWAGTIGVVFFGLTELI</span><span class="topo-inside">IFFWIFG</span><span class="topo-unknown">ADKAWEEI</span><span class="topo-inside">NRGGIIKVPRI</span><span class="topo-membrane">YYYVMRYITPAFLAVLLVVWAR</span><span class="topo-unknown">EYIPKIM</span><span class="topo-outside">EETH</span></span>
+<span class="topo-ruler">       490       500       510         </span>
 <span class="topo-line"><span class="topo-outside">WTV</span><span class="topo-membrane">WITRFYIIGLFLFLTFL</span><span class="topo-inside">VFLAERR</span><span class="topo-unknown">RNHESAGTLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (30 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -10013,6 +10120,7 @@ LeuT is a bacterial amino acid transporter from Aquifex aeolicus that belongs to
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -10058,15 +10166,17 @@ LeuT is a bacterial amino acid transporter from Aquifex aeolicus that belongs to
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MEVK</span><span class="topo-outside">REHWATRL</span><span class="topo-membrane">GLILAMAGNAVGLGNFLRFP</span><span class="topo-inside">VQAAENGGGAF</span><span class="topo-membrane">MIPYIIAFLLVGIPLMW</span></span>
-<span class="topo-line"><span class="topo-membrane">IEW</span><span class="topo-outside">AMGRYGGAQGHGTTPAIFYLLWRNRF</span><span class="topo-membrane">AKILGVFGLWIPLVVAIYYVYIESWTLGFAI</span></span>
-<span class="topo-line"><span class="topo-membrane">KFLV</span><span class="topo-inside">GLVPEPPP</span><span class="topo-unknown">NA</span><span class="topo-inside">TDPDSILRPFKEFLYSYIGVPKGDEPILKPSL</span><span class="topo-membrane">FAYIVFLITMFINV</span></span>
-<span class="topo-line"><span class="topo-membrane">SILIR</span><span class="topo-outside">GISKG</span><span class="topo-membrane">IERFAKIAMPTLFILAVFLVIR</span><span class="topo-inside">VFLLETPNGTAADGLNFLWTPDFEKLKD</span></span>
-<span class="topo-line"><span class="topo-inside">PGV</span><span class="topo-membrane">WIAAVGQIFFTLSLGFGAIITYA</span><span class="topo-outside">SYVRKDQDIV</span><span class="topo-membrane">LSGLTAATLNEKAEVILGGSI</span><span class="topo-inside">SIP</span></span>
-<span class="topo-line"><span class="topo-inside">AAVAFFGVANAVAIAKAGAFNLGFITLPAIFSQTAGGTF</span><span class="topo-membrane">LGFLWFFLLFFAGLTSSIAIM</span></span>
-<span class="topo-line"><span class="topo-membrane">QPMIAFL</span><span class="topo-outside">EDELKLSRKH</span><span class="topo-membrane">AVLWTAAIVFFSAHLVMFL</span><span class="topo-inside">NKS</span><span class="topo-membrane">LDEMDFWAGTIGVVFFGLTEL</span></span>
-<span class="topo-line"><span class="topo-membrane">IIFFWI</span><span class="topo-outside">FGADKAWEEINRGGIIKV</span><span class="topo-membrane">PRIYYYVMRYITPAFLAVLLVVWAR</span><span class="topo-inside">EYIPKIMEETH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MEVK</span><span class="topo-outside">REHWATRL</span><span class="topo-membrane">GLILAMAGNAVGLGNFLRFP</span><span class="topo-inside">VQAAENGGGAF</span><span class="topo-membrane">MIPYIIAFLLVGIPLMWIEW</span><span class="topo-outside">AMGRYGGAQGHGTTPAIFYLLWRNRF</span><span class="topo-membrane">AKILGVFGLWIPLVVAIYYVYIESWTLGFAI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">KFLV</span><span class="topo-inside">GLVPEPPP</span><span class="topo-unknown">NA</span><span class="topo-inside">TDPDSILRPFKEFLYSYIGVPKGDEPILKPSL</span><span class="topo-membrane">FAYIVFLITMFINVSILIR</span><span class="topo-outside">GISKG</span><span class="topo-membrane">IERFAKIAMPTLFILAVFLVIR</span><span class="topo-inside">VFLLETPNGTAADGLNFLWTPDFEKLKD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">PGV</span><span class="topo-membrane">WIAAVGQIFFTLSLGFGAIITYA</span><span class="topo-outside">SYVRKDQDIV</span><span class="topo-membrane">LSGLTAATLNEKAEVILGGSI</span><span class="topo-inside">SIPAAVAFFGVANAVAIAKAGAFNLGFITLPAIFSQTAGGTF</span><span class="topo-membrane">LGFLWFFLLFFAGLTSSIAIM</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">QPMIAFL</span><span class="topo-outside">EDELKLSRKH</span><span class="topo-membrane">AVLWTAAIVFFSAHLVMFL</span><span class="topo-inside">NKS</span><span class="topo-membrane">LDEMDFWAGTIGVVFFGLTELIIFFWI</span><span class="topo-outside">FGADKAWEEINRGGIIKV</span><span class="topo-membrane">PRIYYYVMRYITPAFLAVLLVVWAR</span><span class="topo-inside">EYIPKIMEETH</span></span>
+<span class="topo-ruler">       490       500       510     </span>
 <span class="topo-line"><span class="topo-inside">WTV</span><span class="topo-membrane">WITRFYIIGLFLFLTFLVF</span><span class="topo-outside">LAERRRNHESAGT</span></span>
+<details class="topo-details"><summary>Topology coordinates (28 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -10274,6 +10384,7 @@ LeuT is a bacterial amino acid transporter from Aquifex aeolicus that belongs to
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -10289,15 +10400,17 @@ LeuT is a bacterial amino acid transporter from Aquifex aeolicus that belongs to
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MEVK</span><span class="topo-outside">REHWATRL</span><span class="topo-membrane">GLILAMAGNAVGLGNFLRFP</span><span class="topo-inside">VQAAENGGGAF</span><span class="topo-membrane">MIPYIIAFLLVGIPLMW</span></span>
-<span class="topo-line"><span class="topo-membrane">IEW</span><span class="topo-outside">AMGRYGGAQGHGTTPAIFYLLWRNRF</span><span class="topo-membrane">AKILGVFGLWIPLVVAIYYVYIESWTLGFAI</span></span>
-<span class="topo-line"><span class="topo-membrane">KFLV</span><span class="topo-inside">GLVPEPPP</span><span class="topo-unknown">NA</span><span class="topo-inside">TDPDSILRPFKEFLYSYIGVPKGDEPILKPSL</span><span class="topo-membrane">FAYIVFLITMFINV</span></span>
-<span class="topo-line"><span class="topo-membrane">SILIR</span><span class="topo-outside">GISKG</span><span class="topo-membrane">IERFAKIAMPTLFILAVFLVIR</span><span class="topo-inside">VFLLETPNGTAADGLNFLWTPDFEKLKD</span></span>
-<span class="topo-line"><span class="topo-inside">PGV</span><span class="topo-membrane">WIAAVGQIFFTLSLGFGAIITYA</span><span class="topo-outside">SYVRKDQDIV</span><span class="topo-membrane">LSGLTAATLNEKAEVILGGSI</span><span class="topo-inside">SIP</span></span>
-<span class="topo-line"><span class="topo-inside">AAVAFFGVANAVAIAKAGAFNLGFITLPAIFSQTAGGTF</span><span class="topo-membrane">LGFLWFFLLFFAGLTSSIAIM</span></span>
-<span class="topo-line"><span class="topo-membrane">QPMIAFL</span><span class="topo-outside">EDELKLSRKH</span><span class="topo-membrane">AVLWTAAIVFFSAHLVMFL</span><span class="topo-inside">NKS</span><span class="topo-membrane">LDEMDFWAGTIGVVFFGLTEL</span></span>
-<span class="topo-line"><span class="topo-membrane">IIFFWI</span><span class="topo-outside">FGADKAWEEINRGGIIKV</span><span class="topo-membrane">PRIYYYVMRYITPAFLAVLLVVWAR</span><span class="topo-inside">EYIPKIMEETH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MEVK</span><span class="topo-outside">REHWATRL</span><span class="topo-membrane">GLILAMAGNAVGLGNFLRFP</span><span class="topo-inside">VQAAENGGGAF</span><span class="topo-membrane">MIPYIIAFLLVGIPLMWIEW</span><span class="topo-outside">AMGRYGGAQGHGTTPAIFYLLWRNRF</span><span class="topo-membrane">AKILGVFGLWIPLVVAIYYVYIESWTLGFAI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">KFLV</span><span class="topo-inside">GLVPEPPP</span><span class="topo-unknown">NA</span><span class="topo-inside">TDPDSILRPFKEFLYSYIGVPKGDEPILKPSL</span><span class="topo-membrane">FAYIVFLITMFINVSILIR</span><span class="topo-outside">GISKG</span><span class="topo-membrane">IERFAKIAMPTLFILAVFLVIR</span><span class="topo-inside">VFLLETPNGTAADGLNFLWTPDFEKLKD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">PGV</span><span class="topo-membrane">WIAAVGQIFFTLSLGFGAIITYA</span><span class="topo-outside">SYVRKDQDIV</span><span class="topo-membrane">LSGLTAATLNEKAEVILGGSI</span><span class="topo-inside">SIPAAVAFFGVANAVAIAKAGAFNLGFITLPAIFSQTAGGTF</span><span class="topo-membrane">LGFLWFFLLFFAGLTSSIAIM</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">QPMIAFL</span><span class="topo-outside">EDELKLSRKH</span><span class="topo-membrane">AVLWTAAIVFFSAHLVMFL</span><span class="topo-inside">NKS</span><span class="topo-membrane">LDEMDFWAGTIGVVFFGLTELIIFFWI</span><span class="topo-outside">FGADKAWEEINRGGIIKV</span><span class="topo-membrane">PRIYYYVMRYITPAFLAVLLVVWAR</span><span class="topo-inside">EYIPKIMEETH</span></span>
+<span class="topo-ruler">       490       500       510     </span>
 <span class="topo-line"><span class="topo-inside">WTV</span><span class="topo-membrane">WITRFYIIGLFLFLTFLVF</span><span class="topo-outside">LAERRRNHESAGT</span></span>
+<details class="topo-details"><summary>Topology coordinates (28 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -10505,6 +10618,7 @@ LeuT is a bacterial amino acid transporter from Aquifex aeolicus that belongs to
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -10550,15 +10664,17 @@ LeuT is a bacterial amino acid transporter from Aquifex aeolicus that belongs to
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">REHWATRLGLI</span><span class="topo-membrane">LAMAGNAVGLGNFLRFPVQA</span><span class="topo-outside">AENGGGAF</span><span class="topo-membrane">MIPYIIAFLLVGIPLMWIEW</span><span class="topo-inside">A</span></span>
-<span class="topo-line"><span class="topo-inside">MGRYGGAQGHGTTPAIFYLLWRNR</span><span class="topo-membrane">FAKILGVFGLWIPLVVAIYYVYIESWTLGFAIKFLV</span></span>
-<span class="topo-line"><span class="topo-outside">GLVPEPPP</span><span class="topo-unknown">NA</span><span class="topo-outside">TDPDSILRPFKEFLYSYIGVPKGDEPILKPSL</span><span class="topo-membrane">FAYIVFLITMFINVSILI</span></span>
-<span class="topo-line"><span class="topo-inside">RGISKG</span><span class="topo-membrane">IERFAKIAMPTLFILAVFLVIRVF</span><span class="topo-outside">LLETPNGT</span><span class="topo-unknown">AADGLNFL</span><span class="topo-outside">WTPDFEKLKDP</span><span class="topo-membrane">GVW</span></span>
-<span class="topo-line"><span class="topo-membrane">IAAVGQIFFTLSLGFGAIITY</span><span class="topo-inside">ASYVRKDQDIVL</span><span class="topo-membrane">SGLTAATLNEKAEVILGGSIS</span><span class="topo-outside">IPAAVA</span></span>
-<span class="topo-line"><span class="topo-outside">FFGV</span><span class="topo-unknown">ANAVAIAKA</span><span class="topo-outside">G</span><span class="topo-unknown">AFNLGF</span><span class="topo-outside">I</span><span class="topo-unknown">TLPAIF</span><span class="topo-outside">SQTAGGTF</span><span class="topo-membrane">LGFLWFFLLFFAGLTSSIAIMQPMI</span></span>
-<span class="topo-line"><span class="topo-membrane">AF</span><span class="topo-inside">LEDELKLSRKH</span><span class="topo-membrane">AVLWTAAIVFFSAHLVMFL</span><span class="topo-outside">NKS</span><span class="topo-membrane">LDEMDFWAGTIGVVFFGLTELIIFF</span></span>
-<span class="topo-line"><span class="topo-membrane">WI</span><span class="topo-inside">FG</span><span class="topo-unknown">ADKAWEEIN</span><span class="topo-inside">RGGIIKV</span><span class="topo-membrane">PRIYYYVMRYITPAFLAVLLVVWAR</span><span class="topo-outside">EY</span><span class="topo-unknown">IPKIME</span><span class="topo-outside">ETHWTV</span><span class="topo-membrane">W</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">REHWATRLGLI</span><span class="topo-membrane">LAMAGNAVGLGNFLRFPVQA</span><span class="topo-outside">AENGGGAF</span><span class="topo-membrane">MIPYIIAFLLVGIPLMWIEW</span><span class="topo-inside">AMGRYGGAQGHGTTPAIFYLLWRNR</span><span class="topo-membrane">FAKILGVFGLWIPLVVAIYYVYIESWTLGFAIKFLV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">GLVPEPPP</span><span class="topo-unknown">NA</span><span class="topo-outside">TDPDSILRPFKEFLYSYIGVPKGDEPILKPSL</span><span class="topo-membrane">FAYIVFLITMFINVSILI</span><span class="topo-inside">RGISKG</span><span class="topo-membrane">IERFAKIAMPTLFILAVFLVIRVF</span><span class="topo-outside">LLETPNGT</span><span class="topo-unknown">AADGLNFL</span><span class="topo-outside">WTPDFEKLKDP</span><span class="topo-membrane">GVW</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">IAAVGQIFFTLSLGFGAIITY</span><span class="topo-inside">ASYVRKDQDIVL</span><span class="topo-membrane">SGLTAATLNEKAEVILGGSIS</span><span class="topo-outside">IPAAVAFFGV</span><span class="topo-unknown">ANAVAIAKA</span><span class="topo-outside">G</span><span class="topo-unknown">AFNLGF</span><span class="topo-outside">I</span><span class="topo-unknown">TLPAIF</span><span class="topo-outside">SQTAGGTF</span><span class="topo-membrane">LGFLWFFLLFFAGLTSSIAIMQPMI</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">AF</span><span class="topo-inside">LEDELKLSRKH</span><span class="topo-membrane">AVLWTAAIVFFSAHLVMFL</span><span class="topo-outside">NKS</span><span class="topo-membrane">LDEMDFWAGTIGVVFFGLTELIIFFWI</span><span class="topo-inside">FG</span><span class="topo-unknown">ADKAWEEIN</span><span class="topo-inside">RGGIIKV</span><span class="topo-membrane">PRIYYYVMRYITPAFLAVLLVVWAR</span><span class="topo-outside">EY</span><span class="topo-unknown">IPKIME</span><span class="topo-outside">ETHWTV</span><span class="topo-membrane">W</span></span>
+<span class="topo-ruler">       490       500       510 </span>
 <span class="topo-line"><span class="topo-membrane">ITRFYIIGLFLFLTFLVF</span><span class="topo-inside">LAERRRNHESAGT</span></span>
+<details class="topo-details"><summary>Topology coordinates (39 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -10843,6 +10959,7 @@ LeuT is a bacterial amino acid transporter from Aquifex aeolicus that belongs to
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -10930,15 +11047,17 @@ LeuT is a bacterial amino acid transporter from Aquifex aeolicus that belongs to
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MEVK</span><span class="topo-outside">REHWATRL</span><span class="topo-membrane">GLILAMAGNAVGLGNFLRFP</span><span class="topo-inside">VQAAENGGGAF</span><span class="topo-membrane">MIPYIIAFLLVGIPLMW</span></span>
-<span class="topo-line"><span class="topo-membrane">IEW</span><span class="topo-outside">AMGRYGGAQGHGTTPAIFYLLWRNRF</span><span class="topo-membrane">AKILGVFGLWIPLVVAIYYVYIESWTLGFAI</span></span>
-<span class="topo-line"><span class="topo-membrane">KFLV</span><span class="topo-inside">GLVPEPPP</span><span class="topo-unknown">NA</span><span class="topo-inside">TDPDSILRPFKEFLYSYIGVPKGDEPILKPSL</span><span class="topo-membrane">FAYIVFLITMFINV</span></span>
-<span class="topo-line"><span class="topo-membrane">SILIR</span><span class="topo-outside">GISKG</span><span class="topo-membrane">IERFAKIAMPTLFILAVFLVIR</span><span class="topo-inside">VFLLETPNGTAADGLNFLWTPDFEKLKD</span></span>
-<span class="topo-line"><span class="topo-inside">PGV</span><span class="topo-membrane">WIAAVGQIFFTLSLGFGAIITY</span><span class="topo-outside">ASYVRKDQDIV</span><span class="topo-membrane">LSGLTAATLNEKAEVILGGSI</span><span class="topo-inside">SIP</span></span>
-<span class="topo-line"><span class="topo-inside">AAVAFFGVANAVAIAKAGAFNLGFITLPAIFSQTAGGTF</span><span class="topo-membrane">LGFLWFFLLFFAGLTSSIAIM</span></span>
-<span class="topo-line"><span class="topo-membrane">QPMIAFL</span><span class="topo-outside">EDELKLSRKH</span><span class="topo-membrane">AVLWTAAIVFFSAHLVMFL</span><span class="topo-inside">NKS</span><span class="topo-membrane">LDEMDFWAGTIGVVFFGLTEL</span></span>
-<span class="topo-line"><span class="topo-membrane">IIFFWI</span><span class="topo-outside">FGADKAWEEINRGGIIKV</span><span class="topo-membrane">PRIYYYVMRYITPAFLAVLLVVWAR</span><span class="topo-inside">EYIPKIMEETH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MEVK</span><span class="topo-outside">REHWATRL</span><span class="topo-membrane">GLILAMAGNAVGLGNFLRFP</span><span class="topo-inside">VQAAENGGGAF</span><span class="topo-membrane">MIPYIIAFLLVGIPLMWIEW</span><span class="topo-outside">AMGRYGGAQGHGTTPAIFYLLWRNRF</span><span class="topo-membrane">AKILGVFGLWIPLVVAIYYVYIESWTLGFAI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">KFLV</span><span class="topo-inside">GLVPEPPP</span><span class="topo-unknown">NA</span><span class="topo-inside">TDPDSILRPFKEFLYSYIGVPKGDEPILKPSL</span><span class="topo-membrane">FAYIVFLITMFINVSILIR</span><span class="topo-outside">GISKG</span><span class="topo-membrane">IERFAKIAMPTLFILAVFLVIR</span><span class="topo-inside">VFLLETPNGTAADGLNFLWTPDFEKLKD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">PGV</span><span class="topo-membrane">WIAAVGQIFFTLSLGFGAIITY</span><span class="topo-outside">ASYVRKDQDIV</span><span class="topo-membrane">LSGLTAATLNEKAEVILGGSI</span><span class="topo-inside">SIPAAVAFFGVANAVAIAKAGAFNLGFITLPAIFSQTAGGTF</span><span class="topo-membrane">LGFLWFFLLFFAGLTSSIAIM</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">QPMIAFL</span><span class="topo-outside">EDELKLSRKH</span><span class="topo-membrane">AVLWTAAIVFFSAHLVMFL</span><span class="topo-inside">NKS</span><span class="topo-membrane">LDEMDFWAGTIGVVFFGLTELIIFFWI</span><span class="topo-outside">FGADKAWEEINRGGIIKV</span><span class="topo-membrane">PRIYYYVMRYITPAFLAVLLVVWAR</span><span class="topo-inside">EYIPKIMEETH</span></span>
+<span class="topo-ruler">       490       500       510         </span>
 <span class="topo-line"><span class="topo-inside">WTV</span><span class="topo-membrane">WITRFYIIGLFLFLTFLVF</span><span class="topo-outside">LAERRRNHESAGT</span><span class="topo-unknown">LVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (29 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -11153,6 +11272,7 @@ LeuT is a bacterial amino acid transporter from Aquifex aeolicus that belongs to
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -11168,15 +11288,17 @@ LeuT is a bacterial amino acid transporter from Aquifex aeolicus that belongs to
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MEVK</span><span class="topo-outside">REHWATRL</span><span class="topo-membrane">GLILAMAGNAVGLGNFLRFP</span><span class="topo-inside">VQAAENGGGAF</span><span class="topo-membrane">MIPYIIAFLLVGIPLMW</span></span>
-<span class="topo-line"><span class="topo-membrane">IEW</span><span class="topo-outside">AMGRYGGAQGHGTTPAIFYLLWRNRF</span><span class="topo-membrane">AKILGVFGLWIPLVVAIYYVYIESWTLGFAI</span></span>
-<span class="topo-line"><span class="topo-membrane">KFLV</span><span class="topo-inside">GLVPEPPP</span><span class="topo-unknown">NA</span><span class="topo-inside">TDPDSILRPFKEFLYSYIGVPKGDEPILKPSL</span><span class="topo-membrane">FAYIVFLITMFINV</span></span>
-<span class="topo-line"><span class="topo-membrane">SILIR</span><span class="topo-outside">GISKG</span><span class="topo-membrane">IERFAKIAMPTLFILAVFLVIR</span><span class="topo-inside">VFLLETPNGTAADGLNFLWTPDFEKLKD</span></span>
-<span class="topo-line"><span class="topo-inside">PGV</span><span class="topo-membrane">WIAAVGQIFFTLSLGFGAIITY</span><span class="topo-outside">ASYVRKDQDIV</span><span class="topo-membrane">LSGLTAATLNEKAEVILGGSI</span><span class="topo-inside">SIP</span></span>
-<span class="topo-line"><span class="topo-inside">AAVAFFGVANAVAIAKAGAFNLGFITLPAIFSQTAGGTF</span><span class="topo-membrane">LGFLWFFLLFFAGLTSSIAIM</span></span>
-<span class="topo-line"><span class="topo-membrane">QPMIAFL</span><span class="topo-outside">EDELKLSRKH</span><span class="topo-membrane">AVLWTAAIVFFSAHLVMFL</span><span class="topo-inside">NKS</span><span class="topo-membrane">LDEMDFWAGTIGVVFFGLTEL</span></span>
-<span class="topo-line"><span class="topo-membrane">IIFFWI</span><span class="topo-outside">FGADKAWEEINRGGIIKV</span><span class="topo-membrane">PRIYYYVMRYITPAFLAVLLVVWAR</span><span class="topo-inside">EYIPKIMEETH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MEVK</span><span class="topo-outside">REHWATRL</span><span class="topo-membrane">GLILAMAGNAVGLGNFLRFP</span><span class="topo-inside">VQAAENGGGAF</span><span class="topo-membrane">MIPYIIAFLLVGIPLMWIEW</span><span class="topo-outside">AMGRYGGAQGHGTTPAIFYLLWRNRF</span><span class="topo-membrane">AKILGVFGLWIPLVVAIYYVYIESWTLGFAI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">KFLV</span><span class="topo-inside">GLVPEPPP</span><span class="topo-unknown">NA</span><span class="topo-inside">TDPDSILRPFKEFLYSYIGVPKGDEPILKPSL</span><span class="topo-membrane">FAYIVFLITMFINVSILIR</span><span class="topo-outside">GISKG</span><span class="topo-membrane">IERFAKIAMPTLFILAVFLVIR</span><span class="topo-inside">VFLLETPNGTAADGLNFLWTPDFEKLKD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">PGV</span><span class="topo-membrane">WIAAVGQIFFTLSLGFGAIITY</span><span class="topo-outside">ASYVRKDQDIV</span><span class="topo-membrane">LSGLTAATLNEKAEVILGGSI</span><span class="topo-inside">SIPAAVAFFGVANAVAIAKAGAFNLGFITLPAIFSQTAGGTF</span><span class="topo-membrane">LGFLWFFLLFFAGLTSSIAIM</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">QPMIAFL</span><span class="topo-outside">EDELKLSRKH</span><span class="topo-membrane">AVLWTAAIVFFSAHLVMFL</span><span class="topo-inside">NKS</span><span class="topo-membrane">LDEMDFWAGTIGVVFFGLTELIIFFWI</span><span class="topo-outside">FGADKAWEEINRGGIIKV</span><span class="topo-membrane">PRIYYYVMRYITPAFLAVLLVVWAR</span><span class="topo-inside">EYIPKIMEETH</span></span>
+<span class="topo-ruler">       490       500       510         </span>
 <span class="topo-line"><span class="topo-inside">WTV</span><span class="topo-membrane">WITRFYIIGLFLFLTFLVF</span><span class="topo-outside">LAERRRNHESAGT</span><span class="topo-unknown">LVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (29 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -11391,6 +11513,7 @@ LeuT is a bacterial amino acid transporter from Aquifex aeolicus that belongs to
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -11406,15 +11529,17 @@ LeuT is a bacterial amino acid transporter from Aquifex aeolicus that belongs to
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MEVK</span><span class="topo-outside">REHWATRL</span><span class="topo-membrane">GLILAMAGNAVGLGNFLRFP</span><span class="topo-inside">VQAAENGGGAF</span><span class="topo-membrane">MIPYIIAFLLVGIPLMW</span></span>
-<span class="topo-line"><span class="topo-membrane">IEW</span><span class="topo-outside">AMGRYGGAQGHGTTPAIFYLLWRNRF</span><span class="topo-membrane">AKILGVFGLWIPLVVAIYYVYIESWTLGFAI</span></span>
-<span class="topo-line"><span class="topo-membrane">KFLV</span><span class="topo-inside">GLVPEPPP</span><span class="topo-unknown">NA</span><span class="topo-inside">TDPDSILRPFKEFLYSYIGVPKGDEPILKPSL</span><span class="topo-membrane">FAYIVFLITMFINV</span></span>
-<span class="topo-line"><span class="topo-membrane">SILI</span><span class="topo-outside">RGISKG</span><span class="topo-membrane">IERFAKIAMPTLFILAVFLVIR</span><span class="topo-inside">VFLLETPNGT</span><span class="topo-unknown">AADGLNFL</span><span class="topo-inside">WTPDFEKLKD</span></span>
-<span class="topo-line"><span class="topo-inside">P</span><span class="topo-membrane">GVWIAAVGQIFFTLSLGFGAIITY</span><span class="topo-outside">ASYVRKDQDIVL</span><span class="topo-membrane">SGLTAATLNEKAEVILGGSI</span><span class="topo-inside">SIP</span></span>
-<span class="topo-line"><span class="topo-inside">AAVAFFGVANAVAIAKAGAFNLGFI</span><span class="topo-unknown">TLPAIF</span><span class="topo-inside">SQTAGGTF</span><span class="topo-membrane">LGFLWFFLLFFAGLTSSIAIM</span></span>
-<span class="topo-line"><span class="topo-membrane">QPMIAFL</span><span class="topo-outside">EDELKLSRKH</span><span class="topo-membrane">AVLWTAAIVFFSAHLVMFL</span><span class="topo-inside">NKS</span><span class="topo-membrane">LDEMDFWAGTIGVVFFGLTEL</span></span>
-<span class="topo-line"><span class="topo-membrane">IIFFWI</span><span class="topo-outside">FG</span><span class="topo-unknown">ADKAWEEIN</span><span class="topo-outside">RGGIIKV</span><span class="topo-membrane">PRIYYYVMRYITPAFLAVLLVVWAR</span><span class="topo-inside">EYIPKIMEETH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MEVK</span><span class="topo-outside">REHWATRL</span><span class="topo-membrane">GLILAMAGNAVGLGNFLRFP</span><span class="topo-inside">VQAAENGGGAF</span><span class="topo-membrane">MIPYIIAFLLVGIPLMWIEW</span><span class="topo-outside">AMGRYGGAQGHGTTPAIFYLLWRNRF</span><span class="topo-membrane">AKILGVFGLWIPLVVAIYYVYIESWTLGFAI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">KFLV</span><span class="topo-inside">GLVPEPPP</span><span class="topo-unknown">NA</span><span class="topo-inside">TDPDSILRPFKEFLYSYIGVPKGDEPILKPSL</span><span class="topo-membrane">FAYIVFLITMFINVSILI</span><span class="topo-outside">RGISKG</span><span class="topo-membrane">IERFAKIAMPTLFILAVFLVIR</span><span class="topo-inside">VFLLETPNGT</span><span class="topo-unknown">AADGLNFL</span><span class="topo-inside">WTPDFEKLKD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">P</span><span class="topo-membrane">GVWIAAVGQIFFTLSLGFGAIITY</span><span class="topo-outside">ASYVRKDQDIVL</span><span class="topo-membrane">SGLTAATLNEKAEVILGGSI</span><span class="topo-inside">SIPAAVAFFGVANAVAIAKAGAFNLGFI</span><span class="topo-unknown">TLPAIF</span><span class="topo-inside">SQTAGGTF</span><span class="topo-membrane">LGFLWFFLLFFAGLTSSIAIM</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">QPMIAFL</span><span class="topo-outside">EDELKLSRKH</span><span class="topo-membrane">AVLWTAAIVFFSAHLVMFL</span><span class="topo-inside">NKS</span><span class="topo-membrane">LDEMDFWAGTIGVVFFGLTELIIFFWI</span><span class="topo-outside">FG</span><span class="topo-unknown">ADKAWEEIN</span><span class="topo-outside">RGGIIKV</span><span class="topo-membrane">PRIYYYVMRYITPAFLAVLLVVWAR</span><span class="topo-inside">EYIPKIMEETH</span></span>
+<span class="topo-ruler">       490       500       510         </span>
 <span class="topo-line"><span class="topo-inside">WTV</span><span class="topo-membrane">WITRFYIIGLFLFLTFLVF</span><span class="topo-outside">LAERRRNHESAGTA</span><span class="topo-unknown">VPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (35 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -11671,6 +11796,7 @@ LeuT is a bacterial amino acid transporter from Aquifex aeolicus that belongs to
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -11686,15 +11812,17 @@ LeuT is a bacterial amino acid transporter from Aquifex aeolicus that belongs to
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MEVK</span><span class="topo-outside">REHWATRL</span><span class="topo-membrane">GLILAMAGNAVGLGNFLRFP</span><span class="topo-inside">VQAAENGGGAF</span><span class="topo-membrane">MIPYIIAFLLVGIPLMW</span></span>
-<span class="topo-line"><span class="topo-membrane">IEW</span><span class="topo-outside">AMGRYGGAQGHGTTPAIFYLLWRNRF</span><span class="topo-membrane">AKILGVFGLWIPLVVAIYYVYIESWTLGFAI</span></span>
-<span class="topo-line"><span class="topo-membrane">KFLV</span><span class="topo-inside">GLVPEPPP</span><span class="topo-unknown">NA</span><span class="topo-inside">TDPDSILRPFKEFLYSYIGVPKGDEPILKPSL</span><span class="topo-membrane">FAYIVFLITMFINV</span></span>
-<span class="topo-line"><span class="topo-membrane">SILI</span><span class="topo-outside">RGISKG</span><span class="topo-membrane">IERFAKIAMPTLFILAVFLVIR</span><span class="topo-inside">VFLLETPNGT</span><span class="topo-unknown">AADGLNFL</span><span class="topo-inside">WTPDFEKLKD</span></span>
-<span class="topo-line"><span class="topo-inside">P</span><span class="topo-membrane">GVWIAAVGQIFFTLSLGFGAIITY</span><span class="topo-outside">ASYVRKDQDIVL</span><span class="topo-membrane">SGLTAATLNEKAEVILGGSI</span><span class="topo-inside">SIP</span></span>
-<span class="topo-line"><span class="topo-inside">AAVAFFGVANAVAIAKAGAFNLGFI</span><span class="topo-unknown">TLPAIF</span><span class="topo-inside">SQTAGGTF</span><span class="topo-membrane">LGFLWFFLLFFAGLTSSIAIM</span></span>
-<span class="topo-line"><span class="topo-membrane">QPMIAFL</span><span class="topo-outside">EDELKLSRKH</span><span class="topo-membrane">AVLWTAAIVFFSAHLVMFL</span><span class="topo-inside">NKS</span><span class="topo-membrane">LDEMDFWAGTIGVVFFGLTEL</span></span>
-<span class="topo-line"><span class="topo-membrane">IIFFWI</span><span class="topo-outside">FG</span><span class="topo-unknown">ADKAWEEIN</span><span class="topo-outside">RGGIIKV</span><span class="topo-membrane">PRIYYYVMRYITPAFLAVLLVVWAR</span><span class="topo-inside">EYIPKIMEETH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MEVK</span><span class="topo-outside">REHWATRL</span><span class="topo-membrane">GLILAMAGNAVGLGNFLRFP</span><span class="topo-inside">VQAAENGGGAF</span><span class="topo-membrane">MIPYIIAFLLVGIPLMWIEW</span><span class="topo-outside">AMGRYGGAQGHGTTPAIFYLLWRNRF</span><span class="topo-membrane">AKILGVFGLWIPLVVAIYYVYIESWTLGFAI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">KFLV</span><span class="topo-inside">GLVPEPPP</span><span class="topo-unknown">NA</span><span class="topo-inside">TDPDSILRPFKEFLYSYIGVPKGDEPILKPSL</span><span class="topo-membrane">FAYIVFLITMFINVSILI</span><span class="topo-outside">RGISKG</span><span class="topo-membrane">IERFAKIAMPTLFILAVFLVIR</span><span class="topo-inside">VFLLETPNGT</span><span class="topo-unknown">AADGLNFL</span><span class="topo-inside">WTPDFEKLKD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">P</span><span class="topo-membrane">GVWIAAVGQIFFTLSLGFGAIITY</span><span class="topo-outside">ASYVRKDQDIVL</span><span class="topo-membrane">SGLTAATLNEKAEVILGGSI</span><span class="topo-inside">SIPAAVAFFGVANAVAIAKAGAFNLGFI</span><span class="topo-unknown">TLPAIF</span><span class="topo-inside">SQTAGGTF</span><span class="topo-membrane">LGFLWFFLLFFAGLTSSIAIM</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">QPMIAFL</span><span class="topo-outside">EDELKLSRKH</span><span class="topo-membrane">AVLWTAAIVFFSAHLVMFL</span><span class="topo-inside">NKS</span><span class="topo-membrane">LDEMDFWAGTIGVVFFGLTELIIFFWI</span><span class="topo-outside">FG</span><span class="topo-unknown">ADKAWEEIN</span><span class="topo-outside">RGGIIKV</span><span class="topo-membrane">PRIYYYVMRYITPAFLAVLLVVWAR</span><span class="topo-inside">EYIPKIMEETH</span></span>
+<span class="topo-ruler">       490       500       510         </span>
 <span class="topo-line"><span class="topo-inside">WTV</span><span class="topo-membrane">WITRFYIIGLFLFLTFLVF</span><span class="topo-outside">LAERRRNHESAGTA</span><span class="topo-unknown">VPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (35 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -11951,6 +12079,7 @@ LeuT is a bacterial amino acid transporter from Aquifex aeolicus that belongs to
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -11966,15 +12095,17 @@ LeuT is a bacterial amino acid transporter from Aquifex aeolicus that belongs to
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MEVK</span><span class="topo-outside">REHWATRL</span><span class="topo-membrane">GLILAMAGNAVGLGNFLRFPVQA</span><span class="topo-inside">AENGGGAF</span><span class="topo-membrane">MIPYIIAFLLVGIPLMW</span></span>
-<span class="topo-line"><span class="topo-membrane">IEW</span><span class="topo-outside">AMGRYGGAQGHGTTPAIFYLLWRNR</span><span class="topo-membrane">FAKILGVFGLWIPLVVAIYYVYIESWTLGFAI</span></span>
-<span class="topo-line"><span class="topo-membrane">KFLV</span><span class="topo-inside">GLVPEPPP</span><span class="topo-unknown">NA</span><span class="topo-inside">TDPDSILRPFKEFLYSYIGVPKGDEPILKPSL</span><span class="topo-membrane">FAYIVFLITMFINV</span></span>
-<span class="topo-line"><span class="topo-membrane">SILIR</span><span class="topo-outside">GISKG</span><span class="topo-membrane">IERFAKIAMPTLFILAVFLVIR</span><span class="topo-inside">VFLLETPNGTAADGLNFLWTPDFEKLKD</span></span>
-<span class="topo-line"><span class="topo-inside">P</span><span class="topo-membrane">GVWIAAVGQIFFTLSLGFGAIITYA</span><span class="topo-outside">SYVRKDQDIV</span><span class="topo-membrane">LSGLTAATLNEKAEVILGGSIS</span><span class="topo-inside">IP</span></span>
-<span class="topo-line"><span class="topo-inside">AAVAFFGVANAVAIAKAGAFNLGFITLPAIFSQTAGGTF</span><span class="topo-membrane">LGFLWFFLLFFAGLTSSIAIM</span></span>
-<span class="topo-line"><span class="topo-membrane">QPMIAFL</span><span class="topo-outside">EDELKLSRKH</span><span class="topo-membrane">AVLWTAAIVFFSAHLVMFL</span><span class="topo-inside">NKS</span><span class="topo-membrane">LDEMDFWAGTIGVVFFGLTEL</span></span>
-<span class="topo-line"><span class="topo-membrane">IIFFWI</span><span class="topo-outside">FGADKAWEEINRGGIIKV</span><span class="topo-membrane">PRIYYYVMRYITPAFLAVLLVVWAR</span><span class="topo-inside">EYIPKIMEETH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MEVK</span><span class="topo-outside">REHWATRL</span><span class="topo-membrane">GLILAMAGNAVGLGNFLRFPVQA</span><span class="topo-inside">AENGGGAF</span><span class="topo-membrane">MIPYIIAFLLVGIPLMWIEW</span><span class="topo-outside">AMGRYGGAQGHGTTPAIFYLLWRNR</span><span class="topo-membrane">FAKILGVFGLWIPLVVAIYYVYIESWTLGFAI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">KFLV</span><span class="topo-inside">GLVPEPPP</span><span class="topo-unknown">NA</span><span class="topo-inside">TDPDSILRPFKEFLYSYIGVPKGDEPILKPSL</span><span class="topo-membrane">FAYIVFLITMFINVSILIR</span><span class="topo-outside">GISKG</span><span class="topo-membrane">IERFAKIAMPTLFILAVFLVIR</span><span class="topo-inside">VFLLETPNGTAADGLNFLWTPDFEKLKD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">P</span><span class="topo-membrane">GVWIAAVGQIFFTLSLGFGAIITYA</span><span class="topo-outside">SYVRKDQDIV</span><span class="topo-membrane">LSGLTAATLNEKAEVILGGSIS</span><span class="topo-inside">IPAAVAFFGVANAVAIAKAGAFNLGFITLPAIFSQTAGGTF</span><span class="topo-membrane">LGFLWFFLLFFAGLTSSIAIM</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">QPMIAFL</span><span class="topo-outside">EDELKLSRKH</span><span class="topo-membrane">AVLWTAAIVFFSAHLVMFL</span><span class="topo-inside">NKS</span><span class="topo-membrane">LDEMDFWAGTIGVVFFGLTELIIFFWI</span><span class="topo-outside">FGADKAWEEINRGGIIKV</span><span class="topo-membrane">PRIYYYVMRYITPAFLAVLLVVWAR</span><span class="topo-inside">EYIPKIMEETH</span></span>
+<span class="topo-ruler">       490       500       510         </span>
 <span class="topo-line"><span class="topo-inside">WTV</span><span class="topo-membrane">WITRFYIIGLFLFLTFLVF</span><span class="topo-outside">LAERRRNHESAGT</span><span class="topo-unknown">LVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (29 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -12189,6 +12320,7 @@ LeuT is a bacterial amino acid transporter from Aquifex aeolicus that belongs to
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -12204,15 +12336,17 @@ LeuT is a bacterial amino acid transporter from Aquifex aeolicus that belongs to
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MEVK</span><span class="topo-outside">REHWATRL</span><span class="topo-membrane">GLILAMAGNAVGLGNFLRFPVQA</span><span class="topo-inside">AENGGGAF</span><span class="topo-membrane">MIPYIIAFLLVGIPLMW</span></span>
-<span class="topo-line"><span class="topo-membrane">IEW</span><span class="topo-outside">AMGRYGGAQGHGTTPAIFYLLWRNR</span><span class="topo-membrane">FAKILGVFGLWIPLVVAIYYVYIESWTLGFAI</span></span>
-<span class="topo-line"><span class="topo-membrane">KFLV</span><span class="topo-inside">GLVPEPPP</span><span class="topo-unknown">NA</span><span class="topo-inside">TDPDSILRPFKEFLYSYIGVPKGDEPILKPSL</span><span class="topo-membrane">FAYIVFLITMFINV</span></span>
-<span class="topo-line"><span class="topo-membrane">SILIR</span><span class="topo-outside">GISKG</span><span class="topo-membrane">IERFAKIAMPTLFILAVFLVIR</span><span class="topo-inside">VFLLETPNGTAADGLNFLWTPDFEKLKD</span></span>
-<span class="topo-line"><span class="topo-inside">P</span><span class="topo-membrane">GVWIAAVGQIFFTLSLGFGAIITYA</span><span class="topo-outside">SYVRKDQDIV</span><span class="topo-membrane">LSGLTAATLNEKAEVILGGSIS</span><span class="topo-inside">IP</span></span>
-<span class="topo-line"><span class="topo-inside">AAVAFFGVANAVAIAKAGAFNLGFITLPAIFSQTAGGTF</span><span class="topo-membrane">LGFLWFFLLFFAGLTSSIAIM</span></span>
-<span class="topo-line"><span class="topo-membrane">QPMIAFL</span><span class="topo-outside">EDELKLSRKH</span><span class="topo-membrane">AVLWTAAIVFFSAHLVMFL</span><span class="topo-inside">NKS</span><span class="topo-membrane">LDEMDFWAGTIGVVFFGLTEL</span></span>
-<span class="topo-line"><span class="topo-membrane">IIFFWI</span><span class="topo-outside">FGADKAWEEINRGGIIKV</span><span class="topo-membrane">PRIYYYVMRYITPAFLAVLLVVWAR</span><span class="topo-inside">EYIPKIMEETH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MEVK</span><span class="topo-outside">REHWATRL</span><span class="topo-membrane">GLILAMAGNAVGLGNFLRFPVQA</span><span class="topo-inside">AENGGGAF</span><span class="topo-membrane">MIPYIIAFLLVGIPLMWIEW</span><span class="topo-outside">AMGRYGGAQGHGTTPAIFYLLWRNR</span><span class="topo-membrane">FAKILGVFGLWIPLVVAIYYVYIESWTLGFAI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">KFLV</span><span class="topo-inside">GLVPEPPP</span><span class="topo-unknown">NA</span><span class="topo-inside">TDPDSILRPFKEFLYSYIGVPKGDEPILKPSL</span><span class="topo-membrane">FAYIVFLITMFINVSILIR</span><span class="topo-outside">GISKG</span><span class="topo-membrane">IERFAKIAMPTLFILAVFLVIR</span><span class="topo-inside">VFLLETPNGTAADGLNFLWTPDFEKLKD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">P</span><span class="topo-membrane">GVWIAAVGQIFFTLSLGFGAIITYA</span><span class="topo-outside">SYVRKDQDIV</span><span class="topo-membrane">LSGLTAATLNEKAEVILGGSIS</span><span class="topo-inside">IPAAVAFFGVANAVAIAKAGAFNLGFITLPAIFSQTAGGTF</span><span class="topo-membrane">LGFLWFFLLFFAGLTSSIAIM</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">QPMIAFL</span><span class="topo-outside">EDELKLSRKH</span><span class="topo-membrane">AVLWTAAIVFFSAHLVMFL</span><span class="topo-inside">NKS</span><span class="topo-membrane">LDEMDFWAGTIGVVFFGLTELIIFFWI</span><span class="topo-outside">FGADKAWEEINRGGIIKV</span><span class="topo-membrane">PRIYYYVMRYITPAFLAVLLVVWAR</span><span class="topo-inside">EYIPKIMEETH</span></span>
+<span class="topo-ruler">       490       500       510         </span>
 <span class="topo-line"><span class="topo-inside">WTV</span><span class="topo-membrane">WITRFYIIGLFLFLTFLVF</span><span class="topo-outside">LAERRRNHESAGT</span><span class="topo-unknown">LVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (29 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -12427,6 +12561,7 @@ LeuT is a bacterial amino acid transporter from Aquifex aeolicus that belongs to
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -12442,15 +12577,17 @@ LeuT is a bacterial amino acid transporter from Aquifex aeolicus that belongs to
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MEVK</span><span class="topo-outside">REHWATRL</span><span class="topo-membrane">GLILAMAGNAVGLGNFLRFP</span><span class="topo-inside">VQAAENGGGAF</span><span class="topo-membrane">MIPYIIAFLLVGIPLMW</span></span>
-<span class="topo-line"><span class="topo-membrane">IEW</span><span class="topo-outside">AMGRYGGAQGHGTTPAIFYLLWRNR</span><span class="topo-membrane">FAKILGVFGLWIPLVVAIYYVYIESWTLGFAI</span></span>
-<span class="topo-line"><span class="topo-membrane">KFLV</span><span class="topo-inside">GLVPEPPP</span><span class="topo-unknown">NA</span><span class="topo-inside">TDPDSILRPFKEFLYSYIGVPKGDEPILKPSL</span><span class="topo-membrane">FAYIVFLITMFINV</span></span>
-<span class="topo-line"><span class="topo-membrane">SILIR</span><span class="topo-outside">GISKG</span><span class="topo-membrane">IERFAKIAMPTLFILAVFLVIR</span><span class="topo-inside">VFLLETPNGT</span><span class="topo-unknown">AADGLNFL</span><span class="topo-inside">WTPDFEKLKD</span></span>
-<span class="topo-line"><span class="topo-inside">PGV</span><span class="topo-membrane">WIAAVGQIFFTLSLGFGAIITYA</span><span class="topo-outside">SYVRKDQDIV</span><span class="topo-membrane">LSGLTAATLNEKAEVILGGSI</span><span class="topo-inside">SIP</span></span>
-<span class="topo-line"><span class="topo-inside">AAVAFFGVANAVAIAKAG</span><span class="topo-unknown">AFNLGF</span><span class="topo-inside">I</span><span class="topo-unknown">TLPAIF</span><span class="topo-inside">SQTAGGTF</span><span class="topo-membrane">LGFLWFFLLFFAGLTSSIAIM</span></span>
-<span class="topo-line"><span class="topo-membrane">QPMIAFL</span><span class="topo-outside">EDELKLSRKH</span><span class="topo-membrane">AVLWTAAIVFFSAHLVMFL</span><span class="topo-inside">NKS</span><span class="topo-membrane">LDEMDFWAGTIGVVFFGLTEL</span></span>
-<span class="topo-line"><span class="topo-membrane">IIFFWI</span><span class="topo-outside">FG</span><span class="topo-unknown">ADKAWEEIN</span><span class="topo-outside">RGGIIKV</span><span class="topo-membrane">PRIYYYVMRYITPAFLAVLLVVWAR</span><span class="topo-inside">EY</span><span class="topo-unknown">IPKIME</span><span class="topo-inside">ETH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MEVK</span><span class="topo-outside">REHWATRL</span><span class="topo-membrane">GLILAMAGNAVGLGNFLRFP</span><span class="topo-inside">VQAAENGGGAF</span><span class="topo-membrane">MIPYIIAFLLVGIPLMWIEW</span><span class="topo-outside">AMGRYGGAQGHGTTPAIFYLLWRNR</span><span class="topo-membrane">FAKILGVFGLWIPLVVAIYYVYIESWTLGFAI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">KFLV</span><span class="topo-inside">GLVPEPPP</span><span class="topo-unknown">NA</span><span class="topo-inside">TDPDSILRPFKEFLYSYIGVPKGDEPILKPSL</span><span class="topo-membrane">FAYIVFLITMFINVSILIR</span><span class="topo-outside">GISKG</span><span class="topo-membrane">IERFAKIAMPTLFILAVFLVIR</span><span class="topo-inside">VFLLETPNGT</span><span class="topo-unknown">AADGLNFL</span><span class="topo-inside">WTPDFEKLKD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">PGV</span><span class="topo-membrane">WIAAVGQIFFTLSLGFGAIITYA</span><span class="topo-outside">SYVRKDQDIV</span><span class="topo-membrane">LSGLTAATLNEKAEVILGGSI</span><span class="topo-inside">SIPAAVAFFGVANAVAIAKAG</span><span class="topo-unknown">AFNLGF</span><span class="topo-inside">I</span><span class="topo-unknown">TLPAIF</span><span class="topo-inside">SQTAGGTF</span><span class="topo-membrane">LGFLWFFLLFFAGLTSSIAIM</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">QPMIAFL</span><span class="topo-outside">EDELKLSRKH</span><span class="topo-membrane">AVLWTAAIVFFSAHLVMFL</span><span class="topo-inside">NKS</span><span class="topo-membrane">LDEMDFWAGTIGVVFFGLTELIIFFWI</span><span class="topo-outside">FG</span><span class="topo-unknown">ADKAWEEIN</span><span class="topo-outside">RGGIIKV</span><span class="topo-membrane">PRIYYYVMRYITPAFLAVLLVVWAR</span><span class="topo-inside">EY</span><span class="topo-unknown">IPKIME</span><span class="topo-inside">ETH</span></span>
+<span class="topo-ruler">       490       500       510         </span>
 <span class="topo-line"><span class="topo-inside">WTV</span><span class="topo-membrane">WITRFYIIGLFLFLTFLVF</span><span class="topo-outside">LAERRRNHESAGTM</span><span class="topo-unknown">VPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (39 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -12735,6 +12872,7 @@ LeuT is a bacterial amino acid transporter from Aquifex aeolicus that belongs to
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -12750,15 +12888,17 @@ LeuT is a bacterial amino acid transporter from Aquifex aeolicus that belongs to
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MEVK</span><span class="topo-outside">REHWATRL</span><span class="topo-membrane">GLILAMAGNAVGLGNFLRFP</span><span class="topo-inside">VQAAENGGGAF</span><span class="topo-membrane">MIPYIIAFLLVGIPLMW</span></span>
-<span class="topo-line"><span class="topo-membrane">IEW</span><span class="topo-outside">AMGRYGGAQGHGTTPAIFYLLWRNR</span><span class="topo-membrane">FAKILGVFGLWIPLVVAIYYVYIESWTLGFAI</span></span>
-<span class="topo-line"><span class="topo-membrane">KFLV</span><span class="topo-inside">GLVPEPPP</span><span class="topo-unknown">NA</span><span class="topo-inside">TDPDSILRPFKEFLYSYIGVPKGDEPILKPSL</span><span class="topo-membrane">FAYIVFLITMFINV</span></span>
-<span class="topo-line"><span class="topo-membrane">SILIR</span><span class="topo-outside">GISKG</span><span class="topo-membrane">IERFAKIAMPTLFILAVFLVIR</span><span class="topo-inside">VFLLETPNGT</span><span class="topo-unknown">AADGLNFL</span><span class="topo-inside">WTPDFEKLKD</span></span>
-<span class="topo-line"><span class="topo-inside">PGV</span><span class="topo-membrane">WIAAVGQIFFTLSLGFGAIITYA</span><span class="topo-outside">SYVRKDQDIV</span><span class="topo-membrane">LSGLTAATLNEKAEVILGGSI</span><span class="topo-inside">SIP</span></span>
-<span class="topo-line"><span class="topo-inside">AAVAFFGVANAVAIAKAG</span><span class="topo-unknown">AFNLGF</span><span class="topo-inside">I</span><span class="topo-unknown">TLPAIF</span><span class="topo-inside">SQTAGGTF</span><span class="topo-membrane">LGFLWFFLLFFAGLTSSIAIM</span></span>
-<span class="topo-line"><span class="topo-membrane">QPMIAFL</span><span class="topo-outside">EDELKLSRKH</span><span class="topo-membrane">AVLWTAAIVFFSAHLVMFL</span><span class="topo-inside">NKS</span><span class="topo-membrane">LDEMDFWAGTIGVVFFGLTEL</span></span>
-<span class="topo-line"><span class="topo-membrane">IIFFWI</span><span class="topo-outside">FG</span><span class="topo-unknown">ADKAWEEIN</span><span class="topo-outside">RGGIIKV</span><span class="topo-membrane">PRIYYYVMRYITPAFLAVLLVVWAR</span><span class="topo-inside">EY</span><span class="topo-unknown">IPKIME</span><span class="topo-inside">ETH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MEVK</span><span class="topo-outside">REHWATRL</span><span class="topo-membrane">GLILAMAGNAVGLGNFLRFP</span><span class="topo-inside">VQAAENGGGAF</span><span class="topo-membrane">MIPYIIAFLLVGIPLMWIEW</span><span class="topo-outside">AMGRYGGAQGHGTTPAIFYLLWRNR</span><span class="topo-membrane">FAKILGVFGLWIPLVVAIYYVYIESWTLGFAI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">KFLV</span><span class="topo-inside">GLVPEPPP</span><span class="topo-unknown">NA</span><span class="topo-inside">TDPDSILRPFKEFLYSYIGVPKGDEPILKPSL</span><span class="topo-membrane">FAYIVFLITMFINVSILIR</span><span class="topo-outside">GISKG</span><span class="topo-membrane">IERFAKIAMPTLFILAVFLVIR</span><span class="topo-inside">VFLLETPNGT</span><span class="topo-unknown">AADGLNFL</span><span class="topo-inside">WTPDFEKLKD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">PGV</span><span class="topo-membrane">WIAAVGQIFFTLSLGFGAIITYA</span><span class="topo-outside">SYVRKDQDIV</span><span class="topo-membrane">LSGLTAATLNEKAEVILGGSI</span><span class="topo-inside">SIPAAVAFFGVANAVAIAKAG</span><span class="topo-unknown">AFNLGF</span><span class="topo-inside">I</span><span class="topo-unknown">TLPAIF</span><span class="topo-inside">SQTAGGTF</span><span class="topo-membrane">LGFLWFFLLFFAGLTSSIAIM</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">QPMIAFL</span><span class="topo-outside">EDELKLSRKH</span><span class="topo-membrane">AVLWTAAIVFFSAHLVMFL</span><span class="topo-inside">NKS</span><span class="topo-membrane">LDEMDFWAGTIGVVFFGLTELIIFFWI</span><span class="topo-outside">FG</span><span class="topo-unknown">ADKAWEEIN</span><span class="topo-outside">RGGIIKV</span><span class="topo-membrane">PRIYYYVMRYITPAFLAVLLVVWAR</span><span class="topo-inside">EY</span><span class="topo-unknown">IPKIME</span><span class="topo-inside">ETH</span></span>
+<span class="topo-ruler">       490       500       510         </span>
 <span class="topo-line"><span class="topo-inside">WTV</span><span class="topo-membrane">WITRFYIIGLFLFLTFLVF</span><span class="topo-outside">LAERRRNHESAGTM</span><span class="topo-unknown">VPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (39 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -13043,6 +13183,7 @@ LeuT is a bacterial amino acid transporter from Aquifex aeolicus that belongs to
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -13058,15 +13199,17 @@ LeuT is a bacterial amino acid transporter from Aquifex aeolicus that belongs to
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MEVK</span><span class="topo-outside">REHWATRL</span><span class="topo-membrane">GLILAMAGNAVGLGNFLRFP</span><span class="topo-inside">VQAAENGGGAF</span><span class="topo-membrane">MIPYIIAFLLVGIPLMW</span></span>
-<span class="topo-line"><span class="topo-membrane">IEW</span><span class="topo-outside">AMGRYGGAQGHGTTPAIFYLLWRNRF</span><span class="topo-membrane">AKILGVFGLWIPLVVAIYYVYIESWTLGFAI</span></span>
-<span class="topo-line"><span class="topo-membrane">KFLV</span><span class="topo-inside">GLVPEPPP</span><span class="topo-unknown">NA</span><span class="topo-inside">TDPDSILRPFKEFLYSYIGVPKGDEPILKPSL</span><span class="topo-membrane">FAYIVFLITMFINV</span></span>
-<span class="topo-line"><span class="topo-membrane">SILI</span><span class="topo-outside">RGISKG</span><span class="topo-membrane">IERFAKIAMPTLFILAVFLVIR</span><span class="topo-inside">VFLLETPNGTAADGLNFLWTPDFEKLKD</span></span>
-<span class="topo-line"><span class="topo-inside">P</span><span class="topo-membrane">GVWIAAVGQIFFTLSLGFGAIITY</span><span class="topo-outside">ASYVRKDQDIVL</span><span class="topo-membrane">SGLTAATLNEKAEVILGGSI</span><span class="topo-inside">SIP</span></span>
-<span class="topo-line"><span class="topo-inside">AAVAFFGVANAVAIAKAGAFNLGFITLPAIFSQTAGGTF</span><span class="topo-membrane">LGFLWFFLLFFAGLTSSIAIM</span></span>
-<span class="topo-line"><span class="topo-membrane">QPMIAFL</span><span class="topo-outside">EDELKLSRKH</span><span class="topo-membrane">AVLWTAAIVFFSAHLVMFL</span><span class="topo-inside">NKS</span><span class="topo-membrane">LDEMDFWAGTIGVVFFGLTEL</span></span>
-<span class="topo-line"><span class="topo-membrane">IIFFWI</span><span class="topo-outside">FGADKAWEEINRGGIIKV</span><span class="topo-membrane">PRIYYYVMRYITPAFLAVLLVVWAR</span><span class="topo-inside">EYIPKIMEETH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MEVK</span><span class="topo-outside">REHWATRL</span><span class="topo-membrane">GLILAMAGNAVGLGNFLRFP</span><span class="topo-inside">VQAAENGGGAF</span><span class="topo-membrane">MIPYIIAFLLVGIPLMWIEW</span><span class="topo-outside">AMGRYGGAQGHGTTPAIFYLLWRNRF</span><span class="topo-membrane">AKILGVFGLWIPLVVAIYYVYIESWTLGFAI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">KFLV</span><span class="topo-inside">GLVPEPPP</span><span class="topo-unknown">NA</span><span class="topo-inside">TDPDSILRPFKEFLYSYIGVPKGDEPILKPSL</span><span class="topo-membrane">FAYIVFLITMFINVSILI</span><span class="topo-outside">RGISKG</span><span class="topo-membrane">IERFAKIAMPTLFILAVFLVIR</span><span class="topo-inside">VFLLETPNGTAADGLNFLWTPDFEKLKD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">P</span><span class="topo-membrane">GVWIAAVGQIFFTLSLGFGAIITY</span><span class="topo-outside">ASYVRKDQDIVL</span><span class="topo-membrane">SGLTAATLNEKAEVILGGSI</span><span class="topo-inside">SIPAAVAFFGVANAVAIAKAGAFNLGFITLPAIFSQTAGGTF</span><span class="topo-membrane">LGFLWFFLLFFAGLTSSIAIM</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">QPMIAFL</span><span class="topo-outside">EDELKLSRKH</span><span class="topo-membrane">AVLWTAAIVFFSAHLVMFL</span><span class="topo-inside">NKS</span><span class="topo-membrane">LDEMDFWAGTIGVVFFGLTELIIFFWI</span><span class="topo-outside">FGADKAWEEINRGGIIKV</span><span class="topo-membrane">PRIYYYVMRYITPAFLAVLLVVWAR</span><span class="topo-inside">EYIPKIMEETH</span></span>
+<span class="topo-ruler">       490       500       510         </span>
 <span class="topo-line"><span class="topo-inside">WTV</span><span class="topo-membrane">WITRFYIIGLFLFLTFLVF</span><span class="topo-outside">LAERRRNHESAGT</span><span class="topo-unknown">LVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (29 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -13281,6 +13424,7 @@ LeuT is a bacterial amino acid transporter from Aquifex aeolicus that belongs to
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -13296,15 +13440,17 @@ LeuT is a bacterial amino acid transporter from Aquifex aeolicus that belongs to
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MEVK</span><span class="topo-outside">REHWATRL</span><span class="topo-membrane">GLILAMAGNAVGLGNFLRFP</span><span class="topo-inside">VQAAENGGGAF</span><span class="topo-membrane">MIPYIIAFLLVGIPLMW</span></span>
-<span class="topo-line"><span class="topo-membrane">IEW</span><span class="topo-outside">AMGRYGGAQGHGTTPAIFYLLWRNRF</span><span class="topo-membrane">AKILGVFGLWIPLVVAIYYVYIESWTLGFAI</span></span>
-<span class="topo-line"><span class="topo-membrane">KFLV</span><span class="topo-inside">GLVPEPPP</span><span class="topo-unknown">NA</span><span class="topo-inside">TDPDSILRPFKEFLYSYIGVPKGDEPILKPSL</span><span class="topo-membrane">FAYIVFLITMFINV</span></span>
-<span class="topo-line"><span class="topo-membrane">SILI</span><span class="topo-outside">RGISKG</span><span class="topo-membrane">IERFAKIAMPTLFILAVFLVIR</span><span class="topo-inside">VFLLETPNGTAADGLNFLWTPDFEKLKD</span></span>
-<span class="topo-line"><span class="topo-inside">P</span><span class="topo-membrane">GVWIAAVGQIFFTLSLGFGAIITY</span><span class="topo-outside">ASYVRKDQDIVL</span><span class="topo-membrane">SGLTAATLNEKAEVILGGSI</span><span class="topo-inside">SIP</span></span>
-<span class="topo-line"><span class="topo-inside">AAVAFFGVANAVAIAKAGAFNLGFITLPAIFSQTAGGTF</span><span class="topo-membrane">LGFLWFFLLFFAGLTSSIAIM</span></span>
-<span class="topo-line"><span class="topo-membrane">QPMIAFL</span><span class="topo-outside">EDELKLSRKH</span><span class="topo-membrane">AVLWTAAIVFFSAHLVMFL</span><span class="topo-inside">NKS</span><span class="topo-membrane">LDEMDFWAGTIGVVFFGLTEL</span></span>
-<span class="topo-line"><span class="topo-membrane">IIFFWI</span><span class="topo-outside">FGADKAWEEINRGGIIKV</span><span class="topo-membrane">PRIYYYVMRYITPAFLAVLLVVWAR</span><span class="topo-inside">EYIPKIMEETH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MEVK</span><span class="topo-outside">REHWATRL</span><span class="topo-membrane">GLILAMAGNAVGLGNFLRFP</span><span class="topo-inside">VQAAENGGGAF</span><span class="topo-membrane">MIPYIIAFLLVGIPLMWIEW</span><span class="topo-outside">AMGRYGGAQGHGTTPAIFYLLWRNRF</span><span class="topo-membrane">AKILGVFGLWIPLVVAIYYVYIESWTLGFAI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">KFLV</span><span class="topo-inside">GLVPEPPP</span><span class="topo-unknown">NA</span><span class="topo-inside">TDPDSILRPFKEFLYSYIGVPKGDEPILKPSL</span><span class="topo-membrane">FAYIVFLITMFINVSILI</span><span class="topo-outside">RGISKG</span><span class="topo-membrane">IERFAKIAMPTLFILAVFLVIR</span><span class="topo-inside">VFLLETPNGTAADGLNFLWTPDFEKLKD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">P</span><span class="topo-membrane">GVWIAAVGQIFFTLSLGFGAIITY</span><span class="topo-outside">ASYVRKDQDIVL</span><span class="topo-membrane">SGLTAATLNEKAEVILGGSI</span><span class="topo-inside">SIPAAVAFFGVANAVAIAKAGAFNLGFITLPAIFSQTAGGTF</span><span class="topo-membrane">LGFLWFFLLFFAGLTSSIAIM</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">QPMIAFL</span><span class="topo-outside">EDELKLSRKH</span><span class="topo-membrane">AVLWTAAIVFFSAHLVMFL</span><span class="topo-inside">NKS</span><span class="topo-membrane">LDEMDFWAGTIGVVFFGLTELIIFFWI</span><span class="topo-outside">FGADKAWEEINRGGIIKV</span><span class="topo-membrane">PRIYYYVMRYITPAFLAVLLVVWAR</span><span class="topo-inside">EYIPKIMEETH</span></span>
+<span class="topo-ruler">       490       500       510         </span>
 <span class="topo-line"><span class="topo-inside">WTV</span><span class="topo-membrane">WITRFYIIGLFLFLTFLVF</span><span class="topo-outside">LAERRRNHESAGT</span><span class="topo-unknown">LVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (29 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -13519,6 +13665,7 @@ LeuT is a bacterial amino acid transporter from Aquifex aeolicus that belongs to
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -13534,15 +13681,17 @@ LeuT is a bacterial amino acid transporter from Aquifex aeolicus that belongs to
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MEVK</span><span class="topo-outside">REHWATRL</span><span class="topo-membrane">GLILAMAGNAVGLGNFLRFP</span><span class="topo-inside">VQAAENGGGAF</span><span class="topo-membrane">MIPYIIAFLLVGIPLMW</span></span>
-<span class="topo-line"><span class="topo-membrane">IEW</span><span class="topo-outside">AMGRYGGAQGHGTTPAIFYLLWRNRF</span><span class="topo-membrane">AKILGVFGLWIPLVVAIYYVYIESWTLGFAI</span></span>
-<span class="topo-line"><span class="topo-membrane">KFLV</span><span class="topo-inside">GLVPEPPP</span><span class="topo-unknown">NA</span><span class="topo-inside">TDPDSILRPFKEFLYSYIGVPKGDEPILKPSL</span><span class="topo-membrane">FAYIVFLITMFINV</span></span>
-<span class="topo-line"><span class="topo-membrane">SILIR</span><span class="topo-outside">GISKG</span><span class="topo-membrane">IERFAKIAMPTLFILAVFLVIR</span><span class="topo-inside">VFLLETPNGT</span><span class="topo-unknown">AADGLNFLW</span><span class="topo-inside">TPDFEKLKD</span></span>
-<span class="topo-line"><span class="topo-inside">PGV</span><span class="topo-membrane">WIAAVGQIFFTLSLGFGAIITY</span><span class="topo-outside">ASYVRKDQDIVL</span><span class="topo-membrane">SGLTAATLNEKAEVILGGSI</span><span class="topo-inside">SIP</span></span>
-<span class="topo-line"><span class="topo-inside">AAVAFFG</span><span class="topo-unknown">VANAVAIAKA</span><span class="topo-inside">GAFNLGFI</span><span class="topo-unknown">TLPAIF</span><span class="topo-inside">SQTAGGTF</span><span class="topo-membrane">LGFLWFFLLFFAGLTSSIAIM</span></span>
-<span class="topo-line"><span class="topo-membrane">QPMIAFL</span><span class="topo-outside">EDELKLSRKH</span><span class="topo-membrane">AVLWTAAIVFFSAHLVMFL</span><span class="topo-inside">NKS</span><span class="topo-membrane">LDEMDFWAGTIGVVFFGLTEL</span></span>
-<span class="topo-line"><span class="topo-membrane">IIFFWI</span><span class="topo-outside">FG</span><span class="topo-unknown">ADKAWEEIN</span><span class="topo-outside">RGGIIKV</span><span class="topo-membrane">PRIYYYVMRYITPAFLAVLLVVWAR</span><span class="topo-inside">EYIPKIMEETH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MEVK</span><span class="topo-outside">REHWATRL</span><span class="topo-membrane">GLILAMAGNAVGLGNFLRFP</span><span class="topo-inside">VQAAENGGGAF</span><span class="topo-membrane">MIPYIIAFLLVGIPLMWIEW</span><span class="topo-outside">AMGRYGGAQGHGTTPAIFYLLWRNRF</span><span class="topo-membrane">AKILGVFGLWIPLVVAIYYVYIESWTLGFAI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">KFLV</span><span class="topo-inside">GLVPEPPP</span><span class="topo-unknown">NA</span><span class="topo-inside">TDPDSILRPFKEFLYSYIGVPKGDEPILKPSL</span><span class="topo-membrane">FAYIVFLITMFINVSILIR</span><span class="topo-outside">GISKG</span><span class="topo-membrane">IERFAKIAMPTLFILAVFLVIR</span><span class="topo-inside">VFLLETPNGT</span><span class="topo-unknown">AADGLNFLW</span><span class="topo-inside">TPDFEKLKD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">PGV</span><span class="topo-membrane">WIAAVGQIFFTLSLGFGAIITY</span><span class="topo-outside">ASYVRKDQDIVL</span><span class="topo-membrane">SGLTAATLNEKAEVILGGSI</span><span class="topo-inside">SIPAAVAFFG</span><span class="topo-unknown">VANAVAIAKA</span><span class="topo-inside">GAFNLGFI</span><span class="topo-unknown">TLPAIF</span><span class="topo-inside">SQTAGGTF</span><span class="topo-membrane">LGFLWFFLLFFAGLTSSIAIM</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">QPMIAFL</span><span class="topo-outside">EDELKLSRKH</span><span class="topo-membrane">AVLWTAAIVFFSAHLVMFL</span><span class="topo-inside">NKS</span><span class="topo-membrane">LDEMDFWAGTIGVVFFGLTELIIFFWI</span><span class="topo-outside">FG</span><span class="topo-unknown">ADKAWEEIN</span><span class="topo-outside">RGGIIKV</span><span class="topo-membrane">PRIYYYVMRYITPAFLAVLLVVWAR</span><span class="topo-inside">EYIPKIMEETH</span></span>
+<span class="topo-ruler">       490       500       510         </span>
 <span class="topo-line"><span class="topo-inside">WTV</span><span class="topo-membrane">WITRFYIIGLFLFLTFLVF</span><span class="topo-outside">LAERRRNHESAGT</span><span class="topo-unknown">LVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (37 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -13813,6 +13962,7 @@ LeuT is a bacterial amino acid transporter from Aquifex aeolicus that belongs to
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -13828,15 +13978,17 @@ LeuT is a bacterial amino acid transporter from Aquifex aeolicus that belongs to
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MEVK</span><span class="topo-outside">REHWATRL</span><span class="topo-membrane">GLILAMAGNAVGLGNFLRFP</span><span class="topo-inside">VQAAENGGGAF</span><span class="topo-membrane">MIPYIIAFLLVGIPLMW</span></span>
-<span class="topo-line"><span class="topo-membrane">IEW</span><span class="topo-outside">AMGRYGGAQGHGTTPAIFYLLWRNRF</span><span class="topo-membrane">AKILGVFGLWIPLVVAIYYVYIESWTLGFAI</span></span>
-<span class="topo-line"><span class="topo-membrane">KFLV</span><span class="topo-inside">GLVPEPPP</span><span class="topo-unknown">NA</span><span class="topo-inside">TDPDSILRPFKEFLYSYIGVPKGDEPILKPSL</span><span class="topo-membrane">FAYIVFLITMFINV</span></span>
-<span class="topo-line"><span class="topo-membrane">SILIR</span><span class="topo-outside">GISKG</span><span class="topo-membrane">IERFAKIAMPTLFILAVFLVIR</span><span class="topo-inside">VFLLETPNGT</span><span class="topo-unknown">AADGLNFLW</span><span class="topo-inside">TPDFEKLKD</span></span>
-<span class="topo-line"><span class="topo-inside">PGV</span><span class="topo-membrane">WIAAVGQIFFTLSLGFGAIITY</span><span class="topo-outside">ASYVRKDQDIVL</span><span class="topo-membrane">SGLTAATLNEKAEVILGGSI</span><span class="topo-inside">SIP</span></span>
-<span class="topo-line"><span class="topo-inside">AAVAFFG</span><span class="topo-unknown">VANAVAIAKA</span><span class="topo-inside">GAFNLGFI</span><span class="topo-unknown">TLPAIF</span><span class="topo-inside">SQTAGGTF</span><span class="topo-membrane">LGFLWFFLLFFAGLTSSIAIM</span></span>
-<span class="topo-line"><span class="topo-membrane">QPMIAFL</span><span class="topo-outside">EDELKLSRKH</span><span class="topo-membrane">AVLWTAAIVFFSAHLVMFL</span><span class="topo-inside">NKS</span><span class="topo-membrane">LDEMDFWAGTIGVVFFGLTEL</span></span>
-<span class="topo-line"><span class="topo-membrane">IIFFWI</span><span class="topo-outside">FG</span><span class="topo-unknown">ADKAWEEIN</span><span class="topo-outside">RGGIIKV</span><span class="topo-membrane">PRIYYYVMRYITPAFLAVLLVVWAR</span><span class="topo-inside">EYIPKIMEETH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MEVK</span><span class="topo-outside">REHWATRL</span><span class="topo-membrane">GLILAMAGNAVGLGNFLRFP</span><span class="topo-inside">VQAAENGGGAF</span><span class="topo-membrane">MIPYIIAFLLVGIPLMWIEW</span><span class="topo-outside">AMGRYGGAQGHGTTPAIFYLLWRNRF</span><span class="topo-membrane">AKILGVFGLWIPLVVAIYYVYIESWTLGFAI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">KFLV</span><span class="topo-inside">GLVPEPPP</span><span class="topo-unknown">NA</span><span class="topo-inside">TDPDSILRPFKEFLYSYIGVPKGDEPILKPSL</span><span class="topo-membrane">FAYIVFLITMFINVSILIR</span><span class="topo-outside">GISKG</span><span class="topo-membrane">IERFAKIAMPTLFILAVFLVIR</span><span class="topo-inside">VFLLETPNGT</span><span class="topo-unknown">AADGLNFLW</span><span class="topo-inside">TPDFEKLKD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">PGV</span><span class="topo-membrane">WIAAVGQIFFTLSLGFGAIITY</span><span class="topo-outside">ASYVRKDQDIVL</span><span class="topo-membrane">SGLTAATLNEKAEVILGGSI</span><span class="topo-inside">SIPAAVAFFG</span><span class="topo-unknown">VANAVAIAKA</span><span class="topo-inside">GAFNLGFI</span><span class="topo-unknown">TLPAIF</span><span class="topo-inside">SQTAGGTF</span><span class="topo-membrane">LGFLWFFLLFFAGLTSSIAIM</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">QPMIAFL</span><span class="topo-outside">EDELKLSRKH</span><span class="topo-membrane">AVLWTAAIVFFSAHLVMFL</span><span class="topo-inside">NKS</span><span class="topo-membrane">LDEMDFWAGTIGVVFFGLTELIIFFWI</span><span class="topo-outside">FG</span><span class="topo-unknown">ADKAWEEIN</span><span class="topo-outside">RGGIIKV</span><span class="topo-membrane">PRIYYYVMRYITPAFLAVLLVVWAR</span><span class="topo-inside">EYIPKIMEETH</span></span>
+<span class="topo-ruler">       490       500       510         </span>
 <span class="topo-line"><span class="topo-inside">WTV</span><span class="topo-membrane">WITRFYIIGLFLFLTFLVF</span><span class="topo-outside">LAERRRNHESAGT</span><span class="topo-unknown">LVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (37 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -14107,6 +14259,7 @@ LeuT is a bacterial amino acid transporter from Aquifex aeolicus that belongs to
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -14122,15 +14275,17 @@ LeuT is a bacterial amino acid transporter from Aquifex aeolicus that belongs to
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MEVK</span><span class="topo-outside">REHWATRLG</span><span class="topo-membrane">LILAMAGNAVGLGNFLRFP</span><span class="topo-inside">VQAAENGGG</span><span class="topo-membrane">AFMIPYIIAFLLVGIPLMW</span></span>
-<span class="topo-line"><span class="topo-membrane">IEW</span><span class="topo-outside">AMGRYGGAQGHGTTPAIFYLLWRNR</span><span class="topo-membrane">FAKILGVFGLWIPLVVAIYYVYIESWTLGFAI</span></span>
-<span class="topo-line"><span class="topo-membrane">KFLV</span><span class="topo-inside">GLVPEPP</span><span class="topo-unknown">PNA</span><span class="topo-inside">TDPDSILRPFKEFLYSYIGVPKGDEPILKPSL</span><span class="topo-membrane">FAYIVFLITMFINV</span></span>
-<span class="topo-line"><span class="topo-membrane">SILI</span><span class="topo-outside">RGISKG</span><span class="topo-membrane">IERFAKIAMPTLFILAVFLVIR</span><span class="topo-inside">VFLLETPNGTAADGLNFLWTPDFEKLKD</span></span>
-<span class="topo-line"><span class="topo-inside">P</span><span class="topo-membrane">GVWIAAVGQIFFTLSLGFGAIITY</span><span class="topo-outside">ASYVRKDQDIVL</span><span class="topo-membrane">SGLTAATLNEKAEVILGGSI</span><span class="topo-inside">SIP</span></span>
-<span class="topo-line"><span class="topo-inside">AAVAFFGVANAVAIAKAGAFNLGFITLPAIFSQTAGGTF</span><span class="topo-membrane">LGFLWFFLLFFAGLTSSIAIM</span></span>
-<span class="topo-line"><span class="topo-membrane">QPMIAFL</span><span class="topo-outside">EDELKLSRKH</span><span class="topo-membrane">AVLWTAAIVFFSAHLVMFL</span><span class="topo-inside">NKS</span><span class="topo-membrane">LDEMDFWAGTIGVVFFGLTEL</span></span>
-<span class="topo-line"><span class="topo-membrane">IIFFWI</span><span class="topo-outside">FGADKAWEEINRGGIIKV</span><span class="topo-membrane">PRIYYYVMRYITPAFLAVLLVVWAR</span><span class="topo-inside">EYIPKIMEETH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MEVK</span><span class="topo-outside">REHWATRLG</span><span class="topo-membrane">LILAMAGNAVGLGNFLRFP</span><span class="topo-inside">VQAAENGGG</span><span class="topo-membrane">AFMIPYIIAFLLVGIPLMWIEW</span><span class="topo-outside">AMGRYGGAQGHGTTPAIFYLLWRNR</span><span class="topo-membrane">FAKILGVFGLWIPLVVAIYYVYIESWTLGFAI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">KFLV</span><span class="topo-inside">GLVPEPP</span><span class="topo-unknown">PNA</span><span class="topo-inside">TDPDSILRPFKEFLYSYIGVPKGDEPILKPSL</span><span class="topo-membrane">FAYIVFLITMFINVSILI</span><span class="topo-outside">RGISKG</span><span class="topo-membrane">IERFAKIAMPTLFILAVFLVIR</span><span class="topo-inside">VFLLETPNGTAADGLNFLWTPDFEKLKD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">P</span><span class="topo-membrane">GVWIAAVGQIFFTLSLGFGAIITY</span><span class="topo-outside">ASYVRKDQDIVL</span><span class="topo-membrane">SGLTAATLNEKAEVILGGSI</span><span class="topo-inside">SIPAAVAFFGVANAVAIAKAGAFNLGFITLPAIFSQTAGGTF</span><span class="topo-membrane">LGFLWFFLLFFAGLTSSIAIM</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">QPMIAFL</span><span class="topo-outside">EDELKLSRKH</span><span class="topo-membrane">AVLWTAAIVFFSAHLVMFL</span><span class="topo-inside">NKS</span><span class="topo-membrane">LDEMDFWAGTIGVVFFGLTELIIFFWI</span><span class="topo-outside">FGADKAWEEINRGGIIKV</span><span class="topo-membrane">PRIYYYVMRYITPAFLAVLLVVWAR</span><span class="topo-inside">EYIPKIMEETH</span></span>
+<span class="topo-ruler">       490       500       510         </span>
 <span class="topo-line"><span class="topo-inside">WTV</span><span class="topo-membrane">WITRFYIIGLFLFLTFLVF</span><span class="topo-outside">LAERRRNHE</span><span class="topo-unknown">SAGTLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (29 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -14345,6 +14500,7 @@ LeuT is a bacterial amino acid transporter from Aquifex aeolicus that belongs to
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -14360,15 +14516,17 @@ LeuT is a bacterial amino acid transporter from Aquifex aeolicus that belongs to
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MEVK</span><span class="topo-outside">REHWATRLG</span><span class="topo-membrane">LILAMAGNAVGLGNFLRFP</span><span class="topo-inside">VQAAENGGG</span><span class="topo-membrane">AFMIPYIIAFLLVGIPLMW</span></span>
-<span class="topo-line"><span class="topo-membrane">IEW</span><span class="topo-outside">AMGRYGGAQGHGTTPAIFYLLWRNR</span><span class="topo-membrane">FAKILGVFGLWIPLVVAIYYVYIESWTLGFAI</span></span>
-<span class="topo-line"><span class="topo-membrane">KFLV</span><span class="topo-inside">GLVPEPP</span><span class="topo-unknown">PNA</span><span class="topo-inside">TDPDSILRPFKEFLYSYIGVPKGDEPILKPSL</span><span class="topo-membrane">FAYIVFLITMFINV</span></span>
-<span class="topo-line"><span class="topo-membrane">SILI</span><span class="topo-outside">RGISKG</span><span class="topo-membrane">IERFAKIAMPTLFILAVFLVIR</span><span class="topo-inside">VFLLETPNGTAADGLNFLWTPDFEKLKD</span></span>
-<span class="topo-line"><span class="topo-inside">P</span><span class="topo-membrane">GVWIAAVGQIFFTLSLGFGAIITY</span><span class="topo-outside">ASYVRKDQDIVL</span><span class="topo-membrane">SGLTAATLNEKAEVILGGSI</span><span class="topo-inside">SIP</span></span>
-<span class="topo-line"><span class="topo-inside">AAVAFFGVANAVAIAKAGAFNLGFITLPAIFSQTAGGTF</span><span class="topo-membrane">LGFLWFFLLFFAGLTSSIAIM</span></span>
-<span class="topo-line"><span class="topo-membrane">QPMIAFL</span><span class="topo-outside">EDELKLSRKH</span><span class="topo-membrane">AVLWTAAIVFFSAHLVMFL</span><span class="topo-inside">NKS</span><span class="topo-membrane">LDEMDFWAGTIGVVFFGLTEL</span></span>
-<span class="topo-line"><span class="topo-membrane">IIFFWI</span><span class="topo-outside">FGADKAWEEINRGGIIKV</span><span class="topo-membrane">PRIYYYVMRYITPAFLAVLLVVWAR</span><span class="topo-inside">EYIPKIMEETH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MEVK</span><span class="topo-outside">REHWATRLG</span><span class="topo-membrane">LILAMAGNAVGLGNFLRFP</span><span class="topo-inside">VQAAENGGG</span><span class="topo-membrane">AFMIPYIIAFLLVGIPLMWIEW</span><span class="topo-outside">AMGRYGGAQGHGTTPAIFYLLWRNR</span><span class="topo-membrane">FAKILGVFGLWIPLVVAIYYVYIESWTLGFAI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">KFLV</span><span class="topo-inside">GLVPEPP</span><span class="topo-unknown">PNA</span><span class="topo-inside">TDPDSILRPFKEFLYSYIGVPKGDEPILKPSL</span><span class="topo-membrane">FAYIVFLITMFINVSILI</span><span class="topo-outside">RGISKG</span><span class="topo-membrane">IERFAKIAMPTLFILAVFLVIR</span><span class="topo-inside">VFLLETPNGTAADGLNFLWTPDFEKLKD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">P</span><span class="topo-membrane">GVWIAAVGQIFFTLSLGFGAIITY</span><span class="topo-outside">ASYVRKDQDIVL</span><span class="topo-membrane">SGLTAATLNEKAEVILGGSI</span><span class="topo-inside">SIPAAVAFFGVANAVAIAKAGAFNLGFITLPAIFSQTAGGTF</span><span class="topo-membrane">LGFLWFFLLFFAGLTSSIAIM</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">QPMIAFL</span><span class="topo-outside">EDELKLSRKH</span><span class="topo-membrane">AVLWTAAIVFFSAHLVMFL</span><span class="topo-inside">NKS</span><span class="topo-membrane">LDEMDFWAGTIGVVFFGLTELIIFFWI</span><span class="topo-outside">FGADKAWEEINRGGIIKV</span><span class="topo-membrane">PRIYYYVMRYITPAFLAVLLVVWAR</span><span class="topo-inside">EYIPKIMEETH</span></span>
+<span class="topo-ruler">       490       500       510         </span>
 <span class="topo-line"><span class="topo-inside">WTV</span><span class="topo-membrane">WITRFYIIGLFLFLTFLVF</span><span class="topo-outside">LAERRRNHE</span><span class="topo-unknown">SAGTLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (29 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -14583,6 +14741,7 @@ LeuT is a bacterial amino acid transporter from Aquifex aeolicus that belongs to
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

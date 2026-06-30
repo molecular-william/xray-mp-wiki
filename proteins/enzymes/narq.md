@@ -94,10 +94,11 @@ absence of ligands.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MIVKRPVSASLARAF</span><span class="topo-membrane">FYIVLLSILSTGIALLTLASSLR</span><span class="topo-outside">DAEAINIAGSLSMQSYRLGYDL</span></span>
-<span class="topo-line"><span class="topo-outside">QSGSPQLNAHRQLFQQALHSPVLTNLNVWYVPEAVKTRYAHLNANWLEMNNRLSKGDLPW</span></span>
-<span class="topo-line"><span class="topo-outside">YQANINNYVNQIDLFVLALQHY</span><span class="topo-membrane">AERKMLLVVAISLAGGIGIFTLVF</span><span class="topo-inside">FTLRRIRHQVVAPL</span></span>
-<span class="topo-line"><span class="topo-inside">NQLVTASQRIEHGQFDSPPLDTNLPNELGLLAKTFNQMSSELHKLYR</span><span class="topo-unknown">SLEHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">MIVKRPVSASLARAF</span><span class="topo-membrane">FYIVLLSILSTGIALLTLASSLR</span><span class="topo-outside">DAEAINIAGSLSMQSYRLGYDLQSGSPQLNAHRQLFQQALHSPVLTNLNVWYVPEAVKTRYAHLNANWLEMNNRLSKGDLPW</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230      </span>
+<span class="topo-line"><span class="topo-outside">YQANINNYVNQIDLFVLALQHY</span><span class="topo-membrane">AERKMLLVVAISLAGGIGIFTLVF</span><span class="topo-inside">FTLRRIRHQVVAPLNQLVTASQRIEHGQFDSPPLDTNLPNELGLLAKTFNQMSSELHKLYR</span><span class="topo-unknown">SLEHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -144,6 +145,7 @@ absence of ligands.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -159,10 +161,11 @@ absence of ligands.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MIVKRPVSASLARAF</span><span class="topo-membrane">FYIVLLSILSTGIALLTLASSLR</span><span class="topo-outside">DAEAINIAGSLSMQSYRLGYDL</span></span>
-<span class="topo-line"><span class="topo-outside">QSGSPQLNAHRQLFQQALHSPVLTNLNVWYVPEAVKTRYAHLNANWLEMNNRLSKGDLPW</span></span>
-<span class="topo-line"><span class="topo-outside">YQANINNYVNQIDLFVLALQHY</span><span class="topo-membrane">AERKMLLVVAISLAGGIGIFTLVF</span><span class="topo-inside">FTLRRIRHQVVAPL</span></span>
-<span class="topo-line"><span class="topo-inside">NQLVTASQRIEHGQFDSPPLDTNLPNELGLLAKTFNQMSSELHKLYR</span><span class="topo-unknown">SLEHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">MIVKRPVSASLARAF</span><span class="topo-membrane">FYIVLLSILSTGIALLTLASSLR</span><span class="topo-outside">DAEAINIAGSLSMQSYRLGYDLQSGSPQLNAHRQLFQQALHSPVLTNLNVWYVPEAVKTRYAHLNANWLEMNNRLSKGDLPW</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230      </span>
+<span class="topo-line"><span class="topo-outside">YQANINNYVNQIDLFVLALQHY</span><span class="topo-membrane">AERKMLLVVAISLAGGIGIFTLVF</span><span class="topo-inside">FTLRRIRHQVVAPLNQLVTASQRIEHGQFDSPPLDTNLPNELGLLAKTFNQMSSELHKLYR</span><span class="topo-unknown">SLEHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -209,6 +212,7 @@ absence of ligands.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -258,10 +262,11 @@ absence of ligands.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MIVKRPVSASLARAF</span><span class="topo-membrane">FYIVLLSILSTGIALLTLASSLR</span><span class="topo-outside">DAEAINIAGSLRMQSYRLGYDL</span></span>
-<span class="topo-line"><span class="topo-outside">QSGSPQLNAHRQLFQQALHSPVLTNLNVWYVPEAVKTRYAHLNANWLEMNNRLSKGDLPW</span></span>
-<span class="topo-line"><span class="topo-outside">YQANINNYVNQIDLFVLALQHY</span><span class="topo-membrane">AERKMLLVVAISLAGGIGIFTLVF</span><span class="topo-inside">FTLRRIRHQVVAPL</span></span>
-<span class="topo-line"><span class="topo-inside">NQLVTASQRIEHGQFDSPPLDTNLPNELGLLAKTFNQMSSELHKLYR</span><span class="topo-unknown">SLEHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">MIVKRPVSASLARAF</span><span class="topo-membrane">FYIVLLSILSTGIALLTLASSLR</span><span class="topo-outside">DAEAINIAGSLRMQSYRLGYDLQSGSPQLNAHRQLFQQALHSPVLTNLNVWYVPEAVKTRYAHLNANWLEMNNRLSKGDLPW</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230      </span>
+<span class="topo-line"><span class="topo-outside">YQANINNYVNQIDLFVLALQHY</span><span class="topo-membrane">AERKMLLVVAISLAGGIGIFTLVF</span><span class="topo-inside">FTLRRIRHQVVAPLNQLVTASQRIEHGQFDSPPLDTNLPNELGLLAKTFNQMSSELHKLYR</span><span class="topo-unknown">SLEHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -308,6 +313,7 @@ absence of ligands.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -323,10 +329,11 @@ absence of ligands.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MIVKRPVSASLARAF</span><span class="topo-membrane">FYIVLLSILSTGIALLTLASSLR</span><span class="topo-outside">DAEAINIAGSLRMQSYRLGYDL</span></span>
-<span class="topo-line"><span class="topo-outside">QSGSPQLNAHRQLFQQALHSPVLTNLNVWYVPEAVKTRYAHLNANWLEMNNRLSKGDLPW</span></span>
-<span class="topo-line"><span class="topo-outside">YQANINNYVNQIDLFVLALQHY</span><span class="topo-membrane">AERKMLLVVAISLAGGIGIFTLVF</span><span class="topo-inside">FTLRRIRHQVVAPL</span></span>
-<span class="topo-line"><span class="topo-inside">NQLVTASQRIEHGQFDSPPLDTNLPNELGLLAKTFNQMSSELHKLYR</span><span class="topo-unknown">SLEHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">MIVKRPVSASLARAF</span><span class="topo-membrane">FYIVLLSILSTGIALLTLASSLR</span><span class="topo-outside">DAEAINIAGSLRMQSYRLGYDLQSGSPQLNAHRQLFQQALHSPVLTNLNVWYVPEAVKTRYAHLNANWLEMNNRLSKGDLPW</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230      </span>
+<span class="topo-line"><span class="topo-outside">YQANINNYVNQIDLFVLALQHY</span><span class="topo-membrane">AERKMLLVVAISLAGGIGIFTLVF</span><span class="topo-inside">FTLRRIRHQVVAPLNQLVTASQRIEHGQFDSPPLDTNLPNELGLLAKTFNQMSSELHKLYR</span><span class="topo-unknown">SLEHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -373,6 +380,7 @@ absence of ligands.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -388,10 +396,11 @@ absence of ligands.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MIVKRPVSASLARA</span><span class="topo-membrane">FFYIVLLSILSTGIALLTLASSL</span><span class="topo-outside">RDAEAINIAGSLKMQSYRLGYDL</span></span>
-<span class="topo-line"><span class="topo-outside">QSGSPQLNAHRQLFQQALHSPVLTNLNVWYVPEAVKTRYAHLNANWLEMNNRLSKGDLPW</span></span>
-<span class="topo-line"><span class="topo-outside">YQANINNYVNQIDLFVLALQHY</span><span class="topo-membrane">AERKMLLVVAISLAGGIGIFTLV</span><span class="topo-inside">FFTLRRIRHQVVAPL</span></span>
-<span class="topo-line"><span class="topo-inside">NQLVTASQRIEH</span><span class="topo-unknown">G</span><span class="topo-inside">QF</span><span class="topo-unknown">DS</span><span class="topo-inside">PPLDTNLPNELGLLAKTFNQMSSELHKLYRSLE</span><span class="topo-unknown">HHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">MIVKRPVSASLARA</span><span class="topo-membrane">FFYIVLLSILSTGIALLTLASSL</span><span class="topo-outside">RDAEAINIAGSLKMQSYRLGYDLQSGSPQLNAHRQLFQQALHSPVLTNLNVWYVPEAVKTRYAHLNANWLEMNNRLSKGDLPW</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230      </span>
+<span class="topo-line"><span class="topo-outside">YQANINNYVNQIDLFVLALQHY</span><span class="topo-membrane">AERKMLLVVAISLAGGIGIFTLV</span><span class="topo-inside">FFTLRRIRHQVVAPLNQLVTASQRIEH</span><span class="topo-unknown">G</span><span class="topo-inside">QF</span><span class="topo-unknown">DS</span><span class="topo-inside">PPLDTNLPNELGLLAKTFNQMSSELHKLYRSLE</span><span class="topo-unknown">HHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -452,6 +461,7 @@ absence of ligands.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -467,10 +477,11 @@ absence of ligands.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MIVKRPVSASLARA</span><span class="topo-membrane">FFYIVLLSILSTGIALLTLASSL</span><span class="topo-outside">RDAEAINIAGSLKMQSYRLGYDL</span></span>
-<span class="topo-line"><span class="topo-outside">QSGSPQLNAHRQLFQQALHSPVLTNLNVWYVPEAVKTRYAHLNANWLEMNNRLSKGDLPW</span></span>
-<span class="topo-line"><span class="topo-outside">YQANINNYVNQIDLFVLALQHY</span><span class="topo-membrane">AERKMLLVVAISLAGGIGIFTLV</span><span class="topo-inside">FFTLRRIRHQVVAPL</span></span>
-<span class="topo-line"><span class="topo-inside">NQLVTASQRIEH</span><span class="topo-unknown">G</span><span class="topo-inside">QF</span><span class="topo-unknown">DS</span><span class="topo-inside">PPLDTNLPNELGLLAKTFNQMSSELHKLYRSLE</span><span class="topo-unknown">HHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">MIVKRPVSASLARA</span><span class="topo-membrane">FFYIVLLSILSTGIALLTLASSL</span><span class="topo-outside">RDAEAINIAGSLKMQSYRLGYDLQSGSPQLNAHRQLFQQALHSPVLTNLNVWYVPEAVKTRYAHLNANWLEMNNRLSKGDLPW</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230      </span>
+<span class="topo-line"><span class="topo-outside">YQANINNYVNQIDLFVLALQHY</span><span class="topo-membrane">AERKMLLVVAISLAGGIGIFTLV</span><span class="topo-inside">FFTLRRIRHQVVAPLNQLVTASQRIEH</span><span class="topo-unknown">G</span><span class="topo-inside">QF</span><span class="topo-unknown">DS</span><span class="topo-inside">PPLDTNLPNELGLLAKTFNQMSSELHKLYRSLE</span><span class="topo-unknown">HHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -531,6 +542,7 @@ absence of ligands.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

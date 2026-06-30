@@ -111,11 +111,13 @@ transducer rather than a membrane-embedded one.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MNLESL</span><span class="topo-membrane">LHWIYVAGMTIGALHFWSL</span><span class="topo-inside">SRNPRGVPQYEY</span><span class="topo-membrane">LVAMFIPIWSGLAYMAMA</span><span class="topo-outside">ID</span><span class="topo-unknown">QGK</span></span>
-<span class="topo-line"><span class="topo-unknown">VEAAGQ</span><span class="topo-outside">IAH</span><span class="topo-membrane">YARYIDWMVTTPLLLLSL</span><span class="topo-inside">SWTAMQFIKKDWTLI</span><span class="topo-membrane">GFLMSTQIVVITSGLIAD</span></span>
-<span class="topo-line"><span class="topo-membrane">L</span><span class="topo-outside">SERDW</span><span class="topo-membrane">VRYLWYICGVCAFLIILWGI</span><span class="topo-inside">WNPLRAKTRTQSSELANLYDKL</span><span class="topo-membrane">VTYFTVLWIGYP</span></span>
-<span class="topo-line"><span class="topo-membrane">IVWIIG</span><span class="topo-outside">PSGFGWINQTI</span><span class="topo-membrane">DTFLFCLLPFFSKVGFSFLD</span><span class="topo-inside">LHGLRNLND</span><span class="topo-unknown">SRQTTGDRFAENTL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MNLESL</span><span class="topo-membrane">LHWIYVAGMTIGALHFWSL</span><span class="topo-inside">SRNPRGVPQYEY</span><span class="topo-membrane">LVAMFIPIWSGLAYMAMA</span><span class="topo-outside">ID</span><span class="topo-unknown">QGKVEAAGQ</span><span class="topo-outside">IAH</span><span class="topo-membrane">YARYIDWMVTTPLLLLSL</span><span class="topo-inside">SWTAMQFIKKDWTLI</span><span class="topo-membrane">GFLMSTQIVVITSGLIAD</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">L</span><span class="topo-outside">SERDW</span><span class="topo-membrane">VRYLWYICGVCAFLIILWGI</span><span class="topo-inside">WNPLRAKTRTQSSELANLYDKL</span><span class="topo-membrane">VTYFTVLWIGYPIVWIIG</span><span class="topo-outside">PSGFGWINQTI</span><span class="topo-membrane">DTFLFCLLPFFSKVGFSFLD</span><span class="topo-inside">LHGLRNLND</span><span class="topo-unknown">SRQTTGDRFAENTL</span></span>
+<span class="topo-ruler">       250       260 </span>
 <span class="topo-line"><span class="topo-unknown">QFVENITLFANSRRQQSRRRV</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -253,6 +255,7 @@ transducer rather than a membrane-embedded one.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -268,11 +271,13 @@ transducer rather than a membrane-embedded one.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MNLESL</span><span class="topo-membrane">LHWIYVAGMTIGALHFWSL</span><span class="topo-inside">SRNPRGVPQYEY</span><span class="topo-membrane">LVAMFIPIWSGLAYMAMA</span><span class="topo-outside">ID</span><span class="topo-unknown">QGK</span></span>
-<span class="topo-line"><span class="topo-unknown">VEAAGQ</span><span class="topo-outside">IAH</span><span class="topo-membrane">YARYIDWMVTTPLLLLSL</span><span class="topo-inside">SWTAMQFIKKDWTLI</span><span class="topo-membrane">GFLMSTQIVVITSGLIAD</span></span>
-<span class="topo-line"><span class="topo-membrane">L</span><span class="topo-outside">SERDW</span><span class="topo-membrane">VRYLWYICGVCAFLIILWGI</span><span class="topo-inside">WNPLRAKTRTQSSELANLYDKL</span><span class="topo-membrane">VTYFTVLWIGYP</span></span>
-<span class="topo-line"><span class="topo-membrane">IVWIIG</span><span class="topo-outside">PSGFGWINQTI</span><span class="topo-membrane">DTFLFCLLPFFSKVGFSFLD</span><span class="topo-inside">LHGLRNLND</span><span class="topo-unknown">SRQTTGDRFAENTL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MNLESL</span><span class="topo-membrane">LHWIYVAGMTIGALHFWSL</span><span class="topo-inside">SRNPRGVPQYEY</span><span class="topo-membrane">LVAMFIPIWSGLAYMAMA</span><span class="topo-outside">ID</span><span class="topo-unknown">QGKVEAAGQ</span><span class="topo-outside">IAH</span><span class="topo-membrane">YARYIDWMVTTPLLLLSL</span><span class="topo-inside">SWTAMQFIKKDWTLI</span><span class="topo-membrane">GFLMSTQIVVITSGLIAD</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">L</span><span class="topo-outside">SERDW</span><span class="topo-membrane">VRYLWYICGVCAFLIILWGI</span><span class="topo-inside">WNPLRAKTRTQSSELANLYDKL</span><span class="topo-membrane">VTYFTVLWIGYPIVWIIG</span><span class="topo-outside">PSGFGWINQTI</span><span class="topo-membrane">DTFLFCLLPFFSKVGFSFLD</span><span class="topo-inside">LHGLRNLND</span><span class="topo-unknown">SRQTTGDRFAENTL</span></span>
+<span class="topo-ruler">       250       260 </span>
 <span class="topo-line"><span class="topo-unknown">QFVENITLFANSRRQQSRRRV</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -410,6 +415,7 @@ transducer rather than a membrane-embedded one.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

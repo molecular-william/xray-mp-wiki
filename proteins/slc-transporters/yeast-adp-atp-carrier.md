@@ -176,12 +176,13 @@ conversion to the m-state without substrate binding.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSSNAQVKTPLPPAPAPKKESNF</span><span class="topo-outside">LIDFLMG</span><span class="topo-membrane">GVSAAVAKTAASPIERVKL</span><span class="topo-inside">LIQNQDEMLKQ</span></span>
-<span class="topo-line"><span class="topo-inside">GTLDRKYAG</span><span class="topo-unknown">ILDCFKRTATQE</span><span class="topo-inside">GVISF</span><span class="topo-membrane">WRGNTANVIRYFPTQAL</span><span class="topo-unknown">NFAFKDKIKAMF</span><span class="topo-outside">GFKKE</span></span>
-<span class="topo-line"><span class="topo-outside">EGYAKWFAGNLASG</span><span class="topo-membrane">GAAGALSLLFVYSLDYART</span><span class="topo-inside">RLAADS</span><span class="topo-unknown">KSSKKGGA</span><span class="topo-inside">RQFNG</span><span class="topo-unknown">LIDVYKKT</span></span>
-<span class="topo-line"><span class="topo-unknown">LKS</span><span class="topo-inside">DG</span><span class="topo-membrane">VAGLYRGFLPSVVGIVVYRGLYFGMY</span><span class="topo-outside">DSL</span><span class="topo-unknown">KPLLLTGSLEGSF</span><span class="topo-outside">LASF</span><span class="topo-membrane">LLGWVVTTG</span></span>
-<span class="topo-line"><span class="topo-membrane">ASTCSYPLDTVRR</span><span class="topo-inside">RMMMTSGQAVKYDGAFDCLRKIVAAEGVGSLFKG</span><span class="topo-membrane">CGANILRGVAGAG</span></span>
-<span class="topo-line"><span class="topo-membrane">VISMY</span><span class="topo-outside">DQLQ</span><span class="topo-unknown">MILFGKKFK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSSNAQVKTPLPPAPAPKKESNF</span><span class="topo-outside">LIDFLMG</span><span class="topo-membrane">GVSAAVAKTAASPIERVKL</span><span class="topo-inside">LIQNQDEMLKQGTLDRKYAG</span><span class="topo-unknown">ILDCFKRTATQE</span><span class="topo-inside">GVISF</span><span class="topo-membrane">WRGNTANVIRYFPTQAL</span><span class="topo-unknown">NFAFKDKIKAMF</span><span class="topo-outside">GFKKE</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">EGYAKWFAGNLASG</span><span class="topo-membrane">GAAGALSLLFVYSLDYART</span><span class="topo-inside">RLAADS</span><span class="topo-unknown">KSSKKGGA</span><span class="topo-inside">RQFNG</span><span class="topo-unknown">LIDVYKKTLKS</span><span class="topo-inside">DG</span><span class="topo-membrane">VAGLYRGFLPSVVGIVVYRGLYFGMY</span><span class="topo-outside">DSL</span><span class="topo-unknown">KPLLLTGSLEGSF</span><span class="topo-outside">LASF</span><span class="topo-membrane">LLGWVVTTG</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310        </span>
+<span class="topo-line"><span class="topo-membrane">ASTCSYPLDTVRR</span><span class="topo-inside">RMMMTSGQAVKYDGAFDCLRKIVAAEGVGSLFKG</span><span class="topo-membrane">CGANILRGVAGAGVISMY</span><span class="topo-outside">DQLQ</span><span class="topo-unknown">MILFGKKFK</span></span>
+<details class="topo-details"><summary>Topology coordinates (24 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -361,6 +362,7 @@ conversion to the m-state without substrate binding.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -376,12 +378,13 @@ conversion to the m-state without substrate binding.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSSNAQVKTPLPPAPAPKKESNF</span><span class="topo-outside">LIDFLMG</span><span class="topo-membrane">GVSAAVAKTAASPIERVKL</span><span class="topo-inside">LIQNQDEMLKQ</span></span>
-<span class="topo-line"><span class="topo-inside">GTLDRKYAG</span><span class="topo-unknown">ILDCFKRTATQE</span><span class="topo-inside">GVISF</span><span class="topo-membrane">WRGNTANVIRYFPTQAL</span><span class="topo-unknown">NFAFKDKIKAMF</span><span class="topo-outside">GFKKE</span></span>
-<span class="topo-line"><span class="topo-outside">EGYAKWFAGNLASG</span><span class="topo-membrane">GAAGALSLLFVYSLDYART</span><span class="topo-inside">RLAADS</span><span class="topo-unknown">KSSKKGGA</span><span class="topo-inside">RQFNG</span><span class="topo-unknown">LIDVYKKT</span></span>
-<span class="topo-line"><span class="topo-unknown">LKS</span><span class="topo-inside">DG</span><span class="topo-membrane">VAGLYRGFLPSVVGIVVYRGLYFGMY</span><span class="topo-outside">DSL</span><span class="topo-unknown">KPLLLTGSLEGSF</span><span class="topo-outside">LASF</span><span class="topo-membrane">LLGWVVTTG</span></span>
-<span class="topo-line"><span class="topo-membrane">ASTCSYPLDTVRR</span><span class="topo-inside">RMMMTSGQAVKYDGAFDCLRKIVAAEGVGSLFKG</span><span class="topo-membrane">CGANILRGVAGAG</span></span>
-<span class="topo-line"><span class="topo-membrane">VISMY</span><span class="topo-outside">DQLQ</span><span class="topo-unknown">MILFGKKFK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSSNAQVKTPLPPAPAPKKESNF</span><span class="topo-outside">LIDFLMG</span><span class="topo-membrane">GVSAAVAKTAASPIERVKL</span><span class="topo-inside">LIQNQDEMLKQGTLDRKYAG</span><span class="topo-unknown">ILDCFKRTATQE</span><span class="topo-inside">GVISF</span><span class="topo-membrane">WRGNTANVIRYFPTQAL</span><span class="topo-unknown">NFAFKDKIKAMF</span><span class="topo-outside">GFKKE</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">EGYAKWFAGNLASG</span><span class="topo-membrane">GAAGALSLLFVYSLDYART</span><span class="topo-inside">RLAADS</span><span class="topo-unknown">KSSKKGGA</span><span class="topo-inside">RQFNG</span><span class="topo-unknown">LIDVYKKTLKS</span><span class="topo-inside">DG</span><span class="topo-membrane">VAGLYRGFLPSVVGIVVYRGLYFGMY</span><span class="topo-outside">DSL</span><span class="topo-unknown">KPLLLTGSLEGSF</span><span class="topo-outside">LASF</span><span class="topo-membrane">LLGWVVTTG</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310        </span>
+<span class="topo-line"><span class="topo-membrane">ASTCSYPLDTVRR</span><span class="topo-inside">RMMMTSGQAVKYDGAFDCLRKIVAAEGVGSLFKG</span><span class="topo-membrane">CGANILRGVAGAGVISMY</span><span class="topo-outside">DQLQ</span><span class="topo-unknown">MILFGKKFK</span></span>
+<details class="topo-details"><summary>Topology coordinates (24 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -561,6 +564,7 @@ conversion to the m-state without substrate binding.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -576,12 +580,13 @@ conversion to the m-state without substrate binding.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSSNAQVKTPLPPAPAPKKESNF</span><span class="topo-outside">LIDFLMG</span><span class="topo-membrane">GVSAAVAKTAASPIERVKL</span><span class="topo-inside">LIQNQDEMLKQ</span></span>
-<span class="topo-line"><span class="topo-inside">GTLDRKYAG</span><span class="topo-unknown">ILDCFKRTATQE</span><span class="topo-inside">GVISF</span><span class="topo-membrane">WRGNTANVIRYFPTQAL</span><span class="topo-unknown">NFAFKDKIKAMF</span><span class="topo-outside">GFKKE</span></span>
-<span class="topo-line"><span class="topo-outside">EGYAKWFAGNLASG</span><span class="topo-membrane">GAAGALSLLFVYSLDYART</span><span class="topo-inside">RLAADS</span><span class="topo-unknown">KSSKKGGA</span><span class="topo-inside">RQFNG</span><span class="topo-unknown">LIDVYKKT</span></span>
-<span class="topo-line"><span class="topo-unknown">LKS</span><span class="topo-inside">DG</span><span class="topo-membrane">VAGLYRGFLPSVVGIVVYRGLYFGMY</span><span class="topo-outside">DSL</span><span class="topo-unknown">KPLLLTGSLEGSF</span><span class="topo-outside">LASF</span><span class="topo-membrane">LLGWVVTTG</span></span>
-<span class="topo-line"><span class="topo-membrane">ASTCSYPLDTVRR</span><span class="topo-inside">RMMMTSGQAVKYDGAFDCLRKIVAAEGVGSLFKG</span><span class="topo-membrane">CGANILRGVAGAG</span></span>
-<span class="topo-line"><span class="topo-membrane">VISMY</span><span class="topo-outside">DQLQ</span><span class="topo-unknown">MILFGKKFK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSSNAQVKTPLPPAPAPKKESNF</span><span class="topo-outside">LIDFLMG</span><span class="topo-membrane">GVSAAVAKTAASPIERVKL</span><span class="topo-inside">LIQNQDEMLKQGTLDRKYAG</span><span class="topo-unknown">ILDCFKRTATQE</span><span class="topo-inside">GVISF</span><span class="topo-membrane">WRGNTANVIRYFPTQAL</span><span class="topo-unknown">NFAFKDKIKAMF</span><span class="topo-outside">GFKKE</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">EGYAKWFAGNLASG</span><span class="topo-membrane">GAAGALSLLFVYSLDYART</span><span class="topo-inside">RLAADS</span><span class="topo-unknown">KSSKKGGA</span><span class="topo-inside">RQFNG</span><span class="topo-unknown">LIDVYKKTLKS</span><span class="topo-inside">DG</span><span class="topo-membrane">VAGLYRGFLPSVVGIVVYRGLYFGMY</span><span class="topo-outside">DSL</span><span class="topo-unknown">KPLLLTGSLEGSF</span><span class="topo-outside">LASF</span><span class="topo-membrane">LLGWVVTTG</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310        </span>
+<span class="topo-line"><span class="topo-membrane">ASTCSYPLDTVRR</span><span class="topo-inside">RMMMTSGQAVKYDGAFDCLRKIVAAEGVGSLFKG</span><span class="topo-membrane">CGANILRGVAGAGVISMY</span><span class="topo-outside">DQLQ</span><span class="topo-unknown">MILFGKKFK</span></span>
+<details class="topo-details"><summary>Topology coordinates (24 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -761,6 +766,7 @@ conversion to the m-state without substrate binding.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -776,12 +782,13 @@ conversion to the m-state without substrate binding.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSSNAQVKTPLPPAPAPKKESNF</span><span class="topo-outside">LIDFLMG</span><span class="topo-membrane">GVSAAVAKTAASPIERVKL</span><span class="topo-inside">LIQNQDEMLKQ</span></span>
-<span class="topo-line"><span class="topo-inside">GTLDRKYAG</span><span class="topo-unknown">ILDCFKRTATQE</span><span class="topo-inside">GVISF</span><span class="topo-membrane">WRGNTANVIRYFPTQAL</span><span class="topo-unknown">NFAFKDKIKAMF</span><span class="topo-outside">GFKKE</span></span>
-<span class="topo-line"><span class="topo-outside">EGYAKWFAGNLASG</span><span class="topo-membrane">GAAGALSLLFVYSLDYART</span><span class="topo-inside">RLAADS</span><span class="topo-unknown">KSSKKGGA</span><span class="topo-inside">RQFNG</span><span class="topo-unknown">LIDVYKKT</span></span>
-<span class="topo-line"><span class="topo-unknown">LKS</span><span class="topo-inside">DG</span><span class="topo-membrane">VAGLYRGFLPSVVGIVVYRGLYFGMY</span><span class="topo-outside">DSL</span><span class="topo-unknown">KPLLLTGSLEGSF</span><span class="topo-outside">LASF</span><span class="topo-membrane">LLGWVVTTG</span></span>
-<span class="topo-line"><span class="topo-membrane">ASTCSYPLDTVRR</span><span class="topo-inside">RMMMTSGQAVKYDGAFDCLRKIVAAEGVGSLFKG</span><span class="topo-membrane">CGANILRGVAGAG</span></span>
-<span class="topo-line"><span class="topo-membrane">VISMY</span><span class="topo-outside">DQLQ</span><span class="topo-unknown">MILFGKKFK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSSNAQVKTPLPPAPAPKKESNF</span><span class="topo-outside">LIDFLMG</span><span class="topo-membrane">GVSAAVAKTAASPIERVKL</span><span class="topo-inside">LIQNQDEMLKQGTLDRKYAG</span><span class="topo-unknown">ILDCFKRTATQE</span><span class="topo-inside">GVISF</span><span class="topo-membrane">WRGNTANVIRYFPTQAL</span><span class="topo-unknown">NFAFKDKIKAMF</span><span class="topo-outside">GFKKE</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">EGYAKWFAGNLASG</span><span class="topo-membrane">GAAGALSLLFVYSLDYART</span><span class="topo-inside">RLAADS</span><span class="topo-unknown">KSSKKGGA</span><span class="topo-inside">RQFNG</span><span class="topo-unknown">LIDVYKKTLKS</span><span class="topo-inside">DG</span><span class="topo-membrane">VAGLYRGFLPSVVGIVVYRGLYFGMY</span><span class="topo-outside">DSL</span><span class="topo-unknown">KPLLLTGSLEGSF</span><span class="topo-outside">LASF</span><span class="topo-membrane">LLGWVVTTG</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310        </span>
+<span class="topo-line"><span class="topo-membrane">ASTCSYPLDTVRR</span><span class="topo-inside">RMMMTSGQAVKYDGAFDCLRKIVAAEGVGSLFKG</span><span class="topo-membrane">CGANILRGVAGAGVISMY</span><span class="topo-outside">DQLQ</span><span class="topo-unknown">MILFGKKFK</span></span>
+<details class="topo-details"><summary>Topology coordinates (24 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -961,6 +968,7 @@ conversion to the m-state without substrate binding.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

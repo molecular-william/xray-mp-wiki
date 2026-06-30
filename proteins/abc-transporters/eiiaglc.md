@@ -122,15 +122,17 @@ EIIA^Glc (Enzyme IIA^Glc) is a central signaling protein in the Escherichia coli
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MDVIKKKHWWQSDALKW</span><span class="topo-outside">S</span><span class="topo-membrane">VLGLLGLLVGYLVVLMY</span><span class="topo-inside">AQGEY</span><span class="topo-membrane">LFAITTLILSSAGLYIFA</span><span class="topo-outside">NR</span></span>
-<span class="topo-line"><span class="topo-outside">KAYAWRYV</span><span class="topo-membrane">YPGMAGMGLFVLFPLVCTIA</span><span class="topo-inside">IAFTNYSSTNQLTFERAQEVLLDRSWQAGKTY</span></span>
-<span class="topo-line"><span class="topo-inside">NFGLYPAGDEWQLALSDGETGKNYLSDAFKFGGEQKLQLKETTAQPEGERANLRVITQNR</span></span>
-<span class="topo-line"><span class="topo-inside">QALSDITAILPDGNKVMMSSLRQFSGTQPLYTLDGDGTLTNNQSGVKYRPNNQIGFYQSI</span></span>
-<span class="topo-line"><span class="topo-inside">TADGNWGDEKLSPGYTVTTGW</span><span class="topo-unknown">KNFTRVF</span><span class="topo-inside">TDEGIQKPFLAI</span><span class="topo-membrane">FVWTVVFSLITVFLTVAVGM</span></span>
-<span class="topo-line"><span class="topo-membrane">VLA</span><span class="topo-outside">CLVQWEALRGKAV</span><span class="topo-membrane">YRVLLILPYAVPSFISILIF</span><span class="topo-inside">KGLFNQSFGE</span><span class="topo-unknown">INMMLSA</span><span class="topo-inside">LFGVKPA</span></span>
-<span class="topo-line"><span class="topo-inside">WFSDPTTAR</span><span class="topo-membrane">TMLIIVNTWLGYPYMMILC</span><span class="topo-outside">MGLLKAIPDDLYEASAMDGAG</span><span class="topo-unknown">PFQNFFK</span><span class="topo-outside">I</span><span class="topo-unknown">TLP</span></span>
-<span class="topo-line"><span class="topo-unknown">LLIKPLT</span><span class="topo-membrane">PLMIASFAFNFNNFVLI</span><span class="topo-inside">QLLTNGGPDRLGTTTPAGYTDLLVNYTYRIAFEGGG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MDVIKKKHWWQSDALKW</span><span class="topo-outside">S</span><span class="topo-membrane">VLGLLGLLVGYLVVLMY</span><span class="topo-inside">AQGEY</span><span class="topo-membrane">LFAITTLILSSAGLYIFA</span><span class="topo-outside">NRKAYAWRYV</span><span class="topo-membrane">YPGMAGMGLFVLFPLVCTIA</span><span class="topo-inside">IAFTNYSSTNQLTFERAQEVLLDRSWQAGKTY</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">NFGLYPAGDEWQLALSDGETGKNYLSDAFKFGGEQKLQLKETTAQPEGERANLRVITQNRQALSDITAILPDGNKVMMSSLRQFSGTQPLYTLDGDGTLTNNQSGVKYRPNNQIGFYQSI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">TADGNWGDEKLSPGYTVTTGW</span><span class="topo-unknown">KNFTRVF</span><span class="topo-inside">TDEGIQKPFLAI</span><span class="topo-membrane">FVWTVVFSLITVFLTVAVGMVLA</span><span class="topo-outside">CLVQWEALRGKAV</span><span class="topo-membrane">YRVLLILPYAVPSFISILIF</span><span class="topo-inside">KGLFNQSFGE</span><span class="topo-unknown">INMMLSA</span><span class="topo-inside">LFGVKPA</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">WFSDPTTAR</span><span class="topo-membrane">TMLIIVNTWLGYPYMMILC</span><span class="topo-outside">MGLLKAIPDDLYEASAMDGAG</span><span class="topo-unknown">PFQNFFK</span><span class="topo-outside">I</span><span class="topo-unknown">TLPLLIKPLT</span><span class="topo-membrane">PLMIASFAFNFNNFVLI</span><span class="topo-inside">QLLTNGGPDRLGTTTPAGYTDLLVNYTYRIAFEGGG</span></span>
+<span class="topo-ruler">       490       500       510    </span>
 <span class="topo-line"><span class="topo-inside">GQDFGLAA</span><span class="topo-membrane">AIATLIFLLVGALAIVNL</span><span class="topo-outside">KAT</span><span class="topo-unknown">RMKFD</span></span>
+<details class="topo-details"><summary>Topology coordinates (26 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -324,6 +326,7 @@ EIIA^Glc (Enzyme IIA^Glc) is a central signaling protein in the Escherichia coli
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -339,11 +342,13 @@ EIIA^Glc (Enzyme IIA^Glc) is a central signaling protein in the Escherichia coli
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">AMVQPKSQKARLFI</span><span class="topo-membrane">THLLLLLFIAAIMFPLLMVVA</span><span class="topo-inside">ISLRQGNFATGSLIPEQISW</span><span class="topo-unknown">DHWK</span></span>
-<span class="topo-line"><span class="topo-unknown">LAL</span><span class="topo-inside">GFSVEQADGRITPPPFPVLLWL</span><span class="topo-membrane">WNSVKVAGISAIGIVALSTTC</span><span class="topo-outside">AYAFARMRFPGKAT</span></span>
-<span class="topo-line"><span class="topo-outside">L</span><span class="topo-membrane">LKGMLIFQMFPAVLSL</span><span class="topo-unknown">VALYALFDRLGEY</span><span class="topo-inside">IPFIGLNTH</span><span class="topo-membrane">GGVIFAYLGGIALHVWT</span><span class="topo-outside">IKGY</span></span>
-<span class="topo-line"><span class="topo-outside">FETIDSSLEEAAALDGAT</span><span class="topo-unknown">PWQAFRL</span><span class="topo-outside">VLLPLSVPIL</span><span class="topo-membrane">AVVFILSFIAAITEVPVA</span><span class="topo-inside">SLLLRDV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">AMVQPKSQKARLFI</span><span class="topo-membrane">THLLLLLFIAAIMFPLLMVVA</span><span class="topo-inside">ISLRQGNFATGSLIPEQISW</span><span class="topo-unknown">DHWKLAL</span><span class="topo-inside">GFSVEQADGRITPPPFPVLLWL</span><span class="topo-membrane">WNSVKVAGISAIGIVALSTTC</span><span class="topo-outside">AYAFARMRFPGKAT</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">L</span><span class="topo-membrane">LKGMLIFQMFPAVLSL</span><span class="topo-unknown">VALYALFDRLGEY</span><span class="topo-inside">IPFIGLNTH</span><span class="topo-membrane">GGVIFAYLGGIALHVWT</span><span class="topo-outside">IKGYFETIDSSLEEAAALDGAT</span><span class="topo-unknown">PWQAFRL</span><span class="topo-outside">VLLPLSVPIL</span><span class="topo-membrane">AVVFILSFIAAITEVPVA</span><span class="topo-inside">SLLLRDV</span></span>
+<span class="topo-ruler">       250       260       270       280       290      </span>
 <span class="topo-line"><span class="topo-inside">NSYTLAVGMQQYLNPQNYLWGDFAA</span><span class="topo-membrane">AAVMSALPITIVFLLAQRW</span><span class="topo-outside">LVN</span><span class="topo-unknown">GLTAGGVKG</span></span>
+<details class="topo-details"><summary>Topology coordinates (20 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -495,6 +500,7 @@ EIIA^Glc (Enzyme IIA^Glc) is a central signaling protein in the Escherichia coli
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -510,13 +516,15 @@ EIIA^Glc (Enzyme IIA^Glc) is a central signaling protein in the Escherichia coli
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">ASVQLQNVTKAWGEVVVSKDINLDIHEGEFVVFVGPSGCGKSTLLRMIAGLETITSGDL</span></span>
-<span class="topo-line"><span class="topo-outside">FIGEKRMNDTPPAERGVGMVFQSYALYPHLSVAENMSFGLKLAGAKKEVINQRVNQVAEV</span></span>
-<span class="topo-line"><span class="topo-outside">LQLAHLLDRKPKALSGGQRQRVAIGRTLVAEPSVFLLDEPLSNLDAALRVQMRIEISRLH</span></span>
-<span class="topo-line"><span class="topo-outside">KRLGRTMIYVTHDQVEAMTLADKIVVLDAGRVAQVGKPLELYHYPADRFVAGFIGSPKMN</span></span>
-<span class="topo-line"><span class="topo-outside">FLPVKVTATAIDQVQVELPMPNRQQVWLPVESRDVQVGANMSLGIRPEHLLPSDIADVIL</span></span>
-<span class="topo-line"><span class="topo-outside">EGEVQVVEQLGNETQIHIQIPSIRQNLVYRQNDVVLVEEGATFAIGLPPERCHLFREDGT</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">ASVQLQNVTKAWGEVVVSKDINLDIHEGEFVVFVGPSGCGKSTLLRMIAGLETITSGDLFIGEKRMNDTPPAERGVGMVFQSYALYPHLSVAENMSFGLKLAGAKKEVINQRVNQVAEV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">LQLAHLLDRKPKALSGGQRQRVAIGRTLVAEPSVFLLDEPLSNLDAALRVQMRIEISRLHKRLGRTMIYVTHDQVEAMTLADKIVVLDAGRVAQVGKPLELYHYPADRFVAGFIGSPKMN</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">FLPVKVTATAIDQVQVELPMPNRQQVWLPVESRDVQVGANMSLGIRPEHLLPSDIADVILEGEVQVVEQLGNETQIHIQIPSIRQNLVYRQNDVVLVEEGATFAIGLPPERCHLFREDGT</span></span>
+<span class="topo-ruler">       370       380 </span>
 <span class="topo-line"><span class="topo-outside">ACRRLHKEPGV</span><span class="topo-unknown">ASASHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -549,6 +557,7 @@ EIIA^Glc (Enzyme IIA^Glc) is a central signaling protein in the Escherichia coli
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -564,13 +573,15 @@ EIIA^Glc (Enzyme IIA^Glc) is a central signaling protein in the Escherichia coli
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">ASVQLQNVTKAWGEVVVSKDINLDIHEGEFVVFVGPSGCGKSTLLRMIAGLETITSGDL</span></span>
-<span class="topo-line"><span class="topo-outside">FIGEKRMNDTPPAERGVGMVFQSYALYPHLSVAENMSFGLKLAGAKKEVINQRVNQVAEV</span></span>
-<span class="topo-line"><span class="topo-outside">LQLAHLLDRKPKALSGGQRQRVAIGRTLVAEPSVFLLDEPLSNLDAALRVQMRIEISRLH</span></span>
-<span class="topo-line"><span class="topo-outside">KRLGRTMIYVTHDQVEAMTLADKIVVLDAGRVAQVGKPLELYHYPADRFVAGFIGSPKMN</span></span>
-<span class="topo-line"><span class="topo-outside">FLPVKVTATAIDQVQVELPMPNRQQVWLPVESRDVQVGANMSLGIRPEHLLPSDIADVIL</span></span>
-<span class="topo-line"><span class="topo-outside">EGEVQVVEQLGNETQIHIQIPSIRQNLVYRQNDVVLVEEGATFAIGLPPERCHLFREDGT</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">ASVQLQNVTKAWGEVVVSKDINLDIHEGEFVVFVGPSGCGKSTLLRMIAGLETITSGDLFIGEKRMNDTPPAERGVGMVFQSYALYPHLSVAENMSFGLKLAGAKKEVINQRVNQVAEV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">LQLAHLLDRKPKALSGGQRQRVAIGRTLVAEPSVFLLDEPLSNLDAALRVQMRIEISRLHKRLGRTMIYVTHDQVEAMTLADKIVVLDAGRVAQVGKPLELYHYPADRFVAGFIGSPKMN</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">FLPVKVTATAIDQVQVELPMPNRQQVWLPVESRDVQVGANMSLGIRPEHLLPSDIADVILEGEVQVVEQLGNETQIHIQIPSIRQNLVYRQNDVVLVEEGATFAIGLPPERCHLFREDGT</span></span>
+<span class="topo-ruler">       370       380 </span>
 <span class="topo-line"><span class="topo-outside">ACRRLHKEPGV</span><span class="topo-unknown">ASASHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -603,6 +614,7 @@ EIIA^Glc (Enzyme IIA^Glc) is a central signaling protein in the Escherichia coli
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -618,9 +630,11 @@ EIIA^Glc (Enzyme IIA^Glc) is a central signaling protein in the Escherichia coli
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">SNAMGLFDKLKSLVSDDKKDTG</span><span class="topo-outside">TIEIIAPLSGEIVNIEDVPDVVFAEKIVGDGIAIKPTG</span></span>
-<span class="topo-line"><span class="topo-outside">NKMVAPVDGTIGKIFETNHAFSIESDSGVELFVHFGIDTVELKGEGFKRIAEEGQRVKVG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">SNAMGLFDKLKSLVSDDKKDTG</span><span class="topo-outside">TIEIIAPLSGEIVNIEDVPDVVFAEKIVGDGIAIKPTGNKMVAPVDGTIGKIFETNHAFSIESDSGVELFVHFGIDTVELKGEGFKRIAEEGQRVKVG</span></span>
+<span class="topo-ruler">       130       140       150       160       170  </span>
 <span class="topo-line"><span class="topo-outside">DTVIEFDLPLLEEKAKSTLTPVVISNMDEIKELIKLSGSVTVGETPVIRIKK</span></span>
+<details class="topo-details"><summary>Topology coordinates (2 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -646,6 +660,7 @@ EIIA^Glc (Enzyme IIA^Glc) is a central signaling protein in the Escherichia coli
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -661,9 +676,11 @@ EIIA^Glc (Enzyme IIA^Glc) is a central signaling protein in the Escherichia coli
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">SNAMGLFDKLKSLVSDDKKDTG</span><span class="topo-outside">TIEIIAPLSGEIVNIEDVPDVVFAEKIVGDGIAIKPTG</span></span>
-<span class="topo-line"><span class="topo-outside">NKMVAPVDGTIGKIFETNHAFSIESDSGVELFVHFGIDTVELKGEGFKRIAEEGQRVKVG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">SNAMGLFDKLKSLVSDDKKDTG</span><span class="topo-outside">TIEIIAPLSGEIVNIEDVPDVVFAEKIVGDGIAIKPTGNKMVAPVDGTIGKIFETNHAFSIESDSGVELFVHFGIDTVELKGEGFKRIAEEGQRVKVG</span></span>
+<span class="topo-ruler">       130       140       150       160       170  </span>
 <span class="topo-line"><span class="topo-outside">DTVIEFDLPLLEEKAKSTLTPVVISNMDEIKELIKLSGSVTVGETPVIRIKK</span></span>
+<details class="topo-details"><summary>Topology coordinates (2 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -689,6 +706,7 @@ EIIA^Glc (Enzyme IIA^Glc) is a central signaling protein in the Escherichia coli
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

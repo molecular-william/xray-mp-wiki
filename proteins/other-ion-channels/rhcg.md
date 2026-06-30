@@ -124,15 +124,17 @@ RhCG (Rhesus C glycoprotein) is a human ammonia channel belonging to the Rh fami
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GPSSP</span><span class="topo-inside">SAWNTNLRWRL</span><span class="topo-membrane">PLTCLLLQVIMVILFGV</span><span class="topo-outside">FVRYDF</span><span class="topo-unknown">EADAHWWSERTHKNLSDM</span><span class="topo-outside">ENE</span></span>
-<span class="topo-line"><span class="topo-outside">FYYRY</span><span class="topo-membrane">PSFQDVHVMVFVGFGFLM</span><span class="topo-inside">TFLQRYGFSA</span><span class="topo-membrane">VGFNFLLAAFGIQWALLMQGW</span><span class="topo-outside">FHFLQD</span></span>
-<span class="topo-line"><span class="topo-outside">RYIVVGVEN</span><span class="topo-membrane">LINADFCVASVCVAFGAV</span><span class="topo-inside">LGKVSP</span><span class="topo-membrane">IQLLIMTFFQVTLFAVNEFIL</span><span class="topo-outside">LNLLKV</span></span>
-<span class="topo-line"><span class="topo-outside">KD</span><span class="topo-membrane">AGGSMTIHTFGAYFGLTVT</span><span class="topo-inside">RILYRRNLEQSKERQNSVYQSDLF</span><span class="topo-membrane">AMIGTLFLWMYWPSF</span></span>
-<span class="topo-line"><span class="topo-membrane">NSA</span><span class="topo-outside">ISYHGDSQHRA</span><span class="topo-membrane">AINTYCSLAACVLTSVAI</span><span class="topo-inside">SSALHKKGKLDMVH</span><span class="topo-membrane">IQNATLAGGVAVGT</span></span>
-<span class="topo-line"><span class="topo-membrane">AA</span><span class="topo-outside">EMMLMP</span><span class="topo-membrane">YGALIIGFVCGIISTLGF</span><span class="topo-unknown">VYLTPFLESRL</span><span class="topo-inside">HIQDTC</span><span class="topo-membrane">GINNLHGIPGIIGGIVG</span></span>
-<span class="topo-line"><span class="topo-membrane">AVT</span><span class="topo-outside">AAS</span><span class="topo-unknown">ASLEVYGKEGLVHSFDFQGFNG</span><span class="topo-outside">DWTARTQGKFQ</span><span class="topo-membrane">IYGLLVTLAMALMGGIIVGLI</span></span>
-<span class="topo-line"><span class="topo-membrane">L</span><span class="topo-inside">RLPFWGQPSDENCFEDAVYWEMPEGNS</span><span class="topo-unknown">TVYIPEDPTFKPSGPSVPSVPMVSPLPMASSV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GPSSP</span><span class="topo-inside">SAWNTNLRWRL</span><span class="topo-membrane">PLTCLLLQVIMVILFGV</span><span class="topo-outside">FVRYDF</span><span class="topo-unknown">EADAHWWSERTHKNLSDM</span><span class="topo-outside">ENEFYYRY</span><span class="topo-membrane">PSFQDVHVMVFVGFGFLM</span><span class="topo-inside">TFLQRYGFSA</span><span class="topo-membrane">VGFNFLLAAFGIQWALLMQGW</span><span class="topo-outside">FHFLQD</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">RYIVVGVEN</span><span class="topo-membrane">LINADFCVASVCVAFGAV</span><span class="topo-inside">LGKVSP</span><span class="topo-membrane">IQLLIMTFFQVTLFAVNEFIL</span><span class="topo-outside">LNLLKVKD</span><span class="topo-membrane">AGGSMTIHTFGAYFGLTVT</span><span class="topo-inside">RILYRRNLEQSKERQNSVYQSDLF</span><span class="topo-membrane">AMIGTLFLWMYWPSF</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">NSA</span><span class="topo-outside">ISYHGDSQHRA</span><span class="topo-membrane">AINTYCSLAACVLTSVAI</span><span class="topo-inside">SSALHKKGKLDMVH</span><span class="topo-membrane">IQNATLAGGVAVGTAA</span><span class="topo-outside">EMMLMP</span><span class="topo-membrane">YGALIIGFVCGIISTLGF</span><span class="topo-unknown">VYLTPFLESRL</span><span class="topo-inside">HIQDTC</span><span class="topo-membrane">GINNLHGIPGIIGGIVG</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">AVT</span><span class="topo-outside">AAS</span><span class="topo-unknown">ASLEVYGKEGLVHSFDFQGFNG</span><span class="topo-outside">DWTARTQGKFQ</span><span class="topo-membrane">IYGLLVTLAMALMGGIIVGLIL</span><span class="topo-inside">RLPFWGQPSDENCFEDAVYWEMPEGNS</span><span class="topo-unknown">TVYIPEDPTFKPSGPSVPSVPMVSPLPMASSV</span></span>
+<span class="topo-ruler">       490</span>
 <span class="topo-line"><span class="topo-unknown">PLVPGGLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (32 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -368,6 +370,7 @@ RhCG (Rhesus C glycoprotein) is a human ammonia channel belonging to the Rh fami
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -383,15 +386,17 @@ RhCG (Rhesus C glycoprotein) is a human ammonia channel belonging to the Rh fami
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GPSSP</span><span class="topo-inside">SAWNTNLRWRL</span><span class="topo-membrane">PLTCLLLQVIMVILFGV</span><span class="topo-outside">FVRYDF</span><span class="topo-unknown">EADAHWWSERTHKNLSDM</span><span class="topo-outside">ENE</span></span>
-<span class="topo-line"><span class="topo-outside">FYYRY</span><span class="topo-membrane">PSFQDVHVMVFVGFGFLM</span><span class="topo-inside">TFLQRYGFSA</span><span class="topo-membrane">VGFNFLLAAFGIQWALLMQGW</span><span class="topo-outside">FHFLQD</span></span>
-<span class="topo-line"><span class="topo-outside">RYIVVGVEN</span><span class="topo-membrane">LINADFCVASVCVAFGAV</span><span class="topo-inside">LGKVSP</span><span class="topo-membrane">IQLLIMTFFQVTLFAVNEFIL</span><span class="topo-outside">LNLLKV</span></span>
-<span class="topo-line"><span class="topo-outside">KD</span><span class="topo-membrane">AGGSMTIHTFGAYFGLTVT</span><span class="topo-inside">RILYRRNLEQSKERQNSVYQSDLF</span><span class="topo-membrane">AMIGTLFLWMYWPSF</span></span>
-<span class="topo-line"><span class="topo-membrane">NSA</span><span class="topo-outside">ISYHGDSQHRA</span><span class="topo-membrane">AINTYCSLAACVLTSVAI</span><span class="topo-inside">SSALHKKGKLDMVH</span><span class="topo-membrane">IQNATLAGGVAVGT</span></span>
-<span class="topo-line"><span class="topo-membrane">AA</span><span class="topo-outside">EMMLMP</span><span class="topo-membrane">YGALIIGFVCGIISTLGF</span><span class="topo-unknown">VYLTPFLESRL</span><span class="topo-inside">HIQDTC</span><span class="topo-membrane">GINNLHGIPGIIGGIVG</span></span>
-<span class="topo-line"><span class="topo-membrane">AVT</span><span class="topo-outside">AAS</span><span class="topo-unknown">ASLEVYGKEGLVHSFDFQGFNG</span><span class="topo-outside">DWTARTQGKFQ</span><span class="topo-membrane">IYGLLVTLAMALMGGIIVGLI</span></span>
-<span class="topo-line"><span class="topo-membrane">L</span><span class="topo-inside">RLPFWGQPSDENCFEDAVYWEMPEGNS</span><span class="topo-unknown">TVYIPEDPTFKPSGPSVPSVPMVSPLPMASSV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GPSSP</span><span class="topo-inside">SAWNTNLRWRL</span><span class="topo-membrane">PLTCLLLQVIMVILFGV</span><span class="topo-outside">FVRYDF</span><span class="topo-unknown">EADAHWWSERTHKNLSDM</span><span class="topo-outside">ENEFYYRY</span><span class="topo-membrane">PSFQDVHVMVFVGFGFLM</span><span class="topo-inside">TFLQRYGFSA</span><span class="topo-membrane">VGFNFLLAAFGIQWALLMQGW</span><span class="topo-outside">FHFLQD</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">RYIVVGVEN</span><span class="topo-membrane">LINADFCVASVCVAFGAV</span><span class="topo-inside">LGKVSP</span><span class="topo-membrane">IQLLIMTFFQVTLFAVNEFIL</span><span class="topo-outside">LNLLKVKD</span><span class="topo-membrane">AGGSMTIHTFGAYFGLTVT</span><span class="topo-inside">RILYRRNLEQSKERQNSVYQSDLF</span><span class="topo-membrane">AMIGTLFLWMYWPSF</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">NSA</span><span class="topo-outside">ISYHGDSQHRA</span><span class="topo-membrane">AINTYCSLAACVLTSVAI</span><span class="topo-inside">SSALHKKGKLDMVH</span><span class="topo-membrane">IQNATLAGGVAVGTAA</span><span class="topo-outside">EMMLMP</span><span class="topo-membrane">YGALIIGFVCGIISTLGF</span><span class="topo-unknown">VYLTPFLESRL</span><span class="topo-inside">HIQDTC</span><span class="topo-membrane">GINNLHGIPGIIGGIVG</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">AVT</span><span class="topo-outside">AAS</span><span class="topo-unknown">ASLEVYGKEGLVHSFDFQGFNG</span><span class="topo-outside">DWTARTQGKFQ</span><span class="topo-membrane">IYGLLVTLAMALMGGIIVGLIL</span><span class="topo-inside">RLPFWGQPSDENCFEDAVYWEMPEGNS</span><span class="topo-unknown">TVYIPEDPTFKPSGPSVPSVPMVSPLPMASSV</span></span>
+<span class="topo-ruler">       490</span>
 <span class="topo-line"><span class="topo-unknown">PLVPGGLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (32 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -627,6 +632,7 @@ RhCG (Rhesus C glycoprotein) is a human ammonia channel belonging to the Rh fami
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -642,15 +648,17 @@ RhCG (Rhesus C glycoprotein) is a human ammonia channel belonging to the Rh fami
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GPSSP</span><span class="topo-inside">SAWNTNLRWRL</span><span class="topo-membrane">PLTCLLLQVIMVILFGV</span><span class="topo-outside">FVRYDF</span><span class="topo-unknown">EADAHWWSERTHKNLSDM</span><span class="topo-outside">ENE</span></span>
-<span class="topo-line"><span class="topo-outside">FYYRY</span><span class="topo-membrane">PSFQDVHVMVFVGFGFLM</span><span class="topo-inside">TFLQRYGFSA</span><span class="topo-membrane">VGFNFLLAAFGIQWALLMQGW</span><span class="topo-outside">FHFLQD</span></span>
-<span class="topo-line"><span class="topo-outside">RYIVVGVEN</span><span class="topo-membrane">LINADFCVASVCVAFGAV</span><span class="topo-inside">LGKVSP</span><span class="topo-membrane">IQLLIMTFFQVTLFAVNEFIL</span><span class="topo-outside">LNLLKV</span></span>
-<span class="topo-line"><span class="topo-outside">KD</span><span class="topo-membrane">AGGSMTIHTFGAYFGLTVT</span><span class="topo-inside">RILYRRNLEQSKERQNSVYQSDLF</span><span class="topo-membrane">AMIGTLFLWMYWPSF</span></span>
-<span class="topo-line"><span class="topo-membrane">NSA</span><span class="topo-outside">ISYHGDSQHRA</span><span class="topo-membrane">AINTYCSLAACVLTSVAI</span><span class="topo-inside">SSALHKKGKLDMVH</span><span class="topo-membrane">IQNATLAGGVAVGT</span></span>
-<span class="topo-line"><span class="topo-membrane">AA</span><span class="topo-outside">EMMLMP</span><span class="topo-membrane">YGALIIGFVCGIISTLGF</span><span class="topo-unknown">VYLTPFLESRL</span><span class="topo-inside">HIQDTC</span><span class="topo-membrane">GINNLHGIPGIIGGIVG</span></span>
-<span class="topo-line"><span class="topo-membrane">AVT</span><span class="topo-outside">AAS</span><span class="topo-unknown">ASLEVYGKEGLVHSFDFQGFNG</span><span class="topo-outside">DWTARTQGKFQ</span><span class="topo-membrane">IYGLLVTLAMALMGGIIVGLI</span></span>
-<span class="topo-line"><span class="topo-membrane">L</span><span class="topo-inside">RLPFWGQPSDENCFEDAVYWEMPEGNS</span><span class="topo-unknown">TVYIPEDPTFKPSGPSVPSVPMVSPLPMASSV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GPSSP</span><span class="topo-inside">SAWNTNLRWRL</span><span class="topo-membrane">PLTCLLLQVIMVILFGV</span><span class="topo-outside">FVRYDF</span><span class="topo-unknown">EADAHWWSERTHKNLSDM</span><span class="topo-outside">ENEFYYRY</span><span class="topo-membrane">PSFQDVHVMVFVGFGFLM</span><span class="topo-inside">TFLQRYGFSA</span><span class="topo-membrane">VGFNFLLAAFGIQWALLMQGW</span><span class="topo-outside">FHFLQD</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">RYIVVGVEN</span><span class="topo-membrane">LINADFCVASVCVAFGAV</span><span class="topo-inside">LGKVSP</span><span class="topo-membrane">IQLLIMTFFQVTLFAVNEFIL</span><span class="topo-outside">LNLLKVKD</span><span class="topo-membrane">AGGSMTIHTFGAYFGLTVT</span><span class="topo-inside">RILYRRNLEQSKERQNSVYQSDLF</span><span class="topo-membrane">AMIGTLFLWMYWPSF</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">NSA</span><span class="topo-outside">ISYHGDSQHRA</span><span class="topo-membrane">AINTYCSLAACVLTSVAI</span><span class="topo-inside">SSALHKKGKLDMVH</span><span class="topo-membrane">IQNATLAGGVAVGTAA</span><span class="topo-outside">EMMLMP</span><span class="topo-membrane">YGALIIGFVCGIISTLGF</span><span class="topo-unknown">VYLTPFLESRL</span><span class="topo-inside">HIQDTC</span><span class="topo-membrane">GINNLHGIPGIIGGIVG</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">AVT</span><span class="topo-outside">AAS</span><span class="topo-unknown">ASLEVYGKEGLVHSFDFQGFNG</span><span class="topo-outside">DWTARTQGKFQ</span><span class="topo-membrane">IYGLLVTLAMALMGGIIVGLIL</span><span class="topo-inside">RLPFWGQPSDENCFEDAVYWEMPEGNS</span><span class="topo-unknown">TVYIPEDPTFKPSGPSVPSVPMVSPLPMASSV</span></span>
+<span class="topo-ruler">       490</span>
 <span class="topo-line"><span class="topo-unknown">PLVPGGLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (32 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -886,6 +894,7 @@ RhCG (Rhesus C glycoprotein) is a human ammonia channel belonging to the Rh fami
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

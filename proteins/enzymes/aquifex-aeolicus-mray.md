@@ -75,13 +75,15 @@ and caprolactam pocket (unique to capuramycins).
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GPAVPRMLYQLALLLKDYW</span><span class="topo-inside">FAFNVLKYITF</span><span class="topo-membrane">RSFTAVLIAFFLTLVLS</span><span class="topo-outside">PSFINRL</span><span class="topo-unknown">RKIQRL</span></span>
-<span class="topo-line"><span class="topo-unknown">FGGYVREYTPESHEV</span><span class="topo-outside">KKYTPTMG</span><span class="topo-membrane">GIVILIVVTLSTLLLM</span><span class="topo-inside">RWDIKYT</span><span class="topo-membrane">WVVLLSFLSFGTIG</span></span>
-<span class="topo-line"><span class="topo-membrane">FWD</span><span class="topo-outside">DYVKLKNKKGISI</span><span class="topo-membrane">KTKFLLQVLSASLIS</span><span class="topo-inside">VLIYYWADIDTILYFPFFKELYVDLGVLY</span></span>
-<span class="topo-line"><span class="topo-inside">L</span><span class="topo-membrane">PFAVFVIVGSANAVNLTD</span><span class="topo-outside">GLDGL</span><span class="topo-membrane">AIGPAMTTATALGVV</span><span class="topo-inside">AYAVGHSKIAQYLNIPYVPYA</span></span>
-<span class="topo-line"><span class="topo-inside">GEL</span><span class="topo-membrane">TVFCFALVGAGLGFLW</span><span class="topo-outside">FNSFPAQMFM</span><span class="topo-membrane">GDVGSLSIGASLATVAL</span><span class="topo-inside">LTKS</span><span class="topo-membrane">EFIFAVAAGV</span></span>
-<span class="topo-line"><span class="topo-membrane">FVFETISVIL</span><span class="topo-outside">QIIYFRWTGGKRLFKRAPFHHHLELNGLPEPKIVV</span><span class="topo-membrane">RMWIISILLAIIAIS</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GPAVPRMLYQLALLLKDYW</span><span class="topo-inside">FAFNVLKYITF</span><span class="topo-membrane">RSFTAVLIAFFLTLVLS</span><span class="topo-outside">PSFINRL</span><span class="topo-unknown">RKIQRLFGGYVREYTPESHEV</span><span class="topo-outside">KKYTPTMG</span><span class="topo-membrane">GIVILIVVTLSTLLLM</span><span class="topo-inside">RWDIKYT</span><span class="topo-membrane">WVVLLSFLSFGTIG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">FWD</span><span class="topo-outside">DYVKLKNKKGISI</span><span class="topo-membrane">KTKFLLQVLSASLIS</span><span class="topo-inside">VLIYYWADIDTILYFPFFKELYVDLGVLYL</span><span class="topo-membrane">PFAVFVIVGSANAVNLTD</span><span class="topo-outside">GLDGL</span><span class="topo-membrane">AIGPAMTTATALGVV</span><span class="topo-inside">AYAVGHSKIAQYLNIPYVPYA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">GEL</span><span class="topo-membrane">TVFCFALVGAGLGFLW</span><span class="topo-outside">FNSFPAQMFM</span><span class="topo-membrane">GDVGSLSIGASLATVAL</span><span class="topo-inside">LTKS</span><span class="topo-membrane">EFIFAVAAGVFVFETISVIL</span><span class="topo-outside">QIIYFRWTGGKRLFKRAPFHHHLELNGLPEPKIVV</span><span class="topo-membrane">RMWIISILLAIIAIS</span></span>
+<span class="topo-ruler">     </span>
 <span class="topo-line"><span class="topo-membrane">M</span><span class="topo-inside">LK</span><span class="topo-unknown">LR</span></span>
+<details class="topo-details"><summary>Topology coordinates (25 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -268,6 +270,7 @@ and caprolactam pocket (unique to capuramycins).
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -283,13 +286,15 @@ and caprolactam pocket (unique to capuramycins).
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GPAVPRMLYQLALLLKDYW</span><span class="topo-inside">FAFNVLKYITF</span><span class="topo-membrane">RSFTAVLIAFFLTLVLS</span><span class="topo-outside">PSFINRL</span><span class="topo-unknown">RKIQRL</span></span>
-<span class="topo-line"><span class="topo-unknown">FGGYVREYTPESHEV</span><span class="topo-outside">KKYTPTMG</span><span class="topo-membrane">GIVILIVVTLSTLLLM</span><span class="topo-inside">RWDIKYT</span><span class="topo-membrane">WVVLLSFLSFGTIG</span></span>
-<span class="topo-line"><span class="topo-membrane">FWD</span><span class="topo-outside">DYVK</span><span class="topo-unknown">LKNK</span><span class="topo-outside">KGISI</span><span class="topo-membrane">KTKFLLQVLSASLIS</span><span class="topo-inside">VLIYYWADIDTILYFPFFKELYVDLGVLY</span></span>
-<span class="topo-line"><span class="topo-inside">L</span><span class="topo-membrane">PFAVFVIVGSANAVNLTD</span><span class="topo-outside">GLDGL</span><span class="topo-membrane">AIGPAMTTATALGVV</span><span class="topo-inside">AYAVGHSKIAQYLNIPYVPYA</span></span>
-<span class="topo-line"><span class="topo-inside">GEL</span><span class="topo-membrane">TVFCFALVGAGLGFLW</span><span class="topo-outside">FNSFPAQMFM</span><span class="topo-membrane">GDVGSLSIGASLATVAL</span><span class="topo-inside">LTKS</span><span class="topo-membrane">EFIFAVAAGV</span></span>
-<span class="topo-line"><span class="topo-membrane">FVFETISVIL</span><span class="topo-outside">QIIYFRW</span><span class="topo-unknown">TGGKRLFKRAPFHHHLELNGLP</span><span class="topo-outside">EPKIVV</span><span class="topo-membrane">RMWIISILLAIIAIS</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GPAVPRMLYQLALLLKDYW</span><span class="topo-inside">FAFNVLKYITF</span><span class="topo-membrane">RSFTAVLIAFFLTLVLS</span><span class="topo-outside">PSFINRL</span><span class="topo-unknown">RKIQRLFGGYVREYTPESHEV</span><span class="topo-outside">KKYTPTMG</span><span class="topo-membrane">GIVILIVVTLSTLLLM</span><span class="topo-inside">RWDIKYT</span><span class="topo-membrane">WVVLLSFLSFGTIG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">FWD</span><span class="topo-outside">DYVK</span><span class="topo-unknown">LKNK</span><span class="topo-outside">KGISI</span><span class="topo-membrane">KTKFLLQVLSASLIS</span><span class="topo-inside">VLIYYWADIDTILYFPFFKELYVDLGVLYL</span><span class="topo-membrane">PFAVFVIVGSANAVNLTD</span><span class="topo-outside">GLDGL</span><span class="topo-membrane">AIGPAMTTATALGVV</span><span class="topo-inside">AYAVGHSKIAQYLNIPYVPYA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">GEL</span><span class="topo-membrane">TVFCFALVGAGLGFLW</span><span class="topo-outside">FNSFPAQMFM</span><span class="topo-membrane">GDVGSLSIGASLATVAL</span><span class="topo-inside">LTKS</span><span class="topo-membrane">EFIFAVAAGVFVFETISVIL</span><span class="topo-outside">QIIYFRW</span><span class="topo-unknown">TGGKRLFKRAPFHHHLELNGLP</span><span class="topo-outside">EPKIVV</span><span class="topo-membrane">RMWIISILLAIIAIS</span></span>
+<span class="topo-ruler">     </span>
 <span class="topo-line"><span class="topo-membrane">M</span><span class="topo-inside">LK</span><span class="topo-unknown">LR</span></span>
+<details class="topo-details"><summary>Topology coordinates (29 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -504,6 +509,7 @@ and caprolactam pocket (unique to capuramycins).
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -619,13 +625,15 @@ and caprolactam pocket (unique to capuramycins).
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GPAVPRMLYQLALLLKDYWFAFNVL</span><span class="topo-inside">KYITFR</span><span class="topo-membrane">SFTAVLIAFFLTLVLSPSF</span><span class="topo-outside">INRLRKIQRL</span></span>
-<span class="topo-line"><span class="topo-outside">FGG</span><span class="topo-unknown">YVREYTPESHE</span><span class="topo-outside">VKKYTPTM</span><span class="topo-membrane">GGIVILIVVTLSTLLLM</span><span class="topo-inside">RWDIKYT</span><span class="topo-membrane">WVVLLSFLSFGTIG</span></span>
-<span class="topo-line"><span class="topo-membrane">FWD</span><span class="topo-outside">DYVKLKNKKGISI</span><span class="topo-membrane">KTKFLLQVLSASLISVLI</span><span class="topo-inside">YYWADIDTILYFPFFKELYVDLGV</span><span class="topo-membrane">LY</span></span>
-<span class="topo-line"><span class="topo-membrane">LPFAVFVIVGSANAVNLTD</span><span class="topo-outside">GLDG</span><span class="topo-membrane">LAIGPAMTTATALGVVA</span><span class="topo-inside">YAVGHSKIAQYLNIPYVPYA</span></span>
-<span class="topo-line"><span class="topo-inside">GEL</span><span class="topo-membrane">TVFCFALVGAGLGFLWFN</span><span class="topo-outside">SFPAQMFM</span><span class="topo-membrane">GDVGSLSIGASLATVALLTK</span><span class="topo-inside">S</span><span class="topo-membrane">EFIFAVAAGV</span></span>
-<span class="topo-line"><span class="topo-membrane">FVFETIS</span><span class="topo-outside">VILQIIYFRWTGGKRLFKRAPFHHHLELNGLPEPKIV</span><span class="topo-membrane">VRMWIISILLAIIAIS</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GPAVPRMLYQLALLLKDYWFAFNVL</span><span class="topo-inside">KYITFR</span><span class="topo-membrane">SFTAVLIAFFLTLVLSPSF</span><span class="topo-outside">INRLRKIQRLFGG</span><span class="topo-unknown">YVREYTPESHE</span><span class="topo-outside">VKKYTPTM</span><span class="topo-membrane">GGIVILIVVTLSTLLLM</span><span class="topo-inside">RWDIKYT</span><span class="topo-membrane">WVVLLSFLSFGTIG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">FWD</span><span class="topo-outside">DYVKLKNKKGISI</span><span class="topo-membrane">KTKFLLQVLSASLISVLI</span><span class="topo-inside">YYWADIDTILYFPFFKELYVDLGV</span><span class="topo-membrane">LYLPFAVFVIVGSANAVNLTD</span><span class="topo-outside">GLDG</span><span class="topo-membrane">LAIGPAMTTATALGVVA</span><span class="topo-inside">YAVGHSKIAQYLNIPYVPYA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">GEL</span><span class="topo-membrane">TVFCFALVGAGLGFLWFN</span><span class="topo-outside">SFPAQMFM</span><span class="topo-membrane">GDVGSLSIGASLATVALLTK</span><span class="topo-inside">S</span><span class="topo-membrane">EFIFAVAAGVFVFETIS</span><span class="topo-outside">VILQIIYFRWTGGKRLFKRAPFHHHLELNGLPEPKIV</span><span class="topo-membrane">VRMWIISILLAIIAIS</span></span>
+<span class="topo-ruler">     </span>
 <span class="topo-line"><span class="topo-membrane">ML</span><span class="topo-inside">KLR</span></span>
+<details class="topo-details"><summary>Topology coordinates (22 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -791,6 +799,7 @@ and caprolactam pocket (unique to capuramycins).
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -806,13 +815,15 @@ and caprolactam pocket (unique to capuramycins).
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GPAVPRMLYQLALLLKDYWFAFNVL</span><span class="topo-inside">KYIT</span><span class="topo-membrane">FRSFTAVLIAFFLTLVLS</span><span class="topo-outside">PSFINRLRKIQRL</span></span>
-<span class="topo-line"><span class="topo-outside">FGG</span><span class="topo-unknown">YVREYTPESHE</span><span class="topo-outside">VKKYTPTMG</span><span class="topo-membrane">GIVILIVVTLSTLLLM</span><span class="topo-inside">RWDIK</span><span class="topo-membrane">YTWVVLLSFLSFGTIG</span></span>
-<span class="topo-line"><span class="topo-membrane">FW</span><span class="topo-outside">DDYVKLKNKKGISI</span><span class="topo-membrane">KTKFLLQVLSASLISVLI</span><span class="topo-inside">YYWADIDTILYFPFFKELYVDLGV</span><span class="topo-membrane">LY</span></span>
-<span class="topo-line"><span class="topo-membrane">LPFAVFVIVGSANAVNLTD</span><span class="topo-outside">GLDG</span><span class="topo-membrane">LAIGPAMTTATALGVVA</span><span class="topo-inside">YAVGHSKIAQYLNIPYVPYA</span></span>
-<span class="topo-line"><span class="topo-inside">GE</span><span class="topo-membrane">LTVFCFALVGAGLGFLW</span><span class="topo-outside">FNSFPAQMFMGD</span><span class="topo-membrane">VGSLSIGASLATVALLTK</span><span class="topo-inside">S</span><span class="topo-membrane">EFIFAVAAGV</span></span>
-<span class="topo-line"><span class="topo-membrane">FVFETISVIL</span><span class="topo-unknown">QIIYFRWT</span><span class="topo-outside">GGKRLFKRAPFHHHLELNGLPEPKIV</span><span class="topo-membrane">VRMWIISILLAIIAIS</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GPAVPRMLYQLALLLKDYWFAFNVL</span><span class="topo-inside">KYIT</span><span class="topo-membrane">FRSFTAVLIAFFLTLVLS</span><span class="topo-outside">PSFINRLRKIQRLFGG</span><span class="topo-unknown">YVREYTPESHE</span><span class="topo-outside">VKKYTPTMG</span><span class="topo-membrane">GIVILIVVTLSTLLLM</span><span class="topo-inside">RWDIK</span><span class="topo-membrane">YTWVVLLSFLSFGTIG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">FW</span><span class="topo-outside">DDYVKLKNKKGISI</span><span class="topo-membrane">KTKFLLQVLSASLISVLI</span><span class="topo-inside">YYWADIDTILYFPFFKELYVDLGV</span><span class="topo-membrane">LYLPFAVFVIVGSANAVNLTD</span><span class="topo-outside">GLDG</span><span class="topo-membrane">LAIGPAMTTATALGVVA</span><span class="topo-inside">YAVGHSKIAQYLNIPYVPYA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">GE</span><span class="topo-membrane">LTVFCFALVGAGLGFLW</span><span class="topo-outside">FNSFPAQMFMGD</span><span class="topo-membrane">VGSLSIGASLATVALLTK</span><span class="topo-inside">S</span><span class="topo-membrane">EFIFAVAAGVFVFETISVIL</span><span class="topo-unknown">QIIYFRWT</span><span class="topo-outside">GGKRLFKRAPFHHHLELNGLPEPKIV</span><span class="topo-membrane">VRMWIISILLAIIAIS</span></span>
+<span class="topo-ruler">     </span>
 <span class="topo-line"><span class="topo-membrane">M</span><span class="topo-inside">LKLR</span></span>
+<details class="topo-details"><summary>Topology coordinates (23 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -985,6 +996,7 @@ and caprolactam pocket (unique to capuramycins).
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1118,13 +1130,15 @@ and caprolactam pocket (unique to capuramycins).
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GPAVPRMLYQLALLLKDYW</span><span class="topo-outside">FAFNVLKYITFRSF</span><span class="topo-membrane">TAVLIAFFLTLVLS</span><span class="topo-inside">PSFINRLRKIQ</span><span class="topo-unknown">RL</span></span>
-<span class="topo-line"><span class="topo-unknown">FGGYVREYTPESHE</span><span class="topo-inside">VKKYTPTMG</span><span class="topo-membrane">GIVILIVVTLSTLL</span><span class="topo-outside">LMRWDIKYTWV</span><span class="topo-membrane">VLLSFLSFGTIG</span></span>
-<span class="topo-line"><span class="topo-membrane">FWD</span><span class="topo-inside">DYVKLKNKKGISI</span><span class="topo-membrane">KTKFLLQVLSASLIS</span><span class="topo-outside">VLIYYWADIDTILYFPFFKELYVDLGVLY</span></span>
-<span class="topo-line"><span class="topo-outside">L</span><span class="topo-membrane">PFAVFVIVGSANAVNLTD</span><span class="topo-inside">GLDG</span><span class="topo-membrane">LAIGPAMTTATALG</span><span class="topo-outside">VVAYAVGHSKIAQYLNIPYVPYA</span></span>
-<span class="topo-line"><span class="topo-outside">GELTV</span><span class="topo-membrane">FCFALVGAGLGFLWF</span><span class="topo-inside">NSFPAQMFM</span><span class="topo-membrane">GDVGSLSIGASLATVA</span><span class="topo-outside">LLTKSE</span><span class="topo-membrane">FIFAVAAGV</span></span>
-<span class="topo-line"><span class="topo-membrane">FVFETISVIL</span><span class="topo-inside">QIIYFRWTGGKR</span><span class="topo-unknown">LFK</span><span class="topo-inside">RAPFHHHLELNGLPEPKIV</span><span class="topo-membrane">VRMWIISILLAIIAI</span><span class="topo-outside">S</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GPAVPRMLYQLALLLKDYW</span><span class="topo-outside">FAFNVLKYITFRSF</span><span class="topo-membrane">TAVLIAFFLTLVLS</span><span class="topo-inside">PSFINRLRKIQ</span><span class="topo-unknown">RLFGGYVREYTPESHE</span><span class="topo-inside">VKKYTPTMG</span><span class="topo-membrane">GIVILIVVTLSTLL</span><span class="topo-outside">LMRWDIKYTWV</span><span class="topo-membrane">VLLSFLSFGTIG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">FWD</span><span class="topo-inside">DYVKLKNKKGISI</span><span class="topo-membrane">KTKFLLQVLSASLIS</span><span class="topo-outside">VLIYYWADIDTILYFPFFKELYVDLGVLYL</span><span class="topo-membrane">PFAVFVIVGSANAVNLTD</span><span class="topo-inside">GLDG</span><span class="topo-membrane">LAIGPAMTTATALG</span><span class="topo-outside">VVAYAVGHSKIAQYLNIPYVPYA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">GELTV</span><span class="topo-membrane">FCFALVGAGLGFLWF</span><span class="topo-inside">NSFPAQMFM</span><span class="topo-membrane">GDVGSLSIGASLATVA</span><span class="topo-outside">LLTKSE</span><span class="topo-membrane">FIFAVAAGVFVFETISVIL</span><span class="topo-inside">QIIYFRWTGGKR</span><span class="topo-unknown">LFK</span><span class="topo-inside">RAPFHHHLELNGLPEPKIV</span><span class="topo-membrane">VRMWIISILLAIIAI</span><span class="topo-outside">S</span></span>
+<span class="topo-ruler">     </span>
 <span class="topo-line"><span class="topo-outside">MLKL</span><span class="topo-unknown">R</span></span>
+<details class="topo-details"><summary>Topology coordinates (23 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1297,6 +1311,7 @@ and caprolactam pocket (unique to capuramycins).
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1312,13 +1327,15 @@ and caprolactam pocket (unique to capuramycins).
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GPAVPRMLYQLALLLKDY</span><span class="topo-outside">WFAFNVLKYITFRSF</span><span class="topo-membrane">TAVLIAFFLTLVLS</span><span class="topo-inside">PSFINRLRKIQ</span><span class="topo-unknown">RL</span></span>
-<span class="topo-line"><span class="topo-unknown">FGGYVREYTPESHE</span><span class="topo-inside">VKKYTPTMG</span><span class="topo-membrane">GIVILIVVTLSTLL</span><span class="topo-outside">LMRWDIKYTWV</span><span class="topo-membrane">VLLSFLSFGTIG</span></span>
-<span class="topo-line"><span class="topo-membrane">FW</span><span class="topo-inside">DDYVKLKNKKGISIK</span><span class="topo-membrane">TKFLLQVLSASLIS</span><span class="topo-outside">VLIYYWADIDTILYFPFFKELYVDLGVLY</span></span>
-<span class="topo-line"><span class="topo-outside">L</span><span class="topo-membrane">PFAVFVIVGSANAVNLTD</span><span class="topo-inside">GLDG</span><span class="topo-membrane">LAIGPAMTTATALG</span><span class="topo-outside">VVAYAVGHSKIAQYLNIPYVPYA</span></span>
-<span class="topo-line"><span class="topo-outside">GELTV</span><span class="topo-membrane">FCFALVGAGLGFLWF</span><span class="topo-inside">NSFPAQMFM</span><span class="topo-membrane">GDVGSLSIGASLATVAL</span><span class="topo-outside">LTKSE</span><span class="topo-membrane">FIFAVAAGV</span></span>
-<span class="topo-line"><span class="topo-membrane">FVFETISVIL</span><span class="topo-inside">QIIYFRWTGGKRLFKRAPFHHHLELNGLPEPKIV</span><span class="topo-membrane">VRMWIISILLAIIAI</span><span class="topo-outside">S</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GPAVPRMLYQLALLLKDY</span><span class="topo-outside">WFAFNVLKYITFRSF</span><span class="topo-membrane">TAVLIAFFLTLVLS</span><span class="topo-inside">PSFINRLRKIQ</span><span class="topo-unknown">RLFGGYVREYTPESHE</span><span class="topo-inside">VKKYTPTMG</span><span class="topo-membrane">GIVILIVVTLSTLL</span><span class="topo-outside">LMRWDIKYTWV</span><span class="topo-membrane">VLLSFLSFGTIG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">FW</span><span class="topo-inside">DDYVKLKNKKGISIK</span><span class="topo-membrane">TKFLLQVLSASLIS</span><span class="topo-outside">VLIYYWADIDTILYFPFFKELYVDLGVLYL</span><span class="topo-membrane">PFAVFVIVGSANAVNLTD</span><span class="topo-inside">GLDG</span><span class="topo-membrane">LAIGPAMTTATALG</span><span class="topo-outside">VVAYAVGHSKIAQYLNIPYVPYA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">GELTV</span><span class="topo-membrane">FCFALVGAGLGFLWF</span><span class="topo-inside">NSFPAQMFM</span><span class="topo-membrane">GDVGSLSIGASLATVAL</span><span class="topo-outside">LTKSE</span><span class="topo-membrane">FIFAVAAGVFVFETISVIL</span><span class="topo-inside">QIIYFRWTGGKRLFKRAPFHHHLELNGLPEPKIV</span><span class="topo-membrane">VRMWIISILLAIIAI</span><span class="topo-outside">S</span></span>
+<span class="topo-ruler">     </span>
 <span class="topo-line"><span class="topo-outside">MLKL</span><span class="topo-unknown">R</span></span>
+<details class="topo-details"><summary>Topology coordinates (22 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1484,6 +1501,7 @@ and caprolactam pocket (unique to capuramycins).
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1499,13 +1517,15 @@ and caprolactam pocket (unique to capuramycins).
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GPAVPRMLYQLALLLKDYWFAFNVLK</span><span class="topo-outside">YITFRS</span><span class="topo-membrane">FTAVLIAFFLTLVLSPSF</span><span class="topo-inside">INRLRKIQR</span><span class="topo-unknown">L</span></span>
-<span class="topo-line"><span class="topo-unknown">FGGYVREYTPESHEV</span><span class="topo-inside">KKYTPTMG</span><span class="topo-membrane">GIVILIVVTLSTLLL</span><span class="topo-outside">MRWDIKYT</span><span class="topo-membrane">WVVLLSFLSFGTIG</span></span>
-<span class="topo-line"><span class="topo-membrane">FWD</span><span class="topo-inside">DYVKLKNKKGISI</span><span class="topo-membrane">KTKFLLQVLSASLISVL</span><span class="topo-outside">IYYWADIDTILYFPFFKELYVDLGVL</span><span class="topo-membrane">Y</span></span>
-<span class="topo-line"><span class="topo-membrane">LPFAVFVIVGSANAVNLTD</span><span class="topo-inside">GLDG</span><span class="topo-membrane">LAIGPAMTTATALGV</span><span class="topo-outside">VAYAVGHSKIAQYLNIPYVPYA</span></span>
-<span class="topo-line"><span class="topo-outside">GEL</span><span class="topo-membrane">TVFCFALVGAGLGFLWF</span><span class="topo-inside">NSFPAQMFM</span><span class="topo-membrane">GDVGSLSIGASLATVAL</span><span class="topo-outside">LTKS</span><span class="topo-membrane">EFIFAVAAGV</span></span>
-<span class="topo-line"><span class="topo-membrane">FVFETISVIL</span><span class="topo-unknown">QIIYFRW</span><span class="topo-inside">T</span><span class="topo-unknown">GGKRLFKRA</span><span class="topo-inside">PFHHHLELNGLPEPKIV</span><span class="topo-membrane">VRMWIISILLAIIAIS</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GPAVPRMLYQLALLLKDYWFAFNVLK</span><span class="topo-outside">YITFRS</span><span class="topo-membrane">FTAVLIAFFLTLVLSPSF</span><span class="topo-inside">INRLRKIQR</span><span class="topo-unknown">LFGGYVREYTPESHEV</span><span class="topo-inside">KKYTPTMG</span><span class="topo-membrane">GIVILIVVTLSTLLL</span><span class="topo-outside">MRWDIKYT</span><span class="topo-membrane">WVVLLSFLSFGTIG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">FWD</span><span class="topo-inside">DYVKLKNKKGISI</span><span class="topo-membrane">KTKFLLQVLSASLISVL</span><span class="topo-outside">IYYWADIDTILYFPFFKELYVDLGVL</span><span class="topo-membrane">YLPFAVFVIVGSANAVNLTD</span><span class="topo-inside">GLDG</span><span class="topo-membrane">LAIGPAMTTATALGV</span><span class="topo-outside">VAYAVGHSKIAQYLNIPYVPYA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">GEL</span><span class="topo-membrane">TVFCFALVGAGLGFLWF</span><span class="topo-inside">NSFPAQMFM</span><span class="topo-membrane">GDVGSLSIGASLATVAL</span><span class="topo-outside">LTKS</span><span class="topo-membrane">EFIFAVAAGVFVFETISVIL</span><span class="topo-unknown">QIIYFRW</span><span class="topo-inside">T</span><span class="topo-unknown">GGKRLFKRA</span><span class="topo-inside">PFHHHLELNGLPEPKIV</span><span class="topo-membrane">VRMWIISILLAIIAIS</span></span>
+<span class="topo-ruler">     </span>
 <span class="topo-line"><span class="topo-membrane">M</span><span class="topo-outside">LKL</span><span class="topo-unknown">R</span></span>
+<details class="topo-details"><summary>Topology coordinates (24 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1685,6 +1705,7 @@ and caprolactam pocket (unique to capuramycins).
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1700,13 +1721,15 @@ and caprolactam pocket (unique to capuramycins).
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GPAVPRMLYQL</span><span class="topo-inside">A</span><span class="topo-membrane">LLLKDYWFAFNVLKYI</span><span class="topo-outside">TFR</span><span class="topo-membrane">SFTAVLIAFFLTLVLS</span><span class="topo-inside">PSFINRLRKIQ</span><span class="topo-unknown">RL</span></span>
-<span class="topo-line"><span class="topo-unknown">FGGYVREYTPESHE</span><span class="topo-inside">VKKYTPTMG</span><span class="topo-membrane">GIVILIVVTLSTLLL</span><span class="topo-outside">MRWDIKYT</span><span class="topo-membrane">WVVLLSFLSFGTIG</span></span>
-<span class="topo-line"><span class="topo-membrane">FWD</span><span class="topo-inside">DYVKLKN</span><span class="topo-unknown">KKG</span><span class="topo-inside">ISI</span><span class="topo-membrane">KTKFLLQVLSASLISVL</span><span class="topo-outside">IYYWADIDTILYFPFFKELYVDLGVL</span><span class="topo-membrane">Y</span></span>
-<span class="topo-line"><span class="topo-membrane">LPFAVFVIVGSANAVNLTD</span><span class="topo-inside">GLDG</span><span class="topo-membrane">LAIGPAMTTATALGV</span><span class="topo-outside">VAYAVGHSKIAQYLNIPYVPYA</span></span>
-<span class="topo-line"><span class="topo-outside">GEL</span><span class="topo-membrane">TVFCFALVGAGLGFLWF</span><span class="topo-inside">NSFPAQMFM</span><span class="topo-membrane">GDVGSLSIGASLATVAL</span><span class="topo-outside">LTKS</span><span class="topo-membrane">EFIFAVAAGV</span></span>
-<span class="topo-line"><span class="topo-membrane">FVFETISVIL</span><span class="topo-inside">QIIYFRWT</span><span class="topo-unknown">GGKR</span><span class="topo-inside">LFKRAPFHHHLELNGLPEPKIV</span><span class="topo-membrane">VRMWIISILLAIIAIS</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GPAVPRMLYQL</span><span class="topo-inside">A</span><span class="topo-membrane">LLLKDYWFAFNVLKYI</span><span class="topo-outside">TFR</span><span class="topo-membrane">SFTAVLIAFFLTLVLS</span><span class="topo-inside">PSFINRLRKIQ</span><span class="topo-unknown">RLFGGYVREYTPESHE</span><span class="topo-inside">VKKYTPTMG</span><span class="topo-membrane">GIVILIVVTLSTLLL</span><span class="topo-outside">MRWDIKYT</span><span class="topo-membrane">WVVLLSFLSFGTIG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">FWD</span><span class="topo-inside">DYVKLKN</span><span class="topo-unknown">KKG</span><span class="topo-inside">ISI</span><span class="topo-membrane">KTKFLLQVLSASLISVL</span><span class="topo-outside">IYYWADIDTILYFPFFKELYVDLGVL</span><span class="topo-membrane">YLPFAVFVIVGSANAVNLTD</span><span class="topo-inside">GLDG</span><span class="topo-membrane">LAIGPAMTTATALGV</span><span class="topo-outside">VAYAVGHSKIAQYLNIPYVPYA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">GEL</span><span class="topo-membrane">TVFCFALVGAGLGFLWF</span><span class="topo-inside">NSFPAQMFM</span><span class="topo-membrane">GDVGSLSIGASLATVAL</span><span class="topo-outside">LTKS</span><span class="topo-membrane">EFIFAVAAGVFVFETISVIL</span><span class="topo-inside">QIIYFRWT</span><span class="topo-unknown">GGKR</span><span class="topo-inside">LFKRAPFHHHLELNGLPEPKIV</span><span class="topo-membrane">VRMWIISILLAIIAIS</span></span>
+<span class="topo-ruler">     </span>
 <span class="topo-line"><span class="topo-membrane">M</span><span class="topo-outside">LKL</span><span class="topo-unknown">R</span></span>
+<details class="topo-details"><summary>Topology coordinates (26 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1900,6 +1923,7 @@ and caprolactam pocket (unique to capuramycins).
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1915,13 +1939,15 @@ and caprolactam pocket (unique to capuramycins).
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GPAVPRMLYQLALLLKDYWF</span><span class="topo-outside">AFNVLKYITFRS</span><span class="topo-membrane">FTAVLIAFFLTLVLS</span><span class="topo-inside">PSFINRLRKIQRL</span></span>
-<span class="topo-line"><span class="topo-inside">FG</span><span class="topo-unknown">GYVREYTPESHEV</span><span class="topo-inside">KKYTPTMG</span><span class="topo-membrane">GIVILIVVTLSTLLL</span><span class="topo-outside">MRWDIKYT</span><span class="topo-membrane">WVVLLSFLSFGTIG</span></span>
-<span class="topo-line"><span class="topo-membrane">FWD</span><span class="topo-inside">DYVKLKNKKGISIK</span><span class="topo-membrane">TKFLLQVLSASLISV</span><span class="topo-outside">LIYYWADIDTILYFPFFKELYVDLGVL</span><span class="topo-membrane">Y</span></span>
-<span class="topo-line"><span class="topo-membrane">LPFAVFVIVGSANAVNLTD</span><span class="topo-inside">GLDG</span><span class="topo-membrane">LAIGPAMTTATALGV</span><span class="topo-outside">VAYAVGHSKIAQYLNIPYVPYA</span></span>
-<span class="topo-line"><span class="topo-outside">GEL</span><span class="topo-membrane">TVFCFALVGAGLGFLW</span><span class="topo-inside">FNSFPAQMFM</span><span class="topo-membrane">GDVGSLSIGASLATVAL</span><span class="topo-outside">LTKS</span><span class="topo-membrane">EFIFAVAAGV</span></span>
-<span class="topo-line"><span class="topo-membrane">FVFETISVIL</span><span class="topo-unknown">QIIYFRWT</span><span class="topo-inside">GGKRLFKRAPFHHHLELNGLPEPKIV</span><span class="topo-membrane">VRMWIISILLAIIAIS</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GPAVPRMLYQLALLLKDYWF</span><span class="topo-outside">AFNVLKYITFRS</span><span class="topo-membrane">FTAVLIAFFLTLVLS</span><span class="topo-inside">PSFINRLRKIQRLFG</span><span class="topo-unknown">GYVREYTPESHEV</span><span class="topo-inside">KKYTPTMG</span><span class="topo-membrane">GIVILIVVTLSTLLL</span><span class="topo-outside">MRWDIKYT</span><span class="topo-membrane">WVVLLSFLSFGTIG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">FWD</span><span class="topo-inside">DYVKLKNKKGISIK</span><span class="topo-membrane">TKFLLQVLSASLISV</span><span class="topo-outside">LIYYWADIDTILYFPFFKELYVDLGVL</span><span class="topo-membrane">YLPFAVFVIVGSANAVNLTD</span><span class="topo-inside">GLDG</span><span class="topo-membrane">LAIGPAMTTATALGV</span><span class="topo-outside">VAYAVGHSKIAQYLNIPYVPYA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">GEL</span><span class="topo-membrane">TVFCFALVGAGLGFLW</span><span class="topo-inside">FNSFPAQMFM</span><span class="topo-membrane">GDVGSLSIGASLATVAL</span><span class="topo-outside">LTKS</span><span class="topo-membrane">EFIFAVAAGVFVFETISVIL</span><span class="topo-unknown">QIIYFRWT</span><span class="topo-inside">GGKRLFKRAPFHHHLELNGLPEPKIV</span><span class="topo-membrane">VRMWIISILLAIIAIS</span></span>
+<span class="topo-ruler">     </span>
 <span class="topo-line"><span class="topo-membrane">M</span><span class="topo-outside">LKL</span><span class="topo-unknown">R</span></span>
+<details class="topo-details"><summary>Topology coordinates (23 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2094,6 +2120,7 @@ and caprolactam pocket (unique to capuramycins).
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2109,13 +2136,15 @@ and caprolactam pocket (unique to capuramycins).
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GPAVPRMLYQLALLLKD</span><span class="topo-inside">Y</span><span class="topo-membrane">WFAFNVLKYI</span><span class="topo-outside">TFRS</span><span class="topo-membrane">FTAVLIAFFLTLVLS</span><span class="topo-inside">PSFINRLRKIQ</span><span class="topo-unknown">RL</span></span>
-<span class="topo-line"><span class="topo-unknown">FGGYVREYTPESHE</span><span class="topo-inside">VKKYTPTMG</span><span class="topo-membrane">GIVILIVVTLSTLLL</span><span class="topo-outside">MRWDIKYT</span><span class="topo-membrane">WVVLLSFLSFGTIG</span></span>
-<span class="topo-line"><span class="topo-membrane">FW</span><span class="topo-inside">DDYVKLKN</span><span class="topo-unknown">KKGI</span><span class="topo-inside">SIK</span><span class="topo-membrane">TKFLLQVLSASLISVL</span><span class="topo-outside">IYYWADIDTILYFPFFKELYVDLGVL</span><span class="topo-membrane">Y</span></span>
-<span class="topo-line"><span class="topo-membrane">LPFAVFVIVGSANAVNLTD</span><span class="topo-inside">GLDG</span><span class="topo-membrane">LAIGPAMTTATALGV</span><span class="topo-outside">VAYAVGHSKIAQYLNIPYVPYA</span></span>
-<span class="topo-line"><span class="topo-outside">GEL</span><span class="topo-membrane">TVFCFALVGAGLGFLW</span><span class="topo-inside">FNSFPAQMFMGD</span><span class="topo-membrane">VGSLSIGASLATVAL</span><span class="topo-outside">LTKS</span><span class="topo-membrane">EFIFAVAAGV</span></span>
-<span class="topo-line"><span class="topo-membrane">FVFETISVIL</span><span class="topo-unknown">QIIYFRW</span><span class="topo-inside">TG</span><span class="topo-unknown">GKRLF</span><span class="topo-inside">KRAPFHHHLELNGLPEPKIV</span><span class="topo-membrane">VRMWIISILLAIIAIS</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GPAVPRMLYQLALLLKD</span><span class="topo-inside">Y</span><span class="topo-membrane">WFAFNVLKYI</span><span class="topo-outside">TFRS</span><span class="topo-membrane">FTAVLIAFFLTLVLS</span><span class="topo-inside">PSFINRLRKIQ</span><span class="topo-unknown">RLFGGYVREYTPESHE</span><span class="topo-inside">VKKYTPTMG</span><span class="topo-membrane">GIVILIVVTLSTLLL</span><span class="topo-outside">MRWDIKYT</span><span class="topo-membrane">WVVLLSFLSFGTIG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">FW</span><span class="topo-inside">DDYVKLKN</span><span class="topo-unknown">KKGI</span><span class="topo-inside">SIK</span><span class="topo-membrane">TKFLLQVLSASLISVL</span><span class="topo-outside">IYYWADIDTILYFPFFKELYVDLGVL</span><span class="topo-membrane">YLPFAVFVIVGSANAVNLTD</span><span class="topo-inside">GLDG</span><span class="topo-membrane">LAIGPAMTTATALGV</span><span class="topo-outside">VAYAVGHSKIAQYLNIPYVPYA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">GEL</span><span class="topo-membrane">TVFCFALVGAGLGFLW</span><span class="topo-inside">FNSFPAQMFMGD</span><span class="topo-membrane">VGSLSIGASLATVAL</span><span class="topo-outside">LTKS</span><span class="topo-membrane">EFIFAVAAGVFVFETISVIL</span><span class="topo-unknown">QIIYFRW</span><span class="topo-inside">TG</span><span class="topo-unknown">GKRLF</span><span class="topo-inside">KRAPFHHHLELNGLPEPKIV</span><span class="topo-membrane">VRMWIISILLAIIAIS</span></span>
+<span class="topo-ruler">     </span>
 <span class="topo-line"><span class="topo-membrane">M</span><span class="topo-outside">LK</span><span class="topo-unknown">LR</span></span>
+<details class="topo-details"><summary>Topology coordinates (27 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2316,6 +2345,7 @@ and caprolactam pocket (unique to capuramycins).
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

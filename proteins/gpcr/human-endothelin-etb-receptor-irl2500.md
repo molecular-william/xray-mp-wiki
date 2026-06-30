@@ -150,14 +150,15 @@ agonist, as demonstrated using a constitutively active ETB mutant (L192[3.43]Q).
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GGGLAPAEVPKGDRTAGSPPRTISPPPC</span><span class="topo-inside">QGPIEIKETFKY</span><span class="topo-membrane">INTVVSCLVFVLGIIGNSTL</span></span>
-<span class="topo-line"><span class="topo-membrane">LYIIY</span><span class="topo-outside">KNKCMRNGP</span><span class="topo-membrane">NILIASLALGDLLHIVIDIPINVYKL</span><span class="topo-inside">LAEDWPFGA</span><span class="topo-membrane">EMCKLVPFIQK</span></span>
-<span class="topo-line"><span class="topo-membrane">ASVGITVLSLCALSI</span><span class="topo-outside">DRYRAVASWS</span><span class="topo-unknown">RIKGIG</span><span class="topo-outside">VPKWTA</span><span class="topo-membrane">VEIVLIWVVSVVLAVPEAIGF</span><span class="topo-inside">DI</span></span>
-<span class="topo-line"><span class="topo-inside">ITMDYKGSYLRICLLHPVQKTAFMQFY</span><span class="topo-membrane">ATAKDWWLFSFYFCLPLAITAFFYT</span><span class="topo-outside">LMTCEMLR</span></span>
-<span class="topo-line"><span class="topo-outside">KNIFEMLRIDEG</span><span class="topo-unknown">GGSGGDE</span><span class="topo-outside">AEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMV</span></span>
-<span class="topo-line"><span class="topo-outside">FQMGETGVAGFTNSLRMLQQKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWDAYLN</span></span>
-<span class="topo-line"><span class="topo-outside">DHLKQRREVAK</span><span class="topo-membrane">TVFCLVLVFALCWLPLHLARILKLTL</span><span class="topo-inside">YNQNDPNRCELLSF</span><span class="topo-membrane">LLVLDYIGI</span></span>
-<span class="topo-line"><span class="topo-membrane">NMASLNSCANPIALYLVS</span><span class="topo-outside">KRFKNAFKSALCC</span><span class="topo-unknown">WAQSPSSENLYFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GGGLAPAEVPKGDRTAGSPPRTISPPPC</span><span class="topo-inside">QGPIEIKETFKY</span><span class="topo-membrane">INTVVSCLVFVLGIIGNSTLLYIIY</span><span class="topo-outside">KNKCMRNGP</span><span class="topo-membrane">NILIASLALGDLLHIVIDIPINVYKL</span><span class="topo-inside">LAEDWPFGA</span><span class="topo-membrane">EMCKLVPFIQK</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">ASVGITVLSLCALSI</span><span class="topo-outside">DRYRAVASWS</span><span class="topo-unknown">RIKGIG</span><span class="topo-outside">VPKWTA</span><span class="topo-membrane">VEIVLIWVVSVVLAVPEAIGF</span><span class="topo-inside">DIITMDYKGSYLRICLLHPVQKTAFMQFY</span><span class="topo-membrane">ATAKDWWLFSFYFCLPLAITAFFYT</span><span class="topo-outside">LMTCEMLR</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">KNIFEMLRIDEG</span><span class="topo-unknown">GGSGGDE</span><span class="topo-outside">AEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVFQMGETGVAGFTNSLRMLQQKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWDAYLN</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460    </span>
+<span class="topo-line"><span class="topo-outside">DHLKQRREVAK</span><span class="topo-membrane">TVFCLVLVFALCWLPLHLARILKLTL</span><span class="topo-inside">YNQNDPNRCELLSF</span><span class="topo-membrane">LLVLDYIGINMASLNSCANPIALYLVS</span><span class="topo-outside">KRFKNAFKSALCC</span><span class="topo-unknown">WAQSPSSENLYFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (22 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -323,6 +324,7 @@ agonist, as demonstrated using a constitutively active ETB mutant (L192[3.43]Q).
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

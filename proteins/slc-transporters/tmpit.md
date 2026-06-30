@@ -124,13 +124,15 @@ TmPiT (locus Tm0261) is a sodium-dependent phosphate transporter from the hypert
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MTILII</span><span class="topo-membrane">AGILGFIMAFSIGANDVANS</span><span class="topo-inside">MATAVGARAITVRQAA</span><span class="topo-membrane">LIAMFLEFLGAVMFGSHV</span></span>
-<span class="topo-line"><span class="topo-membrane">S</span><span class="topo-outside">QTIVKGIVEVEKVQPVELMYGALS</span><span class="topo-membrane">ALIAASFWILIATNW</span><span class="topo-inside">GY</span><span class="topo-membrane">PVSTTHSIVGG</span><span class="topo-outside">MMGFGLV</span></span>
-<span class="topo-line"><span class="topo-outside">AVGINGVNWKTFLF</span><span class="topo-membrane">IVLSWVVSPVLGGLISFVM</span><span class="topo-inside">FKLISLSVFHTKNPKKSSTVAIPF</span><span class="topo-membrane">FIS</span></span>
-<span class="topo-line"><span class="topo-membrane">LAIFTMISLFVK</span><span class="topo-outside">KTLKQPLS</span><span class="topo-membrane">ESFLLGIAFSLVTFFV</span><span class="topo-inside">VHFAVRKLINEKKDVYDAVENVFK</span></span>
-<span class="topo-line"><span class="topo-inside">RAQIL</span><span class="topo-membrane">TSCYVSFSHGANDVANAA</span><span class="topo-outside">GPVAAVMIVASTGVVPKTVEIPFL</span><span class="topo-membrane">ALLLGGIGISLGV</span></span>
-<span class="topo-line"><span class="topo-membrane">FFLG</span><span class="topo-inside">QKVMETVGEKITTLTNSRGFTV</span><span class="topo-membrane">DFSTATTVLLASSLG</span><span class="topo-outside">L</span><span class="topo-membrane">PISTTHVVVGA</span><span class="topo-inside">VTGVGFA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MTILII</span><span class="topo-membrane">AGILGFIMAFSIGANDVANS</span><span class="topo-inside">MATAVGARAITVRQAA</span><span class="topo-membrane">LIAMFLEFLGAVMFGSHVS</span><span class="topo-outside">QTIVKGIVEVEKVQPVELMYGALS</span><span class="topo-membrane">ALIAASFWILIATNW</span><span class="topo-inside">GY</span><span class="topo-membrane">PVSTTHSIVGG</span><span class="topo-outside">MMGFGLV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">AVGINGVNWKTFLF</span><span class="topo-membrane">IVLSWVVSPVLGGLISFVM</span><span class="topo-inside">FKLISLSVFHTKNPKKSSTVAIPF</span><span class="topo-membrane">FISLAIFTMISLFVK</span><span class="topo-outside">KTLKQPLS</span><span class="topo-membrane">ESFLLGIAFSLVTFFV</span><span class="topo-inside">VHFAVRKLINEKKDVYDAVENVFK</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">RAQIL</span><span class="topo-membrane">TSCYVSFSHGANDVANAA</span><span class="topo-outside">GPVAAVMIVASTGVVPKTVEIPFL</span><span class="topo-membrane">ALLLGGIGISLGVFFLG</span><span class="topo-inside">QKVMETVGEKITTLTNSRGFTV</span><span class="topo-membrane">DFSTATTVLLASSLG</span><span class="topo-outside">L</span><span class="topo-membrane">PISTTHVVVGA</span><span class="topo-inside">VTGVGFA</span></span>
+<span class="topo-ruler">       370       380       390       400  </span>
 <span class="topo-line"><span class="topo-inside">RGLEMVNVGVLK</span><span class="topo-membrane">NIVISWLLIVPTVAATS</span><span class="topo-outside">AAVYWVLKLIL</span><span class="topo-unknown">KF</span></span>
+<details class="topo-details"><summary>Topology coordinates (25 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -317,6 +319,7 @@ TmPiT (locus Tm0261) is a sodium-dependent phosphate transporter from the hypert
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -332,13 +335,15 @@ TmPiT (locus Tm0261) is a sodium-dependent phosphate transporter from the hypert
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MT</span><span class="topo-membrane">ILIIAGILGFIMAFSIGANDVANS</span><span class="topo-inside">MATAVGARAITVRQAALI</span><span class="topo-membrane">AMFLEFLGAVMFGS</span><span class="topo-unknown">HV</span></span>
-<span class="topo-line"><span class="topo-unknown">SQTIVK</span><span class="topo-outside">GIVEVEKVQPVELMYGA</span><span class="topo-membrane">LSALIAASFWILIAT</span><span class="topo-inside">NWGY</span><span class="topo-membrane">PVSTTHSIVGGMMG</span><span class="topo-outside">FGLV</span></span>
-<span class="topo-line"><span class="topo-outside">AVGINGVNWKTFLFI</span><span class="topo-membrane">VLSWVVSPVLGGLISFVMFKLI</span><span class="topo-inside">SLSVFHTKNPKKSSTV</span><span class="topo-membrane">AIPFFIS</span></span>
-<span class="topo-line"><span class="topo-membrane">LAIFTMISLFV</span><span class="topo-outside">KKTLKQPLSES</span><span class="topo-membrane">FLLGIAFSLVTFFVVH</span><span class="topo-inside">FAVRKLINEKKDVYDAVENVFK</span></span>
-<span class="topo-line"><span class="topo-inside">RAQIL</span><span class="topo-membrane">TSCYVSFSHGANDVANAAGPV</span><span class="topo-outside">AAVMIVASTGVVPKTVEIPF</span><span class="topo-membrane">LALLLGGIGISLGV</span></span>
-<span class="topo-line"><span class="topo-inside">FFL</span><span class="topo-unknown">GQKVMETVGEKI</span><span class="topo-inside">TTLTNSRGF</span><span class="topo-membrane">TVDFSTATTVLLASS</span><span class="topo-outside">LGL</span><span class="topo-membrane">PISTTHVVVGAVTGV</span><span class="topo-inside">GFA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MT</span><span class="topo-membrane">ILIIAGILGFIMAFSIGANDVANS</span><span class="topo-inside">MATAVGARAITVRQAALI</span><span class="topo-membrane">AMFLEFLGAVMFGS</span><span class="topo-unknown">HVSQTIVK</span><span class="topo-outside">GIVEVEKVQPVELMYGA</span><span class="topo-membrane">LSALIAASFWILIAT</span><span class="topo-inside">NWGY</span><span class="topo-membrane">PVSTTHSIVGGMMG</span><span class="topo-outside">FGLV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">AVGINGVNWKTFLFI</span><span class="topo-membrane">VLSWVVSPVLGGLISFVMFKLI</span><span class="topo-inside">SLSVFHTKNPKKSSTV</span><span class="topo-membrane">AIPFFISLAIFTMISLFV</span><span class="topo-outside">KKTLKQPLSES</span><span class="topo-membrane">FLLGIAFSLVTFFVVH</span><span class="topo-inside">FAVRKLINEKKDVYDAVENVFK</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">RAQIL</span><span class="topo-membrane">TSCYVSFSHGANDVANAAGPV</span><span class="topo-outside">AAVMIVASTGVVPKTVEIPF</span><span class="topo-membrane">LALLLGGIGISLGV</span><span class="topo-inside">FFL</span><span class="topo-unknown">GQKVMETVGEKI</span><span class="topo-inside">TTLTNSRGF</span><span class="topo-membrane">TVDFSTATTVLLASS</span><span class="topo-outside">LGL</span><span class="topo-membrane">PISTTHVVVGAVTGV</span><span class="topo-inside">GFA</span></span>
+<span class="topo-ruler">       370       380       390       400  </span>
 <span class="topo-line"><span class="topo-inside">RGLEMVNVGVLK</span><span class="topo-membrane">NIVISWLLIVPTVAATSAAVYWVL</span><span class="topo-outside">KLILK</span><span class="topo-unknown">F</span></span>
+<details class="topo-details"><summary>Topology coordinates (28 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -546,6 +551,7 @@ TmPiT (locus Tm0261) is a sodium-dependent phosphate transporter from the hypert
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

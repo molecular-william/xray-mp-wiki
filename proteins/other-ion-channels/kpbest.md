@@ -103,12 +103,13 @@ KpBest is a bestrophin ion channel from *Klebsiella pneumoniae* whose crystal st
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">SNAMIIRPEQHWFLRLFDWHGSVL</span><span class="topo-inside">SKII</span><span class="topo-membrane">FRLLLNVLMSIIAIISY</span><span class="topo-outside">QWYEQL</span><span class="topo-membrane">GIHLTVAPF</span></span>
-<span class="topo-line"><span class="topo-membrane">SLLGIAI</span><span class="topo-inside">AIFLGFRNSASYSRFVEARNLWGTVLIAERTLVRQLRNILPAEHDAHRRIVSY</span></span>
-<span class="topo-line"><span class="topo-inside">LVAFSWSLKHQLRKTDPTADLRRLLPEERVTEILASSMPTNRILLLAGNEIGQLREAGKL</span></span>
-<span class="topo-line"><span class="topo-inside">SDITYGLMDNKLDELAHVLGGCERLATTPVPFAYTLILQRT</span><span class="topo-membrane">VYLFCTLLPFALVGDL</span><span class="topo-outside">H</span><span class="topo-membrane">YM</span></span>
-<span class="topo-line"><span class="topo-membrane">TPFVSVFISYTF</span><span class="topo-inside">LSWDSLAEELEDPFGTAANDLPLNAMCNTIERNLLDMTGQ</span><span class="topo-unknown">HPLPETLR</span></span>
-<span class="topo-line"><span class="topo-unknown">P</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">SNAMIIRPEQHWFLRLFDWHGSVL</span><span class="topo-inside">SKII</span><span class="topo-membrane">FRLLLNVLMSIIAIISY</span><span class="topo-outside">QWYEQL</span><span class="topo-membrane">GIHLTVAPFSLLGIAI</span><span class="topo-inside">AIFLGFRNSASYSRFVEARNLWGTVLIAERTLVRQLRNILPAEHDAHRRIVSY</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">LVAFSWSLKHQLRKTDPTADLRRLLPEERVTEILASSMPTNRILLLAGNEIGQLREAGKLSDITYGLMDNKLDELAHVLGGCERLATTPVPFAYTLILQRT</span><span class="topo-membrane">VYLFCTLLPFALVGDL</span><span class="topo-outside">H</span><span class="topo-membrane">YM</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300 </span>
+<span class="topo-line"><span class="topo-membrane">TPFVSVFISYTF</span><span class="topo-inside">LSWDSLAEELEDPFGTAANDLPLNAMCNTIERNLLDMTGQ</span><span class="topo-unknown">HPLPETLRP</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -183,6 +184,7 @@ KpBest is a bestrophin ion channel from *Klebsiella pneumoniae* whose crystal st
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -198,12 +200,13 @@ KpBest is a bestrophin ion channel from *Klebsiella pneumoniae* whose crystal st
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">SNAMIIRPEQHWFLRLFDWHGSVL</span><span class="topo-inside">SKII</span><span class="topo-membrane">FRLLLNVLMSIIAIISY</span><span class="topo-outside">QWYEQL</span><span class="topo-membrane">GIHLTVAPF</span></span>
-<span class="topo-line"><span class="topo-membrane">SLLGIAI</span><span class="topo-inside">AIFLGFRNSASYSRFVEARNLWGTVLIAERTLVRQLRNILPAEHDAHRRIVSY</span></span>
-<span class="topo-line"><span class="topo-inside">LVAFSWSLKHQLRKTDPTADLRRLLPEERVTEILASSMPTNRILLLAGNEIGQLREAGKL</span></span>
-<span class="topo-line"><span class="topo-inside">SDITYGLMDNKLDELAHVLGGCERLATTPVPFAYTLILQR</span><span class="topo-membrane">TVYLFCTLLPFALVGDL</span><span class="topo-outside">H</span><span class="topo-membrane">YM</span></span>
-<span class="topo-line"><span class="topo-membrane">TPFVSVFISYTF</span><span class="topo-inside">LSWDSLAEELEDPFGTAANDLPLNAMCNTIERNLLDMTGQHP</span><span class="topo-unknown">LPETLR</span></span>
-<span class="topo-line"><span class="topo-unknown">P</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">SNAMIIRPEQHWFLRLFDWHGSVL</span><span class="topo-inside">SKII</span><span class="topo-membrane">FRLLLNVLMSIIAIISY</span><span class="topo-outside">QWYEQL</span><span class="topo-membrane">GIHLTVAPFSLLGIAI</span><span class="topo-inside">AIFLGFRNSASYSRFVEARNLWGTVLIAERTLVRQLRNILPAEHDAHRRIVSY</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">LVAFSWSLKHQLRKTDPTADLRRLLPEERVTEILASSMPTNRILLLAGNEIGQLREAGKLSDITYGLMDNKLDELAHVLGGCERLATTPVPFAYTLILQR</span><span class="topo-membrane">TVYLFCTLLPFALVGDL</span><span class="topo-outside">H</span><span class="topo-membrane">YM</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300 </span>
+<span class="topo-line"><span class="topo-membrane">TPFVSVFISYTF</span><span class="topo-inside">LSWDSLAEELEDPFGTAANDLPLNAMCNTIERNLLDMTGQHP</span><span class="topo-unknown">LPETLRP</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -278,6 +281,7 @@ KpBest is a bestrophin ion channel from *Klebsiella pneumoniae* whose crystal st
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -293,12 +297,13 @@ KpBest is a bestrophin ion channel from *Klebsiella pneumoniae* whose crystal st
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">SNAMIIRPEQHWFLRLFDWHGSVLS</span><span class="topo-inside">KII</span><span class="topo-membrane">FRLLLNVLMSIIAIISY</span><span class="topo-outside">QWYEQL</span><span class="topo-membrane">GIHLTVAPF</span></span>
-<span class="topo-line"><span class="topo-membrane">SLLGIAI</span><span class="topo-inside">AIFLGFRNSASYSRFVEARNLWGTVLIAERTLVRQLRNILPAEHDAHRRIVSY</span></span>
-<span class="topo-line"><span class="topo-inside">LVAFSWSLKHQLRKTDPTADLRRLLPEERVTEILASSMPTNRILLLAGNEIGQLREAGKL</span></span>
-<span class="topo-line"><span class="topo-inside">SDITYGLMDNKLDELAHVLGGCERLATTPVPFAYTLILQRT</span><span class="topo-membrane">VYLFCTLLPFALVGDL</span><span class="topo-outside">H</span><span class="topo-membrane">YM</span></span>
-<span class="topo-line"><span class="topo-membrane">TPFVSVFISYTF</span><span class="topo-inside">LSWDSLAEELEDPFGTAANDLPLNAMCNTIERNLLDMTGQHP</span><span class="topo-unknown">LPETLR</span></span>
-<span class="topo-line"><span class="topo-unknown">P</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">SNAMIIRPEQHWFLRLFDWHGSVLS</span><span class="topo-inside">KII</span><span class="topo-membrane">FRLLLNVLMSIIAIISY</span><span class="topo-outside">QWYEQL</span><span class="topo-membrane">GIHLTVAPFSLLGIAI</span><span class="topo-inside">AIFLGFRNSASYSRFVEARNLWGTVLIAERTLVRQLRNILPAEHDAHRRIVSY</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">LVAFSWSLKHQLRKTDPTADLRRLLPEERVTEILASSMPTNRILLLAGNEIGQLREAGKLSDITYGLMDNKLDELAHVLGGCERLATTPVPFAYTLILQRT</span><span class="topo-membrane">VYLFCTLLPFALVGDL</span><span class="topo-outside">H</span><span class="topo-membrane">YM</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300 </span>
+<span class="topo-line"><span class="topo-membrane">TPFVSVFISYTF</span><span class="topo-inside">LSWDSLAEELEDPFGTAANDLPLNAMCNTIERNLLDMTGQHP</span><span class="topo-unknown">LPETLRP</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -373,6 +378,7 @@ KpBest is a bestrophin ion channel from *Klebsiella pneumoniae* whose crystal st
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -388,12 +394,13 @@ KpBest is a bestrophin ion channel from *Klebsiella pneumoniae* whose crystal st
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">SNAMIIRPEQHWFLRLFDWHGSVL</span><span class="topo-inside">SKII</span><span class="topo-membrane">FRLLLNVLMSIIAIISY</span><span class="topo-outside">QWYEQL</span><span class="topo-membrane">GIHLTVAPF</span></span>
-<span class="topo-line"><span class="topo-membrane">SLLGIAI</span><span class="topo-inside">AIFLGFRNSASYSRFVEARNLWGTVLIAERTLVRQLRNILPAEHDAHRRIVSY</span></span>
-<span class="topo-line"><span class="topo-inside">LVAFSWSLKHQLRKTDPTADLRRLLPEERVTEILASSMPTNRILLLAGNEIGQLREAGKL</span></span>
-<span class="topo-line"><span class="topo-inside">SDITYGLMDNKLDELAHVLGGCERLATTPVPFAYTLILQRT</span><span class="topo-membrane">VYLFCTLLPFALVGDL</span><span class="topo-outside">H</span><span class="topo-membrane">YM</span></span>
-<span class="topo-line"><span class="topo-membrane">TPFVSVFISYTF</span><span class="topo-inside">LSWDSLAEELEDPFGTAANDLPLNAMCNTIERNLLDMTGQ</span><span class="topo-unknown">HPLPETLR</span></span>
-<span class="topo-line"><span class="topo-unknown">P</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">SNAMIIRPEQHWFLRLFDWHGSVL</span><span class="topo-inside">SKII</span><span class="topo-membrane">FRLLLNVLMSIIAIISY</span><span class="topo-outside">QWYEQL</span><span class="topo-membrane">GIHLTVAPFSLLGIAI</span><span class="topo-inside">AIFLGFRNSASYSRFVEARNLWGTVLIAERTLVRQLRNILPAEHDAHRRIVSY</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">LVAFSWSLKHQLRKTDPTADLRRLLPEERVTEILASSMPTNRILLLAGNEIGQLREAGKLSDITYGLMDNKLDELAHVLGGCERLATTPVPFAYTLILQRT</span><span class="topo-membrane">VYLFCTLLPFALVGDL</span><span class="topo-outside">H</span><span class="topo-membrane">YM</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300 </span>
+<span class="topo-line"><span class="topo-membrane">TPFVSVFISYTF</span><span class="topo-inside">LSWDSLAEELEDPFGTAANDLPLNAMCNTIERNLLDMTGQ</span><span class="topo-unknown">HPLPETLRP</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -468,6 +475,7 @@ KpBest is a bestrophin ion channel from *Klebsiella pneumoniae* whose crystal st
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -483,12 +491,13 @@ KpBest is a bestrophin ion channel from *Klebsiella pneumoniae* whose crystal st
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">SNAMIIRPEQHWFLRLFDWHGSVLSK</span><span class="topo-inside">II</span><span class="topo-membrane">FRLLLNVLMSIIAIISY</span><span class="topo-outside">QWYEQL</span><span class="topo-membrane">GIHLTVAPF</span></span>
-<span class="topo-line"><span class="topo-membrane">SLLGIAI</span><span class="topo-inside">AIFLGFRNSASYSRFVEARNLWGTVLIAERTLVRQLRNILPAEHDAHRRIVSY</span></span>
-<span class="topo-line"><span class="topo-inside">LVAFSWSLKHQLRKTDPTADLRRLLPEERVTEILASSMPTNRILLLAGNEIGQLREAGKL</span></span>
-<span class="topo-line"><span class="topo-inside">SDITYGLMDNKLDELAHVLGGCERLATTPVPFAYTLILQRT</span><span class="topo-membrane">VYLFCTLLPFALVGDL</span><span class="topo-outside">H</span><span class="topo-membrane">YM</span></span>
-<span class="topo-line"><span class="topo-membrane">TPFVSVFISYTF</span><span class="topo-inside">LSWDSLAEELEDPFGTAANDLPLNAMCNTIERNLLDMTGQHPLP</span><span class="topo-unknown">ETLR</span></span>
-<span class="topo-line"><span class="topo-unknown">P</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">SNAMIIRPEQHWFLRLFDWHGSVLSK</span><span class="topo-inside">II</span><span class="topo-membrane">FRLLLNVLMSIIAIISY</span><span class="topo-outside">QWYEQL</span><span class="topo-membrane">GIHLTVAPFSLLGIAI</span><span class="topo-inside">AIFLGFRNSASYSRFVEARNLWGTVLIAERTLVRQLRNILPAEHDAHRRIVSY</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">LVAFSWSLKHQLRKTDPTADLRRLLPEERVTEILASSMPTNRILLLAGNEIGQLREAGKLSDITYGLMDNKLDELAHVLGGCERLATTPVPFAYTLILQRT</span><span class="topo-membrane">VYLFCTLLPFALVGDL</span><span class="topo-outside">H</span><span class="topo-membrane">YM</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300 </span>
+<span class="topo-line"><span class="topo-membrane">TPFVSVFISYTF</span><span class="topo-inside">LSWDSLAEELEDPFGTAANDLPLNAMCNTIERNLLDMTGQHPLP</span><span class="topo-unknown">ETLRP</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -563,6 +572,7 @@ KpBest is a bestrophin ion channel from *Klebsiella pneumoniae* whose crystal st
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

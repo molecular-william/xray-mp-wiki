@@ -102,14 +102,15 @@ TmYidC is the YidC insertase/chaperone from the thermophilic bacterium Thermotog
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MVLRKVVAILLAILPIFLFAVEPIKVVRSEKEIVVLTRFEEYHFDLEKGILKDFYTLVDG</span></span>
-<span class="topo-line"><span class="topo-outside">RKHVFTYGNDGFDVLDEGTPLTVIEEPIVTGVGKVSEGFSDEVSIVYNYGYVKKIFTIKN</span></span>
-<span class="topo-line"><span class="topo-outside">NENYTFFVDIENSKPVDVTVPRVSVDTSTDRYLENYFASFNPKTRTLVLLKHDEGLLFEG</span></span>
-<span class="topo-line"><span class="topo-outside">TLKVNGQKRFIVFMGPNKRTLIKKAFPEDYDVLIKALVNIPGFNKWYDSVFYGLVWFFWW</span></span>
-<span class="topo-line"><span class="topo-outside">LKDLTKNFGWAI</span><span class="topo-membrane">MLFTLIVRLILYPLYHAQT</span><span class="topo-inside">KSLINMRKLQPQIEAIKKKYKDPTKQQEA</span></span>
-<span class="topo-line"><span class="topo-inside">LLKLYREAGVN</span><span class="topo-membrane">PASGCLMLLIQLPIFMLL</span><span class="topo-outside">WSVIRYYVEEFAYSGSFLIWKDLSAGGFSNN</span></span>
-<span class="topo-line"><span class="topo-outside">W</span><span class="topo-membrane">LFLVITIVASYYTTLLTS</span><span class="topo-inside">QDA</span><span class="topo-membrane">RTAWQGIIMSVIFPFLFV</span><span class="topo-outside">GLPSGL</span><span class="topo-membrane">FLYYATNTLIQLAV</span></span>
-<span class="topo-line"><span class="topo-membrane">TYYT</span><span class="topo-inside">Y</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MVLRKVVAILLAILPIFLFAVEPIKVVRSEKEIVVLTRFEEYHFDLEKGILKDFYTLVDGRKHVFTYGNDGFDVLDEGTPLTVIEEPIVTGVGKVSEGFSDEVSIVYNYGYVKKIFTIKN</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">NENYTFFVDIENSKPVDVTVPRVSVDTSTDRYLENYFASFNPKTRTLVLLKHDEGLLFEGTLKVNGQKRFIVFMGPNKRTLIKKAFPEDYDVLIKALVNIPGFNKWYDSVFYGLVWFFWW</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">LKDLTKNFGWAI</span><span class="topo-membrane">MLFTLIVRLILYPLYHAQT</span><span class="topo-inside">KSLINMRKLQPQIEAIKKKYKDPTKQQEALLKLYREAGVN</span><span class="topo-membrane">PASGCLMLLIQLPIFMLL</span><span class="topo-outside">WSVIRYYVEEFAYSGSFLIWKDLSAGGFSNN</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420     </span>
+<span class="topo-line"><span class="topo-outside">W</span><span class="topo-membrane">LFLVITIVASYYTTLLTS</span><span class="topo-inside">QDA</span><span class="topo-membrane">RTAWQGIIMSVIFPFLFV</span><span class="topo-outside">GLPSGL</span><span class="topo-membrane">FLYYATNTLIQLAVTYYT</span><span class="topo-inside">Y</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -198,6 +199,7 @@ TmYidC is the YidC insertase/chaperone from the thermophilic bacterium Thermotog
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -252,14 +254,15 @@ TmYidC is the YidC insertase/chaperone from the thermophilic bacterium Thermotog
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MVLRKVVAILLAILPIFLFAV</span><span class="topo-outside">EPVVVVRSEKEIVVLTRFEEYHFDLEKGILKDFYTLVDG</span></span>
-<span class="topo-line"><span class="topo-outside">RKHVFTYGNDGFDVLDEGTPLTVIEEPIVTGVGKVSEGFSDEVSIVYNYGYVKKIFTIKN</span></span>
-<span class="topo-line"><span class="topo-outside">NENYTFFVDIESSKPVDVTVPRVSVDTSTDRYLENYFASFNPKTRTLVLLKHDEGLLFEG</span></span>
-<span class="topo-line"><span class="topo-outside">TLKVNGQKRFIVFMGPNKRTLIKKAFPEDYDVLIKALVNIPGFNKWYDSVFYGLVWFFWW</span></span>
-<span class="topo-line"><span class="topo-outside">LKDLTKNFGW</span><span class="topo-membrane">AIMLFTLIVRLILY</span><span class="topo-inside">PLYHAQ</span><span class="topo-unknown">TKSLINMRKLQPQIEAIKKKYKDPTKQQEA</span></span>
-<span class="topo-line"><span class="topo-unknown">LLKLYREAGVNPASG</span><span class="topo-inside">CL</span><span class="topo-membrane">MLLIQLPIFMLLW</span><span class="topo-outside">SVIRYYVEEFAYSGSFLIWKDLSAGGF</span><span class="topo-membrane">SNN</span></span>
-<span class="topo-line"><span class="topo-membrane">WLFLVITIVAS</span><span class="topo-inside">YYT</span><span class="topo-unknown">TLLTSQDARTAWQG</span><span class="topo-inside">I</span><span class="topo-membrane">IMSVIFPFLFV</span><span class="topo-outside">GLPSG</span><span class="topo-membrane">LFLYYATNTLIQLA</span><span class="topo-inside">V</span></span>
-<span class="topo-line"><span class="topo-inside">TY</span><span class="topo-unknown">YTYKRYKIKGLTTRELLGLPKKAHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MVLRKVVAILLAILPIFLFAV</span><span class="topo-outside">EPVVVVRSEKEIVVLTRFEEYHFDLEKGILKDFYTLVDGRKHVFTYGNDGFDVLDEGTPLTVIEEPIVTGVGKVSEGFSDEVSIVYNYGYVKKIFTIKN</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">NENYTFFVDIESSKPVDVTVPRVSVDTSTDRYLENYFASFNPKTRTLVLLKHDEGLLFEGTLKVNGQKRFIVFMGPNKRTLIKKAFPEDYDVLIKALVNIPGFNKWYDSVFYGLVWFFWW</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">LKDLTKNFGW</span><span class="topo-membrane">AIMLFTLIVRLILY</span><span class="topo-inside">PLYHAQ</span><span class="topo-unknown">TKSLINMRKLQPQIEAIKKKYKDPTKQQEALLKLYREAGVNPASG</span><span class="topo-inside">CL</span><span class="topo-membrane">MLLIQLPIFMLLW</span><span class="topo-outside">SVIRYYVEEFAYSGSFLIWKDLSAGGF</span><span class="topo-membrane">SNN</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450 </span>
+<span class="topo-line"><span class="topo-membrane">WLFLVITIVAS</span><span class="topo-inside">YYT</span><span class="topo-unknown">TLLTSQDARTAWQG</span><span class="topo-inside">I</span><span class="topo-membrane">IMSVIFPFLFV</span><span class="topo-outside">GLPSG</span><span class="topo-membrane">LFLYYATNTLIQLA</span><span class="topo-inside">VTY</span><span class="topo-unknown">YTYKRYKIKGLTTRELLGLPKKAHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -390,6 +393,7 @@ TmYidC is the YidC insertase/chaperone from the thermophilic bacterium Thermotog
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

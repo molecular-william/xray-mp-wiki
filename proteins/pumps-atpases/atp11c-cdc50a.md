@@ -129,25 +129,27 @@ ATP11C is a member of the P4-ATPase family that functions as an aminophospholipi
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MFRRSLNRFCAGEEKRVGTRTVFVGNH</span><span class="topo-outside">PVSETEAYIAQRFCDNRIVSSKYTLWNFLPKN</span><span class="topo-membrane">L</span></span>
-<span class="topo-line"><span class="topo-membrane">FEQFRRIANFYFLIIFLVQVT</span><span class="topo-inside">VDTPT</span><span class="topo-membrane">SPVTSGLPLFFVITVTAI</span><span class="topo-outside">KQGYEDWLRHRADNEV</span></span>
-<span class="topo-line"><span class="topo-outside">NKSTVYIIENAKRVRKESEKIKVGDVVEVQADETFPCDLILLSSCTTDGTCYVTTASLDG</span></span>
-<span class="topo-line"><span class="topo-outside">ESNCKTHYAVRDTIALCTAESIDTLRAAIECEQPQPDLYKFVGRINIYSNSLEAVARSLG</span></span>
-<span class="topo-line"><span class="topo-outside">PENLLLKGATLKNTEKIYGVAVYTGMETKMALNYQGKSQKRSAVE</span><span class="topo-membrane">KSINAFLIVYLFILL</span></span>
-<span class="topo-line"><span class="topo-membrane">TKAAVC</span><span class="topo-inside">TTLKYVWQSTPYNDEPWYNQKTQKERETLKVLKMFTDF</span><span class="topo-membrane">LSFMVLFNFIIPVSMY</span></span>
-<span class="topo-line"><span class="topo-membrane">VTVEM</span><span class="topo-outside">QKFLGSFFISWDKDFYDEEINEGALVNTSDLNEELGQVDYVFTDKTGTLTENSME</span></span>
-<span class="topo-line"><span class="topo-outside">FIECCIDGHKYKGVTQEVDGLSQTDGTLTYFDKVDKNREELFLRALCLCHTVEIKTNDAV</span></span>
-<span class="topo-line"><span class="topo-outside">DGATESAELTYISSSPDEIALVKGAKRYGFTFLGNRNGYMRVENQRKEIEEYELLHTLNF</span></span>
-<span class="topo-line"><span class="topo-outside">DAVRRRMSVIVKTQEGDILLFCKGADSAVFPRVQNHEIELTKVHVERNAMDGYRTLCVAF</span></span>
-<span class="topo-line"><span class="topo-outside">KEIAPDDYERINRQLIEAKMALQDREEKMEKVFDDIETNMNLIGATAVEDKLQDQAAETI</span></span>
-<span class="topo-line"><span class="topo-outside">EALHAAGLKVWVLTGDKMETAKSTCYACRLFQTNTELLELTTKTIEESERKEDRLHELLI</span></span>
-<span class="topo-line"><span class="topo-outside">EYRKKLLHEFPKSTRSFKKAWTEHQEYGLIIDGSTLSLILNSSQDSSSNNYKSIFLQICM</span></span>
-<span class="topo-line"><span class="topo-outside">KCTAVLCCRMAPLQKAQIVRMVKNLKGSPITLSIGDGANDVSMILESHVGIGIKGKEGRQ</span></span>
-<span class="topo-line"><span class="topo-outside">AARNSDYSVPKFKHLKKLLLAHGHLYYVRIA</span><span class="topo-membrane">HLVQYFFYKNLCFILPQFLY</span><span class="topo-inside">QFFCGFSQQ</span></span>
-<span class="topo-line"><span class="topo-inside">P</span><span class="topo-membrane">LYDAAYLTMYNICFTSLPILAY</span><span class="topo-outside">SLLEQHINIDTLTSDPRLYMKISGNAML</span><span class="topo-membrane">QLGPFLYWT</span></span>
-<span class="topo-line"><span class="topo-membrane">FLAAFEGTVFFFGT</span><span class="topo-inside">YFLFQTASLEENGKVYGNWTFG</span><span class="topo-membrane">TIVFTVLVFTVTLKLALDT</span><span class="topo-outside">RFWTW</span></span>
-<span class="topo-line"><span class="topo-outside">I</span><span class="topo-membrane">NHFVIWGSLAFYVFFSFFWGGII</span><span class="topo-inside">WPFLKQQRMYF</span><span class="topo-unknown">VFAQML</span><span class="topo-inside">SSV</span><span class="topo-membrane">STWLAIILLIFISLFP</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MFRRSLNRFCAGEEKRVGTRTVFVGNH</span><span class="topo-outside">PVSETEAYIAQRFCDNRIVSSKYTLWNFLPKN</span><span class="topo-membrane">LFEQFRRIANFYFLIIFLVQVT</span><span class="topo-inside">VDTPT</span><span class="topo-membrane">SPVTSGLPLFFVITVTAI</span><span class="topo-outside">KQGYEDWLRHRADNEV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">NKSTVYIIENAKRVRKESEKIKVGDVVEVQADETFPCDLILLSSCTTDGTCYVTTASLDGESNCKTHYAVRDTIALCTAESIDTLRAAIECEQPQPDLYKFVGRINIYSNSLEAVARSLG</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">PENLLLKGATLKNTEKIYGVAVYTGMETKMALNYQGKSQKRSAVE</span><span class="topo-membrane">KSINAFLIVYLFILLTKAAVC</span><span class="topo-inside">TTLKYVWQSTPYNDEPWYNQKTQKERETLKVLKMFTDF</span><span class="topo-membrane">LSFMVLFNFIIPVSMY</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">VTVEM</span><span class="topo-outside">QKFLGSFFISWDKDFYDEEINEGALVNTSDLNEELGQVDYVFTDKTGTLTENSMEFIECCIDGHKYKGVTQEVDGLSQTDGTLTYFDKVDKNREELFLRALCLCHTVEIKTNDAV</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">DGATESAELTYISSSPDEIALVKGAKRYGFTFLGNRNGYMRVENQRKEIEEYELLHTLNFDAVRRRMSVIVKTQEGDILLFCKGADSAVFPRVQNHEIELTKVHVERNAMDGYRTLCVAF</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-outside">KEIAPDDYERINRQLIEAKMALQDREEKMEKVFDDIETNMNLIGATAVEDKLQDQAAETIEALHAAGLKVWVLTGDKMETAKSTCYACRLFQTNTELLELTTKTIEESERKEDRLHELLI</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820       830       840</span>
+<span class="topo-line"><span class="topo-outside">EYRKKLLHEFPKSTRSFKKAWTEHQEYGLIIDGSTLSLILNSSQDSSSNNYKSIFLQICMKCTAVLCCRMAPLQKAQIVRMVKNLKGSPITLSIGDGANDVSMILESHVGIGIKGKEGRQ</span></span>
+<span class="topo-ruler">       850       860       870       880       890       900       910       920       930       940       950       960</span>
+<span class="topo-line"><span class="topo-outside">AARNSDYSVPKFKHLKKLLLAHGHLYYVRIA</span><span class="topo-membrane">HLVQYFFYKNLCFILPQFLY</span><span class="topo-inside">QFFCGFSQQP</span><span class="topo-membrane">LYDAAYLTMYNICFTSLPILAY</span><span class="topo-outside">SLLEQHINIDTLTSDPRLYMKISGNAML</span><span class="topo-membrane">QLGPFLYWT</span></span>
+<span class="topo-ruler">       970       980       990      1000      1010      1020      1030      1040      1050      1060      1070      1080</span>
+<span class="topo-line"><span class="topo-membrane">FLAAFEGTVFFFGT</span><span class="topo-inside">YFLFQTASLEENGKVYGNWTFG</span><span class="topo-membrane">TIVFTVLVFTVTLKLALDT</span><span class="topo-outside">RFWTWI</span><span class="topo-membrane">NHFVIWGSLAFYVFFSFFWGGII</span><span class="topo-inside">WPFLKQQRMYF</span><span class="topo-unknown">VFAQML</span><span class="topo-inside">SSV</span><span class="topo-membrane">STWLAIILLIFISLFP</span></span>
+<span class="topo-ruler">      1090      1100      1110      1120         </span>
 <span class="topo-line"><span class="topo-membrane">EILLIVL</span><span class="topo-outside">KNVR</span><span class="topo-unknown">RRSARRNLSCRRASDSLSARPSVRPLLLRTFSDESNVL</span></span>
+<details class="topo-details"><summary>Topology coordinates (23 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -320,6 +322,7 @@ ATP11C is a member of the P4-ATPase family that functions as an aminophospholipi
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -335,13 +338,15 @@ ATP11C is a member of the P4-ATPase family that functions as an aminophospholipi
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAMNYNAKDEVDGGPPCAPGGTAKTR</span><span class="topo-outside">RPDNTAFKQQRLPAWQPILTA</span><span class="topo-membrane">GTVLPIFFIIGLI</span></span>
-<span class="topo-line"><span class="topo-membrane">FIPIGIG</span><span class="topo-inside">IFVTSNNIREIEIDYTGTEPSSPCNKCLSPDVTPCFCTINFTLEKSFEGNVFM</span></span>
-<span class="topo-line"><span class="topo-inside">YYGLSNFYQNHRRYVKSRDDSQLNGDSSALLNPSKECEPYRRNEDKPIAPCGAIANSMFN</span></span>
-<span class="topo-line"><span class="topo-inside">DTLELFLIGQDSYPIPIALKKKGIAWWTDKNVKFRNPPGGDNLEERFKGTTKPVNWLKPV</span></span>
-<span class="topo-line"><span class="topo-inside">YMLDSDPDNNGFINEDFIVWMRTAALPTFRKLYRLIERKSDLHPTLPAGRYWLNVTYNYP</span></span>
-<span class="topo-line"><span class="topo-inside">VHYFDGRKRMILSTISWMGGKNPFL</span><span class="topo-membrane">GIAYIAVGSISFLLGVVLLVI</span><span class="topo-outside">NHKY</span><span class="topo-unknown">RNSSNTADIT</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAMNYNAKDEVDGGPPCAPGGTAKTR</span><span class="topo-outside">RPDNTAFKQQRLPAWQPILTA</span><span class="topo-membrane">GTVLPIFFIIGLIFIPIGIG</span><span class="topo-inside">IFVTSNNIREIEIDYTGTEPSSPCNKCLSPDVTPCFCTINFTLEKSFEGNVFM</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">YYGLSNFYQNHRRYVKSRDDSQLNGDSSALLNPSKECEPYRRNEDKPIAPCGAIANSMFNDTLELFLIGQDSYPIPIALKKKGIAWWTDKNVKFRNPPGGDNLEERFKGTTKPVNWLKPV</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">YMLDSDPDNNGFINEDFIVWMRTAALPTFRKLYRLIERKSDLHPTLPAGRYWLNVTYNYPVHYFDGRKRMILSTISWMGGKNPFL</span><span class="topo-membrane">GIAYIAVGSISFLLGVVLLVI</span><span class="topo-outside">NHKY</span><span class="topo-unknown">RNSSNTADIT</span></span>
+<span class="topo-ruler"> </span>
 <span class="topo-line"><span class="topo-unknown">I</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -388,6 +393,7 @@ ATP11C is a member of the P4-ATPase family that functions as an aminophospholipi
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

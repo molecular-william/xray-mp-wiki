@@ -150,19 +150,21 @@ The photosystem I–light-harvesting complex I (PSI-LHCI) supercomplex from the 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MTISTPEREAK</span><span class="topo-inside">KVKIAVDRNPVETSFEKWAKPGHFSRTLSKGPNTTTWIWNLHADAHDFD</span></span>
-<span class="topo-line"><span class="topo-inside">SHTSDLEEISRKVFSA</span><span class="topo-membrane">HFGQLGIIFIWLSG</span><span class="topo-outside">MYFHGARFSNYEAWLSDPTHIKPSAQVVWP</span></span>
-<span class="topo-line"><span class="topo-outside">IVGQEILNGDVGGGFQGIQITSGFFQLWRASGITSELQLYTT</span><span class="topo-membrane">AIGGLVMAAAMFFA</span><span class="topo-inside">GWFH</span></span>
-<span class="topo-line"><span class="topo-inside">YHKAAPKLEWFQNVESM</span><span class="topo-membrane">LNHHLGGLLGLGSLAW</span><span class="topo-outside">AGHQIHVSLPVNKLLDAGVDPKEIPLP</span></span>
-<span class="topo-line"><span class="topo-outside">HDLLLNRAIMADLYPSFAKGIAPFFTLNWSEYSDFLTFKGGLNPVTGGLWLSDTAHHHV</span><span class="topo-membrane">A</span></span>
-<span class="topo-line"><span class="topo-membrane">IAVLFLVAGHM</span><span class="topo-inside">YRTNWGIGHSMKEILEAHRGPFTGEGHVGLYEILTTSWHAQL</span><span class="topo-membrane">AINLALF</span></span>
-<span class="topo-line"><span class="topo-membrane">GSLSIIV</span><span class="topo-outside">AHHMYAMPPYPYLATDYGTQLSLFT</span><span class="topo-membrane">HHTWIGGFCIVGAGA</span><span class="topo-inside">HAAIFMVRDYDPT</span></span>
-<span class="topo-line"><span class="topo-inside">NNYNNLLDRVIRHRDAII</span><span class="topo-membrane">SHLNWVCIFLGFHSF</span><span class="topo-outside">GLYIHNDTMSALGRPQDMFSDTAIQLQ</span></span>
-<span class="topo-line"><span class="topo-outside">PVFAQWIQNTHFLAPQLTAPNALAATSLTWGGDLVAVGGKVAMMPISLGTSDFMVH</span><span class="topo-membrane">HIHA</span></span>
-<span class="topo-line"><span class="topo-membrane">FTIHVTVLILL</span><span class="topo-inside">KGVLFARSSRLIPDKANLGFRFPCDGPGRGGTCQVSAWD</span><span class="topo-membrane">HVFLGLFWMY</span></span>
-<span class="topo-line"><span class="topo-membrane">NSLS</span><span class="topo-outside">IVIFHFSWKMQSDVWGTVT</span><span class="topo-unknown">AS</span><span class="topo-outside">GVSHITGGNFAQSANTINGWLRDFLWAQSSQVIQS</span></span>
-<span class="topo-line"><span class="topo-outside">YGSALSAYGLIFLGAH</span><span class="topo-membrane">FVWAFSLMFLFS</span><span class="topo-inside">GRGYWQELIESIVWAHNKLKVAPAIQPRALSI</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MTISTPEREAK</span><span class="topo-inside">KVKIAVDRNPVETSFEKWAKPGHFSRTLSKGPNTTTWIWNLHADAHDFDSHTSDLEEISRKVFSA</span><span class="topo-membrane">HFGQLGIIFIWLSG</span><span class="topo-outside">MYFHGARFSNYEAWLSDPTHIKPSAQVVWP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">IVGQEILNGDVGGGFQGIQITSGFFQLWRASGITSELQLYTT</span><span class="topo-membrane">AIGGLVMAAAMFFA</span><span class="topo-inside">GWFHYHKAAPKLEWFQNVESM</span><span class="topo-membrane">LNHHLGGLLGLGSLAW</span><span class="topo-outside">AGHQIHVSLPVNKLLDAGVDPKEIPLP</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">HDLLLNRAIMADLYPSFAKGIAPFFTLNWSEYSDFLTFKGGLNPVTGGLWLSDTAHHHV</span><span class="topo-membrane">AIAVLFLVAGHM</span><span class="topo-inside">YRTNWGIGHSMKEILEAHRGPFTGEGHVGLYEILTTSWHAQL</span><span class="topo-membrane">AINLALF</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">GSLSIIV</span><span class="topo-outside">AHHMYAMPPYPYLATDYGTQLSLFT</span><span class="topo-membrane">HHTWIGGFCIVGAGA</span><span class="topo-inside">HAAIFMVRDYDPTNNYNNLLDRVIRHRDAII</span><span class="topo-membrane">SHLNWVCIFLGFHSF</span><span class="topo-outside">GLYIHNDTMSALGRPQDMFSDTAIQLQ</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">PVFAQWIQNTHFLAPQLTAPNALAATSLTWGGDLVAVGGKVAMMPISLGTSDFMVH</span><span class="topo-membrane">HIHAFTIHVTVLILL</span><span class="topo-inside">KGVLFARSSRLIPDKANLGFRFPCDGPGRGGTCQVSAWD</span><span class="topo-membrane">HVFLGLFWMY</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-membrane">NSLS</span><span class="topo-outside">IVIFHFSWKMQSDVWGTVT</span><span class="topo-unknown">AS</span><span class="topo-outside">GVSHITGGNFAQSANTINGWLRDFLWAQSSQVIQSYGSALSAYGLIFLGAH</span><span class="topo-membrane">FVWAFSLMFLFS</span><span class="topo-inside">GRGYWQELIESIVWAHNKLKVAPAIQPRALSI</span></span>
+<span class="topo-ruler">       730       740       750 </span>
 <span class="topo-line"><span class="topo-inside">TQ</span><span class="topo-membrane">GRAVGVAHYLLGGIA</span><span class="topo-outside">TTWSFFLARIISVG</span></span>
+<details class="topo-details"><summary>Topology coordinates (26 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -356,6 +358,7 @@ The photosystem I–light-harvesting complex I (PSI-LHCI) supercomplex from the 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -371,19 +374,21 @@ The photosystem I–light-harvesting complex I (PSI-LHCI) supercomplex from the 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MA</span><span class="topo-inside">TKLFPKFSQGLAQDPTTRRIWYGLAMAHDFESHDGMTEENLYQK</span><span class="topo-membrane">IFASHFGQLSIIFL</span></span>
-<span class="topo-line"><span class="topo-outside">WTSGNLFHVAWQGNFEQWVTDPVHIRPIAHAIWDPHFGQPAVEAFTRGGASGPVNISTSG</span></span>
-<span class="topo-line"><span class="topo-outside">VYQWWYTIGMRTNQDLYVGSVFLA</span><span class="topo-membrane">LVSAIFLFAGWLH</span><span class="topo-inside">LQPNFQPSLSWFKD</span><span class="topo-membrane">AESRLNHHL</span></span>
-<span class="topo-line"><span class="topo-membrane">SGLFGVS</span><span class="topo-outside">SLAWTGHLVHVAIPESRGQHVGWDNFLSVLPHPQGLTPFFTGNWAAYAQSPDT</span></span>
-<span class="topo-line"><span class="topo-outside">ASHVFGTAQGSGQAILTFLGGFHPQTQSLWLTDMAHHHLAIAV</span><span class="topo-membrane">IFIVAGHMYRT</span><span class="topo-inside">NFGIGH</span></span>
-<span class="topo-line"><span class="topo-inside">RMQAILEAHTPPSGSLGAGHKGLFDTVNNSLHF</span><span class="topo-membrane">QLGLALASVGTITS</span><span class="topo-outside">LVAQHMYSLPPYA</span></span>
-<span class="topo-line"><span class="topo-outside">FQAIDFTTQAALYTHHQ</span><span class="topo-membrane">YIAGFIMCGAFAHG</span><span class="topo-inside">AIFFIRDYDPEQNKGNVLARMLDHKEA</span><span class="topo-membrane">LI</span></span>
-<span class="topo-line"><span class="topo-membrane">SHLSWVSLFLGFHTLG</span><span class="topo-outside">LYVHNDVMQAFGTPEKQILIEPVFAQWIQAAHGKALYGFDFLLS</span></span>
-<span class="topo-line"><span class="topo-outside">SKTSAAFANGQSLWLPGWLDAINNNQNSLFLTIGPGDFLVHH</span><span class="topo-membrane">AIALGLHTTTLILVK</span><span class="topo-inside">GAL</span></span>
-<span class="topo-line"><span class="topo-inside">DARGSKLMPDKKDFGYSFPCDGPGRGGTCDISAYD</span><span class="topo-membrane">AFYLAVFWMLNTI</span><span class="topo-outside">GWVTFYWHWKHL</span></span>
-<span class="topo-line"><span class="topo-outside">TLWQGNVAQFDESSTYLMGWLRDYLWLNSSQLINGYNPFGMNSLSVWAWTFLFGH</span><span class="topo-membrane">LIYAT</span></span>
-<span class="topo-line"><span class="topo-membrane">GFMFLISW</span><span class="topo-inside">RGYWQELIETLVWAHEKTPLANLVYWKDKPVALSIV</span><span class="topo-membrane">QARLVGLAHFSVGY</span><span class="topo-outside">IF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MA</span><span class="topo-inside">TKLFPKFSQGLAQDPTTRRIWYGLAMAHDFESHDGMTEENLYQK</span><span class="topo-membrane">IFASHFGQLSIIFL</span><span class="topo-outside">WTSGNLFHVAWQGNFEQWVTDPVHIRPIAHAIWDPHFGQPAVEAFTRGGASGPVNISTSG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">VYQWWYTIGMRTNQDLYVGSVFLA</span><span class="topo-membrane">LVSAIFLFAGWLH</span><span class="topo-inside">LQPNFQPSLSWFKD</span><span class="topo-membrane">AESRLNHHLSGLFGVS</span><span class="topo-outside">SLAWTGHLVHVAIPESRGQHVGWDNFLSVLPHPQGLTPFFTGNWAAYAQSPDT</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">ASHVFGTAQGSGQAILTFLGGFHPQTQSLWLTDMAHHHLAIAV</span><span class="topo-membrane">IFIVAGHMYRT</span><span class="topo-inside">NFGIGHRMQAILEAHTPPSGSLGAGHKGLFDTVNNSLHF</span><span class="topo-membrane">QLGLALASVGTITS</span><span class="topo-outside">LVAQHMYSLPPYA</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">FQAIDFTTQAALYTHHQ</span><span class="topo-membrane">YIAGFIMCGAFAHG</span><span class="topo-inside">AIFFIRDYDPEQNKGNVLARMLDHKEA</span><span class="topo-membrane">LISHLSWVSLFLGFHTLG</span><span class="topo-outside">LYVHNDVMQAFGTPEKQILIEPVFAQWIQAAHGKALYGFDFLLS</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">SKTSAAFANGQSLWLPGWLDAINNNQNSLFLTIGPGDFLVHH</span><span class="topo-membrane">AIALGLHTTTLILVK</span><span class="topo-inside">GALDARGSKLMPDKKDFGYSFPCDGPGRGGTCDISAYD</span><span class="topo-membrane">AFYLAVFWMLNTI</span><span class="topo-outside">GWVTFYWHWKHL</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-outside">TLWQGNVAQFDESSTYLMGWLRDYLWLNSSQLINGYNPFGMNSLSVWAWTFLFGH</span><span class="topo-membrane">LIYATGFMFLISW</span><span class="topo-inside">RGYWQELIETLVWAHEKTPLANLVYWKDKPVALSIV</span><span class="topo-membrane">QARLVGLAHFSVGY</span><span class="topo-outside">IF</span></span>
+<span class="topo-ruler">       730     </span>
 <span class="topo-line"><span class="topo-outside">TYAAFLIASTSGRF</span><span class="topo-unknown">G</span></span>
+<details class="topo-details"><summary>Topology coordinates (25 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -570,6 +575,7 @@ The photosystem I–light-harvesting complex I (PSI-LHCI) supercomplex from the 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -585,10 +591,11 @@ The photosystem I–light-harvesting complex I (PSI-LHCI) supercomplex from the 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MALTMRNPAVKASSRVAPSSRRALRVACQAQKNETASKVGTALAASALAAAVSLSAPSAA</span></span>
-<span class="topo-line"><span class="topo-unknown">MA</span><span class="topo-outside">DIAGLTPCSESKAYAKLEKKELKTLEKRLKQYEADSAPAVALKATMERTKARFANYAK</span></span>
-<span class="topo-line"><span class="topo-outside">AGLLCGNDGLPHLIADPGLALKYGHAGEVFIP</span><span class="topo-membrane">TFGFLYVAGYIGYV</span><span class="topo-inside">GRQYLIAVKGEAKP</span></span>
-<span class="topo-line"><span class="topo-inside">TDKEIIIDVPLATKLAWQGAGWPLAAVQELQRGTLLEKEENITVSPR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MALTMRNPAVKASSRVAPSSRRALRVACQAQKNETASKVGTALAASALAAAVSLSAPSAAMA</span><span class="topo-outside">DIAGLTPCSESKAYAKLEKKELKTLEKRLKQYEADSAPAVALKATMERTKARFANYAK</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       </span>
+<span class="topo-line"><span class="topo-outside">AGLLCGNDGLPHLIADPGLALKYGHAGEVFIP</span><span class="topo-membrane">TFGFLYVAGYIGYV</span><span class="topo-inside">GRQYLIAVKGEAKPTDKEIIIDVPLATKLAWQGAGWPLAAVQELQRGTLLEKEENITVSPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -628,6 +635,7 @@ The photosystem I–light-harvesting complex I (PSI-LHCI) supercomplex from the 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -643,7 +651,9 @@ The photosystem I–light-harvesting complex I (PSI-LHCI) supercomplex from the 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40 </span>
 <span class="topo-line"><span class="topo-inside">MKDFTTYLSTA</span><span class="topo-membrane">PVIATIWFTFTAGLL</span><span class="topo-outside">IEINRYFPDPLVF</span><span class="topo-unknown">SF</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -683,6 +693,7 @@ The photosystem I–light-harvesting complex I (PSI-LHCI) supercomplex from the 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -698,10 +709,11 @@ The photosystem I–light-harvesting complex I (PSI-LHCI) supercomplex from the 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MRTLSARTAAPRGFSGRRVAAVSNGSRVTM</span><span class="topo-inside">KAGNWLPGSDAPAWLPDDLPGNYGFDPLSL</span></span>
-<span class="topo-line"><span class="topo-inside">GKEPASLKRFT</span><span class="topo-membrane">ESEVIHGRWAMLGVAG</span><span class="topo-outside">SLAVELLGYGNWYDAPLWAVNGGKATWFGIEVP</span></span>
-<span class="topo-line"><span class="topo-outside">FDLNALL</span><span class="topo-membrane">AFEFVAMAAAEGQRG</span><span class="topo-inside">DAGGVVYPGGAFDPLGFAKDSSKSGELKL</span><span class="topo-membrane">KEIKNGRLA</span></span>
-<span class="topo-line"><span class="topo-membrane">MVAFLG</span><span class="topo-outside">FVAQHAATGKGPIAALGEHLANPWGANFATNGISVPFF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MRTLSARTAAPRGFSGRRVAAVSNGSRVTM</span><span class="topo-inside">KAGNWLPGSDAPAWLPDDLPGNYGFDPLSLGKEPASLKRFT</span><span class="topo-membrane">ESEVIHGRWAMLGVAG</span><span class="topo-outside">SLAVELLGYGNWYDAPLWAVNGGKATWFGIEVP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220    </span>
+<span class="topo-line"><span class="topo-outside">FDLNALL</span><span class="topo-membrane">AFEFVAMAAAEGQRG</span><span class="topo-inside">DAGGVVYPGGAFDPLGFAKDSSKSGELKL</span><span class="topo-membrane">KEIKNGRLAMVAFLG</span><span class="topo-outside">FVAQHAATGKGPIAALGEHLANPWGANFATNGISVPFF</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -769,6 +781,7 @@ The photosystem I–light-harvesting complex I (PSI-LHCI) supercomplex from the 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -784,11 +797,13 @@ The photosystem I–light-harvesting complex I (PSI-LHCI) supercomplex from the 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MMLTKSAQAAFSGKVARPAKANRARLVCRAEEKSIAKVDRSKDQLYVGASQSSLAYLDGS</span></span>
-<span class="topo-line"><span class="topo-inside">LPGDFGFDPLGLLDPVNSGGFIEPKWLQYSEVI</span><span class="topo-membrane">HARWAMLGAAGCIAPEVL</span><span class="topo-outside">GAAGLIPDA</span></span>
-<span class="topo-line"><span class="topo-outside">TNIKWFESGVIPPAGSYNGYWADP</span><span class="topo-membrane">YTIFFVEIVAMQFAE</span><span class="topo-inside">LRRLQDFRYPGSMGQQYFLGL</span></span>
-<span class="topo-line"><span class="topo-inside">EAIFKGSGDAAYPGGPFFNLFNLGKTEAAMKELKLKEIKN</span><span class="topo-membrane">GRLAMLAMLGYGAQA</span><span class="topo-outside">VMTGK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MMLTKSAQAAFSGKVARPAKANRARLVCRAEEKSIAKVDRSKDQLYVGASQSSLAYLDGS</span><span class="topo-inside">LPGDFGFDPLGLLDPVNSGGFIEPKWLQYSEVI</span><span class="topo-membrane">HARWAMLGAAGCIAPEVL</span><span class="topo-outside">GAAGLIPDA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">TNIKWFESGVIPPAGSYNGYWADP</span><span class="topo-membrane">YTIFFVEIVAMQFAE</span><span class="topo-inside">LRRLQDFRYPGSMGQQYFLGLEAIFKGSGDAAYPGGPFFNLFNLGKTEAAMKELKLKEIKN</span><span class="topo-membrane">GRLAMLAMLGYGAQA</span><span class="topo-outside">VMTGK</span></span>
+<span class="topo-ruler">       250       260       270       280       290        </span>
 <span class="topo-line"><span class="topo-outside">GPFQNLVEHLADPVNNNILTNF</span><span class="topo-unknown">AGRVSGSSQPWRPHGWWRRRYRSVAALALIRNRSVC</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -863,6 +878,7 @@ The photosystem I–light-harvesting complex I (PSI-LHCI) supercomplex from the 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -878,11 +894,13 @@ The photosystem I–light-harvesting complex I (PSI-LHCI) supercomplex from the 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MALSMIAQRRAGAFSARQAPRAVRAQAA</span><span class="topo-inside">VRPVWFPGNPPPAHLDGSLAGDYGFDPLFLGQ</span></span>
-<span class="topo-line"><span class="topo-inside">EPQTLKWYVQ</span><span class="topo-membrane">AELVHGRFAMLGAAGIIL</span><span class="topo-outside">TSIGAKVGLGFPEWYDAGKVVVEKNNIDFPTL</span></span>
-<span class="topo-line"><span class="topo-membrane">MVIQFYLMGWAETK</span><span class="topo-inside">RWYDFKNPGSQADGSFLGFTEEFKGLENGYPGGRFFDPMGLSRGDA</span></span>
-<span class="topo-line"><span class="topo-inside">AKYQEYKQKEV</span><span class="topo-membrane">KNGRLAMIACLGFAA</span><span class="topo-outside">QYAATGKGPLDNLADHLADPNHVNFATNGVSIPI</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MALSMIAQRRAGAFSARQAPRAVRAQAA</span><span class="topo-inside">VRPVWFPGNPPPAHLDGSLAGDYGFDPLFLGQEPQTLKWYVQ</span><span class="topo-membrane">AELVHGRFAMLGAAGIIL</span><span class="topo-outside">TSIGAKVGLGFPEWYDAGKVVVEKNNIDFPTL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">MVIQFYLMGWAETK</span><span class="topo-inside">RWYDFKNPGSQADGSFLGFTEEFKGLENGYPGGRFFDPMGLSRGDAAKYQEYKQKEV</span><span class="topo-membrane">KNGRLAMIACLGFAA</span><span class="topo-outside">QYAATGKGPLDNLADHLADPNHVNFATNGVSIPI</span></span>
+<span class="topo-ruler"> </span>
 <span class="topo-line"><span class="topo-unknown">A</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -957,6 +975,7 @@ The photosystem I–light-harvesting complex I (PSI-LHCI) supercomplex from the 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -972,11 +991,13 @@ The photosystem I–light-harvesting complex I (PSI-LHCI) supercomplex from the 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MALTMKRSGVAARSASSRKSVVTCVA</span><span class="topo-inside">RQSWLPGSQIPAHLDTPAAQALAGNFGFDPLGLG</span></span>
-<span class="topo-line"><span class="topo-inside">KDPVALRWYQ</span><span class="topo-membrane">QAELIHCRTAMAGVAG</span><span class="topo-outside">ILIPGLLTKAGALNVPEWYDAGKVAIENSFAPWG</span></span>
-<span class="topo-line"><span class="topo-outside">SLLA</span><span class="topo-membrane">VQLFLCGFVEAKRW</span><span class="topo-inside">QDIRKPGSQGEPGSFLGFEASLKGTSELGYPGGPFDPLGLSK</span></span>
-<span class="topo-line"><span class="topo-inside">EADKWADWKL</span><span class="topo-membrane">KEVKNGRLAMLAFLG</span><span class="topo-outside">FVAQKYATGAGPVDNLAAHLKDPWHVNYATNGVSL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MALTMKRSGVAARSASSRKSVVTCVA</span><span class="topo-inside">RQSWLPGSQIPAHLDTPAAQALAGNFGFDPLGLGKDPVALRWYQ</span><span class="topo-membrane">QAELIHCRTAMAGVAG</span><span class="topo-outside">ILIPGLLTKAGALNVPEWYDAGKVAIENSFAPWG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">SLLA</span><span class="topo-membrane">VQLFLCGFVEAKRW</span><span class="topo-inside">QDIRKPGSQGEPGSFLGFEASLKGTSELGYPGGPFDPLGLSKEADKWADWKL</span><span class="topo-membrane">KEVKNGRLAMLAFLG</span><span class="topo-outside">FVAQKYATGAGPVDNLAAHLKDPWHVNYATNGVSL</span></span>
+<span class="topo-ruler">   </span>
 <span class="topo-line"><span class="topo-outside">PFL</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1044,6 +1065,7 @@ The photosystem I–light-harvesting complex I (PSI-LHCI) supercomplex from the 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1059,10 +1081,11 @@ The photosystem I–light-harvesting complex I (PSI-LHCI) supercomplex from the 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MALSMRTLSARTAAPRGFSGRRVAAVSNGSRVTM</span><span class="topo-inside">KAGNWLPGSDAPAWLPDDLPGNYGFD</span></span>
-<span class="topo-line"><span class="topo-inside">PLSLGKEPASLKRFTE</span><span class="topo-membrane">SEVIHGRWAMLGVAGSLA</span><span class="topo-outside">VELLGYGNWYDAPLWAVN</span><span class="topo-unknown">GG</span><span class="topo-outside">KATWFG</span></span>
-<span class="topo-line"><span class="topo-outside">IEVPFDLNALL</span><span class="topo-membrane">AFEFVAMAAAEGQR</span><span class="topo-inside">GDAGGVVYPGGAFDPLGFAKDSSKSGELKLK</span><span class="topo-membrane">EIKN</span></span>
-<span class="topo-line"><span class="topo-membrane">GRLAMVAFLGFVA</span><span class="topo-outside">QHAATGKGPIAALGEHLANPWGANFATNGISVPFF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MALSMRTLSARTAAPRGFSGRRVAAVSNGSRVTM</span><span class="topo-inside">KAGNWLPGSDAPAWLPDDLPGNYGFDPLSLGKEPASLKRFTE</span><span class="topo-membrane">SEVIHGRWAMLGVAGSLA</span><span class="topo-outside">VELLGYGNWYDAPLWAVN</span><span class="topo-unknown">GG</span><span class="topo-outside">KATWFG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220        </span>
+<span class="topo-line"><span class="topo-outside">IEVPFDLNALL</span><span class="topo-membrane">AFEFVAMAAAEGQR</span><span class="topo-inside">GDAGGVVYPGGAFDPLGFAKDSSKSGELKLK</span><span class="topo-membrane">EIKNGRLAMVAFLGFVA</span><span class="topo-outside">QHAATGKGPIAALGEHLANPWGANFATNGISVPFF</span></span>
+<details class="topo-details"><summary>Topology coordinates (10 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1144,6 +1167,7 @@ The photosystem I–light-harvesting complex I (PSI-LHCI) supercomplex from the 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1159,11 +1183,13 @@ The photosystem I–light-harvesting complex I (PSI-LHCI) supercomplex from the 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAFVLAKSSAFGVAAKPVSRRSSVAVKASAVPENVKEAREWIDAWKSKSGGAKRDAA</span><span class="topo-inside">LPS</span></span>
-<span class="topo-line"><span class="topo-inside">WMPGADLPGYLNGTLPGDFGFDPLYLGQDPVKLKWYAQ</span><span class="topo-membrane">AELMNARFAMLAVAGILV</span><span class="topo-outside">PELL</span></span>
-<span class="topo-line"><span class="topo-outside">SNIG</span><span class="topo-unknown">FSW</span><span class="topo-outside">PGAGVAWYDAGKFEYFAPASSL</span><span class="topo-membrane">FGVQMLLFAWVEI</span><span class="topo-inside">RRYQDFVKPGSANQDPIF</span></span>
-<span class="topo-line"><span class="topo-inside">TNNKLPDGNEPGYPGGIFDPFGWSKGDIKSLKL</span><span class="topo-membrane">KEIKNGRLAMLAFAGF</span><span class="topo-outside">IGQAYTTGTTP</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAFVLAKSSAFGVAAKPVSRRSSVAVKASAVPENVKEAREWIDAWKSKSGGAKRDAA</span><span class="topo-inside">LPSWMPGADLPGYLNGTLPGDFGFDPLYLGQDPVKLKWYAQ</span><span class="topo-membrane">AELMNARFAMLAVAGILV</span><span class="topo-outside">PELL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">SNIG</span><span class="topo-unknown">FSW</span><span class="topo-outside">PGAGVAWYDAGKFEYFAPASSL</span><span class="topo-membrane">FGVQMLLFAWVEI</span><span class="topo-inside">RRYQDFVKPGSANQDPIFTNNKLPDGNEPGYPGGIFDPFGWSKGDIKSLKL</span><span class="topo-membrane">KEIKNGRLAMLAFAGF</span><span class="topo-outside">IGQAYTTGTTP</span></span>
+<span class="topo-ruler">       250       260    </span>
 <span class="topo-line"><span class="topo-outside">LKNLSTHLADPWSTTVWQNDLAR</span><span class="topo-unknown">L</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1252,6 +1278,7 @@ The photosystem I–light-harvesting complex I (PSI-LHCI) supercomplex from the 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1267,11 +1294,13 @@ The photosystem I–light-harvesting complex I (PSI-LHCI) supercomplex from the 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAALMQKSALSRPACSTRSSRRAVVVRAAAD</span><span class="topo-inside">RKLWAPGVVAPEYLKGDLAGDYGWDPLGL</span></span>
-<span class="topo-line"><span class="topo-inside">GADPTALKWYRQSELQHA</span><span class="topo-membrane">RWAMLGVAGVLVQEIV</span><span class="topo-outside">KPDVYFYEAGLPQNLPEPFTNINMG</span><span class="topo-membrane">G</span></span>
-<span class="topo-line"><span class="topo-membrane">LLAWEFILMHWVE</span><span class="topo-inside">VRRWQDYKNFGSVNEDPIFKGNKVPNPEMGYPGGIFDPFGFS</span><span class="topo-unknown">KG</span><span class="topo-inside">NLK</span></span>
-<span class="topo-line"><span class="topo-inside">ELQTKEIKNGR</span><span class="topo-membrane">LAMIAYMAFILQAQ</span><span class="topo-outside">ATGKGPLAALSAHLSNPFGNNILKNIGTCTVPHSV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAALMQKSALSRPACSTRSSRRAVVVRAAAD</span><span class="topo-inside">RKLWAPGVVAPEYLKGDLAGDYGWDPLGLGADPTALKWYRQSELQHA</span><span class="topo-membrane">RWAMLGVAGVLVQEIV</span><span class="topo-outside">KPDVYFYEAGLPQNLPEPFTNINMG</span><span class="topo-membrane">G</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">LLAWEFILMHWVE</span><span class="topo-inside">VRRWQDYKNFGSVNEDPIFKGNKVPNPEMGYPGGIFDPFGFS</span><span class="topo-unknown">KG</span><span class="topo-inside">NLKELQTKEIKNGR</span><span class="topo-membrane">LAMIAYMAFILQAQ</span><span class="topo-outside">ATGKGPLAALSAHLSNPFGNNILKNIGTCTVPHSV</span></span>
+<span class="topo-ruler">       250       </span>
 <span class="topo-line"><span class="topo-outside">DVQGLTIPLTCLWPGS</span><span class="topo-unknown">Q</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1360,6 +1389,7 @@ The photosystem I–light-harvesting complex I (PSI-LHCI) supercomplex from the 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1375,11 +1405,13 @@ The photosystem I–light-harvesting complex I (PSI-LHCI) supercomplex from the 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MMLVAKNAVAARPSARSARRSVVAKASS</span><span class="topo-inside">RPLWLPGSTPPAHLKGDLPGDFGFDPLGLGAN</span></span>
-<span class="topo-line"><span class="topo-inside">AESLKWFKESEL</span><span class="topo-membrane">VHSRWAMAAVAGILVQ</span><span class="topo-outside">EIVRPDVFWYNAGKEVESPLGPLG</span><span class="topo-membrane">LLAVEFFL</span></span>
-<span class="topo-line"><span class="topo-membrane">MHWVEV</span><span class="topo-inside">RRWQDLRKPGSVDQDPIFSQYKLPPHEVGYPGGVFAPFIPGDLAELKVKEIK</span><span class="topo-membrane">NG</span></span>
-<span class="topo-line"><span class="topo-membrane">RLAMLAFVGFVMA</span><span class="topo-outside">AQVTGKGPIAALQEHLADPWGTTIFSKAAVVPGQAVAPPCKIPASVS</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MMLVAKNAVAARPSARSARRSVVAKASS</span><span class="topo-inside">RPLWLPGSTPPAHLKGDLPGDFGFDPLGLGANAESLKWFKESEL</span><span class="topo-membrane">VHSRWAMAAVAGILVQ</span><span class="topo-outside">EIVRPDVFWYNAGKEVESPLGPLG</span><span class="topo-membrane">LLAVEFFL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">MHWVEV</span><span class="topo-inside">RRWQDLRKPGSVDQDPIFSQYKLPPHEVGYPGGVFAPFIPGDLAELKVKEIK</span><span class="topo-membrane">NGRLAMLAFVGFVMA</span><span class="topo-outside">AQVTGKGPIAALQEHLADPWGTTIFSKAAVVPGQAVAPPCKIPASVS</span></span>
+<span class="topo-ruler">       250       </span>
 <span class="topo-line"><span class="topo-outside">YKGIEIPTPCFLQGLWP</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1447,6 +1479,7 @@ The photosystem I–light-harvesting complex I (PSI-LHCI) supercomplex from the 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1462,19 +1495,21 @@ The photosystem I–light-harvesting complex I (PSI-LHCI) supercomplex from the 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MTISTPEREAK</span><span class="topo-inside">KVKIAVDRNPVETSFEKWAKPGHFSRTLSKGPNTTTWIWNLHADAHDFD</span></span>
-<span class="topo-line"><span class="topo-inside">SHTSDLEEISRKVFSA</span><span class="topo-membrane">HFGQLGIIFIWLSG</span><span class="topo-outside">MYFHGARFSNYEAWLSDPTHIKPSAQVVWP</span></span>
-<span class="topo-line"><span class="topo-outside">IVGQEILNGDVGGGFQGIQITSGFFQLWRASGITSELQLYTT</span><span class="topo-membrane">AIGGLVMAAAMFFA</span><span class="topo-inside">GWFH</span></span>
-<span class="topo-line"><span class="topo-inside">YHKAAPKLEWFQNVESM</span><span class="topo-membrane">LNHHLGGLLGLGSLA</span><span class="topo-outside">WAGHQIHVSLPVNKLLDAGVDPKEIPLP</span></span>
-<span class="topo-line"><span class="topo-outside">HDLLLNRAIMADLYPSFAKGIAPFFTLNWSEYSDFLTFKGGLNPVTGGLWLSDTAHHHV</span><span class="topo-membrane">A</span></span>
-<span class="topo-line"><span class="topo-membrane">IAVLFLVAGHM</span><span class="topo-inside">YRTNWGIGHSMKEILEAHRGPFTGEGHVGLYEILTTSWHAQ</span><span class="topo-membrane">LAINLALF</span></span>
-<span class="topo-line"><span class="topo-membrane">GSLSIIV</span><span class="topo-outside">AHHMYAMPPYPYLATDYGTQLSLFT</span><span class="topo-membrane">HHTWIGGFCIVGAGA</span><span class="topo-inside">HAAIFMVRDYDPT</span></span>
-<span class="topo-line"><span class="topo-inside">NNYNNLLDRVIRHRDAI</span><span class="topo-membrane">ISHLNWVCIFLGFH</span><span class="topo-outside">SFGLYIHNDTMSALGRPQDMFSDTAIQLQ</span></span>
-<span class="topo-line"><span class="topo-outside">PVFAQWIQNTHFLAPQLTAPNALAATSLTWGGDLVAVGGKVAMMPISLGTSDFMVHH</span><span class="topo-membrane">IHA</span></span>
-<span class="topo-line"><span class="topo-membrane">FTIHVTVLILL</span><span class="topo-inside">KGVLFARSSRLIPDKANLGFRFPCDGPGRGGTCQVSAWD</span><span class="topo-membrane">HVFLGLFWMY</span></span>
-<span class="topo-line"><span class="topo-membrane">NSLS</span><span class="topo-outside">IVIFHFSWKMQSDVWGTVT</span><span class="topo-unknown">AS</span><span class="topo-outside">GVSHITGGNFAQSANTINGWLRDFLWAQSSQVIQS</span></span>
-<span class="topo-line"><span class="topo-outside">YGSALSAYGLIFLGAH</span><span class="topo-membrane">FVWAFSLMFLFS</span><span class="topo-inside">GRGYWQELIESIVWAHNKLKVAPAIQPRALSI</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MTISTPEREAK</span><span class="topo-inside">KVKIAVDRNPVETSFEKWAKPGHFSRTLSKGPNTTTWIWNLHADAHDFDSHTSDLEEISRKVFSA</span><span class="topo-membrane">HFGQLGIIFIWLSG</span><span class="topo-outside">MYFHGARFSNYEAWLSDPTHIKPSAQVVWP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">IVGQEILNGDVGGGFQGIQITSGFFQLWRASGITSELQLYTT</span><span class="topo-membrane">AIGGLVMAAAMFFA</span><span class="topo-inside">GWFHYHKAAPKLEWFQNVESM</span><span class="topo-membrane">LNHHLGGLLGLGSLA</span><span class="topo-outside">WAGHQIHVSLPVNKLLDAGVDPKEIPLP</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">HDLLLNRAIMADLYPSFAKGIAPFFTLNWSEYSDFLTFKGGLNPVTGGLWLSDTAHHHV</span><span class="topo-membrane">AIAVLFLVAGHM</span><span class="topo-inside">YRTNWGIGHSMKEILEAHRGPFTGEGHVGLYEILTTSWHAQ</span><span class="topo-membrane">LAINLALF</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">GSLSIIV</span><span class="topo-outside">AHHMYAMPPYPYLATDYGTQLSLFT</span><span class="topo-membrane">HHTWIGGFCIVGAGA</span><span class="topo-inside">HAAIFMVRDYDPTNNYNNLLDRVIRHRDAI</span><span class="topo-membrane">ISHLNWVCIFLGFH</span><span class="topo-outside">SFGLYIHNDTMSALGRPQDMFSDTAIQLQ</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">PVFAQWIQNTHFLAPQLTAPNALAATSLTWGGDLVAVGGKVAMMPISLGTSDFMVHH</span><span class="topo-membrane">IHAFTIHVTVLILL</span><span class="topo-inside">KGVLFARSSRLIPDKANLGFRFPCDGPGRGGTCQVSAWD</span><span class="topo-membrane">HVFLGLFWMY</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-membrane">NSLS</span><span class="topo-outside">IVIFHFSWKMQSDVWGTVT</span><span class="topo-unknown">AS</span><span class="topo-outside">GVSHITGGNFAQSANTINGWLRDFLWAQSSQVIQSYGSALSAYGLIFLGAH</span><span class="topo-membrane">FVWAFSLMFLFS</span><span class="topo-inside">GRGYWQELIESIVWAHNKLKVAPAIQPRALSI</span></span>
+<span class="topo-ruler">       730       740       750 </span>
 <span class="topo-line"><span class="topo-inside">TQ</span><span class="topo-membrane">GRAVGVAHYLLGGI</span><span class="topo-outside">ATTWSFFLARIISVG</span></span>
+<details class="topo-details"><summary>Topology coordinates (26 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1668,6 +1703,7 @@ The photosystem I–light-harvesting complex I (PSI-LHCI) supercomplex from the 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1683,19 +1719,21 @@ The photosystem I–light-harvesting complex I (PSI-LHCI) supercomplex from the 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MA</span><span class="topo-inside">TKLFPKFSQGLAQDPTTRRIWYGLAMAHDFESHDGMTEENLYQK</span><span class="topo-membrane">IFASHFGQLSIIFL</span></span>
-<span class="topo-line"><span class="topo-outside">WTSGNLFHVAWQGNFEQWVTDPVHIRPIAHAIWDPHFGQPAVEAFTRGGASGPVNISTSG</span></span>
-<span class="topo-line"><span class="topo-outside">VYQWWYTIGMRTNQDLYVGSVFLA</span><span class="topo-membrane">LVSAIFLFAGWLHL</span><span class="topo-inside">QPNFQPSLSWFKD</span><span class="topo-membrane">AESRLNHHL</span></span>
-<span class="topo-line"><span class="topo-membrane">SGLFGV</span><span class="topo-outside">SSLAWTGHLVHVAIPESRGQHVGWDNFLSVLPHPQGLTPFFTGNWAAYAQSPDT</span></span>
-<span class="topo-line"><span class="topo-outside">ASHVFGTAQGSGQAILTFLGGFHPQTQSLWLTDMAHHHLAIAV</span><span class="topo-membrane">IFIVAGHMYRT</span><span class="topo-inside">NFGIGH</span></span>
-<span class="topo-line"><span class="topo-inside">RMQAILEAHTPPSGSLGAGHKGLFDTVNNSL</span><span class="topo-membrane">HFQLGLALASVGTIT</span><span class="topo-outside">SLVAQHMYSLPPYA</span></span>
-<span class="topo-line"><span class="topo-outside">FQAIDFTTQAALYTHHQ</span><span class="topo-membrane">YIAGFIMCGAFAHG</span><span class="topo-inside">AIFFIRDYDPEQNKGNVLARMLDHKEA</span><span class="topo-membrane">LI</span></span>
-<span class="topo-line"><span class="topo-membrane">SHLSWVSLFLGFHTLG</span><span class="topo-outside">LYVHNDVMQAFGTPEKQILIEPVFAQWIQAAHGKALYGFDFLLS</span></span>
-<span class="topo-line"><span class="topo-outside">SKTSAAFANGQSLWLPGWLDAINNNQNSLFLTIGPGDFLVHHA</span><span class="topo-membrane">IALGLHTTTLILVK</span><span class="topo-inside">GAL</span></span>
-<span class="topo-line"><span class="topo-inside">DARGSKLMPDKKDFGYSFPCDGPGRGGTCDISAY</span><span class="topo-membrane">DAFYLAVFWMLNTI</span><span class="topo-outside">GWVTFYWHWKHL</span></span>
-<span class="topo-line"><span class="topo-outside">TLWQGNVAQFDESSTYLMGWLRDYLWLNSSQLINGYNPFGMNSLSVWAWTFLFGH</span><span class="topo-membrane">LIYAT</span></span>
-<span class="topo-line"><span class="topo-membrane">GFMFLISW</span><span class="topo-inside">RGYWQELIETLVWAHEKTPLANLVYWKDKPVALSIV</span><span class="topo-membrane">QARLVGLAHFSVGY</span><span class="topo-outside">IF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MA</span><span class="topo-inside">TKLFPKFSQGLAQDPTTRRIWYGLAMAHDFESHDGMTEENLYQK</span><span class="topo-membrane">IFASHFGQLSIIFL</span><span class="topo-outside">WTSGNLFHVAWQGNFEQWVTDPVHIRPIAHAIWDPHFGQPAVEAFTRGGASGPVNISTSG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">VYQWWYTIGMRTNQDLYVGSVFLA</span><span class="topo-membrane">LVSAIFLFAGWLHL</span><span class="topo-inside">QPNFQPSLSWFKD</span><span class="topo-membrane">AESRLNHHLSGLFGV</span><span class="topo-outside">SSLAWTGHLVHVAIPESRGQHVGWDNFLSVLPHPQGLTPFFTGNWAAYAQSPDT</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">ASHVFGTAQGSGQAILTFLGGFHPQTQSLWLTDMAHHHLAIAV</span><span class="topo-membrane">IFIVAGHMYRT</span><span class="topo-inside">NFGIGHRMQAILEAHTPPSGSLGAGHKGLFDTVNNSL</span><span class="topo-membrane">HFQLGLALASVGTIT</span><span class="topo-outside">SLVAQHMYSLPPYA</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">FQAIDFTTQAALYTHHQ</span><span class="topo-membrane">YIAGFIMCGAFAHG</span><span class="topo-inside">AIFFIRDYDPEQNKGNVLARMLDHKEA</span><span class="topo-membrane">LISHLSWVSLFLGFHTLG</span><span class="topo-outside">LYVHNDVMQAFGTPEKQILIEPVFAQWIQAAHGKALYGFDFLLS</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">SKTSAAFANGQSLWLPGWLDAINNNQNSLFLTIGPGDFLVHHA</span><span class="topo-membrane">IALGLHTTTLILVK</span><span class="topo-inside">GALDARGSKLMPDKKDFGYSFPCDGPGRGGTCDISAY</span><span class="topo-membrane">DAFYLAVFWMLNTI</span><span class="topo-outside">GWVTFYWHWKHL</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-outside">TLWQGNVAQFDESSTYLMGWLRDYLWLNSSQLINGYNPFGMNSLSVWAWTFLFGH</span><span class="topo-membrane">LIYATGFMFLISW</span><span class="topo-inside">RGYWQELIETLVWAHEKTPLANLVYWKDKPVALSIV</span><span class="topo-membrane">QARLVGLAHFSVGY</span><span class="topo-outside">IF</span></span>
+<span class="topo-ruler">       730     </span>
 <span class="topo-line"><span class="topo-outside">TYAAFLIASTSGRF</span><span class="topo-unknown">G</span></span>
+<details class="topo-details"><summary>Topology coordinates (25 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1882,6 +1920,7 @@ The photosystem I–light-harvesting complex I (PSI-LHCI) supercomplex from the 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1897,10 +1936,11 @@ The photosystem I–light-harvesting complex I (PSI-LHCI) supercomplex from the 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MALTMRNPAVKASSRVAPSSRRALRVACQAQKNETASKVGTALAASALAAAVSLSAPSAA</span></span>
-<span class="topo-line"><span class="topo-unknown">MA</span><span class="topo-outside">DIAGLTPCSESKAYAKLEKKELKTLEKRLKQYEADSAPAVALKATMERTKARFANYAK</span></span>
-<span class="topo-line"><span class="topo-outside">AGLLCGNDGLPHLIADPGLALKYGHAGEVFIP</span><span class="topo-membrane">TFGFLYVAGYIGYVG</span><span class="topo-inside">RQYLIAVKGEAKP</span></span>
-<span class="topo-line"><span class="topo-inside">TDKEIIIDVPLATKL</span><span class="topo-unknown">AWQGAGWPLAAV</span><span class="topo-inside">QELQRGTLLEKEENITVSPR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MALTMRNPAVKASSRVAPSSRRALRVACQAQKNETASKVGTALAASALAAAVSLSAPSAAMA</span><span class="topo-outside">DIAGLTPCSESKAYAKLEKKELKTLEKRLKQYEADSAPAVALKATMERTKARFANYAK</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       </span>
+<span class="topo-line"><span class="topo-outside">AGLLCGNDGLPHLIADPGLALKYGHAGEVFIP</span><span class="topo-membrane">TFGFLYVAGYIGYVG</span><span class="topo-inside">RQYLIAVKGEAKPTDKEIIIDVPLATKL</span><span class="topo-unknown">AWQGAGWPLAAV</span><span class="topo-inside">QELQRGTLLEKEENITVSPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (6 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1954,6 +1994,7 @@ The photosystem I–light-harvesting complex I (PSI-LHCI) supercomplex from the 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1969,7 +2010,9 @@ The photosystem I–light-harvesting complex I (PSI-LHCI) supercomplex from the 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40 </span>
 <span class="topo-line"><span class="topo-inside">MKDFTTYLSTA</span><span class="topo-membrane">PVIATIWFTFTAGLL</span><span class="topo-outside">IEINRYFPDPLVF</span><span class="topo-unknown">SF</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2009,6 +2052,7 @@ The photosystem I–light-harvesting complex I (PSI-LHCI) supercomplex from the 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2024,10 +2068,11 @@ The photosystem I–light-harvesting complex I (PSI-LHCI) supercomplex from the 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MRTLSARTAAPRGFSGRRVAAVSNGSRVTM</span><span class="topo-inside">KAGNWLPGSDAPAWLPDDLPGNYGFDPLSL</span></span>
-<span class="topo-line"><span class="topo-inside">GKEPASLKRFT</span><span class="topo-membrane">ESEVIHGRWAMLGVA</span><span class="topo-outside">GSLAVELLGYGNWYDAPLWAVNGGKATWFGIEVP</span></span>
-<span class="topo-line"><span class="topo-outside">FDLNALLA</span><span class="topo-membrane">FEFVAMAAAEGQRGD</span><span class="topo-inside">AGGVVYPGGAFDPLGFAKDSSKSGELKL</span><span class="topo-membrane">KEIKNGRLA</span></span>
-<span class="topo-line"><span class="topo-membrane">MVAFLG</span><span class="topo-outside">FVAQHAATGKGPIAALGEHLANPWGANFATNGISVPFF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MRTLSARTAAPRGFSGRRVAAVSNGSRVTM</span><span class="topo-inside">KAGNWLPGSDAPAWLPDDLPGNYGFDPLSLGKEPASLKRFT</span><span class="topo-membrane">ESEVIHGRWAMLGVA</span><span class="topo-outside">GSLAVELLGYGNWYDAPLWAVNGGKATWFGIEVP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220    </span>
+<span class="topo-line"><span class="topo-outside">FDLNALLA</span><span class="topo-membrane">FEFVAMAAAEGQRGD</span><span class="topo-inside">AGGVVYPGGAFDPLGFAKDSSKSGELKL</span><span class="topo-membrane">KEIKNGRLAMVAFLG</span><span class="topo-outside">FVAQHAATGKGPIAALGEHLANPWGANFATNGISVPFF</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2095,6 +2140,7 @@ The photosystem I–light-harvesting complex I (PSI-LHCI) supercomplex from the 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2110,11 +2156,13 @@ The photosystem I–light-harvesting complex I (PSI-LHCI) supercomplex from the 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MMLTKSAQAAFSGKVARPAKANRARLVCRAEEKSIAKVDRSKDQLYVGASQSSLAYLDGS</span></span>
-<span class="topo-line"><span class="topo-inside">LPGDFGFDPLGLLDPVNSGGFIEPKWLQYSEVI</span><span class="topo-membrane">HARWAMLGAAGCIAPEVL</span><span class="topo-outside">GAAGLIPDA</span></span>
-<span class="topo-line"><span class="topo-outside">TNIKWFESGVIPPAGSYNGYWADP</span><span class="topo-membrane">YTIFFVEIVAMQFAE</span><span class="topo-inside">LRRLQDFRYPGSMGQQYFLGL</span></span>
-<span class="topo-line"><span class="topo-inside">EAIFKGSGDAAYPGGPFFNLFNLGKTEAAMKELKLKEIKN</span><span class="topo-membrane">GRLAMLAMLGYGAQA</span><span class="topo-outside">VMTGK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MMLTKSAQAAFSGKVARPAKANRARLVCRAEEKSIAKVDRSKDQLYVGASQSSLAYLDGS</span><span class="topo-inside">LPGDFGFDPLGLLDPVNSGGFIEPKWLQYSEVI</span><span class="topo-membrane">HARWAMLGAAGCIAPEVL</span><span class="topo-outside">GAAGLIPDA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">TNIKWFESGVIPPAGSYNGYWADP</span><span class="topo-membrane">YTIFFVEIVAMQFAE</span><span class="topo-inside">LRRLQDFRYPGSMGQQYFLGLEAIFKGSGDAAYPGGPFFNLFNLGKTEAAMKELKLKEIKN</span><span class="topo-membrane">GRLAMLAMLGYGAQA</span><span class="topo-outside">VMTGK</span></span>
+<span class="topo-ruler">       250       260       270       280       290        </span>
 <span class="topo-line"><span class="topo-outside">GPFQNLVEHLADPVNNNILTNF</span><span class="topo-unknown">AGRVSGSSQPWRPHGWWRRRYRSVAALALIRNRSVC</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2189,6 +2237,7 @@ The photosystem I–light-harvesting complex I (PSI-LHCI) supercomplex from the 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2204,11 +2253,13 @@ The photosystem I–light-harvesting complex I (PSI-LHCI) supercomplex from the 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MALSMIAQRRAGAFSARQAPRAVRAQAA</span><span class="topo-inside">VRPVWFPGNPPPAHLDGSLAGDYGFDPLFLGQ</span></span>
-<span class="topo-line"><span class="topo-inside">EPQTLKWYVQ</span><span class="topo-membrane">AELVHGRFAMLGAAGIIL</span><span class="topo-outside">TSIGAKVGLGFPEWYDAGKVVVEKNNIDFPTL</span></span>
-<span class="topo-line"><span class="topo-membrane">MVIQFYLMGWAETK</span><span class="topo-inside">RWYDFKNPGSQADGSFLGFTEEFKGLENGYPGGRFFDPMGLSRGDA</span></span>
-<span class="topo-line"><span class="topo-inside">AKYQEYKQKEV</span><span class="topo-membrane">KNGRLAMIACLGFAA</span><span class="topo-outside">QYAATGKGPLDNLADHLADPNHVNFATNGVSIPI</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MALSMIAQRRAGAFSARQAPRAVRAQAA</span><span class="topo-inside">VRPVWFPGNPPPAHLDGSLAGDYGFDPLFLGQEPQTLKWYVQ</span><span class="topo-membrane">AELVHGRFAMLGAAGIIL</span><span class="topo-outside">TSIGAKVGLGFPEWYDAGKVVVEKNNIDFPTL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">MVIQFYLMGWAETK</span><span class="topo-inside">RWYDFKNPGSQADGSFLGFTEEFKGLENGYPGGRFFDPMGLSRGDAAKYQEYKQKEV</span><span class="topo-membrane">KNGRLAMIACLGFAA</span><span class="topo-outside">QYAATGKGPLDNLADHLADPNHVNFATNGVSIPI</span></span>
+<span class="topo-ruler"> </span>
 <span class="topo-line"><span class="topo-unknown">A</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2283,6 +2334,7 @@ The photosystem I–light-harvesting complex I (PSI-LHCI) supercomplex from the 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2298,11 +2350,13 @@ The photosystem I–light-harvesting complex I (PSI-LHCI) supercomplex from the 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MALTMKRSGVAARSASSRKSVVTCVA</span><span class="topo-inside">RQSWLPGSQIPAHLDTPAAQALAGNFGFDPLGLG</span></span>
-<span class="topo-line"><span class="topo-inside">KDPVALRWYQ</span><span class="topo-membrane">QAELIHCRTAMAGVAG</span><span class="topo-outside">ILIPGLLTKAGALNVPEWYDAGKVAIENSFAPWG</span></span>
-<span class="topo-line"><span class="topo-outside">SLLA</span><span class="topo-membrane">VQLFLCGFVEAKRW</span><span class="topo-inside">QDIRKPGSQGEPGSFLGFEASLKGTSELGYPGGPFDPLGLSK</span></span>
-<span class="topo-line"><span class="topo-inside">EADKWADWKL</span><span class="topo-membrane">KEVKNGRLAMLAFLG</span><span class="topo-outside">FVAQKYATGAGPVDNLAAHLKDPWHVNYATNGVSL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MALTMKRSGVAARSASSRKSVVTCVA</span><span class="topo-inside">RQSWLPGSQIPAHLDTPAAQALAGNFGFDPLGLGKDPVALRWYQ</span><span class="topo-membrane">QAELIHCRTAMAGVAG</span><span class="topo-outside">ILIPGLLTKAGALNVPEWYDAGKVAIENSFAPWG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">SLLA</span><span class="topo-membrane">VQLFLCGFVEAKRW</span><span class="topo-inside">QDIRKPGSQGEPGSFLGFEASLKGTSELGYPGGPFDPLGLSKEADKWADWKL</span><span class="topo-membrane">KEVKNGRLAMLAFLG</span><span class="topo-outside">FVAQKYATGAGPVDNLAAHLKDPWHVNYATNGVSL</span></span>
+<span class="topo-ruler">   </span>
 <span class="topo-line"><span class="topo-outside">PFL</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2370,6 +2424,7 @@ The photosystem I–light-harvesting complex I (PSI-LHCI) supercomplex from the 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2385,10 +2440,11 @@ The photosystem I–light-harvesting complex I (PSI-LHCI) supercomplex from the 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MALSMRTLSARTAAPRGFSGRRVAAVSNGSRVTM</span><span class="topo-inside">KAGNWLPGSDAPAWLPDDLPGNYGFD</span></span>
-<span class="topo-line"><span class="topo-inside">PLSLGKEPASLKRFTE</span><span class="topo-membrane">SEVIHGRWAMLGVAGSL</span><span class="topo-outside">AVELLGYGNWYDAPLWAVN</span><span class="topo-unknown">GG</span><span class="topo-outside">KATWFG</span></span>
-<span class="topo-line"><span class="topo-outside">IEVPFDLNALL</span><span class="topo-membrane">AFEFVAMAAAEGQRG</span><span class="topo-inside">DAGGVVYPGGAFDPLGFAKDSSKSGELKL</span><span class="topo-membrane">KEIKN</span></span>
-<span class="topo-line"><span class="topo-membrane">GRLAMVAFLGF</span><span class="topo-outside">VAQHAATGKGPIAALGEHLANPWGANFATNGISVPFF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MALSMRTLSARTAAPRGFSGRRVAAVSNGSRVTM</span><span class="topo-inside">KAGNWLPGSDAPAWLPDDLPGNYGFDPLSLGKEPASLKRFTE</span><span class="topo-membrane">SEVIHGRWAMLGVAGSL</span><span class="topo-outside">AVELLGYGNWYDAPLWAVN</span><span class="topo-unknown">GG</span><span class="topo-outside">KATWFG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220        </span>
+<span class="topo-line"><span class="topo-outside">IEVPFDLNALL</span><span class="topo-membrane">AFEFVAMAAAEGQRG</span><span class="topo-inside">DAGGVVYPGGAFDPLGFAKDSSKSGELKL</span><span class="topo-membrane">KEIKNGRLAMVAFLGF</span><span class="topo-outside">VAQHAATGKGPIAALGEHLANPWGANFATNGISVPFF</span></span>
+<details class="topo-details"><summary>Topology coordinates (10 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2470,6 +2526,7 @@ The photosystem I–light-harvesting complex I (PSI-LHCI) supercomplex from the 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2485,11 +2542,13 @@ The photosystem I–light-harvesting complex I (PSI-LHCI) supercomplex from the 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAFVLAKSSAFGVAAKPVSRRSSVAVKASAVPENVKEAREWIDAWKSKSGGAKRDAA</span><span class="topo-inside">LPS</span></span>
-<span class="topo-line"><span class="topo-inside">WMPGADLPGYLNGTLPGDFGFDPLYLGQDPVKLKWYAQ</span><span class="topo-membrane">AELMNARFAMLAVAGILV</span><span class="topo-outside">PELL</span></span>
-<span class="topo-line"><span class="topo-outside">SNIG</span><span class="topo-unknown">FSW</span><span class="topo-outside">PGAGVAWYDAGKFEYFAPASSL</span><span class="topo-membrane">FGVQMLLFAWVEI</span><span class="topo-inside">RRYQDFVKPGSANQDPIF</span></span>
-<span class="topo-line"><span class="topo-inside">TNNKLPDGNEPGYPGGIFDPFGWSKGDIKSLKL</span><span class="topo-membrane">KEIKNGRLAMLAFAGF</span><span class="topo-outside">IGQAYTTGTTP</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAFVLAKSSAFGVAAKPVSRRSSVAVKASAVPENVKEAREWIDAWKSKSGGAKRDAA</span><span class="topo-inside">LPSWMPGADLPGYLNGTLPGDFGFDPLYLGQDPVKLKWYAQ</span><span class="topo-membrane">AELMNARFAMLAVAGILV</span><span class="topo-outside">PELL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">SNIG</span><span class="topo-unknown">FSW</span><span class="topo-outside">PGAGVAWYDAGKFEYFAPASSL</span><span class="topo-membrane">FGVQMLLFAWVEI</span><span class="topo-inside">RRYQDFVKPGSANQDPIFTNNKLPDGNEPGYPGGIFDPFGWSKGDIKSLKL</span><span class="topo-membrane">KEIKNGRLAMLAFAGF</span><span class="topo-outside">IGQAYTTGTTP</span></span>
+<span class="topo-ruler">       250       260    </span>
 <span class="topo-line"><span class="topo-outside">LKNLSTHLADPWSTTVWQNDLAR</span><span class="topo-unknown">L</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2578,6 +2637,7 @@ The photosystem I–light-harvesting complex I (PSI-LHCI) supercomplex from the 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2593,11 +2653,13 @@ The photosystem I–light-harvesting complex I (PSI-LHCI) supercomplex from the 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAALMQKSALSRPACSTRSSRRAVVVRAAAD</span><span class="topo-inside">RKLWAPGVVAPEYLKGDLAGDYGWDPLGL</span></span>
-<span class="topo-line"><span class="topo-inside">GADPTALKWYRQSELQ</span><span class="topo-membrane">HARWAMLGVAGVLVQEIV</span><span class="topo-outside">KPDVYFYEAGLPQNLPEPFTNINM</span><span class="topo-membrane">GG</span></span>
-<span class="topo-line"><span class="topo-membrane">LLAWEFILMHWVE</span><span class="topo-inside">VRRWQDYKNFGSVNEDPIFKGNKVPNPEMGYPGGIFDPFGFS</span><span class="topo-unknown">KG</span><span class="topo-inside">NLK</span></span>
-<span class="topo-line"><span class="topo-inside">ELQTKEIKNGR</span><span class="topo-membrane">LAMIAYMAFILQAQ</span><span class="topo-outside">ATGKGPLAALSAHLSNPFGNNILKNIGTCTVPHSV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAALMQKSALSRPACSTRSSRRAVVVRAAAD</span><span class="topo-inside">RKLWAPGVVAPEYLKGDLAGDYGWDPLGLGADPTALKWYRQSELQ</span><span class="topo-membrane">HARWAMLGVAGVLVQEIV</span><span class="topo-outside">KPDVYFYEAGLPQNLPEPFTNINM</span><span class="topo-membrane">GG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">LLAWEFILMHWVE</span><span class="topo-inside">VRRWQDYKNFGSVNEDPIFKGNKVPNPEMGYPGGIFDPFGFS</span><span class="topo-unknown">KG</span><span class="topo-inside">NLKELQTKEIKNGR</span><span class="topo-membrane">LAMIAYMAFILQAQ</span><span class="topo-outside">ATGKGPLAALSAHLSNPFGNNILKNIGTCTVPHSV</span></span>
+<span class="topo-ruler">       250       </span>
 <span class="topo-line"><span class="topo-outside">DVQGLTIPLTCLWPGS</span><span class="topo-unknown">Q</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2686,6 +2748,7 @@ The photosystem I–light-harvesting complex I (PSI-LHCI) supercomplex from the 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2701,11 +2764,13 @@ The photosystem I–light-harvesting complex I (PSI-LHCI) supercomplex from the 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MMLVAKNAVAARPSARSARRSVVAKASS</span><span class="topo-inside">RPLWLPGSTPPAHLKGDLPGDFGFDPLGLGAN</span></span>
-<span class="topo-line"><span class="topo-inside">AESLKWFKESEL</span><span class="topo-membrane">VHSRWAMAAVAGILVQ</span><span class="topo-outside">EIVRPDVFWYNAGKEVESPLGPLG</span><span class="topo-membrane">LLAVEFFL</span></span>
-<span class="topo-line"><span class="topo-membrane">MHWVEV</span><span class="topo-inside">RRWQDLRKPGSVDQDPIFSQYKLPPHEVGYPGGVFAPFIPGDLAELKVKEIK</span><span class="topo-membrane">NG</span></span>
-<span class="topo-line"><span class="topo-membrane">RLAMLAFVGFVMA</span><span class="topo-outside">AQVTGKGPIAALQEHLADPWGTTIFSKAAVVPGQAVAPPCKIPASVS</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MMLVAKNAVAARPSARSARRSVVAKASS</span><span class="topo-inside">RPLWLPGSTPPAHLKGDLPGDFGFDPLGLGANAESLKWFKESEL</span><span class="topo-membrane">VHSRWAMAAVAGILVQ</span><span class="topo-outside">EIVRPDVFWYNAGKEVESPLGPLG</span><span class="topo-membrane">LLAVEFFL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">MHWVEV</span><span class="topo-inside">RRWQDLRKPGSVDQDPIFSQYKLPPHEVGYPGGVFAPFIPGDLAELKVKEIK</span><span class="topo-membrane">NGRLAMLAFVGFVMA</span><span class="topo-outside">AQVTGKGPIAALQEHLADPWGTTIFSKAAVVPGQAVAPPCKIPASVS</span></span>
+<span class="topo-ruler">       250       </span>
 <span class="topo-line"><span class="topo-outside">YKGIEIPTPCFLQG</span><span class="topo-unknown">LWP</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2780,6 +2845,7 @@ The photosystem I–light-harvesting complex I (PSI-LHCI) supercomplex from the 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2795,19 +2861,21 @@ The photosystem I–light-harvesting complex I (PSI-LHCI) supercomplex from the 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MTISTPEREAK</span><span class="topo-outside">KVKIAVDRNPVETSFEKWAKPGHFSRTLSKGPNTTTWIWNLHADAHDFD</span></span>
-<span class="topo-line"><span class="topo-outside">SHTSDLEEISRKVFSAH</span><span class="topo-membrane">FGQLGIIFIWLSGMYFHG</span><span class="topo-inside">ARFSNYEAWLSDPTHIKPSAQVVWP</span></span>
-<span class="topo-line"><span class="topo-inside">IVGQEILNGDVGGGFQGIQITSGFFQLWRASGITSELQ</span><span class="topo-membrane">LYTTAIGGLVMAAAMF</span><span class="topo-outside">FAGWFH</span></span>
-<span class="topo-line"><span class="topo-outside">YHKAAPKLEWFQNVESMLN</span><span class="topo-membrane">HHLGGLLGLGSLAWAGHQ</span><span class="topo-inside">IHVSLPVNKLLDAGVDPKEIPLP</span></span>
-<span class="topo-line"><span class="topo-inside">HDLLLNRAIMADLYPSFAKGIAPFFTLNWSEYSDFLTFKGGLNPVTGGLWLSDT</span><span class="topo-membrane">AHHHVA</span></span>
-<span class="topo-line"><span class="topo-membrane">IAVLFLVAGHM</span><span class="topo-outside">YRTNWGIGHSMKEILEAHRGPFTGEGHVGLYEILTTSWHAQLAI</span><span class="topo-membrane">NLALF</span></span>
-<span class="topo-line"><span class="topo-membrane">GSLSIIVAHHM</span><span class="topo-inside">YAMPPYPYLATDYGTQLS</span><span class="topo-membrane">LFTHHTWIGGFCIVGAG</span><span class="topo-outside">AHAAIFMVRDYDPT</span></span>
-<span class="topo-line"><span class="topo-outside">NNYNNLLDRVIRHRDAIISH</span><span class="topo-membrane">LNWVCIFLGFHSFGLYIH</span><span class="topo-inside">NDTMSALGRPQDMFSDTAIQLQ</span></span>
-<span class="topo-line"><span class="topo-inside">PVFAQWIQNTHFLAPQLTAPNALAATSLTWGGDLVAVGGKVAMMPISLGTSDF</span><span class="topo-membrane">MVHHIHA</span></span>
-<span class="topo-line"><span class="topo-membrane">FTIHVTVLIL</span><span class="topo-outside">LKGVLFARSSRLIPDKANLGFRFPCDGPGRGGTCQVSAWDHV</span><span class="topo-membrane">FLGLFWMY</span></span>
-<span class="topo-line"><span class="topo-membrane">NSLSIVIFHF</span><span class="topo-inside">SWKMQSDVWGTVT</span><span class="topo-unknown">AS</span><span class="topo-inside">GVSHITGGNFAQSANTINGWLRDFLWAQSSQVIQS</span></span>
-<span class="topo-line"><span class="topo-inside">YGSALSAYGL</span><span class="topo-membrane">IFLGAHFVWAFSLMFLFS</span><span class="topo-outside">GRGYWQELIESIVWAHNKLKVAPAIQPRALSI</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MTISTPEREAK</span><span class="topo-outside">KVKIAVDRNPVETSFEKWAKPGHFSRTLSKGPNTTTWIWNLHADAHDFDSHTSDLEEISRKVFSAH</span><span class="topo-membrane">FGQLGIIFIWLSGMYFHG</span><span class="topo-inside">ARFSNYEAWLSDPTHIKPSAQVVWP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">IVGQEILNGDVGGGFQGIQITSGFFQLWRASGITSELQ</span><span class="topo-membrane">LYTTAIGGLVMAAAMF</span><span class="topo-outside">FAGWFHYHKAAPKLEWFQNVESMLN</span><span class="topo-membrane">HHLGGLLGLGSLAWAGHQ</span><span class="topo-inside">IHVSLPVNKLLDAGVDPKEIPLP</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">HDLLLNRAIMADLYPSFAKGIAPFFTLNWSEYSDFLTFKGGLNPVTGGLWLSDT</span><span class="topo-membrane">AHHHVAIAVLFLVAGHM</span><span class="topo-outside">YRTNWGIGHSMKEILEAHRGPFTGEGHVGLYEILTTSWHAQLAI</span><span class="topo-membrane">NLALF</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">GSLSIIVAHHM</span><span class="topo-inside">YAMPPYPYLATDYGTQLS</span><span class="topo-membrane">LFTHHTWIGGFCIVGAG</span><span class="topo-outside">AHAAIFMVRDYDPTNNYNNLLDRVIRHRDAIISH</span><span class="topo-membrane">LNWVCIFLGFHSFGLYIH</span><span class="topo-inside">NDTMSALGRPQDMFSDTAIQLQ</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-inside">PVFAQWIQNTHFLAPQLTAPNALAATSLTWGGDLVAVGGKVAMMPISLGTSDF</span><span class="topo-membrane">MVHHIHAFTIHVTVLIL</span><span class="topo-outside">LKGVLFARSSRLIPDKANLGFRFPCDGPGRGGTCQVSAWDHV</span><span class="topo-membrane">FLGLFWMY</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-membrane">NSLSIVIFHF</span><span class="topo-inside">SWKMQSDVWGTVT</span><span class="topo-unknown">AS</span><span class="topo-inside">GVSHITGGNFAQSANTINGWLRDFLWAQSSQVIQSYGSALSAYGL</span><span class="topo-membrane">IFLGAHFVWAFSLMFLFS</span><span class="topo-outside">GRGYWQELIESIVWAHNKLKVAPAIQPRALSI</span></span>
+<span class="topo-ruler">       730       740       750 </span>
 <span class="topo-line"><span class="topo-outside">TQGRA</span><span class="topo-membrane">VGVAHYLLGGIATTWS</span><span class="topo-inside">FFLARIISVG</span></span>
+<details class="topo-details"><summary>Topology coordinates (26 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3001,6 +3069,7 @@ The photosystem I–light-harvesting complex I (PSI-LHCI) supercomplex from the 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3016,19 +3085,21 @@ The photosystem I–light-harvesting complex I (PSI-LHCI) supercomplex from the 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MATHHHHHHHHHHHHHHHHHHH</span><span class="topo-outside">HKLFPKFSQGLAQDPTTRRIWYGLAMAHDFESHDGMTE</span></span>
-<span class="topo-line"><span class="topo-outside">ENLYQKIFA</span><span class="topo-membrane">SHFGQLSIIFLWTSGN</span><span class="topo-inside">LFHVAWQGNFEQWVTDPVHIRPIAHAIWDPHFGQP</span></span>
-<span class="topo-line"><span class="topo-inside">AVEAFTRGGASGPVNISTSGVYQWWYTIGMRTNQDLYVG</span><span class="topo-membrane">SVFLALVSAIFLFAGWL</span><span class="topo-outside">HLQP</span></span>
-<span class="topo-line"><span class="topo-outside">NFQPSLSWFKDAESR</span><span class="topo-membrane">LNHHLSGLFGVSSLAWTG</span><span class="topo-inside">HLVHVAIPESRGQHVGWDNFLSVLPHP</span></span>
-<span class="topo-line"><span class="topo-inside">QGLTPFFTGNWAAYAQSPDTASHVFGTAQGSGQAILTFLGGFHPQTQSLWLTDMAHH</span><span class="topo-membrane">HLA</span></span>
-<span class="topo-line"><span class="topo-membrane">IAVIFIVAGHMY</span><span class="topo-outside">RTNFGIGHRMQAILEAHTPPSGSLGAGHKGLFDTVNNSLHFQL</span><span class="topo-membrane">GLALA</span></span>
-<span class="topo-line"><span class="topo-membrane">SVGTITSLVAQH</span><span class="topo-inside">MYSLPPYAFQAIDFTTQAAL</span><span class="topo-membrane">YTHHQYIAGFIMCGAF</span><span class="topo-outside">AHGAIFFIRDYD</span></span>
-<span class="topo-line"><span class="topo-outside">PEQNKGNVLARMLDHKEALISH</span><span class="topo-membrane">LSWVSLFLGFHTLGLYVHNDV</span><span class="topo-inside">MQAFGTPEKQILIEPVF</span></span>
-<span class="topo-line"><span class="topo-inside">AQWIQAAHGKALYGFDFLLSSKTSAAFANGQSLWLPGWLDAINNNQNSLFLTIGPGDF</span><span class="topo-membrane">LV</span></span>
-<span class="topo-line"><span class="topo-membrane">HHAIALGLHTTTLIL</span><span class="topo-outside">VKGALDARGSKLMPDKKDFGYSFPCDGPGRGGTCDISAYDAF</span><span class="topo-membrane">YLA</span></span>
-<span class="topo-line"><span class="topo-membrane">VFWMLNTIGWVTFY</span><span class="topo-inside">WHWKHLTLWQGNVAQFDESSTYLMGWLRDYLWLNSSQLINGYNPFG</span></span>
-<span class="topo-line"><span class="topo-inside">MNSLSVWAWT</span><span class="topo-membrane">FLFGHLIYATGFMFLIS</span><span class="topo-outside">WRGYWQELIETLVWAHEKTPLANLVYWKDKPVA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MATHHHHHHHHHHHHHHHHHHH</span><span class="topo-outside">HKLFPKFSQGLAQDPTTRRIWYGLAMAHDFESHDGMTEENLYQKIFA</span><span class="topo-membrane">SHFGQLSIIFLWTSGN</span><span class="topo-inside">LFHVAWQGNFEQWVTDPVHIRPIAHAIWDPHFGQP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">AVEAFTRGGASGPVNISTSGVYQWWYTIGMRTNQDLYVG</span><span class="topo-membrane">SVFLALVSAIFLFAGWL</span><span class="topo-outside">HLQPNFQPSLSWFKDAESR</span><span class="topo-membrane">LNHHLSGLFGVSSLAWTG</span><span class="topo-inside">HLVHVAIPESRGQHVGWDNFLSVLPHP</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">QGLTPFFTGNWAAYAQSPDTASHVFGTAQGSGQAILTFLGGFHPQTQSLWLTDMAHH</span><span class="topo-membrane">HLAIAVIFIVAGHMY</span><span class="topo-outside">RTNFGIGHRMQAILEAHTPPSGSLGAGHKGLFDTVNNSLHFQL</span><span class="topo-membrane">GLALA</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">SVGTITSLVAQH</span><span class="topo-inside">MYSLPPYAFQAIDFTTQAAL</span><span class="topo-membrane">YTHHQYIAGFIMCGAF</span><span class="topo-outside">AHGAIFFIRDYDPEQNKGNVLARMLDHKEALISH</span><span class="topo-membrane">LSWVSLFLGFHTLGLYVHNDV</span><span class="topo-inside">MQAFGTPEKQILIEPVF</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-inside">AQWIQAAHGKALYGFDFLLSSKTSAAFANGQSLWLPGWLDAINNNQNSLFLTIGPGDF</span><span class="topo-membrane">LVHHAIALGLHTTTLIL</span><span class="topo-outside">VKGALDARGSKLMPDKKDFGYSFPCDGPGRGGTCDISAYDAF</span><span class="topo-membrane">YLA</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-membrane">VFWMLNTIGWVTFY</span><span class="topo-inside">WHWKHLTLWQGNVAQFDESSTYLMGWLRDYLWLNSSQLINGYNPFGMNSLSVWAWT</span><span class="topo-membrane">FLFGHLIYATGFMFLIS</span><span class="topo-outside">WRGYWQELIETLVWAHEKTPLANLVYWKDKPVA</span></span>
+<span class="topo-ruler">       730       740       750     </span>
 <span class="topo-line"><span class="topo-outside">LSIVQAR</span><span class="topo-membrane">LVGLAHFSVGYIFTYA</span><span class="topo-inside">AFLIASTSGRF</span><span class="topo-unknown">G</span></span>
+<details class="topo-details"><summary>Topology coordinates (25 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3215,6 +3286,7 @@ The photosystem I–light-harvesting complex I (PSI-LHCI) supercomplex from the 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3230,8 +3302,9 @@ The photosystem I–light-harvesting complex I (PSI-LHCI) supercomplex from the 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">AHIVKIYDTCIGCTQCVRACPLDVLEMVPWDGCKASQMASAPRTEDCVGCKRCETACPT</span></span>
-<span class="topo-line"><span class="topo-outside">DFLSVRVYLGSESTRSMGLSY</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80 </span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">AHIVKIYDTCIGCTQCVRACPLDVLEMVPWDGCKASQMASAPRTEDCVGCKRCETACPTDFLSVRVYLGSESTRSMGLSY</span></span>
+<details class="topo-details"><summary>Topology coordinates (2 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3257,6 +3330,7 @@ The photosystem I–light-harvesting complex I (PSI-LHCI) supercomplex from the 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3272,9 +3346,11 @@ The photosystem I–light-harvesting complex I (PSI-LHCI) supercomplex from the 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">EAEAAPAAAKKAAEKPA</span><span class="topo-outside">WTVPTLNPDTPSPIFGGSTGGLLRKAQTEEFYVITWEAKKEQI</span></span>
-<span class="topo-line"><span class="topo-outside">FEMPTGGAAIMRQGPNLLKFGKKEQCLALTTQLRNKFKLTPCFYRVFPDGKVQYLHPADG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">EAEAAPAAAKKAAEKPA</span><span class="topo-outside">WTVPTLNPDTPSPIFGGSTGGLLRKAQTEEFYVITWEAKKEQIFEMPTGGAAIMRQGPNLLKFGKKEQCLALTTQLRNKFKLTPCFYRVFPDGKVQYLHPADG</span></span>
+<span class="topo-ruler">       130       140       150       160 </span>
 <span class="topo-line"><span class="topo-outside">VYPEKVNAGRVGANQNMRRIGQNVNPIKVKFSGRMMSPAEI</span></span>
+<details class="topo-details"><summary>Topology coordinates (2 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3300,6 +3376,7 @@ The photosystem I–light-harvesting complex I (PSI-LHCI) supercomplex from the 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3315,8 +3392,9 @@ The photosystem I–light-harvesting complex I (PSI-LHCI) supercomplex from the 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">EEVKAAPKKEV</span><span class="topo-outside">GPKRGSLVKILRPESYWFNQVGKVVSVDQSGVRYPVVVRFENQNYAGVT</span></span>
-<span class="topo-line"><span class="topo-outside">TNNYALDEVVAA</span><span class="topo-unknown">K</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70   </span>
+<span class="topo-line"><span class="topo-unknown">EEVKAAPKKEV</span><span class="topo-outside">GPKRGSLVKILRPESYWFNQVGKVVSVDQSGVRYPVVVRFENQNYAGVTTNNYALDEVVAA</span><span class="topo-unknown">K</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3349,6 +3427,7 @@ The photosystem I–light-harvesting complex I (PSI-LHCI) supercomplex from the 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3364,9 +3443,11 @@ The photosystem I–light-harvesting complex I (PSI-LHCI) supercomplex from the 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">DIAGLTPCSESKAYAKLEKKELKTLEKRLKQYEADSAPAVALKATMERTKARFANYAKAG</span></span>
-<span class="topo-line"><span class="topo-inside">LLCGNDGLPHLIADPGLALKYGHA</span><span class="topo-membrane">GEVFIPTFGFLYVAGYIG</span><span class="topo-outside">YVGRQYLIAVKGEAKPTD</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">DIAGLTPCSESKAYAKLEKKELKTLEKRLKQYEADSAPAVALKATMERTKARFANYAKAGLLCGNDGLPHLIADPGLALKYGHA</span><span class="topo-membrane">GEVFIPTFGFLYVAGYIG</span><span class="topo-outside">YVGRQYLIAVKGEAKPTD</span></span>
+<span class="topo-ruler">       130       140       150       160     </span>
 <span class="topo-line"><span class="topo-outside">KEIIIDVPLATKLAWQGAGWPLAAVQELQRGTLLEKEENITVSPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3399,6 +3480,7 @@ The photosystem I–light-harvesting complex I (PSI-LHCI) supercomplex from the 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3414,8 +3496,9 @@ The photosystem I–light-harvesting complex I (PSI-LHCI) supercomplex from the 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">A</span><span class="topo-inside">LDP</span><span class="topo-membrane">QIVISGSTAAFLAIGRFVF</span><span class="topo-outside">LGYQRREAN</span><span class="topo-unknown">FDSTVGPKTTGATYFDDLQKNST</span><span class="topo-outside">IFATN</span></span>
-<span class="topo-line"><span class="topo-outside">DPAGFNI</span><span class="topo-membrane">IDVAGWGALGHAVGFAVL</span><span class="topo-inside">AINSLQG</span><span class="topo-unknown">AN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90    </span>
+<span class="topo-line"><span class="topo-unknown">A</span><span class="topo-inside">LDP</span><span class="topo-membrane">QIVISGSTAAFLAIGRFVF</span><span class="topo-outside">LGYQRREAN</span><span class="topo-unknown">FDSTVGPKTTGATYFDDLQKNST</span><span class="topo-outside">IFATNDPAGFNI</span><span class="topo-membrane">IDVAGWGALGHAVGFAVL</span><span class="topo-inside">AINSLQG</span><span class="topo-unknown">AN</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3490,6 +3573,7 @@ The photosystem I–light-harvesting complex I (PSI-LHCI) supercomplex from the 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3505,8 +3589,9 @@ The photosystem I–light-harvesting complex I (PSI-LHCI) supercomplex from the 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MALRAVSAKSAVRPTVARASVKPVAALKPAQKMALAGAASVALLAASSSSAEASQVIATV</span></span>
-<span class="topo-line"><span class="topo-unknown">ASAAQGY</span><span class="topo-inside">PFVPPSWAPSV</span><span class="topo-membrane">FVPLTGLVLPAIAMATLF</span><span class="topo-outside">VYIEKEAP</span><span class="topo-unknown">SS</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100      </span>
+<span class="topo-line"><span class="topo-unknown">MALRAVSAKSAVRPTVARASVKPVAALKPAQKMALAGAASVALLAASSSSAEASQVIATVASAAQGY</span><span class="topo-inside">PFVPPSWAPSV</span><span class="topo-membrane">FVPLTGLVLPAIAMATLF</span><span class="topo-outside">VYIEKEAP</span><span class="topo-unknown">SS</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3553,6 +3638,7 @@ The photosystem I–light-harvesting complex I (PSI-LHCI) supercomplex from the 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3568,7 +3654,9 @@ The photosystem I–light-harvesting complex I (PSI-LHCI) supercomplex from the 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40 </span>
 <span class="topo-line"><span class="topo-outside">MKDFTTYLSTAPV</span><span class="topo-membrane">IATIWFTFTAGLLIEINRYF</span><span class="topo-inside">PDPLVF</span><span class="topo-unknown">SF</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3608,6 +3696,7 @@ The photosystem I–light-harvesting complex I (PSI-LHCI) supercomplex from the 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3623,8 +3712,9 @@ The photosystem I–light-harvesting complex I (PSI-LHCI) supercomplex from the 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">DG</span><span class="topo-inside">F</span><span class="topo-membrane">IGSSTNLIMVASTTATLA</span><span class="topo-outside">A</span><span class="topo-unknown">ARFGLAPTVKKNTTAGLKLVDSKNSAGVISNDPAGF</span><span class="topo-outside">TI</span></span>
-<span class="topo-line"><span class="topo-outside">VDVL</span><span class="topo-membrane">AMGAAGHGLGVGIVLGLK</span><span class="topo-inside">G</span><span class="topo-unknown">IGAL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80       </span>
+<span class="topo-line"><span class="topo-unknown">DG</span><span class="topo-inside">F</span><span class="topo-membrane">IGSSTNLIMVASTTATLA</span><span class="topo-outside">A</span><span class="topo-unknown">ARFGLAPTVKKNTTAGLKLVDSKNSAGVISNDPAGF</span><span class="topo-outside">TIVDVL</span><span class="topo-membrane">AMGAAGHGLGVGIVLGLK</span><span class="topo-inside">G</span><span class="topo-unknown">IGAL</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3699,6 +3789,7 @@ The photosystem I–light-harvesting complex I (PSI-LHCI) supercomplex from the 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3714,9 +3805,11 @@ The photosystem I–light-harvesting complex I (PSI-LHCI) supercomplex from the 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">QVISPVNGDPFV</span><span class="topo-outside">GMLETPVTSAPIVATYLSNLPAYRTGVAPV</span><span class="topo-membrane">LRGVEIGLAHGFLLAGPF</span></span>
-<span class="topo-line"><span class="topo-membrane">I</span><span class="topo-inside">KLGPLRNVPETAEIAG</span><span class="topo-membrane">SLSAAGLVLILALCLSI</span><span class="topo-outside">YGSAQFQ</span><span class="topo-unknown">STPSIGVKTLSGRSVARD</span><span class="topo-outside">P</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">QVISPVNGDPFV</span><span class="topo-outside">GMLETPVTSAPIVATYLSNLPAYRTGVAPV</span><span class="topo-membrane">LRGVEIGLAHGFLLAGPFI</span><span class="topo-inside">KLGPLRNVPETAEIAG</span><span class="topo-membrane">SLSAAGLVLILALCLSI</span><span class="topo-outside">YGSAQFQ</span><span class="topo-unknown">STPSIGVKTLSGRSVARD</span><span class="topo-outside">P</span></span>
+<span class="topo-ruler">       130       140       150      </span>
 <span class="topo-line"><span class="topo-outside">LFSADGWSEF</span><span class="topo-membrane">AAGFLVGGEAGVAWAYVC</span><span class="topo-unknown">TQILPYYS</span></span>
+<details class="topo-details"><summary>Topology coordinates (10 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3798,6 +3891,7 @@ The photosystem I–light-harvesting complex I (PSI-LHCI) supercomplex from the 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3813,10 +3907,11 @@ The photosystem I–light-harvesting complex I (PSI-LHCI) supercomplex from the 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">KAGNWLPGSDAPAWLPDDLPGNYGFDPLSLGKEPASLKRFTES</span><span class="topo-membrane">EVIHGRWAMLGVAGSLA</span></span>
-<span class="topo-line"><span class="topo-membrane">VELL</span><span class="topo-inside">GYGNWYDAPLWAVNGGKATWFGIEVPFDL</span><span class="topo-membrane">NALLAFEFVAMAAAEG</span><span class="topo-outside">QRGDAGGVVYP</span></span>
-<span class="topo-line"><span class="topo-outside">GGAFDPLGFAKDSSKSGELKLKE</span><span class="topo-membrane">IKNGRLAMVAFLGFVAQHAA</span><span class="topo-inside">TGKGPIAALGEHLANPW</span></span>
-<span class="topo-line"><span class="topo-inside">GANFATNGISVPFF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">KAGNWLPGSDAPAWLPDDLPGNYGFDPLSLGKEPASLKRFTES</span><span class="topo-membrane">EVIHGRWAMLGVAGSLAVELL</span><span class="topo-inside">GYGNWYDAPLWAVNGGKATWFGIEVPFDL</span><span class="topo-membrane">NALLAFEFVAMAAAEG</span><span class="topo-outside">QRGDAGGVVYP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190    </span>
+<span class="topo-line"><span class="topo-outside">GGAFDPLGFAKDSSKSGELKLKE</span><span class="topo-membrane">IKNGRLAMVAFLGFVAQHAA</span><span class="topo-inside">TGKGPIAALGEHLANPWGANFATNGISVPFF</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3877,6 +3972,7 @@ The photosystem I–light-harvesting complex I (PSI-LHCI) supercomplex from the 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3892,11 +3988,13 @@ The photosystem I–light-harvesting complex I (PSI-LHCI) supercomplex from the 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">EEKSIAKVDRSKDQLYVGASQSSLAYLDGS</span><span class="topo-outside">LPGDFGFDPLGLLDPVNSGGFIEPKWLQYS</span></span>
-<span class="topo-line"><span class="topo-outside">EVIHARW</span><span class="topo-membrane">AMLGAAGCIAPEVLGAA</span><span class="topo-inside">GLIPDATNIKWFESGVIPPAGSYNG</span><span class="topo-membrane">YWADPYTIFFV</span></span>
-<span class="topo-line"><span class="topo-membrane">EIVAMQFA</span><span class="topo-outside">ELRRLQDFRYPGSMGQQYFLGLEAIFKGSGDAAYPGGPFFNLFNLGKTEAAM</span></span>
-<span class="topo-line"><span class="topo-outside">KELKLKEIKNGRL</span><span class="topo-membrane">AMLAMLGYGAQAVMTG</span><span class="topo-inside">KGPFQNLVEHLADPVNNNILTNFA</span><span class="topo-unknown">GRVSGSS</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">EEKSIAKVDRSKDQLYVGASQSSLAYLDGS</span><span class="topo-outside">LPGDFGFDPLGLLDPVNSGGFIEPKWLQYSEVIHARW</span><span class="topo-membrane">AMLGAAGCIAPEVLGAA</span><span class="topo-inside">GLIPDATNIKWFESGVIPPAGSYNG</span><span class="topo-membrane">YWADPYTIFFV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">EIVAMQFA</span><span class="topo-outside">ELRRLQDFRYPGSMGQQYFLGLEAIFKGSGDAAYPGGPFFNLFNLGKTEAAMKELKLKEIKNGRL</span><span class="topo-membrane">AMLAMLGYGAQAVMTG</span><span class="topo-inside">KGPFQNLVEHLADPVNNNILTNFA</span><span class="topo-unknown">GRVSGSS</span></span>
+<span class="topo-ruler">       250       260        </span>
 <span class="topo-line"><span class="topo-unknown">QPWRPHGWWRRRYRSVAALALIRNRSVC</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3971,6 +4069,7 @@ The photosystem I–light-harvesting complex I (PSI-LHCI) supercomplex from the 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3986,10 +4085,11 @@ The photosystem I–light-harvesting complex I (PSI-LHCI) supercomplex from the 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">AA</span><span class="topo-outside">VRPVWFPGNPPPAHLDGSLAGDYGFDPLFLGQEPQTLKWYVQA</span><span class="topo-membrane">ELVHGRFAMLGAAGI</span></span>
-<span class="topo-line"><span class="topo-membrane">ILTSIG</span><span class="topo-inside">AKVGLGFPEWYDAGKVVVEKNNIDF</span><span class="topo-membrane">PTLMVIQFYLMGWAET</span><span class="topo-outside">KRWYDFKNPGSQA</span></span>
-<span class="topo-line"><span class="topo-outside">DGSFLGFTEEFKGLENGYPGGRFFDPMGLSRGDAAKYQEYKQKEVK</span><span class="topo-membrane">NGRLAMIACLGFAA</span></span>
-<span class="topo-line"><span class="topo-membrane">QYAA</span><span class="topo-inside">TGKGPLDNLADHLADPNHVNFATNGVSIPI</span><span class="topo-unknown">A</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">AA</span><span class="topo-outside">VRPVWFPGNPPPAHLDGSLAGDYGFDPLFLGQEPQTLKWYVQA</span><span class="topo-membrane">ELVHGRFAMLGAAGIILTSIG</span><span class="topo-inside">AKVGLGFPEWYDAGKVVVEKNNIDF</span><span class="topo-membrane">PTLMVIQFYLMGWAET</span><span class="topo-outside">KRWYDFKNPGSQA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210     </span>
+<span class="topo-line"><span class="topo-outside">DGSFLGFTEEFKGLENGYPGGRFFDPMGLSRGDAAKYQEYKQKEVK</span><span class="topo-membrane">NGRLAMIACLGFAAQYAA</span><span class="topo-inside">TGKGPLDNLADHLADPNHVNFATNGVSIPI</span><span class="topo-unknown">A</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4064,6 +4164,7 @@ The photosystem I–light-harvesting complex I (PSI-LHCI) supercomplex from the 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4079,10 +4180,11 @@ The photosystem I–light-harvesting complex I (PSI-LHCI) supercomplex from the 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">RQSWLPGSQIPAHLDTPAAQALAGNFGFDPLGLGKDPVALRWYQQA</span><span class="topo-membrane">ELIHCRTAMAGVAG</span></span>
-<span class="topo-line"><span class="topo-membrane">ILIPGLL</span><span class="topo-inside">TKAGALNVPEWYDAGKVAIENSFAPW</span><span class="topo-membrane">GSLLAVQLFLCGFVEAK</span><span class="topo-outside">RWQDIRKPGS</span></span>
-<span class="topo-line"><span class="topo-outside">QGEPGSFLGFEASLKGTSELGYPGGPFDPLGLSKEADKWADWKLK</span><span class="topo-membrane">EVKNGRLAMLAFLGF</span></span>
-<span class="topo-line"><span class="topo-membrane">VAQKY</span><span class="topo-inside">ATGAGPVDNLAAHLKDPWHVNYATNGVSLPFL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">RQSWLPGSQIPAHLDTPAAQALAGNFGFDPLGLGKDPVALRWYQQA</span><span class="topo-membrane">ELIHCRTAMAGVAGILIPGLL</span><span class="topo-inside">TKAGALNVPEWYDAGKVAIENSFAPW</span><span class="topo-membrane">GSLLAVQLFLCGFVEAK</span><span class="topo-outside">RWQDIRKPGS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       </span>
+<span class="topo-line"><span class="topo-outside">QGEPGSFLGFEASLKGTSELGYPGGPFDPLGLSKEADKWADWKLK</span><span class="topo-membrane">EVKNGRLAMLAFLGFVAQKY</span><span class="topo-inside">ATGAGPVDNLAAHLKDPWHVNYATNGVSLPFL</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4143,6 +4245,7 @@ The photosystem I–light-harvesting complex I (PSI-LHCI) supercomplex from the 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4158,10 +4261,11 @@ The photosystem I–light-harvesting complex I (PSI-LHCI) supercomplex from the 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">KAGNWLPGSDAPAWLPDDLPGNYGFDPLSLGKEPASLKRFTES</span><span class="topo-membrane">EVIHGRWAMLGVAGSLA</span></span>
-<span class="topo-line"><span class="topo-membrane">V</span><span class="topo-inside">ELLGYGNWYDAPLWAVN</span><span class="topo-unknown">GG</span><span class="topo-inside">KATWFGIEVPFDLN</span><span class="topo-membrane">ALLAFEFVAMAAAEGQR</span><span class="topo-outside">GDAGGVVYP</span></span>
-<span class="topo-line"><span class="topo-outside">GGAFDPLGFAKDSSKSGELKLK</span><span class="topo-membrane">EIKNGRLAMVAFLGFVAQHA</span><span class="topo-inside">ATGKGPIAALGEHLANPW</span></span>
-<span class="topo-line"><span class="topo-inside">GANFATNGISVPFF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">KAGNWLPGSDAPAWLPDDLPGNYGFDPLSLGKEPASLKRFTES</span><span class="topo-membrane">EVIHGRWAMLGVAGSLAV</span><span class="topo-inside">ELLGYGNWYDAPLWAVN</span><span class="topo-unknown">GG</span><span class="topo-inside">KATWFGIEVPFDLN</span><span class="topo-membrane">ALLAFEFVAMAAAEGQR</span><span class="topo-outside">GDAGGVVYP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190    </span>
+<span class="topo-line"><span class="topo-outside">GGAFDPLGFAKDSSKSGELKLK</span><span class="topo-membrane">EIKNGRLAMVAFLGFVAQHA</span><span class="topo-inside">ATGKGPIAALGEHLANPWGANFATNGISVPFF</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4236,6 +4340,7 @@ The photosystem I–light-harvesting complex I (PSI-LHCI) supercomplex from the 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4251,10 +4356,11 @@ The photosystem I–light-harvesting complex I (PSI-LHCI) supercomplex from the 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">SAVPENVKEAREWIDAWKSKSGGAKRDAA</span><span class="topo-outside">LPSWMPGADLPGYLNGTLPGDFGFDPLYLGQ</span></span>
-<span class="topo-line"><span class="topo-outside">DPVKLKWYAQ</span><span class="topo-membrane">AELMNARFAMLAVAGILVP</span><span class="topo-inside">ELLSNIG</span><span class="topo-unknown">FSW</span><span class="topo-inside">PGAGVAWYDAGKFEYFAPAS</span><span class="topo-membrane">S</span></span>
-<span class="topo-line"><span class="topo-membrane">LFGVQMLLFAWVEIRRY</span><span class="topo-outside">QDFVKPGSANQDPIFTNNKLPDGNEPGYPGGIFDPFGWSKGDI</span></span>
-<span class="topo-line"><span class="topo-outside">KSLKLK</span><span class="topo-membrane">EIKNGRLAMLAFAGFIGQ</span><span class="topo-inside">AYTTGTTPLKNLSTHLADPWSTTVWQNDLAR</span><span class="topo-unknown">L</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">SAVPENVKEAREWIDAWKSKSGGAKRDAA</span><span class="topo-outside">LPSWMPGADLPGYLNGTLPGDFGFDPLYLGQDPVKLKWYAQ</span><span class="topo-membrane">AELMNARFAMLAVAGILVP</span><span class="topo-inside">ELLSNIG</span><span class="topo-unknown">FSW</span><span class="topo-inside">PGAGVAWYDAGKFEYFAPAS</span><span class="topo-membrane">S</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230      </span>
+<span class="topo-line"><span class="topo-membrane">LFGVQMLLFAWVEIRRY</span><span class="topo-outside">QDFVKPGSANQDPIFTNNKLPDGNEPGYPGGIFDPFGWSKGDIKSLKLK</span><span class="topo-membrane">EIKNGRLAMLAFAGFIGQ</span><span class="topo-inside">AYTTGTTPLKNLSTHLADPWSTTVWQNDLAR</span><span class="topo-unknown">L</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4343,6 +4449,7 @@ The photosystem I–light-harvesting complex I (PSI-LHCI) supercomplex from the 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4358,10 +4465,11 @@ The photosystem I–light-harvesting complex I (PSI-LHCI) supercomplex from the 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">AAD</span><span class="topo-outside">RKLWAPGVVAPEYLKGDLAGDYGWDPLGLGADPTALKWYRQSELQH</span><span class="topo-membrane">ARWAMLGVAGV</span></span>
-<span class="topo-line"><span class="topo-membrane">LVQEIVKPDV</span><span class="topo-inside">YFYEAGLPQNLPEPFTNI</span><span class="topo-membrane">NMGGLLAWEFILMHWVE</span><span class="topo-outside">VRRWQDYKNFGSVNE</span></span>
-<span class="topo-line"><span class="topo-outside">DPIFKGNKVPNPEMGYPGGIFDPFGFS</span><span class="topo-unknown">KG</span><span class="topo-outside">NLKELQTKEIKNGRL</span><span class="topo-membrane">AMIAYMAFILQAQATG</span></span>
-<span class="topo-line"><span class="topo-inside">KGPLAALSAHLSNPFGNNILKNIGTCTVPHSVDVQGLTIPLTCLWPGS</span><span class="topo-unknown">Q</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">AAD</span><span class="topo-outside">RKLWAPGVVAPEYLKGDLAGDYGWDPLGLGADPTALKWYRQSELQH</span><span class="topo-membrane">ARWAMLGVAGVLVQEIVKPDV</span><span class="topo-inside">YFYEAGLPQNLPEPFTNI</span><span class="topo-membrane">NMGGLLAWEFILMHWVE</span><span class="topo-outside">VRRWQDYKNFGSVNE</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220         </span>
+<span class="topo-line"><span class="topo-outside">DPIFKGNKVPNPEMGYPGGIFDPFGFS</span><span class="topo-unknown">KG</span><span class="topo-outside">NLKELQTKEIKNGRL</span><span class="topo-membrane">AMIAYMAFILQAQATG</span><span class="topo-inside">KGPLAALSAHLSNPFGNNILKNIGTCTVPHSVDVQGLTIPLTCLWPGS</span><span class="topo-unknown">Q</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4450,6 +4558,7 @@ The photosystem I–light-harvesting complex I (PSI-LHCI) supercomplex from the 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4465,10 +4574,11 @@ The photosystem I–light-harvesting complex I (PSI-LHCI) supercomplex from the 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">ASS</span><span class="topo-outside">RPLWLPGSTPPAHLKGDLPGDFGFDPLGLGANAESLKWFKES</span><span class="topo-membrane">ELVHSRWAMAAVAGI</span></span>
-<span class="topo-line"><span class="topo-membrane">LVQEIV</span><span class="topo-inside">RPDVFWYNAGKEVESPLGPL</span><span class="topo-membrane">GLLAVEFFLMHWVEVRRW</span><span class="topo-outside">QDLRKPGSVDQDPIFS</span></span>
-<span class="topo-line"><span class="topo-outside">QYKLPPHEVGYPGGVFAPFIPGDLAELKVKEIK</span><span class="topo-membrane">NGRLAMLAFVGFVMAAQV</span><span class="topo-inside">TGKGPIAAL</span></span>
-<span class="topo-line"><span class="topo-inside">QEHLADPWGTTIFSKAAVVPGQAVAPPCKIPASVSYKGIEIPTPCFLQGLWP</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">ASS</span><span class="topo-outside">RPLWLPGSTPPAHLKGDLPGDFGFDPLGLGANAESLKWFKES</span><span class="topo-membrane">ELVHSRWAMAAVAGILVQEIV</span><span class="topo-inside">RPDVFWYNAGKEVESPLGPL</span><span class="topo-membrane">GLLAVEFFLMHWVEVRRW</span><span class="topo-outside">QDLRKPGSVDQDPIFS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230  </span>
+<span class="topo-line"><span class="topo-outside">QYKLPPHEVGYPGGVFAPFIPGDLAELKVKEIK</span><span class="topo-membrane">NGRLAMLAFVGFVMAAQV</span><span class="topo-inside">TGKGPIAALQEHLADPWGTTIFSKAAVVPGQAVAPPCKIPASVSYKGIEIPTPCFLQGLWP</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4536,6 +4646,7 @@ The photosystem I–light-harvesting complex I (PSI-LHCI) supercomplex from the 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4551,10 +4662,11 @@ The photosystem I–light-harvesting complex I (PSI-LHCI) supercomplex from the 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">STRPM</span><span class="topo-outside">WYPGATAP</span><span class="topo-unknown">AHLDGSML</span><span class="topo-outside">GDYGFDPLR</span><span class="topo-unknown">LGVNKDN</span><span class="topo-outside">LKWFREA</span><span class="topo-membrane">ELTNGRWAMAAVVGIL</span></span>
-<span class="topo-line"><span class="topo-membrane">F</span><span class="topo-inside">TD</span><span class="topo-unknown">AVGLPKFWTAGAEKYALDNQTLALI</span><span class="topo-inside">E</span><span class="topo-membrane">VAVFAVLEGKRY</span><span class="topo-outside">EI</span><span class="topo-unknown">YKKTGETGFLSFAPFDP</span></span>
-<span class="topo-line"><span class="topo-unknown">MGMKSEEM</span><span class="topo-outside">KLK</span><span class="topo-membrane">ELKNGRLAMLAFLGFCSQ</span><span class="topo-inside">AAVYGKGPIETLQLHLAD</span><span class="topo-unknown">PGHNNIYTSS</span><span class="topo-inside">V</span><span class="topo-membrane">GP</span></span>
-<span class="topo-line"><span class="topo-membrane">ETAVTVAVLCVLPMI</span><span class="topo-outside">IEAT</span><span class="topo-unknown">KTLNPGKESVPYFPWNEPWNKV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">STRPM</span><span class="topo-outside">WYPGATAP</span><span class="topo-unknown">AHLDGSML</span><span class="topo-outside">GDYGFDPLR</span><span class="topo-unknown">LGVNKDN</span><span class="topo-outside">LKWFREA</span><span class="topo-membrane">ELTNGRWAMAAVVGILF</span><span class="topo-inside">TD</span><span class="topo-unknown">AVGLPKFWTAGAEKYALDNQTLALI</span><span class="topo-inside">E</span><span class="topo-membrane">VAVFAVLEGKRY</span><span class="topo-outside">EI</span><span class="topo-unknown">YKKTGETGFLSFAPFDP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220 </span>
+<span class="topo-line"><span class="topo-unknown">MGMKSEEM</span><span class="topo-outside">KLK</span><span class="topo-membrane">ELKNGRLAMLAFLGFCSQ</span><span class="topo-inside">AAVYGKGPIETLQLHLAD</span><span class="topo-unknown">PGHNNIYTSS</span><span class="topo-inside">V</span><span class="topo-membrane">GPETAVTVAVLCVLPMI</span><span class="topo-outside">IEAT</span><span class="topo-unknown">KTLNPGKESVPYFPWNEPWNKV</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4713,6 +4825,7 @@ The photosystem I–light-harvesting complex I (PSI-LHCI) supercomplex from the 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4728,10 +4841,11 @@ The photosystem I–light-harvesting complex I (PSI-LHCI) supercomplex from the 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">ASARP</span><span class="topo-outside">TWLPGLNPPA</span><span class="topo-unknown">HLKGALA</span><span class="topo-outside">GDNGFDPLGLGQDEGRLKWYAEA</span><span class="topo-membrane">EKTNGRWAMMAVAGI</span></span>
-<span class="topo-line"><span class="topo-membrane">LGQ</span><span class="topo-inside">ELL</span><span class="topo-unknown">GVT</span><span class="topo-inside">PAWWEAGAKEYDIPAQA</span><span class="topo-membrane">LTPIEFIVMGFLEIKR</span><span class="topo-outside">YQGF</span><span class="topo-unknown">KQTGTSGFINSFPF</span></span>
-<span class="topo-line"><span class="topo-unknown">DPAGM</span><span class="topo-outside">NSPSMATK</span><span class="topo-membrane">EVKNGRLAMVAFIGFCVQ</span><span class="topo-inside">ALATRTQPIEGLTAHLADPFGKNITYYLT</span></span>
-<span class="topo-line"><span class="topo-inside">HLPETL</span><span class="topo-unknown">GSA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">ASARP</span><span class="topo-outside">TWLPGLNPPA</span><span class="topo-unknown">HLKGALA</span><span class="topo-outside">GDNGFDPLGLGQDEGRLKWYAEA</span><span class="topo-membrane">EKTNGRWAMMAVAGILGQ</span><span class="topo-inside">ELL</span><span class="topo-unknown">GVT</span><span class="topo-inside">PAWWEAGAKEYDIPAQA</span><span class="topo-membrane">LTPIEFIVMGFLEIKR</span><span class="topo-outside">YQGF</span><span class="topo-unknown">KQTGTSGFINSFPF</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180         </span>
+<span class="topo-line"><span class="topo-unknown">DPAGM</span><span class="topo-outside">NSPSMATK</span><span class="topo-membrane">EVKNGRLAMVAFIGFCVQ</span><span class="topo-inside">ALATRTQPIEGLTAHLADPFGKNITYYLTHLPETL</span><span class="topo-unknown">GSA</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4848,6 +4962,7 @@ The photosystem I–light-harvesting complex I (PSI-LHCI) supercomplex from the 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

@@ -148,14 +148,15 @@ bcMalT is a [Maltose](/xray-mp-wiki/reagents/additives/maltose) transporter from
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">ITSFD</span><span class="topo-inside">FWQKF</span><span class="topo-membrane">GKALLVVVAVMPAAGLMISIG</span><span class="topo-outside">KLIGMSAGDINAVHTIARV</span><span class="topo-membrane">MEDIGWAIIT</span></span>
-<span class="topo-line"><span class="topo-membrane">NLHILFAVAIGGSW</span><span class="topo-inside">AKDRA</span><span class="topo-membrane">GGAFAALLAFVLTNRIT</span><span class="topo-outside">GAIFGVNAEMLADSKAKVSSVLAG</span></span>
-<span class="topo-line"><span class="topo-outside">DLIVKDYFTSVLGAPALNM</span><span class="topo-membrane">GVFVGIITGFLGATLY</span><span class="topo-inside">NKYYNYNKLPQALAFFNGKR</span><span class="topo-membrane">FVPFV</span></span>
-<span class="topo-line"><span class="topo-membrane">VIVWSTVTAIVLSLLW</span><span class="topo-outside">PFIQSGLNEFGRWIAASKDSAPIVAP</span><span class="topo-unknown">FVYGTLERLLLPFGLHHM</span></span>
-<span class="topo-line"><span class="topo-unknown">LT</span><span class="topo-outside">IPMNYTELGGTYTMLTGSKVGQVVAGQDPLWLAWITDLNNLLANGDTKAYNDLLNNVV</span></span>
-<span class="topo-line"><span class="topo-outside">PARFK</span><span class="topo-membrane">AGQVIGSTAALMGIA</span><span class="topo-inside">FAMFRNVDKEKRAKYKPMFL</span><span class="topo-unknown">SAALAVFLTGVTEPIEFMFM</span></span>
-<span class="topo-line"><span class="topo-unknown">F</span><span class="topo-inside">IAP</span><span class="topo-membrane">VLYVVYAITTGLAFALA</span><span class="topo-outside">DLINLRVHAFGFIELITRTPMMVNAGLTRDL</span><span class="topo-membrane">INFVIVSL</span></span>
-<span class="topo-line"><span class="topo-membrane">VFFGLNFTLF</span><span class="topo-inside">NFLIKKFNLPTPGRAGNY</span><span class="topo-unknown">IDNEDEASEGTGNVQDGSLATK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">ITSFD</span><span class="topo-inside">FWQKF</span><span class="topo-membrane">GKALLVVVAVMPAAGLMISIG</span><span class="topo-outside">KLIGMSAGDINAVHTIARV</span><span class="topo-membrane">MEDIGWAIITNLHILFAVAIGGSW</span><span class="topo-inside">AKDRA</span><span class="topo-membrane">GGAFAALLAFVLTNRIT</span><span class="topo-outside">GAIFGVNAEMLADSKAKVSSVLAG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">DLIVKDYFTSVLGAPALNM</span><span class="topo-membrane">GVFVGIITGFLGATLY</span><span class="topo-inside">NKYYNYNKLPQALAFFNGKR</span><span class="topo-membrane">FVPFVVIVWSTVTAIVLSLLW</span><span class="topo-outside">PFIQSGLNEFGRWIAASKDSAPIVAP</span><span class="topo-unknown">FVYGTLERLLLPFGLHHM</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-unknown">LT</span><span class="topo-outside">IPMNYTELGGTYTMLTGSKVGQVVAGQDPLWLAWITDLNNLLANGDTKAYNDLLNNVVPARFK</span><span class="topo-membrane">AGQVIGSTAALMGIA</span><span class="topo-inside">FAMFRNVDKEKRAKYKPMFL</span><span class="topo-unknown">SAALAVFLTGVTEPIEFMFM</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470</span>
+<span class="topo-line"><span class="topo-unknown">F</span><span class="topo-inside">IAP</span><span class="topo-membrane">VLYVVYAITTGLAFALA</span><span class="topo-outside">DLINLRVHAFGFIELITRTPMMVNAGLTRDL</span><span class="topo-membrane">INFVIVSLVFFGLNFTLF</span><span class="topo-inside">NFLIKKFNLPTPGRAGNY</span><span class="topo-unknown">IDNEDEASEGTGNVQDGSLATK</span></span>
+<details class="topo-details"><summary>Topology coordinates (23 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -328,6 +329,7 @@ bcMalT is a [Maltose](/xray-mp-wiki/reagents/additives/maltose) transporter from
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -343,14 +345,15 @@ bcMalT is a [Maltose](/xray-mp-wiki/reagents/additives/maltose) transporter from
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">ITSFD</span><span class="topo-inside">FWQKF</span><span class="topo-membrane">GKALLVVVAVMPAAGLMISIG</span><span class="topo-outside">KLIGMSAGDINAVHTIARV</span><span class="topo-membrane">MEDIGWAIIT</span></span>
-<span class="topo-line"><span class="topo-membrane">NLHILFAVAIGGSW</span><span class="topo-inside">AKDRA</span><span class="topo-membrane">GGAFAALLAFVLTNRIT</span><span class="topo-outside">GAIFGVNAEMLADSKAKVSSVLAG</span></span>
-<span class="topo-line"><span class="topo-outside">DLIVKDYFTSVLGAPALNM</span><span class="topo-membrane">GVFVGIITGFLGATLY</span><span class="topo-inside">NKYYNYNKLPQALAFFNGKR</span><span class="topo-membrane">FVPFV</span></span>
-<span class="topo-line"><span class="topo-membrane">VIVWSTVTAIVLSLLW</span><span class="topo-outside">PFIQSGLNEFGRWIAASKDSAPIVAP</span><span class="topo-unknown">FVYGTLERLLLPFGLHHM</span></span>
-<span class="topo-line"><span class="topo-unknown">LT</span><span class="topo-outside">IPMNYTELGGTYTMLTGSKVGQVVAGQDPLWLAWITDLNNLLANGDTKAYNDLLNNVV</span></span>
-<span class="topo-line"><span class="topo-outside">PARFK</span><span class="topo-membrane">AGQVIGSTAALMGIA</span><span class="topo-inside">FAMFRNVDKEKRAKYKPMFL</span><span class="topo-unknown">SAALAVFLTGVTEPIEFMFM</span></span>
-<span class="topo-line"><span class="topo-unknown">F</span><span class="topo-inside">IAP</span><span class="topo-membrane">VLYVVYAITTGLAFALA</span><span class="topo-outside">DLINLRVHAFGFIELITRTPMMVNAGLTRDL</span><span class="topo-membrane">INFVIVSL</span></span>
-<span class="topo-line"><span class="topo-membrane">VFFGLNFTLF</span><span class="topo-inside">NFLIKKFNLPTPGRAGNY</span><span class="topo-unknown">IDNEDEASEGTGNVQDGSLATK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">ITSFD</span><span class="topo-inside">FWQKF</span><span class="topo-membrane">GKALLVVVAVMPAAGLMISIG</span><span class="topo-outside">KLIGMSAGDINAVHTIARV</span><span class="topo-membrane">MEDIGWAIITNLHILFAVAIGGSW</span><span class="topo-inside">AKDRA</span><span class="topo-membrane">GGAFAALLAFVLTNRIT</span><span class="topo-outside">GAIFGVNAEMLADSKAKVSSVLAG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">DLIVKDYFTSVLGAPALNM</span><span class="topo-membrane">GVFVGIITGFLGATLY</span><span class="topo-inside">NKYYNYNKLPQALAFFNGKR</span><span class="topo-membrane">FVPFVVIVWSTVTAIVLSLLW</span><span class="topo-outside">PFIQSGLNEFGRWIAASKDSAPIVAP</span><span class="topo-unknown">FVYGTLERLLLPFGLHHM</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-unknown">LT</span><span class="topo-outside">IPMNYTELGGTYTMLTGSKVGQVVAGQDPLWLAWITDLNNLLANGDTKAYNDLLNNVVPARFK</span><span class="topo-membrane">AGQVIGSTAALMGIA</span><span class="topo-inside">FAMFRNVDKEKRAKYKPMFL</span><span class="topo-unknown">SAALAVFLTGVTEPIEFMFM</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470</span>
+<span class="topo-line"><span class="topo-unknown">F</span><span class="topo-inside">IAP</span><span class="topo-membrane">VLYVVYAITTGLAFALA</span><span class="topo-outside">DLINLRVHAFGFIELITRTPMMVNAGLTRDL</span><span class="topo-membrane">INFVIVSLVFFGLNFTLF</span><span class="topo-inside">NFLIKKFNLPTPGRAGNY</span><span class="topo-unknown">IDNEDEASEGTGNVQDGSLATK</span></span>
+<details class="topo-details"><summary>Topology coordinates (23 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -523,6 +526,7 @@ bcMalT is a [Maltose](/xray-mp-wiki/reagents/additives/maltose) transporter from
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -571,14 +575,15 @@ bcMalT is a [Maltose](/xray-mp-wiki/reagents/additives/maltose) transporter from
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">ITS</span><span class="topo-membrane">FDFWQKFGKALLVVVAVMPAAGLMISIGKLI</span><span class="topo-inside">GMSAGDINAVHTIARV</span><span class="topo-membrane">MCDIGWAIIT</span></span>
-<span class="topo-line"><span class="topo-membrane">NLHILFAVAIGGSWAKD</span><span class="topo-unknown">R</span><span class="topo-membrane">AGGAFAALLAFVLTNRIT</span><span class="topo-inside">GAIFGVNAEMLADSKAKVSSVLAG</span></span>
-<span class="topo-line"><span class="topo-inside">DLIVKDYFTSVLGAPALNM</span><span class="topo-membrane">GVFVGIITGFLGATLYNKYY</span><span class="topo-outside">NYNKLPQA</span><span class="topo-membrane">LAFFNGKRFVPFV</span></span>
-<span class="topo-line"><span class="topo-membrane">VIVWSTVTAIVLSLLW</span><span class="topo-inside">PFIQSGLNEFGRWIAASKDSA</span><span class="topo-membrane">PIVAPFVYGTLERLLLPF</span><span class="topo-unknown">G</span><span class="topo-membrane">LHHM</span></span>
-<span class="topo-line"><span class="topo-membrane">LTIPMNYTELGG</span><span class="topo-inside">TYTMLTGSKVGQVVAGQDPLWLAWICDLNNLLANGDTKAYNDLLNNVV</span></span>
-<span class="topo-line"><span class="topo-inside">P</span><span class="topo-membrane">ARFKAGQVIGSTAALMGIAFA</span><span class="topo-outside">MFRNVDKEKRAKYKPMFLSAA</span><span class="topo-unknown">LAVFLTGVTEPIE</span><span class="topo-outside">FMFM</span></span>
-<span class="topo-line"><span class="topo-outside">FIAPVL</span><span class="topo-membrane">YVVYAITTGLAFALADLI</span><span class="topo-unknown">NLRVHAFGFIELITRTPMMV</span><span class="topo-inside">NAGLT</span><span class="topo-membrane">RDLINFVIVSL</span></span>
-<span class="topo-line"><span class="topo-membrane">VFFGLNFTLFNF</span><span class="topo-outside">LIKKFNLPTPGRAGNYI</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">ITS</span><span class="topo-membrane">FDFWQKFGKALLVVVAVMPAAGLMISIGKLI</span><span class="topo-inside">GMSAGDINAVHTIARV</span><span class="topo-membrane">MCDIGWAIITNLHILFAVAIGGSWAKD</span><span class="topo-unknown">R</span><span class="topo-membrane">AGGAFAALLAFVLTNRIT</span><span class="topo-inside">GAIFGVNAEMLADSKAKVSSVLAG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">DLIVKDYFTSVLGAPALNM</span><span class="topo-membrane">GVFVGIITGFLGATLYNKYY</span><span class="topo-outside">NYNKLPQA</span><span class="topo-membrane">LAFFNGKRFVPFVVIVWSTVTAIVLSLLW</span><span class="topo-inside">PFIQSGLNEFGRWIAASKDSA</span><span class="topo-membrane">PIVAPFVYGTLERLLLPF</span><span class="topo-unknown">G</span><span class="topo-membrane">LHHM</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">LTIPMNYTELGG</span><span class="topo-inside">TYTMLTGSKVGQVVAGQDPLWLAWICDLNNLLANGDTKAYNDLLNNVVP</span><span class="topo-membrane">ARFKAGQVIGSTAALMGIAFA</span><span class="topo-outside">MFRNVDKEKRAKYKPMFLSAA</span><span class="topo-unknown">LAVFLTGVTEPIE</span><span class="topo-outside">FMFM</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440         </span>
+<span class="topo-line"><span class="topo-outside">FIAPVL</span><span class="topo-membrane">YVVYAITTGLAFALADLI</span><span class="topo-unknown">NLRVHAFGFIELITRTPMMV</span><span class="topo-inside">NAGLT</span><span class="topo-membrane">RDLINFVIVSLVFFGLNFTLFNF</span><span class="topo-outside">LIKKFNLPTPGRAGNYI</span></span>
+<details class="topo-details"><summary>Topology coordinates (22 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -744,6 +749,7 @@ bcMalT is a [Maltose](/xray-mp-wiki/reagents/additives/maltose) transporter from
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -759,14 +765,15 @@ bcMalT is a [Maltose](/xray-mp-wiki/reagents/additives/maltose) transporter from
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">ITS</span><span class="topo-membrane">FDFWQKFGKALLVVVAVMPAAGLMISIGKLI</span><span class="topo-inside">GMSAGDINAVHTIARV</span><span class="topo-membrane">MCDIGWAIIT</span></span>
-<span class="topo-line"><span class="topo-membrane">NLHILFAVAIGGSWAKD</span><span class="topo-unknown">R</span><span class="topo-membrane">AGGAFAALLAFVLTNRIT</span><span class="topo-inside">GAIFGVNAEMLADSKAKVSSVLAG</span></span>
-<span class="topo-line"><span class="topo-inside">DLIVKDYFTSVLGAPALN</span><span class="topo-membrane">MGVFVGIITGFLGATLYNKYY</span><span class="topo-outside">NYNKLPQA</span><span class="topo-membrane">LAFFNGKRFVPFV</span></span>
-<span class="topo-line"><span class="topo-membrane">VIVWSTVTAIVLSLLW</span><span class="topo-inside">PFIQSGLNEFGRWIAASKDSA</span><span class="topo-membrane">PIVAPFVYGTLERLLLPF</span><span class="topo-unknown">G</span><span class="topo-membrane">LHHM</span></span>
-<span class="topo-line"><span class="topo-membrane">LTIPMNYTELGG</span><span class="topo-inside">TYTMLTGSKVGQVVAGQDPLWLAWICDLNNLLANGDTKAYNDLLNNVV</span></span>
-<span class="topo-line"><span class="topo-inside">P</span><span class="topo-membrane">ARFKAGQVIGSTAALMGIAFA</span><span class="topo-outside">MFRNVDKEKRAKYKPMFLSAA</span><span class="topo-unknown">LAVFLTGVTEPIE</span><span class="topo-outside">FMFM</span></span>
-<span class="topo-line"><span class="topo-outside">FIAPVL</span><span class="topo-membrane">YVVYAITTGLAFALADLI</span><span class="topo-unknown">NLRVHAFGFIELITRTPMMV</span><span class="topo-inside">NAGLT</span><span class="topo-membrane">RDLINFVIVSL</span></span>
-<span class="topo-line"><span class="topo-membrane">VFFGLNFTLFNF</span><span class="topo-outside">LIKKFNLPTPGRAGNYI</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">ITS</span><span class="topo-membrane">FDFWQKFGKALLVVVAVMPAAGLMISIGKLI</span><span class="topo-inside">GMSAGDINAVHTIARV</span><span class="topo-membrane">MCDIGWAIITNLHILFAVAIGGSWAKD</span><span class="topo-unknown">R</span><span class="topo-membrane">AGGAFAALLAFVLTNRIT</span><span class="topo-inside">GAIFGVNAEMLADSKAKVSSVLAG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">DLIVKDYFTSVLGAPALN</span><span class="topo-membrane">MGVFVGIITGFLGATLYNKYY</span><span class="topo-outside">NYNKLPQA</span><span class="topo-membrane">LAFFNGKRFVPFVVIVWSTVTAIVLSLLW</span><span class="topo-inside">PFIQSGLNEFGRWIAASKDSA</span><span class="topo-membrane">PIVAPFVYGTLERLLLPF</span><span class="topo-unknown">G</span><span class="topo-membrane">LHHM</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">LTIPMNYTELGG</span><span class="topo-inside">TYTMLTGSKVGQVVAGQDPLWLAWICDLNNLLANGDTKAYNDLLNNVVP</span><span class="topo-membrane">ARFKAGQVIGSTAALMGIAFA</span><span class="topo-outside">MFRNVDKEKRAKYKPMFLSAA</span><span class="topo-unknown">LAVFLTGVTEPIE</span><span class="topo-outside">FMFM</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440         </span>
+<span class="topo-line"><span class="topo-outside">FIAPVL</span><span class="topo-membrane">YVVYAITTGLAFALADLI</span><span class="topo-unknown">NLRVHAFGFIELITRTPMMV</span><span class="topo-inside">NAGLT</span><span class="topo-membrane">RDLINFVIVSLVFFGLNFTLFNF</span><span class="topo-outside">LIKKFNLPTPGRAGNYI</span></span>
+<details class="topo-details"><summary>Topology coordinates (22 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -932,6 +939,7 @@ bcMalT is a [Maltose](/xray-mp-wiki/reagents/additives/maltose) transporter from
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

@@ -126,12 +126,13 @@ Metarhodopsin II is the light-activated conformation of [Bovine Rhodopsin](/xray
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MNGTEGPNFYVPFSNKTGVVRSPFEAPQYYLAEPWQFSM</span><span class="topo-membrane">LAAYMFLLIMLGFPINFLTLY</span></span>
-<span class="topo-line"><span class="topo-membrane">VTVQH</span><span class="topo-outside">KKL</span><span class="topo-membrane">RTPLNYILLNLAVADLFMVFGGFTTTLY</span><span class="topo-inside">TSLHGYFVFGPTGCNL</span><span class="topo-membrane">EGFFATLG</span></span>
-<span class="topo-line"><span class="topo-membrane">GEIALWSLVVLAIERYV</span><span class="topo-outside">VVCKPMSNFRF</span><span class="topo-membrane">GENHAIMGVAFTWVMALACAAPPL</span><span class="topo-inside">VGWSRYIP</span></span>
-<span class="topo-line"><span class="topo-inside">EGMQCSCGIDYYTPHEETNNES</span><span class="topo-membrane">FVIYMFVVHFIIPLIVIFFCYGQLVF</span><span class="topo-outside">TVKEAAAQQQES</span></span>
-<span class="topo-line"><span class="topo-outside">ATTQKAEKE</span><span class="topo-membrane">VTRMVIIMVIAFLICWLPYAGVAFY</span><span class="topo-inside">IFTHQGSDFGPIFMT</span><span class="topo-membrane">IPAFFAKTSAV</span></span>
-<span class="topo-line"><span class="topo-membrane">YNPVIYIMMN</span><span class="topo-outside">KQFRNCMVTTLCCGKN</span><span class="topo-unknown">PLGDDEASTTVSKTETSQVAPA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">MNGTEGPNFYVPFSNKTGVVRSPFEAPQYYLAEPWQFSM</span><span class="topo-membrane">LAAYMFLLIMLGFPINFLTLYVTVQH</span><span class="topo-outside">KKL</span><span class="topo-membrane">RTPLNYILLNLAVADLFMVFGGFTTTLY</span><span class="topo-inside">TSLHGYFVFGPTGCNL</span><span class="topo-membrane">EGFFATLG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GEIALWSLVVLAIERYV</span><span class="topo-outside">VVCKPMSNFRF</span><span class="topo-membrane">GENHAIMGVAFTWVMALACAAPPL</span><span class="topo-inside">VGWSRYIPEGMQCSCGIDYYTPHEETNNES</span><span class="topo-membrane">FVIYMFVVHFIIPLIVIFFCYGQLVF</span><span class="topo-outside">TVKEAAAQQQES</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340        </span>
+<span class="topo-line"><span class="topo-outside">ATTQKAEKE</span><span class="topo-membrane">VTRMVIIMVIAFLICWLPYAGVAFY</span><span class="topo-inside">IFTHQGSDFGPIFMT</span><span class="topo-membrane">IPAFFAKTSAVYNPVIYIMMN</span><span class="topo-outside">KQFRNCMVTTLCCGKN</span><span class="topo-unknown">PLGDDEASTTVSKTETSQVAPA</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -255,6 +256,7 @@ Metarhodopsin II is the light-activated conformation of [Bovine Rhodopsin](/xray
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -270,12 +272,13 @@ Metarhodopsin II is the light-activated conformation of [Bovine Rhodopsin](/xray
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MNGTEGPNFYVPFSNKTGVVRSPFEAPQYYLAEPWQFSM</span><span class="topo-membrane">LAAYMFLLIMLGFPINFLTLY</span></span>
-<span class="topo-line"><span class="topo-membrane">VTVQH</span><span class="topo-outside">KKL</span><span class="topo-membrane">RTPLNYILLNLAVADLFMVFGGFTTTLY</span><span class="topo-inside">TSLHGYFVFGPTGCNL</span><span class="topo-membrane">EGFFATLG</span></span>
-<span class="topo-line"><span class="topo-membrane">GEIALWSLVVLAIERYV</span><span class="topo-outside">VVCKPMSNFRF</span><span class="topo-membrane">GENHAIMGVAFTWVMALACAAPP</span><span class="topo-inside">LVGWSRYIP</span></span>
-<span class="topo-line"><span class="topo-inside">EGMQCSCGIDYYTPHEETNNESF</span><span class="topo-membrane">VIYMFVVHFIIPLIVIFFCYGQLVF</span><span class="topo-outside">TVKEAAAQQQES</span></span>
-<span class="topo-line"><span class="topo-outside">ATTQKAEKE</span><span class="topo-membrane">VTRMVIIMVIAFLICWLPYAGVAF</span><span class="topo-inside">YIFTHQGSDFGPIFMT</span><span class="topo-membrane">IPAFFAKTSAV</span></span>
-<span class="topo-line"><span class="topo-membrane">YNPVIYIMMNK</span><span class="topo-outside">QFRNCMVTTLCCGKN</span><span class="topo-unknown">PLGDDEASTTVSKTETSQVAPA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">MNGTEGPNFYVPFSNKTGVVRSPFEAPQYYLAEPWQFSM</span><span class="topo-membrane">LAAYMFLLIMLGFPINFLTLYVTVQH</span><span class="topo-outside">KKL</span><span class="topo-membrane">RTPLNYILLNLAVADLFMVFGGFTTTLY</span><span class="topo-inside">TSLHGYFVFGPTGCNL</span><span class="topo-membrane">EGFFATLG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GEIALWSLVVLAIERYV</span><span class="topo-outside">VVCKPMSNFRF</span><span class="topo-membrane">GENHAIMGVAFTWVMALACAAPP</span><span class="topo-inside">LVGWSRYIPEGMQCSCGIDYYTPHEETNNESF</span><span class="topo-membrane">VIYMFVVHFIIPLIVIFFCYGQLVF</span><span class="topo-outside">TVKEAAAQQQES</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340        </span>
+<span class="topo-line"><span class="topo-outside">ATTQKAEKE</span><span class="topo-membrane">VTRMVIIMVIAFLICWLPYAGVAF</span><span class="topo-inside">YIFTHQGSDFGPIFMT</span><span class="topo-membrane">IPAFFAKTSAVYNPVIYIMMNK</span><span class="topo-outside">QFRNCMVTTLCCGKN</span><span class="topo-unknown">PLGDDEASTTVSKTETSQVAPA</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -399,6 +402,7 @@ Metarhodopsin II is the light-activated conformation of [Bovine Rhodopsin](/xray
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -446,12 +450,13 @@ Metarhodopsin II is the light-activated conformation of [Bovine Rhodopsin](/xray
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MNGTEGPNFYVPFSNKTGVVRSPFEAPQYYLAEPWQFSM</span><span class="topo-membrane">LAAYMFLLIMLGFPINFLTLY</span></span>
-<span class="topo-line"><span class="topo-membrane">VTVQH</span><span class="topo-outside">KKL</span><span class="topo-membrane">RTPLNYILLNLAVADLFMVFGGFTTTLY</span><span class="topo-inside">TSLHGYFVFGPTGCNL</span><span class="topo-membrane">EGFFATLG</span></span>
-<span class="topo-line"><span class="topo-membrane">GEIALWSLVVLAIERYV</span><span class="topo-outside">VVCKPMSNFRF</span><span class="topo-membrane">GENHAIMGVAFTWVMALACAAPP</span><span class="topo-inside">LVGWSRYIP</span></span>
-<span class="topo-line"><span class="topo-inside">EGMQCSCGIDYYTPHEETNNESF</span><span class="topo-membrane">VIYMFVVHFIIPLIVIFFCYGQLVF</span><span class="topo-outside">TVKEAAAQQQES</span></span>
-<span class="topo-line"><span class="topo-outside">ATTQKAEKE</span><span class="topo-membrane">VTRMVIIMVIAFLICWLPYAGVAF</span><span class="topo-inside">YIFTHQGSDFGPIFMT</span><span class="topo-membrane">IPAFFAKTSAV</span></span>
-<span class="topo-line"><span class="topo-membrane">YNPVIYIMMNK</span><span class="topo-outside">QFRNCMVTTLCCGKN</span><span class="topo-unknown">PLGDDEASTTVSKTETSQVAPA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">MNGTEGPNFYVPFSNKTGVVRSPFEAPQYYLAEPWQFSM</span><span class="topo-membrane">LAAYMFLLIMLGFPINFLTLYVTVQH</span><span class="topo-outside">KKL</span><span class="topo-membrane">RTPLNYILLNLAVADLFMVFGGFTTTLY</span><span class="topo-inside">TSLHGYFVFGPTGCNL</span><span class="topo-membrane">EGFFATLG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GEIALWSLVVLAIERYV</span><span class="topo-outside">VVCKPMSNFRF</span><span class="topo-membrane">GENHAIMGVAFTWVMALACAAPP</span><span class="topo-inside">LVGWSRYIPEGMQCSCGIDYYTPHEETNNESF</span><span class="topo-membrane">VIYMFVVHFIIPLIVIFFCYGQLVF</span><span class="topo-outside">TVKEAAAQQQES</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340        </span>
+<span class="topo-line"><span class="topo-outside">ATTQKAEKE</span><span class="topo-membrane">VTRMVIIMVIAFLICWLPYAGVAF</span><span class="topo-inside">YIFTHQGSDFGPIFMT</span><span class="topo-membrane">IPAFFAKTSAVYNPVIYIMMNK</span><span class="topo-outside">QFRNCMVTTLCCGKN</span><span class="topo-unknown">PLGDDEASTTVSKTETSQVAPA</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -575,6 +580,7 @@ Metarhodopsin II is the light-activated conformation of [Bovine Rhodopsin](/xray
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

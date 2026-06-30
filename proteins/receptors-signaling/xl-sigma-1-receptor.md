@@ -150,10 +150,11 @@ The sigma-1 receptor (S1R) from Xenopus laevis (xlS1R) is a non-opioid transmemb
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">SVDTMA</span><span class="topo-outside">LWLG</span><span class="topo-membrane">LRAVLVVAGLAVLLQLI</span><span class="topo-inside">RGWLSSKSYVFNREEIARLAKEHSGLDYEVAFS</span></span>
-<span class="topo-line"><span class="topo-inside">KIIVELRKKHPGHILQDEDLQWVFVNAGGWMGSMCLLHASLTEYVLLFGTAVDTGGHSGR</span></span>
-<span class="topo-line"><span class="topo-inside">YWAEISDTILSGTFRQWKEGTTKSEIFYPGDTIVHEVGEATSVQWSSGTWMVEYGRGFIP</span></span>
-<span class="topo-line"><span class="topo-inside">STLAFALADTIFSTQDFLTLFYTVKVYSKALLLEASTHLSQ</span><span class="topo-unknown">LGFF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">SVDTMA</span><span class="topo-outside">LWLG</span><span class="topo-membrane">LRAVLVVAGLAVLLQLI</span><span class="topo-inside">RGWLSSKSYVFNREEIARLAKEHSGLDYEVAFSKIIVELRKKHPGHILQDEDLQWVFVNAGGWMGSMCLLHASLTEYVLLFGTAVDTGGHSGR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220     </span>
+<span class="topo-line"><span class="topo-inside">YWAEISDTILSGTFRQWKEGTTKSEIFYPGDTIVHEVGEATSVQWSSGTWMVEYGRGFIPSTLAFALADTIFSTQDFLTLFYTVKVYSKALLLEASTHLSQ</span><span class="topo-unknown">LGFF</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -200,6 +201,7 @@ The sigma-1 receptor (S1R) from Xenopus laevis (xlS1R) is a non-opioid transmemb
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -215,10 +217,11 @@ The sigma-1 receptor (S1R) from Xenopus laevis (xlS1R) is a non-opioid transmemb
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">SVDTMA</span><span class="topo-outside">LWL</span><span class="topo-membrane">GLRAVLVVAGLAVLLQLI</span><span class="topo-inside">RGWLSSKSYVFNREEIARLAKEHSGLDYEVAFS</span></span>
-<span class="topo-line"><span class="topo-inside">KIIVELRKKHPGHILQDEDLQWVFVNAGGWMGSMCLLHASLTEYVLLFGTAVDTGGHSGR</span></span>
-<span class="topo-line"><span class="topo-inside">YWAEISDTILSGTFRQWKEGTTKSEIFYPGDTIVHEVGEATSVQWSSGTWMVEYGRGFIP</span></span>
-<span class="topo-line"><span class="topo-inside">STLAFALADTIFSTQDFLTLFYTVKVYSKALLLEASTHLSQ</span><span class="topo-unknown">LGFF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">SVDTMA</span><span class="topo-outside">LWL</span><span class="topo-membrane">GLRAVLVVAGLAVLLQLI</span><span class="topo-inside">RGWLSSKSYVFNREEIARLAKEHSGLDYEVAFSKIIVELRKKHPGHILQDEDLQWVFVNAGGWMGSMCLLHASLTEYVLLFGTAVDTGGHSGR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220     </span>
+<span class="topo-line"><span class="topo-inside">YWAEISDTILSGTFRQWKEGTTKSEIFYPGDTIVHEVGEATSVQWSSGTWMVEYGRGFIPSTLAFALADTIFSTQDFLTLFYTVKVYSKALLLEASTHLSQ</span><span class="topo-unknown">LGFF</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -265,6 +268,7 @@ The sigma-1 receptor (S1R) from Xenopus laevis (xlS1R) is a non-opioid transmemb
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -280,10 +284,11 @@ The sigma-1 receptor (S1R) from Xenopus laevis (xlS1R) is a non-opioid transmemb
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">SVDTMA</span><span class="topo-outside">LWLG</span><span class="topo-membrane">LRAVLVVAGLAVLLQLIRGW</span><span class="topo-inside">LSSKSYVFNREEIARLAKEHSGLDYEVAFS</span></span>
-<span class="topo-line"><span class="topo-inside">KIIVELRKKHPGHILQDEDLQWVFVNAGGWMGSMCLLHASLTEYVLLFGTAVDTGGHSGR</span></span>
-<span class="topo-line"><span class="topo-inside">YWAEISDTILSGTFRQWKEGTTKSEIFYPGDTIVHEVGEATSVQWSSGTWMVEYGRGFIP</span></span>
-<span class="topo-line"><span class="topo-inside">STLAFALADTIFSTQDFLTLFYTVKVYSKALLLEASTHLSQ</span><span class="topo-unknown">LGFF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">SVDTMA</span><span class="topo-outside">LWLG</span><span class="topo-membrane">LRAVLVVAGLAVLLQLIRGW</span><span class="topo-inside">LSSKSYVFNREEIARLAKEHSGLDYEVAFSKIIVELRKKHPGHILQDEDLQWVFVNAGGWMGSMCLLHASLTEYVLLFGTAVDTGGHSGR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220     </span>
+<span class="topo-line"><span class="topo-inside">YWAEISDTILSGTFRQWKEGTTKSEIFYPGDTIVHEVGEATSVQWSSGTWMVEYGRGFIPSTLAFALADTIFSTQDFLTLFYTVKVYSKALLLEASTHLSQ</span><span class="topo-unknown">LGFF</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -330,6 +335,7 @@ The sigma-1 receptor (S1R) from Xenopus laevis (xlS1R) is a non-opioid transmemb
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -345,10 +351,11 @@ The sigma-1 receptor (S1R) from Xenopus laevis (xlS1R) is a non-opioid transmemb
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">SVDT</span><span class="topo-outside">MALWL</span><span class="topo-membrane">GLRAVLVVAGLAVLLQLIRGW</span><span class="topo-inside">LSSKSYVFNREEIARLAKEHSGLDYEVAFS</span></span>
-<span class="topo-line"><span class="topo-inside">KIIVELRKKHPGHILQDEDLQWVFVNAGGWMGSMCLLHASLTEYVLLFGTAVDTGGHSGR</span></span>
-<span class="topo-line"><span class="topo-inside">YWAEISDTILSGTFRQWKEGTTKSEIFYPGDTIVHEVGEATSVQWSSGTWMVEYGRGFIP</span></span>
-<span class="topo-line"><span class="topo-inside">STLAFALADTIFSTQDFLTLFYTVKVYSKALLLEASTHLSQ</span><span class="topo-unknown">LGFF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">SVDT</span><span class="topo-outside">MALWL</span><span class="topo-membrane">GLRAVLVVAGLAVLLQLIRGW</span><span class="topo-inside">LSSKSYVFNREEIARLAKEHSGLDYEVAFSKIIVELRKKHPGHILQDEDLQWVFVNAGGWMGSMCLLHASLTEYVLLFGTAVDTGGHSGR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220     </span>
+<span class="topo-line"><span class="topo-inside">YWAEISDTILSGTFRQWKEGTTKSEIFYPGDTIVHEVGEATSVQWSSGTWMVEYGRGFIPSTLAFALADTIFSTQDFLTLFYTVKVYSKALLLEASTHLSQ</span><span class="topo-unknown">LGFF</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -395,6 +402,7 @@ The sigma-1 receptor (S1R) from Xenopus laevis (xlS1R) is a non-opioid transmemb
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -410,10 +418,11 @@ The sigma-1 receptor (S1R) from Xenopus laevis (xlS1R) is a non-opioid transmemb
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">SVDTMA</span><span class="topo-inside">LWL</span><span class="topo-membrane">GLRAVLVVAGLAVLLQLI</span><span class="topo-outside">RGWLSSKSYVFNREEIARLAKEHSGLDYEVAFS</span></span>
-<span class="topo-line"><span class="topo-outside">KIIVELRKKHPGHILQDEDLQWVFVNAGGWMGSMCLLHASLTEYVLLFGTAVDTGGHSGR</span></span>
-<span class="topo-line"><span class="topo-outside">YWAEISDTILSGTFRQWKEGTTKSEIFYPGDTIVHEVGEATSVQWSSGTWMVEYGRGFIP</span></span>
-<span class="topo-line"><span class="topo-outside">STLAFALADTIFSTQDFLTLFYTVKVYSKALLLEASTHLSQ</span><span class="topo-unknown">LGFF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">SVDTMA</span><span class="topo-inside">LWL</span><span class="topo-membrane">GLRAVLVVAGLAVLLQLI</span><span class="topo-outside">RGWLSSKSYVFNREEIARLAKEHSGLDYEVAFSKIIVELRKKHPGHILQDEDLQWVFVNAGGWMGSMCLLHASLTEYVLLFGTAVDTGGHSGR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220     </span>
+<span class="topo-line"><span class="topo-outside">YWAEISDTILSGTFRQWKEGTTKSEIFYPGDTIVHEVGEATSVQWSSGTWMVEYGRGFIPSTLAFALADTIFSTQDFLTLFYTVKVYSKALLLEASTHLSQ</span><span class="topo-unknown">LGFF</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -460,6 +469,7 @@ The sigma-1 receptor (S1R) from Xenopus laevis (xlS1R) is a non-opioid transmemb
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -475,10 +485,11 @@ The sigma-1 receptor (S1R) from Xenopus laevis (xlS1R) is a non-opioid transmemb
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">SVDTM</span><span class="topo-inside">ALWL</span><span class="topo-membrane">GLRAVLVVAGLAVLLQLI</span><span class="topo-outside">RGWLSSKSYVFNREEIARLAKEHSGLDYEVAFS</span></span>
-<span class="topo-line"><span class="topo-outside">KIIVELRKKHPGHILQDEDLQWVFVNAGGWMGSMCLLHASLTEYVLLFGTAVDTGGHSGR</span></span>
-<span class="topo-line"><span class="topo-outside">YWAEISDTILSGTFRQWKEGTTKSEIFYPGDTIVHEVGEATSVQWSSGTWMVEYGRGFIP</span></span>
-<span class="topo-line"><span class="topo-outside">STLAFALADTIFSTQDFLTLFYTVKVYSKALLLEASTHLSQ</span><span class="topo-unknown">LGFF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">SVDTM</span><span class="topo-inside">ALWL</span><span class="topo-membrane">GLRAVLVVAGLAVLLQLI</span><span class="topo-outside">RGWLSSKSYVFNREEIARLAKEHSGLDYEVAFSKIIVELRKKHPGHILQDEDLQWVFVNAGGWMGSMCLLHASLTEYVLLFGTAVDTGGHSGR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220     </span>
+<span class="topo-line"><span class="topo-outside">YWAEISDTILSGTFRQWKEGTTKSEIFYPGDTIVHEVGEATSVQWSSGTWMVEYGRGFIPSTLAFALADTIFSTQDFLTLFYTVKVYSKALLLEASTHLSQ</span><span class="topo-unknown">LGFF</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -525,6 +536,7 @@ The sigma-1 receptor (S1R) from Xenopus laevis (xlS1R) is a non-opioid transmemb
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -540,10 +552,11 @@ The sigma-1 receptor (S1R) from Xenopus laevis (xlS1R) is a non-opioid transmemb
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">SVDTMA</span><span class="topo-inside">LWL</span><span class="topo-membrane">GLRAVLVVAGLAVLLQLI</span><span class="topo-outside">RGWLSSKSYVFNREEIARLAKEHSGLDYEVAFS</span></span>
-<span class="topo-line"><span class="topo-outside">KIIVELRKKHPGHILQDEDLQWVFVNAGGWMGSMCLLHASLTEYVLLFGTAVDTGGHSGR</span></span>
-<span class="topo-line"><span class="topo-outside">YWAEISDTILSGTFRQWKEGTTKSEIFYPGDTIVHEVGEATSVQWSSGTWMVEYGRGFIP</span></span>
-<span class="topo-line"><span class="topo-outside">STLAFALADTIFSTQDFLTLFYTVKVYSKALLLEASTHLSQ</span><span class="topo-unknown">LGFF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">SVDTMA</span><span class="topo-inside">LWL</span><span class="topo-membrane">GLRAVLVVAGLAVLLQLI</span><span class="topo-outside">RGWLSSKSYVFNREEIARLAKEHSGLDYEVAFSKIIVELRKKHPGHILQDEDLQWVFVNAGGWMGSMCLLHASLTEYVLLFGTAVDTGGHSGR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220     </span>
+<span class="topo-line"><span class="topo-outside">YWAEISDTILSGTFRQWKEGTTKSEIFYPGDTIVHEVGEATSVQWSSGTWMVEYGRGFIPSTLAFALADTIFSTQDFLTLFYTVKVYSKALLLEASTHLSQ</span><span class="topo-unknown">LGFF</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -590,6 +603,7 @@ The sigma-1 receptor (S1R) from Xenopus laevis (xlS1R) is a non-opioid transmemb
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -605,10 +619,11 @@ The sigma-1 receptor (S1R) from Xenopus laevis (xlS1R) is a non-opioid transmemb
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">SVDTMA</span><span class="topo-membrane">LWLGLRAVLVVAGLAVLLQLIRGW</span><span class="topo-inside">LSSKSYVFNREEIARLAKEHSGLDYEVAFS</span></span>
-<span class="topo-line"><span class="topo-inside">KIIVELRKKHPGHILQDEDLQWVFVNAGGWMGSMCLLHASLTEYVLLFGTAVDTGGHSGR</span></span>
-<span class="topo-line"><span class="topo-inside">YWAEISDTILSGTFRQWKEGTTKSEIFYPGDTIVHEVGEATSVQWSSGTWMVEYGRGFIP</span></span>
-<span class="topo-line"><span class="topo-inside">STLAFALADTIFSTQDFLTLFYTVKVYSKALLLEASTHLSQLG</span><span class="topo-unknown">FF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">SVDTMA</span><span class="topo-membrane">LWLGLRAVLVVAGLAVLLQLIRGW</span><span class="topo-inside">LSSKSYVFNREEIARLAKEHSGLDYEVAFSKIIVELRKKHPGHILQDEDLQWVFVNAGGWMGSMCLLHASLTEYVLLFGTAVDTGGHSGR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220     </span>
+<span class="topo-line"><span class="topo-inside">YWAEISDTILSGTFRQWKEGTTKSEIFYPGDTIVHEVGEATSVQWSSGTWMVEYGRGFIPSTLAFALADTIFSTQDFLTLFYTVKVYSKALLLEASTHLSQLG</span><span class="topo-unknown">FF</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -648,6 +663,7 @@ The sigma-1 receptor (S1R) from Xenopus laevis (xlS1R) is a non-opioid transmemb
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -663,10 +679,11 @@ The sigma-1 receptor (S1R) from Xenopus laevis (xlS1R) is a non-opioid transmemb
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">SVD</span><span class="topo-membrane">TMALWLGLRAVLVVAGLAVLLQLIRGW</span><span class="topo-inside">LSSKSYVFNREEIARLAKEHSGLDYEVAFS</span></span>
-<span class="topo-line"><span class="topo-inside">KIIVELRKKHPGHILQDEDLQWVFVNAGGWMGSMCLLHASLTEYVLLFGTAVDTGGHSGR</span></span>
-<span class="topo-line"><span class="topo-inside">YWAEISDTILSGTFRQWKEGTTKSEIFYPGDTIVHEVGEATSVQWSSGTWMVEYGRGFIP</span></span>
-<span class="topo-line"><span class="topo-inside">STLAFALADTIFSTQDFLTLFYTVKVYSKALLLEASTHLSQLG</span><span class="topo-unknown">FF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">SVD</span><span class="topo-membrane">TMALWLGLRAVLVVAGLAVLLQLIRGW</span><span class="topo-inside">LSSKSYVFNREEIARLAKEHSGLDYEVAFSKIIVELRKKHPGHILQDEDLQWVFVNAGGWMGSMCLLHASLTEYVLLFGTAVDTGGHSGR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220     </span>
+<span class="topo-line"><span class="topo-inside">YWAEISDTILSGTFRQWKEGTTKSEIFYPGDTIVHEVGEATSVQWSSGTWMVEYGRGFIPSTLAFALADTIFSTQDFLTLFYTVKVYSKALLLEASTHLSQLG</span><span class="topo-unknown">FF</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -706,6 +723,7 @@ The sigma-1 receptor (S1R) from Xenopus laevis (xlS1R) is a non-opioid transmemb
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -721,10 +739,11 @@ The sigma-1 receptor (S1R) from Xenopus laevis (xlS1R) is a non-opioid transmemb
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">SVDTM</span><span class="topo-membrane">ALWLGLRAVLVVAGLAVLLQLIRGW</span><span class="topo-inside">LSSKSYVFNREEIARLAKEHSGLDYEVAFS</span></span>
-<span class="topo-line"><span class="topo-inside">KIIVELRKKHPGHILQDEDLQWVFVNAGGWMGSMCLLHASLTEYVLLFGTAVDTGGHSGR</span></span>
-<span class="topo-line"><span class="topo-inside">YWAEISDTILSGTFRQWKEGTTKSEIFYPGDTIVHEVGEATSVQWSSGTWMVEYGRGFIP</span></span>
-<span class="topo-line"><span class="topo-inside">STLAFALADTIFSTQDFLTLFYTVKVYSKALLLEASTHLSQLG</span><span class="topo-unknown">FF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">SVDTM</span><span class="topo-membrane">ALWLGLRAVLVVAGLAVLLQLIRGW</span><span class="topo-inside">LSSKSYVFNREEIARLAKEHSGLDYEVAFSKIIVELRKKHPGHILQDEDLQWVFVNAGGWMGSMCLLHASLTEYVLLFGTAVDTGGHSGR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220     </span>
+<span class="topo-line"><span class="topo-inside">YWAEISDTILSGTFRQWKEGTTKSEIFYPGDTIVHEVGEATSVQWSSGTWMVEYGRGFIPSTLAFALADTIFSTQDFLTLFYTVKVYSKALLLEASTHLSQLG</span><span class="topo-unknown">FF</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -764,6 +783,7 @@ The sigma-1 receptor (S1R) from Xenopus laevis (xlS1R) is a non-opioid transmemb
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -779,10 +799,11 @@ The sigma-1 receptor (S1R) from Xenopus laevis (xlS1R) is a non-opioid transmemb
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">SVDTMALW</span><span class="topo-inside">L</span><span class="topo-membrane">GLRAVLVVAGLAVLLQLI</span><span class="topo-outside">RGWLSSKSYVFNREEIARLAKEHSGLDYEVAFS</span></span>
-<span class="topo-line"><span class="topo-outside">KIIVELRKKHPGHILQDEDLQWVFVNAGGWMGSMCLLHASLTEYVLLFGTAVDTGGHSGR</span></span>
-<span class="topo-line"><span class="topo-outside">YWAEISDTILSGTFRQWKEGTTKSEIFYPGDTIVHEVGEATSVQWSSGTWMVEYGRGFIP</span></span>
-<span class="topo-line"><span class="topo-outside">STLAFALADTIFSTQDFLTLFYTVKVYSKALLLEASTHLSQLG</span><span class="topo-unknown">FF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">SVDTMALW</span><span class="topo-inside">L</span><span class="topo-membrane">GLRAVLVVAGLAVLLQLI</span><span class="topo-outside">RGWLSSKSYVFNREEIARLAKEHSGLDYEVAFSKIIVELRKKHPGHILQDEDLQWVFVNAGGWMGSMCLLHASLTEYVLLFGTAVDTGGHSGR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220     </span>
+<span class="topo-line"><span class="topo-outside">YWAEISDTILSGTFRQWKEGTTKSEIFYPGDTIVHEVGEATSVQWSSGTWMVEYGRGFIPSTLAFALADTIFSTQDFLTLFYTVKVYSKALLLEASTHLSQLG</span><span class="topo-unknown">FF</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -829,6 +850,7 @@ The sigma-1 receptor (S1R) from Xenopus laevis (xlS1R) is a non-opioid transmemb
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -844,10 +866,11 @@ The sigma-1 receptor (S1R) from Xenopus laevis (xlS1R) is a non-opioid transmemb
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">SVDTMALW</span><span class="topo-inside">L</span><span class="topo-membrane">GLRAVLVVAGLAVLLQLI</span><span class="topo-outside">RGWLSSKSYVFNREEIARLAKEHSGLDYEVAFS</span></span>
-<span class="topo-line"><span class="topo-outside">KIIVELRKKHPGHILQDEDLQWVFVNAGGWMGSMCLLHASLTEYVLLFGTAVDTGGHSGR</span></span>
-<span class="topo-line"><span class="topo-outside">YWAEISDTILSGTFRQWKEGTTKSEIFYPGDTIVHEVGEATSVQWSSGTWMVEYGRGFIP</span></span>
-<span class="topo-line"><span class="topo-outside">STLAFALADTIFSTQDFLTLFYTVKVYSKALLLEASTHLSQLG</span><span class="topo-unknown">FF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">SVDTMALW</span><span class="topo-inside">L</span><span class="topo-membrane">GLRAVLVVAGLAVLLQLI</span><span class="topo-outside">RGWLSSKSYVFNREEIARLAKEHSGLDYEVAFSKIIVELRKKHPGHILQDEDLQWVFVNAGGWMGSMCLLHASLTEYVLLFGTAVDTGGHSGR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220     </span>
+<span class="topo-line"><span class="topo-outside">YWAEISDTILSGTFRQWKEGTTKSEIFYPGDTIVHEVGEATSVQWSSGTWMVEYGRGFIPSTLAFALADTIFSTQDFLTLFYTVKVYSKALLLEASTHLSQLG</span><span class="topo-unknown">FF</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -894,6 +917,7 @@ The sigma-1 receptor (S1R) from Xenopus laevis (xlS1R) is a non-opioid transmemb
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -909,10 +933,11 @@ The sigma-1 receptor (S1R) from Xenopus laevis (xlS1R) is a non-opioid transmemb
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">SVDTMAL</span><span class="topo-inside">W</span><span class="topo-membrane">LGLRAVLVVAGLAVLLQLI</span><span class="topo-outside">RGWLSSKSYVFNREEIARLAKEHSGLDYEVAFS</span></span>
-<span class="topo-line"><span class="topo-outside">KIIVELRKKHPGHILQDEDLQWVFVNAGGWMGSMCLLHASLTEYVLLFGTAVDTGGHSGR</span></span>
-<span class="topo-line"><span class="topo-outside">YWAEISDTILSGTFRQWKEGTTKSEIFYPGDTIVHEVGEATSVQWSSGTWMVEYGRGFIP</span></span>
-<span class="topo-line"><span class="topo-outside">STLAFALADTIFSTQDFLTLFYTVKVYSKALLLEASTHLSQLG</span><span class="topo-unknown">FF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">SVDTMAL</span><span class="topo-inside">W</span><span class="topo-membrane">LGLRAVLVVAGLAVLLQLI</span><span class="topo-outside">RGWLSSKSYVFNREEIARLAKEHSGLDYEVAFSKIIVELRKKHPGHILQDEDLQWVFVNAGGWMGSMCLLHASLTEYVLLFGTAVDTGGHSGR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220     </span>
+<span class="topo-line"><span class="topo-outside">YWAEISDTILSGTFRQWKEGTTKSEIFYPGDTIVHEVGEATSVQWSSGTWMVEYGRGFIPSTLAFALADTIFSTQDFLTLFYTVKVYSKALLLEASTHLSQLG</span><span class="topo-unknown">FF</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -959,6 +984,7 @@ The sigma-1 receptor (S1R) from Xenopus laevis (xlS1R) is a non-opioid transmemb
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -974,10 +1000,11 @@ The sigma-1 receptor (S1R) from Xenopus laevis (xlS1R) is a non-opioid transmemb
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">SVDTMALWL</span><span class="topo-outside">G</span><span class="topo-membrane">LRAVLVVAGLAVLLQLI</span><span class="topo-inside">RGWLSSKSYVFNREEIARLAKEHSGLDYEVAFS</span></span>
-<span class="topo-line"><span class="topo-inside">KIIVELRKKHPGHILQDEDLQWVFVNAGGWMGSMCLLHASLTEYVLLFGTAVDTGGHSGR</span></span>
-<span class="topo-line"><span class="topo-inside">YWAEISDTILSGTFRQWKEGTTKSEIFYPGDTIVHEVGEATSVQWSSGTWMVEYGRGFIP</span></span>
-<span class="topo-line"><span class="topo-inside">STLAFALADTIFSTQDFLTLFYTVKVYSKALLLEASTHLSQLG</span><span class="topo-unknown">FF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">SVDTMALWL</span><span class="topo-outside">G</span><span class="topo-membrane">LRAVLVVAGLAVLLQLI</span><span class="topo-inside">RGWLSSKSYVFNREEIARLAKEHSGLDYEVAFSKIIVELRKKHPGHILQDEDLQWVFVNAGGWMGSMCLLHASLTEYVLLFGTAVDTGGHSGR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220     </span>
+<span class="topo-line"><span class="topo-inside">YWAEISDTILSGTFRQWKEGTTKSEIFYPGDTIVHEVGEATSVQWSSGTWMVEYGRGFIPSTLAFALADTIFSTQDFLTLFYTVKVYSKALLLEASTHLSQLG</span><span class="topo-unknown">FF</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1024,6 +1051,7 @@ The sigma-1 receptor (S1R) from Xenopus laevis (xlS1R) is a non-opioid transmemb
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1039,10 +1067,11 @@ The sigma-1 receptor (S1R) from Xenopus laevis (xlS1R) is a non-opioid transmemb
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">SVDTMALWLG</span><span class="topo-outside">L</span><span class="topo-membrane">RAVLVVAGLAVLLQLI</span><span class="topo-inside">RGWLSSKSYVFNREEIARLAKEHSGLDYEVAFS</span></span>
-<span class="topo-line"><span class="topo-inside">KIIVELRKKHPGHILQDEDLQWVFVNAGGWMGSMCLLHASLTEYVLLFGTAVDTGGHSGR</span></span>
-<span class="topo-line"><span class="topo-inside">YWAEISDTILSGTFRQWKEGTTKSEIFYPGDTIVHEVGEATSVQWSSGTWMVEYGRGFIP</span></span>
-<span class="topo-line"><span class="topo-inside">STLAFALADTIFSTQDFLTLFYTVKVYSKALLLEASTHLSQLG</span><span class="topo-unknown">FF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">SVDTMALWLG</span><span class="topo-outside">L</span><span class="topo-membrane">RAVLVVAGLAVLLQLI</span><span class="topo-inside">RGWLSSKSYVFNREEIARLAKEHSGLDYEVAFSKIIVELRKKHPGHILQDEDLQWVFVNAGGWMGSMCLLHASLTEYVLLFGTAVDTGGHSGR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220     </span>
+<span class="topo-line"><span class="topo-inside">YWAEISDTILSGTFRQWKEGTTKSEIFYPGDTIVHEVGEATSVQWSSGTWMVEYGRGFIPSTLAFALADTIFSTQDFLTLFYTVKVYSKALLLEASTHLSQLG</span><span class="topo-unknown">FF</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1089,6 +1118,7 @@ The sigma-1 receptor (S1R) from Xenopus laevis (xlS1R) is a non-opioid transmemb
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1104,10 +1134,11 @@ The sigma-1 receptor (S1R) from Xenopus laevis (xlS1R) is a non-opioid transmemb
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">SVDTMAL</span><span class="topo-outside">WL</span><span class="topo-membrane">GLRAVLVVAGLAVLLQLI</span><span class="topo-inside">RGWLSSKSYVFNREEIARLAKEHSGLDYEVAFS</span></span>
-<span class="topo-line"><span class="topo-inside">KIIVELRKKHPGHILQDEDLQWVFVNAGGWMGSMCLLHASLTEYVLLFGTAVDTGGHSGR</span></span>
-<span class="topo-line"><span class="topo-inside">YWAEISDTILSGTFRQWKEGTTKSEIFYPGDTIVHEVGEATSVQWSSGTWMVEYGRGFIP</span></span>
-<span class="topo-line"><span class="topo-inside">STLAFALADTIFSTQDFLTLFYTVKVYSKALLLEASTHLSQLG</span><span class="topo-unknown">FF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">SVDTMAL</span><span class="topo-outside">WL</span><span class="topo-membrane">GLRAVLVVAGLAVLLQLI</span><span class="topo-inside">RGWLSSKSYVFNREEIARLAKEHSGLDYEVAFSKIIVELRKKHPGHILQDEDLQWVFVNAGGWMGSMCLLHASLTEYVLLFGTAVDTGGHSGR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220     </span>
+<span class="topo-line"><span class="topo-inside">YWAEISDTILSGTFRQWKEGTTKSEIFYPGDTIVHEVGEATSVQWSSGTWMVEYGRGFIPSTLAFALADTIFSTQDFLTLFYTVKVYSKALLLEASTHLSQLG</span><span class="topo-unknown">FF</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1154,6 +1185,7 @@ The sigma-1 receptor (S1R) from Xenopus laevis (xlS1R) is a non-opioid transmemb
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1169,10 +1201,11 @@ The sigma-1 receptor (S1R) from Xenopus laevis (xlS1R) is a non-opioid transmemb
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">SVDTMALW</span><span class="topo-inside">L</span><span class="topo-membrane">GLRAVLVVAGLAVLLQLIRGW</span><span class="topo-outside">LSSKSYVFNREEIARLAKEHSGLDYEVAFS</span></span>
-<span class="topo-line"><span class="topo-outside">KIIVELRKKHPGHILQDEDLQWVFVNAGGWMGSMCLLHASLTEYVLLFGTAVDTGGHSGR</span></span>
-<span class="topo-line"><span class="topo-outside">YWAEISDTILSGTFRQWKEGTTKSEIFYPGDTIVHEVGEATSVQWSSGTWMVEYGRGFIP</span></span>
-<span class="topo-line"><span class="topo-outside">STCAFALADTIFSTQDFLTLFYTVKVCSKALLLEASTHLSQ</span><span class="topo-unknown">LGFF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">SVDTMALW</span><span class="topo-inside">L</span><span class="topo-membrane">GLRAVLVVAGLAVLLQLIRGW</span><span class="topo-outside">LSSKSYVFNREEIARLAKEHSGLDYEVAFSKIIVELRKKHPGHILQDEDLQWVFVNAGGWMGSMCLLHASLTEYVLLFGTAVDTGGHSGR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220     </span>
+<span class="topo-line"><span class="topo-outside">YWAEISDTILSGTFRQWKEGTTKSEIFYPGDTIVHEVGEATSVQWSSGTWMVEYGRGFIPSTCAFALADTIFSTQDFLTLFYTVKVCSKALLLEASTHLSQ</span><span class="topo-unknown">LGFF</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1219,6 +1252,7 @@ The sigma-1 receptor (S1R) from Xenopus laevis (xlS1R) is a non-opioid transmemb
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1234,10 +1268,11 @@ The sigma-1 receptor (S1R) from Xenopus laevis (xlS1R) is a non-opioid transmemb
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">SVDTMAL</span><span class="topo-inside">W</span><span class="topo-membrane">LGLRAVLVVAGLAVLLQLIRGW</span><span class="topo-outside">LSSKSYVFNREEIARLAKEHSGLDYEVAFS</span></span>
-<span class="topo-line"><span class="topo-outside">KIIVELRKKHPGHILQDEDLQWVFVNAGGWMGSMCLLHASLTEYVLLFGTAVDTGGHSGR</span></span>
-<span class="topo-line"><span class="topo-outside">YWAEISDTILSGTFRQWKEGTTKSEIFYPGDTIVHEVGEATSVQWSSGTWMVEYGRGFIP</span></span>
-<span class="topo-line"><span class="topo-outside">STCAFALADTIFSTQDFLTLFYTVKVCSKALLLEASTHLSQ</span><span class="topo-unknown">LGFF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">SVDTMAL</span><span class="topo-inside">W</span><span class="topo-membrane">LGLRAVLVVAGLAVLLQLIRGW</span><span class="topo-outside">LSSKSYVFNREEIARLAKEHSGLDYEVAFSKIIVELRKKHPGHILQDEDLQWVFVNAGGWMGSMCLLHASLTEYVLLFGTAVDTGGHSGR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220     </span>
+<span class="topo-line"><span class="topo-outside">YWAEISDTILSGTFRQWKEGTTKSEIFYPGDTIVHEVGEATSVQWSSGTWMVEYGRGFIPSTCAFALADTIFSTQDFLTLFYTVKVCSKALLLEASTHLSQ</span><span class="topo-unknown">LGFF</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1284,6 +1319,7 @@ The sigma-1 receptor (S1R) from Xenopus laevis (xlS1R) is a non-opioid transmemb
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1299,10 +1335,11 @@ The sigma-1 receptor (S1R) from Xenopus laevis (xlS1R) is a non-opioid transmemb
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">SVDTMALWLGLRAVL</span><span class="topo-inside">V</span><span class="topo-membrane">VAGLAVLLQLIRGW</span><span class="topo-outside">LSSKSYVFNREEIARLAKEHSGLDYEVAFS</span></span>
-<span class="topo-line"><span class="topo-outside">KIIVELRKKHPGHILQDEDLQWVFVNAGGWMGSMCLLHASLTEYVLLFGTAVDTGGHSGR</span></span>
-<span class="topo-line"><span class="topo-outside">YWAEISDTILSGTFRQWKEGTTKSEIFYPGDTIVHEVGEATSVQWSSGTWMVEYGRGFIP</span></span>
-<span class="topo-line"><span class="topo-outside">STCAFALADTIFSTQDFLTLFYTVKVCSKALLLEASTHLSQ</span><span class="topo-unknown">LGFF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">SVDTMALWLGLRAVL</span><span class="topo-inside">V</span><span class="topo-membrane">VAGLAVLLQLIRGW</span><span class="topo-outside">LSSKSYVFNREEIARLAKEHSGLDYEVAFSKIIVELRKKHPGHILQDEDLQWVFVNAGGWMGSMCLLHASLTEYVLLFGTAVDTGGHSGR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220     </span>
+<span class="topo-line"><span class="topo-outside">YWAEISDTILSGTFRQWKEGTTKSEIFYPGDTIVHEVGEATSVQWSSGTWMVEYGRGFIPSTCAFALADTIFSTQDFLTLFYTVKVCSKALLLEASTHLSQ</span><span class="topo-unknown">LGFF</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1349,6 +1386,7 @@ The sigma-1 receptor (S1R) from Xenopus laevis (xlS1R) is a non-opioid transmemb
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1537,10 +1575,11 @@ The sigma-1 receptor (S1R) from Xenopus laevis (xlS1R) is a non-opioid transmemb
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GGG</span><span class="topo-outside">GRS</span><span class="topo-membrane">VDTMALWLGLRAVLVVAGLAVL</span><span class="topo-inside">LQLIRGWLSSKSYVFNREEIARLAKEHSGLDY</span></span>
-<span class="topo-line"><span class="topo-inside">EVAFSKIIVELRKKHPGHILQDEDLQWVFVNAGGWMGSMCLLHASLTEYVLLFGTAVDTG</span></span>
-<span class="topo-line"><span class="topo-inside">GHSGRYWAEISDTILSGTFRQWKEGTTKSEIFYPGDTIVHEVGEATSVQWSSGTWMVEYG</span></span>
-<span class="topo-line"><span class="topo-inside">RGFIPSTLAFALADTIFSTQDFLTLFYTVKVYSKALLLEASTHLSQLG</span><span class="topo-unknown">FFAAA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GGG</span><span class="topo-outside">GRS</span><span class="topo-membrane">VDTMALWLGLRAVLVVAGLAVL</span><span class="topo-inside">LQLIRGWLSSKSYVFNREEIARLAKEHSGLDYEVAFSKIIVELRKKHPGHILQDEDLQWVFVNAGGWMGSMCLLHASLTEYVLLFGTAVDTG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230   </span>
+<span class="topo-line"><span class="topo-inside">GHSGRYWAEISDTILSGTFRQWKEGTTKSEIFYPGDTIVHEVGEATSVQWSSGTWMVEYGRGFIPSTLAFALADTIFSTQDFLTLFYTVKVYSKALLLEASTHLSQLG</span><span class="topo-unknown">FFAAA</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1587,6 +1626,7 @@ The sigma-1 receptor (S1R) from Xenopus laevis (xlS1R) is a non-opioid transmemb
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1602,10 +1642,11 @@ The sigma-1 receptor (S1R) from Xenopus laevis (xlS1R) is a non-opioid transmemb
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GGG</span><span class="topo-outside">GRS</span><span class="topo-membrane">VDTMALWLGLRAVLVVAGLA</span><span class="topo-inside">VLLQLIRGWLSSKSYVFNREEIARLAKEHSGLDY</span></span>
-<span class="topo-line"><span class="topo-inside">EVAFSKIIVELRKKHPGHILQDEDLQWVFVNAGGWMGSMCLLHASLTEYVLLFGTAVDTG</span></span>
-<span class="topo-line"><span class="topo-inside">GHSGRYWAEISDTILSGTFRQWKEGTTKSEIFYPGDTIVHEVGEATSVQWSSGTWMVEYG</span></span>
-<span class="topo-line"><span class="topo-inside">RGFIPSTLAFALADTIFSTQDFLTLFYTVKVYSKALLLEASTHLSQLG</span><span class="topo-unknown">FFAAA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GGG</span><span class="topo-outside">GRS</span><span class="topo-membrane">VDTMALWLGLRAVLVVAGLA</span><span class="topo-inside">VLLQLIRGWLSSKSYVFNREEIARLAKEHSGLDYEVAFSKIIVELRKKHPGHILQDEDLQWVFVNAGGWMGSMCLLHASLTEYVLLFGTAVDTG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230   </span>
+<span class="topo-line"><span class="topo-inside">GHSGRYWAEISDTILSGTFRQWKEGTTKSEIFYPGDTIVHEVGEATSVQWSSGTWMVEYGRGFIPSTLAFALADTIFSTQDFLTLFYTVKVYSKALLLEASTHLSQLG</span><span class="topo-unknown">FFAAA</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1652,6 +1693,7 @@ The sigma-1 receptor (S1R) from Xenopus laevis (xlS1R) is a non-opioid transmemb
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1667,10 +1709,11 @@ The sigma-1 receptor (S1R) from Xenopus laevis (xlS1R) is a non-opioid transmemb
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GGG</span><span class="topo-outside">GRS</span><span class="topo-membrane">VDTMALWLGLRAVLVVAGLAVLL</span><span class="topo-inside">QLIRGWLSSKSYVFNREEIARLAKEHSGLDY</span></span>
-<span class="topo-line"><span class="topo-inside">EVAFSKIIVELRKKHPGHILQDEDLQWVFVNAGGWMGSMCLLHASLTEYVLLFGTAVDTG</span></span>
-<span class="topo-line"><span class="topo-inside">GHSGRYWAEISDTILSGTFRQWKEGTTKSEIFYPGDTIVHEVGEATSVQWSSGTWMVEYG</span></span>
-<span class="topo-line"><span class="topo-inside">RGFIPSTLAFALADTIFSTQDFLTLFYTVKVYSKALLLEASTHLSQLG</span><span class="topo-unknown">FFAAA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GGG</span><span class="topo-outside">GRS</span><span class="topo-membrane">VDTMALWLGLRAVLVVAGLAVLL</span><span class="topo-inside">QLIRGWLSSKSYVFNREEIARLAKEHSGLDYEVAFSKIIVELRKKHPGHILQDEDLQWVFVNAGGWMGSMCLLHASLTEYVLLFGTAVDTG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230   </span>
+<span class="topo-line"><span class="topo-inside">GHSGRYWAEISDTILSGTFRQWKEGTTKSEIFYPGDTIVHEVGEATSVQWSSGTWMVEYGRGFIPSTLAFALADTIFSTQDFLTLFYTVKVYSKALLLEASTHLSQLG</span><span class="topo-unknown">FFAAA</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1717,6 +1760,7 @@ The sigma-1 receptor (S1R) from Xenopus laevis (xlS1R) is a non-opioid transmemb
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1732,10 +1776,11 @@ The sigma-1 receptor (S1R) from Xenopus laevis (xlS1R) is a non-opioid transmemb
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GGG</span><span class="topo-outside">GRSV</span><span class="topo-membrane">DTMALWLGLRAVLVVAGLAVLL</span><span class="topo-inside">QLIRGWLSSKSYVFNREEIARLAKEHSGLDY</span></span>
-<span class="topo-line"><span class="topo-inside">EVAFSKIIVELRKKHPGHILQDEDLQWVFVNAGGWMGSMCLLHASLTEYVLLFGTAVDTG</span></span>
-<span class="topo-line"><span class="topo-inside">GHSGRYWAEISDTILSGTFRQWKEGTTKSEIFYPGDTIVHEVGEATSVQWSSGTWMVEYG</span></span>
-<span class="topo-line"><span class="topo-inside">RGFIPSTLAFALADTIFSTQDFLTLFYTVKVYSKALLLEASTHLSQLG</span><span class="topo-unknown">FFAAA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GGG</span><span class="topo-outside">GRSV</span><span class="topo-membrane">DTMALWLGLRAVLVVAGLAVLL</span><span class="topo-inside">QLIRGWLSSKSYVFNREEIARLAKEHSGLDYEVAFSKIIVELRKKHPGHILQDEDLQWVFVNAGGWMGSMCLLHASLTEYVLLFGTAVDTG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230   </span>
+<span class="topo-line"><span class="topo-inside">GHSGRYWAEISDTILSGTFRQWKEGTTKSEIFYPGDTIVHEVGEATSVQWSSGTWMVEYGRGFIPSTLAFALADTIFSTQDFLTLFYTVKVYSKALLLEASTHLSQLG</span><span class="topo-unknown">FFAAA</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1782,6 +1827,7 @@ The sigma-1 receptor (S1R) from Xenopus laevis (xlS1R) is a non-opioid transmemb
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1797,10 +1843,11 @@ The sigma-1 receptor (S1R) from Xenopus laevis (xlS1R) is a non-opioid transmemb
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GGG</span><span class="topo-outside">GR</span><span class="topo-membrane">SVDTMALWLGLRAVLVVAGLAV</span><span class="topo-inside">LLQLIRGWLSSKSYVFNREEIARLAKEHSGLDY</span></span>
-<span class="topo-line"><span class="topo-inside">EVAFSKIIVELRKKHPGHILQDEDLQWVFVNAGGWMGSMCLLHASLTEYVLLFGTAVDTG</span></span>
-<span class="topo-line"><span class="topo-inside">GHSGRYWAEISDTILSGTFRQWKEGTTKSEIFYPGDTIVHEVGEATSVQWSSGTWMVEYG</span></span>
-<span class="topo-line"><span class="topo-inside">RGFIPSTLAFALADTIFSTQDFLTLFYTVKVYSKALLLEASTHLSQLGF</span><span class="topo-unknown">FAAA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GGG</span><span class="topo-outside">GR</span><span class="topo-membrane">SVDTMALWLGLRAVLVVAGLAV</span><span class="topo-inside">LLQLIRGWLSSKSYVFNREEIARLAKEHSGLDYEVAFSKIIVELRKKHPGHILQDEDLQWVFVNAGGWMGSMCLLHASLTEYVLLFGTAVDTG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230   </span>
+<span class="topo-line"><span class="topo-inside">GHSGRYWAEISDTILSGTFRQWKEGTTKSEIFYPGDTIVHEVGEATSVQWSSGTWMVEYGRGFIPSTLAFALADTIFSTQDFLTLFYTVKVYSKALLLEASTHLSQLGF</span><span class="topo-unknown">FAAA</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1847,6 +1894,7 @@ The sigma-1 receptor (S1R) from Xenopus laevis (xlS1R) is a non-opioid transmemb
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1862,10 +1910,11 @@ The sigma-1 receptor (S1R) from Xenopus laevis (xlS1R) is a non-opioid transmemb
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GGGGR</span><span class="topo-outside">SVDT</span><span class="topo-membrane">MALWLGLRAVLVVAGLAVL</span><span class="topo-inside">LQLIRGWLSSKSYVFNREEIARLAKEHSGLDY</span></span>
-<span class="topo-line"><span class="topo-inside">EVAFSKIIVELRKKHPGHILQDEDLQWVFVNAGGWMGSMCLLHASLTEYVLLFGTAVDTG</span></span>
-<span class="topo-line"><span class="topo-inside">GHSGRYWAEISDTILSGTFRQWKEGTTKSEIFYPGDTIVHEVGEATSVQWSSGTWMVEYG</span></span>
-<span class="topo-line"><span class="topo-inside">RGFIPSTLAFALADTIFSTQDFLTLFYTVKVYSKALLLEASTHLSQLG</span><span class="topo-unknown">FFAAA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GGGGR</span><span class="topo-outside">SVDT</span><span class="topo-membrane">MALWLGLRAVLVVAGLAVL</span><span class="topo-inside">LQLIRGWLSSKSYVFNREEIARLAKEHSGLDYEVAFSKIIVELRKKHPGHILQDEDLQWVFVNAGGWMGSMCLLHASLTEYVLLFGTAVDTG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230   </span>
+<span class="topo-line"><span class="topo-inside">GHSGRYWAEISDTILSGTFRQWKEGTTKSEIFYPGDTIVHEVGEATSVQWSSGTWMVEYGRGFIPSTLAFALADTIFSTQDFLTLFYTVKVYSKALLLEASTHLSQLG</span><span class="topo-unknown">FFAAA</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1912,6 +1961,7 @@ The sigma-1 receptor (S1R) from Xenopus laevis (xlS1R) is a non-opioid transmemb
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1927,10 +1977,11 @@ The sigma-1 receptor (S1R) from Xenopus laevis (xlS1R) is a non-opioid transmemb
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GGGGR</span><span class="topo-outside">SVD</span><span class="topo-membrane">TMALWLGLRAVLVVAGLAVL</span><span class="topo-inside">LQLIRGWLSSKSYVFNREEIARLAKEHSGLDY</span></span>
-<span class="topo-line"><span class="topo-inside">EVAFSKIIVELRKKHPGHILQDEDLQWVFVNAGGWMGSMCLLHASLTEYVLLFGTAVDTG</span></span>
-<span class="topo-line"><span class="topo-inside">GHSGRYWAEISDTILSGTFRQWKEGTTKSEIFYPGDTIVHEVGEATSVQWSSGTWMVEYG</span></span>
-<span class="topo-line"><span class="topo-inside">RGFIPSTLAFALADTIFSTQDFLTLFYTVKVYSKALLLEASTHLSQ</span><span class="topo-unknown">LGFFAAA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GGGGR</span><span class="topo-outside">SVD</span><span class="topo-membrane">TMALWLGLRAVLVVAGLAVL</span><span class="topo-inside">LQLIRGWLSSKSYVFNREEIARLAKEHSGLDYEVAFSKIIVELRKKHPGHILQDEDLQWVFVNAGGWMGSMCLLHASLTEYVLLFGTAVDTG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230   </span>
+<span class="topo-line"><span class="topo-inside">GHSGRYWAEISDTILSGTFRQWKEGTTKSEIFYPGDTIVHEVGEATSVQWSSGTWMVEYGRGFIPSTLAFALADTIFSTQDFLTLFYTVKVYSKALLLEASTHLSQ</span><span class="topo-unknown">LGFFAAA</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1977,6 +2028,7 @@ The sigma-1 receptor (S1R) from Xenopus laevis (xlS1R) is a non-opioid transmemb
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

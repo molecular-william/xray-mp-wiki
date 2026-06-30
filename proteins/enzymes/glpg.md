@@ -91,10 +91,11 @@ GlpG is an Escherichia coli rhomboid intramembrane serine protease. It consists 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">ERA</span><span class="topo-membrane">GPVTWVMMIACVVVFIA</span><span class="topo-inside">MQILG</span><span class="topo-unknown">DQEVMLWL</span><span class="topo-inside">AWPFDPTLKFEFW</span><span class="topo-unknown">RYFTHAL</span><span class="topo-inside">MHFS</span><span class="topo-membrane">LMH</span></span>
-<span class="topo-line"><span class="topo-membrane">ILFNLLWWWYLGGAVE</span><span class="topo-outside">KRLGS</span><span class="topo-membrane">GKLIVITLISALLSGYV</span><span class="topo-inside">QQKFSGPWFG</span><span class="topo-membrane">GLSGVVYALMGY</span></span>
-<span class="topo-line"><span class="topo-membrane">VWLRGER</span><span class="topo-outside">DPQSGIY</span><span class="topo-membrane">LQRGLIIFALIWIVAGW</span><span class="topo-inside">FDLFGMSMAN</span><span class="topo-membrane">GAHIAGLAVGLAMAFVD</span><span class="topo-outside">SL</span></span>
-<span class="topo-line"><span class="topo-outside">NA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">ERA</span><span class="topo-membrane">GPVTWVMMIACVVVFIA</span><span class="topo-inside">MQILG</span><span class="topo-unknown">DQEVMLWL</span><span class="topo-inside">AWPFDPTLKFEFW</span><span class="topo-unknown">RYFTHAL</span><span class="topo-inside">MHFS</span><span class="topo-membrane">LMHILFNLLWWWYLGGAVE</span><span class="topo-outside">KRLGS</span><span class="topo-membrane">GKLIVITLISALLSGYV</span><span class="topo-inside">QQKFSGPWFG</span><span class="topo-membrane">GLSGVVYALMGY</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180  </span>
+<span class="topo-line"><span class="topo-membrane">VWLRGER</span><span class="topo-outside">DPQSGIY</span><span class="topo-membrane">LQRGLIIFALIWIVAGW</span><span class="topo-inside">FDLFGMSMAN</span><span class="topo-membrane">GAHIAGLAVGLAMAFVD</span><span class="topo-outside">SLNA</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -225,6 +226,7 @@ GlpG is an Escherichia coli rhomboid intramembrane serine protease. It consists 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -305,10 +307,11 @@ GlpG is an Escherichia coli rhomboid intramembrane serine protease. It consists 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">RA</span><span class="topo-membrane">GPVTWVMMIACVVVFIAMQI</span><span class="topo-outside">LGDQEVMLWLAWPFDPTLKFEFWRYFTHALMHFS</span><span class="topo-membrane">LMHI</span></span>
-<span class="topo-line"><span class="topo-membrane">LFNLLWWWYLGGAVE</span><span class="topo-inside">KRLGS</span><span class="topo-membrane">GKLIVITLISALLSGYVQ</span><span class="topo-outside">QKFSGPWF</span><span class="topo-membrane">GGLSGVVYALMGYV</span></span>
-<span class="topo-line"><span class="topo-membrane">WLR</span><span class="topo-inside">GERDPQSGIY</span><span class="topo-membrane">LQRGLIIFALIWIVAGW</span><span class="topo-outside">FD</span><span class="topo-unknown">LFGMSM</span><span class="topo-outside">AN</span><span class="topo-membrane">GAHIAGLAVGLAMAFVD</span><span class="topo-inside">SLN</span></span>
-<span class="topo-line"><span class="topo-inside">AR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">RA</span><span class="topo-membrane">GPVTWVMMIACVVVFIAMQI</span><span class="topo-outside">LGDQEVMLWLAWPFDPTLKFEFWRYFTHALMHFS</span><span class="topo-membrane">LMHILFNLLWWWYLGGAVE</span><span class="topo-inside">KRLGS</span><span class="topo-membrane">GKLIVITLISALLSGYVQ</span><span class="topo-outside">QKFSGPWF</span><span class="topo-membrane">GGLSGVVYALMGYV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180  </span>
+<span class="topo-line"><span class="topo-membrane">WLR</span><span class="topo-inside">GERDPQSGIY</span><span class="topo-membrane">LQRGLIIFALIWIVAGW</span><span class="topo-outside">FD</span><span class="topo-unknown">LFGMSM</span><span class="topo-outside">AN</span><span class="topo-membrane">GAHIAGLAVGLAMAFVD</span><span class="topo-inside">SLNAR</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -425,6 +428,7 @@ GlpG is an Escherichia coli rhomboid intramembrane serine protease. It consists 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -440,10 +444,11 @@ GlpG is an Escherichia coli rhomboid intramembrane serine protease. It consists 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">RA</span><span class="topo-membrane">GPVTWVMMIACVVVFIAMQI</span><span class="topo-outside">LGDQEVMLWLAWPFDPTLKFEFWRYFTHALMHFS</span><span class="topo-membrane">LMHI</span></span>
-<span class="topo-line"><span class="topo-membrane">LFNLLWWWYLGGAVE</span><span class="topo-inside">KRLGS</span><span class="topo-membrane">GKLIVITLISALLSGYVQ</span><span class="topo-outside">QKFSGPWF</span><span class="topo-membrane">GGLSGVVYALMGYV</span></span>
-<span class="topo-line"><span class="topo-membrane">WLR</span><span class="topo-inside">GERDPQSGIY</span><span class="topo-membrane">LQRGLIIFALIWIVAGW</span><span class="topo-outside">FD</span><span class="topo-unknown">LFGMSM</span><span class="topo-outside">AN</span><span class="topo-membrane">GAHIAGLAVGLAMAFVD</span><span class="topo-inside">SLN</span></span>
-<span class="topo-line"><span class="topo-inside">AR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">RA</span><span class="topo-membrane">GPVTWVMMIACVVVFIAMQI</span><span class="topo-outside">LGDQEVMLWLAWPFDPTLKFEFWRYFTHALMHFS</span><span class="topo-membrane">LMHILFNLLWWWYLGGAVE</span><span class="topo-inside">KRLGS</span><span class="topo-membrane">GKLIVITLISALLSGYVQ</span><span class="topo-outside">QKFSGPWF</span><span class="topo-membrane">GGLSGVVYALMGYV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180  </span>
+<span class="topo-line"><span class="topo-membrane">WLR</span><span class="topo-inside">GERDPQSGIY</span><span class="topo-membrane">LQRGLIIFALIWIVAGW</span><span class="topo-outside">FD</span><span class="topo-unknown">LFGMSM</span><span class="topo-outside">AN</span><span class="topo-membrane">GAHIAGLAVGLAMAFVD</span><span class="topo-inside">SLNAR</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -560,6 +565,7 @@ GlpG is an Escherichia coli rhomboid intramembrane serine protease. It consists 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -575,10 +581,11 @@ GlpG is an Escherichia coli rhomboid intramembrane serine protease. It consists 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">RA</span><span class="topo-membrane">GPVTWVMMIACVVVFIAMQI</span><span class="topo-outside">LGDQEVMLWLAWPFDPTLKFEFWRYFTHALMHFS</span><span class="topo-membrane">LMHI</span></span>
-<span class="topo-line"><span class="topo-membrane">LFNLLWWWYLGGAVE</span><span class="topo-inside">KRLGS</span><span class="topo-membrane">GKLIVITLISALLSGYVQ</span><span class="topo-outside">QKFSGPWF</span><span class="topo-membrane">GGLSGVVYALMGYV</span></span>
-<span class="topo-line"><span class="topo-membrane">WLR</span><span class="topo-inside">GERDPQSGIY</span><span class="topo-membrane">LQRGLIIFALIWIVAGW</span><span class="topo-outside">FD</span><span class="topo-unknown">LFGMSM</span><span class="topo-outside">AN</span><span class="topo-membrane">GAHIAGLAVGLAMAFVD</span><span class="topo-inside">SLN</span></span>
-<span class="topo-line"><span class="topo-inside">AR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">RA</span><span class="topo-membrane">GPVTWVMMIACVVVFIAMQI</span><span class="topo-outside">LGDQEVMLWLAWPFDPTLKFEFWRYFTHALMHFS</span><span class="topo-membrane">LMHILFNLLWWWYLGGAVE</span><span class="topo-inside">KRLGS</span><span class="topo-membrane">GKLIVITLISALLSGYVQ</span><span class="topo-outside">QKFSGPWF</span><span class="topo-membrane">GGLSGVVYALMGYV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180  </span>
+<span class="topo-line"><span class="topo-membrane">WLR</span><span class="topo-inside">GERDPQSGIY</span><span class="topo-membrane">LQRGLIIFALIWIVAGW</span><span class="topo-outside">FD</span><span class="topo-unknown">LFGMSM</span><span class="topo-outside">AN</span><span class="topo-membrane">GAHIAGLAVGLAMAFVD</span><span class="topo-inside">SLNAR</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -695,6 +702,7 @@ GlpG is an Escherichia coli rhomboid intramembrane serine protease. It consists 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -775,9 +783,11 @@ GlpG is an Escherichia coli rhomboid intramembrane serine protease. It consists 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">AGP</span><span class="topo-membrane">VTWVMMIACVVVFIAMQI</span><span class="topo-inside">LG</span><span class="topo-unknown">DQEVMLWL</span><span class="topo-inside">AWPFDPTLKFEFWRYFTHALMHFS</span><span class="topo-membrane">LMHIL</span></span>
-<span class="topo-line"><span class="topo-membrane">FNLLWWWYLGG</span><span class="topo-outside">AVEKRLGSG</span><span class="topo-membrane">KLIVITLISALLSGYVQQ</span><span class="topo-inside">KFSGPWF</span><span class="topo-membrane">GGLSGVVYALMGYVW</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">AGP</span><span class="topo-membrane">VTWVMMIACVVVFIAMQI</span><span class="topo-inside">LG</span><span class="topo-unknown">DQEVMLWL</span><span class="topo-inside">AWPFDPTLKFEFWRYFTHALMHFS</span><span class="topo-membrane">LMHILFNLLWWWYLGG</span><span class="topo-outside">AVEKRLGSG</span><span class="topo-membrane">KLIVITLISALLSGYVQQ</span><span class="topo-inside">KFSGPWF</span><span class="topo-membrane">GGLSGVVYALMGYVW</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180</span>
 <span class="topo-line"><span class="topo-membrane">L</span><span class="topo-outside">RGERDPQSGIYLQRG</span><span class="topo-membrane">LIIFALIWIVAGWFDL</span><span class="topo-unknown">FGMSM</span><span class="topo-inside">A</span><span class="topo-membrane">NGAHIAGLAVGLAMAFV</span><span class="topo-outside">DSLNA</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -901,6 +911,7 @@ GlpG is an Escherichia coli rhomboid intramembrane serine protease. It consists 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1016,10 +1027,11 @@ GlpG is an Escherichia coli rhomboid intramembrane serine protease. It consists 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">ERAGP</span><span class="topo-membrane">VTWVMMIACVVVFIAMQIL</span><span class="topo-unknown">GDQEVMLWL</span><span class="topo-inside">AWPFDPTLKFEFWRYF</span><span class="topo-membrane">THALMHFSLMH</span></span>
-<span class="topo-line"><span class="topo-membrane">ILFNLLWWWYLGG</span><span class="topo-outside">AVEKRLGSGK</span><span class="topo-membrane">LIVITLISALLSGYVQQK</span><span class="topo-inside">FSGPWF</span><span class="topo-membrane">GGLSGVVYALMGY</span></span>
-<span class="topo-line"><span class="topo-membrane">VWL</span><span class="topo-outside">RGERDPQSGIYL</span><span class="topo-membrane">QRGLIIFALIWIVAGWFDLFGM</span><span class="topo-inside">S</span><span class="topo-membrane">MANGAHIAGLAVGLAMAFV</span><span class="topo-outside">DSL</span></span>
-<span class="topo-line"><span class="topo-outside">NA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">ERAGP</span><span class="topo-membrane">VTWVMMIACVVVFIAMQIL</span><span class="topo-unknown">GDQEVMLWL</span><span class="topo-inside">AWPFDPTLKFEFWRYF</span><span class="topo-membrane">THALMHFSLMHILFNLLWWWYLGG</span><span class="topo-outside">AVEKRLGSGK</span><span class="topo-membrane">LIVITLISALLSGYVQQK</span><span class="topo-inside">FSGPWF</span><span class="topo-membrane">GGLSGVVYALMGY</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180  </span>
+<span class="topo-line"><span class="topo-membrane">VWL</span><span class="topo-outside">RGERDPQSGIYL</span><span class="topo-membrane">QRGLIIFALIWIVAGWFDLFGM</span><span class="topo-inside">S</span><span class="topo-membrane">MANGAHIAGLAVGLAMAFV</span><span class="topo-outside">DSLNA</span></span>
+<details class="topo-details"><summary>Topology coordinates (14 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1129,6 +1141,7 @@ GlpG is an Escherichia coli rhomboid intramembrane serine protease. It consists 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1144,10 +1157,11 @@ GlpG is an Escherichia coli rhomboid intramembrane serine protease. It consists 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">ERAGP</span><span class="topo-membrane">VTWVMMIACVVVFIAMQIL</span><span class="topo-unknown">GDQEVMLWL</span><span class="topo-inside">AWPFDPTLKFEFWRYF</span><span class="topo-membrane">THALMHFSLMH</span></span>
-<span class="topo-line"><span class="topo-membrane">ILFNLLWWWYLGG</span><span class="topo-outside">AVEKRLGSGK</span><span class="topo-membrane">LIVITLISALLSGYVQQK</span><span class="topo-inside">FSGPWF</span><span class="topo-membrane">GGLSGVVYALMGY</span></span>
-<span class="topo-line"><span class="topo-membrane">VWL</span><span class="topo-outside">RGERDPQSGIYL</span><span class="topo-membrane">QRGLIIFALIWIVAGWFDLFGM</span><span class="topo-inside">S</span><span class="topo-membrane">MANGAHIAGLAVGLAMAFV</span><span class="topo-outside">DSL</span></span>
-<span class="topo-line"><span class="topo-outside">NA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">ERAGP</span><span class="topo-membrane">VTWVMMIACVVVFIAMQIL</span><span class="topo-unknown">GDQEVMLWL</span><span class="topo-inside">AWPFDPTLKFEFWRYF</span><span class="topo-membrane">THALMHFSLMHILFNLLWWWYLGG</span><span class="topo-outside">AVEKRLGSGK</span><span class="topo-membrane">LIVITLISALLSGYVQQK</span><span class="topo-inside">FSGPWF</span><span class="topo-membrane">GGLSGVVYALMGY</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180  </span>
+<span class="topo-line"><span class="topo-membrane">VWL</span><span class="topo-outside">RGERDPQSGIYL</span><span class="topo-membrane">QRGLIIFALIWIVAGWFDLFGM</span><span class="topo-inside">S</span><span class="topo-membrane">MANGAHIAGLAVGLAMAFV</span><span class="topo-outside">DSLNA</span></span>
+<details class="topo-details"><summary>Topology coordinates (14 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1257,6 +1271,7 @@ GlpG is an Escherichia coli rhomboid intramembrane serine protease. It consists 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1272,10 +1287,11 @@ GlpG is an Escherichia coli rhomboid intramembrane serine protease. It consists 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">ERAGP</span><span class="topo-membrane">VTWVMMIACVVVFIAMQIL</span><span class="topo-unknown">GDQEVMLWL</span><span class="topo-inside">AWPFDPTLKFEFWRYF</span><span class="topo-membrane">THALMHFSLMH</span></span>
-<span class="topo-line"><span class="topo-membrane">ILFNLLWWWYLGG</span><span class="topo-outside">AVEKRLGSGK</span><span class="topo-membrane">LIVITLISALLSGYVQQK</span><span class="topo-inside">FSGPWF</span><span class="topo-membrane">GGLSGVVYALMGY</span></span>
-<span class="topo-line"><span class="topo-membrane">VWL</span><span class="topo-outside">RGERDPQSGIYL</span><span class="topo-membrane">QRGLIIFALIWIVAGWFDLFGM</span><span class="topo-inside">S</span><span class="topo-membrane">MANGAHIAGLAVGLAMAFV</span><span class="topo-outside">DSL</span></span>
-<span class="topo-line"><span class="topo-outside">NA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">ERAGP</span><span class="topo-membrane">VTWVMMIACVVVFIAMQIL</span><span class="topo-unknown">GDQEVMLWL</span><span class="topo-inside">AWPFDPTLKFEFWRYF</span><span class="topo-membrane">THALMHFSLMHILFNLLWWWYLGG</span><span class="topo-outside">AVEKRLGSGK</span><span class="topo-membrane">LIVITLISALLSGYVQQK</span><span class="topo-inside">FSGPWF</span><span class="topo-membrane">GGLSGVVYALMGY</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180  </span>
+<span class="topo-line"><span class="topo-membrane">VWL</span><span class="topo-outside">RGERDPQSGIYL</span><span class="topo-membrane">QRGLIIFALIWIVAGWFDLFGM</span><span class="topo-inside">S</span><span class="topo-membrane">MANGAHIAGLAVGLAMAFV</span><span class="topo-outside">DSLNA</span></span>
+<details class="topo-details"><summary>Topology coordinates (14 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1385,6 +1401,7 @@ GlpG is an Escherichia coli rhomboid intramembrane serine protease. It consists 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1496,9 +1513,11 @@ GlpG is an Escherichia coli rhomboid intramembrane serine protease. It consists 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">AGP</span><span class="topo-membrane">VTWVMMIACVVVFIAM</span><span class="topo-inside">QILGDQEVMLWLAWPFDPTLKFEFWRYF</span><span class="topo-membrane">THALMHFSLMHIL</span></span>
-<span class="topo-line"><span class="topo-membrane">FNLLWWWYLGG</span><span class="topo-outside">AVEKRLGSGKL</span><span class="topo-membrane">IVITLISALLSGYVQ</span><span class="topo-inside">QKFSGPWFG</span><span class="topo-membrane">GLTGVVYALMGYVW</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">AGP</span><span class="topo-membrane">VTWVMMIACVVVFIAM</span><span class="topo-inside">QILGDQEVMLWLAWPFDPTLKFEFWRYF</span><span class="topo-membrane">THALMHFSLMHILFNLLWWWYLGG</span><span class="topo-outside">AVEKRLGSGKL</span><span class="topo-membrane">IVITLISALLSGYVQ</span><span class="topo-inside">QKFSGPWFG</span><span class="topo-membrane">GLTGVVYALMGYVW</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180</span>
 <span class="topo-line"><span class="topo-membrane">L</span><span class="topo-outside">RGERDPQSGIYLQR</span><span class="topo-membrane">GLIIFALIWIVAGWFDLF</span><span class="topo-unknown">GM</span><span class="topo-inside">SMA</span><span class="topo-membrane">NGAHIAGLAVGLAMAF</span><span class="topo-outside">VDSLNA</span></span>
+<details class="topo-details"><summary>Topology coordinates (14 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1608,6 +1627,7 @@ GlpG is an Escherichia coli rhomboid intramembrane serine protease. It consists 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1623,10 +1643,11 @@ GlpG is an Escherichia coli rhomboid intramembrane serine protease. It consists 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">ER</span><span class="topo-membrane">AGPVTWVMMIACVVVFIA</span><span class="topo-inside">MQILG</span><span class="topo-unknown">DQEVMLWL</span><span class="topo-inside">AWPFDPTLKFEFW</span><span class="topo-unknown">RYFTHAL</span><span class="topo-inside">MHFS</span><span class="topo-membrane">LMH</span></span>
-<span class="topo-line"><span class="topo-membrane">ILFNLLWWWYLGGAVE</span><span class="topo-outside">KRLGS</span><span class="topo-membrane">GKLIVITLISALLSGYVQ</span><span class="topo-inside">QKFSGPWFG</span><span class="topo-membrane">GLTGVVYALMGY</span></span>
-<span class="topo-line"><span class="topo-membrane">VWLR</span><span class="topo-outside">GERDPQSGIY</span><span class="topo-membrane">LQRGLIIFALIWIVAGWFDLF</span><span class="topo-inside">GMS</span><span class="topo-membrane">MANGAHIAGLAVGLAMAFVD</span><span class="topo-outside">SL</span></span>
-<span class="topo-line"><span class="topo-outside">N</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">ER</span><span class="topo-membrane">AGPVTWVMMIACVVVFIA</span><span class="topo-inside">MQILG</span><span class="topo-unknown">DQEVMLWL</span><span class="topo-inside">AWPFDPTLKFEFW</span><span class="topo-unknown">RYFTHAL</span><span class="topo-inside">MHFS</span><span class="topo-membrane">LMHILFNLLWWWYLGGAVE</span><span class="topo-outside">KRLGS</span><span class="topo-membrane">GKLIVITLISALLSGYVQ</span><span class="topo-inside">QKFSGPWFG</span><span class="topo-membrane">GLTGVVYALMGY</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180 </span>
+<span class="topo-line"><span class="topo-membrane">VWLR</span><span class="topo-outside">GERDPQSGIY</span><span class="topo-membrane">LQRGLIIFALIWIVAGWFDLF</span><span class="topo-inside">GMS</span><span class="topo-membrane">MANGAHIAGLAVGLAMAFVD</span><span class="topo-outside">SLN</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1757,6 +1778,7 @@ GlpG is an Escherichia coli rhomboid intramembrane serine protease. It consists 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

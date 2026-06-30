@@ -153,10 +153,11 @@ represents the first high-resolution structure of a proteorhodopsin.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MDYKDDDDKHHHHHHHHHHENLYFQSYVMF</span><span class="topo-outside">MKKSSIIV</span><span class="topo-membrane">FFLTYGLFYVSSVLFPI</span><span class="topo-inside">DRTWY</span></span>
-<span class="topo-line"><span class="topo-inside">DALEKPSWTP</span><span class="topo-membrane">PGMTIGMIWAVLFGLIALSVA</span><span class="topo-outside">IIYNNYGFKPK</span><span class="topo-membrane">TFWFLFLLNYIFNQAFSY</span></span>
-<span class="topo-line"><span class="topo-membrane">FQFS</span><span class="topo-inside">QKNLFL</span><span class="topo-membrane">ATVDCLLVAITTLLLIMFSS</span><span class="topo-outside">NLSK</span><span class="topo-membrane">VSAWLLIPYFLWSAFATYLS</span><span class="topo-inside">WTIYSI</span></span>
-<span class="topo-line"><span class="topo-inside">N</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MDYKDDDDKHHHHHHHHHHENLYFQSYVMF</span><span class="topo-outside">MKKSSIIV</span><span class="topo-membrane">FFLTYGLFYVSSVLFPI</span><span class="topo-inside">DRTWYDALEKPSWTP</span><span class="topo-membrane">PGMTIGMIWAVLFGLIALSVA</span><span class="topo-outside">IIYNNYGFKPK</span><span class="topo-membrane">TFWFLFLLNYIFNQAFSY</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180 </span>
+<span class="topo-line"><span class="topo-membrane">FQFS</span><span class="topo-inside">QKNLFL</span><span class="topo-membrane">ATVDCLLVAITTLLLIMFSS</span><span class="topo-outside">NLSK</span><span class="topo-membrane">VSAWLLIPYFLWSAFATYLS</span><span class="topo-inside">WTIYSIN</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -245,6 +246,7 @@ represents the first high-resolution structure of a proteorhodopsin.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -260,10 +262,11 @@ represents the first high-resolution structure of a proteorhodopsin.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MDYKDDDDKHHHHHHHHHHENLYFQSYVMF</span><span class="topo-outside">MKKSSII</span><span class="topo-membrane">VFFLTYGLFYVSSVLFPI</span><span class="topo-inside">D</span><span class="topo-unknown">RTWY</span></span>
-<span class="topo-line"><span class="topo-unknown">DA</span><span class="topo-inside">LEKPSWTP</span><span class="topo-membrane">PGMTIGMIWAVLFGLIALSVA</span><span class="topo-outside">IIYNNYGFKPK</span><span class="topo-membrane">TFWFLFLLNYIFNQAFSY</span></span>
-<span class="topo-line"><span class="topo-membrane">FQFS</span><span class="topo-inside">QKNLFL</span><span class="topo-membrane">ATVDCLLVAITTLLLIMFSS</span><span class="topo-outside">NLSK</span><span class="topo-membrane">VSAWLLIPYFLWSAFATYLS</span><span class="topo-inside">WTIYSI</span></span>
-<span class="topo-line"><span class="topo-inside">N</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MDYKDDDDKHHHHHHHHHHENLYFQSYVMF</span><span class="topo-outside">MKKSSII</span><span class="topo-membrane">VFFLTYGLFYVSSVLFPI</span><span class="topo-inside">D</span><span class="topo-unknown">RTWYDA</span><span class="topo-inside">LEKPSWTP</span><span class="topo-membrane">PGMTIGMIWAVLFGLIALSVA</span><span class="topo-outside">IIYNNYGFKPK</span><span class="topo-membrane">TFWFLFLLNYIFNQAFSY</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180 </span>
+<span class="topo-line"><span class="topo-membrane">FQFS</span><span class="topo-inside">QKNLFL</span><span class="topo-membrane">ATVDCLLVAITTLLLIMFSS</span><span class="topo-outside">NLSK</span><span class="topo-membrane">VSAWLLIPYFLWSAFATYLS</span><span class="topo-inside">WTIYSIN</span></span>
+<details class="topo-details"><summary>Topology coordinates (13 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -366,6 +369,7 @@ represents the first high-resolution structure of a proteorhodopsin.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

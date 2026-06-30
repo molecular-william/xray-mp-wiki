@@ -110,12 +110,13 @@ CorA from Thermotoga maritima (TmCorA) is a homopentameric magnesium ion channel
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GSHM</span><span class="topo-outside">DFEIEVMNYSIEEFREFKTTDVESVLPFRDSSTPTWINITGIHRTDVVQRVGEFFG</span></span>
-<span class="topo-line"><span class="topo-outside">IHPLVLEDILNVHQRPKVEFFENYVFIVLKMFTYDKNLHELESEQVSLILTKNCVLMFQE</span></span>
-<span class="topo-line"><span class="topo-outside">KIGDVFDPVRERIRYNRGIIRKKRADYLLYSLIDALVDDYFVLLEKIDDEIDVLEEEVLE</span></span>
-<span class="topo-line"><span class="topo-outside">RPEKETVQRTHQLKRNLVELAATIWPLREVLSSLYRDVPPLIEKETVPYFRDVYDHTIQI</span></span>
-<span class="topo-line"><span class="topo-outside">ADTVETFRDIVSGLLDVYLSSVSNKTNEVMK</span><span class="topo-membrane">VLTIIATIFMPLTFIAGIY</span><span class="topo-inside">GMNF</span><span class="topo-unknown">EYMPEL</span></span>
-<span class="topo-line"><span class="topo-unknown">RWKW</span><span class="topo-inside">GYPV</span><span class="topo-membrane">VLAVMGVIAVIMVVYFK</span><span class="topo-outside">KKK</span><span class="topo-unknown">WL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GSHM</span><span class="topo-outside">DFEIEVMNYSIEEFREFKTTDVESVLPFRDSSTPTWINITGIHRTDVVQRVGEFFGIHPLVLEDILNVHQRPKVEFFENYVFIVLKMFTYDKNLHELESEQVSLILTKNCVLMFQE</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">KIGDVFDPVRERIRYNRGIIRKKRADYLLYSLIDALVDDYFVLLEKIDDEIDVLEEEVLERPEKETVQRTHQLKRNLVELAATIWPLREVLSSLYRDVPPLIEKETVPYFRDVYDHTIQI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330</span>
+<span class="topo-line"><span class="topo-outside">ADTVETFRDIVSGLLDVYLSSVSNKTNEVMK</span><span class="topo-membrane">VLTIIATIFMPLTFIAGIY</span><span class="topo-inside">GMNF</span><span class="topo-unknown">EYMPELRWKW</span><span class="topo-inside">GYPV</span><span class="topo-membrane">VLAVMGVIAVIMVVYFK</span><span class="topo-outside">KKK</span><span class="topo-unknown">WL</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -190,6 +191,7 @@ CorA from Thermotoga maritima (TmCorA) is a homopentameric magnesium ion channel
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -205,12 +207,13 @@ CorA from Thermotoga maritima (TmCorA) is a homopentameric magnesium ion channel
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GSHM</span><span class="topo-outside">DFEIEVMNYSIEEFREFKTTDVESVLPFRDSSTPTWINITGIHRTDVVQRVGEFFG</span></span>
-<span class="topo-line"><span class="topo-outside">IHPLVLEDILNVHQRPKVEFFENYVFIVLKMFTYDKNLHELESEQVSLILTKNCVLMFQE</span></span>
-<span class="topo-line"><span class="topo-outside">KIGDVFDPVRERIRYNRGIIRKKRADYLLYSLIDALVDDYFVLLEKIDDEIDVLEEEVLE</span></span>
-<span class="topo-line"><span class="topo-outside">RPEKETVQRTHQLKRNLVELAATIWPLREVLSSLYRDVPPLIEKETVPYFRDVYDHTIQI</span></span>
-<span class="topo-line"><span class="topo-outside">ADTVETFRDIVSGLLDVYLSSVSNKTNEVMK</span><span class="topo-membrane">VLTIIATIFMPLTFIAGIY</span><span class="topo-inside">GMNFEY</span><span class="topo-unknown">MPEL</span></span>
-<span class="topo-line"><span class="topo-unknown">RWKW</span><span class="topo-inside">GYPV</span><span class="topo-membrane">VLAVMGVIAVIMVVYFKK</span><span class="topo-outside">KK</span><span class="topo-unknown">WL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GSHM</span><span class="topo-outside">DFEIEVMNYSIEEFREFKTTDVESVLPFRDSSTPTWINITGIHRTDVVQRVGEFFGIHPLVLEDILNVHQRPKVEFFENYVFIVLKMFTYDKNLHELESEQVSLILTKNCVLMFQE</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">KIGDVFDPVRERIRYNRGIIRKKRADYLLYSLIDALVDDYFVLLEKIDDEIDVLEEEVLERPEKETVQRTHQLKRNLVELAATIWPLREVLSSLYRDVPPLIEKETVPYFRDVYDHTIQI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330</span>
+<span class="topo-line"><span class="topo-outside">ADTVETFRDIVSGLLDVYLSSVSNKTNEVMK</span><span class="topo-membrane">VLTIIATIFMPLTFIAGIY</span><span class="topo-inside">GMNFEY</span><span class="topo-unknown">MPELRWKW</span><span class="topo-inside">GYPV</span><span class="topo-membrane">VLAVMGVIAVIMVVYFKK</span><span class="topo-outside">KK</span><span class="topo-unknown">WL</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -285,6 +288,7 @@ CorA from Thermotoga maritima (TmCorA) is a homopentameric magnesium ion channel
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -300,12 +304,13 @@ CorA from Thermotoga maritima (TmCorA) is a homopentameric magnesium ion channel
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GSHM</span><span class="topo-outside">DFEIEVMNYSIEEFREFKTTDVESVLPFRDSSTPTWINITGIHRTDVVQRVGEFFG</span></span>
-<span class="topo-line"><span class="topo-outside">IHPLVLEDILNVHQRPKVEFFENYVFIVLKMFTYDKNLHELESEQVSLILTKNCVLMFQE</span></span>
-<span class="topo-line"><span class="topo-outside">KIGDVFDPVRERIRYNRGIIRKKRADYLLYSLIDALVDDYFVLLEKIDDEIDVLEEEVLE</span></span>
-<span class="topo-line"><span class="topo-outside">RPEKETVQRTHQLKRNLVELAATIWPLREVLSSLYRDVPPLIEKETVPYFRDVYDHTIQI</span></span>
-<span class="topo-line"><span class="topo-outside">ADTVETFRDIVSGLLDVYLSSVSNKTNEVMK</span><span class="topo-membrane">VLTIIATIFMPLTFIAGI</span><span class="topo-inside">YGMNF</span><span class="topo-unknown">EYMPEL</span></span>
-<span class="topo-line"><span class="topo-unknown">RWKW</span><span class="topo-inside">GYPV</span><span class="topo-membrane">VLAVMGVIAVIMVVYFKK</span><span class="topo-outside">KK</span><span class="topo-unknown">WL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GSHM</span><span class="topo-outside">DFEIEVMNYSIEEFREFKTTDVESVLPFRDSSTPTWINITGIHRTDVVQRVGEFFGIHPLVLEDILNVHQRPKVEFFENYVFIVLKMFTYDKNLHELESEQVSLILTKNCVLMFQE</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">KIGDVFDPVRERIRYNRGIIRKKRADYLLYSLIDALVDDYFVLLEKIDDEIDVLEEEVLERPEKETVQRTHQLKRNLVELAATIWPLREVLSSLYRDVPPLIEKETVPYFRDVYDHTIQI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330</span>
+<span class="topo-line"><span class="topo-outside">ADTVETFRDIVSGLLDVYLSSVSNKTNEVMK</span><span class="topo-membrane">VLTIIATIFMPLTFIAGI</span><span class="topo-inside">YGMNF</span><span class="topo-unknown">EYMPELRWKW</span><span class="topo-inside">GYPV</span><span class="topo-membrane">VLAVMGVIAVIMVVYFKK</span><span class="topo-outside">KK</span><span class="topo-unknown">WL</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -380,6 +385,7 @@ CorA from Thermotoga maritima (TmCorA) is a homopentameric magnesium ion channel
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -395,12 +401,13 @@ CorA from Thermotoga maritima (TmCorA) is a homopentameric magnesium ion channel
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GSHM</span><span class="topo-outside">DFEIEVMNYSIEEFREFKTTDVESVLPFRDSSTPTWINITGIHRTDVVQRVGEFFG</span></span>
-<span class="topo-line"><span class="topo-outside">IHPLVLEDILNVHQRPKVEFFENYVFIVLKMFTYDKNLHELESEQVSLILTKNCVLMFQE</span></span>
-<span class="topo-line"><span class="topo-outside">KIGDVFDPVRERIRYNRGIIRKKRADYLLYSLIDALVDDYFVLLEKIDDEIDVLEEEVLE</span></span>
-<span class="topo-line"><span class="topo-outside">RPEKETVQRTHQLKRNLVELAATIWPLREVLSSLYRDVPPLIEKETVPYFRDVYDHTIQI</span></span>
-<span class="topo-line"><span class="topo-outside">ADTVETFRDIVSGLLDVYLSSVSNKTNEVMK</span><span class="topo-membrane">VLTIIATIFMPLTFIAGI</span><span class="topo-inside">YGMNF</span><span class="topo-unknown">EYMPEL</span></span>
-<span class="topo-line"><span class="topo-unknown">RWKW</span><span class="topo-inside">GYPV</span><span class="topo-membrane">VLAVMGVIAVIMVVYFKK</span><span class="topo-outside">KK</span><span class="topo-unknown">WL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GSHM</span><span class="topo-outside">DFEIEVMNYSIEEFREFKTTDVESVLPFRDSSTPTWINITGIHRTDVVQRVGEFFGIHPLVLEDILNVHQRPKVEFFENYVFIVLKMFTYDKNLHELESEQVSLILTKNCVLMFQE</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">KIGDVFDPVRERIRYNRGIIRKKRADYLLYSLIDALVDDYFVLLEKIDDEIDVLEEEVLERPEKETVQRTHQLKRNLVELAATIWPLREVLSSLYRDVPPLIEKETVPYFRDVYDHTIQI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330</span>
+<span class="topo-line"><span class="topo-outside">ADTVETFRDIVSGLLDVYLSSVSNKTNEVMK</span><span class="topo-membrane">VLTIIATIFMPLTFIAGI</span><span class="topo-inside">YGMNF</span><span class="topo-unknown">EYMPELRWKW</span><span class="topo-inside">GYPV</span><span class="topo-membrane">VLAVMGVIAVIMVVYFKK</span><span class="topo-outside">KK</span><span class="topo-unknown">WL</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -475,6 +482,7 @@ CorA from Thermotoga maritima (TmCorA) is a homopentameric magnesium ion channel
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -490,12 +498,13 @@ CorA from Thermotoga maritima (TmCorA) is a homopentameric magnesium ion channel
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GSHM</span><span class="topo-outside">DFEIEVMNYSIEEFREFKTTDVESVLPFRDSSTPTWINITGIHRTDVVQRVGEFFG</span></span>
-<span class="topo-line"><span class="topo-outside">IHPLVLEDILNVHQRPKVEFFENYVFIVLKMFTYDKNLHELESEQVSLILTKNCVLMFQE</span></span>
-<span class="topo-line"><span class="topo-outside">KIGDVFDPVRERIRYNRGIIRKKRADYLLYSLIDALVDDYFVLLEKIDDEIDVLEEEVLE</span></span>
-<span class="topo-line"><span class="topo-outside">RPEKETVQRTHQLKRNLVELAATIWPLREVLSSLYRDVPPLIEKETVPYFRDVYDHTIQI</span></span>
-<span class="topo-line"><span class="topo-outside">ADTVETFRDIVSGLLDVYLSSVSNKTNEVMK</span><span class="topo-membrane">VLTIIATIFMPLTFIAGIY</span><span class="topo-inside">GMNF</span><span class="topo-unknown">EYMPEL</span></span>
-<span class="topo-line"><span class="topo-unknown">RWKW</span><span class="topo-inside">GYP</span><span class="topo-membrane">VVLAVMGVIAVIMVVYFK</span><span class="topo-outside">KKK</span><span class="topo-unknown">WL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GSHM</span><span class="topo-outside">DFEIEVMNYSIEEFREFKTTDVESVLPFRDSSTPTWINITGIHRTDVVQRVGEFFGIHPLVLEDILNVHQRPKVEFFENYVFIVLKMFTYDKNLHELESEQVSLILTKNCVLMFQE</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">KIGDVFDPVRERIRYNRGIIRKKRADYLLYSLIDALVDDYFVLLEKIDDEIDVLEEEVLERPEKETVQRTHQLKRNLVELAATIWPLREVLSSLYRDVPPLIEKETVPYFRDVYDHTIQI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330</span>
+<span class="topo-line"><span class="topo-outside">ADTVETFRDIVSGLLDVYLSSVSNKTNEVMK</span><span class="topo-membrane">VLTIIATIFMPLTFIAGIY</span><span class="topo-inside">GMNF</span><span class="topo-unknown">EYMPELRWKW</span><span class="topo-inside">GYP</span><span class="topo-membrane">VVLAVMGVIAVIMVVYFK</span><span class="topo-outside">KKK</span><span class="topo-unknown">WL</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -570,6 +579,7 @@ CorA from Thermotoga maritima (TmCorA) is a homopentameric magnesium ion channel
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -585,12 +595,13 @@ CorA from Thermotoga maritima (TmCorA) is a homopentameric magnesium ion channel
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GSHM</span><span class="topo-outside">DFEIEVMNYSIEEFREFKTTDVESVLPFRDSSTPTWINITGIHRTDVVQRVGEFFG</span></span>
-<span class="topo-line"><span class="topo-outside">IHPLVLEDILNVHQRPKVEFFENYVFIVLKMFTYDKNLHELESEQVSLILTKNCVLMFQE</span></span>
-<span class="topo-line"><span class="topo-outside">KIGDVFDPVRERIRYNRGIIRKKRADYLLYSLIDALVDDYFVLLEKIDDEIDVLEEEVLE</span></span>
-<span class="topo-line"><span class="topo-outside">RPEKETVQRTHQLKRNLVELAATIWPLREVLSSLYRDVPPLIEKETVPYFRDVYDHTIQI</span></span>
-<span class="topo-line"><span class="topo-outside">ADTVETFRDIVSGLLDVYLSSVSNKTNEVMK</span><span class="topo-membrane">VLTIIATIFMPLTFIAGIY</span><span class="topo-inside">GMNF</span><span class="topo-unknown">EYMPEL</span></span>
-<span class="topo-line"><span class="topo-unknown">RWKW</span><span class="topo-inside">GYPV</span><span class="topo-membrane">VLAVMGVIAVIMVVYFK</span><span class="topo-outside">KKK</span><span class="topo-unknown">WL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GSHM</span><span class="topo-outside">DFEIEVMNYSIEEFREFKTTDVESVLPFRDSSTPTWINITGIHRTDVVQRVGEFFGIHPLVLEDILNVHQRPKVEFFENYVFIVLKMFTYDKNLHELESEQVSLILTKNCVLMFQE</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">KIGDVFDPVRERIRYNRGIIRKKRADYLLYSLIDALVDDYFVLLEKIDDEIDVLEEEVLERPEKETVQRTHQLKRNLVELAATIWPLREVLSSLYRDVPPLIEKETVPYFRDVYDHTIQI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330</span>
+<span class="topo-line"><span class="topo-outside">ADTVETFRDIVSGLLDVYLSSVSNKTNEVMK</span><span class="topo-membrane">VLTIIATIFMPLTFIAGIY</span><span class="topo-inside">GMNF</span><span class="topo-unknown">EYMPELRWKW</span><span class="topo-inside">GYPV</span><span class="topo-membrane">VLAVMGVIAVIMVVYFK</span><span class="topo-outside">KKK</span><span class="topo-unknown">WL</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -665,6 +676,7 @@ CorA from Thermotoga maritima (TmCorA) is a homopentameric magnesium ion channel
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -680,12 +692,13 @@ CorA from Thermotoga maritima (TmCorA) is a homopentameric magnesium ion channel
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GSHM</span><span class="topo-outside">DFEIEVMNYSIEEFREFKTTDVESVLPFRDSSTPTWINITGIHRTDVVQRVGEFFG</span></span>
-<span class="topo-line"><span class="topo-outside">IHPLVLEDILNVHQRPKVEFFENYVFIVLKMFTYDKNLHELESEQVSLILTKNCVLMFQE</span></span>
-<span class="topo-line"><span class="topo-outside">KIGDVFDPVRERIRYNRGIIRKKRADYLLYSLIDALVDDYFVLLEKIDDEIDVLEEEVLE</span></span>
-<span class="topo-line"><span class="topo-outside">RPEKETVQRTHQLKRNLVELAATIWPLREVLSSLYRDVPPLIEKETVPYFRDVYDHTIQI</span></span>
-<span class="topo-line"><span class="topo-outside">ADTVETFRDIVSGLLDVYLSSVSNKTNEVMK</span><span class="topo-membrane">VLTIIATIFMPLTFIAGIY</span><span class="topo-inside">GMNFEY</span><span class="topo-unknown">MPEL</span></span>
-<span class="topo-line"><span class="topo-unknown">RWKW</span><span class="topo-inside">GYPV</span><span class="topo-membrane">VLAVMGVIAVIMVVYFKK</span><span class="topo-outside">KK</span><span class="topo-unknown">WL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GSHM</span><span class="topo-outside">DFEIEVMNYSIEEFREFKTTDVESVLPFRDSSTPTWINITGIHRTDVVQRVGEFFGIHPLVLEDILNVHQRPKVEFFENYVFIVLKMFTYDKNLHELESEQVSLILTKNCVLMFQE</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">KIGDVFDPVRERIRYNRGIIRKKRADYLLYSLIDALVDDYFVLLEKIDDEIDVLEEEVLERPEKETVQRTHQLKRNLVELAATIWPLREVLSSLYRDVPPLIEKETVPYFRDVYDHTIQI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330</span>
+<span class="topo-line"><span class="topo-outside">ADTVETFRDIVSGLLDVYLSSVSNKTNEVMK</span><span class="topo-membrane">VLTIIATIFMPLTFIAGIY</span><span class="topo-inside">GMNFEY</span><span class="topo-unknown">MPELRWKW</span><span class="topo-inside">GYPV</span><span class="topo-membrane">VLAVMGVIAVIMVVYFKK</span><span class="topo-outside">KK</span><span class="topo-unknown">WL</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -760,6 +773,7 @@ CorA from Thermotoga maritima (TmCorA) is a homopentameric magnesium ion channel
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -775,12 +789,13 @@ CorA from Thermotoga maritima (TmCorA) is a homopentameric magnesium ion channel
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GSHM</span><span class="topo-outside">DFEIEVMNYSIEEFREFKTTDVESVLPFRDSSTPTWINITGIHRTDVVQRVGEFFG</span></span>
-<span class="topo-line"><span class="topo-outside">IHPLVLEDILNVHQRPKVEFFENYVFIVLKMFTYDKNLHELESEQVSLILTKNCVLMFQE</span></span>
-<span class="topo-line"><span class="topo-outside">KIGDVFDPVRERIRYNRGIIRKKRADYLLYSLIDALVDDYFVLLEKIDDEIDVLEEEVLE</span></span>
-<span class="topo-line"><span class="topo-outside">RPEKETVQRTHQLKRNLVELAATIWPLREVLSSLYRDVPPLIEKETVPYFRDVYDHTIQI</span></span>
-<span class="topo-line"><span class="topo-outside">ADTVETFRDIVSGLLDVYLSSVSNKTNEVMK</span><span class="topo-membrane">VLTIIATIFMPLTFIAGI</span><span class="topo-inside">YGMNF</span><span class="topo-unknown">EYMPEL</span></span>
-<span class="topo-line"><span class="topo-unknown">RWKW</span><span class="topo-inside">GYPV</span><span class="topo-membrane">VLAVMGVIAVIMVVYFKK</span><span class="topo-outside">KK</span><span class="topo-unknown">WL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GSHM</span><span class="topo-outside">DFEIEVMNYSIEEFREFKTTDVESVLPFRDSSTPTWINITGIHRTDVVQRVGEFFGIHPLVLEDILNVHQRPKVEFFENYVFIVLKMFTYDKNLHELESEQVSLILTKNCVLMFQE</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">KIGDVFDPVRERIRYNRGIIRKKRADYLLYSLIDALVDDYFVLLEKIDDEIDVLEEEVLERPEKETVQRTHQLKRNLVELAATIWPLREVLSSLYRDVPPLIEKETVPYFRDVYDHTIQI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330</span>
+<span class="topo-line"><span class="topo-outside">ADTVETFRDIVSGLLDVYLSSVSNKTNEVMK</span><span class="topo-membrane">VLTIIATIFMPLTFIAGI</span><span class="topo-inside">YGMNF</span><span class="topo-unknown">EYMPELRWKW</span><span class="topo-inside">GYPV</span><span class="topo-membrane">VLAVMGVIAVIMVVYFKK</span><span class="topo-outside">KK</span><span class="topo-unknown">WL</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -855,6 +870,7 @@ CorA from Thermotoga maritima (TmCorA) is a homopentameric magnesium ion channel
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -870,12 +886,13 @@ CorA from Thermotoga maritima (TmCorA) is a homopentameric magnesium ion channel
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GSHM</span><span class="topo-outside">DFEIEVMNYSIEEFREFKTTDVESVLPFRDSSTPTWINITGIHRTDVVQRVGEFFG</span></span>
-<span class="topo-line"><span class="topo-outside">IHPLVLEDILNVHQRPKVEFFENYVFIVLKMFTYDKNLHELESEQVSLILTKNCVLMFQE</span></span>
-<span class="topo-line"><span class="topo-outside">KIGDVFDPVRERIRYNRGIIRKKRADYLLYSLIDALVDDYFVLLEKIDDEIDVLEEEVLE</span></span>
-<span class="topo-line"><span class="topo-outside">RPEKETVQRTHQLKRNLVELAATIWPLREVLSSLYRDVPPLIEKETVPYFRDVYDHTIQI</span></span>
-<span class="topo-line"><span class="topo-outside">ADTVETFRDIVSGLLDVYLSSVSNKTNEVMK</span><span class="topo-membrane">VLTIIATIFMPLTFIAGI</span><span class="topo-inside">YGMNF</span><span class="topo-unknown">EYMPEL</span></span>
-<span class="topo-line"><span class="topo-unknown">RWKW</span><span class="topo-inside">GYPV</span><span class="topo-membrane">VLAVMGVIAVIMVVYFKK</span><span class="topo-outside">KK</span><span class="topo-unknown">WL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GSHM</span><span class="topo-outside">DFEIEVMNYSIEEFREFKTTDVESVLPFRDSSTPTWINITGIHRTDVVQRVGEFFGIHPLVLEDILNVHQRPKVEFFENYVFIVLKMFTYDKNLHELESEQVSLILTKNCVLMFQE</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">KIGDVFDPVRERIRYNRGIIRKKRADYLLYSLIDALVDDYFVLLEKIDDEIDVLEEEVLERPEKETVQRTHQLKRNLVELAATIWPLREVLSSLYRDVPPLIEKETVPYFRDVYDHTIQI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330</span>
+<span class="topo-line"><span class="topo-outside">ADTVETFRDIVSGLLDVYLSSVSNKTNEVMK</span><span class="topo-membrane">VLTIIATIFMPLTFIAGI</span><span class="topo-inside">YGMNF</span><span class="topo-unknown">EYMPELRWKW</span><span class="topo-inside">GYPV</span><span class="topo-membrane">VLAVMGVIAVIMVVYFKK</span><span class="topo-outside">KK</span><span class="topo-unknown">WL</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -950,6 +967,7 @@ CorA from Thermotoga maritima (TmCorA) is a homopentameric magnesium ion channel
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -965,12 +983,13 @@ CorA from Thermotoga maritima (TmCorA) is a homopentameric magnesium ion channel
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GSHM</span><span class="topo-outside">DFEIEVMNYSIEEFREFKTTDVESVLPFRDSSTPTWINITGIHRTDVVQRVGEFFG</span></span>
-<span class="topo-line"><span class="topo-outside">IHPLVLEDILNVHQRPKVEFFENYVFIVLKMFTYDKNLHELESEQVSLILTKNCVLMFQE</span></span>
-<span class="topo-line"><span class="topo-outside">KIGDVFDPVRERIRYNRGIIRKKRADYLLYSLIDALVDDYFVLLEKIDDEIDVLEEEVLE</span></span>
-<span class="topo-line"><span class="topo-outside">RPEKETVQRTHQLKRNLVELAATIWPLREVLSSLYRDVPPLIEKETVPYFRDVYDHTIQI</span></span>
-<span class="topo-line"><span class="topo-outside">ADTVETFRDIVSGLLDVYLSSVSNKTNEVMK</span><span class="topo-membrane">VLTIIATIFMPLTFIAGIY</span><span class="topo-inside">GMNF</span><span class="topo-unknown">EYMPEL</span></span>
-<span class="topo-line"><span class="topo-unknown">RWKW</span><span class="topo-inside">GYP</span><span class="topo-membrane">VVLAVMGVIAVIMVVYFK</span><span class="topo-outside">KKK</span><span class="topo-unknown">WL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GSHM</span><span class="topo-outside">DFEIEVMNYSIEEFREFKTTDVESVLPFRDSSTPTWINITGIHRTDVVQRVGEFFGIHPLVLEDILNVHQRPKVEFFENYVFIVLKMFTYDKNLHELESEQVSLILTKNCVLMFQE</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">KIGDVFDPVRERIRYNRGIIRKKRADYLLYSLIDALVDDYFVLLEKIDDEIDVLEEEVLERPEKETVQRTHQLKRNLVELAATIWPLREVLSSLYRDVPPLIEKETVPYFRDVYDHTIQI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330</span>
+<span class="topo-line"><span class="topo-outside">ADTVETFRDIVSGLLDVYLSSVSNKTNEVMK</span><span class="topo-membrane">VLTIIATIFMPLTFIAGIY</span><span class="topo-inside">GMNF</span><span class="topo-unknown">EYMPELRWKW</span><span class="topo-inside">GYP</span><span class="topo-membrane">VVLAVMGVIAVIMVVYFK</span><span class="topo-outside">KKK</span><span class="topo-unknown">WL</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1045,6 +1064,7 @@ CorA from Thermotoga maritima (TmCorA) is a homopentameric magnesium ion channel
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

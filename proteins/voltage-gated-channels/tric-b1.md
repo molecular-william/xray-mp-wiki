@@ -145,11 +145,13 @@ TRIC-B1 is an intracellular cation channel from Caenorhabditis elegans belonging
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MVVPESF</span><span class="topo-outside">QLDQEILLDAGAQLHRLKM</span><span class="topo-membrane">YPYFDVAHYLLMIIEV</span><span class="topo-inside">RDDLGSAASIFSRKH</span><span class="topo-membrane">PLS</span></span>
-<span class="topo-line"><span class="topo-membrane">CWLSSMLMCFADAFLANFL</span><span class="topo-outside">LGEPVIAPFKRHDD</span><span class="topo-membrane">IILATIIWYLVFYAP</span><span class="topo-inside">FDGIYKIAKITP</span></span>
-<span class="topo-line"><span class="topo-membrane">VKCVLAVMKEVKRAYKV</span><span class="topo-outside">SHGVSHAAKLYPNSYIVQV</span><span class="topo-membrane">LVGTAKGAGSGIVRTLEQLVR</span><span class="topo-inside">GVW</span></span>
-<span class="topo-line"><span class="topo-inside">LPTHNELLR</span><span class="topo-membrane">PSFATKACVVAASV</span><span class="topo-outside">LALEKSGTYLTAPHDLVYL</span><span class="topo-membrane">VIVGFFVYFKLSAV</span><span class="topo-inside">ILH</span><span class="topo-unknown">V</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MVVPESF</span><span class="topo-outside">QLDQEILLDAGAQLHRLKM</span><span class="topo-membrane">YPYFDVAHYLLMIIEV</span><span class="topo-inside">RDDLGSAASIFSRKH</span><span class="topo-membrane">PLSCWLSSMLMCFADAFLANFL</span><span class="topo-outside">LGEPVIAPFKRHDD</span><span class="topo-membrane">IILATIIWYLVFYAP</span><span class="topo-inside">FDGIYKIAKITP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">VKCVLAVMKEVKRAYKV</span><span class="topo-outside">SHGVSHAAKLYPNSYIVQV</span><span class="topo-membrane">LVGTAKGAGSGIVRTLEQLVR</span><span class="topo-inside">GVWLPTHNELLR</span><span class="topo-membrane">PSFATKACVVAASV</span><span class="topo-outside">LALEKSGTYLTAPHDLVYL</span><span class="topo-membrane">VIVGFFVYFKLSAV</span><span class="topo-inside">ILH</span><span class="topo-unknown">V</span></span>
+<span class="topo-ruler">       250       </span>
 <span class="topo-line"><span class="topo-unknown">TDPFAPIENLFHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -280,6 +282,7 @@ TRIC-B1 is an intracellular cation channel from Caenorhabditis elegans belonging
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -295,11 +298,13 @@ TRIC-B1 is an intracellular cation channel from Caenorhabditis elegans belonging
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MVVPESFQL</span><span class="topo-outside">DQEILLDAGAQLHRLKM</span><span class="topo-membrane">YPYFDVAHYLLMIIEVR</span><span class="topo-inside">DDLGSAASIFS</span><span class="topo-membrane">RKHPLS</span></span>
-<span class="topo-line"><span class="topo-membrane">CWLSSMLMCFADAFLANFL</span><span class="topo-outside">LGEPVIAPFKRHDD</span><span class="topo-membrane">IILATIIWYLVFYAP</span><span class="topo-inside">FDGIYKIAKITP</span></span>
-<span class="topo-line"><span class="topo-membrane">VKCVLAVMKEVKRAYKVS</span><span class="topo-outside">HGVSHAAKLYPNSYIVQV</span><span class="topo-membrane">LVGTAKGAGSGIVRTLEQLVR</span><span class="topo-inside">GVW</span></span>
-<span class="topo-line"><span class="topo-inside">LPTHNELLR</span><span class="topo-membrane">PSFATKACVVAASV</span><span class="topo-outside">LALEKSGTYLTAPHDLVY</span><span class="topo-membrane">LVIVGFFVYFKLSAV</span><span class="topo-inside">ILHV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MVVPESFQL</span><span class="topo-outside">DQEILLDAGAQLHRLKM</span><span class="topo-membrane">YPYFDVAHYLLMIIEVR</span><span class="topo-inside">DDLGSAASIFS</span><span class="topo-membrane">RKHPLSCWLSSMLMCFADAFLANFL</span><span class="topo-outside">LGEPVIAPFKRHDD</span><span class="topo-membrane">IILATIIWYLVFYAP</span><span class="topo-inside">FDGIYKIAKITP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">VKCVLAVMKEVKRAYKVS</span><span class="topo-outside">HGVSHAAKLYPNSYIVQV</span><span class="topo-membrane">LVGTAKGAGSGIVRTLEQLVR</span><span class="topo-inside">GVWLPTHNELLR</span><span class="topo-membrane">PSFATKACVVAASV</span><span class="topo-outside">LALEKSGTYLTAPHDLVY</span><span class="topo-membrane">LVIVGFFVYFKLSAV</span><span class="topo-inside">ILHV</span></span>
+<span class="topo-ruler">       250       </span>
 <span class="topo-line"><span class="topo-inside">TD</span><span class="topo-unknown">PFAPIENLFHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -430,6 +435,7 @@ TRIC-B1 is an intracellular cation channel from Caenorhabditis elegans belonging
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -445,11 +451,13 @@ TRIC-B1 is an intracellular cation channel from Caenorhabditis elegans belonging
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MVVPESF</span><span class="topo-outside">QLDQEILLDAGAQLHRLKM</span><span class="topo-membrane">YPYFDVAHYLLMIIEV</span><span class="topo-inside">RDDLGSAASIFSRKH</span><span class="topo-membrane">PLS</span></span>
-<span class="topo-line"><span class="topo-membrane">CWLSSMLMCFADAFLANFLL</span><span class="topo-outside">GEPVIAPFKRHD</span><span class="topo-membrane">DIILATIIWYLVFYAP</span><span class="topo-inside">FDGIYKIAKITP</span></span>
-<span class="topo-line"><span class="topo-membrane">VKCVLAVMKEVKRAYKVS</span><span class="topo-outside">HGVSHAAKLYPNSYI</span><span class="topo-membrane">VQVLVGTAKGAGSGIVRTLEQLVR</span><span class="topo-inside">GVW</span></span>
-<span class="topo-line"><span class="topo-inside">LPTHNELLR</span><span class="topo-membrane">PSFATKACVVAASV</span><span class="topo-outside">LALEKSGTYLTAPHDLV</span><span class="topo-membrane">YLVIVGFFVYFKLS</span><span class="topo-inside">AVILH</span><span class="topo-unknown">V</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MVVPESF</span><span class="topo-outside">QLDQEILLDAGAQLHRLKM</span><span class="topo-membrane">YPYFDVAHYLLMIIEV</span><span class="topo-inside">RDDLGSAASIFSRKH</span><span class="topo-membrane">PLSCWLSSMLMCFADAFLANFLL</span><span class="topo-outside">GEPVIAPFKRHD</span><span class="topo-membrane">DIILATIIWYLVFYAP</span><span class="topo-inside">FDGIYKIAKITP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">VKCVLAVMKEVKRAYKVS</span><span class="topo-outside">HGVSHAAKLYPNSYI</span><span class="topo-membrane">VQVLVGTAKGAGSGIVRTLEQLVR</span><span class="topo-inside">GVWLPTHNELLR</span><span class="topo-membrane">PSFATKACVVAASV</span><span class="topo-outside">LALEKSGTYLTAPHDLV</span><span class="topo-membrane">YLVIVGFFVYFKLS</span><span class="topo-inside">AVILH</span><span class="topo-unknown">V</span></span>
+<span class="topo-ruler">       250       </span>
 <span class="topo-line"><span class="topo-unknown">TDPFAPIENLFHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -580,6 +588,7 @@ TRIC-B1 is an intracellular cation channel from Caenorhabditis elegans belonging
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

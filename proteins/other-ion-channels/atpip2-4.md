@@ -144,11 +144,13 @@ AtPIP2;4 is a plasma membrane intrinsic protein (PIP) [Aquaporin](/xray-mp-wiki/
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MEE</span><span class="topo-inside">LRKWPLYRA</span><span class="topo-membrane">VIAEFVATLLFLYVSILTV</span><span class="topo-outside">IGYKAQTDATAGGVDCGGVGIL</span><span class="topo-membrane">GIAWAFG</span></span>
-<span class="topo-line"><span class="topo-membrane">GMIFVLVYCTA</span><span class="topo-inside">GIS</span><span class="topo-unknown">GGHINPAVTVGLFL</span><span class="topo-inside">ARKVSLV</span><span class="topo-membrane">RTVLYIVAQCLGAICGCGFV</span><span class="topo-outside">KAFQS</span></span>
-<span class="topo-line"><span class="topo-outside">SYYTRYGGGANELADGYNKG</span><span class="topo-membrane">TGLGAEIIGTFVLVYTVFSA</span><span class="topo-inside">TDPKRNARDSHVPVL</span><span class="topo-membrane">APLPI</span></span>
-<span class="topo-line"><span class="topo-membrane">GFAVFMVHLATI</span><span class="topo-outside">PIT</span><span class="topo-unknown">GTGINPARSFGAAVI</span><span class="topo-outside">YNNEKAWDDQ</span><span class="topo-membrane">WIFWVGPMIGAAAAAFYH</span><span class="topo-inside">QF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MEE</span><span class="topo-inside">LRKWPLYRA</span><span class="topo-membrane">VIAEFVATLLFLYVSILTV</span><span class="topo-outside">IGYKAQTDATAGGVDCGGVGIL</span><span class="topo-membrane">GIAWAFGGMIFVLVYCTA</span><span class="topo-inside">GIS</span><span class="topo-unknown">GGHINPAVTVGLFL</span><span class="topo-inside">ARKVSLV</span><span class="topo-membrane">RTVLYIVAQCLGAICGCGFV</span><span class="topo-outside">KAFQS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">SYYTRYGGGANELADGYNKG</span><span class="topo-membrane">TGLGAEIIGTFVLVYTVFSA</span><span class="topo-inside">TDPKRNARDSHVPVL</span><span class="topo-membrane">APLPIGFAVFMVHLATI</span><span class="topo-outside">PIT</span><span class="topo-unknown">GTGINPARSFGAAVI</span><span class="topo-outside">YNNEKAWDDQ</span><span class="topo-membrane">WIFWVGPMIGAAAAAFYH</span><span class="topo-inside">QF</span></span>
+<span class="topo-ruler">       250         </span>
 <span class="topo-line"><span class="topo-inside">ILRAAA</span><span class="topo-unknown">IKALGHHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -279,6 +281,7 @@ AtPIP2;4 is a plasma membrane intrinsic protein (PIP) [Aquaporin](/xray-mp-wiki/
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -294,11 +297,13 @@ AtPIP2;4 is a plasma membrane intrinsic protein (PIP) [Aquaporin](/xray-mp-wiki/
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MEE</span><span class="topo-inside">LRKWPLYRA</span><span class="topo-membrane">VIAEFVATLLFLYVSILT</span><span class="topo-outside">VIGYKAQTDATAGGVDCGGVGIL</span><span class="topo-membrane">GIAWAFG</span></span>
-<span class="topo-line"><span class="topo-membrane">GMIFVLVYCTA</span><span class="topo-inside">GIS</span><span class="topo-unknown">GGHINPAVTVGLFL</span><span class="topo-inside">ARKVSLVRT</span><span class="topo-membrane">VLYIVAQCLGAICGCGFV</span><span class="topo-outside">KAFQS</span></span>
-<span class="topo-line"><span class="topo-outside">SYYTRYGGGANELADGYNKG</span><span class="topo-membrane">TGLGAEIIGTFVLVYTVFSA</span><span class="topo-inside">TDPKRNARDSHVPVLA</span><span class="topo-membrane">PLPI</span></span>
-<span class="topo-line"><span class="topo-membrane">GFAVFMVHLATI</span><span class="topo-outside">PIT</span><span class="topo-unknown">GTGINPARSFGAAVI</span><span class="topo-outside">YNNEKAWDDQ</span><span class="topo-membrane">WIFWVGPMIGAAAAAFYH</span><span class="topo-inside">QF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MEE</span><span class="topo-inside">LRKWPLYRA</span><span class="topo-membrane">VIAEFVATLLFLYVSILT</span><span class="topo-outside">VIGYKAQTDATAGGVDCGGVGIL</span><span class="topo-membrane">GIAWAFGGMIFVLVYCTA</span><span class="topo-inside">GIS</span><span class="topo-unknown">GGHINPAVTVGLFL</span><span class="topo-inside">ARKVSLVRT</span><span class="topo-membrane">VLYIVAQCLGAICGCGFV</span><span class="topo-outside">KAFQS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">SYYTRYGGGANELADGYNKG</span><span class="topo-membrane">TGLGAEIIGTFVLVYTVFSA</span><span class="topo-inside">TDPKRNARDSHVPVLA</span><span class="topo-membrane">PLPIGFAVFMVHLATI</span><span class="topo-outside">PIT</span><span class="topo-unknown">GTGINPARSFGAAVI</span><span class="topo-outside">YNNEKAWDDQ</span><span class="topo-membrane">WIFWVGPMIGAAAAAFYH</span><span class="topo-inside">QF</span></span>
+<span class="topo-ruler">       250         </span>
 <span class="topo-line"><span class="topo-inside">ILRAAAI</span><span class="topo-unknown">KALGHHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -429,6 +434,7 @@ AtPIP2;4 is a plasma membrane intrinsic protein (PIP) [Aquaporin](/xray-mp-wiki/
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -444,11 +450,13 @@ AtPIP2;4 is a plasma membrane intrinsic protein (PIP) [Aquaporin](/xray-mp-wiki/
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MEE</span><span class="topo-inside">LRKWPLYRA</span><span class="topo-membrane">VIAEFVATLLFLYVSILTV</span><span class="topo-outside">IGYKAQTDATAGGVDCGGVGIL</span><span class="topo-membrane">GIAWAFG</span></span>
-<span class="topo-line"><span class="topo-membrane">GMIFVLVYCTA</span><span class="topo-inside">GIS</span><span class="topo-unknown">GGHINPAVTVGLFL</span><span class="topo-inside">ARKVSLV</span><span class="topo-membrane">RTVLYIVAQCLGAICGCGFV</span><span class="topo-outside">KAFQS</span></span>
-<span class="topo-line"><span class="topo-outside">SYYTRYGGGANELADGYNKG</span><span class="topo-membrane">TGLGAEIIGTFVLVYTVFSA</span><span class="topo-inside">TDPKRNARDSHVPVL</span><span class="topo-membrane">APLPI</span></span>
-<span class="topo-line"><span class="topo-membrane">GFAVFMVHLATI</span><span class="topo-outside">PIT</span><span class="topo-unknown">GTGINPARSFGAAVI</span><span class="topo-outside">YNNEKAWDDQ</span><span class="topo-membrane">WIFWVGPMIGAAAAAFYH</span><span class="topo-inside">QF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MEE</span><span class="topo-inside">LRKWPLYRA</span><span class="topo-membrane">VIAEFVATLLFLYVSILTV</span><span class="topo-outside">IGYKAQTDATAGGVDCGGVGIL</span><span class="topo-membrane">GIAWAFGGMIFVLVYCTA</span><span class="topo-inside">GIS</span><span class="topo-unknown">GGHINPAVTVGLFL</span><span class="topo-inside">ARKVSLV</span><span class="topo-membrane">RTVLYIVAQCLGAICGCGFV</span><span class="topo-outside">KAFQS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">SYYTRYGGGANELADGYNKG</span><span class="topo-membrane">TGLGAEIIGTFVLVYTVFSA</span><span class="topo-inside">TDPKRNARDSHVPVL</span><span class="topo-membrane">APLPIGFAVFMVHLATI</span><span class="topo-outside">PIT</span><span class="topo-unknown">GTGINPARSFGAAVI</span><span class="topo-outside">YNNEKAWDDQ</span><span class="topo-membrane">WIFWVGPMIGAAAAAFYH</span><span class="topo-inside">QF</span></span>
+<span class="topo-ruler">       250         </span>
 <span class="topo-line"><span class="topo-inside">ILRAAA</span><span class="topo-unknown">IKALGHHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -579,6 +587,7 @@ AtPIP2;4 is a plasma membrane intrinsic protein (PIP) [Aquaporin](/xray-mp-wiki/
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -594,11 +603,13 @@ AtPIP2;4 is a plasma membrane intrinsic protein (PIP) [Aquaporin](/xray-mp-wiki/
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MEE</span><span class="topo-inside">LRKWPLYRA</span><span class="topo-membrane">VIAEFVATLLFLYVSILT</span><span class="topo-outside">VIGYKAQTDATAGGVDCGGVGIL</span><span class="topo-membrane">GIAWAFG</span></span>
-<span class="topo-line"><span class="topo-membrane">GMIFVLVYCTA</span><span class="topo-inside">GIS</span><span class="topo-unknown">GGHINPAVTVGLFL</span><span class="topo-inside">ARKVSLVRT</span><span class="topo-membrane">VLYIVAQCLGAICGCGFV</span><span class="topo-outside">KAFQS</span></span>
-<span class="topo-line"><span class="topo-outside">SYYTRYGGGANELADGYNKG</span><span class="topo-membrane">TGLGAEIIGTFVLVYTVFSA</span><span class="topo-inside">TDPKRNARDSHVPVLA</span><span class="topo-membrane">PLPI</span></span>
-<span class="topo-line"><span class="topo-membrane">GFAVFMVHLATI</span><span class="topo-outside">PIT</span><span class="topo-unknown">GTGINPARSFGAAVI</span><span class="topo-outside">YNNEKAWDDQ</span><span class="topo-membrane">WIFWVGPMIGAAAAAFYH</span><span class="topo-inside">QF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MEE</span><span class="topo-inside">LRKWPLYRA</span><span class="topo-membrane">VIAEFVATLLFLYVSILT</span><span class="topo-outside">VIGYKAQTDATAGGVDCGGVGIL</span><span class="topo-membrane">GIAWAFGGMIFVLVYCTA</span><span class="topo-inside">GIS</span><span class="topo-unknown">GGHINPAVTVGLFL</span><span class="topo-inside">ARKVSLVRT</span><span class="topo-membrane">VLYIVAQCLGAICGCGFV</span><span class="topo-outside">KAFQS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">SYYTRYGGGANELADGYNKG</span><span class="topo-membrane">TGLGAEIIGTFVLVYTVFSA</span><span class="topo-inside">TDPKRNARDSHVPVLA</span><span class="topo-membrane">PLPIGFAVFMVHLATI</span><span class="topo-outside">PIT</span><span class="topo-unknown">GTGINPARSFGAAVI</span><span class="topo-outside">YNNEKAWDDQ</span><span class="topo-membrane">WIFWVGPMIGAAAAAFYH</span><span class="topo-inside">QF</span></span>
+<span class="topo-ruler">       250         </span>
 <span class="topo-line"><span class="topo-inside">ILRAAAI</span><span class="topo-unknown">KALGHHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -729,6 +740,7 @@ AtPIP2;4 is a plasma membrane intrinsic protein (PIP) [Aquaporin](/xray-mp-wiki/
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

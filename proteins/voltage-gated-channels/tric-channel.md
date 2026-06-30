@@ -172,10 +172,11 @@ C-terminal GFP-His8 tag for purification and [FSEC](/xray-mp-wiki/methods/qualit
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MYM</span><span class="topo-membrane">ILELLNIIGIIAFTISGSL</span><span class="topo-inside">KGTNKGLDI</span><span class="topo-membrane">FGVVTLGVITSYAGGIIADIL</span><span class="topo-outside">LGIYPP</span><span class="topo-membrane">QI</span></span>
-<span class="topo-line"><span class="topo-membrane">LKELNYLLLSVGISIFV</span><span class="topo-inside">FYFYKWLQTNPIKMI</span><span class="topo-membrane">IAISDAVGLSTFATLGAS</span><span class="topo-outside">LAYSYGLNP</span><span class="topo-membrane">I</span></span>
-<span class="topo-line"><span class="topo-membrane">SVGLIAAIVGTGGGVIRDVL</span><span class="topo-inside">VNEIPMVLTK</span><span class="topo-membrane">EIYATAALLSGFIYYFT</span><span class="topo-outside">TPYLHHD</span><span class="topo-membrane">SLFVAF</span></span>
-<span class="topo-line"><span class="topo-membrane">LGSFLLRILSI</span><span class="topo-inside">KYNF</span><span class="topo-unknown">NLPLESLESSGENLYFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MYM</span><span class="topo-membrane">ILELLNIIGIIAFTISGSL</span><span class="topo-inside">KGTNKGLDI</span><span class="topo-membrane">FGVVTLGVITSYAGGIIADIL</span><span class="topo-outside">LGIYPP</span><span class="topo-membrane">QILKELNYLLLSVGISIFV</span><span class="topo-inside">FYFYKWLQTNPIKMI</span><span class="topo-membrane">IAISDAVGLSTFATLGAS</span><span class="topo-outside">LAYSYGLNP</span><span class="topo-membrane">I</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210  </span>
+<span class="topo-line"><span class="topo-membrane">SVGLIAAIVGTGGGVIRDVL</span><span class="topo-inside">VNEIPMVLTK</span><span class="topo-membrane">EIYATAALLSGFIYYFT</span><span class="topo-outside">TPYLHHD</span><span class="topo-membrane">SLFVAFLGSFLLRILSI</span><span class="topo-inside">KYNF</span><span class="topo-unknown">NLPLESLESSGENLYFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -292,6 +293,7 @@ C-terminal GFP-His8 tag for purification and [FSEC](/xray-mp-wiki/methods/qualit
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -307,10 +309,11 @@ C-terminal GFP-His8 tag for purification and [FSEC](/xray-mp-wiki/methods/qualit
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MYM</span><span class="topo-membrane">ILELLNIIGIIAFTISGSL</span><span class="topo-inside">KGTNKGLDI</span><span class="topo-membrane">FGVVTLGVITSYAGGIIADIL</span><span class="topo-outside">LGIYPP</span><span class="topo-membrane">QI</span></span>
-<span class="topo-line"><span class="topo-membrane">LKELNYLLLSVGISIFV</span><span class="topo-inside">FYFYKWLQTNPIKMII</span><span class="topo-membrane">AISDAVGLSTFATLGASLA</span><span class="topo-outside">YSYGLNP</span><span class="topo-membrane">I</span></span>
-<span class="topo-line"><span class="topo-membrane">SVGLIAAIVGTGGGVIRDVL</span><span class="topo-inside">VNEIPMVLTK</span><span class="topo-membrane">EIYATAALLSGFIYYFT</span><span class="topo-outside">TPYLHHD</span><span class="topo-membrane">SLFVAF</span></span>
-<span class="topo-line"><span class="topo-membrane">LGSFLLRILSI</span><span class="topo-inside">KYNF</span><span class="topo-unknown">NLPLESLESSGENLYFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MYM</span><span class="topo-membrane">ILELLNIIGIIAFTISGSL</span><span class="topo-inside">KGTNKGLDI</span><span class="topo-membrane">FGVVTLGVITSYAGGIIADIL</span><span class="topo-outside">LGIYPP</span><span class="topo-membrane">QILKELNYLLLSVGISIFV</span><span class="topo-inside">FYFYKWLQTNPIKMII</span><span class="topo-membrane">AISDAVGLSTFATLGASLA</span><span class="topo-outside">YSYGLNP</span><span class="topo-membrane">I</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210  </span>
+<span class="topo-line"><span class="topo-membrane">SVGLIAAIVGTGGGVIRDVL</span><span class="topo-inside">VNEIPMVLTK</span><span class="topo-membrane">EIYATAALLSGFIYYFT</span><span class="topo-outside">TPYLHHD</span><span class="topo-membrane">SLFVAFLGSFLLRILSI</span><span class="topo-inside">KYNF</span><span class="topo-unknown">NLPLESLESSGENLYFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -427,6 +430,7 @@ C-terminal GFP-His8 tag for purification and [FSEC](/xray-mp-wiki/methods/qualit
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -442,10 +446,11 @@ C-terminal GFP-His8 tag for purification and [FSEC](/xray-mp-wiki/methods/qualit
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MYM</span><span class="topo-membrane">ILELLNIIGIIAFTISGSL</span><span class="topo-inside">KGTNKGLDI</span><span class="topo-membrane">FGVVTLGVITSYAGGIIADIL</span><span class="topo-outside">LGIYPP</span><span class="topo-membrane">QI</span></span>
-<span class="topo-line"><span class="topo-membrane">LKELNYLLLSVGISIFV</span><span class="topo-inside">FYFYKWLQTNPIKMII</span><span class="topo-membrane">AISDAVGLSTFATLGASLA</span><span class="topo-outside">YSYGLNP</span><span class="topo-membrane">I</span></span>
-<span class="topo-line"><span class="topo-membrane">SVGLIAAIVGTGGGVIRDVL</span><span class="topo-inside">VNEIPMVLTK</span><span class="topo-membrane">EIYATAALLSGFIYYFT</span><span class="topo-outside">TPYLHHD</span><span class="topo-membrane">SLFVAF</span></span>
-<span class="topo-line"><span class="topo-membrane">LGSFLLRILS</span><span class="topo-inside">IKYNF</span><span class="topo-unknown">NLPLESLESSGENLYFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MYM</span><span class="topo-membrane">ILELLNIIGIIAFTISGSL</span><span class="topo-inside">KGTNKGLDI</span><span class="topo-membrane">FGVVTLGVITSYAGGIIADIL</span><span class="topo-outside">LGIYPP</span><span class="topo-membrane">QILKELNYLLLSVGISIFV</span><span class="topo-inside">FYFYKWLQTNPIKMII</span><span class="topo-membrane">AISDAVGLSTFATLGASLA</span><span class="topo-outside">YSYGLNP</span><span class="topo-membrane">I</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210  </span>
+<span class="topo-line"><span class="topo-membrane">SVGLIAAIVGTGGGVIRDVL</span><span class="topo-inside">VNEIPMVLTK</span><span class="topo-membrane">EIYATAALLSGFIYYFT</span><span class="topo-outside">TPYLHHD</span><span class="topo-membrane">SLFVAFLGSFLLRILS</span><span class="topo-inside">IKYNF</span><span class="topo-unknown">NLPLESLESSGENLYFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -562,6 +567,7 @@ C-terminal GFP-His8 tag for purification and [FSEC](/xray-mp-wiki/methods/qualit
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -577,10 +583,11 @@ C-terminal GFP-His8 tag for purification and [FSEC](/xray-mp-wiki/methods/qualit
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MFQ</span><span class="topo-inside">TVT</span><span class="topo-membrane">ILLDWFGLCIFTVTGALVA</span><span class="topo-outside">SRKEM</span><span class="topo-membrane">DIAGFVLLGAVTGVGGGTIRDLV</span><span class="topo-inside">LGRTPVF</span></span>
-<span class="topo-line"><span class="topo-inside">WVEEP</span><span class="topo-membrane">AYVLACLGVAVFTFFFA</span><span class="topo-outside">HIPQSRYRF</span><span class="topo-membrane">LLWLDAVGLSLFAVTGAE</span><span class="topo-inside">RALQTGAGP</span><span class="topo-membrane">VI</span></span>
-<span class="topo-line"><span class="topo-membrane">AIAMGVATATFGGILRDLLG</span><span class="topo-outside">GESPVILRRE</span><span class="topo-membrane">IYITAALLGAAAFVAL</span><span class="topo-inside">DAFGAPRE</span><span class="topo-membrane">LALGAG</span></span>
-<span class="topo-line"><span class="topo-membrane">FAAAFLSRAAG</span><span class="topo-outside">LVWGL</span><span class="topo-unknown">SLPRYRARLESSGENLYFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MFQ</span><span class="topo-inside">TVT</span><span class="topo-membrane">ILLDWFGLCIFTVTGALVA</span><span class="topo-outside">SRKEM</span><span class="topo-membrane">DIAGFVLLGAVTGVGGGTIRDLV</span><span class="topo-inside">LGRTPVFWVEEP</span><span class="topo-membrane">AYVLACLGVAVFTFFFA</span><span class="topo-outside">HIPQSRYRF</span><span class="topo-membrane">LLWLDAVGLSLFAVTGAE</span><span class="topo-inside">RALQTGAGP</span><span class="topo-membrane">VI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210     </span>
+<span class="topo-line"><span class="topo-membrane">AIAMGVATATFGGILRDLLG</span><span class="topo-outside">GESPVILRRE</span><span class="topo-membrane">IYITAALLGAAAFVAL</span><span class="topo-inside">DAFGAPRE</span><span class="topo-membrane">LALGAGFAAAFLSRAAG</span><span class="topo-outside">LVWGL</span><span class="topo-unknown">SLPRYRARLESSGENLYFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -697,6 +704,7 @@ C-terminal GFP-His8 tag for purification and [FSEC](/xray-mp-wiki/methods/qualit
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -712,10 +720,11 @@ C-terminal GFP-His8 tag for purification and [FSEC](/xray-mp-wiki/methods/qualit
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MFQ</span><span class="topo-inside">TVT</span><span class="topo-membrane">ILLDWFGLCIFTVTGALVA</span><span class="topo-outside">SRKEM</span><span class="topo-membrane">DIAGFVLLGAVTGVGGGTIRDLV</span><span class="topo-inside">LGRTPVF</span></span>
-<span class="topo-line"><span class="topo-inside">WVEEP</span><span class="topo-membrane">AYVLACLGVAVFTFFFA</span><span class="topo-outside">HIPQSRYRF</span><span class="topo-membrane">LLWLDAVGLSLFAVTGAE</span><span class="topo-inside">RALQTGAGP</span><span class="topo-membrane">VI</span></span>
-<span class="topo-line"><span class="topo-membrane">AIAMGVATATFGGILRDLLG</span><span class="topo-outside">GESPVILRRE</span><span class="topo-membrane">IYITAALLGAAAFVAL</span><span class="topo-inside">DAFGAPRE</span><span class="topo-membrane">LALGAG</span></span>
-<span class="topo-line"><span class="topo-membrane">FAAAFLSRAAG</span><span class="topo-outside">LVWGL</span><span class="topo-unknown">SLPRYRARLESSGENLYFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MFQ</span><span class="topo-inside">TVT</span><span class="topo-membrane">ILLDWFGLCIFTVTGALVA</span><span class="topo-outside">SRKEM</span><span class="topo-membrane">DIAGFVLLGAVTGVGGGTIRDLV</span><span class="topo-inside">LGRTPVFWVEEP</span><span class="topo-membrane">AYVLACLGVAVFTFFFA</span><span class="topo-outside">HIPQSRYRF</span><span class="topo-membrane">LLWLDAVGLSLFAVTGAE</span><span class="topo-inside">RALQTGAGP</span><span class="topo-membrane">VI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210     </span>
+<span class="topo-line"><span class="topo-membrane">AIAMGVATATFGGILRDLLG</span><span class="topo-outside">GESPVILRRE</span><span class="topo-membrane">IYITAALLGAAAFVAL</span><span class="topo-inside">DAFGAPRE</span><span class="topo-membrane">LALGAGFAAAFLSRAAG</span><span class="topo-outside">LVWGL</span><span class="topo-unknown">SLPRYRARLESSGENLYFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -832,6 +841,7 @@ C-terminal GFP-His8 tag for purification and [FSEC](/xray-mp-wiki/methods/qualit
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -847,10 +857,11 @@ C-terminal GFP-His8 tag for purification and [FSEC](/xray-mp-wiki/methods/qualit
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MFQ</span><span class="topo-inside">TVT</span><span class="topo-membrane">ILLDWFGLCIFTVTGALVA</span><span class="topo-outside">SRKEM</span><span class="topo-membrane">DIAGFVLLGAVTGVGGGTIRDLV</span><span class="topo-inside">LGRTPVF</span></span>
-<span class="topo-line"><span class="topo-inside">WVEEP</span><span class="topo-membrane">AYVLACLGVAVFTFFFA</span><span class="topo-outside">HIPQSRYRF</span><span class="topo-membrane">LLWLDAVGLSLFAVTGAE</span><span class="topo-inside">RALQTGAGP</span><span class="topo-membrane">VI</span></span>
-<span class="topo-line"><span class="topo-membrane">AIAMGVATATFGGILRDLLG</span><span class="topo-outside">GESPVILRRE</span><span class="topo-membrane">IYITAALLGAAAFVAL</span><span class="topo-inside">DAFGAPRE</span><span class="topo-membrane">LALGAG</span></span>
-<span class="topo-line"><span class="topo-membrane">FAAAFLSRAAG</span><span class="topo-outside">LVWGL</span><span class="topo-unknown">SLPRYRARLESSGENLYFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MFQ</span><span class="topo-inside">TVT</span><span class="topo-membrane">ILLDWFGLCIFTVTGALVA</span><span class="topo-outside">SRKEM</span><span class="topo-membrane">DIAGFVLLGAVTGVGGGTIRDLV</span><span class="topo-inside">LGRTPVFWVEEP</span><span class="topo-membrane">AYVLACLGVAVFTFFFA</span><span class="topo-outside">HIPQSRYRF</span><span class="topo-membrane">LLWLDAVGLSLFAVTGAE</span><span class="topo-inside">RALQTGAGP</span><span class="topo-membrane">VI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210     </span>
+<span class="topo-line"><span class="topo-membrane">AIAMGVATATFGGILRDLLG</span><span class="topo-outside">GESPVILRRE</span><span class="topo-membrane">IYITAALLGAAAFVAL</span><span class="topo-inside">DAFGAPRE</span><span class="topo-membrane">LALGAGFAAAFLSRAAG</span><span class="topo-outside">LVWGL</span><span class="topo-unknown">SLPRYRARLESSGENLYFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -967,6 +978,7 @@ C-terminal GFP-His8 tag for purification and [FSEC](/xray-mp-wiki/methods/qualit
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

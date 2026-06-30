@@ -153,28 +153,29 @@ Mouse P-glycoprotein (P-gp; ABCB1; Mdr1a) is an ATP-binding cassette (ABC) trans
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MELEEDLKGRADKNFSKMGKKSKKEKKEK</span><span class="topo-outside">KPAVSVLTMF</span><span class="topo-membrane">RYAGWLDRLYMLVGTLAAIIH</span></span>
-<span class="topo-line"><span class="topo-membrane">GVALPLMM</span><span class="topo-inside">LIFGDMTDSFASVGQVSKQSTQMSEADKRAMFAKLEEEMTTYAYYYTGI</span><span class="topo-membrane">GAG</span></span>
-<span class="topo-line"><span class="topo-membrane">VLIVAYIQVSFWCLAAGRQ</span><span class="topo-outside">IHKIRQKFFHAIMNQEIGWFDVHDVGELNTRLTDDVSKIN</span><span class="topo-membrane">E</span></span>
-<span class="topo-line"><span class="topo-membrane">GIGDKIGMFFQAMATFFGGFIIGF</span><span class="topo-inside">TRGW</span><span class="topo-membrane">KLTLVILAISPVLGLSAGIWAKIL</span><span class="topo-outside">SSFTDKEL</span></span>
-<span class="topo-line"><span class="topo-outside">HAYAKAGAVAEEVLAAIRTVIAFGGQKKELERYNNNLEEAKRLGIKKA</span><span class="topo-membrane">ITANISMGAAFL</span></span>
-<span class="topo-line"><span class="topo-membrane">LIYASYALAFW</span><span class="topo-inside">YGTSLVISKEYSIGQVLTV</span><span class="topo-membrane">FFSVLIGAFSVGQASPNIEAFA</span><span class="topo-outside">NARGAAYE</span></span>
-<span class="topo-line"><span class="topo-outside">VFKIIDNKPSIDSFSKSGHKPDNIQGNLEFKNIHFSYPSRKEVQILKGLNLKVKSGQTVA</span></span>
-<span class="topo-line"><span class="topo-outside">LVGNSGCGKSTTVQLMQRLYDPLDGMVSIDGQDIRTINVRYLREIIGVVSQEPVLFATTI</span></span>
-<span class="topo-line"><span class="topo-outside">AENIRYGREDVTMDEIEKAVKEANAYDFIMKLPHQFDTLVGERGAQLSGGQKQRIAIARA</span></span>
-<span class="topo-line"><span class="topo-outside">LVRNPKILLLDEATSALDTESEAVVQAALDKAREGRTTIVIAHRLSTVRNADVIAGFDGG</span></span>
-<span class="topo-line"><span class="topo-outside">VIVEQGNHDELMREKGIYFKLVMTQT</span><span class="topo-unknown">AGNEIELGNEACKSKDEIDNLDMSSKDSGSSLIR</span></span>
-<span class="topo-line"><span class="topo-unknown">RRSTRKSICGPHDQDRKLSTKEALDEDV</span><span class="topo-outside">PPASFW</span><span class="topo-unknown">RILKLN</span><span class="topo-outside">STE</span><span class="topo-membrane">WPYFVVGIFCAIINGGL</span></span>
-<span class="topo-line"><span class="topo-membrane">QPAFSVIF</span><span class="topo-inside">SKVVGVFTNGGPPETQRQNSNLFS</span><span class="topo-membrane">LLFLILGIISFITFFLQGFTFGKA</span><span class="topo-outside">GEIL</span></span>
-<span class="topo-line"><span class="topo-outside">TKRLRYMVFKSMLRQDVSWFDDPKNTTGALTTRLANDAAQVKG</span><span class="topo-membrane">ATGSRLAVIFQNIANLG</span></span>
-<span class="topo-line"><span class="topo-membrane">TGIIIS</span><span class="topo-inside">LIYGWQLTLLL</span><span class="topo-membrane">LAIVPIIAIAGVVEMKMLSGQA</span><span class="topo-outside">LKDKKELEGSGKIATEAIENF</span></span>
-<span class="topo-line"><span class="topo-outside">RTVVSLTREQKFETMYAQSLQIPY</span><span class="topo-membrane">RNAMKKAHVFGITFSFTQAMMYFSY</span><span class="topo-inside">AACFRFGAYLV</span></span>
-<span class="topo-line"><span class="topo-inside">TQQLMTFENVLLV</span><span class="topo-membrane">FSAIVFGAMAVGQVSSFAPDY</span><span class="topo-outside">AKATVSASHIIRIIEKTPEIDSYSTQ</span></span>
-<span class="topo-line"><span class="topo-outside">GLKPNMLEGNVQFSGVVFNYPTRPSIPVLQGLSLEVKKGQTLALVGSSGCGKSTVVQLLE</span></span>
-<span class="topo-line"><span class="topo-outside">RFYDPMAGSVFLDGKEIKQLNVQWLRAQLGIVSQEPILFDCSIAENIAYGDNSRVVSYEE</span></span>
-<span class="topo-line"><span class="topo-outside">IVRAAKEANIHQFIDSLPDKYNTRVGDKGTQLSGGQKQRIAIARALVRQPHILLLDEATS</span></span>
-<span class="topo-line"><span class="topo-outside">ALDTESEKVVQEALDKAREGRTCIVIAHRLSTIQNADLIVVIQNGKVKEHGTHQQLLAQK</span></span>
-<span class="topo-line"><span class="topo-outside">GIYFSMVSVQAGA</span><span class="topo-unknown">KRSLEHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MELEEDLKGRADKNFSKMGKKSKKEKKEK</span><span class="topo-outside">KPAVSVLTMF</span><span class="topo-membrane">RYAGWLDRLYMLVGTLAAIIHGVALPLMM</span><span class="topo-inside">LIFGDMTDSFASVGQVSKQSTQMSEADKRAMFAKLEEEMTTYAYYYTGI</span><span class="topo-membrane">GAG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">VLIVAYIQVSFWCLAAGRQ</span><span class="topo-outside">IHKIRQKFFHAIMNQEIGWFDVHDVGELNTRLTDDVSKIN</span><span class="topo-membrane">EGIGDKIGMFFQAMATFFGGFIIGF</span><span class="topo-inside">TRGW</span><span class="topo-membrane">KLTLVILAISPVLGLSAGIWAKIL</span><span class="topo-outside">SSFTDKEL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">HAYAKAGAVAEEVLAAIRTVIAFGGQKKELERYNNNLEEAKRLGIKKA</span><span class="topo-membrane">ITANISMGAAFLLIYASYALAFW</span><span class="topo-inside">YGTSLVISKEYSIGQVLTV</span><span class="topo-membrane">FFSVLIGAFSVGQASPNIEAFA</span><span class="topo-outside">NARGAAYE</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">VFKIIDNKPSIDSFSKSGHKPDNIQGNLEFKNIHFSYPSRKEVQILKGLNLKVKSGQTVALVGNSGCGKSTTVQLMQRLYDPLDGMVSIDGQDIRTINVRYLREIIGVVSQEPVLFATTI</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">AENIRYGREDVTMDEIEKAVKEANAYDFIMKLPHQFDTLVGERGAQLSGGQKQRIAIARALVRNPKILLLDEATSALDTESEAVVQAALDKAREGRTTIVIAHRLSTVRNADVIAGFDGG</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-outside">VIVEQGNHDELMREKGIYFKLVMTQT</span><span class="topo-unknown">AGNEIELGNEACKSKDEIDNLDMSSKDSGSSLIRRRSTRKSICGPHDQDRKLSTKEALDEDV</span><span class="topo-outside">PPASFW</span><span class="topo-unknown">RILKLN</span><span class="topo-outside">STE</span><span class="topo-membrane">WPYFVVGIFCAIINGGL</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820       830       840</span>
+<span class="topo-line"><span class="topo-membrane">QPAFSVIF</span><span class="topo-inside">SKVVGVFTNGGPPETQRQNSNLFS</span><span class="topo-membrane">LLFLILGIISFITFFLQGFTFGKA</span><span class="topo-outside">GEILTKRLRYMVFKSMLRQDVSWFDDPKNTTGALTTRLANDAAQVKG</span><span class="topo-membrane">ATGSRLAVIFQNIANLG</span></span>
+<span class="topo-ruler">       850       860       870       880       890       900       910       920       930       940       950       960</span>
+<span class="topo-line"><span class="topo-membrane">TGIIIS</span><span class="topo-inside">LIYGWQLTLLL</span><span class="topo-membrane">LAIVPIIAIAGVVEMKMLSGQA</span><span class="topo-outside">LKDKKELEGSGKIATEAIENFRTVVSLTREQKFETMYAQSLQIPY</span><span class="topo-membrane">RNAMKKAHVFGITFSFTQAMMYFSY</span><span class="topo-inside">AACFRFGAYLV</span></span>
+<span class="topo-ruler">       970       980       990      1000      1010      1020      1030      1040      1050      1060      1070      1080</span>
+<span class="topo-line"><span class="topo-inside">TQQLMTFENVLLV</span><span class="topo-membrane">FSAIVFGAMAVGQVSSFAPDY</span><span class="topo-outside">AKATVSASHIIRIIEKTPEIDSYSTQGLKPNMLEGNVQFSGVVFNYPTRPSIPVLQGLSLEVKKGQTLALVGSSGCGKSTVVQLLE</span></span>
+<span class="topo-ruler">      1090      1100      1110      1120      1130      1140      1150      1160      1170      1180      1190      1200</span>
+<span class="topo-line"><span class="topo-outside">RFYDPMAGSVFLDGKEIKQLNVQWLRAQLGIVSQEPILFDCSIAENIAYGDNSRVVSYEEIVRAAKEANIHQFIDSLPDKYNTRVGDKGTQLSGGQKQRIAIARALVRQPHILLLDEATS</span></span>
+<span class="topo-ruler">      1210      1220      1230      1240      1250      1260      1270      1280    </span>
+<span class="topo-line"><span class="topo-outside">ALDTESEKVVQEALDKAREGRTCIVIAHRLSTIQNADLIVVIQNGKVKEHGTHQQLLAQKGIYFSMVSVQAGA</span><span class="topo-unknown">KRSLEHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (28 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -382,6 +383,7 @@ Mouse P-glycoprotein (P-gp; ABCB1; Mdr1a) is an ATP-binding cassette (ABC) trans
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -397,28 +399,29 @@ Mouse P-glycoprotein (P-gp; ABCB1; Mdr1a) is an ATP-binding cassette (ABC) trans
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MELEEDLKGRADKNFSKMGKKSKKEKKEK</span><span class="topo-outside">KPAVSVLTMFRYA</span><span class="topo-membrane">GWLDRLYMLVGTLAAIIH</span></span>
-<span class="topo-line"><span class="topo-membrane">GVALPLMML</span><span class="topo-inside">IFGDMTDSFASVGQVSKQSTQMSEADKRAMFAKLEEEMTTYAYYY</span><span class="topo-membrane">TGIGAG</span></span>
-<span class="topo-line"><span class="topo-membrane">VLIVAYIQVSFWCLAAGR</span><span class="topo-outside">QIHKIRQKFFHAIMNQEIGWFDVHDVGELNTRLTDDVSKINE</span></span>
-<span class="topo-line"><span class="topo-membrane">GIGDKIGMFFQAMATFFGGFIIGF</span><span class="topo-inside">TRGWKL</span><span class="topo-membrane">TLVILAISPVLGLSAGIWAKILS</span><span class="topo-outside">SFTDKEL</span></span>
-<span class="topo-line"><span class="topo-outside">HAYAKAGAVAEEVLAAIRTVIAFGGQKKELERYNNNLEEAKRLGI</span><span class="topo-membrane">KKAITANISMGAAFL</span></span>
-<span class="topo-line"><span class="topo-membrane">LIYASYALAF</span><span class="topo-inside">WYGTSLVISKEYSIGQVL</span><span class="topo-membrane">TVFFSVLIGAFSVGQASPNIEAFA</span><span class="topo-outside">NARGAAYE</span></span>
-<span class="topo-line"><span class="topo-outside">VFKIIDNKPSIDSFSKSGHKPDNIQGNLEFKNIHFSYPSRKEVQILKGLNLKVKSGQTVA</span></span>
-<span class="topo-line"><span class="topo-outside">LVGNSGCGKSTTVQLMQRLYDPLDGMVSIDGQDIRTINVRYLREIIGVVSQEPVLFATTI</span></span>
-<span class="topo-line"><span class="topo-outside">AENIRYGREDVTMDEIEKAVKEANAYDFIMKLPHQFDTLVGERGAQLSGGQKQRIAIARA</span></span>
-<span class="topo-line"><span class="topo-outside">LVRNPKILLLDEATSALDTESEAVVQAALDKAREGRTTIVIAHRLSTVRNADVIAGFDGG</span></span>
-<span class="topo-line"><span class="topo-outside">VIVEQGNHDELMREKGIYFKLVMTQT</span><span class="topo-unknown">AGNEIELGNEACKSKDEIDNLDMSSKDSGSSLIR</span></span>
-<span class="topo-line"><span class="topo-unknown">RRSTRKSICGPHDQDRKLSTKEALDEDVPPA</span><span class="topo-outside">SFWRILKLNSTE</span><span class="topo-membrane">WPYFVVGIFCAIINGGL</span></span>
-<span class="topo-line"><span class="topo-membrane">QPAFSVIF</span><span class="topo-inside">SKVVGVFTNGGPPETQRQNSNLFS</span><span class="topo-membrane">LLFLILGIISFITFFLQGFTFGKA</span><span class="topo-outside">GEIL</span></span>
-<span class="topo-line"><span class="topo-outside">TKRLRYMVFKSMLRQDVSWFDDPKNTTGALTTRLANDAAQVKGA</span><span class="topo-membrane">TGSRLAVIFQNIANLG</span></span>
-<span class="topo-line"><span class="topo-membrane">TGIIISLI</span><span class="topo-inside">YGWQ</span><span class="topo-membrane">LTLLLLAIVPIIAIAGVVEMKMLS</span><span class="topo-outside">GQALKDKKELEGSGKIATEAIENF</span></span>
-<span class="topo-line"><span class="topo-outside">RTVVSLTREQKFETMYAQSLQIPYRNA</span><span class="topo-membrane">MKKAHVFGITFSFTQAMMYFSYAAC</span><span class="topo-inside">FRFGAYLV</span></span>
-<span class="topo-line"><span class="topo-inside">TQQLMTFENVLL</span><span class="topo-membrane">VFSAIVFGAMAVGQVSSFAP</span><span class="topo-outside">DYAKATVSASHIIRIIEKTPEIDSYSTQ</span></span>
-<span class="topo-line"><span class="topo-outside">GLKPNMLEGNVQFSGVVFNYPTRPSIPVLQGLSLEVKKGQTLALVGSSGCGKSTVVQLLE</span></span>
-<span class="topo-line"><span class="topo-outside">RFYDPMAGSVFLDGKEIKQLNVQWLRAQLGIVSQEPILFDCSIAENIAYGDNSRVVSYEE</span></span>
-<span class="topo-line"><span class="topo-outside">IVRAAKEANIHQFIDSLPDKYNTRVGDKGTQLSGGQKQRIAIARALVRQPHILLLDEATS</span></span>
-<span class="topo-line"><span class="topo-outside">ALDTESEKVVQEALDKAREGRTCIVIAHRLSTIQNADLIVVIQNGKVKEHGTHQQLLAQK</span></span>
-<span class="topo-line"><span class="topo-outside">GIYFSMVSVQAGAKRSLE</span><span class="topo-unknown">HHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MELEEDLKGRADKNFSKMGKKSKKEKKEK</span><span class="topo-outside">KPAVSVLTMFRYA</span><span class="topo-membrane">GWLDRLYMLVGTLAAIIHGVALPLMML</span><span class="topo-inside">IFGDMTDSFASVGQVSKQSTQMSEADKRAMFAKLEEEMTTYAYYY</span><span class="topo-membrane">TGIGAG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">VLIVAYIQVSFWCLAAGR</span><span class="topo-outside">QIHKIRQKFFHAIMNQEIGWFDVHDVGELNTRLTDDVSKINE</span><span class="topo-membrane">GIGDKIGMFFQAMATFFGGFIIGF</span><span class="topo-inside">TRGWKL</span><span class="topo-membrane">TLVILAISPVLGLSAGIWAKILS</span><span class="topo-outside">SFTDKEL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">HAYAKAGAVAEEVLAAIRTVIAFGGQKKELERYNNNLEEAKRLGI</span><span class="topo-membrane">KKAITANISMGAAFLLIYASYALAF</span><span class="topo-inside">WYGTSLVISKEYSIGQVL</span><span class="topo-membrane">TVFFSVLIGAFSVGQASPNIEAFA</span><span class="topo-outside">NARGAAYE</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">VFKIIDNKPSIDSFSKSGHKPDNIQGNLEFKNIHFSYPSRKEVQILKGLNLKVKSGQTVALVGNSGCGKSTTVQLMQRLYDPLDGMVSIDGQDIRTINVRYLREIIGVVSQEPVLFATTI</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">AENIRYGREDVTMDEIEKAVKEANAYDFIMKLPHQFDTLVGERGAQLSGGQKQRIAIARALVRNPKILLLDEATSALDTESEAVVQAALDKAREGRTTIVIAHRLSTVRNADVIAGFDGG</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-outside">VIVEQGNHDELMREKGIYFKLVMTQT</span><span class="topo-unknown">AGNEIELGNEACKSKDEIDNLDMSSKDSGSSLIRRRSTRKSICGPHDQDRKLSTKEALDEDVPPA</span><span class="topo-outside">SFWRILKLNSTE</span><span class="topo-membrane">WPYFVVGIFCAIINGGL</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820       830       840</span>
+<span class="topo-line"><span class="topo-membrane">QPAFSVIF</span><span class="topo-inside">SKVVGVFTNGGPPETQRQNSNLFS</span><span class="topo-membrane">LLFLILGIISFITFFLQGFTFGKA</span><span class="topo-outside">GEILTKRLRYMVFKSMLRQDVSWFDDPKNTTGALTTRLANDAAQVKGA</span><span class="topo-membrane">TGSRLAVIFQNIANLG</span></span>
+<span class="topo-ruler">       850       860       870       880       890       900       910       920       930       940       950       960</span>
+<span class="topo-line"><span class="topo-membrane">TGIIISLI</span><span class="topo-inside">YGWQ</span><span class="topo-membrane">LTLLLLAIVPIIAIAGVVEMKMLS</span><span class="topo-outside">GQALKDKKELEGSGKIATEAIENFRTVVSLTREQKFETMYAQSLQIPYRNA</span><span class="topo-membrane">MKKAHVFGITFSFTQAMMYFSYAAC</span><span class="topo-inside">FRFGAYLV</span></span>
+<span class="topo-ruler">       970       980       990      1000      1010      1020      1030      1040      1050      1060      1070      1080</span>
+<span class="topo-line"><span class="topo-inside">TQQLMTFENVLL</span><span class="topo-membrane">VFSAIVFGAMAVGQVSSFAP</span><span class="topo-outside">DYAKATVSASHIIRIIEKTPEIDSYSTQGLKPNMLEGNVQFSGVVFNYPTRPSIPVLQGLSLEVKKGQTLALVGSSGCGKSTVVQLLE</span></span>
+<span class="topo-ruler">      1090      1100      1110      1120      1130      1140      1150      1160      1170      1180      1190      1200</span>
+<span class="topo-line"><span class="topo-outside">RFYDPMAGSVFLDGKEIKQLNVQWLRAQLGIVSQEPILFDCSIAENIAYGDNSRVVSYEEIVRAAKEANIHQFIDSLPDKYNTRVGDKGTQLSGGQKQRIAIARALVRQPHILLLDEATS</span></span>
+<span class="topo-ruler">      1210      1220      1230      1240      1250      1260      1270      1280    </span>
+<span class="topo-line"><span class="topo-outside">ALDTESEKVVQEALDKAREGRTCIVIAHRLSTIQNADLIVVIQNGKVKEHGTHQQLLAQKGIYFSMVSVQAGAKRSLE</span><span class="topo-unknown">HHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (29 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -633,6 +636,7 @@ Mouse P-glycoprotein (P-gp; ABCB1; Mdr1a) is an ATP-binding cassette (ABC) trans
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -648,28 +652,29 @@ Mouse P-glycoprotein (P-gp; ABCB1; Mdr1a) is an ATP-binding cassette (ABC) trans
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MELEEDLKGRADKNFSKMGKKSKKEKKEK</span><span class="topo-outside">KPAVS</span><span class="topo-membrane">VLTMFRYAGWLDRLYMLVGTLAAIIH</span></span>
-<span class="topo-line"><span class="topo-membrane">GVALPLMM</span><span class="topo-inside">LIFGDMTDSFASVGQVSKQSTQMSEADKRAMFAKLEEEMTTYAYYYT</span><span class="topo-membrane">GIGAG</span></span>
-<span class="topo-line"><span class="topo-membrane">VLIVAYIQVSFWCLAAGRQ</span><span class="topo-outside">IHKIRQKFFHAIMNQEIGWFDVHDVGELNTRLTDDVSKIN</span><span class="topo-membrane">E</span></span>
-<span class="topo-line"><span class="topo-membrane">GIGDKIGMFFQAMATFFGGFIIGF</span><span class="topo-inside">TRGW</span><span class="topo-membrane">KLTLVILAISPVLGLSAGIWAKILS</span><span class="topo-outside">SFTDKEL</span></span>
-<span class="topo-line"><span class="topo-outside">HAYAKAGAVAEEVLAAIRTVIAFGGQKKELERYNNNLEEAKRLGIKKAI</span><span class="topo-membrane">TANISMGAAFL</span></span>
-<span class="topo-line"><span class="topo-membrane">LIYASYALAFWY</span><span class="topo-inside">GTSLVISKEYSIGQVL</span><span class="topo-membrane">TVFFSVLIGAFSVGQASPNIEAFA</span><span class="topo-outside">NARGAAYE</span></span>
-<span class="topo-line"><span class="topo-outside">VFKIIDNKPSIDSFSKSGHKPDNIQGNLEFKNIHFSYPSRKEVQILKGLNLKVKSGQTVA</span></span>
-<span class="topo-line"><span class="topo-outside">LVGNSGCGKSTTVQLMQRLYDPLDGMVSIDGQDIRTINVRYLREIIGVVSQEPVLFATTI</span></span>
-<span class="topo-line"><span class="topo-outside">AENIRYGREDVTMDEIEKAVKEANAYDFIMKLPHQFDTLVGERGAQLSGGQKQRIAIARA</span></span>
-<span class="topo-line"><span class="topo-outside">LVRNPKILLLDEATSALDTESEAVVQAALDKAREGRTTIVIAHRLSTVRNADVIAGFDGG</span></span>
-<span class="topo-line"><span class="topo-outside">VIVEQGNHDELMREKGIYFKLVMTQT</span><span class="topo-unknown">AGNEIELGNEACKSKDEIDNLDMSSKDSGSSLIR</span></span>
-<span class="topo-line"><span class="topo-unknown">RRSTRKSICGPHDQDRKLSTKEALDEDV</span><span class="topo-outside">PPASFWRILKLNSTEW</span><span class="topo-membrane">PYFVVGIFCAIINGGL</span></span>
-<span class="topo-line"><span class="topo-membrane">QPAFSVIFS</span><span class="topo-inside">KVVGVFTNGGPPETQRQNSNLF</span><span class="topo-membrane">SLLFLILGIISFITFFLQGFTF</span><span class="topo-outside">GKAGEIL</span></span>
-<span class="topo-line"><span class="topo-outside">TKRLRYMVFKSMLRQDVSWFDDPKNTTGALTTRLANDAAQVKGATG</span><span class="topo-membrane">SRLAVIFQNIANLG</span></span>
-<span class="topo-line"><span class="topo-membrane">TGIIISLI</span><span class="topo-inside">YGWQLT</span><span class="topo-membrane">LLLLAIVPIIAIAGVVEMKMLSGQ</span><span class="topo-outside">ALKDKKELEGSGKIATEAIENF</span></span>
-<span class="topo-line"><span class="topo-outside">RTVVSLTREQKFETMYAQSLQIPY</span><span class="topo-membrane">RNAMKKAHVFGITFSFTQAMMYFSYAAC</span><span class="topo-inside">FRFGAYLV</span></span>
-<span class="topo-line"><span class="topo-inside">TQQLMTFENVL</span><span class="topo-membrane">LVFSAIVFGAMAVGQVSSFA</span><span class="topo-outside">PDYAKATVSASHIIRIIEKTPEIDSYSTQ</span></span>
-<span class="topo-line"><span class="topo-outside">GLKPNMLEGNVQFSGVVFNYPTRPSIPVLQGLSLEVKKGQTLALVGSSGCGKSTVVQLLE</span></span>
-<span class="topo-line"><span class="topo-outside">RFYDPMAGSVFLDGKEIKQLNVQWLRAQLGIVSQEPILFDCSIAENIAYGDNSRVVSYEE</span></span>
-<span class="topo-line"><span class="topo-outside">IVRAAKEANIHQFIDSLPDKYNTRVGDKGTQLSGGQKQRIAIARALVRQPHILLLDEATS</span></span>
-<span class="topo-line"><span class="topo-outside">ALDTESEKVVQEALDKAREGRTCIVIAHRLSTIQNADLIVVIQNGKVKEHGTHQQLLAQK</span></span>
-<span class="topo-line"><span class="topo-outside">GIYFSMVSVQAGAKRSLE</span><span class="topo-unknown">HHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MELEEDLKGRADKNFSKMGKKSKKEKKEK</span><span class="topo-outside">KPAVS</span><span class="topo-membrane">VLTMFRYAGWLDRLYMLVGTLAAIIHGVALPLMM</span><span class="topo-inside">LIFGDMTDSFASVGQVSKQSTQMSEADKRAMFAKLEEEMTTYAYYYT</span><span class="topo-membrane">GIGAG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">VLIVAYIQVSFWCLAAGRQ</span><span class="topo-outside">IHKIRQKFFHAIMNQEIGWFDVHDVGELNTRLTDDVSKIN</span><span class="topo-membrane">EGIGDKIGMFFQAMATFFGGFIIGF</span><span class="topo-inside">TRGW</span><span class="topo-membrane">KLTLVILAISPVLGLSAGIWAKILS</span><span class="topo-outside">SFTDKEL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">HAYAKAGAVAEEVLAAIRTVIAFGGQKKELERYNNNLEEAKRLGIKKAI</span><span class="topo-membrane">TANISMGAAFLLIYASYALAFWY</span><span class="topo-inside">GTSLVISKEYSIGQVL</span><span class="topo-membrane">TVFFSVLIGAFSVGQASPNIEAFA</span><span class="topo-outside">NARGAAYE</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">VFKIIDNKPSIDSFSKSGHKPDNIQGNLEFKNIHFSYPSRKEVQILKGLNLKVKSGQTVALVGNSGCGKSTTVQLMQRLYDPLDGMVSIDGQDIRTINVRYLREIIGVVSQEPVLFATTI</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">AENIRYGREDVTMDEIEKAVKEANAYDFIMKLPHQFDTLVGERGAQLSGGQKQRIAIARALVRNPKILLLDEATSALDTESEAVVQAALDKAREGRTTIVIAHRLSTVRNADVIAGFDGG</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-outside">VIVEQGNHDELMREKGIYFKLVMTQT</span><span class="topo-unknown">AGNEIELGNEACKSKDEIDNLDMSSKDSGSSLIRRRSTRKSICGPHDQDRKLSTKEALDEDV</span><span class="topo-outside">PPASFWRILKLNSTEW</span><span class="topo-membrane">PYFVVGIFCAIINGGL</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820       830       840</span>
+<span class="topo-line"><span class="topo-membrane">QPAFSVIFS</span><span class="topo-inside">KVVGVFTNGGPPETQRQNSNLF</span><span class="topo-membrane">SLLFLILGIISFITFFLQGFTF</span><span class="topo-outside">GKAGEILTKRLRYMVFKSMLRQDVSWFDDPKNTTGALTTRLANDAAQVKGATG</span><span class="topo-membrane">SRLAVIFQNIANLG</span></span>
+<span class="topo-ruler">       850       860       870       880       890       900       910       920       930       940       950       960</span>
+<span class="topo-line"><span class="topo-membrane">TGIIISLI</span><span class="topo-inside">YGWQLT</span><span class="topo-membrane">LLLLAIVPIIAIAGVVEMKMLSGQ</span><span class="topo-outside">ALKDKKELEGSGKIATEAIENFRTVVSLTREQKFETMYAQSLQIPY</span><span class="topo-membrane">RNAMKKAHVFGITFSFTQAMMYFSYAAC</span><span class="topo-inside">FRFGAYLV</span></span>
+<span class="topo-ruler">       970       980       990      1000      1010      1020      1030      1040      1050      1060      1070      1080</span>
+<span class="topo-line"><span class="topo-inside">TQQLMTFENVL</span><span class="topo-membrane">LVFSAIVFGAMAVGQVSSFA</span><span class="topo-outside">PDYAKATVSASHIIRIIEKTPEIDSYSTQGLKPNMLEGNVQFSGVVFNYPTRPSIPVLQGLSLEVKKGQTLALVGSSGCGKSTVVQLLE</span></span>
+<span class="topo-ruler">      1090      1100      1110      1120      1130      1140      1150      1160      1170      1180      1190      1200</span>
+<span class="topo-line"><span class="topo-outside">RFYDPMAGSVFLDGKEIKQLNVQWLRAQLGIVSQEPILFDCSIAENIAYGDNSRVVSYEEIVRAAKEANIHQFIDSLPDKYNTRVGDKGTQLSGGQKQRIAIARALVRQPHILLLDEATS</span></span>
+<span class="topo-ruler">      1210      1220      1230      1240      1250      1260      1270      1280    </span>
+<span class="topo-line"><span class="topo-outside">ALDTESEKVVQEALDKAREGRTCIVIAHRLSTIQNADLIVVIQNGKVKEHGTHQQLLAQKGIYFSMVSVQAGAKRSLE</span><span class="topo-unknown">HHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (29 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -884,6 +889,7 @@ Mouse P-glycoprotein (P-gp; ABCB1; Mdr1a) is an ATP-binding cassette (ABC) trans
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -899,28 +905,29 @@ Mouse P-glycoprotein (P-gp; ABCB1; Mdr1a) is an ATP-binding cassette (ABC) trans
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MELEEDLKGRADKNFSKMGKKSKKEKKEK</span><span class="topo-outside">KPAVSVLTMFRYAGW</span><span class="topo-membrane">LDRLYMLVGTLAAIIH</span></span>
-<span class="topo-line"><span class="topo-membrane">GVALPLMML</span><span class="topo-inside">IFGDMTDSFASVGQVSKQSTQMSEADKRAMFAKLEEEMTTYAYYY</span><span class="topo-membrane">TGIGAG</span></span>
-<span class="topo-line"><span class="topo-membrane">VLIVAYIQVSFWCLA</span><span class="topo-outside">AGRQIHKIRQKFFHAIMNQEIGWFDVHDVGELNTRLTDDVSKINE</span></span>
-<span class="topo-line"><span class="topo-outside">GI</span><span class="topo-membrane">GDKIGMFFQAMATFFGGFIIGF</span><span class="topo-inside">TRGWKL</span><span class="topo-membrane">TLVILAISPVLGLSAGIWAKILSSF</span><span class="topo-outside">TDKEL</span></span>
-<span class="topo-line"><span class="topo-outside">HAYAKAGAVAEEVLAAIRTVIAFGGQKKELERYNNNLEEAK</span><span class="topo-membrane">RLGIKKAITANISMGAAFL</span></span>
-<span class="topo-line"><span class="topo-membrane">LIYASYALA</span><span class="topo-inside">FWYGTSLVISKEYSIGQVLTV</span><span class="topo-membrane">FFSVLIGAFSVGQASPNIEAF</span><span class="topo-outside">ANARGAAYE</span></span>
-<span class="topo-line"><span class="topo-outside">VFKIIDNKPSIDSFSKSGHKPDNIQGNLEFKNIHFSYPSRKEVQILKGLNLKVKSGQTVA</span></span>
-<span class="topo-line"><span class="topo-outside">LVGNSGCGKSTTVQLMQRLYDPLDGMVSIDGQDIRTINVRYLREIIGVVSQEPVLFATTI</span></span>
-<span class="topo-line"><span class="topo-outside">AENIRYGREDVTMDEIEKAVKEANAYDFIMKLPHQFDTLVGERGAQLSGGQKQRIAIARA</span></span>
-<span class="topo-line"><span class="topo-outside">LVRNPKILLLDEATSALDTESEAVVQAALDKAREGRTTIVIAHRLSTVRNADVIAGFDGG</span></span>
-<span class="topo-line"><span class="topo-outside">VIVEQGNHDELMREKGIYFKLVMTQT</span><span class="topo-unknown">AGNEIELGNEACKSKDEIDNLDMSSKDSGSSLIR</span></span>
-<span class="topo-line"><span class="topo-unknown">RRSTRKSICGPHDQDRKLSTKEALDEDV</span><span class="topo-outside">PPASFWRIL</span><span class="topo-membrane">KLNSTEWPYFVVGIFCAIINGGL</span></span>
-<span class="topo-line"><span class="topo-membrane">QPAFS</span><span class="topo-inside">VIFSKVVGVFTNGGPPETQRQNSNLFSLLFL</span><span class="topo-membrane">ILGIISFITFFLQGFTFGKAGEIL</span></span>
-<span class="topo-line"><span class="topo-outside">TKRLRYMVFKSMLRQDVSWFDDPKNTTGALTTRLANDAAQVK</span><span class="topo-membrane">GATGSRLAVIFQNIANLG</span></span>
-<span class="topo-line"><span class="topo-membrane">TGII</span><span class="topo-inside">ISLIYGWQLT</span><span class="topo-membrane">LLLLAIVPIIAIAGVVEMKMLS</span><span class="topo-outside">GQALKDKKELEGSGKIATEAIENF</span></span>
-<span class="topo-line"><span class="topo-outside">RTVVSLTREQKFETMYAQSLQIPYRNAM</span><span class="topo-membrane">KKAHVFGITFSFTQAMMYFSYAAC</span><span class="topo-inside">FRFGAYLV</span></span>
-<span class="topo-line"><span class="topo-inside">TQQLMTFENVLLV</span><span class="topo-membrane">FSAIVFGAMAVGQVSSFAPDY</span><span class="topo-outside">AKATVSASHIIRIIEKTPEIDSYSTQ</span></span>
-<span class="topo-line"><span class="topo-outside">GLKPNMLEGNVQFSGVVFNYPTRPSIPVLQGLSLEVKKGQTLALVGSSGCGKSTVVQLLE</span></span>
-<span class="topo-line"><span class="topo-outside">RFYDPMAGSVFLDGKEIKQLNVQWLRAQLGIVSQEPILFDCSIAENIAYGDNSRVVSYEE</span></span>
-<span class="topo-line"><span class="topo-outside">IVRAAKEANIHQFIDSLPDKYNTRVGDKGTQLSGGQKQRIAIARALVRQPHILLLDEATS</span></span>
-<span class="topo-line"><span class="topo-outside">ALDTESEKVVQEALDKAREGRTCIVIAHRLSTIQNADLIVVIQNGKVKEHGTHQQLLAQK</span></span>
-<span class="topo-line"><span class="topo-outside">GIYFSMVSVQAGAKRSLE</span><span class="topo-unknown">HHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MELEEDLKGRADKNFSKMGKKSKKEKKEK</span><span class="topo-outside">KPAVSVLTMFRYAGW</span><span class="topo-membrane">LDRLYMLVGTLAAIIHGVALPLMML</span><span class="topo-inside">IFGDMTDSFASVGQVSKQSTQMSEADKRAMFAKLEEEMTTYAYYY</span><span class="topo-membrane">TGIGAG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">VLIVAYIQVSFWCLA</span><span class="topo-outside">AGRQIHKIRQKFFHAIMNQEIGWFDVHDVGELNTRLTDDVSKINEGI</span><span class="topo-membrane">GDKIGMFFQAMATFFGGFIIGF</span><span class="topo-inside">TRGWKL</span><span class="topo-membrane">TLVILAISPVLGLSAGIWAKILSSF</span><span class="topo-outside">TDKEL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">HAYAKAGAVAEEVLAAIRTVIAFGGQKKELERYNNNLEEAK</span><span class="topo-membrane">RLGIKKAITANISMGAAFLLIYASYALA</span><span class="topo-inside">FWYGTSLVISKEYSIGQVLTV</span><span class="topo-membrane">FFSVLIGAFSVGQASPNIEAF</span><span class="topo-outside">ANARGAAYE</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">VFKIIDNKPSIDSFSKSGHKPDNIQGNLEFKNIHFSYPSRKEVQILKGLNLKVKSGQTVALVGNSGCGKSTTVQLMQRLYDPLDGMVSIDGQDIRTINVRYLREIIGVVSQEPVLFATTI</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">AENIRYGREDVTMDEIEKAVKEANAYDFIMKLPHQFDTLVGERGAQLSGGQKQRIAIARALVRNPKILLLDEATSALDTESEAVVQAALDKAREGRTTIVIAHRLSTVRNADVIAGFDGG</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-outside">VIVEQGNHDELMREKGIYFKLVMTQT</span><span class="topo-unknown">AGNEIELGNEACKSKDEIDNLDMSSKDSGSSLIRRRSTRKSICGPHDQDRKLSTKEALDEDV</span><span class="topo-outside">PPASFWRIL</span><span class="topo-membrane">KLNSTEWPYFVVGIFCAIINGGL</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820       830       840</span>
+<span class="topo-line"><span class="topo-membrane">QPAFS</span><span class="topo-inside">VIFSKVVGVFTNGGPPETQRQNSNLFSLLFL</span><span class="topo-membrane">ILGIISFITFFLQGFTFGKAGEIL</span><span class="topo-outside">TKRLRYMVFKSMLRQDVSWFDDPKNTTGALTTRLANDAAQVK</span><span class="topo-membrane">GATGSRLAVIFQNIANLG</span></span>
+<span class="topo-ruler">       850       860       870       880       890       900       910       920       930       940       950       960</span>
+<span class="topo-line"><span class="topo-membrane">TGII</span><span class="topo-inside">ISLIYGWQLT</span><span class="topo-membrane">LLLLAIVPIIAIAGVVEMKMLS</span><span class="topo-outside">GQALKDKKELEGSGKIATEAIENFRTVVSLTREQKFETMYAQSLQIPYRNAM</span><span class="topo-membrane">KKAHVFGITFSFTQAMMYFSYAAC</span><span class="topo-inside">FRFGAYLV</span></span>
+<span class="topo-ruler">       970       980       990      1000      1010      1020      1030      1040      1050      1060      1070      1080</span>
+<span class="topo-line"><span class="topo-inside">TQQLMTFENVLLV</span><span class="topo-membrane">FSAIVFGAMAVGQVSSFAPDY</span><span class="topo-outside">AKATVSASHIIRIIEKTPEIDSYSTQGLKPNMLEGNVQFSGVVFNYPTRPSIPVLQGLSLEVKKGQTLALVGSSGCGKSTVVQLLE</span></span>
+<span class="topo-ruler">      1090      1100      1110      1120      1130      1140      1150      1160      1170      1180      1190      1200</span>
+<span class="topo-line"><span class="topo-outside">RFYDPMAGSVFLDGKEIKQLNVQWLRAQLGIVSQEPILFDCSIAENIAYGDNSRVVSYEEIVRAAKEANIHQFIDSLPDKYNTRVGDKGTQLSGGQKQRIAIARALVRQPHILLLDEATS</span></span>
+<span class="topo-ruler">      1210      1220      1230      1240      1250      1260      1270      1280    </span>
+<span class="topo-line"><span class="topo-outside">ALDTESEKVVQEALDKAREGRTCIVIAHRLSTIQNADLIVVIQNGKVKEHGTHQQLLAQKGIYFSMVSVQAGAKRSLE</span><span class="topo-unknown">HHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (29 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1135,6 +1142,7 @@ Mouse P-glycoprotein (P-gp; ABCB1; Mdr1a) is an ATP-binding cassette (ABC) trans
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1150,28 +1158,29 @@ Mouse P-glycoprotein (P-gp; ABCB1; Mdr1a) is an ATP-binding cassette (ABC) trans
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MELEEDLKGRADKNFSKMGKKSKKEKKEK</span><span class="topo-outside">KPAVSVLTMFRYA</span><span class="topo-membrane">GWLDRLYMLVGTLAAIIH</span></span>
-<span class="topo-line"><span class="topo-membrane">GVALPLMM</span><span class="topo-inside">LIFGDMTDSFASVGQVSKQSTQMSEADKRAMFAKLEEEMTTYAYYY</span><span class="topo-membrane">TGIGAG</span></span>
-<span class="topo-line"><span class="topo-membrane">VLIVAYIQVSFWCLAA</span><span class="topo-outside">GRQIHKIRQKFFHAIMNQEIGWFDVHDVGELNTRLTDDVSKINE</span></span>
-<span class="topo-line"><span class="topo-outside">G</span><span class="topo-membrane">IGDKIGMFFQAMATFFGGFIIGF</span><span class="topo-inside">TRGWKLT</span><span class="topo-membrane">LVILAISPVLGLSAGIWAKILS</span><span class="topo-outside">SFTDKEL</span></span>
-<span class="topo-line"><span class="topo-outside">HAYAKAGAVAEEVLAAIRTVIAFGGQKKELERYNNNLEEAKRLGI</span><span class="topo-membrane">KKAITANISMGAAFL</span></span>
-<span class="topo-line"><span class="topo-membrane">LIYASYALA</span><span class="topo-inside">FWYGTSLVISKEYSIGQVLTV</span><span class="topo-membrane">FFSVLIGAFSVGQASPNIEAFA</span><span class="topo-outside">NARGAAYE</span></span>
-<span class="topo-line"><span class="topo-outside">VFKIIDNKPSIDSFSKSGHKPDNIQGNLEFKNIHFSYPSRKEVQILKGLNLKVKSGQTVA</span></span>
-<span class="topo-line"><span class="topo-outside">LVGNSGCGKSTTVQLMQRLYDPLDGMVSIDGQDIRTINVRYLREIIGVVSQEPVLFATTI</span></span>
-<span class="topo-line"><span class="topo-outside">AENIRYGREDVTMDEIEKAVKEANAYDFIMKLPHQFDTLVGERGAQLSGGQKQRIAIARA</span></span>
-<span class="topo-line"><span class="topo-outside">LVRNPKILLLDEATSALDTESEAVVQAALDKAREGRTTIVIAHRLSTVRNADVIAGFDGG</span></span>
-<span class="topo-line"><span class="topo-outside">VIVEQGNHDELMREKGIYFKLVMTQT</span><span class="topo-unknown">AGNEIELGNEACKSKDEIDNLDMSSKDSGSSLIR</span></span>
-<span class="topo-line"><span class="topo-unknown">RRSTRKSICGPHDQDRKLSTKEALDEDV</span><span class="topo-outside">PPASFWRILKLNSTE</span><span class="topo-membrane">WPYFVVGIFCAIINGGL</span></span>
-<span class="topo-line"><span class="topo-membrane">QPAFSV</span><span class="topo-inside">IFSKVVGVFTNGGPPETQRQNSNLFSLL</span><span class="topo-membrane">FLILGIISFITFFLQGFTFGKA</span><span class="topo-outside">GEIL</span></span>
-<span class="topo-line"><span class="topo-outside">TKRLRYMVFKSMLRQDVSWFDDPKNTTGALTTRLANDAAQVKGA</span><span class="topo-membrane">TGSRLAVIFQNIANLG</span></span>
-<span class="topo-line"><span class="topo-membrane">TGIIISLI</span><span class="topo-inside">YGWQ</span><span class="topo-membrane">LTLLLLAIVPIIAIAGVVEMKML</span><span class="topo-outside">SGQALKDKKELEGSGKIATEAIENF</span></span>
-<span class="topo-line"><span class="topo-outside">RTVVSLTREQKFETMYAQSLQIPYRNAM</span><span class="topo-membrane">KKAHVFGITFSFTQAMMYFSYAAC</span><span class="topo-inside">FRFGAYLV</span></span>
-<span class="topo-line"><span class="topo-inside">TQQLMTFENVLL</span><span class="topo-membrane">VFSAIVFGAMAVGQVSSFA</span><span class="topo-outside">PDYAKATVSASHIIRIIEKTPEIDSYSTQ</span></span>
-<span class="topo-line"><span class="topo-outside">GLKPNMLEGNVQFSGVVFNYPTRPSIPVLQGLSLEVKKGQTLALVGSSGCGKSTVVQLLE</span></span>
-<span class="topo-line"><span class="topo-outside">RFYDPMAGSVFLDGKEIKQLNVQWLRAQLGIVSQEPILFDCSIAENIAYGDNSRVVSYEE</span></span>
-<span class="topo-line"><span class="topo-outside">IVRAAKEANIHQFIDSLPDKYNTRVGDKGTQLSGGQKQRIAIARALVRQPHILLLDEATS</span></span>
-<span class="topo-line"><span class="topo-outside">ALDTESEKVVQEALDKAREGRTCIVIAHRLSTIQNADLIVVIQNGKVKEHGTHQQLLAQK</span></span>
-<span class="topo-line"><span class="topo-outside">GIYFSMVSVQAGAKRSLE</span><span class="topo-unknown">HHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MELEEDLKGRADKNFSKMGKKSKKEKKEK</span><span class="topo-outside">KPAVSVLTMFRYA</span><span class="topo-membrane">GWLDRLYMLVGTLAAIIHGVALPLMM</span><span class="topo-inside">LIFGDMTDSFASVGQVSKQSTQMSEADKRAMFAKLEEEMTTYAYYY</span><span class="topo-membrane">TGIGAG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">VLIVAYIQVSFWCLAA</span><span class="topo-outside">GRQIHKIRQKFFHAIMNQEIGWFDVHDVGELNTRLTDDVSKINEG</span><span class="topo-membrane">IGDKIGMFFQAMATFFGGFIIGF</span><span class="topo-inside">TRGWKLT</span><span class="topo-membrane">LVILAISPVLGLSAGIWAKILS</span><span class="topo-outside">SFTDKEL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">HAYAKAGAVAEEVLAAIRTVIAFGGQKKELERYNNNLEEAKRLGI</span><span class="topo-membrane">KKAITANISMGAAFLLIYASYALA</span><span class="topo-inside">FWYGTSLVISKEYSIGQVLTV</span><span class="topo-membrane">FFSVLIGAFSVGQASPNIEAFA</span><span class="topo-outside">NARGAAYE</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">VFKIIDNKPSIDSFSKSGHKPDNIQGNLEFKNIHFSYPSRKEVQILKGLNLKVKSGQTVALVGNSGCGKSTTVQLMQRLYDPLDGMVSIDGQDIRTINVRYLREIIGVVSQEPVLFATTI</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">AENIRYGREDVTMDEIEKAVKEANAYDFIMKLPHQFDTLVGERGAQLSGGQKQRIAIARALVRNPKILLLDEATSALDTESEAVVQAALDKAREGRTTIVIAHRLSTVRNADVIAGFDGG</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-outside">VIVEQGNHDELMREKGIYFKLVMTQT</span><span class="topo-unknown">AGNEIELGNEACKSKDEIDNLDMSSKDSGSSLIRRRSTRKSICGPHDQDRKLSTKEALDEDV</span><span class="topo-outside">PPASFWRILKLNSTE</span><span class="topo-membrane">WPYFVVGIFCAIINGGL</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820       830       840</span>
+<span class="topo-line"><span class="topo-membrane">QPAFSV</span><span class="topo-inside">IFSKVVGVFTNGGPPETQRQNSNLFSLL</span><span class="topo-membrane">FLILGIISFITFFLQGFTFGKA</span><span class="topo-outside">GEILTKRLRYMVFKSMLRQDVSWFDDPKNTTGALTTRLANDAAQVKGA</span><span class="topo-membrane">TGSRLAVIFQNIANLG</span></span>
+<span class="topo-ruler">       850       860       870       880       890       900       910       920       930       940       950       960</span>
+<span class="topo-line"><span class="topo-membrane">TGIIISLI</span><span class="topo-inside">YGWQ</span><span class="topo-membrane">LTLLLLAIVPIIAIAGVVEMKML</span><span class="topo-outside">SGQALKDKKELEGSGKIATEAIENFRTVVSLTREQKFETMYAQSLQIPYRNAM</span><span class="topo-membrane">KKAHVFGITFSFTQAMMYFSYAAC</span><span class="topo-inside">FRFGAYLV</span></span>
+<span class="topo-ruler">       970       980       990      1000      1010      1020      1030      1040      1050      1060      1070      1080</span>
+<span class="topo-line"><span class="topo-inside">TQQLMTFENVLL</span><span class="topo-membrane">VFSAIVFGAMAVGQVSSFA</span><span class="topo-outside">PDYAKATVSASHIIRIIEKTPEIDSYSTQGLKPNMLEGNVQFSGVVFNYPTRPSIPVLQGLSLEVKKGQTLALVGSSGCGKSTVVQLLE</span></span>
+<span class="topo-ruler">      1090      1100      1110      1120      1130      1140      1150      1160      1170      1180      1190      1200</span>
+<span class="topo-line"><span class="topo-outside">RFYDPMAGSVFLDGKEIKQLNVQWLRAQLGIVSQEPILFDCSIAENIAYGDNSRVVSYEEIVRAAKEANIHQFIDSLPDKYNTRVGDKGTQLSGGQKQRIAIARALVRQPHILLLDEATS</span></span>
+<span class="topo-ruler">      1210      1220      1230      1240      1250      1260      1270      1280    </span>
+<span class="topo-line"><span class="topo-outside">ALDTESEKVVQEALDKAREGRTCIVIAHRLSTIQNADLIVVIQNGKVKEHGTHQQLLAQKGIYFSMVSVQAGAKRSLE</span><span class="topo-unknown">HHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (29 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1386,6 +1395,7 @@ Mouse P-glycoprotein (P-gp; ABCB1; Mdr1a) is an ATP-binding cassette (ABC) trans
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1454,28 +1464,29 @@ Mouse P-glycoprotein (P-gp; ABCB1; Mdr1a) is an ATP-binding cassette (ABC) trans
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MELEEDLKGRADKNFSKMGKKSKKEKKEKKPA</span><span class="topo-outside">VSVLTMFRYAGW</span><span class="topo-membrane">LDRLYMLVGTLAAIIH</span></span>
-<span class="topo-line"><span class="topo-membrane">GVALPLMM</span><span class="topo-inside">LIFGDMTDSFASVGNVSKNSTNMSEADKRAMFAKLEEEMTTYAYY</span><span class="topo-membrane">YTGIGAG</span></span>
-<span class="topo-line"><span class="topo-membrane">VLIVAYIQVSFW</span><span class="topo-outside">CLAAGRQIHKIRQKFFHAIMNQEIGWFDVHDVGELNTRLTDDVSKINE</span></span>
-<span class="topo-line"><span class="topo-outside">GIG</span><span class="topo-membrane">DKIGMFFQAMATFFGGFIIG</span><span class="topo-inside">FTRGWKLTLVI</span><span class="topo-membrane">LAISPVLGLSAGIWAKILSS</span><span class="topo-outside">FTDKEL</span></span>
-<span class="topo-line"><span class="topo-outside">HAYAKAGAVAEEVLAAIRTVIAFGGQKKELERYNNNLEEAKRLGIKKAIT</span><span class="topo-membrane">ANISMGAAFL</span></span>
-<span class="topo-line"><span class="topo-membrane">LIYASYALAF</span><span class="topo-inside">WYGTSLVISKEYSIGQVLTVF</span><span class="topo-membrane">FSVLIGAFSVGQASPNIE</span><span class="topo-outside">AFANARGAAYE</span></span>
-<span class="topo-line"><span class="topo-outside">VFKIIDNKPSIDSFSKSGHKPDNIQGNLEFKNIHFSYPSRKEVQILKGLNLKVKSGQTVA</span></span>
-<span class="topo-line"><span class="topo-outside">LVGNSGCGKSTTVQLMQRLYDPLDGMVSIDGQDIRTINVRYLREIIGVVSQEPVLFATTI</span></span>
-<span class="topo-line"><span class="topo-outside">AENIRYGREDVTMDEIEKAVKEANAYDFIMKLPHQFDTLVGERGAQLSGGQKQRIAIARA</span></span>
-<span class="topo-line"><span class="topo-outside">LVRNPKILLLDEATSALDTESEAVVQAALDKAREGRTTIVIAHRLSTVRNADVIAGFDGG</span></span>
-<span class="topo-line"><span class="topo-outside">VIVEQGNHDELMREKGIYFKLVMTQT</span><span class="topo-unknown">AGNEIELGNEACKSKDEIDNLDMSSKDSGSSLIR</span></span>
-<span class="topo-line"><span class="topo-unknown">RRSTRKSICGPHDQDRKLSTKEA</span><span class="topo-outside">LDEDVPPASFW</span><span class="topo-unknown">RILKLNST</span><span class="topo-outside">EWPYF</span><span class="topo-membrane">VVGIFCAIINGGL</span></span>
-<span class="topo-line"><span class="topo-membrane">QPAFSVIF</span><span class="topo-inside">SKVVGVFTNGGPPETQRQNSNLFS</span><span class="topo-membrane">LLFLILGIISFITFFLQGFTF</span><span class="topo-outside">GKAGEIL</span></span>
-<span class="topo-line"><span class="topo-outside">TKRLRYMVFKSMLRQDVSWFDDPKNTTGALTTRLANDAAQVKGATGSR</span><span class="topo-membrane">LAVIFQNIANLG</span></span>
-<span class="topo-line"><span class="topo-membrane">TGIIISL</span><span class="topo-inside">IYGW</span><span class="topo-membrane">QLTLLLLAIVPIIAIAGVVEM</span><span class="topo-outside">KMLSGQALKDKKELEGSGKIATEAIENF</span></span>
-<span class="topo-line"><span class="topo-outside">RTVVSLTREQKFETMYAQSLQIPYRNAMKKAH</span><span class="topo-membrane">VFGITFSFTQAMMYFSYAAAF</span><span class="topo-inside">RFGAYLV</span></span>
-<span class="topo-line"><span class="topo-inside">TQQLMTFENVLL</span><span class="topo-membrane">VFSAIVFGAMAVGQVSSF</span><span class="topo-outside">APDYAKATVSASHIIRIIEKTPEIDSYSTQ</span></span>
-<span class="topo-line"><span class="topo-outside">GLKPNMLEGNVQFSGVVFNYPTRPSIPVLQGLSLEVKKGQTLALVGSSGCGKSTVVQLLE</span></span>
-<span class="topo-line"><span class="topo-outside">RFYDPMAGSVFLDGKEIKQLNVQWLRAQLGIVSQEPILFDCSIAENIAYGDNSRVVSYEE</span></span>
-<span class="topo-line"><span class="topo-outside">IVRAAKEANIHQFIDSLPDKYNTRVGDKGTQLSGGQKQRIAIARALVRQPHILLLDEATS</span></span>
-<span class="topo-line"><span class="topo-outside">ALDTESEKVVQEALDKAREGRTCIVIAHRLSTIQNADLIVVIQNGKVKEHGTHQQLLAQK</span></span>
-<span class="topo-line"><span class="topo-outside">GIYFSMVSVQA</span><span class="topo-unknown">GAKRSYVHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MELEEDLKGRADKNFSKMGKKSKKEKKEKKPA</span><span class="topo-outside">VSVLTMFRYAGW</span><span class="topo-membrane">LDRLYMLVGTLAAIIHGVALPLMM</span><span class="topo-inside">LIFGDMTDSFASVGNVSKNSTNMSEADKRAMFAKLEEEMTTYAYY</span><span class="topo-membrane">YTGIGAG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">VLIVAYIQVSFW</span><span class="topo-outside">CLAAGRQIHKIRQKFFHAIMNQEIGWFDVHDVGELNTRLTDDVSKINEGIG</span><span class="topo-membrane">DKIGMFFQAMATFFGGFIIG</span><span class="topo-inside">FTRGWKLTLVI</span><span class="topo-membrane">LAISPVLGLSAGIWAKILSS</span><span class="topo-outside">FTDKEL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">HAYAKAGAVAEEVLAAIRTVIAFGGQKKELERYNNNLEEAKRLGIKKAIT</span><span class="topo-membrane">ANISMGAAFLLIYASYALAF</span><span class="topo-inside">WYGTSLVISKEYSIGQVLTVF</span><span class="topo-membrane">FSVLIGAFSVGQASPNIE</span><span class="topo-outside">AFANARGAAYE</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">VFKIIDNKPSIDSFSKSGHKPDNIQGNLEFKNIHFSYPSRKEVQILKGLNLKVKSGQTVALVGNSGCGKSTTVQLMQRLYDPLDGMVSIDGQDIRTINVRYLREIIGVVSQEPVLFATTI</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">AENIRYGREDVTMDEIEKAVKEANAYDFIMKLPHQFDTLVGERGAQLSGGQKQRIAIARALVRNPKILLLDEATSALDTESEAVVQAALDKAREGRTTIVIAHRLSTVRNADVIAGFDGG</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-outside">VIVEQGNHDELMREKGIYFKLVMTQT</span><span class="topo-unknown">AGNEIELGNEACKSKDEIDNLDMSSKDSGSSLIRRRSTRKSICGPHDQDRKLSTKEA</span><span class="topo-outside">LDEDVPPASFW</span><span class="topo-unknown">RILKLNST</span><span class="topo-outside">EWPYF</span><span class="topo-membrane">VVGIFCAIINGGL</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820       830       840</span>
+<span class="topo-line"><span class="topo-membrane">QPAFSVIF</span><span class="topo-inside">SKVVGVFTNGGPPETQRQNSNLFS</span><span class="topo-membrane">LLFLILGIISFITFFLQGFTF</span><span class="topo-outside">GKAGEILTKRLRYMVFKSMLRQDVSWFDDPKNTTGALTTRLANDAAQVKGATGSR</span><span class="topo-membrane">LAVIFQNIANLG</span></span>
+<span class="topo-ruler">       850       860       870       880       890       900       910       920       930       940       950       960</span>
+<span class="topo-line"><span class="topo-membrane">TGIIISL</span><span class="topo-inside">IYGW</span><span class="topo-membrane">QLTLLLLAIVPIIAIAGVVEM</span><span class="topo-outside">KMLSGQALKDKKELEGSGKIATEAIENFRTVVSLTREQKFETMYAQSLQIPYRNAMKKAH</span><span class="topo-membrane">VFGITFSFTQAMMYFSYAAAF</span><span class="topo-inside">RFGAYLV</span></span>
+<span class="topo-ruler">       970       980       990      1000      1010      1020      1030      1040      1050      1060      1070      1080</span>
+<span class="topo-line"><span class="topo-inside">TQQLMTFENVLL</span><span class="topo-membrane">VFSAIVFGAMAVGQVSSF</span><span class="topo-outside">APDYAKATVSASHIIRIIEKTPEIDSYSTQGLKPNMLEGNVQFSGVVFNYPTRPSIPVLQGLSLEVKKGQTLALVGSSGCGKSTVVQLLE</span></span>
+<span class="topo-ruler">      1090      1100      1110      1120      1130      1140      1150      1160      1170      1180      1190      1200</span>
+<span class="topo-line"><span class="topo-outside">RFYDPMAGSVFLDGKEIKQLNVQWLRAQLGIVSQEPILFDCSIAENIAYGDNSRVVSYEEIVRAAKEANIHQFIDSLPDKYNTRVGDKGTQLSGGQKQRIAIARALVRQPHILLLDEATS</span></span>
+<span class="topo-ruler">      1210      1220      1230      1240      1250      1260      1270      1280    </span>
+<span class="topo-line"><span class="topo-outside">ALDTESEKVVQEALDKAREGRTCIVIAHRLSTIQNADLIVVIQNGKVKEHGTHQQLLAQKGIYFSMVSVQA</span><span class="topo-unknown">GAKRSYVHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (31 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1704,6 +1715,7 @@ Mouse P-glycoprotein (P-gp; ABCB1; Mdr1a) is an ATP-binding cassette (ABC) trans
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1719,28 +1731,29 @@ Mouse P-glycoprotein (P-gp; ABCB1; Mdr1a) is an ATP-binding cassette (ABC) trans
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MELEEDLKGRADKNFSKMGKKSKKEKKEK</span><span class="topo-outside">KPAVS</span><span class="topo-membrane">VLTMFRYAGWLDRLYMLVGTLAAIIH</span></span>
-<span class="topo-line"><span class="topo-membrane">GVALPLMM</span><span class="topo-inside">LIFGDMTDSFASVGQVSKQSTQMSEADKRAMFAKLEEEMTTYAYYYT</span><span class="topo-membrane">GIGAG</span></span>
-<span class="topo-line"><span class="topo-membrane">VLIVAYIQVSFWCLAAGRQ</span><span class="topo-outside">IHKIRQKFFHAIMNQEIGWFDVHDVGELNTRLTDDVSKIN</span><span class="topo-membrane">E</span></span>
-<span class="topo-line"><span class="topo-membrane">GIGDKIGMFFQAMATFFGGFIIGF</span><span class="topo-inside">TRGWKLT</span><span class="topo-membrane">LVILAISPVLGLSAGIWAKIL</span><span class="topo-outside">SSFTDKEL</span></span>
-<span class="topo-line"><span class="topo-outside">HAYAKAGAVAEEVLAAIRTVIAFGGQKKELERYNNNLEEAKRLGIKKA</span><span class="topo-membrane">ITANISMGAAFL</span></span>
-<span class="topo-line"><span class="topo-membrane">LIYASYALA</span><span class="topo-inside">FWYGTSLVISKEYSIGQVLTV</span><span class="topo-membrane">FFSVLIGAFSVGQASPNIEAFA</span><span class="topo-outside">NARGAAYE</span></span>
-<span class="topo-line"><span class="topo-outside">VFKIIDNKPSIDSFSKSGHKPDNIQGNLEFKNIHFSYPSRKEVQILKGLNLKVKSGQTVA</span></span>
-<span class="topo-line"><span class="topo-outside">LVGNSGCGKSTTVQLMQRLYDPLDGMVSIDGQDIRTINVRYLREIIGVVSQEPVLFATTI</span></span>
-<span class="topo-line"><span class="topo-outside">AENIRYGREDVTMDEIEKAVKEANAYDFIMKLPHQFDTLVGERGAQLSGGQKQRIAIARA</span></span>
-<span class="topo-line"><span class="topo-outside">LVRNPKILLLDEATSALDTESEAVVQAALDKAREGRTTIVIAHRLSTVRNADVIAGFDGG</span></span>
-<span class="topo-line"><span class="topo-outside">VIVEQGNHDELMREKGIYFKLVMTQT</span><span class="topo-unknown">AGNEIELGNEACKSKDEIDNLDMSSKDSGSSLIR</span></span>
-<span class="topo-line"><span class="topo-unknown">RRSTRKSICGPHDQDRKLST</span><span class="topo-outside">KEALDEDVPPASFWRILKLNSTEW</span><span class="topo-membrane">PYFVVGIFCAIINGGL</span></span>
-<span class="topo-line"><span class="topo-membrane">QPAFSVIF</span><span class="topo-inside">SKVVGVFTNGGPPETQRQNSNLFS</span><span class="topo-membrane">LLFLILGIISFITFFLQGFTFG</span><span class="topo-outside">KAGEIL</span></span>
-<span class="topo-line"><span class="topo-outside">TKRLRYMVFKSMLRQDVSWFDDPKNTTGALTTRLANDAAQVKG</span><span class="topo-membrane">ATGSRLAVIFQNIANLG</span></span>
-<span class="topo-line"><span class="topo-membrane">TGIIISL</span><span class="topo-inside">IYGWQLT</span><span class="topo-membrane">LLLLAIVPIIAIAGVVEMKMLSGQA</span><span class="topo-outside">LKDKKELEGSGKIATEAIENF</span></span>
-<span class="topo-line"><span class="topo-outside">RTVVSLTREQKFETMYAQSLQIPYR</span><span class="topo-membrane">NAMKKAHVFGITFSFTQAMMYFSYAAA</span><span class="topo-inside">FRFGAYLV</span></span>
-<span class="topo-line"><span class="topo-inside">TQQLMTFENVLL</span><span class="topo-membrane">VFSAIVFGAMAVGQVSSFAPDYA</span><span class="topo-outside">KATVSASHIIRIIEKTPEIDSYSTQ</span></span>
-<span class="topo-line"><span class="topo-outside">GLKPNMLEGNVQFSGVVFNYPTRPSIPVLQGLSLEVKKGQTLALVGSSGCGKSTVVQLLE</span></span>
-<span class="topo-line"><span class="topo-outside">RFYDPMAGSVFLDGKEIKQLNVQWLRAQLGIVSQEPILFDCSIAENIAYGDNSRVVSYEE</span></span>
-<span class="topo-line"><span class="topo-outside">IVRAAKEANIHQFIDSLPDKYNTRVGDKGTQLSGGQKQRIAIARALVRQPHILLLDEATS</span></span>
-<span class="topo-line"><span class="topo-outside">ALDTESEKVVQEALDKAREGRTCIVIAHRLSTIQNADLIVVIQNGKVKEHGTHQQLLAQK</span></span>
-<span class="topo-line"><span class="topo-outside">GIYFSMVSVQA</span><span class="topo-unknown">GAKRSHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MELEEDLKGRADKNFSKMGKKSKKEKKEK</span><span class="topo-outside">KPAVS</span><span class="topo-membrane">VLTMFRYAGWLDRLYMLVGTLAAIIHGVALPLMM</span><span class="topo-inside">LIFGDMTDSFASVGQVSKQSTQMSEADKRAMFAKLEEEMTTYAYYYT</span><span class="topo-membrane">GIGAG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">VLIVAYIQVSFWCLAAGRQ</span><span class="topo-outside">IHKIRQKFFHAIMNQEIGWFDVHDVGELNTRLTDDVSKIN</span><span class="topo-membrane">EGIGDKIGMFFQAMATFFGGFIIGF</span><span class="topo-inside">TRGWKLT</span><span class="topo-membrane">LVILAISPVLGLSAGIWAKIL</span><span class="topo-outside">SSFTDKEL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">HAYAKAGAVAEEVLAAIRTVIAFGGQKKELERYNNNLEEAKRLGIKKA</span><span class="topo-membrane">ITANISMGAAFLLIYASYALA</span><span class="topo-inside">FWYGTSLVISKEYSIGQVLTV</span><span class="topo-membrane">FFSVLIGAFSVGQASPNIEAFA</span><span class="topo-outside">NARGAAYE</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">VFKIIDNKPSIDSFSKSGHKPDNIQGNLEFKNIHFSYPSRKEVQILKGLNLKVKSGQTVALVGNSGCGKSTTVQLMQRLYDPLDGMVSIDGQDIRTINVRYLREIIGVVSQEPVLFATTI</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">AENIRYGREDVTMDEIEKAVKEANAYDFIMKLPHQFDTLVGERGAQLSGGQKQRIAIARALVRNPKILLLDEATSALDTESEAVVQAALDKAREGRTTIVIAHRLSTVRNADVIAGFDGG</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-outside">VIVEQGNHDELMREKGIYFKLVMTQT</span><span class="topo-unknown">AGNEIELGNEACKSKDEIDNLDMSSKDSGSSLIRRRSTRKSICGPHDQDRKLST</span><span class="topo-outside">KEALDEDVPPASFWRILKLNSTEW</span><span class="topo-membrane">PYFVVGIFCAIINGGL</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820       830       840</span>
+<span class="topo-line"><span class="topo-membrane">QPAFSVIF</span><span class="topo-inside">SKVVGVFTNGGPPETQRQNSNLFS</span><span class="topo-membrane">LLFLILGIISFITFFLQGFTFG</span><span class="topo-outside">KAGEILTKRLRYMVFKSMLRQDVSWFDDPKNTTGALTTRLANDAAQVKG</span><span class="topo-membrane">ATGSRLAVIFQNIANLG</span></span>
+<span class="topo-ruler">       850       860       870       880       890       900       910       920       930       940       950       960</span>
+<span class="topo-line"><span class="topo-membrane">TGIIISL</span><span class="topo-inside">IYGWQLT</span><span class="topo-membrane">LLLLAIVPIIAIAGVVEMKMLSGQA</span><span class="topo-outside">LKDKKELEGSGKIATEAIENFRTVVSLTREQKFETMYAQSLQIPYR</span><span class="topo-membrane">NAMKKAHVFGITFSFTQAMMYFSYAAA</span><span class="topo-inside">FRFGAYLV</span></span>
+<span class="topo-ruler">       970       980       990      1000      1010      1020      1030      1040      1050      1060      1070      1080</span>
+<span class="topo-line"><span class="topo-inside">TQQLMTFENVLL</span><span class="topo-membrane">VFSAIVFGAMAVGQVSSFAPDYA</span><span class="topo-outside">KATVSASHIIRIIEKTPEIDSYSTQGLKPNMLEGNVQFSGVVFNYPTRPSIPVLQGLSLEVKKGQTLALVGSSGCGKSTVVQLLE</span></span>
+<span class="topo-ruler">      1090      1100      1110      1120      1130      1140      1150      1160      1170      1180      1190      1200</span>
+<span class="topo-line"><span class="topo-outside">RFYDPMAGSVFLDGKEIKQLNVQWLRAQLGIVSQEPILFDCSIAENIAYGDNSRVVSYEEIVRAAKEANIHQFIDSLPDKYNTRVGDKGTQLSGGQKQRIAIARALVRQPHILLLDEATS</span></span>
+<span class="topo-ruler">      1210      1220      1230      1240      1250      1260      1270      1280  </span>
+<span class="topo-line"><span class="topo-outside">ALDTESEKVVQEALDKAREGRTCIVIAHRLSTIQNADLIVVIQNGKVKEHGTHQQLLAQKGIYFSMVSVQA</span><span class="topo-unknown">GAKRSHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (29 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1955,6 +1968,7 @@ Mouse P-glycoprotein (P-gp; ABCB1; Mdr1a) is an ATP-binding cassette (ABC) trans
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1970,28 +1984,29 @@ Mouse P-glycoprotein (P-gp; ABCB1; Mdr1a) is an ATP-binding cassette (ABC) trans
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MELEEDLKGRADKNFSKMGKKSKKEKKEK</span><span class="topo-outside">KPAVSVLTM</span><span class="topo-membrane">FRYAGWLDRLYMLVGTLAAIIH</span></span>
-<span class="topo-line"><span class="topo-membrane">GVALPLMM</span><span class="topo-inside">LIFGDMTDSFASVGQVSKQSTQMSEADKRAMFAKLEEEMTTYAYYYTGI</span><span class="topo-membrane">GAG</span></span>
-<span class="topo-line"><span class="topo-membrane">VLIVAYIQVSFWCLAAGRQ</span><span class="topo-outside">IHKIRQKFFHAIMNQEIGWFDVHDVGELNTRLTDDVSKINE</span></span>
-<span class="topo-line"><span class="topo-membrane">GIGDKIGMFFQAMATFFGGFIIGF</span><span class="topo-inside">TRGWKL</span><span class="topo-membrane">TLVILAISPVLGLSAGIWAK</span><span class="topo-outside">ILSSFTDKEL</span></span>
-<span class="topo-line"><span class="topo-outside">HAYAKAGAVAEEVLAAIRTVIAFGGQKKELERYNNNLEEAKRLGIKKAI</span><span class="topo-membrane">TANISMGAAFL</span></span>
-<span class="topo-line"><span class="topo-membrane">LIYASYALAFWY</span><span class="topo-inside">GTSLVISKEYSIGQVLT</span><span class="topo-membrane">VFFSVLIGAFSVGQASPNIEAFA</span><span class="topo-outside">NARGAAYE</span></span>
-<span class="topo-line"><span class="topo-outside">VFKIIDNKPSIDSFSKSGHKPDNIQGNLEFKNIHFSYPSRKEVQILKGLNLKVKSGQTVA</span></span>
-<span class="topo-line"><span class="topo-outside">LVGNSGCGKSTTVQLMQRLYDPLDGMVSIDGQDIRTINVRYLREIIGVVSQEPVLFATTI</span></span>
-<span class="topo-line"><span class="topo-outside">AENIRYGREDVTMDEIEKAVKEANAYDFIMKLPHQFDTLVGERGAQLSGGQKQRIAIARA</span></span>
-<span class="topo-line"><span class="topo-outside">LVRNPKILLLDEATSALDTESEAVVQAALDKAREGRTTIVIAHRLSTVRNADVIAGFDGG</span></span>
-<span class="topo-line"><span class="topo-outside">VIVEQGNHDELMREKGIYFKLVMTQT</span><span class="topo-unknown">AGNEIELGNEACKSKDEIDNLDMSSKDSGSSLIR</span></span>
-<span class="topo-line"><span class="topo-unknown">RRSTRKSICGPHDQDRKLST</span><span class="topo-outside">KEALDEDVPPASFWRILKLNSTEWP</span><span class="topo-membrane">YFVVGIFCAIINGGL</span></span>
-<span class="topo-line"><span class="topo-membrane">QPAFSVIF</span><span class="topo-inside">SKVVGVFTNGGPPETQRQNSNLF</span><span class="topo-membrane">SLLFLILGIISFITFFLQGFTF</span><span class="topo-outside">GKAGEIL</span></span>
-<span class="topo-line"><span class="topo-outside">TKRLRYMVFKSMLRQDVSWFDDPKNTTGALTTRLANDAAQVKGATG</span><span class="topo-membrane">SRLAVIFQNIANLG</span></span>
-<span class="topo-line"><span class="topo-membrane">TGIIISL</span><span class="topo-inside">IYGWQLT</span><span class="topo-membrane">LLLLAIVPIIAIAGVVEMKMLSGQA</span><span class="topo-outside">LKDKKELEGSGKIATEAIENF</span></span>
-<span class="topo-line"><span class="topo-outside">RTVVSLTREQKFETMYAQSLQIPYR</span><span class="topo-membrane">NAMKKAHVFGITFSFTQAMMYFSYA</span><span class="topo-inside">ACFRFGAYLV</span></span>
-<span class="topo-line"><span class="topo-inside">TQQLMTFENVLL</span><span class="topo-membrane">VFSAIVFGAMAVGQVSSFAPDY</span><span class="topo-outside">AKATVSASHIIRIIEKTPEIDSYSTQ</span></span>
-<span class="topo-line"><span class="topo-outside">GLKPNMLEGNVQFSGVVFNYPTRPSIPVLQGLSLEVKKGQTLALVGSSGCGKSTVVQLLE</span></span>
-<span class="topo-line"><span class="topo-outside">RFYDPMAGSVFLDGKEIKQLNVQWLRAQLGIVSQEPILFDCSIAENIAYGDNSRVVSYEE</span></span>
-<span class="topo-line"><span class="topo-outside">IVRAAKEANIHQFIDSLPDKYNTRVGDKGTQLSGGQKQRIAIARALVRQPHILLLDEATS</span></span>
-<span class="topo-line"><span class="topo-outside">ALDTESEKVVQEALDKAREGRTCIVIAHRLSTIQNADLIVVIQNGKVKEHGTHQQLLAQK</span></span>
-<span class="topo-line"><span class="topo-outside">GIYFSMVSVQA</span><span class="topo-unknown">GAKRSHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MELEEDLKGRADKNFSKMGKKSKKEKKEK</span><span class="topo-outside">KPAVSVLTM</span><span class="topo-membrane">FRYAGWLDRLYMLVGTLAAIIHGVALPLMM</span><span class="topo-inside">LIFGDMTDSFASVGQVSKQSTQMSEADKRAMFAKLEEEMTTYAYYYTGI</span><span class="topo-membrane">GAG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">VLIVAYIQVSFWCLAAGRQ</span><span class="topo-outside">IHKIRQKFFHAIMNQEIGWFDVHDVGELNTRLTDDVSKINE</span><span class="topo-membrane">GIGDKIGMFFQAMATFFGGFIIGF</span><span class="topo-inside">TRGWKL</span><span class="topo-membrane">TLVILAISPVLGLSAGIWAK</span><span class="topo-outside">ILSSFTDKEL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">HAYAKAGAVAEEVLAAIRTVIAFGGQKKELERYNNNLEEAKRLGIKKAI</span><span class="topo-membrane">TANISMGAAFLLIYASYALAFWY</span><span class="topo-inside">GTSLVISKEYSIGQVLT</span><span class="topo-membrane">VFFSVLIGAFSVGQASPNIEAFA</span><span class="topo-outside">NARGAAYE</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">VFKIIDNKPSIDSFSKSGHKPDNIQGNLEFKNIHFSYPSRKEVQILKGLNLKVKSGQTVALVGNSGCGKSTTVQLMQRLYDPLDGMVSIDGQDIRTINVRYLREIIGVVSQEPVLFATTI</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">AENIRYGREDVTMDEIEKAVKEANAYDFIMKLPHQFDTLVGERGAQLSGGQKQRIAIARALVRNPKILLLDEATSALDTESEAVVQAALDKAREGRTTIVIAHRLSTVRNADVIAGFDGG</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-outside">VIVEQGNHDELMREKGIYFKLVMTQT</span><span class="topo-unknown">AGNEIELGNEACKSKDEIDNLDMSSKDSGSSLIRRRSTRKSICGPHDQDRKLST</span><span class="topo-outside">KEALDEDVPPASFWRILKLNSTEWP</span><span class="topo-membrane">YFVVGIFCAIINGGL</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820       830       840</span>
+<span class="topo-line"><span class="topo-membrane">QPAFSVIF</span><span class="topo-inside">SKVVGVFTNGGPPETQRQNSNLF</span><span class="topo-membrane">SLLFLILGIISFITFFLQGFTF</span><span class="topo-outside">GKAGEILTKRLRYMVFKSMLRQDVSWFDDPKNTTGALTTRLANDAAQVKGATG</span><span class="topo-membrane">SRLAVIFQNIANLG</span></span>
+<span class="topo-ruler">       850       860       870       880       890       900       910       920       930       940       950       960</span>
+<span class="topo-line"><span class="topo-membrane">TGIIISL</span><span class="topo-inside">IYGWQLT</span><span class="topo-membrane">LLLLAIVPIIAIAGVVEMKMLSGQA</span><span class="topo-outside">LKDKKELEGSGKIATEAIENFRTVVSLTREQKFETMYAQSLQIPYR</span><span class="topo-membrane">NAMKKAHVFGITFSFTQAMMYFSYA</span><span class="topo-inside">ACFRFGAYLV</span></span>
+<span class="topo-ruler">       970       980       990      1000      1010      1020      1030      1040      1050      1060      1070      1080</span>
+<span class="topo-line"><span class="topo-inside">TQQLMTFENVLL</span><span class="topo-membrane">VFSAIVFGAMAVGQVSSFAPDY</span><span class="topo-outside">AKATVSASHIIRIIEKTPEIDSYSTQGLKPNMLEGNVQFSGVVFNYPTRPSIPVLQGLSLEVKKGQTLALVGSSGCGKSTVVQLLE</span></span>
+<span class="topo-ruler">      1090      1100      1110      1120      1130      1140      1150      1160      1170      1180      1190      1200</span>
+<span class="topo-line"><span class="topo-outside">RFYDPMAGSVFLDGKEIKQLNVQWLRAQLGIVSQEPILFDCSIAENIAYGDNSRVVSYEEIVRAAKEANIHQFIDSLPDKYNTRVGDKGTQLSGGQKQRIAIARALVRQPHILLLDEATS</span></span>
+<span class="topo-ruler">      1210      1220      1230      1240      1250      1260      1270      1280  </span>
+<span class="topo-line"><span class="topo-outside">ALDTESEKVVQEALDKAREGRTCIVIAHRLSTIQNADLIVVIQNGKVKEHGTHQQLLAQKGIYFSMVSVQA</span><span class="topo-unknown">GAKRSHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (29 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2206,6 +2221,7 @@ Mouse P-glycoprotein (P-gp; ABCB1; Mdr1a) is an ATP-binding cassette (ABC) trans
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2221,28 +2237,29 @@ Mouse P-glycoprotein (P-gp; ABCB1; Mdr1a) is an ATP-binding cassette (ABC) trans
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MELEEDLKGRADKNFSKMGKKSKKEKKEK</span><span class="topo-outside">KPAVSVLTMFRYAGW</span><span class="topo-membrane">LDRLYMLVGTLAAIIH</span></span>
-<span class="topo-line"><span class="topo-membrane">GVALPLMML</span><span class="topo-inside">IFGDMTDSFASVGQVSKQSTQMSEADKRAMFAKLEEEMTTYAYYY</span><span class="topo-membrane">TGIGAG</span></span>
-<span class="topo-line"><span class="topo-membrane">VLIVAYIQVSFWCLA</span><span class="topo-outside">AGRQIHKIRQKFFHAIMNQEIGWFDVHDVGELNTRLTDDVSKINE</span></span>
-<span class="topo-line"><span class="topo-outside">G</span><span class="topo-membrane">IGDKIGMFFQAMATFFGGFIIGF</span><span class="topo-inside">TRGWKL</span><span class="topo-membrane">TLVILAISPVLGLSAGIWAKIL</span><span class="topo-outside">SSFTDKEL</span></span>
-<span class="topo-line"><span class="topo-outside">HAYAKAGAVAEEVLAAIRTVIAFGGQKKELERYNNNLEEAKRLGIK</span><span class="topo-membrane">KAITANISMGAAFL</span></span>
-<span class="topo-line"><span class="topo-membrane">LIYASYALA</span><span class="topo-inside">FWYGTSLVISKEYSIGQVLT</span><span class="topo-membrane">VFFSVLIGAFSVGQASPNIEAF</span><span class="topo-outside">ANARGAAYE</span></span>
-<span class="topo-line"><span class="topo-outside">VFKIIDNKPSIDSFSKSGHKPDNIQGNLEFKNIHFSYPSRKEVQILKGLNLKVKSGQTVA</span></span>
-<span class="topo-line"><span class="topo-outside">LVGNSGCGKSTTVQLMQRLYDPLDGMVSIDGQDIRTINVRYLREIIGVVSQEPVLFATTI</span></span>
-<span class="topo-line"><span class="topo-outside">AENIRYGREDVTMDEIEKAVKEANAYDFIMKLPHQFDTLVGERGAQLSGGQKQRIAIARA</span></span>
-<span class="topo-line"><span class="topo-outside">LVRNPKILLLDEATSALDTESEAVVQAALDKAREGRTTIVIAHRLSTVRNADVIAGFDGG</span></span>
-<span class="topo-line"><span class="topo-outside">VIVEQGNHDELMREKGIYFKLVMTQT</span><span class="topo-unknown">AGNEIELGNEACKSKDEIDNLDMSSKDSGSSLIR</span></span>
-<span class="topo-line"><span class="topo-unknown">RRSTRKSICGPHDQDRKLST</span><span class="topo-outside">KEALDEDVPPASFWRILKLNSTE</span><span class="topo-membrane">WPYFVVGIFCAIINGGL</span></span>
-<span class="topo-line"><span class="topo-membrane">QPAFSVIF</span><span class="topo-inside">SKVVGVFTNGGPPETQRQNSNLFSL</span><span class="topo-membrane">LFLILGIISFITFFLQGFTFGKA</span><span class="topo-outside">GEIL</span></span>
-<span class="topo-line"><span class="topo-outside">TKRLRYMVFKSMLRQDVSWFDDPKNTTGALTTRLANDAAQVKG</span><span class="topo-membrane">ATGSRLAVIFQNIANLG</span></span>
-<span class="topo-line"><span class="topo-membrane">TGIIISL</span><span class="topo-inside">IYGWQLT</span><span class="topo-membrane">LLLLAIVPIIAIAGVVEMKML</span><span class="topo-outside">SGQALKDKKELEGSGKIATEAIENF</span></span>
-<span class="topo-line"><span class="topo-outside">RTVVSLTREQKFETMYAQSLQIPYRNAM</span><span class="topo-membrane">KKAHVFGITFSFTQAMMYFSYAAC</span><span class="topo-inside">FRFGAYLV</span></span>
-<span class="topo-line"><span class="topo-inside">TQQLMTFENVLLV</span><span class="topo-membrane">FSAIVFGAMAVGQVSSFAPDY</span><span class="topo-outside">AKATVSASHIIRIIEKTPEIDSYSTQ</span></span>
-<span class="topo-line"><span class="topo-outside">GLKPNMLEGNVQFSGVVFNYPTRPSIPVLQGLSLEVKKGQTLALVGSSGCGKSTVVQLLE</span></span>
-<span class="topo-line"><span class="topo-outside">RFYDPMAGSVFLDGKEIKQLNVQWLRAQLGIVSQEPILFDCSIAENIAYGDNSRVVSYEE</span></span>
-<span class="topo-line"><span class="topo-outside">IVRAAKEANIHQFIDSLPDKYNTRVGDKGTQLSGGQKQRIAIARALVRQPHILLLDEATS</span></span>
-<span class="topo-line"><span class="topo-outside">ALDTESEKVVQEALDKAREGRTCIVIAHRLSTIQNADLIVVIQNGKVKEHGTHQQLLAQK</span></span>
-<span class="topo-line"><span class="topo-outside">GIYFSMVSVQA</span><span class="topo-unknown">GAKRSHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MELEEDLKGRADKNFSKMGKKSKKEKKEK</span><span class="topo-outside">KPAVSVLTMFRYAGW</span><span class="topo-membrane">LDRLYMLVGTLAAIIHGVALPLMML</span><span class="topo-inside">IFGDMTDSFASVGQVSKQSTQMSEADKRAMFAKLEEEMTTYAYYY</span><span class="topo-membrane">TGIGAG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">VLIVAYIQVSFWCLA</span><span class="topo-outside">AGRQIHKIRQKFFHAIMNQEIGWFDVHDVGELNTRLTDDVSKINEG</span><span class="topo-membrane">IGDKIGMFFQAMATFFGGFIIGF</span><span class="topo-inside">TRGWKL</span><span class="topo-membrane">TLVILAISPVLGLSAGIWAKIL</span><span class="topo-outside">SSFTDKEL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">HAYAKAGAVAEEVLAAIRTVIAFGGQKKELERYNNNLEEAKRLGIK</span><span class="topo-membrane">KAITANISMGAAFLLIYASYALA</span><span class="topo-inside">FWYGTSLVISKEYSIGQVLT</span><span class="topo-membrane">VFFSVLIGAFSVGQASPNIEAF</span><span class="topo-outside">ANARGAAYE</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">VFKIIDNKPSIDSFSKSGHKPDNIQGNLEFKNIHFSYPSRKEVQILKGLNLKVKSGQTVALVGNSGCGKSTTVQLMQRLYDPLDGMVSIDGQDIRTINVRYLREIIGVVSQEPVLFATTI</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">AENIRYGREDVTMDEIEKAVKEANAYDFIMKLPHQFDTLVGERGAQLSGGQKQRIAIARALVRNPKILLLDEATSALDTESEAVVQAALDKAREGRTTIVIAHRLSTVRNADVIAGFDGG</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-outside">VIVEQGNHDELMREKGIYFKLVMTQT</span><span class="topo-unknown">AGNEIELGNEACKSKDEIDNLDMSSKDSGSSLIRRRSTRKSICGPHDQDRKLST</span><span class="topo-outside">KEALDEDVPPASFWRILKLNSTE</span><span class="topo-membrane">WPYFVVGIFCAIINGGL</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820       830       840</span>
+<span class="topo-line"><span class="topo-membrane">QPAFSVIF</span><span class="topo-inside">SKVVGVFTNGGPPETQRQNSNLFSL</span><span class="topo-membrane">LFLILGIISFITFFLQGFTFGKA</span><span class="topo-outside">GEILTKRLRYMVFKSMLRQDVSWFDDPKNTTGALTTRLANDAAQVKG</span><span class="topo-membrane">ATGSRLAVIFQNIANLG</span></span>
+<span class="topo-ruler">       850       860       870       880       890       900       910       920       930       940       950       960</span>
+<span class="topo-line"><span class="topo-membrane">TGIIISL</span><span class="topo-inside">IYGWQLT</span><span class="topo-membrane">LLLLAIVPIIAIAGVVEMKML</span><span class="topo-outside">SGQALKDKKELEGSGKIATEAIENFRTVVSLTREQKFETMYAQSLQIPYRNAM</span><span class="topo-membrane">KKAHVFGITFSFTQAMMYFSYAAC</span><span class="topo-inside">FRFGAYLV</span></span>
+<span class="topo-ruler">       970       980       990      1000      1010      1020      1030      1040      1050      1060      1070      1080</span>
+<span class="topo-line"><span class="topo-inside">TQQLMTFENVLLV</span><span class="topo-membrane">FSAIVFGAMAVGQVSSFAPDY</span><span class="topo-outside">AKATVSASHIIRIIEKTPEIDSYSTQGLKPNMLEGNVQFSGVVFNYPTRPSIPVLQGLSLEVKKGQTLALVGSSGCGKSTVVQLLE</span></span>
+<span class="topo-ruler">      1090      1100      1110      1120      1130      1140      1150      1160      1170      1180      1190      1200</span>
+<span class="topo-line"><span class="topo-outside">RFYDPMAGSVFLDGKEIKQLNVQWLRAQLGIVSQEPILFDCSIAENIAYGDNSRVVSYEEIVRAAKEANIHQFIDSLPDKYNTRVGDKGTQLSGGQKQRIAIARALVRQPHILLLDEATS</span></span>
+<span class="topo-ruler">      1210      1220      1230      1240      1250      1260      1270      1280  </span>
+<span class="topo-line"><span class="topo-outside">ALDTESEKVVQEALDKAREGRTCIVIAHRLSTIQNADLIVVIQNGKVKEHGTHQQLLAQKGIYFSMVSVQA</span><span class="topo-unknown">GAKRSHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (29 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2457,6 +2474,7 @@ Mouse P-glycoprotein (P-gp; ABCB1; Mdr1a) is an ATP-binding cassette (ABC) trans
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2518,28 +2536,29 @@ Mouse P-glycoprotein (P-gp; ABCB1; Mdr1a) is an ATP-binding cassette (ABC) trans
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MELEEDLKGRADKNFSKMGKKSKKEKKEKKPA</span><span class="topo-outside">V</span><span class="topo-unknown">SVLTMF</span><span class="topo-outside">RYAGW</span><span class="topo-membrane">LDRLYMLVGTLAAIIH</span></span>
-<span class="topo-line"><span class="topo-membrane">GVALPLMM</span><span class="topo-inside">LIFGDMTDSFASVGNVSKNSTNMSEADKRAMFAKLEEEMTTYAYYY</span><span class="topo-membrane">TGIGAG</span></span>
-<span class="topo-line"><span class="topo-membrane">VLIVAYIQVSFWCLA</span><span class="topo-outside">AGRQIHKIRQKFFHAIMNQEIGWFDVHDVGELNTRLTDDVSKINE</span></span>
-<span class="topo-line"><span class="topo-outside">GIG</span><span class="topo-membrane">DKIGMFFQAMATFFGGFIIG</span><span class="topo-inside">FTRGWKLTLVI</span><span class="topo-membrane">LAISPVLGLSAGIWAKILS</span><span class="topo-outside">SFTDKEL</span></span>
-<span class="topo-line"><span class="topo-outside">HAYAKAGAVAEEVLAAIRTVIAFGGQKKELERYNNNLEEAKRLGIKKAIT</span><span class="topo-membrane">ANISMGAAFL</span></span>
-<span class="topo-line"><span class="topo-membrane">LIYASYALAF</span><span class="topo-inside">WYGTSLVISKEYSIGQVLTV</span><span class="topo-membrane">FFSVLIGAFSVGQASPNIE</span><span class="topo-outside">AFANARGAAYE</span></span>
-<span class="topo-line"><span class="topo-outside">VFKIIDNKPSIDSFSKSGHKPDNIQGNLEFKNIHFSYPSRKEVQILKGLNLKVKSGQTVA</span></span>
-<span class="topo-line"><span class="topo-outside">LVGNSGCGKSTTVQLMQRLYDPLDGMVSIDGQDIRTINVRYLREIIGVVSQEPVLFATTI</span></span>
-<span class="topo-line"><span class="topo-outside">AENIRYGREDVTMDEIEKAVKEANAYDFIMKLPHQFDTLVGERGAQLSGGQKQRIAIARA</span></span>
-<span class="topo-line"><span class="topo-outside">LVRNPKILLLDEATSALDTESEAVVQAALDKAREGRTTIVIAHRLSTVRNADVIAGFDGG</span></span>
-<span class="topo-line"><span class="topo-outside">VIVEQGNHDELMREKGIYFKLVMTQT</span><span class="topo-unknown">AGNEIELGNEACKSKDEIDNLDMSSKDSGSSLIR</span></span>
-<span class="topo-line"><span class="topo-unknown">RRSTRKSICGPHDQDRKLSTKEA</span><span class="topo-outside">LDEDVPPASFW</span><span class="topo-unknown">RILKLNST</span><span class="topo-outside">EWPYF</span><span class="topo-membrane">VVGIFCAIINGGL</span></span>
-<span class="topo-line"><span class="topo-membrane">QPAFSVIF</span><span class="topo-inside">SKVVGVFTNGGPPETQRQNSNLFS</span><span class="topo-membrane">LLFLILGIISFITFFLQGFTF</span><span class="topo-outside">GKAGEIL</span></span>
-<span class="topo-line"><span class="topo-outside">TKRLRYMVFKSMLRQDVSWFDDPKNTTGALTTRLANDAAQVKGATGSR</span><span class="topo-membrane">LAVIFQNIANLG</span></span>
-<span class="topo-line"><span class="topo-membrane">TGIIISL</span><span class="topo-inside">IYGWQL</span><span class="topo-membrane">TLLLLAIVPIIAIAGVVEM</span><span class="topo-outside">KMLSGQALKDKKELEGSGKIATEAIENF</span></span>
-<span class="topo-line"><span class="topo-outside">RTVVSLTREQKFETMYAQSLQIPYRNAMKKA</span><span class="topo-membrane">HVFGITFSFTQAMMYFSYAAC</span><span class="topo-inside">FRFGAYLV</span></span>
-<span class="topo-line"><span class="topo-inside">TQQLMTFENVL</span><span class="topo-membrane">LVFSAIVFGAMAVGQVSSF</span><span class="topo-outside">APDYAKATVSASHIIRIIEKTPEIDSYSTQ</span></span>
-<span class="topo-line"><span class="topo-outside">GLKPNMLEGNVQFSGVVFNYPTRPSIPVLQGLSLEVKKGQTLALVGSSGCGKSTVVQLLE</span></span>
-<span class="topo-line"><span class="topo-outside">RFYDPMAGSVFLDGKEIKQLNVQWLRAQLGIVSQEPILFDCSIAENIAYGDNSRVVSYEE</span></span>
-<span class="topo-line"><span class="topo-outside">IVRAAKEANIHQFIDSLPDKYNTRVGDKGTQLSGGQKQRIAIARALVRQPHILLLDEATS</span></span>
-<span class="topo-line"><span class="topo-outside">ALDTESEKVVQEALDKAREGRTCIVIAHRLSTIQNADLIVVIQNGKVKEHGTHQQLLAQK</span></span>
-<span class="topo-line"><span class="topo-outside">GIYFSMVSVQA</span><span class="topo-unknown">GAKRSYVHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MELEEDLKGRADKNFSKMGKKSKKEKKEKKPA</span><span class="topo-outside">V</span><span class="topo-unknown">SVLTMF</span><span class="topo-outside">RYAGW</span><span class="topo-membrane">LDRLYMLVGTLAAIIHGVALPLMM</span><span class="topo-inside">LIFGDMTDSFASVGNVSKNSTNMSEADKRAMFAKLEEEMTTYAYYY</span><span class="topo-membrane">TGIGAG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">VLIVAYIQVSFWCLA</span><span class="topo-outside">AGRQIHKIRQKFFHAIMNQEIGWFDVHDVGELNTRLTDDVSKINEGIG</span><span class="topo-membrane">DKIGMFFQAMATFFGGFIIG</span><span class="topo-inside">FTRGWKLTLVI</span><span class="topo-membrane">LAISPVLGLSAGIWAKILS</span><span class="topo-outside">SFTDKEL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">HAYAKAGAVAEEVLAAIRTVIAFGGQKKELERYNNNLEEAKRLGIKKAIT</span><span class="topo-membrane">ANISMGAAFLLIYASYALAF</span><span class="topo-inside">WYGTSLVISKEYSIGQVLTV</span><span class="topo-membrane">FFSVLIGAFSVGQASPNIE</span><span class="topo-outside">AFANARGAAYE</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">VFKIIDNKPSIDSFSKSGHKPDNIQGNLEFKNIHFSYPSRKEVQILKGLNLKVKSGQTVALVGNSGCGKSTTVQLMQRLYDPLDGMVSIDGQDIRTINVRYLREIIGVVSQEPVLFATTI</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">AENIRYGREDVTMDEIEKAVKEANAYDFIMKLPHQFDTLVGERGAQLSGGQKQRIAIARALVRNPKILLLDEATSALDTESEAVVQAALDKAREGRTTIVIAHRLSTVRNADVIAGFDGG</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-outside">VIVEQGNHDELMREKGIYFKLVMTQT</span><span class="topo-unknown">AGNEIELGNEACKSKDEIDNLDMSSKDSGSSLIRRRSTRKSICGPHDQDRKLSTKEA</span><span class="topo-outside">LDEDVPPASFW</span><span class="topo-unknown">RILKLNST</span><span class="topo-outside">EWPYF</span><span class="topo-membrane">VVGIFCAIINGGL</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820       830       840</span>
+<span class="topo-line"><span class="topo-membrane">QPAFSVIF</span><span class="topo-inside">SKVVGVFTNGGPPETQRQNSNLFS</span><span class="topo-membrane">LLFLILGIISFITFFLQGFTF</span><span class="topo-outside">GKAGEILTKRLRYMVFKSMLRQDVSWFDDPKNTTGALTTRLANDAAQVKGATGSR</span><span class="topo-membrane">LAVIFQNIANLG</span></span>
+<span class="topo-ruler">       850       860       870       880       890       900       910       920       930       940       950       960</span>
+<span class="topo-line"><span class="topo-membrane">TGIIISL</span><span class="topo-inside">IYGWQL</span><span class="topo-membrane">TLLLLAIVPIIAIAGVVEM</span><span class="topo-outside">KMLSGQALKDKKELEGSGKIATEAIENFRTVVSLTREQKFETMYAQSLQIPYRNAMKKA</span><span class="topo-membrane">HVFGITFSFTQAMMYFSYAAC</span><span class="topo-inside">FRFGAYLV</span></span>
+<span class="topo-ruler">       970       980       990      1000      1010      1020      1030      1040      1050      1060      1070      1080</span>
+<span class="topo-line"><span class="topo-inside">TQQLMTFENVL</span><span class="topo-membrane">LVFSAIVFGAMAVGQVSSF</span><span class="topo-outside">APDYAKATVSASHIIRIIEKTPEIDSYSTQGLKPNMLEGNVQFSGVVFNYPTRPSIPVLQGLSLEVKKGQTLALVGSSGCGKSTVVQLLE</span></span>
+<span class="topo-ruler">      1090      1100      1110      1120      1130      1140      1150      1160      1170      1180      1190      1200</span>
+<span class="topo-line"><span class="topo-outside">RFYDPMAGSVFLDGKEIKQLNVQWLRAQLGIVSQEPILFDCSIAENIAYGDNSRVVSYEEIVRAAKEANIHQFIDSLPDKYNTRVGDKGTQLSGGQKQRIAIARALVRQPHILLLDEATS</span></span>
+<span class="topo-ruler">      1210      1220      1230      1240      1250      1260      1270      1280    </span>
+<span class="topo-line"><span class="topo-outside">ALDTESEKVVQEALDKAREGRTCIVIAHRLSTIQNADLIVVIQNGKVKEHGTHQQLLAQKGIYFSMVSVQA</span><span class="topo-unknown">GAKRSYVHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (33 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2782,6 +2801,7 @@ Mouse P-glycoprotein (P-gp; ABCB1; Mdr1a) is an ATP-binding cassette (ABC) trans
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2797,28 +2817,29 @@ Mouse P-glycoprotein (P-gp; ABCB1; Mdr1a) is an ATP-binding cassette (ABC) trans
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MELEEDLKGRADKNFSKMGKKSKKEKKEKKPA</span><span class="topo-outside">VSVLTMFRYAGW</span><span class="topo-membrane">LDRLYMLVGTLAAIIH</span></span>
-<span class="topo-line"><span class="topo-membrane">GVALPLMM</span><span class="topo-inside">LIFGDMTDSFASVGNVSKNSTNMSEADKRAMFAKLEEEMTTYAYYY</span><span class="topo-membrane">TGIGAG</span></span>
-<span class="topo-line"><span class="topo-membrane">VLIVAYIQVSFW</span><span class="topo-outside">CLAAGRQIHKIRQKFFHAIMNQEIGWFDVHDVGELNTRLTDDVSKINE</span></span>
-<span class="topo-line"><span class="topo-outside">GIG</span><span class="topo-membrane">DKIGMFFQAMATFFGGFIIG</span><span class="topo-inside">FTRGWKLTLVI</span><span class="topo-membrane">LAISPVLGLSAGIWAKILS</span><span class="topo-outside">SFTDKEL</span></span>
-<span class="topo-line"><span class="topo-outside">HAYAKAGAVAEEVLAAIRTVIAFGGQKKELERYNNNLEEAKRLGIKKAIT</span><span class="topo-membrane">ANISMGAAFL</span></span>
-<span class="topo-line"><span class="topo-membrane">LIYASYALAF</span><span class="topo-inside">WYGTSLVISKEYSIGQVLTVF</span><span class="topo-membrane">FSVLIGAFSVGQASPNIE</span><span class="topo-outside">AFANARGAAYE</span></span>
-<span class="topo-line"><span class="topo-outside">VFKIIDNKPSIDSFSKSGHKPDNIQGNLEFKNIHFSYPSRKEVQILKGLNLKVKSGQTVA</span></span>
-<span class="topo-line"><span class="topo-outside">LVGNSGCGKSTTVQLMQRLYDPLDGMVSIDGQDIRTINVRYLREIIGVVSQEPVLFATTI</span></span>
-<span class="topo-line"><span class="topo-outside">AENIRYGREDVTMDEIEKAVKEANAYDFIMKLPHQFDTLVGERGAQLSGGQKQRIAIARA</span></span>
-<span class="topo-line"><span class="topo-outside">LVRNPKILLLDEATSALDTESEAVVQAALDKAREGRTTIVIAHRLSTVRNADVIAGFDGG</span></span>
-<span class="topo-line"><span class="topo-outside">VIVEQGNHDELMREKGIYFKLVMTQT</span><span class="topo-unknown">AGNEIELGNEACKSKDEIDNLDMSSKDSGSSLIR</span></span>
-<span class="topo-line"><span class="topo-unknown">RRSTRKSICGPHDQDRKLSTKEA</span><span class="topo-outside">LDEDVPPASFW</span><span class="topo-unknown">RILKLNSTE</span><span class="topo-outside">WPYF</span><span class="topo-membrane">VVGIFCAIINGGL</span></span>
-<span class="topo-line"><span class="topo-membrane">QPAFSVIF</span><span class="topo-inside">SKVVGVFTNGGPPETQRQNSNLFSL</span><span class="topo-membrane">LFLILGIISFITFFLQGFTF</span><span class="topo-outside">GKAGEIL</span></span>
-<span class="topo-line"><span class="topo-outside">TKRLRYMVFKSMLRQDVSWFDDPKNTTGALTTRLANDAAQVKGATGS</span><span class="topo-membrane">RLAVIFQNIANLG</span></span>
-<span class="topo-line"><span class="topo-membrane">TGIIISL</span><span class="topo-inside">IYGWQL</span><span class="topo-membrane">TLLLLAIVPIIAIAGVVEM</span><span class="topo-outside">KMLSGQALKDKKELEGSGKIATEAIENF</span></span>
-<span class="topo-line"><span class="topo-outside">RTVVSLTREQKFETMYAQSLQIPYRNAMKKA</span><span class="topo-membrane">HVFGITFSFTQAMMYFSYAAC</span><span class="topo-inside">FRFGAYLV</span></span>
-<span class="topo-line"><span class="topo-inside">TQQLMTFENVLL</span><span class="topo-membrane">VFSAIVFGAMAVGQVSSF</span><span class="topo-outside">APDYAKATVSASHIIRIIEKTPEIDSYSTQ</span></span>
-<span class="topo-line"><span class="topo-outside">GLKPNMLEGNVQFSGVVFNYPTRPSIPVLQGLSLEVKKGQTLALVGSSGCGKSTVVQLLE</span></span>
-<span class="topo-line"><span class="topo-outside">RFYDPMAGSVFLDGKEIKQLNVQWLRAQLGIVSQEPILFDCSIAENIAYGDNSRVVSYEE</span></span>
-<span class="topo-line"><span class="topo-outside">IVRAAKEANIHQFIDSLPDKYNTRVGDKGTQLSGGQKQRIAIARALVRQPHILLLDEATS</span></span>
-<span class="topo-line"><span class="topo-outside">ALDTESEKVVQEALDKAREGRTCIVIAHRLSTIQNADLIVVIQNGKVKEHGTHQQLLAQK</span></span>
-<span class="topo-line"><span class="topo-outside">GIYFSMVSVQA</span><span class="topo-unknown">GAKRSYVHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MELEEDLKGRADKNFSKMGKKSKKEKKEKKPA</span><span class="topo-outside">VSVLTMFRYAGW</span><span class="topo-membrane">LDRLYMLVGTLAAIIHGVALPLMM</span><span class="topo-inside">LIFGDMTDSFASVGNVSKNSTNMSEADKRAMFAKLEEEMTTYAYYY</span><span class="topo-membrane">TGIGAG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">VLIVAYIQVSFW</span><span class="topo-outside">CLAAGRQIHKIRQKFFHAIMNQEIGWFDVHDVGELNTRLTDDVSKINEGIG</span><span class="topo-membrane">DKIGMFFQAMATFFGGFIIG</span><span class="topo-inside">FTRGWKLTLVI</span><span class="topo-membrane">LAISPVLGLSAGIWAKILS</span><span class="topo-outside">SFTDKEL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">HAYAKAGAVAEEVLAAIRTVIAFGGQKKELERYNNNLEEAKRLGIKKAIT</span><span class="topo-membrane">ANISMGAAFLLIYASYALAF</span><span class="topo-inside">WYGTSLVISKEYSIGQVLTVF</span><span class="topo-membrane">FSVLIGAFSVGQASPNIE</span><span class="topo-outside">AFANARGAAYE</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">VFKIIDNKPSIDSFSKSGHKPDNIQGNLEFKNIHFSYPSRKEVQILKGLNLKVKSGQTVALVGNSGCGKSTTVQLMQRLYDPLDGMVSIDGQDIRTINVRYLREIIGVVSQEPVLFATTI</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">AENIRYGREDVTMDEIEKAVKEANAYDFIMKLPHQFDTLVGERGAQLSGGQKQRIAIARALVRNPKILLLDEATSALDTESEAVVQAALDKAREGRTTIVIAHRLSTVRNADVIAGFDGG</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-outside">VIVEQGNHDELMREKGIYFKLVMTQT</span><span class="topo-unknown">AGNEIELGNEACKSKDEIDNLDMSSKDSGSSLIRRRSTRKSICGPHDQDRKLSTKEA</span><span class="topo-outside">LDEDVPPASFW</span><span class="topo-unknown">RILKLNSTE</span><span class="topo-outside">WPYF</span><span class="topo-membrane">VVGIFCAIINGGL</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820       830       840</span>
+<span class="topo-line"><span class="topo-membrane">QPAFSVIF</span><span class="topo-inside">SKVVGVFTNGGPPETQRQNSNLFSL</span><span class="topo-membrane">LFLILGIISFITFFLQGFTF</span><span class="topo-outside">GKAGEILTKRLRYMVFKSMLRQDVSWFDDPKNTTGALTTRLANDAAQVKGATGS</span><span class="topo-membrane">RLAVIFQNIANLG</span></span>
+<span class="topo-ruler">       850       860       870       880       890       900       910       920       930       940       950       960</span>
+<span class="topo-line"><span class="topo-membrane">TGIIISL</span><span class="topo-inside">IYGWQL</span><span class="topo-membrane">TLLLLAIVPIIAIAGVVEM</span><span class="topo-outside">KMLSGQALKDKKELEGSGKIATEAIENFRTVVSLTREQKFETMYAQSLQIPYRNAMKKA</span><span class="topo-membrane">HVFGITFSFTQAMMYFSYAAC</span><span class="topo-inside">FRFGAYLV</span></span>
+<span class="topo-ruler">       970       980       990      1000      1010      1020      1030      1040      1050      1060      1070      1080</span>
+<span class="topo-line"><span class="topo-inside">TQQLMTFENVLL</span><span class="topo-membrane">VFSAIVFGAMAVGQVSSF</span><span class="topo-outside">APDYAKATVSASHIIRIIEKTPEIDSYSTQGLKPNMLEGNVQFSGVVFNYPTRPSIPVLQGLSLEVKKGQTLALVGSSGCGKSTVVQLLE</span></span>
+<span class="topo-ruler">      1090      1100      1110      1120      1130      1140      1150      1160      1170      1180      1190      1200</span>
+<span class="topo-line"><span class="topo-outside">RFYDPMAGSVFLDGKEIKQLNVQWLRAQLGIVSQEPILFDCSIAENIAYGDNSRVVSYEEIVRAAKEANIHQFIDSLPDKYNTRVGDKGTQLSGGQKQRIAIARALVRQPHILLLDEATS</span></span>
+<span class="topo-ruler">      1210      1220      1230      1240      1250      1260      1270      1280    </span>
+<span class="topo-line"><span class="topo-outside">ALDTESEKVVQEALDKAREGRTCIVIAHRLSTIQNADLIVVIQNGKVKEHGTHQQLLAQKGIYFSMVSVQA</span><span class="topo-unknown">GAKRSYVHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (31 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3047,6 +3068,7 @@ Mouse P-glycoprotein (P-gp; ABCB1; Mdr1a) is an ATP-binding cassette (ABC) trans
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3094,28 +3116,29 @@ Mouse P-glycoprotein (P-gp; ABCB1; Mdr1a) is an ATP-binding cassette (ABC) trans
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MELEEDLKGRADKNFSKMGKKSKKEKKEK</span><span class="topo-outside">KPAVS</span><span class="topo-membrane">VLTMFRYAGWLDRLYMLVGTLAAIIH</span></span>
-<span class="topo-line"><span class="topo-membrane">GVALPLMM</span><span class="topo-inside">LIFGDMTDSFASVGQVSKQSTQMSEADKRAMFAKLEEEMTTYAYYYTGI</span><span class="topo-membrane">GAG</span></span>
-<span class="topo-line"><span class="topo-membrane">VLIVAYIQVSFWCLAAGRQI</span><span class="topo-outside">HKIRQKFFHAIMNQEIGWFDVHDVGELNTRLTDDVSKIN</span><span class="topo-membrane">E</span></span>
-<span class="topo-line"><span class="topo-membrane">GIGDKIGMFFQAMATFFGGFIIGF</span><span class="topo-inside">TRGW</span><span class="topo-membrane">KLTLVILAISPVLGLSAGIWA</span><span class="topo-outside">KILSSFTDKEL</span></span>
-<span class="topo-line"><span class="topo-outside">HAYAKAGAVAEEVLAAIRTVIAFGGQKKELERYNNNLEEAKRLGIKKAI</span><span class="topo-membrane">TANISMGAAFL</span></span>
-<span class="topo-line"><span class="topo-membrane">LIYASYALAFWYG</span><span class="topo-inside">TSLVISKEYSIGQVL</span><span class="topo-membrane">TVFFSVLIGAFSVGQASPNIEAFA</span><span class="topo-outside">NARGAAYE</span></span>
-<span class="topo-line"><span class="topo-outside">VFKIIDNKPSIDSFSKSGHKPDNIQGNLEFKNIHFSYPSRKEVQILKGLNLKVKSGQTVA</span></span>
-<span class="topo-line"><span class="topo-outside">LVGNSGCGKSTTVQLMQRLYDPLDGMVSIDGQDIRTINVRYLREIIGVVSQEPVLFATTI</span></span>
-<span class="topo-line"><span class="topo-outside">AENIRYGREDVTMDEIEKAVKEANAYDFIMKLPHQFDTLVGERGAQLSGGQKQRIAIARA</span></span>
-<span class="topo-line"><span class="topo-outside">LVRNPKILLLDEATSALDTESEAVVQAALDKAREGRTTIVIAHRLSTVRNADVIAGFDGG</span></span>
-<span class="topo-line"><span class="topo-outside">VIVEQGNHDELMREKGIYFKLVMTQT</span><span class="topo-unknown">AGNEIELGNEACKSKDEIDNLDMSSKDSGSSLIR</span></span>
-<span class="topo-line"><span class="topo-unknown">RRSTRKSICGPHDQDRKLSTKEALDEDV</span><span class="topo-outside">PPASFW</span><span class="topo-unknown">RILKLN</span><span class="topo-outside">STEWP</span><span class="topo-membrane">YFVVGIFCAIINGGL</span></span>
-<span class="topo-line"><span class="topo-membrane">QPAFSVIFS</span><span class="topo-inside">KVVGVFTNGGPPETQRQNSNL</span><span class="topo-membrane">FSLLFLILGIISFITFFLQGFTF</span><span class="topo-outside">GKAGEIL</span></span>
-<span class="topo-line"><span class="topo-outside">TKRLRYMVFKSMLRQDVSWFDDPKNTTGALTTRLANDAAQVKGATGS</span><span class="topo-membrane">RLAVIFQNIANLG</span></span>
-<span class="topo-line"><span class="topo-membrane">TGIIISLI</span><span class="topo-inside">YGWQL</span><span class="topo-membrane">TLLLLAIVPIIAIAGVVEMKMLSGQA</span><span class="topo-outside">LKDKKELEGSGKIATEAIENF</span></span>
-<span class="topo-line"><span class="topo-outside">RTVVSLTREQKFETMYAQSLQIPY</span><span class="topo-membrane">RNAMKKAHVFGITFSFTQAMMYFSYAAC</span><span class="topo-inside">FRFGAYLV</span></span>
-<span class="topo-line"><span class="topo-inside">TQQLMTFENVL</span><span class="topo-membrane">LVFSAIVFGAMAVGQVSSFA</span><span class="topo-outside">PDYAKATVSASHIIRIIEKTPEIDSYSTQ</span></span>
-<span class="topo-line"><span class="topo-outside">GLKPNMLEGNVQFSGVVFNYPTRPSIPVLQGLSLEVKKGQTLALVGSSGCGKSTVVQLLE</span></span>
-<span class="topo-line"><span class="topo-outside">RFYDPMAGSVFLDGKEIKQLNVQWLRAQLGIVSQEPILFDCSIAENIAYGDNSRVVSYEE</span></span>
-<span class="topo-line"><span class="topo-outside">IVRAAKEANIHQFIDSLPDKYNTRVGDKGTQLSGGQKQRIAIARALVRQPHILLLDEATS</span></span>
-<span class="topo-line"><span class="topo-outside">ALDTESEKVVQEALDKAREGRTCIVIAHRLSTIQNADLIVVIQNGKVKEHGTHQQLLAQK</span></span>
-<span class="topo-line"><span class="topo-outside">GIYFSMVSVQAGA</span><span class="topo-unknown">KRSLEHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MELEEDLKGRADKNFSKMGKKSKKEKKEK</span><span class="topo-outside">KPAVS</span><span class="topo-membrane">VLTMFRYAGWLDRLYMLVGTLAAIIHGVALPLMM</span><span class="topo-inside">LIFGDMTDSFASVGQVSKQSTQMSEADKRAMFAKLEEEMTTYAYYYTGI</span><span class="topo-membrane">GAG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">VLIVAYIQVSFWCLAAGRQI</span><span class="topo-outside">HKIRQKFFHAIMNQEIGWFDVHDVGELNTRLTDDVSKIN</span><span class="topo-membrane">EGIGDKIGMFFQAMATFFGGFIIGF</span><span class="topo-inside">TRGW</span><span class="topo-membrane">KLTLVILAISPVLGLSAGIWA</span><span class="topo-outside">KILSSFTDKEL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">HAYAKAGAVAEEVLAAIRTVIAFGGQKKELERYNNNLEEAKRLGIKKAI</span><span class="topo-membrane">TANISMGAAFLLIYASYALAFWYG</span><span class="topo-inside">TSLVISKEYSIGQVL</span><span class="topo-membrane">TVFFSVLIGAFSVGQASPNIEAFA</span><span class="topo-outside">NARGAAYE</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">VFKIIDNKPSIDSFSKSGHKPDNIQGNLEFKNIHFSYPSRKEVQILKGLNLKVKSGQTVALVGNSGCGKSTTVQLMQRLYDPLDGMVSIDGQDIRTINVRYLREIIGVVSQEPVLFATTI</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">AENIRYGREDVTMDEIEKAVKEANAYDFIMKLPHQFDTLVGERGAQLSGGQKQRIAIARALVRNPKILLLDEATSALDTESEAVVQAALDKAREGRTTIVIAHRLSTVRNADVIAGFDGG</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-outside">VIVEQGNHDELMREKGIYFKLVMTQT</span><span class="topo-unknown">AGNEIELGNEACKSKDEIDNLDMSSKDSGSSLIRRRSTRKSICGPHDQDRKLSTKEALDEDV</span><span class="topo-outside">PPASFW</span><span class="topo-unknown">RILKLN</span><span class="topo-outside">STEWP</span><span class="topo-membrane">YFVVGIFCAIINGGL</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820       830       840</span>
+<span class="topo-line"><span class="topo-membrane">QPAFSVIFS</span><span class="topo-inside">KVVGVFTNGGPPETQRQNSNL</span><span class="topo-membrane">FSLLFLILGIISFITFFLQGFTF</span><span class="topo-outside">GKAGEILTKRLRYMVFKSMLRQDVSWFDDPKNTTGALTTRLANDAAQVKGATGS</span><span class="topo-membrane">RLAVIFQNIANLG</span></span>
+<span class="topo-ruler">       850       860       870       880       890       900       910       920       930       940       950       960</span>
+<span class="topo-line"><span class="topo-membrane">TGIIISLI</span><span class="topo-inside">YGWQL</span><span class="topo-membrane">TLLLLAIVPIIAIAGVVEMKMLSGQA</span><span class="topo-outside">LKDKKELEGSGKIATEAIENFRTVVSLTREQKFETMYAQSLQIPY</span><span class="topo-membrane">RNAMKKAHVFGITFSFTQAMMYFSYAAC</span><span class="topo-inside">FRFGAYLV</span></span>
+<span class="topo-ruler">       970       980       990      1000      1010      1020      1030      1040      1050      1060      1070      1080</span>
+<span class="topo-line"><span class="topo-inside">TQQLMTFENVL</span><span class="topo-membrane">LVFSAIVFGAMAVGQVSSFA</span><span class="topo-outside">PDYAKATVSASHIIRIIEKTPEIDSYSTQGLKPNMLEGNVQFSGVVFNYPTRPSIPVLQGLSLEVKKGQTLALVGSSGCGKSTVVQLLE</span></span>
+<span class="topo-ruler">      1090      1100      1110      1120      1130      1140      1150      1160      1170      1180      1190      1200</span>
+<span class="topo-line"><span class="topo-outside">RFYDPMAGSVFLDGKEIKQLNVQWLRAQLGIVSQEPILFDCSIAENIAYGDNSRVVSYEEIVRAAKEANIHQFIDSLPDKYNTRVGDKGTQLSGGQKQRIAIARALVRQPHILLLDEATS</span></span>
+<span class="topo-ruler">      1210      1220      1230      1240      1250      1260      1270      1280    </span>
+<span class="topo-line"><span class="topo-outside">ALDTESEKVVQEALDKAREGRTCIVIAHRLSTIQNADLIVVIQNGKVKEHGTHQQLLAQKGIYFSMVSVQAGA</span><span class="topo-unknown">KRSLEHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (28 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3323,6 +3346,7 @@ Mouse P-glycoprotein (P-gp; ABCB1; Mdr1a) is an ATP-binding cassette (ABC) trans
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

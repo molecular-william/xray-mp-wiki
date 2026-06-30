@@ -150,24 +150,25 @@ AdeB is a multidrug efflux transporter from the Gram-negative pathogen Acinetoba
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MS</span><span class="topo-outside">M</span><span class="topo-unknown">SQFFIR</span><span class="topo-outside">RPV</span><span class="topo-membrane">FAWVIAIFIIIFGLL</span><span class="topo-inside">SIPKLPIARFPSVAPPQVNISATYPGATAKTIN</span></span>
-<span class="topo-line"><span class="topo-inside">DSVVTLIERELSGVKNLLYYSATTDTSGTAEITATFKPGTDVEMAQVDVQNKIKAVEARL</span></span>
-<span class="topo-line"><span class="topo-inside">PQVVRQQGLQVEASSSGFLMLVGINSPNNQYSEVDLSDYLVRNVVEELKRVEGVGKVQSF</span></span>
-<span class="topo-line"><span class="topo-inside">GAEKAMRIWVDPNKLVSYGLSISDVNNAIRENNVEIAPGRLGDLPAEKGQLITIPLSAQG</span></span>
-<span class="topo-line"><span class="topo-inside">QLSSLEQFKNISLK</span><span class="topo-unknown">SKTNG</span><span class="topo-inside">SVIKLSDVANVEIGSQAYNFAILENGKPATAAAIQLSPGAN</span></span>
-<span class="topo-line"><span class="topo-inside">AVKTAEGVRAKIEELKLNLPEGMEFSIPYDTAPFVKISIEKVIH</span><span class="topo-membrane">TLLEAMVLVFIVMYL</span><span class="topo-outside">F</span></span>
-<span class="topo-line"><span class="topo-outside">LHNVRYT</span><span class="topo-membrane">LIPAIVAPIALLGTFTV</span><span class="topo-inside">MLLAGFSINVLTMFG</span><span class="topo-membrane">MVLAIGIIVDDAIV</span><span class="topo-outside">VVENVER</span></span>
-<span class="topo-line"><span class="topo-outside">IMATEGLS</span><span class="topo-unknown">PKDATSKAMKEI</span><span class="topo-outside">TSP</span><span class="topo-membrane">IIGITLVLAAVFLPM</span><span class="topo-inside">AFASGSVGVIYKQFT</span><span class="topo-membrane">LTMSVSI</span></span>
-<span class="topo-line"><span class="topo-membrane">LFSALLALILT</span><span class="topo-outside">PALCATILKPIDGH</span><span class="topo-unknown">HQKKGFF</span><span class="topo-outside">AW</span><span class="topo-unknown">FDRSFDKVTKKYELMLLKII</span><span class="topo-outside">KHTVP</span><span class="topo-membrane">M</span></span>
-<span class="topo-line"><span class="topo-membrane">MVIFLVITGITFAGM</span><span class="topo-inside">KYWPTAFMPEEDQGWFMTSFQLPSDATAERTRNVVNQFENNLKDN</span></span>
-<span class="topo-line"><span class="topo-inside">PDVKSNTAILGWGFSGAGQNVAVAFTTLKDFKERTSSASKMTSDVNSSMANSTEGETMAV</span></span>
-<span class="topo-line"><span class="topo-inside">LPPAIDELGTFSGFSLRLQDRANLGMPALLAAQDELMAMAAKNKKFYMVWNEGLPQGDNI</span></span>
-<span class="topo-line"><span class="topo-inside">SLKIDREKLSALGVKFSDVSDIISTSMGSMYINDFPNQGRMQQVIVQVEAKSRMQLKDIL</span></span>
-<span class="topo-line"><span class="topo-inside">NLKVMGSSGQLVSLSEVVTPQWNKAPQQYNRYNGRPSLSIAGIPNFDTSSGEAMREMEQL</span></span>
-<span class="topo-line"><span class="topo-inside">IAKLPKGIGYEWTGISLQEKQSESQMAF</span><span class="topo-membrane">LLGLSMLVVFLVLAAL</span><span class="topo-outside">YESWAIP</span><span class="topo-membrane">LSVMLVVPL</span></span>
-<span class="topo-line"><span class="topo-membrane">GIFGAIIAIMS</span><span class="topo-inside">RGLMNDVFFKI</span><span class="topo-membrane">GLITIIGLSAKNAI</span><span class="topo-outside">LIVEFAKMLKEEGMSLIEATVAAA</span></span>
-<span class="topo-line"><span class="topo-outside">KLRLRPI</span><span class="topo-membrane">LMTSLAFTCGVIPLVI</span><span class="topo-inside">ATGASSETQHALG</span><span class="topo-membrane">TGVFGGMISATILAI</span><span class="topo-unknown">FFVPVFFIF</span></span>
-<span class="topo-line"><span class="topo-unknown">ILG</span><span class="topo-outside">AV</span><span class="topo-unknown">EKLFSSKKKISSALEVLFQGPHHHHHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MS</span><span class="topo-outside">M</span><span class="topo-unknown">SQFFIR</span><span class="topo-outside">RPV</span><span class="topo-membrane">FAWVIAIFIIIFGLL</span><span class="topo-inside">SIPKLPIARFPSVAPPQVNISATYPGATAKTINDSVVTLIERELSGVKNLLYYSATTDTSGTAEITATFKPGTDVEMAQVDVQNKIKAVEARL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">PQVVRQQGLQVEASSSGFLMLVGINSPNNQYSEVDLSDYLVRNVVEELKRVEGVGKVQSFGAEKAMRIWVDPNKLVSYGLSISDVNNAIRENNVEIAPGRLGDLPAEKGQLITIPLSAQG</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">QLSSLEQFKNISLK</span><span class="topo-unknown">SKTNG</span><span class="topo-inside">SVIKLSDVANVEIGSQAYNFAILENGKPATAAAIQLSPGANAVKTAEGVRAKIEELKLNLPEGMEFSIPYDTAPFVKISIEKVIH</span><span class="topo-membrane">TLLEAMVLVFIVMYL</span><span class="topo-outside">F</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">LHNVRYT</span><span class="topo-membrane">LIPAIVAPIALLGTFTV</span><span class="topo-inside">MLLAGFSINVLTMFG</span><span class="topo-membrane">MVLAIGIIVDDAIV</span><span class="topo-outside">VVENVERIMATEGLS</span><span class="topo-unknown">PKDATSKAMKEI</span><span class="topo-outside">TSP</span><span class="topo-membrane">IIGITLVLAAVFLPM</span><span class="topo-inside">AFASGSVGVIYKQFT</span><span class="topo-membrane">LTMSVSI</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-membrane">LFSALLALILT</span><span class="topo-outside">PALCATILKPIDGH</span><span class="topo-unknown">HQKKGFF</span><span class="topo-outside">AW</span><span class="topo-unknown">FDRSFDKVTKKYELMLLKII</span><span class="topo-outside">KHTVP</span><span class="topo-membrane">MMVIFLVITGITFAGM</span><span class="topo-inside">KYWPTAFMPEEDQGWFMTSFQLPSDATAERTRNVVNQFENNLKDN</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-inside">PDVKSNTAILGWGFSGAGQNVAVAFTTLKDFKERTSSASKMTSDVNSSMANSTEGETMAVLPPAIDELGTFSGFSLRLQDRANLGMPALLAAQDELMAMAAKNKKFYMVWNEGLPQGDNI</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820       830       840</span>
+<span class="topo-line"><span class="topo-inside">SLKIDREKLSALGVKFSDVSDIISTSMGSMYINDFPNQGRMQQVIVQVEAKSRMQLKDILNLKVMGSSGQLVSLSEVVTPQWNKAPQQYNRYNGRPSLSIAGIPNFDTSSGEAMREMEQL</span></span>
+<span class="topo-ruler">       850       860       870       880       890       900       910       920       930       940       950       960</span>
+<span class="topo-line"><span class="topo-inside">IAKLPKGIGYEWTGISLQEKQSESQMAF</span><span class="topo-membrane">LLGLSMLVVFLVLAAL</span><span class="topo-outside">YESWAIP</span><span class="topo-membrane">LSVMLVVPLGIFGAIIAIMS</span><span class="topo-inside">RGLMNDVFFKI</span><span class="topo-membrane">GLITIIGLSAKNAI</span><span class="topo-outside">LIVEFAKMLKEEGMSLIEATVAAA</span></span>
+<span class="topo-ruler">       970       980       990      1000      1010      1020      1030      1040      1050      </span>
+<span class="topo-line"><span class="topo-outside">KLRLRPI</span><span class="topo-membrane">LMTSLAFTCGVIPLVI</span><span class="topo-inside">ATGASSETQHALG</span><span class="topo-membrane">TGVFGGMISATILAI</span><span class="topo-unknown">FFVPVFFIFILG</span><span class="topo-outside">AV</span><span class="topo-unknown">EKLFSSKKKISSALEVLFQGPHHHHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (34 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -417,6 +418,7 @@ AdeB is a multidrug efflux transporter from the Gram-negative pathogen Acinetoba
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -432,24 +434,25 @@ AdeB is a multidrug efflux transporter from the Gram-negative pathogen Acinetoba
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MS</span><span class="topo-outside">MSQFFIRRPVF</span><span class="topo-membrane">AWVIAIFIIIFGLLS</span><span class="topo-inside">IPKLPIARFPSVAPPQVNISATYPGATAKTIN</span></span>
-<span class="topo-line"><span class="topo-inside">DSVVTLIERELSGVKNLLYYSATTDTSGTAEITATFKPGTDVEMAQVDVQNKIKAVEARL</span></span>
-<span class="topo-line"><span class="topo-inside">PQVVRQQGLQVEASSSGFLMLVGINSPNNQYSEVDLSDYLVRNVVEELKRVEGVGKVQSF</span></span>
-<span class="topo-line"><span class="topo-inside">GAEKAMRIWVDPNKLVSYGLSISDVNNAIRENNVEIAPGRLGDLPAEKGQLITIPLSAQG</span></span>
-<span class="topo-line"><span class="topo-inside">QLSSLEQFKNISLKSKTNGSVIKLSDVANVEIGSQAYNFAILENGKPATAAAIQLSPGAN</span></span>
-<span class="topo-line"><span class="topo-inside">AVKTAEGVRAKIEELKLNLPEGMEFSIPYDTAPFVKISIEKVIH</span><span class="topo-membrane">TLLEAMVLVFIVMYL</span><span class="topo-outside">F</span></span>
-<span class="topo-line"><span class="topo-outside">LHNVRYT</span><span class="topo-membrane">LIPAIVAPIALLGTFTVM</span><span class="topo-inside">LLAGFSINVLTMFG</span><span class="topo-membrane">MVLAIGIIVDDAI</span><span class="topo-outside">VVVENVER</span></span>
-<span class="topo-line"><span class="topo-outside">IMATEGLSPKDATSKAMKEITSPI</span><span class="topo-membrane">IGITLVLAAVFLPM</span><span class="topo-inside">AFASGSVGVIYKQF</span><span class="topo-membrane">TLTMSVSI</span></span>
-<span class="topo-line"><span class="topo-membrane">LFSALLALIL</span><span class="topo-outside">TPALCATILKPIDG</span><span class="topo-unknown">HHQKKGFF</span><span class="topo-outside">AW</span><span class="topo-unknown">FDRSFDKVTKKYELMLLKIIK</span><span class="topo-outside">HTVP</span><span class="topo-membrane">M</span></span>
-<span class="topo-line"><span class="topo-membrane">MVIFLVITGITFAGM</span><span class="topo-inside">KYWPTAFMPEEDQGWFMTSFQLPSDATAERTRNVVNQFENNLKDN</span></span>
-<span class="topo-line"><span class="topo-inside">PDVKSNTAILGWGFSGAGQNVAVAFTTLKDFKERTSSASKMTSDVNSSMANSTEGETMAV</span></span>
-<span class="topo-line"><span class="topo-inside">LPPAIDELGTFSGFSLRLQDRANLGMPALLAAQDELMAMAAKNKKFYMVWNEGLPQGDNI</span></span>
-<span class="topo-line"><span class="topo-inside">SLKIDREKLSALGVKFSDVSDIISTSMGSMYINDFPNQGRMQQVIVQVEAKSRMQLKDIL</span></span>
-<span class="topo-line"><span class="topo-inside">NLKVMGSSGQLVSLSEVVTPQWNKAPQQYNRYNGRPSLSIAGIPNFDTSSGEAMREMEQL</span></span>
-<span class="topo-line"><span class="topo-inside">IAKLPKGIGYEWTGISLQEKQSESQMAF</span><span class="topo-membrane">LLGLSMLVVFLVLAAL</span><span class="topo-outside">YESWAIP</span><span class="topo-membrane">LSVMLVVPL</span></span>
-<span class="topo-line"><span class="topo-membrane">GIFGAIIAI</span><span class="topo-inside">MSRGLMNDVFFKI</span><span class="topo-membrane">GLITIIGLSAKNAI</span><span class="topo-outside">LIVEFAKMLKEEGMSLIEATVAAA</span></span>
-<span class="topo-line"><span class="topo-outside">KLRLRPI</span><span class="topo-membrane">LMTSLAFTCGVIPLVI</span><span class="topo-inside">ATGASSETQHALG</span><span class="topo-membrane">TGVFGGMISATILAI</span><span class="topo-outside">F</span><span class="topo-unknown">FVPVFFIF</span></span>
-<span class="topo-line"><span class="topo-unknown">ILG</span><span class="topo-outside">AV</span><span class="topo-unknown">EKLFSSKKKISSALEVLFQGPHHHHHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MS</span><span class="topo-outside">MSQFFIRRPVF</span><span class="topo-membrane">AWVIAIFIIIFGLLS</span><span class="topo-inside">IPKLPIARFPSVAPPQVNISATYPGATAKTINDSVVTLIERELSGVKNLLYYSATTDTSGTAEITATFKPGTDVEMAQVDVQNKIKAVEARL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">PQVVRQQGLQVEASSSGFLMLVGINSPNNQYSEVDLSDYLVRNVVEELKRVEGVGKVQSFGAEKAMRIWVDPNKLVSYGLSISDVNNAIRENNVEIAPGRLGDLPAEKGQLITIPLSAQG</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">QLSSLEQFKNISLKSKTNGSVIKLSDVANVEIGSQAYNFAILENGKPATAAAIQLSPGANAVKTAEGVRAKIEELKLNLPEGMEFSIPYDTAPFVKISIEKVIH</span><span class="topo-membrane">TLLEAMVLVFIVMYL</span><span class="topo-outside">F</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">LHNVRYT</span><span class="topo-membrane">LIPAIVAPIALLGTFTVM</span><span class="topo-inside">LLAGFSINVLTMFG</span><span class="topo-membrane">MVLAIGIIVDDAI</span><span class="topo-outside">VVVENVERIMATEGLSPKDATSKAMKEITSPI</span><span class="topo-membrane">IGITLVLAAVFLPM</span><span class="topo-inside">AFASGSVGVIYKQF</span><span class="topo-membrane">TLTMSVSI</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-membrane">LFSALLALIL</span><span class="topo-outside">TPALCATILKPIDG</span><span class="topo-unknown">HHQKKGFF</span><span class="topo-outside">AW</span><span class="topo-unknown">FDRSFDKVTKKYELMLLKIIK</span><span class="topo-outside">HTVP</span><span class="topo-membrane">MMVIFLVITGITFAGM</span><span class="topo-inside">KYWPTAFMPEEDQGWFMTSFQLPSDATAERTRNVVNQFENNLKDN</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-inside">PDVKSNTAILGWGFSGAGQNVAVAFTTLKDFKERTSSASKMTSDVNSSMANSTEGETMAVLPPAIDELGTFSGFSLRLQDRANLGMPALLAAQDELMAMAAKNKKFYMVWNEGLPQGDNI</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820       830       840</span>
+<span class="topo-line"><span class="topo-inside">SLKIDREKLSALGVKFSDVSDIISTSMGSMYINDFPNQGRMQQVIVQVEAKSRMQLKDILNLKVMGSSGQLVSLSEVVTPQWNKAPQQYNRYNGRPSLSIAGIPNFDTSSGEAMREMEQL</span></span>
+<span class="topo-ruler">       850       860       870       880       890       900       910       920       930       940       950       960</span>
+<span class="topo-line"><span class="topo-inside">IAKLPKGIGYEWTGISLQEKQSESQMAF</span><span class="topo-membrane">LLGLSMLVVFLVLAAL</span><span class="topo-outside">YESWAIP</span><span class="topo-membrane">LSVMLVVPLGIFGAIIAI</span><span class="topo-inside">MSRGLMNDVFFKI</span><span class="topo-membrane">GLITIIGLSAKNAI</span><span class="topo-outside">LIVEFAKMLKEEGMSLIEATVAAA</span></span>
+<span class="topo-ruler">       970       980       990      1000      1010      1020      1030      1040      1050      </span>
+<span class="topo-line"><span class="topo-outside">KLRLRPI</span><span class="topo-membrane">LMTSLAFTCGVIPLVI</span><span class="topo-inside">ATGASSETQHALG</span><span class="topo-membrane">TGVFGGMISATILAI</span><span class="topo-outside">F</span><span class="topo-unknown">FVPVFFIFILG</span><span class="topo-outside">AV</span><span class="topo-unknown">EKLFSSKKKISSALEVLFQGPHHHHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (30 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -671,6 +674,7 @@ AdeB is a multidrug efflux transporter from the Gram-negative pathogen Acinetoba
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -686,24 +690,25 @@ AdeB is a multidrug efflux transporter from the Gram-negative pathogen Acinetoba
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MS</span><span class="topo-outside">MSQFFIRRPV</span><span class="topo-membrane">FAWVIAIFIIIFGLL</span><span class="topo-inside">SIPKLPIARFPSVAPPQVNISATYPGATAKTIN</span></span>
-<span class="topo-line"><span class="topo-inside">DSVVTLIERELSGVKNLLYYSATTDTSGTAEITATFKPGTDVEMAQVDVQNKIKAVEARL</span></span>
-<span class="topo-line"><span class="topo-inside">PQVVRQQGLQVEASSSGFLMLVGINSPNNQYSEVDLSDYLVRNVVEELKRVEGVGKVQSF</span></span>
-<span class="topo-line"><span class="topo-inside">GAEKAMRIWVDPNKLVSYGLSISDVNNAIRENNVEIAPGRLGDLPAEKGQLITIPLSAQG</span></span>
-<span class="topo-line"><span class="topo-inside">QLSSLEQFKNISLKSKTNGSVIKLSDVANVEIGSQAYNFAILENGKPATAAAIQLSPGAN</span></span>
-<span class="topo-line"><span class="topo-inside">AVKTAEGVRAKIEELKLNLPEGMEFSIPYDTAPFVKISIEKVIHT</span><span class="topo-membrane">LLEAMVLVFIVMYLF</span></span>
-<span class="topo-line"><span class="topo-outside">LHNVRYT</span><span class="topo-membrane">LIPAIVAPIALLGTFTV</span><span class="topo-inside">MLLAGFSINVLTMFG</span><span class="topo-membrane">MVLAIGIIVDDAI</span><span class="topo-outside">VVVENVER</span></span>
-<span class="topo-line"><span class="topo-outside">IMATEGLSPKDATSKAMKEITSPI</span><span class="topo-membrane">IGITLVLAAVFLPM</span><span class="topo-inside">AFASGSVGVIYKQF</span><span class="topo-membrane">TLTMSVSI</span></span>
-<span class="topo-line"><span class="topo-membrane">LFSALLALILT</span><span class="topo-outside">PALCATILKPIDG</span><span class="topo-unknown">HHQKKGFF</span><span class="topo-outside">AW</span><span class="topo-unknown">FDRSFDKVTKKYELMLLKIIK</span><span class="topo-outside">HTVPM</span></span>
-<span class="topo-line"><span class="topo-membrane">MVIFLVITGITFAGM</span><span class="topo-inside">KYWPTAFMPEEDQGWFMTSFQLPSDATAERTRNVVNQFENNLKDN</span></span>
-<span class="topo-line"><span class="topo-inside">PDVKSNTAILGWGFSGAGQNVAVAFTTLKDFKERTSSASKMTSDVNSSMANSTEGETMAV</span></span>
-<span class="topo-line"><span class="topo-inside">LPPAIDELGTFSGFSLRLQDRANLGMPALLAAQDELMAMAAKNKKFYMVWNEGLPQGDNI</span></span>
-<span class="topo-line"><span class="topo-inside">SLKIDREKLSALGVKFSDVSDIISTSMGSMYINDFPNQGRMQQVIVQVEAKSRMQLKDIL</span></span>
-<span class="topo-line"><span class="topo-inside">NLKVMGSSGQLVSLSEVVTPQWNKAPQQYNRYNGRPSLSIAGIPNFDTSSGEAMREMEQL</span></span>
-<span class="topo-line"><span class="topo-inside">IAKLPKGIGYEWTGISLQEKQSESQMAF</span><span class="topo-membrane">LLGLSMLVVFLVLAAL</span><span class="topo-outside">YESWAIP</span><span class="topo-membrane">LSVMLVVPL</span></span>
-<span class="topo-line"><span class="topo-membrane">GIFGAIIAI</span><span class="topo-inside">MSRGLMNDVFFKI</span><span class="topo-membrane">GLITIIGLSAKNAI</span><span class="topo-outside">LIVEFAKMLKEEGMSLIEATVAAA</span></span>
-<span class="topo-line"><span class="topo-outside">KLRLRPI</span><span class="topo-membrane">LMTSLAFTCGVIPLVI</span><span class="topo-inside">ATGASSETQHALG</span><span class="topo-membrane">TGVFGGMISATILAI</span><span class="topo-outside">F</span><span class="topo-unknown">FVPVFFIF</span></span>
-<span class="topo-line"><span class="topo-unknown">ILG</span><span class="topo-outside">AV</span><span class="topo-unknown">EKLFSSKKKISSALEVLFQGPHHHHHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MS</span><span class="topo-outside">MSQFFIRRPV</span><span class="topo-membrane">FAWVIAIFIIIFGLL</span><span class="topo-inside">SIPKLPIARFPSVAPPQVNISATYPGATAKTINDSVVTLIERELSGVKNLLYYSATTDTSGTAEITATFKPGTDVEMAQVDVQNKIKAVEARL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">PQVVRQQGLQVEASSSGFLMLVGINSPNNQYSEVDLSDYLVRNVVEELKRVEGVGKVQSFGAEKAMRIWVDPNKLVSYGLSISDVNNAIRENNVEIAPGRLGDLPAEKGQLITIPLSAQG</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">QLSSLEQFKNISLKSKTNGSVIKLSDVANVEIGSQAYNFAILENGKPATAAAIQLSPGANAVKTAEGVRAKIEELKLNLPEGMEFSIPYDTAPFVKISIEKVIHT</span><span class="topo-membrane">LLEAMVLVFIVMYLF</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">LHNVRYT</span><span class="topo-membrane">LIPAIVAPIALLGTFTV</span><span class="topo-inside">MLLAGFSINVLTMFG</span><span class="topo-membrane">MVLAIGIIVDDAI</span><span class="topo-outside">VVVENVERIMATEGLSPKDATSKAMKEITSPI</span><span class="topo-membrane">IGITLVLAAVFLPM</span><span class="topo-inside">AFASGSVGVIYKQF</span><span class="topo-membrane">TLTMSVSI</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-membrane">LFSALLALILT</span><span class="topo-outside">PALCATILKPIDG</span><span class="topo-unknown">HHQKKGFF</span><span class="topo-outside">AW</span><span class="topo-unknown">FDRSFDKVTKKYELMLLKIIK</span><span class="topo-outside">HTVPM</span><span class="topo-membrane">MVIFLVITGITFAGM</span><span class="topo-inside">KYWPTAFMPEEDQGWFMTSFQLPSDATAERTRNVVNQFENNLKDN</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-inside">PDVKSNTAILGWGFSGAGQNVAVAFTTLKDFKERTSSASKMTSDVNSSMANSTEGETMAVLPPAIDELGTFSGFSLRLQDRANLGMPALLAAQDELMAMAAKNKKFYMVWNEGLPQGDNI</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820       830       840</span>
+<span class="topo-line"><span class="topo-inside">SLKIDREKLSALGVKFSDVSDIISTSMGSMYINDFPNQGRMQQVIVQVEAKSRMQLKDILNLKVMGSSGQLVSLSEVVTPQWNKAPQQYNRYNGRPSLSIAGIPNFDTSSGEAMREMEQL</span></span>
+<span class="topo-ruler">       850       860       870       880       890       900       910       920       930       940       950       960</span>
+<span class="topo-line"><span class="topo-inside">IAKLPKGIGYEWTGISLQEKQSESQMAF</span><span class="topo-membrane">LLGLSMLVVFLVLAAL</span><span class="topo-outside">YESWAIP</span><span class="topo-membrane">LSVMLVVPLGIFGAIIAI</span><span class="topo-inside">MSRGLMNDVFFKI</span><span class="topo-membrane">GLITIIGLSAKNAI</span><span class="topo-outside">LIVEFAKMLKEEGMSLIEATVAAA</span></span>
+<span class="topo-ruler">       970       980       990      1000      1010      1020      1030      1040      1050      </span>
+<span class="topo-line"><span class="topo-outside">KLRLRPI</span><span class="topo-membrane">LMTSLAFTCGVIPLVI</span><span class="topo-inside">ATGASSETQHALG</span><span class="topo-membrane">TGVFGGMISATILAI</span><span class="topo-outside">F</span><span class="topo-unknown">FVPVFFIFILG</span><span class="topo-outside">AV</span><span class="topo-unknown">EKLFSSKKKISSALEVLFQGPHHHHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (30 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -925,6 +930,7 @@ AdeB is a multidrug efflux transporter from the Gram-negative pathogen Acinetoba
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

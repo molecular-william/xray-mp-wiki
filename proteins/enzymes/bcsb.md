@@ -129,20 +129,21 @@ BcsB is a periplasmic protein that associates with the catalytic [Bcsa](/xray-mp
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MTVRAKARSPLRV</span><span class="topo-membrane">VPVLLFLLWVALLVPFGLLAA</span><span class="topo-outside">APVAPSAQ</span><span class="topo-membrane">GLIALSAVVLVALLKPFA</span></span>
-<span class="topo-line"><span class="topo-inside">DKM</span><span class="topo-membrane">VPRFLLLSAASMLVMRYWFWRLF</span><span class="topo-outside">ETLPPPAL</span><span class="topo-membrane">DASFLFALLLFAVETFSISIFFLNGF</span></span>
-<span class="topo-line"><span class="topo-inside">LSADPTDRPFPRPLQPEELPTVDILVPSYNEPADMLSVTLAAAKNMIYPARLRTVVLCDD</span></span>
-<span class="topo-line"><span class="topo-inside">GGTDQRCMSPDPELAQKAQERRRELQQLCRELGVVYSTRERNEHAKAGNMSAALERLKGE</span></span>
-<span class="topo-line"><span class="topo-inside">LVVVFDADHVPSRDFLARTVGYFVEDPDLFLVQTPHFFINPDPIQRNLALGDRCPPENEM</span></span>
-<span class="topo-line"><span class="topo-inside">FYGKIHRGLDRWGGAFFCGSAAVLRRRALDEAGGFAGETITEDAETALEIHSRGWKSLYI</span></span>
-<span class="topo-line"><span class="topo-inside">DRAMIAGLQPETFASFIQQRGRWATGMMQMLLLKNPLFRRGLGIAQRLCYLNSMSFWF</span><span class="topo-membrane">FP</span></span>
-<span class="topo-line"><span class="topo-membrane">LVRMMFLVAPLIYLFFGIE</span><span class="topo-outside">IFVATFEEV</span><span class="topo-membrane">LAYMPGYLAVSFLVQNA</span><span class="topo-inside">LFARQRWPLVSEVYE</span></span>
-<span class="topo-line"><span class="topo-inside">VAQAPYLARAIVTTLLRPRSARFAVTAKDETLSENYISPIYRPLL</span><span class="topo-membrane">FTFLLCLSGVLATLV</span></span>
-<span class="topo-line"><span class="topo-membrane">RWV</span><span class="topo-outside">AFPGDRSV</span><span class="topo-membrane">LLVVGGWAVLNVLLVG</span><span class="topo-inside">FALRAVAEKQQRRAAPRVQMEVPAEAQIPAFGN</span></span>
-<span class="topo-line"><span class="topo-inside">RSLTATVLDASTSGVRLLVRLPGVGDPHPALEAGGLIQFQPKFPDAPQLERMVRGRIRSA</span></span>
-<span class="topo-line"><span class="topo-inside">RREGGTVMVGVIFEAGQPIAVRETVAYLIFGESAHWRTMREATMRPIGLLHGMARILWMA</span></span>
-<span class="topo-line"><span class="topo-inside">AASLPKTARDFMDEPARRRRRHEEPKEKQAHLLAFGTDF</span><span class="topo-unknown">STEPDWAGELLDPTAQVSARP</span></span>
-<span class="topo-line"><span class="topo-unknown">NTVAWGSNHHHHHHKLHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MTVRAKARSPLRV</span><span class="topo-membrane">VPVLLFLLWVALLVPFGLLAA</span><span class="topo-outside">APVAPSAQ</span><span class="topo-membrane">GLIALSAVVLVALLKPFA</span><span class="topo-inside">DKM</span><span class="topo-membrane">VPRFLLLSAASMLVMRYWFWRLF</span><span class="topo-outside">ETLPPPAL</span><span class="topo-membrane">DASFLFALLLFAVETFSISIFFLNGF</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">LSADPTDRPFPRPLQPEELPTVDILVPSYNEPADMLSVTLAAAKNMIYPARLRTVVLCDDGGTDQRCMSPDPELAQKAQERRRELQQLCRELGVVYSTRERNEHAKAGNMSAALERLKGE</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">LVVVFDADHVPSRDFLARTVGYFVEDPDLFLVQTPHFFINPDPIQRNLALGDRCPPENEMFYGKIHRGLDRWGGAFFCGSAAVLRRRALDEAGGFAGETITEDAETALEIHSRGWKSLYI</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">DRAMIAGLQPETFASFIQQRGRWATGMMQMLLLKNPLFRRGLGIAQRLCYLNSMSFWF</span><span class="topo-membrane">FPLVRMMFLVAPLIYLFFGIE</span><span class="topo-outside">IFVATFEEV</span><span class="topo-membrane">LAYMPGYLAVSFLVQNA</span><span class="topo-inside">LFARQRWPLVSEVYE</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-inside">VAQAPYLARAIVTTLLRPRSARFAVTAKDETLSENYISPIYRPLL</span><span class="topo-membrane">FTFLLCLSGVLATLVRWV</span><span class="topo-outside">AFPGDRSV</span><span class="topo-membrane">LLVVGGWAVLNVLLVG</span><span class="topo-inside">FALRAVAEKQQRRAAPRVQMEVPAEAQIPAFGN</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-inside">RSLTATVLDASTSGVRLLVRLPGVGDPHPALEAGGLIQFQPKFPDAPQLERMVRGRIRSARREGGTVMVGVIFEAGQPIAVRETVAYLIFGESAHWRTMREATMRPIGLLHGMARILWMA</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800  </span>
+<span class="topo-line"><span class="topo-inside">AASLPKTARDFMDEPARRRRRHEEPKEKQAHLLAFGTDF</span><span class="topo-unknown">STEPDWAGELLDPTAQVSARPNTVAWGSNHHHHHHKLHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -280,6 +281,7 @@ BcsB is a periplasmic protein that associates with the catalytic [Bcsa](/xray-mp
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -295,18 +297,19 @@ BcsB is a periplasmic protein that associates with the catalytic [Bcsa](/xray-mp
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGQDAPMIVIEGLTSEEPQASPDAVAEAVPAAEVA</span><span class="topo-outside">PWIIPLRPLAETAQVGPLFRLQGQQ</span></span>
-<span class="topo-line"><span class="topo-outside">ARAAFRLFLPTEAVGGTLTLAQRSSIDILPESSQIIVRMNDQEIGRFTPRQFGALGAVTM</span></span>
-<span class="topo-line"><span class="topo-outside">PLGEAVRAGDNLVTIEAQHRHRIYCGADAEFDLWTEVDLSQSGVALPAAAIGTEPTSFIA</span></span>
-<span class="topo-line"><span class="topo-outside">ALTAQAESGRPVEIRTPTPPDEATLRTLAQALGRPLPDEALPLALSKPWSAETGPTYARI</span></span>
-<span class="topo-line"><span class="topo-outside">TLLPSDADRVSIRRGGDGAVVLVLEHPPEGSPNASLVADLLGATPTLPPPTLPQIPPGRV</span></span>
-<span class="topo-line"><span class="topo-outside">VTLADMGVDTILTDNRYFNRDIDFQLPDDWLLLASQKAQIGIDYGFAGGLPEGALLLVKV</span></span>
-<span class="topo-line"><span class="topo-outside">NGTTVRMLPLDRDAAPVKPRLDIRFPARLLHPGPNRLSFESVIPGNPPDQPCPASAGDLM</span></span>
-<span class="topo-line"><span class="topo-outside">QVLSSTDLEVPPSPRMQMADMARDLAQVTPASVHPATPDGLARTLPFMAAFREVPDAAPV</span></span>
-<span class="topo-line"><span class="topo-outside">DLTVAGLHDIATVPLNEEGLTPRLLALTLLPST</span><span class="topo-unknown">VSRLVERPATPA</span><span class="topo-outside">GPPANALAPLGAAPG</span></span>
-<span class="topo-line"><span class="topo-outside">EGVMPPLVESNWSDRAQTFVQATLQPVIQTVRRMLRPGDGNLAEWLATRKGTAMLLAPEP</span></span>
-<span class="topo-line"><span class="topo-outside">GKLWVILGPEAEPARVAEALAMAPRSPGGPRGQVAVLGSDGRWSSWSKPGLLPELREPVS</span></span>
-<span class="topo-line"><span class="topo-outside">LDNVRSVVGNVASARPPLL</span><span class="topo-membrane">LGGMLGLAWISAAIAVGFV</span><span class="topo-inside">LRTR</span><span class="topo-unknown">RKGLK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGQDAPMIVIEGLTSEEPQASPDAVAEAVPAAEVA</span><span class="topo-outside">PWIIPLRPLAETAQVGPLFRLQGQQARAAFRLFLPTEAVGGTLTLAQRSSIDILPESSQIIVRMNDQEIGRFTPRQFGALGAVTM</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">PLGEAVRAGDNLVTIEAQHRHRIYCGADAEFDLWTEVDLSQSGVALPAAAIGTEPTSFIAALTAQAESGRPVEIRTPTPPDEATLRTLAQALGRPLPDEALPLALSKPWSAETGPTYARI</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">TLLPSDADRVSIRRGGDGAVVLVLEHPPEGSPNASLVADLLGATPTLPPPTLPQIPPGRVVTLADMGVDTILTDNRYFNRDIDFQLPDDWLLLASQKAQIGIDYGFAGGLPEGALLLVKV</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">NGTTVRMLPLDRDAAPVKPRLDIRFPARLLHPGPNRLSFESVIPGNPPDQPCPASAGDLMQVLSSTDLEVPPSPRMQMADMARDLAQVTPASVHPATPDGLARTLPFMAAFREVPDAAPV</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">DLTVAGLHDIATVPLNEEGLTPRLLALTLLPST</span><span class="topo-unknown">VSRLVERPATPA</span><span class="topo-outside">GPPANALAPLGAAPGEGVMPPLVESNWSDRAQTFVQATLQPVIQTVRRMLRPGDGNLAEWLATRKGTAMLLAPEP</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       </span>
+<span class="topo-line"><span class="topo-outside">GKLWVILGPEAEPARVAEALAMAPRSPGGPRGQVAVLGSDGRWSSWSKPGLLPELREPVSLDNVRSVVGNVASARPPLL</span><span class="topo-membrane">LGGMLGLAWISAAIAVGFV</span><span class="topo-inside">LRTR</span><span class="topo-unknown">RKGLK</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -367,6 +370,7 @@ BcsB is a periplasmic protein that associates with the catalytic [Bcsa](/xray-mp
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

@@ -151,12 +151,13 @@ The Human GABA_A Mouse 5-HT3A Receptor Beta-3 PH-E Subunit E of F-[ATP](/xray-mp
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">ETG</span><span class="topo-inside">QSVNDPGNMSFVKETVDKLLKGYDIRLRPDFGGPPVCVGMNIDIASIDMVSEVNMDY</span></span>
-<span class="topo-line"><span class="topo-inside">TLTMYFQQYWRDKRLAYSGIPLNLTLDNRVADQLWVPDTYFLNDKKSFVHGVTVKNRMIR</span></span>
-<span class="topo-line"><span class="topo-inside">LHPDGTVLYGLRITTTAACMMDLRRYPLDEQNCTLEIESYGYTTDDIEFYWRGGDKAVTG</span></span>
-<span class="topo-line"><span class="topo-inside">VERIELPQFSIVEHRLVSRNVVFATGAYPRLSLSFRLKRNIGYFILQT</span><span class="topo-membrane">YMPSILITILSW</span></span>
-<span class="topo-line"><span class="topo-membrane">VSFWI</span><span class="topo-outside">NYDA</span><span class="topo-membrane">SAARVALGITTVLTMTTINT</span><span class="topo-inside">HLRETLPKIPYVKAID</span><span class="topo-membrane">MYLMGCFVFVFLALL</span></span>
-<span class="topo-line"><span class="topo-membrane">EYAFVN</span><span class="topo-outside">YIFFSQPARAAAI</span><span class="topo-membrane">DRWSRIVFPFTFSLFNLVYWLY</span><span class="topo-inside">YV</span><span class="topo-unknown">NGATETSQVAPA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">ETG</span><span class="topo-inside">QSVNDPGNMSFVKETVDKLLKGYDIRLRPDFGGPPVCVGMNIDIASIDMVSEVNMDYTLTMYFQQYWRDKRLAYSGIPLNLTLDNRVADQLWVPDTYFLNDKKSFVHGVTVKNRMIR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">LHPDGTVLYGLRITTTAACMMDLRRYPLDEQNCTLEIESYGYTTDDIEFYWRGGDKAVTGVERIELPQFSIVEHRLVSRNVVFATGAYPRLSLSFRLKRNIGYFILQT</span><span class="topo-membrane">YMPSILITILSW</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350     </span>
+<span class="topo-line"><span class="topo-membrane">VSFWI</span><span class="topo-outside">NYDA</span><span class="topo-membrane">SAARVALGITTVLTMTTINT</span><span class="topo-inside">HLRETLPKIPYVKAID</span><span class="topo-membrane">MYLMGCFVFVFLALLEYAFVN</span><span class="topo-outside">YIFFSQPARAAAI</span><span class="topo-membrane">DRWSRIVFPFTFSLFNLVYWLY</span><span class="topo-inside">YV</span><span class="topo-unknown">NGATETSQVAPA</span></span>
+<details class="topo-details"><summary>Topology coordinates (12 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -252,6 +253,7 @@ The Human GABA_A Mouse 5-HT3A Receptor Beta-3 PH-E Subunit E of F-[ATP](/xray-mp
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -267,12 +269,13 @@ The Human GABA_A Mouse 5-HT3A Receptor Beta-3 PH-E Subunit E of F-[ATP](/xray-mp
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">ETGQSVNDPGNM</span><span class="topo-inside">SFVKETVDKLLKGYDIRLRPDFGGPPVCVGMNIDIASIDMVSEVNMDY</span></span>
-<span class="topo-line"><span class="topo-inside">TLTMYFQQYWRDKRLAYSGIPLNLTLDNRVADQLWVPDTYFLNDKKSFVHGVTVKNRMIR</span></span>
-<span class="topo-line"><span class="topo-inside">LHPDGTVLYGLRITTTAACMMDLRRYPLDEQNCTLEIESYGYTTDDIEFYWRGGDKAVTG</span></span>
-<span class="topo-line"><span class="topo-inside">VERIELPQFSIVEHRLVSRNVVFATGAYPRLSLSFRLKRNIGYFILQT</span><span class="topo-membrane">YMPSILITILSW</span></span>
-<span class="topo-line"><span class="topo-membrane">VSFWI</span><span class="topo-outside">NYDA</span><span class="topo-membrane">SAARVALGITTVLTMTTINT</span><span class="topo-inside">HLRETLPKIPYVKAID</span><span class="topo-membrane">MYLMGCFVFVFLALL</span></span>
-<span class="topo-line"><span class="topo-membrane">EYAFVN</span><span class="topo-outside">YIFFSQPARAAAI</span><span class="topo-membrane">DRWSRIVFPFTFSLFNLVYWLY</span><span class="topo-inside">YV</span><span class="topo-unknown">NGATETSQVAPA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">ETGQSVNDPGNM</span><span class="topo-inside">SFVKETVDKLLKGYDIRLRPDFGGPPVCVGMNIDIASIDMVSEVNMDYTLTMYFQQYWRDKRLAYSGIPLNLTLDNRVADQLWVPDTYFLNDKKSFVHGVTVKNRMIR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">LHPDGTVLYGLRITTTAACMMDLRRYPLDEQNCTLEIESYGYTTDDIEFYWRGGDKAVTGVERIELPQFSIVEHRLVSRNVVFATGAYPRLSLSFRLKRNIGYFILQT</span><span class="topo-membrane">YMPSILITILSW</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350     </span>
+<span class="topo-line"><span class="topo-membrane">VSFWI</span><span class="topo-outside">NYDA</span><span class="topo-membrane">SAARVALGITTVLTMTTINT</span><span class="topo-inside">HLRETLPKIPYVKAID</span><span class="topo-membrane">MYLMGCFVFVFLALLEYAFVN</span><span class="topo-outside">YIFFSQPARAAAI</span><span class="topo-membrane">DRWSRIVFPFTFSLFNLVYWLY</span><span class="topo-inside">YV</span><span class="topo-unknown">NGATETSQVAPA</span></span>
+<details class="topo-details"><summary>Topology coordinates (12 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -368,6 +371,7 @@ The Human GABA_A Mouse 5-HT3A Receptor Beta-3 PH-E Subunit E of F-[ATP](/xray-mp
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -383,12 +387,13 @@ The Human GABA_A Mouse 5-HT3A Receptor Beta-3 PH-E Subunit E of F-[ATP](/xray-mp
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">ETGQSVNDPGNM</span><span class="topo-inside">SFVKETVDKLLKGYDIRLRPDFGGPPVCVGMNIDIASIDMVSEVNMDY</span></span>
-<span class="topo-line"><span class="topo-inside">TLTMYFQQYWRDKRLAYSGIPLNLTLDNRVADQLWVPDTYFLNDKKSFVHGVTVKNRMIR</span></span>
-<span class="topo-line"><span class="topo-inside">LHPDGTVLYGLRITTTAACMMDLRRYPLDEQNCTLEIESYGYTTDDIEFYWRGGDKAVTG</span></span>
-<span class="topo-line"><span class="topo-inside">VERIELPQFSIVEHRLVSRNVVFATGAYPRLSLSFRLKRNIGYFILQT</span><span class="topo-membrane">YMPSILITILSW</span></span>
-<span class="topo-line"><span class="topo-membrane">VSFWI</span><span class="topo-outside">NYDA</span><span class="topo-membrane">SAARVALGITTVLTMTTINT</span><span class="topo-inside">HLRETLPKIPYVKAID</span><span class="topo-membrane">MYLMGCFVFVFLALL</span></span>
-<span class="topo-line"><span class="topo-membrane">EYAFVN</span><span class="topo-outside">YIFFSQPARAAAI</span><span class="topo-membrane">DRWSRIVFPFTFSLFNLVYWLY</span><span class="topo-inside">YV</span><span class="topo-unknown">NGATETSQVAPA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">ETGQSVNDPGNM</span><span class="topo-inside">SFVKETVDKLLKGYDIRLRPDFGGPPVCVGMNIDIASIDMVSEVNMDYTLTMYFQQYWRDKRLAYSGIPLNLTLDNRVADQLWVPDTYFLNDKKSFVHGVTVKNRMIR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">LHPDGTVLYGLRITTTAACMMDLRRYPLDEQNCTLEIESYGYTTDDIEFYWRGGDKAVTGVERIELPQFSIVEHRLVSRNVVFATGAYPRLSLSFRLKRNIGYFILQT</span><span class="topo-membrane">YMPSILITILSW</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350     </span>
+<span class="topo-line"><span class="topo-membrane">VSFWI</span><span class="topo-outside">NYDA</span><span class="topo-membrane">SAARVALGITTVLTMTTINT</span><span class="topo-inside">HLRETLPKIPYVKAID</span><span class="topo-membrane">MYLMGCFVFVFLALLEYAFVN</span><span class="topo-outside">YIFFSQPARAAAI</span><span class="topo-membrane">DRWSRIVFPFTFSLFNLVYWLY</span><span class="topo-inside">YV</span><span class="topo-unknown">NGATETSQVAPA</span></span>
+<details class="topo-details"><summary>Topology coordinates (12 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -484,6 +489,7 @@ The Human GABA_A Mouse 5-HT3A Receptor Beta-3 PH-E Subunit E of F-[ATP](/xray-mp
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -499,12 +505,13 @@ The Human GABA_A Mouse 5-HT3A Receptor Beta-3 PH-E Subunit E of F-[ATP](/xray-mp
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">ETGQSVNDPGNM</span><span class="topo-inside">SFVKETVDKLLKGYDIRLRPDFGGPPVCVGMNIDIASIDMVSEVNMDY</span></span>
-<span class="topo-line"><span class="topo-inside">TLTMYFQQYWRDKRLAYSGIPLNLTLDNRVADQLWVPDTYFLNDKKSFVHGVTVKNRMIR</span></span>
-<span class="topo-line"><span class="topo-inside">LHPDGTVLYGLRITTTAACMMDLRRYPLDEQNCTLEIESYGYTTDDIEFYWRGGDKAVTG</span></span>
-<span class="topo-line"><span class="topo-inside">VERIELPQFSIVEHRLVSRNVVFATGAYPRLSLSFRLKRNIGYFILQT</span><span class="topo-membrane">YMPSILITILSW</span></span>
-<span class="topo-line"><span class="topo-membrane">VSFWI</span><span class="topo-outside">NYDA</span><span class="topo-membrane">SAARVALGITTVLTMTTINT</span><span class="topo-inside">HLRETLPKIPYVKAID</span><span class="topo-membrane">MYLMGCFVFVFLALL</span></span>
-<span class="topo-line"><span class="topo-membrane">EYAFVN</span><span class="topo-outside">YIFFSQPARAAAI</span><span class="topo-membrane">DRWSRIVFPFTFSLFNLVYWLY</span><span class="topo-inside">YVN</span><span class="topo-unknown">GATETSQVAPA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">ETGQSVNDPGNM</span><span class="topo-inside">SFVKETVDKLLKGYDIRLRPDFGGPPVCVGMNIDIASIDMVSEVNMDYTLTMYFQQYWRDKRLAYSGIPLNLTLDNRVADQLWVPDTYFLNDKKSFVHGVTVKNRMIR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">LHPDGTVLYGLRITTTAACMMDLRRYPLDEQNCTLEIESYGYTTDDIEFYWRGGDKAVTGVERIELPQFSIVEHRLVSRNVVFATGAYPRLSLSFRLKRNIGYFILQT</span><span class="topo-membrane">YMPSILITILSW</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350     </span>
+<span class="topo-line"><span class="topo-membrane">VSFWI</span><span class="topo-outside">NYDA</span><span class="topo-membrane">SAARVALGITTVLTMTTINT</span><span class="topo-inside">HLRETLPKIPYVKAID</span><span class="topo-membrane">MYLMGCFVFVFLALLEYAFVN</span><span class="topo-outside">YIFFSQPARAAAI</span><span class="topo-membrane">DRWSRIVFPFTFSLFNLVYWLY</span><span class="topo-inside">YVN</span><span class="topo-unknown">GATETSQVAPA</span></span>
+<details class="topo-details"><summary>Topology coordinates (12 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -600,6 +607,7 @@ The Human GABA_A Mouse 5-HT3A Receptor Beta-3 PH-E Subunit E of F-[ATP](/xray-mp
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -615,12 +623,13 @@ The Human GABA_A Mouse 5-HT3A Receptor Beta-3 PH-E Subunit E of F-[ATP](/xray-mp
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">ETGQSVNDPGNM</span><span class="topo-inside">SFVKETVDKLLKGYDIRLRPDFGGPPVCVGMNIDIASIDMVSEVNMDY</span></span>
-<span class="topo-line"><span class="topo-inside">TLTMYFQQYWRDKRLAYSGIPLNLTLDNRVADQLWVPDTYFLNDKKSFVHGVTVKNRMIR</span></span>
-<span class="topo-line"><span class="topo-inside">LHPDGTVLYGLRITTTAACMMDLRRYPLDEQNCTLEIESYGYTTDDIEFYWRGGDKAVTG</span></span>
-<span class="topo-line"><span class="topo-inside">VERIELPQFSIVEHRLVSRNVVFATGAYPRLSLSFRLKRNIGYFILQT</span><span class="topo-membrane">YMPSILITILSW</span></span>
-<span class="topo-line"><span class="topo-membrane">VSFWI</span><span class="topo-outside">NYDA</span><span class="topo-membrane">SAARVALGITTVLTMTTINT</span><span class="topo-inside">HLRETLPKIPYVKAID</span><span class="topo-membrane">MYLMGCFVFVFLALL</span></span>
-<span class="topo-line"><span class="topo-membrane">EYAFVN</span><span class="topo-outside">YIFFSQPARAAAI</span><span class="topo-membrane">DRWSRIVFPFTFSLFNLVYWLY</span><span class="topo-inside">YV</span><span class="topo-unknown">NGATETSQVAPA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">ETGQSVNDPGNM</span><span class="topo-inside">SFVKETVDKLLKGYDIRLRPDFGGPPVCVGMNIDIASIDMVSEVNMDYTLTMYFQQYWRDKRLAYSGIPLNLTLDNRVADQLWVPDTYFLNDKKSFVHGVTVKNRMIR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">LHPDGTVLYGLRITTTAACMMDLRRYPLDEQNCTLEIESYGYTTDDIEFYWRGGDKAVTGVERIELPQFSIVEHRLVSRNVVFATGAYPRLSLSFRLKRNIGYFILQT</span><span class="topo-membrane">YMPSILITILSW</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350     </span>
+<span class="topo-line"><span class="topo-membrane">VSFWI</span><span class="topo-outside">NYDA</span><span class="topo-membrane">SAARVALGITTVLTMTTINT</span><span class="topo-inside">HLRETLPKIPYVKAID</span><span class="topo-membrane">MYLMGCFVFVFLALLEYAFVN</span><span class="topo-outside">YIFFSQPARAAAI</span><span class="topo-membrane">DRWSRIVFPFTFSLFNLVYWLY</span><span class="topo-inside">YV</span><span class="topo-unknown">NGATETSQVAPA</span></span>
+<details class="topo-details"><summary>Topology coordinates (12 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -716,6 +725,7 @@ The Human GABA_A Mouse 5-HT3A Receptor Beta-3 PH-E Subunit E of F-[ATP](/xray-mp
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

@@ -124,10 +124,11 @@ RibU is the S component (substrate-binding protein) of the energy-coupling facto
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MNGRRKLNM</span><span class="topo-outside">QQNKRLIT</span><span class="topo-membrane">ISMLSAIAFVLTFIKF</span><span class="topo-inside">PIPFLPPYL</span><span class="topo-membrane">TLDFSDVPSLLATF</span><span class="topo-outside">TFGP</span></span>
-<span class="topo-line"><span class="topo-membrane">VAGIIVALVKNLLNYLFSM</span><span class="topo-inside">GDP</span><span class="topo-membrane">VGPFANFLAGASFLLTAYAIY</span><span class="topo-outside">KNKRSTK</span><span class="topo-membrane">SLITGLIIAT</span></span>
-<span class="topo-line"><span class="topo-membrane">IVMTIVLSILN</span><span class="topo-inside">YFVLLPLYGM</span><span class="topo-unknown">IFNLADIANNL</span><span class="topo-inside">KVIIVSGII</span><span class="topo-membrane">PFNIIKGIVISIVFILLYR</span></span>
-<span class="topo-line"><span class="topo-membrane">R</span><span class="topo-outside">LANFLKR</span><span class="topo-unknown">I</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MNGRRKLNM</span><span class="topo-outside">QQNKRLIT</span><span class="topo-membrane">ISMLSAIAFVLTFIKF</span><span class="topo-inside">PIPFLPPYL</span><span class="topo-membrane">TLDFSDVPSLLATF</span><span class="topo-outside">TFGP</span><span class="topo-membrane">VAGIIVALVKNLLNYLFSM</span><span class="topo-inside">GDP</span><span class="topo-membrane">VGPFANFLAGASFLLTAYAIY</span><span class="topo-outside">KNKRSTK</span><span class="topo-membrane">SLITGLIIAT</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180         </span>
+<span class="topo-line"><span class="topo-membrane">IVMTIVLSILN</span><span class="topo-inside">YFVLLPLYGM</span><span class="topo-unknown">IFNLADIANNL</span><span class="topo-inside">KVIIVSGII</span><span class="topo-membrane">PFNIIKGIVISIVFILLYRR</span><span class="topo-outside">LANFLKR</span><span class="topo-unknown">I</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -258,6 +259,7 @@ RibU is the S component (substrate-binding protein) of the energy-coupling facto
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

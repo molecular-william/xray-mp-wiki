@@ -61,12 +61,13 @@ KirBac1.1 and KirBac3.1 are prokaryotic inward-rectifier potassium channels from
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MNVDPFSPHSSDSFAQAASPARKPPRGGRRIWSGT</span><span class="topo-outside">REVIAYGMPAS</span><span class="topo-unknown">VWRDLYYWALK</span><span class="topo-outside">VSW</span></span>
-<span class="topo-line"><span class="topo-membrane">PVFFASLAALFVVNNTLFALLYQLG</span><span class="topo-inside">DAPIANQSPPGF</span><span class="topo-unknown">VGAFFFSVETLATVGYG</span><span class="topo-inside">DMHPQT</span></span>
-<span class="topo-line"><span class="topo-inside">V</span><span class="topo-membrane">YAHAIATLEIFVGMSGIALSTGLV</span><span class="topo-outside">FARFARPRAKIMFARHAIVRPFNGRMTLMVRAANA</span></span>
-<span class="topo-line"><span class="topo-outside">RQNVIAEARAKMRLM</span><span class="topo-unknown">RREHSSEGYS</span><span class="topo-outside">LMKIHDLKLVRNEHPIFLLGWNMMHVIDESSPLFG</span></span>
-<span class="topo-line"><span class="topo-outside">ETPESLAEGRAMLLVMIEGSDETTAQVMQARHAWEHDDIRWHHRYVDLM</span><span class="topo-unknown">SDVDGM</span><span class="topo-outside">THIDY</span></span>
-<span class="topo-line"><span class="topo-outside">TRFNDTEPV</span><span class="topo-unknown">EPPGAAPDAQAFAAKPGEGDARPV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MNVDPFSPHSSDSFAQAASPARKPPRGGRRIWSGT</span><span class="topo-outside">REVIAYGMPAS</span><span class="topo-unknown">VWRDLYYWALK</span><span class="topo-outside">VSW</span><span class="topo-membrane">PVFFASLAALFVVNNTLFALLYQLG</span><span class="topo-inside">DAPIANQSPPGF</span><span class="topo-unknown">VGAFFFSVETLATVGYG</span><span class="topo-inside">DMHPQT</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">V</span><span class="topo-membrane">YAHAIATLEIFVGMSGIALSTGLV</span><span class="topo-outside">FARFARPRAKIMFARHAIVRPFNGRMTLMVRAANARQNVIAEARAKMRLM</span><span class="topo-unknown">RREHSSEGYS</span><span class="topo-outside">LMKIHDLKLVRNEHPIFLLGWNMMHVIDESSPLFG</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330   </span>
+<span class="topo-line"><span class="topo-outside">ETPESLAEGRAMLLVMIEGSDETTAQVMQARHAWEHDDIRWHHRYVDLM</span><span class="topo-unknown">SDVDGM</span><span class="topo-outside">THIDYTRFNDTEPV</span><span class="topo-unknown">EPPGAAPDAQAFAAKPGEGDARPV</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -183,6 +184,7 @@ KirBac1.1 and KirBac3.1 are prokaryotic inward-rectifier potassium channels from
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -198,12 +200,13 @@ KirBac1.1 and KirBac3.1 are prokaryotic inward-rectifier potassium channels from
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MNVDPFSPHSSDSFAQAASPARKPPRGGRRIWSGT</span><span class="topo-outside">REVIAYGMPAS</span><span class="topo-unknown">VWRDLYYWALK</span><span class="topo-outside">VSW</span></span>
-<span class="topo-line"><span class="topo-membrane">PVFFASLAALFVVNNTLFALLYQLG</span><span class="topo-inside">DAPIANQSPPGF</span><span class="topo-unknown">VGAFFFSVETLATVGYG</span><span class="topo-inside">DMHPQT</span></span>
-<span class="topo-line"><span class="topo-inside">V</span><span class="topo-membrane">YAHAIATLEIFVGMSGIALSTGLV</span><span class="topo-outside">FARFARPRAKIMFARHAIVRPFNGRMTLMVRAANA</span></span>
-<span class="topo-line"><span class="topo-outside">RQNVIAEARAKMRLM</span><span class="topo-unknown">RREHSSEGYS</span><span class="topo-outside">LMKIHDLKLVRNEHPIFLLGWNMMHVIDESSPLFG</span></span>
-<span class="topo-line"><span class="topo-outside">ETPESLAEGRAMLLVMIEGSDETTAQVMQARHAWEHDDIRWHHRYVDLM</span><span class="topo-unknown">SDVDGM</span><span class="topo-outside">THIDY</span></span>
-<span class="topo-line"><span class="topo-outside">TRFNDTEPV</span><span class="topo-unknown">EPPGAAPDAQAFAAKPGEGDARPV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MNVDPFSPHSSDSFAQAASPARKPPRGGRRIWSGT</span><span class="topo-outside">REVIAYGMPAS</span><span class="topo-unknown">VWRDLYYWALK</span><span class="topo-outside">VSW</span><span class="topo-membrane">PVFFASLAALFVVNNTLFALLYQLG</span><span class="topo-inside">DAPIANQSPPGF</span><span class="topo-unknown">VGAFFFSVETLATVGYG</span><span class="topo-inside">DMHPQT</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">V</span><span class="topo-membrane">YAHAIATLEIFVGMSGIALSTGLV</span><span class="topo-outside">FARFARPRAKIMFARHAIVRPFNGRMTLMVRAANARQNVIAEARAKMRLM</span><span class="topo-unknown">RREHSSEGYS</span><span class="topo-outside">LMKIHDLKLVRNEHPIFLLGWNMMHVIDESSPLFG</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330   </span>
+<span class="topo-line"><span class="topo-outside">ETPESLAEGRAMLLVMIEGSDETTAQVMQARHAWEHDDIRWHHRYVDLM</span><span class="topo-unknown">SDVDGM</span><span class="topo-outside">THIDYTRFNDTEPV</span><span class="topo-unknown">EPPGAAPDAQAFAAKPGEGDARPV</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -320,6 +323,7 @@ KirBac1.1 and KirBac3.1 are prokaryotic inward-rectifier potassium channels from
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -335,12 +339,13 @@ KirBac1.1 and KirBac3.1 are prokaryotic inward-rectifier potassium channels from
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MNVDPFSPHSSDSFAQAASPARKPPRGGRRIWSGT</span><span class="topo-outside">REVIAYGMPAS</span><span class="topo-unknown">VWRDLYYWALK</span><span class="topo-outside">VSW</span></span>
-<span class="topo-line"><span class="topo-membrane">PVFFASLAALFVVNNTLFALLYQLG</span><span class="topo-inside">DAPIANQSPPGF</span><span class="topo-unknown">VGAFFFSVETLATVGYG</span><span class="topo-inside">DMHPQT</span></span>
-<span class="topo-line"><span class="topo-inside">V</span><span class="topo-membrane">YAHAIATLEIFVGMSGIALSTGLV</span><span class="topo-outside">FARFARPRAKIMFARHAIVRPFNGRMTLMVRAANA</span></span>
-<span class="topo-line"><span class="topo-outside">RQNVIAEARAKMRLM</span><span class="topo-unknown">RREHSSEGYS</span><span class="topo-outside">LMKIHDLKLVRNEHPIFLLGWNMMHVIDESSPLFG</span></span>
-<span class="topo-line"><span class="topo-outside">ETPESLAEGRAMLLVMIEGSDETTAQVMQARHAWEHDDIRWHHRYVDLM</span><span class="topo-unknown">SDVDGM</span><span class="topo-outside">THIDY</span></span>
-<span class="topo-line"><span class="topo-outside">TRFNDTEPV</span><span class="topo-unknown">EPPGAAPDAQAFAAKPGEGDARPV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MNVDPFSPHSSDSFAQAASPARKPPRGGRRIWSGT</span><span class="topo-outside">REVIAYGMPAS</span><span class="topo-unknown">VWRDLYYWALK</span><span class="topo-outside">VSW</span><span class="topo-membrane">PVFFASLAALFVVNNTLFALLYQLG</span><span class="topo-inside">DAPIANQSPPGF</span><span class="topo-unknown">VGAFFFSVETLATVGYG</span><span class="topo-inside">DMHPQT</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">V</span><span class="topo-membrane">YAHAIATLEIFVGMSGIALSTGLV</span><span class="topo-outside">FARFARPRAKIMFARHAIVRPFNGRMTLMVRAANARQNVIAEARAKMRLM</span><span class="topo-unknown">RREHSSEGYS</span><span class="topo-outside">LMKIHDLKLVRNEHPIFLLGWNMMHVIDESSPLFG</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330   </span>
+<span class="topo-line"><span class="topo-outside">ETPESLAEGRAMLLVMIEGSDETTAQVMQARHAWEHDDIRWHHRYVDLM</span><span class="topo-unknown">SDVDGM</span><span class="topo-outside">THIDYTRFNDTEPV</span><span class="topo-unknown">EPPGAAPDAQAFAAKPGEGDARPV</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -457,6 +462,7 @@ KirBac1.1 and KirBac3.1 are prokaryotic inward-rectifier potassium channels from
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -472,12 +478,13 @@ KirBac1.1 and KirBac3.1 are prokaryotic inward-rectifier potassium channels from
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MNVDPFSPHSSDSFAQAASPARKPPRGGRRIWSGT</span><span class="topo-outside">REVIAYGMPAS</span><span class="topo-unknown">VWRDLYYWALK</span><span class="topo-outside">VSW</span></span>
-<span class="topo-line"><span class="topo-membrane">PVFFASLAALFVVNNTLFALLYQLG</span><span class="topo-inside">DAPIANQSPPGF</span><span class="topo-unknown">VGAFFFSVETLATVGYG</span><span class="topo-inside">DMHPQT</span></span>
-<span class="topo-line"><span class="topo-inside">V</span><span class="topo-membrane">YAHAIATLEIFVGMSGIALSTGLV</span><span class="topo-outside">FARFARPRAKIMFARHAIVRPFNGRMTLMVRAANA</span></span>
-<span class="topo-line"><span class="topo-outside">RQNVIAEARAKMRLM</span><span class="topo-unknown">RREHSSEGYS</span><span class="topo-outside">LMKIHDLKLVRNEHPIFLLGWNMMHVIDESSPLFG</span></span>
-<span class="topo-line"><span class="topo-outside">ETPESLAEGRAMLLVMIEGSDETTAQVMQARHAWEHDDIRWHHRYVDLM</span><span class="topo-unknown">SDVDGM</span><span class="topo-outside">THIDY</span></span>
-<span class="topo-line"><span class="topo-outside">TRFNDTEPV</span><span class="topo-unknown">EPPGAAPDAQAFAAKPGEGDARPV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MNVDPFSPHSSDSFAQAASPARKPPRGGRRIWSGT</span><span class="topo-outside">REVIAYGMPAS</span><span class="topo-unknown">VWRDLYYWALK</span><span class="topo-outside">VSW</span><span class="topo-membrane">PVFFASLAALFVVNNTLFALLYQLG</span><span class="topo-inside">DAPIANQSPPGF</span><span class="topo-unknown">VGAFFFSVETLATVGYG</span><span class="topo-inside">DMHPQT</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">V</span><span class="topo-membrane">YAHAIATLEIFVGMSGIALSTGLV</span><span class="topo-outside">FARFARPRAKIMFARHAIVRPFNGRMTLMVRAANARQNVIAEARAKMRLM</span><span class="topo-unknown">RREHSSEGYS</span><span class="topo-outside">LMKIHDLKLVRNEHPIFLLGWNMMHVIDESSPLFG</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330   </span>
+<span class="topo-line"><span class="topo-outside">ETPESLAEGRAMLLVMIEGSDETTAQVMQARHAWEHDDIRWHHRYVDLM</span><span class="topo-unknown">SDVDGM</span><span class="topo-outside">THIDYTRFNDTEPV</span><span class="topo-unknown">EPPGAAPDAQAFAAKPGEGDARPV</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -594,6 +601,7 @@ KirBac1.1 and KirBac3.1 are prokaryotic inward-rectifier potassium channels from
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -797,12 +805,13 @@ KirBac1.1 and KirBac3.1 are prokaryotic inward-rectifier potassium channels from
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MNVDPFSPHSSDSFAQAASPARKPPRGGRRIWSGT</span><span class="topo-outside">REVIAYGMPAS</span><span class="topo-unknown">VWRDLYYWALK</span><span class="topo-outside">VSW</span></span>
-<span class="topo-line"><span class="topo-membrane">PVFFASLAALFVVNNTLFALLYQLG</span><span class="topo-inside">DAPIANQSPPGF</span><span class="topo-unknown">VGAFFFSVETLATVGYG</span><span class="topo-inside">DMHPQT</span></span>
-<span class="topo-line"><span class="topo-inside">V</span><span class="topo-membrane">YAHAIATLEIFVGMSGIALSTGLV</span><span class="topo-outside">FARFARPRAKIMFARHAIVRPFNGRMTLMVRAANA</span></span>
-<span class="topo-line"><span class="topo-outside">RQNVIAEARAKMRLM</span><span class="topo-unknown">RREHSSEGYS</span><span class="topo-outside">LMKIHDLKLVRNEHPIFLLGWNMMHVIDESSPLFG</span></span>
-<span class="topo-line"><span class="topo-outside">ETPESLAEGRAMLLVMIEGSDETTAQVMQARHAWEHDDIRWHHRYVDLM</span><span class="topo-unknown">SDVDGM</span><span class="topo-outside">THIDY</span></span>
-<span class="topo-line"><span class="topo-outside">TRFNDTEPV</span><span class="topo-unknown">EPPGAAPDAQAFAAKPGEGDARPV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MNVDPFSPHSSDSFAQAASPARKPPRGGRRIWSGT</span><span class="topo-outside">REVIAYGMPAS</span><span class="topo-unknown">VWRDLYYWALK</span><span class="topo-outside">VSW</span><span class="topo-membrane">PVFFASLAALFVVNNTLFALLYQLG</span><span class="topo-inside">DAPIANQSPPGF</span><span class="topo-unknown">VGAFFFSVETLATVGYG</span><span class="topo-inside">DMHPQT</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">V</span><span class="topo-membrane">YAHAIATLEIFVGMSGIALSTGLV</span><span class="topo-outside">FARFARPRAKIMFARHAIVRPFNGRMTLMVRAANARQNVIAEARAKMRLM</span><span class="topo-unknown">RREHSSEGYS</span><span class="topo-outside">LMKIHDLKLVRNEHPIFLLGWNMMHVIDESSPLFG</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330   </span>
+<span class="topo-line"><span class="topo-outside">ETPESLAEGRAMLLVMIEGSDETTAQVMQARHAWEHDDIRWHHRYVDLM</span><span class="topo-unknown">SDVDGM</span><span class="topo-outside">THIDYTRFNDTEPV</span><span class="topo-unknown">EPPGAAPDAQAFAAKPGEGDARPV</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -919,6 +928,7 @@ KirBac1.1 and KirBac3.1 are prokaryotic inward-rectifier potassium channels from
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -934,12 +944,13 @@ KirBac1.1 and KirBac3.1 are prokaryotic inward-rectifier potassium channels from
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MNVDPFSPHSSDSFAQAASPARKPPRGGRRIWSGT</span><span class="topo-outside">REVIAYGMPAS</span><span class="topo-unknown">VWRDLYYWALK</span><span class="topo-outside">VSW</span></span>
-<span class="topo-line"><span class="topo-membrane">PVFFASLAALFVVNNTLFALLYQLG</span><span class="topo-inside">DAPIANQSPPGF</span><span class="topo-unknown">VGAFFFSVETLATVGYG</span><span class="topo-inside">DMHPQT</span></span>
-<span class="topo-line"><span class="topo-inside">V</span><span class="topo-membrane">YAHAIATLEIFVGMSGIALSTGLV</span><span class="topo-outside">FARFARPRAKIMFARHAIVRPFNGRMTLMVRAANA</span></span>
-<span class="topo-line"><span class="topo-outside">RQNVIAEARAKMRLM</span><span class="topo-unknown">RREHSSEGYS</span><span class="topo-outside">LMKIHDLKLVRNEHPIFLLGWNMMHVIDESSPLFG</span></span>
-<span class="topo-line"><span class="topo-outside">ETPESLAEGRAMLLVMIEGSDETTAQVMQARHAWEHDDIRWHHRYVDLM</span><span class="topo-unknown">SDVDGM</span><span class="topo-outside">THIDY</span></span>
-<span class="topo-line"><span class="topo-outside">TRFNDTEPV</span><span class="topo-unknown">EPPGAAPDAQAFAAKPGEGDARPV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MNVDPFSPHSSDSFAQAASPARKPPRGGRRIWSGT</span><span class="topo-outside">REVIAYGMPAS</span><span class="topo-unknown">VWRDLYYWALK</span><span class="topo-outside">VSW</span><span class="topo-membrane">PVFFASLAALFVVNNTLFALLYQLG</span><span class="topo-inside">DAPIANQSPPGF</span><span class="topo-unknown">VGAFFFSVETLATVGYG</span><span class="topo-inside">DMHPQT</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">V</span><span class="topo-membrane">YAHAIATLEIFVGMSGIALSTGLV</span><span class="topo-outside">FARFARPRAKIMFARHAIVRPFNGRMTLMVRAANARQNVIAEARAKMRLM</span><span class="topo-unknown">RREHSSEGYS</span><span class="topo-outside">LMKIHDLKLVRNEHPIFLLGWNMMHVIDESSPLFG</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330   </span>
+<span class="topo-line"><span class="topo-outside">ETPESLAEGRAMLLVMIEGSDETTAQVMQARHAWEHDDIRWHHRYVDLM</span><span class="topo-unknown">SDVDGM</span><span class="topo-outside">THIDYTRFNDTEPV</span><span class="topo-unknown">EPPGAAPDAQAFAAKPGEGDARPV</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1056,6 +1067,7 @@ KirBac1.1 and KirBac3.1 are prokaryotic inward-rectifier potassium channels from
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1071,12 +1083,13 @@ KirBac1.1 and KirBac3.1 are prokaryotic inward-rectifier potassium channels from
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MNVDPFSPHSSDSFAQAASPARKPPRGGRRIWSGT</span><span class="topo-outside">REVIAYGMPAS</span><span class="topo-unknown">VWRDLYYWALK</span><span class="topo-outside">VSW</span></span>
-<span class="topo-line"><span class="topo-membrane">PVFFASLAALFVVNNTLFALLYQLG</span><span class="topo-inside">DAPIANQSPPGF</span><span class="topo-unknown">VGAFFFSVETLATVGYG</span><span class="topo-inside">DMHPQT</span></span>
-<span class="topo-line"><span class="topo-inside">V</span><span class="topo-membrane">YAHAIATLEIFVGMSGIALSTGLV</span><span class="topo-outside">FARFARPRAKIMFARHAIVRPFNGRMTLMVRAANA</span></span>
-<span class="topo-line"><span class="topo-outside">RQNVIAEARAKMRLM</span><span class="topo-unknown">RREHSSEGYS</span><span class="topo-outside">LMKIHDLKLVRNEHPIFLLGWNMMHVIDESSPLFG</span></span>
-<span class="topo-line"><span class="topo-outside">ETPESLAEGRAMLLVMIEGSDETTAQVMQARHAWEHDDIRWHHRYVDLM</span><span class="topo-unknown">SDVDGM</span><span class="topo-outside">THIDY</span></span>
-<span class="topo-line"><span class="topo-outside">TRFNDTEPV</span><span class="topo-unknown">EPPGAAPDAQAFAAKPGEGDARPV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MNVDPFSPHSSDSFAQAASPARKPPRGGRRIWSGT</span><span class="topo-outside">REVIAYGMPAS</span><span class="topo-unknown">VWRDLYYWALK</span><span class="topo-outside">VSW</span><span class="topo-membrane">PVFFASLAALFVVNNTLFALLYQLG</span><span class="topo-inside">DAPIANQSPPGF</span><span class="topo-unknown">VGAFFFSVETLATVGYG</span><span class="topo-inside">DMHPQT</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">V</span><span class="topo-membrane">YAHAIATLEIFVGMSGIALSTGLV</span><span class="topo-outside">FARFARPRAKIMFARHAIVRPFNGRMTLMVRAANARQNVIAEARAKMRLM</span><span class="topo-unknown">RREHSSEGYS</span><span class="topo-outside">LMKIHDLKLVRNEHPIFLLGWNMMHVIDESSPLFG</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330   </span>
+<span class="topo-line"><span class="topo-outside">ETPESLAEGRAMLLVMIEGSDETTAQVMQARHAWEHDDIRWHHRYVDLM</span><span class="topo-unknown">SDVDGM</span><span class="topo-outside">THIDYTRFNDTEPV</span><span class="topo-unknown">EPPGAAPDAQAFAAKPGEGDARPV</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1193,6 +1206,7 @@ KirBac1.1 and KirBac3.1 are prokaryotic inward-rectifier potassium channels from
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1208,12 +1222,13 @@ KirBac1.1 and KirBac3.1 are prokaryotic inward-rectifier potassium channels from
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MNVDPFSPHSSDSFAQAASPARKPPRGGRRIWSGT</span><span class="topo-outside">REVIAYGMPAS</span><span class="topo-unknown">VWRDLYYWALK</span><span class="topo-outside">VSW</span></span>
-<span class="topo-line"><span class="topo-membrane">PVFFASLAALFVVNNTLFALLYQLG</span><span class="topo-inside">DAPIANQSPPGF</span><span class="topo-unknown">VGAFFFSVETLATVGYG</span><span class="topo-inside">DMHPQT</span></span>
-<span class="topo-line"><span class="topo-inside">V</span><span class="topo-membrane">YAHAIATLEIFVGMSGIALSTGLV</span><span class="topo-outside">FARFARPRAKIMFARHAIVRPFNGRMTLMVRAANA</span></span>
-<span class="topo-line"><span class="topo-outside">RQNVIAEARAKMRLM</span><span class="topo-unknown">RREHSSEGYS</span><span class="topo-outside">LMKIHDLKLVRNEHPIFLLGWNMMHVIDESSPLFG</span></span>
-<span class="topo-line"><span class="topo-outside">ETPESLAEGRAMLLVMIEGSDETTAQVMQARHAWEHDDIRWHHRYVDLM</span><span class="topo-unknown">SDVDGM</span><span class="topo-outside">THIDY</span></span>
-<span class="topo-line"><span class="topo-outside">TRFNDTEPV</span><span class="topo-unknown">EPPGAAPDAQAFAAKPGEGDARPV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MNVDPFSPHSSDSFAQAASPARKPPRGGRRIWSGT</span><span class="topo-outside">REVIAYGMPAS</span><span class="topo-unknown">VWRDLYYWALK</span><span class="topo-outside">VSW</span><span class="topo-membrane">PVFFASLAALFVVNNTLFALLYQLG</span><span class="topo-inside">DAPIANQSPPGF</span><span class="topo-unknown">VGAFFFSVETLATVGYG</span><span class="topo-inside">DMHPQT</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">V</span><span class="topo-membrane">YAHAIATLEIFVGMSGIALSTGLV</span><span class="topo-outside">FARFARPRAKIMFARHAIVRPFNGRMTLMVRAANARQNVIAEARAKMRLM</span><span class="topo-unknown">RREHSSEGYS</span><span class="topo-outside">LMKIHDLKLVRNEHPIFLLGWNMMHVIDESSPLFG</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330   </span>
+<span class="topo-line"><span class="topo-outside">ETPESLAEGRAMLLVMIEGSDETTAQVMQARHAWEHDDIRWHHRYVDLM</span><span class="topo-unknown">SDVDGM</span><span class="topo-outside">THIDYTRFNDTEPV</span><span class="topo-unknown">EPPGAAPDAQAFAAKPGEGDARPV</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1330,6 +1345,7 @@ KirBac1.1 and KirBac3.1 are prokaryotic inward-rectifier potassium channels from
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1345,12 +1361,13 @@ KirBac1.1 and KirBac3.1 are prokaryotic inward-rectifier potassium channels from
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MTGGMKPPAR</span><span class="topo-outside">KPRILNSDGSSNITRLGLEKRGWLDDHYHDLLTV</span><span class="topo-membrane">SWPVFITLITGLYLVT</span></span>
-<span class="topo-line"><span class="topo-membrane">NALFALAYLAC</span><span class="topo-inside">GDVIENARPGSF</span><span class="topo-unknown">TDAFFFSVQTMATIGY</span><span class="topo-inside">GKLIPIGP</span><span class="topo-membrane">LANTLVTLEALCG</span></span>
-<span class="topo-line"><span class="topo-membrane">MLGLAVAASLIYARF</span><span class="topo-outside">TRPTAGVLFSSRMVISDFEGKPTLMMRLANLRIEQIIEADVHLVL</span></span>
-<span class="topo-line"><span class="topo-outside">VRSEISQEGMVFRRFHDLTLTRSRSPIFSLSWTVMHPIDHHSPIYGETDETLRNSHSEFL</span></span>
-<span class="topo-line"><span class="topo-outside">VLFTGHHEAFAQNVHARHAYSCDEIIWGGHFVDVFTTLPDGRRALDLGKFHEIAQHHHH</span><span class="topo-unknown">H</span></span>
-<span class="topo-line"><span class="topo-unknown">H</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MTGGMKPPAR</span><span class="topo-outside">KPRILNSDGSSNITRLGLEKRGWLDDHYHDLLTV</span><span class="topo-membrane">SWPVFITLITGLYLVTNALFALAYLAC</span><span class="topo-inside">GDVIENARPGSF</span><span class="topo-unknown">TDAFFFSVQTMATIGY</span><span class="topo-inside">GKLIPIGP</span><span class="topo-membrane">LANTLVTLEALCG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">MLGLAVAASLIYARF</span><span class="topo-outside">TRPTAGVLFSSRMVISDFEGKPTLMMRLANLRIEQIIEADVHLVLVRSEISQEGMVFRRFHDLTLTRSRSPIFSLSWTVMHPIDHHSPIYGETDETLRNSHSEFL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300 </span>
+<span class="topo-line"><span class="topo-outside">VLFTGHHEAFAQNVHARHAYSCDEIIWGGHFVDVFTTLPDGRRALDLGKFHEIAQHHHH</span><span class="topo-unknown">HH</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1425,6 +1442,7 @@ KirBac1.1 and KirBac3.1 are prokaryotic inward-rectifier potassium channels from
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1440,12 +1458,13 @@ KirBac1.1 and KirBac3.1 are prokaryotic inward-rectifier potassium channels from
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MTGGMKPPARKPRILNSDGSSN</span><span class="topo-outside">ITRLGLEKRGWLDDH</span><span class="topo-unknown">YHDLLT</span><span class="topo-outside">V</span><span class="topo-membrane">SWPVFITLITGLYLVT</span></span>
-<span class="topo-line"><span class="topo-membrane">NALFALAYLAC</span><span class="topo-inside">GDVIENARPGSF</span><span class="topo-unknown">TDAFFFSVQTMATIGY</span><span class="topo-inside">GKLIPIGP</span><span class="topo-membrane">LANTLVTLEALCG</span></span>
-<span class="topo-line"><span class="topo-membrane">MLGLAVAASLIYAR</span><span class="topo-outside">FTRPTAGVLFSSRMVISDFEGKPTLMMRLANLRIEQIIEADVHLVL</span></span>
-<span class="topo-line"><span class="topo-outside">VRSEISQEGMVFRRFHDLTLTRSRSPIFSLSWTVMHPIDHHSPIYGETDETLRNSHSEFL</span></span>
-<span class="topo-line"><span class="topo-outside">VLFTGHHEAFAQNVHARHAYSCDEIIWGGHFVDVFTTLPDGRRALDLGKFHEIAQHHHH</span><span class="topo-unknown">H</span></span>
-<span class="topo-line"><span class="topo-unknown">H</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MTGGMKPPARKPRILNSDGSSN</span><span class="topo-outside">ITRLGLEKRGWLDDH</span><span class="topo-unknown">YHDLLT</span><span class="topo-outside">V</span><span class="topo-membrane">SWPVFITLITGLYLVTNALFALAYLAC</span><span class="topo-inside">GDVIENARPGSF</span><span class="topo-unknown">TDAFFFSVQTMATIGY</span><span class="topo-inside">GKLIPIGP</span><span class="topo-membrane">LANTLVTLEALCG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">MLGLAVAASLIYAR</span><span class="topo-outside">FTRPTAGVLFSSRMVISDFEGKPTLMMRLANLRIEQIIEADVHLVLVRSEISQEGMVFRRFHDLTLTRSRSPIFSLSWTVMHPIDHHSPIYGETDETLRNSHSEFL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300 </span>
+<span class="topo-line"><span class="topo-outside">VLFTGHHEAFAQNVHARHAYSCDEIIWGGHFVDVFTTLPDGRRALDLGKFHEIAQHHHH</span><span class="topo-unknown">HH</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1534,6 +1553,7 @@ KirBac1.1 and KirBac3.1 are prokaryotic inward-rectifier potassium channels from
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1549,12 +1569,13 @@ KirBac1.1 and KirBac3.1 are prokaryotic inward-rectifier potassium channels from
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MTGGMKPPAR</span><span class="topo-outside">KPRILNSDGSSNITRLGLEKRGWLDDHYHDLLTV</span><span class="topo-membrane">SWPVFITLITGLYLVT</span></span>
-<span class="topo-line"><span class="topo-membrane">NALFALAYLAC</span><span class="topo-inside">GDVIENARPGSF</span><span class="topo-unknown">TDAFFFSVQTMATIGY</span><span class="topo-inside">GKLIPIGP</span><span class="topo-membrane">LANTLVTLEALCG</span></span>
-<span class="topo-line"><span class="topo-membrane">MLGLAVAASLIYAR</span><span class="topo-outside">FTRPTAGVLFSSRMVISDFEGKPTLMMRLANLRIEQIIEADVHLVL</span></span>
-<span class="topo-line"><span class="topo-outside">VRSEISQEGMVFRRFHDLTLTRSRSPIFSLSWTVMHPIDHHSPIYGETDETLRNSHSEFL</span></span>
-<span class="topo-line"><span class="topo-outside">VLFTGHHEAFAQNVHARHAYSCDEIIWGGHFVDVFTTLPDGRRALDLGKFHEIAQHHHH</span><span class="topo-unknown">H</span></span>
-<span class="topo-line"><span class="topo-unknown">H</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MTGGMKPPAR</span><span class="topo-outside">KPRILNSDGSSNITRLGLEKRGWLDDHYHDLLTV</span><span class="topo-membrane">SWPVFITLITGLYLVTNALFALAYLAC</span><span class="topo-inside">GDVIENARPGSF</span><span class="topo-unknown">TDAFFFSVQTMATIGY</span><span class="topo-inside">GKLIPIGP</span><span class="topo-membrane">LANTLVTLEALCG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">MLGLAVAASLIYAR</span><span class="topo-outside">FTRPTAGVLFSSRMVISDFEGKPTLMMRLANLRIEQIIEADVHLVLVRSEISQEGMVFRRFHDLTLTRSRSPIFSLSWTVMHPIDHHSPIYGETDETLRNSHSEFL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300 </span>
+<span class="topo-line"><span class="topo-outside">VLFTGHHEAFAQNVHARHAYSCDEIIWGGHFVDVFTTLPDGRRALDLGKFHEIAQHHHH</span><span class="topo-unknown">HH</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1629,6 +1650,7 @@ KirBac1.1 and KirBac3.1 are prokaryotic inward-rectifier potassium channels from
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1644,12 +1666,13 @@ KirBac1.1 and KirBac3.1 are prokaryotic inward-rectifier potassium channels from
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MTGGMKPPARKPRILNSDGSSN</span><span class="topo-outside">ITRLGLEKRGWLDDH</span><span class="topo-unknown">YHDLLT</span><span class="topo-outside">V</span><span class="topo-membrane">SWPVFITLITGLYLVT</span></span>
-<span class="topo-line"><span class="topo-membrane">NALFALAYLAC</span><span class="topo-inside">GDVIENARPGSF</span><span class="topo-unknown">TDAFFFSVQTMATIGY</span><span class="topo-inside">GKLIPIGP</span><span class="topo-membrane">LANTLVTLEALCG</span></span>
-<span class="topo-line"><span class="topo-membrane">MLGLAVAASLIYARF</span><span class="topo-outside">TRPTAGVLFSSRMVISDFEGKPTLMMRLANLRIEQIIEADVHLVL</span></span>
-<span class="topo-line"><span class="topo-outside">VRSEISQEGMVFRRFHDLTLTRSRSPIFSLSWTVMHPIDHHSPIYGETDETLRNSHSEFL</span></span>
-<span class="topo-line"><span class="topo-outside">VLFTGHHEAFAQNVHARHAYSCDEIIWGGHFVDVFTTLPDGRRALDLGKFHEIAQHHHH</span><span class="topo-unknown">H</span></span>
-<span class="topo-line"><span class="topo-unknown">H</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MTGGMKPPARKPRILNSDGSSN</span><span class="topo-outside">ITRLGLEKRGWLDDH</span><span class="topo-unknown">YHDLLT</span><span class="topo-outside">V</span><span class="topo-membrane">SWPVFITLITGLYLVTNALFALAYLAC</span><span class="topo-inside">GDVIENARPGSF</span><span class="topo-unknown">TDAFFFSVQTMATIGY</span><span class="topo-inside">GKLIPIGP</span><span class="topo-membrane">LANTLVTLEALCG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">MLGLAVAASLIYARF</span><span class="topo-outside">TRPTAGVLFSSRMVISDFEGKPTLMMRLANLRIEQIIEADVHLVLVRSEISQEGMVFRRFHDLTLTRSRSPIFSLSWTVMHPIDHHSPIYGETDETLRNSHSEFL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300 </span>
+<span class="topo-line"><span class="topo-outside">VLFTGHHEAFAQNVHARHAYSCDEIIWGGHFVDVFTTLPDGRRALDLGKFHEIAQHHHH</span><span class="topo-unknown">HH</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1738,6 +1761,7 @@ KirBac1.1 and KirBac3.1 are prokaryotic inward-rectifier potassium channels from
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1753,12 +1777,13 @@ KirBac1.1 and KirBac3.1 are prokaryotic inward-rectifier potassium channels from
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MTGGMKPPAR</span><span class="topo-outside">KPRILNSDGSSNITRLGLEKRG</span><span class="topo-unknown">WLDDHYH</span><span class="topo-outside">DLLTV</span><span class="topo-membrane">SWPVFITLITGLYLVT</span></span>
-<span class="topo-line"><span class="topo-membrane">NALFALAYLAC</span><span class="topo-inside">GDVIENARPGSF</span><span class="topo-unknown">TDAFFFSVQTMATIGYG</span><span class="topo-inside">KLIPIGP</span><span class="topo-membrane">LANTLVTLEALCG</span></span>
-<span class="topo-line"><span class="topo-membrane">MLGLAVAASLIYARF</span><span class="topo-outside">TRPTAGVLFSSRMVISDFEGKPTLMMRLANLRIEQIIEADVHLVL</span></span>
-<span class="topo-line"><span class="topo-outside">VRSEISQEGMVFRRFHDLTLTRSRSPIFSLSWTVMHPIDHHSPIYGETDETLRNSHSEFL</span></span>
-<span class="topo-line"><span class="topo-outside">VLFTGHHEAFAQNVHARHAYSCDEIIWGGHFVDVFTTLPDGRRALDLGKFHEIAQHHHHH</span></span>
-<span class="topo-line"><span class="topo-outside">H</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MTGGMKPPAR</span><span class="topo-outside">KPRILNSDGSSNITRLGLEKRG</span><span class="topo-unknown">WLDDHYH</span><span class="topo-outside">DLLTV</span><span class="topo-membrane">SWPVFITLITGLYLVTNALFALAYLAC</span><span class="topo-inside">GDVIENARPGSF</span><span class="topo-unknown">TDAFFFSVQTMATIGYG</span><span class="topo-inside">KLIPIGP</span><span class="topo-membrane">LANTLVTLEALCG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">MLGLAVAASLIYARF</span><span class="topo-outside">TRPTAGVLFSSRMVISDFEGKPTLMMRLANLRIEQIIEADVHLVLVRSEISQEGMVFRRFHDLTLTRSRSPIFSLSWTVMHPIDHHSPIYGETDETLRNSHSEFL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300 </span>
+<span class="topo-line"><span class="topo-outside">VLFTGHHEAFAQNVHARHAYSCDEIIWGGHFVDVFTTLPDGRRALDLGKFHEIAQHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (10 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1840,6 +1865,7 @@ KirBac1.1 and KirBac3.1 are prokaryotic inward-rectifier potassium channels from
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1855,12 +1881,13 @@ KirBac1.1 and KirBac3.1 are prokaryotic inward-rectifier potassium channels from
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MTGGMKPPAR</span><span class="topo-outside">KPRILNSDGSSNITRLGLEKRG</span><span class="topo-unknown">WLDDHYH</span><span class="topo-outside">DLLTV</span><span class="topo-membrane">SWPVFITLITGLYLVT</span></span>
-<span class="topo-line"><span class="topo-membrane">NALFALAYLAC</span><span class="topo-inside">GDVIENARPGSF</span><span class="topo-unknown">TDAFFFSVQTMATIGYG</span><span class="topo-inside">KLIPIGP</span><span class="topo-membrane">LANTLVTLEALCG</span></span>
-<span class="topo-line"><span class="topo-membrane">MLGLAVAASLIYARF</span><span class="topo-outside">TRPTAGVLFSSRMVISDFEGKPTLMMRLANLRIEQIIEADVHLVL</span></span>
-<span class="topo-line"><span class="topo-outside">VRSEISQEGMVFRRFHDLTLTRSRSPIFSLSWTVMHPIDHHSPIYGETDETLRNSHSEFL</span></span>
-<span class="topo-line"><span class="topo-outside">VLFTGHHEAFAQNVHARHAYSCDEIIWGGHFVDVFTTLPDGRRALDLGKFHEIAQHHHHH</span></span>
-<span class="topo-line"><span class="topo-outside">H</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MTGGMKPPAR</span><span class="topo-outside">KPRILNSDGSSNITRLGLEKRG</span><span class="topo-unknown">WLDDHYH</span><span class="topo-outside">DLLTV</span><span class="topo-membrane">SWPVFITLITGLYLVTNALFALAYLAC</span><span class="topo-inside">GDVIENARPGSF</span><span class="topo-unknown">TDAFFFSVQTMATIGYG</span><span class="topo-inside">KLIPIGP</span><span class="topo-membrane">LANTLVTLEALCG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">MLGLAVAASLIYARF</span><span class="topo-outside">TRPTAGVLFSSRMVISDFEGKPTLMMRLANLRIEQIIEADVHLVLVRSEISQEGMVFRRFHDLTLTRSRSPIFSLSWTVMHPIDHHSPIYGETDETLRNSHSEFL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300 </span>
+<span class="topo-line"><span class="topo-outside">VLFTGHHEAFAQNVHARHAYSCDEIIWGGHFVDVFTTLPDGRRALDLGKFHEIAQHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (10 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1942,6 +1969,7 @@ KirBac1.1 and KirBac3.1 are prokaryotic inward-rectifier potassium channels from
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1957,12 +1985,13 @@ KirBac1.1 and KirBac3.1 are prokaryotic inward-rectifier potassium channels from
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MTGGMKPPAR</span><span class="topo-outside">KPRILNSDGSSNITRLGLEKRG</span><span class="topo-unknown">WLDDHYH</span><span class="topo-outside">DLLTV</span><span class="topo-membrane">SWPVFITLITGLYLVT</span></span>
-<span class="topo-line"><span class="topo-membrane">NALFALAYLAC</span><span class="topo-inside">GDVIENARPGSF</span><span class="topo-unknown">TDAFFFSVQTMATIGYG</span><span class="topo-inside">KLIPIGP</span><span class="topo-membrane">LANTLVTLEALCG</span></span>
-<span class="topo-line"><span class="topo-membrane">MLGLAVAASLIYARF</span><span class="topo-outside">TRPTAGVLFSSRMVISDFEGKPTLMMRLANLRIEQIIEADVHLVL</span></span>
-<span class="topo-line"><span class="topo-outside">VRSEISQEGMVFRRFHDLTLTRSRSPIFSLSWTVMHPIDHHSPIYGETDETLRNSHSEFL</span></span>
-<span class="topo-line"><span class="topo-outside">VLFTGHHEAFAQNVHARHAYSCDEIIWGGHFVDVFTTLPDGRRALDLGKFHEIAQHHHHH</span></span>
-<span class="topo-line"><span class="topo-outside">H</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MTGGMKPPAR</span><span class="topo-outside">KPRILNSDGSSNITRLGLEKRG</span><span class="topo-unknown">WLDDHYH</span><span class="topo-outside">DLLTV</span><span class="topo-membrane">SWPVFITLITGLYLVTNALFALAYLAC</span><span class="topo-inside">GDVIENARPGSF</span><span class="topo-unknown">TDAFFFSVQTMATIGYG</span><span class="topo-inside">KLIPIGP</span><span class="topo-membrane">LANTLVTLEALCG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">MLGLAVAASLIYARF</span><span class="topo-outside">TRPTAGVLFSSRMVISDFEGKPTLMMRLANLRIEQIIEADVHLVLVRSEISQEGMVFRRFHDLTLTRSRSPIFSLSWTVMHPIDHHSPIYGETDETLRNSHSEFL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300 </span>
+<span class="topo-line"><span class="topo-outside">VLFTGHHEAFAQNVHARHAYSCDEIIWGGHFVDVFTTLPDGRRALDLGKFHEIAQHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (10 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2044,6 +2073,7 @@ KirBac1.1 and KirBac3.1 are prokaryotic inward-rectifier potassium channels from
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2059,12 +2089,13 @@ KirBac1.1 and KirBac3.1 are prokaryotic inward-rectifier potassium channels from
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MTGGMKPPAR</span><span class="topo-outside">KPRILNSDGSSNITRLGLEKRG</span><span class="topo-unknown">WLDDHYH</span><span class="topo-outside">DLLTV</span><span class="topo-membrane">SWPVFITLITGLYLVT</span></span>
-<span class="topo-line"><span class="topo-membrane">NALFALAYLAC</span><span class="topo-inside">GDVIENARPGSF</span><span class="topo-unknown">TDAFFFSVQTMATIGYG</span><span class="topo-inside">KLIPIGP</span><span class="topo-membrane">LANTLVTLEALCG</span></span>
-<span class="topo-line"><span class="topo-membrane">MLGLAVAASLIYARF</span><span class="topo-outside">TRPTAGVLFSSRMVISDFEGKPTLMMRLANLRIEQIIEADVHLVL</span></span>
-<span class="topo-line"><span class="topo-outside">VRSEISQEGMVFRRFHDLTLTRSRSPIFSLSWTVMHPIDHHSPIYGETDETLRNSHSEFL</span></span>
-<span class="topo-line"><span class="topo-outside">VLFTGHHEAFAQNVHARHAYSCDEIIWGGHFVDVFTTLPDGRRALDLGKFHEIAQHHHHH</span></span>
-<span class="topo-line"><span class="topo-outside">H</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MTGGMKPPAR</span><span class="topo-outside">KPRILNSDGSSNITRLGLEKRG</span><span class="topo-unknown">WLDDHYH</span><span class="topo-outside">DLLTV</span><span class="topo-membrane">SWPVFITLITGLYLVTNALFALAYLAC</span><span class="topo-inside">GDVIENARPGSF</span><span class="topo-unknown">TDAFFFSVQTMATIGYG</span><span class="topo-inside">KLIPIGP</span><span class="topo-membrane">LANTLVTLEALCG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">MLGLAVAASLIYARF</span><span class="topo-outside">TRPTAGVLFSSRMVISDFEGKPTLMMRLANLRIEQIIEADVHLVLVRSEISQEGMVFRRFHDLTLTRSRSPIFSLSWTVMHPIDHHSPIYGETDETLRNSHSEFL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300 </span>
+<span class="topo-line"><span class="topo-outside">VLFTGHHEAFAQNVHARHAYSCDEIIWGGHFVDVFTTLPDGRRALDLGKFHEIAQHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (10 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2146,6 +2177,7 @@ KirBac1.1 and KirBac3.1 are prokaryotic inward-rectifier potassium channels from
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2379,12 +2411,13 @@ KirBac1.1 and KirBac3.1 are prokaryotic inward-rectifier potassium channels from
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MTGGMKPPARK</span><span class="topo-inside">PRILNSDGSSNITRLGL</span><span class="topo-unknown">EKRGWLD</span><span class="topo-inside">DHYHDLLTVSRP</span><span class="topo-membrane">VFITLITGLYLVT</span></span>
-<span class="topo-line"><span class="topo-membrane">NALFALAYLAC</span><span class="topo-outside">GDVIENARPGSF</span><span class="topo-unknown">TDAFFFSVQTMATIGY</span><span class="topo-outside">GKLIPIGP</span><span class="topo-membrane">LANTLVTLEALCG</span></span>
-<span class="topo-line"><span class="topo-membrane">MLGLAVAA</span><span class="topo-inside">SLIYARFTRPTAGVLFSSRMVISDFEGKPTLMMRLANLRIEQIIEADVHLVL</span></span>
-<span class="topo-line"><span class="topo-inside">VRSEISQEGMVFRRFHDLTLTRSRSPIFSLSWTVMHPIDHHSPIYGETDETLRNSHSEFL</span></span>
-<span class="topo-line"><span class="topo-inside">VLFTGHHEAFAQNVHARHAYSCDEIIWGGHFVDVFTT</span><span class="topo-unknown">LPDG</span><span class="topo-inside">RRALDLGKFHEIAQHHH</span><span class="topo-unknown">HH</span></span>
-<span class="topo-line"><span class="topo-unknown">H</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MTGGMKPPARK</span><span class="topo-inside">PRILNSDGSSNITRLGL</span><span class="topo-unknown">EKRGWLD</span><span class="topo-inside">DHYHDLLTVSRP</span><span class="topo-membrane">VFITLITGLYLVTNALFALAYLAC</span><span class="topo-outside">GDVIENARPGSF</span><span class="topo-unknown">TDAFFFSVQTMATIGY</span><span class="topo-outside">GKLIPIGP</span><span class="topo-membrane">LANTLVTLEALCG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">MLGLAVAA</span><span class="topo-inside">SLIYARFTRPTAGVLFSSRMVISDFEGKPTLMMRLANLRIEQIIEADVHLVLVRSEISQEGMVFRRFHDLTLTRSRSPIFSLSWTVMHPIDHHSPIYGETDETLRNSHSEFL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300 </span>
+<span class="topo-line"><span class="topo-inside">VLFTGHHEAFAQNVHARHAYSCDEIIWGGHFVDVFTT</span><span class="topo-unknown">LPDG</span><span class="topo-inside">RRALDLGKFHEIAQHHH</span><span class="topo-unknown">HHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (13 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2487,6 +2520,7 @@ KirBac1.1 and KirBac3.1 are prokaryotic inward-rectifier potassium channels from
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2502,12 +2536,13 @@ KirBac1.1 and KirBac3.1 are prokaryotic inward-rectifier potassium channels from
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MTGGMKPPARKPRILNSDGSSN</span><span class="topo-inside">ITRLGL</span><span class="topo-unknown">EKRGWLDDH</span><span class="topo-inside">YHDLLTVSRP</span><span class="topo-membrane">VFITLITGLYLVT</span></span>
-<span class="topo-line"><span class="topo-membrane">NALFALAYLAC</span><span class="topo-outside">GDVIENARPGSF</span><span class="topo-unknown">TDAFFFSVQTMATIGY</span><span class="topo-outside">GKLIPIGP</span><span class="topo-membrane">LANTLVTLEALCG</span></span>
-<span class="topo-line"><span class="topo-membrane">MLGLAVAA</span><span class="topo-inside">SLIYARFTRPTAGVLFSSRMVISDFEGKPTLMMRLANLRIEQIIEADVHLVL</span></span>
-<span class="topo-line"><span class="topo-inside">VRSEISQEGMVFRRFHDLTLTRSRSPIFSLSWTVMHPIDHHSPIYGETDETLRNSHSEFL</span></span>
-<span class="topo-line"><span class="topo-inside">VLFTGHHEAFAQNVHARHAYSCDEIIWGGHFVDVFTT</span><span class="topo-unknown">LPDG</span><span class="topo-inside">RRALDLGKFHEIAQHHHHH</span></span>
-<span class="topo-line"><span class="topo-unknown">H</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MTGGMKPPARKPRILNSDGSSN</span><span class="topo-inside">ITRLGL</span><span class="topo-unknown">EKRGWLDDH</span><span class="topo-inside">YHDLLTVSRP</span><span class="topo-membrane">VFITLITGLYLVTNALFALAYLAC</span><span class="topo-outside">GDVIENARPGSF</span><span class="topo-unknown">TDAFFFSVQTMATIGY</span><span class="topo-outside">GKLIPIGP</span><span class="topo-membrane">LANTLVTLEALCG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">MLGLAVAA</span><span class="topo-inside">SLIYARFTRPTAGVLFSSRMVISDFEGKPTLMMRLANLRIEQIIEADVHLVLVRSEISQEGMVFRRFHDLTLTRSRSPIFSLSWTVMHPIDHHSPIYGETDETLRNSHSEFL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300 </span>
+<span class="topo-line"><span class="topo-inside">VLFTGHHEAFAQNVHARHAYSCDEIIWGGHFVDVFTT</span><span class="topo-unknown">LPDG</span><span class="topo-inside">RRALDLGKFHEIAQHHHHH</span><span class="topo-unknown">H</span></span>
+<details class="topo-details"><summary>Topology coordinates (13 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2610,6 +2645,7 @@ KirBac1.1 and KirBac3.1 are prokaryotic inward-rectifier potassium channels from
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2625,12 +2661,13 @@ KirBac1.1 and KirBac3.1 are prokaryotic inward-rectifier potassium channels from
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MTGGMKPPARK</span><span class="topo-inside">PRILNSDGSSNITRLGL</span><span class="topo-unknown">EKRGWLD</span><span class="topo-inside">DHYHDLLTVSRP</span><span class="topo-membrane">VFITLITGLYLVT</span></span>
-<span class="topo-line"><span class="topo-membrane">NALFALAYLAC</span><span class="topo-outside">GDVIENARPGSF</span><span class="topo-unknown">TDAFFFSVQTMATIGY</span><span class="topo-outside">GKLIPIGP</span><span class="topo-membrane">LANTLVTLEALCG</span></span>
-<span class="topo-line"><span class="topo-membrane">MLGLAVAA</span><span class="topo-inside">SLIYARFTRPTAGVLFSSRMVISDFEGKPTLMMRLANLRIEQIIEADVHLVL</span></span>
-<span class="topo-line"><span class="topo-inside">VRSEISQEGMVFRRFHDLTLTRSRSPIFSLSWTVMHPIDHHSPIYGETDETLRNSHSEFL</span></span>
-<span class="topo-line"><span class="topo-inside">VLFTGHHEAFAQNVHARHAYSCDEIIWGGHFVDVFTT</span><span class="topo-unknown">LPDG</span><span class="topo-inside">RRALDLGKFHEIAQHHH</span><span class="topo-unknown">HH</span></span>
-<span class="topo-line"><span class="topo-unknown">H</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MTGGMKPPARK</span><span class="topo-inside">PRILNSDGSSNITRLGL</span><span class="topo-unknown">EKRGWLD</span><span class="topo-inside">DHYHDLLTVSRP</span><span class="topo-membrane">VFITLITGLYLVTNALFALAYLAC</span><span class="topo-outside">GDVIENARPGSF</span><span class="topo-unknown">TDAFFFSVQTMATIGY</span><span class="topo-outside">GKLIPIGP</span><span class="topo-membrane">LANTLVTLEALCG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">MLGLAVAA</span><span class="topo-inside">SLIYARFTRPTAGVLFSSRMVISDFEGKPTLMMRLANLRIEQIIEADVHLVLVRSEISQEGMVFRRFHDLTLTRSRSPIFSLSWTVMHPIDHHSPIYGETDETLRNSHSEFL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300 </span>
+<span class="topo-line"><span class="topo-inside">VLFTGHHEAFAQNVHARHAYSCDEIIWGGHFVDVFTT</span><span class="topo-unknown">LPDG</span><span class="topo-inside">RRALDLGKFHEIAQHHH</span><span class="topo-unknown">HHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (13 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2733,6 +2770,7 @@ KirBac1.1 and KirBac3.1 are prokaryotic inward-rectifier potassium channels from
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2748,12 +2786,13 @@ KirBac1.1 and KirBac3.1 are prokaryotic inward-rectifier potassium channels from
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MTGGMKPPARKPRILNSDGSSN</span><span class="topo-inside">ITRLGL</span><span class="topo-unknown">EKRGWLDDH</span><span class="topo-inside">YHDLLTVSRP</span><span class="topo-membrane">VFITLITGLYLVT</span></span>
-<span class="topo-line"><span class="topo-membrane">NALFALAYLAC</span><span class="topo-outside">GDVIENARPGSF</span><span class="topo-unknown">TDAFFFSVQTMATIGY</span><span class="topo-outside">GKLIPIGP</span><span class="topo-membrane">LANTLVTLEALCG</span></span>
-<span class="topo-line"><span class="topo-membrane">MLGLAVAA</span><span class="topo-inside">SLIYARFTRPTAGVLFSSRMVISDFEGKPTLMMRLANLRIEQIIEADVHLVL</span></span>
-<span class="topo-line"><span class="topo-inside">VRSEISQEGMVFRRFHDLTLTRSRSPIFSLSWTVMHPIDHHSPIYGETDETLRNSHSEFL</span></span>
-<span class="topo-line"><span class="topo-inside">VLFTGHHEAFAQNVHARHAYSCDEIIWGGHFVDVFTT</span><span class="topo-unknown">LPDG</span><span class="topo-inside">RRALDLGKFHEIAQHHHHH</span></span>
-<span class="topo-line"><span class="topo-unknown">H</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MTGGMKPPARKPRILNSDGSSN</span><span class="topo-inside">ITRLGL</span><span class="topo-unknown">EKRGWLDDH</span><span class="topo-inside">YHDLLTVSRP</span><span class="topo-membrane">VFITLITGLYLVTNALFALAYLAC</span><span class="topo-outside">GDVIENARPGSF</span><span class="topo-unknown">TDAFFFSVQTMATIGY</span><span class="topo-outside">GKLIPIGP</span><span class="topo-membrane">LANTLVTLEALCG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">MLGLAVAA</span><span class="topo-inside">SLIYARFTRPTAGVLFSSRMVISDFEGKPTLMMRLANLRIEQIIEADVHLVLVRSEISQEGMVFRRFHDLTLTRSRSPIFSLSWTVMHPIDHHSPIYGETDETLRNSHSEFL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300 </span>
+<span class="topo-line"><span class="topo-inside">VLFTGHHEAFAQNVHARHAYSCDEIIWGGHFVDVFTT</span><span class="topo-unknown">LPDG</span><span class="topo-inside">RRALDLGKFHEIAQHHHHH</span><span class="topo-unknown">H</span></span>
+<details class="topo-details"><summary>Topology coordinates (13 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2856,6 +2895,7 @@ KirBac1.1 and KirBac3.1 are prokaryotic inward-rectifier potassium channels from
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2920,12 +2960,13 @@ KirBac1.1 and KirBac3.1 are prokaryotic inward-rectifier potassium channels from
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MTGGMKPPARK</span><span class="topo-inside">PRILNSDGSSNITRL</span><span class="topo-unknown">GLEKRGWL</span><span class="topo-inside">DDHYHDLLTVSWP</span><span class="topo-membrane">VFITLITGLYLVT</span></span>
-<span class="topo-line"><span class="topo-membrane">NALFALAY</span><span class="topo-outside">LAVGDVIENARPGSFTDA</span><span class="topo-unknown">FFFSVQTMATIG</span><span class="topo-outside">YGKLIPIGPL</span><span class="topo-membrane">ANTLVTLEALVG</span></span>
-<span class="topo-line"><span class="topo-membrane">MLGLAVAA</span><span class="topo-inside">SLIYCRFCRPTAGVLFSSRMVISDFEGKPTLMMRLANLRIEQIIEADVHLVL</span></span>
-<span class="topo-line"><span class="topo-inside">VRSEISQEGMVFRRFHDLTLTRSRSPIFSLSWTVMHPIDHHSPIYGETDETLRNSHSEFL</span></span>
-<span class="topo-line"><span class="topo-inside">VLFTGHHEAFAQNVHARHAYSSDEIIWGGHFVDVFTTLPDGRRALDLGKFHEI</span><span class="topo-unknown">AQHHHHH</span></span>
-<span class="topo-line"><span class="topo-unknown">H</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MTGGMKPPARK</span><span class="topo-inside">PRILNSDGSSNITRL</span><span class="topo-unknown">GLEKRGWL</span><span class="topo-inside">DDHYHDLLTVSWP</span><span class="topo-membrane">VFITLITGLYLVTNALFALAY</span><span class="topo-outside">LAVGDVIENARPGSFTDA</span><span class="topo-unknown">FFFSVQTMATIG</span><span class="topo-outside">YGKLIPIGPL</span><span class="topo-membrane">ANTLVTLEALVG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">MLGLAVAA</span><span class="topo-inside">SLIYCRFCRPTAGVLFSSRMVISDFEGKPTLMMRLANLRIEQIIEADVHLVLVRSEISQEGMVFRRFHDLTLTRSRSPIFSLSWTVMHPIDHHSPIYGETDETLRNSHSEFL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300 </span>
+<span class="topo-line"><span class="topo-inside">VLFTGHHEAFAQNVHARHAYSSDEIIWGGHFVDVFTTLPDGRRALDLGKFHEI</span><span class="topo-unknown">AQHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3014,6 +3055,7 @@ KirBac1.1 and KirBac3.1 are prokaryotic inward-rectifier potassium channels from
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3029,12 +3071,13 @@ KirBac1.1 and KirBac3.1 are prokaryotic inward-rectifier potassium channels from
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MTGGMKPPARK</span><span class="topo-inside">PRILNSDGSSNITRL</span><span class="topo-unknown">GLEKRGWL</span><span class="topo-inside">DDHYHDLLTVSWP</span><span class="topo-membrane">VFITLITGLYLVT</span></span>
-<span class="topo-line"><span class="topo-membrane">NALFALAY</span><span class="topo-outside">LAVGDVIENARPGSFTDA</span><span class="topo-unknown">FFFSVQTMATIG</span><span class="topo-outside">YGKLIPIGPL</span><span class="topo-membrane">ANTLVTLEALVG</span></span>
-<span class="topo-line"><span class="topo-membrane">MLGLAVAA</span><span class="topo-inside">SLIYCRFCRPTAGVLFSSRMVISDFEGKPTLMMRLANLRIEQIIEADVHLVL</span></span>
-<span class="topo-line"><span class="topo-inside">VRSEISQEGMVFRRFHDLTLTRSRSPIFSLSWTVMHPIDHHSPIYGETDETLRNSHSEFL</span></span>
-<span class="topo-line"><span class="topo-inside">VLFTGHHEAFAQNVHARHAYSSDEIIWGGHFVDVFTTLPDGRRALDLGKFHEI</span><span class="topo-unknown">AQHHHHH</span></span>
-<span class="topo-line"><span class="topo-unknown">H</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MTGGMKPPARK</span><span class="topo-inside">PRILNSDGSSNITRL</span><span class="topo-unknown">GLEKRGWL</span><span class="topo-inside">DDHYHDLLTVSWP</span><span class="topo-membrane">VFITLITGLYLVTNALFALAY</span><span class="topo-outside">LAVGDVIENARPGSFTDA</span><span class="topo-unknown">FFFSVQTMATIG</span><span class="topo-outside">YGKLIPIGPL</span><span class="topo-membrane">ANTLVTLEALVG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">MLGLAVAA</span><span class="topo-inside">SLIYCRFCRPTAGVLFSSRMVISDFEGKPTLMMRLANLRIEQIIEADVHLVLVRSEISQEGMVFRRFHDLTLTRSRSPIFSLSWTVMHPIDHHSPIYGETDETLRNSHSEFL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300 </span>
+<span class="topo-line"><span class="topo-inside">VLFTGHHEAFAQNVHARHAYSSDEIIWGGHFVDVFTTLPDGRRALDLGKFHEI</span><span class="topo-unknown">AQHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3123,6 +3166,7 @@ KirBac1.1 and KirBac3.1 are prokaryotic inward-rectifier potassium channels from
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3138,12 +3182,13 @@ KirBac1.1 and KirBac3.1 are prokaryotic inward-rectifier potassium channels from
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MTGGMKPPARK</span><span class="topo-inside">PRILNSDGSSNITRL</span><span class="topo-unknown">GLEKRGWL</span><span class="topo-inside">DDHYHDLLTVSWP</span><span class="topo-membrane">VFITLITGLYLVT</span></span>
-<span class="topo-line"><span class="topo-membrane">NALFALAY</span><span class="topo-outside">LAVGDVIENARPGSFTDA</span><span class="topo-unknown">FFFSVQTMATIG</span><span class="topo-outside">YGKLIPIGPL</span><span class="topo-membrane">ANTLVTLEALVG</span></span>
-<span class="topo-line"><span class="topo-membrane">MLGLAVAA</span><span class="topo-inside">SLIYCRFCRPTAGVLFSSRMVISDFEGKPTLMMRLANLRIEQIIEADVHLVL</span></span>
-<span class="topo-line"><span class="topo-inside">VRSEISQEGMVFRRFHDLTLTRSRSPIFSLSWTVMHPIDHHSPIYGETDETLRNSHSEFL</span></span>
-<span class="topo-line"><span class="topo-inside">VLFTGHHEAFAQNVHARHAYSSDEIIWGGHFVDVFTTLPDGRRALDLGKFHEI</span><span class="topo-unknown">AQHHHHH</span></span>
-<span class="topo-line"><span class="topo-unknown">H</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MTGGMKPPARK</span><span class="topo-inside">PRILNSDGSSNITRL</span><span class="topo-unknown">GLEKRGWL</span><span class="topo-inside">DDHYHDLLTVSWP</span><span class="topo-membrane">VFITLITGLYLVTNALFALAY</span><span class="topo-outside">LAVGDVIENARPGSFTDA</span><span class="topo-unknown">FFFSVQTMATIG</span><span class="topo-outside">YGKLIPIGPL</span><span class="topo-membrane">ANTLVTLEALVG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">MLGLAVAA</span><span class="topo-inside">SLIYCRFCRPTAGVLFSSRMVISDFEGKPTLMMRLANLRIEQIIEADVHLVLVRSEISQEGMVFRRFHDLTLTRSRSPIFSLSWTVMHPIDHHSPIYGETDETLRNSHSEFL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300 </span>
+<span class="topo-line"><span class="topo-inside">VLFTGHHEAFAQNVHARHAYSSDEIIWGGHFVDVFTTLPDGRRALDLGKFHEI</span><span class="topo-unknown">AQHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3232,6 +3277,7 @@ KirBac1.1 and KirBac3.1 are prokaryotic inward-rectifier potassium channels from
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3247,12 +3293,13 @@ KirBac1.1 and KirBac3.1 are prokaryotic inward-rectifier potassium channels from
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MTGGMKPPARK</span><span class="topo-inside">PRILNSDGSSNITRL</span><span class="topo-unknown">GLEKRGWL</span><span class="topo-inside">DDHYHDLLTVSWP</span><span class="topo-membrane">VFITLITGLYLVT</span></span>
-<span class="topo-line"><span class="topo-membrane">NALFALAY</span><span class="topo-outside">LAVGDVIENARPGSFTDA</span><span class="topo-unknown">FFFSVQTMATIG</span><span class="topo-outside">YGKLIPIGPL</span><span class="topo-membrane">ANTLVTLEALVG</span></span>
-<span class="topo-line"><span class="topo-membrane">MLGLAVAA</span><span class="topo-inside">SLIYCRFCRPTAGVLFSSRMVISDFEGKPTLMMRLANLRIEQIIEADVHLVL</span></span>
-<span class="topo-line"><span class="topo-inside">VRSEISQEGMVFRRFHDLTLTRSRSPIFSLSWTVMHPIDHHSPIYGETDETLRNSHSEFL</span></span>
-<span class="topo-line"><span class="topo-inside">VLFTGHHEAFAQNVHARHAYSSDEIIWGGHFVDVFTTLPDGRRALDLGKFHEI</span><span class="topo-unknown">AQHHHHH</span></span>
-<span class="topo-line"><span class="topo-unknown">H</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MTGGMKPPARK</span><span class="topo-inside">PRILNSDGSSNITRL</span><span class="topo-unknown">GLEKRGWL</span><span class="topo-inside">DDHYHDLLTVSWP</span><span class="topo-membrane">VFITLITGLYLVTNALFALAY</span><span class="topo-outside">LAVGDVIENARPGSFTDA</span><span class="topo-unknown">FFFSVQTMATIG</span><span class="topo-outside">YGKLIPIGPL</span><span class="topo-membrane">ANTLVTLEALVG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">MLGLAVAA</span><span class="topo-inside">SLIYCRFCRPTAGVLFSSRMVISDFEGKPTLMMRLANLRIEQIIEADVHLVLVRSEISQEGMVFRRFHDLTLTRSRSPIFSLSWTVMHPIDHHSPIYGETDETLRNSHSEFL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300 </span>
+<span class="topo-line"><span class="topo-inside">VLFTGHHEAFAQNVHARHAYSSDEIIWGGHFVDVFTTLPDGRRALDLGKFHEI</span><span class="topo-unknown">AQHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3341,6 +3388,7 @@ KirBac1.1 and KirBac3.1 are prokaryotic inward-rectifier potassium channels from
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3356,12 +3404,13 @@ KirBac1.1 and KirBac3.1 are prokaryotic inward-rectifier potassium channels from
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MTGGMKPPARK</span><span class="topo-inside">PRILNSDGSSNITRLGL</span><span class="topo-unknown">EKRG</span><span class="topo-inside">WLDDHYHDLLTVSWPVFI</span><span class="topo-membrane">TLITGLYLVT</span></span>
-<span class="topo-line"><span class="topo-membrane">NALFALAY</span><span class="topo-outside">LACGDVIENARPGSFTDA</span><span class="topo-unknown">FFFSVQTMATIG</span><span class="topo-outside">YGKLIPIGPL</span><span class="topo-membrane">ANTLVTLEALCG</span></span>
-<span class="topo-line"><span class="topo-membrane">MLGLAVAA</span><span class="topo-inside">SLIYARFTRPTAGVLFSSRMVISDFEGKPTLMMRLANLRIEQIIEADVHLVL</span></span>
-<span class="topo-line"><span class="topo-inside">VRSEISQEGMVFRRFHDLTLTRSRSPIFSLSWTVMHPIDHHSPIYGETDETLRNSHSEFL</span></span>
-<span class="topo-line"><span class="topo-inside">VLFTGHHEAFAQNVHARHAYSCDEIIWGGHFVDVFTTLPDGRRALDLGKFHEIAQHHH</span><span class="topo-unknown">HH</span></span>
-<span class="topo-line"><span class="topo-unknown">H</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MTGGMKPPARK</span><span class="topo-inside">PRILNSDGSSNITRLGL</span><span class="topo-unknown">EKRG</span><span class="topo-inside">WLDDHYHDLLTVSWPVFI</span><span class="topo-membrane">TLITGLYLVTNALFALAY</span><span class="topo-outside">LACGDVIENARPGSFTDA</span><span class="topo-unknown">FFFSVQTMATIG</span><span class="topo-outside">YGKLIPIGPL</span><span class="topo-membrane">ANTLVTLEALCG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">MLGLAVAA</span><span class="topo-inside">SLIYARFTRPTAGVLFSSRMVISDFEGKPTLMMRLANLRIEQIIEADVHLVLVRSEISQEGMVFRRFHDLTLTRSRSPIFSLSWTVMHPIDHHSPIYGETDETLRNSHSEFL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300 </span>
+<span class="topo-line"><span class="topo-inside">VLFTGHHEAFAQNVHARHAYSCDEIIWGGHFVDVFTTLPDGRRALDLGKFHEIAQHHH</span><span class="topo-unknown">HHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3450,6 +3499,7 @@ KirBac1.1 and KirBac3.1 are prokaryotic inward-rectifier potassium channels from
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3465,12 +3515,13 @@ KirBac1.1 and KirBac3.1 are prokaryotic inward-rectifier potassium channels from
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MTGGMKPPARK</span><span class="topo-inside">PRILNSDGSSNITRLGL</span><span class="topo-unknown">EKRG</span><span class="topo-inside">WLDDHYHDLLTVSWPVFI</span><span class="topo-membrane">TLITGLYLVT</span></span>
-<span class="topo-line"><span class="topo-membrane">NALFALAY</span><span class="topo-outside">LACGDVIENARPGSFTDA</span><span class="topo-unknown">FFFSVQTMATIG</span><span class="topo-outside">YGKLIPIGPL</span><span class="topo-membrane">ANTLVTLEALCG</span></span>
-<span class="topo-line"><span class="topo-membrane">MLGLAVAA</span><span class="topo-inside">SLIYARFTRPTAGVLFSSRMVISDFEGKPTLMMRLANLRIEQIIEADVHLVL</span></span>
-<span class="topo-line"><span class="topo-inside">VRSEISQEGMVFRRFHDLTLTRSRSPIFSLSWTVMHPIDHHSPIYGETDETLRNSHSEFL</span></span>
-<span class="topo-line"><span class="topo-inside">VLFTGHHEAFAQNVHARHAYSCDEIIWGGHFVDVFTTLPDGRRALDLGKFHEIAQHHH</span><span class="topo-unknown">HH</span></span>
-<span class="topo-line"><span class="topo-unknown">H</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MTGGMKPPARK</span><span class="topo-inside">PRILNSDGSSNITRLGL</span><span class="topo-unknown">EKRG</span><span class="topo-inside">WLDDHYHDLLTVSWPVFI</span><span class="topo-membrane">TLITGLYLVTNALFALAY</span><span class="topo-outside">LACGDVIENARPGSFTDA</span><span class="topo-unknown">FFFSVQTMATIG</span><span class="topo-outside">YGKLIPIGPL</span><span class="topo-membrane">ANTLVTLEALCG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">MLGLAVAA</span><span class="topo-inside">SLIYARFTRPTAGVLFSSRMVISDFEGKPTLMMRLANLRIEQIIEADVHLVLVRSEISQEGMVFRRFHDLTLTRSRSPIFSLSWTVMHPIDHHSPIYGETDETLRNSHSEFL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300 </span>
+<span class="topo-line"><span class="topo-inside">VLFTGHHEAFAQNVHARHAYSCDEIIWGGHFVDVFTTLPDGRRALDLGKFHEIAQHHH</span><span class="topo-unknown">HHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3559,6 +3610,7 @@ KirBac1.1 and KirBac3.1 are prokaryotic inward-rectifier potassium channels from
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3574,12 +3626,13 @@ KirBac1.1 and KirBac3.1 are prokaryotic inward-rectifier potassium channels from
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MTGGMKPPARK</span><span class="topo-inside">PRILNSDGSSNITRLGL</span><span class="topo-unknown">EKRG</span><span class="topo-inside">WLDDHYHDLLTVSWPVFI</span><span class="topo-membrane">TLITGLYLVT</span></span>
-<span class="topo-line"><span class="topo-membrane">NALFALAY</span><span class="topo-outside">LACGDVIENARPGSFTDA</span><span class="topo-unknown">FFFSVQTMATIG</span><span class="topo-outside">YGKLIPIGPL</span><span class="topo-membrane">ANTLVTLEALCG</span></span>
-<span class="topo-line"><span class="topo-membrane">MLGLAVAA</span><span class="topo-inside">SLIYARFTRPTAGVLFSSRMVISDFEGKPTLMMRLANLRIEQIIEADVHLVL</span></span>
-<span class="topo-line"><span class="topo-inside">VRSEISQEGMVFRRFHDLTLTRSRSPIFSLSWTVMHPIDHHSPIYGETDETLRNSHSEFL</span></span>
-<span class="topo-line"><span class="topo-inside">VLFTGHHEAFAQNVHARHAYSCDEIIWGGHFVDVFTTLPDGRRALDLGKFHEIAQHHH</span><span class="topo-unknown">HH</span></span>
-<span class="topo-line"><span class="topo-unknown">H</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MTGGMKPPARK</span><span class="topo-inside">PRILNSDGSSNITRLGL</span><span class="topo-unknown">EKRG</span><span class="topo-inside">WLDDHYHDLLTVSWPVFI</span><span class="topo-membrane">TLITGLYLVTNALFALAY</span><span class="topo-outside">LACGDVIENARPGSFTDA</span><span class="topo-unknown">FFFSVQTMATIG</span><span class="topo-outside">YGKLIPIGPL</span><span class="topo-membrane">ANTLVTLEALCG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">MLGLAVAA</span><span class="topo-inside">SLIYARFTRPTAGVLFSSRMVISDFEGKPTLMMRLANLRIEQIIEADVHLVLVRSEISQEGMVFRRFHDLTLTRSRSPIFSLSWTVMHPIDHHSPIYGETDETLRNSHSEFL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300 </span>
+<span class="topo-line"><span class="topo-inside">VLFTGHHEAFAQNVHARHAYSCDEIIWGGHFVDVFTTLPDGRRALDLGKFHEIAQHHH</span><span class="topo-unknown">HHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3668,6 +3721,7 @@ KirBac1.1 and KirBac3.1 are prokaryotic inward-rectifier potassium channels from
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3683,12 +3737,13 @@ KirBac1.1 and KirBac3.1 are prokaryotic inward-rectifier potassium channels from
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MTGGMKPPARK</span><span class="topo-inside">PRILNSDGSSNITRLGL</span><span class="topo-unknown">EKRG</span><span class="topo-inside">WLDDHYHDLLTVSWPVFI</span><span class="topo-membrane">TLITGLYLVT</span></span>
-<span class="topo-line"><span class="topo-membrane">NALFALAY</span><span class="topo-outside">LACGDVIENARPGSFTDA</span><span class="topo-unknown">FFFSVQTMATIG</span><span class="topo-outside">YGKLIPIGPL</span><span class="topo-membrane">ANTLVTLEALCG</span></span>
-<span class="topo-line"><span class="topo-membrane">MLGLAVAA</span><span class="topo-inside">SLIYARFTRPTAGVLFSSRMVISDFEGKPTLMMRLANLRIEQIIEADVHLVL</span></span>
-<span class="topo-line"><span class="topo-inside">VRSEISQEGMVFRRFHDLTLTRSRSPIFSLSWTVMHPIDHHSPIYGETDETLRNSHSEFL</span></span>
-<span class="topo-line"><span class="topo-inside">VLFTGHHEAFAQNVHARHAYSCDEIIWGGHFVDVFTTLPDGRRALDLGKFHEIAQHHH</span><span class="topo-unknown">HH</span></span>
-<span class="topo-line"><span class="topo-unknown">H</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MTGGMKPPARK</span><span class="topo-inside">PRILNSDGSSNITRLGL</span><span class="topo-unknown">EKRG</span><span class="topo-inside">WLDDHYHDLLTVSWPVFI</span><span class="topo-membrane">TLITGLYLVTNALFALAY</span><span class="topo-outside">LACGDVIENARPGSFTDA</span><span class="topo-unknown">FFFSVQTMATIG</span><span class="topo-outside">YGKLIPIGPL</span><span class="topo-membrane">ANTLVTLEALCG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">MLGLAVAA</span><span class="topo-inside">SLIYARFTRPTAGVLFSSRMVISDFEGKPTLMMRLANLRIEQIIEADVHLVLVRSEISQEGMVFRRFHDLTLTRSRSPIFSLSWTVMHPIDHHSPIYGETDETLRNSHSEFL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300 </span>
+<span class="topo-line"><span class="topo-inside">VLFTGHHEAFAQNVHARHAYSCDEIIWGGHFVDVFTTLPDGRRALDLGKFHEIAQHHH</span><span class="topo-unknown">HHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3777,6 +3832,7 @@ KirBac1.1 and KirBac3.1 are prokaryotic inward-rectifier potassium channels from
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3792,12 +3848,13 @@ KirBac1.1 and KirBac3.1 are prokaryotic inward-rectifier potassium channels from
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MTGGMKPPARK</span><span class="topo-outside">PRILNSDGSSNITRL</span><span class="topo-unknown">GLEKRGWL</span><span class="topo-outside">DDHYHDLLTVSWPVFI</span><span class="topo-membrane">TLITGLYLVT</span></span>
-<span class="topo-line"><span class="topo-membrane">NALFALAY</span><span class="topo-inside">LAVGDVIENARPGSFTDA</span><span class="topo-unknown">FFFSVQTMATIG</span><span class="topo-inside">YGKLIPIGPL</span><span class="topo-membrane">ANTLVTLEALVG</span></span>
-<span class="topo-line"><span class="topo-membrane">MLGLAVAA</span><span class="topo-outside">CLIYARCTRPTAGVLFSSRMVISDFEGKPTLMMRLANLRIEQIIEADVHLVL</span></span>
-<span class="topo-line"><span class="topo-outside">VRSEISQEGMVFRRFHDLTLTRSRSPIFSLSWTVMHPIDHHSPIYGETDETLRNSHSEFL</span></span>
-<span class="topo-line"><span class="topo-outside">VLFTGHHEAFAQNVHARHAYSSDEIIWGGHFVDVFTTLPDGRRALDLGKFHEIAQHHH</span><span class="topo-unknown">HH</span></span>
-<span class="topo-line"><span class="topo-unknown">H</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MTGGMKPPARK</span><span class="topo-outside">PRILNSDGSSNITRL</span><span class="topo-unknown">GLEKRGWL</span><span class="topo-outside">DDHYHDLLTVSWPVFI</span><span class="topo-membrane">TLITGLYLVTNALFALAY</span><span class="topo-inside">LAVGDVIENARPGSFTDA</span><span class="topo-unknown">FFFSVQTMATIG</span><span class="topo-inside">YGKLIPIGPL</span><span class="topo-membrane">ANTLVTLEALVG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">MLGLAVAA</span><span class="topo-outside">CLIYARCTRPTAGVLFSSRMVISDFEGKPTLMMRLANLRIEQIIEADVHLVLVRSEISQEGMVFRRFHDLTLTRSRSPIFSLSWTVMHPIDHHSPIYGETDETLRNSHSEFL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300 </span>
+<span class="topo-line"><span class="topo-outside">VLFTGHHEAFAQNVHARHAYSSDEIIWGGHFVDVFTTLPDGRRALDLGKFHEIAQHHH</span><span class="topo-unknown">HHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3886,6 +3943,7 @@ KirBac1.1 and KirBac3.1 are prokaryotic inward-rectifier potassium channels from
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3901,12 +3959,13 @@ KirBac1.1 and KirBac3.1 are prokaryotic inward-rectifier potassium channels from
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MTGGMKPPAR</span><span class="topo-outside">KPRILNSDGSSNITRLGLE</span><span class="topo-unknown">KRGW</span><span class="topo-outside">LDDHYHDLLTVSWPVFI</span><span class="topo-membrane">TLITGLYLVT</span></span>
-<span class="topo-line"><span class="topo-membrane">NALFALAY</span><span class="topo-inside">LAVGDVIENARPGSFTDA</span><span class="topo-unknown">FFFSVQTMATIG</span><span class="topo-inside">YGKLIPIGPL</span><span class="topo-membrane">ANTLVTLEALVG</span></span>
-<span class="topo-line"><span class="topo-membrane">MLGLAVAA</span><span class="topo-outside">CLIYARCTRPTAGVLFSSRMVISDFEGKPTLMMRLANLRIEQIIEADVHLVL</span></span>
-<span class="topo-line"><span class="topo-outside">VRSEISQEGMVFRRFHDLTLTRSRSPIFSLSWTVMHPIDHHSPIYGETDETLRNSHSEFL</span></span>
-<span class="topo-line"><span class="topo-outside">VLFTGHHEAFAQNVHARHAYSSDEIIWGGHFVDVFTTLPDGRRALDLGKFHEIAQH</span><span class="topo-unknown">HHHH</span></span>
-<span class="topo-line"><span class="topo-unknown">H</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MTGGMKPPAR</span><span class="topo-outside">KPRILNSDGSSNITRLGLE</span><span class="topo-unknown">KRGW</span><span class="topo-outside">LDDHYHDLLTVSWPVFI</span><span class="topo-membrane">TLITGLYLVTNALFALAY</span><span class="topo-inside">LAVGDVIENARPGSFTDA</span><span class="topo-unknown">FFFSVQTMATIG</span><span class="topo-inside">YGKLIPIGPL</span><span class="topo-membrane">ANTLVTLEALVG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">MLGLAVAA</span><span class="topo-outside">CLIYARCTRPTAGVLFSSRMVISDFEGKPTLMMRLANLRIEQIIEADVHLVLVRSEISQEGMVFRRFHDLTLTRSRSPIFSLSWTVMHPIDHHSPIYGETDETLRNSHSEFL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300 </span>
+<span class="topo-line"><span class="topo-outside">VLFTGHHEAFAQNVHARHAYSSDEIIWGGHFVDVFTTLPDGRRALDLGKFHEIAQH</span><span class="topo-unknown">HHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3995,6 +4054,7 @@ KirBac1.1 and KirBac3.1 are prokaryotic inward-rectifier potassium channels from
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4010,12 +4070,13 @@ KirBac1.1 and KirBac3.1 are prokaryotic inward-rectifier potassium channels from
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MTGGMKPPARK</span><span class="topo-outside">PRILNSDGSSNITRL</span><span class="topo-unknown">GLEKRGWL</span><span class="topo-outside">DDHYHDLLTVSWPVFI</span><span class="topo-membrane">TLITGLYLVT</span></span>
-<span class="topo-line"><span class="topo-membrane">NALFALAY</span><span class="topo-inside">LAVGDVIENARPGSFTDA</span><span class="topo-unknown">FFFSVQTMATIG</span><span class="topo-inside">YGKLIPIGPL</span><span class="topo-membrane">ANTLVTLEALVG</span></span>
-<span class="topo-line"><span class="topo-membrane">MLGLAVAA</span><span class="topo-outside">CLIYARCTRPTAGVLFSSRMVISDFEGKPTLMMRLANLRIEQIIEADVHLVL</span></span>
-<span class="topo-line"><span class="topo-outside">VRSEISQEGMVFRRFHDLTLTRSRSPIFSLSWTVMHPIDHHSPIYGETDETLRNSHSEFL</span></span>
-<span class="topo-line"><span class="topo-outside">VLFTGHHEAFAQNVHARHAYSSDEIIWGGHFVDVFTTLPDGRRALDLGKFHEIAQHHH</span><span class="topo-unknown">HH</span></span>
-<span class="topo-line"><span class="topo-unknown">H</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MTGGMKPPARK</span><span class="topo-outside">PRILNSDGSSNITRL</span><span class="topo-unknown">GLEKRGWL</span><span class="topo-outside">DDHYHDLLTVSWPVFI</span><span class="topo-membrane">TLITGLYLVTNALFALAY</span><span class="topo-inside">LAVGDVIENARPGSFTDA</span><span class="topo-unknown">FFFSVQTMATIG</span><span class="topo-inside">YGKLIPIGPL</span><span class="topo-membrane">ANTLVTLEALVG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">MLGLAVAA</span><span class="topo-outside">CLIYARCTRPTAGVLFSSRMVISDFEGKPTLMMRLANLRIEQIIEADVHLVLVRSEISQEGMVFRRFHDLTLTRSRSPIFSLSWTVMHPIDHHSPIYGETDETLRNSHSEFL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300 </span>
+<span class="topo-line"><span class="topo-outside">VLFTGHHEAFAQNVHARHAYSSDEIIWGGHFVDVFTTLPDGRRALDLGKFHEIAQHHH</span><span class="topo-unknown">HHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4104,6 +4165,7 @@ KirBac1.1 and KirBac3.1 are prokaryotic inward-rectifier potassium channels from
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4119,12 +4181,13 @@ KirBac1.1 and KirBac3.1 are prokaryotic inward-rectifier potassium channels from
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MTGGMKPPAR</span><span class="topo-outside">KPRILNSDGSSNITRLGLE</span><span class="topo-unknown">KRGW</span><span class="topo-outside">LDDHYHDLLTVSWPVFI</span><span class="topo-membrane">TLITGLYLVT</span></span>
-<span class="topo-line"><span class="topo-membrane">NALFALAY</span><span class="topo-inside">LAVGDVIENARPGSFTDA</span><span class="topo-unknown">FFFSVQTMATIG</span><span class="topo-inside">YGKLIPIGPL</span><span class="topo-membrane">ANTLVTLEALVG</span></span>
-<span class="topo-line"><span class="topo-membrane">MLGLAVAA</span><span class="topo-outside">CLIYARCTRPTAGVLFSSRMVISDFEGKPTLMMRLANLRIEQIIEADVHLVL</span></span>
-<span class="topo-line"><span class="topo-outside">VRSEISQEGMVFRRFHDLTLTRSRSPIFSLSWTVMHPIDHHSPIYGETDETLRNSHSEFL</span></span>
-<span class="topo-line"><span class="topo-outside">VLFTGHHEAFAQNVHARHAYSSDEIIWGGHFVDVFTTLPDGRRALDLGKFHEIAQH</span><span class="topo-unknown">HHHH</span></span>
-<span class="topo-line"><span class="topo-unknown">H</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MTGGMKPPAR</span><span class="topo-outside">KPRILNSDGSSNITRLGLE</span><span class="topo-unknown">KRGW</span><span class="topo-outside">LDDHYHDLLTVSWPVFI</span><span class="topo-membrane">TLITGLYLVTNALFALAY</span><span class="topo-inside">LAVGDVIENARPGSFTDA</span><span class="topo-unknown">FFFSVQTMATIG</span><span class="topo-inside">YGKLIPIGPL</span><span class="topo-membrane">ANTLVTLEALVG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">MLGLAVAA</span><span class="topo-outside">CLIYARCTRPTAGVLFSSRMVISDFEGKPTLMMRLANLRIEQIIEADVHLVLVRSEISQEGMVFRRFHDLTLTRSRSPIFSLSWTVMHPIDHHSPIYGETDETLRNSHSEFL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300 </span>
+<span class="topo-line"><span class="topo-outside">VLFTGHHEAFAQNVHARHAYSSDEIIWGGHFVDVFTTLPDGRRALDLGKFHEIAQH</span><span class="topo-unknown">HHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4213,6 +4276,7 @@ KirBac1.1 and KirBac3.1 are prokaryotic inward-rectifier potassium channels from
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4326,12 +4390,13 @@ KirBac1.1 and KirBac3.1 are prokaryotic inward-rectifier potassium channels from
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MTGGMKPPARKP</span><span class="topo-inside">RILNSDGSSNITRLG</span><span class="topo-unknown">LEKR</span><span class="topo-inside">GWLDD</span><span class="topo-unknown">HYHDLLT</span><span class="topo-inside">VSW</span><span class="topo-membrane">PVFITLITGLYLVT</span></span>
-<span class="topo-line"><span class="topo-membrane">NALFALAYLAC</span><span class="topo-outside">GDVIENARPGSFTDA</span><span class="topo-unknown">FFFSVQTMATIGY</span><span class="topo-outside">GKLIPIGP</span><span class="topo-membrane">LANTLVTLEALCG</span></span>
-<span class="topo-line"><span class="topo-membrane">MLGLAVAARLIY</span><span class="topo-inside">ARFTRPTAGVLFSSRMVISDFEGKPTLMMRLANLRIEQIIEADVHLVL</span></span>
-<span class="topo-line"><span class="topo-inside">VRSEISQEGMVFRRFHDLTLTRSRLPIFSLSWTVMHPIDHHSPIYGETDETLRNSHSEFL</span></span>
-<span class="topo-line"><span class="topo-inside">VLFTGHHEAFAQNVHARHAYSCDEIIWGGHFVDVFTTLPDGRRALDLGKFHEIAQHHHH</span><span class="topo-unknown">H</span></span>
-<span class="topo-line"><span class="topo-unknown">H</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MTGGMKPPARKP</span><span class="topo-inside">RILNSDGSSNITRLG</span><span class="topo-unknown">LEKR</span><span class="topo-inside">GWLDD</span><span class="topo-unknown">HYHDLLT</span><span class="topo-inside">VSW</span><span class="topo-membrane">PVFITLITGLYLVTNALFALAYLAC</span><span class="topo-outside">GDVIENARPGSFTDA</span><span class="topo-unknown">FFFSVQTMATIGY</span><span class="topo-outside">GKLIPIGP</span><span class="topo-membrane">LANTLVTLEALCG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">MLGLAVAARLIY</span><span class="topo-inside">ARFTRPTAGVLFSSRMVISDFEGKPTLMMRLANLRIEQIIEADVHLVLVRSEISQEGMVFRRFHDLTLTRSRLPIFSLSWTVMHPIDHHSPIYGETDETLRNSHSEFL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300 </span>
+<span class="topo-line"><span class="topo-inside">VLFTGHHEAFAQNVHARHAYSCDEIIWGGHFVDVFTTLPDGRRALDLGKFHEIAQHHHH</span><span class="topo-unknown">HH</span></span>
+<details class="topo-details"><summary>Topology coordinates (13 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4434,6 +4499,7 @@ KirBac1.1 and KirBac3.1 are prokaryotic inward-rectifier potassium channels from
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4449,12 +4515,13 @@ KirBac1.1 and KirBac3.1 are prokaryotic inward-rectifier potassium channels from
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MTGGMKPPARKP</span><span class="topo-inside">RILNSDGSSNITRLG</span><span class="topo-unknown">LEKR</span><span class="topo-inside">GWLDD</span><span class="topo-unknown">HYHDLLT</span><span class="topo-inside">VSW</span><span class="topo-membrane">PVFITLITGLYLVT</span></span>
-<span class="topo-line"><span class="topo-membrane">NALFALAYLAC</span><span class="topo-outside">GDVIENARPGSFTDA</span><span class="topo-unknown">FFFSVQTMATIGY</span><span class="topo-outside">GKLIPIGP</span><span class="topo-membrane">LANTLVTLEALCG</span></span>
-<span class="topo-line"><span class="topo-membrane">MLGLAVAARLIY</span><span class="topo-inside">ARFTRPTAGVLFSSRMVISDFEGKPTLMMRLANLRIEQIIEADVHLVL</span></span>
-<span class="topo-line"><span class="topo-inside">VRSEISQEGMVFRRFHDLTLTRSRLPIFSLSWTVMHPIDHHSPIYGETDETLRNSHSEFL</span></span>
-<span class="topo-line"><span class="topo-inside">VLFTGHHEAFAQNVHARHAYSCDEIIWGGHFVDVFTTLPDGRRALDLGKFHEIAQHHHH</span><span class="topo-unknown">H</span></span>
-<span class="topo-line"><span class="topo-unknown">H</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MTGGMKPPARKP</span><span class="topo-inside">RILNSDGSSNITRLG</span><span class="topo-unknown">LEKR</span><span class="topo-inside">GWLDD</span><span class="topo-unknown">HYHDLLT</span><span class="topo-inside">VSW</span><span class="topo-membrane">PVFITLITGLYLVTNALFALAYLAC</span><span class="topo-outside">GDVIENARPGSFTDA</span><span class="topo-unknown">FFFSVQTMATIGY</span><span class="topo-outside">GKLIPIGP</span><span class="topo-membrane">LANTLVTLEALCG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">MLGLAVAARLIY</span><span class="topo-inside">ARFTRPTAGVLFSSRMVISDFEGKPTLMMRLANLRIEQIIEADVHLVLVRSEISQEGMVFRRFHDLTLTRSRLPIFSLSWTVMHPIDHHSPIYGETDETLRNSHSEFL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300 </span>
+<span class="topo-line"><span class="topo-inside">VLFTGHHEAFAQNVHARHAYSCDEIIWGGHFVDVFTTLPDGRRALDLGKFHEIAQHHHH</span><span class="topo-unknown">HH</span></span>
+<details class="topo-details"><summary>Topology coordinates (13 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4557,6 +4624,7 @@ KirBac1.1 and KirBac3.1 are prokaryotic inward-rectifier potassium channels from
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4572,12 +4640,13 @@ KirBac1.1 and KirBac3.1 are prokaryotic inward-rectifier potassium channels from
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MTGGMKPPARKP</span><span class="topo-inside">RILNSDGSSNITRLG</span><span class="topo-unknown">LEKR</span><span class="topo-inside">GWLDD</span><span class="topo-unknown">HYHDLLT</span><span class="topo-inside">VSW</span><span class="topo-membrane">PVFITLITGLYLVT</span></span>
-<span class="topo-line"><span class="topo-membrane">NALFALAYLAC</span><span class="topo-outside">GDVIENARPGSFTDA</span><span class="topo-unknown">FFFSVQTMATIGY</span><span class="topo-outside">GKLIPIGP</span><span class="topo-membrane">LANTLVTLEALCG</span></span>
-<span class="topo-line"><span class="topo-membrane">MLGLAVAARLIY</span><span class="topo-inside">ARFTRPTAGVLFSSRMVISDFEGKPTLMMRLANLRIEQIIEADVHLVL</span></span>
-<span class="topo-line"><span class="topo-inside">VRSEISQEGMVFRRFHDLTLTRSRLPIFSLSWTVMHPIDHHSPIYGETDETLRNSHSEFL</span></span>
-<span class="topo-line"><span class="topo-inside">VLFTGHHEAFAQNVHARHAYSCDEIIWGGHFVDVFTTLPDGRRALDLGKFHEIAQHHHH</span><span class="topo-unknown">H</span></span>
-<span class="topo-line"><span class="topo-unknown">H</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MTGGMKPPARKP</span><span class="topo-inside">RILNSDGSSNITRLG</span><span class="topo-unknown">LEKR</span><span class="topo-inside">GWLDD</span><span class="topo-unknown">HYHDLLT</span><span class="topo-inside">VSW</span><span class="topo-membrane">PVFITLITGLYLVTNALFALAYLAC</span><span class="topo-outside">GDVIENARPGSFTDA</span><span class="topo-unknown">FFFSVQTMATIGY</span><span class="topo-outside">GKLIPIGP</span><span class="topo-membrane">LANTLVTLEALCG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">MLGLAVAARLIY</span><span class="topo-inside">ARFTRPTAGVLFSSRMVISDFEGKPTLMMRLANLRIEQIIEADVHLVLVRSEISQEGMVFRRFHDLTLTRSRLPIFSLSWTVMHPIDHHSPIYGETDETLRNSHSEFL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300 </span>
+<span class="topo-line"><span class="topo-inside">VLFTGHHEAFAQNVHARHAYSCDEIIWGGHFVDVFTTLPDGRRALDLGKFHEIAQHHHH</span><span class="topo-unknown">HH</span></span>
+<details class="topo-details"><summary>Topology coordinates (13 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4680,6 +4749,7 @@ KirBac1.1 and KirBac3.1 are prokaryotic inward-rectifier potassium channels from
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4695,12 +4765,13 @@ KirBac1.1 and KirBac3.1 are prokaryotic inward-rectifier potassium channels from
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MTGGMKPPARKP</span><span class="topo-inside">RILNSDGSSNITRLG</span><span class="topo-unknown">LEKR</span><span class="topo-inside">GWLDD</span><span class="topo-unknown">HYHDLLT</span><span class="topo-inside">VSW</span><span class="topo-membrane">PVFITLITGLYLVT</span></span>
-<span class="topo-line"><span class="topo-membrane">NALFALAYLAC</span><span class="topo-outside">GDVIENARPGSFTDA</span><span class="topo-unknown">FFFSVQTMATIGY</span><span class="topo-outside">GKLIPIGP</span><span class="topo-membrane">LANTLVTLEALCG</span></span>
-<span class="topo-line"><span class="topo-membrane">MLGLAVAARLIY</span><span class="topo-inside">ARFTRPTAGVLFSSRMVISDFEGKPTLMMRLANLRIEQIIEADVHLVL</span></span>
-<span class="topo-line"><span class="topo-inside">VRSEISQEGMVFRRFHDLTLTRSRLPIFSLSWTVMHPIDHHSPIYGETDETLRNSHSEFL</span></span>
-<span class="topo-line"><span class="topo-inside">VLFTGHHEAFAQNVHARHAYSCDEIIWGGHFVDVFTTLPDGRRALDLGKFHEIAQHHHH</span><span class="topo-unknown">H</span></span>
-<span class="topo-line"><span class="topo-unknown">H</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MTGGMKPPARKP</span><span class="topo-inside">RILNSDGSSNITRLG</span><span class="topo-unknown">LEKR</span><span class="topo-inside">GWLDD</span><span class="topo-unknown">HYHDLLT</span><span class="topo-inside">VSW</span><span class="topo-membrane">PVFITLITGLYLVTNALFALAYLAC</span><span class="topo-outside">GDVIENARPGSFTDA</span><span class="topo-unknown">FFFSVQTMATIGY</span><span class="topo-outside">GKLIPIGP</span><span class="topo-membrane">LANTLVTLEALCG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">MLGLAVAARLIY</span><span class="topo-inside">ARFTRPTAGVLFSSRMVISDFEGKPTLMMRLANLRIEQIIEADVHLVLVRSEISQEGMVFRRFHDLTLTRSRLPIFSLSWTVMHPIDHHSPIYGETDETLRNSHSEFL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300 </span>
+<span class="topo-line"><span class="topo-inside">VLFTGHHEAFAQNVHARHAYSCDEIIWGGHFVDVFTTLPDGRRALDLGKFHEIAQHHHH</span><span class="topo-unknown">HH</span></span>
+<details class="topo-details"><summary>Topology coordinates (13 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4803,6 +4874,7 @@ KirBac1.1 and KirBac3.1 are prokaryotic inward-rectifier potassium channels from
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

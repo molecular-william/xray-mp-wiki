@@ -156,9 +156,11 @@ Fluc Family of Fluoride Ion Channels-Ec2 is a Ec2-specific Ion Ec2 from an E. co
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">I</span><span class="topo-membrane">KSLFAVIIGGSVGCTLRWLLSTKFN</span><span class="topo-inside">SLFPNL</span><span class="topo-membrane">PPGTLVVNLLAGLIIGTMLAY</span><span class="topo-outside">FLRQPH</span></span>
-<span class="topo-line"><span class="topo-outside">LDPF</span><span class="topo-membrane">WKLMITTGLCGGLSTFSTFSVEVF</span><span class="topo-inside">ALLQAGNYIW</span><span class="topo-membrane">ALTSVLVHVIGSLIMTALGFFI</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">I</span><span class="topo-membrane">KSLFAVIIGGSVGCTLRWLLSTKFN</span><span class="topo-inside">SLFPNL</span><span class="topo-membrane">PPGTLVVNLLAGLIIGTMLAY</span><span class="topo-outside">FLRQPHLDPF</span><span class="topo-membrane">WKLMITTGLCGGLSTFSTFSVEVF</span><span class="topo-inside">ALLQAGNYIW</span><span class="topo-membrane">ALTSVLVHVIGSLIMTALGFFI</span></span>
+<span class="topo-ruler">      </span>
 <span class="topo-line"><span class="topo-membrane">ITIL</span><span class="topo-outside">F</span><span class="topo-unknown">A</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -247,6 +249,7 @@ Fluc Family of Fluoride Ion Channels-Ec2 is a Ec2-specific Ion Ec2 from an E. co
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -262,9 +265,11 @@ Fluc Family of Fluoride Ion Channels-Ec2 is a Ec2-specific Ion Ec2 from an E. co
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">I</span><span class="topo-membrane">KSLFAVIIGGSVGCTLRWLLS</span><span class="topo-unknown">TKFNSL</span><span class="topo-inside">FPNLPP</span><span class="topo-membrane">GTLVVNLLAGLIIGTA</span><span class="topo-outside">LAYFLRQPH</span></span>
-<span class="topo-line"><span class="topo-outside">LDPFWKL</span><span class="topo-membrane">MITTGLCGGLSTYSTFS</span><span class="topo-inside">VEVFALLQAGNYIWAL</span><span class="topo-membrane">TSVLVHVIGSLIMTALG</span><span class="topo-outside">FFI</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">I</span><span class="topo-membrane">KSLFAVIIGGSVGCTLRWLLS</span><span class="topo-unknown">TKFNSL</span><span class="topo-inside">FPNLPP</span><span class="topo-membrane">GTLVVNLLAGLIIGTA</span><span class="topo-outside">LAYFLRQPHLDPFWKL</span><span class="topo-membrane">MITTGLCGGLSTYSTFS</span><span class="topo-inside">VEVFALLQAGNYIWAL</span><span class="topo-membrane">TSVLVHVIGSLIMTALG</span><span class="topo-outside">FFI</span></span>
+<span class="topo-ruler">      </span>
 <span class="topo-line"><span class="topo-outside">ITILF</span><span class="topo-unknown">A</span></span>
+<details class="topo-details"><summary>Topology coordinates (10 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -346,6 +351,7 @@ Fluc Family of Fluoride Ion Channels-Ec2 is a Ec2-specific Ion Ec2 from an E. co
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -361,9 +367,11 @@ Fluc Family of Fluoride Ion Channels-Ec2 is a Ec2-specific Ion Ec2 from an E. co
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MIKSL</span><span class="topo-membrane">FAVIIGGSVGCTLRWLLSTKFN</span><span class="topo-outside">SLFPN</span><span class="topo-membrane">LPPGTLVVNLLAGLII</span><span class="topo-inside">GTALAYFLRQPH</span></span>
-<span class="topo-line"><span class="topo-inside">LDPFWKLM</span><span class="topo-membrane">ITTGLCGGLSTYSTFSVEVF</span><span class="topo-outside">ALLQAGNY</span><span class="topo-membrane">IWALTSVLVHVIGSLIMT</span><span class="topo-inside">ALGFFI</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">MIKSL</span><span class="topo-membrane">FAVIIGGSVGCTLRWLLSTKFN</span><span class="topo-outside">SLFPN</span><span class="topo-membrane">LPPGTLVVNLLAGLII</span><span class="topo-inside">GTALAYFLRQPHLDPFWKLM</span><span class="topo-membrane">ITTGLCGGLSTYSTFSVEVF</span><span class="topo-outside">ALLQAGNY</span><span class="topo-membrane">IWALTSVLVHVIGSLIMT</span><span class="topo-inside">ALGFFI</span></span>
+<span class="topo-ruler">      </span>
 <span class="topo-line"><span class="topo-inside">ITILF</span><span class="topo-unknown">A</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -438,6 +446,7 @@ Fluc Family of Fluoride Ion Channels-Ec2 is a Ec2-specific Ion Ec2 from an E. co
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -453,9 +462,11 @@ Fluc Family of Fluoride Ion Channels-Ec2 is a Ec2-specific Ion Ec2 from an E. co
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">I</span><span class="topo-membrane">KSLFAVIIGGSVGCTLRWLLS</span><span class="topo-unknown">TKFNSL</span><span class="topo-outside">FPNLPP</span><span class="topo-membrane">GTLVVNLLAGLIIGTA</span><span class="topo-inside">LAYFLRQPH</span></span>
-<span class="topo-line"><span class="topo-inside">LDPFWKL</span><span class="topo-membrane">MITTGLCGGLSTMSTFS</span><span class="topo-outside">VEVFALLQAGNYIWA</span><span class="topo-membrane">LTSVLVHVIGSLIMTALG</span><span class="topo-inside">FFI</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">I</span><span class="topo-membrane">KSLFAVIIGGSVGCTLRWLLS</span><span class="topo-unknown">TKFNSL</span><span class="topo-outside">FPNLPP</span><span class="topo-membrane">GTLVVNLLAGLIIGTA</span><span class="topo-inside">LAYFLRQPHLDPFWKL</span><span class="topo-membrane">MITTGLCGGLSTMSTFS</span><span class="topo-outside">VEVFALLQAGNYIWA</span><span class="topo-membrane">LTSVLVHVIGSLIMTALG</span><span class="topo-inside">FFI</span></span>
+<span class="topo-ruler">      </span>
 <span class="topo-line"><span class="topo-inside">ITILFA</span></span>
+<details class="topo-details"><summary>Topology coordinates (10 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -537,6 +548,7 @@ Fluc Family of Fluoride Ion Channels-Ec2 is a Ec2-specific Ion Ec2 from an E. co
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -552,9 +564,11 @@ Fluc Family of Fluoride Ion Channels-Ec2 is a Ec2-specific Ion Ec2 from an E. co
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MIKSL</span><span class="topo-membrane">FAVIIGGSVGCTLRWLLSTKFN</span><span class="topo-inside">SLFPNL</span><span class="topo-membrane">PPGTLVVNLLAGLII</span><span class="topo-outside">GTALAYFLRQPH</span></span>
-<span class="topo-line"><span class="topo-outside">LDPFWKLM</span><span class="topo-membrane">ITTGLCGGLSTMSTFSVEVF</span><span class="topo-inside">ALLQAGNY</span><span class="topo-membrane">IWALTSVLVHVIGSLIMT</span><span class="topo-outside">ALGFFI</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MIKSL</span><span class="topo-membrane">FAVIIGGSVGCTLRWLLSTKFN</span><span class="topo-inside">SLFPNL</span><span class="topo-membrane">PPGTLVVNLLAGLII</span><span class="topo-outside">GTALAYFLRQPHLDPFWKLM</span><span class="topo-membrane">ITTGLCGGLSTMSTFSVEVF</span><span class="topo-inside">ALLQAGNY</span><span class="topo-membrane">IWALTSVLVHVIGSLIMT</span><span class="topo-outside">ALGFFI</span></span>
+<span class="topo-ruler">      </span>
 <span class="topo-line"><span class="topo-outside">ITILF</span><span class="topo-unknown">A</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -629,6 +643,7 @@ Fluc Family of Fluoride Ion Channels-Ec2 is a Ec2-specific Ion Ec2 from an E. co
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -644,9 +659,11 @@ Fluc Family of Fluoride Ion Channels-Ec2 is a Ec2-specific Ion Ec2 from an E. co
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">IKSL</span><span class="topo-membrane">FAVIIGGSVGCTLRWLLSTKFN</span><span class="topo-inside">SLFPNL</span><span class="topo-membrane">PPGTLVVNLLAGLIIGTA</span><span class="topo-outside">LAYFLRQPH</span></span>
-<span class="topo-line"><span class="topo-outside">LDPFWKLM</span><span class="topo-membrane">ITTGLCGGLSTFSTMSVEVF</span><span class="topo-inside">ALLQAGNYIW</span><span class="topo-membrane">ALTSVLVHVIGSLIMTALGFFI</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">IKSL</span><span class="topo-membrane">FAVIIGGSVGCTLRWLLSTKFN</span><span class="topo-inside">SLFPNL</span><span class="topo-membrane">PPGTLVVNLLAGLIIGTA</span><span class="topo-outside">LAYFLRQPHLDPFWKLM</span><span class="topo-membrane">ITTGLCGGLSTFSTMSVEVF</span><span class="topo-inside">ALLQAGNYIW</span><span class="topo-membrane">ALTSVLVHVIGSLIMTALGFFI</span></span>
+<span class="topo-ruler">      </span>
 <span class="topo-line"><span class="topo-outside">ITILFA</span></span>
+<details class="topo-details"><summary>Topology coordinates (10 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -728,6 +745,7 @@ Fluc Family of Fluoride Ion Channels-Ec2 is a Ec2-specific Ion Ec2 from an E. co
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -743,9 +761,11 @@ Fluc Family of Fluoride Ion Channels-Ec2 is a Ec2-specific Ion Ec2 from an E. co
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">I</span><span class="topo-membrane">KSLFAVIIGGSVGCTLRWLLS</span><span class="topo-unknown">TKFNSL</span><span class="topo-outside">FPN</span><span class="topo-membrane">LPPGTLVVNLLAGLIIGTA</span><span class="topo-inside">LAYFLRQPH</span></span>
-<span class="topo-line"><span class="topo-inside">LDPF</span><span class="topo-membrane">WKLMITTGLCGGLSTFSTFSVEVFALL</span><span class="topo-outside">QAGN</span><span class="topo-membrane">YIWALTSVLVHVIGSLIMSALG</span><span class="topo-inside">FFI</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">I</span><span class="topo-membrane">KSLFAVIIGGSVGCTLRWLLS</span><span class="topo-unknown">TKFNSL</span><span class="topo-outside">FPN</span><span class="topo-membrane">LPPGTLVVNLLAGLIIGTA</span><span class="topo-inside">LAYFLRQPHLDPF</span><span class="topo-membrane">WKLMITTGLCGGLSTFSTFSVEVFALL</span><span class="topo-outside">QAGN</span><span class="topo-membrane">YIWALTSVLVHVIGSLIMSALG</span><span class="topo-inside">FFI</span></span>
+<span class="topo-ruler">      </span>
 <span class="topo-line"><span class="topo-inside">ITILF</span><span class="topo-unknown">A</span></span>
+<details class="topo-details"><summary>Topology coordinates (10 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -827,6 +847,7 @@ Fluc Family of Fluoride Ion Channels-Ec2 is a Ec2-specific Ion Ec2 from an E. co
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -842,9 +863,11 @@ Fluc Family of Fluoride Ion Channels-Ec2 is a Ec2-specific Ion Ec2 from an E. co
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MIKSL</span><span class="topo-membrane">FAVIIGGSVGCTLRWLLSTKFN</span><span class="topo-inside">SLFPNL</span><span class="topo-membrane">PPGTLVVNLLAGLIIGT</span><span class="topo-outside">ALAYFLRQPH</span></span>
-<span class="topo-line"><span class="topo-outside">LDPFWKLM</span><span class="topo-membrane">ITTGLCGGLSTFSTFSVEVF</span><span class="topo-inside">ALLQAGNYIW</span><span class="topo-membrane">ALTSVLVHVIGSLIMSALGF</span><span class="topo-outside">FI</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MIKSL</span><span class="topo-membrane">FAVIIGGSVGCTLRWLLSTKFN</span><span class="topo-inside">SLFPNL</span><span class="topo-membrane">PPGTLVVNLLAGLIIGT</span><span class="topo-outside">ALAYFLRQPHLDPFWKLM</span><span class="topo-membrane">ITTGLCGGLSTFSTFSVEVF</span><span class="topo-inside">ALLQAGNYIW</span><span class="topo-membrane">ALTSVLVHVIGSLIMSALGF</span><span class="topo-outside">FI</span></span>
+<span class="topo-ruler">      </span>
 <span class="topo-line"><span class="topo-outside">ITILF</span><span class="topo-unknown">A</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -919,6 +942,7 @@ Fluc Family of Fluoride Ion Channels-Ec2 is a Ec2-specific Ion Ec2 from an E. co
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1054,9 +1078,11 @@ Fluc Family of Fluoride Ion Channels-Ec2 is a Ec2-specific Ion Ec2 from an E. co
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MIKSL</span><span class="topo-membrane">FAVIIGGSVGCTLRWLLSTKFN</span><span class="topo-inside">SLFPNL</span><span class="topo-membrane">PPGTLVVNLLAGLIIGTAL</span><span class="topo-outside">AYFLRQPH</span></span>
-<span class="topo-line"><span class="topo-outside">LDPFWKL</span><span class="topo-membrane">MITTGLCGGLSTFSTFSVEVF</span><span class="topo-inside">ALLQAGNYIWAL</span><span class="topo-membrane">TSVLVHVIGSLIMTALGFFI</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MIKSL</span><span class="topo-membrane">FAVIIGGSVGCTLRWLLSTKFN</span><span class="topo-inside">SLFPNL</span><span class="topo-membrane">PPGTLVVNLLAGLIIGTAL</span><span class="topo-outside">AYFLRQPHLDPFWKL</span><span class="topo-membrane">MITTGLCGGLSTFSTFSVEVF</span><span class="topo-inside">ALLQAGNYIWAL</span><span class="topo-membrane">TSVLVHVIGSLIMTALGFFI</span></span>
+<span class="topo-ruler">      </span>
 <span class="topo-line"><span class="topo-membrane">I</span><span class="topo-outside">TILF</span><span class="topo-unknown">A</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1131,6 +1157,7 @@ Fluc Family of Fluoride Ion Channels-Ec2 is a Ec2-specific Ion Ec2 from an E. co
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1146,8 +1173,9 @@ Fluc Family of Fluoride Ion Channels-Ec2 is a Ec2-specific Ion Ec2 from an E. co
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">G</span><span class="topo-inside">SVSSVPTKLEVVAATPTSLLISWDAPAVTVVHYVITYGETGGNSPVQEFTVPGSKSTAT</span></span>
-<span class="topo-line"><span class="topo-inside">ISGLKPGVDYTITVYTMYYSYSDLYSYSSPISINYRT</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       </span>
+<span class="topo-line"><span class="topo-unknown">G</span><span class="topo-inside">SVSSVPTKLEVVAATPTSLLISWDAPAVTVVHYVITYGETGGNSPVQEFTVPGSKSTATISGLKPGVDYTITVYTMYYSYSDLYSYSSPISINYRT</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1166,6 +1194,7 @@ Fluc Family of Fluoride Ion Channels-Ec2 is a Ec2-specific Ion Ec2 from an E. co
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1181,9 +1210,11 @@ Fluc Family of Fluoride Ion Channels-Ec2 is a Ec2-specific Ion Ec2 from an E. co
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MIKSL</span><span class="topo-membrane">FAVIIGGSVGCTLRWLLSTKFN</span><span class="topo-outside">SLFPNL</span><span class="topo-membrane">PPGTLVVNLLAGLIIGTA</span><span class="topo-inside">LAYFLRQPH</span></span>
-<span class="topo-line"><span class="topo-inside">LDPFWKL</span><span class="topo-membrane">MITTGLCGGLSTFATFSVEVF</span><span class="topo-outside">ALLQAGNYIWA</span><span class="topo-membrane">LTSVLVHVIGSLIMTALGFFI</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">MIKSL</span><span class="topo-membrane">FAVIIGGSVGCTLRWLLSTKFN</span><span class="topo-outside">SLFPNL</span><span class="topo-membrane">PPGTLVVNLLAGLIIGTA</span><span class="topo-inside">LAYFLRQPHLDPFWKL</span><span class="topo-membrane">MITTGLCGGLSTFATFSVEVF</span><span class="topo-outside">ALLQAGNYIWA</span><span class="topo-membrane">LTSVLVHVIGSLIMTALGFFI</span></span>
+<span class="topo-ruler">      </span>
 <span class="topo-line"><span class="topo-inside">ITILF</span><span class="topo-unknown">A</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1258,6 +1289,7 @@ Fluc Family of Fluoride Ion Channels-Ec2 is a Ec2-specific Ion Ec2 from an E. co
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1273,8 +1305,9 @@ Fluc Family of Fluoride Ion Channels-Ec2 is a Ec2-specific Ion Ec2 from an E. co
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">G</span><span class="topo-outside">SVSSVPTKLEVVAATPTSLLISWDAPAVTVVHYVITYGETGGNSPVQEFTVPGSKSTAT</span></span>
-<span class="topo-line"><span class="topo-outside">ISGLKPGVDYTITVYTMYYSYSDLYSYSSPISINYRT</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       </span>
+<span class="topo-line"><span class="topo-unknown">G</span><span class="topo-outside">SVSSVPTKLEVVAATPTSLLISWDAPAVTVVHYVITYGETGGNSPVQEFTVPGSKSTATISGLKPGVDYTITVYTMYYSYSDLYSYSSPISINYRT</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1293,6 +1326,7 @@ Fluc Family of Fluoride Ion Channels-Ec2 is a Ec2-specific Ion Ec2 from an E. co
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1308,9 +1342,11 @@ Fluc Family of Fluoride Ion Channels-Ec2 is a Ec2-specific Ion Ec2 from an E. co
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MIKSL</span><span class="topo-membrane">FAVIIGGSVGCTLRWLL</span><span class="topo-inside">STKFNSLFPNLPPGT</span><span class="topo-membrane">LVVNLLAGLIIGTA</span><span class="topo-outside">LAYFLRQPH</span></span>
-<span class="topo-line"><span class="topo-outside">LDPFWKL</span><span class="topo-membrane">MITTGLAGGLSTFC</span><span class="topo-inside">TFSVEVFALLQAGNYIWALTSVL</span><span class="topo-membrane">VHVIGSLIMTALGFFI</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MIKSL</span><span class="topo-membrane">FAVIIGGSVGCTLRWLL</span><span class="topo-inside">STKFNSLFPNLPPGT</span><span class="topo-membrane">LVVNLLAGLIIGTA</span><span class="topo-outside">LAYFLRQPHLDPFWKL</span><span class="topo-membrane">MITTGLAGGLSTFC</span><span class="topo-inside">TFSVEVFALLQAGNYIWALTSVL</span><span class="topo-membrane">VHVIGSLIMTALGFFI</span></span>
+<span class="topo-ruler">      </span>
 <span class="topo-line"><span class="topo-outside">ITILF</span><span class="topo-unknown">A</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1385,6 +1421,7 @@ Fluc Family of Fluoride Ion Channels-Ec2 is a Ec2-specific Ion Ec2 from an E. co
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1400,8 +1437,9 @@ Fluc Family of Fluoride Ion Channels-Ec2 is a Ec2-specific Ion Ec2 from an E. co
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">G</span><span class="topo-inside">SVSSVPTKLEVVAATPTSLLISWDAPAVTVVHYVITYGETGGNSPVQEFTVPGSKSTAT</span></span>
-<span class="topo-line"><span class="topo-inside">ISGLKPGVDYTITVYTMYYSYSDLYSYSSPISINYRT</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       </span>
+<span class="topo-line"><span class="topo-unknown">G</span><span class="topo-inside">SVSSVPTKLEVVAATPTSLLISWDAPAVTVVHYVITYGETGGNSPVQEFTVPGSKSTATISGLKPGVDYTITVYTMYYSYSDLYSYSSPISINYRT</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1420,6 +1458,7 @@ Fluc Family of Fluoride Ion Channels-Ec2 is a Ec2-specific Ion Ec2 from an E. co
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1435,9 +1474,11 @@ Fluc Family of Fluoride Ion Channels-Ec2 is a Ec2-specific Ion Ec2 from an E. co
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MIKSL</span><span class="topo-membrane">FAVIIGGSVGCTLRWLLSTKFN</span><span class="topo-inside">SLFPNL</span><span class="topo-membrane">PPGTLVVNLLAGLIIGTAL</span><span class="topo-outside">AYFLRQPH</span></span>
-<span class="topo-line"><span class="topo-outside">LDPFWKL</span><span class="topo-membrane">MITTGLCGGLSTFTTFSVEVF</span><span class="topo-inside">ALLQAGNYIWA</span><span class="topo-membrane">LTSVLVHVIGSLIMTALGFFI</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MIKSL</span><span class="topo-membrane">FAVIIGGSVGCTLRWLLSTKFN</span><span class="topo-inside">SLFPNL</span><span class="topo-membrane">PPGTLVVNLLAGLIIGTAL</span><span class="topo-outside">AYFLRQPHLDPFWKL</span><span class="topo-membrane">MITTGLCGGLSTFTTFSVEVF</span><span class="topo-inside">ALLQAGNYIWA</span><span class="topo-membrane">LTSVLVHVIGSLIMTALGFFI</span></span>
+<span class="topo-ruler">      </span>
 <span class="topo-line"><span class="topo-membrane">I</span><span class="topo-outside">TILF</span><span class="topo-unknown">A</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1512,6 +1553,7 @@ Fluc Family of Fluoride Ion Channels-Ec2 is a Ec2-specific Ion Ec2 from an E. co
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1527,8 +1569,9 @@ Fluc Family of Fluoride Ion Channels-Ec2 is a Ec2-specific Ion Ec2 from an E. co
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">G</span><span class="topo-inside">SVSSVPTKLEVVAATPTSLLISWDAPAVTVVHYVITYGETGGNSPVQEFTVPGSKSTAT</span></span>
-<span class="topo-line"><span class="topo-inside">ISGLKPGVDYTITVYTMYYSYSDLYSYSSPISINYRT</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       </span>
+<span class="topo-line"><span class="topo-unknown">G</span><span class="topo-inside">SVSSVPTKLEVVAATPTSLLISWDAPAVTVVHYVITYGETGGNSPVQEFTVPGSKSTATISGLKPGVDYTITVYTMYYSYSDLYSYSSPISINYRT</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1547,6 +1590,7 @@ Fluc Family of Fluoride Ion Channels-Ec2 is a Ec2-specific Ion Ec2 from an E. co
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1562,9 +1606,11 @@ Fluc Family of Fluoride Ion Channels-Ec2 is a Ec2-specific Ion Ec2 from an E. co
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MIKSL</span><span class="topo-membrane">FAVIIGGSVGCTLRWLLSTKFNSL</span><span class="topo-inside">FPNL</span><span class="topo-membrane">PPGTLVVNLLAGLIIGTAL</span><span class="topo-outside">AYFLRQPH</span></span>
-<span class="topo-line"><span class="topo-outside">LDPFWKL</span><span class="topo-membrane">MITTGLCGGLSTFAAFSVEV</span><span class="topo-inside">FALLQAGNYIWAL</span><span class="topo-membrane">TSVLVHVIGSLIMTALGFFI</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MIKSL</span><span class="topo-membrane">FAVIIGGSVGCTLRWLLSTKFNSL</span><span class="topo-inside">FPNL</span><span class="topo-membrane">PPGTLVVNLLAGLIIGTAL</span><span class="topo-outside">AYFLRQPHLDPFWKL</span><span class="topo-membrane">MITTGLCGGLSTFAAFSVEV</span><span class="topo-inside">FALLQAGNYIWAL</span><span class="topo-membrane">TSVLVHVIGSLIMTALGFFI</span></span>
+<span class="topo-ruler">      </span>
 <span class="topo-line"><span class="topo-outside">ITILF</span><span class="topo-unknown">A</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1639,6 +1685,7 @@ Fluc Family of Fluoride Ion Channels-Ec2 is a Ec2-specific Ion Ec2 from an E. co
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1654,8 +1701,9 @@ Fluc Family of Fluoride Ion Channels-Ec2 is a Ec2-specific Ion Ec2 from an E. co
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">G</span><span class="topo-inside">SVSSVPTKLEVVAATPTSLLISWDAPAVTVVHYVITYGETGGNSPVQEFTVPGSKSTAT</span></span>
-<span class="topo-line"><span class="topo-inside">ISGLKPGVDYTITVYTMYYSYSDLYSYSSPISINYRT</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       </span>
+<span class="topo-line"><span class="topo-unknown">G</span><span class="topo-inside">SVSSVPTKLEVVAATPTSLLISWDAPAVTVVHYVITYGETGGNSPVQEFTVPGSKSTATISGLKPGVDYTITVYTMYYSYSDLYSYSSPISINYRT</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1674,6 +1722,7 @@ Fluc Family of Fluoride Ion Channels-Ec2 is a Ec2-specific Ion Ec2 from an E. co
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1728,9 +1777,11 @@ Fluc Family of Fluoride Ion Channels-Ec2 is a Ec2-specific Ion Ec2 from an E. co
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MIKSL</span><span class="topo-membrane">FAVIIGGSVGCTLRWLLSTKFN</span><span class="topo-inside">SLFPNL</span><span class="topo-membrane">PPGTLVVNLLAGLIIGTAL</span><span class="topo-outside">AYFLRQPH</span></span>
-<span class="topo-line"><span class="topo-outside">LDPFWKL</span><span class="topo-membrane">MITTGLCGGLSTISTFSVEV</span><span class="topo-inside">FALLQAGNYIWAL</span><span class="topo-membrane">TSVLVHVIGSLIMTALGFFI</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MIKSL</span><span class="topo-membrane">FAVIIGGSVGCTLRWLLSTKFN</span><span class="topo-inside">SLFPNL</span><span class="topo-membrane">PPGTLVVNLLAGLIIGTAL</span><span class="topo-outside">AYFLRQPHLDPFWKL</span><span class="topo-membrane">MITTGLCGGLSTISTFSVEV</span><span class="topo-inside">FALLQAGNYIWAL</span><span class="topo-membrane">TSVLVHVIGSLIMTALGFFI</span></span>
+<span class="topo-ruler">       130       140       </span>
 <span class="topo-line"><span class="topo-outside">ITILFA</span><span class="topo-unknown">TRGKAASLVPRGSGGHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1805,6 +1856,7 @@ Fluc Family of Fluoride Ion Channels-Ec2 is a Ec2-specific Ion Ec2 from an E. co
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1820,8 +1872,9 @@ Fluc Family of Fluoride Ion Channels-Ec2 is a Ec2-specific Ion Ec2 from an E. co
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">G</span><span class="topo-inside">SVSSVPTKLEVVAATPTSLLISWDAPAVTVVHYVITYGETGGNSPVQEFTVPGSKSTAT</span></span>
-<span class="topo-line"><span class="topo-inside">ISGLKPGVDYTITVYTMYYSYSDLYSYSSPISINYRT</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       </span>
+<span class="topo-line"><span class="topo-unknown">G</span><span class="topo-inside">SVSSVPTKLEVVAATPTSLLISWDAPAVTVVHYVITYGETGGNSPVQEFTVPGSKSTATISGLKPGVDYTITVYTMYYSYSDLYSYSSPISINYRT</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1840,6 +1893,7 @@ Fluc Family of Fluoride Ion Channels-Ec2 is a Ec2-specific Ion Ec2 from an E. co
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1855,9 +1909,11 @@ Fluc Family of Fluoride Ion Channels-Ec2 is a Ec2-specific Ion Ec2 from an E. co
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">M</span><span class="topo-membrane">IKSLFAVIIGGSVGCTLRWLLSTKFN</span><span class="topo-outside">SLFPNL</span><span class="topo-membrane">PPGTLVVNLLAGLIIGTALAY</span><span class="topo-inside">FLRQPH</span></span>
-<span class="topo-line"><span class="topo-inside">LDPF</span><span class="topo-membrane">WKLMITTGLCGGLSTFSTISVEVF</span><span class="topo-outside">ALLQAGNYIWA</span><span class="topo-membrane">LTSVLVHVIGSLIMTALGFFI</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">M</span><span class="topo-membrane">IKSLFAVIIGGSVGCTLRWLLSTKFN</span><span class="topo-outside">SLFPNL</span><span class="topo-membrane">PPGTLVVNLLAGLIIGTALAY</span><span class="topo-inside">FLRQPHLDPF</span><span class="topo-membrane">WKLMITTGLCGGLSTFSTISVEVF</span><span class="topo-outside">ALLQAGNYIWA</span><span class="topo-membrane">LTSVLVHVIGSLIMTALGFFI</span></span>
+<span class="topo-ruler">       130       140       </span>
 <span class="topo-line"><span class="topo-membrane">ITIL</span><span class="topo-inside">F</span><span class="topo-unknown">ATRGKAASLVPRGSGGHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1932,6 +1988,7 @@ Fluc Family of Fluoride Ion Channels-Ec2 is a Ec2-specific Ion Ec2 from an E. co
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1947,8 +2004,9 @@ Fluc Family of Fluoride Ion Channels-Ec2 is a Ec2-specific Ion Ec2 from an E. co
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">G</span><span class="topo-outside">SVSSVPTKLEVVAATPTSLLISWDAPAVTVVHYVITYGETGGNSPVQEFTVPGSKSTAT</span></span>
-<span class="topo-line"><span class="topo-outside">ISGLKPGVDYTITVYTMYYSYSDLYSYSSPISINYRT</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       </span>
+<span class="topo-line"><span class="topo-unknown">G</span><span class="topo-outside">SVSSVPTKLEVVAATPTSLLISWDAPAVTVVHYVITYGETGGNSPVQEFTVPGSKSTATISGLKPGVDYTITVYTMYYSYSDLYSYSSPISINYRT</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1967,6 +2025,7 @@ Fluc Family of Fluoride Ion Channels-Ec2 is a Ec2-specific Ion Ec2 from an E. co
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

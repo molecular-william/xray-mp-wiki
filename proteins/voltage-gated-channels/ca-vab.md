@@ -98,10 +98,11 @@ CaVAb is a bacterial voltage-gated calcium channel that serves as an evolutionar
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRGSH</span><span class="topo-outside">MYLRITNIVESSF</span><span class="topo-membrane">FTKFIIYLIVLNGITMGL</span><span class="topo-inside">ETSKTFMQSFG</span></span>
-<span class="topo-line"><span class="topo-inside">VYTTLF</span><span class="topo-membrane">NQIVITIFTIEIILRIY</span><span class="topo-outside">VHRISFFKD</span><span class="topo-membrane">PWSLFDFFVVAISLV</span><span class="topo-inside">PTSSGFEILRV</span><span class="topo-membrane">LR</span></span>
-<span class="topo-line"><span class="topo-membrane">VLRLFRLVTAV</span><span class="topo-outside">PQMRKIVSALISVIPGM</span><span class="topo-membrane">LSVIALMTLFFYIFAIMATQL</span><span class="topo-inside">FGERFPEWFGT</span></span>
-<span class="topo-line"><span class="topo-inside">L</span><span class="topo-unknown">GESFYTLFQVMTLDDWS</span><span class="topo-inside">NGIVRPLMEVYP</span><span class="topo-membrane">YAWVFFIPFIFVVTFVMI</span><span class="topo-outside">NLVVAICVD</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRGSH</span><span class="topo-outside">MYLRITNIVESSF</span><span class="topo-membrane">FTKFIIYLIVLNGITMGL</span><span class="topo-inside">ETSKTFMQSFGVYTTLF</span><span class="topo-membrane">NQIVITIFTIEIILRIY</span><span class="topo-outside">VHRISFFKD</span><span class="topo-membrane">PWSLFDFFVVAISLV</span><span class="topo-inside">PTSSGFEILRV</span><span class="topo-membrane">LR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       </span>
+<span class="topo-line"><span class="topo-membrane">VLRLFRLVTAV</span><span class="topo-outside">PQMRKIVSALISVIPGM</span><span class="topo-membrane">LSVIALMTLFFYIFAIMATQL</span><span class="topo-inside">FGERFPEWFGTL</span><span class="topo-unknown">GESFYTLFQVMTLDDWS</span><span class="topo-inside">NGIVRPLMEVYP</span><span class="topo-membrane">YAWVFFIPFIFVVTFVMI</span><span class="topo-outside">NLVVAICVD</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -225,6 +226,7 @@ CaVAb is a bacterial voltage-gated calcium channel that serves as an evolutionar
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -240,10 +242,11 @@ CaVAb is a bacterial voltage-gated calcium channel that serves as an evolutionar
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRGSH</span><span class="topo-outside">MYLRITNIVESSFFTKF</span><span class="topo-membrane">IIYLIVLNGITMGLET</span><span class="topo-inside">SKTFMQSFG</span></span>
-<span class="topo-line"><span class="topo-inside">V</span><span class="topo-membrane">YTTLFNQIVITIFTIEI</span><span class="topo-outside">ILRIYVHRISFFKDPWSLF</span><span class="topo-membrane">DFFVVAISLVPTSSG</span><span class="topo-inside">F</span><span class="topo-membrane">EILRVLR</span></span>
-<span class="topo-line"><span class="topo-membrane">VLRLFRLV</span><span class="topo-outside">TAVPQMRKIVSALISVIPGMLSVI</span><span class="topo-membrane">ALMTLFFYIFAIMATQLFG</span><span class="topo-inside">ERFPEW</span><span class="topo-unknown">FGT</span></span>
-<span class="topo-line"><span class="topo-unknown">LGESFYTLFQVMTLDDWS</span><span class="topo-inside">NGIVRPLMEVYP</span><span class="topo-membrane">YAWVFFIPFIFVVTFVMI</span><span class="topo-outside">NLVVAICVD</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRGSH</span><span class="topo-outside">MYLRITNIVESSFFTKF</span><span class="topo-membrane">IIYLIVLNGITMGLET</span><span class="topo-inside">SKTFMQSFGV</span><span class="topo-membrane">YTTLFNQIVITIFTIEI</span><span class="topo-outside">ILRIYVHRISFFKDPWSLF</span><span class="topo-membrane">DFFVVAISLVPTSSG</span><span class="topo-inside">F</span><span class="topo-membrane">EILRVLR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       </span>
+<span class="topo-line"><span class="topo-membrane">VLRLFRLV</span><span class="topo-outside">TAVPQMRKIVSALISVIPGMLSVI</span><span class="topo-membrane">ALMTLFFYIFAIMATQLFG</span><span class="topo-inside">ERFPEW</span><span class="topo-unknown">FGTLGESFYTLFQVMTLDDWS</span><span class="topo-inside">NGIVRPLMEVYP</span><span class="topo-membrane">YAWVFFIPFIFVVTFVMI</span><span class="topo-outside">NLVVAICVD</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -367,6 +370,7 @@ CaVAb is a bacterial voltage-gated calcium channel that serves as an evolutionar
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -382,10 +386,11 @@ CaVAb is a bacterial voltage-gated calcium channel that serves as an evolutionar
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRGSH</span><span class="topo-outside">MYLRITNIVESSFFTKF</span><span class="topo-membrane">IIYLIVLNGITMGLETS</span><span class="topo-inside">KTFMQSF</span><span class="topo-membrane">G</span></span>
-<span class="topo-line"><span class="topo-membrane">VYTTLFNQIVITIFTIEIIL</span><span class="topo-outside">RIYVHRISFFKDP</span><span class="topo-membrane">WSLFDFFVVAISLVPT</span><span class="topo-inside">SSGFEI</span><span class="topo-membrane">LRVLR</span></span>
-<span class="topo-line"><span class="topo-membrane">VLRLFRLVTA</span><span class="topo-outside">VPQMRKIVSALISVIPGM</span><span class="topo-membrane">LSVIALMTLFFYIFAIMA</span><span class="topo-inside">TQLFGERFPEWFGT</span></span>
-<span class="topo-line"><span class="topo-inside">LGES</span><span class="topo-unknown">FYTLFQVMTLDDWS</span><span class="topo-inside">NGIVRPLMEVYPYAW</span><span class="topo-membrane">VFFIPFIFVVTFVMINLV</span><span class="topo-outside">VAICVD</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRGSH</span><span class="topo-outside">MYLRITNIVESSFFTKF</span><span class="topo-membrane">IIYLIVLNGITMGLETS</span><span class="topo-inside">KTFMQSF</span><span class="topo-membrane">GVYTTLFNQIVITIFTIEIIL</span><span class="topo-outside">RIYVHRISFFKDP</span><span class="topo-membrane">WSLFDFFVVAISLVPT</span><span class="topo-inside">SSGFEI</span><span class="topo-membrane">LRVLR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       </span>
+<span class="topo-line"><span class="topo-membrane">VLRLFRLVTA</span><span class="topo-outside">VPQMRKIVSALISVIPGM</span><span class="topo-membrane">LSVIALMTLFFYIFAIMA</span><span class="topo-inside">TQLFGERFPEWFGTLGES</span><span class="topo-unknown">FYTLFQVMTLDDWS</span><span class="topo-inside">NGIVRPLMEVYPYAW</span><span class="topo-membrane">VFFIPFIFVVTFVMINLV</span><span class="topo-outside">VAICVD</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -509,6 +514,7 @@ CaVAb is a bacterial voltage-gated calcium channel that serves as an evolutionar
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -524,10 +530,11 @@ CaVAb is a bacterial voltage-gated calcium channel that serves as an evolutionar
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRGSH</span><span class="topo-outside">MYLRITNIVESSFFTKFIIYL</span><span class="topo-membrane">IVLNGITMGLETSKTFM</span><span class="topo-inside">Q</span><span class="topo-membrane">SFG</span></span>
-<span class="topo-line"><span class="topo-membrane">VYTTLFNQIVITIFT</span><span class="topo-outside">IEIILRIYVHRISFFKDPWSLFDFF</span><span class="topo-membrane">VVAISLVPT</span><span class="topo-inside">SSGFEI</span><span class="topo-membrane">LRVLR</span></span>
-<span class="topo-line"><span class="topo-membrane">VLRLFR</span><span class="topo-outside">LVTAVPQMRKIVSALISVIPGMLSV</span><span class="topo-membrane">IALMTLFFYIFAIMATQ</span><span class="topo-inside">LFGERFPEWFGT</span></span>
-<span class="topo-line"><span class="topo-unknown">LGESFYTLFQVMTLDDWS</span><span class="topo-inside">NGIVRPLMEVYPYA</span><span class="topo-membrane">WVFFIPFIFVVTFVMINLV</span><span class="topo-outside">VAICVD</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRGSH</span><span class="topo-outside">MYLRITNIVESSFFTKFIIYL</span><span class="topo-membrane">IVLNGITMGLETSKTFM</span><span class="topo-inside">Q</span><span class="topo-membrane">SFGVYTTLFNQIVITIFT</span><span class="topo-outside">IEIILRIYVHRISFFKDPWSLFDFF</span><span class="topo-membrane">VVAISLVPT</span><span class="topo-inside">SSGFEI</span><span class="topo-membrane">LRVLR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       </span>
+<span class="topo-line"><span class="topo-membrane">VLRLFR</span><span class="topo-outside">LVTAVPQMRKIVSALISVIPGMLSV</span><span class="topo-membrane">IALMTLFFYIFAIMATQ</span><span class="topo-inside">LFGERFPEWFGT</span><span class="topo-unknown">LGESFYTLFQVMTLDDWS</span><span class="topo-inside">NGIVRPLMEVYPYA</span><span class="topo-membrane">WVFFIPFIFVVTFVMINLV</span><span class="topo-outside">VAICVD</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -651,6 +658,7 @@ CaVAb is a bacterial voltage-gated calcium channel that serves as an evolutionar
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -666,10 +674,11 @@ CaVAb is a bacterial voltage-gated calcium channel that serves as an evolutionar
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRGSH</span><span class="topo-outside">MYLRITNIVESSF</span><span class="topo-membrane">FTKFIIYLIVLNGITMGL</span><span class="topo-inside">ETSKTFMQSFG</span></span>
-<span class="topo-line"><span class="topo-inside">VYTTLF</span><span class="topo-membrane">NQIVITIFTIEIILRIY</span><span class="topo-outside">VHRISFFKD</span><span class="topo-membrane">PWSLFDFFVVAISLV</span><span class="topo-inside">PTSSGFEILRV</span><span class="topo-membrane">LR</span></span>
-<span class="topo-line"><span class="topo-membrane">VLRLFRLVTAV</span><span class="topo-outside">PQMRKIVSALISVIPGM</span><span class="topo-membrane">LSVIALMTLFFYIFAIMATQL</span><span class="topo-inside">FGERFPEWFGT</span></span>
-<span class="topo-line"><span class="topo-inside">L</span><span class="topo-unknown">GESFYTLFQVMTLDDWS</span><span class="topo-inside">NGIVRPLMEVYP</span><span class="topo-membrane">YAWVFFIPFIFVVTFVMI</span><span class="topo-outside">NLVVAICVD</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRGSH</span><span class="topo-outside">MYLRITNIVESSF</span><span class="topo-membrane">FTKFIIYLIVLNGITMGL</span><span class="topo-inside">ETSKTFMQSFGVYTTLF</span><span class="topo-membrane">NQIVITIFTIEIILRIY</span><span class="topo-outside">VHRISFFKD</span><span class="topo-membrane">PWSLFDFFVVAISLV</span><span class="topo-inside">PTSSGFEILRV</span><span class="topo-membrane">LR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       </span>
+<span class="topo-line"><span class="topo-membrane">VLRLFRLVTAV</span><span class="topo-outside">PQMRKIVSALISVIPGM</span><span class="topo-membrane">LSVIALMTLFFYIFAIMATQL</span><span class="topo-inside">FGERFPEWFGTL</span><span class="topo-unknown">GESFYTLFQVMTLDDWS</span><span class="topo-inside">NGIVRPLMEVYP</span><span class="topo-membrane">YAWVFFIPFIFVVTFVMI</span><span class="topo-outside">NLVVAICVD</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -793,6 +802,7 @@ CaVAb is a bacterial voltage-gated calcium channel that serves as an evolutionar
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -808,10 +818,11 @@ CaVAb is a bacterial voltage-gated calcium channel that serves as an evolutionar
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRGSH</span><span class="topo-outside">MYLRITNIVESSFFTKF</span><span class="topo-membrane">IIYLIVLNGITMGLET</span><span class="topo-inside">SKTFMQSFG</span></span>
-<span class="topo-line"><span class="topo-inside">V</span><span class="topo-membrane">YTTLFNQIVITIFTIEI</span><span class="topo-outside">ILRIYVHRISFFKDPWSLF</span><span class="topo-membrane">DFFVVAISLVPTSSG</span><span class="topo-inside">F</span><span class="topo-membrane">EILRVLR</span></span>
-<span class="topo-line"><span class="topo-membrane">VLRLFRLV</span><span class="topo-outside">TAVPQMRKIVSALISVIPGMLSVI</span><span class="topo-membrane">ALMTLFFYIFAIMATQLFG</span><span class="topo-inside">ERFPEW</span><span class="topo-unknown">FGT</span></span>
-<span class="topo-line"><span class="topo-unknown">LGESFYTLFQVMTLDDWS</span><span class="topo-inside">NGIVRPLMEVYP</span><span class="topo-membrane">YAWVFFIPFIFVVTFVMI</span><span class="topo-outside">NLVVAICVD</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRGSH</span><span class="topo-outside">MYLRITNIVESSFFTKF</span><span class="topo-membrane">IIYLIVLNGITMGLET</span><span class="topo-inside">SKTFMQSFGV</span><span class="topo-membrane">YTTLFNQIVITIFTIEI</span><span class="topo-outside">ILRIYVHRISFFKDPWSLF</span><span class="topo-membrane">DFFVVAISLVPTSSG</span><span class="topo-inside">F</span><span class="topo-membrane">EILRVLR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       </span>
+<span class="topo-line"><span class="topo-membrane">VLRLFRLV</span><span class="topo-outside">TAVPQMRKIVSALISVIPGMLSVI</span><span class="topo-membrane">ALMTLFFYIFAIMATQLFG</span><span class="topo-inside">ERFPEW</span><span class="topo-unknown">FGTLGESFYTLFQVMTLDDWS</span><span class="topo-inside">NGIVRPLMEVYP</span><span class="topo-membrane">YAWVFFIPFIFVVTFVMI</span><span class="topo-outside">NLVVAICVD</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -935,6 +946,7 @@ CaVAb is a bacterial voltage-gated calcium channel that serves as an evolutionar
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -950,10 +962,11 @@ CaVAb is a bacterial voltage-gated calcium channel that serves as an evolutionar
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRGSH</span><span class="topo-outside">MYLRITNIVESSFFTKF</span><span class="topo-membrane">IIYLIVLNGITMGLETS</span><span class="topo-inside">KTFMQSF</span><span class="topo-membrane">G</span></span>
-<span class="topo-line"><span class="topo-membrane">VYTTLFNQIVITIFTIEIIL</span><span class="topo-outside">RIYVHRISFFKDP</span><span class="topo-membrane">WSLFDFFVVAISLVPT</span><span class="topo-inside">SSGFEI</span><span class="topo-membrane">LRVLR</span></span>
-<span class="topo-line"><span class="topo-membrane">VLRLFRLVTA</span><span class="topo-outside">VPQMRKIVSALISVIPGM</span><span class="topo-membrane">LSVIALMTLFFYIFAIMA</span><span class="topo-inside">TQLFGERFPEWFGT</span></span>
-<span class="topo-line"><span class="topo-inside">LGES</span><span class="topo-unknown">FYTLFQVMTLDDWS</span><span class="topo-inside">NGIVRPLMEVYPYAW</span><span class="topo-membrane">VFFIPFIFVVTFVMINLV</span><span class="topo-outside">VAICVD</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRGSH</span><span class="topo-outside">MYLRITNIVESSFFTKF</span><span class="topo-membrane">IIYLIVLNGITMGLETS</span><span class="topo-inside">KTFMQSF</span><span class="topo-membrane">GVYTTLFNQIVITIFTIEIIL</span><span class="topo-outside">RIYVHRISFFKDP</span><span class="topo-membrane">WSLFDFFVVAISLVPT</span><span class="topo-inside">SSGFEI</span><span class="topo-membrane">LRVLR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       </span>
+<span class="topo-line"><span class="topo-membrane">VLRLFRLVTA</span><span class="topo-outside">VPQMRKIVSALISVIPGM</span><span class="topo-membrane">LSVIALMTLFFYIFAIMA</span><span class="topo-inside">TQLFGERFPEWFGTLGES</span><span class="topo-unknown">FYTLFQVMTLDDWS</span><span class="topo-inside">NGIVRPLMEVYPYAW</span><span class="topo-membrane">VFFIPFIFVVTFVMINLV</span><span class="topo-outside">VAICVD</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1077,6 +1090,7 @@ CaVAb is a bacterial voltage-gated calcium channel that serves as an evolutionar
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1092,10 +1106,11 @@ CaVAb is a bacterial voltage-gated calcium channel that serves as an evolutionar
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRGSH</span><span class="topo-outside">MYLRITNIVESSFFTKFIIYL</span><span class="topo-membrane">IVLNGITMGLETSKTFM</span><span class="topo-inside">Q</span><span class="topo-membrane">SFG</span></span>
-<span class="topo-line"><span class="topo-membrane">VYTTLFNQIVITIFT</span><span class="topo-outside">IEIILRIYVHRISFFKDPWSLFDFF</span><span class="topo-membrane">VVAISLVPT</span><span class="topo-inside">SSGFEI</span><span class="topo-membrane">LRVLR</span></span>
-<span class="topo-line"><span class="topo-membrane">VLRLFR</span><span class="topo-outside">LVTAVPQMRKIVSALISVIPGMLSV</span><span class="topo-membrane">IALMTLFFYIFAIMATQ</span><span class="topo-inside">LFGERFPEWFGT</span></span>
-<span class="topo-line"><span class="topo-unknown">LGESFYTLFQVMTLDDWS</span><span class="topo-inside">NGIVRPLMEVYPYA</span><span class="topo-membrane">WVFFIPFIFVVTFVMINLV</span><span class="topo-outside">VAICVD</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRGSH</span><span class="topo-outside">MYLRITNIVESSFFTKFIIYL</span><span class="topo-membrane">IVLNGITMGLETSKTFM</span><span class="topo-inside">Q</span><span class="topo-membrane">SFGVYTTLFNQIVITIFT</span><span class="topo-outside">IEIILRIYVHRISFFKDPWSLFDFF</span><span class="topo-membrane">VVAISLVPT</span><span class="topo-inside">SSGFEI</span><span class="topo-membrane">LRVLR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       </span>
+<span class="topo-line"><span class="topo-membrane">VLRLFR</span><span class="topo-outside">LVTAVPQMRKIVSALISVIPGMLSV</span><span class="topo-membrane">IALMTLFFYIFAIMATQ</span><span class="topo-inside">LFGERFPEWFGT</span><span class="topo-unknown">LGESFYTLFQVMTLDDWS</span><span class="topo-inside">NGIVRPLMEVYPYA</span><span class="topo-membrane">WVFFIPFIFVVTFVMINLV</span><span class="topo-outside">VAICVD</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1219,6 +1234,7 @@ CaVAb is a bacterial voltage-gated calcium channel that serves as an evolutionar
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1436,11 +1452,13 @@ CaVAb is a bacterial voltage-gated calcium channel that serves as an evolutionar
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRGSH</span><span class="topo-outside">MYLRITNIVESSFF</span><span class="topo-membrane">TKFIIYLIVLNGITMGLE</span><span class="topo-inside">TSKTFMQSFG</span></span>
-<span class="topo-line"><span class="topo-inside">VY</span><span class="topo-membrane">TTLFNQIVITIFTIEIILRI</span><span class="topo-outside">YVHRISFFKDP</span><span class="topo-membrane">WSLFDFFVVAISLVPT</span><span class="topo-inside">SSGFEI</span><span class="topo-membrane">LRVLR</span></span>
-<span class="topo-line"><span class="topo-membrane">VLRLFRLVTAV</span><span class="topo-outside">PQMRKIVSALISVIPGMLSV</span><span class="topo-membrane">IALMTLFFYIFAIMATQL</span><span class="topo-inside">FGERFPEWFGT</span></span>
-<span class="topo-line"><span class="topo-unknown">LGESFYTLFQVMTLDDWS</span><span class="topo-inside">NGIVRPLMEVYPY</span><span class="topo-membrane">AWVFFIPFIFVVTFVMI</span><span class="topo-outside">NLVVAIIVDAMA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRGSH</span><span class="topo-outside">MYLRITNIVESSFF</span><span class="topo-membrane">TKFIIYLIVLNGITMGLE</span><span class="topo-inside">TSKTFMQSFGVY</span><span class="topo-membrane">TTLFNQIVITIFTIEIILRI</span><span class="topo-outside">YVHRISFFKDP</span><span class="topo-membrane">WSLFDFFVVAISLVPT</span><span class="topo-inside">SSGFEI</span><span class="topo-membrane">LRVLR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">VLRLFRLVTAV</span><span class="topo-outside">PQMRKIVSALISVIPGMLSV</span><span class="topo-membrane">IALMTLFFYIFAIMATQL</span><span class="topo-inside">FGERFPEWFGT</span><span class="topo-unknown">LGESFYTLFQVMTLDDWS</span><span class="topo-inside">NGIVRPLMEVYPY</span><span class="topo-membrane">AWVFFIPFIFVVTFVMI</span><span class="topo-outside">NLVVAIIVDAMA</span></span>
+<span class="topo-ruler">       250       260       270       280     </span>
 <span class="topo-line"><span class="topo-outside">ILNQKEEQHIIDEVQSHEDNINNEIIKLREEIVELKELIKTSLKN</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1564,6 +1582,7 @@ CaVAb is a bacterial voltage-gated calcium channel that serves as an evolutionar
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1579,11 +1598,13 @@ CaVAb is a bacterial voltage-gated calcium channel that serves as an evolutionar
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRGSH</span><span class="topo-outside">MYLRITNIVESSFFTKF</span><span class="topo-membrane">IIYLIVLNGITMGLETS</span><span class="topo-inside">KTFMQSF</span><span class="topo-membrane">G</span></span>
-<span class="topo-line"><span class="topo-membrane">VYTTLFNQIVITIFTIEII</span><span class="topo-outside">LRIYVHRISFFKDPWSL</span><span class="topo-membrane">FDFFVVAISLVPTS</span><span class="topo-inside">SGF</span><span class="topo-membrane">EILRVLR</span></span>
-<span class="topo-line"><span class="topo-membrane">VLRLFRLVT</span><span class="topo-outside">AVPQMRKIVSALISVIPGM</span><span class="topo-membrane">LSVIALMTLFFYIFAIMA</span><span class="topo-inside">TQLFGERFPEWFGT</span></span>
-<span class="topo-line"><span class="topo-inside">L</span><span class="topo-unknown">GESFYTLFQVMTLDDWS</span><span class="topo-inside">NGIVRPLMEVYPYAW</span><span class="topo-membrane">VFFIPFIFVVTFVMINLV</span><span class="topo-outside">VAIIVDAMA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRGSH</span><span class="topo-outside">MYLRITNIVESSFFTKF</span><span class="topo-membrane">IIYLIVLNGITMGLETS</span><span class="topo-inside">KTFMQSF</span><span class="topo-membrane">GVYTTLFNQIVITIFTIEII</span><span class="topo-outside">LRIYVHRISFFKDPWSL</span><span class="topo-membrane">FDFFVVAISLVPTS</span><span class="topo-inside">SGF</span><span class="topo-membrane">EILRVLR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">VLRLFRLVT</span><span class="topo-outside">AVPQMRKIVSALISVIPGM</span><span class="topo-membrane">LSVIALMTLFFYIFAIMA</span><span class="topo-inside">TQLFGERFPEWFGTL</span><span class="topo-unknown">GESFYTLFQVMTLDDWS</span><span class="topo-inside">NGIVRPLMEVYPYAW</span><span class="topo-membrane">VFFIPFIFVVTFVMINLV</span><span class="topo-outside">VAIIVDAMA</span></span>
+<span class="topo-ruler">       250       260       270       280     </span>
 <span class="topo-line"><span class="topo-outside">ILNQKEEQHIIDEVQSHEDNINNEIIKLREEIVELKELIKTSLKN</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1707,6 +1728,7 @@ CaVAb is a bacterial voltage-gated calcium channel that serves as an evolutionar
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1722,11 +1744,13 @@ CaVAb is a bacterial voltage-gated calcium channel that serves as an evolutionar
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRGSH</span><span class="topo-outside">MYLRITNIVESSF</span><span class="topo-membrane">FTKFIIYLIVLNGITMGLE</span><span class="topo-inside">TSKTFMQSFG</span></span>
-<span class="topo-line"><span class="topo-inside">VY</span><span class="topo-membrane">TTLFNQIVITIFTIEIILRIY</span><span class="topo-outside">VHRISFFKDP</span><span class="topo-membrane">WSLFDFFVVAISLVP</span><span class="topo-inside">TSSGFEI</span><span class="topo-membrane">LRVLR</span></span>
-<span class="topo-line"><span class="topo-membrane">VLRLFRLVTAV</span><span class="topo-outside">PQMRKIVSALISVIPGM</span><span class="topo-membrane">LSVIALMTLFFYIFAIMA</span><span class="topo-inside">TQLFGERFPEWFGT</span></span>
-<span class="topo-line"><span class="topo-inside">LGES</span><span class="topo-unknown">FYTLFQVMTLDDWS</span><span class="topo-inside">NGIVRPLMEVYPY</span><span class="topo-membrane">AWVFFIPFIFVVTFVMINLV</span><span class="topo-outside">VAIIVDAMA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRGSH</span><span class="topo-outside">MYLRITNIVESSF</span><span class="topo-membrane">FTKFIIYLIVLNGITMGLE</span><span class="topo-inside">TSKTFMQSFGVY</span><span class="topo-membrane">TTLFNQIVITIFTIEIILRIY</span><span class="topo-outside">VHRISFFKDP</span><span class="topo-membrane">WSLFDFFVVAISLVP</span><span class="topo-inside">TSSGFEI</span><span class="topo-membrane">LRVLR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">VLRLFRLVTAV</span><span class="topo-outside">PQMRKIVSALISVIPGM</span><span class="topo-membrane">LSVIALMTLFFYIFAIMA</span><span class="topo-inside">TQLFGERFPEWFGTLGES</span><span class="topo-unknown">FYTLFQVMTLDDWS</span><span class="topo-inside">NGIVRPLMEVYPY</span><span class="topo-membrane">AWVFFIPFIFVVTFVMINLV</span><span class="topo-outside">VAIIVDAMA</span></span>
+<span class="topo-ruler">       250       260       270       280     </span>
 <span class="topo-line"><span class="topo-outside">ILNQKEEQHIIDEVQSHEDNINNEIIKLREEIVELKELIKTSLKN</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1850,6 +1874,7 @@ CaVAb is a bacterial voltage-gated calcium channel that serves as an evolutionar
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1865,11 +1890,13 @@ CaVAb is a bacterial voltage-gated calcium channel that serves as an evolutionar
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRGSH</span><span class="topo-outside">MYLRITNIVESSFFTKFI</span><span class="topo-membrane">IYLIVLNGITMGLETS</span><span class="topo-inside">KTFMQSF</span><span class="topo-membrane">G</span></span>
-<span class="topo-line"><span class="topo-membrane">VYTTLFNQIVITIFTIEI</span><span class="topo-outside">ILRIYVHRISFFKDPWSL</span><span class="topo-membrane">FDFFVVAISLVPTSSG</span><span class="topo-inside">F</span><span class="topo-membrane">EILRVLR</span></span>
-<span class="topo-line"><span class="topo-membrane">VLRLFRLV</span><span class="topo-outside">TAVPQMRKIVSALISVIPGMLSV</span><span class="topo-membrane">IALMTLFFYIFAIMATQL</span><span class="topo-inside">FGERFPEWFGT</span></span>
-<span class="topo-line"><span class="topo-unknown">LGESFYTLFQVMTLDDWS</span><span class="topo-inside">NGIVRPLMEVYPY</span><span class="topo-membrane">AWVFFIPFIFVVTFVMIN</span><span class="topo-outside">LVVAIIVDAMA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRGSH</span><span class="topo-outside">MYLRITNIVESSFFTKFI</span><span class="topo-membrane">IYLIVLNGITMGLETS</span><span class="topo-inside">KTFMQSF</span><span class="topo-membrane">GVYTTLFNQIVITIFTIEI</span><span class="topo-outside">ILRIYVHRISFFKDPWSL</span><span class="topo-membrane">FDFFVVAISLVPTSSG</span><span class="topo-inside">F</span><span class="topo-membrane">EILRVLR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">VLRLFRLV</span><span class="topo-outside">TAVPQMRKIVSALISVIPGMLSV</span><span class="topo-membrane">IALMTLFFYIFAIMATQL</span><span class="topo-inside">FGERFPEWFGT</span><span class="topo-unknown">LGESFYTLFQVMTLDDWS</span><span class="topo-inside">NGIVRPLMEVYPY</span><span class="topo-membrane">AWVFFIPFIFVVTFVMIN</span><span class="topo-outside">LVVAIIVDAMA</span></span>
+<span class="topo-ruler">       250       260       270       280     </span>
 <span class="topo-line"><span class="topo-outside">ILNQKEEQHIIDEVQSHEDNINNEIIKLREEIVELKELIKTSLKN</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1993,6 +2020,7 @@ CaVAb is a bacterial voltage-gated calcium channel that serves as an evolutionar
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2008,11 +2036,13 @@ CaVAb is a bacterial voltage-gated calcium channel that serves as an evolutionar
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRGSH</span><span class="topo-outside">MYLRITNIVESSFF</span><span class="topo-membrane">TKFIIYLIVLNGITMGLE</span><span class="topo-inside">TSKTFMQSFG</span></span>
-<span class="topo-line"><span class="topo-inside">VY</span><span class="topo-membrane">TTLFNQIVITIFTIEIILRI</span><span class="topo-outside">YVHRISFFKDP</span><span class="topo-membrane">WSLFDFFVVAISLVPT</span><span class="topo-inside">SSGFEI</span><span class="topo-membrane">LRVLR</span></span>
-<span class="topo-line"><span class="topo-membrane">VLRLFRLVTAV</span><span class="topo-outside">PQMRKIVSALISVIPGMLSV</span><span class="topo-membrane">IALMTLFFYIFAIMATQL</span><span class="topo-inside">FGERFPEWFGT</span></span>
-<span class="topo-line"><span class="topo-unknown">LGESFYTLFQVMTLDDWS</span><span class="topo-inside">NGIVRPLMEVYPY</span><span class="topo-membrane">AWVFFIPFIFVVTFVMI</span><span class="topo-outside">NLVVAIIVDAMA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRGSH</span><span class="topo-outside">MYLRITNIVESSFF</span><span class="topo-membrane">TKFIIYLIVLNGITMGLE</span><span class="topo-inside">TSKTFMQSFGVY</span><span class="topo-membrane">TTLFNQIVITIFTIEIILRI</span><span class="topo-outside">YVHRISFFKDP</span><span class="topo-membrane">WSLFDFFVVAISLVPT</span><span class="topo-inside">SSGFEI</span><span class="topo-membrane">LRVLR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">VLRLFRLVTAV</span><span class="topo-outside">PQMRKIVSALISVIPGMLSV</span><span class="topo-membrane">IALMTLFFYIFAIMATQL</span><span class="topo-inside">FGERFPEWFGT</span><span class="topo-unknown">LGESFYTLFQVMTLDDWS</span><span class="topo-inside">NGIVRPLMEVYPY</span><span class="topo-membrane">AWVFFIPFIFVVTFVMI</span><span class="topo-outside">NLVVAIIVDAMA</span></span>
+<span class="topo-ruler">       250       260       270       280     </span>
 <span class="topo-line"><span class="topo-outside">ILNQKEEQHIIDEVQSHEDNINNEIIKLREEIVELKELIKTSLKN</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2136,6 +2166,7 @@ CaVAb is a bacterial voltage-gated calcium channel that serves as an evolutionar
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2151,11 +2182,13 @@ CaVAb is a bacterial voltage-gated calcium channel that serves as an evolutionar
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRGSH</span><span class="topo-outside">MYLRITNIVESSFFTKF</span><span class="topo-membrane">IIYLIVLNGITMGLETS</span><span class="topo-inside">KTFMQSF</span><span class="topo-membrane">G</span></span>
-<span class="topo-line"><span class="topo-membrane">VYTTLFNQIVITIFTIEII</span><span class="topo-outside">LRIYVHRISFFKDPWSL</span><span class="topo-membrane">FDFFVVAISLVPTS</span><span class="topo-inside">SGF</span><span class="topo-membrane">EILRVLR</span></span>
-<span class="topo-line"><span class="topo-membrane">VLRLFRLVT</span><span class="topo-outside">AVPQMRKIVSALISVIPGM</span><span class="topo-membrane">LSVIALMTLFFYIFAIMA</span><span class="topo-inside">TQLFGERFPEWFGT</span></span>
-<span class="topo-line"><span class="topo-inside">L</span><span class="topo-unknown">GESFYTLFQVMTLDDWS</span><span class="topo-inside">NGIVRPLMEVYPYAW</span><span class="topo-membrane">VFFIPFIFVVTFVMINLV</span><span class="topo-outside">VAIIVDAMA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRGSH</span><span class="topo-outside">MYLRITNIVESSFFTKF</span><span class="topo-membrane">IIYLIVLNGITMGLETS</span><span class="topo-inside">KTFMQSF</span><span class="topo-membrane">GVYTTLFNQIVITIFTIEII</span><span class="topo-outside">LRIYVHRISFFKDPWSL</span><span class="topo-membrane">FDFFVVAISLVPTS</span><span class="topo-inside">SGF</span><span class="topo-membrane">EILRVLR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">VLRLFRLVT</span><span class="topo-outside">AVPQMRKIVSALISVIPGM</span><span class="topo-membrane">LSVIALMTLFFYIFAIMA</span><span class="topo-inside">TQLFGERFPEWFGTL</span><span class="topo-unknown">GESFYTLFQVMTLDDWS</span><span class="topo-inside">NGIVRPLMEVYPYAW</span><span class="topo-membrane">VFFIPFIFVVTFVMINLV</span><span class="topo-outside">VAIIVDAMA</span></span>
+<span class="topo-ruler">       250       260       270       280     </span>
 <span class="topo-line"><span class="topo-outside">ILNQKEEQHIIDEVQSHEDNINNEIIKLREEIVELKELIKTSLKN</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2279,6 +2312,7 @@ CaVAb is a bacterial voltage-gated calcium channel that serves as an evolutionar
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2294,11 +2328,13 @@ CaVAb is a bacterial voltage-gated calcium channel that serves as an evolutionar
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRGSH</span><span class="topo-outside">MYLRITNIVESSF</span><span class="topo-membrane">FTKFIIYLIVLNGITMGLE</span><span class="topo-inside">TSKTFMQSFG</span></span>
-<span class="topo-line"><span class="topo-inside">VY</span><span class="topo-membrane">TTLFNQIVITIFTIEIILRIY</span><span class="topo-outside">VHRISFFKDP</span><span class="topo-membrane">WSLFDFFVVAISLVP</span><span class="topo-inside">TSSGFEI</span><span class="topo-membrane">LRVLR</span></span>
-<span class="topo-line"><span class="topo-membrane">VLRLFRLVTAV</span><span class="topo-outside">PQMRKIVSALISVIPGM</span><span class="topo-membrane">LSVIALMTLFFYIFAIMA</span><span class="topo-inside">TQLFGERFPEWFGT</span></span>
-<span class="topo-line"><span class="topo-inside">LGES</span><span class="topo-unknown">FYTLFQVMTLDDWS</span><span class="topo-inside">NGIVRPLMEVYPY</span><span class="topo-membrane">AWVFFIPFIFVVTFVMINLV</span><span class="topo-outside">VAIIVDAMA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRGSH</span><span class="topo-outside">MYLRITNIVESSF</span><span class="topo-membrane">FTKFIIYLIVLNGITMGLE</span><span class="topo-inside">TSKTFMQSFGVY</span><span class="topo-membrane">TTLFNQIVITIFTIEIILRIY</span><span class="topo-outside">VHRISFFKDP</span><span class="topo-membrane">WSLFDFFVVAISLVP</span><span class="topo-inside">TSSGFEI</span><span class="topo-membrane">LRVLR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">VLRLFRLVTAV</span><span class="topo-outside">PQMRKIVSALISVIPGM</span><span class="topo-membrane">LSVIALMTLFFYIFAIMA</span><span class="topo-inside">TQLFGERFPEWFGTLGES</span><span class="topo-unknown">FYTLFQVMTLDDWS</span><span class="topo-inside">NGIVRPLMEVYPY</span><span class="topo-membrane">AWVFFIPFIFVVTFVMINLV</span><span class="topo-outside">VAIIVDAMA</span></span>
+<span class="topo-ruler">       250       260       270       280     </span>
 <span class="topo-line"><span class="topo-outside">ILNQKEEQHIIDEVQSHEDNINNEIIKLREEIVELKELIKTSLKN</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2422,6 +2458,7 @@ CaVAb is a bacterial voltage-gated calcium channel that serves as an evolutionar
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2437,11 +2474,13 @@ CaVAb is a bacterial voltage-gated calcium channel that serves as an evolutionar
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRGSH</span><span class="topo-outside">MYLRITNIVESSFFTKFI</span><span class="topo-membrane">IYLIVLNGITMGLETS</span><span class="topo-inside">KTFMQSF</span><span class="topo-membrane">G</span></span>
-<span class="topo-line"><span class="topo-membrane">VYTTLFNQIVITIFTIEI</span><span class="topo-outside">ILRIYVHRISFFKDPWSL</span><span class="topo-membrane">FDFFVVAISLVPTSSG</span><span class="topo-inside">F</span><span class="topo-membrane">EILRVLR</span></span>
-<span class="topo-line"><span class="topo-membrane">VLRLFRLV</span><span class="topo-outside">TAVPQMRKIVSALISVIPGMLSV</span><span class="topo-membrane">IALMTLFFYIFAIMATQL</span><span class="topo-inside">FGERFPEWFGT</span></span>
-<span class="topo-line"><span class="topo-unknown">LGESFYTLFQVMTLDDWS</span><span class="topo-inside">NGIVRPLMEVYPY</span><span class="topo-membrane">AWVFFIPFIFVVTFVMIN</span><span class="topo-outside">LVVAIIVDAMA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRGSH</span><span class="topo-outside">MYLRITNIVESSFFTKFI</span><span class="topo-membrane">IYLIVLNGITMGLETS</span><span class="topo-inside">KTFMQSF</span><span class="topo-membrane">GVYTTLFNQIVITIFTIEI</span><span class="topo-outside">ILRIYVHRISFFKDPWSL</span><span class="topo-membrane">FDFFVVAISLVPTSSG</span><span class="topo-inside">F</span><span class="topo-membrane">EILRVLR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">VLRLFRLV</span><span class="topo-outside">TAVPQMRKIVSALISVIPGMLSV</span><span class="topo-membrane">IALMTLFFYIFAIMATQL</span><span class="topo-inside">FGERFPEWFGT</span><span class="topo-unknown">LGESFYTLFQVMTLDDWS</span><span class="topo-inside">NGIVRPLMEVYPY</span><span class="topo-membrane">AWVFFIPFIFVVTFVMIN</span><span class="topo-outside">LVVAIIVDAMA</span></span>
+<span class="topo-ruler">       250       260       270       280     </span>
 <span class="topo-line"><span class="topo-outside">ILNQKEEQHIIDEVQSHEDNINNEIIKLREEIVELKELIKTSLKN</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2565,6 +2604,7 @@ CaVAb is a bacterial voltage-gated calcium channel that serves as an evolutionar
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2580,11 +2620,13 @@ CaVAb is a bacterial voltage-gated calcium channel that serves as an evolutionar
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRGSH</span><span class="topo-outside">MYLRITNIVESSFF</span><span class="topo-membrane">TKFIIYLIVLNGITMGLE</span><span class="topo-inside">TSKTFMQSFG</span></span>
-<span class="topo-line"><span class="topo-inside">VY</span><span class="topo-membrane">TTLFNQIVITIFTIEIILRI</span><span class="topo-outside">YVHRISFFKDP</span><span class="topo-membrane">WSLFDFFVVAISLVPT</span><span class="topo-inside">SSGFEI</span><span class="topo-membrane">LRVLR</span></span>
-<span class="topo-line"><span class="topo-membrane">VLRLFRLVTAV</span><span class="topo-outside">PQMRKIVSALISVIPGMLSV</span><span class="topo-membrane">IALMTLFFYIFAIMATQL</span><span class="topo-inside">FGERFPEWFGT</span></span>
-<span class="topo-line"><span class="topo-unknown">LGESFYTLFQVMTLDDWS</span><span class="topo-inside">NGIVRPLMEVYPY</span><span class="topo-membrane">AWVFFIPFIFVVTFVMI</span><span class="topo-outside">NLVVAIIVDAMA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRGSH</span><span class="topo-outside">MYLRITNIVESSFF</span><span class="topo-membrane">TKFIIYLIVLNGITMGLE</span><span class="topo-inside">TSKTFMQSFGVY</span><span class="topo-membrane">TTLFNQIVITIFTIEIILRI</span><span class="topo-outside">YVHRISFFKDP</span><span class="topo-membrane">WSLFDFFVVAISLVPT</span><span class="topo-inside">SSGFEI</span><span class="topo-membrane">LRVLR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">VLRLFRLVTAV</span><span class="topo-outside">PQMRKIVSALISVIPGMLSV</span><span class="topo-membrane">IALMTLFFYIFAIMATQL</span><span class="topo-inside">FGERFPEWFGT</span><span class="topo-unknown">LGESFYTLFQVMTLDDWS</span><span class="topo-inside">NGIVRPLMEVYPY</span><span class="topo-membrane">AWVFFIPFIFVVTFVMI</span><span class="topo-outside">NLVVAIIVDAMA</span></span>
+<span class="topo-ruler">       250       260       270       280     </span>
 <span class="topo-line"><span class="topo-outside">ILNQKEEQHIIDEVQSHEDNINNEIIKLREEIVELKELIKTSLKN</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2708,6 +2750,7 @@ CaVAb is a bacterial voltage-gated calcium channel that serves as an evolutionar
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2723,11 +2766,13 @@ CaVAb is a bacterial voltage-gated calcium channel that serves as an evolutionar
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRGSH</span><span class="topo-outside">MYLRITNIVESSFFTKF</span><span class="topo-membrane">IIYLIVLNGITMGLETS</span><span class="topo-inside">KTFMQSF</span><span class="topo-membrane">G</span></span>
-<span class="topo-line"><span class="topo-membrane">VYTTLFNQIVITIFTIEII</span><span class="topo-outside">LRIYVHRISFFKDPWSL</span><span class="topo-membrane">FDFFVVAISLVPTS</span><span class="topo-inside">SGF</span><span class="topo-membrane">EILRVLR</span></span>
-<span class="topo-line"><span class="topo-membrane">VLRLFRLVT</span><span class="topo-outside">AVPQMRKIVSALISVIPGM</span><span class="topo-membrane">LSVIALMTLFFYIFAIMA</span><span class="topo-inside">TQLFGERFPEWFGT</span></span>
-<span class="topo-line"><span class="topo-inside">L</span><span class="topo-unknown">GESFYTLFQVMTLDDWS</span><span class="topo-inside">NGIVRPLMEVYPYAW</span><span class="topo-membrane">VFFIPFIFVVTFVMINLV</span><span class="topo-outside">VAIIVDAMA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRGSH</span><span class="topo-outside">MYLRITNIVESSFFTKF</span><span class="topo-membrane">IIYLIVLNGITMGLETS</span><span class="topo-inside">KTFMQSF</span><span class="topo-membrane">GVYTTLFNQIVITIFTIEII</span><span class="topo-outside">LRIYVHRISFFKDPWSL</span><span class="topo-membrane">FDFFVVAISLVPTS</span><span class="topo-inside">SGF</span><span class="topo-membrane">EILRVLR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">VLRLFRLVT</span><span class="topo-outside">AVPQMRKIVSALISVIPGM</span><span class="topo-membrane">LSVIALMTLFFYIFAIMA</span><span class="topo-inside">TQLFGERFPEWFGTL</span><span class="topo-unknown">GESFYTLFQVMTLDDWS</span><span class="topo-inside">NGIVRPLMEVYPYAW</span><span class="topo-membrane">VFFIPFIFVVTFVMINLV</span><span class="topo-outside">VAIIVDAMA</span></span>
+<span class="topo-ruler">       250       260       270       280     </span>
 <span class="topo-line"><span class="topo-outside">ILNQKEEQHIIDEVQSHEDNINNEIIKLREEIVELKELIKTSLKN</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2851,6 +2896,7 @@ CaVAb is a bacterial voltage-gated calcium channel that serves as an evolutionar
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2866,11 +2912,13 @@ CaVAb is a bacterial voltage-gated calcium channel that serves as an evolutionar
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRGSH</span><span class="topo-outside">MYLRITNIVESSF</span><span class="topo-membrane">FTKFIIYLIVLNGITMGLE</span><span class="topo-inside">TSKTFMQSFG</span></span>
-<span class="topo-line"><span class="topo-inside">VY</span><span class="topo-membrane">TTLFNQIVITIFTIEIILRIY</span><span class="topo-outside">VHRISFFKDP</span><span class="topo-membrane">WSLFDFFVVAISLVP</span><span class="topo-inside">TSSGFEI</span><span class="topo-membrane">LRVLR</span></span>
-<span class="topo-line"><span class="topo-membrane">VLRLFRLVTAV</span><span class="topo-outside">PQMRKIVSALISVIPGM</span><span class="topo-membrane">LSVIALMTLFFYIFAIMA</span><span class="topo-inside">TQLFGERFPEWFGT</span></span>
-<span class="topo-line"><span class="topo-inside">LGES</span><span class="topo-unknown">FYTLFQVMTLDDWS</span><span class="topo-inside">NGIVRPLMEVYPY</span><span class="topo-membrane">AWVFFIPFIFVVTFVMINLV</span><span class="topo-outside">VAIIVDAMA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRGSH</span><span class="topo-outside">MYLRITNIVESSF</span><span class="topo-membrane">FTKFIIYLIVLNGITMGLE</span><span class="topo-inside">TSKTFMQSFGVY</span><span class="topo-membrane">TTLFNQIVITIFTIEIILRIY</span><span class="topo-outside">VHRISFFKDP</span><span class="topo-membrane">WSLFDFFVVAISLVP</span><span class="topo-inside">TSSGFEI</span><span class="topo-membrane">LRVLR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">VLRLFRLVTAV</span><span class="topo-outside">PQMRKIVSALISVIPGM</span><span class="topo-membrane">LSVIALMTLFFYIFAIMA</span><span class="topo-inside">TQLFGERFPEWFGTLGES</span><span class="topo-unknown">FYTLFQVMTLDDWS</span><span class="topo-inside">NGIVRPLMEVYPY</span><span class="topo-membrane">AWVFFIPFIFVVTFVMINLV</span><span class="topo-outside">VAIIVDAMA</span></span>
+<span class="topo-ruler">       250       260       270       280     </span>
 <span class="topo-line"><span class="topo-outside">ILNQKEEQHIIDEVQSHEDNINNEIIKLREEIVELKELIKTSLKN</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2994,6 +3042,7 @@ CaVAb is a bacterial voltage-gated calcium channel that serves as an evolutionar
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3009,11 +3058,13 @@ CaVAb is a bacterial voltage-gated calcium channel that serves as an evolutionar
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRGSH</span><span class="topo-outside">MYLRITNIVESSFFTKFI</span><span class="topo-membrane">IYLIVLNGITMGLETS</span><span class="topo-inside">KTFMQSF</span><span class="topo-membrane">G</span></span>
-<span class="topo-line"><span class="topo-membrane">VYTTLFNQIVITIFTIEI</span><span class="topo-outside">ILRIYVHRISFFKDPWSL</span><span class="topo-membrane">FDFFVVAISLVPTSSG</span><span class="topo-inside">F</span><span class="topo-membrane">EILRVLR</span></span>
-<span class="topo-line"><span class="topo-membrane">VLRLFRLV</span><span class="topo-outside">TAVPQMRKIVSALISVIPGMLSV</span><span class="topo-membrane">IALMTLFFYIFAIMATQL</span><span class="topo-inside">FGERFPEWFGT</span></span>
-<span class="topo-line"><span class="topo-unknown">LGESFYTLFQVMTLDDWS</span><span class="topo-inside">NGIVRPLMEVYPY</span><span class="topo-membrane">AWVFFIPFIFVVTFVMIN</span><span class="topo-outside">LVVAIIVDAMA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRGSH</span><span class="topo-outside">MYLRITNIVESSFFTKFI</span><span class="topo-membrane">IYLIVLNGITMGLETS</span><span class="topo-inside">KTFMQSF</span><span class="topo-membrane">GVYTTLFNQIVITIFTIEI</span><span class="topo-outside">ILRIYVHRISFFKDPWSL</span><span class="topo-membrane">FDFFVVAISLVPTSSG</span><span class="topo-inside">F</span><span class="topo-membrane">EILRVLR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">VLRLFRLV</span><span class="topo-outside">TAVPQMRKIVSALISVIPGMLSV</span><span class="topo-membrane">IALMTLFFYIFAIMATQL</span><span class="topo-inside">FGERFPEWFGT</span><span class="topo-unknown">LGESFYTLFQVMTLDDWS</span><span class="topo-inside">NGIVRPLMEVYPY</span><span class="topo-membrane">AWVFFIPFIFVVTFVMIN</span><span class="topo-outside">LVVAIIVDAMA</span></span>
+<span class="topo-ruler">       250       260       270       280     </span>
 <span class="topo-line"><span class="topo-outside">ILNQKEEQHIIDEVQSHEDNINNEIIKLREEIVELKELIKTSLKN</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3137,6 +3188,7 @@ CaVAb is a bacterial voltage-gated calcium channel that serves as an evolutionar
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3152,11 +3204,13 @@ CaVAb is a bacterial voltage-gated calcium channel that serves as an evolutionar
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRGSH</span><span class="topo-outside">MYLRITNIVESSFF</span><span class="topo-membrane">TKFIIYLIVLNGITMGLE</span><span class="topo-inside">TSKTFMQSFG</span></span>
-<span class="topo-line"><span class="topo-inside">VY</span><span class="topo-membrane">TTLFNQIVITIFTIEIILRI</span><span class="topo-outside">YVHRISFFKDP</span><span class="topo-membrane">WSLFDFFVVAISLVPT</span><span class="topo-inside">SSGFEI</span><span class="topo-membrane">LRVLR</span></span>
-<span class="topo-line"><span class="topo-membrane">VLRLFRLVTAV</span><span class="topo-outside">PQMRKIVSALISVIPGMLSV</span><span class="topo-membrane">IALMTLFFYIFAIMATQL</span><span class="topo-inside">FGERFPEWFGT</span></span>
-<span class="topo-line"><span class="topo-unknown">LGESFYTLFQVMTLDDWS</span><span class="topo-inside">NGIVRPLMEVYPY</span><span class="topo-membrane">AWVFFIPFIFVVTFVMI</span><span class="topo-outside">NLVVAIIVDAMA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRGSH</span><span class="topo-outside">MYLRITNIVESSFF</span><span class="topo-membrane">TKFIIYLIVLNGITMGLE</span><span class="topo-inside">TSKTFMQSFGVY</span><span class="topo-membrane">TTLFNQIVITIFTIEIILRI</span><span class="topo-outside">YVHRISFFKDP</span><span class="topo-membrane">WSLFDFFVVAISLVPT</span><span class="topo-inside">SSGFEI</span><span class="topo-membrane">LRVLR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">VLRLFRLVTAV</span><span class="topo-outside">PQMRKIVSALISVIPGMLSV</span><span class="topo-membrane">IALMTLFFYIFAIMATQL</span><span class="topo-inside">FGERFPEWFGT</span><span class="topo-unknown">LGESFYTLFQVMTLDDWS</span><span class="topo-inside">NGIVRPLMEVYPY</span><span class="topo-membrane">AWVFFIPFIFVVTFVMI</span><span class="topo-outside">NLVVAIIVDAMA</span></span>
+<span class="topo-ruler">       250       260       270       280     </span>
 <span class="topo-line"><span class="topo-outside">ILNQKEEQHIIDEVQSHEDNINNEIIKLREEIVELKELIKTSLKN</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3280,6 +3334,7 @@ CaVAb is a bacterial voltage-gated calcium channel that serves as an evolutionar
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3295,11 +3350,13 @@ CaVAb is a bacterial voltage-gated calcium channel that serves as an evolutionar
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRGSH</span><span class="topo-outside">MYLRITNIVESSFFTKF</span><span class="topo-membrane">IIYLIVLNGITMGLETS</span><span class="topo-inside">KTFMQSF</span><span class="topo-membrane">G</span></span>
-<span class="topo-line"><span class="topo-membrane">VYTTLFNQIVITIFTIEII</span><span class="topo-outside">LRIYVHRISFFKDPWSL</span><span class="topo-membrane">FDFFVVAISLVPTS</span><span class="topo-inside">SGF</span><span class="topo-membrane">EILRVLR</span></span>
-<span class="topo-line"><span class="topo-membrane">VLRLFRLVT</span><span class="topo-outside">AVPQMRKIVSALISVIPGM</span><span class="topo-membrane">LSVIALMTLFFYIFAIMA</span><span class="topo-inside">TQLFGERFPEWFGT</span></span>
-<span class="topo-line"><span class="topo-inside">L</span><span class="topo-unknown">GESFYTLFQVMTLDDWS</span><span class="topo-inside">NGIVRPLMEVYPYAW</span><span class="topo-membrane">VFFIPFIFVVTFVMINLV</span><span class="topo-outside">VAIIVDAMA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRGSH</span><span class="topo-outside">MYLRITNIVESSFFTKF</span><span class="topo-membrane">IIYLIVLNGITMGLETS</span><span class="topo-inside">KTFMQSF</span><span class="topo-membrane">GVYTTLFNQIVITIFTIEII</span><span class="topo-outside">LRIYVHRISFFKDPWSL</span><span class="topo-membrane">FDFFVVAISLVPTS</span><span class="topo-inside">SGF</span><span class="topo-membrane">EILRVLR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">VLRLFRLVT</span><span class="topo-outside">AVPQMRKIVSALISVIPGM</span><span class="topo-membrane">LSVIALMTLFFYIFAIMA</span><span class="topo-inside">TQLFGERFPEWFGTL</span><span class="topo-unknown">GESFYTLFQVMTLDDWS</span><span class="topo-inside">NGIVRPLMEVYPYAW</span><span class="topo-membrane">VFFIPFIFVVTFVMINLV</span><span class="topo-outside">VAIIVDAMA</span></span>
+<span class="topo-ruler">       250       260       270       280     </span>
 <span class="topo-line"><span class="topo-outside">ILNQKEEQHIIDEVQSHEDNINNEIIKLREEIVELKELIKTSLKN</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3423,6 +3480,7 @@ CaVAb is a bacterial voltage-gated calcium channel that serves as an evolutionar
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3438,11 +3496,13 @@ CaVAb is a bacterial voltage-gated calcium channel that serves as an evolutionar
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRGSH</span><span class="topo-outside">MYLRITNIVESSF</span><span class="topo-membrane">FTKFIIYLIVLNGITMGLE</span><span class="topo-inside">TSKTFMQSFG</span></span>
-<span class="topo-line"><span class="topo-inside">VY</span><span class="topo-membrane">TTLFNQIVITIFTIEIILRIY</span><span class="topo-outside">VHRISFFKDP</span><span class="topo-membrane">WSLFDFFVVAISLVP</span><span class="topo-inside">TSSGFEI</span><span class="topo-membrane">LRVLR</span></span>
-<span class="topo-line"><span class="topo-membrane">VLRLFRLVTAV</span><span class="topo-outside">PQMRKIVSALISVIPGM</span><span class="topo-membrane">LSVIALMTLFFYIFAIMA</span><span class="topo-inside">TQLFGERFPEWFGT</span></span>
-<span class="topo-line"><span class="topo-inside">LGES</span><span class="topo-unknown">FYTLFQVMTLDDWS</span><span class="topo-inside">NGIVRPLMEVYPY</span><span class="topo-membrane">AWVFFIPFIFVVTFVMINLV</span><span class="topo-outside">VAIIVDAMA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRGSH</span><span class="topo-outside">MYLRITNIVESSF</span><span class="topo-membrane">FTKFIIYLIVLNGITMGLE</span><span class="topo-inside">TSKTFMQSFGVY</span><span class="topo-membrane">TTLFNQIVITIFTIEIILRIY</span><span class="topo-outside">VHRISFFKDP</span><span class="topo-membrane">WSLFDFFVVAISLVP</span><span class="topo-inside">TSSGFEI</span><span class="topo-membrane">LRVLR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">VLRLFRLVTAV</span><span class="topo-outside">PQMRKIVSALISVIPGM</span><span class="topo-membrane">LSVIALMTLFFYIFAIMA</span><span class="topo-inside">TQLFGERFPEWFGTLGES</span><span class="topo-unknown">FYTLFQVMTLDDWS</span><span class="topo-inside">NGIVRPLMEVYPY</span><span class="topo-membrane">AWVFFIPFIFVVTFVMINLV</span><span class="topo-outside">VAIIVDAMA</span></span>
+<span class="topo-ruler">       250       260       270       280     </span>
 <span class="topo-line"><span class="topo-outside">ILNQKEEQHIIDEVQSHEDNINNEIIKLREEIVELKELIKTSLKN</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3566,6 +3626,7 @@ CaVAb is a bacterial voltage-gated calcium channel that serves as an evolutionar
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3581,11 +3642,13 @@ CaVAb is a bacterial voltage-gated calcium channel that serves as an evolutionar
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRGSH</span><span class="topo-outside">MYLRITNIVESSFFTKFI</span><span class="topo-membrane">IYLIVLNGITMGLETS</span><span class="topo-inside">KTFMQSF</span><span class="topo-membrane">G</span></span>
-<span class="topo-line"><span class="topo-membrane">VYTTLFNQIVITIFTIEI</span><span class="topo-outside">ILRIYVHRISFFKDPWSL</span><span class="topo-membrane">FDFFVVAISLVPTSSG</span><span class="topo-inside">F</span><span class="topo-membrane">EILRVLR</span></span>
-<span class="topo-line"><span class="topo-membrane">VLRLFRLV</span><span class="topo-outside">TAVPQMRKIVSALISVIPGMLSV</span><span class="topo-membrane">IALMTLFFYIFAIMATQL</span><span class="topo-inside">FGERFPEWFGT</span></span>
-<span class="topo-line"><span class="topo-unknown">LGESFYTLFQVMTLDDWS</span><span class="topo-inside">NGIVRPLMEVYPY</span><span class="topo-membrane">AWVFFIPFIFVVTFVMIN</span><span class="topo-outside">LVVAIIVDAMA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRGSH</span><span class="topo-outside">MYLRITNIVESSFFTKFI</span><span class="topo-membrane">IYLIVLNGITMGLETS</span><span class="topo-inside">KTFMQSF</span><span class="topo-membrane">GVYTTLFNQIVITIFTIEI</span><span class="topo-outside">ILRIYVHRISFFKDPWSL</span><span class="topo-membrane">FDFFVVAISLVPTSSG</span><span class="topo-inside">F</span><span class="topo-membrane">EILRVLR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">VLRLFRLV</span><span class="topo-outside">TAVPQMRKIVSALISVIPGMLSV</span><span class="topo-membrane">IALMTLFFYIFAIMATQL</span><span class="topo-inside">FGERFPEWFGT</span><span class="topo-unknown">LGESFYTLFQVMTLDDWS</span><span class="topo-inside">NGIVRPLMEVYPY</span><span class="topo-membrane">AWVFFIPFIFVVTFVMIN</span><span class="topo-outside">LVVAIIVDAMA</span></span>
+<span class="topo-ruler">       250       260       270       280     </span>
 <span class="topo-line"><span class="topo-outside">ILNQKEEQHIIDEVQSHEDNINNEIIKLREEIVELKELIKTSLKN</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3709,6 +3772,7 @@ CaVAb is a bacterial voltage-gated calcium channel that serves as an evolutionar
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3724,11 +3788,13 @@ CaVAb is a bacterial voltage-gated calcium channel that serves as an evolutionar
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRGSH</span><span class="topo-outside">MYLRITNIVESSFF</span><span class="topo-membrane">TKFIIYLIVLNGITMGLE</span><span class="topo-inside">TSKTFMQSFG</span></span>
-<span class="topo-line"><span class="topo-inside">VY</span><span class="topo-membrane">TTLFNQIVITIFTIEIILRI</span><span class="topo-outside">YVHRISFFKDP</span><span class="topo-membrane">WSLFDFFVVAISLVPT</span><span class="topo-inside">SSGFEI</span><span class="topo-membrane">LRVLR</span></span>
-<span class="topo-line"><span class="topo-membrane">VLRLFRLVTAV</span><span class="topo-outside">PQMRKIVSALISVIPGMLSV</span><span class="topo-membrane">IALMTLFFYIFAIMATQL</span><span class="topo-inside">FGERFPEWFGT</span></span>
-<span class="topo-line"><span class="topo-unknown">LGESFYTLFQVMTLDDWS</span><span class="topo-inside">NGIVRPLMEVYPY</span><span class="topo-membrane">AWVFFIPFIFVVTFVMI</span><span class="topo-outside">NLVVAIIVDAMA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRGSH</span><span class="topo-outside">MYLRITNIVESSFF</span><span class="topo-membrane">TKFIIYLIVLNGITMGLE</span><span class="topo-inside">TSKTFMQSFGVY</span><span class="topo-membrane">TTLFNQIVITIFTIEIILRI</span><span class="topo-outside">YVHRISFFKDP</span><span class="topo-membrane">WSLFDFFVVAISLVPT</span><span class="topo-inside">SSGFEI</span><span class="topo-membrane">LRVLR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">VLRLFRLVTAV</span><span class="topo-outside">PQMRKIVSALISVIPGMLSV</span><span class="topo-membrane">IALMTLFFYIFAIMATQL</span><span class="topo-inside">FGERFPEWFGT</span><span class="topo-unknown">LGESFYTLFQVMTLDDWS</span><span class="topo-inside">NGIVRPLMEVYPY</span><span class="topo-membrane">AWVFFIPFIFVVTFVMI</span><span class="topo-outside">NLVVAIIVDAMA</span></span>
+<span class="topo-ruler">       250       260       270       280     </span>
 <span class="topo-line"><span class="topo-outside">ILNQKEEQHIIDEVQSHEDNINNEIIKLREEIVELKELIKTSLKN</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3852,6 +3918,7 @@ CaVAb is a bacterial voltage-gated calcium channel that serves as an evolutionar
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3867,11 +3934,13 @@ CaVAb is a bacterial voltage-gated calcium channel that serves as an evolutionar
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRGSH</span><span class="topo-outside">MYLRITNIVESSFFTKF</span><span class="topo-membrane">IIYLIVLNGITMGLETS</span><span class="topo-inside">KTFMQSF</span><span class="topo-membrane">G</span></span>
-<span class="topo-line"><span class="topo-membrane">VYTTLFNQIVITIFTIEII</span><span class="topo-outside">LRIYVHRISFFKDPWSL</span><span class="topo-membrane">FDFFVVAISLVPTS</span><span class="topo-inside">SGF</span><span class="topo-membrane">EILRVLR</span></span>
-<span class="topo-line"><span class="topo-membrane">VLRLFRLVT</span><span class="topo-outside">AVPQMRKIVSALISVIPGM</span><span class="topo-membrane">LSVIALMTLFFYIFAIMA</span><span class="topo-inside">TQLFGERFPEWFGT</span></span>
-<span class="topo-line"><span class="topo-inside">L</span><span class="topo-unknown">GESFYTLFQVMTLDDWS</span><span class="topo-inside">NGIVRPLMEVYPYAW</span><span class="topo-membrane">VFFIPFIFVVTFVMINLV</span><span class="topo-outside">VAIIVDAMA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRGSH</span><span class="topo-outside">MYLRITNIVESSFFTKF</span><span class="topo-membrane">IIYLIVLNGITMGLETS</span><span class="topo-inside">KTFMQSF</span><span class="topo-membrane">GVYTTLFNQIVITIFTIEII</span><span class="topo-outside">LRIYVHRISFFKDPWSL</span><span class="topo-membrane">FDFFVVAISLVPTS</span><span class="topo-inside">SGF</span><span class="topo-membrane">EILRVLR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">VLRLFRLVT</span><span class="topo-outside">AVPQMRKIVSALISVIPGM</span><span class="topo-membrane">LSVIALMTLFFYIFAIMA</span><span class="topo-inside">TQLFGERFPEWFGTL</span><span class="topo-unknown">GESFYTLFQVMTLDDWS</span><span class="topo-inside">NGIVRPLMEVYPYAW</span><span class="topo-membrane">VFFIPFIFVVTFVMINLV</span><span class="topo-outside">VAIIVDAMA</span></span>
+<span class="topo-ruler">       250       260       270       280     </span>
 <span class="topo-line"><span class="topo-outside">ILNQKEEQHIIDEVQSHEDNINNEIIKLREEIVELKELIKTSLKN</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3995,6 +4064,7 @@ CaVAb is a bacterial voltage-gated calcium channel that serves as an evolutionar
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4010,11 +4080,13 @@ CaVAb is a bacterial voltage-gated calcium channel that serves as an evolutionar
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRGSH</span><span class="topo-outside">MYLRITNIVESSF</span><span class="topo-membrane">FTKFIIYLIVLNGITMGLE</span><span class="topo-inside">TSKTFMQSFG</span></span>
-<span class="topo-line"><span class="topo-inside">VY</span><span class="topo-membrane">TTLFNQIVITIFTIEIILRIY</span><span class="topo-outside">VHRISFFKDP</span><span class="topo-membrane">WSLFDFFVVAISLVP</span><span class="topo-inside">TSSGFEI</span><span class="topo-membrane">LRVLR</span></span>
-<span class="topo-line"><span class="topo-membrane">VLRLFRLVTAV</span><span class="topo-outside">PQMRKIVSALISVIPGM</span><span class="topo-membrane">LSVIALMTLFFYIFAIMA</span><span class="topo-inside">TQLFGERFPEWFGT</span></span>
-<span class="topo-line"><span class="topo-inside">LGES</span><span class="topo-unknown">FYTLFQVMTLDDWS</span><span class="topo-inside">NGIVRPLMEVYPY</span><span class="topo-membrane">AWVFFIPFIFVVTFVMINLV</span><span class="topo-outside">VAIIVDAMA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRGSH</span><span class="topo-outside">MYLRITNIVESSF</span><span class="topo-membrane">FTKFIIYLIVLNGITMGLE</span><span class="topo-inside">TSKTFMQSFGVY</span><span class="topo-membrane">TTLFNQIVITIFTIEIILRIY</span><span class="topo-outside">VHRISFFKDP</span><span class="topo-membrane">WSLFDFFVVAISLVP</span><span class="topo-inside">TSSGFEI</span><span class="topo-membrane">LRVLR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">VLRLFRLVTAV</span><span class="topo-outside">PQMRKIVSALISVIPGM</span><span class="topo-membrane">LSVIALMTLFFYIFAIMA</span><span class="topo-inside">TQLFGERFPEWFGTLGES</span><span class="topo-unknown">FYTLFQVMTLDDWS</span><span class="topo-inside">NGIVRPLMEVYPY</span><span class="topo-membrane">AWVFFIPFIFVVTFVMINLV</span><span class="topo-outside">VAIIVDAMA</span></span>
+<span class="topo-ruler">       250       260       270       280     </span>
 <span class="topo-line"><span class="topo-outside">ILNQKEEQHIIDEVQSHEDNINNEIIKLREEIVELKELIKTSLKN</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4138,6 +4210,7 @@ CaVAb is a bacterial voltage-gated calcium channel that serves as an evolutionar
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4153,11 +4226,13 @@ CaVAb is a bacterial voltage-gated calcium channel that serves as an evolutionar
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRGSH</span><span class="topo-outside">MYLRITNIVESSFFTKFI</span><span class="topo-membrane">IYLIVLNGITMGLETS</span><span class="topo-inside">KTFMQSF</span><span class="topo-membrane">G</span></span>
-<span class="topo-line"><span class="topo-membrane">VYTTLFNQIVITIFTIEI</span><span class="topo-outside">ILRIYVHRISFFKDPWSL</span><span class="topo-membrane">FDFFVVAISLVPTSSG</span><span class="topo-inside">F</span><span class="topo-membrane">EILRVLR</span></span>
-<span class="topo-line"><span class="topo-membrane">VLRLFRLV</span><span class="topo-outside">TAVPQMRKIVSALISVIPGMLSV</span><span class="topo-membrane">IALMTLFFYIFAIMATQL</span><span class="topo-inside">FGERFPEWFGT</span></span>
-<span class="topo-line"><span class="topo-unknown">LGESFYTLFQVMTLDDWS</span><span class="topo-inside">NGIVRPLMEVYPY</span><span class="topo-membrane">AWVFFIPFIFVVTFVMIN</span><span class="topo-outside">LVVAIIVDAMA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MDYKDDDDKGSLVPRGSH</span><span class="topo-outside">MYLRITNIVESSFFTKFI</span><span class="topo-membrane">IYLIVLNGITMGLETS</span><span class="topo-inside">KTFMQSF</span><span class="topo-membrane">GVYTTLFNQIVITIFTIEI</span><span class="topo-outside">ILRIYVHRISFFKDPWSL</span><span class="topo-membrane">FDFFVVAISLVPTSSG</span><span class="topo-inside">F</span><span class="topo-membrane">EILRVLR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">VLRLFRLV</span><span class="topo-outside">TAVPQMRKIVSALISVIPGMLSV</span><span class="topo-membrane">IALMTLFFYIFAIMATQL</span><span class="topo-inside">FGERFPEWFGT</span><span class="topo-unknown">LGESFYTLFQVMTLDDWS</span><span class="topo-inside">NGIVRPLMEVYPY</span><span class="topo-membrane">AWVFFIPFIFVVTFVMIN</span><span class="topo-outside">LVVAIIVDAMA</span></span>
+<span class="topo-ruler">       250       260       270       280     </span>
 <span class="topo-line"><span class="topo-outside">ILNQKEEQHIIDEVQSHEDNINNEIIKLREEIVELKELIKTSLKN</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4281,6 +4356,7 @@ CaVAb is a bacterial voltage-gated calcium channel that serves as an evolutionar
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

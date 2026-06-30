@@ -115,12 +115,13 @@ The human complement C5a receptor 1 (C5aR1, also known as CD88) is a class A G p
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">NTLRVPDIL</span><span class="topo-membrane">ALVIFAVVFLVGVLGNALVVWVTA</span><span class="topo-outside">FEAKRTINAI</span><span class="topo-membrane">WFLNLAVADFLACLAL</span></span>
-<span class="topo-line"><span class="topo-membrane">PALF</span><span class="topo-inside">TSIVQHHHWPFGGA</span><span class="topo-membrane">ACSILPSLILLNMYASILLLATIS</span><span class="topo-outside">ADRFLLVFKPAWCQRFRG</span></span>
-<span class="topo-line"><span class="topo-outside">AGLAW</span><span class="topo-membrane">ILCAVAWGLALLLTIPSALYR</span><span class="topo-inside">VVREEYFPPKVLCGVD</span><span class="topo-unknown">YS</span><span class="topo-inside">HDKRR</span><span class="topo-membrane">ERAVAIVRLVL</span></span>
-<span class="topo-line"><span class="topo-membrane">GFLWPLLTLTIC</span><span class="topo-outside">YTFILLRTWSARETRSTKTLKV</span><span class="topo-membrane">VVAVVASFFIFWLPYQVTGIM</span><span class="topo-inside">MSFLE</span></span>
-<span class="topo-line"><span class="topo-inside">PSS</span><span class="topo-unknown">PTFLLLKK</span><span class="topo-inside">L</span><span class="topo-membrane">DSLCVSFAYINCCINPIIYVVA</span><span class="topo-outside">GQGFQ</span><span class="topo-unknown">GRER</span><span class="topo-outside">KS</span><span class="topo-unknown">LPELLREVL</span><span class="topo-outside">TEESVV</span></span>
-<span class="topo-line"><span class="topo-outside">R</span><span class="topo-unknown">ESKAAAHHHHHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">NTLRVPDIL</span><span class="topo-membrane">ALVIFAVVFLVGVLGNALVVWVTA</span><span class="topo-outside">FEAKRTINAI</span><span class="topo-membrane">WFLNLAVADFLACLALPALF</span><span class="topo-inside">TSIVQHHHWPFGGA</span><span class="topo-membrane">ACSILPSLILLNMYASILLLATIS</span><span class="topo-outside">ADRFLLVFKPAWCQRFRG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">AGLAW</span><span class="topo-membrane">ILCAVAWGLALLLTIPSALYR</span><span class="topo-inside">VVREEYFPPKVLCGVD</span><span class="topo-unknown">YS</span><span class="topo-inside">HDKRR</span><span class="topo-membrane">ERAVAIVRLVLGFLWPLLTLTIC</span><span class="topo-outside">YTFILLRTWSARETRSTKTLKV</span><span class="topo-membrane">VVAVVASFFIFWLPYQVTGIM</span><span class="topo-inside">MSFLE</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       </span>
+<span class="topo-line"><span class="topo-inside">PSS</span><span class="topo-unknown">PTFLLLKK</span><span class="topo-inside">L</span><span class="topo-membrane">DSLCVSFAYINCCINPIIYVVA</span><span class="topo-outside">GQGFQ</span><span class="topo-unknown">GRER</span><span class="topo-outside">KS</span><span class="topo-unknown">LPELLREVL</span><span class="topo-outside">TEESVVR</span><span class="topo-unknown">ESKAAAHHHHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -279,6 +280,7 @@ The human complement C5a receptor 1 (C5aR1, also known as CD88) is a class A G p
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -286,7 +288,6 @@ The human complement C5a receptor 1 (C5aR1, also known as CD88) is a class A G p
 <div class="sequence-entry" markdown="1">
 **PDB <a class="pdb-link" href="https://www.rcsb.org/structure/5o9h">5O9H</a> — Chain B (7 TMs, alpha)**
 
-<<<<<<< HEAD
 <div class="sequence-display">
 <div class="topo-legend">
 <span class="topo-membrane-legend">&#9608; TM Helix</span>
@@ -295,12 +296,13 @@ The human complement C5a receptor 1 (C5aR1, also known as CD88) is a class A G p
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">NTLR</span><span class="topo-membrane">VPDILALVIFAVVFLVGVLGNAL</span><span class="topo-outside">VVWVTAFEAKRTINAIWFLN</span><span class="topo-membrane">LAVADFLACLAL</span></span>
-<span class="topo-line"><span class="topo-membrane">PALFTSIV</span><span class="topo-inside">QHHHWPF</span><span class="topo-membrane">GGAACSILPSLILLNMYASILLLA</span><span class="topo-outside">TISADRFLLVFKPAWCQRFRG</span></span>
-<span class="topo-line"><span class="topo-outside">AGLAWILC</span><span class="topo-membrane">AVAWGLALLLTIPSALYRV</span><span class="topo-inside">VREEYFPPKVLCGVDYSHDKR</span><span class="topo-membrane">RERAVAIVRLVL</span></span>
-<span class="topo-line"><span class="topo-membrane">GFLWPLLTLT</span><span class="topo-outside">ICYTFILLRTWSARETRSTKTLKVVVAV</span><span class="topo-membrane">VASFFIFWLPYQVTGIMMSFL</span><span class="topo-inside">E</span></span>
-<span class="topo-line"><span class="topo-inside">PSSPTFLL</span><span class="topo-membrane">LKKLDSLCVSFAYINCCINPII</span><span class="topo-outside">YVVAGQ</span><span class="topo-unknown">GFQGRE</span><span class="topo-outside">RKS</span><span class="topo-unknown">LPELLREVL</span><span class="topo-outside">TEESVV</span></span>
-<span class="topo-line"><span class="topo-outside">RE</span><span class="topo-unknown">SKAAAHHHHHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">NTLR</span><span class="topo-membrane">VPDILALVIFAVVFLVGVLGNAL</span><span class="topo-outside">VVWVTAFEAKRTINAIWFLN</span><span class="topo-membrane">LAVADFLACLALPALFTSIV</span><span class="topo-inside">QHHHWPF</span><span class="topo-membrane">GGAACSILPSLILLNMYASILLLA</span><span class="topo-outside">TISADRFLLVFKPAWCQRFRG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">AGLAWILC</span><span class="topo-membrane">AVAWGLALLLTIPSALYRV</span><span class="topo-inside">VREEYFPPKVLCGVDYSHDKR</span><span class="topo-membrane">RERAVAIVRLVLGFLWPLLTLT</span><span class="topo-outside">ICYTFILLRTWSARETRSTKTLKVVVAV</span><span class="topo-membrane">VASFFIFWLPYQVTGIMMSFL</span><span class="topo-inside">E</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       </span>
+<span class="topo-line"><span class="topo-inside">PSSPTFLL</span><span class="topo-membrane">LKKLDSLCVSFAYINCCINPII</span><span class="topo-outside">YVVAGQ</span><span class="topo-unknown">GFQGRE</span><span class="topo-outside">RKS</span><span class="topo-unknown">LPELLREVL</span><span class="topo-outside">TEESVVRE</span><span class="topo-unknown">SKAAAHHHHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -438,45 +440,15 @@ The human complement C5a receptor 1 (C5aR1, also known as CD88) is a class A G p
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
-=======
-##### Steps
-
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Cell lysis | Osmotic shock |  | 10 mM [Tris (Tris-HCl Buffer)](/xray-mp-wiki/reagents/buffers/tris/) pH 7.5, 150 ug/ml [Benzamidine](/xray-mp-wiki/reagents/ligands/benzamidine/), 0.2 ug/ml leupeptin, 2 mg/ml [Iodoacetamide](/xray-mp-wiki/reagents/additives/iodoacetamide/) | Sf9 cells lysed by osmotic shock; membrane fractions collected at 25,000g for 30 min at 4 C |
-| Solubilization | Detergent solubilization |  | 20 mM [HEPES Buffer](/xray-mp-wiki/reagents/buffers/hepes/) pH 7.8, 750 mM NaCl, 20% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/), 150 ug/ml [Benzamidine](/xray-mp-wiki/reagents/ligands/benzamidine/), 0.2 ug/ml leupeptin, 2 mg/ml [Iodoacetamide](/xray-mp-wiki/reagents/additives/iodoacetamide/), 5 U Salt Active Nuclease + 1% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.2% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 0.2% cholate | 2 h at 4 C; all steps in presence of 100 [NM](/xray-mp-wiki/reagents/detergents/nm/) [NDT9513727](/xray-mp-wiki/reagents/ligands/ndt9513727/) (or avacopan) and 100 [NM](/xray-mp-wiki/reagents/detergents/nm/) PMX53 |
-| Affinity chromatography (Ni-NTA) | Immobilized metal [affinity chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | [Ni-NTA Agarose Resin](/xray-mp-wiki/reagents/additives/nickel-nta/) agarose | 20 mM [HEPES Buffer](/xray-mp-wiki/reagents/buffers/hepes/) pH 7.5, 500 mM NaCl, 0.1% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.02% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 150 ug/ml [Benzamidine](/xray-mp-wiki/reagents/ligands/benzamidine/), 0.2 ug/ml leupeptin, 20 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) + 0.1% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.02% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | Batch binding for 2 h at 4 C; washed three times |
-| Affinity chromatography (anti-Flag M1) | Anti-[FLAG](/xray-mp-wiki/reagents/protein-tags/flag-tag/) M1 [affinity chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | Anti-[FLAG](/xray-mp-wiki/reagents/protein-tags/flag-tag/) M1 antibody resin (homemade) | 20 mM [HEPES Buffer](/xray-mp-wiki/reagents/buffers/hepes/) pH 7.5, 100 mM NaCl, 0.01% MNG, 0.001% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 200 ug/ml [FLAG](/xray-mp-wiki/reagents/protein-tags/flag-tag/) peptide, 5 mM [EDTA](/xray-mp-wiki/reagents/additives/edta/) + 0.01% MNG, 0.001% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | Detergent exchanged from [DDM](/xray-mp-wiki/reagents/detergents/ddm/) to MNG on the M1 resin; eluted with [FLAG](/xray-mp-wiki/reagents/protein-tags/flag-tag/) peptide and [EDTA](/xray-mp-wiki/reagents/additives/edta/) |
-| TEV cleavage | Overnight [TEV](/xray-mp-wiki/reagents/enzymes/tev-protease/) protease digestion |  | 20 mM [HEPES Buffer](/xray-mp-wiki/reagents/buffers/hepes/) pH 7.5, 100 mM NaCl, 0.01% MNG, 0.001% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) + 0.01% MNG, 0.001% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | [TEV](/xray-mp-wiki/reagents/enzymes/tev-protease/) protease (homemade); 4 C overnight |
-| Size exclusion chromatography | [SEC](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) | [Superdex 200](/xray-mp-wiki/reagents/additives/superdex-200/) Increase (GE Healthcare) | 20 mM [HEPES Buffer](/xray-mp-wiki/reagents/buffers/hepes/) pH 7.5, 100 mM NaCl, 0.01% MNG, 0.001% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) + 0.01% MNG, 0.001% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | Monodisperse receptor obtained; concentrated to 40-50 mg/ml with ligands at 10 uM each |
-
-
-## Crystallization
-
-### doi/10.1038##nature25025
-
-| Parameter | Value |
-|---|---|
-| Method | [LCP](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) (LCP) |
-| Protein sample | C5aR1 StaR with [NDT9513727](/xray-mp-wiki/reagents/ligands/ndt9513727/) |
-| Notes | Two-syringe mixing method; [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) used as lipid; 11 crystals used for data collection |
->>>>>>> d0e2c437136bdf2885afc6a99e0a9d4117821696
 
 </div>
 ### doi/10.1038##s41594-018-0067-z
 
-<<<<<<< HEAD
 **Structures:**
-=======
-| Parameter | Value |
-|---|---|
-| Method | Lipidic mesophase ([LCP](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/)) |
-| Protein sample | [BRIL (Thermostabilized Apocytochrome b562RIL)](/xray-mp-wiki/reagents/protein-tags/bril/)-C5aR with PMX53 and [NDT9513727](/xray-mp-wiki/reagents/ligands/ndt9513727/) (or avacopan) |
-| Notes | Protein mixed with [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/); crystals grown in lipidic mesophase |
->>>>>>> d0e2c437136bdf2885afc6a99e0a9d4117821696
 
 <table class="wiki-table">
   <thead><tr>
@@ -598,14 +570,15 @@ The human complement C5a receptor 1 (C5aR1, also known as CD88) is a class A G p
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">DYKDDDDVDA</span><span class="topo-inside">DLEDNWETLNDNLKVIEKADNAAQVKDALTKMRAAALDA</span><span class="topo-unknown">QKATPPKLEDK</span></span>
-<span class="topo-line"><span class="topo-unknown">SPD</span><span class="topo-inside">SPEMKDFRHGFDILVGQIDDALKLANEGKVKEAQAAAEQLKTTRNAYIQKY</span><span class="topo-unknown">LSN</span><span class="topo-inside">TLR</span></span>
-<span class="topo-line"><span class="topo-inside">V</span><span class="topo-membrane">PDILALVIFAVVFLVGVLGNALVVWVTA</span><span class="topo-outside">FEAKRTINAI</span><span class="topo-membrane">WFLNLAVADFLSCLALPILFT</span></span>
-<span class="topo-line"><span class="topo-membrane">SIV</span><span class="topo-inside">QHHHWPFGG</span><span class="topo-membrane">AACSILPSLILLNMYASILLLATISA</span><span class="topo-outside">DRFLLVFKPIWCQNFRGAGLAW</span></span>
-<span class="topo-line"><span class="topo-membrane">IACAVAWGLALLLTIPSFLYR</span><span class="topo-inside">VVREEYFPPKVLCGVDYSHDKR</span><span class="topo-membrane">RERAVAIVRLVLGFLWP</span></span>
-<span class="topo-line"><span class="topo-membrane">LLTLTICYT</span><span class="topo-outside">FILLRTWSR</span><span class="topo-unknown">RATR</span><span class="topo-outside">STKTLK</span><span class="topo-membrane">VVVAVVASFFIFWLPYQVTGIMMSF</span><span class="topo-inside">LEPSS</span><span class="topo-unknown">PT</span></span>
-<span class="topo-line"><span class="topo-unknown">FLLLKKL</span><span class="topo-membrane">DSLCVSFAYINCCINPIIYVVAGQ</span><span class="topo-outside">GFQ</span><span class="topo-unknown">GRLRK</span><span class="topo-outside">S</span><span class="topo-unknown">LPSLLRNV</span><span class="topo-outside">LT</span><span class="topo-unknown">EESVVRENLY</span></span>
-<span class="topo-line"><span class="topo-unknown">FQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">DYKDDDDVDA</span><span class="topo-inside">DLEDNWETLNDNLKVIEKADNAAQVKDALTKMRAAALDA</span><span class="topo-unknown">QKATPPKLEDKSPD</span><span class="topo-inside">SPEMKDFRHGFDILVGQIDDALKLANEGKVKEAQAAAEQLKTTRNAYIQKY</span><span class="topo-unknown">LSN</span><span class="topo-inside">TLR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">V</span><span class="topo-membrane">PDILALVIFAVVFLVGVLGNALVVWVTA</span><span class="topo-outside">FEAKRTINAI</span><span class="topo-membrane">WFLNLAVADFLSCLALPILFTSIV</span><span class="topo-inside">QHHHWPFGG</span><span class="topo-membrane">AACSILPSLILLNMYASILLLATISA</span><span class="topo-outside">DRFLLVFKPIWCQNFRGAGLAW</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">IACAVAWGLALLLTIPSFLYR</span><span class="topo-inside">VVREEYFPPKVLCGVDYSHDKR</span><span class="topo-membrane">RERAVAIVRLVLGFLWPLLTLTICYT</span><span class="topo-outside">FILLRTWSR</span><span class="topo-unknown">RATR</span><span class="topo-outside">STKTLK</span><span class="topo-membrane">VVVAVVASFFIFWLPYQVTGIMMSF</span><span class="topo-inside">LEPSS</span><span class="topo-unknown">PT</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420  </span>
+<span class="topo-line"><span class="topo-unknown">FLLLKKL</span><span class="topo-membrane">DSLCVSFAYINCCINPIIYVVAGQ</span><span class="topo-outside">GFQ</span><span class="topo-unknown">GRLRK</span><span class="topo-outside">S</span><span class="topo-unknown">LPSLLRNV</span><span class="topo-outside">LT</span><span class="topo-unknown">EESVVRENLYFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (22 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -771,6 +744,7 @@ The human complement C5a receptor 1 (C5aR1, also known as CD88) is a class A G p
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -786,14 +760,15 @@ The human complement C5a receptor 1 (C5aR1, also known as CD88) is a class A G p
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">DYKDDDDVDAD</span><span class="topo-outside">LEDNWETLNDNLKVIEKADNAAQVKDALTKMRAAALDA</span><span class="topo-unknown">QKATPPKLEDK</span></span>
-<span class="topo-line"><span class="topo-unknown">SPDSPEM</span><span class="topo-outside">KDFRHGFDILVGQIDDALKLANEGKVKEAQAAAEQLKTTRNAY</span><span class="topo-unknown">IQKYL</span><span class="topo-outside">SNTLR</span></span>
-<span class="topo-line"><span class="topo-outside">V</span><span class="topo-membrane">PDILALVIFAVVFLVGVLGNALVVWV</span><span class="topo-inside">TAFEAKRTINAIW</span><span class="topo-membrane">FLNLAVADFLSCLALPILFT</span></span>
-<span class="topo-line"><span class="topo-membrane">SIV</span><span class="topo-outside">QHHHWPF</span><span class="topo-membrane">GGAACSILPSLILLNMYASILLLATIS</span><span class="topo-inside">ADRFLLVFKPIWCQNFRGAGLAW</span></span>
-<span class="topo-line"><span class="topo-inside">I</span><span class="topo-membrane">ACAVAWGLALLLTIPSFLYRV</span><span class="topo-outside">VREEYFPPKVLCGVDYSHDK</span><span class="topo-membrane">RRERAVAIVRLVLGFLWP</span></span>
-<span class="topo-line"><span class="topo-membrane">LLTLTICYT</span><span class="topo-inside">FILLRTWSRR</span><span class="topo-unknown">ATR</span><span class="topo-inside">STKTLKV</span><span class="topo-membrane">VVAVVASFFIFWLPYQVTGIMMSFL</span><span class="topo-outside">EPSS</span><span class="topo-unknown">PT</span></span>
-<span class="topo-line"><span class="topo-unknown">FLLLKK</span><span class="topo-outside">L</span><span class="topo-membrane">DSLCVSFAYINCCINPIIYVVA</span><span class="topo-inside">GQGF</span><span class="topo-unknown">QGRLR</span><span class="topo-inside">KS</span><span class="topo-unknown">LPSLLRNVL</span><span class="topo-inside">TEES</span><span class="topo-unknown">VVRENLY</span></span>
-<span class="topo-line"><span class="topo-unknown">FQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">DYKDDDDVDAD</span><span class="topo-outside">LEDNWETLNDNLKVIEKADNAAQVKDALTKMRAAALDA</span><span class="topo-unknown">QKATPPKLEDKSPDSPEM</span><span class="topo-outside">KDFRHGFDILVGQIDDALKLANEGKVKEAQAAAEQLKTTRNAY</span><span class="topo-unknown">IQKYL</span><span class="topo-outside">SNTLR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">V</span><span class="topo-membrane">PDILALVIFAVVFLVGVLGNALVVWV</span><span class="topo-inside">TAFEAKRTINAIW</span><span class="topo-membrane">FLNLAVADFLSCLALPILFTSIV</span><span class="topo-outside">QHHHWPF</span><span class="topo-membrane">GGAACSILPSLILLNMYASILLLATIS</span><span class="topo-inside">ADRFLLVFKPIWCQNFRGAGLAW</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">I</span><span class="topo-membrane">ACAVAWGLALLLTIPSFLYRV</span><span class="topo-outside">VREEYFPPKVLCGVDYSHDK</span><span class="topo-membrane">RRERAVAIVRLVLGFLWPLLTLTICYT</span><span class="topo-inside">FILLRTWSRR</span><span class="topo-unknown">ATR</span><span class="topo-inside">STKTLKV</span><span class="topo-membrane">VVAVVASFFIFWLPYQVTGIMMSFL</span><span class="topo-outside">EPSS</span><span class="topo-unknown">PT</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420  </span>
+<span class="topo-line"><span class="topo-unknown">FLLLKK</span><span class="topo-outside">L</span><span class="topo-membrane">DSLCVSFAYINCCINPIIYVVA</span><span class="topo-inside">GQGF</span><span class="topo-unknown">QGRLR</span><span class="topo-inside">KS</span><span class="topo-unknown">LPSLLRNVL</span><span class="topo-inside">TEES</span><span class="topo-unknown">VVRENLYFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (23 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -966,6 +941,7 @@ The human complement C5a receptor 1 (C5aR1, also known as CD88) is a class A G p
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

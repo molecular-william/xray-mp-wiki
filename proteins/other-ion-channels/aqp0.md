@@ -143,11 +143,13 @@ Aquaporin 0 (AQP0) is the major integral membrane protein of the vertebrate lens
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MWELR</span><span class="topo-inside">SASFW</span><span class="topo-membrane">RAICAEFFASLFYVFFGLGA</span><span class="topo-outside">SLRWA</span><span class="topo-unknown">P</span><span class="topo-outside">GPLHVL</span><span class="topo-membrane">QVALAFGLALATLVQAVG</span></span>
-<span class="topo-line"><span class="topo-inside">HI</span><span class="topo-unknown">SGAHVNPAVTFAFLVG</span><span class="topo-inside">SQMSL</span><span class="topo-membrane">LRAICYMVAQLLGAVAGAAVLYSV</span><span class="topo-outside">TPPAVRGNLALNT</span></span>
-<span class="topo-line"><span class="topo-outside">LHPGVSVG</span><span class="topo-membrane">QATIVEIFLTLQFVLCIFATY</span><span class="topo-inside">DERRNGRL</span><span class="topo-membrane">GSVALAVGFSLTLGHLFGM</span><span class="topo-outside">YYT</span><span class="topo-unknown">G</span></span>
-<span class="topo-line"><span class="topo-unknown">AGMNPARSFAPAIL</span><span class="topo-outside">TRNFTNH</span><span class="topo-membrane">WVYWVGPVIGAGLGSLLYDFLL</span><span class="topo-inside">FPRLKSVSERLSILKG</span><span class="topo-unknown">S</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MWELR</span><span class="topo-inside">SASFW</span><span class="topo-membrane">RAICAEFFASLFYVFFGLGA</span><span class="topo-outside">SLRWA</span><span class="topo-unknown">P</span><span class="topo-outside">GPLHVL</span><span class="topo-membrane">QVALAFGLALATLVQAVG</span><span class="topo-inside">HI</span><span class="topo-unknown">SGAHVNPAVTFAFLVG</span><span class="topo-inside">SQMSL</span><span class="topo-membrane">LRAICYMVAQLLGAVAGAAVLYSV</span><span class="topo-outside">TPPAVRGNLALNT</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">LHPGVSVG</span><span class="topo-membrane">QATIVEIFLTLQFVLCIFATY</span><span class="topo-inside">DERRNGRL</span><span class="topo-membrane">GSVALAVGFSLTLGHLFGM</span><span class="topo-outside">YYT</span><span class="topo-unknown">GAGMNPARSFAPAIL</span><span class="topo-outside">TRNFTNH</span><span class="topo-membrane">WVYWVGPVIGAGLGSLLYDFLL</span><span class="topo-inside">FPRLKSVSERLSILKG</span><span class="topo-unknown">S</span></span>
+<span class="topo-ruler">       250       260   </span>
 <span class="topo-line"><span class="topo-unknown">RPSESNGQPEVTGEPVELKTQAL</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -306,6 +308,7 @@ Aquaporin 0 (AQP0) is the major integral membrane protein of the vertebrate lens
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -321,11 +324,13 @@ Aquaporin 0 (AQP0) is the major integral membrane protein of the vertebrate lens
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MWELR</span><span class="topo-inside">SASFW</span><span class="topo-membrane">RAICAEFFASLFYVFFGLGA</span><span class="topo-outside">SLRWA</span><span class="topo-unknown">P</span><span class="topo-outside">GPLHVL</span><span class="topo-membrane">QVALAFGLALATLVQAVG</span></span>
-<span class="topo-line"><span class="topo-inside">HI</span><span class="topo-unknown">SGAHVNPAVTFAFLVG</span><span class="topo-inside">SQMSL</span><span class="topo-membrane">LRAICYMVAQLLGAVAGAAVLYSV</span><span class="topo-outside">TPPAVRGNLALNT</span></span>
-<span class="topo-line"><span class="topo-outside">LHPGVSVG</span><span class="topo-membrane">QATIVEIFLTLQFVLCIFATY</span><span class="topo-inside">DERRNGRL</span><span class="topo-membrane">GSVALAVGFSLTLGHLFGM</span><span class="topo-outside">YYT</span><span class="topo-unknown">G</span></span>
-<span class="topo-line"><span class="topo-unknown">AGMNPARSFAPAIL</span><span class="topo-outside">TRNFTNH</span><span class="topo-membrane">WVYWVGPVIGAGLGSLLYDFLL</span><span class="topo-inside">FPRLKSVSERLSILKG</span><span class="topo-unknown">S</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MWELR</span><span class="topo-inside">SASFW</span><span class="topo-membrane">RAICAEFFASLFYVFFGLGA</span><span class="topo-outside">SLRWA</span><span class="topo-unknown">P</span><span class="topo-outside">GPLHVL</span><span class="topo-membrane">QVALAFGLALATLVQAVG</span><span class="topo-inside">HI</span><span class="topo-unknown">SGAHVNPAVTFAFLVG</span><span class="topo-inside">SQMSL</span><span class="topo-membrane">LRAICYMVAQLLGAVAGAAVLYSV</span><span class="topo-outside">TPPAVRGNLALNT</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">LHPGVSVG</span><span class="topo-membrane">QATIVEIFLTLQFVLCIFATY</span><span class="topo-inside">DERRNGRL</span><span class="topo-membrane">GSVALAVGFSLTLGHLFGM</span><span class="topo-outside">YYT</span><span class="topo-unknown">GAGMNPARSFAPAIL</span><span class="topo-outside">TRNFTNH</span><span class="topo-membrane">WVYWVGPVIGAGLGSLLYDFLL</span><span class="topo-inside">FPRLKSVSERLSILKG</span><span class="topo-unknown">S</span></span>
+<span class="topo-ruler">       250       260   </span>
 <span class="topo-line"><span class="topo-unknown">RPSESNGQPEVTGEPVELKTQAL</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -484,6 +489,7 @@ Aquaporin 0 (AQP0) is the major integral membrane protein of the vertebrate lens
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -499,11 +505,13 @@ Aquaporin 0 (AQP0) is the major integral membrane protein of the vertebrate lens
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MWELR</span><span class="topo-inside">SASFW</span><span class="topo-membrane">RAICAEFFASLFYVFFGLGA</span><span class="topo-outside">SLRWA</span><span class="topo-unknown">P</span><span class="topo-outside">GPLHVL</span><span class="topo-membrane">QVALAFGLALATLVQAVG</span></span>
-<span class="topo-line"><span class="topo-inside">HI</span><span class="topo-unknown">SGAHVNPAVTFAFLVG</span><span class="topo-inside">SQMSL</span><span class="topo-membrane">LRAICYMVAQLLGAVAGAAVLYSV</span><span class="topo-outside">TPPAVRGNLALNT</span></span>
-<span class="topo-line"><span class="topo-outside">LHPGVSVG</span><span class="topo-membrane">QATIVEIFLTLQFVLCIFATY</span><span class="topo-inside">DERRNGRL</span><span class="topo-membrane">GSVALAVGFSLTLGHLFGM</span><span class="topo-outside">YYT</span><span class="topo-unknown">G</span></span>
-<span class="topo-line"><span class="topo-unknown">AGMNPARSFAPAIL</span><span class="topo-outside">TRNFTNH</span><span class="topo-membrane">WVYWVGPVIGAGLGSLLYDFLL</span><span class="topo-inside">FPRLKSVSERLSILKG</span><span class="topo-unknown">S</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MWELR</span><span class="topo-inside">SASFW</span><span class="topo-membrane">RAICAEFFASLFYVFFGLGA</span><span class="topo-outside">SLRWA</span><span class="topo-unknown">P</span><span class="topo-outside">GPLHVL</span><span class="topo-membrane">QVALAFGLALATLVQAVG</span><span class="topo-inside">HI</span><span class="topo-unknown">SGAHVNPAVTFAFLVG</span><span class="topo-inside">SQMSL</span><span class="topo-membrane">LRAICYMVAQLLGAVAGAAVLYSV</span><span class="topo-outside">TPPAVRGNLALNT</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">LHPGVSVG</span><span class="topo-membrane">QATIVEIFLTLQFVLCIFATY</span><span class="topo-inside">DERRNGRL</span><span class="topo-membrane">GSVALAVGFSLTLGHLFGM</span><span class="topo-outside">YYT</span><span class="topo-unknown">GAGMNPARSFAPAIL</span><span class="topo-outside">TRNFTNH</span><span class="topo-membrane">WVYWVGPVIGAGLGSLLYDFLL</span><span class="topo-inside">FPRLKSVSERLSILKG</span><span class="topo-unknown">S</span></span>
+<span class="topo-ruler">       250       260   </span>
 <span class="topo-line"><span class="topo-unknown">RPSESNGQPEVTGEPVELKTQAL</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -662,6 +670,7 @@ Aquaporin 0 (AQP0) is the major integral membrane protein of the vertebrate lens
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -677,11 +686,13 @@ Aquaporin 0 (AQP0) is the major integral membrane protein of the vertebrate lens
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MWELR</span><span class="topo-inside">SASFW</span><span class="topo-membrane">RAICAEFFASLFYVFFGLGA</span><span class="topo-outside">SLRWA</span><span class="topo-unknown">P</span><span class="topo-outside">GPLHVL</span><span class="topo-membrane">QVALAFGLALATLVQAVG</span></span>
-<span class="topo-line"><span class="topo-inside">HI</span><span class="topo-unknown">SGAHVNPAVTFAFLVG</span><span class="topo-inside">SQMSL</span><span class="topo-membrane">LRAICYMVAQLLGAVAGAAVLYSV</span><span class="topo-outside">TPPAVRGNLALNT</span></span>
-<span class="topo-line"><span class="topo-outside">LHPGVSVG</span><span class="topo-membrane">QATIVEIFLTLQFVLCIFATY</span><span class="topo-inside">DERRNGRL</span><span class="topo-membrane">GSVALAVGFSLTLGHLFGM</span><span class="topo-outside">YYT</span><span class="topo-unknown">G</span></span>
-<span class="topo-line"><span class="topo-unknown">AGMNPARSFAPAIL</span><span class="topo-outside">TRNFTNH</span><span class="topo-membrane">WVYWVGPVIGAGLGSLLYDFLL</span><span class="topo-inside">FPRLKSVSERLSILKG</span><span class="topo-unknown">S</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MWELR</span><span class="topo-inside">SASFW</span><span class="topo-membrane">RAICAEFFASLFYVFFGLGA</span><span class="topo-outside">SLRWA</span><span class="topo-unknown">P</span><span class="topo-outside">GPLHVL</span><span class="topo-membrane">QVALAFGLALATLVQAVG</span><span class="topo-inside">HI</span><span class="topo-unknown">SGAHVNPAVTFAFLVG</span><span class="topo-inside">SQMSL</span><span class="topo-membrane">LRAICYMVAQLLGAVAGAAVLYSV</span><span class="topo-outside">TPPAVRGNLALNT</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">LHPGVSVG</span><span class="topo-membrane">QATIVEIFLTLQFVLCIFATY</span><span class="topo-inside">DERRNGRL</span><span class="topo-membrane">GSVALAVGFSLTLGHLFGM</span><span class="topo-outside">YYT</span><span class="topo-unknown">GAGMNPARSFAPAIL</span><span class="topo-outside">TRNFTNH</span><span class="topo-membrane">WVYWVGPVIGAGLGSLLYDFLL</span><span class="topo-inside">FPRLKSVSERLSILKG</span><span class="topo-unknown">S</span></span>
+<span class="topo-ruler">       250       260   </span>
 <span class="topo-line"><span class="topo-unknown">RPSESNGQPEVTGEPVELKTQAL</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -840,6 +851,7 @@ Aquaporin 0 (AQP0) is the major integral membrane protein of the vertebrate lens
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

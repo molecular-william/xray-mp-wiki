@@ -128,15 +128,17 @@ NTSR1-EL is a constitutively active mutant of the rat [Neurotensin](/xray-mp-wik
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">DYKDDDDATS</span><span class="topo-inside">TSESDTAGPNSDLDVNTDIY</span><span class="topo-membrane">SKVLVTAIYLALFVVGTVGNSVTLFTLA</span><span class="topo-outside">R</span><span class="topo-unknown">K</span></span>
-<span class="topo-line"><span class="topo-unknown">KSLQSLQ</span><span class="topo-outside">STVHY</span><span class="topo-membrane">HLGSLALSDLLILLLAMPVELYNFIW</span><span class="topo-inside">VHHPWAFGD</span><span class="topo-membrane">AGCRGYYFLRDAC</span></span>
-<span class="topo-line"><span class="topo-membrane">TYATALNVASLS</span><span class="topo-outside">VERYLAICHPFKAKTLMSRSRTKK</span><span class="topo-membrane">FISAIWLASALLAIPMLFTMG</span><span class="topo-inside">LQN</span></span>
-<span class="topo-line"><span class="topo-inside">RSADGTHPGGLVCTPIVDT</span><span class="topo-membrane">ATVKVVIQVNTFMSFLFPMLVISIL</span><span class="topo-outside">NTVIANKLTVMVNIFE</span></span>
-<span class="topo-line"><span class="topo-outside">MLRIDEGLRLKIYKDTEGYYTIGIGHLLTKSPSLNAAKSELDKAIGRNTNGVITKDEAEK</span></span>
-<span class="topo-line"><span class="topo-outside">LFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVFQMGETGVAGFTNSLRMLNNKR</span></span>
-<span class="topo-line"><span class="topo-outside">WDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWDAYGSGSPGRVQALRHGVL</span><span class="topo-membrane">VLRAVVIA</span></span>
-<span class="topo-line"><span class="topo-membrane">FVVCWLPYHVRRLMFCYI</span><span class="topo-inside">SDEQWTTFLFDF</span><span class="topo-membrane">YHYFYMLTNALAYASSAINPILYN</span><span class="topo-outside">LV</span><span class="topo-unknown">SANF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">DYKDDDDATS</span><span class="topo-inside">TSESDTAGPNSDLDVNTDIY</span><span class="topo-membrane">SKVLVTAIYLALFVVGTVGNSVTLFTLA</span><span class="topo-outside">R</span><span class="topo-unknown">KKSLQSLQ</span><span class="topo-outside">STVHY</span><span class="topo-membrane">HLGSLALSDLLILLLAMPVELYNFIW</span><span class="topo-inside">VHHPWAFGD</span><span class="topo-membrane">AGCRGYYFLRDAC</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">TYATALNVASLS</span><span class="topo-outside">VERYLAICHPFKAKTLMSRSRTKK</span><span class="topo-membrane">FISAIWLASALLAIPMLFTMG</span><span class="topo-inside">LQNRSADGTHPGGLVCTPIVDT</span><span class="topo-membrane">ATVKVVIQVNTFMSFLFPMLVISIL</span><span class="topo-outside">NTVIANKLTVMVNIFE</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">MLRIDEGLRLKIYKDTEGYYTIGIGHLLTKSPSLNAAKSELDKAIGRNTNGVITKDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVFQMGETGVAGFTNSLRMLNNKR</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">WDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWDAYGSGSPGRVQALRHGVL</span><span class="topo-membrane">VLRAVVIAFVVCWLPYHVRRLMFCYI</span><span class="topo-inside">SDEQWTTFLFDF</span><span class="topo-membrane">YHYFYMLTNALAYASSAINPILYN</span><span class="topo-outside">LV</span><span class="topo-unknown">SANF</span></span>
+<span class="topo-ruler">       490       500       510   </span>
 <span class="topo-line"><span class="topo-unknown">RQVFLSTLACLCPGWRHRRKAHHHHHHHHHHGG</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -260,6 +262,7 @@ NTSR1-EL is a constitutively active mutant of the rat [Neurotensin](/xray-mp-wik
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

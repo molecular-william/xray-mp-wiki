@@ -136,16 +136,17 @@ PglK is an ATP-binding cassette (ABC) flippase from Campylobacter jejuni that tr
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">M</span><span class="topo-unknown">VKKLFFI</span><span class="topo-outside">LSKEDKN</span><span class="topo-membrane">FLFFLLVFSVFVSFIETFAISLV</span><span class="topo-inside">MPFITLASDFSYFDRNKYLISL</span></span>
-<span class="topo-line"><span class="topo-inside">KEYLNIPVFEIIVYFGVG</span><span class="topo-membrane">LIVFYVFRALLNAYYFHLLARFS</span><span class="topo-outside">KGRKHAIAYKVFSKFLNIN</span></span>
-<span class="topo-line"><span class="topo-outside">YEKFTQKNQSEILKSITGEVYNLSTMI</span><span class="topo-membrane">SSFLLLMSEIFVVLLLYALML</span><span class="topo-inside">LINYKIT</span><span class="topo-membrane">LFLSI</span></span>
-<span class="topo-line"><span class="topo-membrane">FMVLNAFILVKILSPII</span><span class="topo-outside">KKAGLRREEAMKNFFEILNTNLNNFKFIKLKTKEDGVLSLFKA</span></span>
-<span class="topo-line"><span class="topo-outside">QSEAFSKANI</span><span class="topo-membrane">TNESVAAVPRIYLEGIGFCVL</span><span class="topo-inside">VFIVVFLVLKNESDISGILSTISIFV</span><span class="topo-membrane">LAL</span></span>
-<span class="topo-line"><span class="topo-membrane">YRLMPSANRIITSYHDLL</span><span class="topo-outside">YYHSSLNIIYQNLRQEEENAAEGKLSFNQELKICNLSFGYEG</span></span>
-<span class="topo-line"><span class="topo-outside">KKYLFKNLNLNIKKGEKIAFIGESGCGKSTLVDLIIGLLKPKEGQILIDKQELNASNAKN</span></span>
-<span class="topo-line"><span class="topo-outside">YRQKIGYIPQNIYLFNDSIAKNITFGDAVDEEKLNKVIKQANLEHFIKNLPQGVQTKVGD</span></span>
-<span class="topo-line"><span class="topo-outside">GGSNLSGGQKQRIAIARALYLEPEILVLDQATSALDTQSEAKIMDEIYKISKDKTMIIIA</span></span>
-<span class="topo-line"><span class="topo-outside">HRLSTITQCDKVYRLEHGKLKEEK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">M</span><span class="topo-unknown">VKKLFFI</span><span class="topo-outside">LSKEDKN</span><span class="topo-membrane">FLFFLLVFSVFVSFIETFAISLV</span><span class="topo-inside">MPFITLASDFSYFDRNKYLISLKEYLNIPVFEIIVYFGVG</span><span class="topo-membrane">LIVFYVFRALLNAYYFHLLARFS</span><span class="topo-outside">KGRKHAIAYKVFSKFLNIN</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">YEKFTQKNQSEILKSITGEVYNLSTMI</span><span class="topo-membrane">SSFLLLMSEIFVVLLLYALML</span><span class="topo-inside">LINYKIT</span><span class="topo-membrane">LFLSIFMVLNAFILVKILSPII</span><span class="topo-outside">KKAGLRREEAMKNFFEILNTNLNNFKFIKLKTKEDGVLSLFKA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">QSEAFSKANI</span><span class="topo-membrane">TNESVAAVPRIYLEGIGFCVL</span><span class="topo-inside">VFIVVFLVLKNESDISGILSTISIFV</span><span class="topo-membrane">LALYRLMPSANRIITSYHDLL</span><span class="topo-outside">YYHSSLNIIYQNLRQEEENAAEGKLSFNQELKICNLSFGYEG</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">KKYLFKNLNLNIKKGEKIAFIGESGCGKSTLVDLIIGLLKPKEGQILIDKQELNASNAKNYRQKIGYIPQNIYLFNDSIAKNITFGDAVDEEKLNKVIKQANLEHFIKNLPQGVQTKVGD</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560    </span>
+<span class="topo-line"><span class="topo-outside">GGSNLSGGQKQRIAIARALYLEPEILVLDQATSALDTQSEAKIMDEIYKISKDKTMIIIAHRLSTITQCDKVYRLEHGKLKEEK</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -262,6 +263,7 @@ PglK is an ATP-binding cassette (ABC) flippase from Campylobacter jejuni that tr
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -277,16 +279,17 @@ PglK is an ATP-binding cassette (ABC) flippase from Campylobacter jejuni that tr
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">M</span><span class="topo-unknown">VKKLFFI</span><span class="topo-outside">LSKEDKN</span><span class="topo-membrane">FLFFLLVFSVFVSFIETFAISL</span><span class="topo-inside">VMPFITLASDFSYFDRNKYLISL</span></span>
-<span class="topo-line"><span class="topo-inside">KEYLNIPVFEIIVYFGVG</span><span class="topo-membrane">LIVFYVFRALLNAYYFHLLARFS</span><span class="topo-outside">KGRKHAIAYKVFSKFLNIN</span></span>
-<span class="topo-line"><span class="topo-outside">YEKFTQKNQSEILKSITGEVYNLSTM</span><span class="topo-membrane">ISSFLLLMSEIFVVLLLYALML</span><span class="topo-inside">LINYKIT</span><span class="topo-membrane">LFLSI</span></span>
-<span class="topo-line"><span class="topo-membrane">FMVLNAFILVKILSPII</span><span class="topo-outside">KKAGLRREEAMKNFFEILNTNLNNFKFIKLKTKEDGVLSLFKA</span></span>
-<span class="topo-line"><span class="topo-outside">QSEAFSKANI</span><span class="topo-membrane">TNESVAAVPRIYLEGIGFCVL</span><span class="topo-inside">VFIVVFLVLKNESDISGILSTISIFV</span><span class="topo-membrane">LAL</span></span>
-<span class="topo-line"><span class="topo-membrane">YRLMPSANRIITSYHDLL</span><span class="topo-outside">YYHSSLNIIYQNLRQEEENAAEGKLSFNQELKICNLSFGYEG</span></span>
-<span class="topo-line"><span class="topo-outside">KKYLFKNLNLNIKKGEKIAFIGESGCGKSTLVDLIIGLLKPKEGQILIDKQELNASNAKN</span></span>
-<span class="topo-line"><span class="topo-outside">YRQKIGYIPQNIYLFNDSIAKNITFGDAVDEEKLNKVIKQANLEHFIKNLPQGVQTKVGD</span></span>
-<span class="topo-line"><span class="topo-outside">GGSNLSGGQKQRIAIARALYLEPEILVLDQATSALDTQSEAKIMDEIYKISKDKTMIIIA</span></span>
-<span class="topo-line"><span class="topo-outside">HRLSTITQCDKVYRLEHGKLKEEK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">M</span><span class="topo-unknown">VKKLFFI</span><span class="topo-outside">LSKEDKN</span><span class="topo-membrane">FLFFLLVFSVFVSFIETFAISL</span><span class="topo-inside">VMPFITLASDFSYFDRNKYLISLKEYLNIPVFEIIVYFGVG</span><span class="topo-membrane">LIVFYVFRALLNAYYFHLLARFS</span><span class="topo-outside">KGRKHAIAYKVFSKFLNIN</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">YEKFTQKNQSEILKSITGEVYNLSTM</span><span class="topo-membrane">ISSFLLLMSEIFVVLLLYALML</span><span class="topo-inside">LINYKIT</span><span class="topo-membrane">LFLSIFMVLNAFILVKILSPII</span><span class="topo-outside">KKAGLRREEAMKNFFEILNTNLNNFKFIKLKTKEDGVLSLFKA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">QSEAFSKANI</span><span class="topo-membrane">TNESVAAVPRIYLEGIGFCVL</span><span class="topo-inside">VFIVVFLVLKNESDISGILSTISIFV</span><span class="topo-membrane">LALYRLMPSANRIITSYHDLL</span><span class="topo-outside">YYHSSLNIIYQNLRQEEENAAEGKLSFNQELKICNLSFGYEG</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">KKYLFKNLNLNIKKGEKIAFIGESGCGKSTLVDLIIGLLKPKEGQILIDKQELNASNAKNYRQKIGYIPQNIYLFNDSIAKNITFGDAVDEEKLNKVIKQANLEHFIKNLPQGVQTKVGD</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560    </span>
+<span class="topo-line"><span class="topo-outside">GGSNLSGGQKQRIAIARALYLEPEILVLDQATSALDTQSEAKIMDEIYKISKDKTMIIIAHRLSTITQCDKVYRLEHGKLKEEK</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -403,6 +406,7 @@ PglK is an ATP-binding cassette (ABC) flippase from Campylobacter jejuni that tr
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -559,16 +563,17 @@ PglK is an ATP-binding cassette (ABC) flippase from Campylobacter jejuni that tr
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">M</span><span class="topo-unknown">VKKLFFI</span><span class="topo-inside">LSK</span><span class="topo-membrane">EDKNFLFFLLVFSVFVSFIETFAISLV</span><span class="topo-outside">MPFITLASDFSYFDRNKYLISL</span></span>
-<span class="topo-line"><span class="topo-outside">KEYLNIPVFEIIVYFGVGL</span><span class="topo-membrane">IVFYVFRALLNAYYFHLLARFS</span><span class="topo-inside">KGRKHAIAYKVFSKFLNIN</span></span>
-<span class="topo-line"><span class="topo-inside">YEKFTQKNQSEILKSITGEVYNLSTMI</span><span class="topo-membrane">SSFLLLMSEIFVVLLLYALML</span><span class="topo-outside">LINYKI</span><span class="topo-membrane">TLFLSI</span></span>
-<span class="topo-line"><span class="topo-membrane">FMVLNAFILVKILSPII</span><span class="topo-inside">KKAGLRREEAMKNFFEILNTNLNNFKFIKLKTKEDGVLSLFKA</span></span>
-<span class="topo-line"><span class="topo-inside">QSEAFSKANI</span><span class="topo-membrane">TNESVAAVPRIYLEGIGFCVLVF</span><span class="topo-outside">IVVFLVLKNESDISGILSTIS</span><span class="topo-membrane">IFVLAL</span></span>
-<span class="topo-line"><span class="topo-membrane">YRLMPSANRIITSYH</span><span class="topo-inside">DLLYYHSSLNIIYQNLRQEEENLGEGKLSFNQELKICNLSFGYEG</span></span>
-<span class="topo-line"><span class="topo-inside">KKYLFKNLNLNIKKGEKIAFIGESGCGKSTLVDLIIGLLKPKEGQILIDKQELNASNAKN</span></span>
-<span class="topo-line"><span class="topo-inside">YRQKIGYIPQNIYLFNDSIAKNITFGDAVDEEKLNKVIKQANLEHFIKNLPQGVQTKVGD</span></span>
-<span class="topo-line"><span class="topo-inside">GGSNLSGGQKQRIAIARALYLEPEILVLDQATSALDTQSEAKIMDEIYKISKDKTMIIIA</span></span>
-<span class="topo-line"><span class="topo-inside">HRLSTITQCDKVYRLEHGKLKEEK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">M</span><span class="topo-unknown">VKKLFFI</span><span class="topo-inside">LSK</span><span class="topo-membrane">EDKNFLFFLLVFSVFVSFIETFAISLV</span><span class="topo-outside">MPFITLASDFSYFDRNKYLISLKEYLNIPVFEIIVYFGVGL</span><span class="topo-membrane">IVFYVFRALLNAYYFHLLARFS</span><span class="topo-inside">KGRKHAIAYKVFSKFLNIN</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">YEKFTQKNQSEILKSITGEVYNLSTMI</span><span class="topo-membrane">SSFLLLMSEIFVVLLLYALML</span><span class="topo-outside">LINYKI</span><span class="topo-membrane">TLFLSIFMVLNAFILVKILSPII</span><span class="topo-inside">KKAGLRREEAMKNFFEILNTNLNNFKFIKLKTKEDGVLSLFKA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">QSEAFSKANI</span><span class="topo-membrane">TNESVAAVPRIYLEGIGFCVLVF</span><span class="topo-outside">IVVFLVLKNESDISGILSTIS</span><span class="topo-membrane">IFVLALYRLMPSANRIITSYH</span><span class="topo-inside">DLLYYHSSLNIIYQNLRQEEENLGEGKLSFNQELKICNLSFGYEG</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">KKYLFKNLNLNIKKGEKIAFIGESGCGKSTLVDLIIGLLKPKEGQILIDKQELNASNAKNYRQKIGYIPQNIYLFNDSIAKNITFGDAVDEEKLNKVIKQANLEHFIKNLPQGVQTKVGD</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560    </span>
+<span class="topo-line"><span class="topo-inside">GGSNLSGGQKQRIAIARALYLEPEILVLDQATSALDTQSEAKIMDEIYKISKDKTMIIIAHRLSTITQCDKVYRLEHGKLKEEK</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -685,6 +690,7 @@ PglK is an ATP-binding cassette (ABC) flippase from Campylobacter jejuni that tr
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -700,16 +706,17 @@ PglK is an ATP-binding cassette (ABC) flippase from Campylobacter jejuni that tr
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">M</span><span class="topo-unknown">VKKLFFI</span><span class="topo-inside">LSK</span><span class="topo-membrane">EDKNFLFFLLVFSVFVSFIETFAIS</span><span class="topo-outside">LVMPFITLASDFSYFDRNKYLISL</span></span>
-<span class="topo-line"><span class="topo-outside">KEYLNIPVFEIIVYFGVGL</span><span class="topo-membrane">IVFYVFRALLNAYYFHLLARFS</span><span class="topo-inside">KGRKHAIAYKVFSKFLNIN</span></span>
-<span class="topo-line"><span class="topo-inside">YEKFTQKNQSEILKSITGEVYNLSTM</span><span class="topo-membrane">ISSFLLLMSEIFVVLLLYALML</span><span class="topo-outside">LINYKI</span><span class="topo-membrane">TLFLSI</span></span>
-<span class="topo-line"><span class="topo-membrane">FMVLNAFILVKILSPII</span><span class="topo-inside">KKAGLRREEAMKNFFEILNTNLNNFKFIKLKTKEDGVLSLFKA</span></span>
-<span class="topo-line"><span class="topo-inside">QSEAFSKANI</span><span class="topo-membrane">TNESVAAVPRIYLEGIGFCVLVF</span><span class="topo-outside">IVVFLVLKNESDISGILSTIS</span><span class="topo-membrane">IFVLAL</span></span>
-<span class="topo-line"><span class="topo-membrane">YRLMPSANRIITSYHDL</span><span class="topo-inside">LYYHSSLNIIYQNLRQEEENLGEGKLSFNQELKICNLSFGYEG</span></span>
-<span class="topo-line"><span class="topo-inside">KKYLFKNLNLNIKKGEKIAFIGESGCGKSTLVDLIIGLLKPKEGQILIDKQELNASNAKN</span></span>
-<span class="topo-line"><span class="topo-inside">YRQKIGYIPQNIYLFNDSIAKNITFGDAVDEEKLNKVIKQANLEHFIKNLPQGVQTKVGD</span></span>
-<span class="topo-line"><span class="topo-inside">GGSNLSGGQKQRIAIARALYLEPEILVLDQATSALDTQSEAKIMDEIYKISKDKTMIIIA</span></span>
-<span class="topo-line"><span class="topo-inside">HRLSTITQCDKVYRLEHGKLKEEK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">M</span><span class="topo-unknown">VKKLFFI</span><span class="topo-inside">LSK</span><span class="topo-membrane">EDKNFLFFLLVFSVFVSFIETFAIS</span><span class="topo-outside">LVMPFITLASDFSYFDRNKYLISLKEYLNIPVFEIIVYFGVGL</span><span class="topo-membrane">IVFYVFRALLNAYYFHLLARFS</span><span class="topo-inside">KGRKHAIAYKVFSKFLNIN</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">YEKFTQKNQSEILKSITGEVYNLSTM</span><span class="topo-membrane">ISSFLLLMSEIFVVLLLYALML</span><span class="topo-outside">LINYKI</span><span class="topo-membrane">TLFLSIFMVLNAFILVKILSPII</span><span class="topo-inside">KKAGLRREEAMKNFFEILNTNLNNFKFIKLKTKEDGVLSLFKA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">QSEAFSKANI</span><span class="topo-membrane">TNESVAAVPRIYLEGIGFCVLVF</span><span class="topo-outside">IVVFLVLKNESDISGILSTIS</span><span class="topo-membrane">IFVLALYRLMPSANRIITSYHDL</span><span class="topo-inside">LYYHSSLNIIYQNLRQEEENLGEGKLSFNQELKICNLSFGYEG</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">KKYLFKNLNLNIKKGEKIAFIGESGCGKSTLVDLIIGLLKPKEGQILIDKQELNASNAKNYRQKIGYIPQNIYLFNDSIAKNITFGDAVDEEKLNKVIKQANLEHFIKNLPQGVQTKVGD</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560    </span>
+<span class="topo-line"><span class="topo-inside">GGSNLSGGQKQRIAIARALYLEPEILVLDQATSALDTQSEAKIMDEIYKISKDKTMIIIAHRLSTITQCDKVYRLEHGKLKEEK</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -826,6 +833,7 @@ PglK is an ATP-binding cassette (ABC) flippase from Campylobacter jejuni that tr
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -841,16 +849,17 @@ PglK is an ATP-binding cassette (ABC) flippase from Campylobacter jejuni that tr
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">M</span><span class="topo-unknown">VKKLFFI</span><span class="topo-inside">LSK</span><span class="topo-membrane">EDKNFLFFLLVFSVFVSFIETFAISLV</span><span class="topo-outside">MPFITLASDFSYFDRNKYLISL</span></span>
-<span class="topo-line"><span class="topo-outside">KEYLNIPVFEIIVYFGVGL</span><span class="topo-membrane">IVFYVFRALLNAYYFHLLARFS</span><span class="topo-inside">KGRKHAIAYKVFSKFLNIN</span></span>
-<span class="topo-line"><span class="topo-inside">YEKFTQKNQSEILKSITGEVYNLSTMI</span><span class="topo-membrane">SSFLLLMSEIFVVLLLYALML</span><span class="topo-outside">LINYKI</span><span class="topo-membrane">TLFLSI</span></span>
-<span class="topo-line"><span class="topo-membrane">FMVLNAFILVKILSPII</span><span class="topo-inside">KKAGLRREEAMKNFFEILNTNLNNFKFIKLKTKEDGVLSLFKA</span></span>
-<span class="topo-line"><span class="topo-inside">QSEAFSKANI</span><span class="topo-membrane">TNESVAAVPRIYLEGIGFCVLVF</span><span class="topo-outside">IVVFLVLKNESDISGILSTIS</span><span class="topo-membrane">IFVLAL</span></span>
-<span class="topo-line"><span class="topo-membrane">YRLMPSANRIITSYH</span><span class="topo-inside">DLLYYHSSLNIIYQNLRQEEENLGEGKLSFNQELKICNLSFGYEG</span></span>
-<span class="topo-line"><span class="topo-inside">KKYLFKNLNLNIKKGEKIAFIGESGCGKSTLVDLIIGLLKPKEGQILIDKQELNASNAKN</span></span>
-<span class="topo-line"><span class="topo-inside">YRQKIGYIPQNIYLFNDSIAKNITFGDAVDEEKLNKVIKQANLEHFIKNLPQGVQTKVGD</span></span>
-<span class="topo-line"><span class="topo-inside">GGSNLSGGQKQRIAIARALYLEPEILVLDQATSALDTQSEAKIMDEIYKISKDKTMIIIA</span></span>
-<span class="topo-line"><span class="topo-inside">HRLSTITQCDKVYRLEHGKLKEEK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">M</span><span class="topo-unknown">VKKLFFI</span><span class="topo-inside">LSK</span><span class="topo-membrane">EDKNFLFFLLVFSVFVSFIETFAISLV</span><span class="topo-outside">MPFITLASDFSYFDRNKYLISLKEYLNIPVFEIIVYFGVGL</span><span class="topo-membrane">IVFYVFRALLNAYYFHLLARFS</span><span class="topo-inside">KGRKHAIAYKVFSKFLNIN</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">YEKFTQKNQSEILKSITGEVYNLSTMI</span><span class="topo-membrane">SSFLLLMSEIFVVLLLYALML</span><span class="topo-outside">LINYKI</span><span class="topo-membrane">TLFLSIFMVLNAFILVKILSPII</span><span class="topo-inside">KKAGLRREEAMKNFFEILNTNLNNFKFIKLKTKEDGVLSLFKA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">QSEAFSKANI</span><span class="topo-membrane">TNESVAAVPRIYLEGIGFCVLVF</span><span class="topo-outside">IVVFLVLKNESDISGILSTIS</span><span class="topo-membrane">IFVLALYRLMPSANRIITSYH</span><span class="topo-inside">DLLYYHSSLNIIYQNLRQEEENLGEGKLSFNQELKICNLSFGYEG</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">KKYLFKNLNLNIKKGEKIAFIGESGCGKSTLVDLIIGLLKPKEGQILIDKQELNASNAKNYRQKIGYIPQNIYLFNDSIAKNITFGDAVDEEKLNKVIKQANLEHFIKNLPQGVQTKVGD</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560    </span>
+<span class="topo-line"><span class="topo-inside">GGSNLSGGQKQRIAIARALYLEPEILVLDQATSALDTQSEAKIMDEIYKISKDKTMIIIAHRLSTITQCDKVYRLEHGKLKEEK</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -967,6 +976,7 @@ PglK is an ATP-binding cassette (ABC) flippase from Campylobacter jejuni that tr
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -982,16 +992,17 @@ PglK is an ATP-binding cassette (ABC) flippase from Campylobacter jejuni that tr
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">M</span><span class="topo-unknown">VKKLFFI</span><span class="topo-inside">LSK</span><span class="topo-membrane">EDKNFLFFLLVFSVFVSFIETFAIS</span><span class="topo-outside">LVMPFITLASDFSYFDRNKYLISL</span></span>
-<span class="topo-line"><span class="topo-outside">KEYLNIPVFEIIVYFGVGL</span><span class="topo-membrane">IVFYVFRALLNAYYFHLLARFS</span><span class="topo-inside">KGRKHAIAYKVFSKFLNIN</span></span>
-<span class="topo-line"><span class="topo-inside">YEKFTQKNQSEILKSITGEVYNLSTM</span><span class="topo-membrane">ISSFLLLMSEIFVVLLLYALML</span><span class="topo-outside">LINYKI</span><span class="topo-membrane">TLFLSI</span></span>
-<span class="topo-line"><span class="topo-membrane">FMVLNAFILVKILSPII</span><span class="topo-inside">KKAGLRREEAMKNFFEILNTNLNNFKFIKLKTKEDGVLSLFKA</span></span>
-<span class="topo-line"><span class="topo-inside">QSEAFSKANI</span><span class="topo-membrane">TNESVAAVPRIYLEGIGFCVLVF</span><span class="topo-outside">IVVFLVLKNESDISGILSTIS</span><span class="topo-membrane">IFVLAL</span></span>
-<span class="topo-line"><span class="topo-membrane">YRLMPSANRIITSYHDL</span><span class="topo-inside">LYYHSSLNIIYQNLRQEEENLGEGKLSFNQELKICNLSFGYEG</span></span>
-<span class="topo-line"><span class="topo-inside">KKYLFKNLNLNIKKGEKIAFIGESGCGKSTLVDLIIGLLKPKEGQILIDKQELNASNAKN</span></span>
-<span class="topo-line"><span class="topo-inside">YRQKIGYIPQNIYLFNDSIAKNITFGDAVDEEKLNKVIKQANLEHFIKNLPQGVQTKVGD</span></span>
-<span class="topo-line"><span class="topo-inside">GGSNLSGGQKQRIAIARALYLEPEILVLDQATSALDTQSEAKIMDEIYKISKDKTMIIIA</span></span>
-<span class="topo-line"><span class="topo-inside">HRLSTITQCDKVYRLEHGKLKEEK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">M</span><span class="topo-unknown">VKKLFFI</span><span class="topo-inside">LSK</span><span class="topo-membrane">EDKNFLFFLLVFSVFVSFIETFAIS</span><span class="topo-outside">LVMPFITLASDFSYFDRNKYLISLKEYLNIPVFEIIVYFGVGL</span><span class="topo-membrane">IVFYVFRALLNAYYFHLLARFS</span><span class="topo-inside">KGRKHAIAYKVFSKFLNIN</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">YEKFTQKNQSEILKSITGEVYNLSTM</span><span class="topo-membrane">ISSFLLLMSEIFVVLLLYALML</span><span class="topo-outside">LINYKI</span><span class="topo-membrane">TLFLSIFMVLNAFILVKILSPII</span><span class="topo-inside">KKAGLRREEAMKNFFEILNTNLNNFKFIKLKTKEDGVLSLFKA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">QSEAFSKANI</span><span class="topo-membrane">TNESVAAVPRIYLEGIGFCVLVF</span><span class="topo-outside">IVVFLVLKNESDISGILSTIS</span><span class="topo-membrane">IFVLALYRLMPSANRIITSYHDL</span><span class="topo-inside">LYYHSSLNIIYQNLRQEEENLGEGKLSFNQELKICNLSFGYEG</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">KKYLFKNLNLNIKKGEKIAFIGESGCGKSTLVDLIIGLLKPKEGQILIDKQELNASNAKNYRQKIGYIPQNIYLFNDSIAKNITFGDAVDEEKLNKVIKQANLEHFIKNLPQGVQTKVGD</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560    </span>
+<span class="topo-line"><span class="topo-inside">GGSNLSGGQKQRIAIARALYLEPEILVLDQATSALDTQSEAKIMDEIYKISKDKTMIIIAHRLSTITQCDKVYRLEHGKLKEEK</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1108,6 +1119,7 @@ PglK is an ATP-binding cassette (ABC) flippase from Campylobacter jejuni that tr
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1123,16 +1135,17 @@ PglK is an ATP-binding cassette (ABC) flippase from Campylobacter jejuni that tr
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">M</span><span class="topo-unknown">VKKLFFI</span><span class="topo-inside">LSK</span><span class="topo-membrane">EDKNFLFFLLVFSVFVSFIETFAISLV</span><span class="topo-outside">MPFITLASDFSYFDRNKYLISL</span></span>
-<span class="topo-line"><span class="topo-outside">KEYLNIPVFEIIVYFGVGL</span><span class="topo-membrane">IVFYVFRALLNAYYFHLLARFS</span><span class="topo-inside">KGRKHAIAYKVFSKFLNIN</span></span>
-<span class="topo-line"><span class="topo-inside">YEKFTQKNQSEILKSITGEVYNLSTMI</span><span class="topo-membrane">SSFLLLMSEIFVVLLLYALML</span><span class="topo-outside">LINYKI</span><span class="topo-membrane">TLFLSI</span></span>
-<span class="topo-line"><span class="topo-membrane">FMVLNAFILVKILSPII</span><span class="topo-inside">KKAGLRREEAMKNFFEILNTNLNNFKFIKLKTKEDGVLSLFKA</span></span>
-<span class="topo-line"><span class="topo-inside">QSEAFSKANI</span><span class="topo-membrane">TNESVAAVPRIYLEGIGFCVLVF</span><span class="topo-outside">IVVFLVLKNESDISGILSTIS</span><span class="topo-membrane">IFVLAL</span></span>
-<span class="topo-line"><span class="topo-membrane">YRLMPSANRIITSYH</span><span class="topo-inside">DLLYYHSSLNIIYQNLRQEEENLGEGKLSFNQELKICNLSFGYEG</span></span>
-<span class="topo-line"><span class="topo-inside">KKYLFKNLNLNIKKGEKIAFIGESGCGKSTLVDLIIGLLKPKEGQILIDKQELNASNAKN</span></span>
-<span class="topo-line"><span class="topo-inside">YRQKIGYIPQNIYLFNDSIAKNITFGDAVDEEKLNKVIKQANLEHFIKNLPQGVQTKVGD</span></span>
-<span class="topo-line"><span class="topo-inside">GGSNLSGGQKQRIAIARALYLEPEILVLDQATSALDTQSEAKIMDEIYKISKDKTMIIIA</span></span>
-<span class="topo-line"><span class="topo-inside">HRLSTITQCDKVYRLEHGKLKEEK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">M</span><span class="topo-unknown">VKKLFFI</span><span class="topo-inside">LSK</span><span class="topo-membrane">EDKNFLFFLLVFSVFVSFIETFAISLV</span><span class="topo-outside">MPFITLASDFSYFDRNKYLISLKEYLNIPVFEIIVYFGVGL</span><span class="topo-membrane">IVFYVFRALLNAYYFHLLARFS</span><span class="topo-inside">KGRKHAIAYKVFSKFLNIN</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">YEKFTQKNQSEILKSITGEVYNLSTMI</span><span class="topo-membrane">SSFLLLMSEIFVVLLLYALML</span><span class="topo-outside">LINYKI</span><span class="topo-membrane">TLFLSIFMVLNAFILVKILSPII</span><span class="topo-inside">KKAGLRREEAMKNFFEILNTNLNNFKFIKLKTKEDGVLSLFKA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">QSEAFSKANI</span><span class="topo-membrane">TNESVAAVPRIYLEGIGFCVLVF</span><span class="topo-outside">IVVFLVLKNESDISGILSTIS</span><span class="topo-membrane">IFVLALYRLMPSANRIITSYH</span><span class="topo-inside">DLLYYHSSLNIIYQNLRQEEENLGEGKLSFNQELKICNLSFGYEG</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">KKYLFKNLNLNIKKGEKIAFIGESGCGKSTLVDLIIGLLKPKEGQILIDKQELNASNAKNYRQKIGYIPQNIYLFNDSIAKNITFGDAVDEEKLNKVIKQANLEHFIKNLPQGVQTKVGD</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560    </span>
+<span class="topo-line"><span class="topo-inside">GGSNLSGGQKQRIAIARALYLEPEILVLDQATSALDTQSEAKIMDEIYKISKDKTMIIIAHRLSTITQCDKVYRLEHGKLKEEK</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1249,6 +1262,7 @@ PglK is an ATP-binding cassette (ABC) flippase from Campylobacter jejuni that tr
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1264,16 +1278,17 @@ PglK is an ATP-binding cassette (ABC) flippase from Campylobacter jejuni that tr
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">M</span><span class="topo-unknown">VKKLFFI</span><span class="topo-inside">LSK</span><span class="topo-membrane">EDKNFLFFLLVFSVFVSFIETFAIS</span><span class="topo-outside">LVMPFITLASDFSYFDRNKYLISL</span></span>
-<span class="topo-line"><span class="topo-outside">KEYLNIPVFEIIVYFGVGL</span><span class="topo-membrane">IVFYVFRALLNAYYFHLLARFS</span><span class="topo-inside">KGRKHAIAYKVFSKFLNIN</span></span>
-<span class="topo-line"><span class="topo-inside">YEKFTQKNQSEILKSITGEVYNLSTM</span><span class="topo-membrane">ISSFLLLMSEIFVVLLLYALML</span><span class="topo-outside">LINYKI</span><span class="topo-membrane">TLFLSI</span></span>
-<span class="topo-line"><span class="topo-membrane">FMVLNAFILVKILSPII</span><span class="topo-inside">KKAGLRREEAMKNFFEILNTNLNNFKFIKLKTKEDGVLSLFKA</span></span>
-<span class="topo-line"><span class="topo-inside">QSEAFSKANI</span><span class="topo-membrane">TNESVAAVPRIYLEGIGFCVLVF</span><span class="topo-outside">IVVFLVLKNESDISGILSTIS</span><span class="topo-membrane">IFVLAL</span></span>
-<span class="topo-line"><span class="topo-membrane">YRLMPSANRIITSYHDL</span><span class="topo-inside">LYYHSSLNIIYQNLRQEEENLGEGKLSFNQELKICNLSFGYEG</span></span>
-<span class="topo-line"><span class="topo-inside">KKYLFKNLNLNIKKGEKIAFIGESGCGKSTLVDLIIGLLKPKEGQILIDKQELNASNAKN</span></span>
-<span class="topo-line"><span class="topo-inside">YRQKIGYIPQNIYLFNDSIAKNITFGDAVDEEKLNKVIKQANLEHFIKNLPQGVQTKVGD</span></span>
-<span class="topo-line"><span class="topo-inside">GGSNLSGGQKQRIAIARALYLEPEILVLDQATSALDTQSEAKIMDEIYKISKDKTMIIIA</span></span>
-<span class="topo-line"><span class="topo-inside">HRLSTITQCDKVYRLEHGKLKEEK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">M</span><span class="topo-unknown">VKKLFFI</span><span class="topo-inside">LSK</span><span class="topo-membrane">EDKNFLFFLLVFSVFVSFIETFAIS</span><span class="topo-outside">LVMPFITLASDFSYFDRNKYLISLKEYLNIPVFEIIVYFGVGL</span><span class="topo-membrane">IVFYVFRALLNAYYFHLLARFS</span><span class="topo-inside">KGRKHAIAYKVFSKFLNIN</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">YEKFTQKNQSEILKSITGEVYNLSTM</span><span class="topo-membrane">ISSFLLLMSEIFVVLLLYALML</span><span class="topo-outside">LINYKI</span><span class="topo-membrane">TLFLSIFMVLNAFILVKILSPII</span><span class="topo-inside">KKAGLRREEAMKNFFEILNTNLNNFKFIKLKTKEDGVLSLFKA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">QSEAFSKANI</span><span class="topo-membrane">TNESVAAVPRIYLEGIGFCVLVF</span><span class="topo-outside">IVVFLVLKNESDISGILSTIS</span><span class="topo-membrane">IFVLALYRLMPSANRIITSYHDL</span><span class="topo-inside">LYYHSSLNIIYQNLRQEEENLGEGKLSFNQELKICNLSFGYEG</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">KKYLFKNLNLNIKKGEKIAFIGESGCGKSTLVDLIIGLLKPKEGQILIDKQELNASNAKNYRQKIGYIPQNIYLFNDSIAKNITFGDAVDEEKLNKVIKQANLEHFIKNLPQGVQTKVGD</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560    </span>
+<span class="topo-line"><span class="topo-inside">GGSNLSGGQKQRIAIARALYLEPEILVLDQATSALDTQSEAKIMDEIYKISKDKTMIIIAHRLSTITQCDKVYRLEHGKLKEEK</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1390,6 +1405,7 @@ PglK is an ATP-binding cassette (ABC) flippase from Campylobacter jejuni that tr
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

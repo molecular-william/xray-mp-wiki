@@ -132,13 +132,15 @@ The human serotonin 2B (5-HT2B) receptor is a class A GPCR that signals primaril
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">EEMKQIVEEQGNK</span><span class="topo-membrane">LHWAALLILMVIIPTIGGNTLVI</span><span class="topo-inside">LAVSLEKKLQYATNYF</span><span class="topo-membrane">LMSLAVAD</span></span>
-<span class="topo-line"><span class="topo-membrane">LLVGLFVMPIALLTIMF</span><span class="topo-outside">EAMW</span><span class="topo-membrane">PLPLVLCPAWLFLDVLFSTASIWHLCAISV</span><span class="topo-inside">DRYIAIKKP</span></span>
-<span class="topo-line"><span class="topo-inside">IQANQYNSRATAFI</span><span class="topo-membrane">KITVVWLISIGIAIPVPIKGI</span><span class="topo-outside">ET</span><span class="topo-unknown">DVD</span><span class="topo-outside">NPNNITCVLTKER</span><span class="topo-membrane">FGDFMLF</span></span>
-<span class="topo-line"><span class="topo-membrane">GSLAAFFTPLAIMIVTYFL</span><span class="topo-inside">TIHALQKKAADLEDNWETLNDNLKVIEKADNAAQVKDALTK</span></span>
-<span class="topo-line"><span class="topo-inside">MRAAALDAQKATPPKLE</span><span class="topo-unknown">DKSPDS</span><span class="topo-inside">PEMKDFRHGFDILVGQIDDALKLANEGKVKEAQAAAE</span></span>
-<span class="topo-line"><span class="topo-inside">QLKTTRNAYIQKYLVQTISNEQRASKV</span><span class="topo-membrane">LGIVFFLFLLMWCPFFITNITLVLC</span><span class="topo-outside">DSCNQTTL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">EEMKQIVEEQGNK</span><span class="topo-membrane">LHWAALLILMVIIPTIGGNTLVI</span><span class="topo-inside">LAVSLEKKLQYATNYF</span><span class="topo-membrane">LMSLAVADLLVGLFVMPIALLTIMF</span><span class="topo-outside">EAMW</span><span class="topo-membrane">PLPLVLCPAWLFLDVLFSTASIWHLCAISV</span><span class="topo-inside">DRYIAIKKP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">IQANQYNSRATAFI</span><span class="topo-membrane">KITVVWLISIGIAIPVPIKGI</span><span class="topo-outside">ET</span><span class="topo-unknown">DVD</span><span class="topo-outside">NPNNITCVLTKER</span><span class="topo-membrane">FGDFMLFGSLAAFFTPLAIMIVTYFL</span><span class="topo-inside">TIHALQKKAADLEDNWETLNDNLKVIEKADNAAQVKDALTK</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">MRAAALDAQKATPPKLE</span><span class="topo-unknown">DKSPDS</span><span class="topo-inside">PEMKDFRHGFDILVGQIDDALKLANEGKVKEAQAAAEQLKTTRNAYIQKYLVQTISNEQRASKV</span><span class="topo-membrane">LGIVFFLFLLMWCPFFITNITLVLC</span><span class="topo-outside">DSCNQTTL</span></span>
+<span class="topo-ruler">       370       380       390       400  </span>
 <span class="topo-line"><span class="topo-membrane">QMLLEIFVWIGYVSSGVNPLVYT</span><span class="topo-inside">LFNKTFRDAFGRYITCNYR</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -297,6 +299,7 @@ The human serotonin 2B (5-HT2B) receptor is a class A GPCR that signals primaril
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

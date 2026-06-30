@@ -115,9 +115,11 @@ The membrane rotor ring from the vacuolar-type (V-type) sodium ion-pumping ATPas
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MMDYLITQNGGMVFA</span><span class="topo-membrane">VLAMATATIFSGIGSAKGVG</span><span class="topo-inside">MTGEAAAALTTSQPEKFGQALILQL</span></span>
-<span class="topo-line"><span class="topo-membrane">LPGTQGLYGFVIAFLIFI</span><span class="topo-outside">NLGSDMSVVQGLNF</span><span class="topo-membrane">LGASLPIAFTGLFSGIAQ</span><span class="topo-inside">GKVAAAGIQI</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MMDYLITQNGGMVFA</span><span class="topo-membrane">VLAMATATIFSGIGSAKGVG</span><span class="topo-inside">MTGEAAAALTTSQPEKFGQALILQL</span><span class="topo-membrane">LPGTQGLYGFVIAFLIFI</span><span class="topo-outside">NLGSDMSVVQGLNF</span><span class="topo-membrane">LGASLPIAFTGLFSGIAQ</span><span class="topo-inside">GKVAAAGIQI</span></span>
+<span class="topo-ruler">       130       140       150      </span>
 <span class="topo-line"><span class="topo-inside">LAKKPEHATKGIIFAA</span><span class="topo-membrane">MVETYAILGFVISFLLVL</span><span class="topo-outside">NA</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -192,6 +194,7 @@ The membrane rotor ring from the vacuolar-type (V-type) sodium ion-pumping ATPas
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -207,9 +210,11 @@ The membrane rotor ring from the vacuolar-type (V-type) sodium ion-pumping ATPas
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MMDYLITQNGGMVFA</span><span class="topo-membrane">VLAMATATIFSGIGSAKGV</span><span class="topo-inside">GMTGEAAAALTTSQPEKFGQALILQL</span></span>
-<span class="topo-line"><span class="topo-membrane">LPGTQGLYGFVIAFLIFI</span><span class="topo-outside">NLGSDMSVVQGLNF</span><span class="topo-membrane">LGASLPIAFTGLFSGIAQ</span><span class="topo-inside">GKVAAAGIQI</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MMDYLITQNGGMVFA</span><span class="topo-membrane">VLAMATATIFSGIGSAKGV</span><span class="topo-inside">GMTGEAAAALTTSQPEKFGQALILQL</span><span class="topo-membrane">LPGTQGLYGFVIAFLIFI</span><span class="topo-outside">NLGSDMSVVQGLNF</span><span class="topo-membrane">LGASLPIAFTGLFSGIAQ</span><span class="topo-inside">GKVAAAGIQI</span></span>
+<span class="topo-ruler">       130       140       150      </span>
 <span class="topo-line"><span class="topo-inside">LAKKPEHATKGIIFAA</span><span class="topo-membrane">MVETYAILGFVISFLLVL</span><span class="topo-outside">NA</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -284,6 +289,7 @@ The membrane rotor ring from the vacuolar-type (V-type) sodium ion-pumping ATPas
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -299,9 +305,11 @@ The membrane rotor ring from the vacuolar-type (V-type) sodium ion-pumping ATPas
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MMDYLITQNGGMVFA</span><span class="topo-membrane">VLAMATATIFSGIGSAKGV</span><span class="topo-inside">GMTGEAAAALTTSQPEKFGQALILQL</span></span>
-<span class="topo-line"><span class="topo-membrane">LPGTQGLYGFVIAFLIFI</span><span class="topo-outside">NLGSDMSVVQGLNF</span><span class="topo-membrane">LGASLPIAFTGLFSGIAQ</span><span class="topo-inside">GKVAAAGIQI</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MMDYLITQNGGMVFA</span><span class="topo-membrane">VLAMATATIFSGIGSAKGV</span><span class="topo-inside">GMTGEAAAALTTSQPEKFGQALILQL</span><span class="topo-membrane">LPGTQGLYGFVIAFLIFI</span><span class="topo-outside">NLGSDMSVVQGLNF</span><span class="topo-membrane">LGASLPIAFTGLFSGIAQ</span><span class="topo-inside">GKVAAAGIQI</span></span>
+<span class="topo-ruler">       130       140       150      </span>
 <span class="topo-line"><span class="topo-inside">LAKKPEHATKGIIFAA</span><span class="topo-membrane">MVETYAILGFVISFLLVL</span><span class="topo-outside">NA</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -376,6 +384,7 @@ The membrane rotor ring from the vacuolar-type (V-type) sodium ion-pumping ATPas
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -391,9 +400,11 @@ The membrane rotor ring from the vacuolar-type (V-type) sodium ion-pumping ATPas
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MMDYLITQNGGMVFA</span><span class="topo-membrane">VLAMATATIFSGIGSAKGV</span><span class="topo-inside">GMTGEAAAALTTSQPEKFGQALILQL</span></span>
-<span class="topo-line"><span class="topo-membrane">LPGTQGLYGFVIAFLIFI</span><span class="topo-outside">NLGSDMSVVQGLNF</span><span class="topo-membrane">LGASLPIAFTGLFSGIAQ</span><span class="topo-inside">GKVAAAGIQI</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MMDYLITQNGGMVFA</span><span class="topo-membrane">VLAMATATIFSGIGSAKGV</span><span class="topo-inside">GMTGEAAAALTTSQPEKFGQALILQL</span><span class="topo-membrane">LPGTQGLYGFVIAFLIFI</span><span class="topo-outside">NLGSDMSVVQGLNF</span><span class="topo-membrane">LGASLPIAFTGLFSGIAQ</span><span class="topo-inside">GKVAAAGIQI</span></span>
+<span class="topo-ruler">       130       140       150      </span>
 <span class="topo-line"><span class="topo-inside">LAKKPEHATKGIIFAA</span><span class="topo-membrane">MVETYAILGFVISFLLVL</span><span class="topo-outside">NA</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -468,6 +479,7 @@ The membrane rotor ring from the vacuolar-type (V-type) sodium ion-pumping ATPas
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -483,9 +495,11 @@ The membrane rotor ring from the vacuolar-type (V-type) sodium ion-pumping ATPas
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MMDYLITQNGGMVFA</span><span class="topo-membrane">VLAMATATIFSGIGSAKGVG</span><span class="topo-inside">MTGEAAAALTTSQPEKFGQALILQL</span></span>
-<span class="topo-line"><span class="topo-membrane">LPGTQGLYGFVIAFLIFI</span><span class="topo-outside">NLGSDMSVVQGLNF</span><span class="topo-membrane">LGASLPIAFTGLFSGIAQ</span><span class="topo-inside">GKVAAAGIQI</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MMDYLITQNGGMVFA</span><span class="topo-membrane">VLAMATATIFSGIGSAKGVG</span><span class="topo-inside">MTGEAAAALTTSQPEKFGQALILQL</span><span class="topo-membrane">LPGTQGLYGFVIAFLIFI</span><span class="topo-outside">NLGSDMSVVQGLNF</span><span class="topo-membrane">LGASLPIAFTGLFSGIAQ</span><span class="topo-inside">GKVAAAGIQI</span></span>
+<span class="topo-ruler">       130       140       150      </span>
 <span class="topo-line"><span class="topo-inside">LAKKPEHATKGIIFAA</span><span class="topo-membrane">MVETYAILGFVISFLLVL</span><span class="topo-outside">NA</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -560,6 +574,7 @@ The membrane rotor ring from the vacuolar-type (V-type) sodium ion-pumping ATPas
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -575,9 +590,11 @@ The membrane rotor ring from the vacuolar-type (V-type) sodium ion-pumping ATPas
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MMDYLITQNGGMVFA</span><span class="topo-membrane">VLAMATATIFSGIGSAKGVG</span><span class="topo-inside">MTGEAAAALTTSQPEKFGQALILQL</span></span>
-<span class="topo-line"><span class="topo-membrane">LPGTQGLYGFVIAFLIFI</span><span class="topo-outside">NLGSDMSVVQGLNF</span><span class="topo-membrane">LGASLPIAFTGLFSGIAQ</span><span class="topo-inside">GKVAAAGIQI</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MMDYLITQNGGMVFA</span><span class="topo-membrane">VLAMATATIFSGIGSAKGVG</span><span class="topo-inside">MTGEAAAALTTSQPEKFGQALILQL</span><span class="topo-membrane">LPGTQGLYGFVIAFLIFI</span><span class="topo-outside">NLGSDMSVVQGLNF</span><span class="topo-membrane">LGASLPIAFTGLFSGIAQ</span><span class="topo-inside">GKVAAAGIQI</span></span>
+<span class="topo-ruler">       130       140       150      </span>
 <span class="topo-line"><span class="topo-inside">LAKKPEHATKGIIFAA</span><span class="topo-membrane">MVETYAILGFVISFLLVL</span><span class="topo-outside">NA</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -652,6 +669,7 @@ The membrane rotor ring from the vacuolar-type (V-type) sodium ion-pumping ATPas
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -667,9 +685,11 @@ The membrane rotor ring from the vacuolar-type (V-type) sodium ion-pumping ATPas
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MMDYLITQNGGMVFA</span><span class="topo-membrane">VLAMATATIFSGIGSAKGVG</span><span class="topo-inside">MTGEAAAALTTSQPEKFGQALILQL</span></span>
-<span class="topo-line"><span class="topo-membrane">LPGTQGLYGFVIAFLIFI</span><span class="topo-outside">NLGSDMSVVQGLNF</span><span class="topo-membrane">LGASLPIAFTGLFSGIAQ</span><span class="topo-inside">GKVAAAGIQI</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MMDYLITQNGGMVFA</span><span class="topo-membrane">VLAMATATIFSGIGSAKGVG</span><span class="topo-inside">MTGEAAAALTTSQPEKFGQALILQL</span><span class="topo-membrane">LPGTQGLYGFVIAFLIFI</span><span class="topo-outside">NLGSDMSVVQGLNF</span><span class="topo-membrane">LGASLPIAFTGLFSGIAQ</span><span class="topo-inside">GKVAAAGIQI</span></span>
+<span class="topo-ruler">       130       140       150      </span>
 <span class="topo-line"><span class="topo-inside">LAKKPEHATKGIIFAA</span><span class="topo-membrane">MVETYAILGFVISFLLVL</span><span class="topo-outside">NA</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -744,6 +764,7 @@ The membrane rotor ring from the vacuolar-type (V-type) sodium ion-pumping ATPas
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -759,9 +780,11 @@ The membrane rotor ring from the vacuolar-type (V-type) sodium ion-pumping ATPas
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MMDYLITQNGGMVFAV</span><span class="topo-membrane">LAMATATIFSGIGSAKGVG</span><span class="topo-inside">MTGEAAAALTTSQPEKFGQALILQL</span></span>
-<span class="topo-line"><span class="topo-membrane">LPGTQGLYGFVIAFLIFI</span><span class="topo-outside">NLGSDMSVVQGLNF</span><span class="topo-membrane">LGASLPIAFTGLFSGIAQG</span><span class="topo-inside">KVAAAGIQI</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MMDYLITQNGGMVFAV</span><span class="topo-membrane">LAMATATIFSGIGSAKGVG</span><span class="topo-inside">MTGEAAAALTTSQPEKFGQALILQL</span><span class="topo-membrane">LPGTQGLYGFVIAFLIFI</span><span class="topo-outside">NLGSDMSVVQGLNF</span><span class="topo-membrane">LGASLPIAFTGLFSGIAQG</span><span class="topo-inside">KVAAAGIQI</span></span>
+<span class="topo-ruler">       130       140       150      </span>
 <span class="topo-line"><span class="topo-inside">LAKKPEHATKGIIFAA</span><span class="topo-membrane">MVETYAILGFVISFLLVL</span><span class="topo-outside">NA</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -836,6 +859,7 @@ The membrane rotor ring from the vacuolar-type (V-type) sodium ion-pumping ATPas
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -851,9 +875,11 @@ The membrane rotor ring from the vacuolar-type (V-type) sodium ion-pumping ATPas
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MMDYLITQNGGMVFA</span><span class="topo-membrane">VLAMATATIFSGIGSAKGVG</span><span class="topo-inside">MTGEAAAALTTSQPEKFGQALILQL</span></span>
-<span class="topo-line"><span class="topo-membrane">LPGTQGLYGFVIAFLIFI</span><span class="topo-outside">NLGSDMSVVQGLNF</span><span class="topo-membrane">LGASLPIAFTGLFSGIAQG</span><span class="topo-inside">KVAAAGIQI</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MMDYLITQNGGMVFA</span><span class="topo-membrane">VLAMATATIFSGIGSAKGVG</span><span class="topo-inside">MTGEAAAALTTSQPEKFGQALILQL</span><span class="topo-membrane">LPGTQGLYGFVIAFLIFI</span><span class="topo-outside">NLGSDMSVVQGLNF</span><span class="topo-membrane">LGASLPIAFTGLFSGIAQG</span><span class="topo-inside">KVAAAGIQI</span></span>
+<span class="topo-ruler">       130       140       150      </span>
 <span class="topo-line"><span class="topo-inside">LAKKPEHATKGIIFAA</span><span class="topo-membrane">MVETYAILGFVISFLLVL</span><span class="topo-outside">NA</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -928,6 +954,7 @@ The membrane rotor ring from the vacuolar-type (V-type) sodium ion-pumping ATPas
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -943,9 +970,11 @@ The membrane rotor ring from the vacuolar-type (V-type) sodium ion-pumping ATPas
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MMDYLITQNGGMVFA</span><span class="topo-membrane">VLAMATATIFSGIGSAKGVG</span><span class="topo-inside">MTGEAAAALTTSQPEKFGQALILQL</span></span>
-<span class="topo-line"><span class="topo-membrane">LPGTQGLYGFVIAFLIFI</span><span class="topo-outside">NLGSDMSVVQGLNF</span><span class="topo-membrane">LGASLPIAFTGLFSGIAQ</span><span class="topo-inside">GKVAAAGIQI</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MMDYLITQNGGMVFA</span><span class="topo-membrane">VLAMATATIFSGIGSAKGVG</span><span class="topo-inside">MTGEAAAALTTSQPEKFGQALILQL</span><span class="topo-membrane">LPGTQGLYGFVIAFLIFI</span><span class="topo-outside">NLGSDMSVVQGLNF</span><span class="topo-membrane">LGASLPIAFTGLFSGIAQ</span><span class="topo-inside">GKVAAAGIQI</span></span>
+<span class="topo-ruler">       130       140       150      </span>
 <span class="topo-line"><span class="topo-inside">LAKKPEHATKGIIFAA</span><span class="topo-membrane">MVETYAILGFVISFLLVL</span><span class="topo-outside">NA</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1020,6 +1049,7 @@ The membrane rotor ring from the vacuolar-type (V-type) sodium ion-pumping ATPas
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

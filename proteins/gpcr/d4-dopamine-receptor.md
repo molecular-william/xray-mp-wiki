@@ -133,14 +133,15 @@ provides an atomic-resolution model for DRD4 ligand selectivity.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GGTTMGNRSTADADGLLAGRGPAAGASAGASAGLAGQ</span><span class="topo-outside">GAA</span><span class="topo-membrane">ALVGGVLLIGAVLAGNSLVC</span></span>
-<span class="topo-line"><span class="topo-membrane">VSV</span><span class="topo-inside">ATERALQTPT</span><span class="topo-membrane">NSFIVSLAAADLLLALLVLPLFV</span><span class="topo-outside">YSEVQGGAWLLSPRLCDA</span><span class="topo-membrane">LMAMDV</span></span>
-<span class="topo-line"><span class="topo-membrane">MLCTASIFNLCAISVDRFV</span><span class="topo-inside">AVAVPLRYNRQGGSRR</span><span class="topo-membrane">QLLLIGATWLLSAAVAAPVL</span><span class="topo-outside">CGLND</span></span>
-<span class="topo-line"><span class="topo-unknown">VRGRD</span><span class="topo-outside">PAVCRLEDRDYVVY</span><span class="topo-membrane">SSVCSFFLPCPLMLLLYWATFR</span><span class="topo-inside">GLQRWEVARRADLEDNWET</span></span>
-<span class="topo-line"><span class="topo-inside">LNDNLKVIEKADNAAQVKDALTKMRAAALDAQKATPPKLEDKSP</span><span class="topo-unknown">DS</span><span class="topo-inside">PEMKDFRHGFDILV</span></span>
-<span class="topo-line"><span class="topo-inside">GQIDDALKLANEGKVKEAQAAAEQLKTTRNAYIQKYLAKITGRERKAM</span><span class="topo-membrane">RVLPVVVGAFLL</span></span>
-<span class="topo-line"><span class="topo-membrane">CWTPFFV</span><span class="topo-outside">VHITQALCPACSVPPRLVSA</span><span class="topo-membrane">VTWLGYVNSALNPVIYTVFN</span><span class="topo-unknown">AEFRNVFR</span><span class="topo-inside">KA</span><span class="topo-unknown">LRA</span></span>
-<span class="topo-line"><span class="topo-unknown">CC</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GGTTMGNRSTADADGLLAGRGPAAGASAGASAGLAGQ</span><span class="topo-outside">GAA</span><span class="topo-membrane">ALVGGVLLIGAVLAGNSLVCVSV</span><span class="topo-inside">ATERALQTPT</span><span class="topo-membrane">NSFIVSLAAADLLLALLVLPLFV</span><span class="topo-outside">YSEVQGGAWLLSPRLCDA</span><span class="topo-membrane">LMAMDV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">MLCTASIFNLCAISVDRFV</span><span class="topo-inside">AVAVPLRYNRQGGSRR</span><span class="topo-membrane">QLLLIGATWLLSAAVAAPVL</span><span class="topo-outside">CGLND</span><span class="topo-unknown">VRGRD</span><span class="topo-outside">PAVCRLEDRDYVVY</span><span class="topo-membrane">SSVCSFFLPCPLMLLLYWATFR</span><span class="topo-inside">GLQRWEVARRADLEDNWET</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">LNDNLKVIEKADNAAQVKDALTKMRAAALDAQKATPPKLEDKSP</span><span class="topo-unknown">DS</span><span class="topo-inside">PEMKDFRHGFDILVGQIDDALKLANEGKVKEAQAAAEQLKTTRNAYIQKYLAKITGRERKAM</span><span class="topo-membrane">RVLPVVVGAFLL</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420  </span>
+<span class="topo-line"><span class="topo-membrane">CWTPFFV</span><span class="topo-outside">VHITQALCPACSVPPRLVSA</span><span class="topo-membrane">VTWLGYVNSALNPVIYTVFN</span><span class="topo-unknown">AEFRNVFR</span><span class="topo-inside">KA</span><span class="topo-unknown">LRACC</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -278,6 +279,7 @@ provides an atomic-resolution model for DRD4 ligand selectivity.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -293,14 +295,15 @@ provides an atomic-resolution model for DRD4 ligand selectivity.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GGTTMGNRSTADADGLLAGRGPAAGASAGASAGLA</span><span class="topo-inside">GQGAA</span><span class="topo-membrane">ALVGGVLLIGAVLAGNSLVC</span></span>
-<span class="topo-line"><span class="topo-membrane">VS</span><span class="topo-outside">VATERALQTPTNS</span><span class="topo-membrane">FIVSLAAADLLLALLVLPLFV</span><span class="topo-inside">YSEVQGGAWLLSPRLCDA</span><span class="topo-membrane">LMAMDV</span></span>
-<span class="topo-line"><span class="topo-membrane">MLCTASIFNLCAISV</span><span class="topo-outside">DRFVAVAVPLRYNRQGGSRRQ</span><span class="topo-membrane">LLLIGATWLLSAAVAAPVLC</span><span class="topo-inside">GLND</span></span>
-<span class="topo-line"><span class="topo-unknown">VRGRD</span><span class="topo-inside">PAVCRLEDRD</span><span class="topo-membrane">YVVYSSVCSFFLPCPLMLLLY</span><span class="topo-outside">WATFRGLQRWEVARRADLEDNWET</span></span>
-<span class="topo-line"><span class="topo-outside">LNDNLKVIEKADNAAQVKDALTKMRAAALDAQKATPPKLEDKSPDSPEMKDFRHGFDILV</span></span>
-<span class="topo-line"><span class="topo-outside">GQIDDALKLANEGKVKEAQAAAEQLKTTRNAYIQKYLAKITGRERKAMRVL</span><span class="topo-membrane">PVVVGAFLL</span></span>
-<span class="topo-line"><span class="topo-membrane">CWTPFFVVHITQAL</span><span class="topo-inside">CPACSVPPRL</span><span class="topo-membrane">VSAVTWLGYVNSALNPVIYTV</span><span class="topo-outside">FN</span><span class="topo-unknown">AEFRNVFR</span><span class="topo-outside">KALR</span><span class="topo-unknown">A</span></span>
-<span class="topo-line"><span class="topo-unknown">CC</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GGTTMGNRSTADADGLLAGRGPAAGASAGASAGLA</span><span class="topo-inside">GQGAA</span><span class="topo-membrane">ALVGGVLLIGAVLAGNSLVCVS</span><span class="topo-outside">VATERALQTPTNS</span><span class="topo-membrane">FIVSLAAADLLLALLVLPLFV</span><span class="topo-inside">YSEVQGGAWLLSPRLCDA</span><span class="topo-membrane">LMAMDV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">MLCTASIFNLCAISV</span><span class="topo-outside">DRFVAVAVPLRYNRQGGSRRQ</span><span class="topo-membrane">LLLIGATWLLSAAVAAPVLC</span><span class="topo-inside">GLND</span><span class="topo-unknown">VRGRD</span><span class="topo-inside">PAVCRLEDRD</span><span class="topo-membrane">YVVYSSVCSFFLPCPLMLLLY</span><span class="topo-outside">WATFRGLQRWEVARRADLEDNWET</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">LNDNLKVIEKADNAAQVKDALTKMRAAALDAQKATPPKLEDKSPDSPEMKDFRHGFDILVGQIDDALKLANEGKVKEAQAAAEQLKTTRNAYIQKYLAKITGRERKAMRVL</span><span class="topo-membrane">PVVVGAFLL</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420  </span>
+<span class="topo-line"><span class="topo-membrane">CWTPFFVVHITQAL</span><span class="topo-inside">CPACSVPPRL</span><span class="topo-membrane">VSAVTWLGYVNSALNPVIYTV</span><span class="topo-outside">FN</span><span class="topo-unknown">AEFRNVFR</span><span class="topo-outside">KALR</span><span class="topo-unknown">ACC</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -438,6 +441,7 @@ provides an atomic-resolution model for DRD4 ligand selectivity.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

@@ -147,26 +147,27 @@ NCR1 (Niemann-Pick type C-Related protein 1) from Saccharomyces cerevisiae is a 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MNVLWIIALVGQLMRLVQGT</span><span class="topo-outside">ATCAMYGNCGKKSVFGNELPCPVPRSFEPPVLSDETSKLL</span></span>
-<span class="topo-line"><span class="topo-outside">VEVCGEEWKEVRYACCTKDQVVALRDNLQKAQPLISSCPACLKNFNNLFCHFTCAADQGR</span></span>
-<span class="topo-line"><span class="topo-outside">FVNITKVEKSKEDKDIVAELDVFMNSSWASEFYDSCKNIKFSATNGYAMDLIGGGAKNYS</span></span>
-<span class="topo-line"><span class="topo-outside">QFLKFLGDAKPMLGGSPFQINYKYDLANEEKEWQEFNDEVYACDDAQYKCACSDCQESCP</span></span>
-<span class="topo-line"><span class="topo-outside">HLKPLKDGVCKVGPLPCF</span><span class="topo-membrane">SLSVLIFYTICALFAFMWYYL</span><span class="topo-unknown">CKRKKNGAMIVDDDIVPESGS</span></span>
-<span class="topo-line"><span class="topo-unknown">LDESETNVFESFNNE</span><span class="topo-inside">TNFFNGKLANLFTKVGQFSVENPY</span><span class="topo-membrane">KILITTVFSIFVFSFIIF</span><span class="topo-outside">QYA</span></span>
-<span class="topo-line"><span class="topo-outside">TLETDPINLWVSKNSEKFKEKEYFDDNFGPFYRTEQIFVVNETGPVLSYETLHWWFDVEN</span></span>
-<span class="topo-line"><span class="topo-outside">FITEELQSSENIGYQDLCFRPTEDSTCVIESFTQYFQGALPNKDSWKRELQECGKFPVNC</span></span>
-<span class="topo-line"><span class="topo-outside">LPTFQQPLKTNLLFSDDDILNAHAFVVTLLLTNHTQSANRWEERLEEYLLDLKVPEGLRI</span></span>
-<span class="topo-line"><span class="topo-outside">SFNTEISLEKELNNNNDIS</span><span class="topo-membrane">TVAISYLMMFLYATWA</span><span class="topo-inside">LRRKDGKTRL</span><span class="topo-membrane">LLGISGLLIVLASIV</span></span>
-<span class="topo-line"><span class="topo-membrane">CAAGFLTLF</span><span class="topo-outside">GLKSTLII</span><span class="topo-membrane">AEVIPFLILAIGIDNIFL</span><span class="topo-inside">ITHEYDRNCEQKPEYSIDQKIISAI</span></span>
-<span class="topo-line"><span class="topo-inside">GRMSPS</span><span class="topo-membrane">ILMSLLCQTGCFLIAAF</span><span class="topo-outside">VTMPAVH</span><span class="topo-membrane">NFAIYSTVSVIFNGVLQLTAY</span><span class="topo-inside">VSILSLYEK</span></span>
-<span class="topo-line"><span class="topo-inside">RSNYKQIT</span><span class="topo-unknown">GNEETKE</span><span class="topo-inside">SFLKTFYFKMLTQKR</span><span class="topo-membrane">LIIIIFSAWFFTSLVFL</span><span class="topo-outside">PEIQFGLDQTLAV</span></span>
-<span class="topo-line"><span class="topo-outside">PQDSYLVDYFKDVYSFLNVGPPVYMVVKNLDLTKRQNQQKICGKFTTCERDSLANVLEQE</span></span>
-<span class="topo-line"><span class="topo-outside">RHRSTITEPLANWLDDYFMFLNPQNDQCCRLKKGTDEVCPPSFPSRRCETCFQQGSWNYN</span></span>
-<span class="topo-line"><span class="topo-outside">MSGFPEGKDFMEYLSIWINAPSDPCPLGGRAPYSTALVYNETSVSASVFRTAHHPLRSQK</span></span>
-<span class="topo-line"><span class="topo-outside">DFIQAYSDGVRISSSFPELDMFAYSPFYIFFVQYQTLGPL</span><span class="topo-membrane">TLKLIGSAIILIFFISSVF</span><span class="topo-inside">L</span></span>
-<span class="topo-line"><span class="topo-inside">QNI</span><span class="topo-membrane">RSSFLLALVVTMIIVDIGALMALL</span><span class="topo-outside">GISLNAVS</span><span class="topo-membrane">LVNLIICVGLGVEFCVHIV</span><span class="topo-inside">RSFTVV</span></span>
-<span class="topo-line"><span class="topo-inside">PSETKKDANSRVLYSLNTIGES</span><span class="topo-membrane">VIKGITLTKFIGVCVLA</span><span class="topo-outside">FAQSKIFDVFY</span><span class="topo-membrane">FRMWFTLIIV</span></span>
-<span class="topo-line"><span class="topo-membrane">AALHALLFLPAL</span><span class="topo-inside">LSLFGGE</span><span class="topo-unknown">SYRDDSIEAEDLVPRGSGGGGSGGGGSGGHHHHHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MNVLWIIALVGQLMRLVQGT</span><span class="topo-outside">ATCAMYGNCGKKSVFGNELPCPVPRSFEPPVLSDETSKLLVEVCGEEWKEVRYACCTKDQVVALRDNLQKAQPLISSCPACLKNFNNLFCHFTCAADQGR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">FVNITKVEKSKEDKDIVAELDVFMNSSWASEFYDSCKNIKFSATNGYAMDLIGGGAKNYSQFLKFLGDAKPMLGGSPFQINYKYDLANEEKEWQEFNDEVYACDDAQYKCACSDCQESCP</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">HLKPLKDGVCKVGPLPCF</span><span class="topo-membrane">SLSVLIFYTICALFAFMWYYL</span><span class="topo-unknown">CKRKKNGAMIVDDDIVPESGSLDESETNVFESFNNE</span><span class="topo-inside">TNFFNGKLANLFTKVGQFSVENPY</span><span class="topo-membrane">KILITTVFSIFVFSFIIF</span><span class="topo-outside">QYA</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">TLETDPINLWVSKNSEKFKEKEYFDDNFGPFYRTEQIFVVNETGPVLSYETLHWWFDVENFITEELQSSENIGYQDLCFRPTEDSTCVIESFTQYFQGALPNKDSWKRELQECGKFPVNC</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">LPTFQQPLKTNLLFSDDDILNAHAFVVTLLLTNHTQSANRWEERLEEYLLDLKVPEGLRISFNTEISLEKELNNNNDIS</span><span class="topo-membrane">TVAISYLMMFLYATWA</span><span class="topo-inside">LRRKDGKTRL</span><span class="topo-membrane">LLGISGLLIVLASIV</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-membrane">CAAGFLTLF</span><span class="topo-outside">GLKSTLII</span><span class="topo-membrane">AEVIPFLILAIGIDNIFL</span><span class="topo-inside">ITHEYDRNCEQKPEYSIDQKIISAIGRMSPS</span><span class="topo-membrane">ILMSLLCQTGCFLIAAF</span><span class="topo-outside">VTMPAVH</span><span class="topo-membrane">NFAIYSTVSVIFNGVLQLTAY</span><span class="topo-inside">VSILSLYEK</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820       830       840</span>
+<span class="topo-line"><span class="topo-inside">RSNYKQIT</span><span class="topo-unknown">GNEETKE</span><span class="topo-inside">SFLKTFYFKMLTQKR</span><span class="topo-membrane">LIIIIFSAWFFTSLVFL</span><span class="topo-outside">PEIQFGLDQTLAVPQDSYLVDYFKDVYSFLNVGPPVYMVVKNLDLTKRQNQQKICGKFTTCERDSLANVLEQE</span></span>
+<span class="topo-ruler">       850       860       870       880       890       900       910       920       930       940       950       960</span>
+<span class="topo-line"><span class="topo-outside">RHRSTITEPLANWLDDYFMFLNPQNDQCCRLKKGTDEVCPPSFPSRRCETCFQQGSWNYNMSGFPEGKDFMEYLSIWINAPSDPCPLGGRAPYSTALVYNETSVSASVFRTAHHPLRSQK</span></span>
+<span class="topo-ruler">       970       980       990      1000      1010      1020      1030      1040      1050      1060      1070      1080</span>
+<span class="topo-line"><span class="topo-outside">DFIQAYSDGVRISSSFPELDMFAYSPFYIFFVQYQTLGPL</span><span class="topo-membrane">TLKLIGSAIILIFFISSVF</span><span class="topo-inside">LQNI</span><span class="topo-membrane">RSSFLLALVVTMIIVDIGALMALL</span><span class="topo-outside">GISLNAVS</span><span class="topo-membrane">LVNLIICVGLGVEFCVHIV</span><span class="topo-inside">RSFTVV</span></span>
+<span class="topo-ruler">      1090      1100      1110      1120      1130      1140      1150      1160      1170      1180      1190        </span>
+<span class="topo-line"><span class="topo-inside">PSETKKDANSRVLYSLNTIGES</span><span class="topo-membrane">VIKGITLTKFIGVCVLA</span><span class="topo-outside">FAQSKIFDVFY</span><span class="topo-membrane">FRMWFTLIIVAALHALLFLPAL</span><span class="topo-inside">LSLFGGE</span><span class="topo-unknown">SYRDDSIEAEDLVPRGSGGGGSGGGGSGGHHHHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (32 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -402,6 +403,7 @@ NCR1 (Niemann-Pick type C-Related protein 1) from Saccharomyces cerevisiae is a 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

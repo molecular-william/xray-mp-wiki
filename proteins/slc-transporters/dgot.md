@@ -216,14 +216,15 @@ bind the anionic substrate.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MVSGFAMPKIWRKLAMDIPVNAAKPG</span><span class="topo-inside">RRRYL</span><span class="topo-membrane">TLVMIFITVVICYVDRANLAVAS</span><span class="topo-outside">AHIQEE</span></span>
-<span class="topo-line"><span class="topo-outside">FGITKAEM</span><span class="topo-membrane">GYVFSAFAWLYTLCQIPGGWFL</span><span class="topo-inside">DRVGS</span><span class="topo-membrane">RVTYFIAIFGWSVATLFQGFA</span><span class="topo-outside">TGLM</span></span>
-<span class="topo-line"><span class="topo-membrane">SLIGLRAITGIFEAPAFPTN</span><span class="topo-inside">NRMVTSWFPEHERASA</span><span class="topo-membrane">VGFYTSGQFVGLAFLTPLLIWI</span><span class="topo-outside">QE</span></span>
-<span class="topo-line"><span class="topo-outside">MLSWH</span><span class="topo-membrane">WVFIVTGGIGIIWSLIWFKVY</span><span class="topo-inside">QPPRLTKGISKAELDYIRDGGGLVDGDA</span><span class="topo-unknown">PVKKEA</span></span>
-<span class="topo-line"><span class="topo-unknown">RQ</span><span class="topo-inside">PLTAKDWKLVFHR</span><span class="topo-membrane">KLIGVYLGQFAVASTLWFFLTWFP</span><span class="topo-outside">NYLTQEKGITALKAG</span><span class="topo-membrane">FMTTVP</span></span>
-<span class="topo-line"><span class="topo-membrane">FLAAFVGVLLSGWV</span><span class="topo-inside">ADLLVRKGFSLGFAR</span><span class="topo-membrane">KTPIICGLLISTCIMGAN</span><span class="topo-outside">YTNDPM</span><span class="topo-membrane">MIMCLMA</span></span>
-<span class="topo-line"><span class="topo-membrane">LAFFGNGFASITW</span><span class="topo-inside">SLVSSLAPMRLIGLTG</span><span class="topo-membrane">GVFNFAGGLGGITVPLVVGYL</span><span class="topo-outside">AQGYGFAP</span><span class="topo-membrane">AL</span></span>
-<span class="topo-line"><span class="topo-membrane">VYISAVALIGALSYILLVG</span><span class="topo-inside">DVKR</span><span class="topo-unknown">VGSLVPRGSGSHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MVSGFAMPKIWRKLAMDIPVNAAKPG</span><span class="topo-inside">RRRYL</span><span class="topo-membrane">TLVMIFITVVICYVDRANLAVAS</span><span class="topo-outside">AHIQEEFGITKAEM</span><span class="topo-membrane">GYVFSAFAWLYTLCQIPGGWFL</span><span class="topo-inside">DRVGS</span><span class="topo-membrane">RVTYFIAIFGWSVATLFQGFA</span><span class="topo-outside">TGLM</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">SLIGLRAITGIFEAPAFPTN</span><span class="topo-inside">NRMVTSWFPEHERASA</span><span class="topo-membrane">VGFYTSGQFVGLAFLTPLLIWI</span><span class="topo-outside">QEMLSWH</span><span class="topo-membrane">WVFIVTGGIGIIWSLIWFKVY</span><span class="topo-inside">QPPRLTKGISKAELDYIRDGGGLVDGDA</span><span class="topo-unknown">PVKKEA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-unknown">RQ</span><span class="topo-inside">PLTAKDWKLVFHR</span><span class="topo-membrane">KLIGVYLGQFAVASTLWFFLTWFP</span><span class="topo-outside">NYLTQEKGITALKAG</span><span class="topo-membrane">FMTTVPFLAAFVGVLLSGWV</span><span class="topo-inside">ADLLVRKGFSLGFAR</span><span class="topo-membrane">KTPIICGLLISTCIMGAN</span><span class="topo-outside">YTNDPM</span><span class="topo-membrane">MIMCLMA</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460</span>
+<span class="topo-line"><span class="topo-membrane">LAFFGNGFASITW</span><span class="topo-inside">SLVSSLAPMRLIGLTG</span><span class="topo-membrane">GVFNFAGGLGGITVPLVVGYL</span><span class="topo-outside">AQGYGFAP</span><span class="topo-membrane">ALVYISAVALIGALSYILLVG</span><span class="topo-inside">DVKR</span><span class="topo-unknown">VGSLVPRGSGSHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (29 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -438,6 +439,7 @@ bind the anionic substrate.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -453,14 +455,15 @@ bind the anionic substrate.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MVSGFAMPKIWRKLAMDIPVNAA</span><span class="topo-outside">KPGRRRYL</span><span class="topo-membrane">TLVMIFITVVICYVDRANL</span><span class="topo-inside">AVASAHIQEE</span></span>
-<span class="topo-line"><span class="topo-inside">FGITKAEMGYV</span><span class="topo-membrane">FSAFAWLYTLCQIPGGWFL</span><span class="topo-outside">DRVGSR</span><span class="topo-membrane">VTYFIAIFGWSVATLFQGF</span><span class="topo-inside">ATGLM</span></span>
-<span class="topo-line"><span class="topo-inside">S</span><span class="topo-membrane">LIGLRAITGIFQAPAFPTNN</span><span class="topo-outside">RMVTSWFPEHER</span><span class="topo-membrane">ASAVGFYTSGQFVGLAFLTPLL</span><span class="topo-inside">IWIQE</span></span>
-<span class="topo-line"><span class="topo-inside">MLSWHW</span><span class="topo-membrane">VFIVTGGIGIIWSLIWFKV</span><span class="topo-outside">YQPPRLTKGISKAELDYIRDGGGLV</span><span class="topo-unknown">DGDAPVKKEA</span></span>
-<span class="topo-line"><span class="topo-unknown">RQ</span><span class="topo-outside">PLTAKDWKLV</span><span class="topo-membrane">FHRKLIGVYLGQFAVASTLWFFLT</span><span class="topo-inside">WFPNYLTQEKGIT</span><span class="topo-unknown">ALKAG</span><span class="topo-inside">FMTT</span><span class="topo-membrane">VP</span></span>
-<span class="topo-line"><span class="topo-membrane">FLAAFVGVLLSGWVAD</span><span class="topo-outside">LLVRKGFSLGF</span><span class="topo-membrane">ARKTPIICGLLISTCIMG</span><span class="topo-inside">ANYTNDPMMIMC</span><span class="topo-membrane">LMA</span></span>
-<span class="topo-line"><span class="topo-membrane">LAFFGNGFASITWSLV</span><span class="topo-outside">SSLAPMRLIG</span><span class="topo-membrane">LTGGVFNFAGGLGGITVPLV</span><span class="topo-inside">VGYLAQGYGFAPAL</span></span>
-<span class="topo-line"><span class="topo-membrane">VYISAVALIGALSYILLV</span><span class="topo-outside">GDVK</span><span class="topo-unknown">RVGSLVPRGSGSHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MVSGFAMPKIWRKLAMDIPVNAA</span><span class="topo-outside">KPGRRRYL</span><span class="topo-membrane">TLVMIFITVVICYVDRANL</span><span class="topo-inside">AVASAHIQEEFGITKAEMGYV</span><span class="topo-membrane">FSAFAWLYTLCQIPGGWFL</span><span class="topo-outside">DRVGSR</span><span class="topo-membrane">VTYFIAIFGWSVATLFQGF</span><span class="topo-inside">ATGLM</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">S</span><span class="topo-membrane">LIGLRAITGIFQAPAFPTNN</span><span class="topo-outside">RMVTSWFPEHER</span><span class="topo-membrane">ASAVGFYTSGQFVGLAFLTPLL</span><span class="topo-inside">IWIQEMLSWHW</span><span class="topo-membrane">VFIVTGGIGIIWSLIWFKV</span><span class="topo-outside">YQPPRLTKGISKAELDYIRDGGGLV</span><span class="topo-unknown">DGDAPVKKEA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-unknown">RQ</span><span class="topo-outside">PLTAKDWKLV</span><span class="topo-membrane">FHRKLIGVYLGQFAVASTLWFFLT</span><span class="topo-inside">WFPNYLTQEKGIT</span><span class="topo-unknown">ALKAG</span><span class="topo-inside">FMTT</span><span class="topo-membrane">VPFLAAFVGVLLSGWVAD</span><span class="topo-outside">LLVRKGFSLGF</span><span class="topo-membrane">ARKTPIICGLLISTCIMG</span><span class="topo-inside">ANYTNDPMMIMC</span><span class="topo-membrane">LMA</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460</span>
+<span class="topo-line"><span class="topo-membrane">LAFFGNGFASITWSLV</span><span class="topo-outside">SSLAPMRLIG</span><span class="topo-membrane">LTGGVFNFAGGLGGITVPLV</span><span class="topo-inside">VGYLAQGYGFAPAL</span><span class="topo-membrane">VYISAVALIGALSYILLV</span><span class="topo-outside">GDVK</span><span class="topo-unknown">RVGSLVPRGSGSHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (27 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -661,6 +664,7 @@ bind the anionic substrate.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

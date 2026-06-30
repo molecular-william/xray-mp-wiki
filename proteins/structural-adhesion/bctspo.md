@@ -103,10 +103,11 @@ BcTSPO is the translocator protein (TSPO) homolog from *Bacillus cereus*, a bact
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MDYKDDDDKHHHHHHHHHHENLYFQSYVMF</span><span class="topo-outside">MKKS</span><span class="topo-membrane">SIIVFFLTYGLFYVSSVLFP</span><span class="topo-inside">ID</span><span class="topo-unknown">RTWY</span></span>
-<span class="topo-line"><span class="topo-unknown">DA</span><span class="topo-inside">LEKPSWTPPGM</span><span class="topo-membrane">TIGMIWAVLFGLIALSVAIIY</span><span class="topo-outside">NNYGFKPK</span><span class="topo-membrane">TFWFLFLLNYIFNQAFSY</span></span>
-<span class="topo-line"><span class="topo-membrane">FQ</span><span class="topo-inside">FSQKNLF</span><span class="topo-membrane">LATVDCLLVAITTLLLIMFSS</span><span class="topo-outside">NLSK</span><span class="topo-membrane">VSAWLLIPYFLWSAFATYLSW</span><span class="topo-inside">TIYSI</span></span>
-<span class="topo-line"><span class="topo-inside">N</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MDYKDDDDKHHHHHHHHHHENLYFQSYVMF</span><span class="topo-outside">MKKS</span><span class="topo-membrane">SIIVFFLTYGLFYVSSVLFP</span><span class="topo-inside">ID</span><span class="topo-unknown">RTWYDA</span><span class="topo-inside">LEKPSWTPPGM</span><span class="topo-membrane">TIGMIWAVLFGLIALSVAIIY</span><span class="topo-outside">NNYGFKPK</span><span class="topo-membrane">TFWFLFLLNYIFNQAFSY</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180 </span>
+<span class="topo-line"><span class="topo-membrane">FQ</span><span class="topo-inside">FSQKNLF</span><span class="topo-membrane">LATVDCLLVAITTLLLIMFSS</span><span class="topo-outside">NLSK</span><span class="topo-membrane">VSAWLLIPYFLWSAFATYLSW</span><span class="topo-inside">TIYSIN</span></span>
+<details class="topo-details"><summary>Topology coordinates (13 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -209,6 +210,7 @@ BcTSPO is the translocator protein (TSPO) homolog from *Bacillus cereus*, a bact
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -224,10 +226,11 @@ BcTSPO is the translocator protein (TSPO) homolog from *Bacillus cereus*, a bact
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MDYKDDDDKHHHHHHHHHHENLYFQSYVMF</span><span class="topo-outside">MKKS</span><span class="topo-membrane">SIIVFFLTYGLFYVSSVLFP</span><span class="topo-inside">ID</span><span class="topo-unknown">RTWY</span></span>
-<span class="topo-line"><span class="topo-unknown">DA</span><span class="topo-inside">LEKPSWTPPGM</span><span class="topo-membrane">TIGMIWAVLFGLIALSVAIIY</span><span class="topo-outside">NNYGFKPK</span><span class="topo-membrane">TFWFLFLLNYIFNQAFSY</span></span>
-<span class="topo-line"><span class="topo-membrane">FQ</span><span class="topo-inside">FSQKNLF</span><span class="topo-membrane">LATVDCLLVAITTLLLIMFSS</span><span class="topo-outside">NLSK</span><span class="topo-membrane">VSAWLLIPYFLWSAFATYLSW</span><span class="topo-inside">TIYSI</span></span>
-<span class="topo-line"><span class="topo-inside">N</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MDYKDDDDKHHHHHHHHHHENLYFQSYVMF</span><span class="topo-outside">MKKS</span><span class="topo-membrane">SIIVFFLTYGLFYVSSVLFP</span><span class="topo-inside">ID</span><span class="topo-unknown">RTWYDA</span><span class="topo-inside">LEKPSWTPPGM</span><span class="topo-membrane">TIGMIWAVLFGLIALSVAIIY</span><span class="topo-outside">NNYGFKPK</span><span class="topo-membrane">TFWFLFLLNYIFNQAFSY</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180 </span>
+<span class="topo-line"><span class="topo-membrane">FQ</span><span class="topo-inside">FSQKNLF</span><span class="topo-membrane">LATVDCLLVAITTLLLIMFSS</span><span class="topo-outside">NLSK</span><span class="topo-membrane">VSAWLLIPYFLWSAFATYLSW</span><span class="topo-inside">TIYSIN</span></span>
+<details class="topo-details"><summary>Topology coordinates (13 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -330,6 +333,7 @@ BcTSPO is the translocator protein (TSPO) homolog from *Bacillus cereus*, a bact
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

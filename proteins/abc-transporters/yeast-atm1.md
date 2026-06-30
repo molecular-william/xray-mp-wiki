@@ -118,16 +118,17 @@ Yeast Atm1 (ABC transporter of mitochondria 1) is a mitochondrial inner membrane
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">YIWPKGNNK</span><span class="topo-membrane">VRIRVLIALGLLISAKILNVQVPFFF</span><span class="topo-inside">KQTIDSMNIAWDDPTVALPAAIGLT</span></span>
-<span class="topo-line"><span class="topo-inside">IL</span><span class="topo-membrane">CYGVARFGSVLFGELRNAVFAKV</span><span class="topo-outside">AQNAIRTVSLQTFQHLMKLDLGWHLSRQTGGLTRA</span></span>
-<span class="topo-line"><span class="topo-outside">MDRGTKGISQV</span><span class="topo-membrane">LTAMVFHIIPISFEISVVCGILT</span><span class="topo-inside">YQFGA</span><span class="topo-membrane">SFAAITFSTMLLYSIFTIKTT</span></span>
-<span class="topo-line"><span class="topo-membrane">AWR</span><span class="topo-outside">THFRRDANKADNKAASVALDSLINFEAVKYFNNEKYLADKYNGSLMNYRDSQIK</span><span class="topo-membrane">VSQ</span></span>
-<span class="topo-line"><span class="topo-membrane">SLAFLNSGQNLIFTTALTAMM</span><span class="topo-inside">YMGCTGVIGGNLTVGDLV</span><span class="topo-membrane">LINQLVFQLSVPLNFLGSVY</span><span class="topo-outside">R</span></span>
-<span class="topo-line"><span class="topo-outside">DLKQSLIDMETLFKLRKNEVKIKNAERPLMLPENVPYDITFENVTFGYHPDRKILKNASF</span></span>
-<span class="topo-line"><span class="topo-outside">TIPAGWKTAIVGSSGSGKSTILKLVFRFYDPESGRILINGRDIKEYDIDALRKVIGVVPQ</span></span>
-<span class="topo-line"><span class="topo-outside">DTPLFNDTIWENVKFGRIDATDEEVITVVEKAQLAPLIKKLPQGFDTIVGERGLMISGGE</span></span>
-<span class="topo-line"><span class="topo-outside">KQRLAIARVLLKNARIMFFDEATSALDTHTEQALLRTIRDNFTSGSRTSVYIAHRLRTIA</span></span>
-<span class="topo-line"><span class="topo-outside">DADKIIVLDNGRVREEGKHLELLAMPGSLYRELWTIQEDLDHLENELKDQQELWSHPQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">YIWPKGNNK</span><span class="topo-membrane">VRIRVLIALGLLISAKILNVQVPFFF</span><span class="topo-inside">KQTIDSMNIAWDDPTVALPAAIGLTIL</span><span class="topo-membrane">CYGVARFGSVLFGELRNAVFAKV</span><span class="topo-outside">AQNAIRTVSLQTFQHLMKLDLGWHLSRQTGGLTRA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">MDRGTKGISQV</span><span class="topo-membrane">LTAMVFHIIPISFEISVVCGILT</span><span class="topo-inside">YQFGA</span><span class="topo-membrane">SFAAITFSTMLLYSIFTIKTTAWR</span><span class="topo-outside">THFRRDANKADNKAASVALDSLINFEAVKYFNNEKYLADKYNGSLMNYRDSQIK</span><span class="topo-membrane">VSQ</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">SLAFLNSGQNLIFTTALTAMM</span><span class="topo-inside">YMGCTGVIGGNLTVGDLV</span><span class="topo-membrane">LINQLVFQLSVPLNFLGSVY</span><span class="topo-outside">RDLKQSLIDMETLFKLRKNEVKIKNAERPLMLPENVPYDITFENVTFGYHPDRKILKNASF</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">TIPAGWKTAIVGSSGSGKSTILKLVFRFYDPESGRILINGRDIKEYDIDALRKVIGVVPQDTPLFNDTIWENVKFGRIDATDEEVITVVEKAQLAPLIKKLPQGFDTIVGERGLMISGGE</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590        </span>
+<span class="topo-line"><span class="topo-outside">KQRLAIARVLLKNARIMFFDEATSALDTHTEQALLRTIRDNFTSGSRTSVYIAHRLRTIADADKIIVLDNGRVREEGKHLELLAMPGSLYRELWTIQEDLDHLENELKDQQELWSHPQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (13 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -230,6 +231,7 @@ Yeast Atm1 (ABC transporter of mitochondria 1) is a mitochondrial inner membrane
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -245,16 +247,17 @@ Yeast Atm1 (ABC transporter of mitochondria 1) is a mitochondrial inner membrane
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">YIWPKGNNK</span><span class="topo-membrane">VRIRVLIALGLLISAKILNVQVPFFF</span><span class="topo-inside">KQTIDSMNIAWDDPTVALPAAIGLT</span></span>
-<span class="topo-line"><span class="topo-inside">I</span><span class="topo-membrane">LCYGVARFGSVLFGELRNAVFAKV</span><span class="topo-outside">AQNAIRTVSLQTFQHLMKLDLGWHLSRQTGGLTRA</span></span>
-<span class="topo-line"><span class="topo-outside">MDRGTKGISQV</span><span class="topo-membrane">LTAMVFHIIPISFEISVVCGILTY</span><span class="topo-inside">QFGA</span><span class="topo-membrane">SFAAITFSTMLLYSIFTIKTT</span></span>
-<span class="topo-line"><span class="topo-membrane">AWR</span><span class="topo-outside">THFRRDANKADNKAASVALDSLINFEAVKYFNNEKYLADKYNGSLMNYRDSQI</span><span class="topo-membrane">KVSQ</span></span>
-<span class="topo-line"><span class="topo-membrane">SLAFLNSGQNLIFTTALTAMM</span><span class="topo-inside">YMGCTGVIGGNLTVGDLV</span><span class="topo-membrane">LINQLVFQLSVPLNFLGSVY</span><span class="topo-outside">R</span></span>
-<span class="topo-line"><span class="topo-outside">DLKQSLIDMETLFKLRKNEVKIKNAERPLMLPENVPYDITFENVTFGYHPDRKILKNASF</span></span>
-<span class="topo-line"><span class="topo-outside">TIPAGWKTAIVGSSGSGKSTILKLVFRFYDPESGRILINGRDIKEYDIDALRKVIGVVPQ</span></span>
-<span class="topo-line"><span class="topo-outside">DTPLFNDTIWENVKFGRIDATDEEVITVVEKAQLAPLIKKLPQGFDTIVGERGLMISGGE</span></span>
-<span class="topo-line"><span class="topo-outside">KQRLAIARVLLKNARIMFFDEATSALDTHTEQALLRTIRDNFTSGSRTSVYIAHRLRTIA</span></span>
-<span class="topo-line"><span class="topo-outside">DADKIIVLDNGRVREEGKHLELLAMPGSLYRELWTIQEDLDHLENELKDQQELWSHPQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">YIWPKGNNK</span><span class="topo-membrane">VRIRVLIALGLLISAKILNVQVPFFF</span><span class="topo-inside">KQTIDSMNIAWDDPTVALPAAIGLTI</span><span class="topo-membrane">LCYGVARFGSVLFGELRNAVFAKV</span><span class="topo-outside">AQNAIRTVSLQTFQHLMKLDLGWHLSRQTGGLTRA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">MDRGTKGISQV</span><span class="topo-membrane">LTAMVFHIIPISFEISVVCGILTY</span><span class="topo-inside">QFGA</span><span class="topo-membrane">SFAAITFSTMLLYSIFTIKTTAWR</span><span class="topo-outside">THFRRDANKADNKAASVALDSLINFEAVKYFNNEKYLADKYNGSLMNYRDSQI</span><span class="topo-membrane">KVSQ</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">SLAFLNSGQNLIFTTALTAMM</span><span class="topo-inside">YMGCTGVIGGNLTVGDLV</span><span class="topo-membrane">LINQLVFQLSVPLNFLGSVY</span><span class="topo-outside">RDLKQSLIDMETLFKLRKNEVKIKNAERPLMLPENVPYDITFENVTFGYHPDRKILKNASF</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">TIPAGWKTAIVGSSGSGKSTILKLVFRFYDPESGRILINGRDIKEYDIDALRKVIGVVPQDTPLFNDTIWENVKFGRIDATDEEVITVVEKAQLAPLIKKLPQGFDTIVGERGLMISGGE</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590        </span>
+<span class="topo-line"><span class="topo-outside">KQRLAIARVLLKNARIMFFDEATSALDTHTEQALLRTIRDNFTSGSRTSVYIAHRLRTIADADKIIVLDNGRVREEGKHLELLAMPGSLYRELWTIQEDLDHLENELKDQQELWSHPQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (13 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -357,6 +360,7 @@ Yeast Atm1 (ABC transporter of mitochondria 1) is a mitochondrial inner membrane
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -372,16 +376,17 @@ Yeast Atm1 (ABC transporter of mitochondria 1) is a mitochondrial inner membrane
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">YIWPKGNNKVRIRVL</span><span class="topo-membrane">IALGLLISAKILNVQVPFFF</span><span class="topo-inside">KQTIDSMNIAWDDPTVALPAAIGLT</span></span>
-<span class="topo-line"><span class="topo-inside">IL</span><span class="topo-membrane">CYGVARFGSVLFGELR</span><span class="topo-outside">NAVFAKVAQNAIRTVSLQTFQHLMKLDLGWHLSRQTGGLTRA</span></span>
-<span class="topo-line"><span class="topo-outside">MDRGTKGISQVLTAMVFHI</span><span class="topo-membrane">IPISFEISVVCGILT</span><span class="topo-inside">YQFGA</span><span class="topo-membrane">SFAAITFSTMLLYSIF</span><span class="topo-outside">TIKTT</span></span>
-<span class="topo-line"><span class="topo-outside">AWRTHFRRDANKADNKAASVALDSLINFEAVKYFNNEKYLADKYNGSLMNYRDSQIKVSQ</span></span>
-<span class="topo-line"><span class="topo-outside">SLAFLN</span><span class="topo-membrane">SGQNLIFTTALTAMM</span><span class="topo-inside">YMGCTGVIGGNLTVGDLV</span><span class="topo-membrane">LINQLVFQLSVPLN</span><span class="topo-outside">FLGSVYR</span></span>
-<span class="topo-line"><span class="topo-outside">DLKQSLIDMETLFKLRKNEVKIKNAERPLMLPENVPYDITFENVTFGYHPDRKILKNASF</span></span>
-<span class="topo-line"><span class="topo-outside">TIPAGWKTAIVGSSGSGKSTILKLVFRFYDPESGRILINGRDIKEYDIDALRKVIGVVPQ</span></span>
-<span class="topo-line"><span class="topo-outside">DTPLFNDTIWENVKFGRIDATDEEVITVVEKAQLAPLIKKLPQGFDTIVGERGLMISGGE</span></span>
-<span class="topo-line"><span class="topo-outside">KQRLAIARVLLKNARIMFFDEATSALDTHTEQALLRTIRDNFTSGSRTSVYIAHRLRTIA</span></span>
-<span class="topo-line"><span class="topo-outside">DADKIIVLDNGRVREEGKHLELLAMPGSLYRELWTIQEDLDHLENELKDQQELWSHPQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">YIWPKGNNKVRIRVL</span><span class="topo-membrane">IALGLLISAKILNVQVPFFF</span><span class="topo-inside">KQTIDSMNIAWDDPTVALPAAIGLTIL</span><span class="topo-membrane">CYGVARFGSVLFGELR</span><span class="topo-outside">NAVFAKVAQNAIRTVSLQTFQHLMKLDLGWHLSRQTGGLTRA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">MDRGTKGISQVLTAMVFHI</span><span class="topo-membrane">IPISFEISVVCGILT</span><span class="topo-inside">YQFGA</span><span class="topo-membrane">SFAAITFSTMLLYSIF</span><span class="topo-outside">TIKTTAWRTHFRRDANKADNKAASVALDSLINFEAVKYFNNEKYLADKYNGSLMNYRDSQIKVSQ</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">SLAFLN</span><span class="topo-membrane">SGQNLIFTTALTAMM</span><span class="topo-inside">YMGCTGVIGGNLTVGDLV</span><span class="topo-membrane">LINQLVFQLSVPLN</span><span class="topo-outside">FLGSVYRDLKQSLIDMETLFKLRKNEVKIKNAERPLMLPENVPYDITFENVTFGYHPDRKILKNASF</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">TIPAGWKTAIVGSSGSGKSTILKLVFRFYDPESGRILINGRDIKEYDIDALRKVIGVVPQDTPLFNDTIWENVKFGRIDATDEEVITVVEKAQLAPLIKKLPQGFDTIVGERGLMISGGE</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590        </span>
+<span class="topo-line"><span class="topo-outside">KQRLAIARVLLKNARIMFFDEATSALDTHTEQALLRTIRDNFTSGSRTSVYIAHRLRTIADADKIIVLDNGRVREEGKHLELLAMPGSLYRELWTIQEDLDHLENELKDQQELWSHPQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (13 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -484,6 +489,7 @@ Yeast Atm1 (ABC transporter of mitochondria 1) is a mitochondrial inner membrane
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -499,16 +505,17 @@ Yeast Atm1 (ABC transporter of mitochondria 1) is a mitochondrial inner membrane
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">YIWPKGNNKVRIRVLI</span><span class="topo-membrane">ALGLLISAKILNVQVPFFF</span><span class="topo-inside">KQTIDSMNIAWDDPTVALPAAIGLT</span></span>
-<span class="topo-line"><span class="topo-inside">I</span><span class="topo-membrane">LCYGVARFGSVLFGELR</span><span class="topo-outside">NAVFAKVAQNAIRTVSLQTFQHLMKLDLGWHLSRQTGGLTRA</span></span>
-<span class="topo-line"><span class="topo-outside">MDRGTKGISQVLTAMVFHII</span><span class="topo-membrane">PISFEISVVCGILTY</span><span class="topo-inside">QFGA</span><span class="topo-membrane">SFAAITFSTMLLYSIF</span><span class="topo-outside">TIKTT</span></span>
-<span class="topo-line"><span class="topo-outside">AWRTHFRRDANKADNKAASVALDSLINFEAVKYFNNEKYLADKYNGSLMNYRDSQIKVSQ</span></span>
-<span class="topo-line"><span class="topo-outside">SLAFLN</span><span class="topo-membrane">SGQNLIFTTALTAMM</span><span class="topo-inside">YMGCTGVIGGNLTVGDLV</span><span class="topo-membrane">LINQLVFQLSVPLN</span><span class="topo-outside">FLGSVYR</span></span>
-<span class="topo-line"><span class="topo-outside">DLKQSLIDMETLFKLRKNEVKIKNAERPLMLPENVPYDITFENVTFGYHPDRKILKNASF</span></span>
-<span class="topo-line"><span class="topo-outside">TIPAGWKTAIVGSSGSGKSTILKLVFRFYDPESGRILINGRDIKEYDIDALRKVIGVVPQ</span></span>
-<span class="topo-line"><span class="topo-outside">DTPLFNDTIWENVKFGRIDATDEEVITVVEKAQLAPLIKKLPQGFDTIVGERGLMISGGE</span></span>
-<span class="topo-line"><span class="topo-outside">KQRLAIARVLLKNARIMFFDEATSALDTHTEQALLRTIRDNFTSGSRTSVYIAHRLRTIA</span></span>
-<span class="topo-line"><span class="topo-outside">DADKIIVLDNGRVREEGKHLELLAMPGSLYRELWTIQEDLDHLENELKDQQELWSHPQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">YIWPKGNNKVRIRVLI</span><span class="topo-membrane">ALGLLISAKILNVQVPFFF</span><span class="topo-inside">KQTIDSMNIAWDDPTVALPAAIGLTI</span><span class="topo-membrane">LCYGVARFGSVLFGELR</span><span class="topo-outside">NAVFAKVAQNAIRTVSLQTFQHLMKLDLGWHLSRQTGGLTRA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">MDRGTKGISQVLTAMVFHII</span><span class="topo-membrane">PISFEISVVCGILTY</span><span class="topo-inside">QFGA</span><span class="topo-membrane">SFAAITFSTMLLYSIF</span><span class="topo-outside">TIKTTAWRTHFRRDANKADNKAASVALDSLINFEAVKYFNNEKYLADKYNGSLMNYRDSQIKVSQ</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">SLAFLN</span><span class="topo-membrane">SGQNLIFTTALTAMM</span><span class="topo-inside">YMGCTGVIGGNLTVGDLV</span><span class="topo-membrane">LINQLVFQLSVPLN</span><span class="topo-outside">FLGSVYRDLKQSLIDMETLFKLRKNEVKIKNAERPLMLPENVPYDITFENVTFGYHPDRKILKNASF</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">TIPAGWKTAIVGSSGSGKSTILKLVFRFYDPESGRILINGRDIKEYDIDALRKVIGVVPQDTPLFNDTIWENVKFGRIDATDEEVITVVEKAQLAPLIKKLPQGFDTIVGERGLMISGGE</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590        </span>
+<span class="topo-line"><span class="topo-outside">KQRLAIARVLLKNARIMFFDEATSALDTHTEQALLRTIRDNFTSGSRTSVYIAHRLRTIADADKIIVLDNGRVREEGKHLELLAMPGSLYRELWTIQEDLDHLENELKDQQELWSHPQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (13 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -611,6 +618,7 @@ Yeast Atm1 (ABC transporter of mitochondria 1) is a mitochondrial inner membrane
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

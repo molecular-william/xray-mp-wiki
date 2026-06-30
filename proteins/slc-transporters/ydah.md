@@ -146,15 +146,17 @@ YdaH is an integral membrane protein from Alcanivorax borkumensis encoded by the
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MTRTHGWLARLEQLGN</span><span class="topo-outside">RL</span><span class="topo-membrane">PHPTLLFVWFCLLLLPLT</span><span class="topo-inside">AVLGALDVTATHPLTDETITAHSL</span></span>
-<span class="topo-line"><span class="topo-inside">LDADGLRYLFTT</span><span class="topo-membrane">LVGNFTGFAPLGVVLVAMLGLGVAE</span><span class="topo-outside">QSG</span><span class="topo-unknown">LLSVSLASLVRR</span><span class="topo-outside">SSGGA</span><span class="topo-unknown">LVF</span></span>
-<span class="topo-line"><span class="topo-unknown">TVAFAGVLSSLTV</span><span class="topo-outside">DAGYVVLIPLAGLVFQLAGRPPIAGIATAFAA</span><span class="topo-membrane">VSGGFSANLLVGPVD</span></span>
-<span class="topo-line"><span class="topo-membrane">ATLAGLSTEA</span><span class="topo-inside">AHIIDPDRTVA</span><span class="topo-membrane">ATGNYWFIIASTFLVTGLVTL</span><span class="topo-outside">ITRTLTEPRLAHANTVAD</span></span>
-<span class="topo-line"><span class="topo-outside">ASVDAPQIHSRAMK</span><span class="topo-membrane">WTGLTLAILLAGLALL</span><span class="topo-inside">VLPNDAPLRHPDTGSVLGSPF</span><span class="topo-membrane">IHGLVVIVA</span></span>
-<span class="topo-line"><span class="topo-membrane">LIAGICGAVY</span><span class="topo-outside">GRVSGQFRNSGAV</span><span class="topo-membrane">ITAMEVTMASMAGYLVLMFFAAQFVAWF</span><span class="topo-inside">NYSQ</span><span class="topo-unknown">LGLLL</span></span>
-<span class="topo-line"><span class="topo-unknown">AVKGAAWLGA</span><span class="topo-inside">LTVPKV</span><span class="topo-membrane">VLLLLFVVLTALINLMI</span><span class="topo-outside">G</span><span class="topo-membrane">SASAKWSILAPVFI</span><span class="topo-inside">PMLMLLGISPE</span><span class="topo-membrane">A</span></span>
-<span class="topo-line"><span class="topo-membrane">SQAAYRVGDSSTN</span><span class="topo-outside">IITPLMPYFVLVLGFARRYQPETGIGTLIALMLPY</span><span class="topo-membrane">SLTLLLGWSVLL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MTRTHGWLARLEQLGN</span><span class="topo-outside">RL</span><span class="topo-membrane">PHPTLLFVWFCLLLLPLT</span><span class="topo-inside">AVLGALDVTATHPLTDETITAHSLLDADGLRYLFTT</span><span class="topo-membrane">LVGNFTGFAPLGVVLVAMLGLGVAE</span><span class="topo-outside">QSG</span><span class="topo-unknown">LLSVSLASLVRR</span><span class="topo-outside">SSGGA</span><span class="topo-unknown">LVF</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-unknown">TVAFAGVLSSLTV</span><span class="topo-outside">DAGYVVLIPLAGLVFQLAGRPPIAGIATAFAA</span><span class="topo-membrane">VSGGFSANLLVGPVDATLAGLSTEA</span><span class="topo-inside">AHIIDPDRTVA</span><span class="topo-membrane">ATGNYWFIIASTFLVTGLVTL</span><span class="topo-outside">ITRTLTEPRLAHANTVAD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">ASVDAPQIHSRAMK</span><span class="topo-membrane">WTGLTLAILLAGLALL</span><span class="topo-inside">VLPNDAPLRHPDTGSVLGSPF</span><span class="topo-membrane">IHGLVVIVALIAGICGAVY</span><span class="topo-outside">GRVSGQFRNSGAV</span><span class="topo-membrane">ITAMEVTMASMAGYLVLMFFAAQFVAWF</span><span class="topo-inside">NYSQ</span><span class="topo-unknown">LGLLL</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-unknown">AVKGAAWLGA</span><span class="topo-inside">LTVPKV</span><span class="topo-membrane">VLLLLFVVLTALINLMI</span><span class="topo-outside">G</span><span class="topo-membrane">SASAKWSILAPVFI</span><span class="topo-inside">PMLMLLGISPE</span><span class="topo-membrane">ASQAAYRVGDSSTN</span><span class="topo-outside">IITPLMPYFVLVLGFARRYQPETGIGTLIALMLPY</span><span class="topo-membrane">SLTLLLGWSVLL</span></span>
+<span class="topo-ruler">       490  </span>
 <span class="topo-line"><span class="topo-membrane">GVWI</span><span class="topo-inside">GFGWP</span><span class="topo-unknown">LGP</span></span>
+<details class="topo-details"><summary>Topology coordinates (30 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -376,6 +378,7 @@ YdaH is an integral membrane protein from Alcanivorax borkumensis encoded by the
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -391,15 +394,17 @@ YdaH is an integral membrane protein from Alcanivorax borkumensis encoded by the
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MTRTHGWLARLEQLGNRL</span><span class="topo-outside">P</span><span class="topo-membrane">HPTLLFVWFCLLLLPL</span><span class="topo-inside">TAVLGALDVTATHPLTDETITAHSL</span></span>
-<span class="topo-line"><span class="topo-inside">LDADGLRYLFTT</span><span class="topo-membrane">LVGNFTGFAPLGVVLVAMLGLGVAE</span><span class="topo-outside">QSG</span><span class="topo-unknown">LLSVSLASL</span><span class="topo-outside">VR</span><span class="topo-unknown">RSSGGA</span><span class="topo-outside">L</span><span class="topo-unknown">VF</span></span>
-<span class="topo-line"><span class="topo-unknown">TVAFAGVLSSL</span><span class="topo-outside">TVDAGYVVLIPLAGLVFQLAGRPPIAGIATAFAA</span><span class="topo-membrane">VSGGFSANLLVGPVD</span></span>
-<span class="topo-line"><span class="topo-membrane">ATLAGLSTEA</span><span class="topo-inside">AHIIDPDRTV</span><span class="topo-membrane">AATGNYWFIIASTFLVTGLV</span><span class="topo-outside">TLITRTLTEPRLAHANTVAD</span></span>
-<span class="topo-line"><span class="topo-outside">ASVDAPQIHSRAMK</span><span class="topo-membrane">WTGLTLAILLAGLALL</span><span class="topo-inside">VLPNDAPLRHPDTGSVLGSPF</span><span class="topo-membrane">IHGLVVIVA</span></span>
-<span class="topo-line"><span class="topo-membrane">LIAGICGAVY</span><span class="topo-outside">GRVSGQFRNSGAV</span><span class="topo-membrane">ITAMEVTMASMAGYLVLMFFAAQFVAWF</span><span class="topo-inside">NYSQ</span><span class="topo-unknown">LGLLL</span></span>
-<span class="topo-line"><span class="topo-unknown">AVKGAAWLGA</span><span class="topo-inside">LTVPKV</span><span class="topo-membrane">VLLLLFVVLTALINLMI</span><span class="topo-outside">G</span><span class="topo-membrane">SASAKWSILAPVFI</span><span class="topo-inside">PMLMLLGISP</span><span class="topo-membrane">EA</span></span>
-<span class="topo-line"><span class="topo-membrane">SQAAYRVGDSSTN</span><span class="topo-outside">IITPLMPYFVLVLGFARRYQPETGIGTLIALMLPYS</span><span class="topo-membrane">LTLLLGWSVLL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MTRTHGWLARLEQLGNRL</span><span class="topo-outside">P</span><span class="topo-membrane">HPTLLFVWFCLLLLPL</span><span class="topo-inside">TAVLGALDVTATHPLTDETITAHSLLDADGLRYLFTT</span><span class="topo-membrane">LVGNFTGFAPLGVVLVAMLGLGVAE</span><span class="topo-outside">QSG</span><span class="topo-unknown">LLSVSLASL</span><span class="topo-outside">VR</span><span class="topo-unknown">RSSGGA</span><span class="topo-outside">L</span><span class="topo-unknown">VF</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-unknown">TVAFAGVLSSL</span><span class="topo-outside">TVDAGYVVLIPLAGLVFQLAGRPPIAGIATAFAA</span><span class="topo-membrane">VSGGFSANLLVGPVDATLAGLSTEA</span><span class="topo-inside">AHIIDPDRTV</span><span class="topo-membrane">AATGNYWFIIASTFLVTGLV</span><span class="topo-outside">TLITRTLTEPRLAHANTVAD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">ASVDAPQIHSRAMK</span><span class="topo-membrane">WTGLTLAILLAGLALL</span><span class="topo-inside">VLPNDAPLRHPDTGSVLGSPF</span><span class="topo-membrane">IHGLVVIVALIAGICGAVY</span><span class="topo-outside">GRVSGQFRNSGAV</span><span class="topo-membrane">ITAMEVTMASMAGYLVLMFFAAQFVAWF</span><span class="topo-inside">NYSQ</span><span class="topo-unknown">LGLLL</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-unknown">AVKGAAWLGA</span><span class="topo-inside">LTVPKV</span><span class="topo-membrane">VLLLLFVVLTALINLMI</span><span class="topo-outside">G</span><span class="topo-membrane">SASAKWSILAPVFI</span><span class="topo-inside">PMLMLLGISP</span><span class="topo-membrane">EASQAAYRVGDSSTN</span><span class="topo-outside">IITPLMPYFVLVLGFARRYQPETGIGTLIALMLPYS</span><span class="topo-membrane">LTLLLGWSVLL</span></span>
+<span class="topo-ruler">       490  </span>
 <span class="topo-line"><span class="topo-membrane">GVWIG</span><span class="topo-inside">FGWPLGP</span></span>
+<details class="topo-details"><summary>Topology coordinates (30 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -621,6 +626,7 @@ YdaH is an integral membrane protein from Alcanivorax borkumensis encoded by the
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

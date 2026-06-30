@@ -124,28 +124,29 @@ Human NPC1 (Niemann-Pick C1) is a large multi-domain membrane protein essential 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MTARGLALGLLLLLLCPAQVFSQSCVWYGECGIAYGDKRYNCEYSGPPKPLPKDGYDLVQ</span></span>
-<span class="topo-line"><span class="topo-unknown">ELCPGFFFGNVSLCCDVRQLQTLKDNLQLPLQFLSRCPSCFYNLLNLFCELTCSPRQSQF</span></span>
-<span class="topo-line"><span class="topo-unknown">LNVTATEDYVDPVTNQTKTNVKELQYYVGQSFANAMYNACRDVEAPSSNDKALGLLCGKD</span></span>
-<span class="topo-line"><span class="topo-unknown">ADACNATNWIEYMFNKDNGQAPFTITPVFSDFPVHGMEPMNNATKGCDESVDEVTAPCSC</span></span>
-<span class="topo-line"><span class="topo-unknown">QDCSIVCGPKPQPPPPPAPWTILGLDAMYVIMWITYMAFLLVFFGAFFAVWCYRKRYFVS</span></span>
-<span class="topo-line"><span class="topo-unknown">EYTPIDSNIAFSVNASDKGEASCCDPVSAAFEG</span><span class="topo-inside">CLRRLFTRWGSFCVRNPGCVI</span><span class="topo-membrane">FFSLVF</span></span>
-<span class="topo-line"><span class="topo-membrane">ITACSSGLVF</span><span class="topo-outside">VRVTTNPVDLWSAPSSQARLEKEYFDQHFGPFFRTEQLIIRAPLTDKHIY</span></span>
-<span class="topo-line"><span class="topo-outside">QPYPSGADVPFGPPLDIQILHQVLDLQIAIENITASYDNETVTLQDICLAPLSPYNTNCT</span></span>
-<span class="topo-line"><span class="topo-outside">ILSVLNYFQNSHSVLDHKKGDDFFVYADYHTHFLYCVRAPASLNDTSLLHDPCLGTFGGP</span></span>
-<span class="topo-line"><span class="topo-outside">VFPWLVLGGYDDQNYNNATALVITFPVNNYYNDTEKLQRAQAWEKEFINFVKNYKNPNLT</span></span>
-<span class="topo-line"><span class="topo-outside">ISFTAERSIEDELNRESDSDV</span><span class="topo-membrane">FTVVISYAIMFLYISLA</span><span class="topo-inside">LG</span><span class="topo-unknown">HIKSCRRLL</span><span class="topo-inside">VDSKV</span><span class="topo-membrane">SLGIAG</span></span>
-<span class="topo-line"><span class="topo-membrane">ILIVLSSVACSLGVFSYI</span><span class="topo-outside">GLPLTLIV</span><span class="topo-membrane">IEVIPFLVLAVGVDNIF</span><span class="topo-inside">ILVQAYQRDERLQGETL</span></span>
-<span class="topo-line"><span class="topo-inside">DQQLGRVLGEVAPSM</span><span class="topo-membrane">FLSSFSETVAFFLGAL</span><span class="topo-outside">SVMPAV</span><span class="topo-membrane">HTFSLFAGLAVFIDFLLQITCF</span><span class="topo-inside">V</span></span>
-<span class="topo-line"><span class="topo-inside">SLLGLDIKRQEKNRLDIFC</span><span class="topo-unknown">CVRGAEDGTSVQAS</span><span class="topo-inside">ESCLFRFFKNSYSPLLLKDWMRP</span><span class="topo-membrane">IVIA</span></span>
-<span class="topo-line"><span class="topo-membrane">IFVGVLSFSIAVL</span><span class="topo-outside">NKVDIGLDQSLSMPDDSYMVDYFKSISQYLHAGPPVYFVLEEGHDYT</span></span>
-<span class="topo-line"><span class="topo-outside">SSKGQNMVCGGMGCNNDSLVQQIFNAAQLDNYTRIGFAPSSWIDDYFDWVKPQSSCCRVD</span></span>
-<span class="topo-line"><span class="topo-outside">NITDQFCNASVVDPACVRCRPLTPEGKQRPQGGDFMRFLPMFLSDNPNPKCGKGGHAAYS</span></span>
-<span class="topo-line"><span class="topo-outside">SAVNILLGHGTRVGATYFMTYHTVLQTSADFIDALKKARLIASNVTETMGINGSAYRVFP</span></span>
-<span class="topo-line"><span class="topo-outside">YSVFYVFYEQYLTIIDDT</span><span class="topo-membrane">IFNLGVSLGAIFLVTMVL</span><span class="topo-inside">LGC</span><span class="topo-membrane">ELWSAVIMCATIAMVLVNMFG</span></span>
-<span class="topo-line"><span class="topo-membrane">VMWLW</span><span class="topo-outside">GISLNAVS</span><span class="topo-membrane">LVNLVMSCGISVEFCSHIT</span><span class="topo-inside">RAFTVSMKGSRVERAEEALAHMGSSV</span><span class="topo-membrane">FS</span></span>
-<span class="topo-line"><span class="topo-membrane">GITLTKFGGIVVLAFA</span><span class="topo-outside">KSQIFQIF</span><span class="topo-membrane">YFRMYLAMVLLGATHGLIFL</span><span class="topo-inside">PVLLSYIGPS</span><span class="topo-unknown">VNKAKS</span></span>
-<span class="topo-line"><span class="topo-unknown">CATEERYKGTERERLLNF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MTARGLALGLLLLLLCPAQVFSQSCVWYGECGIAYGDKRYNCEYSGPPKPLPKDGYDLVQELCPGFFFGNVSLCCDVRQLQTLKDNLQLPLQFLSRCPSCFYNLLNLFCELTCSPRQSQF</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-unknown">LNVTATEDYVDPVTNQTKTNVKELQYYVGQSFANAMYNACRDVEAPSSNDKALGLLCGKDADACNATNWIEYMFNKDNGQAPFTITPVFSDFPVHGMEPMNNATKGCDESVDEVTAPCSC</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-unknown">QDCSIVCGPKPQPPPPPAPWTILGLDAMYVIMWITYMAFLLVFFGAFFAVWCYRKRYFVSEYTPIDSNIAFSVNASDKGEASCCDPVSAAFEG</span><span class="topo-inside">CLRRLFTRWGSFCVRNPGCVI</span><span class="topo-membrane">FFSLVF</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">ITACSSGLVF</span><span class="topo-outside">VRVTTNPVDLWSAPSSQARLEKEYFDQHFGPFFRTEQLIIRAPLTDKHIYQPYPSGADVPFGPPLDIQILHQVLDLQIAIENITASYDNETVTLQDICLAPLSPYNTNCT</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-outside">ILSVLNYFQNSHSVLDHKKGDDFFVYADYHTHFLYCVRAPASLNDTSLLHDPCLGTFGGPVFPWLVLGGYDDQNYNNATALVITFPVNNYYNDTEKLQRAQAWEKEFINFVKNYKNPNLT</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-outside">ISFTAERSIEDELNRESDSDV</span><span class="topo-membrane">FTVVISYAIMFLYISLA</span><span class="topo-inside">LG</span><span class="topo-unknown">HIKSCRRLL</span><span class="topo-inside">VDSKV</span><span class="topo-membrane">SLGIAGILIVLSSVACSLGVFSYI</span><span class="topo-outside">GLPLTLIV</span><span class="topo-membrane">IEVIPFLVLAVGVDNIF</span><span class="topo-inside">ILVQAYQRDERLQGETL</span></span>
+<span class="topo-ruler">       730       740       750       760       770       780       790       800       810       820       830       840</span>
+<span class="topo-line"><span class="topo-inside">DQQLGRVLGEVAPSM</span><span class="topo-membrane">FLSSFSETVAFFLGAL</span><span class="topo-outside">SVMPAV</span><span class="topo-membrane">HTFSLFAGLAVFIDFLLQITCF</span><span class="topo-inside">VSLLGLDIKRQEKNRLDIFC</span><span class="topo-unknown">CVRGAEDGTSVQAS</span><span class="topo-inside">ESCLFRFFKNSYSPLLLKDWMRP</span><span class="topo-membrane">IVIA</span></span>
+<span class="topo-ruler">       850       860       870       880       890       900       910       920       930       940       950       960</span>
+<span class="topo-line"><span class="topo-membrane">IFVGVLSFSIAVL</span><span class="topo-outside">NKVDIGLDQSLSMPDDSYMVDYFKSISQYLHAGPPVYFVLEEGHDYTSSKGQNMVCGGMGCNNDSLVQQIFNAAQLDNYTRIGFAPSSWIDDYFDWVKPQSSCCRVD</span></span>
+<span class="topo-ruler">       970       980       990      1000      1010      1020      1030      1040      1050      1060      1070      1080</span>
+<span class="topo-line"><span class="topo-outside">NITDQFCNASVVDPACVRCRPLTPEGKQRPQGGDFMRFLPMFLSDNPNPKCGKGGHAAYSSAVNILLGHGTRVGATYFMTYHTVLQTSADFIDALKKARLIASNVTETMGINGSAYRVFP</span></span>
+<span class="topo-ruler">      1090      1100      1110      1120      1130      1140      1150      1160      1170      1180      1190      1200</span>
+<span class="topo-line"><span class="topo-outside">YSVFYVFYEQYLTIIDDT</span><span class="topo-membrane">IFNLGVSLGAIFLVTMVL</span><span class="topo-inside">LGC</span><span class="topo-membrane">ELWSAVIMCATIAMVLVNMFGVMWLW</span><span class="topo-outside">GISLNAVS</span><span class="topo-membrane">LVNLVMSCGISVEFCSHIT</span><span class="topo-inside">RAFTVSMKGSRVERAEEALAHMGSSV</span><span class="topo-membrane">FS</span></span>
+<span class="topo-ruler">      1210      1220      1230      1240      1250      1260      1270        </span>
+<span class="topo-line"><span class="topo-membrane">GITLTKFGGIVVLAFA</span><span class="topo-outside">KSQIFQIF</span><span class="topo-membrane">YFRMYLAMVLLGATHGLIFL</span><span class="topo-inside">PVLLSYIGPS</span><span class="topo-unknown">VNKAKSCATEERYKGTERERLLNF</span></span>
+<details class="topo-details"><summary>Topology coordinates (31 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -374,6 +375,7 @@ Human NPC1 (Niemann-Pick C1) is a large multi-domain membrane protein essential 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

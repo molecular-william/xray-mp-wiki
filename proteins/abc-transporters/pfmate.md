@@ -98,14 +98,15 @@ PfMATE is a multidrug and toxic compound extrusion (MATE) family transporter fro
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSE</span><span class="topo-outside">KTT</span><span class="topo-unknown">KGVQLL</span><span class="topo-outside">RGDPKKAIVRL</span><span class="topo-membrane">SIPMMIGMSVQTLYNLADGIW</span><span class="topo-inside">VSGLGPESLAAV</span><span class="topo-membrane">GLFF</span></span>
-<span class="topo-line"><span class="topo-membrane">PVFMGIIALAAGLGVGTSS</span><span class="topo-outside">AIARRIGARDKEGADNVAVH</span><span class="topo-membrane">SLILSLILGVTITITMLPAID</span></span>
-<span class="topo-line"><span class="topo-inside">SLFRSMGA</span><span class="topo-unknown">KG</span><span class="topo-inside">EAVELAI</span><span class="topo-membrane">EYARVLLAGAFIIVFNNVGNGILR</span><span class="topo-outside">GEGDA</span><span class="topo-membrane">NRAMLAMVLGSGLN</span></span>
-<span class="topo-line"><span class="topo-membrane">IVLDPIFI</span><span class="topo-inside">YTLGFGVV</span><span class="topo-membrane">GAAYATLLSMVVTSLFIAYWLF</span><span class="topo-outside">VKRDTYVDITLRDFSPSREILK</span></span>
-<span class="topo-line"><span class="topo-outside">DI</span><span class="topo-membrane">LRVGLPSSLSQLSMSIAMFFLN</span><span class="topo-inside">SVAITAGGENGVAVF</span><span class="topo-membrane">TSAWRITMLGIVPILGMAAAT</span></span>
-<span class="topo-line"><span class="topo-membrane">T</span><span class="topo-outside">SVTGAAYGERNVEKLETAYLYA</span><span class="topo-membrane">IKIAFMIELAVVAFIMLFAPQVA</span><span class="topo-inside">YLFT</span><span class="topo-unknown">YSES</span><span class="topo-inside">AQVIKG</span></span>
-<span class="topo-line"><span class="topo-inside">DLI</span><span class="topo-membrane">SALRTLPVFLVLTPFGMMTSAMFQG</span><span class="topo-outside">IGE</span><span class="topo-membrane">GEKSLILTIFRTLVMQVGFAYIFV</span><span class="topo-inside">HYTTL</span></span>
-<span class="topo-line"><span class="topo-inside">GLR</span><span class="topo-membrane">GVWIGIVIGNMVAAIVGFLWG</span><span class="topo-outside">RMRISALKKT</span><span class="topo-unknown">SATGGKR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSE</span><span class="topo-outside">KTT</span><span class="topo-unknown">KGVQLL</span><span class="topo-outside">RGDPKKAIVRL</span><span class="topo-membrane">SIPMMIGMSVQTLYNLADGIW</span><span class="topo-inside">VSGLGPESLAAV</span><span class="topo-membrane">GLFFPVFMGIIALAAGLGVGTSS</span><span class="topo-outside">AIARRIGARDKEGADNVAVH</span><span class="topo-membrane">SLILSLILGVTITITMLPAID</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">SLFRSMGA</span><span class="topo-unknown">KG</span><span class="topo-inside">EAVELAI</span><span class="topo-membrane">EYARVLLAGAFIIVFNNVGNGILR</span><span class="topo-outside">GEGDA</span><span class="topo-membrane">NRAMLAMVLGSGLNIVLDPIFI</span><span class="topo-inside">YTLGFGVV</span><span class="topo-membrane">GAAYATLLSMVVTSLFIAYWLF</span><span class="topo-outside">VKRDTYVDITLRDFSPSREILK</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">DI</span><span class="topo-membrane">LRVGLPSSLSQLSMSIAMFFLN</span><span class="topo-inside">SVAITAGGENGVAVF</span><span class="topo-membrane">TSAWRITMLGIVPILGMAAATT</span><span class="topo-outside">SVTGAAYGERNVEKLETAYLYA</span><span class="topo-membrane">IKIAFMIELAVVAFIMLFAPQVA</span><span class="topo-inside">YLFT</span><span class="topo-unknown">YSES</span><span class="topo-inside">AQVIKG</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460 </span>
+<span class="topo-line"><span class="topo-inside">DLI</span><span class="topo-membrane">SALRTLPVFLVLTPFGMMTSAMFQG</span><span class="topo-outside">IGE</span><span class="topo-membrane">GEKSLILTIFRTLVMQVGFAYIFV</span><span class="topo-inside">HYTTLGLR</span><span class="topo-membrane">GVWIGIVIGNMVAAIVGFLWG</span><span class="topo-outside">RMRISALKKT</span><span class="topo-unknown">SATGGKR</span></span>
+<details class="topo-details"><summary>Topology coordinates (33 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -348,6 +349,7 @@ PfMATE is a multidrug and toxic compound extrusion (MATE) family transporter fro
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -363,14 +365,15 @@ PfMATE is a multidrug and toxic compound extrusion (MATE) family transporter fro
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSE</span><span class="topo-outside">KTT</span><span class="topo-unknown">KGVQLL</span><span class="topo-outside">RGDPKKAIVRL</span><span class="topo-membrane">SIPMMIGMSVQTLYNLADGIW</span><span class="topo-inside">VSGLGPESLAAV</span><span class="topo-membrane">GLFF</span></span>
-<span class="topo-line"><span class="topo-membrane">PVFMGIIALAAGLGVGTSS</span><span class="topo-outside">AIARRIGARDKEGADNVAVH</span><span class="topo-membrane">SLILSLILGVTITITMLPAID</span></span>
-<span class="topo-line"><span class="topo-inside">SLFRSMGA</span><span class="topo-unknown">KG</span><span class="topo-inside">EAVELAI</span><span class="topo-membrane">EYARVLLAGAFIIVFNNVGNGILR</span><span class="topo-outside">GEGDA</span><span class="topo-membrane">NRAMLAMVLGSGLN</span></span>
-<span class="topo-line"><span class="topo-membrane">IVLDPIFI</span><span class="topo-inside">YTLGFGVV</span><span class="topo-membrane">GAAYATLLSMVVTSLFIAYWLF</span><span class="topo-outside">VKRDTYVDITLRDFSPSREILK</span></span>
-<span class="topo-line"><span class="topo-outside">DI</span><span class="topo-membrane">LRVGLPSSLSQLSMSIAMFFLN</span><span class="topo-inside">SVAITAGGENGVAVF</span><span class="topo-membrane">TSAWRITMLGIVPILGMAAAT</span></span>
-<span class="topo-line"><span class="topo-membrane">T</span><span class="topo-outside">SVTGAAYGERNVEKLETAYLYA</span><span class="topo-membrane">IKIAFMIELAVVAFIMLFAPQVA</span><span class="topo-inside">YLFT</span><span class="topo-unknown">YSES</span><span class="topo-inside">AQVIKG</span></span>
-<span class="topo-line"><span class="topo-inside">DLI</span><span class="topo-membrane">SALRTLPVFLVLTPFGMMTSAMFQG</span><span class="topo-outside">IGE</span><span class="topo-membrane">GEKSLILTIFRTLVMQVGFAYIFV</span><span class="topo-inside">HYTTL</span></span>
-<span class="topo-line"><span class="topo-inside">GLR</span><span class="topo-membrane">GVWIGIVIGNMVAAIVGFLWG</span><span class="topo-outside">RMRISALKKT</span><span class="topo-unknown">SATGGKR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSE</span><span class="topo-outside">KTT</span><span class="topo-unknown">KGVQLL</span><span class="topo-outside">RGDPKKAIVRL</span><span class="topo-membrane">SIPMMIGMSVQTLYNLADGIW</span><span class="topo-inside">VSGLGPESLAAV</span><span class="topo-membrane">GLFFPVFMGIIALAAGLGVGTSS</span><span class="topo-outside">AIARRIGARDKEGADNVAVH</span><span class="topo-membrane">SLILSLILGVTITITMLPAID</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">SLFRSMGA</span><span class="topo-unknown">KG</span><span class="topo-inside">EAVELAI</span><span class="topo-membrane">EYARVLLAGAFIIVFNNVGNGILR</span><span class="topo-outside">GEGDA</span><span class="topo-membrane">NRAMLAMVLGSGLNIVLDPIFI</span><span class="topo-inside">YTLGFGVV</span><span class="topo-membrane">GAAYATLLSMVVTSLFIAYWLF</span><span class="topo-outside">VKRDTYVDITLRDFSPSREILK</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">DI</span><span class="topo-membrane">LRVGLPSSLSQLSMSIAMFFLN</span><span class="topo-inside">SVAITAGGENGVAVF</span><span class="topo-membrane">TSAWRITMLGIVPILGMAAATT</span><span class="topo-outside">SVTGAAYGERNVEKLETAYLYA</span><span class="topo-membrane">IKIAFMIELAVVAFIMLFAPQVA</span><span class="topo-inside">YLFT</span><span class="topo-unknown">YSES</span><span class="topo-inside">AQVIKG</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460 </span>
+<span class="topo-line"><span class="topo-inside">DLI</span><span class="topo-membrane">SALRTLPVFLVLTPFGMMTSAMFQG</span><span class="topo-outside">IGE</span><span class="topo-membrane">GEKSLILTIFRTLVMQVGFAYIFV</span><span class="topo-inside">HYTTLGLR</span><span class="topo-membrane">GVWIGIVIGNMVAAIVGFLWG</span><span class="topo-outside">RMRISALKKT</span><span class="topo-unknown">SATGGKR</span></span>
+<details class="topo-details"><summary>Topology coordinates (33 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -613,6 +616,7 @@ PfMATE is a multidrug and toxic compound extrusion (MATE) family transporter fro
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -628,14 +632,15 @@ PfMATE is a multidrug and toxic compound extrusion (MATE) family transporter fro
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSE</span><span class="topo-outside">KTT</span><span class="topo-unknown">KGVQLL</span><span class="topo-outside">RGDPKKAIVRL</span><span class="topo-membrane">SIPMMIGMSVQTLYNLADGIW</span><span class="topo-inside">VSGLGPESLAAV</span><span class="topo-membrane">GLFF</span></span>
-<span class="topo-line"><span class="topo-membrane">PVFMGIIALAAGLGVGTSS</span><span class="topo-outside">AIARRIGARDKEGADNVAVH</span><span class="topo-membrane">SLILSLILGVTITITMLPAID</span></span>
-<span class="topo-line"><span class="topo-inside">SLFRSMGA</span><span class="topo-unknown">KG</span><span class="topo-inside">EAVELAI</span><span class="topo-membrane">EYARVLLAGAFIIVFNNVGNGILR</span><span class="topo-outside">GEGDA</span><span class="topo-membrane">NRAMLAMVLGSGLN</span></span>
-<span class="topo-line"><span class="topo-membrane">IVLDPIFI</span><span class="topo-inside">YTLGFGVV</span><span class="topo-membrane">GAAYATLLSMVVTSLFIAYWLF</span><span class="topo-outside">VKRDTYVDITLRDFSPSREILK</span></span>
-<span class="topo-line"><span class="topo-outside">DI</span><span class="topo-membrane">LRVGLPSSLSQLSMSIAMFFLN</span><span class="topo-inside">SVAITAGGENGVAVF</span><span class="topo-membrane">TSAWRITMLGIVPILGMAAAT</span></span>
-<span class="topo-line"><span class="topo-membrane">T</span><span class="topo-outside">SVTGAAYGERNVEKLETAYLYA</span><span class="topo-membrane">IKIAFMIELAVVAFIMLFAPQVA</span><span class="topo-inside">YLFT</span><span class="topo-unknown">YSES</span><span class="topo-inside">AQVIKG</span></span>
-<span class="topo-line"><span class="topo-inside">DLI</span><span class="topo-membrane">SALRTLPVFLVLTPFGMMTSAMFQG</span><span class="topo-outside">IGE</span><span class="topo-membrane">GEKSLILTIFRTLVMQVGFAYIFV</span><span class="topo-inside">HYTTL</span></span>
-<span class="topo-line"><span class="topo-inside">GLR</span><span class="topo-membrane">GVWIGIVIGNMVAAIVGFLWG</span><span class="topo-outside">RMRISALKKT</span><span class="topo-unknown">SATGGKR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSE</span><span class="topo-outside">KTT</span><span class="topo-unknown">KGVQLL</span><span class="topo-outside">RGDPKKAIVRL</span><span class="topo-membrane">SIPMMIGMSVQTLYNLADGIW</span><span class="topo-inside">VSGLGPESLAAV</span><span class="topo-membrane">GLFFPVFMGIIALAAGLGVGTSS</span><span class="topo-outside">AIARRIGARDKEGADNVAVH</span><span class="topo-membrane">SLILSLILGVTITITMLPAID</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">SLFRSMGA</span><span class="topo-unknown">KG</span><span class="topo-inside">EAVELAI</span><span class="topo-membrane">EYARVLLAGAFIIVFNNVGNGILR</span><span class="topo-outside">GEGDA</span><span class="topo-membrane">NRAMLAMVLGSGLNIVLDPIFI</span><span class="topo-inside">YTLGFGVV</span><span class="topo-membrane">GAAYATLLSMVVTSLFIAYWLF</span><span class="topo-outside">VKRDTYVDITLRDFSPSREILK</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">DI</span><span class="topo-membrane">LRVGLPSSLSQLSMSIAMFFLN</span><span class="topo-inside">SVAITAGGENGVAVF</span><span class="topo-membrane">TSAWRITMLGIVPILGMAAATT</span><span class="topo-outside">SVTGAAYGERNVEKLETAYLYA</span><span class="topo-membrane">IKIAFMIELAVVAFIMLFAPQVA</span><span class="topo-inside">YLFT</span><span class="topo-unknown">YSES</span><span class="topo-inside">AQVIKG</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460 </span>
+<span class="topo-line"><span class="topo-inside">DLI</span><span class="topo-membrane">SALRTLPVFLVLTPFGMMTSAMFQG</span><span class="topo-outside">IGE</span><span class="topo-membrane">GEKSLILTIFRTLVMQVGFAYIFV</span><span class="topo-inside">HYTTLGLR</span><span class="topo-membrane">GVWIGIVIGNMVAAIVGFLWG</span><span class="topo-outside">RMRISALKKT</span><span class="topo-unknown">SATGGKR</span></span>
+<details class="topo-details"><summary>Topology coordinates (33 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -878,6 +883,7 @@ PfMATE is a multidrug and toxic compound extrusion (MATE) family transporter fro
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -893,14 +899,15 @@ PfMATE is a multidrug and toxic compound extrusion (MATE) family transporter fro
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSE</span><span class="topo-outside">KTT</span><span class="topo-unknown">KGVQLL</span><span class="topo-outside">RGDPKKAIVRL</span><span class="topo-membrane">SIPMMIGMSVQTLYNLADGIW</span><span class="topo-inside">VSGLGPESLAAV</span><span class="topo-membrane">GLFF</span></span>
-<span class="topo-line"><span class="topo-membrane">PVFMGIIALAAGLGVGTSS</span><span class="topo-outside">AIARRIGARDKEGADNVAVH</span><span class="topo-membrane">SLILSLILGVTITITMLPAID</span></span>
-<span class="topo-line"><span class="topo-inside">SLFRSMGA</span><span class="topo-unknown">KG</span><span class="topo-inside">EAVELAI</span><span class="topo-membrane">EYARVLLAGAFIIVFNNVGNGILR</span><span class="topo-outside">GEGDA</span><span class="topo-membrane">NRAMLAMVLGSGLN</span></span>
-<span class="topo-line"><span class="topo-membrane">IVLDPIFI</span><span class="topo-inside">YTLGFGVV</span><span class="topo-membrane">GAAYATLLSMVVTSLFIAYWLF</span><span class="topo-outside">VKRDTYVDITLRDFSPSREILK</span></span>
-<span class="topo-line"><span class="topo-outside">DI</span><span class="topo-membrane">LRVGLPSSLSQLSMSIAMFFLN</span><span class="topo-inside">SVAITAGGENGVAVF</span><span class="topo-membrane">TSAWRITMLGIVPILGMAAAT</span></span>
-<span class="topo-line"><span class="topo-membrane">T</span><span class="topo-outside">SVTGAAYGERNVEKLETAYLYA</span><span class="topo-membrane">IKIAFMIELAVVAFIMLFAPQVA</span><span class="topo-inside">YLFT</span><span class="topo-unknown">YSES</span><span class="topo-inside">AQVIKG</span></span>
-<span class="topo-line"><span class="topo-inside">DLI</span><span class="topo-membrane">SALRTLPVFLVLTPFGMMTSAMFQG</span><span class="topo-outside">IGE</span><span class="topo-membrane">GEKSLILTIFRTLVMQVGFAYIFV</span><span class="topo-inside">HYTTL</span></span>
-<span class="topo-line"><span class="topo-inside">GLR</span><span class="topo-membrane">GVWIGIVIGNMVAAIVGFLWG</span><span class="topo-outside">RMRISALKKT</span><span class="topo-unknown">SATGGKR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSE</span><span class="topo-outside">KTT</span><span class="topo-unknown">KGVQLL</span><span class="topo-outside">RGDPKKAIVRL</span><span class="topo-membrane">SIPMMIGMSVQTLYNLADGIW</span><span class="topo-inside">VSGLGPESLAAV</span><span class="topo-membrane">GLFFPVFMGIIALAAGLGVGTSS</span><span class="topo-outside">AIARRIGARDKEGADNVAVH</span><span class="topo-membrane">SLILSLILGVTITITMLPAID</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">SLFRSMGA</span><span class="topo-unknown">KG</span><span class="topo-inside">EAVELAI</span><span class="topo-membrane">EYARVLLAGAFIIVFNNVGNGILR</span><span class="topo-outside">GEGDA</span><span class="topo-membrane">NRAMLAMVLGSGLNIVLDPIFI</span><span class="topo-inside">YTLGFGVV</span><span class="topo-membrane">GAAYATLLSMVVTSLFIAYWLF</span><span class="topo-outside">VKRDTYVDITLRDFSPSREILK</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">DI</span><span class="topo-membrane">LRVGLPSSLSQLSMSIAMFFLN</span><span class="topo-inside">SVAITAGGENGVAVF</span><span class="topo-membrane">TSAWRITMLGIVPILGMAAATT</span><span class="topo-outside">SVTGAAYGERNVEKLETAYLYA</span><span class="topo-membrane">IKIAFMIELAVVAFIMLFAPQVA</span><span class="topo-inside">YLFT</span><span class="topo-unknown">YSES</span><span class="topo-inside">AQVIKG</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460 </span>
+<span class="topo-line"><span class="topo-inside">DLI</span><span class="topo-membrane">SALRTLPVFLVLTPFGMMTSAMFQG</span><span class="topo-outside">IGE</span><span class="topo-membrane">GEKSLILTIFRTLVMQVGFAYIFV</span><span class="topo-inside">HYTTLGLR</span><span class="topo-membrane">GVWIGIVIGNMVAAIVGFLWG</span><span class="topo-outside">RMRISALKKT</span><span class="topo-unknown">SATGGKR</span></span>
+<details class="topo-details"><summary>Topology coordinates (33 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1143,6 +1150,7 @@ PfMATE is a multidrug and toxic compound extrusion (MATE) family transporter fro
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1158,14 +1166,15 @@ PfMATE is a multidrug and toxic compound extrusion (MATE) family transporter fro
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSE</span><span class="topo-outside">KTT</span><span class="topo-unknown">KGVQLL</span><span class="topo-outside">RGDPKKAIVRL</span><span class="topo-membrane">SIPMMIGMSVQTLYNLADGIW</span><span class="topo-inside">VSGLGPESLAAV</span><span class="topo-membrane">GLFF</span></span>
-<span class="topo-line"><span class="topo-membrane">PVFMGIIALAAGLGVGTSS</span><span class="topo-outside">AIARRIGARDKEGADNVAVH</span><span class="topo-membrane">SLILSLILGVTITITMLPAID</span></span>
-<span class="topo-line"><span class="topo-inside">SLFRSMGA</span><span class="topo-unknown">KG</span><span class="topo-inside">EAVELAI</span><span class="topo-membrane">EYARVLLAGAFIIVFNNVGNGILR</span><span class="topo-outside">GEGDA</span><span class="topo-membrane">NRAMLAMVLGSGLN</span></span>
-<span class="topo-line"><span class="topo-membrane">IVLDPIFI</span><span class="topo-inside">YTLGFGVV</span><span class="topo-membrane">GAAYATLLSMVVTSLFIAYWLF</span><span class="topo-outside">VKRDTYVDITLRDFSPSREILK</span></span>
-<span class="topo-line"><span class="topo-outside">DI</span><span class="topo-membrane">LRVGLPSSLSQLSMSIAMFFLN</span><span class="topo-inside">SVAITAGGENGVAVF</span><span class="topo-membrane">TSAWRITMLGIVPILGMAAAT</span></span>
-<span class="topo-line"><span class="topo-membrane">T</span><span class="topo-outside">SVTGAAYGERNVEKLETAYLYA</span><span class="topo-membrane">IKIAFMIELAVVAFIMLFAPQVA</span><span class="topo-inside">YLFT</span><span class="topo-unknown">YSES</span><span class="topo-inside">AQVIKG</span></span>
-<span class="topo-line"><span class="topo-inside">DLI</span><span class="topo-membrane">SALRTLPVFLVLTPFGMMTSAMFQG</span><span class="topo-outside">IGE</span><span class="topo-membrane">GEKSLILTIFRTLVMQVGFAYIFV</span><span class="topo-inside">HYTTL</span></span>
-<span class="topo-line"><span class="topo-inside">GLR</span><span class="topo-membrane">GVWIGIVIGNMVAAIVGFLWG</span><span class="topo-outside">RMRISALKKT</span><span class="topo-unknown">SATGGKR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSE</span><span class="topo-outside">KTT</span><span class="topo-unknown">KGVQLL</span><span class="topo-outside">RGDPKKAIVRL</span><span class="topo-membrane">SIPMMIGMSVQTLYNLADGIW</span><span class="topo-inside">VSGLGPESLAAV</span><span class="topo-membrane">GLFFPVFMGIIALAAGLGVGTSS</span><span class="topo-outside">AIARRIGARDKEGADNVAVH</span><span class="topo-membrane">SLILSLILGVTITITMLPAID</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">SLFRSMGA</span><span class="topo-unknown">KG</span><span class="topo-inside">EAVELAI</span><span class="topo-membrane">EYARVLLAGAFIIVFNNVGNGILR</span><span class="topo-outside">GEGDA</span><span class="topo-membrane">NRAMLAMVLGSGLNIVLDPIFI</span><span class="topo-inside">YTLGFGVV</span><span class="topo-membrane">GAAYATLLSMVVTSLFIAYWLF</span><span class="topo-outside">VKRDTYVDITLRDFSPSREILK</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">DI</span><span class="topo-membrane">LRVGLPSSLSQLSMSIAMFFLN</span><span class="topo-inside">SVAITAGGENGVAVF</span><span class="topo-membrane">TSAWRITMLGIVPILGMAAATT</span><span class="topo-outside">SVTGAAYGERNVEKLETAYLYA</span><span class="topo-membrane">IKIAFMIELAVVAFIMLFAPQVA</span><span class="topo-inside">YLFT</span><span class="topo-unknown">YSES</span><span class="topo-inside">AQVIKG</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460 </span>
+<span class="topo-line"><span class="topo-inside">DLI</span><span class="topo-membrane">SALRTLPVFLVLTPFGMMTSAMFQG</span><span class="topo-outside">IGE</span><span class="topo-membrane">GEKSLILTIFRTLVMQVGFAYIFV</span><span class="topo-inside">HYTTLGLR</span><span class="topo-membrane">GVWIGIVIGNMVAAIVGFLWG</span><span class="topo-outside">RMRISALKKT</span><span class="topo-unknown">SATGGKR</span></span>
+<details class="topo-details"><summary>Topology coordinates (33 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1408,6 +1417,7 @@ PfMATE is a multidrug and toxic compound extrusion (MATE) family transporter fro
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1423,14 +1433,15 @@ PfMATE is a multidrug and toxic compound extrusion (MATE) family transporter fro
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSE</span><span class="topo-outside">KTT</span><span class="topo-unknown">KGVQLL</span><span class="topo-outside">RGDPKKAIVRL</span><span class="topo-membrane">SIPMMIGMSVQTLYNLADGIW</span><span class="topo-inside">VSGLGPESLAAV</span><span class="topo-membrane">GLFF</span></span>
-<span class="topo-line"><span class="topo-membrane">PVFMGIIALAAGLGVGTSS</span><span class="topo-outside">AIARRIGARDKEGADNVAVH</span><span class="topo-membrane">SLILSLILGVTITITMLPAID</span></span>
-<span class="topo-line"><span class="topo-inside">SLFRSMGA</span><span class="topo-unknown">KG</span><span class="topo-inside">EAVELAI</span><span class="topo-membrane">EYARVLLAGAFIIVFNNVGNGILR</span><span class="topo-outside">GEGDA</span><span class="topo-membrane">NRAMLAMVLGSGLN</span></span>
-<span class="topo-line"><span class="topo-membrane">IVLDPIFI</span><span class="topo-inside">YTLGFGVV</span><span class="topo-membrane">GAAYATLLSMVVTSLFIAYWLF</span><span class="topo-outside">VKRDTYVDITLRDFSPSREILK</span></span>
-<span class="topo-line"><span class="topo-outside">DI</span><span class="topo-membrane">LRVGLPSSLSQLSMSIAMFFLN</span><span class="topo-inside">SVAITAGGENGVAVF</span><span class="topo-membrane">TSAWRITMLGIVPILGMAAAT</span></span>
-<span class="topo-line"><span class="topo-membrane">T</span><span class="topo-outside">SVTGAAYGERNVEKLETAYLYA</span><span class="topo-membrane">IKIAFMIELAVVAFIMLFAPQVA</span><span class="topo-inside">YLFT</span><span class="topo-unknown">YSES</span><span class="topo-inside">AQVIKG</span></span>
-<span class="topo-line"><span class="topo-inside">DLI</span><span class="topo-membrane">SALRTLPVFLVLTPFGMMTSAMFQG</span><span class="topo-outside">IGE</span><span class="topo-membrane">GEKSLILTIFRTLVMQVGFAYIFV</span><span class="topo-inside">HYTTL</span></span>
-<span class="topo-line"><span class="topo-inside">GLR</span><span class="topo-membrane">GVWIGIVIGNMVAAIVGFLWG</span><span class="topo-outside">RMRISALKKT</span><span class="topo-unknown">SATGGKR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSE</span><span class="topo-outside">KTT</span><span class="topo-unknown">KGVQLL</span><span class="topo-outside">RGDPKKAIVRL</span><span class="topo-membrane">SIPMMIGMSVQTLYNLADGIW</span><span class="topo-inside">VSGLGPESLAAV</span><span class="topo-membrane">GLFFPVFMGIIALAAGLGVGTSS</span><span class="topo-outside">AIARRIGARDKEGADNVAVH</span><span class="topo-membrane">SLILSLILGVTITITMLPAID</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">SLFRSMGA</span><span class="topo-unknown">KG</span><span class="topo-inside">EAVELAI</span><span class="topo-membrane">EYARVLLAGAFIIVFNNVGNGILR</span><span class="topo-outside">GEGDA</span><span class="topo-membrane">NRAMLAMVLGSGLNIVLDPIFI</span><span class="topo-inside">YTLGFGVV</span><span class="topo-membrane">GAAYATLLSMVVTSLFIAYWLF</span><span class="topo-outside">VKRDTYVDITLRDFSPSREILK</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">DI</span><span class="topo-membrane">LRVGLPSSLSQLSMSIAMFFLN</span><span class="topo-inside">SVAITAGGENGVAVF</span><span class="topo-membrane">TSAWRITMLGIVPILGMAAATT</span><span class="topo-outside">SVTGAAYGERNVEKLETAYLYA</span><span class="topo-membrane">IKIAFMIELAVVAFIMLFAPQVA</span><span class="topo-inside">YLFT</span><span class="topo-unknown">YSES</span><span class="topo-inside">AQVIKG</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460 </span>
+<span class="topo-line"><span class="topo-inside">DLI</span><span class="topo-membrane">SALRTLPVFLVLTPFGMMTSAMFQG</span><span class="topo-outside">IGE</span><span class="topo-membrane">GEKSLILTIFRTLVMQVGFAYIFV</span><span class="topo-inside">HYTTLGLR</span><span class="topo-membrane">GVWIGIVIGNMVAAIVGFLWG</span><span class="topo-outside">RMRISALKKT</span><span class="topo-unknown">SATGGKR</span></span>
+<details class="topo-details"><summary>Topology coordinates (33 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1673,6 +1684,7 @@ PfMATE is a multidrug and toxic compound extrusion (MATE) family transporter fro
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1688,14 +1700,15 @@ PfMATE is a multidrug and toxic compound extrusion (MATE) family transporter fro
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSE</span><span class="topo-outside">KTT</span><span class="topo-unknown">KGVQLL</span><span class="topo-outside">RGDPKKAIVRL</span><span class="topo-membrane">SIPMMIGMSVQTLYNLADGIW</span><span class="topo-inside">VSGLGPESLAAV</span><span class="topo-membrane">GLFF</span></span>
-<span class="topo-line"><span class="topo-membrane">PVFMGIIALAAGLGVGTSS</span><span class="topo-outside">AIARRIGARDKEGADNVAVH</span><span class="topo-membrane">SLILSLILGVTITITMLPAID</span></span>
-<span class="topo-line"><span class="topo-inside">SLFRSMGA</span><span class="topo-unknown">KG</span><span class="topo-inside">EAVELAI</span><span class="topo-membrane">EYARVLLAGAFIIVFNNVGNGILR</span><span class="topo-outside">GEGDA</span><span class="topo-membrane">NRAMLAMVLGSGLN</span></span>
-<span class="topo-line"><span class="topo-membrane">IVLDPIFI</span><span class="topo-inside">YTLGFGVV</span><span class="topo-membrane">GAAYATLLSMVVTSLFIAYWLF</span><span class="topo-outside">VKRDTYVDITLRDFSPSREILK</span></span>
-<span class="topo-line"><span class="topo-outside">DI</span><span class="topo-membrane">LRVGLPSSLSQLSMSIAMFFLN</span><span class="topo-inside">SVAITAGGENGVAVF</span><span class="topo-membrane">TSAWRITMLGIVPILGMAAAT</span></span>
-<span class="topo-line"><span class="topo-membrane">T</span><span class="topo-outside">SVTGAAYGERNVEKLETAYLYA</span><span class="topo-membrane">IKIAFMIELAVVAFIMLFAPQVA</span><span class="topo-inside">YLFT</span><span class="topo-unknown">YSES</span><span class="topo-inside">AQVIKG</span></span>
-<span class="topo-line"><span class="topo-inside">DLI</span><span class="topo-membrane">SALRTLPVFLVLTPFGMMTSAMFQG</span><span class="topo-outside">IGE</span><span class="topo-membrane">GEKSLILTIFRTLVMQVGFAYIFV</span><span class="topo-inside">HYTTL</span></span>
-<span class="topo-line"><span class="topo-inside">GLR</span><span class="topo-membrane">GVWIGIVIGNMVAAIVGFLWG</span><span class="topo-outside">RMRISALKKT</span><span class="topo-unknown">SATGGKR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSE</span><span class="topo-outside">KTT</span><span class="topo-unknown">KGVQLL</span><span class="topo-outside">RGDPKKAIVRL</span><span class="topo-membrane">SIPMMIGMSVQTLYNLADGIW</span><span class="topo-inside">VSGLGPESLAAV</span><span class="topo-membrane">GLFFPVFMGIIALAAGLGVGTSS</span><span class="topo-outside">AIARRIGARDKEGADNVAVH</span><span class="topo-membrane">SLILSLILGVTITITMLPAID</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">SLFRSMGA</span><span class="topo-unknown">KG</span><span class="topo-inside">EAVELAI</span><span class="topo-membrane">EYARVLLAGAFIIVFNNVGNGILR</span><span class="topo-outside">GEGDA</span><span class="topo-membrane">NRAMLAMVLGSGLNIVLDPIFI</span><span class="topo-inside">YTLGFGVV</span><span class="topo-membrane">GAAYATLLSMVVTSLFIAYWLF</span><span class="topo-outside">VKRDTYVDITLRDFSPSREILK</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">DI</span><span class="topo-membrane">LRVGLPSSLSQLSMSIAMFFLN</span><span class="topo-inside">SVAITAGGENGVAVF</span><span class="topo-membrane">TSAWRITMLGIVPILGMAAATT</span><span class="topo-outside">SVTGAAYGERNVEKLETAYLYA</span><span class="topo-membrane">IKIAFMIELAVVAFIMLFAPQVA</span><span class="topo-inside">YLFT</span><span class="topo-unknown">YSES</span><span class="topo-inside">AQVIKG</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460 </span>
+<span class="topo-line"><span class="topo-inside">DLI</span><span class="topo-membrane">SALRTLPVFLVLTPFGMMTSAMFQG</span><span class="topo-outside">IGE</span><span class="topo-membrane">GEKSLILTIFRTLVMQVGFAYIFV</span><span class="topo-inside">HYTTLGLR</span><span class="topo-membrane">GVWIGIVIGNMVAAIVGFLWG</span><span class="topo-outside">RMRISALKKT</span><span class="topo-unknown">SATGGKR</span></span>
+<details class="topo-details"><summary>Topology coordinates (33 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1938,6 +1951,7 @@ PfMATE is a multidrug and toxic compound extrusion (MATE) family transporter fro
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2109,15 +2123,17 @@ PfMATE is a multidrug and toxic compound extrusion (MATE) family transporter fro
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGGSEIPMSE</span><span class="topo-inside">KTTKGVQLLRGDPKKAIVRL</span><span class="topo-membrane">SIPMMIGMSVQTLYNLADGIW</span><span class="topo-outside">VSGLGPESL</span></span>
-<span class="topo-line"><span class="topo-outside">AAVGLF</span><span class="topo-membrane">FPVFMGIIALAAGLGVGTS</span><span class="topo-inside">SAIARRIGARDKEGADNVAVHS</span><span class="topo-membrane">LILSLILGVTITI</span></span>
-<span class="topo-line"><span class="topo-membrane">TMLPAI</span><span class="topo-outside">DSLFRSMGAKGEAVELAI</span><span class="topo-membrane">EYARVLLAGAFIIVFNNVGNGILR</span><span class="topo-inside">GEGDA</span><span class="topo-membrane">NRAMLAM</span></span>
-<span class="topo-line"><span class="topo-membrane">VLGSGLNIVLDPIFI</span><span class="topo-outside">YTLGFGVV</span><span class="topo-membrane">GAAYATLLSMVVTSLFIAYWL</span><span class="topo-inside">FVKRDTYVDITLRDFS</span></span>
-<span class="topo-line"><span class="topo-inside">PSREILKDI</span><span class="topo-membrane">LRVGLPSSLSQLSMSIAMFFLN</span><span class="topo-outside">SVAITAGGENGVAVF</span><span class="topo-membrane">TSAWRITMLGIVPI</span></span>
-<span class="topo-line"><span class="topo-membrane">LGMATATT</span><span class="topo-inside">SVTGAAYGERNVEKLETAYLYA</span><span class="topo-membrane">IKIAFMIELAVVAFIMLFAPQVA</span><span class="topo-outside">YLFTYSE</span></span>
-<span class="topo-line"><span class="topo-outside">SAQVIKGDL</span><span class="topo-membrane">ISALRTLPVFLVLTPFGMMTSAMFQ</span><span class="topo-inside">GIGE</span><span class="topo-membrane">GEKSLILTIFRTLVMQVGFAYI</span></span>
-<span class="topo-line"><span class="topo-membrane">FV</span><span class="topo-outside">HYTTLGLR</span><span class="topo-membrane">GVWIGIVIGNMVAAIVGFLWG</span><span class="topo-inside">RMRISALKKTSA</span><span class="topo-unknown">TGGKRRNSENLYFQGGR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGGSEIPMSE</span><span class="topo-inside">KTTKGVQLLRGDPKKAIVRL</span><span class="topo-membrane">SIPMMIGMSVQTLYNLADGIW</span><span class="topo-outside">VSGLGPESLAAVGLF</span><span class="topo-membrane">FPVFMGIIALAAGLGVGTS</span><span class="topo-inside">SAIARRIGARDKEGADNVAVHS</span><span class="topo-membrane">LILSLILGVTITI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">TMLPAI</span><span class="topo-outside">DSLFRSMGAKGEAVELAI</span><span class="topo-membrane">EYARVLLAGAFIIVFNNVGNGILR</span><span class="topo-inside">GEGDA</span><span class="topo-membrane">NRAMLAMVLGSGLNIVLDPIFI</span><span class="topo-outside">YTLGFGVV</span><span class="topo-membrane">GAAYATLLSMVVTSLFIAYWL</span><span class="topo-inside">FVKRDTYVDITLRDFS</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">PSREILKDI</span><span class="topo-membrane">LRVGLPSSLSQLSMSIAMFFLN</span><span class="topo-outside">SVAITAGGENGVAVF</span><span class="topo-membrane">TSAWRITMLGIVPILGMATATT</span><span class="topo-inside">SVTGAAYGERNVEKLETAYLYA</span><span class="topo-membrane">IKIAFMIELAVVAFIMLFAPQVA</span><span class="topo-outside">YLFTYSE</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">SAQVIKGDL</span><span class="topo-membrane">ISALRTLPVFLVLTPFGMMTSAMFQ</span><span class="topo-inside">GIGE</span><span class="topo-membrane">GEKSLILTIFRTLVMQVGFAYIFV</span><span class="topo-outside">HYTTLGLR</span><span class="topo-membrane">GVWIGIVIGNMVAAIVGFLWG</span><span class="topo-inside">RMRISALKKTSA</span><span class="topo-unknown">TGGKRRNSENLYFQGGR</span></span>
+<span class="topo-ruler">       490  </span>
 <span class="topo-line"><span class="topo-unknown">GSHHHHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (27 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2318,6 +2334,7 @@ PfMATE is a multidrug and toxic compound extrusion (MATE) family transporter fro
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2333,14 +2350,15 @@ PfMATE is a multidrug and toxic compound extrusion (MATE) family transporter fro
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">KKAIVRLSIP</span><span class="topo-membrane">MMIGMSVQTLYNLADGIWV</span><span class="topo-outside">SGLGPESLAAV</span><span class="topo-membrane">GLFFPVFMGIIALAAGLGVG</span></span>
-<span class="topo-line"><span class="topo-membrane">TS</span><span class="topo-inside">SAIARRIGARDKEGADNV</span><span class="topo-membrane">AVHSLILSLILGVTITITMLPAI</span><span class="topo-unknown">DSLFRS</span><span class="topo-outside">MGAKGEAVELA</span></span>
-<span class="topo-line"><span class="topo-outside">IEY</span><span class="topo-membrane">ARVLLAGAFIIVFNNVGNGILR</span><span class="topo-inside">GEGDA</span><span class="topo-membrane">NRAMLAMVLGSGLNIVLDPIFI</span><span class="topo-outside">YTLGFGVV</span></span>
-<span class="topo-line"><span class="topo-membrane">GAAYATLLSMVVTSLFIAYWLFV</span><span class="topo-inside">KRDTYVDITLRDFSP</span><span class="topo-membrane">SREILKDILRVGLPSSLSQLSM</span></span>
-<span class="topo-line"><span class="topo-membrane">SIAMFFLN</span><span class="topo-outside">SVAITAGGENGVAVF</span><span class="topo-membrane">TSAWRITMLGIVPILGMAAATT</span><span class="topo-inside">SVTGAAYGERNVEKL</span></span>
-<span class="topo-line"><span class="topo-inside">ETAY</span><span class="topo-membrane">LYAIKIAFMIELAVVAFIMLFAPQVAYLF</span><span class="topo-outside">TYSESAQVIKGDLI</span><span class="topo-membrane">SALRTLPVFLVLT</span></span>
-<span class="topo-line"><span class="topo-membrane">PFGMMTSAMFQ</span><span class="topo-inside">GIGE</span><span class="topo-membrane">GEKSLILTIFRTLVMQVGFAYI</span><span class="topo-outside">FVHYTTLGLRGV</span><span class="topo-membrane">WIGIVIGNMVA</span></span>
-<span class="topo-line"><span class="topo-membrane">AIVGFLWGRMRI</span><span class="topo-inside">SALKKTSA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">KKAIVRLSIP</span><span class="topo-membrane">MMIGMSVQTLYNLADGIWV</span><span class="topo-outside">SGLGPESLAAV</span><span class="topo-membrane">GLFFPVFMGIIALAAGLGVGTS</span><span class="topo-inside">SAIARRIGARDKEGADNV</span><span class="topo-membrane">AVHSLILSLILGVTITITMLPAI</span><span class="topo-unknown">DSLFRS</span><span class="topo-outside">MGAKGEAVELA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">IEY</span><span class="topo-membrane">ARVLLAGAFIIVFNNVGNGILR</span><span class="topo-inside">GEGDA</span><span class="topo-membrane">NRAMLAMVLGSGLNIVLDPIFI</span><span class="topo-outside">YTLGFGVV</span><span class="topo-membrane">GAAYATLLSMVVTSLFIAYWLFV</span><span class="topo-inside">KRDTYVDITLRDFSP</span><span class="topo-membrane">SREILKDILRVGLPSSLSQLSM</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">SIAMFFLN</span><span class="topo-outside">SVAITAGGENGVAVF</span><span class="topo-membrane">TSAWRITMLGIVPILGMAAATT</span><span class="topo-inside">SVTGAAYGERNVEKLETAY</span><span class="topo-membrane">LYAIKIAFMIELAVVAFIMLFAPQVAYLF</span><span class="topo-outside">TYSESAQVIKGDLI</span><span class="topo-membrane">SALRTLPVFLVLT</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440</span>
+<span class="topo-line"><span class="topo-membrane">PFGMMTSAMFQ</span><span class="topo-inside">GIGE</span><span class="topo-membrane">GEKSLILTIFRTLVMQVGFAYI</span><span class="topo-outside">FVHYTTLGLRGV</span><span class="topo-membrane">WIGIVIGNMVAAIVGFLWGRMRI</span><span class="topo-inside">SALKKTSA</span></span>
+<details class="topo-details"><summary>Topology coordinates (26 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2534,6 +2552,7 @@ PfMATE is a multidrug and toxic compound extrusion (MATE) family transporter fro
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2549,14 +2568,15 @@ PfMATE is a multidrug and toxic compound extrusion (MATE) family transporter fro
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSE</span><span class="topo-inside">KTT</span><span class="topo-unknown">KGVQLLR</span><span class="topo-inside">GDPKKAI</span><span class="topo-membrane">VRLSIPMMIGMSVQTLYNLADGIW</span><span class="topo-outside">VSGLGPESLAAV</span><span class="topo-membrane">GLFF</span></span>
-<span class="topo-line"><span class="topo-membrane">PVFMGIIALAAGLGVGTSS</span><span class="topo-inside">AIARRIGARDKEGADNVAVHS</span><span class="topo-membrane">LILSLILGVTITITMLPAID</span></span>
-<span class="topo-line"><span class="topo-membrane">SLF</span><span class="topo-outside">R</span><span class="topo-unknown">SMGAK</span><span class="topo-outside">GEAVELA</span><span class="topo-membrane">IEYARVLLAGAFIIVFNNVGNGILR</span><span class="topo-inside">GEGD</span><span class="topo-membrane">ANRAMLAMVLGSGLN</span></span>
-<span class="topo-line"><span class="topo-membrane">IVLDPIFI</span><span class="topo-outside">YTLGFGV</span><span class="topo-membrane">VGAAYATLLSMVVTSLFIAYWL</span><span class="topo-inside">FVKRDTYVDITLRDFSPSREILK</span></span>
-<span class="topo-line"><span class="topo-inside">DI</span><span class="topo-membrane">LRVGLPSSLSQLSMSIAMFFLNSV</span><span class="topo-outside">AITAGGENGVAVF</span><span class="topo-membrane">TSAWRITMLGIVPILGMAAAT</span></span>
-<span class="topo-line"><span class="topo-membrane">TS</span><span class="topo-inside">VTGAAYGERNVEKLETAY</span><span class="topo-membrane">LYAIKIAFMIELAVVAFIMLFA</span><span class="topo-unknown">PQVAYLF</span><span class="topo-outside">T</span><span class="topo-unknown">YSESAQV</span><span class="topo-outside">IKG</span></span>
-<span class="topo-line"><span class="topo-outside">DLIS</span><span class="topo-membrane">ALRTLPVFLVLTPFGMMTSAMFQ</span><span class="topo-inside">GIGE</span><span class="topo-membrane">GEKSLILTIFRTLVMQVGFAYIFVHYT</span><span class="topo-outside">TL</span></span>
-<span class="topo-line"><span class="topo-outside">GLR</span><span class="topo-membrane">GVWIGIVIGNMVAAIVGFLWGR</span><span class="topo-inside">MRISALKKTS</span><span class="topo-unknown">ATGGKR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSE</span><span class="topo-inside">KTT</span><span class="topo-unknown">KGVQLLR</span><span class="topo-inside">GDPKKAI</span><span class="topo-membrane">VRLSIPMMIGMSVQTLYNLADGIW</span><span class="topo-outside">VSGLGPESLAAV</span><span class="topo-membrane">GLFFPVFMGIIALAAGLGVGTSS</span><span class="topo-inside">AIARRIGARDKEGADNVAVHS</span><span class="topo-membrane">LILSLILGVTITITMLPAID</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">SLF</span><span class="topo-outside">R</span><span class="topo-unknown">SMGAK</span><span class="topo-outside">GEAVELA</span><span class="topo-membrane">IEYARVLLAGAFIIVFNNVGNGILR</span><span class="topo-inside">GEGD</span><span class="topo-membrane">ANRAMLAMVLGSGLNIVLDPIFI</span><span class="topo-outside">YTLGFGV</span><span class="topo-membrane">VGAAYATLLSMVVTSLFIAYWL</span><span class="topo-inside">FVKRDTYVDITLRDFSPSREILK</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">DI</span><span class="topo-membrane">LRVGLPSSLSQLSMSIAMFFLNSV</span><span class="topo-outside">AITAGGENGVAVF</span><span class="topo-membrane">TSAWRITMLGIVPILGMAAATTS</span><span class="topo-inside">VTGAAYGERNVEKLETAY</span><span class="topo-membrane">LYAIKIAFMIELAVVAFIMLFA</span><span class="topo-unknown">PQVAYLF</span><span class="topo-outside">T</span><span class="topo-unknown">YSESAQV</span><span class="topo-outside">IKG</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460 </span>
+<span class="topo-line"><span class="topo-outside">DLIS</span><span class="topo-membrane">ALRTLPVFLVLTPFGMMTSAMFQ</span><span class="topo-inside">GIGE</span><span class="topo-membrane">GEKSLILTIFRTLVMQVGFAYIFVHYT</span><span class="topo-outside">TLGLR</span><span class="topo-membrane">GVWIGIVIGNMVAAIVGFLWGR</span><span class="topo-inside">MRISALKKTS</span><span class="topo-unknown">ATGGKR</span></span>
+<details class="topo-details"><summary>Topology coordinates (30 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2778,6 +2798,7 @@ PfMATE is a multidrug and toxic compound extrusion (MATE) family transporter fro
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2793,15 +2814,17 @@ PfMATE is a multidrug and toxic compound extrusion (MATE) family transporter fro
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSE</span><span class="topo-inside">KTT</span><span class="topo-unknown">KGVQLLR</span><span class="topo-inside">GDPKKAIVRL</span><span class="topo-membrane">SIPMMIGMSVQTLYNLADG</span><span class="topo-outside">IWVSGLGPESLAAVGLF</span><span class="topo-membrane">F</span></span>
-<span class="topo-line"><span class="topo-membrane">PVFMGIIALAAGLGVGTS</span><span class="topo-inside">SAIARRIGARDKEGADNVAVHS</span><span class="topo-membrane">LILSLILGVTITITMLPAI</span><span class="topo-outside">D</span></span>
-<span class="topo-line"><span class="topo-outside">SLFRSMGAKGEAVELAIE</span><span class="topo-membrane">YARVLLAGAFIIVFNNVGNG</span><span class="topo-inside">ILRGEGDA</span><span class="topo-membrane">NRAMLAMVLGSGLN</span></span>
-<span class="topo-line"><span class="topo-membrane">IVLDPIFI</span><span class="topo-outside">YTLGFGVV</span><span class="topo-membrane">GAAYATLLSMVVTSLFIA</span><span class="topo-inside">YWLFVKRDTYVDITLRDFSPSREILK</span></span>
-<span class="topo-line"><span class="topo-inside">DI</span><span class="topo-membrane">LRVGLPSSLSQLSMSIAMF</span><span class="topo-outside">FLNSVAITAGGENGVAVFTSA</span><span class="topo-membrane">WRITMLGIVPILGMATAT</span></span>
-<span class="topo-line"><span class="topo-membrane">T</span><span class="topo-inside">SVTGAAYGERNVEKLETAY</span><span class="topo-membrane">LYAIKIAFMIELAVVAFIMLFA</span><span class="topo-outside">PQVAYLFTYSESAQVIKG</span></span>
-<span class="topo-line"><span class="topo-outside">DLISAL</span><span class="topo-membrane">RTLPVFLVLTPFGMMTSAMFQ</span><span class="topo-inside">GIGE</span><span class="topo-membrane">GEKSLILTIFRTLVMQVGFA</span><span class="topo-outside">YIFVHYTTL</span></span>
-<span class="topo-line"><span class="topo-outside">GLRGVW</span><span class="topo-membrane">IGIVIGNMVAAIVGFLWGRM</span><span class="topo-inside">RISALKKTSA</span><span class="topo-unknown">TGGKRRNSENLYFQGGRGSHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSE</span><span class="topo-inside">KTT</span><span class="topo-unknown">KGVQLLR</span><span class="topo-inside">GDPKKAIVRL</span><span class="topo-membrane">SIPMMIGMSVQTLYNLADG</span><span class="topo-outside">IWVSGLGPESLAAVGLF</span><span class="topo-membrane">FPVFMGIIALAAGLGVGTS</span><span class="topo-inside">SAIARRIGARDKEGADNVAVHS</span><span class="topo-membrane">LILSLILGVTITITMLPAI</span><span class="topo-outside">D</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">SLFRSMGAKGEAVELAIE</span><span class="topo-membrane">YARVLLAGAFIIVFNNVGNG</span><span class="topo-inside">ILRGEGDA</span><span class="topo-membrane">NRAMLAMVLGSGLNIVLDPIFI</span><span class="topo-outside">YTLGFGVV</span><span class="topo-membrane">GAAYATLLSMVVTSLFIA</span><span class="topo-inside">YWLFVKRDTYVDITLRDFSPSREILK</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">DI</span><span class="topo-membrane">LRVGLPSSLSQLSMSIAMF</span><span class="topo-outside">FLNSVAITAGGENGVAVFTSA</span><span class="topo-membrane">WRITMLGIVPILGMATATT</span><span class="topo-inside">SVTGAAYGERNVEKLETAY</span><span class="topo-membrane">LYAIKIAFMIELAVVAFIMLFA</span><span class="topo-outside">PQVAYLFTYSESAQVIKG</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">DLISAL</span><span class="topo-membrane">RTLPVFLVLTPFGMMTSAMFQ</span><span class="topo-inside">GIGE</span><span class="topo-membrane">GEKSLILTIFRTLVMQVGFA</span><span class="topo-outside">YIFVHYTTLGLRGVW</span><span class="topo-membrane">IGIVIGNMVAAIVGFLWGRM</span><span class="topo-inside">RISALKKTSA</span><span class="topo-unknown">TGGKRRNSENLYFQGGRGSHHHHH</span></span>
+<span class="topo-ruler">     </span>
 <span class="topo-line"><span class="topo-unknown">HHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (27 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3002,6 +3025,7 @@ PfMATE is a multidrug and toxic compound extrusion (MATE) family transporter fro
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

@@ -141,14 +141,15 @@ AdiC is an arginine/agmatine antiporter from the APC (amino acid-polyamine-organ
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSSDADAHK</span><span class="topo-inside">VGLI</span><span class="topo-membrane">PVTLMVSGNIMGSG</span><span class="topo-outside">VF</span><span class="topo-unknown">LLPANL</span><span class="topo-outside">AATGGIAIYG</span><span class="topo-membrane">WLVTIIGALALSM</span><span class="topo-inside">VY</span></span>
-<span class="topo-line"><span class="topo-inside">AKMSSLDPSPGGS</span><span class="topo-unknown">YAYARRCF</span><span class="topo-inside">GPFLGYQTNV</span><span class="topo-membrane">LYWLACWIGNIAMVV</span><span class="topo-outside">IGVGYLSYFFPILK</span></span>
-<span class="topo-line"><span class="topo-outside">DPLVLTL</span><span class="topo-membrane">TCVAVLWIFVLLN</span><span class="topo-inside">IVGPKM</span><span class="topo-membrane">ITRVQAVATVLALVPIVG</span><span class="topo-outside">IAVFGWFWFKGE</span><span class="topo-unknown">TYMA</span></span>
-<span class="topo-line"><span class="topo-unknown">A</span><span class="topo-outside">WNVSGMN</span><span class="topo-unknown">TFGAIQSTL</span><span class="topo-membrane">NVTLWSFIGVES</span><span class="topo-inside">ASVAAGVVKNPKRNVPIA</span><span class="topo-membrane">TIGGVLIAAVCYV</span></span>
-<span class="topo-line"><span class="topo-membrane">LS</span><span class="topo-outside">TTAIMGMIPNAALRVSASPFGDAARMALGDTAGAIVSFC</span><span class="topo-membrane">AAAGCLGSLGGWTLLA</span><span class="topo-inside">GQT</span></span>
-<span class="topo-line"><span class="topo-inside">AKAAADDGLFPPIFAR</span><span class="topo-unknown">VNKAG</span><span class="topo-inside">TPVAGL</span><span class="topo-membrane">LIVGVLMTIFQFS</span><span class="topo-outside">SMSPNAAKEFGL</span><span class="topo-membrane">VSSVSVIF</span></span>
-<span class="topo-line"><span class="topo-membrane">TLVPYLY</span><span class="topo-inside">TCAALLLLGHGHFGKARPLYLL</span><span class="topo-membrane">ITFVAFVYCIWAVIGS</span><span class="topo-outside">GA</span><span class="topo-membrane">KEVMWSFVTLMVI</span></span>
-<span class="topo-line"><span class="topo-membrane">TAL</span><span class="topo-inside">YALNYNRIHKNPYPLDAP</span><span class="topo-unknown">VKQD</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSSDADAHK</span><span class="topo-inside">VGLI</span><span class="topo-membrane">PVTLMVSGNIMGSG</span><span class="topo-outside">VF</span><span class="topo-unknown">LLPANL</span><span class="topo-outside">AATGGIAIYG</span><span class="topo-membrane">WLVTIIGALALSM</span><span class="topo-inside">VYAKMSSLDPSPGGS</span><span class="topo-unknown">YAYARRCF</span><span class="topo-inside">GPFLGYQTNV</span><span class="topo-membrane">LYWLACWIGNIAMVV</span><span class="topo-outside">IGVGYLSYFFPILK</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">DPLVLTL</span><span class="topo-membrane">TCVAVLWIFVLLN</span><span class="topo-inside">IVGPKM</span><span class="topo-membrane">ITRVQAVATVLALVPIVG</span><span class="topo-outside">IAVFGWFWFKGE</span><span class="topo-unknown">TYMAA</span><span class="topo-outside">WNVSGMN</span><span class="topo-unknown">TFGAIQSTL</span><span class="topo-membrane">NVTLWSFIGVES</span><span class="topo-inside">ASVAAGVVKNPKRNVPIA</span><span class="topo-membrane">TIGGVLIAAVCYV</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">LS</span><span class="topo-outside">TTAIMGMIPNAALRVSASPFGDAARMALGDTAGAIVSFC</span><span class="topo-membrane">AAAGCLGSLGGWTLLA</span><span class="topo-inside">GQTAKAAADDGLFPPIFAR</span><span class="topo-unknown">VNKAG</span><span class="topo-inside">TPVAGL</span><span class="topo-membrane">LIVGVLMTIFQFS</span><span class="topo-outside">SMSPNAAKEFGL</span><span class="topo-membrane">VSSVSVIF</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440     </span>
+<span class="topo-line"><span class="topo-membrane">TLVPYLY</span><span class="topo-inside">TCAALLLLGHGHFGKARPLYLL</span><span class="topo-membrane">ITFVAFVYCIWAVIGS</span><span class="topo-outside">GA</span><span class="topo-membrane">KEVMWSFVTLMVITAL</span><span class="topo-inside">YALNYNRIHKNPYPLDAP</span><span class="topo-unknown">VKQD</span></span>
+<details class="topo-details"><summary>Topology coordinates (36 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -412,6 +413,7 @@ AdiC is an arginine/agmatine antiporter from the APC (amino acid-polyamine-organ
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -427,14 +429,15 @@ AdiC is an arginine/agmatine antiporter from the APC (amino acid-polyamine-organ
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSSDADAHK</span><span class="topo-inside">VGLIP</span><span class="topo-membrane">VTLMVSGNIMGSGV</span><span class="topo-outside">F</span><span class="topo-unknown">LLPANL</span><span class="topo-outside">AATGGIAIYG</span><span class="topo-membrane">WLVTIIGALALSM</span><span class="topo-inside">VY</span></span>
-<span class="topo-line"><span class="topo-inside">AKMSSLDPSPGGS</span><span class="topo-unknown">YAYARRCF</span><span class="topo-inside">GPFLGYQTNV</span><span class="topo-membrane">LYWLACWIGNIAMVV</span><span class="topo-outside">IGVGYLSYFFPILK</span></span>
-<span class="topo-line"><span class="topo-outside">DPLVLTL</span><span class="topo-membrane">TCVAVLWIFVLLN</span><span class="topo-inside">IVGPKM</span><span class="topo-membrane">ITRVQAVATVLALVPIVG</span><span class="topo-outside">IAVFGWFWFK</span><span class="topo-unknown">GETYMA</span></span>
-<span class="topo-line"><span class="topo-unknown">A</span><span class="topo-outside">WNVSGMN</span><span class="topo-unknown">TFGAIQSTL</span><span class="topo-membrane">NVTLWSFIGVES</span><span class="topo-inside">ASVAAGVVKNPKRNVPIAT</span><span class="topo-membrane">IGGVLIAAVCYV</span></span>
-<span class="topo-line"><span class="topo-membrane">LS</span><span class="topo-outside">TTAIMGMIPNAALRVSASPFGDAARMALGDTAGAIVSFC</span><span class="topo-membrane">AAAGCLGSLGGWTLLA</span><span class="topo-inside">GQT</span></span>
-<span class="topo-line"><span class="topo-inside">AKAAADDGLFPPIFARVNKAG</span><span class="topo-unknown">TPVA</span><span class="topo-inside">GL</span><span class="topo-membrane">LIVGVLMTIFQFS</span><span class="topo-outside">SMSPNAAKEFGL</span><span class="topo-membrane">VSSVSVIF</span></span>
-<span class="topo-line"><span class="topo-membrane">TLVPYL</span><span class="topo-inside">YTCAALLLLGHGHFGKARPLYLL</span><span class="topo-membrane">ITFVAFVYCIWAVIGS</span><span class="topo-outside">GA</span><span class="topo-membrane">KEVMWSFVTLMVI</span></span>
-<span class="topo-line"><span class="topo-membrane">TAL</span><span class="topo-inside">YALNYNRIHKNPYPLDA</span><span class="topo-unknown">PVKQD</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSSDADAHK</span><span class="topo-inside">VGLIP</span><span class="topo-membrane">VTLMVSGNIMGSGV</span><span class="topo-outside">F</span><span class="topo-unknown">LLPANL</span><span class="topo-outside">AATGGIAIYG</span><span class="topo-membrane">WLVTIIGALALSM</span><span class="topo-inside">VYAKMSSLDPSPGGS</span><span class="topo-unknown">YAYARRCF</span><span class="topo-inside">GPFLGYQTNV</span><span class="topo-membrane">LYWLACWIGNIAMVV</span><span class="topo-outside">IGVGYLSYFFPILK</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">DPLVLTL</span><span class="topo-membrane">TCVAVLWIFVLLN</span><span class="topo-inside">IVGPKM</span><span class="topo-membrane">ITRVQAVATVLALVPIVG</span><span class="topo-outside">IAVFGWFWFK</span><span class="topo-unknown">GETYMAA</span><span class="topo-outside">WNVSGMN</span><span class="topo-unknown">TFGAIQSTL</span><span class="topo-membrane">NVTLWSFIGVES</span><span class="topo-inside">ASVAAGVVKNPKRNVPIAT</span><span class="topo-membrane">IGGVLIAAVCYV</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">LS</span><span class="topo-outside">TTAIMGMIPNAALRVSASPFGDAARMALGDTAGAIVSFC</span><span class="topo-membrane">AAAGCLGSLGGWTLLA</span><span class="topo-inside">GQTAKAAADDGLFPPIFARVNKAG</span><span class="topo-unknown">TPVA</span><span class="topo-inside">GL</span><span class="topo-membrane">LIVGVLMTIFQFS</span><span class="topo-outside">SMSPNAAKEFGL</span><span class="topo-membrane">VSSVSVIF</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440     </span>
+<span class="topo-line"><span class="topo-membrane">TLVPYL</span><span class="topo-inside">YTCAALLLLGHGHFGKARPLYLL</span><span class="topo-membrane">ITFVAFVYCIWAVIGS</span><span class="topo-outside">GA</span><span class="topo-membrane">KEVMWSFVTLMVITAL</span><span class="topo-inside">YALNYNRIHKNPYPLDA</span><span class="topo-unknown">PVKQD</span></span>
+<details class="topo-details"><summary>Topology coordinates (36 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -698,6 +701,7 @@ AdiC is an arginine/agmatine antiporter from the APC (amino acid-polyamine-organ
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -800,14 +804,15 @@ AdiC is an arginine/agmatine antiporter from the APC (amino acid-polyamine-organ
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSSDA</span><span class="topo-inside">DAHKVGLIP</span><span class="topo-membrane">VTLMVSGNIMGSGVFLL</span><span class="topo-outside">PANLASTGGIAI</span><span class="topo-membrane">YGWLVTIIGALGLSM</span><span class="topo-inside">VY</span></span>
-<span class="topo-line"><span class="topo-inside">AKMSFLDPSPGGSYAYARRCFGPFLGYQ</span><span class="topo-membrane">TNVLYWLACWIGNIAMVVIGVGYL</span><span class="topo-outside">SYFFPILK</span></span>
-<span class="topo-line"><span class="topo-outside">DPLV</span><span class="topo-membrane">LTITCVVVLWIFVLLN</span><span class="topo-inside">IVGPKM</span><span class="topo-membrane">ITRVQAVATVLALIPIVGIAVFGWF</span><span class="topo-outside">WFRGETYMA</span></span>
-<span class="topo-line"><span class="topo-outside">AWNVSGLGTFGAI</span><span class="topo-membrane">QSTLNVTLWSFIGVES</span><span class="topo-inside">ASVAAGVVKNPKRNVPIAT</span><span class="topo-membrane">IGGVLIAAVCYV</span></span>
-<span class="topo-line"><span class="topo-membrane">LSTT</span><span class="topo-outside">AIMGMIPN</span><span class="topo-unknown">AALRVSASPFGDAARMALGD</span><span class="topo-outside">TAGAI</span><span class="topo-membrane">VSFCAAAGCLGSLGGWTLLAG</span><span class="topo-inside">QT</span></span>
-<span class="topo-line"><span class="topo-inside">AKAAADDGLFPPIFARVNKAGTPVAGL</span><span class="topo-membrane">IIVGILMTIFQLSSI</span><span class="topo-outside">SPNATK</span><span class="topo-membrane">EFGLVSSVSVIF</span></span>
-<span class="topo-line"><span class="topo-membrane">TLVPYLY</span><span class="topo-inside">TCAALLLLGHGHFGKARPAYLA</span><span class="topo-membrane">VTTIAFLYCIWAVVGSGA</span><span class="topo-outside">K</span><span class="topo-membrane">EVMWSFVTLMVI</span></span>
-<span class="topo-line"><span class="topo-membrane">TAM</span><span class="topo-inside">YALNYNRLHKNP</span><span class="topo-unknown">YPLDAPISKD</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSSDA</span><span class="topo-inside">DAHKVGLIP</span><span class="topo-membrane">VTLMVSGNIMGSGVFLL</span><span class="topo-outside">PANLASTGGIAI</span><span class="topo-membrane">YGWLVTIIGALGLSM</span><span class="topo-inside">VYAKMSFLDPSPGGSYAYARRCFGPFLGYQ</span><span class="topo-membrane">TNVLYWLACWIGNIAMVVIGVGYL</span><span class="topo-outside">SYFFPILK</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">DPLV</span><span class="topo-membrane">LTITCVVVLWIFVLLN</span><span class="topo-inside">IVGPKM</span><span class="topo-membrane">ITRVQAVATVLALIPIVGIAVFGWF</span><span class="topo-outside">WFRGETYMAAWNVSGLGTFGAI</span><span class="topo-membrane">QSTLNVTLWSFIGVES</span><span class="topo-inside">ASVAAGVVKNPKRNVPIAT</span><span class="topo-membrane">IGGVLIAAVCYV</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">LSTT</span><span class="topo-outside">AIMGMIPN</span><span class="topo-unknown">AALRVSASPFGDAARMALGD</span><span class="topo-outside">TAGAI</span><span class="topo-membrane">VSFCAAAGCLGSLGGWTLLAG</span><span class="topo-inside">QTAKAAADDGLFPPIFARVNKAGTPVAGL</span><span class="topo-membrane">IIVGILMTIFQLSSI</span><span class="topo-outside">SPNATK</span><span class="topo-membrane">EFGLVSSVSVIF</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440     </span>
+<span class="topo-line"><span class="topo-membrane">TLVPYLY</span><span class="topo-inside">TCAALLLLGHGHFGKARPAYLA</span><span class="topo-membrane">VTTIAFLYCIWAVVGSGA</span><span class="topo-outside">K</span><span class="topo-membrane">EVMWSFVTLMVITAM</span><span class="topo-inside">YALNYNRLHKNP</span><span class="topo-unknown">YPLDAPISKD</span></span>
+<details class="topo-details"><summary>Topology coordinates (29 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1022,6 +1027,7 @@ AdiC is an arginine/agmatine antiporter from the APC (amino acid-polyamine-organ
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1037,14 +1043,15 @@ AdiC is an arginine/agmatine antiporter from the APC (amino acid-polyamine-organ
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSSDA</span><span class="topo-inside">DAHKVGLIP</span><span class="topo-membrane">VTLMVSGNIMGSGVFLL</span><span class="topo-outside">PANLASTGGIAI</span><span class="topo-membrane">YGWLVTIIGALGLSM</span><span class="topo-inside">VY</span></span>
-<span class="topo-line"><span class="topo-inside">AKMSFLDPSPGGSYAYARRCFGPFLGYQ</span><span class="topo-membrane">TNVLYWLACWIGNIAMVVIGVGYL</span><span class="topo-outside">SYFFPILK</span></span>
-<span class="topo-line"><span class="topo-outside">DPLV</span><span class="topo-membrane">LTITCVVVLWIFVLLN</span><span class="topo-inside">IVGPKM</span><span class="topo-membrane">ITRVQAVATVLALIPIVGIAVFGWF</span><span class="topo-outside">WFRGETYMA</span></span>
-<span class="topo-line"><span class="topo-outside">AWNVSGLGTFGAI</span><span class="topo-membrane">QSTLNVTLWSFIGVES</span><span class="topo-inside">ASVAAGVVKNPKRNVPIAT</span><span class="topo-membrane">IGGVLIAAVCYV</span></span>
-<span class="topo-line"><span class="topo-membrane">LSTT</span><span class="topo-outside">AIMGMIPN</span><span class="topo-unknown">AALRVSASPFGDAARMALGD</span><span class="topo-outside">TAGAI</span><span class="topo-membrane">VSFCAAAGCLGSLGGWTLLAG</span><span class="topo-inside">QT</span></span>
-<span class="topo-line"><span class="topo-inside">AKAAADDGLFPPIFARVNKAGTPVAGL</span><span class="topo-membrane">IIVGILMTIFQLSSI</span><span class="topo-outside">SPNATK</span><span class="topo-membrane">EFGLVSSVSVIF</span></span>
-<span class="topo-line"><span class="topo-membrane">TLVPYLY</span><span class="topo-inside">TCAALLLLGHGHFGKARPAYLA</span><span class="topo-membrane">VTTIAFLYCIWAVVGSGA</span><span class="topo-outside">K</span><span class="topo-membrane">EVMWSFVTLMVI</span></span>
-<span class="topo-line"><span class="topo-membrane">TAM</span><span class="topo-inside">YALNYNRLHKNP</span><span class="topo-unknown">YPLDAPISKD</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSSDA</span><span class="topo-inside">DAHKVGLIP</span><span class="topo-membrane">VTLMVSGNIMGSGVFLL</span><span class="topo-outside">PANLASTGGIAI</span><span class="topo-membrane">YGWLVTIIGALGLSM</span><span class="topo-inside">VYAKMSFLDPSPGGSYAYARRCFGPFLGYQ</span><span class="topo-membrane">TNVLYWLACWIGNIAMVVIGVGYL</span><span class="topo-outside">SYFFPILK</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">DPLV</span><span class="topo-membrane">LTITCVVVLWIFVLLN</span><span class="topo-inside">IVGPKM</span><span class="topo-membrane">ITRVQAVATVLALIPIVGIAVFGWF</span><span class="topo-outside">WFRGETYMAAWNVSGLGTFGAI</span><span class="topo-membrane">QSTLNVTLWSFIGVES</span><span class="topo-inside">ASVAAGVVKNPKRNVPIAT</span><span class="topo-membrane">IGGVLIAAVCYV</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">LSTT</span><span class="topo-outside">AIMGMIPN</span><span class="topo-unknown">AALRVSASPFGDAARMALGD</span><span class="topo-outside">TAGAI</span><span class="topo-membrane">VSFCAAAGCLGSLGGWTLLAG</span><span class="topo-inside">QTAKAAADDGLFPPIFARVNKAGTPVAGL</span><span class="topo-membrane">IIVGILMTIFQLSSI</span><span class="topo-outside">SPNATK</span><span class="topo-membrane">EFGLVSSVSVIF</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440     </span>
+<span class="topo-line"><span class="topo-membrane">TLVPYLY</span><span class="topo-inside">TCAALLLLGHGHFGKARPAYLA</span><span class="topo-membrane">VTTIAFLYCIWAVVGSGA</span><span class="topo-outside">K</span><span class="topo-membrane">EVMWSFVTLMVITAM</span><span class="topo-inside">YALNYNRLHKNP</span><span class="topo-unknown">YPLDAPISKD</span></span>
+<details class="topo-details"><summary>Topology coordinates (29 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1259,6 +1266,7 @@ AdiC is an arginine/agmatine antiporter from the APC (amino acid-polyamine-organ
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1354,14 +1362,15 @@ AdiC is an arginine/agmatine antiporter from the APC (amino acid-polyamine-organ
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSSD</span><span class="topo-inside">ADAHKVGLIPVT</span><span class="topo-membrane">LMVSGNIMGSGVFLLP</span><span class="topo-outside">ANLASTGG</span><span class="topo-membrane">IAIYGWLVTIIGALGLS</span><span class="topo-inside">MVY</span></span>
-<span class="topo-line"><span class="topo-inside">AKMSFLDPSPGGSYAYARRCFGPFLGYQTNV</span><span class="topo-membrane">LYWLACWIGNIAMVVIGVGYLS</span><span class="topo-outside">YFFPILK</span></span>
-<span class="topo-line"><span class="topo-outside">DP</span><span class="topo-membrane">LVLTITCVVVLWIFVLLN</span><span class="topo-inside">IVGPKM</span><span class="topo-membrane">ITRVQAVATVLALIPIVGIAVFGWF</span><span class="topo-outside">WFRGETYMA</span></span>
-<span class="topo-line"><span class="topo-outside">AWNVSGLGT</span><span class="topo-membrane">FGAIQSTLNVTLWSFIGVES</span><span class="topo-inside">ASVAAGVVKNPKRNVPIAT</span><span class="topo-membrane">IGGVLIAAVCYV</span></span>
-<span class="topo-line"><span class="topo-membrane">LSTTAI</span><span class="topo-outside">MGMIPNAALRVSASPFGDAARMALGDTAGA</span><span class="topo-membrane">IVSFCAAAGCLGSLGGWTLLA</span><span class="topo-inside">GQT</span></span>
-<span class="topo-line"><span class="topo-inside">AKAAADDGLFPPIFARVNKAGTPVAGL</span><span class="topo-membrane">IIVGILMTIFQLSSI</span><span class="topo-outside">SPNA</span><span class="topo-membrane">TKEFGLVSSVSVIF</span></span>
-<span class="topo-line"><span class="topo-membrane">TLVPYL</span><span class="topo-inside">YTCAALLLLGHGHFGKARPAYLA</span><span class="topo-membrane">VTTIAFLYCIWAVVGSGA</span><span class="topo-outside">K</span><span class="topo-membrane">EVMWSFVTLMVI</span></span>
-<span class="topo-line"><span class="topo-membrane">TAM</span><span class="topo-inside">YALNYNRLHKNPYPLDAP</span><span class="topo-unknown">ISKDLELEVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSSD</span><span class="topo-inside">ADAHKVGLIPVT</span><span class="topo-membrane">LMVSGNIMGSGVFLLP</span><span class="topo-outside">ANLASTGG</span><span class="topo-membrane">IAIYGWLVTIIGALGLS</span><span class="topo-inside">MVYAKMSFLDPSPGGSYAYARRCFGPFLGYQTNV</span><span class="topo-membrane">LYWLACWIGNIAMVVIGVGYLS</span><span class="topo-outside">YFFPILK</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">DP</span><span class="topo-membrane">LVLTITCVVVLWIFVLLN</span><span class="topo-inside">IVGPKM</span><span class="topo-membrane">ITRVQAVATVLALIPIVGIAVFGWF</span><span class="topo-outside">WFRGETYMAAWNVSGLGT</span><span class="topo-membrane">FGAIQSTLNVTLWSFIGVES</span><span class="topo-inside">ASVAAGVVKNPKRNVPIAT</span><span class="topo-membrane">IGGVLIAAVCYV</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">LSTTAI</span><span class="topo-outside">MGMIPNAALRVSASPFGDAARMALGDTAGA</span><span class="topo-membrane">IVSFCAAAGCLGSLGGWTLLA</span><span class="topo-inside">GQTAKAAADDGLFPPIFARVNKAGTPVAGL</span><span class="topo-membrane">IIVGILMTIFQLSSI</span><span class="topo-outside">SPNA</span><span class="topo-membrane">TKEFGLVSSVSVIF</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450   </span>
+<span class="topo-line"><span class="topo-membrane">TLVPYL</span><span class="topo-inside">YTCAALLLLGHGHFGKARPAYLA</span><span class="topo-membrane">VTTIAFLYCIWAVVGSGA</span><span class="topo-outside">K</span><span class="topo-membrane">EVMWSFVTLMVITAM</span><span class="topo-inside">YALNYNRLHKNPYPLDAP</span><span class="topo-unknown">ISKDLELEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (25 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1548,6 +1557,7 @@ AdiC is an arginine/agmatine antiporter from the APC (amino acid-polyamine-organ
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1563,14 +1573,15 @@ AdiC is an arginine/agmatine antiporter from the APC (amino acid-polyamine-organ
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSSDA</span><span class="topo-inside">DAHKVGLIPVT</span><span class="topo-membrane">LMVSGNIMGSGVFLLP</span><span class="topo-outside">ANLASTGG</span><span class="topo-membrane">IAIYGWLVTIIGALGLS</span><span class="topo-inside">MVY</span></span>
-<span class="topo-line"><span class="topo-inside">AKMSFLDPSPGGSYAYARRCFGPFLGYQTNV</span><span class="topo-membrane">LYWLACWIGNIAMVVIGVGYLS</span><span class="topo-outside">YFFPILK</span></span>
-<span class="topo-line"><span class="topo-outside">DP</span><span class="topo-membrane">LVLTITCVVVLWIFVLLN</span><span class="topo-inside">IVGPKMI</span><span class="topo-membrane">TRVQAVATVLALIPIVGIAVFGWF</span><span class="topo-outside">WFR</span><span class="topo-unknown">GETYMA</span></span>
-<span class="topo-line"><span class="topo-unknown">A</span><span class="topo-outside">WNVSGLGT</span><span class="topo-membrane">FGAIQSTLNVTLWSFIGVES</span><span class="topo-inside">ASVAAGVVKNPKRNVPIAT</span><span class="topo-membrane">IGGVLIAAVCYV</span></span>
-<span class="topo-line"><span class="topo-membrane">LSTTAI</span><span class="topo-outside">MGMIP</span><span class="topo-unknown">NAALRV</span><span class="topo-outside">SAS</span><span class="topo-unknown">PFGDAARMAL</span><span class="topo-outside">GDTAGA</span><span class="topo-membrane">IVSFCAAAGCLGSLGGWTLLA</span><span class="topo-inside">GQT</span></span>
-<span class="topo-line"><span class="topo-inside">AKAAADDGLFPPIFARVNKAGTPVAGL</span><span class="topo-membrane">IIVGILMTIFQLSSI</span><span class="topo-outside">SPNA</span><span class="topo-membrane">TKEFGLVSSVSVIF</span></span>
-<span class="topo-line"><span class="topo-membrane">TLVPYL</span><span class="topo-inside">YTCAALLLLGHGHFGKARPAYLA</span><span class="topo-membrane">VTTIAFLYCIWAVVGSGA</span><span class="topo-outside">K</span><span class="topo-membrane">EVMWSFVTLMVI</span></span>
-<span class="topo-line"><span class="topo-membrane">TAM</span><span class="topo-inside">YALNYNRLHKNPYPLDAP</span><span class="topo-unknown">ISKDLELEVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSSDA</span><span class="topo-inside">DAHKVGLIPVT</span><span class="topo-membrane">LMVSGNIMGSGVFLLP</span><span class="topo-outside">ANLASTGG</span><span class="topo-membrane">IAIYGWLVTIIGALGLS</span><span class="topo-inside">MVYAKMSFLDPSPGGSYAYARRCFGPFLGYQTNV</span><span class="topo-membrane">LYWLACWIGNIAMVVIGVGYLS</span><span class="topo-outside">YFFPILK</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">DP</span><span class="topo-membrane">LVLTITCVVVLWIFVLLN</span><span class="topo-inside">IVGPKMI</span><span class="topo-membrane">TRVQAVATVLALIPIVGIAVFGWF</span><span class="topo-outside">WFR</span><span class="topo-unknown">GETYMAA</span><span class="topo-outside">WNVSGLGT</span><span class="topo-membrane">FGAIQSTLNVTLWSFIGVES</span><span class="topo-inside">ASVAAGVVKNPKRNVPIAT</span><span class="topo-membrane">IGGVLIAAVCYV</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">LSTTAI</span><span class="topo-outside">MGMIP</span><span class="topo-unknown">NAALRV</span><span class="topo-outside">SAS</span><span class="topo-unknown">PFGDAARMAL</span><span class="topo-outside">GDTAGA</span><span class="topo-membrane">IVSFCAAAGCLGSLGGWTLLA</span><span class="topo-inside">GQTAKAAADDGLFPPIFARVNKAGTPVAGL</span><span class="topo-membrane">IIVGILMTIFQLSSI</span><span class="topo-outside">SPNA</span><span class="topo-membrane">TKEFGLVSSVSVIF</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450   </span>
+<span class="topo-line"><span class="topo-membrane">TLVPYL</span><span class="topo-inside">YTCAALLLLGHGHFGKARPAYLA</span><span class="topo-membrane">VTTIAFLYCIWAVVGSGA</span><span class="topo-outside">K</span><span class="topo-membrane">EVMWSFVTLMVITAM</span><span class="topo-inside">YALNYNRLHKNPYPLDAP</span><span class="topo-unknown">ISKDLELEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (31 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1799,6 +1810,7 @@ AdiC is an arginine/agmatine antiporter from the APC (amino acid-polyamine-organ
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1814,14 +1826,15 @@ AdiC is an arginine/agmatine antiporter from the APC (amino acid-polyamine-organ
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSSD</span><span class="topo-inside">ADAHKVGLIPVT</span><span class="topo-membrane">LMVSGNIMGSGVFLLP</span><span class="topo-outside">ANLASTGG</span><span class="topo-membrane">IAIYGWLVTIIGALGLS</span><span class="topo-inside">MVY</span></span>
-<span class="topo-line"><span class="topo-inside">AKMSFLDPSPGGSYAYARRCFGPFLGYQTNV</span><span class="topo-membrane">LYWLACWIGNIAMVVIGVGYLS</span><span class="topo-outside">YFFPILK</span></span>
-<span class="topo-line"><span class="topo-outside">DP</span><span class="topo-membrane">LVLTITCVVVLWIFVLLN</span><span class="topo-inside">IVGPKM</span><span class="topo-membrane">ITRVQAVATVLALIPIVGIAVFGWF</span><span class="topo-outside">WFRGETYMA</span></span>
-<span class="topo-line"><span class="topo-outside">AWNVSGLGT</span><span class="topo-membrane">FGAIQSTLNVTLWSFIGVES</span><span class="topo-inside">ASVAAGVVKNPKRNVPIAT</span><span class="topo-membrane">IGGVLIAAVCYV</span></span>
-<span class="topo-line"><span class="topo-membrane">LSTTAI</span><span class="topo-outside">MGMIPNAALRVSASPFGDAARMALGDTAGA</span><span class="topo-membrane">IVSFCAAAGCLGSLGGWTLLA</span><span class="topo-inside">GQT</span></span>
-<span class="topo-line"><span class="topo-inside">AKAAADDGLFPPIFARVNKAGTPVAGL</span><span class="topo-membrane">IIVGILMTIFQLSSI</span><span class="topo-outside">SPNA</span><span class="topo-membrane">TKEFGLVSSVSVIF</span></span>
-<span class="topo-line"><span class="topo-membrane">TLVPYL</span><span class="topo-inside">YTCAALLLLGHGHFGKARPAYLA</span><span class="topo-membrane">VTTIAFLYCIWAVVGSGA</span><span class="topo-outside">K</span><span class="topo-membrane">EVMWSFVTLMVI</span></span>
-<span class="topo-line"><span class="topo-membrane">TAM</span><span class="topo-inside">YALNYNRLHKNPYPLDAP</span><span class="topo-unknown">ISKDLELEVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSSD</span><span class="topo-inside">ADAHKVGLIPVT</span><span class="topo-membrane">LMVSGNIMGSGVFLLP</span><span class="topo-outside">ANLASTGG</span><span class="topo-membrane">IAIYGWLVTIIGALGLS</span><span class="topo-inside">MVYAKMSFLDPSPGGSYAYARRCFGPFLGYQTNV</span><span class="topo-membrane">LYWLACWIGNIAMVVIGVGYLS</span><span class="topo-outside">YFFPILK</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">DP</span><span class="topo-membrane">LVLTITCVVVLWIFVLLN</span><span class="topo-inside">IVGPKM</span><span class="topo-membrane">ITRVQAVATVLALIPIVGIAVFGWF</span><span class="topo-outside">WFRGETYMAAWNVSGLGT</span><span class="topo-membrane">FGAIQSTLNVTLWSFIGVES</span><span class="topo-inside">ASVAAGVVKNPKRNVPIAT</span><span class="topo-membrane">IGGVLIAAVCYV</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">LSTTAI</span><span class="topo-outside">MGMIPNAALRVSASPFGDAARMALGDTAGA</span><span class="topo-membrane">IVSFCAAAGCLGSLGGWTLLA</span><span class="topo-inside">GQTAKAAADDGLFPPIFARVNKAGTPVAGL</span><span class="topo-membrane">IIVGILMTIFQLSSI</span><span class="topo-outside">SPNA</span><span class="topo-membrane">TKEFGLVSSVSVIF</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450   </span>
+<span class="topo-line"><span class="topo-membrane">TLVPYL</span><span class="topo-inside">YTCAALLLLGHGHFGKARPAYLA</span><span class="topo-membrane">VTTIAFLYCIWAVVGSGA</span><span class="topo-outside">K</span><span class="topo-membrane">EVMWSFVTLMVITAM</span><span class="topo-inside">YALNYNRLHKNPYPLDAP</span><span class="topo-unknown">ISKDLELEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (25 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2008,6 +2021,7 @@ AdiC is an arginine/agmatine antiporter from the APC (amino acid-polyamine-organ
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2023,14 +2037,15 @@ AdiC is an arginine/agmatine antiporter from the APC (amino acid-polyamine-organ
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSSDA</span><span class="topo-inside">DAHKVGLIPVT</span><span class="topo-membrane">LMVSGNIMGSGVFLLP</span><span class="topo-outside">ANLASTGG</span><span class="topo-membrane">IAIYGWLVTIIGALGLS</span><span class="topo-inside">MVY</span></span>
-<span class="topo-line"><span class="topo-inside">AKMSFLDPSPGGSYAYARRCFGPFLGYQTNV</span><span class="topo-membrane">LYWLACWIGNIAMVVIGVGYLS</span><span class="topo-outside">YFFPILK</span></span>
-<span class="topo-line"><span class="topo-outside">DP</span><span class="topo-membrane">LVLTITCVVVLWIFVLLN</span><span class="topo-inside">IVGPKMI</span><span class="topo-membrane">TRVQAVATVLALIPIVGIAVFGWF</span><span class="topo-outside">WFR</span><span class="topo-unknown">GETYMA</span></span>
-<span class="topo-line"><span class="topo-unknown">A</span><span class="topo-outside">WNVSGLGT</span><span class="topo-membrane">FGAIQSTLNVTLWSFIGVES</span><span class="topo-inside">ASVAAGVVKNPKRNVPIAT</span><span class="topo-membrane">IGGVLIAAVCYV</span></span>
-<span class="topo-line"><span class="topo-membrane">LSTTAI</span><span class="topo-outside">MGMIP</span><span class="topo-unknown">NAALRV</span><span class="topo-outside">SAS</span><span class="topo-unknown">PFGDAARMAL</span><span class="topo-outside">GDTAGA</span><span class="topo-membrane">IVSFCAAAGCLGSLGGWTLLA</span><span class="topo-inside">GQT</span></span>
-<span class="topo-line"><span class="topo-inside">AKAAADDGLFPPIFARVNKAGTPVAGL</span><span class="topo-membrane">IIVGILMTIFQLSSI</span><span class="topo-outside">SPNA</span><span class="topo-membrane">TKEFGLVSSVSVIF</span></span>
-<span class="topo-line"><span class="topo-membrane">TLVPYL</span><span class="topo-inside">YTCAALLLLGHGHFGKARPAYLA</span><span class="topo-membrane">VTTIAFLYCIWAVVGSGA</span><span class="topo-outside">K</span><span class="topo-membrane">EVMWSFVTLMVI</span></span>
-<span class="topo-line"><span class="topo-membrane">TAM</span><span class="topo-inside">YALNYNRLHKNPYPLDAP</span><span class="topo-unknown">ISKDLELEVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSSDA</span><span class="topo-inside">DAHKVGLIPVT</span><span class="topo-membrane">LMVSGNIMGSGVFLLP</span><span class="topo-outside">ANLASTGG</span><span class="topo-membrane">IAIYGWLVTIIGALGLS</span><span class="topo-inside">MVYAKMSFLDPSPGGSYAYARRCFGPFLGYQTNV</span><span class="topo-membrane">LYWLACWIGNIAMVVIGVGYLS</span><span class="topo-outside">YFFPILK</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">DP</span><span class="topo-membrane">LVLTITCVVVLWIFVLLN</span><span class="topo-inside">IVGPKMI</span><span class="topo-membrane">TRVQAVATVLALIPIVGIAVFGWF</span><span class="topo-outside">WFR</span><span class="topo-unknown">GETYMAA</span><span class="topo-outside">WNVSGLGT</span><span class="topo-membrane">FGAIQSTLNVTLWSFIGVES</span><span class="topo-inside">ASVAAGVVKNPKRNVPIAT</span><span class="topo-membrane">IGGVLIAAVCYV</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">LSTTAI</span><span class="topo-outside">MGMIP</span><span class="topo-unknown">NAALRV</span><span class="topo-outside">SAS</span><span class="topo-unknown">PFGDAARMAL</span><span class="topo-outside">GDTAGA</span><span class="topo-membrane">IVSFCAAAGCLGSLGGWTLLA</span><span class="topo-inside">GQTAKAAADDGLFPPIFARVNKAGTPVAGL</span><span class="topo-membrane">IIVGILMTIFQLSSI</span><span class="topo-outside">SPNA</span><span class="topo-membrane">TKEFGLVSSVSVIF</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450   </span>
+<span class="topo-line"><span class="topo-membrane">TLVPYL</span><span class="topo-inside">YTCAALLLLGHGHFGKARPAYLA</span><span class="topo-membrane">VTTIAFLYCIWAVVGSGA</span><span class="topo-outside">K</span><span class="topo-membrane">EVMWSFVTLMVITAM</span><span class="topo-inside">YALNYNRLHKNPYPLDAP</span><span class="topo-unknown">ISKDLELEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (31 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2259,6 +2274,7 @@ AdiC is an arginine/agmatine antiporter from the APC (amino acid-polyamine-organ
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2309,14 +2325,15 @@ AdiC is an arginine/agmatine antiporter from the APC (amino acid-polyamine-organ
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSSD</span><span class="topo-inside">ADAHKVGLIPVT</span><span class="topo-membrane">LMVSGNIMGSGVFLLP</span><span class="topo-outside">ANLASTGGI</span><span class="topo-membrane">AIYGWLVTIIGALGLS</span><span class="topo-inside">MVY</span></span>
-<span class="topo-line"><span class="topo-inside">AKMSFLDPSPGGSYAYARRCFGPFLGYQTNV</span><span class="topo-membrane">LYWLACWIGAIAMVVIGVGYL</span><span class="topo-outside">SYFFPILK</span></span>
-<span class="topo-line"><span class="topo-outside">DPL</span><span class="topo-membrane">VLTITCVVVLWIFVLLN</span><span class="topo-inside">IVGPKM</span><span class="topo-membrane">ITRVQAVATVLALIPIVGIAVFGW</span><span class="topo-outside">FWFR</span><span class="topo-unknown">GETYMA</span></span>
-<span class="topo-line"><span class="topo-outside">AWNVSGLGTFGAI</span><span class="topo-membrane">QSTLNVTLWSFIGVES</span><span class="topo-inside">ASVAAGVVKNPKRNVPIAT</span><span class="topo-membrane">IGGVLIAAVCYV</span></span>
-<span class="topo-line"><span class="topo-membrane">LSTTA</span><span class="topo-outside">IMGMIPNAALRVSAS</span><span class="topo-unknown">PFGDAARMA</span><span class="topo-outside">LGDTAGAI</span><span class="topo-membrane">VSFCAAAGCLGSLGGWTLLA</span><span class="topo-inside">GQT</span></span>
-<span class="topo-line"><span class="topo-inside">AKAAADDGLFPPIFARVNKAGTPVAGL</span><span class="topo-membrane">IIVGILMTIFQLSSI</span><span class="topo-outside">SP</span><span class="topo-unknown">NATKEF</span><span class="topo-outside">G</span><span class="topo-membrane">LVSSVSVIF</span></span>
-<span class="topo-line"><span class="topo-membrane">TLVPYL</span><span class="topo-inside">YTCAALLLLGHGHFGKARPAYLA</span><span class="topo-membrane">VTTIAFLYCIWAVVGSGA</span><span class="topo-outside">K</span><span class="topo-membrane">EVMWSFVTLMVI</span></span>
-<span class="topo-line"><span class="topo-membrane">TAM</span><span class="topo-inside">YALNYNRLHKNPYPLDAR</span><span class="topo-unknown">ISKD</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSSD</span><span class="topo-inside">ADAHKVGLIPVT</span><span class="topo-membrane">LMVSGNIMGSGVFLLP</span><span class="topo-outside">ANLASTGGI</span><span class="topo-membrane">AIYGWLVTIIGALGLS</span><span class="topo-inside">MVYAKMSFLDPSPGGSYAYARRCFGPFLGYQTNV</span><span class="topo-membrane">LYWLACWIGAIAMVVIGVGYL</span><span class="topo-outside">SYFFPILK</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">DPL</span><span class="topo-membrane">VLTITCVVVLWIFVLLN</span><span class="topo-inside">IVGPKM</span><span class="topo-membrane">ITRVQAVATVLALIPIVGIAVFGW</span><span class="topo-outside">FWFR</span><span class="topo-unknown">GETYMA</span><span class="topo-outside">AWNVSGLGTFGAI</span><span class="topo-membrane">QSTLNVTLWSFIGVES</span><span class="topo-inside">ASVAAGVVKNPKRNVPIAT</span><span class="topo-membrane">IGGVLIAAVCYV</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">LSTTA</span><span class="topo-outside">IMGMIPNAALRVSAS</span><span class="topo-unknown">PFGDAARMA</span><span class="topo-outside">LGDTAGAI</span><span class="topo-membrane">VSFCAAAGCLGSLGGWTLLA</span><span class="topo-inside">GQTAKAAADDGLFPPIFARVNKAGTPVAGL</span><span class="topo-membrane">IIVGILMTIFQLSSI</span><span class="topo-outside">SP</span><span class="topo-unknown">NATKEF</span><span class="topo-outside">G</span><span class="topo-membrane">LVSSVSVIF</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440     </span>
+<span class="topo-line"><span class="topo-membrane">TLVPYL</span><span class="topo-inside">YTCAALLLLGHGHFGKARPAYLA</span><span class="topo-membrane">VTTIAFLYCIWAVVGSGA</span><span class="topo-outside">K</span><span class="topo-membrane">EVMWSFVTLMVITAM</span><span class="topo-inside">YALNYNRLHKNPYPLDAR</span><span class="topo-unknown">ISKD</span></span>
+<details class="topo-details"><summary>Topology coordinates (33 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2559,6 +2576,7 @@ AdiC is an arginine/agmatine antiporter from the APC (amino acid-polyamine-organ
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2574,14 +2592,15 @@ AdiC is an arginine/agmatine antiporter from the APC (amino acid-polyamine-organ
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSSD</span><span class="topo-inside">ADAHKVGLIPVT</span><span class="topo-membrane">LMVSGNIMGSGVFLLP</span><span class="topo-outside">ANLASTGGI</span><span class="topo-membrane">AIYGWLVTIIGALGLS</span><span class="topo-inside">MVY</span></span>
-<span class="topo-line"><span class="topo-inside">AKMSFLDPSPGGSYAYARRCFGPFLGYQTNV</span><span class="topo-membrane">LYWLACWIGAIAMVVIGVGYL</span><span class="topo-outside">SYFFPILK</span></span>
-<span class="topo-line"><span class="topo-outside">DPL</span><span class="topo-membrane">VLTITCVVVLWIFVLLN</span><span class="topo-inside">IVGPKM</span><span class="topo-membrane">ITRVQAVATVLALIPIVGIAVFGW</span><span class="topo-outside">FWFR</span><span class="topo-unknown">GETYMA</span></span>
-<span class="topo-line"><span class="topo-outside">AWNVSGLGTFGAI</span><span class="topo-membrane">QSTLNVTLWSFIGVES</span><span class="topo-inside">ASVAAGVVKNPKRNVPIAT</span><span class="topo-membrane">IGGVLIAAVCYV</span></span>
-<span class="topo-line"><span class="topo-membrane">LSTTA</span><span class="topo-outside">IMGMIPNAALRVSAS</span><span class="topo-unknown">PFGDAARMA</span><span class="topo-outside">LGDTAGAI</span><span class="topo-membrane">VSFCAAAGCLGSLGGWTLLA</span><span class="topo-inside">GQT</span></span>
-<span class="topo-line"><span class="topo-inside">AKAAADDGLFPPIFARVNKAGTPVAGL</span><span class="topo-membrane">IIVGILMTIFQLSSI</span><span class="topo-outside">SPNATKE</span><span class="topo-membrane">FGLVSSVSVIF</span></span>
-<span class="topo-line"><span class="topo-membrane">TLVPYL</span><span class="topo-inside">YTCAALLLLGHGHFGKARPAYLA</span><span class="topo-membrane">VTTIAFLYCIWAVVGSGA</span><span class="topo-outside">K</span><span class="topo-membrane">EVMWSFVTLMVI</span></span>
-<span class="topo-line"><span class="topo-membrane">TAM</span><span class="topo-inside">YALNYNRLHKNPYPLDAR</span><span class="topo-unknown">ISKD</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSSD</span><span class="topo-inside">ADAHKVGLIPVT</span><span class="topo-membrane">LMVSGNIMGSGVFLLP</span><span class="topo-outside">ANLASTGGI</span><span class="topo-membrane">AIYGWLVTIIGALGLS</span><span class="topo-inside">MVYAKMSFLDPSPGGSYAYARRCFGPFLGYQTNV</span><span class="topo-membrane">LYWLACWIGAIAMVVIGVGYL</span><span class="topo-outside">SYFFPILK</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">DPL</span><span class="topo-membrane">VLTITCVVVLWIFVLLN</span><span class="topo-inside">IVGPKM</span><span class="topo-membrane">ITRVQAVATVLALIPIVGIAVFGW</span><span class="topo-outside">FWFR</span><span class="topo-unknown">GETYMA</span><span class="topo-outside">AWNVSGLGTFGAI</span><span class="topo-membrane">QSTLNVTLWSFIGVES</span><span class="topo-inside">ASVAAGVVKNPKRNVPIAT</span><span class="topo-membrane">IGGVLIAAVCYV</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">LSTTA</span><span class="topo-outside">IMGMIPNAALRVSAS</span><span class="topo-unknown">PFGDAARMA</span><span class="topo-outside">LGDTAGAI</span><span class="topo-membrane">VSFCAAAGCLGSLGGWTLLA</span><span class="topo-inside">GQTAKAAADDGLFPPIFARVNKAGTPVAGL</span><span class="topo-membrane">IIVGILMTIFQLSSI</span><span class="topo-outside">SPNATKE</span><span class="topo-membrane">FGLVSSVSVIF</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440     </span>
+<span class="topo-line"><span class="topo-membrane">TLVPYL</span><span class="topo-inside">YTCAALLLLGHGHFGKARPAYLA</span><span class="topo-membrane">VTTIAFLYCIWAVVGSGA</span><span class="topo-outside">K</span><span class="topo-membrane">EVMWSFVTLMVITAM</span><span class="topo-inside">YALNYNRLHKNPYPLDAR</span><span class="topo-unknown">ISKD</span></span>
+<details class="topo-details"><summary>Topology coordinates (31 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2810,6 +2829,7 @@ AdiC is an arginine/agmatine antiporter from the APC (amino acid-polyamine-organ
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2860,14 +2880,15 @@ AdiC is an arginine/agmatine antiporter from the APC (amino acid-polyamine-organ
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSSD</span><span class="topo-outside">ADAHKVGLIPVT</span><span class="topo-membrane">LMVSGNIMGSGVFLLP</span><span class="topo-inside">ANLASTGGI</span><span class="topo-membrane">AIYGWLVTIIGALGLS</span><span class="topo-outside">MVY</span></span>
-<span class="topo-line"><span class="topo-outside">AKMSFLDPSPGGSYAYARRCFGPFLGYQTNV</span><span class="topo-membrane">LYWLACWIGNIAMVVIGVGYLS</span><span class="topo-inside">YFFPILK</span></span>
-<span class="topo-line"><span class="topo-inside">DPL</span><span class="topo-membrane">VLTITCVVVLWIFVLLN</span><span class="topo-outside">IVGPKMI</span><span class="topo-membrane">TRVQAVATVLALIPIVGIAVFGWF</span><span class="topo-inside">WFR</span><span class="topo-unknown">GETYMA</span></span>
-<span class="topo-line"><span class="topo-inside">AWNVSGLGT</span><span class="topo-membrane">FGAIQSTLNVTLWSFIGVES</span><span class="topo-outside">ASVAAGVVKNPKRNVPIAT</span><span class="topo-membrane">IGGVLIAAVCYV</span></span>
-<span class="topo-line"><span class="topo-membrane">LSTTAI</span><span class="topo-inside">MGMIPNAALRVSAS</span><span class="topo-unknown">PFGDAAR</span><span class="topo-inside">MALGDTAGA</span><span class="topo-membrane">IVSFCAAAGCLGSLGGWTLLA</span><span class="topo-outside">GQT</span></span>
-<span class="topo-line"><span class="topo-outside">AKAAADDGLFPPIFARVNKAGTPVAGL</span><span class="topo-membrane">IIVGILMTIFQLSSI</span><span class="topo-inside">SPNA</span><span class="topo-membrane">TKEFGLVSSVSVIF</span></span>
-<span class="topo-line"><span class="topo-membrane">TLVPYL</span><span class="topo-outside">YTCAALLLLGHGHFGKARPAYLA</span><span class="topo-membrane">VTTIAFLYCIWAVVGSGA</span><span class="topo-inside">K</span><span class="topo-membrane">EVMWSFVTLMVI</span></span>
-<span class="topo-line"><span class="topo-membrane">TAM</span><span class="topo-outside">YALNYNRLHKNPYPLDAP</span><span class="topo-unknown">ISKDLELEVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSSD</span><span class="topo-outside">ADAHKVGLIPVT</span><span class="topo-membrane">LMVSGNIMGSGVFLLP</span><span class="topo-inside">ANLASTGGI</span><span class="topo-membrane">AIYGWLVTIIGALGLS</span><span class="topo-outside">MVYAKMSFLDPSPGGSYAYARRCFGPFLGYQTNV</span><span class="topo-membrane">LYWLACWIGNIAMVVIGVGYLS</span><span class="topo-inside">YFFPILK</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">DPL</span><span class="topo-membrane">VLTITCVVVLWIFVLLN</span><span class="topo-outside">IVGPKMI</span><span class="topo-membrane">TRVQAVATVLALIPIVGIAVFGWF</span><span class="topo-inside">WFR</span><span class="topo-unknown">GETYMA</span><span class="topo-inside">AWNVSGLGT</span><span class="topo-membrane">FGAIQSTLNVTLWSFIGVES</span><span class="topo-outside">ASVAAGVVKNPKRNVPIAT</span><span class="topo-membrane">IGGVLIAAVCYV</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">LSTTAI</span><span class="topo-inside">MGMIPNAALRVSAS</span><span class="topo-unknown">PFGDAAR</span><span class="topo-inside">MALGDTAGA</span><span class="topo-membrane">IVSFCAAAGCLGSLGGWTLLA</span><span class="topo-outside">GQTAKAAADDGLFPPIFARVNKAGTPVAGL</span><span class="topo-membrane">IIVGILMTIFQLSSI</span><span class="topo-inside">SPNA</span><span class="topo-membrane">TKEFGLVSSVSVIF</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450   </span>
+<span class="topo-line"><span class="topo-membrane">TLVPYL</span><span class="topo-outside">YTCAALLLLGHGHFGKARPAYLA</span><span class="topo-membrane">VTTIAFLYCIWAVVGSGA</span><span class="topo-inside">K</span><span class="topo-membrane">EVMWSFVTLMVITAM</span><span class="topo-outside">YALNYNRLHKNPYPLDAP</span><span class="topo-unknown">ISKDLELEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (29 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3082,6 +3103,7 @@ AdiC is an arginine/agmatine antiporter from the APC (amino acid-polyamine-organ
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3097,14 +3119,15 @@ AdiC is an arginine/agmatine antiporter from the APC (amino acid-polyamine-organ
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSSDA</span><span class="topo-outside">DAHKVGLIPVT</span><span class="topo-membrane">LMVSGNIMGSGVFLLP</span><span class="topo-inside">ANLASTGGI</span><span class="topo-membrane">AIYGWLVTIIGALGLS</span><span class="topo-outside">MVY</span></span>
-<span class="topo-line"><span class="topo-outside">AKMSFLDPSPGGSYAYARRCFGPFLGYQTNV</span><span class="topo-membrane">LYWLACWIGNIAMVVIGVGYLS</span><span class="topo-inside">YFFPILK</span></span>
-<span class="topo-line"><span class="topo-inside">DPL</span><span class="topo-membrane">VLTITCVVVLWIFVLLN</span><span class="topo-outside">IVGPKMI</span><span class="topo-membrane">TRVQAVATVLALIPIVGIAVFGWF</span><span class="topo-inside">WFR</span><span class="topo-unknown">GETYMA</span></span>
-<span class="topo-line"><span class="topo-inside">AWNVSGLGTF</span><span class="topo-membrane">GAIQSTLNVTLWSFIGVES</span><span class="topo-outside">ASVAAGVVKNPKRNVPIAT</span><span class="topo-membrane">IGGVLIAAVCYV</span></span>
-<span class="topo-line"><span class="topo-membrane">LSTTA</span><span class="topo-inside">IMGMIP</span><span class="topo-unknown">NAALRV</span><span class="topo-inside">SAS</span><span class="topo-unknown">PFGDAAR</span><span class="topo-inside">MALGDTAGA</span><span class="topo-membrane">IVSFCAAAGCLGSLGGWTLLA</span><span class="topo-outside">GQT</span></span>
-<span class="topo-line"><span class="topo-outside">AKAAADDGLFPPIFARVNKAGTPVAGL</span><span class="topo-membrane">IIVGILMTIFQLSSI</span><span class="topo-inside">SPNA</span><span class="topo-membrane">TKEFGLVSSVSVIF</span></span>
-<span class="topo-line"><span class="topo-membrane">TLVPYL</span><span class="topo-outside">YTCAALLLLGHGHFGKARPAYLA</span><span class="topo-membrane">VTTIAFLYCIWAVVGSGA</span><span class="topo-inside">K</span><span class="topo-membrane">EVMWSFVTLMVI</span></span>
-<span class="topo-line"><span class="topo-membrane">TAM</span><span class="topo-outside">YALNYNRLHKNPYPLDAP</span><span class="topo-unknown">ISKDLELEVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSSDA</span><span class="topo-outside">DAHKVGLIPVT</span><span class="topo-membrane">LMVSGNIMGSGVFLLP</span><span class="topo-inside">ANLASTGGI</span><span class="topo-membrane">AIYGWLVTIIGALGLS</span><span class="topo-outside">MVYAKMSFLDPSPGGSYAYARRCFGPFLGYQTNV</span><span class="topo-membrane">LYWLACWIGNIAMVVIGVGYLS</span><span class="topo-inside">YFFPILK</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">DPL</span><span class="topo-membrane">VLTITCVVVLWIFVLLN</span><span class="topo-outside">IVGPKMI</span><span class="topo-membrane">TRVQAVATVLALIPIVGIAVFGWF</span><span class="topo-inside">WFR</span><span class="topo-unknown">GETYMA</span><span class="topo-inside">AWNVSGLGTF</span><span class="topo-membrane">GAIQSTLNVTLWSFIGVES</span><span class="topo-outside">ASVAAGVVKNPKRNVPIAT</span><span class="topo-membrane">IGGVLIAAVCYV</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">LSTTA</span><span class="topo-inside">IMGMIP</span><span class="topo-unknown">NAALRV</span><span class="topo-inside">SAS</span><span class="topo-unknown">PFGDAAR</span><span class="topo-inside">MALGDTAGA</span><span class="topo-membrane">IVSFCAAAGCLGSLGGWTLLA</span><span class="topo-outside">GQTAKAAADDGLFPPIFARVNKAGTPVAGL</span><span class="topo-membrane">IIVGILMTIFQLSSI</span><span class="topo-inside">SPNA</span><span class="topo-membrane">TKEFGLVSSVSVIF</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450   </span>
+<span class="topo-line"><span class="topo-membrane">TLVPYL</span><span class="topo-outside">YTCAALLLLGHGHFGKARPAYLA</span><span class="topo-membrane">VTTIAFLYCIWAVVGSGA</span><span class="topo-inside">K</span><span class="topo-membrane">EVMWSFVTLMVITAM</span><span class="topo-outside">YALNYNRLHKNPYPLDAP</span><span class="topo-unknown">ISKDLELEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (31 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3333,6 +3356,7 @@ AdiC is an arginine/agmatine antiporter from the APC (amino acid-polyamine-organ
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

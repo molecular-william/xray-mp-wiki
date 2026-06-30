@@ -195,12 +195,13 @@ AfUbiA is a membrane-embedded prenyltransferase from the archaeon *Archaeoglobus
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MDSSLANINQIDVP</span><span class="topo-inside">S</span><span class="topo-membrane">KYLRLLRPVAWLCFLLPYAVGFGF</span><span class="topo-outside">GITPNASLQHAV</span><span class="topo-membrane">LGLLSFAFW</span></span>
-<span class="topo-line"><span class="topo-membrane">MAFSFTINAL</span><span class="topo-inside">YDRDVDRLHDG</span><span class="topo-unknown">RVKD</span><span class="topo-inside">LNLSMQPLVTGEI</span><span class="topo-membrane">SVREAWLYCIAFLALSLATAA</span><span class="topo-outside">A</span></span>
-<span class="topo-line"><span class="topo-outside">INEK</span><span class="topo-membrane">FFLAMLGANIIGYVYSAPP</span><span class="topo-inside">RFKAWPVM</span><span class="topo-membrane">DVICNALAAVLAFYAGL</span><span class="topo-outside">SIGGAEV</span><span class="topo-membrane">PIAIY</span></span>
-<span class="topo-line"><span class="topo-membrane">PAAFFLAATFY</span><span class="topo-inside">IPTAVSDYEFDKKAGLKNTPVFFGPERALKSLYP</span><span class="topo-membrane">LSAITVILWAYVFLM</span></span>
-<span class="topo-line"><span class="topo-membrane">A</span><span class="topo-outside">ERIE</span><span class="topo-membrane">IKVISPLIIAYTLIYT</span><span class="topo-inside">FIINSRWDGEKLNVSPN</span><span class="topo-membrane">LILTPFGIISALFIAY</span><span class="topo-outside">GFAVIS</span></span>
-<span class="topo-line"><span class="topo-outside">V</span><span class="topo-unknown">LG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MDSSLANINQIDVP</span><span class="topo-inside">S</span><span class="topo-membrane">KYLRLLRPVAWLCFLLPYAVGFGF</span><span class="topo-outside">GITPNASLQHAV</span><span class="topo-membrane">LGLLSFAFWMAFSFTINAL</span><span class="topo-inside">YDRDVDRLHDG</span><span class="topo-unknown">RVKD</span><span class="topo-inside">LNLSMQPLVTGEI</span><span class="topo-membrane">SVREAWLYCIAFLALSLATAA</span><span class="topo-outside">A</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">INEK</span><span class="topo-membrane">FFLAMLGANIIGYVYSAPP</span><span class="topo-inside">RFKAWPVM</span><span class="topo-membrane">DVICNALAAVLAFYAGL</span><span class="topo-outside">SIGGAEV</span><span class="topo-membrane">PIAIYPAAFFLAATFY</span><span class="topo-inside">IPTAVSDYEFDKKAGLKNTPVFFGPERALKSLYP</span><span class="topo-membrane">LSAITVILWAYVFLM</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300   </span>
+<span class="topo-line"><span class="topo-membrane">A</span><span class="topo-outside">ERIE</span><span class="topo-membrane">IKVISPLIIAYTLIYT</span><span class="topo-inside">FIINSRWDGEKLNVSPN</span><span class="topo-membrane">LILTPFGIISALFIAY</span><span class="topo-outside">GFAVISV</span><span class="topo-unknown">LG</span></span>
+<details class="topo-details"><summary>Topology coordinates (23 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -373,6 +374,7 @@ AfUbiA is a membrane-embedded prenyltransferase from the archaeon *Archaeoglobus
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -388,12 +390,13 @@ AfUbiA is a membrane-embedded prenyltransferase from the archaeon *Archaeoglobus
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MDSSLANINQIDVP</span><span class="topo-inside">S</span><span class="topo-membrane">KYLRLLRPVAWLCFLLPYAVGFGF</span><span class="topo-outside">GITPNASLQHAV</span><span class="topo-membrane">LGLLSFAFW</span></span>
-<span class="topo-line"><span class="topo-membrane">MAFSFTINAL</span><span class="topo-inside">YDRDVDRLHDG</span><span class="topo-unknown">RVKD</span><span class="topo-inside">LNLSMQPLVTGEI</span><span class="topo-membrane">SVREAWLYCIAFLALSLATAA</span><span class="topo-outside">A</span></span>
-<span class="topo-line"><span class="topo-outside">INEK</span><span class="topo-membrane">FFLAMLGANIIGYVYSAPP</span><span class="topo-inside">RFKAWPVM</span><span class="topo-membrane">DVICNALAAVLAFYAGL</span><span class="topo-outside">SIGGAEV</span><span class="topo-membrane">PIAIY</span></span>
-<span class="topo-line"><span class="topo-membrane">PAAFFLAATFY</span><span class="topo-inside">IPTAVSDYEFDKKAGLKNTPVFFGPERALKSLYP</span><span class="topo-membrane">LSAITVILWAYVFLM</span></span>
-<span class="topo-line"><span class="topo-membrane">A</span><span class="topo-outside">ERIE</span><span class="topo-membrane">IKVISPLIIAYTLIYT</span><span class="topo-inside">FIINSRWDGEKLNVSPN</span><span class="topo-membrane">LILTPFGIISALFIAY</span><span class="topo-outside">GFAVIS</span></span>
-<span class="topo-line"><span class="topo-outside">V</span><span class="topo-unknown">LG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MDSSLANINQIDVP</span><span class="topo-inside">S</span><span class="topo-membrane">KYLRLLRPVAWLCFLLPYAVGFGF</span><span class="topo-outside">GITPNASLQHAV</span><span class="topo-membrane">LGLLSFAFWMAFSFTINAL</span><span class="topo-inside">YDRDVDRLHDG</span><span class="topo-unknown">RVKD</span><span class="topo-inside">LNLSMQPLVTGEI</span><span class="topo-membrane">SVREAWLYCIAFLALSLATAA</span><span class="topo-outside">A</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">INEK</span><span class="topo-membrane">FFLAMLGANIIGYVYSAPP</span><span class="topo-inside">RFKAWPVM</span><span class="topo-membrane">DVICNALAAVLAFYAGL</span><span class="topo-outside">SIGGAEV</span><span class="topo-membrane">PIAIYPAAFFLAATFY</span><span class="topo-inside">IPTAVSDYEFDKKAGLKNTPVFFGPERALKSLYP</span><span class="topo-membrane">LSAITVILWAYVFLM</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300   </span>
+<span class="topo-line"><span class="topo-membrane">A</span><span class="topo-outside">ERIE</span><span class="topo-membrane">IKVISPLIIAYTLIYT</span><span class="topo-inside">FIINSRWDGEKLNVSPN</span><span class="topo-membrane">LILTPFGIISALFIAY</span><span class="topo-outside">GFAVISV</span><span class="topo-unknown">LG</span></span>
+<details class="topo-details"><summary>Topology coordinates (23 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -566,6 +569,7 @@ AfUbiA is a membrane-embedded prenyltransferase from the archaeon *Archaeoglobus
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -581,12 +585,13 @@ AfUbiA is a membrane-embedded prenyltransferase from the archaeon *Archaeoglobus
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MDSSLANINQIDVP</span><span class="topo-inside">S</span><span class="topo-membrane">KYLRLLRPVAWLCFLLPYAVGFGF</span><span class="topo-outside">GITPNASLQHAV</span><span class="topo-membrane">LGLLSFAFW</span></span>
-<span class="topo-line"><span class="topo-membrane">MAFSFTINAL</span><span class="topo-inside">YDRDVDRLHDG</span><span class="topo-unknown">RVKD</span><span class="topo-inside">LNLSMQPLVTGEI</span><span class="topo-membrane">SVREAWLYCIAFLALSLATAA</span><span class="topo-outside">A</span></span>
-<span class="topo-line"><span class="topo-outside">INEK</span><span class="topo-membrane">FFLAMLGANIIGYVYSAPP</span><span class="topo-inside">RFKAWPVM</span><span class="topo-membrane">DVICNALAAVLAFYAGL</span><span class="topo-outside">SIGGAEV</span><span class="topo-membrane">PIAIY</span></span>
-<span class="topo-line"><span class="topo-membrane">PAAFFLAATFY</span><span class="topo-inside">IPTAVSDYEFDKKAGLKNTPVFFGPERALKSLYP</span><span class="topo-membrane">LSAITVILWAYVFLM</span></span>
-<span class="topo-line"><span class="topo-membrane">A</span><span class="topo-outside">ERIE</span><span class="topo-membrane">IKVISPLIIAYTLIYT</span><span class="topo-inside">FIINSRWDGEKLNVSPN</span><span class="topo-membrane">LILTPFGIISALFIAY</span><span class="topo-outside">GFAVIS</span></span>
-<span class="topo-line"><span class="topo-outside">V</span><span class="topo-unknown">LG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MDSSLANINQIDVP</span><span class="topo-inside">S</span><span class="topo-membrane">KYLRLLRPVAWLCFLLPYAVGFGF</span><span class="topo-outside">GITPNASLQHAV</span><span class="topo-membrane">LGLLSFAFWMAFSFTINAL</span><span class="topo-inside">YDRDVDRLHDG</span><span class="topo-unknown">RVKD</span><span class="topo-inside">LNLSMQPLVTGEI</span><span class="topo-membrane">SVREAWLYCIAFLALSLATAA</span><span class="topo-outside">A</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">INEK</span><span class="topo-membrane">FFLAMLGANIIGYVYSAPP</span><span class="topo-inside">RFKAWPVM</span><span class="topo-membrane">DVICNALAAVLAFYAGL</span><span class="topo-outside">SIGGAEV</span><span class="topo-membrane">PIAIYPAAFFLAATFY</span><span class="topo-inside">IPTAVSDYEFDKKAGLKNTPVFFGPERALKSLYP</span><span class="topo-membrane">LSAITVILWAYVFLM</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300   </span>
+<span class="topo-line"><span class="topo-membrane">A</span><span class="topo-outside">ERIE</span><span class="topo-membrane">IKVISPLIIAYTLIYT</span><span class="topo-inside">FIINSRWDGEKLNVSPN</span><span class="topo-membrane">LILTPFGIISALFIAY</span><span class="topo-outside">GFAVISV</span><span class="topo-unknown">LG</span></span>
+<details class="topo-details"><summary>Topology coordinates (23 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -759,6 +764,7 @@ AfUbiA is a membrane-embedded prenyltransferase from the archaeon *Archaeoglobus
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

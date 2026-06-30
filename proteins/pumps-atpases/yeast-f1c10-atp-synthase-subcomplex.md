@@ -61,15 +61,17 @@ The F1c10 subcomplex of the Saccharomyces cerevisiae F1F0-ATP synthase includes 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">QKTGTAEVSSILEERILGADTSV</span><span class="topo-inside">DLEETGRVLSIGDGIARVHGLRNVQAEEMVEFSSGLK</span></span>
-<span class="topo-line"><span class="topo-inside">GMSLNLEPDNVGVVVFGNDKLIKEGDIVKRTGAIVDVPVGEELLGRVVDALGNAIDGKGP</span></span>
-<span class="topo-line"><span class="topo-inside">IGSKARRRVGLKAPGIIPRISVREPMQTGIKAVDSLVPIGRGQRELIIGDRQTGKTSIAI</span></span>
-<span class="topo-line"><span class="topo-inside">DTIINQKRFNDGTDEKKKLYCIYVAIGQKRSTVAQLVKRLTDADAMKYTIVVSATASDAA</span></span>
-<span class="topo-line"><span class="topo-inside">PLQYLAPYSGCSMGEYFRDNGKHALIIYDDLSKQAVAYRQMSLLLRRPPGREAYPGDVFY</span></span>
-<span class="topo-line"><span class="topo-inside">LHSRLLERAAKMNDAFGGGSLTALPVIETQAGDVSAYIPTNVISITDGQIFLETELFYKG</span></span>
-<span class="topo-line"><span class="topo-inside">IRPAINVGLSVSRVGSAAQTRAMKQVAGTMKLELAQYREVAAFAQFGSDLDAATQQLLSR</span></span>
-<span class="topo-line"><span class="topo-inside">GVRLTELLKQGQYSPMAIEEQVAVIYAGVRGYLDKLEPSKITKFENAFLSHVISQHQALL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">QKTGTAEVSSILEERILGADTSV</span><span class="topo-inside">DLEETGRVLSIGDGIARVHGLRNVQAEEMVEFSSGLKGMSLNLEPDNVGVVVFGNDKLIKEGDIVKRTGAIVDVPVGEELLGRVVDALGNAIDGKGP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">IGSKARRRVGLKAPGIIPRISVREPMQTGIKAVDSLVPIGRGQRELIIGDRQTGKTSIAIDTIINQKRFNDGTDEKKKLYCIYVAIGQKRSTVAQLVKRLTDADAMKYTIVVSATASDAA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">PLQYLAPYSGCSMGEYFRDNGKHALIIYDDLSKQAVAYRQMSLLLRRPPGREAYPGDVFYLHSRLLERAAKMNDAFGGGSLTALPVIETQAGDVSAYIPTNVISITDGQIFLETELFYKG</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">IRPAINVGLSVSRVGSAAQTRAMKQVAGTMKLELAQYREVAAFAQFGSDLDAATQQLLSRGVRLTELLKQGQYSPMAIEEQVAVIYAGVRGYLDKLEPSKITKFENAFLSHVISQHQALL</span></span>
+<span class="topo-ruler">       490       500       510</span>
 <span class="topo-line"><span class="topo-inside">GKIRTDGKISEESDAKLKEIVTNFLAGFEA</span></span>
+<details class="topo-details"><summary>Topology coordinates (2 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -95,6 +97,7 @@ The F1c10 subcomplex of the Saccharomyces cerevisiae F1F0-ATP synthase includes 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -110,15 +113,17 @@ The F1c10 subcomplex of the Saccharomyces cerevisiae F1F0-ATP synthase includes 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">QKTGTAEVSSILEERILGADTSV</span><span class="topo-inside">DLEETGRVLSIGDGIARVHGLRNVQAEEMVEFSSGLK</span></span>
-<span class="topo-line"><span class="topo-inside">GMSLNLEPDNVGVVVFGNDKLIKEGDIVKRTGAIVDVPVGEELLGRVVDALGNAIDGKGP</span></span>
-<span class="topo-line"><span class="topo-inside">IGSKARRRVGLKAPGIIPRISVREPMQTGIKAVDSLVPIGRGQRELIIGDRQTGKTSIAI</span></span>
-<span class="topo-line"><span class="topo-inside">DTIINQKRFNDGTDEKKKLYCIYVAIGQKRSTVAQLVKRLTDADAMKYTIVVSATASDAA</span></span>
-<span class="topo-line"><span class="topo-inside">PLQYLAPYSGCSMGEYFRDNGKHALIIYDDLSKQAVAYRQMSLLLRRPPGREAYPGDVFY</span></span>
-<span class="topo-line"><span class="topo-inside">LHSRLLERAAKMNDAFGGGSLTALPVIETQAGDVSAYIPTNVISITDGQIFLETELFYKG</span></span>
-<span class="topo-line"><span class="topo-inside">IRPAINVGLSVSRVGSAAQTRAMKQVAGTMKLELAQYREVAAFAQFGSDLDAATQQLLSR</span></span>
-<span class="topo-line"><span class="topo-inside">GVRLTELLKQGQYSPMAIEEQVAVIYAGVRGYLDKLEPSKITKFENAFLSHVISQHQALL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">QKTGTAEVSSILEERILGADTSV</span><span class="topo-inside">DLEETGRVLSIGDGIARVHGLRNVQAEEMVEFSSGLKGMSLNLEPDNVGVVVFGNDKLIKEGDIVKRTGAIVDVPVGEELLGRVVDALGNAIDGKGP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">IGSKARRRVGLKAPGIIPRISVREPMQTGIKAVDSLVPIGRGQRELIIGDRQTGKTSIAIDTIINQKRFNDGTDEKKKLYCIYVAIGQKRSTVAQLVKRLTDADAMKYTIVVSATASDAA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">PLQYLAPYSGCSMGEYFRDNGKHALIIYDDLSKQAVAYRQMSLLLRRPPGREAYPGDVFYLHSRLLERAAKMNDAFGGGSLTALPVIETQAGDVSAYIPTNVISITDGQIFLETELFYKG</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">IRPAINVGLSVSRVGSAAQTRAMKQVAGTMKLELAQYREVAAFAQFGSDLDAATQQLLSRGVRLTELLKQGQYSPMAIEEQVAVIYAGVRGYLDKLEPSKITKFENAFLSHVISQHQALL</span></span>
+<span class="topo-ruler">       490       500       510</span>
 <span class="topo-line"><span class="topo-inside">GKIRTDGKISEESDAKLKEIVTNFLAGFEA</span></span>
+<details class="topo-details"><summary>Topology coordinates (2 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -144,6 +149,7 @@ The F1c10 subcomplex of the Saccharomyces cerevisiae F1F0-ATP synthase includes 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -159,15 +165,17 @@ The F1c10 subcomplex of the Saccharomyces cerevisiae F1F0-ATP synthase includes 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">QKTGTAEVSSILEERILG</span><span class="topo-inside">ADTSVDLEETGRVLSIGDGIARVHGLRNVQAEEMVEFSSGLK</span></span>
-<span class="topo-line"><span class="topo-inside">GMSLNLEPDNVGVVVFGNDKLIKEGDIVKRTGAIVDVPVGEELLGRVVDALGNAIDGKGP</span></span>
-<span class="topo-line"><span class="topo-inside">IGSKARRRVGLKAPGIIPRISVREPMQTGIKAVDSLVPIGRGQRELIIGDRQTGKTSIAI</span></span>
-<span class="topo-line"><span class="topo-inside">DTIINQKRFNDGTDEKKKLYCIYVAIGQKRSTVAQLVKRLTDADAMKYTIVVSATASDAA</span></span>
-<span class="topo-line"><span class="topo-inside">PLQYLAPYSGCSMGEYFRDNGKHALIIYDDLSKQAVAYRQMSLLLRRPPGREAYPGDVFY</span></span>
-<span class="topo-line"><span class="topo-inside">LHSRLLERAAKMNDAFGGGSLTALPVIETQAGDVSAYIPTNVISITDGQIFLETELFYKG</span></span>
-<span class="topo-line"><span class="topo-inside">IRPAINVGLSVSRVGSAAQTRAMKQVAGTMKLELAQYREVAAFAQFGSDLDAATQQLLSR</span></span>
-<span class="topo-line"><span class="topo-inside">GVRLTELLKQGQYSPMAIEEQVAVIYAGVRGYLDKLEPSKITKFENAFLSHVISQHQALL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">QKTGTAEVSSILEERILG</span><span class="topo-inside">ADTSVDLEETGRVLSIGDGIARVHGLRNVQAEEMVEFSSGLKGMSLNLEPDNVGVVVFGNDKLIKEGDIVKRTGAIVDVPVGEELLGRVVDALGNAIDGKGP</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">IGSKARRRVGLKAPGIIPRISVREPMQTGIKAVDSLVPIGRGQRELIIGDRQTGKTSIAIDTIINQKRFNDGTDEKKKLYCIYVAIGQKRSTVAQLVKRLTDADAMKYTIVVSATASDAA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">PLQYLAPYSGCSMGEYFRDNGKHALIIYDDLSKQAVAYRQMSLLLRRPPGREAYPGDVFYLHSRLLERAAKMNDAFGGGSLTALPVIETQAGDVSAYIPTNVISITDGQIFLETELFYKG</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">IRPAINVGLSVSRVGSAAQTRAMKQVAGTMKLELAQYREVAAFAQFGSDLDAATQQLLSRGVRLTELLKQGQYSPMAIEEQVAVIYAGVRGYLDKLEPSKITKFENAFLSHVISQHQALL</span></span>
+<span class="topo-ruler">       490       500       510</span>
 <span class="topo-line"><span class="topo-inside">GKIRTDGKISEESDAKLKEIVTNFLAGFEA</span></span>
+<details class="topo-details"><summary>Topology coordinates (2 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -193,6 +201,7 @@ The F1c10 subcomplex of the Saccharomyces cerevisiae F1F0-ATP synthase includes 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -208,15 +217,17 @@ The F1c10 subcomplex of the Saccharomyces cerevisiae F1F0-ATP synthase includes 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">AAQASPSPKAGA</span><span class="topo-inside">TTGRIVAVIGAVVDVQFDEGLPPILNALEVQGRETRLVLEVAQHLGES</span></span>
-<span class="topo-line"><span class="topo-inside">TVRTIAMDGTEGLVRGQKVLDSGAPIRIPVGPETLGRIMNVIGEPIDERGPIKTKQFAAI</span></span>
-<span class="topo-line"><span class="topo-inside">HAEAPEFVEMSVEQEILVTGIKVVDLLAPYAKGGKIGLFGGAGVGKTVLIMELINNVAKA</span></span>
-<span class="topo-line"><span class="topo-inside">HGGYSVFAGVGERTREGNDLYHEMIESGVINLKDATSKVALVYGQMNEPPGARARVALTG</span></span>
-<span class="topo-line"><span class="topo-inside">LTVAEYFRDQEGQDVLLFIDNIFRFTQAGSEVSALLGRIPSAVGYQPTLATDMGTMQERI</span></span>
-<span class="topo-line"><span class="topo-inside">TTTKKGSITSVQAIYVPADDLTDPAPATTFAHLDATTVLSRAIAELGIYPAVDPLDSTSR</span></span>
-<span class="topo-line"><span class="topo-inside">IMDPNIVGSEHYDVARGVQKILQDYKSLQDIIAILGMDELSEEDKLTVSRARKIQRFLSQ</span></span>
-<span class="topo-line"><span class="topo-inside">PFQVAEVFTGHLGKLVPLKETIKGFQQILAGEYDHLPEQAFYMVGPIEEAVAKADKLAE</span><span class="topo-unknown">E</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">AAQASPSPKAGA</span><span class="topo-inside">TTGRIVAVIGAVVDVQFDEGLPPILNALEVQGRETRLVLEVAQHLGESTVRTIAMDGTEGLVRGQKVLDSGAPIRIPVGPETLGRIMNVIGEPIDERGPIKTKQFAAI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">HAEAPEFVEMSVEQEILVTGIKVVDLLAPYAKGGKIGLFGGAGVGKTVLIMELINNVAKAHGGYSVFAGVGERTREGNDLYHEMIESGVINLKDATSKVALVYGQMNEPPGARARVALTG</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">LTVAEYFRDQEGQDVLLFIDNIFRFTQAGSEVSALLGRIPSAVGYQPTLATDMGTMQERITTTKKGSITSVQAIYVPADDLTDPAPATTFAHLDATTVLSRAIAELGIYPAVDPLDSTSR</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">IMDPNIVGSEHYDVARGVQKILQDYKSLQDIIAILGMDELSEEDKLTVSRARKIQRFLSQPFQVAEVFTGHLGKLVPLKETIKGFQQILAGEYDHLPEQAFYMVGPIEEAVAKADKLAE</span><span class="topo-unknown">E</span></span>
+<span class="topo-ruler">  </span>
 <span class="topo-line"><span class="topo-unknown">HS</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -249,6 +260,7 @@ The F1c10 subcomplex of the Saccharomyces cerevisiae F1F0-ATP synthase includes 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -264,15 +276,17 @@ The F1c10 subcomplex of the Saccharomyces cerevisiae F1F0-ATP synthase includes 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">AAQASPSPKAGA</span><span class="topo-inside">TTGRIVAVIGAVVDVQFDEGLPPILNALEVQGRETRLVLEVAQHLGES</span></span>
-<span class="topo-line"><span class="topo-inside">TVRTIAMDGTEGLVRGQKVLDSGAPIRIPVGPETLGRIMNVIGEPIDERGPIKTKQFAAI</span></span>
-<span class="topo-line"><span class="topo-inside">HAEAPEFVEMSVEQEILVTGIKVVDLLAPYAKGGKIGLFGGAGVGKTVLIMELINNVAKA</span></span>
-<span class="topo-line"><span class="topo-inside">HGGYSVFAGVGERTREGNDLYHEMIESGVINLKDATSKVALVYGQMNEPPGARARVALTG</span></span>
-<span class="topo-line"><span class="topo-inside">LTVAEYFRDQEGQDVLLFIDNIFRFTQAGSEVSALLGRIPSAVGYQPTLATDMGTMQERI</span></span>
-<span class="topo-line"><span class="topo-inside">TTTKKGSITSVQAIYVPADDLTDPAPATTFAHLDATTVLSRAIAELGIYPAVDPLDSTSR</span></span>
-<span class="topo-line"><span class="topo-inside">IMDPNIVGSEHYDVARGVQKILQDYKSLQDIIAILGMDELSEEDKLTVSRARKIQRFLSQ</span></span>
-<span class="topo-line"><span class="topo-inside">PFQVAEVFTGHLGKLVPLKETIKGFQQILAGEYDHLPEQAFYMVGPIEEAVAKADKLA</span><span class="topo-unknown">EE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">AAQASPSPKAGA</span><span class="topo-inside">TTGRIVAVIGAVVDVQFDEGLPPILNALEVQGRETRLVLEVAQHLGESTVRTIAMDGTEGLVRGQKVLDSGAPIRIPVGPETLGRIMNVIGEPIDERGPIKTKQFAAI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">HAEAPEFVEMSVEQEILVTGIKVVDLLAPYAKGGKIGLFGGAGVGKTVLIMELINNVAKAHGGYSVFAGVGERTREGNDLYHEMIESGVINLKDATSKVALVYGQMNEPPGARARVALTG</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">LTVAEYFRDQEGQDVLLFIDNIFRFTQAGSEVSALLGRIPSAVGYQPTLATDMGTMQERITTTKKGSITSVQAIYVPADDLTDPAPATTFAHLDATTVLSRAIAELGIYPAVDPLDSTSR</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">IMDPNIVGSEHYDVARGVQKILQDYKSLQDIIAILGMDELSEEDKLTVSRARKIQRFLSQPFQVAEVFTGHLGKLVPLKETIKGFQQILAGEYDHLPEQAFYMVGPIEEAVAKADKLA</span><span class="topo-unknown">EE</span></span>
+<span class="topo-ruler">  </span>
 <span class="topo-line"><span class="topo-unknown">HS</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -305,6 +319,7 @@ The F1c10 subcomplex of the Saccharomyces cerevisiae F1F0-ATP synthase includes 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -320,15 +335,17 @@ The F1c10 subcomplex of the Saccharomyces cerevisiae F1F0-ATP synthase includes 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">AAQASPSPKAGA</span><span class="topo-inside">TTGRIVAVIGAVVDVQFDEGLPPILNALEVQGRETRLVLEVAQHLGES</span></span>
-<span class="topo-line"><span class="topo-inside">TVRTIAMDGTEGLVRGQKVLDSGAPIRIPVGPETLGRIMNVIGEPIDERGPIKTKQFAAI</span></span>
-<span class="topo-line"><span class="topo-inside">HAEAPEFVEMSVEQEILVTGIKVVDLLAPYAKGGKIGLFGGAGVGKTVLIMELINNVAKA</span></span>
-<span class="topo-line"><span class="topo-inside">HGGYSVFAGVGERTREGNDLYHEMIESGVINLKDATSKVALVYGQMNEPPGARARVALTG</span></span>
-<span class="topo-line"><span class="topo-inside">LTVAEYFRDQEGQDVLLFIDNIFRFTQAGSEVSALLGRIPSAVGYQPTLATDMGTMQERI</span></span>
-<span class="topo-line"><span class="topo-inside">TTTKKGSITSVQAIYVPADDLTDPAPATTFAHLDATTVLSRAIAELGIYPAVDPLDSTSR</span></span>
-<span class="topo-line"><span class="topo-inside">IMDPNIVGSEHYDVARGVQKILQDYKSLQDIIAILGMDELSEEDKLTVSRARKIQRFLSQ</span></span>
-<span class="topo-line"><span class="topo-inside">PFQVAEVFTGHLGKLVPLKETIKGFQQILAGEYDHLPEQAFYMVGPIEEAVAKADKLA</span><span class="topo-unknown">EE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">AAQASPSPKAGA</span><span class="topo-inside">TTGRIVAVIGAVVDVQFDEGLPPILNALEVQGRETRLVLEVAQHLGESTVRTIAMDGTEGLVRGQKVLDSGAPIRIPVGPETLGRIMNVIGEPIDERGPIKTKQFAAI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">HAEAPEFVEMSVEQEILVTGIKVVDLLAPYAKGGKIGLFGGAGVGKTVLIMELINNVAKAHGGYSVFAGVGERTREGNDLYHEMIESGVINLKDATSKVALVYGQMNEPPGARARVALTG</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">LTVAEYFRDQEGQDVLLFIDNIFRFTQAGSEVSALLGRIPSAVGYQPTLATDMGTMQERITTTKKGSITSVQAIYVPADDLTDPAPATTFAHLDATTVLSRAIAELGIYPAVDPLDSTSR</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-inside">IMDPNIVGSEHYDVARGVQKILQDYKSLQDIIAILGMDELSEEDKLTVSRARKIQRFLSQPFQVAEVFTGHLGKLVPLKETIKGFQQILAGEYDHLPEQAFYMVGPIEEAVAKADKLA</span><span class="topo-unknown">EE</span></span>
+<span class="topo-ruler">  </span>
 <span class="topo-line"><span class="topo-unknown">HS</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -361,6 +378,7 @@ The F1c10 subcomplex of the Saccharomyces cerevisiae F1F0-ATP synthase includes 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -376,11 +394,13 @@ The F1c10 subcomplex of the Saccharomyces cerevisiae F1F0-ATP synthase includes 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">ATLKDITRRLKSIKNIQKITKSMKMVAAAKYARAERELKPARVY</span><span class="topo-unknown">GVGSLALYEKADIKTP</span></span>
-<span class="topo-line"><span class="topo-unknown">EDKKKHLIIGVSSDRG</span><span class="topo-inside">LCGAIHSSVAKQMK</span><span class="topo-unknown">SEAANLAAAGKEVKIIGVGDKIRSILHRTH</span></span>
-<span class="topo-line"><span class="topo-unknown">SDQFLVTFKEVGRRPPTFGDASVIALELLNSGYEFDEGSIIFNRFRSVISYKTEEKPIFS</span></span>
-<span class="topo-line"><span class="topo-unknown">LDTISSAESMSIYDDIDADVLRNYQEYS</span><span class="topo-inside">LANIIYYSLKESTTSEQSARMTAMDNASKNAS</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">ATLKDITRRLKSIKNIQKITKSMKMVAAAKYARAERELKPARVY</span><span class="topo-unknown">GVGSLALYEKADIKTPEDKKKHLIIGVSSDRG</span><span class="topo-inside">LCGAIHSSVAKQMK</span><span class="topo-unknown">SEAANLAAAGKEVKIIGVGDKIRSILHRTH</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-unknown">SDQFLVTFKEVGRRPPTFGDASVIALELLNSGYEFDEGSIIFNRFRSVISYKTEEKPIFSLDTISSAESMSIYDDIDADVLRNYQEYS</span><span class="topo-inside">LANIIYYSLKESTTSEQSARMTAMDNASKNAS</span></span>
+<span class="topo-ruler">       250       260       270  </span>
 <span class="topo-line"><span class="topo-inside">EMIDKLTLTFNRTRQAVITKELIEIISGAAAL</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -427,6 +447,7 @@ The F1c10 subcomplex of the Saccharomyces cerevisiae F1F0-ATP synthase includes 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -442,9 +463,11 @@ The F1c10 subcomplex of the Saccharomyces cerevisiae F1F0-ATP synthase includes 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">G</span><span class="topo-inside">STYHLDVVSAEQQMFSGLVEKIQVTGSEGELGIYPGHAPLLTAIKPGMIRIVKQHGHEE</span></span>
-<span class="topo-line"><span class="topo-inside">FIYLSGGILEVQPGNVTVLADTAIRGQDLDEARAMEAKRKAEEHISSSHGDVDYAQASAE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">G</span><span class="topo-inside">STYHLDVVSAEQQMFSGLVEKIQVTGSEGELGIYPGHAPLLTAIKPGMIRIVKQHGHEEFIYLSGGILEVQPGNVTVLADTAIRGQDLDEARAMEAKRKAEEHISSSHGDVDYAQASAE</span></span>
+<span class="topo-ruler">       130        </span>
 <span class="topo-line"><span class="topo-inside">LAKAIAQLRVIELTKK</span><span class="topo-unknown">AM</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -477,6 +500,7 @@ The F1c10 subcomplex of the Saccharomyces cerevisiae F1F0-ATP synthase includes 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -492,8 +516,9 @@ The F1c10 subcomplex of the Saccharomyces cerevisiae F1F0-ATP synthase includes 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MENLNMDLLYMAAAVM</span><span class="topo-membrane">MGLAAIGAAIGIGI</span><span class="topo-inside">LGGKFLEGAARQPDLIPLLRTQ</span><span class="topo-membrane">FFIVMGLV</span></span>
-<span class="topo-line"><span class="topo-membrane">DAIPMIA</span><span class="topo-outside">VGLGLYVMFAVA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70         </span>
+<span class="topo-line"><span class="topo-outside">MENLNMDLLYMAAAVM</span><span class="topo-membrane">MGLAAIGAAIGIGI</span><span class="topo-inside">LGGKFLEGAARQPDLIPLLRTQ</span><span class="topo-membrane">FFIVMGLVDAIPMIA</span><span class="topo-outside">VGLGLYVMFAVA</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -540,6 +565,7 @@ The F1c10 subcomplex of the Saccharomyces cerevisiae F1F0-ATP synthase includes 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -555,8 +581,9 @@ The F1c10 subcomplex of the Saccharomyces cerevisiae F1F0-ATP synthase includes 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MENLNMDLLYMAAAV</span><span class="topo-membrane">MMGLAAIGAAIGIGI</span><span class="topo-inside">LGGKFLEGAARQPDLIPLLRTQF</span><span class="topo-membrane">FIVMGLV</span></span>
-<span class="topo-line"><span class="topo-membrane">DAIPMIA</span><span class="topo-outside">VGLGLYVMFAVA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70         </span>
+<span class="topo-line"><span class="topo-outside">MENLNMDLLYMAAAV</span><span class="topo-membrane">MMGLAAIGAAIGIGI</span><span class="topo-inside">LGGKFLEGAARQPDLIPLLRTQF</span><span class="topo-membrane">FIVMGLVDAIPMIA</span><span class="topo-outside">VGLGLYVMFAVA</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -603,6 +630,7 @@ The F1c10 subcomplex of the Saccharomyces cerevisiae F1F0-ATP synthase includes 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -618,8 +646,9 @@ The F1c10 subcomplex of the Saccharomyces cerevisiae F1F0-ATP synthase includes 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MENLNMDLLYMAAAV</span><span class="topo-membrane">MMGLAAIGAAIGIG</span><span class="topo-inside">ILGGKFLEGAARQPDLIPLLRTQFF</span><span class="topo-membrane">IVMGLV</span></span>
-<span class="topo-line"><span class="topo-membrane">DAIPMIA</span><span class="topo-outside">VGLGLYVMFAVA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70         </span>
+<span class="topo-line"><span class="topo-outside">MENLNMDLLYMAAAV</span><span class="topo-membrane">MMGLAAIGAAIGIG</span><span class="topo-inside">ILGGKFLEGAARQPDLIPLLRTQFF</span><span class="topo-membrane">IVMGLVDAIPMIA</span><span class="topo-outside">VGLGLYVMFAVA</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -666,6 +695,7 @@ The F1c10 subcomplex of the Saccharomyces cerevisiae F1F0-ATP synthase includes 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -681,8 +711,9 @@ The F1c10 subcomplex of the Saccharomyces cerevisiae F1F0-ATP synthase includes 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MENLNMDLLYMAAAV</span><span class="topo-membrane">MMGLAAIGAAIGIG</span><span class="topo-inside">ILGGKFLEGAARQPDLIPLLRTQFF</span><span class="topo-membrane">IVMGLV</span></span>
-<span class="topo-line"><span class="topo-membrane">DAIPMIAV</span><span class="topo-outside">GLGLYVMFAVA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70         </span>
+<span class="topo-line"><span class="topo-outside">MENLNMDLLYMAAAV</span><span class="topo-membrane">MMGLAAIGAAIGIG</span><span class="topo-inside">ILGGKFLEGAARQPDLIPLLRTQFF</span><span class="topo-membrane">IVMGLVDAIPMIAV</span><span class="topo-outside">GLGLYVMFAVA</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -729,6 +760,7 @@ The F1c10 subcomplex of the Saccharomyces cerevisiae F1F0-ATP synthase includes 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -744,8 +776,9 @@ The F1c10 subcomplex of the Saccharomyces cerevisiae F1F0-ATP synthase includes 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MENLNMDLLYMAAA</span><span class="topo-membrane">VMMGLAAIGAAIGI</span><span class="topo-inside">GILGGKFLEGAARQPDLIPLLRTQFFI</span><span class="topo-membrane">VMGLV</span></span>
-<span class="topo-line"><span class="topo-membrane">DAIPMIAVGL</span><span class="topo-outside">GLYVMFAVA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70         </span>
+<span class="topo-line"><span class="topo-outside">MENLNMDLLYMAAA</span><span class="topo-membrane">VMMGLAAIGAAIGI</span><span class="topo-inside">GILGGKFLEGAARQPDLIPLLRTQFFI</span><span class="topo-membrane">VMGLVDAIPMIAVGL</span><span class="topo-outside">GLYVMFAVA</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -792,6 +825,7 @@ The F1c10 subcomplex of the Saccharomyces cerevisiae F1F0-ATP synthase includes 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -807,8 +841,9 @@ The F1c10 subcomplex of the Saccharomyces cerevisiae F1F0-ATP synthase includes 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MENLNMDLLYMAA</span><span class="topo-membrane">AVMMGLAAIGAAIGI</span><span class="topo-inside">GILGGKFLEGAARQPDLIPLLRTQFFI</span><span class="topo-membrane">VMGLV</span></span>
-<span class="topo-line"><span class="topo-membrane">DAIPMIAVGL</span><span class="topo-outside">GLYVMFAVA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70         </span>
+<span class="topo-line"><span class="topo-outside">MENLNMDLLYMAA</span><span class="topo-membrane">AVMMGLAAIGAAIGI</span><span class="topo-inside">GILGGKFLEGAARQPDLIPLLRTQFFI</span><span class="topo-membrane">VMGLVDAIPMIAVGL</span><span class="topo-outside">GLYVMFAVA</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -855,6 +890,7 @@ The F1c10 subcomplex of the Saccharomyces cerevisiae F1F0-ATP synthase includes 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -870,8 +906,9 @@ The F1c10 subcomplex of the Saccharomyces cerevisiae F1F0-ATP synthase includes 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MENLNMDLLYMAA</span><span class="topo-membrane">AVMMGLAAIGAAIGI</span><span class="topo-inside">GILGGKFLEGAARQPDLIPLLRTQFFI</span><span class="topo-membrane">VMGLV</span></span>
-<span class="topo-line"><span class="topo-membrane">DAIPMIAVGL</span><span class="topo-outside">GLYVMFAVA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70         </span>
+<span class="topo-line"><span class="topo-outside">MENLNMDLLYMAA</span><span class="topo-membrane">AVMMGLAAIGAAIGI</span><span class="topo-inside">GILGGKFLEGAARQPDLIPLLRTQFFI</span><span class="topo-membrane">VMGLVDAIPMIAVGL</span><span class="topo-outside">GLYVMFAVA</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -918,6 +955,7 @@ The F1c10 subcomplex of the Saccharomyces cerevisiae F1F0-ATP synthase includes 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -933,8 +971,9 @@ The F1c10 subcomplex of the Saccharomyces cerevisiae F1F0-ATP synthase includes 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MENLNMDLLYMAAA</span><span class="topo-membrane">VMMGLAAIGAAIGIG</span><span class="topo-inside">ILGGKFLEGAARQPDLIPLLRTQFF</span><span class="topo-membrane">IVMGLV</span></span>
-<span class="topo-line"><span class="topo-membrane">DAIPMIAV</span><span class="topo-outside">GLGLYVMFAVA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70         </span>
+<span class="topo-line"><span class="topo-outside">MENLNMDLLYMAAA</span><span class="topo-membrane">VMMGLAAIGAAIGIG</span><span class="topo-inside">ILGGKFLEGAARQPDLIPLLRTQFF</span><span class="topo-membrane">IVMGLVDAIPMIAV</span><span class="topo-outside">GLGLYVMFAVA</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -981,6 +1020,7 @@ The F1c10 subcomplex of the Saccharomyces cerevisiae F1F0-ATP synthase includes 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -996,8 +1036,9 @@ The F1c10 subcomplex of the Saccharomyces cerevisiae F1F0-ATP synthase includes 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MENLNMDLLYMAAAV</span><span class="topo-membrane">MMGLAAIGAAIGIG</span><span class="topo-inside">ILGGKFLEGAARQPDLIPLLRTQF</span><span class="topo-membrane">FIVMGLV</span></span>
-<span class="topo-line"><span class="topo-membrane">DAIPMIA</span><span class="topo-outside">VGLGLYVMFAVA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70         </span>
+<span class="topo-line"><span class="topo-outside">MENLNMDLLYMAAAV</span><span class="topo-membrane">MMGLAAIGAAIGIG</span><span class="topo-inside">ILGGKFLEGAARQPDLIPLLRTQF</span><span class="topo-membrane">FIVMGLVDAIPMIA</span><span class="topo-outside">VGLGLYVMFAVA</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1044,6 +1085,7 @@ The F1c10 subcomplex of the Saccharomyces cerevisiae F1F0-ATP synthase includes 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1059,8 +1101,9 @@ The F1c10 subcomplex of the Saccharomyces cerevisiae F1F0-ATP synthase includes 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MENLNMDLLYMAAAVM</span><span class="topo-membrane">MGLAAIGAAIGIGI</span><span class="topo-inside">LGGKFLEGAARQPDLIPLLRTQ</span><span class="topo-membrane">FFIVMGLV</span></span>
-<span class="topo-line"><span class="topo-membrane">DAIPMIA</span><span class="topo-outside">VGLGLYVMFAVA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70         </span>
+<span class="topo-line"><span class="topo-outside">MENLNMDLLYMAAAVM</span><span class="topo-membrane">MGLAAIGAAIGIGI</span><span class="topo-inside">LGGKFLEGAARQPDLIPLLRTQ</span><span class="topo-membrane">FFIVMGLVDAIPMIA</span><span class="topo-outside">VGLGLYVMFAVA</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1107,6 +1150,7 @@ The F1c10 subcomplex of the Saccharomyces cerevisiae F1F0-ATP synthase includes 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1223,15 +1267,17 @@ The F1c10 subcomplex of the Saccharomyces cerevisiae F1F0-ATP synthase includes 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">ASTKAQPTEVSSILEERIKGVSDEA</span><span class="topo-outside">NLNETGRVLAVGDGIARVFGLNNIQAEELVEFSSG</span></span>
-<span class="topo-line"><span class="topo-outside">VKGMALNLEPGQVGIVLFGSDRLVKEGELVKRTGNIVDVPVGPGLLGRVVDALGNPIDGK</span></span>
-<span class="topo-line"><span class="topo-outside">GPIDAAGRSRAQVKAPGILPRRSVHEPVQTGLKAVDALVPIGRGQRELIIGDRQTGKTAV</span></span>
-<span class="topo-line"><span class="topo-outside">ALDTILNQKRWNNGSDESKKLYCVYVAVGQKRSTVAQLVQTLEQHDAMKYSIIVAATASE</span></span>
-<span class="topo-line"><span class="topo-outside">AAPLQYLAPFTAASIGEWFRDNGKHALIVYDDLSKQAVAYRQLSLLLRRPPGREAYPGDV</span></span>
-<span class="topo-line"><span class="topo-outside">FYLHSRLLERAAKLSEKEGSGSLTALPVIETQGGDVSAYIPTNVISITDGQIFLEAELFY</span></span>
-<span class="topo-line"><span class="topo-outside">KGIRPAINVGLSVSRVGSAAQVKALKQVAGSLKLFLAQYREVAAFAQFGSDLDASTKQTL</span></span>
-<span class="topo-line"><span class="topo-outside">VRGERLTQLLKQNQYSPLATEEQVPLIYAGVNGHLDGIELSRIGEFESSFLSYLKSNHNE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">ASTKAQPTEVSSILEERIKGVSDEA</span><span class="topo-outside">NLNETGRVLAVGDGIARVFGLNNIQAEELVEFSSGVKGMALNLEPGQVGIVLFGSDRLVKEGELVKRTGNIVDVPVGPGLLGRVVDALGNPIDGK</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">GPIDAAGRSRAQVKAPGILPRRSVHEPVQTGLKAVDALVPIGRGQRELIIGDRQTGKTAVALDTILNQKRWNNGSDESKKLYCVYVAVGQKRSTVAQLVQTLEQHDAMKYSIIVAATASE</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">AAPLQYLAPFTAASIGEWFRDNGKHALIVYDDLSKQAVAYRQLSLLLRRPPGREAYPGDVFYLHSRLLERAAKLSEKEGSGSLTALPVIETQGGDVSAYIPTNVISITDGQIFLEAELFY</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">KGIRPAINVGLSVSRVGSAAQVKALKQVAGSLKLFLAQYREVAAFAQFGSDLDASTKQTLVRGERLTQLLKQNQYSPLATEEQVPLIYAGVNGHLDGIELSRIGEFESSFLSYLKSNHNE</span></span>
+<span class="topo-ruler">       490       500       510</span>
 <span class="topo-line"><span class="topo-outside">LLTEIREKGELSKELLASLKSATESFVATF</span></span>
+<details class="topo-details"><summary>Topology coordinates (2 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1257,6 +1303,7 @@ The F1c10 subcomplex of the Saccharomyces cerevisiae F1F0-ATP synthase includes 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1272,15 +1319,17 @@ The F1c10 subcomplex of the Saccharomyces cerevisiae F1F0-ATP synthase includes 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">ASTKAQPTEVSSILEERIKGVSDE</span><span class="topo-outside">ANLNETGRVLAVGDGIARVFGLNNIQAEELVEFSSG</span></span>
-<span class="topo-line"><span class="topo-outside">VKGMALNLEPGQVGIVLFGSDRLVKEGELVKRTGNIVDVPVGPGLLGRVVDALGNPIDGK</span></span>
-<span class="topo-line"><span class="topo-outside">GPIDAAGRSRAQVKAPGILPRRSVHEPVQTGLKAVDALVPIGRGQRELIIGDRQTGKTAV</span></span>
-<span class="topo-line"><span class="topo-outside">ALDTILNQKRWNNGSDESKKLYCVYVAVGQKRSTVAQLVQTLEQHDAMKYSIIVAATASE</span></span>
-<span class="topo-line"><span class="topo-outside">AAPLQYLAPFTAASIGEWFRDNGKHALIVYDDLSKQAVAYRQLSLLLRRPPGREAYPGDV</span></span>
-<span class="topo-line"><span class="topo-outside">FYLHSRLLERAAKLSEKEGSGSLTALPVIETQGGDVSAYIPTNVISITDGQIFLEAELFY</span></span>
-<span class="topo-line"><span class="topo-outside">KGIRPAINVGLSVSRVGSAAQVKALKQVAGSLKLFLAQYREVAAFAQFGSDLDASTKQTL</span></span>
-<span class="topo-line"><span class="topo-outside">VRGERLTQLLKQNQYSPLATEEQVPLIYAGVNGHLDGIELSRIGEFESSFLSYLKSNHNE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">ASTKAQPTEVSSILEERIKGVSDE</span><span class="topo-outside">ANLNETGRVLAVGDGIARVFGLNNIQAEELVEFSSGVKGMALNLEPGQVGIVLFGSDRLVKEGELVKRTGNIVDVPVGPGLLGRVVDALGNPIDGK</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">GPIDAAGRSRAQVKAPGILPRRSVHEPVQTGLKAVDALVPIGRGQRELIIGDRQTGKTAVALDTILNQKRWNNGSDESKKLYCVYVAVGQKRSTVAQLVQTLEQHDAMKYSIIVAATASE</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">AAPLQYLAPFTAASIGEWFRDNGKHALIVYDDLSKQAVAYRQLSLLLRRPPGREAYPGDVFYLHSRLLERAAKLSEKEGSGSLTALPVIETQGGDVSAYIPTNVISITDGQIFLEAELFY</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">KGIRPAINVGLSVSRVGSAAQVKALKQVAGSLKLFLAQYREVAAFAQFGSDLDASTKQTLVRGERLTQLLKQNQYSPLATEEQVPLIYAGVNGHLDGIELSRIGEFESSFLSYLKSNHNE</span></span>
+<span class="topo-ruler">       490       500       510</span>
 <span class="topo-line"><span class="topo-outside">LLTEIREKGELSKELLASLKSATESFVAT</span><span class="topo-unknown">F</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1313,6 +1362,7 @@ The F1c10 subcomplex of the Saccharomyces cerevisiae F1F0-ATP synthase includes 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1328,15 +1378,17 @@ The F1c10 subcomplex of the Saccharomyces cerevisiae F1F0-ATP synthase includes 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">ASTKAQPTEVSSILEERIKGVSDEA</span><span class="topo-outside">NLNETGRVLAVGDGIARVFGLNNIQAEELVEFSSG</span></span>
-<span class="topo-line"><span class="topo-outside">VKGMALNLEPGQVGIVLFGSDRLVKEGELVKRTGNIVDVPVGPGLLGRVVDALGNPIDGK</span></span>
-<span class="topo-line"><span class="topo-outside">GPIDAAGRSRAQVKAPGILPRRSVHEPVQTGLKAVDALVPIGRGQRELIIGDRQTGKTAV</span></span>
-<span class="topo-line"><span class="topo-outside">ALDTILNQKRWNNGSDESKKLYCVYVAVGQKRSTVAQLVQTLEQHDAMKYSIIVAATASE</span></span>
-<span class="topo-line"><span class="topo-outside">AAPLQYLAPFTAASIGEWFRDNGKHALIVYDDLSKQAVAYRQLSLLLRRPPGREAYPGDV</span></span>
-<span class="topo-line"><span class="topo-outside">FYLHSRLLERAAKLSEKEGSGSLTALPVIETQGGDVSAYIPTNVISITDGQIFLEAELFY</span></span>
-<span class="topo-line"><span class="topo-outside">KGIRPAINVGLSVSRVGSAAQVKALKQVAGSLKLFLAQYREVAAFAQFGSDLDASTKQTL</span></span>
-<span class="topo-line"><span class="topo-outside">VRGERLTQLLKQNQYSPLATEEQVPLIYAGVNGHLDGIELSRIGEFESSFLSYLKSNHNE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">ASTKAQPTEVSSILEERIKGVSDEA</span><span class="topo-outside">NLNETGRVLAVGDGIARVFGLNNIQAEELVEFSSGVKGMALNLEPGQVGIVLFGSDRLVKEGELVKRTGNIVDVPVGPGLLGRVVDALGNPIDGK</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">GPIDAAGRSRAQVKAPGILPRRSVHEPVQTGLKAVDALVPIGRGQRELIIGDRQTGKTAVALDTILNQKRWNNGSDESKKLYCVYVAVGQKRSTVAQLVQTLEQHDAMKYSIIVAATASE</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">AAPLQYLAPFTAASIGEWFRDNGKHALIVYDDLSKQAVAYRQLSLLLRRPPGREAYPGDVFYLHSRLLERAAKLSEKEGSGSLTALPVIETQGGDVSAYIPTNVISITDGQIFLEAELFY</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">KGIRPAINVGLSVSRVGSAAQVKALKQVAGSLKLFLAQYREVAAFAQFGSDLDASTKQTLVRGERLTQLLKQNQYSPLATEEQVPLIYAGVNGHLDGIELSRIGEFESSFLSYLKSNHNE</span></span>
+<span class="topo-ruler">       490       500       510</span>
 <span class="topo-line"><span class="topo-outside">LLTEIREKGELSKELLASLKSATESFVATF</span></span>
+<details class="topo-details"><summary>Topology coordinates (2 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1362,6 +1414,7 @@ The F1c10 subcomplex of the Saccharomyces cerevisiae F1F0-ATP synthase includes 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1377,14 +1430,15 @@ The F1c10 subcomplex of the Saccharomyces cerevisiae F1F0-ATP synthase includes 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">ASAAQ</span><span class="topo-outside">STPITGKVTAVIGAIVDVHFEQSELPAILNALEIKTPQGKLVLEVAQHLGENTVR</span></span>
-<span class="topo-line"><span class="topo-outside">TIAMDGTEGLVRGEKVLDTGGPISVPVGRETLGRIINVIGEPIDERGPIKSKLRKPIHAD</span></span>
-<span class="topo-line"><span class="topo-outside">PPSFAEQSTSAEILETGIKVVDLLAPYARGGKIGLFGGAGVGKTVFIQELINNIAKAHGG</span></span>
-<span class="topo-line"><span class="topo-outside">FSVFTGVGERTREGNDLYREMKETGVINLEGESKVALVFGQMNEPPGARARVALTGLTIA</span></span>
-<span class="topo-line"><span class="topo-outside">EYFRDEEGQDVLLFIDNIFRFTQAGSEVSALLGRIPSAVGYQPTLATDMGLLQERITTTK</span></span>
-<span class="topo-line"><span class="topo-outside">KGSVTSVQAVYVPADDLTDPAPATTFAHLDATTVLSRGISELGIYPAVDPLDSKSRLLDA</span></span>
-<span class="topo-line"><span class="topo-outside">AVVGQEHYDVASKVQETLQTYKSLQDIIAILGMDELSEQDKLTVERARKIQRFLSQPFAV</span></span>
-<span class="topo-line"><span class="topo-outside">AEVFTGIPGKLVRLKDTVASFKAVLEGKYDNIPEHAFYMVGGIEDVVAKAEKLAA</span><span class="topo-unknown">EAN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">ASAAQ</span><span class="topo-outside">STPITGKVTAVIGAIVDVHFEQSELPAILNALEIKTPQGKLVLEVAQHLGENTVRTIAMDGTEGLVRGEKVLDTGGPISVPVGRETLGRIINVIGEPIDERGPIKSKLRKPIHAD</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">PPSFAEQSTSAEILETGIKVVDLLAPYARGGKIGLFGGAGVGKTVFIQELINNIAKAHGGFSVFTGVGERTREGNDLYREMKETGVINLEGESKVALVFGQMNEPPGARARVALTGLTIA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">EYFRDEEGQDVLLFIDNIFRFTQAGSEVSALLGRIPSAVGYQPTLATDMGLLQERITTTKKGSVTSVQAVYVPADDLTDPAPATTFAHLDATTVLSRGISELGIYPAVDPLDSKSRLLDA</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470        </span>
+<span class="topo-line"><span class="topo-outside">AVVGQEHYDVASKVQETLQTYKSLQDIIAILGMDELSEQDKLTVERARKIQRFLSQPFAVAEVFTGIPGKLVRLKDTVASFKAVLEGKYDNIPEHAFYMVGGIEDVVAKAEKLAA</span><span class="topo-unknown">EAN</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1417,6 +1471,7 @@ The F1c10 subcomplex of the Saccharomyces cerevisiae F1F0-ATP synthase includes 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1432,14 +1487,15 @@ The F1c10 subcomplex of the Saccharomyces cerevisiae F1F0-ATP synthase includes 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">ASAAQ</span><span class="topo-outside">STPITGKVTAVIGAIVDVHFEQSELPAILNALEIKTPQGKLVLEVAQHLGENTVR</span></span>
-<span class="topo-line"><span class="topo-outside">TIAMDGTEGLVRGEKVLDTGGPISVPVGRETLGRIINVIGEPIDERGPIKSKLRKPIHAD</span></span>
-<span class="topo-line"><span class="topo-outside">PPSFAEQSTSAEILETGIKVVDLLAPYARGGKIGLFGGAGVGKTVFIQELINNIAKAHGG</span></span>
-<span class="topo-line"><span class="topo-outside">FSVFTGVGERTREGNDLYREMKETGVINLEGESKVALVFGQMNEPPGARARVALTGLTIA</span></span>
-<span class="topo-line"><span class="topo-outside">EYFRDEEGQDVLLFIDNIFRFTQAGSEVSALLGRIPSAVGYQPTLATDMGLLQERITTTK</span></span>
-<span class="topo-line"><span class="topo-outside">KGSVTSVQAVYVPADDLTDPAPATTFAHLDATTVLSRGISELGIYPAVDPLDSKSRLLDA</span></span>
-<span class="topo-line"><span class="topo-outside">AVVGQEHYDVASKVQETLQTYKSLQDIIAILGMDELSEQDKLTVERARKIQRFLSQPFAV</span></span>
-<span class="topo-line"><span class="topo-outside">AEVFTGIPGKLVRLKDTVASFKAVLEGKYDNIPEHAFYMVGGIEDVVAKAEKLAAEAN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">ASAAQ</span><span class="topo-outside">STPITGKVTAVIGAIVDVHFEQSELPAILNALEIKTPQGKLVLEVAQHLGENTVRTIAMDGTEGLVRGEKVLDTGGPISVPVGRETLGRIINVIGEPIDERGPIKSKLRKPIHAD</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">PPSFAEQSTSAEILETGIKVVDLLAPYARGGKIGLFGGAGVGKTVFIQELINNIAKAHGGFSVFTGVGERTREGNDLYREMKETGVINLEGESKVALVFGQMNEPPGARARVALTGLTIA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">EYFRDEEGQDVLLFIDNIFRFTQAGSEVSALLGRIPSAVGYQPTLATDMGLLQERITTTKKGSVTSVQAVYVPADDLTDPAPATTFAHLDATTVLSRGISELGIYPAVDPLDSKSRLLDA</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470        </span>
+<span class="topo-line"><span class="topo-outside">AVVGQEHYDVASKVQETLQTYKSLQDIIAILGMDELSEQDKLTVERARKIQRFLSQPFAVAEVFTGIPGKLVRLKDTVASFKAVLEGKYDNIPEHAFYMVGGIEDVVAKAEKLAAEAN</span></span>
+<details class="topo-details"><summary>Topology coordinates (2 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1465,6 +1521,7 @@ The F1c10 subcomplex of the Saccharomyces cerevisiae F1F0-ATP synthase includes 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1480,11 +1537,13 @@ The F1c10 subcomplex of the Saccharomyces cerevisiae F1F0-ATP synthase includes 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">ATLKEVEMRLKSIKNIEKITKTMKIVASTRLSKAEKAKISAKKMDEAEQLFYKNAETKNL</span></span>
-<span class="topo-line"><span class="topo-outside">D</span><span class="topo-unknown">VEATETGAP</span><span class="topo-outside">KELIVAITSDKGLCGSIHSQLAKAVRRHLNDQPNADIVTIGDKIKMQLLR</span></span>
-<span class="topo-line"><span class="topo-outside">THPNNIKLSINGIGKDAPTFQESALIADKLLSVMKAGTYPKISIFYNDPVSSLSFEPSEK</span></span>
-<span class="topo-line"><span class="topo-outside">PIFNAKTIEQSPSFGKFEIDTDANVPRDLFEYTLANQMLTAMAQGYAAEISARRNAMDNA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">ATLKEVEMRLKSIKNIEKITKTMKIVASTRLSKAEKAKISAKKMDEAEQLFYKNAETKNLD</span><span class="topo-unknown">VEATETGAP</span><span class="topo-outside">KELIVAITSDKGLCGSIHSQLAKAVRRHLNDQPNADIVTIGDKIKMQLLR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">THPNNIKLSINGIGKDAPTFQESALIADKLLSVMKAGTYPKISIFYNDPVSSLSFEPSEKPIFNAKTIEQSPSFGKFEIDTDANVPRDLFEYTLANQMLTAMAQGYAAEISARRNAMDNA</span></span>
+<span class="topo-ruler">       250       260       270        </span>
 <span class="topo-line"><span class="topo-outside">SKNAGDMINRYSILYNRTRQAVITNELVDIITGASSLG</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1517,6 +1576,7 @@ The F1c10 subcomplex of the Saccharomyces cerevisiae F1F0-ATP synthase includes 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1532,9 +1592,11 @@ The F1c10 subcomplex of the Saccharomyces cerevisiae F1F0-ATP synthase includes 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">AEAAAA</span><span class="topo-outside">SSGLKLQFALPHETLYSGSEVTQVNLPAKSGRIGVLANHVPTVEQLLPGVVEVM</span></span>
-<span class="topo-line"><span class="topo-outside">EGSNSKKFFISGGFATVQPDSQLCVTAIEAFPLESFSQENIKNLLAEAKKNVSSSDAREA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">AEAAAA</span><span class="topo-outside">SSGLKLQFALPHETLYSGSEVTQVNLPAKSGRIGVLANHVPTVEQLLPGVVEVMEGSNSKKFFISGGFATVQPDSQLCVTAIEAFPLESFSQENIKNLLAEAKKNVSSSDAREA</span></span>
+<span class="topo-ruler">       130        </span>
 <span class="topo-line"><span class="topo-outside">AEAAIQVEVLENLQSVLK</span></span>
+<details class="topo-details"><summary>Topology coordinates (2 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1560,6 +1622,7 @@ The F1c10 subcomplex of the Saccharomyces cerevisiae F1F0-ATP synthase includes 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1575,8 +1638,9 @@ The F1c10 subcomplex of the Saccharomyces cerevisiae F1F0-ATP synthase includes 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">SAWRKAGISYAAYLNVAAQAIRSSLKTELQTASVLNRSQTDAFYTQYKNGTAASEPTPI</span><span class="topo-unknown">T</span></span>
-<span class="topo-line"><span class="topo-unknown">K</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60 </span>
+<span class="topo-line"><span class="topo-outside">SAWRKAGISYAAYLNVAAQAIRSSLKTELQTASVLNRSQTDAFYTQYKNGTAASEPTPI</span><span class="topo-unknown">TK</span></span>
+<details class="topo-details"><summary>Topology coordinates (2 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1602,6 +1666,7 @@ The F1c10 subcomplex of the Saccharomyces cerevisiae F1F0-ATP synthase includes 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1617,8 +1682,9 @@ The F1c10 subcomplex of the Saccharomyces cerevisiae F1F0-ATP synthase includes 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MQLVL</span><span class="topo-membrane">AAKYIGAGISTIGLLGAGIGIA</span><span class="topo-outside">IVFAALINGVSRNPSIKDTVFPMAILGF</span><span class="topo-membrane">ALSEA</span></span>
-<span class="topo-line"><span class="topo-membrane">TGLFCLMVSFLLLFGV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70      </span>
+<span class="topo-line"><span class="topo-inside">MQLVL</span><span class="topo-membrane">AAKYIGAGISTIGLLGAGIGIA</span><span class="topo-outside">IVFAALINGVSRNPSIKDTVFPMAILGF</span><span class="topo-membrane">ALSEATGLFCLMVSFLLLFGV</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1658,6 +1724,7 @@ The F1c10 subcomplex of the Saccharomyces cerevisiae F1F0-ATP synthase includes 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1673,8 +1740,9 @@ The F1c10 subcomplex of the Saccharomyces cerevisiae F1F0-ATP synthase includes 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MQLVL</span><span class="topo-membrane">AAKYIGAGISTIGLLGAGIGIA</span><span class="topo-outside">IVFAALINGVSRNPSIKDTVFPMAILGF</span><span class="topo-membrane">ALSEA</span></span>
-<span class="topo-line"><span class="topo-membrane">TGLFCLMVSFLLLFGV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70      </span>
+<span class="topo-line"><span class="topo-inside">MQLVL</span><span class="topo-membrane">AAKYIGAGISTIGLLGAGIGIA</span><span class="topo-outside">IVFAALINGVSRNPSIKDTVFPMAILGF</span><span class="topo-membrane">ALSEATGLFCLMVSFLLLFGV</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1714,6 +1782,7 @@ The F1c10 subcomplex of the Saccharomyces cerevisiae F1F0-ATP synthase includes 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1729,8 +1798,9 @@ The F1c10 subcomplex of the Saccharomyces cerevisiae F1F0-ATP synthase includes 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MQLVL</span><span class="topo-membrane">AAKYIGAGISTIGLLGAGIGIA</span><span class="topo-outside">IVFAALINGVSRNPSIKDTVFPMAILGF</span><span class="topo-membrane">ALSEA</span></span>
-<span class="topo-line"><span class="topo-membrane">TGLFCLMVSFLLLFGV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70      </span>
+<span class="topo-line"><span class="topo-inside">MQLVL</span><span class="topo-membrane">AAKYIGAGISTIGLLGAGIGIA</span><span class="topo-outside">IVFAALINGVSRNPSIKDTVFPMAILGF</span><span class="topo-membrane">ALSEATGLFCLMVSFLLLFGV</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1770,6 +1840,7 @@ The F1c10 subcomplex of the Saccharomyces cerevisiae F1F0-ATP synthase includes 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1785,8 +1856,9 @@ The F1c10 subcomplex of the Saccharomyces cerevisiae F1F0-ATP synthase includes 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MQLVL</span><span class="topo-membrane">AAKYIGAGISTIGLLGAGIGIA</span><span class="topo-outside">IVFAALINGVSRNPSIKDTVFPMAILGF</span><span class="topo-membrane">ALSEA</span></span>
-<span class="topo-line"><span class="topo-membrane">TGLFCLMVSFLLLFGV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70      </span>
+<span class="topo-line"><span class="topo-inside">MQLVL</span><span class="topo-membrane">AAKYIGAGISTIGLLGAGIGIA</span><span class="topo-outside">IVFAALINGVSRNPSIKDTVFPMAILGF</span><span class="topo-membrane">ALSEATGLFCLMVSFLLLFGV</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1826,6 +1898,7 @@ The F1c10 subcomplex of the Saccharomyces cerevisiae F1F0-ATP synthase includes 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1841,8 +1914,9 @@ The F1c10 subcomplex of the Saccharomyces cerevisiae F1F0-ATP synthase includes 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MQLVL</span><span class="topo-membrane">AAKYIGAGISTIGLLGAGIGIA</span><span class="topo-outside">IVFAALINGVSRNPSIKDTVFPMAILGF</span><span class="topo-membrane">ALSEA</span></span>
-<span class="topo-line"><span class="topo-membrane">TGLFCLMVSFLLLFGV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70      </span>
+<span class="topo-line"><span class="topo-inside">MQLVL</span><span class="topo-membrane">AAKYIGAGISTIGLLGAGIGIA</span><span class="topo-outside">IVFAALINGVSRNPSIKDTVFPMAILGF</span><span class="topo-membrane">ALSEATGLFCLMVSFLLLFGV</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1882,6 +1956,7 @@ The F1c10 subcomplex of the Saccharomyces cerevisiae F1F0-ATP synthase includes 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1897,8 +1972,9 @@ The F1c10 subcomplex of the Saccharomyces cerevisiae F1F0-ATP synthase includes 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MQLVL</span><span class="topo-membrane">AAKYIGAGISTIGLLGAGIGIA</span><span class="topo-outside">IVFAALINGVSRNPSIKDTVFPMAILGF</span><span class="topo-membrane">ALSEA</span></span>
-<span class="topo-line"><span class="topo-membrane">TGLFCLMVSFLLLFGV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70      </span>
+<span class="topo-line"><span class="topo-inside">MQLVL</span><span class="topo-membrane">AAKYIGAGISTIGLLGAGIGIA</span><span class="topo-outside">IVFAALINGVSRNPSIKDTVFPMAILGF</span><span class="topo-membrane">ALSEATGLFCLMVSFLLLFGV</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1938,6 +2014,7 @@ The F1c10 subcomplex of the Saccharomyces cerevisiae F1F0-ATP synthase includes 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1953,8 +2030,9 @@ The F1c10 subcomplex of the Saccharomyces cerevisiae F1F0-ATP synthase includes 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MQLVL</span><span class="topo-membrane">AAKYIGAGISTIGLLGAGIGIA</span><span class="topo-outside">IVFAALINGVSRNPSIKDTVFPMAILGF</span><span class="topo-membrane">ALSEA</span></span>
-<span class="topo-line"><span class="topo-membrane">TGLFCLMVSFLLLFGV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70      </span>
+<span class="topo-line"><span class="topo-inside">MQLVL</span><span class="topo-membrane">AAKYIGAGISTIGLLGAGIGIA</span><span class="topo-outside">IVFAALINGVSRNPSIKDTVFPMAILGF</span><span class="topo-membrane">ALSEATGLFCLMVSFLLLFGV</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1994,6 +2072,7 @@ The F1c10 subcomplex of the Saccharomyces cerevisiae F1F0-ATP synthase includes 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2009,8 +2088,9 @@ The F1c10 subcomplex of the Saccharomyces cerevisiae F1F0-ATP synthase includes 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MQLVL</span><span class="topo-membrane">AAKYIGAGISTIGLLGAGIGIA</span><span class="topo-outside">IVFAALINGVSRNPSIKDTVFPMAILGF</span><span class="topo-membrane">ALSEA</span></span>
-<span class="topo-line"><span class="topo-membrane">TGLFCLMVSFLLLFGV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70      </span>
+<span class="topo-line"><span class="topo-inside">MQLVL</span><span class="topo-membrane">AAKYIGAGISTIGLLGAGIGIA</span><span class="topo-outside">IVFAALINGVSRNPSIKDTVFPMAILGF</span><span class="topo-membrane">ALSEATGLFCLMVSFLLLFGV</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2050,6 +2130,7 @@ The F1c10 subcomplex of the Saccharomyces cerevisiae F1F0-ATP synthase includes 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2065,8 +2146,9 @@ The F1c10 subcomplex of the Saccharomyces cerevisiae F1F0-ATP synthase includes 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MQLVL</span><span class="topo-membrane">AAKYIGAGISTIGLLGAGIGIA</span><span class="topo-outside">IVFAALINGVSRNPSIKDTVFPMAILGF</span><span class="topo-membrane">ALSEA</span></span>
-<span class="topo-line"><span class="topo-membrane">TGLFCLMVSFLLLFGV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70      </span>
+<span class="topo-line"><span class="topo-inside">MQLVL</span><span class="topo-membrane">AAKYIGAGISTIGLLGAGIGIA</span><span class="topo-outside">IVFAALINGVSRNPSIKDTVFPMAILGF</span><span class="topo-membrane">ALSEATGLFCLMVSFLLLFGV</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2106,6 +2188,7 @@ The F1c10 subcomplex of the Saccharomyces cerevisiae F1F0-ATP synthase includes 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2121,8 +2204,9 @@ The F1c10 subcomplex of the Saccharomyces cerevisiae F1F0-ATP synthase includes 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MQLVL</span><span class="topo-membrane">AAKYIGAGISTIGLLGAGIGIA</span><span class="topo-outside">IVFAALINGVSRNPSIKDTVFPMAILGF</span><span class="topo-membrane">ALSEA</span></span>
-<span class="topo-line"><span class="topo-membrane">TGLFCLMVSFLLLFGV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70      </span>
+<span class="topo-line"><span class="topo-inside">MQLVL</span><span class="topo-membrane">AAKYIGAGISTIGLLGAGIGIA</span><span class="topo-outside">IVFAALINGVSRNPSIKDTVFPMAILGF</span><span class="topo-membrane">ALSEATGLFCLMVSFLLLFGV</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2162,6 +2246,7 @@ The F1c10 subcomplex of the Saccharomyces cerevisiae F1F0-ATP synthase includes 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

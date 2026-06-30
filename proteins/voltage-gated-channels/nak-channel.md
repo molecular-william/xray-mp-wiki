@@ -166,8 +166,9 @@ NaK is a non-selective tetrameric cation channel from Bacillus cereus that condu
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">M</span><span class="topo-unknown">LSFLLTLKRMLRACLRA</span><span class="topo-inside">WKDKEFQV</span><span class="topo-membrane">LFVLTILTLISGTIFYSTV</span><span class="topo-outside">EGLRP</span><span class="topo-unknown">IDALYFSVVT</span></span>
-<span class="topo-line"><span class="topo-unknown">LTTVGDG</span><span class="topo-outside">NFSPQTD</span><span class="topo-membrane">FGKIFTILYIFIGIGLVFGF</span><span class="topo-inside">IHKLAVNVQL</span><span class="topo-unknown">PSILSN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110</span>
+<span class="topo-line"><span class="topo-inside">M</span><span class="topo-unknown">LSFLLTLKRMLRACLRA</span><span class="topo-inside">WKDKEFQV</span><span class="topo-membrane">LFVLTILTLISGTIFYSTV</span><span class="topo-outside">EGLRP</span><span class="topo-unknown">IDALYFSVVTLTTVGDG</span><span class="topo-outside">NFSPQTD</span><span class="topo-membrane">FGKIFTILYIFIGIGLVFGF</span><span class="topo-inside">IHKLAVNVQL</span><span class="topo-unknown">PSILSN</span></span>
+<details class="topo-details"><summary>Topology coordinates (10 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -249,6 +250,7 @@ NaK is a non-selective tetrameric cation channel from Bacillus cereus that condu
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -264,8 +266,9 @@ NaK is a non-selective tetrameric cation channel from Bacillus cereus that condu
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">M</span><span class="topo-unknown">LSFLLTLKRMLRACL</span><span class="topo-inside">RAWKDKEFQV</span><span class="topo-membrane">LFVLTILTLISGTIFYSTV</span><span class="topo-outside">EGLRP</span><span class="topo-unknown">IDALYFSVVT</span></span>
-<span class="topo-line"><span class="topo-unknown">LTTVGDG</span><span class="topo-outside">NFSPQTD</span><span class="topo-membrane">FGKIFTILYIFIGIGLVFGF</span><span class="topo-inside">IHKLAVNVQ</span><span class="topo-unknown">LPSILSN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110</span>
+<span class="topo-line"><span class="topo-inside">M</span><span class="topo-unknown">LSFLLTLKRMLRACL</span><span class="topo-inside">RAWKDKEFQV</span><span class="topo-membrane">LFVLTILTLISGTIFYSTV</span><span class="topo-outside">EGLRP</span><span class="topo-unknown">IDALYFSVVTLTTVGDG</span><span class="topo-outside">NFSPQTD</span><span class="topo-membrane">FGKIFTILYIFIGIGLVFGF</span><span class="topo-inside">IHKLAVNVQ</span><span class="topo-unknown">LPSILSN</span></span>
+<details class="topo-details"><summary>Topology coordinates (10 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -347,6 +350,7 @@ NaK is a non-selective tetrameric cation channel from Bacillus cereus that condu
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -362,8 +366,9 @@ NaK is a non-selective tetrameric cation channel from Bacillus cereus that condu
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">M</span><span class="topo-unknown">LSFLLTLKRMLRACLRA</span><span class="topo-inside">WKDKEFQ</span><span class="topo-membrane">VLFVLTILTLISGTIFYSTV</span><span class="topo-outside">EGLRP</span><span class="topo-unknown">IDALYFSVVT</span></span>
-<span class="topo-line"><span class="topo-unknown">LTTVGDG</span><span class="topo-outside">NFSPQTD</span><span class="topo-membrane">FGKIFTILYIFIGIGLVFGF</span><span class="topo-inside">IHKLAVNVQL</span><span class="topo-unknown">PSILSN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110</span>
+<span class="topo-line"><span class="topo-inside">M</span><span class="topo-unknown">LSFLLTLKRMLRACLRA</span><span class="topo-inside">WKDKEFQ</span><span class="topo-membrane">VLFVLTILTLISGTIFYSTV</span><span class="topo-outside">EGLRP</span><span class="topo-unknown">IDALYFSVVTLTTVGDG</span><span class="topo-outside">NFSPQTD</span><span class="topo-membrane">FGKIFTILYIFIGIGLVFGF</span><span class="topo-inside">IHKLAVNVQL</span><span class="topo-unknown">PSILSN</span></span>
+<details class="topo-details"><summary>Topology coordinates (10 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -445,6 +450,7 @@ NaK is a non-selective tetrameric cation channel from Bacillus cereus that condu
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -460,8 +466,9 @@ NaK is a non-selective tetrameric cation channel from Bacillus cereus that condu
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">M</span><span class="topo-unknown">LSFLLTLKRMLRACL</span><span class="topo-inside">RAWKDKEFQV</span><span class="topo-membrane">LFVLTILTLISGTIFYSTV</span><span class="topo-outside">EGLRP</span><span class="topo-unknown">IDALYFSVVT</span></span>
-<span class="topo-line"><span class="topo-unknown">LTTVGDG</span><span class="topo-outside">NFSPQTD</span><span class="topo-membrane">FGKIFTILYIFIGIGLVFGF</span><span class="topo-inside">IHKLAVNVQ</span><span class="topo-unknown">LPSILSN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110</span>
+<span class="topo-line"><span class="topo-inside">M</span><span class="topo-unknown">LSFLLTLKRMLRACL</span><span class="topo-inside">RAWKDKEFQV</span><span class="topo-membrane">LFVLTILTLISGTIFYSTV</span><span class="topo-outside">EGLRP</span><span class="topo-unknown">IDALYFSVVTLTTVGDG</span><span class="topo-outside">NFSPQTD</span><span class="topo-membrane">FGKIFTILYIFIGIGLVFGF</span><span class="topo-inside">IHKLAVNVQ</span><span class="topo-unknown">LPSILSN</span></span>
+<details class="topo-details"><summary>Topology coordinates (10 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -543,6 +550,7 @@ NaK is a non-selective tetrameric cation channel from Bacillus cereus that condu
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -652,8 +660,9 @@ NaK is a non-selective tetrameric cation channel from Bacillus cereus that condu
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAK</span><span class="topo-outside">DKEF</span><span class="topo-membrane">QVLFVLTILTLISGTIFYSTV</span><span class="topo-inside">EGLRP</span><span class="topo-unknown">IDALYFSVVTLTTVGYG</span><span class="topo-inside">DFSPQTD</span><span class="topo-membrane">FGK</span></span>
-<span class="topo-line"><span class="topo-membrane">IFTILYIFIGIGLVFGFIHKLA</span><span class="topo-outside">VNV</span><span class="topo-unknown">QLPSILS</span><span class="topo-outside">NLVP</span><span class="topo-unknown">R</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       </span>
+<span class="topo-line"><span class="topo-unknown">MAK</span><span class="topo-outside">DKEF</span><span class="topo-membrane">QVLFVLTILTLISGTIFYSTV</span><span class="topo-inside">EGLRP</span><span class="topo-unknown">IDALYFSVVTLTTVGYG</span><span class="topo-inside">DFSPQTD</span><span class="topo-membrane">FGKIFTILYIFIGIGLVFGFIHKLA</span><span class="topo-outside">VNV</span><span class="topo-unknown">QLPSILS</span><span class="topo-outside">NLVP</span><span class="topo-unknown">R</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -742,6 +751,7 @@ NaK is a non-selective tetrameric cation channel from Bacillus cereus that condu
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -757,8 +767,9 @@ NaK is a non-selective tetrameric cation channel from Bacillus cereus that condu
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAK</span><span class="topo-outside">DKEF</span><span class="topo-membrane">QVLFVLTILTLISGTIFYSTV</span><span class="topo-inside">EGLRP</span><span class="topo-unknown">IDALYFSVVTLTTVGYG</span><span class="topo-inside">DFSPQTD</span><span class="topo-membrane">FGK</span></span>
-<span class="topo-line"><span class="topo-membrane">IFTILYIFIGIGLVFGFIHKLA</span><span class="topo-outside">VNV</span><span class="topo-unknown">QLPSILS</span><span class="topo-outside">NLVP</span><span class="topo-unknown">R</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       </span>
+<span class="topo-line"><span class="topo-unknown">MAK</span><span class="topo-outside">DKEF</span><span class="topo-membrane">QVLFVLTILTLISGTIFYSTV</span><span class="topo-inside">EGLRP</span><span class="topo-unknown">IDALYFSVVTLTTVGYG</span><span class="topo-inside">DFSPQTD</span><span class="topo-membrane">FGKIFTILYIFIGIGLVFGFIHKLA</span><span class="topo-outside">VNV</span><span class="topo-unknown">QLPSILS</span><span class="topo-outside">NLVP</span><span class="topo-unknown">R</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -847,6 +858,7 @@ NaK is a non-selective tetrameric cation channel from Bacillus cereus that condu
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -862,8 +874,9 @@ NaK is a non-selective tetrameric cation channel from Bacillus cereus that condu
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAK</span><span class="topo-outside">DKEF</span><span class="topo-membrane">QVLFVLTILTLISGTIFYSTV</span><span class="topo-inside">EGLRP</span><span class="topo-unknown">IDALYFSVVTLTTVGYG</span><span class="topo-inside">DFSPQTD</span><span class="topo-membrane">FGK</span></span>
-<span class="topo-line"><span class="topo-membrane">IFTILYIFIGIGLVFGFIHKLA</span><span class="topo-outside">VNV</span><span class="topo-unknown">QLPSILS</span><span class="topo-outside">NLVP</span><span class="topo-unknown">R</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       </span>
+<span class="topo-line"><span class="topo-unknown">MAK</span><span class="topo-outside">DKEF</span><span class="topo-membrane">QVLFVLTILTLISGTIFYSTV</span><span class="topo-inside">EGLRP</span><span class="topo-unknown">IDALYFSVVTLTTVGYG</span><span class="topo-inside">DFSPQTD</span><span class="topo-membrane">FGKIFTILYIFIGIGLVFGFIHKLA</span><span class="topo-outside">VNV</span><span class="topo-unknown">QLPSILS</span><span class="topo-outside">NLVP</span><span class="topo-unknown">R</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -952,6 +965,7 @@ NaK is a non-selective tetrameric cation channel from Bacillus cereus that condu
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -967,8 +981,9 @@ NaK is a non-selective tetrameric cation channel from Bacillus cereus that condu
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAK</span><span class="topo-outside">DKEF</span><span class="topo-membrane">QVLFVLTILTLISGTIFYSTV</span><span class="topo-inside">EGLRP</span><span class="topo-unknown">IDALYFSVVTLTTVGYG</span><span class="topo-inside">DFSPQTD</span><span class="topo-membrane">FGK</span></span>
-<span class="topo-line"><span class="topo-membrane">IFTILYIFIGIGLVFGFIHKLA</span><span class="topo-outside">VNV</span><span class="topo-unknown">QLPSILS</span><span class="topo-outside">NLVP</span><span class="topo-unknown">R</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       </span>
+<span class="topo-line"><span class="topo-unknown">MAK</span><span class="topo-outside">DKEF</span><span class="topo-membrane">QVLFVLTILTLISGTIFYSTV</span><span class="topo-inside">EGLRP</span><span class="topo-unknown">IDALYFSVVTLTTVGYG</span><span class="topo-inside">DFSPQTD</span><span class="topo-membrane">FGKIFTILYIFIGIGLVFGFIHKLA</span><span class="topo-outside">VNV</span><span class="topo-unknown">QLPSILS</span><span class="topo-outside">NLVP</span><span class="topo-unknown">R</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1057,6 +1072,7 @@ NaK is a non-selective tetrameric cation channel from Bacillus cereus that condu
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1072,8 +1088,9 @@ NaK is a non-selective tetrameric cation channel from Bacillus cereus that condu
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAK</span><span class="topo-outside">DKEF</span><span class="topo-membrane">QVLFVLTILTLISGTIFYSTV</span><span class="topo-inside">EGLRP</span><span class="topo-unknown">IDALYFSVVTLTTVGYG</span><span class="topo-inside">DFSPQTD</span><span class="topo-membrane">FGK</span></span>
-<span class="topo-line"><span class="topo-membrane">IFTILYIFIGIGLVFGFIHKLA</span><span class="topo-outside">VNV</span><span class="topo-unknown">QLPSILS</span><span class="topo-outside">NLVP</span><span class="topo-unknown">R</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       </span>
+<span class="topo-line"><span class="topo-unknown">MAK</span><span class="topo-outside">DKEF</span><span class="topo-membrane">QVLFVLTILTLISGTIFYSTV</span><span class="topo-inside">EGLRP</span><span class="topo-unknown">IDALYFSVVTLTTVGYG</span><span class="topo-inside">DFSPQTD</span><span class="topo-membrane">FGKIFTILYIFIGIGLVFGFIHKLA</span><span class="topo-outside">VNV</span><span class="topo-unknown">QLPSILS</span><span class="topo-outside">NLVP</span><span class="topo-unknown">R</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1162,6 +1179,7 @@ NaK is a non-selective tetrameric cation channel from Bacillus cereus that condu
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1177,8 +1195,9 @@ NaK is a non-selective tetrameric cation channel from Bacillus cereus that condu
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAK</span><span class="topo-outside">DKEF</span><span class="topo-membrane">QVLFVLTILTLISGTIFYSTV</span><span class="topo-inside">EGLRP</span><span class="topo-unknown">IDALYFSVVTLTTVGYG</span><span class="topo-inside">DFSPQTD</span><span class="topo-membrane">FGK</span></span>
-<span class="topo-line"><span class="topo-membrane">IFTILYIFIGIGLVFGFIHKLA</span><span class="topo-outside">VNV</span><span class="topo-unknown">QLPSILS</span><span class="topo-outside">NLVP</span><span class="topo-unknown">R</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       </span>
+<span class="topo-line"><span class="topo-unknown">MAK</span><span class="topo-outside">DKEF</span><span class="topo-membrane">QVLFVLTILTLISGTIFYSTV</span><span class="topo-inside">EGLRP</span><span class="topo-unknown">IDALYFSVVTLTTVGYG</span><span class="topo-inside">DFSPQTD</span><span class="topo-membrane">FGKIFTILYIFIGIGLVFGFIHKLA</span><span class="topo-outside">VNV</span><span class="topo-unknown">QLPSILS</span><span class="topo-outside">NLVP</span><span class="topo-unknown">R</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1267,6 +1286,7 @@ NaK is a non-selective tetrameric cation channel from Bacillus cereus that condu
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1282,8 +1302,9 @@ NaK is a non-selective tetrameric cation channel from Bacillus cereus that condu
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAK</span><span class="topo-outside">DKEF</span><span class="topo-membrane">QVLFVLTILTLISGTIFYSTV</span><span class="topo-inside">EGLRP</span><span class="topo-unknown">IDALYFSVVTLTTVGYG</span><span class="topo-inside">DFSPQTD</span><span class="topo-membrane">FGK</span></span>
-<span class="topo-line"><span class="topo-membrane">IFTILYIFIGIGLVFGFIHKLA</span><span class="topo-outside">VNV</span><span class="topo-unknown">QLPSILS</span><span class="topo-outside">NLVP</span><span class="topo-unknown">R</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       </span>
+<span class="topo-line"><span class="topo-unknown">MAK</span><span class="topo-outside">DKEF</span><span class="topo-membrane">QVLFVLTILTLISGTIFYSTV</span><span class="topo-inside">EGLRP</span><span class="topo-unknown">IDALYFSVVTLTTVGYG</span><span class="topo-inside">DFSPQTD</span><span class="topo-membrane">FGKIFTILYIFIGIGLVFGFIHKLA</span><span class="topo-outside">VNV</span><span class="topo-unknown">QLPSILS</span><span class="topo-outside">NLVP</span><span class="topo-unknown">R</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1372,6 +1393,7 @@ NaK is a non-selective tetrameric cation channel from Bacillus cereus that condu
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1387,8 +1409,9 @@ NaK is a non-selective tetrameric cation channel from Bacillus cereus that condu
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAK</span><span class="topo-outside">DKEF</span><span class="topo-membrane">QVLFVLTILTLISGTIFYSTV</span><span class="topo-inside">EGLRP</span><span class="topo-unknown">IDALYFSVVTLTTVGYG</span><span class="topo-inside">DFSPQTD</span><span class="topo-membrane">FGK</span></span>
-<span class="topo-line"><span class="topo-membrane">IFTILYIFIGIGLVFGFIHKLA</span><span class="topo-outside">VNV</span><span class="topo-unknown">QLPSILS</span><span class="topo-outside">NLVP</span><span class="topo-unknown">R</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       </span>
+<span class="topo-line"><span class="topo-unknown">MAK</span><span class="topo-outside">DKEF</span><span class="topo-membrane">QVLFVLTILTLISGTIFYSTV</span><span class="topo-inside">EGLRP</span><span class="topo-unknown">IDALYFSVVTLTTVGYG</span><span class="topo-inside">DFSPQTD</span><span class="topo-membrane">FGKIFTILYIFIGIGLVFGFIHKLA</span><span class="topo-outside">VNV</span><span class="topo-unknown">QLPSILS</span><span class="topo-outside">NLVP</span><span class="topo-unknown">R</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1477,6 +1500,7 @@ NaK is a non-selective tetrameric cation channel from Bacillus cereus that condu
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1600,8 +1624,9 @@ NaK is a non-selective tetrameric cation channel from Bacillus cereus that condu
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAKDK</span><span class="topo-outside">EFQ</span><span class="topo-membrane">VLFVLTILTLISGTIFYSTV</span><span class="topo-inside">EGLRP</span><span class="topo-unknown">IDALYFSVVTLTTVGETPPP</span><span class="topo-inside">QTD</span><span class="topo-membrane">FGKI</span></span>
-<span class="topo-line"><span class="topo-membrane">FTILYIFIGIGLVFGFIH</span><span class="topo-outside">KLAVNV</span><span class="topo-unknown">QLPSILSNL</span><span class="topo-outside">VP</span><span class="topo-unknown">R</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90      </span>
+<span class="topo-line"><span class="topo-unknown">MAKDK</span><span class="topo-outside">EFQ</span><span class="topo-membrane">VLFVLTILTLISGTIFYSTV</span><span class="topo-inside">EGLRP</span><span class="topo-unknown">IDALYFSVVTLTTVGETPPP</span><span class="topo-inside">QTD</span><span class="topo-membrane">FGKIFTILYIFIGIGLVFGFIH</span><span class="topo-outside">KLAVNV</span><span class="topo-unknown">QLPSILSNL</span><span class="topo-outside">VP</span><span class="topo-unknown">R</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1690,6 +1715,7 @@ NaK is a non-selective tetrameric cation channel from Bacillus cereus that condu
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1705,8 +1731,9 @@ NaK is a non-selective tetrameric cation channel from Bacillus cereus that condu
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAKDK</span><span class="topo-outside">EFQ</span><span class="topo-membrane">VLFVLTILTLISGTIFYSTV</span><span class="topo-inside">EGLRP</span><span class="topo-unknown">IDALYFSVVTLTTVGETPPP</span><span class="topo-inside">QTD</span><span class="topo-membrane">FGKI</span></span>
-<span class="topo-line"><span class="topo-membrane">FTILYIFIGIGLVFGFIH</span><span class="topo-outside">KLAVNV</span><span class="topo-unknown">QLPSILSNL</span><span class="topo-outside">VP</span><span class="topo-unknown">R</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90      </span>
+<span class="topo-line"><span class="topo-unknown">MAKDK</span><span class="topo-outside">EFQ</span><span class="topo-membrane">VLFVLTILTLISGTIFYSTV</span><span class="topo-inside">EGLRP</span><span class="topo-unknown">IDALYFSVVTLTTVGETPPP</span><span class="topo-inside">QTD</span><span class="topo-membrane">FGKIFTILYIFIGIGLVFGFIH</span><span class="topo-outside">KLAVNV</span><span class="topo-unknown">QLPSILSNL</span><span class="topo-outside">VP</span><span class="topo-unknown">R</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1795,6 +1822,7 @@ NaK is a non-selective tetrameric cation channel from Bacillus cereus that condu
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1810,8 +1838,9 @@ NaK is a non-selective tetrameric cation channel from Bacillus cereus that condu
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAKDK</span><span class="topo-outside">EFQ</span><span class="topo-membrane">VLFVLTILTLISGTIFYSTV</span><span class="topo-inside">EGLRP</span><span class="topo-unknown">IDALYFSVVTLTTVGETPPP</span><span class="topo-inside">QTD</span><span class="topo-membrane">FGKI</span></span>
-<span class="topo-line"><span class="topo-membrane">FTILYIFIGIGLVFGFIH</span><span class="topo-outside">KLAVNV</span><span class="topo-unknown">QLPSILSNL</span><span class="topo-outside">VP</span><span class="topo-unknown">R</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90      </span>
+<span class="topo-line"><span class="topo-unknown">MAKDK</span><span class="topo-outside">EFQ</span><span class="topo-membrane">VLFVLTILTLISGTIFYSTV</span><span class="topo-inside">EGLRP</span><span class="topo-unknown">IDALYFSVVTLTTVGETPPP</span><span class="topo-inside">QTD</span><span class="topo-membrane">FGKIFTILYIFIGIGLVFGFIH</span><span class="topo-outside">KLAVNV</span><span class="topo-unknown">QLPSILSNL</span><span class="topo-outside">VP</span><span class="topo-unknown">R</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1900,6 +1929,7 @@ NaK is a non-selective tetrameric cation channel from Bacillus cereus that condu
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1915,8 +1945,9 @@ NaK is a non-selective tetrameric cation channel from Bacillus cereus that condu
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAKDK</span><span class="topo-outside">EFQ</span><span class="topo-membrane">VLFVLTILTLISGTIFYSTV</span><span class="topo-inside">EGLRP</span><span class="topo-unknown">IDALYFSVVTLTTVGETPPP</span><span class="topo-inside">QTD</span><span class="topo-membrane">FGKI</span></span>
-<span class="topo-line"><span class="topo-membrane">FTILYIFIGIGLVFGFIH</span><span class="topo-outside">KLAVNV</span><span class="topo-unknown">QLPSILSNL</span><span class="topo-outside">VP</span><span class="topo-unknown">R</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90      </span>
+<span class="topo-line"><span class="topo-unknown">MAKDK</span><span class="topo-outside">EFQ</span><span class="topo-membrane">VLFVLTILTLISGTIFYSTV</span><span class="topo-inside">EGLRP</span><span class="topo-unknown">IDALYFSVVTLTTVGETPPP</span><span class="topo-inside">QTD</span><span class="topo-membrane">FGKIFTILYIFIGIGLVFGFIH</span><span class="topo-outside">KLAVNV</span><span class="topo-unknown">QLPSILSNL</span><span class="topo-outside">VP</span><span class="topo-unknown">R</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2005,6 +2036,7 @@ NaK is a non-selective tetrameric cation channel from Bacillus cereus that condu
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2020,8 +2052,9 @@ NaK is a non-selective tetrameric cation channel from Bacillus cereus that condu
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAKDK</span><span class="topo-outside">EFQ</span><span class="topo-membrane">VLFVLTILTLISGTIFYSTV</span><span class="topo-inside">EGLRP</span><span class="topo-unknown">IDALYFSVVTLTTVGETPPP</span><span class="topo-inside">QTD</span><span class="topo-membrane">FGKI</span></span>
-<span class="topo-line"><span class="topo-membrane">FTILYIFIGIGLVFGFIH</span><span class="topo-outside">KLAVNV</span><span class="topo-unknown">QLPSILSNL</span><span class="topo-outside">VP</span><span class="topo-unknown">R</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90      </span>
+<span class="topo-line"><span class="topo-unknown">MAKDK</span><span class="topo-outside">EFQ</span><span class="topo-membrane">VLFVLTILTLISGTIFYSTV</span><span class="topo-inside">EGLRP</span><span class="topo-unknown">IDALYFSVVTLTTVGETPPP</span><span class="topo-inside">QTD</span><span class="topo-membrane">FGKIFTILYIFIGIGLVFGFIH</span><span class="topo-outside">KLAVNV</span><span class="topo-unknown">QLPSILSNL</span><span class="topo-outside">VP</span><span class="topo-unknown">R</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2110,6 +2143,7 @@ NaK is a non-selective tetrameric cation channel from Bacillus cereus that condu
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2125,8 +2159,9 @@ NaK is a non-selective tetrameric cation channel from Bacillus cereus that condu
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAKDK</span><span class="topo-outside">EFQ</span><span class="topo-membrane">VLFVLTILTLISGTIFYSTV</span><span class="topo-inside">EGLRP</span><span class="topo-unknown">IDALYFSVVTLTTVGETPPP</span><span class="topo-inside">QTD</span><span class="topo-membrane">FGKI</span></span>
-<span class="topo-line"><span class="topo-membrane">FTILYIFIGIGLVFGFIH</span><span class="topo-outside">KLAVNV</span><span class="topo-unknown">QLPSILSNL</span><span class="topo-outside">VP</span><span class="topo-unknown">R</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90      </span>
+<span class="topo-line"><span class="topo-unknown">MAKDK</span><span class="topo-outside">EFQ</span><span class="topo-membrane">VLFVLTILTLISGTIFYSTV</span><span class="topo-inside">EGLRP</span><span class="topo-unknown">IDALYFSVVTLTTVGETPPP</span><span class="topo-inside">QTD</span><span class="topo-membrane">FGKIFTILYIFIGIGLVFGFIH</span><span class="topo-outside">KLAVNV</span><span class="topo-unknown">QLPSILSNL</span><span class="topo-outside">VP</span><span class="topo-unknown">R</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2215,6 +2250,7 @@ NaK is a non-selective tetrameric cation channel from Bacillus cereus that condu
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2230,8 +2266,9 @@ NaK is a non-selective tetrameric cation channel from Bacillus cereus that condu
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAKDK</span><span class="topo-outside">EFQ</span><span class="topo-membrane">VLFVLTILTLISGTIFYSTV</span><span class="topo-inside">EGLRP</span><span class="topo-unknown">IDALYFSVVTLTTVGETPPP</span><span class="topo-inside">QTD</span><span class="topo-membrane">FGKI</span></span>
-<span class="topo-line"><span class="topo-membrane">FTILYIFIGIGLVFGFIH</span><span class="topo-outside">KLAVNV</span><span class="topo-unknown">QLPSILSNL</span><span class="topo-outside">VP</span><span class="topo-unknown">R</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90      </span>
+<span class="topo-line"><span class="topo-unknown">MAKDK</span><span class="topo-outside">EFQ</span><span class="topo-membrane">VLFVLTILTLISGTIFYSTV</span><span class="topo-inside">EGLRP</span><span class="topo-unknown">IDALYFSVVTLTTVGETPPP</span><span class="topo-inside">QTD</span><span class="topo-membrane">FGKIFTILYIFIGIGLVFGFIH</span><span class="topo-outside">KLAVNV</span><span class="topo-unknown">QLPSILSNL</span><span class="topo-outside">VP</span><span class="topo-unknown">R</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2320,6 +2357,7 @@ NaK is a non-selective tetrameric cation channel from Bacillus cereus that condu
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2335,8 +2373,9 @@ NaK is a non-selective tetrameric cation channel from Bacillus cereus that condu
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAKDK</span><span class="topo-outside">EFQ</span><span class="topo-membrane">VLFVLTILTLISGTIFYSTV</span><span class="topo-inside">EGLRP</span><span class="topo-unknown">IDALYFSVVTLTTVGETPPP</span><span class="topo-inside">QTD</span><span class="topo-membrane">FGKI</span></span>
-<span class="topo-line"><span class="topo-membrane">FTILYIFIGIGLVFGFIH</span><span class="topo-outside">KLAVNV</span><span class="topo-unknown">QLPSILSNL</span><span class="topo-outside">VP</span><span class="topo-unknown">R</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90      </span>
+<span class="topo-line"><span class="topo-unknown">MAKDK</span><span class="topo-outside">EFQ</span><span class="topo-membrane">VLFVLTILTLISGTIFYSTV</span><span class="topo-inside">EGLRP</span><span class="topo-unknown">IDALYFSVVTLTTVGETPPP</span><span class="topo-inside">QTD</span><span class="topo-membrane">FGKIFTILYIFIGIGLVFGFIH</span><span class="topo-outside">KLAVNV</span><span class="topo-unknown">QLPSILSNL</span><span class="topo-outside">VP</span><span class="topo-unknown">R</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2425,6 +2464,7 @@ NaK is a non-selective tetrameric cation channel from Bacillus cereus that condu
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2440,8 +2480,9 @@ NaK is a non-selective tetrameric cation channel from Bacillus cereus that condu
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAKDK</span><span class="topo-outside">EFQ</span><span class="topo-membrane">VLFVLTILTLISGTIFYSTV</span><span class="topo-inside">EGLRP</span><span class="topo-unknown">IDALYFSVVTLTTVGETPPP</span><span class="topo-inside">QTD</span><span class="topo-membrane">FGKI</span></span>
-<span class="topo-line"><span class="topo-membrane">FTILYIFIGIGLVFGFIH</span><span class="topo-outside">KLAVNV</span><span class="topo-unknown">QLPSILSNL</span><span class="topo-outside">VP</span><span class="topo-unknown">R</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90      </span>
+<span class="topo-line"><span class="topo-unknown">MAKDK</span><span class="topo-outside">EFQ</span><span class="topo-membrane">VLFVLTILTLISGTIFYSTV</span><span class="topo-inside">EGLRP</span><span class="topo-unknown">IDALYFSVVTLTTVGETPPP</span><span class="topo-inside">QTD</span><span class="topo-membrane">FGKIFTILYIFIGIGLVFGFIH</span><span class="topo-outside">KLAVNV</span><span class="topo-unknown">QLPSILSNL</span><span class="topo-outside">VP</span><span class="topo-unknown">R</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2530,6 +2571,7 @@ NaK is a non-selective tetrameric cation channel from Bacillus cereus that condu
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2545,8 +2587,9 @@ NaK is a non-selective tetrameric cation channel from Bacillus cereus that condu
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAKDK</span><span class="topo-outside">EFQ</span><span class="topo-membrane">VLFVLTILTLISGTIFYSTV</span><span class="topo-inside">EGLRP</span><span class="topo-unknown">IDALYFSVVTLTTVGETPPP</span><span class="topo-inside">QTD</span><span class="topo-membrane">FGKI</span></span>
-<span class="topo-line"><span class="topo-membrane">FTILYIFIGIGLVFGFIH</span><span class="topo-outside">KLAVNV</span><span class="topo-unknown">QLPSILSNL</span><span class="topo-outside">VP</span><span class="topo-unknown">R</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90      </span>
+<span class="topo-line"><span class="topo-unknown">MAKDK</span><span class="topo-outside">EFQ</span><span class="topo-membrane">VLFVLTILTLISGTIFYSTV</span><span class="topo-inside">EGLRP</span><span class="topo-unknown">IDALYFSVVTLTTVGETPPP</span><span class="topo-inside">QTD</span><span class="topo-membrane">FGKIFTILYIFIGIGLVFGFIH</span><span class="topo-outside">KLAVNV</span><span class="topo-unknown">QLPSILSNL</span><span class="topo-outside">VP</span><span class="topo-unknown">R</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2635,6 +2678,7 @@ NaK is a non-selective tetrameric cation channel from Bacillus cereus that condu
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2650,8 +2694,9 @@ NaK is a non-selective tetrameric cation channel from Bacillus cereus that condu
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAKDK</span><span class="topo-outside">EFQ</span><span class="topo-membrane">VLFVLTILTLISGTIFYSTV</span><span class="topo-inside">EGLRP</span><span class="topo-unknown">IDALYFSVVTLTTVGETPPP</span><span class="topo-inside">QTD</span><span class="topo-membrane">FGKI</span></span>
-<span class="topo-line"><span class="topo-membrane">FTILYIFIGIGLVFGFIH</span><span class="topo-outside">KLAVNV</span><span class="topo-unknown">QLPSILSNL</span><span class="topo-outside">VP</span><span class="topo-unknown">R</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90      </span>
+<span class="topo-line"><span class="topo-unknown">MAKDK</span><span class="topo-outside">EFQ</span><span class="topo-membrane">VLFVLTILTLISGTIFYSTV</span><span class="topo-inside">EGLRP</span><span class="topo-unknown">IDALYFSVVTLTTVGETPPP</span><span class="topo-inside">QTD</span><span class="topo-membrane">FGKIFTILYIFIGIGLVFGFIH</span><span class="topo-outside">KLAVNV</span><span class="topo-unknown">QLPSILSNL</span><span class="topo-outside">VP</span><span class="topo-unknown">R</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2740,6 +2785,7 @@ NaK is a non-selective tetrameric cation channel from Bacillus cereus that condu
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2755,8 +2801,9 @@ NaK is a non-selective tetrameric cation channel from Bacillus cereus that condu
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAKDK</span><span class="topo-outside">EFQ</span><span class="topo-membrane">VLFVLTILTLISGTIFYSTV</span><span class="topo-inside">EGLRP</span><span class="topo-unknown">IDALYFSVVTLTTVGETPPP</span><span class="topo-inside">QTD</span><span class="topo-membrane">FGKI</span></span>
-<span class="topo-line"><span class="topo-membrane">FTILYIFIGIGLVFGFIH</span><span class="topo-outside">KLAVNV</span><span class="topo-unknown">QLPSILSNL</span><span class="topo-outside">VP</span><span class="topo-unknown">R</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90      </span>
+<span class="topo-line"><span class="topo-unknown">MAKDK</span><span class="topo-outside">EFQ</span><span class="topo-membrane">VLFVLTILTLISGTIFYSTV</span><span class="topo-inside">EGLRP</span><span class="topo-unknown">IDALYFSVVTLTTVGETPPP</span><span class="topo-inside">QTD</span><span class="topo-membrane">FGKIFTILYIFIGIGLVFGFIH</span><span class="topo-outside">KLAVNV</span><span class="topo-unknown">QLPSILSNL</span><span class="topo-outside">VP</span><span class="topo-unknown">R</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2845,6 +2892,7 @@ NaK is a non-selective tetrameric cation channel from Bacillus cereus that condu
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2975,8 +3023,9 @@ NaK is a non-selective tetrameric cation channel from Bacillus cereus that condu
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">WKDK</span><span class="topo-inside">EFQ</span><span class="topo-membrane">VLFVLTILTLISGTIFYSTV</span><span class="topo-outside">EGLRP</span><span class="topo-unknown">IDALYFSVVTLTTVGDG</span><span class="topo-outside">NFSPQTD</span><span class="topo-membrane">FGKI</span></span>
-<span class="topo-line"><span class="topo-membrane">FTILYIFIGIGLVFGFIH</span><span class="topo-inside">KLAVNV</span><span class="topo-unknown">QLPSILSNL</span><span class="topo-inside">VP</span><span class="topo-unknown">R</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90      </span>
+<span class="topo-line"><span class="topo-unknown">WKDK</span><span class="topo-inside">EFQ</span><span class="topo-membrane">VLFVLTILTLISGTIFYSTV</span><span class="topo-outside">EGLRP</span><span class="topo-unknown">IDALYFSVVTLTTVGDG</span><span class="topo-outside">NFSPQTD</span><span class="topo-membrane">FGKIFTILYIFIGIGLVFGFIH</span><span class="topo-inside">KLAVNV</span><span class="topo-unknown">QLPSILSNL</span><span class="topo-inside">VP</span><span class="topo-unknown">R</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3065,6 +3114,7 @@ NaK is a non-selective tetrameric cation channel from Bacillus cereus that condu
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3080,8 +3130,9 @@ NaK is a non-selective tetrameric cation channel from Bacillus cereus that condu
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">WKDK</span><span class="topo-inside">EFQ</span><span class="topo-membrane">VLFVLTILTLISGTIFYSTV</span><span class="topo-outside">EGLRP</span><span class="topo-unknown">IDALYFSVVTLTTVGDG</span><span class="topo-outside">NFSPQTD</span><span class="topo-membrane">FGKI</span></span>
-<span class="topo-line"><span class="topo-membrane">FTILYIFIGIGLVFGFIH</span><span class="topo-inside">KLAVNV</span><span class="topo-unknown">QLPSILSNL</span><span class="topo-inside">VP</span><span class="topo-unknown">R</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90      </span>
+<span class="topo-line"><span class="topo-unknown">WKDK</span><span class="topo-inside">EFQ</span><span class="topo-membrane">VLFVLTILTLISGTIFYSTV</span><span class="topo-outside">EGLRP</span><span class="topo-unknown">IDALYFSVVTLTTVGDG</span><span class="topo-outside">NFSPQTD</span><span class="topo-membrane">FGKIFTILYIFIGIGLVFGFIH</span><span class="topo-inside">KLAVNV</span><span class="topo-unknown">QLPSILSNL</span><span class="topo-inside">VP</span><span class="topo-unknown">R</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3170,6 +3221,7 @@ NaK is a non-selective tetrameric cation channel from Bacillus cereus that condu
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3185,8 +3237,9 @@ NaK is a non-selective tetrameric cation channel from Bacillus cereus that condu
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">WKDK</span><span class="topo-inside">EFQ</span><span class="topo-membrane">VLFVLTILTLISGTIFYSTV</span><span class="topo-outside">EGLRP</span><span class="topo-unknown">IDALYFSVVTLTTVGDG</span><span class="topo-outside">NFSPQTD</span><span class="topo-membrane">FGKI</span></span>
-<span class="topo-line"><span class="topo-membrane">FTILYIFIGIGLVFGFIH</span><span class="topo-inside">KLAVNV</span><span class="topo-unknown">QLPSILSNL</span><span class="topo-inside">VP</span><span class="topo-unknown">R</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90      </span>
+<span class="topo-line"><span class="topo-unknown">WKDK</span><span class="topo-inside">EFQ</span><span class="topo-membrane">VLFVLTILTLISGTIFYSTV</span><span class="topo-outside">EGLRP</span><span class="topo-unknown">IDALYFSVVTLTTVGDG</span><span class="topo-outside">NFSPQTD</span><span class="topo-membrane">FGKIFTILYIFIGIGLVFGFIH</span><span class="topo-inside">KLAVNV</span><span class="topo-unknown">QLPSILSNL</span><span class="topo-inside">VP</span><span class="topo-unknown">R</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3275,6 +3328,7 @@ NaK is a non-selective tetrameric cation channel from Bacillus cereus that condu
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3290,8 +3344,9 @@ NaK is a non-selective tetrameric cation channel from Bacillus cereus that condu
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">WKDK</span><span class="topo-inside">EFQ</span><span class="topo-membrane">VLFVLTILTLISGTIFYSTV</span><span class="topo-outside">EGLRP</span><span class="topo-unknown">IDALYFSVVTLTTVGDG</span><span class="topo-outside">NFSPQTD</span><span class="topo-membrane">FGKI</span></span>
-<span class="topo-line"><span class="topo-membrane">FTILYIFIGIGLVFGFIH</span><span class="topo-inside">KLAVNV</span><span class="topo-unknown">QLPSILSNL</span><span class="topo-inside">VP</span><span class="topo-unknown">R</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90      </span>
+<span class="topo-line"><span class="topo-unknown">WKDK</span><span class="topo-inside">EFQ</span><span class="topo-membrane">VLFVLTILTLISGTIFYSTV</span><span class="topo-outside">EGLRP</span><span class="topo-unknown">IDALYFSVVTLTTVGDG</span><span class="topo-outside">NFSPQTD</span><span class="topo-membrane">FGKIFTILYIFIGIGLVFGFIH</span><span class="topo-inside">KLAVNV</span><span class="topo-unknown">QLPSILSNL</span><span class="topo-inside">VP</span><span class="topo-unknown">R</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3380,6 +3435,7 @@ NaK is a non-selective tetrameric cation channel from Bacillus cereus that condu
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3395,8 +3451,9 @@ NaK is a non-selective tetrameric cation channel from Bacillus cereus that condu
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAK</span><span class="topo-outside">DKEF</span><span class="topo-membrane">QVLFVLTILTLISGTIFYSTV</span><span class="topo-inside">EGLRP</span><span class="topo-unknown">IDALYFSVVTLTTVGYG</span><span class="topo-inside">NFSPQTD</span><span class="topo-membrane">FGK</span></span>
-<span class="topo-line"><span class="topo-membrane">IFTILYIFIGIGLVFGFIHKLA</span><span class="topo-outside">VNV</span><span class="topo-unknown">QLPSILSNL</span><span class="topo-outside">VP</span><span class="topo-unknown">R</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       </span>
+<span class="topo-line"><span class="topo-unknown">MAK</span><span class="topo-outside">DKEF</span><span class="topo-membrane">QVLFVLTILTLISGTIFYSTV</span><span class="topo-inside">EGLRP</span><span class="topo-unknown">IDALYFSVVTLTTVGYG</span><span class="topo-inside">NFSPQTD</span><span class="topo-membrane">FGKIFTILYIFIGIGLVFGFIHKLA</span><span class="topo-outside">VNV</span><span class="topo-unknown">QLPSILSNL</span><span class="topo-outside">VP</span><span class="topo-unknown">R</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3485,6 +3542,7 @@ NaK is a non-selective tetrameric cation channel from Bacillus cereus that condu
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3500,8 +3558,9 @@ NaK is a non-selective tetrameric cation channel from Bacillus cereus that condu
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAK</span><span class="topo-outside">DKEF</span><span class="topo-membrane">QVLFVLTILTLISGTIFYSTV</span><span class="topo-inside">EGLRP</span><span class="topo-unknown">IDALYFSVVTLTTVGYG</span><span class="topo-inside">NFSPQTD</span><span class="topo-membrane">FGK</span></span>
-<span class="topo-line"><span class="topo-membrane">IFTILYIFIGIGLVFGFIHKLA</span><span class="topo-outside">VNV</span><span class="topo-unknown">QLPSILSNL</span><span class="topo-outside">VP</span><span class="topo-unknown">R</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       </span>
+<span class="topo-line"><span class="topo-unknown">MAK</span><span class="topo-outside">DKEF</span><span class="topo-membrane">QVLFVLTILTLISGTIFYSTV</span><span class="topo-inside">EGLRP</span><span class="topo-unknown">IDALYFSVVTLTTVGYG</span><span class="topo-inside">NFSPQTD</span><span class="topo-membrane">FGKIFTILYIFIGIGLVFGFIHKLA</span><span class="topo-outside">VNV</span><span class="topo-unknown">QLPSILSNL</span><span class="topo-outside">VP</span><span class="topo-unknown">R</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3590,6 +3649,7 @@ NaK is a non-selective tetrameric cation channel from Bacillus cereus that condu
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3605,8 +3665,9 @@ NaK is a non-selective tetrameric cation channel from Bacillus cereus that condu
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAK</span><span class="topo-outside">DKEF</span><span class="topo-membrane">QVLFVLTILTLISGTIFYSTV</span><span class="topo-inside">EGLRP</span><span class="topo-unknown">IDALYFSVVTLTTVGYG</span><span class="topo-inside">NFSPQTD</span><span class="topo-membrane">FGK</span></span>
-<span class="topo-line"><span class="topo-membrane">IFTILYIFIGIGLVFGFIHKLA</span><span class="topo-outside">VNV</span><span class="topo-unknown">QLPSILSNL</span><span class="topo-outside">VP</span><span class="topo-unknown">R</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       </span>
+<span class="topo-line"><span class="topo-unknown">MAK</span><span class="topo-outside">DKEF</span><span class="topo-membrane">QVLFVLTILTLISGTIFYSTV</span><span class="topo-inside">EGLRP</span><span class="topo-unknown">IDALYFSVVTLTTVGYG</span><span class="topo-inside">NFSPQTD</span><span class="topo-membrane">FGKIFTILYIFIGIGLVFGFIHKLA</span><span class="topo-outside">VNV</span><span class="topo-unknown">QLPSILSNL</span><span class="topo-outside">VP</span><span class="topo-unknown">R</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3695,6 +3756,7 @@ NaK is a non-selective tetrameric cation channel from Bacillus cereus that condu
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3710,8 +3772,9 @@ NaK is a non-selective tetrameric cation channel from Bacillus cereus that condu
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAK</span><span class="topo-outside">DKEF</span><span class="topo-membrane">QVLFVLTILTLISGTIFYSTV</span><span class="topo-inside">EGLRP</span><span class="topo-unknown">IDALYFSVVTLTTVGYG</span><span class="topo-inside">NFSPQTD</span><span class="topo-membrane">FGK</span></span>
-<span class="topo-line"><span class="topo-membrane">IFTILYIFIGIGLVFGFIHKLA</span><span class="topo-outside">VNV</span><span class="topo-unknown">QLPSILSNL</span><span class="topo-outside">VP</span><span class="topo-unknown">R</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       </span>
+<span class="topo-line"><span class="topo-unknown">MAK</span><span class="topo-outside">DKEF</span><span class="topo-membrane">QVLFVLTILTLISGTIFYSTV</span><span class="topo-inside">EGLRP</span><span class="topo-unknown">IDALYFSVVTLTTVGYG</span><span class="topo-inside">NFSPQTD</span><span class="topo-membrane">FGKIFTILYIFIGIGLVFGFIHKLA</span><span class="topo-outside">VNV</span><span class="topo-unknown">QLPSILSNL</span><span class="topo-outside">VP</span><span class="topo-unknown">R</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3800,6 +3863,7 @@ NaK is a non-selective tetrameric cation channel from Bacillus cereus that condu
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3815,8 +3879,9 @@ NaK is a non-selective tetrameric cation channel from Bacillus cereus that condu
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAK</span><span class="topo-outside">DKEF</span><span class="topo-membrane">QVLFVLTILTLISGTIFYSTV</span><span class="topo-inside">EGLRP</span><span class="topo-unknown">IDALYFSVVTLTTVGYG</span><span class="topo-inside">DFSPQTD</span><span class="topo-membrane">FGK</span></span>
-<span class="topo-line"><span class="topo-membrane">IFTILYIFIGIGLVFGFIHKLA</span><span class="topo-outside">VNV</span><span class="topo-unknown">QLPSILS</span><span class="topo-outside">NLVP</span><span class="topo-unknown">R</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       </span>
+<span class="topo-line"><span class="topo-unknown">MAK</span><span class="topo-outside">DKEF</span><span class="topo-membrane">QVLFVLTILTLISGTIFYSTV</span><span class="topo-inside">EGLRP</span><span class="topo-unknown">IDALYFSVVTLTTVGYG</span><span class="topo-inside">DFSPQTD</span><span class="topo-membrane">FGKIFTILYIFIGIGLVFGFIHKLA</span><span class="topo-outside">VNV</span><span class="topo-unknown">QLPSILS</span><span class="topo-outside">NLVP</span><span class="topo-unknown">R</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3905,6 +3970,7 @@ NaK is a non-selective tetrameric cation channel from Bacillus cereus that condu
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3920,8 +3986,9 @@ NaK is a non-selective tetrameric cation channel from Bacillus cereus that condu
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAK</span><span class="topo-outside">DKEF</span><span class="topo-membrane">QVLFVLTILTLISGTIFYSTV</span><span class="topo-inside">EGLRP</span><span class="topo-unknown">IDALYFSVVTLTTVGYG</span><span class="topo-inside">DFSPQTD</span><span class="topo-membrane">FGK</span></span>
-<span class="topo-line"><span class="topo-membrane">IFTILYIFIGIGLVFGFIHKLA</span><span class="topo-outside">VNV</span><span class="topo-unknown">QLPSILS</span><span class="topo-outside">NLVP</span><span class="topo-unknown">R</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       </span>
+<span class="topo-line"><span class="topo-unknown">MAK</span><span class="topo-outside">DKEF</span><span class="topo-membrane">QVLFVLTILTLISGTIFYSTV</span><span class="topo-inside">EGLRP</span><span class="topo-unknown">IDALYFSVVTLTTVGYG</span><span class="topo-inside">DFSPQTD</span><span class="topo-membrane">FGKIFTILYIFIGIGLVFGFIHKLA</span><span class="topo-outside">VNV</span><span class="topo-unknown">QLPSILS</span><span class="topo-outside">NLVP</span><span class="topo-unknown">R</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4010,6 +4077,7 @@ NaK is a non-selective tetrameric cation channel from Bacillus cereus that condu
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4025,8 +4093,9 @@ NaK is a non-selective tetrameric cation channel from Bacillus cereus that condu
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAK</span><span class="topo-outside">DKEF</span><span class="topo-membrane">QVLFVLTILTLISGTIFYSTV</span><span class="topo-inside">EGLRP</span><span class="topo-unknown">IDALYFSVVTLTTVGYG</span><span class="topo-inside">DFSPQTD</span><span class="topo-membrane">FGK</span></span>
-<span class="topo-line"><span class="topo-membrane">IFTILYIFIGIGLVFGFIHKLA</span><span class="topo-outside">VNV</span><span class="topo-unknown">QLPSILS</span><span class="topo-outside">NLVP</span><span class="topo-unknown">R</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       </span>
+<span class="topo-line"><span class="topo-unknown">MAK</span><span class="topo-outside">DKEF</span><span class="topo-membrane">QVLFVLTILTLISGTIFYSTV</span><span class="topo-inside">EGLRP</span><span class="topo-unknown">IDALYFSVVTLTTVGYG</span><span class="topo-inside">DFSPQTD</span><span class="topo-membrane">FGKIFTILYIFIGIGLVFGFIHKLA</span><span class="topo-outside">VNV</span><span class="topo-unknown">QLPSILS</span><span class="topo-outside">NLVP</span><span class="topo-unknown">R</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4115,6 +4184,7 @@ NaK is a non-selective tetrameric cation channel from Bacillus cereus that condu
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4130,8 +4200,9 @@ NaK is a non-selective tetrameric cation channel from Bacillus cereus that condu
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAK</span><span class="topo-outside">DKEF</span><span class="topo-membrane">QVLFVLTILTLISGTIFYSTV</span><span class="topo-inside">EGLRP</span><span class="topo-unknown">IDALYFSVVTLTTVGYG</span><span class="topo-inside">DFSPQTD</span><span class="topo-membrane">FGK</span></span>
-<span class="topo-line"><span class="topo-membrane">IFTILYIFIGIGLVFGFIHKLA</span><span class="topo-outside">VNV</span><span class="topo-unknown">QLPSILS</span><span class="topo-outside">NLVP</span><span class="topo-unknown">R</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       </span>
+<span class="topo-line"><span class="topo-unknown">MAK</span><span class="topo-outside">DKEF</span><span class="topo-membrane">QVLFVLTILTLISGTIFYSTV</span><span class="topo-inside">EGLRP</span><span class="topo-unknown">IDALYFSVVTLTTVGYG</span><span class="topo-inside">DFSPQTD</span><span class="topo-membrane">FGKIFTILYIFIGIGLVFGFIHKLA</span><span class="topo-outside">VNV</span><span class="topo-unknown">QLPSILS</span><span class="topo-outside">NLVP</span><span class="topo-unknown">R</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4220,6 +4291,7 @@ NaK is a non-selective tetrameric cation channel from Bacillus cereus that condu
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4235,8 +4307,9 @@ NaK is a non-selective tetrameric cation channel from Bacillus cereus that condu
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAK</span><span class="topo-outside">DKEF</span><span class="topo-membrane">QVLFVLTILTLISGTIFYSTV</span><span class="topo-inside">EGLRP</span><span class="topo-unknown">IDALYFSVVTLTTVGYG</span><span class="topo-inside">NFSPQTD</span><span class="topo-membrane">FGK</span></span>
-<span class="topo-line"><span class="topo-membrane">IFTILYIFIGIGLVFGFIHKLA</span><span class="topo-outside">VNV</span><span class="topo-unknown">QLPSILSNL</span><span class="topo-outside">VP</span><span class="topo-unknown">R</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       </span>
+<span class="topo-line"><span class="topo-unknown">MAK</span><span class="topo-outside">DKEF</span><span class="topo-membrane">QVLFVLTILTLISGTIFYSTV</span><span class="topo-inside">EGLRP</span><span class="topo-unknown">IDALYFSVVTLTTVGYG</span><span class="topo-inside">NFSPQTD</span><span class="topo-membrane">FGKIFTILYIFIGIGLVFGFIHKLA</span><span class="topo-outside">VNV</span><span class="topo-unknown">QLPSILSNL</span><span class="topo-outside">VP</span><span class="topo-unknown">R</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4325,6 +4398,7 @@ NaK is a non-selective tetrameric cation channel from Bacillus cereus that condu
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4340,8 +4414,9 @@ NaK is a non-selective tetrameric cation channel from Bacillus cereus that condu
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAK</span><span class="topo-outside">DKEF</span><span class="topo-membrane">QVLFVLTILTLISGTIFYSTV</span><span class="topo-inside">EGLRP</span><span class="topo-unknown">IDALYFSVVTLTTVGYG</span><span class="topo-inside">NFSPQTD</span><span class="topo-membrane">FGK</span></span>
-<span class="topo-line"><span class="topo-membrane">IFTILYIFIGIGLVFGFIHKLA</span><span class="topo-outside">VNV</span><span class="topo-unknown">QLPSILSNL</span><span class="topo-outside">VP</span><span class="topo-unknown">R</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       </span>
+<span class="topo-line"><span class="topo-unknown">MAK</span><span class="topo-outside">DKEF</span><span class="topo-membrane">QVLFVLTILTLISGTIFYSTV</span><span class="topo-inside">EGLRP</span><span class="topo-unknown">IDALYFSVVTLTTVGYG</span><span class="topo-inside">NFSPQTD</span><span class="topo-membrane">FGKIFTILYIFIGIGLVFGFIHKLA</span><span class="topo-outside">VNV</span><span class="topo-unknown">QLPSILSNL</span><span class="topo-outside">VP</span><span class="topo-unknown">R</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4430,6 +4505,7 @@ NaK is a non-selective tetrameric cation channel from Bacillus cereus that condu
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4445,8 +4521,9 @@ NaK is a non-selective tetrameric cation channel from Bacillus cereus that condu
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAK</span><span class="topo-outside">DKEF</span><span class="topo-membrane">QVLFVLTILTLISGTIFYSTV</span><span class="topo-inside">EGLRP</span><span class="topo-unknown">IDALYFSVVTLTTVGYG</span><span class="topo-inside">NFSPQTD</span><span class="topo-membrane">FGK</span></span>
-<span class="topo-line"><span class="topo-membrane">IFTILYIFIGIGLVFGFIHKLA</span><span class="topo-outside">VNV</span><span class="topo-unknown">QLPSILSNL</span><span class="topo-outside">VP</span><span class="topo-unknown">R</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       </span>
+<span class="topo-line"><span class="topo-unknown">MAK</span><span class="topo-outside">DKEF</span><span class="topo-membrane">QVLFVLTILTLISGTIFYSTV</span><span class="topo-inside">EGLRP</span><span class="topo-unknown">IDALYFSVVTLTTVGYG</span><span class="topo-inside">NFSPQTD</span><span class="topo-membrane">FGKIFTILYIFIGIGLVFGFIHKLA</span><span class="topo-outside">VNV</span><span class="topo-unknown">QLPSILSNL</span><span class="topo-outside">VP</span><span class="topo-unknown">R</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4535,6 +4612,7 @@ NaK is a non-selective tetrameric cation channel from Bacillus cereus that condu
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4550,8 +4628,9 @@ NaK is a non-selective tetrameric cation channel from Bacillus cereus that condu
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAK</span><span class="topo-outside">DKEF</span><span class="topo-membrane">QVLFVLTILTLISGTIFYSTV</span><span class="topo-inside">EGLRP</span><span class="topo-unknown">IDALYFSVVTLTTVGYG</span><span class="topo-inside">NFSPQTD</span><span class="topo-membrane">FGK</span></span>
-<span class="topo-line"><span class="topo-membrane">IFTILYIFIGIGLVFGFIHKLA</span><span class="topo-outside">VNV</span><span class="topo-unknown">QLPSILSNL</span><span class="topo-outside">VP</span><span class="topo-unknown">R</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       </span>
+<span class="topo-line"><span class="topo-unknown">MAK</span><span class="topo-outside">DKEF</span><span class="topo-membrane">QVLFVLTILTLISGTIFYSTV</span><span class="topo-inside">EGLRP</span><span class="topo-unknown">IDALYFSVVTLTTVGYG</span><span class="topo-inside">NFSPQTD</span><span class="topo-membrane">FGKIFTILYIFIGIGLVFGFIHKLA</span><span class="topo-outside">VNV</span><span class="topo-unknown">QLPSILSNL</span><span class="topo-outside">VP</span><span class="topo-unknown">R</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4640,6 +4719,7 @@ NaK is a non-selective tetrameric cation channel from Bacillus cereus that condu
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4685,8 +4765,9 @@ NaK is a non-selective tetrameric cation channel from Bacillus cereus that condu
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">WK</span><span class="topo-outside">DKEFQVL</span><span class="topo-membrane">FVLTILTLISGTIFYSTV</span><span class="topo-inside">EGLRP</span><span class="topo-unknown">IDALYFSVVTLTTVGDG</span><span class="topo-inside">NFSPQTDF</span><span class="topo-membrane">GKI</span></span>
-<span class="topo-line"><span class="topo-membrane">FTILYIFIGIGLVFGFIH</span><span class="topo-unknown">KLAVNVQLPSILS</span><span class="topo-outside">N</span><span class="topo-unknown">LVPR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90      </span>
+<span class="topo-line"><span class="topo-unknown">WK</span><span class="topo-outside">DKEFQVL</span><span class="topo-membrane">FVLTILTLISGTIFYSTV</span><span class="topo-inside">EGLRP</span><span class="topo-unknown">IDALYFSVVTLTTVGDG</span><span class="topo-inside">NFSPQTDF</span><span class="topo-membrane">GKIFTILYIFIGIGLVFGFIH</span><span class="topo-unknown">KLAVNVQLPSILS</span><span class="topo-outside">N</span><span class="topo-unknown">LVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4754,6 +4835,7 @@ NaK is a non-selective tetrameric cation channel from Bacillus cereus that condu
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4769,8 +4851,9 @@ NaK is a non-selective tetrameric cation channel from Bacillus cereus that condu
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">WK</span><span class="topo-outside">DKEFQVL</span><span class="topo-membrane">FVLTILTLISGTIFYSTV</span><span class="topo-inside">EGLRP</span><span class="topo-unknown">IDALYFSVVTLTTVGDG</span><span class="topo-inside">NFSPQTD</span><span class="topo-membrane">FGKI</span></span>
-<span class="topo-line"><span class="topo-membrane">FTILYIFIGIGLVFGFIH</span><span class="topo-outside">KLAVNV</span><span class="topo-unknown">QLPSILSN</span><span class="topo-outside">LVPR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90      </span>
+<span class="topo-line"><span class="topo-unknown">WK</span><span class="topo-outside">DKEFQVL</span><span class="topo-membrane">FVLTILTLISGTIFYSTV</span><span class="topo-inside">EGLRP</span><span class="topo-unknown">IDALYFSVVTLTTVGDG</span><span class="topo-inside">NFSPQTD</span><span class="topo-membrane">FGKIFTILYIFIGIGLVFGFIH</span><span class="topo-outside">KLAVNV</span><span class="topo-unknown">QLPSILSN</span><span class="topo-outside">LVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4845,6 +4928,7 @@ NaK is a non-selective tetrameric cation channel from Bacillus cereus that condu
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4860,8 +4944,9 @@ NaK is a non-selective tetrameric cation channel from Bacillus cereus that condu
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">WK</span><span class="topo-outside">DKEF</span><span class="topo-membrane">QVLFVLTILTLISGTIFY</span><span class="topo-inside">STVEGLRPIDA</span><span class="topo-unknown">LYFSVVTLTTVGD</span><span class="topo-inside">GNFSPQTDF</span><span class="topo-membrane">GKI</span></span>
-<span class="topo-line"><span class="topo-membrane">FTILYIFIGIGLVFGFIHKLA</span><span class="topo-unknown">VNVQLPSILS</span><span class="topo-outside">N</span><span class="topo-unknown">LVPR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90      </span>
+<span class="topo-line"><span class="topo-unknown">WK</span><span class="topo-outside">DKEF</span><span class="topo-membrane">QVLFVLTILTLISGTIFY</span><span class="topo-inside">STVEGLRPIDA</span><span class="topo-unknown">LYFSVVTLTTVGD</span><span class="topo-inside">GNFSPQTDF</span><span class="topo-membrane">GKIFTILYIFIGIGLVFGFIHKLA</span><span class="topo-unknown">VNVQLPSILS</span><span class="topo-outside">N</span><span class="topo-unknown">LVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -4929,6 +5014,7 @@ NaK is a non-selective tetrameric cation channel from Bacillus cereus that condu
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -4944,8 +5030,9 @@ NaK is a non-selective tetrameric cation channel from Bacillus cereus that condu
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">WK</span><span class="topo-outside">DKEFQ</span><span class="topo-membrane">VLFVLTILTLISGTIFY</span><span class="topo-inside">STVEGLRPIDA</span><span class="topo-unknown">LYFSVVTLTTVGDG</span><span class="topo-inside">NFSPQTDFG</span><span class="topo-membrane">KI</span></span>
-<span class="topo-line"><span class="topo-membrane">FTILYIFIGIGLVFGFIH</span><span class="topo-outside">KLAVNV</span><span class="topo-unknown">QLPSILSN</span><span class="topo-outside">LVPR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90      </span>
+<span class="topo-line"><span class="topo-unknown">WK</span><span class="topo-outside">DKEFQ</span><span class="topo-membrane">VLFVLTILTLISGTIFY</span><span class="topo-inside">STVEGLRPIDA</span><span class="topo-unknown">LYFSVVTLTTVGDG</span><span class="topo-inside">NFSPQTDFG</span><span class="topo-membrane">KIFTILYIFIGIGLVFGFIH</span><span class="topo-outside">KLAVNV</span><span class="topo-unknown">QLPSILSN</span><span class="topo-outside">LVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -5020,6 +5107,7 @@ NaK is a non-selective tetrameric cation channel from Bacillus cereus that condu
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

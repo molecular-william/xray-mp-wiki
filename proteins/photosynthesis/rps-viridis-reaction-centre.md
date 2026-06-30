@@ -115,12 +115,13 @@ The photosynthetic reaction centre from the purple bacterium Rhodopseudomonas vi
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">CFEPPPATTTQTGFRGLSMGEVLHPATVKAKKERDAQYPPALAAVKAEGPPVSQVYKNVK</span></span>
-<span class="topo-line"><span class="topo-outside">VLGNLTEAEFLRTMTAITEWVSPQEGCTYCHDENNLASEAKYPYVVARRMLEMTRAINTN</span></span>
-<span class="topo-line"><span class="topo-outside">WTQHVAQTGVTCYTCHRGTPLPPYVRYLEPTLPLNNRETPTHVERVETRSGYVVRLAKYT</span></span>
-<span class="topo-line"><span class="topo-outside">AYSALNYDPFTMFLANDKRQVRVVPQTALPLVGVSRGKERRPLSDAYATFALMMSISDSL</span></span>
-<span class="topo-line"><span class="topo-outside">GTNCTFCHNAQTFESWGKKSTPQRAIAWWGIRMVRDLNMNYLAPLNASLPASRLGRQGEA</span></span>
-<span class="topo-line"><span class="topo-outside">PQADCRTCHQGVTKPLFGASRLKDYPELGPIK</span><span class="topo-unknown">AAAK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">CFEPPPATTTQTGFRGLSMGEVLHPATVKAKKERDAQYPPALAAVKAEGPPVSQVYKNVKVLGNLTEAEFLRTMTAITEWVSPQEGCTYCHDENNLASEAKYPYVVARRMLEMTRAINTN</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">WTQHVAQTGVTCYTCHRGTPLPPYVRYLEPTLPLNNRETPTHVERVETRSGYVVRLAKYTAYSALNYDPFTMFLANDKRQVRVVPQTALPLVGVSRGKERRPLSDAYATFALMMSISDSL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330      </span>
+<span class="topo-line"><span class="topo-outside">GTNCTFCHNAQTFESWGKKSTPQRAIAWWGIRMVRDLNMNYLAPLNASLPASRLGRQGEAPQADCRTCHQGVTKPLFGASRLKDYPELGPIK</span><span class="topo-unknown">AAAK</span></span>
+<details class="topo-details"><summary>Topology coordinates (2 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -146,6 +147,7 @@ The photosynthetic reaction centre from the purple bacterium Rhodopseudomonas vi
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -161,11 +163,13 @@ The photosynthetic reaction centre from the purple bacterium Rhodopseudomonas vi
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">ALLSFERKYRVRGGTLIGGDLFDFWVGPYFVGF</span><span class="topo-membrane">FGVSAIFFIFLGVSLIGY</span><span class="topo-outside">AASQGPTWD</span></span>
-<span class="topo-line"><span class="topo-outside">PFAISINPPDLKYGLGAAPLLEGGFWQ</span><span class="topo-membrane">AITVCALGAFISWMLRE</span><span class="topo-inside">VEISRKLGIGWHV</span><span class="topo-membrane">PLA</span></span>
-<span class="topo-line"><span class="topo-membrane">FCVPIFMFCVLQVFR</span><span class="topo-outside">PLLLGSWGHAFPYGILSHLDWVNNFGYQYLNWHYNP</span><span class="topo-membrane">GHMSSVSFL</span></span>
-<span class="topo-line"><span class="topo-membrane">FVNAMALGLHGG</span><span class="topo-inside">LILSVANPGDGDKVKTAEHENQYFRDVVGYSIGALSIHRL</span><span class="topo-membrane">GLFLASNI</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">ALLSFERKYRVRGGTLIGGDLFDFWVGPYFVGF</span><span class="topo-membrane">FGVSAIFFIFLGVSLIGY</span><span class="topo-outside">AASQGPTWDPFAISINPPDLKYGLGAAPLLEGGFWQ</span><span class="topo-membrane">AITVCALGAFISWMLRE</span><span class="topo-inside">VEISRKLGIGWHV</span><span class="topo-membrane">PLA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">FCVPIFMFCVLQVFR</span><span class="topo-outside">PLLLGSWGHAFPYGILSHLDWVNNFGYQYLNWHYNP</span><span class="topo-membrane">GHMSSVSFLFVNAMALGLHGG</span><span class="topo-inside">LILSVANPGDGDKVKTAEHENQYFRDVVGYSIGALSIHRL</span><span class="topo-membrane">GLFLASNI</span></span>
+<span class="topo-ruler">       250       260       270   </span>
 <span class="topo-line"><span class="topo-membrane">FLTGAFGTIA</span><span class="topo-outside">SGPFWTRGWPEWWGWWLDIPFWS</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -254,6 +258,7 @@ The photosynthetic reaction centre from the purple bacterium Rhodopseudomonas vi
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -269,12 +274,13 @@ The photosynthetic reaction centre from the purple bacterium Rhodopseudomonas vi
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">ADYQTIYTQIQARGPHITVSGEWGDNDRVGKPFYSYWLGKIGDAQIGPIYL</span><span class="topo-membrane">GASGIAAFA</span></span>
-<span class="topo-line"><span class="topo-membrane">FGSTAILIIL</span><span class="topo-outside">FNMAAEVHFDPLQFFRQFFWLGLYPPKAQYGMGIPPLHDGGWWLM</span><span class="topo-membrane">AGLFM</span></span>
-<span class="topo-line"><span class="topo-membrane">TLSLGSWWIRVYS</span><span class="topo-inside">RARALGLGT</span><span class="topo-membrane">HIAWNFAAAIFFVLCIGCI</span><span class="topo-outside">HPTLVGSWSEGVPFGIWPH</span></span>
-<span class="topo-line"><span class="topo-outside">IDWLTAFSIRYGNFYYCP</span><span class="topo-membrane">WHGFSIGFAYGCGLLFAAHGA</span><span class="topo-inside">TILAVARFGGDREIEQITDRG</span></span>
-<span class="topo-line"><span class="topo-inside">TAVERAALFWRWTIGFNATIESVH</span><span class="topo-membrane">RWGWFFSLMVMVSASVGIL</span><span class="topo-outside">LTGTFVDNWYLWCVKHG</span></span>
-<span class="topo-line"><span class="topo-outside">AAPDYPAYLPATPDPASLPGAPK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">ADYQTIYTQIQARGPHITVSGEWGDNDRVGKPFYSYWLGKIGDAQIGPIYL</span><span class="topo-membrane">GASGIAAFAFGSTAILIIL</span><span class="topo-outside">FNMAAEVHFDPLQFFRQFFWLGLYPPKAQYGMGIPPLHDGGWWLM</span><span class="topo-membrane">AGLFM</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">TLSLGSWWIRVYS</span><span class="topo-inside">RARALGLGT</span><span class="topo-membrane">HIAWNFAAAIFFVLCIGCI</span><span class="topo-outside">HPTLVGSWSEGVPFGIWPHIDWLTAFSIRYGNFYYCP</span><span class="topo-membrane">WHGFSIGFAYGCGLLFAAHGA</span><span class="topo-inside">TILAVARFGGDREIEQITDRG</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320   </span>
+<span class="topo-line"><span class="topo-inside">TAVERAALFWRWTIGFNATIESVH</span><span class="topo-membrane">RWGWFFSLMVMVSASVGIL</span><span class="topo-outside">LTGTFVDNWYLWCVKHGAAPDYPAYLPATPDPASLPGAPK</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -363,6 +369,7 @@ The photosynthetic reaction centre from the purple bacterium Rhodopseudomonas vi
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -378,11 +385,13 @@ The photosynthetic reaction centre from the purple bacterium Rhodopseudomonas vi
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MYHGALAQHLDIAQL</span><span class="topo-membrane">VWYAQWLVIWTVVLLYLR</span><span class="topo-inside">REDRREGYPLVEPLGLVKLAPEDGQVY</span></span>
-<span class="topo-line"><span class="topo-inside">ELPYPKTFVLPHGGTVTVPRRRPETRELKLAQTDGFEGAPLQPTGNPLVDAVGPASYAER</span></span>
-<span class="topo-line"><span class="topo-inside">AEVVDATVDGKAKIVPLRVATDFSIAEGDVDPRGLPVVAADGVEAGTVTDLWVDRSEHYF</span></span>
-<span class="topo-line"><span class="topo-inside">RYLELSVAGSARTALIPLGFCDVKKDKIVVTSILSEQFANVPRLQSRDQITLREEDKVSA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MYHGALAQHLDIAQL</span><span class="topo-membrane">VWYAQWLVIWTVVLLYLR</span><span class="topo-inside">REDRREGYPLVEPLGLVKLAPEDGQVYELPYPKTFVLPHGGTVTVPRRRPETRELKLAQTDGFEGAPLQPTGNPLVDAVGPASYAER</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">AEVVDATVDGKAKIVPLRVATDFSIAEGDVDPRGLPVVAADGVEAGTVTDLWVDRSEHYFRYLELSVAGSARTALIPLGFCDVKKDKIVVTSILSEQFANVPRLQSRDQITLREEDKVSA</span></span>
+<span class="topo-ruler">       250        </span>
 <span class="topo-line"><span class="topo-inside">YYAGGLLYATPERAESLL</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -415,6 +424,7 @@ The photosynthetic reaction centre from the purple bacterium Rhodopseudomonas vi
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

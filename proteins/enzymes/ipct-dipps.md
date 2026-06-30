@@ -149,14 +149,15 @@ IPCT/DIPPS is a bifunctional membrane enzyme from the hyperthermophilic archaeon
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MASWSHPQFEKGALEVLFQGPGMINVDGEYLKIFAGRIK</span><span class="topo-inside">LMKAVILAAGLG</span><span class="topo-unknown">TRL</span><span class="topo-inside">GGVPKP</span></span>
-<span class="topo-line"><span class="topo-inside">LVRVGGCEIILRTMKLLSPHVSEFIIVASRYADDIDAFLKDKGFNYKIVRHDRPEKGNGY</span></span>
-<span class="topo-line"><span class="topo-inside">SLLVAKNHVEDRFILTMGDHVYSQQFIEKAVRGEGVIADREPRFVDIGEATKIRVEDGRV</span></span>
-<span class="topo-line"><span class="topo-inside">AKIGKDLREFDCVDTGFFVLDDSIFEHAEKLRDREEIPLSEIVKLARLPVTYVDGELWMD</span></span>
-<span class="topo-line"><span class="topo-inside">VDTKEDVRRANRALVSAAV</span><span class="topo-unknown">KGS</span><span class="topo-inside">GDGFISRKI</span><span class="topo-unknown">NRKISTRISAAI</span><span class="topo-inside">VNKVNPNQMT</span><span class="topo-membrane">LISFLVG</span></span>
-<span class="topo-line"><span class="topo-membrane">AFSALASF</span><span class="topo-outside">FSI</span><span class="topo-membrane">PLAGLLYQFSSILD</span><span class="topo-inside">GCDGEIARASLKMSKKGGYVD</span><span class="topo-membrane">SILDRFVDFLFLAI</span></span>
-<span class="topo-line"><span class="topo-membrane">IAL</span><span class="topo-outside">LYPKTA</span><span class="topo-membrane">TVAMFAIFGSVMVSYT</span><span class="topo-inside">SEKYKAEFGESI</span><span class="topo-unknown">FGKF</span><span class="topo-inside">RVLNY</span><span class="topo-membrane">IPGKRDERIFLIMI</span></span>
-<span class="topo-line"><span class="topo-membrane">FCLL</span><span class="topo-outside">SAISLQWI</span><span class="topo-membrane">FWMFLFVAAISLTRVVVTLL</span><span class="topo-inside">AVLVS</span><span class="topo-unknown">KELALVPRGSSAHHHHHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MASWSHPQFEKGALEVLFQGPGMINVDGEYLKIFAGRIK</span><span class="topo-inside">LMKAVILAAGLG</span><span class="topo-unknown">TRL</span><span class="topo-inside">GGVPKPLVRVGGCEIILRTMKLLSPHVSEFIIVASRYADDIDAFLKDKGFNYKIVRHDRPEKGNGY</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">SLLVAKNHVEDRFILTMGDHVYSQQFIEKAVRGEGVIADREPRFVDIGEATKIRVEDGRVAKIGKDLREFDCVDTGFFVLDDSIFEHAEKLRDREEIPLSEIVKLARLPVTYVDGELWMD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">VDTKEDVRRANRALVSAAV</span><span class="topo-unknown">KGS</span><span class="topo-inside">GDGFISRKI</span><span class="topo-unknown">NRKISTRISAAI</span><span class="topo-inside">VNKVNPNQMT</span><span class="topo-membrane">LISFLVGAFSALASF</span><span class="topo-outside">FSI</span><span class="topo-membrane">PLAGLLYQFSSILD</span><span class="topo-inside">GCDGEIARASLKMSKKGGYVD</span><span class="topo-membrane">SILDRFVDFLFLAI</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470         </span>
+<span class="topo-line"><span class="topo-membrane">IAL</span><span class="topo-outside">LYPKTA</span><span class="topo-membrane">TVAMFAIFGSVMVSYT</span><span class="topo-inside">SEKYKAEFGESI</span><span class="topo-unknown">FGKF</span><span class="topo-inside">RVLNY</span><span class="topo-membrane">IPGKRDERIFLIMIFCLL</span><span class="topo-outside">SAISLQWI</span><span class="topo-membrane">FWMFLFVAAISLTRVVVTLL</span><span class="topo-inside">AVLVS</span><span class="topo-unknown">KELALVPRGSSAHHHHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (23 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -329,6 +330,7 @@ IPCT/DIPPS is a bifunctional membrane enzyme from the hyperthermophilic archaeon
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -344,14 +346,15 @@ IPCT/DIPPS is a bifunctional membrane enzyme from the hyperthermophilic archaeon
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MASWSHPQFEKGALEVLFQGPGMINVDGEYLKIFAGRIK</span><span class="topo-inside">LMKAVILAAGLG</span><span class="topo-unknown">TRL</span><span class="topo-inside">GGVPKP</span></span>
-<span class="topo-line"><span class="topo-inside">LVRVGGCEIILRTMKLLSPHVSEFIIVASRYADDIDAFLKDKGFNYKIVRHDRPEKGNGY</span></span>
-<span class="topo-line"><span class="topo-inside">SLLVAKNHVEDRFILTMGDHVYSQQFIEKAVRGEGVIADREPRFVDIGEATKIRVEDGRV</span></span>
-<span class="topo-line"><span class="topo-inside">AKIGKDLREFDCVDTGFFVLDDSIFEHAEKLRDREEIPLSEIVKLARLPVTYVDGELWMD</span></span>
-<span class="topo-line"><span class="topo-inside">VDTKEDVRRANRALVSAAV</span><span class="topo-unknown">KGS</span><span class="topo-inside">GDGFISRKI</span><span class="topo-unknown">NRKISTRISAAI</span><span class="topo-inside">VNKVNPNQMT</span><span class="topo-membrane">LISFLVG</span></span>
-<span class="topo-line"><span class="topo-membrane">AFSALASF</span><span class="topo-outside">FSI</span><span class="topo-membrane">PLAGLLYQFSSILD</span><span class="topo-inside">GCDGEIARASLKMSKKGGYVD</span><span class="topo-membrane">SILDRFVDFLFLAI</span></span>
-<span class="topo-line"><span class="topo-membrane">IAL</span><span class="topo-outside">LYPKTA</span><span class="topo-membrane">TVAMFAIFGSVMVSYT</span><span class="topo-inside">SEKYKAEFGESI</span><span class="topo-unknown">FGKF</span><span class="topo-inside">RVLNY</span><span class="topo-membrane">IPGKRDERIFLIMI</span></span>
-<span class="topo-line"><span class="topo-membrane">FCLL</span><span class="topo-outside">SAISLQWI</span><span class="topo-membrane">FWMFLFVAAISLTRVVVTLL</span><span class="topo-inside">AVLVS</span><span class="topo-unknown">KELALVPRGSSAHHHHHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MASWSHPQFEKGALEVLFQGPGMINVDGEYLKIFAGRIK</span><span class="topo-inside">LMKAVILAAGLG</span><span class="topo-unknown">TRL</span><span class="topo-inside">GGVPKPLVRVGGCEIILRTMKLLSPHVSEFIIVASRYADDIDAFLKDKGFNYKIVRHDRPEKGNGY</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">SLLVAKNHVEDRFILTMGDHVYSQQFIEKAVRGEGVIADREPRFVDIGEATKIRVEDGRVAKIGKDLREFDCVDTGFFVLDDSIFEHAEKLRDREEIPLSEIVKLARLPVTYVDGELWMD</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">VDTKEDVRRANRALVSAAV</span><span class="topo-unknown">KGS</span><span class="topo-inside">GDGFISRKI</span><span class="topo-unknown">NRKISTRISAAI</span><span class="topo-inside">VNKVNPNQMT</span><span class="topo-membrane">LISFLVGAFSALASF</span><span class="topo-outside">FSI</span><span class="topo-membrane">PLAGLLYQFSSILD</span><span class="topo-inside">GCDGEIARASLKMSKKGGYVD</span><span class="topo-membrane">SILDRFVDFLFLAI</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470         </span>
+<span class="topo-line"><span class="topo-membrane">IAL</span><span class="topo-outside">LYPKTA</span><span class="topo-membrane">TVAMFAIFGSVMVSYT</span><span class="topo-inside">SEKYKAEFGESI</span><span class="topo-unknown">FGKF</span><span class="topo-inside">RVLNY</span><span class="topo-membrane">IPGKRDERIFLIMIFCLL</span><span class="topo-outside">SAISLQWI</span><span class="topo-membrane">FWMFLFVAAISLTRVVVTLL</span><span class="topo-inside">AVLVS</span><span class="topo-unknown">KELALVPRGSSAHHHHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (23 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -524,6 +527,7 @@ IPCT/DIPPS is a bifunctional membrane enzyme from the hyperthermophilic archaeon
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

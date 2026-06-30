@@ -110,12 +110,13 @@ Wza is an outer membrane lipoprotein from Escherichia coli that forms an octamer
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">CTIIPGQGLNSLRKNVVELPDSDYDLDKLVNVYPMTPGLIDQLRPEPVIARSNPQLDNLL</span></span>
-<span class="topo-line"><span class="topo-outside">KSYEYRIGVGDVLMVTVWDHPELTTPAGQYRSASDTGNWVNSDGTIFYPYIGKVQVAGKT</span></span>
-<span class="topo-line"><span class="topo-outside">VSQVRQDITSRLTTYIESPQVDVSIAAFRSQKVYVTGEVANSGKQAITNIPLTVMDAINA</span></span>
-<span class="topo-line"><span class="topo-outside">AGGLAADADWRNVVLTHNGKDTKISLYALMQKGDLTQNHLLYHGDILFIPSNDDLKVFVM</span></span>
-<span class="topo-line"><span class="topo-outside">GEVGKQSTLKMDRSGMTLAEALGNAEGISQEMSDATGIFVVRQLKGDRTGKIADIYQLNA</span></span>
-<span class="topo-line"><span class="topo-outside">QDASAMVLGTEFQLQPYDIVYVTTA</span><span class="topo-unknown">PLVRWNRVI</span><span class="topo-membrane">SQLVPTISGVHDMTETVRYI</span><span class="topo-inside">KR</span><span class="topo-unknown">WPN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">CTIIPGQGLNSLRKNVVELPDSDYDLDKLVNVYPMTPGLIDQLRPEPVIARSNPQLDNLLKSYEYRIGVGDVLMVTVWDHPELTTPAGQYRSASDTGNWVNSDGTIFYPYIGKVQVAGKT</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">VSQVRQDITSRLTTYIESPQVDVSIAAFRSQKVYVTGEVANSGKQAITNIPLTVMDAINAAGGLAADADWRNVVLTHNGKDTKISLYALMQKGDLTQNHLLYHGDILFIPSNDDLKVFVM</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350         </span>
+<span class="topo-line"><span class="topo-outside">GEVGKQSTLKMDRSGMTLAEALGNAEGISQEMSDATGIFVVRQLKGDRTGKIADIYQLNAQDASAMVLGTEFQLQPYDIVYVTTA</span><span class="topo-unknown">PLVRWNRVI</span><span class="topo-membrane">SQLVPTISGVHDMTETVRYI</span><span class="topo-inside">KR</span><span class="topo-unknown">WPN</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -162,6 +163,7 @@ Wza is an outer membrane lipoprotein from Escherichia coli that forms an octamer
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -177,12 +179,13 @@ Wza is an outer membrane lipoprotein from Escherichia coli that forms an octamer
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">CTIIPGQGLNSLRKNVVELPDSDYDLDKLVNVYPMTPGLIDQLRPEPVIARSNPQLDNLL</span></span>
-<span class="topo-line"><span class="topo-outside">KSYEYRIGVGDVLMVTVWDHPELTTPAGQYRSASDTGNWVNSDGTIFYPYIGKVQVAGKT</span></span>
-<span class="topo-line"><span class="topo-outside">VSQVRQDITSRLTTYIESPQVDVSIAAFRSQKVYVTGEVANSGKQAITNIPLTVMDAINA</span></span>
-<span class="topo-line"><span class="topo-outside">AGGLAADADWRNVVLTHNGKDTKISLYALMQKGDLTQNHLLYHGDILFIPSNDDLKVFVM</span></span>
-<span class="topo-line"><span class="topo-outside">GEVGKQSTLKMDRSGMTLAEALGNAEGISQEMSDATGIFVVRQLKGDRTGKIADIYQLNA</span></span>
-<span class="topo-line"><span class="topo-outside">QDASAMVLGTEFQLQPYDIVYVTTA</span><span class="topo-unknown">PLVRWNRVI</span><span class="topo-membrane">SQLVPTISGVHDMTETVRYI</span><span class="topo-inside">KR</span><span class="topo-unknown">WPN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">CTIIPGQGLNSLRKNVVELPDSDYDLDKLVNVYPMTPGLIDQLRPEPVIARSNPQLDNLLKSYEYRIGVGDVLMVTVWDHPELTTPAGQYRSASDTGNWVNSDGTIFYPYIGKVQVAGKT</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">VSQVRQDITSRLTTYIESPQVDVSIAAFRSQKVYVTGEVANSGKQAITNIPLTVMDAINAAGGLAADADWRNVVLTHNGKDTKISLYALMQKGDLTQNHLLYHGDILFIPSNDDLKVFVM</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350         </span>
+<span class="topo-line"><span class="topo-outside">GEVGKQSTLKMDRSGMTLAEALGNAEGISQEMSDATGIFVVRQLKGDRTGKIADIYQLNAQDASAMVLGTEFQLQPYDIVYVTTA</span><span class="topo-unknown">PLVRWNRVI</span><span class="topo-membrane">SQLVPTISGVHDMTETVRYI</span><span class="topo-inside">KR</span><span class="topo-unknown">WPN</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -229,6 +232,7 @@ Wza is an outer membrane lipoprotein from Escherichia coli that forms an octamer
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -244,12 +248,13 @@ Wza is an outer membrane lipoprotein from Escherichia coli that forms an octamer
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">CTIIPGQGLNSLRKNVVELPDSDYDLDKLVNVYPMTPGLIDQLRPEPVIARSNPQLDNLL</span></span>
-<span class="topo-line"><span class="topo-outside">KSYEYRIGVGDVLMVTVWDHPELTTPAGQYRSASDTGNWVNSDGTIFYPYIGKVQVAGKT</span></span>
-<span class="topo-line"><span class="topo-outside">VSQVRQDITSRLTTYIESPQVDVSIAAFRSQKVYVTGEVANSGKQAITNIPLTVMDAINA</span></span>
-<span class="topo-line"><span class="topo-outside">AGGLAADADWRNVVLTHNGKDTKISLYALMQKGDLTQNHLLYHGDILFIPSNDDLKVFVM</span></span>
-<span class="topo-line"><span class="topo-outside">GEVGKQSTLKMDRSGMTLAEALGNAEGISQEMSDATGIFVVRQLKGDRTGKIADIYQLNA</span></span>
-<span class="topo-line"><span class="topo-outside">QDASAMVLGTEFQLQPYDIVYVTTA</span><span class="topo-unknown">PLVRWNRVI</span><span class="topo-membrane">SQLVPTISGVHDMTETVRYI</span><span class="topo-inside">KR</span><span class="topo-unknown">WPN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">CTIIPGQGLNSLRKNVVELPDSDYDLDKLVNVYPMTPGLIDQLRPEPVIARSNPQLDNLLKSYEYRIGVGDVLMVTVWDHPELTTPAGQYRSASDTGNWVNSDGTIFYPYIGKVQVAGKT</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">VSQVRQDITSRLTTYIESPQVDVSIAAFRSQKVYVTGEVANSGKQAITNIPLTVMDAINAAGGLAADADWRNVVLTHNGKDTKISLYALMQKGDLTQNHLLYHGDILFIPSNDDLKVFVM</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350         </span>
+<span class="topo-line"><span class="topo-outside">GEVGKQSTLKMDRSGMTLAEALGNAEGISQEMSDATGIFVVRQLKGDRTGKIADIYQLNAQDASAMVLGTEFQLQPYDIVYVTTA</span><span class="topo-unknown">PLVRWNRVI</span><span class="topo-membrane">SQLVPTISGVHDMTETVRYI</span><span class="topo-inside">KR</span><span class="topo-unknown">WPN</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -296,6 +301,7 @@ Wza is an outer membrane lipoprotein from Escherichia coli that forms an octamer
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -311,12 +317,13 @@ Wza is an outer membrane lipoprotein from Escherichia coli that forms an octamer
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">CTIIPGQGLNSLRKNVVELPDSDYDLDKLVNVYPMTPGLIDQLRPEPVIARSNPQLDNLL</span></span>
-<span class="topo-line"><span class="topo-outside">KSYEYRIGVGDVLMVTVWDHPELTTPAGQYRSASDTGNWVNSDGTIFYPYIGKVQVAGKT</span></span>
-<span class="topo-line"><span class="topo-outside">VSQVRQDITSRLTTYIESPQVDVSIAAFRSQKVYVTGEVANSGKQAITNIPLTVMDAINA</span></span>
-<span class="topo-line"><span class="topo-outside">AGGLAADADWRNVVLTHNGKDTKISLYALMQKGDLTQNHLLYHGDILFIPSNDDLKVFVM</span></span>
-<span class="topo-line"><span class="topo-outside">GEVGKQSTLKMDRSGMTLAEALGNAEGISQEMSDATGIFVVRQLKGDRTGKIADIYQLNA</span></span>
-<span class="topo-line"><span class="topo-outside">QDASAMVLGTEFQLQPYDIVYVTTA</span><span class="topo-unknown">PLVRWNRVI</span><span class="topo-outside">SQL</span><span class="topo-membrane">VPTISGVHDMTETVRYI</span><span class="topo-inside">KR</span><span class="topo-unknown">WPN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">CTIIPGQGLNSLRKNVVELPDSDYDLDKLVNVYPMTPGLIDQLRPEPVIARSNPQLDNLLKSYEYRIGVGDVLMVTVWDHPELTTPAGQYRSASDTGNWVNSDGTIFYPYIGKVQVAGKT</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">VSQVRQDITSRLTTYIESPQVDVSIAAFRSQKVYVTGEVANSGKQAITNIPLTVMDAINAAGGLAADADWRNVVLTHNGKDTKISLYALMQKGDLTQNHLLYHGDILFIPSNDDLKVFVM</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350         </span>
+<span class="topo-line"><span class="topo-outside">GEVGKQSTLKMDRSGMTLAEALGNAEGISQEMSDATGIFVVRQLKGDRTGKIADIYQLNAQDASAMVLGTEFQLQPYDIVYVTTA</span><span class="topo-unknown">PLVRWNRVI</span><span class="topo-outside">SQL</span><span class="topo-membrane">VPTISGVHDMTETVRYI</span><span class="topo-inside">KR</span><span class="topo-unknown">WPN</span></span>
+<details class="topo-details"><summary>Topology coordinates (6 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -370,6 +377,7 @@ Wza is an outer membrane lipoprotein from Escherichia coli that forms an octamer
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -385,12 +393,13 @@ Wza is an outer membrane lipoprotein from Escherichia coli that forms an octamer
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">CTIIPGQGLNSLRKNVVELPDSDYDLDKLVNVYPMTPGLIDQLRPEPVIARSNPQLDNLL</span></span>
-<span class="topo-line"><span class="topo-outside">KSYEYRIGVGDVLMVTVWDHPELTTPAGQYRSASDTGNWVNSDGTIFYPYIGKVQVAGKT</span></span>
-<span class="topo-line"><span class="topo-outside">VSQVRQDITSRLTTYIESPQVDVSIAAFRSQKVYVTGEVANSGKQAITNIPLTVMDAINA</span></span>
-<span class="topo-line"><span class="topo-outside">AGGLAADADWRNVVLTHNGKDTKISLYALMQKGDLTQNHLLYHGDILFIPSNDDLKVFVM</span></span>
-<span class="topo-line"><span class="topo-outside">GEVGKQSTLKMDRSGMTLAEALGNAEGISQEMSDATGIFVVRQLKGDRTGKIADIYQLNA</span></span>
-<span class="topo-line"><span class="topo-outside">QDASAMVLGTEFQLQPYDIVYVTTA</span><span class="topo-unknown">PLVRWNRVI</span><span class="topo-outside">SQL</span><span class="topo-membrane">VPTISGVHDMTETVRYI</span><span class="topo-inside">KR</span><span class="topo-unknown">WPN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">CTIIPGQGLNSLRKNVVELPDSDYDLDKLVNVYPMTPGLIDQLRPEPVIARSNPQLDNLLKSYEYRIGVGDVLMVTVWDHPELTTPAGQYRSASDTGNWVNSDGTIFYPYIGKVQVAGKT</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">VSQVRQDITSRLTTYIESPQVDVSIAAFRSQKVYVTGEVANSGKQAITNIPLTVMDAINAAGGLAADADWRNVVLTHNGKDTKISLYALMQKGDLTQNHLLYHGDILFIPSNDDLKVFVM</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350         </span>
+<span class="topo-line"><span class="topo-outside">GEVGKQSTLKMDRSGMTLAEALGNAEGISQEMSDATGIFVVRQLKGDRTGKIADIYQLNAQDASAMVLGTEFQLQPYDIVYVTTA</span><span class="topo-unknown">PLVRWNRVI</span><span class="topo-outside">SQL</span><span class="topo-membrane">VPTISGVHDMTETVRYI</span><span class="topo-inside">KR</span><span class="topo-unknown">WPN</span></span>
+<details class="topo-details"><summary>Topology coordinates (6 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -444,6 +453,7 @@ Wza is an outer membrane lipoprotein from Escherichia coli that forms an octamer
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -459,12 +469,13 @@ Wza is an outer membrane lipoprotein from Escherichia coli that forms an octamer
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">CTIIPGQGLNSLRKNVVELPDSDYDLDKLVNVYPMTPGLIDQLRPEPVIARSNPQLDNLL</span></span>
-<span class="topo-line"><span class="topo-outside">KSYEYRIGVGDVLMVTVWDHPELTTPAGQYRSASDTGNWVNSDGTIFYPYIGKVQVAGKT</span></span>
-<span class="topo-line"><span class="topo-outside">VSQVRQDITSRLTTYIESPQVDVSIAAFRSQKVYVTGEVANSGKQAITNIPLTVMDAINA</span></span>
-<span class="topo-line"><span class="topo-outside">AGGLAADADWRNVVLTHNGKDTKISLYALMQKGDLTQNHLLYHGDILFIPSNDDLKVFVM</span></span>
-<span class="topo-line"><span class="topo-outside">GEVGKQSTLKMDRSGMTLAEALGNAEGISQEMSDATGIFVVRQLKGDRTGKIADIYQLNA</span></span>
-<span class="topo-line"><span class="topo-outside">QDASAMVLGTEFQLQPYDIVYVTTA</span><span class="topo-unknown">PLVRWNRVI</span><span class="topo-membrane">SQLVPTISGVHDMTETVRYI</span><span class="topo-inside">KR</span><span class="topo-unknown">WPN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">CTIIPGQGLNSLRKNVVELPDSDYDLDKLVNVYPMTPGLIDQLRPEPVIARSNPQLDNLLKSYEYRIGVGDVLMVTVWDHPELTTPAGQYRSASDTGNWVNSDGTIFYPYIGKVQVAGKT</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">VSQVRQDITSRLTTYIESPQVDVSIAAFRSQKVYVTGEVANSGKQAITNIPLTVMDAINAAGGLAADADWRNVVLTHNGKDTKISLYALMQKGDLTQNHLLYHGDILFIPSNDDLKVFVM</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350         </span>
+<span class="topo-line"><span class="topo-outside">GEVGKQSTLKMDRSGMTLAEALGNAEGISQEMSDATGIFVVRQLKGDRTGKIADIYQLNAQDASAMVLGTEFQLQPYDIVYVTTA</span><span class="topo-unknown">PLVRWNRVI</span><span class="topo-membrane">SQLVPTISGVHDMTETVRYI</span><span class="topo-inside">KR</span><span class="topo-unknown">WPN</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -511,6 +522,7 @@ Wza is an outer membrane lipoprotein from Escherichia coli that forms an octamer
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -526,12 +538,13 @@ Wza is an outer membrane lipoprotein from Escherichia coli that forms an octamer
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">CTIIPGQGLNSLRKNVVELPDSDYDLDKLVNVYPMTPGLIDQLRPEPVIARSNPQLDNLL</span></span>
-<span class="topo-line"><span class="topo-outside">KSYEYRIGVGDVLMVTVWDHPELTTPAGQYRSASDTGNWVNSDGTIFYPYIGKVQVAGKT</span></span>
-<span class="topo-line"><span class="topo-outside">VSQVRQDITSRLTTYIESPQVDVSIAAFRSQKVYVTGEVANSGKQAITNIPLTVMDAINA</span></span>
-<span class="topo-line"><span class="topo-outside">AGGLAADADWRNVVLTHNGKDTKISLYALMQKGDLTQNHLLYHGDILFIPSNDDLKVFVM</span></span>
-<span class="topo-line"><span class="topo-outside">GEVGKQSTLKMDRSGMTLAEALGNAEGISQEMSDATGIFVVRQLKGDRTGKIADIYQLNA</span></span>
-<span class="topo-line"><span class="topo-outside">QDASAMVLGTEFQLQPYDIVYVTTA</span><span class="topo-unknown">PLVRWNRVI</span><span class="topo-outside">SQL</span><span class="topo-membrane">VPTISGVHDMTETVRYI</span><span class="topo-inside">KR</span><span class="topo-unknown">WPN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">CTIIPGQGLNSLRKNVVELPDSDYDLDKLVNVYPMTPGLIDQLRPEPVIARSNPQLDNLLKSYEYRIGVGDVLMVTVWDHPELTTPAGQYRSASDTGNWVNSDGTIFYPYIGKVQVAGKT</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">VSQVRQDITSRLTTYIESPQVDVSIAAFRSQKVYVTGEVANSGKQAITNIPLTVMDAINAAGGLAADADWRNVVLTHNGKDTKISLYALMQKGDLTQNHLLYHGDILFIPSNDDLKVFVM</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350         </span>
+<span class="topo-line"><span class="topo-outside">GEVGKQSTLKMDRSGMTLAEALGNAEGISQEMSDATGIFVVRQLKGDRTGKIADIYQLNAQDASAMVLGTEFQLQPYDIVYVTTA</span><span class="topo-unknown">PLVRWNRVI</span><span class="topo-outside">SQL</span><span class="topo-membrane">VPTISGVHDMTETVRYI</span><span class="topo-inside">KR</span><span class="topo-unknown">WPN</span></span>
+<details class="topo-details"><summary>Topology coordinates (6 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -585,6 +598,7 @@ Wza is an outer membrane lipoprotein from Escherichia coli that forms an octamer
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -600,12 +614,13 @@ Wza is an outer membrane lipoprotein from Escherichia coli that forms an octamer
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">CTIIPGQGLNSLRKNVVELPDSDYDLDKLVNVYPMTPGLIDQLRPEPVIARSNPQLDNLL</span></span>
-<span class="topo-line"><span class="topo-outside">KSYEYRIGVGDVLMVTVWDHPELTTPAGQYRSASDTGNWVNSDGTIFYPYIGKVQVAGKT</span></span>
-<span class="topo-line"><span class="topo-outside">VSQVRQDITSRLTTYIESPQVDVSIAAFRSQKVYVTGEVANSGKQAITNIPLTVMDAINA</span></span>
-<span class="topo-line"><span class="topo-outside">AGGLAADADWRNVVLTHNGKDTKISLYALMQKGDLTQNHLLYHGDILFIPSNDDLKVFVM</span></span>
-<span class="topo-line"><span class="topo-outside">GEVGKQSTLKMDRSGMTLAEALGNAEGISQEMSDATGIFVVRQLKGDRTGKIADIYQLNA</span></span>
-<span class="topo-line"><span class="topo-outside">QDASAMVLGTEFQLQPYDIVYVTTA</span><span class="topo-unknown">PLVRWNRVI</span><span class="topo-membrane">SQLVPTISGVHDMTETVRYI</span><span class="topo-inside">KR</span><span class="topo-unknown">WPN</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">CTIIPGQGLNSLRKNVVELPDSDYDLDKLVNVYPMTPGLIDQLRPEPVIARSNPQLDNLLKSYEYRIGVGDVLMVTVWDHPELTTPAGQYRSASDTGNWVNSDGTIFYPYIGKVQVAGKT</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">VSQVRQDITSRLTTYIESPQVDVSIAAFRSQKVYVTGEVANSGKQAITNIPLTVMDAINAAGGLAADADWRNVVLTHNGKDTKISLYALMQKGDLTQNHLLYHGDILFIPSNDDLKVFVM</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350         </span>
+<span class="topo-line"><span class="topo-outside">GEVGKQSTLKMDRSGMTLAEALGNAEGISQEMSDATGIFVVRQLKGDRTGKIADIYQLNAQDASAMVLGTEFQLQPYDIVYVTTA</span><span class="topo-unknown">PLVRWNRVI</span><span class="topo-membrane">SQLVPTISGVHDMTETVRYI</span><span class="topo-inside">KR</span><span class="topo-unknown">WPN</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -652,6 +667,7 @@ Wza is an outer membrane lipoprotein from Escherichia coli that forms an octamer
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

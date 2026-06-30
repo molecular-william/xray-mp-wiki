@@ -147,10 +147,11 @@ Synechocystis [Halorhodopsin (HR) from Halobacterium salinarum](/xray-mp-wiki/pr
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">?AQIW</span><span class="topo-membrane">LWIGVIGMALGSIFFGI</span><span class="topo-inside">GAHNAKNERWKILFTI</span><span class="topo-membrane">NFFICAIATGLYLS</span><span class="topo-outside">MALGQGRS</span></span>
-<span class="topo-line"><span class="topo-outside">VIAGRPTVWV</span><span class="topo-membrane">RYITWFLSTPLLIL</span><span class="topo-inside">DLTFLGKTSLPITA</span><span class="topo-membrane">SLLGANAYMIATGFV</span><span class="topo-outside">ATISADR</span></span>
-<span class="topo-line"><span class="topo-outside">TIGHIW</span><span class="topo-membrane">YVVSCFAFLATVYL</span><span class="topo-inside">LVNQYRKQAERNYPQAKKVFRKLLS</span><span class="topo-membrane">VHLVLWTLYPIVW</span><span class="topo-outside">LL</span></span>
-<span class="topo-line"><span class="topo-outside">GNTGFNAVNQGTETM</span><span class="topo-membrane">FYTILDITS?VGFGF</span><span class="topo-inside">LSLNSMHTLEKNTES</span><span class="topo-unknown">VSSYESSTI</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">?AQIW</span><span class="topo-membrane">LWIGVIGMALGSIFFGI</span><span class="topo-inside">GAHNAKNERWKILFTI</span><span class="topo-membrane">NFFICAIATGLYLS</span><span class="topo-outside">MALGQGRSVIAGRPTVWV</span><span class="topo-membrane">RYITWFLSTPLLIL</span><span class="topo-inside">DLTFLGKTSLPITA</span><span class="topo-membrane">SLLGANAYMIATGFV</span><span class="topo-outside">ATISADR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230    </span>
+<span class="topo-line"><span class="topo-outside">TIGHIW</span><span class="topo-membrane">YVVSCFAFLATVYL</span><span class="topo-inside">LVNQYRKQAERNYPQAKKVFRKLLS</span><span class="topo-membrane">VHLVLWTLYPIVW</span><span class="topo-outside">LLGNTGFNAVNQGTETM</span><span class="topo-membrane">FYTILDITS?VGFGF</span><span class="topo-inside">LSLNSMHTLEKNTES</span><span class="topo-unknown">VSSYESSTI</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -274,6 +275,7 @@ Synechocystis [Halorhodopsin (HR) from Halobacterium salinarum](/xray-mp-wiki/pr
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -289,10 +291,11 @@ Synechocystis [Halorhodopsin (HR) from Halobacterium salinarum](/xray-mp-wiki/pr
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">?AQIW</span><span class="topo-membrane">LWIGVIGMALGSIFFGI</span><span class="topo-inside">GAHNAKNERWKILFTI</span><span class="topo-membrane">NFFICAIATGLYLS</span><span class="topo-outside">MALGQGRS</span></span>
-<span class="topo-line"><span class="topo-outside">VIAGRPTVWV</span><span class="topo-membrane">RYITWFLSTPLLIL</span><span class="topo-inside">DLTFLGKTSLPITA</span><span class="topo-membrane">SLLGANAYMIATGFV</span><span class="topo-outside">ATISADR</span></span>
-<span class="topo-line"><span class="topo-outside">TIGHIW</span><span class="topo-membrane">YVVSCFAFLATVYL</span><span class="topo-inside">LVNQYRKQAERNYPQAKKVFRKLLS</span><span class="topo-membrane">VHLVLWTLYPIVW</span><span class="topo-outside">LL</span></span>
-<span class="topo-line"><span class="topo-outside">GNTGFNAVNQGTETM</span><span class="topo-membrane">FYTILDITS?VGFGF</span><span class="topo-inside">LSLNSMHTLEKNTES</span><span class="topo-unknown">VSSYESSTI</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">?AQIW</span><span class="topo-membrane">LWIGVIGMALGSIFFGI</span><span class="topo-inside">GAHNAKNERWKILFTI</span><span class="topo-membrane">NFFICAIATGLYLS</span><span class="topo-outside">MALGQGRSVIAGRPTVWV</span><span class="topo-membrane">RYITWFLSTPLLIL</span><span class="topo-inside">DLTFLGKTSLPITA</span><span class="topo-membrane">SLLGANAYMIATGFV</span><span class="topo-outside">ATISADR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230    </span>
+<span class="topo-line"><span class="topo-outside">TIGHIW</span><span class="topo-membrane">YVVSCFAFLATVYL</span><span class="topo-inside">LVNQYRKQAERNYPQAKKVFRKLLS</span><span class="topo-membrane">VHLVLWTLYPIVW</span><span class="topo-outside">LLGNTGFNAVNQGTETM</span><span class="topo-membrane">FYTILDITS?VGFGF</span><span class="topo-inside">LSLNSMHTLEKNTES</span><span class="topo-unknown">VSSYESSTI</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -416,6 +419,7 @@ Synechocystis [Halorhodopsin (HR) from Halobacterium salinarum](/xray-mp-wiki/pr
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -431,10 +435,11 @@ Synechocystis [Halorhodopsin (HR) from Halobacterium salinarum](/xray-mp-wiki/pr
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">?AQIW</span><span class="topo-membrane">LWIGVIGMALGSIFFGI</span><span class="topo-inside">GAHNAKNERWKILFTI</span><span class="topo-membrane">NFFICAIATGLYLS</span><span class="topo-outside">MALGQGRS</span></span>
-<span class="topo-line"><span class="topo-outside">VIAGRPTVWV</span><span class="topo-membrane">RYITWFLSTPLLIL</span><span class="topo-inside">DLTFLGKTSLPITA</span><span class="topo-membrane">SLLGANAYMIATGFV</span><span class="topo-outside">ATISADR</span></span>
-<span class="topo-line"><span class="topo-outside">TIGHIW</span><span class="topo-membrane">YVVSCFAFLATVYL</span><span class="topo-inside">LVNQYRKQAERNYPQAKKVFRKLLS</span><span class="topo-membrane">VHLVLWTLYPIVW</span><span class="topo-outside">LL</span></span>
-<span class="topo-line"><span class="topo-outside">GNTGFNAVNQGTETM</span><span class="topo-membrane">FYTILDITS?VGFGF</span><span class="topo-inside">LSLNSMHTLEKNTES</span><span class="topo-unknown">VSSYESSTI</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">?AQIW</span><span class="topo-membrane">LWIGVIGMALGSIFFGI</span><span class="topo-inside">GAHNAKNERWKILFTI</span><span class="topo-membrane">NFFICAIATGLYLS</span><span class="topo-outside">MALGQGRSVIAGRPTVWV</span><span class="topo-membrane">RYITWFLSTPLLIL</span><span class="topo-inside">DLTFLGKTSLPITA</span><span class="topo-membrane">SLLGANAYMIATGFV</span><span class="topo-outside">ATISADR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230    </span>
+<span class="topo-line"><span class="topo-outside">TIGHIW</span><span class="topo-membrane">YVVSCFAFLATVYL</span><span class="topo-inside">LVNQYRKQAERNYPQAKKVFRKLLS</span><span class="topo-membrane">VHLVLWTLYPIVW</span><span class="topo-outside">LLGNTGFNAVNQGTETM</span><span class="topo-membrane">FYTILDITS?VGFGF</span><span class="topo-inside">LSLNSMHTLEKNTES</span><span class="topo-unknown">VSSYESSTI</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -558,6 +563,7 @@ Synechocystis [Halorhodopsin (HR) from Halobacterium salinarum](/xray-mp-wiki/pr
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -573,10 +579,11 @@ Synechocystis [Halorhodopsin (HR) from Halobacterium salinarum](/xray-mp-wiki/pr
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">?AQIW</span><span class="topo-membrane">LWIGVIGMALGSIFFGI</span><span class="topo-inside">GAHNAKNERWKILFTI</span><span class="topo-membrane">NFFICAIATGLYLSMA</span><span class="topo-outside">LGQGRS</span></span>
-<span class="topo-line"><span class="topo-outside">VIAGRPTVW</span><span class="topo-membrane">VRYITWFLSTPLLIL</span><span class="topo-inside">DLTFLGKTSLPITA</span><span class="topo-membrane">SLLGANAYMIATGFVAT</span><span class="topo-outside">ISADR</span></span>
-<span class="topo-line"><span class="topo-outside">TIGH</span><span class="topo-membrane">IWYVVSCFAFLATVYL</span><span class="topo-inside">LVNQYRKQAERNYPQAKKVFRKLLS</span><span class="topo-membrane">VHLVLWTLYPIVWL</span><span class="topo-outside">L</span></span>
-<span class="topo-line"><span class="topo-outside">GNTGFNAVNQGTE</span><span class="topo-membrane">TMFYTILDITS?VGFGF</span><span class="topo-inside">LSLNSMHTLEKNTES</span><span class="topo-unknown">VSSYESSTI</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">?AQIW</span><span class="topo-membrane">LWIGVIGMALGSIFFGI</span><span class="topo-inside">GAHNAKNERWKILFTI</span><span class="topo-membrane">NFFICAIATGLYLSMA</span><span class="topo-outside">LGQGRSVIAGRPTVW</span><span class="topo-membrane">VRYITWFLSTPLLIL</span><span class="topo-inside">DLTFLGKTSLPITA</span><span class="topo-membrane">SLLGANAYMIATGFVAT</span><span class="topo-outside">ISADR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230    </span>
+<span class="topo-line"><span class="topo-outside">TIGH</span><span class="topo-membrane">IWYVVSCFAFLATVYL</span><span class="topo-inside">LVNQYRKQAERNYPQAKKVFRKLLS</span><span class="topo-membrane">VHLVLWTLYPIVWL</span><span class="topo-outside">LGNTGFNAVNQGTE</span><span class="topo-membrane">TMFYTILDITS?VGFGF</span><span class="topo-inside">LSLNSMHTLEKNTES</span><span class="topo-unknown">VSSYESSTI</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -700,6 +707,7 @@ Synechocystis [Halorhodopsin (HR) from Halobacterium salinarum](/xray-mp-wiki/pr
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -715,10 +723,11 @@ Synechocystis [Halorhodopsin (HR) from Halobacterium salinarum](/xray-mp-wiki/pr
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">?AQIW</span><span class="topo-membrane">LWIGVIGMALGSIFFGI</span><span class="topo-inside">GAHNAKNERWKILFTI</span><span class="topo-membrane">NFFICAIATGLYLSMA</span><span class="topo-outside">LGQGRS</span></span>
-<span class="topo-line"><span class="topo-outside">VIAGRPTVW</span><span class="topo-membrane">VRYITWFLSTPLLIL</span><span class="topo-inside">DLTFLGKTSLPITA</span><span class="topo-membrane">SLLGANAYMIATGFVAT</span><span class="topo-outside">ISADR</span></span>
-<span class="topo-line"><span class="topo-outside">TIGH</span><span class="topo-membrane">IWYVVSCFAFLATVYL</span><span class="topo-inside">LVNQYRKQAERNYPQAKKVFRKLLS</span><span class="topo-membrane">VHLVLWTLYPIVWL</span><span class="topo-outside">L</span></span>
-<span class="topo-line"><span class="topo-outside">GNTGFNAVNQGTE</span><span class="topo-membrane">TMFYTILDITS?VGFGF</span><span class="topo-inside">LSLNSMHTLEKNTES</span><span class="topo-unknown">VSSYESSTI</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">?AQIW</span><span class="topo-membrane">LWIGVIGMALGSIFFGI</span><span class="topo-inside">GAHNAKNERWKILFTI</span><span class="topo-membrane">NFFICAIATGLYLSMA</span><span class="topo-outside">LGQGRSVIAGRPTVW</span><span class="topo-membrane">VRYITWFLSTPLLIL</span><span class="topo-inside">DLTFLGKTSLPITA</span><span class="topo-membrane">SLLGANAYMIATGFVAT</span><span class="topo-outside">ISADR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230    </span>
+<span class="topo-line"><span class="topo-outside">TIGH</span><span class="topo-membrane">IWYVVSCFAFLATVYL</span><span class="topo-inside">LVNQYRKQAERNYPQAKKVFRKLLS</span><span class="topo-membrane">VHLVLWTLYPIVWL</span><span class="topo-outside">LGNTGFNAVNQGTE</span><span class="topo-membrane">TMFYTILDITS?VGFGF</span><span class="topo-inside">LSLNSMHTLEKNTES</span><span class="topo-unknown">VSSYESSTI</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -842,6 +851,7 @@ Synechocystis [Halorhodopsin (HR) from Halobacterium salinarum](/xray-mp-wiki/pr
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -857,10 +867,11 @@ Synechocystis [Halorhodopsin (HR) from Halobacterium salinarum](/xray-mp-wiki/pr
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">?AQIW</span><span class="topo-membrane">LWIGVIGMALGSIFFGI</span><span class="topo-inside">GAHNAKNERWKILFTI</span><span class="topo-membrane">NFFICAIATGLYLSMA</span><span class="topo-outside">LGQGRS</span></span>
-<span class="topo-line"><span class="topo-outside">VIAGRPTVW</span><span class="topo-membrane">VRYITWFLSTPLLIL</span><span class="topo-inside">DLTFLGKTSLPITA</span><span class="topo-membrane">SLLGANAYMIATGFVAT</span><span class="topo-outside">ISADR</span></span>
-<span class="topo-line"><span class="topo-outside">TIGH</span><span class="topo-membrane">IWYVVSCFAFLATVYL</span><span class="topo-inside">LVNQYRKQAERNYPQAKKVFRKLLS</span><span class="topo-membrane">VHLVLWTLYPIVWL</span><span class="topo-outside">L</span></span>
-<span class="topo-line"><span class="topo-outside">GNTGFNAVNQGTE</span><span class="topo-membrane">TMFYTILDITS?VGFGF</span><span class="topo-inside">LSLNSMHTLEKNTES</span><span class="topo-unknown">VSSYESSTI</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">?AQIW</span><span class="topo-membrane">LWIGVIGMALGSIFFGI</span><span class="topo-inside">GAHNAKNERWKILFTI</span><span class="topo-membrane">NFFICAIATGLYLSMA</span><span class="topo-outside">LGQGRSVIAGRPTVW</span><span class="topo-membrane">VRYITWFLSTPLLIL</span><span class="topo-inside">DLTFLGKTSLPITA</span><span class="topo-membrane">SLLGANAYMIATGFVAT</span><span class="topo-outside">ISADR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230    </span>
+<span class="topo-line"><span class="topo-outside">TIGH</span><span class="topo-membrane">IWYVVSCFAFLATVYL</span><span class="topo-inside">LVNQYRKQAERNYPQAKKVFRKLLS</span><span class="topo-membrane">VHLVLWTLYPIVWL</span><span class="topo-outside">LGNTGFNAVNQGTE</span><span class="topo-membrane">TMFYTILDITS?VGFGF</span><span class="topo-inside">LSLNSMHTLEKNTES</span><span class="topo-unknown">VSSYESSTI</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -984,6 +995,7 @@ Synechocystis [Halorhodopsin (HR) from Halobacterium salinarum](/xray-mp-wiki/pr
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -999,10 +1011,11 @@ Synechocystis [Halorhodopsin (HR) from Halobacterium salinarum](/xray-mp-wiki/pr
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">?AQIW</span><span class="topo-membrane">LWIGVIGMALGSIFFGIGAHN</span><span class="topo-outside">AKNERWK</span><span class="topo-membrane">ILFTINFFICAIATGLYLSMA</span><span class="topo-inside">LGQGRS</span></span>
-<span class="topo-line"><span class="topo-inside">VIAGRPTVW</span><span class="topo-membrane">VRYITWFLSTPLLILDLTFL</span><span class="topo-outside">GKTSL</span><span class="topo-membrane">PITASLLGANAYMIATGFVAT</span><span class="topo-inside">ISADR</span></span>
-<span class="topo-line"><span class="topo-inside">TIGH</span><span class="topo-membrane">IWYVVSCFAFLATVYLLVNQYR</span><span class="topo-outside">KQAERNYPQAKKV</span><span class="topo-membrane">FRKLLSVHLVLWTLYPIVWLL</span></span>
-<span class="topo-line"><span class="topo-inside">GNTGFNAVNQGTE</span><span class="topo-membrane">TMFYTILDITS?VGFGFLSLNS</span><span class="topo-outside">MHTLEKNTES</span><span class="topo-unknown">VSSYESSTI</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">?AQIW</span><span class="topo-membrane">LWIGVIGMALGSIFFGIGAHN</span><span class="topo-outside">AKNERWK</span><span class="topo-membrane">ILFTINFFICAIATGLYLSMA</span><span class="topo-inside">LGQGRSVIAGRPTVW</span><span class="topo-membrane">VRYITWFLSTPLLILDLTFL</span><span class="topo-outside">GKTSL</span><span class="topo-membrane">PITASLLGANAYMIATGFVAT</span><span class="topo-inside">ISADR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230    </span>
+<span class="topo-line"><span class="topo-inside">TIGH</span><span class="topo-membrane">IWYVVSCFAFLATVYLLVNQYR</span><span class="topo-outside">KQAERNYPQAKKV</span><span class="topo-membrane">FRKLLSVHLVLWTLYPIVWLL</span><span class="topo-inside">GNTGFNAVNQGTE</span><span class="topo-membrane">TMFYTILDITS?VGFGFLSLNS</span><span class="topo-outside">MHTLEKNTES</span><span class="topo-unknown">VSSYESSTI</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1126,6 +1139,7 @@ Synechocystis [Halorhodopsin (HR) from Halobacterium salinarum](/xray-mp-wiki/pr
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1141,10 +1155,11 @@ Synechocystis [Halorhodopsin (HR) from Halobacterium salinarum](/xray-mp-wiki/pr
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">?AQIW</span><span class="topo-membrane">LWIGVIGMALGSIFFGIGAHN</span><span class="topo-outside">AKNERWK</span><span class="topo-membrane">ILFTINFFICAIATGLYLSMA</span><span class="topo-inside">LGQGRS</span></span>
-<span class="topo-line"><span class="topo-inside">VIAGRPTVW</span><span class="topo-membrane">VRYITWFLSTPLLILDLTFL</span><span class="topo-outside">GKTSL</span><span class="topo-membrane">PITASLLGANAYMIATGFVAT</span><span class="topo-inside">ISADR</span></span>
-<span class="topo-line"><span class="topo-inside">TIGH</span><span class="topo-membrane">IWYVVSCFAFLATVYLLVNQYR</span><span class="topo-outside">KQAERNYPQAKKV</span><span class="topo-membrane">FRKLLSVHLVLWTLYPIVWLL</span></span>
-<span class="topo-line"><span class="topo-inside">GNTGFNAVNQGTE</span><span class="topo-membrane">TMFYTILDITS?VGFGFLSLNS</span><span class="topo-outside">MHTLEKNTES</span><span class="topo-unknown">VSSYESSTI</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">?AQIW</span><span class="topo-membrane">LWIGVIGMALGSIFFGIGAHN</span><span class="topo-outside">AKNERWK</span><span class="topo-membrane">ILFTINFFICAIATGLYLSMA</span><span class="topo-inside">LGQGRSVIAGRPTVW</span><span class="topo-membrane">VRYITWFLSTPLLILDLTFL</span><span class="topo-outside">GKTSL</span><span class="topo-membrane">PITASLLGANAYMIATGFVAT</span><span class="topo-inside">ISADR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230    </span>
+<span class="topo-line"><span class="topo-inside">TIGH</span><span class="topo-membrane">IWYVVSCFAFLATVYLLVNQYR</span><span class="topo-outside">KQAERNYPQAKKV</span><span class="topo-membrane">FRKLLSVHLVLWTLYPIVWLL</span><span class="topo-inside">GNTGFNAVNQGTE</span><span class="topo-membrane">TMFYTILDITS?VGFGFLSLNS</span><span class="topo-outside">MHTLEKNTES</span><span class="topo-unknown">VSSYESSTI</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1268,6 +1283,7 @@ Synechocystis [Halorhodopsin (HR) from Halobacterium salinarum](/xray-mp-wiki/pr
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1283,10 +1299,11 @@ Synechocystis [Halorhodopsin (HR) from Halobacterium salinarum](/xray-mp-wiki/pr
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">?AQIW</span><span class="topo-membrane">LWIGVIGMALGSIFFGIGAHN</span><span class="topo-outside">AKNERWK</span><span class="topo-membrane">ILFTINFFICAIATGLYLSMA</span><span class="topo-inside">LGQGRS</span></span>
-<span class="topo-line"><span class="topo-inside">VIAGRPTVW</span><span class="topo-membrane">VRYITWFLSTPLLILDLTFL</span><span class="topo-outside">GKTSL</span><span class="topo-membrane">PITASLLGANAYMIATGFVAT</span><span class="topo-inside">ISADR</span></span>
-<span class="topo-line"><span class="topo-inside">TIGH</span><span class="topo-membrane">IWYVVSCFAFLATVYLLVNQYR</span><span class="topo-outside">KQAERNYPQAKKV</span><span class="topo-membrane">FRKLLSVHLVLWTLYPIVWLL</span></span>
-<span class="topo-line"><span class="topo-inside">GNTGFNAVNQGTE</span><span class="topo-membrane">TMFYTILDITS?VGFGFLSLNS</span><span class="topo-outside">MHTLEKNTES</span><span class="topo-unknown">VSSYESSTI</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">?AQIW</span><span class="topo-membrane">LWIGVIGMALGSIFFGIGAHN</span><span class="topo-outside">AKNERWK</span><span class="topo-membrane">ILFTINFFICAIATGLYLSMA</span><span class="topo-inside">LGQGRSVIAGRPTVW</span><span class="topo-membrane">VRYITWFLSTPLLILDLTFL</span><span class="topo-outside">GKTSL</span><span class="topo-membrane">PITASLLGANAYMIATGFVAT</span><span class="topo-inside">ISADR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230    </span>
+<span class="topo-line"><span class="topo-inside">TIGH</span><span class="topo-membrane">IWYVVSCFAFLATVYLLVNQYR</span><span class="topo-outside">KQAERNYPQAKKV</span><span class="topo-membrane">FRKLLSVHLVLWTLYPIVWLL</span><span class="topo-inside">GNTGFNAVNQGTE</span><span class="topo-membrane">TMFYTILDITS?VGFGFLSLNS</span><span class="topo-outside">MHTLEKNTES</span><span class="topo-unknown">VSSYESSTI</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1410,6 +1427,7 @@ Synechocystis [Halorhodopsin (HR) from Halobacterium salinarum](/xray-mp-wiki/pr
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1425,10 +1443,11 @@ Synechocystis [Halorhodopsin (HR) from Halobacterium salinarum](/xray-mp-wiki/pr
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">?AQI</span><span class="topo-membrane">WLWIGVIGMALGSIFFGIGAHNA</span><span class="topo-inside">KNERWK</span><span class="topo-membrane">ILFTINFFICAIATGLYLSMA</span><span class="topo-outside">LGQGRS</span></span>
-<span class="topo-line"><span class="topo-outside">VIAGRPTVW</span><span class="topo-membrane">VRYITWFLSTPLLILDLTFL</span><span class="topo-inside">GKTSL</span><span class="topo-membrane">PITASLLGANAYMIATGFVAT</span><span class="topo-outside">ISADR</span></span>
-<span class="topo-line"><span class="topo-outside">TIGH</span><span class="topo-membrane">IWYVVSCFAFLATVYLLVNQYR</span><span class="topo-inside">KQAERNYPQAKKV</span><span class="topo-membrane">FRKLLSVHLVLWTLYPIVWLL</span></span>
-<span class="topo-line"><span class="topo-outside">GNTGFNAVNQGTE</span><span class="topo-membrane">TMFYTILDITS?VGFGFLSLNS</span><span class="topo-inside">MHTLEKNTESV</span><span class="topo-unknown">SSYESSTI</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">?AQI</span><span class="topo-membrane">WLWIGVIGMALGSIFFGIGAHNA</span><span class="topo-inside">KNERWK</span><span class="topo-membrane">ILFTINFFICAIATGLYLSMA</span><span class="topo-outside">LGQGRSVIAGRPTVW</span><span class="topo-membrane">VRYITWFLSTPLLILDLTFL</span><span class="topo-inside">GKTSL</span><span class="topo-membrane">PITASLLGANAYMIATGFVAT</span><span class="topo-outside">ISADR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230    </span>
+<span class="topo-line"><span class="topo-outside">TIGH</span><span class="topo-membrane">IWYVVSCFAFLATVYLLVNQYR</span><span class="topo-inside">KQAERNYPQAKKV</span><span class="topo-membrane">FRKLLSVHLVLWTLYPIVWLL</span><span class="topo-outside">GNTGFNAVNQGTE</span><span class="topo-membrane">TMFYTILDITS?VGFGFLSLNS</span><span class="topo-inside">MHTLEKNTESV</span><span class="topo-unknown">SSYESSTI</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1552,6 +1571,7 @@ Synechocystis [Halorhodopsin (HR) from Halobacterium salinarum](/xray-mp-wiki/pr
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1567,10 +1587,11 @@ Synechocystis [Halorhodopsin (HR) from Halobacterium salinarum](/xray-mp-wiki/pr
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">?AQI</span><span class="topo-membrane">WLWIGVIGMALGSIFFGIGAHNA</span><span class="topo-inside">KNERWK</span><span class="topo-membrane">ILFTINFFICAIATGLYLSMA</span><span class="topo-outside">LGQGRS</span></span>
-<span class="topo-line"><span class="topo-outside">VIAGRPTVW</span><span class="topo-membrane">VRYITWFLSTPLLILDLTFL</span><span class="topo-inside">GKTSL</span><span class="topo-membrane">PITASLLGANAYMIATGFVAT</span><span class="topo-outside">ISADR</span></span>
-<span class="topo-line"><span class="topo-outside">TIGH</span><span class="topo-membrane">IWYVVSCFAFLATVYLLVNQYR</span><span class="topo-inside">KQAERNYPQAKKV</span><span class="topo-membrane">FRKLLSVHLVLWTLYPIVWLL</span></span>
-<span class="topo-line"><span class="topo-outside">GNTGFNAVNQGTE</span><span class="topo-membrane">TMFYTILDITS?VGFGFLSLNS</span><span class="topo-inside">MHTLEKNTESV</span><span class="topo-unknown">SSYESSTI</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">?AQI</span><span class="topo-membrane">WLWIGVIGMALGSIFFGIGAHNA</span><span class="topo-inside">KNERWK</span><span class="topo-membrane">ILFTINFFICAIATGLYLSMA</span><span class="topo-outside">LGQGRSVIAGRPTVW</span><span class="topo-membrane">VRYITWFLSTPLLILDLTFL</span><span class="topo-inside">GKTSL</span><span class="topo-membrane">PITASLLGANAYMIATGFVAT</span><span class="topo-outside">ISADR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230    </span>
+<span class="topo-line"><span class="topo-outside">TIGH</span><span class="topo-membrane">IWYVVSCFAFLATVYLLVNQYR</span><span class="topo-inside">KQAERNYPQAKKV</span><span class="topo-membrane">FRKLLSVHLVLWTLYPIVWLL</span><span class="topo-outside">GNTGFNAVNQGTE</span><span class="topo-membrane">TMFYTILDITS?VGFGFLSLNS</span><span class="topo-inside">MHTLEKNTESV</span><span class="topo-unknown">SSYESSTI</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1694,6 +1715,7 @@ Synechocystis [Halorhodopsin (HR) from Halobacterium salinarum](/xray-mp-wiki/pr
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1709,10 +1731,11 @@ Synechocystis [Halorhodopsin (HR) from Halobacterium salinarum](/xray-mp-wiki/pr
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">?AQI</span><span class="topo-membrane">WLWIGVIGMALGSIFFGIGAHNA</span><span class="topo-inside">KNERWK</span><span class="topo-membrane">ILFTINFFICAIATGLYLSMA</span><span class="topo-outside">LGQGRS</span></span>
-<span class="topo-line"><span class="topo-outside">VIAGRPTVW</span><span class="topo-membrane">VRYITWFLSTPLLILDLTFL</span><span class="topo-inside">GKTSL</span><span class="topo-membrane">PITASLLGANAYMIATGFVAT</span><span class="topo-outside">ISADR</span></span>
-<span class="topo-line"><span class="topo-outside">TIGH</span><span class="topo-membrane">IWYVVSCFAFLATVYLLVNQYR</span><span class="topo-inside">KQAERNYPQAKKV</span><span class="topo-membrane">FRKLLSVHLVLWTLYPIVWLL</span></span>
-<span class="topo-line"><span class="topo-outside">GNTGFNAVNQGTE</span><span class="topo-membrane">TMFYTILDITS?VGFGFLSLNS</span><span class="topo-inside">MHTLEKNTESV</span><span class="topo-unknown">SSYESSTI</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">?AQI</span><span class="topo-membrane">WLWIGVIGMALGSIFFGIGAHNA</span><span class="topo-inside">KNERWK</span><span class="topo-membrane">ILFTINFFICAIATGLYLSMA</span><span class="topo-outside">LGQGRSVIAGRPTVW</span><span class="topo-membrane">VRYITWFLSTPLLILDLTFL</span><span class="topo-inside">GKTSL</span><span class="topo-membrane">PITASLLGANAYMIATGFVAT</span><span class="topo-outside">ISADR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230    </span>
+<span class="topo-line"><span class="topo-outside">TIGH</span><span class="topo-membrane">IWYVVSCFAFLATVYLLVNQYR</span><span class="topo-inside">KQAERNYPQAKKV</span><span class="topo-membrane">FRKLLSVHLVLWTLYPIVWLL</span><span class="topo-outside">GNTGFNAVNQGTE</span><span class="topo-membrane">TMFYTILDITS?VGFGFLSLNS</span><span class="topo-inside">MHTLEKNTESV</span><span class="topo-unknown">SSYESSTI</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1836,6 +1859,7 @@ Synechocystis [Halorhodopsin (HR) from Halobacterium salinarum](/xray-mp-wiki/pr
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

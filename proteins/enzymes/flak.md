@@ -161,10 +161,11 @@ FlaK is a preflagellin peptidase (PFP) from the archaeon Methanococcus maripalud
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GSHG</span><span class="topo-inside">SGS</span><span class="topo-membrane">MIEYIIGALGLIIASVQ</span><span class="topo-outside">D</span><span class="topo-unknown">FRSR</span><span class="topo-outside">EI</span><span class="topo-membrane">EDYIWIFLAVFGVLFAIYS</span><span class="topo-inside">SITLLDYSIL</span></span>
-<span class="topo-line"><span class="topo-membrane">INSISGFVICFILGYMMFLSG</span><span class="topo-outside">I</span><span class="topo-membrane">GGGDGKMLIGLGALVPKF</span><span class="topo-inside">QMPIYT</span><span class="topo-unknown">SLGTLL</span><span class="topo-inside">NLNYV</span><span class="topo-membrane">PTF</span></span>
-<span class="topo-line"><span class="topo-membrane">PIMVFINGIFFMVFLPFVILFR</span><span class="topo-outside">NILNGARPKTGKEFILMFFGEKMKVNVAKEQKRLIMGQ</span></span>
-<span class="topo-line"><span class="topo-outside">NDKINFFPA</span><span class="topo-unknown">AD</span><span class="topo-outside">DEDFSKYSNNEEIWVTPQI</span><span class="topo-membrane">PLIIPITLSYLVTPIIGD</span><span class="topo-inside">RILDFLI</span><span class="topo-unknown">PF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GSHG</span><span class="topo-inside">SGS</span><span class="topo-membrane">MIEYIIGALGLIIASVQ</span><span class="topo-outside">D</span><span class="topo-unknown">FRSR</span><span class="topo-outside">EI</span><span class="topo-membrane">EDYIWIFLAVFGVLFAIYS</span><span class="topo-inside">SITLLDYSIL</span><span class="topo-membrane">INSISGFVICFILGYMMFLSG</span><span class="topo-outside">I</span><span class="topo-membrane">GGGDGKMLIGLGALVPKF</span><span class="topo-inside">QMPIYT</span><span class="topo-unknown">SLGTLL</span><span class="topo-inside">NLNYV</span><span class="topo-membrane">PTF</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       </span>
+<span class="topo-line"><span class="topo-membrane">PIMVFINGIFFMVFLPFVILFR</span><span class="topo-outside">NILNGARPKTGKEFILMFFGEKMKVNVAKEQKRLIMGQNDKINFFPA</span><span class="topo-unknown">AD</span><span class="topo-outside">DEDFSKYSNNEEIWVTPQI</span><span class="topo-membrane">PLIIPITLSYLVTPIIGD</span><span class="topo-inside">RILDFLI</span><span class="topo-unknown">PF</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -323,6 +324,7 @@ FlaK is a preflagellin peptidase (PFP) from the archaeon Methanococcus maripalud
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -338,10 +340,11 @@ FlaK is a preflagellin peptidase (PFP) from the archaeon Methanococcus maripalud
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GSHG</span><span class="topo-inside">SGSM</span><span class="topo-membrane">IEYIIGALGLIIASVQDFR</span><span class="topo-outside">SREI</span><span class="topo-membrane">EDYIWIFLAVFGVLFAIY</span><span class="topo-inside">SSITLLDYSIL</span></span>
-<span class="topo-line"><span class="topo-inside">INS</span><span class="topo-membrane">ISGFVICFILGYMMFLSGIGG</span><span class="topo-outside">G</span><span class="topo-membrane">DGKMLIGLGALVP</span><span class="topo-inside">KFQMPIYTSLGTLLNLNYVP</span><span class="topo-membrane">TF</span></span>
-<span class="topo-line"><span class="topo-membrane">PIMVFINGIFFMVFLPFVILFR</span><span class="topo-outside">NILNGARPK</span><span class="topo-unknown">TGKEF</span><span class="topo-outside">ILMFFGEKM</span><span class="topo-unknown">KVNVAKEQKRLIMGQ</span></span>
-<span class="topo-line"><span class="topo-unknown">NDKINFFPAADDEDFSKYSNNEEIW</span><span class="topo-outside">VTPQ</span><span class="topo-membrane">IPLIIPITLSYLVTP</span><span class="topo-inside">IIGD</span><span class="topo-unknown">RILDFL</span><span class="topo-inside">I</span><span class="topo-unknown">PF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GSHG</span><span class="topo-inside">SGSM</span><span class="topo-membrane">IEYIIGALGLIIASVQDFR</span><span class="topo-outside">SREI</span><span class="topo-membrane">EDYIWIFLAVFGVLFAIY</span><span class="topo-inside">SSITLLDYSILINS</span><span class="topo-membrane">ISGFVICFILGYMMFLSGIGG</span><span class="topo-outside">G</span><span class="topo-membrane">DGKMLIGLGALVP</span><span class="topo-inside">KFQMPIYTSLGTLLNLNYVP</span><span class="topo-membrane">TF</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       </span>
+<span class="topo-line"><span class="topo-membrane">PIMVFINGIFFMVFLPFVILFR</span><span class="topo-outside">NILNGARPK</span><span class="topo-unknown">TGKEF</span><span class="topo-outside">ILMFFGEKM</span><span class="topo-unknown">KVNVAKEQKRLIMGQNDKINFFPAADDEDFSKYSNNEEIW</span><span class="topo-outside">VTPQ</span><span class="topo-membrane">IPLIIPITLSYLVTP</span><span class="topo-inside">IIGD</span><span class="topo-unknown">RILDFL</span><span class="topo-inside">I</span><span class="topo-unknown">PF</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -500,6 +503,7 @@ FlaK is a preflagellin peptidase (PFP) from the archaeon Methanococcus maripalud
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

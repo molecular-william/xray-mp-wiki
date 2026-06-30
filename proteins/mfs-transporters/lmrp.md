@@ -146,13 +146,15 @@ hydrophobic component to accommodate diverse substrates.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">GKEFWNLDKNLQLR</span><span class="topo-membrane">LGIVFLGAFSYGTVFSSM</span><span class="topo-outside">TIYYNQYLGSAITGIL</span><span class="topo-membrane">LALSAVATFVAG</span></span>
-<span class="topo-line"><span class="topo-membrane">ILAG</span><span class="topo-inside">FFADRNGRKPV</span><span class="topo-membrane">MVFGTIIQLLGAALAIAS</span><span class="topo-outside">NLPGHVNPWS</span><span class="topo-membrane">TFIAFLLISFGYNFVIT</span></span>
-<span class="topo-line"><span class="topo-membrane">AGN</span><span class="topo-inside">AMIIDASNAENRKVVFM</span><span class="topo-membrane">LDYWAQNLSVILGAALGAWL</span><span class="topo-outside">FRPAFE</span><span class="topo-membrane">ALLVILLLTVLVSF</span></span>
-<span class="topo-line"><span class="topo-membrane">FLT</span><span class="topo-inside">TFVMTETFKPT</span><span class="topo-unknown">VKV</span><span class="topo-inside">DN</span><span class="topo-unknown">IFQAYKTVLQ</span><span class="topo-inside">DKTYM</span><span class="topo-membrane">IFMGANIATTFIIMQFDNFL</span><span class="topo-outside">PVHLSN</span></span>
-<span class="topo-line"><span class="topo-outside">SFKTIT</span><span class="topo-unknown">FWGFEI</span><span class="topo-outside">YGQRML</span><span class="topo-membrane">TIYLILACVLVVLLMTTL</span><span class="topo-inside">NRLTKDWSHQKGF</span><span class="topo-membrane">IWGSLFMAIGM</span></span>
-<span class="topo-line"><span class="topo-membrane">IFSFLT</span><span class="topo-outside">TTFT</span><span class="topo-membrane">PIFIAGIVYTLGEIVYTP</span><span class="topo-inside">SVQTLGADLMNPEKIGSYN</span><span class="topo-membrane">GVAAIKMPIASIL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">GKEFWNLDKNLQLR</span><span class="topo-membrane">LGIVFLGAFSYGTVFSSM</span><span class="topo-outside">TIYYNQYLGSAITGIL</span><span class="topo-membrane">LALSAVATFVAGILAG</span><span class="topo-inside">FFADRNGRKPV</span><span class="topo-membrane">MVFGTIIQLLGAALAIAS</span><span class="topo-outside">NLPGHVNPWS</span><span class="topo-membrane">TFIAFLLISFGYNFVIT</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">AGN</span><span class="topo-inside">AMIIDASNAENRKVVFM</span><span class="topo-membrane">LDYWAQNLSVILGAALGAWL</span><span class="topo-outside">FRPAFE</span><span class="topo-membrane">ALLVILLLTVLVSFFLT</span><span class="topo-inside">TFVMTETFKPT</span><span class="topo-unknown">VKV</span><span class="topo-inside">DN</span><span class="topo-unknown">IFQAYKTVLQ</span><span class="topo-inside">DKTYM</span><span class="topo-membrane">IFMGANIATTFIIMQFDNFL</span><span class="topo-outside">PVHLSN</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">SFKTIT</span><span class="topo-unknown">FWGFEI</span><span class="topo-outside">YGQRML</span><span class="topo-membrane">TIYLILACVLVVLLMTTL</span><span class="topo-inside">NRLTKDWSHQKGF</span><span class="topo-membrane">IWGSLFMAIGMIFSFLT</span><span class="topo-outside">TTFT</span><span class="topo-membrane">PIFIAGIVYTLGEIVYTP</span><span class="topo-inside">SVQTLGADLMNPEKIGSYN</span><span class="topo-membrane">GVAAIKMPIASIL</span></span>
+<span class="topo-ruler">       370       380       390       400       410 </span>
 <span class="topo-line"><span class="topo-membrane">AGLLV</span><span class="topo-outside">SISPMIKA</span><span class="topo-membrane">IGVSLVLALTEVLAIIL</span><span class="topo-inside">VLVAVNRHQKTK</span><span class="topo-unknown">LNLEVLFQG</span></span>
+<details class="topo-details"><summary>Topology coordinates (29 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -367,6 +369,7 @@ hydrophobic component to accommodate diverse substrates.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

@@ -145,10 +145,11 @@ LspA (lipoprotein signal peptidase II) is an integral membrane aspartyl protease
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGHHHHHHDYDIPTTENLYFQGA</span><span class="topo-inside">HMHKKY</span><span class="topo-membrane">FIGTSILIAVFVVIFDQVTK</span><span class="topo-outside">YIIATTMKIGD</span></span>
-<span class="topo-line"><span class="topo-outside">SFEVIPHFLNITSHRNNGAAWGILSGK</span><span class="topo-membrane">MTFFFIITIIILIALVYFFIKDA</span><span class="topo-inside">QYNL</span><span class="topo-membrane">FMQVAI</span></span>
-<span class="topo-line"><span class="topo-membrane">SLLFAGALGNFIDRVL</span><span class="topo-outside">TGEVVDFIDTNIFGYDFPIF</span><span class="topo-membrane">NIADSSLTIGVILIIIALLK</span><span class="topo-inside">DT</span><span class="topo-unknown">SN</span></span>
-<span class="topo-line"><span class="topo-unknown">KKEKEVK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGHHHHHHDYDIPTTENLYFQGA</span><span class="topo-inside">HMHKKY</span><span class="topo-membrane">FIGTSILIAVFVVIFDQVTK</span><span class="topo-outside">YIIATTMKIGDSFEVIPHFLNITSHRNNGAAWGILSGK</span><span class="topo-membrane">MTFFFIITIIILIALVYFFIKDA</span><span class="topo-inside">QYNL</span><span class="topo-membrane">FMQVAI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       </span>
+<span class="topo-line"><span class="topo-membrane">SLLFAGALGNFIDRVL</span><span class="topo-outside">TGEVVDFIDTNIFGYDFPIF</span><span class="topo-membrane">NIADSSLTIGVILIIIALLK</span><span class="topo-inside">DT</span><span class="topo-unknown">SNKKEKEVK</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -237,6 +238,7 @@ LspA (lipoprotein signal peptidase II) is an integral membrane aspartyl protease
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -252,10 +254,11 @@ LspA (lipoprotein signal peptidase II) is an integral membrane aspartyl protease
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MGHHHHHHDYDIPTTENLYFQGA</span><span class="topo-inside">HMHKKY</span><span class="topo-membrane">FIGTSILIAVFVVIFDQVT</span><span class="topo-outside">KYIIATTMKIGD</span></span>
-<span class="topo-line"><span class="topo-outside">SFEVIPHFLNITSHRNNGAAWGILSGKMT</span><span class="topo-membrane">FFFIITIIILIALVYFFIKDA</span><span class="topo-inside">QYNL</span><span class="topo-membrane">FMQVAI</span></span>
-<span class="topo-line"><span class="topo-membrane">SLLFAGALGNFI</span><span class="topo-outside">DRVLTGEVVDFIDTNIFGYDFPIF</span><span class="topo-membrane">NIADSSLTIGVILIIIALLK</span><span class="topo-inside">DTSN</span></span>
-<span class="topo-line"><span class="topo-inside">KKEKEVK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MGHHHHHHDYDIPTTENLYFQGA</span><span class="topo-inside">HMHKKY</span><span class="topo-membrane">FIGTSILIAVFVVIFDQVT</span><span class="topo-outside">KYIIATTMKIGDSFEVIPHFLNITSHRNNGAAWGILSGKMT</span><span class="topo-membrane">FFFIITIIILIALVYFFIKDA</span><span class="topo-inside">QYNL</span><span class="topo-membrane">FMQVAI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       </span>
+<span class="topo-line"><span class="topo-membrane">SLLFAGALGNFI</span><span class="topo-outside">DRVLTGEVVDFIDTNIFGYDFPIF</span><span class="topo-membrane">NIADSSLTIGVILIIIALLK</span><span class="topo-inside">DTSNKKEKEVK</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -330,6 +333,7 @@ LspA (lipoprotein signal peptidase II) is an integral membrane aspartyl protease
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -431,10 +435,11 @@ LspA (lipoprotein signal peptidase II) is an integral membrane aspartyl protease
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GSSHHHHHHSSGLVPRGSHM</span><span class="topo-inside">PDVDRFGRL</span><span class="topo-membrane">PWLWITVLVFVLDQVS</span><span class="topo-outside">KAFFQAELSMYQQIV</span></span>
-<span class="topo-line"><span class="topo-outside">VIPDLFSWTLAYNTGAAFSFLADSSGWQ</span><span class="topo-membrane">RWLFALIAIVVSASLVVWL</span><span class="topo-inside">KRLKKGETWL</span><span class="topo-membrane">AIA</span></span>
-<span class="topo-line"><span class="topo-membrane">LALVLGGALGNLYDRM</span><span class="topo-outside">VLGHVVDFILVHWQNRWYFPAF</span><span class="topo-membrane">NLADSAITVGAVMLAL</span><span class="topo-inside">DMF</span><span class="topo-unknown">RSK</span></span>
-<span class="topo-line"><span class="topo-unknown">KSGEAAHG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GSSHHHHHHSSGLVPRGSHM</span><span class="topo-inside">PDVDRFGRL</span><span class="topo-membrane">PWLWITVLVFVLDQVS</span><span class="topo-outside">KAFFQAELSMYQQIVVIPDLFSWTLAYNTGAAFSFLADSSGWQ</span><span class="topo-membrane">RWLFALIAIVVSASLVVWL</span><span class="topo-inside">KRLKKGETWL</span><span class="topo-membrane">AIA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180        </span>
+<span class="topo-line"><span class="topo-membrane">LALVLGGALGNLYDRM</span><span class="topo-outside">VLGHVVDFILVHWQNRWYFPAF</span><span class="topo-membrane">NLADSAITVGAVMLAL</span><span class="topo-inside">DMF</span><span class="topo-unknown">RSKKSGEAAHG</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -523,6 +528,7 @@ LspA (lipoprotein signal peptidase II) is an integral membrane aspartyl protease
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

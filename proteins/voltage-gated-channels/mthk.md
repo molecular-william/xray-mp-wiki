@@ -127,12 +127,13 @@ MthK is a calcium-gated potassium channel from the archaeon Methanobacterium the
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MVLVIEIIRKHLPRVLKV</span><span class="topo-outside">PATRI</span><span class="topo-membrane">LLLVLAVIIYGTAGF</span><span class="topo-inside">HFIEGESWT</span><span class="topo-unknown">VSLYWTFVTIATV</span></span>
-<span class="topo-line"><span class="topo-unknown">GY</span><span class="topo-inside">GDYSPSTPL</span><span class="topo-membrane">GMYFTVTLIVLGIGTFAVAV</span><span class="topo-outside">ERLLEFL</span><span class="topo-unknown">INREQMKLMGLIDVAKS</span><span class="topo-outside">RHVVI</span></span>
-<span class="topo-line"><span class="topo-outside">CGWSESTLECLRELRGSEVFVLAEDENVRKKVLRSGANFVHGDPTRVSDLEKANVRGARA</span></span>
-<span class="topo-line"><span class="topo-outside">VIVDLESDSETIHCILGIRKIDESVRIIAEAERYENIEQLRMAGADQVISPFVISGRLMS</span></span>
-<span class="topo-line"><span class="topo-outside">RSIDDGYEAMFVQDVLAEESTRRMVEVPIPEGSKLEGVSVLDADIHDVTGVIIIGVGRGD</span></span>
-<span class="topo-line"><span class="topo-outside">ELIIDPPRDYSFRAGDIILGIGKPEEIERLKNYISA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MVLVIEIIRKHLPRVLKV</span><span class="topo-outside">PATRI</span><span class="topo-membrane">LLLVLAVIIYGTAGF</span><span class="topo-inside">HFIEGESWT</span><span class="topo-unknown">VSLYWTFVTIATVGY</span><span class="topo-inside">GDYSPSTPL</span><span class="topo-membrane">GMYFTVTLIVLGIGTFAVAV</span><span class="topo-outside">ERLLEFL</span><span class="topo-unknown">INREQMKLMGLIDVAKS</span><span class="topo-outside">RHVVI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">CGWSESTLECLRELRGSEVFVLAEDENVRKKVLRSGANFVHGDPTRVSDLEKANVRGARAVIVDLESDSETIHCILGIRKIDESVRIIAEAERYENIEQLRMAGADQVISPFVISGRLMS</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330      </span>
+<span class="topo-line"><span class="topo-outside">RSIDDGYEAMFVQDVLAEESTRRMVEVPIPEGSKLEGVSVLDADIHDVTGVIIIGVGRGDELIIDPPRDYSFRAGDIILGIGKPEEIERLKNYISA</span></span>
+<details class="topo-details"><summary>Topology coordinates (10 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -214,6 +215,7 @@ MthK is a calcium-gated potassium channel from the archaeon Methanobacterium the
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -229,12 +231,13 @@ MthK is a calcium-gated potassium channel from the archaeon Methanobacterium the
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MVLVIEIIRKHLPRVLKV</span><span class="topo-outside">PATRIL</span><span class="topo-membrane">LLVLAVIIYGTAGFHFI</span><span class="topo-inside">EGESW</span><span class="topo-unknown">TVSLYWTFVTIATV</span></span>
-<span class="topo-line"><span class="topo-unknown">GY</span><span class="topo-inside">GDYSPSTP</span><span class="topo-membrane">LGMYFTVTLIVLGIGTFAVAV</span><span class="topo-outside">ERLLEFL</span><span class="topo-unknown">INREQMKLMGLIDVAKS</span><span class="topo-outside">RHVVI</span></span>
-<span class="topo-line"><span class="topo-outside">CGWSESTLECLRELRGSEVFVLAEDENVRKKVLRSGANFVHGDPTRVSDLEKANVRGARA</span></span>
-<span class="topo-line"><span class="topo-outside">VIVDLESDSETIHCILGIRKIDESVRIIAEAERYENIEQLRMAGADQVISPFVISGRLMS</span></span>
-<span class="topo-line"><span class="topo-outside">RSIDDGYEAMFVQDVLAEESTRRMVEVPIPEGSKLEGVSVLDADIHDVTGVIIIGVGRGD</span></span>
-<span class="topo-line"><span class="topo-outside">ELIIDPPRDYSFRAGDIILGIGKPEEIERLKNYISA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MVLVIEIIRKHLPRVLKV</span><span class="topo-outside">PATRIL</span><span class="topo-membrane">LLVLAVIIYGTAGFHFI</span><span class="topo-inside">EGESW</span><span class="topo-unknown">TVSLYWTFVTIATVGY</span><span class="topo-inside">GDYSPSTP</span><span class="topo-membrane">LGMYFTVTLIVLGIGTFAVAV</span><span class="topo-outside">ERLLEFL</span><span class="topo-unknown">INREQMKLMGLIDVAKS</span><span class="topo-outside">RHVVI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">CGWSESTLECLRELRGSEVFVLAEDENVRKKVLRSGANFVHGDPTRVSDLEKANVRGARAVIVDLESDSETIHCILGIRKIDESVRIIAEAERYENIEQLRMAGADQVISPFVISGRLMS</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330      </span>
+<span class="topo-line"><span class="topo-outside">RSIDDGYEAMFVQDVLAEESTRRMVEVPIPEGSKLEGVSVLDADIHDVTGVIIIGVGRGDELIIDPPRDYSFRAGDIILGIGKPEEIERLKNYISA</span></span>
+<details class="topo-details"><summary>Topology coordinates (10 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -316,6 +319,7 @@ MthK is a calcium-gated potassium channel from the archaeon Methanobacterium the
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -331,12 +335,13 @@ MthK is a calcium-gated potassium channel from the archaeon Methanobacterium the
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MVLVIEIIRKHLPRVLKV</span><span class="topo-outside">PATRIL</span><span class="topo-membrane">LLVLAVIIYGTAGFHFI</span><span class="topo-inside">EGESW</span><span class="topo-unknown">TVSLYWTFVTIATV</span></span>
-<span class="topo-line"><span class="topo-unknown">GY</span><span class="topo-inside">GDYSPSTP</span><span class="topo-membrane">LGMYFTVTLIVLGIGTFAVAV</span><span class="topo-outside">ERLLEFL</span><span class="topo-unknown">INREQMKLMGLIDVAKS</span><span class="topo-outside">RHVVI</span></span>
-<span class="topo-line"><span class="topo-outside">CGWSESTLECLRELRGSEVFVLAEDENVRKKVLRSGANFVHGDPTRVSDLEKANVRGARA</span></span>
-<span class="topo-line"><span class="topo-outside">VIVDLESDSETIHCILGIRKIDESVRIIAEAERYENIEQLRMAGADQVISPFVISGRLMS</span></span>
-<span class="topo-line"><span class="topo-outside">RSIDDGYEAMFVQDVLAEESTRRMVEVPIPEGSKLEGVSVLDADIHDVTGVIIIGVGRGD</span></span>
-<span class="topo-line"><span class="topo-outside">ELIIDPPRDYSFRAGDIILGIGKPEEIERLKNYISA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MVLVIEIIRKHLPRVLKV</span><span class="topo-outside">PATRIL</span><span class="topo-membrane">LLVLAVIIYGTAGFHFI</span><span class="topo-inside">EGESW</span><span class="topo-unknown">TVSLYWTFVTIATVGY</span><span class="topo-inside">GDYSPSTP</span><span class="topo-membrane">LGMYFTVTLIVLGIGTFAVAV</span><span class="topo-outside">ERLLEFL</span><span class="topo-unknown">INREQMKLMGLIDVAKS</span><span class="topo-outside">RHVVI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">CGWSESTLECLRELRGSEVFVLAEDENVRKKVLRSGANFVHGDPTRVSDLEKANVRGARAVIVDLESDSETIHCILGIRKIDESVRIIAEAERYENIEQLRMAGADQVISPFVISGRLMS</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330      </span>
+<span class="topo-line"><span class="topo-outside">RSIDDGYEAMFVQDVLAEESTRRMVEVPIPEGSKLEGVSVLDADIHDVTGVIIIGVGRGDELIIDPPRDYSFRAGDIILGIGKPEEIERLKNYISA</span></span>
+<details class="topo-details"><summary>Topology coordinates (10 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -418,6 +423,7 @@ MthK is a calcium-gated potassium channel from the archaeon Methanobacterium the
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -433,12 +439,13 @@ MthK is a calcium-gated potassium channel from the archaeon Methanobacterium the
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MVLVIEIIRKHLPRVLKV</span><span class="topo-outside">PATRIL</span><span class="topo-membrane">LLVLAVIIYGTAGF</span><span class="topo-inside">HFIEGESWT</span><span class="topo-unknown">VSLYWTFVTIATV</span></span>
-<span class="topo-line"><span class="topo-unknown">GY</span><span class="topo-inside">GDYSPSTPL</span><span class="topo-membrane">GMYFTVTLIVLGIGTFAVAV</span><span class="topo-outside">ERLLEFL</span><span class="topo-unknown">INREQMKLMGLIDVAKS</span><span class="topo-outside">RHVVI</span></span>
-<span class="topo-line"><span class="topo-outside">CGWSESTLECLRELRGSEVFVLAEDENVRKKVLRSGANFVHGDPTRVSDLEKANVRGARA</span></span>
-<span class="topo-line"><span class="topo-outside">VIVDLESDSETIHCILGIRKIDESVRIIAEAERYENIEQLRMAGADQVISPFVISGRLMS</span></span>
-<span class="topo-line"><span class="topo-outside">RSIDDGYEAMFVQDVLAEESTRRMVEVPIPEGSKLEGVSVLDADIHDVTGVIIIGVGRGD</span></span>
-<span class="topo-line"><span class="topo-outside">ELIIDPPRDYSFRAGDIILGIGKPEEIERLKNYISA</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MVLVIEIIRKHLPRVLKV</span><span class="topo-outside">PATRIL</span><span class="topo-membrane">LLVLAVIIYGTAGF</span><span class="topo-inside">HFIEGESWT</span><span class="topo-unknown">VSLYWTFVTIATVGY</span><span class="topo-inside">GDYSPSTPL</span><span class="topo-membrane">GMYFTVTLIVLGIGTFAVAV</span><span class="topo-outside">ERLLEFL</span><span class="topo-unknown">INREQMKLMGLIDVAKS</span><span class="topo-outside">RHVVI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">CGWSESTLECLRELRGSEVFVLAEDENVRKKVLRSGANFVHGDPTRVSDLEKANVRGARAVIVDLESDSETIHCILGIRKIDESVRIIAEAERYENIEQLRMAGADQVISPFVISGRLMS</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330      </span>
+<span class="topo-line"><span class="topo-outside">RSIDDGYEAMFVQDVLAEESTRRMVEVPIPEGSKLEGVSVLDADIHDVTGVIIIGVGRGDELIIDPPRDYSFRAGDIILGIGKPEEIERLKNYISA</span></span>
+<details class="topo-details"><summary>Topology coordinates (10 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -520,6 +527,7 @@ MthK is a calcium-gated potassium channel from the archaeon Methanobacterium the
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -640,8 +648,9 @@ MthK is a calcium-gated potassium channel from the archaeon Methanobacterium the
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">VPATRI</span><span class="topo-membrane">LLLVLAVIIYGTAGFHFI</span><span class="topo-inside">EGESW</span><span class="topo-unknown">TVSLYWTFVTIATVGYG</span><span class="topo-inside">DYSPHTP</span><span class="topo-membrane">LGMYFTC</span></span>
-<span class="topo-line"><span class="topo-membrane">TLIVLGIGTFAVAVE</span><span class="topo-unknown">RLLEFL</span><span class="topo-outside">I</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80  </span>
+<span class="topo-line"><span class="topo-outside">VPATRI</span><span class="topo-membrane">LLLVLAVIIYGTAGFHFI</span><span class="topo-inside">EGESW</span><span class="topo-unknown">TVSLYWTFVTIATVGYG</span><span class="topo-inside">DYSPHTP</span><span class="topo-membrane">LGMYFTCTLIVLGIGTFAVAVE</span><span class="topo-unknown">RLLEFL</span><span class="topo-outside">I</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -709,6 +718,7 @@ MthK is a calcium-gated potassium channel from the archaeon Methanobacterium the
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -724,8 +734,9 @@ MthK is a calcium-gated potassium channel from the archaeon Methanobacterium the
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">VPATRI</span><span class="topo-membrane">LLLVLAVIIYGTAGFHFI</span><span class="topo-inside">EGESW</span><span class="topo-unknown">TVSLYWTFVTIATVGYG</span><span class="topo-inside">DYSPHTP</span><span class="topo-membrane">LGMYFTC</span></span>
-<span class="topo-line"><span class="topo-membrane">TLIVLGIGTFAVAVE</span><span class="topo-unknown">RLLEFL</span><span class="topo-outside">I</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80  </span>
+<span class="topo-line"><span class="topo-outside">VPATRI</span><span class="topo-membrane">LLLVLAVIIYGTAGFHFI</span><span class="topo-inside">EGESW</span><span class="topo-unknown">TVSLYWTFVTIATVGYG</span><span class="topo-inside">DYSPHTP</span><span class="topo-membrane">LGMYFTCTLIVLGIGTFAVAVE</span><span class="topo-unknown">RLLEFL</span><span class="topo-outside">I</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -793,6 +804,7 @@ MthK is a calcium-gated potassium channel from the archaeon Methanobacterium the
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -808,8 +820,9 @@ MthK is a calcium-gated potassium channel from the archaeon Methanobacterium the
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">VPATRI</span><span class="topo-membrane">LLLVLAVIIYGTAGFHFI</span><span class="topo-inside">EGESW</span><span class="topo-unknown">TVSLYWTFVTIATVGYG</span><span class="topo-inside">DYSPHTP</span><span class="topo-membrane">LGMYFTC</span></span>
-<span class="topo-line"><span class="topo-membrane">TLIVLGIGTFAVAVE</span><span class="topo-unknown">RLLEFL</span><span class="topo-outside">I</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80  </span>
+<span class="topo-line"><span class="topo-outside">VPATRI</span><span class="topo-membrane">LLLVLAVIIYGTAGFHFI</span><span class="topo-inside">EGESW</span><span class="topo-unknown">TVSLYWTFVTIATVGYG</span><span class="topo-inside">DYSPHTP</span><span class="topo-membrane">LGMYFTCTLIVLGIGTFAVAVE</span><span class="topo-unknown">RLLEFL</span><span class="topo-outside">I</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -877,6 +890,7 @@ MthK is a calcium-gated potassium channel from the archaeon Methanobacterium the
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -892,8 +906,9 @@ MthK is a calcium-gated potassium channel from the archaeon Methanobacterium the
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">VPATRI</span><span class="topo-membrane">LLLVLAVIIYGTAGFHFI</span><span class="topo-inside">EGESW</span><span class="topo-unknown">TVSLYWTFVTIATVGYG</span><span class="topo-inside">DYSPHTP</span><span class="topo-membrane">LGMYFTC</span></span>
-<span class="topo-line"><span class="topo-membrane">TLIVLGIGTFAVAVE</span><span class="topo-unknown">RLLEFL</span><span class="topo-outside">I</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80  </span>
+<span class="topo-line"><span class="topo-outside">VPATRI</span><span class="topo-membrane">LLLVLAVIIYGTAGFHFI</span><span class="topo-inside">EGESW</span><span class="topo-unknown">TVSLYWTFVTIATVGYG</span><span class="topo-inside">DYSPHTP</span><span class="topo-membrane">LGMYFTCTLIVLGIGTFAVAVE</span><span class="topo-unknown">RLLEFL</span><span class="topo-outside">I</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -961,6 +976,7 @@ MthK is a calcium-gated potassium channel from the archaeon Methanobacterium the
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -976,8 +992,9 @@ MthK is a calcium-gated potassium channel from the archaeon Methanobacterium the
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">VPATRI</span><span class="topo-membrane">LLLVLAVIIYGTAGFHFI</span><span class="topo-inside">EGESW</span><span class="topo-unknown">TVSLYWTFVTIATVGYG</span><span class="topo-inside">DYSPHTP</span><span class="topo-membrane">LGMYFTC</span></span>
-<span class="topo-line"><span class="topo-membrane">TLIVLGIGTFAVAVE</span><span class="topo-unknown">RLLEFL</span><span class="topo-outside">I</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80  </span>
+<span class="topo-line"><span class="topo-outside">VPATRI</span><span class="topo-membrane">LLLVLAVIIYGTAGFHFI</span><span class="topo-inside">EGESW</span><span class="topo-unknown">TVSLYWTFVTIATVGYG</span><span class="topo-inside">DYSPHTP</span><span class="topo-membrane">LGMYFTCTLIVLGIGTFAVAVE</span><span class="topo-unknown">RLLEFL</span><span class="topo-outside">I</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1045,6 +1062,7 @@ MthK is a calcium-gated potassium channel from the archaeon Methanobacterium the
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1060,8 +1078,9 @@ MthK is a calcium-gated potassium channel from the archaeon Methanobacterium the
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">VPATRI</span><span class="topo-membrane">LLLVLAVIIYGTAGFHFI</span><span class="topo-inside">EGESW</span><span class="topo-unknown">TVSLYWTFVTIATVGYG</span><span class="topo-inside">DYSPHTP</span><span class="topo-membrane">LGMYFTC</span></span>
-<span class="topo-line"><span class="topo-membrane">TLIVLGIGTFAVAVE</span><span class="topo-unknown">RLLEFL</span><span class="topo-outside">I</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80  </span>
+<span class="topo-line"><span class="topo-outside">VPATRI</span><span class="topo-membrane">LLLVLAVIIYGTAGFHFI</span><span class="topo-inside">EGESW</span><span class="topo-unknown">TVSLYWTFVTIATVGYG</span><span class="topo-inside">DYSPHTP</span><span class="topo-membrane">LGMYFTCTLIVLGIGTFAVAVE</span><span class="topo-unknown">RLLEFL</span><span class="topo-outside">I</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1129,6 +1148,7 @@ MthK is a calcium-gated potassium channel from the archaeon Methanobacterium the
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1144,8 +1164,9 @@ MthK is a calcium-gated potassium channel from the archaeon Methanobacterium the
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">VPATRI</span><span class="topo-membrane">LLLVLAVIIYGTAGFHFI</span><span class="topo-inside">EGESW</span><span class="topo-unknown">TVSLYWTFVTIATVGYG</span><span class="topo-inside">DYSPHTP</span><span class="topo-membrane">LGMYFTC</span></span>
-<span class="topo-line"><span class="topo-membrane">TLIVLGIGTFAVAVE</span><span class="topo-unknown">RLLEFL</span><span class="topo-outside">I</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80  </span>
+<span class="topo-line"><span class="topo-outside">VPATRI</span><span class="topo-membrane">LLLVLAVIIYGTAGFHFI</span><span class="topo-inside">EGESW</span><span class="topo-unknown">TVSLYWTFVTIATVGYG</span><span class="topo-inside">DYSPHTP</span><span class="topo-membrane">LGMYFTCTLIVLGIGTFAVAVE</span><span class="topo-unknown">RLLEFL</span><span class="topo-outside">I</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1213,6 +1234,7 @@ MthK is a calcium-gated potassium channel from the archaeon Methanobacterium the
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1228,8 +1250,9 @@ MthK is a calcium-gated potassium channel from the archaeon Methanobacterium the
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">VPATRI</span><span class="topo-membrane">LLLVLAVIIYGTAGFHFI</span><span class="topo-inside">EGESW</span><span class="topo-unknown">TVSLYWTFVTIATVGYG</span><span class="topo-inside">DYSPHTP</span><span class="topo-membrane">LGMYFTC</span></span>
-<span class="topo-line"><span class="topo-membrane">TLIVLGIGTFAVAVE</span><span class="topo-unknown">RLLEFL</span><span class="topo-outside">I</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80  </span>
+<span class="topo-line"><span class="topo-outside">VPATRI</span><span class="topo-membrane">LLLVLAVIIYGTAGFHFI</span><span class="topo-inside">EGESW</span><span class="topo-unknown">TVSLYWTFVTIATVGYG</span><span class="topo-inside">DYSPHTP</span><span class="topo-membrane">LGMYFTCTLIVLGIGTFAVAVE</span><span class="topo-unknown">RLLEFL</span><span class="topo-outside">I</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1297,6 +1320,7 @@ MthK is a calcium-gated potassium channel from the archaeon Methanobacterium the
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1312,8 +1336,9 @@ MthK is a calcium-gated potassium channel from the archaeon Methanobacterium the
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">VPATRI</span><span class="topo-membrane">LLLVLAVIIYGTAGFHFI</span><span class="topo-inside">EGESW</span><span class="topo-unknown">TVSLYWTFVTIATVGYG</span><span class="topo-inside">DYSPHTP</span><span class="topo-membrane">LGMYFTC</span></span>
-<span class="topo-line"><span class="topo-membrane">TLIVLGIGTFAVAVE</span><span class="topo-unknown">RLLEFL</span><span class="topo-outside">I</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80  </span>
+<span class="topo-line"><span class="topo-outside">VPATRI</span><span class="topo-membrane">LLLVLAVIIYGTAGFHFI</span><span class="topo-inside">EGESW</span><span class="topo-unknown">TVSLYWTFVTIATVGYG</span><span class="topo-inside">DYSPHTP</span><span class="topo-membrane">LGMYFTCTLIVLGIGTFAVAVE</span><span class="topo-unknown">RLLEFL</span><span class="topo-outside">I</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1381,6 +1406,7 @@ MthK is a calcium-gated potassium channel from the archaeon Methanobacterium the
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1396,8 +1422,9 @@ MthK is a calcium-gated potassium channel from the archaeon Methanobacterium the
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">VPATRI</span><span class="topo-membrane">LLLVLAVIIYGTAGFHFI</span><span class="topo-inside">EGESW</span><span class="topo-unknown">TVSLYWTFVTIATVGYG</span><span class="topo-inside">DYSPHTP</span><span class="topo-membrane">LGMYFTC</span></span>
-<span class="topo-line"><span class="topo-membrane">TLIVLGIGTFAVAVE</span><span class="topo-unknown">RLLEFL</span><span class="topo-outside">I</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80  </span>
+<span class="topo-line"><span class="topo-outside">VPATRI</span><span class="topo-membrane">LLLVLAVIIYGTAGFHFI</span><span class="topo-inside">EGESW</span><span class="topo-unknown">TVSLYWTFVTIATVGYG</span><span class="topo-inside">DYSPHTP</span><span class="topo-membrane">LGMYFTCTLIVLGIGTFAVAVE</span><span class="topo-unknown">RLLEFL</span><span class="topo-outside">I</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1465,6 +1492,7 @@ MthK is a calcium-gated potassium channel from the archaeon Methanobacterium the
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1480,8 +1508,9 @@ MthK is a calcium-gated potassium channel from the archaeon Methanobacterium the
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">VPATRI</span><span class="topo-membrane">LLLVLAVIIYGTAGFHFI</span><span class="topo-inside">EGESW</span><span class="topo-unknown">TVSLYWTFVTIATVGYG</span><span class="topo-inside">DYSPHTP</span><span class="topo-membrane">LGMYFTC</span></span>
-<span class="topo-line"><span class="topo-membrane">TLIVLGIGTFAVAVE</span><span class="topo-unknown">RLLEFL</span><span class="topo-outside">I</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80  </span>
+<span class="topo-line"><span class="topo-outside">VPATRI</span><span class="topo-membrane">LLLVLAVIIYGTAGFHFI</span><span class="topo-inside">EGESW</span><span class="topo-unknown">TVSLYWTFVTIATVGYG</span><span class="topo-inside">DYSPHTP</span><span class="topo-membrane">LGMYFTCTLIVLGIGTFAVAVE</span><span class="topo-unknown">RLLEFL</span><span class="topo-outside">I</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1549,6 +1578,7 @@ MthK is a calcium-gated potassium channel from the archaeon Methanobacterium the
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1564,8 +1594,9 @@ MthK is a calcium-gated potassium channel from the archaeon Methanobacterium the
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">VPATRI</span><span class="topo-membrane">LLLVLAVIIYGTAGFHFI</span><span class="topo-inside">EGESW</span><span class="topo-unknown">TVSLYWTFVTIATVGYG</span><span class="topo-inside">DYSPHTP</span><span class="topo-membrane">LGMYFTC</span></span>
-<span class="topo-line"><span class="topo-membrane">TLIVLGIGTFAVAVE</span><span class="topo-unknown">RLLEFL</span><span class="topo-outside">I</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80  </span>
+<span class="topo-line"><span class="topo-outside">VPATRI</span><span class="topo-membrane">LLLVLAVIIYGTAGFHFI</span><span class="topo-inside">EGESW</span><span class="topo-unknown">TVSLYWTFVTIATVGYG</span><span class="topo-inside">DYSPHTP</span><span class="topo-membrane">LGMYFTCTLIVLGIGTFAVAVE</span><span class="topo-unknown">RLLEFL</span><span class="topo-outside">I</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1633,6 +1664,7 @@ MthK is a calcium-gated potassium channel from the archaeon Methanobacterium the
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1812,12 +1844,13 @@ MthK is a calcium-gated potassium channel from the archaeon Methanobacterium the
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MVLVIEIIRKHLPRVLKVPATRI</span><span class="topo-inside">L</span><span class="topo-membrane">LLVLAVIIYGTAGFHFI</span><span class="topo-outside">EGESW</span><span class="topo-unknown">TVSLYWTFVTIATV</span></span>
-<span class="topo-line"><span class="topo-unknown">GYG</span><span class="topo-outside">DYSPSTPL</span><span class="topo-membrane">GMYFTVTLIVLGIGTFAVAVERLLEFLINRE</span><span class="topo-unknown">QMKLIGLI</span><span class="topo-inside">DVAKSRHVVI</span></span>
-<span class="topo-line"><span class="topo-inside">CGWSESTLECLRELRGSEVFVLAEDEN</span><span class="topo-unknown">VRKKVLRS</span><span class="topo-inside">GANFVHGDPTRVSDLEKANVRGARA</span></span>
-<span class="topo-line"><span class="topo-inside">VIVDLESDSETIHCILGIRKIDESVRIIAEAERYENIEQLRMAGADQVISPFVISGRLMS</span></span>
-<span class="topo-line"><span class="topo-inside">RSIDDGYEAMFVQDVLAEESTRRMVEVPIPEGSKLEGVSVLDADIHDVTGVIIIGVGRGD</span></span>
-<span class="topo-line"><span class="topo-inside">ELIIDPPRDYSFRAGDIILGIGKPEEIERLKNYISA</span><span class="topo-unknown">LVPRGSHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MVLVIEIIRKHLPRVLKVPATRI</span><span class="topo-inside">L</span><span class="topo-membrane">LLVLAVIIYGTAGFHFI</span><span class="topo-outside">EGESW</span><span class="topo-unknown">TVSLYWTFVTIATVGYG</span><span class="topo-outside">DYSPSTPL</span><span class="topo-membrane">GMYFTVTLIVLGIGTFAVAVERLLEFLINRE</span><span class="topo-unknown">QMKLIGLI</span><span class="topo-inside">DVAKSRHVVI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">CGWSESTLECLRELRGSEVFVLAEDEN</span><span class="topo-unknown">VRKKVLRS</span><span class="topo-inside">GANFVHGDPTRVSDLEKANVRGARAVIVDLESDSETIHCILGIRKIDESVRIIAEAERYENIEQLRMAGADQVISPFVISGRLMS</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340        </span>
+<span class="topo-line"><span class="topo-inside">RSIDDGYEAMFVQDVLAEESTRRMVEVPIPEGSKLEGVSVLDADIHDVTGVIIIGVGRGDELIIDPPRDYSFRAGDIILGIGKPEEIERLKNYISA</span><span class="topo-unknown">LVPRGSHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (10 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1899,6 +1932,7 @@ MthK is a calcium-gated potassium channel from the archaeon Methanobacterium the
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1914,12 +1948,13 @@ MthK is a calcium-gated potassium channel from the archaeon Methanobacterium the
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MVLVIEIIRKHLPRVLKVPATR</span><span class="topo-inside">I</span><span class="topo-membrane">LLLVLAVIIYGTAGFHFIE</span><span class="topo-outside">GESW</span><span class="topo-unknown">TVSLYWTFVTIATV</span></span>
-<span class="topo-line"><span class="topo-unknown">GYG</span><span class="topo-outside">DYSPSTP</span><span class="topo-membrane">LGMYFTVTLIVLGIGTFAVAVERLLEFLINRE</span><span class="topo-inside">QMKLIGLIDVAKSRHVVI</span></span>
-<span class="topo-line"><span class="topo-inside">CGWSESTLECLRELRGSEVFVLAEDENVRKKVLRSGANFVHGDPTRVSDLEKANVRGARA</span></span>
-<span class="topo-line"><span class="topo-inside">VIVDLESDSETIHCILGIRKIDESVRIIAEAERYENIEQLRMAGADQVISPFVISGRLMS</span></span>
-<span class="topo-line"><span class="topo-inside">RSIDDGYEAMFVQDVLAEESTRRMVEVPIPEGSKLEGVSVLDADIHDVTGVIIIGVGRGD</span></span>
-<span class="topo-line"><span class="topo-inside">ELIIDPPRDYSFRAGDIILGIGK</span><span class="topo-unknown">PEEIERLKNY</span><span class="topo-inside">ISA</span><span class="topo-unknown">LVPRGSHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MVLVIEIIRKHLPRVLKVPATR</span><span class="topo-inside">I</span><span class="topo-membrane">LLLVLAVIIYGTAGFHFIE</span><span class="topo-outside">GESW</span><span class="topo-unknown">TVSLYWTFVTIATVGYG</span><span class="topo-outside">DYSPSTP</span><span class="topo-membrane">LGMYFTVTLIVLGIGTFAVAVERLLEFLINRE</span><span class="topo-inside">QMKLIGLIDVAKSRHVVI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">CGWSESTLECLRELRGSEVFVLAEDENVRKKVLRSGANFVHGDPTRVSDLEKANVRGARAVIVDLESDSETIHCILGIRKIDESVRIIAEAERYENIEQLRMAGADQVISPFVISGRLMS</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340        </span>
+<span class="topo-line"><span class="topo-inside">RSIDDGYEAMFVQDVLAEESTRRMVEVPIPEGSKLEGVSVLDADIHDVTGVIIIGVGRGDELIIDPPRDYSFRAGDIILGIGK</span><span class="topo-unknown">PEEIERLKNY</span><span class="topo-inside">ISA</span><span class="topo-unknown">LVPRGSHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1994,6 +2029,7 @@ MthK is a calcium-gated potassium channel from the archaeon Methanobacterium the
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2009,12 +2045,13 @@ MthK is a calcium-gated potassium channel from the archaeon Methanobacterium the
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MVLVIEIIRKHLPRVLKVPATRI</span><span class="topo-inside">L</span><span class="topo-membrane">LLVLAVIIYGTAG</span><span class="topo-outside">FHFIEGESWTVS</span><span class="topo-unknown">LYWTFVTIATV</span></span>
-<span class="topo-line"><span class="topo-unknown">GYG</span><span class="topo-outside">DYSPSTPLGM</span><span class="topo-membrane">YFTVTLIVLGIGTFAVAVERLLEFLINRE</span><span class="topo-unknown">QMKLIGLI</span><span class="topo-inside">DVAKSRHVVI</span></span>
-<span class="topo-line"><span class="topo-inside">CGWSESTLECLRELRGSEVFVLAEDEN</span><span class="topo-unknown">VRKKVLRS</span><span class="topo-inside">GANFVHGDPTRVSDLEKANVRGARA</span></span>
-<span class="topo-line"><span class="topo-inside">VIVDLESDSETIHCILGIRKIDESVRIIAEAERYENIEQLRMAGADQVISPFVISGRLMS</span></span>
-<span class="topo-line"><span class="topo-inside">RSIDDGYEAMFVQDVLAEESTRRMVEVPIPEGSKLEGVSVLDADIHDVTGVIIIGVGRGD</span></span>
-<span class="topo-line"><span class="topo-inside">ELIIDPPRDYSFRAGDIILGIGKPEEIERLKNYISA</span><span class="topo-unknown">LVPRGSHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MVLVIEIIRKHLPRVLKVPATRI</span><span class="topo-inside">L</span><span class="topo-membrane">LLVLAVIIYGTAG</span><span class="topo-outside">FHFIEGESWTVS</span><span class="topo-unknown">LYWTFVTIATVGYG</span><span class="topo-outside">DYSPSTPLGM</span><span class="topo-membrane">YFTVTLIVLGIGTFAVAVERLLEFLINRE</span><span class="topo-unknown">QMKLIGLI</span><span class="topo-inside">DVAKSRHVVI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">CGWSESTLECLRELRGSEVFVLAEDEN</span><span class="topo-unknown">VRKKVLRS</span><span class="topo-inside">GANFVHGDPTRVSDLEKANVRGARAVIVDLESDSETIHCILGIRKIDESVRIIAEAERYENIEQLRMAGADQVISPFVISGRLMS</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340        </span>
+<span class="topo-line"><span class="topo-inside">RSIDDGYEAMFVQDVLAEESTRRMVEVPIPEGSKLEGVSVLDADIHDVTGVIIIGVGRGDELIIDPPRDYSFRAGDIILGIGKPEEIERLKNYISA</span><span class="topo-unknown">LVPRGSHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (10 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2096,6 +2133,7 @@ MthK is a calcium-gated potassium channel from the archaeon Methanobacterium the
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2111,12 +2149,13 @@ MthK is a calcium-gated potassium channel from the archaeon Methanobacterium the
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MVLVIEIIRKHLPRVLKVPATR</span><span class="topo-inside">I</span><span class="topo-membrane">LLLVLAVIIYGTAGFH</span><span class="topo-outside">FIEGESW</span><span class="topo-unknown">TVSLYWTFVTIATV</span></span>
-<span class="topo-line"><span class="topo-unknown">GYG</span><span class="topo-outside">DYSPSTPLGM</span><span class="topo-membrane">YFTVTLIVLGIGTFAVAVERLLEFLINREQ</span><span class="topo-inside">MKLIGLIDVAKSRHVVI</span></span>
-<span class="topo-line"><span class="topo-inside">CGWSESTLECLRELRGSEVFVLAEDENVRKKVLRSGANFVHGDPTRVSDLEKANVRGARA</span></span>
-<span class="topo-line"><span class="topo-inside">VIVDLESDSETIHCILGIRKIDESVRIIAEAERYENIEQLRMAGADQVISPFVISGRLMS</span></span>
-<span class="topo-line"><span class="topo-inside">RSIDDGYEAMFVQDVLAEESTRRMVEVPIPEGSKLEGVSVLDADIHDVTGVIIIGVGRGD</span></span>
-<span class="topo-line"><span class="topo-inside">ELIIDPPRDYSFRAGDIILGIGKPEEIERLKNYISA</span><span class="topo-unknown">LVPRGSHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MVLVIEIIRKHLPRVLKVPATR</span><span class="topo-inside">I</span><span class="topo-membrane">LLLVLAVIIYGTAGFH</span><span class="topo-outside">FIEGESW</span><span class="topo-unknown">TVSLYWTFVTIATVGYG</span><span class="topo-outside">DYSPSTPLGM</span><span class="topo-membrane">YFTVTLIVLGIGTFAVAVERLLEFLINREQ</span><span class="topo-inside">MKLIGLIDVAKSRHVVI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">CGWSESTLECLRELRGSEVFVLAEDENVRKKVLRSGANFVHGDPTRVSDLEKANVRGARAVIVDLESDSETIHCILGIRKIDESVRIIAEAERYENIEQLRMAGADQVISPFVISGRLMS</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340        </span>
+<span class="topo-line"><span class="topo-inside">RSIDDGYEAMFVQDVLAEESTRRMVEVPIPEGSKLEGVSVLDADIHDVTGVIIIGVGRGDELIIDPPRDYSFRAGDIILGIGKPEEIERLKNYISA</span><span class="topo-unknown">LVPRGSHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (7 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2177,6 +2216,7 @@ MthK is a calcium-gated potassium channel from the archaeon Methanobacterium the
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2327,8 +2367,9 @@ MthK is a calcium-gated potassium channel from the archaeon Methanobacterium the
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">VPATRI</span><span class="topo-membrane">LLLVLAVIIYGTAGFHFI</span><span class="topo-inside">EGESW</span><span class="topo-unknown">TVSLYWTFVTIATVGYG</span><span class="topo-inside">DYSPSTP</span><span class="topo-membrane">LGMYFTV</span></span>
-<span class="topo-line"><span class="topo-membrane">TLIVLGIGTFAVAVE</span><span class="topo-unknown">RLLEFL</span><span class="topo-outside">I</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80  </span>
+<span class="topo-line"><span class="topo-outside">VPATRI</span><span class="topo-membrane">LLLVLAVIIYGTAGFHFI</span><span class="topo-inside">EGESW</span><span class="topo-unknown">TVSLYWTFVTIATVGYG</span><span class="topo-inside">DYSPSTP</span><span class="topo-membrane">LGMYFTVTLIVLGIGTFAVAVE</span><span class="topo-unknown">RLLEFL</span><span class="topo-outside">I</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2396,6 +2437,7 @@ MthK is a calcium-gated potassium channel from the archaeon Methanobacterium the
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2411,8 +2453,9 @@ MthK is a calcium-gated potassium channel from the archaeon Methanobacterium the
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">VPATRI</span><span class="topo-membrane">LLLVLAVIIYGTAGFHFI</span><span class="topo-inside">EGESW</span><span class="topo-unknown">TVSLYWTFVTIATVGYG</span><span class="topo-inside">DYSPSTP</span><span class="topo-membrane">LGMYFTV</span></span>
-<span class="topo-line"><span class="topo-membrane">TLIVLGIGTFAVAVE</span><span class="topo-unknown">RLLEFL</span><span class="topo-outside">I</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80  </span>
+<span class="topo-line"><span class="topo-outside">VPATRI</span><span class="topo-membrane">LLLVLAVIIYGTAGFHFI</span><span class="topo-inside">EGESW</span><span class="topo-unknown">TVSLYWTFVTIATVGYG</span><span class="topo-inside">DYSPSTP</span><span class="topo-membrane">LGMYFTVTLIVLGIGTFAVAVE</span><span class="topo-unknown">RLLEFL</span><span class="topo-outside">I</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2480,6 +2523,7 @@ MthK is a calcium-gated potassium channel from the archaeon Methanobacterium the
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2495,8 +2539,9 @@ MthK is a calcium-gated potassium channel from the archaeon Methanobacterium the
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">VPATRI</span><span class="topo-membrane">LLLVLAVIIYGTAGFHFI</span><span class="topo-inside">EGESW</span><span class="topo-unknown">TVSLYWTFVTIATVGYG</span><span class="topo-inside">DYSPSTP</span><span class="topo-membrane">LGMYFTV</span></span>
-<span class="topo-line"><span class="topo-membrane">TLIVLGIGTFAVAVE</span><span class="topo-unknown">RLLEFL</span><span class="topo-outside">I</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80  </span>
+<span class="topo-line"><span class="topo-outside">VPATRI</span><span class="topo-membrane">LLLVLAVIIYGTAGFHFI</span><span class="topo-inside">EGESW</span><span class="topo-unknown">TVSLYWTFVTIATVGYG</span><span class="topo-inside">DYSPSTP</span><span class="topo-membrane">LGMYFTVTLIVLGIGTFAVAVE</span><span class="topo-unknown">RLLEFL</span><span class="topo-outside">I</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2564,6 +2609,7 @@ MthK is a calcium-gated potassium channel from the archaeon Methanobacterium the
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2579,8 +2625,9 @@ MthK is a calcium-gated potassium channel from the archaeon Methanobacterium the
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">VPATRI</span><span class="topo-membrane">LLLVLAVIIYGTAGFHFI</span><span class="topo-inside">EGESW</span><span class="topo-unknown">TVSLYWTFVTIATVGYG</span><span class="topo-inside">DYSPSTP</span><span class="topo-membrane">LGMYFTV</span></span>
-<span class="topo-line"><span class="topo-membrane">TLIVLGIGTFAVAVE</span><span class="topo-unknown">RLLEFL</span><span class="topo-outside">I</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80  </span>
+<span class="topo-line"><span class="topo-outside">VPATRI</span><span class="topo-membrane">LLLVLAVIIYGTAGFHFI</span><span class="topo-inside">EGESW</span><span class="topo-unknown">TVSLYWTFVTIATVGYG</span><span class="topo-inside">DYSPSTP</span><span class="topo-membrane">LGMYFTVTLIVLGIGTFAVAVE</span><span class="topo-unknown">RLLEFL</span><span class="topo-outside">I</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2648,6 +2695,7 @@ MthK is a calcium-gated potassium channel from the archaeon Methanobacterium the
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2663,8 +2711,9 @@ MthK is a calcium-gated potassium channel from the archaeon Methanobacterium the
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">VPATRI</span><span class="topo-membrane">LLLVLAVIIYGTAGFHFI</span><span class="topo-inside">EGESW</span><span class="topo-unknown">TVSLYWTFVTIATVGYG</span><span class="topo-inside">DYSPSTP</span><span class="topo-membrane">LGMYFTV</span></span>
-<span class="topo-line"><span class="topo-membrane">TLIVLGIGTFAVAVE</span><span class="topo-unknown">RLLEFL</span><span class="topo-outside">I</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80  </span>
+<span class="topo-line"><span class="topo-outside">VPATRI</span><span class="topo-membrane">LLLVLAVIIYGTAGFHFI</span><span class="topo-inside">EGESW</span><span class="topo-unknown">TVSLYWTFVTIATVGYG</span><span class="topo-inside">DYSPSTP</span><span class="topo-membrane">LGMYFTVTLIVLGIGTFAVAVE</span><span class="topo-unknown">RLLEFL</span><span class="topo-outside">I</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2732,6 +2781,7 @@ MthK is a calcium-gated potassium channel from the archaeon Methanobacterium the
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2747,8 +2797,9 @@ MthK is a calcium-gated potassium channel from the archaeon Methanobacterium the
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">VPATRI</span><span class="topo-membrane">LLLVLAVIIYGTAGFHFI</span><span class="topo-inside">EGESW</span><span class="topo-unknown">TVSLYWTFVTIATVGYG</span><span class="topo-inside">DYSPSTP</span><span class="topo-membrane">LGMYFTV</span></span>
-<span class="topo-line"><span class="topo-membrane">TLIVLGIGTFAVAVE</span><span class="topo-unknown">RLLEFL</span><span class="topo-outside">I</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80  </span>
+<span class="topo-line"><span class="topo-outside">VPATRI</span><span class="topo-membrane">LLLVLAVIIYGTAGFHFI</span><span class="topo-inside">EGESW</span><span class="topo-unknown">TVSLYWTFVTIATVGYG</span><span class="topo-inside">DYSPSTP</span><span class="topo-membrane">LGMYFTVTLIVLGIGTFAVAVE</span><span class="topo-unknown">RLLEFL</span><span class="topo-outside">I</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2816,6 +2867,7 @@ MthK is a calcium-gated potassium channel from the archaeon Methanobacterium the
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2831,8 +2883,9 @@ MthK is a calcium-gated potassium channel from the archaeon Methanobacterium the
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">VPATRI</span><span class="topo-membrane">LLLVLAVIIYGTAGFHFI</span><span class="topo-inside">EGESW</span><span class="topo-unknown">TVSLYWTFVTIATVGYG</span><span class="topo-inside">DYSPSTP</span><span class="topo-membrane">LGMYFTV</span></span>
-<span class="topo-line"><span class="topo-membrane">TLIVLGIGTFAVAVE</span><span class="topo-unknown">RLLEFL</span><span class="topo-outside">I</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80  </span>
+<span class="topo-line"><span class="topo-outside">VPATRI</span><span class="topo-membrane">LLLVLAVIIYGTAGFHFI</span><span class="topo-inside">EGESW</span><span class="topo-unknown">TVSLYWTFVTIATVGYG</span><span class="topo-inside">DYSPSTP</span><span class="topo-membrane">LGMYFTVTLIVLGIGTFAVAVE</span><span class="topo-unknown">RLLEFL</span><span class="topo-outside">I</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2900,6 +2953,7 @@ MthK is a calcium-gated potassium channel from the archaeon Methanobacterium the
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2915,8 +2969,9 @@ MthK is a calcium-gated potassium channel from the archaeon Methanobacterium the
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">VPATRI</span><span class="topo-membrane">LLLVLAVIIYGTAGFHFI</span><span class="topo-inside">EGESW</span><span class="topo-unknown">TVSLYWTFVTIATVGYG</span><span class="topo-inside">DYSPSTP</span><span class="topo-membrane">LGMYFTV</span></span>
-<span class="topo-line"><span class="topo-membrane">TLIVLGIGTFAVAVE</span><span class="topo-unknown">RLLEFL</span><span class="topo-outside">I</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80  </span>
+<span class="topo-line"><span class="topo-outside">VPATRI</span><span class="topo-membrane">LLLVLAVIIYGTAGFHFI</span><span class="topo-inside">EGESW</span><span class="topo-unknown">TVSLYWTFVTIATVGYG</span><span class="topo-inside">DYSPSTP</span><span class="topo-membrane">LGMYFTVTLIVLGIGTFAVAVE</span><span class="topo-unknown">RLLEFL</span><span class="topo-outside">I</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -2984,6 +3039,7 @@ MthK is a calcium-gated potassium channel from the archaeon Methanobacterium the
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -2999,8 +3055,9 @@ MthK is a calcium-gated potassium channel from the archaeon Methanobacterium the
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">VPATRI</span><span class="topo-membrane">LLLVLAVIIYGTAGFHFI</span><span class="topo-inside">EGESW</span><span class="topo-unknown">TVSLYWTFVTIATVGYG</span><span class="topo-inside">DYSPSTP</span><span class="topo-membrane">LGMYFTV</span></span>
-<span class="topo-line"><span class="topo-membrane">TLIVLGIGTFAVAVE</span><span class="topo-unknown">RLLEFL</span><span class="topo-outside">I</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80  </span>
+<span class="topo-line"><span class="topo-outside">VPATRI</span><span class="topo-membrane">LLLVLAVIIYGTAGFHFI</span><span class="topo-inside">EGESW</span><span class="topo-unknown">TVSLYWTFVTIATVGYG</span><span class="topo-inside">DYSPSTP</span><span class="topo-membrane">LGMYFTVTLIVLGIGTFAVAVE</span><span class="topo-unknown">RLLEFL</span><span class="topo-outside">I</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3068,6 +3125,7 @@ MthK is a calcium-gated potassium channel from the archaeon Methanobacterium the
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3083,8 +3141,9 @@ MthK is a calcium-gated potassium channel from the archaeon Methanobacterium the
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">VPATRI</span><span class="topo-membrane">LLLVLAVIIYGTAGFHFI</span><span class="topo-inside">EGESW</span><span class="topo-unknown">TVSLYWTFVTIATVGYG</span><span class="topo-inside">DYSPSTP</span><span class="topo-membrane">LGMYFTV</span></span>
-<span class="topo-line"><span class="topo-membrane">TLIVLGIGTFAVAVE</span><span class="topo-unknown">RLLEFL</span><span class="topo-outside">I</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80  </span>
+<span class="topo-line"><span class="topo-outside">VPATRI</span><span class="topo-membrane">LLLVLAVIIYGTAGFHFI</span><span class="topo-inside">EGESW</span><span class="topo-unknown">TVSLYWTFVTIATVGYG</span><span class="topo-inside">DYSPSTP</span><span class="topo-membrane">LGMYFTVTLIVLGIGTFAVAVE</span><span class="topo-unknown">RLLEFL</span><span class="topo-outside">I</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3152,6 +3211,7 @@ MthK is a calcium-gated potassium channel from the archaeon Methanobacterium the
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3167,8 +3227,9 @@ MthK is a calcium-gated potassium channel from the archaeon Methanobacterium the
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">VPATRI</span><span class="topo-membrane">LLLVLAVIIYGTAGFHFI</span><span class="topo-inside">EGESW</span><span class="topo-unknown">TVSLYWTFVTIATVGYG</span><span class="topo-inside">DYSPSTP</span><span class="topo-membrane">LGMYFTV</span></span>
-<span class="topo-line"><span class="topo-membrane">TLIVLGIGTFAVAVE</span><span class="topo-unknown">RLLEFL</span><span class="topo-outside">I</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80  </span>
+<span class="topo-line"><span class="topo-outside">VPATRI</span><span class="topo-membrane">LLLVLAVIIYGTAGFHFI</span><span class="topo-inside">EGESW</span><span class="topo-unknown">TVSLYWTFVTIATVGYG</span><span class="topo-inside">DYSPSTP</span><span class="topo-membrane">LGMYFTVTLIVLGIGTFAVAVE</span><span class="topo-unknown">RLLEFL</span><span class="topo-outside">I</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3236,6 +3297,7 @@ MthK is a calcium-gated potassium channel from the archaeon Methanobacterium the
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3251,8 +3313,9 @@ MthK is a calcium-gated potassium channel from the archaeon Methanobacterium the
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">VPATRI</span><span class="topo-membrane">LLLVLAVIIYGTAGFHFI</span><span class="topo-inside">EGESW</span><span class="topo-unknown">TVSLYWTFVTIATVGYG</span><span class="topo-inside">DYSPSTP</span><span class="topo-membrane">LGMYFTV</span></span>
-<span class="topo-line"><span class="topo-membrane">TLIVLGIGTFAVAVE</span><span class="topo-unknown">RLLEFL</span><span class="topo-outside">I</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80  </span>
+<span class="topo-line"><span class="topo-outside">VPATRI</span><span class="topo-membrane">LLLVLAVIIYGTAGFHFI</span><span class="topo-inside">EGESW</span><span class="topo-unknown">TVSLYWTFVTIATVGYG</span><span class="topo-inside">DYSPSTP</span><span class="topo-membrane">LGMYFTVTLIVLGIGTFAVAVE</span><span class="topo-unknown">RLLEFL</span><span class="topo-outside">I</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3320,6 +3383,7 @@ MthK is a calcium-gated potassium channel from the archaeon Methanobacterium the
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3335,8 +3399,9 @@ MthK is a calcium-gated potassium channel from the archaeon Methanobacterium the
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">VPATRI</span><span class="topo-membrane">LLLVLAVIIYGTAGFHFI</span><span class="topo-inside">EGESW</span><span class="topo-unknown">TVSLYWTFVTIATVGYG</span><span class="topo-inside">DYSPSTP</span><span class="topo-membrane">LGMYFTV</span></span>
-<span class="topo-line"><span class="topo-membrane">TLIVLGIGTFAVAVE</span><span class="topo-unknown">RLLEFL</span><span class="topo-outside">I</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80  </span>
+<span class="topo-line"><span class="topo-outside">VPATRI</span><span class="topo-membrane">LLLVLAVIIYGTAGFHFI</span><span class="topo-inside">EGESW</span><span class="topo-unknown">TVSLYWTFVTIATVGYG</span><span class="topo-inside">DYSPSTP</span><span class="topo-membrane">LGMYFTVTLIVLGIGTFAVAVE</span><span class="topo-unknown">RLLEFL</span><span class="topo-outside">I</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3404,6 +3469,7 @@ MthK is a calcium-gated potassium channel from the archaeon Methanobacterium the
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3419,8 +3485,9 @@ MthK is a calcium-gated potassium channel from the archaeon Methanobacterium the
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">VPATRI</span><span class="topo-membrane">LLLVLAVIIYGTAGFHFI</span><span class="topo-inside">EGESW</span><span class="topo-unknown">TVSLYWTFVTIATVGYG</span><span class="topo-inside">DYSPSTP</span><span class="topo-membrane">LGMYFTV</span></span>
-<span class="topo-line"><span class="topo-membrane">TLIVLGIGTFAVAVE</span><span class="topo-unknown">RLLEFL</span><span class="topo-outside">I</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80  </span>
+<span class="topo-line"><span class="topo-outside">VPATRI</span><span class="topo-membrane">LLLVLAVIIYGTAGFHFI</span><span class="topo-inside">EGESW</span><span class="topo-unknown">TVSLYWTFVTIATVGYG</span><span class="topo-inside">DYSPSTP</span><span class="topo-membrane">LGMYFTVTLIVLGIGTFAVAVE</span><span class="topo-unknown">RLLEFL</span><span class="topo-outside">I</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3488,6 +3555,7 @@ MthK is a calcium-gated potassium channel from the archaeon Methanobacterium the
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3503,8 +3571,9 @@ MthK is a calcium-gated potassium channel from the archaeon Methanobacterium the
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">VPATRI</span><span class="topo-membrane">LLLVLAVIIYGTAGFHFI</span><span class="topo-inside">EGESW</span><span class="topo-unknown">TVSLYWTFVTIATVGYG</span><span class="topo-inside">DYSPSTP</span><span class="topo-membrane">LGMYFTV</span></span>
-<span class="topo-line"><span class="topo-membrane">TLIVLGIGTFAVAVE</span><span class="topo-unknown">RLLEFL</span><span class="topo-outside">I</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80  </span>
+<span class="topo-line"><span class="topo-outside">VPATRI</span><span class="topo-membrane">LLLVLAVIIYGTAGFHFI</span><span class="topo-inside">EGESW</span><span class="topo-unknown">TVSLYWTFVTIATVGYG</span><span class="topo-inside">DYSPSTP</span><span class="topo-membrane">LGMYFTVTLIVLGIGTFAVAVE</span><span class="topo-unknown">RLLEFL</span><span class="topo-outside">I</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3572,6 +3641,7 @@ MthK is a calcium-gated potassium channel from the archaeon Methanobacterium the
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -3587,8 +3657,9 @@ MthK is a calcium-gated potassium channel from the archaeon Methanobacterium the
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">VPATRI</span><span class="topo-membrane">LLLVLAVIIYGTAGFHFI</span><span class="topo-inside">EGESW</span><span class="topo-unknown">TVSLYWTFVTIATVGYG</span><span class="topo-inside">DYSPSTP</span><span class="topo-membrane">LGMYFTV</span></span>
-<span class="topo-line"><span class="topo-membrane">TLIVLGIGTFAVAVE</span><span class="topo-unknown">RLLEFL</span><span class="topo-outside">I</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80  </span>
+<span class="topo-line"><span class="topo-outside">VPATRI</span><span class="topo-membrane">LLLVLAVIIYGTAGFHFI</span><span class="topo-inside">EGESW</span><span class="topo-unknown">TVSLYWTFVTIATVGYG</span><span class="topo-inside">DYSPSTP</span><span class="topo-membrane">LGMYFTVTLIVLGIGTFAVAVE</span><span class="topo-unknown">RLLEFL</span><span class="topo-outside">I</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -3656,6 +3727,7 @@ MthK is a calcium-gated potassium channel from the archaeon Methanobacterium the
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

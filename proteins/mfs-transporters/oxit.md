@@ -150,14 +150,15 @@ Oxalate transporter OxIT is an oxalate:formate antiporter (OFA) from the gut bac
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MNNPQTGQST</span><span class="topo-outside">GLLGNRWFYL</span><span class="topo-membrane">VLAVLLMCMISGVQYSWTLYA</span><span class="topo-inside">NPVKDNLGVSLAAV</span><span class="topo-membrane">QTAFT</span></span>
-<span class="topo-line"><span class="topo-membrane">LSQVIQAGSQPGGGYFV</span><span class="topo-outside">DKFGP</span><span class="topo-membrane">RIPLMFGGAMVLAGWTFMGMV</span><span class="topo-inside">DSVP</span><span class="topo-membrane">ALYALYTLAGAGV</span></span>
-<span class="topo-line"><span class="topo-membrane">GIVYGIAMNTA</span><span class="topo-outside">NRWFPDKRG</span><span class="topo-membrane">LASGFTAAGYGLGVLPFLPLISSVL</span><span class="topo-inside">KVEGV</span><span class="topo-membrane">GAAFMYTGLI</span></span>
-<span class="topo-line"><span class="topo-membrane">MGILIILIAFVI</span><span class="topo-outside">RFPGQ</span><span class="topo-unknown">QGAKK</span><span class="topo-outside">QIVVTDKDFNSGEMLRTP</span><span class="topo-membrane">QFWVLWTAFFSVNFGGLLLV</span></span>
-<span class="topo-line"><span class="topo-membrane">ANSV</span><span class="topo-inside">PYGRSLGLAAGVLT</span><span class="topo-membrane">IGVSIQNLFNGGCRPFWGFVS</span><span class="topo-outside">DKIGR</span><span class="topo-membrane">YKTMSVVFGINAVVLA</span></span>
-<span class="topo-line"><span class="topo-membrane">LFPTIA</span><span class="topo-inside">ALGDV</span><span class="topo-membrane">AFIAMLAIAFFTWGGSYALFPSTN</span><span class="topo-outside">SDIFGTAYSA</span><span class="topo-membrane">RNYGFFWAAKATASI</span></span>
-<span class="topo-line"><span class="topo-membrane">FGGGLGA</span><span class="topo-inside">AIATNFGWN</span><span class="topo-membrane">TAFLITAITSFIAFALATFVIP</span><span class="topo-outside">RMGRPVK</span><span class="topo-unknown">KMVKLSPEEKAVHHH</span></span>
-<span class="topo-line"><span class="topo-unknown">HHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MNNPQTGQST</span><span class="topo-outside">GLLGNRWFYL</span><span class="topo-membrane">VLAVLLMCMISGVQYSWTLYA</span><span class="topo-inside">NPVKDNLGVSLAAV</span><span class="topo-membrane">QTAFTLSQVIQAGSQPGGGYFV</span><span class="topo-outside">DKFGP</span><span class="topo-membrane">RIPLMFGGAMVLAGWTFMGMV</span><span class="topo-inside">DSVP</span><span class="topo-membrane">ALYALYTLAGAGV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GIVYGIAMNTA</span><span class="topo-outside">NRWFPDKRG</span><span class="topo-membrane">LASGFTAAGYGLGVLPFLPLISSVL</span><span class="topo-inside">KVEGV</span><span class="topo-membrane">GAAFMYTGLIMGILIILIAFVI</span><span class="topo-outside">RFPGQ</span><span class="topo-unknown">QGAKK</span><span class="topo-outside">QIVVTDKDFNSGEMLRTP</span><span class="topo-membrane">QFWVLWTAFFSVNFGGLLLV</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">ANSV</span><span class="topo-inside">PYGRSLGLAAGVLT</span><span class="topo-membrane">IGVSIQNLFNGGCRPFWGFVS</span><span class="topo-outside">DKIGR</span><span class="topo-membrane">YKTMSVVFGINAVVLALFPTIA</span><span class="topo-inside">ALGDV</span><span class="topo-membrane">AFIAMLAIAFFTWGGSYALFPSTN</span><span class="topo-outside">SDIFGTAYSA</span><span class="topo-membrane">RNYGFFWAAKATASI</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       </span>
+<span class="topo-line"><span class="topo-membrane">FGGGLGA</span><span class="topo-inside">AIATNFGWN</span><span class="topo-membrane">TAFLITAITSFIAFALATFVIP</span><span class="topo-outside">RMGRPVK</span><span class="topo-unknown">KMVKLSPEEKAVHHHHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (29 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -372,6 +373,7 @@ Oxalate transporter OxIT is an oxalate:formate antiporter (OFA) from the gut bac
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -387,14 +389,15 @@ Oxalate transporter OxIT is an oxalate:formate antiporter (OFA) from the gut bac
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MNNPQTGQST</span><span class="topo-inside">GLLGNRWF</span><span class="topo-membrane">YLVLAVLLMCMISGVQYSW</span><span class="topo-outside">TLYANPVKDNLGVSLAAVQTA</span><span class="topo-membrane">FT</span></span>
-<span class="topo-line"><span class="topo-membrane">LSQVIQAGSQPGGGYFV</span><span class="topo-inside">DKFGP</span><span class="topo-membrane">RIPLMFGGAMVLAGWTFM</span><span class="topo-outside">GMVDSVPALY</span><span class="topo-membrane">ALYTLAGAGV</span></span>
-<span class="topo-line"><span class="topo-membrane">GIVYGIAMNTAN</span><span class="topo-inside">RWFPDKRG</span><span class="topo-membrane">LASGFTAAGYGLGVLPFLPLI</span><span class="topo-outside">SSVLKVEGVGAAF</span><span class="topo-membrane">MYTGLI</span></span>
-<span class="topo-line"><span class="topo-membrane">MGILIILIAFVI</span><span class="topo-inside">RFPG</span><span class="topo-unknown">QQGAKKQ</span><span class="topo-inside">IVVTDKDFNSGEM</span><span class="topo-membrane">LRTPQFWVLWTAFFSVNFGGLLLV</span></span>
-<span class="topo-line"><span class="topo-membrane">A</span><span class="topo-outside">NSVPYGRSLGLAAGVLTI</span><span class="topo-membrane">GVSIQNLFNGGCRPFWGFVS</span><span class="topo-inside">DKIGR</span><span class="topo-membrane">YKTMSVVFGINAVVLA</span></span>
-<span class="topo-line"><span class="topo-membrane">LFPTIA</span><span class="topo-outside">ALGDV</span><span class="topo-membrane">AFIAMLAIAFFTWGGSYALFPSTN</span><span class="topo-inside">SDIFGTAYS</span><span class="topo-membrane">ARNYGFFWAAKATASI</span></span>
-<span class="topo-line"><span class="topo-membrane">FG</span><span class="topo-outside">GGLGAAIATNFGWNTA</span><span class="topo-membrane">FLITAITSFIAFALATFVIP</span><span class="topo-inside">RMGRPVKKMVKL</span><span class="topo-unknown">SPEEKAVHHH</span></span>
-<span class="topo-line"><span class="topo-unknown">HHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MNNPQTGQST</span><span class="topo-inside">GLLGNRWF</span><span class="topo-membrane">YLVLAVLLMCMISGVQYSW</span><span class="topo-outside">TLYANPVKDNLGVSLAAVQTA</span><span class="topo-membrane">FTLSQVIQAGSQPGGGYFV</span><span class="topo-inside">DKFGP</span><span class="topo-membrane">RIPLMFGGAMVLAGWTFM</span><span class="topo-outside">GMVDSVPALY</span><span class="topo-membrane">ALYTLAGAGV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GIVYGIAMNTAN</span><span class="topo-inside">RWFPDKRG</span><span class="topo-membrane">LASGFTAAGYGLGVLPFLPLI</span><span class="topo-outside">SSVLKVEGVGAAF</span><span class="topo-membrane">MYTGLIMGILIILIAFVI</span><span class="topo-inside">RFPG</span><span class="topo-unknown">QQGAKKQ</span><span class="topo-inside">IVVTDKDFNSGEM</span><span class="topo-membrane">LRTPQFWVLWTAFFSVNFGGLLLV</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">A</span><span class="topo-outside">NSVPYGRSLGLAAGVLTI</span><span class="topo-membrane">GVSIQNLFNGGCRPFWGFVS</span><span class="topo-inside">DKIGR</span><span class="topo-membrane">YKTMSVVFGINAVVLALFPTIA</span><span class="topo-outside">ALGDV</span><span class="topo-membrane">AFIAMLAIAFFTWGGSYALFPSTN</span><span class="topo-inside">SDIFGTAYS</span><span class="topo-membrane">ARNYGFFWAAKATASI</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       </span>
+<span class="topo-line"><span class="topo-membrane">FG</span><span class="topo-outside">GGLGAAIATNFGWNTA</span><span class="topo-membrane">FLITAITSFIAFALATFVIP</span><span class="topo-inside">RMGRPVKKMVKL</span><span class="topo-unknown">SPEEKAVHHHHHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (29 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -609,6 +612,7 @@ Oxalate transporter OxIT is an oxalate:formate antiporter (OFA) from the gut bac
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

@@ -121,10 +121,11 @@ NsXeR is a light-driven inward proton pump (xenorhodopsin) from the nanohaloarch
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">M</span><span class="topo-unknown">VYEAIT</span><span class="topo-outside">AGGFGSQPF</span><span class="topo-membrane">ILAYIITAMISGLLFLY</span><span class="topo-inside">LPRKLDVPQKFG</span><span class="topo-membrane">IIHFFIVVWSGLMYT</span></span>
-<span class="topo-line"><span class="topo-outside">NFLNQSFLSDYA</span><span class="topo-membrane">WYMDWMVSTPLILLAL</span><span class="topo-inside">GLTAFHGADTKRYDLLG</span><span class="topo-membrane">ALLGAEFTLVITGLL</span></span>
-<span class="topo-line"><span class="topo-membrane">A</span><span class="topo-outside">QAQGSIT</span><span class="topo-membrane">PYYVGVLLLLGVVYLLA</span><span class="topo-inside">KPFREIAEESSDGLARAYKIL</span><span class="topo-membrane">AGYIGIFFLSYPTV</span></span>
-<span class="topo-line"><span class="topo-membrane">WY</span><span class="topo-outside">ISGIDALPGSLNILDPTQTSI</span><span class="topo-membrane">ALVVLPFFCKQVYGFLD</span><span class="topo-inside">MYLIHKAELEHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">M</span><span class="topo-unknown">VYEAIT</span><span class="topo-outside">AGGFGSQPF</span><span class="topo-membrane">ILAYIITAMISGLLFLY</span><span class="topo-inside">LPRKLDVPQKFG</span><span class="topo-membrane">IIHFFIVVWSGLMYT</span><span class="topo-outside">NFLNQSFLSDYA</span><span class="topo-membrane">WYMDWMVSTPLILLAL</span><span class="topo-inside">GLTAFHGADTKRYDLLG</span><span class="topo-membrane">ALLGAEFTLVITGLL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230  </span>
+<span class="topo-line"><span class="topo-membrane">A</span><span class="topo-outside">QAQGSIT</span><span class="topo-membrane">PYYVGVLLLLGVVYLLA</span><span class="topo-inside">KPFREIAEESSDGLARAYKIL</span><span class="topo-membrane">AGYIGIFFLSYPTVWY</span><span class="topo-outside">ISGIDALPGSLNILDPTQTSI</span><span class="topo-membrane">ALVVLPFFCKQVYGFLD</span><span class="topo-inside">MYLIHKAELEHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -255,6 +256,7 @@ NsXeR is a light-driven inward proton pump (xenorhodopsin) from the nanohaloarch
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -270,10 +272,11 @@ NsXeR is a light-driven inward proton pump (xenorhodopsin) from the nanohaloarch
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MVYEAITAGGFGSQPF</span><span class="topo-membrane">ILAYIITAMISGLLFLY</span><span class="topo-inside">LPRKLDVPQKFG</span><span class="topo-membrane">IIHFFIVVWSGLMYT</span></span>
-<span class="topo-line"><span class="topo-outside">NFLNQSFLSDY</span><span class="topo-membrane">AWYMDWMVSTPLILLA</span><span class="topo-inside">LGLTAFHGADTKRYDLLG</span><span class="topo-membrane">ALLGAEFTLVITGLL</span></span>
-<span class="topo-line"><span class="topo-membrane">A</span><span class="topo-outside">QAQGSI</span><span class="topo-membrane">TPYYVGVLLLLGVVY</span><span class="topo-inside">LLAKPFREIAEESSDGLARAYKILAG</span><span class="topo-membrane">YIGIFFLSYPTV</span></span>
-<span class="topo-line"><span class="topo-membrane">WYI</span><span class="topo-outside">SGIDALPGSLNILDPTQT</span><span class="topo-membrane">SIALVVLPFFCKQVYGFL</span><span class="topo-inside">DMYLIHKAELEHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MVYEAITAGGFGSQPF</span><span class="topo-membrane">ILAYIITAMISGLLFLY</span><span class="topo-inside">LPRKLDVPQKFG</span><span class="topo-membrane">IIHFFIVVWSGLMYT</span><span class="topo-outside">NFLNQSFLSDY</span><span class="topo-membrane">AWYMDWMVSTPLILLA</span><span class="topo-inside">LGLTAFHGADTKRYDLLG</span><span class="topo-membrane">ALLGAEFTLVITGLL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230  </span>
+<span class="topo-line"><span class="topo-membrane">A</span><span class="topo-outside">QAQGSI</span><span class="topo-membrane">TPYYVGVLLLLGVVY</span><span class="topo-inside">LLAKPFREIAEESSDGLARAYKILAG</span><span class="topo-membrane">YIGIFFLSYPTVWYI</span><span class="topo-outside">SGIDALPGSLNILDPTQT</span><span class="topo-membrane">SIALVVLPFFCKQVYGFL</span><span class="topo-inside">DMYLIHKAELEHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -390,6 +393,7 @@ NsXeR is a light-driven inward proton pump (xenorhodopsin) from the nanohaloarch
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -405,10 +409,11 @@ NsXeR is a light-driven inward proton pump (xenorhodopsin) from the nanohaloarch
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">M</span><span class="topo-unknown">VYEAIT</span><span class="topo-outside">AGGFGSQPF</span><span class="topo-membrane">ILAYIITAMISGLLFL</span><span class="topo-inside">YLPRKLDVPQKFGI</span><span class="topo-membrane">IHFFIVVWSGLMYT</span></span>
-<span class="topo-line"><span class="topo-outside">NFLNQSFLSDY</span><span class="topo-membrane">AWYMDWMVSTPLILLA</span><span class="topo-inside">LGLTAFHGADTKRYDLLG</span><span class="topo-membrane">ALLGAEFTLVITGLL</span></span>
-<span class="topo-line"><span class="topo-membrane">A</span><span class="topo-outside">QAQGSIT</span><span class="topo-membrane">PYYVGVLLLLGVVYLL</span><span class="topo-inside">AKPFREIAEESSDGLARAYKIL</span><span class="topo-membrane">AGYIGIFFLSYPTV</span></span>
-<span class="topo-line"><span class="topo-membrane">WY</span><span class="topo-outside">ISGIDALPGSLNILDPTQTSI</span><span class="topo-membrane">ALVVLPFFCKQVYGFL</span><span class="topo-inside">DMYLIHKAEL</span><span class="topo-unknown">EHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">M</span><span class="topo-unknown">VYEAIT</span><span class="topo-outside">AGGFGSQPF</span><span class="topo-membrane">ILAYIITAMISGLLFL</span><span class="topo-inside">YLPRKLDVPQKFGI</span><span class="topo-membrane">IHFFIVVWSGLMYT</span><span class="topo-outside">NFLNQSFLSDY</span><span class="topo-membrane">AWYMDWMVSTPLILLA</span><span class="topo-inside">LGLTAFHGADTKRYDLLG</span><span class="topo-membrane">ALLGAEFTLVITGLL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230  </span>
+<span class="topo-line"><span class="topo-membrane">A</span><span class="topo-outside">QAQGSIT</span><span class="topo-membrane">PYYVGVLLLLGVVYLL</span><span class="topo-inside">AKPFREIAEESSDGLARAYKIL</span><span class="topo-membrane">AGYIGIFFLSYPTVWY</span><span class="topo-outside">ISGIDALPGSLNILDPTQTSI</span><span class="topo-membrane">ALVVLPFFCKQVYGFL</span><span class="topo-inside">DMYLIHKAEL</span><span class="topo-unknown">EHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -539,6 +544,7 @@ NsXeR is a light-driven inward proton pump (xenorhodopsin) from the nanohaloarch
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

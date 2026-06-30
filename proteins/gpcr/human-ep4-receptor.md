@@ -146,12 +146,13 @@ The prostaglandin E2 receptor EP4 (EP4) is a class A G protein-coupled receptor 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GTSPGVQSSASLSPDRL</span><span class="topo-outside">NSPVT</span><span class="topo-membrane">IPAVMFIFGVVGNLVAIVVLCKS</span><span class="topo-inside">RKEQKETT</span><span class="topo-membrane">FYTLVCG</span></span>
-<span class="topo-line"><span class="topo-membrane">LLVTDLLGTLLVSPVTI</span><span class="topo-outside">ATYMKGQWPGGQPLCE</span><span class="topo-membrane">YSTFILLFFSLSRLSIICAMSVERY</span><span class="topo-inside">LA</span></span>
-<span class="topo-line"><span class="topo-inside">INHAYFYSHYVD</span><span class="topo-membrane">KRLAGLTLFAVYASNVLFCALPNMGLG</span><span class="topo-outside">SSRLQYPDTWCFIDWTTQVT</span><span class="topo-membrane">A</span></span>
-<span class="topo-line"><span class="topo-membrane">HAAYSYMYAGFSSFLILATVLCNVLVC</span><span class="topo-inside">GALLRMH</span><span class="topo-unknown">RQFFRRI</span><span class="topo-inside">AGAEIQM</span><span class="topo-membrane">VILLIATSLVVL</span></span>
-<span class="topo-line"><span class="topo-membrane">ICSIPLVVRVFVNQLY</span><span class="topo-outside">QPSLEREVSKNP</span><span class="topo-membrane">DLQAIRIASVNPILDPWIYILLRKTVL</span><span class="topo-inside">SKAIE</span></span>
-<span class="topo-line"><span class="topo-inside">KIKC</span><span class="topo-unknown">LFCRIGGSRRERSGQHCSDSLEENLYFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GTSPGVQSSASLSPDRL</span><span class="topo-outside">NSPVT</span><span class="topo-membrane">IPAVMFIFGVVGNLVAIVVLCKS</span><span class="topo-inside">RKEQKETT</span><span class="topo-membrane">FYTLVCGLLVTDLLGTLLVSPVTI</span><span class="topo-outside">ATYMKGQWPGGQPLCE</span><span class="topo-membrane">YSTFILLFFSLSRLSIICAMSVERY</span><span class="topo-inside">LA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">INHAYFYSHYVD</span><span class="topo-membrane">KRLAGLTLFAVYASNVLFCALPNMGLG</span><span class="topo-outside">SSRLQYPDTWCFIDWTTQVT</span><span class="topo-membrane">AHAAYSYMYAGFSSFLILATVLCNVLVC</span><span class="topo-inside">GALLRMH</span><span class="topo-unknown">RQFFRRI</span><span class="topo-inside">AGAEIQM</span><span class="topo-membrane">VILLIATSLVVL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330  </span>
+<span class="topo-line"><span class="topo-membrane">ICSIPLVVRVFVNQLY</span><span class="topo-outside">QPSLEREVSKNP</span><span class="topo-membrane">DLQAIRIASVNPILDPWIYILLRKTVL</span><span class="topo-inside">SKAIEKIKC</span><span class="topo-unknown">LFCRIGGSRRERSGQHCSDSLEENLYFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -275,6 +276,7 @@ The prostaglandin E2 receptor EP4 (EP4) is a class A G protein-coupled receptor 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

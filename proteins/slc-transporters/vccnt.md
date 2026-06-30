@@ -154,14 +154,15 @@ vcCNT is a concentrative nucleoside transporter from Vibrio cholerae, a member o
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GPAVPRM</span><span class="topo-outside">SLFMS</span><span class="topo-membrane">LIGMAVLLGIAVLLS</span><span class="topo-inside">SNRKAI</span><span class="topo-membrane">NLRTVGGAFAIQFSLGAFI</span><span class="topo-outside">LYV</span><span class="topo-unknown">PWGQE</span></span>
-<span class="topo-line"><span class="topo-unknown">LLRGFSDAVSNVINYGNDGTSFLF</span><span class="topo-outside">GGLVSGKMFEVFGGGGFIFAFRVL</span><span class="topo-membrane">PTLIFFSALISV</span></span>
-<span class="topo-line"><span class="topo-membrane">LYYL</span><span class="topo-inside">G</span><span class="topo-unknown">VMQWVIRILGGGLQKAL</span><span class="topo-inside">GTSRAESMSAAANIFVGQTEAPLVVRPFVPKMTQSELF</span></span>
-<span class="topo-line"><span class="topo-membrane">AVMCGGLASIAGGVLAG</span><span class="topo-outside">YASMGVKIEYL</span><span class="topo-membrane">VAASFMAAPGGLLFAKLMM</span><span class="topo-inside">PETEKPQD</span><span class="topo-unknown">NEDIT</span></span>
-<span class="topo-line"><span class="topo-unknown">LDGGDD</span><span class="topo-inside">K</span><span class="topo-membrane">PANVIDAAAGGASAGLQLALNVGAMLIAFIGLI</span><span class="topo-outside">ALINGMLGGIGGWFGMPELK</span></span>
-<span class="topo-line"><span class="topo-outside">LEMLLGWLFAPLAFLIGVPWNEATVAGEFIGLKTVANEFVAYSQFAPYLTEAAPVVLSEK</span></span>
-<span class="topo-line"><span class="topo-outside">TKAIISF</span><span class="topo-membrane">ALCGFANLSSIAILLGGL</span><span class="topo-inside">GSLAPKRRGDIARM</span><span class="topo-membrane">GVKAVIAGTLSNLMAATIA</span><span class="topo-outside">GF</span></span>
-<span class="topo-line"><span class="topo-outside">FL</span><span class="topo-unknown">SF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GPAVPRM</span><span class="topo-outside">SLFMS</span><span class="topo-membrane">LIGMAVLLGIAVLLS</span><span class="topo-inside">SNRKAI</span><span class="topo-membrane">NLRTVGGAFAIQFSLGAFI</span><span class="topo-outside">LYV</span><span class="topo-unknown">PWGQELLRGFSDAVSNVINYGNDGTSFLF</span><span class="topo-outside">GGLVSGKMFEVFGGGGFIFAFRVL</span><span class="topo-membrane">PTLIFFSALISV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">LYYL</span><span class="topo-inside">G</span><span class="topo-unknown">VMQWVIRILGGGLQKAL</span><span class="topo-inside">GTSRAESMSAAANIFVGQTEAPLVVRPFVPKMTQSELF</span><span class="topo-membrane">AVMCGGLASIAGGVLAG</span><span class="topo-outside">YASMGVKIEYL</span><span class="topo-membrane">VAASFMAAPGGLLFAKLMM</span><span class="topo-inside">PETEKPQD</span><span class="topo-unknown">NEDIT</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-unknown">LDGGDD</span><span class="topo-inside">K</span><span class="topo-membrane">PANVIDAAAGGASAGLQLALNVGAMLIAFIGLI</span><span class="topo-outside">ALINGMLGGIGGWFGMPELKLEMLLGWLFAPLAFLIGVPWNEATVAGEFIGLKTVANEFVAYSQFAPYLTEAAPVVLSEK</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420    </span>
+<span class="topo-line"><span class="topo-outside">TKAIISF</span><span class="topo-membrane">ALCGFANLSSIAILLGGL</span><span class="topo-inside">GSLAPKRRGDIARM</span><span class="topo-membrane">GVKAVIAGTLSNLMAATIA</span><span class="topo-outside">GFFL</span><span class="topo-unknown">SF</span></span>
+<details class="topo-details"><summary>Topology coordinates (25 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -348,6 +349,7 @@ vcCNT is a concentrative nucleoside transporter from Vibrio cholerae, a member o
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -363,14 +365,15 @@ vcCNT is a concentrative nucleoside transporter from Vibrio cholerae, a member o
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GPAVPRM</span><span class="topo-outside">SL</span><span class="topo-membrane">FMSLIGMAVLLGIAVLL</span><span class="topo-inside">SSNRKAINLRTV</span><span class="topo-membrane">GGAFAIQFSLGAFILYV</span><span class="topo-unknown">PWGQE</span></span>
-<span class="topo-line"><span class="topo-unknown">LLRGFSDAVSNVINYGNDGTSFLF</span><span class="topo-outside">GGLVSGKMFEVFGGGGFIFAFRVL</span><span class="topo-membrane">PTLIFFSALISV</span></span>
-<span class="topo-line"><span class="topo-membrane">LYYL</span><span class="topo-inside">G</span><span class="topo-unknown">VMQWVIRILGGGLQKAL</span><span class="topo-inside">GTSRAESMSAAANIFVGQTEAPLVVRPFVPKMTQSELF</span></span>
-<span class="topo-line"><span class="topo-inside">A</span><span class="topo-membrane">VMCGGLASIAGGVLAGYA</span><span class="topo-outside">SMGVKI</span><span class="topo-membrane">EYLVAASFMAAPGGLLFA</span><span class="topo-inside">KLMMPETEKPQD</span><span class="topo-unknown">NEDIT</span></span>
-<span class="topo-line"><span class="topo-unknown">LDGGDD</span><span class="topo-inside">K</span><span class="topo-membrane">PANVIDAAAGGASAGLQLALNVGAMLIAFIGLI</span><span class="topo-outside">ALINGMLGGIGGWFGMPELK</span></span>
-<span class="topo-line"><span class="topo-outside">LEMLLGWLFAPLAFLIGVPWNEATVAGEFIGLKTVANEFVAYSQFAPYLTEAAPVVLSEK</span></span>
-<span class="topo-line"><span class="topo-outside">TKAI</span><span class="topo-membrane">ISFALCGFANLSSIAILLGG</span><span class="topo-inside">LGSLAPKRRGDIARMG</span><span class="topo-membrane">VKAVIAGTLSNLMAATIAGF</span></span>
-<span class="topo-line"><span class="topo-membrane">F</span><span class="topo-outside">L</span><span class="topo-unknown">SF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GPAVPRM</span><span class="topo-outside">SL</span><span class="topo-membrane">FMSLIGMAVLLGIAVLL</span><span class="topo-inside">SSNRKAINLRTV</span><span class="topo-membrane">GGAFAIQFSLGAFILYV</span><span class="topo-unknown">PWGQELLRGFSDAVSNVINYGNDGTSFLF</span><span class="topo-outside">GGLVSGKMFEVFGGGGFIFAFRVL</span><span class="topo-membrane">PTLIFFSALISV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">LYYL</span><span class="topo-inside">G</span><span class="topo-unknown">VMQWVIRILGGGLQKAL</span><span class="topo-inside">GTSRAESMSAAANIFVGQTEAPLVVRPFVPKMTQSELFA</span><span class="topo-membrane">VMCGGLASIAGGVLAGYA</span><span class="topo-outside">SMGVKI</span><span class="topo-membrane">EYLVAASFMAAPGGLLFA</span><span class="topo-inside">KLMMPETEKPQD</span><span class="topo-unknown">NEDIT</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-unknown">LDGGDD</span><span class="topo-inside">K</span><span class="topo-membrane">PANVIDAAAGGASAGLQLALNVGAMLIAFIGLI</span><span class="topo-outside">ALINGMLGGIGGWFGMPELKLEMLLGWLFAPLAFLIGVPWNEATVAGEFIGLKTVANEFVAYSQFAPYLTEAAPVVLSEK</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420    </span>
+<span class="topo-line"><span class="topo-outside">TKAI</span><span class="topo-membrane">ISFALCGFANLSSIAILLGG</span><span class="topo-inside">LGSLAPKRRGDIARMG</span><span class="topo-membrane">VKAVIAGTLSNLMAATIAGFF</span><span class="topo-outside">L</span><span class="topo-unknown">SF</span></span>
+<details class="topo-details"><summary>Topology coordinates (25 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -557,6 +560,7 @@ vcCNT is a concentrative nucleoside transporter from Vibrio cholerae, a member o
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -572,14 +576,15 @@ vcCNT is a concentrative nucleoside transporter from Vibrio cholerae, a member o
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GPAVPRM</span><span class="topo-outside">S</span><span class="topo-membrane">LFMSLIGMAVLLGIAVLL</span><span class="topo-inside">SSNRKAINLRT</span><span class="topo-membrane">VGGAFAIQFSLGAFIL</span><span class="topo-outside">YV</span><span class="topo-unknown">PWGQE</span></span>
-<span class="topo-line"><span class="topo-unknown">LLRGFSDAVSNVINYGNDGTSFLF</span><span class="topo-outside">GGLVSGKMFEVFGGGGFIFAFRVL</span><span class="topo-membrane">PTLIFFSALISV</span></span>
-<span class="topo-line"><span class="topo-membrane">LYYL</span><span class="topo-inside">G</span><span class="topo-unknown">VMQWVIRILGGGLQKAL</span><span class="topo-inside">GTSRAESMSAAANIFVGQTEAPLVVRPFVPKMTQSELF</span></span>
-<span class="topo-line"><span class="topo-inside">A</span><span class="topo-membrane">VMCGGLASIAGGVLAGY</span><span class="topo-outside">ASMGVKIE</span><span class="topo-membrane">YLVAASFMAAPGGLLFA</span><span class="topo-inside">KLMMPETEKPQD</span><span class="topo-unknown">NEDIT</span></span>
-<span class="topo-line"><span class="topo-unknown">LDGGDD</span><span class="topo-inside">K</span><span class="topo-membrane">PANVIDAAAGGASAGLQLALNVGAMLIAFIGLI</span><span class="topo-outside">ALINGMLGGIGGWFGMPELK</span></span>
-<span class="topo-line"><span class="topo-outside">LEMLLGWLFAPLAFLIGVPWNEATVAGEFIGLKTVANEFVAYSQFAPYLTEAAPVVLSEK</span></span>
-<span class="topo-line"><span class="topo-outside">TKAI</span><span class="topo-membrane">ISFALCGFANLSSIAIL</span><span class="topo-inside">LGGLGSLAPKRRGDIARMG</span><span class="topo-membrane">VKAVIAGTLSNLMAATIAGF</span></span>
-<span class="topo-line"><span class="topo-membrane">F</span><span class="topo-outside">L</span><span class="topo-unknown">SF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GPAVPRM</span><span class="topo-outside">S</span><span class="topo-membrane">LFMSLIGMAVLLGIAVLL</span><span class="topo-inside">SSNRKAINLRT</span><span class="topo-membrane">VGGAFAIQFSLGAFIL</span><span class="topo-outside">YV</span><span class="topo-unknown">PWGQELLRGFSDAVSNVINYGNDGTSFLF</span><span class="topo-outside">GGLVSGKMFEVFGGGGFIFAFRVL</span><span class="topo-membrane">PTLIFFSALISV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">LYYL</span><span class="topo-inside">G</span><span class="topo-unknown">VMQWVIRILGGGLQKAL</span><span class="topo-inside">GTSRAESMSAAANIFVGQTEAPLVVRPFVPKMTQSELFA</span><span class="topo-membrane">VMCGGLASIAGGVLAGY</span><span class="topo-outside">ASMGVKIE</span><span class="topo-membrane">YLVAASFMAAPGGLLFA</span><span class="topo-inside">KLMMPETEKPQD</span><span class="topo-unknown">NEDIT</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-unknown">LDGGDD</span><span class="topo-inside">K</span><span class="topo-membrane">PANVIDAAAGGASAGLQLALNVGAMLIAFIGLI</span><span class="topo-outside">ALINGMLGGIGGWFGMPELKLEMLLGWLFAPLAFLIGVPWNEATVAGEFIGLKTVANEFVAYSQFAPYLTEAAPVVLSEK</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420    </span>
+<span class="topo-line"><span class="topo-outside">TKAI</span><span class="topo-membrane">ISFALCGFANLSSIAIL</span><span class="topo-inside">LGGLGSLAPKRRGDIARMG</span><span class="topo-membrane">VKAVIAGTLSNLMAATIAGFF</span><span class="topo-outside">L</span><span class="topo-unknown">SF</span></span>
+<details class="topo-details"><summary>Topology coordinates (25 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -766,6 +771,7 @@ vcCNT is a concentrative nucleoside transporter from Vibrio cholerae, a member o
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

@@ -151,14 +151,15 @@ CasMATE is a multidrug and toxic compound extrusion (MATE) family transporter fr
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MKATWQ</span><span class="topo-inside">SGQLTAELKRVTRLA</span><span class="topo-membrane">APMATVTIAQYLLPVISVMVA</span><span class="topo-outside">GHNGELQLSGVALA</span><span class="topo-membrane">TSFT</span></span>
-<span class="topo-line"><span class="topo-membrane">NVTGFSIMYGLVGALE</span><span class="topo-inside">TLCGQAYGAKQYEKIGTYTYSA</span><span class="topo-membrane">IASNIPICFIISIIWFYI</span><span class="topo-outside">ENIL</span></span>
-<span class="topo-line"><span class="topo-outside">ISLGQDPDISRIAGS</span><span class="topo-membrane">YAFWLIPVLFAQAIVIPLTR</span><span class="topo-inside">FLLTQGLV</span><span class="topo-membrane">LPLLYTAVTTLLFHVFV</span></span>
-<span class="topo-line"><span class="topo-membrane">CWVFVLVF</span><span class="topo-outside">VLGSN</span><span class="topo-membrane">GPAMATSVSFWFYAVILSC</span><span class="topo-inside">YVRFSSSCEKTRGFVSEDFVSCVKQF</span><span class="topo-membrane">FQ</span></span>
-<span class="topo-line"><span class="topo-membrane">YGVPSAAMICLEWWLFELLI</span><span class="topo-outside">LCSGLLSNPKLETSVLS</span><span class="topo-membrane">ICLTTETLHYVISSGVAAAVS</span><span class="topo-inside">TR</span></span>
-<span class="topo-line"><span class="topo-inside">VSNNLGAGNPQVARVSVLAG</span><span class="topo-membrane">LCLWLVESAFFSILLFTFRNII</span><span class="topo-outside">GYAFSNSKEVVDYVADL</span><span class="topo-membrane">S</span></span>
-<span class="topo-line"><span class="topo-membrane">PLLCLSFILDGFTAVLNGVAR</span><span class="topo-inside">GSGW</span><span class="topo-membrane">QHIGAWNNIFSYYLVGAPVG</span><span class="topo-outside">VYLAFRHDLNGKGL</span><span class="topo-membrane">W</span></span>
-<span class="topo-line"><span class="topo-membrane">CGVVIGSTVQATVLAIVT</span><span class="topo-inside">ASMNWKEQAEKARKRI</span><span class="topo-unknown">V</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MKATWQ</span><span class="topo-inside">SGQLTAELKRVTRLA</span><span class="topo-membrane">APMATVTIAQYLLPVISVMVA</span><span class="topo-outside">GHNGELQLSGVALA</span><span class="topo-membrane">TSFTNVTGFSIMYGLVGALE</span><span class="topo-inside">TLCGQAYGAKQYEKIGTYTYSA</span><span class="topo-membrane">IASNIPICFIISIIWFYI</span><span class="topo-outside">ENIL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">ISLGQDPDISRIAGS</span><span class="topo-membrane">YAFWLIPVLFAQAIVIPLTR</span><span class="topo-inside">FLLTQGLV</span><span class="topo-membrane">LPLLYTAVTTLLFHVFVCWVFVLVF</span><span class="topo-outside">VLGSN</span><span class="topo-membrane">GPAMATSVSFWFYAVILSC</span><span class="topo-inside">YVRFSSSCEKTRGFVSEDFVSCVKQF</span><span class="topo-membrane">FQ</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">YGVPSAAMICLEWWLFELLI</span><span class="topo-outside">LCSGLLSNPKLETSVLS</span><span class="topo-membrane">ICLTTETLHYVISSGVAAAVS</span><span class="topo-inside">TRVSNNLGAGNPQVARVSVLAG</span><span class="topo-membrane">LCLWLVESAFFSILLFTFRNII</span><span class="topo-outside">GYAFSNSKEVVDYVADL</span><span class="topo-membrane">S</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450     </span>
+<span class="topo-line"><span class="topo-membrane">PLLCLSFILDGFTAVLNGVAR</span><span class="topo-inside">GSGW</span><span class="topo-membrane">QHIGAWNNIFSYYLVGAPVG</span><span class="topo-outside">VYLAFRHDLNGKGL</span><span class="topo-membrane">WCGVVIGSTVQATVLAIVT</span><span class="topo-inside">ASMNWKEQAEKARKRI</span><span class="topo-unknown">V</span></span>
+<details class="topo-details"><summary>Topology coordinates (25 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -345,6 +346,7 @@ CasMATE is a multidrug and toxic compound extrusion (MATE) family transporter fr
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

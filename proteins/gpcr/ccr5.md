@@ -108,13 +108,15 @@ CCR5 (C-C chemokine receptor type 5) is a class A G protein-coupled receptor (GP
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">GAPDYQVSSPIYDINYYTSE</span><span class="topo-inside">PCQKINVKQIAARL</span><span class="topo-membrane">LPPLYSLVFIFGFVGNMLVILILIN</span><span class="topo-outside">Y</span></span>
-<span class="topo-line"><span class="topo-outside">KRLKSM</span><span class="topo-membrane">TDIYLLNLAISDLFFLLTVPFWAH</span><span class="topo-inside">YAAAQWDFGNT</span><span class="topo-membrane">MCQLLTGLYFIGFFSGIFF</span></span>
-<span class="topo-line"><span class="topo-membrane">IILLTIDRY</span><span class="topo-outside">LAVVH</span><span class="topo-unknown">AVFALKA</span><span class="topo-outside">RTV</span><span class="topo-membrane">TFGVVTSVITWVVAVFASLPNII</span><span class="topo-inside">FTRSQKEGLHYTC</span></span>
-<span class="topo-line"><span class="topo-inside">SSHFPYSQYQFWKN</span><span class="topo-membrane">FQTLKIVILGLVLPLLVMVICYSG</span><span class="topo-outside">ILKTLLRMKKYTCTVCGYIYNP</span></span>
-<span class="topo-line"><span class="topo-outside">EDGDPDNGVNPGTDFKDIPDDWVCPLCGVGKDQFEEVEEEKKRHRDV</span><span class="topo-membrane">RLIFTIMIVYFLF</span></span>
-<span class="topo-line"><span class="topo-membrane">WAPYNIVLLLNTFQ</span><span class="topo-inside">EFFGLNNCSSSNRLDQA</span><span class="topo-membrane">MQVTETLGMTHCCINPIIYAFVG</span><span class="topo-unknown">EEFRNY</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">GAPDYQVSSPIYDINYYTSE</span><span class="topo-inside">PCQKINVKQIAARL</span><span class="topo-membrane">LPPLYSLVFIFGFVGNMLVILILIN</span><span class="topo-outside">YKRLKSM</span><span class="topo-membrane">TDIYLLNLAISDLFFLLTVPFWAH</span><span class="topo-inside">YAAAQWDFGNT</span><span class="topo-membrane">MCQLLTGLYFIGFFSGIFF</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">IILLTIDRY</span><span class="topo-outside">LAVVH</span><span class="topo-unknown">AVFALKA</span><span class="topo-outside">RTV</span><span class="topo-membrane">TFGVVTSVITWVVAVFASLPNII</span><span class="topo-inside">FTRSQKEGLHYTCSSHFPYSQYQFWKN</span><span class="topo-membrane">FQTLKIVILGLVLPLLVMVICYSG</span><span class="topo-outside">ILKTLLRMKKYTCTVCGYIYNP</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">EDGDPDNGVNPGTDFKDIPDDWVCPLCGVGKDQFEEVEEEKKRHRDV</span><span class="topo-membrane">RLIFTIMIVYFLFWAPYNIVLLLNTFQ</span><span class="topo-inside">EFFGLNNCSSSNRLDQA</span><span class="topo-membrane">MQVTETLGMTHCCINPIIYAFVG</span><span class="topo-unknown">EEFRNY</span></span>
+<span class="topo-ruler">       370       380       390       400       410    </span>
 <span class="topo-line"><span class="topo-unknown">LLVFF</span><span class="topo-outside">Q</span><span class="topo-unknown">KHIAKRFCKCCSIFQQEAPERASSVYTRSTGEQEISVGLGRPLEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (20 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -266,6 +268,7 @@ CCR5 (C-C chemokine receptor type 5) is a class A G protein-coupled receptor (GP
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

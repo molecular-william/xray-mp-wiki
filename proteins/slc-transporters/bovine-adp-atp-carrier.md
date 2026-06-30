@@ -138,11 +138,13 @@ The bovine ADP/ATP carrier (AAC) is a mitochondrial inner membrane protein that 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">SDQA</span><span class="topo-membrane">LSFLKDFLAGGVAAAISKTAVAPIER</span><span class="topo-unknown">VKLLLQV</span><span class="topo-inside">QHASKQISAEKQYKGIIDCVVRI</span></span>
-<span class="topo-line"><span class="topo-inside">PKEQGFLSFWRG</span><span class="topo-membrane">NLANVIRYFPTQALNFAFKDKYKQIFLG</span><span class="topo-outside">GVDRHKQF</span><span class="topo-membrane">WRYFAGNLASGG</span></span>
-<span class="topo-line"><span class="topo-membrane">AAGATSLCFVYPLDFART</span><span class="topo-inside">RLAADVGKGAAQREFTG</span><span class="topo-unknown">LGNCITKIFKSD</span><span class="topo-inside">GLRGL</span><span class="topo-membrane">YQGFNVSV</span></span>
-<span class="topo-line"><span class="topo-membrane">QGIIIYRAAYFGVYDTAKGMLPD</span><span class="topo-outside">PKN</span><span class="topo-membrane">VHIIVSWMIAQTVTAVAGLVSYPFDTVRR</span><span class="topo-inside">RMMMQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">SDQA</span><span class="topo-membrane">LSFLKDFLAGGVAAAISKTAVAPIER</span><span class="topo-unknown">VKLLLQV</span><span class="topo-inside">QHASKQISAEKQYKGIIDCVVRIPKEQGFLSFWRG</span><span class="topo-membrane">NLANVIRYFPTQALNFAFKDKYKQIFLG</span><span class="topo-outside">GVDRHKQF</span><span class="topo-membrane">WRYFAGNLASGG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">AAGATSLCFVYPLDFART</span><span class="topo-inside">RLAADVGKGAAQREFTG</span><span class="topo-unknown">LGNCITKIFKSD</span><span class="topo-inside">GLRGL</span><span class="topo-membrane">YQGFNVSVQGIIIYRAAYFGVYDTAKGMLPD</span><span class="topo-outside">PKN</span><span class="topo-membrane">VHIIVSWMIAQTVTAVAGLVSYPFDTVRR</span><span class="topo-inside">RMMMQ</span></span>
+<span class="topo-ruler">       250       260       270       280       290       </span>
 <span class="topo-line"><span class="topo-inside">SGRKGADIMYTG</span><span class="topo-unknown">TVDCWRKIAKD</span><span class="topo-inside">EGPKAFFKG</span><span class="topo-membrane">AWSNVLRGMGGAFVLVLYDEI</span><span class="topo-unknown">KKFV</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -280,6 +282,7 @@ The bovine ADP/ATP carrier (AAC) is a mitochondrial inner membrane protein that 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

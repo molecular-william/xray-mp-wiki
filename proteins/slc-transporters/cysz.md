@@ -167,11 +167,13 @@ residues.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">SYVMQKA</span><span class="topo-inside">AYSNSGLAYIGRGLELIRTKGLRRYVVVPIL</span><span class="topo-membrane">TNLILFSLAFTWLYGEVD</span><span class="topo-outside">YW</span><span class="topo-unknown">LN</span></span>
-<span class="topo-line"><span class="topo-unknown">RFMSWLPDFFQWL</span><span class="topo-outside">EFILW</span><span class="topo-membrane">PLAVITIIALFSFIFSTIMHLI</span><span class="topo-inside">AAPFNGLLAEKVERYESGES</span></span>
-<span class="topo-line"><span class="topo-inside">LGDEGFLGLFKD</span><span class="topo-unknown">IPRTLKREMQKLMYYIPRALGFFLLSLV</span><span class="topo-inside">I</span><span class="topo-unknown">PVIGQVLWYIFVCWMMSIQ</span></span>
-<span class="topo-line"><span class="topo-unknown">YLDYPFDN</span><span class="topo-inside">HKLSFPRMRSELHQQRSKTLGFGFGVTVLTMIPLINLIIMPLAVCGATSLWV</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">SYVMQKA</span><span class="topo-inside">AYSNSGLAYIGRGLELIRTKGLRRYVVVPIL</span><span class="topo-membrane">TNLILFSLAFTWLYGEVD</span><span class="topo-outside">YW</span><span class="topo-unknown">LNRFMSWLPDFFQWL</span><span class="topo-outside">EFILW</span><span class="topo-membrane">PLAVITIIALFSFIFSTIMHLI</span><span class="topo-inside">AAPFNGLLAEKVERYESGES</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">LGDEGFLGLFKD</span><span class="topo-unknown">IPRTLKREMQKLMYYIPRALGFFLLSLV</span><span class="topo-inside">I</span><span class="topo-unknown">PVIGQVLWYIFVCWMMSIQYLDYPFDN</span><span class="topo-inside">HKLSFPRMRSELHQQRSKTLGFGFGVTVLTMIPLINLIIMPLAVCGATSLWV</span></span>
+<span class="topo-ruler">         </span>
 <span class="topo-line"><span class="topo-inside">DHYRRSALS</span></span>
+<details class="topo-details"><summary>Topology coordinates (12 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -267,6 +269,7 @@ residues.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -282,11 +285,13 @@ residues.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MPAPVLS</span><span class="topo-outside">GPQYLREGLKLVLSPGLRLFVLLPLLI</span><span class="topo-membrane">NLVLFVGLIYFAGHQFSLW</span><span class="topo-unknown">VDALMPS</span></span>
-<span class="topo-line"><span class="topo-unknown">LPHWLSFLNYLLW</span><span class="topo-inside">PLFVV</span><span class="topo-membrane">LVALMVFFTFTMLANIIA</span><span class="topo-outside">APFNGFLSEKVEAVVRGVDNSPPF</span></span>
-<span class="topo-line"><span class="topo-outside">SWGELIAMVPRTLARE</span><span class="topo-membrane">MRKLGYFLPRAIALLILSFI</span><span class="topo-inside">PV</span><span class="topo-membrane">LNLVAAPLWLIFGVWMM</span><span class="topo-outside">AIQYI</span></span>
-<span class="topo-line"><span class="topo-outside">DYPADNHKLGWNEMLAWLREKRWQSLSFGGIVYLVLLIPVVNILMMPAAVAGATLFWVRE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MPAPVLS</span><span class="topo-outside">GPQYLREGLKLVLSPGLRLFVLLPLLI</span><span class="topo-membrane">NLVLFVGLIYFAGHQFSLW</span><span class="topo-unknown">VDALMPSLPHWLSFLNYLLW</span><span class="topo-inside">PLFVV</span><span class="topo-membrane">LVALMVFFTFTMLANIIA</span><span class="topo-outside">APFNGFLSEKVEAVVRGVDNSPPF</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">SWGELIAMVPRTLARE</span><span class="topo-membrane">MRKLGYFLPRAIALLILSFI</span><span class="topo-inside">PV</span><span class="topo-membrane">LNLVAAPLWLIFGVWMM</span><span class="topo-outside">AIQYIDYPADNHKLGWNEMLAWLREKRWQSLSFGGIVYLVLLIPVVNILMMPAAVAGATLFWVRE</span></span>
+<span class="topo-ruler">       250 </span>
 <span class="topo-line"><span class="topo-unknown">RGDEALARTRA</span></span>
+<details class="topo-details"><summary>Topology coordinates (12 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -382,6 +387,7 @@ residues.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -397,11 +403,13 @@ residues.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MS</span><span class="topo-outside">TLSGPQYLGEGLKLMMRPGLRLFVLLP</span><span class="topo-membrane">LSINLILFIGLIGFAINQF</span><span class="topo-inside">SHWVDWLMPSLP</span></span>
-<span class="topo-line"><span class="topo-inside">EWLSFLQFILWPLFVTLV</span><span class="topo-membrane">LLIVFFTFTLIANLIAA</span><span class="topo-outside">PFNGFLAEKVEVVVRGTDDFPAFSW</span></span>
-<span class="topo-line"><span class="topo-outside">AELMAMVPRTI</span><span class="topo-membrane">GRELRKLGYFLPRAIALFILS</span><span class="topo-inside">LIPGL</span><span class="topo-membrane">NLIAAPLWLLFGVWMMAVQ</span><span class="topo-outside">YIDY</span></span>
-<span class="topo-line"><span class="topo-outside">PADNHKLGWNEMLAWLRSKRWACMGFGGITYLVLLIPLVNLVAMPAAVAGAVLFWVREGG</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MS</span><span class="topo-outside">TLSGPQYLGEGLKLMMRPGLRLFVLLP</span><span class="topo-membrane">LSINLILFIGLIGFAINQF</span><span class="topo-inside">SHWVDWLMPSLPEWLSFLQFILWPLFVTLV</span><span class="topo-membrane">LLIVFFTFTLIANLIAA</span><span class="topo-outside">PFNGFLAEKVEVVVRGTDDFPAFSW</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">AELMAMVPRTI</span><span class="topo-membrane">GRELRKLGYFLPRAIALFILS</span><span class="topo-inside">LIPGL</span><span class="topo-membrane">NLIAAPLWLLFGVWMMAVQ</span><span class="topo-outside">YIDYPADNHKLGWNEMLAWLRSKRWACMGFGGITYLVLLIPLVNLVAMPAAVAGAVLFWVREGG</span></span>
+<span class="topo-ruler">      </span>
 <span class="topo-line"><span class="topo-outside">DQ</span><span class="topo-unknown">ALVK</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -490,6 +498,7 @@ residues.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

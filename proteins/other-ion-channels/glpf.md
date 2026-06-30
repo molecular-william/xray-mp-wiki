@@ -118,11 +118,13 @@ bipolar water orientation that blocks proton conduction.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSQTS</span><span class="topo-outside">TLKGQ</span><span class="topo-membrane">CIAEFLGTGLLIFFGVGC</span><span class="topo-inside">VAALKVAGASFGQW</span><span class="topo-membrane">EISVIWGLGVAMAIYLTA</span></span>
-<span class="topo-line"><span class="topo-outside">GVS</span><span class="topo-unknown">GAHLNPAVTIALWLF</span><span class="topo-outside">ACFDKRK</span><span class="topo-membrane">VIPFIVSQVAGAFCAAALV</span><span class="topo-inside">YGLYYNLFFDFEQTHH</span></span>
-<span class="topo-line"><span class="topo-inside">IVRGSVESVDLAGTFSTYPNPHINFVQA</span><span class="topo-membrane">FAVEMVITAILMGLILALT</span><span class="topo-outside">DDGNGVPRGPL</span><span class="topo-membrane">AP</span></span>
-<span class="topo-line"><span class="topo-membrane">LLIGLLIAVIGASMG</span><span class="topo-inside">PLT</span><span class="topo-unknown">GFAMNPARDFGPKVF</span><span class="topo-inside">AWLAGWGNVAFTGGRDIPYF</span><span class="topo-membrane">LVPLFGP</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSQTS</span><span class="topo-outside">TLKGQ</span><span class="topo-membrane">CIAEFLGTGLLIFFGVGC</span><span class="topo-inside">VAALKVAGASFGQW</span><span class="topo-membrane">EISVIWGLGVAMAIYLTA</span><span class="topo-outside">GVS</span><span class="topo-unknown">GAHLNPAVTIALWLF</span><span class="topo-outside">ACFDKRK</span><span class="topo-membrane">VIPFIVSQVAGAFCAAALV</span><span class="topo-inside">YGLYYNLFFDFEQTHH</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">IVRGSVESVDLAGTFSTYPNPHINFVQA</span><span class="topo-membrane">FAVEMVITAILMGLILALT</span><span class="topo-outside">DDGNGVPRGPL</span><span class="topo-membrane">APLLIGLLIAVIGASMG</span><span class="topo-inside">PLT</span><span class="topo-unknown">GFAMNPARDFGPKVF</span><span class="topo-inside">AWLAGWGNVAFTGGRDIPYF</span><span class="topo-membrane">LVPLFGP</span></span>
+<span class="topo-ruler">       250       260       270       280 </span>
 <span class="topo-line"><span class="topo-membrane">IVGAIVGAFAYRKLI</span><span class="topo-outside">GRHL</span><span class="topo-unknown">PCDICVVEEKETTTPSEQKASL</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -267,6 +269,7 @@ bipolar water orientation that blocks proton conduction.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -282,11 +285,13 @@ bipolar water orientation that blocks proton conduction.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSQTS</span><span class="topo-outside">TLKGQ</span><span class="topo-membrane">CIAEFLGTGLLIFFGVGC</span><span class="topo-inside">VAALKVAGASFGQW</span><span class="topo-membrane">EISVIWGLGVAMAIYLTA</span></span>
-<span class="topo-line"><span class="topo-outside">GVS</span><span class="topo-unknown">GAHLNPAVTIALWLF</span><span class="topo-outside">ACFDKRK</span><span class="topo-membrane">VIPFIVSQVAGAFCAAALV</span><span class="topo-inside">YGLYYNLFFDFEQTHH</span></span>
-<span class="topo-line"><span class="topo-inside">IVRGSVESVDLAGTFSTYPNPHINFVQA</span><span class="topo-membrane">FAVEMVITAILMGLILALT</span><span class="topo-outside">DDGNGVPRGPL</span><span class="topo-membrane">AP</span></span>
-<span class="topo-line"><span class="topo-membrane">LLIGLLIAVIGASMG</span><span class="topo-inside">PLT</span><span class="topo-unknown">GFAMNPARDFGPKVF</span><span class="topo-inside">AWLAGWGNVAFTGGRDIPYF</span><span class="topo-membrane">LVPLFGP</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSQTS</span><span class="topo-outside">TLKGQ</span><span class="topo-membrane">CIAEFLGTGLLIFFGVGC</span><span class="topo-inside">VAALKVAGASFGQW</span><span class="topo-membrane">EISVIWGLGVAMAIYLTA</span><span class="topo-outside">GVS</span><span class="topo-unknown">GAHLNPAVTIALWLF</span><span class="topo-outside">ACFDKRK</span><span class="topo-membrane">VIPFIVSQVAGAFCAAALV</span><span class="topo-inside">YGLYYNLFFDFEQTHH</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">IVRGSVESVDLAGTFSTYPNPHINFVQA</span><span class="topo-membrane">FAVEMVITAILMGLILALT</span><span class="topo-outside">DDGNGVPRGPL</span><span class="topo-membrane">APLLIGLLIAVIGASMG</span><span class="topo-inside">PLT</span><span class="topo-unknown">GFAMNPARDFGPKVF</span><span class="topo-inside">AWLAGWGNVAFTGGRDIPYF</span><span class="topo-membrane">LVPLFGP</span></span>
+<span class="topo-ruler">       250       260       270       280 </span>
 <span class="topo-line"><span class="topo-membrane">IVGAIVGAFAYRKLI</span><span class="topo-outside">GRHL</span><span class="topo-unknown">PCDICVVEEKETTTPSEQKASL</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -431,6 +436,7 @@ bipolar water orientation that blocks proton conduction.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -446,11 +452,13 @@ bipolar water orientation that blocks proton conduction.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSQTS</span><span class="topo-outside">TLKGQ</span><span class="topo-membrane">CIAEFLGTGLLIFFGVGC</span><span class="topo-inside">VAALKVAGASFGQW</span><span class="topo-membrane">EISVIWGLGVAMAIYLTA</span></span>
-<span class="topo-line"><span class="topo-outside">GVS</span><span class="topo-unknown">GAHLNPAVTIALWLF</span><span class="topo-outside">ACFDKRK</span><span class="topo-membrane">VIPFIVSQVAGAFCAAALV</span><span class="topo-inside">YGLYYNLFFDFEQTHH</span></span>
-<span class="topo-line"><span class="topo-inside">IVRGSVESVDLAGTFSTYPNPHINFVQA</span><span class="topo-membrane">FAVEMVITAILMGLILALT</span><span class="topo-outside">DDGNGVPRGPL</span><span class="topo-membrane">AP</span></span>
-<span class="topo-line"><span class="topo-membrane">LLIGLLIAVIGASMG</span><span class="topo-inside">PLT</span><span class="topo-unknown">GFAMNPARDFGPKVF</span><span class="topo-inside">AWLAGWGNVAFTGGRDIPYF</span><span class="topo-membrane">LVPLFGP</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSQTS</span><span class="topo-outside">TLKGQ</span><span class="topo-membrane">CIAEFLGTGLLIFFGVGC</span><span class="topo-inside">VAALKVAGASFGQW</span><span class="topo-membrane">EISVIWGLGVAMAIYLTA</span><span class="topo-outside">GVS</span><span class="topo-unknown">GAHLNPAVTIALWLF</span><span class="topo-outside">ACFDKRK</span><span class="topo-membrane">VIPFIVSQVAGAFCAAALV</span><span class="topo-inside">YGLYYNLFFDFEQTHH</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">IVRGSVESVDLAGTFSTYPNPHINFVQA</span><span class="topo-membrane">FAVEMVITAILMGLILALT</span><span class="topo-outside">DDGNGVPRGPL</span><span class="topo-membrane">APLLIGLLIAVIGASMG</span><span class="topo-inside">PLT</span><span class="topo-unknown">GFAMNPARDFGPKVF</span><span class="topo-inside">AWLAGWGNVAFTGGRDIPYF</span><span class="topo-membrane">LVPLFGP</span></span>
+<span class="topo-ruler">       250       260       270       280 </span>
 <span class="topo-line"><span class="topo-membrane">IVGAIVGAFAYRKLI</span><span class="topo-outside">GRHL</span><span class="topo-unknown">PCDICVVEEKETTTPSEQKASL</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -595,6 +603,7 @@ bipolar water orientation that blocks proton conduction.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -610,11 +619,13 @@ bipolar water orientation that blocks proton conduction.
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MSQTS</span><span class="topo-outside">TLKGQ</span><span class="topo-membrane">CIAEFLGTGLLIFFGVGC</span><span class="topo-inside">VAALKVAGASFGQW</span><span class="topo-membrane">EISVIWGLGVAMAIYLTA</span></span>
-<span class="topo-line"><span class="topo-outside">GVS</span><span class="topo-unknown">GAHLNPAVTIALWLF</span><span class="topo-outside">ACFDKRK</span><span class="topo-membrane">VIPFIVSQVAGAFCAAALV</span><span class="topo-inside">YGLYYNLFFDFEQTHH</span></span>
-<span class="topo-line"><span class="topo-inside">IVRGSVESVDLAGTFSTYPNPHINFVQA</span><span class="topo-membrane">FAVEMVITAILMGLILALT</span><span class="topo-outside">DDGNGVPRGPL</span><span class="topo-membrane">AP</span></span>
-<span class="topo-line"><span class="topo-membrane">LLIGLLIAVIGASMG</span><span class="topo-inside">PLT</span><span class="topo-unknown">GFAMNPARDFGPKVF</span><span class="topo-inside">AWLAGWGNVAFTGGRDIPYF</span><span class="topo-membrane">LVPLFGP</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSQTS</span><span class="topo-outside">TLKGQ</span><span class="topo-membrane">CIAEFLGTGLLIFFGVGC</span><span class="topo-inside">VAALKVAGASFGQW</span><span class="topo-membrane">EISVIWGLGVAMAIYLTA</span><span class="topo-outside">GVS</span><span class="topo-unknown">GAHLNPAVTIALWLF</span><span class="topo-outside">ACFDKRK</span><span class="topo-membrane">VIPFIVSQVAGAFCAAALV</span><span class="topo-inside">YGLYYNLFFDFEQTHH</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">IVRGSVESVDLAGTFSTYPNPHINFVQA</span><span class="topo-membrane">FAVEMVITAILMGLILALT</span><span class="topo-outside">DDGNGVPRGPL</span><span class="topo-membrane">APLLIGLLIAVIGASMG</span><span class="topo-inside">PLT</span><span class="topo-unknown">GFAMNPARDFGPKVF</span><span class="topo-inside">AWLAGWGNVAFTGGRDIPYF</span><span class="topo-membrane">LVPLFGP</span></span>
+<span class="topo-ruler">       250       260       270       280 </span>
 <span class="topo-line"><span class="topo-membrane">IVGAIVGAFAYRKLI</span><span class="topo-outside">GRHL</span><span class="topo-unknown">PCDICVVEEKETTTPSEQKASL</span></span>
+<details class="topo-details"><summary>Topology coordinates (19 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -759,6 +770,7 @@ bipolar water orientation that blocks proton conduction.
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

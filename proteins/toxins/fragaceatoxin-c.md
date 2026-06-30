@@ -282,9 +282,11 @@ Fragaceatoxin C (FraC) is a potent haemolytic pore-forming toxin (PFT) from the 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">SAD</span><span class="topo-inside">VAG</span><span class="topo-membrane">AVIDGAGLGFDVLKTVLEALGN</span><span class="topo-outside">VKRKIAVGIDNESGKTWTAMNTYFRSGTSDIV</span></span>
-<span class="topo-line"><span class="topo-outside">LPHKVAHGKALLYNGQKNRGPVATGVVGVIAYSMSDGNTLAVLFSVPYDYNWYSNWWNVR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">SAD</span><span class="topo-inside">VAG</span><span class="topo-membrane">AVIDGAGLGFDVLKTVLEALGN</span><span class="topo-outside">VKRKIAVGIDNESGKTWTAMNTYFRSGTSDIVLPHKVAHGKALLYNGQKNRGPVATGVVGVIAYSMSDGNTLAVLFSVPYDYNWYSNWWNVR</span></span>
+<span class="topo-ruler">       130       140       150       160       170         </span>
 <span class="topo-line"><span class="topo-outside">VYKGQKRADQRMYEELYYHRSPFRGDNGWHSRGLGYGLKSRGFMNSSGHAILEIHVTKA</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -324,6 +326,7 @@ Fragaceatoxin C (FraC) is a potent haemolytic pore-forming toxin (PFT) from the 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -339,9 +342,11 @@ Fragaceatoxin C (FraC) is a potent haemolytic pore-forming toxin (PFT) from the 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">SAD</span><span class="topo-inside">VAG</span><span class="topo-membrane">AVIDGAGLGFDVLKTVLEALGN</span><span class="topo-outside">VKRKIAVGIDNESGKTWTAMNTYFRSGTSDIV</span></span>
-<span class="topo-line"><span class="topo-outside">LPHKVAHGKALLYNGQKNRGPVATGVVGVIAYSMSDGNTLAVLFSVPYDYNWYSNWWNVR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">SAD</span><span class="topo-inside">VAG</span><span class="topo-membrane">AVIDGAGLGFDVLKTVLEALGN</span><span class="topo-outside">VKRKIAVGIDNESGKTWTAMNTYFRSGTSDIVLPHKVAHGKALLYNGQKNRGPVATGVVGVIAYSMSDGNTLAVLFSVPYDYNWYSNWWNVR</span></span>
+<span class="topo-ruler">       130       140       150       160       170         </span>
 <span class="topo-line"><span class="topo-outside">VYKGQKRADQRMYEELYYHRSPFRGDNGWHSRGLGYGLKSRGFMNSSGHAILEIHVTKA</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -381,6 +386,7 @@ Fragaceatoxin C (FraC) is a potent haemolytic pore-forming toxin (PFT) from the 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -396,9 +402,11 @@ Fragaceatoxin C (FraC) is a potent haemolytic pore-forming toxin (PFT) from the 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">SAD</span><span class="topo-inside">VAG</span><span class="topo-membrane">AVIDGAGLGFDVLKTVLEALGN</span><span class="topo-outside">VKRKIAVGIDNESGKTWTAMNTYFRSGTSDIV</span></span>
-<span class="topo-line"><span class="topo-outside">LPHKVAHGKALLYNGQKNRGPVATGVVGVIAYSMSDGNTLAVLFSVPYDYNWYSNWWNVR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">SAD</span><span class="topo-inside">VAG</span><span class="topo-membrane">AVIDGAGLGFDVLKTVLEALGN</span><span class="topo-outside">VKRKIAVGIDNESGKTWTAMNTYFRSGTSDIVLPHKVAHGKALLYNGQKNRGPVATGVVGVIAYSMSDGNTLAVLFSVPYDYNWYSNWWNVR</span></span>
+<span class="topo-ruler">       130       140       150       160       170         </span>
 <span class="topo-line"><span class="topo-outside">VYKGQKRADQRMYEELYYHRSPFRGDNGWHSRGLGYGLKSRGFMNSSGHAILEIHVTKA</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -438,6 +446,7 @@ Fragaceatoxin C (FraC) is a potent haemolytic pore-forming toxin (PFT) from the 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -453,9 +462,11 @@ Fragaceatoxin C (FraC) is a potent haemolytic pore-forming toxin (PFT) from the 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">SAD</span><span class="topo-inside">VAG</span><span class="topo-membrane">AVIDGAGLGFDVLKTVLEALG</span><span class="topo-outside">NVKRKIAVGIDNESGKTWTAMNTYFRSGTSDIV</span></span>
-<span class="topo-line"><span class="topo-outside">LPHKVAHGKALLYNGQKNRGPVATGVVGVIAYSMSDGNTLAVLFSVPYDYNWYSNWWNVR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">SAD</span><span class="topo-inside">VAG</span><span class="topo-membrane">AVIDGAGLGFDVLKTVLEALG</span><span class="topo-outside">NVKRKIAVGIDNESGKTWTAMNTYFRSGTSDIVLPHKVAHGKALLYNGQKNRGPVATGVVGVIAYSMSDGNTLAVLFSVPYDYNWYSNWWNVR</span></span>
+<span class="topo-ruler">       130       140       150       160       170         </span>
 <span class="topo-line"><span class="topo-outside">VYKGQKRADQRMYEELYYHRSPFRGDNGWHSRGLGYGLKSRGFMNSSGHAILEIHVTKA</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -495,6 +506,7 @@ Fragaceatoxin C (FraC) is a potent haemolytic pore-forming toxin (PFT) from the 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -510,9 +522,11 @@ Fragaceatoxin C (FraC) is a potent haemolytic pore-forming toxin (PFT) from the 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">SAD</span><span class="topo-inside">VAG</span><span class="topo-membrane">AVIDGAGLGFDVLKTVLEALG</span><span class="topo-outside">NVKRKIAVGIDNESGKTWTAMNTYFRSGTSDIV</span></span>
-<span class="topo-line"><span class="topo-outside">LPHKVAHGKALLYNGQKNRGPVATGVVGVIAYSMSDGNTLAVLFSVPYDYNWYSNWWNVR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">SAD</span><span class="topo-inside">VAG</span><span class="topo-membrane">AVIDGAGLGFDVLKTVLEALG</span><span class="topo-outside">NVKRKIAVGIDNESGKTWTAMNTYFRSGTSDIVLPHKVAHGKALLYNGQKNRGPVATGVVGVIAYSMSDGNTLAVLFSVPYDYNWYSNWWNVR</span></span>
+<span class="topo-ruler">       130       140       150       160       170         </span>
 <span class="topo-line"><span class="topo-outside">VYKGQKRADQRMYEELYYHRSPFRGDNGWHSRGLGYGLKSRGFMNSSGHAILEIHVTKA</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -552,6 +566,7 @@ Fragaceatoxin C (FraC) is a potent haemolytic pore-forming toxin (PFT) from the 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -567,9 +582,11 @@ Fragaceatoxin C (FraC) is a potent haemolytic pore-forming toxin (PFT) from the 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">SAD</span><span class="topo-inside">VAG</span><span class="topo-membrane">AVIDGAGLGFDVLKTVLEALG</span><span class="topo-outside">NVKRKIAVGIDNESGKTWTAMNTYFRSGTSDIV</span></span>
-<span class="topo-line"><span class="topo-outside">LPHKVAHGKALLYNGQKNRGPVATGVVGVIAYSMSDGNTLAVLFSVPYDYNWYSNWWNVR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">SAD</span><span class="topo-inside">VAG</span><span class="topo-membrane">AVIDGAGLGFDVLKTVLEALG</span><span class="topo-outside">NVKRKIAVGIDNESGKTWTAMNTYFRSGTSDIVLPHKVAHGKALLYNGQKNRGPVATGVVGVIAYSMSDGNTLAVLFSVPYDYNWYSNWWNVR</span></span>
+<span class="topo-ruler">       130       140       150       160       170         </span>
 <span class="topo-line"><span class="topo-outside">VYKGQKRADQRMYEELYYHRSPFRGDNGWHSRGLGYGLKSRGFMNSSGHAILEIHVTKA</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -609,6 +626,7 @@ Fragaceatoxin C (FraC) is a potent haemolytic pore-forming toxin (PFT) from the 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -624,9 +642,11 @@ Fragaceatoxin C (FraC) is a potent haemolytic pore-forming toxin (PFT) from the 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">SAD</span><span class="topo-inside">VAG</span><span class="topo-membrane">AVIDGAGLGFDVLKTVLEALG</span><span class="topo-outside">NVKRKIAVGIDNESGKTWTAMNTYFRSGTSDIV</span></span>
-<span class="topo-line"><span class="topo-outside">LPHKVAHGKALLYNGQKNRGPVATGVVGVIAYSMSDGNTLAVLFSVPYDYNWYSNWWNVR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">SAD</span><span class="topo-inside">VAG</span><span class="topo-membrane">AVIDGAGLGFDVLKTVLEALG</span><span class="topo-outside">NVKRKIAVGIDNESGKTWTAMNTYFRSGTSDIVLPHKVAHGKALLYNGQKNRGPVATGVVGVIAYSMSDGNTLAVLFSVPYDYNWYSNWWNVR</span></span>
+<span class="topo-ruler">       130       140       150       160       170         </span>
 <span class="topo-line"><span class="topo-outside">VYKGQKRADQRMYEELYYHRSPFRGDNGWHSRGLGYGLKSRGFMNSSGHAILEIHVTKA</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -666,6 +686,7 @@ Fragaceatoxin C (FraC) is a potent haemolytic pore-forming toxin (PFT) from the 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -681,9 +702,11 @@ Fragaceatoxin C (FraC) is a potent haemolytic pore-forming toxin (PFT) from the 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">SAD</span><span class="topo-inside">VAG</span><span class="topo-membrane">AVIDGAGLGFDVLKTVLEALG</span><span class="topo-outside">NVKRKIAVGIDNESGKTWTAMNTYFRSGTSDIV</span></span>
-<span class="topo-line"><span class="topo-outside">LPHKVAHGKALLYNGQKNRGPVATGVVGVIAYSMSDGNTLAVLFSVPYDYNWYSNWWNVR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">SAD</span><span class="topo-inside">VAG</span><span class="topo-membrane">AVIDGAGLGFDVLKTVLEALG</span><span class="topo-outside">NVKRKIAVGIDNESGKTWTAMNTYFRSGTSDIVLPHKVAHGKALLYNGQKNRGPVATGVVGVIAYSMSDGNTLAVLFSVPYDYNWYSNWWNVR</span></span>
+<span class="topo-ruler">       130       140       150       160       170         </span>
 <span class="topo-line"><span class="topo-outside">VYKGQKRADQRMYEELYYHRSPFRGDNGWHSRGLGYGLKSRGFMNSSGHAILEIHVTKA</span></span>
+<details class="topo-details"><summary>Topology coordinates (4 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -723,6 +746,7 @@ Fragaceatoxin C (FraC) is a potent haemolytic pore-forming toxin (PFT) from the 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

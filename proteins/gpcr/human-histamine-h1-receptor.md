@@ -132,14 +132,15 @@ The human histamine H1 receptor (H1R) is a [G Protein](/xray-mp-wiki/concepts/si
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">TTMASPQL</span><span class="topo-inside">MPLVV</span><span class="topo-membrane">VLSTICLVTVGLNLLVLY</span><span class="topo-outside">AVRSERKLHTVGNLYIV</span><span class="topo-membrane">SLSVADLIVGAV</span></span>
-<span class="topo-line"><span class="topo-membrane">VMPMN</span><span class="topo-inside">ILYLLMSKWSLGRPLCL</span><span class="topo-membrane">FWLSMDYVASTASIFSVFI</span><span class="topo-outside">LCIDRYRSVQQPLRYLKYR</span></span>
-<span class="topo-line"><span class="topo-outside">TKTRASATI</span><span class="topo-membrane">LGAWFLSFLWVIPILG</span><span class="topo-inside">WNH</span><span class="topo-unknown">FMQQTSV</span><span class="topo-inside">RREDKCETDFYDVTW</span><span class="topo-membrane">FKVMTAIINF</span></span>
-<span class="topo-line"><span class="topo-membrane">YLPTLLMLW</span><span class="topo-outside">FYAKIYKAVRQHCNIFEMLRIDEGLRLKIYKDTEGYYTIGIGHLLTKSPSL</span></span>
-<span class="topo-line"><span class="topo-outside">NAAKSELDKAIGRNTNGVITKDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAAL</span></span>
-<span class="topo-line"><span class="topo-outside">INMVFQMGETGVAGFTNSLRMLQQKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWD</span></span>
-<span class="topo-line"><span class="topo-outside">AYLHMNRERKAAKQLGF</span><span class="topo-membrane">IMAAFILCWIPYFIFFM</span><span class="topo-inside">VIAFCKNCCNEHLHMF</span><span class="topo-membrane">TIWLGYINST</span></span>
-<span class="topo-line"><span class="topo-membrane">LNPLI</span><span class="topo-outside">YPLCN</span><span class="topo-unknown">ENFKKTFKRIL</span><span class="topo-outside">HI</span><span class="topo-unknown">RSGENLYFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">TTMASPQL</span><span class="topo-inside">MPLVV</span><span class="topo-membrane">VLSTICLVTVGLNLLVLY</span><span class="topo-outside">AVRSERKLHTVGNLYIV</span><span class="topo-membrane">SLSVADLIVGAVVMPMN</span><span class="topo-inside">ILYLLMSKWSLGRPLCL</span><span class="topo-membrane">FWLSMDYVASTASIFSVFI</span><span class="topo-outside">LCIDRYRSVQQPLRYLKYR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">TKTRASATI</span><span class="topo-membrane">LGAWFLSFLWVIPILG</span><span class="topo-inside">WNH</span><span class="topo-unknown">FMQQTSV</span><span class="topo-inside">RREDKCETDFYDVTW</span><span class="topo-membrane">FKVMTAIINFYLPTLLMLW</span><span class="topo-outside">FYAKIYKAVRQHCNIFEMLRIDEGLRLKIYKDTEGYYTIGIGHLLTKSPSL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">NAAKSELDKAIGRNTNGVITKDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVFQMGETGVAGFTNSLRMLQQKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWD</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450  </span>
+<span class="topo-line"><span class="topo-outside">AYLHMNRERKAAKQLGF</span><span class="topo-membrane">IMAAFILCWIPYFIFFM</span><span class="topo-inside">VIAFCKNCCNEHLHMF</span><span class="topo-membrane">TIWLGYINSTLNPLI</span><span class="topo-outside">YPLCN</span><span class="topo-unknown">ENFKKTFKRIL</span><span class="topo-outside">HI</span><span class="topo-unknown">RSGENLYFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -298,6 +299,7 @@ The human histamine H1 receptor (H1R) is a [G Protein](/xray-mp-wiki/concepts/si
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

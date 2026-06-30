@@ -145,13 +145,15 @@ Mouse [Dopamine](/xray-mp-wiki/reagents/ligands/dopamine/) receptor D4 ([DRD4](/
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">DYKDDDDKEFTGAGLGGA</span><span class="topo-outside">GAA</span><span class="topo-membrane">ALVGGVLLIGLVLAGNSLVCVSVAS</span><span class="topo-inside">ERTLQTP</span><span class="topo-membrane">TNYFIVS</span></span>
-<span class="topo-line"><span class="topo-membrane">LAAADLLLAVLVLPLFV</span><span class="topo-outside">YSEVQGGVWLLSPRLCDT</span><span class="topo-membrane">LMAMDVMLCTASIWNLCAISVDRF</span><span class="topo-inside">V</span></span>
-<span class="topo-line"><span class="topo-inside">AVT</span><span class="topo-unknown">VPLRYNQQ</span><span class="topo-inside">GQC</span><span class="topo-membrane">QLLLIAATWLLSAAVASP</span><span class="topo-outside">VVCGLNDVPGRDP</span><span class="topo-unknown">AVCRL</span><span class="topo-outside">ENRDY</span><span class="topo-membrane">VVYSS</span></span>
-<span class="topo-line"><span class="topo-membrane">VCSFFLPCILMLLLYWATFR</span><span class="topo-inside">GLRRWEADLEDNWETLNDNLKVIEKADNAAQVKDALTKMR</span></span>
-<span class="topo-line"><span class="topo-inside">AAALDAQKA</span><span class="topo-unknown">TPPKLEDKSPDSPEM</span><span class="topo-inside">KDFRHGFDILVGQIDDALKLANEGKVKEAQAAAEQL</span></span>
-<span class="topo-line"><span class="topo-inside">KTTRNAYIQKYLKITGRERKAM</span><span class="topo-membrane">RVLAVVVGAFLVCWTPFFVVHIT</span><span class="topo-outside">RALCPACFVSPRL</span><span class="topo-membrane">VS</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">DYKDDDDKEFTGAGLGGA</span><span class="topo-outside">GAA</span><span class="topo-membrane">ALVGGVLLIGLVLAGNSLVCVSVAS</span><span class="topo-inside">ERTLQTP</span><span class="topo-membrane">TNYFIVSLAAADLLLAVLVLPLFV</span><span class="topo-outside">YSEVQGGVWLLSPRLCDT</span><span class="topo-membrane">LMAMDVMLCTASIWNLCAISVDRF</span><span class="topo-inside">V</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">AVT</span><span class="topo-unknown">VPLRYNQQ</span><span class="topo-inside">GQC</span><span class="topo-membrane">QLLLIAATWLLSAAVASP</span><span class="topo-outside">VVCGLNDVPGRDP</span><span class="topo-unknown">AVCRL</span><span class="topo-outside">ENRDY</span><span class="topo-membrane">VVYSSVCSFFLPCILMLLLYWATFR</span><span class="topo-inside">GLRRWEADLEDNWETLNDNLKVIEKADNAAQVKDALTKMR</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">AAALDAQKA</span><span class="topo-unknown">TPPKLEDKSPDSPEM</span><span class="topo-inside">KDFRHGFDILVGQIDDALKLANEGKVKEAQAAAEQLKTTRNAYIQKYLKITGRERKAM</span><span class="topo-membrane">RVLAVVVGAFLVCWTPFFVVHIT</span><span class="topo-outside">RALCPACFVSPRL</span><span class="topo-membrane">VS</span></span>
+<span class="topo-ruler">       370       380       390      </span>
 <span class="topo-line"><span class="topo-membrane">AVTWLGYVNSALNPIIYTIFN</span><span class="topo-inside">AEFRSV</span><span class="topo-unknown">FRKTLRLRC</span></span>
+<details class="topo-details"><summary>Topology coordinates (25 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -338,6 +340,7 @@ Mouse [Dopamine](/xray-mp-wiki/reagents/ligands/dopamine/) receptor D4 ([DRD4](/
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

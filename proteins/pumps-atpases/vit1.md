@@ -177,10 +177,11 @@ Vacuolar [IRON](/xray-mp-wiki/reagents/additives/iron/) transporter 1 (VIT1) fro
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MHKEAHFTAG</span><span class="topo-inside">EIVR</span><span class="topo-membrane">DIIIGVSDGLTVPFALAAGLSGA</span><span class="topo-outside">NASSSI</span><span class="topo-membrane">VLTAGIAEVAAGAISMG</span></span>
-<span class="topo-line"><span class="topo-membrane">LGGYL</span><span class="topo-inside">AAKSEADNYARELKREQEEIIRVPDTEAAEVAEILARYGIEPHEYGPVVNALRKK</span></span>
-<span class="topo-line"><span class="topo-inside">PQAWLDFMMKFELGLEKPDPKRAL</span><span class="topo-membrane">QSAFTIAIAYVLGGLVPLIPYMF</span><span class="topo-outside">IPVARKA</span><span class="topo-membrane">VVASVI</span></span>
-<span class="topo-line"><span class="topo-membrane">LTLMALLIFGYAKG</span><span class="topo-inside">YFTDNKP</span><span class="topo-membrane">FKSALQTALIGAIASAAAFGMAKAV</span><span class="topo-outside">QSENLYFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MHKEAHFTAG</span><span class="topo-inside">EIVR</span><span class="topo-membrane">DIIIGVSDGLTVPFALAAGLSGA</span><span class="topo-outside">NASSSI</span><span class="topo-membrane">VLTAGIAEVAAGAISMGLGGYL</span><span class="topo-inside">AAKSEADNYARELKREQEEIIRVPDTEAAEVAEILARYGIEPHEYGPVVNALRKK</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230    </span>
+<span class="topo-line"><span class="topo-inside">PQAWLDFMMKFELGLEKPDPKRAL</span><span class="topo-membrane">QSAFTIAIAYVLGGLVPLIPYMF</span><span class="topo-outside">IPVARKA</span><span class="topo-membrane">VVASVILTLMALLIFGYAKG</span><span class="topo-inside">YFTDNKP</span><span class="topo-membrane">FKSALQTALIGAIASAAAFGMAKAV</span><span class="topo-outside">QSENLYFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -269,6 +270,7 @@ Vacuolar [IRON](/xray-mp-wiki/reagents/additives/iron/) transporter 1 (VIT1) fro
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -284,10 +286,11 @@ Vacuolar [IRON](/xray-mp-wiki/reagents/additives/iron/) transporter 1 (VIT1) fro
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MHKEAHFTAG</span><span class="topo-inside">EIVR</span><span class="topo-membrane">DIIIGVSDGLTVPFALAAGLSGA</span><span class="topo-outside">NASSSI</span><span class="topo-membrane">VLTAGIAEVAAGAISMG</span></span>
-<span class="topo-line"><span class="topo-membrane">LGGYL</span><span class="topo-inside">AAKSEADNYARELKREQEEIIRVPDTEAAEVAEILARYGIEPHEYGPVVNALRKK</span></span>
-<span class="topo-line"><span class="topo-inside">PQAWLDFMMKFELGLEKPDPKRAL</span><span class="topo-membrane">QSAFTIAIAYVLGGLVPLIPYMF</span><span class="topo-outside">IPVARKA</span><span class="topo-membrane">VVASVI</span></span>
-<span class="topo-line"><span class="topo-membrane">LTLMALLIFGYAKG</span><span class="topo-inside">YFTDNKP</span><span class="topo-membrane">FKSALQTALIGAIASAAAFGMAKAV</span><span class="topo-outside">QSENLYFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MHKEAHFTAG</span><span class="topo-inside">EIVR</span><span class="topo-membrane">DIIIGVSDGLTVPFALAAGLSGA</span><span class="topo-outside">NASSSI</span><span class="topo-membrane">VLTAGIAEVAAGAISMGLGGYL</span><span class="topo-inside">AAKSEADNYARELKREQEEIIRVPDTEAAEVAEILARYGIEPHEYGPVVNALRKK</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230    </span>
+<span class="topo-line"><span class="topo-inside">PQAWLDFMMKFELGLEKPDPKRAL</span><span class="topo-membrane">QSAFTIAIAYVLGGLVPLIPYMF</span><span class="topo-outside">IPVARKA</span><span class="topo-membrane">VVASVILTLMALLIFGYAKG</span><span class="topo-inside">YFTDNKP</span><span class="topo-membrane">FKSALQTALIGAIASAAAFGMAKAV</span><span class="topo-outside">QSENLYFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -376,6 +379,7 @@ Vacuolar [IRON](/xray-mp-wiki/reagents/additives/iron/) transporter 1 (VIT1) fro
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -391,10 +395,11 @@ Vacuolar [IRON](/xray-mp-wiki/reagents/additives/iron/) transporter 1 (VIT1) fro
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MHKEAHFTA</span><span class="topo-inside">GEI</span><span class="topo-membrane">VRDIIIGVSDGLTVPFALAAGLSGA</span><span class="topo-outside">NASS</span><span class="topo-membrane">SIVLTAGIAEVAAGAISMG</span></span>
-<span class="topo-line"><span class="topo-membrane">LGGYLAAK</span><span class="topo-inside">SEADNYARELKREQEEIIRVPDTEAAEVAEILARYGIEPHEYGPVVNALRKK</span></span>
-<span class="topo-line"><span class="topo-inside">PQAWLDFMMKFELGLEKPDPKRA</span><span class="topo-membrane">LQSAFTIAIAYVLGGLVPLIPYMFI</span><span class="topo-outside">PVARK</span><span class="topo-membrane">AVVASVI</span></span>
-<span class="topo-line"><span class="topo-membrane">LTLMALLIFGYAKGYF</span><span class="topo-inside">TDNK</span><span class="topo-membrane">PFKSALQTALIGAIASAAAFGMAKAV</span><span class="topo-outside">QSENLYFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MHKEAHFTA</span><span class="topo-inside">GEI</span><span class="topo-membrane">VRDIIIGVSDGLTVPFALAAGLSGA</span><span class="topo-outside">NASS</span><span class="topo-membrane">SIVLTAGIAEVAAGAISMGLGGYLAAK</span><span class="topo-inside">SEADNYARELKREQEEIIRVPDTEAAEVAEILARYGIEPHEYGPVVNALRKK</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230    </span>
+<span class="topo-line"><span class="topo-inside">PQAWLDFMMKFELGLEKPDPKRA</span><span class="topo-membrane">LQSAFTIAIAYVLGGLVPLIPYMFI</span><span class="topo-outside">PVARK</span><span class="topo-membrane">AVVASVILTLMALLIFGYAKGYF</span><span class="topo-inside">TDNK</span><span class="topo-membrane">PFKSALQTALIGAIASAAAFGMAKAV</span><span class="topo-outside">QSENLYFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -483,6 +488,7 @@ Vacuolar [IRON](/xray-mp-wiki/reagents/additives/iron/) transporter 1 (VIT1) fro
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -498,10 +504,11 @@ Vacuolar [IRON](/xray-mp-wiki/reagents/additives/iron/) transporter 1 (VIT1) fro
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MHKEAHFTA</span><span class="topo-inside">GEI</span><span class="topo-membrane">VRDIIIGVSDGLTVPFALAAGLSGA</span><span class="topo-outside">NASS</span><span class="topo-membrane">SIVLTAGIAEVAAGAISMG</span></span>
-<span class="topo-line"><span class="topo-membrane">LGGYLAAK</span><span class="topo-inside">SEADNYARELKREQEEIIRVPDTEAAEVAEILARYGIEPHEYGPVVNALRKK</span></span>
-<span class="topo-line"><span class="topo-inside">PQAWLDFMMKFELGLEKPDPKRA</span><span class="topo-membrane">LQSAFTIAIAYVLGGLVPLIPYMFI</span><span class="topo-outside">PVARK</span><span class="topo-membrane">AVVASVI</span></span>
-<span class="topo-line"><span class="topo-membrane">LTLMALLIFGYAKGYF</span><span class="topo-inside">TDNK</span><span class="topo-membrane">PFKSALQTALIGAIASAAAFGMAKAV</span><span class="topo-outside">QSENLYFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MHKEAHFTA</span><span class="topo-inside">GEI</span><span class="topo-membrane">VRDIIIGVSDGLTVPFALAAGLSGA</span><span class="topo-outside">NASS</span><span class="topo-membrane">SIVLTAGIAEVAAGAISMGLGGYLAAK</span><span class="topo-inside">SEADNYARELKREQEEIIRVPDTEAAEVAEILARYGIEPHEYGPVVNALRKK</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230    </span>
+<span class="topo-line"><span class="topo-inside">PQAWLDFMMKFELGLEKPDPKRA</span><span class="topo-membrane">LQSAFTIAIAYVLGGLVPLIPYMFI</span><span class="topo-outside">PVARK</span><span class="topo-membrane">AVVASVILTLMALLIFGYAKGYF</span><span class="topo-inside">TDNK</span><span class="topo-membrane">PFKSALQTALIGAIASAAAFGMAKAV</span><span class="topo-outside">QSENLYFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -590,6 +597,7 @@ Vacuolar [IRON](/xray-mp-wiki/reagents/additives/iron/) transporter 1 (VIT1) fro
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

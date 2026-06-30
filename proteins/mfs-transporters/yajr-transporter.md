@@ -130,14 +130,15 @@ subfamily and shares highest sequence homology with [EMRD](/xray-mp-wiki/protein
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">DYKMTPGER</span><span class="topo-membrane">RATWGLGTVFSLRMLGMFMVLP</span><span class="topo-inside">VLTTYGMALQGASEALIGI</span><span class="topo-membrane">AIGIYGLTQA</span></span>
-<span class="topo-line"><span class="topo-membrane">VFQIPFGLLS</span><span class="topo-outside">DRIGRK</span><span class="topo-membrane">PLIVGGLAVFAAGSVIAALS</span><span class="topo-inside">DSIW</span><span class="topo-membrane">GIILGRALQGSGAIAAAVMA</span></span>
-<span class="topo-line"><span class="topo-outside">LLSDLTREQNR</span><span class="topo-membrane">TKAMAFIGVSFGITFAIAMVLG</span><span class="topo-inside">PIITHKL</span><span class="topo-membrane">GLHALFWMIAILATTGIALT</span></span>
-<span class="topo-line"><span class="topo-membrane">IWV</span><span class="topo-outside">VPNSSTHVLNRESGMVK</span><span class="topo-unknown">GSFSKVL</span><span class="topo-membrane">AEPRLLKLNFGIMCLHMLLMSTF</span><span class="topo-inside">VALPGQLADA</span></span>
-<span class="topo-line"><span class="topo-inside">GFPAAEHW</span><span class="topo-membrane">KVYLATMLIAFGSVVPFIIYAE</span><span class="topo-outside">VKRK</span><span class="topo-membrane">MKQVFVFCVGLIVVAEIVLW</span><span class="topo-inside">NAQTQF</span></span>
-<span class="topo-line"><span class="topo-inside">WQLV</span><span class="topo-membrane">VGVQLFFVAFNLMEALLPSLIS</span><span class="topo-outside">KESPAGYKG</span><span class="topo-membrane">TAMGVYSTSQFLGVAIGGSLG</span><span class="topo-inside">GWID</span></span>
-<span class="topo-line"><span class="topo-inside">GMFDGQGV</span><span class="topo-membrane">FLAGAMLAAVWLAVASTM</span><span class="topo-outside">KEPPYVSSLRIEIPADIAANEALKVRLLETEGVK</span></span>
-<span class="topo-line"><span class="topo-outside">EVLIAEEEHSAYVKIDSKVTNRFEVEQAIRQAL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">DYKMTPGER</span><span class="topo-membrane">RATWGLGTVFSLRMLGMFMVLP</span><span class="topo-inside">VLTTYGMALQGASEALIGI</span><span class="topo-membrane">AIGIYGLTQAVFQIPFGLLS</span><span class="topo-outside">DRIGRK</span><span class="topo-membrane">PLIVGGLAVFAAGSVIAALS</span><span class="topo-inside">DSIW</span><span class="topo-membrane">GIILGRALQGSGAIAAAVMA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">LLSDLTREQNR</span><span class="topo-membrane">TKAMAFIGVSFGITFAIAMVLG</span><span class="topo-inside">PIITHKL</span><span class="topo-membrane">GLHALFWMIAILATTGIALTIWV</span><span class="topo-outside">VPNSSTHVLNRESGMVK</span><span class="topo-unknown">GSFSKVL</span><span class="topo-membrane">AEPRLLKLNFGIMCLHMLLMSTF</span><span class="topo-inside">VALPGQLADA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">GFPAAEHW</span><span class="topo-membrane">KVYLATMLIAFGSVVPFIIYAE</span><span class="topo-outside">VKRK</span><span class="topo-membrane">MKQVFVFCVGLIVVAEIVLW</span><span class="topo-inside">NAQTQFWQLV</span><span class="topo-membrane">VGVQLFFVAFNLMEALLPSLIS</span><span class="topo-outside">KESPAGYKG</span><span class="topo-membrane">TAMGVYSTSQFLGVAIGGSLG</span><span class="topo-inside">GWID</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450   </span>
+<span class="topo-line"><span class="topo-inside">GMFDGQGV</span><span class="topo-membrane">FLAGAMLAAVWLAVASTM</span><span class="topo-outside">KEPPYVSSLRIEIPADIAANEALKVRLLETEGVKEVLIAEEEHSAYVKIDSKVTNRFEVEQAIRQAL</span></span>
+<details class="topo-details"><summary>Topology coordinates (26 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -331,6 +332,7 @@ subfamily and shares highest sequence homology with [EMRD](/xray-mp-wiki/protein
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

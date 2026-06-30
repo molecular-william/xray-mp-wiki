@@ -69,11 +69,13 @@ Arabidopsis thaliana cystinosin is a proton-coupled lysosomal cystine transporte
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MA</span><span class="topo-inside">SWNSIP</span><span class="topo-membrane">LEISYEIVGWIAFASWSISFYPQLILNFR</span><span class="topo-outside">RRSVVGL</span><span class="topo-membrane">NFDFVMLNLTKHSSYM</span></span>
-<span class="topo-line"><span class="topo-membrane">IYNVCLY</span><span class="topo-inside">FSPVIQKQYFDTYGDKEMIP</span><span class="topo-membrane">VAANDVAFSIHAVVMTAVTLFQIFIYE</span><span class="topo-outside">RGPQK</span><span class="topo-membrane">V</span></span>
-<span class="topo-line"><span class="topo-membrane">SRLAIGIVVVVWGFAAICFFI</span><span class="topo-inside">ALPTHSWLW</span><span class="topo-membrane">LISIFNSIQVFMTCVKYIPQAKM</span><span class="topo-outside">NFTRKST</span></span>
-<span class="topo-line"><span class="topo-outside">VGW</span><span class="topo-membrane">SIGNILLDFTGGLANYLQMVIQSI</span><span class="topo-inside">DQNSWKN</span><span class="topo-membrane">FYGNMGKTLLSLISIFFDILFMFQH</span><span class="topo-outside">Y</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MA</span><span class="topo-inside">SWNSIP</span><span class="topo-membrane">LEISYEIVGWIAFASWSISFYPQLILNFR</span><span class="topo-outside">RRSVVGL</span><span class="topo-membrane">NFDFVMLNLTKHSSYMIYNVCLY</span><span class="topo-inside">FSPVIQKQYFDTYGDKEMIP</span><span class="topo-membrane">VAANDVAFSIHAVVMTAVTLFQIFIYE</span><span class="topo-outside">RGPQK</span><span class="topo-membrane">V</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">SRLAIGIVVVVWGFAAICFFI</span><span class="topo-inside">ALPTHSWLW</span><span class="topo-membrane">LISIFNSIQVFMTCVKYIPQAKM</span><span class="topo-outside">NFTRKSTVGW</span><span class="topo-membrane">SIGNILLDFTGGLANYLQMVIQSI</span><span class="topo-inside">DQNSWKN</span><span class="topo-membrane">FYGNMGKTLLSLISIFFDILFMFQH</span><span class="topo-outside">Y</span></span>
+<span class="topo-ruler">       250       260       270       </span>
 <span class="topo-line"><span class="topo-outside">VLYPE</span><span class="topo-unknown">KKVSKSPETGEESNEPLIDSSHEHVGENLYFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -204,6 +206,7 @@ Arabidopsis thaliana cystinosin is a proton-coupled lysosomal cystine transporte
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -219,11 +222,13 @@ Arabidopsis thaliana cystinosin is a proton-coupled lysosomal cystine transporte
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">ASWNSI</span><span class="topo-membrane">PLEISYEIVGWIAFASWSISFY</span><span class="topo-inside">PQLILNFRRRSVVGLNFD</span><span class="topo-membrane">FVMLNLTKHSSYM</span></span>
-<span class="topo-line"><span class="topo-membrane">IYNVCLYFS</span><span class="topo-outside">PVIQKQYFDTYGDKEMI</span><span class="topo-membrane">PVAANDVAFSIHAVVMTAVTLF</span><span class="topo-inside">QIFIYERGPQKV</span></span>
-<span class="topo-line"><span class="topo-inside">SR</span><span class="topo-membrane">LAIGIVVVVWGFAAICFFIAL</span><span class="topo-outside">PTHS</span><span class="topo-membrane">WLWLISIFNSIQVFMTCVKYIPQA</span><span class="topo-unknown">KMNFTRKST</span></span>
-<span class="topo-line"><span class="topo-unknown">VGW</span><span class="topo-inside">SIG</span><span class="topo-membrane">NILLDFTGGLANYLQMVIQSID</span><span class="topo-outside">QNSW</span><span class="topo-membrane">KNFYGNMGKTLLSLISIFFDILFMF</span><span class="topo-inside">QHY</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">ASWNSI</span><span class="topo-membrane">PLEISYEIVGWIAFASWSISFY</span><span class="topo-inside">PQLILNFRRRSVVGLNFD</span><span class="topo-membrane">FVMLNLTKHSSYMIYNVCLYFS</span><span class="topo-outside">PVIQKQYFDTYGDKEMI</span><span class="topo-membrane">PVAANDVAFSIHAVVMTAVTLF</span><span class="topo-inside">QIFIYERGPQKV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">SR</span><span class="topo-membrane">LAIGIVVVVWGFAAICFFIAL</span><span class="topo-outside">PTHS</span><span class="topo-membrane">WLWLISIFNSIQVFMTCVKYIPQA</span><span class="topo-unknown">KMNFTRKSTVGW</span><span class="topo-inside">SIG</span><span class="topo-membrane">NILLDFTGGLANYLQMVIQSID</span><span class="topo-outside">QNSW</span><span class="topo-membrane">KNFYGNMGKTLLSLISIFFDILFMF</span><span class="topo-inside">QHY</span></span>
+<span class="topo-ruler">       250       260       270       </span>
 <span class="topo-line"><span class="topo-inside">VLYP</span><span class="topo-unknown">EKKVSKSPETGEESNEPLIDSSHEHVGENLYFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (18 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -361,6 +366,7 @@ Arabidopsis thaliana cystinosin is a proton-coupled lysosomal cystine transporte
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -376,11 +382,13 @@ Arabidopsis thaliana cystinosin is a proton-coupled lysosomal cystine transporte
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MA</span><span class="topo-inside">SWNSIPLEIS</span><span class="topo-membrane">YEIVGWIAFASWSISFYPQLILNF</span><span class="topo-outside">RRRSVVGL</span><span class="topo-membrane">NFDFVMLNLTKHSSYM</span></span>
-<span class="topo-line"><span class="topo-membrane">IYNVCLY</span><span class="topo-inside">FSPVIQKQYFDTYGDKEMIPV</span><span class="topo-membrane">AANDVAFSIHAVVMTAVTLFQIFI</span><span class="topo-outside">YERGPQKV</span></span>
-<span class="topo-line"><span class="topo-membrane">SRLAIGIVVVVWGFAAICFFIAL</span><span class="topo-inside">PTHSWLW</span><span class="topo-membrane">LISIFNSIQVFMTCVKYIPQAKMNF</span><span class="topo-outside">TRKST</span></span>
-<span class="topo-line"><span class="topo-outside">VG</span><span class="topo-membrane">WSIGNILLDFTGGLANYLQMV</span><span class="topo-inside">IQSIDQNSWKNFYGN</span><span class="topo-membrane">MGKTLLSLISIFFDILFMFQHY</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MA</span><span class="topo-inside">SWNSIPLEIS</span><span class="topo-membrane">YEIVGWIAFASWSISFYPQLILNF</span><span class="topo-outside">RRRSVVGL</span><span class="topo-membrane">NFDFVMLNLTKHSSYMIYNVCLY</span><span class="topo-inside">FSPVIQKQYFDTYGDKEMIPV</span><span class="topo-membrane">AANDVAFSIHAVVMTAVTLFQIFI</span><span class="topo-outside">YERGPQKV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">SRLAIGIVVVVWGFAAICFFIAL</span><span class="topo-inside">PTHSWLW</span><span class="topo-membrane">LISIFNSIQVFMTCVKYIPQAKMNF</span><span class="topo-outside">TRKSTVG</span><span class="topo-membrane">WSIGNILLDFTGGLANYLQMV</span><span class="topo-inside">IQSIDQNSWKNFYGN</span><span class="topo-membrane">MGKTLLSLISIFFDILFMFQHY</span></span>
+<span class="topo-ruler">       250       260       270       </span>
 <span class="topo-line"><span class="topo-membrane">VLYP</span><span class="topo-outside">E</span><span class="topo-unknown">KKVSKSPETGEESNEPLIDSSHEHVGENLYFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -511,6 +519,7 @@ Arabidopsis thaliana cystinosin is a proton-coupled lysosomal cystine transporte
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -526,11 +535,13 @@ Arabidopsis thaliana cystinosin is a proton-coupled lysosomal cystine transporte
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MA</span><span class="topo-inside">SWNSIPLEIS</span><span class="topo-membrane">YEIVGWIAFASWSISFYPQLILNF</span><span class="topo-outside">RRRSVVGL</span><span class="topo-membrane">NFDFVMLNLTKHSSYM</span></span>
-<span class="topo-line"><span class="topo-membrane">IYNVCLYF</span><span class="topo-inside">SPVIQKQYFDTYGDKEMIP</span><span class="topo-membrane">VAANDVAFSIHAVVMTAVTLFQIFI</span><span class="topo-outside">YERGPQKV</span></span>
-<span class="topo-line"><span class="topo-outside">S</span><span class="topo-membrane">RLAIGIVVVVWGFAAICFFIALP</span><span class="topo-inside">THSW</span><span class="topo-membrane">LWLISIFNSIQVFMTCVKYIPQAKMNF</span><span class="topo-outside">TRKST</span></span>
-<span class="topo-line"><span class="topo-outside">VG</span><span class="topo-membrane">WSIGNILLDFTGGLANYLQMVI</span><span class="topo-inside">QSIDQNSWKNF</span><span class="topo-membrane">YGNMGKTLLSLISIFFDILFMFQHY</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MA</span><span class="topo-inside">SWNSIPLEIS</span><span class="topo-membrane">YEIVGWIAFASWSISFYPQLILNF</span><span class="topo-outside">RRRSVVGL</span><span class="topo-membrane">NFDFVMLNLTKHSSYMIYNVCLYF</span><span class="topo-inside">SPVIQKQYFDTYGDKEMIP</span><span class="topo-membrane">VAANDVAFSIHAVVMTAVTLFQIFI</span><span class="topo-outside">YERGPQKV</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">S</span><span class="topo-membrane">RLAIGIVVVVWGFAAICFFIALP</span><span class="topo-inside">THSW</span><span class="topo-membrane">LWLISIFNSIQVFMTCVKYIPQAKMNF</span><span class="topo-outside">TRKSTVG</span><span class="topo-membrane">WSIGNILLDFTGGLANYLQMVI</span><span class="topo-inside">QSIDQNSWKNF</span><span class="topo-membrane">YGNMGKTLLSLISIFFDILFMFQHY</span></span>
+<span class="topo-ruler">       250       260       270       </span>
 <span class="topo-line"><span class="topo-membrane">VLYP</span><span class="topo-outside">E</span><span class="topo-unknown">KKVSKSPETGEESNEPLIDSSHEHVGENLYFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -661,6 +672,7 @@ Arabidopsis thaliana cystinosin is a proton-coupled lysosomal cystine transporte
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

@@ -91,19 +91,21 @@ PglB is a single-subunit oligosaccharyltransferase (OST) from the Gram-negative 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">ELQQNFTDNNSIKYT</span><span class="topo-membrane">CILILIAFAFSVLC</span><span class="topo-inside">RLYWVAWASEFYEFFFNDQLMITTNDGYAF</span></span>
-<span class="topo-line"><span class="topo-inside">AEGARDMIAGFHQPNDLSYFGS</span><span class="topo-unknown">SLSTLTYWLYS</span><span class="topo-inside">ILPFSFESIILYMSTF</span><span class="topo-membrane">FASLIVVPIIL</span></span>
-<span class="topo-line"><span class="topo-membrane">IAR</span><span class="topo-outside">EYKLT</span><span class="topo-membrane">TYGFIAALLGSIA</span><span class="topo-inside">NSYYNRTMSGYYDTDML</span><span class="topo-membrane">VLVLPMLILLTFIRL</span><span class="topo-outside">TINKDIF</span></span>
-<span class="topo-line"><span class="topo-membrane">TLLLSPIFIMIYLWW</span><span class="topo-inside">YPSS</span><span class="topo-membrane">YSLNFAMIGLFGLYTL</span><span class="topo-outside">VFHRKEKIF</span><span class="topo-membrane">YLAIALMIIALSMLA</span><span class="topo-inside">W</span></span>
-<span class="topo-line"><span class="topo-membrane">QYKLALIVLLF</span><span class="topo-outside">AIFAFKEEKINFYMI</span><span class="topo-membrane">WALIFISISILHLSGG</span><span class="topo-unknown">LDPVLYQLKFYVFKASDV</span></span>
-<span class="topo-line"><span class="topo-unknown">QNLKDA</span><span class="topo-inside">AFMYFNVNETIMEVNTID</span><span class="topo-unknown">PEVFMQRI</span><span class="topo-membrane">SSSVLVFILSFIGFILLCK</span><span class="topo-outside">DHK</span><span class="topo-membrane">SMLLAL</span></span>
-<span class="topo-line"><span class="topo-membrane">PMLALGF</span><span class="topo-inside">MALRAGLRFTI</span><span class="topo-membrane">YAVPVMALGFGYFLYAF</span><span class="topo-outside">FNFLEKKQIKLSLRNKN</span><span class="topo-membrane">ILLILIAF</span></span>
-<span class="topo-line"><span class="topo-membrane">FSISPAL</span><span class="topo-inside">MHIYYYKSSTVFTSYEASILNDLKNKAQREDYVVAWWDYGYPIRYYSDVKTLI</span></span>
-<span class="topo-line"><span class="topo-inside">DGGKHLGKDNFFSSFVLSKEQIPAANMARLSVEYTEKSFKENYPDVLKAMVKDYNQTSAK</span></span>
-<span class="topo-line"><span class="topo-inside">DFLESLNDKNFKFDTNKTRDVYIYMPYRMLRIMPVVAQFANTNPDNGEQEKSLFFSQANA</span></span>
-<span class="topo-line"><span class="topo-inside">IAQD</span><span class="topo-unknown">KTT</span><span class="topo-inside">GSVMLDNGVEIINDFRALKVEGASIPLKAFVDIESITNGKFYYNEIDSKAQIY</span></span>
-<span class="topo-line"><span class="topo-inside">LLFLREYKSFVILDESLYNSAYIQMFLLNQYDQDLFEQVTNDTRAKIYRLK</span><span class="topo-unknown">REFHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">ELQQNFTDNNSIKYT</span><span class="topo-membrane">CILILIAFAFSVLC</span><span class="topo-inside">RLYWVAWASEFYEFFFNDQLMITTNDGYAFAEGARDMIAGFHQPNDLSYFGS</span><span class="topo-unknown">SLSTLTYWLYS</span><span class="topo-inside">ILPFSFESIILYMSTF</span><span class="topo-membrane">FASLIVVPIIL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">IAR</span><span class="topo-outside">EYKLT</span><span class="topo-membrane">TYGFIAALLGSIA</span><span class="topo-inside">NSYYNRTMSGYYDTDML</span><span class="topo-membrane">VLVLPMLILLTFIRL</span><span class="topo-outside">TINKDIF</span><span class="topo-membrane">TLLLSPIFIMIYLWW</span><span class="topo-inside">YPSS</span><span class="topo-membrane">YSLNFAMIGLFGLYTL</span><span class="topo-outside">VFHRKEKIF</span><span class="topo-membrane">YLAIALMIIALSMLA</span><span class="topo-inside">W</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">QYKLALIVLLF</span><span class="topo-outside">AIFAFKEEKINFYMI</span><span class="topo-membrane">WALIFISISILHLSGG</span><span class="topo-unknown">LDPVLYQLKFYVFKASDVQNLKDA</span><span class="topo-inside">AFMYFNVNETIMEVNTID</span><span class="topo-unknown">PEVFMQRI</span><span class="topo-membrane">SSSVLVFILSFIGFILLCK</span><span class="topo-outside">DHK</span><span class="topo-membrane">SMLLAL</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">PMLALGF</span><span class="topo-inside">MALRAGLRFTI</span><span class="topo-membrane">YAVPVMALGFGYFLYAF</span><span class="topo-outside">FNFLEKKQIKLSLRNKN</span><span class="topo-membrane">ILLILIAFFSISPAL</span><span class="topo-inside">MHIYYYKSSTVFTSYEASILNDLKNKAQREDYVVAWWDYGYPIRYYSDVKTLI</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-inside">DGGKHLGKDNFFSSFVLSKEQIPAANMARLSVEYTEKSFKENYPDVLKAMVKDYNQTSAKDFLESLNDKNFKFDTNKTRDVYIYMPYRMLRIMPVVAQFANTNPDNGEQEKSLFFSQANA</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-inside">IAQD</span><span class="topo-unknown">KTT</span><span class="topo-inside">GSVMLDNGVEIINDFRALKVEGASIPLKAFVDIESITNGKFYYNEIDSKAQIYLLFLREYKSFVILDESLYNSAYIQMFLLNQYDQDLFEQVTNDTRAKIYRLK</span><span class="topo-unknown">REFHHHHHH</span></span>
+<span class="topo-ruler">    </span>
 <span class="topo-line"><span class="topo-unknown">HHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (35 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -360,6 +362,7 @@ PglB is a single-subunit oligosaccharyltransferase (OST) from the Gram-negative 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -493,18 +496,19 @@ PglB is a single-subunit oligosaccharyltransferase (OST) from the Gram-negative 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">ELQQNFTDNNSIKY</span><span class="topo-membrane">TAILILIAFAFSVLARL</span><span class="topo-inside">YWVAWASEFYEFFFNDQLMITTNDGYAF</span></span>
-<span class="topo-line"><span class="topo-inside">AEGARDMIAGFHQPNDLSYFGS</span><span class="topo-unknown">SLSTLTYWLYSI</span><span class="topo-inside">LPFSFESIILYMST</span><span class="topo-membrane">FFASLIVVPIIL</span></span>
-<span class="topo-line"><span class="topo-membrane">IAREY</span><span class="topo-outside">KL</span><span class="topo-membrane">TTYGFIAALLGSIANSYY</span><span class="topo-inside">NRTMSGYYDTDM</span><span class="topo-membrane">LVLVLPMLILLTFIRLT</span><span class="topo-outside">INKD</span><span class="topo-membrane">IF</span></span>
-<span class="topo-line"><span class="topo-membrane">TLLLSPVFIMIYLWW</span><span class="topo-inside">YPSS</span><span class="topo-membrane">YSLNFAMIGLFGLYTLVF</span><span class="topo-outside">HRKEK</span><span class="topo-membrane">IFYLTIALMIIALSML</span><span class="topo-inside">A</span><span class="topo-membrane">W</span></span>
-<span class="topo-line"><span class="topo-membrane">QYKLALIVLLFAIF</span><span class="topo-outside">AFKEEKINF</span><span class="topo-membrane">YMIWALIFISILILHLS</span><span class="topo-inside">GGLDPVLYQLKFYVFKASDV</span></span>
-<span class="topo-line"><span class="topo-inside">QNLKDAAFMYFNVNETIMEVNTIDPEVF</span><span class="topo-membrane">MQRISSSVLVFILSFIGFILLLK</span><span class="topo-outside">DH</span><span class="topo-membrane">KSMLLAL</span></span>
-<span class="topo-line"><span class="topo-membrane">PMLALGFM</span><span class="topo-inside">ALRAGLRFT</span><span class="topo-membrane">IYAVPVMALGFGYFLYAF</span><span class="topo-outside">FNFLEKKQIKLSLRNKN</span><span class="topo-membrane">ILLILIAF</span></span>
-<span class="topo-line"><span class="topo-membrane">FSISPALM</span><span class="topo-inside">HIYYYKSSTVFTSYEASILNDLKNKAQREDYVVAWWDYGYPIRYYSDVKTLI</span></span>
-<span class="topo-line"><span class="topo-inside">DGGKHLGKDNFFSSFVLSKEQIPAANMARLSVEYTEKSFKENYPDVLKAMVKDYQKTSAK</span></span>
-<span class="topo-line"><span class="topo-inside">DFLESLNDPNFKIDTPKTRDVYIYMPYRMLRIMPVVAQFANTNPDNGEQEKSLFFSQANP</span></span>
-<span class="topo-line"><span class="topo-inside">LDQD</span><span class="topo-unknown">KKQ</span><span class="topo-inside">GSITLDNGVEISNDYRSLKIEGNSIPLKAFVDIESITNGKFYYNEIDSKAQIY</span></span>
-<span class="topo-line"><span class="topo-inside">LLYLREYKSYVILDESLYNSSYIQMFLLNQYDQDLFEQITNDTRAKIYRLK</span><span class="topo-unknown">RE</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">ELQQNFTDNNSIKY</span><span class="topo-membrane">TAILILIAFAFSVLARL</span><span class="topo-inside">YWVAWASEFYEFFFNDQLMITTNDGYAFAEGARDMIAGFHQPNDLSYFGS</span><span class="topo-unknown">SLSTLTYWLYSI</span><span class="topo-inside">LPFSFESIILYMST</span><span class="topo-membrane">FFASLIVVPIIL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">IAREY</span><span class="topo-outside">KL</span><span class="topo-membrane">TTYGFIAALLGSIANSYY</span><span class="topo-inside">NRTMSGYYDTDM</span><span class="topo-membrane">LVLVLPMLILLTFIRLT</span><span class="topo-outside">INKD</span><span class="topo-membrane">IFTLLLSPVFIMIYLWW</span><span class="topo-inside">YPSS</span><span class="topo-membrane">YSLNFAMIGLFGLYTLVF</span><span class="topo-outside">HRKEK</span><span class="topo-membrane">IFYLTIALMIIALSML</span><span class="topo-inside">A</span><span class="topo-membrane">W</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">QYKLALIVLLFAIF</span><span class="topo-outside">AFKEEKINF</span><span class="topo-membrane">YMIWALIFISILILHLS</span><span class="topo-inside">GGLDPVLYQLKFYVFKASDVQNLKDAAFMYFNVNETIMEVNTIDPEVF</span><span class="topo-membrane">MQRISSSVLVFILSFIGFILLLK</span><span class="topo-outside">DH</span><span class="topo-membrane">KSMLLAL</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">PMLALGFM</span><span class="topo-inside">ALRAGLRFT</span><span class="topo-membrane">IYAVPVMALGFGYFLYAF</span><span class="topo-outside">FNFLEKKQIKLSLRNKN</span><span class="topo-membrane">ILLILIAFFSISPALM</span><span class="topo-inside">HIYYYKSSTVFTSYEASILNDLKNKAQREDYVVAWWDYGYPIRYYSDVKTLI</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-inside">DGGKHLGKDNFFSSFVLSKEQIPAANMARLSVEYTEKSFKENYPDVLKAMVKDYQKTSAKDFLESLNDPNFKIDTPKTRDVYIYMPYRMLRIMPVVAQFANTNPDNGEQEKSLFFSQANP</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710   </span>
+<span class="topo-line"><span class="topo-inside">LDQD</span><span class="topo-unknown">KKQ</span><span class="topo-inside">GSITLDNGVEISNDYRSLKIEGNSIPLKAFVDIESITNGKFYYNEIDSKAQIYLLYLREYKSYVILDESLYNSSYIQMFLLNQYDQDLFEQITNDTRAKIYRLK</span><span class="topo-unknown">RE</span></span>
+<details class="topo-details"><summary>Topology coordinates (30 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -726,6 +730,7 @@ PglB is a single-subunit oligosaccharyltransferase (OST) from the Gram-negative 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -811,19 +816,21 @@ PglB is a single-subunit oligosaccharyltransferase (OST) from the Gram-negative 
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">ELQQNFTDNNSIK</span><span class="topo-membrane">YTAILILIAFAFSVLARL</span><span class="topo-inside">YWVAWASEFYEFFFNDQLMITTNDGYAF</span></span>
-<span class="topo-line"><span class="topo-inside">AEGARDMIAGFHQPNDLSYFGS</span><span class="topo-unknown">SLSTLTYWLYSI</span><span class="topo-inside">LPFSFESIILYMST</span><span class="topo-membrane">FFASLIVVPIIL</span></span>
-<span class="topo-line"><span class="topo-membrane">IARE</span><span class="topo-outside">YKLT</span><span class="topo-membrane">TYGFIAALLGSIANSYY</span><span class="topo-inside">NRTMSGYYDTDM</span><span class="topo-membrane">LVLVLPMLILLTFIRLT</span><span class="topo-outside">INKD</span><span class="topo-membrane">IF</span></span>
-<span class="topo-line"><span class="topo-membrane">TLLLSPVFIMIYL</span><span class="topo-inside">WWYPSS</span><span class="topo-membrane">YSLNFAMIGLFGLYTLV</span><span class="topo-outside">FHRKEK</span><span class="topo-membrane">IFYLTIALMIIALS</span><span class="topo-inside">ML</span><span class="topo-membrane">AW</span></span>
-<span class="topo-line"><span class="topo-membrane">QYKLALIVLLFAIFA</span><span class="topo-outside">FKEEKI</span><span class="topo-membrane">NFYMIWALIFISILILH</span><span class="topo-inside">LSGGL</span><span class="topo-unknown">DPVLYQLKFY</span><span class="topo-inside">VFKASDV</span></span>
-<span class="topo-line"><span class="topo-inside">QNLKDAAFMYFNVNETIMEVNTIDP</span><span class="topo-membrane">EVFMQRISSSVLVFILSFIGFILLL</span><span class="topo-outside">KDHK</span><span class="topo-membrane">SMLLAL</span></span>
-<span class="topo-line"><span class="topo-membrane">PMLALGFMAL</span><span class="topo-inside">RAGLRF</span><span class="topo-membrane">TIYAVPVMALGFGYFL</span><span class="topo-outside">YAFFNFLEKKQIKLSLRNKNIL</span><span class="topo-membrane">LILIAF</span></span>
-<span class="topo-line"><span class="topo-membrane">FSISPALMHI</span><span class="topo-inside">YYYKSSTVFTSYEASILNDLKNKAQREDYVVAWWDYGYPIRYYSDVKTLI</span></span>
-<span class="topo-line"><span class="topo-inside">DGGKHLGKDNFFSSFVLSKEQIPAANMARLSVEYTEKSFKENYPDVLKAMVKDYQKTSAK</span></span>
-<span class="topo-line"><span class="topo-inside">DFLESLNDPNFKIDTPKTRDVYIYMPYRMLRIMPVVAQFANTNPDNGEQEKSLFFSQANP</span></span>
-<span class="topo-line"><span class="topo-inside">LDQ</span><span class="topo-unknown">DKKQ</span><span class="topo-inside">GSITLDNGVEISNDYRSLKIEGNSIPLKAFVDIESITNGKFYYNEIDSKAQIY</span></span>
-<span class="topo-line"><span class="topo-inside">LLYLREYKSYVILDESLYNSSYIQMFLLNQYDQDLFEQITNDTRAKIYRLK</span><span class="topo-unknown">REFHHHHHH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">ELQQNFTDNNSIK</span><span class="topo-membrane">YTAILILIAFAFSVLARL</span><span class="topo-inside">YWVAWASEFYEFFFNDQLMITTNDGYAFAEGARDMIAGFHQPNDLSYFGS</span><span class="topo-unknown">SLSTLTYWLYSI</span><span class="topo-inside">LPFSFESIILYMST</span><span class="topo-membrane">FFASLIVVPIIL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">IARE</span><span class="topo-outside">YKLT</span><span class="topo-membrane">TYGFIAALLGSIANSYY</span><span class="topo-inside">NRTMSGYYDTDM</span><span class="topo-membrane">LVLVLPMLILLTFIRLT</span><span class="topo-outside">INKD</span><span class="topo-membrane">IFTLLLSPVFIMIYL</span><span class="topo-inside">WWYPSS</span><span class="topo-membrane">YSLNFAMIGLFGLYTLV</span><span class="topo-outside">FHRKEK</span><span class="topo-membrane">IFYLTIALMIIALS</span><span class="topo-inside">ML</span><span class="topo-membrane">AW</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">QYKLALIVLLFAIFA</span><span class="topo-outside">FKEEKI</span><span class="topo-membrane">NFYMIWALIFISILILH</span><span class="topo-inside">LSGGL</span><span class="topo-unknown">DPVLYQLKFY</span><span class="topo-inside">VFKASDVQNLKDAAFMYFNVNETIMEVNTIDP</span><span class="topo-membrane">EVFMQRISSSVLVFILSFIGFILLL</span><span class="topo-outside">KDHK</span><span class="topo-membrane">SMLLAL</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">PMLALGFMAL</span><span class="topo-inside">RAGLRF</span><span class="topo-membrane">TIYAVPVMALGFGYFL</span><span class="topo-outside">YAFFNFLEKKQIKLSLRNKNIL</span><span class="topo-membrane">LILIAFFSISPALMHI</span><span class="topo-inside">YYYKSSTVFTSYEASILNDLKNKAQREDYVVAWWDYGYPIRYYSDVKTLI</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-inside">DGGKHLGKDNFFSSFVLSKEQIPAANMARLSVEYTEKSFKENYPDVLKAMVKDYQKTSAKDFLESLNDPNFKIDTPKTRDVYIYMPYRMLRIMPVVAQFANTNPDNGEQEKSLFFSQANP</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-inside">LDQ</span><span class="topo-unknown">DKKQ</span><span class="topo-inside">GSITLDNGVEISNDYRSLKIEGNSIPLKAFVDIESITNGKFYYNEIDSKAQIYLLYLREYKSYVILDESLYNSSYIQMFLLNQYDQDLFEQITNDTRAKIYRLK</span><span class="topo-unknown">REFHHHHHH</span></span>
+<span class="topo-ruler">    </span>
 <span class="topo-line"><span class="topo-unknown">HHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (32 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1059,6 +1066,7 @@ PglB is a single-subunit oligosaccharyltransferase (OST) from the Gram-negative 
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

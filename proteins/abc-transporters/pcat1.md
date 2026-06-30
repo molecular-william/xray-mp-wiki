@@ -222,19 +222,21 @@ PCAT1 is a peptidase-containing ATP-binding cassette (ABC) transporter from Clos
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">SNAMLRRLFKKKYV</span><span class="topo-outside">CVRQYDLTDCGAACLSSIAQYYGLKMSLAKIREMTGTDTQGTNAYG</span></span>
-<span class="topo-line"><span class="topo-outside">LIHAAKQLGFSAKGVKASKEDLLKDFRLPAIANVIVDNRLAHFVVIYSIKNRIITVADPG</span></span>
-<span class="topo-line"><span class="topo-outside">KGIVRYSMDDFCSIWTGGLVLLEPGEAFQKGDYTQN</span><span class="topo-unknown">MMVKFAGFLK</span><span class="topo-outside">PL</span><span class="topo-membrane">KKTVLCIFLASL</span></span>
-<span class="topo-line"><span class="topo-membrane">LYTALGIAGSF</span><span class="topo-inside">YIKFLFDDLIKFEKLNDLHIISA</span><span class="topo-membrane">GFAVIFLLQIFLNYYRSILVTKLG</span><span class="topo-outside">MS</span></span>
-<span class="topo-line"><span class="topo-outside">IDKSIMMEYYSHVLKLPMNFFNSRKVGEIISRFMDASKIRQA</span><span class="topo-membrane">ISGATLTIMIDTIMAVIG</span></span>
-<span class="topo-line"><span class="topo-membrane">GILLY</span><span class="topo-inside">IQNSSL</span><span class="topo-membrane">FFISFIIILLYGIIVTVFNKPI</span><span class="topo-outside">QNANRQIMEDNAKLTSALVESVKGIET</span></span>
-<span class="topo-line"><span class="topo-outside">IKSFGAEEQTEKSTRDKIETVMKSSFKE</span><span class="topo-membrane">GMLYINLSSLTGIVAGLGGIVI</span><span class="topo-inside">LWAGAYNVIK</span></span>
-<span class="topo-line"><span class="topo-inside">GNMSGGQLLAF</span><span class="topo-membrane">NALLAYFLTPVKNLIDLQPLI</span><span class="topo-outside">QTAVVASNRLGEILELATEKEL</span><span class="topo-unknown">REDSDD</span></span>
-<span class="topo-line"><span class="topo-unknown">FVISLK</span><span class="topo-outside">GDIEFRNVDFRYGLRKPVLKNINLTIPKGKTVAIVGESGSGKTTLAKLLMNFYS</span></span>
-<span class="topo-line"><span class="topo-outside">PEKGDILINGHSIKNISLELIRKKIAFVSQDVFIFSGTVKENLCLGNENVDMDEIIKAAK</span></span>
-<span class="topo-line"><span class="topo-outside">MANAHDFIEKLPLKYDTFLNESGANLSEGQKQRLAIARALLKKPDILILDEATSNLDSIT</span></span>
-<span class="topo-line"><span class="topo-outside">ENHIKDAIYGLEDDVTVIIIAHRLSTIVNCDKIYLLKDGEIVESGSHTELIALKGCYFKM</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">SNAMLRRLFKKKYV</span><span class="topo-outside">CVRQYDLTDCGAACLSSIAQYYGLKMSLAKIREMTGTDTQGTNAYGLIHAAKQLGFSAKGVKASKEDLLKDFRLPAIANVIVDNRLAHFVVIYSIKNRIITVADPG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">KGIVRYSMDDFCSIWTGGLVLLEPGEAFQKGDYTQN</span><span class="topo-unknown">MMVKFAGFLK</span><span class="topo-outside">PL</span><span class="topo-membrane">KKTVLCIFLASLLYTALGIAGSF</span><span class="topo-inside">YIKFLFDDLIKFEKLNDLHIISA</span><span class="topo-membrane">GFAVIFLLQIFLNYYRSILVTKLG</span><span class="topo-outside">MS</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">IDKSIMMEYYSHVLKLPMNFFNSRKVGEIISRFMDASKIRQA</span><span class="topo-membrane">ISGATLTIMIDTIMAVIGGILLY</span><span class="topo-inside">IQNSSL</span><span class="topo-membrane">FFISFIIILLYGIIVTVFNKPI</span><span class="topo-outside">QNANRQIMEDNAKLTSALVESVKGIET</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">IKSFGAEEQTEKSTRDKIETVMKSSFKE</span><span class="topo-membrane">GMLYINLSSLTGIVAGLGGIVI</span><span class="topo-inside">LWAGAYNVIKGNMSGGQLLAF</span><span class="topo-membrane">NALLAYFLTPVKNLIDLQPLI</span><span class="topo-outside">QTAVVASNRLGEILELATEKEL</span><span class="topo-unknown">REDSDD</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-unknown">FVISLK</span><span class="topo-outside">GDIEFRNVDFRYGLRKPVLKNINLTIPKGKTVAIVGESGSGKTTLAKLLMNFYSPEKGDILINGHSIKNISLELIRKKIAFVSQDVFIFSGTVKENLCLGNENVDMDEIIKAAK</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-outside">MANAHDFIEKLPLKYDTFLNESGANLSEGQKQRLAIARALLKKPDILILDEATSNLDSITENHIKDAIYGLEDDVTVIIIAHRLSTIVNCDKIYLLKDGEIVESGSHTELIALKGCYFKM</span></span>
+<span class="topo-ruler">       730</span>
 <span class="topo-line"><span class="topo-outside">WKQTENT</span><span class="topo-unknown">LAS</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -358,6 +360,7 @@ PCAT1 is a peptidase-containing ATP-binding cassette (ABC) transporter from Clos
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -373,19 +376,21 @@ PCAT1 is a peptidase-containing ATP-binding cassette (ABC) transporter from Clos
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">SNAMLRRLFKKKYV</span><span class="topo-outside">CVRQYDLTDCGAACLSSIAQYYGLKMSLAKIREMTGTDTQGTNAYG</span></span>
-<span class="topo-line"><span class="topo-outside">LIHAAKQLGFSAKGVKASKEDLLKDFRLPAIANVIVDNRLAHFVVIYSIKNRIITVADPG</span></span>
-<span class="topo-line"><span class="topo-outside">KGIVRYSMDDFCSIWTGGLVLLEPGEAFQKGDYTQN</span><span class="topo-unknown">MMVKFAG</span><span class="topo-outside">FL</span><span class="topo-membrane">KPLKKTVLCIFLASL</span></span>
-<span class="topo-line"><span class="topo-membrane">LYTALGIAGS</span><span class="topo-inside">FYIKFLFDDLIKFEKLNDLHIISA</span><span class="topo-membrane">GFAVIFLLQIFLNYYRSILVTKLG</span><span class="topo-outside">MS</span></span>
-<span class="topo-line"><span class="topo-outside">IDKSIMMEYYSHVLKLPMNFFNSRKVGEIISRFMDASKIRQA</span><span class="topo-membrane">ISGATLTIMIDTIMAVIG</span></span>
-<span class="topo-line"><span class="topo-membrane">GILLY</span><span class="topo-inside">IQNSSL</span><span class="topo-membrane">FFISFIIILLYGIIVTVFNKPI</span><span class="topo-outside">QNANRQIMEDNAKLTSALVESVKGIET</span></span>
-<span class="topo-line"><span class="topo-outside">IKSFGAEEQTEKSTRDKIETVMKSSFKE</span><span class="topo-membrane">GMLYINLSSLTGIVAGLGGIVI</span><span class="topo-inside">LWAGAYNVIK</span></span>
-<span class="topo-line"><span class="topo-inside">GNMSGGQLLAF</span><span class="topo-membrane">NALLAYFLTPVKNLIDLQPLIQ</span><span class="topo-outside">TAVVASNRLGEILELATEKEL</span><span class="topo-unknown">REDSDD</span></span>
-<span class="topo-line"><span class="topo-unknown">FVISLK</span><span class="topo-outside">GDIEFRNVDFRYGLRKPVLKNINLTIPKGKTVAIVGESGSGKTTLAKLLMNFYS</span></span>
-<span class="topo-line"><span class="topo-outside">PEKGDILINGHSIKNISLELIRKKIAFVSQDVFIFSGTVKENLCLGNENVDMDEIIKAAK</span></span>
-<span class="topo-line"><span class="topo-outside">MANAHDFIEKLPLKYDTFLNESGANLSEGQKQRLAIARALLKKPDILILDEATSNLDSIT</span></span>
-<span class="topo-line"><span class="topo-outside">ENHIKDAIYGLEDDVTVIIIAHRLSTIVNCDKIYLLKDGEIVESGSHTELIALKGCYFKM</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">SNAMLRRLFKKKYV</span><span class="topo-outside">CVRQYDLTDCGAACLSSIAQYYGLKMSLAKIREMTGTDTQGTNAYGLIHAAKQLGFSAKGVKASKEDLLKDFRLPAIANVIVDNRLAHFVVIYSIKNRIITVADPG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">KGIVRYSMDDFCSIWTGGLVLLEPGEAFQKGDYTQN</span><span class="topo-unknown">MMVKFAG</span><span class="topo-outside">FL</span><span class="topo-membrane">KPLKKTVLCIFLASLLYTALGIAGS</span><span class="topo-inside">FYIKFLFDDLIKFEKLNDLHIISA</span><span class="topo-membrane">GFAVIFLLQIFLNYYRSILVTKLG</span><span class="topo-outside">MS</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">IDKSIMMEYYSHVLKLPMNFFNSRKVGEIISRFMDASKIRQA</span><span class="topo-membrane">ISGATLTIMIDTIMAVIGGILLY</span><span class="topo-inside">IQNSSL</span><span class="topo-membrane">FFISFIIILLYGIIVTVFNKPI</span><span class="topo-outside">QNANRQIMEDNAKLTSALVESVKGIET</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">IKSFGAEEQTEKSTRDKIETVMKSSFKE</span><span class="topo-membrane">GMLYINLSSLTGIVAGLGGIVI</span><span class="topo-inside">LWAGAYNVIKGNMSGGQLLAF</span><span class="topo-membrane">NALLAYFLTPVKNLIDLQPLIQ</span><span class="topo-outside">TAVVASNRLGEILELATEKEL</span><span class="topo-unknown">REDSDD</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-unknown">FVISLK</span><span class="topo-outside">GDIEFRNVDFRYGLRKPVLKNINLTIPKGKTVAIVGESGSGKTTLAKLLMNFYSPEKGDILINGHSIKNISLELIRKKIAFVSQDVFIFSGTVKENLCLGNENVDMDEIIKAAK</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-outside">MANAHDFIEKLPLKYDTFLNESGANLSEGQKQRLAIARALLKKPDILILDEATSNLDSITENHIKDAIYGLEDDVTVIIIAHRLSTIVNCDKIYLLKDGEIVESGSHTELIALKGCYFKM</span></span>
+<span class="topo-ruler">       730</span>
 <span class="topo-line"><span class="topo-outside">WKQTE</span><span class="topo-unknown">NTLAS</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -509,6 +514,7 @@ PCAT1 is a peptidase-containing ATP-binding cassette (ABC) transporter from Clos
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -524,19 +530,21 @@ PCAT1 is a peptidase-containing ATP-binding cassette (ABC) transporter from Clos
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">SNAMLRRLFKKKYV</span><span class="topo-outside">CVRQYDLTDCGAACLSSIAQYYGLKMSLAKIREMTGTDTQGTNAYG</span></span>
-<span class="topo-line"><span class="topo-outside">LIHAAKQLGFSAKGVKASKEDLLKDFRLPAIANVIVDNRLAHFVVIYSIKNRIITVADPG</span></span>
-<span class="topo-line"><span class="topo-outside">KGIVRYSMDDFCSIWTGGLVLLEPGEAFQKGDYTQN</span><span class="topo-unknown">MMVKFAGFLK</span><span class="topo-outside">PL</span><span class="topo-membrane">KKTVLCIFLASL</span></span>
-<span class="topo-line"><span class="topo-membrane">LYTALGIAGSF</span><span class="topo-inside">YIKFLFDDLIKFEKLNDLHIISA</span><span class="topo-membrane">GFAVIFLLQIFLNYYRSILVTKLG</span><span class="topo-outside">MS</span></span>
-<span class="topo-line"><span class="topo-outside">IDKSIMMEYYSHVLKLPMNFFNSRKVGEIISRFMDASKIRQA</span><span class="topo-membrane">ISGATLTIMIDTIMAVIG</span></span>
-<span class="topo-line"><span class="topo-membrane">GILLY</span><span class="topo-inside">IQNSSL</span><span class="topo-membrane">FFISFIIILLYGIIVTVFNKPI</span><span class="topo-outside">QNANRQIMEDNAKLTSALVESVKGIET</span></span>
-<span class="topo-line"><span class="topo-outside">IKSFGAEEQTEKSTRDKIETVMKSSFKE</span><span class="topo-membrane">GMLYINLSSLTGIVAGLGGIVI</span><span class="topo-inside">LWAGAYNVIK</span></span>
-<span class="topo-line"><span class="topo-inside">GNMSGGQLLAF</span><span class="topo-membrane">NALLAYFLTPVKNLIDLQPLI</span><span class="topo-outside">QTAVVASNRLGEILELATEKEL</span><span class="topo-unknown">REDSDD</span></span>
-<span class="topo-line"><span class="topo-unknown">FVISLK</span><span class="topo-outside">GDIEFRNVDFRYGLRKPVLKNINLTIPKGKTVAIVGESGSGKTTLAKLLMNFYS</span></span>
-<span class="topo-line"><span class="topo-outside">PEKGDILINGHSIKNISLELIRKKIAFVSQDVFIFSGTVKENLCLGNENVDMDEIIKAAK</span></span>
-<span class="topo-line"><span class="topo-outside">MANAHDFIEKLPLKYDTFLNESGANLSEGQKQRLAIARALLKKPDILILDEATSNLDSIT</span></span>
-<span class="topo-line"><span class="topo-outside">ENHIKDAIYGLEDDVTVIIIAHRLSTIVNCDKIYLLKDGEIVESGSHTELIALKGCYFKM</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">SNAMLRRLFKKKYV</span><span class="topo-outside">CVRQYDLTDCGAACLSSIAQYYGLKMSLAKIREMTGTDTQGTNAYGLIHAAKQLGFSAKGVKASKEDLLKDFRLPAIANVIVDNRLAHFVVIYSIKNRIITVADPG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">KGIVRYSMDDFCSIWTGGLVLLEPGEAFQKGDYTQN</span><span class="topo-unknown">MMVKFAGFLK</span><span class="topo-outside">PL</span><span class="topo-membrane">KKTVLCIFLASLLYTALGIAGSF</span><span class="topo-inside">YIKFLFDDLIKFEKLNDLHIISA</span><span class="topo-membrane">GFAVIFLLQIFLNYYRSILVTKLG</span><span class="topo-outside">MS</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">IDKSIMMEYYSHVLKLPMNFFNSRKVGEIISRFMDASKIRQA</span><span class="topo-membrane">ISGATLTIMIDTIMAVIGGILLY</span><span class="topo-inside">IQNSSL</span><span class="topo-membrane">FFISFIIILLYGIIVTVFNKPI</span><span class="topo-outside">QNANRQIMEDNAKLTSALVESVKGIET</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">IKSFGAEEQTEKSTRDKIETVMKSSFKE</span><span class="topo-membrane">GMLYINLSSLTGIVAGLGGIVI</span><span class="topo-inside">LWAGAYNVIKGNMSGGQLLAF</span><span class="topo-membrane">NALLAYFLTPVKNLIDLQPLI</span><span class="topo-outside">QTAVVASNRLGEILELATEKEL</span><span class="topo-unknown">REDSDD</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-unknown">FVISLK</span><span class="topo-outside">GDIEFRNVDFRYGLRKPVLKNINLTIPKGKTVAIVGESGSGKTTLAKLLMNFYSPEKGDILINGHSIKNISLELIRKKIAFVSQDVFIFSGTVKENLCLGNENVDMDEIIKAAK</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-outside">MANAHDFIEKLPLKYDTFLNESGANLSEGQKQRLAIARALLKKPDILILDEATSNLDSITENHIKDAIYGLEDDVTVIIIAHRLSTIVNCDKIYLLKDGEIVESGSHTELIALKGCYFKM</span></span>
+<span class="topo-ruler">       730</span>
 <span class="topo-line"><span class="topo-outside">WKQTENT</span><span class="topo-unknown">LAS</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -660,6 +668,7 @@ PCAT1 is a peptidase-containing ATP-binding cassette (ABC) transporter from Clos
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -675,19 +684,21 @@ PCAT1 is a peptidase-containing ATP-binding cassette (ABC) transporter from Clos
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">SNAMLRRLFKKKYV</span><span class="topo-outside">CVRQYDLTDCGAACLSSIAQYYGLKMSLAKIREMTGTDTQGTNAYG</span></span>
-<span class="topo-line"><span class="topo-outside">LIHAAKQLGFSAKGVKASKEDLLKDFRLPAIANVIVDNRLAHFVVIYSIKNRIITVADPG</span></span>
-<span class="topo-line"><span class="topo-outside">KGIVRYSMDDFCSIWTGGLVLLEPGEAFQKGDYTQN</span><span class="topo-unknown">MMVKFAG</span><span class="topo-outside">FL</span><span class="topo-membrane">KPLKKTVLCIFLASL</span></span>
-<span class="topo-line"><span class="topo-membrane">LYTALGIAGS</span><span class="topo-inside">FYIKFLFDDLIKFEKLNDLHIISA</span><span class="topo-membrane">GFAVIFLLQIFLNYYRSILVTKLG</span><span class="topo-outside">MS</span></span>
-<span class="topo-line"><span class="topo-outside">IDKSIMMEYYSHVLKLPMNFFNSRKVGEIISRFMDASKIRQA</span><span class="topo-membrane">ISGATLTIMIDTIMAVIG</span></span>
-<span class="topo-line"><span class="topo-membrane">GILLY</span><span class="topo-inside">IQNSSL</span><span class="topo-membrane">FFISFIIILLYGIIVTVFNKPI</span><span class="topo-outside">QNANRQIMEDNAKLTSALVESVKGIET</span></span>
-<span class="topo-line"><span class="topo-outside">IKSFGAEEQTEKSTRDKIETVMKSSFKE</span><span class="topo-membrane">GMLYINLSSLTGIVAGLGGIVI</span><span class="topo-inside">LWAGAYNVIK</span></span>
-<span class="topo-line"><span class="topo-inside">GNMSGGQLLAF</span><span class="topo-membrane">NALLAYFLTPVKNLIDLQPLIQ</span><span class="topo-outside">TAVVASNRLGEILELATEKEL</span><span class="topo-unknown">REDSDD</span></span>
-<span class="topo-line"><span class="topo-unknown">FVISLK</span><span class="topo-outside">GDIEFRNVDFRYGLRKPVLKNINLTIPKGKTVAIVGESGSGKTTLAKLLMNFYS</span></span>
-<span class="topo-line"><span class="topo-outside">PEKGDILINGHSIKNISLELIRKKIAFVSQDVFIFSGTVKENLCLGNENVDMDEIIKAAK</span></span>
-<span class="topo-line"><span class="topo-outside">MANAHDFIEKLPLKYDTFLNESGANLSEGQKQRLAIARALLKKPDILILDEATSNLDSIT</span></span>
-<span class="topo-line"><span class="topo-outside">ENHIKDAIYGLEDDVTVIIIAHRLSTIVNCDKIYLLKDGEIVESGSHTELIALKGCYFKM</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">SNAMLRRLFKKKYV</span><span class="topo-outside">CVRQYDLTDCGAACLSSIAQYYGLKMSLAKIREMTGTDTQGTNAYGLIHAAKQLGFSAKGVKASKEDLLKDFRLPAIANVIVDNRLAHFVVIYSIKNRIITVADPG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">KGIVRYSMDDFCSIWTGGLVLLEPGEAFQKGDYTQN</span><span class="topo-unknown">MMVKFAG</span><span class="topo-outside">FL</span><span class="topo-membrane">KPLKKTVLCIFLASLLYTALGIAGS</span><span class="topo-inside">FYIKFLFDDLIKFEKLNDLHIISA</span><span class="topo-membrane">GFAVIFLLQIFLNYYRSILVTKLG</span><span class="topo-outside">MS</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">IDKSIMMEYYSHVLKLPMNFFNSRKVGEIISRFMDASKIRQA</span><span class="topo-membrane">ISGATLTIMIDTIMAVIGGILLY</span><span class="topo-inside">IQNSSL</span><span class="topo-membrane">FFISFIIILLYGIIVTVFNKPI</span><span class="topo-outside">QNANRQIMEDNAKLTSALVESVKGIET</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">IKSFGAEEQTEKSTRDKIETVMKSSFKE</span><span class="topo-membrane">GMLYINLSSLTGIVAGLGGIVI</span><span class="topo-inside">LWAGAYNVIKGNMSGGQLLAF</span><span class="topo-membrane">NALLAYFLTPVKNLIDLQPLIQ</span><span class="topo-outside">TAVVASNRLGEILELATEKEL</span><span class="topo-unknown">REDSDD</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-unknown">FVISLK</span><span class="topo-outside">GDIEFRNVDFRYGLRKPVLKNINLTIPKGKTVAIVGESGSGKTTLAKLLMNFYSPEKGDILINGHSIKNISLELIRKKIAFVSQDVFIFSGTVKENLCLGNENVDMDEIIKAAK</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-outside">MANAHDFIEKLPLKYDTFLNESGANLSEGQKQRLAIARALLKKPDILILDEATSNLDSITENHIKDAIYGLEDDVTVIIIAHRLSTIVNCDKIYLLKDGEIVESGSHTELIALKGCYFKM</span></span>
+<span class="topo-ruler">       730</span>
 <span class="topo-line"><span class="topo-outside">WKQTE</span><span class="topo-unknown">NTLAS</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -811,6 +822,7 @@ PCAT1 is a peptidase-containing ATP-binding cassette (ABC) transporter from Clos
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -826,19 +838,21 @@ PCAT1 is a peptidase-containing ATP-binding cassette (ABC) transporter from Clos
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">SNAMLRRLFKKKYV</span><span class="topo-outside">CVRQYDLTDCGAACLSSIAQYYGLKMSLAKIREMTGTDTQGTNAYG</span></span>
-<span class="topo-line"><span class="topo-outside">LIHAAKQLGFSAKGVKASKEDLLKDFRLPAIANVIVDNRLAHFVVIYSIKNRIITVADPG</span></span>
-<span class="topo-line"><span class="topo-outside">KGIVRYSMDDFCSIWTGGLVLLEPGEAFQKGDYTQN</span><span class="topo-unknown">MMVKFAGFLK</span><span class="topo-outside">PL</span><span class="topo-membrane">KKTVLCIFLASL</span></span>
-<span class="topo-line"><span class="topo-membrane">LYTALGIAGSF</span><span class="topo-inside">YIKFLFDDLIKFEKLNDLHIISA</span><span class="topo-membrane">GFAVIFLLQIFLNYYRSILVTKLG</span><span class="topo-outside">MS</span></span>
-<span class="topo-line"><span class="topo-outside">IDKSIMMEYYSHVLKLPMNFFNSRKVGEIISRFMDASKIRQA</span><span class="topo-membrane">ISGATLTIMIDTIMAVIG</span></span>
-<span class="topo-line"><span class="topo-membrane">GILLY</span><span class="topo-inside">IQNSSL</span><span class="topo-membrane">FFISFIIILLYGIIVTVFNKPI</span><span class="topo-outside">QNANRQIMEDNAKLTSALVESVKGIET</span></span>
-<span class="topo-line"><span class="topo-outside">IKSFGAEEQTEKSTRDKIETVMKSSFKE</span><span class="topo-membrane">GMLYINLSSLTGIVAGLGGIVI</span><span class="topo-inside">LWAGAYNVIK</span></span>
-<span class="topo-line"><span class="topo-inside">GNMSGGQLLAF</span><span class="topo-membrane">NALLAYFLTPVKNLIDLQPLI</span><span class="topo-outside">QTAVVASNRLGEILELATEKEL</span><span class="topo-unknown">REDSDD</span></span>
-<span class="topo-line"><span class="topo-unknown">FVISLK</span><span class="topo-outside">GDIEFRNVDFRYGLRKPVLKNINLTIPKGKTVAIVGESGSGKTTLAKLLMNFYS</span></span>
-<span class="topo-line"><span class="topo-outside">PEKGDILINGHSIKNISLELIRKKIAFVSQDVFIFSGTVKENLCLGNENVDMDEIIKAAK</span></span>
-<span class="topo-line"><span class="topo-outside">MANAHDFIEKLPLKYDTFLNESGANLSEGQKQRLAIARALLKKPDILILDEATSNLDSIT</span></span>
-<span class="topo-line"><span class="topo-outside">ENHIKDAIYGLEDDVTVIIIAHRLSTIVNCDKIYLLKDGEIVESGSHTELIALKGCYFKM</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">SNAMLRRLFKKKYV</span><span class="topo-outside">CVRQYDLTDCGAACLSSIAQYYGLKMSLAKIREMTGTDTQGTNAYGLIHAAKQLGFSAKGVKASKEDLLKDFRLPAIANVIVDNRLAHFVVIYSIKNRIITVADPG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">KGIVRYSMDDFCSIWTGGLVLLEPGEAFQKGDYTQN</span><span class="topo-unknown">MMVKFAGFLK</span><span class="topo-outside">PL</span><span class="topo-membrane">KKTVLCIFLASLLYTALGIAGSF</span><span class="topo-inside">YIKFLFDDLIKFEKLNDLHIISA</span><span class="topo-membrane">GFAVIFLLQIFLNYYRSILVTKLG</span><span class="topo-outside">MS</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">IDKSIMMEYYSHVLKLPMNFFNSRKVGEIISRFMDASKIRQA</span><span class="topo-membrane">ISGATLTIMIDTIMAVIGGILLY</span><span class="topo-inside">IQNSSL</span><span class="topo-membrane">FFISFIIILLYGIIVTVFNKPI</span><span class="topo-outside">QNANRQIMEDNAKLTSALVESVKGIET</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">IKSFGAEEQTEKSTRDKIETVMKSSFKE</span><span class="topo-membrane">GMLYINLSSLTGIVAGLGGIVI</span><span class="topo-inside">LWAGAYNVIKGNMSGGQLLAF</span><span class="topo-membrane">NALLAYFLTPVKNLIDLQPLI</span><span class="topo-outside">QTAVVASNRLGEILELATEKEL</span><span class="topo-unknown">REDSDD</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-unknown">FVISLK</span><span class="topo-outside">GDIEFRNVDFRYGLRKPVLKNINLTIPKGKTVAIVGESGSGKTTLAKLLMNFYSPEKGDILINGHSIKNISLELIRKKIAFVSQDVFIFSGTVKENLCLGNENVDMDEIIKAAK</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-outside">MANAHDFIEKLPLKYDTFLNESGANLSEGQKQRLAIARALLKKPDILILDEATSNLDSITENHIKDAIYGLEDDVTVIIIAHRLSTIVNCDKIYLLKDGEIVESGSHTELIALKGCYFKM</span></span>
+<span class="topo-ruler">       730</span>
 <span class="topo-line"><span class="topo-outside">WKQTENT</span><span class="topo-unknown">LAS</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -962,6 +976,7 @@ PCAT1 is a peptidase-containing ATP-binding cassette (ABC) transporter from Clos
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -977,19 +992,21 @@ PCAT1 is a peptidase-containing ATP-binding cassette (ABC) transporter from Clos
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">SNAMLRRLFKKKYV</span><span class="topo-outside">CVRQYDLTDCGAACLSSIAQYYGLKMSLAKIREMTGTDTQGTNAYG</span></span>
-<span class="topo-line"><span class="topo-outside">LIHAAKQLGFSAKGVKASKEDLLKDFRLPAIANVIVDNRLAHFVVIYSIKNRIITVADPG</span></span>
-<span class="topo-line"><span class="topo-outside">KGIVRYSMDDFCSIWTGGLVLLEPGEAFQKGDYTQN</span><span class="topo-unknown">MMVKFAG</span><span class="topo-outside">FL</span><span class="topo-membrane">KPLKKTVLCIFLASL</span></span>
-<span class="topo-line"><span class="topo-membrane">LYTALGIAGS</span><span class="topo-inside">FYIKFLFDDLIKFEKLNDLHIISA</span><span class="topo-membrane">GFAVIFLLQIFLNYYRSILVTKLG</span><span class="topo-outside">MS</span></span>
-<span class="topo-line"><span class="topo-outside">IDKSIMMEYYSHVLKLPMNFFNSRKVGEIISRFMDASKIRQA</span><span class="topo-membrane">ISGATLTIMIDTIMAVIG</span></span>
-<span class="topo-line"><span class="topo-membrane">GILLY</span><span class="topo-inside">IQNSSL</span><span class="topo-membrane">FFISFIIILLYGIIVTVFNKPI</span><span class="topo-outside">QNANRQIMEDNAKLTSALVESVKGIET</span></span>
-<span class="topo-line"><span class="topo-outside">IKSFGAEEQTEKSTRDKIETVMKSSFKE</span><span class="topo-membrane">GMLYINLSSLTGIVAGLGGIVI</span><span class="topo-inside">LWAGAYNVIK</span></span>
-<span class="topo-line"><span class="topo-inside">GNMSGGQLLAF</span><span class="topo-membrane">NALLAYFLTPVKNLIDLQPLIQ</span><span class="topo-outside">TAVVASNRLGEILELATEKEL</span><span class="topo-unknown">REDSDD</span></span>
-<span class="topo-line"><span class="topo-unknown">FVISLK</span><span class="topo-outside">GDIEFRNVDFRYGLRKPVLKNINLTIPKGKTVAIVGESGSGKTTLAKLLMNFYS</span></span>
-<span class="topo-line"><span class="topo-outside">PEKGDILINGHSIKNISLELIRKKIAFVSQDVFIFSGTVKENLCLGNENVDMDEIIKAAK</span></span>
-<span class="topo-line"><span class="topo-outside">MANAHDFIEKLPLKYDTFLNESGANLSEGQKQRLAIARALLKKPDILILDEATSNLDSIT</span></span>
-<span class="topo-line"><span class="topo-outside">ENHIKDAIYGLEDDVTVIIIAHRLSTIVNCDKIYLLKDGEIVESGSHTELIALKGCYFKM</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">SNAMLRRLFKKKYV</span><span class="topo-outside">CVRQYDLTDCGAACLSSIAQYYGLKMSLAKIREMTGTDTQGTNAYGLIHAAKQLGFSAKGVKASKEDLLKDFRLPAIANVIVDNRLAHFVVIYSIKNRIITVADPG</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">KGIVRYSMDDFCSIWTGGLVLLEPGEAFQKGDYTQN</span><span class="topo-unknown">MMVKFAG</span><span class="topo-outside">FL</span><span class="topo-membrane">KPLKKTVLCIFLASLLYTALGIAGS</span><span class="topo-inside">FYIKFLFDDLIKFEKLNDLHIISA</span><span class="topo-membrane">GFAVIFLLQIFLNYYRSILVTKLG</span><span class="topo-outside">MS</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">IDKSIMMEYYSHVLKLPMNFFNSRKVGEIISRFMDASKIRQA</span><span class="topo-membrane">ISGATLTIMIDTIMAVIGGILLY</span><span class="topo-inside">IQNSSL</span><span class="topo-membrane">FFISFIIILLYGIIVTVFNKPI</span><span class="topo-outside">QNANRQIMEDNAKLTSALVESVKGIET</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-outside">IKSFGAEEQTEKSTRDKIETVMKSSFKE</span><span class="topo-membrane">GMLYINLSSLTGIVAGLGGIVI</span><span class="topo-inside">LWAGAYNVIKGNMSGGQLLAF</span><span class="topo-membrane">NALLAYFLTPVKNLIDLQPLIQ</span><span class="topo-outside">TAVVASNRLGEILELATEKEL</span><span class="topo-unknown">REDSDD</span></span>
+<span class="topo-ruler">       490       500       510       520       530       540       550       560       570       580       590       600</span>
+<span class="topo-line"><span class="topo-unknown">FVISLK</span><span class="topo-outside">GDIEFRNVDFRYGLRKPVLKNINLTIPKGKTVAIVGESGSGKTTLAKLLMNFYSPEKGDILINGHSIKNISLELIRKKIAFVSQDVFIFSGTVKENLCLGNENVDMDEIIKAAK</span></span>
+<span class="topo-ruler">       610       620       630       640       650       660       670       680       690       700       710       720</span>
+<span class="topo-line"><span class="topo-outside">MANAHDFIEKLPLKYDTFLNESGANLSEGQKQRLAIARALLKKPDILILDEATSNLDSITENHIKDAIYGLEDDVTVIIIAHRLSTIVNCDKIYLLKDGEIVESGSHTELIALKGCYFKM</span></span>
+<span class="topo-ruler">       730</span>
 <span class="topo-line"><span class="topo-outside">WKQTE</span><span class="topo-unknown">NTLAS</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1113,6 +1130,7 @@ PCAT1 is a peptidase-containing ATP-binding cassette (ABC) transporter from Clos
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

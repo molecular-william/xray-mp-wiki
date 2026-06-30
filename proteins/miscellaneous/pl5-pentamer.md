@@ -107,7 +107,9 @@ PL5 is a designed homopentameric transmembrane helical bundle based on the apola
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30   </span>
 <span class="topo-line"><span class="topo-unknown">DP</span><span class="topo-outside">EQLKW</span><span class="topo-membrane">ISFCLFLICLLLLCIIFMLY</span><span class="topo-inside">RG</span><span class="topo-unknown">?GS?</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -140,6 +142,7 @@ PL5 is a designed homopentameric transmembrane helical bundle based on the apola
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -155,7 +158,9 @@ PL5 is a designed homopentameric transmembrane helical bundle based on the apola
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30   </span>
 <span class="topo-line"><span class="topo-unknown">DP</span><span class="topo-outside">EQLKW</span><span class="topo-membrane">ISFCLFLICLLLLCIIFMLY</span><span class="topo-inside">RG</span><span class="topo-unknown">?GS?</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -188,6 +193,7 @@ PL5 is a designed homopentameric transmembrane helical bundle based on the apola
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -203,7 +209,9 @@ PL5 is a designed homopentameric transmembrane helical bundle based on the apola
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30   </span>
 <span class="topo-line"><span class="topo-unknown">D</span><span class="topo-outside">PEQLKW</span><span class="topo-membrane">ISFCLFLICLLLLCIIFMLY</span><span class="topo-inside">RG</span><span class="topo-unknown">?GS?</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -236,6 +244,7 @@ PL5 is a designed homopentameric transmembrane helical bundle based on the apola
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -251,7 +260,9 @@ PL5 is a designed homopentameric transmembrane helical bundle based on the apola
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30   </span>
 <span class="topo-line"><span class="topo-unknown">DP</span><span class="topo-outside">EQLKW</span><span class="topo-membrane">ISFCLFLICLLLLCIIFMLY</span><span class="topo-inside">RG</span><span class="topo-unknown">?GS?</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -284,6 +295,7 @@ PL5 is a designed homopentameric transmembrane helical bundle based on the apola
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -299,7 +311,9 @@ PL5 is a designed homopentameric transmembrane helical bundle based on the apola
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
+<span class="topo-ruler">        10        20        30   </span>
 <span class="topo-line"><span class="topo-unknown">DPE</span><span class="topo-outside">QLKW</span><span class="topo-membrane">ISFCLFLICLLLLCIIFMLY</span><span class="topo-inside">RG</span><span class="topo-unknown">?GS?</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -332,6 +346,7 @@ PL5 is a designed homopentameric transmembrane helical bundle based on the apola
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

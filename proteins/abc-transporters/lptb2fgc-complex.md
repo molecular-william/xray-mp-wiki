@@ -185,11 +185,13 @@ The LptB2FGC complex is the inner membrane component of the lipopolysaccharide (
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">ATLTAKNLAKAYKGRRVVEDVSLTVNSGEIVGLLGPNGAGKTTTFYMVVGIVPRDAGNI</span></span>
-<span class="topo-line"><span class="topo-outside">IIDDEDISLLPLHARARRGIGYLPQEASIFRRLSVFDNLMAVLQIRDDLTSEQRQDRANE</span></span>
-<span class="topo-line"><span class="topo-outside">LMEEFHIEHLRDSLGQALSGGERRRVEIARALAANPKFILLDEPFAGVDPISVIDIKRII</span></span>
-<span class="topo-line"><span class="topo-outside">EHLRDSGLGVLITDHNVRETLAVCERAYIVSQGNLIAHGTPQQILEDDHVKRVYLGEDFR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">ATLTAKNLAKAYKGRRVVEDVSLTVNSGEIVGLLGPNGAGKTTTFYMVVGIVPRDAGNIIIDDEDISLLPLHARARRGIGYLPQEASIFRRLSVFDNLMAVLQIRDDLTSEQRQDRANE</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">LMEEFHIEHLRDSLGQALSGGERRRVEIARALAANPKFILLDEPFAGVDPISVIDIKRIIEHLRDSGLGVLITDHNVRETLAVCERAYIVSQGNLIAHGTPQQILEDDHVKRVYLGEDFR</span></span>
+<span class="topo-ruler"> </span>
 <span class="topo-line"><span class="topo-outside">L</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -208,6 +210,7 @@ The LptB2FGC complex is the inner membrane component of the lipopolysaccharide (
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -223,11 +226,13 @@ The LptB2FGC complex is the inner membrane component of the lipopolysaccharide (
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">ATLTAKNLAKAYKGRRVVEDVSLTVNSGEIVGLLGPNGAGKTTTFYMVVGIVPRDAGNI</span></span>
-<span class="topo-line"><span class="topo-outside">IIDDEDISLLPLHARARRGIGYLPQEASIFRRLSVFDNLMAVLQIRDDLTSEQRQDRANE</span></span>
-<span class="topo-line"><span class="topo-outside">LMEEFHIEHLRDSLGQALSGGERRRVEIARALAANPKFILLDEPFAGVDPISVIDIKRII</span></span>
-<span class="topo-line"><span class="topo-outside">EHLRDSGLGVLITDHNVRETLAVCERAYIVSQGNLIAHGTPQQILEDDHVKRVYLGEDFR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">ATLTAKNLAKAYKGRRVVEDVSLTVNSGEIVGLLGPNGAGKTTTFYMVVGIVPRDAGNIIIDDEDISLLPLHARARRGIGYLPQEASIFRRLSVFDNLMAVLQIRDDLTSEQRQDRANE</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">LMEEFHIEHLRDSLGQALSGGERRRVEIARALAANPKFILLDEPFAGVDPISVIDIKRIIEHLRDSGLGVLITDHNVRETLAVCERAYIVSQGNLIAHGTPQQILEDDHVKRVYLGEDFR</span></span>
+<span class="topo-ruler"> </span>
 <span class="topo-line"><span class="topo-outside">L</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -246,6 +251,7 @@ The LptB2FGC complex is the inner membrane component of the lipopolysaccharide (
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -261,10 +267,11 @@ The LptB2FGC complex is the inner membrane component of the lipopolysaccharide (
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MSKT</span><span class="topo-membrane">RRWVIILLSLVALILIGVNL</span><span class="topo-unknown">ADRDDTQTEVINNN</span><span class="topo-inside">DPTYKSDHSDTVVYSPEGALNY</span></span>
-<span class="topo-line"><span class="topo-inside">RLIAQHVEYFSDDGISWFTQPVMTTFDKDKVPTWSIKSDRAKLTNDRMLYLYGHVEVNAL</span></span>
-<span class="topo-line"><span class="topo-inside">TADSQLRKITTDNAQINLVTQDVTSQDLVTLYGTTFNSSGLRMRGNLRSKNAELIEKVRT</span></span>
-<span class="topo-line"><span class="topo-inside">SYEIQNKQT</span><span class="topo-unknown">QPLVPR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MSKT</span><span class="topo-membrane">RRWVIILLSLVALILIGVNL</span><span class="topo-unknown">ADRDDTQTEVINNN</span><span class="topo-inside">DPTYKSDHSDTVVYSPEGALNYRLIAQHVEYFSDDGISWFTQPVMTTFDKDKVPTWSIKSDRAKLTNDRMLYLYGHVEVNAL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190     </span>
+<span class="topo-line"><span class="topo-inside">TADSQLRKITTDNAQINLVTQDVTSQDLVTLYGTTFNSSGLRMRGNLRSKNAELIEKVRTSYEIQNKQT</span><span class="topo-unknown">QPLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -297,6 +304,7 @@ The LptB2FGC complex is the inner membrane component of the lipopolysaccharide (
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -312,13 +320,15 @@ The LptB2FGC complex is the inner membrane component of the lipopolysaccharide (
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-outside">MIIIRYLV</span><span class="topo-membrane">RETLKSQLAILFILLLIFFCQKLVKIL</span><span class="topo-inside">GAAVDGEIPTNLV</span><span class="topo-membrane">LSLLGLGIPEMA</span></span>
-<span class="topo-line"><span class="topo-membrane">QLILPLSLFLGLLMT</span><span class="topo-outside">LGKLYTESEITVMHACGLSKAVLV</span><span class="topo-membrane">KAAMILALFTGIVAAVNVMWA</span></span>
-<span class="topo-line"><span class="topo-membrane">GPMS</span><span class="topo-inside">SRHQDEVLAEAKANPGMAALAQGQFQQATDGNSVLFIESVDGSKFNDVFLAQLRTK</span></span>
-<span class="topo-line"><span class="topo-inside">GNARPSVVVADSGQLAQRKDGSQVVTLNKGTRFEGTAMLRDFRITDFQNYQAIIG</span><span class="topo-unknown">HQAVA</span></span>
-<span class="topo-line"><span class="topo-unknown">L</span><span class="topo-inside">DPTDTEQMD</span><span class="topo-unknown">MRTLWNT</span><span class="topo-inside">DTDRARA</span><span class="topo-membrane">EFHWRITLVFTVFMMALIVVPLS</span><span class="topo-outside">VVNPRQGR</span><span class="topo-membrane">VLSML</span></span>
-<span class="topo-line"><span class="topo-membrane">PAMLLYLIYFLLQTSIRS</span><span class="topo-inside">NGAKGKLD</span><span class="topo-membrane">PMVWTWFVNSLYILLALGLNL</span><span class="topo-outside">WDTVPVRRI</span><span class="topo-unknown">RARF</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-outside">MIIIRYLV</span><span class="topo-membrane">RETLKSQLAILFILLLIFFCQKLVKIL</span><span class="topo-inside">GAAVDGEIPTNLV</span><span class="topo-membrane">LSLLGLGIPEMAQLILPLSLFLGLLMT</span><span class="topo-outside">LGKLYTESEITVMHACGLSKAVLV</span><span class="topo-membrane">KAAMILALFTGIVAAVNVMWA</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GPMS</span><span class="topo-inside">SRHQDEVLAEAKANPGMAALAQGQFQQATDGNSVLFIESVDGSKFNDVFLAQLRTKGNARPSVVVADSGQLAQRKDGSQVVTLNKGTRFEGTAMLRDFRITDFQNYQAIIG</span><span class="topo-unknown">HQAVA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-unknown">L</span><span class="topo-inside">DPTDTEQMD</span><span class="topo-unknown">MRTLWNT</span><span class="topo-inside">DTDRARA</span><span class="topo-membrane">EFHWRITLVFTVFMMALIVVPLS</span><span class="topo-outside">VVNPRQGR</span><span class="topo-membrane">VLSMLPAMLLYLIYFLLQTSIRS</span><span class="topo-inside">NGAKGKLD</span><span class="topo-membrane">PMVWTWFVNSLYILLALGLNL</span><span class="topo-outside">WDTVPVRRI</span><span class="topo-unknown">RARF</span></span>
+<span class="topo-ruler">      </span>
 <span class="topo-line"><span class="topo-unknown">SRKGAI</span></span>
+<details class="topo-details"><summary>Topology coordinates (16 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -442,6 +452,7 @@ The LptB2FGC complex is the inner membrane component of the lipopolysaccharide (
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -457,12 +468,13 @@ The LptB2FGC complex is the inner membrane component of the lipopolysaccharide (
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MQAF</span><span class="topo-outside">GV</span><span class="topo-unknown">LDRYIG</span><span class="topo-membrane">KTIFTTIMMTLFMLVSLSGIIKFVDQLK</span><span class="topo-inside">KAGQGSYD</span><span class="topo-membrane">ALGAGMYTLLSV</span></span>
-<span class="topo-line"><span class="topo-membrane">PKDVQIFFPMAALLGALLGL</span><span class="topo-outside">GMLAQRSELVVMQASGFTRLQVA</span><span class="topo-membrane">LSVMKTAIPLVLLTMAI</span></span>
-<span class="topo-line"><span class="topo-membrane">GEWVAPQGE</span><span class="topo-inside">QMARNYRAQAMYGGSLLSTQQGLWAKDGQNFVYIERVKGDDELGGVSIYAF</span></span>
-<span class="topo-line"><span class="topo-inside">NDERRLQSVRHASSAKFDPEHKQWRLSQVDESDLTNPKQITGSQTVSGTWKTNLTPDKLG</span></span>
-<span class="topo-line"><span class="topo-inside">VVALDPDALSISGLHNYVKYLKSSGQDAGRYQL</span><span class="topo-membrane">NMWSKIFQPMSVAVMMLMALSFI</span><span class="topo-outside">FGPL</span></span>
-<span class="topo-line"><span class="topo-outside">RSVPM</span><span class="topo-membrane">GVRVVTGISFGFVFYVLDQIFG</span><span class="topo-inside">PLTLVYGIPPI</span><span class="topo-membrane">IGALLPSASFLLISLWLLLKR</span><span class="topo-unknown">S</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MQAF</span><span class="topo-outside">GV</span><span class="topo-unknown">LDRYIG</span><span class="topo-membrane">KTIFTTIMMTLFMLVSLSGIIKFVDQLK</span><span class="topo-inside">KAGQGSYD</span><span class="topo-membrane">ALGAGMYTLLSVPKDVQIFFPMAALLGALLGL</span><span class="topo-outside">GMLAQRSELVVMQASGFTRLQVA</span><span class="topo-membrane">LSVMKTAIPLVLLTMAI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">GEWVAPQGE</span><span class="topo-inside">QMARNYRAQAMYGGSLLSTQQGLWAKDGQNFVYIERVKGDDELGGVSIYAFNDERRLQSVRHASSAKFDPEHKQWRLSQVDESDLTNPKQITGSQTVSGTWKTNLTPDKLG</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">VVALDPDALSISGLHNYVKYLKSSGQDAGRYQL</span><span class="topo-membrane">NMWSKIFQPMSVAVMMLMALSFI</span><span class="topo-outside">FGPLRSVPM</span><span class="topo-membrane">GVRVVTGISFGFVFYVLDQIFG</span><span class="topo-inside">PLTLVYGIPPI</span><span class="topo-membrane">IGALLPSASFLLISLWLLLKR</span><span class="topo-unknown">S</span></span>
+<details class="topo-details"><summary>Topology coordinates (13 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -565,6 +577,7 @@ The LptB2FGC complex is the inner membrane component of the lipopolysaccharide (
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -580,11 +593,13 @@ The LptB2FGC complex is the inner membrane component of the lipopolysaccharide (
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">AILKAQHLAKSYKKRKVVSDVSLQVESGQIVGLLGPNGAGKTTSFYMIVGLVARDEGTI</span></span>
-<span class="topo-line"><span class="topo-inside">TIDDNDISILPMHSRSRMGIGYLPQEASIFRKLSVEDNIMAVLQTREELTHEERQDKLED</span></span>
-<span class="topo-line"><span class="topo-inside">LLEEFHIQHIRKSAGMALSGGERRRVEIARALAANPQFILLDQPFAGVDPISVIDIKKII</span></span>
-<span class="topo-line"><span class="topo-inside">EHLRDRGLGVLITDHNVRETLDVCEKAYIVSQGRLIAEGTPQDVLNNEQVKQVYLGEQFR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">AILKAQHLAKSYKKRKVVSDVSLQVESGQIVGLLGPNGAGKTTSFYMIVGLVARDEGTITIDDNDISILPMHSRSRMGIGYLPQEASIFRKLSVEDNIMAVLQTREELTHEERQDKLED</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">LLEEFHIQHIRKSAGMALSGGERRRVEIARALAANPQFILLDQPFAGVDPISVIDIKKIIEHLRDRGLGVLITDHNVRETLDVCEKAYIVSQGRLIAEGTPQDVLNNEQVKQVYLGEQFR</span></span>
+<span class="topo-ruler"> </span>
 <span class="topo-line"><span class="topo-inside">L</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -603,6 +618,7 @@ The LptB2FGC complex is the inner membrane component of the lipopolysaccharide (
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -618,11 +634,13 @@ The LptB2FGC complex is the inner membrane component of the lipopolysaccharide (
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">AILKAQHLAKSYKKRKVVSDVSLQVESGQIVGLLGPNGAGKTTSFYMIVGLVARDEGTI</span></span>
-<span class="topo-line"><span class="topo-inside">TIDDNDISILPMHSRSRMGIGYLPQEASIFRKLSVEDNIMAVLQTREELTHEERQDKLED</span></span>
-<span class="topo-line"><span class="topo-inside">LLEEFHIQHIRKSAGMALSGGERRRVEIARALAANPQFILLDQPFAGVDPISVIDIKKII</span></span>
-<span class="topo-line"><span class="topo-inside">EHLRDRGLGVLITDHNVRETLDVCEKAYIVSQGRLIAEGTPQDVLNNEQVKQVYLGEQFR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">AILKAQHLAKSYKKRKVVSDVSLQVESGQIVGLLGPNGAGKTTSFYMIVGLVARDEGTITIDDNDISILPMHSRSRMGIGYLPQEASIFRKLSVEDNIMAVLQTREELTHEERQDKLED</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">LLEEFHIQHIRKSAGMALSGGERRRVEIARALAANPQFILLDQPFAGVDPISVIDIKKIIEHLRDRGLGVLITDHNVRETLDVCEKAYIVSQGRLIAEGTPQDVLNNEQVKQVYLGEQFR</span></span>
+<span class="topo-ruler"> </span>
 <span class="topo-line"><span class="topo-inside">L</span></span>
+<details class="topo-details"><summary>Topology coordinates (1 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -641,6 +659,7 @@ The LptB2FGC complex is the inner membrane component of the lipopolysaccharide (
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -656,10 +675,11 @@ The LptB2FGC complex is the inner membrane component of the lipopolysaccharide (
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">S</span><span class="topo-membrane">LSRIVYVLLLFIASWSLY</span><span class="topo-outside">YLLGQEQDSKIQVAPNLELPMFSGENLENISYDEQGIRNY</span></span>
-<span class="topo-line"><span class="topo-outside">VITSIHLDHYAKSGNTLFKAPILKVYREGTLQEWEITARRGILSKDQVLTLYDDVLAKNL</span></span>
-<span class="topo-line"><span class="topo-outside">LPDSGFDTLTTSEMSIQLKSRDFWADKPVELRGPQFETHGQAMKGNFADHSAELY</span><span class="topo-unknown">NQVQG</span></span>
-<span class="topo-line"><span class="topo-unknown">RYETLTPLVPR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">S</span><span class="topo-membrane">LSRIVYVLLLFIASWSLY</span><span class="topo-outside">YLLGQEQDSKIQVAPNLELPMFSGENLENISYDEQGIRNYVITSIHLDHYAKSGNTLFKAPILKVYREGTLQEWEITARRGILSKDQVLTLYDDVLAKNL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190 </span>
+<span class="topo-line"><span class="topo-outside">LPDSGFDTLTTSEMSIQLKSRDFWADKPVELRGPQFETHGQAMKGNFADHSAELY</span><span class="topo-unknown">NQVQGRYETLTPLVPR</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -692,6 +712,7 @@ The LptB2FGC complex is the inner membrane component of the lipopolysaccharide (
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -707,13 +728,15 @@ The LptB2FGC complex is the inner membrane component of the lipopolysaccharide (
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MIIVRYLIRET</span><span class="topo-membrane">IKSQFAIFFVLFLVFLSQKFI</span><span class="topo-outside">RVLAD</span><span class="topo-unknown">ASDGEIPTS</span><span class="topo-outside">M</span><span class="topo-unknown">ILSIVGLN</span><span class="topo-membrane">MPAMG</span></span>
-<span class="topo-line"><span class="topo-membrane">LLMLPLSLYIGILLT</span><span class="topo-inside">FGRLYAESEITVMNATGIGNKFLI</span><span class="topo-membrane">RAALYLALITASVAAFNALWL</span></span>
-<span class="topo-line"><span class="topo-membrane">A</span><span class="topo-outside">PWSQDKEAHLMEQFA</span><span class="topo-unknown">AENSV</span><span class="topo-outside">DLLQKGHFQRSPDGSSVVFIDNIENRKLYNVFVAQLAPR</span></span>
-<span class="topo-line"><span class="topo-outside">DSILPSVMFSHSGDVKE</span><span class="topo-unknown">LS</span><span class="topo-outside">DGRQIITLYDGTRYEGVPTRVDYMITNFDSYDGLIGQ</span><span class="topo-unknown">REVK</span></span>
-<span class="topo-line"><span class="topo-unknown">SA</span><span class="topo-outside">ERDWEALPTLSLLNNADRRAQAELQ</span><span class="topo-membrane">WRISLVVCIPLLTMLVVPLS</span><span class="topo-inside">AVNPRQGRF</span><span class="topo-membrane">AKMG</span></span>
-<span class="topo-line"><span class="topo-membrane">PAILIYLTYFLALSAT</span><span class="topo-outside">KSAIEDGSLPVII</span><span class="topo-membrane">GLWPINAALLLAALMVNTL</span><span class="topo-inside">DS</span><span class="topo-unknown">IPVRRFKDRW</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">MIIVRYLIRET</span><span class="topo-membrane">IKSQFAIFFVLFLVFLSQKFI</span><span class="topo-outside">RVLAD</span><span class="topo-unknown">ASDGEIPTS</span><span class="topo-outside">M</span><span class="topo-unknown">ILSIVGLN</span><span class="topo-membrane">MPAMGLLMLPLSLYIGILLT</span><span class="topo-inside">FGRLYAESEITVMNATGIGNKFLI</span><span class="topo-membrane">RAALYLALITASVAAFNALWL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">A</span><span class="topo-outside">PWSQDKEAHLMEQFA</span><span class="topo-unknown">AENSV</span><span class="topo-outside">DLLQKGHFQRSPDGSSVVFIDNIENRKLYNVFVAQLAPRDSILPSVMFSHSGDVKE</span><span class="topo-unknown">LS</span><span class="topo-outside">DGRQIITLYDGTRYEGVPTRVDYMITNFDSYDGLIGQ</span><span class="topo-unknown">REVK</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-unknown">SA</span><span class="topo-outside">ERDWEALPTLSLLNNADRRAQAELQ</span><span class="topo-membrane">WRISLVVCIPLLTMLVVPLS</span><span class="topo-inside">AVNPRQGRF</span><span class="topo-membrane">AKMGPAILIYLTYFLALSAT</span><span class="topo-outside">KSAIEDGSLPVII</span><span class="topo-membrane">GLWPINAALLLAALMVNTL</span><span class="topo-inside">DS</span><span class="topo-unknown">IPVRRFKDRW</span></span>
+<span class="topo-ruler">      </span>
 <span class="topo-line"><span class="topo-unknown">KQ</span><span class="topo-inside">R</span><span class="topo-unknown">KVA</span></span>
+<details class="topo-details"><summary>Topology coordinates (20 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -865,6 +888,7 @@ The LptB2FGC complex is the inner membrane component of the lipopolysaccharide (
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -880,12 +904,13 @@ The LptB2FGC complex is the inner membrane component of the lipopolysaccharide (
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-inside">MFKILDWYIGRTI</span><span class="topo-membrane">VATTALVLVTFVGLSGIIKYVEQL</span><span class="topo-outside">RKVGEGSYDL</span><span class="topo-membrane">LQALLFVVLSIPR</span></span>
-<span class="topo-line"><span class="topo-membrane">DVEMFFPMAALLGALI</span><span class="topo-inside">GLGALASSSELVVMQAAGFSKLDIGLSV</span><span class="topo-membrane">LKTAIPLMIIVTLLGE</span></span>
-<span class="topo-line"><span class="topo-membrane">WGAPQAQ</span><span class="topo-outside">KMARDMRAFATSGGAI</span><span class="topo-unknown">MS</span><span class="topo-outside">VRTGVWARDANDFIFIAKVENEHLYGLNLWRFDEN</span></span>
-<span class="topo-line"><span class="topo-outside">KKLSTVIFSEQVDYVANNEWLMKDAVLTRLVNDIEISKESLPEYRWRTSLAPDKLAVVTV</span></span>
-<span class="topo-line"><span class="topo-outside">KPEELSLTGLSDYVHYLKASEQDSSRYELA</span><span class="topo-membrane">LWRKVTQPISIAVMMLMALSF</span><span class="topo-inside">IFGPLRSVT</span></span>
-<span class="topo-line"><span class="topo-inside">MG</span><span class="topo-membrane">ARILSGVIAGFSFYISSEFFG</span><span class="topo-outside">PLSLVYGLPPL</span><span class="topo-membrane">FGALAPSLVFLAIALGLLG</span><span class="topo-inside">RKL</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">MFKILDWYIGRTI</span><span class="topo-membrane">VATTALVLVTFVGLSGIIKYVEQL</span><span class="topo-outside">RKVGEGSYDL</span><span class="topo-membrane">LQALLFVVLSIPRDVEMFFPMAALLGALI</span><span class="topo-inside">GLGALASSSELVVMQAAGFSKLDIGLSV</span><span class="topo-membrane">LKTAIPLMIIVTLLGE</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">WGAPQAQ</span><span class="topo-outside">KMARDMRAFATSGGAI</span><span class="topo-unknown">MS</span><span class="topo-outside">VRTGVWARDANDFIFIAKVENEHLYGLNLWRFDENKKLSTVIFSEQVDYVANNEWLMKDAVLTRLVNDIEISKESLPEYRWRTSLAPDKLAVVTV</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350      </span>
+<span class="topo-line"><span class="topo-outside">KPEELSLTGLSDYVHYLKASEQDSSRYELA</span><span class="topo-membrane">LWRKVTQPISIAVMMLMALSF</span><span class="topo-inside">IFGPLRSVTMG</span><span class="topo-membrane">ARILSGVIAGFSFYISSEFFG</span><span class="topo-outside">PLSLVYGLPPL</span><span class="topo-membrane">FGALAPSLVFLAIALGLLG</span><span class="topo-inside">RKL</span></span>
+<details class="topo-details"><summary>Topology coordinates (14 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -995,6 +1020,7 @@ The LptB2FGC complex is the inner membrane component of the lipopolysaccharide (
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

@@ -146,14 +146,15 @@ VcmN is a multidrug and toxic compound extrusion (MATE) transporter from the pat
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAM</span><span class="topo-inside">QTSTSSLAKQL</span><span class="topo-membrane">FQMTWPMLFGVLSLMSFQLVDS</span><span class="topo-outside">AFIGQLGVLPLAAQGFT</span><span class="topo-membrane">MPIQMVI</span></span>
-<span class="topo-line"><span class="topo-membrane">IGIQVGLGIATT</span><span class="topo-inside">AVISRAIGAGKTEYAKQLGGLV</span><span class="topo-membrane">IVIGGIGVALIALVLYLLR</span><span class="topo-outside">QPLLGLL</span></span>
-<span class="topo-line"><span class="topo-outside">GAPETVFAIID</span><span class="topo-membrane">HYWLWWLASAWTGAMLYFYYSVCR</span><span class="topo-inside">ANGNT</span><span class="topo-membrane">LLPGTLMMVTSVLNLILDPI</span></span>
-<span class="topo-line"><span class="topo-membrane">FI</span><span class="topo-outside">FTFDLGID</span><span class="topo-membrane">GAAIATIIAFGVGIAIVA</span><span class="topo-inside">PKVAQRQWTSYQWQDLNISQSLTAL</span><span class="topo-membrane">GHIMGPA</span></span>
-<span class="topo-line"><span class="topo-membrane">MLSQLLPPLSSMFA</span><span class="topo-outside">TKLLASFGTAAVAAWAL</span><span class="topo-membrane">GSRFEFFALVAVLAMTMSLP</span><span class="topo-inside">PMIGRMLGA</span></span>
-<span class="topo-line"><span class="topo-inside">KEITHIRQLVR</span><span class="topo-membrane">IACQFVLGFQLLIALVTYVFA</span><span class="topo-unknown">TPLAELM</span><span class="topo-outside">TSETEVSQILNLH</span><span class="topo-membrane">LVIVPISL</span></span>
-<span class="topo-line"><span class="topo-membrane">GALGICMLMVSVANA</span><span class="topo-inside">LGK</span><span class="topo-membrane">SYVALTISALRLFAFYLPCLWLG</span><span class="topo-outside">AHFYGIEGL</span><span class="topo-membrane">FIGALVGNII</span></span>
-<span class="topo-line"><span class="topo-membrane">AGWAAWLAYQK</span><span class="topo-inside">ALRSENLYFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAM</span><span class="topo-inside">QTSTSSLAKQL</span><span class="topo-membrane">FQMTWPMLFGVLSLMSFQLVDS</span><span class="topo-outside">AFIGQLGVLPLAAQGFT</span><span class="topo-membrane">MPIQMVIIGIQVGLGIATT</span><span class="topo-inside">AVISRAIGAGKTEYAKQLGGLV</span><span class="topo-membrane">IVIGGIGVALIALVLYLLR</span><span class="topo-outside">QPLLGLL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">GAPETVFAIID</span><span class="topo-membrane">HYWLWWLASAWTGAMLYFYYSVCR</span><span class="topo-inside">ANGNT</span><span class="topo-membrane">LLPGTLMMVTSVLNLILDPIFI</span><span class="topo-outside">FTFDLGID</span><span class="topo-membrane">GAAIATIIAFGVGIAIVA</span><span class="topo-inside">PKVAQRQWTSYQWQDLNISQSLTAL</span><span class="topo-membrane">GHIMGPA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">MLSQLLPPLSSMFA</span><span class="topo-outside">TKLLASFGTAAVAAWAL</span><span class="topo-membrane">GSRFEFFALVAVLAMTMSLP</span><span class="topo-inside">PMIGRMLGAKEITHIRQLVR</span><span class="topo-membrane">IACQFVLGFQLLIALVTYVFA</span><span class="topo-unknown">TPLAELM</span><span class="topo-outside">TSETEVSQILNLH</span><span class="topo-membrane">LVIVPISL</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440 </span>
+<span class="topo-line"><span class="topo-membrane">GALGICMLMVSVANA</span><span class="topo-inside">LGK</span><span class="topo-membrane">SYVALTISALRLFAFYLPCLWLG</span><span class="topo-outside">AHFYGIEGL</span><span class="topo-membrane">FIGALVGNIIAGWAAWLAYQK</span><span class="topo-inside">ALRSENLYFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (26 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -347,6 +348,7 @@ VcmN is a multidrug and toxic compound extrusion (MATE) transporter from the pat
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -362,14 +364,15 @@ VcmN is a multidrug and toxic compound extrusion (MATE) transporter from the pat
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAM</span><span class="topo-outside">QTSTSSLAKQLFQMT</span><span class="topo-membrane">WPMLFGVLSLMSFQLVDS</span><span class="topo-inside">AFIGQLGVLPLAAQGFT</span><span class="topo-membrane">MPIQMVI</span></span>
-<span class="topo-line"><span class="topo-membrane">IGIQVGLGIAT</span><span class="topo-outside">TAVISRAIGAGKTEYAKQLGGLV</span><span class="topo-membrane">IVIGGIGVALIALVLYLL</span><span class="topo-unknown">RQPLLGLL</span></span>
-<span class="topo-line"><span class="topo-inside">GAPETVFAIIDHY</span><span class="topo-membrane">WLWWLASAWTGAMLYFYYS</span><span class="topo-outside">VCRANGNT</span><span class="topo-membrane">LLPGTLMMVTSVLNLILDPI</span></span>
-<span class="topo-line"><span class="topo-membrane">FI</span><span class="topo-inside">FTFDLGID</span><span class="topo-membrane">GAAIATIIAFGVGIAIVA</span><span class="topo-outside">PKVAQRQWTSYQWQDLN</span><span class="topo-unknown">ISQSLTAL</span><span class="topo-membrane">GHIMGPA</span></span>
-<span class="topo-line"><span class="topo-membrane">MLSQLLPPLSSMFA</span><span class="topo-inside">TKLLASFGTAAVAAWAL</span><span class="topo-membrane">GSRFEFFALVAVLAMTMSLP</span><span class="topo-outside">PMIGRMLGA</span></span>
-<span class="topo-line"><span class="topo-outside">KEITHIRQLVRIA</span><span class="topo-membrane">CQFVLGFQLLIALVTYVFA</span><span class="topo-unknown">TPLAELM</span><span class="topo-inside">TSETEVSQILNLH</span><span class="topo-membrane">LVIVPISL</span></span>
-<span class="topo-line"><span class="topo-membrane">GALGICMLMVSVAN</span><span class="topo-outside">ALGK</span><span class="topo-membrane">SYVALTISALRLFAFYLPCLWLG</span><span class="topo-inside">AHFYGIEG</span><span class="topo-membrane">LFIGALVGNII</span></span>
-<span class="topo-line"><span class="topo-membrane">AGWAAWLAY</span><span class="topo-outside">QKALRSENLYFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAM</span><span class="topo-outside">QTSTSSLAKQLFQMT</span><span class="topo-membrane">WPMLFGVLSLMSFQLVDS</span><span class="topo-inside">AFIGQLGVLPLAAQGFT</span><span class="topo-membrane">MPIQMVIIGIQVGLGIAT</span><span class="topo-outside">TAVISRAIGAGKTEYAKQLGGLV</span><span class="topo-membrane">IVIGGIGVALIALVLYLL</span><span class="topo-unknown">RQPLLGLL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">GAPETVFAIIDHY</span><span class="topo-membrane">WLWWLASAWTGAMLYFYYS</span><span class="topo-outside">VCRANGNT</span><span class="topo-membrane">LLPGTLMMVTSVLNLILDPIFI</span><span class="topo-inside">FTFDLGID</span><span class="topo-membrane">GAAIATIIAFGVGIAIVA</span><span class="topo-outside">PKVAQRQWTSYQWQDLN</span><span class="topo-unknown">ISQSLTAL</span><span class="topo-membrane">GHIMGPA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">MLSQLLPPLSSMFA</span><span class="topo-inside">TKLLASFGTAAVAAWAL</span><span class="topo-membrane">GSRFEFFALVAVLAMTMSLP</span><span class="topo-outside">PMIGRMLGAKEITHIRQLVRIA</span><span class="topo-membrane">CQFVLGFQLLIALVTYVFA</span><span class="topo-unknown">TPLAELM</span><span class="topo-inside">TSETEVSQILNLH</span><span class="topo-membrane">LVIVPISL</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440 </span>
+<span class="topo-line"><span class="topo-membrane">GALGICMLMVSVAN</span><span class="topo-outside">ALGK</span><span class="topo-membrane">SYVALTISALRLFAFYLPCLWLG</span><span class="topo-inside">AHFYGIEG</span><span class="topo-membrane">LFIGALVGNIIAGWAAWLAY</span><span class="topo-outside">QKALRSENLYFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (28 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -577,6 +580,7 @@ VcmN is a multidrug and toxic compound extrusion (MATE) transporter from the pat
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -592,14 +596,15 @@ VcmN is a multidrug and toxic compound extrusion (MATE) transporter from the pat
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MAM</span><span class="topo-inside">QTSTSSLAKQL</span><span class="topo-membrane">FQMTWPMLFGVLSLMSFQLVNS</span><span class="topo-outside">AFIGQLGVLPLAAQGF</span><span class="topo-membrane">TMPIQMVI</span></span>
-<span class="topo-line"><span class="topo-membrane">IGIQVGLGIATT</span><span class="topo-inside">AVISRAIGAGKTEYAKQLGGLV</span><span class="topo-membrane">IVIGGIGVALIALVLYLLR</span><span class="topo-unknown">QPLLGLL</span></span>
-<span class="topo-line"><span class="topo-outside">GAPETVFAIID</span><span class="topo-membrane">HYWLWWLASAWTGAMLYFYYSVCR</span><span class="topo-inside">ANGNT</span><span class="topo-membrane">LLPGTLMMVTSVLNLILDPI</span></span>
-<span class="topo-line"><span class="topo-membrane">FI</span><span class="topo-outside">FTFDLGID</span><span class="topo-membrane">GAAIATIIAFGVGIAIVAP</span><span class="topo-inside">KVAQRQWTSYQWQDLN</span><span class="topo-unknown">ISQSLTAL</span><span class="topo-membrane">GHIMGPA</span></span>
-<span class="topo-line"><span class="topo-membrane">MLSQLLPPLSSMFA</span><span class="topo-outside">TKLLASFGTAAVAAW</span><span class="topo-membrane">ALGSRFEFFALVAVLAMTMSLP</span><span class="topo-inside">PMIGRMLGA</span></span>
-<span class="topo-line"><span class="topo-inside">KEITHIRQLV</span><span class="topo-membrane">RIACQFVLGFQLLIALVTYVFA</span><span class="topo-unknown">TPLAELM</span><span class="topo-outside">TSETEVSQILNLH</span><span class="topo-membrane">LVIVPISL</span></span>
-<span class="topo-line"><span class="topo-membrane">GALGICMLMVSVANA</span><span class="topo-inside">LGK</span><span class="topo-membrane">SYVALTISALRLFAFYLPCLWLG</span><span class="topo-outside">AHFYGIEG</span><span class="topo-membrane">LFIGALVGNII</span></span>
-<span class="topo-line"><span class="topo-membrane">AGWAAWLAYQK</span><span class="topo-inside">ALRSENLYFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MAM</span><span class="topo-inside">QTSTSSLAKQL</span><span class="topo-membrane">FQMTWPMLFGVLSLMSFQLVNS</span><span class="topo-outside">AFIGQLGVLPLAAQGF</span><span class="topo-membrane">TMPIQMVIIGIQVGLGIATT</span><span class="topo-inside">AVISRAIGAGKTEYAKQLGGLV</span><span class="topo-membrane">IVIGGIGVALIALVLYLLR</span><span class="topo-unknown">QPLLGLL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-outside">GAPETVFAIID</span><span class="topo-membrane">HYWLWWLASAWTGAMLYFYYSVCR</span><span class="topo-inside">ANGNT</span><span class="topo-membrane">LLPGTLMMVTSVLNLILDPIFI</span><span class="topo-outside">FTFDLGID</span><span class="topo-membrane">GAAIATIIAFGVGIAIVAP</span><span class="topo-inside">KVAQRQWTSYQWQDLN</span><span class="topo-unknown">ISQSLTAL</span><span class="topo-membrane">GHIMGPA</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-membrane">MLSQLLPPLSSMFA</span><span class="topo-outside">TKLLASFGTAAVAAW</span><span class="topo-membrane">ALGSRFEFFALVAVLAMTMSLP</span><span class="topo-inside">PMIGRMLGAKEITHIRQLV</span><span class="topo-membrane">RIACQFVLGFQLLIALVTYVFA</span><span class="topo-unknown">TPLAELM</span><span class="topo-outside">TSETEVSQILNLH</span><span class="topo-membrane">LVIVPISL</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440 </span>
+<span class="topo-line"><span class="topo-membrane">GALGICMLMVSVANA</span><span class="topo-inside">LGK</span><span class="topo-membrane">SYVALTISALRLFAFYLPCLWLG</span><span class="topo-outside">AHFYGIEG</span><span class="topo-membrane">LFIGALVGNIIAGWAAWLAYQK</span><span class="topo-inside">ALRSENLYFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (28 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -807,6 +812,7 @@ VcmN is a multidrug and toxic compound extrusion (MATE) transporter from the pat
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

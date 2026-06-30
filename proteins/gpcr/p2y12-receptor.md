@@ -152,14 +152,15 @@ The P2Y12 receptor is a class A G protein-coupled receptor (GPCR) expressed on h
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">DYKDDDDGAPQAVDNLTSAPGNTS</span><span class="topo-outside">LCTRDYKITQVL</span><span class="topo-membrane">FPLLYTVLFFVGLITNGLAMRIFF</span></span>
-<span class="topo-line"><span class="topo-membrane">QI</span><span class="topo-inside">RSKSN</span><span class="topo-membrane">FIIFLKNTVISDLLMILTFPFKI</span><span class="topo-outside">LSDAKL</span><span class="topo-unknown">GTGP</span><span class="topo-outside">LRTFV</span><span class="topo-membrane">CQVTSVIFYFTMYIS</span></span>
-<span class="topo-line"><span class="topo-membrane">ISFLGLITIDR</span><span class="topo-inside">YQKTTRPFKT</span><span class="topo-unknown">SNP</span><span class="topo-inside">KNLL</span><span class="topo-membrane">GAKILSVVIWAFMFLLSLPNMIL</span><span class="topo-unknown">TNRQPRDKN</span></span>
-<span class="topo-line"><span class="topo-unknown">VKKCSFL</span><span class="topo-outside">KSEFGLV</span><span class="topo-membrane">WHEIVNYICQVIFWINFLIVIVCYT</span><span class="topo-inside">LITKELYRSYVRTADLEDNWE</span></span>
-<span class="topo-line"><span class="topo-inside">TLNDNLKVIEKADNAAQVKDALTKMRAAALDAQKATPPKLE</span><span class="topo-unknown">DKSPDSPEMK</span><span class="topo-inside">DFRHGFDIL</span></span>
-<span class="topo-line"><span class="topo-inside">VGQIDDALKLANEGKVKEAQAAAEQLKTTRNAYIQKYLRGVGKV</span><span class="topo-unknown">P</span><span class="topo-inside">RKKVNV</span><span class="topo-membrane">KVFIIIAVF</span></span>
-<span class="topo-line"><span class="topo-membrane">FICFVPFHFARIPYTLS</span><span class="topo-outside">QTRDVFDCTAENTLFY</span><span class="topo-membrane">VKESTLWLTSLNACLNPFIYFFLC</span><span class="topo-unknown">KSF</span></span>
-<span class="topo-line"><span class="topo-unknown">RNSLIS</span><span class="topo-inside">M</span><span class="topo-unknown">LKCPNSATSLSQDNRKKEQDGGDPNEETPMGRPLEVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">DYKDDDDGAPQAVDNLTSAPGNTS</span><span class="topo-outside">LCTRDYKITQVL</span><span class="topo-membrane">FPLLYTVLFFVGLITNGLAMRIFFQI</span><span class="topo-inside">RSKSN</span><span class="topo-membrane">FIIFLKNTVISDLLMILTFPFKI</span><span class="topo-outside">LSDAKL</span><span class="topo-unknown">GTGP</span><span class="topo-outside">LRTFV</span><span class="topo-membrane">CQVTSVIFYFTMYIS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">ISFLGLITIDR</span><span class="topo-inside">YQKTTRPFKT</span><span class="topo-unknown">SNP</span><span class="topo-inside">KNLL</span><span class="topo-membrane">GAKILSVVIWAFMFLLSLPNMIL</span><span class="topo-unknown">TNRQPRDKNVKKCSFL</span><span class="topo-outside">KSEFGLV</span><span class="topo-membrane">WHEIVNYICQVIFWINFLIVIVCYT</span><span class="topo-inside">LITKELYRSYVRTADLEDNWE</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">TLNDNLKVIEKADNAAQVKDALTKMRAAALDAQKATPPKLE</span><span class="topo-unknown">DKSPDSPEMK</span><span class="topo-inside">DFRHGFDILVGQIDDALKLANEGKVKEAQAAAEQLKTTRNAYIQKYLRGVGKV</span><span class="topo-unknown">P</span><span class="topo-inside">RKKVNV</span><span class="topo-membrane">KVFIIIAVF</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460      </span>
+<span class="topo-line"><span class="topo-membrane">FICFVPFHFARIPYTLS</span><span class="topo-outside">QTRDVFDCTAENTLFY</span><span class="topo-membrane">VKESTLWLTSLNACLNPFIYFFLC</span><span class="topo-unknown">KSFRNSLIS</span><span class="topo-inside">M</span><span class="topo-unknown">LKCPNSATSLSQDNRKKEQDGGDPNEETPMGRPLEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (29 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -374,6 +375,7 @@ The P2Y12 receptor is a class A G protein-coupled receptor (GPCR) expressed on h
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -521,14 +523,15 @@ The P2Y12 receptor is a class A G protein-coupled receptor (GPCR) expressed on h
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">DYKDDDDGAPQAVDNLTSAPGNT</span><span class="topo-outside">SLCTRDYKIT</span><span class="topo-membrane">QVLFPLLYTVLFFVGLITNGLAMRIFF</span></span>
-<span class="topo-line"><span class="topo-inside">QIRSKSNFII</span><span class="topo-membrane">FLKNTVISDLLMILTFPFKILSDA</span><span class="topo-outside">KLGTGP</span><span class="topo-membrane">LRTFVCQVTSVIFYFTMYIS</span></span>
-<span class="topo-line"><span class="topo-membrane">ISFLGLITI</span><span class="topo-inside">DRYQKTTRP</span><span class="topo-unknown">FKTSN</span><span class="topo-inside">PKNLLGAK</span><span class="topo-membrane">ILSVVIWAFMFLLSLPNMILTN</span><span class="topo-outside">RQPRDKN</span></span>
-<span class="topo-line"><span class="topo-outside">VKKCSFLKSEF</span><span class="topo-membrane">GLVWHEIVNYICQVIFWINFLIVIVCYTL</span><span class="topo-inside">ITKELYRSYVRTADLEDNWE</span></span>
-<span class="topo-line"><span class="topo-inside">TLNDNLKVIEKADNAAQVKDALTKMRAAALDAQKATPPKLEDKSPDSPEMKDFRHGFDIL</span></span>
-<span class="topo-line"><span class="topo-inside">VGQIDDALKLANEGKVKEAQAAAEQLKTTRNAYIQKYLRGVGKVPRKKVNV</span><span class="topo-membrane">KVFIIIAVF</span></span>
-<span class="topo-line"><span class="topo-membrane">FICFVPFHFARIPYTL</span><span class="topo-outside">SQTRDVFDCTAENTL</span><span class="topo-membrane">FYVKESTLWLTSLNACLNPFIYFF</span><span class="topo-inside">LCKSF</span></span>
-<span class="topo-line"><span class="topo-unknown">RNSLISMLKCPNSATSLSQDNRKKEQDGGDPNEETPMGRPLEVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">DYKDDDDGAPQAVDNLTSAPGNT</span><span class="topo-outside">SLCTRDYKIT</span><span class="topo-membrane">QVLFPLLYTVLFFVGLITNGLAMRIFF</span><span class="topo-inside">QIRSKSNFII</span><span class="topo-membrane">FLKNTVISDLLMILTFPFKILSDA</span><span class="topo-outside">KLGTGP</span><span class="topo-membrane">LRTFVCQVTSVIFYFTMYIS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">ISFLGLITI</span><span class="topo-inside">DRYQKTTRP</span><span class="topo-unknown">FKTSN</span><span class="topo-inside">PKNLLGAK</span><span class="topo-membrane">ILSVVIWAFMFLLSLPNMILTN</span><span class="topo-outside">RQPRDKNVKKCSFLKSEF</span><span class="topo-membrane">GLVWHEIVNYICQVIFWINFLIVIVCYTL</span><span class="topo-inside">ITKELYRSYVRTADLEDNWE</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">TLNDNLKVIEKADNAAQVKDALTKMRAAALDAQKATPPKLEDKSPDSPEMKDFRHGFDILVGQIDDALKLANEGKVKEAQAAAEQLKTTRNAYIQKYLRGVGKVPRKKVNV</span><span class="topo-membrane">KVFIIIAVF</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460      </span>
+<span class="topo-line"><span class="topo-membrane">FICFVPFHFARIPYTL</span><span class="topo-outside">SQTRDVFDCTAENTL</span><span class="topo-membrane">FYVKESTLWLTSLNACLNPFIYFF</span><span class="topo-inside">LCKSF</span><span class="topo-unknown">RNSLISMLKCPNSATSLSQDNRKKEQDGGDPNEETPMGRPLEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -687,6 +690,7 @@ The P2Y12 receptor is a class A G protein-coupled receptor (GPCR) expressed on h
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -702,14 +706,15 @@ The P2Y12 receptor is a class A G protein-coupled receptor (GPCR) expressed on h
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">DYKDDDDGAPQAVDNLTSAPGNT</span><span class="topo-outside">SLCTRDYKIT</span><span class="topo-membrane">QVLFPLLYTVLFFVGLITNGLAMRIFF</span></span>
-<span class="topo-line"><span class="topo-inside">QIRSKSNFII</span><span class="topo-membrane">FLKNTVISDLLMILTFPFKILSDA</span><span class="topo-outside">KLGTGP</span><span class="topo-membrane">LRTFVCQVTSVIFYFTMYIS</span></span>
-<span class="topo-line"><span class="topo-membrane">ISFLGLITI</span><span class="topo-inside">DRYQKTTRP</span><span class="topo-unknown">FKTSN</span><span class="topo-inside">PKNLLGAK</span><span class="topo-membrane">ILSVVIWAFMFLLSLPNMILTN</span><span class="topo-outside">RQPRDKN</span></span>
-<span class="topo-line"><span class="topo-outside">VKKCSFLKSEF</span><span class="topo-membrane">GLVWHEIVNYICQVIFWINFLIVIVCYTL</span><span class="topo-inside">ITKELYRSYVRTADLEDNWE</span></span>
-<span class="topo-line"><span class="topo-inside">TLNDNLKVIEKADNAAQVKDALTKMRAAALDAQKATPPKLEDKSPDSPEMKDFRHGFDIL</span></span>
-<span class="topo-line"><span class="topo-inside">VGQIDDALKLANEGKVKEAQAAAEQLKTTRNAYIQKYLRGVGKVPRKKVNV</span><span class="topo-membrane">KVFIIIAVF</span></span>
-<span class="topo-line"><span class="topo-membrane">FICFVPFHFARIPYTL</span><span class="topo-outside">SQTRDVFDCTAENTL</span><span class="topo-membrane">FYVKESTLWLTSLNACLNPFIYFF</span><span class="topo-inside">LCKSF</span></span>
-<span class="topo-line"><span class="topo-unknown">RNSLISMLKCPNSATSLSQDNRKKEQDGGDPNEETPMGRPLEVLFQ</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">DYKDDDDGAPQAVDNLTSAPGNT</span><span class="topo-outside">SLCTRDYKIT</span><span class="topo-membrane">QVLFPLLYTVLFFVGLITNGLAMRIFF</span><span class="topo-inside">QIRSKSNFII</span><span class="topo-membrane">FLKNTVISDLLMILTFPFKILSDA</span><span class="topo-outside">KLGTGP</span><span class="topo-membrane">LRTFVCQVTSVIFYFTMYIS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">ISFLGLITI</span><span class="topo-inside">DRYQKTTRP</span><span class="topo-unknown">FKTSN</span><span class="topo-inside">PKNLLGAK</span><span class="topo-membrane">ILSVVIWAFMFLLSLPNMILTN</span><span class="topo-outside">RQPRDKNVKKCSFLKSEF</span><span class="topo-membrane">GLVWHEIVNYICQVIFWINFLIVIVCYTL</span><span class="topo-inside">ITKELYRSYVRTADLEDNWE</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-inside">TLNDNLKVIEKADNAAQVKDALTKMRAAALDAQKATPPKLEDKSPDSPEMKDFRHGFDILVGQIDDALKLANEGKVKEAQAAAEQLKTTRNAYIQKYLRGVGKVPRKKVNV</span><span class="topo-membrane">KVFIIIAVF</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460      </span>
+<span class="topo-line"><span class="topo-membrane">FICFVPFHFARIPYTL</span><span class="topo-outside">SQTRDVFDCTAENTL</span><span class="topo-membrane">FYVKESTLWLTSLNACLNPFIYFF</span><span class="topo-inside">LCKSF</span><span class="topo-unknown">RNSLISMLKCPNSATSLSQDNRKKEQDGGDPNEETPMGRPLEVLFQ</span></span>
+<details class="topo-details"><summary>Topology coordinates (21 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -868,6 +873,7 @@ The P2Y12 receptor is a class A G protein-coupled receptor (GPCR) expressed on h
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

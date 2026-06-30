@@ -74,8 +74,9 @@ EmrE is a small multidrug resistance (SMR) family proton-coupled multidrug efflu
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MNPYI</span><span class="topo-membrane">YLGGAILAEVIGTT</span><span class="topo-outside">LMKFSEGFTRLWPSVG</span><span class="topo-membrane">TIICYCASFWLLAQ</span><span class="topo-inside">TLAYIPTGI</span><span class="topo-membrane">AY</span></span>
-<span class="topo-line"><span class="topo-membrane">AIWSGVGIVLISLL</span><span class="topo-outside">SWGFFGQRLDLPA</span><span class="topo-membrane">IIGMMLICAGVLIINL</span><span class="topo-inside">LS</span><span class="topo-unknown">RSTPH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110</span>
+<span class="topo-line"><span class="topo-unknown">MNPYI</span><span class="topo-membrane">YLGGAILAEVIGTT</span><span class="topo-outside">LMKFSEGFTRLWPSVG</span><span class="topo-membrane">TIICYCASFWLLAQ</span><span class="topo-inside">TLAYIPTGI</span><span class="topo-membrane">AYAIWSGVGIVLISLL</span><span class="topo-outside">SWGFFGQRLDLPA</span><span class="topo-membrane">IIGMMLICAGVLIINL</span><span class="topo-inside">LS</span><span class="topo-unknown">RSTPH</span></span>
+<details class="topo-details"><summary>Topology coordinates (10 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -157,6 +158,7 @@ EmrE is a small multidrug resistance (SMR) family proton-coupled multidrug efflu
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -172,8 +174,9 @@ EmrE is a small multidrug resistance (SMR) family proton-coupled multidrug efflu
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MNP</span><span class="topo-inside">YIY</span><span class="topo-membrane">LGGAILAEVIGTTL</span><span class="topo-outside">MKFSEGFTRLWPSVGTI</span><span class="topo-membrane">ICYCASFWLLAQTL</span><span class="topo-inside">AY</span><span class="topo-membrane">IPTGIAY</span></span>
-<span class="topo-line"><span class="topo-membrane">AIWSGV</span><span class="topo-outside">GIVLISLLSWGFFGQRLDLPAIIGMMLICAGVLIINLLSRSTPH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110</span>
+<span class="topo-line"><span class="topo-unknown">MNP</span><span class="topo-inside">YIY</span><span class="topo-membrane">LGGAILAEVIGTTL</span><span class="topo-outside">MKFSEGFTRLWPSVGTI</span><span class="topo-membrane">ICYCASFWLLAQTL</span><span class="topo-inside">AY</span><span class="topo-membrane">IPTGIAYAIWSGV</span><span class="topo-outside">GIVLISLLSWGFFGQRLDLPAIIGMMLICAGVLIINLLSRSTPH</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -241,6 +244,7 @@ EmrE is a small multidrug resistance (SMR) family proton-coupled multidrug efflu
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -256,8 +260,9 @@ EmrE is a small multidrug resistance (SMR) family proton-coupled multidrug efflu
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MNPYIY</span><span class="topo-outside">L</span><span class="topo-membrane">GGAILAEVIGTTLM</span><span class="topo-inside">KFSEGFTRLW</span><span class="topo-membrane">PSVGTIICYCASFWLLA</span><span class="topo-outside">QTLAYIP</span><span class="topo-membrane">TGIAY</span></span>
-<span class="topo-line"><span class="topo-membrane">AIWSGVGIVLI</span><span class="topo-inside">SLLSWGFFGQRLDLPAIIGMMLICAGVLII</span><span class="topo-unknown">NLLSRSTPH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110</span>
+<span class="topo-line"><span class="topo-unknown">MNPYIY</span><span class="topo-outside">L</span><span class="topo-membrane">GGAILAEVIGTTLM</span><span class="topo-inside">KFSEGFTRLW</span><span class="topo-membrane">PSVGTIICYCASFWLLA</span><span class="topo-outside">QTLAYIP</span><span class="topo-membrane">TGIAYAIWSGVGIVLI</span><span class="topo-inside">SLLSWGFFGQRLDLPAIIGMMLICAGVLII</span><span class="topo-unknown">NLLSRSTPH</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -332,6 +337,7 @@ EmrE is a small multidrug resistance (SMR) family proton-coupled multidrug efflu
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -347,8 +353,9 @@ EmrE is a small multidrug resistance (SMR) family proton-coupled multidrug efflu
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MNPYIY</span><span class="topo-inside">LGGAILA</span><span class="topo-membrane">EVIGTTLMKFSE</span><span class="topo-outside">GF</span><span class="topo-membrane">TRLWPSVGTIICYCASFW</span><span class="topo-inside">LLAQTLAYIPTGIAY</span></span>
-<span class="topo-line"><span class="topo-inside">AIW</span><span class="topo-membrane">SGVGIVLISLLSWGF</span><span class="topo-outside">F</span><span class="topo-membrane">GQRLDLPAIIGMM</span><span class="topo-inside">L</span><span class="topo-unknown">ICAGVLIINLLSRSTPH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110</span>
+<span class="topo-line"><span class="topo-unknown">MNPYIY</span><span class="topo-inside">LGGAILA</span><span class="topo-membrane">EVIGTTLMKFSE</span><span class="topo-outside">GF</span><span class="topo-membrane">TRLWPSVGTIICYCASFW</span><span class="topo-inside">LLAQTLAYIPTGIAYAIW</span><span class="topo-membrane">SGVGIVLISLLSWGF</span><span class="topo-outside">F</span><span class="topo-membrane">GQRLDLPAIIGMM</span><span class="topo-inside">L</span><span class="topo-unknown">ICAGVLIINLLSRSTPH</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -437,6 +444,7 @@ EmrE is a small multidrug resistance (SMR) family proton-coupled multidrug efflu
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -452,8 +460,9 @@ EmrE is a small multidrug resistance (SMR) family proton-coupled multidrug efflu
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MNPYIY</span><span class="topo-outside">L</span><span class="topo-membrane">GGAILAEVIGTTLMKF</span><span class="topo-inside">SEGFTRLWPS</span><span class="topo-membrane">VGTIICYCASFWLL</span><span class="topo-outside">AQTLAYIPTGIAY</span></span>
-<span class="topo-line"><span class="topo-outside">AIW</span><span class="topo-membrane">SGVGIVLISLLSWG</span><span class="topo-inside">FFGQRLD</span><span class="topo-membrane">LPAIIGMMLICAGVL</span><span class="topo-outside">II</span><span class="topo-unknown">NLLSRSTPH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110</span>
+<span class="topo-line"><span class="topo-unknown">MNPYIY</span><span class="topo-outside">L</span><span class="topo-membrane">GGAILAEVIGTTLMKF</span><span class="topo-inside">SEGFTRLWPS</span><span class="topo-membrane">VGTIICYCASFWLL</span><span class="topo-outside">AQTLAYIPTGIAYAIW</span><span class="topo-membrane">SGVGIVLISLLSWG</span><span class="topo-inside">FFGQRLD</span><span class="topo-membrane">LPAIIGMMLICAGVL</span><span class="topo-outside">II</span><span class="topo-unknown">NLLSRSTPH</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -542,6 +551,7 @@ EmrE is a small multidrug resistance (SMR) family proton-coupled multidrug efflu
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -557,8 +567,9 @@ EmrE is a small multidrug resistance (SMR) family proton-coupled multidrug efflu
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MNPYIY</span><span class="topo-inside">L</span><span class="topo-membrane">GGAILAEVIGTTLM</span><span class="topo-outside">KFSEGFTRLW</span><span class="topo-membrane">PSVGTIICYCASFWLLAQTL</span><span class="topo-inside">AYIP</span><span class="topo-membrane">TGIAY</span></span>
-<span class="topo-line"><span class="topo-membrane">AIWSGVGIVL</span><span class="topo-outside">ISLLSWGFFGQRLDLPAIIGMML</span><span class="topo-unknown">ICAGVLIINLLSRSTPH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110</span>
+<span class="topo-line"><span class="topo-unknown">MNPYIY</span><span class="topo-inside">L</span><span class="topo-membrane">GGAILAEVIGTTLM</span><span class="topo-outside">KFSEGFTRLW</span><span class="topo-membrane">PSVGTIICYCASFWLLAQTL</span><span class="topo-inside">AYIP</span><span class="topo-membrane">TGIAYAIWSGVGIVL</span><span class="topo-outside">ISLLSWGFFGQRLDLPAIIGMML</span><span class="topo-unknown">ICAGVLIINLLSRSTPH</span></span>
+<details class="topo-details"><summary>Topology coordinates (9 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -633,6 +644,7 @@ EmrE is a small multidrug resistance (SMR) family proton-coupled multidrug efflu
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -784,8 +796,9 @@ EmrE is a small multidrug resistance (SMR) family proton-coupled multidrug efflu
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">N</span><span class="topo-membrane">PYIYLGGAILAEVIGTTLM</span><span class="topo-inside">KFSNGFTRLI</span><span class="topo-membrane">PSMGTIICYCASFWLLAQTL</span><span class="topo-outside">AYIPT</span><span class="topo-membrane">GIAY</span></span>
-<span class="topo-line"><span class="topo-membrane">AIWSGVGIVLISLLS</span><span class="topo-inside">WGFFGQRLDLP</span><span class="topo-membrane">AIIGMMLICAGVLIIN</span><span class="topo-outside">LL</span><span class="topo-unknown">SRSTPH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">N</span><span class="topo-membrane">PYIYLGGAILAEVIGTTLM</span><span class="topo-inside">KFSNGFTRLI</span><span class="topo-membrane">PSMGTIICYCASFWLLAQTL</span><span class="topo-outside">AYIPT</span><span class="topo-membrane">GIAYAIWSGVGIVLISLLS</span><span class="topo-inside">WGFFGQRLDLP</span><span class="topo-membrane">AIIGMMLICAGVLIIN</span><span class="topo-outside">LL</span><span class="topo-unknown">SRSTPH</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -874,6 +887,7 @@ EmrE is a small multidrug resistance (SMR) family proton-coupled multidrug efflu
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -889,8 +903,9 @@ EmrE is a small multidrug resistance (SMR) family proton-coupled multidrug efflu
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">N</span><span class="topo-membrane">PYIYLGGAILAEVIGTTLM</span><span class="topo-outside">KFSNGFTRL</span><span class="topo-membrane">IPSMGTIICYCASFWLLAQTL</span><span class="topo-inside">AYIPT</span><span class="topo-membrane">GIAY</span></span>
-<span class="topo-line"><span class="topo-membrane">AIWSGVGIVLISL</span><span class="topo-outside">LSWGFFGQRLDLPAI</span><span class="topo-membrane">IGMMLICAGVLIINLL</span><span class="topo-unknown">SRSTPH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">N</span><span class="topo-membrane">PYIYLGGAILAEVIGTTLM</span><span class="topo-outside">KFSNGFTRL</span><span class="topo-membrane">IPSMGTIICYCASFWLLAQTL</span><span class="topo-inside">AYIPT</span><span class="topo-membrane">GIAYAIWSGVGIVLISL</span><span class="topo-outside">LSWGFFGQRLDLPAI</span><span class="topo-membrane">IGMMLICAGVLIINLL</span><span class="topo-unknown">SRSTPH</span></span>
+<details class="topo-details"><summary>Topology coordinates (10 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -972,6 +987,7 @@ EmrE is a small multidrug resistance (SMR) family proton-coupled multidrug efflu
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -987,8 +1003,9 @@ EmrE is a small multidrug resistance (SMR) family proton-coupled multidrug efflu
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">NPYI</span><span class="topo-membrane">YLGGAILAEVIGTTLMK</span><span class="topo-inside">FSNGFTRLI</span><span class="topo-membrane">PSMGTIICYCASFWLL</span><span class="topo-outside">AQTLAYIPTGIAY</span></span>
-<span class="topo-line"><span class="topo-membrane">AIWSGVGIVLISLLSWG</span><span class="topo-inside">FFGQRLDL</span><span class="topo-membrane">PAIIGMMLICAGVL</span><span class="topo-outside">IINLL</span><span class="topo-unknown">SRSTPH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">NPYI</span><span class="topo-membrane">YLGGAILAEVIGTTLMK</span><span class="topo-inside">FSNGFTRLI</span><span class="topo-membrane">PSMGTIICYCASFWLL</span><span class="topo-outside">AQTLAYIPTGIAY</span><span class="topo-membrane">AIWSGVGIVLISLLSWG</span><span class="topo-inside">FFGQRLDL</span><span class="topo-membrane">PAIIGMMLICAGVL</span><span class="topo-outside">IINLL</span><span class="topo-unknown">SRSTPH</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1077,6 +1094,7 @@ EmrE is a small multidrug resistance (SMR) family proton-coupled multidrug efflu
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1092,8 +1110,9 @@ EmrE is a small multidrug resistance (SMR) family proton-coupled multidrug efflu
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">NPY</span><span class="topo-membrane">IYLGGAILAEVIGTTLM</span><span class="topo-outside">KFSNGFTRLIPSM</span><span class="topo-membrane">GTIICYCASFWLLAQ</span><span class="topo-inside">TLAYIPTG</span><span class="topo-membrane">IAY</span></span>
-<span class="topo-line"><span class="topo-membrane">AIWSGVGIVLISLL</span><span class="topo-outside">SWGFFGQRLDLPA</span><span class="topo-membrane">IIGMMLICAGVLIIN</span><span class="topo-inside">LL</span><span class="topo-unknown">SRSTPH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">NPY</span><span class="topo-membrane">IYLGGAILAEVIGTTLM</span><span class="topo-outside">KFSNGFTRLIPSM</span><span class="topo-membrane">GTIICYCASFWLLAQ</span><span class="topo-inside">TLAYIPTG</span><span class="topo-membrane">IAYAIWSGVGIVLISLL</span><span class="topo-outside">SWGFFGQRLDLPA</span><span class="topo-membrane">IIGMMLICAGVLIIN</span><span class="topo-inside">LL</span><span class="topo-unknown">SRSTPH</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1182,6 +1201,7 @@ EmrE is a small multidrug resistance (SMR) family proton-coupled multidrug efflu
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1197,8 +1217,9 @@ EmrE is a small multidrug resistance (SMR) family proton-coupled multidrug efflu
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">NPY</span><span class="topo-membrane">IYLGGAILAEVIGTTLM</span><span class="topo-inside">KFSNGFTRL</span><span class="topo-membrane">IPSMGTIICYCASFWLLA</span><span class="topo-outside">QTLAYIPT</span><span class="topo-membrane">GIAY</span></span>
-<span class="topo-line"><span class="topo-membrane">AIWSGVGIVLISLL</span><span class="topo-inside">SWGFFGQ</span><span class="topo-unknown">RL</span><span class="topo-inside">DLPAI</span><span class="topo-membrane">IGMMLICAGVLIIN</span><span class="topo-outside">L</span><span class="topo-unknown">LSRSTPH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">NPY</span><span class="topo-membrane">IYLGGAILAEVIGTTLM</span><span class="topo-inside">KFSNGFTRL</span><span class="topo-membrane">IPSMGTIICYCASFWLLA</span><span class="topo-outside">QTLAYIPT</span><span class="topo-membrane">GIAYAIWSGVGIVLISLL</span><span class="topo-inside">SWGFFGQ</span><span class="topo-unknown">RL</span><span class="topo-inside">DLPAI</span><span class="topo-membrane">IGMMLICAGVLIIN</span><span class="topo-outside">L</span><span class="topo-unknown">LSRSTPH</span></span>
+<details class="topo-details"><summary>Topology coordinates (13 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1301,6 +1322,7 @@ EmrE is a small multidrug resistance (SMR) family proton-coupled multidrug efflu
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1316,8 +1338,9 @@ EmrE is a small multidrug resistance (SMR) family proton-coupled multidrug efflu
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">NPYI</span><span class="topo-membrane">YLGGAILAEVIGT</span><span class="topo-outside">TLMKFSNGFTRLIPSM</span><span class="topo-membrane">GTIICYCASFWLLA</span><span class="topo-inside">QTLAYIPTGIA</span><span class="topo-membrane">Y</span></span>
-<span class="topo-line"><span class="topo-membrane">AIWSGVGIVLISL</span><span class="topo-outside">LSWGFFGQRLDLPAII</span><span class="topo-membrane">GMMLICAGVLIIN</span><span class="topo-inside">LL</span><span class="topo-unknown">SRSTPH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">NPYI</span><span class="topo-membrane">YLGGAILAEVIGT</span><span class="topo-outside">TLMKFSNGFTRLIPSM</span><span class="topo-membrane">GTIICYCASFWLLA</span><span class="topo-inside">QTLAYIPTGIA</span><span class="topo-membrane">YAIWSGVGIVLISL</span><span class="topo-outside">LSWGFFGQRLDLPAII</span><span class="topo-membrane">GMMLICAGVLIIN</span><span class="topo-inside">LL</span><span class="topo-unknown">SRSTPH</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1406,6 +1429,7 @@ EmrE is a small multidrug resistance (SMR) family proton-coupled multidrug efflu
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1421,8 +1445,9 @@ EmrE is a small multidrug resistance (SMR) family proton-coupled multidrug efflu
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">NPYIYL</span><span class="topo-membrane">GGAILAEVIGTTLM</span><span class="topo-inside">KFSNGFTRL</span><span class="topo-membrane">IPSMGTIICYCASFWLL</span><span class="topo-outside">AQTLAYIPTGIA</span><span class="topo-membrane">Y</span></span>
-<span class="topo-line"><span class="topo-membrane">AIWSGVGIVLISLLS</span><span class="topo-inside">WGFFGQRLDLPA</span><span class="topo-membrane">IIGMMLICAGVL</span><span class="topo-outside">IINL</span><span class="topo-unknown">LSRSTPH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">NPYIYL</span><span class="topo-membrane">GGAILAEVIGTTLM</span><span class="topo-inside">KFSNGFTRL</span><span class="topo-membrane">IPSMGTIICYCASFWLL</span><span class="topo-outside">AQTLAYIPTGIA</span><span class="topo-membrane">YAIWSGVGIVLISLLS</span><span class="topo-inside">WGFFGQRLDLPA</span><span class="topo-membrane">IIGMMLICAGVL</span><span class="topo-outside">IINL</span><span class="topo-unknown">LSRSTPH</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1511,6 +1536,7 @@ EmrE is a small multidrug resistance (SMR) family proton-coupled multidrug efflu
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1526,8 +1552,9 @@ EmrE is a small multidrug resistance (SMR) family proton-coupled multidrug efflu
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">NPY</span><span class="topo-membrane">IYLGGAILAEVIGTTLM</span><span class="topo-inside">KFSNGF</span><span class="topo-membrane">TRLIPSMGTIICYCASFWLLA</span><span class="topo-outside">QTLAYIPT</span><span class="topo-membrane">GIAY</span></span>
-<span class="topo-line"><span class="topo-membrane">AIWSGVGIVLISLL</span><span class="topo-inside">SWGFFGQRLDLPAII</span><span class="topo-membrane">GMMLICAGVLIIN</span><span class="topo-outside">L</span><span class="topo-unknown">LSRSTPH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">NPY</span><span class="topo-membrane">IYLGGAILAEVIGTTLM</span><span class="topo-inside">KFSNGF</span><span class="topo-membrane">TRLIPSMGTIICYCASFWLLA</span><span class="topo-outside">QTLAYIPT</span><span class="topo-membrane">GIAYAIWSGVGIVLISLL</span><span class="topo-inside">SWGFFGQRLDLPAII</span><span class="topo-membrane">GMMLICAGVLIIN</span><span class="topo-outside">L</span><span class="topo-unknown">LSRSTPH</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1616,6 +1643,7 @@ EmrE is a small multidrug resistance (SMR) family proton-coupled multidrug efflu
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1631,8 +1659,9 @@ EmrE is a small multidrug resistance (SMR) family proton-coupled multidrug efflu
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">NPYI</span><span class="topo-membrane">YLGGAILAEVIGTTLM</span><span class="topo-outside">KFSNGFTRLIPSM</span><span class="topo-membrane">GTIICYCASFWLLA</span><span class="topo-inside">QTLAYIPTGIA</span><span class="topo-membrane">Y</span></span>
-<span class="topo-line"><span class="topo-membrane">AIWSGVGIVLISLL</span><span class="topo-outside">SWGFFGQRLDLP</span><span class="topo-membrane">AIIGMMLICAGVL</span><span class="topo-inside">IINLL</span><span class="topo-unknown">SRSTPH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">NPYI</span><span class="topo-membrane">YLGGAILAEVIGTTLM</span><span class="topo-outside">KFSNGFTRLIPSM</span><span class="topo-membrane">GTIICYCASFWLLA</span><span class="topo-inside">QTLAYIPTGIA</span><span class="topo-membrane">YAIWSGVGIVLISLL</span><span class="topo-outside">SWGFFGQRLDLP</span><span class="topo-membrane">AIIGMMLICAGVL</span><span class="topo-inside">IINLL</span><span class="topo-unknown">SRSTPH</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1721,6 +1750,7 @@ EmrE is a small multidrug resistance (SMR) family proton-coupled multidrug efflu
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1736,8 +1766,9 @@ EmrE is a small multidrug resistance (SMR) family proton-coupled multidrug efflu
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">NPY</span><span class="topo-membrane">IYLGGAILAEVIGTTLMK</span><span class="topo-inside">FSNGFTRLI</span><span class="topo-membrane">PSMGTIICYCASFWLL</span><span class="topo-outside">AQTLAYIPTGIA</span><span class="topo-membrane">Y</span></span>
-<span class="topo-line"><span class="topo-membrane">AIWSGVGIVLISLLS</span><span class="topo-inside">WGFFGQRLDLPA</span><span class="topo-membrane">IIGMMLICAGVLII</span><span class="topo-outside">NLL</span><span class="topo-unknown">SRSTPH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">NPY</span><span class="topo-membrane">IYLGGAILAEVIGTTLMK</span><span class="topo-inside">FSNGFTRLI</span><span class="topo-membrane">PSMGTIICYCASFWLL</span><span class="topo-outside">AQTLAYIPTGIA</span><span class="topo-membrane">YAIWSGVGIVLISLLS</span><span class="topo-inside">WGFFGQRLDLPA</span><span class="topo-membrane">IIGMMLICAGVLII</span><span class="topo-outside">NLL</span><span class="topo-unknown">SRSTPH</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1826,6 +1857,7 @@ EmrE is a small multidrug resistance (SMR) family proton-coupled multidrug efflu
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -1841,8 +1873,9 @@ EmrE is a small multidrug resistance (SMR) family proton-coupled multidrug efflu
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">N</span><span class="topo-membrane">PYIYLGGAILAEVIGT</span><span class="topo-outside">TLMKFSNGFTRLIPS</span><span class="topo-membrane">MGTIICYCASFWLLAQTL</span><span class="topo-inside">AYIP</span><span class="topo-membrane">TGIAY</span></span>
-<span class="topo-line"><span class="topo-membrane">AIWSGVGIVLI</span><span class="topo-outside">SLLSWGFFGQRLDLPAII</span><span class="topo-membrane">GMMLICAGVLIINL</span><span class="topo-unknown">LSRSTPH</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">N</span><span class="topo-membrane">PYIYLGGAILAEVIGT</span><span class="topo-outside">TLMKFSNGFTRLIPS</span><span class="topo-membrane">MGTIICYCASFWLLAQTL</span><span class="topo-inside">AYIP</span><span class="topo-membrane">TGIAYAIWSGVGIVLI</span><span class="topo-outside">SLLSWGFFGQRLDLPAII</span><span class="topo-membrane">GMMLICAGVLIINL</span><span class="topo-unknown">LSRSTPH</span></span>
+<details class="topo-details"><summary>Topology coordinates (10 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -1924,6 +1957,7 @@ EmrE is a small multidrug resistance (SMR) family proton-coupled multidrug efflu
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

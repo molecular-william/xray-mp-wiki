@@ -94,11 +94,13 @@ Lgt (phosphatidylglycerol:prolipoprotein diacylglyceryl transferase) is an integ
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MVT</span><span class="topo-outside">SSYLHFPEFDPVIFSIGPVAL</span><span class="topo-membrane">HWYGLMYLVGFIFAMWLATRRA</span><span class="topo-inside">NRPGSGWTK</span><span class="topo-membrane">NEVEN</span></span>
-<span class="topo-line"><span class="topo-membrane">LLYAGFLGVFLGGRIGYVLF</span><span class="topo-outside">YN</span><span class="topo-unknown">FPQFMA</span><span class="topo-outside">DPLYLFRVWDGG</span><span class="topo-membrane">MSFHGGLIGVIVVMIIFARR</span></span>
-<span class="topo-line"><span class="topo-inside">TKRS</span><span class="topo-membrane">FFQVSDFIAPLIPFGLGAGRLGN</span><span class="topo-outside">FINGELWGRVDPNFPFAMLFPGSRTEDILLLQT</span></span>
-<span class="topo-line"><span class="topo-outside">NPQWQSIFDTYGVLPRHPS</span><span class="topo-membrane">QLYELLLEGVVLFIILNLYIR</span><span class="topo-inside">KPRPMG</span><span class="topo-membrane">AVSGLFLIGYGAFR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MVT</span><span class="topo-outside">SSYLHFPEFDPVIFSIGPVAL</span><span class="topo-membrane">HWYGLMYLVGFIFAMWLATRRA</span><span class="topo-inside">NRPGSGWTK</span><span class="topo-membrane">NEVENLLYAGFLGVFLGGRIGYVLF</span><span class="topo-outside">YN</span><span class="topo-unknown">FPQFMA</span><span class="topo-outside">DPLYLFRVWDGG</span><span class="topo-membrane">MSFHGGLIGVIVVMIIFARR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">TKRS</span><span class="topo-membrane">FFQVSDFIAPLIPFGLGAGRLGN</span><span class="topo-outside">FINGELWGRVDPNFPFAMLFPGSRTEDILLLQTNPQWQSIFDTYGVLPRHPS</span><span class="topo-membrane">QLYELLLEGVVLFIILNLYIR</span><span class="topo-inside">KPRPMG</span><span class="topo-membrane">AVSGLFLIGYGAFR</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300</span>
 <span class="topo-line"><span class="topo-membrane">IIVEF</span><span class="topo-outside">FRQPDAQFTGA</span><span class="topo-membrane">WVQYISMGQILSIPMIVAGVIMMVWA</span><span class="topo-inside">YRRSP</span><span class="topo-unknown">QQHVSLEHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -229,6 +231,7 @@ Lgt (phosphatidylglycerol:prolipoprotein diacylglyceryl transferase) is an integ
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -244,11 +247,13 @@ Lgt (phosphatidylglycerol:prolipoprotein diacylglyceryl transferase) is an integ
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MVT</span><span class="topo-outside">SSYLHFPEFDPVIFSIGPVAL</span><span class="topo-membrane">HWYGLMYLVGFIFAMWLATRRA</span><span class="topo-inside">NRPGSGWTK</span><span class="topo-membrane">NEVEN</span></span>
-<span class="topo-line"><span class="topo-membrane">LLYAGFLGVFLGGRIGYVLF</span><span class="topo-outside">YN</span><span class="topo-unknown">FPQFMA</span><span class="topo-outside">DPLYLFRVWDGG</span><span class="topo-membrane">MSFHGGLIGVIVVMIIFARR</span></span>
-<span class="topo-line"><span class="topo-inside">TKRS</span><span class="topo-membrane">FFQVSDFIAPLIPFGLGAGRLGN</span><span class="topo-outside">FINGELWGRVDPNFPFAMLFPGSRTEDILLLQT</span></span>
-<span class="topo-line"><span class="topo-outside">NPQWQSIFDTYGVLPRHPS</span><span class="topo-membrane">QLYELLLEGVVLFIILNLYIR</span><span class="topo-inside">KPRPMG</span><span class="topo-membrane">AVSGLFLIGYGAFR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MVT</span><span class="topo-outside">SSYLHFPEFDPVIFSIGPVAL</span><span class="topo-membrane">HWYGLMYLVGFIFAMWLATRRA</span><span class="topo-inside">NRPGSGWTK</span><span class="topo-membrane">NEVENLLYAGFLGVFLGGRIGYVLF</span><span class="topo-outside">YN</span><span class="topo-unknown">FPQFMA</span><span class="topo-outside">DPLYLFRVWDGG</span><span class="topo-membrane">MSFHGGLIGVIVVMIIFARR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">TKRS</span><span class="topo-membrane">FFQVSDFIAPLIPFGLGAGRLGN</span><span class="topo-outside">FINGELWGRVDPNFPFAMLFPGSRTEDILLLQTNPQWQSIFDTYGVLPRHPS</span><span class="topo-membrane">QLYELLLEGVVLFIILNLYIR</span><span class="topo-inside">KPRPMG</span><span class="topo-membrane">AVSGLFLIGYGAFR</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300</span>
 <span class="topo-line"><span class="topo-membrane">IIVEF</span><span class="topo-outside">FRQPDAQFTGA</span><span class="topo-membrane">WVQYISMGQILSIPMIVAGVIMMVWA</span><span class="topo-inside">YRRSP</span><span class="topo-unknown">QQHVSLEHHHHHH</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -379,6 +384,7 @@ Lgt (phosphatidylglycerol:prolipoprotein diacylglyceryl transferase) is an integ
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

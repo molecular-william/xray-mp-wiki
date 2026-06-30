@@ -86,10 +86,11 @@ The spinach light-harvesting complex II ([LHC-II](/xray-mp-wiki/proteins/photosy
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">RKTAGKPKTVQSS</span><span class="topo-outside">SPWYGPDRVKYLGPFSGESPSYLTGEFPGDYGWDTAGLSADPETFAK</span></span>
-<span class="topo-line"><span class="topo-outside">NREL</span><span class="topo-membrane">EVIHCRWAMLGALGCVFPELL</span><span class="topo-inside">ARNGVKFGEAVWFKAGSQIFSEGGLDYLGNPSLVH</span></span>
-<span class="topo-line"><span class="topo-inside">AQS</span><span class="topo-membrane">ILAIWACQVILMGAVEGYR</span><span class="topo-outside">IAGGPLGEVVDPLYPGGSFDPLGLADDPEAFAELKVK</span><span class="topo-membrane">E</span></span>
-<span class="topo-line"><span class="topo-membrane">IKNGRLAMFSMFGFFVQAI</span><span class="topo-inside">VTGKG</span><span class="topo-unknown">PLENLADHLA</span><span class="topo-inside">DPVNNNAWNFATNFVPG</span><span class="topo-unknown">K</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">RKTAGKPKTVQSS</span><span class="topo-outside">SPWYGPDRVKYLGPFSGESPSYLTGEFPGDYGWDTAGLSADPETFAKNREL</span><span class="topo-membrane">EVIHCRWAMLGALGCVFPELL</span><span class="topo-inside">ARNGVKFGEAVWFKAGSQIFSEGGLDYLGNPSLVH</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230  </span>
+<span class="topo-line"><span class="topo-inside">AQS</span><span class="topo-membrane">ILAIWACQVILMGAVEGYR</span><span class="topo-outside">IAGGPLGEVVDPLYPGGSFDPLGLADDPEAFAELKVK</span><span class="topo-membrane">EIKNGRLAMFSMFGFFVQAI</span><span class="topo-inside">VTGKG</span><span class="topo-unknown">PLENLADHLA</span><span class="topo-inside">DPVNNNAWNFATNFVPG</span><span class="topo-unknown">K</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -178,6 +179,7 @@ The spinach light-harvesting complex II ([LHC-II](/xray-mp-wiki/proteins/photosy
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -193,10 +195,11 @@ The spinach light-harvesting complex II ([LHC-II](/xray-mp-wiki/proteins/photosy
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">RKTAGKPKTVQSS</span><span class="topo-outside">SPWYGPDRVKYLGPFSGESPSYLTGEFPGDYGWDTAGLSADPETFAK</span></span>
-<span class="topo-line"><span class="topo-outside">NREL</span><span class="topo-membrane">EVIHCRWAMLGALGCVFPELL</span><span class="topo-inside">ARNGVKFGEAV</span><span class="topo-unknown">WFKAGSQIF</span><span class="topo-inside">SEGGLDYLGNPSLVH</span></span>
-<span class="topo-line"><span class="topo-inside">AQS</span><span class="topo-membrane">ILAIWACQVILMGAVEGYR</span><span class="topo-outside">IAGGPLGEVVDPLYPGGSFDPLGLADDPEAFAELKVK</span><span class="topo-membrane">E</span></span>
-<span class="topo-line"><span class="topo-membrane">IKNGRLAMFSMFGFFVQAI</span><span class="topo-inside">VTGKG</span><span class="topo-unknown">PLENLADHLA</span><span class="topo-inside">DPVNNNAWNFATNFVPGK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">RKTAGKPKTVQSS</span><span class="topo-outside">SPWYGPDRVKYLGPFSGESPSYLTGEFPGDYGWDTAGLSADPETFAKNREL</span><span class="topo-membrane">EVIHCRWAMLGALGCVFPELL</span><span class="topo-inside">ARNGVKFGEAV</span><span class="topo-unknown">WFKAGSQIF</span><span class="topo-inside">SEGGLDYLGNPSLVH</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230  </span>
+<span class="topo-line"><span class="topo-inside">AQS</span><span class="topo-membrane">ILAIWACQVILMGAVEGYR</span><span class="topo-outside">IAGGPLGEVVDPLYPGGSFDPLGLADDPEAFAELKVK</span><span class="topo-membrane">EIKNGRLAMFSMFGFFVQAI</span><span class="topo-inside">VTGKG</span><span class="topo-unknown">PLENLADHLA</span><span class="topo-inside">DPVNNNAWNFATNFVPGK</span></span>
+<details class="topo-details"><summary>Topology coordinates (12 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -292,6 +295,7 @@ The spinach light-harvesting complex II ([LHC-II](/xray-mp-wiki/proteins/photosy
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -307,10 +311,11 @@ The spinach light-harvesting complex II ([LHC-II](/xray-mp-wiki/proteins/photosy
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">RKTAGKPKTVQSS</span><span class="topo-outside">SPWYGPDRVKYLGPFSGESPSYLTGEFPGDYGWDTAGLSADPETFAK</span></span>
-<span class="topo-line"><span class="topo-outside">NREL</span><span class="topo-membrane">EVIHCRWAMLGALGCVFPELL</span><span class="topo-inside">ARNGVKFGEAV</span><span class="topo-unknown">WFKAGSQIF</span><span class="topo-inside">SEGGLDYLGNPSLVH</span></span>
-<span class="topo-line"><span class="topo-inside">AQS</span><span class="topo-membrane">ILAIWACQVILMGAVEGYR</span><span class="topo-outside">IAGGPLGEVVDPLYPGGSFDPLGLADDPEAFAELKVK</span><span class="topo-membrane">E</span></span>
-<span class="topo-line"><span class="topo-membrane">IKNGRLAMFSMFGFFVQAI</span><span class="topo-inside">VTGKG</span><span class="topo-unknown">PLENLADHLA</span><span class="topo-inside">DPVNNNAWNFATNFVPG</span><span class="topo-unknown">K</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">RKTAGKPKTVQSS</span><span class="topo-outside">SPWYGPDRVKYLGPFSGESPSYLTGEFPGDYGWDTAGLSADPETFAKNREL</span><span class="topo-membrane">EVIHCRWAMLGALGCVFPELL</span><span class="topo-inside">ARNGVKFGEAV</span><span class="topo-unknown">WFKAGSQIF</span><span class="topo-inside">SEGGLDYLGNPSLVH</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230  </span>
+<span class="topo-line"><span class="topo-inside">AQS</span><span class="topo-membrane">ILAIWACQVILMGAVEGYR</span><span class="topo-outside">IAGGPLGEVVDPLYPGGSFDPLGLADDPEAFAELKVK</span><span class="topo-membrane">EIKNGRLAMFSMFGFFVQAI</span><span class="topo-inside">VTGKG</span><span class="topo-unknown">PLENLADHLA</span><span class="topo-inside">DPVNNNAWNFATNFVPG</span><span class="topo-unknown">K</span></span>
+<details class="topo-details"><summary>Topology coordinates (13 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -413,6 +418,7 @@ The spinach light-harvesting complex II ([LHC-II](/xray-mp-wiki/proteins/photosy
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -455,10 +461,11 @@ The spinach light-harvesting complex II ([LHC-II](/xray-mp-wiki/proteins/photosy
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">TVQSS</span><span class="topo-inside">SPWYGPDRVKYLGPFSGESPSYLTGEFPGDYGWDTAGLSADPETFAKNRE</span><span class="topo-membrane">LEVIH</span></span>
-<span class="topo-line"><span class="topo-membrane">CRWAMLGALGCVFP</span><span class="topo-outside">ELLARNGVKFGEAVWFKAGSQIFSEGGLDYLGNPSLVHAQSIL</span><span class="topo-membrane">AIW</span></span>
-<span class="topo-line"><span class="topo-membrane">ACQVILMGAVEGYR</span><span class="topo-inside">IAGGPLGEVVDPLYPGGSFDPLGLADDPEAFAELKVK</span><span class="topo-membrane">EIKNGRLAM</span></span>
-<span class="topo-line"><span class="topo-membrane">FSMFGFFVQ</span><span class="topo-outside">AIVTGKG</span><span class="topo-unknown">PLENLADHLA</span><span class="topo-outside">DPVNNNA</span><span class="topo-unknown">WNFATNFVPGK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">TVQSS</span><span class="topo-inside">SPWYGPDRVKYLGPFSGESPSYLTGEFPGDYGWDTAGLSADPETFAKNRE</span><span class="topo-membrane">LEVIHCRWAMLGALGCVFP</span><span class="topo-outside">ELLARNGVKFGEAVWFKAGSQIFSEGGLDYLGNPSLVHAQSIL</span><span class="topo-membrane">AIW</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220    </span>
+<span class="topo-line"><span class="topo-membrane">ACQVILMGAVEGYR</span><span class="topo-inside">IAGGPLGEVVDPLYPGGSFDPLGLADDPEAFAELKVK</span><span class="topo-membrane">EIKNGRLAMFSMFGFFVQ</span><span class="topo-outside">AIVTGKG</span><span class="topo-unknown">PLENLADHLA</span><span class="topo-outside">DPVNNNA</span><span class="topo-unknown">WNFATNFVPGK</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -547,6 +554,7 @@ The spinach light-harvesting complex II ([LHC-II](/xray-mp-wiki/proteins/photosy
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -562,10 +570,11 @@ The spinach light-harvesting complex II ([LHC-II](/xray-mp-wiki/proteins/photosy
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">TVQSS</span><span class="topo-inside">SPWYGPDRVKYLGPFSGESPSYLTGEFPGDYGWDTAGLSADPETFAKNRE</span><span class="topo-membrane">LEVIH</span></span>
-<span class="topo-line"><span class="topo-membrane">CRWAMLGALGCVF</span><span class="topo-outside">PELLARNGVKFGEAVWFKAGSQIFSEGGLDYLGNPSLVHAQSIL</span><span class="topo-membrane">AIW</span></span>
-<span class="topo-line"><span class="topo-membrane">ACQVILMGAVEGYR</span><span class="topo-inside">IAGGPLGEVVDPLYPGGSFDPLGLADDPEAFAELKVK</span><span class="topo-membrane">EIKNGRLAM</span></span>
-<span class="topo-line"><span class="topo-membrane">FSMFGFFVQ</span><span class="topo-outside">AIVTGKG</span><span class="topo-unknown">PLENLADHLA</span><span class="topo-outside">DPVNNNA</span><span class="topo-unknown">WNFATNFVPGK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">TVQSS</span><span class="topo-inside">SPWYGPDRVKYLGPFSGESPSYLTGEFPGDYGWDTAGLSADPETFAKNRE</span><span class="topo-membrane">LEVIHCRWAMLGALGCVF</span><span class="topo-outside">PELLARNGVKFGEAVWFKAGSQIFSEGGLDYLGNPSLVHAQSIL</span><span class="topo-membrane">AIW</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220    </span>
+<span class="topo-line"><span class="topo-membrane">ACQVILMGAVEGYR</span><span class="topo-inside">IAGGPLGEVVDPLYPGGSFDPLGLADDPEAFAELKVK</span><span class="topo-membrane">EIKNGRLAMFSMFGFFVQ</span><span class="topo-outside">AIVTGKG</span><span class="topo-unknown">PLENLADHLA</span><span class="topo-outside">DPVNNNA</span><span class="topo-unknown">WNFATNFVPGK</span></span>
+<details class="topo-details"><summary>Topology coordinates (11 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -654,6 +663,7 @@ The spinach light-harvesting complex II ([LHC-II](/xray-mp-wiki/proteins/photosy
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -669,10 +679,11 @@ The spinach light-harvesting complex II ([LHC-II](/xray-mp-wiki/proteins/photosy
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">TVQSS</span><span class="topo-inside">SPWYGPDRVKYLGPFSGESPSYLTGEFPGDYGWDTAGLSADPETFAKNRE</span><span class="topo-membrane">LEVIH</span></span>
-<span class="topo-line"><span class="topo-membrane">CRWAMLGALGCVFP</span><span class="topo-outside">ELLARNGVKFGEAV</span><span class="topo-unknown">WFKAGSQIF</span><span class="topo-outside">SEGGLDYLGNPSLVHAQSIL</span><span class="topo-membrane">AIW</span></span>
-<span class="topo-line"><span class="topo-membrane">ACQVILMGAVEGYR</span><span class="topo-inside">IAGGPLGEVVDPLYPGGSFDPLGLADDPEAFAELKVK</span><span class="topo-membrane">EIKNGRLAM</span></span>
-<span class="topo-line"><span class="topo-membrane">FSMFGFFVQ</span><span class="topo-outside">AIVTGKG</span><span class="topo-unknown">PLENLADHLA</span><span class="topo-outside">DPVNNNA</span><span class="topo-unknown">WNFATNFVPGK</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">TVQSS</span><span class="topo-inside">SPWYGPDRVKYLGPFSGESPSYLTGEFPGDYGWDTAGLSADPETFAKNRE</span><span class="topo-membrane">LEVIHCRWAMLGALGCVFP</span><span class="topo-outside">ELLARNGVKFGEAV</span><span class="topo-unknown">WFKAGSQIF</span><span class="topo-outside">SEGGLDYLGNPSLVHAQSIL</span><span class="topo-membrane">AIW</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220    </span>
+<span class="topo-line"><span class="topo-membrane">ACQVILMGAVEGYR</span><span class="topo-inside">IAGGPLGEVVDPLYPGGSFDPLGLADDPEAFAELKVK</span><span class="topo-membrane">EIKNGRLAMFSMFGFFVQ</span><span class="topo-outside">AIVTGKG</span><span class="topo-unknown">PLENLADHLA</span><span class="topo-outside">DPVNNNA</span><span class="topo-unknown">WNFATNFVPGK</span></span>
+<details class="topo-details"><summary>Topology coordinates (13 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -775,6 +786,7 @@ The spinach light-harvesting complex II ([LHC-II](/xray-mp-wiki/proteins/photosy
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

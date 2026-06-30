@@ -111,15 +111,17 @@ Human [Glucose](/xray-mp-wiki/reagents/additives/glucose/) transporter 3 (GLUT3,
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MHHHHHHHHHHSGDEVDAGSGQVDAGT</span><span class="topo-outside">MGTQKVTPALIFAI</span><span class="topo-membrane">TVATIGSFQFGYNTGVINA</span></span>
-<span class="topo-line"><span class="topo-inside">PEKIIKEFITKTLTDKGNAPPSEVLLTSLWW</span><span class="topo-membrane">LSVAIFSVGGMIGSFSVGLF</span><span class="topo-outside">VNRFGRRNS</span></span>
-<span class="topo-line"><span class="topo-membrane">MLIVNLLAVTGGCFMGLC</span><span class="topo-inside">KVAKS</span><span class="topo-membrane">VEMLILGRLVIGLFCGLCTGFVP</span><span class="topo-outside">MYIGEISPTALRGA</span></span>
-<span class="topo-line"><span class="topo-membrane">FGTLNQLGIVVGILVAQIFGL</span><span class="topo-inside">EFILGSEEL</span><span class="topo-membrane">WPLLLGFTILPAILQSAAL</span><span class="topo-outside">PFCPESPRFLL</span></span>
-<span class="topo-line"><span class="topo-outside">INRKEEENAKQILQRLWGTQDVSQDIQEMKDESARMSQEKQVTVLELFRVSSYRQPI</span><span class="topo-membrane">IIS</span></span>
-<span class="topo-line"><span class="topo-membrane">IVLQLSQQLSGINAVFYYST</span><span class="topo-inside">GIFKDAGVQEPWY</span><span class="topo-membrane">ATIGAGVVNTIFTVVSLFLV</span><span class="topo-outside">ERAGR</span><span class="topo-membrane">RT</span></span>
-<span class="topo-line"><span class="topo-membrane">LHMIGLGGMAFCSTLMTVS</span><span class="topo-inside">LLLKDNYNGMSF</span><span class="topo-membrane">VCIGAILVFVAFFEIGPGPIPWFIV</span><span class="topo-outside">AELF</span></span>
-<span class="topo-line"><span class="topo-outside">SQGPRPAA</span><span class="topo-membrane">MAVAGCSNWTSNFLVGLLFPSAA</span><span class="topo-inside">HYLGA</span><span class="topo-membrane">YVFIIFTGFLITFLAFTFFKV</span><span class="topo-outside">PET</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MHHHHHHHHHHSGDEVDAGSGQVDAGT</span><span class="topo-outside">MGTQKVTPALIFAI</span><span class="topo-membrane">TVATIGSFQFGYNTGVINA</span><span class="topo-inside">PEKIIKEFITKTLTDKGNAPPSEVLLTSLWW</span><span class="topo-membrane">LSVAIFSVGGMIGSFSVGLF</span><span class="topo-outside">VNRFGRRNS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">MLIVNLLAVTGGCFMGLC</span><span class="topo-inside">KVAKS</span><span class="topo-membrane">VEMLILGRLVIGLFCGLCTGFVP</span><span class="topo-outside">MYIGEISPTALRGA</span><span class="topo-membrane">FGTLNQLGIVVGILVAQIFGL</span><span class="topo-inside">EFILGSEEL</span><span class="topo-membrane">WPLLLGFTILPAILQSAAL</span><span class="topo-outside">PFCPESPRFLL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">INRKEEENAKQILQRLWGTQDVSQDIQEMKDESARMSQEKQVTVLELFRVSSYRQPI</span><span class="topo-membrane">IISIVLQLSQQLSGINAVFYYST</span><span class="topo-inside">GIFKDAGVQEPWY</span><span class="topo-membrane">ATIGAGVVNTIFTVVSLFLV</span><span class="topo-outside">ERAGR</span><span class="topo-membrane">RT</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">LHMIGLGGMAFCSTLMTVS</span><span class="topo-inside">LLLKDNYNGMSF</span><span class="topo-membrane">VCIGAILVFVAFFEIGPGPIPWFIV</span><span class="topo-outside">AELFSQGPRPAA</span><span class="topo-membrane">MAVAGCSNWTSNFLVGLLFPSAA</span><span class="topo-inside">HYLGA</span><span class="topo-membrane">YVFIIFTGFLITFLAFTFFKV</span><span class="topo-outside">PET</span></span>
+<span class="topo-ruler">       490       500       510       520   </span>
 <span class="topo-line"><span class="topo-outside">RGRTFEDITRAFEGQAH</span><span class="topo-unknown">GADRSGKDGVMEMNSIEPAKETTTNV</span></span>
+<details class="topo-details"><summary>Topology coordinates (27 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -320,6 +322,7 @@ Human [Glucose](/xray-mp-wiki/reagents/additives/glucose/) transporter 3 (GLUT3,
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -335,15 +338,17 @@ Human [Glucose](/xray-mp-wiki/reagents/additives/glucose/) transporter 3 (GLUT3,
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MHHHHHHHHHHSGDEVDAGSGQVDAGTMGT</span><span class="topo-outside">QKVTPALI</span><span class="topo-membrane">FAITVATIGSFQFGYNTGVIN</span><span class="topo-inside">A</span></span>
-<span class="topo-line"><span class="topo-inside">PEKIIKEFITKTLTDKGNAPPSEVLLTSLWSL</span><span class="topo-membrane">SVAIFSVGGMIGSFSVGLF</span><span class="topo-outside">VNRFGRR</span><span class="topo-membrane">NS</span></span>
-<span class="topo-line"><span class="topo-membrane">MLIVNLLAVTGGCFMGL</span><span class="topo-inside">CKVAKSVEM</span><span class="topo-membrane">LILGRLVIGLFCGLCTGFVP</span><span class="topo-outside">MYIGEISPTALRGA</span></span>
-<span class="topo-line"><span class="topo-membrane">FGTLNQLGIVVGILVAQIF</span><span class="topo-inside">GLEFILGSEELWPL</span><span class="topo-membrane">LLGFTILPAILQSAALPF</span><span class="topo-outside">CPESPRFLL</span></span>
-<span class="topo-line"><span class="topo-outside">INRKEEENAKQILQRLWGTQDVSQDIQEMKDESARMSQEKQVTVLELFRVSSYRQPII</span><span class="topo-membrane">IS</span></span>
-<span class="topo-line"><span class="topo-membrane">IVLQLSQQLSGINAVFY</span><span class="topo-inside">YSTGIFKDAGVQEPIYAT</span><span class="topo-membrane">IGAGVVNTIFTVVSLFLV</span><span class="topo-outside">ERAGR</span><span class="topo-membrane">RT</span></span>
-<span class="topo-line"><span class="topo-membrane">LHMIGLGGMAFCSTLMTV</span><span class="topo-inside">SLLLKDNYNGMSFVC</span><span class="topo-membrane">IGAILVFVAFFEIGPGPIPWFI</span><span class="topo-outside">VAELF</span></span>
-<span class="topo-line"><span class="topo-outside">SQGPRPAAM</span><span class="topo-membrane">AVAGCSNWTSNFLVGLLFPSAA</span><span class="topo-inside">HYLGAY</span><span class="topo-membrane">VFIIFTGFLITFLAFTF</span><span class="topo-outside">FKVPET</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MHHHHHHHHHHSGDEVDAGSGQVDAGTMGT</span><span class="topo-outside">QKVTPALI</span><span class="topo-membrane">FAITVATIGSFQFGYNTGVIN</span><span class="topo-inside">APEKIIKEFITKTLTDKGNAPPSEVLLTSLWSL</span><span class="topo-membrane">SVAIFSVGGMIGSFSVGLF</span><span class="topo-outside">VNRFGRR</span><span class="topo-membrane">NS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">MLIVNLLAVTGGCFMGL</span><span class="topo-inside">CKVAKSVEM</span><span class="topo-membrane">LILGRLVIGLFCGLCTGFVP</span><span class="topo-outside">MYIGEISPTALRGA</span><span class="topo-membrane">FGTLNQLGIVVGILVAQIF</span><span class="topo-inside">GLEFILGSEELWPL</span><span class="topo-membrane">LLGFTILPAILQSAALPF</span><span class="topo-outside">CPESPRFLL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">INRKEEENAKQILQRLWGTQDVSQDIQEMKDESARMSQEKQVTVLELFRVSSYRQPII</span><span class="topo-membrane">ISIVLQLSQQLSGINAVFY</span><span class="topo-inside">YSTGIFKDAGVQEPIYAT</span><span class="topo-membrane">IGAGVVNTIFTVVSLFLV</span><span class="topo-outside">ERAGR</span><span class="topo-membrane">RT</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">LHMIGLGGMAFCSTLMTV</span><span class="topo-inside">SLLLKDNYNGMSFVC</span><span class="topo-membrane">IGAILVFVAFFEIGPGPIPWFI</span><span class="topo-outside">VAELFSQGPRPAAM</span><span class="topo-membrane">AVAGCSNWTSNFLVGLLFPSAA</span><span class="topo-inside">HYLGAY</span><span class="topo-membrane">VFIIFTGFLITFLAFTF</span><span class="topo-outside">FKVPET</span></span>
+<span class="topo-ruler">       490       500       510       520   </span>
 <span class="topo-line"><span class="topo-outside">RGRTFEDITRAFEGQAHG</span><span class="topo-unknown">ADRSGKDGVMEMNSIEPAKETTTNV</span></span>
+<details class="topo-details"><summary>Topology coordinates (27 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -544,6 +549,7 @@ Human [Glucose](/xray-mp-wiki/reagents/additives/glucose/) transporter 3 (GLUT3,
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
@@ -559,15 +565,17 @@ Human [Glucose](/xray-mp-wiki/reagents/additives/glucose/) transporter 3 (GLUT3,
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MHHHHHHHHHHSGDEVDAGSGQVDAGTMGT</span><span class="topo-outside">QKVTPALI</span><span class="topo-membrane">FAITVATIGSFQFGYNTGVI</span><span class="topo-inside">NA</span></span>
-<span class="topo-line"><span class="topo-inside">PEKIIKEFITKTLTDKGNAPPSEVLLTSLWSL</span><span class="topo-membrane">SVAIFSVGGMIGSFSVGLF</span><span class="topo-outside">VNRFGRR</span><span class="topo-membrane">NS</span></span>
-<span class="topo-line"><span class="topo-membrane">MLIVNLLAVTGGCFMGL</span><span class="topo-inside">CKVAKSVEM</span><span class="topo-membrane">LILGRLVIGLFCGLCTGFVPM</span><span class="topo-outside">YIGEISPTALRGA</span></span>
-<span class="topo-line"><span class="topo-membrane">FGTLNQLGIVVGILVAQIF</span><span class="topo-inside">GLEFILGSEELWPL</span><span class="topo-membrane">LLGFTILPAILQSAALPFC</span><span class="topo-outside">PESPRFLL</span></span>
-<span class="topo-line"><span class="topo-outside">INRKEEENAKQILQRLWGTQDVSQDIQEMKDESARMSQEKQVTVLELFRVSSYRQPII</span><span class="topo-membrane">IS</span></span>
-<span class="topo-line"><span class="topo-membrane">IVLQLSQQLSGINAVFY</span><span class="topo-inside">YSTGIFKDAGVQEPIYAT</span><span class="topo-membrane">IGAGVVNTIFTVVSLFLV</span><span class="topo-outside">ERAGR</span><span class="topo-membrane">RT</span></span>
-<span class="topo-line"><span class="topo-membrane">LHMIGLGGMAFCSTLMTV</span><span class="topo-inside">SLLLKDNYNGMSFVC</span><span class="topo-membrane">IGAILVFVAFFEIGPGPIPWFIV</span><span class="topo-outside">AELF</span></span>
-<span class="topo-line"><span class="topo-outside">SQGPRPAAM</span><span class="topo-membrane">AVAGCSNWTSNFLVGLLFPSAA</span><span class="topo-inside">HYLGAY</span><span class="topo-membrane">VFIIFTGFLITFLAFTF</span><span class="topo-outside">FKVPET</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MHHHHHHHHHHSGDEVDAGSGQVDAGTMGT</span><span class="topo-outside">QKVTPALI</span><span class="topo-membrane">FAITVATIGSFQFGYNTGVI</span><span class="topo-inside">NAPEKIIKEFITKTLTDKGNAPPSEVLLTSLWSL</span><span class="topo-membrane">SVAIFSVGGMIGSFSVGLF</span><span class="topo-outside">VNRFGRR</span><span class="topo-membrane">NS</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">MLIVNLLAVTGGCFMGL</span><span class="topo-inside">CKVAKSVEM</span><span class="topo-membrane">LILGRLVIGLFCGLCTGFVPM</span><span class="topo-outside">YIGEISPTALRGA</span><span class="topo-membrane">FGTLNQLGIVVGILVAQIF</span><span class="topo-inside">GLEFILGSEELWPL</span><span class="topo-membrane">LLGFTILPAILQSAALPFC</span><span class="topo-outside">PESPRFLL</span></span>
+<span class="topo-ruler">       250       260       270       280       290       300       310       320       330       340       350       360</span>
+<span class="topo-line"><span class="topo-outside">INRKEEENAKQILQRLWGTQDVSQDIQEMKDESARMSQEKQVTVLELFRVSSYRQPII</span><span class="topo-membrane">ISIVLQLSQQLSGINAVFY</span><span class="topo-inside">YSTGIFKDAGVQEPIYAT</span><span class="topo-membrane">IGAGVVNTIFTVVSLFLV</span><span class="topo-outside">ERAGR</span><span class="topo-membrane">RT</span></span>
+<span class="topo-ruler">       370       380       390       400       410       420       430       440       450       460       470       480</span>
+<span class="topo-line"><span class="topo-membrane">LHMIGLGGMAFCSTLMTV</span><span class="topo-inside">SLLLKDNYNGMSFVC</span><span class="topo-membrane">IGAILVFVAFFEIGPGPIPWFIV</span><span class="topo-outside">AELFSQGPRPAAM</span><span class="topo-membrane">AVAGCSNWTSNFLVGLLFPSAA</span><span class="topo-inside">HYLGAY</span><span class="topo-membrane">VFIIFTGFLITFLAFTF</span><span class="topo-outside">FKVPET</span></span>
+<span class="topo-ruler">       490       500       510       520   </span>
 <span class="topo-line"><span class="topo-outside">RGRTFEDITRAFEGQAHG</span><span class="topo-unknown">ADRSGKDGVMEMNSIEPAKETTTNV</span></span>
+<details class="topo-details"><summary>Topology coordinates (27 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -768,6 +776,7 @@ Human [Glucose](/xray-mp-wiki/reagents/additives/glucose/) transporter 3 (GLUT3,
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>

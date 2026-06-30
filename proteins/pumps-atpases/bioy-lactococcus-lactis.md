@@ -158,10 +158,11 @@ BioY is the biotin-specific S component of the Energy-Coupling Factor (ECF) tran
 <span class="topo-unknown-legend">&#9608; Unknown</span>
 </div>
 <div class="sequence-text">
-<span class="topo-line"><span class="topo-unknown">MHHHHHHHH</span><span class="topo-outside">AMTNNQKVKTLTYS</span><span class="topo-membrane">AFMTAFIIILGFLPG</span><span class="topo-inside">IPIGFIPVPI</span><span class="topo-membrane">ILQNMGIMMAG</span><span class="topo-outside">G</span></span>
-<span class="topo-line"><span class="topo-outside">LLGPKY</span><span class="topo-membrane">GTISVGAFLALALIGL</span><span class="topo-inside">PVLTGGNGGAASFLGPS</span><span class="topo-membrane">GGYRIAWLFTPFLI</span><span class="topo-outside">GFFLKKL</span></span>
-<span class="topo-line"><span class="topo-outside">KITTSQNWFGEL</span><span class="topo-membrane">IIVLLFGVIFVDFVGAIW</span><span class="topo-inside">LSFQSNIP</span><span class="topo-unknown">LLTSLISN</span><span class="topo-membrane">LVFIPGDCIKAILT</span></span>
-<span class="topo-line"><span class="topo-membrane">VVI</span><span class="topo-outside">VRRLRKQGGFELYFR</span></span>
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MHHHHHHHH</span><span class="topo-outside">AMTNNQKVKTLTYS</span><span class="topo-membrane">AFMTAFIIILGFLPG</span><span class="topo-inside">IPIGFIPVPI</span><span class="topo-membrane">ILQNMGIMMAG</span><span class="topo-outside">GLLGPKY</span><span class="topo-membrane">GTISVGAFLALALIGL</span><span class="topo-inside">PVLTGGNGGAASFLGPS</span><span class="topo-membrane">GGYRIAWLFTPFLI</span><span class="topo-outside">GFFLKKL</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190        </span>
+<span class="topo-line"><span class="topo-outside">KITTSQNWFGEL</span><span class="topo-membrane">IIVLLFGVIFVDFVGAIW</span><span class="topo-inside">LSFQSNIP</span><span class="topo-unknown">LLTSLISN</span><span class="topo-membrane">LVFIPGDCIKAILTVVI</span><span class="topo-outside">VRRLRKQGGFELYFR</span></span>
+<details class="topo-details"><summary>Topology coordinates (15 regions)</summary>
 <table class="wiki-mini-table">
   <thead><tr>
     <th>Begin</th>
@@ -278,6 +279,7 @@ BioY is the biotin-specific S component of the Energy-Coupling Factor (ECF) tran
     </tr>
   </tbody>
 </table>
+</details>
 </div>
 </div>
 </div>
